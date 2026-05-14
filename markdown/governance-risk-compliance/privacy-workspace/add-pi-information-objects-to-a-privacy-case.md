@@ -21,7 +21,7 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## About this task
 
-\[PI\] information objects represent types of data that have been classified as personal information in your organization, such as email addresses, bank account numbers, or educational details. Only information objects that have been classified as personal information appear in the \[PI\] Information objects list. For more information, refer to [Classify information objects as personal information](tag-io-with-pi.md).
+\[PI\] information objects represent types of data that have been classified as personal information in your organization, such as email addresses, bank account numbers, or educational details. Only information objects that have been classified as personal information appear in the \[PI\] Information objects list. For more information, refer to [Classify information objects as personal information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/tag-io-with-pi.md).
 
 ## Procedure
 
@@ -44,12 +44,12 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## What to do next
 
-After adding PI information objects, add key stakeholders to the privacy case. For more information, see [Add key stakeholders to a privacy case](add-keystakeholders-to-privacy-case.md).
+After adding PI information objects, add key stakeholders to the privacy case. For more information, see [Add key stakeholders to a privacy case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-keystakeholders-to-privacy-case.md).
 
-**Parent Topic:**[Using Privacy Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-pcm.md)
 
 **Related topics**  
 
 
-[Information objects in Privacy Management](../concept/information-object-in-privacy.md)
+[Information objects in Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/information-object-in-privacy.md)
 

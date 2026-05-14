@@ -29,7 +29,7 @@ To enable TPR assessors to modify responses, configure the **Allow TPR assessors
 -   Enable TPR assessors to modify responses
 -   Do not enable TPR assessors to answer questions or modify responses
 
-See [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
+See [Configure TPRM properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-properties-configure.md).
 
 ## Procedure
 
@@ -130,7 +130,7 @@ Description
 
 </td><td>
 
-Select **Create Issue**. A message with the issue number appears, and each question with an issue shows an icon to indicate that you can’t create a new issue for the question. The indicator is removed when the issue is closed or canceled.![Question with an issue.](../image/ws-issue-icon.png)
+Select **Create Issue**. A message with the issue number appears, and each question with an issue shows an icon to indicate that you can’t create a new issue for the question. The indicator is removed when the issue is closed or canceled.![Question with an issue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/ws-issue-icon.png)
 
  **Note:** This is available when you’re using the Classic assessment engine.
 

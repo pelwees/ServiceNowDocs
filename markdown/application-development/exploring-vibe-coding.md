@@ -18,7 +18,7 @@ To vibe code on the ServiceNow AI Platform, you interact with tools through a mu
 
 The ServiceNow core offerings for vibe coding and AI-assisted development include several products, such as Build Agent, Now Assist for Creator, built-in security and governance, and an enhanced developer experience.
 
-![Differences between vibe coding and traditional development](../image/vc-vs-trad.png "Vibe coding vs. traditional development")
+![Differences between vibe coding and traditional development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vc-vs-trad.png "Vibe coding vs. traditional development")
 
 ## Build Agent and AI-assisted development
 
@@ -50,7 +50,7 @@ Security and governance enforces enterprise standards for every vibe-coded app w
 -   ServiceNow Vault Console enables you to discover and protect sensitive data across workflows.
 -   Machine Identity Console helps you govern API connections and authenticate AI agents.
 
-For details on security and governance and AI-assisted development, see [Governance for vibe coding and AI-assisted app development](vc-governance.md).
+For details on security and governance and AI-assisted development, see [Governance for vibe coding and AI-assisted app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-governance.md).
 
 ## Enhanced developer experience
 
@@ -74,7 +74,7 @@ An enhanced developer experience for AI-assisted development is available in the
 
 To learn more about vibe coding and AI-assisted development on the ServiceNow AI Platform, see:
 
--   [Onboarding for vibe coding and AI-assisted development](vibe-coding-onboarding.md)
--   [Vibe coding and AI-assisted development on the ServiceNow AI Platform](vibe-coding-using.md)
--   [Vibe coding and AI-assisted development reference](../reference/vibe-coding-reference-landing.md)
+-   [Onboarding for vibe coding and AI-assisted development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-onboarding.md)
+-   [Vibe coding and AI-assisted development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-coding-using.md)
+-   [Vibe coding and AI-assisted development reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/vibe-coding-reference-landing.md)
 

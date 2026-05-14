@@ -28,7 +28,7 @@ Role required: admin
 
 3.  On the new Visualization widget form, enter the required details.
 
-    For a full description of each field, see [Visualization widget fields](../../security-exposure-management-administration/reference/sem-vis-widget-fields.md).
+    For a full description of each field, see [Visualization widget fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-administration/reference/sem-vis-widget-fields.md).
 
 4.  Select **Save**.
 
@@ -42,5 +42,5 @@ The widget is now saved to the **Visualization Library** and can be used when cr
 -   You can create or update widgets in the **Findings view**, but not in the **Remediation overview** page. Widgets in the **Remediation overview** are predefined and cannot be created or edited. You can only change their display order or activate or deactivate them.
 -   Only the widgets marked **Active** = true appear in the dashboard creation view.
 
-**Parent Topic:**[Configure Visualization library](sem-configure-visualization-library.md)
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 

@@ -232,5 +232,5 @@ Name of the third party application associated with the invoice.
 String
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound Invoice Fields](inbound-invoice-fields.md)
+</table>**Parent Topic:**[Inbound Invoice Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-fields.md)
 

@@ -23,7 +23,7 @@ When a Scan Engine run detects findings in your instance, Real-time prevention m
 
 The diagram indicates the overall flow of the steps to fix a general guidelines finding.
 
-![Flow chart to fix a general guidelines finding outlining the required steps.](../image/real-time-agent-fix-code-flow.png)
+![Flow chart to fix a general guidelines finding outlining the required steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/real-time-agent-fix-code-flow.png)
 
 ## Procedure
 

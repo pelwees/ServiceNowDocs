@@ -47,5 +47,5 @@ Role required: admin
     If Windows is unable to find the program, close and reopen the command prompt window to refresh the path.
 
 
-**Parent Topic:**[Install the ServiceNow CLI](download-cli.md)
+**Parent Topic:**[Install the ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/download-cli.md)
 

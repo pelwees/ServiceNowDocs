@@ -35,15 +35,15 @@ Service Level Objective Management \(SLO Management\) helps your organization de
 
 <table id="table_b4x_psb_4bc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Level Objective Management concepts and features.](../concept/exploring-service-level-objective-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Level Objective Management concepts and features.](../concept/exploring-service-level-objective-management.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Using Service Level Objective Management](../task/using-service-level-objective-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Using Service Level Objective Management](../task/using-service-level-objective-management.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Service Level Objective Management components, such as fields, tables, and properties.](service-level-objective-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Service Level Objective Management components, such as fields, tables, and properties.](service-level-objective-management-reference.md)
 
 </td><td>
 

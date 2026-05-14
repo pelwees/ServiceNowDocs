@@ -82,5 +82,5 @@ The expanded drop-down menus for column properties can be ready by screen reader
     The ServiceNow® Now Assist Skill Kit enables you to create and publish custom prompts and skills for Now Assist.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

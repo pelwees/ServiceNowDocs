@@ -27,19 +27,19 @@ You can set the preferential order of records.
 
 1.  Click the **Rank** button in the related list to reorder the records.
 
-    ![Click Rank to sort incidents](../image/ClickRankToSortIncidents.png)
+    ![Click Rank to sort incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/ClickRankToSortIncidents.png)
 
     The Rank dialog box appears, allowing you to sort the records in any order.
 
-    ![Rank dialog box](../image/RankDialogBox.png)
+    ![Rank dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/RankDialogBox.png)
 
-2.  Click and drag the move icon \(![Move icon](../image/MoveIcon.png)\) to change the position of a record.
+2.  Click and drag the move icon \(![Move icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/MoveIcon.png)\) to change the position of a record.
 
     **Note:** Administrators can define which columns appear in the Rank dialog box in the **Attributes** field of the Ranking Definition form.
 
 
--   **[Apply a new sort order to a list](t_ApplyANewSortOrderToAList.md)**  
+-   **[Apply a new sort order to a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ApplyANewSortOrderToAList.md)**  
 You can apply a new sort order to the records in a list.
 
-**Parent Topic:**[Context ranking](../reference/r_ContextRanking.md)
+**Parent Topic:**[Context ranking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../reference/r_ContextRanking.md)
 

@@ -45,7 +45,7 @@ Role required: AI Asset Owner or AI Risk and Compliance Analyst \[sn\_grc\_ai\_g
 
 ## What to do next
 
-[Perform risk assessments on AI systems](perform-risk-assessments-on-ai-systems.md)
+[Perform risk assessments on AI systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-risk-assessments-on-ai-systems.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

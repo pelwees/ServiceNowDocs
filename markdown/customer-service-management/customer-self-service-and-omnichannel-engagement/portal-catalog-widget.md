@@ -15,7 +15,7 @@ breadcrumb: [Configurable Portal widgets, Set up self-service, Configure, Custom
 
 The Portal Catalog Quick Links widget displays catalog items according to filter criteria, enabling you to include an image, icon, name, and description on the card.
 
-![Portal Catalog Quick Links widget displaying different catalog items.](../image/portal-cat-quick-links-widget.png "Portal Catalog Quick Links widget")
+![Portal Catalog Quick Links widget displaying different catalog items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-cat-quick-links-widget.png "Portal Catalog Quick Links widget")
 
-For more information about how to configure the instance options for Portal Catalog Quick Links, see [Add and configure the Portal Catalog Quick Links widget](../task/config-cat-quick-links-inst-optns.md).
+For more information about how to configure the instance options for Portal Catalog Quick Links, see [Add and configure the Portal Catalog Quick Links widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-cat-quick-links-inst-optns.md).
 

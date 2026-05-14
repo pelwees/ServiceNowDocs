@@ -46,7 +46,7 @@ Role required: admin
 **Related topics**  
 
 
-[Service Graph Connector for OpenTelemetry properties](../reference/sgc-cmdb-otel-props.md)
+[Service Graph Connector for OpenTelemetry properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-otel-props.md)
 
-[Accessing the connection details of Service Graph Connectors](integration-commons-conn-fw.md)
+[Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integration-commons-conn-fw.md)
 

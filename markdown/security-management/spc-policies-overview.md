@@ -75,21 +75,21 @@ For example, say a policy looks for all the hardware assets that are reported by
 
 ## Policies included with the application
 
-Activate the asset proﬁles and policies in the Security Posture Control workspace that are [Included with the application](spc-polices-included.md) so that you can identify gaps in configuration or coverage for security tools.
+Activate the asset proﬁles and policies in the Security Posture Control workspace that are [Included with the application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-polices-included.md) so that you can identify gaps in configuration or coverage for security tools.
 
 ## Creating your own policies
 
-See [Creating your own policies in the Security Posture Control application](../task/spc-creating-policies.md) for more information about how to create your own policies.
+See [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/spc-creating-policies.md) for more information about how to create your own policies.
 
-For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](spc-policy-examples.md).
+For example policies, see [Examples of base, child, and cloned policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-policy-examples.md).
 
-See [Create and activate custom policies for Security Posture Control](../task/spc-create-policy.md) for more information about the steps required to create a policy.
+See [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/spc-create-policy.md) for more information about the steps required to create a policy.
 
 ## Supported SGCs
 
-For a list of some of the supported service graph connectors, see [Supported hardware service graph connectors for Security Posture Control](../reference/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](../reference/spc-connector-types-ci-classes.md).
+For a list of some of the supported service graph connectors, see [Supported hardware service graph connectors for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/spc-connector-types-ci-classes.md).
 
 ## Mitigation Controls policies
 
-From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured. See [Mitigation controls policies](spc-mitigation-policies.md) for more information.
+From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured. See [Mitigation controls policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-mitigation-policies.md) for more information.
 

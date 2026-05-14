@@ -65,12 +65,12 @@ This field is displayed when the File Type is selected as **URL**.
  Enter the URL associated with the architectural artifact.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create an architectural artifact and associate it with a business application](../../task/eaw-task/eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-assoicate-artifact-ba.md)
 
-[Create or edit an architectural artifact from Portfolio page](../../task/eaw-task/eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-architectural-artifact.md)
 

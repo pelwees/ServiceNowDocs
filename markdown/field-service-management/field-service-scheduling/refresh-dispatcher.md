@@ -31,7 +31,7 @@ Reloading Dispatcher Workspace is important if you want to get the latest data w
 
 2.  Select **Dispatcher workspace**.
 
-3.  Select the Refresh icon ![Refresh icon](../image/refresh-icon.png).
+3.  Select the Refresh icon ![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/refresh-icon.png).
 
     Dispatcher Workspace refreshes.
 

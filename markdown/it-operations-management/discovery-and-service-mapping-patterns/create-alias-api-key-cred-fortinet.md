@@ -17,7 +17,7 @@ Create an alias and add it to an API key credential to discover Fortinet firewal
 
 ## Before you begin
 
-Create an API Token in Fortinet. For more information, see the [Create API Token](../reference/fortinet-fw-vdoms-rest-discovery.md#create-fortinet-api-token) prerequisite in [Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md).
+Create an API Token in Fortinet. For more information, see the [Create API Token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/fortinet-fw-vdoms-rest-discovery.md#create-fortinet-api-token) prerequisite in [Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/fortinet-fw-vdoms-rest-discovery.md).
 
 Role required: discovery\_admin
 
@@ -52,10 +52,10 @@ Role required: discovery\_admin
 
 ## What to do next
 
-Create a serverless schedule for Fortinet Firewall REST-based discovery. For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](create-serverless-schedule-fortinet.md).
+Create a serverless schedule for Fortinet Firewall REST-based discovery. For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-fortinet.md).
 
 **Related topics**  
 
 
-[Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md)
+[Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/fortinet-fw-vdoms-rest-discovery.md)
 

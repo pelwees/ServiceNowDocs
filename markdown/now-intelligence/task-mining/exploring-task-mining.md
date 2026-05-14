@@ -31,7 +31,7 @@ Task Mining combines a desktop agent, workstation user activities, and dashboard
 
 The following workflow shows the primary activities for using Task Mining.
 
-![Infographic showing how users create Task Mining projects, submit data requests, and categorize activities to create insightful dashboards. For details, refer to the following description.](../image/task-mining-workflow.png "Task Mining workflow")
+![Infographic showing how users create Task Mining projects, submit data requests, and categorize activities to create insightful dashboards. For details, refer to the following description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/task-mining-workflow.png "Task Mining workflow")
 
 1.  As an admin, you configure Task Mining, including modifying notifications, data retention, and event filters.
 2.  As a Task Mining analyst or power user, you create Task Mining projects to analyze team activities, identify insights, and support business decisions.
@@ -95,7 +95,7 @@ Explore application use beyond the ServiceNow AI Platform to understand how appl
 
 To learn more about configuring and using Task Mining, see the following topics:
 
--   [Configuring Task Mining](configuring-task-mining.md)
--   [Using Task Mining](using-task-mining.md)
--   [Task Mining Reference](reference-task-mining.md)
+-   [Configuring Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/configuring-task-mining.md)
+-   [Using Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/using-task-mining.md)
+-   [Task Mining Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 

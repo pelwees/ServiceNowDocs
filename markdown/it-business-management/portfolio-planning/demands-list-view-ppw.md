@@ -17,7 +17,7 @@ The **All Demands** home page displays demands in a list view and contains speci
 
 ## Actions
 
-The actions available on the home page are listed in this table.![UI Actions in the All Demands list view.](../images/ppw-all-demands-list.png)
+The actions available on the home page are listed in this table.![UI Actions in the All Demands list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/ppw-all-demands-list.png)
 
 |Feature|Description|
 |-------|-----------|
@@ -51,7 +51,7 @@ Column actions
 
 </td><td>
 
-Group the demands by a column field using the action on the header. Point your mouse device to a column header to see the context menu icon \(![Row context menu.](../../project-workspace/image/icon-row-context-menu.png)\).
+Group the demands by a column field using the action on the header. Point your mouse device to a column header to see the context menu icon \(![Row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../project-workspace/image/icon-row-context-menu.png)\).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Enables the dragging of the columns to a position of your choice on the grid.
 
 </td></tr><tr><td>
 
-Select row \(![Select row.](../../alignment-planner-workspace/images/icon-select.png)\)
+Select row \(![Select row.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-select.png)\)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Cell actions
 
 </td><td>
 
-Show matching or filter out demands by selecting the cell context menu \(![Context menu.](../../project-workspace/image/icon-row-context-menu.png)\) or select and hold \(or right-click\) a cell.
+Show matching or filter out demands by selecting the cell context menu \(![Context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../project-workspace/image/icon-row-context-menu.png)\) or select and hold \(or right-click\) a cell.
 
 </td></tr></tbody>
 </table>

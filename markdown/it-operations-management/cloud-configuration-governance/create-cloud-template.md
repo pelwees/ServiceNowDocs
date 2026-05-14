@@ -45,7 +45,7 @@ You can update a template as often as needed. With each update, a new version of
 
 </td><td>
 
-Import a template by specifying a public URL where the template resides. Select this option and then click the lock icon \(![Lock image](../image/icon_lock.png)\) to unlock the **Cloud template URL** field. Enter the public URL in this field.**Note:** For the public URL, we support only HTTP and HTTPS protocols, and do not support FTP. Ensure that the size of the template does not exceed the default value of 3 MB. You can change the default value of the file size by changing the value in the **sn\_cmp.template\_content\_size\_supported\_inbytes** property in the sys\_properties table. Enter the file size in bytes. There's also a default time-out of five minutes for an HTTP request. You can change the time-out value in the **sn\_cmp.template\_url\_import\_http\_timeout** property in the sys\_properties table. Enter the new value in milliseconds.
+Import a template by specifying a public URL where the template resides. Select this option and then click the lock icon \(![Lock image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon_lock.png)\) to unlock the **Cloud template URL** field. Enter the public URL in this field.**Note:** For the public URL, we support only HTTP and HTTPS protocols, and do not support FTP. Ensure that the size of the template does not exceed the default value of 3 MB. You can change the default value of the file size by changing the value in the **sn\_cmp.template\_content\_size\_supported\_inbytes** property in the sys\_properties table. Enter the file size in bytes. There's also a default time-out of five minutes for an HTTP request. You can change the time-out value in the **sn\_cmp.template\_url\_import\_http\_timeout** property in the sys\_properties table. Enter the new value in milliseconds.
 
 </td></tr><tr><td id="d293401e168">
 
@@ -74,9 +74,9 @@ Paste the contents of the template file in the **Body** field.
 
     **Note:** The first version of a template that you create and publish has no conflict issues. If you update the template, a conflict can arise. If a parameter **Action Type** has the value **Update**, then specify a value for **Decision**.
 
-    ![Template version parameters](../image/template-parameters.png)
+    ![Template version parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/template-parameters.png)
 
-6.  Open each parameter with a **Decision** value of **Pending**, select a value, and then click the check mark ![Check mark](../image/icon-check-mark.png).
+6.  Open each parameter with a **Decision** value of **Pending**, select a value, and then click the check mark ![Check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-check-mark.png).
 
 <table id="choicetable_o1l_h5r_cgb"><tbody><tr><td id="d293401e268">
 

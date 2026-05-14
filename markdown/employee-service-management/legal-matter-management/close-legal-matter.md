@@ -31,7 +31,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -87,5 +87,5 @@ The state of the legal matter updates to Work in Progress.
     -   The state is either Assigned or Work in Progress.
     -   The requests are not associated with any other open matters.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

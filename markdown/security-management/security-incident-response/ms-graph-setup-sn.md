@@ -57,7 +57,7 @@ Register your application in the Microsoft Azure portal.
 
 </td><td>
 
-Before you can ingest alerts, you must configure your application in the Microsoft Azure portal. See [Configure the Microsoft Azure portal](ms-graph-configure-azure.md) for details.
+Before you can ingest alerts, you must configure your application in the Microsoft Azure portal. See [Configure the Microsoft Azure portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-graph-configure-azure.md) for details.
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Verify that the following Security Operations applications are installed and act
 **Note:** The Integration Hub components are installed along with the Event and Alert Ingestion plugin. If these are not installed, contact Customer Support for assistance.
 
 
- For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](../../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>

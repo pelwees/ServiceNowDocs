@@ -74,10 +74,10 @@ Access the Usage Dashboard by navigating to **All** &gt; **Workflow Data Fabric 
 
 -   **Overall usage tab**
 
-    Provides a detailed analysis of credit usage with specific KPIs and a usage trend chart. View data by total credits entitled, credits used, daily average, credits remaining, and overall usage trend.![Screenshot showing an Overall usage analysis in the Usage Dashboard.](../images/tokens-dashboard-overall.png)
+    Provides a detailed analysis of credit usage with specific KPIs and a usage trend chart. View data by total credits entitled, credits used, daily average, credits remaining, and overall usage trend.![Screenshot showing an Overall usage analysis in the Usage Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/tokens-dashboard-overall.png)
 
 -   **Product breakdown tab**
 
-    Provides an overview of credit usage by product. You can filter the data that is displayed by date range and selected product. View the usage trend by product and detailed product metrics.![Screenshot showing a product breakdown analysis in the Usage Dashboard.](../images/tokens-dashboard-product.png)
+    Provides an overview of credit usage by product. You can filter the data that is displayed by date range and selected product. View the usage trend by product and detailed product metrics.![Screenshot showing a product breakdown analysis in the Usage Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/tokens-dashboard-product.png)
 
 

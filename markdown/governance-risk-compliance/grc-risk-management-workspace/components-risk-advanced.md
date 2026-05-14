@@ -19,12 +19,12 @@ Activating the GRC: Advanced Risk \(sn\_risk\_advanced\) plugin adds or modifies
 
 **Note:** Demo data is available for this feature.
 
--   **[Tables installed with Advanced Risk](tables-installed-advanced-risk.md)**  
+-   **[Tables installed with Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/tables-installed-advanced-risk.md)**  
 Tables are added with activation of GRC: Advanced Risk.
--   **[Roles for performing advanced risk assessment](roles-for-ara.md)**  
+-   **[Roles for performing advanced risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/roles-for-ara.md)**  
 When you integrate advanced risk assessment with other applications, you must ensure the users have the necessary roles to perform and approve the assessments.
--   **[Properties installed with Advanced Risk](../../grc-common/reference/advanced-risk-properties.md)**  
+-   **[Properties installed with Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/reference/advanced-risk-properties.md)**  
 Properties are added with activation of GRC: Advanced Risk. There are also properties that are available for the various capabilities such as risk events and advanced risk assessments.
 
-**Parent Topic:**[Risk Management reference](risk-management-reference.md)
+**Parent Topic:**[Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-management-reference.md)
 

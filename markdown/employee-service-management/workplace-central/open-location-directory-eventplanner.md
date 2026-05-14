@@ -37,11 +37,11 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
 
 1.  Navigate to **All** &gt; **Workplace Central**.
 
-2.  Select the **Event Planner** icon \(![Event planner icon.](../images/event-planner-icon.png)\).
+2.  Select the **Event Planner** icon \(![Event planner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/event-planner-icon.png)\).
 
     The Event planner home page is displayed.
 
-    ![Event planner home page showing the Open Location directory option.](../images/wsd-event-planner-homepage.png)
+    ![Event planner home page showing the Open Location directory option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-event-planner-homepage.png)
 
 3.  Select the **Open location directory** option.
 
@@ -53,7 +53,7 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
 
 5.  Select **Open Location Directory** from the Scheduled view page.
 
-    ![Event planner Scheduled view showing the Open Location Directory option.](../images/wsd-eventplanner-scheduledview-use.png)
+    ![Event planner Scheduled view showing the Open Location Directory option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-eventplanner-scheduledview-use.png)
 
     1.  Based on your selection of a campus, building, or floor on the Scheduled view, the following options are displayed:
 
@@ -75,5 +75,5 @@ Role required: sn\_wsd\_rsv.reservation\_viewer
         "Looks like this location doesn't exist." You are redirected to the default Card view.
 
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-event-planner.md)
 

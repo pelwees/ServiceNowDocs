@@ -32,7 +32,7 @@ The skill collects data from predefined fields across the compliance case record
 
 **Important:** Be sure to check AI-generated summaries for accuracy.
 
-If the **Summarize** option isn’t visible, the skill has to be activated by an admin. For instructions, refer to [Activate the GRC case summarization skill](activate-grc-case-summarization-skill.md).
+If the **Summarize** option isn’t visible, the skill has to be activated by an admin. For instructions, refer to [Activate the GRC case summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-grc-case-summarization-skill.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ If the **Summarize** option isn’t visible, the skill has to be activated by an
 
 6.  Select **Summarize**.
 
-    The summary is displayed. For a description of each section included in the summary, see [Components of a compliance case summary](../../grc-common/concept/compliance-case-summarization-skill.md#section_yyd_glz_k3c).
+    The summary is displayed. For a description of each section included in the summary, see [Components of a compliance case summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/concept/compliance-case-summarization-skill.md#section_yyd_glz_k3c).
 
 7.  Review the summary and complete any of the following options.
 
@@ -78,7 +78,7 @@ Once saved to the case record, the summary appears in the **Overview** tab and i
 
 </td><td>
 
-Select the information icon \(![Info icon](../../grc-common/image/icon-more-info.png)\) next to **Compliance case summarized by Now Assist** to view a disclaimer about AI-generated content:
+Select the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/image/icon-more-info.png)\) next to **Compliance case summarized by Now Assist** to view a disclaimer about AI-generated content:
 
  **"AI summarized this using the record details. Check it for accuracy.**
 
@@ -90,7 +90,7 @@ Select the information icon \(![Info icon](../../grc-common/image/icon-more-info
 
 Select **View less** to collapse the summary partially, or **View more** to expand it.
 
- Alternatively, select the **Expand card** icon \(![Expand icon.](5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or **Collapse card** icon \(![Collapse icon.](80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to **Share to case summary** to fully expand or collapse the summary.
+ Alternatively, select the **Expand card** icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or **Collapse card** icon \(![Collapse icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to **Share to case summary** to fully expand or collapse the summary.
 
 </td></tr><tr><td id="d258308e306">
 
@@ -98,7 +98,7 @@ Select **View less** to collapse the summary partially, or **View more** to expa
 
 </td><td>
 
-Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
+Select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
 
 **Note:** User feedback doesn't affect future LLM outputs. It’s collected by ServiceNow® for internal quality monitoring only.
 
@@ -108,7 +108,7 @@ Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894
 
 </td><td>
 
-Select the copy icon \(![Copy icon.](d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
+Select the copy icon \(![Copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
 
 </td></tr><tr><td id="d258308e355">
 

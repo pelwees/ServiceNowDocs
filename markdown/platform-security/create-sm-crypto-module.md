@@ -36,7 +36,7 @@ Role required:
 
 3.  In the **Cryptographic Module** form, fill in the fields.
 
-    ![Cryptographic module form](../images/crypto-module-form.png)
+    ![Cryptographic module form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/crypto-module-form.png)
 
 <table id="table_hrr_lnm_ltb"><thead><tr><th>
 
@@ -117,5 +117,5 @@ The parent cryptographic module, which is determined by the cryptographic module
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Secrets Management dashboard](../concept/secrets-dashboard.md)
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/secrets-dashboard.md)
 

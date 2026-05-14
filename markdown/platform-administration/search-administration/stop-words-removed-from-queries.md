@@ -26,41 +26,41 @@ By default, the system maintains two types of stop words.
 
 By default, the system has stops words for common English words. Search administrators typically create stop words from search terms that produce too many search results such as articles, conjunctions, personal pronouns, and prepositions.
 
--   **[Configure a global stop word](../task/t_ConfigureAGlobalStopWord.md)**  
+-   **[Configure a global stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ConfigureAGlobalStopWord.md)**  
 Configure stop words that shouldn't be indexed by the search.
--   **[Configure a table-specific stop word](../task/t_ConfigureATableSpecificStopWord.md)**  
+-   **[Configure a table-specific stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ConfigureATableSpecificStopWord.md)**  
 You can configure stop words for a specific table.
--   **[Enable automatic stop words for a table](../task/t_ConfigureAnAutomaticStopWord.md)**  
+-   **[Enable automatic stop words for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ConfigureAnAutomaticStopWord.md)**  
 The system can identify and generate stop words when a search term exceeds an occurrence threshold.
--   **[Disable a stop word in Zing](../task/disable-stop-word-zing.md)**  
+-   **[Disable a stop word in Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/disable-stop-word-zing.md)**  
 Configure Zing to return results for text search terms that match a stop word's stemmed form.
 
-**Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
+**Parent Topic:**[Zing text indexing and search engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_ZingTextSearch.md)
 
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/features-zing.md)
 
-[Available search options](c_IntroductionToSearching.md)
+[Available search options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_IntroductionToSearching.md)
 
-[Global search finds records from multiple tables](c_GlobalTextSearch.md)
+[Global search finds records from multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_GlobalTextSearch.md)
 
-[Zing generates search results in four phases](c_SearchProcess.md)
+[Zing generates search results in four phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_SearchProcess.md)
 
-[Zing filters search results with access controls](zing-filters-search-results.md)
+[Zing filters search results with access controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zing-filters-search-results.md)
 
-[Zing computes document scores using three components](c_DocumentScoring.md)
+[Zing computes document scores using three components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md)
 
-[Zing indexes words](zing-indexes-words.md)
+[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zing-indexes-words.md)
 
-[Zing can include attachments in search results](c_SearchingForAttachments.md)
+[Zing can include attachments in search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_SearchingForAttachments.md)
 
-[Zing matches derived words with stemming](stemming-matches-derived-words.md)
+[Zing matches derived words with stemming](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/stemming-matches-derived-words.md)
 
-[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
+[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-synonyms-expand-results.md)
 
-[Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
+[Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/installed-with-zing.md)
 

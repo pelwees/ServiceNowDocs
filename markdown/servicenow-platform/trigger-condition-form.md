@@ -123,10 +123,10 @@ Condition
 Condition builder that defines the criteria that must be true to send the survey. For example, to send a survey whenever an incident closes, create the condition **\[State\] \[is\] \[Closed\]**.**Note:** When defining conditions like case sensitivity or null values, see API[GlideFilter - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideFilterScopedAPI.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[Configure a trigger condition for a survey](../task/t_CreateATriggerCondition.md)
+[Configure a trigger condition for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateATriggerCondition.md)
 

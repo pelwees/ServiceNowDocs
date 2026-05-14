@@ -63,5 +63,5 @@ The configurator displays active allocation types in the left pane. Each type sh
 9.  Select **Delete allocation** to delete the allocation.
 
 
-**Parent Topic:**[Managing allocations](../concept/manage-allocations.md)
+**Parent Topic:**[Managing allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/manage-allocations.md)
 

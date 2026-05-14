@@ -17,7 +17,7 @@ Add a schema and relevant response headers to a REST response to define the resp
 
 ## Before you begin
 
-At least one REST API resource and at least one schema must already be defined for use in the relevant REST API. You must also define any response headers you want to use. For more information, see [Define a REST API response header](define-scripted-api-response-header.md).
+At least one REST API resource and at least one schema must already be defined for use in the relevant REST API. You must also define any response headers you want to use. For more information, see [Define a REST API response header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/define-scripted-api-response-header.md).
 
 Role required: web\_service\_admin
 
@@ -80,7 +80,7 @@ Procedure
 
 ## Result
 
-The schema you used to define the response body structure is included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+The schema you used to define the response body structure is included in the exportable OpenAPI specification in the REST API Explorer. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../../inbound-rest/task/export-openapi-specification.md).
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

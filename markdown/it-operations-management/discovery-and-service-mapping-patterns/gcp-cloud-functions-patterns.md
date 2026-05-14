@@ -20,11 +20,11 @@ Discovery and Service Mapping Patterns uses the Google Cloud Platform \(GCP\) - 
 
 -   **Verify the GCP discovery prerequisites**
 
-    For more information, see the prerequisites section in [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md).
+    For more information, see the prerequisites section in [Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md).
 
 -   **Enable the relevant pattern**
 
-    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](../task/activate-disabled-pattern.md).
+    The pattern for this service is disabled by default. Starting with Visibility Content version 6.28.0, activating or deactivating a pattern won't be considered a customization, and it will continue to receive updates. Patterns that were previously activated or deactivated will reset to the latest predefined version after upgrading while retaining the last active field value. For more information on enabling patterns, see [Activate a disabled pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/activate-disabled-pattern.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -125,7 +125,7 @@ Operational status of the function. Default value is Operational.
 </td></tr></tbody>
 </table>On the Dependency Views map, you can view all discovered GCP Cloud Functions resources in your organization and the relationships between them.
 
-![GCP Cloud Functions CIs and connections on a Dependency Views map](../image/gcp-cloud-functions-dependency-view.png "GCP Cloud Functions dependency view")
+![GCP Cloud Functions CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/gcp-cloud-functions-dependency-view.png "GCP Cloud Functions dependency view")
 
 ## CI relationships
 
@@ -148,5 +148,5 @@ The Google Cloud Platform \(GCP\) - Cloud Functions pattern collects tags and po
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the Cloud Function \[cmdb\_ci\_cloud\_function\] table.|
 
-**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md)
+**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 

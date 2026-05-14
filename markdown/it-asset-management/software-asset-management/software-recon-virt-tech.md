@@ -22,7 +22,7 @@ The following are the software products for which Software Asset Management Virt
 -   Red Hat Enterprise Linux Server \(RHEL\)
 -   Oracle Database Server, Options, and WebLogic Server
 
-Virtualization is a process of simulating hardware functionality and creating a virtual environment in which you can run more than one virtual machine on a single server in a clustered environment. For more information on Oracle Database and WebLogic Server licensing support on VMware vSphere and Nutanix virtualization technology, see [Oracle Database and WebLogic Server licensing in soft-partitioned environments](oracle-licensing-soft-partitioned-environments.md).
+Virtualization is a process of simulating hardware functionality and creating a virtual environment in which you can run more than one virtual machine on a single server in a clustered environment. For more information on Oracle Database and WebLogic Server licensing support on VMware vSphere and Nutanix virtualization technology, see [Oracle Database and WebLogic Server licensing in soft-partitioned environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-soft-partitioned-environments.md).
 
 The virtualization technologies supported by Software Asset Management are:
 
@@ -37,5 +37,5 @@ Software Asset Management Virtualization Adapter standardizes the relationship a
 
 Software Asset Management considers the architecture of the virtualization technology while applying the licensing rules. For example, Microsoft Hyper-V architecture permits Windows Server Standard edition to use one running instance of the server software in the physical OSE on the licensed server in addition to two virtual OSEs if the physical OSE is used only to host and manage the virtual OSEs. Software Asset Management Virtualization Adapter automatically applies this rule set.
 
-**Parent Topic:**[Software reconciliation for compliance](c_SAMReconciliation.md)
+**Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 

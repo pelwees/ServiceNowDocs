@@ -17,16 +17,16 @@ To view this page, follow these steps:
 
 1.  Login as a user with the `sn_acct_lc.customer_success_agent` role.
 2.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workpace** and select the **List** icon.
-3.  Navigate to **Customer Success** &gt; **All Risks and Issues** and select **Number** column to open the record. You can also navigate to this page from the [Risk portfolio dashboard](account-lifecycle-risk-portfolio.md).
+3.  Navigate to **Customer Success** &gt; **All Risks and Issues** and select **Number** column to open the record. You can also navigate to this page from the [Risk portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-risk-portfolio.md).
 
 \*\*\* to be updated \*\*\*
 
-![Risks and issues page](../image/account-lifecycle-risk-issues.png)
+![Risks and issues page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-risk-issues.png)
 
 You can see the following details:
 
 -   Engagement details: This section shows the details of the engagement for which the risk signal has been generated. It includes the Contract value, Stage, Next Renewal date, Health, and so on.
--   Risk signal details: The risk signal details including probability, tracking method, category, and so on. See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md) for details.
+-   Risk signal details: The risk signal details including probability, tracking method, category, and so on. See [Create a risk signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-risk-signal.md) for details.
 -   Risk occurrence: List of risk occurrences based on the scheduled job. This includes the start and end dates on which the scheduled job was executed, the current value, threshold value, and the gap. Select the link to drill down to the Risk Occurrence page.
 
 The following options are available:
@@ -36,7 +36,7 @@ The following options are available:
     **Note:** This option is available only for unaddressed risks and requires the Now Assist for TMT to be installed.
 
 -   **Discuss**: Select this option to start a sidebar discussion about this risk signal. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
--   **Create success play**: See [Create a success play](../task/account-lifecycle-create-success-play.md)
+-   **Create success play**: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-success-play.md)
 
     The success play created from a risk signal is automatically tagged as a risk solution record.
 
@@ -67,5 +67,5 @@ This option identifies and executes success plays that address an unaddressed ri
     **Note:** Closure notes are automatically generated only when the **Draft closure notes** skill is enabled, all associated risk solutions are closed, and no new risk occurrences exist for the risk signal.
 
 
-**Parent Topic:**[Risk portfolio dashboard](account-lifecycle-risk-portfolio.md)
+**Parent Topic:**[Risk portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-risk-portfolio.md)
 

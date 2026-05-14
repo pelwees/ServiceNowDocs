@@ -60,5 +60,5 @@ Files in ServiceNow applications serve several key functions:
 
 The platform provides APIs and scripting capabilities to programmatically create, read, update, and manage attachments, making files a flexible component of custom ServiceNow applications.
 
-**Parent Topic:**[Overview of building apps in ServiceNow](overview-building-apps-in-servicenow.md)
+**Parent Topic:**[Overview of building apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/overview-building-apps-in-servicenow.md)
 

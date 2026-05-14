@@ -19,7 +19,7 @@ Add exams to an exam catalog in Career Assessment.
 
 Role required: sn\_exam.catalog\_admin
 
-Create an exam catalog. For more information, see [Create exam catalogs](create-exam-catalog.md).
+Create an exam catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
 
 ## Procedure
 
@@ -31,10 +31,10 @@ Create an exam catalog. For more information, see [Create exam catalogs](create-
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Exam form](../reference/exam-form.md).
+    For a description of the field values, see [Exam form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/exam-form.md).
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create exam catalogs](create-exam-catalog.md)
+**Parent Topic:**[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 

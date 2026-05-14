@@ -78,5 +78,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md)
+**Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 

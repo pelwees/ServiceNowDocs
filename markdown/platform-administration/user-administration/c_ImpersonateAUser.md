@@ -17,7 +17,7 @@ Administrators are able to impersonate other authenticated users, a feature prim
 
 This function enables the administrator to access the system exactly as the impersonated user, including identical menus and modules. All actions performed by the administrator during impersonation are recorded as if they were executed by the impersonated user.
 
-![Impersonation example](../image/imperson_general.png)
+![Impersonation example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/imperson_general.png)
 
 ## Impersonation limitations
 
@@ -53,14 +53,14 @@ More logins may be required to adequately test the system.
 
 Mobile impersonation is available on ServiceNow mobile apps. For information on mobile impersonations, see [Mobile impersonation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-impersonation.md).
 
--   **[Manage the visibility of the impersonation feature](manage-the-visibility-of-the-impersonation-feature.md)**  
+-   **[Manage the visibility of the impersonation feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/manage-the-visibility-of-the-impersonation-feature.md)**  
 Before users can impersonate another user, an administrator must make the feature visible.
--   **[Impersonate a user](../task/t_ImpersonateAUserInUI16.md)**  
+-   **[Impersonate a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../task/t_ImpersonateAUserInUI16.md)**  
 You can select a user or enter a different user name to perform an impersonation.
--   **[Impersonation logs](c_LogImpersonations.md)**  
+-   **[Impersonation logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_LogImpersonations.md)**  
 Impersonations are logged in the system log.
--   **[User impersonation auditing](impersonation-audits.md)**  
+-   **[User impersonation auditing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/impersonation-audits.md)**  
 User impersonation auditing creates a structured, dedicated audit trail for every impersonation session.
 
-**Parent Topic:**[Monitoring user activity](../../roles/concept/user-admin-tools-landing.md)
+**Parent Topic:**[Monitoring user activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../roles/concept/user-admin-tools-landing.md)
 

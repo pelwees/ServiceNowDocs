@@ -21,7 +21,7 @@ The Audit Manager dashboard provides the current view of audit engagements and r
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-![A short video featuring the different tabs in the Audit Manager dashboard.](../image/audit-manager-db-washingtondc.gif)
+![A short video featuring the different tabs in the Audit Manager dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/audit-manager-db-washingtondc.gif)
 
 **Note:** For detailed reports on the audit activities, see the following tables.
 
@@ -189,10 +189,10 @@ To view the Audit Manager dashboard, activate the following GRC applications:
 
 To view the Audit Manager dashboard, navigate to **Audit** &gt; **Audit Manager Dashboard**. Log in with the sn\_audit.manager role to view reports.
 
-![Audit Manager dashboard](../../../product/grc-audit/image/audit-manager-dashboard.png "Audit Manager dashboard")
+![Audit Manager dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../../product/grc-audit/image/audit-manager-dashboard.png "Audit Manager dashboard")
 
 **Related topics**  
 
 
-[Advanced Governance, Risk, and Compliance Application Risk dashboard](../../../product/grc-common/concept/advanced-grc-dashboard.md)
+[Advanced Governance, Risk, and Compliance Application Risk dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../../product/grc-common/concept/advanced-grc-dashboard.md)
 

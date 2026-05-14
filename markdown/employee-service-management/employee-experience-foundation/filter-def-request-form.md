@@ -156,5 +156,5 @@ Associated Tabs
 Tabs associated to the filter.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enhanced Requests Experience forms](req-concept-ec.md)
+</table>**Parent Topic:**[Enhanced Requests Experience forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 

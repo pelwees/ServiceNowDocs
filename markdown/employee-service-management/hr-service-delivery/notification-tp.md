@@ -19,5 +19,5 @@ Receive a notification when you’re added as a collaborator in a Talent pool by
 
 Receive a notification when a Talent pool is shared with you to view the details by the owner.
 
-**Parent Topic:**[Using Talent profile](config-t-pool.md)
+**Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 

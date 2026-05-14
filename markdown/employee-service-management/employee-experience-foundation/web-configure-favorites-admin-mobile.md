@@ -46,7 +46,7 @@ Role required: portal admin and sp\_admin
 
 3.  Create a function and function instance to suit your needs.
 
-    See [Create a function and function instances](../../../administer/mobile-employee/task/add-quick-action.md#) and configure the following field values.
+    See [Create a function and function instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../administer/mobile-employee/task/add-quick-action.md#) and configure the following field values.
 
     |Field|Description|
     |-----|-----------|
@@ -62,7 +62,7 @@ The content type display is configured for Mobile.
 **Related topics**  
 
 
-[Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md)
+[Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../administer/mobile-employee/concept/mobile-employee-experience.md)
 
 [Mobile plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins.md)
 

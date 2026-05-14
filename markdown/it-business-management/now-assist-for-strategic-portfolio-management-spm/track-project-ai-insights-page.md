@@ -25,13 +25,13 @@ Role required: it\_project\_manager
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](../../project-workspace/task/access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../project-workspace/task/access-new-project-workspace.md).
 
 2.  Open AI insights page by selecting **AI insights** from the list.
 
 3.  Select **Generate insights** to generate AI insights of your project.
 
-    ![AI insights page in Project Workspace.](../images/ai-insights-page-project-workspace.png)
+    ![AI insights page in Project Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/ai-insights-page-project-workspace.png)
 
     Project insights are generated using the same Project insights generation skill used for email insights. Insights are displayed directly in the in‑app AI insights experience.
 
@@ -45,7 +45,7 @@ The project insights are generated from the AI insights page with access to curr
 ## What to do next
 
 -   Modify the project insights admin configurations:
-    1.  Navigate to **All** and type `sn_spm_gen_ai_insight_topic.list` and press enter to open the configuration table.![Insights topic configuration table.](../images/insight-topics-table.png)
+    1.  Navigate to **All** and type `sn_spm_gen_ai_insight_topic.list` and press enter to open the configuration table.![Insights topic configuration table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/insight-topics-table.png)
     2.  Locate the topic you want to update from the Topic name column.
     3.  Double-click \(or use the keyboard shortcut\) the Default topic config field to edit the required topic.
     4.  Update the values for threshold or critical state or time ranges according to your requirement.
@@ -57,5 +57,5 @@ The project insights are generated from the AI insights page with access to curr
     -   From the AI insights page, select **Regenerate** icon.
     -   Now Assist generates updated project insights.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

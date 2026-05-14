@@ -67,7 +67,7 @@ Table
 
 </td><td>
 
-The name of the table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](sg-allow-custom-tables.md).
+The name of the table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-allow-custom-tables.md).
 
 </td></tr><tr><td>
 
@@ -103,5 +103,5 @@ This field only appears after you select **Append Encoded Query** in the **Condi
 
 ## What to do next
 
-For more information on how parameters pass values between screens, see [Parametrized list screens](../concept/list-applet-parameters.md).
+For more information on how parameters pass values between screens, see [Parametrized list screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/list-applet-parameters.md).
 

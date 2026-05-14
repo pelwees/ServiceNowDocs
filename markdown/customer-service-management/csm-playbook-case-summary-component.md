@@ -27,6 +27,6 @@ Using this component, agents can:
 
 To use the case summarization component with the playbook page templates, activate the Now Assist for Customer Service Management \(CSM\) application and configure the case summarization skill in the Now Assist Admin console. For more information, see:
 
--   [Activate Now Assist for Customer Service Management \(CSM\)](now-assist-csm-supporting-info.md)
--   [Configure the case summarization skill in the Now Assist Admin console](now-assist-csm-configuring.md).
+-   [Activate Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-csm-supporting-info.md)
+-   [Configure the case summarization skill in the Now Assist Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-csm-configuring.md).
 

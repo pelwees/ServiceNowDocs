@@ -49,5 +49,5 @@ Follow these steps to achieve domain separation:
 
 The following example shows how to replicate the AWS Security Hub comments and Status update job and run the job as a system user.
 
-![AWS Domain Separation](../image/aws-domain-sep.png)
+![AWS Domain Separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/aws-domain-sep.png)
 

@@ -62,7 +62,7 @@ Role required: admin
     -   KG Column Picker Description.
     -   KG Table Picker Description.
     -   KG Triplet Picker Description.
-    ![Picker description options](../Images/choice-tables-kg.png)
+    ![Picker description options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/choice-tables-kg.png)
 
 8.  Open one of the displayed table and select **Load All Records** from the Related links section.
 

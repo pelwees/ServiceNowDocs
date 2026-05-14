@@ -29,9 +29,9 @@ Roles required: sn\_kmf.admin
 
 2.  Navigate to **Cloud Encryption Key Management** &gt; **Quorum Control Policy Settings**.
 
-3.  Select the **Quorum control enabled** check box.![Displays the Quorum control enabled selection.](../quorum-control-policy-activate.png)
+3.  Select the **Quorum control enabled** check box.![Displays the Quorum control enabled selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../quorum-control-policy-activate.png)
 
-    Additional fields appear that are required to configure quorum control.![Quorum Control Policy Settings configuration.](../image/quorum-config-settings.png)
+    Additional fields appear that are required to configure quorum control.![Quorum Control Policy Settings configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/quorum-config-settings.png)
 
 4.  Fill in the fields to complete the form.
 
@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Designate the members of the quorum from the list of users. Select the lock icon ![Lock icon.](../../key-management-framework/image/lock-icon.png) to open the user directory. There is no limit to the number of approvers that can be selected.
+Designate the members of the quorum from the list of users. Select the lock icon ![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../../key-management-framework/image/lock-icon.png) to open the user directory. There is no limit to the number of approvers that can be selected.
 
 </td></tr><tr><td id="d105725e128">
 
@@ -75,7 +75,7 @@ Set a numeric value in hours that is the maximum time allotment for the minimum 
 
 ## What to do next
 
-The withdrawal actions are available in [Key management operations](key-mgmt-operations-ce.md#).
+The withdrawal actions are available in [Key management operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-operations-ce.md#).
 
-**Parent Topic:**[Quorum Control Policy](../concept/quorum-ctrl-policy.md)
+**Parent Topic:**[Quorum Control Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../concept/quorum-ctrl-policy.md)
 

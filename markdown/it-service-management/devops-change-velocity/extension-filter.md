@@ -27,5 +27,5 @@ You can activate or deactivate these filters.
     By default, the check box is selected. If you want to disable the filter, clear the check box.
 
 
-**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 

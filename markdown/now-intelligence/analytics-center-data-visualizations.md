@@ -25,27 +25,27 @@ You can also directly access Data Visualizations from the filter navigation in P
 
 <table id="table_o5y_trj_mcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Take a tour of the Data Visualizations library](explore-data-vis-library.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Take a tour of the Data Visualizations library](explore-data-vis-library.md)
 
 </td><td>
 
-[Create data visualizations![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Procedures for creating data visualizations using different data sources](../../reporting/concept/creating-data-visualizations.md)
+[Create data visualizations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-app-creator.svg)Procedures for creating data visualizations using different data sources](../../reporting/concept/creating-data-visualizations.md)
 
 </td><td>
 
-[Share, edit, delete![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Procedures for performing the most common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+[Share, edit, delete![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Procedures for performing the most common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
 
 </td></tr><tr><td>
 
-[View![](../../../reuse/icons/brand-icons/bus-laptop.svg)Actions viewers can take while looking at a data visualization](../../reporting/concept/common-dv-tasks.md)
+[View![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-laptop.svg)Actions viewers can take while looking at a data visualization](../../reporting/concept/common-dv-tasks.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Details of advanced configuration options found in many data visualization types](configure-data-visualizations.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Details of advanced configuration options found in many data visualization types](configure-data-visualizations.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles and data sources](../../par-for-workspace/reference/data-visualization-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Roles and data sources](../../par-for-workspace/reference/data-visualization-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

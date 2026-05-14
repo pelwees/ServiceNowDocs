@@ -25,7 +25,7 @@ Role required: asset
 
 2.  Open the report for which you want to create report sources from the Comparative reports section.
 
-    You can also create a comparative report. For more information, see [Create a TCO report in Hardware Asset Workspace](create-ham-tco-report.md).
+    You can also create a comparative report. For more information, see [Create a TCO report in Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-ham-tco-report.md).
 
 3.  Select the **Report sources** tab.
 
@@ -89,12 +89,12 @@ A brief and meaningful description of the report source.
 
 The new report source is added to the list of TCO report sources in the **TCO report sources** tab.
 
-**Parent Topic:**[Create a TCO report in Hardware Asset Workspace](create-ham-tco-report.md)
+**Parent Topic:**[Create a TCO report in Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-ham-tco-report.md)
 
 **Related topics**  
 
 
-[Asset Total Cost of Ownership for Hardware Asset Management](../concept/asset-mgmt-tco.md)
+[Asset Total Cost of Ownership for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/asset-mgmt-tco.md)
 
-[Asset analytics view](../concept/asset-analytics-view.md)
+[Asset analytics view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/asset-analytics-view.md)
 

@@ -27,19 +27,19 @@ Role required: sam\_admin
 
 3.  On the form, fill in the details.
 
-    For a description of the field values, see [SAM Success Goal Details](../reference/sam-success-goal-details.md).
+    For a description of the field values, see [SAM Success Goal Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/sam-success-goal-details.md).
 
 4.  Select **Save**.
 
-    The success goal appears in the [License operations view](../concept/operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the License operations view.
+    The success goal appears in the [License operations view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/operations-workspace.md) under the Success goals list. You can cancel or delete a success goal from the License operations view.
 
 
 **Related topics**  
 
 
-[Create success activities for Software Asset Management](create-success-activity.md)
+[Create success activities for Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-activity.md)
 
-[Create a success goal category for software assets](create-sam-suc-cat.md)
+[Create a success goal category for software assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sam-suc-cat.md)
 
-[Success portal view in Software Asset Workspace](../concept/success-portal-view.md)
+[Success portal view in Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/success-portal-view.md)
 

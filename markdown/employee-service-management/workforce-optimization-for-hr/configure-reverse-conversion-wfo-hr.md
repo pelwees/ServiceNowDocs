@@ -68,5 +68,5 @@ Formula to calculate the forecasted number of agents that you need.In the Relate
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure data collection for Demand Forecast](configure-data-collection-df-wfo-hr.md)
+**Parent Topic:**[Configure data collection for Demand Forecast](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-data-collection-df-wfo-hr.md)
 

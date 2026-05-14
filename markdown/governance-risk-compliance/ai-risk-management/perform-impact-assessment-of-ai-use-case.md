@@ -98,7 +98,7 @@ Brief summary about the feedback to be discussed in the sidebar discussion.
 
 An AI Risk and Compliance Analyst evaluates the completed assessment along with the suggested list of risks and controls derived from the submitted information.
 
-Proceed to [Initiate risk assessment on AI asset](initiate-risk-assessment-on-ai-systems.md).
+Proceed to [Initiate risk assessment on AI asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-risk-assessment-on-ai-systems.md).
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

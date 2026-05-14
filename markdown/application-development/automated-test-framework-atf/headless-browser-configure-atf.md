@@ -17,7 +17,7 @@ Step 6 in the Linux setup for the ServiceNow® Headless Browser for ATF: Configu
 
 ## Before you begin
 
-Complete Step 5: [Set up instance for Headless Browser in Linux](headless-browser-instance-setup.md)
+Complete Step 5: [Set up instance for Headless Browser in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-instance-setup.md)
 
 Role required: admin on your ServiceNow instance and local administrator on the host machine.
 
@@ -57,7 +57,7 @@ sn\_atf.headless.username
 
 </td><td>
 
-Username of the integration user that you created in [Add secrets to Docker for Headless Browser setup in Linux](headless-browser-add-secrets-docker.md)
+Username of the integration user that you created in [Add secrets to Docker for Headless Browser setup in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-add-secrets-docker.md)
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ sn\_atf.headless.secret\_id
 
 </td><td>
 
-Docker “Secret ID” that you obtained earlier, as well as the Docker secret name that you created in Step 2 of the [Add secrets to Docker for Headless Browser setup in Linux](headless-browser-add-secrets-docker.md) procedure.
+Docker “Secret ID” that you obtained earlier, as well as the Docker secret name that you created in Step 2 of the [Add secrets to Docker for Headless Browser setup in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-add-secrets-docker.md) procedure.
 
 </td></tr><tr><td>
 
@@ -91,9 +91,9 @@ Image name with tag that you downloaded: `ghcr.io/servicenow/atf-headless-runner
 7.  Select **Save**.
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/headless-browser-procedure-linux.md)
 
-**Previous topic:**[Set up instance for Headless Browser in Linux](headless-browser-instance-setup.md)
+**Previous topic:**[Set up instance for Headless Browser in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-instance-setup.md)
 
-**Next topic:**[Verify Headless Browser procedures in Linux](headless-browser-verify-tests.md)
+**Next topic:**[Verify Headless Browser procedures in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-verify-tests.md)
 

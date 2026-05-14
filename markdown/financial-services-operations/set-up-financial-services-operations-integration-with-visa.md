@@ -42,5 +42,5 @@ Role required: admin
 
 To view the action execution details, click **Your test has finished running. View the Action execution details.**
 
-**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](configuring-financial-services-operations-integration-with-visa.md)
+**Parent Topic:**[Configuring Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-financial-services-operations-integration-with-visa.md)
 

@@ -17,13 +17,13 @@ Associate a matter template with an intake form that can be used when promoting 
 
 ## Before you begin
 
-**Note:** The Matter Template related list is available on the [Intake Form](associate-categories-practice-area.md) form only when you have selected **Matter** or **Request and Matter** as the **Type** value.
+**Note:** The Matter Template related list is available on the [Intake Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) form only when you have selected **Matter** or **Request and Matter** as the **Type** value.
 
 Role required: sn\_lg\_ops.legal\_config or sn\_lg\_matter.matter\_config
 
 ## About this task
 
-When [an existing matter template is updated and published](../../legal-matter-management/task/create-legal-matter-template.md), the intake form reflects the latest version of the associated matter template.
+When [an existing matter template is updated and published](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../legal-matter-management/task/create-legal-matter-template.md), the intake form reflects the latest version of the associated matter template.
 
 ## Procedure
 
@@ -61,7 +61,7 @@ Steps
 </td><td>
 
 1.  Click **New**.
-2.  [Create a legal matter template](../../legal-matter-management/task/create-legal-matter-template.md).
+2.  [Create a legal matter template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../legal-matter-management/task/create-legal-matter-template.md).
 
 In the **Intake form mapping** field of the Matter Template form, ensure that the current intake form is selected.
 

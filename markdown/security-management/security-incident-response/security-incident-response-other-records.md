@@ -17,34 +17,34 @@ This section displays the other records such as IT related records and email rec
 
 Under Email, Draft, Sent Emails and Received Emails are displayed.
 
-![Other Records tab](../image/other-records.png "Other Records")
+![Other Records tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/other-records.png "Other Records")
 
-**Parent Topic:**[Working with Security Incident Records](using-analyst-workspace.md)
+**Parent Topic:**[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Security Incident Overview section](security-incident-overview.md)
+[Security Incident Overview section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-overview.md)
 
-[Security Incident Details section](security-incident-details.md)
+[Security Incident Details section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-details.md)
 
-[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
+[SIR Workspace Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-orchestration-activities.md)
 
-[Security Incident Response Tasks](security-incident-response-tasks.md)
+[Security Incident Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-tasks.md)
 
-[Security Incident Response Post Incident Review](security-incident-response-post-incident-review.md)
+[Security Incident Response Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-post-incident-review.md)
 
-[Update information in security incident related records](../task/edit-related-records-in-list.md)
+[Update information in security incident related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/edit-related-records-in-list.md)
 
-[TISC integration within SIR Workspace](../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
+[TISC integration within SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-threat-security-center/concept/tisc-sir-workspace.md)
 
-[Reports in Security Incident Response](report-templates-sir.md)
+[Reports in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
 
-[Collaborate using conference call or chat in Security Incident Response](collab-sir-call-chat.md)
+[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-sir-call-chat.md)
 
-[Viewing incident details with a relationship graph](sir-relationship-graph.md)
+[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-relationship-graph.md)
 
-[MITRE attack and defend technique graph](mitre-attack-defend-graph-sir.md)
+[MITRE attack and defend technique graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mitre-attack-defend-graph-sir.md)
 
 ## Create an incident
 
@@ -62,7 +62,7 @@ Role required: sn\_si.analyst.
 
 3.  Click **Create Incident**.
 
-    ![create incident](../image/create-incident.png)
+    ![create incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create-incident.png)
 
 4.  Enter the details such as Configuration Item, Impact, Urgency, Location, Priority, and Short Description.
 
@@ -185,7 +185,7 @@ Role required: sn\_si.analyst
 
 3.  Click the overflow and select **Compose Email**.
 
-    ![User Reported Phishing view: Compose Email section.](../image/compose-email-form-ui.png)
+    ![User Reported Phishing view: Compose Email section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/compose-email-form-ui.png)
 
 4.  Enter the **To** and **CC** field.
 
@@ -195,7 +195,7 @@ Role required: sn\_si.analyst
 
     The available quick messages are displayed. Select the message and click **Insert**. The messages gets inserted in the body of the email.
 
-    ![User Reported Phishing email.](../image/quick-message-insert.png)
+    ![User Reported Phishing email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/quick-message-insert.png)
 
 7.  Compose your email and click **Send Email**.
 
@@ -207,7 +207,7 @@ Role required: sn\_si.analyst
 
     2.  Search for **Quick Message \(sys\_email\_canned\_message\)** table.
 
-        ![System Definitions](../image/quick-messages-table.png)
+        ![System Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/quick-messages-table.png)
 
     3.  Go to **Related Links** &gt; **Show List**.
 
@@ -215,7 +215,7 @@ Role required: sn\_si.analyst
 
     5.  Enter the **Title**, **body of the message**, select the **Table: Security Incident \(sn\_si\_incident\)** and **Active** check box.
 
-        ![Quick message - New record.](../image/quick-msg-new-record.png)
+        ![Quick message - New record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/quick-msg-new-record.png)
 
     6.  Click **Submit**.
 
@@ -225,13 +225,13 @@ Role required: sn\_si.analyst
 
 9.  Select the **Response Template** and click **Copy to clipboard** and apply the template, if required.
 
-    ![Compose email template.](../image/emil-template.png) **How to configure Response Templates:**
+    ![Compose email template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/emil-template.png) **How to configure Response Templates:**
 
     1.  Navigate to **System Definitions** &gt; **Tables**.
 
     2.  Search for the **Response Template \(sn\_templated\_snip\_note\_template\)** table.
 
-        ![Response Template Table.](../image/response-template.png)
+        ![Response Template Table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/response-template.png)
 
     3.  Go to **Related Links** &gt; **Show List**.
 
@@ -239,7 +239,7 @@ Role required: sn\_si.analyst
 
     5.  Enter the **Name**, **Short Name**, select the **Table: Security Incident \(sn\_si\_incident\)** and **Template body**.
 
-        ![Response Template: record view.](../image/response-template-new-record.png)
+        ![Response Template: record view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/response-template-new-record.png)
 
     6.  Click **Submit**.
 

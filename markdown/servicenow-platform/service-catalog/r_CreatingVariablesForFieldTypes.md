@@ -59,5 +59,5 @@ Example 2: For a **Date** or **Date/Time** value, return a date which GlideDate 
 var glideDateTime  = new GlideDateTime(producer.date_field);
 ```
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-reference.md)
 

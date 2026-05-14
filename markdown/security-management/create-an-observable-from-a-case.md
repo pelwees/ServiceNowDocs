@@ -23,7 +23,7 @@ Role required: sn\_ti.case\_user
 
     The Security Cases list opens.
 
-2.  Either open an existing case or click **New** to [create a new case](create-cases-in-case-mgmt.md).
+2.  Either open an existing case or click **New** to [create a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-in-case-mgmt.md).
 
 3.  Click the **Case Artifacts** related link and click the **Observables** tab.
 
@@ -51,17 +51,17 @@ Role required: sn\_ti.case\_user
 
 7.  Click **Submit**.
 
-    As needed, you can click the **Case Artifacts** tab and [add artifacts to the case](add-records-to-cases.md).
+    As needed, you can click the **Case Artifacts** tab and [add artifacts to the case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases.md).
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-in-threat.md)
 
 **Related topics**  
 
 
-[Create a case from IoCs or observables](create-cases-threat.md)
+[Create a case from IoCs or observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-threat.md)
 
-[Add IoCs and observables to an existing case](add-records-to-cases-threat.md)
+[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)
 
-[Run a sightings search on observables in a case](run-local-sighted-srch.md)
+[Run a sightings search on observables in a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/run-local-sighted-srch.md)
 

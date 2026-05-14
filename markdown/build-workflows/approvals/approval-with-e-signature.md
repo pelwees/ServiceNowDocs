@@ -34,19 +34,19 @@ By default, Approval with e-signature supports these tables.
 -   Change Request \[change\_request\]
 -   Standard Change Proposal \[std\_change\_proposal\]
 
-When you add an approval table, any approval for the table needs an e-signature authorization. See [Select an approval table](../task/t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
+When you add an approval table, any approval for the table needs an e-signature authorization. See [Select an approval table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../task/t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
 
 ## Approver Authentication dialog
 
 Approvers must enter their user credentials to change the approval state. If the credentials fail, then the approval remains unchanged. The system checks the user credentials against local user records or an active single sign-on integration.
 
-![Dialog to enter user credentials](../image/approval-authentication-dialog-cropped.png)
+![Dialog to enter user credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/approval-authentication-dialog-cropped.png)
 
 ## Approval History
 
 Each Approval \[sysapprover\_approver\] record has an activity stream that tracks changes to it. Approvals made by e-signature are stored as field changes.
 
-![Example approval showing Bow Ruggeri approving a change request](../image/activity-stream-approval.png "Example activity stream")
+![Example approval showing Bow Ruggeri approving a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/activity-stream-approval.png "Example activity stream")
 
 ## Available approval options
 

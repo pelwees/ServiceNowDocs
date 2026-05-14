@@ -128,7 +128,7 @@ Action
 </td><td>
 
 1.  Select an integration profile.
-2.  Select the Manage Attachments ![Manage attachments icon.](../image/manage-attachments-icon.png) icon on the form header.
+2.  Select the Manage Attachments ![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/manage-attachments-icon.png) icon on the form header.
 3.  In the Attachments dialog box, select **Choose file**.
 4.  Select all the CSV files that you downloaded in step 3 to add them to the integration profile.
 5.  Close the dialog box to return to the Integration Profile form.
@@ -142,7 +142,7 @@ Action
 </td><td>
 
 1.  Select an integration profile.
-2.  Select the Attachment ![Manage attachments icon.](../image/manage-attachments-icon.png) icon from the sidebar of the integration profile.
+2.  Select the Attachment ![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/manage-attachments-icon.png) icon from the sidebar of the integration profile.
 3.  In the Attachments window, select **Select file**.
 4.  Select all the CSV files that you downloaded in step 3 to add them to the integration profile.
 5.  The uploaded CSV files appear in the Attachment window.
@@ -152,5 +152,5 @@ Action
 </table>
 ## What to do next
 
-The usage activity reports that you uploaded can be monitored for license optimization and generation of reclamation candidates. For details, see [Evaluating software usage activity for Microsoft 365 subscriptions](../concept/o365-usage-activity.md).
+The usage activity reports that you uploaded can be monitored for license optimization and generation of reclamation candidates. For details, see [Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/o365-usage-activity.md).
 

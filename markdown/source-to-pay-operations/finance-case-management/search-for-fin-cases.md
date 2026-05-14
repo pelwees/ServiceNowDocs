@@ -25,7 +25,7 @@ Role required: sn\_fin\_ops.specialist
 
     -   **All** &gt; **Finance Operations** &gt; **Finance Operations Workspace**.
     -   **Workspaces** &gt; **Finance Operations Workspace**.
-2.  In the global search, enter the finance case number.![Search for finance cases](../image/fin-ops-search.png)
+2.  In the global search, enter the finance case number.![Search for finance cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-search.png)
 
     **Note:** If you have access to the Soure-to-Pay workspace, you can also search for relevant cases in that workspace.
 
@@ -34,5 +34,5 @@ Role required: sn\_fin\_ops.specialist
 
 The search results show the finance case, if it exists.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

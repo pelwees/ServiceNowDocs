@@ -27,7 +27,7 @@ You can view the CAB calendar to view and attend specific meetings.
 
 1.  Navigate to **All** &gt; **Change** &gt; **Change Advisory Board** &gt; **CAB Workbench**.
 
-    ![CAB workbench calendar](../image/CABWorkbench.png)
+    ![CAB workbench calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/CABWorkbench.png)
 
 2.  You can perform the following actions from the CAB calendar.
 
@@ -57,5 +57,5 @@ Click the meeting you want to attend and click **Open** to launch the meeting.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working with the CAB Workbench](../concept/using-cab-workbench-cf.md)
+**Parent Topic:**[Working with the CAB Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-cab-workbench-cf.md)
 

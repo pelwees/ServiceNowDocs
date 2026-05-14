@@ -15,7 +15,7 @@ Diagnose processing errors in connections configured for a Service Graph Connect
 
 ## Before you begin
 
-Verify that the Service Graph Connector diagnosis skill is enabled. For more information, see [Configure the Service Graph Connector diagnosis skill](../../configuration-management/task/now-assist-cmdb-config-sgc-diagnose.md).
+Verify that the Service Graph Connector diagnosis skill is enabled. For more information, see [Configure the Service Graph Connector diagnosis skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../configuration-management/task/now-assist-cmdb-config-sgc-diagnose.md).
 
 Role required: SGC-admin or admin
 
@@ -35,7 +35,7 @@ Role required: SGC-admin or admin
 
     **Note:** You can diagnose only one error at a time. The **Diagnose Error** button is enabled only when you select an error from the list.
 
-    ![Errors tab showing the Diagnose error button that is displayed after selecting an error.](../image/sgcc-diagnose-error.png "Diagnose a processing error")
+    ![Errors tab showing the Diagnose error button that is displayed after selecting an error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/sgcc-diagnose-error.png "Diagnose a processing error")
 
 5.  Select **Diagnose error**.
 
@@ -44,5 +44,5 @@ Role required: SGC-admin or admin
 
 Now Assist triggers the diagnosis process for the processing error. The Error diagnosis window includes two key sections: Explanation and Recommendation, each focused on explaining the error and providing a solution to resolve it. The recommendation is based on a knowledge article matched using AI Search. A link to the knowledge article is provided in the Source section for additional guidance.
 
-![Error diagnosis result for a processing error, showing the error explanation, a recommendation to resolve the error, and a link to the knowledge article as the source of the recommendation.](../image/sgcc-error-diagnosis.png "Error diagnosis result")
+![Error diagnosis result for a processing error, showing the error explanation, a recommendation to resolve the error, and a link to the knowledge article as the source of the recommendation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/sgcc-error-diagnosis.png "Error diagnosis result")
 

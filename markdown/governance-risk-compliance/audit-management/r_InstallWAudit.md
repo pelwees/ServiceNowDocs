@@ -15,7 +15,7 @@ breadcrumb: [Audit Management reference, Audit Management, Governance, Risk, and
 
 Activating the GRC: Audit Management \(com.sn\_audit\) plugin adds or modifies several tables, user roles, and other components.
 
-**Parent Topic:**[Audit Management reference](audit-management-reference.md)
+**Parent Topic:**[Audit Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-management-reference.md)
 
 ## Properties installed with Audit Management and Advanced Audit
 

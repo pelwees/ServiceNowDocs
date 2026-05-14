@@ -19,14 +19,14 @@ Several types of components are installed with activation of the Risk Management
 
 Demo data is available for this feature.
 
--   **[Roles installed with Risk Management](r_RolesInstallWRisk.md)**  
+-   **[Roles installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_RolesInstallWRisk.md)**  
 Roles are added with activation of GRC: Risk Management.
--   **[Roles installed with the GRC Risk Workspace](../../grc-workspace-risk/reference/roles-installed-with-risk-ws.md)**  
+-   **[Roles installed with the GRC Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/reference/roles-installed-with-risk-ws.md)**  
 The GRC: Risk Workspace application installs the roles for Operational risk manager and IT risk manager for the users to perform their respective tasks.
--   **[Properties installed with Risk Management](r_PropInstallWRisk.md)**  
+-   **[Properties installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_PropInstallWRisk.md)**  
 Properties are added with activation of GRC: Risk Management.
--   **[Tables installed with Risk Management](r_TableInsWRisk.md)**  
+-   **[Tables installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_TableInsWRisk.md)**  
 Tables are added with activation of GRC: Risk Management.
 
-**Parent Topic:**[Risk Management reference](risk-management-reference.md)
+**Parent Topic:**[Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-management-reference.md)
 

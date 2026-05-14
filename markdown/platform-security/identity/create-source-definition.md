@@ -53,12 +53,12 @@ The source definition captures the required source information, such as by doing
 
     **Note:** Enable the **com.snc.integration.scim2.resolve.externalid.conflict** property to return only SCIM resources created by the requesting identity source. By default, all the matching resources with an external ID filter are returned.
 
-    ![SCIM Source Definition](../images/create-source-definition.png)
+    ![SCIM Source Definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/create-source-definition.png)
 
 4.  Click **Submit**.
 
 
 ## Result
 
-The SCIM source definition is created. Use the SCIM ETL Definitions to map the resources based on the extension schema on the sys\_user and sys\_user\_group table. For more information, see [Create a SCIM ETL definition](create-scim-etl-definitions.md).
+The SCIM source definition is created. Use the SCIM ETL Definitions to map the resources based on the extension schema on the sys\_user and sys\_user\_group table. For more information, see [Create a SCIM ETL definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-etl-definitions.md).
 

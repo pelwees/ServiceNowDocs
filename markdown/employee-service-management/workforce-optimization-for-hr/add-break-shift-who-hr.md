@@ -19,7 +19,7 @@ After creating a work shift, you can add schedule breaks to the shift.
 
 Role required: admin
 
-Before adding schedule breaks to a shift, make sure to create a shift plan and a work shift. See, [Create a shift plan](create-shift-wfo-hr.md). Create a work shift, [Create a work shift](create-work-shift-wfo-hr.md).
+Before adding schedule breaks to a shift, make sure to create a shift plan and a work shift. See, [Create a shift plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-shift-wfo-hr.md). Create a work shift, [Create a work shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-work-shift-wfo-hr.md).
 
 ## Procedure
 
@@ -40,5 +40,5 @@ Before adding schedule breaks to a shift, make sure to create a shift plan and a
 5.  Click **Save**.
 
 
-**Parent Topic:**[Create a work shift](create-work-shift-wfo-hr.md)
+**Parent Topic:**[Create a work shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-work-shift-wfo-hr.md)
 

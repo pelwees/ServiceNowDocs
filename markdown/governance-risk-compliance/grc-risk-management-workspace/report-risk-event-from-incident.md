@@ -27,7 +27,7 @@ Role required: sn\_risk.user
 
 3.  Select **Report Risk Event**.
 
-    The availability of the **Report Risk Event** button on the incident record is determined by the filter conditions specified in the Risk Event Integration Configuration record. For more information, see [Configure risk event integration](configure-risk-event-integration.md).
+    The availability of the **Report Risk Event** button on the incident record is determined by the filter conditions specified in the Risk Event Integration Configuration record. For more information, see [Configure risk event integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-event-integration.md).
 
 4.  On the form, fill in the fields.
 
@@ -116,5 +116,5 @@ A brief description of the incident.
 
 The risk event is created.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-risk-events.md)
 

@@ -30,18 +30,18 @@ Role required: sn\_cm\_core.contract\_config
 4.  In the Confirmation pop-up, select **Delete**.
 
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 
 
-[Edit a contract clause variation](cncore-edit-cv.md)
+[Edit a contract clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-cv.md)
 
-[Edit contract templates by manually adding content controls](cncore-edit-ct.md)
+[Edit contract templates by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct.md)
 
-[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-edit-ct-addin.md)
+[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct-addin.md)
 
-[Create a contract template from an existing template](cncore-create-template-revision.md)
+[Create a contract template from an existing template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-template-revision.md)
 
-[Generate and preview a contract document from a template](cncore-preview-template.md)
+[Generate and preview a contract document from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-preview-template.md)
 

@@ -97,12 +97,12 @@ Domain
 Domain for the view by configuration.This field is automatically set to global.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/workplace-space-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Space Management](components-installed-with-wsd-space-mgmt.md)
+[Components installed with Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/components-installed-with-wsd-space-mgmt.md)
 
-[Properties installed with Workplace Space Management](properties-installed-with-workplace-space-mgmt.md)
+[Properties installed with Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/properties-installed-with-workplace-space-mgmt.md)
 

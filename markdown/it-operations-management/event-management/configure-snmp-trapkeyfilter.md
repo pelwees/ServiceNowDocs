@@ -50,5 +50,5 @@ Role required: evt\_mgmt\_admin
     5.  Click **Update**.
 
 
-**Parent Topic:**[Configure event collection for SNMP traps](t_EMSNMPTrapEvent.md)
+**Parent Topic:**[Configure event collection for SNMP traps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSNMPTrapEvent.md)
 

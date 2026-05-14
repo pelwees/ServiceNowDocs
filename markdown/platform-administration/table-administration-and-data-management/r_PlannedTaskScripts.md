@@ -30,5 +30,5 @@ Several business rules and one script include determines the dynamic calculation
 |Set top task|Sets top tasks to maintain hierarchy of tasks.|
 |Set top task on children|Sets top tasks on child tasks to maintain hierarchy of tasks.|
 
-**Parent Topic:**[Extending the Task table with Planned tasks](../concept/c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_PlannedTask.md)
 

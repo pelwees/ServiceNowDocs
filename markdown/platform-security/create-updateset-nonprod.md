@@ -25,7 +25,7 @@ Trusted instance
 
 1.  In the trusted environment, navigate to **sys\_certificate.list**.
 
-    ![X.509 certificates list](../../key-management-framework/image/sys_cert_list.png)
+    ![X.509 certificates list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/sys_cert_list.png)
 
 2.  Open the most recently created X.509 Certificate that was generated with the type **Trust Store Cert**.
 
@@ -33,7 +33,7 @@ Trusted instance
 
 3.  Select **Export certificate to production**.
 
-    ![Export certificate to production button.](../../key-management-framework/image/export_cert-to-prod.png)
+    ![Export certificate to production button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/export_cert-to-prod.png)
 
     A signature is created along with the certificate.
 
@@ -49,11 +49,11 @@ Trusted instance
 
     The update set includes the attachment for the signature record along with the entry of the signature in the table and the certificate.
 
-    ![Displays the contents of the update set.](../../key-management-framework/image/nonprod-updateset.png)
+    ![Displays the contents of the update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/nonprod-updateset.png)
 
 7.  Select the **Export to XML** related link.
 
-    ![Export to XML related link.](../../key-management-framework/image/export-to-xml.png)
+    ![Export to XML related link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/export-to-xml.png)
 
 8.  Retrieve the update set in production.
 
@@ -62,5 +62,5 @@ Trusted instance
     **Important:** Repeat these steps for your second key pair. Remember that there’s a key for both the cm\_code\_attest and cm\_code\_signing cryptographic modules.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/config-code-signing.md)
 

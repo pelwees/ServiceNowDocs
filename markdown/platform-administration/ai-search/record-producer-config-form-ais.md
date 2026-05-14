@@ -23,5 +23,5 @@ The Record Producer Configuration form contains information about your AI Search
 |Active|Option to make this record producer configuration active for your instance.|
 |Application|Application scope for this record producer configuration.|
 
-**Parent Topic:**[AI Search reference](../concept/reference-ais.md)
+**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/reference-ais.md)
 

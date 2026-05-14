@@ -19,7 +19,7 @@ Role required: sales\_agent
 
 ## About this task
 
-You can create appointments only after creating a lead task. To create a lead task, see [Add lead tasks](lead-management-use-tasks-tab.md).
+You can create appointments only after creating a lead task. To create a lead task, see [Add lead tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md).
 
 ## Procedure
 
@@ -33,10 +33,10 @@ You can create appointments only after creating a lead task. To create a lead ta
 
 5.  Fill in the fields in the Create New Appointment form.
 
-    For description of the field values, see [Create new appointment form](../reference/create-lead-appointment-form.md).
+    For description of the field values, see [Create new appointment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/create-lead-appointment-form.md).
 
 6.  Select **Save** to save the appointment and send it later or select **Send activity** to send it now.
 
 
-**Parent Topic:**[Add lead tasks](lead-management-use-tasks-tab.md)
+**Parent Topic:**[Add lead tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md)
 

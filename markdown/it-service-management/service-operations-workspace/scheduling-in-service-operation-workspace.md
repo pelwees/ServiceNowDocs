@@ -17,7 +17,7 @@ View and manage schedules, shifts and time-off request.
 
 **Schedules** menu helps Agents view and manage day-to-day work, request for time-offs and propose coverage for absence.
 
-Shift manager can create and manage schedules, shifts, team members, escalation trigger rules and policies for their group. They can also approve or reject time-off requests, and resolve conflicts and gaps for their group. While, On-call admin can perform these tasks for any group. ![Scheduling in SOW](../image/Scheduling-in-SOW.png)
+Shift manager can create and manage schedules, shifts, team members, escalation trigger rules and policies for their group. They can also approve or reject time-off requests, and resolve conflicts and gaps for their group. While, On-call admin can perform these tasks for any group. ![Scheduling in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/Scheduling-in-SOW.png)
 
 <table id="table_myz_3qj_11c"><thead><tr><th>
 
@@ -102,12 +102,12 @@ Shift card
 
 </td><td>
 
-Select a shift or right-click to view shift detail and access:-   Edit shift \(![Edit shift](../../configurable-workforce-optimization-itsm/image/edit-icon.png)\)
--   More options \(![More](../../service-reliability/image/icon-sr-more-actions-vertical.png)\)
+Select a shift or right-click to view shift detail and access:-   Edit shift \(![Edit shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/edit-icon.png)\)
+-   More options \(![More](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png)\)
 
 </td></tr><tr><td>
 
-**Edit shift \(![Edit shift](../../configurable-workforce-optimization-itsm/image/edit-icon.png)\)**
+**Edit shift \(![Edit shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/edit-icon.png)\)**
 
 </td><td>
 
@@ -117,7 +117,7 @@ Select a shift or right-click to view shift detail and access:-   Edit shift \(!
 
 </td></tr><tr><td>
 
-**More options \(![More](../../service-reliability/image/icon-sr-more-actions-vertical.png)\)**
+**More options \(![More](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png)\)**
 
 </td><td>
 
@@ -135,10 +135,10 @@ Displays list of upcoming tasks assigned to you.-   For agent it might be upcomi
 -   For Manager, this might be a list of gaps and conflicts, time-off request for upcoming shift.
 
 </td></tr></tbody>
-</table>-   **[Manage your work and schedule absence](work-on-a-schedule-in-sow.md)**  
+</table>-   **[Manage your work and schedule absence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-a-schedule-in-sow.md)**  
 Request absence and provide coverage for a shift. You can also request over-time for a shift.
--   **[Manage shifts in service operation workspace](manage-shifts-in-service-operation-workspace.md)**  
+-   **[Manage shifts in service operation workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/manage-shifts-in-service-operation-workspace.md)**  
 Accept or reject absences requests, resolve gaps and conflicts by providing coverage and scheduling extra time for a shift.
 
-**Parent Topic:**[On-Call Scheduling in Service Operations Workspace](on-call-scheduling-in-sow.md)
+**Parent Topic:**[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)
 

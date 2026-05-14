@@ -19,20 +19,20 @@ You can create the following types of template:
 
 -   **Case template**: A case template auto-populates fields when a case is being created.
 
-    For information about creating case templates, see [Create a Workplace case template](../task/wsd-case-template.md).
+    For information about creating case templates, see [Create a Workplace case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-case-template.md).
 
 -   **Task template**: A task template auto-populates fields when a task is being created. You can modify predefined workplace task templates or create your own templates and associate them with workplace tasks.
 
-    For information about creating task templates, see [Create a Workplace task template](../task/wsd-task-template.md).
+    For information about creating task templates, see [Create a Workplace task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-task-template.md).
 
 -   **Smart assessment template**: A Smart Assessment template defines a structured set of instructions, sections, and questions that guide agents in completing workplace cases or tasks. You can create and publish the template in the Smart Assessment workspace by selecting the appropriate Workplace table and configuring the assessment content. Once published, the template can be associated with trigger conditions so that it automatically attaches to qualifying workplace cases or tasks.
 
-**Parent Topic:**[Exploring Workplace Case Management](workplace-case-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Workplace Services](workplace-services.md)
+[Workplace Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-services.md)
 
-[Raise workplace service requests](request-workplace-service.md)
+[Raise workplace service requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-workplace-service.md)
 

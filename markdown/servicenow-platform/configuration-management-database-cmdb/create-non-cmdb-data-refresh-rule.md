@@ -81,5 +81,5 @@ Activates the rule.
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[IRE support for non-CMDB tables](../concept/ire-support-non-cmdb-tables.md)
+**Parent Topic:**[IRE support for non-CMDB tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/ire-support-non-cmdb-tables.md)
 

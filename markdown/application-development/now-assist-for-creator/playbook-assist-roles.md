@@ -40,5 +40,5 @@ Create playbook outlines with placeholder activities by using AI-powered playboo
     None
 
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/playbook-assist-landing.md)
 

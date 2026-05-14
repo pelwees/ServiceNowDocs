@@ -35,7 +35,7 @@ Some reference qualifiers may not get updated. To normalize these reference qual
 
 ## Activating normalization properties
 
-In this task, select the properties you want to activate. See [Normalization properties](../reference/r_NormalizedProperties.md).
+In this task, select the properties you want to activate. See [Normalization properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../reference/r_NormalizedProperties.md).
 
 Enable the **Normalize existing canonical core\_company records** property if the Companies \[core\_company\] table has two or more records that were both set to Normalized \("canonical=true"\) before any mapping. This option ensures only one \[core\_company\] record is set to Normalized. When you normalize the CMDB tables later in guided setup, the normalization job reassigns the proper normalized value.
 
@@ -49,5 +49,5 @@ To finish the guided setup, complete the remaining tasks by normalizing data in 
 -   Configuration Items \(CMDB\) Model
 -   Software Asset Management tables
 
-**Parent Topic:**[Normalization data services](c_NormalizationOverview.md)
+**Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 

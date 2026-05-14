@@ -44,7 +44,7 @@ Relationships are based on responsibilities. A responsibility definition describ
 
 6.  In the **Type** field, select the type from the list of related party configurations and the **Order** field specifies the sequence in which records are displayed, organized according to business preferences.
 
-    **Note:** Starting with the Yokohama release, the **Type** field is added to the Consumer Relationships form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](migration-of-account-manager-responsibility-access.md).
+    **Note:** Starting with the Yokohama release, the **Type** field is added to the Consumer Relationships form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/migration-of-account-manager-responsibility-access.md).
 
 7.  Select **Submit**.
 

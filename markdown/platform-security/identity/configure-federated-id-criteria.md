@@ -33,8 +33,8 @@ Role required: iamsync\_admin
 
     -   User ID is required for generating Federated IDs.
     -   User ID and email are used to generate Federated IDs by default.
-    ![Federated ID Criterias page](../images/federated-id.png)
+    ![Federated ID Criterias page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/federated-id.png)
 
-    **Note:** You can only change ID fields when generating new Federated IDs for the existing records. To know more, see [Updating ID fields](updating-id-fields.md).
+    **Note:** You can only change ID fields when generating new Federated IDs for the existing records. To know more, see [Updating ID fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/updating-id-fields.md).
 
 

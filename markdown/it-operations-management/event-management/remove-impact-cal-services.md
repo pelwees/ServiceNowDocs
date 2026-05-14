@@ -31,7 +31,7 @@ For the application service that you want to exclude from the impact calculation
 
     The Impact Filter Services page opens.
 
-    ![A list of application services that are included in impact calculation.](../image/em-impact-cal-app-services-list.png)
+    ![A list of application services that are included in impact calculation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-impact-cal-app-services-list.png)
 
 2.  For the application service that you want to exclude from the impact calculation, change the **Calculate impact** status of the application service to **false**.
 

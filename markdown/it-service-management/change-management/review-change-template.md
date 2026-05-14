@@ -23,7 +23,7 @@ You must have role configured with access to approve the templates associated wi
 
 ## About this task
 
-The approval process for change templates is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](../concept/change-template-management-flows.md).
+The approval process for change templates is determined by the publish approval flow set by administrators. For more information, see [Change template management flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-template-management-flows.md).
 
 ## Procedure
 
@@ -42,10 +42,10 @@ The approval process for change templates is determined by the publish approval 
         After rejection, the template state changes to Draft.
 
 
-**Parent Topic:**[Create and propose a change template](create-change-template.md)
+**Parent Topic:**[Create and propose a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
 **Related topics**  
 
 
-[Retire a change template](retire-a-change-template.md)
+[Retire a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/retire-a-change-template.md)
 

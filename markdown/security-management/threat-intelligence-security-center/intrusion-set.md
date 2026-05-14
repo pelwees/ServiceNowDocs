@@ -21,8 +21,8 @@ New activity can be attributed to an Intrusion Set even if the Threat Actors beh
 
 An Intrusion Set is the entire attack package and may be used over a long period in multiple Campaigns to achieve potentially multiple purposes.
 
--   **[Define Intrusion Set](../task/tisc-define-intrusion-set.md)**  
+-   **[Define Intrusion Set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-define-intrusion-set.md)**  
 Define an intrusion set that is a grouped set of adversarial behaviors and resources with common properties.
 
-**Parent Topic:**[Threat Entities](tisc-threat-entities.md)
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 

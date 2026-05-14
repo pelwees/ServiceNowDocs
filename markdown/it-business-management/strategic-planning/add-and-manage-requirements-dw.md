@@ -29,11 +29,11 @@ Demand managers use the Requirement form to describe the requirement and assign 
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Requirements**.![Use the Requirements tab to add or edit demand requirements.](../images/demand-requirements.png)
+3.  Select **Requirements**.![Use the Requirements tab to add or edit demand requirements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-requirements.png)
 
     **Note:** If the **Requirements** tab isn’t visible, select **More** and then select **Requirements**.
 
@@ -43,7 +43,7 @@ Demand managers use the Requirement form to describe the requirement and assign 
     -   To update the details of an existing requirement record, select the record.
 5.  On the Create New Requirement form, fill in the fields.
 
-    For a description of the field names, see [Create requirement form](../reference/requirement-form-dw.md) form.
+    For a description of the field names, see [Create requirement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/requirement-form-dw.md) form.
 
 6.  Select **Save**.
 

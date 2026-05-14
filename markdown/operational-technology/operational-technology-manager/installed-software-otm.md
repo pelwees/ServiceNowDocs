@@ -35,5 +35,5 @@ You can view the installed software for OT devices in the Industrial Workspace i
 -   The **Software Installed on OT Devices** list in the Industrial Workspace list view under the **Operational Technology \(OT\)** module.
 -   The **Software Installed** list under the **Related Records** tab in an OT device record.
 
-**Parent Topic:**[Operational Technology Manager reference](operational-technology-manager-reference.md)
+**Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 

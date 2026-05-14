@@ -23,7 +23,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  In the Compliance Workspace, click the List icon \(![List](../../grc-cam-workspace/image/ws-list-icon.png)\).
+2.  In the Compliance Workspace, click the List icon \(![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-cam-workspace/image/ws-list-icon.png)\).
 
 3.  Navigate to **Policy acknowledgements** &gt; **All campaigns**.
 
@@ -47,7 +47,7 @@ Audience
 
 </td><td>
 
-Select the employees who are responsible for acknowledging the policy. You define the audience using the [Audience module](create-audience-ws.md).
+Select the employees who are responsible for acknowledging the policy. You define the audience using the [Audience module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-audience-ws.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Allow users to request exception
 
 </td><td>
 
-Select if you want to members of the audience to be able to [request a policy exception](request-policy-exception-ws.md).
+Select if you want to members of the audience to be able to [request a policy exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/request-policy-exception-ws.md).
 
 </td></tr></tbody>
 </table>7.  Save the record.

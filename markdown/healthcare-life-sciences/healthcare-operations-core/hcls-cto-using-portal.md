@@ -15,19 +15,19 @@ breadcrumb: [Healthcare Operations Core, Healthcare Operations, Healthcare and L
 
 Use the Care Team Portal to create and track service requests, manage your teams, and review knowledge base articles.
 
--   [Track requests in the Care Team Portal](hcls-cto-track-requests.md)
+-   [Track requests in the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-track-requests.md)
 
     Track requests created by you or your team from directly within the Care Team Portal.
 
--   [Manage your teams in the Care Team Portal](hcls-cto-manage-teams.md)
+-   [Manage your teams in the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-manage-teams.md)
 
     Manage your teams from directly within the Care Team Portal.
 
--   [View knowledge articles in the Care Team Portal](../task/hcls-cto-view-kb-portal.md)
+-   [View knowledge articles in the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../task/hcls-cto-view-kb-portal.md)
 
     Review knowledge articles posted by your organization from directly within the Care Team Portal.
 
--   [Create requests in the Care Team Portal](hcls-cto-create-requests-portal.md)
+-   [Create requests in the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-create-requests-portal.md)
 
     Use the Care Team Portal to create support requests for services from ancillary departments.
 

@@ -105,22 +105,22 @@ Option for enabling this schedule for discovery. Select this check box to enable
 </table>    3.  Right-click the header of the Discovery Schedule form and select **Save**.
     4.  Navigate to **Connections &amp; Credential Aliases** and create a new Credential record type. In the Credentials related list form, create a new Basic Auth credential record type.
 
-        ![Rubrik credentials](../image/Rubrik-credentials.png)
+        ![Rubrik credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-credentials.png)
 
         **Note:** The credential alias can be associated with existing credentials. When creating a credential record you can also associate to it the credential alias. Click the **Credential alias** padlock icon in the Connections &amp; Credential Aliases record type you created above, and associate as required.
 
-        ![Rubrik credentials](../image/Rubrik-credentials-alias.png)
+        ![Rubrik credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-credentials-alias.png)
 
     5.  Click the **Serverless Execution Patterns** tab.
 
-        ![Rubrik serverless discovery](../image/Rubrik-serverless.jpg)
+        ![Rubrik serverless discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-serverless.jpg)
 
     6.  Ensure the Run Child Patterns column for the Rubrik discovery pattern is set to **true**. This triggers all the child patterns associated with the Rubrik discovery pattern. This is needed due to the Large Payload \(LP\) mechanism, used for discovery of the Rubrik cluster and all corresponding CI types.
     7.  Under **Discovery Pattern Launcher Parameters**, set the **credential\_alias** and **ip\_address** parameters, which serve as input parameters for triggering the Discovery schedule and the associated Rubrik discovery pattern.
 
         Set the **ip\_address** with one of the IP addresses of any of the Rubrik nodes associated with the Rubrik cluster. Set the **credential\_alias** with the ID of the Credential record type created in **Connections &amp; Credential Aliases**, which is related with the Rubrik credential Basic Auth record type.
 
-        ![Rubrik IP address parameter](../image/rubrik-serverless-ip.png)
+        ![Rubrik IP address parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-serverless-ip.png)
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -151,7 +151,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered cluster resources and the relationships between them.
 
-    ![Rubrik cluster dependency view](../image/Rubrik-cluster-dependency.jpg)
+    ![Rubrik cluster dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-cluster-dependency.jpg)
 
 -   **Resources discovered by the Rubrik EC2 Instance \(LP\) pattern**
 
@@ -173,7 +173,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered EC2 instances and the relationships between them.
 
-    ![Rubrik EC2 dependency view](../image/rubrik-ec2-dependency.jpg)
+    ![Rubrik EC2 dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-ec2-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Fileset \(LP\) pattern**
 
@@ -192,7 +192,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered filesets and the relationships between them.
 
-    ![Rubrik fileset dependency view](../image/Rubrik-fileset-dependency.jpg)
+    ![Rubrik fileset dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-fileset-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Fileset Template \(LP\) pattern**
 
@@ -210,7 +210,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered fileset templates and the relationships between them.
 
-    ![Rubrik fileset template dependency view](../image/Rubrik-fileset-template-dependency.jpg)
+    ![Rubrik fileset template dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-fileset-template-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Hyper-V Instance \(LP\) pattern**
 
@@ -228,7 +228,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered Hyper-V instances and the relationships between them.
 
-    ![Rubrik Hyper-V dependency view](../image/Rubrik-hyperV-dependency.jpg)
+    ![Rubrik Hyper-V dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-hyperV-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Linux Host \(LP\) pattern**
 
@@ -245,7 +245,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered hosts and the relationships between them.
 
-    ![Rubrik Linux Host dependency view](../image/rubrik-linux-host-dependency.jpg)
+    ![Rubrik Linux Host dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-linux-host-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Managed Volume \(LP\) pattern**
 
@@ -267,7 +267,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered managed storage instances and the relationships between them.
 
-    ![Rubrik managed volume dependency view](../image/Rubrik-managed-volume-dependency.jpg)
+    ![Rubrik managed volume dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-managed-volume-dependency.jpg)
 
 -   **Resources discovered by the Rubrik MS SQL DB \(LP\) pattern**
 
@@ -291,7 +291,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered MS SQL DBs and the relationships between them.
 
-    ![Rubrik MS SQL dependency view](../image/Rubrik-mssql-db-dependency.jpg)
+    ![Rubrik MS SQL dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-mssql-db-dependency.jpg)
 
 -   **Resources discovered by the Rubrik MS SQL Instance \(LP\) pattern**
 
@@ -309,7 +309,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered MS SQL instances and the relationships between them.
 
-    ![Rubrik MS SQL instances dependency view](../image/Rubrik-mssql-instance-dependency.jpg)
+    ![Rubrik MS SQL instances dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-mssql-instance-dependency.jpg)
 
 -   **Resources discovered by the Rubrik NAS Host \(LP\) pattern**
 
@@ -325,7 +325,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered hosts and the relationships between them.
 
-    ![Rubrik host dependency view](../image/rubrik-nas-dependency.png)
+    ![Rubrik host dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-nas-dependency.png)
 
 -   **Resources discovered by the Rubrik Node \(LP\) pattern**
 
@@ -354,9 +354,9 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered nodes and node disks, and the relationships between them.
 
-    ![Rubrik node dependency view](../image/rubrik-node-dependency.jpg)
+    ![Rubrik node dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-node-dependency.jpg)
 
-    ![Rubrik node disk dependency view](../image/rubrik-node-disk-dependency.jpg)
+    ![Rubrik node disk dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-node-disk-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Nutanix Instance \(LP\) pattern**
 
@@ -376,7 +376,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered Nutanix instances and the relationships between them.
 
-    ![Rubrik Nutanix dependency view](../image/Rubrik-nutanix-dependency.jpg)
+    ![Rubrik Nutanix dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-nutanix-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Oracle DB \(LP\) pattern**
 
@@ -400,7 +400,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered Oracle DBs and the relationships between them.
 
-    ![Rubrik Oracle DB dependency view](../image/Rubrik-oracle-db-dependency.jpg)
+    ![Rubrik Oracle DB dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-oracle-db-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Oracle RAC \(Real Application Cluster\) \(LP\) pattern**
 
@@ -417,7 +417,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered Oracle RACs and the relationships between them.
 
-    ![Rubrik Oracle RAC dependency view](../image/Rubrik-oracle-rac-dependency.jpg)
+    ![Rubrik Oracle RAC dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-oracle-rac-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Share \(LP\) pattern**
 
@@ -435,7 +435,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered host shares and the relationships between them.
 
-    ![Rubrik host share dependency view](../image/Rubrik-share-view-dependency.jpg)
+    ![Rubrik host share dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-share-view-dependency.jpg)
 
 -   **Resources discovered by the Rubrik SLA Domain \(LP\) pattern**
 
@@ -450,7 +450,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered SLA domains and the relationships between them.
 
-    ![Rubrik SLA domain dependency view](../image/Rubrik-sla-domain-dependency.jpg)
+    ![Rubrik SLA domain dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-sla-domain-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Solaris Host \(LP\) pattern**
 
@@ -487,7 +487,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered VMware instances and the relationships between them.
 
-    ![Rubrik VMware instances dependency view](../image/Rubrik-vmware-dependency.jpg)
+    ![Rubrik VMware instances dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-vmware-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Volume Group \(LP\) pattern**
 
@@ -505,7 +505,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered volume groups and the relationships between them.
 
-    ![Rubrik volume group dependency view](../image/Rubrik-volume-group-dependency.jpg)
+    ![Rubrik volume group dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/Rubrik-volume-group-dependency.jpg)
 
 -   **Resources discovered by the Rubrik Windows Host \(LP\) pattern**
 
@@ -522,7 +522,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 
     The Dependency Views map shows discovered hosts and the relationships between them.
 
-    ![Rubrik Windows Host dependency view](../image/rubrik-windows-host-dependency.jpg)
+    ![Rubrik Windows Host dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/rubrik-windows-host-dependency.jpg)
 
 
 ## CI relationships
@@ -668,5 +668,5 @@ Option for enabling this schedule for discovery. Select this check box to enable
     |cmdb\_ci\_win\_server|Managed by::Manages|cmdb\_ci\_rubrik\_cluster|
 
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

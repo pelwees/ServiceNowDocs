@@ -32,7 +32,7 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
 
     2.  On the instance page, open the connect instance.
 
-    3.  Hover over the Routing icon ![Routing icon.](../images/routing-icon.png) on the left navigation bar and select **Contact flows**.
+    3.  Hover over the Routing icon ![Routing icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/routing-icon.png) on the left navigation bar and select **Contact flows**.
 
     4.  Select the **SN\_CI\_CC\_Inbound\_Contact\_Flow**.
 
@@ -56,8 +56,8 @@ Ensure that you have completed the IVR setup on both AWS Console and ServiceNow 
 
     The following image illustrates the flow:
 
-    ![Illustration to set up language attributes for the new language added.](../images/ivr-set-lang-flow.png "Workflow to set language attribute")
+    ![Illustration to set up language attributes for the new language added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ivr-set-lang-flow.png "Workflow to set language attribute")
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-aws-account.md)
 

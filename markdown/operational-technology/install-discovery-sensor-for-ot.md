@@ -65,11 +65,11 @@ You can register the Sensor after you have installed the OT Discovery Console an
 
     **Note:** The following images are examples specific to an ESXi 8.0 U2 virtual machine.
 
-    ![ESXi 8.0 U2 example](../../operational-technology-discovery-installation-guide/images/image-sensor-iso-efi2.png)
+    ![ESXi 8.0 U2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-installation-guide/images/image-sensor-iso-efi2.png)
 
     **Note:** For communications to work between Discovery components, two network adapters should be connected on the VM.
 
-    ![Select 2 NICs example](../../operational-technology-discovery-installation-guide/images/image-sensor-two-nics2.png)
+    ![Select 2 NICs example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-installation-guide/images/image-sensor-two-nics2.png)
 
     **Note:** For other VM options, ensure that EFI is selected \(and not BIOS\) as the Firmware and that the "Enable Secure Boot" flag is not selected.
 
@@ -99,28 +99,28 @@ You can register the Sensor after you have installed the OT Discovery Console an
 
     You see this screen:
 
-    ![Select defaults?](../../ot-discovery-solution-install-deploy-guide/images/sensor-install-accept-defaults.png)
+    ![Select defaults?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../ot-discovery-solution-install-deploy-guide/images/sensor-install-accept-defaults.png)
 
 23. Select `Yes` to start the install.
 
 24. Once the install is complete, select **Enter** to reboot the VM.
 
-    ![Reboot the VM](../../operational-technology-discovery-installation-guide/images/sensor-install-reboot.png)
+    ![Reboot the VM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-installation-guide/images/sensor-install-reboot.png)
 
     This screen displays after the Sensor boots up.
 
-    ![Sensor is installed](../../operational-technology-discovery-installation-guide/images/sensor-install-servicenow.png)
+    ![Sensor is installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-installation-guide/images/sensor-install-servicenow.png)
 
 25. On the VM page, the DMI page URL displays.
 
-    ![DMI page URL](../../operational-technology-discovery-installation-guide/images/sensor-install-dmi-ip.png)
+    ![DMI page URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-installation-guide/images/sensor-install-dmi-ip.png)
 
 26. Use this URL to log into the DMI and register your Discovery Sensor for OT to the Console.
 
-    See [Register the Discovery Sensor for OT](registering-ot-sensor.md) on how to register the Sensor.
+    See [Register the Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/registering-ot-sensor.md) on how to register the Sensor.
 
 
 ## What to do next
 
-[Register the Discovery Sensor for OT](registering-ot-sensor.md)
+[Register the Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/registering-ot-sensor.md)
 

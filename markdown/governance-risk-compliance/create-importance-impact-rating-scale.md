@@ -38,7 +38,7 @@ A user with the sn\_oper\_res.admin role can change the rating scale for the ind
 
     You see the default importance and impact tolerance rating scales as shown in the following example.
 
-    ![Importance and Impact Tolerance Rating Scales module.](../image/importance-and-impact-rating-scale-module.png "Importance and Impact Tolerance Rating Scales module")
+    ![Importance and Impact Tolerance Rating Scales module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/importance-and-impact-rating-scale-module.png "Importance and Impact Tolerance Rating Scales module")
 
 2.  Click **New**.
 
@@ -46,6 +46,6 @@ A user with the sn\_oper\_res.admin role can change the rating scale for the ind
 
 3.  On the form, fill in the fields and click **Submit**.
 
-    For a description of the field values on the Rating Scale New Record form, see [Rating Scale New Record form](../reference/importance-and-impact-rating-scale-reference.md).
+    For a description of the field values on the Rating Scale New Record form, see [Rating Scale New Record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/importance-and-impact-rating-scale-reference.md).
 
 

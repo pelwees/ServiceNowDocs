@@ -17,7 +17,7 @@ Use scripted post-processors to modify search result records for display in a se
 
 For example, a search scripted post-processor can modify search result date or currency field values to display in the user's regional formats.
 
-**Parent Topic:**[Search application configurations](defining-search-app-cfgs-ais.md)
+**Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
 ## Create a search scripted post-processor
 
@@ -49,7 +49,7 @@ Role required: search\_application\_admin
 
 5.  On the Search Scripted Post-processors form, fill in the fields.
 
-    For a description of the field values, see [Search Scripted Post-processors form](../reference/search-script-postprocess-form-ais.md). If you copied code from an existing post-processor script in step [1.e](script-post-process-ais.md#copy-search-script-processor-code), paste it into the new script's **Post processing script** field and modify it as needed.
+    For a description of the field values, see [Search Scripted Post-processors form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/search-script-postprocess-form-ais.md). If you copied code from an existing post-processor script in step [1.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/script-post-process-ais.md#copy-search-script-processor-code), paste it into the new script's **Post processing script** field and modify it as needed.
 
 6.  Select **Submit**.
 
@@ -82,7 +82,7 @@ You must have already created the search script post-processor that you want to 
 
 4.  On the Search Scripted Post-processors form, select the reference lookup icon ![](../../navigation-and-ui/image/IconReferencelookup.png) for the **Search scripted processor** field and select the search scripted post-processor that you want to link to the search application configuration.
 
-    For a description of the field values, see [Search Scripted Post-processors form](../reference/search-script-postprocess-form-ais.md).
+    For a description of the field values, see [Search Scripted Post-processors form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/search-script-postprocess-form-ais.md).
 
 5.  Select **Submit**.
 

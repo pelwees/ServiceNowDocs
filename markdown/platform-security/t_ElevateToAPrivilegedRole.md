@@ -34,12 +34,12 @@ Role required: admin
 4.  End role elevation by returning to the dialog box in step 2, and deselecting the role.
 
 
-**Parent Topic:**[Elevated privilege roles](../concept/c_ElevatedPrivilege.md)
+**Parent Topic:**[Elevated privilege roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_ElevatedPrivilege.md)
 
 **Related topics**  
 
 
-[Security\_admin role](../concept/security-admin-role.md)
+[Security\_admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/security-admin-role.md)
 
-[Force administrators to manually elevate](t_ForceAdmManElev.md)
+[Force administrators to manually elevate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_ForceAdmManElev.md)
 

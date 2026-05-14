@@ -133,12 +133,12 @@ Role required: admin.
 
 11. In the AWS Lambda function, specify the Webhook Callback URL and save the changes.
 
-    ![Webhook Callback URL](../image/alexa-url.png)
+    ![Webhook Callback URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/alexa-url.png)
 
 12. Log in to [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask).
 
 13. Navigate to **Build** &gt; **CUSTOM** &gt; **Endpoint** and specify ARN of the AWS Lambda function you had configured.
 
-    ![AWS Lambda ARN](../image/alexa-lambda-arn.png)
+    ![AWS Lambda ARN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/alexa-lambda-arn.png)
 
 

@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-Changes are also indicated on the timeline. For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+Changes are also indicated on the timeline. For more information, see [Viewing related items on the Unified Map timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/unified-map-timeline-working-on.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Changes are also indicated on the timeline. For more information, see [Viewing r
 
     All changes for the selected CI appear on the panel.
 
-    ![Details of changes for the CI.](../image/um-changes-panel.png)
+    ![Details of changes for the CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-changes-panel.png)
 
     -   Select **Show more / Show less** for details on a card.
     -   To flag a change as important, hold the cursor over a change and then select the Flag as important icon.
@@ -49,10 +49,10 @@ Changes are also indicated on the timeline. For more information, see [Viewing r
         -   Filter sets
     -   Select the Search icon ![](../image/icon-um-change-search.png) and enter text in the **Search Activity stream** field to find specific changes by entering terms.
     -   Select the ascending ![](../image/icon-um-open-filter-panel.png) or descending sort icon ![](../image/icon-um-change-sort.png) to toggle between ascending or descending sort.
-    -   Create a filter set to supplement the existing filtering options on the Changes panel. You can save filter settings for reuse. For more information, see [Create or manage a user preset](unified-map-manage-preset-filter.md).
+    -   Create a filter set to supplement the existing filtering options on the Changes panel. You can save filter settings for reuse. For more information, see [Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md).
 
 **Related topics**  
 
 
-[Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md)
+[Viewing related items on the Unified Map timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/unified-map-timeline-working-on.md)
 

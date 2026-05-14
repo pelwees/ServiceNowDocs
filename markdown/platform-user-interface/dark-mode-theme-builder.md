@@ -17,7 +17,7 @@ Theme Builder includes a dark mode option, offering an eye-friendly alternative 
 
 **Note:** Dark mode applies to the Theme Builder interface only and does not affect the appearance of individual themes.
 
-![Theme Builder display mode options modal with Dark mode selected.](../image/tb-display-mode.png "Theme Builder display mode options")
+![Theme Builder display mode options modal with Dark mode selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-display-mode.png "Theme Builder display mode options")
 
-**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 

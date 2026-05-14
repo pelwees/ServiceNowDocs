@@ -17,12 +17,12 @@ Use guided setup to step through the initial Field Service Management configurat
 
 **Note:** This guided setup assists you with only the basic configuration and doesn’t include all the features and capabilities of Field Service Management.
 
-![Field Service Guided Setup interface that contains the Foundation Data section, the Products, Assets, and Inventory section, the Field Service Process section, and a progress bar.](../image/guided-setup-cropped-fsm.png)
+![Field Service Guided Setup interface that contains the Foundation Data section, the Products, Assets, and Inventory section, the Field Service Process section, and a progress bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/guided-setup-cropped-fsm.png)
 
 **Related topics**  
 
 
-[Planning your Field Service Management implementation](planning-implementation-fsm.md)
+[Planning your Field Service Management implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/planning-implementation-fsm.md)
 
-[Configuring Field Service Management using Guided Setup](../task/configuring-fsm-with-guided-setup.md)
+[Configuring Field Service Management using Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/configuring-fsm-with-guided-setup.md)
 

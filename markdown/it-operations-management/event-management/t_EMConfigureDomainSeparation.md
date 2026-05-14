@@ -43,7 +43,7 @@ Supported. Separation is based on the domain user that sent events. User access 
 
 In a multi-domain environment, each MID Server can serve only one domain according to the integration user that it uses. In the configuration of the connector instance, make sure that the MID Server have same domain as Connector instance.
 
-To configure pull connectors to support custom domain separation, see [Personalize domains for pull connector events to use in event creation](personalize-domain-separation-pull-connectors.md).
+To configure pull connectors to support custom domain separation, see [Personalize domains for pull connector events to use in event creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/personalize-domain-separation-pull-connectors.md).
 
 </td></tr><tr><td>
 

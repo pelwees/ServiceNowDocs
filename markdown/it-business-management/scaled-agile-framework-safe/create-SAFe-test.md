@@ -153,7 +153,7 @@ Check box used to mark a test step for verification.
 
 </td></tr><tr><td>
 
-Delete a test step \(![Delete a test step icon](../../test-management2/images/deleteteststep.png)\)
+Delete a test step \(![Delete a test step icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../test-management2/images/deleteteststep.png)\)
 
 </td><td>
 

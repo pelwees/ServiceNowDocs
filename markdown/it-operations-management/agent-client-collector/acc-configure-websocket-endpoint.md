@@ -45,5 +45,5 @@ For added security, ensure that MID Servers deployed for the Agent Client Collec
 6.  In the **Related Links** section, select **Start** to activate the websocket endpoint.
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-configuring-with-mid.md)
 

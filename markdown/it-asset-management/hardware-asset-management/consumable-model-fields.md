@@ -136,10 +136,10 @@ Active
 Option that indicates the lifecycle of the model is active.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/reference-hardware-asset-management.md)
 
 **Related topics**  
 
 
-[Create a hardware or consumable model](../task/create-hardware-consumable-model.md)
+[Create a hardware or consumable model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-hardware-consumable-model.md)
 

@@ -33,7 +33,7 @@ Start and stop entries in the Time Entry table mark when an agent is actively wo
     -   Is inactive on the current tab for two minutes
     -   Logs out
 
-The Time Entry table stores the start and stop events and the time captured for each start/stop pair. The system runs a scheduled job every 24 hours that aggregates this information and stores it in the Time Entry Aggregated table. Agents can view this aggregated time data in the [My Timelog list](csm-config-ws-time-tracking.md#time_tracker_my_timelog_list).
+The Time Entry table stores the start and stop events and the time captured for each start/stop pair. The system runs a scheduled job every 24 hours that aggregates this information and stores it in the Time Entry Aggregated table. Agents can view this aggregated time data in the [My Timelog list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-time-tracking.md#time_tracker_my_timelog_list).
 
 ## Timer component
 
@@ -69,7 +69,7 @@ The activity timer log feature is available with the Activity Timer Reporting pl
 
 ## Record pages with the activity timer log feature
 
-The activity timer log feature is available on the following [record pages](csm-config-workspace-record-pages.md) in CSM Configurable Workspace:
+The activity timer log feature is available on the following [record pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md) in CSM Configurable Workspace:
 
 -   CSM default record page
 -   Front-line case page

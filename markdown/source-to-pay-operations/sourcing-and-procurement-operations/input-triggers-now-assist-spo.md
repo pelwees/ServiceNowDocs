@@ -679,10 +679,10 @@ Base input fields
 -   Business owner
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](../task/configure-now-assist-for-spo.md)
+</table>**Parent Topic:**[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/configure-now-assist-for-spo.md)
 
 **Related topics**  
 
 
-[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill](../task/cust-now-assist-spo-skill.md)
+[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/cust-now-assist-spo-skill.md)
 

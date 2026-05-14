@@ -45,7 +45,7 @@ Role required: asset
 
 4.  Select the **Inventory insights** tab.
 
-    ![Supply vs Demand report](../image/supply-demand-report-ham.png "Supply vs Demand report")
+    ![Supply vs Demand report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/supply-demand-report-ham.png "Supply vs Demand report")
 
     The Supply vs Demand report shows the count on the y-axis and the model on the x-axis, with separate bars for supply and demand for each model. This visual representation helps you to compare the available quantity of each model in the stockroom with the number of requests from different service locations. By looking at the graph, you can determine which models have enough supply to meet demand and which ones need more stock.
 
@@ -79,5 +79,5 @@ Role required: asset
     The Supply vs Demand graph updates to show the recently calculated values.
 
 
-**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](../concept/manage-stockroom-inventory-report-ham.md)
+**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-stockroom-inventory-report-ham.md)
 

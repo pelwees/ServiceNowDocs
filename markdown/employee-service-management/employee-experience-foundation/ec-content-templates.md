@@ -22,7 +22,7 @@ Your instance includes two out of the box templates with a set duration of 90 da
 
 **Note:** If you insert a news widget onto a portal page that doesn't already have one configured out-of-the-box, you must create a new content destination to include that page in a content template.
 
-To view a graphic that displays where the News widgets appear, see [News articles](ec-news-articles.md).
+To view a graphic that displays where the News widgets appear, see [News articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-news-articles.md).
 
 To view the templates, navigate to **All** &gt; **Content Publishing** &gt; **Content Templates** &gt; **View All**.
 
@@ -30,7 +30,7 @@ To view the templates, navigate to **All** &gt; **Content Publishing** &gt; **Co
 
 ## Creating a Content template
 
-A user with the sn\_cd.content\_template\_owner role creates a content template to define the article layout, publishing location, and audience. For more information, see [Create a Content template](../task/ec-create-content-template.md).
+A user with the sn\_cd.content\_template\_owner role creates a content template to define the article layout, publishing location, and audience. For more information, see [Create a Content template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-create-content-template.md).
 
 ## Using Content templates
 

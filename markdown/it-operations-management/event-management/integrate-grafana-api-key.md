@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_integration
 
 1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **REST API Key**.
 
-    ![Rest API navigation](../image/em-rest-api-navigation.png)
+    ![Rest API navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-rest-api-navigation.png)
 
 2.  Select **New**.
 
@@ -47,8 +47,8 @@ Role required: evt\_mgmt\_integration
 
     The system generates a token and saves it in the **Token** field. To see the token, use the lock icon and copy the contents display below the field. This is your query parameter \(or header\) value when your other system sends a REST API request to ServiceNow.
 
-    ![Rest API token generated in the Token field.](../image/em-rest-api-token.png)
+    ![Rest API token generated in the Token field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-rest-api-token.png)
 
 
-**Parent Topic:**[Integrate Grafana events](../concept/grafana-integration.md)
+**Parent Topic:**[Integrate Grafana events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/grafana-integration.md)
 

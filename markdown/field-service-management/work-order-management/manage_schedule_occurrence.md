@@ -27,7 +27,7 @@ The calendar displays either single events or stacked events when multiple event
 
 1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Workspace**
 
-2.  Select the **Planning calendar** icon \(![Planning calendar icon](../image/show-schedule-new.png)\).
+2.  Select the **Planning calendar** icon \(![Planning calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/show-schedule-new.png)\).
 
 3.  Generate work orders for the schedule occurrence by right-clicking the event and selecting **Generate work orders**.
 
@@ -43,7 +43,7 @@ The calendar displays either single events or stacked events when multiple event
 
 6.  Determine the information that you want to display on the calendar.
 
-    1.  Select the Filter icon \(![filter icon](../image/filter-right-side.png)\).
+    1.  Select the Filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/filter-right-side.png)\).
 
         -   To view records of a specific plan, select **Plans** and select a plan.
         -   To view records based on the plan type, select **Plan types** and select a plan type.

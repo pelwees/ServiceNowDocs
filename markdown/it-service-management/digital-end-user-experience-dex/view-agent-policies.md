@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the DEX Administration icon \(![The DEX Administration icon.](../image/icon-administration.png)\).
+2.  In the primary navigation pane, select the DEX Administration icon \(![The DEX Administration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-administration.png)\).
 
 3.  Select **Manage policies** on the Agent policies card.
 

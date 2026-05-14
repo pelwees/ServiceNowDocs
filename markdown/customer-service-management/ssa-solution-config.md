@@ -37,7 +37,7 @@ A ServiceNow AI Platform administrator must have installed the content pack plug
 
     1.  Filter the indicator sources on the dashboard name.
 
-        This screenshot shows the indicator sources filtered on the Self-Service Analytics dashboard from the Self Service Analytics for Customer Service Platform Analytics Solution. ![Indicator Sources tab showing the indicator sources and their details for the Self-Service Analytics dashboard.](../../../product/customer-service-management/image/pa-admin-console-indicator-sources.png)
+        This screenshot shows the indicator sources filtered on the Self-Service Analytics dashboard from the Self Service Analytics for Customer Service Platform Analytics Solution. ![Indicator Sources tab showing the indicator sources and their details for the Self-Service Analytics dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../product/customer-service-management/image/pa-admin-console-indicator-sources.png)
 
     2.  Review the facts table, conditions, and frequency of the indicator sources compared to the data structure on your own instance.
 
@@ -69,7 +69,7 @@ A ServiceNow AI Platform administrator must have installed the content pack plug
 **Related topics**  
 
 
-[Platform Analytics Solutions for Self-Service Analytics for Customer Service](../../dashboards/application-content-packs/ssa-cs-content-pack.md)
+[Platform Analytics Solutions for Self-Service Analytics for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../dashboards/application-content-packs/ssa-cs-content-pack.md)
 
 [Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/self-service-analytics.md)
 

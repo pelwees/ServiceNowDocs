@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select **New**.
 
-    ![Creating a new environment](../image/new-environment-purple.png "Environment - new record")
+    ![Creating a new environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/new-environment-purple.png "Environment - new record")
 
 3.  On the form, fill in the fields.
 
@@ -98,7 +98,7 @@ Is Controller?
 
 </td><td>
 
-Identifies if this instance is a controller. This should be selected for the production environment record where you plan to manage deployment requests. For more information, see [Configure your controller instance](config-controller-instance.md).
+Identifies if this instance is a controller. This should be selected for the production environment record where you plan to manage deployment requests. For more information, see [Configure your controller instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/config-controller-instance.md).
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.

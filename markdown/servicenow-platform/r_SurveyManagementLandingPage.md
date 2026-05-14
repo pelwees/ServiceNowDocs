@@ -43,44 +43,44 @@ Survey wizards are not impacted and cannot be migrated.
 
 |Capability|Surveys|Legacy Surveys|
 |----------|-------|--------------|
-|Surveys in Service Portal.|![check mark](../image/Tick.png)| |
-|Save new survey responses each time a user takes the same survey.|![check mark](../image/Tick.png)| |
-|Create question templates to reuse sets of answer options.|![check mark](../image/Tick.png)| |
-|Categorize survey questions and report on category results.|![check mark](../image/Tick.png)| |
-|Deactivate a survey without deleting it.|![check mark](../image/Tick.png)| |
-|Create conditional questions.|![check mark](../image/Tick.png)| |
-|Send surveys automatically based on a schedule.|![check mark](../image/Tick.png)| |
-|Customize survey questionnaire color scheme.|![check mark](../image/Tick.png)| |
-|Save anonymous survey responses for logged-in users.|![check mark](../image/Tick.png)| |
-|View survey responses on graphical scorecards.|![check mark](../image/Tick.png)| |
-|Save surveys in a draft state until they are ready to publish.|![check mark](../image/Tick.png)| |
-|Create and send surveys from one page.|![check mark](../image/Tick.png)| |
-|Allow only specific users to access a survey.|![check mark](../image/Tick.png)| |
-|Send surveys based on conditions.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Send survey email notifications.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Limit how often a user can take the same survey.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Add introduction and end note text.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Create survey modules.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Public survey: Allow persons to take a survey without logging in.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
-|Use update sets to track changes.|![check mark](../image/Tick.png)|![check mark](../image/Tick.png)|
+|Surveys in Service Portal.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Save new survey responses each time a user takes the same survey.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Create question templates to reuse sets of answer options.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Categorize survey questions and report on category results.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Deactivate a survey without deleting it.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Create conditional questions.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Send surveys automatically based on a schedule.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Customize survey questionnaire color scheme.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Save anonymous survey responses for logged-in users.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|View survey responses on graphical scorecards.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Save surveys in a draft state until they are ready to publish.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Create and send surveys from one page.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Allow only specific users to access a survey.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)| |
+|Send surveys based on conditions.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Send survey email notifications.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Limit how often a user can take the same survey.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Add introduction and end note text.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Create survey modules.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Public survey: Allow persons to take a survey without logging in.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
+|Use update sets to track changes.|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|![check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Tick.png)|
 
--   **[Using surveys](../concept/using-surveys.md)**  
+-   **[Using surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/using-surveys.md)**  
 Survey administrators—users with the survey\_admin role—create and maintain surveys and configure how they are distributed and published. Surveys on Service Portal are also supported.
--   **[Surveys reference](survey-reference.md)**  
+-   **[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)**  
 Reference topics provide additional information about the forms, fields, and properties you use while working with surveys.
 
-**Parent Topic:**[Assessments and Surveys](../../assessments/concept/assessments-surveys-landing-page.md)
+**Parent Topic:**[Assessments and Surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/concept/assessments-surveys-landing-page.md)
 
 **Related topics**  
 
 
-[Legacy survey migration](../concept/c_MigrateSurveys.md)
+[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MigrateSurveys.md)
 
-[Survey designer](../concept/c_SurveyDesigner.md)
+[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesigner.md)
 
-[Survey roles](r_SurveyManagementRoles.md#)
+[Survey roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyManagementRoles.md#)
 
-[Surveys in Service Portal and the Now Mobile app](../concept/c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyServicePortal.md)
 
 [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 

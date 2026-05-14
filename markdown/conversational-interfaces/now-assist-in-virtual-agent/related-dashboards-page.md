@@ -21,7 +21,7 @@ The dashboard library in the Related Dashboards page includes dashboards that ha
 
 To access the dashboard library, navigate to **All** &gt; **Assistant Analytics** and select Related Dashboards in the left navigation. The dashboard is accessible to the virtual\_agent\_admin and sn\_na\_analytics.ai\_engmt\_viewer roles.
 
-![Dashboard Library in Related Dashboards screen.](../image/NAinVA-assistant-designer-analytics-related-dashboards.png "Dashboard Library in Related Dashboards page") ![]( "Dashboard Library in Related Dashboards page")
+![Dashboard Library in Related Dashboards screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-assistant-designer-analytics-related-dashboards.png "Dashboard Library in Related Dashboards page") ![]( "Dashboard Library in Related Dashboards page")
 
 ## Dashboard cards
 
@@ -48,7 +48,7 @@ The dashboard library supports pagination to help you navigate through large num
 
 Role required: virtual\_agent\_admin
 
-See [Add a dashboard to dashboard library](add-a-dashboard-to-dashboard-library.md) and [Edit a dashboard in the dashboard library](edit-a-dashboard-in-the-dashboard-library.md) for information on adding and editing a dashboard respectively.
+See [Add a dashboard to dashboard library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-a-dashboard-to-dashboard-library.md) and [Edit a dashboard in the dashboard library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/edit-a-dashboard-in-the-dashboard-library.md) for information on adding and editing a dashboard respectively.
 
 ## View a dashboard
 

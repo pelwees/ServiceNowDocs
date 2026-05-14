@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Do not auto-dismiss page alerts accessibility preference.
 
-![Do not auto-dismiss page alerts accessibility preference.](../image/coral-pref-auto-dismiss.png)
+![Do not auto-dismiss page alerts accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-auto-dismiss.png)
 
 The purpose of this preference is to verify users are aware of critical information and can take necessary actions.
 

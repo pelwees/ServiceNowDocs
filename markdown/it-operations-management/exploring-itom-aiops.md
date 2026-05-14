@@ -69,7 +69,7 @@ Data collected and analyzed by ITOM AIOps provides intelligent insights that sup
 
 Each AIOPs application focuses on specific aspects of IT operations while contributing to a unified AIOps platform.
 
-![Typical flow through AIOps](../image/aiops_overview.png)
+![Typical flow through AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aiops_overview.png)
 
 -   **Agent Client Collector**
 
@@ -142,7 +142,7 @@ Optional applications that extend AIOps capabilities are available from the Serv
 -   SLO Management
 -   Synthetic monitoring
 
-The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](itom-su-licensing-landing-page.md).
+The ServiceNow Product Documentation doesn't provide information on prices, packaging, or other details determined by your organization customer contract. For general information about licensing and subscriptions, see [ITOM/OT SU Licensing and subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-landing-page.md).
 
 ## What to know before you begin
 

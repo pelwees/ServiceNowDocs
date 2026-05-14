@@ -15,15 +15,15 @@ Manage, supervise, and monitor various managerial activities involved in Field S
 
 Monitoring and analytics for Field Service Management includes at least one of the following activities.
 
--   [Field Service Contractor Management](monitoring-analytics-fsm.md#)
+-   [Field Service Contractor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md#)
 
     The Field Service Contractor Management application enables Field Service managers to outsource work by onboarding contractor companies and their staff, such as external managers and external agents.
 
--   [Emergency Exposure Management](monitoring-analytics-fsm.md#)
+-   [Emergency Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md#)
 
     Help identify Field Service technicians and customers who may have visited an affected location.
 
--   [Predictive analytics: Work order insights](monitoring-analytics-fsm.md#)
+-   [Predictive analytics: Work order insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/monitoring-analytics-fsm.md#)
 
     Identify work orders with similar issues and proactively solve problems.
 
@@ -34,20 +34,20 @@ Manage contractor work and service level agreements \(SLA\). With the ServiceNow
 
 The Field Service Contractor Management application enables Field Service managers to outsource work by onboarding contractor companies and their staff, such as external managers and external agents. Work order tasks are assigned to the contractor group's manager from the contractor company. A group qualifies the assignment criterion based on the selected assignment group values, such as the external group, and its coverage area, skills, and product models.
 
-The managers of these contractor companies use the [Contractor Portal](field-service-contractor-portal.md) to review the assigned work order task details and can choose to reject work on the tasks. If they accept the task, they can then reassign the tasks to their contractor team members.
+The managers of these contractor companies use the [Contractor Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-contractor-portal.md) to review the assigned work order task details and can choose to reject work on the tasks. If they accept the task, they can then reassign the tasks to their contractor team members.
 
 If the preferred assignment group is internal but no one in the internal group qualifies for the assignment group criterion, then the system searches for a suitable external group to assign the task to and vice versa.
 
 **Related topics**  
 
 
-[Activate Field Service Contractor Management](../task/activate-contractor-management-plugin.md)
+[Activate Field Service Contractor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-contractor-management-plugin.md)
 
-[Configuring Contractor Management](configuring-fsm-contractor-management.md)
+[Configuring Contractor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-fsm-contractor-management.md)
 
-[Contractor Portal](field-service-contractor-portal.md)
+[Contractor Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-contractor-portal.md)
 
-[Contractor dashboard](../../../use/dashboards/application-content-packs/contractor-dashboard.md)
+[Contractor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/application-content-packs/contractor-dashboard.md)
 
 ## Emergency Exposure Management
 
@@ -79,7 +79,7 @@ The Emergency Exposure Management application enables you to do the following:
 **Related topics**  
 
 
-[Use Emergency Exposure Management for Field Service agent monitoring and assignments](use-exposure-management-fsm.md)
+[Use Emergency Exposure Management for Field Service agent monitoring and assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/use-exposure-management-fsm.md)
 
 ## Predictive analytics: Work order insights
 
@@ -98,5 +98,5 @@ System administrators train solution definitions to identify and cluster similar
 **Related topics**  
 
 
-[View work order trends topics](../task/view-wo-trends.md)
+[View work order trends topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/view-wo-trends.md)
 

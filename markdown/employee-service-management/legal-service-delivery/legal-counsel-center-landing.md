@@ -17,7 +17,7 @@ The Legal Counsel Center is the next experience Workspace that enables the legal
 
 It is a redesigned and restructured version of the Legal Counsel Center Classic Workspace experience built on a configurable UI Builder version. For more information on UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md)
 
-**Important:** Legal Counsel Center Classic is now deprecated and no longer supported or available for new activation. For enhanced workspace experience, use [Legal Counsel Center](legal-counsel-center-landing.md). For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Important:** Legal Counsel Center Classic is now deprecated and no longer supported or available for new activation. For enhanced workspace experience, use [Legal Counsel Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-landing.md). For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 Review the following details to understand the key offerings and differences between these applications:
 
@@ -46,11 +46,11 @@ Leverage UI Builder-   Edit component properties
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-error-red-x.png)
 
 </td></tr><tr><td>
 
@@ -58,11 +58,11 @@ AI search
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-error-red-x.png)
 
 </td></tr><tr><td>
 
@@ -70,11 +70,11 @@ Integration with the Legal Tracker application for Outside counsel engagement
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-error-red-x.png)
 
 </td></tr><tr><td colspan="3">
 
@@ -86,11 +86,11 @@ Legal Request Management
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -98,11 +98,11 @@ Legal Matter Management
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -110,11 +110,11 @@ Contract Management Pro for Legal Service Delivery
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-error-red-x.png)
 
 </td></tr><tr><td>
 
@@ -122,11 +122,11 @@ Legal Simple Intellectual Property
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-error-red-x.png)
 
 </td></tr><tr><td>
 
@@ -134,11 +134,11 @@ Legal Conflict of Interest
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -146,11 +146,11 @@ Legal Content Review
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -158,11 +158,11 @@ Legal Digital Forensics
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -170,11 +170,11 @@ Legal Investigations
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -182,11 +182,11 @@ Legal Simple Contracts
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -194,11 +194,11 @@ Legal Simple Privacy
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -206,11 +206,11 @@ Legal Stock Preclearance
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>

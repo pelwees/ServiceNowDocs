@@ -23,16 +23,16 @@ Role required: sn\_ap\_apm.admin
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Invoice exception definition**.
 
-    ![Navigate to Invoice exception definition](../image/apo-invoice-exp-nav.png)For more information on configuring **invoice exception definition**, see [Invoice exception definition form](../reference/invoice-exception-definition-form.md).
+    ![Navigate to Invoice exception definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-invoice-exp-nav.png)For more information on configuring **invoice exception definition**, see [Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/invoice-exception-definition-form.md).
 
 2.  Populate the tolerance type on the invoice exception definition form.
 
-    For more information on the tolerance type, see [Define an invoice tolerance type](define-a-new-tolerance-type-definition.md).
+    For more information on the tolerance type, see [Define an invoice tolerance type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/define-a-new-tolerance-type-definition.md).
 
 3.  You must update the **Subflow** logic to include associated tolerance type logic as per the business requirement.
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tolerance-rules-and-variance.md)
 

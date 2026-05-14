@@ -27,7 +27,7 @@ A chargeback is bank initiated, pursued when a card provider requests from the m
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -63,5 +63,5 @@ A chargeback is bank initiated, pursued when a card provider requests from the m
 -   If determination was made to deny the dispute, the transaction task state updates to Closed complete.
 -   If determination was made to pursue chargeback, the relevant tasks for the transaction will trigger for the Chargeback stage.
 
-**Parent Topic:**[Investigating a dispute](investigate-a-dispute.md)
+**Parent Topic:**[Investigating a dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)
 

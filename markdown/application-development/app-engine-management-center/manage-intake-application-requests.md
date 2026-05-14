@@ -17,9 +17,9 @@ View details of intake requests submitted by developers in App Engine Studio in 
 
 ## Before you begin
 
-Before intake requests can be displayed in AEMC, you must confirm that the Application Intake application has been properly configured. For more information, see [Configure Application Intake](config-app-intake.md). For more information about how to submit intake requests, see [Submit your idea for app development](submit-intake-request.md).
+Before intake requests can be displayed in AEMC, you must confirm that the Application Intake application has been properly configured. For more information, see [Configure Application Intake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/config-app-intake.md). For more information about how to submit intake requests, see [Submit your idea for app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/submit-intake-request.md).
 
-App requests submitted from Creator Studio restricted users are managed on the App tab on the Requests page. For more information, see [Manage app requests from Creator Studio](manage-app-requests-creator-studio.md).
+App requests submitted from Creator Studio restricted users are managed on the App tab on the Requests page. For more information, see [Manage app requests from Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/manage-app-requests-creator-studio.md).
 
 Role required: sn\_app\_eng\_notify.app\_engine\_admin
 
@@ -33,7 +33,7 @@ Role required: sn\_app\_eng\_notify.app\_engine\_admin
 
 2.  Select an intake request to review its details.
 
-    ![Pending application intake request to review](../image/app-intake-record.png "Pending intake request")
+    ![Pending application intake request to review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/app-intake-record.png "Pending intake request")
 
 3.  Return to the **Details** tab and review the request.
 
@@ -59,7 +59,7 @@ Option to give one or more of the following groups permission to develop this ap
 -   App Engine Studio Users
 -   Creator Studio Restricted Users
 -   Creator Studio Users
-For more information about how to control which groups show up in this list, see [Manage user groups for Application Intake](manage-app-intake-user-groups.md).
+For more information about how to control which groups show up in this list, see [Manage user groups for Application Intake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/manage-app-intake-user-groups.md).
 
 </td></tr><tr><td id="d66087e278">
 
@@ -80,8 +80,8 @@ Option not to add any groups to the application at the time of the request.
 </td></tr></tbody>
 </table>5.  Approve or reject the request.
 
-    -   If the request is approved, the user is added to the App Engine Studio User group and granted the App Engine Studio User role. The AES User role enables developers to begin creating their application in AES in the approved instance. The user also receives an email notification with a link to the provisioned instance. For more information about the AES User role, see [Components installed with App Engine Studio](../reference/installed-with-aes.md).
+    -   If the request is approved, the user is added to the App Engine Studio User group and granted the App Engine Studio User role. The AES User role enables developers to begin creating their application in AES in the approved instance. The user also receives an email notification with a link to the provisioned instance. For more information about the AES User role, see [Components installed with App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../reference/installed-with-aes.md).
     -   If the request is rejected, a rejection email is sent to the user. The user can submit new requests. However, the rejected request can’t be edited.
 
-**Parent Topic:**[Managing requests using AEMC](../concept/manage-aemc-requests.md)
+**Parent Topic:**[Managing requests using AEMC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../concept/manage-aemc-requests.md)
 

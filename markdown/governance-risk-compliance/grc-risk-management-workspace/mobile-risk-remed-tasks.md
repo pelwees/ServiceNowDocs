@@ -25,7 +25,7 @@ Edit or assign an unassigned remediation task directly from the list of records.
 
 ## Procedure
 
-1.  If you're not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-risk-mobileapp.md).
+1.  If you're not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-login-risk-mobileapp.md).
 
 2.  With the Risk landing screen displayed, under the `Team's Unassigned Work` section, tap **Remediation Tasks**.
 
@@ -33,7 +33,7 @@ Edit or assign an unassigned remediation task directly from the list of records.
 
     The Remediation Tasks screen is displayed with a list of records.
 
-3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](mobile-risk-set-filters.md) to search for records that match specific search criteria.
+3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
@@ -57,7 +57,7 @@ Description
 
 In the Extend by days field on the Edit Remediation Task screen that is displayed, enter a value. This value is added to the Duration field in your ServiceNow AI Platform instance. To assign the remediation task, tap the Assigned to field and tap a name. Alternatively, enter a user name in the search field.
 
-Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr><tr><td id="d93868e175">
 
@@ -90,7 +90,7 @@ With the Details tab selected, choose one to continue.-   View the fields for de
 
 Tap the **Issue** field to expand it. On the Issue screen, a list of records is displayed. Tap an item to display more details about the Risk Statement and Risk record.
 
--   Navigate back to the Remediation Task record and tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\) to assign or edit the remediation task. Follow the steps described in the preceding table.
+-   Navigate back to the Remediation Task record and tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to assign or edit the remediation task. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d93868e244">
@@ -99,8 +99,8 @@ Tap the **Issue** field to expand it. On the Issue screen, a list of records is 
 
 </td><td>
 
-With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
--   At the top right of the screen, tap the menu icon \( ![Menu icon.](../../grc-common/image/mobile-top-menu.png)\) to edit and assign the remediation task. Follow the steps described in the preceding table.
+With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
+-   At the top right of the screen, tap the menu icon \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to edit and assign the remediation task. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d93868e274">
@@ -118,5 +118,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/mobile-risk-overview.md)
 

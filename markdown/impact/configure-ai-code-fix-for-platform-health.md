@@ -21,9 +21,9 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\)
 
 The following are minimum prerequisites:
 
--   Install and configure the Impact Store App. See [Configure the Impact Store Application](configuring-impact-platform.md) for details.
--   Scan Engine configured: See [Activate Scan Engine and review settings](../task/configure-initial-scan-engine-settings.md) for details.
--   Now Assist for Impact, version 3.03: See [Activate Now Assist skills in Now Assist for Impact](activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
+-   Install and configure the Impact Store App. See [Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md) for details.
+-   Scan Engine configured: See [Activate Scan Engine and review settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/configure-initial-scan-engine-settings.md) for details.
+-   Now Assist for Impact, version 3.03: See [Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/activate-now-assist-skills-in-now-assist-for-impact_0.md) for details.
 -   Now Assist for Platform, version 11.01
 
 ## Procedure
@@ -42,7 +42,7 @@ The following are minimum prerequisites:
 
 7.  On the Code Fix tile, select **Activate skill.**
 
-    ![The Now Assist Admin Console with the Impact Code Fix activation tile displayed.](../image/impact-activate-skill-now-assist-adminpanel.png)
+    ![The Now Assist Admin Console with the Impact Code Fix activation tile displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/impact-activate-skill-now-assist-adminpanel.png)
 
     The button on the tile updates to **Deactivate skill** when the option has been selected and the status will show **Active**.
 

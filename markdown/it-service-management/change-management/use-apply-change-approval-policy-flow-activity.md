@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-This flow action uses the **Ask For Approval** flow action to apply approvals that are derived from the Change approval policy. For more information on how to configure approval policies, see [Create approval definitions](create-approval-definitions.md).
+This flow action uses the **Ask For Approval** flow action to apply approvals that are derived from the Change approval policy. For more information on how to configure approval policies, see [Create approval definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-approval-definitions.md).
 
 When approvals are being generated, the **Ask For Approval** action avoids generating more than one approval for the same user. For example, if the policy requires approval from two groups and both groups have the same user, then the shared user is notified only once for the approval.
 
@@ -65,7 +65,7 @@ Change Request
 
 </td><td>
 
-Source of the change request required by the policy. Select this field using the data pill picker icon \( ![data pill picker icon.](../image/data_pill_picker.png)\). Alternatively, you can select the change request from the Change Request list.
+Source of the change request required by the policy. Select this field using the data pill picker icon \( ![data pill picker icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/data_pill_picker.png)\). Alternatively, you can select the change request from the Change Request list.
 
 </td></tr><tr><td>
 
@@ -83,5 +83,5 @@ Due date for the approval policy. Select one of the following options:-   **None
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-change-approval-policies-cf.md)
 

@@ -19,19 +19,19 @@ UI generation in Now Assist for Creator uses AI-powered skills to help app devel
 
 <table id="table_a31_mx5_lbc" class="nav-card"><tbody><tr><td>
 
-[Explore UI generation![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can create UI experiences with the power of AI.](exploring-ui-generation.md)
+[Explore UI generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how you can create UI experiences with the power of AI.](exploring-ui-generation.md)
 
 </td><td>
 
-[Configure UI generation![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure UI generation.](configuring-ui-generation.md)
+[Configure UI generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure UI generation.](configuring-ui-generation.md)
 
 </td></tr><tr><td>
 
-[Using UI generation![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Quickly generate a UI with natural language.](using-ui-generation.md)
+[Using UI generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Quickly generate a UI with natural language.](using-ui-generation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, roles, and more.](ui-generation-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, roles, and more.](ui-generation-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -61,14 +61,14 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[Exploring UI generation](exploring-ui-generation.md)**  
+-   **[Exploring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-ui-generation.md)**  
 Learn how UI generation uses AI-powered skills to help app developers, UI Builder admins, and low-code developers build experiences on the ServiceNow AI Platform® using natural language.
--   **[Configuring UI generation](configuring-ui-generation.md)**  
+-   **[Configuring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configuring-ui-generation.md)**  
 Configure and install UI generation.
--   **[Using UI generation](using-ui-generation.md)**  
+-   **[Using UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/using-ui-generation.md)**  
 UI generation in Now Assist for Creator enables developers to build ServiceNow portal experiences faster using natural language. Instead of manually configuring each page, module, or data binding, you describe what you need, and Now Assist for Creator it for you.
--   **[UI generation reference](ui-generation-reference.md)**  
+-   **[UI generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/ui-generation-reference.md)**  
 Reference topics provide additional information about configuration properties, roles, and more.
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../build/now-assist-for-creator/concept/using-gen-ai-now-assist-for-creator.md)
 

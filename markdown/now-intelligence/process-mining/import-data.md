@@ -17,7 +17,7 @@ Import external dataset into the audit table to start working with the data in P
 
 ## Before you begin
 
--   [Create an audit table](create-table.md)
+-   [Create an audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-table.md)
 
 You can import using ServiceNow Integration Hub or any other application. This section describes how to import data using ServiceNow Integration Hub.
 
@@ -27,7 +27,7 @@ Role required: sn\_process\_mining\_admin
 
 1.  Select **Import using Integration Hub**, in the Import Data section.
 
-    ![Import using Integration Hub](../image/ext-dataset-3.png)
+    ![Import using Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset-3.png)
 
     A dialog box appears requesting you to confirm your selection, and reminding that after importing data from Integration Hub, you must come to this page again.
 
@@ -41,7 +41,7 @@ Role required: sn\_process\_mining\_admin
 
     **Note:** Ensure to specify `Process Mining for external data` in the **Application** field.
 
-    ![New data import integration](../image/ext-data-inthub1.png)
+    ![New data import integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-data-inthub1.png)
 
 5.  Select **Save &amp; continue**.
 
@@ -57,12 +57,12 @@ Role required: sn\_process\_mining\_admin
     1.  Select **Add a table**.
     2.  Select a target table. This must be the same table that you created.
     3.  Map the target fields with the source fields.
-    ![Map the source and target fields](../image/ext-data-inthub2.png)
+    ![Map the source and target fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-data-inthub2.png)
 
 8.  Schedule your imports.
 
     For detailed information, see [Integration Hub - Import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integrationhub-imports.md).
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/external-dataset.md)
 

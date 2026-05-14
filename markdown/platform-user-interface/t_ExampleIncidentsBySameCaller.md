@@ -23,7 +23,7 @@ Role required: admin
 -   **Queries from table**: This list displays a list of incidents.
 -   **Query with**: This script selects records where the **caller\_id** matches the **caller\_id** of the parent record \(the incident you are viewing\).
 
-![Relationship record.](../image/Relationship.png)
+![Relationship record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Relationship.png)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: admin
 
 4.  Click **Save**.
 
-    ![Incident with the related list of other incidents for the caller.](../image/Relationship3.png)
+    ![Incident with the related list of other incidents for the caller.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Relationship3.png)
 
 
 ## What to do next
@@ -54,7 +54,7 @@ Notes and limitations:
 
 Additional use case: You can enable a similar relationship for the Request table to display **Requests by the Same Caller** using **Requested For** on the Request table.
 
-**Parent Topic:**[Create defined related lists](t_CreateDefinedRelatedLists.md)
+**Parent Topic:**[Create defined related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md)
 
 **Related topics**  
 

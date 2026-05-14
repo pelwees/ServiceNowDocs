@@ -25,7 +25,7 @@ Role required: Any role containing sn\_cmdb\_user \(sn\_cmdb\_user, sn\_cmdb\_ed
 
 ## Service instance
 
-Shows a count of [Service instances](application-services.md) in your organization, based on records in the Service Instance \[cmdb\_ci\_service\_auto\] table. The chart shows the trend of total number of Service instances per day, for the past seven days.
+Shows a count of [Service instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md) in your organization, based on records in the Service Instance \[cmdb\_ci\_service\_auto\] table. The chart shows the trend of total number of Service instances per day, for the past seven days.
 
-Select the tile to access the Service instance dashboard where you can monitor the adoption level and health of Service instances. For more details, see [Use Service instance \(Application Services\) dashboard to monitor health](../task/app-service-dashboard.md).
+Select the tile to access the Service instance dashboard where you can monitor the adoption level and health of Service instances. For more details, see [Use Service instance \(Application Services\) dashboard to monitor health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/app-service-dashboard.md).
 

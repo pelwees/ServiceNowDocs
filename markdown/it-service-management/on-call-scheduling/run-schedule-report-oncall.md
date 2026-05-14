@@ -21,7 +21,7 @@ Role required: itil, roster\_admin, rota\_admin, rota\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Reports** &gt; **Schedule Report**.![Screenshot showing how to navigate to schedule report.](../image/schedule-report-ocs.png)
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Reports** &gt; **Schedule Report**.![Screenshot showing how to navigate to schedule report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/schedule-report-ocs.png)
 
 2.  Specify the **Report style**:
 
@@ -40,7 +40,7 @@ Role required: itil, roster\_admin, rota\_admin, rota\_manager
 
 Example Formatted report: The report shows on-call commitments for all specified groups during the specified date range.
 
-![Formatted Schedule report](../image/ScheduleReportFormattedReport.png "Formatted Schedule report")
+![Formatted Schedule report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/ScheduleReportFormattedReport.png "Formatted Schedule report")
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/viewing-reports.md)
 

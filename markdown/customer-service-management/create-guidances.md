@@ -236,16 +236,16 @@ Specifies the default value of the field for any new record. Ensure that this va
     2.  In the **Preview Title** field, add a title for the guidance preview as either static text, dynamic content \(field values from guidance inputs\), or a combination of static text and dynamic content.
 
         -   To enter static text, type the text into the field.
-        -   To enter dynamic content, select the Pill-picker icon \(![Pill-picker icon](../image/icon-pill-picker.png)\) next to the field and select a guidance input from the list.
+        -   To enter dynamic content, select the Pill-picker icon \(![Pill-picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-pill-picker.png)\) next to the field and select a guidance input from the list.
 
-            You can drill down to find the specific input you want.![Guidance input details for a predicted knowledge base article that references a user table with fields showing the published date, rating, article retiring date, roles, and short description.](../image/ra-csm-guidance-preview-title.png)
+            You can drill down to find the specific input you want.![Guidance input details for a predicted knowledge base article that references a user table with fields showing the published date, rating, article retiring date, roles, and short description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-csm-guidance-preview-title.png)
 
         This field can contain static text, dynamic content, or a combination of static text and dynamic content. To select dynamic content as a field value:
 
-        1.  Select the Pill-picker icon \(![Pill-picker icon](../image/icon-pill-picker.png)\) next to the **Preview Title** field.
+        1.  Select the Pill-picker icon \(![Pill-picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-pill-picker.png)\) next to the **Preview Title** field.
         2.  Select a guidance input from the list. You can drill down to another level to find the input you want.
 
-            ![Guidance input selected is predicted knowledge base article that references to a user table with fields published date, rating, article retiring date, roles and short description.](../image/ra-csm-guidance-preview-title.png)
+            ![Guidance input selected is predicted knowledge base article that references to a user table with fields published date, rating, article retiring date, roles and short description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-csm-guidance-preview-title.png)
 
     3.  In the **Fields To Display** field, select fields to display in the guidance preview.
 
@@ -258,5 +258,5 @@ Specifies the default value of the field for any new record. Ensure that this va
 
 ## What to do next
 
-[Configure guidance detail experience](configure-guidance-preview-detail-experiences-ga.md) for Recommended Actions cards.
+[Configure guidance detail experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-preview-detail-experiences-ga.md) for Recommended Actions cards.
 

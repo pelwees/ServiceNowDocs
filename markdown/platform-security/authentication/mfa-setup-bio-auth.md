@@ -29,17 +29,17 @@ Role required: none
 
 3.  Click **Register biometric authentication**.
 
-    ![MFA Authenticators](../images/mfa-authenticator.png)
+    ![MFA Authenticators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-authenticator.png)
 
 4.  Enter a nickname for your authenticator and click **Register**.
 
-    ![MFA Biometric setup](../images/mfa-biometric.png)
+    ![MFA Biometric setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-biometric.png)
 
 5.  When prompted, follow the instructions on the screen to authenticate with your biometric authenticator.
 
     This message will vary based on your specific authenticator.
 
-    ![Request for biometric authentication](../images/bio-request.png "Example of a biometric authentication request")
+    ![Request for biometric authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/bio-request.png "Example of a biometric authentication request")
 
     After authenticating successfully, you see a confirmation window. Click X to close the confirmation.
 

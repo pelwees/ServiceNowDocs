@@ -19,9 +19,9 @@ Begin building your playbook by adding and configuring the trigger.
 
 Role required: playbook.admin or pd\_author
 
-Review [Triggers](../concept/process-automation-designer-triggers.md).
+Review [Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-triggers.md).
 
-[Create a trigger definition](create-trigger-definition.md) if needed.
+[Create a trigger definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-trigger-definition.md) if needed.
 
 ## About this task
 
@@ -35,11 +35,11 @@ You can add one or multiple triggers to your playbook. The triggers can either b
 
 2.  Open the playbook that you want to configure or create a playbook.
 
-3.  On the left sidebar, select **Triggers** \(![Icon to open the triggers.)](../images/triggers-icon.png)\).
+3.  On the left sidebar, select **Triggers** \(![Icon to open the triggers.)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/triggers-icon.png)\).
 
-    **Note:** You can't open triggers until the parent table is specified for the playbook. To specify a parent table, edit **Start** in the diagram view, or open the **More actions menu** \(![More actions menu](../images/icon-horizontal-menu.png)\) and select **Properties**.
+    **Note:** You can't open triggers until the parent table is specified for the playbook. To specify a parent table, edit **Start** in the diagram view, or open the **More actions menu** \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-horizontal-menu.png)\) and select **Properties**.
 
-    ![Triggers in playbooks with options to edit, delete, or create triggers.](../images/triggers-playbook.png)
+    ![Triggers in playbooks with options to edit, delete, or create triggers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/triggers-playbook.png)
 
     If triggers are already added to the playbook, the **Triggers** screen displays a list of the associated triggers. You can edit, delete, or add a trigger.
 
@@ -74,7 +74,7 @@ Scheduled
 
 1.  Select **Add trigger** &gt; **Scheduled**.
 2.  Specify the scheduling details and the conditions for the trigger and select **Save and close**.
-For more information about scheduling a trigger, see [Create a scheduled trigger for Playbook](create-scheduled-trigger-definition.md)
+For more information about scheduling a trigger, see [Create a scheduled trigger for Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-scheduled-trigger-definition.md)
 
 </td></tr></tbody>
 </table>
@@ -84,14 +84,14 @@ The trigger is configured.
 
 ## What to do next
 
-[Add and configure your stages.](add-configure-stage.md)
+[Add and configure your stages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-triggers.md)
 
 **Related topics**  
 
 
-[Create a trigger definition](create-trigger-definition.md)
+[Create a trigger definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-trigger-definition.md)
 
-[Create a scheduled trigger for Playbook](create-scheduled-trigger-definition.md)
+[Create a scheduled trigger for Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-scheduled-trigger-definition.md)
 

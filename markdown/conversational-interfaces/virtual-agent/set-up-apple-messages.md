@@ -57,5 +57,5 @@ To integrate Apple Messages for Business with your ServiceNow® instance, you ne
 
 ## What to do next
 
-If you want to integrate your Identity Provider \(IdP\), go to: [OAuth setup for Apple Messages for Business](oauth-setup-apple.md).
+If you want to integrate your Identity Provider \(IdP\), go to: [OAuth setup for Apple Messages for Business](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/oauth-setup-apple.md).
 

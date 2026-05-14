@@ -38,5 +38,5 @@ Roles required: admin
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+**Parent Topic:**[Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md)
 

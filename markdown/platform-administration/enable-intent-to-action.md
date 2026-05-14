@@ -36,5 +36,5 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## What to do next
 
-[Create email intents](create-email-intent.md)
+[Create email intents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-intent.md)
 

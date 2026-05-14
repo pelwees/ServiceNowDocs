@@ -150,12 +150,12 @@ function encryptFieldsInRecord(xmlElement) {
 
 If the **filter** attribute value is true, the rule asks the proxy server to encrypt the values in the encoded query. If false, the rule asks the proxy to check whether the field should be encrypted.
 
--   **[XMLContent](c_XMLContentAPI.md#)**  
+-   **[XMLContent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLContentAPI.md#)**  
 A global object that provides methods to iterate over the XML content.
--   **[XMLElementIterator](c_XMLElementIteratorAPI.md#)**  
+-   **[XMLElementIterator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLElementIteratorAPI.md#)**  
 Provides methods for iterating over XML elements.
--   **[XMLElement](c_XMLElementAPI.md#)**  
+-   **[XMLElement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLElementAPI.md#)**  
 Provides methods for iterating through XML elements and mapping values to fields in a table.
 
-**Parent Topic:**[Encryption rule objects and APIs](api-overview.md)
+**Parent Topic:**[Encryption rule objects and APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/api-overview.md)
 

@@ -26,7 +26,7 @@ View the PI - Observability Dashboard by navigating to **Predictive Intelligence
 
 You can drill down to the underlying records from the widget graphics. You can also change the date range of all widgets by selecting **Date** to open the selector.
 
-![The Predictive Intelligence dashboard, showing four widgets: Total Number of Prediction Errors, Prediction Errors Breakdown by Date, Prediction Errors Count by Capability, Prediction Error Count by Error Type.](../images/prediction-errors-observability-dashboardZ1.png "PI Observability Dashboard — upper four widgets")
+![The Predictive Intelligence dashboard, showing four widgets: Total Number of Prediction Errors, Prediction Errors Breakdown by Date, Prediction Errors Count by Capability, Prediction Error Count by Error Type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/prediction-errors-observability-dashboardZ1.png "PI Observability Dashboard — upper four widgets")
 
 The PI - Observability Dashboard draws from a table dedicated to logging prediction errors: **ML Predictor Error Logs** \[ml\_predictor\_error\_logs\].
 
@@ -41,9 +41,9 @@ The table logs the following types of granular errors.
 -   Internal prediction failures — identifies instances when the model was unable to generate a prediction.
 -   Low confidence predictions — records log results falling below a defined confidence threshold.
 
-**Note:** Errors in training aren't included in this table.For a dashboard reporting on training errors, see [Predictive Intelligence Usage Analytics dashboard](predictive-intel-usage-analytics.md).
+**Note:** Errors in training aren't included in this table.For a dashboard reporting on training errors, see [Predictive Intelligence Usage Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intel-usage-analytics.md).
 
-![The lower section of the Predictive Intelligence Observability dashboard, showing two widgets: Error Types by Capability, Successful and Unsuccessful Predictions Breakdown by Date.](../images/prediction-errors-observability-dashboardZ2.png "PI Observability Dashboard — lower two widgets")
+![The lower section of the Predictive Intelligence Observability dashboard, showing two widgets: Error Types by Capability, Successful and Unsuccessful Predictions Breakdown by Date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/prediction-errors-observability-dashboardZ2.png "PI Observability Dashboard — lower two widgets")
 
-**Parent Topic:**[Testing and monitoring predictions](testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/testing-reviewing-ml-solutions.md)
 

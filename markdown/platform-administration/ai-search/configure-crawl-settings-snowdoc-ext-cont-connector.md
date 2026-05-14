@@ -18,7 +18,7 @@ Choose the products that you want your ServiceNow product documentation external
 
 ## Before you begin
 
-A connector admin must have already created the ServiceNow® product documentation external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a ServiceNow product documentation external content connector](create-ext-cont-connector-snowdoc.md).
+A connector admin must have already created the ServiceNow® product documentation external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a ServiceNow product documentation external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-snowdoc.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -57,5 +57,5 @@ If one of your connectors reaches the content indexing limit, you can update its
 
 The ServiceNow product documentation external content connector is updated with your chosen crawl scope.
 
-**Parent Topic:**[ServiceNow product documentation external content connector](../concept/servicenow-product-documentation-external-content-connector.md)
+**Parent Topic:**[ServiceNow product documentation external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/servicenow-product-documentation-external-content-connector.md)
 

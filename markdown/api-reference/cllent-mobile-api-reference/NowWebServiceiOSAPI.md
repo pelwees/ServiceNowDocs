@@ -17,9 +17,9 @@ The NowWebService class provides functions that enable the browsing of web pages
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration parameters to use when initializing the NowWebService instance.|
+|configuration|[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration parameters to use when initializing the NowWebService instance.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowWebService - init\(configuration: NowServiceConfiguration, coreServiceProvider: NowCoreServiceProviding? = nil\)
 
@@ -43,7 +43,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -126,7 +126,7 @@ theme
 
 </td><td>
 
-[NowWebThemeable protocol - iOS](../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)
+[NowWebThemeable protocol - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowWebThemeable/concept/NowWebThemeableiOSProtocol.md)
 
 </td><td>
 

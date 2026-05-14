@@ -64,7 +64,7 @@ The Social Benefits Playbook application provides the following items that are u
     -   Constituent Social Benefits Layout: Includes **Short description**, **Constituent**, and **Case Type** fields.
     -   Business Social Benefits Layout: Includes **Short description**, **Business**, **Business Contact**, and **Case Type** fields.
 
-As an admin, you can enable and disable Advanced Work Assignment for Social Benefits Request cases, as well as change the default attributes for the Social Benefits Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Social Benefit Requests service channel](awa-psds-overview.md#).
+As an admin, you can enable and disable Advanced Work Assignment for Social Benefits Request cases, as well as change the default attributes for the Social Benefits Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Social Benefit Requests service channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md#).
 
 ## Configure Social Benefit Requests service channel
 
@@ -74,7 +74,7 @@ Change the default Social Benefit Requests service channel attributes in Advance
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Social Benefits Playbook application](../task/install-psds-social-benefits-playbook.md).
+-   [Install the Social Benefits Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-social-benefits-playbook.md).
 
 Role required: admin, awa\_admin
 
@@ -168,7 +168,7 @@ The License and Permit Playbook application provides the following items that ar
     -   Constituent License/Permit Layout: Includes **Short description**, **Constituent**, and **Case Type** fields.
     -   Business License/Permit Layout: Includes **Short description**, **Business**, **Business Contact**, and **Case Type** fields.
 
-As an admin, you can enable and disable Advanced Work Assignment for License/Permit Request cases, as well as change the default attributes for the License/Permit Requests service channel, such as the related assignment group and queue settings. For details, see [Configure License and Permits Requests service channel](awa-psds-overview.md#).
+As an admin, you can enable and disable Advanced Work Assignment for License/Permit Request cases, as well as change the default attributes for the License/Permit Requests service channel, such as the related assignment group and queue settings. For details, see [Configure License and Permits Requests service channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md#).
 
 ## Configure License and Permits Requests service channel
 
@@ -178,7 +178,7 @@ Change the default License and Permit Requests service channel attributes in Adv
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the License and Permit Request Playbook application](../task/install-psds-license-permit-request-playbook.md).
+-   [Install the License and Permit Request Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-license-permit-request-playbook.md).
 
 Role required: awa\_admin, admin
 
@@ -273,7 +273,7 @@ The Information Request Playbook application provides the following items that a
     -   Business Information Request layout: Includes **Short description**, **Business**, **Business Contact**, and **Service** fields.
     -   Generic Information Request layout: Includes **Short description** and **Service** fields.
 
-As an admin, you can enable and disable Advanced Work Assignment for Information Request cases, as well as change the default attributes for the Information Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Information Requests service channel](awa-psds-overview.md#).
+As an admin, you can enable and disable Advanced Work Assignment for Information Request cases, as well as change the default attributes for the Information Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Information Requests service channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md#).
 
 ## Configure Information Requests service channel
 
@@ -283,7 +283,7 @@ Change the default Information Requests service channel attributes in Advanced W
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Information Request Playbook application](../task/install-psds-information-request-playbook.md).
+-   [Install the Information Request Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-information-request-playbook.md).
 
 Role required: sn\_gsm\_info\_req.admin, awa\_admin, admin
 
@@ -378,7 +378,7 @@ The Service Request Playbook application provides the following items that are u
     -   Business Service Request layout: Includes **Short description**, **Business**, **Business Contact**, and **Service** fields.
     -   Generate Service Request Layout: Displayed when anonymous users submit service requests. Includes **Short description** and **Service** fields
 
-As an admin, you can enable and disable Advanced Work Assignment for Service Request cases, as well as change the default attributes for the Service Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Service Requests service channel](awa-psds-overview.md#).
+As an admin, you can enable and disable Advanced Work Assignment for Service Request cases, as well as change the default attributes for the Service Requests service channel, such as the related assignment group and queue settings. For details, see [Configure Service Requests service channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md#).
 
 ## Configure Service Requests service channel
 
@@ -388,7 +388,7 @@ Change the default Service Requests service channel attributes in Advanced Work 
 
 -   [Activate the Advanced Work Assignment plugin \(com.glide.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
 -   [Activate the Agent Chat plugin \(com.glide.interaction.awa\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-related-plugins.md).
--   [Install the Service Request Playbook application](../task/install-psds-service-request-playbook.md).
+-   [Install the Service Request Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/install-psds-service-request-playbook.md).
 
 Role required: awa\_admin or admin
 

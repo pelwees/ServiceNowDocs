@@ -24,7 +24,7 @@ Life-cycle operations require the user with `sn_cmp.cloud_service_user` role who
 ## About this task
 
 -   As noted in the descriptions, not all operations are supported for all providers or for all service categories \(resource types\).
--   All other configuration management providers: If a stack or resource requires login, then you must download the associated SSH key before you can access the resource. See [Download an SSH key](cloudmgt-download-ssh-key.md).
+-   All other configuration management providers: If a stack or resource requires login, then you must download the associated SSH key before you can access the resource. See [Download an SSH key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-download-ssh-key.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Life-cycle operations require the user with `sn_cmp.cloud_service_user` role who
 
 2.  While viewing the **Stack Details** page, select the operation from the **Select Stack Operation** or **Select Resource Operation** list.
 
-    For for full descriptions of the operations, see [Life-cycle operations in Cloud Provisioning and Governance](../reference/life-cycle-operation-cloudmgt.md).
+    For for full descriptions of the operations, see [Life-cycle operations in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/life-cycle-operation-cloudmgt.md).
 
     Some operations require settings \(for example, the name of a script or new schedule settings\).
 

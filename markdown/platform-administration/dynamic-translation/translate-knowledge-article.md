@@ -24,9 +24,9 @@ Role required: admin, knowledge\_admin, or knowledge
 
 ## About this task
 
-**Note:** This procedure has been superseded by the Localization Framework. For more information see [Localization Framework support for Knowledge Base](../../../administer/localization-framework/concept/lf-support-for-kb-articles.md). This information is provided for legacy context.
+**Note:** This procedure has been superseded by the Localization Framework. For more information see [Localization Framework support for Knowledge Base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../administer/localization-framework/concept/lf-support-for-kb-articles.md). This information is provided for legacy context.
 
-For information about how administrators configure the translation API, see [DynamicTranslation API](../../../administer/dynamic-translation/concept/dyn-translation-apis.md).
+For information about how administrators configure the translation API, see [DynamicTranslation API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../administer/dynamic-translation/concept/dyn-translation-apis.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ For information about how administrators configure the translation API, see [Dyn
 
     The **Translate from** and **Translate to** panes are side-by-side for easy comparison, as shown in the following figure.
 
-    ![Translate knowledge article panes.](../image/translate-to-from.png)
+    ![Translate knowledge article panes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/translate-to-from.png)
 
 4.  Select **Machine translate** to automatically translate to the targeted languages.
 

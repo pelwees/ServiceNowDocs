@@ -33,7 +33,7 @@ See [Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
     -   Adds delta pricing–related header and line fields, along with pricing adjustment rule identifiers and conditions, and supports mapping these fields across order, product instance, and order copy flows.
 -   **[Price and quantity ramps on order line items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/defining-products-with-ramps.md)**
 
-    View price and quantity ramps directly on order line items to model planned changes over time within a single order, providing visibility into pricing changes without managing multiple orders. For more information, see the [Product Catalog Management and Pricing Management release notes](product-catalog-pricing-management-rn.md)
+    View price and quantity ramps directly on order line items to model planned changes over time within a single order, providing visibility into pricing changes without managing multiple orders. For more information, see the [Product Catalog Management and Pricing Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/product-catalog-pricing-management-rn.md)
 
 -   **[Manage order updates with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/bulk-update-order-lines-with-now-assist.md)**
 
@@ -71,5 +71,5 @@ Install Order Management by requesting it from the ServiceNow Store. Visit the [
     The Sales Agreement application captures the scope and conditions from a quote for future sales transactions, over a specified period between a buyer and a seller.
 
 
-**Parent Topic:**[Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md)
+**Parent Topic:**[Sales Customer Relationship Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/sales-order-management-rn-landing.md)
 

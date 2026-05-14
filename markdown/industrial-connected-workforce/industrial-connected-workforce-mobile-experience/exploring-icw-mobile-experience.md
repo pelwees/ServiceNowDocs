@@ -31,7 +31,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](../task/create-igt-icw-mobile.md)-   Request standards to create guided tasks
+[Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../task/create-igt-icw-mobile.md)-   Request standards to create guided tasks
 -   Standardize operations and support safe, reliable production
 
 </td></tr><tr><td align="left">
@@ -40,7 +40,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create an action in the Industrial Connected Workforce Mobile application](../task/create-action-mobile.md)-   Automate steps of an industrial process
+[Create an action in the Industrial Connected Workforce Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../task/create-action-mobile.md)-   Automate steps of an industrial process
 -   Create temporary, short-term specific tasks, such as inspection
 
 </td></tr><tr><td align="left">
@@ -49,7 +49,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Create a deviation in the Industrial Connected Workforce Mobile application](../task/create-deviation-mobile.md)-   Report non-conformance
+[Create a deviation in the Industrial Connected Workforce Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../task/create-deviation-mobile.md)-   Report non-conformance
 -   Set category, impact, urgency, or attach media
 
 </td></tr><tr><td align="left">
@@ -58,7 +58,7 @@ The Industrial Connected Workforce Mobile Experience enables operators to:
 
 </td><td align="left">
 
-[Standards hub in the Industrial Connected Workforce Mobile Experience](standards-hub-mobile.md)Search through knowledge base articles for assistance
+[Standards hub in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/standards-hub-mobile.md)Search through knowledge base articles for assistance
 
 </td></tr></tbody>
 </table>## Industrial Connected Workforce Mobile Experience benefits
@@ -81,7 +81,7 @@ Users
 -   View tasks assigned to you
 -   View area tasks
 -   View recently updated articles
--   Select or change the functional location via the pin icon \(![Pin icon.](../image/pin-icon-white-background.png)\)
+-   Select or change the functional location via the pin icon \(![Pin icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/pin-icon-white-background.png)\)
 
 </td><td>
 
@@ -132,9 +132,9 @@ Shows active tasks in the user's functional location that are due within the upc
 Shows inactive tasks in the user's functional location that were deactivated within the last seven days. Tasks in this list are sorted by the closed field.
 
 
- To filter the task list, select the filter icon \(![Filter icon](../image/filter-icon.png)\). You can filter by task type or by specific attributes within a selected task type.
+ To filter the task list, select the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/filter-icon.png)\). You can filter by task type or by specific attributes within a selected task type.
 
- ![Tasks shown on the ICW Mobile Experience under My Tasks and Area Tasks on the Home page](../image/mobile-homepage-latest.png)
+ ![Tasks shown on the ICW Mobile Experience under My Tasks and Area Tasks on the Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/mobile-homepage-latest.png)
 
  Within an individual task record, excluding guided tasks, the **Related** tab contains two tabs:
 
@@ -154,12 +154,12 @@ Operators
 
 The Industrial Connected Workforce Mobile Experience gives operators a single place to manage work, report issues, and access knowledge. It supports quick decisions, accurate task execution, and better communication on the shop floor. The app includes offline access, QR and bar code scanner integration in guided task execution, AI-driven search, and standards integration. These features help keep operations moving without interruptions.
 
--   **[Standards hub in the Industrial Connected Workforce Mobile Experience](standards-hub-mobile.md)**  
+-   **[Standards hub in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/standards-hub-mobile.md)**  
 The Industrial Standards Library or Standards hub in the Industrial Connected Workforce Mobile Experience is a collection of published standards and knowledge articles available within your organization.
--   **[AI Search in Industrial Connected Workforce Mobile Experience](ai-search-in-icw-mobile-experience.md)**  
+-   **[AI Search in Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/ai-search-in-icw-mobile-experience.md)**  
 Access the AI Search for Industrial Connected Workforce Mobile Experience by using the search bar on the home page. The system interprets queries to return the most relevant results across configured record types, such as standards, tasks, and knowledge articles.
--   **[Recommended Actions in the Industrial Connected Workforce Mobile Experience](recommended-actions-icw-mobile-experience.md)**  
+-   **[Recommended Actions in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/recommended-actions-icw-mobile-experience.md)**  
 The Recommended Actions feature in Industrial Connected Workforce Mobile Experience \(ICW Mobile\) displays suggested actions directly in the Recommendations tab of a task. These suggestions are based on the current context of the task and are intended to support you during manufacturing processes by providing relevant guidance at the point of need.
 
-**Parent Topic:**[Industrial Connected Workforce Mobile Experience](icw-mobile-exp-landing-page.md)
+**Parent Topic:**[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)
 

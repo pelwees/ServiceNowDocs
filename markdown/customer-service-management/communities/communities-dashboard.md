@@ -17,15 +17,15 @@ The Communities dashboard displays up-to-date status on community usage, members
 
 Access the dashboard by navigating to **All** &gt; **Platform Analytics** &gt; **Dashboards**. On the dashboard page, search Communities Dashboard.
 
-![Overview tab of the Communities Dashboard displaying activity reports in line graphs, trend lines, and pie charts.](../../../product/customer-communities/images/dashboard-overview.jpg)
+![Overview tab of the Communities Dashboard displaying activity reports in line graphs, trend lines, and pie charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../product/customer-communities/images/dashboard-overview.jpg)
 
-![Content tab of the Communities Dashboard displaying monthly trend lines that are related to the new content and a bar graph of total content views.](../../../product/customer-communities/images/dashboard-content.jpg)
+![Content tab of the Communities Dashboard displaying monthly trend lines that are related to the new content and a bar graph of total content views.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../product/customer-communities/images/dashboard-content.jpg)
 
-![Forum tab of the Communities Dashboard displaying a list of KPIs and their details, like the number of views.](../../../product/customer-communities/images/dashboard-forum.jpg)
+![Forum tab of the Communities Dashboard displaying a list of KPIs and their details, like the number of views.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../product/customer-communities/images/dashboard-forum.jpg)
 
-![Topic tab of the Communities Dashboard displaying a list of KPIs and their details, like social activities per content, new content, and views per content.](../../../product/customer-communities/images/dashboard-topic.jpg "Topic tab")
+![Topic tab of the Communities Dashboard displaying a list of KPIs and their details, like social activities per content, new content, and views per content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../product/customer-communities/images/dashboard-topic.jpg "Topic tab")
 
-![Admin tab of the Communities Dashboard displaying trend lines that are based on the number of posts moved and the content featured per month.](../../../product/customer-communities/images/dashboard-admin.jpg)
+![Admin tab of the Communities Dashboard displaying trend lines that are based on the number of posts moved and the content featured per month.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../product/customer-communities/images/dashboard-admin.jpg)
 
 ## End user and roles
 
@@ -248,5 +248,5 @@ Single Score
 View the number of posts featured by different users per month.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics Solutions for Communities](communities-content-pack.md)
+</table>**Parent Topic:**[Platform Analytics Solutions for Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-content-pack.md)
 

@@ -21,9 +21,9 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-Adherence and conformance calculations are based on the [defined configuration](../concept/setup-scheduling-configurable-wfo-cs.md#) and your agents' actual and planned work schedules.
+Adherence and conformance calculations are based on the [defined configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setup-scheduling-configurable-wfo-cs.md#) and your agents' actual and planned work schedules.
 
-**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](../concept/setup-scheduling-configurable-wfo-cs.md#).
+**Note:** Your administrator can disable schedule adherence or change the configuration for adherence and conformance. For more information, see [Configure properties for schedule adherence and conformance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setup-scheduling-configurable-wfo-cs.md#).
 
 For information about schedule adherence, see the "Schedule adherence" section of [Scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/scheduling-wfo-fsm.md).
 
@@ -47,7 +47,7 @@ Analyze time worked summary of your team
 
 </td><td>
 
-1.  Click the Lists icon \(![Lists icon.](../image/list-new.png)\).
+1.  Click the Lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/list-new.png)\).
 2.  Under Schedule Adherence, click **Time Worked Summary**.
 
 **Note:** The **Available Non Planned** time captures the time the agent was available and clocked in outside of the agent's scheduled work events. For example, if an agent is scheduled to attend a training from 13:00 to 14:00 but forgets to clock out that attendance, that time is considered the clocked-in time. The training time from 13:00 to 14:00 is captured as the available non-planned time.
@@ -58,14 +58,14 @@ View your agents' time attendance
 
 </td><td>
 
-1.  Click the Lists icon \(![Lists icon.](../image/list-new.png)\).
+1.  Click the Lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/list-new.png)\).
 2.  Under Schedule Adherence, click **Time Attendance**.
 
 
 </td></tr></tbody>
 </table>    The following schedule adherence example shows how to measure how well your team is adhering and conforming with their work schedules.
 
-    ![Complete summary of the attendance, schedule adherence, and conformance of all the agents in the team.](../image/time_worked_summary_new.png)
+    ![Complete summary of the attendance, schedule adherence, and conformance of all the agents in the team.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/time_worked_summary_new.png)
 
 
 ## Example
@@ -81,5 +81,5 @@ To understand the computations of the fields in a time worked summary, consider 
 
 **Note:** Fatima Alonzo is adherent because the schedule adherence and conformance are within the threshold. To see which agents are non-adherent, look for the numbers highlighted in red.
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

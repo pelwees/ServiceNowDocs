@@ -50,5 +50,5 @@ Tables belong to an application scope - a namespace that isolates your app's dat
 5.  Create tables and fields: Use ServiceNow Studio to build your schema.
 6.  Set up access controls: Define who can create, read, write, and delete records.
 
-**Parent Topic:**[Build your first application](build-your-first-app.md)
+**Parent Topic:**[Build your first application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-your-first-app.md)
 

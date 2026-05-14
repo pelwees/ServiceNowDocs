@@ -17,9 +17,9 @@ Add a list item for Journey Accelerator action plans to the **My active items** 
 
 ## Before you begin
 
-The latest Employee Center is installed. See, [Install Employee Center](../../employee-center/task/activate-ec.md)
+The latest Employee Center is installed. See, [Install Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../../employee-center/task/activate-ec.md)
 
-The Employee Center theme needs to be configured to use the latest user interface. See, [Update the Employee Center theme](ja-update-ec-ui-theme.md).
+The Employee Center theme needs to be configured to use the latest user interface. See, [Update the Employee Center theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-update-ec-ui-theme.md).
 
 Role required: admin
 

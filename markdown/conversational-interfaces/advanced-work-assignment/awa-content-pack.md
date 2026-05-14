@@ -25,7 +25,7 @@ For unlimited access to all features of this Platform Analytics Solution, purcha
 
 To enable a solution for Advanced Work Assignment, an admin navigates to **System Definitions** &gt; **Plugins** and activates the Performance Analytics - Content Pack - Advanced Work Assignment plugin.
 
-![Video link to Platform Analytics.](../../../administer/conversational-interfaces/image/icon-video-link.png) [Virtual Agent Academy: Using analytics to optimize Advanced Work Assignment](https://www.youtube.com/watch?v=BNLBkULwTBE&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=6) Watch this video for more information about the Platform Analytics Solution for Advanced Work Assignment.
+![Video link to Platform Analytics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/conversational-interfaces/image/icon-video-link.png) [Virtual Agent Academy: Using analytics to optimize Advanced Work Assignment](https://www.youtube.com/watch?v=BNLBkULwTBE&list=PLkGSnjw5y2U79gjQuQW-2GBqzEccwFkWH&index=6) Watch this video for more information about the Platform Analytics Solution for Advanced Work Assignment.
 
 **Related topics**  
 

@@ -31,7 +31,7 @@ Role required: sn\_si.analyst
 
 4.  Select open any record to view the complete sandbox analysis.
 
-    ![Review the sandbox submission results.](../image/sandbox-submission-results-new.png)
+    ![Review the sandbox submission results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sandbox-submission-results-new.png)
 
 5.  Select **Resubmit to Sandbox** to reprocess the observable.
 

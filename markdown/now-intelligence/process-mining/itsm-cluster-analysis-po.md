@@ -84,7 +84,7 @@ Requested item
 -   Assigned to
 
 </td></tr></tbody>
-</table>For information on how to perform a cluster analysis from the Process Mining application, see [Perform a cluster analysis](../concept/cluster-analysis.md).
+</table>For information on how to perform a cluster analysis from the Process Mining application, see [Perform a cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/cluster-analysis.md).
 
-**Parent Topic:**[Content pack for ITSM](../concept/itsm-proc-opti-content-pack.md)
+**Parent Topic:**[Content pack for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/itsm-proc-opti-content-pack.md)
 

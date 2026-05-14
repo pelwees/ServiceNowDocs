@@ -26,7 +26,7 @@ A default width size cannot be set or does not apply to the following variables:
 -   The break, container end, container split, container start, and label variables.
 -   Any variable placed in a container with two-column layout.
 -   A variable set with a two-column layout.
--   Any variable that is created with a custom width set in the **Variable width** field on the Variable form. For details, see [Create a service catalog variable](t_CreateAVariableForACatalogItem.md). The custom width for the variable overrides the default width set for the variable type.
+-   Any variable that is created with a custom width set in the **Variable width** field on the Variable form. For details, see [Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md). The custom width for the variable overrides the default width set for the variable type.
 
 **Note:** Custom variable widths are not supported in either Now® Mobile or Service Portal.
 
@@ -72,5 +72,5 @@ Configures the variable to span 100% of the available screen size.
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)
 

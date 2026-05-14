@@ -73,12 +73,12 @@ The following terms are used in Security Incident Response.
 |Term|Definition|
 |----|----------|
 |Active|Any security incident not in the closed or cancelled state.|
-|[Administrator lockdown](../task/t_ConfigureSIM.md#)|The ability to restrict Security Incident Response access to personnel with security-related roles and ACLs.|
-|[Inbound security requests](manage-si-details.md)|Requests submitted for low-impact security demands, such as requesting a new electronic badge.|
-|[Manage post incident activities](c_PostIncidentReview.md)|A review of the origins and handling of a security incident. The final product is a post incident report, which documents all actions performed and the reasons for doing them.|
-|[Response tasks](../task/t_CreateResponseTask.md)|Tasks assigned to a security incident for tracking actions in response to the threat.|
-|[Understanding security incident calculators](../reference/setup-assistant-reference.md#)|Calculators used to update record values when pre-configured conditions are met.|
-|[Security incident treemaps](../task/t_AddTreemapsToSIRHomepage.md)|Chart type that hierarchically shows security incident data in the form of nested rectangles.|
-|[Threat lookup](../../threat-intelligence/task/t_SubmitThrtScnReqFromCat.md)|A request submitted from the security incident catalog for scanning files, URLs, and IP addresses for malware.|
-|[Vulnerability scan](../task/t_SubmitVScanReqFromSecInc.md)|A request initiated from the Security Incident form for scanning affected resources \(servers, computers, and other configuration items\) for vulnerabilities.|
+|[Administrator lockdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_ConfigureSIM.md#)|The ability to restrict Security Incident Response access to personnel with security-related roles and ACLs.|
+|[Inbound security requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-si-details.md)|Requests submitted for low-impact security demands, such as requesting a new electronic badge.|
+|[Manage post incident activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_PostIncidentReview.md)|A review of the origins and handling of a security incident. The final product is a post incident report, which documents all actions performed and the reasons for doing them.|
+|[Response tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_CreateResponseTask.md)|Tasks assigned to a security incident for tracking actions in response to the threat.|
+|[Understanding security incident calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/setup-assistant-reference.md#)|Calculators used to update record values when pre-configured conditions are met.|
+|[Security incident treemaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_AddTreemapsToSIRHomepage.md)|Chart type that hierarchically shows security incident data in the form of nested rectangles.|
+|[Threat lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../threat-intelligence/task/t_SubmitThrtScnReqFromCat.md)|A request submitted from the security incident catalog for scanning files, URLs, and IP addresses for malware.|
+|[Vulnerability scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_SubmitVScanReqFromSecInc.md)|A request initiated from the Security Incident form for scanning affected resources \(servers, computers, and other configuration items\) for vulnerabilities.|
 

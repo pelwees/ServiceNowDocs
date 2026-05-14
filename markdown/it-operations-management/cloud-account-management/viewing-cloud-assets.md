@@ -17,13 +17,13 @@ This page displays the Cloud assets view. It lists all compute assets across con
 
 As an admin, you can access the dashboard by navigating to **All** &gt; **Cloud Workspace** &gt; **Monitor and track**
 
-![Cloud assets](../image/cloud-assets.png "Cloud assets")
+![Cloud assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cloud-assets.png "Cloud assets")
 
 Click the respective name to view the details.
 
-![cloud asset details](../image/cloud-asset-details.png "View cloud asset details")
+![cloud asset details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cloud-asset-details.png "View cloud asset details")
 
 In Asset Explorer, retired configuration items \(CIs\) remain in the asset table as long as they exist in the CMDB, even after retirement. To manage this, users can configure a custom retention period \(in seconds\) that automatically removes retired CIs from the asset table after the defined duration. For example, setting the property to 86,400 seconds \(1 day\) ensures that a retired CI is removed from the asset table one day after retirement, even though it may continue to exist in the CMDB. This helps improve performance for high-volume environments by ensuring that only active CIs remain in the asset table.
 
-For more information about the various sections, see [Managing the Cloud Account Management cloud asset details](manage-cam-ci-details.md).
+For more information about the various sections, see [Managing the Cloud Account Management cloud asset details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/manage-cam-ci-details.md).
 

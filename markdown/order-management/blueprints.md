@@ -74,5 +74,5 @@ When importing, administrators can update Product IDs, rule mappings, and enviro
 **Related topics**  
 
 
-[Set up blueprints](blueprints_101.md)
+[Set up blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
 

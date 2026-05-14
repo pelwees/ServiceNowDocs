@@ -13,7 +13,7 @@ breadcrumb: [Use, Public Sector Digital Services \(PSDS\)]
 
 Set up CSM Configurable Workspace for your agents and expand the Workspace UI so they can engage with customers, answer questions, create cases, and resolve issues.
 
-Government service agents can complete most tasks in CSM Configurable Workspace. For more information on how to set up the CSM Configurable Workspace, see [Set up the CSM Configurable Workspace for Public Sector Digital Services](setting-up-csm-fsm.md).
+Government service agents can complete most tasks in CSM Configurable Workspace. For more information on how to set up the CSM Configurable Workspace, see [Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md).
 
 The tables below describe some of the basic tasks that agents can perform in CSM Configurable Workspace.
 
@@ -39,7 +39,7 @@ Use the step-by-step guidance provided by playbooks to complete tasks and resolv
 
 </td><td>
 
-[Using Playbooks](psds-using-playbooks-overview.md)
+[Using Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-using-playbooks-overview.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Create a case for a specific type of constituent request.
 
 </td><td>
 
-[Creating and resolving case tasks](psds-gsp-resolving-case-tasks-agent.md#)
+[Creating and resolving case tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-gsp-resolving-case-tasks-agent.md#)
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Quickly respond to customers using different types of predefined information.
 
 </td><td>
 
-[Use response templates in Service Request Playbook](../task/use-response-templates-psds.md)
+[Use response templates in Service Request Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/use-response-templates-psds.md)
 
 </td></tr></tbody>
 </table>

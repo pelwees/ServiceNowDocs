@@ -87,16 +87,16 @@ Use this field to define sections to gray out when a user performs an action.In 
 
  Use the **Select target record** field to select the screens that you want to gray out.
 
- ![Mobile screen shot showing a record in a list that has been grayed out.](../image/OnlineZombieMode.png "Online behavior in "Disable after online edit" mode")
+ ![Mobile screen shot showing a record in a list that has been grayed out.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/OnlineZombieMode.png "Online behavior in "Disable after online edit" mode")
 
 </td></tr></tbody>
 </table>7.  Select **Save**.
 
 
--   **[Display and hide buttons in offline mode](buttons-offline.md)**  
+-   **[Display and hide buttons in offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/buttons-offline.md)**  
 Define whether to show or hide buttons while users are in offline mode on their Mobile Agent app.
--   **[Trigger offline cache download](trigger-offline-cache-download.md)**  
+-   **[Trigger offline cache download](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/trigger-offline-cache-download.md)**  
 **Trigger offline cache download** is an optional button attribute \(**sys\_sg\_button\_atribute\_name**\) that will generate an offline cache after a successful completion of the assigned writeback action.
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md)
 

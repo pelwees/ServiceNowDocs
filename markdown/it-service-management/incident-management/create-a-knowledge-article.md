@@ -19,7 +19,7 @@ Provide a resolution for an issue by creating a knowledge article from an incide
 
 Role required: itil, sn\_incident\_write, or admin
 
-Activate the [KCS Integration for Incident Management](activate-kcs-integration-for-im.md) plugin \(com.snc.incident.knowledge\).
+Activate the [KCS Integration for Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-kcs-integration-for-im.md) plugin \(com.snc.incident.knowledge\).
 
 ## About this task
 
@@ -31,7 +31,7 @@ You can create a knowledge article only when the incident is resolved and you ha
 
 1.  Navigate to **All** &gt; **Incidents** &gt; **Resolved**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Open a resolved incident record.
 

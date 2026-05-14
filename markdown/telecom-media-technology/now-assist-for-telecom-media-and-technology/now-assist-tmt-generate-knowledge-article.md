@@ -60,11 +60,11 @@ In  CSM Configurable Workspace and classic environment, you can generate the k
 
 6.  In the Use Al to draft this article modal, select **Yes, draft with Now Assist**.
 
-    ![Enable Now Assist in CSM for KB article generation.](../image/serviceproblemcase-knowledge-article.png "Modal to draft article using AI")
+    ![Enable Now Assist in CSM for KB article generation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/serviceproblemcase-knowledge-article.png "Modal to draft article using AI")
 
 7.  In the new modal, search for similar cases that can be used to generate the article; otherwise, select **Cancel**.
 
-    ![Select up to five additional relevant cases in the new modal to generate the article.](../image/additional-relevant-task-tmt.png "Additional relevant tasks")
+    ![Select up to five additional relevant cases in the new modal to generate the article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/additional-relevant-task-tmt.png "Additional relevant tasks")
 
     The completed article is displayed in the chosen template with a success message "This article was drafted by Now Assist. Be sure to review it for accuracy before saving."
 
@@ -88,7 +88,7 @@ In  CSM Configurable Workspace and classic environment, you can generate the k
     The Now Assist success message disappears which means that it’s no longer a Now LLM Service generated article.
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-spm-using.md)
 
 **Related topics**  
 

@@ -171,10 +171,10 @@ Lead time for email reminders.**Note:** This field is displayed only when the **
     -   Initially, roster members are automatically populated from the user group.
     -   All members of a roster must be members of the same user group.
 
-**Parent Topic:**[Configure or update an On-Call shift](config-update-shift-oncall.md)
+**Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
 **Related topics**  
 
 
-[Escalation and reminder settings for rosters](../reference/escalation-remind-settings-oncall.md)
+[Escalation and reminder settings for rosters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../reference/escalation-remind-settings-oncall.md)
 

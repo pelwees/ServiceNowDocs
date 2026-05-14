@@ -23,9 +23,9 @@ The video walks you through the process of adding signature blocks using Microso
 
 ## Before you begin
 
-The Microsoft Word add-in for ServiceNow Contracts must be configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must be configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
-An active contract template must exist in the Draft or Editing state where the **Signature blocks** option is selected. For more information, see [Create a contract template to contain content controls](cncore-create-ct-word-addin.md).
+An active contract template must exist in the Draft or Editing state where the **Signature blocks** option is selected. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 
@@ -37,13 +37,13 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  On the login screen, enter the credentials of the ServiceNow instance for which the Microsoft Word add-in is configured.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
 4.  On the add-in screen in the **Templates** tab, select the contract template to which you want to add the signature metadata.
 
 5.  In the **Signatory** tab, select **Add signatory**.
 
-    ![Use ServiceNow Contracts add-in to add signatory block](../image/cmprowaddin-add-signblk.png "Add signatory block")
+    ![Use ServiceNow Contracts add-in to add signatory block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmprowaddin-add-signblk.png "Add signatory block")
 
 6.  In the Signatory type section, set the signature type as internal or external, and select **Next**.
 
@@ -63,7 +63,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
     2.  Add placeholder text at the locations where you want to place the content controls.
 
-        ![Add placeholder text for the signature content control](../image/cmpro-waddin-sigblock.png)
+        ![Add placeholder text for the signature content control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-sigblock.png)
 
     3.  Set the font color of the placeholder text to match the document’s background color.
 
@@ -78,7 +78,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
         -   Email
 9.  Select **Complete**.
 
-    ![Signatory block added using ServiceNow Contracts add-in](../image/cmpro-waddin-signblk-result.png "Signatory block")
+    ![Signatory block added using ServiceNow Contracts add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-signblk-result.png "Signatory block")
 
     The signatory fields—such as Name, Title, and Email—are not pre-filled in the contract document before it is sent for signature. These fields will be populated by the electronic signature provider when the signatory accesses the document to sign it.
 
@@ -87,12 +87,12 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 ## What to do next
 
-Define an internal signatory rule to automatically add signatory details in contract documents using the template. For more information, see [Define an internal signatory rule](cncore-define-internal-signers-rule.md).
+Define an internal signatory rule to automatically add signatory details in contract documents using the template. For more information, see [Define an internal signatory rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-define-internal-signers-rule.md).
 
-**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-config-sign-addin.md)
 
 **Related topics**  
 
 
-[Add and configure participants for a contract using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-signatory.md)
+[Add and configure participants for a contract using the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-signatory.md)
 

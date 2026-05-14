@@ -64,10 +64,10 @@ After the copied template is published, the original template moves to the **Ret
 5.  View the list of approvers who have been configured to review the modifications made to the template in the **Approvers** tab.
 
 
-**Parent Topic:**[Create and propose a change template](create-change-template.md)
+**Parent Topic:**[Create and propose a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
 **Related topics**  
 
 
-[Review a change template](review-change-template.md)
+[Review a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/review-change-template.md)
 

@@ -48,22 +48,22 @@ ServiceNow provides several additional resources on configuring and administerin
 
 To open App Engine Studio guided setup, navigate to **All** &gt; **App Engine** &gt; **App Engine Studio** &gt; **Configuration** &gt; **Guided Setup**.
 
-The landing page provides information on the different tools and user access. Select the **Get Started** button in the top, right corner to start your configuration. ![App Engine Studio guided setup configuration categories](../image/aes-guided-setup-sections.png)
+The landing page provides information on the different tools and user access. Select the **Get Started** button in the top, right corner to start your configuration. ![App Engine Studio guided setup configuration categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-guided-setup-sections.png)
 
 The App Engine Studio Guided Setup page provides a list of different categories. Select the **Get Started** button under each category to start configuring App Engine Studio.
 
 **Note:** If you have previously started any of the guided setup tasks, and then exited without completing them, the **Get Started** button is labeled **Continue**.
 
-For detailed instructions on any of the tasks initiated from guided setup, see the [Perform AES configuration tasks](../reference/aes-config-tasks.md).
+For detailed instructions on any of the tasks initiated from guided setup, see the [Perform AES configuration tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../reference/aes-config-tasks.md).
 
--   **[Configure AES personas and roles](aes-personas-roles.md)**  
+-   **[Configure AES personas and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-personas-roles.md)**  
 The responsibilities of your staff are controlled by roles assigned to each member. Personas aren’t explicitly part of App Engine Studio \(AES\) but administrators assign roles to give team members permission to configure or use AES.
--   **[Perform AES configuration tasks](../reference/aes-config-tasks.md)**  
+-   **[Perform AES configuration tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../reference/aes-config-tasks.md)**  
 As you work through the App Engine Studio \(AES\) guided setup, you must perform different configuration tasks.
--   **[Delegate developers using AES](aes-app-dev-workflow.md)**  
+-   **[Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-app-dev-workflow.md)**  
 Delegated development enables designated users without a system admin role to develop or deploy applications on the ServiceNow AI Platform. This enables administrators and delegated developers to work together to deliver custom applications through App Engine Studio \(AES\).
--   **[AES integration with a Git source control repository](aes-source-control-integration.md)**  
+-   **[AES integration with a Git source control repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-source-control-integration.md)**  
 Enable application developers to integrate App Engine Studio \(AES\) with a Git source control repository to save and manage multiple versions of an application from a non-production instance.
 
-**Parent Topic:**[Configuring App Engine Studio and related apps](aes-setup.md)
+**Parent Topic:**[Configuring App Engine Studio and related apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-setup.md)
 

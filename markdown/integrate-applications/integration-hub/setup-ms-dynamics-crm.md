@@ -79,7 +79,7 @@ Complete these steps from your Azure Developer account. See the [Azure](https://
 
 ### What to do next
 
-[Register Microsoft Dynamics CRM as OAuth provider](setup-ms-dynamics-crm.md#).
+[Register Microsoft Dynamics CRM as OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-ms-dynamics-crm.md#).
 
 ## Register Microsoft Dynamics CRM as OAuth provider
 
@@ -108,15 +108,15 @@ Use the information generated during Microsoft Dynamics CRM account configuratio
     |Client ID|Enter the Application ID of the Microsoft Dynamics CRM application you created in Azure.|
     |Client Secret|Enter the Client Secret you generated when you created the application in Azure.|
     |Default Grant type|Select **Authorization Code**.|
-    |Authorization URL|Click the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\), enter `https://login.microsoftonline.com/common/oauth2/v2.0/authorize` followed by a question mark and the resource attribute of your instance, and then click the lock icon again. The resource attribute of the URL. For example, `?resource=https://mycompany.crm.dynamics.com`. This attribute is the URL of your Microsoft application.|
-    |Token URL|Click the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\), enter `https://login.microsoftonline.com/common/oauth2/v2.0/token`, and then click the lock icon again.|
-    |Redirect URL|Click the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\), enter `https://<instance>.service-now.com/oauth_redirect.do`, and then click the lock icon again.|
+    |Authorization URL|Click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../../common/image/icon-lock.png)\), enter `https://login.microsoftonline.com/common/oauth2/v2.0/authorize` followed by a question mark and the resource attribute of your instance, and then click the lock icon again. The resource attribute of the URL. For example, `?resource=https://mycompany.crm.dynamics.com`. This attribute is the URL of your Microsoft application.|
+    |Token URL|Click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../../common/image/icon-lock.png)\), enter `https://login.microsoftonline.com/common/oauth2/v2.0/token`, and then click the lock icon again.|
+    |Redirect URL|Click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../../common/image/icon-lock.png)\), enter `https://<instance>.service-now.com/oauth_redirect.do`, and then click the lock icon again.|
 
 5.  In the **OAuth Entity Scopes** related list, edit the provided entity scope to include the URL of your Microsoft Dynamics CRM application.
 
     The name and the OAuth scope are often the same string.
 
-    ![The Microsoft Dynamics CRM OAuth entity scopes.](../image/oauth-entity-scopes-ms-dyn-crm.png)
+    ![The Microsoft Dynamics CRM OAuth entity scopes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oauth-entity-scopes-ms-dyn-crm.png)
 
 6.  Right-click the form header, and click **Save**.
 

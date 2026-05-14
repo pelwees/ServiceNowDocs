@@ -20,7 +20,7 @@ Specify the read table entity that a Zero Copy Connector for ERP \(Enterprise Re
 
 Role required: sn\_erp\_integration.erp\_admin
 
-You must have already added the read operation before you can add an entity to it. For more information, see [Add an operation to a model in Zero Copy Connector for ERP](erpc-manage-models-read-op.md).
+You must have already added the read operation before you can add an entity to it. For more information, see [Add an operation to a model in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erpc-manage-models-read-op.md).
 
 ## Procedure
 
@@ -34,29 +34,29 @@ You must have already added the read operation before you can add an entity to i
 
 5.  Select the **Read** operation.
 
-6.  For help finding relevant entities using the **Ask AI** button, see [Use generative AI to help add an entity to a model](use-ai-to-help-add-an-entity-to-a-model.md).
+6.  For help finding relevant entities using the **Ask AI** button, see [Use generative AI to help add an entity to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/use-ai-to-help-add-an-entity-to-a-model.md).
 
 7.  Select **Select entity** on the **Manage entities** tab.
 
-    ![Add operation entities on the manage models tab.](../image/erpc-manage-entities-manager-ys22.png)
+    ![Add operation entities on the manage models tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-manage-entities-manager-ys22.png)
 
 8.  In **Select type**, select **Read table**.
 
-    ![Select the type of entity you're adding.](../image/erpc-add-entity-manager-ys2.png)
+    ![Select the type of entity you're adding.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-add-entity-manager-ys2.png)
 
-    You can select **Preview table data** to view table details before specifying an entity. For more information, see [Preview read table entities in Zero Copy Connector for ERP](erp-canvas-preview-entity.md).
+    You can select **Preview table data** to view table details before specifying an entity. For more information, see [Preview read table entities in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-preview-entity.md).
 
 9.  In **Select entity**, specify the read table to use.
 
     The AI Search for this field can help you find what you're looking for faster, for example by entering `Countries` instead of `T005`.
 
-    For table read operations, you may need to check the **Model entities** tab of the current or another related model to get the table name. Alternatively, ask your SAP admin. For more information, see [View and edit the foundation of ERP models](view-and-work-with-erp-data-models.md).
+    For table read operations, you may need to check the **Model entities** tab of the current or another related model to get the table name. Alternatively, ask your SAP admin. For more information, see [View and edit the foundation of ERP models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/view-and-work-with-erp-data-models.md).
 
 10. When you're finished, select **Add entity**.
 
     The entity card shows the date and time information was last retrieved.
 
-    ![Manage model tab with entity card showing retrieval date and time.](../image/erp-add-read-entity-to-model1.png)
+    ![Manage model tab with entity card showing retrieval date and time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-add-read-entity-to-model1.png)
 
 11. Rearrange and delete table entities as needed.
 
@@ -69,5 +69,5 @@ You must have already added the read operation before you can add an entity to i
         Deleting an entity removes all of its related field mappings and table joins.
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/add-an-entity-to-model.md)
 

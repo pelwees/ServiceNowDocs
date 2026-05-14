@@ -30,10 +30,10 @@ To update the rank of the planning items in the work pipeline of your portfolio 
     Check if the planning item before or after your target position to reorder has a global rank. If not, contact your system admin to generate a global rank for them.
 
 
-**Parent Topic:**[Strategic Planning Workspace reference](alignment-planner-workspace-reference.md)
+**Parent Topic:**[Strategic Planning Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace-reference.md)
 
 **Related topics**  
 
 
-[Rank planning items](../../spw-prioritization/task/rank-and-prioritize-backlog-alignment-planner-workspace.md)
+[Rank planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-prioritization/task/rank-and-prioritize-backlog-alignment-planner-workspace.md)
 

@@ -23,20 +23,20 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select the **My Lists** tab.
 
 4.  Select the list you wish to rename.
 
-5.  Select the settings icon \(![Settings icon](../image/settings-display-icon-itom.png)\) and then select **Rename**.
+5.  Select the settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/settings-display-icon-itom.png)\) and then select **Rename**.
 
-    ![Rename a list](../image/sow-rename-list.png)
+    ![Rename a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-rename-list.png)
 
 6.  In the **Rename** pop-up window, in the **Title** field, rename the name of the list and select **Save**.
 
     The list is renamed.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

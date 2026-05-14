@@ -17,7 +17,7 @@ The Tag-based service mapping dashboard offers an intuitive way to manage tag-ba
 
 ## Prerequisites
 
-Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](../task/install-service-mapping-plus.md).
+Access to tag-based service mapping in the Service Mapping workspace requires the installation of Service Mapping Plus version 1.16.3. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/install-service-mapping-plus.md).
 
 ## Required role
 
@@ -25,9 +25,9 @@ service\_mapping\_admin
 
 ## Access
 
-To open the dashboard, navigate to **Workspaces** &gt; **Service Mapping**, then select the Tag-based service mapping \(![tag icon](../../../reuse/icons/product-icons/tag-outline-24.svg)\) icon from the navigation pane.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Mapping**, then select the Tag-based service mapping \(![tag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../../reuse/icons/product-icons/tag-outline-24.svg)\) icon from the navigation pane.
 
-![Tag-based mapping dashboard with data widgets and a graph](../image/tag-mapping-dashboard.png)
+![Tag-based mapping dashboard with data widgets and a graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/tag-mapping-dashboard.png)
 
 ## Key metrics
 
@@ -77,7 +77,7 @@ A chart that shows the tag-based service candidates and the tag-based service ma
 </td></tr></tbody>
 </table>## List navigation
 
-The List navigation pane displays tag-based service mapping information.![View of tag-based mapping list navigation pane](../image/list-nav-tag-mapping-dashboard.png)
+The List navigation pane displays tag-based service mapping information.![View of tag-based mapping list navigation pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/list-nav-tag-mapping-dashboard.png)
 
 Display tag-based information and access tag-based actions through the following pages:
 
@@ -97,5 +97,5 @@ Display tag-based information and access tag-based actions through the following
 
 When creating a service family for mapping services based on tags in domain-separated environment, you must pick the relevant leaf domain. Service Mapping populates tag-based services based on this service family only with CIs belonging to the leaf domain to which the service family belongs. If you have domain separation without Performance Analytics domain support, you can't see data visualization for the total number of tag-based service maps versus service candidates. You’re then redirected to install the Performance Analytics Domain Support plugin.
 
-For more information about domain separation and Service Mapping, see [Domain separation and Service Mapping](../concept/domain-separation-service-mapping.md).
+For more information about domain separation and Service Mapping, see [Domain separation and Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/domain-separation-service-mapping.md).
 

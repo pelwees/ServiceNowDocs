@@ -31,5 +31,5 @@ To access Role Trails, navigate to **All** &gt; **System Security** &gt; **Ident
 |Created By|The user who made the change.|
 |Created|The time and date the audit was performed.|
 
-![Role Trails](../images/role-trails.png)
+![Role Trails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/role-trails.png)
 

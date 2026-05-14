@@ -45,5 +45,5 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Hiring](configuring-hiring-tab.md)
+**Parent Topic:**[Configuring Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configuring-hiring-tab.md)
 

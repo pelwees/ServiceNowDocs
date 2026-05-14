@@ -46,13 +46,13 @@ Many-to-Many tables aren't considered custom tables and don't count toward your 
     **Note:** Many-to-Many table names cannot exceed 30 characters.
 
 
--   **[Reference default many-to-many relationships](../reference/r_RefDefaultManyToManyRels.md)**  
+-   **[Reference default many-to-many relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_RefDefaultManyToManyRels.md)**  
 Some many-to-many relationships are defined by default.
 
-**Parent Topic:**[Managing tables and indexes](../concept/using-table-administration.md)
+**Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/using-table-administration.md)
 
 **Related topics**  
 
 
-[Reference default many-to-many relationships](../reference/r_RefDefaultManyToManyRels.md)
+[Reference default many-to-many relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_RefDefaultManyToManyRels.md)
 

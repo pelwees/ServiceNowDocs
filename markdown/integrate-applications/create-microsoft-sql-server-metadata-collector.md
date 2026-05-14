@@ -17,15 +17,15 @@ Create a collector to import metadata from Microsoft SQL Server.
 
 Before you begin, verify the following:
 
--   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](../concept/mid-server-for-metadata-collectors-dc.md).
--   All per-requisite tasks are completed. For more information, see [Prepare to run the Microsoft SQL Server collector](prepare-to-run-microsoft-sql-server-collector.md#).
+-   A MID Server is setup for the collectors. For more information, see [MID Server for metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/mid-server-for-metadata-collectors-dc.md).
+-   All per-requisite tasks are completed. For more information, see [Prepare to run the Microsoft SQL Server collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-microsoft-sql-server-collector.md#).
 -   Role required: connection-admin
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workflow Data Fabric** &gt; **Workflow Data Fabric Home**.
 
-2.  Select the Connect Hub ![Connect Hub icon](../../../build/workflow-data-fabric/image/wdf-connect-hub-icon.png) icon in the left sidebar.
+2.  Select the Connect Hub ![Connect Hub icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../build/workflow-data-fabric/image/wdf-connect-hub-icon.png) icon in the left sidebar.
 
 3.  Select **Create** &gt; **Metadata collector**.
 
@@ -214,10 +214,10 @@ The metadata collector is created and appears on the Connectors page with a Conf
 
 After creating the collector, you can perform any of the following tasks:
 
--   Run the collector manually to harvest metadata immediately. See [Run metadata collectors manually](run_metadata-collectors-manually.md).
--   Automate metadata collection by scheduling regular collector runs. See [Schedule metadata collector runs](schedule-metadata-collector-runs.md).
--   Monitor execution status and troubleshoot issues by viewing the runtime logs. See [View runtime logs for collector runs](view-runtime-logs-for-collector-runs.md).
--   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](../concept/manage-data-catalog.md).
+-   Run the collector manually to harvest metadata immediately. See [Run metadata collectors manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/run_metadata-collectors-manually.md).
+-   Automate metadata collection by scheduling regular collector runs. See [Schedule metadata collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/schedule-metadata-collector-runs.md).
+-   Monitor execution status and troubleshoot issues by viewing the runtime logs. See [View runtime logs for collector runs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-runtime-logs-for-collector-runs.md).
+-   Discover and evaluate the harvested data assets in the Data Catalog. See [Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-catalog.md).
 
-**Parent Topic:**[Microsoft SQL Server metadata collector](../concept/microsoft-sql-server-metadata-collector.md)
+**Parent Topic:**[Microsoft SQL Server metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/microsoft-sql-server-metadata-collector.md)
 

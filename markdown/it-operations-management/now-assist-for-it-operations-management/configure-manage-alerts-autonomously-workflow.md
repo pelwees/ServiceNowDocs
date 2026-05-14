@@ -25,13 +25,13 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 ## About this task
 
-Configure the autonomous workflow alert management rule to operate the manage alerts autonomously agentic workflow manually or automatically. For more information about alert management rules, see [Alert management rules for resolving alerts](../../event-management/concept/alert-management-rule.md).
+Configure the autonomous workflow alert management rule to operate the manage alerts autonomously agentic workflow manually or automatically. For more information about alert management rules, see [Alert management rules for resolving alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/concept/alert-management-rule.md).
 
 When the workflow operates automatically, alerts are addressed as theyâ€™re created and AI insight information is displayed in Express List.
 
-When the workflow operates manually, users must manually generate AI insights. For more information, see [Review AI generated alert information and insights in Express List](use-ai-insights-express-list.md).
+When the workflow operates manually, users must manually generate AI insights. For more information, see [Review AI generated alert information and insights in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/use-ai-insights-express-list.md).
 
-For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](../concept/itom-autonomous-operator-workflow.md).
+For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/itom-autonomous-operator-workflow.md).
 
 **Note:**
 
@@ -41,7 +41,7 @@ If you change the alert management rule for the manage alert autonomously workï¬
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -49,7 +49,7 @@ If you change the alert management rule for the manage alert autonomously workï¬
 
     The Respond page appears.
 
-    ![Respond automation page from where you can create automation to remediate action on alerts, escalate alerts or notify stakeholders.](../../service-operations-workspace-itom/image/respond-automation-page.png)
+    ![Respond automation page from where you can create automation to remediate action on alerts, escalate alerts or notify stakeholders.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/image/respond-automation-page.png)
 
 4.  In the Name column, select **Autonomous workflow**.
 
@@ -61,12 +61,12 @@ If you change the alert management rule for the manage alert autonomously workï¬
 
 6.  In the Execution column, double-click the cell for the **Autonomous workflow**.
 
-7.  Select the drop-down arrow to choose alert execution, and then select the green check mark to save. ![Execution information for the autonomous workflow alert management rule.](../image/autonomous_alert_execution.png)
+7.  Select the drop-down arrow to choose alert execution, and then select the green check mark to save. ![Execution information for the autonomous workflow alert management rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/autonomous_alert_execution.png)
 
 
 ## What to do next
 
-To learn more about generating AI insights with the manage alerts autonomously agentic workflow, see [Review AI generated alert information and insights in Express List](use-ai-insights-express-list.md).
+To learn more about generating AI insights with the manage alerts autonomously agentic workflow, see [Review AI generated alert information and insights in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/use-ai-insights-express-list.md).
 
-**Parent Topic:**[Configuring agents for Now Assist for ITOM](../concept/itom-ai-agent-configuration.md)
+**Parent Topic:**[Configuring agents for Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/itom-ai-agent-configuration.md)
 

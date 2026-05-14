@@ -32,7 +32,7 @@ The assigned triage teams identify whether the self-identified issues are actual
 
 The end-to-end flow of the issue triage life cycle is illustrated and described here.
 
-![Issue triage](../image/issue-triage_lifecycle-01.png "Issue triage life cycle")
+![Issue triage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/issue-triage_lifecycle-01.png "Issue triage life cycle")
 
 <table id="table_exh_nm3_b4b"><thead><tr><th>
 
@@ -153,11 +153,11 @@ Ability to resolve the reportable issue assigned to them
     -   Select the **Details** related list to provide additional enrichment to the issue.
 6.  After it has been determined what action \(if any\) should be performed on the issue, the triage owner can select a result of the analysis from the **Results** related list.
 
-    ![Triage results](../image/triage-results.png "Results")
+    ![Triage results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/triage-results.png "Results")
 
     **Note:** The options available in the **Result** field depend on the **Issue type** identified for this issue. For example, if you select **Control design effectiveness failure** as the **Issue type**, the following results may be selected.
 
-    ![Additional results](../image/triage-results-addl.png "Additional results")
+    ![Additional results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/triage-results-addl.png "Additional results")
 
 7.  If you select a result, such as **Confirmed as a new compliance issue**, which requires more action than simple observation, additional analysis fields display.
 
@@ -174,5 +174,5 @@ Ability to resolve the reportable issue assigned to them
     One significant change on the **Issue** form is the addition of an **Issue Triages** related list. Opening the triage record provides the analyst with the details of the triage that resulted in the creation of this issue.
 
 
-**Parent Topic:**[Report self-identified issues via the Service Portal](create-self-identified-issues.md)
+**Parent Topic:**[Report self-identified issues via the Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-self-identified-issues.md)
 

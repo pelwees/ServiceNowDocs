@@ -41,7 +41,7 @@ Using Scheduling, you can also:
 -   Approve agent time-off or shift-swap requests.
 -   Create on-call shifts and assign primary, secondary rotation groups to handle escalation scenarios.
 
-For more information, see [Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md).
+For more information, see [Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md).
 
 ## Schedule Adherence
 
@@ -66,7 +66,7 @@ Using Teams, you can also:
 -   Access each agent's profile to view details such as their manager, peers, and assignment groups.
 -   Drill down into each agent's skills or recommend them for coaching.
 
-For more information, see [Teams in Workforce Optimization for HR](using-teams-wfo-hr.md#).
+For more information, see [Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-teams-wfo-hr.md#).
 
 ## Coaching and Skills Assessment
 
@@ -80,5 +80,5 @@ Using Coaching, you can also:
 -   Analyze the skill gap and recommend training.
 -   Managers can assign courses to agents from third-party learning management systems \(LMS\), such as Udemy, Pluralsight, and Cornerstone OnDemand.
 
-For more information, see [Coaching in Workforce Optimization for HR](using-coaching-wfo-hr.md)
+For more information, see [Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 

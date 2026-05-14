@@ -201,5 +201,5 @@ Verifies whether the RabbitMQ server is alive and responding to STOMP.
 |Metric|metrics-rabbitmq-overview|Provides RabbitMQ overview statistics.|`metrics-rabbitmq-overview.rb --port {{.labels.params_port}} --host {{.labels.params_host}}`|
 |Metric|metrics-rabbitmq-queue|Provides RabbitMQ metrics per queue.|`metrics-rabbitmq-queue.rb --port {{.labels.params_port}} --host {{.labels.params_host}} {{if .labels.params_vhost}} --vhost {{.labels.params_vhost}} {{end}}`|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

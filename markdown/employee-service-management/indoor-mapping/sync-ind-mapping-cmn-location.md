@@ -23,12 +23,12 @@ Role required: admin
 
 1.  Make sure that you have configured Indoor Mapping locations, floor plan, and map object:
 
-    -   Add campus, building, and floors in Map studio. For more information, see [Create a campus with buildings and floors](create-a-campus-building-and-floor.md).
-    -   Add floor plan to a floor. For more information, see and [Manage CAD source files](../concept/manage-autocad-files.md).
-    -   Add places in Map studio. For more information, see [Manage places](manage-buildings.md)
+    -   Add campus, building, and floors in Map studio. For more information, see [Create a campus with buildings and floors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/create-a-campus-building-and-floor.md).
+    -   Add floor plan to a floor. For more information, see and [Manage CAD source files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/manage-autocad-files.md).
+    -   Add places in Map studio. For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md)
     -   Enable the Default view in the Indoor Mapping Map studio. In the Indoor Mapping select **View editor** &gt; **Default**. Select **All content**.
 
-        **Note:** Enabling the default view in Indoor Mapping is a mandatory step. The Default view is required to render the floor maps in Workplace Service Delivery. For more information, see [Edit with view editor](edit-with-view-editor.md).
+        **Note:** Enabling the default view in Indoor Mapping is a mandatory step. The Default view is required to render the floor maps in Workplace Service Delivery. For more information, see [Edit with view editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md).
 
 2.  Navigate to **Indoor Mapping** &gt; **Campuses**.
 
@@ -45,7 +45,7 @@ Role required: admin
     -   City: Address of the campus.
     -   State/Province: Stat where the campus resides.
     -   Country: Country where the campus is located.
-    -   Parent: Parent-child hierarchy. For example, Campus is the Parent and Buildings belonging to a Campus will be the child. For more information, see [Configure location migration hierarchy](../../workplace-service-delivery/task/add-location-migration-hierarchy.md).
+    -   Parent: Parent-child hierarchy. For example, Campus is the Parent and Buildings belonging to a Campus will be the child. For more information, see [Configure location migration hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../workplace-service-delivery/task/add-location-migration-hierarchy.md).
     -   Latitude: Latitude coordinates of a campus location.
     -   Longitude: Longitude coordinates of a campus location.
 6.  Select **Submit**.
@@ -54,11 +54,11 @@ Role required: admin
 
 8.  Select **Synchronize with CMN Locations**.
 
-    ![Campus showing the Synchronize with CMN location button.](../images/wsd-synchronize-with-CMN-Locations-tab.png)
+    ![Campus showing the Synchronize with CMN location button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-synchronize-with-CMN-Locations-tab.png)
 
 9.  On the synchronization record form, search and select the CMN campus that you created in step 5.
 
-    ![Search and select a CMN campus on the Synchronization record form.](../images/wsd-sync-campus-2.png)
+    ![Search and select a CMN campus on the Synchronization record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-sync-campus-2.png)
 
 10. Select **Update** to map the Indoor Mapping campus with the CMN campus.
 
@@ -85,7 +85,7 @@ Role required: admin
 
 16. From the Building related list, select an operation from the Operation column and right-click to change the suggested operation.
 
-    ![Building synchronization page showing the proposed Create operation.](../images/wsd-ind-mapping-cmn-sync-form.png)
+    ![Building synchronization page showing the proposed Create operation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-ind-mapping-cmn-sync-form.png)
 
     Following options are available:
 
@@ -101,7 +101,7 @@ Role required: admin
 
     **Note:** The synchronization process is executed and the operation is Queued till it completes. A synchronization operation must complete before starting a new one. Don't select **Update** as synchronization of location records at this stage is incomplete. Wait for the operation to complete or till the page is refreshed with status **Complete**.
 
-    ![Synchronization script synchronizes the Indoor Mapping buildings with CMN buildings.](../images/wsd-cmn-sync-create-building.png)
+    ![Synchronization script synchronizes the Indoor Mapping buildings with CMN buildings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-cmn-sync-create-building.png)
 
 19. Select **Refresh** to refresh the page and see if synchronization is complete for a building.
 
@@ -114,7 +114,7 @@ Role required: admin
     |State|Floor|
     |Domain|Global|
 
-    ![Sync Script synchronizes the Indoor Maps Floors with CMN Location Floors records.](../images/wsd-sync-ind-map-with-cmn-floors.png)
+    ![Sync Script synchronizes the Indoor Maps Floors with CMN Location Floors records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-sync-ind-map-with-cmn-floors.png)
 
 21. Select the Floors that you want to synchronize.
 
@@ -133,13 +133,13 @@ Role required: admin
     |State|Type|
     |Domain|Global|
 
-    ![Synchronization of CMN places with Indoor Mapping Place types.](../images/wsd-cmn-sync-place-types.png)
+    ![Synchronization of CMN places with Indoor Mapping Place types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-cmn-sync-place-types.png)
 
     Select the required operation from the proposed operation \(Create, Link, Keep, Ignore\) from the Related list.
 
-    If the CMN Location Place Type column is empty, create a CMN Location Place Type to map it to corresponding Indoor Mapping Place Types. For more information, see [Add CMN locations and map it to Indoor Mapping Place types](enable-cmn-location-types.md).
+    If the CMN Location Place Type column is empty, create a CMN Location Place Type to map it to corresponding Indoor Mapping Place Types. For more information, see [Add CMN locations and map it to Indoor Mapping Place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-cmn-location-types.md).
 
-    ![Create CMN Location Place Type if they are missing while running the sync script.](../images/wsd-cmn-sync-place-types-desks.png)
+    ![Create CMN Location Place Type if they are missing while running the sync script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-cmn-sync-place-types-desks.png)
 
 24. Select **Apply &amp; Next**.
 
@@ -174,17 +174,17 @@ Role required: admin
 
 28. When the records are fully synchronized, the CMN Locations table shows the Location source column as Indoor Mapping.
 
-    ![Locations table.](../images/wsd-synchronized-cmn-location-source.png)
+    ![Locations table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-synchronized-cmn-location-source.png)
 
 29. To make a synchronization record as favorite, complete the steps.
 
-    1.  Select the List controls icon \(![List controls icon.](../images/wsd-additional_icon.png)\) and select **Create favorite** to easily locate your sync record.
+    1.  Select the List controls icon \(![List controls icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-additional_icon.png)\) and select **Create favorite** to easily locate your sync record.
 
     2.  Select a color, if required.
 
     3.  Select **Ok**.
 
-    For more information about synchronizing Indoor Mapping locations with Workplace Indoor Mapping, see [Synchronize Indoor Mapping with Workplace Service Delivery](synchronize-ind-mapping-wsd.md).
+    For more information about synchronizing Indoor Mapping locations with Workplace Indoor Mapping, see [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 30. To add a place or location to an Indoor Mapping building, navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
@@ -196,14 +196,14 @@ Role required: admin
 
     4.  Click **New point** or **New polygon** to start creating places and new points of interest.
 
-    For more information, see [Manage places](manage-buildings.md).
+    For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
 31. After adding the places or locations in Indoor Mapping Map Studio, synchronize the places with CMN locations for a building or campus.
 
 
-**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](../concept/sync-cmn-location.md)
+**Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/sync-cmn-location.md)
 
-**Previous topic:**[Add CMN locations and map it to Indoor Mapping Place types](enable-cmn-location-types.md)
+**Previous topic:**[Add CMN locations and map it to Indoor Mapping Place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-cmn-location-types.md)
 
-**Next topic:**[Using enhanced synchronization](../concept/using-enhanced-sync.md)
+**Next topic:**[Using enhanced synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-enhanced-sync.md)
 

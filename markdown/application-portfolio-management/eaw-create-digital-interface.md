@@ -25,9 +25,9 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Digital Interfaces**.
 
@@ -37,25 +37,25 @@ Role required: sn\_apm.apm\_analyst
     -   To update an existing interface, select a digital integration link to open it.
 6.  On the Digital Interface form, fill in the fields.
 
-    For field information, see [Digital interface form](../../reference/eaw-reference/eaw-digital-interface-form.md).
+    For field information, see [Digital interface form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-digital-interface-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with digital interfaces](../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
+**Parent Topic:**[Working with digital interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-digital-interfaces.md)
 
 **Related topics**  
 
 
-[View all digital interfaces](eaw-view-all-dig-interfaces.md)
+[View all digital interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-dig-interfaces.md)
 
-[Relate an SDLC component to a digital interface](eaw-dig-interface-add-sdlc-comp.md)
+[Relate an SDLC component to a digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-interface-add-sdlc-comp.md)
 
-[Manage architectural artifacts of a digital interface in EA Workspace](eaw-manage-artifacts-digital-interface.md)
+[Manage architectural artifacts of a digital interface in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-artifacts-digital-interface.md)
 
-[Relate credentials to a digital interface](eaw-dig-interface-add-credential.md)
+[Relate credentials to a digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-interface-add-credential.md)
 
-[Relate an information object to a digital interface](eaw-dig-interface-add-info-object.md)
+[Relate an information object to a digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-interface-add-info-object.md)
 
-[Connect a digital interface with the CMDB API in the EA Workspace](eaw-relate-dig-interface-api.md)
+[Connect a digital interface with the CMDB API in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-relate-dig-interface-api.md)
 

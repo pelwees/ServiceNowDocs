@@ -28,5 +28,5 @@ This creates a relationship of **Owns::Owned by** between the CI and the DNS nam
 
 This information is then populated into the \[cmdb\_ci\_dns\_name\] table.
 
-**Parent Topic:**[Agent Client Collector Discovery](acc-discovery.md)
+**Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 

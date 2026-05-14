@@ -19,16 +19,16 @@ If you want to change the color of an existing label, navigate to **Upgrade Cent
 
 **Note:** If you update the color of an existing label, the change will not be reflected in the current version upgrade related board. The change will be seen only from the next version upgrade.
 
-![Image showing where color of a label can be changed](../image/uc-label-color.png)
+![Image showing where color of a label can be changed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-label-color.png)
 
-**Parent Topic:**[Upgrade Center references](uc-reference.md)
+**Parent Topic:**[Upgrade Center references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
 
 **Related topics**  
 
 
-[Upgrade Center properties](uc-properties.md)
+[Upgrade Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-properties.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-default-skipped-rules.md)
 
-[Upgrade Center roles](uc-roles.md)
+[Upgrade Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-roles.md)
 

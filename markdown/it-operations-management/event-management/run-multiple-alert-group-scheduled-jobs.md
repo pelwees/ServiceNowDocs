@@ -45,7 +45,7 @@ Without setting at least one of these properties to true, the alerts will not be
 
 3.  For all existing scheduled jobs Service Analytics group alerts using RCA/Alert Aggregation, set the value in the **Active** column to **false**.
 
-    ![Deactivate scheduled job](../../service-operations-workspace-itom/image/deactivate-scheduled-job.png "Deactivate scheduled job")
+    ![Deactivate scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-operations-workspace-itom/image/deactivate-scheduled-job.png "Deactivate scheduled job")
 
 4.  Create a new property **sa\_analytics.agg.alert\_grouping.num\_of\_jobs**, or if it already exists, update the property to the desired number of multiple scheduled jobs for alert grouping such as 2 or 4.
 
@@ -77,7 +77,7 @@ Without setting at least one of these properties to true, the alerts will not be
 
 8.  Activate the new jobs by selecting the **Active** check box for each job.
 
-    ![Activate scheduled job](../../service-operations-workspace-itom/image/active-scheduled-job.png "Activate scheduled job")
+    ![Activate scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-operations-workspace-itom/image/active-scheduled-job.png "Activate scheduled job")
 
 
 ## Result

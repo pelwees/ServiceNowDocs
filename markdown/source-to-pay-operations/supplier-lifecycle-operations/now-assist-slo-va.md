@@ -75,14 +75,14 @@ Now Assist in Virtual Agent provides your users with an interactive generative A
 
 As an administrator, you can use the Now Assist in Virtual Agent Analytics dashboard to monitor the performance of Now Assist in Virtual Agent as a self-service deflection tool. To learn more, see . Now Assist in Virtual Agent Analytics calculates the conversation deflection rate that is based on the resolution status associated with Now Assist query responses. For more information, see .
 
-For detailed information on Now Assist in Virtual Agent in general, and Now Assist for SLO in particular, see [Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-exploring.md).
+For detailed information on Now Assist in Virtual Agent in general, and Now Assist for SLO in particular, see [Explore Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-exploring.md).
 
-For information on configuring Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md).
+For information on configuring Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/now-assist-slo-configuring.md).
 
 **Related topics**  
 
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md)
 
-[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](../task/now-assist-slo-summarize-case.md)
+[Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/now-assist-slo-summarize-case.md)
 

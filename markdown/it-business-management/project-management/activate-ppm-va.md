@@ -57,11 +57,11 @@ To install Virtual Agent for PPM, activate the following plugins:
 **Related topics**  
 
 
-[Virtual Agent for PPM](../concept/ppm-va-overview.md)
+[Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ppm-va-overview.md)
 
-[Enable Virtual Agent for PPM](setup-ppm-va.md)
+[Enable Virtual Agent for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/setup-ppm-va.md)
 
-[PPM Virtual Agent conversation flows](../concept/ppm-va-conversations.md)
+[PPM Virtual Agent conversation flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ppm-va-conversations.md)
 
-[Reusable PPM Virtual Agent topic blocks](../concept/ppm-va-topic-blocks.md)
+[Reusable PPM Virtual Agent topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ppm-va-topic-blocks.md)
 

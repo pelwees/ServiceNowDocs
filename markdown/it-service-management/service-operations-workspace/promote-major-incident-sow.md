@@ -17,7 +17,7 @@ Review the information of the proposed major incident candidate and promote it t
 
 ## Before you begin
 
-You must propose the incident as a major incident candidate. For more information, see [Propose a major incident](propose-major-incident-sow.md).
+You must propose the incident as a major incident candidate. For more information, see [Propose a major incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/propose-major-incident-sow.md).
 
 Role required: major\_incident\_manager or admin
 
@@ -25,7 +25,7 @@ Role required: major\_incident\_manager or admin
 
 1.  Open an incident record.
 
-2.  Select the **Major Incident Playbooks** \(![Major incident playbook](../image/mim-playbook-icon.png)\) icon on a contextual side panel to launch the major incident playbook.
+2.  Select the **Major Incident Playbooks** \(![Major incident playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-playbook-icon.png)\) icon on a contextual side panel to launch the major incident playbook.
 
     The Major Incident Playbook panel appears on the side panel. It includes the following tabs:
 
@@ -50,8 +50,8 @@ Role required: major\_incident\_manager or admin
 
 8.  Select **Promote to Major Incident**.
 
-    **Note:** You can also promote a major incident by selecting the **More actions** \(![More action icon from the top menu](../image/mim-more-actions-top-icon.png)\) icon and then selecting **Promote to Major Incident**.
+    **Note:** You can also promote a major incident by selecting the **More actions** \(![More action icon from the top menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-more-actions-top-icon.png)\) icon and then selecting **Promote to Major Incident**.
 
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/managing-major-incident-sow.md)
 

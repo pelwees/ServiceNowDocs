@@ -17,7 +17,7 @@ Create and map an NLU model group and intent for the topic from Assistant Design
 
 ## Before you begin
 
-[Configure NLU on the instance in Virtual Agent General Settings](configure-nlu-settings.md).
+[Configure NLU on the instance in Virtual Agent General Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -66,5 +66,5 @@ Role required: virtual\_agent\_admin or admin
 
 The modified topic is in the inactive state until you publish it.
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

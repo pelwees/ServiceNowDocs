@@ -21,5 +21,5 @@ The exception rule follows this life cycle:
 4.  The RT stops accepting new findings when the rule expires on the "Valid to" date. The RT remains in existence until the "Deferred until" date.
 5.  The exception rule expires on the "Valid to" date.
 
-**Parent Topic:**[Configuring an exception rule](sem-configure-exception-rule.md)
+**Parent Topic:**[Configuring an exception rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 

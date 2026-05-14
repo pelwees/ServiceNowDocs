@@ -21,23 +21,23 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Indicators**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Indicators**.
 
 4.  Select **Capability Indicators**.
 
 
-**Parent Topic:**[Working with indicators](../../concept/eaw-concept/eaw-manage-indicators.md)
+**Parent Topic:**[Working with indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-indicators.md)
 
 **Related topics**  
 
 
-[Manage indicators](../../concept/eaw-concept/eaw-configure-indicators.md)
+[Manage indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-configure-indicators.md)
 
-[Add or edit a capability indicator](eaw-add-or-edit-a-capability-indicator.md)
+[Add or edit a capability indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-or-edit-a-capability-indicator.md)
 
-[Activate or turn off an application or capability indicator](eaw-enable-or-disable-an-application-indicator.md)
+[Activate or turn off an application or capability indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-enable-or-disable-an-application-indicator.md)
 
-[Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace](eaw-regenerate-capability-indicator-scores-in-eaw.md)
+[Regenerate capability indicator scores on-demand in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-regenerate-capability-indicator-scores-in-eaw.md)
 

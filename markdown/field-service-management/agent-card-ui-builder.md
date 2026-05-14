@@ -26,5 +26,5 @@ Depending on your configuration, you might have the same, more, or fewer compone
 
 The following image shows an example of the container component used to build part of the agent card. The fields can be configured in UI Builder.
 
-![Tabs used to configure the agent card in UI Builder.](../image/container-uib.png "Container component in UI Builder")
+![Tabs used to configure the agent card in UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/container-uib.png "Container component in UI Builder")
 

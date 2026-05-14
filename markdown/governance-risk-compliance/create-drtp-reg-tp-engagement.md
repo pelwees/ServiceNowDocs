@@ -25,7 +25,7 @@ The **Digital resilience information** tab is also available for the Third-party
 
 Upon installing the Digital resilience third-party registers, the **Digital resilience information** tab is added for third-party engagements. You can open this tab and set up the digital resilience information details.
 
-![Info tab.](../image/tpe-dig-res-info-tab.png)![Info form.](../image/tpe-dig-res-info-form.png)
+![Info tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpe-dig-res-info-tab.png)![Info form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpe-dig-res-info-form.png)
 
 ## Procedure
 
@@ -37,13 +37,13 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Third party engagement form](../reference/create-new-tp-engmt-form.md).
+    For more information, see [Create New Third party engagement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-tp-engmt-form.md).
 
 4.  Select **Save**
 
 5.  Add digital resilience information.
 
-    For more information, see [Add Digital resilience information to third-party engagements](tp-eng-add-digi-resi-info.md).
+    For more information, see [Add Digital resilience information to third-party engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/tp-eng-add-digi-resi-info.md).
 
 6.  To edit the third-party engagement record, select it from the list and select **Edit**.
 
@@ -52,10 +52,10 @@ Upon installing the Digital resilience third-party registers, the **Digital resi
 8.  To delete the third-party engagement record, select it from the list and select **Delete**.
 
 
--   **[Add Digital resilience information to third-party engagements](tp-eng-add-digi-resi-info.md)**  
+-   **[Add Digital resilience information to third-party engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/tp-eng-add-digi-resi-info.md)**  
 Add Digital resilience information to third-party engagements.
--   **[Create New Third party engagement form](../reference/create-new-tp-engmt-form.md)**  
+-   **[Create New Third party engagement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-tp-engmt-form.md)**  
 On the Create New Third-party engagement form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

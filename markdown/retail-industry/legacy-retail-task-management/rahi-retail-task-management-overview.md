@@ -19,11 +19,11 @@ Use the ServiceNow® Retail Task Management application to optimize the planning
 
 <table id="table_ndv_brb_qcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Retail Task Management and how it's used.](rahi-retail-task-management-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Retail Task Management and how it's used.](rahi-retail-task-management-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Retail Task Management and configure your environment.](rahi-retail-task-management-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Retail Task Management and configure your environment.](rahi-retail-task-management-configuring.md)
 
 </td><td>
 
@@ -31,11 +31,11 @@ Use the ServiceNow® Retail Task Management application to optimize the planning
 
 </td></tr><tr><td>
 
-[Multi-store case![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create a multi-store case.](rahi-retail-create-multi-store.md)
+[Multi-store case![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create a multi-store case.](rahi-retail-create-multi-store.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Retail Task Management components such as fields, tables, and properties.](rahi-retail-task-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Retail Task Management components such as fields, tables, and properties.](rahi-retail-task-management-reference.md)
 
 </td><td>
 

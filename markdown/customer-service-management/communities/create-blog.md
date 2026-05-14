@@ -71,9 +71,9 @@ Description
 
 </td><td>
 
-Content of the blog.To insert an image, click the **Insert Image** button \(![Insert image.](../images/insert-image-button.png)\), navigate to the .png or .jpg file, and then click **Open**.
+Content of the blog.To insert an image, click the **Insert Image** button \(![Insert image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/insert-image-button.png)\), navigate to the .png or .jpg file, and then click **Open**.
 
- To insert a video, click the **Insert Video** button \(![Insert video.](../images/insert-video-button.png)\), enter the video URL, and then click **Upload**.
+ To insert a video, click the **Insert Video** button \(![Insert video.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/insert-video-button.png)\), enter the video URL, and then click **Upload**.
 
 </td></tr><tr><td>
 
@@ -119,8 +119,8 @@ Do this
 Review and publish your blog later. The blog appears as a draft on your profile page under **Content** &gt; **Drafts**. **Note:** Community and forum administrators can edit, delete, and publish drafts. If a community or forum administrator edits, deletes, or publishes your draft, you receive an email notification.
 
 From your profile page, you have the following options.1.  To review your blog before publishing, click **Edit**.
-2.  -   Click the corresponding ellipsis ![More Options](../images/moreoptions-icon.png) icon and then **Publish**.
--   Click the corresponding ellipsis ![More Options](../images/moreoptions-icon.png) icon and then **Delete**.
+2.  -   Click the corresponding ellipsis ![More Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/moreoptions-icon.png) icon and then **Publish**.
+-   Click the corresponding ellipsis ![More Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/moreoptions-icon.png) icon and then **Delete**.
 
 
 </td></tr><tr><td id="d282177e320">
@@ -150,10 +150,10 @@ Publish your blog directly. The forum subscribers receive an email notification.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 
 **Related topics**  
 
 
-[Disable comments](disable-comments.md)
+[Disable comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 

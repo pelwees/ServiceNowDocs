@@ -19,5 +19,5 @@ Navigate to **Software Asset** &gt; **Discovery** &gt; **Discovered Engineering 
 
 You can view a list of all the normalized publishers and products for your engineering applications. Additional information such as the version, quantity of licenses, and the type of license is also displayed.
 
-**Parent Topic:**[View normalization suggestions in Software Asset Management classic](../task/view-norm-suggestions-sam.md)
+**Parent Topic:**[View normalization suggestions in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/view-norm-suggestions-sam.md)
 

@@ -48,36 +48,36 @@ Keep your personal information accurate and up to date so that a supplier manage
 7.  Select **Refresh to see changes**.
 
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-central.md)
 
 **Related topics**  
 
 
-[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
+[Invite a member to access the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/my-to-dos.md)
 
-[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-[View supplier locations from the Supplier Collaboration Portal](view-supp-loc-supp-central.md)
+[View supplier locations from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-loc-supp-central.md)
 
-[View supplier payment information from the Supplier Collaboration Portal](view-bank-info-supp-central.md)
+[View supplier payment information from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-bank-info-supp-central.md)
 
-[Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md)
+[Start a chat session from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/start-chat-portal.md)
 
-[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 
-[Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
+[Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-risk-assessments.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/create-universal-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
-[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 

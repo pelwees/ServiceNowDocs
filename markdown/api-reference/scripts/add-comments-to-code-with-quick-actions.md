@@ -29,7 +29,7 @@ Role required: now.assist.creator
 
 3.  Select **Add comments in code**.
 
-    ![Select Add comments in code](../image/now-assist-code-quick-actions.png)
+    ![Select Add comments in code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-quick-actions.png)
 
     The comments appear highlighted in the script editor.
 

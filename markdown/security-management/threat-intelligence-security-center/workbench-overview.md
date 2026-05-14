@@ -23,7 +23,7 @@ After the case is created, the analysts will then assign the case tasks to other
 
 There are various widgets present under each filter grouped by priority, status, and case type which are in the threat analysts’ queues and threat analysts team's queue.
 
-![Workbench Overview](../image/tisc-workbench-overview.png)
+![Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-workbench-overview.png)
 
 When filters are applied on the widgets, the bottom half of the overview page is populated with the corresponding cases or case tasks presented as list items. In order to remove the applied filters, click on **Reset Filters** to reset it to the original view.
 
@@ -35,24 +35,24 @@ Using this page, the threat analysts and admins can view their work, teams work,
 
 You can also view cases and case tasks directly from the Workbench Overview that are assigned to you. By default, the case view is displayed, you can use the dropdown and select the case tasks if you want to view the case tasks by priority and status.
 
-**Parent Topic:**[Threat Analyst Workbench](threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Creating cases using Threat Analyst Workbench](create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](../task/tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-case-task.md)
 
-[Working with Investigation Canvas](tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](../task/add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](../task/run-enrichment-results.md)
+[Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/run-enrichment-results.md)
 
-[View Case Reports](../task/view-case-reports.md)
+[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/view-case-reports.md)
 
-[Create a security incident from a TISC case](../task/tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-si-case.md)
 
-[Upload Secure File Attachments](../task/secure-file-attachments.md)
+[Upload Secure File Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/secure-file-attachments.md)
 

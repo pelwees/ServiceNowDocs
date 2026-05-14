@@ -36,7 +36,7 @@ You can enable enhanced chat experience from the Now Assist in Virtual Agent gui
     The new theme is visually appealing, engaging, and user-friendly, with a focus on enhancing productivity.
 
 
-![Portal homepage with enhanced chat](../image/enhanced-chat-NASS.png "Enhanced chat with Now Assist in Portals")
+![Portal homepage with enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/enhanced-chat-NASS.png "Enhanced chat with Now Assist in Portals")
 
 ## Search experience 
 
@@ -49,7 +49,7 @@ The search results include links to the sources of information and related actio
 **Related topics**  
 
 
-[Now Assist in Virtual Agent in self-service portal](nava-csp-csm-portals.md)
+[Now Assist in Virtual Agent in self-service portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/nava-csp-csm-portals.md)
 
-[Using Virtual Agent in Customer and Consumer Service Portals](va-csp-csm-portal.md)
+[Using Virtual Agent in Customer and Consumer Service Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/va-csp-csm-portal.md)
 

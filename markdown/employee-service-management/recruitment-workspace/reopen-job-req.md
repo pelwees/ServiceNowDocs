@@ -28,26 +28,26 @@ Role required: sn\_ta\_hiring\_core.recruiter
 3.  Select **Reopen**.
 
     -   The requisition moves to the **New** state after it's reopened.
-    -   For more information on the state management system, see [Job requisition state management](../reference/job-req-state-mngmnt.md).
+    -   For more information on the state management system, see [Job requisition state management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../reference/job-req-state-mngmnt.md).
 
-**Parent Topic:**[Manage the job requisitions as a recruiter](../../employee-center/concept/manage-job-reqs.md)
+**Parent Topic:**[Manage the job requisitions as a recruiter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../../employee-center/concept/manage-job-reqs.md)
 
 **Related topics**  
 
 
-[Put a job requisition on hold](put-req-on-hold.md)
+[Put a job requisition on hold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/put-req-on-hold.md)
 
-[Withdraw hold on a job requisition](off-hold-job-req.md)
+[Withdraw hold on a job requisition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/off-hold-job-req.md)
 
-[Duplicate a job requisition](duplicate-job-req.md)
+[Duplicate a job requisition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/duplicate-job-req.md)
 
-[Close a job requisition](close-a-job-req.md)
+[Close a job requisition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/close-a-job-req.md)
 
-[Submit a job requisition for approval](submit-for-approval-job-req.md)
+[Submit a job requisition for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/submit-for-approval-job-req.md)
 
-[Cancel a submitted approval request](cancel-approval-job-req.md)
+[Cancel a submitted approval request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/cancel-approval-job-req.md)
 
-[Resend a job requisition for approval](resubmit-approval-job-req.md)
+[Resend a job requisition for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/resubmit-approval-job-req.md)
 
-[Open a job requisition in your ATS](open-a-job-req-for-ats.md)
+[Open a job requisition in your ATS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/open-a-job-req-for-ats.md)
 

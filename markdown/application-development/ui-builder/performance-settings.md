@@ -25,7 +25,7 @@ Role required: ui\_builder\_admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -39,7 +39,7 @@ Role required: ui\_builder\_admin
 
     The **Advanced performance settings** modal opens.
 
-    ![Advanced performance settings modal showing the loading options.](../image/performance-settings-modal.png)
+    ![Advanced performance settings modal showing the loading options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/performance-settings-modal.png)
 
 7.  Select how components load onto a page.
 
@@ -67,5 +67,5 @@ Role required: ui\_builder\_admin
 10. Select **Apply**.
 
 
-**Parent Topic:**[Configure components and repeaters \(advanced feature\)](../concept/configure-comp-and-repeaters.md)
+**Parent Topic:**[Configure components and repeaters \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/configure-comp-and-repeaters.md)
 

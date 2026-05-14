@@ -25,7 +25,7 @@ Role required: admin
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the Details page of the project by selecting **Details** from the list.
 
@@ -54,10 +54,10 @@ Role required: admin
     -   Resource Management Workspace
     -   Strategic Portfolio Workspace
 
-**Parent Topic:**[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+**Parent Topic:**[Configuring security for a project in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/configuring-security-for-a-project-in-pw.md)
 
 **Related topics**  
 
 
-[Configuring security for a project in Project Workspace](../concept/configuring-security-for-a-project-in-pw.md)
+[Configuring security for a project in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/configuring-security-for-a-project-in-pw.md)
 

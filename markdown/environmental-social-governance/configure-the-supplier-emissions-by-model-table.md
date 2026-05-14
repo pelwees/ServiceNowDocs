@@ -83,5 +83,5 @@ Unit of measurement used to quantify the emissions per unit of activity, materia
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring the Scope 3 dashboard](../concept/configuring-the-scope-3-dashboard.md)
+**Parent Topic:**[Configuring the Scope 3 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configuring-the-scope-3-dashboard.md)
 

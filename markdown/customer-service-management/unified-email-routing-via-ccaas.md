@@ -29,7 +29,7 @@ When a customer responds to the On Hold email, the interaction status is automat
 **Related topics**  
 
 
-[System properties for configuring Email Interaction](../reference/system-properties-for-configuring-email-as-an-interaction.md)
+[System properties for configuring Email Interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/system-properties-for-configuring-email-as-an-interaction.md)
 
-[Routing and assigning an email interaction to agents](routing-assigning-email-interaction-agents.md#)
+[Routing and assigning an email interaction to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/routing-assigning-email-interaction-agents.md#)
 

@@ -56,5 +56,5 @@ Template items can have child template items. By creating child template items, 
 
 ## What to do next
 
-After creating a child template item, you can [create one or more conditions for the template item](create-task-plan-template-item-condition.md).
+After creating a child template item, you can [create one or more conditions for the template item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-task-plan-template-item-condition.md).
 

@@ -95,14 +95,14 @@ To allow the connector to access your Trello source system via the Trello REST A
 
 Provide the following items to your connector admin:
 
--   The API key that you copied in step [2.d](configure-trello-external-content-indexing.md#copy-api-key-step).
--   The API token that you copied in step [2.g](configure-trello-external-content-indexing.md#copy-api-token-step).
--   The enterprise ID that you copied in step [3.b](configure-trello-external-content-indexing.md#copy-enterpriseid-step).
+-   The API key that you copied in step [2.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-trello-external-content-indexing.md#copy-api-key-step).
+-   The API token that you copied in step [2.g](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-trello-external-content-indexing.md#copy-api-token-step).
+-   The enterprise ID that you copied in step [3.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-trello-external-content-indexing.md#copy-enterpriseid-step).
 -   The base URL for the Trello REST API. This is usually `https://api.trello.com`.
 
 Your connector admin needs these items to configure a Trello external content connector to retrieve boards from your Trello source system.
 
-For details on creating and configuring a Trello external content connector, see [Create a Trello external content connector](create-ext-cont-connector-trello.md).
+For details on creating and configuring a Trello external content connector, see [Create a Trello external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-trello.md).
 
-**Parent Topic:**[Trello external content connector](../concept/trello-external-content-connector.md)
+**Parent Topic:**[Trello external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/trello-external-content-connector.md)
 

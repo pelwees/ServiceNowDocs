@@ -35,9 +35,9 @@ You can add crew members on the run for undersized crew tasks, such as agent is 
 
 5.  Search for a field service agent whom you want to add to the crew.
 
-    For more information, see [Identify crews and agents for crew tasks on Dispatcher Workspace](sort-crews-for-wot.md).
+    For more information, see [Identify crews and agents for crew tasks on Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/sort-crews-for-wot.md).
 
-6.  In the agent card, click the More actions icon \(![More actions icon](../image/more_actions.png)\) and select **Add to crew**.
+6.  In the agent card, click the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions.png)\) and select **Add to crew**.
 
 7.  On the form, fill in the fields.
 

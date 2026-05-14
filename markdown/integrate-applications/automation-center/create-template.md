@@ -29,7 +29,7 @@ After the automation request is moved to the following states, the option to cre
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -37,11 +37,11 @@ After the automation request is moved to the following states, the option to cre
 
     Ensure that the automation request has a checklist.
 
-5.  Select the Golive Checklist icon \(![golive checklist icon](../images/icon-golive.png)\) from the side panel.
+5.  Select the Golive Checklist icon \(![golive checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/icon-golive.png)\) from the side panel.
 
 6.  Select **Save as template** from the details button.
 
-    ![Save as template button](../images/golive-template.png)
+    ![Save as template button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/golive-template.png)
 
     The **Save checklist as new template** form is displayed.
 
@@ -54,5 +54,5 @@ After the automation request is moved to the following states, the option to cre
     The template is created. This template is available for others to add to their golive checklist. Now, this template is associated with the automation request.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/working-golive.md)
 

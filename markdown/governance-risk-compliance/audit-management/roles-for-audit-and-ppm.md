@@ -92,10 +92,10 @@ You can log hours in a time card for an engagement and other tasks on an engagem
 -   Users need timecard\_approver role to approve a submitted time card. The time sheet policy assigned to the user governs the approval process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Audit Management reference](audit-management-reference.md)
+</table>**Parent Topic:**[Audit Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-management-reference.md)
 
 **Related topics**  
 
 
-[Roles required for Engagement project planning for Project Portfolio Management](Engagement-project-roles-ppm.md)
+[Roles required for Engagement project planning for Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/Engagement-project-roles-ppm.md)
 

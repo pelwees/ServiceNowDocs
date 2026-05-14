@@ -19,7 +19,7 @@ From the Software Asset Workspace, access the Adobe Systems publisher overview b
 
 Results are updated whenever a new reconciliation result is available.
 
-![Adobe publisher overview.](../image/publisher-overview-adobe.png)
+![Adobe publisher overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-overview-adobe.png)
 
 You can view a summary of your license usage information in the Summary section of the Adobe Systems publisher overview.
 
@@ -80,7 +80,7 @@ Summary of your license compliance progress.This summary includes the following 
 -   **Removal candidates**: Total number of Adobe removal candidates. Select the number to view the list of all software removal candidates.
 
 </td></tr></tbody>
-</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
+</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Adobe](../concept/adobe-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/adobe-publisher-pack.md)
 

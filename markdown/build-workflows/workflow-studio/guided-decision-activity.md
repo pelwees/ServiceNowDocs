@@ -17,7 +17,7 @@ Choose a decision tree from your Guided Decisions framework to step agents throu
 
 ## Roles and availability
 
-This activity is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](../task/activate-process-automation-designer-for-csm.md).
+This activity is available with a subscription to App Engine or Customer Service Management \(CSM\). For more information on how to enable this activity for use in Playbooks, see [Activate Playbooks for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/activate-process-automation-designer-for-csm.md).
 
 ## Inputs
 
@@ -97,12 +97,12 @@ True/False
 
 </td><td>
 
-Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
+Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
 
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md#activity-experience).
 
 |Input|Type|Description|
 |-----|----|-----------|

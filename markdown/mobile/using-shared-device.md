@@ -16,7 +16,7 @@ Use a single device between multiple users to have a secure and personalized exp
 **Note:**
 
 -   This feature must be enabled by your administrator. To check if it is available to you, go to **Settings** and look for Device Sharing in the menu.
--   For the admin configuration topics of this feature, see [Enable multiple users to work on a shared device](../concept/multi-user-single-instance.md).
+-   For the admin configuration topics of this feature, see [Enable multiple users to work on a shared device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/multi-user-single-instance.md).
 
 ## Shared device flow
 
@@ -36,7 +36,7 @@ In the **Settings** page, select the Device sharing option.
 
 </td><td>
 
-![Settings page with Device sharing option](../image/multiuser-settings-page.png)
+![Settings page with Device sharing option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-settings-page.png)
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ The Device sharing page gives details of how shared mode operates. Select the **
 
 </td><td>
 
-![Activate shared mode button in the Device sharing page](../image/multiuser-shared-account-activate.png)
+![Activate shared mode button in the Device sharing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-shared-account-activate.png)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ You may see the following message if the mobile app is linked to more than one S
 
 </td><td>
 
-![Pop-up stating that multiple accounts have been detected](../image/multiuser-mult-accounts.png)
+![Pop-up stating that multiple accounts have been detected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-mult-accounts.png)
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ In the Quick Access page select **Add your account**. The bottom of the Quick Ac
 
 </td><td>
 
-![Add your account button in the Quick Access page](../image/multiuser-add-account.png)
+![Add your account button in the Quick Access page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-add-account.png)
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ In the log in page, enter your Username and Password, and then select **Log in**
 
 </td><td>
 
-![Main ServiceNow login page](../image/multiuser-log-in-page.png)
+![Main ServiceNow login page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-log-in-page.png)
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ After you pass the login page, you need to set a six digit PIN. This is the PIN 
 
 </td><td>
 
-![Set quick access PIN for a shared user](../image/multiuser-pin.png)
+![Set quick access PIN for a shared user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-pin.png)
 
 </td></tr><tr><td>
 
@@ -101,23 +101,23 @@ When logging in for the first time, you need to reenter your PIN for confirmatio
 
 </td><td>
 
-![Confirmation of quick access PIN for a shared user](../image/multiuser-confirm.png)
+![Confirmation of quick access PIN for a shared user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-confirm.png)
 
 </td></tr><tr><td>
 
-At the end of the authentication process, you are logged into the ServiceNow mobile app as a regular user. In the header is the exit account button![Exit account button](../image/multiuser-exit-button.png).Tap the button to open the Quick Access page.
+At the end of the authentication process, you are logged into the ServiceNow mobile app as a regular user. In the header is the exit account button![Exit account button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-exit-button.png).Tap the button to open the Quick Access page.
 
 **Note:** To return to the app, you need to tap on your user in the Quick Access page and enter your PIN.
 
 </td><td>
 
-![Home page with exit account button.](../image/multiuser-home.png)
+![Home page with exit account button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-home.png)
 
 </td></tr><tr><td>
 
 The Quick Access page displays all the users who are added to this device. The user displayed at the top is the active user.On this page you can do the following:
 
--   Select the Add user button ![Add user button](../image/multiuser-add-button.png) to add any additional users to this device.
+-   Select the Add user button ![Add user button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-add-button.png) to add any additional users to this device.
 
 **Note:** There may be a limit to the number of users you can add to a device.
 
@@ -125,7 +125,7 @@ The Quick Access page displays all the users who are added to this device. The u
 
 </td><td>
 
-![Quick Access page containing multiple users](../image/multiuser-users.png)
+![Quick Access page containing multiple users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/multiuser-users.png)
 
 </td></tr></tbody>
 </table>

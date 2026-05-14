@@ -17,7 +17,7 @@ Create the policy at the root level to lock or unlock an Azure account. As an Az
 
 ## Before you begin
 
-Make sure you have already configured the permission. For more information, see [Configure account suspension in Azure](configuring-azure-suspension-permission.md).
+Make sure you have already configured the permission. For more information, see [Configure account suspension in Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configuring-azure-suspension-permission.md).
 
 Role required: Azure admin
 
@@ -122,16 +122,16 @@ Role required: Azure admin
         **Note:** To verify if the policy is created, go to PolicyDefinitions. Change the filter Scope and Policy type to find the policy.
 
     6.  Select the policy name and copy the **Definition ID**.
-    **Note:** This Definition ID is required when you [Create a suspend account configuration](create-suspend-account-config.md).
+    **Note:** This Definition ID is required when you [Create a suspend account configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/create-suspend-account-config.md).
 
 
 ## What to do next
 
-[Setting up Cloud Account Management in Cloud Workspace](../concept/configuring-cloud-workspace.md)
+[Setting up Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/configuring-cloud-workspace.md)
 
-[Add members to the group](add-member-group.md)
+[Add members to the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/add-member-group.md)
 
-[Set up Azure connection](../concept/set-up-azure-connector.md)
+[Set up Azure connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/set-up-azure-connector.md)
 
-[Set up scan configuration for data visualization](set-up-data-visualization.md)
+[Set up scan configuration for data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-data-visualization.md)
 

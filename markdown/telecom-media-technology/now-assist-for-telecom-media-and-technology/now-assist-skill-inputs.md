@@ -195,11 +195,11 @@ The customer service summary skill helps user to get information on the customer
 -   General details
 -   Graph questionnaire
 
-    To add or modify the queries, see [Configure the graph questionnaire Now Assist for Telecommunications, Media and Technology \(TMT\)](../task/now-assist-configure-graph-questionnaire.md).
+    To add or modify the queries, see [Configure the graph questionnaire Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../task/now-assist-configure-graph-questionnaire.md).
 
 -   Customize prompt
 
-    To customize the prompt, see [Customize a skill in Now Assist for TMT](../task/now-assist-tmt-customize.md).
+    To customize the prompt, see [Customize a skill in Now Assist for TMT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../task/now-assist-tmt-customize.md).
 
 -   Define access
 -   Select display

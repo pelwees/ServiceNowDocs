@@ -40,7 +40,7 @@ See the vulnerable CIs assigned to you and your groups that have vulnerabilities
 
 3.  Alternatively, you can click the List icon in the upper left on the home page to see all the remediation tasks \(VULs, AVULs, CVULs and CRGs\) and records \(VITs, AVITs, CVITs and TRs\) assigned to you and your groups.
 
-    For more information about how to use the list view, see [Create a list in the IT Remediation Workspace](vr-ws-IT-list-view.md).
+    For more information about how to use the list view, see [Create a list in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-IT-list-view.md).
 
 4.  From either the Home page or the List view, click a remediation task to open it.
 

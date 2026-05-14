@@ -34,5 +34,5 @@ Role required: admin
 
 [Log in to an instance with a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/login-end-user.md).
 
-**Parent Topic:**[Install Mobile Time Sheets](install-timesheet-mobile.md)
+**Parent Topic:**[Install Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/install-timesheet-mobile.md)
 

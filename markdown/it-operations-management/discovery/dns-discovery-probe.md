@@ -29,5 +29,5 @@ These performance improvements can be disabled by reverting to the legacy DNS pr
 |-----|-----------|
 |dns|Triggered by 'dns'. Uses 'DNS Name Resolver' Scanner and uses classification 'Process Classification \[discovery\_classy\_proc\]'|
 
-**Parent Topic:**[List of Discovery probes](r_ListOfDiscoveryProbes.md)
+**Parent Topic:**[List of Discovery probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md)
 

@@ -21,27 +21,27 @@ Role required: Admin
 
 1.  In the CPQ navigation pane, click **Blueprints**.
 
-    ![Menu](../images/cpq-blueprints.png)
+    ![Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints.png)
 
 2.  On the Blueprints page, click the name of the blueprint with which you intend to associate your field.
 
-    ![Blueprints](../images/cpq-blueprints-admin-click-name.png)
+    ![Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-admin-click-name.png)
 
 3.  On the Blueprint Admin page, in the Associated Fields tab, click **Associate fields**.
 
-    ![Associate fields](../images/cpq-blueprints-associate-fields-arrow.png)
+    ![Associate fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-associate-fields-arrow.png)
 
 4.  In the Associate Additional fields window, select the fields to associate with the blueprint, and then click **Done**.
 
-    ![Associate additional fields](../images/cpq-blueprints-associate-additional-fields.png)
+    ![Associate additional fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-associate-additional-fields.png)
 
     The fields associated with the blueprint are listed on the Fields tab of the blueprint administration page.
 
-    ![Admin fields tab](../images/cpq-blueprints-admin-fields-tab.png)
+    ![Admin fields tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-admin-fields-tab.png)
 
 
 **Related topics**  
 
 
-[Create a field using the Administration UI](create-a-field-using-the-administration-ui.md)
+[Create a field using the Administration UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-a-field-using-the-administration-ui.md)
 

@@ -35,14 +35,14 @@ Role required: sn\_compliance.admin, sn\_compliance.manager, sn\_compliance.user
 
     Those control objective are listed in the **Control Objective** related list.
 
-    ![Control objective related list](../image/PolicyStateRelatedList.png)
+    ![Control objective related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/PolicyStateRelatedList.png)
 
 
 ## What to do next
 
-If you are implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the next step.
+If you are implementing the [Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, return to the [Policy and Compliance Management setup checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the next step.
 
-**Parent Topic:**[Policy and Compliance Management mandatory setup](../../grc-policy-compliance-implementation/concept/policy-compliance-mandatory-setup.md)
+**Parent Topic:**[Policy and Compliance Management mandatory setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-compliance-implementation/concept/policy-compliance-mandatory-setup.md)
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../reference/r_PoliciesAndProcedures.md)
 

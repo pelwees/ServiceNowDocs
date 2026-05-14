@@ -37,31 +37,31 @@ Some features of ADR are:
     -   Date of last update
     On selecting a particular version, you’re directed to the ADR artifact content page for that version.
 
-    ![ADR artifact content page with the version drop-down highlighted](../../image/eaw-image/adr-version-dropdown.png)
+    ![ADR artifact content page with the version drop-down highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/adr-version-dropdown.png)
 
 
 ## Summarize ADR content using Now Assist for Enterprise Architecture \(EA\)
 
-Use Now Assist capabilities to elaborate, shorten, and summarize selected content in ADRs, or to get a summary of the whole ADR. For more information, see [Using Now Assist for Enterprise Architecture \(EA\)](../../../now-assist-ea/concept/using-now-assist-for-ea.md)
+Use Now Assist capabilities to elaborate, shorten, and summarize selected content in ADRs, or to get a summary of the whole ADR. For more information, see [Using Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/concept/using-now-assist-for-ea.md)
 
-**Parent Topic:**[Exploring the information portfolio](eaw-information-portfolio.md)
+**Parent Topic:**[Exploring the information portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-information-portfolio.md)
 
 **Related topics**  
 
 
-[Add or edit an architectural decision record \(ADR\)](../../task/eaw-task/eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-edit-adr.md)
 
-[Create and manage pages and subpages for architectural decision records](../../task/eaw-task/eaw-create-and-mng-page-subpage-for-adr.md)
+[Create and manage pages and subpages for architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-and-mng-page-subpage-for-adr.md)
 
-[Tag users or records in Architectural Decision Records](../../task/eaw-task/eaw-tag-users-or-records-in-adr.md)
+[Tag users or records in Architectural Decision Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-tag-users-or-records-in-adr.md)
 
-[Enable referencing additional records in architectural decision records](../../task/eaw-task/eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
+[Enable referencing additional records in architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
 
-[Add an architectural decision record version](../../task/eaw-task/eaw-add-an-adr-version.md)
+[Add an architectural decision record version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-an-adr-version.md)
 
-[Request approval for an architectural artifact version of type Architectural Decision Record](../../task/eaw-task/eaw-request-approval-adr.md)
+[Request approval for an architectural artifact version of type Architectural Decision Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-request-approval-adr.md)
 
-[Add a related entity to an architectural artifact](../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
+[Add a related entity to an architectural artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-related-entity-to-an-architectural-artifact.md)
 
-[Create new related entities form](../../reference/eaw-reference/eaw-artifact-releated-entity-form.md)
+[Create new related entities form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-artifact-releated-entity-form.md)
 

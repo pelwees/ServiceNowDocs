@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_user
 
 ## About this task
 
-The system generates an IT event when an anomaly alert is promoted. Those events then become IT alerts. For details, see [View the promoted anomaly alerts](view-promoted-alerts.md).
+The system generates an IT event when an anomaly alert is promoted. Those events then become IT alerts. For details, see [View the promoted anomaly alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/view-promoted-alerts.md).
 
 ## Procedure
 
@@ -30,5 +30,5 @@ The system generates an IT event when an anomaly alert is promoted. Those events
 2.  On the Events page, view the IT events that are created from the anomaly alerts by the Advanced Promotion Engine.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 

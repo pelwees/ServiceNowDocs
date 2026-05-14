@@ -17,7 +17,7 @@ To create an automated breakdown, select a breakdown source for it to use and ap
 
 ## Before you begin
 
-Familiarize yourself with the definitions and uses of [breakdowns in general](../concept/c_CreatingBreakdowns.md) and [automated breakdowns](../concept/automated-breakdowns.md) in particular.
+Familiarize yourself with the definitions and uses of [breakdowns in general](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_CreatingBreakdowns.md) and [automated breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/automated-breakdowns.md) in particular.
 
 Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
@@ -25,7 +25,7 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 An automated breakdown uses a breakdown source to determine selectable elements. You can use an existing breakdown source or you can define a new one.
 
-**Note:** This process allows you to create a fully customized breakdown. To create a simple automated breakdown, see [Create a breakdown from a wizard](t_CreateBreakdownFromWizard.md).
+**Note:** This process allows you to create a fully customized breakdown. To create a simple automated breakdown, see [Create a breakdown from a wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateBreakdownFromWizard.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ An automated breakdown uses a breakdown source to determine selectable elements.
 
 4.  Select a **Default elements filter**.
 
-    Use element filters to restrict the elements that are visible to a user. For more information, see [Element filters](../concept/c_BreakdownElementFilters.md#).
+    Use element filters to restrict the elements that are visible to a user. For more information, see [Element filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_BreakdownElementFilters.md#).
 
 5.  In the **Access control** tab, set who can see the breakdown.
 
@@ -53,11 +53,11 @@ An automated breakdown uses a breakdown source to determine selectable elements.
 
 ## What to do next
 
-Create breakdown mappings and associate indicators with the breakdown. You can do this from the indicator, using a graphical tool \(see [Assign and map breakdowns](create-breakdown-mapping.md#).
+Create breakdown mappings and associate indicators with the breakdown. You can do this from the indicator, using a graphical tool \(see [Assign and map breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-breakdown-mapping.md#).
 
-**Parent Topic:**[Automated breakdowns](../concept/automated-breakdowns.md)
+**Parent Topic:**[Automated breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/automated-breakdowns.md)
 
-**Previous topic:**[Automated breakdowns](../concept/automated-breakdowns.md)
+**Previous topic:**[Automated breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/automated-breakdowns.md)
 
-**Next topic:**[Create a breakdown mapping on a breakdown record](t_CrtBkdnBreakdownMpngs.md)
+**Next topic:**[Create a breakdown mapping on a breakdown record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtBkdnBreakdownMpngs.md)
 

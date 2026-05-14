@@ -287,5 +287,5 @@ Number of stops that data packets take when they travel from one network node or
 |RTT2|Duration in milliseconds \(ms\) that it takes for the second packet to get to a hop and back|
 |RTT3|Duration in milliseconds \(ms\) that it takes for the third packet to get to a hop and back|
 
-**Parent Topic:**[Device details pages](user-device-details-pages.md)
+**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 

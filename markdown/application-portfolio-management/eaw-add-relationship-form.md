@@ -56,10 +56,10 @@ Create, Read, Update, and Delete
 Options for capturing the type of operation or a combination of operations that the business application can do on the information object.Selecting the Create, Read, Update, and Delete \(CRUD\) check boxes adds qualifiers, which are properties that define the extent of the relationship between the business application CI and the information object CI.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Manage information objects of a business application in EA Workspace](../../task/eaw-task/eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-associate-info-obj-ba.md)
 

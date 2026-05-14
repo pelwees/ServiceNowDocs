@@ -35,5 +35,5 @@ Role required: admin
 2.  Select the To review link to look at the records that need to be reviewed manually.
 
 
-**Parent Topic:**[Apply Upgrade Plan on your upgrade](uc-apply-upgrade-plan.md)
+**Parent Topic:**[Apply Upgrade Plan on your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-apply-upgrade-plan.md)
 

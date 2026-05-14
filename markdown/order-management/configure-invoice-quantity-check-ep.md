@@ -120,10 +120,10 @@ Input:
 
 9.  Validate your implementation by submitting an invoice dispute from the Business Portal using the Now Assist Virtual Assistant.
 
-    For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](dispute-invoice-issues-now-assist.md).
+    For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/dispute-invoice-issues-now-assist.md).
 
 
-**Parent Topic:**[Configuring Now Assist for Order Management](../concept/now-assist-for-order-management-configuring.md)
+**Parent Topic:**[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-for-order-management-configuring.md)
 
 **Related topics**  
 

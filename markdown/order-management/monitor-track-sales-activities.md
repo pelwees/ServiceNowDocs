@@ -32,18 +32,18 @@ Related lists configured in the Sales cockpit view in Next Experience UI govern 
 
 By accessing the sales data and using integrated communication channels such as sidebar discussions and emails, you can promote record completeness and accuracy, and support downstream processes such as order fulfillment, revenue recognition, and reporting.
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[Create and manage task checklists](../task/create-checklists-l2c-process-management.md)
+[Create and manage task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-checklists-l2c-process-management.md)
 
-[Add attachments for a sales process record](../task/add-attachments-sales-process.md)
+[Add attachments for a sales process record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-attachments-sales-process.md)
 
-[View and send emails in Lead-to-Cash Process Management](../task/view-send-emails-sales-process.md)
+[View and send emails in Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/view-send-emails-sales-process.md)
 
-[Linking, delinking, and link conversion conditions](conditions-link-delink-toggle-records.md)
+[Linking, delinking, and link conversion conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/conditions-link-delink-toggle-records.md)
 
 [Using Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/using-sidebar.md)
 

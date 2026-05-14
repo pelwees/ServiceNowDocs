@@ -23,23 +23,23 @@ Watch this short video for an introduction to the Cloud Cost Management applicat
 
 <table id="ci-flow" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Cloud Cost Management application offers.](../concept/exploring-cloud-insights.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value that the Cloud Cost Management application offers.](../concept/exploring-cloud-insights.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Cloud Cost Management supporting plugins, features, and assign roles to enable additional setup activities.](../concept/configuring-cloud-insights.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Cloud Cost Management supporting plugins, features, and assign roles to enable additional setup activities.](../concept/configuring-cloud-insights.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-manage.svg)Automate and streamline manual processes by automating cloud tasks.](../concept/using-cloud-insights.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/icons/brand-icons/bus-manage.svg)Automate and streamline manual processes by automating cloud tasks.](../concept/using-cloud-insights.md)
 
 </td></tr><tr><td>
 
-[Cloud Cost Management Infra Stack![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn the key features and business value that the Cloud Cost Management Infra Stack application offers.](../concept/ccm-infra-stack.md)
+[Cloud Cost Management Infra Stack![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn the key features and business value that the Cloud Cost Management Infra Stack application offers.](../concept/ccm-infra-stack.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the roles, domain separation, and service categories in Cloud Cost Management.](../concept/reference-cloudinsights.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the roles, domain separation, and service categories in Cloud Cost Management.](../concept/reference-cloudinsights.md)
 
 </td><td>
 

@@ -30,7 +30,7 @@ Role required: admin or sp\_admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Standard ticket page](../concept/standard-ticket-page.md)
+**Parent Topic:**[Standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/standard-ticket-page.md)
 
 **Related topics**  
 

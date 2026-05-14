@@ -74,5 +74,5 @@ The resulting response of a `get` function call looks like this:
 </soap:Envelope>
 ```
 
-**Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
+**Parent Topic:**[Data Retrieval API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataRetrievalAPI.md)
 

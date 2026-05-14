@@ -76,7 +76,7 @@ Glossary
 
 </td><td>
 
-[Now Assist and Agentic AI glossary](../../now-assist-platform/concept/now-assist-glossary.md#)
+[Now Assist and Agentic AI glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/now-assist-glossary.md#)
 
 </td></tr><tr><td>
 

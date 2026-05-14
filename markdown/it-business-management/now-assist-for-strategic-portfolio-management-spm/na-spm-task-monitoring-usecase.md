@@ -36,14 +36,14 @@ If you want to change this agentic workflow, you can [duplicate it](https://raw.
 
 ## Monitor project tasks agentic workflow
 
-Autonomously generate a project insights email using AI agents. To use Monitor project tasks, make sure that the project insights generation skill is active. For more information on how to activate the skill, see [Configure Now Assist Admin features](configuring-na-spm.md).
+Autonomously generate a project insights email using AI agents. To use Monitor project tasks, make sure that the project insights generation skill is active. For more information on how to activate the skill, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
 To access the Monitor project tasks agentic workflow:
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Monitor project tasks**.
 
-To configure the Monitor project tasks agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](../task/configure-agents-project-task-monitoring.md).
+To configure the Monitor project tasks agentic workflow and associated AI agents, see [Configure the Monitor project tasks AI agent in AI Agent Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../task/configure-agents-project-task-monitoring.md).
 
 ## AI agents used in the Monitor project tasks agentic workflow
 

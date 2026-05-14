@@ -108,7 +108,7 @@ User decision
 
     Pattern Designer creates a temporary connection section for this pattern with a new step.
 
-    ![Temporary Connection section in the Pattern Designer](../image/CreateParseStepTempStep.png)
+    ![Temporary Connection section in the Pattern Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CreateParseStepTempStep.png)
 
     The Debug Connection Section window is displayed with some fields automatically populated.
 
@@ -122,7 +122,7 @@ User decision
 
     1.  Under **Free Text**, review data automatically filled in from the Traffic Based Connections List.
 
-        ![Search Assistant shows search criteria pulled directly from the Traffic Based Connections List](../image/CreateParseStepSearchAssistant.png)
+        ![Search Assistant shows search criteria pulled directly from the Traffic Based Connections List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CreateParseStepSearchAssistant.png)
 
         The File Patterns field displays file types in which Pattern Designer performs the search.
 
@@ -140,7 +140,7 @@ User decision
 
     2.  Wait for the file content to load and select the relevant entry under the file name:
 
-        ![Search Result tab showing data found in files.](../image/CreateParseStepSearchResults.png)
+        ![Search Result tab showing data found in files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CreateParseStepSearchResults.png)
 
     3.  To use this data to create the pattern step, click **Create parse file step**.
 
@@ -148,7 +148,7 @@ User decision
 
         Pattern Designer automatically sets the file name, file path, and parsing strategy for the step. It also creates variables that contain data you searched for. If there is a variable, which contains the file path, Pattern Designer enters this variable for the path.
 
-        ![Automatically created step](../image/CreateParseStepPatternStep.png)
+        ![Automatically created step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CreateParseStepPatternStep.png)
 
     4.  If necessary, you can modify parsing strategy.
 
@@ -158,21 +158,21 @@ User decision
 
         Copy and past the step into the relevant connection section.
 
-10. Complete modifying the pattern as described in [Finalize a pattern](t_FinalizePatternPatDef.md).
+10. Complete modifying the pattern as described in [Finalize a pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_FinalizePatternPatDef.md).
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Enhance patterns without changing their identification sections](modify-pattern-using-extensions.md)
+**Previous topic:**[Enhance patterns without changing their identification sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/modify-pattern-using-extensions.md)
 
-**Next topic:**[Finalize a pattern](t_FinalizePatternPatDef.md)
+**Next topic:**[Finalize a pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_FinalizePatternPatDef.md)
 
 **Related topics**  
 
 
-[Traffic-based discovery in Service Mapping](../concept/traffic-based-discovery.md)
+[Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/traffic-based-discovery.md)
 
-[Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md)
+[Enable traffic-based discovery for CI types or specific CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateATrafficBasedDiscoveryRule.md)
 
-[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 

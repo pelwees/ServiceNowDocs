@@ -25,7 +25,7 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
 
     The navigation path is shown in the example.
 
-    ![Navigation path for installing the application.](../image/install-menu.png)
+    ![Navigation path for installing the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/install-menu.png)
 
 2.  Find the Business Continuity Management application using the filter criteria and search bar.
 
@@ -35,7 +35,7 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
 
     The path using the filter criteria is shown in the examples.
 
-    ![Application manager.](../image/install-application-manager.png)![Selecting the applications.](../image/bcm-install-select-install.png)
+    ![Application manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/install-application-manager.png)![Selecting the applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-install-select-install.png)
 
 3.  Select **Install**.
 
@@ -43,11 +43,11 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
 
     Review the application listing in the instance for information on dependencies, licensing or subscription requirements, and release compatibility.
 
-    ![Review installation details.](../image/bcm-install-review-details.png)
+    ![Review installation details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-install-review-details.png)
 
     The Business Continuity Management application \(com.snc.sn\_bcm\) requires that the required applications are downloaded as shown in the example.
 
-    ![Required applications.](../image/bcm-install-dependencies-roles.png)
+    ![Required applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-install-dependencies-roles.png)
 
     -   BCM core \(com.snc.bcm.app\_bcm\_core\)
     -   BIA \(com.snc.bcm.app\_bcm\_bia\)
@@ -73,5 +73,5 @@ In the ServiceNow Store, you must verify that you have entitlements \(or license
     **Note:** Installing GRC: Business Impact Analysis, GRC: Business Continuity Planning, or GRC: Crisis Management automatically installs GRC: Business Continuity Management – Core and GRC: Business Continuity Management – Components.
 
 
-**Parent Topic:**[Business Continuity Management and ServiceNow Store](../concept/bcm-and-store.md)
+**Parent Topic:**[Business Continuity Management and ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-and-store.md)
 

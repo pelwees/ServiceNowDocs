@@ -21,7 +21,7 @@ Role required: activity\_creator or workflow\_admin
 
 ## About this task
 
-For instructions on using the activity template process flow, see [create custom activities](create-custom-activities.md).
+For instructions on using the activity template process flow, see [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md).
 
 ## Procedure
 
@@ -29,11 +29,11 @@ For instructions on using the activity template process flow, see [create custom
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the Probe Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#), configure the Probe Execution Command.
 
 <table id="choicetable_bf3_bpv_vz"><tbody><tr><td id="d387410e117">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -72,21 +72,21 @@ MID Server to use, by capabilities.
 Name-value pairs to pass to the host with this probe. You can create these parameters manually, or drag and drop input variables into the parameter fields and assign a value.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
--   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules
--   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
+-   Use [auto-mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules
+-   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnOutputVariable.md#) and [create parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 ## Probe template execution parameters
 
 You use execution parameters to create the input process script in the **Pre Processing** form.
 
-For descriptions of the command fields, see [Configure the Probe execution command](t_CreateAProbeActivity.md#).
+For descriptions of the command fields, see [Configure the Probe execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAProbeActivity.md#).
 
 **Note:** You must use the `executionParam.` prefix with all variables in this table.
 
@@ -186,7 +186,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](../../../product/mid-server/reference/r_MIDServerCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerCapabilities.md). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 
@@ -211,7 +211,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: activity\_creator, admin
 
-**Note:** You can test the activity connection between the MID Server and the target without having to run the acvitity in a workflow context. For details, see [test template outputs](CreateInputVariables.md#).
+**Note:** You can test the activity connection between the MID Server and the target without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#).
 
 ### Procedure
 
@@ -219,13 +219,13 @@ Role required: activity\_creator, admin
 
     The system formats the variable in the proper syntax for the command.
 
-    ![Probe execution command](../image/ProbeExecutionCommand.png "Probe execution command")
+    ![Probe execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ProbeExecutionCommand.png "Probe execution command")
 
 2.  Complete the fields shown in the table.
 
     |Field|Description|
     |-----|-----------|
-    |Input|Input variable builder. [Create input variables](CreateInputVariables.md#) to map to available fields.|
+    |Input|Input variable builder. [Create input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to map to available fields.|
     |Probe|Probe to run with this activity, from the list of probes in the system.|
     |Target host|Host name or IP address of the target server for this activity.|
     |Required MID Server capabilities|MID Server to use, by capabilities.|

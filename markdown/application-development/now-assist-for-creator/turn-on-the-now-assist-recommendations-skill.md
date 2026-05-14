@@ -17,7 +17,7 @@ Turn on the flow recommendations skill to get recommendations for the next step 
 
 ## Before you begin
 
--   Install the Now Assist for Creator application. See [Install Now Assist for Creator](install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. See [Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/install-now-assist-for-creator.md).
 -   Role required: admin
 
 ## About this task
@@ -30,13 +30,13 @@ Turn on the flow recommendations skill to get recommendations for the next step 
 
 2.  In the workflow list, select **Creator**.
 
-    ![List of cards displayed when selecting Now Assist skills for Creator](../../now-assist-skills/image/na-creator-skill-cards.png)
+    ![List of cards displayed when selecting Now Assist skills for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-skills/image/na-creator-skill-cards.png)
 
 3.  In the Flow recommendations card, select **Turn on**.
 
 4.  In the Flow recommendations card, verify that the skill is active.
 
-    ![Flow recommendations skill listed as active skill](../../now-assist-skills/image/na-creator-flow-skills-active.png)
+    ![Flow recommendations skill listed as active skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-skills/image/na-creator-flow-skills-active.png)
 
 
 ## What to do next
@@ -45,5 +45,5 @@ For Flow generation v 28.2 and later releases, grant a flow creation role to eac
 
 For earlier versions of the Flow generation application, grant the now.assist.creator role and a flow creation role to each user who will use the Flow recommendations skill.
 
-**Parent Topic:**[Flow recommendations](../reference/flow-recommendations-landing.md)
+**Parent Topic:**[Flow recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-recommendations-landing.md)
 

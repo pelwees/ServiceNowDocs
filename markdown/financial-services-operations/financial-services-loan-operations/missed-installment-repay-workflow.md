@@ -17,7 +17,7 @@ Learn how bank agents, using the Missed Installment Repayment workflow, proactiv
 
 The following diagram shows how the application helps bank agents handle a missed installment payment by a borrower.
 
-![Workflow that shows how a missed repayment is handled using the Loan Operations application.](../image/missed-repayment-workflow.png "Missed Installment Repayment workflow")
+![Workflow that shows how a missed repayment is handled using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/missed-repayment-workflow.png "Missed Installment Repayment workflow")
 
 The following workflow routes the case and tasks for a Missed Repayment to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

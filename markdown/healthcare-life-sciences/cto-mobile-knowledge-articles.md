@@ -13,7 +13,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 Browse and view relevant knowledge articles directly within Care Team Mobile.
 
-![Knowledge articles in Care Team Mobile.](../image/hcls-cto-mobile-knowledge-articles.png)
+![Knowledge articles in Care Team Mobile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-cto-mobile-knowledge-articles.png)
 
 Select **Articles** to view knowledge articles organized by categories.
 

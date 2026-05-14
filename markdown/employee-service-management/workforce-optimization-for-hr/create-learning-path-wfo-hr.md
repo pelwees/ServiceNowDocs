@@ -80,5 +80,5 @@ Role required: sn\_hr\_wfo.admin​
     The learning path is published based on the Publish flow.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/learning-wfo-hr.md)
 

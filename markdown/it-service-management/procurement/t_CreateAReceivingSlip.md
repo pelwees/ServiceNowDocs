@@ -44,14 +44,14 @@ After a receiving slip has been created for a purchase order, all fields on the 
 
 Add a receiving slip line to the receiving slip to identify the items from the purchase order that were received.
 
-**Parent Topic:**[Receive assets](../concept/c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAssets.md)
 
 **Related topics**  
 
 
-[Receive an asset](t_ReceiveAnAsset.md)
+[Receive an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ReceiveAnAsset.md)
 
-[Create a receiving slip line](t_CreateAReceivingSlipLine.md)
+[Create a receiving slip line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAReceivingSlipLine.md)
 
-[Consumable assets](../concept/c_ReceiveAConsumableAsset.md)
+[Consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAConsumableAsset.md)
 

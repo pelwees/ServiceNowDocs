@@ -38,15 +38,15 @@ This approach confirms that every request is handled smoothly, with clear commun
 |12|Agent|Updates case line and overall case status as tasks are completed and customer feedback is received.|System transitions case through Resolved and Closed states as appropriate.|
 |13|Agent|Communicates final resolution to customer and formally closes the case.|System archives the case and all related records.|
 
-![This infographic displays the RMA case user journey for reporting a product issue.](../image/RMA-user-journey.png "RMA case user journey")
+![This infographic displays the RMA case user journey for reporting a product issue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/RMA-user-journey.png "RMA case user journey")
 
 ## Related links
 
--   [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
--   [Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md)
+-   [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
+-   [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/return-merchandise-authorization-case-management-reference.md)
 
 **Related topics**  
 
 
-[Return Merchandise Authorization case end-to-end workflow](rma-case-end-to-end-flow.md)
+[Return Merchandise Authorization case end-to-end workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rma-case-end-to-end-flow.md)
 

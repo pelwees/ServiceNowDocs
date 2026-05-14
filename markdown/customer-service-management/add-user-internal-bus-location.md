@@ -66,7 +66,7 @@ Member Type
 
 </td><td>
 
-Field used to assign responsibility for the member selected at the business location.To learn more about responsibilities, see [Assign responsibilities](csm-assign-responsibilities.md).
+Field used to assign responsibility for the member selected at the business location.To learn more about responsibilities, see [Assign responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-assign-responsibilities.md).
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.

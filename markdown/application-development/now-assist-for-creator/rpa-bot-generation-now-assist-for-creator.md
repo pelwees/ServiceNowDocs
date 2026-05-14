@@ -17,5 +17,5 @@ Learn about the RPA bot generation skill available with Now Assist for Creator.
 
 With RPA bot generation, you can create automations, activities, and add automation logic from text instructions and preview options. To learn more about RPA bot generation, see [Robotic Process Automation \(RPA\) bot generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-bot-generation.md).
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/using-gen-ai-now-assist-for-creator.md)
 

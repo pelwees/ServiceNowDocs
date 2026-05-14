@@ -27,9 +27,9 @@ Role required: sn\_doc.admin
 
 2.  Select the PDF document template you want to use.
 
-3.  [Configure a PDF document template](configure-editable-pdf.md).
+3.  [Configure a PDF document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-editable-pdf.md).
 
-4.  [Create participants for a PDF document template](create-participant.md).
+4.  [Create participants for a PDF document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-participant.md).
 
 5.  Click **Mark Signatures**.
 
@@ -39,7 +39,7 @@ Role required: sn\_doc.admin
     2.  In the **Name** field, specify a name for the signature mapping record.
     3.  In the **Mapping** list, select a user from the mapped participants.
     4.  Click **Save**.
-    ![How to mark signature blocks.](../image/mark-signature-blocks-dt.png)
+    ![How to mark signature blocks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/mark-signature-blocks-dt.png)
 
 7.  Click **Submit**.
 

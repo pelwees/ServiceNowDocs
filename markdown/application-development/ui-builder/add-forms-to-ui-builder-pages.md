@@ -27,12 +27,12 @@ For existing pages with forms created in a pre-Xanadu ServiceNow release, you mu
 1.  Open the page containing an existing form.
 2.  In the data drawer, expand the **Data resources** list and select the original form controller.
 
-    ![Data drawer with Data resources list expanded and black arrow pointing to form controller.](../image/form-controller.png)
+    ![Data drawer with Data resources list expanded and black arrow pointing to form controller.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-controller.png)
 
 3.  Select the **Preset** field.
 4.  Select **Form controller preset**.
 
-    ![Edit form controller pop-up with black arrow pointing to preset field and second black arrow pointing to form controller preset option.](../image/form-controller-preset.png)
+    ![Edit form controller pop-up with black arrow pointing to preset field and second black arrow pointing to form controller preset option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-controller-preset.png)
 
 5.  Select **Apply**.
 6.  Select the **X** to close the **Edit Form Controller** pop-up.
@@ -42,15 +42,15 @@ For existing pages with forms created in a pre-Xanadu ServiceNow release, you mu
 7.  Open the page containing one or more forms.
 8.  In the content tree, select a form.
 
-    ![Content tree with black arrow pointing to a form component.](../image/form-controller-app-shell1.png)
+    ![Content tree with black arrow pointing to a form component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-controller-app-shell1.png)
 
 9.  In the configuration panel, on the **Configure** tab, select **Form Controller**.
 
-    ![Form configuration panel with configure tab displayed and black arrow pointing to form controller link.](../image/form-controller-app-shell2.png)
+    ![Form configuration panel with configure tab displayed and black arrow pointing to form controller link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-controller-app-shell2.png)
 
 10. On the **Edit Form Controller** pop-up, scroll down in the **Form Controller** list to find the **Is mapped to App Shell** option.
 
-    ![Edit form controller pop-up window with black arrow pointing to is mapped to app shell option.](../image/form-controller-app-shell3.png)
+    ![Edit form controller pop-up window with black arrow pointing to is mapped to app shell option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/form-controller-app-shell3.png)
 
 11. Select or clear the option for each form component on the page to confirm that exactly one form controller is mapped to the app shell.
 
@@ -75,5 +75,5 @@ If isMapped to app shell is set to true, the form handles these events automatic
 
 For detailed information about the Form component and its properties, see [Form Overview](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/form%20record%20page/overview) on the ServiceNow Developer Site.
 
-**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md)
 

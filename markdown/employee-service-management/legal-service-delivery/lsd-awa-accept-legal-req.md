@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the Inbox icon \(![Inbox icon](../image/lsd-awa-inbox.png)\).
+2.  Select the Inbox icon \(![Inbox icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/lsd-awa-inbox.png)\).
 
 3.  Select **Available** from **Status** to indicate that you are available.
 
@@ -55,5 +55,5 @@ Select **Reject**.**Note:** The legal request will be assigned to next agent ava
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Advanced Work Assignment for Legal Service Delivery](lsd-awa-use-landing.md)
+**Parent Topic:**[Use Advanced Work Assignment for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-use-landing.md)
 

@@ -21,7 +21,7 @@ Role required: import\_admin
 
 ## About this task
 
-For additional information, see [LDAP type data source](../reference/r_LDAPTypeDataSource.md).
+For additional information, see [LDAP type data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../reference/r_LDAPTypeDataSource.md).
 
 ## Procedure
 
@@ -109,5 +109,5 @@ Specifies how big the batches should be. Appears only when the **Use Batch Impor
 
 Define a transform map for the new data source and run an import.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_CreateNewDataSource.md)
 

@@ -50,7 +50,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Contract requests** &gt; **All**
 4.  Select a contract request.
 
@@ -75,7 +75,7 @@ Steps
 
     **Note:** You can select only one contract request when linking it as a parent contract.
 
-    ![Link contract window with for linking parent contracts.](../image/cmpro-link-contract.png "Link contract window")
+    ![Link contract window with for linking parent contracts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-link-contract.png "Link contract window")
 
 5.  Select **Link contract**.
 
@@ -85,8 +85,8 @@ Steps
 
     The **Parent contract request** field is updated with the parent contract request number. The linked parent contract details appear in the activity stream.
 
-    ![Parent-child hierarchy in the Related contract requests tab](../image/cmpro-parent-child-link.png "Parent-child hierarchy")
+    ![Parent-child hierarchy in the Related contract requests tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-parent-child-link.png "Parent-child hierarchy")
 
 
-**Parent Topic:**[Linking parent-child contracts](../concept/cmpro-linking-parent-child.md)
+**Parent Topic:**[Linking parent-child contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-linking-parent-child.md)
 

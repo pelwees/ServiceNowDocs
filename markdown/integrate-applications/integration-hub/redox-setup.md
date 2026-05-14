@@ -34,11 +34,11 @@ This task gives the procedure to set up both the inbound and outbound transactio
 
 ## Procedure
 
-1.  [Create a Redox Electronic Health Record Spoke connection and credential record](redox-setup.md#).
+1.  [Create a Redox Electronic Health Record Spoke connection and credential record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/redox-setup.md#).
 
     This procedure enables the outbound transactions.
 
-2.  [Configure the external Redox healthcare system as a source system for the Redox Electronic Health Record Spoke](redox-setup.md#).
+2.  [Configure the external Redox healthcare system as a source system for the Redox Electronic Health Record Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/redox-setup.md#).
 
     This procedure enables the inbound transactions.
 
@@ -65,11 +65,11 @@ Role required: admin
 
 3.  On the Flow Designer page, select Connections.
 
-4.  In the Search all connections field, enter `Redox`.![Enter Redox spoke name in search field.](../image/redox-spoke-search-redox.png)
+4.  In the Search all connections field, enter `Redox`.![Enter Redox spoke name in search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/redox-spoke-search-redox.png)
 
 5.  On the Redox Electronic Health Record Spoke card, click **View Details**.
 
-6.  Click **Configure**.![Redox connection and credential configure button.](../image/redox-configure-button.png)
+6.  Click **Configure**.![Redox connection and credential configure button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/redox-configure-button.png)
 
 7.  In the Configure Connection form, fill details.
 
@@ -126,9 +126,9 @@ The source secret to access the Redox engine dashboard. You must generate the se
 
     The connection and credential record is created.
 
-9.  Click **View connection alias**.![View connection alias button on Redox spoke record.](../image/redox-spoke-click-connection-alias.png)
+9.  Click **View connection alias**.![View connection alias button on Redox spoke record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/redox-spoke-click-connection-alias.png)
 
-10. In the **Credential** column, select **Redox Credential**.![Credential column value in the Connections tab.](../image/redox-spoke-click-creds.png)
+10. In the **Credential** column, select **Redox Credential**.![Credential column value in the Connections tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/redox-spoke-click-creds.png)
 
 11. On the Redox credential page, click **Get Token** to generate a token for raising authenticated requests from the spoke actions.
 

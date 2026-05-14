@@ -17,7 +17,7 @@ Create and compare financial baselines to get a snapshot of the project expenses
 
 ## Before you begin
 
-For more information regarding financial baselines and how the comparison works, see [financial baselines](../concept/using-financials-prj-wrkspc.md#section_bkp_g2l_2zb).
+For more information regarding financial baselines and how the comparison works, see [financial baselines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/using-financials-prj-wrkspc.md#section_bkp_g2l_2zb).
 
 Role required: it\_project\_manager
 
@@ -43,16 +43,16 @@ Description
 
 </td><td>
 
-1.  Select **Create baseline** button \(![Create baseline button.](../../spw-financials/images/fin-create-baseline-button.png)\).
+1.  Select **Create baseline** button \(![Create baseline button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-create-baseline-button.png)\).
 
 Create financial baseline window appears with the Name field is auto-populated with current date. You can edit this field to name your baseline.
 
-![Create financial baseline window with Name and Description fields.](../../spw-financials/images/fin-create-baseline-window.png)
+![Create financial baseline window with Name and Description fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-create-baseline-window.png)
 
 2.  In the Description field, enter a brief description to identify this baseline and select **Save**.
  A baseline is created capturing the planned costs and expense is captured.
 
- **Note:** You can [activate a scheduled job](../../spw-financials/task/baseline-scheduler-job.md) to automatically create financial baselines.
+ **Note:** You can [activate a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/task/baseline-scheduler-job.md) to automatically create financial baselines.
 
 </td></tr><tr><td id="d215933e155">
 
@@ -60,17 +60,17 @@ Create financial baseline window appears with the Name field is auto-populated w
 
 </td><td>
 
-1.  Select the **Baselines** \(![Baselines tab.](../../spw-financials/images/fin-baselines-tab.png)\) tab to view the list of existing baselines.
-2.  Select any two baselines and select the **Compare baselines** \(![Compare baselines button.](../../spw-financials/images/fin-compare-baselines-button.png)\) button.
- Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view](../../spw-financials/concept/using-financials-spw.md#section_bkp_g2l_2zb).
+1.  Select the **Baselines** \(![Baselines tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-baselines-tab.png)\) tab to view the list of existing baselines.
+2.  Select any two baselines and select the **Compare baselines** \(![Compare baselines button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-compare-baselines-button.png)\) button.
+ Comparison view of the selected baselines is displayed. For more details, see [Using baseline comparison view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/concept/using-financials-spw.md#section_bkp_g2l_2zb).
 
 </td></tr></tbody>
 </table>    **Tip:** You can migrate existing financials baselines of your projects or demands from Classic UI to Financials in Next Experience.
 
-    For more information on how to migrate financial baselines of demands, see [Migrate financial baselines of demands to Next Experience](../../planning-and-policy/task/migrate-fin-baselines-demands.md).
+    For more information on how to migrate financial baselines of demands, see [Migrate financial baselines of demands to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../planning-and-policy/task/migrate-fin-baselines-demands.md).
 
-    For more information on how to migrate financial baselines of projects, see [Migrate financial baselines of projects to Next Experience](../../project-management/task/migrate-fin-baselines-projects.md).
+    For more information on how to migrate financial baselines of projects, see [Migrate financial baselines of projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/task/migrate-fin-baselines-projects.md).
 
 
-**Parent Topic:**[Managing financials for your projects](../concept/using-financials-prj-wrkspc.md)
+**Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/using-financials-prj-wrkspc.md)
 

@@ -28,14 +28,14 @@ Tests in Test Management are organized in the following hierarchy:
 3.  Test suites: Collections of related test cases.
 4.  Test plans: Structured plans that contain test suites and define how a product must be tested.
 
-For more information, see [Create a test case](../task/t_CreateANewTestCase.md).
+For more information, see [Create a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_CreateANewTestCase.md).
 
--   **[Create a test case](../task/t_CreateANewTestCase.md)**  
+-   **[Create a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_CreateANewTestCase.md)**  
 Create a test case to group one or more related individual tests.
--   **[Add a test to a test case](../task/t_AddATestToATestCase.md)**  
+-   **[Add a test to a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_AddATestToATestCase.md)**  
 Create and add a new test to an existing test case.
--   **[Delete a test case](../task/t_DeleteATestCase.md)**  
+-   **[Delete a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../task/t_DeleteATestCase.md)**  
 Delete a test case and all the tests associated to it.
 
-**Parent Topic:**[Setting up the manual testing process](c_TestManager.md)
+**Parent Topic:**[Setting up the manual testing process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestManager.md)
 

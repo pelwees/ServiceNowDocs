@@ -27,7 +27,7 @@ Role required: sn\_dlir.admin
 
 3.  Search for the  DLP Incident Response Integration with Symantec tile and click  **Configure**.
 
-    ![Click Configure button for Symantec.](../../data-loss-prevention/image/dlp-symantec.png)
+    ![Click Configure button for Symantec.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-symantec.png)
 
 4.  On the form, fill in the fields.
 
@@ -88,7 +88,7 @@ MID Server Application
 The MID Application name that is used to communicate with Symantec.This field is needed when you select the **On-Premises Deployment** option.
 
 </td></tr></tbody>
-</table>    ![Configure the DLP Incident Response integration with Symantec.](../../data-loss-prevention/image/dlp-symantec-config.png)
+</table>    ![Configure the DLP Incident Response integration with Symantec.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-symantec-config.png)
 
 5.  Click **Submit**.
 
@@ -99,5 +99,5 @@ The MID Application name that is used to communicate with Symantec.This field is
 
 After you successfully validate and submit the configuration, the Symantec DLP Integration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](../concept/symantec-dlp-integration.md)
+**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/symantec-dlp-integration.md)
 

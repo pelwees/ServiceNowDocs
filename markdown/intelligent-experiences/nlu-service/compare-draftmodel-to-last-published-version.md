@@ -58,7 +58,7 @@ In this example procedure, you've cloned the model from a pre-built read-only HR
 
     The panel displays predictions results for both the published model and the trained model. Compare the results of the two versions of the model, before and after your changes. In this example, the confidence score increased by a small margin. By making significant changes to the model content, the confidence score or even the intent predictions may change.
 
-    ![Intent page with the comparing prediction results feature in the test panel.](../images/compare-draft-published01.png)
+    ![Intent page with the comparing prediction results feature in the test panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/compare-draft-published01.png)
 
 
 ## What to do next

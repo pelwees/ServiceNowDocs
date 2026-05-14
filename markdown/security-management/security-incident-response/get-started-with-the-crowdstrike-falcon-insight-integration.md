@@ -60,7 +60,7 @@ The ServiceNow Integration Hub Enterprise Pack Installer \[com.glide.hub.integra
 
 </td></tr><tr><td>
 
-[Set up an approval group.](../task/create-approval-group.md)
+[Set up an approval group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-approval-group.md)
 
 </td><td>
 
@@ -90,7 +90,7 @@ This integration uses CrowdStrike's custom scripts for few of the enrichment cap
 
 </td></tr><tr><td>
 
-[Generate API clients and keys in the CrowdStrike Falcon Platform.](../task/create-api-clients-and-keys.md)
+[Generate API clients and keys in the CrowdStrike Falcon Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-api-clients-and-keys.md)
 
 </td><td>
 

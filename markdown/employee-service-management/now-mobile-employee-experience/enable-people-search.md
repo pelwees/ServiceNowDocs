@@ -34,5 +34,5 @@ Role required: admin
 
 Your users can no longer see search results for other users in the system.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../concept/setup-mobile-employee.md)
 

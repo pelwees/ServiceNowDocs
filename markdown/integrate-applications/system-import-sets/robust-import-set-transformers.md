@@ -33,7 +33,7 @@ When you use the robust import set transformer, Extract Transform Load \(ETL\) f
 -   Define entity field mappings.
 -   Define entity operations.
 
-For an overview of ETL definitions, see [Extract Transform Load \(ETL\) definition overview](etl-definition-overview.md). For a step-by-step guide on how to create ETL definitions, see [Create Extract Transform Load \(ETL\) definitions](../task/create-etl-definitions.md).
+For an overview of ETL definitions, see [Extract Transform Load \(ETL\) definition overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/etl-definition-overview.md). For a step-by-step guide on how to create ETL definitions, see [Create Extract Transform Load \(ETL\) definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../task/create-etl-definitions.md).
 
 As of the Paris release, ETL definitions also support nested data structures such as the following when the **Data source** has JSON/XML payloads in a single column.
 
@@ -82,9 +82,9 @@ As of the Paris release, ETL definitions also support nested data structures suc
 **Related topics**  
 
 
-[Create a robust import set transformer](../task/create-robust-import-set-transformer.md)
+[Create a robust import set transformer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../task/create-robust-import-set-transformer.md)
 
-[Create robust transform definitions](../task/create-robust-transform-definitions.md)
+[Create robust transform definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../task/create-robust-transform-definitions.md)
 
-[Create Extract Transform Load \(ETL\) definitions](../task/create-etl-definitions.md)
+[Create Extract Transform Load \(ETL\) definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../task/create-etl-definitions.md)
 

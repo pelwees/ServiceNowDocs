@@ -22,5 +22,5 @@ Collaboration services for Zoom offers the following capabilities:
 -   Enables agents to import the Zoom Team Chat transcript back to the task record as a comment.
 -   Enables employees with specific permissions to view Zoom Team Chat from a task record.
 
-**Parent Topic:**[Exploring Collaboration services for Zoom](explore-sn-zoom.md)
+**Parent Topic:**[Exploring Collaboration services for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-sn-zoom.md)
 

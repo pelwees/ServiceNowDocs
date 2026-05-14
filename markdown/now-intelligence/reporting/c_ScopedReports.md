@@ -28,7 +28,7 @@ The following actions are available from the **Save** menu after opening a repor
 
 You can create a new report based on an existing report, but within the current application scope using the **Insert** or **Insert and Stay** options.
 
-**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
 **Related topics**  
 

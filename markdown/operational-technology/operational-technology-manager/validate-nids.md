@@ -58,7 +58,7 @@ The **Life Cycle Stage** and **Life Cycle Stage Status** fields are used to capt
 
 ## What to do next
 
-Alternatively, you can validate more than one NIDS sensor through a bulk validation. For more information, see [Validate multiple NIDS sensors at once](bulk-validation-nids.md).
+Alternatively, you can validate more than one NIDS sensor through a bulk validation. For more information, see [Validate multiple NIDS sensors at once](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/bulk-validation-nids.md).
 
-**Parent Topic:**[Managing Network Intrusion Detection System appliances](managing_network_intrusion_detection_system_nids_appliances.md)
+**Parent Topic:**[Managing Network Intrusion Detection System appliances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/managing_network_intrusion_detection_system_nids_appliances.md)
 

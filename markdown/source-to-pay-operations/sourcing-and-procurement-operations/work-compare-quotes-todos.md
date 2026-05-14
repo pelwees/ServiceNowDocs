@@ -45,7 +45,7 @@ Description
 
 </td><td>
 
-Select the quote that works best for you and proceed to checkout. The quick checkout pane is displayed, with the details for your purchase already filled in. For more information on how to proceed, see [Order a product](order-a-product.md).
+Select the quote that works best for you and proceed to checkout. The quick checkout pane is displayed, with the details for your purchase already filled in. For more information on how to proceed, see [Order a product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md).
 
 </td></tr><tr><td id="d117293e128">
 
@@ -59,5 +59,5 @@ Reject all the quotes if none of them serve your purpose.**Note:** When rejectin
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/shopper-todos.md)
 

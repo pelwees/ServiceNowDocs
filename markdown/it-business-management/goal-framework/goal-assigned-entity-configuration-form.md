@@ -21,5 +21,5 @@ Use the Goal Assigned Entity Configuration form to configure a table for an assi
 |Application|Name of the application scope.|
 |Assigned entity field|Reference field on the goal form.|
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 

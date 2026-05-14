@@ -80,5 +80,5 @@ A treasury manager of a financial institution:-   Reviews reports, dashboards, a
 -   Analyzes business processes using Process Mining projects
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Treasury Operations](fso-treasury-ops-landing-page.md)
+</table>**Parent Topic:**[Financial Services Treasury Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/fso-treasury-ops-landing-page.md)
 

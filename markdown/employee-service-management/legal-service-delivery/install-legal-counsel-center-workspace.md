@@ -51,5 +51,5 @@ The following items are installed:
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure Legal Counsel Center Workspace](configure-legal-counsel-center-workspace.md)
+**Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-counsel-center-workspace.md)
 

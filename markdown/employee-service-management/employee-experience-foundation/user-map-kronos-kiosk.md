@@ -34,5 +34,5 @@ Map the **Person Number** from the UKG system to the **Employee number** in the 
 
 You have mapped the employee data flow from the UKG system to the Employee Center Pro Kiosk.
 
-**Parent Topic:**[Integrate with the UKG spoke](integrate-kiosk-kronos.md)
+**Parent Topic:**[Integrate with the UKG spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-kiosk-kronos.md)
 

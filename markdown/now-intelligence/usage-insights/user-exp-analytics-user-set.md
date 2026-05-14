@@ -41,8 +41,8 @@ Action
 
 </td><td>
 
-1.  Tap More \(![More icon.](../image/more-icon.png)\) in the navigation bar.
-2.  Tap Settings \(![Setting icon.](../image/settings.png)\).
+1.  Tap More \(![More icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/more-icon.png)\) in the navigation bar.
+2.  Tap Settings \(![Setting icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/settings.png)\).
 3.  On the Settings page, tap the **Analytics** option.
 4.  Either enable the **Enable Analytics** button to opt in to advanced tracking, or turn off the **Enable Analytics** button to opt out of advanced tracking.
 
@@ -73,14 +73,14 @@ Action
 </table>
 ## What to do next
 
-Read more about tracking options presented to you in the UI in [Tracking controls and data collection behavior](uxa-tracking-controls-and-data-collection-behavior.md).
+Read more about tracking options presented to you in the UI in [Tracking controls and data collection behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-controls-and-data-collection-behavior.md).
 
--   **[View users’ consent tracking selections](uxa-view-user-decision.md)**  
+-   **[View users’ consent tracking selections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-view-user-decision.md)**  
 View and analyze details regarding users and their tracking selection preferences.
--   **[Define texts for Notice and Explicit Opt-in messages](uxa-define-text-policies.md)**  
+-   **[Define texts for Notice and Explicit Opt-in messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-define-text-policies.md)**  
 Administrators can edit the text that is displayed in the modal window when a user’s location is assigned to a **Notice** or **Explicit Opt-In** consent policy.
--   **[Configure link to your privacy policy](uxa-config-link-privacy-policy.md)**  
+-   **[Configure link to your privacy policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-config-link-privacy-policy.md)**  
 When Usage Insights is enabled, the ServiceNow Services Privacy Statement is linked by default. However, administrators can update the link to point to the organization privacy policy.
 
-**Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](../concept/user-exp-analytics-track-options.md)
+**Parent Topic:**[User privacy, tracking, and user consent management in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/user-exp-analytics-track-options.md)
 

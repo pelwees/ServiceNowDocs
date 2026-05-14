@@ -21,7 +21,7 @@ You can change automatic test framework settings so that the system captures all
 
 You can change these settings to affect all tests run on this instance, or to affect just the current client test runner session. To affect all tests run on this instance, set the automatic test framework property from the automatic test framework properties page. To affect just the current client test runner session, set the screenshot mode from client test runner browser window.
 
-**Parent Topic:**[Optimizing automatic test performance](atf-optimize-perf.md)
+**Parent Topic:**[Optimizing automatic test performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-optimize-perf.md)
 
 ## Set the system property to control when the Automated Test Framework captures screenshots
 
@@ -65,7 +65,7 @@ Setting the screenshot mode from the client test-runner browser window affects o
 
 ### Procedure
 
-1.  From the client test-runner browser window, click the form preferences icon \(![Form preferences icon](../../../common/image/Form_PersonalizeFormIcon.png)\).
+1.  From the client test-runner browser window, click the form preferences icon \(![Form preferences icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../../../common/image/Form_PersonalizeFormIcon.png)\).
 
 2.  Click the **Screenshot mode** option.
 

@@ -19,7 +19,7 @@ As a product catalog manager, you set up product offerings in a technical produc
 
 The relationship between product offerings and the product, service, and resource specification determine how a product is fulfilled. For example, the following diagram shows the relationships between the product offerings, the product specification, the service specification, and the resource specification for an SD-WAN product model.
 
-![Infographic displaying the relationship between a product offering, product specification, service specification, and resource specification. For the text description, refer to the definitions that follow.](../image/SDWAN_product_model.png "SD-WAN product model")
+![Infographic displaying the relationship between a product offering, product specification, service specification, and resource specification. For the text description, refer to the definitions that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/SDWAN_product_model.png "SD-WAN product model")
 
 Each product offering has the following components:
 
@@ -47,16 +47,16 @@ Each product offering has the following components:
 
 The following example shows a managed firewall service structure that incorporates service and resource specifications.
 
-![Infographic displaying the product domain that consists of the customer and resource facing service specifications, and the resource specification. For more information, refer to the text that follows.](../image/service-structure-managed-firewall-service.png "Managed firewall service structure")
+![Infographic displaying the product domain that consists of the customer and resource facing service specifications, and the resource specification. For more information, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/service-structure-managed-firewall-service.png "Managed firewall service structure")
 
--   **[../task/order-mgt-characteristics.md](../task/order-mgt-characteristics.md)**  
+-   **[../task/order-mgt-characteristics.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/order-mgt-characteristics.md)**  
 
--   **[Create specification characteristics](../task/create-specification-characteristic.md)**  
+-   **[Create specification characteristics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-specification-characteristic.md)**  
 Define characteristics for a product, service, or resource specification.
--   **[../task/order-mgt-specification-rels.md](../task/order-mgt-specification-rels.md)**  
+-   **[../task/order-mgt-specification-rels.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/order-mgt-specification-rels.md)**  
 
--   **[Updating specification versions](som-specification-version-update.md)**  
+-   **[Updating specification versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-specification-version-update.md)**  
 Enterprises frequently create and update new versions of product and service specifications. When these changes occur, it's important to update the existing product specification in ServiceNow®. Failure to update the product specifications can lead to difficulties with MACD \(Modify, Add, Change, Delete\) operation when orders enter fulfillment.
 
-**Parent Topic:**[Configuring product offerings and catalogs](som-managing-product-catalogs.md)
+**Parent Topic:**[Configuring product offerings and catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)
 

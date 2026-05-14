@@ -30,5 +30,5 @@ A multi-tenant architecture is where you have a single instance serving multiple
     -   Domain tenants have lower upfront costs to use the ServiceNow platform, have lower monthly costs because they are sharing it with many tenants, and do not have to employ a staff to administer the environment.
     -   Benefits shared from requests or changes that are initiated by other tenants.
 
-**Parent Topic:**[Segregating and securing data with domain separation](bp-segregate-secure.md)
+**Parent Topic:**[Segregating and securing data with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-segregate-secure.md)
 

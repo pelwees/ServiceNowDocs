@@ -41,16 +41,16 @@ Role required: author or agent
 
 3.  In the Use Al to draft this article? modal, select **Yes, draft with Now Assist**.
 
-    ![Enable Now Assist in the workspace for KB article generation.](../image/now-assist-kb-dialog-box.png)
+    ![Enable Now Assist in the workspace for KB article generation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/now-assist-kb-dialog-box.png)
 
 4.  Select up to five additional relevant cases in the new modal, powered by generative AI, to generate the article and select **Continue with selected tasks**.
 
-    ![Select up to five additional relevant cases in the new modal to generate the article.](../../customer-service-management/image/now-assist-kb--multiple-similar-cases.png)
+    ![Select up to five additional relevant cases in the new modal to generate the article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../customer-service-management/image/now-assist-kb--multiple-similar-cases.png)
 
     The article appears in a new tab with a unique ID number for the article.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../concept/using-now-assist-in-km.md)
 
 ## Generate article in classic environment for authors
 
@@ -70,7 +70,7 @@ Role required: author
 
 4.  In the Search for tasks to draft this article modal, select the up to five task types and enter the keywords or task number to find similar cases.
 
-    ![Use selected tasks to generate article.](../image/NA-KB-coreui-author.png)
+    ![Use selected tasks to generate article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-KB-coreui-author.png)
 
 5.  Select **Use selected tasks to help draft new article** to generate the article.
 

@@ -21,7 +21,7 @@ To access the dashboard, navigate to **All** &gt; **Proactive Prompts** &gt; **A
 
 Dashboard Viewer \(sn\_pp.dashboard\_viewer\) can view the dashboard with various prompt metrics for the selected time period.
 
-![Proactive prompts analytics dashboard](../image/proactive-prompts-dasboard.png)
+![Proactive prompts analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../image/proactive-prompts-dasboard.png)
 
 ## Reports and indicators
 

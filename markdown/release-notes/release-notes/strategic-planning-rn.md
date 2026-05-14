@@ -157,7 +157,7 @@ See [Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 
 ## Changed in this release
 
-[Australia Patch 2](../quality/australia-patch-1.md)
+[Australia Patch 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   **[Demand summarization skill enhancements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)**
 
@@ -183,5 +183,5 @@ Install Strategic Planning by requesting it from the ServiceNow Store. Visit the
     ServiceNow Digital Product Release Workspace helps product managers track the planning items associated with the product enhancements that are defined in the Strategic Planning Workspace using the Digital Product lens.
 
 
-**Parent Topic:**[Strategic Portfolio Management release notes](it-business-management-rn-landing.md)
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-business-management-rn-landing.md)
 

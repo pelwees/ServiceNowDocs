@@ -23,7 +23,7 @@ Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the tasks icon \(![Tasks icon](../image/new-task-icon.png)\).
+2.  Select the tasks icon \(![Tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/new-task-icon.png)\).
 
     The list displays the engagements that are assigned to you.
 
@@ -39,9 +39,9 @@ Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
     File names and folder structures are validated while file upload. Therefore, exercise caution in naming your files. Invalid characters, if present in the file name, cause failure in file upload action.
 
-    ![Error message in uploading a file with invalid character in file name.](../image/cloud-folder-path-validation.png)
+    ![Error message in uploading a file with invalid character in file name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/cloud-folder-path-validation.png)
 
-7.  To remove the invalid character in the file name, select the ![More actions icon](../../../reuse/icons/product-icons/ellipsis-vertical-outline-24.svg) icon and rename the file correctly.
+7.  To remove the invalid character in the file name, select the ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../../reuse/icons/product-icons/ellipsis-vertical-outline-24.svg) icon and rename the file correctly.
 
 8.  Select the file's URL link attached to the record in the **Cloud files** tab to navigate to the cloud file in Microsoft.
 

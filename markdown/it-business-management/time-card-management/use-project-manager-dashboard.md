@@ -32,5 +32,5 @@ Role required: it\_project\_manager, timecard\_admin
 3.  Review the displayed reports and take necessary actions, if required.
 
 
-**Parent Topic:**[Analytics Project manager](../concept/project-manager-dashboard.md)
+**Parent Topic:**[Analytics Project manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/project-manager-dashboard.md)
 

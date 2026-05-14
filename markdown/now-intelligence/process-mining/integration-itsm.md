@@ -15,14 +15,14 @@ breadcrumb: [Integration, Activate, Process Mining, Platform Analytics]
 
 Integrating with ITSM Benchmarks enables you to analyze processes relevant to your KPIs, and create and view associated incidents.
 
-**Parent Topic:**[Integrating Process Mining](integrating-process-mining.md)
+**Parent Topic:**[Integrating Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrating-process-mining.md)
 
 **Related topics**  
 
 
-[Example of Benchmarks using Process Mining](integration-itsm.md#)
+[Example of Benchmarks using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-itsm.md#)
 
-[Content pack for ITSM](itsm-proc-opti-content-pack.md)
+[Content pack for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-proc-opti-content-pack.md)
 
 ## Launch Process Mining from the Benchmarks dashboard
 
@@ -38,7 +38,7 @@ Activate the Process Mining plugin \(com.sn\_po\).
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Dashboard**.
 
-2.  Select the **Go to Process Mining** icon \(![Go to Process Mining icon](../../../product/continual-improvement-management/image/process-optimization.png)\).
+2.  Select the **Go to Process Mining** icon \(![Go to Process Mining icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../product/continual-improvement-management/image/process-optimization.png)\).
 
     **Note:** If the process model required in your KPI is not available, the dashboard creates it automatically.
 
@@ -53,5 +53,5 @@ An IT analyst looks at their monthly Benchmarks report. They notice that the ‘
 
 The analyst selects the **Go to Process Mining** icon from a Benchmarks KPI. The action navigates them to the Process Mining Analyst workbench in a new tab. They quickly discover an area needing improvement, and submit a CIM initiative. Once the CIM initiative is completed, they can see the improvement on the Benchmarks industry peer comparison chart.
 
-![Example: Benchmarks using Process Mining](../image/example-benchmarks.png)
+![Example: Benchmarks using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/example-benchmarks.png)
 

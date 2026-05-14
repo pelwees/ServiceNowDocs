@@ -31,7 +31,7 @@ Configure the individual users and the user groups who can access your instance.
 
 </td></tr><tr><td>
 
-[User roles and FSO Business rules](../reference/fso-core-roles.md)
+[User roles and FSO Business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/fso-core-roles.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Assign roles to individual users and user groups to control access to features, 
 
 </td></tr><tr><td>
 
-[Roles and Personas](fso-combine-csm-industry-roles.md)
+[Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md)
 
 </td><td>
 

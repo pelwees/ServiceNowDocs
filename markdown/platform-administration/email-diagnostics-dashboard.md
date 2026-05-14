@@ -43,13 +43,13 @@ Analytics provides comprehensive insights into the status and performance of you
 
 The operational overview gives the overview of email sending and reader operations for the displayed time and can be refreshed to fetch the latest updated status.
 
-![operational overview of email diagnostics dashboard](../image/email-operational-overview.png "Operational overview")
+![operational overview of email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-operational-overview.png "Operational overview")
 
 **Queue overview**
 
 Queue overview gives insights into all email records including the records pending for processing and their status.
 
-![Queue overview for email diagnostics dashboard](../image/email-queue-overview.png "Queue overview")
+![Queue overview for email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-queue-overview.png "Queue overview")
 
 |UI component|Description|
 |------------|-----------|
@@ -64,7 +64,7 @@ Queue overview gives insights into all email records including the records pendi
 
 A Job Overview is a consolidated view that displays the status, performance, and metrics, giving administrators and users a quick insight into their operational state. Only processed jobs insights are displayed and jobs that are currently in execution are excluded.
 
-![Job overview for email diagnostics dashboard](../image/email-job-overview.png "Job overview")
+![Job overview for email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-job-overview.png "Job overview")
 
 |UI component|Description|
 |------------|-----------|
@@ -96,34 +96,34 @@ An error log captures and provides information about issues, failures, or unexpe
 
 ## Connection status
 
-![Connection status of configured email accounts](../image/email-connection-status.png "Connect status")
+![Connection status of configured email accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-connection-status.png "Connect status")
 
 Connection status displays the real time status of all email accounts configured in an instance.
 
-**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateANotification.md)
 
-[Email notifications dashboard](email-notifications-dashboard.md)
+[Email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-notifications-dashboard.md)
 
-[Email templates](c_EmailTemplates.md)
+[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-[Email layouts](email-layouts.md)
+[Email layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-[Email retention](email-retention.md)
+[Email retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-[Watermarks on notification emails](c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/parse-email.md)
 
-[Email digests](email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[Domain separation and Notifications](domain-separation-notifications.md)
+[Domain separation and Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 

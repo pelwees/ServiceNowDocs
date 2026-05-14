@@ -19,5 +19,5 @@ IT asset management directly feeds critical information required by GRC programs
 
 For detailed information on Cybersecurity Control Accelerators and regulations such as CIS controls, ISO 27001, 27002, see [Cybersecurity Controls Accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/cybersecurity-controls-accelerator.md).
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

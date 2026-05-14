@@ -37,7 +37,7 @@ Ensure that OpenSSL is installed.
 
 6.  Enter the information.
 
-    You can choose to leave one or more fields empty.![Information fields on command prompt.](../image/oracle-hcm-spoke-x509-generate-public-key-windows.png)
+    You can choose to leave one or more fields empty.![Information fields on command prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-x509-generate-public-key-windows.png)
 
     The public key is generated in the bin folder.
 

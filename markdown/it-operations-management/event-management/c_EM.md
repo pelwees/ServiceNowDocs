@@ -23,27 +23,27 @@ This video explains how to install and configure Event Management so you can sta
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore the various types of alert grouping and the rules for correlation](c_ServiceAnalyticsOverview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-explore.svg) Explore the various types of alert grouping and the rules for correlation](c_ServiceAnalyticsOverview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Setup Event Management](c_EMConfiguration.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Setup Event Management](c_EMConfiguration.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-community.svg) View alert information and monitor service health](user-guide.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-community.svg) View alert information and monitor service health](user-guide.md)
 
 </td></tr><tr><td>
 
-[Integrations ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Learn how you can integrate Event Management with other monitoring systems](c_EMEvent.md)
+[Integrations ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Learn how you can integrate Event Management with other monitoring systems](c_EMEvent.md)
 
 </td><td>
 
-[Event processing![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Understand the analysis and management of events](processing-events.md)
+[Event processing![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Understand the analysis and management of events](processing-events.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-manage.svg) Get details about domain separation in Event Management](domain-separation-event-management.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../reuse/icons/brand-icons/bus-manage.svg) Get details about domain separation in Event Management](domain-separation-event-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

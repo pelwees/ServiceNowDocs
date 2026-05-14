@@ -53,5 +53,5 @@ Role required:
     5.  In Action 13, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](../concept/playbook-defense-evasion-mimikatz-dcshadow.md)
+**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-defense-evasion-mimikatz-dcshadow.md)
 

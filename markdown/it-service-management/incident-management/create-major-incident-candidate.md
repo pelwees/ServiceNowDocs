@@ -27,7 +27,7 @@ A major incident manager can accept or reject a major incident candidate.
 
 1.  Perform any of the following actions.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 <table id="choicetable_fk2_2xn_gdb"><thead><tr><th align="left" id="d329352e84">
 
@@ -43,7 +43,7 @@ Description
 
 </td><td>
 
-An incident can be marked as a major incident candidate based on the major incident trigger rules. A major incident manager or an incident manager can [Create trigger rules for major incidents](major-incident-trigger-rules.md) to identify major incident candidates automatically.**Note:** The base system major incident trigger rules are disabled by default. A major incident manager or an incident manager needs to activate the trigger rules that define conditions under which an incident is automatically considered as a major incident candidate.
+An incident can be marked as a major incident candidate based on the major incident trigger rules. A major incident manager or an incident manager can [Create trigger rules for major incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-trigger-rules.md) to identify major incident candidates automatically.**Note:** The base system major incident trigger rules are disabled by default. A major incident manager or an incident manager needs to activate the trigger rules that define conditions under which an incident is automatically considered as a major incident candidate.
 
 </td></tr><tr><td id="d329352e113">
 
@@ -70,5 +70,5 @@ Manually propose an existing incident to be a major incident candidate by clicki
     -   When you create a new major incident from a candidate, a new incident is created and becomes the major incident. The candidate is added as the child of the major incident. To get this behavior, the incident manager needs to set the major incident management property **Create major incident from candidate** \(**sn\_major\_inc\_mgmt.com.snc.incident.mim.major\_incident\_creation**\). A new incident is created from a candidate as a major incident. The candidate is associated with the new incident as a child.
     -   System automatically assigns the newly created parent major incident to a user when the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\) is activated, a shift is defined for the major incident management group, and a user is available for the on-call shift. If no on-call shift exists, the major incident manager decides the user for the **Assigned to** field.
 
-**Parent Topic:**[Working on major incident management](../concept/work-on-mim.md)
+**Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/work-on-mim.md)
 

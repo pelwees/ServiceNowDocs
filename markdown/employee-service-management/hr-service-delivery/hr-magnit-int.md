@@ -35,15 +35,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore](explore-magnit.md) ![](../../../reuse/icons/brand-icons/bus-explore.svg)Detailed information on the integration
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/explore-magnit.md) ![](../../../reuse/icons/brand-icons/bus-explore.svg)Detailed information on the integration
 
 </td><td>
 
-[Configure](../task/configure-magnit.md) ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-magnit.md) ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started
 
 </td><td>
 
-[Reference](../reference/reference-magnit.md) ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user roles, tables, default configurations
+[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/reference-magnit.md) ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user roles, tables, default configurations
 
 </td></tr></tbody>
 </table>## Additional resources

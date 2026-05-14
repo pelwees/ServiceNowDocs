@@ -15,7 +15,7 @@ Use the inbound email to receive and process incoming emails from external syste
 
 ## Accounts
 
-![Image showing inbound accounts](../image/ia-inbound-accounts.png)
+![Image showing inbound accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-inbound-accounts.png)
 
 Use Accounts to process inbound emails from external sources and users. On selecting Accounts under Inbound email, a list of existing accounts shows up. Select **Add an account** to create a new account.
 
@@ -121,7 +121,7 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
 Manage the behavior of incoming emails with Properties.
 
-![Image showing inbound properties](../image/ia-inbound-properties.png)
+![Image showing inbound properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-inbound-properties.png)
 
 -   Inbound sending and delivery options: You can enable receiving emails and can also enable auto-create users from trusted domains
 -   Inbound recognition and trusted domains: You can setup conditions for the following:
@@ -145,7 +145,7 @@ Email actions determine how and when the system responds to service requests. On
 |Action type|Type of the action. Select the type of action the instance takes. Select **Record Action** to modify a record in the instance, or select **Reply Email** to have the instance send an email back to the source of the inbound email.|
 |Stop processing|Optional checkbox to help prevent the system from running additional inbound email actions after this action runs.|
 
-See [Inbound email configuration](../../reference-pages/reference/r_InboundMailConfiguration.md) for more information.
+See [Inbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_InboundMailConfiguration.md) for more information.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

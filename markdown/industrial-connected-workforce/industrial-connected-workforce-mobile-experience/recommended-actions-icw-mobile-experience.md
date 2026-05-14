@@ -36,5 +36,5 @@ The following use cases are currently supported and configured:
 
 When you select a recommended record, such as a related deviation or IGT, the record opens in its native mobile screen instead of a web view. This keeps you in the mobile app while you continue working.
 
-**Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](exploring-icw-mobile-experience.md)
+**Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/exploring-icw-mobile-experience.md)
 

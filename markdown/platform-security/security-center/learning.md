@@ -17,5 +17,5 @@ Access security learning materials from a single page.
 
 Read security white papers, ebooks, knowledge base \(KB\) articles, product documentation, and community discussions from a consolidated view by navigating to **Learning**. The content is organized by headings and descriptive UI cards to make it quick for you to pinpoint the correct resource.
 
-**Parent Topic:**[Security Center](sec-center-v2.md)
+**Parent Topic:**[Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 

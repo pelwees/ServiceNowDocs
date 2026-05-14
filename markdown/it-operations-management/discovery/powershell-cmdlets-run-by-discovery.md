@@ -914,5 +914,5 @@ Writes text to the verbose message stream in Windows PowerShell. Typically, the 
     -   ExecuteRemote.psm1
 
 </td></tr></tbody>
-</table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](r_PowerShellForDiscovery.md)
+</table>**Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 

@@ -21,7 +21,7 @@ Role required: cmdb\_ot\_isa\_editor, cmdb\_ot\_isa\_viewer, cmdb\_ot\_isa\_admi
 
 ## About this task
 
-Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with an assigned cmdb\_ot\_isa\_editor role can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](create-user-criteria-for-equipment-model-entity-site-users.md).
+Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with an assigned cmdb\_ot\_isa\_editor role can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 ## Procedure
 
@@ -82,5 +82,5 @@ Use the Dependency Map view.1.  Click **View Process**.
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

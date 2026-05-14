@@ -25,5 +25,5 @@ When using the recommendation engine, the risk manager has to map the informatio
 -   Reduces the time spent on mapping the risk and compliance libraries.
 -   Improves the overall time it takes to scope the right applications and assets that must be audited for a particular type of audit.
 
-**Parent Topic:**[Associate risks, citations, policies, and controls with a risk identification record](../task/associate-risks-pols-citations-risk-idenfn.md)
+**Parent Topic:**[Associate risks, citations, policies, and controls with a risk identification record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/associate-risks-pols-citations-risk-idenfn.md)
 

@@ -18,7 +18,7 @@ Personalize the List view in the Prioritization page by grouping, sorting, and h
 
 ## Before you begin
 
-[Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -36,13 +36,13 @@ Personalization preferences are saved as the portfolio plan's settings in Strate
 
 3.  Use the Personalize side panel to update the display of rows and columns on the page.
 
-    1.  Select the Personalize icon \(![Personalize icon.](../../alignment-planner-workspace/images/icon-settings.png)\).
+    1.  Select the Personalize icon \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-settings.png)\).
 
     2.  From the Columns section, select the columns that you want to see or hide the data of.
 
         You can reorder the columns here to change their display order on the backlog.
 
-        If you want additional columns to be available in this page, your admin can configure them. See [Configuring additional columns for Prioritization in Strategic Planning](../concept/customizing-the-default-backlog-view-in-alignment-planner-workspace.md).
+        If you want additional columns to be available in this page, your admin can configure them. See [Configuring additional columns for Prioritization in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/customizing-the-default-backlog-view-in-alignment-planner-workspace.md).
 
     3.  From the Rows section, choose how the rows are displayed, using the **Shade alternate rows** toggle.
 
@@ -70,7 +70,7 @@ Drag and drop a column name to the **Grouped by** bar above the list.
 
  In the sample list here, the Planning item type column is dropped into the **Grouped by** bar.
 
- ![Animation showing grouping the backlog list by planning item type.](../images/backlog-grouping-animation.gif)
+ ![Animation showing grouping the backlog list by planning item type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-grouping-animation.gif)
 
 </td></tr><tr><td id="d251614e238">
 
@@ -78,7 +78,7 @@ Drag and drop a column name to the **Grouped by** bar above the list.
 
 </td><td>
 
-Select the Column actions icon \(![Column actions.](../../alignment-planner-workspace/images/icon-column-actions.png)\) and select **Group by &lt;attribute&gt;**.![Prioritization page grouping option from column actions.](../images/backlog-grouping-option.png)
+Select the Column actions icon \(![Column actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-column-actions.png)\) and select **Group by &lt;attribute&gt;**.![Prioritization page grouping option from column actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-grouping-option.png)
 
 </td></tr></tbody>
 </table>    Grouping remains unaffected even when you switch to Kanban or Hierarchy tabs. The same setting is retained when you come back to the Prioritization tab. This preference is saved per session for a portfolio plan.
@@ -89,7 +89,7 @@ Select the Column actions icon \(![Column actions.](../../alignment-planner-work
 
 6.  Pin columns to the left or right of the list.
 
-    1.  For the column that you want to pin, select the Column actions icon \(![Column actions.](../../alignment-planner-workspace/images/icon-column-actions.png)\).
+    1.  For the column that you want to pin, select the Column actions icon \(![Column actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-column-actions.png)\).
 
     2.  From the Pin column section, select **Pin to left** or **Pin to right**.
 
@@ -97,9 +97,9 @@ Select the Column actions icon \(![Column actions.](../../alignment-planner-work
 
 7.  Adjust the width of the columns as per choice or set the width to autofit.
 
-    Hold and drag the column border to adjust its width. You can set the column width to autofit using the **Autofit this column** or **Autofit all columns** options from the Column actions \(![Column actions.](../../alignment-planner-workspace/images/icon-column-actions.png)\).
+    Hold and drag the column border to adjust its width. You can set the column width to autofit using the **Autofit this column** or **Autofit all columns** options from the Column actions \(![Column actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-column-actions.png)\).
 
-8.  Reset columns to default settings by selecting **Reset columns** from the Personalize menu \(![Personalize icon.](../../alignment-planner-workspace/images/icon-settings.png)\).
+8.  Reset columns to default settings by selecting **Reset columns** from the Personalize menu \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-settings.png)\).
 
     Selecting this option reverts the column personalization, grouping, and sorting to default settings.
 
@@ -108,5 +108,5 @@ Select the Column actions icon \(![Column actions.](../../alignment-planner-work
 9.  Apply filters to the data shown in Prioritization.
 
 
-**Parent Topic:**[Personalizing views for prioritization](../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
+**Parent Topic:**[Personalizing views for prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/personalize-prioritization-page-in-strategic-planinng-workspace.md)
 

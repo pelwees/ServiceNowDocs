@@ -15,10 +15,10 @@ breadcrumb: [Classic Orchestration, Workflow Data Fabric]
 
 Orchestration provides several applications with your subscription.
 
--   **[Orchestration ROI](c_OrchestrationROI.md)**  
+-   **[Orchestration ROI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_OrchestrationROI.md)**  
 The Orchestration ROI application allows you to estimate and compute cost savings for tasks in your system that could be automated with Orchestration.
--   **[Client Software Distribution](c_ClientSoftwareDistribution.md)**  
+-   **[Client Software Distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_ClientSoftwareDistribution.md)**  
 The Client Software Distribution \(CSD\) application allows administrators to distribute software from the service catalog using third-party management systems.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/r-orchestration.md)
 

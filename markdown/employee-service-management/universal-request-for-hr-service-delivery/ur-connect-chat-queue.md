@@ -32,5 +32,5 @@ Role required: admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Chat queues](../concept/config-chat-queues.md)
+**Parent Topic:**[Configure Chat queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/config-chat-queues.md)
 

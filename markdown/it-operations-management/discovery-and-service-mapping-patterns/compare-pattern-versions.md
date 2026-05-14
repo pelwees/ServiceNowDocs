@@ -43,7 +43,7 @@ Service Mapping and Discovery use patterns in their discovery process. Every tim
 
 7.  In the Compare to Current window, click the **Pattern text** pane either under **Selected Version** or **Current Version**.
 
-    ![Click the Pattern text pane to open the text comparison window.](../image/CompareToCurrent.png)
+    ![Click the Pattern text pane to open the text comparison window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CompareToCurrent.png)
 
     The text comparison view opens showing the text of the selected pattern version and the current pattern version side by side. The step containing a difference appears highlighted.
 
@@ -56,12 +56,12 @@ Service Mapping and Discovery use patterns in their discovery process. Every tim
 
 9.  If necessary, click **Revert chunk** to replace the step in the current version with the step from the previous version.
 
-    ![Click Revert chunk to replace the step in the current step with the step from the previous version.](../image/CompareToCurrentRevertChunk.png)
+    ![Click Revert chunk to replace the step in the current step with the step from the previous version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CompareToCurrentRevertChunk.png)
 
 10. Click **OK** when done.
 
 11. If you copied any steps from the previous version and want to save the change, click **Save Merge**.
 
 
-**Parent Topic:**[Choose the pattern version](t_ChoosePatternVersionPatDef.md)
+**Parent Topic:**[Choose the pattern version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_ChoosePatternVersionPatDef.md)
 

@@ -15,18 +15,18 @@ Add an extended picklist field to a CPQ layout by placing it in a column set and
 
 Adding a field with an extended picklist to the layout is similar to how a field is added to a layout. First the field has to be added to a Columnset in a Tier. After that, each column of the extended picklist must be added to the layout with the field added at the end of the path. In the following example, row 16 adds the field “dogBreed” to the layout. The path in rows 17- 24 all have “dogBreed” at the end of the path. They also have the value, fieldExtension, in the type column \(column A\).
 
-![Extended picklist to the layout](../images/cpq-layout-extended-picklist-csv.png)
+![Extended picklist to the layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-extended-picklist-csv.png)
 
 It is also important to make sure that any extension that will be added to the layout is selected on the picklist extension menu by checking the “Available in layout” box.
 
-![Extended picklist to the layout](../images/cpq-layout-extended-picklist-available-in-layout.png)
+![Extended picklist to the layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-extended-picklist-available-in-layout.png)
 
 The setup above images would result in the following layout:
 
-![Extended picklist to the layout](../images/cpq-layout-extended-picklist-select-your-doggo.png)
+![Extended picklist to the layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-extended-picklist-select-your-doggo.png)
 
 **Related topics**  
 
 
-[Displaying a picklist extension on a layout](csv_layouts_how_do_i_display_a_picklist_extension.md)
+[Displaying a picklist extension on a layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md)
 

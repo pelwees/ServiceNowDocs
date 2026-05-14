@@ -152,7 +152,7 @@ This plugin is for releases prior to Australia. Loads the following Software Ass
 -   All publisher pack add-on plugins
 -   Software Asset Management UI Components \(com.sn\_samp\_workbench\)
 
- **Note:** To enable SaaS License Management, you must request the Software Asset Management — SaaS License Management \(sn\_sam\_saas\_int\) plugin separately from the ServiceNow Store. See [Request SaaS License Management](../task/request-saas-license-management.md) for information on how to request and activate this plugin.
+ **Note:** To enable SaaS License Management, you must request the Software Asset Management — SaaS License Management \(sn\_sam\_saas\_int\) plugin separately from the ServiceNow Store. See [Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/request-saas-license-management.md) for information on how to request and activate this plugin.
 
 </td></tr><tr><td>
 
@@ -202,7 +202,7 @@ Software Asset Management — SaaS License Management\(sn\_sam\_saas\_int\)
 
 ServiceNow Store
 
- See [Request SaaS License Management](../task/request-saas-license-management.md) for information on how to request and activate this plugin from the ServiceNow Store.
+ See [Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/request-saas-license-management.md) for information on how to request and activate this plugin from the ServiceNow Store.
 
 </td><td>
 
@@ -359,5 +359,5 @@ Now Support Service Portal
 Requires the Software Asset Management Professional \(com.snc.samp\) plugin. Provides additional capabilities to reconcile engineering applications such as AutoCAD.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

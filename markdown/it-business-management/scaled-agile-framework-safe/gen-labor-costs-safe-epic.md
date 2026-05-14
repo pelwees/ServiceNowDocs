@@ -31,5 +31,5 @@ View the labor cost expenses based on the resource assignments for your epics.
     Refresh the page to view generated labor costs in the Cost Plan related list.
 
 
-**Parent Topic:**[Define an epic in SAFe](create-SAFeepic.md)
+**Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 

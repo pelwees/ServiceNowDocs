@@ -29,7 +29,7 @@ There are three optional settings that can be used when working with the multi-u
 
     **Note:** When enabling push notifications on a shared device, be aware that other users using the device may be able to view other users’ notifications and banners.
 
--   Set the maximum idle time before users are prompted to re-enter their PIN. The default is 300 seconds. This feature is described in the topic [PIN timeout](pin-timeout.md).
+-   Set the maximum idle time before users are prompted to re-enter their PIN. The default is 300 seconds. This feature is described in the topic [PIN timeout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/pin-timeout.md).
 
 ## Procedure
 

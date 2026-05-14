@@ -25,7 +25,7 @@ Create the Block List on your ServiceNow AI Platform instance so that the Check 
 
 **Note:** The figures in this topic are shown with **Tabbed forms** cleared in System Settings.
 
-![System Settings > Forms](../image/system-settings.png)
+![System Settings > Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/system-settings.png)
 
 ## Procedure
 
@@ -33,13 +33,13 @@ Create the Block List on your ServiceNow AI Platform instance so that the Check 
 
 2.  Locate the **Check Point Next Generation Threat Prevention** card and click **Configure**.
 
-    ![Check Point NGTP integration card](../image/check-point-card.png)
+    ![Check Point NGTP integration card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/check-point-card.png)
 
     **Note:** Privileged and Proprietary content used with permission from Check Point Software Technologies, Ltd.
 
 3.  Click **Create new Block List**.
 
-    ![Check Point NGTP configuration](../image/check-point-configure.png)
+    ![Check Point NGTP configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/check-point-configure.png)
 
 4.  On the form, fill in the fields.
 
@@ -166,23 +166,23 @@ Retrieval URL
 Retrieval URL will be generated automatically, once the Block List is saved. To configure this Block List on Check Point Gateways, you must use this URL. Once this URL is configured, Check Point fetches observables to be blocked in csv format.
 
 </td></tr></tbody>
-</table>    ![Block list request list](../image/block-request-list.png)
+</table>    ![Block list request list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/block-request-list.png)
 
 5.  Click **Submit**.
 
 6.  If the Check Point Block Request List is not displayed, navigate to **Check Point NGTP Integration** &gt; **Block Request Lists**.
 
-    ![Block List Request Lists](../image/new-block-request.png)
+    ![Block List Request Lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-block-request.png)
 
     The new Block List is displayed. The Block List status is still inactive \(false\), which means the Block List is not available to accept entries. If Create change request was configured, a message is displayed indicating a change request and tasks have been created in your ServiceNow AI Platform instance.
 
-    ![Block List Request entries](../image/block-request-list2.png)
+    ![Block List Request entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/block-request-list2.png)
 
 7.  In the **Name** column, click an item to open the record.
 
     The Block List record is displayed. This example shows a Malware Outbound IP Block List. The following fields, options, and links are displayed on the new record after submission and described in the following table.
 
-    ![Retrieved URL](../image/requested-url-redbox.png)
+    ![Retrieved URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/requested-url-redbox.png)
 
 <table id="table_twk_jcd_qgb"><thead><tr><th>
 

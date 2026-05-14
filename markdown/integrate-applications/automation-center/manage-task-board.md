@@ -25,13 +25,13 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
     The Automation Center dashboard is displayed.
 
-2.  Select the Kanban board icon ![kanban board icon](../images/icon-kanban.png).
+2.  Select the Kanban board icon ![kanban board icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/icon-kanban.png).
 
     The Kanban board is displayed with the Request Board in view.
 
 3.  Select **Task Board** from the list view.
 
-    ![Task board](../images/task-board.png)
+    ![Task board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/task-board.png)
 
     The Task Board is displayed with all available tasks and their states.
 
@@ -39,7 +39,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
     Also, anyone with the sn\_ac.automation\_admin or sn\_ac.automation\_technical\_user role can reorder different states \(columns\) on the Task Board to set the lifecycle or process flow direction according to their requirement by editing the vtb\_board table.
 
-    ![Task Board](../images/task-board-ui.png)
+    ![Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/task-board-ui.png)
 
 4.  You can do multiple actions on the Task Board.
 
@@ -53,7 +53,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
         -   **User**: Select one or more users to view tasks assigned to only those users. Only users who have been assigned a task are available for selection.
     -   Sort the tasks for ease of use.
 
-        ![Task board sort](../images/sort-task.png)
+        ![Task board sort](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/sort-task.png)
 
         Select **Name**, **Priority**, or **Score** from the **Sort by** field.
 
@@ -71,10 +71,10 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
         Select the **Add Task** icon.
 
-        The **Create New Automation Task** form is displayed. For more information, see [Automation task form](../reference/automation-task-form.md).
+        The **Create New Automation Task** form is displayed. For more information, see [Automation task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-task-form.md).
 
         Verify that the associated automation request is either in the **Planned** or **In Progress** state.
 
 
-**Parent Topic:**[Automation Center Kanban board](../concept/kanban.md)
+**Parent Topic:**[Automation Center Kanban board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/kanban.md)
 

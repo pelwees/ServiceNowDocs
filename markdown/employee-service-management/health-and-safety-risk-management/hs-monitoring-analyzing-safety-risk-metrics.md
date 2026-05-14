@@ -17,12 +17,12 @@ The **Risk Management** tab of the Health and Safety dashboard provides a compre
 
 For any selected period and location, you can drill down into detailed data for granular visibility for risk mitigation strategies.
 
-![Risk Management tab showing safety risk metrics in the Health and Safety dashboard.](../image/hs-risk-mgmt-dashboard.png)
+![Risk Management tab showing safety risk metrics in the Health and Safety dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/hs-risk-mgmt-dashboard.png)
 
 ## Prerequisites
 
--   Ensure that Health and Safety Risk Management and Health and Safety Incident Management applications are installed. For more information, see [Install Health and Safety Risk Management](../task/install-hs-risk-mgmt.md).
--   Run the **\[OHS\] Safety Metrics** scheduled job to update the safety metrics on demand. For more information, see [Configure scheduled job to generate frequency rates](../../ohs-incident-management/task/configure-job-generate-frequency-rates.md).
+-   Ensure that Health and Safety Risk Management and Health and Safety Incident Management applications are installed. For more information, see [Install Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../task/install-hs-risk-mgmt.md).
+-   Run the **\[OHS\] Safety Metrics** scheduled job to update the safety metrics on demand. For more information, see [Configure scheduled job to generate frequency rates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/task/configure-job-generate-frequency-rates.md).
 
     **Note:** The **\[OHS\] Safety Metrics** job is set to run daily by default.
 

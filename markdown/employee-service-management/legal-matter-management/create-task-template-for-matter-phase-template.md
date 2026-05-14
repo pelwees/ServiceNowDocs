@@ -90,7 +90,7 @@ Default values populated in fields on a task form in the legal matter that is cr
 
 7.  Add to-do items in the **Checklist** section to provide a list of activities for the task fulfiller.
 
-    1.  Click the more actions icon \(![More actions icon.](../../employee-center/images/down-arrow-icon.png)\) next to the **Checklist**.
+    1.  Click the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../employee-center/images/down-arrow-icon.png)\) next to the **Checklist**.
 
     2.  Click **Create new**.
 
@@ -101,5 +101,5 @@ Default values populated in fields on a task form in the legal matter that is cr
 8.  Click **Update**.
 
 
-**Parent Topic:**[Create a legal matter template](create-legal-matter-template.md)
+**Parent Topic:**[Create a legal matter template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-legal-matter-template.md)
 

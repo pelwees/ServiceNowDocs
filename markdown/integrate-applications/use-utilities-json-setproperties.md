@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties of the SetProperties component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties of the SetProperties component, see [Properties of the JSON utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-utilities-json.md).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ To configure the properties of the SetProperties component, see [Properties of t
 
 2.  Drag the SetProperties component to the Design surface.
 
-3.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
+3.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
-4.  Click the add property icon \(![Add property icon.](../image/add-image-icon.png)\).
+4.  Click the add property icon \(![Add property icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
 5.  Enter the property name.
 
@@ -37,7 +37,7 @@ To configure the properties of the SetProperties component, see [Properties of t
 
 7.  Click **OK**.
 
-8.  To provide the values for the property names, see [Configure port properties](configure-input-port-properties.md).
+8.  To provide the values for the property names, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 9.  Connect the data and control ports of the SetProperties component to the corresponding ports of the other components as described in the following table.
 
@@ -125,5 +125,5 @@ Returns a JSON object with updated or new values for multiple properties.
 </table>10. To test the component, right-click the component bar and then click **Run From Here**.
 
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/json.md)
 

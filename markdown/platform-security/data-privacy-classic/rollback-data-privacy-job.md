@@ -23,20 +23,20 @@ Role required: data\_privacy\_admin or data\_privacy\_processor, and admin
 
 1.  Elevate to the **data\_privacy\_processor** or **data\_privacy\_admin** role.
 
-    For details on role elevation, see [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **All** &gt; **System Security** &gt; **Data Privacy** &gt; **Data Privacy Job**.
 
-    **Note:** In advance, a data privacy policy configuration that supports rollback must be created. [Create a data privacy policy](config-dp-policy.md).
+    **Note:** In advance, a data privacy policy configuration that supports rollback must be created. [Create a data privacy policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-dp-policy.md).
 
 3.  Create a data privacy job and select a Privacy Configuration that supports Rollback.
 
-    See [Configure a data privacy job](config-data-privacy-job.md).
+    See [Configure a data privacy job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-data-privacy-job.md).
 
 4.  Schedule the job for data anonymization.
 
     -   After the job has run, the data will be anonymized for the selected configuration.
-    -   A message displays in the job informing of the expiration time. Within the expiry period you have the ability to roll back the job.![Data privacy job rollback expiration time message.](../image/dp-rollback-expiry-message.png)
+    -   A message displays in the job informing of the expiration time. Within the expiry period you have the ability to roll back the job.![Data privacy job rollback expiration time message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dp-rollback-expiry-message.png)
 5.  Elevate to the **data\_privacy\_processor** role.
 
 6.  Open the data privacy job to be rolled back.

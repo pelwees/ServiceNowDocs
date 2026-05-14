@@ -42,5 +42,5 @@ Role required: web\_service\_admin
 
 Configure a REST message to use this basic auth profile.
 
-**Parent Topic:**[Configure a REST message with basic auth](t_ConfigureRESTMsgBasicAuth.md)
+**Parent Topic:**[Configure a REST message with basic auth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfigureRESTMsgBasicAuth.md)
 

@@ -17,19 +17,19 @@ The ServiceNow® Purchase Order Management application enables your suppliers an
 
 <table id="table_pvf_d3y_ygc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Purchase Order Management can help you with its key features and benefits.](explore-purch-order-mgmt.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Purchase Order Management can help you with its key features and benefits.](explore-purch-order-mgmt.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configure-purch-order-mgmt.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configure-purch-order-mgmt.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn how buyers and suppliers can use Purchase Order Management to work on exceptions.](use-purch-order-mgmt.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn how buyers and suppliers can use Purchase Order Management to work on exceptions.](use-purch-order-mgmt.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, such as fields, tables, and properties.](../reference/purchase-order-mgmt-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, such as fields, tables, and properties.](../reference/purchase-order-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>

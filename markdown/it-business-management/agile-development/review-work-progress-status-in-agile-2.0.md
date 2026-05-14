@@ -38,10 +38,10 @@ The color of the progress status indicator is determined using the following con
 -   Yellow: Estimated completion date is beyond the planned end date by a deviation of 1% to 14%.
 -   Red: Estimated completion date is beyond the planned end date by a deviation of 15% or more.
 
-**Parent Topic:**[Work Progress Status for Agile Teams](work-progress-status-for-agile-teams.md)
+**Parent Topic:**[Work Progress Status for Agile Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/work-progress-status-for-agile-teams.md)
 
 **Related topics**  
 
 
-[Agile 2.0 Epic Dashboard](../../../use/dashboards/application-content-packs/agile-development-epic-dashboard.md)
+[Agile 2.0 Epic Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../use/dashboards/application-content-packs/agile-development-epic-dashboard.md)
 

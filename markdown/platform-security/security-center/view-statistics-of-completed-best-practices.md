@@ -34,5 +34,5 @@ Complete the actions to see charts that provide visual trends of security best p
 4.  Select **Completed by maturity level** to see a chart, which displays trends of best practices completed by maturity level.
 
 
-**Parent Topic:**[Security Best Practices](../concept/security-best-practices-manager.md)
+**Parent Topic:**[Security Best Practices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/security-best-practices-manager.md)
 

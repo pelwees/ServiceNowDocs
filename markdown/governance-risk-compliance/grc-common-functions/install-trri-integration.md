@@ -48,5 +48,5 @@ The following items are installed with the GRC integration with Thomson Reuters 
 4.  Select **Install**.
 
 
-**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](../concept/grc-trri-integration.md)
+**Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-trri-integration.md)
 

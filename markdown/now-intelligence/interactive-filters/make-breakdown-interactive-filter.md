@@ -17,13 +17,13 @@ You can configure a Performance Analytics breakdown on a dashboard to act as an 
 
 ## Before you begin
 
-The dashboard should be configured with both reports and Performance Analytics widgets. The dashboard must be configured with at least one breakdown source for the Performance Analytics widgets to follow, as described in [Add breakdown sources to a dashboard](t_ExistingBreakdownDashboard.md). Finally, the dashboard must have an interactive filter that is based on the same table as one of the breakdown sources.
+The dashboard should be configured with both reports and Performance Analytics widgets. The dashboard must be configured with at least one breakdown source for the Performance Analytics widgets to follow, as described in [Add breakdown sources to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_ExistingBreakdownDashboard.md). Finally, the dashboard must have an interactive filter that is based on the same table as one of the breakdown sources.
 
 Role required: pa\_power\_user, pa\_admin, or admin
 
 ## About this task
 
-When you select a [breakdown](../../performance-analytics/concept/performance-analytics-glossary.md#) and breakdown element on a dashboard, that element can be used to filter reports on the dashboard based on the filtering rules defined in an interactive filter.
+When you select a [breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../../performance-analytics/concept/performance-analytics-glossary.md#) and breakdown element on a dashboard, that element can be used to filter reports on the dashboard based on the filtering rules defined in an interactive filter.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ When you select a [breakdown](../../performance-analytics/concept/performance-an
 
 2.  Select the Core UI dashboard with the breakdown you want to make act as an interactive filter.
 
-3.  Click the context menu icon ![Context menu icon](../../../common/image/Form_MenuIcon.png) and select **Dashboard Properties**.
+3.  Click the context menu icon ![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../../../common/image/Form_MenuIcon.png) and select **Dashboard Properties**.
 
 4.  In the **Breakdown sources** related list, locate the breakdown sources that you want to use as interactive filters.
 
@@ -53,7 +53,7 @@ When you select a [breakdown](../../performance-analytics/concept/performance-an
 
 9.  For each report that you want to follow the interactive filters, follow these steps:
 
-    1.  Click the cog icon ![Cogwheel icon](../../performance-analytics/image/Cogwheel.png) to open the Edit Widget window.
+    1.  Click the cog icon ![Cogwheel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../../performance-analytics/image/Cogwheel.png) to open the Edit Widget window.
 
     2.  Select **Follow interactive filter**.
 
@@ -66,18 +66,18 @@ When you select a [breakdown](../../performance-analytics/concept/performance-an
 
 The selected breakdown acts as an interactive filter on the dashboard's reports.
 
-**Note:** Performance Analytics widgets on the dashboard do not follow interactive filters. Separately filter those widgets on the same breakdown source by using the breakdown dashboard controls. For more information, see [Using breakdowns on dashboards](../../performance-analytics/concept/c_SpecialDashboards.md).
+**Note:** Performance Analytics widgets on the dashboard do not follow interactive filters. Separately filter those widgets on the same breakdown source by using the breakdown dashboard controls. For more information, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../../performance-analytics/concept/c_SpecialDashboards.md).
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../concept/c_PublishersOnHomepages.md)
 
 **Related topics**  
 
 
-[Add an interactive filter widget to a responsive dashboard](t_AddIntFilterToAResponsiveDboard.md)
+[Add an interactive filter widget to a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_AddIntFilterToAResponsiveDboard.md)
 
-[Make a report follow interactive filters](t_MakeAReportASubscriber.md)
+[Make a report follow interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportASubscriber.md)
 
-[Make a report act as an interactive filter](t_MakeAReportAPublisher.md)
+[Make a report act as an interactive filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportAPublisher.md)
 
-[Reset all interactive filters on a dashboard tab](reset-all-filters.md)
+[Reset all interactive filters on a dashboard tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/reset-all-filters.md)
 

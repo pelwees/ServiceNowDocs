@@ -40,26 +40,26 @@ The **\[OHS\] Safety Metrics** job is set to run daily by default.
     **Note:** To run the scheduled job and update metrics on demand, select **Execute Now**.
 
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/concept/setting-up-hs-core.md)
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../concept/setting-up-hs-incident-mgmt.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/task/install-hs-core.md)
 
-[Workplace location data](configure-hs-workplace-location-data.md)
+[Workplace location data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-hs-workplace-location-data.md)
 
-[Enable a Health and Safety table for configuring report field mapping](enable-hs-table-report-field-mapping.md)
+[Enable a Health and Safety table for configuring report field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/enable-hs-table-report-field-mapping.md)
 
-[Create a safety report field mapping for generating reports](create-safety-report-field-mapping.md)
+[Create a safety report field mapping for generating reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-safety-report-field-mapping.md)
 
-[Configure groups for Health and Safety](configure-groups-health-and-safety.md)
+[Configure groups for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-groups-health-and-safety.md)
 
-[Assign Health and Safety profile to a user](assign-hs-profile-user.md)
+[Assign Health and Safety profile to a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md)
 
-[Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
+[Add a Health and Safety visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
 

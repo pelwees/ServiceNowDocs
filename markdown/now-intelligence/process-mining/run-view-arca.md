@@ -31,7 +31,7 @@ Open a project.
 
 </td><td>
 
-![Root cause analysis option in the Summary and insights page](../image/arca-location-1a.png)
+![Root cause analysis option in the Summary and insights page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/arca-location-1a.png)
 
 </td></tr><tr><td>
 
@@ -43,10 +43,10 @@ Open a project.
 
 </td><td>
 
-![Root cause analysis option in Analyst workbench](../image/arca-location-2a.png)
+![Root cause analysis option in Analyst workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/arca-location-2a.png)
 
 </td></tr></tbody>
-</table>    The root cause analysis task will begin to run. After the analysis is complete, you will see a notification. You can select the scheduled task icon \(![Scheduled tasks icon](../image/scheduled-task-icon.png)\) on the right of the screen to see an update on the task's progress.
+</table>    The root cause analysis task will begin to run. After the analysis is complete, you will see a notification. You can select the scheduled task icon \(![Scheduled tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/scheduled-task-icon.png)\) on the right of the screen to see an update on the task's progress.
 
 2.  When the root cause analysis completes, select **View result** in the scheduled tasks panel of Analyst workbench.
 
@@ -54,8 +54,8 @@ Open a project.
 
     The root cause analysis result is similar to the following:
 
-    ![Automated root cause analysis result](../image/arca-results.png)
+    ![Automated root cause analysis result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/arca-results.png)
 
 
-**Parent Topic:**[Automated root cause analysis](../concept/auto-rca.md)
+**Parent Topic:**[Automated root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/auto-rca.md)
 

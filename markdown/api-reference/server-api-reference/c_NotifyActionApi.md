@@ -19,7 +19,7 @@ You add actions to a NotifyAction object by calling the respective add function 
 
 **Note:** The NotifyAction API is only valid within global applications. To utilize this type of functionality within scoped applications, you must create custom Notify workflow activities. For additional information on creating these activities, see [Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## NotifyAction - addConference\(\)
 

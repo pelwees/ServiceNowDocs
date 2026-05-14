@@ -143,7 +143,7 @@ sn\_sow\_admin.sn\_sow\_admin
 
 </td><td>
 
-Provides access to the SOW Admin Center page for configurations. Admins can use the role to configure SOW features and maintain organizational policies.**Note:** To configure SOW features, you also require additional roles along with the SOW admin role to access specific sections and pages in SOW admin center. For more information, see [Additional roles for SOW admin](additional-roles-sow-admin.md).
+Provides access to the SOW Admin Center page for configurations. Admins can use the role to configure SOW features and maintain organizational policies.**Note:** To configure SOW features, you also require additional roles along with the SOW admin role to access specific sections and pages in SOW admin center. For more information, see [Additional roles for SOW admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/additional-roles-sow-admin.md).
 
 </td><td>
 

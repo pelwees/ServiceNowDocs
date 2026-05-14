@@ -41,11 +41,11 @@ For more information about the delegated developer role, see [Delegated developm
 
     The Mobile Card Builder opens, displaying an empty mobile card.
 
-    ![Mobile Card Builder with a blank card template.](../image/mcb-blank-template.png)
+    ![Mobile Card Builder with a blank card template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mcb-blank-template.png)
 
 6.  Add elements to your card template using the card builder interface.
 
-    For details on using the card builder UI, see [Mobile Card Builder user interface](../reference/mcb-stage-ui.md)
+    For details on using the card builder UI, see [Mobile Card Builder user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mcb-stage-ui.md)
 
 7.  Open the screen where you want to apply your card template by using the following methods.
 
@@ -56,7 +56,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 9.  If you want to assign field values to your card, you can do that at this point.
 
-    For details on that process, see [Assign field values to your mobile card](mcb-assign-fields.md).
+    For details on that process, see [Assign field values to your mobile card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mcb-assign-fields.md).
 
 10. Select **Save**.
 

@@ -17,16 +17,16 @@ View the connections between alerts in alert groups in Express List that were cr
 
 When alerts on CIs that are located near each other in the CMDB topology occur within a certain time-frame, Event Management generates a CMDB-based alert group. Event Management correlates CIs in a service map when they are separated by a maximum of three other CIs. The colored tags in Link View offer a visual representation of the CIs and other environment items in relation to the alerts in the group.
 
-![Sample CMDB-based alert group in Link View.](../image/el-link-view-topology.png "Sample CMDB-based alert group in Link View")
+![Sample CMDB-based alert group in Link View.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-link-view-topology.png "Sample CMDB-based alert group in Link View")
 
 In this sample Link View of a CMDB-based alert group, the dashed line with the number 2 between the CIs indicates that the CIs are not connected directly, but are separated by two CIs in the service map in the CMDB topology. The sample CMDB service map also shows correlated CIs separated by two CIs.
 
-![Sample service map with correlated CIs.](../image/el-correlated-cis.png "Sample service map with correlated CIs")
+![Sample service map with correlated CIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-correlated-cis.png "Sample service map with correlated CIs")
 
 **Related topics**  
 
 
-[Viewing links between alerts in alert groups in Express List](el-link-view.md)
+[Viewing links between alerts in alert groups in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-link-view.md)
 
-[View links between alerts in a group in Express List](../task/view-relationships-between-alerts-in-groups.md)
+[View links between alerts in a group in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/view-relationships-between-alerts-in-groups.md)
 

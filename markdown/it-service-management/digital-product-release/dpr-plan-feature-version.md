@@ -37,7 +37,7 @@ When a release is created from a version from one of these planning tools, the p
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select a product or service from the list to open.
 
@@ -47,7 +47,7 @@ When a release is created from a version from one of these planning tools, the p
 
     Enhancements are displayed as cards in the release lane they are associated with.
 
-5.  View a release in the Pending state by selecting the sub menu icon \(![Sub menu icon.](../image/dpr-icon-menu.png)\) of a release lane and select the **View release** option.
+5.  View a release in the Pending state by selecting the sub menu icon \(![Sub menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-menu.png)\) of a release lane and select the **View release** option.
 
 6.  On the Kanban board, complete your release planning.
 
@@ -76,7 +76,7 @@ Select an enhancement card and drag to move it from backlog to a release or betw
 1.  Select **Add enhancement**.
 2.  On the Add enhancement dialog box, add details for the enhancement, and select **Confirm**.
 
-For more information, see [Add an enhancement to a product or service](dpr-create-product-enhancement.md).
+For more information, see [Add an enhancement to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-enhancement.md).
 
 </td></tr><tr><td id="d394574e249">
 
@@ -86,11 +86,11 @@ For more information, see [Add an enhancement to a product or service](dpr-creat
 
 1.  Select the more actions icon beside the **Add enhancement** button and then select **Add enhancement from epic**.
 
-![Add enhancement from epic button.](../image/dpr-icon-enhance-epic-btn.png)
+![Add enhancement from epic button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-enhance-epic-btn.png)
 
 2.  On the Add enhancements from epics dialog box, select one or more epics, and then select **Add enhancements**.
 
-For more information, see [Add a product enhancement from an epic](dpr-add-product-enhancement-from-epic.md).
+For more information, see [Add a product enhancement from an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-enhancement-from-epic.md).
 
 </td></tr><tr><td id="d394574e294">
 
@@ -108,11 +108,11 @@ Rearrange enhancement cards within a release in order of priority. The enhanceme
 
 -   To create a release using a wizard, select **Create release**.
 
-For more information, see [Create a release with a wizard](dpr-create-release-guided.md).
+For more information, see [Create a release with a wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release-guided.md).
 
 -   To create a release for a single product or service, select the more actions icon beside the **Create release** button and then select **Quick create**.
 
-For more information, see [Create a release for a product or service](dpr-create-release.md).
+For more information, see [Create a release for a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release.md).
 
 </td></tr><tr><td id="d394574e367">
 
@@ -120,11 +120,11 @@ For more information, see [Create a release for a product or service](dpr-create
 
 </td><td>
 
-1.  Select the sub menu icon \(![Vertical lane action icon.](../image/dpr-icon-menu.png)\) of a release lane and select the **Edit release** option.
-2.  On the Release details page, modify the details and complete the release creation process. For more information, see [Create a release with a wizard](dpr-create-release-guided.md).
+1.  Select the sub menu icon \(![Vertical lane action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-menu.png)\) of a release lane and select the **Edit release** option.
+2.  On the Release details page, modify the details and complete the release creation process. For more information, see [Create a release with a wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release-guided.md).
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-using-digital-product-release.md)
 

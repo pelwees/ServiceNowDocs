@@ -37,7 +37,7 @@ Approving the request creates a new table for the service category, adds an appl
 
     If notifications are enabled for the instance, the service category **Manager** is notified of the approval or rejection.
 
-    ![Service Creator Approve Category](../image/ServiceCreatorApproveCategory.png)
+    ![Service Creator Approve Category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/service-creator/../image/ServiceCreatorApproveCategory.png)
 
     After publishing the service category, you can access the new table by navigating to the new application in the application navigator, or by clicking the **View Task List** related link on the Service Category form.
 
@@ -45,5 +45,5 @@ Approving the request creates a new table for the service category, adds an appl
 **Related topics**  
 
 
-[Manage a service](t_ManagingServices.md)
+[Manage a service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/service-creator/t_ManagingServices.md)
 

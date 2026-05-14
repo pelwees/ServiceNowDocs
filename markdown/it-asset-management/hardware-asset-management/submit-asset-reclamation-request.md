@@ -103,5 +103,5 @@ Any instructions if you want to mention.
     An Asset Reclamation Request is created.
 
 
-**Parent Topic:**[Reclaim hardware assets](../concept/manage-asset-reclaim.md)
+**Parent Topic:**[Reclaim hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-reclaim.md)
 

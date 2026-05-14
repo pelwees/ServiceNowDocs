@@ -15,7 +15,7 @@ Download and install the ServiceNow CRM for Outlook add-in to access and manage 
 
 ## Before you begin
 
-The CRM Outlook Add-in must be installed on your ServiceNow instance. For more information, see [Install CRM Outlook Add-in](install-crm-outlook-add-in.md).
+The CRM Outlook Add-in must be installed on your ServiceNow instance. For more information, see [Install CRM Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/install-crm-outlook-add-in.md).
 
 Role required: sn\_crm\_outlook.crm\_outlook\_admin
 

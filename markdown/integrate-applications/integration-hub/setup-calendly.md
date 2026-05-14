@@ -59,13 +59,13 @@ Role required: Calendly organization owner or admin
 
 7.  To copy the client secret, select **Copy**.
 
-    ![Calendly OAuth details.](../image/calendly-spoke-oauth.png)
+    ![Calendly OAuth details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-spoke-oauth.png)
 
 8.  Select **Return to My Apps**.
 
     The OAuth app is created.
 
-    ![OAuth app created.](../image/calendly-spoke-oauth-created.png)
+    ![OAuth app created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-spoke-oauth-created.png)
 
 
 ## Create a connection and credential record
@@ -86,17 +86,17 @@ Role required: ServiceNow admin
 
 4.  In the Search all connections field, enter `Calendly`.
 
-    ![Enter Calendly in the search field.](../image/calendly-search.png)
+    ![Enter Calendly in the search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-search.png)
 
     The **Outbound** tab is enabled by default. Confirm that the **Outbound** tab is enabled already.
 
 5.  On the Calendly card, select **View Details**.
 
-    ![View Details button on Calendly card.](../image/calendly-click-view-details.png)
+    ![View Details button on Calendly card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-click-view-details.png)
 
 6.  Select **Configure**.
 
-    ![Configure button for Calendly connection.](../image/calendly-click-configure-button.png)
+    ![Configure button for Calendly connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-click-configure-button.png)
 
 7.  Fill the form.
 
@@ -130,7 +130,7 @@ OAuth Client ID
 
 </td><td>
 
-Client ID that you had generated on the Calendly developers portal. To learn how to generate a client ID, see [Set up an OAuth application in Calendly](setup-calendly.md#).
+Client ID that you had generated on the Calendly developers portal. To learn how to generate a client ID, see [Set up an OAuth application in Calendly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-calendly.md#).
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client ID that you had generated on the Calendly developers portal. To learn how to generate a client secret, see [Set up an OAuth application in Calendly](setup-calendly.md#).
+Client ID that you had generated on the Calendly developers portal. To learn how to generate a client secret, see [Set up an OAuth application in Calendly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-calendly.md#).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ URL of the OAuth provider that users are redirected to after authentication. Thi
 
     The OAuth refresh token becomes available.
 
-    ![Connection and credential record created for Calendly.](../image/calendly-spoke-conn-cred-created.png)
+    ![Connection and credential record created for Calendly.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/calendly-spoke-conn-cred-created.png)
 
 10. To get the OAuth token, select **Get OAuth Token**.
 

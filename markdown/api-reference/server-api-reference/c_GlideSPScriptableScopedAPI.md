@@ -17,7 +17,7 @@ The GlideSPScriptable API provides methods to interact with data and perform rec
 
 You access GlideSPScriptable methods by using the global `$sp` object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideSPScriptable - canReadRecord\(GlideRecord now\_GR\)
 

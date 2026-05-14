@@ -121,7 +121,7 @@ Short description
 
 Brief description of the action such as what the action involves, how to implement the action, who it affects, and the action outcome.As you start entering the title for your action, the related actions that potentially match your action title appear.
 
- Click the suggestion icon \(![Suggestion icon](../../planning-and-policy/image/suggestions-icon.png)\) to select a description from the list of predefined actions.
+ Click the suggestion icon \(![Suggestion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../planning-and-policy/image/suggestions-icon.png)\) to select a description from the list of predefined actions.
 
 </td></tr><tr><td>
 
@@ -140,5 +140,5 @@ Work notes
 Information about the action. Add work notes to communicate about the status of action approval, rejection, or implementation with other users.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 

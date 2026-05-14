@@ -85,5 +85,5 @@ Select a preferred start day of the week for the selected group
 3.  Click **Submit** to configure the settings or **Delete** to delete the preference.
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/manage-schedules-and-shifts.md)
 

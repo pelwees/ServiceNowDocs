@@ -20,7 +20,7 @@ Now Assist uses generative AI capabilities to extract values from the document b
 
 Agents can use the Document Intelligence workspace to review and confirm the extracted information.
 
-![Document Intelligence workspace showing the extracted information on the document image.](../../document-intelligence/image/na-review-extracted-information.png "Extracted information in the Document Intelligence workspace")
+![Document Intelligence workspace showing the extracted information on the document image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/../../document-intelligence/image/na-review-extracted-information.png "Extracted information in the Document Intelligence workspace")
 
-For more information, see [Review extracted information in the Document Intelligence workspace](../../document-intelligence/task/review-extracted-information.md).
+For more information, see [Review extracted information in the Document Intelligence workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/../../document-intelligence/task/review-extracted-information.md).
 

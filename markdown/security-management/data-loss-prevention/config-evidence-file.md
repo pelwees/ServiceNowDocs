@@ -71,5 +71,5 @@ Option to select the preferred storage type.**Note:** **ServiceNow Storage**: Th
 
 The evidence files are stored as per the configuration, after the incident ingestion is completed.
 
-**Parent Topic:**[Create a profile for Symantec DLP integration](create-profile-symantec-dlp.md)
+**Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 

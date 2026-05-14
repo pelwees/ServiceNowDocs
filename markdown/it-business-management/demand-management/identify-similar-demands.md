@@ -32,7 +32,7 @@ Role required: it\_demand\_user
 
 2.  On the Demand form, fill in the **Name**, **Description**, and **Business case** fields.
 
-    For a description of the field names, see [Demand form](../reference/demand-form.md).
+    For a description of the field names, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/demand-form.md).
 
 3.  Select **Save**.
 
@@ -43,7 +43,7 @@ Role required: it\_demand\_user
 
 The similar demands identified by Now Assist are displayed in the top banner and the Similar Demands related list.
 
-![List of similar records identified by Now Assist.](../../now-assist-spm/images/similar-demand-new-color.png)
+![List of similar records identified by Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../now-assist-spm/images/similar-demand-new-color.png)
 
 **Note:**
 
@@ -54,32 +54,32 @@ The similar demands identified by Now Assist are displayed in the top banner and
 
 View the full details of the identified similar demand records by selecting the demand number link from the Similar Demands related list.
 
-**Parent Topic:**[Use Demand Management](../reference/r_UsingDemandManagement.md)
+**Parent Topic:**[Use Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/r_UsingDemandManagement.md)
 
 **Related topics**  
 
 
-[Assess demands](../concept/c_AssessingDemands.md)
+[Assess demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/c_AssessingDemands.md)
 
-[Create a demand](t_CreatingDemands.md)
+[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-[View demands](t_ViewDemands.md)
+[View demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewDemands.md)
 
-[Add details to demands](../concept/c_EnhancingDemands.md)
+[Add details to demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/c_EnhancingDemands.md)
 
-[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/ridac-entries-for-demand.md)
 
-[Reset a demand to Draft state](reset-demand-to-draft-state.md)
+[Reset a demand to Draft state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/reset-demand-to-draft-state.md)
 
-[Delete demands](t_DeletingDemands.md)
+[Delete demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_DeletingDemands.md)
 
-[Move and resize a demand](t_MoveAndResizeADemand.md)
+[Move and resize a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_MoveAndResizeADemand.md)
 
-[Train the similarity solution for Demand Management to find similar demands](train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/train-similarity-solution-dm.md)
 
-[PPM PIWB template - Find similar demands](../../itbm-PI-workbench/task/ppm-piwb-demand.md)
+[PPM PIWB template - Find similar demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../itbm-PI-workbench/task/ppm-piwb-demand.md)
 
-[Summarize demands with demand summarization skill](demand-summary-demand-classic.md)
+[Summarize demands with demand summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-summary-demand-classic.md)
 
-[Associate AI systems with demands](associate-ai-systems-with-demands.md)
+[Associate AI systems with demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-ai-systems-with-demands.md)
 

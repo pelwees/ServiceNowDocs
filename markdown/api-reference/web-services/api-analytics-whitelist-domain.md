@@ -65,5 +65,5 @@ Select this check box to track which users make requests to this API. This optio
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Analyze REST and SOAP API usage](../concept/c_APIAnalytics.md)
+**Parent Topic:**[Analyze REST and SOAP API usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_APIAnalytics.md)
 

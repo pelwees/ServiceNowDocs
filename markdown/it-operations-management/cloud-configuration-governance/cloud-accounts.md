@@ -26,7 +26,7 @@ From a cloud account, you can:
 
 An advantage of cloud accounts is that you can group specified service accounts with only the regions \(datacenters\) that you want to allow cloud resources in. For example, your AWS account could have more than a dozen datacenters globally. However, you might use only one or two regions. To conform with your security and compliance rules, you might not want any resources provisioned to additional regions around the world.
 
-![Structure of a cloud account](../../cloud-management-v2-setup/image/cloud-acct-makeup.png)
+![Structure of a cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/image/cloud-acct-makeup.png)
 
 A cloud account can contain as many service accounts as necessary in the following scenarios:
 
@@ -85,35 +85,35 @@ You keep a cloud account in the **Draft** state until you are ready to make the 
 
 ## Set up an additional cloud account
 
-See [Set up an additional cloud account](../../cloud-management-v2-setup/task/add-cloud-account-cloud-mgt.md).
+See [Set up an additional cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/add-cloud-account-cloud-mgt.md).
 
 ## Add a datacenter to a cloud account
 
-At any time, you can add a logical datacenter to the cloud infrastructure that is represented by a cloud account. See [Add a datacenter to a cloud account](../../cloud-management-v2-setup/task/add-datacntr-to-cloud-acct.md).
+At any time, you can add a logical datacenter to the cloud infrastructure that is represented by a cloud account. See [Add a datacenter to a cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/add-datacntr-to-cloud-acct.md).
 
 ## Set capacity limits on user requests for resources
 
 Capacity limits place restrictions on the attributes of cloud resources such as the number of virtual machines, virtual CPUs, or aggregate storage. You can set limits on resources separately for each logical datacenter in a cloud account.
 
-[Set capacity limits on user requests for resources](../../cloud-management-v2-setup/task/set-capacity-limits-cloud-mgt.md)
+[Set capacity limits on user requests for resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/set-capacity-limits-cloud-mgt.md)
 
--   **[Service categories discovered in AWS](../reference/aws-discovered-services.md)**  
+-   **[Service categories discovered in AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/aws-discovered-services.md)**  
 The Discovery process discovers AWS services.
--   **[Service categories discovered in Azure](../reference/azure-discovered-services.md)**  
+-   **[Service categories discovered in Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/azure-discovered-services.md)**  
 The Discovery process discovers Microsoft Azure services.
 
-**Parent Topic:**[Cloud Provisioning and Governance administration guide](cloud-configuration.md)
+**Parent Topic:**[Cloud Provisioning and Governance administration guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-configuration.md)
 
 **Related topics**  
 
 
-[Domain separation and Cloud Provisioning and Governance](domain-separation-cloud-management.md)
+[Domain separation and Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-separation-cloud-management.md)
 
-[Domain separation in Cloud Provisioning and Governance - considerations for service providers](../reference/cloud-mgmt-dom-sep-recommend.md)
+[Domain separation in Cloud Provisioning and Governance - considerations for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/cloud-mgmt-dom-sep-recommend.md)
 
-[Cloud Provisioning and Governance Recipes](../reference/cloud-mgmt-recipes-day-2.md)
+[Cloud Provisioning and Governance Recipes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/cloud-mgmt-recipes-day-2.md)
 
-[Cloud Admin Portal](cloud-admin-portal.md)
+[Cloud Admin Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-admin-portal.md)
 
-[Moving Cloud Provisioning and Governance content across environments](move-content-intro.md)
+[Moving Cloud Provisioning and Governance content across environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/move-content-intro.md)
 

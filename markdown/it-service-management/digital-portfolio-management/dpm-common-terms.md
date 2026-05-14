@@ -206,5 +206,5 @@ An abstract and ideally visual representation \(model\) of how an organization d
 Typically represents the various elements of how an organization operates. It usually incorporates strategy positions such as the innovation model, degree of intelligent automation, industry alignment, provider delivery models, and the business expectations of IT.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md)
+</table>**Parent Topic:**[Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md)
 

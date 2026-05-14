@@ -21,13 +21,13 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 ## About this task
 
-To assign a bot process to a queue from the Queues menu, see [Assign a bot process to a queue from Queues menu in RPA Hub](assign-botprocess-queue.md).
+To assign a bot process to a queue from the Queues menu, see [Assign a bot process to a queue from Queues menu in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/assign-botprocess-queue.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Bot Process**.
 
@@ -40,14 +40,14 @@ To assign a bot process to a queue from the Queues menu, see [Assign a bot proce
 7.  Select **Save**.
 
 
-**Parent Topic:**[Adding details to your bot process in RPA Hub](../concept/post-req-bot-process-rpa.md)
+**Parent Topic:**[Adding details to your bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/post-req-bot-process-rpa.md)
 
 **Related topics**  
 
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/queue-form.md)
 
-[Unassign a bot process from a queue in RPA Hub](unassign-botprocess-queue.md)
+[Unassign a bot process from a queue in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/unassign-botprocess-queue.md)
 
-[Queue implementation in RPA Hub](../concept/queues-implement-rpa.md)
+[Queue implementation in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/queues-implement-rpa.md)
 

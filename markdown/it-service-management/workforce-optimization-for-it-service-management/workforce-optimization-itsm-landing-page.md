@@ -31,31 +31,31 @@ Workforce Optimization for ITSM enables you to do these tasks:
 
 <table id="table_t5s_nxw_1yb" class="nav-card"><tbody><tr><td>
 
-[Optimize your workforce![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how managers can use Workforce Optimization for ITSM](exploring-workforce-optimization-wfo-itsm.md)
+[Optimize your workforce![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn how managers can use Workforce Optimization for ITSM](exploring-workforce-optimization-wfo-itsm.md)
 
 </td><td>
 
-[Channels![](../../../reuse/icons/brand-icons/ind-service-provider.svg) Route work to specific groups so that the right work goes to the right agent](../concept/exploring-channels-configurable-workforce-optimization-itsm.md)
+[Channels![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/ind-service-provider.svg) Route work to specific groups so that the right work goes to the right agent](../concept/exploring-channels-configurable-workforce-optimization-itsm.md)
 
 </td></tr><tr><td>
 
-[Schedule![](../../../reuse/icons/brand-icons/bus-calendar.svg) Manage your agents' schedule effectively](../concept/explore-schedule-configurable-wfo-itsm.md)
+[Schedule![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-calendar.svg) Manage your agents' schedule effectively](../concept/explore-schedule-configurable-wfo-itsm.md)
 
 </td><td>
 
-[Work scheduler![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Assign complex work items to agents based on their skills and availability](../concept/work-scheduling-wfo-itsm.md)
+[Work scheduler![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-1-1-meetings.svg) Assign complex work items to agents based on their skills and availability](../concept/work-scheduling-wfo-itsm.md)
 
 </td></tr><tr><td>
 
-[Teams![](../../../reuse/icons/brand-icons/bus-3-person.svg) Organize your teams into assignment groups](../concept/explore-teams-configurable-workforce-optimization-itsm.md)
+[Teams![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-3-person.svg) Organize your teams into assignment groups](../concept/explore-teams-configurable-workforce-optimization-itsm.md)
 
 </td><td>
 
-[Coaching![](../../../reuse/icons/brand-icons/bus-learn.svg) Assess the quality of your teams' completed interactions](../concept/explore-coaching-configurable-workforce-optimization-itsm.md)
+[Coaching![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-learn.svg) Assess the quality of your teams' completed interactions](../concept/explore-coaching-configurable-workforce-optimization-itsm.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Get details about Workforce Optimization for ITSM components such as roles, tables, and system properties](../concept/advanced-configuration-workforce-optimization-itsm.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Get details about Workforce Optimization for ITSM components such as roles, tables, and system properties](../concept/advanced-configuration-workforce-optimization-itsm.md)
 
 </td><td>
 

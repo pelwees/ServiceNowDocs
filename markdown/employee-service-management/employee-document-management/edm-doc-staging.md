@@ -65,7 +65,7 @@ Document Type
 
 The document type you want associated with the employee document.Document types categorize your employee documents and determine access and retention.
 
- See [Define policies for a document type](../concept/hr-doc-management-config.md#).
+ See [Define policies for a document type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/hr-doc-management-config.md#).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Configuration
 
 </td><td>
 
-The name of that identifies your employee document bulk import configuration. See [Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#).
+The name of that identifies your employee document bulk import configuration. See [Configuring employee document management bulk import with source document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-configuration.md#).
 
 </td></tr><tr><td>
 
@@ -155,7 +155,7 @@ Domain
 
 </td><td>
 
-Automatically populated via domain separation and identifies the specific domain you are configuring employee documentation bulk uploads for.For more information on domain separation, see [Domain Separation and HR Service Delivery](../concept/hr-domain-separation.md).
+Automatically populated via domain separation and identifies the specific domain you are configuring employee documentation bulk uploads for.For more information on domain separation, see [Domain Separation and HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/hr-domain-separation.md).
 
 </td></tr></tbody>
 </table>9.  Click **Validate** to ensure that the employee and document type are correct.
@@ -169,5 +169,5 @@ Automatically populated via domain separation and identifies the specific domain
 11. After reviewing and determining the staging records look correct, click the **Start capture job** related link to start the import process.
 
 
-**Parent Topic:**[Employee document management bulk imports](../concept/edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/edm-bulk-uploads.md)
 

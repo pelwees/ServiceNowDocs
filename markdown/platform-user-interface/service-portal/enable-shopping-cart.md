@@ -18,10 +18,10 @@ The shopping cart widget is enabled automatically for instances upgrading to Ist
 To enable the shopping cart for a catalog item:
 
 1.  Navigate to a catalog item on the Service Catalog page in Service Portal.
-2.  CTRL+right-click a catalog item widget to open the [widget instance options](c_ConfigureWidgetInstances.md).
+2.  CTRL+right-click a catalog item widget to open the [widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
 3.  Select or clear the **Show Add Cart Button** option to enable or disable the shopping cart for that particular catalog item.
 
-![Catalog item widget with the shopping cart item selected](../image/CatalogItemCartOption.png "Catalog item cart option")
+![Catalog item widget with the shopping cart item selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/CatalogItemCartOption.png "Catalog item cart option")
 
 To enable the shopping cart in the portal header:
 
@@ -41,12 +41,12 @@ To enable the shopping cart in the portal header:
     Set the value to **false** to hide the shopping cart.
 
 
-![Header menu with shopping cart value set to true in the additional options section](../image/HeaderMenuShoppingCart.png "Shopping cart in the header menu")
+![Header menu with shopping cart value set to true in the additional options section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/HeaderMenuShoppingCart.png "Shopping cart in the header menu")
 
-**Parent Topic:**[SC Shopping Cart widget](sc-shopping-cart.md)
+**Parent Topic:**[SC Shopping Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-shopping-cart.md)
 
 **Related topics**  
 
 
-[Enable automatic updates to the shopping cart](../task/enable-auto-update-cart.md)
+[Enable automatic updates to the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-auto-update-cart.md)
 

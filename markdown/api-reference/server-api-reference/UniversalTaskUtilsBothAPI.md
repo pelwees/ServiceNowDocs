@@ -19,13 +19,13 @@ With the ServiceNow Universal Task application, agents can create tasks for empl
 
 Using this script include you can change the state of active universal tasks to "Complete" or "Cancelled", obtain all active universal tasks for a specified parent task, check whether a parent universal task has any children, and apply templates to a universal task record. You can use these methods in scripts and in the Visable condition builders on the **Tab configuration** form to manage the data that appears on the **Universal Task** tab. For additional information, see [Add a Task tab on the Standard Ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-stdtktpage-for-ut.md).
 
-![Tab Configuration conditional builder example](../image/tab_config-method-imp.png)
+![Tab Configuration conditional builder example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../image/tab_config-method-imp.png)
 
 You can use this script include in both scoped and global applications. The Universal Task application \(sn\_uni\_task\) must be installed on the associated instance to have access to this script include. You must always specify the `sn_uni_task` namespace when calling methods in this API.
 
 For additional information on the Universal Task application, see [Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-landing.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## UniversalTaskUtils - applyTemplate\(String templateSysId, GlideRecord uniTaskGr\)
 
@@ -89,7 +89,7 @@ This code example shows a function that acquires, and then applies, the Feedback
 
 Returns the active child task records, in the form of a GlideRecord, for the specified parent ticket.
 
-You can then use the GlideRecord API, [scoped](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [global](../../GlideRecord/concept/c_GlideRecordAPI.md#) depending on the calling application's scope, to access the returned data, such as using the getRowCount\(\) method to count active tasks.
+You can then use the GlideRecord API, [scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) depending on the calling application's scope, to access the returned data, such as using the getRowCount\(\) method to count active tasks.
 
 |Name|Type|Description|
 |----|----|-----------|

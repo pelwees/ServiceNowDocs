@@ -33,9 +33,9 @@ The schedule assigned to each user can be understood using the following informa
     This related list can be seen in the Resource Manager view of the user profile.
 
 
-If there are no entries in the Schedules related list, the value provided for the **Schedule** field is used to determine the resource schedule. If the Schedule field is empty too, then the schedule specified in the **Default Schedule Name \(com.snc.resource\_management.default\_schedule\)** property is applied as the resource schedule. To understand how to modify this property value, see [Specify the default resource management schedule](c_UsingResourceSchedules.md#).
+If there are no entries in the Schedules related list, the value provided for the **Schedule** field is used to determine the resource schedule. If the Schedule field is empty too, then the schedule specified in the **Default Schedule Name \(com.snc.resource\_management.default\_schedule\)** property is applied as the resource schedule. To understand how to modify this property value, see [Specify the default resource management schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_UsingResourceSchedules.md#).
 
-**Parent Topic:**[Resource Management classic](c_ResourceManagement.md)
+**Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
 ## Custom schedules for resources
 
@@ -47,7 +47,7 @@ The value specified for the **Schedule** field on a user profile overrides the s
 
 **Note:** The **Time zone** field of a schedule is recommended to be set to **Floating**.
 
-If necessary, the administrator can create a hierarchy of schedules. This is useful if you want users to have a primary schedule such as Monday-Friday 8:00-17:00 and a secondary schedule such as Saturday-Sunday 12:00-16:00. See [Custom schedule hierarchy](c_UsingResourceSchedules.md#section_hks_2lv_nsb).
+If necessary, the administrator can create a hierarchy of schedules. This is useful if you want users to have a primary schedule such as Monday-Friday 8:00-17:00 and a secondary schedule such as Saturday-Sunday 12:00-16:00. See [Custom schedule hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_UsingResourceSchedules.md#section_hks_2lv_nsb).
 
 ### Custom schedule hierarchy
 
@@ -55,9 +55,9 @@ To create a schedule hierarchy for any user, use the Schedules related list. Cre
 
 For example, Alene's usual schedule is 8-5 weekdays, which is specified in the **Schedule** field of their user profile. On top of the usual work, Alene also has to attend a site check every Saturday. The schedule for this appointment can be created from the Schedules related list.
 
-![Resource schedule hierarchy.](../image/resource-schedules.png "Custom schedule hierarchy example")
+![Resource schedule hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/resource-schedules.png "Custom schedule hierarchy example")
 
-![Custom schedule entry.](../image/custom-schedule-entry.png "Schedule entry within a custom schedule")
+![Custom schedule entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/custom-schedule-entry.png "Schedule entry within a custom schedule")
 
 ## Specify the default resource management schedule
 

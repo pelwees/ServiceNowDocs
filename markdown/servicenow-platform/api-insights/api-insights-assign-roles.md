@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Users with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin, sn\_api\_insights\_ws.api\_mgmt\_architect, or sn\_cmdb\_admin roles can use the API Insights application. See [Exploring API Insights](../concept/api-insights-explore.md).
+Users with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin, sn\_api\_insights\_ws.api\_mgmt\_architect, or sn\_cmdb\_admin roles can use the API Insights application. See [Exploring API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../concept/api-insights-explore.md).
 
 ## Procedure
 

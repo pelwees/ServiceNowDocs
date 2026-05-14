@@ -68,7 +68,7 @@ gs.info("Enabled M2M supplier support: " + m2mEnableUtil.enableM2MSupplierSuppor
 ```
 
 </td></tr></tbody>
-</table>    ![Fix script details page](../image/run-fix-script.png)
+</table>    ![Fix script details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/run-fix-script.png)
 
 4.  Save and select **Run Fix Script**.
 
@@ -79,12 +79,12 @@ gs.info("Enabled M2M supplier support: " + m2mEnableUtil.enableM2MSupplierSuppor
 
 Verify if the version record is created for `M2MSupplierSupportUtil script include`.
 
-**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
+**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md)
 
 **Related topics**  
 
 
-[Verify version record](verify-version-record.md)
+[Verify version record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/verify-version-record.md)
 
-[Remove the unique constraint from Email Domain](remove-unique-constraint.md)
+[Remove the unique constraint from Email Domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-unique-constraint.md)
 

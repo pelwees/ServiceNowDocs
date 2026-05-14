@@ -32,15 +32,15 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 3.  Create a copy of a skill and customize the input fields.
 
-    1.  On the skills card that you want to copy, select the More actions icon \(![More actions icon.](../image/more_vertical_icon.png)\)..
+    1.  On the skills card that you want to copy, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/more_vertical_icon.png)\)..
 
-    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](../image/more_vertical_icon.png)\), and then select **Make copy**.
+    2.  In the Active skills section, locate the skill that you'd like to copy and select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/more_vertical_icon.png)\), and then select **Make copy**.
 
         The copied skill opens and a guided setup leads you through the configuration of the general details, input, prompt, availability, display, review, and activation of the customized skill. If you complete the entire walk-through, the skill is activated.
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/input-triggers-now-assist-spo.md).
 
     1.  Enter a name and description for the skill.
 
@@ -58,7 +58,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
         Add multiple base input fields, as necessary.
 
-        ![Choose input screen.](../image/na-choose-input-spo.png "Choose input step")
+        ![Choose input screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/na-choose-input-spo.png "Choose input step")
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -194,10 +194,10 @@ Requester SR closed
     -   Sourcing event
     -   Purchase order
 
-**Parent Topic:**[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md)
+**Parent Topic:**[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-now-assist-for-spo.md)
 
 **Related topics**  
 
 
-[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md)
+[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/input-triggers-now-assist-spo.md)
 

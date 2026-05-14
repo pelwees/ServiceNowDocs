@@ -18,7 +18,7 @@ Review and prioritize the items of your portfolio plan pipeline to add them to t
 
 ## Before you begin
 
--   [Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+-   [Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 -   Ensure that the planning items in the Prioritization page are sorted by the Rank column in ascending order.
 
 Role required: sn\_align\_core.apw\_user
@@ -51,7 +51,7 @@ Action
 
 Update the **Planning state** field of the item.
 
- ![Planning state update in Prioritization page.](../../spw-prioritization/images/backlog-planning-state.png)
+ ![Planning state update in Prioritization page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/backlog-planning-state.png)
 
 </td></tr><tr><td id="d274193e157">
 
@@ -61,7 +61,7 @@ Update the **Planning state** field of the item.
 
 Update the **Planning state** field of the item.
 
- ![Planning state in Prioritization.](../../spw-prioritization/images/prioritize-item-hierarchy.png)
+ ![Planning state in Prioritization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/prioritize-item-hierarchy.png)
 
 </td></tr></tbody>
 </table>    Once you mark a planning item as **Prioritized**, it is automatically added to your portfolio roadmap, based on the values in the **Approved start date** and **Approved end date** fields.
@@ -80,6 +80,6 @@ Update the **Planning state** field of the item.
 
     3.  Double-click one of the selected cells and choose a state.
 
-    ![Update planning state of multiple rows at once in Prioritization page.](../../spw-prioritization/images/backlog-multi-row-update.gif)
+    ![Update planning state of multiple rows at once in Prioritization page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/backlog-multi-row-update.gif)
 
 

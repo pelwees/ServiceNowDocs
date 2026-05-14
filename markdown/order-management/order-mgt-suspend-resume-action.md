@@ -58,5 +58,5 @@ For an inflight change of the suspend or resume type order, only Cancellation is
 
 In the order creation process for the suspend or resume action, you can use the external inventory ID in the payload instead of the system-generated ID for the inventory.
 
-**Parent Topic:**[Managing post-fulfillment order changes](managing-orders.md)
+**Parent Topic:**[Managing post-fulfillment order changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 

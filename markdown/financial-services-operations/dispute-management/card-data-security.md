@@ -19,15 +19,15 @@ The Card data security application embeds a tokenization service that enables Fi
 
 <table id="table_wfl_cxr_4fc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Card Data Security](exploring-card-data-security.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Card Data Security](exploring-card-data-security.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Card Data Security](configuring-card-data-security.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Card Data Security](configuring-card-data-security.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Manage and modify Card Data Security](managing-card-data-security.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Manage and modify Card Data Security](managing-card-data-security.md)
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ The Card data security application embeds a tokenization service that enables Fi
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed](card-data-security-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed](card-data-security-reference.md)
 
 </td><td>
 

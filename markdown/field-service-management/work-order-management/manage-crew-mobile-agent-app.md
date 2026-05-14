@@ -15,9 +15,9 @@ breadcrumb: [ServiceNow Agent mobile app, Completing work on mobile, Use, Field 
 
 Add equipment or members to your crew using the ServiceNow Agent application.
 
-[Add members or equipment to your crew](add-members-eq-crew.md#)
+[Add members or equipment to your crew](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-members-eq-crew.md#)
 
-[Remove or release members and equipment from your crew](remove-members-eq-crew.md#)
+[Remove or release members and equipment from your crew](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/remove-members-eq-crew.md#)
 
-[Release a task crew member](remove-members-eq-crew.md#)
+[Release a task crew member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/remove-members-eq-crew.md#)
 

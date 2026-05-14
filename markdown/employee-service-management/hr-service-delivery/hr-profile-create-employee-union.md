@@ -19,7 +19,7 @@ Use Employee Union Membership to identify employees that belong to a union and a
 
 Role required: admin
 
-[Create employee union memberships](labor-union-employee-membership.md)
+[Create employee union memberships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-employee-membership.md)
 
 ## Procedure
 
@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select **New** or an existing HR profile.
 
-    **Note:** For information on the fields to complete an HR profile, see [Add or modify an HR profile](t_CreateOrModifyAUserProfile.md).
+    **Note:** For information on the fields to complete an HR profile, see [Add or modify an HR profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateOrModifyAUserProfile.md).
 
 3.  After creating a new or editing an existing HR profile, select **Save**.
 
@@ -38,5 +38,5 @@ Role required: admin
 5.  After entering the required information, select **Save** or **Submit**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

@@ -90,9 +90,9 @@ Option for enabling the post-provision operation you want invoked.
 
     2.  Select the post-provision operation to update.
 
-        All attributes for the selected operation appear in the Operations list. You can either create expression mappings \(shown in the **Mapping** column\) for an attribute or can you generate variables for an attribute. See [Manage operation attributes](manage-attributes.md) for more information.
+        All attributes for the selected operation appear in the Operations list. You can either create expression mappings \(shown in the **Mapping** column\) for an attribute or can you generate variables for an attribute. See [Manage operation attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/manage-attributes.md) for more information.
 
-        ![Post-provisioning attributes](../image/manage-attributes-post-provision.png)
+        ![Post-provisioning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/manage-attributes-post-provision.png)
 
     3.  On the Operation Attributes form, edit the values in the **Mapping** field as needed.
 

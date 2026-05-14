@@ -21,7 +21,7 @@ Confirm the following:
 
 -   Discovery Admin Workspace is using version 1.9.0 or later.
 -   ServiceNow AI Platform® is using XP9, YP4, or later than YP4.
--   The **discovery.use.event.processing** system property is turned on. For more information, see [Configure Discovery to use Event Framework](t_ConfigureDiscoveryEventFramework.md).
+-   The **discovery.use.event.processing** system property is turned on. For more information, see [Configure Discovery to use Event Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigureDiscoveryEventFramework.md).
 
 Role required: discovery\_admin
 
@@ -46,5 +46,5 @@ When using a single queue, Cloud Discovery jobs frequently have higher priority 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Optimizing Discovery load for Event Framework](../concept/c_FineTuneDiscoLoadEF.md)
+**Parent Topic:**[Optimizing Discovery load for Event Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_FineTuneDiscoLoadEF.md)
 

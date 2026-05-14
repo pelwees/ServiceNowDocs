@@ -113,5 +113,5 @@ A description for the configuration.
     .
 
 
-**Parent Topic:**[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+**Parent Topic:**[Skill sensing for learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/skill-sensing-for-learning-content.md)
 

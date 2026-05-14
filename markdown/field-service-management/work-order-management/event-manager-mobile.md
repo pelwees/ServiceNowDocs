@@ -25,11 +25,11 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap the territory or assignment group that the agent you want to create a personal event for is a member of.
 
-3.  Tap the more actions icon \(![more actions](../image/more-action-manager.png)\) next to the agent that you want to create an event for.
+3.  Tap the more actions icon \(![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/more-action-manager.png)\) next to the agent that you want to create an event for.
 
 4.  Tap **View schedule**.
 
-5.  Tap the plus sign \(![plus sign](../image/add-personal-event-mobile.png)\).
+5.  Tap the plus sign \(![plus sign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/add-personal-event-mobile.png)\).
 
 6.  On the form, fill in the fields.
 

@@ -17,11 +17,11 @@ If you are the Business Continuity Management application user, you can view the
 
 You can view the **Properties** menu option in **General Administration** as shown in the example.
 
-![General Administration module.](../image/gen-admin-module.png)
+![General Administration module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/gen-admin-module.png)
 
-You can select the **Properties** module to view and configure the BCM application properties as shown in the example.![Properties module.](../image/properties-module.png)
+You can select the **Properties** module to view and configure the BCM application properties as shown in the example.![Properties module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/properties-module.png)
 
-For more information on BCM properties, see [Properties installed with BCM](../reference/properties-bcm.md).
+For more information on BCM properties, see [Properties installed with BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/properties-bcm.md).
 
-**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 

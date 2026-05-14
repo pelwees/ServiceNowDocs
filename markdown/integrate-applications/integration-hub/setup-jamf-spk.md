@@ -44,6 +44,6 @@ Integrate the ServiceNow instance and Jamf instance using the Jamf credential to
 
     **Note:** If required, you can get token and revoke token by creating a new credential record for the default connection ad credential alias record.
 
-    ![Get and revoke token.](../image/csd2-jamf-cred2.png)
+    ![Get and revoke token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-jamf-cred2.png)
 
 

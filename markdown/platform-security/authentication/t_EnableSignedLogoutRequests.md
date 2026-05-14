@@ -33,6 +33,6 @@ If your IdP requires signed logout requests, use the IdP's metdata to set the fo
 
 3.  Click **Update**.
 
-4.  [Install a Service Provider \(SP\) key store](t_InstallASPKeystoreSigningSAMLReqs.md).
+4.  [Install a Service Provider \(SP\) key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_InstallASPKeystoreSigningSAMLReqs.md).
 
 

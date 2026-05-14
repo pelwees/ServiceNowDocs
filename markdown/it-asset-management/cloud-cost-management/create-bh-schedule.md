@@ -89,5 +89,5 @@ Description of the schedule.
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Improve resource usage with Business hours](../concept/improve-res-use-business.md)
+**Parent Topic:**[Improve resource usage with Business hours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/improve-res-use-business.md)
 

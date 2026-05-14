@@ -18,7 +18,7 @@ Elaborate or shorten content within a Knowledge article using the Now Assist con
 
 ## Before you begin
 
-The Now Assist Knowledge content recommendation skill required to enable the context menu feature is activated by the admin. To configure the skill see [Configure skill for Now Assist context menu](Now-Assist-configuring-context-menu-skill.md) the elaborate and shorten function of the context menu feature is available for all article templates.
+The Now Assist Knowledge content recommendation skill required to enable the context menu feature is activated by the admin. To configure the skill see [Configure skill for Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-context-menu-skill.md) the elaborate and shorten function of the context menu feature is available for all article templates.
 
 Role required: author or agent
 
@@ -28,16 +28,16 @@ Role required: author or agent
 
 2.  Select the content that you want to elaborate or shorten from any of the fields in the form.
 
-    ![Use Now Assist to Elaborate or shorten content in the Knowledge article.](../image/NA-elaborate-shorten-content-1.png)
+    ![Use Now Assist to Elaborate or shorten content in the Knowledge article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-elaborate-shorten-content-1.png)
 
-3.  Select the Now Assist icon ![Now Assist icon](../image/Now_Assist_icon.png) and select either **Elaborate** or **Shorten** from the context menu. ![Now Assist elaborates content in a Knowledge article to make it descriptive.](../image/NA-elaborate-shorten-content-2.png)
+3.  Select the Now Assist icon ![Now Assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/Now_Assist_icon.png) and select either **Elaborate** or **Shorten** from the context menu. ![Now Assist elaborates content in a Knowledge article to make it descriptive.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-elaborate-shorten-content-2.png)
 
-    ![Now Assist elaborates content in a Knowledge article to make it descriptive.](../image/NA-elaborate-shorten-content-2.png)
+    ![Now Assist elaborates content in a Knowledge article to make it descriptive.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-elaborate-shorten-content-2.png)
 
 4.  Select **Insert** to add the Now Assist generated content to the article.
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../concept/using-now-assist-in-km.md)
 
 ## Supported tags
 

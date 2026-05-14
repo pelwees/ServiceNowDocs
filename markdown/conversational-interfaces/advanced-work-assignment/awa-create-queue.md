@@ -182,7 +182,7 @@ Max Wait Time
 
 </td><td>
 
-Maximum amount of time that all available agents have to accept or reject a chat request. After time runs out, the requester receives the value in either the **Max wait time message** field or the **No Agents Available Message** field defined in [Agent Chat settings](../../conversational-interfaces/task/ac-configure-agent-chat.md).**Note:** The **Max Wait Time** field is available after you associate the queue to the chat service channel.
+Maximum amount of time that all available agents have to accept or reject a chat request. After time runs out, the requester receives the value in either the **Max wait time message** field or the **No Agents Available Message** field defined in [Agent Chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../conversational-interfaces/task/ac-configure-agent-chat.md).**Note:** The **Max Wait Time** field is available after you associate the queue to the chat service channel.
 
 </td></tr></tbody>
 </table>4.  Select **Submit** for a new queue or **Update** to change the queue.
@@ -192,8 +192,8 @@ Maximum amount of time that all available agents have to accept or reject a chat
 
 ## What to do next
 
--   Define the [**Assignment Eligibility**](awa-specify-assignment-eligibility.md).
--   Optionally, define the [**Work Item Sort Order**](awa-set-work-sort-order.md).
--   Optionally, define the [**Queue Triggers**](awa-create-queue-triggers.md).
--   Optionally, define the [**Set Agent Affinity rules**](awa-set-agent-affinity-for-queue.md).
+-   Define the [**Assignment Eligibility**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-specify-assignment-eligibility.md).
+-   Optionally, define the [**Work Item Sort Order**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-set-work-sort-order.md).
+-   Optionally, define the [**Queue Triggers**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-queue-triggers.md).
+-   Optionally, define the [**Set Agent Affinity rules**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-set-agent-affinity-for-queue.md).
 

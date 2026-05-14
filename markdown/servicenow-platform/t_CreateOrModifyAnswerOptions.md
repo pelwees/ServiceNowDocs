@@ -73,18 +73,18 @@ On survey questionnaires, the answer options for a question appear in order from
 
 If you use survey result calculations, ensure the question **Scale definition** is set appropriately based on the answer options. In the previous example, if you want the answer option **Good** to earn the highest score, the scale definition should be **Low** because **Good** has the smallest value.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestion.md)
 
 **Related topics**  
 
 
-[Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
-[Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
+[Add a metric category and metric in the question bank for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-for-survey.md)
 
-[Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
+[Change the order of survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfSurveyQuestions.md)
 

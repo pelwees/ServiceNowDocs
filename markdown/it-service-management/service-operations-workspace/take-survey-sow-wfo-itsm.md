@@ -29,7 +29,7 @@ You can respond to surveys or your assessments. You can access surveys available
 
 2.  Access your profile.
 
-    For more information accessing your profile, see [Access your profile in Service Operations Workspace](access-agent-profile-sow-wfo-itsm.md).
+    For more information accessing your profile, see [Access your profile in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/access-agent-profile-sow-wfo-itsm.md).
 
 3.  Select the **Assessments** tab.
 
@@ -46,5 +46,5 @@ You can respond to surveys or your assessments. You can access surveys available
 7.  Complete the survey.
 
 
-**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](../concept/wfo-itsm-service-operations-workspace.md)
+**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/wfo-itsm-service-operations-workspace.md)
 

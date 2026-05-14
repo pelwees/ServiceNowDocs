@@ -17,7 +17,7 @@ Test Management 2.0 offers a few enhancements over Test Management 1.0.
 
 These enhancements can be divided into the following categories:
 
--   [Functionality enhancements](../reference/functionality-enhancements-test.md)
--   [Data model enhancements](../reference/data-model-enhancements-test.md)
--   [Usability enhancements](../reference/usability-enhancements-test.md)
+-   [Functionality enhancements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../reference/functionality-enhancements-test.md)
+-   [Data model enhancements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../reference/data-model-enhancements-test.md)
+-   [Usability enhancements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../reference/usability-enhancements-test.md)
 

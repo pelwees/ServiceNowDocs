@@ -37,7 +37,7 @@ To support domain separation for particular widgets in Automation Center, you mu
 
 **Note:** Action Center and Connection Manager encounter challenges due to process separation in flows. In Action Center, the domain data from both global and current session domains is displayed. In Connection Manager, only current session's domain data is displayed.
 
-**Parent Topic:**[Automation Center reference](automation-center-reference.md)
+**Parent Topic:**[Automation Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-reference.md)
 
 **Related topics**  
 

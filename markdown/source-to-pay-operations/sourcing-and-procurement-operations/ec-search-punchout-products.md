@@ -25,11 +25,11 @@ Role required: sn\_shop.shopper
 
 2.  In the search bar, search for any punchout product that you want to buy.
 
-    ![Employee Center search bar](../image/ec-punchout-search.png)
+    ![Employee Center search bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/ec-punchout-search.png)
 
 3.  The punchout products that match your search criteria are listed in the **Supplier site catalog** tab.
 
-    ![Supplier site catalog tab in Employee Center](../image/ec-punchout-search-results.png)
+    ![Supplier site catalog tab in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/ec-punchout-search-results.png)
 
     **Important:** Only cXML punchout products are displayed in the **Supplier site catalog** tab. The punchout products uploaded via API are not listed.
 
@@ -39,8 +39,8 @@ Role required: sn\_shop.shopper
 
     -   If you've installed Shopping Hub, you are redirected back to Shopping Hub from the supplier site to complete the checkout process.
     -   If you haven't installed Shopping Hub, you must complete the checkout process and place the order on the supplier site.
-    For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](../reference/ec-sh-checkout-flow.md).
+    For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/ec-sh-checkout-flow.md).
 
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](../concept/employee-center-integration-psm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/employee-center-integration-psm.md)
 

@@ -17,13 +17,13 @@ Service Operations Workspace enables agents to work on any incident created usin
 
 An application admin can integrate the Live Agent into the ServiceNow application by installing the com.glide.interaction.awa plugin. For more information about installing and enabling a plugin, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
-After the plugin installation, an inbox icon ![Inbox icon.](../../configurable-workforce-optimization-itsm/image/inbox-icon.jpg) appears in the sidebar of the Service Operations Workspace window.
+After the plugin installation, an inbox icon ![Inbox icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/inbox-icon.jpg) appears in the sidebar of the Service Operations Workspace window.
 
 By default, the status of the agent is Offline. To start the communication, the agent must modify the status to Available.
 
 When the customer reports an incident through Live Agent \(for example, through the Service Portal\), an incident is created automatically in the Inbox. The agent can then work on the incident by selecting **Accept** and chat with the user simultaneously to resolve the issue.
 
-![Live agent chat](../image/incoming-chat-ims.png)
+![Live agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/incoming-chat-ims.png)
 
 Once the agent accepts the chat, the Inbox is hidden, allowing the agent to focus on resolving the incident.
 
@@ -31,22 +31,22 @@ Once the agent accepts the chat, the Inbox is hidden, allowing the agent to focu
 
 For more information about Live Agent chat integration, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/migrate-from-connect-support.md).
 
-**Parent Topic:**[Operating IT services in your organization](enhancing-services-operations-in-organization.md)
+**Parent Topic:**[Operating IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enhancing-services-operations-in-organization.md)
 
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/play-guided-tour-sow.md)
 
-[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/add-quick-link.md)
 
-[Create a list in Service Operations Workspace](../task/create-list-sow.md)
+[Create a list in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-list-sow.md)
 
-[Interaction Management in Service Operations Workspace](interaction-sow.md)
+[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/interaction-sow.md)
 
-[Incident Management in Service Operations Workspace](incident-sow.md)
+[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/incident-sow.md)
 
-[Request Management in Service Operations Workspace](request-sow.md)
+[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/request-sow.md)
 
-[Change Management in Service Operations Workspace](change-sow.md)
+[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/change-sow.md)
 

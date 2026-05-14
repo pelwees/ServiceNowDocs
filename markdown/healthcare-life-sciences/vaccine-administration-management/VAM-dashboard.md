@@ -77,7 +77,7 @@ Scheduled Appointments
 
 </td><td>
 
-Single Score ![Single score icon.](../image/icon-single-score-report.png)
+Single Score ![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/icon-single-score-report.png)
 
 </td><td>
 
@@ -93,7 +93,7 @@ Completed Appointments
 
 </td><td>
 
-Single Score ![Single score icon.](../image/icon-single-score-report.png)
+Single Score ![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/icon-single-score-report.png)
 
 </td><td>
 
@@ -109,7 +109,7 @@ No-Show Appointments
 
 </td><td>
 
-Single Score ![Single score icon.](../image/icon-single-score-report.png)
+Single Score ![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/icon-single-score-report.png)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Appointments Trending
 
 </td><td>
 
-Column ![Column report icon.](../image/icon-column-report.png)
+Column ![Column report icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/icon-column-report.png)
 
 </td><td>
 
@@ -219,5 +219,5 @@ Select Multiple Input
 Filter the report results based on the selected clinician.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Vaccine Administration Management](using-vaccine-administration-management.md)
+</table>**Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 

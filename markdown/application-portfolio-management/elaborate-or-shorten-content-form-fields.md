@@ -115,9 +115,9 @@ Elaborate or shorten existing content
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../application-portfolio-management/image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../application-portfolio-management/image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Business Applications**.
 
@@ -133,7 +133,7 @@ Elaborate or shorten existing content
 
     -   **Elaborate**: Elaborates the selected text.
     -   **Shorten**: Shortens the selected text.
-    ![Elaborate or shorten description content.](../image/desc-field-nacm.png)
+    ![Elaborate or shorten description content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/desc-field-nacm.png)
 
 7.  Select the **Reasoning** field to perform any of the following tasks.
 
@@ -145,18 +145,18 @@ Elaborate or shorten existing content
     The business application data is saved.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
-[Business application form](../../application-portfolio-management/reference/eaw-reference/eaw-apprat-business-application-form.md)
+[Business application form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-apprat-business-application-form.md)
 
-[Create new business capability form](../../application-portfolio-management/reference/eaw-reference/eaw-cap-form.md)
+[Create new business capability form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-cap-form.md)
 
-[Create business process form](../../application-portfolio-management/reference/eaw-reference/eaw-business-process-form.md)
+[Create business process form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-business-process-form.md)
 
-[Create new value stream stage form](../../application-portfolio-management/reference/eaw-reference/eaw-create-new-value-stream-stage-form.md)
+[Create new value stream stage form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-create-new-value-stream-stage-form.md)
 
-[Create information object form](../../application-portfolio-management/reference/eaw-reference/eaw-information-object-form.md)
+[Create information object form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-information-object-form.md)
 

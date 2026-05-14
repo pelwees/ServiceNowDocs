@@ -27,7 +27,7 @@ TheWeb render type is the default and most widely used rendering mode for catalo
 
 A user can submit a request in the conversation mode \(by answering the questions in line\) in Virtual Agent.
 
-![Virtual Agent rendered as a conversation](../image/va-conversation-catalog.png)
+![Virtual Agent rendered as a conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-conversation-catalog.png)
 
 ## Catalog item request using a pop-up render type
 
@@ -35,7 +35,7 @@ A user can submit a catalog item request as a pop-up for items, which are not co
 
 **Note:** If you do not want to render your Virtual Agent conversation as a pop-up, set the **glide.sc.va.render\_type.legacy** property to true, which renders all non-conversational catalog items in the configured portal in a new tab.
 
-![Virtual Agent rendered as a pop-up](../image/va-popup-catalog.png)
+![Virtual Agent rendered as a pop-up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-popup-catalog.png)
 
 ## Catalog item request using a window render type
 
@@ -48,7 +48,7 @@ A catalog item is rendered as a window if it is of the following types:
 -   Wizard Launcher
 -   Standard Change Template
 
-![Virtual Agent rendered as a window](../image/va-window-catalog.png)
+![Virtual Agent rendered as a window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/va-window-catalog.png)
 
-**Parent Topic:**[Now Assist in Conversational Catalog Request](now-assist-in-conversational-catalog-request.md)
+**Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 

@@ -25,7 +25,7 @@ Role required: sp\_admin or admin
 
 2.  Hover over the widget that you want to defer load.
 
-3.  Select the **Form** icon![Form icon](../image/Form_icon.png) to open a new form.
+3.  Select the **Form** icon![Form icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/Form_icon.png) to open a new form.
 
 4.  Select the **Select the check box to defer load this widget** check box.
 
@@ -113,8 +113,8 @@ Define the custom skeleton loader. A default code is already available and can b
 
 Deferred loading of the widget is enabled.
 
--   **[Deferred loading of AI Search assets in Service Portal](defer-loading-ais-sp.md)**  
+-   **[Deferred loading of AI Search assets in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/defer-loading-ais-sp.md)**  
 Deferred loading of AI Search on the Service Portal delays the loading of certain AI Search assets until the main page content is loaded. This delay helps the page to load faster, thus improving user experience in the portal. st.
 
-**Parent Topic:**[Using portal widgets](../concept/service-portal-widgets.md)
+**Parent Topic:**[Using portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/service-portal-widgets.md)
 

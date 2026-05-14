@@ -17,19 +17,19 @@ The Personal Lines Claims application enables your organization to quickly set u
 
 <table class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how processors and adjusters use Personal Lines Claims.](exploring-personal-lines-claims.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how processors and adjusters use Personal Lines Claims.](exploring-personal-lines-claims.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Personal Lines Claims](setting-up-personal-lines-claims.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Personal Lines Claims](setting-up-personal-lines-claims.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-personal-lines-claims.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-personal-lines-claims.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](../../../use/application-content-packs/concept/fso-content-pack.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](../../../use/application-content-packs/concept/fso-content-pack.md)
 
 </td></tr></tbody>
 </table>

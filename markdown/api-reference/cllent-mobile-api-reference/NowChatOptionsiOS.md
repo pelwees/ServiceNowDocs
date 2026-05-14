@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - iOS, Mobile SDK API reference, API reference, API impl
 
 The NowChatConfiguration class enables you to configure options on a chat session, such as showing a prompt before closing a chat window, disabling features while using chat, applying different conversation options when using chat, and configuring UI components in NowChat.
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowChatConfiguration - NowChatConfiguration\(closePrompt: ClosePrompt?, disabledFeatures: \[Feature\]? = nil, conversationOptions: \[ConversationOption\]? = nil, uiConfiguration: UIConfiguration? = nil\)
 
@@ -39,11 +39,11 @@ closePrompt
 
 </td><td>
 
-[ClosePrompt?](NowChatOptionsiOS.md#)
+[ClosePrompt?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#)
 
 </td><td>
 
-Prompt to display before closing the associated chat window.Call the [NowChatConfiguration.ClosePrompt\(\)](NowChatOptionsiOS.md#) struct to define the value of this parameter.
+Prompt to display before closing the associated chat window.Call the [NowChatConfiguration.ClosePrompt\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#) struct to define the value of this parameter.
 
 For example:
 
@@ -111,7 +111,7 @@ uiConfiguration
 
 </td><td>
 
-[UIConfiguration?](NowChatOptionsiOS.md#)
+[UIConfiguration?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#)
 
 </td><td>
 
@@ -145,7 +145,7 @@ To use the default for both buttons, omit the **UIConfiguration** parameter in t
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatConfiguration\(\)](NowChatOptionsiOS.md#) method.|
+|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatConfiguration\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#) method.|
 
 The following code example shows how to call this method to configure the chat UI.
 
@@ -413,11 +413,11 @@ attachmentUploadButton
 
 </td><td>
 
-[AttachmentUploadButton?](NowChatOptionsiOS.md#)
+[AttachmentUploadButton?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#)
 
 </td><td>
 
-Configuration for the `AttachmentUploadButton` that is shown next to the text input while talking with a live agent.Call the [NowChatConfiguration - AttachmentUploadButton\(isVisible: Boolean = true\)](NowChatOptionsiOS.md#) method to define the value of this parameter.
+Configuration for the `AttachmentUploadButton` that is shown next to the text input while talking with a live agent.Call the [NowChatConfiguration - AttachmentUploadButton\(isVisible: Boolean = true\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsiOS.md#) method to define the value of this parameter.
 
 For example:
 

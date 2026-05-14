@@ -25,21 +25,21 @@ Role required: admin
 
 2.  Navigate to **Autocad layers**.
 
-3.  Select a layer and select the toggle off visibility icon ![Toggle off visibility icon.](../images/wsd-toggle-off-visibility-icon.png)\).
+3.  Select a layer and select the toggle off visibility icon ![Toggle off visibility icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-toggle-off-visibility-icon.png)\).
 
 4.  The layer is hidden and doesn’t appear on the CAD Editor preview.
 
     For example: Room A. Room A isn’t displayed for a selected layer.
 
-5.  To show a layer, select the toggle on visibility icon \(![Toggle on visibility icon.](../images/wsd-autocad-toggle-on-visibility-icon.png)\) option.
+5.  To show a layer, select the toggle on visibility icon \(![Toggle on visibility icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-autocad-toggle-on-visibility-icon.png)\) option.
 
 
-**Parent Topic:**[Configure CAD objects using the CAD Editor tab](../concept/cad-editor-v2-ovw.md)
+**Parent Topic:**[Configure CAD objects using the CAD Editor tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/cad-editor-v2-ovw.md)
 
 **Related topics**  
 
 
-[Isolate a layer in the CAD editor](isolate-layer.md)
+[Isolate a layer in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/isolate-layer.md)
 
-[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/editing-tools-cad-editor.md)
 

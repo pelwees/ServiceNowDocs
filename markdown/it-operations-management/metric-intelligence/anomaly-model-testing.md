@@ -44,7 +44,7 @@ Role required: evt\_mgmt\_user
 
 ## Result
 
-The bounds and the chart for the anomaly model test, appear in faint colors in Insights Explorer. Also, the upper and lower bounds that are calculated by the test, use a line pattern that is different than line pattern used for actual anomaly detection results. These differences let you distinguish between actual anomaly detection and anomaly model test results, if both are selected in the chart settings. ![Anomaly Model Testing results, which appear in faint colors compared to results of actual anomaly detection.](../image/AnomalyModelTestResult.png)
+The bounds and the chart for the anomaly model test, appear in faint colors in Insights Explorer. Also, the upper and lower bounds that are calculated by the test, use a line pattern that is different than line pattern used for actual anomaly detection results. These differences let you distinguish between actual anomaly detection and anomaly model test results, if both are selected in the chart settings. ![Anomaly Model Testing results, which appear in faint colors compared to results of actual anomaly detection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/AnomalyModelTestResult.png)
 
 ## What to do next
 
@@ -53,12 +53,12 @@ The bounds and the chart for the anomaly model test, appear in faint colors in I
 
     **Note:** Anomaly Model Testing results might be very similar to actual anomaly detection results. If you configure the chart to display both at the same time, as you move the mouse over the chart, it might be difficult to identify points of differences.
 
--   When you are satisfied with the anomaly test results, enable anomaly detection in the production environment, for the metrics and CIs specified in the test. See [Choose and configure metrics to monitor](configure-metric-monitors.md) for more details.
+-   When you are satisfied with the anomaly test results, enable anomaly detection in the production environment, for the metrics and CIs specified in the test. See [Choose and configure metrics to monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/configure-metric-monitors.md) for more details.
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 
 **Related topics**  
 
 
-[View metric values in the Insights Explorer](view-metrics-explorer.md)
+[View metric values in the Insights Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/view-metrics-explorer.md)
 

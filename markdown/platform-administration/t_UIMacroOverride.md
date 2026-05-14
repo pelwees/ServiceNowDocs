@@ -45,18 +45,18 @@ A UI macro can override formatters provided in the base system.
 
 This example shows the form that defines the existing approval summarizer formatter:
 
-![Approval summarizer formatter](../image/Formatter.png)
+![Approval summarizer formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/Formatter.png)
 
 Here is the form for the UI macro that overrides the approval summarizer formatter:
 
-![Override the formatter](../image/FormatterOverride.png)
+![Override the formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FormatterOverride.png)
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Formatters.md)
 
 **Related topics**  
 
 
-[Create a UI macro for a formatter](t_CreateAUIMacro.md)
+[Create a UI macro for a formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUIMacro.md)
 
-[Create a formatter and add it to a form](t_CreateAFormatter.md)
+[Create a formatter and add it to a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md)
 

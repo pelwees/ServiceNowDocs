@@ -55,15 +55,15 @@ Personalize landing, record, list, and case creation pages
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -71,15 +71,15 @@ Single-pane view
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -87,15 +87,15 @@ Integrate communication channels
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -103,15 +103,15 @@ Agent assist
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -122,15 +122,15 @@ Leverage UI Builder-   Edit component properties
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -138,15 +138,15 @@ Multi-tab view
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -154,15 +154,15 @@ List view
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -170,15 +170,15 @@ Record view
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -186,15 +186,15 @@ Case creation
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -202,15 +202,15 @@ Bulk case creation
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -218,15 +218,15 @@ Add checklists for HR cases
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -234,15 +234,15 @@ Contextual side panel
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)**Note:** Only a few features are available in the contextual side panel. For a new set of features introduced in the panel, migrate to Agent Workspace for HR Case Management \(Configurable\).
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)**Note:** Only a few features are available in the contextual side panel. For a new set of features introduced in the panel, migrate to Agent Workspace for HR Case Management \(Configurable\).
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -250,15 +250,15 @@ Create reminders to enable timely communication
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -266,15 +266,15 @@ Create additional cases while working on an HR case
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -282,15 +282,15 @@ Send email feature
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -298,15 +298,15 @@ Create and use interaction records
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -314,15 +314,15 @@ ML-driven personalizations
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -330,15 +330,15 @@ Supports employee document management
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -346,15 +346,15 @@ Agent chat
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -362,15 +362,15 @@ View Service Level Agreements\(SLAs\)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -378,15 +378,15 @@ Supports Conversational SMS service channel application
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -394,15 +394,15 @@ Custom My Lists
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -410,15 +410,15 @@ Document templates
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -426,34 +426,34 @@ Response templates
 
 </td><td>
 
-![No](../../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Get started
 
 <table id="table_rwk_drp_bwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Agent Workspace for HR Case Management.](agent-ws-hr-case-mgmt-exploring.md)
+[Explore ![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Agent Workspace for HR Case Management.](agent-ws-hr-case-mgmt-exploring.md)
 
 </td><td>
 
-[Configure ![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](setup-configurable-hr-agent-workspace.md)
+[Configure ![Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](setup-configurable-hr-agent-workspace.md)
 
 </td></tr><tr><td>
 
-[Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to use HR Agent Workspace.](agent-ws-hr-case-mgmt-use.md)
+[Use ![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to use HR Agent Workspace.](agent-ws-hr-case-mgmt-use.md)
 
 </td><td>
 
-[Reference ![Reference](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/agent-ws-reference.md)
+[Reference ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../reference/agent-ws-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

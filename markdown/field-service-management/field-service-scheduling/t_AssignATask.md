@@ -33,7 +33,7 @@ Role required: wm\_dispatcher, wm\_initiator\_qualifier\_dispatcher
 
 6.  Select **Assign**.
 
-    ![assign task pop up](../../field-service-management/image/assign-task.png)
+    ![assign task pop up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/assign-task.png)
 
 7.  In the **Assigned to** field, select the agent available to work on the task.
 

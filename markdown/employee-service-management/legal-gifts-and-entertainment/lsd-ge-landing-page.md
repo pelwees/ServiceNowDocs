@@ -19,23 +19,23 @@ The ServiceNow® Gifts and Entertainment Compliance enables you to manage disclo
 
 <table id="table_rzz_55j_qcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features and benefits of Gifts and Entertainment Compliance.](../concept/lsd-ge-overview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the features and benefits of Gifts and Entertainment Compliance.](../concept/lsd-ge-overview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../concept/lsd-ge-administration.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../../reuse/icons/brand-icons/bus-sdlc.svg)](../concept/lsd-ge-administration.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](../concept/lsd-ge-submitting-request.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Predictive intelligence for Legal Service Delivery](../concept/lsd-ge-submitting-request.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-management-console.svg)Manage gifts and entertainment disclosures](../concept/lsd-manage-ge-request.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../../reuse/icons/brand-icons/bus-management-console.svg)Manage gifts and entertainment disclosures](../concept/lsd-manage-ge-request.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, fields, tables, and properties.](lsd-ge-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, fields, tables, and properties.](lsd-ge-reference.md)
 
 </td><td>
 

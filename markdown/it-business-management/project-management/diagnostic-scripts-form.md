@@ -78,5 +78,5 @@ The code for the diagnostic script. The following example shows a diagnostic scr
 </table>**Related topics**  
 
 
-[Add diagnostic and fix scripts](../task/add-diagnostic-and-fix-script.md)
+[Add diagnostic and fix scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/add-diagnostic-and-fix-script.md)
 

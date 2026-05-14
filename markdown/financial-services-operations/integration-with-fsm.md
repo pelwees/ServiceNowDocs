@@ -34,5 +34,5 @@ The recommended implementation of Financial Services Operations application inte
 
 To learn more, see [Integration with Industry products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/industry-products-integration.md).
 
-**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 

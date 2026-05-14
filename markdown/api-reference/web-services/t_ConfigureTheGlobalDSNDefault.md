@@ -31,7 +31,7 @@ A default DSN is preloaded with the ODBC driver installation ServiceNow data sou
 
     `OpenAccess SDK 6.0 Manager\<installation location>\Services\ServiceNow_ODBC\Data Source Settings\ServiceNow\IP Parameters`
 
-    ![ODBC Management Console](../image/OdbcManagementConsole.png)
+    ![ODBC Management Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcManagementConsole.png)
 
 3.  Double-click the **DataSourceIPProperties** attribute for the ServiceNow data source setting to open the Properties dialog box.
 
@@ -39,8 +39,8 @@ A default DSN is preloaded with the ODBC driver installation ServiceNow data sou
 
     `https://<your instance>.service-now.com`
 
-    ![ODBC Management Console](../image/OdbcManagementConsole2.png)
+    ![ODBC Management Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcManagementConsole2.png)
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-odbc.md)
 

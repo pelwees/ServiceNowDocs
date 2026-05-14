@@ -36,9 +36,9 @@ Starting with Visibility Content version 6.28.0, activating or deactivating a pa
 5.  Select **Update**.
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Compare pattern versions](compare-pattern-versions.md)
+**Previous topic:**[Compare pattern versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/compare-pattern-versions.md)
 
-**Next topic:**[Discover datacenters only for new cloud accounts](discover-datacenter-only-new-account.md)
+**Next topic:**[Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/discover-datacenter-only-new-account.md)
 

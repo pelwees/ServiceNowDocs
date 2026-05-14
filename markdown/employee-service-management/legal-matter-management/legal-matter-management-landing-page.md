@@ -23,27 +23,27 @@ The ServiceNow® Legal Matter Management application enables you to complete leg
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Matter Management.](../concept/legal-matter-management-overview.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Matter Management.](../concept/legal-matter-management-overview.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up legal matter templates and complete other configurations.](../concept/setting-up-legal-matter-managemment.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up legal matter templates and complete other configurations.](../concept/setting-up-legal-matter-managemment.md)
 
 </td><td>
 
-[Assign ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Assign legal matters to matter owners.](../task/assign-legal-matter.md)
+[Assign ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Assign legal matters to matter owners.](../task/assign-legal-matter.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Manage contract requests.](../task/work-on-legal-matter-1.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-management-console.svg) Manage contract requests.](../task/work-on-legal-matter-1.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-matter-management-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-matter-management-reference.md)
 
 </td></tr></tbody>
 </table>

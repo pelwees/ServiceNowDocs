@@ -25,7 +25,7 @@ Role required: sn\_cmp.cmp\_root\_admin
 
 2.  Click **New** to open the Create Resource Block dialog box and then fill in the form.
 
-    For a detailed description of each field, see [Create a custom resource block](create-resource-block.md).
+    For a detailed description of each field, see [Create a custom resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-resource-block.md).
 
     |Field|Description|
     |-----|-----------|
@@ -188,5 +188,5 @@ Enter an optional condition that must be met before the system uses this step.
     The Azure Datacenter resource block moves from the draft to the published state and no further changes can be made to the resource block. Changes to a resource block can be made only if the status is set to **Draft**.
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

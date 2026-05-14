@@ -85,7 +85,7 @@ Category
 
 </td><td>
 
-[Configure Password Reset properties](../../login/task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../login/task/t_SetPwdResetProps.md)
 
 </td></tr><tr><td>
 
@@ -116,5 +116,5 @@ None
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Authentication](sc-authentication.md)
+**Parent Topic:**[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 

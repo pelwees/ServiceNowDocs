@@ -27,7 +27,7 @@ Role required: cmdb\_ot\_admin or admin
 
 3.  If you want to filter the All IT Hardware list, do the following actions:
 
-    -   Select the filter ![Filter icon.](../../mftg-manufacturing-process-mgr/image/filter-list-icon.png) icon.
+    -   Select the filter ![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../mftg-manufacturing-process-mgr/image/filter-list-icon.png) icon.
     -   Add the filter that you want applied to the list.
     -   Select **Update**.
 4.  Select the check box next to each of the IT hardware devices that you want to convert.
@@ -104,7 +104,7 @@ Top-level parent entity, or industrial site, where the device is located or assi
 
 The selected IT hardware devices have been converted into OT devices.
 
-You can also use the Bulk Update Ruleset for Reassigning IT to OT feature to create a scheduled job that automatically converts IT hardware to OT devices. For more information, see [Automatically convert your IT records to OT devices](automatically-convert-it-records-to-ot-devices.md).
+You can also use the Bulk Update Ruleset for Reassigning IT to OT feature to create a scheduled job that automatically converts IT hardware to OT devices. For more information, see [Automatically convert your IT records to OT devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/automatically-convert-it-records-to-ot-devices.md).
 
-**Parent Topic:**[OT device related items and related lists](../reference/ot-assets-related-links-and-lists.md)
+**Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/ot-assets-related-links-and-lists.md)
 

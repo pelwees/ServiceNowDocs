@@ -39,7 +39,7 @@ Once you activate the profile, based on the configured trigger conditions, you c
 
 6.  Select **Submit**.
 
-    The selected profile is triggered manually. You can review the work notes and activities section and the profile-initiated and profile-completed tags in the work notes section. ![Reviewing work notes for automation activity.](../image/falcon-insight-test-work-notes.png)
+    The selected profile is triggered manually. You can review the work notes and activities section and the profile-initiated and profile-completed tags in the work notes section. ![Reviewing work notes for automation activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-test-work-notes.png)
 
 7.  The results appear in the form of related lists such as Get File, Host Details, Logged on Users, Running Processes, Running Services, Network Statistics, and so on.
 

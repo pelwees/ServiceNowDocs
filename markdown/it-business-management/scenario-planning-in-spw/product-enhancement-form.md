@@ -30,5 +30,5 @@ These fields are displayed on the full details page of the product enhancement.
 |Start date|Start date for the product enhancement.|
 |End date|End date for the product enhancement.|
 
-**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 

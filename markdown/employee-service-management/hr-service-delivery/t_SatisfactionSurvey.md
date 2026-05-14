@@ -60,11 +60,11 @@ Click the menu icon and select the type of image file. After the file is generat
 
 The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the Survey Designer
 
-![Survey category results](../image/HRReqSatSurvey.png "Survey category results")
+![Survey category results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/HRReqSatSurvey.png "Survey category results")
 
 To view details about a specific response, point to a colored bar, the number of responses, and the percentage it represents displays.
 
-![Survey scorecard category results detail](../image/SurveyScorecardResultDetail.png "Survey scorecard category results detail")
+![Survey scorecard category results detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/SurveyScorecardResultDetail.png "Survey scorecard category results detail")
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRDashboardsReports.md)
 

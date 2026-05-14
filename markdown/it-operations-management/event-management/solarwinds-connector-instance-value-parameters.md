@@ -76,5 +76,5 @@ protocol
 Protocol to use when connecting to the Solarwinds server.Default value: https
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

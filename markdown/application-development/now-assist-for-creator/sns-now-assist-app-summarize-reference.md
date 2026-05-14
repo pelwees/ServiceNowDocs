@@ -20,5 +20,5 @@ The following roles are required for use with the Now Assist for Creator app sum
 
 Grant the admin and now.assist.creator roles, or the sn\_g\_app\_creator.app\_creator and now.assist.creator roles, to each user that you want to summarize apps.
 
-**Parent Topic:**[App summary generation](sns-now-assist-app-summarize-landing.md)
+**Parent Topic:**[App summary generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-now-assist-app-summarize-landing.md)
 

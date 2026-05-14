@@ -17,13 +17,13 @@ The News article content type combines content creation features from the Rich C
 
 ## News articles in the employee portal
 
-News articles are delivered to users through customizable instances of the News Feed widget. The News Feed widget instances appear on the portal Home page, News and Events, Article detail page, and the emp\_taxonomy\_topic page. The admin can configure the News Feed widget to display news articles in a vertical list or as a three-column grid, add a call to action that links to another page, or to display the news categories. For more information, see [Modify the News feed widget](../task/modify-news-feed-widget-display.md).
+News articles are delivered to users through customizable instances of the News Feed widget. The News Feed widget instances appear on the portal Home page, News and Events, Article detail page, and the emp\_taxonomy\_topic page. The admin can configure the News Feed widget to display news articles in a vertical list or as a three-column grid, add a call to action that links to another page, or to display the news categories. For more information, see [Modify the News feed widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/modify-news-feed-widget-display.md).
 
-The Featured News widget appears at the top of the News and Events page to display highlighted news articles. For information on configuring the Featured News widget, see [Modify the Featured News widget](../task/modify-featured-news-widget.md).
+The Featured News widget appears at the top of the News and Events page to display highlighted news articles. For information on configuring the Featured News widget, see [Modify the Featured News widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/modify-featured-news-widget.md).
 
-For ServiceNow instances that are on version Washington or later, the News and Events automatically appears as a menu option in the top-level navigation menu \(mega menu\) to give users quick access to all the published news articles. To remove it from the menu, see [Hide News and Events from the Mega Menu](../task/hide-news-center-mega-menu.md).
+For ServiceNow instances that are on version Washington or later, the News and Events automatically appears as a menu option in the top-level navigation menu \(mega menu\) to give users quick access to all the published news articles. To remove it from the menu, see [Hide News and Events from the Mega Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/hide-news-center-mega-menu.md).
 
-Review the following graphic to understand how employees see and interact with the widgets that display News articles:![The News Center contains the Featured news widget, with the News feed widget underneath. News articles open in a new page with the Other news widget on the side.](../images/ec-news-center-page.png)
+Review the following graphic to understand how employees see and interact with the widgets that display News articles:![The News Center contains the Featured news widget, with the News feed widget underneath. News articles open in a new page with the Other news widget on the side.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-center-page.png)
 
 1.  News and Events widget displays highlighted articles on the home page
 2.  News and Events button opens the News Center page
@@ -42,7 +42,7 @@ Review the following graphic to understand how employees see and interact with t
 
 When employees enter a keyword in the global search bar, Employee Center uses AI Search to return published news articles containing that keyword in the heading, subheading, article content, or category.
 
-![Searching for by keyword "employee" returns a news article with the term in the article content](../images/ec-news-search.png)
+![Searching for by keyword "employee" returns a news article with the term in the article content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-search.png)
 
 AI Search returns additional results based on user roles:
 
@@ -52,19 +52,19 @@ AI Search returns additional results based on user roles:
 
 ## Employee engagement with news articles
 
-Content engagement enhances news articles by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics. For more information, see [Content engagement](ec-content-engagement.md)
+Content engagement enhances news articles by providing users with a way to comment and react to articles and for managers to measure the effectiveness of their content using engagement metrics. For more information, see [Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 **Note:** Some news articles and news and events might also be viewable on the event calendar widget. The calendar display provides a view of news feeds or new widgets, indicating days with scheduled events by date. The calendar view also provides the option to select a specific day and view a list of news-related events and feeds.
 
-![Content engagement delivers engagement summary, reaction icons, and commenting capabilities to the portal](../images/emp-engagement.png)
+![Content engagement delivers engagement summary, reaction icons, and commenting capabilities to the portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/emp-engagement.png)
 
 ## News articles in the Now Mobile app
 
 The Now Mobile app features the News center screen, which displays the same News articles that are published to the News feed widget in the portal. In addition, content managers can configure News articles to appear on the Now Mobile app Home screen.
 
-![Now Mobile app home page has a section for Featured news and the News Center screen](../images/ec-news-mobile.png)
+![Now Mobile app home page has a section for Featured news and the News Center screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-mobile.png)
 
-For information on the Now Mobile app user experience, see [News in Now Mobile](news-ec-mobile.md). For information on publishing news articles, see [Create a publish plan for your content](../task/ec-content-library-publish2.md).
+For information on the Now Mobile app user experience, see [News in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/news-ec-mobile.md). For information on publishing news articles, see [Create a publish plan for your content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-publish2.md).
 
 ## Organizing news articles
 
@@ -86,7 +86,7 @@ When an employee searches for a news article, they can filter the search results
 
 </td><td>
 
-![Employees can filter search results by news category](../images/ec-news-categories-search.png)
+![Employees can filter search results by news category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-categories-search.png)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ The page also holds a Category list widget with links to the other category page
 
 </td><td>
 
-![News articles in the News feed widget display their category. When clicked, the link redirects to a page that lists all the news articles for that category](../images/ec-news-category.png)
+![News articles in the News feed widget display their category. When clicked, the link redirects to a page that lists all the news articles for that category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-category.png)
 
 </td></tr><tr><td>
 
@@ -104,20 +104,20 @@ News and Event holds a Category list widget with links to the category pages. Wh
 
 </td><td>
 
-![News articles display their associated category](../images/ec-news-category-article.png)
+![News articles display their associated category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-category-article.png)
 
 </td></tr></tbody>
 </table>## Boosting News article production
 
 Content authors can increase their productivity by leveraging content templates to produce large volumes of News articles. A user with the sn\_cd.content\_template\_owner role first creates a content template to define the article layout, publishing location, and audience. When a content author creates a new article, they can associate the news article to a content template to access a pre-built template and auto-generated publish plans.
 
-For more information, see [Content templates](ec-content-templates.md).
+For more information, see [Content templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-templates.md).
 
 ## Customizing the News experience
 
 The News and Event and Article Detail pages support other Content Publishing widgets. For example, you can configure the News and Event page to display upcoming events. For information on configuring the portal pages, see [Creating portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_Pages.md).
 
-To set a limit for the number of articles displayed in the News widget or to select different pages for the News and Event or Article display, see the News section of [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md).
+To set a limit for the number of articles displayed in the News widget or to select different pages for the News and Event or Article display, see the News section of [Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md).
 
 If you plan to customize the News and Events or Article details page, we recommend that you create new pages and update the properties to redirect to the new pages. Some additional considerations include:
 

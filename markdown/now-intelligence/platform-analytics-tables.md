@@ -93,5 +93,5 @@ Analytics Library Scan Executions
 Stores the logs of the scheduled library management jobs
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics experience reference](../concept/platform-analytics-exp-reference.md)
+</table>**Parent Topic:**[Platform Analytics experience reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/platform-analytics-exp-reference.md)
 

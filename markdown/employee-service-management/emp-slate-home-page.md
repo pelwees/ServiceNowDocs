@@ -17,7 +17,7 @@ Employee Slate is an employee engagement layer that combines intelligent assista
 
 Employee Slate provides a set of default widgets on the home page that surface actionable information and give employees a consolidated view.
 
-![Employee Slate home](../images/es-home-page.png "Employee Slate home")
+![Employee Slate home](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-home-page.png "Employee Slate home")
 
 -   Homepage displays a dashboard with widgets and shortcuts relevant to your daily work.
 -   Widget content is updated to reflect current priorities, pending tasks, and relevant announcements. The page provides a starting point for accessing all the capabilities and services.
@@ -33,7 +33,7 @@ Suggested prompts help employees get started with common actions and queries.
 -   With Moveworks, your admins can configure these prompts based on organizational requirements.
 -   With Now Assist, your admins can configure promoted assets as prompts.
 
-For a set of prompts that you can use across Employee Slate features, see [Employee Slate prompt library](../reference/employee-slate-prompt-library.md).
+For a set of prompts that you can use across Employee Slate features, see [Employee Slate prompt library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/employee-slate-prompt-library.md).
 
 ## Home widgets
 

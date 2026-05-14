@@ -40,5 +40,5 @@ You cannot remove the default connection profile using this command. To remove t
 
 The CLI removes the specified profile from the configuration file.
 
-**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](configure-profile.md)
+**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/configure-profile.md)
 

@@ -19,7 +19,7 @@ Executes VB scripts configured during the configuration of the VB.NET connector.
 
 You must configure the method before using it. To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the class created during the configuration of the VB.NET connector from the **CLASSES** list.
 3.  Select the method created during the configuration of the VB.NET connector from the **METHODS** list.
 4.  Click **OK**.
@@ -33,5 +33,5 @@ You must configure the method before using it. To configure, do the following st
     |Result \(String\)|Returns the output of the Execute method execution.|Not applicable|
 
 
-**Parent Topic:**[VB.Net](../concept/vb-net.md)
+**Parent Topic:**[VB.Net](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/vb-net.md)
 

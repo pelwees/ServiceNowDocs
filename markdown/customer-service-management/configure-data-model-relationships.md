@@ -240,7 +240,7 @@ Household Member Relationship
 **Related topics**  
 
 
-[Service Model Foundation responsibilities](../reference/csm-data-model-responsibilities.md)
+[Service Model Foundation responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-data-model-responsibilities.md)
 
-[Create a responsibility definition](t_CreateAResponsibilityDefinition.md)
+[Create a responsibility definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md)
 

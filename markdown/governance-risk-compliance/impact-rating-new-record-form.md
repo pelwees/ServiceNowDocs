@@ -43,7 +43,7 @@ Numerical value for the impact rating. You can associate a unique numerical valu
 
  For example, you can assign value **1** to the **01-Low** impact category as shown below. After you do so, you cannot assign value **1** to any other impact rating in your BCM application instance.
 
- ![Impact Rating form showing the name, value description, and question text](../image/question-text.png)
+ ![Impact Rating form showing the name, value description, and question text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/question-text.png)
 
 </td></tr><tr><td>
 
@@ -83,10 +83,10 @@ Question text
 
 </td><td>
 
-Field to revise the question text. For the recovery time objective of an impact category, you can revise the question that is displayed in the RTO assessment questionnaire. You can navigate to the Impact Rating record as shown in the example:![Navigating to the Impact Rating record for an impact category.](../image/updating-question-text-field.png)Update the question text for the RTO assessment as shown in the example:
+Field to revise the question text. For the recovery time objective of an impact category, you can revise the question that is displayed in the RTO assessment questionnaire. You can navigate to the Impact Rating record as shown in the example:![Navigating to the Impact Rating record for an impact category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/updating-question-text-field.png)Update the question text for the RTO assessment as shown in the example:
 
-![Revising the question text.](../image/question-text.png)The revised question is then displayed in the RTO assessment of the business impact analysis record.
+![Revising the question text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/question-text.png)The revised question is then displayed in the RTO assessment of the business impact analysis record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure impact ratings](../task/configure-impact-rating-uib-ws.md)
+</table>**Parent Topic:**[Configure impact ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-impact-rating-uib-ws.md)
 

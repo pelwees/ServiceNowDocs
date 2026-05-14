@@ -25,17 +25,17 @@ The flows provided with the base system are in an inactive state. Activate these
 
 ## Procedure
 
-1.  [Download and install](../reference/download-app-first-time.md) the Security Operations Spoke application.
+1.  [Download and install](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/download-app-first-time.md) the Security Operations Spoke application.
 
     This Spoke application provides security operations actions that you can use while defining Security Incident Response flows.
 
 2.  Navigate to **Flow Designer** &gt; **Designer** and search for the Security Operations Spoke application to view the Security Incident related flows.
 
-    ![Security Incident Management Spokes](../image/cj-sir-flow-phishing.png)Notice that the flows have a published status and are inactive.
+    ![Security Incident Management Spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-flow-phishing.png)Notice that the flows have a published status and are inactive.
 
 3.  For example, if you want to activate the Automated Malware Playbook flow, select the **Security Incident - Automated Phishing Playbook - Template V1** link to view the flow.
 
-    ![Automated Phishing Playbook Template](../image/cj-sir-flow-auto.png)
+    ![Automated Phishing Playbook Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-flow-auto.png)
 
     **Note:** You cannot edit the flows provided with the base system as they are read-only flows. You can use these flows as they are or make a copy and modify them as required.
 

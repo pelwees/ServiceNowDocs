@@ -21,7 +21,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and open a topic or [create a new one](create-virtual-agent-topic.md).
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and open a topic or [create a new one](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
 
 2.  On the Flow tab, drag a Static Choice or a Dynamic Choice user input control onto the canvas.
 
@@ -29,7 +29,7 @@ Role required: virtual\_agent\_admin or admin
 
 4.  Slide the **Insert** toggle switch to enable it.
 
-    ![Header card section of Dynamic Choice user input control, with Insert toggle and Would you like help radio button enabled.](../images/va-insert-header-help-yes.png "Insert a header card")
+    ![Header card section of Dynamic Choice user input control, with Insert toggle and Would you like help radio button enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-insert-header-help-yes.png "Insert a header card")
 
 5.  Under **Would you like help?**, select either **Yes** or **No, I will use a script**.
 
@@ -131,5 +131,5 @@ The alphanumeric string at the end of the YouTube URL. For example, in the URL `
 6.  Select **Save**.
 
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

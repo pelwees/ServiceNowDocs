@@ -62,7 +62,7 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-health-screening.md)
 
 ## Components installed with Employee Health Screening
 

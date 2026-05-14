@@ -204,5 +204,5 @@ These dashboards display metrics for databases related to the service.
 |Fatal Sessions|Number of database sessions to this database that were terminated by fatal errors|Dynatrace|
 |All PostgreSQL Instances|Information of all databases the service is actively using. Select a database link to view more detailed information.|CMDB|
 
-**Parent Topic:**[Dynatrace templates for Service Observability](dynatrace-templates.md)
+**Parent Topic:**[Dynatrace templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/dynatrace-templates.md)
 

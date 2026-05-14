@@ -60,7 +60,7 @@ Role required: admin
 
 ## What to do next
 
-[Configure an Emergency Outreach notification for the exposure notice](configure-outreach-notify-exp-contact.md).
+[Configure an Emergency Outreach notification for the exposure notice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notify-exp-contact.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-contact-tracing.md)
 

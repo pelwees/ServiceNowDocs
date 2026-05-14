@@ -23,20 +23,20 @@ The VA NLU Dispatches \[sys\_cs\_nlu\_dispatch\] table stores the names of the m
 
 For ServiceNow® NLU, the Setup Topics Model is already configured to handle boolean user inputs in English. There are two records in the table, **BOOLEAN\_NO** and **BOOLEAN\_YES**, which are mapped to the **Negative** and **Affirmative** intents in the Setup Topics Model.
 
-![The VA NLU Dispatches table displaying the names of the intent and model that handle the utterance variations.](../images/va-nlu-dispatches-list.png)
+![The VA NLU Dispatches table displaying the names of the intent and model that handle the utterance variations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-nlu-dispatches-list.png)
 
 The Setup Topics Model and intents are read only, so if you need to modify the intents or add additional intents in other languages, create a new model with new intents. You can update the existing entries and add new ones to the table.
 
 ## Setting up natural language handling for third-party NLU providers
 
-If you are using IBM Watson or Google Dialogflow for NLU topic discovery, add entries for the corresponding model and intents in the VA NLU Dispatches table, as described in [Configure enhanced natural language user input handling](../task/set-up-natural-lang-handling-other-nlu.md).
+If you are using IBM Watson or Google Dialogflow for NLU topic discovery, add entries for the corresponding model and intents in the VA NLU Dispatches table, as described in [Configure enhanced natural language user input handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/set-up-natural-lang-handling-other-nlu.md).
 
 ## Changing the confidence threshold
 
 The confidence threshold for boolean inputs is defined in the **com.glide.cs.dialog.boolean\_threshold** system property. The default value is **0.9**. For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
--   **[Configure enhanced natural language user input handling](../task/set-up-natural-lang-handling-other-nlu.md)**  
+-   **[Configure enhanced natural language user input handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/set-up-natural-lang-handling-other-nlu.md)**  
 Add enhanced natural language handling for boolean user responses to your Virtual Agent environment. If you're using additional languages or third-party NLU providers, specify the model and intents that define variations in yes/no utterances for your bot.
 
-**Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](../task/configure-nlu-settings.md)
+**Parent Topic:**[Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-nlu-settings.md)
 

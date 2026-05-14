@@ -91,7 +91,7 @@ Approvals
 
 </td><td>
 
-Indicates if the user can have the delegate authority for approvals.Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval. For more information, see [Configure approval rule for a delegate](config-approval-delegate.md).
+Indicates if the user can have the delegate authority for approvals.Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval. For more information, see [Configure approval rule for a delegate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-approval-delegate.md).
 
 </td></tr><tr><td>
 
@@ -119,8 +119,8 @@ Indicates if the user can receive meeting invitations.
 
 </td></tr></tbody>
 </table>
--   **[Configure approval rule for a delegate](config-approval-delegate.md)**  
+-   **[Configure approval rule for a delegate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-approval-delegate.md)**  
 Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 

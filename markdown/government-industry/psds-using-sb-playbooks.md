@@ -39,7 +39,7 @@ The Social Benefits Playbook stages are listed in the following table.
 
 The following figure shows the components that you can see in the Social Benefits Playbook workspace.
 
-![Agent workspace view of the Social Benefits Playbook life cycle, case record information, and license request details, shown in the Process-based experience view.](../image/sb-request-process-based-layout.png "Playbook layout with the Process-based Experience view")
+![Agent workspace view of the Social Benefits Playbook life cycle, case record information, and license request details, shown in the Process-based experience view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/sb-request-process-based-layout.png "Playbook layout with the Process-based Experience view")
 
 <table id="table_j4r_cww_5pb"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Contextual side panel
 -   Includes the tabs that you can use to display the following types of information:
     -   Case or case task activity stream.
     -   Ribbon information such as the case overview, customer details, timeline, and service level agreements \(SLAs\).
-    -   Dynamic related records. For more information, see [Dynamic related records](psds-playbook-viewing-rel-records.md).
+    -   Dynamic related records. For more information, see [Dynamic related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-viewing-rel-records.md).
 
 </td></tr><tr><td>
 

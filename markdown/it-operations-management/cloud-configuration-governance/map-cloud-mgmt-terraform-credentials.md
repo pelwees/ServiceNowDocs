@@ -31,7 +31,7 @@ Use the Credential Mapping module to perform credential and service account mapp
 
 2.  Select **New**.
 
-    ![Terraform Datacenter Mapping form](../../it-operations-management/image/new-credential-mapping-terraform.png "Terraform Datacenter Mapping form")
+    ![Terraform Datacenter Mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../it-operations-management/image/new-credential-mapping-terraform.png "Terraform Datacenter Mapping form")
 
 3.  On the form, fill in the fields.
 
@@ -73,5 +73,5 @@ Use the Credential Mapping module to perform credential and service account mapp
     You have mapped the field values that you added under the Credential Mapping and Service Account Mapping related lists to the Terraform provider.
 
 
-**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](../concept/using-ccg-terraform-connector.md)
+**Parent Topic:**[Using Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/using-ccg-terraform-connector.md)
 

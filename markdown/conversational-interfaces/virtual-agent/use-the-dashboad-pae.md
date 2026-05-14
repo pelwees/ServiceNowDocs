@@ -29,7 +29,7 @@ Set the date range for the visualizations using the date picker. You can either 
 
 2.  Use the date picker on the Overview tab to set the date range.
 
-    1.  Select the date picker. ![Date picker](../images/dashboard-calendar-icon.png).
+    1.  Select the date picker. ![Date picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-calendar-icon.png).
 
     2.  Select the start date of the date range.
 
@@ -37,12 +37,12 @@ Set the date range for the visualizations using the date picker. You can either 
 
         The dashboard highlights the selected date range.
 
-        ![Calendar showing highlighted start-to-end dates.](../images/dashboard-calendar-start-drag-pae.png)
+        ![Calendar showing highlighted start-to-end dates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-calendar-start-drag-pae.png)
 
     4.  Select **Apply**.
 
     The data displayed on the dashboard adjusts according to the new date range.
 
 
-**Parent Topic:**[Using the Conversational Analytics Dashboard](../concept/use-the-dashboard-overview-pae.md)
+**Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-the-dashboard-overview-pae.md)
 

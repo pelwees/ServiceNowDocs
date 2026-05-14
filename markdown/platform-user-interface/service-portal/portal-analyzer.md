@@ -48,7 +48,7 @@ Use the exported list to consider which pages and widgets to focus on while rede
     For more information on exporting list data, see [List export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/export-list-data.md).
 
 
-**Parent Topic:**[Analyzing portal performance and usage](using-portal-analytics.md)
+**Parent Topic:**[Analyzing portal performance and usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/using-portal-analytics.md)
 
 **Related topics**  
 

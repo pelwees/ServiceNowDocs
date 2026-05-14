@@ -15,7 +15,7 @@ breadcrumb: [Client Software Distribution 2.0 application, Integration Hub solut
 
 Revoke software without any user interaction if the software can be revoked and has a lease end date using the provider-specific revocation flow.
 
-**Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/csd-app-2.md)
 
 ## Revoke software deployed through the service catalog
 

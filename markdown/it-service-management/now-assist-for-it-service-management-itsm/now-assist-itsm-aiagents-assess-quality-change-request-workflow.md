@@ -67,7 +67,7 @@ The agent executes the request for the agentic workflow.
 
 ## Example of the assess quality of a change request agentic workflow output in the ServiceNow® AI Agent Studio
 
-![Assess quality of a change request agentic workflow output in AI Agent Studio.](../image/now-assist-itsm-assess-quality-of-change-request-workflow.png)
+![Assess quality of a change request agentic workflow output in AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-assess-quality-of-change-request-workflow.png)
 
 Access and use assess quality of a change request agentic workflow from the Now Assist panel.
 
@@ -75,5 +75,5 @@ You can add a query using the change request number to use the AI agent. You can
 
 For the query instruction, follow the steps specified in the **List of steps** field of the Define key requirements screen of the agentic workflow record.
 
-In the AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as a text message is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 

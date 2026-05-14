@@ -29,7 +29,7 @@ Role required: sn\_pace.code\_editor
 
     1.  Click **Add**.
 
-        ![Add new input/output](../image/pace-add-new-input.jpg)
+        ![Add new input/output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-add-new-input.jpg)
 
     2.  On the Add new input form, fill in the fields.
 

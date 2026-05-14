@@ -21,9 +21,9 @@ Administrators download and run an EXE or MSI file to install or distribute the 
 
 If your user is using Windows, 8.1, 10, or 11 operating system on the computer, a pop-up window opens after the user clicks the **Forgot Password** link. On the pop-up window, the user enters the user name. For the multi-identification type, the user enters a user name and email address and enters the displayed CAPTCHA if enabled for the process. If the CAPTCHA is incorrect, the user gets an error message.
 
-![Windows login screen](../image/identify-login-first-screen.png)
+![Windows login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/identify-login-first-screen.png)
 
-![Windows login screen](../image/identify-login-screen-with-captcha.png)
+![Windows login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/identify-login-screen-with-captcha.png)
 
 This is an identification step, which takes the user to the verification step after clicking **next** on the pop-up window.
 
@@ -38,16 +38,16 @@ In the Verify step, the users can verify themselves using one of the following c
 
 For example, the following images show verification using email.
 
-![Personal data verification](../image/verify-email-verifcation-first-step.png)
+![Personal data verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/verify-email-verifcation-first-step.png)
 
-![Email verification](../image/verify-email-verification-second-step.png)
+![Email verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/verify-email-verification-second-step.png)
 
 After the successful verification, the users go to the Reset step. Based on the status of the user account and email provided, the reset step contains various types.
 
 -   If the user account isn’t locked, the user enters a new password, enters the same password again in the **Retype password** field, and clicks **Reset Password**.
 -   If the user account is locked, the user gets a message stating the account is locked, and if enabled, the user can view an option to unlock the account, or the user can continue resetting the password. For example, the following image shows both the **Unlock Account** and **Reset Password** buttons.
 
-    ![Reset password](../image/unlock-button-reset-password.png)
+    ![Reset password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/unlock-button-reset-password.png)
 
 -   After the reset password process is complete, based on the configured type, the user either gets the auto-generated password on the pop-up window or an email containing the instructions to reset the password is sent to the user.
 

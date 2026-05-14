@@ -19,7 +19,7 @@ The Domain Separation Center is a dashboard where you can schedule and configure
 
 The Domain Separation Center provides many audits. You cannot create your own. You can, however, configure how often they run. Audits run on all of the domains stored in the domain\_audit\_definition table.
 
-![Domain separation center dashboard](../image/domain-separation-center-landing-page.png)
+![Domain separation center dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/domain-separation-center-landing-page.png)
 
 ## Configure audits
 

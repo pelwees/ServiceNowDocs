@@ -21,13 +21,13 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 Extra-step finding definition surfaces variants \(routes\) in the process that differ by only one additional step, which could possibly be automated or eliminated to save time.
 
-![Extra step](../image/extra-step.png)
+![Extra step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/extra-step.png)
 
 ## Procedure
 
 1.  Navigate to Improvement opportunity definition page.
 
-    For information about Improvement opportunity definition page, see [Set improvement opportunities](improve-opportunities.md).
+    For information about Improvement opportunity definition page, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md).
 
 2.  Select **Create** on the Extra step card.
 
@@ -120,7 +120,7 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
     Default values are provided. You can edit them if needed.
 
-    ![Extra step configuration](../image/extra-step-config.png)
+    ![Extra step configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/extra-step-config.png)
 
     According to the example, records that meet the following conditions are available as improvement opportunities in the Summary and insights page:
 
@@ -132,5 +132,5 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 6.  Select **Save and exit**.
 
 
-**Parent Topic:**[Setting Automated improvement opportunities](../concept/automated-findings.md)
+**Parent Topic:**[Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/automated-findings.md)
 

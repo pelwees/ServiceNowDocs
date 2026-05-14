@@ -21,7 +21,7 @@ Role required: Any user with an internal role can create add the context menu to
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Either [Create a dashboard with the in-line editor](create-db-in-ac.md) or open the dashboard you want to edit.
+2.  Either [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) or open the dashboard you want to edit.
 
 3.  Expand **Add New Element**.
 
@@ -30,5 +30,5 @@ Role required: Any user with an internal role can create add the context menu to
 5.  And so forth
 
 
-**Parent Topic:**[Add visual elements to an in-line dashboard](add-elements-to-a-dashboard.md)
+**Parent Topic:**[Add visual elements to an in-line dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-elements-to-a-dashboard.md)
 

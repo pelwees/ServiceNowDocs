@@ -51,5 +51,5 @@ Configure the form layout and add the **Assigned to** field to ensure that a que
 **Related topics**  
 
 
-[Create a questionnaire for a work order or task](create-questionnaire-for-work-order.md)
+[Create a questionnaire for a work order or task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-questionnaire-for-work-order.md)
 

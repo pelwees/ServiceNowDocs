@@ -25,7 +25,7 @@ Sales promotion has three main parts:
 
 The following diagram shows the entities and their relationships within the Sales promotion campaign claim application.
 
-![Decorative](../image/Data-model-sales-promotion.png "Sales promotion campaign data model")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Data-model-sales-promotion.png "Sales promotion campaign data model")
 
 ## Bulk Import Sales Promotion claim
 
@@ -33,8 +33,8 @@ The sales promotion supports bulk import functionality, where the dealer sales a
 
 To learn more about the Business Location Service Portal, see [Using the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-blsp-portal.md).
 
--   **[Sales Promotion Campaign Claim tables](sales-promotion-campaign-claim-table.md)**  
+-   **[Sales Promotion Campaign Claim tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-campaign-claim-table.md)**  
 This section explains the sales promotion campaign claims tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[Data model](data-model.md)
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 

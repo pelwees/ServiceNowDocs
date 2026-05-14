@@ -126,5 +126,5 @@ NA
 </td></tr></tbody>
 </table>For more information, see [https://www.servicenow.com/products/employee-center.html](https://www.servicenow.com/products/employee-center.html).
 
-**Parent Topic:**[Compliance Case Management reference](reference-data-compliance-case-management.md)
+**Parent Topic:**[Compliance Case Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reference-data-compliance-case-management.md)
 

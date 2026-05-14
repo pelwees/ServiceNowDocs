@@ -26,7 +26,7 @@ The following scheduled jobs are installed with the Contact Tracing application:
 -   **Badge Access Register Scheduled Import**
 -   **Wi-Fi Access Register Scheduled Import**
 
-These jobs are set for manual execution to import the [badge access data](import-badge-register-data.md) or [Wi-Fi access data](import-wifi-data.md) from an Excel file. You can modify the settings based on when and how you want to import the data.
+These jobs are set for manual execution to import the [badge access data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/import-badge-register-data.md) or [Wi-Fi access data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/import-wifi-data.md) from an Excel file. You can modify the settings based on when and how you want to import the data.
 
 ## Procedure
 
@@ -41,7 +41,7 @@ These jobs are set for manual execution to import the [badge access data](import
 4.  Click **Update**.
 
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-contact-tracing.md)
 
 **Related topics**  
 

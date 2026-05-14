@@ -115,5 +115,5 @@ Select this option turn on the CORS rule.
 6.  Select **Submit**.
 
 
-**Parent Topic:**[REST APIs](../concept/c_RESTAPI.md)
+**Parent Topic:**[REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/c_RESTAPI.md)
 

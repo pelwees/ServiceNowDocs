@@ -42,5 +42,5 @@ When you specify conditions to restrict access for a notification, the email rec
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Create an email notification](t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 

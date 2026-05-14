@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Select **New**.
 
-    ![Healthcare operations case in search menu.](../image/abstract-case-hco.png)
+    ![Healthcare operations case in search menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/abstract-case-hco.png)
 
 3.  Set **Extends table** to Healthcare Operations Case \[sn\_hco\_case\].
 

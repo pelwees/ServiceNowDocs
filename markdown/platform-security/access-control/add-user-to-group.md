@@ -19,7 +19,7 @@ Use the **Simulate Add to Group** for simulating the user's access changes for a
 
 Role required: access\_analyzer\_admin
 
-Enable Take actions. For more information, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
+Enable Take actions. For more information, see [Configuring the Access Simulator \(Take actions\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/configure-access-simulator.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     |Select record|Specify a record name and select from the list.|
     |Select field|Specify a field name to select from the list. This field can be used to analyze permissions at the field level. For example, **Active**, **Created By**, and so on.|
 
-    ![Add the user to a group- criteria](../images/simulate-add-group-criteria.png)
+    ![Add the user to a group- criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-group-criteria.png)
 
 4.  Click **Next**.
 
@@ -46,13 +46,13 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
 
     Use the **Preview changes** view to see a simulation of your configured choices. Validate the group that has been added to the user before moving to the next step.
 
-    ![Preview changes](../images/simulate-add-group-preview.png)
+    ![Preview changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-group-preview.png)
 
 6.  Click **Next**.
 
 7.  In the **Simulated results** view, check the **Present status** and **Simulated status** to validate that access is **Passed** or **Blocked** to the simulated user as intended.
 
-    ![Results](../images/simulate-add-group-results.png)
+    ![Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulate-add-group-results.png)
 
     **Note:**
 
@@ -66,10 +66,10 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     **Note:**
 
     -   If Access Simulator isn’t enabled, you can't complete the simulation. To enable it, select **Enable actions** and accept the legal information.
-    -   To hide the simulation, select **Hide actions**. To unhide and enable actions, go to **Settings**. For more information, see [Configuring the Access Simulator \(Take actions\)](configure-access-simulator.md).
+    -   To hide the simulation, select **Hide actions**. To unhide and enable actions, go to **Settings**. For more information, see [Configuring the Access Simulator \(Take actions\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/configure-access-simulator.md).
     -   To exit the simulation without applying the simulated changes, select **Skip and Exit**.
     The user is successfully added to the group.
 
-    If you clicked **Add and complete**, the simulated group is successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](../concept/access-analyzer.md).
+    If you clicked **Add and complete**, the simulated group is successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../concept/access-analyzer.md).
 
 

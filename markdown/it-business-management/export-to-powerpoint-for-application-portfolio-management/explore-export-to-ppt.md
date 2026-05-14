@@ -66,5 +66,5 @@ Repeater
 A token used to generate data for all the entries in a record by retaining the template format.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](export-ppt-landing-page.md)
+</table>**Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-landing-page.md)
 

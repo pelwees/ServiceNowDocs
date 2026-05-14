@@ -79,5 +79,5 @@ Install Telecommunications Service Operations Management applications and plugin
     The ServiceNow®ITOM AIOps application includes the ServiceNow® Event Management and ServiceNow® Metric Intelligence applications, which help you track and maintain the health of services in your organization.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

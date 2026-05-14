@@ -132,7 +132,7 @@ Defines the default columns shown when assessing individual controls.
 </td></tr></tbody>
 </table>3.  Set the **Migrate to Advanced Risk Assessments** property to **Yes**.
 
-    ![Migrate to Advanced Risk Assessments property.](../image/ara-property-airc.png)
+    ![Migrate to Advanced Risk Assessments property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ara-property-airc.png)
 
 4.  Select **Save**.
 
@@ -140,5 +140,5 @@ Defines the default columns shown when assessing individual controls.
 **Related topics**  
 
 
-[Risk score rollup in Advanced Risk Assessment](../../grc-risk/concept/risk-rollup-ara-concept.md)
+[Risk score rollup in Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-risk/concept/risk-rollup-ara-concept.md)
 

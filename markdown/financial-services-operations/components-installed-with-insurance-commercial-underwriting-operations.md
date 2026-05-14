@@ -97,5 +97,5 @@ Commercial Underwriting Service Task \[sn\_ins\_uw\_b2b\_task\]
 Stores all underwriting tasks for business policy service requests for all Financial Services Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Commercial Lines Servicing reference](../concept/commercial-lines-servicing-reference.md)
+</table>**Parent Topic:**[Commercial Lines Servicing reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/commercial-lines-servicing-reference.md)
 

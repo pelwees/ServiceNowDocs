@@ -31,10 +31,10 @@ Screen fetch types typically do not need to be changed. Be sure to test fetch ty
 
     If you are in the global scope, the record appear read-only. In this case, you can temporarily switch to the appropriate scope by clicking on the banner notification that appears at the top of the record.
 
-    ![Scope notification message.](../image/change-scope-warning.png)
+    ![Scope notification message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/change-scope-warning.png)
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Mobile fetch types](../reference/applet-fetch-types.md)
+**Parent Topic:**[Mobile fetch types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/applet-fetch-types.md)
 

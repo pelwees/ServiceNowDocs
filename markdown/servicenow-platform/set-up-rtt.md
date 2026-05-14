@@ -21,7 +21,7 @@ Role required: admin
 
 For new deployments, the Real-Time Transcription feature is enabled during the guided setup for ServiceNow Voice.
 
-If you have already deployed ServiceNow Voice and are upgrading, go through all of the steps for [Setting up ServiceNow Voice](../concept/ccc-setup.md), and the steps in this procedure, before completing the setup on Amazon Connect.
+If you have already deployed ServiceNow Voice and are upgrading, go through all of the steps for [Setting up ServiceNow Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/ccc-setup.md), and the steps in this procedure, before completing the setup on Amazon Connect.
 
 ## Procedure
 
@@ -56,5 +56,5 @@ If you have already deployed ServiceNow Voice and are upgrading, go through all 
 
 Proceed with the setup tasks on your Amazon Connect instance detailed in the setup guide.
 
-**Parent Topic:**[Configure Real Time Transcription for ServiceNow Voice Customer Service Management](configure-rtt-sn-voice.md)
+**Parent Topic:**[Configure Real Time Transcription for ServiceNow Voice Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-rtt-sn-voice.md)
 

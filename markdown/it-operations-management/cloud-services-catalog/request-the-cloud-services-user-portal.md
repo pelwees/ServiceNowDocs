@@ -34,5 +34,5 @@ Role required: sn\_cmp.cloud\_service\_user
     When you submit a request for an item in the service catalog, the system typically provisions the stack immediately. Sometimes, your request must be approved first.
 
 
-**Parent Topic:**[Using Cloud Services Catalog](../concept/using-cloud-services-catalog.md)
+**Parent Topic:**[Using Cloud Services Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/using-cloud-services-catalog.md)
 

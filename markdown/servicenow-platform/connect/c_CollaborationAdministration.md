@@ -15,7 +15,7 @@ breadcrumb: [Connect Chat, Connect, ServiceNow AI Platform Additional Capabiliti
 
 Administrators can configure various performance settings and features of Connect Chat.
 
-**Note:** There are also settings that apply to both Connect Chat and Connect Support. For more information, see [Connect administration](c_ConnectAdministration.md).
+**Note:** There are also settings that apply to both Connect Chat and Connect Support. For more information, see [Connect administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectAdministration.md).
 
 ## Configure the email notification interval
 
@@ -112,7 +112,7 @@ Right-click any column header and select **Configure** &gt; **Dictionary**.
 
 10. Ensure the property is set to **both** or **collaboration**.
 
-    The **glide.live\_feed.task\_header\_button** property also controls whether the show Live Feed icon \(![Show Live Feed icon](../../live-feed/image/ShowLiveFeedIcon.png)\) appears. If the property is set to **collaboration**, the show Live Feed icon does not appear on form headers.
+    The **glide.live\_feed.task\_header\_button** property also controls whether the show Live Feed icon \(![Show Live Feed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/image/ShowLiveFeedIcon.png)\) appears. If the property is set to **collaboration**, the show Live Feed icon does not appear on form headers.
 
 
 **Related topics**  
@@ -174,7 +174,7 @@ To disable record conversations for a specific table, prevent the **Follow** but
 
 5.  Set the **Value** to **false**.
 
-    Setting the dictionary attribute to **false** also removes the show Live Feed icon \(![Show Live Feed icon](../../live-feed/image/ShowLiveFeedIcon.png)\) for the table.
+    Setting the dictionary attribute to **false** also removes the show Live Feed icon \(![Show Live Feed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/image/ShowLiveFeedIcon.png)\) for the table.
 
 
 **Related topics**  

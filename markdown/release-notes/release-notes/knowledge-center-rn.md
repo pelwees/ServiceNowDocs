@@ -118,5 +118,5 @@ Knowledge Center would be available by default to all the roles of Knowledge Man
     The ServiceNow® CSM Configurable Workspace and ServiceNow® CSM Agent Workspace enable customer service agents to read Knowledge articles attached to their cases and gain additional information that helps them resolve cases more efficiently.
 
 
-**Parent Topic:**[ServiceNow AI Platform capabilities release notes](now-platform-capabilities-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-capabilities-rn-landing.md)
 

@@ -32,7 +32,7 @@ Finance and Supply Chain includes the following common applications:
 -   Source-to-Pay Common Architecture \[snc.sn\_shop\]
 -   Source-to-Pay Integration Framework \[sn\_spend\_intg\]
 
-To learn more about each application, see [Learn about FSC common applications](learn-common-apps.md).
+To learn more about each application, see [Learn about FSC common applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/common-service-delivery/learn-common-apps.md).
 
 ## Request apps on the Store
 

@@ -23,5 +23,5 @@ The workflow for configuring the Discovery Sensor for OT is as follows.
 6.  Register the Discovery Sensor for OT using the DMI and the Discovery Console for OT.
 7.  After the Discovery Sensor for OT is installed and registered, install the OT Discovery Collector.
 
-You can start with [Install the Discovery Sensor for OT](install-discovery-sensor-for-ot.md).
+You can start with [Install the Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/install-discovery-sensor-for-ot.md).
 

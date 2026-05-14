@@ -19,15 +19,15 @@ Administrators configure the Dependency Configuration records in the administrat
 
 The example shows the Planning dependency update configuration record.
 
-![Updating the BCP dependencies.](../image/plan-dep-update-config.png)
+![Updating the BCP dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plan-dep-update-config.png)
 
 Consider an example where you have 2 BIAs done on Acrobat and the configuration is shown in the example. When **All records** option is selected and you select **Update dependencies** UI action from the plan record, the application pulls all the dependencies in all BIA records that satisfy the requirement. As shown in the example, dependencies of both BIA Latest and BIA Old records are pulled into the plan.
 
-![Source records.](../image/source-records-dep-update-config.png)![All BIA.](../image/all-bia-records.png)
+![Source records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/source-records-dep-update-config.png)![All BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/all-bia-records.png)
 
 When **Latest record only** option is selected and you select **Update dependencies** UI action from the plan record, the application considers one of the records of the two BIAs and it fetches the dependency assessment of that BIA record.
 
-![Latest BIA.](../image/latest-bia.png)![Dependency assessment from latest BIA.](../image/dep-assmt-latest-bia.png)
+![Latest BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/latest-bia.png)![Dependency assessment from latest BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dep-assmt-latest-bia.png)
 
 For the **Update dependencies** UI action in the plan record and the **Update BCP dependencies snapshot** scheduled job to function, it is necessary to have the Impact analysis dependency update configuration, Planning dependency update configuration, and Event dependency source configuration records established.
 
@@ -51,18 +51,18 @@ Dependencies are fetched from these sources for the events:
 -   Plan primary assets
 -   Plan related assets
 
-For information on configuring the impact analysis dependency updates, see [Configuring impact analysis dependency updates](imp-ana-dep-update-config-module.md).
+For information on configuring the impact analysis dependency updates, see [Configuring impact analysis dependency updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/imp-ana-dep-update-config-module.md).
 
-For information on configuring the planning dependency updates, see [Configuring planning dependency updates](confi-planning-dep-updates.md).
+For information on configuring the planning dependency updates, see [Configuring planning dependency updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/confi-planning-dep-updates.md).
 
-For information on configuring the sources for adding the event dependencies, see [Configuring sources for adding event dependencies](configuring-event-dep-updates.md).
+For information on configuring the sources for adding the event dependencies, see [Configuring sources for adding event dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-event-dep-updates.md).
 
--   **[Configuring impact analysis dependency updates](imp-ana-dep-update-config-module.md)**  
+-   **[Configuring impact analysis dependency updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/imp-ana-dep-update-config-module.md)**  
 The BCM administrators configure the Impact analysis dependency update configuration record so that an auto-update of the BIA dependencies can be scheduled based on the source data and relationships in the CMDB.
--   **[Configuring planning dependency updates](confi-planning-dep-updates.md)**  
+-   **[Configuring planning dependency updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/confi-planning-dep-updates.md)**  
 The BCM administrators configure the Planning dependency update configuration record so that an auto-update of the related assets in the plans can be scheduled based on the source data and relationships in the CMDB and BIA.
--   **[Configuring sources for adding event dependencies](configuring-event-dep-updates.md)**  
+-   **[Configuring sources for adding event dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-event-dep-updates.md)**  
 The BCM administrators configure the sources in the Event dependency source configuration record so that the impacted assets are added in the events and exercises based on the source data and relationships in the BIA, CMDB, and plans.
 
-**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 

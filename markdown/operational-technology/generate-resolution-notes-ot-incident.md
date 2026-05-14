@@ -40,7 +40,7 @@ OT incident resolution notes are generated from the following information:
 
 4.  Open the OT incident record that you want to generate resolution notes for.
 
-5.  In the **Resolution notes** field, select the **Use Now Assist to generate notes** \(![Use Now Assist to generate notes quick action feature](../image/resolution-note-quick-action.png)\) quick action.
+5.  In the **Resolution notes** field, select the **Use Now Assist to generate notes** \(![Use Now Assist to generate notes quick action feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/resolution-note-quick-action.png)\) quick action.
 
 6.  Select **Generate resolution notes**.
 
@@ -80,7 +80,7 @@ If you want to provide more details in the OT resolution notes, select **Refine*
 
 </td><td>
 
-If you think that the OT resolution notes were helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the resolution notes weren't helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the OT resolution notes were helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/icon-helpful.png)\). If you think that the resolution notes weren't helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d66071e257">
 
@@ -88,7 +88,7 @@ If you think that the OT resolution notes were helpful, select the helpful icon 
 
 </td><td>
 
-If you want to reuse the OT resolution notes, select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\).
+If you want to reuse the OT resolution notes, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/icon-copy.png)\).
 
 </td></tr><tr><td id="d66071e273">
 
@@ -96,7 +96,7 @@ If you want to reuse the OT resolution notes, select the copy to clipboard icon 
 
 </td><td>
 
-If you want to check some details about the OT resolution notes, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the OT resolution notes, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>9.  In the **Resolution code** field, update the resolution code and select **Resolve**.
@@ -106,5 +106,5 @@ If you want to check some details about the OT resolution notes, select the more
     The resolution information is updated and the state of the OT incident is set to **Resolved**.
 
 
-**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](../concept/using-now-assist-otsm.md)
+**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/using-now-assist-otsm.md)
 

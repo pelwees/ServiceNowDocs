@@ -49,9 +49,9 @@ E-signature approvals provide security, compliance, and accountability by introd
 
 When you select a table \(sc\_request\) and enable the e-signature, the approvers can perform the approve or reject actions only after a successful user credential authentication. The approver authentication window redirects to the identity provider login screen for an SSO enabled instance.​
 
-![User credential authentication for approval](../images/esignature-authentication.png "Approver authentication")
+![User credential authentication for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/esignature-authentication.png "Approver authentication")
 
 **Note:** When you do not upgrade to the latest employee center, you do not see the authentication window.
 
-For more information on approvals, see [Use approval experience](ec-to-dos-use-approval-hub.md).
+For more information on approvals, see [Use approval experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-dos-use-approval-hub.md).
 

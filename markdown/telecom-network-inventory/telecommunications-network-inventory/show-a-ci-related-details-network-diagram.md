@@ -32,7 +32,7 @@ With the use of a network diagram, you can do the following:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\).
 
 3.  Go to **Inventory** &gt; **Logical Connections**.
 
@@ -56,8 +56,8 @@ Details
 
 </td><td>
 
-1.  Expand the hierarchy level by selecting the add icon \(![Add Icon](../image/icon-add-circuit.png)\) on the connection node.
-2.  Expand further by selecting the add icon \(![Add Icon](../image/icon-add-circuit.png)\) of the underlying connection nodes.
+1.  Expand the hierarchy level by selecting the add icon \(![Add Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-add-circuit.png)\) on the connection node.
+2.  Expand further by selecting the add icon \(![Add Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-add-circuit.png)\) of the underlying connection nodes.
  **Note:** When there are underlying connection elements in a logical connection, the connection node appears as a stacked pill shape. After expansion, it transforms into a box shape.
 
 </td></tr><tr><td id="d31756e171">
@@ -66,9 +66,9 @@ Details
 
 </td><td>
 
-1.  Select the clock icon \(![Clock Icon.](../image/icon-clock.png)\). The revision of the logical connection is displayed on the **Revision view** tab
+1.  Select the clock icon \(![Clock Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-clock.png)\). The revision of the logical connection is displayed on the **Revision view** tab
 
-**Note:** The clock icon \(![Clock Icon.](../image/icon-clock.png)\) is displayed on the map only when the logical connection record has a revision.
+**Note:** The clock icon \(![Clock Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-clock.png)\) is displayed on the map only when the logical connection record has a revision.
 
 2.  Select **Current view** to view the original logical connection.
  You can toggle the view between the original logical connection and revision of the logical connection to compare the differences.
@@ -79,11 +79,11 @@ Details
 
 </td><td>
 
-Select the protection path icon \(![Protection Path Icon.](../image/icon-protection-path.png)\) to view the protection paths for the logical connection.**Note:** The protection path icon \(![Protection Path Icon.](../image/icon-protection-path.png)\) is displayed on the map only when the logical connection record has a protection path.
+Select the protection path icon \(![Protection Path Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-protection-path.png)\) to view the protection paths for the logical connection.**Note:** The protection path icon \(![Protection Path Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-protection-path.png)\) is displayed on the map only when the logical connection record has a protection path.
 
 You can’t expand the underlying connection elements of a protection path. To view the details of the protection path, select the protection path node, and then select **View Details** in the details pane.
 
-To learn more about to create a protection path, see [Create a protection path](create-a-protection-path.md).
+To learn more about to create a protection path, see [Create a protection path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-protection-path.md).
 
 </td></tr><tr><td id="d31756e252">
 
@@ -97,14 +97,14 @@ To learn more about to create a protection path, see [Create a protection path](
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-network-diagram.md)
 
 **Related topics**  
 
 
-[Download a network diagram](download-network-diagram.md)
+[Download a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/download-network-diagram.md)
 
-[Create a protection path](create-a-protection-path.md)
+[Create a protection path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-protection-path.md)
 
-[Visualize circuits](../concept/unified-map-view-of-connection-elements.md)
+[Visualize circuits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/unified-map-view-of-connection-elements.md)
 

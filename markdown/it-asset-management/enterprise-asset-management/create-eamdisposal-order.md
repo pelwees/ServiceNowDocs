@@ -174,5 +174,5 @@ Vendor that you want to dispose the asset to.
     All the enterprise disposal tasks are complete and the enterprise disposal order stage changes to completed.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-enterprise-asset-inventory.md)
 

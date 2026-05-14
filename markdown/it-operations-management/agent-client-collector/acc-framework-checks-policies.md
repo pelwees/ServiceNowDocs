@@ -76,5 +76,5 @@ endpoint\_discovery.rb
 </td></tr></tbody>
 </table>**Note:** The **check-read-log** and **config-file-reader** checks are for internal use only.
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

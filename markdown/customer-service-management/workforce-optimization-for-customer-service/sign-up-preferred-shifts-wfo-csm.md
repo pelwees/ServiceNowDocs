@@ -27,7 +27,7 @@ You can receive notifications when your manager makes a schedule plan available 
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Schedule icon \(![Schedule icon.](../image/schedule-icon.png)\).
+2.  Select the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-icon.png)\).
 
 3.  Select the **Sign up shifts** tab.
 
@@ -43,7 +43,7 @@ You can receive notifications when your manager makes a schedule plan available 
     |Closed Incomplete|The schedule plan currently does not have shifts for which you could sign up.|
     |Closed Complete|The schedule plan has at least one preferred shift for which you've signed up.|
 
-4.  Select the Overlapping time off icon \(![Overlapping time off.](../image/overlapping-time-off-icon.png)\) to analyze if the time off you have requested or the ones that have been approved overlap with the schedule plan available to you for sign up.
+4.  Select the Overlapping time off icon \(![Overlapping time off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/overlapping-time-off-icon.png)\) to analyze if the time off you have requested or the ones that have been approved overlap with the schedule plan available to you for sign up.
 
 5.  To sign up for your preferred shifts, select **Add shifts**.
 
@@ -64,5 +64,5 @@ You can receive notifications when your manager makes a schedule plan available 
     All shifts you have added for sign up will be submitted.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

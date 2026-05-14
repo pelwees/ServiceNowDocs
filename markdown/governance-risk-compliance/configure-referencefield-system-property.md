@@ -31,21 +31,21 @@ You can configure the **referenceFieldLoadLimit** system property for the refere
 
     A list view of the Action Assignments table is displayed as shown in the example.
 
-    ![Action assignments table.](../image/prop-update-action-assignments-table.png)
+    ![Action assignments table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-action-assignments-table.png)
 
 2.  In the **Action label** column, enter the name of the assessment action and select the assessment.
 
     A sample search string for the assessment is displayed in the example.
 
-    ![Action label column.](../image/prop-update-dependency-assessment-action-label-column.png)
+    ![Action label column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-dependency-assessment-action-label-column.png)
 
-    When you select the assessment, the form view of the Action Assignment table is displayed as shown in the example.![Form view for the selected action.](../image/prop-update-advanced-view-action-assignment-table.png)
+    When you select the assessment, the form view of the Action Assignment table is displayed as shown in the example.![Form view for the selected action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-advanced-view-action-assignment-table.png)
 
 3.  In the form view of the Action Assignment table, select **Advanced View**.
 
     After you’ve selected the **Advanced View**, the properties for the selected action are displayed in the **Component Attributes** tab as shown in the example.
 
-    ![Component attributes.](../image/prop-update-componentattributes.png)
+    ![Component attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-componentattributes.png)
 
     An informational message is displayed on the screen: `To edit this record, click Here.`
 
@@ -55,18 +55,18 @@ You can configure the **referenceFieldLoadLimit** system property for the refere
 
     A sample configuration of the **referenceFieldLoadLimit** property is displayed in the example.
 
-    ![Sample configuration of the property.](../image/prop-update-configured-value.png)
+    ![Sample configuration of the property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-configured-value.png)
 
 5.  Select **Update**.
 
-    You’ve configured the **referenceFieldLoadLimit** property for the selected assessment as shown in the example. ![Property set for the assessment.](../image/configured-value.png)
+    You’ve configured the **referenceFieldLoadLimit** property for the selected assessment as shown in the example. ![Property set for the assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/configured-value.png)
 
     **Note:** As outlined in the context of this task, you can set the **referenceFieldLoadLimit** property to control the number the reference fields on different grid configuration pages.
 
     The example shows the updated number of the records for the **Disruption Duration** field in the **RTO Impact Assessment** tab.
 
-    ![Sample display of the records.](../image/prop-update-updated-value-on-the-screen.png)
+    ![Sample display of the records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-updated-value-on-the-screen.png)
 
 
-**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-sys-admin-tasks.md)
 

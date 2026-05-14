@@ -19,17 +19,17 @@ Use the Operational Technology \(OT\) Manager Foundation to help streamline proc
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about OT Manager Foundation](exploring-now-assist-for-otm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about OT Manager Foundation](exploring-now-assist-for-otm.md)
 
 </td><td>
 
-[Configure](configuring-na-otm.md)
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
- [![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the OT Manager Foundation to get started](configuring-na-otm.md)
+ [![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the OT Manager Foundation to get started](configuring-na-otm.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by the OT Manager Foundation](using-now-assist-for-otm.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by the OT Manager Foundation](using-now-assist-for-otm.md)
 
 </td></tr><tr><td>
 
@@ -37,9 +37,9 @@ Use the Operational Technology \(OT\) Manager Foundation to help streamline proc
 
 </td><td>
 
-[Use the OTM AI agent collection](now-assist-for-otm-use-cases.md)
+[Use the OTM AI agent collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-otm-use-cases.md)
 
- [![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows for the OT Manager Foundation](now-assist-for-otm-use-cases.md)
+ [![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows for the OT Manager Foundation](now-assist-for-otm-use-cases.md)
 
 </td><td>
 

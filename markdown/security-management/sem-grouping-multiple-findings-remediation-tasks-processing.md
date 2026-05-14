@@ -58,7 +58,7 @@ When a new finding is created, imported, or reopened, the system evaluates it ag
 Remediation tasks can be created in the following ways:
 
 -   Automatically using remediation task rules \(recommended for efficiency\).
--   Manually in the IT Remediation Workspace. For more information, see [Create a remediation task manually in the IT Remediation Workspace](../../vr-it-remediation-workspace/task/itr-ws-create-remediation-task.md).
+-   Manually in the IT Remediation Workspace. For more information, see [Create a remediation task manually in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-it-remediation-workspace/task/itr-ws-create-remediation-task.md).
 
 ## State synchronization
 
@@ -69,10 +69,10 @@ Remediation tasks can be created in the following ways:
 
 Assignment groups and assignees from remediation tasks are rolled down to associated findings unless those findings already have different assignments. This roll down helps standardize ownership across all related records.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configuring remediation task rules](sem-configure-remediation-task-rules.md#)
+[Configuring remediation task rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-task-rules.md#)
 

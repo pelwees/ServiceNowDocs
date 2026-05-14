@@ -63,5 +63,5 @@ Example: `${template_script:msi_collab_cards}`
     **Note:** You can also create your own template script to include the related lists data, date operations, and any other data that aren’t directly dot-walkable, in addition to the listed template scripts.
 
 
-**Parent Topic:**[Create a Report Template](create-report-template.md)
+**Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 

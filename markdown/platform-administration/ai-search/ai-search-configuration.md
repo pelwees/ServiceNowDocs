@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 Search administrators configure AI Search indexing and search settings in indexed sources, search sources, search profiles, and search application configurations.
 
-![Diagram showing details and relationships for AI Search indexed source, search source, search profile, and search application configuration.](../image/ai-search-configuration-diagram.png "AI Search configuration diagram")
+![Diagram showing details and relationships for AI Search indexed source, search source, search profile, and search application configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ai-search-configuration-diagram.png "AI Search configuration diagram")
 
-**Parent Topic:**[Exploring AI Search](explore-ais.md)
+**Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 

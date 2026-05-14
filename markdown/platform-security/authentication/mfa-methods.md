@@ -19,21 +19,21 @@ The users can use the following options in addition to their user name and passw
 
 ## Authenticator Applications
 
-An authenticator application is third-party software that generates temporary passcodes. Users can use these passcodes along with their password to log in into an instance that requires multi-factor authentication \(MFA\). For more detail on these applications, see [Authenticator Applications](mfa-auth-app.md).
+An authenticator application is third-party software that generates temporary passcodes. Users can use these passcodes along with their password to log in into an instance that requires multi-factor authentication \(MFA\). For more detail on these applications, see [Authenticator Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-app.md).
 
-![Authenticator](../images/auth-app.png)
+![Authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/auth-app.png)
 
 ## Hardware Keys and Biometric scanners \(Web Authentication\)
 
 The **Integration - Web Authentication** \(com.snc.integration.webauthn\) plugin allows hardware key or biometric reader authentication on your instance.
 
-Biometric authenticators use fingerprint or facial recognition to identify users. Your users can use these authenticators on their devices as part of the multi-factor login process. For details on registering biometric authenticators, see [Register a biometric authenticator](../task/mfa-setup-bio-auth.md).
+Biometric authenticators use fingerprint or facial recognition to identify users. Your users can use these authenticators on their devices as part of the multi-factor login process. For details on registering biometric authenticators, see [Register a biometric authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/mfa-setup-bio-auth.md).
 
-![Biometrics icon](../images/biometric-2.png)
+![Biometrics icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/biometric-2.png)
 
-Hardware keys are physical hardware that you can use to authenticate. Hardware keys are inserted into a port on your device to provide authentication. For details on registering hardware keys, see [Register a hardware security key](../task/mfa-setup-hardware-key-auth.md).
+Hardware keys are physical hardware that you can use to authenticate. Hardware keys are inserted into a port on your device to provide authentication. For details on registering hardware keys, see [Register a hardware security key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/mfa-setup-hardware-key-auth.md).
 
-![Hardware key icon](../images/hardware-key.png)
+![Hardware key icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/hardware-key.png)
 
 ## Passkey
 
@@ -43,24 +43,24 @@ Passkey authentication is a secure, password less method of log in, where the us
 
 Admin can configure ServiceNow instance to require users who attempt to log in to the instance using SMS based OTP.
 
-When users attempt to log in to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. Users can enter the six-digit verification code that it sent to the mobile device and verify their identity. For more information, see [SMS as an MFA factor](mfa-with-sms.md).
+When users attempt to log in to ServiceNow, SMS OTP is sent to the mobile number associated with the sys\_user record. Users can enter the six-digit verification code that it sent to the mobile device and verify their identity. For more information, see [SMS as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-sms.md).
 
-![SMS](../images/sms.png)
+![SMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/sms.png)
 
 ## Email
 
 Admin can configure ServiceNow instance to require users who attempt to log in to the instance using Email based OTP.
 
-When users attempt to log in to ServiceNow, Email OTP is sent to the email address of the user. Users can enter the six-digit verification code that it sent to the email address and verify their identity. For more information, see [Email as an MFA factor](mfa-with-email.md).
+When users attempt to log in to ServiceNow, Email OTP is sent to the email address of the user. Users can enter the six-digit verification code that it sent to the email address and verify their identity. For more information, see [Email as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md).
 
-![Email](../images/email.png)
+![Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/email.png)
 
 **Related topics**  
 
 
-[Web Authentication - MFA](web-authentication-mfa.md)
+[Web Authentication - MFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/web-authentication-mfa.md)
 
-[Multi-factor Authentication verification methods](mfa-methods.md)
+[Multi-factor Authentication verification methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-methods.md)
 
-[Email as an MFA factor](mfa-with-email.md)
+[Email as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md)
 

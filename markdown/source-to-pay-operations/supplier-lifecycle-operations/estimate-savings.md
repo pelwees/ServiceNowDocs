@@ -35,11 +35,11 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 5.  Select **Launch savings estimator** under the **Credit card savings estimator** section.
 
-    ![Launch savings estimator](../image/propensity-scorecard.png)
+    ![Launch savings estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/propensity-scorecard.png)
 
     The **Virtual card value estimator** is displayed.
 
-    ![Virtual card value estimator](../image/estimator-tool.png)
+    ![Virtual card value estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/estimator-tool.png)
 
     You can see the saving calculation formulas by selecting the **Estimator formula** tab.
 
@@ -49,7 +49,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
     The saving estimate is created and saved. You can select **View saved estimates** to view the list of saved estimates.
 
-    ![Saved estimates](../image/saved-estimates.png)
+    ![Saved estimates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/saved-estimates.png)
 
     **Note:** You can modify the saved estimates as required.
 
@@ -58,12 +58,12 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 The potential savings from credit card payments are displayed.
 
-**Parent Topic:**[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+**Parent Topic:**[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
 **Related topics**  
 
 
-[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
-[View the Payment Optimization dashboard](view-payment-opt-db.md)
+[View the Payment Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-payment-opt-db.md)
 

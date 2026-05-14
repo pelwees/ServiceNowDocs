@@ -17,5 +17,5 @@ You can check whether updates are available for installed applications and plugi
 
 The **Updates** tab displays applications and plugins that are ready for you to update. If there are updates available, they’re displayed and a green **Update available** message is displayed on the tile. You can also apply filters to narrow your search or use the sorting option to display by alphabetical order or based on recently released.
 
-![Application Manager updates page.](../image/app-mgr-updates.png)
+![Application Manager updates page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-mgr-updates.png)
 

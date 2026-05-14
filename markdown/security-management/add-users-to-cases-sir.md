@@ -37,7 +37,7 @@ You need to navigate to the user records you want to add to existing cases.
 
     The **Add to Security Case** dialog box opens and displays the cases assigned to you.
 
-    ![Add uses to existing cases](../image/add-user-to-existing-case.png)
+    ![Add uses to existing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-user-to-existing-case.png)
 
 4.  Select the cases into which you want to add the selected users.
 
@@ -46,10 +46,10 @@ You need to navigate to the user records you want to add to existing cases.
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Affected users in cases](../concept/cases-from-affected-users.md)
+**Parent Topic:**[Affected users in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-from-affected-users.md)
 
 **Related topics**  
 
 
-[Create a case from affected users](create-cases-from-affected-users.md)
+[Create a case from affected users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-from-affected-users.md)
 

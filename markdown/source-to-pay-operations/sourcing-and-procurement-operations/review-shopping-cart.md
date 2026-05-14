@@ -27,7 +27,7 @@ Role required: sn\_shop.shopper
 
 3.  Do one of the following actions:
 
-    ![Shopping cart showing selected products and purchase quantities.](../image/spo-review-shopping-cart.png)
+    ![Shopping cart showing selected products and purchase quantities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-review-shopping-cart.png)
 
     -   Select **+** or **–** to edit the purchase quantity for the products you shortlisted.
     -   Select **Remove** to remove products from your cart.
@@ -41,7 +41,7 @@ Role required: sn\_shop.shopper
 
 ## What to do next
 
-When you’re done reviewing your cart, you can proceed with the final checkout. For more information on how to proceed, see [Complete your checkout](complete-your-checkout.md).
+When you’re done reviewing your cart, you can proceed with the final checkout. For more information on how to proceed, see [Complete your checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md).
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shopping-cart.md)
 

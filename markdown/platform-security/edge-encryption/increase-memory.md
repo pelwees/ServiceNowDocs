@@ -90,11 +90,11 @@ wrapper.java.additional.5 = -Xmx6144m
 
 ## What to do next
 
-[Start the Edge Encryption proxy](t_RuntheProxy.md).
+[Start the Edge Encryption proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RuntheProxy.md).
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-**Previous topic:**[Configure a web proxy](t_SetUpWebProxyProperties.md)
+**Previous topic:**[Configure a web proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpWebProxyProperties.md)
 
-**Next topic:**[Start the Edge Encryption proxy](t_RuntheProxy.md)
+**Next topic:**[Start the Edge Encryption proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RuntheProxy.md)
 

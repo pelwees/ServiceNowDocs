@@ -25,5 +25,5 @@ The Workplace Services Kiosk displays a generic error page to the user when an e
 -   The floor where the kiosk camera is set isn’t part of the configured view type.
 -   The floor where the kiosk is positioned isn’t part of the configured view type.
 
-**Parent Topic:**[Workplace Services Kiosk reference](workplace-services-kiosk-reference.md)
+**Parent Topic:**[Workplace Services Kiosk reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 

@@ -59,17 +59,17 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Target form, click the **Update Actual value** related link.
 
-    For a description of the field values, see [Target form](../reference/target-form.md).
+    For a description of the field values, see [Target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/target-form.md).
 
 
 ## Result
 
-After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](../concept/progress-value-calculation.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns](../concept/target-breakdowns-gf.md).
+After the **Actuals to date** field is updated, the progress value for the target and its goal are auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/progress-value-calculation.md). For information on how the progress value is calculated for a target that has target breakdowns, see [Target breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/target-breakdowns-gf.md).
 
 **Related topics**  
 
 
-[Update the progress of a manual target](update-progress-of-target.md)
+[Update the progress of a manual target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-progress-of-target.md)
 
-[Update the actual value of a target breakdown](update-the-actual-value-of-a-target-breakdown-gf.md)
+[Update the actual value of a target breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-the-actual-value-of-a-target-breakdown-gf.md)
 

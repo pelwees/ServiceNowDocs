@@ -21,7 +21,7 @@ Role required: events\_scheduler\_dashboard\_viewer and scheduler\_dasboard\_vie
 
 1.  Go to **All** &gt; **System Diagnostics** &gt; **System Events Dashboard**.
 
-    ![Image showing System Event Monitoring dashboard](../image/system-events-dashboard.png)
+    ![Image showing System Event Monitoring dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/system-events-dashboard.png)
 
     The System Event Monitoring dashboard shows up.
 
@@ -145,7 +145,7 @@ Role required: events\_scheduler\_dashboard\_viewer and scheduler\_dasboard\_vie
 
 4.  Select the alert you just updated.
 
-    **Note:** You can open the Event Alert form for the selected alert by selecting the Created column. If you select the Alert Configuration column, the Event Alert Configuration form for the selected alert shows up. You can also open the Event Alert form by selecting the 'i' icon.![Event Alert form.](../image/events-alert-form.png)
+    **Note:** You can open the Event Alert form for the selected alert by selecting the Created column. If you select the Alert Configuration column, the Event Alert Configuration form for the selected alert shows up. You can also open the Event Alert form by selecting the 'i' icon.![Event Alert form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/events-alert-form.png)
 
 5.  Select **Reset alert** if the alert notification is no longer required.
 

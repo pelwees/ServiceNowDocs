@@ -94,7 +94,7 @@ Horizontal stage picker
 
 </td><td>
 
-A horizontal stage picker displays the playbook stages horizontally at the top of the record page and highlights the current stage. It displays activities within the current stage in the activity picker.![playbook horizontal stage picker with four stages: Intake, Investigate, Work in progress, Resolve](../image/csm-playbook-horiz-stage-picker.png)
+A horizontal stage picker displays the playbook stages horizontally at the top of the record page and highlights the current stage. It displays activities within the current stage in the activity picker.![playbook horizontal stage picker with four stages: Intake, Investigate, Work in progress, Resolve](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-playbook-horiz-stage-picker.png)
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Vertical stage picker
 
 </td><td>
 
-A vertical stage picker displays the playbook stages and activities vertically on the side of the record page. It highlights and expands the current stage to display the activities within that stage.![playbook vertical stage picker with four stages: Intake, Investigate, Work in progress, Resolve](../image/csm-playbook-vert-stage-picker.png)
+A vertical stage picker displays the playbook stages and activities vertically on the side of the record page. It highlights and expands the current stage to display the activities within that stage.![playbook vertical stage picker with four stages: Intake, Investigate, Work in progress, Resolve](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-playbook-vert-stage-picker.png)
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Activity picker
 
 </td><td>
 
-The activity picker displays the activities in the current stage. It includes indicators that show the activity state.![Activity viewer expanded to show the list of activities for the current stage. The current activity is highlighted.](../image/csm-playbook-activity-picker.png)
+The activity picker displays the activities in the current stage. It includes indicators that show the activity state.![Activity viewer expanded to show the list of activities for the current stage. The current activity is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-playbook-activity-picker.png)
 
 </td></tr><tr><td>
 

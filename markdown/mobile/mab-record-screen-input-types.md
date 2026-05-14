@@ -17,12 +17,12 @@ When either creating a new record or editing an existing record, you are present
 
 |Input field type|Function|Image|
 |----------------|--------|-----|
-|Text input|Text field that can contain up to 40 characters.|![Mobile App Builder record screen text input.](../image/mab-field-text.png)|
-|Text area input|Text area that can contain an unlimited number of characters.|![Mobile App Builder record screen text area input.](../image/mab-field-description.png)|
-|Toggle switch|Switch to enable or disable the functionality.|![Mobile App Builder record screen toggle switch.](../image/mab-buttons-toggle.png)|
-|Option button|Select a single option from the two or more displayed options.|![Mobile App Builder record screen option button.](../image/mab-button-radio.png)|
-|Menu list|Select the down arrow from the menu to display a list of choices and to select a single item.|![Mobile App Builder record screen list.](../image/mab-dropdown-list.png)|
-|List|Add list entries and define a value for each of them.|![Mobile App Builder record screen list field.](../image/mab-field-list-simple.png)|
-|Condition type|Set the condition type and the condition definitions for the selected record.|![Mobile App Builder record screen condition field.](../image/mab-field-condition.png)|
-|Record screen table|Tables consist of either a single reference record or a multi-reference record. Depending on the predefined setup of the table, you can either choose new records, edit existing records, or perform both these actions. For information on working with these tables, see [Record screen tables](mab-record-screen-tables.md).|![Mobile App Builder record screen table.](../image/mab-record-screen-table.png)|
+|Text input|Text field that can contain up to 40 characters.|![Mobile App Builder record screen text input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-field-text.png)|
+|Text area input|Text area that can contain an unlimited number of characters.|![Mobile App Builder record screen text area input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-field-description.png)|
+|Toggle switch|Switch to enable or disable the functionality.|![Mobile App Builder record screen toggle switch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-buttons-toggle.png)|
+|Option button|Select a single option from the two or more displayed options.|![Mobile App Builder record screen option button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-radio.png)|
+|Menu list|Select the down arrow from the menu to display a list of choices and to select a single item.|![Mobile App Builder record screen list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-dropdown-list.png)|
+|List|Add list entries and define a value for each of them.|![Mobile App Builder record screen list field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-field-list-simple.png)|
+|Condition type|Set the condition type and the condition definitions for the selected record.|![Mobile App Builder record screen condition field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-field-condition.png)|
+|Record screen table|Tables consist of either a single reference record or a multi-reference record. Depending on the predefined setup of the table, you can either choose new records, edit existing records, or perform both these actions. For information on working with these tables, see [Record screen tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mab-record-screen-tables.md).|![Mobile App Builder record screen table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-record-screen-table.png)|
 

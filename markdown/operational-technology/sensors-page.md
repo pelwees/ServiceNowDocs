@@ -15,13 +15,13 @@ The Sensors page is used to monitor the statuses and manage the Sensor settings.
 
 The Sensors page displays a list of all Sensors that are associated with the Discovery Console for OT. To access the Sensors page, select the Sensors menu in the side panel and then, underneath that, select **Sensors**.
 
-![On and offline Sensors](../images/sensor-page-new.jpeg)
+![On and offline Sensors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/sensor-page-new.jpeg)
 
 ## Sensor Information
 
 The Sensor information page shows Sensor configuration and status information. To view this information, in the Sensor page, select the name of a Sensor to view its information. Most Sensors have similar configuration settings. However, each type of Sensor has different settings available based on their capabilities.
 
-![Sensor information](../images/sensor-info.png)
+![Sensor information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/sensor-info.png)
 
 The following sections describe the Sensor information available.
 
@@ -70,13 +70,13 @@ Duplicate keys are automatically removed, so the same SSH key only appears once,
 
 **Note:** As a safety feature to allow continued SSH access, disabling password authentication should only be considered if you have uploaded at least one SSH public key to the Sensor.
 
-![Password Authentication](../images/ssh-key-tab.png)
+![Password Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/ssh-key-tab.png)
 
 ## Sites
 
 The **Sites** tab displays which Sites are associated with the selected Sensor during an Auto Query. The Allow/Deny setting indicates whether the Sensor is associated with the Site. The tab also displays the Site name, what setting is recommended for that Site, and the reason for the recommendation. A Deny recommendation means the Site does not appear to be related to the Sensor. An Allow recommendation means the Site’s network ranges match the Device IP.
 
-![Allow-Deny settings](../images/allow-deny-sensors.png)
+![Allow-Deny settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/allow-deny-sensors.png)
 
 ## Status
 
@@ -91,5 +91,5 @@ The Actions menu in the Sensor Information page lets you access the following ac
 
 ## What to do next
 
-See the [Discovery Sensor for OT](ot-discovery-sensor-landing.md) section for procedures you can do with Sensors.
+See the [Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-sensor-landing.md) section for procedures you can do with Sensors.
 

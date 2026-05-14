@@ -25,7 +25,7 @@ An account code must be unique. Attempting to insert a new record with previousl
 
 An account path establishes the hierarchy among different accounts. This path is stored in the **Account Path** on the Account form.
 
-An account path is a combination of the account codes for each account in the hierarchy. For example, let's use the following accounts to demonstrate account paths.![Account hierarchy example with three levels of parent and child companies](../image/csm-config-workspace-account-hierarchy-example.png)
+An account path is a combination of the account codes for each account in the hierarchy. For example, let's use the following accounts to demonstrate account paths.![Account hierarchy example with three levels of parent and child companies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-workspace-account-hierarchy-example.png)
 
 <table id="table_mxm_dst_jyb"><thead><tr><th>
 

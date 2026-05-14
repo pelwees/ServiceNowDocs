@@ -21,7 +21,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_assessor
 
 ## About this task
 
-If you only need to create one fourth-nth party record or don't have time to send a questionnaire to a third party, you can create a fourth-nth party record manually. To create and register multiple fourth-nth party records, see [Register a fourth-nth party](tprm-fourth-party-register.md).
+If you only need to create one fourth-nth party record or don't have time to send a questionnaire to a third party, you can create a fourth-nth party record manually. To create and register multiple fourth-nth party records, see [Register a fourth-nth party](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-fourth-party-register.md).
 
 ## Procedure
 
@@ -112,6 +112,6 @@ Standard contact information for the third-party organization.
 
     The fourth-nth party record is active and associated with a third party.
 
-    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](../concept/tprm-monitor-fourth-parties.md).
+    For more information on fourth-nth parties, see [Monitoring your fourth-nth parties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-monitor-fourth-parties.md).
 
 

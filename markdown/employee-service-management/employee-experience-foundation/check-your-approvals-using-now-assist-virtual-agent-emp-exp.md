@@ -33,11 +33,11 @@ Role required: None
 
     To check your to-do approvals, you can enter instructions like `Show my approvals`, `Show my pending approvals`, or `Show me my approvals due today/due this week/due later/due soon`.
 
-    ![Now Assist for Employee Experience welcome message.](../images/uex-nowassist-startmsg.png)
+    ![Now Assist for Employee Experience welcome message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-nowassist-startmsg.png)
 
 4.  View the list of approvals, under the To-do approvals, by selecting **Start**.
 
-    ![Now Assist in Virtual Agent To-do approvals](../images/uex-nowassist-showmyappr.png)
+    ![Now Assist in Virtual Agent To-do approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-nowassist-showmyappr.png)
 
 5.  View the list of pending approvals in detail by selecting **Task Center** in the response.
 
@@ -54,16 +54,16 @@ Role required: None
 10. End the chat by selecting **End chat**.
 
 
-**Parent Topic:**[Using Now Assist for Employee Experience](../concept/use-now-assist-for-emp-exp.md)
+**Parent Topic:**[Using Now Assist for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/use-now-assist-for-emp-exp.md)
 
 **Related topics**  
 
 
-[Check your to-do tasks by using the Now Assist in Virtual Agent](check-todo-tasks-using-the-now-assist-virtual-agent.md)
+[Check your to-do tasks by using the Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-todo-tasks-using-the-now-assist-virtual-agent.md)
 
-[Check company news and events](check-company-news-using-nowassist-va.md)
+[Check company news and events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-company-news-using-nowassist-va.md)
 
-[View summarization for approvals](view-summarization-approvals.md)
+[View summarization for approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-summarization-approvals.md)
 
-[Manage approvals with Now Assist Approval Assistance AI agent](manage-approvals-with-approvals-agent.md)
+[Manage approvals with Now Assist Approval Assistance AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-approvals-with-approvals-agent.md)
 

@@ -43,7 +43,7 @@ Steps
 
 </td><td>
 
-Select Actions button ![Actions button](../images/actions-icon.png), and select **Create Playbook**.
+Select Actions button ![Actions button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/actions-icon.png), and select **Create Playbook**.
 
 </td></tr><tr><td id="d707195e132">
 
@@ -51,13 +51,13 @@ Select Actions button ![Actions button](../images/actions-icon.png), and select 
 
 </td><td>
 
-1.  Select Explore button ![Explore button](../images/explore-button.png).
+1.  Select Explore button ![Explore button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/explore-button.png).
 2.  In the Now Assist panel, select **Create playbook**.
 
 
 </td></tr></tbody>
-</table>    ![create leap playbook from Actions](../images/create-leap-playbook-updated.png) Workflow Studio opens and the playbook generation process starts. The **Playbook name** and **Now Assist directions** fields are pre-filled with the problem record title and the generated resolution steps.
+</table>    ![create leap playbook from Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/create-leap-playbook-updated.png) Workflow Studio opens and the playbook generation process starts. The **Playbook name** and **Now Assist directions** fields are pre-filled with the problem record title and the generated resolution steps.
 
-    ![LEAP playbook in Workflow studio](../images/workflow-studio-for-playbooks.png)
+    ![LEAP playbook in Workflow studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/workflow-studio-for-playbooks.png)
 
 

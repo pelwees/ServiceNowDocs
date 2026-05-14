@@ -42,5 +42,5 @@ After a contract is canceled, the following process occurs.
 4.  Click **Yes** to confirm the contract cancellation.
 
 
-**Parent Topic:**[Adjust a contract](t_AdjustAContract.md)
+**Parent Topic:**[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AdjustAContract.md)
 

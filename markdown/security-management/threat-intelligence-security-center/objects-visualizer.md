@@ -15,7 +15,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 Using the Visualizer, you can view the relationships between objects, observables and indicators which provides context for you to further investigate. The Visualizer uses colors and icons to illustrate various information about the objects.
 
-![Objects Visualizer](../image/tisc-visualizer.png)
+![Objects Visualizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-visualizer.png)
 
 You can do the following:
 
@@ -26,8 +26,8 @@ You can do the following:
 
 -   You can also click on the pop out icon to view the graph in a much larger window.
 
--   **[Link node actions in Relationship Graph](../task/tisc-link-nodes.md)**  
+-   **[Link node actions in Relationship Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-link-nodes.md)**  
 Add new related records to link the nodes.
 
-**Parent Topic:**[Observables](observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 

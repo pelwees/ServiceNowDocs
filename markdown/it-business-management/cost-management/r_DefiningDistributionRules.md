@@ -52,5 +52,5 @@ As noted in the default script, when the advanced field is enabled, the followin
 
 A scheduled job called Process FM Costs automatically processes distribution costs daily.
 
-**Parent Topic:**[Using distribution costs and rules](r_UsingDistributionCostsAndRules.md)
+**Parent Topic:**[Using distribution costs and rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_UsingDistributionCostsAndRules.md)
 

@@ -32,5 +32,5 @@ Store a single Sys ID reference to a record in a specific table.
 |Default value|Specifies the value used when a flow or action designer does not provide a value.|
 |Reference qualifier conditions|Specifies the conditions used to filter records from the target table. The system only displays records from the target table that match the reference qualifier conditions. Use the condition builder to add one or more conditions.|
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

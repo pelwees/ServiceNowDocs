@@ -17,23 +17,23 @@ Care Team Operations for Biomed contains the case types to report and fulfill bi
 
 <table id="table_kzp_hkr_hdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Biomed.](exploring-cto-biomed.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Operations for Biomed.](exploring-cto-biomed.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-cto-biomed.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configuring-cto-biomed.md)
 
 </td><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Biomed department.](requesting-cto-biomed.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-manage.svg)Create operational support requests for your Healthcare Biomed department.](requesting-cto-biomed.md)
 
 </td></tr><tr><td>
 
-[Resolve![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases of work orders.](cto-fulfilling-biomed.md)
+[Resolve![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg)Resolve support requests in the form of cases of work orders.](cto-fulfilling-biomed.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-biomed-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](cto-biomed-reference.md)
 
 </td><td>
 

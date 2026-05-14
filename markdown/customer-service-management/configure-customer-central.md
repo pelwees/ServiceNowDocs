@@ -25,7 +25,7 @@ Customer Central provides customer service agents with all the information about
 
 Customer Central consists of two views, Customer Information and Customer History. In CSM Configurable Workspace, Customer Central is displayed on the interaction, account, contact, or consumer records.
 
-For more information, see [Customer Central](../concept/customer-central.md).
+For more information, see [Customer Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/customer-central.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ The Customer Central application \(com.sn\_csm\_customer\_central\) is activated
 
 </td></tr><tr><td>
 
-[Configure the Customer Information view using CSM Configurable Workspace](cust-central-configure-info-tab.md)
+[Configure the Customer Information view using CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/cust-central-configure-info-tab.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Configure the display of the Customer Information view using CSM Configurable Wo
 
 </td></tr><tr><td>
 
-[Configure the Customer History view](configure-customer-activity.md)
+[Configure the Customer History view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-activity.md)
 
 </td><td>
 

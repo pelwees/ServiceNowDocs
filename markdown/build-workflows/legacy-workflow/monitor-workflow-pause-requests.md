@@ -54,5 +54,5 @@ You must install and activate the Workflow Pause Utility plugin.
     |Stuck Act Count To be subtracted for Pause Percentage|Writer to whom the documentation request is assigned.|
 
 
-**Parent Topic:**[Workflow pause utility](../concept/workflow-pause-utility.md)
+**Parent Topic:**[Workflow pause utility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../concept/workflow-pause-utility.md)
 

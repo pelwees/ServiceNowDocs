@@ -27,17 +27,17 @@ Each root-level stage configured in the Jenkinsfile is discovered as a separate 
 
     Where `ignoreErrors` specifies the setting to prevent job failure if there is an error \(true/false\)
 
-    Where `changeRequestDetails` specifies [closure code and change request fields](dev-ops-config-change-details.md) from within the pipeline
+    Where `changeRequestDetails` specifies [closure code and change request fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-config-change-details.md) from within the pipeline
 
     Enables change control for each root-level stage that is mapped to a DevOps step.
 
 -   `snDevOpsArtifact`
 
-    Registers artifacts when configuring [Artifacts and packages](using-dev-ops-release-change.md).
+    Registers artifacts when configuring [Artifacts and packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md).
 
 -   `snDevOpsPackage`
 
-    Creates a package for artifacts when configuring [Artifacts and packages](using-dev-ops-release-change.md).
+    Creates a package for artifacts when configuring [Artifacts and packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md).
 
 -   `snDevOpsGetChangeNumber`
 

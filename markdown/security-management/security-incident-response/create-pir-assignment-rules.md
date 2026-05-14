@@ -27,7 +27,7 @@ Role required: sn\_si.admin, sn\_si.manager, sn\_si.analyst
 
 3.  On the Post Incident Review Assignment Rules page, select **New**.
 
-    ![Post incident review assignment rule](../image/pir-assignment-rule.png)
+    ![Post incident review assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/pir-assignment-rule.png)
 
 4.  Fill in the fields, as needed.
 
@@ -95,5 +95,5 @@ Option to add an assignment group. All the active users of this group with the s
 
 In the post incident review assignment rule shown here, when a security incident with the **Category** field set to **Malicious code activity** transitions to the **Review** state, the three users identified \(who happen to be experts in dealing with malicious code activity\) are added to the list of users who receive the post incident review questionnaire for this security incident.
 
-![PIR assignment rule configuration](../image/malicious-code-activity.png "Malicious code activity")
+![PIR assignment rule configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/malicious-code-activity.png "Malicious code activity")
 

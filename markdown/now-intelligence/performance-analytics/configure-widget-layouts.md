@@ -17,7 +17,7 @@ You can change the appearance of widgets; change widget layouts; change the colo
 
 ## Before you begin
 
-Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
+Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 
@@ -27,7 +27,7 @@ Role required: User. dashboard\_admin for all dashboards, or any role for dashbo
 
 2.  From the dashboard picker, select the dashboard that you want to edit.
 
-3.  Click the plus sign \(![Plus sign button](../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
+3.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/AddWidgetButton.png)\) to put the dashboard in edit mode.
 
 4.  Perform any of the following actions.
 
@@ -45,13 +45,13 @@ Steps
 
 </td><td>
 
-1.  Point to the widget, then click the gear icon \(![Edit widget icon](../image/Pa_dashboard_cog.png)\).
+1.  Point to the widget, then click the gear icon \(![Edit widget icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/Pa_dashboard_cog.png)\).
 2.  In the Edit Widget window, select or clear the boxes to show or hide the border, header, and title.
 
 **Note:** If you hide the header, point to the handlebar at the top of the widget to show the icons.
 
 3.  To align the title, select **Left**, **Center**, or **Right**.
- ![Edit Widget window with Show Border, Header, and Title boxes selected.](../image/edit-widget-window.png) When you hide the widget header, no header icons are visible, including the icon indicating that you have applied an interactive filter to the widget.
+ ![Edit Widget window with Show Border, Header, and Title boxes selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/edit-widget-window.png) When you hide the widget header, no header icons are visible, including the icon indicating that you have applied an interactive filter to the widget.
 
  It is not possible to change the title of a widget from within a dashboard. The title is taken from the visualization the widget is based on. Edit the visualization itself to change the title.
 
@@ -61,8 +61,8 @@ Steps
 
 </td><td>
 
-1.  Point to the widget, then click the gear icon \(![Edit widget icon](../image/Pa_dashboard_cog.png)\).
-2.  In the Edit Widget window, click the color picker icon \(![Color picker icon](../image/color-picker.png)\) for Title color or Header color.
+1.  Point to the widget, then click the gear icon \(![Edit widget icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/Pa_dashboard_cog.png)\).
+2.  In the Edit Widget window, click the color picker icon \(![Color picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/color-picker.png)\) for Title color or Header color.
 3.  In the color picker, use the slider to choose a hue and select a color to choose it. You can also enter the hexadecimal code for the color in the **Title color** or **Header color** field. Delete the hexadecimal code to return to the default title or header color.
  **Note:** When you select a dark header color, the icons in the header change to white. When you select a light header color, the icons in the header change to black.
 
@@ -74,7 +74,7 @@ Steps
 
 Drag to move and resize widgets.
 
--   To make a widget larger, point to the widget header and then click the resize icon \(![Resize icon](../image/WidgetResizeIcon.png)\).
+-   To make a widget larger, point to the widget header and then click the resize icon \(![Resize icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/WidgetResizeIcon.png)\).
 -   To make a widget smaller, point to the widget header and press SHIFT as you click the resize icon.
 
 
@@ -84,7 +84,7 @@ Drag to move and resize widgets.
 
 </td><td>
 
-1.  Click the configuration icon \(![Configuration pane icon](../image/ConfigurationPaneButton.png)\) to open the Configuration pane.
+1.  Click the configuration icon \(![Configuration pane icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ConfigurationPaneButton.png)\) to open the Configuration pane.
 2.  Select **Use custom background color** and click on the color to open the color picker. It has five option icons: Color Wheel, Color Sliders, Color Palettes, Spectrum, and Pencils.
 3.  From the Sliders option, choose Grayscale, RGB, CMYK, or HSB. RGB enables you to specify hexadecimal codes.
 4.  Drag any color to the palette at the bottom of the color picker to use it in other Core UI dashboard backgrounds.
@@ -99,7 +99,7 @@ Core UI dashboard backgrounds are not themeable with custom colors.
 
 </td><td>
 
-1.  Click the configuration icon \(![Configuration pane icon](../image/ConfigurationPaneButton.png)\) to open the Configuration pane.
+1.  Click the configuration icon \(![Configuration pane icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ConfigurationPaneButton.png)\) to open the Configuration pane.
 2.  Click a layout to snap the widgets against. Resize or change the layout of widgets as desired.
 
 
@@ -109,8 +109,8 @@ Core UI dashboard backgrounds are not themeable with custom colors.
 
 </td><td>
 
-1.  Click the plus sign \(![Plus sign button](../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
-2.  Point to the top of the widget, then click the X icon \(![Remove widget icon](../image/RemoveWidgetButton.png)\) that appears.
+1.  Click the plus sign \(![Plus sign button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-add-user-db.png)\) to put the dashboard in edit mode.
+2.  Point to the top of the widget, then click the X icon \(![Remove widget icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/RemoveWidgetButton.png)\) that appears.
  **Note:** There is no confirmation message. The widget disappears from the dashboard.
 
 </td></tr></tbody>
@@ -119,5 +119,5 @@ Core UI dashboard backgrounds are not themeable with custom colors.
     From the **Add Widgets** list, select Content Blocks. For information about static content blocks, see [Configure a static HTML block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md).
 
 
-**Parent Topic:**[Edit a responsive dashboard](t_EditADashboard.md)
+**Parent Topic:**[Edit a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md)
 

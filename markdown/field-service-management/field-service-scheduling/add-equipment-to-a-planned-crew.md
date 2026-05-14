@@ -50,7 +50,7 @@ Equipment is added to the planned crew. This crew is eligible for tasks with equ
 **Related topics**  
 
 
-[Create crews in Field Service Management](create-crews-fsm.md)
+[Create crews in Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-crews-fsm.md)
 
 ## Assign equipment to planned crews through Dispatcher Workspace
 
@@ -82,7 +82,7 @@ Action
 
 </td><td>
 
-1.  On the equipment instance to be assigned, select the More actions icon \(![More actions icon](../image/OverflowIcon.png)\).
+1.  On the equipment instance to be assigned, select the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/OverflowIcon.png)\).
 2.  Select **Add to crew**.
 3.  Select a crew to add the equipment to.
 
@@ -93,7 +93,7 @@ Action
 
 </td><td>
 
-1.  On the dispatcher calendar sidebar, select the Crews icon \(![Crew icon.](../image/crew-new.png)\).
+1.  On the dispatcher calendar sidebar, select the Crews icon \(![Crew icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/crew-new.png)\).
 2.  Select a crew to assign equipment to.
 3.  On the **Equipment** tab, browse and select an equipment instance.
 
@@ -109,7 +109,7 @@ Equipment is added to the planned crew. This crew is eligible for tasks with equ
 **Related topics**  
 
 
-[Create crews in Field Service Management](create-crews-fsm.md)
+[Create crews in Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-crews-fsm.md)
 
 ## Assign equipment to planned crews through the Now Mobile app
 

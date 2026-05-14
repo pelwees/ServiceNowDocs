@@ -19,7 +19,7 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  After the scheduled job has retrieved IoC data from the [defined data source](../concept/c_GetStartedWithThreatIntel.md#), navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
+1.  After the scheduled job has retrieved IoC data from the [defined data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_GetStartedWithThreatIntel.md#), navigate to **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
     The retrieved IoCs are listed.
 
@@ -41,7 +41,7 @@ Select classification tag
 
 </td><td>
 
-If you set up and activated [security tags](../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
+If you set up and activated [security tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/task/create-class-group-and-tags.md) to add metadata to the record, you can select one or more tags to specify the degree of sensitivity of the IoC. If you did not set up or activate security tags, this drop-down list is not displayed.
 
 </td></tr><tr><td>
 
@@ -224,18 +224,18 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Indicators of compromise](../concept/c_IoCs.md)
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_IoCs.md)
 
 **Related topics**  
 
 
-[Add a related observable to an IoC](t_AddObservToIoC.md)
+[Add a related observable to an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddObservToIoC.md)
 
-[Add a related attack mode/method to an IoC](t_AddRelatedAttackModeToIoc.md)
+[Add a related attack mode/method to an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddRelatedAttackModeToIoc.md)
 
-[Identify associated indicator types](t_IdentifyAssociatedIndicatorTypes.md)
+[Identify associated indicator types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyAssociatedIndicatorTypes.md)
 
-[Identify indicator sources](t_IdentifyIndicatorSources.md)
+[Identify indicator sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyIndicatorSources.md)
 
-[Add associated tasks to an IoC](t_AddAssociatedTasksToIoC.md)
+[Add associated tasks to an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddAssociatedTasksToIoC.md)
 

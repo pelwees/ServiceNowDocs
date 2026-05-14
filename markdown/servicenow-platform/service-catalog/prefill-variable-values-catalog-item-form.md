@@ -64,7 +64,7 @@ To configure the key-value pairs, perform these steps:
 3.  Select **Open in UI Builder**.
 4.  Open the page with the catalog item that you want to set the prefill values for.
 5.  On the catalog item macroponent, use the variableValues property.
-6.  Edit the property to add a key-value pair as shown in the following image.![key-value pair example](../image/key-value-pair.png)
+6.  Edit the property to add a key-value pair as shown in the following image.![key-value pair example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/key-value-pair.png)
 7.  After providing the key-value pair, save the item and select **Preview** &gt; **Open URL path**.
 
 ## Prefilling forms for inline catalog items in Virtual Agent
@@ -78,9 +78,9 @@ To configure prefilling forms for inline catalog items, perform these steps:
 
 There are two ways of configuring this feature. You can provide a stringed JSON object or you can write a script.
 
-In this example, as shown in the image, there are two variables, Department and Business justification. Set the value to true for both the variables. You can specify "Department" as “Sales” and "Business justification" as “employee onboarding”.![Example of prefilling forms for inline catalog items in Virtual Agent](../image/script-dept.png)
+In this example, as shown in the image, there are two variables, Department and Business justification. Set the value to true for both the variables. You can specify "Department" as “Sales” and "Business justification" as “employee onboarding”.![Example of prefilling forms for inline catalog items in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/script-dept.png)
 
 Once you configure this, when requesters request items, they would see the forms prefilled.
 
-**Parent Topic:**[Service catalog variables](c_ServiceCatalogVariables.md)
+**Parent Topic:**[Service catalog variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogVariables.md)
 

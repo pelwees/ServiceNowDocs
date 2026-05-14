@@ -22,7 +22,7 @@ A feature of HR services is the ability to automatically add a checklist to an H
     -   Send information to the payroll department, put case in progress.
     -   Approve and close case when payroll completes setup.
 
-Refer to [Configure an HR service](../task/configure-hr-service.md) on adding a checklist automatically to an HR case.
+Refer to [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-service.md) on adding a checklist automatically to an HR case.
 
-**Parent Topic:**[Work an HR case](../task/t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_CreateAnHRCase.md)
 

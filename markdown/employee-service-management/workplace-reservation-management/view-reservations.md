@@ -45,12 +45,12 @@ You can view all the reservations made through the application an update accordi
 6.  If you want to update the reservation information, modify the information and then click **Update**.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/manage-reservation-requests.md)
 
 **Related topics**  
 
 
-[Approve a reservation](approve-res-req.md)
+[Approve a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/approve-res-req.md)
 
-[Print workplace reservations](print-workplace-reservations.md)
+[Print workplace reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/print-workplace-reservations.md)
 

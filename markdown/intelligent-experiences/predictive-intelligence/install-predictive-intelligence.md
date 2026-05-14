@@ -59,7 +59,7 @@ Role required: admin or ml\_admin
 
 ### About this task
 
-The training process requires sending record data to a training service in the nearest datacenter. Since every datacenter has its own dedicated training server and the data doesn't leave the datacenter, this service is also available to customers who have data sovereignty requirements. For more information on this process, see [Explore Predictive Intelligence](../concept/predictive-intelligence.md).
+The training process requires sending record data to a training service in the nearest datacenter. Since every datacenter has its own dedicated training server and the data doesn't leave the datacenter, this service is also available to customers who have data sovereignty requirements. For more information on this process, see [Explore Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/predictive-intelligence.md).
 
 For frequently asked questions regarding initial configuration and setup, see [KB0781894](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0781894).
 
@@ -75,7 +75,7 @@ For frequently asked questions regarding initial configuration and setup, see [K
 
 4.  On the non-production instance, review the default solution definition records to determine if the filter, input fields, and output field are sufficient to predict your incident or task records.
 
-    If necessary, [create a solution definition](create-solution-definition.md) for each record set you want to predict.
+    If necessary, [create a solution definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md) for each record set you want to predict.
 
 5.  On the non-production instance, train the solution definition records.
 
@@ -97,7 +97,7 @@ For frequently asked questions regarding initial configuration and setup, see [K
 **Related topics**  
 
 
-[Create and train a classification solution](create-solution-definition.md)
+[Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 
-[Create and train a similarity solution](create-similarity-solution.md)
+[Create and train a similarity solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 

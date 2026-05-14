@@ -19,9 +19,9 @@ An allegation is a high-level category and allegation subtype provide more detai
 
 The base system provides allegation types and subtypes that you can use immediately.
 
-![Default Allegation types](../image/er-allegation-types.png "Default Allegation types")
+![Default Allegation types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/er-allegation-types.png "Default Allegation types")
 
-![Default Allegation Subtypes](../image/er-allegation-subtypes.png "Default Allegation Subtypes")
+![Default Allegation Subtypes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/er-allegation-subtypes.png "Default Allegation Subtypes")
 
-You can also create allegation types and subtypes based on your business needs. See [Configure an employee relations allegation type](../task/hr-er-create-allegation-type.md).
+You can also create allegation types and subtypes based on your business needs. See [Configure an employee relations allegation type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/hr-er-create-allegation-type.md).
 

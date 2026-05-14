@@ -29,6 +29,6 @@ Role required: You will need the maint role to install and configure, and then j
 
 1.  Install the application repository using the instruction in the following Knowledge Base article: [How On-Prem Customers Can Request a Store App](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0745101).
 
-2.  After installing, complete the steps in [Configure the application repository on an air-gapped instance](configure-app-repo-air-gapped.md).
+2.  After installing, complete the steps in [Configure the application repository on an air-gapped instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/configure-app-repo-air-gapped.md).
 
 

@@ -33,13 +33,13 @@ View this video to understand ADO deployment with Cloud Services CatalogFollow t
 
 1.  In the **Update variable** dialog box, override the pipeline variables by selecting the **Let users override this value when running this pipeline** check box.
 
-2.  ![Dialog box that has two options that you can select. You can either keep the value secret or to override the value when you run the pipeline.](../image/update-variable.png)
+2.  ![Dialog box that has two options that you can select. You can either keep the value secret or to override the value when you run the pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/update-variable.png)
 
 3.  Navigate to **Employee Center** &gt; **Cloud Services** &gt; **Integrations** &gt; **CSC DevOps Integration**.
 
     Use this Azure DevOps Catalog item order form to call an ADO pipeline.
 
-    ![Ordering an Azure DevOps catalog item.](../image/ado-catalog-form.png)
+    ![Ordering an Azure DevOps catalog item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ado-catalog-form.png)
 
 4.  On the form, fill in the **UserGroup** and **Change Request** fields.
 
@@ -71,5 +71,5 @@ View this video to understand ADO deployment with Cloud Services CatalogFollow t
 
 Verify that a blueprint approval policy \(CSC Content Approval Policy ADO Integration\) is applied on the Microsoft Azure DevOps catalog. This policy mandates that an approval must be obtained from the Change management group before any provisioning can take place.
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](../concept/integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/integrating-azure-devops-and-cicd-pipeline.md)
 

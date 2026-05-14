@@ -38,19 +38,19 @@ Activating this plugin, provides the core SLA functional.ities.
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Installed with Service Level Management](../reference/r_InstalledWithServiceLevelMgmt.md#)**  
+-   **[Installed with Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../reference/r_InstalledWithServiceLevelMgmt.md#)**  
 Activating the Service Level Management plugin adds or modifies these components: tables, properties, UI actions, UI policies, script includes, client scripts, business rules, email notifications, scheduled jobs, and workflows.
 
-**Parent Topic:**[Service Level Management plugins](../concept/sla-plugins.md)
+**Parent Topic:**[Service Level Management plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/sla-plugins.md)
 
 **Related topics**  
 
 
-[Activate SLA Breakdown definitions](../reference/activate-sla-breakdowns-plugin.md)
+[Activate SLA Breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../reference/activate-sla-breakdowns-plugin.md)
 
-[Activate SLA timeline](t_ActivateSLATimeline.md)
+[Activate SLA timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ActivateSLATimeline.md)
 
-[Activate Service Level Management - SLA Timer Config API](activate-sla-timer-config-api.md)
+[Activate Service Level Management - SLA Timer Config API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/activate-sla-timer-config-api.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

@@ -43,5 +43,5 @@ Role required: admin
 7.  Add users who should have access to external learning content skills.
 
 
-**Parent Topic:**[View external Learning content](view-external-learning-content.md)
+**Parent Topic:**[View external Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 

@@ -15,35 +15,35 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 To  index the  curated experiences  demo data into  search and recommended content   and allow all RCA privileges, run the fix scripts.
 
--   **[Run fix-script for RCA approvals](../task/install-rca-fix-script.md)**  
+-   **[Run fix-script for RCA approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/install-rca-fix-script.md)**  
 After you install or upgrade to the latest Employee Experience applications from ServiceNow Store, you might encounter Restricted Caller Access \(RCA\) approval messages requesting for an update in the access request.
--   **[Run fix scripts to update Employee Center](../task/run_scripts_manually_config-search.md)**  
+-   **[Run fix scripts to update Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/run_scripts_manually_config-search.md)**  
 Manually run fix scripts to upgrade to the latest taxonomy-based Employee Center. Download the latest version from the ServiceNow® Store before running the scripts. The scripts update your existing portal setup to Employee Center without performing multiple set up or configuration steps.
 
-**Parent Topic:**[Employee Center admin configurations](configure-ec-portal.md)
+**Parent Topic:**[Employee Center admin configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ec-portal.md)
 
 **Related topics**  
 
 
-[Employee Center plugins](install-plugins.md)
+[Employee Center plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-plugins.md)
 
-[Employee Center roles](emp-center-personas.md)
+[Employee Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-personas.md)
 
-[Migrate to Employee Center from Service Portal](../task/migrate-sp-to-ec.md)
+[Migrate to Employee Center from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/migrate-sp-to-ec.md)
 
-[Customize Employee Center portal theme](../task/customize-theme.md)
+[Customize Employee Center portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/customize-theme.md)
 
-[Modify email notification layout](../task/activate-notification-template.md)
+[Modify email notification layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/activate-notification-template.md)
 
-[Enable support for right-to-left languages](ec-direction-right-to-left-languages.md)
+[Enable support for right-to-left languages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-direction-right-to-left-languages.md)
 
-[Employee Center global header](config-global-header.md)
+[Employee Center global header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-global-header.md)
 
-[Configure widget heading levels for accessibility](../task/config-heading-widget-instance.md)
+[Configure widget heading levels for accessibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-heading-widget-instance.md)
 
-[Footer configuration](emp-center-footer-config.md)
+[Footer configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-footer-config.md)
 
-[Employee live chat overview](employee-center-chat-configuration.md)
+[Employee live chat overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-chat-configuration.md)
 
-[Portal performance optimization](ec-load-experience-optimization.md)
+[Portal performance optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-load-experience-optimization.md)
 

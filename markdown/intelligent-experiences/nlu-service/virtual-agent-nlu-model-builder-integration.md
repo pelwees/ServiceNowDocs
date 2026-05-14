@@ -45,7 +45,7 @@ For more information, see [Natural Language Understanding \(NLU\) topic discover
 
 When your model is published in the NLU Workbench, it's ready to use in Virtual Agent Designer. When editing a topic, click the **Properties** tab to select a model and intent to map to that topic.
 
-![Natural Language Understanding section of the Properties tab of Virtual Agent Designer.](../images/nlu-va-integrationT3.png)
+![Natural Language Understanding section of the Properties tab of Virtual Agent Designer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/nlu-va-integrationT3.png)
 
 When you click **Publish**, the model and intent are mapped to that topic and published seamlessly.
 

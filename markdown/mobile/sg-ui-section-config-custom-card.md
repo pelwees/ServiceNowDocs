@@ -29,7 +29,7 @@ Role required: admin
 
 3.  Select a listed record section.
 
-4.  From the **Card size** field, select the reference lookup icon \(![Reference lookup icon.](../image/reference-lookup-icon.png)\).
+4.  From the **Card size** field, select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\).
 
 5.  In the Card sizes form, select **New**.
 

@@ -94,5 +94,5 @@ Notes
 Additional details of the third-party.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a third party and enhance digital resilience data](../task/create-drtp-reg-third-party.md)
+</table>**Parent Topic:**[Create a third party and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-drtp-reg-third-party.md)
 

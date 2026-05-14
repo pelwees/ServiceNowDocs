@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     You can do some additional steps on this page.
 
-    ![Additional tasks](../image/mine-extra-steps.png)
+    ![Additional tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/mine-extra-steps.png)
 
     -   Select **Manage watchlist** to add users who receive notifications regarding the status of the mined project.
     -   Select **Copy project definition** to copy the project.
@@ -53,7 +53,7 @@ The **Mining Progress** page is displayed. After the mining is completed, a **Mi
 
 **Note:** If you select **Full Mine** and your project includes consumption-based tables, a warning message appears when the number of records exceeds the threshold defined in the `promin.metered_usage.warning_limit` property. To turn off this warning, set the `promin.metered_usage.warning_limit` property to **-1**. The default value for this property is -1, which means it is turned off.
 
-![Mining summary](../image/mining-summary.png)
+![Mining summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/mining-summary.png)
 
-**Parent Topic:**[Create a project or template using Project Builder](define-workflow-model.md)
+**Parent Topic:**[Create a project or template using Project Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 

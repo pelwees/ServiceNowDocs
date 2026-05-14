@@ -20,7 +20,7 @@ Now Assist for Employee Center Pro is a modern, multi-application employee engag
 
 Now Assist for Employee Center Pro is layered with Employee Center Pro, a multi-department employee destination site that drives employee engagement and productivity. Now Assist, which improves productivity, efficiency, and self-service while empowering your users to search more effectively. AI Search, which enables your users to have a powerful consumer-grade search experience.
 
-![Landing Page features for Now Assist for Employee Center Pro.](../images/emp-center-pro-plus-exploring.png)
+![Landing Page features for Now Assist for Employee Center Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/emp-center-pro-plus-exploring.png)
 
 -   **Employee Center Pro**
 
@@ -65,5 +65,5 @@ Now Assist for Employee Center Pro is layered with Employee Center Pro, a multi-
 
 ## What to explore next
 
-To learn more about configuring Now Assist for Employee Center Pro, see: [Configuring Now Assist for Employee Center Pro](na-emp-cente-pro-configuring.md)
+To learn more about configuring Now Assist for Employee Center Pro, see: [Configuring Now Assist for Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-emp-cente-pro-configuring.md)
 

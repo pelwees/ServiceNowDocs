@@ -29,7 +29,7 @@ To create bulk risk assessment, you must install the Advanced Risk application.
 
 3.  Navigate to the **AI asset inventory** and open the AI asset record.
 
-4.  To create a bulk risk assessment, you can use one of the following two methods:![Choices to create bulk risk assessment from the AI asset record.](../image/create-bulk-risk-assessment.png)
+4.  To create a bulk risk assessment, you can use one of the following two methods:![Choices to create bulk risk assessment from the AI asset record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/create-bulk-risk-assessment.png)
 
     -   Select the **AI assessment** drop-down, and select **Bulk risk assessment**.
     -   Navigate to **Assessments** &gt; **Bulk risk assessments** and select **New**.
@@ -182,5 +182,5 @@ Watchlist users from the assessable entity stakeholders list. This field appears
     The project moves to the Assess stage, and a notification goes to the assessor.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

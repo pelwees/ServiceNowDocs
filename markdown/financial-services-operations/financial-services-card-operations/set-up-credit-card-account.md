@@ -19,17 +19,17 @@ Set up a new credit card account for a customer after customer verification is d
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
-This credit card task is automatically created for a new credit card case when the document service task to [file the customer agreement](file-customer-agreement.md) completes.
+This credit card task is automatically created for a new credit card case when the document service task to [file the customer agreement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/file-customer-agreement.md) completes.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from a credit card service case or from the Credit Card Task list.
 

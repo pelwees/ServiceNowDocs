@@ -27,7 +27,7 @@ There are several ways to configure widget security:
 -   Restrict the widget to users with certain roles only
 -   Restrict which tables a public widget can access and return data from for guest \(unauthenticated\) users
 
-When you configure widget security, configure the page security accordingly so that users can access the widget via the page on which it appears. For more information, see [Configure page security by role](configure-page-security.md).
+When you configure widget security, configure the page security accordingly so that users can access the widget via the page on which it appears. For more information, see [Configure page security by role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-page-security.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ Clear the **Public** check box and leave the **Roles** field blank.
 </td><td>
 
 1.  Clear the **Public** check box.
-2.  Next to **Roles**, select the edit icon \(![Edit icon](../image/edit-icon.png)\).
+2.  Next to **Roles**, select the edit icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/edit-icon.png)\).
 3.  On the Roles window, select a role by moving it from the **Available** list to the **Selected** list.
 4.  Select **Done**.
 
@@ -102,5 +102,5 @@ The parameters passed with SPWidgetAccessControl should be the same as those pas
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/portal-security.md)
 

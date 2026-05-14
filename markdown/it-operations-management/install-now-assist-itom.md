@@ -24,7 +24,7 @@ Role required: admin
 
     The Admin Home page displays.
 
-    ![Admin home page showing the product families.](../image/aiops-admin-conf-home-page1.png)
+    ![Admin home page showing the product families.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aiops-admin-conf-home-page1.png)
 
 2.  On the IT Operations Management tile, select **View product overview**.
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  Select the **Not Installed** tab.
 
-    ![IT Operations Management page in the Product Hub showing the plugins to be installed.](../image/na-itom-not-installed.png)
+    ![IT Operations Management page in the Product Hub showing the plugins to be installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/na-itom-not-installed.png)
 
 4.  On the Now Assist for IT Operations Management card, select the Application manager icon \(![](../image/application-manager-icon.png)\).
 

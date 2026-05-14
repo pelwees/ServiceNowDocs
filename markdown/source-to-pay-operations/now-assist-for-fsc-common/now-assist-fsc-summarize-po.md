@@ -30,7 +30,7 @@ You can use these record summarization skill in either Core UI or Source-to-Pay 
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Navigate to **Lists** &gt; **Orders** &gt; **All purchase orders**.
 
@@ -38,7 +38,7 @@ You can use these record summarization skill in either Core UI or Source-to-Pay 
 
 5.  On the Details tab, in the Record summary section, select **Summarize**.
 
-    ![Summarize option that appears at the top of the purchase order record in Source-to-Pay Workspace.](../image/purchase-order-summarize.png)
+    ![Summarize option that appears at the top of the purchase order record in Source-to-Pay Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/purchase-order-summarize.png)
 
 6.  When you opt to summarize a purchase order, you see the following message:
 
@@ -48,7 +48,7 @@ You can use these record summarization skill in either Core UI or Source-to-Pay 
 
 7.  Review the summary details.
 
-    A concise summary of a purchase order, including the overview, actions completed, and next steps.![Summarized procurement order.](../image/purchase-order-summarized.png)
+    A concise summary of a purchase order, including the overview, actions completed, and next steps.![Summarized procurement order.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/purchase-order-summarized.png)
 
     -   **Overview**: Provides information about the record.
     -   **Actions completed**: Lists all the actions that have been taken so far.
@@ -71,7 +71,7 @@ Procedure
 
 1.  Select **Share**.
 2.  In the Share to work notes dialog box, edit the summary.
-3.  Select **Save to work notes**.![Save work notes for purchase order summarization.](../image/purchase-order-share-notes.png)
+3.  Select **Save to work notes**.![Save work notes for purchase order summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/purchase-order-share-notes.png)
 
 
 </td></tr><tr><td id="d102734e252">
@@ -80,7 +80,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d102734e273">
 
@@ -88,7 +88,7 @@ Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) o
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
 
 </td></tr><tr><td id="d102734e296">
 
@@ -96,7 +96,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../../supplier-lifecycle-operations/image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../supplier-lifecycle-operations/image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d102734e312">
 
@@ -104,7 +104,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../../supplier-li
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-more-info.png)\).
 
 </td></tr><tr><td id="d102734e327">
 
@@ -112,20 +112,20 @@ If you want to check some details about the summary, select the more info icon \
 
 </td><td>
 
-If you want to refresh the summary, select the refresh icon \(![Refresh icon.](../image/icon-refresh.png)\).
+If you want to refresh the summary, select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/icon-refresh.png)\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-using.md)
+**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../concept/now-assist-fsc-using.md)
 
 **Related topics**  
 
 
-[Categorize inquiry cases](../../accounts-payable-operations/task/categorize-inquiry-cases.md)
+[Categorize inquiry cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../accounts-payable-operations/task/categorize-inquiry-cases.md)
 
-[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../concept/now-assist-spo-using.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../supplier-lifecycle-operations/concept/now-assist-slo-using.md)
 
-[Using Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/using-now-assist-apo.md)
+[Using Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../accounts-payable-operations/concept/using-now-assist-apo.md)
 

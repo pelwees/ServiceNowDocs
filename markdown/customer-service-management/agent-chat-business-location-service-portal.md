@@ -19,7 +19,7 @@ Role required: Service Organization Contributor \(sn\_customerservice.service\_o
 
 ## Procedure
 
-1.  In the Business Location Service Portal, select the Chat icon \(![chat symbol](../image/chat-icon.png)\) to start a conversation.
+1.  In the Business Location Service Portal, select the Chat icon \(![chat symbol](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-icon.png)\) to start a conversation.
 
     **Note:** The agent chat configuration \(sp\_agent\_chat\_config\) must be active for the Business Location Service Portal.
 
@@ -37,5 +37,5 @@ If the agent creates a case or links the discussion to an existing case, you can
 **Related topics**  
 
 
-[Virtual Agent support for business locations](../concept/virtual-agent-support-business-locations.md)
+[Virtual Agent support for business locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/virtual-agent-support-business-locations.md)
 

@@ -31,5 +31,5 @@ pa.setOverrides(false);
 pa.copy('bb6b58b01f1310005a3637b8ec8b70dd');
 ```
 
-**Parent Topic:**[PADomainUtils - Global](../concept/c_PADomainUtils.md)
+**Parent Topic:**[PADomainUtils - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_PADomainUtils.md)
 

@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Amazon CloudWatch integration configuration forms for Health Log Analytics.
 
-For the Amazon CloudWatch integration setup procedure, see [Set up an Amazon CloudWatch integration for Health Log Analytics](../task/il-connector-hla-aws-cloudwatch.md).
+For the Amazon CloudWatch integration setup procedure, see [Set up an Amazon CloudWatch integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-aws-cloudwatch.md).
 
 <table id="table_znf_rmf_shc"><thead><tr><th>
 
@@ -262,5 +262,5 @@ Drop if queue is full
 Option to select discarding logs if there is a load on the MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

@@ -137,41 +137,41 @@ Indicator-Observable
 This relationship describes between the indicators and observables.
 
 </td></tr></tbody>
-</table>-   **[Define observable-observable relationships](../task/define-observable-observable.md)**  
+</table>-   **[Define observable-observable relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-observable-observable.md)**  
 Define relationships between observables.
--   **[Define object-object relationships](../task/define-object-object-relationships.md)**  
+-   **[Define object-object relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-object-relationships.md)**  
 Define relationships between SDOs, except the indicator object.
--   **[Define object-observable relationships](../task/define-object-observable-relationships.md)**  
+-   **[Define object-observable relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-observable-relationships.md)**  
 Define relationships between SDOs and the observable object \(SCO\).
--   **[Define object-indicator relationships](../task/define-object-indicator-relationships.md)**  
+-   **[Define object-indicator relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-indicator-relationships.md)**  
 Define relationships between the indicator object and other SDOs.
--   **[Define indicator-indicator relationships](../task/define-indicator-indicator-relationships.md)**  
+-   **[Define indicator-indicator relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-indicator-indicator-relationships.md)**  
 Define relationships between the indicator object and other Use the relationships objects to link together two observables or an observable and SDO to explain how they relate to each other..
--   **[Define indicator-observable relationships](../task/define-indicator-observable-relationships.md)**  
+-   **[Define indicator-observable relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-indicator-observable-relationships.md)**  
 Define relationships between the indicator object and other SDOs.
 
-**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-[Indicators](indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-[Threat Entities](tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-[Other Objects](tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-other-objects.md)
 
-[Vulnerability Artifacts](vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-rss-feeds.md)
 
-[Working with Reports in TISC](tisc-reports-lib-view.md)
+[Working with Reports in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-[Potential Relationships](potential-relationships.md)
+[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-relationship-map.md)
 

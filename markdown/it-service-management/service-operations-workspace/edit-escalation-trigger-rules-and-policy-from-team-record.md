@@ -27,8 +27,8 @@ Role required: rota\_manager, rota\_admin
 
 2.  Click the **Schedule** icon.
 
-3.  On the **Schedules** page, right-click the shift span and click ![Edit icon](../../configurable-workforce-optimization-itsm/image/edit-icon.png) icon.
+3.  On the **Schedules** page, right-click the shift span and click ![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/edit-icon.png) icon.
 
 
-**Parent Topic:**[Escalation triggers and policies](work-on-escalation-trigger-rules-and-policies-in-sow.md)
+**Parent Topic:**[Escalation triggers and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-escalation-trigger-rules-and-policies-in-sow.md)
 

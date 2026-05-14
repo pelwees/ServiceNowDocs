@@ -19,7 +19,7 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](../image/sys-mon-icon.png)\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/sys-mon-icon.png)\).
 
 2.  To filter the list of monitors, select a card at the top of the page.
 
@@ -27,7 +27,7 @@ Role required: sn\_sow\_synthetics.synthetics\_viewer, sn\_sow\_synthetics.synth
 
 3.  To view details about each test run by the monitor, select a monitor name.
 
-    The monitor's Overview tab opens. For more information about this page, see [View a monitor's test results](view-a-monitor-s-test-results.md).
+    The monitor's Overview tab opens. For more information about this page, see [View a monitor's test results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/view-a-monitor-s-test-results.md).
 
 4.  To export the list of monitors, select **Export**.
 

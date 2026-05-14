@@ -15,9 +15,9 @@ The Security Operations Integration - Block Request flow is a high-level flow in
 
 The **Security Operations Integration - Block Request** flow can be triggered on an observable form, or from the **Security Incident Observables** related list on a security incident. On a list, it is in the drop-down action menu. On a form, it is a related link. Blocking a request is available only when you have an implementation installed for the block request capability.
 
-![Flow designer for Security Operations Integration- Block Request Flow](../image/block-request-flow-V1.png "Block Request")
+![Flow designer for Security Operations Integration- Block Request Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/block-request-flow-V1.png "Block Request")
 
-Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Block Request capability](../../security-operations-common/concept/block-request-capability.md)
+**Parent Topic:**[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/block-request-capability.md)
 

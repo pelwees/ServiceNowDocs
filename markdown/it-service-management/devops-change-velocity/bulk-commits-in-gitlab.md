@@ -27,5 +27,5 @@ If the number of pushed commits are equal or greater than 20, multiple inbound e
 
 Currently, GitLab Data stream action can process up to 10,000 commits in a single push.
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 

@@ -31,7 +31,7 @@ Configuring the webhook registry is required to synchronize updates in the Exter
 
 2.  If the application scope is not set correctly, perform the following:
 
-    1.  Select the Application scope icon \(![Application scope icon](../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\).
+    1.  Select the Application scope icon \(![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\).
 
     2.  Select the option **Application scope**.
 
@@ -51,7 +51,7 @@ Configuring the webhook registry is required to synchronize updates in the Exter
 
 8.  In the Token field, fill in the details.
 
-    1.  Select the Lookup using the list icon ![Lookup using list icon.](../../workplace-case-mgmt/image/search-icon.png).
+    1.  Select the Lookup using the list icon ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../workplace-case-mgmt/image/search-icon.png).
 
     2.  Select **New**.
 
@@ -73,7 +73,7 @@ Configuring the webhook registry is required to synchronize updates in the Exter
 
     In the info message that appears, the Callback URL is displayed. Copy this URL to use in the Callback URL field in the Legal Tracker platform.
 
-12. Log in to your Legal Tracker instance and select the settings icon \(![Settings icon](../image/settings.png)\).
+12. Log in to your Legal Tracker instance and select the settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../image/settings.png)\).
 
 13. In the Integrations section, select **Webhooks**.
 
@@ -121,5 +121,5 @@ Password to access the webhook information.
 
 The webhook for the Legal Tracker application is successfully configured and the matter updates in Legal Tracker will be synced to Legal Matter Management and the details can be seen in external matter records. For a working webhook configuration, the Health status must be Healthy. For any wrong configurations, the Health status is shown as Broken.
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../concept/configurations-for-legal-tracker-integration.md)
 

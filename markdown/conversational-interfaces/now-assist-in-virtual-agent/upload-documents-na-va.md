@@ -17,7 +17,7 @@ Upload or drag files into Now Assist in Virtual Agent to extract relevant data f
 
 ## Before you begin
 
-Now Assist in Virtual Agent standard and enhanced chat support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](../concept/nava-standard-chat.md) and [Enhanced chat](../concept/nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](configure-now-assist-va.md).
+Now Assist in Virtual Agent standard and enhanced chat support uploading documents to the assistant. For more information about the different chat capabilities, see [Standard chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/nava-standard-chat.md) and [Enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/nava-enhanced-chat.md). Uploading a document within a chat is available to you when an admin activates this feature in the admin guided setup. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 Uploaded file formats include text and image files such as PDF, Word \(.doc, .docx\), JPEG, and PNG. The maximum size of a file is 5 megabytes \(MB\).
 
@@ -35,7 +35,7 @@ Role required: requestor
 
     The file is checked for viruses, and an error message appears when a file is non-security compliant. After the file passes the virus scan, the document is secure, and sensitive data isn't retained beyond the chat session. You can't ask follow-up questions about the file after the chat session ends.
 
-    ![Window displaying multiple uploaded files.](../image/dw-upload-multi-files.png "Example of uploaded files into an enhanced chat conversation")
+    ![Window displaying multiple uploaded files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/dw-upload-multi-files.png "Example of uploaded files into an enhanced chat conversation")
 
 4.  To ask questions about another file, exit the chat, and upload or drag a new file to the assistant.
 

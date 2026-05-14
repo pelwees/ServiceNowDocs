@@ -31,13 +31,13 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
 2.  To open the security incident record, select a security incident.
 
-3.  To navigate to the Configuring Security Incident form page, select the ![Context menu](../image/cj-sir-newui-config-menu.png) menu icon and select **Configure** &gt; **Form Layout**.
+3.  To navigate to the Configuring Security Incident form page, select the ![Context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-newui-config-menu.png) menu icon and select **Configure** &gt; **Form Layout**.
 
 4.  From the **View name** list, select **New UI - Form Layout Configurations**.
 
 5.  In the **Section** field, select the appropriate section.
 
-    This can be **Security Incident** or **Security Incident Response Task**.![Configure security incident record](../image/cj-sir-newui-config-si.png)
+    This can be **Security Incident** or **Security Incident Response Task**.![Configure security incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-newui-config-si.png)
 
 6.  Select the fields and the order in which you want them to appear in the Incident banner in the new UI.
 
@@ -45,12 +45,12 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
     **Note:**
 
-    -   Certain fields are hidden by default in the Incident and Response Task banners. Change the fields that are hidden or displayed by modifying the `sn_app_secops_ui.form.excluded_fields.incident` and `sn_app_secops_ui.form.excluded_fields.response_task` properties as described in [Security Analyst Workspace properties](../reference/sir-workspace-properties.md).
+    -   Certain fields are hidden by default in the Incident and Response Task banners. Change the fields that are hidden or displayed by modifying the `sn_app_secops_ui.form.excluded_fields.incident` and `sn_app_secops_ui.form.excluded_fields.response_task` properties as described in [Security Analyst Workspace properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/sir-workspace-properties.md).
     -   Specify the number of fields that can be displayed in the Incident and Response Task banners and on the first line of the Incident banner by setting these properties:
         -   sn\_app\_secops\_ui.task\_summary.single\_summary.limit.incident
         -   sn\_app\_secops\_ui.task\_summary.single\_summary.limit.response\_task
         -   sn\_app\_secops\_ui.task\_summary.single\_summary.limit.incident.first\_line
-8.  To configure the styles of the dotted circles that appear next to a field value in the Incident record, for example, ![Menu style](../image/cj-sir-newui-config-style.png) navigate to **System UI** &gt; **Field Styles** and modify or create a style record for the specific table and field name.
+8.  To configure the styles of the dotted circles that appear next to a field value in the Incident record, for example, ![Menu style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-newui-config-style.png) navigate to **System UI** &gt; **Field Styles** and modify or create a style record for the specific table and field name.
 
     The property background-color in the Style field of the style record determines the color of the dotted circle.
 
@@ -62,12 +62,12 @@ Specify the fields to be displayed in your Incident record and the order in whic
 
     1.  From the **View Name** list, select **New**.
 
-        ![Create new view](../image/cj-sir-newui-config-newresp.png)
+        ![Create new view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-newui-config-newresp.png)
 
     2.  Enter **SIR New UI** \(case sensitive\) in the Create New View window and select **OK**.
 
 
 ## Result
 
-The security incident and response task banners are updated in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](../concept/sir-new-ui.md)\).
+The security incident and response task banners are updated in the Security Analyst Workspace \([Manage security threats using the Security Analyst Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sir-new-ui.md)\).
 

@@ -59,16 +59,16 @@ Accounts Payable Operations includes the following applications:
 
 ## Overview of invoice processing workflow
 
-The following figure shows a high-level illustration of the various components that are involved in the processing of invoice in Accounts Payable Operations.![Invoice processing workflow](../image/architecture-apo.png)
+The following figure shows a high-level illustration of the various components that are involved in the processing of invoice in Accounts Payable Operations.![Invoice processing workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/architecture-apo.png)
 
--   **[Accounts Payable Invoice Processing](acc-pay-invoice-processing.md)**  
+-   **[Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-invoice-processing.md)**  
 Accounts Payable Invoice Processing \(com.sn\_ap\_apm\) enables Accounts Payable Specialists to ingest invoice documents and extract invoice data using ServiceNow® Document Intelligence.
--   **[Invoice Case Management](acc-pay-case-mgmt-overview.md)**  
+-   **[Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-case-mgmt-overview.md)**  
 With Invoice Case Management, agents can manage and work on their assigned invoice cases, request more information from suppliers or employees, and create and assign tasks to users using the Accounts Payable workspace.
--   **[Source-to-Pay Workspace](acc-pay-workspace.md)**  
+-   **[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-workspace.md)**  
 The Source-to-Pay Workspace enables you to manage and work on cases and tasks related to invoices and invoice exceptions.
--   **[Accounts Payable Operations integration with Document Intelligence](apo-docintel-integration.md)**  
+-   **[Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-docintel-integration.md)**  
 Accounts Payable Operations integration with Document Intelligence \(com.sn\_ap\_ic\) enables you to automatically capture data from incoming invoices, thus significantly reducing manual effort.
 
-**Parent Topic:**[Accounts Payable Operations](acc-pay-mgmt-landing-page.md)
+**Parent Topic:**[Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-mgmt-landing-page.md)
 

@@ -17,7 +17,7 @@ The ServiceNow® Safe Workplace Dashboard provides leaders in HR, Workplace Serv
 
 The Safe Workplace Dashboard relies on ServiceNow® Performance Analytics Premium features to evaluate and display data that comes from other Safe Workplace suite applications and the COVID-19 Global Health Data Set.
 
-![The Safe Workplace Dashboard provides a geographic view of locations and employees and includes COVID-19 data via the COVID-19 Global Health Data Set.](../image/safe-workplace-dashboard-n.png "Safe Workplace Dashboard and Safe Workplace suite applications")
+![The Safe Workplace Dashboard provides a geographic view of locations and employees and includes COVID-19 data via the COVID-19 Global Health Data Set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../image/safe-workplace-dashboard-n.png "Safe Workplace Dashboard and Safe Workplace suite applications")
 
 Install and configure the listed Safe Workplace suite and Emergency Response Management applications. Follow the configuration instructions to ensure that the data feeds to the dashboard successfully.
 
@@ -95,14 +95,14 @@ All decisions in connection with the implementation of this application are at t
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
--   **[Install the Safe Workplace Dashboard](../task/install-safe-workplace-dashboard.md#)**  
+-   **[Install the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../task/install-safe-workplace-dashboard.md#)**  
 Install the Safe Workplace Dashboard application. You can install this application If you have the admin role.
--   **[Create a campus to appear on the Safe Workplace Dashboard](configrng-safe-workplce-dshbrd.md)**  
+-   **[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/configrng-safe-workplce-dshbrd.md)**  
 You can create a campus from existing locations to appear on the Safe Workplace Dashboard.
--   **[Alert types used with the Safe Workplace Dashboard](../reference/safe-wkplc-dashboard-alert-types.md)**  
+-   **[Alert types used with the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../reference/safe-wkplc-dashboard-alert-types.md)**  
 Alert types define the ServiceNow® Performance Analytics \(PA\) thresholds used to generate alerts on the Safe Workplace Dashboard. Alerts are generated from application data once per day.
--   **[Using the Safe Workplace Dashboard](using-safe-wkplc-dashboard.md)**  
+-   **[Using the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/using-safe-wkplc-dashboard.md)**  
 By using a map, you can review your organization's status regarding personnel and facility readiness to reopen.
 
-**Parent Topic:**[Safe Workplace](../../human-resources/concept/safe-workplace.md)
+**Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../../human-resources/concept/safe-workplace.md)
 

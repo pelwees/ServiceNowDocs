@@ -17,7 +17,7 @@ Edit a planned monetary benefit plan to revise the benefits, dates, offset, and 
 
 ## Before you begin
 
--   [Create monetary benefit plans for your planning items in Strategic Planning](fin-manage-monetary-benefit-plans-spw.md)
+-   [Create monetary benefit plans for your planning items in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/fin-manage-monetary-benefit-plans-spw.md)
 -   Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure

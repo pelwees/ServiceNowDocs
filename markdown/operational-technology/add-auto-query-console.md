@@ -27,7 +27,7 @@ Role required: admin
 
     **Note:** If you use an IP address that is already in the system as the new Asset identification, you receive an error message.
 
-    ![Error message](../../../../msi-console/image/duplicate-error-message.png)
+    ![Error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../../msi-console/image/duplicate-error-message.png)
 
     Be sure to use an IP address that is not in the system already.
 
@@ -46,7 +46,7 @@ Role required: admin
 
     When **Existing Assets** is selected for a query, the query uses the asset's IP address and Network Zone as its unique identifier. This allows the asset's IP address to exist across multiple Network Zones.
 
-    ![Existing Assets](../../../images/existing-assets.png)
+    ![Existing Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/existing-assets.png)
 
 6.  From the Targeted Sensors list choose from the following:
 
@@ -71,7 +71,7 @@ Role required: admin
 
         **Note:** The Console automatically generates a default site. This is in case no Sites have been previously created. You can select the Console-generated site when using the Sites filter to select specific sites.
 
-        ![Console-generated Site](../../../images/console-generated-site.png)
+        ![Console-generated Site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/console-generated-site.png)
 
     -   Ports
     -   Ethernet Vendors
@@ -83,7 +83,7 @@ Role required: admin
 
         **Note:** The Ignore Networks filter allows you to select an IP range or individual IP addresses to ignore during the query.
 
-        ![Add networks to ignore](../../../images/ignore-ip-range-or-addresses.png)
+        ![Add networks to ignore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/ignore-ip-range-or-addresses.png)
 
     -   Hostnames
 
@@ -92,7 +92,7 @@ Role required: admin
         -   **Empty/Null**: Queries Assets where the Hostname field is empty or null.
         -   **Exact**: Matches Assets whose Hostname equals any of the values you add. There is a field to type in a Hostname. All hostnames are included in this query unless you add at least one value.
         -   **Contains**: Matches Assets whose Hostname contains any of the substrings you add. There is a field for adding a value. All hostnames are included in this query unless you add at least one value.
-        ![Hostnames filter](../../../images/hostnames-selection.png)
+        ![Hostnames filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/hostnames-selection.png)
 
 9.  Choose a filter and then select **Next**.
 
@@ -100,24 +100,24 @@ Role required: admin
 
     -   A Simplified query is a small list of easy-to-understand queries that should cover most possible scenarios. Most users start with this type of query.
 
-        ![Simplified query types](../../../../msi-console/image/simplified-query-type.png)
+        ![Simplified query types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../../msi-console/image/simplified-query-type.png)
 
         **Note:** The simplified **Auto Query** type **Full Page Extraction** updates the query to perform a full extraction of your Target landing page. That means, this type of query includes both the screenshot and the HTML information.
 
     -   Advanced query: presents the list of all available auto queries. As some of these queries can be riskier, require more technically complicated to understand, or specific to certain devices; these queries are recommended only for advanced users.
-    ![Advanced Query types](../../../images/adv-query-types2.png)
+    ![Advanced Query types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/adv-query-types2.png)
 
 11. You can set up the Auto Query scan to include all open ports.
 
     To do this, select both or either the **UDP Port Enumeration** and/or **TCP Port Enumeration** \(highlighted in the previous image\) from the Advanced Query Types. Each scan determines all open ports for their two respective protocols.
 
-    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [Edit the Query Driver on Metadata tab](../../../../msi-console/task/edit-query-driver-on-metadata.md).
+    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [Edit the Query Driver on Metadata tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../../msi-console/task/edit-query-driver-on-metadata.md).
 
 12. Select **Next**
 
 13. In the Classification section, select from the following.
 
-    ![Classifications](../../../images/brand-based-on-ocr.png)
+    ![Classifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/brand-based-on-ocr.png)
 
     -   **Brand based on MAC address**: Assigns brand based on MAC address range match.
     -   **Brand based on OCR words**: Attempts to assign brands based on strings extracted by the OC. Fuzzy word search is supported.
@@ -128,7 +128,7 @@ Role required: admin
 
 15. In the Confirmation section, set the schedule, recursion, and duration.
 
-    ![Confirm and schedule](../../../images/auto-query-confirmation2.png)
+    ![Confirm and schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/auto-query-confirmation2.png)
 
 16. Select **Next**.
 

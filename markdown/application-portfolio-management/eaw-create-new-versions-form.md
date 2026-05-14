@@ -57,14 +57,14 @@ Attachments
 Select the attachment that you want to add to the new architectural artifact. This field is only available when you select **Attachment** in the **File type** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
 [eaw-add-an-architectural-artifact-version]
 
-[Exploring architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-managing-arch-decision-records.md)
+[Exploring architectural decision records \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-managing-arch-decision-records.md)
 
-[Add or edit an architectural decision record \(ADR\)](../../task/eaw-task/eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-edit-adr.md)
 

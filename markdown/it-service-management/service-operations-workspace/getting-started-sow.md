@@ -37,16 +37,16 @@ It provides effortless and quick access to manage most configurations in Service
 
 Overview of SOW Admin Center 
 
-![SOW Admin Center](../image/sow-admin-console.png)
+![SOW Admin Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-admin-console.png)
 
 **Related topics**  
 
 
-[Roles in Service Operations Workspace for ITSM](../reference/roles-in-sow.md)
+[Roles in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/roles-in-sow.md)
 
-[Users in Service Operations Workspace for ITSM](../reference/users-sow-itsm.md)
+[Users in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/users-sow-itsm.md)
 
-[Access controls in Service Operations Workspace for ITSM](access-controls-sow-itsm.md)
+[Access controls in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/access-controls-sow-itsm.md)
 
-[Landing page redirection in Service Operations Workspace for ITSM](landing-page-redirection-sow-itsm.md)
+[Landing page redirection in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-redirection-sow-itsm.md)
 

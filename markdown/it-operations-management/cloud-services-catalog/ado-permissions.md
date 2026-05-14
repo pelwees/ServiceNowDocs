@@ -64,5 +64,5 @@ Discover AWS resources provisioned through Azure DevOps pipeline.
 Not applicable
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CSC references](csc-reference.md)
+</table>**Parent Topic:**[CSC references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-reference.md)
 

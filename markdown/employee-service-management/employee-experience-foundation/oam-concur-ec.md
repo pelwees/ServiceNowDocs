@@ -63,40 +63,40 @@ Select **Approve**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Employee Center](../../employee-center/concept/using-emp-center.md)
+**Parent Topic:**[Using Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/using-emp-center.md)
 
-**Parent Topic:**[Using ServiceNow for Microsoft Outlook](../concept/using-sn-ms-outlook.md)
+**Parent Topic:**[Using ServiceNow for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/using-sn-ms-outlook.md)
 
 **Related topics**  
 
 
-[Use the Employee Center topic pages](../../employee-center/concept/ec-topic-use.md)
+[Use the Employee Center topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/ec-topic-use.md)
 
-[Topic managers and contributors for topic page management](../../employee-center/concept/topic-managers-and-contributors-for-topic-page-management.md)
+[Topic managers and contributors for topic page management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/topic-managers-and-contributors-for-topic-page-management.md)
 
-[Use the My To-dos page](../../employee-center/task/ec-to-dos-use.md)
+[Use the My To-dos page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/ec-to-dos-use.md)
 
-[Use approval experience](../../employee-center/task/ec-to-dos-use-approval-hub.md)
+[Use approval experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/ec-to-dos-use-approval-hub.md)
 
-[Manage approvals from Microsoft Teams](../../sn-teams/task/va-concur.md)
+[Manage approvals from Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/task/va-concur.md)
 
-[Task filters on My tasks](../../employee-center/concept/configurable-filters-experience.md)
+[Task filters on My tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/configurable-filters-experience.md)
 
-[View the Recommended for you content](../../employee-center/concept/rfy-employee.md)
+[View the Recommended for you content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/rfy-employee.md)
 
-[Use Employee Center from Zoom](../../employee-center/task/zoom-create-email-notification.md)
+[Use Employee Center from Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/zoom-create-email-notification.md)
 
-[View employee profile](../../employee-center/concept/update-employee-profile.md)
+[View employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/update-employee-profile.md)
 
-[Use Personalized Answers](../../employee-center/concept/using-personalized-search-on-employee-center.md)
+[Use Personalized Answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/using-personalized-search-on-employee-center.md)
 
-[Employee Profile org chart widget](../../employee-center/task/view-org-chart.md)
+[Employee Profile org chart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/view-org-chart.md)
 
-[RTL support for Employee Center](../../employee-center/concept/ec-rtl-language-support.md)
+[RTL support for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/ec-rtl-language-support.md)
 
-[Manage favorites](../../employee-center/task/web-configure-favorites-employee.md)
+[Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/task/web-configure-favorites-employee.md)
 
-[Access applications from App Launcher](../../employee-center/concept/web-application-employee.md)
+[Access applications from App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/web-application-employee.md)
 
-[Use Guided Self-Service](../../employee-center/concept/gss-guided-self-service-homepage.md)
+[Use Guided Self-Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/gss-guided-self-service-homepage.md)
 

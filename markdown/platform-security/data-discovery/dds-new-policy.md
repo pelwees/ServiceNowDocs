@@ -25,7 +25,7 @@ Role required: discovery.admin
 
 2.  Select the **Create new policy** button.
 
-    Edit or delete an existing policy by selecting the three dots ![Three dots expandable](../image/dds-dot-icon.png) icon.
+    Edit or delete an existing policy by selecting the three dots ![Three dots expandable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../image/dds-dot-icon.png) icon.
 
 3.  Fill in the fields of the pop-up window.
 
@@ -70,12 +70,12 @@ Selected tables and columns
 Displays a list of currently selected tables and columns for the policy
 
 </td></tr></tbody>
-</table>4.  Select the arrow ![Select the arrow](../image/dds-arrow-icon.png) icon to view and select specific columns of the table.
+</table>4.  Select the arrow ![Select the arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../image/dds-arrow-icon.png) icon to view and select specific columns of the table.
 
 5.  Select **Save**.
 
 
 ## Result
 
-By default the new policy will be set to **Active**. Select the three dots ![Three dots expandable](../image/dds-dot-icon.png) icon and select **Deactivate policy**/**Activate policy** to switch its state.
+By default the new policy will be set to **Active**. Select the three dots ![Three dots expandable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../image/dds-dot-icon.png) icon and select **Deactivate policy**/**Activate policy** to switch its state.
 

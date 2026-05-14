@@ -34,7 +34,7 @@ By default, PDIs include demo data. You can remove the demo data from your PDI o
 
 Demo data removal takes 20-30 minutes. The Developer Site will send you an email when the process is complete.
 
-![Remove demo data page](../image/remove-demo-data-pdi.png)
+![Remove demo data page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/remove-demo-data-pdi.png)
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

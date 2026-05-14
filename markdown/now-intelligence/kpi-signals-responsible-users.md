@@ -29,7 +29,7 @@ Even responsible users without workspace access get these email notifications.
 **Related topics**  
 
 
-[Configure signal notifications](../task/configure-signal-notifications.md)
+[Configure signal notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/configure-signal-notifications.md)
 
 ## Assign responsibility for signals
 
@@ -41,17 +41,17 @@ Role required: Any role if a responsible user, or pa\_admin or admin
 
 ### Procedure
 
-1.  Open KPI Signals for an indicator, as described in [View KPI Signals](../task/view-kpi-signals.md).
+1.  Open KPI Signals for an indicator, as described in [View KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/view-kpi-signals.md).
 
-2.  Click the cogwheel ![Cogwheel button for KPI Signals configuration](../image/kpi-signals-config-cogwheel.png) to open the KPI Signals configuration.
+2.  Click the cogwheel ![Cogwheel button for KPI Signals configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-config-cogwheel.png) to open the KPI Signals configuration.
 
-    ![KPI Signals panel showing the cogwheel button for opening configuration settings](../image/kpi-signals-open-settings.png)
+    ![KPI Signals panel showing the cogwheel button for opening configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-open-settings.png)
 
 3.  In the KPI Signal Configuration screen, open the **Responsibility** tab.
 
 4.  Select the KPI that you want to assign responsibility for.
 
-    ![KPI Signals configuration panel showing Responsibility tab with a KPI selected](../image/kpi-signals-select-kpi-responsibility.png)
+    ![KPI Signals configuration panel showing Responsibility tab with a KPI selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-select-kpi-responsibility.png)
 
     The user needs relevant workspace roles to view or act on signals. However, a responsible user without these roles still gets email notifications about unresolved signals or actions on signals.
 

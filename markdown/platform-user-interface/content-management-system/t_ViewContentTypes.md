@@ -60,5 +60,5 @@ Use any out-of-box instance of a CMS site.
     The table `sysparm_document_key=kb_knowledge` and sys\_id `02255450d731310013ab49547e61038e` determine the record. The associated content type, kb\_knowledge, renders the content on the Default Detail Page, Portal - Knowledge Detail / url\_suffix=knowledge.
 
 
-**Parent Topic:**[Content types](../concept/c_ContentTypes.md)
+**Parent Topic:**[Content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentTypes.md)
 

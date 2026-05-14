@@ -21,7 +21,7 @@ Role required: sn\_aia.admin
 
 Adding a trigger is optional. If you want your AI agent to be used only in chats, you don't need to add a trigger. Only add a trigger if you want to invoke the AI agent automatically when some event occurs.
 
-If you don't want to add a trigger, skip to the final step, [Select channels and access](channels-access-aia.md).
+If you don't want to add a trigger, skip to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ If you don't want to add a trigger, skip to the final step, [Select channels and
     |Name|Name of the trigger.|
     |Trigger objective|Additional user statements or sample utterances that help guide when to trigger this agentic workflow.|
 
-    ![Edit/create a trigger basic description](../image/edit-trigger-1.png)
+    ![Edit/create a trigger basic description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-1.png)
 
 <table><thead><tr><th>
 
@@ -67,10 +67,10 @@ Active trigger toggle
 
 </td><td>
 
-Only enable the trigger once you’re confident in the execution of your AI agent. Try testing the [AI agent execution](test-ai-agent.md) and [user access](test-aia-access.md). To review overall trends over many executions, try an [automated evaluation](execute-aia-eval.md).
+Only enable the trigger once you’re confident in the execution of your AI agent. Try testing the [AI agent execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) and [user access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md). To review overall trends over many executions, try an [automated evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 </td></tr></tbody>
-</table>    ![Define when the trigger occurs section](../image/edit-trigger-2.png)
+</table>    ![Define when the trigger occurs section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-2.png)
 
 <table><thead><tr><th>
 
@@ -99,7 +99,7 @@ Show an alert to users
 Alerts appear in the selected channel.
 
 </td></tr></tbody>
-</table>    ![Log and launch options for a trigger section](../image/edit-trigger-3.png)
+</table>    ![Log and launch options for a trigger section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-3.png)
 
     If you choose a scheduled trigger, additional options are available, such as the day of the week and time when you want the trigger to run.
 
@@ -118,5 +118,5 @@ You have added triggers to your AI agent to run it automatically under the speci
 
 ## What to do next
 
-Select **Save and continue** to move to the final step, [Select channels and access](channels-access-aia.md).
+Select **Save and continue** to move to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 

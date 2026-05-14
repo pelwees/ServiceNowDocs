@@ -21,7 +21,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  [Create a Service Provider key store](t_CreatingAServiceProviderKeyStore.md).
+1.  [Create a Service Provider key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreatingAServiceProviderKeyStore.md).
 
 2.  Navigate to **SAML 2 Single Sign-on** &gt; **Certificate** or **Multi-provider** &gt; **Administrator** &gt; **x509 Certificate**.
 

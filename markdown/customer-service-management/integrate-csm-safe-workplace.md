@@ -31,10 +31,10 @@ Role required: admin
 
 3.  Assign the sn\_imt\_monitoring.monitoring\_user role to a customer or consumer service agent.
 
-4.  [Configure the health screening form](configure-record-producer-csm-safe-workplace.md).
+4.  [Configure the health screening form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-record-producer-csm-safe-workplace.md).
 
 5.  Create relationships to show health screening information on Agent Workspace.
 
-6.  [Customize the Consumer or Customer Service Portal](customize-csp-csm-portals.md) to display a link to the Health Verification form in the portal header menu.
+6.  [Customize the Consumer or Customer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customize-csp-csm-portals.md) to display a link to the Health Verification form in the portal header menu.
 
 

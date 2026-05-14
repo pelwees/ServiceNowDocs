@@ -25,7 +25,7 @@ Only cXML punchout products are displayed in both the **Categories** and **Suppl
 
 **Important:** Enabling shopping controls may affect the page load time.
 
-For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](../reference/ec-sh-checkout-flow.md).
+For more information about the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both, see [Shopper checkout experiences based on installed applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/ec-sh-checkout-flow.md).
 
 ## Procedure
 
@@ -35,30 +35,30 @@ For more information about the checkout experiences for shoppers based on whethe
 
 3.  Select **Browse Office Equipment**.
 
-    ![Categories list on the ShoppingHub home page.](../image/sh-categories-list.png)
+    ![Categories list on the ShoppingHub home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-categories-list.png)
 
     The Office Equipment page displays both the punchout and native catalog items that belong to this category.
 
-    ![Categories list showing both punchout and native catalog items.](../image/sh-browse-categories.png)
+    ![Categories list showing both punchout and native catalog items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-browse-categories.png)
 
 4.  Navigate to **All** &gt; **ShoppingHub** &gt; **ShoppingHub Home**.
 
 5.  From the Suppliers list, select the letter corresponding to the first letter of the supplier's name.
 
-    ![Suppliers list on the ShoppingHub home page.](../image/sh-suppliers-list.png)
+    ![Suppliers list on the ShoppingHub home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-suppliers-list.png)
 
 6.  Select a supplier.
 
     The supplier page displays both the punchout and native catalog items that are sold by this supplier.
 
-    ![Suppliers list showing both punchout and native catalog items.](../image/sh-browse-both.png)
+    ![Suppliers list showing both punchout and native catalog items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-browse-both.png)
 
 7.  On the product tile you want to purchase, select one of the following options:
 
     -   Select **Product** to open the product page and add it to your cart or request to purchase.
     -   Select **Supplier site** to open the supplier's website.
-    ![Product tile in Shopping Hub.](../image/sh-product-tile.png)
+    ![Product tile in Shopping Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-product-tile.png)
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

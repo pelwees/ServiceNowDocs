@@ -25,5 +25,5 @@ View the subflow-agent mapping for HR Service Delivery Advanced Integration with
 |Employee details updater AI agent|Human Capital Management|Update Personal Details|Workday HR - Update Personal Details|
 |Worker Management|Get Worker|Workday HR - Look up Worker Profile|
 
-**Parent Topic:**[Reference](reference-hr-service-delivery-advanced-integration-with-workday.md)
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hr-service-delivery-advanced-integration-with-workday.md)
 

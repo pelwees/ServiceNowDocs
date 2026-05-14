@@ -61,7 +61,7 @@ Data Object
 
 </td><td>
 
-The Data Object input enables you to select the plus icon ![Add icon.](../../devops-config/image/pace-output-type-add.png) to add a new property to the data object or the minus icon ![Delete icon.](../../devops-config/image/pace-output-type-delete.png) to delete it. Additionally, you can select the Star icon ![Wild card icon.](../../devops-config/image/pace-star-icon.png) that will search for a name if you don't know the structure of the JSON format property. A JSON path and match criteria field will appear and enable you to search for a key in the JSON structure.
+The Data Object input enables you to select the plus icon ![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../../devops-config/image/pace-output-type-add.png) to add a new property to the data object or the minus icon ![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../../devops-config/image/pace-output-type-delete.png) to delete it. Additionally, you can select the Star icon ![Wild card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../../devops-config/image/pace-star-icon.png) that will search for a name if you don't know the structure of the JSON format property. A JSON path and match criteria field will appear and enable you to search for a key in the JSON structure.
 
 </td></tr><tr><td>
 

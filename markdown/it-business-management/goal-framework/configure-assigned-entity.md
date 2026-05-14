@@ -35,10 +35,10 @@ An assigned entity is an organizational unit or structure that a goal can be ass
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Goal Assigned Entity Configuration form](../reference/goal-assigned-entity-configuration-form.md).
+    For a description of the field values, see [Goal Assigned Entity Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/goal-assigned-entity-configuration-form.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](../concept/configuring-goal-framework.md)
+**Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/configuring-goal-framework.md)
 

@@ -17,7 +17,7 @@ Make your search experiences more consistent by configuring a search profile to 
 
 ## Before you begin
 
-You must have [Now Assist in AI Search](../reference/now-assist-ais.md) installed.
+You must have [Now Assist in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/now-assist-ais.md) installed.
 
 Role required: ais\_admin
 
@@ -66,8 +66,8 @@ This check keeps result improvement rule changes in sync across your search prof
 
 5.  To make your mirror source changes take effect, publish your modified mirror target search profile.
 
-    For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
+    For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
 
-**Parent Topic:**[Result improvement rules](../concept/result-improvement-rules-ais.md)
+**Parent Topic:**[Result improvement rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/result-improvement-rules-ais.md)
 

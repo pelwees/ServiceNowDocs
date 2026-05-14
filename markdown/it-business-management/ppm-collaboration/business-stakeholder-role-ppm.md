@@ -54,5 +54,5 @@ Users with the business stakeholder role for PPM can access the following tables
 |Time Sheet|time\_sheet|
 |Time Sheet Exception|time\_sheet\_exception|
 
-**Parent Topic:**[Project Portfolio Management reference](project-portfolio-management-reference.md)
+**Parent Topic:**[Project Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-management-reference.md)
 

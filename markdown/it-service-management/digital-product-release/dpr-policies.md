@@ -20,7 +20,7 @@ You can use or customize these default DPR policies to validate that your config
 
 **Note:** You can’t modify the base system policies. However, you can create a copy of the policy and customize it.
 
-These policies are for both product and service releases. However, a few don't apply to service releases. For more information about those policies, see [Policies not applicable to service releases](dpr-policies.md#dpr-section_policy-not-service).
+These policies are for both product and service releases. However, a few don't apply to service releases. For more information about those policies, see [Policies not applicable to service releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-policies.md#dpr-section_policy-not-service).
 
 ## All Completed Stories Have Associated Commits \(all\_completed\_stories\_have\_associated\_commits\)
 
@@ -183,5 +183,5 @@ The following policies don't apply to service releases.
 **Related topics**  
 
 
-[Digital Product Release data collectors](dpr-data-collector.md)
+[Digital Product Release data collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-data-collector.md)
 

@@ -30,7 +30,7 @@ Useful capabilities provided:
 
 Resources:
 
-[Security Incident event management support documentation](../../security-incident-response/concept/c_ScIncdUseAlrts.md)
+[Security Incident event management support documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/concept/c_ScIncdUseAlrts.md)
 
 [Event Management documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
@@ -52,7 +52,7 @@ Resources:
 
 [Platform Import Set API documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_ImportSetAPI.md)
 
-[Security Incident Web Service Import Set documentation](../../security-incident-response/concept/c_3rdPartyAlertMonToolInteg.md)
+[Security Incident Web Service Import Set documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/concept/c_3rdPartyAlertMonToolInteg.md)
 
 ## Threat Intelligence - lookup source integration
 
@@ -86,7 +86,7 @@ Useful capabilities provided:
 
 Resources:
 
-[Define a threat source](../../threat-intelligence/concept/c_GetStartedWithThreatIntel.md#)
+[Define a threat source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/c_GetStartedWithThreatIntel.md#)
 
 ## Vulnerability Response - scanner invocation integration
 
@@ -120,16 +120,16 @@ Useful capabilities provided:
 
 Resources:
 
-[Vulnerability data integration documentation](../../vulnerability-response/concept/c_VulnerabilityIntegrations.md)
+[Vulnerability data integration documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/c_VulnerabilityIntegrations.md)
 
-**Parent Topic:**[ServiceNow Security Operations integration development guidelines](c_IntegrationWritingGuidelines.md)
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
 
-[Security Operations Integration Configurations](../../security-operations-common/concept/third-party-integrations.md)
+[Security Operations Integration Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/third-party-integrations.md)
 
-[Tips for writing integrations](c_BestPractisesIntegrations.md)
+[Tips for writing integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 
-[Integration troubleshooting](c_IntegrationTroubleshooting.md)
+[Integration troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 

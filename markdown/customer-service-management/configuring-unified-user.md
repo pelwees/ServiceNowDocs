@@ -34,9 +34,9 @@ By using multiple profiles within the CSM application, your organization can hav
 **Related topics**  
 
 
-[Configuring a user as a Unified Consumer](configuring-employee-as-a-consumer.md)
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-employee-as-a-consumer.md)
 
-[Configuring a contact as a consumer](configuring-a-contact-as-a-unified-consumer.md)
+[Configuring a contact as a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-contact-as-a-unified-consumer.md)
 
-[Update system property](update-system-property.md)
+[Update system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/update-system-property.md)
 

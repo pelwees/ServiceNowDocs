@@ -29,7 +29,7 @@ A service offering represents how a service is provided and who it is for. A ser
 4.  **Financials**
 5.  **Offering performance**
 
-**Tip:** You can cancel out of creating a service anytime by selecting the **Cancel** button \(next to the **Save** button\). Also, to return to the home page at any time while creating or editing a service, select ![Home icon.](../../digital-portfolio-management/image/home-polaris-primary2x.png).
+**Tip:** You can cancel out of creating a service anytime by selecting the **Cancel** button \(next to the **Save** button\). Also, to return to the home page at any time while creating or editing a service, select ![Home icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-builder/../../digital-portfolio-management/image/home-polaris-primary2x.png).
 
 To create a service and service offering, you must be assigned the service\_author role. To edit \(not create\) a service or service offering, you must be assigned the service\_editor role.
 
@@ -92,7 +92,7 @@ The stage and status for the service that you're creating.
 
  If you don't have the plugin installed, then the legacy Service Portfolio Management phase and status fields display.
 
- For information on the different types of fields, see [Apply the CSDM guidelines to Digital Portfolio Management](../../digital-portfolio-management/reference/dpm-csdm.md).
+ For information on the different types of fields, see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-builder/../../digital-portfolio-management/reference/dpm-csdm.md).
 
 </td></tr><tr><td>
 

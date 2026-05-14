@@ -27,7 +27,7 @@ Role required: sam\_admin and sam\_user
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [SAM Success Activity](../reference/sam-success-activity.md).
+    For a description of the field values, see [SAM Success Activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/sam-success-activity.md).
 
 4.  Select **Save**.
 
@@ -39,7 +39,7 @@ The success activity appears in the License operation view under the Success act
 **Related topics**  
 
 
-[Create success goals for Software Asset Management](create-success-goals.md)
+[Create success goals for Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-goals.md)
 
-[License operations view](../concept/operations-workspace.md)
+[License operations view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/operations-workspace.md)
 

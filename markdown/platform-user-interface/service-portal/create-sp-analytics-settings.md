@@ -39,7 +39,7 @@ Portals that have been configured for tracking are listed in the Usage Insights 
 
     -   To track analytics only for authenticated users, clear the **Enable Unauthenticated User Tracking** check box.
     -   To track analytics for both unauthenticated and authenticated users, select the **Enable Unauthenticated User Tracking** check box.
-    **Note:** If you enabled unauthenticated user tracking, you might be required by law to notify unauthenticated users that you are tracking their usage for analysis. To display a legal notice, activate the Privacy Notice announcement, which is inactive by default. For more information, see [Activate the privacy notice for unauthenticated users](activate-privacy-notice.md).
+    **Note:** If you enabled unauthenticated user tracking, you might be required by law to notify unauthenticated users that you are tracking their usage for analysis. To display a legal notice, activate the Privacy Notice announcement, which is inactive by default. For more information, see [Activate the privacy notice for unauthenticated users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/activate-privacy-notice.md).
 
 5.  Select **Update**.
 
@@ -48,7 +48,7 @@ Portals that have been configured for tracking are listed in the Usage Insights 
 
 You can now view user analytics tracking for the selected portal by navigating to **All** &gt; **Platform Analytics** &gt; **Usage Insights**. For more information on using the Usage Insights application, see [Overview of the Usage Insights application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-dashboard.md).
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sp-analytics.md)
 
 **Related topics**  
 

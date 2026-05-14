@@ -141,5 +141,5 @@ Install Operational Technology Manager by requesting it from the ServiceNow Stor
     The CMDB CI Class Models store application enables Operational Technology Manager to import and classify device data in ServiceNow. The Operational Technology Manager application automatically installs the latest version of the OT extension classes, available in the CMDB CI Class Models application in the ServiceNow Store.
 
 
-**Parent Topic:**[Operational Technology release notes](operational-technology-rn-landing.md)
+**Parent Topic:**[Operational Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/operational-technology-rn-landing.md)
 

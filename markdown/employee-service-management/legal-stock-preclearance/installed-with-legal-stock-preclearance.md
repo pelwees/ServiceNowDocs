@@ -97,5 +97,5 @@ Trading Window Requests\[sn\_lg\_stock\_cp\_trading\_window\_request\]
 Stores the trading window requests for stock preclearance requests.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Stock Preclearance reference](legal-stock-pre-reference.md)
+</table>**Parent Topic:**[Legal Stock Preclearance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-pre-reference.md)
 

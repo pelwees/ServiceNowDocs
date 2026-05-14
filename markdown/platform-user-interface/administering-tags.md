@@ -15,7 +15,7 @@ If you have an administrator role, you can configure and manage all tags, even t
 
 You must have the tags\_admin role for these administrative tasks.
 
-**Parent Topic:**[Tags](c_Tags.md)
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Create a tag from the Tags list
 

@@ -25,7 +25,7 @@ Role required: sn\_sre.admin
 
 ## Procedure
 
-1.  Configure the [properties for the Skill Recommendation application](../reference/configurable-wfo-itsm-skill-recommendation-reference.md).
+1.  Configure the [properties for the Skill Recommendation application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-skill-recommendation-reference.md).
 
 2.  Run the solution definition models to train the supervised and unsupervised solutions.
 
@@ -36,8 +36,8 @@ Role required: sn\_sre.admin
     This scheduled job is inactive by default. When you activate it, the job runs daily at 1:00 AM on all incidents resolved the previous day. The job then adds the skills to the User Predicted Skill \[sn\_sre\_user\_predicted\_skill\] table and Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\] table.
 
 
--   **[Use extension points for skill prediction](extension-points-skill-prediction-wfo-itsm.md)**  
+-   **[Use extension points for skill prediction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/extension-points-skill-prediction-wfo-itsm.md)**  
 Use scripted extension points to customize skill prediction for tasks.
 
-**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/skills-management-wfo-itsm.md)
 

@@ -25,7 +25,7 @@ The Approval Configuration record controls two aspects of the approval experienc
 
 -   **Display experience**
 
-    Defines which fields appear and in what order, both in the Approval Assistance AI agent and the Approval Info Record widget. For more information, see [Platform Approval assistance AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-approval-aia.md) and [Approval Info Record widget](../concept/approval-info-record-widget.md).
+    Defines which fields appear and in what order, both in the Approval Assistance AI agent and the Approval Info Record widget. For more information, see [Platform Approval assistance AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-approval-aia.md) and [Approval Info Record widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/approval-info-record-widget.md).
 
 -   **AI behavior**
 
@@ -158,7 +158,7 @@ Configure fields and AI behavior for a table that goes through the approval work
 
 3.  Select the **Display Fields Configuration** tab.
 
-4.  Select **Display fields**.![Approval Display fields.](../image/aia-choose-display-fields.png)
+4.  Select **Display fields**.![Approval Display fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/aia-choose-display-fields.png)
 
 5.  Move the display fields from the **Available** list to the **Selected** list.
 
@@ -176,12 +176,12 @@ Configure fields and AI behavior for a table that goes through the approval work
     |**Never**|No records show for an approval checklist.|
     |**Conditionally**|Set conditions that the records must meet to generate the approval checklist. For example: **Short description** &gt; **starts with** &gt; **Tuition reimbursement**.|
 
-9.  Select **KB search fields**. ![Select KB search fields to show the available and selection fields.](../image/aia-choose-checklist-kb.png)
+9.  Select **KB search fields**. ![Select KB search fields to show the available and selection fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/aia-choose-checklist-kb.png)
 
-10. Move KB search fields from the **Available** list to the **Selected** list.![Approval checklist and KB search fields.](../image/aia-choose-checklist-kb-fields.png)
+10. Move KB search fields from the **Available** list to the **Selected** list.![Approval checklist and KB search fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/aia-choose-checklist-kb-fields.png)
 
 11. Select **Update**.
 
 
-**Parent Topic:**[Configuring Service Portal](../concept/configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/configuring-service-portal.md)
 

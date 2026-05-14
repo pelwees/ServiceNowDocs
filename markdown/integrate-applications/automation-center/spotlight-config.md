@@ -19,11 +19,11 @@ If ServiceNow Spotlight and Automation Center are installed, you get the followi
 
 -   System properties: sn\_ac.use.spotlight.score.for.requests, sn\_ac.use.spotlight.group.for.requests
 
-    For detailed description of the system properties, see [Automation Center properties](../reference/automation-center-properties.md).
+    For detailed description of the system properties, see [Automation Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-center-properties.md).
 
 -   Scheduled job: **Automation Center: Copy spotlight score into request**
 
-    For detailed description, see [Components installed with Automation Center](../reference/components-installed-with-automation-center.md).
+    For detailed description, see [Components installed with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/components-installed-with-automation-center.md).
 
 -   Spotlight Group: If ServiceNow Spotlight is enabled, you have the Spotlight group named “Automation request group” with default Spotlight criteria set up.
 
@@ -33,8 +33,8 @@ If ServiceNow Spotlight and Automation Center are installed, you get the followi
 
     If you need a different criteria than the default criteria to set your execution priority, then you can customize the criteria to meet your requirements and create a new Spotlight group. For more information, see [Create a Spotlight group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/create-spotlight-group.md)
 
-    For details about the default Spotlight criteria, see [Default criteria](default-spotlight-criteria.md).
+    For details about the default Spotlight criteria, see [Default criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/default-spotlight-criteria.md).
 
 
-**Parent Topic:**[Working with ServiceNow Spotlight feature](spotlight-ac.md)
+**Parent Topic:**[Working with ServiceNow Spotlight feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/spotlight-ac.md)
 

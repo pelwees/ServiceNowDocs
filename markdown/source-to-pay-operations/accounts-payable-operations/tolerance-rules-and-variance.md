@@ -30,31 +30,31 @@ Accounts Payable Operations supports the following tolerance types:
     **Note:** If tax amount variance for a tax line is within the tolerance range, then supplier tax amount will be copied over to final tax amount field by default.
 
 
--   **[Define an invoice tolerance type](../task/define-a-new-tolerance-type-definition.md)**  
+-   **[Define an invoice tolerance type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/define-a-new-tolerance-type-definition.md)**  
 Define an invoice tolerance type that you can use in an exception definition.
--   **[Map invoice tolerance type with invoice exception definition](../task/map-invoice-tolerance-definition-with-tolerance-rule.md)**  
+-   **[Map invoice tolerance type with invoice exception definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/map-invoice-tolerance-definition-with-tolerance-rule.md)**  
 Define a new tolerance type and map them with invoice exception definition of your choice to fulfill a goal.
--   **[Define an invoice tolerance rule](../task/define-a-new-tolerance-rule.md)**  
+-   **[Define an invoice tolerance rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/define-a-new-tolerance-rule.md)**  
 Configure invoice tolerance rule definition for a tolerance type to be applied to invoices matching the invoice filter's conditions.
--   **[View tolerance form](../task/view-tolerance-form.md)**  
+-   **[View tolerance form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-tolerance-form.md)**  
 Invoice processing cases with exceptions displays the associated **Tolerance details** at header level and **Variance details** at line level.
 
-**Parent Topic:**[Using Accounts Payable Invoice Processing](use-ap-invoice-processing.md)
+**Parent Topic:**[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/use-ap-invoice-processing.md)
 
 **Related topics**  
 
 
-[Invoice ingestion using Application programming interface \(API\)](invoice-ingestion-using-api.md)
+[Invoice ingestion using Application programming interface \(API\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-ingestion-using-api.md)
 
-[Rules based engine](rules-based-engine.md)
+[Rules based engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/rules-based-engine.md)
 
-[Work with invoices](work-with-invoices.md)
+[Work with invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md)
 
-[Invoice processing cases](working-with-ingestion-cases.md)
+[Invoice processing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-[Invoice exceptions](work-with-invoice-exceptions.md)
+[Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-[Invoice approvals](invoice-approvals.md)
+[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-approvals.md)
 
-[View invoice documents in the Source-to-Pay Workspace](../task/view-invoice-attachment.md)
+[View invoice documents in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/view-invoice-attachment.md)
 

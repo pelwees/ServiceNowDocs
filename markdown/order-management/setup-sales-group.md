@@ -27,7 +27,7 @@ Once the users, teams, and opportunity data are added, along with selection of c
 
 2.  Select **New**.
 
-    ![New sales team](../image/New-group-salesforecasting.png)
+    ![New sales team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/New-group-salesforecasting.png)
 
 3.  On the form, fill in the fields.
 

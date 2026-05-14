@@ -17,11 +17,11 @@ The Analytics Time sheet provides comprehensive time sheet activities and report
 
 **Important:** Starting with Australia release, **Time Sheet Dashboard** is renamed to **Analytics Time sheet** for new customers.
 
-![Screenshot for Overview tab of Analytics Time sheet](../image/time-sheet-dashboard-overviewtab.png "Overview tab")
+![Screenshot for Overview tab of Analytics Time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/time-sheet-dashboard-overviewtab.png "Overview tab")
 
-![Screenshot for Delinquent Activity tab of Analytics Time sheet](../image/time-sheet-dashboard-delinquenttab.png "Delinquent Activity tab")
+![Screenshot for Delinquent Activity tab of Analytics Time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/time-sheet-dashboard-delinquenttab.png "Delinquent Activity tab")
 
-![Screenshot for Analysis tab of Analytics Time sheet](../image/time-sheet-dashboard-analysistab.png "Analysis tab")
+![Screenshot for Analysis tab of Analytics Time sheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../image/time-sheet-dashboard-analysistab.png "Analysis tab")
 
 ## End user and roles
 
@@ -144,7 +144,7 @@ Rejected
 
 </td><td>
 
-Single score ![Single-score chart](../../performance-analytics/image/single-score.png)
+Single score ![Single-score chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -156,7 +156,7 @@ Late
 
 </td><td>
 
-Single score ![Single-score chart](../../performance-analytics/image/single-score.png)
+Single score ![Single-score chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -168,7 +168,7 @@ Pending Approvals
 
 </td><td>
 
-Single score ![Single-score chart](../../performance-analytics/image/single-score.png)
+Single score ![Single-score chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -180,7 +180,7 @@ By State
 
 </td><td>
 
-Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)
+Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)
 
 </td><td>
 
@@ -192,7 +192,7 @@ By Category
 
 </td><td>
 
-Heat map ![Heat map chart](../../performance-analytics/image/heatmap.png)
+Heat map ![Heat map chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -204,7 +204,7 @@ By Resource
 
 </td><td>
 
-List ![List chart](../../performance-analytics/image/scorecard-icon.png)
+List ![List chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/scorecard-icon.png)
 
 </td><td>
 
@@ -216,7 +216,7 @@ Total Hours
 
 </td><td>
 
-Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)
+Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)
 
 </td><td>
 
@@ -228,7 +228,7 @@ Total Hours by Week Starts On
 
 </td><td>
 
-Time series line ![time series line chart](../../performance-analytics/image/line-ts-icon.png)
+Time series line ![time series line chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/line-ts-icon.png)
 
 </td><td>
 
@@ -240,7 +240,7 @@ Time Sheets Over 40 Hours
 
 </td><td>
 
-Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)
+Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)
 
 </td><td>
 
@@ -252,7 +252,7 @@ Allocated vs Actual Hours
 
 </td><td>
 
-Time series step ![Time series step chart](../../performance-analytics/image/step-ts-icon.png)
+Time series step ![Time series step chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/step-ts-icon.png)
 
 </td><td>
 
@@ -264,12 +264,12 @@ Time Cards By Expense Type
 
 </td><td>
 
-Bar chart ![Bar chart](../../performance-analytics/image/column-icon.png)
+Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../performance-analytics/image/column-icon.png)
 
 </td><td>
 
 Time cards grouped by expense types: Capital Expense \(Capex\) and Operating Expense \(Opex\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Project Portfolio Management Platform Analytics Solutions](project-portfolio-content-pack.md)
+</table>**Parent Topic:**[Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md)
 

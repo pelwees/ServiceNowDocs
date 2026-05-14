@@ -15,7 +15,7 @@ Configure the ServiceNow AI Platform to automatically create events in MISP.
 
 ## Before you begin
 
--   [Review the MISP user role and permissions](../reference/misp-user-roles-and-permissions.md) that are required for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-roles-and-permissions.md) that are required for using the MISP bi-directional features.
 -   Role required: sn\_si.admin, sn\_ti.admin
 
 ## Procedure
@@ -78,28 +78,28 @@ Option that indicates if the profile is active or inactive. The option is cleare
 </table>4.  Click **Continue**.
 
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](../reference/get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/install-and-configure-misp.md)
 
-[Review the MISP integration settings](review-the-misp-integration-settings.md)
+[Review the MISP integration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](configure-sightings-search.md)
+[Configure MISP sighting searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configure-sightings-search.md)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-event-data.md)
 
-[Associated MISP events](../reference/associated-misp-events.md)
+[Associated MISP events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/associated-misp-events.md)
 
-[MISP user information](../reference/misp-user-information.md)
+[MISP user information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-information.md)
 
-[Domain separation and MISP](../reference/domain-separation-and-misp.md)
+[Domain separation and MISP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/domain-separation-and-misp.md)
 
-[Troubleshooting MISP integration](../reference/troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/troubleshooting-misp-integration.md)
 
 ## Configure event trigger conditions
 
@@ -166,7 +166,7 @@ MISP event that you can create if an observable doesn't have corresponding event
 </td></tr></tbody>
 </table>    The following example shows the event trigger conditions as you set up the MISP event creation profile.
 
-    ![Configure conditions that are based on an event that is created in MISP.](../image/misp-event-trigger-conditions.png "Event trigger conditions")
+    ![Configure conditions that are based on an event that is created in MISP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-event-trigger-conditions.png "Event trigger conditions")
 
 2.  Click **Continue**.
 
@@ -238,7 +238,7 @@ Current stage of the analysis for the event, with the following possible options
 
 
 
-    ![Configure the form to create a new event in MISP.](../image/misp-event-field-mapping.png)
+    ![Configure the form to create a new event in MISP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-event-field-mapping.png)
 
 2.  Click **Continue**.
 
@@ -293,7 +293,7 @@ Option to map the SIR observable types to the MISP attribute types. For example,
 
  To add a new mapping, click **Add Observable Type**, search for the SIR observable type, and then map to the corresponding MISP attribute type.
 
- Click the Remove Mapping icon ![Remove mapping.](../image/misp-remove-mapping.png) to remove the SIR and MISP attribute mapping association.
+ Click the Remove Mapping icon ![Remove mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-remove-mapping.png) to remove the SIR and MISP attribute mapping association.
 
  **Note:** For more information on MISP attribute types, see the [MISP documentation](https://www.circl.lu/doc/misp/categories-and-types/#types).
 
@@ -318,7 +318,7 @@ Option that lets you know that if an observable is marked as malicious in SIR, t
 
 
 
-    ![Map SIR observable and MISP attribute type.](../image/misp-attribute-mapping.gif)
+    ![Map SIR observable and MISP attribute type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/misp-attribute-mapping.gif)
 
 
 ## Synchronize MITRE-ATT&amp;CK information to MISP events

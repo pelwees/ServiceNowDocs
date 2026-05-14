@@ -39,9 +39,9 @@ The following configurations are added for the AI Search experience in Service O
     -   Ensure that the version of AI Search for Next Experience is 3.0 or later.
     -   Ensure that the Q&amp;A genius result configuration is in an Active state. For more information about the Q&amp;A genius result configurations, see [Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-q-a-ais.md).
 
-![AI Search in Service Operations Workspace.](../image/ai-search-sow.png "AI Search experience in Service Operations Workspace")
+![AI Search in Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/ai-search-sow.png "AI Search experience in Service Operations Workspace")
 
 You can customize the AI Search experience by adding a data source, editing a search profile, and so on, by using the AI Search Guided Setup. For information on using this guided setup, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md).
 
-**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](setting-up-sow-itsm.md)
+**Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setting-up-sow-itsm.md)
 

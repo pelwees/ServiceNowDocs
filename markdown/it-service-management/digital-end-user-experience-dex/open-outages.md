@@ -23,7 +23,7 @@ Role required: sn\_dex\_desktop.user or sn\_dex\_desktop.admin
 
 1.  Log in to Desktop Assistant.
 
-    For more information, see [Open and log in to Desktop Assistant](open-desktop-exp.md).
+    For more information, see [Open and log in to Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/open-desktop-exp.md).
 
 2.  On the Desktop Assistant home page, select **Outages**.
 

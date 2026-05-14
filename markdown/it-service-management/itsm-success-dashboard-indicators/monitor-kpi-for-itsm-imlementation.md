@@ -17,7 +17,7 @@ View and monitor the ITSM Success Dashboard indicators to measure the performanc
 
 You can access the aggregated KPI data in the ITSM Success Dashboard indicators by navigating to **All&gt;** &gt; **Success Dashboard** &gt; **Success Dashboard** if you have the sn\_sd.success\_dashboard\_admin, sn\_sd.success\_dashboard\_read, or sn\_sd.success\_dashboard\_details\_read role.
 
-![ITSM Success Dashboard landing page](../image/sd-overview-fb23.png)
+![ITSM Success Dashboard landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/sd-overview-fb23.png)
 
 You can monitor data by any of the following time aggregations.
 
@@ -31,5 +31,5 @@ For more information on the dashboard components, see [HR Success Dashboard indi
 
 For more information on the KPI definitions and formulas, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/measuring-performance-success-dashboard.md)
 

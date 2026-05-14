@@ -51,7 +51,7 @@ The Now Assist for FSM application includes generative AI skills that enable use
 
 ## AI agents
 
-The Now Assist for FSM application includes AI agents that automate field service tasks on the platform or on the ServiceNow Agent mobile application. For more information about setting up and using AI agents, see [Using agentic AI in Now Assist for Field Service Management \(FSM\)](fsm-ai-agent-use-cases.md).
+The Now Assist for FSM application includes AI agents that automate field service tasks on the platform or on the ServiceNow Agent mobile application. For more information about setting up and using AI agents, see [Using agentic AI in Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/fsm-ai-agent-use-cases.md).
 
 -   **Create work order**
 

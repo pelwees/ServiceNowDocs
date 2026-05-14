@@ -59,5 +59,5 @@ Proxy Agent
 Select a proxy agent to be associated with the check.This field appears only when working with a check instance and when one of the options has been selected on the **Proxy Settings** tab in the instance's policy.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector check definition page](check-definition-form.md)
+</table>**Parent Topic:**[Agent Client Collector check definition page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/check-definition-form.md)
 

@@ -36,7 +36,7 @@ When creating an account relationship type, you define the following information
 -   The relationship between the source account and the target account.
 -   The reverse relationship between the source account and the target account.
 
-![Account Relationship form displaying an instance of the relationship between two accounts.](../image/CSMAccountRelationshipTypeForm.png "Account Relationship Type form")
+![Account Relationship form displaying an instance of the relationship between two accounts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/CSMAccountRelationshipTypeForm.png "Account Relationship Type form")
 
 **Note:** One default account relationship type is provided for partner accounts.
 
@@ -56,7 +56,7 @@ View a relationship record from either account:
 
 Select the account relationship record from either account to see the Account Relationship form.
 
-![Account Relationship Type form displaying various fields related to customer and partner accounts.](../image/CSMAccountRelationshipForm.png "Account Relationship form")
+![Account Relationship Type form displaying various fields related to customer and partner accounts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/CSMAccountRelationshipForm.png "Account Relationship form")
 
 You can also view account relationship records that use a specific account relationship type. This information appears as a related list on the Account Relationship Type form. This list shows the source account \(**Account From** field\) and the target account \(**Account To** field\) for each account relationship record.
 

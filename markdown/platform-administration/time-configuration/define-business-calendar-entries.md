@@ -25,7 +25,7 @@ In contrast to legacy schedule entries that have repeating and excluding time sp
 
 **Note:** Fiscal calendars or schedules you may have created in the **Fiscal Calendar** or **System Scheduler** &gt; **Schedules** menu also appear on the lists on the **Business Calendar** menu. If you select a fiscal calendar or schedule, it appears in the legacy function that you originally used to create it. You can't view or update legacy fiscal calendars or schedules using this form.
 
-To create business calendar entries and associate them with a business calendar, use the Business Calendar Entries related list in the Business Calendar form. To learn more about creating a business calendar, see [Create a business calendar](create-business-calendar.md).
+To create business calendar entries and associate them with a business calendar, use the Business Calendar Entries related list in the Business Calendar form. To learn more about creating a business calendar, see [Create a business calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-business-calendar.md).
 
 ## Procedure
 
@@ -49,10 +49,10 @@ Name
 
 </td><td>
 
-Unique reference name for the business calendar entry. To select a business calendar name or to create one: 1.  To search for an existing business calendar entry name, select ![Search button](../../search-administration/image/SearchIcon.png).
+Unique reference name for the business calendar entry. To select a business calendar name or to create one: 1.  To search for an existing business calendar entry name, select ![Search button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../search-administration/image/SearchIcon.png).
 2.  If no business calendar entry name exists and you want to create a business calendar entry name, select **New**. The Business Calendar Entry Name form appears.
 
-**Note:** To learn how to create business calendar entry names, see [Create business calendar entry names](define-business-calendar-entries.md#).
+**Note:** To learn how to create business calendar entry names, see [Create business calendar entry names](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md#).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ End date and time for the business calendar period. It uses the time zone that y
 7.  Select **Update** to save any changes and return to the list.
 
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/business-calendars.md)
 
 ## Create business calendar entry names
 
@@ -94,7 +94,7 @@ Role required: business\_calendar\_admin
 
 1.  Navigate to **All** &gt; **Business Calendar** &gt; **Business Calendar Entry Names**.
 
-    **Note:** Alternately, you can create a business calendar entry name at the time you create the associated business calendar entry. To learn more about creating a business calendar entry, see [Define business calendar entries](define-business-calendar-entries.md#).
+    **Note:** Alternately, you can create a business calendar entry name at the time you create the associated business calendar entry. To learn more about creating a business calendar entry, see [Define business calendar entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md#).
 
 2.  Select **New**.
 

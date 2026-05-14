@@ -110,5 +110,5 @@ Color that appears as the text color.
 
 The risk color style is ready to use.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-advanced-risk-assessment.md)
 

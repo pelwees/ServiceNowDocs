@@ -65,15 +65,15 @@ Cloud providers provide a way to execute scripts at boottime for virtual machine
 
 -   Image level: At the time of creating a cloud script, you can specify an image against which this script should be executed. Once an OS profile which contains this specific image gets selected, the default cloud script against this image is executed. In the example below, an Apache cloud script is associated with a particular image.
 
-    ![Apache cloud script associated with an image.](../image/apache-cloud-script.png)
+    ![Apache cloud script associated with an image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/apache-cloud-script.png)
 
 -   OS profile level: You can run a cloudinit against a specific cloud provider and against a specific AMI/image. You can also be generic and associate a cloudinit to an OS profile, irrespective of the underlying image. In the following example, multiple images are associated with the OS profile. You can map any cloud script to the OS profile in the Cloud Script OS Profile Mappings tab. The mapping of a cloud script with an OS profile takes precedence over the image-level cloud script association.
 
-    ![cloud script default at OS profile](../image/os-profile-example.png)
+    ![cloud script default at OS profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/os-profile-example.png)
 
     In this example, the Apache cloud script is mapped to the Centos OS profile. If needed, you can override the script parameters in the OS Profile Mapping Overrides section.
 
--   Resource blocks: While mapping a cloud script to an OS profile, you can choose whether to execute the cloud script for a specific resource block used in a blueprint and against a particular resource alias. See [Create an OS profile](../task/create-os-profile.md).
+-   Resource blocks: While mapping a cloud script to an OS profile, you can choose whether to execute the cloud script for a specific resource block used in a blueprint and against a particular resource alias. See [Create an OS profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../task/create-os-profile.md).
 
 ## Cloud scripts as Postinit
 

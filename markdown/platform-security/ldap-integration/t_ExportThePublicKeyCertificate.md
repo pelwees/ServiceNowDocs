@@ -46,5 +46,5 @@ If your Certificate Authority is not a trusted third party vendor, you must expo
 
 After completing this procedure, import the public key certificate into the application.
 
-See [Install the LDAP X.509 SSL certificate](t_UploadTheX509SSLCertificate.md) to upload the certificate into the application.
+See [Install the LDAP X.509 SSL certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_UploadTheX509SSLCertificate.md) to upload the certificate into the application.
 

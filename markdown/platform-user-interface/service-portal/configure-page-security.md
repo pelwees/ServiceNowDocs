@@ -44,11 +44,11 @@ Public pages won't require a user login; anyone can access them. All other optio
 
 ## Example
 
-![Doc page in the Page Editor with the admin,advanced_users,sp_admin roles entered in the Roles field](../image/PageSecurityExample.png "Page with limited access by role")
+![Doc page in the Page Editor with the admin,advanced_users,sp_admin roles entered in the Roles field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/PageSecurityExample.png "Page with limited access by role")
 
 ## What to do next
 
-Follow the steps in [Configure widget security](configure-widget-security.md) to configure security for the widgets on your page.
+Follow the steps in [Configure widget security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-widget-security.md) to configure security for the widgets on your page.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/portal-security.md)
 

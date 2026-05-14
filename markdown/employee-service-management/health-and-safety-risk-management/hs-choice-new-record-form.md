@@ -27,5 +27,5 @@ Field description to add a new choice to create a new permit type.
 |Dependent value|Leave empty.|
 |Hint|Leave empty.|
 
-**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-risk-mgmt-reference.md)
 

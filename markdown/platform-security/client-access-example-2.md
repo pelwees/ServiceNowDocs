@@ -33,7 +33,7 @@ The public certificate that you created in this example is considered a “self-
 
     You must view the contents of your public certificate to copy it into the trusted key store. This `cat` command displays the certificate.
 
-    ![Contents of the public certificate displayed in terminal](../images/client-side-2.png)
+    ![Contents of the public certificate displayed in terminal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-2.png)
 
 4.  Copy the certificate information to your clipboard.
 
@@ -41,7 +41,7 @@ The public certificate that you created in this example is considered a “self-
 
 5.  On your ServiceNow instance, navigate to the **X.509 certificate** list by entering `sys_certificate.LIST` in the navigation filter.
 
-    ![sys_certificate.LIST entered into the instance navigation filter](../images/client-side-3.png)
+    ![sys_certificate.LIST entered into the instance navigation filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-3.png)
 
 6.  Select **New** to create a **X.509 Certificate** record.
 
@@ -99,5 +99,5 @@ Paste the certificate information that you copied in step 4.
 </table>8.  Select **Submit** to save the record.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/client-access-secret-landing.md)
 

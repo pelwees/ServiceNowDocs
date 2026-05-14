@@ -27,7 +27,7 @@ Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 
 3.  Next to a role, select the menu icon \(![](../image/menu-icon.png)\) and then select **Edit**.
 
-    ![Editing a role](../image/edit-role.png "Editing a role")
+    ![Editing a role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/edit-role.png "Editing a role")
 
     A new tab opens to edit the role.
 
@@ -54,5 +54,5 @@ Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 6.  Select **Save**.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md)
 

@@ -39,7 +39,7 @@ Role required: admin
     |**Elaborate**|Expand, enhance, and refine existing narrative text using case context and activity.|
     |**Shorten**|Condense, summarize, or rephrase long narrative text into a shorter, more concise version.|
 
-    ![case narrative refinement skill view](../image/psds-narrative-skill-activated.png)
+    ![case narrative refinement skill view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-narrative-skill-activated.png)
 
 6.  Upon selection of the tone, the skill will open a modal with the refined text, and you have the option to insert or reject the suggestion.
 

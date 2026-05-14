@@ -33,7 +33,7 @@ The key features of the distribution set are:
     The workflow of the distribution set is shown below:
 
 
-![The Distribution set workflow explaining efficiently how to generate cost allocation records automatically](../image/distribution-set.png)
+![The Distribution set workflow explaining efficiently how to generate cost allocation records automatically](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/distribution-set.png)
 
 The key features of distribution lines are:
 
@@ -42,5 +42,5 @@ The key features of distribution lines are:
 -   Allocation type is restricted to amount percentage for each distribution line.
 -   When the distribution set is set as a template, the percentage column is read-only, and AP specialists can manually allocate costs later.
 
-**Parent Topic:**[Invoice cost allocation](invoice-line-cost-allocation.md)
+**Parent Topic:**[Invoice cost allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-cost-allocation.md)
 

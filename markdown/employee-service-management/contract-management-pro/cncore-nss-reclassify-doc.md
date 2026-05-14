@@ -29,7 +29,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 3.  In the **Existing contract type** drop-down list, select the contract type that you want to reclassify.
 
-4.  In the **Reclassify to** drop-down list, select the contract type into which you want to reclassify.![Reclassify contract documents](../image/cmpro-tpc-reclassify.png)
+4.  In the **Reclassify to** drop-down list, select the contract type into which you want to reclassify.![Reclassify contract documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-tpc-reclassify.png)
 
     Only active contract types are displayed in the list.
 
@@ -40,5 +40,5 @@ Role required: sn\_cm\_core.contract\_fulfiller
 7.  Select **Save** to save the record.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-req-nss-contract-1.md)
 

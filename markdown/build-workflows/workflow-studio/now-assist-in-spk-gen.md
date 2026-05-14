@@ -41,7 +41,7 @@ The spoke generation skill offers generative AI capabilities to build spokes. Th
 
 After installing the Now Assist for Creator \(sn\_now\_creator\) application, activate the Spoke Generation skill in the [Now Assist for Creator feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/now-assist-for-creator-landing.md) from the Now Assist Admin console.
 
-![Spoke Generation skill in Now Assist Admin console.](../images/creator-skill-now-assist.png "Spoke Generation skill in Now Assist Admin console")
+![Spoke Generation skill in Now Assist Admin console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/creator-skill-now-assist.png "Spoke Generation skill in Now Assist Admin console")
 
 -   For information about the Now Assist Admin console, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
 -   For steps to activate the required skill, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).

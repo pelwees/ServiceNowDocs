@@ -124,5 +124,5 @@ Contains information about service evaluation tasks.
 Government Service Task \(sn\_gsm\_government\_service\_task\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services Information Request Playbook Data Model](psds-data-model-ir-playbook.md)
+</table>**Parent Topic:**[Public Sector Digital Services Information Request Playbook Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-ir-playbook.md)
 

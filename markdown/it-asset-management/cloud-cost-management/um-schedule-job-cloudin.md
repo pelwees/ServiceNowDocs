@@ -129,7 +129,7 @@ This field appears only when the **Approval type** is selected as **Auto approva
 
 The Unused resources job is created and runs at the scheduled time.
 
-**Parent Topic:**[Manage unused resources](../concept/manage-unused-mac.md)
+**Parent Topic:**[Manage unused resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/manage-unused-mac.md)
 
 **Related topics**  
 
@@ -140,5 +140,5 @@ The Unused resources job is created and runs at the scheduled time.
 
 [bundle-itsm.create-a-change-request-template]
 
-[Exclude a resource from all Cloud Cost Management reports](exclusion-list-add-to-cloudin.md)
+[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 

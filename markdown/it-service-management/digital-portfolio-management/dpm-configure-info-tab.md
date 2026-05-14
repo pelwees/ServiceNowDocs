@@ -66,5 +66,5 @@ Each solution has a **Info** tab that displays information about the solution. F
 9.  Select **Update**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-admin-center.md)
 

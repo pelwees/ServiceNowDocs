@@ -25,7 +25,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 2.  Create a MECM script with the name `createMSInfo32File`.
 
-    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md).
+    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md).
 
 3.  Provide the following code in the script block.
 
@@ -44,7 +44,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 4.  Create a MECM script with the name `checkMsInfo32FileExist`.
 
-    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md).
+    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md).
 
 5.  Provide the following code in the script block.
 
@@ -70,7 +70,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 6.  Create a MECM script with the name `fetchMsInfo32File`.
 
-    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md).
+    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md).
 
 7.  Provide the following code in the script block.
 
@@ -105,10 +105,10 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 11. In the **Action input** field, add the script GUID.
 
-    ![System overview - msinfo32](../image/mecm-msinfo32-edit.png)
+    ![System overview - msinfo32](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mecm-msinfo32-edit.png)
 
 12. Click **Update**.
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

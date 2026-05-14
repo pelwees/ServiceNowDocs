@@ -16,10 +16,10 @@ Information for configuring both the Impact Delivery Instance and the Impact Sto
 
 ## Configuration overview
 
-1.  [Configure the Impact Delivery Instance](configuring-impact-idi.md)
+1.  [Configure the Impact Delivery Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-impact-idi.md)
     -   The Impact Delivery Instance is delivered to you with minimal technical configuration required.
     -   Many of the setup steps involve planning within your organization.
-2.  [Configure the Impact Store Application](configuring-impact-platform.md)
+2.  [Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
     -   The Impact Store Application can be downloaded from the ServiceNow Store.
     -   Guided Setup provides a sequence of tasks that help you configure the Impact Store Application in your ServiceNow instance.
 

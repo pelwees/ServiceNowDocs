@@ -99,12 +99,12 @@ Color of the schedule span displayed for each record on the timeline that matche
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/style-rules-definition.md)
 
 **Related topics**  
 
 
-[Define style rules from Change Schedule Definitions](def-stl-rules-from-chng-sch-def.md)
+[Define style rules from Change Schedule Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/def-stl-rules-from-chng-sch-def.md)
 
-[Define style rules from Change Schedules View](define-style-rules-from-view.md)
+[Define style rules from Change Schedules View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/define-style-rules-from-view.md)
 

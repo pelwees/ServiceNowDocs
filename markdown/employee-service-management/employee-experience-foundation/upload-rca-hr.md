@@ -74,7 +74,7 @@ For more information about the Update sets, see [Update set transfers](https://r
 
 The RCA and fix script XMLs are uploaded.
 
-**Parent Topic:**[Install HR Service Delivery integration with Microsoft Teams application](install-hr-ms-teams-plugin.md)
+**Parent Topic:**[Install HR Service Delivery integration with Microsoft Teams application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-hr-ms-teams-plugin.md)
 
 ## Install Fix Script for HR Service Delivery integration with Microsoft Teams
 
@@ -96,6 +96,6 @@ Role required: admin
 
 5.  Select **Run Fix Script**.
 
-    The ![Microsoft Teams decorator](../images/teams-decorator.png) icon is displayed as a field decorator in a record.
+    The ![Microsoft Teams decorator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/teams-decorator.png) icon is displayed as a field decorator in a record.
 
 

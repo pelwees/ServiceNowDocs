@@ -21,5 +21,5 @@ The SQL API enforces a rate limit of 500 queries per hour per driver type \(ODBC
 
 When planning your BI tool integrations and report schedules, consider this rate limit to confirm your queries complete successfully without interruption. If your use case requires higher query volumes, consider optimizing your queries to retrieve more data per request or spreading queries across multiple Service Accounts with appropriate access controls.
 
-**Parent Topic:**[SQL API reference information](troubleshooting.md)
+**Parent Topic:**[SQL API reference information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/troubleshooting.md)
 

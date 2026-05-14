@@ -88,7 +88,7 @@ Select the basis for the external score change that should trigger the rule and 
 
 4.  Select the **Rule Actions** tab, fill in the fields, and then select **Submit**.
 
-    ![Options on the Rule Actions tab.](../image/prov-based-submission-rule-actions.png)
+    ![Options on the Rule Actions tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/prov-based-submission-rule-actions.png)
 
 <table id="table_btn_fkf_4mb"><thead><tr><th>
 
@@ -175,5 +175,5 @@ When the rule is triggered, users with the TPR manager role receive an email not
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-riskintelprvdr-overview.md)
 

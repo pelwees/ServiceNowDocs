@@ -21,7 +21,7 @@ You can access the Enterprise asset estate view by navigating to **Enterprise As
 
 To access detailed information and take relevant action, select any widget. You can also narrow down your results by using the **Location**, **Stockroom**, **Model category**, and **Classification** filters.
 
-![Asset estate view](../image/eam-assetoverview.png "Enterprise asset estate view")
+![Asset estate view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eam-assetoverview.png "Enterprise asset estate view")
 
 |Widget or chart|Description|
 |---------------|-----------|

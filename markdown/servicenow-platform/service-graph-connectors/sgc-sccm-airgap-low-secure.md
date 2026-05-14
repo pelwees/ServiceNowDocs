@@ -45,11 +45,11 @@ Role required: admin
 
     All the configurations required for the air gap solution are created in the Microsoft SCCM directory.
 
-6.  Copy the `SgSCCMLowSecureSetup.ps1` PowerShell script that you downloaded in step [3.c](sgc-sccm-airgap-low-secure.md#substep_tjm_wbw_4gc) to the Microsoft SCCM directory.
+6.  Copy the `SgSCCMLowSecureSetup.ps1` PowerShell script that you downloaded in step [3.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-low-secure.md#substep_tjm_wbw_4gc) to the Microsoft SCCM directory.
 
 7.  Start a PowerShell session, and run the `SgSCCMLowSecureSetup.ps1` script.
 
-    1.  At the prompt, enter the path for the Microsoft SCCM directory that you created in step [5](sgc-sccm-airgap-low-secure.md#step_fk2_xbw_4gc).
+    1.  At the prompt, enter the path for the Microsoft SCCM directory that you created in step [5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-low-secure.md#step_fk2_xbw_4gc).
 
     2.  Specify names for the data source data directories, or press the Return key to accept the default values.
 
@@ -63,5 +63,5 @@ Role required: admin
 **Related topics**  
 
 
-[Configure air gap solution for Microsoft SCCM in a ServiceNow instance](sgc-sccm-airgap-sn-instance.md)
+[Configure air gap solution for Microsoft SCCM in a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-sn-instance.md)
 

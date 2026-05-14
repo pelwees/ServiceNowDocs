@@ -19,7 +19,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## About this task
 
-![The Further assistance needed question node showing the choice as the answer type with yes and no as the choices.](../image/ex-further-assistance-question.png)
+![The Further assistance needed question node showing the choice as the answer type with yes and no as the choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-further-assistance-question.png)
 
 ## Procedure
 
@@ -46,6 +46,6 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Do the following steps to add the next guidance node:
 
-1.  Configure a path with the condition "Do you need further assistance? \| is \| Yes". For more information and example, see [Determine the next node displayed in a decision tree](configure-path-in-gdb.md) and [Configuring paths with conditions whether the amount is debited or not](../concept/configuring-paths-for-next-nodes.md#).
-2.  Add a guidance node and associate the More options guidance to the Yes path. For more information and example, see [Provide actions to agents in a decision tree](configure-guidance-in-gdb.md) and [Configure a guidance node to initiate the transaction tracking](configure-guidance-node-initiate-transaction-tracking.md).
+1.  Configure a path with the condition "Do you need further assistance? \| is \| Yes". For more information and example, see [Determine the next node displayed in a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-in-gdb.md) and [Configuring paths with conditions whether the amount is debited or not](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configuring-paths-for-next-nodes.md#).
+2.  Add a guidance node and associate the More options guidance to the Yes path. For more information and example, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md) and [Configure a guidance node to initiate the transaction tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-node-initiate-transaction-tracking.md).
 

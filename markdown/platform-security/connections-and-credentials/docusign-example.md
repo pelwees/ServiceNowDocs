@@ -209,7 +209,7 @@ The following post processing script maps user input to fields in the sn\_docusi
 
 When the user navigates to the associated Docusign Connection &amp; Credential Alias and selects **Create New Connection &amp; Credential**, the following dialog appears.
 
-![Docusign form requiring user input.](../image/docusign-template.png)
+![Docusign form requiring user input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/docusign-template.png)
 
-**Parent Topic:**[Connection &amp; Credential configuration templates](../concept/spoke-configuration-template.md)
+**Parent Topic:**[Connection &amp; Credential configuration templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../concept/spoke-configuration-template.md)
 

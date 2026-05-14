@@ -58,5 +58,5 @@ Connect the insurance carrier claims management ServiceNow FSO platform with the
 </td></tr></tbody>
 </table>For more information, see [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md).
 
-**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 

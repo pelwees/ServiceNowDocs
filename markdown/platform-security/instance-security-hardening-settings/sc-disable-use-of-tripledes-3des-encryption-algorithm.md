@@ -39,5 +39,5 @@ The **glide.security.3des.encryption.allow** system property controls whether 3D
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Stored cryptography](sc-stored-cryptography.md)
+**Parent Topic:**[Stored cryptography](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)
 

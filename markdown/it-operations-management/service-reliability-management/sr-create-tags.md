@@ -27,7 +27,7 @@ There are two ways that tags can enter the system and attach to an alert or inci
 -   Using the tag icon in the header of a service, alert, or incident.
 -   Added using the **Modify field values** action in an automation rule.
 
-This task describes how to add tags to services and incidents in SRM. For information about managing alerts, see [Alerts in Service Operations Workspace](../../service-operations-workspace-itom/concept/view-alert-workspace-itom.md).
+This task describes how to add tags to services and incidents in SRM. For information about managing alerts, see [Alerts in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/concept/view-alert-workspace-itom.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ This task describes how to add tags to services and incidents in SRM. For inform
 
 3.  Open a service or incident.
 
-4.  In the header, select the **Tag** icon ![Tag icon](../image/icon-sr-tag.png) to add tags.
+4.  In the header, select the **Tag** icon ![Tag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-tag.png) to add tags.
 
 5.  Enter your tag in the pop-up window.
 
@@ -54,5 +54,5 @@ This task describes how to add tags to services and incidents in SRM. For inform
     Tags are also shown under the description in the incident list view.
 
 
-**Parent Topic:**[SRM interface](../concept/sr-navigate-interface.md)
+**Parent Topic:**[SRM interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-navigate-interface.md)
 

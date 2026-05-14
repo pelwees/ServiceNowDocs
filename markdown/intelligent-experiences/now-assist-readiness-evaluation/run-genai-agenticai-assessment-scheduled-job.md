@@ -39,5 +39,5 @@ Role required: admin
 
 If you must rerun all the scheduled jobs, or specifically, the agentic AI scheduled jobs for ITSM and CSM, repeat these steps.
 
-**Note:** You must complete the additional steps in the Now Assist Readiness Evaluation guided setup if you want to work with the Now Assist for HRSD product. If you don’t complete the additional guided setup steps for the Now Assist for HRSD product, the assessment continuously fails. For more information about completing the Now Assist Readiness Evaluation guided setup, see [Configure the Now Assist Readiness Evaluation guided setup](configure-nare-guided-setup.md).
+**Note:** You must complete the additional steps in the Now Assist Readiness Evaluation guided setup if you want to work with the Now Assist for HRSD product. If you don’t complete the additional guided setup steps for the Now Assist for HRSD product, the assessment continuously fails. For more information about completing the Now Assist Readiness Evaluation guided setup, see [Configure the Now Assist Readiness Evaluation guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configure-nare-guided-setup.md).
 

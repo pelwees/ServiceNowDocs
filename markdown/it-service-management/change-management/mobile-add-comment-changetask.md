@@ -28,12 +28,12 @@ Role required: itil or sn\_change\_write
 3.  Tap **Add comment** to add your worknotes.
 
 
-**Parent Topic:**[Get started with Change Management mobile tasks](getting-started-with-changetasks.md)
+**Parent Topic:**[Get started with Change Management mobile tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/getting-started-with-changetasks.md)
 
 **Related topics**  
 
 
-[View change tasks](mobile-view-changetask.md)
+[View change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-view-changetask.md)
 
-[Resolve or close a change task](mobile-resolve-changetask.md)
+[Resolve or close a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-resolve-changetask.md)
 

@@ -52,5 +52,5 @@ The audit logs enables the users to further investigate, debug the execution, an
     **Note:** This action is available only for the batch records which has the execution errors or completed successfully and the records those are in retry state will be automatically retried.
 
 
-**Parent Topic:**[Configure webhooks](setup-webhooks.md)
+**Parent Topic:**[Configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 

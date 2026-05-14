@@ -20,7 +20,7 @@ Configure a record page for a workspace in Workspace Builder. Use containers and
 Role required:
 
 -   admin or Guided Application Creator for ServiceNow Studio.
--   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   sn\_app\_eng\_studio.user or delegated\_developer for AES. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../concept/aes-app-dev-workflow.md).
 
 ## About this task
 
@@ -36,7 +36,7 @@ If you don't see the record page for a table you configured for the workspace, s
 
 1.  Navigate to Workspace Builder.
 
-    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
+    For details on how to open Workspace Builder in ServiceNow Studio or AES, see [Accessing Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../workspace-builder/concept/accessing-workspace-builder-aes-crs.md).
 
 2.  Create a record page.
 
@@ -44,7 +44,7 @@ If you don't see the record page for a table you configured for the workspace, s
 
     1.  In the Workspace Builder header, from the **Record pages** menu, select **+ Create new**.
 
-        ![Workspace tab open with Record pages menu expanded showing the create new option.](../image/wb-create-record-page2.png)
+        ![Workspace tab open with Record pages menu expanded showing the create new option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-create-record-page2.png)
 
     2.  On the form, fill in the fields.
 
@@ -85,11 +85,11 @@ You can select from two sections: Tables that are already available in your app,
 
     1.  In the navigation panel, select **Record details**.
 
-        ![Record page details](../image/wb-record-page-details-purple.png)
+        ![Record page details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-record-page-details-purple.png)
 
     2.  In the **Form details** section of the configuration panel, select **Edit form** and fill in the fields.
 
-        ![Configuration panel with form details section highlighted.](../image/wb-create-record-page4.png)
+        ![Configuration panel with form details section highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-create-record-page4.png)
 
 <table id="table_jjk_wbt_l5b"><thead><tr><th>
 
@@ -107,7 +107,7 @@ Form details
 
 Select the **Edit form** link to edit the form in a Table Builder tab inside AES.**Note:** After you leave the record page in the Table Builder tab, a dialog prompts you to **Reload this page**.
 
-For more information on editing forms for a record page, see [Forms in Table Builder](../../../administer/form-builder/concept/form-view-configuration.md).
+For more information on editing forms for a record page, see [Forms in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../administer/form-builder/concept/form-view-configuration.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Option to enable the Activity stream for the record page. The Activity stream en
 
     1.  If no related lists exist yet, add a new related list by selecting **+ Add tabs** in the **Releated information** section.
 
-        ![Configuration panel with related information section highlighted](../image/wb-create-record-page5.png)
+        ![Configuration panel with related information section highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-create-record-page5.png)
 
         If related lists exist for the record page, select the **Manage related information** link in the configuration panel.
 
@@ -138,7 +138,7 @@ Option to enable the Activity stream for the record page. The Activity stream en
 
     5.  View the changes that you made by selecting **Reload this page** in the dialog box that appears.
 
-    Each related information component has an information icon \(![Information icon](../image/icon-information.png)\) that, when selected, displays its related table.
+    Each related information component has an information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/icon-information.png)\) that, when selected, displays its related table.
 
 5.  Provide fulfillers with visibility into cross-business workflows and the actionable tasks used to complete these workflows by specifying the playbook.
 
@@ -177,11 +177,11 @@ Existing playbook to add to the record.**Note:** You can choose only from the pl
 </td></tr></tbody>
 </table>    3.  Select **Add**.
 
-    4.  Update the playbook by selecting the settings icon \(![Icon to edit playbook settings](../image/wb-settings-icon-2.png)\), making the change, and then selecting **Update**.
+    4.  Update the playbook by selecting the settings icon \(![Icon to edit playbook settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-settings-icon-2.png)\), making the change, and then selecting **Update**.
 
         **Note:** If you want to make additional changes to the playbook, you must open and edit the playbook in Playbooks.
 
-    5.  Delete a playbook from the workspace by selecting its delete icon \(![Icon to delete a playbook from a workspace](../image/wb-delete-icon-2.png)\) and selecting **Delete** on the confirmation dialog.
+    5.  Delete a playbook from the workspace by selecting its delete icon \(![Icon to delete a playbook from a workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-delete-icon-2.png)\) and selecting **Delete** on the confirmation dialog.
 
 6.  Configure the contextual side panel for the record page, which contains the icons for the tools that appear on the right side of the page.
 
@@ -191,7 +191,7 @@ Existing playbook to add to the record.**Note:** You can choose only from the pl
 
     1.  In the navigation panel for the record page, select **Contextual side panel**.
 
-        ![Contextual side panel for a record page](../image/wb-contextual-side-panel-purple.png)
+        ![Contextual side panel for a record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-contextual-side-panel-purple.png)
 
     2.  In the **Context side panel settings**, select the toggle switch for each component and ribbon component that you want to appear on the record page.
 
@@ -199,7 +199,7 @@ Existing playbook to add to the record.**Note:** You can choose only from the pl
 
         To see the ribbon components, set the **Ribbon** component toggle to on.
 
-        ![Ribbon component selected in settings](../image/wb-create-record-page6.png)
+        ![Ribbon component selected in settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-create-record-page6.png)
 
         To add pre-existing custom components, edit the workspace in UI Builder.
 
@@ -304,7 +304,7 @@ Display the contextual side panel ribbon, which contains tools to help agents re
 
     3.  In the configuration panel, drag the components to rearrange them.
 
-    4.  Complete any additional configuration for components by selecting the settings icon \(![Settings icon for contextual side panel components](../image/wb-settings-icon-black.png)\).
+    4.  Complete any additional configuration for components by selecting the settings icon \(![Settings icon for contextual side panel components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-settings-icon-black.png)\).
 
         For example, Customer 360 requires that you specify additional settings before the component works on the record page.
 

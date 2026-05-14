@@ -23,14 +23,14 @@ This field type is typically used for long text fields, up to 65,000 characters 
 -   Table Name: table this translation applies to.
 -   Value: translated text that the user sees.
 
-![The list of records in the Translated Text table.](../image/TranslatedTextList.png "Translated text list")
+![The list of records in the Translated Text table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/TranslatedTextList.png "Translated text list")
 
-**Parent Topic:**[Translation tables](r_TranslationTables.md)
+**Parent Topic:**[Translation tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
 **Related topics**  
 
 
-[Translating text fields](../concept/c_UseTranslatedText.md#)
+[Translating text fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../concept/c_UseTranslatedText.md#)
 
-[Translating text fields](../concept/c_UseTranslatedText.md#)
+[Translating text fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../concept/c_UseTranslatedText.md#)
 

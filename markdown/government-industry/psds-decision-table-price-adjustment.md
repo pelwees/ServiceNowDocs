@@ -25,7 +25,7 @@ A base amount can be entered and saved for each license/permit option, and can b
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Decision Tables**, and open a decision table that has been associated with a License and Permit case type​.
 
-    For information on how to associate a decision table with the case type, see [Associate a decision table with a License &amp; Permit case type​​](psds-associate-decision-table-with-lpr.md).
+    For information on how to associate a decision table with the case type, see [Associate a decision table with a License &amp; Permit case type​​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-associate-decision-table-with-lpr.md).
 
     You should be brought to Workflow Studio.
 

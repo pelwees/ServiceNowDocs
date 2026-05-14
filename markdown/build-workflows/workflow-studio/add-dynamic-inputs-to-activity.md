@@ -19,7 +19,7 @@ Configure your activity to show a certain set of fields based on the value of an
 
 Role required: playbook.admin, pd\_author, action\_designer, flow\_designer, admin
 
-Familiarize yourself with the other Workflow Studio components. [Dynamic inputs](../../flow-designer/task/getting-started-dynamic-input.md#) are created with actions and subflows:
+Familiarize yourself with the other Workflow Studio components. [Dynamic inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/getting-started-dynamic-input.md#) are created with actions and subflows:
 
 1.  In the ServiceNow AI Platform, you will create a new data definition for the dynamic input fields you want to add to an activity.
 2.  In Workflow Studio, you will create a data gathering action.
@@ -38,32 +38,32 @@ When a user requests catalog items, you can dynamically present a list of catalo
 
 1.  The first input required is for the Catalog Item field.
 
-    ![Input for a Catalog Item](../images/playbook-dynamic-inputs-1.png)
+    ![Input for a Catalog Item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-dynamic-inputs-1.png)
 
 2.  A user selects **iPad mini** in the Catalog item field.
 
-    ![A user selecting iPad mini as the Catalog item](../images/playbook-dynamic-inputs-2.png)
+    ![A user selecting iPad mini as the Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-dynamic-inputs-2.png)
 
 3.  Two \(2\) additional fields for color and storage options appear in response to the user selecting an iPad mini as the Catalog Item.
 
-    ![Two additional fields for color and storage options appear](../images/playbook-dynamic-inputs-3.png)
+    ![Two additional fields for color and storage options appear](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-dynamic-inputs-3.png)
 
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workflow Studio** and select **Actions**.
 
-2.  [Create an action to add an input.](../../flow-designer/task/create-data-gathering-action-dynamic-inputs.md)
+2.  [Create an action to add an input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/create-data-gathering-action-dynamic-inputs.md)
 
     The input appears under the **Script step** &gt; **Input Variables** section. The JSON under the **Script** section should include the new input.
 
 3.  In the **Outputs** section, click **Edit Outputs** to make sure that the value of the **Name** field is **output**, and that **JSON** is the selected in the **Type** drop-down field.
 
-4.  [Create a subflow](../../flow-designer/task/create-subflow.md) with the new input.
+4.  [Create a subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/create-subflow.md) with the new input.
 
 5.  Navigate to **All** &gt; **Process Automation Administration** &gt; **Activity Definitions**.
 
-6.  Open or [create the activity definition](create-activity-definition.md) to add the new input to.
+6.  Open or [create the activity definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-activity-definition.md) to add the new input to.
 
 7.  Under the **Automation Plan** tab, make sure the action or flow you created with the new input is the underlying **Flow or Action**, and that the new input appears in the **Variables** section.
 
@@ -74,32 +74,32 @@ When a user requests catalog items, you can dynamically present a list of catalo
     Once your activity definition is created, Playbooks authors can add and configure activities with the dynamic inputs.
 
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](add-configure-stage.md)
+[Add and configure a stage in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md)
 
-[Add and configure an activity in a playbook](add-configure-activity.md)
+[Add and configure an activity in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-activity.md)
 
-[Use AI agent as an activity](ai-agent-as-activity.md)
+[Use AI agent as an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/optional-activities.md#)
 
-[Decision activities](create-a-decision-activity.md)
+[Decision activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-a-decision-activity.md)
 
-[Decision stages](create-decision-stage.md)
+[Decision stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/questionnaire-activity.md)
 
-[Parallel branches](create-parallel-activity.md)
+[Parallel branches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-parallel-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-activity-state-mapping.md)
 

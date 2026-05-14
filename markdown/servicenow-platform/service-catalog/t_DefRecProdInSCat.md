@@ -31,7 +31,7 @@ An overview of record producers in the Service Catalog: what they are, and how t
 
 3.  Complete the Record Producer form.
 
-    For more information about the fields and their descriptions on the Record Producer form, see [Record Producer form](../reference/record-producer-form.md).
+    For more information about the fields and their descriptions on the Record Producer form, see [Record Producer form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/record-producer-form.md).
 
 4.  To add attachments such as information and instruction documentation to the catalog item, see [Add an attachment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md) .
 
@@ -42,12 +42,12 @@ An overview of record producers in the Service Catalog: what they are, and how t
 6.  Open the record again to define variables for the record producer.
 
 
-**Parent Topic:**[Record Producer](../concept/c_RecordProducer.md)
+**Parent Topic:**[Record Producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_RecordProducer.md)
 
 **Related topics**  
 
 
-[Create record producers from tables](t_CreatingRecordProducersFromTables.md)
+[Create record producers from tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreatingRecordProducersFromTables.md)
 
-[Populate record producer data and redirect users](../concept/c_PopulatingRecordData.md)
+[Populate record producer data and redirect users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_PopulatingRecordData.md)
 

@@ -17,23 +17,23 @@ If you are the Business Continuity Management application user, you can use **My
 
 The administrative tasks that are associated with the BCM application are listed in the **General Administration** module in the application UI. You can view My tasks page configurations in the **General Administration** module as shown in the example.
 
-![General Administration module.](../image/gen-admin-module.png)
+![General Administration module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/gen-admin-module.png)
 
 If you have the BCM administrator role, you can customize the BCM tasks in **My tasks page configuration**.
 
 The **My tasks page configurations** module in the list view is shown in the example.
 
-![My tasks page configurations module in the list view.](../image/tasks-page-config-list-view.png)
+![My tasks page configurations module in the list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tasks-page-config-list-view.png)
 
 The **My tasks page configurations** module record is shown in the example.
 
-![My tasks page configurations record.](../image/tasks-page-config-record.png)
+![My tasks page configurations record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tasks-page-config-record.png)
 
 My tasks page in the Home page displays the assigned tasks for the logged-in user as shown in the example.
 
-![My tasks page in BCM UIB Workspace.](../image/my-tasks-page-all-tabs.png)
+![My tasks page in BCM UIB Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/my-tasks-page-all-tabs.png)
 
-For more information on My tasks page view in BCM UIB Workspace, see [My tasks page view](my-tasks-page-uib-ws.md).
+For more information on My tasks page view in BCM UIB Workspace, see [My tasks page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/my-tasks-page-uib-ws.md).
 
-**Parent Topic:**[General administration setup for BCM](set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 

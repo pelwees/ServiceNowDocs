@@ -17,17 +17,17 @@ Indoor positioning includes these following features.
 
 ## Decide whether you want to share your location with the mobile app
 
-![Shows the mobile app screen that prompts for permission to use your location](../image/indoor-positioning-features-3.png)
+![Shows the mobile app screen that prompts for permission to use your location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/indoor-positioning-features-3.png)
 
 ## View a guided path to your destination and the estimated travel time, distance, and arrival time
 
-![Shows a guided path to a destination on a mobile app indoor positioning map](../image/indoor-positioning-features.png)
+![Shows a guided path to a destination on a mobile app indoor positioning map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/indoor-positioning-features.png)
 
 ## Get step-by-step directions
 
-![Shows an indoor positioning map on a mobile device that gives directions and which way to turn in text](../image/indoor-positioning-features-2.png)
+![Shows an indoor positioning map on a mobile device that gives directions and which way to turn in text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/indoor-positioning-features-2.png)
 
 ## Get complex directions that span multiple floors in a building
 
-![Shows indoor positioning map with text directions to take an elevator to the second floor of a building](../image/indoor-positioning-features-4.png)
+![Shows indoor positioning map with text directions to take an elevator to the second floor of a building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/indoor-positioning-features-4.png)
 

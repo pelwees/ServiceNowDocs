@@ -14,19 +14,19 @@ Use a virtual private network \(VPN\) to integrate your instance with external d
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../common/image/icon-explore.png)](exploring-virtual-private-network.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-explore.png)](exploring-virtual-private-network.md)
 
  Learn the features and business values of virtual private network.
 
 </td><td>
 
-[Activate![Activate](../../../common/image/icon-workspace.png)](../task/t_RequestAVPNService.md)
+[Activate![Activate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-workspace.png)](../task/t_RequestAVPNService.md)
 
  Active the virtual private network.
 
 </td></tr><tr><td>
 
-[Configure![Configure](../../../common/image/icon-set-up.png)](../task/t_CreateAnAddressForVPNComms.md)
+[Configure![Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-set-up.png)](../task/t_CreateAnAddressForVPNComms.md)
 
  Understand how to configure virtual private network.
 

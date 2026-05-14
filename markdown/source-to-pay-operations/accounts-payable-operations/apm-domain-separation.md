@@ -22,14 +22,14 @@ Domain separation is unsupported for Accounts Payable Operations. Domain separat
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Configure Accounts Payable Operations](config-acc-pay-mgmt.md)
+**Parent Topic:**[Configure Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Install Accounts Payable Invoice Processing](../task/install-acc-pay-mgmt.md)
+[Install Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-acc-pay-mgmt.md)
 
-[Install Invoice Case Management](../task/install-invoice-case-mgmt.md)
+[Install Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/install-invoice-case-mgmt.md)
 
-[Install Accounts Payable Operations integration with Document Intelligence](apm-integration-docintel.md)
+[Install Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-integration-docintel.md)
 

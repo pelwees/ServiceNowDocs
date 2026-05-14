@@ -25,9 +25,9 @@ Integration with Healthcare and Life Sciences Service Management Core also adds 
 **Related topics**  
 
 
-[Healthcare and Life Sciences Service Management Core](../../healthcare-life-sciences/concept/hcls-core-app.md)
+[Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../healthcare-life-sciences/concept/hcls-core-app.md)
 
-[Patient table](../../healthcare-life-sciences/reference/hcls-patient-table.md)
+[Patient table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../healthcare-life-sciences/reference/hcls-patient-table.md)
 
-[Immunization table](../../healthcare-life-sciences/reference/hcls-immunization-table.md)
+[Immunization table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../../healthcare-life-sciences/reference/hcls-immunization-table.md)
 

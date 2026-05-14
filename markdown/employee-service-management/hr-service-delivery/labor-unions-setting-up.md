@@ -101,12 +101,12 @@ The HR admin role can access, read, create, and edit:-   Unions
     The HR profile writer role contains the HR profile reader role. It can access and read Unions, Union Contacts, and Employee Union Membership. It can also edit Employee Union Membership.
 
 
--   **[Create a labor union](../task/labor-unions-create.md)**  
+-   **[Create a labor union](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/labor-unions-create.md)**  
 Create a union with details that identify it.
--   **[Create a local chapter](../task/labor-unions-local-chapter.md)**  
+-   **[Create a local chapter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/labor-unions-local-chapter.md)**  
 Use Local Chapters to set up and track the chapters of your union. Local chapters are children to labor unions.
--   **[Create union contacts](../task/labor-union-contacts.md)**  
+-   **[Create union contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/labor-union-contacts.md)**  
 Use Union Contacts to create and track the people who work for a union or local chapter organization.
 
-**Parent Topic:**[Labor unions](labor-unions.md)
+**Parent Topic:**[Labor unions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions.md)
 

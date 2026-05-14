@@ -29,7 +29,7 @@ The **Total coverage/demand** row displays the number of agents covering each sh
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  Create a schedule plan.
 
@@ -37,8 +37,8 @@ The **Total coverage/demand** row displays the number of agents covering each sh
 
         **Note:** You can analyze the staff alignment for a day or for the week.
 
-    2.  In the contextual side panel, click the Show Schedules \(![Show Schedules icon.](../image/show-schedule-new.png)\) icon.
-    3.  In the Schedules panel, click the Create new ![Add Schedule Plan icon.](../image/add.png) icon.
+    2.  In the contextual side panel, click the Show Schedules \(![Show Schedules icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/show-schedule-new.png)\) icon.
+    3.  In the Schedules panel, click the Create new ![Add Schedule Plan icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/add.png) icon.
     4.  In the **Name** field, enter a name for the schedule plan.
     5.  From the **Start date** field, select a date to start the schedule plan and click **OK**.
     6.  From the **End date** field, select a date to end the schedule plan and click **OK**.

@@ -17,7 +17,7 @@ Use scripted extension points to manipulate URL parameters and REST API task par
 
 ## Before you begin
 
-Install the EMR Help application. For more information, see [Install EMR Help](install-emr-help.md).
+Install the EMR Help application. For more information, see [Install EMR Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/install-emr-help.md).
 
 Role required: admin
 

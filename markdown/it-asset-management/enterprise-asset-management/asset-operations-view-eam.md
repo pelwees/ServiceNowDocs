@@ -21,10 +21,10 @@ Use the Asset operations view to perform the following tasks:
 -   Create shipment notifications
 -   View onboarding requests and tasks
 -   Create and view move orders.
--   Create onboarding orders to onboard multiple enterprise assets at one go. For more details, see [Onboarding multiple enterprise assets in the Enterprise Asset Workspace](onboarding-multi-asset-from-ws.md).
--   Create Calculated model lifecycle templates for enterprise models. For more details, see [Manage the lifecycle of enterprise models with calculated lifecycle templates](manage-eam-lifecycle-temp.md).
+-   Create onboarding orders to onboard multiple enterprise assets at one go. For more details, see [Onboarding multiple enterprise assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/onboarding-multi-asset-from-ws.md).
+-   Create Calculated model lifecycle templates for enterprise models. For more details, see [Manage the lifecycle of enterprise models with calculated lifecycle templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-eam-lifecycle-temp.md).
 
-![Asset operations view.](../image/asset-operations-view-updated.png "Asset operations view")
+![Asset operations view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/asset-operations-view-updated.png "Asset operations view")
 
 After you’ve created your request in the Service Catalog application, you can view the request, the requested items, the catalog tasks, and source the request from the Enterprise Asset Workspace.
 

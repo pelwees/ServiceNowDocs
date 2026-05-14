@@ -39,9 +39,9 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Parent Topic:**[Microsoft Azure Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../concept/microsoft-translation-spoke.md)
 
-**Previous topic:**[Create a connection for the MicrosoftTranslation alias](create-connection-ms-translation.md)
+**Previous topic:**[Create a connection for the MicrosoftTranslation alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-connection-ms-translation.md)
 
-**Next topic:**[Migrate customized Translator Configurations to v3 flows](migrate-v3-dynamic-translation.md)
+**Next topic:**[Migrate customized Translator Configurations to v3 flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/migrate-v3-dynamic-translation.md)
 

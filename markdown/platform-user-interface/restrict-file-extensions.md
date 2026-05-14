@@ -36,12 +36,12 @@ Role required: admin
     **Note:** Any files that use a file extension that is not included in the list of values appear broken in the UI.
 
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 
 
-[Update an existing image](t_UpdatingAnExistingImage.md)
+[Update an existing image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_UpdatingAnExistingImage.md)
 
-[Upload one or more images](upload-multiple-images.md)
+[Upload one or more images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-multiple-images.md)
 

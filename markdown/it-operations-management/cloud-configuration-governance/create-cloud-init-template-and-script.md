@@ -37,12 +37,12 @@ Role required: cloud\_admin
     templateResolver.getTemplate(scriptName);
     ```
 
-    **Note:** For more information, see [Cloud scripts and cloud script templates](../concept/cloud-scripts-and-templates.md).
+    **Note:** For more information, see [Cloud scripts and cloud script templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-scripts-and-templates.md).
 
 6.  Click **Submit**.
 
 
 ## What to do next
 
-To run a script at the time a virtual resource is provisioned, map the script to an OS profile. To run a post-provisioning script, create a blueprint and specify the script in the Execute Script operation. See [Example: Post-provision cloud script](create-cloud-init-script-example.md) for an example.
+To run a script at the time a virtual resource is provisioned, map the script to an OS profile. To run a post-provisioning script, create a blueprint and specify the script in the Execute Script operation. See [Example: Post-provision cloud script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-init-script-example.md) for an example.
 

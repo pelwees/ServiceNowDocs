@@ -124,10 +124,10 @@ After installation, you can use the base system subflows or customize them.​ C
 -   Provider\_detail​
 -   user
 
-**Parent Topic:**[Document Viewer](Documentviewer.md)
+**Parent Topic:**[Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 
 **Related topics**  
 
 
-[Document Viewer](Documentviewer.md)
+[Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 

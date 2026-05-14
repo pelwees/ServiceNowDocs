@@ -129,5 +129,5 @@ After installation, you can use the base system subflows or customize them.​ C
 **Related topics**  
 
 
-[Document Viewer](Documentviewer.md)
+[Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/Documentviewer.md)
 

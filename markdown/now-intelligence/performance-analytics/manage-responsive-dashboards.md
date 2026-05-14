@@ -26,7 +26,7 @@ Role required: dashboard\_admin or admin, or be the owner of the dashboard.
 
 Inform any users that you have shared the dashboard with that you are deleting it. Users may have bookmarked the dashboard or marked it as a favorite. Those users see an error when they try to access a deleted dashboard.
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Delete a Platform Analytics dashboard](delete-db-in-ac.md).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Delete a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/delete-db-in-ac.md).
 
 ### Procedure
 
@@ -68,7 +68,7 @@ When you duplicate a responsive dashboard, its widget layout is preserved. Howev
 
 ### Before you begin
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#).
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/task/duplicate-db.md#).
 
 Role required: Any user who can share a dashboard can copy it.
 
@@ -78,11 +78,11 @@ Role required: Any user who can share a dashboard can copy it.
 
 2.  Select the dashboard that you want to duplicate.
 
-3.  From the context menu ![context menu icon](../../performance-analytics/image/ContextMenu.png) select **Duplicate Dashboard**.
+3.  From the context menu ![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/ContextMenu.png) select **Duplicate Dashboard**.
 
     A copy of the dashboard is created with you as the owner. The name of the copy is Copy of \[Original Dashboard Name\].
 
-4.  To rename the dashboard, select the context menu![context menu icon](../../performance-analytics/image/ContextMenu.png), select **Dashboard Properties**, and edit the **Name** field.
+4.  To rename the dashboard, select the context menu![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/ContextMenu.png), select **Dashboard Properties**, and edit the **Name** field.
 
 
 ### Result
@@ -99,7 +99,7 @@ Provide a more useful name for your dashboard by renaming it.
 
 ### Before you begin
 
-Role required: Users can edit dashboards that they own, or ones that they have the right to edit. See [Dashboard permissions](../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
+Role required: Users can edit dashboards that they own, or ones that they have the right to edit. See [Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_DashboardRoles.md) for more information about viewing and editing rights on dashboards.
 
 ### Procedure
 
@@ -107,7 +107,7 @@ Role required: Users can edit dashboards that they own, or ones that they have t
 
 2.  From the dashboard picker, select the dashboard that you want to rename.
 
-3.  From the context menu \(![Context menu icon](../image/icon-context-p.png)\), select **Dashboard Properties**.
+3.  From the context menu \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-context-p.png)\), select **Dashboard Properties**.
 
 4.  In the name field, enter the new name for the dashboard.
 
@@ -128,7 +128,7 @@ Users with the dashboard\_admin or admin role can remove users, groups, or roles
 
 Users with the pa\_admin or pa\_power\_user role can remove users, groups, or roles from any dashboard that they can edit. These dashboards include dashboards that a user owns, and dashboards to which they have been granted edit rights.
 
-For more information, see [Dashboard permissions](../concept/c_DashboardRoles.md).
+For more information, see [Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_DashboardRoles.md).
 
 ### Procedure
 
@@ -140,7 +140,7 @@ For more information, see [Dashboard permissions](../concept/c_DashboardRoles.md
 
 4.  In the **Share** panel, select the X next to the name of the user, group, or role that you want to remove.
 
-    ![Sharing panel with X to remove a user from a dashboard highlighted with a 4 for step 4.](../image/remove-user-db-p.png)
+    ![Sharing panel with X to remove a user from a dashboard highlighted with a 4 for step 4.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/remove-user-db-p.png)
 
 
 ### Result
@@ -150,7 +150,7 @@ The removed users no longer have the right to view the shared dashboard.
 **Related topics**  
 
 
-[Restrict responsive dashboard access to specific roles](restrict-dashboard-access-to-certain-roles.md)
+[Restrict responsive dashboard access to specific roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/restrict-dashboard-access-to-certain-roles.md)
 
 ## Mark a responsive dashboard as a favorite
 

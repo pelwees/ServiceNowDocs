@@ -121,7 +121,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](../concept/roles-user-criteria.md).
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/roles-user-criteria.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Determine which user criteria can access this launcher screen. If you have not s
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-7.  To configure the number and format of columns in icon sections, select the more options menu \(![more options menu icon](../image/button-more-ios.png)\) at the top of the form, and then select **Open in platform**.
+7.  To configure the number and format of columns in icon sections, select the more options menu \(![more options menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/button-more-ios.png)\) at the top of the form, and then select **Open in platform**.
 
     The record opens in your instance web UI, where you can make the following configurations:
 
@@ -182,7 +182,7 @@ Number of columns displayed in each icon section for larger devices like tablets
 
 ## What to do next
 
-After creating icon UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](ui-section-to-launcher-screen.md).
+After creating icon UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 
-To personalize your icon sections, see [Adding images to an icon section](add-image-icon-section.md).
+To personalize your icon sections, see [Adding images to an icon section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/add-image-icon-section.md).
 

@@ -17,35 +17,35 @@ Use ServiceNow APIs to change functionality and add features on the ServiceNow A
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Client ![](../../../reuse/icons/brand-icons/bus-monitor.svg) Control how the ServiceNow AI Platform functions and is displayed within the web browser.](api-client.md)
+[Client ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-monitor.svg) Control how the ServiceNow AI Platform functions and is displayed within the web browser.](api-client.md)
 
 </td><td>
 
-[Client Next Experience ![](../../../reuse/icons/brand-icons/bus-laptop.svg) Control how the ServiceNow AI Platform functions and is displayed within the web browser in the Next Experience UI Framework.](api-client-next.md)
+[Client Next Experience ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-laptop.svg) Control how the ServiceNow AI Platform functions and is displayed within the web browser in the Next Experience UI Framework.](api-client-next.md)
 
 </td><td>
 
-[Client mobile ![](../../../reuse/icons/brand-icons/bus-mobile-native.svg) Build custom mobile experiences inside of ServiceNow AI Platform native mobile apps.](api-client-mobile.md)
+[Client mobile ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-mobile-native.svg) Build custom mobile experiences inside of ServiceNow AI Platform native mobile apps.](api-client-mobile.md)
 
 </td><td>
 
-[Mobile SDK ![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Leverage the ServiceNow AI Platform within standalone Android and iOS apps.](api-mobile_sdk.md)
+[Mobile SDK ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Leverage the ServiceNow AI Platform within standalone Android and iOS apps.](api-mobile_sdk.md)
 
 </td></tr><tr><td>
 
-[Server ![](../../../reuse/icons/brand-icons/bus-server.svg) Build and update applications.](api-server.md)
+[Server ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-server.svg) Build and update applications.](api-server.md)
 
 </td><td>
 
-[REST ![](../../../reuse/icons/brand-icons/bus-cloud.svg) Access and update data.](api-rest.md)
+[REST ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-cloud.svg) Access and update data.](api-rest.md)
 
 </td><td>
 
-[UI Builder ![](../../../reuse/icons/brand-icons/bus-service-map.svg) Build client scripts in UI Builder.](api-uib.md)
+[UI Builder ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-service-map.svg) Build client scripts in UI Builder.](api-uib.md)
 
 </td><td>
 
-[Browse APIs by product ![](../../../reuse/icons/brand-icons/bus-find-an-app.svg) Find APIs to use with your ServiceNow products.](api-product-type.md)
+[Browse APIs by product ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-find-an-app.svg) Find APIs to use with your ServiceNow products.](api-product-type.md)
 
 </td></tr></tbody>
 </table>## Client
@@ -54,8 +54,8 @@ Use client-side JavaScript APIs to control how the ServiceNow AI Platform functi
 
 Common use cases:
 
--   Use the [GlideAjax](../../../app-store/dev_portal/API_reference/GlideAjax/concept/c_GlideAjaxAPI.md#) API to call server-side code from a client script.
--   Use the [GlideForm](../../../app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.md#) API to customize forms.
+-   Use the [GlideAjax](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/GlideAjax/concept/c_GlideAjaxAPI.md#) API to call server-side code from a client script.
+-   Use the [GlideForm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.md#) API to customize forms.
 
 ## Client mobile
 
@@ -81,9 +81,9 @@ Use server-side JavaScript APIs to change the functionality of existing applicat
 
 Common use cases:
 
--   Use the [GlideRecord](../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [GlideQuery](../../../app-store/dev_portal/API_reference/GlideQuery/concept/GlideQueryGlobalAPI.md#) APIs to perform create, read, update, and delete operations on record data from server-side scripts.
--   Use the [GlideSystem](../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) API to access information about the instance or the current user session and to write informational or error messages.
--   Use [FlowAPI](../../../app-store/dev_portal/API_reference/ScriptableFlowAPI/concept/ScriptableFlowAPI.md#) methods to trigger flows, subflows, and actions from server-side scripts.
+-   Use the [GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/glideRecordScoped/concept/c_GlideRecordScopedAPI.md#) or [GlideQuery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/GlideQuery/concept/GlideQueryGlobalAPI.md#) APIs to perform create, read, update, and delete operations on record data from server-side scripts.
+-   Use the [GlideSystem](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.md#) API to access information about the instance or the current user session and to write informational or error messages.
+-   Use [FlowAPI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../app-store/dev_portal/API_reference/ScriptableFlowAPI/concept/ScriptableFlowAPI.md#) methods to trigger flows, subflows, and actions from server-side scripts.
 
 ## REST
 
@@ -91,9 +91,9 @@ Use REST APIs to access and update data on the ServiceNow AI Platform. You can d
 
 Common use cases:
 
--   Use the [Attachment API](../../../integrate/inbound-rest/concept/c_AttachmentAPI.md#) to upload and query file attachments.
--   Use the [Email API](../../../integrate/inbound-rest/concept/email-api.md#) to send and receive email messages.
--   Use the [Table API](../../../integrate/inbound-rest/concept/c_TableAPI.md#) to create, read, update, and delete records in a table.
+-   Use the [Attachment API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../integrate/inbound-rest/concept/c_AttachmentAPI.md#) to upload and query file attachments.
+-   Use the [Email API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../integrate/inbound-rest/concept/email-api.md#) to send and receive email messages.
+-   Use the [Table API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../integrate/inbound-rest/concept/c_TableAPI.md#) to create, read, update, and delete records in a table.
 
 ## UI Builder
 

@@ -31,9 +31,9 @@ For more information on support levels, see [Application support for domain sepa
 
 To achieve domain separation, replicate the Microsoft Graph Security API Profile Process and SIR Process Alert Updates scheduled jobs and change the **Run as** users. By default, the system users execute these scheduled jobs. Change the **Run as** to a user with the sn\_si.admin role in the respective domain and run the scheduled job.
 
-![Microsoft Graph Security API: Domain Separation I](../image/ms-graph-domain-sep.png)
+![Microsoft Graph Security API: Domain Separation I](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-domain-sep.png)
 
-![Microsoft Graph Security API: Domain Separation II](../image/ms-graph-domain-sep1.png)
+![Microsoft Graph Security API: Domain Separation II](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-domain-sep1.png)
 
 **Related topics**  
 

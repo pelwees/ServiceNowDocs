@@ -29,7 +29,7 @@ You can also specify to close the parent record on creation of the new record in
 
 1.  Select the project for which you want to convert one RIDAC entry to another.
 
-    For information on how to navigate to a Project in the Project Workspace, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information on how to navigate to a Project in the Project Workspace, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the RIDAC page of the project by selecting **RIDAC** from the list.
 
@@ -43,7 +43,7 @@ You can also specify to close the parent record on creation of the new record in
 
 6.  Modify the text in the **Short description** field, which is copied from the parent record.
 
-7.  Change the default assignment copied from the parent record in the **Assigned to** field by selecting the search for record icon \(![search for record icon.](../image/lookup_icon.png)\) and selecting a different user.
+7.  Change the default assignment copied from the parent record in the **Assigned to** field by selecting the search for record icon \(![search for record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/lookup_icon.png)\) and selecting a different user.
 
 8.  If you want to close the parent RIDAC record on creation of a new record, select the close parent record option.
 
@@ -52,5 +52,5 @@ You can also specify to close the parent record on creation of the new record in
 9.  Select **OK**.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

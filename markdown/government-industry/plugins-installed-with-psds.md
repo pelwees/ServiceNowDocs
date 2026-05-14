@@ -17,7 +17,7 @@ These plugins are installed with Public Sector Digital Services Core, if they ar
 
 ## Plugins installed with Public Sector Digital Services Core
 
-The following plugins are activated when you enable the Public Sector Digital Services Core \(com.sn\_public\_sector\_digital\_services\_core\)/\(sn\_gsm\) plugin. For more information on the plugins installed with other Public Sector Digital Services Core applications, including Playbooks, see [Plugins installed with Public Sector Digital Services Applications](plugins-installed-with-psds-addtl-plugins.md).
+The following plugins are activated when you enable the Public Sector Digital Services Core \(com.sn\_public\_sector\_digital\_services\_core\)/\(sn\_gsm\) plugin. For more information on the plugins installed with other Public Sector Digital Services Core applications, including Playbooks, see [Plugins installed with Public Sector Digital Services Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/plugins-installed-with-psds-addtl-plugins.md).
 
 |Plugin|Description|
 |------|-----------|

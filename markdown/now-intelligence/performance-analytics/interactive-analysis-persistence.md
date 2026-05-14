@@ -20,5 +20,5 @@ When you launch Interactive Analysis on a view, a specific column in a table, fo
 
 In addition, **Group by** and **Stack by** elements are updated when filters are added to an analysis. For example, add a manager filter to an Interactive Analysis page. You can immediately group and stack your widgets by manager.
 
-**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 

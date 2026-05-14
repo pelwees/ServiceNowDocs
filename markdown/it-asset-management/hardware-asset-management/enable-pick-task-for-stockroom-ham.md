@@ -32,12 +32,12 @@ Role required: inventory\_user
 5.  Select **Save**.
 
 
-**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](../concept/manage-asset-picking-stockroom-ham-ws.md)
+**Parent Topic:**[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-picking-stockroom-ham-ws.md)
 
 **Related topics**  
 
 
-[Add aisles and spaces to a stockroom in the Hardware Asset Workspace](add-aisle-space-stockroom-ham-ws.md)
+[Add aisles and spaces to a stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-aisle-space-stockroom-ham-ws.md)
 
-[View the open hardware asset pick tasks for your stockroom](view-open-pick-tasks-ham.md)
+[View the open hardware asset pick tasks for your stockroom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-pick-tasks-ham.md)
 

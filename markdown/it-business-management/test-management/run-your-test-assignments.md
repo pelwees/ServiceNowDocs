@@ -50,7 +50,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d278807e132">
 
-**![Icon to indicate a step as passed](../../sdlc-scrum/image/passedtest.png)**
+**![Icon to indicate a step as passed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../../sdlc-scrum/image/passedtest.png)**
 
 </td><td>
 
@@ -58,7 +58,7 @@ Passed.
 
 </td></tr><tr><td id="d278807e147">
 
-**![Icon to indicate a step as failed](../../sdlc-scrum/image/failedtest.png)**
+**![Icon to indicate a step as failed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../../sdlc-scrum/image/failedtest.png)**
 
 </td><td>
 
@@ -68,7 +68,7 @@ To log a defect in Test Management 2.0, create a defect record manually and incl
 
 </td></tr><tr><td id="d278807e171">
 
-**![Icon to indicate a step as blocked](../../sdlc-scrum/image/blockedtest.png)**
+**![Icon to indicate a step as blocked](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../../sdlc-scrum/image/blockedtest.png)**
 
 </td><td>
 
@@ -91,18 +91,18 @@ Test results are saved to the Test Result form. The overall status of the test i
 
 ## What to do next
 
-To view the full history of test runs and results across all test plans, navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](../concept/test-board.md).
+To view the full history of test runs and results across all test plans, navigate to **Test Management 2.0** &gt; **Test Runs**. For more information about monitoring test plan progress, see [Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md).
 
-**Parent Topic:**[Testing using Test Management 2.0](../concept/release-readiness-testing.md)
+**Parent Topic:**[Testing using Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/release-readiness-testing.md)
 
 **Related topics**  
 
 
-[Create a test in Test Management 2.0](create-test2.md)
+[Create a test in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md)
 
-[Create a test set in Test Management 2.0](create-test-set.md)
+[Create a test set in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-set.md)
 
-[Test Board in Test Management 2.0](../concept/test-board.md)
+[Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md)
 
-[Create a test execution suite in Test Management 2.0](create-test-execution-suite.md)
+[Create a test execution suite in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test-execution-suite.md)
 

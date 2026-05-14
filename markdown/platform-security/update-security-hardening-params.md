@@ -17,7 +17,7 @@ Using the Hardening Compliance Configuration page, harden and optimize non-compl
 
 Role required: security\_dashboard\_user or admin.
 
-Refer to the [Hardening settings](../../security-center/reference/security-hardening-settings.md) content for detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
+Refer to the [Hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/security-hardening-settings.md) content for detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
 
 -   Consult the Instance Security Hardening Settings whenever you set or update security-related properties, even if some of the compliance values may not be suitable for your instance.
 -   When you are updating these properties, ensure that the instance continues to behave as expected. Consult with the appropriate internal personnel who have the expertise to determine the security impacts.
@@ -30,7 +30,7 @@ Refer to the [Hardening settings](../../security-center/reference/security-harde
 
 2.  Click the **Daily Compliance Score** tile or the **Hardening** link to access the Hardening Compliance Configuration page.
 
-    ![Instance security center page](../image/isc-hardening-1.png)
+    ![Instance security center page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/isc-hardening-1.png)
 
 3.  In the Hardening Compliance chart, view the statistics for compliant and non-compliant security configuration properties.
 
@@ -51,7 +51,7 @@ Number of security configuration properties that comply with the compliance valu
 Number of security configuration properties that do not comply with the compliance values in the Instance Security Hardening Settings. You can update settings for non-compliant properties.
 
 </td></tr></tbody>
-</table>    ![Instance security center page](../image/isc-hardening-2.png)
+</table>    ![Instance security center page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/isc-hardening-2.png)
 
     **Note:** To view the number of compliant or non-compliant security scores over a range of dates, move the blue dot on the slider below the Daily Compliance Score.
 
@@ -76,11 +76,11 @@ Only recommended security configuration properties appear in each selected categ
 **Note:** To fully secure your instance, use the **All** option. It includes all recommended security configuration properties too.
 
 </td></tr></tbody>
-</table>    ![Instance security center page](../image/isc-hardening-3.png)
+</table>    ![Instance security center page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/isc-hardening-3.png)
 
 5.  In **Categories**, select the category that contains the security configuration properties you would like to access:
 
-    ![Instance security center page](../image/isc-hardening-4.png)
+    ![Instance security center page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/isc-hardening-4.png)
 
 <table id="choicetable_lbl_dnx_lgb"><tbody><tr><td id="d92319e257">
 
@@ -88,7 +88,7 @@ Only recommended security configuration properties appear in each selected categ
 
 </td><td>
 
-Access controls determine whether to grant or deny user access to a particular resource based on who is permitted to use those resources. To learn more, see [Access control](../../security-center/reference/sc-access-control.md) in the Instance Security Hardening Settings.
+Access controls determine whether to grant or deny user access to a particular resource based on who is permitted to use those resources. To learn more, see [Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-access-control.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e279">
 
@@ -104,7 +104,7 @@ Attachment security controls enable validation of incoming attachments to protec
 
 </td><td>
 
-Email security encompasses security configuration properties an administrator can configure to ensure that proper security policies are in place for all inbound emails. To learn more, see [Enable email spam scoring and filtering](../../security-center/reference/sc-email-spam-scoring-and-filtering.md) in the Instance Security Hardening Settings.
+Email security encompasses security configuration properties an administrator can configure to ensure that proper security policies are in place for all inbound emails. To learn more, see [Enable email spam scoring and filtering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-email-spam-scoring-and-filtering.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e331">
 
@@ -112,7 +112,7 @@ Email security encompasses security configuration properties an administrator ca
 
 </td><td>
 
-Input validation includes security-related properties that an administrator can configure to minimize entry of malformed data, regardless of source. To learn more, see [Validation, sanitization, and encoding](../../security-center/reference/validation-sanitization-encoding.md) in the Instance Security Hardening Settings.
+Input validation includes security-related properties that an administrator can configure to minimize entry of malformed data, regardless of source. To learn more, see [Validation, sanitization, and encoding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/validation-sanitization-encoding.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e353">
 
@@ -120,7 +120,7 @@ Input validation includes security-related properties that an administrator can 
 
 </td><td>
 
-Secure communications properties are those that an administrator can configure to secure the transportation of HTTP traffic. To learn more, see [Communications](../../security-center/reference/sc-communications.md) in the Instance Security Hardening Settings.
+Secure communications properties are those that an administrator can configure to secure the transportation of HTTP traffic. To learn more, see [Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-communications.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e376">
 
@@ -128,7 +128,7 @@ Secure communications properties are those that an administrator can configure t
 
 </td><td>
 
-Security best practices encompass Security Tasks that an administrator should perform periodically, within a certain interval of time, and include related configuration properties. To learn more, see [Security Best Practices](../../security-center/concept/security-best-practices-manager.md) in the Instance Security Hardening Settings.
+Security best practices encompass Security Tasks that an administrator should perform periodically, within a certain interval of time, and include related configuration properties. To learn more, see [Security Best Practices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/concept/security-best-practices-manager.md) in the Instance Security Hardening Settings.
 
 </td></tr><tr><td id="d92319e401">
 
@@ -144,7 +144,7 @@ Security inclusion listing includes security-related properties that an administ
 
 </td><td>
 
-Session management includes security-related properties that an administrator can configure to ensure secure session management in the ServiceNow AI Platform. To learn more, see [Session management](../../security-center/reference/sc-session-management.md) in the Instance Security Hardening Settings
+Session management includes security-related properties that an administrator can configure to ensure secure session management in the ServiceNow AI Platform. To learn more, see [Session management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-session-management.md) in the Instance Security Hardening Settings
 
 </td></tr></tbody>
 </table>6.  Configure the non-compliant security properties in the selected category.
@@ -156,10 +156,10 @@ Session management includes security-related properties that an administrator ca
 
 The Daily Compliance score increases or decreases depending on the changes that you make to the non-compliant security control settings.
 
-**Parent Topic:**[Check the daily compliance score and configure security property settings](../concept/instance-sec-center-hardening.md)
+**Parent Topic:**[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/instance-sec-center-hardening.md)
 
 **Related topics**  
 
 
-[Instance Security Center](../concept/instance-security-center.md)
+[Instance Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/instance-security-center.md)
 

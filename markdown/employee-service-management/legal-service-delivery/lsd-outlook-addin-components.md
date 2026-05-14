@@ -44,5 +44,5 @@ Provides administrative access to Microsoft Outlook Add-In for legal application
 sn\_outlook\_addin.outlook\_addin\_setup
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Outlook Add-In for Legal Service Delivery reference](lsd-outlook-addin-refrence.md)
+</table>**Parent Topic:**[Microsoft Outlook Add-In for Legal Service Delivery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-refrence.md)
 

@@ -179,15 +179,15 @@ Message that appears to the user's contacts, informing them they are mentioned.
 
     4.  Select the **When to send** tab and then select **Inserted**.
 
-    5.  Select the **Who will receive** tab and then select the lock icon \(![Lock icon.](../image/lock-icon.png)\) in the **Users/Groups in fields**.
+    5.  Select the **Who will receive** tab and then select the lock icon \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lock-icon.png)\) in the **Users/Groups in fields**.
 
     6.  Move **User** to the selected list.
 
         **Note:** If the notification is addressed to a user with an inactive record in the User \[sys\_user\] table, the notification is not sent.
 
-    7.  Select the **What to send** tab and select the lock icon \(![Lock icon.](../image/lock-icon.png)\) next to the **Push Messages** field.
+    7.  Select the **What to send** tab and select the lock icon \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lock-icon.png)\) next to the **Push Messages** field.
 
-    8.  Select the reference lookup icon \(![Reference lookup icon.](../image/reference-lookup-icon.png)\) to open the Push Notification Messages page.
+    8.  Select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) to open the Push Notification Messages page.
 
     9.  Select the push notification message you created.
 
@@ -197,12 +197,12 @@ Message that appears to the user's contacts, informing them they are mentioned.
 
 4.  Enable your mobile app settings for notifications.
 
-    1.  Select the Settings icon \(![Settings icon.](../image/GearIcon.png)\) and select the **Notifications** tab.
+    1.  Select the Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GearIcon.png)\) and select the **Notifications** tab.
 
     2.  Verify that **Allow Notifications** is enabled.
 
     3.  Verify that the mobile app you selected to receive notifications is enabled by noting the setting of either the **ServiceNow Mobile Application** or **ServiceNow Request application** field.
 
 
-**Parent Topic:**[Configure notifications for mobile activity stream mentions](../concept/notification-activity-stream.md)
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/notification-activity-stream.md)
 

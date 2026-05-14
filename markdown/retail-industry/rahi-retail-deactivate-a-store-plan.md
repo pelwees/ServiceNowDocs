@@ -29,5 +29,5 @@ Deactivating a Store plan requires the sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.
 
 **Note:** The system displays a confirmation message when deactivating a store plan. When the user confirms the action, the system deletes the store plan.
 
-**Parent Topic:**[Manage store plans](rahi-retail-manage-store-plans.md)
+**Parent Topic:**[Manage store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 

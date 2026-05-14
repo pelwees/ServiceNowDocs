@@ -86,5 +86,5 @@ Write access to the comments for the Requested Item \(sc\_req\_item\).**Note:** 
 NA
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request ITSM Roles - Request Management](request-itsm-roles-rm.md)
+</table>**Parent Topic:**[Request ITSM Roles - Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/request-itsm-roles-rm.md)
 

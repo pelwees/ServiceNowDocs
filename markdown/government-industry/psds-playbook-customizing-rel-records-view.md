@@ -29,7 +29,7 @@ View the related records in the contextual side panel
 
 </td><td>
 
-Related Records icon \(![Related records icon.](../image/related-records-icon.png)\) that you can select to view the Related Records list.
+Related Records icon \(![Related records icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/related-records-icon.png)\) that you can select to view the Related Records list.
 
  Related records appear as a card format in the list. The initial set of records that display in the list is determined by the record type that you select in the filter at the top of the list.
 
@@ -41,7 +41,7 @@ Select the type of related record to view
 
 Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection.
 
-1.  Select the filter icon \(![Filter icon.](../image/filter-icon.png)\).
+1.  Select the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/filter-icon.png)\).
 2.  Select a record type from the menu.
 
  The menu includes the related lists that have been configured for the parent record.
@@ -55,7 +55,7 @@ Search the related records list
 Search field at the top of the Related Records list to perform a text search. Records that match the search text are highlighted.
 
 1.  In the search field at the top of the Related Records list, enter the search text.
-2.  Select the search icon \(![Search icon.](../image/activity-stream-search-icon-psds.png)\).
+2.  Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/activity-stream-search-icon-psds.png)\).
 
  **Note:** The search field is grayed out if search is not available for the selected type of related records.
 
@@ -73,7 +73,7 @@ Open the related record list in a list view in a subtab
 
 </td><td>
 
-Display the related records in a list view in a subtab under the parent record by selecting the subtab icon \(![Subtab icon](../image/dynamic-related-records-list-view-icon.png)\).
+Display the related records in a list view in a subtab under the parent record by selecting the subtab icon \(![Subtab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/dynamic-related-records-list-view-icon.png)\).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Create a new record for the selected related list
 
 New record for the record type that is currently selected in the Related Records list. This action opens a new record form in a subtab under the parent record.
 
-1.  Select the create record icon \(![Create record icon.](../image/dynamic-related-records-create-record-icon.png)\) at the top of the Related Records list.
+1.  Select the create record icon \(![Create record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/dynamic-related-records-create-record-icon.png)\) at the top of the Related Records list.
 2.  Fill in the fields on the record form and select **Save**.
 
 </td></tr></tbody>

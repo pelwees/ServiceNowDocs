@@ -35,10 +35,10 @@ Roles required:
 
     When you select **Manage**, you are redirected to the Manage Workplace channel page where you can manage the bots.
 
-4.  Select the Manage Bot icon and select **Manage Virtual Agent**.![The Manage Virtual Agent option displays on the Manage bot menu for the Workplace channel.](../images/manage-wrkplc-snow-bot.png)
+4.  Select the Manage Bot icon and select **Manage Virtual Agent**.![The Manage Virtual Agent option displays on the Manage bot menu for the Workplace channel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-wrkplc-snow-bot.png)
 
-    You are redirected to the Bot Messages page where you can create and edit a bot message. For more information, see [Create bot messages](create-bot-messages.md#).
+    You are redirected to the Bot Messages page where you can create and edit a bot message. For more information, see [Create bot messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-bot-messages.md#).
 
 
-**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](../concept/configuring-ci-workplace-fb.md)
+**Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-ci-workplace-fb.md)
 

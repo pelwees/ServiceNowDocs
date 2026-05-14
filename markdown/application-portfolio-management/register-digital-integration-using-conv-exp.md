@@ -20,7 +20,7 @@ Use the conversational experience of Now Assist in Virtual Agent to register a d
 Ensure that the following tasks are completed:
 
 -   Install an application that supports Virtual Agent.
--   Complete configuring the conversational experiences for Enterprise Architecture. For more information, see [Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md).
+-   Complete configuring the conversational experiences for Enterprise Architecture. For more information, see [Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/configure-now-assist-ea.md).
 
 Role required: none
 
@@ -62,7 +62,7 @@ Virtual Agent starts a conversation to ask more information from you about the b
 -   What type of business do you own?
 -   What type of subscriber are you?
 -   Can you please describe the digital integration you would like to enter?
- The information you provide is used to fill in the fields of the digital integration form. You can skip answering a question that is related to non-required fields by entering **skip**.![Screenshot showing Now AssistVirtual Agent chat window showing a request for the requesting a digital integration.](../image/register-digital-integration.png)
+ The information you provide is used to fill in the fields of the digital integration form. You can skip answering a question that is related to non-required fields by entering **skip**.![Screenshot showing Now AssistVirtual Agent chat window showing a request for the requesting a digital integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/register-digital-integration.png)
 
 </td></tr><tr><td id="d35247e227">
 
@@ -74,7 +74,7 @@ Using the context that you provided, Virtual Agent automatically matches it to t
 
 You can skip answering a question that is related to non-required fields by entering **skip**.
 
-![Screenshot showing Now AssistVirtual Agent chat window showing a elaborate request for the requesting a digital integration.](../image/request-digital-integration-details.png)
+![Screenshot showing Now AssistVirtual Agent chat window showing a elaborate request for the requesting a digital integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/request-digital-integration-details.png)
 
 </td></tr></tbody>
 </table>4.  Review the information that Virtual Agent filled in for the digital integration form fields.
@@ -82,5 +82,5 @@ You can skip answering a question that is related to non-required fields by ente
     You can choose to make changes or submit.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/using-now-assist-for-ea.md)
 

@@ -25,10 +25,10 @@ Role required: sn\_uni\_req.routing\_agent or admin.
 
 2.  On the form, fill in the fields.
 
-    For more information on the field description, see [Universal Request form](../reference/new-ur-record-form.md).
+    For more information on the field description, see [Universal Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../reference/new-ur-record-form.md).
 
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/using-ur.md)
 

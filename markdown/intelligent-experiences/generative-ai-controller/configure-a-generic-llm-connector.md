@@ -17,7 +17,7 @@ Connect an external LLM to the ServiceNow AI Platform by using a generic LLM con
 
 ## Before you begin
 
-You must configure API credentials for your LLM before setting up the connector. For more information, see [configure API credentials for a generic LLM](configure-api-credentials-for-a-generic-large-language-model-llm.md).
+You must configure API credentials for your LLM before setting up the connector. For more information, see [configure API credentials for a generic LLM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-a-generic-large-language-model-llm.md).
 
 Role required: admin
 
@@ -41,7 +41,7 @@ Generative AI Controller offers several base system connections to popular AI se
 
 5.  In the **Connection and Credential Alias** field, select the alias that you created when you set up your credentials.
 
-    If you haven't already configured your API credentials, see [configure API credentials for a generic large language model](configure-api-credentials-for-a-generic-large-language-model-llm.md) to learn how. ![Generative AI Model Config record with the Provider field set to Custom LLM and the Connection and Credentials Alias field set to My_Model_Alias.](../image/gai-connector-1.png)
+    If you haven't already configured your API credentials, see [configure API credentials for a generic large language model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-a-generic-large-language-model-llm.md) to learn how. ![Generative AI Model Config record with the Provider field set to Custom LLM and the Connection and Credentials Alias field set to My_Model_Alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-connector-1.png)
 
 6.  Create the model configuration by selecting **Submit**.
 
@@ -65,7 +65,7 @@ Generative AI Controller offers several base system connections to popular AI se
 
 13. In the **Prompt template** field, enter the prompt for the capability.
 
-    The prompt template is the instruction that is sent to the LLM to execute a capability. Use two braces around the capability attribute names to incorporate them into the prompt template. For example, if you're configuring a Summarize capability, your prompt template could be `Summarize the following for me in a friendly and helpful tone: {{textToSummarize}}`. To learn which attributes are available to include in the prompt, go to the OneExtend Capability \[sys\_one\_extend\_capability\] table, find the record for the capability you're configuring, and look at the OneExtend Capability Attributes related list. ![Generative AI Configuration record with Definition, Model, and Prompt template fields filled in.](../image/gai-connector-2.png) ![Summarize capability record open with OneExtend Capability Attributes related list highlighted and the attributes identified: error, errorCode, provider, response, status, and textToSummarize.](../image/gai-connector-3.png) You might need to experiment with different prompts to determine what works best for your use cases.
+    The prompt template is the instruction that is sent to the LLM to execute a capability. Use two braces around the capability attribute names to incorporate them into the prompt template. For example, if you're configuring a Summarize capability, your prompt template could be `Summarize the following for me in a friendly and helpful tone: {{textToSummarize}}`. To learn which attributes are available to include in the prompt, go to the OneExtend Capability \[sys\_one\_extend\_capability\] table, find the record for the capability you're configuring, and look at the OneExtend Capability Attributes related list. ![Generative AI Configuration record with Definition, Model, and Prompt template fields filled in.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-connector-2.png) ![Summarize capability record open with OneExtend Capability Attributes related list highlighted and the attributes identified: error, errorCode, provider, response, status, and textToSummarize.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-connector-3.png) You might need to experiment with different prompts to determine what works best for your use cases.
 
 14. Create the new Generative AI Configuration by selecting **Submit**.
 
@@ -174,12 +174,12 @@ Your external LLM is connected to Generative AI Controller. You can use the AI s
 
 ## What to do next
 
-After you connect the LLM, you can set a provider for the generative AI capabilities of Generative AI Controller. The capabilities are Generic Prompt, Generate Content, Sentiment Analysis, and Summarize. For more information on choosing a provider, see [Set a provider for a generative AI capability](configure-a-provider-for-a-generative-ai-capability.md).
+After you connect the LLM, you can set a provider for the generative AI capabilities of Generative AI Controller. The capabilities are Generic Prompt, Generate Content, Sentiment Analysis, and Summarize. For more information on choosing a provider, see [Set a provider for a generative AI capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-a-provider-for-a-generative-ai-capability.md).
 
 **Related topics**  
 
 
-[Bring your own key for third-party AI provider integration](../concept/byok-for-azure-open-ai.md)
+[Bring your own key for third-party AI provider integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../concept/byok-for-azure-open-ai.md)
 
-[Configure a custom resource path for BYOK models](configure-custom-resource-path-byok.md)
+[Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 

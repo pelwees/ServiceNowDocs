@@ -351,5 +351,5 @@ Archive the records in the Inbound Request table and determine when to clean up 
 **Related topics**  
 
 
-[Inbound Request Configuration](inbound-request-configuration-table.md)
+[Inbound Request Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/inbound-request-configuration-table.md)
 

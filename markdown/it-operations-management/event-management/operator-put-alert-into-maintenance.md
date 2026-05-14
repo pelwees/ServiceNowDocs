@@ -25,11 +25,11 @@ Phase 1
 
 </td><td align="justify">
 
-![Analyze icon](../image/progress-complete2.png)
+![Analyze icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[Analyze and acknowledge an alert](operator-phase-acknowledge-analyze.md)
+[Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-acknowledge-analyze.md)
 
 </td></tr><tr><td>
 
@@ -37,7 +37,7 @@ Phase 2
 
 </td><td align="justify">
 
-![Triage icon](../image/progress-wip.png)
+![Triage icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -49,11 +49,11 @@ Phase 3
 
 </td><td align="justify">
 
-![Close alert icon](../image/progress-not-started.png)
+![Close alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[Close an alert](operator-close-alert.md)
+[Close an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-close-alert.md)
 
 </td></tr></tbody>
 </table>Role required: evt\_mgmt\_operator
@@ -70,7 +70,7 @@ Phase 3
 
     Notice that alerts in maintenance are not visible in the list by default. The filter excludes alerts where `Maintenance` \| `=` \| `true`.
 
-    ![filter](../image/alerts-console.png)
+    ![filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alerts-console.png)
 
 
 ## What to do next
@@ -79,11 +79,11 @@ If the issue that led to the alert still needs further attention later, navigate
 
 There are other tasks you can take as part of the triage stage:
 
--   [Run a remediation workflow on an alert](operator-run-remdiation.md) if your Event Management administrator already set up a workflow in your ServiceNow instance and your policies allow you to trigger it from the alert.
--   [Launch a web application from an alert](operator-launch-web-app.md) to open a website or an event monitoring tool that provides more information about the alert.
--   [Associate a knowledge base article with an alert](operator-associate-kb.md) if there is existing information about the alert that might help resolve the underlying issue.
+-   [Run a remediation workflow on an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-run-remdiation.md) if your Event Management administrator already set up a workflow in your ServiceNow instance and your policies allow you to trigger it from the alert.
+-   [Launch a web application from an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-launch-web-app.md) to open a website or an event monitoring tool that provides more information about the alert.
+-   [Associate a knowledge base article with an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-associate-kb.md) if there is existing information about the alert that might help resolve the underlying issue.
 
-If you do not need to perform any other triage actions, proceed to [Phase 3: Close an alert](operator-close-alert.md).
+If you do not need to perform any other triage actions, proceed to [Phase 3: Close an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-close-alert.md).
 
-**Parent Topic:**[Operator phase 2: Triage an alert](operator-phase-triage-incident.md)
+**Parent Topic:**[Operator phase 2: Triage an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 

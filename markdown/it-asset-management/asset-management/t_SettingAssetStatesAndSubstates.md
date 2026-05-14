@@ -188,14 +188,14 @@ Asset is being prepared. This state is used during the creation of an asset bund
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_AssetClasses.md)
 
 **Related topics**  
 
 
-[Create an asset class](t_CreateAnAssetClass.md)
+[Create an asset class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreateAnAssetClass.md)
 
-[Create license assets](t_CreatingLicenseAssets.md)
+[Create license assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingLicenseAssets.md)
 
-[Add depreciation to an asset](t_AddingDepreciationToAnAsset.md)
+[Add depreciation to an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_AddingDepreciationToAnAsset.md)
 

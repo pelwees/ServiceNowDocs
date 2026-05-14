@@ -25,11 +25,11 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can use the **Planning** tab in project workspace to displays the selected project in [project workbench](../concept/c_ProjectWorkbench.md).
+You can use the **Planning** tab in project workspace to displays the selected project in [project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/c_ProjectWorkbench.md).
 
 ## Procedure
 
-1.  [Open](access-the-project-workspace.md) the required project in project workspace.
+1.  [Open](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-the-project-workspace.md) the required project in project workspace.
 
 2.  Click the **Planning** tab.
 
@@ -38,5 +38,5 @@ You can use the **Planning** tab in project workspace to displays the selected p
 4.  Track and manage all aspects of the project using project workbench.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/project-workspace-classic.md)
 

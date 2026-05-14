@@ -34,10 +34,10 @@ When working with database views:
 -   Entity descriptions are auto-generated from the source tables and update automatically.
 -   The Include child hierarchy setting has no effect for database views.
 
-**Parent Topic:**[Tuning the semantic layer](semantic-layer-tuning-overview.md)
+**Parent Topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/semantic-layer-tuning-overview.md)
 
 **Related topics**  
 
 
-[Add a table to the semantic data layer](../../par-for-workspace/task/add-table-semantic-layer.md#)
+[Add a table to the semantic data layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/add-table-semantic-layer.md#)
 

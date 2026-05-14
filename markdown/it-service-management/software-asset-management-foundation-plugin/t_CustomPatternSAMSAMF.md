@@ -93,7 +93,7 @@ Product name \(for example, MySQL\).
 
 ## What to do next
 
-If the software product has an edition that is not being discovered, [Manually override SAM Foundation edition value](t_ManOverrideEditionSAMF.md) so the software can be successfully reconciled.
+If the software product has an edition that is not being discovered, [Manually override SAM Foundation edition value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_ManOverrideEditionSAMF.md) so the software can be successfully reconciled.
 
-**Parent Topic:**[Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md)
+**Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 

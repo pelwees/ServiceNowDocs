@@ -25,7 +25,7 @@ With this application, you can perform the following:
 -   Create good receipts in SAP.
 -   Create invoices in SAP.
 
-![Overview of the Source-to-Pay integration with SAP ECC and SAP S4 HANA Public Cloud and OData](../../source-to-pay-operations/image/source-to-pay-integration-sap-overview.png "Overview of the Source-to-Pay integration with SAP")
+![Overview of the Source-to-Pay integration with SAP ECC and SAP S4 HANA Public Cloud and OData](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/source-to-pay-integration-sap-overview.png "Overview of the Source-to-Pay integration with SAP")
 
 ## Prerequisites
 

@@ -15,7 +15,7 @@ Manage your field service tasks from anywhere using the Field Service Management
 
 The Field Service Management mobile application runs on the ServiceNow mobile platform.
 
-![Infographic with a smartphone and a list of functions for FSM Mobile. For the text description, refer to the following table.](../image/FSM-mobile-infographic.png)
+![Infographic with a smartphone and a list of functions for FSM Mobile. For the text description, refer to the following table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/FSM-mobile-infographic.png)
 
 <table id="table_ovl_pb3_z3b"><tbody><tr><td align="left">
 
@@ -23,7 +23,7 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Prioritizing on ServiceNow Agent](manage-field-service-tasks-mobile.md) -   Plan your tasks
+[Prioritizing on ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/manage-field-service-tasks-mobile.md) -   Plan your tasks
 -   Plan your schedule
 -   Start work
 
@@ -33,7 +33,7 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Setting up inventory and asset management](setting-up-inventory-and-asset-management.md)-   Procure assets
+[Setting up inventory and asset management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/setting-up-inventory-and-asset-management.md)-   Procure assets
 -   Receive assets using Mobile app
 
 </td></tr><tr><td align="left">
@@ -42,7 +42,7 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Find the quickest way to complete assigned jobs](../task/optimize-task-route-mobile.md) -   Find optimal routes for executing tasks in multiple locations
+[Find the quickest way to complete assigned jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/optimize-task-route-mobile.md) -   Find optimal routes for executing tasks in multiple locations
 -   Navigate to task locations using the task map
 
 </td></tr><tr><td align="left">
@@ -51,7 +51,7 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Field Service Manager Mobile](manager-mobile-app.md) -   Update tasks from anywhere
+[Field Service Manager Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/manager-mobile-app.md) -   Update tasks from anywhere
 -   Manage your team from your mobile device
 
 </td></tr><tr><td align="left">
@@ -60,7 +60,7 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Start a Sidebar discussion on the Mobile Agent application](../task/start-sidebar-mobile.md) -   Call customers directly from the app if more information is needed
+[Start a Sidebar discussion on the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/start-sidebar-mobile.md) -   Call customers directly from the app if more information is needed
 -   Connect with peers by calling or sending them a text message
 
 </td></tr><tr><td align="left">
@@ -69,11 +69,11 @@ The Field Service Management mobile application runs on the ServiceNow mobile pl
 
 </td><td align="left">
 
-[Knowledge articles on ServiceNow Agent](access-information-you-need-mobile.md#) -   Search through knowledge base articles for assistance
+[Knowledge articles on ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/access-information-you-need-mobile.md#) -   Search through knowledge base articles for assistance
 -   Verify when your team members are on-site and whether they are on schedule to complete their tasks
 
 </td></tr></tbody>
-</table>When [offline](work-offline-fieldservice-mobile.md#), you can still execute assigned tasks, manage assets, access your schedule, track the time stamp of updated tasks, and close work orders and work order tasks. The data for tasks performed offline is stored on your device and synchronized when the device goes online.
+</table>When [offline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-offline-fieldservice-mobile.md#), you can still execute assigned tasks, manage assets, access your schedule, track the time stamp of updated tasks, and close work orders and work order tasks. The data for tasks performed offline is stored on your device and synchronized when the device goes online.
 
 Watch this four-minute video for a demonstration of the ServiceNow Field Service mobile application for managing field service tasks. Field Sertvice Management Mobile experience
 
@@ -92,11 +92,11 @@ Field Service Manager Mobile gives Field Service managers the ability to manage 
 **Related topics**  
 
 
-[Configure the Now Mobile Agent application](../task/configure-field-service-mobile.md)
+[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/configure-field-service-mobile.md)
 
-[Completing work on the ServiceNow Agent mobile application](Use-mobile-app-fsm.md)
+[Completing work on the ServiceNow Agent mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/Use-mobile-app-fsm.md)
 
-[Activate Field Service Manager Mobile](../task/activate-manager-mobile.md)
+[Activate Field Service Manager Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-manager-mobile.md)
 
-[Field Service Manager Mobile](manager-mobile-app.md)
+[Field Service Manager Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/manager-mobile-app.md)
 

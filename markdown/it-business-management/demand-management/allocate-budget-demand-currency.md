@@ -21,7 +21,7 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-Allocate the budget in a similar manner as you do with functional currency. For more information, see [Allocate budget to a demand](allocate-budget-to-demand.md).
+Allocate the budget in a similar manner as you do with functional currency. For more information, see [Allocate budget to a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/allocate-budget-to-demand.md).
 
 Enable the **Demand Currency** view in the Demand form to allocate the budget in demand currency.
 
@@ -37,7 +37,7 @@ Enable the **Demand Currency** view in the Demand form to allocate the budget in
 
 4.  On the Demand Budget dialog box, fill in the fields.
 
-    For detailed description of the field names, see [Demand Budget form](../reference/demand-budget-form.md).
+    For detailed description of the field names, see [Demand Budget form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/demand-budget-form.md).
 
 5.  Select **OK**.
 
@@ -46,5 +46,5 @@ Enable the **Demand Currency** view in the Demand form to allocate the budget in
 
 The demand budget for the selected year appears in the Demand Budget related list. Select the amounts in the list to revise them.
 
-**Parent Topic:**[Enable demand currency view](enable-multicurrency-demand.md)
+**Parent Topic:**[Enable demand currency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/enable-multicurrency-demand.md)
 

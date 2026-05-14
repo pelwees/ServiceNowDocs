@@ -35,7 +35,7 @@ A service account holds the credential and account information that you created 
     |-----|-----------|
     |Name|A unique and descriptive name for the service account. For example, `AWS GovCloud SA 01`.|
     |Account Id|Account ID to which this credential belongs.|
-    |Discovery credentials|Name of the credentials that you created in the [Create an AWS IAM user policy for Cloud Cost Management](aws-user-policy-create-cloudin.md) procedure.|
+    |Discovery credentials|Name of the credentials that you created in the [Create an AWS IAM user policy for Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-user-policy-create-cloudin.md) procedure.|
     |Datacenter URL|URL of the datacenter. For example, [https://ec2.us-gov-west-1.amazonaws.com](https://ec2.us-gov-west-1.amazonaws.com/)|
     |Datacenter Type|The CMDB table that represents the type of datacenter.|
     |Datacenter discovery status|Status and timestamp of the last execution of the Discovery application on the datacenter.|
@@ -50,7 +50,7 @@ The service account gets created and displays the list of all discovered datacen
 **Related topics**  
 
 
-[Schedule and manage the jobs that download AWS billing data](aws-bill-dwnld-job-cloudin.md)
+[Schedule and manage the jobs that download AWS billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-bill-dwnld-job-cloudin.md)
 
-[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](aws-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download AWS price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-pricesht-sched-dwnld-cloudin.md)
 

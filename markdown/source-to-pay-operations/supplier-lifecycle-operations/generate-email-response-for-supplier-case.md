@@ -29,7 +29,7 @@ The Email response for supplier case skill uses supplier case details such as ca
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon ![List icon.](../image/cases-list-icon.png).
+2.  Select the list icon ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png).
 
 3.  Go to **All work** &gt; **Cases**.
 
@@ -43,7 +43,7 @@ The Email response for supplier case skill uses supplier case details such as ca
 
 7.  Generate an email draft by selecting the Now Assist icon ![](../../../common/image/icon-ai-sparkle.png).
 
-    ![Generated email draft for a supplier case.](../image/slo-email-generation-supplier-case.png)
+    ![Generated email draft for a supplier case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-email-generation-supplier-case.png)
 
 8.  Select **Insert**.
 
@@ -63,9 +63,9 @@ An AI generated email draft is created.
 **Related topics**  
 
 
-[Generate an email response for supplier tasks](generate-email-response-for-supplier-tasks.md)
+[Generate an email response for supplier tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/generate-email-response-for-supplier-tasks.md)
 
-[Automate supplier case creation from emails](../concept/automated-supplier-case-creation-from-emails.md)
+[Automate supplier case creation from emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/automated-supplier-case-creation-from-emails.md)
 
-[Analyze sentiments in supplier cases](slo-analyze-sentiments.md)
+[Analyze sentiments in supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-analyze-sentiments.md)
 

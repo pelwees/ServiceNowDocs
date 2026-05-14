@@ -23,7 +23,7 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 When requested, the Banking CSR customer insights AI agent will begin consolidating customer data and presents persona-based insights to help CSR agents prepare for callbacks, perform proactive outreach, or identify high-value customers that need attention.
 
-![Customer 360 Insights panel showing customer details, financial overview, AI-generated summary, and Now Assist panel with AI agent conversation.](../../fso-front-office-banking/images/agentic-contact-center-c360-na-panel.png)
+![Customer 360 Insights panel showing customer details, financial overview, AI-generated summary, and Now Assist panel with AI agent conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-front-office-banking/images/agentic-contact-center-c360-na-panel.png)
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The AI agent answers your questions using information from its configured knowle
 **Related topics**  
 
 
-[Agentic AI use cases for FSO](../concept/usecase-now-assist.md)
+[Agentic AI use cases for FSO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../concept/usecase-now-assist.md)
 
-[Agentic Contact Center for Banking AI agents overview](../concept/agentic-contact-center-for-banking-agents-overview.md)
+[Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../concept/agentic-contact-center-for-banking-agents-overview.md)
 

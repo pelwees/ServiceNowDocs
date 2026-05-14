@@ -46,9 +46,9 @@ The odbc role contains various additional roles, including the soap\_query role 
 
 In a separate browser session, confirm that the odbc.user is able to log in to your ServiceNow instance.
 
-**Parent Topic:**[Getting started with ODBC](../concept/c_GettingStartedWithODBC.md)
+**Parent Topic:**[Getting started with ODBC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_GettingStartedWithODBC.md)
 
-**Previous topic:**[Getting started with ODBC](../concept/c_GettingStartedWithODBC.md)
+**Previous topic:**[Getting started with ODBC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_GettingStartedWithODBC.md)
 
-**Next topic:**[Define an ACL rule for the odbc role](t_DefineAnACLRuleForTheODBCRole.md)
+**Next topic:**[Define an ACL rule for the odbc role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_DefineAnACLRuleForTheODBCRole.md)
 

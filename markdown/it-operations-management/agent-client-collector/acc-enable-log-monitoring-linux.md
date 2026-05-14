@@ -46,7 +46,7 @@ Role required: agent\_client\_collector\_admin
 
 7.  Select the **util.check-logs-sudo** check to monitor logs owned by the root user.
 
-8.  Repeat steps [4](acc-enable-log-monitoring-linux.md#log-file) and [5](acc-enable-log-monitoring-linux.md#string) to monitor logs owned by the root user.
+8.  Repeat steps [4](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-linux.md#log-file) and [5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-log-monitoring-linux.md#string) to monitor logs owned by the root user.
 
 9.  For the **util.check-logs-sudo** check, modify the `/etc/sudoers` file on the host or Linux virtual machine, as follows:
 
@@ -62,5 +62,5 @@ Role required: agent\_client\_collector\_admin
 10. On the **Policy** page, click **Save** and then click **Publish** to activate the policy to monitor the log file.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-server-deployment.md)
 

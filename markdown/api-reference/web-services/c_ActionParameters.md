@@ -65,5 +65,5 @@ The displayvalue parameter can have three values: **true**, **false**, or **all*
 
 Set this boolean value to **true** during a get or getRecords function call to retrieve all variables attached to this record.
 
-**Parent Topic:**[JSONv2 web service](c_JSONv2WebService.md)
+**Parent Topic:**[JSONv2 web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_JSONv2WebService.md)
 

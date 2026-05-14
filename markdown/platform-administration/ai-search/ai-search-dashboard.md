@@ -15,13 +15,13 @@ breadcrumb: [Advanced AI Search Management Tools, ServiceNow Store applications 
 
 The AI Search dashboard summarizes AI Search indexed documents, configuration settings in use, and search query traffic. An interactive filter enables users to select the time frame for analysis of search query traffic.
 
-![AI Search dashboard showing AI Search Index tab.](../image/adv-ais-mgmt-dashboard-index-index.png "AI Search dashboard - AI Search Index tab")
+![AI Search dashboard showing AI Search Index tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/adv-ais-mgmt-dashboard-index-index.png "AI Search dashboard - AI Search Index tab")
 
-![AI Search dashboard showing AI Search Query tab.](../image/adv-ais-mgmt-dashboard-index-query.png "AI Search dashboard - AI Search Query tab")
+![AI Search dashboard showing AI Search Query tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/adv-ais-mgmt-dashboard-index-query.png "AI Search dashboard - AI Search Query tab")
 
 To access the dashboard, navigate to **All** &gt; **AI Search** &gt; **AI Search Analytics** &gt; **Search Index Analytics**.
 
-**Note:** If the dashboard displays a `Read operation on table '<name>' from scope 'Advanced AI Search Management Tools' was denied` informational message, ask your administrator to perform the steps described in [Create a cross-scope access privilege for the AI Search dashboards](ais-dashboards-cross-scope-access.md) for the listed table.
+**Note:** If the dashboard displays a `Read operation on table '<name>' from scope 'Advanced AI Search Management Tools' was denied` informational message, ask your administrator to perform the steps described in [Create a cross-scope access privilege for the AI Search dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-dashboards-cross-scope-access.md) for the listed table.
 
 ## Required ServiceNow AI Platform® roles
 

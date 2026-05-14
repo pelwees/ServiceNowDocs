@@ -27,5 +27,5 @@ ERP Semantic Mining runs a number of tasks when connecting to the ERP \(Enterpri
 -   Extraction of Namespace Data
 -   Running ML similarity analysis
 
-**Parent Topic:**[ERP Semantic Mining reference](erp-customization-mining-ref.md)
+**Parent Topic:**[ERP Semantic Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/erp-customization-mining-ref.md)
 

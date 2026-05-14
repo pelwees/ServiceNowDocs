@@ -28,13 +28,13 @@ If you continue to get recommendations for an active topic after linking it, the
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
-2.  Select the info icon ![Info icon.](../images/icon-info-blue.png) to open the overlay card for a topic that has a **New** status.
+2.  Select the info icon ![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-info-blue.png) to open the overlay card for a topic that has a **New** status.
 
 3.  At the bottom of the overlay card, select **Here's how to link to an existing topic**.
 
     Select the link as shown in the following example.
 
-    ![Select the link at the bottom of the overlay card.](../images/link-new-tr-existing-topic.png)
+    ![Select the link at the bottom of the overlay card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/link-new-tr-existing-topic.png)
 
 4.  In the dialog box, select a topic in the **Find topic to link** list.
 
@@ -45,9 +45,9 @@ If you continue to get recommendations for an active topic after linking it, the
 
 The overlay card shows that the recommendation is linked, as well as the date this occurred.
 
-![The overlay card displays link information at the bottom. It reads, "Linked topic - ITSM - Request - Software - Install," as well as the date it was linked.](../images/tr-linked-topic-overlay-card.png "Overlay card for a linked topic")
+![The overlay card displays link information at the bottom. It reads, "Linked topic - ITSM - Request - Software - Install," as well as the date it was linked.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-linked-topic-overlay-card.png "Overlay card for a linked topic")
 
 If a topic recommendation continues to appear in your analysis results after you linked it to a topic, you may want to revisit the topic to improve its effectiveness.
 
-You can also [unlink a topic recommendation from a Virtual Agent topic.](unlink-tr-va-topic.md)
+You can also [unlink a topic recommendation from a Virtual Agent topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/unlink-tr-va-topic.md)
 

@@ -39,7 +39,7 @@ You can customize which fields appear in the panel to match your organization's 
 
 4.  In the **Form view and section** area, select **At a Glance** from the **View name** drop-down list.
 
-    ![Form layout configuration showing At a Glance view selection](../image/hr-agent-workspace-at-a-glance-3.png)
+    ![Form layout configuration showing At a Glance view selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/hr-agent-workspace-at-a-glance-3.png)
 
     The form layout displays the current At a Glance configuration with available sections.
 

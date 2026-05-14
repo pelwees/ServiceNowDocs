@@ -17,7 +17,7 @@ The **Discover** tab on My Learning provides a variety of widgets that help you 
 
 The **Discover** tab has the following widgets that help you with a seamless learning experience:
 
-![Discover tab](../image/discover-lxp.png "Discover tab")
+![Discover tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/discover-lxp.png "Discover tab")
 
 |Widget|Description|
 |------|-----------|

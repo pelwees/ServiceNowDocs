@@ -23,7 +23,7 @@ Role required: itil, sn\_incident\_write, or admin
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Open the incident record.
 
@@ -125,7 +125,7 @@ Work notes list
 
 </td><td>
 
-Users who receive notifications about this incident task when work notes are added. **Note:** You can the add me icon ![Add me icon](../image/add-me.png) to add yourself to the work notes list.
+Users who receive notifications about this incident task when work notes are added. **Note:** You can the add me icon ![Add me icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/add-me.png) to add yourself to the work notes list.
 
 </td></tr><tr><td>
 

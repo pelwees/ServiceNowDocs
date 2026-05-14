@@ -25,7 +25,7 @@ Post-project activities include viewing baselines and actual values to evaluate 
 
 When you close a project, all project tasks and sub-projects associated with the project are closed automatically. Normally, you should not reopen a project after it is closed. Updating the project state from Closed to Work In Progress, Pending, or Open is not allowed. If you still need to reopen a closed project, reopen an existing project task or add a new task to the project. This action for a task moves the project from Closed to Work in Progress state without affecting the other closed tasks.
 
-When a project is in the [closed state](t_CloseAProject.md), the Project Management application calculates actual values like **Actual duration**. You can cancel the associated future resource plans and complete the allocated resource plans for a closed project.
+When a project is in the [closed state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CloseAProject.md), the Project Management application calculates actual values like **Actual duration**. You can cancel the associated future resource plans and complete the allocated resource plans for a closed project.
 
 ## Procedure
 
@@ -55,12 +55,12 @@ For projects created from an incident, problem, or change, updating the project 
 
 ## What to do next
 
--   [Cancel the resource plans](../../resource-management/task/cancel-resource-plan-from-project-or-demand.md) associated with the project in any of the following conditions:
+-   [Cancel the resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../resource-management/task/cancel-resource-plan-from-project-or-demand.md) associated with the project in any of the following conditions:
     -   There is a corresponding resource plan in the Confirmed, Planning, or Requested state.
     -   There is a resource plan in the Allocated state with the start date later than the project end date.
--   [Complete the resource plans](../../resource-management/task/complete-resource-plan-from-project-or-demand.md) associated with the project in the following conditions:
+-   [Complete the resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../resource-management/task/complete-resource-plan-from-project-or-demand.md) associated with the project in the following conditions:
     -   There is a corresponding resource plan in the Allocated state.
     -   The start date of the resource plan is on or before the actual end date of the project or task.
 
-**Parent Topic:**[Using Project Management](../concept/using-project-management.md)
+**Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/using-project-management.md)
 

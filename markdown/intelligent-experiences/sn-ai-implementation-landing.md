@@ -17,34 +17,34 @@ Getting ready to implement Now Assist is more than just installing plugins—it�
 
 <table id="table_vhh_f41_zgc" class="nav-card presentation"><tbody><tr><td>
 
-[Now Assist overview![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the applications and features that make up the Now Assist experience.](sn-ai-impl-overview-tools.md)
+[Now Assist overview![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the applications and features that make up the Now Assist experience.](sn-ai-impl-overview-tools.md)
 
 </td><td>
 
-[AI governance![](../../../reuse/icons/brand-icons/bus-business-management.svg)Learn about the importance of AI governance to ensure responsible use, regulatory compliance, and alignment with enterprise goals.](sn-ai-impl-governance.md)
+[AI governance![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-business-management.svg)Learn about the importance of AI governance to ensure responsible use, regulatory compliance, and alignment with enterprise goals.](sn-ai-impl-governance.md)
 
 </td><td>
 
-[Data readiness![](../../../reuse/icons/brand-icons/bus-database.svg)Learn how to prepare your instance data for Now Assist.](sn-ai-impl-data-readiness.md)
+[Data readiness![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-database.svg)Learn how to prepare your instance data for Now Assist.](sn-ai-impl-data-readiness.md)
 
 </td></tr><tr><td>
 
-[Application readiness![](../../../reuse/icons/brand-icons/bus-management-console.svg)Ensure that your instance is ready to take advantage of Now Assist by preparing Platform applications.](sn-ai-impl-app-readiness.md)
+[Application readiness![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-management-console.svg)Ensure that your instance is ready to take advantage of Now Assist by preparing Platform applications.](sn-ai-impl-app-readiness.md)
 
 </td><td>
 
-[Resolve common issues![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Address issues or gaps in your Now Assist configuration.](../../now-assist-admin/reference/now-assist-install-config-checklist.md)
+[Resolve common issues![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Address issues or gaps in your Now Assist configuration.](../../now-assist-admin/reference/now-assist-install-config-checklist.md)
 
 </td><td>
 
  
 
 </td></tr></tbody>
-</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](ai-native-sku-overview.md).
+</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 Additional implementation information is available on [Now Create](https://learning.servicenow.com/nowcreate).
 
-For additional Now Assist resources, see [Additional resources for AI products and solutions](../../general/reference/ai-additional-resources.md).
+For additional Now Assist resources, see [Additional resources for AI products and solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../general/reference/ai-additional-resources.md).
 
 **Important:**
 
@@ -63,5 +63,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 

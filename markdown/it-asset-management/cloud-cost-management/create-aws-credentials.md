@@ -62,7 +62,7 @@ Attach one or more policies
 
 The appropriate policy.**Note:** The AdministratorAccess policy has the most powerful permission level, including permission to provision cloud resources.
 
-You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. For more information, see [Create an AWS IAM user policy for Cloud Cost Management](aws-user-policy-create-cloudin.md).
+You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. For more information, see [Create an AWS IAM user policy for Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-user-policy-create-cloudin.md).
 
 </td></tr></tbody>
 </table>6.  On the Review page, verify your selections and then select **Create user**.

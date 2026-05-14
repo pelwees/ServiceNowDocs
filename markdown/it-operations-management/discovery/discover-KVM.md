@@ -17,5 +17,5 @@ KubeVirt provides a unified development platform where developers can build, mod
 
 To enable and configure the KubeVirt feature, see the [Retrieving Kubevirt Virtual Machines from Kubernetes Clusters using Kubernetes Visibility Agent \[KB2613344\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2613344) article in the Now Support knowledge base.
 
-**Parent Topic:**[Kubernetes Visibility Agent support matrix](cnov-support-matrix.md)
+**Parent Topic:**[Kubernetes Visibility Agent support matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-support-matrix.md)
 

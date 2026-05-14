@@ -29,7 +29,7 @@ Role required: sam
 
 4.  Select an Oracle model in the **Model** field.
 
-    The Oracle models in this list are created by the user. For more information, see [Manage software models](t_ManagingSoftwareModels.md).
+    The Oracle models in this list are created by the user. For more information, see [Manage software models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_ManagingSoftwareModels.md).
 
 5.  Ensure that the **License metric** field specifies the correct license calculation type.
 
@@ -38,5 +38,5 @@ Role required: sam
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Legacy Oracle process pack](../concept/c_OracleProcessPack.md)
+**Parent Topic:**[Legacy Oracle process pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_OracleProcessPack.md)
 

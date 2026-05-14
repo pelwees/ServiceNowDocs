@@ -17,7 +17,7 @@ Quickly add resources to task-specific crews if you forgot to add an agent or pi
 
 ## Before you begin
 
-Make sure that resource requirements are configured for the work order task before assigning resources to the task-specific crew. For more information, see [Add resource requirement for a work order task in Dispatcher Workspace](add-resource-requirement-disp-wrkspc.md).
+Make sure that resource requirements are configured for the work order task before assigning resources to the task-specific crew. For more information, see [Add resource requirement for a work order task in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-resource-requirement-disp-wrkspc.md).
 
 The Equipment list is available only if the Equipment Scheduling plugin \(com.snc.fsm\_resource\_scheduling\) is activated.
 
@@ -29,9 +29,9 @@ Role required: wm\_dispatcher
 
 2.  Select **Dispatcher Workspace**.
 
-3.  In the Schedule, select the Details for \(![details for](../image/details-icon.png)\) icon on the task-specific crew for which you want to assign resources.
+3.  In the Schedule, select the Details for \(![details for](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/details-icon.png)\) icon on the task-specific crew for which you want to assign resources.
 
-4.  Select the Overflow actions icon \(![overflow actions](../image/overflow-actions.png)\) in the contextual side panel.
+4.  Select the Overflow actions icon \(![overflow actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/overflow-actions.png)\) in the contextual side panel.
 
 5.  Select **Edit crew**.
 

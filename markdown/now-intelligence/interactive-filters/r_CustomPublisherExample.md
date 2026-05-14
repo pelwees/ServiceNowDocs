@@ -19,7 +19,7 @@ As an administrator, you can create custom interactive filter widgets to provide
 
 This example details how to create a custom filter to filter reports on the Task table, or its child tables. The filter only shows records where the current user is the caller. The filter exposes two buttons to the user, one button to add the filter and one to remove the filter.
 
-**Parent Topic:**[Custom interactive filters](../concept/c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../concept/c_CustomPublishers.md)
 
 **Related topics**  
 
@@ -30,7 +30,7 @@ This example details how to create a custom filter to filter reports on the Task
 
 [Jelly tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md)
 
-[DashboardMessageHandler](../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#)
+[DashboardMessageHandler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../../../app-store/dev_portal/API_reference/DashboardMessageHandler/concept/c_DashboardMessageHandler.md#)
 
 ## Create a custom interactive filter widget
 
@@ -44,27 +44,27 @@ Role required: admin
 
 1.  Open a dashboard that you want to add the custom interactive filter to.
 
-2.  Click the add content icon \(![Add content icon](../image/icon-add-user-db.png)\).
+2.  Click the add content icon \(![Add content icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/icon-add-user-db.png)\).
 
 3.  From the **Widget Category** list, select `Content Blocks`.
 
-    ![Widget category menu with Content Blocks selected](../image/add-content-block-db-polaris.png)
+    ![Widget category menu with Content Blocks selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/add-content-block-db-polaris.png)
 
 4.  From the list of content blocks, select `New Dynamic Content`.
 
 5.  In the New Dynamic Content panel, click **Add**.
 
-    ![New Dynamic Content widget option](../image/add-new-dynamic-content.png)
+    ![New Dynamic Content widget option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/add-new-dynamic-content.png)
 
     A new Dynamic Content block is added to the dashboard.
 
 6.  On the dashboard, click the link that says **Click here to configure this reusable Dynamic Content block**.
 
-    ![New Dynamic Content widget option](../image/add-new-dynamic-content-config.png)
+    ![New Dynamic Content widget option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/add-new-dynamic-content-config.png)
 
 7.  Define the filtering logic in the **Dynamic content** field.
 
-    ![Dynamic content - New record](../image/db-custom-interactive-filter-ex.png)
+    ![Dynamic content - New record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/db-custom-interactive-filter-ex.png)
 
 
 ### What to do next
@@ -217,11 +217,11 @@ A short text string that displays in the list of Date/Time filter options, which
 
         The available filters include **Last fortnight**.
 
-        ![Available date filter options including last fortnight](../image/available-date-time-filter-options-fortnight.png)
+        ![Available date filter options including last fortnight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/available-date-time-filter-options-fortnight.png)
 
 7.  Edit a date filter to include the new value and add the filter to a dashboard.
 
-    ![A date filter with the last fortnight option available](../image/date-filter-new-option.png)
+    ![A date filter with the last fortnight option available](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../image/date-filter-new-option.png)
 
 
 ## Custom interactive filter example - Multiple reports

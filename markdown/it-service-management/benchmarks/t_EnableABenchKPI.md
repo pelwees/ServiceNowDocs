@@ -23,7 +23,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
 1.  Opt in for Benchmarks.
 
-    For more information, see [Enable Benchmarks](t_EnableBench.md).
+    For more information, see [Enable Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_EnableBench.md).
 
 2.  On the Benchmarks configuration page, view the KPI categories in the KPI participation section.
 
@@ -88,8 +88,8 @@ Role required: sn\_bm\_client.benchmark\_admin
     3.  Select **Execute Now**.
 
 
--   **[Configure resolved incident Benchmarks KPIs](t_ConfigResIncBenchKPIs.md)**  
+-   **[Configure resolved incident Benchmarks KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_ConfigResIncBenchKPIs.md)**  
 The source for the KPIs containing resolved incident data is the **resolved\_at** field in the Incident \[incident\] table, which may not exist in some environments. In this case, additional configuration is required to use these KPIs.
 
-**Parent Topic:**[Benchmark KPIs](../concept/c_BenchKPIConfig.md)
+**Parent Topic:**[Benchmark KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchKPIConfig.md)
 

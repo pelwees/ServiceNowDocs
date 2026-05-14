@@ -62,16 +62,16 @@ If a document contains references and if the owner of the document is changed an
 
 For example, if the document owner, User A \(Domain: D1\) is changed to User B \(Domain: D2\) and User B does not have access to the target record of the reference table, User B might not be able to see the reference record.
 
-**Parent Topic:**[References](reference-document-management.md)
+**Parent Topic:**[References](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-document-management.md)
 
 **Related topics**  
 
 
-[Components installed with Document Management](../reference/installed-with-doc-mgmt.md)
+[Components installed with Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/installed-with-doc-mgmt.md)
 
-[Document Management roles](../reference/document-management-roles.md#)
+[Document Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/document-management-roles.md#)
 
-[Granular admin roles in Document Management](../reference/granular-admin-roles-dms.md)
+[Granular admin roles in Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/granular-admin-roles-dms.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

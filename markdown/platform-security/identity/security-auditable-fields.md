@@ -29,7 +29,7 @@ To access the Security Auditable Fields page, navigate to **All** &gt; **System 
 |Delete|Whether changes related to the Delete operation will be audited.|
 |Active|Audits only if the configuration for the table is active.|
 
-![Security Auditable Fields](../images/security-auditable-fields.png)
+![Security Auditable Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/security-auditable-fields.png)
 
 The following tables can be audited using the Identity and Access Audit​:
 

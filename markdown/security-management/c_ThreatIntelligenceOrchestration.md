@@ -15,29 +15,29 @@ Threat Intelligence Orchestration activities allow users to determine whether a 
 
 For more information on editing Security Incident Response Orchestration workflows or creating custom workflows, see [Getting started with workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md) and [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflow-editor.md) [Workflow editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/workflow-editor.md).
 
--   **[Set up Threat Intelligence Orchestration](../task/t_ThreatIntelligenceOrchestrationSetup.md)**  
+-   **[Set up Threat Intelligence Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/t_ThreatIntelligenceOrchestrationSetup.md)**  
 Prior to using Threat Intelligence Orchestration, perform steps to set up various parts of the system, including populating the CMDB, configuring the MID Server, and configuring credentials.
--   **[Threat Intelligence Orchestration workflows and activities](threat-orch-wfs-and-activities.md#)**  
+-   **[Threat Intelligence Orchestration workflows and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-orch-wfs-and-activities.md#)**  
 The base system includes workflows and workflow activities you can use to automate actions on your instance.
 
-**Parent Topic:**[Threat Intelligence](../../threat-intelligence/reference/threat-intel-landing-page.md)
+**Parent Topic:**[Threat Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/reference/threat-intel-landing-page.md)
 
 **Related topics**  
 
 
-[Understanding Threat Intelligence](../../threat-intelligence/concept/understanding-threat-intel.md)
+[Understanding Threat Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/understanding-threat-intel.md)
 
-[Set up Threat Intelligence](../../threat-intelligence/concept/c_GetStartedWithThreatIntel.md#)
+[Set up Threat Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/c_GetStartedWithThreatIntel.md#)
 
-[IoC Repository](../../threat-intelligence/concept/ioc-repository.md)
+[IoC Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/ioc-repository.md)
 
-[MITRE-ATT&amp;CK framework overview](../../threat-intelligence/concept/about-mitre-attack.md)
+[MITRE-ATT&amp;CK framework overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/about-mitre-attack.md)
 
-[MITRE D3FEND framework](../../threat-intelligence/concept/mitre-d3fend-framework.md)
+[MITRE D3FEND framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/mitre-d3fend-framework.md)
 
-[Threat Intelligence administration](../../threat-intelligence/reference/r_ThreatRespAdmin.md)
+[Threat Intelligence administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/reference/r_ThreatRespAdmin.md)
 
-[Threat Intelligence integrations](../../threat-intelligence/concept/threat-intelligence-integrations.md)
+[Threat Intelligence integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/threat-intelligence-integrations.md)
 
-[Security Case Management](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence-case-management/concept/case-mgmt.md)
 

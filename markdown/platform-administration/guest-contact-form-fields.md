@@ -22,5 +22,5 @@ A description of the fields on the Guest contact form in the ServiceNow Store.
 |Country|Country where you are located.|
 |Message to Seller|Question or request.|
 
-**Parent Topic:**[ServiceNow Store reference](store-reference.md)
+**Parent Topic:**[ServiceNow Store reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 

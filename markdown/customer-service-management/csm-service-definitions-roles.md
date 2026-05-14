@@ -35,7 +35,7 @@ Service definition admin\[sn\_csm\_case\_types.service\_definition\_admin\]
 
 </td><td>
 
-Administrator role for the [Customer Service case types](customer-service-case-types.md) tables. Users with this role can view, create, update, and delete service definitions, service definition categories, and service definition category relationships.
+Administrator role for the [Customer Service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md) tables. Users with this role can view, create, update, and delete service definitions, service definition categories, and service definition category relationships.
 
 </td><td>
 
@@ -48,7 +48,7 @@ Service definition manager\[sn\_csm\_case\_types.service\_definition\_manager\]
 
 </td><td>
 
-Manager role for the [Customer Service case types](customer-service-case-types.md) tables. Users with this role can view, create, and update service definitions, service definition categories, and service definition category relationships.
+Manager role for the [Customer Service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md) tables. Users with this role can view, create, and update service definitions, service definition categories, and service definition category relationships.
 
 </td><td>
 
@@ -192,7 +192,7 @@ Customer contacts with configured contact relationships
 
 </td><td>
 
-For more information, see [Contact Relationships](c_ContactRelationships.md).
+For more information, see [Contact Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_ContactRelationships.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -212,7 +212,7 @@ Consumers with configured consumer relationships
 
 </td><td>
 
-Use relationships to provide internal and external users with additional access to customer data. For more information, see [Create relationships](../task/configure-data-model-relationships.md).
+Use relationships to provide internal and external users with additional access to customer data. For more information, see [Create relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-data-model-relationships.md).
 
 </td></tr><tr><td>
 
@@ -220,7 +220,7 @@ Consumers who are designated as head of household
 
 </td><td>
 
-A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [Create or update a household](../task/create-consumer-household.md).
+A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [Create or update a household](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-consumer-household.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -331,20 +331,20 @@ An Outsourced Service Provider \(OSP\) role. Users with this role can fulfill th
 </td></tr></tbody>
 </table>For more information about these roles, see the following topics:
 
--   [Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
--   [Contributor user roles](../reference/csm-contributor-user-roles.md)
--   Service Model Foundation - [Assign roles](../task/configure-data-model-roles.md)
--   [Roles installed with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md)
--   [Roles for Outsourced Customer Service](../reference/roles-ocs.md)
+-   [Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_RolesInstalledWithCustomerService.md)
+-   [Contributor user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-contributor-user-roles.md)
+-   Service Model Foundation - [Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-data-model-roles.md)
+-   [Roles installed with customer access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_rolesinstalledwithcustaccessmgmt.md)
+-   [Roles for Outsourced Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/roles-ocs.md)
 
 **Related topics**  
 
 
-[Configuring service definitions](csm-service-definitions-configure.md)
+[Configuring service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md)
 
-[Customer service case types](customer-service-case-types.md)
+[Customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
-[Manage customer service case types](manage-csm-case-types.md)
+[Manage customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/manage-csm-case-types.md)
 
-[Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
+[Create a customer service case of a specific type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-case-of-specific-case-type.md)
 

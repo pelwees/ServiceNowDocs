@@ -40,7 +40,7 @@ Generate flows by using text prompts and image. Describe the flow in details, at
 
 4.  To use the flow recommendations skill, select the **Build on your own** tab.
 
-    You can use the flow recommendations skill to build a flow or to edit an existing flow. For details about building a flow on your own, see [Create a flow in Workflow Studio](create-flow.md).
+    You can use the flow recommendations skill to build a flow or to edit an existing flow. For details about building a flow on your own, see [Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md).
 
 5.  Fill in the fields to build your flow.
 
@@ -174,7 +174,7 @@ Priority level at which you want the system to run this flow by default. Options
 -   Low
 -   Medium \(Default\)
 -   High
- To learn about flow priority levels, see [Flow priority](../concept/flow-priority.md).
+ To learn about flow priority levels, see [Flow priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-priority.md).
 
 </td></tr></tbody>
 </table>6.  Select the **Try an example** option to insert a valid example of flow directions.
@@ -183,11 +183,11 @@ Priority level at which you want the system to run this flow by default. Options
 
 7.  Select **Build flow with Now Assist**.
 
-    ![Example Build with Now Assist window with a flow named test flow and directions to build a flow that runs every day at midnight.](../images/example-build-flow-with-now-assist.png)
+    ![Example Build with Now Assist window with a flow named test flow and directions to build a flow that runs every day at midnight.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-build-flow-with-now-assist.png)
 
     Workflow Studio uses your text directions to build a flow outline. If successful, Workflow Studio displays a preview of the flow in the diagramming view. Beneath each node of the flow there is an annotation showing the text directions used to generate the item.
 
-    ![Example flow preview in diagramming view. Each node shows an annotation of the text directions used.](../images/example-flow-preview-with-annotations.png)
+    ![Example flow preview in diagramming view. Each node shows an annotation of the text directions used.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-flow-preview-with-annotations.png)
 
 8.  If the generated flow preview does not meet your needs, you can update the Now Assist directions, and select **Rebuild flow**.
 
@@ -208,9 +208,9 @@ Now Assist creates a flow outline with the name you provided. If the large langu
 
 ## Create a flow with a scheduled trigger
 
-![Create flow screen with options to build a flow with Now Assist](../images/example-build-with-now-assist-with-preview.png)
+![Create flow screen with options to build a flow with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-build-with-now-assist-with-preview.png)
 
-![Example Build with Now Assist window with directions to build a flow that runs every day at midnight.](../images/example-build-flow-with-now-assist.png)
+![Example Build with Now Assist window with directions to build a flow that runs every day at midnight.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-build-flow-with-now-assist.png)
 
 You can use these prompt values to create a flow with a scheduled trigger.
 
@@ -229,5 +229,5 @@ You can use these prompt values to create a flow with a scheduled trigger.
 -   Configure the inputs of each action, flow logic, and subflow to use appropriate data.
 -   Test the flow before activating it.
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

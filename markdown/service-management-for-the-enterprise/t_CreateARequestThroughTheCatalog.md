@@ -38,5 +38,5 @@ The catalog provides several different categories so users can choose the one th
     **Note:** If the catalog fields do not appear on the request form, you can configure the form and add variables or variable sets.
 
 
-**Parent Topic:**[Request creation](../reference/r_RequestCreation.md)
+**Parent Topic:**[Request creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_RequestCreation.md)
 

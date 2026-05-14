@@ -29,15 +29,15 @@ This topic provides general instructions for extending an existing cloud provide
 
 2.  Click **Open Hierarchy**.
 
-    ![Open the CI hierarchy](../image/cl-class-manager-open.png)
+    ![Open the CI hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/cl-class-manager-open.png)
 
 3.  On the **CI Classes** pane, enter `Virtual Machine Object` in the search field, and then select **Virtual Machine Object**.
 
-    ![The virtual machine object class](../image/virtual-machine-object.png)
+    ![The virtual machine object class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/virtual-machine-object.png)
 
 4.  Click the **Virtual Machine Object** link.
 
-    ![Click Virtual Machine Object](../image/virtual-machine-object-select.png)
+    ![Click Virtual Machine Object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/virtual-machine-object-select.png)
 
 5.  Click **Add Child Class**.
 
@@ -91,7 +91,7 @@ This topic provides general instructions for extending an existing cloud provide
     |Relationship|**Hosted on \(Hosted on::Hosts\)**|
     |Target Class|**Logical Datacenter**|
 
-    ![A Hosted on:Hosts relationship](../image/relationship-rule-new-class.png)
+    ![A Hosted on:Hosts relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/relationship-rule-new-class.png)
 
 15. Click **Save**.
 
@@ -102,9 +102,9 @@ This topic provides general instructions for extending an existing cloud provide
 
 ## What to do next
 
-Use the CI class in a resource type for a cloud provider. See [Add a product to an existing provider in CAPI](create-provider.md) for instructions.
+Use the CI class in a resource type for a cloud provider. See [Add a product to an existing provider in CAPI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-provider.md) for instructions.
 
-Your response processor, which is part of the resource block, must also specify the necessary CI class types so it can update the CMDB. Usually, the response processor needs the object ID, the specific datacenter, and the cloud service account. See [Virtual server response processor example](../reference/response-processor-example.md) for example response processor code that uses CI classes.
+Your response processor, which is part of the resource block, must also specify the necessary CI class types so it can update the CMDB. Usually, the response processor needs the object ID, the specific datacenter, and the cloud service account. See [Virtual server response processor example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/response-processor-example.md) for example response processor code that uses CI classes.
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-management-v2-landing-page.md)
 

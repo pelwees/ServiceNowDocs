@@ -33,7 +33,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
     1.  In the Alignment menu, select **Horizontal-equal**.
     2.  In the Size menu, select **Small**.
-    3.  Hover over **Items**and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+    3.  Hover over **Items**and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
     4.  In the **Items** menu, enter **@state.cardProps.content**.
     5.  In the **Item min, width** field, enter `75 px`.
     6.  Enable **Wrap text** and **Truncated** options.
@@ -45,7 +45,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 [Configure an avatar component for Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-avatar-component.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 

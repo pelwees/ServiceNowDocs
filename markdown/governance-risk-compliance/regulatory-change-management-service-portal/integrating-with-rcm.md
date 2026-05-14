@@ -15,8 +15,8 @@ breadcrumb: [Regulatory Change Management, Governance, Risk, and Compliance]
 
 Extend the capabilities of RCM.
 
--   **[RSS feeds overview](rss-feeds.md)**  
+-   **[RSS feeds overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rss-feeds.md)**  
 A Really simple syndication \(RSS\) feed in Regulatory Change Management is like a subscription service for updates about new or changed rules and regulations. Instead of visiting multiple websites to check for updates, you can subscribe to feeds from regulatory bodies or industry news.
 
-**Parent Topic:**[Regulatory Change Management](../reference/reg-change-mgmt-landing-page.md)
+**Parent Topic:**[Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../reference/reg-change-mgmt-landing-page.md)
 

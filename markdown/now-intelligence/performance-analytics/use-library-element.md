@@ -31,7 +31,7 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
     The tile for a library element lists the number and type of artifacts included in the element. The following image shows the tile for a library element with one critical success factor and two measurements.
 
-    ![Library Elements list.](../image/kpi-comp-library-elements.png)
+    ![Library Elements list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-library-elements.png)
 
 4.  To remove a library element from a KPI tree, delete the root artifact.
 
@@ -42,5 +42,5 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 You can add as many library elements as you want to a KPI tree. You can add the same library element as many times as you want.
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/cross-project-artifact-libraries.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_shop.shopper
 
 3.  Select the kebab menu, and then select **Edit a receipt**.
 
-    ![Edit a receipt option.](../image/sh-edit-receipt-option.png)
+    ![Edit a receipt option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-edit-receipt-option.png)
 
 4.  On the Edit a request form, fill in the fields.
 
@@ -46,7 +46,7 @@ Role required: sn\_shop.shopper
 
     A procurement case of type Edit a receipt is created.
 
-    ![Procurement case of type Edit a receipt.](../image/sh-edit-receipt-pc.png)
+    ![Procurement case of type Edit a receipt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-edit-receipt-pc.png)
 
 
 ## What to do next
@@ -55,5 +55,5 @@ Role required: sn\_shop.shopper
 -   Shoppers can review the request details from **ShoppingHub** &gt; **** &gt; **My purchases**, accessed from the profile image or from the footer.
 -   Buyers can track the progress of the procurement case and procurement case line requests from **Source-to-Pay Workspace**.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

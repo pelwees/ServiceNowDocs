@@ -17,11 +17,11 @@ The Diff Merge tool enables administrative users to compare differences between 
 
 Administrators can compare field-level changes between two versions, apply changes using Move Right field-level copy functionality and then merge results, or choose to revert to the non-current version. You can access the Diff Merge tool by comparing versions, resolving conflicts, or resolving collisions, during development or after upgrades.
 
-![Diff Merge tool allows you to Compare to Current.](../image/MergeToolComparetoVersion.png)
+![Diff Merge tool allows you to Compare to Current.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/MergeToolComparetoVersion.png)
 
-![Use the Script Editor for large text-based fields.](../image/MergeToolScriptEditor.png)
+![Use the Script Editor for large text-based fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/MergeToolScriptEditor.png)
 
-![Diff Merge tool - Compare to Current Script](../image/MergeToolComparetoCurrentScript.png)
+![Diff Merge tool - Compare to Current Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/MergeToolComparetoCurrentScript.png)
 
 ## Accessibility Functions
 
@@ -45,22 +45,22 @@ To enable accessibility functions, administrators should set these sys\_properti
     -   **mergetool.bg.left** - Left column cell color when version values are the same.
     -   **mergetool.bg.right** - Right column cell color when version values are the same.
 
-**Parent Topic:**[Version records](../reference/r_VersionRecords.md)
+**Parent Topic:**[Version records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../reference/r_VersionRecords.md)
 
 **Related topics**  
 
 
-[Compare to the current version](../task/t_CompareToCurrentVersion.md)
+[Compare to the current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/t_CompareToCurrentVersion.md)
 
-[Compare a pushed version to a local version](../task/t_ComparePushedVerLocalVer.md)
+[Compare a pushed version to a local version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/t_ComparePushedVerLocalVer.md)
 
 [Compare two versions of an article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/compare-two-article-versions.md)
 
 [Resolve conflicts for an individual record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflict.md)
 
-[Resolve a collision in Team Development](../task/t_ResolveACollision.md)
+[Resolve a collision in Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/t_ResolveACollision.md)
 
-[Revert a change](../task/t_RevertAChange.md)
+[Revert a change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../../system-update-sets/task/view-customer-update-records.md)
 

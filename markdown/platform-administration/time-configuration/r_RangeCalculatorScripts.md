@@ -167,5 +167,5 @@ getTimeObject: function(timeMS) {
     }
 ```
 
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_TimelinePages.md)
 

@@ -34,5 +34,5 @@ Role required: SGC-admin or admin
     **Note:**
 
     -   When you select a connector type, the application scope changes to the selected type.
-    -   When setting up a connection using a Service Graph Connector for the first time, you might need to complete the initial setup tasks. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    -   When setting up a connection using a Service Graph Connector for the first time, you might need to complete the initial setup tasks. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 

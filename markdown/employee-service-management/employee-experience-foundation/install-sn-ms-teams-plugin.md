@@ -41,11 +41,11 @@ Role required: admin
 
     Click **fix\_script\_start\_chat\_field\_decorator\_IT** to download the XML file.
 
-    ![Fix Script XML file from IT Service Management for Microsoft 365 store](../images/fix-script-itsm-new.png)
+    ![Fix Script XML file from IT Service Management for Microsoft 365 store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/fix-script-itsm-new.png)
 
 5.  Navigate to **All** &gt; **System Update Sets** &gt; **Retrieved Update Sets** &gt; **Related Links** &gt; **Import Update Set from XML**.
 
-    ![Import update set from XML](../images/import-xml01.png)
+    ![Import update set from XML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/import-xml01.png)
 
 6.  In the XML file field, click **Choose file** button and select **fix\_script\_start\_chat\_field\_decorator\_IT** XML file and upload the XML file.
 
@@ -53,15 +53,15 @@ Role required: admin
 
 8.  Click **Preview Update Set**.
 
-    ![Preview Update Set](../images/preview-update-set.png)
+    ![Preview Update Set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/preview-update-set.png)
 
 9.  Click **Commit Update Set**.
 
-    ![Commit update set](../images/commit-update-set.png)
+    ![Commit update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/commit-update-set.png)
 
     The Fix script to add start Microsoft Teams chat field decorator will be in Committed state.
 
-    ![Committed state](../images/committed-state.png)
+    ![Committed state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/committed-state.png)
 
 10. Navigate to **System Definition** &gt; **Fix Scripts**.
 
@@ -71,8 +71,8 @@ Role required: admin
 
 13. Click **Run Fix Script** button.
 
-    The ![Microsoft Teams](../images/teams-decorator.png) icon is displayed as a field decorator in a record.
+    The ![Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/teams-decorator.png) icon is displayed as a field decorator in a record.
 
 
-**Parent Topic:**[Plan your installation](../concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/plan-installation-ms-teams.md)
 

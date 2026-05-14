@@ -75,12 +75,12 @@ Role required: admin
 
     |Field|Description|
     |-----|-----------|
-    |Webhook Registry Record Name|Name of the webhook record you had provided when you [registered the webhook in ServiceNow instance](setup-webhook-ms-teams-graph.md#). For example, `MS Teams Graph webhook registry`.|
+    |Webhook Registry Record Name|Name of the webhook record you had provided when you [registered the webhook in ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhook-ms-teams-graph.md#). For example, `MS Teams Graph webhook registry`.|
     |Change Type|Type of change in the subscribed resource that should send a change notification. The supported values are: `created`, `updated`, and `deleted`. You can provide multiple comma-separated values.|
     |Team ID|Unique identifier of the team.|
     |Channel ID|Unique identifier of the channel.|
 
-    ![Test the Subscribe Webhook subflow for the required change types.](../image/test-subscribe-subflow.png "Test the Subscribe Webhook subflow")
+    ![Test the Subscribe Webhook subflow for the required change types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/test-subscribe-subflow.png "Test the Subscribe Webhook subflow")
 
 6.  Click **Run Test**.
 
@@ -107,7 +107,7 @@ Role required: admin
 
     For example, **Process Inbound Notifications** subflow.
 
-4.  Click the more actions icon \(![More actions menu](../../integrationhub/images/more-actions-menu-icon.png)\) and select **Copy subflow**.
+4.  Click the more actions icon \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/more-actions-menu-icon.png)\) and select **Copy subflow**.
 
 5.  In **New flow name**, enter a unique name you want the copied subflow to have.
 

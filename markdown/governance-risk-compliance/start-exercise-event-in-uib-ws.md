@@ -21,11 +21,11 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select **New**.
 
-    The **Create New Event** form is displayed as shown in the example.![Create New Event form.](../image/create-new-event.png)
+    The **Create New Event** form is displayed as shown in the example.![Create New Event form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-event.png)
 
 2.  Fill in the required fields in the **Details** tab.
 
-    For more information on the fields, see [Create Exercise Event form](../reference/create-exercise-event-ref-form.md).
+    For more information on the fields, see [Create Exercise Event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-exercise-event-ref-form.md).
 
     The exercise event is created in the **Pending** state and it is displayed in the List view. The state and details of the exercise event are displayed in the tabs:
 
@@ -37,7 +37,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     -   **Event tasks**: You can add an ad-hoc task to the event.
     The Event form is shown in the example.
 
-    ![Sample event form.](../image/event-form-details-tab.png)
+    ![Sample event form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-form-details-tab.png)
 
 3.  To perform more actions on the event, select **More actions**.
 
@@ -54,8 +54,8 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     The event is saved in the **Pending** state.
 
 
--   **[Create Exercise Event form](../reference/create-exercise-event-ref-form.md)**  
+-   **[Create Exercise Event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-exercise-event-ref-form.md)**  
 Use the Create Exercise Event form in BCM UIB Workspace to add details about an Exercise event.
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

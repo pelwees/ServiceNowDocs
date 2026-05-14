@@ -18,5 +18,5 @@ Explore the following information to know more about the configurations of speci
 -   IT Operations Management \(ITOM\): See [Now Assist for Setup \(ITOM Visibility\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/nowassist-setup-itom-visibility-landing-page.md) for more information on installation of ITOM product module. The configuration for ITOM will be available in future releases.
 -   Now Assist Admin: See [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) for more information on configuration of Now Assist Admin module.
 
-**Parent Topic:**[Configure in Now Assist for Setup](ia-config-landing.md)
+**Parent Topic:**[Configure in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md)
 

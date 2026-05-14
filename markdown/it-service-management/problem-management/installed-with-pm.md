@@ -34,5 +34,5 @@ Problem\[problem\]
 The Problem table is extended from the Task \[task\] table. It inherits all the fields, rules and policies from task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Problem Management](../task/activate-prob-mgmt.md)
+</table>**Parent Topic:**[Activate Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../task/activate-prob-mgmt.md)
 

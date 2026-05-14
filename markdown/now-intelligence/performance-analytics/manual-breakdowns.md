@@ -17,7 +17,7 @@ In a manual breakdown, you define the breakdown elements and the indicator score
 
 Unlike an automated breakdown, a manual breakdown does not map to any fields on the indicator source table. Instead, users must populate the broken-down scores manually.
 
-**Parent Topic:**[Indicator breakdowns](c_CreatingBreakdowns.md)
+**Parent Topic:**[Indicator breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 
 ## Create a manual breakdown
 

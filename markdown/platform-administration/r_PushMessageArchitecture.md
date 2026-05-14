@@ -55,24 +55,24 @@ https://{instance_name}/api/now/v1/push/{application Name}/action/{action}
 
 The application name is the push application the user is using. The application name must match the application name in the Push Application \[sys\_push\_application\] table. The action is the Sys ID of the action in the Push Notifications Actions \[sys\_push\_notif\_act\_script\] table.
 
-**Parent Topic:**[Push notifications](../concept/c_PushNotifications.md)
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Activate push notifications](../task/t_ActivatePushNotifications.md)
+[Activate push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ActivatePushNotifications.md)
 
-[Enable push notifications for logged-out users](../task/enable-notifications-logged-out-users.md)
+[Enable push notifications for logged-out users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/enable-notifications-logged-out-users.md)
 
-[Installed with push notifications](r_InstalledWithPushNotifications.md#)
+[Installed with push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_InstalledWithPushNotifications.md#)
 
-[Push notification properties](r_PushNotificationProperties.md)
+[Push notification properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationProperties.md)
 
-[Push notification setup with the ServiceNow mobile app](r_PushNotificationSetupSN.md)
+[Push notification setup with the ServiceNow mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationSetupSN.md)
 
-[Push notification setup with a custom push application for ServiceNow mobile apps](r_PushNotificationSetupCustom.md)
+[Push notification setup with a custom push application for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationSetupCustom.md)
 
-[Requeue failed push notification messages](../task/t_HandlingFailedPushMessages.md)
+[Requeue failed push notification messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_HandlingFailedPushMessages.md)
 
-[Push notification retention](../concept/push-notification-retention.md)
+[Push notification retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/push-notification-retention.md)
 

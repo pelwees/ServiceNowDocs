@@ -29,34 +29,34 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     2.  Select **Process Mining - Map** from the list.
 
-    ![Configure Process Mining map](../image/dashboard-pm.png)
+    ![Configure Process Mining map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dashboard-pm.png)
 
 3.  Configure a Process Mining project for the map.
 
     1.  Select a Process Mining project from the **Process mining project** list in the **Configuration** area.
 
-    ![Configure Process Mining project](../image/dash-pm-config.png)
+    ![Configure Process Mining project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dash-pm-config.png)
 
 4.  Customize the orientation of the outline of the process graph set for the current project workbench for nodes within the graph.
 
     For example, when using a vertically oriented widget, you might prefer the graph and star diagram to be displayed in a vertical layout rather than a horizontal one.
 
-    ![Graph orientation](../image/dash-pm-orientation.png)
+    ![Graph orientation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dash-pm-orientation.png)
 
 5.  If you have configured filters in your dashboard, and you want the Process Mining map to reflect the applied filters, then select the **Follow filters** button.
 
-    ![Filter](../image/dash-pm-filter.png)
+    ![Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dash-pm-filter.png)
 
 6.  Select **Save** and **Exit editing mode**.
 
-    For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](../../../use/dashboards/reference/ac-elements.md).
+    For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../use/dashboards/reference/ac-elements.md).
 
 
 ## Result
 
 The Process Mining map is available in the PAR dashboard.
 
-![Process Mining map](../image/dash-pm.png)
+![Process Mining map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dash-pm.png)
 
-**Parent Topic:**[Configuring Process Mining](../concept/setting-up-process-mining.md)
+**Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/setting-up-process-mining.md)
 

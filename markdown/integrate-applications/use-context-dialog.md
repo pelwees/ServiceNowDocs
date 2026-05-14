@@ -31,31 +31,31 @@ Role required: none
 
     The Capture element dialog shows information.
 
-    ![Capture dialog.](../image/context-dialog-window.png)
+    ![Capture dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/context-dialog-window.png)
 
     **Note:** By default, the name of the element appears in the **Name** field of the Capture element dialog. If the name of the element is not available, its Id appears in the **Name** field. Otherwise, the element type appears in the **Name** field.
 
-2.  To capture the element, select the Add element icon \(![Add element icon.](../image/add-image-icon.png)\).
+2.  To capture the element, select the Add element icon \(![Add element icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
     **Note:**
 
     -   To prevent the Capture element dialog from moving after you have moved the mouse pointer over the screen element you want to capture, press the CTRL key.
     -   You can optionally provide a custom name to the element in the **NAME** field. In that case, the element is captured with the custom name in both the **Screens and elements** pane and under the Connector object in the Global Objects. Else, it's captured with the default name the target application provides.
     -   If you capture the same element multiple times, the Capture Dialog provides a unique name to each instance of the element. For example, if you capture an H4 element three times, its naming convention can be like H4, H4\_1, and H4\_2.
-3.  To capture elements that are higher in the hierarchy of the current element, select the move to parent element icon \(![Move to parent element icon.](../image/move-to-parent-tag-icon.png)\).
+3.  To capture elements that are higher in the hierarchy of the current element, select the move to parent element icon \(![Move to parent element icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/move-to-parent-tag-icon.png)\).
 
     For example, the elements in an HTML table elements appear in a hierarchical order. The `table` element is the highest and `th` is lowest. If you try to capture an HTML table elements, the Capture element dialog will move from `th` to `tr` to the `table` element. The image shows the hierarchy of elements.
 
-    ![Element capture hierarchy.](../image/element-hierarchy.png)
+    ![Element capture hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/element-hierarchy.png)
 
 4.  To capture more elements, move the mouse pointer over other elements and repeat the previous steps.
 
-5.  To close the Capture element dialog, select the close Capture element dialog icon ![Close context dialog icon.](../image/close.png).
+5.  To close the Capture element dialog, select the close Capture element dialog icon ![Close context dialog icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/close.png).
 
     The captured elements appear in both the **Screens and elements** pane and under the Connector object in the Global Objects.
 
-    ![Elements captured.](../image/elements-captured.png)
+    ![Elements captured.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/elements-captured.png)
 
 
-**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+**Parent Topic:**[Chromium connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/chrome-connector.md)
 

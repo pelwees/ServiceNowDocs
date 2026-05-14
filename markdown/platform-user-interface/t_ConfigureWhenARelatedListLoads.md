@@ -21,7 +21,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to ![User menu icon.](../../../get-started/servicenow-overview/image/user-menu-icon.png) **User Menu** &gt; **Preferences** &gt; **Display**.
+1.  Navigate to ![User menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/user-menu-icon.png) **User Menu** &gt; **Preferences** &gt; **Display**.
 
 2.  Select one of the following options from the **Loads related lists in classic forms** menu.
 
@@ -53,20 +53,20 @@ Related lists load on demand. When this option is selected, a **Load Related Lis
 </table>3.  Close the display preferences menu.
 
 
-**Parent Topic:**[Related lists](../concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Select or create records in a related list](t_SelectRelatedRecords.md)
+[Select or create records in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_SelectRelatedRecords.md)
 
-[Create a default filter for a related list](t_CreateADefaultFilter.md)
+[Create a default filter for a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateADefaultFilter.md)
 
-[Configure the edit option](t_ConfigureTheEditOption.md)
+[Configure the edit option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureTheEditOption.md)
 
-[Create defined related lists](../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
+[Create defined related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
 
-[Add fields to selections in a related list](../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
+[Add fields to selections in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
 
-[Create a default filter for list selector records](../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
 

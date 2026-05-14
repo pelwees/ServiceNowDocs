@@ -43,7 +43,7 @@ Role required: sn\_fin\_ops.specialist
     -   Canceled/False inquiry
     -   Canceled by caller
     -   Information provided
-    ![Close a finance case](../image/fin-ops-close-case.png)
+    ![Close a finance case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-close-case.png)
 
 7.  In the **Closure notes** field, enter the reason for closing the case.
 
@@ -54,5 +54,5 @@ Role required: sn\_fin\_ops.specialist
 
 The case moves to the Closed complete state, the associated open tasks are closed, and the details in the Closure section are filled.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

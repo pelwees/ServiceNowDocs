@@ -35,7 +35,7 @@ Role required: sn\_shift\_planning.admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Click the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  Monitor the schedule adherence of your agents.
 
@@ -76,8 +76,8 @@ Example: A clock-in event gets generated when an agent logs in or changes the pr
     -   Green—agent is available
     -   Purple—agent clock-in-time
     -   Red—agent clock-out-time
-    ![Schedule Adherence](../image/schedule-adherence-itsm.png)
+    ![Schedule Adherence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/schedule-adherence-itsm.png)
 
 
-**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/schedule-adherence-configurable-itsm.md)
 

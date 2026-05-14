@@ -40,5 +40,5 @@ The following changes occur when the safety incident playbook is turned off:
     -   Health and Safety actions
 -   Enables the association of multiple injuries and illnesses to a single incident.
 
-**Parent Topic:**[Setting up Health and Safety Incident Management](../concept/setting-up-hs-incident-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/setting-up-hs-incident-mgmt.md)
 

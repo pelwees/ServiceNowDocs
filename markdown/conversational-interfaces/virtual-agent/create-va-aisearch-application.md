@@ -53,7 +53,7 @@ Procedure
 
 </td><td>
 
-Add the AI Search topic block to a conversation topic. For details, see [Add a reusable topic block to a calling topic or topic block](add-topic-blocks-to-topic.md).1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and select the topic or [create a new topic](create-virtual-agent-topic.md).
+Add the AI Search topic block to a conversation topic. For details, see [Add a reusable topic block to a calling topic or topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-topic-blocks-to-topic.md).1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer** and select the topic or [create a new topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
 2.  In the Flow tab, drag the Topic Block utility onto the canvas.
 3.  Complete the Topic Block Properties sheet:
     -   In the **Topic Block** field, select AI Search.
@@ -73,11 +73,11 @@ The AI Search topic block runs the selected search application configuration to 
 
 </td><td>
 
-Create or update a custom chat experience that uses the Run AI Search topic block with the custom Search Application Configuration. For details on creating a custom experience, see [Configure a Virtual Agent chat experience](configure-default-chat-experience.md).
+Create or update a custom chat experience that uses the Run AI Search topic block with the custom Search Application Configuration. For details on creating a custom experience, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
 
 </td></tr></tbody>
 </table>    Your custom Search Application Configuration is used in the AI Search topic block in a conversation or a custom chat experience to generate the customized AI Search experience.
 
 
-**Parent Topic:**[Improving the user experience with AI Search](../concept/va-ai-search.md)
+**Parent Topic:**[Improving the user experience with AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-ai-search.md)
 

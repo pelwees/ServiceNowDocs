@@ -15,7 +15,7 @@ The Discovery Sensor for OT provides you with enhanced scanning and query functi
 
 ## Discovery Sensor for Operational Technology \(OT\) overview
 
-This section provides an overview of the Discovery Sensor for OT and its integration with the Discovery Console for OT. For detailed functionality and configuration, refer to [Discovery Console for OT](ot-discovery-console-landing.md).
+This section provides an overview of the Discovery Sensor for OT and its integration with the Discovery Console for OT. For detailed functionality and configuration, refer to [Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-landing.md).
 
 ## Sensors page on the Discovery Console for OT
 
@@ -60,7 +60,7 @@ The Web Management Service feature can be used to reset the password for the Web
 
 **Sites**
 
-The Sites tab displays which Sites are associated to the selected Sensor during an Auto Query. The Allow/Deny setting indicates whether the Sensor is associated to the particular Site. The tab also displays the Site name, what setting is recommended for that Site, and the reason for the recommendation. A Deny recommendation means the Site does not appear to be related to the Sensor. An Allow recommendation means the Site’s network ranges match the Device IP. Allow can also mean the Site allows All Sensors.![Sensor Sites tab](../images/sensor-sites-associated.png)
+The Sites tab displays which Sites are associated to the selected Sensor during an Auto Query. The Allow/Deny setting indicates whether the Sensor is associated to the particular Site. The tab also displays the Site name, what setting is recommended for that Site, and the reason for the recommendation. A Deny recommendation means the Site does not appear to be related to the Sensor. An Allow recommendation means the Site’s network ranges match the Device IP. Allow can also mean the Site allows All Sensors.![Sensor Sites tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/sensor-sites-associated.png)
 
 **Status**
 
@@ -75,5 +75,5 @@ The Actions menu in the top right corner of the Sensor Information page provides
 
 ## What to do next
 
-To get started with the installation of the Discovery Sensor for OT, see [Configure the Discovery Sensor for OT](../task/configure-ot-discovery-sensor.md).
+To get started with the installation of the Discovery Sensor for OT, see [Configure the Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/configure-ot-discovery-sensor.md).
 

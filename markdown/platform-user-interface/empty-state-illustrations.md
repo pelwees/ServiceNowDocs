@@ -19,7 +19,7 @@ When a component or a part of your Next Experience web page doesn’t contain da
 
 **Important:** Empty state illustrations apply to Workspaces and are not supported in the Core UI.
 
-![No data available empty state illustration.](../image/empty-state-no-data-available.png "Example of a default empty state illustration")
+![No data available empty state illustration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/empty-state-no-data-available.png "Example of a default empty state illustration")
 
 ## Custom images
 
@@ -45,10 +45,10 @@ To override the default empty state illustrations with custom images, upload eac
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure the colors for empty state illustrations](../task/customize-colors-empty-state.md)**  
+-   **[Configure the colors for empty state illustrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/customize-colors-empty-state.md)**  
 Configure and control the colors automatically applied to empty state illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[Override empty state illustrations with custom images](../task/override-empty-state-illustrations.md)**  
+-   **[Override empty state illustrations with custom images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/override-empty-state-illustrations.md)**  
 Modify or override the default empty state illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[Working with Image styles](working-with-image-styles.md)
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 

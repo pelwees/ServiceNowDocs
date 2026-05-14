@@ -51,16 +51,16 @@ You can create a dynamic attribute store field to store one or more dynamic attr
 
 ## New dynamic store field on the Products table
 
-![A dynamic attribute store field is created for capturing attributes about products.](../image/dynamic-store-field-example.png)
+![A dynamic attribute store field is created for capturing attributes about products.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-store-field-example.png)
 
 ## What to do next
 
 Develop your dynamic schema by creating dynamic attributes and dynamic categories. You can build out the schema using either of the following methods:
 
 -   Add dynamic attributes and dynamic categories to the dynamic namespace that's currently associated with the store field you created. Refer to the following topics:
-    -   [Create a dynamic attribute](add-dynamic-attributes.md)
-    -   [Create a dynamic category](create-dynamic-category.md)
+    -   [Create a dynamic attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md)
+    -   [Create a dynamic category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-category.md)
 -   Add dynamic attributes and dynamic categories to a new dynamic namespace and then associate that namespace with the store field that you created. Refer to the following topics:
-    -   [Create a dynamic namespace](create-dynamic-namespace.md)
-    -   [Associate a dynamic attribute store with a different namespace](update-dynamic-namespace-dynamic-attribute-store.md)
+    -   [Create a dynamic namespace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-namespace.md)
+    -   [Associate a dynamic attribute store with a different namespace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/update-dynamic-namespace-dynamic-attribute-store.md)
 

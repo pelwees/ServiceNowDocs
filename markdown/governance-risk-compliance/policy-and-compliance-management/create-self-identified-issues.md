@@ -17,7 +17,7 @@ Your employees and business users within your company can self-identify an issue
 
 ## Before you begin
 
-You must download the GRC: Advanced Core application before you can use the Issue Triage featuring within Policy and Compliance Management. For more information, see [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+You must download the GRC: Advanced Core application before you can use the Issue Triage featuring within Policy and Compliance Management. For more information, see [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/task/download-grc-first-time.md).
 
 Role required: sn\_compliance.user, sn\_grc.business\_user
 
@@ -41,7 +41,7 @@ There are multiple methods you can use to report an issue using the Service Port
 
 3.  Click **Report an Issue**.
 
-    ![Report an issue](../image/sp-report-issue.png "Report an issue")
+    ![Report an issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/sp-report-issue.png "Report an issue")
 
 4.  Answer the questions presented.
 
@@ -49,7 +49,7 @@ There are multiple methods you can use to report an issue using the Service Port
 
 5.  When you have completed all of the questions, click **Submit**.
 
-    The request is submitted, and an issue triage record is created. This kicks off the [issue triage](triage-issue.md) process.
+    The request is submitted, and an issue triage record is created. This kicks off the [issue triage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/triage-issue.md) process.
 
     **Note:** You can control the options displayed in the Service Portal **GRC** option menu by returning to your instance and navigating to **Policy and Compliance** &gt; **Issue Triage** &gt; **Administration** &gt; **Properties**, and setting the **sn\_grc\_advanced.enable\_my\_issues\_hide\_my\_reported\_issues** property.
 
@@ -58,8 +58,8 @@ There are multiple methods you can use to report an issue using the Service Port
     If the property is set to **No**, the **GRC** &gt; **My Reported Issues** menu option is available, and the **My Issues** option is hidden. You can use the **My Reported Issues** menu option to create actual risk or compliance issues directly from the Service Portal.
 
 
--   **[Triage a self-identified issue](triage-issue.md)**  
+-   **[Triage a self-identified issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/triage-issue.md)**  
 After an issue has been identified and submitted by employees or business users via the Service Portal, the issue triage process begins. The actual problem is identified and assigned to the appropriate owner for prioritization and resolution.
 
-**Parent Topic:**[Manage issues in Policy and Compliance Management](../concept/manage-issues.md)
+**Parent Topic:**[Manage issues in Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/manage-issues.md)
 

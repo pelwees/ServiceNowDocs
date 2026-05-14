@@ -54,12 +54,12 @@ Role required: enterprise\_asset\_technician
 
 The Time Worked form is saved and the time card is added to the Time Worked tab of the asset repair task.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-repair-time-eam-ws.md)
 
 **Related topics**  
 
 
-[Record time worked on a repair task automatically in the Enterprise Asset Workspace](record-total-repair-time-eam-ws.md)
+[Record time worked on a repair task automatically in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/record-total-repair-time-eam-ws.md)
 
-[Pause a repair task in the Enterprise Asset Workspace](pause-repair-task-eam-ws.md)
+[Pause a repair task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pause-repair-task-eam-ws.md)
 

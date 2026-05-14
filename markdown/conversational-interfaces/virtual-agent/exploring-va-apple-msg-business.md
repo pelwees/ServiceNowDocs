@@ -21,7 +21,7 @@ Conversational Integration with Apple Messages for Business provides rich messag
 
 Customers can start a conversation from a variety of entry points. From each of these entry points, customers can launch the Apple messages app and compose a message. You can add custom buttons to a website, app, or social media page, so that customers can start a conversation with Virtual Agent or live agent. For a full overview of the options available, see the [Apple documentation](https://register.apple.com/resources/messages/messaging-documentation/message-with-customers#entry-points-overview).
 
-![Device with Apple "message us" button displayed](../images/amb-app.png "Apple message example")
+![Device with Apple "message us" button displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/amb-app.png "Apple message example")
 
 -   iMessage
 -   Apple Maps
@@ -132,8 +132,8 @@ Users or live or virtual agents can send PDF documents during a chat.
 
 To learn more about configuring and using Conversational Integration with Apple Messages for Business, see:
 
--   [Configuring Conversational Integration with Apple Messages for Business](../task/messg-apple-configure.md)
--   [Using Conversational Integration with Apple Messages for Business](messg-apple-using.md)
+-   [Configuring Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/messg-apple-configure.md)
+-   [Using Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-apple-using.md)
 
-**Parent Topic:**[Conversational Integration with Apple Messages for Business](integration-apple-mssg.md)
+**Parent Topic:**[Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integration-apple-mssg.md)
 

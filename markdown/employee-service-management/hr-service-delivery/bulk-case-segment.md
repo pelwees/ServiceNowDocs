@@ -77,7 +77,7 @@ Depending on the HR service selected when creating a bulk case request, addition
 -   Course start date
 -   Course end date
 -   Course cost
-For more information on what fields appear, see [Configure the HR case creation form for an HR service](configure-case-creation-form-for-hr-service.md). The base system only provides additional fields for the Tuition Reimbursement Inquiry and Tuition Reimbursement Request HR services.
+For more information on what fields appear, see [Configure the HR case creation form for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-creation-form-for-hr-service.md). The base system only provides additional fields for the Tuition Reimbursement Inquiry and Tuition Reimbursement Request HR services.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Determines who to create the bulk HR case for:-   Upload file:
 
     The **Bulk Case Request** form returns with the user segment group you created. If your user group segment has many cases, the status for the segment is **Processing**.
 
-    **Note:** You can still review and edit your user segment group. For more information, see [Manage a user group segment](bulk-case-segment-manage.md).
+    **Note:** You can still review and edit your user segment group. For more information, see [Manage a user group segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case-segment-manage.md).
 
 4.  When the status is **Processed**, the **Create cases** button appears at the top right and above the related list tabs.
 
@@ -129,5 +129,5 @@ Determines who to create the bulk HR case for:-   Upload file:
 6.  Select the **Cases created** tab to view a list of cases created.
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/bulk-case.md)
 

@@ -34,10 +34,10 @@ To access the system properties list, perform the following steps:
     **Note:** You can modify these values only if necessary.
 
 
-**Parent Topic:**[Source-to-Pay integrations reference](s2p-integrations-reference.md)
+**Parent Topic:**[Source-to-Pay integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/s2p-integrations-reference.md)
 
 **Related topics**  
 
 
-[Source-to-Pay Integrations glossary](../concept/source-to-pay-integrations-glossary.md#)
+[Source-to-Pay Integrations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/source-to-pay-integrations-glossary.md#)
 

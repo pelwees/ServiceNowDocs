@@ -23,11 +23,11 @@ The Operational Resilience application provides you with an attestation template
 
 If you have the sn\_oper\_res.admin role, you can also edit an existing attestation template for your own business needs. You can select and update the questions in the attestation template as shown in the following example.
 
-![Modifying questions in the template.](../image/opres-modifying-questions-att-template.png)
+![Modifying questions in the template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/opres-modifying-questions-att-template.png)
 
 You can update the questions according to your business requirements as shown in the following example.
 
-![Updating the questions.](../image/opres-modifying-att-template.png)
+![Updating the questions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/opres-modifying-att-template.png)
 
 ## Procedure
 
@@ -53,7 +53,7 @@ You can update the questions according to your business requirements as shown in
 
     7.  Add questions and set up automation in the **Questions** and **Automation** tabs respectively.
 
-        For more information, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md) and [Automate response](../../assessment-engine/concept/automate-response.md).
+        For more information, see [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-populate.md) and [Automate response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/concept/automate-response.md).
 
     8.  To publish the template, select **Publish**.
 
@@ -63,17 +63,17 @@ You can update the questions according to your business requirements as shown in
 
     2.  To create a customized template, select **New**.
 
-        ![Customized attestation template.](../image/attestation-template-new.png "Customized attestation template")
+        ![Customized attestation template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/attestation-template-new.png "Customized attestation template")
 
-        ![Attestation template.](../image/new-attestation-template.png "Attestation template")
+        ![Attestation template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-attestation-template.png "Attestation template")
 
     3.  On the Assessment Metric Type New Record form, enter the name for the attestation template and select **Submit**.
 
-        For a description of the field values on the form, see [Assessment Metric Type New Record form](../reference/attestation-template-reference.md).
+        For a description of the field values on the form, see [Assessment Metric Type New Record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/attestation-template-reference.md).
 
         The attestation template is displayed in the templates list view as shown in the following example.
 
-        ![Attestation template in the list view.](../image/attestation-template-list.png "Attestation template in the list view")
+        ![Attestation template in the list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/attestation-template-list.png "Attestation template in the list view")
 
         By selecting **Submit**, you add the Operational Resilience tables and the application users to your customized attestation template.
 

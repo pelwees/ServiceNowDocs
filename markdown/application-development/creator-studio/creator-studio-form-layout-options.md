@@ -19,7 +19,7 @@ Layout options enable you to design a form by dragging them from the Form elemen
 
 **Note:** To edit or delete a section, you must hover over the section name and then select **Section** to see the section details in the properties panel, as well as the delete icon.
 
-![Hover over the section name to edit it](../image/crs-section-edit-hover.png "Selecting a section")
+![Hover over the section name to edit it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-section-edit-hover.png "Selecting a section")
 
 <table id="table_jrj_sqr_f1c"><thead><tr><th>
 
@@ -105,5 +105,5 @@ Use the rich text editor to enhance any supplemental text with the following typ
 -   Numbered list
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Creator Studio reference](creator-studio-reference.md)
+</table>**Parent Topic:**[Creator Studio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-reference.md)
 

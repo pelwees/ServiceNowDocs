@@ -40,5 +40,5 @@ Role required: admin
 7.  Click **Update**.
 
 
-**Parent Topic:**[Creating change approval policies](../concept/using-change-approval-policies-cf.md)
+**Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-change-approval-policies-cf.md)
 

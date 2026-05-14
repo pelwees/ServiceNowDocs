@@ -21,8 +21,8 @@ Incidents are the task type configured by default with the EMR Help application.
 
 You can use the EMR Help module or the Incident module to access incidents submitted from an EMR system.
 
--   To use the incident module, see [View and resolve an EMR incident from the Incident module](emr-help-issues-resolve.md#).
--   To use the EMR Help module, see [View and resolve an EMR incident from the EMR Help module](emr-help-issues-resolve.md#).
+-   To use the incident module, see [View and resolve an EMR incident from the Incident module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-resolve.md#).
+-   To use the EMR Help module, see [View and resolve an EMR incident from the EMR Help module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-resolve.md#).
 
 ## View and resolve an EMR incident from the Incident module
 

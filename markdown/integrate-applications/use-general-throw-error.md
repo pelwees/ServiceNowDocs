@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Throw Error component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Throw Error component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 ## Procedure
 
@@ -86,12 +86,12 @@ Data In
 String
 
 </td></tr></tbody>
-</table>    ![The data and control ports of the Throw Error component connected to the corresponding ports of the other components - Try Catch and Show, on the Design surface.](../image/throw-error-comp-rpa-studio.png "Throw Error component")
+</table>    ![The data and control ports of the Throw Error component connected to the corresponding ports of the other components - Try Catch and Show, on the Design surface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/throw-error-comp-rpa-studio.png "Throw Error component")
 
 8.  To test the component, click **Run** from the Design tab.
 
-    ![Output of the Throw Error component.](../image/throw-error-comp-result-rpa-studio.png "Throw Error component result")
+    ![Output of the Throw Error component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/throw-error-comp-result-rpa-studio.png "Throw Error component result")
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

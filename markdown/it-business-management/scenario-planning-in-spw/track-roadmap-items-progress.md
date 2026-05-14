@@ -58,7 +58,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 </td></tr></tbody>
 </table>2.  Select the Tracking mode option to turn on the tracking view of the roadmap.
 
-    ![Roadmap tracking mode view.](../images/tracking-mode-on.gif)
+    ![Roadmap tracking mode view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/tracking-mode-on.gif)
 
 3.  Personalize the roadmap view in tracking mode.
 
@@ -76,14 +76,14 @@ From the Free-form Roadmaps tab, select a roadmap.
 
         |Milestone indicator with label|Milestone indicator|
         |------------------------------|-------------------|
-        |![Milestone indicator with label.](../images/milestone-with-label.png)|![Milestone indicator.](../images/milestone-icon.png)|
+        |![Milestone indicator with label.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/milestone-with-label.png)|![Milestone indicator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/milestone-icon.png)|
 
 
 ## Result
 
 The tracking view of your roadmap is displayed according to your personalization settings. A sample view of roadmap tracking is shown in the following image.
 
-![Roadmap tracking mode.](../images/roadmap-tracking-mode.png)
+![Roadmap tracking mode.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/roadmap-tracking-mode.png)
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/roadmaps-in-alignment-planner-workspace.md)
 

@@ -44,7 +44,7 @@ You can personalize Virtual Agent notifications by using parameter substitution 
 
     -   **Virtual Agent Content - Chat**: The notification is for chat channels.
     -   **Virtual Agent Content - Messaging**: The notification is for a messaging channel, such as SMS.
-    ![The Notification Content page displaying the notification content types that user can choose and create. The available options are Chat Channel, Messaging Channel, and Workspace.](../images/va-notif-content-prompt.png "Notification content")
+    ![The Notification Content page displaying the notification content types that user can choose and create. The available options are Chat Channel, Messaging Channel, and Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-notif-content-prompt.png "Notification content")
 
 4.  Provide or update the notification content:
 
@@ -163,7 +163,7 @@ Content of the message with rich text format.If you want to create a custom mess
 
 -   For record-based notifications: Expand the **Select variables** column and choose the variables for the record values to be included in the message. The variables map to records in the table used for the notification. For example: `Here's a brief description of your assigned incident:${short_description}`
 -   For event-based notifications: Specify the `${event.parm1}` and `${event.parm2}` variables to identify event-specific parameters that pass record information in the notification content.
-A notification message defined with rich text format is displayed in bold, italics, link \(url\), and unordered list.![A notification message contains italicized text and a bulleted list. It also includes a hyperlink to a Knowledge article for more information.](../images/rich-text-notif-message.png)
+A notification message defined with rich text format is displayed in bold, italics, link \(url\), and unordered list.![A notification message contains italicized text and a bulleted list. It also includes a hyperlink to a Knowledge article for more information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/rich-text-notif-message.png)
 
  When users click the URL in the message, they are redirected to the destination as per the portal configuration.
 
@@ -197,15 +197,15 @@ Image alt text
 \(For Image Cards\) Alternative text for the image to be displayed in the card.
 
 </td></tr></tbody>
-</table>        **Note:** To create or update the messaging notification details, navigate to the **Delivery Channel** related list and complete the form. For more information, see [Configure a delivery channel for Virtual Agent notification](configure-delivery-channel.md).
+</table>        **Note:** To create or update the messaging notification details, navigate to the **Delivery Channel** related list and complete the form. For more information, see [Configure a delivery channel for Virtual Agent notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-delivery-channel.md).
 
     2.  Select **Submit** or **Update**.
 
 
 ## What to do next
 
--   To configure a delivery channel, see [Configure a delivery channel for Virtual Agent notification](configure-delivery-channel.md).
--   If you're creating an actionable notification, see [Define the actions](define-va-notif-actions.md).
+-   To configure a delivery channel, see [Configure a delivery channel for Virtual Agent notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-delivery-channel.md).
+-   If you're creating an actionable notification, see [Define the actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-va-notif-actions.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-va-notifications.md)
 

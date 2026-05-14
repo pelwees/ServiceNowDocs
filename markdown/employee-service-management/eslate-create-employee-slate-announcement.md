@@ -23,7 +23,7 @@ Role required: content\_manager or content\_admin
 You can create announcements from scratch or from existing knowledge articles and catalog items in one of the following ways.
 
 -   Manual creation: Create announcements from scratch by entering all content manually in the editor view.
--   Conversational authoring: Prompt, chat, and generate announcements from existing knowledge articles or catalog items. For more information, see [Create an announcement using chat](eslate-create-announcement-with-now-assist.md)
+-   Conversational authoring: Prompt, chat, and generate announcements from existing knowledge articles or catalog items. For more information, see [Create an announcement using chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-create-announcement-with-now-assist.md)
 
 ## Procedure
 
@@ -47,7 +47,7 @@ You can create announcements from scratch or from existing knowledge articles an
 
         **Note:** Verify the focal point positioning to confirm the image renders correctly across different widget aspect ratios.
 
-    **Note:** For a list of fields, see [Employee Slate announcement form](../reference/eslate-employee-slate-announcement-fields.md).
+    **Note:** For a list of fields, see [Employee Slate announcement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/eslate-employee-slate-announcement-fields.md).
 
 3.  Select the link in one of the following ways:
 
@@ -93,7 +93,7 @@ You can also create an announcement from an existing knowledge article or catalo
 **Related topics**  
 
 
-[Create an announcement using chat](eslate-create-announcement-with-now-assist.md)
+[Create an announcement using chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-create-announcement-with-now-assist.md)
 
-[Conversational authoring for announcements](../concept/eslate-conversational-authoring-announcements.md)
+[Conversational authoring for announcements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/eslate-conversational-authoring-announcements.md)
 

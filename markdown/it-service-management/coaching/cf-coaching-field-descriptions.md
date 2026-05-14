@@ -534,5 +534,5 @@ Content for assigned users to learn.
 </td></tr></tbody>
 </table>The **Preview Message** related list shows the learning content in the context of the trainee.
 
-**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
+**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 

@@ -33,7 +33,7 @@ The feedback configuration is generic for all feedback types and definitions.
 
 3.  On the feedback configuration form, fill in the fields.
 
-    For a description of the field values, see [Feedback configuration form](../reference/ex-feedback-new-record.md).
+    For a description of the field values, see [Feedback configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ex-feedback-new-record.md).
 
 4.  Select **Submit**.
 
@@ -51,5 +51,5 @@ You’ve configured the properties for the integrated service and experience fee
 
 ## What to do next
 
-Set up the feedback definition. For more information, see [Set up the feedback definition](config-feedback-dfnition.md).
+Set up the feedback definition. For more information, see [Set up the feedback definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-feedback-dfnition.md).
 

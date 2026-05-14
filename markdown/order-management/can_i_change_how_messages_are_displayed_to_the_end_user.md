@@ -17,11 +17,11 @@ You can show messages to the end user in different formats.
 
 By default, the messages shown for fields on a layout when messaging rules are fired are shown below the field.
 
-![Field showing the default message style](../images/cpq-messages-below.png)
+![Field showing the default message style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-messages-below.png)
 
 However, you can override this behavior, such as to show an icon which can be hovered over to display the message \("tooltip"\).
 
-![Field showing the tooltip message style](../images/cpq-messages-tooltip.png)
+![Field showing the tooltip message style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-messages-tooltip.png)
 
 In the layout editor, add `{“messageDisplayType”: “<type>”}` to the raw value in the field properties \(the gear icon\) of the element where you want to add the custom message display type.
 
@@ -29,5 +29,5 @@ Accepted type values are `above`, `below`, `popup`, and `tooltip`.
 
 The following image shows a popup message \(`{“messageDisplayType”: “popup”}`\).
 
-![Field showing the popup message style](../images/cpq-messages-popup.png)
+![Field showing the popup message style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-messages-popup.png)
 

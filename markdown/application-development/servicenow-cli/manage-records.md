@@ -15,21 +15,21 @@ breadcrumb: [ServiceNow CLI, Building low-code applications, Developing your app
 
 Create, read, update, delete, and query records in your instance using the ServiceNow CLI command-line tool.
 
--   [Install the ServiceNow CLI](download-cli.md)
--   [Configuring and managing your ServiceNow CLI connection profiles](configure-profile.md)
+-   [Install the ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/download-cli.md)
+-   [Configuring and managing your ServiceNow CLI connection profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/configure-profile.md)
 
 **Note:** To perform record operations, install the CLI Metadata application from the ServiceNow Store on the instance you want to connect to.
 
--   **[Create a record](create-record.md)**  
+-   **[Create a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/create-record.md)**  
 Inserts a single record in a specified table.
--   **[Delete a record](delete-record.md)**  
+-   **[Delete a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/delete-record.md)**  
 Deletes the specified record from the specified table.
--   **[Get a record](get-record.md)**  
+-   **[Get a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/get-record.md)**  
 Retrieves a single record based on the specified sys\_id from the specified table.
--   **[Query records](query-record.md)**  
+-   **[Query records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/query-record.md)**  
 Retrieves multiple records from a specified table.
--   **[Update a record](update-record.md)**  
+-   **[Update a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/update-record.md)**  
 Updates the specified record with the given data attributes.
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/../concept/servicenow-cli.md)
 

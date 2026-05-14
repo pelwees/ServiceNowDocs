@@ -52,5 +52,5 @@ To enable draft authoring for existing tables, ensure the decision table has no 
 8.  Select **Publish**.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/using-decision-builder.md)
 

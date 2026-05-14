@@ -15,7 +15,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Approval Info widget works in tandem with the Approval widget to display details about the approval request. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Approval Info widget](../image/WidgetApprovalInfo.png "Approval Info widget")
+![Approval Info widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetApprovalInfo.png "Approval Info widget")
 
 ## Instance options
 
@@ -23,14 +23,14 @@ The Approval Info widget works in tandem with the Approval widget to display det
 |-----|-----------|
 |Bootstrap color|Color scheme for the widget. The default colors are defined by the portal theme, but if you want the instance to have a specific color, select the option from the list.|
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

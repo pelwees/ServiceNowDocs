@@ -71,5 +71,5 @@ The Agent Efficiency criterion is created or modifications saved.
 
 ## What to do next
 
-[Create or modify an Agent Efficiency determination rule](create-or-modify-agent-efficiency-determination-rule.md)
+[Create or modify an Agent Efficiency determination rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-or-modify-agent-efficiency-determination-rule.md)
 

@@ -27,7 +27,7 @@ You can associate one record with multiple different records. For example, you c
 
 1.  Select the project for which you want to associate one RIDAC entry to another.
 
-    For information on how to navigate to a Project in the Project Workspace, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information on how to navigate to a Project in the Project Workspace, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the RIDAC page of the project by selecting **RIDAC** from the list.
 
@@ -46,5 +46,5 @@ You can associate one record with multiple different records. For example, you c
 7.  Select **OK**.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

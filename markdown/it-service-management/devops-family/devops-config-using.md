@@ -17,7 +17,7 @@ The developer, or app engineer, role uses DevOps Config, once it's installed and
 
 **Important:** DevOps Config is now deprecated and no longer supported or available for new activation.
 
-![DevOps Config use flow](../image/devops-config-use.png)
+![DevOps Config use flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-use.png)
 
 Consumption process:
 

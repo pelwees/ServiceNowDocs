@@ -24,7 +24,7 @@ Integrate the ServiceNow instance and your Pluralsight Skills account using an A
 
 ## About this task
 
-This task enables you to integrate your ServiceNow instance with the Pluralsight host. See the flow, as given in the image below.![Flow to set connection and credential record for Pluralsight spoke.](../image/conn-cred-record-pluralsight.png)
+This task enables you to integrate your ServiceNow instance with the Pluralsight host. See the flow, as given in the image below.![Flow to set connection and credential record for Pluralsight spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conn-cred-record-pluralsight.png)
 
 ## Procedure
 
@@ -36,21 +36,21 @@ This task enables you to integrate your ServiceNow instance with the Pluralsight
 
     3.  Click the [Pluralsight Developer Portal](https://developer.pluralsight.com/) link.
 
-        ![Link to the Pluralsight Developer Portal](../image/pluralsight-dev-portal.png)
+        ![Link to the Pluralsight Developer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-dev-portal.png)
 
     4.  In the [Pluralsight Developer Portal](https://developer.pluralsight.com/), click the **Manage Keys** tab.
 
     5.  Click **Add Api Key**.
 
-        ![Add API Key](../image/pluralsight-add-api.png)
+        ![Add API Key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-add-api.png)
 
     6.  On the form, fill the fields and provide write permissions to the API Key.
 
-        ![Add API Key](../image/pluralsight-api-key.png)
+        ![Add API Key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-api-key.png)
 
     7.  Copy the API Key for later use.
 
-        ![Copy the API key](../image/pluralsight-copy-api-key.png)
+        ![Copy the API key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-copy-api-key.png)
 
 2.  Log in to your ServiceNow instance.
 
@@ -64,12 +64,12 @@ This task enables you to integrate your ServiceNow instance with the Pluralsight
 
     -   To configure the default connection and credential alias record that is shipped along with the Pluralsight spoke, click **View Details**.
 
-        ![Pluralsight connection.](../image/pluralsight-connection.png)
+        ![Pluralsight connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-connection.png)
 
-    -   To manage more than one Pluralsight spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Pluralsight spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Configure button for configuring Pluralsight spoke connection and credentials.](../image/configure-button-pluralsight-conn-cred.png)
+    ![Configure button for configuring Pluralsight spoke connection and credentials.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/configure-button-pluralsight-conn-cred.png)
 
 7.  On the Configure Connection form, fill the values,
 
@@ -79,7 +79,7 @@ This task enables you to integrate your ServiceNow instance with the Pluralsight
     |Connection URL|The URL to the Pluralsight skills account. Enter `https://paas-api.pluralsight.com/`|
     |API Key|API key generated earlier from the Pluralsight developers portal.|
 
-    ![Configure the default connection.](../image/pluralsight-conf-template.png)
+    ![Configure the default connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pluralsight-conf-template.png)
 
 8.  Click **Configure Connection**.
 

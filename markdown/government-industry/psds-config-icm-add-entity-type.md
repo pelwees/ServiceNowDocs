@@ -66,5 +66,5 @@ A new entity type table has now been created and is displayed in the Entity Mana
 
 ## What to do next
 
-Add an entity to the case using this configuration. For more information on adding an entity to a case, see [Add entities to an investigative case using Investigative Case Management Entity Management](psds-using-icm-add-entities.md#).
+Add an entity to the case using this configuration. For more information on adding an entity to a case, see [Add entities to an investigative case using Investigative Case Management Entity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md#).
 

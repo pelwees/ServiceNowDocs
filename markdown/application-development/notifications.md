@@ -47,5 +47,5 @@ ServiceNow uses email watermarks to correctly process user responses to notifica
 
 The [Troubleshooting Outbound Email](https://hi.service-now.com/kb_view.do?sysparm_article=KB0521382) knowledge base article provides troubleshooting steps for the most common notification issues. Log in to the HI portal \([https://hi.service-now.com](https://hi.service-now.com/)\) to access the article.
 
-**Parent Topic:**[Create design elements](create-design-elements.md)
+**Parent Topic:**[Create design elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-design-elements.md)
 

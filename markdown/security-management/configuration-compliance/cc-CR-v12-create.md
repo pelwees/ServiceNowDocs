@@ -40,9 +40,9 @@ You can create, approve, implement, review, and close change requests directly f
 
 The following image illustrates the basic flow for creating a change request from a remediation task. The detailed steps for this flow follow the image.
 
-![States for remediation tasks for creating a change request](../image/cc-CR-CHG.png)
+![States for remediation tasks for creating a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/cc-CR-CHG.png)
 
-Starting with version 19.0 of Vulnerability Response, you can create change requests for Remediation Tasks from the IT Remediation Workspace. For more information, see [Create a change request in the IT Remediation Workspace](../../vulnerability-response/task/vr-ws-CRs.md).
+Starting with version 19.0 of Vulnerability Response, you can create change requests for Remediation Tasks from the IT Remediation Workspace. For more information, see [Create a change request in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../vulnerability-response/task/vr-ws-CRs.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -155,7 +155,7 @@ A pre-authorized, low-risk change request that is frequently implemented. Approv
 
     After the change request is created, the test result group moves to the **Awaiting Implementation** state. After the change request for this remediation task is resolved, if there are no other open change requests associated with this remediation task, the remediation task is also moved to the **Resolved** state.
 
-    See [State synchronization between change requests and remediation tasks](cc-cr-state-synch.md) for more information.
+    See [State synchronization between change requests and remediation tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-cr-state-synch.md) for more information.
 
     **Note:** You can still manually move change requests and remediation tasks through the states of their life cycles on their respective records with state synchronization enabled, but when the system registers that a change request has changed its state, or you add a change request or remove it from a remediation task, state synchronization potentially can override your manual intervention. However, change requests states do not automatically move the remediation task from the `Closed` or `Deferred` states.
 

@@ -29,5 +29,5 @@ var rightsForDevice = -1;
 }]]></script>
 ```
 
-**Parent Topic:**[Add a custom license metric](../task/add-custom-license-metric.md)
+**Parent Topic:**[Add a custom license metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/add-custom-license-metric.md)
 

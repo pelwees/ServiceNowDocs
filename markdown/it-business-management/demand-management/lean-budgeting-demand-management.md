@@ -17,7 +17,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 ## Before you begin
 
--   [Enable lean budgeting for demands](config-investment-budget-demand.md)
+-   [Enable lean budgeting for demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/config-investment-budget-demand.md)
 -   Role required: sn\_invst\_pln.sn\_spm\_funding\_user
 
     Any user role with this specific role attached can add or manage the investment budgets.
@@ -33,7 +33,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 4.  On the Investment Budget form, fill in the fields.
 
-    For more information about the fields and their description, see [Investment Budget form](../reference/investment-budget-form.md).
+    For more information about the fields and their description, see [Investment Budget form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/investment-budget-form.md).
 
 5.  Select **Submit**.
 
@@ -42,5 +42,5 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 The allocated budget for a fiscal period is displayed in the Investment Budget related list.
 
-**Parent Topic:**[Enable lean budgeting for demands](config-investment-budget-demand.md)
+**Parent Topic:**[Enable lean budgeting for demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/config-investment-budget-demand.md)
 

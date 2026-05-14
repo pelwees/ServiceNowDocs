@@ -46,5 +46,5 @@ Role required: admin
     After the script completes, the script-completed page displays the execution logs followed by a success message.
 
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/configure-cbs.md)
 

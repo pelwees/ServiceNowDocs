@@ -19,7 +19,7 @@ The homepage provides a workspace with widgets and shortcuts relevant to your da
 
 Widget content is dynamically updated to reflect current priorities, pending tasks, and relevant announcements. The page provides a starting point for accessing all the capabilities and services.
 
-![Employee slate - what you can do](../images/es-conversation-first.png "Conversation-first employee experience")
+![Employee slate - what you can do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-conversation-first.png "Conversation-first employee experience")
 
 ## Employee Slate feature summary
 
@@ -38,9 +38,9 @@ Employee Slate helps employees with full spectrum for daily work routines:
 |Applications|Access business applications and tools|Launch needed applications without switching contexts|
 |Communications|Stay informed about announcements, news, and org updates|Keep up with organizational changes and company news|
 
-Review the AI-first experience and capabilities from [Conversation-first experience in Employee Slate](eslate-conversation-first.md).
+Review the AI-first experience and capabilities from [Conversation-first experience in Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-conversation-first.md).
 
--   For more information on getting started, see [Get started with Employee Slate](eslate-getting-started-employee-slate.md).
--   For roles and persona journey, see [Persona journeys in Employee Slate](eslate-role-based-productivity.md).
--   See the sample prompts that you can use across Employee Slate, see [Employee Slate prompt library](../reference/employee-slate-prompt-library.md).
+-   For more information on getting started, see [Get started with Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-getting-started-employee-slate.md).
+-   For roles and persona journey, see [Persona journeys in Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-role-based-productivity.md).
+-   See the sample prompts that you can use across Employee Slate, see [Employee Slate prompt library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/employee-slate-prompt-library.md).
 

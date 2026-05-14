@@ -19,13 +19,13 @@ Create software models to record SAP product information.
 
 Role required: sam\_user
 
-**Important:** You can create software models in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on creating software models in the Software Asset Management classic application. For details on creating software models in the Software Asset Workspace, see [Create a software model in the Software Asset Workspace](create-swmodels-workspace.md).
+**Important:** You can create software models in both the Software Asset Management classic application and the Software Asset Workspace. The following steps provide details on creating software models in the Software Asset Management classic application. For details on creating software models in the Software Asset Workspace, see [Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md).
 
 ## About this task
 
 Software models are automatically created for engines and license metrics that are pulled from your SAP systems. You can manually create additional software models for SAP products as needed.
 
-The following steps describe information that is specific to SAP. For general instructions on creating software models, see [Create software models in Software Asset Management classic](record-terms-software-licenses.md).
+The following steps describe information that is specific to SAP. For general instructions on creating software models, see [Create software models in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/record-terms-software-licenses.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ The following steps describe information that is specific to SAP. For general in
 
 2.  On the form, fill in the fields.
 
-    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all software model fields, see [Software model fields](../reference/software-model-fields.md).
+    **Note:** Only the fields that are specific to SAP software models are shown below. For detailed descriptions of all software model fields, see [Software model fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md).
 
 <table id="table_nr2_nd1_y4"><thead><tr><th>
 
@@ -89,40 +89,40 @@ Some SAP engines allow a certain amount of unlicensed usage before your licence 
 
 ## What to do next
 
-[Create a software entitlement](create-entitlement-sap.md) to record your licenses for the software model.
+[Create a software entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md) to record your licenses for the software model.
 
-**Parent Topic:**[Software Asset Management publisher pack for SAP](../concept/sap-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sap-publisher-pack.md)
 
 **Related topics**  
 
 
-[Tables installed with the SAP publisher pack](../concept/component-installed-sap-plugin.md)
+[Tables installed with the SAP publisher pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/component-installed-sap-plugin.md)
 
-[Deploy the ABAP program for SAP](import-abap-program-sap.md)
+[Deploy the ABAP program for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-abap-program-sap.md)
 
-[Establish an SAP connection using basic authentication](add-sap-connection.md)
+[Establish an SAP connection using basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sap-connection.md)
 
-[Establish an SAP connection using OAuth 2.0](add-sap-connection-oauth.md)
+[Establish an SAP connection using OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-sap-connection-oauth.md)
 
-[Create entitlements for SAP](create-entitlement-sap.md)
+[Create entitlements for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md)
 
-[Create a custom SAP named user type](create-named-user.md)
+[Create a custom SAP named user type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-named-user.md)
 
-[Map a role to a named user type](create-named-user-type-role-mapping.md)
+[Map a role to a named user type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-named-user-type-role-mapping.md)
 
-[Create custom SAP price lists](create-sap-pricelist.md)
+[Create custom SAP price lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sap-pricelist.md)
 
-[Import custom SAP named user types](import-custom-sap-named-user-type.md)
+[Import custom SAP named user types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-custom-sap-named-user-type.md)
 
-[Import custom SAP price lists](import-custom-sap-price-list.md)
+[Import custom SAP price lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-custom-sap-price-list.md)
 
-[SAP USMM-based optimization](../concept/usmm-optimization.md)
+[SAP USMM-based optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/usmm-optimization.md)
 
-[User transaction activity for named user types](../concept/sap-named-user-transaction-activity.md)
+[User transaction activity for named user types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sap-named-user-transaction-activity.md)
 
-[Self-declaring SAP engine license usage](../concept/self-declaring-sap-engine-usage.md)
+[Self-declaring SAP engine license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/self-declaring-sap-engine-usage.md)
 
-[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](../reference/dashboard-sap.md)
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/dashboard-sap.md)
 
-[Publisher overview for SAP in the Software Asset Workspace](../reference/publisher-overview-sap.md)
+[Publisher overview for SAP in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/publisher-overview-sap.md)
 

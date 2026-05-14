@@ -37,7 +37,7 @@ Role required: sn\_sec\_tisc.admin
 
 6.  Select the required implementation\(s\) from the list.
 
-    ![Run Threat lookup](../image/tisc-observable-run-threat-lookup-modal.png)
+    ![Run Threat lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-observable-run-threat-lookup-modal.png)
 
 7.  Click **Submit**.
 
@@ -49,5 +49,5 @@ Role required: sn\_sec\_tisc.admin
     -   The enrichment results pushed from SIR workspace can be found in the **Enrichment Results** tab of that corresponding Observables details page in TISC Workspace.
     -   The enrichment results pushed from SIR workspace can be identified using **Source** field of the enrichment result table.
 
-**Parent Topic:**[Run Enrichment operations in TISC](tisc-unified-experience-capabilities-and-modal-screens.md)
+**Parent Topic:**[Run Enrichment operations in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-unified-experience-capabilities-and-modal-screens.md)
 

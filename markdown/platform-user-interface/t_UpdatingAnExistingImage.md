@@ -34,12 +34,12 @@ Role required: image\_admin or content\_admin
     **Note:** If the new image does not appear as expected, clear the browser cache.
 
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 
 
-[Upload one or more images](upload-multiple-images.md)
+[Upload one or more images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-multiple-images.md)
 
-[Restrict file extensions](restrict-file-extensions.md)
+[Restrict file extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/restrict-file-extensions.md)
 

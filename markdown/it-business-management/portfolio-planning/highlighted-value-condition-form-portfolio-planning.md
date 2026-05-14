@@ -57,7 +57,7 @@ Order in which this color appears on the legend in the Hierarchy view of the Pri
 
  For example, for the Planning Status column, the value **New** is given the order 1.
 
- ![Hierarchy view legend](../../alignment-planner-workspace/images/hierarchy-legend.png)
+ ![Hierarchy view legend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/hierarchy-legend.png)
 
 </td></tr><tr><td>
 
@@ -108,5 +108,5 @@ Value Override
 Custom display text that replaces the actual field value in the view. When specified, the override text appears instead of the stored value.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Portfolio Planning](form-field-information-for-portfolio-planning.md)
+</table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 

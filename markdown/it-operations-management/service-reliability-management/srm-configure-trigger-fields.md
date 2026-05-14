@@ -79,11 +79,11 @@ Supported fields
 
 ## What to do next
 
-To set up an escalation trigger, see [Create an escalation trigger for an SRM team](sr-trigger-escalation-policy.md).
+To set up an escalation trigger, see [Create an escalation trigger for an SRM team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-trigger-escalation-policy.md).
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/configuring-service-reliability-management.md)
 
-**Previous topic:**[Approve a change request for SRM](sr-approve-change-req.md)
+**Previous topic:**[Approve a change request for SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-approve-change-req.md)
 
-**Next topic:**[Configure Twilio to send notifications in SRM](sr-add-twilio-key.md)
+**Next topic:**[Configure Twilio to send notifications in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-twilio-key.md)
 

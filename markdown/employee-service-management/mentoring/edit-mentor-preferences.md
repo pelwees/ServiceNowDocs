@@ -29,7 +29,7 @@ Role required: none
 
 3.  On the Mentor preferences form, fill in the fields.
 
-    For a description of the field values, see [Mentor preferences form](../reference/edit-mentor-prf-form.md).
+    For a description of the field values, see [Mentor preferences form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/../reference/edit-mentor-prf-form.md).
 
 4.  Select **Save and close**.
 

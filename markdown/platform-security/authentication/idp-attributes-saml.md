@@ -17,10 +17,10 @@ Use the Identity Provider attributes that are received from the Security Asserti
 
 To fetch all the attributes from an IdP through the SAML response, you should perform a test connection with the IdP. After a successful test connection, the attributes are added in a new tab in the Identity Provider configuration page.
 
--   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](session-access.md).
--   IdP attribute filter criteria can be used in [Post-authentication context](post-auth-context.md), [Zero Trust Access \(ZTA\)](session-access.md) session relegation, and [Multi-factor Authentication context](mfa-auth-context.md).
+-   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/session-access.md).
+-   IdP attribute filter criteria can be used in [Post-authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md), [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/session-access.md) session relegation, and [Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 
-![Identity Provider](../images/identity-provider-attributes.png)
+![Identity Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/identity-provider-attributes.png)
 
 You can also add attributes by selecting **New** from the Identity Provider Attributes section and use those attributes for Adaptive Authentication by setting it to `true`.
 

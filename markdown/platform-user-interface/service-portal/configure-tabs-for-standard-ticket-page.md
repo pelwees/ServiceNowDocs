@@ -128,14 +128,14 @@ Comma-separated list of tab widget parameters. This field appears only when **Cu
 </table>5.  On the Ticket Configuration form, select **Update**.
 
 
-**Parent Topic:**[Configure the standard ticket page](configure-st-page.md)
+**Parent Topic:**[Configure the standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)
 
 **Related topics**  
 
 
-[Configure the standard ticket page](configure-st-page.md)
+[Configure the standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)
 
-[Enable instance options for the Activity tab](enable-instanceop-activity.md)
+[Enable instance options for the Activity tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-instanceop-activity.md)
 
-[Configure actions for standard ticket page](configure-actions-for-standard-ticket-page.md)
+[Configure actions for standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-actions-for-standard-ticket-page.md)
 

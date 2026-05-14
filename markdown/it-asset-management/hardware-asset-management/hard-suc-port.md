@@ -19,15 +19,15 @@ Success portal helps you perform the following actions:
 
 -   **Track the progress of your HAM application through success goals**
 
-    Success goals help you analyze the value that you get out of your hardware assets and calculate your projected savings. Create success goals for the assets that you want to track. For more information about creating a success goal, see [Create a success goal for Hardware Asset Management](../task/create-suc-goal.md).
+    Success goals help you analyze the value that you get out of your hardware assets and calculate your projected savings. Create success goals for the assets that you want to track. For more information about creating a success goal, see [Create a success goal for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-suc-goal.md).
 
 -   **Track the progress of your success goals**
 
-    Track the success of your goals by creating success activities for the goals. For more information, see [Create success activities for HAM success goals](../task/create-suc-act-hw.md).
+    Track the success of your goals by creating success activities for the goals. For more information, see [Create success activities for HAM success goals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-suc-act-hw.md).
 
 -   **Mature your HAM program with predefined maturity items**
 
-    The program maturity is categorized into Crawl, Walk, and Run stages to help you improve the value return of your HAM application within your organization. You can link these maturity items to success goals and use the HAM application efficiently. For more information, see [View all maturity items for Hardware Asset Management](../task/view-ham-maturity-items.md).
+    The program maturity is categorized into Crawl, Walk, and Run stages to help you improve the value return of your HAM application within your organization. You can link these maturity items to success goals and use the HAM application efficiently. For more information, see [View all maturity items for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-ham-maturity-items.md).
 
     **Important:** The HAM maturity program is available with the Hardware Asset Management 10.0.0 version or later.
 
@@ -43,7 +43,7 @@ Access the Success portal by navigating to **Hardware Asset Workspace** &gt; **S
 
 The Success portal supports domain separation when the Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\) is activated. To filter the data by domain, select a domain at the top of the dashboard.
 
-![Hardware asset success portal view in Hardware Asset Workspace.](../image/hw-asset-suc-port.png)
+![Hardware asset success portal view in Hardware Asset Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/hw-asset-suc-port.png)
 
 To narrow down your results, you can filter by time period.
 
@@ -61,7 +61,7 @@ HAM maturity
 
 </td><td>
 
-Current stage of your HAM program maturity such as the Crawl, Walk, or Run stage.View the maturity items of each stage by selecting **View all maturity items**. For more information, see [View all maturity items for Hardware Asset Management](../task/view-ham-maturity-items.md).
+Current stage of your HAM program maturity such as the Crawl, Walk, or Run stage.View the maturity items of each stage by selecting **View all maturity items**. For more information, see [View all maturity items for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-ham-maturity-items.md).
 
 </td></tr><tr><td>
 

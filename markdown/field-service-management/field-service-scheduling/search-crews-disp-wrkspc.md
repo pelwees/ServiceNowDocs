@@ -25,7 +25,7 @@ Role required: wm\_dispatcher
 
 2.  Select **Dispatcher Workspace**.
 
-3.  Type the search term in the **Search resources** field and select the Search icon \(![Search icon.](../image/search_icon.png)\).
+3.  Type the search term in the **Search resources** field and select the Search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/search_icon.png)\).
 
 
 ## Result

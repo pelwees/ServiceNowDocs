@@ -35,8 +35,8 @@ Role required: none
 
 5.  When you have finished entering your message, click **Post** or **Reply**.
 
-    To remove a link, click the trash can icon adjacent to the link. To make changes to an existing link, click the edit \(![Pencil](../image/Pencil.png)\) icon.
+    To remove a link, click the trash can icon adjacent to the link. To make changes to an existing link, click the edit \(![Pencil](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../image/Pencil.png)\) icon.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_PostContentInLiveFeed.md)
 

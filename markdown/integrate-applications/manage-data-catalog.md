@@ -22,14 +22,14 @@ Catalog governance tools include:
 -   Domains to group assets by business area or ownership
 -   Asset record updates to correct or supplement collected metadata
 
--   **[Update a data asset](../task/update-data-asset.md)**  
+-   **[Update a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/update-data-asset.md)**  
 Edit catalog asset metadata to add business context, improve discoverability, and provide additional information.
--   **[Create a glossary term](../task/create-glossary-term.md)**  
+-   **[Create a glossary term](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-glossary-term.md)**  
 Create glossary terms to define business concepts and provide context for data assets.
--   **[Create catalog tags](../task/create-tags-dc.md)**  
+-   **[Create catalog tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-tags-dc.md)**  
 Create tags that can be applied to data assets for classification and categorization.
--   **[Create catalog domains](../task/create-domains-dc.md)**  
+-   **[Create catalog domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-domains-dc.md)**  
 Organize data assets by creating hierarchical domain structures that represent business areas, departments, or data categories.
 
-**Parent Topic:**[Data Catalog](data-catalog.md)
+**Parent Topic:**[Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog.md)
 

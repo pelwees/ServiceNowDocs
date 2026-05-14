@@ -32,45 +32,45 @@ Users with the sn\_si.analyst role submit Block entries by requesting a block on
 
 2.  Click the **Show IoC** related link.
 
-    ![Show IoC related list](../image/show-ioc.png)
+    ![Show IoC related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/show-ioc.png)
 
 3.  In the Observables related list, select the observables you want to block and, from the **Actions on selected rows** list, select **Block Request**.
 
-    ![Block Request action](../image/action-block-request.png)
+    ![Block Request action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/action-block-request.png)
 
-4.  In the dialog box that is displayed, click the search icon \(![Magnifying glass icon](../image/magnifier.png)\)
+4.  In the dialog box that is displayed, click the search icon \(![Magnifying glass icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/magnifier.png)\)
 
-    ![Block request implementation](../image/block-request-implementation.png)
+    ![Block request implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/block-request-implementation.png)
 
 5.  From the list, select the Block List you want to attach this entry to.
 
     **Note:** For this example, the entry observable type \(IP\) should match the Block List observable type \(IP\).
 
-    ![Integration capability implementation](../image/integ-cap-implementations.png)
+    ![Integration capability implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/integ-cap-implementations.png)
 
 6.  In the Block Request dialog box with the Block List name displayed in the Implementation field, click **Block**.
 
-    ![Block Request lookup](../image/lookup-using-list.png)
+    ![Block Request lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lookup-using-list.png)
 
 7.  From the list that is displayed, select the Block List you want to attach this entry to.
 
     **Note:** For this example, the entry observable type \(IP\) should match the Block List observable type \(IP\).
 
-    ![Integration capability implementation](../image/integ-cap-implementations.png)
+    ![Integration capability implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/integ-cap-implementations.png)
 
 8.  In the Block Request dialog box with the Block List name displayed in the **Implementation** field, click **Block**.
 
-    ![Block Request lookup](../image/lookup-using-list.png)
+    ![Block Request lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lookup-using-list.png)
 
 9.  Navigate to **Check Point NGTP Integration** &gt; **Block Request List Entries**, and click **Block Request List Entries**.
 
-    ![Block request list entries](../image/pending-in-redbox.png)
+    ![Block request list entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/pending-in-redbox.png)
 
 10. In the Check Point Block Request List Entries list, click your observable in the **Entry value** column to open the record.
 
     For this example, the record for **74.125.34.95** is displayed.
 
-    ![the Check Point Block Request List Entries](../image/sys-admin-redbox.png)
+    ![the Check Point Block Request List Entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sys-admin-redbox.png)
 
     The status is Pending, the Active check box is cleared, and the work notes show that there is a request to add the observable. This Block List Entry request is ready for approval.
 

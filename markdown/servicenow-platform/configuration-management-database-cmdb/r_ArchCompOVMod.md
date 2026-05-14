@@ -69,5 +69,5 @@ The available reports are:
 |Outstanding Architecture Compliance Tasks|All follow-on tasks in the **Pending**, **Open**, or **Work in Progress** state|Follow On Task|
 |Upcoming Architecture Compliance Audits|All scheduled audits|Audit|
 
-![Architecture compliance module graphics.](../../../administer/assessments/images/ArchitectureComplianceOverview.png "Architecture Compliance module")
+![Architecture compliance module graphics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../administer/assessments/images/ArchitectureComplianceOverview.png "Architecture Compliance module")
 

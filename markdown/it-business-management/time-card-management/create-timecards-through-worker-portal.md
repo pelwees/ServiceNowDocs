@@ -17,7 +17,7 @@ After you create time cards in Time Sheet Portal, log time in the time cards.
 
 ## Before you begin
 
--   Time sheet portal supports [resource assignments created using Project Workspace](../../../product/pw-resource-management/task/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in Project Workspace and Resource Management Workspace heatmap view.
+-   Time sheet portal supports [resource assignments created using Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../../../product/pw-resource-management/task/create-resource-assignment-prj-wksp.md). Once the time cards are approved, Project Managers can view the planned vs actual hours for an assignment in Project Workspace and Resource Management Workspace heatmap view.
 -   Role required: timecard\_user
 
 ## Procedure
@@ -40,14 +40,14 @@ Steps
 
 </td><td>
 
-1.  Click ![Down arrow](../image/downarrowworkerportal.png) choice list next to **Submit**.
+1.  Click ![Down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../image/downarrowworkerportal.png) choice list next to **Submit**.
 2.  Select **Generate Time Cards**. The option also appears in the **Logged Time Cards** section when a user has no time cards for the selected week.
 
 **Note:**
 
     -   If a time card exists for a project task during the selected week, a duplicate time card is not created.
     -   Time cards are generated only for those project tasks that are in progress or planned for the selected week.
-    -   The **Allow time card reporting on** field on the [project form](../../../product/project-management/task/t_CreateAProject.md) determines the level at which the time cards are created for project tasks.
+    -   The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../../../product/project-management/task/t_CreateAProject.md) determines the level at which the time cards are created for project tasks.
 
 
 </td></tr><tr><td id="d313539e189">
@@ -56,7 +56,7 @@ Steps
 
 </td><td>
 
-1.  Click ![Down arrow](../image/downarrowworkerportal.png) choice list next to **Submit**.
+1.  Click ![Down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../image/downarrowworkerportal.png) choice list next to **Submit**.
 2.  Select **Copy from previous Time Sheet**. The option also appears in the **Logged Time Cards** section when a user has no time cards for the selected week.
 
 **Note:**
@@ -127,7 +127,7 @@ Steps
 
 </td><td>
 
-1.  Point to a row and click the more actions icon ![More actions icon](../../../product/project-portfolio-suite-with-financials/image/MoreActionsIcon.png).
+1.  Point to a row and click the more actions icon ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../../../product/project-portfolio-suite-with-financials/image/MoreActionsIcon.png).
 2.  To open the Time Card form, click **Open Form View**.
 3.  Enter hours on the time card form.
 4.  Click **Save**.
@@ -160,5 +160,5 @@ If you encounter issues with time card creation or time logging, try the followi
 
 For issues you cannot resolve, contact your system administrator or the user with the timecard\_admin role in your organization.
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/worker-portal.md)
 

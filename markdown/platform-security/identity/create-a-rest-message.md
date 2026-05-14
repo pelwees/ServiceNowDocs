@@ -129,7 +129,7 @@ POST
 
     -   You must create all the HTTP methods for the operation of the SCIM Client.
     -   A sample REST message is shipped from the base system.
-    ![REST message](../images/rest-message.png)
+    ![REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/rest-message.png)
 
 6.  Click **Submit**.
 
@@ -140,7 +140,7 @@ The REST message record is created.
 
 ## What to do next
 
-Use the REST message to create a SCIM Provider. For more information, see [Create a SCIM Provider](create-scim-provider.md).
+Use the REST message to create a SCIM Provider. For more information, see [Create a SCIM Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-provider.md).
 
 To learn more about how to create a REST message, see [Create a REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfiguringARESTMessage.md).
 

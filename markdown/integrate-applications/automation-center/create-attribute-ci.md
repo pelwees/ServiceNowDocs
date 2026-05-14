@@ -29,7 +29,7 @@ When data is sent from ServiceNow RPA and flows or any third-party vendor, the c
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Automation Attributes**.
 
@@ -91,5 +91,5 @@ Time saved after each run of the automation.
 </table>6.  Select **Update**.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

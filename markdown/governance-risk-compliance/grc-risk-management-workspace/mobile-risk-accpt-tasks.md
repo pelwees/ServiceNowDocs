@@ -25,7 +25,7 @@ Approve or reject a pending request from the list of records. Alternatively, vie
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-risk-mobileapp.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-login-risk-mobileapp.md).
 
 2.  With the Risk landing screen displayed, tap **Risk Acceptance Tasks**.
 
@@ -33,7 +33,7 @@ Approve or reject a pending request from the list of records. Alternatively, vie
 
     The Risk Acceptance Tasks screen is displayed with a list of records.
 
-3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](mobile-risk-set-filters.md) to search for records that match specific search criteria.
+3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
@@ -43,8 +43,8 @@ Approve or reject a pending request from the list of records. Alternatively, vie
 
     |Option|Description|
     |------|-----------|
-    |**Approve**|In the Comments field, enter comments. Comments are optional for approvals. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
-    |**Reject**|In the Comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
+    |**Approve**|In the Comments field, enter comments. Comments are optional for approvals. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
+    |**Reject**|In the Comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.|
 
 6.  Alternatively, with the Risk Acceptance Tasks screen displayed, follow these steps to view more details or add a work note to a record on the list.
 
@@ -70,9 +70,9 @@ Description
 
 </td><td>
 
-With the Details tab selected, to approve or reject the request, at the top left of the screen, tap the back arrow icon![back arrow icon.](../../grc-common/image/back.jpg)
+With the Details tab selected, to approve or reject the request, at the top left of the screen, tap the back arrow icon![back arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/back.jpg)
 
-two times to navigate back to the Risk Acceptance Task record. With the Risk Acceptance Task screen displayed, tap the menu icon \(![Menu icon](../../grc-common/image/mobile-top-menu.png)\) to approve or reject the request. Follow the steps described in the preceding table.
+two times to navigate back to the Risk Acceptance Task record. With the Risk Acceptance Task screen displayed, tap the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to approve or reject the request. Follow the steps described in the preceding table.
 
 </td></tr><tr><td id="d159564e256">
 
@@ -80,8 +80,8 @@ two times to navigate back to the Risk Acceptance Task record. With the Risk Acc
 
 </td><td>
 
-With the Activity Stream tab selected, follow these steps.1.  View the work notes and additional comments. To add a work note or attach a file, tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\).
-2.  Navigate back to the Risk Acceptance Task record as described in the preceding option and tap the menu icon \(![Menu icon](../../grc-common/image/mobile-top-menu.png)\) to approve or reject the request.
+With the Activity Stream tab selected, follow these steps.1.  View the work notes and additional comments. To add a work note or attach a file, tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile_instances_plus.png)\).
+2.  Navigate back to the Risk Acceptance Task record as described in the preceding option and tap the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/image/mobile-top-menu.png)\) to approve or reject the request.
 
 
 </td></tr><tr><td id="d159564e286">
@@ -99,5 +99,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Risk icon to ret
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile experience for GRC Risk Management](../concept/mobile-risk-overview.md)
+**Parent Topic:**[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/mobile-risk-overview.md)
 

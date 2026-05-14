@@ -45,15 +45,15 @@ The Packages Call Removal Tool might report some package calls used in `sa_mappi
 
 1.  Navigate to **System Definition** &gt; **Plugins**
 
-    ![Packages call removal tool 1](../../security/image/packages-call-removal-tool1.png)
+    ![Packages call removal tool 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/image/packages-call-removal-tool1.png)
 
 2.  Search for the plugin ID = **com.glide.script.packages\_call\_removal**.
 
-    ![Packages call removal tool 2](../../security/image/packages-call-removal-tool2.png)
+    ![Packages call removal tool 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/image/packages-call-removal-tool2.png)
 
 3.  Click **Activate/Upgrade** to activate the plugin.
 
-    ![Packages call removal tool 3](../../security/image/packages-call-removal-tool3.png)
+    ![Packages call removal tool 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../security/image/packages-call-removal-tool3.png)
 
 4.  To check inclusion list package calls and inclusion list member calls, complete the actions outlined in the Steps to Configure sections in [Restrict allowed Java packages \[Updated in Security Center 1.3\]](sc-java-packages-allowlist.md).
 

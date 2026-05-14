@@ -38,7 +38,7 @@ The Generic playbook consists of the following stages and each stage has its rel
     3.  Associate \(This activity is for the Orchestration tools to associate pipeline steps\)
 3.  Summary
 
-This is how a playbook with multiple capabilities looks like:![Playbook with multiple capabilities.](../image/generic-pb-onboard1.png)
+This is how a playbook with multiple capabilities looks like:![Playbook with multiple capabilities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/generic-pb-onboard1.png)
 
 ## 2. Configure Activity Definitions
 
@@ -55,9 +55,9 @@ For more information, see [Exploring Playbook](https://raw.githubusercontent.com
 
 The DevOps table **sn\_devops\_capability\_activity\_mapping** has been created to maintain associations between Activity definitions and capabilities. This table configuration is used to dynamically render the stages and activities for a tool. You can update the conditions as needed to either enable or disable a particular activity for a tool.
 
-![The Tool Capability Activity Mappings table.](../image/generic-pb-onboard2.png)
+![The Tool Capability Activity Mappings table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/generic-pb-onboard2.png)
 
-For example, tools like GitLab and JFrog don’t support data import. So you don't require the Data Import activity for such tools. In that case, you must add the logic in the condition column to return false for these types of tools. See the following image as a reference:![Example where data import logic is false.](../image/generic-pb-onboard3.png)
+For example, tools like GitLab and JFrog don’t support data import. So you don't require the Data Import activity for such tools. In that case, you must add the logic in the condition column to return false for these types of tools. See the following image as a reference:![Example where data import logic is false.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/generic-pb-onboard3.png)
 
 ## 3. Configure Activity UI for the Activity Definition
 
@@ -65,20 +65,20 @@ Playbook Activity UIs define the experience type and UI template rendered to use
 
 DevOps has the following AUIs for Create Tool activity. Except this, all other activity definitions have only one Activity UI.
 
-![DevOps AUIs.](../image/generic-pb-onboard4.png)
+![DevOps AUIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/generic-pb-onboard4.png)
 
 You can configure any one of the Activity UI based on the requirement.
 
-Identify the required activity UI and add your tool in the condition builder so that the UI gets effected in the playbook for the tool.![Override playbook activity.](../image/generic-pb-onboard5.png)
+Identify the required activity UI and add your tool in the condition builder so that the UI gets effected in the playbook for the tool.![Override playbook activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/generic-pb-onboard5.png)
 
 **Result**
 
 After completing these steps, your tool can be onboarded using the DevOps generic playbook.
 
-**Parent Topic:**[Managing DevOps Change Velocity](../concept/using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/using-devops-change-velocity.md)
 
 **Related topics**  
 
 
-[Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md)
+[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integrating-devops-change-with-third-party-tools.md)
 

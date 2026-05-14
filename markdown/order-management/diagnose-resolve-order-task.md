@@ -35,7 +35,7 @@ The order task progresses through several stages from start to closure. It begin
 
 4.  Open an order task that is in the New or Open state.
 
-    ![order task.](../image/diagnose-order-task.png)
+    ![order task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/diagnose-order-task.png)
 
 5.  Review and verify the order task.
 

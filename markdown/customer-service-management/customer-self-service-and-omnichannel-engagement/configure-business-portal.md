@@ -43,7 +43,7 @@ You can add additional self-service capabilities such as order management by ins
 -   The Business Portal Store app is automatically installed when you install the Customer Service Portal store app \(from version 24.0.0 and above\).
 -   The Consumer Portal Store app is automatically installed when you install the Consumer Service Portal store app \(from version 24.0.0 and above\).
 
-For details, see [Activate the Consumer and Customer Service Portals](activate-consumer-portal.md).
+For details, see [Activate the Consumer and Customer Service Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-consumer-portal.md).
 
 ## Procedure
 

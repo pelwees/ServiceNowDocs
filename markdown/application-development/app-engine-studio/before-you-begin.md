@@ -132,17 +132,17 @@ The Application Intake request process benefits your organization as follows:
 -   Improves planning by providing visibility into all app ideas.
 -   Provides an efficient process to filter out repetitive requests.
 
-For more information, see [Submit your idea for app development](../task/submit-intake-request.md).
+For more information, see [Submit your idea for app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/submit-intake-request.md).
 
 -   The intake request form is available through the standard Service Catalog. For information about how you can modify this form, see [Service catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md).
 -   The intake request process uses Flows in Workflow Studio to determine the approval flow. To adjust the approval flow, see [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
--   Admins review intake application requests in App Engine Management Center. For more information, see [Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md).
+-   Admins review intake application requests in App Engine Management Center. For more information, see [Managing app development using the App Engine Management Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../app-engine-management-center/concept/managing-app-development-using-aemc.md).
 
 ## Application templates
 
 An application template provides predefined content to support a certain purpose. For example, the Travel Request template provides application content for submitting and approving employee travel requests. Choose the template that most closely fits your application goals.
 
-If the available templates don't fit your application goals, you can [create your app from scratch](../task/create-app-scratch.md) and control all aspects of the development process.
+If the available templates don't fit your application goals, you can [create your app from scratch](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/create-app-scratch.md) and control all aspects of the development process.
 
 ## Additional resources for planning your app development
 
@@ -163,5 +163,5 @@ ServiceNow provides additional resources on planning your app development
 ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg) [Launching an effective Citizen Development program](https://www.servicenow.com/demo/demonow-detail.html?videoid=launching-an-effective-citizen-development-program)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Building apps in App Engine Studio](aes-app-creation.md)
+</table>**Parent Topic:**[Building apps in App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-app-creation.md)
 

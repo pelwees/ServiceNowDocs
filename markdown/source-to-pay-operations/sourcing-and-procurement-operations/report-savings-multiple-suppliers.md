@@ -28,19 +28,19 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing events**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing events**.
 3.  Open the sourcing event that is in the Requires Decision state.
 
-    ![Sourcing event in Requires Decision state.](../image/pipeline-award-multiple.png)
+    ![Sourcing event in Requires Decision state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-multiple.png)
 
 4.  Select **Award multiple suppliers**.
 
     The Award suppliers for sourcing event page is displayed.
 
-    ![Review selection option.](../image/pipeline-award-suppliers.png)
+    ![Review selection option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-suppliers.png)
 
 5.  Select the supplier for each product you want to purchase.
 
@@ -48,13 +48,13 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
     The Review selection dialog box is displayed.
 
-    ![Review selection page where you select the supplier for each product.](../image/pipeline-review-selection.png)
+    ![Review selection page where you select the supplier for each product.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-review-selection.png)
 
 7.  Select **Next**.
 
 8.  Enter the spend and savings data in the **Final spend**, **Annual cost avoidance**, **Lost savings**, and **Other savings** fields.
 
-    ![Review financials when awarding suppliers to a sourcing event.](../image/pipeline-award-supp-financials.png)
+    ![Review financials when awarding suppliers to a sourcing event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-supp-financials.png)
 
     **Note:** The Review financials modal is displayed only if the sourcing event is associated with a pipeline project.
 
@@ -69,5 +69,5 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
 The sourcing event is moved to Closed Complete, with the individual negotiations under it moved to Closed Decided or Closed Rejected based on your selection. The awarded sourcing requests are moved to Closed Complete, with purchase requisitions automatically created for the purchase lines. In addition, the spend and savings data is updated in the associated pipeline project.
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-pipeline-sourcing-mgmt.md)
 

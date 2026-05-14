@@ -29,7 +29,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
     **Note:** Submitting an exercise or actual event for approval when an activated plan is still in the **Open** state results in an error message: `All activated plans must be closed before submitting the event for an approval`.
 
-    ![Error message.](../image/event-error-msg.png)
+    ![Error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-error-msg.png)
 
 5.  Select **Submit for approval**.
 
@@ -46,5 +46,5 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     You can update the state of the event to **Closed Incomplete**.
 
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/perform-tasks-to-manage-crisis-events.md)
 

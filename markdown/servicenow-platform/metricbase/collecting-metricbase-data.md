@@ -21,25 +21,25 @@ In MetricBase, you specify the metric that you want to store and how often to co
 
 MetricBase collects the metrics of how often you send data and what the aggregation of that data is, for example, maximum, minimum, average, or last. This data is called time-series data. For example, if you collect drone speeds on an instance, you can send the average drone speed for every two minutes to the MetricBase database. You can also collect altitude and battery life. MetricBase stores each metric as a column in its database.
 
-![MetricBase and instance relationship](../image/mb-glide-relationship.png "Sending information from an instance to a MetricBase server")
+![MetricBase and instance relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/mb-glide-relationship.png "Sending information from an instance to a MetricBase server")
 
--   [Create a time-series definition in MetricBase](../task/set-up-data-monitoring.md)
+-   [Create a time-series definition in MetricBase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../task/set-up-data-monitoring.md)
 
     Specify the metric that you want to store, how often to collect it, and how long to store it in MetricBase.
 
--   [MetricBase retention policy schedules](metricbase-retention-policy-schedules.md)
+-   [MetricBase retention policy schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase-retention-policy-schedules.md)
 
     Specify how long MetricBase stores the time-series data in the MetricBase database.
 
--   [MetricBase retention policies](../reference/metricbase-retention-policies.md)
+-   [MetricBase retention policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../reference/metricbase-retention-policies.md)
 
     Retain data in MetricBase according to retention policies.
 
--   [Accessing MetricBase data](accessing-metricbase-data.md)
+-   [Accessing MetricBase data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/accessing-metricbase-data.md)
 
     Access the time-series data that you sent to the MetricBase database in the way that is convenient to you.
 
--   [Detecting anomalies in MetricBase data using predictive models](metricbase-predictive-models.md)
+-   [Detecting anomalies in MetricBase data using predictive models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase-predictive-models.md)
 
     Distinguish normal data from anomalous data using predictive models.
 

@@ -35,18 +35,18 @@ Users receive mandatory notifications even if they disable notifications.
 
     **Note:** This field does not display by default.
 
-    1.  Select the context menu icon \(![Context menu icon](../../form-administration/image/ContextMenu.png)\) and select **Configure** &gt; **Form Layout.**
+    1.  Select the context menu icon \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/image/ContextMenu.png)\) and select **Configure** &gt; **Form Layout.**
 
     2.  Select the **Mandatory** field and the order in which you want the field to appear.
 
     3.  Select **Save**.
 
-        For more information about configuring the form layout, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+        For more information about configuring the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/concept/configure-form-layout.md#).
 
 4.  Select the **Mandatory** check box.
 
     When a user checks their notification preferences, the control button for the mandatory notification is on and is read only.
 
 
-**Parent Topic:**[Subscription-based notifications](../concept/c_SubscriptionBasedNotifications.md)
+**Parent Topic:**[Subscription-based notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_SubscriptionBasedNotifications.md)
 

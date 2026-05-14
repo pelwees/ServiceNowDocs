@@ -107,6 +107,6 @@ Select the type of records.
 6.  Click **Delete** if you wish to delete any expiration rule.
 
 
--   **[Expiration rules for source records](../concept/tisc-expiration-source.md)**  
+-   **[Expiration rules for source records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-expiration-source.md)**  
 Expiration rules are basically helpful to set the expiration time for the source records. The aggregate record inherits the highest expiration time from its corresponding sources records.
 

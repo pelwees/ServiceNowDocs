@@ -74,5 +74,5 @@ If there are multiple vaccines booked under the same appointment and if the clin
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Vaccine Administration Management](using-vaccine-administration-management.md)
+</table>**Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 

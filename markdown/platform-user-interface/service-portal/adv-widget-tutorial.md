@@ -22,7 +22,7 @@ In this tutorial, you will create the Quick Order widget. This widget:
 -   Includes an embedded SC Catalog Item widget, allowing the user to view and order items within the Quick Order widget.
 -   Uses an Angular Provider to display a category icon beside each queried item.
 
-**Parent Topic:**[Developing custom widgets](widget-dev-guide.md)
+**Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
 ## Create a widget and set up a template
 
@@ -76,7 +76,7 @@ Role required: admin or sp\_admin
 
     Your widget template displays on the test page.
 
-    ![Widget rendering on a page](../image/quick-order-test.png)
+    ![Widget rendering on a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/quick-order-test.png)
 
 
 ## Add a server script to query an instance table
@@ -166,7 +166,7 @@ Role required: admin or sp\_admin
 
     As you type in the search box, matching catalog items appear. Try searching for **ipad**.
 
-    ![Search displays results for iPad.](../image/widget-tutorial-search.png)
+    ![Search displays results for iPad.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/widget-tutorial-search.png)
 
 
 ## Manage the empty state of a widget
@@ -274,7 +274,7 @@ Because no search has been executed when the widget initializes, the server **in
 
     The widget displays popular items to the user prior to any search input.
 
-    ![A search box with the text "Start typing here to search the list of catalog items".](../image/empty-state.png)
+    ![A search box with the text "Start typing here to search the list of catalog items".](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/empty-state.png)
 
 
 ## Embed an existing widget
@@ -307,7 +307,7 @@ Instead of duplicating code, you can embed widgets to leverage pre-existing func
 
         Notice that the **data** object includes a sys\_id property populated by either the **input** or **options** objects. If neither **input** nor **options** include a sys\_id, the [$sp.getParameter\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideSPScriptableScopedAPI.md) method retrieves the sys\_id from the request query string.
 
-        ![Sample server script using an If Else statement to retrieve the sys_id.](../image/embedded-widget.png)
+        ![Sample server script using an If Else statement to retrieve the sys_id.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/embedded-widget.png)
 
         To populate the **input** object, you can pass a catalog item sys\_id from the Quick Order widget client script.
 
@@ -394,7 +394,7 @@ Instead of duplicating code, you can embed widgets to leverage pre-existing func
 
     When you select a search result, the item opens in the embedded SC Catalog Item widget.
 
-    ![Test page showing a selected item displaying in an embedded widget.](../image/embed-widget-result.png)
+    ![Test page showing a selected item displaying in an embedded widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/embed-widget-result.png)
 
 
 ## Create a reusable directive and add it to a widget

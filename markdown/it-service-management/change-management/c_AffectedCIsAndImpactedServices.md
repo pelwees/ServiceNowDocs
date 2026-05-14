@@ -31,7 +31,7 @@ The **Impacted Services/CIs** and **Service Offering** related lists represents 
 -   Refresh Impacted Services was only available for Change Request table. From this release, it is available for tables that extend the Task table. The list of these tables is driven by the **com.snc.task.refresh\_impacted\_services** property. This UI action populates the Impacted Services/CIs related list based on the primary CI i.e. the CI that is mentioned on the form.
 -   The Impacted Services list includes application services discovered by Service Mapping.
 
-**Parent Topic:**[Process a change request](../task/t_ProcessAChangeRequest.md)
+**Parent Topic:**[Process a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_ProcessAChangeRequest.md)
 
 ## Add affected CIs to change requests using dependency views
 
@@ -96,7 +96,7 @@ When you create a change request, you can add multiple CIs to that change reques
 
 2.  In either the **Affected CIs** or **Impacted Services/CIs** related list, select **Add**.
 
-    ![Add CIs](../image/Create-Change-select-CIs-0.png)
+    ![Add CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/Create-Change-select-CIs-0.png)
 
 3.  In the Add Affected CIS dialog box, select one or more configuration items from the list.
 
@@ -112,7 +112,7 @@ When you create a change request, you can add multiple CIs to that change reques
 **Related topics**  
 
 
-[Mass Update CI](bulk-ci-change.md)
+[Mass Update CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/bulk-ci-change.md)
 
 ## Add an affected CI with a calculated application service
 

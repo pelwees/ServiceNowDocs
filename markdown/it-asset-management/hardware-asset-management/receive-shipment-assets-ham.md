@@ -71,5 +71,5 @@ If the asset details are valid, the following changes occur:
 
 **Note:** If any of the asset details are invalid, an error message in shown in the **Alert** column for the corresponding asset record. You should resolve the error before receiving the assets.
 
-**Parent Topic:**[Manage the receiving of assets at stockrooms in the Hardware Asset Workspace](../concept/manage-stockroom-receive-hws.md)
+**Parent Topic:**[Manage the receiving of assets at stockrooms in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-stockroom-receive-hws.md)
 

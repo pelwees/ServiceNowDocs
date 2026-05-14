@@ -27,7 +27,7 @@ Role required: admin
 
 4.  Select the **Application Monitoring** tab.
 
-5.  Select any order to sort \(![sorting icon.](../../../reuse/icons/product-icons/sort-descending-fill-24.svg)\) and change the representation as you would like it to appear in the table.
+5.  Select any order to sort \(![sorting icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/sort-descending-fill-24.svg)\) and change the representation as you would like it to appear in the table.
 
 6.  To search an application, enter the name of the application in the **Search** field.
 
@@ -37,7 +37,7 @@ Role required: admin
 
 8.  Select any point in the graph to view the details for that particular duration.
 
-    ![Average response time details of the selected application in a slider view.](../image/io-app-monit-slider-view.png)
+    ![Average response time details of the selected application in a slider view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-app-monit-slider-view.png)
 
     Selecting a point in the graph gives you the details of the maximum average response time.
 
@@ -47,7 +47,7 @@ Role required: admin
 
     The Platform Performance Analyzer provides comprehensive details about the user interactions linking with server transactions such as schema or API name in Graph QL, Batch, and Databroker. To resolve front-office application performance-related issues, this information is essential.
 
-    ![Waterfall model of Platform Performance Analyzer.](../image/io-platform-performance-anlyzer.png "Waterfall model of Platform Performance Analyzer")
+    ![Waterfall model of Platform Performance Analyzer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-platform-performance-anlyzer.png "Waterfall model of Platform Performance Analyzer")
 
 10. Scroll down further to view the total number of pages for the application in the **Pages** section.
 
@@ -62,5 +62,5 @@ Role required: admin
 13. Select any link in the **Interaction ID** column to view the details of either the slowest or fastest instance details.
 
 
-**Parent Topic:**[Analytics](../concept/io-analytics.md)
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-analytics.md)
 

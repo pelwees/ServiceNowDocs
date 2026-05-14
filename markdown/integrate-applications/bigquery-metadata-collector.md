@@ -66,10 +66,10 @@ The collector identifies the associated column in an upstream view or table:
 -   That aggregate the rows via GROUP BY
 
 </td></tr></tbody>
-</table>-   **[Prepare to run the BigQuery collector](../task/prepare-to-run-bigquery-collector.md)**  
+</table>-   **[Prepare to run the BigQuery collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-bigquery-collector.md)**  
 Create a service account and configure authentication before running the collector.
--   **[Create a BigQuery metadata collector](../task/create-bigquery-metadata-collector.md)**  
+-   **[Create a BigQuery metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-bigquery-metadata-collector.md)**  
 Create a collector to import metadata from BigQuery.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

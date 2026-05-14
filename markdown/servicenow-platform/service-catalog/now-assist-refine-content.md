@@ -30,10 +30,10 @@ This skill is available in the following workflow and product.
 |--------|-------|
 |Creator||
 
-**Parent Topic:**[Catalog item generation reference](../reference/catalog-item-generation-reference.md)
+**Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/catalog-item-generation-reference.md)
 
 **Related topics**  
 
 
-[Now Assist in Catalog Builder](now-assist-for-catalog-generation.md)
+[Now Assist in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 

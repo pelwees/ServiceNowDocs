@@ -67,5 +67,5 @@ The system downloads the API in the format you selected.
 
 Import the API into a web services tool such as Postman or Insomnia.
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/use-REST-API-Explorer.md)
 

@@ -17,7 +17,7 @@ Analyze a contract document with generative AI to identify non-standard and miss
 
 ## Before you begin
 
-Ensure that Now Assist has data access for your role. For more information, see [Configure data permissions for Now Assist skills](cmpro-conf-roles-skills.md).
+Ensure that Now Assist has data access for your role. For more information, see [Configure data permissions for Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-roles-skills.md).
 
 Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller
 
@@ -70,7 +70,7 @@ Steps
 
     You can analyze contracts in the Now Assist contextual side panel as shown in the following example.
 
-    ![Analyze contracts with the Now Assist contextual side panel.](../image/cmpro-na-side-panel.png)
+    ![Analyze contracts with the Now Assist contextual side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-side-panel.png)
 
 3.  On the contract request page, select **Contract documents**.
 
@@ -137,8 +137,8 @@ Steps
 
 7.  Go to the analyzed contracts in the Now Assist contextual side panel by selecting **Back**.
 
-    You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Review the Now Assist suggestions for clause deviations](cmpro-review-contract-document.md).
+    You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Review the Now Assist suggestions for clause deviations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-review-contract-document.md).
 
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-NA-review-land.md)
 

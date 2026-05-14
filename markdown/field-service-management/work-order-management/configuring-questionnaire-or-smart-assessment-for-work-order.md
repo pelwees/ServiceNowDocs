@@ -29,13 +29,13 @@ Questionnaire for a work order task can be either a survey-based questionnaire o
 
 A survey-based questionnaire uses the **Survey Designer** tool to create a questionnaire with a list of questions.
 
-For more information, see [Configuring survey-based work order questionnaires](work-order-questionnaire.md).
+For more information, see [Configuring survey-based work order questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-questionnaire.md).
 
 ## Smart Assessment questionnaire
 
 A Smart Assessment questionnaire for Now Mobile uses **Template designer** in the Smart Assessment Engine application.
 
-For more information, see [Configuring Smart Assessment questionnaires for Now Mobile Agent](configuring-smart-assessment-questionnaire.md).
+For more information, see [Configuring Smart Assessment questionnaires for Now Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configuring-smart-assessment-questionnaire.md).
 
 **Note:**
 

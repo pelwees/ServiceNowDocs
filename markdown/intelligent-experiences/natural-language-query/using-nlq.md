@@ -27,13 +27,13 @@ NLQ works on any list on the platform. It returns results only from the table or
 
 Selecting the natural language filter icon brings up the NLQ interface.
 
-![NLQ interface in list view.](../images/using-nlqT1.png)
+![NLQ interface in list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/using-nlqT1.png)
 
 Enter your request in the What do you want to see field, then select **Ask**. NLQ parses your request, then displays the query in the condition builder. The results of the query are displayed in the list.
 
 With the default configuration of NLQ, you can continue to refine your query by entering another request into the What do you want to see field.
 
-![Using NLQ to append a query to a previous query](../images/using-nlq-washingtondc.gif "Using NLQ to build on a previous query")
+![Using NLQ to append a query to a previous query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/using-nlq-washingtondc.gif "Using NLQ to build on a previous query")
 
 This example image and procedure illustrates how to build a query using NLQ:
 
@@ -48,7 +48,7 @@ This example image and procedure illustrates how to build a query using NLQ:
 Keep the following information in mind when using NLQ.
 
 -   Your requests can contain periods and apostrophes, but not wildcard characters such as asterisks or regex.
--   To group by a field or column, that column must be visible in the list view. Use the personalize list icon \(![Personalize list icon.](../../../common/image/List_PersonalizeListIcon.png)\) to hide or display columns.
+-   To group by a field or column, that column must be visible in the list view. Use the personalize list icon \(![Personalize list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../../../common/image/List_PersonalizeListIcon.png)\) to hide or display columns.
 -   For information about querying CMDB tables, see [Querying the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/querying-cmdb.md).
 
 ## Tips for improving your queries

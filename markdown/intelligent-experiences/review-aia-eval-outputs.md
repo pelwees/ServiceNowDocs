@@ -47,7 +47,7 @@ Automated evaluations include scores and recommendations across the different me
     -   Numerical score
     -   Performance rating \(Excellent, Good, Moderate, or Poor\)
     -   Individual record evaluations
-5.  [Investigate any issues](aia-eval-review-issues.md) and their [associated traces](aia-eval-analyze-traces.md).
+5.  [Investigate any issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-review-issues.md) and their [associated traces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md).
 
     If problems with the agentic AI asset's performance are found, they are categorized by severity level, metric, and use case. Issues can be tracked down to their sources in specific interactions, called "traces." Review issues and their traces to diagnose underlying issues. Issues are classified by severity level:
 
@@ -55,7 +55,7 @@ Automated evaluations include scores and recommendations across the different me
     -   High: Significant problems that impact user experience or accuracy
     -   Medium: Moderate issues that may affect performance in some scenarios
     -   Low: Minor issues that have minimal impact on overall functionality
-6.  [Apply optimizations](aia-eval-apply-optimization.md) based on the findings.
+6.  [Apply optimizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md) based on the findings.
 
     The automated evaluation can include recommended optimizations to address issues found in the evaluation. After you have applied the optimization, you can rerun the evaluation to see the changes in behavior and performance. Track improvements by comparing results across evaluation runs.
 

@@ -25,19 +25,19 @@ Integrate Mappedin with Workplace Service Delivery to provide employees, facilit
 
 Facility managers can edit floor plans in real-time and employees can reserve a workplace space using the interactive floor maps to view the reserved, unavailable, and available spaces for booking a meeting room and so on. The spaces are color coded to differentiate such spaces from each other.
 
--   **[Install the Mappedin integration](../task/wsm-mappedin-activate.md)**  
+-   **[Install the Mappedin integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/wsm-mappedin-activate.md)**  
 Activate the Mappedin integration if you have the admin role.
--   **[Maintain import properties](../task/wsm-mappedin-properties.md)**  
+-   **[Maintain import properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/wsm-mappedin-properties.md)**  
 Use Import Properties when you create your own credential records, scheduled imports, or data sources. Currently, the properties are configured for the records used when importing.
--   **[Convert Mappedin data to Workplace Space Mapping data](wsm-mappedin-type-table.md)**  
+-   **[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-table.md)**  
 Use the **Mappedin Type Mappings** table to convert data from Mappedin to Workplace Space Mapping data.
 
-**Parent Topic:**[Configuring Workplace Space Mapping](wsm-config_space_mapping.md)
+**Parent Topic:**[Configuring Workplace Space Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/wsm-config_space_mapping.md)
 
 **Related topics**  
 
 
-[Setting up Workplace Space Mapping](set-up-workplace-service-mapping.md)
+[Setting up Workplace Space Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/set-up-workplace-service-mapping.md)
 
-[Configure Workplace Indoor Mapping](wsd-integration-indoor-mapping.md)
+[Configure Workplace Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/wsd-integration-indoor-mapping.md)
 

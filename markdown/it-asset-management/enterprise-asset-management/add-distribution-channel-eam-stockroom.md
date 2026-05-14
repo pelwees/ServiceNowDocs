@@ -42,5 +42,5 @@ Role required: sn\_eam.enterprise\_admin
 6.  Repeat steps 3 to 5 for each stockroom that you want to link as part of the distribution channel.
 
 
-**Parent Topic:**[Create stockroom for enterprise assets](create-eamstockroom.md)
+**Parent Topic:**[Create stockroom for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockroom.md)
 

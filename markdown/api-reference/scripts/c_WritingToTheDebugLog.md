@@ -25,7 +25,7 @@ function logData (r ) {
 
 Additionally, when client scripts run, the name of the client script and timing information is displayed. This can be useful in determining which scripts are running and whether they are impacting performance.
 
-**Parent Topic:**[JavaScript debug window](c_JavaScriptDebugWindow.md)
+**Parent Topic:**[JavaScript debug window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_JavaScriptDebugWindow.md)
 
 ## Debug UI policies
 

@@ -17,7 +17,7 @@ Reject an automation request from Automation Center if it's a duplicate of an ex
 
 ## Before you begin
 
-Create an automation request. For more information, see [Creating an automation request](create-automation-request.md).
+Create an automation request. For more information, see [Creating an automation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-request.md).
 
 After you reject an automation request, the life cycle of the automation request ends.
 
@@ -31,7 +31,7 @@ Rejecting an automation request is one of the life-cycle stages of an automation
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -46,5 +46,5 @@ Rejecting an automation request is one of the life-cycle stages of an automation
 
 The Rejected state is the end state of a request. There are no operations possible after that state.
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

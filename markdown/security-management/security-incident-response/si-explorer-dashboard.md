@@ -15,7 +15,7 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, location, priority and business impact. These views let managers quickly gain insight into the frequency in which attacks are occurring and which business services are affected.
 
-![Partial view of the Security Incident Explorer dashboard](../../../product/security-incident-response/image/security-incident-explorer-dashboard.png "Partial view of the Security Incident Explorer dashboard")
+![Partial view of the Security Incident Explorer dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/security-incident-explorer-dashboard.png "Partial view of the Security Incident Explorer dashboard")
 
 ## End users and roles
 
@@ -50,16 +50,16 @@ The Security Incident Explorer dashboard presents the following key performance 
     A global map showing the number of open security incidents in each country.
 
 
-**Parent Topic:**[Security Incident Response Platform Analytics Solutions](security-incident-content-pack.md)
+**Parent Topic:**[Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md)
 
 **Related topics**  
 
 
-[CISO dashboard](ciso-dashboard.md)
+[CISO dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ciso-dashboard.md)
 
-[Security Incident Management Premium dashboard](si-mgmt-premium-dashboard.md)
+[Security Incident Management Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-mgmt-premium-dashboard.md)
 
-[Security Incident Management dashboard](security-incident-mgmt-dashboard.md)
+[Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-mgmt-dashboard.md)
 
-[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
+[Security Operations Efficiency dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
 

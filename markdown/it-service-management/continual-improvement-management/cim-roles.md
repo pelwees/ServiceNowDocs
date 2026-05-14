@@ -248,5 +248,5 @@ Email notifications are sent when the state of the improvement request changes o
 |CIM task assigned|No|No|No|No|Yes|
 |CIM task closed|No|Yes|No|No|Yes|
 
-**Parent Topic:**[Continual Improvement Management reference](cim-reference.md)
+**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 

@@ -21,7 +21,7 @@ Role required: sn\_cm\_core.contract\_config
 
 ## About this task
 
-If you want the variables related to contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](cncore-add-cmr-condtion-build.md)
+If you want the variables related to contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
 ## Procedure
 
@@ -114,10 +114,10 @@ Conditions under which the contract template is selected. For example, to apply 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    ![Configure contract template rules](../image/cmpro-ct-rules.png "Contract template rules")
+    ![Configure contract template rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-ct-rules.png "Contract template rules")
 
 
 ## What to do next
 
-[Create a contract configuration](cncore-contract-config.md)
+[Create a contract configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-config.md)
 

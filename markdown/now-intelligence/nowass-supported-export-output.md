@@ -22,14 +22,14 @@ You can export dashboards as Microsoft PowerPoint or PDF files, but not all dash
 |Other data visualizations|PowerPoint, PDF|PowerPoint, PDF, PNG, JPEG, Embedded PNG|
 |Non-data visualization dashboard elements, like Headings|None|Not applicable|
 
-**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
 
-[Export destinations](nowass-export-destinations.md)
+[Export destinations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-destinations.md)
 
-[Limitations for exporting dashboards and visualizations](limitations-exporting-db-dv.md)
+[Limitations for exporting dashboards and visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/limitations-exporting-db-dv.md)
 
-[Export guidelines and examples](nowass-export-guidelines-examples.md)
+[Export guidelines and examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-guidelines-examples.md)
 

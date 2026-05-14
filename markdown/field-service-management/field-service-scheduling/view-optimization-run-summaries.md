@@ -29,7 +29,7 @@ Role required: wm\_admin
 
     Each row represents one optimization run.
 
-3.  Select the Filter icon \(![filter icon](../image/filter-right-side.png)\) to filter or sort the list to find specific runs.
+3.  Select the Filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/filter-right-side.png)\) to filter or sort the list to find specific runs.
 
     -   Filter by run type \(batch or intraday\)
     -   Filter by status
@@ -50,7 +50,7 @@ Role required: wm\_admin
 **Related topics**  
 
 
-[Configuring Schedule Optimization](../concept/schedule-optimization-engine.md)
+[Configuring Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../concept/schedule-optimization-engine.md)
 
-[Optimizing technician schedules at set intervals throughout the day](optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/optimize-your-schedules-intraday.md)
 

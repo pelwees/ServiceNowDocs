@@ -15,7 +15,7 @@ Decision trees and guidances enable agents to work through a structured troubles
 
 -   **Decision trees**
 
-    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [Decision tree elements](../reference/guided-decision-tree-elements.md).
+    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [Decision tree elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/guided-decision-tree-elements.md).
 
     Decision trees contain different types of nodes. Decision nodes represent one or more questions. Guidance nodes provide recommendations to agents. Each decision tree has a root node called the start node. Each node includes a path to the next node. Based on the answers to the questions, each decision node leads to an outcome, which can be a guidance, a follow-up question, or another decision tree.
 
@@ -28,7 +28,7 @@ Decision trees and guidances enable agents to work through a structured troubles
 
 The following example uses a flowchart to show the structure of a decision tree that determines customer eligibility for a promotion. This promotion is available to customers who opened their accounts within the last 30 days.
 
-![Decision tree that asks questions to determine if a customer is available for a promotion. Accounts open less than thirty days are eligible.](../image/decision-tree-basic-diagram1.png "Decision tree for evaluating customer eligibility")
+![Decision tree that asks questions to determine if a customer is available for a promotion. Accounts open less than thirty days are eligible.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/decision-tree-basic-diagram1.png "Decision tree for evaluating customer eligibility")
 
 The agent can select one of two paths to answer the question "Is this a new customer?"
 
@@ -37,10 +37,10 @@ The agent can select one of two paths to answer the question "Is this a new cust
     -   If **Yes**, the customer isn’t eligible for the promotion.
     -   If **No**, the customer is eligible to receive the promotion.
 
-![Decision tree nodes include configuration details such as name, type, and input.](../image/decision-tree-diagram-detailed.png "Decision tree configuration details")
+![Decision tree nodes include configuration details such as name, type, and input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/decision-tree-diagram-detailed.png "Decision tree configuration details")
 
 For more information about creating a decision tree, see the following topics:
 
--   [Configuring decision trees in Decision Tree Builder](decision-trees-in-gdb.md)
--   [Create a decision tree in Core UI](../task/configure-decision-trees-gdb.md)
+-   [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md)
+-   [Create a decision tree in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-decision-trees-gdb.md)
 

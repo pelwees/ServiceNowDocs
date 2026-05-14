@@ -171,7 +171,7 @@ Any notes to internal team members regarding this internal play.
 
 ## What to do next
 
--   Create internal play tasks to define tasks that should be performed when an internal play is launched. See [Create an internal play task](account-lifecycle-create-internal-play-task.md)
+-   Create internal play tasks to define tasks that should be performed when an internal play is launched. See [Create an internal play task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-internal-play-task.md)
 -   Select **Discuss** to start a sidebar discussion about this internal play. In the pop-up window, select the participants who need to participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this internal play. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
 -   Email: Open the Activity stream and select **Email** from the More drop down list. Enter the required details and select **Send email**.
 
@@ -180,8 +180,8 @@ Any notes to internal team members regarding this internal play.
 
 .
 
--   **[Create an internal play task](account-lifecycle-create-internal-play-task.md)**  
+-   **[Create an internal play task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-internal-play-task.md)**  
 Create an internal play task that must be performed when the internal play is launched. An internal play task must have a clear purpose and specifies the activity that must be performed. It is not visible to customers.
 
-**Parent Topic:**[Create an internal play playbook](account-lifecycle-create-internal-play-playbook.md)
+**Parent Topic:**[Create an internal play playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-internal-play-playbook.md)
 

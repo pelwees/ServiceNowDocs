@@ -17,23 +17,23 @@ Legal Conflict of Interest enables you to manage the disclosure, approval, and r
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Conflict of Interest.](../concept/conflict-of-interest-overview.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Conflict of Interest.](../concept/conflict-of-interest-overview.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up approver groups, flows, and notifications.](../concept/legal-coi-administration.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up approver groups, flows, and notifications.](../concept/legal-coi-administration.md)
 
 </td><td>
 
-[Submit COI request form Employee Center](../task/submit-coi-disclosure-request.md)Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Legal Conflict of Interest
+[Submit COI request form Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../task/submit-coi-disclosure-request.md)Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Legal Conflict of Interest
 
 </td></tr><tr><td>
 
-[Analytics and Reporting![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Coordinate work and improve processes with preconfigured dashboards](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Coordinate work and improve processes with preconfigured dashboards](../../../use/application-content-packs/concept/legalsd-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-coi-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-coi-reference.md)
 
 </td><td>
 

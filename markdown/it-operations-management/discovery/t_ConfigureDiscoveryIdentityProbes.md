@@ -40,11 +40,11 @@ Identity probes return such information as device serial numbers \(there can be 
 
 ## Example
 
-![Discovery identity probes](../image/DiscoveryMultiprobeSelect.png "Discovery identity probes")
+![Discovery identity probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryMultiprobeSelect.png "Discovery identity probes")
 
 ## What to do next
 
-[Configure Discovery identity sensors](t_ConfigDiscoIdentSens.md) that are part of the identify probes.
+[Configure Discovery identity sensors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigDiscoIdentSens.md) that are part of the identify probes.
 
-**Parent Topic:**[Discovery identifiers](../concept/c_DiscoveryIdentifiers.md)
+**Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryIdentifiers.md)
 

@@ -25,5 +25,5 @@ The deployment analyzer contains five rules that are included by default with Re
 
 **Note:** Any means that the rule will act as an or search with other rules. All means that the rule will match only if no other rules match.
 
-**Parent Topic:**[ReleaseOps reference](releaseops-reference.md)
+**Parent Topic:**[ReleaseOps reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/releaseops-reference.md)
 

@@ -17,7 +17,7 @@ Configure the sn\_supplier.external\_registration\_profile\_id system property t
 
 ## Before you begin
 
-[Configure self-registration for external users](config-reg-for-external-users-slm.md).
+[Configure self-registration for external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md).
 
 Role required: admin
 
@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Open the record for the user registration configuration.
 
-3.  Select the context menu icon \(![Context menu icon](../image/context-menu.png)\), and then select **Copy sys\_id**.
+3.  Select the context menu icon \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/context-menu.png)\), and then select **Copy sys\_id**.
 
 4.  In the navigation filter, enter `sys_properties.list`.
 
@@ -44,12 +44,12 @@ Role required: admin
     On the Supplier Case Management Properties page, the **Sys Id of the External User Registration Configuration for Onboarding a contact for a supplier** field is auto-populated with the sys ID of the user registration configuration you specified in the **Value** field of the **sn\_supplier.external\_registration\_profile\_id** system property.
 
 
-**Parent Topic:**[Configure self-registration for external users](config-reg-for-external-users-slm.md)
+**Parent Topic:**[Configure self-registration for external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md)
 
 **Related topics**  
 
 
-[Configure the Vendor Contact table to send invitation emails during self-registration](config-vendor-contact-table.md)
+[Configure the Vendor Contact table to send invitation emails during self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-vendor-contact-table.md)
 
-[Enable notifications about self-registration errors](enable-supp-admin-emails.md)
+[Enable notifications about self-registration errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-supp-admin-emails.md)
 

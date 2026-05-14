@@ -79,14 +79,14 @@ Option to copy the comments and attachments of this case while transferring. The
 
 The case is transferred to the selected department.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 
 
-[Configure a workplace service record producer as a Universal Request](configure-workplace-service-record-prod-as-universal-req.md)
+[Configure a workplace service record producer as a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-workplace-service-record-prod-as-universal-req.md)
 
-[Create a workplace case from Universal Request](create-workplace-case-from-universal-req.md)
+[Create a workplace case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-case-from-universal-req.md)
 
-[Work on a workplace case from a Universal Request](work-on-workplace-case-of-universal-req.md)
+[Work on a workplace case from a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/work-on-workplace-case-of-universal-req.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_lg\_ops.legal\_config
 
     A legal hold notice opens in an editable format.
 
-    ![legal hold notice template](../image/Customize-legal-hold-notice-template.png)
+    ![legal hold notice template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../image/Customize-legal-hold-notice-template.png)
 
 4.  Customize the template by substituting your company's name for the placeholder text and adding any additional text you want to include.
 
@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_config
 
 A customized legal hold template is created.
 
-**Parent Topic:**[Configure Legal Hold Notification](../concept/config-lg-hold-notif.md)
+**Parent Topic:**[Configure Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/config-lg-hold-notif.md)
 

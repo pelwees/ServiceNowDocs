@@ -21,7 +21,7 @@ Role required: BCM admin or BCM Program Manager
 
 You can customize the crisis map to display the layers that you would like to see on the map. Use the controls to view locations, employee locations, or core companies.
 
-![Control panel for the crisis map.](../image/BCMMapControl.png "Panel to control alert display")
+![Control panel for the crisis map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BCMMapControl.png "Panel to control alert display")
 
 The search bar helps you to search the assets and locations. A set of zoom controls helps you to zoom in and zoom out to focus on the area that has the information shown in that layer. The layers help you to get additional details on the map. Use the reset button to clear your control settings.
 
@@ -29,7 +29,7 @@ The search bar helps you to search the assets and locations. A set of zoom contr
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the map icon \(![Crisis map icon](../image/CrisisMapIcon.png)\).
+2.  Click the map icon \(![Crisis map icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/CrisisMapIcon.png)\).
 
     The alerts section is on the left of the workspace and the map view is on the right.
 
@@ -39,10 +39,10 @@ The search bar helps you to search the assets and locations. A set of zoom contr
 
     If you are not sure of both the employee locations or datacenters, then use the Layers control.
 
-4.  To change the zoom level of the map and view specific areas, use the zoom control buttons, zoom-in \(![Zoom-out icon.](../image/BCMZoomOutIcon.png)\) and zoom-out \(![Zoom-in icon.](../image/BCMZoomInIcon.png)\).
+4.  To change the zoom level of the map and view specific areas, use the zoom control buttons, zoom-in \(![Zoom-out icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BCMZoomOutIcon.png)\) and zoom-out \(![Zoom-in icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BCMZoomInIcon.png)\).
 
-5.  To select and display the assets such as asset locations, datacenters, or core companies on the map, click the layers icon \(![Layers control icon.](../image/BCMLayersIcon.png)\).
+5.  To select and display the assets such as asset locations, datacenters, or core companies on the map, click the layers icon \(![Layers control icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BCMLayersIcon.png)\).
 
-6.  To clear the map of all the search results, click the reset icon \(![Map reset icon.](../image/BCMResetIcon.png)\).
+6.  To clear the map of all the search results, click the reset icon \(![Map reset icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/BCMResetIcon.png)\).
 
 

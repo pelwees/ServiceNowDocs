@@ -36,5 +36,5 @@ Determine whether a connection requires an update by checking the status on the 
     The connection details have been added, but the connection to the data source isn't working.
 
 
-**Parent Topic:**[Managing zero copy connections](managing-connections-zcc.md)
+**Parent Topic:**[Managing zero copy connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-connections-zcc.md)
 

@@ -51,5 +51,5 @@ The following fields are searchable:
 
 You can select the associated cards, view the details, and perform available actions.
 
-**Parent Topic:**[Shopper to-dos](shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 

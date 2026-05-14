@@ -27,5 +27,5 @@ The organization table `sn_fin_org_tax_detail` stores supplier or organization t
 |Tax ID|String/Numeric|Unique reference ID issued against an organization or supplier|
 |Active|Boolean|The status of the tax registration of the organization or supplier.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

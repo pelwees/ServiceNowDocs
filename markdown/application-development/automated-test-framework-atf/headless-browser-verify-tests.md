@@ -19,7 +19,7 @@ Step 7, the final step in the Linux setup for the ServiceNow® Headless Browser 
 
 Role required: admin
 
-Complete Step 6: [Configure ATF for Headless Browser in Linux](headless-browser-configure-atf.md)
+Complete Step 6: [Configure ATF for Headless Browser in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-configure-atf.md)
 
 Role required: admin on your ServiceNow instance and local administrator on the host machine.
 
@@ -37,7 +37,7 @@ This task: Verify that Steps 1-6 in your Headless Browser setup procedures are s
 
     Use **Child A** as a good example to run.
 
-    ![Scheduled Suite Child A record example](../image/child-a-example.png)
+    ![Scheduled Suite Child A record example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/child-a-example.png)
 
 5.  Set the OS name to Linux.
 
@@ -48,9 +48,9 @@ This task: Verify that Steps 1-6 in your Headless Browser setup procedures are s
     When your verification is successful, any suites with UI tests run by scheduled suites or via CICD now automatically create headless test runners without the need to manually open the "scheduled client test runner" page.
 
 
-**Parent Topic:**[Headless Browser setup for Linux](../concept/headless-browser-procedure-linux.md)
+**Parent Topic:**[Headless Browser setup for Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/headless-browser-procedure-linux.md)
 
-**Previous topic:**[Configure ATF for Headless Browser in Linux](headless-browser-configure-atf.md)
+**Previous topic:**[Configure ATF for Headless Browser in Linux](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-configure-atf.md)
 
-**Next topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Next topic:**[Headless Browser setup for Microsoft Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/headless-browser-procedure-windows.md)
 

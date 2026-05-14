@@ -218,5 +218,5 @@ The corresponding score for the calculated ALE:-   Low
 8.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Entity scoping in GRC](../concept/c_Scoping.md)
+**Parent Topic:**[Entity scoping in GRC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/c_Scoping.md)
 

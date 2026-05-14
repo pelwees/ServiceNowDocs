@@ -35,5 +35,5 @@ For more information about Connect, see [Connect](https://raw.githubusercontent.
     |**To add the Connect full-screen view**|Click **Open Connect Full**.|
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-mgmt.md)
 

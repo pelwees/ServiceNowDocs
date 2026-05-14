@@ -21,7 +21,7 @@ Role required: sn\_lg\_ops.legal\_admin
 
 ## About this task
 
-You can create record producers for external users to submit requests through the External Legal Service Center. For more information, see [Managing record producers for legal services](../../legal-request-management/concept/record-producers-legal-services.md).
+You can create record producers for external users to submit requests through the External Legal Service Center. For more information, see [Managing record producers for legal services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../../legal-request-management/concept/record-producers-legal-services.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ You can create record producers for external users to submit requests through th
 
     3.  Select **Users with sn\_lg\_ext\_portal.ext\_user**.
 
-    4.  Select Add icon \(![Add icon](../image/lsd-ext-portal-right-arrow.png)\).
+    4.  Select Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-right-arrow.png)\).
 
         **Users with sn\_lg\_ext\_portal.ext\_user** is moved to the Available For List.
 
@@ -51,7 +51,7 @@ You can create record producers for external users to submit requests through th
 
     3.  Select SNC External from the Not Available for list.
 
-    4.  Select Remove icon \(![Add icon](../image/lsd-ext-portal-left-arrow.png)\).
+    4.  Select Remove icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-left-arrow.png)\).
 
 5.  Select **Update** to save the record producer.
 
@@ -66,5 +66,5 @@ The record producer is available for the external users in the External Legal Se
 
 ## What to do next
 
-If you want **Save as Draft** option to be enabled for a record producer, enable the system property **glide.sc.enable.save\_as\_draft.portal.elp**. For more information, see [Enable save as draft option for record producer](lsd-ext-portal-enable-draft.md).
+If you want **Save as Draft** option to be enabled for a record producer, enable the system property **glide.sc.enable.save\_as\_draft.portal.elp**. For more information, see [Enable save as draft option for record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-enable-draft.md).
 

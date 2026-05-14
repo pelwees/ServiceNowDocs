@@ -157,5 +157,5 @@ com.snc.pa.scorecard.breakdown.chart.name\_max\_length
 Maximum number of element names on the legend in a breakdown widget. Default: 27
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Performance Analytics properties](pa-properties.md)
+</table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 

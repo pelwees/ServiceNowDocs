@@ -21,7 +21,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterptrise\_asset\_manager
 
 ## About this task
 
-Stockroom types are categories of stockrooms. For detailed information on stockroom types, see [Stockroom types](../../asset-management/reference/r_StockroomTypes.md).
+Stockroom types are categories of stockrooms. For detailed information on stockroom types, see [Stockroom types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../asset-management/reference/r_StockroomTypes.md).
 
 ## Procedure
 
@@ -45,5 +45,5 @@ Stockroom types are categories of stockrooms. For detailed information on stockr
     The newly created stockroom type appears in the **Stockroom types** tab.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-enterprise-asset-inventory.md)
 

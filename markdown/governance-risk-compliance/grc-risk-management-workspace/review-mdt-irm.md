@@ -65,5 +65,5 @@ Action
 4.  Select the check boxes that you want and then select **Reject** or **Approve**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-metrics-irm.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-metrics-irm.md)
 

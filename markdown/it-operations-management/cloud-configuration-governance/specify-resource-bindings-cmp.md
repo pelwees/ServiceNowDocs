@@ -23,7 +23,7 @@ Role required: admin
 
 1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
-2.  Select the resource block and then select **Draft** on the **Resource Blocks** form: ![Draft.](../image/draft-published-slider.png)
+2.  Select the resource block and then select **Draft** on the **Resource Blocks** form: ![Draft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/draft-published-slider.png)
 
 3.  In the **Resource Bindings** related list, click **New**.
 
@@ -34,12 +34,12 @@ Role required: admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Create a custom resource block](create-resource-block.md)
+**Parent Topic:**[Create a custom resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-resource-block.md)
 
 **Related topics**  
 
 
-[Specify a host resource for a resource block](specify-host-resource-cmp.md)
+[Specify a host resource for a resource block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/specify-host-resource-cmp.md)
 
-[Configure endpoint operation mapping](configure-endpoint-mapping-cmp.md)
+[Configure endpoint operation mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-endpoint-mapping-cmp.md)
 

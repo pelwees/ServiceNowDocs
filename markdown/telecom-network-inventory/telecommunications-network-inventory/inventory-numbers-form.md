@@ -92,10 +92,10 @@ Short description
 Short description for the network inventory number.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Define your inventory numbering](../task/define-tni-inventory-numbers.md)
+[Define your inventory numbering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-inventory-numbers.md)
 

@@ -17,7 +17,7 @@ Create and add a new test to an existing test case.
 
 ## Before you begin
 
--   [Create a test case](t_CreateANewTestCase.md).
+-   [Create a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateANewTestCase.md).
 -   Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
@@ -97,5 +97,5 @@ Detailed description of what is being tested.
 
 You can create a copy of this test by using the **Create Duplicate** related link on the test form.
 
-**Parent Topic:**[Test cases](../concept/c_TestCases.md)
+**Parent Topic:**[Test cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_TestCases.md)
 

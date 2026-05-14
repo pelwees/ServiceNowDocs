@@ -19,7 +19,7 @@ Use the Now® Mobile app to report your health status.
 
 Role required: sn\_imt\_quarantine.crisis\_task\_user
 
-To access this content, you must have the [Now Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/emergency-self-report.md) application installed.
 
 ## About this task
 
@@ -31,16 +31,16 @@ From the Safe Workplace for mobile app, users can access applications from the E
 
 1.  Open the Now Mobile app.
 
-2.  At the top of the Health page, click the quick action icon ![Quick action icon.](../../human-resources/reference/images/quick-action-icon.png) to open the self-report applet.
+2.  At the top of the Health page, click the quick action icon ![Quick action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../../human-resources/reference/images/quick-action-icon.png) to open the self-report applet.
 
-3.  Select your health status from the list, and tap the check icon \(![Check icon.](../image/green-check.png)\) to confirm your status.
+3.  Select your health status from the list, and tap the check icon \(![Check icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../image/green-check.png)\) to confirm your status.
 
-    ![Self-report menu.](../image/self-report-menu.jpg)
+    ![Self-report menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../image/self-report-menu.jpg)
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/mobile-emergency-response.md)
 

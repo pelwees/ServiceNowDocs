@@ -17,7 +17,7 @@ View a pending task to prioritize your claim work.
 
 Processors can view assigned tasks from a claim case or task, and adjusters can view their assigned tasks when working from within an adjuster task. These roles can also view assigned tasks from My pending tasks on the landing page.
 
-View or search for a task from a claim case or parent adjuster task by selecting the Tasks tab or the **Related records** icon \( ![Related records icon](../image/view-tasks-icon.png)\) from the contextual menu.
+View or search for a task from a claim case or parent adjuster task by selecting the Tasks tab or the **Related records** icon \( ![Related records icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/view-tasks-icon.png)\) from the contextual menu.
 
 Search for a task in these ways:
 
@@ -28,7 +28,7 @@ Search for a task in these ways:
     -   Upcoming
     -   High priority
     -   All
--   Select the ![Open tasks in list view icon](../image/open-all-pending-tasks-list-icon.png) icon to open tasks filtered accordingly in a list view.
+-   Select the ![Open tasks in list view icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/open-all-pending-tasks-list-icon.png) icon to open tasks filtered accordingly in a list view.
 
-![Related records pending tasks panel showing list of record filters](../image/pending-tasks-panel.png)
+![Related records pending tasks panel showing list of record filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/pending-tasks-panel.png)
 

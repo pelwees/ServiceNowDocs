@@ -61,7 +61,7 @@ Here’s an example use case:
 
 An employee uses Virtual Agent to request a laptop replacement. Virtual Agent uses the assigned Knowledge Graph schema to find information and resolve the query with minimal user inputs.
 
-![Knowledge Graph example.](../Images/mmasset0020508-knowledgegraph-vertical.svg)
+![Knowledge Graph example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/mmasset0020508-knowledgegraph-vertical.svg)
 
 1.  The user uses Virtual Agent to query `Need assistance in laptop replacement.`
 2.  Virtual Agent processes the query and generates the following prompts required for this request:
@@ -87,7 +87,7 @@ Knowledge Graph leverages the existing information available in the internal dat
 
 ## Integration with Now Assist for natural language queries
 
-Knowledge Graph assist in answering natural language queries accurately. For more examples, see [Natural language queries use cases and examples](natural-language-queries-example-usecases.md)
+Knowledge Graph assist in answering natural language queries accurately. For more examples, see [Natural language queries use cases and examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/natural-language-queries-example-usecases.md)
 
 Now Assist can now provide users with information about people in your organization.
 
@@ -99,9 +99,9 @@ Inline citations appear at the end of the relevant synthesized response sentence
 
 Here's an example:
 
-![People results appear in the synthesized response on the portal's search results page and provide details such as the person's name, position, location, and email.](../Images/people-search-example.png "Example of synthesized response for people on the portal's search results page")
+![People results appear in the synthesized response on the portal's search results page and provide details such as the person's name, position, location, and email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/people-search-example.png "Example of synthesized response for people on the portal's search results page")
 
-![People results appear in the synthesized response and provide details such as the person's name, position, location, and email.](../Images/people-citation-kg.png "Example of synthesized response with people inline citations in chat")
+![People results appear in the synthesized response and provide details such as the person's name, position, location, and email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/people-citation-kg.png "Example of synthesized response with people inline citations in chat")
 
 Selecting the person's name presents a popover. The information in the popover can include the following information:
 
@@ -116,8 +116,8 @@ Selecting the person's name presents a popover. The information in the popover c
 
     -   Shared Microsoft SharePoint files between you and the person found, appear only on the people popover.
     -   The shared files only appear after you have completed the prompt to **Log in**, and signed in successfully. If you do not have a valid token, you will be prompted to sign in and re-directed to Microsoft login page.
-    -   If you have not configured Microsoft OneDrive application, see [Configure Microsoft OneDrive application for Knowledge Graph](../Task/create-microsoft-onedrive-app.md).
-    ![Shared files in people citation card](../Images/people-citation-window-kg.png)
+    -   If you have not configured Microsoft OneDrive application, see [Configure Microsoft OneDrive application for Knowledge Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Task/create-microsoft-onedrive-app.md).
+    ![Shared files in people citation card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/people-citation-window-kg.png)
 
 
 ## Integration with AI Search

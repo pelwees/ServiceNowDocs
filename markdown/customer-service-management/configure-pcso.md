@@ -100,13 +100,13 @@ Automate workflows for proactive case creation to improve your operational effic
 **Related topics**  
 
 
-[Using Proactive Customer Service Operations](../task/use-pcso.md)
+[Using Proactive Customer Service Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/use-pcso.md)
 
-[View install base information from the Customer Service Portal](../task/view-install-base-info.md)
+[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/view-install-base-info.md)
 
-[Create a case for install base from the Customer Service homepage](../task/create-case-install-base.md)
+[Create a case for install base from the Customer Service homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-case-install-base.md)
 
-[View the install base in CSM Configurable Workspace](../task/install-base-aw-csm.md)
+[View the install base in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/install-base-aw-csm.md)
 
-[View sold product information in CSM Configurable Workspace](../task/view-sold-product-info-workspace.md)
+[View sold product information in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/view-sold-product-info-workspace.md)
 

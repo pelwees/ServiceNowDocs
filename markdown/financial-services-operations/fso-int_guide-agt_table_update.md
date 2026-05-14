@@ -19,15 +19,15 @@ In this scenario, a script in a ServiceNow workflow makes a request to the remot
 
 **Note:** This scenario assumes the bank application exposes the REST endpoint POST /api/card/updateLimit that handles the update request from the ServiceNow workflow.
 
-![FSO case flow that shows how to update a system of record within the bank application](../image/fso-update_external_record-flow.png)
+![FSO case flow that shows how to update a system of record within the bank application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-update_external_record-flow.png)
 
-The table that is accessed in this scenario is the [Consumer](../reference/fso-int_guide-table_defs.md#csm_consumer) \[csm\_consumer\] table which contains the business-to-customer records.
+The table that is accessed in this scenario is the [Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/fso-int_guide-table_defs.md#csm_consumer) \[csm\_consumer\] table which contains the business-to-customer records.
 
-The following diagram shows the flow of the REST API calls for this use case and provides brief remarks on any required processing. It assumes that you have used the steps outlined in [Lookup remote information in the system of record](fso-int_guide-agt_table_lookup.md) to obtain the customer account information.
+The following diagram shows the flow of the REST API calls for this use case and provides brief remarks on any required processing. It assumes that you have used the steps outlined in [Lookup remote information in the system of record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_table_lookup.md) to obtain the customer account information.
 
 <table id="table_rmq_ywq_bpb"><tbody><tr><td>
 
-![Workflow that shows the REST API calls that are used to obtain the customer account information.](../image/fso-update_ext_record-swim_diagram.png)
+![Workflow that shows the REST API calls that are used to obtain the customer account information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-update_ext_record-swim_diagram.png)
 
 </td><td>
 

@@ -37,5 +37,5 @@ Role required: admin
 
 [Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-cmpro.md)
 
-[Initiate a contract request](quote-management-create-contract.md)
+[Initiate a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-create-contract.md)
 

@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 5.  Hover over the Impacted services section to display information icons.
 
-    ![Impacted services on the preview panel Info tab.](../image/el-impacted-services-info.png)
+    ![Impacted services on the preview panel Info tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-impacted-services-info.png)
 
 6.  Select the relevant icon to display extra information on an impacted service.
 
@@ -49,7 +49,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Info icon.](../image/el-info-icon.png)
+![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-info-icon.png)
 
 </td><td>
 
@@ -59,15 +59,15 @@ Info
 
 Displays the severity, the business criticality, and a short description of the impacted service. From this pop-up, you can open the service map in Service Operations Workspace by selecting **View service map**.
 
-![View service map link on the Impacted Services pop-up.](../image/el-impacted-services-popup.png)
+![View service map link on the Impacted Services pop-up.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-impacted-services-popup.png)
 
-The service map shows the impacted path of alerts, enabling you to quickly assess their effect on the service. For more information, see [View unified service map and the impact paths in Service Operations Workspace](view-impact-tree.md).
+The service map shows the impacted path of alerts, enabling you to quickly assess their effect on the service. For more information, see [View unified service map and the impact paths in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-impact-tree.md).
 
 If metrics data exists for this service, you can open the Metric Explorer from the pop-up by selecting **View related metrics**.
 
 </td></tr><tr><td>
 
-![Contact person/group icon.](../image/el-contact-person-icon.png)
+![Contact person/group icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-contact-person-icon.png)
 
 </td><td>
 

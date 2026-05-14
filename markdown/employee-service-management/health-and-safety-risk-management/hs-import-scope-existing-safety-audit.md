@@ -27,7 +27,7 @@ Importing scope from a previous audit lets you get the new safety audit up and r
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  In the **Audits** list, select **All** and open the audit into which you want to import the scope.
 
@@ -52,5 +52,5 @@ The following information is copied from the selected audit to the current audit
 
 After importing, review all copied fields before saving. In particular, update the audit dates, locations, and assigned person as these values typically differ for the new audit period.
 
-**Parent Topic:**[Create and manage a safety audit](hs-create-manage-safety-audit-workspace.md)
+**Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 

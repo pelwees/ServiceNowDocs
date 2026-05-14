@@ -35,13 +35,13 @@ After installing the Digital resilience third-party registers, the **Digital res
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Third-party engagement form](../reference/tprm-create-engmt-form.md).
+    For descriptions of all these fields, see [Create New Third-party engagement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-engmt-form.md).
 
 4.  Select **Save**.
 
 5.  Add digital resilience information.
 
-    For more information, see [Add Digital resilience information to third-party engagements](tprm-add-digi-resi-info.md).
+    For more information, see [Add Digital resilience information to third-party engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-add-digi-resi-info.md).
 
 6.  To edit the third-party engagement records, select it from the list and select **Save** after making your edits.
 

@@ -35,7 +35,7 @@ This step is only required if the upn is different from the email ID.
 
     **Note:** This field is applicable for records of the type **External OIDC Provider**.
 
-    ![Preview OIDC provider configuration](../images/preview-oauth-oidc.png)
+    ![Preview OIDC provider configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/preview-oauth-oidc.png)
 
 4.  Select **Open Record**.
 
@@ -44,5 +44,5 @@ This step is only required if the upn is different from the email ID.
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_tnt.md)
 

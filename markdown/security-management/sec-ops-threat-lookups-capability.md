@@ -13,35 +13,35 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The **Threat Lookups** capability performs threat intelligence lookups to determine whether one or more observables are associated with known security threats.
 
-The **Threat Lookups** capability has a workflow, [Security Operations Integration - Threat Lookup Flow](../../security-operations-integrations/task/sec-ops-integ-threat-lookup.md). When the capability workflow runs, it executes additional workflows for the activated implementations. You can specify an implementation to use to perform a lookup on the selected observables, or you can perform the lookup using all implementations.
+The **Threat Lookups** capability has a workflow, [Security Operations Integration - Threat Lookup Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/sec-ops-integ-threat-lookup.md). When the capability workflow runs, it executes additional workflows for the activated implementations. You can specify an implementation to use to perform a lookup on the selected observables, or you can perform the lookup using all implementations.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[Security Operations Integration - Threat Lookup Flow](../../security-operations-integrations/task/sec-ops-integ-threat-lookup.md)**  
+-   **[Security Operations Integration - Threat Lookup Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/sec-ops-integ-threat-lookup.md)**  
 The **Security Operations Integration - Threat Lookup** capability flow accesses available threat lookup implementations and executes the implementation flows associated with each to perform threat lookups of selected observables.
 
-**Parent Topic:**[Integration capabilities](integration-capabilities.md)
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
 
-[Security Operations Integration- Block Request capability](block-request-capability.md)
+[Security Operations Integration- Block Request capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/block-request-capability.md)
 
-[Security Operations Integration- Email Search and Delete capability](email-search-capability.md)
+[Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/email-search-capability.md)
 
-[Security Operations Integration- Enrich CI capability](enrich-ci-capability.md)
+[Security Operations Integration- Enrich CI capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/enrich-ci-capability.md)
 
-[Security Operations Integration- Enrich Observable capability](enrich-observable-capability.md)
+[Security Operations Integration- Enrich Observable capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/enrich-observable-capability.md)
 
-[Security Operations Integration- Get Network Statistics capability](get-network-statistics-capability.md)
+[Security Operations Integration- Get Network Statistics capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-network-statistics-capability.md)
 
-[Security Operations Integration- Get Running Processes capability](get-running-processes-capability.md)
+[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
 
-[Security Operations Integration- Isolate Host capability](isolate-host-capability.md)
+[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
 
-[Security Operations Integration- Publish to Watchlist capability](pubish-to-watchlist-capability.md)
+[Security Operations Integration- Publish to Watchlist capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/pubish-to-watchlist-capability.md)
 
-[Security Operations Integration- Sightings Search capability](sightings-search-capability.md)
+[Security Operations Integration- Sightings Search capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sightings-search-capability.md)
 
-[Change the order of flow execution](../task/change-wf-execution-order.md)
+[Change the order of flow execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/change-wf-execution-order.md)
 

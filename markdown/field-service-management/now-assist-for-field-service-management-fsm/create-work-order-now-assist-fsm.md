@@ -32,7 +32,7 @@ Role required: wm\_qualifier or wm\_dispatcher or wm\_agent
 
 3.  Provide a description of the issue for the work order.
 
-    ![The Create work order workflow in the Now Assist Panel.](../image/now-assist-create-wo.png)
+    ![The Create work order workflow in the Now Assist Panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-create-wo.png)
 
     The work order is created.
 

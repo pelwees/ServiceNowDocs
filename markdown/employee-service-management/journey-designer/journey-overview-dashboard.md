@@ -15,7 +15,7 @@ breadcrumb: [Journey designer dashboards and reports, Use, Journey designer, Emp
 
 Journey Overview is a comprehensive dashboard that allows you to efficiently track and manage ongoing tasks and journeys within the organization.
 
-On the dashboard you can view details about different journeys, including the number of journeys that are due, journeys tasks, journey tasks by role and by activity type, and other relevant journey specific information.![Journey overview dashboard](../image/jny-overview-dashboard.png)
+On the dashboard you can view details about different journeys, including the number of journeys that are due, journeys tasks, journey tasks by role and by activity type, and other relevant journey specific information.![Journey overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../image/jny-overview-dashboard.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -252,5 +252,5 @@ Choice
 Displays tasks based on the start date of the employee.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer dashboards and reports](../reference/jny-report-dashboards.md)
+</table>**Parent Topic:**[Journey designer dashboards and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../reference/jny-report-dashboards.md)
 

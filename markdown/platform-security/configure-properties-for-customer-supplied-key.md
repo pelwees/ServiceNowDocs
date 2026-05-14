@@ -83,7 +83,7 @@ Period for which the ephemeral key pair is valid.
 
 ## What to do next
 
-Once your properties are configured to your needs, proceed to [Wrap your customer-supplied key](wrap-your-customer-supplied-key.md).
+Once your properties are configured to your needs, proceed to [Wrap your customer-supplied key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/wrap-your-customer-supplied-key.md).
 
-**Parent Topic:**[Configure Customer-supplied keys for Field Encryption Enterprise](fe-config-customer-supplied-keys.md)
+**Parent Topic:**[Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md)
 

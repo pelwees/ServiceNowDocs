@@ -22,7 +22,7 @@ As a Cloud Account Management \(CAM\) admin, you can access the Accounts page in
 -   Navigate to **All** &gt; **Cloud Workspace**
 -   -   Navigate to **Workspaces** &gt; **Cloud Workspace**
 
-![Cloud accounts page](../image/cloud-accounts-page.png "Cloud accounts page")
+![Cloud accounts page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cloud-accounts-page.png "Cloud accounts page")
 
 **Note:** The configuration violations data is populated only if the user is a CAM admin or account manager and the Cloud Configuration Governance content pack is installed.
 
@@ -34,5 +34,5 @@ The following metrics are displayed:
 -   **Due for certification**: The number of accounts due for certification.
 -   **Unmanaged**: The number of unmanaged accounts.
 
-For more information, see [Cloud account details](../reference/cloud-accounts-details.md).
+For more information, see [Cloud account details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/cloud-accounts-details.md).
 

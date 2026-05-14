@@ -33,15 +33,15 @@ The contractor begins by using the link provided in the onboarding email to acce
 
 |Benefits|Feature|Users|
 |--------|-------|-----|
-|Use the self-service access at the Contractor Service Center to perform various tasks such as creating Health and Safety requests, permit to work requests, and JSAs.|[Contractor Service Center navigation overview](hs-contractor-service-center-navigation.md)|Contractor|
-|Log in to the Contractor Service Center using the email.|[Log in to the Contractor Service Center for the first time as a contractor](../task/hs-log-in-csc-first-time-contractor.md)|Contractor|
-|Add or create the contractor profile on the Health and Safety Contractor Management workspace.|[Add a contractor from the Health and Safety Workspace](../task/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
+|Use the self-service access at the Contractor Service Center to perform various tasks such as creating Health and Safety requests, permit to work requests, and JSAs.|[Contractor Service Center navigation overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-navigation.md)|Contractor|
+|Log in to the Contractor Service Center using the email.|[Log in to the Contractor Service Center for the first time as a contractor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/../task/hs-log-in-csc-first-time-contractor.md)|Contractor|
+|Add or create the contractor profile on the Health and Safety Contractor Management workspace.|[Add a contractor from the Health and Safety Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/../task/hs-onboard-contractor-from-workspace.md)|Safety contractor coordinator|
 
 ## What to explore next
 
 To learn more about configuring and using the Contractor Service Center, see:
 
--   [Configuring Contractor Service Center](hs-configure-contractor-service-center.md)
--   [Using the Contractor Service Center](hs-using-contractor-service-center.md)
--   [Contractor Service Center reference](hs-contractor-service-center-reference.md)
+-   [Configuring Contractor Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-contractor-service-center.md)
+-   [Using the Contractor Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-using-contractor-service-center.md)
+-   [Contractor Service Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 

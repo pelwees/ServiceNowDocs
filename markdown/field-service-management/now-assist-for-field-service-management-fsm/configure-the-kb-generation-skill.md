@@ -27,13 +27,13 @@ To allow agents to generate knowledge articles for work orders in a closed compl
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Experiences** to access the **Now Assist panel** tab of the Now Assist Admin console.
 
-2.  In the summary section, select **Turn on**.![Turn on the Now Assist panel](../image/FSM_NowAssist_enableNowAssistpanel.png)
+2.  In the summary section, select **Turn on**.![Turn on the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/FSM_NowAssist_enableNowAssistpanel.png)
 
 3.  Select **Go to features and skills**.
 
 4.  In the Customer workflow group, select **FSM**.
 
-5.  On the **Knowledge** feature card, select **View details**.![Now Assist FSM skill cards](../image/FSM_NowAssistSkills.png)
+5.  On the **Knowledge** feature card, select **View details**.![Now Assist FSM skill cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/FSM_NowAssistSkills.png)
 
 6.  In the All available knowledge skills section, select **Activate skill**.
 
@@ -46,7 +46,7 @@ To allow agents to generate knowledge articles for work orders in a closed compl
 
         **Note:** If you don't see the Now Assist panel toggle, go back to step 1 to enable it.
 
-        ![KB generation skill display options](../image/FSM_KBgeneration_skilldisplay.png)
+        ![KB generation skill display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/FSM_KBgeneration_skilldisplay.png)
 
 8.  Select **Save and continue** to go to the next step.
 
@@ -56,7 +56,7 @@ To allow agents to generate knowledge articles for work orders in a closed compl
 
 11. Select the Platform workflow.
 
-12. On the **Knowledge** feature card, select **View details**.![Enable the Platform knowlege skill](../image/FSM_NowAssist_enableWWNA.png)
+12. On the **Knowledge** feature card, select **View details**.![Enable the Platform knowlege skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/FSM_NowAssist_enableWWNA.png)
 
 13. In the All available knowledge skills section, select **Activate skill**.
 

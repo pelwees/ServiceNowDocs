@@ -17,7 +17,7 @@ Export the status of work items, roadmap, and key metrics of your portfolio plan
 
 ## Before you begin
 
-[Install Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/task/install-export-to-ppt.md).
+[Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../export-to-ppt/task/install-export-to-ppt.md).
 
 **Important:** Export to PowerPoint is available only in the GCC, NSC, SPP-AU, SPP-SG, and Australia IRAP-Protected data center environments.
 
@@ -30,7 +30,7 @@ The following two PowerPoint templates are provided by default to generate a sta
 -   Portfolio plan status: Contains individual detailed slides for the top five items prioritized by rank.
 -   Roadmap Template - default: Contains slides for Roadmap for this portfolio. You can export roadmap data for a maximum period of a year at a time.
 
-You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](../../export-to-ppt/task/create-ppt-template.md).
+You can customize the type of the data to be shown in the generated report by updating a predefined template or by creating your own branded template. See [Create a Microsoft PowerPoint template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../export-to-ppt/task/create-ppt-template.md).
 
 ## Procedure
 
@@ -53,13 +53,13 @@ Perform these steps
 </td><td>
 
 1.  From the list of portfolio plans, select one.
-2.  From the portfolio plan header, select the More options icon \(![More actions icon in the portfolio plan header.](../../alignment-planner-workspace/images/more-actions.png)\) and then select **Export to PowerPoint**.
+2.  From the portfolio plan header, select the More options icon \(![More actions icon in the portfolio plan header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/more-actions.png)\) and then select **Export to PowerPoint**.
 
-![Export to PowerPoint option from the More options menu.](../../alignment-planner-workspace/images/pp-actions-export-to-ppt.png)
+![Export to PowerPoint option from the More options menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/pp-actions-export-to-ppt.png)
 
 3.  On the Export to PowerPoint window, select **Portfolio plan status** or **Roadmap Template - default** and select **Export**.
 
-![Select a template to export portfolio plan.](../images/ppt-export-template-ppw.png)
+![Select a template to export portfolio plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/ppt-export-template-ppw.png)
 
 </td></tr><tr><td id="d43577e208">
 
@@ -69,7 +69,7 @@ Perform these steps
 
 1.  \(For a portfolio plan roadmap\) Select a portfolio plan from the list of portfolio plans and then select **Roadmap** from the Planning section.
 2.  \(For a free-form roadmap\) From the Free-form Roadmaps tab, select a roadmap.
-3.  From the Personalize side panel, select Export to PowerPoint icon \(![Export icon.](../../alignment-planner-workspace/images/icon-export-data.png)\).
+3.  From the Personalize side panel, select Export to PowerPoint icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-export-data.png)\).
 
 If you want to export the progress tracking details, select the Tracking mode option on the roadmap before selecting the Export to PowerPoint icon.
 
@@ -80,7 +80,7 @@ If you want to export the progress tracking details, select the Tracking mode op
     3.  Compact mode: Select to export 25 horizontal lanes per slide. The default mode exports 15 horizontal lanes per slide.
     4.  Show on slides: Select the items that you want to see on the slides. The available items are Roadmap milestones, Item milestones, Vertical lines, and Horizontal lanes.
     5.  Select **Export**.
-![Export roadmap to PPT.](../../alignment-planner-workspace/images/export-roadmap-from-side-panel.png)
+![Export roadmap to PPT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/export-roadmap-from-side-panel.png)
 
  **Note:** Dependencies and metrics on roadmap bar are not exported. Grouping is supported only with the first attribute selected in the Group by option.
 
@@ -90,5 +90,5 @@ If you want to export the progress tracking details, select the Tracking mode op
 
 A PowerPoint file is generated with the relevant data.
 
-This image is an example for an exported roadmap.![Exported roadmap.](../../alignment-planner-workspace/images/exported-roadmap-to-ppt.png)
+This image is an example for an exported roadmap.![Exported roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/exported-roadmap-to-ppt.png)
 

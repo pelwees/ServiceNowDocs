@@ -33,7 +33,7 @@ Review these logs to troubleshoot which CMDB tables were inferred by NLQ.
 
 1.  Navigate to **All** &gt; **NLQ** &gt; **Table Guesser Logs**.
 
-2.  Select the personalize list icon \(![personalize list icon](../../../common/image/List_PersonalizeListIcon.png)\) to display the columns **Matched words to table names** and **Confidence scores**.![The list view of the NLQ Table Guesser Query Logs module with some example rows.](../images/view-nlq-table-guesser-logs010V.png)
+2.  Select the personalize list icon \(![personalize list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../../../common/image/List_PersonalizeListIcon.png)\) to display the columns **Matched words to table names** and **Confidence scores**.![The list view of the NLQ Table Guesser Query Logs module with some example rows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/view-nlq-table-guesser-logs010V.png)
 
     The **Utterance** column shows the user's natural language query.
 
@@ -46,14 +46,14 @@ Review these logs to troubleshoot which CMDB tables were inferred by NLQ.
 
 For more information on CMDB queries, see [Exploring CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/querying-cmdb.md).
 
-**Parent Topic:**[Configuring NLQ](../concept/configuring-nlq.md)
+**Parent Topic:**[Configuring NLQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../concept/configuring-nlq.md)
 
 **Related topics**  
 
 
-[Create an NLQ synonym](create-nlq-synonym.md)
+[Create an NLQ synonym](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-synonym.md)
 
-[Create an NLQ shortcut](create-nlq-shortcut.md)
+[Create an NLQ shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/create-nlq-shortcut.md)
 
-[View NLQ logs](view-nlq-logs.md)
+[View NLQ logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/view-nlq-logs.md)
 

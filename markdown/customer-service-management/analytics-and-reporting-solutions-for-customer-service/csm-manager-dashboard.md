@@ -31,13 +31,13 @@ The Customer Service Management - Advanced Performance Analytics Solution adds t
 
 The Customer Service Manager dashboard uses the Case Assignment Group breakdown. Select one or more groups to view data for only those groups. By default, data from all groups is shown on the dashboard.
 
-![Tab displaying different case records and trend lines from the Customer Service Manager Advanced dashboard. For the text description, refer to the Overview indicators section.](../image/csm-manager-overview.png "Overview tab")
+![Tab displaying different case records and trend lines from the Customer Service Manager Advanced dashboard. For the text description, refer to the Overview indicators section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-overview.png "Overview tab")
 
 ## Overview indicators
 
 |Indicator|Description|
 |---------|-----------|
-|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](c_CustomerServiceSatisfactionSurvey.md).|
+|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/c_CustomerServiceSatisfactionSurvey.md).|
 |First Call Resolution|Percentage of cases that were resolved during first contact with the customer. The percent change in the current period appears under the total percentage.|
 |Mean Time to Resolve|Average time for a case to be marked as closed or resolved. The percent change in the current period appears under the total percentage.|
 |Customers Impacted by Major Case|Number of customers impacted by major cases.|
@@ -48,7 +48,7 @@ The Customer Service Manager dashboard uses the Case Assignment Group breakdown.
 
 |Indicator|Description|
 |---------|-----------|
-|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](c_CustomerServiceSatisfactionSurvey.md).|
+|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/c_CustomerServiceSatisfactionSurvey.md).|
 |First Call Resolution|Percentage of cases that were resolved during first contact with the customer. The percent change in the current period appears under the total percentage.|
 |Open Cases with Breached SLAs|Percentage of cases that have remained open past the time required by the Service Level Agreement \(SLA\).|
 |Unassigned Open Cases|Number of open cases that are not assigned to an agent.|
@@ -57,7 +57,7 @@ The Customer Service Manager dashboard uses the Case Assignment Group breakdown.
 |Open Case Backlog|Chart of cumulative open cases and case age over time.|
 |Open Backlog|Number of cases that are not resolved.|
 
-![Tab displaying different reports and records for cases from the Customer Service Manager Advanced dashboard. For the text description, refer to the Analysis indicators section.](../image/csm-manager-analysis.png "Analysis tab")
+![Tab displaying different reports and records for cases from the Customer Service Manager Advanced dashboard. For the text description, refer to the Analysis indicators section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-analysis.png "Analysis tab")
 
 Trend chart of case backlog over time. Click and move your cursor to view data for any date. Indicators display data for the selected date.
 
@@ -119,7 +119,7 @@ Cases in the Resolved or Closed state can be grouped by the following breakdowns
 
 
 
-![Tab displaying case spotlight reports and case list details from the Advanced dashboard. For text descriptions, refer to the Case Spotlight breakdowns and Case Spotlight reports sections.](../image/csm-manager-case-spotlight.png)
+![Tab displaying case spotlight reports and case list details from the Advanced dashboard. For text descriptions, refer to the Case Spotlight breakdowns and Case Spotlight reports sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-case-spotlight.png)
 
 ## Case Spotlight breakdowns
 
@@ -175,7 +175,7 @@ List of cases that exceed the Case Spotlight threshold.
 </td></tr></tbody>
 </table>
 
-![Tab displaying different case resolution reports and agent efficiency trends from the Customer Service Manager - Advanced dashboard. For the text description, refer to the Agent analysis indicators section.](../image/csm-manager-agent-analysis.png)
+![Tab displaying different case resolution reports and agent efficiency trends from the Customer Service Manager - Advanced dashboard. For the text description, refer to the Agent analysis indicators section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-agent-analysis.png)
 
 ## Agent analysis indicators
 
@@ -209,7 +209,7 @@ CSAT
 
 </td><td>
 
-Average customer satisfaction for each agent based on survey results. Ranked from highest to lowest. For more information about CSAT, see [Customer service satisfaction surveys](c_CustomerServiceSatisfactionSurvey.md).
+Average customer satisfaction for each agent based on survey results. Ranked from highest to lowest. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/c_CustomerServiceSatisfactionSurvey.md).
 
 </td></tr><tr><td>
 
@@ -228,7 +228,7 @@ Closed Cases by Agent and Account.
 Number of cases closed by each agent for each account.
 
 </td></tr></tbody>
-</table>![Tab displaying different work assignment reports from the Customer Service Manager - Advanced dashboard. For text descriptions, refer to the Work Assignment Analytics reports and Work Assignment Analytics indicators sections.](../image/csm-manager-work-assignment.png "Work Assignment Analytics tab")
+</table>![Tab displaying different work assignment reports from the Customer Service Manager - Advanced dashboard. For text descriptions, refer to the Work Assignment Analytics reports and Work Assignment Analytics indicators sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-work-assignment.png "Work Assignment Analytics tab")
 
 **Note:** The Work Assignment Analytics tab can only be viewed on the Customer Service Manager - Advanced dashboard. Customer Service \[com.sn\_customerservice\] and Performance Analytics - Content Pack - Advanced Work Assignment \[com.snc.pa.awa\] must be activated on your instance.
 
@@ -247,7 +247,7 @@ Number of cases closed by each agent for each account.
 |Assigned Work Items|Percentage of all work items that are assigned to agents.|
 |Abandoned Work Items|Percentage of all work items that agents have abandoned.|
 
-![Customer Service Manager Advanced dashboard showing the number of open cases filtered with short description in the word cloud view along with Trend line and Related Records.](../image/csm-manager-text-analysis.png "Text Analytics tab")
+![Customer Service Manager Advanced dashboard showing the number of open cases filtered with short description in the word cloud view along with Trend line and Related Records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-manager-text-analysis.png "Text Analytics tab")
 
 **Note:** The Text Analytics tab is visible only if the Performance Analytics Premium for Customer Service plugin \[com.snc.pa.premium.cs\] is installed.
 

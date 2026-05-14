@@ -29,13 +29,13 @@ For more information about the delegated developer role, see [Delegated developm
 
 4.  Open a new or existing record.
 
-    -   To open a new record, select the **New** button \(![New button in categories home screen.](../image/mab-buttton-new-green-solid.png)\).
+    -   To open a new record, select the **New** button \(![New button in categories home screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-buttton-new-green-solid.png)\).
     -   To edit an existing record, select a record name.
-5.  In the record screen, select the **New** button \(![New button.](../image/mab-button-new.png)\) to open an empty reference record in the configuration panel.
+5.  In the record screen, select the **New** button \(![New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-new.png)\) to open an empty reference record in the configuration panel.
 
     The ServiceNow AI Platform configuration tree is automatically updated with the new record that you created.
 
-    ![ServiceNow AI Platform configuration tree with new record added.](../image/mab-ref-record-new.png)
+    ![ServiceNow AI Platform configuration tree with new record added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-ref-record-new.png)
 
 6.  Complete the fields as required and select **Save**.
 

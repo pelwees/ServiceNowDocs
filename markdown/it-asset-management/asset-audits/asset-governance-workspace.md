@@ -24,5 +24,5 @@ The Asset Governance Workspace is a unified medium with a single view. This view
 -   Gain insight into important audit data, such as the due date and requirements of each request.
 -   Track and manage remediation tasks.
 
-The Asset Governance Workspace contains the [Asset governance overview](asset-governance-overview.md).
+The Asset Governance Workspace contains the [Asset governance overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-governance-overview.md).
 

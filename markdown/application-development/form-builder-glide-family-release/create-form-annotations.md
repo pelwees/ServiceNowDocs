@@ -17,13 +17,13 @@ Add instructional text and other design elements to your forms by using form ann
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/fb-application-scope.md).
 
-**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](../concept/form-builder-workflow.md).
+**Note:** To understand how to approach customizing your forms, review [Table Builder workflow and navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-builder-workflow.md).
 
-Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_form or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -31,15 +31,15 @@ Role required: personalize\_form or AES user role and delegated developer permis
 
 2.  Choose a view to work with.
 
-    For detailed information on how to choose a view for a form, see [Choose a form view in Table Builder](manage-form-views.md).
+    For detailed information on how to choose a view for a form, see [Choose a form view in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/manage-form-views.md).
 
 3.  To display a list of the available components that you can add to your form view, in the Add form elements panel, select **Components**.
 
-    **Note:** You can also launch the Add form elements panel by clicking the Add \(![Add icon.](../image/fb-add-icon.png)\) icon above an existing element in the form editor.
+    **Note:** You can also launch the Add form elements panel by clicking the Add \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-add-icon.png)\) icon above an existing element in the form editor.
 
 4.  Select the **Annotation** elements, and then drag it to the location in the form editor where you'd like to position the annotation text as shown in the following example.
 
-    ![Add annotation.](../image/fb-annotation-drag.gif "Add annotation")
+    ![Add annotation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-annotation-drag.gif "Add annotation")
 
 5.  Select the **Annotation type**.
 
@@ -92,5 +92,5 @@ Rich text. When you point to the text box below, an Edit rich text icon is displ
 8.  Select **Save**.
 
 
-**Parent Topic:**[Forms in Table Builder](../concept/form-view-configuration.md)
+**Parent Topic:**[Forms in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-view-configuration.md)
 

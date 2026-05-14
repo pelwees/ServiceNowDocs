@@ -15,12 +15,12 @@ breadcrumb: [Activate Change Management - State Model, Change Management plugins
 
 Several types of components are installed with the Change Management - State Model.
 
-**Parent Topic:**[Activate Change Management - State Model](../task/t_ActivateStateModel.md)
+**Parent Topic:**[Activate Change Management - State Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_ActivateStateModel.md)
 
 **Related topics**  
 
 
-[Update change request states](../task/state-model-activate-tasks.md)
+[Update change request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/state-model-activate-tasks.md)
 
 ## Table modified with Change Management - State Model
 

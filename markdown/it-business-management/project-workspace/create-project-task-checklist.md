@@ -23,11 +23,11 @@ Role required: it\_project\_user, it\_project\_manager
 
 1.  Open a project from the planning page of Project Workspace.
 
-    For information on how to navigate to the planning page, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information on how to navigate to the planning page, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Navigate to a project task.
 
-3.  Select project tasks and then select the checklist icon \(![checklist-icon.](../image/task-checklist-icon.png)\) from the side panel to add checklist items.
+3.  Select project tasks and then select the checklist icon \(![checklist-icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/task-checklist-icon.png)\) from the side panel to add checklist items.
 
     You can add, edit, organize, or remove checklist items as needed.
 
@@ -35,13 +35,13 @@ Role required: it\_project\_user, it\_project\_manager
 
 5.  Select **Save** to save the checklist items.
 
-    To edit a checklist item for a task, select edit item icon \(![edit-item-checklist-icon.](../image/icon-edit-item-checklist.png)\) in the checklist section. This option appears when there is at least one checklist in the Checklist side panel. To remove a checklist from the project task, select remove item icon \(![remove-icon.](../image/remove-checklist-item-icon.png)\).
+    To edit a checklist item for a task, select edit item icon \(![edit-item-checklist-icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-edit-item-checklist.png)\) in the checklist section. This option appears when there is at least one checklist in the Checklist side panel. To remove a checklist from the project task, select remove item icon \(![remove-icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/remove-checklist-item-icon.png)\).
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 
 **Related topics**  
 
 
-[Project task checklist items](../concept/project-task-checklist.md)
+[Project task checklist items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/project-task-checklist.md)
 

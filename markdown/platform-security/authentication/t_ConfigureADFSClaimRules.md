@@ -35,7 +35,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 7.  Set the **Attribute store** to `Active Directory`, the **LDAP Attribute** to `E-Mail-Addresses`, and the **Outgoing Claim Type** to `E-mail Address`.
 
-    ![Get attribute.](../image/Adfs-editReplyingPartyClaimRules-01.png)
+    ![Get attribute.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/Adfs-editReplyingPartyClaimRules-01.png)
 
     ```
     c:[Type == "http://schemas.microsoft.com/ws/2008/06/identity/claims/windowsaccountname", Issuer == "AD AUTHORITY"]  
@@ -59,11 +59,11 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 13. Set the **Outgoing claim type** to `Name ID` and the **Outgoing name ID format** to `Email`.
 
-    **Note:** These values must match the [Name ID policy](t_SetUpNameIDPolicy.md) you define during SAML 2.0 configuration.
+    **Note:** These values must match the [Name ID policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_SetUpNameIDPolicy.md) you define during SAML 2.0 configuration.
 
 14. Select **Pass through all claim values**.
 
-    ![Email to Name ID.](../image/Adfs-editReplyingPartyClaimRules-02.png)
+    ![Email to Name ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/Adfs-editReplyingPartyClaimRules-02.png)
 
     This claim rule should look similar to the following rule language.
 

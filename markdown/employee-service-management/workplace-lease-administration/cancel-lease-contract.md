@@ -34,12 +34,12 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 The contract state changes to Canceled.
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-core-ui.md)
 
 **Related topics**  
 
 
-[Renew workplace contract in Core UI](renew-lease-workplace-contracts.md)
+[Renew workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/renew-lease-workplace-contracts.md)
 
-[Adjust workplace contract in Core UI](adjust-lease-contract.md)
+[Adjust workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/adjust-lease-contract.md)
 

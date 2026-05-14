@@ -151,14 +151,14 @@ Specify the fields whose values are copied to one or more change task templates 
 
 You can create a standard change catalog. By default, the basic Standard Change Proposal workflow sends approval records to members of the Change Management group and the members should verify and modify the records, as appropriate.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 
 
-[Create a standard change task template](create-a-standard-change-task-template.md)
+[Create a standard change task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-standard-change-task-template.md)
 
-[Attach files to a standard change template](attach-files-change-templates.md)
+[Attach files to a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/attach-files-change-templates.md)
 
-[Modify or retire a standard change template](manage-standard-change-template.md)
+[Modify or retire a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-standard-change-template.md)
 

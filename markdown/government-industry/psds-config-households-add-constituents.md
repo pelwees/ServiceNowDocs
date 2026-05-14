@@ -37,7 +37,7 @@ The Household form includes the following related lists for household members:
 
 2.  Select a household.
 
-    For information on how to create a household, see [Create or update a household in Public Sector Digital Services](psds-config-households-create-update.md).
+    For information on how to create a household, see [Create or update a household in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-create-update.md).
 
 3.  In the Current Members related list, select **New**.
 
@@ -65,7 +65,7 @@ One or more constituents are added to the household entity. You can now create r
 **Related topics**  
 
 
-[Create a relationship between household members in Public Sector Digital Services](psds-config-households-member-relations.md)
+[Create a relationship between household members in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-member-relations.md)
 
-[Create and manage cases for a constituent or household in Public Sector Digital Services](psds-config-households-manage-cases.md)
+[Create and manage cases for a constituent or household in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-households-manage-cases.md)
 

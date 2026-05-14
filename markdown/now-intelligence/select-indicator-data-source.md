@@ -15,19 +15,19 @@ Select a Performance Analytics indicator \(KPI\) to display in your data visuali
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/platform-analytics-roles.md).
 
 ## About this task
 
 This procedure assumes you're in the process of creating or editing a data visualization and need more information about selecting the data source. It also assumes you're working in either the Visualization Designer or the inline dashboard editor. More options are available in the UI Builder.
 
-![An Add data source form for an indicator data source, in the process of selecting a breakdown.](../../par-for-workspace/image/dv-select-indicator.png "Adding an indicator data source to a data visualization")
+![An Add data source form for an indicator data source, in the process of selecting a breakdown.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-select-indicator.png "Adding an indicator data source to a data visualization")
 
 ## Procedure
 
 1.  Start to create a data visualization, or open an existing visualization for editing.
 
-    For more information, see [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md).
+    For more information, see [Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md).
 
 2.  Choose one of the following:
 
@@ -36,13 +36,13 @@ This procedure assumes you're in the process of creating or editing a data visua
 3.  To select an indicator data source, choose one of the following:
 
     -   Enter the indicator name or the first few letters of the name in the **Search sources** field.
-    -   Locate the indicator in the **Suggested** list. Indicators are marked by an indicator icon. ![Indicator icon](../../par-for-workspace/image/icon-indicator.png)
+    -   Locate the indicator in the **Suggested** list. Indicators are marked by an indicator icon. ![Indicator icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-indicator.png)
     -   Expand the **Indicators** list and navigate down to the desired indicator.
     When you select an indicator, the breakdown selector and the preview list become available.
 
 4.  Select one or more breakdowns, each with an operator and one or more elements.
 
-    The number of breakdowns and elements may be limited. For more information, see [Indicator breakdowns](../concept/c_CreatingBreakdowns.md).
+    The number of breakdowns and elements may be limited. For more information, see [Indicator breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/c_CreatingBreakdowns.md).
 
 5.  Review the indicator properties and the score.
 
@@ -51,20 +51,20 @@ This procedure assumes you're in the process of creating or editing a data visua
     You return to the data visualization editor. In the configuration panel, you can add Group by fields and set other data properties, depending on the visualization type.
 
 
-**Parent Topic:**[Selecting data sources for data visualizations](../concept/selecting-data-sources.md)
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/selecting-data-sources.md)
 
 **Related topics**  
 
 
-[Select a table data source for a data visualization](select-table-data-source.md)
+[Select a table data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-table-data-source.md)
 
-[Select a Workflow Data Fabric data source for a data visualization](select-wdf-data-source.md)
+[Select a Workflow Data Fabric data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-wdf-data-source.md)
 
-[Usage Insights data sources for data visualizations](../concept/uxa-data-sources.md)
+[Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/uxa-data-sources.md)
 
-[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)
+[Multiple data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/multiple-data-sources.md#)
 
-[Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
+[Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md)
 
-[Indicator management and Performance Analytics](../../par-for-workspace/concept/indicator-data-sources-pa.md)
+[Indicator management and Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/indicator-data-sources-pa.md)
 

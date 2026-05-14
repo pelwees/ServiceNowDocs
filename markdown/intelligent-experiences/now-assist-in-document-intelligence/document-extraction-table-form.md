@@ -102,9 +102,9 @@ Column type
 
 </td><td>
 
-The type of field in the table column. For example, a text or date field. For more information, see [Field types in Now Assist in Document Intelligence](now-assist-document-intelligence-field-types.md).
+The type of field in the table column. For example, a text or date field. For more information, see [Field types in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-field-types.md).
 
- Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../concept/data-normalization.md).
+ Some field types convert the extracted value into a standard format. For more information, see [Data normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/data-normalization.md).
 
 </td></tr><tr><td>
 
@@ -133,12 +133,12 @@ Create multiple tables
 Option to keep the form displayed on the screen. Enable this option if you’re adding more than one table to the use case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist in Document Intelligence forms](now-assist-document-intelligence-forms.md)
+</table>**Parent Topic:**[Now Assist in Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-forms.md)
 
 **Related topics**  
 
 
-[Question form for use case setup](document-qna-single-field-form.md)
+[Question form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-qna-single-field-form.md)
 
-[Field form for use case setup](document-extraction-single-field-form.md)
+[Field form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-extraction-single-field-form.md)
 

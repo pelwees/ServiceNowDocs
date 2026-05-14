@@ -47,12 +47,12 @@ Knowledge gap feedback tasks created through the Knowledge Demand Insights featu
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 
 
 [Create an assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_AssignmentModuleRule.md)
 
-[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](analyze-knowledge-gaps-demand-insights.md)
+[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 

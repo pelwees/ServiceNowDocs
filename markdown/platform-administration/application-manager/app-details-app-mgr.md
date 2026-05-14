@@ -29,11 +29,11 @@ For an application, this page includes the following:
 
 For a plugin or product, this page shows a summary of the plugin or product's function and its dependencies.
 
-![Application Manager details page demonstrating uninstalled application dependencies that can be installed with the application that requires them. No application state indicators are present.](../image/app-mgr-app-details.png "Application details")
+![Application Manager details page demonstrating uninstalled application dependencies that can be installed with the application that requires them. No application state indicators are present.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-mgr-app-details.png "Application details")
 
-The application details page for Now Assist applications includes a Now Assist suite version selector instead of an application version selector. For more information about Now Assist suites, see [Now Assist suite versions in the Application Manager](now-assist-suites-app-mgr.md).
+The application details page for Now Assist applications includes a Now Assist suite version selector instead of an application version selector. For more information about Now Assist suites, see [Now Assist suite versions in the Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/now-assist-suites-app-mgr.md).
 
-![Application details page for a Now Assist application, highlighting the Now Assist suite version selector.](../image/app-mgr-details-now-assist.png "Now Assist application details")
+![Application details page for a Now Assist application, highlighting the Now Assist suite version selector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-mgr-details-now-assist.png "Now Assist application details")
 
 ## Dependencies
 
@@ -55,7 +55,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Green check icon](../image/filled-circle-check.png)
+![Green check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/filled-circle-check.png)
 
 </td><td>
 
@@ -67,7 +67,7 @@ This dependency is already installed on your instance
 
 </td></tr><tr><td>
 
-![Dotted circle outline icon](../image/dotted-circle.png)
+![Dotted circle outline icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/dotted-circle.png)
 
 </td><td>
 
@@ -79,7 +79,7 @@ This dependency isn't installed yet, but is available for installation. It's aut
 
 </td></tr><tr><td>
 
-![Red unavailable icon](../image/unavailable.png)
+![Red unavailable icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/unavailable.png)
 
 </td><td>
 
@@ -89,9 +89,9 @@ Not licensed
 
 This dependency must be procured from the ServiceNow Store before it can be installed. Select the dependency and review any application state indicators for additional details.
 
- For more information about application state indicators, see [Application state indicators in Application Manager](../reference/app-mgr-state-indicators.md).
+ For more information about application state indicators, see [Application state indicators in Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../reference/app-mgr-state-indicators.md).
 
- For more information about procuring applications, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+ For more information about procuring applications, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../../servicenow-store/concept/getting-apps-trials.md).
 
 </td></tr></tbody>
 </table>

@@ -92,7 +92,7 @@ The order \(sequence\) in which the platform tries this credential as it attempt
 
 The credential for use with the vRealize connector is created.
 
-**Parent Topic:**[Configure event collection from vRealize](t_EMConfigurevRealizeConnectorJS.md)
+**Parent Topic:**[Configure event collection from vRealize](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigurevRealizeConnectorJS.md)
 
 **Related topics**  
 

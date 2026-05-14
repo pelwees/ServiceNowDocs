@@ -40,7 +40,7 @@ Role required: sn\_wsd\_rsv.admin
 
 1.  Connect Workplace Reservation Management and Microsoft Teams.
 
-    To create a connections, refer to [Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md).
+    To create a connections, refer to [Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mgmt-with-teams.md).
 
     After the connection is configured, the application by default provides with the **Microsoft Teams** virtual meeting provider.
 
@@ -55,48 +55,48 @@ Role required: sn\_wsd\_rsv.admin
 
 Microsoft Teams is set as the virtual meeting provider.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/wsd-reservation-setup.md)
 
 **Related topics**  
 
 
-[Install Workplace Reservation Management](install-wsd-reservation-mgmt.md)
+[Install Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/install-wsd-reservation-mgmt.md)
 
-[Add a workplace space for reservation](add-reservable-items.md)
+[Add a workplace space for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-items.md)
 
-[Add a workplace room for reservation](add-workplace-rooms.md)
+[Add a workplace room for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-workplace-rooms.md)
 
-[Configure a reservable module](config-reservable-module.md)
+[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-[Assign spaces to an area](add-neighbourhood-spaces-to-an-area.md)
+[Assign spaces to an area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-neighbourhood-spaces-to-an-area.md)
 
-[Create a standard service](add-standard-services.md)
+[Create a standard service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)
 
-[Create a flexible service](add-flexible-service.md)
+[Create a flexible service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-flexible-service.md)
 
-[Create a workplace service to provide an extra service for a reservation](create-workplace-service-to-provide-extra-service.md)
+[Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md)
 
-[Create a reservable view](create-a-reservable-view.md)
+[Create a reservable view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-reservable-view.md)
 
-[Create a user criteria record](create-user-criteria.md)
+[Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-user-criteria.md)
 
-[Configure a reservable purpose](configure-reservable-purpose.md)
+[Configure a reservable purpose](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-purpose.md)
 
-[Create a quick reservation time slot](add-reservable-time-slots.md)
+[Create a quick reservation time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-time-slots.md)
 
-[Configure virtual meeting providers](configure-virtual-meeting-providers.md)
+[Configure virtual meeting providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-virtual-meeting-providers.md)
 
-[Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md)
+[Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mgmt-with-teams.md)
 
-[Connect Workplace Reservation Management with Zoom](connect-rsv-mtm-with-zoom.md)
+[Connect Workplace Reservation Management with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mtm-with-zoom.md)
 
-[Display permanent seat assignments on floor maps](display-permanent-seats-on-maps.md)
+[Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/display-permanent-seats-on-maps.md)
 
-[Display name of the person reserving a space](displayname-person-booking-rsv.md)
+[Display name of the person reserving a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/rsv-config-rsv-mod-value.md)
 

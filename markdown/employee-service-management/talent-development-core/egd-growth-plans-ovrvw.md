@@ -108,5 +108,5 @@ Shows you plan details such as plan status \(all, completed, canceled\), name, s
     **Note:** connect with your manager or HR representative to find out what development opportunities are available to you, to help create a development plan that aligns with your career goals and the priorities of the organization.
 
 
-**Parent Topic:**[Exploring Talent Development Core](egd-explore.md)
+**Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 

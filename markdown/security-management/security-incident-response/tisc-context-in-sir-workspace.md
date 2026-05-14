@@ -30,12 +30,12 @@ Role required: sn\_si.analyst
     **Note:**
 
     -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated Observables** to perform the push operation.
-    -   On the **Investigation** tab, select **View Related Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](../../secops-analyst-workspace/concept/explore-investigation-in-sir-workspace.md).
+    -   On the **Investigation** tab, select **View Related Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/explore-investigation-in-sir-workspace.md).
 4.  For example, select **Threat Intel** &gt; **Associated Observables** to perform the push operation and manually push the data into TISC.
 
 5.  Select one or more observable record to perform **Send Observable to TISC** operation to push the data.
 
-    ![SIR Workspace - Send Observable to TISC](../image/sir-send-to-tisc-observables-page.png)
+    ![SIR Workspace - Send Observable to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-send-to-tisc-observables-page.png)
 
 6.  Select **Send Observable to TISC**.
 
@@ -68,7 +68,7 @@ Role required: sn\_si.analyst
         0.0.0.0
         ```
 
-    ![Send to TISC Push observable operation](../image/sir-send-to-tisc-results.png)
+    ![Send to TISC Push observable operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-send-to-tisc-results.png)
 
 9.  Select **TISC Context**.
 
@@ -76,7 +76,7 @@ Role required: sn\_si.analyst
 
     -   You will now see the observable that is pushed to TISC from SIR application.
 
-        ![View observables associated info.](../image/tisc-context-associate-observables.png)
+        ![View observables associated info.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/tisc-context-associate-observables.png)
 
     -   **In a manual push operation**: The observable data can only be pushed if they are linked to the security incidents. Once the observable is pushed from SIR then that data can be identified using sources which will have reference to security incident linked to the observable.
     -   **In an automatic push operation**: The observable or enrichment data will be pushed automatically when it is associated to security incident.
@@ -89,20 +89,20 @@ Role required: sn\_si.analyst
 10. View the results.
 
 
-**Parent Topic:**[Send data from SIR Workspace to TISC](../concept/send-sir-to-tisc.md)
+**Parent Topic:**[Send data from SIR Workspace to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/send-sir-to-tisc.md)
 
 **Related topics**  
 
 
-[System properties to send data](../reference/tisc-integrations-system-properties.md)
+[System properties to send data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/tisc-integrations-system-properties.md)
 
-[Add security incident to TISC case](add-incident-to-case.md)
+[Add security incident to TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-incident-to-case.md)
 
-[Add observables to TISC Case](observables-to-case.md)
+[Add observables to TISC Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/observables-to-case.md)
 
-[Send Threat Lookup to TISC](send-threat-lookup-to-tisc.md)
+[Send Threat Lookup to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-threat-lookup-to-tisc.md)
 
-[Send Sighting Search to TISC](send-sighting-search-to-tisc.md)
+[Send Sighting Search to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-sighting-search-to-tisc.md)
 
-[Send Observable Enrichment to TISC](send-observable-enrichment-to-tisc.md)
+[Send Observable Enrichment to TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-observable-enrichment-to-tisc.md)
 

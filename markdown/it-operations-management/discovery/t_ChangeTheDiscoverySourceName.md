@@ -25,7 +25,7 @@ The Source \[sys\_object\_source\] table stores information identifying the sour
 
 To view this information, configure a CI form and add the **Sources** related list. This table is populated automatically when the Discovery plugin is enabled.
 
-![Sources List](../image/DiscoveryCISources.png "Sources List")
+![Sources List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryCISources.png "Sources List")
 
 To migrate your Discovery Source to ServiceNow:
 
@@ -46,5 +46,5 @@ To migrate your Discovery Source to ServiceNow:
 7.  Use the Update All option to change the value to ServiceNow.
 
 
-**Parent Topic:**[Advanced Discovery configuration](../concept/c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryExtendedCapabilities.md)
 

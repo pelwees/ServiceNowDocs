@@ -15,16 +15,16 @@ Plan and configure your implementation of synthetic monitoring.
 
 ## Configuration overview
 
--   **[Install synthetic monitoring](../task/install-synthetic-monitoring.md)**  
+-   **[Install synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/install-synthetic-monitoring.md)**  
 You can install the synthetic monitoring application \(`com.snc.uib.sow_synthetics`\) with the admin role.
--   **[Create synthetic monitoring locations](../task/create-synthetic-monitoring-locations.md)**  
+-   **[Create synthetic monitoring locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/create-synthetic-monitoring-locations.md)**  
 Create a synthetic monitoring location to run a synthetic monitor. If you plan to run monitors from a ServiceNow hosted location, you can skip this procedure.
--   **[Create and edit a synthetic monitor](../task/create-synthetic-monitor.md)**  
+-   **[Create and edit a synthetic monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/create-synthetic-monitor.md)**  
 Create or edit a synthetic monitor to test the availability and performance of your HTTP endpoints before your customers discover issues.
--   **[Create synthetic monitors from incidents](../task/create-synthetic-monitors-from-incidents.md)**  
+-   **[Create synthetic monitors from incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/create-synthetic-monitors-from-incidents.md)**  
 Create synthetic monitors from incidents to proactively track endpoint failures and reduce repeat occurrences.
--   **[Manage synthetic monitors](../task/manage-synthetic-monitors.md)**  
+-   **[Manage synthetic monitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/manage-synthetic-monitors.md)**  
 Edit or delete synthetic monitors after creating them.
 
-**Parent Topic:**[ITOM AIOps](../../it-operations-management/reference/itom-health-landing-page.md)
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../it-operations-management/reference/itom-health-landing-page.md)
 

@@ -93,7 +93,7 @@ Connection Alias
 
 </td><td>
 
-Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)
+Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ XML request message to delete a user. See the documentation for your chosen API 
     |-----|-----|
     |Connection Details|
     |Connection|**Use Connection Alias**.|
-    |Connection Alias|Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)|
+    |Connection Alias|Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)|
     |Base URL|This value is automatically populated when you select the connection alias. It's set to the Connection URL from the HTTP\(s\) Connection record linked to the alias.|
     |Request Details|
     |Build Request|**Manually**.|

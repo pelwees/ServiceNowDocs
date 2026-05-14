@@ -45,6 +45,6 @@ Ensure that you have installed the following applications:
 
     The Cloud file configuration record is displayed.
 
-    For more information on the fields, see [Create a Cloud file configuration record](manage-access-permissions-to-the-cloud-file.md).
+    For more information on the fields, see [Create a Cloud file configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/manage-access-permissions-to-the-cloud-file.md).
 
 

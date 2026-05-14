@@ -40,5 +40,5 @@ As a knowledge contributor, when editing a knowledge article you can select cate
 5.  Click **OK**.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 

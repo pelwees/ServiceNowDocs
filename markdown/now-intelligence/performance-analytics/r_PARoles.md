@@ -40,7 +40,7 @@ No role
 -   View Performance Analytics visuals on the Service Portal.
 -   View dashboards that have been shared with this user.
 
-Some dashboards require a subject matter related role for viewing, such as sn\_hr\_core\_basic for the HR Agent dashboard. Dashboard owners and administrators can also restrict dashboard access by role. For more information, see [Dashboard permissions](../../dashboards/concept/c_DashboardRoles.md).
+Some dashboards require a subject matter related role for viewing, such as sn\_hr\_core\_basic for the HR Agent dashboard. Dashboard owners and administrators can also restrict dashboard access by role. For more information, see [Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/c_DashboardRoles.md).
 
 
 </td><td>
@@ -115,7 +115,7 @@ pa\_kpi\_signal\_adminContained by: admin
 
 </td><td>
 
-Enables the user to dismiss a signal or reset the baseline for [KPI Signals](../../par-for-workspace/concept/process-behavior-charts-for-kpis.md).
+Enables the user to dismiss a signal or reset the baseline for [KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/process-behavior-charts-for-kpis.md).
 
 </td><td>
 
@@ -187,7 +187,7 @@ pa\_data\_collectorContained by: pa\_admin
 
 </td><td>
 
--   CRUD, schedule, and run [data collection jobs](../concept/performance-analytics-glossary.md#)
+-   CRUD, schedule, and run [data collection jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#)
 -   CRUD indicator and breakdown sources
 -   Read some system properties
 -   CRUD system units
@@ -219,7 +219,7 @@ admin
 
 </td><td>
 
-The system administrator role. Users with the admin role can perform all pa\_admin functions, edit properties, create [database views](../concept/performance-analytics-glossary.md#), CRUD any dashboard, and assign ownership to dashboards.
+The system administrator role. Users with the admin role can perform all pa\_admin functions, edit properties, create [database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-glossary.md#), CRUD any dashboard, and assign ownership to dashboards.
 
 </td><td>
 
@@ -293,7 +293,7 @@ Domain administrator with Performance Analytics expertise
 
 Certain roles such as pa\_power\_user and pa\_admin include other roles. For example, pa\_power\_user includes pa\_contributor. This diagram shows the role hierarchy.
 
-![The pa_admin role hierarchy.](../image/pa_role-hierarchy.png)
+![The pa_admin role hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/pa_role-hierarchy.png)
 
 ## Required roles for actions
 
@@ -451,7 +451,7 @@ Read a dashboard that has been shared with you
 
 </td><td>
 
-No role by default, but dashboards can require roles to view their data. For more information, see [Dashboard permissions](../../dashboards/concept/c_DashboardRoles.md).
+No role by default, but dashboards can require roles to view their data. For more information, see [Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/c_DashboardRoles.md).
 
 </td></tr><tr><td>
 
@@ -766,12 +766,12 @@ CRUD
 pa\_power\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Performance Analytics reference](../concept/performance-analytics-reference.md)
+</table>**Parent Topic:**[Performance Analytics reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/performance-analytics-reference.md)
 
 **Related topics**  
 
 
-[Dashboard permissions](../../dashboards/concept/c_DashboardRoles.md)
+[Dashboard permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/c_DashboardRoles.md)
 
-[Administering reports](../../reporting/concept/c_AdminsteringReports.md)
+[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/concept/c_AdminsteringReports.md)
 

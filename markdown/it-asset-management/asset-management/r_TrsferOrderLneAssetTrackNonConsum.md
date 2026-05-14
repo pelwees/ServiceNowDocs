@@ -24,14 +24,14 @@ When transfer order line stages change for non-consumables, it affects asset sub
 |Received|Asset moves to **In Stock** &gt; **Available** \(in the destination stockroom\).|
 |Delivered|Asset moves to **In Stock** &gt; **Reserved**.|
 
-**Parent Topic:**[Transfer order line asset tracking](r_TransferOrderLineAssetTracking.md)
+**Parent Topic:**[Transfer order line asset tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_TransferOrderLineAssetTracking.md)
 
 **Related topics**  
 
 
-[Delete a transfer order](../task/t_DeleteATransferOrder.md)
+[Delete a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrder.md)
 
-[Delete a transfer order line](../task/t_DeleteATransferOrderLine.md)
+[Delete a transfer order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrderLine.md)
 
-[Return items received in a transfer order](../task/t_ReturnItemsRecInXferOrder.md)
+[Return items received in a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_ReturnItemsRecInXferOrder.md)
 

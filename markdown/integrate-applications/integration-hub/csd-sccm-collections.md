@@ -25,7 +25,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin or admin.
 
 The SCCM configuration process associates software with SCCM collections. To deploy software from an SCCM server, the user or device must be a member of an SCCM collection associated with an **install** deployment. Client Software Distribution \(CSD\) allows you to revoke unentitled software using an SCCM server when that software can be removed using an **uninstall** collection. Users requesting revokable software from the Service Catalog also have the ability to define lease start and stop dates and request lease extensions.
 
-![SCCM table references.](../images/SCCMTableRelationshipsDiagram.png "SCCM table references")
+![SCCM table references.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/SCCMTableRelationshipsDiagram.png "SCCM table references")
 
 ## Procedure
 
@@ -37,7 +37,7 @@ The SCCM configuration process associates software with SCCM collections. To dep
 
 4.  Complete the form, using the fields in the table.
 
-    ![SCCM configuration form.](../images/SCCMConfigurationForm.png "SCCM configuration form")
+    ![SCCM configuration form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/SCCMConfigurationForm.png "SCCM configuration form")
 
 <table id="table_jrj_05d_gk"><thead><tr><th>
 
@@ -92,5 +92,5 @@ Discovery model that links the unentitled software installation with the SCCM co
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/configure-sccm-ihub.md)
 

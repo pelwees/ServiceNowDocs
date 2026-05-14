@@ -17,7 +17,7 @@ The CHRO Dashboard serves as a comprehensive workspace for evaluating the health
 
 This dashboard visualizes essential people insights, including onboarding trends by HR service, time to resolve employee issues, unassigned case backlogs, case survey results, SLA breaches by priority, hiring mix, promotion patterns, representation by job level, and revenue according to employee. These metrics help HR leaders improve workforce planning, strengthen employee experience, enhance operational efficiency, and support long-term talent strategy.
 
-![CHRO Dashboard Operations tab with Onboarding, Care, Continuous Improvement, Satisfaction, and Relations pillars, each containing operational metrics and visualizations.](../image/chro-db-ops-tab.png)
+![CHRO Dashboard Operations tab with Onboarding, Care, Continuous Improvement, Satisfaction, and Relations pillars, each containing operational metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/chro-db-ops-tab.png)
 
-![CHRO Dashboard People tab with Grow, Develop, Diversify, Empower, and Reward pillars, each containing HR metrics and visualizations.](../image/chro-db-people-tab.png)
+![CHRO Dashboard People tab with Grow, Develop, Diversify, Empower, and Reward pillars, each containing HR metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/chro-db-people-tab.png)
 

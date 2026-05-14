@@ -34,8 +34,8 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
--   **[Configure the Microsoft Word add-in for ServiceNow Contracts](snlc-config-word-addin.md)**  
+-   **[Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-word-addin.md)**  
 As an admin, configure the Microsoft Word add-in for ServiceNow Contracts.
 
-**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](../concept/snlc-config-sn-legal-contracts.md)
+**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-config-sn-legal-contracts.md)
 

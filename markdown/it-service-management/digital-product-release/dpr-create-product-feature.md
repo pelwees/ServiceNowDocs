@@ -23,7 +23,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select a product or service from the list to open.
 
@@ -57,7 +57,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 10. Add artifacts for the product feature.
 
-    1.  Select the attachment icon \(![Attachment icon.](../image/dpr-icon-attachment.png)\) on the contextual menu to open the **Attachments** pane.
+    1.  Select the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-attachment.png)\) on the contextual menu to open the **Attachments** pane.
 
     2.  Select the **Select** button to upload and attach a file.
 

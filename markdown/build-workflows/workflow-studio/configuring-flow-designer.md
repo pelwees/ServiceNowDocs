@@ -23,31 +23,31 @@ Workflow Studio flows, subflows, and actions are ServiceNow AI Platform features
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Retain flow execution details|[Flow execution details retention](flow-reporting.md)|
-|Create flow-specific execution settings|[Flow execution settings](flow-execution-settings.md)|
-|Enable flow reporting|[Activate flow reporting](../task/enable-flow-reporting.md#)|
-|View flow and action dashboards|[FDIH Dashboard](fdih-dashboard.md)|
-|Set flow priority|[Flow priority](flow-priority.md)|
+|Retain flow execution details|[Flow execution details retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-reporting.md)|
+|Create flow-specific execution settings|[Flow execution settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-execution-settings.md)|
+|Enable flow reporting|[Activate flow reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/enable-flow-reporting.md#)|
+|View flow and action dashboards|[FDIH Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/fdih-dashboard.md)|
+|Set flow priority|[Flow priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-priority.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Grant users access to build flows by role|[User access to Workflow Studio flows](user-access-flow-designer.md)|
-|Restrict access to individual flow and action features by custom roles|[Manage access to Workflow Studio flow features](../task/manage-access-features.md)|
-|Filter flow and action content by role|[Content filtering for Workflow Studio flows](content-filtering-flow-designer.md)|
+|Grant users access to build flows by role|[User access to Workflow Studio flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/user-access-flow-designer.md)|
+|Restrict access to individual flow and action features by custom roles|[Manage access to Workflow Studio flow features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/manage-access-features.md)|
+|Filter flow and action content by role|[Content filtering for Workflow Studio flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/content-filtering-flow-designer.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Grant access to flow and action APIs|[API access to Workflow Studio flows](api-access-flow-designer.md)|
-|Create code snippets|[Create code snippets for flows, subflows, and actions](../task/flow-design-code-snippet.md)|
-|Create a client callable flow, subflow, or action|[Create a client callable flow, subflow, or action](../task/grant-access-flow-apis.md)|
+|Grant access to flow and action APIs|[API access to Workflow Studio flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/api-access-flow-designer.md)|
+|Create code snippets|[Create code snippets for flows, subflows, and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/flow-design-code-snippet.md)|
+|Create a client callable flow, subflow, or action|[Create a client callable flow, subflow, or action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/grant-access-flow-apis.md)|
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Manage cross-scope access to flows and actions|[Restricted caller access to Workflow Studio flows](restricted-caller-access-flow-designer.md#)|
-|Upgrade restricted caller access|[Upgrade restricted caller access privileges for flows and actions](restricted-caller-access-flow-designer.md#)|
+|Manage cross-scope access to flows and actions|[Restricted caller access to Workflow Studio flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/restricted-caller-access-flow-designer.md#)|
+|Upgrade restricted caller access|[Upgrade restricted caller access privileges for flows and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/restricted-caller-access-flow-designer.md#)|
 
 |Configuration option|Reference|
 |--------------------|---------|
-|Update flow diagramming|[Update to the latest version of Flow Diagramming](../task/update-to-latest-version-flow-diagramming.md)|
-|Update Workflow Studio and all of its dependencies|[Update to the latest version of Workflow Studio](../../workflow-studio/task/update-to-the-latest-version-of-workflow-studio.md)|
+|Update flow diagramming|[Update to the latest version of Flow Diagramming](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/update-to-latest-version-flow-diagramming.md)|
+|Update Workflow Studio and all of its dependencies|[Update to the latest version of Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/task/update-to-the-latest-version-of-workflow-studio.md)|
 

@@ -13,5 +13,5 @@ breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
 
 stub topic.
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

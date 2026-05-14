@@ -21,7 +21,7 @@ One of the keys to the functionality of the integration and how a profile works 
 
 In an ideal case, a matching value is found in the database, and data can be gathered from the McAfee ePO console for the matching asset, pulled into your ServiceNow AI Platform® instance, and displayed on the related lists of a security incident. The following figure shows an example of the Configuration Item field populated with a host name on a SIR security incident.
 
-![CI field with a value highlighted.](../image/mcafee-si-ci-fieldexmp.png "Security incident - Configuration item")
+![CI field with a value highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-si-ci-fieldexmp.png "Security incident - Configuration item")
 
 In cases when the Configuration item \(CI\) field is not populated on the security incident, or a match cannot be found for a FQDN, a host name, or an IP address that matches the database, you can select an alternate field on the security incident to display any matching CI enrichment data found during the scan of your assets.
 
@@ -29,15 +29,15 @@ During the configuration step of the profile setup, you can select an alternate 
 
 As an example, as a security operations center \(SOC\) analyst, you create a custom field for a security incident called, IP Address on my security incident. If you do not think that the value of this custom field will be displayed in the Configuration Item field on the security incident upon incident creation, you can set up the profile so it scans for this IP address. If matched, the IP address is displayed on the security incident in the field of your choice. In the following figure, the `Identified CI` field is selected as the alternate field for the IP Address for this example.
 
-![Identified CI field highlighted as alternate CI field.](../image/mcafee-si-ci-fieldexmp2.png "Security incident - Identified CI")
+![Identified CI field highlighted as alternate CI field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-si-ci-fieldexmp2.png "Security incident - Identified CI")
 
 The following figure illustrates how the first search of the workflow scans for matches for Configuration Items. If the Alternate CI trigger field is enabled, the second search scans for matches for alternate values.
 
-![Alt CI flow.](../image/mcafee-alt-ci.png "Configuration items workflow")
+![Alt CI flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-alt-ci.png "Configuration items workflow")
 
 If matching IDs are not found for the CI field or the alternate CI field, a work note is logged and a message is displayed on the security incident. When no matches are found, no enrichment data are populated on the security incidents related to the event.
 
-You enable the alternate CI trigger field and select the field you want to display the matching ID during the configuration step for a profile. This step for enabling the alternate CI field is described along with the other profile configuration requirements in [Configure settings](mcafee-epo-configuring-profile.md).
+You enable the alternate CI trigger field and select the field you want to display the matching ID during the configuration step for a profile. This step for enabling the alternate CI field is described along with the other profile configuration requirements in [Configure settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-configuring-profile.md).
 
-**Parent Topic:**[McAfee ePO integration capability profiles](mcafee-epo-creating-profiles.md)
+**Parent Topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)
 

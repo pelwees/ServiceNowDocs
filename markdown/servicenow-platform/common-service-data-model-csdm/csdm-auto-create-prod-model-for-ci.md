@@ -52,7 +52,7 @@ Operation of the script:
 
     3.  On the **Basic Info** page for the class, enter a name in the **Default Product Model** field.
 
-        ![Specify the default name to use for new product models.](../image/csdm-ci-class-mgr-basic-info.png)
+        ![Specify the default name to use for new product models.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-ci-class-mgr-basic-info.png)
 
 2.  Run the CSDM Product Model Assignment job.
 
@@ -74,5 +74,5 @@ Operation of the script:
 4.  Run the job whenever you want to create product model settings for new class instances.
 
 
-**Parent Topic:**['Foundation' stage reports on the CSDM Data Foundations dashboard](../reference/csdm-datafdn-dash-foundation-tab.md)
+**Parent Topic:**['Foundation' stage reports on the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../reference/csdm-datafdn-dash-foundation-tab.md)
 

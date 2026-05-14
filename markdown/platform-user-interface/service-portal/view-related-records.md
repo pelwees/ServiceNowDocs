@@ -46,7 +46,7 @@ You can view these related records directly from your portal page to check the c
     |Blue|New widget|
     |Red|Customized widget|
 
-4.  On any widget, click the information icon \(![Information icon](../image/info-icon.png)\).
+4.  On any widget, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/info-icon.png)\).
 
 5.  On the window, open links to the following related records:
 
@@ -85,7 +85,7 @@ Angular ng-templates that the widget uses from the Angular ng-templates \[sp\_ng
 </td></tr></tbody>
 </table>    Related records that you modified or developed are outlined in red.
 
-    ![Related records outlined in red](../image/outlined-in-red.png)
+    ![Related records outlined in red](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/outlined-in-red.png)
 
     You can open each related record by clicking the record name.
 

@@ -36,7 +36,7 @@ The **sn\_sales\_common.enable\_location\_based\_transactions** system property 
 
 ## What to do next
 
-Define the [product eligibility rule filters](som-create-rule-entity-filter.md) and [matrices](som-define-eligibility-rules.md) that control the product offerings displayed by location.
+Define the [product eligibility rule filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-create-rule-entity-filter.md) and [matrices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-define-eligibility-rules.md) that control the product offerings displayed by location.
 
-**Parent Topic:**[Configuring location-based product transactions](../concept/config-location-transaction.md)
+**Parent Topic:**[Configuring location-based product transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/config-location-transaction.md)
 

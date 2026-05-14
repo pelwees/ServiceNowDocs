@@ -49,7 +49,7 @@ You need to create a one-to-one incident status mapping of Netskope and ServiceN
     -   Provide the internal name of the default status \(For example: new, in\_progress, closed\) or exact name of status in case of custom state for the Netskope Object Status fields.
     **Warning:** Do not modify the status on the Netskope platform after completing the status mapping configuration from here.
 
-    ![Netskope DLP incident status mapping.](../image/dlp-netskope-incident-mapping.png)
+    ![Netskope DLP incident status mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-netskope-incident-mapping.png)
 
     |Field|Description|
     |-----|-----------|
@@ -67,5 +67,5 @@ After successfully creating the record for status mapping, whenever there is an 
 
 **Note:** If you change the status of any DLP incident on Netskope tenant directly, then the status sync from SN to Netskope will not work considering the API limitations. Ensure you map all the DLP incident status with Netskope object status carefully.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-response-integration-netskope.md)
 

@@ -45,5 +45,5 @@ Role required: sn\_hr\_le.admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Lifecycle Events logging](../concept/le-logging.md)
+**Parent Topic:**[Lifecycle Events logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/le-logging.md)
 

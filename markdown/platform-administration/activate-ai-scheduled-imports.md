@@ -42,10 +42,10 @@ Asset Intelligence is supported in these SCCM plugins:
     -   SCCM &lt;version&gt; Software \(with AI\)
     -   SCCM &lt;version&gt; Removed Software \(with AI\)
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_MicrosoftSCCMIntegration.md)
 
 **Related topics**  
 
 
-[Configure the SCCM integration and schedule an import](configure-sccm-data-import.md)
+[Configure the SCCM integration and schedule an import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-sccm-data-import.md)
 

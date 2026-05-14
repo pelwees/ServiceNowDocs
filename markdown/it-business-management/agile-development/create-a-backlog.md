@@ -61,7 +61,7 @@ Visible to
 
 </td><td>
 
-Users that you want to share the backlog with. Use the Unlock Visible to icon \(![Unlock Visible to icon.](../image/visibleto.png)\) to add users.
+Users that you want to share the backlog with. Use the Unlock Visible to icon \(![Unlock Visible to icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/visibleto.png)\) to add users.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Visible to Groups
 
 </td><td>
 
-Groups of users that you want to share the backlog with. Use the Unlock Visible to icon \(![Unlock Visible to icon.](../image/visibleto.png)\) to add groups.
+Groups of users that you want to share the backlog with. Use the Unlock Visible to icon \(![Unlock Visible to icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/visibleto.png)\) to add groups.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Filter
 Filter criteria that are applied to stories in the backlog.The default filter criteria is **Active is True** and **Sprint is Empty**.
 
 </td></tr></tbody>
-</table>    ![Personal Backlog form.](../image/agile-personal-backlog-form.png)
+</table>    ![Personal Backlog form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-personal-backlog-form.png)
 
 4.  Select **Submit**.
 
@@ -89,5 +89,5 @@ Filter criteria that are applied to stories in the backlog.The default filter cr
 
 You can create any number of personal backlogs that match different priorities. Access all your personal backlogs by navigating to **Agile Development** &gt; **Personal Backlogs** and also on the Backlog tab of your Agile Board.
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 

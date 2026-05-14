@@ -17,7 +17,7 @@ Managers can use Intelligent Servicing for Fraud workspace to view the cases and
 
 The following is an example of the workspace landing page for the fraud manager.
 
-![Example landing page in workspace for fraud agent showing number and list of pending approval tasks, number and list of team's open cases, and SLA indicators.](../image/fso-manager-workspace.png "Example of the landing page for fraud manager")
+![Example landing page in workspace for fraud agent showing number and list of pending approval tasks, number and list of team's open cases, and SLA indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/intelligent-servicing-for-fraud/../image/fso-manager-workspace.png "Example of the landing page for fraud manager")
 
-![Example landing page in workspace for fraud manager showing number and list of team's closed cases, total write off amount and total recovered cases.](../image/fraud-manager-dashboard.png "Example of the fraud manager dashboard")
+![Example landing page in workspace for fraud manager showing number and list of team's closed cases, total write off amount and total recovered cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/intelligent-servicing-for-fraud/../image/fraud-manager-dashboard.png "Example of the fraud manager dashboard")
 

@@ -52,5 +52,5 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 
 A new contract document revision is created with the latest signatory details and sent for signature. The Activity stream displays details of the contract document that is sent for signature.
 
-**Parent Topic:**[Updating and synchronizing signatories](cncore-update-sync-signatories.md)
+**Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 

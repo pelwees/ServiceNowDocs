@@ -19,15 +19,15 @@ Use ServiceNow Now Assist in Knowledge Management to generate a new knowledge ar
 
 <table id="table_xbm_vww_m1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist in Knowledge Management.](../concept/exploring-now-assist-KM.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills available in Now Assist in Knowledge Management.](../concept/exploring-now-assist-KM.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Knowledge Management and configure the generative AI skills.](../concept/configuring-now-assist-km.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate Now Assist in Knowledge Management and configure the generative AI skills.](../concept/configuring-now-assist-km.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-person.svg)Generate new articles with Now Assist in Knowledge Management.](../concept/using-now-assist-in-km.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../../reuse/icons/brand-icons/bus-person.svg)Generate new articles with Now Assist in Knowledge Management.](../concept/using-now-assist-in-km.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

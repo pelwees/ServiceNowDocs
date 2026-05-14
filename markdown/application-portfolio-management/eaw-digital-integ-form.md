@@ -155,12 +155,12 @@ Description
 Description about the digital integration. Describe in detail why the integration is being created between two business applications or between an external service provided interface and a business application and what business value it adds.
 
 </td></tr></tbody>
-</table>Additional fields appear after the digital integration is created. For details on the additional fields, see [Digital integration form in EA Workspace](eaw-update-digital-integration-form.md).
+</table>Additional fields appear after the digital integration is created. For details on the additional fields, see [Digital integration form in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-update-digital-integration-form.md).
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a digital integration in the EA Workspace](../../task/eaw-task/eaw-create-digital-integ.md)
+[Add or edit a digital integration in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-digital-integ.md)
 

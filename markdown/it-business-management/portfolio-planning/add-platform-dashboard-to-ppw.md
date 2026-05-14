@@ -35,7 +35,7 @@ You can add any Platform Analytics dashboard to the Portfolio Planning Workspace
 
 3.  From the dashboard header, select **Edit**.
 
-4.  From the dashboard header, select the View dashboard details icon \(![View dashboard details icon.](../../spw-dashboards/Images/view-dashboard-details-icon-spw.png)\).
+4.  From the dashboard header, select the View dashboard details icon \(![View dashboard details icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-dashboards/Images/view-dashboard-details-icon-spw.png)\).
 
     1.  In the Details side panel, fill in the **Dashboard visibility** field with Portfolio Planning Workspace.
 
@@ -48,16 +48,16 @@ You can add any Platform Analytics dashboard to the Portfolio Planning Workspace
 
 The dashboard appears on the Portfolio Planning Workspace.
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/using-dashboards-in-ppw.md)
 
 **Related topics**  
 
 
-[View a dashboard in Portfolio Planning Workspace](view-dashboard-ppw.md)
+[View a dashboard in Portfolio Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/view-dashboard-ppw.md)
 
-[Create a dashboard](create-dashboard-ppw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-dashboard-ppw.md)
 
-[Duplicate a dashboard](copy-dashboard-ppw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-dashboard-ppw.md)
 
-[Share a dashboard](share-dashboard-ppw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-dashboard-ppw.md)
 

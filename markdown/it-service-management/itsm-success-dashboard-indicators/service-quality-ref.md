@@ -21,5 +21,5 @@ Service quality lists all the KPIs that help you understand the quality of servi
 -   **% First assignment resolution**: Calculated as the percentage of tickets that were resolved without having to reassign the ticket to a different group.
 -   **% Reopened tickets:** Calculated from the percentage of resolved tickets that were reopened during a specified period.
 
-**Parent Topic:**[ITSM Success Dashboard indicators KPI definitions and formulas](sd-kpi-formulae.md)
+**Parent Topic:**[ITSM Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md)
 

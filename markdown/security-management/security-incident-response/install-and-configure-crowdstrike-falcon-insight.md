@@ -72,7 +72,7 @@ Client Secret
 The client secret key that you obtain from the settings section of your account profile in the CrowdStrike Falcon Insight portal.
 
 </td></tr></tbody>
-</table>    ![CrowdStrike Falcon Insight configuration tile.](../image/falcon-insight-configuration-tile.png)
+</table>    ![CrowdStrike Falcon Insight configuration tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-configuration-tile.png)
 
 5.  Select **Submit**.
 

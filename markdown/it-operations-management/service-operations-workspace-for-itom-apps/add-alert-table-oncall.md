@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_admin
 
 2.  On the form, fill in the fields with the following values.
 
-    ![Trigger rule table config form.](../image/sow-trigger-rule-table-config.png)
+    ![Trigger rule table config form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-trigger-rule-table-config.png)
 
     -   In the **Table** field, select **Alert \[em\_alert\]**.
     -   In the **Trigger group** field, select **Assignment group**.
@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_admin
 
 [Create on-call shift for your team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md).
 
-**Parent Topic:**[On-call scheduling in Service Operations Workspace for ITOM](../concept/oncall-schedule-escalation.md)
+**Parent Topic:**[On-call scheduling in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/oncall-schedule-escalation.md)
 

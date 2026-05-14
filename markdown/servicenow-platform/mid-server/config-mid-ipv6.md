@@ -21,7 +21,7 @@ Role required: admin
 
 <table id="table_kzy_tbj_35b"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task

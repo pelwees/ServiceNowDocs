@@ -40,7 +40,7 @@ The lease-end process for the specified lease contract begins. The Enterprise As
 
 ## What to do next
 
-Complete the Planning task for the lease contract so that you can specify what action you want to take on either the associated enterprise asset or the lease contract itself. See [Complete the Planning task for an expiring enterprise asset lease contract](complete-leased-asset-planning.md) for detailed instructions.
+Complete the Planning task for the lease contract so that you can specify what action you want to take on either the associated enterprise asset or the lease contract itself. See [Complete the Planning task for an expiring enterprise asset lease contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-leased-asset-planning.md) for detailed instructions.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-expiring-contracts-leased-assets.md)
 

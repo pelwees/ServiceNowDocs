@@ -90,5 +90,5 @@ Install Workforce Optimization by requesting it from the ServiceNow Store. Visit
     Agents can swap shifts, manage their time-off requests and approvals, and complete assigned training using ServiceNow® CSM Agent Workspace.
 
 
-**Parent Topic:**[Customer Service Management release notes](customer-service-mgmt-rn-landing.md)
+**Parent Topic:**[Customer Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/customer-service-mgmt-rn-landing.md)
 

@@ -25,10 +25,10 @@ Role required: sn\_gf.goal\_admin
 
 2.  On the Goal Preferences form, configure the properties.
 
-    For properties information, see [Goal Preferences form](../../goal-framework/reference/goal-preferences-form.md).
+    For properties information, see [Goal Preferences form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../goal-framework/reference/goal-preferences-form.md).
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[Configuring goals in Strategic Planning](../concept/configuring-goal-framework-apw.md)
+**Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/configuring-goal-framework-apw.md)
 

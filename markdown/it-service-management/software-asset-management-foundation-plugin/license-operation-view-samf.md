@@ -19,7 +19,7 @@ View all details related to entitlements and software models in the License oper
 
 You can access the License operations view by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **License operations**.
 
-![License operations view](../image/license-operations-samf.png "License operations")
+![License operations view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../image/license-operations-samf.png "License operations")
 
 The License operations view also lets you view:
 
@@ -28,8 +28,8 @@ The License operations view also lets you view:
 -   discovery models.
 -   license consumption.
 
--   **[View discovery models in workspace](../task/view-discovery-models-workspace.md)**  
+-   **[View discovery models in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/view-discovery-models-workspace.md)**  
 View a list of all the discovered software for your engineering applications in the Software Asset Workspace.
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](using-samf-workspace.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)
 

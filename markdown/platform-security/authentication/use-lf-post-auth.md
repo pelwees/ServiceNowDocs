@@ -21,7 +21,7 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-Create a Location Filter with the countries that you want restrict access to the users based on the location. For more information, see [Create Location filter criteria](create-location-filter-criteria.md).
+Create a Location Filter with the countries that you want restrict access to the users based on the location. For more information, see [Create Location filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
 
 ## Procedure
 
@@ -41,27 +41,27 @@ Create a Location Filter with the countries that you want restrict access to the
 
 3.  In the Allow Access Policy, under the Policy Inputs section, select **New**.
 
-    ![Add Post auth](../images/edit-post-auth.png)
+    ![Add Post auth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/edit-post-auth.png)
 
 4.  Add the Role Filter criteria and Location Filter criteria.
 
     1.  Adding Role Filter criteria:
 
-        -   Create Role Filter Input as `itil`.![Itil Post Auth](../images/itil-post-auth.png)
-        -   Create Role Filter Condition and set it to `true`.![Role condition](../images/itil-post-auth-condition.png)
-        For more information on how to create role filter criteria, see [Create role filter criteria](create-role-filter-criteria.md).
+        -   Create Role Filter Input as `itil`.![Itil Post Auth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/itil-post-auth.png)
+        -   Create Role Filter Condition and set it to `true`.![Role condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/itil-post-auth-condition.png)
+        For more information on how to create role filter criteria, see [Create role filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md).
 
     2.  Adding Location Filter criteria:
 
-        -   Create Location Filter Input. Add United States in the Locations.![Ading Location](../images/itil-post-auth-US.png)
-        -   Create Location Filter Condition and set it to `true`.![Location Filter Condition](../images/itil-post-auth-US-condition.png)
-        For more information on how to create role filter criteria, see [Create Location filter criteria](create-location-filter-criteria.md).
+        -   Create Location Filter Input. Add United States in the Locations.![Ading Location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/itil-post-auth-US.png)
+        -   Create Location Filter Condition and set it to `true`.![Location Filter Condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/itil-post-auth-US-condition.png)
+        For more information on how to create role filter criteria, see [Create Location filter criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-location-filter-criteria.md).
 
         The Allow Access Policy shows the Policy Inputs and Conditions that are created in the previous steps:
 
         -   Policy Inputs: itil, itil user from US
         -   Policy Conditions: itil user login, itil user from US condition.
-        ![Policy Input and Conditions](../images/post-auth-policy-condition.png)
+        ![Policy Input and Conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/post-auth-policy-condition.png)
 
         **Note:**
 

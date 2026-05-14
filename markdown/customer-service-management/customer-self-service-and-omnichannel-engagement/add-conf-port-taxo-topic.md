@@ -17,9 +17,9 @@ Add a Portal Taxonomy Topic widget to your portal to display topics that your us
 
 ## Before you begin
 
-The UI Components for Customer Portals plugin must have been activated. For more information, see [Activate the UI Components for Customer Portals plugin](activate-config-portal-widget.md)
+The UI Components for Customer Portals plugin must have been activated. For more information, see [Activate the UI Components for Customer Portals plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-config-portal-widget.md)
 
-If you have not already created the page to which you want to add the widget, see [Create a page for Configurable Portal widgets](create-page-configurable-portal-widget.md).
+If you have not already created the page to which you want to add the widget, see [Create a page for Configurable Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-page-configurable-portal-widget.md).
 
 Role required: sp\_admin
 
@@ -35,7 +35,7 @@ Role required: sp\_admin
 
 5.  In the Layouts section, drag the Container layout onto the portal edit page.
 
-6.  On the container, add a set of columns by selecting the plus button \(![Plus button](../image/portal-plus-icon.png)\).
+6.  On the container, add a set of columns by selecting the plus button \(![Plus button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-plus-icon.png)\).
 
 7.  On the Widgets pane, in the **Filter Widget** field, enter `Portal Taxonomy Topic`.
 
@@ -43,16 +43,16 @@ Role required: sp\_admin
 
 9.  In the Edit page, select the Portal Taxonomy Topic widget.
 
-10. Enable editing the widget by selecting the Pencil icon \(![Pencil icon](../image/icon-pencil-ac.png)\).
+10. Enable editing the widget by selecting the Pencil icon \(![Pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/icon-pencil-ac.png)\).
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [Portal Taxonomy Topic widget instance options form](../reference/port-taxo-topic-inst-optns.md).
+    For a description of the field values, see [Portal Taxonomy Topic widget instance options form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/port-taxo-topic-inst-optns.md).
 
 12. Select **Save**.
 
 
 ## What to do next
 
-[Configure a Portal Browse Taxonomy widget to work with the Portal Taxonomy Topic widget](map-browse-taxo-with-taxo-topic.md)
+[Configure a Portal Browse Taxonomy widget to work with the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/map-browse-taxo-with-taxo-topic.md)
 

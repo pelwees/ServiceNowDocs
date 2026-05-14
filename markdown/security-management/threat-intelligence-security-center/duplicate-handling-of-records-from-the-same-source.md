@@ -37,11 +37,11 @@ Navigate to **System Maintenance** &gt; **Table Cleanup** view and manage table 
 **Related topics**  
 
 
-[Observables](observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-[Indicators](indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-[TISC Data Processing Functional Flow](tisc-data-processing-functional-flow.md)
+[TISC Data Processing Functional Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-data-processing-functional-flow.md)
 
-[TISC Data Archival](data-archival-process.md)
+[TISC Data Archival](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/data-archival-process.md)
 

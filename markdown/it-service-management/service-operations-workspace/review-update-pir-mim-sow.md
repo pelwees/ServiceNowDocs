@@ -17,7 +17,7 @@ Review a post incident report \(PIR\) using the **Post Incident Report** tab. A 
 
 ## Before you begin
 
-The major incident must be in the **Resolved** state. For more information, see [Resolve and close a major incident](resolve-close-mim-sow.md).
+The major incident must be in the **Resolved** state. For more information, see [Resolve and close a major incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/resolve-close-mim-sow.md).
 
 Role required:
 
@@ -102,11 +102,11 @@ Time to resolve = (incident promoted time) - (incident resolved time)
 </td></tr></tbody>
 </table>4.  On the Contributors section, add users to help with creating and publishing the PIR.
 
-    1.  Select the **Edit Co-contributors** \(![Edit](../../configurable-workforce-optimization-itsm/image/edit-icon.png)\) icon to add users as contributors.
+    1.  Select the **Edit Co-contributors** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/edit-icon.png)\) icon to add users as contributors.
 
     2.  In the **Co-contributors** field, enter users or user groups.
 
-    3.  Select the **Save Co-contributors** \( ![Save](../image/mim-save-icon.png)\) icon to save the changes.
+    3.  Select the **Save Co-contributors** \( ![Save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-save-icon.png)\) icon to save the changes.
 
 5.  On the Incident summary section, review the incident summary information and edit as needed.
 
@@ -114,18 +114,18 @@ Time to resolve = (incident promoted time) - (incident resolved time)
 
     By default, this section retrieves the incident summary information from the **Overview** tab. You can modify the values.
 
-    1.  Select the **Edit report** \(![Edit](../image/mim-edit-icon.png)\) icon to edit the incident summary field of this section.
+    1.  Select the **Edit report** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon to edit the incident summary field of this section.
 
     2.  Edit the following information.
 
         -   Summary
         -   Impact
         -   Resolution
-    3.  Select the **Save report** \(![Save](../image/mim-save-icon.png)\) icon to save the changes.
+    3.  Select the **Save report** \(![Save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-save-icon.png)\) icon to save the changes.
 
 6.  On the Timeline section, review the incident events timeline and edit as needed.
 
-    1.  Select the **Edit Timeline** \(![Edit](../image/mim-edit-icon.png)\) icon to edit the event timeline.
+    1.  Select the **Edit Timeline** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon to edit the event timeline.
 
     2.  Select the **Add event** option, enter the following information, and then select **Add** to add a new event to the timeline.
 
@@ -150,7 +150,7 @@ Hide
 
 </td><td>
 
-Select the **Hide** \(![Hide](../image/mim-hide-icon.png)\) icon to hide an event from the timeline.
+Select the **Hide** \(![Hide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-hide-icon.png)\) icon to hide an event from the timeline.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Show
 
 </td><td>
 
-Select the **Show** \(![Show](../image/mim-show-icon.png)\) icon to show a hidden event on the timeline.
+Select the **Show** \(![Show](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-show-icon.png)\) icon to show a hidden event on the timeline.
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Edit
 
 </td><td>
 
-Select the **Edit** \(![Edit](../image/mim-edit-icon.png)\) icon to edit the description or the date and time of an event. This option is available only for the events added using the **Add event** option.
+Select the **Edit** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon to edit the description or the date and time of an event. This option is available only for the events added using the **Add event** option.
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Delete
 
 </td><td>
 
-Select the **Delete** \(![Delete](../image/mim-delete-icon.png)\) icon to delete an event from the event timeline. This option is available only for the events added using the **Add event** option.
+Select the **Delete** \(![Delete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-delete-icon.png)\) icon to delete an event from the event timeline. This option is available only for the events added using the **Add event** option.
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ Show hidden events in edit view
 
 </td><td>
 
-Option to show the events that are hidden when the **Edit Timeline** \(![Edit](../image/mim-edit-icon.png)\) icon is selected.
+Option to show the events that are hidden when the **Edit Timeline** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon is selected.
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Show manually events in edit view
 
 </td><td>
 
-Option to show the events that are added manually when the **Edit Timeline** \(![Edit](../image/mim-edit-icon.png)\) icon is selected.
+Option to show the events that are added manually when the **Edit Timeline** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon is selected.
 
 </td></tr><tr><td>
 
@@ -230,7 +230,7 @@ Show time line events in edit view
 
 </td><td>
 
-Option to show the timeline events when the **Edit Timeline** \(![Edit](../image/mim-edit-icon.png)\) icon is selected.
+Option to show the timeline events when the **Edit Timeline** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-edit-icon.png)\) icon is selected.
 
 </td></tr><tr><td>
 
@@ -238,10 +238,10 @@ Reset settings
 
 </td><td>
 
-Select the **Reset settings** \(![Reset settings](../image/mim-refresh-icon.png)\) icon to reset the settings back to the default settings.
+Select the **Reset settings** \(![Reset settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-refresh-icon.png)\) icon to reset the settings back to the default settings.
 
 </td></tr></tbody>
-</table>    4.  Select the **Save settings** \(![Save](../image/mim-save-icon.png)\) icon to save the changes.
+</table>    4.  Select the **Save settings** \(![Save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-save-icon.png)\) icon to save the changes.
 
 7.  On the Related records section, review the information of the records associated with the incident and update as needed.
 
@@ -277,5 +277,5 @@ Select the **Reset settings** \(![Reset settings](../image/mim-refresh-icon.png)
 
 The post incident report is downloaded to your system in PDF format. You can send the PDF file to the required stakeholders.
 
-**Parent Topic:**[Managing a major incident record](../concept/managing-major-incident-sow.md)
+**Parent Topic:**[Managing a major incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/managing-major-incident-sow.md)
 

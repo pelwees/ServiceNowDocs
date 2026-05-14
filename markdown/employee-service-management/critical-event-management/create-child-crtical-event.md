@@ -42,12 +42,12 @@ Role required: sn\_critical.agent
     The status of the child event is set to **Consolidated**. When you open this child event, the **Details** Related Item displays the parent critical event in the record view.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/manage-related-records.md)
 
 **Related topics**  
 
 
-[Create a Health and Safety incident in Critical Event Management](create-hs-incident.md)
+[Create a Health and Safety incident in Critical Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-hs-incident.md)
 
-[View sent notifications for a critical event](view-sent-notifications.md)
+[View sent notifications for a critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-sent-notifications.md)
 

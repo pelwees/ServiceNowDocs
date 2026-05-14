@@ -74,16 +74,16 @@ In the following procedure, steps 3 and after describe the various actions that 
 9.  To delete an alert, select **Delete**.
 
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../concept/regulatory-feeds.md)
 
 **Related topics**  
 
 
-[Add an AI-recommended citation to a regulatory alert](add-recommended-citations-to-a-regulatory-alert.md)
+[Add an AI-recommended citation to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/add-recommended-citations-to-a-regulatory-alert.md)
 
-[Manage and assign regulatory event alerts](manage-regulatory-feeds.md)
+[Manage and assign regulatory event alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-regulatory-feeds.md)
 
-[Train and use the similarity solution to recommend citations on regulatory alerts](retrain-ml-reg-compliance-mapping.md)
+[Train and use the similarity solution to recommend citations on regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/retrain-ml-reg-compliance-mapping.md)
 
-[Manage and assign source document alerts](manage-source-document-feeds.md)
+[Manage and assign source document alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-source-document-feeds.md)
 

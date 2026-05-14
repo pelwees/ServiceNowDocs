@@ -22,7 +22,7 @@ Add a language to an existing NLU model by translating it. Use one of several tr
 -   Multilingualism is available for Virtual Agent and AI Search models.
 -   Role required: nlu\_admin or admin.
 
-**Note:** The nlu\_editor role cannot initiate a model translation, because the nlu\_editor does not have permission to create a new model. See [Assign an NLU editor to a model](assign-nlu-editor-to-model.md).
+**Note:** The nlu\_editor role cannot initiate a model translation, because the nlu\_editor does not have permission to create a new model. See [Assign an NLU editor to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/assign-nlu-editor-to-model.md).
 
 ## About this task
 
@@ -73,7 +73,7 @@ Default. Manually translate your primary language into a secondary language. Sel
 </td></tr></tbody>
 </table>Multilingual models are supported in 17 languages.
 
-**Note:** Some of these languages support only intents, not entities. If the language is intent-only, your primary model entities will not be translated or copied. For more information, see [NLU language support](../concept/nlu-language-support.md).
+**Note:** Some of these languages support only intents, not entities. If the language is intent-only, your primary model entities will not be translated or copied. For more information, see [NLU language support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/nlu-language-support.md).
 
 In this example scenario, your primary model uses the English language and you're adding a version in the French language, without translating utterances.
 
@@ -89,11 +89,11 @@ In this example scenario, your primary model uses the English language and you'r
 
     **Note:** You may need to scroll to the right to find the more options menu.
 
-    ![In the NLU Workbench home, the More options list is expanded, and Add a language is highlighted.](../images/translate-model001V.png)
+    ![In the NLU Workbench home, the More options list is expanded, and Add a language is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/translate-model001V.png)
 
 4.  In the **Add a language to this model** window, choose the desired language for the secondary model and the translation method.
 
-    ![The window for Add a language to this model. The No translation card is highlighted.](../images/translate-model002V.png)
+    ![The window for Add a language to this model. The No translation card is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/translate-model002V.png)
 
 5.  Select the **Add** button.
 
@@ -104,5 +104,5 @@ In this example scenario, your primary model uses the English language and you'r
 
 If you chose to enable the model without translation, you must manually enter training utterances for each intent. If you choose to use software or a third-party translator, you must review the translations before you can continue working on the model.
 
-Entering training utterances and reviewing secondary models can be delegated to users who have the nlu\_editor role. For more information, see [Assign an NLU editor to a model](assign-nlu-editor-to-model.md) and [Resolve intent issues](resolve-intent-issues.md).
+Entering training utterances and reviewing secondary models can be delegated to users who have the nlu\_editor role. For more information, see [Assign an NLU editor to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/assign-nlu-editor-to-model.md) and [Resolve intent issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/resolve-intent-issues.md).
 

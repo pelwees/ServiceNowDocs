@@ -15,8 +15,8 @@ You can view installed and draft connections that were added using Service Graph
 
 The following connection types are available for viewing:
 
--   Installed connection \(see [View an installed connection in SGC Central](sgcc-viewing-installed-connection.md#).\)
--   Draft connection \(see [View a draft connection in SGC Central](sgcc-viewing-installed-connection.md#).\)
+-   Installed connection \(see [View an installed connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-viewing-installed-connection.md#).\)
+-   Draft connection \(see [View a draft connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-viewing-installed-connection.md#).\)
 
 ## View an installed connection in SGC Central
 

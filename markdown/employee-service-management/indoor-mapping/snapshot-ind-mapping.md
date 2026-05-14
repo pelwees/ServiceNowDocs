@@ -74,12 +74,12 @@ Role required: map admin, map editor, wsd\_core\_admin
 
 16. Few tables are impacted during the snapshot process.
 
-    For more information about impacted tables, see [Snapshot Impacted tables](../reference/snapshot-ind-mapping-tables.md).
+    For more information about impacted tables, see [Snapshot Impacted tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../reference/snapshot-ind-mapping-tables.md).
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[Print a map](print-map.md)
+**Previous topic:**[Print a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/print-map.md)
 
-**Next topic:**[Keyboard shortcuts](keyboard-shortcuts.md)
+**Next topic:**[Keyboard shortcuts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/keyboard-shortcuts.md)
 

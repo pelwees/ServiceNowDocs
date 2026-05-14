@@ -46,5 +46,5 @@ Role required: admin
 
 The Resource Management Workspace application is installed in your instance.
 
-**Parent Topic:**[Configure Resource Management Workspace](../concept/configure-rmw.md)
+**Parent Topic:**[Configure Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/configure-rmw.md)
 

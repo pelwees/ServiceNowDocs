@@ -15,7 +15,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Log Analytics groups.
 
-For a detailed description of Log Analytics groups, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Log Analytics groups, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -23,7 +23,7 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
 
     This card describes the issue that led to the alert. The identified issue appears on the card and in the title for the alert. Information about the alert appears in the banner.
 
-    ![Identified issue appears here and in alert title.](../image/identified-issue-card-comp-based-sow.png "Identified issue")
+    ![Identified issue appears here and in alert title.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/identified-issue-card-comp-based-sow.png "Identified issue")
 
     Select **View correlations** to view the list of correlations that relate the Log Analytics alerts.
 
@@ -37,7 +37,7 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
     -   Metadata: The alerts have matching values in log-line metadata. For example, all alerts involve the same host.
     -   Message text: The message text in the log data is similar or identical between alerts.
     -   Trend: The alerts show a similar tendency in values or rates. For example, a particular metric value is increasing in all alerts.
-    ![Correlations lists log correlators and Log Analytics alerts per group.](../image/correlation-popup-learn-more-sow.png "Correlations")
+    ![Correlations lists log correlators and Log Analytics alerts per group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/correlation-popup-learn-more-sow.png "Correlations")
 
     1.  List of correlations: The first correlation in the list is expanded to show the individual Log Analytics alerts that are correlated and the log correlator that the alerts share.
     2.  An individual log correlator: The identifier for a group of correlated Log Analytics alerts. The alerts are grouped by the log-line data or metadata that is common to the alerts \(for example, IP address, host name, or user name\). The number in the blue square indicates the number of correlated alerts.
@@ -46,9 +46,9 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
 
     For a Log Analytics alert, the Alerts in group card shows the Log Analytics alerts that are grouped under the Log Analytics alert. Select a Log Analytics alert to view its details.
 
-    ![Select a Log Analytics alert to view its details.](../image/alerts-in-group-sow.png "Alerts in group")
+    ![Select a Log Analytics alert to view its details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alerts-in-group-sow.png "Alerts in group")
 
-    Select **View all** to the view the list of all Log Analytics alerts in the group and relevant information about them. You can also view the Alerts in group list by selecting the **Related records** tab and then selecting **Alerts in group**. For more information, see [View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](../task/hla-op-alerts-in-group-sow.md)
+    Select **View all** to the view the list of all Log Analytics alerts in the group and relevant information about them. You can also view the Alerts in group list by selecting the **Related records** tab and then selecting **Alerts in group**. For more information, see [View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-alerts-in-group-sow.md)
 
 
 ## Impact
@@ -61,11 +61,11 @@ For a detailed description of Log Analytics groups, see [Types of Health Log Ana
 
     This card provides information about the services that are impacted by the alert.
 
-    ![Impact section provides information on the impacted CIs and services.](../image/hla-ovrvw-tab-impact-sow.png "Impact section")
+    ![Impact section provides information on the impacted CIs and services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-ovrvw-tab-impact-sow.png "Impact section")
 
 
--   **[View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](../task/hla-op-alerts-in-group-sow.md)**  
+-   **[View the Log Analytics alerts in a Log Analytics group in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-alerts-in-group-sow.md)**  
 View a list of all Log Analytics alerts in a Log Analytics group on the **Related records** tab.
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-overview-tab-view-sow.md)
 

@@ -30,7 +30,7 @@ The live agent picker scenario:
 
 When a file upload is in progress, you can't upload or enter text for the file picker control. The uploaded files go through a virus scan and validation.
 
-You can link an uploaded file to a case you create using the Record Action utility. For more information, see [Record Action utility](va-record-action-util.md).
+You can link an uploaded file to a case you create using the Record Action utility. For more information, see [Record Action utility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-record-action-util.md).
 
 The following table lists the details about the properties of the File Picker.
 
@@ -178,7 +178,7 @@ Workplace
 
 </td><td>
 
-1.  Select the Workplace image icon ![Workplace image icon.](../images/FB-image-icon.png).
+1.  Select the Workplace image icon ![Workplace image icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/FB-image-icon.png).
 2.  Select an image file from your local computer.
 
 All file types are supported.
@@ -210,15 +210,15 @@ File Picker prompt
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-![Basic properties include the node name, prompt, and file type, either Image or All file types.](../images/va-file-picker-properties.png "File Picker user input control basic properties")
+![Basic properties include the node name, prompt, and file type, either Image or All file types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-file-picker-properties.png "File Picker user input control basic properties")
 
 </td><td>
 
-![In a chat window, the prompt reads, "Please upload your image." The button reads, "Click here to upload an image."](../images/va-file-picker-image.png "Web UI file picker prompt (image)")
+![In a chat window, the prompt reads, "Please upload your image." The button reads, "Click here to upload an image."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-file-picker-image.png "Web UI file picker prompt (image)")
 
 </td></tr><tr><td>
 
-![Prompt that reads, "Please upload a file for the detailed description of the case." There are three options: Upload an Image, Take Photo, or Upload a File.](../../notification/image/va-image-picker-mobile.png "ServiceNow mobile file picker prompt")
+![Prompt that reads, "Please upload a file for the detailed description of the case." There are three options: Upload an Image, Take Photo, or Upload a File.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../notification/image/va-image-picker-mobile.png "ServiceNow mobile file picker prompt")
 
 </td></tr></tbody>
 </table>## Channel support
@@ -261,7 +261,7 @@ Supported
 
 Prompt that users see asking for permission for the app to access a camera or file system if the user has not already given the permission.
 
- ![Prompt that reads, "Mobile" Would Like to Access the Camera. The choices are "Don't Allow" and "OK."](../../notification/image/camera-access-prompt.png)
+ ![Prompt that reads, "Mobile" Would Like to Access the Camera. The choices are "Don't Allow" and "OK."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../notification/image/camera-access-prompt.png)
 
 </td></tr><tr><td>
 
@@ -402,5 +402,5 @@ Not supported
 Not applicable
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+</table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

@@ -25,17 +25,17 @@ Role required: sn\_prm.partner\_ui
 
 3.  On the form, fill in the fields.
 
-    To learn about the fields on the program segment mapping \(sn\_prm\_program\_segment\_mapping\) table, see [Program segment mapping table fields](../reference/program-segment-mapping-table-fields.md).
+    To learn about the fields on the program segment mapping \(sn\_prm\_program\_segment\_mapping\) table, see [Program segment mapping table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/program-segment-mapping-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Configure Program Segment Criteria](configure-program-segment-criteria.md)
+[Configure Program Segment Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-criteria.md)
 
-[Configure Program Criteria](configure-program-criteria.md)
+[Configure Program Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-program-criteria.md)
 

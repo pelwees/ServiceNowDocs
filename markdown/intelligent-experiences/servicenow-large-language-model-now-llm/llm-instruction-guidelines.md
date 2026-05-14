@@ -47,7 +47,7 @@ Use instructions or questions to tell the LLM what you want. They can include fo
     Example: `Focus on email and Teams chats with [people] since June.`
 
 
-![Instructions for the LLM that includes a goal, some context, your expectations, and sources to be used.](../images/general-na-prompt-instructions.png "Sample LLM instructions")
+![Instructions for the LLM that includes a goal, some context, your expectations, and sources to be used.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../images/general-na-prompt-instructions.png "Sample LLM instructions")
 
 Continually test and refine your instructions. Creating good LLM instructions is an iterative process, and as the LLM model learns, you may want to modify your instructions over time.
 
@@ -72,7 +72,7 @@ Instructions should also be tailored to the type of task. The following table de
 |Create|Create a new ServiceNow component.|Write a new KB on common reasons for slow query execution and how to fix it, based on problems created in the last 12 months.|
 |Workflow|Leverage existing workflows and create conversations from them.|Reset my Okta password.|
 
-![Different kinds of LLM task instructions can be provided to the LLM, which then displays results to the requester. The types of instruction include answers, workflows, search, chat, and create.](../images/types-llm-task-instructions.png "LLM instruction workflow")
+![Different kinds of LLM task instructions can be provided to the LLM, which then displays results to the requester. The types of instruction include answers, workflows, search, chat, and create.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../images/types-llm-task-instructions.png "LLM instruction workflow")
 
 ## Providing context in your instructions
 
@@ -221,7 +221,7 @@ Evaluation of result
 </td></tr></tbody>
 </table>In some Now Assist applications, you may have the option to specify formatting. In those cases, you can tell the LLM to provide answers in a bulleted list, for example. Bulleted lists are often easier to read.
 
-![In the Now Assist Admin console, some skills allow you to specify formatting. The chat summarization skill has an option to render results in a bulleted list.](../images/enable-bulleted-list-chat-summarization.png "Enabling bulleted list results in the chat summarization skill")
+![In the Now Assist Admin console, some skills allow you to specify formatting. The chat summarization skill has an option to render results in a bulleted list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../images/enable-bulleted-list-chat-summarization.png "Enabling bulleted list results in the chat summarization skill")
 
 ## Source
 
@@ -234,8 +234,8 @@ For more information about configuring sources for skill or AI agent use, see th
 -   [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 -   [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md)
 -   [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ext-cont-connectors-landing-page.md)
--   [Overview tab in Now Assist Admin](configuring-now-assist.md)
--   [Now Assist AI agents](../../now-assist-ai-agents/reference/na-ai-agents.md)
+-   [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/configuring-now-assist.md)
+-   [Now Assist AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../../now-assist-ai-agents/reference/na-ai-agents.md)
 
 ## Additional guidelines for Now Assist skills and tools
 
@@ -247,10 +247,10 @@ For more information about configuring sources for skill or AI agent use, see th
 |Code generation|[General guidelines for code generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/general-guidelines-code-generation.md)|
 |Flow generation||
 |LLM topic skill for Virtual Agent|[LLM description and instruction guidelines for Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-llm-description-guidelines.md)|
-|Now Assist Skill Kit|[General guidelines for Now Assist Skill Kit](../../now-assist-skill-kit/reference/na-skill-kit-guidelines.md)|
+|Now Assist Skill Kit|[General guidelines for Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../../now-assist-skill-kit/reference/na-skill-kit-guidelines.md)|
 |RPA bot generation|[General guidelines for RPA bot generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-bot-generation.md)|
 |Test generation|[Design considerations for prompting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-prompt-design-considerations.md)|
 |UI generation|[General guidelines UI generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/general-guidelines-ui-generation.md)|
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/../../general/concept/exploring-large-language-models.md)
 

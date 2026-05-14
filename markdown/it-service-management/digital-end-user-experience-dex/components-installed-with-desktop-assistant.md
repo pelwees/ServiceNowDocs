@@ -154,5 +154,5 @@ Tab to Section Mapping\[sn\_dex\_desktop\_tab\_to\_section\_mapping\]
 Specifies all the sections with in a page in a tab content.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DEX Desktop Assistant reference](dex-desktop-experience-reference.md)
+</table>**Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 

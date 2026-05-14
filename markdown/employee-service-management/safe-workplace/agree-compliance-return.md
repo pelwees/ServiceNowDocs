@@ -32,7 +32,7 @@ Typically, you receive an email or a mobile notification from your organization 
     -   Click the link provided by your organization.
     -   In your organization's ServiceNow instance, navigate to **Employee Health Screening** &gt; **Health Verification**.
     -   In the Now Mobile app, navigate to **Health** &gt; **Follow these safety practices** &gt; **Verify my health**.
-    ![Health verification form with the user agreement selected.](../image/health-verify-form.png "Health verification form")
+    ![Health verification form with the user agreement selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/health-verify-form.png "Health verification form")
 
 2.  Carefully read the form and evaluate whether you can honestly answer that you agree.
 
@@ -63,7 +63,7 @@ Exit the form without submitting it.
 
 4.  If you're returning to an office and need to reserve a workspace, click **Reserve a space**.
 
-    The link enables you to reserve a space for a specific day. If you want to reserve a space for a longer period of time, you must request it separately and wait for the request to be approved. For more information about reserving a workspace, see [Making workplace reservations](../../workplace-safety-mgmt/concept/requesting-workspace-reservations.md).
+    The link enables you to reserve a space for a specific day. If you want to reserve a space for a longer period of time, you must request it separately and wait for the request to be approved. For more information about reserving a workspace, see [Making workplace reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-safety-mgmt/concept/requesting-workspace-reservations.md).
 
     **Note:** Reserving a workspace requires the sn\_wsd\_core.workplace\_user role. If you do not see the link to reserve a space, contact your system administrator.
 
@@ -72,14 +72,14 @@ Exit the form without submitting it.
 
 Your organization may have health monitors at entrances to check that you completed the entry requirements or to conduct a health screening before entry. If you received a QR code when you submitted the health verification, navigate to **Health** &gt; **Prepare for arrival** &gt; **My office entry code** in the Now Mobile app to show your QR code to the health monitor when you arrive at the location.
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-health-screening.md)
 
 **Related topics**  
 
 
-[Add an email notification for daily health verification](../../business-continuity/task/add-daily-health-verification-notif.md)
+[Add an email notification for daily health verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../business-continuity/task/add-daily-health-verification-notif.md)
 
-[Configure Emergency Outreach notifications](../../business-continuity/task/configure-emergency-outreach.md)
+[Configure Emergency Outreach notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../business-continuity/task/configure-emergency-outreach.md)
 
-[Review daily health verification acknowledgements](../../business-continuity/task/daily-health-verif-review-outreach-acks.md)
+[Review daily health verification acknowledgements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../business-continuity/task/daily-health-verif-review-outreach-acks.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_skills\_int.emp
 
 1.  Navigate to **All** &gt; **Employee Center**.
 
-2.  On the Employee Center home page, select the User options drop-down menu \(![User options menu](../image/emp-profile-user-options.png)\).
+2.  On the Employee Center home page, select the User options drop-down menu \(![User options menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/emp-profile-user-options.png)\).
 
 3.  Select **Profile**.
 
@@ -56,5 +56,5 @@ Role required: sn\_skills\_int.emp
 
 The skills are added to the Additional skills section on the skills widget.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

@@ -102,5 +102,5 @@ Core UI
 -   Email reply recommendation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Now Assist for IT Service Management \(ITSM\)](exploring-now-assist-itsm.md)
+</table>**Parent Topic:**[Exploring Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/exploring-now-assist-itsm.md)
 

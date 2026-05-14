@@ -17,12 +17,12 @@ Enable users to run voice-based Virtual Agent bot conversations by integrating w
 
 Conversational IVR \(Interactive Voice Response\) integrates third-party Contact Center applications with your ServiceNow instance. This enables users to have voice-based conversations with your Virtual Agent.
 
-The Virtual Agent integration with voice assistant applications enables interactions with touch or speak commands. For more information, see [Conversational Integration with Alexa](conv-integ-alexa.md)
+The Virtual Agent integration with voice assistant applications enables interactions with touch or speak commands. For more information, see [Conversational Integration with Alexa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conv-integ-alexa.md)
 
--   **[Conversational IVR with Amazon Connect](va-ivr-voice.md)**  
+-   **[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)**  
 Use Conversational IVR with Amazon Connect to enable Conversational Interactive Voice Response \(IVR\) on your instance. Users will be able to conduct conversations with a bot via the phone channel, powered by ServiceNow Virtual Agent.
--   **[Conversational Integration with Alexa](conv-integ-alexa.md)**  
+-   **[Conversational Integration with Alexa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conv-integ-alexa.md)**  
 Use the Conversational Integration with Alexa application to empower customers to engage with your business using their Alexa devices. The application connects a requester with a Virtual Agent using your company's Alexa account.
 
-**Parent Topic:**[Integrating Virtual Agent with other channels](integrate-virtual-agent.md)
+**Parent Topic:**[Integrating Virtual Agent with other channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integrate-virtual-agent.md)
 

@@ -68,5 +68,5 @@ To process the files properly:
     A summary of all spaces created is displayed when the map file has been processed.
 
 
-**Parent Topic:**[GeoJSON map files](../reference/r_GeoJSONMapFiles.md)
+**Parent Topic:**[GeoJSON map files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_GeoJSONMapFiles.md)
 

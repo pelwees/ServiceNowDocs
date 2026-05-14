@@ -19,7 +19,7 @@ Configure your own connection and credential alias for Microsoft Exchange Online
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(![Application scope icon.](../image/application-scope-globe-icon.png)\) on the top-right corner of your Employee Center homepage.
+1.  Select the Application scope icon \(![Application scope icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../image/application-scope-globe-icon.png)\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -28,7 +28,7 @@ Role required: admin
 
 ## About this task
 
-Create your own connection and credential alias, if you do not want to use the default alias. If you want to use the default alias, refer to [Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](create-connection-and-credential-alias-for-msexchange-.md).
+Create your own connection and credential alias, if you do not want to use the default alias. If you want to use the default alias, refer to [Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-and-credential-alias-for-msexchange-.md).
 
 ## Procedure
 
@@ -63,7 +63,7 @@ Create your own connection and credential alias, if you do not want to use the d
         |-----|------------|
         |Name|Name of the credential. Provide a unique name to differentiate from the default credentials provided by the application.|
         |Active|Option to activate the credential.|
-        |OAuth Entity Profile|Select the default OAuth entity profile that was generated when you performed the application registry in [Set up OAuth connection with Microsoft Exchange Online](setup-connectivity-with-msexchange-for-calendar-sync.md).|
+        |OAuth Entity Profile|Select the default OAuth entity profile that was generated when you performed the application registry in [Set up OAuth connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-connectivity-with-msexchange-for-calendar-sync.md).|
         |Applies to|Specify how you want to apply to the MID servers.|
         |Order|Order for the credential.|
 
@@ -105,20 +105,20 @@ The connection and credential record is created with specified credentials and c
 
 ## What to do next
 
-To use it for the calendar provider, see [Configure Microsoft Exchange Online calendar provider](configure-xsex-calendar-provider-in-normal-mode.md).
+To use it for the calendar provider, see [Configure Microsoft Exchange Online calendar provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-xsex-calendar-provider-in-normal-mode.md).
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../concept/create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 
 
-[Configure Microsoft Azure in normal mode](authenticate-mxexchange-with-azure.md)
+[Configure Microsoft Azure in normal mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-mxexchange-with-azure.md)
 
-[Create a connection with Microsoft Exchange Online spoke](create-connection-with-msspoke.md)
+[Create a connection with Microsoft Exchange Online spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-with-msspoke.md)
 
-[Set up OAuth connection with Microsoft Exchange Online](setup-connectivity-with-msexchange-for-calendar-sync.md)
+[Set up OAuth connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-connectivity-with-msexchange-for-calendar-sync.md)
 
-[Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](create-connection-and-credential-alias-for-msexchange-.md)
+[Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-and-credential-alias-for-msexchange-.md)
 
-[Configure Microsoft Exchange Online calendar provider](configure-xsex-calendar-provider-in-normal-mode.md)
+[Configure Microsoft Exchange Online calendar provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-xsex-calendar-provider-in-normal-mode.md)
 

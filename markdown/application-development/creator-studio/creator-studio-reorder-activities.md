@@ -25,7 +25,7 @@ Role required: admin or app\_engine\_admin
 
     All of the standard Creator Studio activities appear in the list, not just custom activities.
 
-    ![Creator Studio Activities table showing available activities with their descriptions and order values.](../image/crs-activities-table.png "Activities table")
+    ![Creator Studio Activities table showing available activities with their descriptions and order values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-activities-table.png "Activities table")
 
     The Creator Studio Activities table appears.
 
@@ -44,5 +44,5 @@ Role required: admin or app\_engine\_admin
 
 Alternatively, you can open each Creator Studio Activity record and update the **Order** one record at a time.
 
-**Parent Topic:**[Administering activities in Creator Studio](../concept/creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-administering-activities.md)
 

@@ -21,7 +21,7 @@ You must set your notification preferences in your desktop application to receiv
 
 To enable the notifications:
 
-1.  On your desktop application instance, click the gear icon ![Gear icon](../image/gear-icon.png) in the top-right corner. The **System Settings** screen appears.
+1.  On your desktop application instance, click the gear icon ![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/gear-icon.png) in the top-right corner. The **System Settings** screen appears.
 2.  Click **Notifications**.
 3.  Enable **Allow Notifications**.
 4.  In the **Notifications Category** section, click **Mobile - Shift Planning**.
@@ -101,7 +101,7 @@ Time off rejected
 Manager rejects your time-off request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
+</table>**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
 
 **Related topics**  
 

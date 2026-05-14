@@ -38,22 +38,22 @@ With the updated decimal type **KPI weighted score** field, all performance scor
 4.  Select **Run Fix Script**.
 
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](../concept/post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
 
-[Run fix script to update the Aggregation method field in the KPI table](run-fixscript-update-kpi-aggregation-method.md)
+[Run fix script to update the Aggregation method field in the KPI table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-aggregation-method.md)
 
-[Run fix script to update the KPI Instruction field in the Supplier Task table](run-fixscript-update-kpi-instruction.md)
+[Run fix script to update the KPI Instruction field in the Supplier Task table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-instruction.md)
 
-[Run fix scripts to enable Automated KPI collection](run-fixscript-automated-kpis.md)
+[Run fix scripts to enable Automated KPI collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-automated-kpis.md)
 
-[Run fix script to migrate existing data from the deprecated Action type column after upgrade](fix-script-deprecated-column.md)
+[Run fix script to migrate existing data from the deprecated Action type column after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/fix-script-deprecated-column.md)
 
-[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](access-smw-after-upgrade.md)
+[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/access-smw-after-upgrade.md)
 
-[Enable deprecated case types after upgrade](enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-deprecated-case-types.md)
 
-[Processing the skipped supplier catalog item records after upgrade](../concept/process-skipped-records-upgrade.md)
+[Processing the skipped supplier catalog item records after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/process-skipped-records-upgrade.md)
 

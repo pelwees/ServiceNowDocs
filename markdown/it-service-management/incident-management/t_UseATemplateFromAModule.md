@@ -21,11 +21,11 @@ Role required: admin
 
 ## About this task
 
-In the [Create incident template](t_CreateAnIncidentTemplate.md) topic, you have created the Bond Trade Access Denied template. In this topic, you can use the template with a module in the Self-Service application.
+In the [Create incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateAnIncidentTemplate.md) topic, you have created the Bond Trade Access Denied template. In this topic, you can use the template with a module in the Self-Service application.
 
 ## Procedure
 
-1.  Point to **Self-Service** and select the edit icon ![Edit icon](../image/edit-module.png).
+1.  Point to **Self-Service** and select the edit icon ![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/edit-module.png).
 
 2.  In the Modules related list, select **New**.
 
@@ -41,7 +41,7 @@ In the [Create incident template](t_CreateAnIncidentTemplate.md) topic, you have
 
         **Note:** This path deploys the template in the new incident record.
 
-    ![Module using template to create incident](../image/incident-template-module.png)
+    ![Module using template to create incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-template-module.png)
 
 4.  Select **Submit**.
 
@@ -52,14 +52,14 @@ In the [Create incident template](t_CreateAnIncidentTemplate.md) topic, you have
 
 Select the module to open a new incident record with the applied Bond Trading Access Denied template.
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-templates-record-producers.md)
 
 **Related topics**  
 
 
-[Create incident template](t_CreateAnIncidentTemplate.md)
+[Create incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateAnIncidentTemplate.md)
 
-[Create a record producer to log incidents](t_CreateARecordProducer.md)
+[Create a record producer to log incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateARecordProducer.md)
 
-[Create a record producer using a template](t_CreateRecProducWithTempl.md)
+[Create a record producer using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateRecProducWithTempl.md)
 

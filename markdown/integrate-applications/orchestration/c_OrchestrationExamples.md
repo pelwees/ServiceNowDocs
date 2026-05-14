@@ -15,8 +15,8 @@ breadcrumb: [Classic Orchestration, Workflow Data Fabric]
 
 These examples demonstrate how Orchestration can be used to automate common tasks.
 
--   **[Active Directory automation example](c_OrchExmplActiveDirUserMgmt.md#)**  
+-   **[Active Directory automation example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/c_OrchExmplActiveDirUserMgmt.md#)**  
 A set of six Orchestration Active Directory activities enables organizations to automate their on-boarding/off-boarding processes with auditable, self-documenting workflows that save time and eliminate mistakes.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/r-orchestration.md)
 

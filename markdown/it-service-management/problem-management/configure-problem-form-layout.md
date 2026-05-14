@@ -42,8 +42,8 @@ Role required: personalize\_form
 
     **Note:** There are other activities described in the form layout topic, but the items listed here are commonly configured during initial setup.
 
-    ![Problem form layout example.](../image/configure-form-layout.png "Problem form layout example")
+    ![Problem form layout example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/configure-form-layout.png "Problem form layout example")
 
 
-**Parent Topic:**[Configure the problem form](problem-configure-forms.md)
+**Parent Topic:**[Configure the problem form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-configure-forms.md)
 

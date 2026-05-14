@@ -19,7 +19,7 @@ Logs a message in the Workflow Studio log table sys\_flow\_log.
 
 Available as a Workflow Studio ServiceNow core action. Users with the flow\_designer or admin role can add an action to a flow and define configuration details.
 
-You can view the logs in the flow execution details. To learn more, see [Flow execution details](../concept/flow-execution-details.md) and [Data pills](../concept/data-population.md).
+You can view the logs in the flow execution details. To learn more, see [Flow execution details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-execution-details.md) and [Data pills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/data-population.md).
 
 ## Fields
 
@@ -61,5 +61,5 @@ Message to display in the Flow log \[sys\_flow\_log\] table. Enter text or drag 
     Add one or more data pills to your Log action to store dynamically generated values. Make sure that the data pills come from actions and flow logic that have run before the Log action.
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

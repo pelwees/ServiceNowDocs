@@ -25,11 +25,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The CSDM and CMDB Data Foundations Dashboards store app provides dashboards that complement each other. See the respective sections for each of the following dashboards:
 
--   **[CMDB Data Foundations dashboard](cmdb-data-foundations-dashboard.md)**
+-   **[CMDB Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md)**
 
     Evaluates various configurations and customizations in the CMDB. This dashboard checks that important data is valid and properly configured, and identifies and provides visibility into potential risks in the implementation. Use the CMDB Data Foundations dashboard to prevent issues and support continuous effective functioning of the CMDB.
 
--   **[CSDM Data Foundations dashboard](../../csdm-implementation/concept/csdm-data-foundations-dashboard.md)**
+-   **[CSDM Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../csdm-implementation/concept/csdm-data-foundations-dashboard.md)**
 
     The CSDM Data Foundations dashboard displays key CSDM metrics on a single page to assist you in getting the full benefit from your ServiceNow AI Platform® products.
 
@@ -46,7 +46,7 @@ Use either of the following steps to access the CSDM and the CMDB Data Foundatio
     3.  Select **CMDB Data Foundations Dashboard** or **CSDM Data Foundations Dashboard** in Management tools, in the Optimize section.
 -   Navigate to **All** &gt; **Configuration**, and then select **CMDB Data Foundations Dashboard** or **CSDM Data Foundations Dashboard**.
 
-You can toggle between the two dashboards by clicking the change dashboard icon \(![Change dashboard.](../image/ChangeDashboard.png)\) on the title bar of either dashboard.
+You can toggle between the two dashboards by clicking the change dashboard icon \(![Change dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ChangeDashboard.png)\) on the title bar of either dashboard.
 
 ## Manage performance
 
@@ -80,6 +80,6 @@ It might be useful to manage the performance impact of some metrics that are gre
     -   **Aggregate limit**: The maximum number or percentage of non-compliant CIs that are reported for the metric. Once that threshold is reached, counting for the metric stops for the run and the score for the metric is set to 0 \(you can't customize the default value\).
     -   **Fail count threshold**: The threshold of the number of consecutive metric runs that failed due to exceeding the metric's **Runtime threshold**. When that threshold is reached, the respective metric is automatically deactivated.
     -   **Runtime threshold**: The time threshold in seconds that is considered too long for a metric run. When exceeded, the current metric run is considered failed.
-    For most metrics, when the number of consecutive runs that fail because the runtime exceeds **Runtime threshold**, is greater than the **Fail count threshold**, the system automatically deactivates the metric. You can manually reactivate a deactivated metric by setting its **Active** column to **true**. An exception to those column definitions and usage is the CMDB **CIs Processed via IRE** metric. For details, see [CMDB Data Foundations dashboard](cmdb-data-foundations-dashboard.md).
+    For most metrics, when the number of consecutive runs that fail because the runtime exceeds **Runtime threshold**, is greater than the **Fail count threshold**, the system automatically deactivates the metric. You can manually reactivate a deactivated metric by setting its **Active** column to **true**. An exception to those column definitions and usage is the CMDB **CIs Processed via IRE** metric. For details, see [CMDB Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md).
 
 

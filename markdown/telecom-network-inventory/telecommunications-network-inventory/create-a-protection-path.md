@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\).
 
 3.  Go to **Inventory** &gt; **Logical Connections**.
 
@@ -42,14 +42,14 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## What to do next
 
-You can view the protection path in the network diagram. To learn more, see [View the details of a network diagram](show-a-ci-related-details-network-diagram.md).
+You can view the protection path in the network diagram. To learn more, see [View the details of a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/show-a-ci-related-details-network-diagram.md).
 
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-network-diagram.md)
 
 **Related topics**  
 
 
-[View the details of a network diagram](show-a-ci-related-details-network-diagram.md)
+[View the details of a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/show-a-ci-related-details-network-diagram.md)
 
-[Download a network diagram](download-network-diagram.md)
+[Download a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/download-network-diagram.md)
 

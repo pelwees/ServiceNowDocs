@@ -17,10 +17,10 @@ This playbook provides systematic remediation steps to investigate incidents sus
 
 Mimikatz DCShadow helps the attacker establish a rogue Domain Controller \(DC\) that becomes part of the Active Directory \(AD\). Once registered, it can act as a legitimate DC and cause damage.
 
--   **[Set up the T1003 - Defense Evasion - Mimikatz DCShadow playbook](../task/playbook-setup-defense-evasion-mimikatz-dcshadow.md)**  
+-   **[Set up the T1003 - Defense Evasion - Mimikatz DCShadow playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/playbook-setup-defense-evasion-mimikatz-dcshadow.md)**  
 Use the following steps to set up the T1003 - Defense Evasion - Mimikatz DCShadow playbook.
--   **[Use the T1003 - Defense Evasion - Mimikatz DCShadow playbook](../task/playbook-using-defense-evasion-mimikatz-dcshadow.md)**  
+-   **[Use the T1003 - Defense Evasion - Mimikatz DCShadow playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/playbook-using-defense-evasion-mimikatz-dcshadow.md)**  
 Use this playbook to investigate security incidents suspected to be caused by Mimikatz DCShadow. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the T1003 - Defense Evasion - Mimikatz DCShadow playbook.
 
-**Parent Topic:**[Flow-based Playbooks](playbook-flow-based.md)
+**Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 

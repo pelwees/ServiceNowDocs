@@ -55,5 +55,5 @@ Role required: sn\_si.admin, sn\_ti.case\_user\_write
 **Related topics**  
 
 
-[Security Case Management](../../threat-intelligence-case-management/concept/case-mgmt.md)
+[Security Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../threat-intelligence-case-management/concept/case-mgmt.md)
 

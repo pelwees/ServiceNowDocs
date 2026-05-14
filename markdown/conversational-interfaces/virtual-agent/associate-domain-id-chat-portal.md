@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Elements of the Service Portal platform such as settings, portals, pages and widgets are not domain-separated. However, the data within widgets does display when based on the appropriate domain. To provide different experiences, admins should create separate service portals, each with unique URLs, that they can redirect users to. For a domain-separated chat experience in the chat widget channel, create a portal and use the **sysparm\_domain\_id** parameter in the URL to designate the domain. For more information, see [Virtual Agent URL parameters](../reference/va-sysparm.md).
+Elements of the Service Portal platform such as settings, portals, pages and widgets are not domain-separated. However, the data within widgets does display when based on the appropriate domain. To provide different experiences, admins should create separate service portals, each with unique URLs, that they can redirect users to. For a domain-separated chat experience in the chat widget channel, create a portal and use the **sysparm\_domain\_id** parameter in the URL to designate the domain. For more information, see [Virtual Agent URL parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-sysparm.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
     2.  Right-select the name of a domain, and then select **Copy sys\_id**.
 
-        ![Copy the sys ID for the domain.](../images/copy-domain-sys-id.png)
+        ![Copy the sys ID for the domain.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/copy-domain-sys-id.png)
 
     3.  Paste the ID in a text editor and save it for later.
 
@@ -46,7 +46,7 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
 5.  In the **Server script** area, add the **domain\_id** parameter and the domain's sys ID that you copied earlier.
 
-    ![Add the domain_id parameter to the portal script.](../images/add-domain-id-chat-portal.png)
+    ![Add the domain_id parameter to the portal script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-domain-id-chat-portal.png)
 
 6.  Select **Update** or **Submit** to save your changes.
 
@@ -55,5 +55,5 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
 The **sysparm\_domain\_id** parameter gets passed in the portal URL.
 
-**Parent Topic:**[Domain separation and Virtual Agent](../concept/domain-separation-virtual-agent.md)
+**Parent Topic:**[Domain separation and Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/domain-separation-virtual-agent.md)
 

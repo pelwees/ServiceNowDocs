@@ -33,7 +33,7 @@ In the Now Assist for PSDS Admin Console, admins can:
 
 2.  In the dropdown, select **Customer** &gt; **PSDS**.
 
-    ![Now Assist Panel showing NA skills and features in PSDS](../image/now-assist-psds-panel.png)
+    ![Now Assist Panel showing NA skills and features in PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/now-assist-psds-panel.png)
 
 3.  On the Chat feature card, select **View Details**, then select **Chat Summarization** under Active Skills.
 
@@ -72,7 +72,7 @@ In the Now Assist for PSDS Admin Console, admins can:
 
 12. Review your choices and select **Activate** to complete the skill configuration.
 
-    ![Review and activate step for Now Assist chat summarization.](../image/chat-summarization-activate-now-assist-psds.png)
+    ![Review and activate step for Now Assist chat summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/chat-summarization-activate-now-assist-psds.png)
 
 
 ## Result

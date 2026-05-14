@@ -26,7 +26,7 @@ Role required: virtual\_agent\_admin or admin
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
-2.  On the home page, select the filter icon ![Filter icon.](../images/filter-icon.png), and build a condition with the field **Category**, and **ITSM Self Service Lite** as the type to show only ITSM Virtual Agent Lite conversations.
+2.  On the home page, select the filter icon ![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/filter-icon.png), and build a condition with the field **Category**, and **ITSM Self Service Lite** as the type to show only ITSM Virtual Agent Lite conversations.
 
     Two pre-built topics are available: Check IT Ticket Status and Report IT Issue.
 
@@ -34,16 +34,16 @@ Role required: virtual\_agent\_admin or admin
 
     In the **Flow** tab, the Virtual Agent Designer canvas opens with a read-only view of the topic flow. You can resize the canvas to see the nodes in the flow, but you can't add or change controls and their related property sheets.
 
-    ![Flow tab of the predefined Check IT Ticket Status topic showing the Virtual Agent Designer canvas in a read-only mode.](../images/va-lite-check-status-flow.png)
+    ![Flow tab of the predefined Check IT Ticket Status topic showing the Virtual Agent Designer canvas in a read-only mode.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-lite-check-status-flow.png)
 
 4.  Select **Test** to run the conversation in a test chat window.
 
     For example, if you're testing the Check Ticket Status topic, the test chat window runs the conversation and lets you respond to the prompts displayed. You can also view the test logs to see the messages logged and conversation tasks performed during the conversation, as well as the variables used in the conversation.
 
-    ![Example Chat test window with Logs tab displayed.](../images/valite-logs-example.png)
+    ![Example Chat test window with Logs tab displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/valite-logs-example.png)
 
 
 ## What to do next
 
-If you'd like to deploy a topic, [duplicate and publish the topic](duplicate-publish-valite-topic.md) so that it's available to your users.
+If you'd like to deploy a topic, [duplicate and publish the topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/duplicate-publish-valite-topic.md) so that it's available to your users.
 

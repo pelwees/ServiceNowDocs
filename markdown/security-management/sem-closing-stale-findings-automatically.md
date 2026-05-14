@@ -21,10 +21,10 @@ Auto-close rules can be set up to close stale detections and findings based on f
 
 Auto-close rules are crucial for managing stale detections and findings. When a finding is matched with the filter criteria, the auto-close rule can automatically close the associated record. This helps in maintaining a clean and accurate record of the security status, ensuring that teams can focus on new and critical exposure findings. By automating this process, organizations can improve the efficiency and accuracy of their exposure management practices.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configuring auto-close rules](sem-configure-auto-close-rules.md#)
+[Configuring auto-close rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-auto-close-rules.md#)
 

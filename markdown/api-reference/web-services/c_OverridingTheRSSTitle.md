@@ -50,5 +50,5 @@ This will produce results as follows:
 </rss>
 ```
 
-**Parent Topic:**[RSS feed generator](c_RSSFeedGenerator.md)
+**Parent Topic:**[RSS feed generator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_RSSFeedGenerator.md)
 

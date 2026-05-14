@@ -93,5 +93,5 @@ Unallocated Group Recommendations
 \[Remote table\] Product recommendations for unallocated groups
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Subscription Management reference](subscription-management-reference-v2.md)
+</table>**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 

@@ -44,7 +44,7 @@ Role required:
 
     The flow ends.
 
-    ![Response tasks to investigate if this alert is a possible case of credential sniffing](../../secops-analyst-workspace/image/playbook-credential-sniff-investigate.png "Credential Sniffing Playbook")
+    ![Response tasks to investigate if this alert is a possible case of credential sniffing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/image/playbook-credential-sniff-investigate.png "Credential Sniffing Playbook")
 
 4.  In Action 5, if the alert requires an end user ticket, then perform the following steps:
 
@@ -63,5 +63,5 @@ Role required:
 5.  In Action 11, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Credential Sniffing](../concept/playbook-credential-sniffing.md)
+**Parent Topic:**[Playbook for Credential Sniffing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-credential-sniffing.md)
 

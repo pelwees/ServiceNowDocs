@@ -39,7 +39,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 6.  Save the record by selecting **Submit**.
 
-    To continue modifying the filter, you must reopen the record from the [filters list](hla-op-search-queries-manage-sow.md). You can then edit, test, publish, and activate the filter.
+    To continue modifying the filter, you must reopen the record from the [filters list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-search-queries-manage-sow.md). You can then edit, test, publish, and activate the filter.
 
 7.  Edit the default **Alert payload** text in preparation for testing your intended logic.
 
@@ -55,7 +55,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     -   `Alert will be dropped.`
     -   `Alert will be allowed.`
-    ![Testing the JavaScript to determine whether to allow or drop the alert.](../image/advanced-alert-filter-process1.png "Testing the JavaScript to determine whether to allow or drop the alert")
+    ![Testing the JavaScript to determine whether to allow or drop the alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/advanced-alert-filter-process1.png "Testing the JavaScript to determine whether to allow or drop the alert")
 
     **Note:** If your new JavaScript function is not behaving as expected, you can revert to the last published one by selecting the **Revert JS Function** related link.
 

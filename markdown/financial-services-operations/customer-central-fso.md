@@ -25,7 +25,7 @@ Agents or contributors can view Customer Central on the interaction, case, accou
 
 The **Customer Information** tab displays key information about the customer and a view of all recent customer touchpoints with the service organization. It contains various predefined lists, records, reports, and report groups that are highly configurable, or you can create your own. You can also configure the number of days to display the data.
 
-![The Customer Information tab displays key information about the customer and a view of all recent customer touchpoints with the service organization.](../image/customer-information-fso.png "Customer Information tab")
+![The Customer Information tab displays key information about the customer and a view of all recent customer touchpoints with the service organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/customer-information-fso.png "Customer Information tab")
 
 ## Configure Customer Central
 

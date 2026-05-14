@@ -15,7 +15,7 @@ The Interaction page provides customer service representatives \(CSRs\) with a c
 
 CSRs use this page during an active interaction with a banking customer. It combines customer information, contextual history, and AI-powered assistance in a single page. When a CSR accepts an inbound call, the page opens automatically and displays the identified customer's details. The CSR can manage the entire interaction in this space—from first contact to case creation and wrap-up.
 
-![Agentic contact center interface showing an active call with customer details and AI-generated assistance.](../images/agentic-contact-center-interaction.png)
+![Agentic contact center interface showing an active call with customer details and AI-generated assistance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../images/agentic-contact-center-interaction.png)
 
 ## Live transcript and AI-driven assistance
 
@@ -25,11 +25,11 @@ As the conversation progresses, the AI agent reads the transcript, interprets th
 
 CSRs can also type their own questions directly into the Now Assist panel at any time. The panel displays responses from the AI agent in a structured format that may include insights, recommendations, and guidance based on the content and sentiment of the conversation.
 
-For more information, see [Agentic Contact Center for Banking AI agents overview](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md).
+For more information, see [Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md).
 
 ## Customer context summary
 
-![Customer context summary panel showing customer information, contact reason, related cases, and related products with balances.](../images/agentic-contact-center-interaction-context-summary.png)
+![Customer context summary panel showing customer information, contact reason, related cases, and related products with balances.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../images/agentic-contact-center-interaction-context-summary.png)
 
 The customer context summary provides the CSR with an AI-generated overview of the customer before and during the call. This context-based summary is generated from the customer's profile, products, recent interactions, and case history at the time the interaction begins, giving the CSR immediate context without manual research.
 
@@ -42,7 +42,7 @@ The customer summary includes:
 
 The customer summary is not visible when no account or consumer has been associated with the interaction.
 
-For more information, see [Summarize customer interaction context in the Interaction page](../../fso-now-assist/task/summarize-customer-context-fso.md).
+For more information, see [Summarize customer interaction context in the Interaction page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-now-assist/task/summarize-customer-context-fso.md).
 
 ## Interaction form
 
@@ -89,14 +89,14 @@ For more information, see the following topics:
 -   [Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 -   [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/fso-overview.md)
 
 **Related topics**  
 
 
-[Exploring Agentic Contact Center for Banking](exploring-agentic-contact-center-for-banking.md)
+[Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
-[Customer 360 page for Agentic Contact Center for Banking](customer-360-agentic-contact-center-for-banking.md)
+[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)
 
 [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 

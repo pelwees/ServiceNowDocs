@@ -25,7 +25,7 @@ Role required: awa\_admin or admin
 
     A list of the work items appears.
 
-2.  Select the preview button \(![Preview button](../../../product/configuration-management/image/preview-button.png)\) for the work item you want to view.
+2.  Select the preview button \(![Preview button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../product/configuration-management/image/preview-button.png)\) for the work item you want to view.
 
 3.  On the Work Item dialog box, select **Open Record**.
 
@@ -218,7 +218,7 @@ Number of times the work item was offered to agents.
 </td></tr></tbody>
 </table>4.  Scroll to the bottom of the Work Item form to view the list of the AWA Events.
 
-5.  Select the preview button ![Preview button](../../../product/configuration-management/image/preview-button.png) for the AWA event you want to view.
+5.  Select the preview button ![Preview button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../product/configuration-management/image/preview-button.png) for the AWA event you want to view.
 
 6.  On the AWA Event dialog box, select **Open Record**.
 

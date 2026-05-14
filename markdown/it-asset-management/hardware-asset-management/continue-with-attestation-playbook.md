@@ -36,7 +36,7 @@ The Create asset attestation playbook is displayed for the schedule number that 
 
 ## What to do next
 
-Complete all the pending activities in the playbook. For details, see [Create an asset attestation or a schedule using the playbook](create-attestation-using-playbook.md).
+Complete all the pending activities in the playbook. For details, see [Create an asset attestation or a schedule using the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-attestation-using-playbook.md).
 
-**Parent Topic:**[Playbook for asset attestation](../concept/playbook-asset-attestation-ham.md)
+**Parent Topic:**[Playbook for asset attestation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/playbook-asset-attestation-ham.md)
 

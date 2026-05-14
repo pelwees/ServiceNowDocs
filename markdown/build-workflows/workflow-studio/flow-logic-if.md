@@ -23,7 +23,7 @@ Use this flow logic by specifying conditions that are based on the current recor
 
 You can add a child If flow logic block to a parent If flow logic block. Add the child If flow logic block to the Then branch of the parent flow logic block.
 
-![Example flow with one If flow logic block inside another If flow logic block.](../images/example-nested-if-flow-logic.png)
+![Example flow with one If flow logic block inside another If flow logic block.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-nested-if-flow-logic.png)
 
 ## Inputs
 
@@ -40,11 +40,11 @@ This flow logic has no outputs.
 
 In this example, the action is triggered when the incident record has a high urgency value.
 
-![Example If branch.](../images/flow-logic-if.png)
+![Example If branch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-logic-if.png)
 
 ## Execution details
 
-![Execution details for an if branch.](../images/ex-details-if.png "Execution details for if flow logic")
+![Execution details for an if branch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/ex-details-if.png "Execution details for if flow logic")
 
 1.  The header shows the state, start time, and runtime for the flow logic.
 2.  The Configuration Details section shows the details about the variables that are used by the flow, including the type, configuration, and runtime values for each variable. Use the *condition* variable to see if the branch conditions were met.
@@ -61,7 +61,7 @@ Use these general guidelines to create effective If flow logic blocks.
 
     Mixing conditions of different types for the same field values can produce unexpected results. For example, adding an AND condition to a group of multiple OR conditions for an incident short description can produce a situation where the If condition never evaluates to true. Use condition groups to group similar condition types for the same field. For example, group all OR conditions for an incident short description in one condition set and group all AND conditions for an incident short description in another condition set.
 
-    ![Example conditions sets. The first condition set has three or conditions, and the second condition set has two and conditions.](../images/example-condition-set-groups-if-conditions.png "Example of grouping matching conditions into condition sets")
+    ![Example conditions sets. The first condition set has three or conditions, and the second condition set has two and conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-condition-set-groups-if-conditions.png "Example of grouping matching conditions into condition sets")
 
     ![]()
 
@@ -71,51 +71,51 @@ Use these general guidelines to create effective If flow logic blocks.
 
     Here is an example flow that uses three If flow logic blocks that each create an incident task record. The only difference between the If flow logic blocks are the conditions of the incident category.
 
-    ![Example flow containing three If flow logic blocks. Each If block checks for an incident category value and creates an incident task assigned to a matching group.](../images/example-multiple-ifs-before-conversion-decision.png "Example of multiple If flow logic blocks that do the same action")
+    ![Example flow containing three If flow logic blocks. Each If block checks for an incident category value and creates an incident task assigned to a matching group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-multiple-ifs-before-conversion-decision.png "Example of multiple If flow logic blocks that do the same action")
 
     Here is an example flow that uses a single Make a decision flow logic block to determine the incident task assignment group from the incident category. The Create task action uses the output of the decision as an input.
 
-    ![Example flow containing a Make a decision flow logic block to determine the assignment by category. There is one Create Task action rather than three.](../images/example-multiple-ifs-after-conversion-decision.png "Example of replacing multiple If flow logic blocks with a decision")
+    ![Example flow containing a Make a decision flow logic block to determine the assignment by category. There is one Create Task action rather than three.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-multiple-ifs-after-conversion-decision.png "Example of replacing multiple If flow logic blocks with a decision")
 
     Here is an example decision table that uses incident record values as an input. The Conditions column consists of two incident category values. The results column consists of the assignment group to use for each condition value.
 
-    ![Example decision table with a conditions column for incident category and a results column for assignment group.](../images/example-decision-table-get-assignment-group-from-category.png "Example decision table Get Assignment Group from Category")
+    ![Example decision table with a conditions column for incident category and a results column for assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-decision-table-get-assignment-group-from-category.png "Example decision table Get Assignment Group from Category")
 
 
-**Parent Topic:**[Workflow Studio flow logic](flow-logic.md)
+**Parent Topic:**[Workflow Studio flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic.md)
 
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/append-to-flow-variables-flow-logic.md)
 
-[Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
+[Assign subflow outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-assign-subflow-outputs.md)
 
-[Call a workflow flow logic](flow-logic-call-workflow.md)
+[Call a workflow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-call-workflow.md)
 
-[Do the following until flow logic](flow-logic-do-until.md)
+[Do the following until flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-do-until.md)
 
-[Do the following in parallel flow logic](flow-logic-do-following-in-parallel.md)
+[Do the following in parallel flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-do-following-in-parallel.md)
 
-[Dynamic flows flow logic](flow-logic-dynamic-flow.md)
+[Dynamic flows flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-dynamic-flow.md)
 
-[End Flow flow logic](flow-logic-end-action.md)
+[End Flow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/exit-loop-flow-logic.md)
 
-[For Each flow logic](flow-logic-for-each.md)
+[For Each flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-for-each.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/go-back-to-flow-logic.md)
 
-[Make a decision flow logic](flow-logic-make-decision.md)
+[Make a decision flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-make-decision.md)
 
-[Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
+[Set Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/skip-iteration-flow-logic.md)
 
-[Try flow logic](flow-logic-try.md)
+[Try flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-try.md)
 
-[Wait for a duration flow logic](flow-logic-wait-for-a-duration.md)
+[Wait for a duration flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-wait-for-a-duration.md)
 

@@ -28,5 +28,5 @@ Role required: admin
 3.  Click **Scan Update Set** from the **Related Links** list.
 
 
-**Parent Topic:**[Execute a point scan](hs-execute-point-scan.md)
+**Parent Topic:**[Execute a point scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md)
 

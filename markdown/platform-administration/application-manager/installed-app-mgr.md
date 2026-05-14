@@ -17,5 +17,5 @@ You can view all installed applications and plugins from one place in the Applic
 
 The **Installed** tab displays applications and plugins that are currently installed on your instance. Installed applications and plugins display their current version, as well as notifying you if the app is up to date or has an update available. You can also apply filters to narrow your search or use the sorting option to display by alphabetical order or based on recently released.
 
-![application manager installed page.](../image/app-mgr-installed.png)
+![application manager installed page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-mgr-installed.png)
 

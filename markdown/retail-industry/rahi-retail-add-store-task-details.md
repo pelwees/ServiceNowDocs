@@ -54,5 +54,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
     3.  Select **Continue** to go next step.
 
 
-**Parent Topic:**[Manage store plans to generate cases and tasks](rahi-retail-manage-store-plan-authoring.md)
+**Parent Topic:**[Manage store plans to generate cases and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plan-authoring.md)
 

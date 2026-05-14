@@ -25,13 +25,13 @@ Role required: sn\_imt\_checkin.checkin\_admin, survey\_creator, survey\_admin, 
 
 Users with the sn\_imt\_checkin.checkin\_admin role have the survey\_creator role, and are made owners of the default readiness survey. Users with the survey\_creator role can edit or copy the default survey. These users can also add another readiness survey and add other users as owners to collaborate with them.
 
-![Survey definition with owners who are check-in admins](../image/survey-definition-owners.png "Survey definition owners")
+![Survey definition with owners who are check-in admins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/survey-definition-owners.png "Survey definition owners")
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Surveys** &gt; **View Surveys** and open the **Employee workplace readiness survey**.
 
-    ![Survey definition Introduction and end notes form section and related lists](../image/survey-definition-fields-lists.png)
+    ![Survey definition Introduction and end notes form section and related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/survey-definition-fields-lists.png)
 
 2.  Using the plan that you made for changing the survey, update any of the following survey elements.
 
@@ -49,7 +49,7 @@ Description
 
 </td><td>
 
-Select the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\) beside **Owners** to unlock the list of survey owners. Add the user to collaborate with on this survey.
+Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../common/image/icon-lock.png)\) beside **Owners** to unlock the list of survey owners. Add the user to collaborate with on this survey.
 
 </td></tr><tr><td id="d209446e141">
 
@@ -85,7 +85,7 @@ In the Assessment Metric Definitions related list, select the response to edit. 
 
 The modified survey is used for future outreach surveys.
 
-**Parent Topic:**[Employee Readiness Surveys](../concept/employee-readiness-surveys.md)
+**Parent Topic:**[Employee Readiness Surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-readiness-surveys.md)
 
 ## Add Employee Readiness Surveys
 

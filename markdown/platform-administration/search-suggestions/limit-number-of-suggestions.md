@@ -23,7 +23,7 @@ Role required: admin
 
 By default, the pruning job runs once a week and limits the Search Suggestion \[sys\_search\_suggestion\] table to 500,000 suggestions. Once the table reaches that limit, the pruning job removes the lowest-rated auto-complete suggestions and search suggestions to keep the maximum number of suggestions at 500,000. Pruning the least relevant suggestions improves the relevancy of the suggestions.
 
-How often you run the pruning job might depend on how frequently you [generate suggestions from the Search Suggestion table](schedule-search-suggestion-builds.md), and how quickly the table exceeds 500,000 suggestions.
+How often you run the pruning job might depend on how frequently you [generate suggestions from the Search Suggestion table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/schedule-search-suggestion-builds.md), and how quickly the table exceeds 500,000 suggestions.
 
 ## Procedure
 

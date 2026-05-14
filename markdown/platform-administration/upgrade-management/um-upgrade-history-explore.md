@@ -92,5 +92,5 @@ Copies to review
 Total number of copied records to review whose base records have been upgraded.
 
 </td></tr></tbody>
-</table>See [Upgrade History tool in Upgrade Console](um-upgrade-history-tool.md) for more information.
+</table>See [Upgrade History tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-history-tool.md) for more information.
 

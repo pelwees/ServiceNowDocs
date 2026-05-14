@@ -81,5 +81,5 @@ Select the source of import from the option:-   File
 12. Select **Transform History**, to view logs.
 
 
-**Parent Topic:**[Create a campaign](../concept/mco-rc-my-campaigns.md)
+**Parent Topic:**[Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-rc-my-campaigns.md)
 

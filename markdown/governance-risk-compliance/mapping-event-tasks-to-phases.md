@@ -19,7 +19,7 @@ Organizing event tasks into logical phases provides a structure to the recovery 
 
 You can tag the event tasks to an appropriate phase such as Preparation, Recovery, Post incident review, and so on as part of recovery. This kind of mapping verifies structured and efficient handling of event tasks.
 
-For more information on phases in recovery, see [Mapping recovery tasks to phases](mapping-recovery-tasks-to-phases.md).
+For more information on phases in recovery, see [Mapping recovery tasks to phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-recovery-tasks-to-phases.md).
 
-**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 

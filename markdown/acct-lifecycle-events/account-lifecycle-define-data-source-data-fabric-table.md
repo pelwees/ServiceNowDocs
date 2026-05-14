@@ -33,7 +33,7 @@ Access external data through the Workflow Data Fabric tables and analyzed it usi
 
 4.  On the Data Source Form, fill in the remaining fields.
 
-    For a description of the field values, see [Define a table data source](account-lifecycle-define-data-source-table.md) page.
+    For a description of the field values, see [Define a table data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-define-data-source-table.md) page.
 
 5.  Select **Submit** to create the data source.
 
@@ -59,5 +59,5 @@ To get the total number of licenses used this quarter across accounts and produc
 
 ## What to do next
 
-After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-context-engine-mapper.md) for details.
 

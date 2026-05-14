@@ -27,7 +27,7 @@ Save flow triggers to gain these benefits:
 
 The Workflow Studio home page displays a **Triggers** option in the list of available components and the list of new components.
 
-![Interface for the configure the trigger with numbered callouts for specific UI elements. For a description of the UI elements, see the list in the following text.](../images/trigger-definition.png "Screen to create a record based trigger")
+![Interface for the configure the trigger with numbered callouts for specific UI elements. For a description of the UI elements, see the list in the following text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/trigger-definition.png "Screen to create a record based trigger")
 
 A Workflow Studio **Create trigger** tab consists of these elements:
 
@@ -51,7 +51,7 @@ A Workflow Studio **Create trigger** tab consists of these elements:
 
     Select the trigger type and table from the available options.
 
-    For more information about trigger types, see [Workflow Studio flow trigger types](../reference/flow-triggers.md).
+    For more information about trigger types, see [Workflow Studio flow trigger types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/flow-triggers.md).
 
     **Note:** Starting in the Yokohama release, only the record-based triggers are supported for saved flow triggers.
 
@@ -77,8 +77,8 @@ A Workflow Studio **Create trigger** tab consists of these elements:
 
         |Option|Description|
         |------|-----------|
-        |Do not run if triggered by the following users|Flow that doesn't trigger for a selected list of users. Select the Add User icon \(![Add User Icon](../images/icon-select-users.png)\) to add users to the list.|
-        |Only run if triggered by the following users|Flow that triggers only for a selected list of users. Select the Add User icon \(![Add User Icon](../images/icon-select-users.png)\) to add users to the list.|
+        |Do not run if triggered by the following users|Flow that doesn't trigger for a selected list of users. Select the Add User icon \(![Add User Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-select-users.png)\) to add users to the list.|
+        |Only run if triggered by the following users|Flow that triggers only for a selected list of users. Select the Add User icon \(![Add User Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-select-users.png)\) to add users to the list.|
         |Run for any user|Flow that runs for any user.|
 
         |Option|Description|
@@ -121,9 +121,9 @@ Flow that runs synchronously in the current session. Use this option to provide 
 **Related topics**  
 
 
-[Create a saved record-based trigger](../task/create-saved-trigger.md)
+[Create a saved record-based trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-saved-trigger.md)
 
-[Edit a saved trigger](../task/edit-saved-trigger.md)
+[Edit a saved trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/edit-saved-trigger.md)
 
-[Delete a saved trigger](../task/delete-saved-trigger.md)
+[Delete a saved trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/delete-saved-trigger.md)
 

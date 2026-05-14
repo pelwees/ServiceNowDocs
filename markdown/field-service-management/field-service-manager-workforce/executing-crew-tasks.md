@@ -39,11 +39,11 @@ Crew members can perform the following actions on the work order task:
 **Related topics**  
 
 
-[Accept or reject a work order task](../task/accept-reject-task-on-mobile.md)
+[Accept or reject a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/accept-reject-task-on-mobile.md)
 
-[Start work on a work order task](../task/work-task-on-mobile.md)
+[Start work on a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/work-task-on-mobile.md)
 
-[Record time worked for a task or activity manually](../task/field-service-agent-record-time.md)
+[Record time worked for a task or activity manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/field-service-agent-record-time.md)
 
-[Knowledge articles on ServiceNow Agent](access-information-you-need-mobile.md#)
+[Knowledge articles on ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/access-information-you-need-mobile.md#)
 

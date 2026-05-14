@@ -83,7 +83,7 @@ State of the status reports. The status reports can be in one of the following s
 </td></tr></tbody>
 </table>5.  Select the type of the status report that you would want to view or select **New** to create a status report.
 
-    ![Create and distribute MSIM Status Reports](../image/msim-status-reports-tab.png "MSIM Status Reports tab")
+    ![Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-status-reports-tab.png "MSIM Status Reports tab")
 
 6.  Choose one of the following status report types from the list.
 
@@ -155,7 +155,7 @@ Select lists of records that provide context to the status update.-   **Linked r
 </td></tr></tbody>
 </table>    **Note:** The options that you’ve selected from the Status Reports section are the same options that are rendered in the Preview report.
 
-    ![Status Report Template](../image/msim-status-report-template.png "Status Report Template")
+    ![Status Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-status-report-template.png "Status Report Template")
 
 8.  Select **Save** to save the updates you made to the status report.
 
@@ -220,7 +220,7 @@ Body of the email message.
 
     An email with the attached PDF Status Report is successfully sent to the concerned recipient for them to verify.
 
-    ![Report email](../image/email-report.png "Status Report - email")
+    ![Report email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/email-report.png "Status Report - email")
 
 11. You can also perform the following actions on the Status Reports tab:
 
@@ -231,28 +231,28 @@ Body of the email message.
     3.  Use the **Filter** action on the Status Reports view to filter the status reports based on certain conditions.
 
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](../concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../concept/msim-details-tab.md)
+[Update Major Security Incident details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/msim-details-tab.md)
 
-[Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](unlinking-msi-records.md)
+[Unlink records from Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](../concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/collab-tab.md#)
 
-[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+[Configure Major Security Incident status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-status-reports-for-major-security-incident-management.md)
 

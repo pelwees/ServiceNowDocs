@@ -27,7 +27,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
     The Digital Resilience Incident Case record is displayed.
 
-    ![Digital Resilience Incident Case record.](../image/dri-case-record.png)
+    ![Digital Resilience Incident Case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-case-record.png)
 
     It contains the following tabs for the record:
 
@@ -57,7 +57,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
         The example illustrates mapping the Acer entity to the 'Digital Operational Resilience Act' \(a single regulation\). However, entities can also be mapped to multiple regulations.
 
-        ![Mapping an entity to a single regulation.](../image/reg-mapping-new-record-regulations-added.png)
+        ![Mapping an entity to a single regulation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/reg-mapping-new-record-regulations-added.png)
 
 3.  To add a subtype for the case, navigate to the Subtypes related list and select **New**.
 
@@ -65,7 +65,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
         The following example shows a Subtypes record.
 
-        ![Subtypes record.](../image/casetype-subtype-new-record.png)
+        ![Subtypes record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/casetype-subtype-new-record.png)
 
     2.  To mark the record as active, set the Active option.
 
@@ -77,7 +77,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
         The following example shows a Rules record.
 
-        ![Rules record.](../image/casetype-viewrule-sample-record.png)
+        ![Rules record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/casetype-viewrule-sample-record.png)
 
     2.  Set the Active flag.
 
@@ -93,7 +93,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
     The following example shows an Assignment rules record.
 
-    ![Assignment rules record.](../image/casetype-assignrule-sample-record.png)
+    ![Assignment rules record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/casetype-assignrule-sample-record.png)
 
     1.  Add the name of the rule and set the Active flag.
 
@@ -115,7 +115,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
     The following example shows a Jurisdictions location record.
 
-    ![Jurisdictions record.](../image/casetype-Juris-sample-record.png)
+    ![Jurisdictions record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/casetype-Juris-sample-record.png)
 
     1.  Add Name, City, Zip code, State, country, Phone, Latitude, Longitude details.
 
@@ -127,7 +127,7 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 
     The following example shows a Record type area configuration record.
 
-    ![Area configs record.](../image/casetype-areatype-sample-record.png)
+    ![Area configs record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/casetype-areatype-sample-record.png)
 
     1.  Set its order and Active flag.
 
@@ -143,5 +143,5 @@ The Digital Resilience Incident Case module in the Operational Resilience Worksp
 **Related topics**  
 
 
-[Complete action tasks and report incidents associated with regulations](work-on-action-tasks.md)
+[Complete action tasks and report incidents associated with regulations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/work-on-action-tasks.md)
 

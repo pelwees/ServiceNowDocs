@@ -17,7 +17,7 @@ Add a custom Localization Framework setting to translate multiple knowledge arti
 
 ## Before you begin
 
--   [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md).
+-   [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-knowledge-advanced-plugin.md).
 -   [Activate Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/activate-lf-plugin.md).
 -   [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 -   Bulk Translation is available with the base Australia release. If you are upgrading from a previous release, you must configure the following settings:
@@ -57,7 +57,7 @@ Role required: admin
 
 ## What to do next
 
-[Request bulk translations for multiple knowledge articles](bulk-translations-step.md).
+[Request bulk translations for multiple knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/bulk-translations-step.md).
 
-**Parent Topic:**[Configure translation management](configure-translation-management.md)
+**Parent Topic:**[Configure translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-translation-management.md)
 

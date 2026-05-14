@@ -32,7 +32,7 @@ The Change Success Score Ratings table is used to hold the records of the text a
 
 You can choose to modify the score range, color, introduce, or modify new rating values. The values defined here can be viewed in the **Change Success Score card** on the change Request form.
 
-![Change success score card](../image/change-success-score-card.png)
+![Change success score card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/change-success-score-card.png)
 
 ## Procedure
 
@@ -48,5 +48,5 @@ You can choose to modify the score range, color, introduce, or modify new rating
 3.  Click **Update**.
 
 
-**Parent Topic:**[Change success score](change-success-score.md)
+**Parent Topic:**[Change success score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 

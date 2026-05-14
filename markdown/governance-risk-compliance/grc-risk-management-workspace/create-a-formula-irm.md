@@ -56,5 +56,5 @@ When creating a formula, you can utilize functions like maximum, minimum, or ave
 8.  On the Formula builder page, select **Need help?** to get step-by-step guidance for building the formula.
 
 
-**Parent Topic:**[Formula building in a calculated metric definition](../concept/formula-building-at-metric-definition-and-entity-level-irm.md)
+**Parent Topic:**[Formula building in a calculated metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/formula-building-at-metric-definition-and-entity-level-irm.md)
 

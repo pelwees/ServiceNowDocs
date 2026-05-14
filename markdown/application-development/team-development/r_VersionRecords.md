@@ -89,7 +89,7 @@ Reverted from
 
 </td><td>
 
-A reference to the older version record, if this version was created by [reverting to an older version](../task/t_RevertAChange.md).
+A reference to the older version record, if this version was created by [reverting to an older version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/t_RevertAChange.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -124,13 +124,13 @@ Version List
 All versions of the customized record that are available on the instance.
 
 </td></tr></tbody>
-</table>-   **[Merge tool](../concept/diff-merge-tool.md)**  
+</table>-   **[Merge tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/diff-merge-tool.md)**  
 The Diff Merge tool enables administrative users to compare differences between two versions of a record.
 
-**Parent Topic:**[Versions](../concept/c_Versions.md)
+**Parent Topic:**[Versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/c_Versions.md)
 
 **Related topics**  
 
 
-[Team Development](team-development-landing.md)
+[Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/team-development-landing.md)
 

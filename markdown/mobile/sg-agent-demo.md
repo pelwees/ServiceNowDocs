@@ -15,7 +15,7 @@ Access the demo in your Mobile Agent app to learn how the app can help your agen
 
 <table id="table_onb_gf2_hlb"><tbody><tr><td>
 
-![phone image](../image/phone-icon.png)
+![phone image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/phone-icon.png)
 
 </td><td>
 
@@ -38,16 +38,16 @@ Finally, tap the **Launch Demo** button to start using the demo. The demo automa
 
 <table id="table_tz5_wg4_jpb"><tbody><tr><td>
 
-![Instance login page with option to try demo account.](../image/now-mobile-demo-2.png)
+![Instance login page with option to try demo account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/now-mobile-demo-2.png)
 
 </td><td>
 
-![Choice of mobile agent personas.](../image/mobile-agent-personas.png)
+![Choice of mobile agent personas.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-agent-personas.png)
 
 </td></tr></tbody>
 </table>## Demo highlights
 
-The Mobile Agent app demo displays a launcher screen divided into sections. Tap an item in any section to open the item or tap **See All** to view all items in that section. For details on how launcher screens, other screens, and actions work together in the mobile environment, see [Mobile hierarchy](mobile-hierarchy.md).
+The Mobile Agent app demo displays a launcher screen divided into sections. Tap an item in any section to open the item or tap **See All** to view all items in that section. For details on how launcher screens, other screens, and actions work together in the mobile environment, see [Mobile hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md).
 
 ## Customer Service Agent
 
@@ -168,6 +168,6 @@ The Mobile Agent app demo displays a launcher screen divided into sections. Tap 
 
 Use the following links to learn more about on how to use and configure the Mobile Agent app.
 
--   [Mobile Agent app](mobile-experience.md)
--   [Building mobile apps](build-mobile-apps-landing.md)
+-   [Mobile Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-experience.md)
+-   [Building mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/build-mobile-apps-landing.md)
 

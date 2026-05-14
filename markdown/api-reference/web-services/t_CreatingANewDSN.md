@@ -25,17 +25,17 @@ Role required: admin
 
 Select the target instance for your ODBC connection by DSN name. As an option during installation or upgrade, you can elect to keep the DSNs when you uninstall.
 
-Instead of creating a new DSN, you can [Specify a connection string](specify-connection-string.md) to connect with different instance URLs.
+Instead of creating a new DSN, you can [Specify a connection string](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/specify-connection-string.md) to connect with different instance URLs.
 
 ## Procedure
 
 1.  In Windows, navigate to **Start** &gt; **Programs** &gt; **Service-now ODBC** &gt; **ODBC Administrator**.
 
-    ![ODBC DSN.](../image/OdbcDsn.png)
+    ![ODBC DSN.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcDsn.png)
 
 2.  To create a system DSN, select the **System DSN** tab, and then click **Add**.
 
-    ![Add an ODBC DSN.](../image/OdbcDsnAdd.png)
+    ![Add an ODBC DSN.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcDsnAdd.png)
 
 3.  Select ServiceNow **ODBC driver 32-bit** from the list, and then click **Finish**.
 
@@ -43,7 +43,7 @@ Instead of creating a new DSN, you can [Specify a connection string](specify-con
 
     For example: `url=https://myinstance.service-now.com`
 
-    ![ODBC DSN driver setup.](../image/OdbcDsnConfDriver.png)
+    ![ODBC DSN driver setup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcDsnConfDriver.png)
 
 5.  Click **OK**.
 
@@ -52,5 +52,5 @@ Instead of creating a new DSN, you can [Specify a connection string](specify-con
 
 You can now use the new driver.
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-odbc.md)
 

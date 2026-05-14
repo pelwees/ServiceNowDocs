@@ -36,7 +36,7 @@ The following users can view and manage the component libraries and shared compo
 
 ## Accessing the component libraries
 
-To open the Component libraries, navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace** and select the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\).
+To open the Component libraries, navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace** and select the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\).
 
 ## Component libraries list
 
@@ -49,7 +49,7 @@ On the Component libraries list, you can review all component libraries and shar
 
 The following is an example of a unified view for Component libraries.
 
-![Unified view in DevOps Config Workspace to manage component libraries and shared components.](../image/cdm-comp-library-unified-view.png "Unified view in DevConfig Workspace to manage component libraries")
+![Unified view in DevOps Config Workspace to manage component libraries and shared components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-comp-library-unified-view.png "Unified view in DevConfig Workspace to manage component libraries")
 
 ## Component library form
 
@@ -67,7 +67,7 @@ On the Component library form pane, you can review and manage your libraries and
 
 The following is an example of a component library form in the DevOps Config Workspace.
 
-![Component library form.](../image/cdm-comp-library-form.png "Component library form")
+![Component library form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-comp-library-form.png "Component library form")
 
 ## Shared component form
 
@@ -83,5 +83,5 @@ On the Shared component form pane, you can review and manage components within y
 
 The following is an example of a shared component form in the DevOps Config Workspace.
 
-![Shared component form.](../image/cdm-component-form.png "Component library form")
+![Shared component form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-component-form.png "Component library form")
 

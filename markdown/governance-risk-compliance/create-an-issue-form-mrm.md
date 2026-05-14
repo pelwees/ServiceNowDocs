@@ -24,5 +24,5 @@ See the following table for a description of the field values.
 |Assigned to|Individual responsible for resolving the issue.|
 |Issue source|Origin or source from which the issue was identified. This field is automatically set to **Model Risk**.|
 
-**Parent Topic:**[Create an issue for model](../task/create-an-issue-for-model-risk.md)
+**Parent Topic:**[Create an issue for model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-an-issue-for-model-risk.md)
 

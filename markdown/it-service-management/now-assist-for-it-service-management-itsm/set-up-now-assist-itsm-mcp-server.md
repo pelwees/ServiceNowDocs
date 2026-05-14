@@ -39,7 +39,7 @@ You must have the following plugins installed on your instance:
 
         **Note:** You must change the application scope to **ITSM MCP Server**.
 
-        The **MCP Server Console** screen opens with all fields populated. ![ITSM MCP Server configuration details page](../image/now-assist-itsm-mcp-server-console.png)
+        The **MCP Server Console** screen opens with all fields populated. ![ITSM MCP Server configuration details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-mcp-server-console.png)
 
     4.  From the Deactivate drop-down menu, select **Activate**.
 
@@ -51,7 +51,7 @@ You must have the following plugins installed on your instance:
 
     -   If you are using the ITSM MCP Server OAuth client entry to set up your OAuth server, the fields in the Authorization code grant screen are filled in automatically and you will use this information to connect to the ITSM MCP Server.
 
-        ![OAuth authorization code grant configuration form in Machine Identity Console showing fields for Name, Provider name, Redirect URLs, Client ID, and Client secret.](../image/now-assist-itsm-mcp-setup-oauth.png)
+        ![OAuth authorization code grant configuration form in Machine Identity Console showing fields for Name, Provider name, Redirect URLs, Client ID, and Client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-mcp-setup-oauth.png)
 
     -   If you're setting up your own OAuth connection, you need either an oauth\_admin, or admin role to configure your OAuth client entry. Refer to the instructions in the [Connecting to an MCP server from an MCP client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md) to setup the OAuth and connect to the ITSM MCP Server.
 

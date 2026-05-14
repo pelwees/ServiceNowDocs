@@ -33,10 +33,10 @@ The **task\_effective\_number** is a dynamic field value that displays the UR nu
 
     For example, in the Incident Opened and Unassigned notification, in the **Subject** field, enter **Incident $\{task\_effective\_number\} - open and unassigned**.
 
-    ![Use effective number in email subject](../images/ur-effective-number.png)
+    ![Use effective number in email subject](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-effective-number.png)
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+**Parent Topic:**[Email notification preferences for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-customize-email-notifcations.md)
 

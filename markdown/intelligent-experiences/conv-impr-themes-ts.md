@@ -19,7 +19,7 @@ Associated Error Codes/Warning: N/A.
 
 Steps to Resolve:
 
-Make sure all the skills and scheduled jobs are active by following the steps given in [Activating Conversation Improvement Themes](../task/conv-impr-themes-activate.md).
+Make sure all the skills and scheduled jobs are active by following the steps given in [Activating Conversation Improvement Themes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/conv-impr-themes-activate.md).
 
 **Scenario/Symptom: Execution staging records are stuck on Processing/Failed.**
 
@@ -70,5 +70,5 @@ If no Gen AI logs are created, check the Outbound HTTP logs for any issues exist
 
 Sys Logs: Check sys logs for any errors related to passing with scope as sn\_na\_thematic.
 
-**Parent Topic:**[Reference for Conversation Improvement Themes](conv-impr-themes-reference.md)
+**Parent Topic:**[Reference for Conversation Improvement Themes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-reference.md)
 

@@ -15,20 +15,20 @@ breadcrumb: [Service Portal service status widgets, Widget library, Using portal
 
 Displays the history of specific service's status. For example, if the Bond Trading widget has a history of planned outages or degradations, the widget displays those with a varied color scheme to differentiate the outage type. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Service History widget](../image/WidgetServiceHistory.png "Service History widget")
+![Service History widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetServiceHistory.png "Service History widget")
 
 ## Instance options
 
 The Service History widget does not include any instance options.
 
-**Parent Topic:**[Service Portal service status widgets](service-status-widgets.md)
+**Parent Topic:**[Service Portal service status widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

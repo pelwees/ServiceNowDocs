@@ -104,5 +104,5 @@ The location to the activity.
 Select a criterion for the users that the template is intended for.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+</table>**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-reference.md)
 

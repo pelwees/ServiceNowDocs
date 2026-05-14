@@ -19,7 +19,7 @@ This API runs in the `sn_auth` namespace and requires the SCIM v2 - ServiceNow C
 
 For additional information on SCIM, see [System for Cross-domain Identity Management \(SCIM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/scim.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SCIM2ClientUtil - getProviderIdByFilter\(String provider, String resourceName, String filter\)
 

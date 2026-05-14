@@ -178,27 +178,27 @@ All replication sets, but not unidirectional replication sets
 -   Journal fields are excluded from the comparison due to the potential size of their content.
 -   Sys Audit \[sys\_audit\] table records are excluded from the comparison.
 
--   **[Find missing or mismatched records in Instance Data Replication](../task/compare-replicated-data.md)**  
+-   **[Find missing or mismatched records in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/compare-replicated-data.md)**  
 Find records missing from the consumer instance or mismatched records after data has been replicated by creating a data comparison request in Instance Data Replication \(IDR\).
--   **[Reseed missing or mismatched records in Instance Data Replication](../task/fix-replicated-data.md)**  
+-   **[Reseed missing or mismatched records in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/fix-replicated-data.md)**  
 Synchronize data between instances by reseeding records missing from the consumer instance or mismatched records between the producer and consumer instance in Instance Data Replication \(IDR\).
 
-**Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
+**Parent Topic:**[Administering Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/administering-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/approve-consumer.md)
 
-[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
+[Deploying a replication configuration from one instance to another in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/copying-replication-configuration.md)
 
-[Cloning options with Instance Data Replication](cloning-with-instance-data-replicaton.md)
+[Cloning options with Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/cloning-with-instance-data-replicaton.md)
 
-[Monitoring replication status in Instance Data Replication](instance-data-replication-dashboard.md)
+[Monitoring replication status in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-dashboard.md)
 
-[Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
+[Monitoring queues in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/idr-queue-dashboard.md)
 
-[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
+[Avoiding insert and update errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/common-issues-idr.md)
 

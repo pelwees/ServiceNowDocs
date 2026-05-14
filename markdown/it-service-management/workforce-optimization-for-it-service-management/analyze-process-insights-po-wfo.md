@@ -29,7 +29,7 @@ You get the process insights and variation analysis for a parent or a child KPI.
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Teams icon \(![Teams icon](../../itsm-manager-workspace/image/teams-icon.png)\).
+2.  Select the Teams icon \(![Teams icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/teams-icon.png)\).
 
     The Teams page opens.
 
@@ -52,7 +52,7 @@ You get the process insights and variation analysis for a parent or a child KPI.
     You can analyze the process insights for the date range for which you’ve mined the data. For more information on business insights, see [View business insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-business-findings.md).
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
 
 **Related topics**  
 

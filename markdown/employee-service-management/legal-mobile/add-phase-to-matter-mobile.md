@@ -29,13 +29,13 @@ If you created a legal matter using a matter template, the predefined phases are
 
 2.  Tap an assigned matter in which you want to add a phase.
 
-3.  Tap the actions icon \(![Actions icon.](../image/action-icon.png)\) and select the **Create Phase** option.
+3.  Tap the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/action-icon.png)\) and select the **Create Phase** option.
 
 4.  In the **Enter Phase Name** field, enter a unique name for the phase.
 
 5.  In the **Enter Phase Order** field, enter the order in which the phase should be worked on.
 
-6.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+6.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 
 ## Result
@@ -44,5 +44,5 @@ A phase is added to the matter.
 
 ## What to do next
 
-[Add tasks in the phase](add-tasks-to-matter-mobile.md) to manage activities in the legal matter. If the task has to be done by a different user, you can assign these tasks to that person.
+[Add tasks in the phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/add-tasks-to-matter-mobile.md) to manage activities in the legal matter. If the task has to be done by a different user, you can assign these tasks to that person.
 

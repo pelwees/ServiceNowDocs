@@ -49,7 +49,7 @@ You can use Flow Designer subflows to move the data into a mid server and then t
     **Note:** Based on your business requirements, add additional actions, triggers, or subflows.
 
 
-**Parent Topic:**[Perform export steps](validate-errors.md)
+**Parent Topic:**[Perform export steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/validate-errors.md)
 
 **Related topics**  
 

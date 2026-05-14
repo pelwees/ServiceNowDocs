@@ -46,7 +46,7 @@ Role required: admin
 
 ## What to do next
 
-[Assign roles for Redox Inbound Integration users](hcls-redox-assign-roles.md).
+[Assign roles for Redox Inbound Integration users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-assign-roles.md).
 
 **Related topics**  
 

@@ -16,7 +16,7 @@ Learn about the Transaction Manager fields that provide information about a tran
 The fields available in Transaction Manager are categorized into two levels in the user interface \(UI\):
 
 -   Transaction-level fields: Also known as header-level fields, these fields provide general information about the transaction, such as the quote number, opportunity details, and account information.
--   Transaction line-level fields: Also referred to as line-level fields, these fields capture specific information about the products associated with the transaction lines, including price, product details, and order information. For more information about line-level fields, see [Transaction Manager: Line-level system fields](transaction-manager-line-level-system-fields.md).
+-   Transaction line-level fields: Also referred to as line-level fields, these fields capture specific information about the products associated with the transaction lines, including price, product details, and order information. For more information about line-level fields, see [Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md).
 
 ## System-provided fields in Transaction Manager
 
@@ -274,9 +274,9 @@ System
 </table>**Related topics**  
 
 
-[Transaction Manager: Fields](transaction-manager-fields.md)
+[Transaction Manager: Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-fields.md)
 
-[Transaction Manager: Line-level system fields](transaction-manager-line-level-system-fields.md)
+[Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md)
 
-[Transaction Manager: Date and time fields](transaction-manager-date-and-time-fields.md)
+[Transaction Manager: Date and time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md)
 

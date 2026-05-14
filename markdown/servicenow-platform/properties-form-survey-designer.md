@@ -43,7 +43,7 @@ Type
 
 </td><td>
 
-Data type selected for this question. See the table in [Controls](../concept/c_SurveyDesignerElements.md#fig_wcx_pb3_br) for the available data types.
+Data type selected for this question. See the table in [Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesignerElements.md#fig_wcx_pb3_br) for the available data types.
 
 </td></tr><tr><td>
 
@@ -167,8 +167,8 @@ Options for a question with a data type of **Choice** or **Scale**. The system a
 
 **Note:** Value numbers also contribute to the calculations of survey response scores, which can be used by advanced survey administrators.
 
- ![Survey designer question choice values](../image/SurveyDesignerChoiceValue.png)
+ ![Survey designer question choice values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyDesignerChoiceValue.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 

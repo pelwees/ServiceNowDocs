@@ -48,8 +48,8 @@ How to authenticate to REST APIs using OAuth
 8.  Submit the access token with subsequent REST requests.
 
 
--   **[REST OAuth example](../reference/r_RESTOAuthExample.md)**  
+-   **[REST OAuth example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../reference/r_RESTOAuthExample.md)**  
 This example shows how to authenticate an inbound REST request using OAuth.
 
-**Parent Topic:**[REST APIs](../concept/c_RESTAPI.md)
+**Parent Topic:**[REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/c_RESTAPI.md)
 

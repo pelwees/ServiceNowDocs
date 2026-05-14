@@ -22,7 +22,7 @@ You can associate up to three actions with a push notification. These actions mu
 -   URL
 -   Chat launcher
 
-![Actionable push notifications](../image/actionable-notifications.png)
+![Actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/actionable-notifications.png)
 
 ## Process for creating actionable push notifications
 
@@ -130,9 +130,9 @@ Role required: admin
 
 3.  In the push action category form, enter a name for the category in the **Name** field.
 
-4.  Select the lock icon \(![Lock icon](../image/lock-icon.png)\) next to the **Actions** field.
+4.  Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/lock-icon.png)\) next to the **Actions** field.
 
-5.  Select the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\) to display the **Push Actions** list and select the actions for the push action category.
+5.  Select the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/reference-lookup-icon.png)\) to display the **Push Actions** list and select the actions for the push action category.
 
 6.  Select **Save**.
 
@@ -246,7 +246,7 @@ Role required: admin
 
 ### What to do next
 
-[Map functions with push actions for actionable push notifications](actionable-notify-itsm-mobile.md#)
+[Map functions with push actions for actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/actionable-notify-itsm-mobile.md#)
 
 ## Map functions with push actions for actionable push notifications
 
@@ -278,13 +278,13 @@ Role required: admin
 
 ### Example
 
-This example notification uses the accept-rejectwcomments-back in the **Category** field. Clicking the preview icon \(![Preview icon](../image/gac-info-icon.png)\) shows the two actions used by this category: Accept and Reject.
+This example notification uses the accept-rejectwcomments-back in the **Category** field. Clicking the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/gac-info-icon.png)\) shows the two actions used by this category: Accept and Reject.
 
-![Push notification displaying a preview of the category record.](../image/action-push-example-1.png)
+![Push notification displaying a preview of the category record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/action-push-example-1.png)
 
 In the example push action instance, the Approve push action is selected in the **Push Action** field, and the **Approve REQ /w comments** function is selected in the **Button** field. The instance executes this function when a user taps the **Approve** button in the notification.
 
-![Push action instance associating an action with a function.](../image/action-push-example-2.png)
+![Push action instance associating an action with a function.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/action-push-example-2.png)
 
 ## Create push message content
 
@@ -342,9 +342,9 @@ Role required: admin
 
     1.  Select to display the **What to Send** tab.
 
-    2.  Select the lock icon \(![Lock icon](../image/lock-icon.png)\) next to the **Push Messages** field.
+    2.  Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/lock-icon.png)\) next to the **Push Messages** field.
 
-    3.  Select the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\) to display the **Push Notification Messages** list.
+    3.  Select the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/reference-lookup-icon.png)\) to display the **Push Notification Messages** list.
 
     4.  Select **New**.
 

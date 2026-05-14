@@ -23,19 +23,19 @@ The ServiceNow® GRC: Operational Resilience application empowers your organizat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Operational Resilience](../concept/what-is-opres.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Operational Resilience](../concept/what-is-opres.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Operational Resilience application](../concept/configure-operational-resilience.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Operational Resilience application](../concept/configure-operational-resilience.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg)Manage Operational Resilience tasks](../../grc-operational-res-ws/concept/working-in-opres-ws.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-manage.svg)Manage Operational Resilience tasks](../../grc-operational-res-ws/concept/working-in-opres-ws.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-profile.svg) Components installed with Operational Resilience](op-res-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-profile.svg) Components installed with Operational Resilience](op-res-reference.md)
 
 </td></tr></tbody>
 </table>## Learn

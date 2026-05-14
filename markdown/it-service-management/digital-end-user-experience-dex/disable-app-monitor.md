@@ -38,5 +38,5 @@ Role required: sn\_dex.admin
     The monitoring of the application is turned off.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-application-monitoring.md)
 

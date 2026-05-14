@@ -44,5 +44,5 @@ The workflow of an observation is as follows:
 6.  The observation moves to the Finalize state.
 7.  The observation is closed and an issue is created.
 
-![The lifecycle of audit observation](../image/audit-observations-workflow.png "Audit observations workflow")
+![The lifecycle of audit observation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/audit-observations-workflow.png "Audit observations workflow")
 

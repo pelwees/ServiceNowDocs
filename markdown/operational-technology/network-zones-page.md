@@ -26,5 +26,5 @@ Additionally, each of the Network Zones can be deleted when they are no longer i
 
 The following image shows an example of the Network Zones page.
 
-![Network Zones page](../images/network-zone-page.png)
+![Network Zones page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/network-zone-page.png)
 

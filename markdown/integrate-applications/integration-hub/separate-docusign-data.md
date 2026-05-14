@@ -19,8 +19,8 @@ Restrict access to Docusign data based on a user's role. For example, your compa
 
 -   Request Integration Hub subscription
 -   Activate Docusign eSignature spoke
--   [Create child aliases for additional Docusign accounts](create-aliases-docusign.md)
--   [Set up Docusign eSignature spoke using JWT grant](setup-docusign-jwt.md#) or [Set up Docusign eSignature spoke using authorization code grant](setup-docusign-authorization-code.md#)
+-   [Create child aliases for additional Docusign accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/create-aliases-docusign.md)
+-   [Set up Docusign eSignature spoke using JWT grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-jwt.md#) or [Set up Docusign eSignature spoke using authorization code grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-authorization-code.md#)
 -   Role required: admin.
 
 ## Procedure

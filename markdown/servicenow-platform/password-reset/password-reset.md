@@ -51,7 +51,7 @@ Users with the password\_reset\_admin role configure how the process of resettin
     Users request the assistance of a service desk agent, over the phone or in person. In this process, users don't reset passwords.
 
 
-For more information, see [Configuring Password Reset](password-reset-admin-guide.md) and [Plan your Password Reset processes](../task/t_PlanPasswordReset.md).
+For more information, see [Configuring Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md) and [Plan your Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_PlanPasswordReset.md).
 
 ## Self-service and Service Desk - assisted processes
 
@@ -63,13 +63,13 @@ In addition to configuring the connections, user groups, and verifications, you 
 
     1.  If a user doesn't remember their password, the user clicks **Forgot Password** on the Login page.
 
-        ![Forgot Password](../image/forgot-password.png)
+        ![Forgot Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/forgot-password.png)
 
     2.  The Password Reset application starts. On the Identify page, the user enters their identifying information \(generally the user name or email address\). The example includes the default CAPTCHA security feature. The user provides identification by entering a user name and CAPTCHA, and clicks **Next**.
 
-        **Note:** Users can hear characters displayed in CAPTCHA by clicking the Speak the CAPTCHA icon \(![Speak the CAPTCHA icon](../image/speak-the-captcha-icon.png)\) displayed in the pop-up window for the Identify step.
+        **Note:** Users can hear characters displayed in CAPTCHA by clicking the Speak the CAPTCHA icon \(![Speak the CAPTCHA icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/speak-the-captcha-icon.png)\) displayed in the pop-up window for the Identify step.
 
-        ![Identify page](../image/identify-enduser-page.png)
+        ![Identify page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/identify-enduser-page.png)
 
     3.  On the **Verify** tab, the user provides personal data associated with their user name. For example, the user can either enter the email address associated with the user profile or answer the security question that an administrator has configured. This information is specified while enrolling in the Password Reset process. The administrator can configure a different verification method. For example, a personal question that only the user can answer.
 
@@ -88,6 +88,6 @@ In addition to configuring the connections, user groups, and verifications, you 
 
 Based on your role, do these steps:
 
--   If you're an administrator, start [configuring Password Reset for your users.](password-reset-admin-guide.md)
--   If you're an end user who wants to reset a password, [start enrolling to reset your password](c_EnrollInPasswordReset.md).
+-   If you're an administrator, start [configuring Password Reset for your users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
+-   If you're an end user who wants to reset a password, [start enrolling to reset your password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_EnrollInPasswordReset.md).
 

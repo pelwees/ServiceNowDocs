@@ -33,13 +33,13 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
 2.  In the My active items widget, select **Risk Assessments**.
 
-    ![My active items widget](../image/risks-my-active.png)
+    ![My active items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/risks-my-active.png)
 
 3.  The Assessment Summary page opens displaying a list of both Supplier \(third-party\) and Engagement risk assessments records.
 
     **Note:** Supplier Lifecycle Operations integrates with Third-party Risk Management to enable you to quickly view and work on all the assigned risk assessments.
 
-    ![Assessment Summary page](../image/risks-all-assess.png)
+    ![Assessment Summary page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/risks-all-assess.png)
 
     The Assessment Summary page contains the **Open** and **Closed** tabs. Select each tab to view the open and closed assessments.
 
@@ -53,7 +53,7 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
     For example, under Engagement, select **Adobe Purchasing**, and then under the Assessment column, select the link to an assessment to view more details. For example, select **Purchasing risk evaluation**.
 
-    ![Assessment details](../image/risks-assess-details.png)
+    ![Assessment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/risks-assess-details.png)
 
     The assessment details page has these columns.
 
@@ -66,14 +66,14 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
     -   **Due by**: The date by which the assessment should be completed.
 5.  Under the Request column, select the link to a request to view more details.
 
-    For example, select **Business**.![Request details](../image/risk-submit-assess.png)
+    For example, select **Business**.![Request details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/risk-submit-assess.png)
 
     You can do the following:
 
     -   Navigate through the various sections and enter the required information.
     -   Under Import, you can import an already completed questionnaire in XML format by selecting **Import**.
     -   The questionnaire is displayed on the **Questionnaire** tab. Select the **Notes and Comments** tab to enter any notes and comments.
-    ![Questionnaire details](../image/risk-assess-question.png)
+    ![Questionnaire details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/risk-assess-question.png)
 
 6.  To exit the questionnaire, select **Exit** or to save your responses, select **Save as Draft**.
 
@@ -86,34 +86,34 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
 The risk assessment form is submitted and the supplier manager can evaluate it further.
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-central.md)
 
 **Related topics**  
 
 
-[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
+[Invite a member to access the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/my-to-dos.md)
 
-[View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
+[View or update your user profile from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-update-supp-profile.md)
 
-[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-[View supplier locations from the Supplier Collaboration Portal](view-supp-loc-supp-central.md)
+[View supplier locations from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-loc-supp-central.md)
 
-[View supplier payment information from the Supplier Collaboration Portal](view-bank-info-supp-central.md)
+[View supplier payment information from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-bank-info-supp-central.md)
 
-[Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md)
+[Start a chat session from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/start-chat-portal.md)
 
-[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/create-universal-request.md)
 
-[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-central.md)
 

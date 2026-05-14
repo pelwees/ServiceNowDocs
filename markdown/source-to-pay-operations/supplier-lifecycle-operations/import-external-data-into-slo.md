@@ -40,12 +40,12 @@ Depending on the supplier inbound table you selected, an Excel template is creat
 
 ## What to do next
 
-Load the supplier data from the excel template into the supplier inbound​ staging tables. For more information, see [Load supplier data](load-supplier-data.md).
+Load the supplier data from the excel template into the supplier inbound​ staging tables. For more information, see [Load supplier data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md).
 
-**Parent Topic:**[Supplier Lifecycle Operations integration framework](../concept/slo-int-framework.md)
+**Parent Topic:**[Supplier Lifecycle Operations integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/slo-int-framework.md)
 
 **Related topics**  
 
 
-[Load supplier data](load-supplier-data.md)
+[Load supplier data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md)
 

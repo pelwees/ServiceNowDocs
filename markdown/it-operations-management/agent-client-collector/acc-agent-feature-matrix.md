@@ -29,7 +29,7 @@ The Agent feature matrix displays the granularity of Agent Client Collector feat
 
     The **Agent feature matrix** appears.
 
-    ![Agent feature matrix](../image/acc-agent-feature-matrix.png "Agent feature matrix")
+    ![Agent feature matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-agent-feature-matrix.png "Agent feature matrix")
 
     The matrix shows the support status of Agent Client Collector features that are fully supported, partially supported, and not supported \(Unsupported\).
 
@@ -37,13 +37,13 @@ The Agent feature matrix displays the granularity of Agent Client Collector feat
 
     A list of all features in the category appears on the **Agent Feature Support Status** page.
 
-    ![Agent feature support status page](../image/acc-agent-support-status.png "Agent Feature Support Status Page")
+    ![Agent feature support status page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-agent-support-status.png "Agent Feature Support Status Page")
 
 3.  Select one of the features.
 
     The **Agent Feature Support Status** page for the specific feature appears:
 
-    ![Agent feature support status details page](../image/acc-feature-support-status-details.png "Agent Feature Support Status Details page")
+    ![Agent feature support status details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-feature-support-status-details.png "Agent Feature Support Status Details page")
 
     The page displays the following:
 

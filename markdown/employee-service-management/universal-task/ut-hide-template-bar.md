@@ -40,9 +40,9 @@ Role required: admin
 5.  To clear the cache of your instance, in your browser, enter `<server_url/cache.do>`.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Display the universal tasks for a request in Now Mobile](ut-mobile-config-tasktab.md)
+**Previous topic:**[Display the universal tasks for a request in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-mobile-config-tasktab.md)
 
-**Next topic:**[Remove the Universal Task admin role from the admin role](ut-remove-admin-role.md)
+**Next topic:**[Remove the Universal Task admin role from the admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-remove-admin-role.md)
 

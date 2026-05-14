@@ -35,7 +35,7 @@ Upcoming appointments also display with a small calendar icon next to the user n
 
 2.  Select an appointment number to view the details, such as the requester name, the interaction number and description, and the appointment time.
 
-    1.  If desired, to preview the associated interaction details, click the preview record icon ![record icon](../../../common/image/Form_ReferenceLookupIcon.png) next to the appointment number.
+    1.  If desired, to preview the associated interaction details, click the preview record icon ![record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../common/image/Form_ReferenceLookupIcon.png) next to the appointment number.
 
     2.  To begin working on the interaction, click **Accept appointment** on the **Walk-up Appointment** form.
 
@@ -46,5 +46,5 @@ Upcoming appointments also display with a small calendar icon next to the user n
     3.  Select **Update** to save any changes you make to the interaction form.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/use-walkup-to-manage-demand.md)
 

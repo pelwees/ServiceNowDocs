@@ -119,14 +119,14 @@ New menu name.
 
 Now that the model category \(associated with the new asset class\) and the models are created, manage the models as assets. For example, use the model in a bundle.
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_AssetClasses.md)
 
 **Related topics**  
 
 
-[Create license assets](t_CreatingLicenseAssets.md)
+[Create license assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingLicenseAssets.md)
 
-[Set asset states and substates](t_SettingAssetStatesAndSubstates.md)
+[Set asset states and substates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_SettingAssetStatesAndSubstates.md)
 
-[Add depreciation to an asset](t_AddingDepreciationToAnAsset.md)
+[Add depreciation to an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_AddingDepreciationToAnAsset.md)
 

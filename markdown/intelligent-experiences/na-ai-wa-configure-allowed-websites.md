@@ -47,16 +47,16 @@ When configuring an allow list, include your organization's websites. Work with 
     -   Enter websites as hostnames without protocols, such as `example.com`.
     -   Allow all subdomains on a website by using an asterisk. The format `*.example.com` allows abc.example.com, xyz.example.com, and so forth.
     -   Be sure to include access to Google website by entering `google.com` or `*.google.com`.
-    ![The webform for the sys property sn_naa.allowed_websites, with two example websites in the Value field. The websites are separated by a comma.](../../../administer/now-assist-web-agents/image/na-ai-wa-configure-allowed-websites1Z.png)
+    ![The webform for the sys property sn_naa.allowed_websites, with two example websites in the Value field. The websites are separated by a comma.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-configure-allowed-websites1Z.png)
 
 5.  Select **Update** to save your changes.
 
 
 ## What to do next
 
--   [Create an AI agent](../concept/create-ai-agents-ad.md)
--   [Add an adaptive desktop action tool to an AI agent for web-based tasks](../concept/create-web-actions.md)
--   [Create an agentic workflow for automating web tasks](na-ai-wa-configure-workflow.md)
+-   [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/create-ai-agents-ad.md)
+-   [Add an adaptive desktop action tool to an AI agent for web-based tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/create-web-actions.md)
+-   [Create an agentic workflow for automating web tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-workflow.md)
 
-**Parent Topic:**[Configuration for adaptive path desktop actions](../concept/ad-adaptive-path-da.md)
+**Parent Topic:**[Configuration for adaptive path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/ad-adaptive-path-da.md)
 

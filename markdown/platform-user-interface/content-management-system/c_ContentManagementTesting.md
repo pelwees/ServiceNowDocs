@@ -29,20 +29,20 @@ Here are some general site testing guidelines:
 -   Test site security
 -   If necessary, test for accessibility \(for guidelines, see the [W3C Website Accessibility Initiative](http://www.w3.org/WAI/eval/)\)
 
-**Parent Topic:**[Content Management System](c_ContentManagementSystem.md)
+**Parent Topic:**[Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Content Management design](c_ContentManagementPlanning.md)
+[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-[Domain separation and the Content Management System](domain-separation-content-management.md)
+[Domain separation and the Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateASite.md)
 
-[Content Management integration points](c_CMSIntegrationPoints.md)
+[Content Management integration points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)
 
-[Global search in Content Management](c_UseGlobalSearchContentManagement.md)
+[Global search in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_UseGlobalSearchContentManagement.md)
 
-[CMS translation](c_CMSTranslation.md#)
+[CMS translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSTranslation.md#)
 

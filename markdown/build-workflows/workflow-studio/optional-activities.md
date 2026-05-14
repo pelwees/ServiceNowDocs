@@ -24,37 +24,37 @@ As an example, if you have a playbook for a Security Incident, a playbook admin 
 The flow of working with optional activities:
 
 1.  Turn on and add optional activities to a playbook in Workflow Studio.
-2.  Optional activities are configured like other activities. To see [design an automated process](../task/design-automated-process.md).
+2.  Optional activities are configured like other activities. To see [design an automated process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/design-automated-process.md).
 3.  Agents add optional activities in Playbook Experience.
 
-**Parent Topic:**[Stages and activities](process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](../task/add-configure-stage.md)
+[Add and configure a stage in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/add-configure-stage.md)
 
-[Activity definitions](activity-definitions.md)
+[Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/activity-definitions.md)
 
-[Add and configure an activity in a playbook](../task/add-configure-activity.md)
+[Add and configure an activity in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/add-configure-activity.md)
 
-[Use AI agent as an activity](../task/ai-agent-as-activity.md)
+[Use AI agent as an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/ai-agent-as-activity.md)
 
-[Automation Assets](automation-assets.md)
+[Automation Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md)
 
-[Decision activities](../task/create-a-decision-activity.md)
+[Decision activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-a-decision-activity.md)
 
-[Decision stages](../task/create-decision-stage.md)
+[Decision stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/questionnaire-activity.md)
 
-[Parallel branches](../task/create-parallel-activity.md)
+[Parallel branches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](../task/add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-activity-state-mapping.md)
 
 ## Add an Optional Activity to a playbook
 
@@ -72,11 +72,11 @@ Role required: playbook.admin or pd\_author
 
 3.  Switch to **Board view**.
 
-    ![Toggle for Diagram and Board views](../images/board-view.png)
+    ![Toggle for Diagram and Board views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/board-view.png)
 
 4.  In the upper right-hand corner, toggle on **Optional activities**.
 
-    ![Toggle on Optional activities](../images/optional-activities.png)
+    ![Toggle on Optional activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/optional-activities.png)
 
     The optional activities swimlane opens.
 

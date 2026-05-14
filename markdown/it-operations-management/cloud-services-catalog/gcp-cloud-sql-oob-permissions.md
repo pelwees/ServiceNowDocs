@@ -62,5 +62,5 @@ Deprovision
 cloudsql.instances.delete
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Google Cloud Platform Cloud SQL](google-cloud-platform-cloud-sql.md)
+</table>**Parent Topic:**[Google Cloud Platform Cloud SQL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-cloud-sql.md)
 

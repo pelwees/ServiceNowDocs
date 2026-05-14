@@ -17,7 +17,7 @@ The dashboard for HR Agents monitors caseloads to help stay on top of the backlo
 
 **Note:** This dashboard is available in the Human Resources Scoped App content pack.
 
-![The HR Agent dashboard showing interactive analyses](../../../product/human-resources-global/image/hr-agent.png)
+![The HR Agent dashboard showing interactive analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../product/human-resources-global/image/hr-agent.png)
 
 ## End users and roles
 
@@ -56,13 +56,13 @@ The Human Resources Agent dashboard contains the following visualizations:
 
 |Title|Type|
 |-----|----|
-|Approvals Requested|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|My HR Open Backlog|List ![List icon3](../../performance-analytics/image/scorecard-icon.png)|
-|My Open Backlog|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|My Open Backlog Distribution|Horizontal bar ![Horizontal bar icon](../../performance-analytics/image/horizontal-bar.png)|
-|My SLA Breached Cases|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|Unassigned Cases|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|Unassigned Cases Distribution|Horizontal bar ![Horizontal bar icon](../../performance-analytics/image/horizontal-bar.png)|
+|Approvals Requested|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|My HR Open Backlog|List ![List icon3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/scorecard-icon.png)|
+|My Open Backlog|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|My Open Backlog Distribution|Horizontal bar ![Horizontal bar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/horizontal-bar.png)|
+|My SLA Breached Cases|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|Unassigned Cases|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|Unassigned Cases Distribution|Horizontal bar ![Horizontal bar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/horizontal-bar.png)|
 
-**Parent Topic:**[HR Performance Analytics Dashboards](human-resources-content-pack.md)
+**Parent Topic:**[HR Performance Analytics Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/human-resources-content-pack.md)
 

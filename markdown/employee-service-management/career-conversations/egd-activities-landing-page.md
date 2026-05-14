@@ -17,23 +17,23 @@ Supports an end-to-end process for individuals and managers to create and manage
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn now Career Conversations help managers and employees have important conversations.](egd-explore-activities.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn now Career Conversations help managers and employees have important conversations.](egd-explore-activities.md)
 
 </td><td>
 
-[Install and configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)ServiceNow administrators install and configure the Career Conversations app and related features.](egd-activities-install-config.md)
+[Install and configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../../../reuse/icons/brand-icons/bus-sdlc.svg)ServiceNow administrators install and configure the Career Conversations app and related features.](egd-activities-install-config.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-management-console.svg)Administrators maintain the Career Conversations app and related features over time as the organization grows and evolves.](../task/egd-admin-create-conversation.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../../../reuse/icons/brand-icons/bus-management-console.svg)Administrators maintain the Career Conversations app and related features over time as the organization grows and evolves.](../task/egd-admin-create-conversation.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-meetings.svg) From the Employee Center managers and employees use the Career Conversations app to have conversations about career growth and development.](egd-activities-use.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../../../reuse/icons/brand-icons/bus-meetings.svg) From the Employee Center managers and employees use the Career Conversations app to have conversations about career growth and development.](egd-activities-use.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-documentation.svg)Reference information for Career Conversations.](egd-activities-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../../../reuse/icons/brand-icons/bus-documentation.svg)Reference information for Career Conversations.](egd-activities-reference.md)
 
 </td><td>
 

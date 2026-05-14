@@ -21,7 +21,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## About this task
 
-See [Create a custom tag for cloud resources](../concept/cloud-tagging.md#) for information about how to create and use tags in Cloud Provisioning and Governance.
+See [Create a custom tag for cloud resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-tagging.md#) for information about how to create and use tags in Cloud Provisioning and Governance.
 
 ## Procedure
 
@@ -112,5 +112,5 @@ AddCustomTagsForStorage
 
 On the Cloud Admin Portal, launch the stack that is associated with the storage resource. You can then confirm that the tags are applied.
 
-**Parent Topic:**[Create a cloud policy](create-cloud-policy.md)
+**Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 

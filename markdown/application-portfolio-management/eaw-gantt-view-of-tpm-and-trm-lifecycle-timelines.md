@@ -25,17 +25,17 @@ The TPM and TRM application timelines can be viewed in the following timeline vi
     **Note:** **Autofit** is selected by default.
 
 
-Choose the **Select time scale** button \(![Select time scale button.](../../image/eaw-image/calendar-icon.png)\) to change the view.
+Choose the **Select time scale** button \(![Select time scale button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/calendar-icon.png)\) to change the view.
 
--   **[TPM lifecycle timelines on Gantt chart](eaw-tpm-lifecycle-timelines-on-gantt-chart.md)**  
+-   **[TPM lifecycle timelines on Gantt chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-tpm-lifecycle-timelines-on-gantt-chart.md)**  
 For Technology Portfolio Management \(TPM\), the business applications and their related application services \(associated hardware models and software products\) are displayed in a hierarchical structure. The corresponding timelines of the application services are displayed as bars on the Gantt chart.
--   **[TRM lifecycle timelines on Gantt chart](eaw-trm-lifecycle-timelines-on-gantt-chart.md)**  
+-   **[TRM lifecycle timelines on Gantt chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-trm-lifecycle-timelines-on-gantt-chart.md)**  
 For Technology Reference Model \(TRM\), the application services \(hardware models and software products\) are displayed in a hierarchical structure, similar to the TPM view. The corresponding lifecycle timelines of the application services are displayed as bars on the Gantt chart. It also displays the data for lifecycles with wild card versions. The TRM wildcard version ends with a ‘\*’.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../explore-eaw.md)
 
 **Related topics**  
 
 
-[Working with Gantt chart views in EA Workspace](eaw-work-with-gantt-chart-views.md)
+[Working with Gantt chart views in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-gantt-chart-views.md)
 

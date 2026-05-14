@@ -45,7 +45,7 @@ The diagnostic workflow and the options and prompts you see correspond to the is
 
 The diagnostic topic block workflow also includes solutions for messaging integrations, such as Microsoft Teams. It also helps with Advanced Work Assignment configuration issues.
 
-![Conversational Interfaces Diagnostic Tool workflow, in which the admin describes the issue. The tool runs a health check and returns available troubleshooting information.](../image/ci-diagnostic-tool-work-flow.png "Conversational Interfaces Diagnostic Tool workflow")
+![Conversational Interfaces Diagnostic Tool workflow, in which the admin describes the issue. The tool runs a health check and returns available troubleshooting information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-diagnostic-tool-work-flow.png "Conversational Interfaces Diagnostic Tool workflow")
 
 In the workflow, the admin describes the issue. The tool runs a health check and returns available troubleshooting information, as well as contact information for Now Support if the problem was not solved.
 
@@ -53,7 +53,7 @@ In the workflow, the admin describes the issue. The tool runs a health check and
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Diagnose general errors, such as error messages and system property issues.|[Diagnose Conversational Interfaces errors](../task/diagnose-general-error.md)|Admins|
-|Identify and solve Microsoft Teams configuration issues.|[Diagnose Microsoft Teams configuration issues](../task/diagnose_ci_plugin_issues.md)|Admins|
-|Identify and resolve common Advanced Work Assignment \(AWA\) configuration issues.|[Diagnose Advanced Work Assignment configuration issues](../task/diagnose-awa-no-agents-avail.md)|Admins|
+|Diagnose general errors, such as error messages and system property issues.|[Diagnose Conversational Interfaces errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../task/diagnose-general-error.md)|Admins|
+|Identify and solve Microsoft Teams configuration issues.|[Diagnose Microsoft Teams configuration issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../task/diagnose_ci_plugin_issues.md)|Admins|
+|Identify and resolve common Advanced Work Assignment \(AWA\) configuration issues.|[Diagnose Advanced Work Assignment configuration issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../task/diagnose-awa-no-agents-avail.md)|Admins|
 

@@ -72,5 +72,5 @@ Message
 Body text of the email notification.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Interview Management reference](../concept/interview-management-reference.md)
+</table>**Parent Topic:**[Interview Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../concept/interview-management-reference.md)
 

@@ -47,7 +47,7 @@ Open a claim that is assigned to you by selecting the **Number** link in the My 
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  On the **Lists** tab, under Individual death claims, select **All**.
 3.  In the list, select the claim that you want to open.
 
@@ -79,7 +79,7 @@ Claim workspace actions
 
 </td><td>
 
-1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
+1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
 2.  Select **Add coverage**.
 3.  In the **Claim coverage** field, search for the claim coverage.
 4.  Select **Save**.
@@ -91,7 +91,7 @@ Claim workspace actions
 
 </td><td>
 
-1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
+1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
 2.  In Coverages, select one for the respective policy:
     -   **Add reserve**
     -   **Add payment**
@@ -125,7 +125,7 @@ If the reserve or payment amount is above your approval threshold, an approval t
 
 </td><td>
 
-1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
+1.  Expand a related death claim record by selecting the down arrow \(![Down arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/product-icons/chevron-down-outline-24.svg)\).
 2.  Select **Settle claim**.
     -   Approve the claim and send for fulfillment by selecting **Approve claim**.
     -   Choose **Deny claim** to reject the settlement.

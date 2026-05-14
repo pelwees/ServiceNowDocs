@@ -25,10 +25,10 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Submit an Automation Request form](../reference/submit-automation-request-form.md).
+    For a description of the field values, see [Submit an Automation Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/submit-automation-request-form.md).
 
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Creating an action request](create-action-request.md)
+**Parent Topic:**[Creating an action request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-action-request.md)
 

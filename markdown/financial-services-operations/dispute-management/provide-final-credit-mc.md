@@ -19,7 +19,7 @@ Issue immediate final credit to the card holder.
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -29,7 +29,7 @@ Based on business rules, an immediate final credit can be issued to the card hol
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -49,10 +49,10 @@ Based on business rules, an immediate final credit can be issued to the card hol
 
 9.  Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-mastercard/reference/mastercard-image-and-document-requirements.md).
 
 10. Select **Close task**.
 
 
-**Parent Topic:**[Chargeback in Mastercard transaction disputes](../concept/chargeback-stage-mastercard.md)
+**Parent Topic:**[Chargeback in Mastercard transaction disputes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/chargeback-stage-mastercard.md)
 

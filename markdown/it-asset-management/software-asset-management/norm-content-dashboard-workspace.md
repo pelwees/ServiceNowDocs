@@ -21,7 +21,7 @@ You can filter the count of installations based on a publisher or product by usi
 
 You can access the Normalization and content dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Normalization and content**.
 
-![Normalization and content dashboard view](../image/normalization-dashboard-workspace.png "Normalization and content dashboard")
+![Normalization and content dashboard view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/normalization-dashboard-workspace.png "Normalization and content dashboard")
 
 <table id="table_pp1_2fh_rpb"><thead><tr><th>
 

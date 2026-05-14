@@ -80,5 +80,5 @@ Description
 Description of the achievement rule.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Learning reference](learning-experience-reference.md)
+</table>**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 

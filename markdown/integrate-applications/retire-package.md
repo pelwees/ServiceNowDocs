@@ -15,7 +15,7 @@ Retire a package to turn it off. It is one of the life-cycle stages of a package
 
 ## Before you begin
 
-Create a package. For more information, see [Create a package to assign to a bot process](create-package.md#).
+Create a package. For more information, see [Create a package to assign to a bot process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-package.md#).
 
 Verify that the package and associated package versions are not assigned to any other bot process.
 
@@ -29,7 +29,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Packages**.
 
@@ -40,10 +40,10 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 6.  In the Confirmation dialog box, select **Retire**.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/package-version-rpa-hub.md)
 
 **Related topics**  
 
 
-[Retire a package version in RPA Hub](retire-package-version.md)
+[Retire a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/retire-package-version.md)
 

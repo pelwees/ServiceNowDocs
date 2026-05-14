@@ -15,8 +15,8 @@ Security Operations tables can be mapped to and from other tables, linking a sec
 
 **Field Mapping** defines the mapping used when a record from the source table is used to create a new record in the destination table. Typically used to create a security incident from another record, these maps define which fields in a security incident are inserted into a new problem or which fields from an existing customer incident populate a new security incident.
 
--   **[Map tables to tables with Security Operations field mapping](../task/create-field-mapping.md)**  
+-   **[Map tables to tables with Security Operations field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/create-field-mapping.md)**  
 Security Operations provides you with finer field-mapping granularity so you can map a Security Operations table to any other table.
 
-**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 

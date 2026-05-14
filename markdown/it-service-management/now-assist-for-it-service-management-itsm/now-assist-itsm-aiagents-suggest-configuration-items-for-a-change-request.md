@@ -47,12 +47,12 @@ You can access the change CI suggestion AI agent in the Define key requirements 
 
     The agent executes the request for the workflow.
 
-    ![Suggest configuration items for a change request workflow output in ServiceNowAI Agent Studio.](../image/now-assist-change-management-suggest-ci-item.png "Example of the suggest configuration items for a change request agentic workflow output in ServiceNowAI Agent Studio")
+    ![Suggest configuration items for a change request workflow output in ServiceNowAI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-change-management-suggest-ci-item.png "Example of the suggest configuration items for a change request agentic workflow output in ServiceNowAI Agent Studio")
 
 4.  Access and use the suggest configuration items for a change request agentic workflow from the Now Assist panel.
 
     You can query in the Now Assist panel with the change request number. For the query instructions, read the steps specified in the **List of steps** field of the corresponding AI agent \(change CI suggestion AI agent\).
 
-    ![Suggest configuration items for a change request workflow output in the Now Assist panel.](../image/now-assist-suggest-ci-change-request-nap.png "Example of the suggest configuration items for a change request agentic workflow output in the Now Assist panel")
+    ![Suggest configuration items for a change request workflow output in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-suggest-ci-change-request-nap.png "Example of the suggest configuration items for a change request agentic workflow output in the Now Assist panel")
 
 

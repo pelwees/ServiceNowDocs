@@ -75,7 +75,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Set read-only permissions for the following URL: `https//tagging.<region>.amazonaws.com.`
 -   **Discovery schedule**
 
-    Create a schedule for the relevant AWS service account. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](../../discovery/task/cloud-operations-disco-create-schedule.md).
+    Create a schedule for the relevant AWS service account. For more information, see [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/task/cloud-operations-disco-create-schedule.md).
 
 
 ## Pattern tasks
@@ -100,7 +100,7 @@ The pattern includes an API called "Cloud Rest Call” Post Call used to collect
 
 This data displays as shown in the following window.
 
-![Data from Cloud Rest Call](../image/aws-tagging-pattern-api.png "Data from Cloud Rest Call")
+![Data from Cloud Rest Call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/aws-tagging-pattern-api.png "Data from Cloud Rest Call")
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -173,7 +173,7 @@ Not applicable
 </td></tr></tbody>
 </table>This data is displayed as shown in the following window:
 
-![Data collected during horizontal discovery](../image/aws-tagging-key-value.png "Data collected during horizontal discovery")
+![Data collected during horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/aws-tagging-key-value.png "Data collected during horizontal discovery")
 
 AWS discovery pattern uses the following EVAL:
 
@@ -188,5 +188,5 @@ rtrn = name;
 
 Similar EVALS are available for patterns where the main identification section does not include ARN information in the main CI type table. When this information is not available, the Tag Extension section must parse a unique ARN used to establish the relationship to the related cloud resource.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

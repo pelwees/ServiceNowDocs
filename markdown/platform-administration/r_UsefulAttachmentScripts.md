@@ -124,14 +124,14 @@ Whenever a user downloads an attachment, the action writes an attachment.read ev
 -   parm1: File name
 -   parm2: Table name
 
-**Parent Topic:**[Scripting for email notifications](../../server-scripting/concept/c_ScriptingForEmailNotifications.md)
+**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../server-scripting/concept/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
 
-[JavaScript in emails](../../server-scripting/concept/c_UseJavaScriptInEmails.md)
+[JavaScript in emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../server-scripting/concept/c_UseJavaScriptInEmails.md)
 
-[Mail script variables](../../server-scripting/reference/r_MailScriptAPI.md)
+[Mail script variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../server-scripting/reference/r_MailScriptAPI.md)
 
-[Example scripting for email notifications](../../server-scripting/reference/r_ExScptEmlNtfn.md)
+[Example scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../server-scripting/reference/r_ExScptEmlNtfn.md)
 

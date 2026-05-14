@@ -61,5 +61,5 @@ The default format is: HH:mm:ss.
 **Related topics**  
 
 
-[Schedule entry fields](r_ScheduleEntryFields.md)
+[Schedule entry fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_ScheduleEntryFields.md)
 

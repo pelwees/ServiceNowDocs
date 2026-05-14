@@ -21,16 +21,16 @@ You can use mapped external user and group names when defining access permission
 
 To configure user mappings for external content security, you must perform the following steps:
 
-1.  Create one or more user mapping tables. For instructions on this procedure, see [Create a user mapping table](user-mappings-ais.md#).
-2.  Link a user mapping table to each of your external content indexed sources. For details on this task, see [Link a user mapping table to an external content indexed source](user-mappings-ais.md#).
+1.  Create one or more user mapping tables. For instructions on this procedure, see [Create a user mapping table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/user-mappings-ais.md#).
+2.  Link a user mapping table to each of your external content indexed sources. For details on this task, see [Link a user mapping table to an external content indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/user-mappings-ais.md#).
 
     **Note:** If no mapping is found for the current ServiceNow AI Platform user, AI Search only allows the user to view search results for external documents that have the **everyone** permission set to **true**. This can occur if no user mapping table is linked to a search result's indexed source, or if no mapping for the current ServiceNow AI Platform user exists in the indexed source's linked user mapping table.
 
 3.  Import user mappings into your user mapping tables with the [AI Search External User Mapping API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/ext-user-mapping-api.md).
 
-Users with the ais\_high\_security\_admin role can review history records for import operations to verify that user mappings imported correctly. For instructions on this procedure, see [View history records for user mapping import operations](user-mappings-ais.md#).
+Users with the ais\_high\_security\_admin role can review history records for import operations to verify that user mappings imported correctly. For instructions on this procedure, see [View history records for user mapping import operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/user-mappings-ais.md#).
 
-**Parent Topic:**[External content security for AI Search](external-content-security-ais.md)
+**Parent Topic:**[External content security for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-security-ais.md)
 
 ## External user mapping security principal types
 
@@ -90,7 +90,7 @@ All user mapping tables extend the AI Search External Search User Mapping Base \
 
 ### What to do next
 
-Import user mappings into your new user mapping table. For an overview of this process, see [Importing user mappings](user-mappings-ais.md#). For details on the relevant API endpoint, see [AI Search External User Mapping API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/ext-user-mapping-api.md).
+Import user mappings into your new user mapping table. For an overview of this process, see [Importing user mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/user-mappings-ais.md#). For details on the relevant API endpoint, see [AI Search External User Mapping API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/ext-user-mapping-api.md).
 
 ## Link a user mapping table to an external content indexed source
 
@@ -175,7 +175,7 @@ Next Experience UI
 
 In the banner frame, select the icon for your account to open the user menu, then select **Elevate role**.
 
-![User menu with Elevate role action highlighted in Next Experience UI.](../image/elevate-role-polaris-ui.png)
+![User menu with Elevate role action highlighted in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-polaris-ui.png)
 
 </td></tr><tr><td>
 
@@ -183,18 +183,18 @@ Core UI
 
 </td><td>
 
-In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
+In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
 
 </td></tr></tbody>
 </table>        A dialog box appears, displaying a checklist of your available privileged roles.
 
-        ![Dialog box displaying privileged roles in Next Experience UI.](../image/elevate-role-dialog-polaris-ui-ais.png)
+        ![Dialog box displaying privileged roles in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-dialog-polaris-ui-ais.png)
 
     2.  In the dialog box, select the **ais\_high\_security\_admin** option, then select **Update** \(in Next Experience UI\) or **OK**.
 
         The page reloads and an elevated role indicator appears next to your user name in the user menu. In Next Experience UI, this indicator displays the names of the active privileged roles. In Core UI, the indicator displays the elevated role icon ![](../../security/image/icon-elevated-role-ui16.png).
 
-        ![User menu showing elevated role indicator in Next Experience UI.](../image/elevated-polaris-ui.png)
+        ![User menu showing elevated role indicator in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevated-polaris-ui.png)
 
         **Note:** When the page reloads, any unsaved edits are lost.
 

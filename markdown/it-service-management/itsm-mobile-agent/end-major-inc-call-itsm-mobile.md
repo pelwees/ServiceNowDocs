@@ -27,14 +27,14 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 3.  Tap **Active collaborations**.
 
-    ![Active collaborations in major incident tab.](../image/major-inc-active-collab.png)
+    ![Active collaborations in major incident tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-inc-active-collab.png)
 
-4.  Tap ![More options](../image/more-options-itsm-mobile-agent.png).
+4.  Tap ![More options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/more-options-itsm-mobile-agent.png).
 
 5.  To end the call tap **End call** button.
 
     Tap **Cancel** to resume the conference call.
 
-    ![More options.](../image/end-conf-call-maj-inc.png)
+    ![More options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/end-conf-call-maj-inc.png)
 
 

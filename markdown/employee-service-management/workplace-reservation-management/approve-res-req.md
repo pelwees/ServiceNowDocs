@@ -30,12 +30,12 @@ Role required: approver\_user
 4.  Approve or reject the reservation by selecting **Approve** or **Reject**.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/manage-reservation-requests.md)
 
 **Related topics**  
 
 
-[View or update reservations](view-reservations.md)
+[View or update reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/view-reservations.md)
 
-[Print workplace reservations](print-workplace-reservations.md)
+[Print workplace reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/print-workplace-reservations.md)
 

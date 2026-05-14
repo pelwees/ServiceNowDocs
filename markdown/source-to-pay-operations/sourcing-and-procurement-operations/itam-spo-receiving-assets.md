@@ -31,16 +31,16 @@ After receiving the requested items, the asset manager or an employee can acknow
 
 -   Mobile barcode scanning. For more information, see [Acknowledge receipt of an asset on a mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-from-ztr.md).
 
-    ![Asset receiving via mobile barcode scanning.](../image/itam-spo-barcode.png)
+    ![Asset receiving via mobile barcode scanning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/itam-spo-barcode.png)
 
 -   From the Employee Center portal. For more information, see [Acknowledge receipt of assets on the Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-employee-center.md).
 
-    ![Asset receiving from Employee Center.](../image/itam-spo-receive-ec.png)
+    ![Asset receiving from Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/itam-spo-receive-ec.png)
 
 -   From the ITAM purchase order. For more information, see [Receive an asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ReceiveAnAsset.md).
 
-    .![Asset receiving via ITAM purchase orders.](../image/itam-spo-receive-po.png)
+    .![Asset receiving via ITAM purchase orders.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/itam-spo-receive-po.png)
 
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 

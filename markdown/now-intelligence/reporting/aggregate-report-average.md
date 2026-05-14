@@ -27,18 +27,18 @@ When you choose the average aggregation, you can also specify the **Percentage c
 
     Shows the percentage as a part of the total amount of averages in a column called **Percentage of Average**. In this data table, for example, the average duration of the Inquiry, Network, and Software incidents was approximately one day and 16 hours or 30% \(or so\) of the total average business duration. Average hardware incidents took 12 hours, approximately 9% of the total average business duration for incidents.
 
-    ![Data table showing four categories of incidents, their average business duration, and the percentage of the average time to solve](../image/aggregation-avg.png)
+    ![Data table showing four categories of incidents, their average business duration, and the percentage of the average time to solve](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-avg.png)
 
 -   **Use Record Count**
 
     Shows the number of records in each category as a percentage of the total number of records in the visualization in a column called **Percentage of Incidents**. In this data table, we see the same Average Business Duration for each category, but the percentage is of the number of incidents in that category. For example Inquiry incidents are approximately 17% of all incidents, and software incidents are approximately 77% of all incidents, though the average time to solve these incidents is still 30% \(or so\). On the other hand, Hardware incidents are less than 1% of all incidents, but the average duration is 9% of the total average time to solve.
 
-    ![Data table showing four categories of incidents, the average business duration of the incidents in the category, and the percentage of total incidents represented by each category.](../image/rec-count-avg.png)
+    ![Data table showing four categories of incidents, the average business duration of the incidents in the category, and the percentage of total incidents represented by each category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/rec-count-avg.png)
 
 
 |Average duration|Average priority|
 |----------------|----------------|
-|![Bar chart aggregated by Average duration with five bars representing incident categories, one showing the average duration for network incidents of approximately 12 days, 19 hours.](../image/aggregation-avg-dur.png)|![Bar chart aggregated by Average priority with five bars representing incident categories, one showing the average priority for network incidents of 2.98.](../image/aggregation-avg-prio.png)|
+|![Bar chart aggregated by Average duration with five bars representing incident categories, one showing the average duration for network incidents of approximately 12 days, 19 hours.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-avg-dur.png)|![Bar chart aggregated by Average priority with five bars representing incident categories, one showing the average priority for network incidents of 2.98.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-avg-prio.png)|
 
 ## Procedure
 

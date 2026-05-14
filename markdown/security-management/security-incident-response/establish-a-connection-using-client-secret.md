@@ -46,8 +46,8 @@ Role required: admin
 
     On success, the following API permissions are added to the Azure application.
 
-    ![API Permissions - MS Teams](../../secops-integration-major-security-incident-management/image/api-permissions-msteams.png)
+    ![API Permissions - MS Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-major-security-incident-management/image/api-permissions-msteams.png)
 
 
-**Parent Topic:**[Using Client Secret value](using-client-secret-value.md)
+**Parent Topic:**[Using Client Secret value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-client-secret-value.md)
 

@@ -23,7 +23,7 @@ Use the shopping cart widget to:
 -   Save specific items together as a bundle, which can be reloaded later. You can replace the cart items with the saved bundles, or add the bundles to the cart items.
 -   Remove all items from your cart.
 
-![Screenshot for the SC Shopping Cart widget](../../../product/service-catalog-management/image/SCShoppingCart.png "SC Shopping Cart widget")
+![Screenshot for the SC Shopping Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../product/service-catalog-management/image/SCShoppingCart.png "SC Shopping Cart widget")
 
 ## Instance options
 
@@ -37,53 +37,53 @@ Use the widget instance options to customize the settings for the SC Shopping Ca
 |Cart Template|Enter the name of a ng-template you want to use to provide a different template for the shopping cart. By default, two ng-templates are provided: `small_shopping_cart_v2.html` and `large_shopping_cart_v2.html`.|
 |Auto update cart|Automatically updates the cart across all sessions.|
 
--   **[Enable the Shopping Cart widget](enable-shopping-cart.md)**  
+-   **[Enable the Shopping Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-shopping-cart.md)**  
 The shopping cart widget is enabled automatically for instances upgrading to Istanbul, however, there are several ways to manually enable or disable the widget.
--   **[Enable automatic updates to the shopping cart](../task/enable-auto-update-cart.md)**  
+-   **[Enable automatic updates to the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-auto-update-cart.md)**  
 Automatically update the shopping cart across all sessions when users make changes from multiple tabs and platforms.
 
-**Parent Topic:**[Service Catalog widgets](sc-widgets.md)
+**Parent Topic:**[Service Catalog widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-widgets.md)
 
 **Related topics**  
 
 
-[Catalog Content widget](catalog-content-widget.md)
+[Catalog Content widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/catalog-content-widget.md)
 
-[Catalog Homepage Search widget](cat-homepage-search-widget.md)
+[Catalog Homepage Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/cat-homepage-search-widget.md)
 
-[Recent &amp; Popular Items widget](recent-and-popular-items-widget.md)
+[Recent &amp; Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/recent-and-popular-items-widget.md)
 
-[Request Fields widget](request-fields-widget.md)
+[Request Fields widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/request-fields-widget.md)
 
-[Requested Items widget](requested-items-widget.md)
+[Requested Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requested-items-widget.md)
 
-[Requests and Approvals widget](requests-and-approvals-widget.md)
+[Requests and Approvals widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requests-and-approvals-widget.md)
 
-[SC Catalog Item widget](sc-catalog-item-widget.md)
+[SC Catalog Item widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-catalog-item-widget.md)
 
-[SC Categories widget](sc-categories-widget.md)
+[SC Categories widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-categories-widget.md)
 
-[SC Category Page widget](sc-category-page-widget.md)
+[SC Category Page widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-category-page-widget.md)
 
-[SC Order Guide widget](sc-order-guide-widget.md)
+[SC Order Guide widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-order-guide-widget.md)
 
-[SC Popular Items widget](sc-popular-items.md)
+[SC Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-popular-items.md)
 
-[SC Save Bundles widget](save-bundles-widget.md)
+[SC Save Bundles widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/save-bundles-widget.md)
 
-[SC Saved Carts widget](saved-cart-widget.md)
+[SC Saved Carts widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/saved-cart-widget.md)
 
-[SC Scroll to top widget](sc-scroll-to-top.md)
+[SC Scroll to top widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-scroll-to-top.md)
 
-[SP Variable Editor widget](variable-editor-widget.md)
+[SP Variable Editor widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/variable-editor-widget.md)
 
-[SC Wish List Cart widget](sc-wish-list.md)
+[SC Wish List Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 
 [Add a catalog item to the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
 

@@ -21,12 +21,12 @@ Create a business unit to define your organizational functions.
 |Primary contact|The person who is the primary point of contact for anything associated with the department.|
 |Description|A description of the department|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring departments](../../concept/eaw-concept/eaw-departments.md)
+[Exploring departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-departments.md)
 
-[Add or edit a department](../../task/eaw-task/eaw-add-or-edit-a-department.md)
+[Add or edit a department](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-department.md)
 

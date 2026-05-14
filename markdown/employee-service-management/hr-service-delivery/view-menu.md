@@ -13,7 +13,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Use the View menu icon in Manager Hub
 
-Use the View menu icon \(![View menu icon](../image/viewmenu.png)\) to view org menu, interact with an employee or assign a learning course.
+Use the View menu icon \(![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/viewmenu.png)\) to view org menu, interact with an employee or assign a learning course.
 
 <table id="table_mkz_bq4_4cc"><thead><tr><th>
 
@@ -37,9 +37,9 @@ Schedule conversation
 
 </td><td>
 
-Schedule a conversation with an employee.If you have the Microsoft Outlook integration for Manager Hub, the Schedule a conversation form opens. For more information, see [Schedule a conversation form](schedule-conversation-form.md).
+Schedule a conversation with an employee.If you have the Microsoft Outlook integration for Manager Hub, the Schedule a conversation form opens. For more information, see [Schedule a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-conversation-form.md).
 
-If you don't have the Microsoft Outlook integration for Manager Hub, the Create a conversation form opens. For more information, see [Create a conversation form](create-conversation-form.md).
+If you don't have the Microsoft Outlook integration for Manager Hub, the Create a conversation form opens. For more information, see [Create a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-conversation-form.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Assign learning
 
 </td><td>
 
-Assign a learning course to an employee.For more information, see [Assign learning form](assign-learning-form.md).
+Assign a learning course to an employee.For more information, see [Assign learning form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/assign-learning-form.md).
 
 **Note:** You can only assign learning for direct reports.
 
@@ -84,34 +84,34 @@ View articles as employee
 View articles visible to an employee.**Note:** You can only view articles visible to your direct reports.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for Manager Hub](reference-manager-hub.md)
+</table>**Parent Topic:**[Reference for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-manager-hub.md)
 
 **Related topics**  
 
 
-[Components installed with Manager Hub](installed-with-managerhub.md)
+[Components installed with Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-managerhub.md)
 
-[Campaign configurations for Manager Hub](../concept/manager-hub-campaign.md)
+[Campaign configurations for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-campaign.md)
 
-[Default configurations for important dates](../concept/manager-hub-imp-dates.md)
+[Default configurations for important dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-imp-dates.md)
 
-[Default configurations for team requests](../concept/manager-hub-team-requests.md)
+[Default configurations for team requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-team-requests.md)
 
-[Default configurations for team data](../concept/team-data-config.md)
+[Default configurations for team data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/team-data-config.md)
 
-[Default configurations for team column data](../concept/config-team-column.md)
+[Default configurations for team column data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-team-column.md)
 
-[Default configurations for filter groups](../concept/config-filter-group.md)
+[Default configurations for filter groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-filter-group.md)
 
-[Default configurations for daily stats](../concept/config-daily-stats.md)
+[Default configurations for daily stats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-daily-stats.md)
 
-[Default configurations for To do's](../concept/manager-hub-todos.md)
+[Default configurations for To do's](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/manager-hub-todos.md)
 
-[Default proactive prompts for Manager Hub](../concept/prompts-mh.md)
+[Default proactive prompts for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/prompts-mh.md)
 
-[Assign learning form](assign-learning-form.md)
+[Assign learning form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/assign-learning-form.md)
 
-[Create a conversation form](create-conversation-form.md)
+[Create a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-conversation-form.md)
 
-[Schedule a conversation form](schedule-conversation-form.md)
+[Schedule a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-conversation-form.md)
 

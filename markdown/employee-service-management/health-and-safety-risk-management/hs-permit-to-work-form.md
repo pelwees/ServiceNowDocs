@@ -38,5 +38,5 @@ Description of the form to request a permit to work.
 |Comments|Optional comments.|
 |Attachment|Option to add attachments related to this permit.|
 
-**Parent Topic:**[Health and Safety Risk Management reference](../concept/hs-risk-mgmt-reference.md)
+**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-risk-mgmt-reference.md)
 

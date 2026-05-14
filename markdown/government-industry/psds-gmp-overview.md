@@ -17,7 +17,7 @@ The Grants Management Portal experience begins on the portal homepage for consti
 
 This example shows the default home page for a registered user of the Public Sector Digital Services Grants Management Portal.
 
-![Different interaction options on the Constituent view. For more information, refer to the text that follows.](../image/public-sector-constituent-portal.png)
+![Different interaction options on the Constituent view. For more information, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/public-sector-constituent-portal.png)
 
 **Note:** Administrators can customize Grants Management Portal homepages in Service Portal, so homepage appearance might differ across government agencies.
 
@@ -29,5 +29,5 @@ From the landing page, a constituent can:
 -   Review and download the results letter and merit review summary of their submitted grant proposals, and accept or decline their award within the Results tab.
 -   View all Knowledge Base articles related to grants.
 
-For more information on how to use the Grants Portal, see [Using the Grants Management Portal in Public Sector Digital Services](psds-gmp-using-grants-mgmt-portal.md).
+For more information on how to use the Grants Portal, see [Using the Grants Management Portal in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-grants-mgmt-portal.md).
 

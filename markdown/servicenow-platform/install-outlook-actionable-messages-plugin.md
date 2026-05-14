@@ -28,5 +28,5 @@ Role required: oam\_admin
 3.  Click **Install**.
 
 
-**Parent Topic:**[Outlook Actionable Messages](../concept/outlook-actionable-messages.md)
+**Parent Topic:**[Outlook Actionable Messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/outlook-actionable-messages.md)
 

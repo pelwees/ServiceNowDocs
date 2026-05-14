@@ -173,5 +173,5 @@ In such cases, the invoice is considered as of type Credit memo.
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](apm-docintel-how-it-works.md)
+</table>**Parent Topic:**[How Accounts Payable Operations integration with Document Intelligence works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apm-docintel-how-it-works.md)
 

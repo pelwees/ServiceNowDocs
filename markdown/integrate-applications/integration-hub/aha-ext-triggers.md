@@ -72,11 +72,11 @@ Role required: admin
 
 5.  On the form, for **Hook URL** paste the generated endpoint URL that was generated after you configured triggers in the ServiceNow instance.
 
-    For more information, see [Configure triggers in ServiceNow instance](aha-ext-triggers.md#).
+    For more information, see [Configure triggers in ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/aha-ext-triggers.md#).
 
 6.  Select the activities and users as per your requirement.
 
-    For the list supported events, see the [Spoke triggers](../concept/aha-spoke.md#section_wjk_vm2_t3c) section.
+    For the list supported events, see the [Spoke triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/aha-spoke.md#section_wjk_vm2_t3c) section.
 
 7.  Select the **Valid certificate**, **Reduce webhook delay**, and **Enable** check boxes.
 

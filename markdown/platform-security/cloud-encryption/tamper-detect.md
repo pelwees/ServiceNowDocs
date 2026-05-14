@@ -50,13 +50,13 @@ When enabled, tamper detection validates your quorum control settings by checkin
 
     If a quorum control setting has failed validation, you can see a warning when you view the Quorum Control Policy settings page on your instance. The warning includes the sys\_id of the settings \(dare\_property\) record that failed validation.
 
-    ![Example banner warning on quorum control page](../image/tamper-warning-banner.png)
+    ![Example banner warning on quorum control page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/tamper-warning-banner.png)
 
 -   **Tamper detection sends notifications to users with the __Security Admin__ and __KMF Admin__ roles**
 
     If tamper detection fails to validate any of your quorum control settings, your security admins and KMF admins receive a notification similar to this example.
 
-    ![Example message for tamper detection](../image/tamper-sample.png)
+    ![Example message for tamper detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/tamper-sample.png)
 
 
 ## Resolving tampering issues with ServiceNow support
@@ -65,7 +65,7 @@ When enabled, tamper detection validates your quorum control settings by checkin
 
 If tamper detection fails to validate any of your quorum control settings, contact ServiceNow support for assistance in resolving the issue. After a support agent has resolved the validation failure, security and KMF admins receive a notification indicating that the issue has been resolved.
 
-![Example message for tamper detection resolution](../image/tamper-resolve.png)
+![Example message for tamper detection resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/tamper-resolve.png)
 
-**Parent Topic:**[Cloud Encryption with Key Management](dare-overview.md)
+**Parent Topic:**[Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md)
 

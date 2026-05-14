@@ -15,19 +15,19 @@ Learn how to pass information from Salesforce into CPQ using the On Configuratio
 
 Sometimes a CPQ configuration needs information from outside the configuration passed into the configuration on initialization. There are several ways to do this.
 
-![Workflow](../images/cpq-enrichments-info-in-info-out.png)
+![Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-info-in-info-out.png)
 
 If the information can be found on the Salesforce quote, use the twinning method of data transfer. External data would be assigned to a field in CPQ.
 
 In this example, CPQ uses the On Configuration/Reconfigure enrichment \(called “Init enrichment” here\) to send an API call to the website “FakerAPI.it”. This website sends an API response with fake credit card information.
 
-![API](../images/cpq-enrichments-faker-api.png)
+![API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-faker-api.png)
 
 Our goal is to populate a field in CPQ with the credit card type \(Visa, MasterCard, or other\).
 
 ## Setup
 
-The first step of using an enrichment and external connection is to set it up. For instructions, see [Using external connections with OAuth support](using-external-connections-with-oauth-support.md). \(Note that the examples in this link focus mostly on the On BOM Response enrichment. This article complements the other because it focuses more on the Init enrichment.\)
+The first step of using an enrichment and external connection is to set it up. For instructions, see [Using external connections with OAuth support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-external-connections-with-oauth-support.md). \(Note that the examples in this link focus mostly on the On BOM Response enrichment. This article complements the other because it focuses more on the Init enrichment.\)
 
 The following information is used for our external connection to FakerAPI.it.
 
@@ -148,10 +148,10 @@ To use SOQL in the enrichment, the only difference from the examples above is a 
 
 For the field integration type, select **Salesforce**. This provides a box for you to enter your SOQL query.
 
-![External connection](../images/cpq-enrichments-integration-type-salesforce.png)
+![External connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-integration-type-salesforce.png)
 
 **Related topics**  
 
 
-[Twinning: pulling Salesforce CPQ quote information into CPQ](twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io.md)
+[Twinning: pulling Salesforce CPQ quote information into CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/twinning_how_to_pull_salesforce_cpq_quote_information_into_logik_io.md)
 

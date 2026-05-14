@@ -13,7 +13,7 @@ breadcrumb: [Request Management Platform Analytics Solutions, Request Management
 
 Use this dashboard when you wish to dive into open requests for items divided by Age.
 
-![Open Requested Item Age Monitor dashboard](../image/open-incidents-age-monitor.png)
+![Open Requested Item Age Monitor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/open-incidents-age-monitor.png)
 
 ## Indicators
 
@@ -56,5 +56,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Stage
 -   State
 
-**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

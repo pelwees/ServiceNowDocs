@@ -27,7 +27,7 @@ Role required: none
 
     **Note:** You can select the banner and directly go to the conversation on the Now Assist panel to complete the task.
 
-2.  Open the Now Assist panel by using the Now Assist ![Now Assist icon.](../../now-assist-platform/images/wwna-icon.png) icon.
+2.  Open the Now Assist panel by using the Now Assist ![Now Assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/images/wwna-icon.png) icon.
 
     Now Assist provides the resolution steps for the incident.
 

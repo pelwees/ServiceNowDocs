@@ -80,7 +80,7 @@ Asset
 
 </td><td>
 
-The asset that is selected in the Asset selection task. For more information, see [Select an asset](select-daas-asset.md).
+The asset that is selected in the Asset selection task. For more information, see [Select an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/select-daas-asset.md).
 
 </td></tr><tr><td>
 
@@ -198,5 +198,5 @@ Notes about the task that are visible to all users within your organization.
 
 ## What to do next
 
-[Receive the shipped asset](receive-daas-asset.md)
+[Receive the shipped asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-daas-asset.md)
 

@@ -21,5 +21,5 @@ You can use private activities as part of a workflow that has a public applicati
 
 **Note:** Custom activities uploaded to the ServiceNow Store must be configured as accessible to all application scopes.
 
-**Parent Topic:**[Orchestration activity designer](c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md)
 

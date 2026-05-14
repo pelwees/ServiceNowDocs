@@ -19,13 +19,13 @@ When you create an app in DevOps Config, not only is it the container for the co
 
 Each application model has an SDLC Component of the CMDB that is the link between ServiceNow DevOps pipeline products.
 
-![DevOps Config app model](../image/devops-config-app-model.png)
+![DevOps Config app model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-app-model.png)
 
 When you create an app in DevOps Config, it's synced with DevOps Change Velocity. Updates and deletions to the app made in either application are also synced.
 
 **Note:** An SDLC-C cannot be deleted if there is a DevOps Config or DevOps Change Velocity app associated with it​.
 
-![DevOps Config SDLC component](../image/devops-config-sdlc-component.png "Related entities and attributes")
+![DevOps Config SDLC component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-sdlc-component.png "Related entities and attributes")
 
 Mapping:
 
@@ -33,5 +33,5 @@ Mapping:
 -   1:1 mapping between DevOps Config app and SDLC-C​
 -   1:1 mapping between DevOps Change Velocity and SDLC-C​
 
-**Parent Topic:**[Exploring DevOps Config](devops-config-getting-started.md)
+**Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 

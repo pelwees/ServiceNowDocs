@@ -34,10 +34,10 @@ User actions can always cancel items on the list. You should only add items to t
 5.  Select **Update**.
 
 
-**Parent Topic:**[Navigation action cancellation](../concept/c_CancelingNavigationActions.md)
+**Parent Topic:**[Navigation action cancellation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_CancelingNavigationActions.md)
 
 **Related topics**  
 
 
-[Prevent users from canceling module transactions](t_PrevUsersCancelModTrans.md)
+[Prevent users from canceling module transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_PrevUsersCancelModTrans.md)
 

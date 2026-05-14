@@ -19,16 +19,16 @@ Using AQI feature, a knowledge administrator \(a user with knowledge\_admin role
 
 A knowledge reviewer \(a user with knowledge\_coach and knowledge\_domain\_expert role\) performs AQI review on knowledge articles attached to the knowledge base by answering the true or false questions in the checklist. The article quality is then scored based on the cumulative weight of all answers set to true in the checklist.
 
-The average AQI scoring is displayed on the Content Quality tab of the Knowledge Management dashboard \(see [Knowledge Management dashboard](../../../use/dashboards/application-content-packs/knowledge-management-dashboard.md)\).
+The average AQI scoring is displayed on the Content Quality tab of the Knowledge Management dashboard \(see [Knowledge Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../use/dashboards/application-content-packs/knowledge-management-dashboard.md)\).
 
 ## Activating article quality index
 
-The article quality index feature is activated with the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. For details see, [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md).
+The article quality index feature is activated with the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. For details see, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-knowledge-advanced-plugin.md).
 
-**Parent Topic:**[Knowledge Management](knowledge-management.md)
+**Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
 **Related topics**  
 
 
-[Use Article Quality Index](use-article-quality-index.md)
+[Use Article Quality Index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-quality-index.md)
 

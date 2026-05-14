@@ -38,7 +38,7 @@ You can associate a user with a primary assignment group by selecting the group 
 
 ## What to do next
 
-[Analyze the performance trends for your teams](analyze-team-KPI-trends-configurable-workspace.md)
+[Analyze the performance trends for your teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/analyze-team-KPI-trends-configurable-workspace.md)
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-teams-configurable-workforce-optimization-itsm.md)
 

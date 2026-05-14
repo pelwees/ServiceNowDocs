@@ -13,7 +13,7 @@ breadcrumb: [Domain separation explained, Recommended practices for service prov
 
 With domain separation, service providers can have a multitenant instance architecture that delivers offerings efficiently and securely to their clients. Strong universal process standards, data-driven process design, strict governance, and centralized administration help to maximize these benefits.
 
-![Opportunities for service providers](../image/sp-landing-gif-6.gif)
+![Opportunities for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/sp-landing-gif-6.gif)
 
 ## Benefits of domain separation
 
@@ -31,5 +31,5 @@ Here is an quick view of these benefits.
 |Data segregation|Services provided by the instance owner|
 |Global reporting| |
 
-**Parent Topic:**[Domain separation explained](../concept/bp-what-is-domain-separation.md)
+**Parent Topic:**[Domain separation explained](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-what-is-domain-separation.md)
 

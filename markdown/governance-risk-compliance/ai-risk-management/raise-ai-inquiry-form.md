@@ -90,5 +90,5 @@ Location
 Location where the request was raised. For example, Japan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Raise an AI inquiry](../task/raise-ai-inquiry.md)
+</table>**Parent Topic:**[Raise an AI inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/raise-ai-inquiry.md)
 

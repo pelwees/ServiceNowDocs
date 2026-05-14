@@ -46,7 +46,7 @@ After setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_e
 
 The following diagram shows the questionnaire to TPRM SAE template migration workflow.
 
-![Questionnaire to TPRM SAE template migration workflow. For a text description, see the text that preceded and follows this diagram.](../image/tprm-q-to-sae-workflow.png "SAE migration workflow")
+![Questionnaire to TPRM SAE template migration workflow. For a text description, see the text that preceded and follows this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../image/tprm-q-to-sae-workflow.png "SAE migration workflow")
 
 1.  Migrate templates either one by one or in bulk. After migration, all templates are in the Draft state by default.
 2.  Review each migrated questionnaire template individually to confirm that they’re accurate and complete.
@@ -82,7 +82,7 @@ The following table shows the comparable features between the Classic assessment
 
 The following diagram shows the relationship between assessment templates and questionnaires after upgrading.
 
-![Assessment template impact after upgrading. For a text description, see the text that preceded and follows this diagram.](../image/tprm-assess-sae-workflow.png "Assessment templates post-upgrade")
+![Assessment template impact after upgrading. For a text description, see the text that preceded and follows this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../image/tprm-assess-sae-workflow.png "Assessment templates post-upgrade")
 
 -   Before setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property, the following are used by default.
     -   Existing questionnaire templates
@@ -158,7 +158,7 @@ The Third-party Risk Management data model uses the term “third-party” in mo
 
 The following models show VRM's and TPRM's capabilities.
 
-![Relationship Vendor risk management main tables. For a text description, see the text that preceded and follows this data model.](../image/vrm-data-model.png "VRM data model")
+![Relationship Vendor risk management main tables. For a text description, see the text that preceded and follows this data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../image/vrm-data-model.png "VRM data model")
 
 The components included in the Vendor Risk Management data model are as follows:
 
@@ -172,7 +172,7 @@ The components included in the Vendor Risk Management data model are as follows:
 -   Engagement risk scoring rule \[sn\_vdr\_risk\_asmt\_engagement\_risk\_scoring\_rule\]
 -   Engagement level risk rating \[sn\_vdr\_risk\_asmt\_engagement\_level\_rating\]
 
-![Relationship between due diligence, and third-party management main tables. For a text description, see the text that preceded and follows this data model.](../image/tprm-data-model-upgrade.png "TPRM data model")
+![Relationship between due diligence, and third-party management main tables. For a text description, see the text that preceded and follows this data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../image/tprm-data-model-upgrade.png "TPRM data model")
 
 The components included in the Third-party Risk Management data model are as follows:
 
@@ -192,5 +192,5 @@ The components included in the Third-party Risk Management data model are as fol
 -   Engagement risk scoring rule \[sn\_vdr\_risk\_asmt\_engagement\_risk\_scoring\_rule\]
 -   Engagement level risk rating \[sn\_vdr\_risk\_asmt\_engagement\_level\_rating\]
 
-**Parent Topic:**[Third-party Risk Management release notes](grc-tprm-rn.md)
+**Parent Topic:**[Third-party Risk Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-tprm-rn.md)
 

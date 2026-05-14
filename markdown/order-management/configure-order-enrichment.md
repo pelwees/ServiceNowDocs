@@ -31,7 +31,7 @@ Add rows to the Order Enrichment Flow Policy decision table to specify which pro
 
 4.  Select the product offering in the **Offering** column.
 
-    ![Order Enrichment Flow Policy decision table for configuring the order enrichment process.](../image/order-mgt-enrichment-decision-table.png "Decision table for order enrichment process")
+    ![Order Enrichment Flow Policy decision table for configuring the order enrichment process.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-mgt-enrichment-decision-table.png "Decision table for order enrichment process")
 
 5.  Select **Save**.
 
@@ -40,5 +40,5 @@ Add rows to the Order Enrichment Flow Policy decision table to specify which pro
 
 A list of subflows appear in the results section. These sub flows create the enrichment tasks for an order line item during the enrichment process. For more information, see [Decision Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-builder-user-interface.md).
 
-**Parent Topic:**[Configuring Order Management](../concept/order-mgt-configuring.md)
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-configuring.md)
 

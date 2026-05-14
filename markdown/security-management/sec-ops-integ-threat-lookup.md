@@ -27,14 +27,14 @@ This flow can be triggered in these ways.
 
 Each method then allows you to specify which lookup implementations to be used to scan the selected observables. The associated implementation flows are executed to perform the lookups.
 
-![Security Operations Integration - Threat Lookup](../image/threat-lookup-flow.png "Threat Lookup")
+![Security Operations Integration - Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/threat-lookup-flow.png "Threat Lookup")
 
-Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
 The flow process actions include:
 
--   [Get Supported Security Capabilities action](../reference/get-supported-security-capabilities-activity.md)
--   [Capability Execution Tracking- No Impls action](../reference/execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[Security Operations Integration - Threat Lookup capability](../../security-operations-common/concept/sec-ops-threat-lookups-capability.md)
+**Parent Topic:**[Security Operations Integration - Threat Lookup capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/sec-ops-threat-lookups-capability.md)
 

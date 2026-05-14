@@ -27,16 +27,16 @@ Role required: evt\_mgmt\_operator
 
 2.  On the **Lists** tab, click **My Lists**.
 
-    ![Dashboard view](../image/new-list-button.png)
+    ![Dashboard view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/new-list-button.png)
 
 3.  Click **+ New list**, fill in the form with name and filter conditions, and then click **Save**.
 
-    ![New List popup](../image/new-list-popup.png)
+    ![New List popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/new-list-popup.png)
 
     The list appears on the **My Lists** tab.
 
     **Note:** The list applies only to application services, and not to application service groups. The groups appear whether or not they match the filter, and whether or not they contain any services that match the filter.
 
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-advanced-tasks.md)
 

@@ -21,21 +21,21 @@ Role required: sn\_apm.apm\_read
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by clicking the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by clicking the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Digital Integrations**.
 
 
-**Parent Topic:**[Working with digital integrations](../../concept/eaw-concept/eaw-work-with-digital-integrations.md)
+**Parent Topic:**[Working with digital integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-digital-integrations.md)
 
 **Related topics**  
 
 
-[Add or edit a digital integration in the EA Workspace](eaw-create-digital-integ.md)
+[Add or edit a digital integration in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-digital-integ.md)
 
-[Manage architectural artifacts of a digital integration in EA Workspace](eaw-assoicate-artifact-dig-intgn.md)
+[Manage architectural artifacts of a digital integration in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-dig-intgn.md)
 
-[Associate an information object to a digital integration](eaw-dig-integ-add-info-object.md)
+[Associate an information object to a digital integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-integ-add-info-object.md)
 

@@ -20,10 +20,10 @@ After you purchase the subscription, you might need to activate the plugin assoc
 Performance Analytics subscriptions enable you to use the following functionality beyond what is available with the base system:
 
 -   Custom Performance Analytics indicators, breakdowns, widgets, or other configuration records
--   The ability to activate Data snapshots for indicators. For more information, see [Data snapshots and multiple breakdowns](multi-level-breakdowns.md).
+-   The ability to activate Data snapshots for indicators. For more information, see [Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md).
 -   Scores preserved for longer than 180 days \(Five full months for monthly indicators\)
 -   Text analytics widgets \(Core UI only\)
--   [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md)
+-   [Proactive analytics insights on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/proactive-analytics.md)
 
 If you have purchased Performance Analytics through a Professional or Enterprise offering, you may use it with no restrictions in these situations:
 
@@ -35,13 +35,13 @@ If you have purchased Performance Analytics through a Professional or Enterprise
 
 If you try to perform these tasks on a production instance that doesn’t have a Performance Analytics subscription, you get a warning that a subscription is required.
 
-![Warning that you cannot do what you are trying to do unless you subscribe to Performance Analytics](../image/complimentary-warning.png "Subscription-required warning")
+![Warning that you cannot do what you are trying to do unless you subscribe to Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/complimentary-warning.png "Subscription-required warning")
 
 The Performance Analytics Admin Console also warns you when an instance doesn’t have the full version of Performance Analytics activated.
 
-![Performance Analytics admin console showing subscription version not activated](../image/admin-console-pa-not-activated.png)
+![Performance Analytics admin console showing subscription version not activated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/admin-console-pa-not-activated.png)
 
-**Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)
+**Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
 ## Subscription Management for Performance Analytics
 
@@ -107,5 +107,5 @@ A progress bar shows you the progress of the plugin activation, after which you 
 
 ### What to do next
 
-Consider activating Spotlight. Spotlight helps prioritize records by evaluating them against multiple weighted criteria. For more information, see [Ranking records with Spotlight](spotlight.md).
+Consider activating Spotlight. Spotlight helps prioritize records by evaluating them against multiple weighted criteria. For more information, see [Ranking records with Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/spotlight.md).
 

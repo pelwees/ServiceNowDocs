@@ -39,5 +39,5 @@ Role required: sn\_esg.admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configure-sustainable-it.md)
 

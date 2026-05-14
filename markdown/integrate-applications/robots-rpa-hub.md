@@ -33,11 +33,11 @@ These two types of robots serve different purposes and are designed to automate 
 **Related topics**  
 
 
-[Create an unattended robot in RPA Hub](../task/create-unattended-robot.md)
+[Create an unattended robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-unattended-robot.md)
 
-[Create an attended robot in RPA Hub](../task/create-attended-robot.md)
+[Create an attended robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-attended-robot.md)
 
-[Add assigned studio users to an unattended robot](../task/assigned-studio-users-rpa.md)
+[Add assigned studio users to an unattended robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assigned-studio-users-rpa.md)
 
-[High density robots in RPA Hub](high-density-robots-rpa-hub.md)
+[High density robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/high-density-robots-rpa-hub.md)
 

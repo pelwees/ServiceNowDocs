@@ -33,10 +33,10 @@ Agent Assist is a contextual search option available in Agent Workspace when a w
 
     A new incident or case tab opens next to the details tab for the original associated walk-up interaction.
 
-4.  Click the agent assist icon ![agent assist icon](../../../common/image/Form_AgentAssistIcon.png) to use the feature.
+4.  Click the agent assist icon ![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../common/image/Form_AgentAssistIcon.png) to use the feature.
 
     For more detailed information about Agent Assist and using it to expedite incidents and requests, refer to Using Agent Assist in Agent Workspace and Order a catalog item using Agent Assist.
 
 
-**Parent Topic:**[Manage Walk-up Experience queue and interaction](../concept/use-walkup-to-manage-demand.md)
+**Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/use-walkup-to-manage-demand.md)
 

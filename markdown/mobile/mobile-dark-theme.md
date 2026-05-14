@@ -24,7 +24,7 @@ Use a dark theme on the Mobile Agent and Now Mobile apps to improve focus and re
 
 </td><td>
 
-![Mobile app with dark theme enabled](../image/darktheme-mobile.png)
+![Mobile app with dark theme enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/darktheme-mobile.png)
 
 </td></tr></tbody>
 </table>## Enable dark theme on your instance
@@ -35,5 +35,5 @@ Administrators can enable dark mode on an instance using the `glide.ui.polaris.d
 
 ## Access dark theme in the mobile UI
 
-As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [Enable dark theme](../task/enable-dark-theme.md).
+As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [Enable dark theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/enable-dark-theme.md).
 

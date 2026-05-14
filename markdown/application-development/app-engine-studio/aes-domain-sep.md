@@ -22,7 +22,7 @@ Domain separation is unsupported for App Engine Studio \(AES\). Domain separatio
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Configuring App Engine Studio and related apps](aes-setup.md)
+**Parent Topic:**[Configuring App Engine Studio and related apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-setup.md)
 
 **Related topics**  
 

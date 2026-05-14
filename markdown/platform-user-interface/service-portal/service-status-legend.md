@@ -15,20 +15,20 @@ breadcrumb: [Service Portal service status widgets, Widget library, Using portal
 
 Use concurrently with the Status History widget to show what the icons in the Status History widget mean. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![System Status Legend widget](../image/WidgetSystemStatusLegend.png "Service Status Legend widget")
+![System Status Legend widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetSystemStatusLegend.png "Service Status Legend widget")
 
 ## Instance options
 
 The Service Status Legend widget does not have any included instance options.
 
-**Parent Topic:**[Service Portal service status widgets](service-status-widgets.md)
+**Parent Topic:**[Service Portal service status widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

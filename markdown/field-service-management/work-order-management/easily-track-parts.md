@@ -18,7 +18,7 @@ Field service agents can locate, request, and transfer parts from other agents o
 **Related topics**  
 
 
-[Advanced Part Sourcing components](../reference/advanced-part-souring-components.md)
+[Advanced Part Sourcing components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/advanced-part-souring-components.md)
 
-[Consumable and non-consumable models](../../planning-and-policy/reference/r_ConsumableAndNonConsumableModels.md)
+[Consumable and non-consumable models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/reference/r_ConsumableAndNonConsumableModels.md)
 

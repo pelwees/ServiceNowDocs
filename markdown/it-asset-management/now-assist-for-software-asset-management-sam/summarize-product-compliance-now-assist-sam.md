@@ -41,7 +41,7 @@ When you run reconciliation with grouping, product summarization and recommended
 
     The Now Assist for SAM application starts generating the summary for the selected product. After the summary is compiled, the results of the summary appear under different sections. Additionally, recommended actions are also automatically generated when you select **Summarize**.
 
-    ![SQL Server product summarization](../image/now-assist-sam-product-summary.png)
+    ![SQL Server product summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-sam-product-summary.png)
 
     After it's generated, the product summary isn’t automatically saved. If you close the Publisher details page where you generated the summary, or if you reload the page, the product summary isn’t available. To regenerate the summary, select **Summarize**.
 
@@ -81,5 +81,5 @@ If you found that the summary was helpful, select the helpful icon. If you found
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../concept/using-now-assist-sam.md)
 

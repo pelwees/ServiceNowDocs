@@ -46,18 +46,18 @@ You can mark tests as mutually exclusive using any of the following methods.
     **Note:** The **Parallel Test Runs** tab is visible only if the test runs in parallel with one or more tests.
 
 
-**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](atf-test-type-testing.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-test-type-testing.md)
 
 **Related topics**  
 
 
-[Reusable tests](atf-reuse-tests.md)
+[Reusable tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-reuse-tests.md)
 
-[Quick start tests](quick-start-tests.md)
+[Quick start tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
 
-[Parallel testing](parallel-testing.md)
+[Parallel testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-test-triage.md)
 
-[Performance profiling](atf-perf-prof.md#)
+[Performance profiling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-perf-prof.md#)
 

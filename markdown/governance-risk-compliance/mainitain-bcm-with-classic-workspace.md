@@ -21,5 +21,5 @@ The BCM Classic Workspace is an obsolete user interface that will not be compati
 
 To avoid any disruptions, transitioning to the BCM Configurable Workspace before or immediately following the Xanadu release will offer the latest functionality and the best user experience.
 
-For information on managing your business continuity tasks in BCM Configurable Workspace, see [Managing BCM workflow tasks](manage-bcm-with-uib-workspace.md).
+For information on managing your business continuity tasks in BCM Configurable Workspace, see [Managing BCM workflow tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-bcm-with-uib-workspace.md).
 

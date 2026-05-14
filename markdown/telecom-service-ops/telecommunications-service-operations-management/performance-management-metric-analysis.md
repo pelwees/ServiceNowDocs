@@ -17,6 +17,6 @@ Performance management enables you to capture and analyze operational metrics to
 
 Use provided solutions to collect metrics and monitor your devices for different device platforms:
 
--   [Cisco Meraki installed integrations](meraki-installed-integrations.md)
--   [Fortinet installed integrations](fortinet-installed-integrations.md)
+-   [Cisco Meraki installed integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/meraki-installed-integrations.md)
+-   [Fortinet installed integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/fortinet-installed-integrations.md)
 

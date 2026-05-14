@@ -23,7 +23,7 @@ Role required: sn\_bm\_client.benchmark\_data\_viewer
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Dashboard**.
 
-2.  Select one of the **KPI categories** from the [KPI list](../concept/c_BenchKPIConfig.md).
+2.  Select one of the **KPI categories** from the [KPI list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchKPIConfig.md).
 
 3.  To view the corresponding group of KPIs, click a tab.
 
@@ -39,12 +39,12 @@ Role required: sn\_bm\_client.benchmark\_data\_viewer
 
     In card view, clicking a KPI displays the six-month KPI performance trend chart.
 
-6.  To download a report to a PDF file, click the arrow icon \(![BenchArrow](../image/BenchArrow.png)\).
+6.  To download a report to a PDF file, click the arrow icon \(![BenchArrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/BenchArrow.png)\).
 
 
 ## What to do next
 
-Click a KPI to view [Benchmarks KPI performance trend and recommendations \(deprecated\)](../concept/bench-kpi-trend-recommend.md).
+Click a KPI to view [Benchmarks KPI performance trend and recommendations \(deprecated\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/bench-kpi-trend-recommend.md).
 
-**Parent Topic:**[Deprecated Benchmarks dashboard](../concept/c_BenchDashboard.md)
+**Parent Topic:**[Deprecated Benchmarks dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchDashboard.md)
 

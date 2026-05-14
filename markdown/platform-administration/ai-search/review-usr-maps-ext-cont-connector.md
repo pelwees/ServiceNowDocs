@@ -68,7 +68,7 @@ Next Experience UI
 
 In the banner frame, select the icon for your account to open the user menu, then select **Elevate role**.
 
-![User menu with Elevate role action highlighted in Next Experience UI.](../image/elevate-role-polaris-ui.png)
+![User menu with Elevate role action highlighted in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-polaris-ui.png)
 
 </td></tr><tr><td>
 
@@ -76,18 +76,18 @@ Core UI
 
 </td><td>
 
-In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
+In the banner frame, select your name to open the user menu, then select **Elevate Roles**.![User menu with Elevate Roles action highlighted in Core UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../../use/dashboards/image/adv-ais-tools-user-menu-before.png)
 
 </td></tr></tbody>
 </table>        A dialog box appears, displaying a checklist of your available privileged roles.
 
-        ![Dialog box displaying privileged roles in Next Experience UI.](../image/elevate-role-dialog-polaris-ui-ais.png)
+        ![Dialog box displaying privileged roles in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevate-role-dialog-polaris-ui-ais.png)
 
     2.  In the dialog box, select the **ais\_high\_security\_admin** option, then select **Update** \(in Next Experience UI\) or **OK**.
 
         The page reloads and an elevated role indicator appears next to your user name in the user menu. In Next Experience UI, this indicator displays the names of the active privileged roles. In Core UI, the indicator displays the elevated role icon ![](../../security/image/icon-elevated-role-ui16.png).
 
-        ![User menu showing elevated role indicator in Next Experience UI.](../image/elevated-polaris-ui.png)
+        ![User menu showing elevated role indicator in Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/elevated-polaris-ui.png)
 
         **Note:** When the page reloads, any unsaved edits are lost.
 
@@ -96,5 +96,5 @@ In the banner frame, select your name to open the user menu, then select **Eleva
     Each entry shows a single ServiceNow AI Platform user along with the external user mapped to them and any external group memberships associated with that external user. You can sort and filter the list to locate entries of interest.
 
 
-**Parent Topic:**[Reviewing external content connector crawl results and analytics](../concept/reviewing-external-content-connector-results-and-analytics.md)
+**Parent Topic:**[Reviewing external content connector crawl results and analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/reviewing-external-content-connector-results-and-analytics.md)
 

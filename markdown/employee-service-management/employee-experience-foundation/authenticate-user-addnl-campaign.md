@@ -31,7 +31,7 @@ Role required: admin
 
 5.  Select **TeamsActivity** accordion, and select **TeamsActivity.Send** check box.
 
-    ![Authenticate TeamsActivity.Send permission](../images/request-api-permissions-teams-activity-send.png)
+    ![Authenticate TeamsActivity.Send permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/request-api-permissions-teams-activity-send.png)
 
 6.  Select **Add permissions**.
 
@@ -39,12 +39,12 @@ Role required: admin
 
 8.  Regenerate and upload the manifest file in Microsoft Teams.
 
-    For more information, see [Send campaign notifications automatically in Microsoft Teams](enable-activity-feed.md).
+    For more information, see [Send campaign notifications automatically in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-activity-feed.md).
 
 9.  Register the Request-based chat app in your instance to use Microsoft Teams chat on a self-configured app environment.
 
-    For more information, see [Configure Application Registry on the ServiceNow instance](app-registry-chat-single-tenant.md#).
+    For more information, see [Configure Application Registry on the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/app-registry-chat-single-tenant.md#).
 
 
-**Parent Topic:**[Working on campaigns in Microsoft Teams](../concept/using-campaigns-ms-teams.md)
+**Parent Topic:**[Working on campaigns in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/using-campaigns-ms-teams.md)
 

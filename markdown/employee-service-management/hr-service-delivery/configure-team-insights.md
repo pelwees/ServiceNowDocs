@@ -49,28 +49,28 @@ Role required: sn\_mh.admin, sp\_admin
         -   In **Advanced**, add a script to customize and display content in the widget.
         -   Click **Save**.
 
-**Parent Topic:**[Configure Manager Hub](set-up-managerhub.md)
+**Parent Topic:**[Configure Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-managerhub.md)
 
 **Related topics**  
 
 
-[RCA approvals for Manager Hub](run-rca-mh.md)
+[RCA approvals for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/run-rca-mh.md)
 
-[Activate a scheduled job](../reference/activate-sj-mh.md)
+[Activate a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/activate-sj-mh.md)
 
-[Configure important dates](configure-imp-dates.md)
+[Configure important dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-imp-dates.md)
 
-[Configure team requests](configure-team-requests.md)
+[Configure team requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-team-requests.md)
 
-[Configure team data](configure-team-data.md)
+[Configure team data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-team-data.md)
 
-[Configure team column data](configure-team-columndata.md)
+[Configure team column data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-team-columndata.md)
 
-[Configure team filters](configure-team-filter.md)
+[Configure team filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-team-filter.md)
 
-[Set up View as Direct Reports](../../employee-center/task/view-direct-reportee.md)
+[Set up View as Direct Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../employee-center/task/view-direct-reportee.md)
 
-[Configure daily stats](configure-daily-stats.md)
+[Configure daily stats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-daily-stats.md)
 
-[Configure to do mappings](use-to-do-map.md)
+[Configure to do mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-to-do-map.md)
 

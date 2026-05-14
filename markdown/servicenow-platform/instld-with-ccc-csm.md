@@ -36,5 +36,5 @@ Several contact flows and operation handlers are installed with Cloud Call Cente
 |updateCSMInteraction|Updates an existing interaction record in the ServiceNow instance for the incoming calls.|
 |fetchCSMInteraction|Fetches interaction and processes sn\_cti\_csm\_cnt.enable\_ims\_update sys property for creating conversation.|
 
-**Parent Topic:**[ServiceNow Voice reference](ccc-reference.md)
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 

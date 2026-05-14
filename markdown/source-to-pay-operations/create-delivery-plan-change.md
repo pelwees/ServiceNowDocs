@@ -113,12 +113,12 @@ Proposed delivery date
 Revised delivery date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Purchase Order Management reference](purchase-order-mgmt-reference.md)
+</table>**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Purchase order exception form](purch-order-exception-form.md)
+[Purchase order exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form.md)
 
-[Create new purchase order exception form](create-new-poe-form.md)
+[Create new purchase order exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-new-poe-form.md)
 

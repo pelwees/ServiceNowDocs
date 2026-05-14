@@ -101,8 +101,8 @@ The output variables contain data that can be used in subsequent actions.
 |--------|-----------|
 |capabilityExecutionId|System identifier of the audit record.|
 
--   [Get Supported Security Capabilities action](../../security-operations-integrations/reference/get-supported-security-capabilities-activity.md)
--   [Capability Execution Tracking- No Impls action](../../security-operations-integrations/reference/execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/reference/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/reference/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 

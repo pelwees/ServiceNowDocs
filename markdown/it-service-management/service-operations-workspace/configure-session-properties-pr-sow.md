@@ -211,5 +211,5 @@ Support for SMS channel used for notifying users for password reset enrollment a
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](../concept/setup-password-reset-sow.md)
+**Parent Topic:**[Setting up Service Desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/setup-password-reset-sow.md)
 

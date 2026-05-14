@@ -28,6 +28,6 @@ Attended automations are typically triggered manually.
 
 To learn more about configuring and using Attended Robot, see:
 
--   [Configuring Attended Robot](../../rda-runtime/concept/rda-runtime-setup.md)
--   [Using Attended Robot](../../rda-runtime/concept/using-rda-runtime.md)
+-   [Configuring Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/concept/rda-runtime-setup.md)
+-   [Using Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/concept/using-rda-runtime.md)
 

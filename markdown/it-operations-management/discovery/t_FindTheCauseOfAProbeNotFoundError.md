@@ -23,7 +23,7 @@ Role required: discovery\_admin or admin
 
 1.  Record the sys\_id of the probe as it appears in the ECC Queue payload.
 
-    ![ECC Queue payload sample](../image/DiscoveryProbeNotFoundError.png "ECC Queue payload sample")
+    ![ECC Queue payload sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryProbeNotFoundError.png "ECC Queue payload sample")
 
 2.  Navigate to **Discovery Definition** &gt; **Probes** and open the record for the probe you want to inspect.
 
@@ -38,14 +38,14 @@ Role required: discovery\_admin or admin
     If the sys\_id of the probe record does not match the value in the payload, try to determine the cause of the incorrect value.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 
 
-[Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md)
+[Find the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md)
 
-[Find the cause of a "No Sensor Defined" error message](t_IdentifyCauseNoSenDefEM.md)
+[Find the cause of a "No Sensor Defined" error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_IdentifyCauseNoSenDefEM.md)
 
-[Fix the cause of a sensor error message](t_FixTheCauseOfASensorErrorMessage.md)
+[Fix the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FixTheCauseOfASensorErrorMessage.md)
 

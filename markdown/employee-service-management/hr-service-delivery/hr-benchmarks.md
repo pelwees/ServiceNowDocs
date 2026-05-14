@@ -27,7 +27,7 @@ The HR Benchmarks application provides you with an insight into the industry ave
 
 ## HR Benchmarks Dashboard
 
-![HR Benchmarks Dashboard](../image/hr-benchmarks.png)
+![HR Benchmarks Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-benchmarks.png)
 
 The KPIs in the HR Benchmarks application are performance analytics indicators that only collect the usage count data, for example, the number of closed HR cases in a month, based on the monthly aggregates. During data collection, the HR Benchmarks application does not consider any other details such as description of cases, or information about requests, changes, or applications.
 

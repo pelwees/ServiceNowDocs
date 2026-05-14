@@ -45,5 +45,5 @@ A name for the field.
 </table>3.  Click **Submit**.
 
 
-**Parent Topic:**[Configure the community profile](configure-community-profile.md)
+**Parent Topic:**[Configure the community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-community-profile.md)
 

@@ -27,7 +27,7 @@ You can also view the CPQ open source API documentation on Github:
 
 To learn how to set up admin API keys for calling blueprint APIs, see:
 
-[Intro to admin API keys](cpq-admin-api-keys.md)
+[Intro to admin API keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md)
 
 ## Blueprint export APIs
 

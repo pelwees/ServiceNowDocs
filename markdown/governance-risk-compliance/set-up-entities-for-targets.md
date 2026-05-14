@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     The Entities related list is shown in the example.
 
-    ![Entity related list in an incident record.](../image/inci-new-ent.png)
+    ![Entity related list in an incident record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-new-ent.png)
 
     1.  Choose the entity from the list view.
 
@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         The selected entities are added to the incident. The example shows that the "Account Opening Workflow" entity is added to the Entities related list of the "Facility issue" incident.
 
-        ![Example showing an entity added to an incident.](../image/inci-create-sec-inci.png)
+        ![Example showing an entity added to an incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-create-sec-inci.png)
 
 3.  To create a security incident from the incident record, select **Create Security Incident**.
 
@@ -41,7 +41,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     The security incident is created as shown in the example.
 
-    ![Security incident created from an incident record.](../image/inci-sec-new.png)
+    ![Security incident created from an incident record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-sec-new.png)
 
 4.  To map an entity to the security incident, navigate to Entities related list, select **New**, and follow the substeps.
 
@@ -49,13 +49,13 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         An entity is added to the security incident; for example, the 'Core Banking Portal' entity is added to SIR0010001.
 
-        ![Entity added to a security incident.](../image/inci-sec-inci-ent-added.png)
+        ![Entity added to a security incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-sec-inci-ent-added.png)
 
     2.  To save the changes, select **Save**.
 
         The entity is displayed in the related record of the security incident.
 
-        ![Example showing how an entity is displayed in the related record.](../image/inci-sec-inci-ent.png)
+        ![Example showing how an entity is displayed in the related record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-sec-inci-ent.png)
 
     The entities are now set up for the target incidents.
 

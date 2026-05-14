@@ -69,7 +69,7 @@ A JSA form with values copied from the previous JSA opens.
 </td></tr></tbody>
 </table>3.  Fill in the fields.
 
-    For more information on JSA field descriptions, see [JSA form](../../hs-risk-management/reference/hs-submit-jsa-form.md).
+    For more information on JSA field descriptions, see [JSA form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-risk-management/reference/hs-submit-jsa-form.md).
 
 4.  Tap **Submit**.
 
@@ -81,7 +81,7 @@ A JSA form with values copied from the previous JSA opens.
 ## Result
 
 -   The JSA is submitted for your job or task. To view your submitted JSAs, navigate to the **My items** section on the **Home** page, tap **My job safety analyses**, and then tap the required JSA.
--   The JSA is also listed in the JSAs list on Health and Safety Workspace. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(![Risk assessment icon](../../hs-risk-management/image/icon-risk-assessment.png)\) and then selecting the **JSAs** list.
+-   The JSA is also listed in the JSAs list on Health and Safety Workspace. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-risk-management/image/icon-risk-assessment.png)\) and then selecting the **JSAs** list.
 
-**Parent Topic:**[Mobile experience for Health and Safety](../concept/hs-health-safety-mobile.md)
+**Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-health-safety-mobile.md)
 

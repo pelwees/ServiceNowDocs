@@ -26,7 +26,7 @@ The Threat Intelligence Security Center supports Threat Lookup only for the foll
 -   VirusTotal
 -   CrowdStrike Intelligence
 
-For more information, see [Threat Lookup](../concept/tisc-threat-lookup.md).
+For more information, see [Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-threat-lookup.md).
 
 ## About this task
 
@@ -40,7 +40,7 @@ This section displays cards for each of the configured integration implementatio
 
 2.  Select the **Integrations** icon, and select the **Threat Lookup** section.
 
-    ![Threat Lookup integrations](../image/enrich-threatlook.png)
+    ![Threat Lookup integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-threatlook.png)
 
 3.  Select the **Configure new enrichment** action.
 
@@ -50,7 +50,7 @@ This section displays cards for each of the configured integration implementatio
 
     The Create Enrichment Integration page opens with pre-filled details for the selected integration.
 
-    ![Select an integration from the list of available integrations](../image/enrich-threat-config.png)
+    ![Select an integration from the list of available integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-threat-config.png)
 
 5.  On the Create Integration form, fill in the fields.
 
@@ -61,7 +61,7 @@ This section displays cards for each of the configured integration implementatio
     |**Integration Type**|Type of integration. This field is automatically set to Threat Lookup.|
     |**Description**|Enter a unique description for the new enrichment integration.|
 
-    ![Create enrichment integration form](../image/enrich-threatlook-new.png)
+    ![Create enrichment integration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-threatlook-new.png)
 
 6.  In the Integration Configuration section, configure the integration details based on your requirements.
 
@@ -80,13 +80,13 @@ This section displays cards for each of the configured integration implementatio
     The system enables the enrichment integration. You can also enable, disable, or delete a particular enrichment integration by using the Actions menu of the required integration tile on the Catalog page or the Enrichment Integrations page.
 
 
--   **[View Threat Lookup Reputation Calculators](view-threat-lookup-reputation-calculators.md)**  
+-   **[View Threat Lookup Reputation Calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-threat-lookup-reputation-calculators.md)**  
 You can view the Threat Lookup Finding Calculator to calculate the observable findings for your integration.
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-enrichment-integrations.md)
 
 **Related topics**  
 
 
-[View Threat Lookup Reputation Calculators](view-threat-lookup-reputation-calculators.md)
+[View Threat Lookup Reputation Calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-threat-lookup-reputation-calculators.md)
 

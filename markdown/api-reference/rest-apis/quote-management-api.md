@@ -29,7 +29,7 @@ The Quote Management API creates or updates data in the following tables:
 -   Quote Line Characteristic \[sn\_quote\_mgmt\_core\_quote\_line\_characteristic\]
 -   Quote Pricing Adjustment \[sn\_quote\_mgmt\_core\_pricing\_adjustment\]
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## Quote Management API - DELETE /sn\_tmf\_api/quote\_management\_api/quote/\{id\}
 
@@ -72,7 +72,7 @@ Table: Quote \[sn\_quote\_mgmt\_core\_quote\]
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -84,7 +84,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -202,7 +202,7 @@ Default: 0
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -254,7 +254,7 @@ For paginated queries, this header specifies the total number of records availab
 </td></tr></tbody>
 </table>### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table id="table_abf_sn5_4sb"><thead><tr><th>
 
@@ -1027,7 +1027,7 @@ Table: Quote \[sn\_quote\_mgmt\_core\_quote\]
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -1039,7 +1039,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table id="table_abf_sn5_4sb"><thead><tr><th>
 
@@ -2268,7 +2268,7 @@ Type of resource. This value is always `Quote`. This information isn’t stored.
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -2281,7 +2281,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table id="table_xfv_2vk_5rb"><thead><tr><th>
 
@@ -3902,7 +3902,7 @@ Type of resource. This value is always `Quote`. This information isn’t stored.
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -3914,7 +3914,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table id="table_kmf_3jm_gqb"><thead><tr><th>
 

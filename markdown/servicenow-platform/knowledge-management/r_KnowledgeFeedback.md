@@ -26,7 +26,7 @@ You can submit feedback for knowledge articles in these ways:
 
 Users can view comments directly on the article. Knowledge managers can view the other types of feedback by navigating to **Knowledge** &gt; **Feedback**.
 
-**Note:** To know more about Knowledge article view properties and rating options that appear with articles, see [Knowledge article view properties](r_KnowledgeProperties.md#).
+**Note:** To know more about Knowledge article view properties and rating options that appear with articles, see [Knowledge article view properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md#).
 
 Administrators and knowledge managers can disable some feedback options using fields on the Knowledge Base form. Administrators can configure feedback options using properties.
 
@@ -62,14 +62,14 @@ Knowledge comments at the bottom of the article use Live Feed to enable a conver
 
 **Note:** Unauthenticated users and users with only the snc\_external role can’t add or view attachments for comments.
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 
 **Related topics**  
 
 
-[Automating feedback management to improve content](../concept/actionable-knowledge-feedback.md)
+[Automating feedback management to improve content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/actionable-knowledge-feedback.md)
 
-[Request a knowledge base](../task/t_RequestAKnowledgeBase.md)
+[Request a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_RequestAKnowledgeBase.md)
 
-[Create a knowledge article from an incident in ITSM Agent Workspace](../task/create-knowledge-article.md)
+[Create a knowledge article from an incident in ITSM Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-knowledge-article.md)
 

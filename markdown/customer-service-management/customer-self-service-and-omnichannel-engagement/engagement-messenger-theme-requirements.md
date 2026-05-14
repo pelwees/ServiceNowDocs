@@ -17,7 +17,7 @@ You can set a theme that you can apply to an Engagement Messenger module. A them
 
 You can select the theme for your Engagement Messenger in the Appearance section of the guided configuration.
 
-![Appearance section of the Engagement Messenger guided configuration. Use the Theme field to set the style of Engagement Messenger.](../image/em-appearance-tab.png "Engagement Messenger theme")
+![Appearance section of the Engagement Messenger guided configuration. Use the Theme field to set the style of Engagement Messenger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-appearance-tab.png "Engagement Messenger theme")
 
 A theme that you want to use for your messenger module must meet the following criteria:
 

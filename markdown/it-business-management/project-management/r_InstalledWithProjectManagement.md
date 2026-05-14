@@ -205,5 +205,5 @@ Generate the status report as read-onlysn\_pw.doc\_status\_report\_read\_only
 The property restrict edits in the status report. The property sets the status report to read-only.Default value: true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Project Management reference](project-management-reference.md)
+</table>**Parent Topic:**[Project Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-management-reference.md)
 

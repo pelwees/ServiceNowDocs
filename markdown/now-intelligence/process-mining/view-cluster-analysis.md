@@ -25,7 +25,7 @@ View a completed cluster analysis one of these ways.
 
 In the Cluster analysis results dialog, the top biggest clusters and the high quality clusters are displayed.
 
-![Cluster analysis results dialog](../image/cluster-analysis-results.png)
+![Cluster analysis results dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/cluster-analysis-results.png)
 
 The results dialog shows the title of the connection or activity, or the number of routes the analysis was performed on. Results show these statistics for the top biggest and high-quality clusters.
 
@@ -68,9 +68,9 @@ To see further details about clusters, including clusters beyond the top three l
 
 You can use a treemap visualization to help you better understand different aspects of the clusters, and determine which clusters to focus on first. The treemap plot appears on the Cluster Visualization tab.
 
-![Clustering treemap](../image/clustering-treemap-new.png)
+![Clustering treemap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/clustering-treemap-new.png)
 
 For additional information on using a treemap, see [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md).
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/cluster-analysis.md)
 

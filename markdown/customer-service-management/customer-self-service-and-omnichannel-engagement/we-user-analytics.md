@@ -34,7 +34,7 @@ When you launch Usage Insights it displays three tabs based on the selected All 
     This tab enables you to filter and view tracked user interactions for your Web Embeddables components embedded on third-party websites.
 
 
-![Dashboard displaying insights from overview, dashboard, and events tabs.](../image/we-analytics.gif "Web Embeddables dashboard overview")
+![Dashboard displaying insights from overview, dashboard, and events tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-analytics.gif "Web Embeddables dashboard overview")
 
 ## Metrics across the Web Embeddables module
 
@@ -42,7 +42,7 @@ The Overview tab provides key insights into user activity and engagement for you
 
 Select your module from the All Applications from the applications list to see these metrics simultaneously.
 
-![Usage Insights Overview dashboard displays key engagement metrics for Web Embeddables modules with filters for date range, user type, user activity, and more.](../image/we-overview-analytics.png)
+![Usage Insights Overview dashboard displays key engagement metrics for Web Embeddables modules with filters for date range, user type, user activity, and more.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-overview-analytics.png)
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -207,7 +207,7 @@ When you launch Usage Insights, it gives you an option to select the module from
 
 The Events tab enables you to filter a list of tracked user interactions captured by all Web Embeddables components across enabled Usage Insights applications. It displays a list of user interactions such as name of component events, total occurrences, active users, and event type. You can also export the data.
 
-In the Events search bar, enter `[WE]` to filter and display only Web Embeddables components in the list. This prefix identifies all embedded components tracked by Usage Insights and makes it easy to isolate Web Embeddables components from other application events. To narrow your search to a specific component, enter `[WE]` followed by the component name.![Usage Insights Events page shows Web Embeddables component events list with search functionality, displaying event names, total occurrences, active users, and configurable filters for analysis.](../image/WE-events-dashboard.png)
+In the Events search bar, enter `[WE]` to filter and display only Web Embeddables components in the list. This prefix identifies all embedded components tracked by Usage Insights and makes it easy to isolate Web Embeddables components from other application events. To narrow your search to a specific component, enter `[WE]` followed by the component name.![Usage Insights Events page shows Web Embeddables component events list with search functionality, displaying event names, total occurrences, active users, and configurable filters for analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/WE-events-dashboard.png)
 
 ## Event view of a component
 
@@ -284,5 +284,5 @@ Users can opt in or opt out of Usage Insights advanced tracking at any time thro
 **Related topics**  
 
 
-[Web Embeddables component events](../reference/we-events-detail.md)
+[Web Embeddables component events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/we-events-detail.md)
 

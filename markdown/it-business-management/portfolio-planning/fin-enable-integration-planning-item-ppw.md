@@ -29,6 +29,6 @@ Role required: admin
 
 4.  Set the Active field to **true** for dmn\_demand and pm\_project.
 
-    ![Integration for internal planning item.](../../spw-financials/images/fin-integration-internal-planning-item-ppw.png)
+    ![Integration for internal planning item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-integration-internal-planning-item-ppw.png)
 
 

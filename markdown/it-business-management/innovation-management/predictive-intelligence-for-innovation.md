@@ -67,16 +67,16 @@ Suggests related ideas based on the **Title** and **Description** fields. You ca
 -   The Related Ideas section on the Ideas page in the Idea Portal.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Innovation Management](exploring-innovation-management.md)
+</table>**Parent Topic:**[Exploring Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/exploring-innovation-management.md)
 
 **Related topics**  
 
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Train the similarity solution for Innovation Management to find similar ideas](../task/train-similarity-solution-im.md)
+[Train the similarity solution for Innovation Management to find similar ideas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/train-similarity-solution-im.md)
 
 [Submit an idea using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-idea.md)
 
-[PPM PIWB template - Find similar ideas](../../itbm-PI-workbench/task/ppm-piwb-idea.md)
+[PPM PIWB template - Find similar ideas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../../itbm-PI-workbench/task/ppm-piwb-idea.md)
 

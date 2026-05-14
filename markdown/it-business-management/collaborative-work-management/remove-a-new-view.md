@@ -27,11 +27,11 @@ Role required: sn\_cwm.cwm\_user
 
 3.  From the view switcher, select a view that you want to delete.
 
-    ![View switcher in CWM Board.](../images/cwm-views-switcher.png)
+    ![View switcher in CWM Board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-views-switcher.png)
 
-4.  From the More view options menu \(![More view options icon.](../images/cwm-icon-board-more-options.png)\), select **Delete view**.
+4.  From the More view options menu \(![More view options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-board-more-options.png)\), select **Delete view**.
 
-    ![Delete view option.](../images/cwm-views-delete-view.png)
+    ![Delete view option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-views-delete-view.png)
 
 5.  Select **Delete** to confirm.
 
@@ -40,5 +40,5 @@ Role required: sn\_cwm.cwm\_user
 
 The view is deleted and no longer available in the view switcher for this Board.
 
-**Parent Topic:**[Board views in CWM](../concept/board-views-in-cwm.md)
+**Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/board-views-in-cwm.md)
 

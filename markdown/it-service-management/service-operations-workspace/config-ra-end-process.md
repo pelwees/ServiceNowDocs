@@ -25,7 +25,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 2.  Create a MECM script with the name `EndProcess`.
 
-    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](create-mecm-script.md).
+    For more information, see [Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md).
 
 3.  Provide the following code in the script block.
 
@@ -48,10 +48,10 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 7.  In the **Action input** field, add the script GUID.
 
-    ![MECM End Process](../image/mecm-end-process.png)
+    ![MECM End Process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mecm-end-process.png)
 
 8.  Click **Save**.
 
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

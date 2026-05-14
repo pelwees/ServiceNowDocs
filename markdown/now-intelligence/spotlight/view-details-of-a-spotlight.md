@@ -36,7 +36,7 @@ The Spotlight record opens. In the Spotlight Audits related list, you can see wh
 
 Consider the Spotlight record for Incident INC0006831, which had a Spotlight score of 1,200 against a threshold of 1,000.
 
-![The Spotlights list showing the preview of the Spotlight for Incident INC0006831](../image/spotlight-record-entry.png "Spotlights list with selected record")
+![The Spotlights list showing the preview of the Spotlight for Incident INC0006831](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-record-entry.png "Spotlights list with selected record")
 
 Opening the Spotlight record, you see that the following criteria weights contributed to the total score:
 
@@ -50,5 +50,5 @@ Opening the Spotlight record, you see that the following criteria weights contri
 |Incidents older than 90 days|25|
 |TOTAL SCORE:|1,200|
 
-**Parent Topic:**[Ranking records with Spotlight](../concept/spotlight.md)
+**Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../concept/spotlight.md)
 

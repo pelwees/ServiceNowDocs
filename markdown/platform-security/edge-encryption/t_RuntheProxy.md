@@ -55,9 +55,9 @@ Perform the following steps from the command line as admin:1.  `cd` to `ServerNa
 </table>2.  Check the log on the proxy server to verify that the proxy is running.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-**Previous topic:**[Set the proxy server initial memory limit and upper bound memory limit](increase-memory.md)
+**Previous topic:**[Set the proxy server initial memory limit and upper bound memory limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/increase-memory.md)
 
-**Next topic:**[Obfuscate passwords in the properties file](t_SetUpPasswordEncryption.md)
+**Next topic:**[Obfuscate passwords in the properties file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpPasswordEncryption.md)
 

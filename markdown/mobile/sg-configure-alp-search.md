@@ -34,7 +34,7 @@ Role required: admin
     1.  Select **Choose**.
     2.  In the **Choose an item** dialog box, select **Homepage Search - Catalog, Knowledge, People**.
     3.  Select **Apply**.
-    ![Choose an item dialog box with Homepage Search - Catalog, Knowledge, People selected](../image/enabl-global-search-screen-launcher.png)
+    ![Choose an item dialog box with Homepage Search - Catalog, Knowledge, People selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/enabl-global-search-screen-launcher.png)
 
 5.  Select **Save** in the launcher screen form.
 

@@ -78,14 +78,14 @@ Description
 Brief description about the milestone.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Add dependencies for roadmap items](../../spw-roadmap/task/create-planning-item-dependencies-in-a-roadmap.md)
+[Add dependencies for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-planning-item-dependencies-in-a-roadmap.md)
 
-[Update roadmap item dependencies](../../spw-roadmap/task/manage-planning-item-dependencies-apw.md)
+[Update roadmap item dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/manage-planning-item-dependencies-apw.md)
 
-[Customizing the dependencies display on the roadmap in Strategic Planning Workspace](../concept/customizing-dependencies-display-on-roadmap.md)
+[Customizing the dependencies display on the roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/customizing-dependencies-display-on-roadmap.md)
 

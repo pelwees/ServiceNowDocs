@@ -54,7 +54,7 @@ A new CIM initiative added from a Process Mining workspace is created in the pro
     **Note:** Cascade domain changes are not supported.
 
 
-**Parent Topic:**[Process Mining reference](process-mining-reference.md)
+**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-reference.md)
 
 **Related topics**  
 

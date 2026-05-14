@@ -168,15 +168,15 @@ Quantity of a product that is sold to a customer.
 
     Install the Customer Life Cycle Management Self service plugin \(sn\_clm\_selfservice\) to perform the **Modify**, **Suspend**, **Resume**, and **Disconnect** actions. The flows can be performed only by the customer personas and only on the sold products where the **Contact** field is the same as the logged in user.
 
-    -   Modify a sold product. To learn how to modify a sold product, see [Modify a sold product and hierarchy](modify-a-sold-product.md)
-    -   Suspend a sold product. To learn how to suspend a sold product, see [Supending sold products](../concept/supending_sold_products.md#).
-    -   Resume a sold product. To learn how to resume a sold product, see [Resuming sold products](../concept/resuming_sold_products.md#).
-    -   Disconnect a sold product. To learn how to disconnect a sold product, see [Disconnecting sold products](../concept/disconnecting_sold_products.md#)
+    -   Modify a sold product. To learn how to modify a sold product, see [Modify a sold product and hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/modify-a-sold-product.md)
+    -   Suspend a sold product. To learn how to suspend a sold product, see [Supending sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/supending_sold_products.md#).
+    -   Resume a sold product. To learn how to resume a sold product, see [Resuming sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/resuming_sold_products.md#).
+    -   Disconnect a sold product. To learn how to disconnect a sold product, see [Disconnecting sold products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/disconnecting_sold_products.md#)
 
 **Related topics**  
 
 
-[Activate Customer Life Cycle Management Self-Service](activate-customer-life-cycle-management-self-service.md)
+[Activate Customer Life Cycle Management Self-Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/activate-customer-life-cycle-management-self-service.md)
 
-[View Product Inventory information on Business Portal](view-product-inventory-information-on-business-portal.md)
+[View Product Inventory information on Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/view-product-inventory-information-on-business-portal.md)
 

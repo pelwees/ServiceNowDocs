@@ -98,7 +98,7 @@ Select the **Unlock Channel Users** icon, and add the users who can access this 
 Select the **Unlock Channel User Groups** icon, and add the user groups who can access this channel from the lookup list. You can also use the **Add me** icon to add yourself.Select the **Lock Channel User Groups** icon to lock the selected list of channel user groups.
 
 </td></tr></tbody>
-</table>    ![Slack Chat Channel Configuration](../image/msim-chat-channel-config-slack.png "Slack Chat Channel Configuration")
+</table>    ![Slack Chat Channel Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-chat-channel-config-slack.png "Slack Chat Channel Configuration")
 
 9.  Select **Submit**.
 
@@ -107,5 +107,5 @@ Select the **Unlock Channel User Groups** icon, and add the user groups who can 
 
 The chat channel is now created and the users are assigned to those chat channel groups. You can view the collaboration chat activities both in Slack and in the Collaboration activity stream of the MSIM Workspace with the organized chat channel hierarchy structure as configured in the Chat Channel provider configuration.
 
-**Parent Topic:**[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)
+**Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-slack-chat-connector-msi.md)
 

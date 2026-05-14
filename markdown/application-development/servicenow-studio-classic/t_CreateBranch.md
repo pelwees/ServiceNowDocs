@@ -19,10 +19,10 @@ Application developers can create a branch to work on a new version of an existi
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 -   Role required: admin or sn\_group\_creator.app\_creator
--   [Legacy - Link an application or application-customization to source control](t_LinkAnApplicationToSourceControl.md)
+-   [Legacy - Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/t_LinkAnApplicationToSourceControl.md)
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Try building and editing apps in the current version of ServiceNow Studio instea
 
     Studio opens the Create Branch window.
 
-    ![Create Branch window](../image/CreateBranch.png)
+    ![Create Branch window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateBranch.png)
 
 2.  Enter the **Branch Name**.
 
@@ -40,7 +40,7 @@ Try building and editing apps in the current version of ServiceNow Studio instea
 
     Studio creates the branch.
 
-    ![Create Branch window showing the success message.](../image/CreateBranchSuccess.png)
+    ![Create Branch window showing the success message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateBranchSuccess.png)
 
 5.  Click **Close**.
 
@@ -49,5 +49,5 @@ Try building and editing apps in the current version of ServiceNow Studio instea
 
 Commit changes to the new branch.
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_SourceControlIntegration.md)
 

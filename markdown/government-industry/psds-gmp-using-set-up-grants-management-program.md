@@ -93,7 +93,7 @@ Role required: admin
 
 18. Select which Guided Decision tree should be used in the applicant's pre-eligibility screener, displayed before the start of their proposal.
 
-    To create a pre-eligibility screener questionnaire, choose **Open the Decision Trees list** and follow the prompts. For more information on creating an eligibility decision tree for Grants Management, see [Configure pre-eligibility questions in Grants Management](psds-config-gmp-config-pre-eligibility.md).
+    To create a pre-eligibility screener questionnaire, choose **Open the Decision Trees list** and follow the prompts. For more information on creating an eligibility decision tree for Grants Management, see [Configure pre-eligibility questions in Grants Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-config-pre-eligibility.md).
 
 19. Select which conditional policy \(PACE\) framework should be used to screen grant proposals.
 
@@ -119,7 +119,7 @@ Role required: admin
 
     -   Single-choice and text area type questions
     -   Additional conditional questions based on single-choice answers
-    To create a compliance form, you can use the Smart Assessment feature. For more information on the Smart Assessment feature, see [Configure the Smart Assessment Engine for Grants Management](psds-config-gmp-smart-assessment-engine.md).
+    To create a compliance form, you can use the Smart Assessment feature. For more information on the Smart Assessment feature, see [Configure the Smart Assessment Engine for Grants Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-smart-assessment-engine.md).
 
 26. Select which terms and conditions the applicant should see in the "Sign and Submit" section of their proposal, then choose **Mark Complete** to move to the next activity.
 

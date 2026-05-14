@@ -21,7 +21,7 @@ Dispatchers can use the calendar in Dispatcher Workspace with a single time zone
 
 To use a single time zone you must have **Show multiple time zone rows** inactive, and no entries in the **Select time zones for calendar** field.
 
-![single time zone in dispatcher workspace](../image/one-time-zone.png)
+![single time zone in dispatcher workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/one-time-zone.png)
 
 ## Using a single time zone with multiple selection options
 
@@ -29,9 +29,9 @@ Dispatcher Workspace can also be configured to show a single time zone on the ca
 
 To use single time zone with multiple selections, you must have **Show multiple time zone rows** inactive with multiple time zones entries in the **Select time zones for calendar** field.
 
-For more information, see [Change the time zone in Dispatcher Workspace](../task/change-timezone-calendar.md).
+For more information, see [Change the time zone in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/change-timezone-calendar.md).
 
-![change single selection in dispatcher workspace](../image/select-one-time-zone.png)
+![change single selection in dispatcher workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/select-one-time-zone.png)
 
 ## Using multiple time zones on the calendar
 
@@ -39,17 +39,17 @@ Dispatchers can choose to show multiple time zones on the calendar, with several
 
 To use multiple time zones you must have **Show multiple time zone rows** enabled, and multiple entries in the **Select time zones for calendar** field.
 
-For more information, see [Show multiple time zones in Dispatcher Workspace](../task/use-stacked-time-zones.md).
+For more information, see [Show multiple time zones in Dispatcher Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/use-stacked-time-zones.md).
 
-![stacked time zones in dispatcher workspace](../image/stacked-time-zone.png)
+![stacked time zones in dispatcher workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/stacked-time-zone.png)
 
 ## Resource time indicators
 
 Resource time indicators show all the technicians' schedules lined up and not offset based on the time zone they're in. The different time zones that technicians are in are indicated by a segmented time indicator.
 
-Dispatchers can turn on Resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](../task/dispatcher-wrkspc-settings.md).
+Dispatchers can turn on Resource time indicators in the settings in Dispatcher Workspace. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/dispatcher-wrkspc-settings.md).
 
-![equalized time zones in dispatcher workspace](../image/time-zone-agnostic.png)
+![equalized time zones in dispatcher workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/time-zone-agnostic.png)
 
 When the resource time indicators are turned on:
 

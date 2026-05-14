@@ -15,19 +15,19 @@ With the ServiceNow Platform, service providers \(SPs\) can provide their custom
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Domain Separation.](../concept/c_DomainSeparation.md)
+[Explore ![Exploring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-explore.png) Learn about Domain Separation.](../concept/c_DomainSeparation.md)
 
 </td><td>
 
-[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Domain Separation.](../concept/c_DomainSeparationSetup.md)
+[Configure ![Configuring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-set-up.png) Configure Domain Separation.](../concept/c_DomainSeparationSetup.md)
 
 </td></tr><tr><td>
 
-[Reference ![Reference](../../../common/image/icon-reference.png) Get details about Domain Separation.](domain-separation-help.md)
+[Reference ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-reference.png) Get details about Domain Separation.](domain-separation-help.md)
 
 </td><td>
 
-[Analyze ![Analyze](../../../common/image/icon-workspace.png) Learn more about how to analyze Domain Separation](domain-separation-center.md)
+[Analyze ![Analyze](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-workspace.png) Learn more about how to analyze Domain Separation](domain-separation-center.md)
 
 </td></tr></tbody>
 </table>

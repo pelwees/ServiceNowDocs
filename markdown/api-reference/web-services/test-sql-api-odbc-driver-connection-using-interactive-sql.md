@@ -47,8 +47,8 @@ Role required: local administrator on client machine
 
     Include the semicolon at the end of your query statement. Otherwise, the system displays a `'Cont>'` prompt.
 
-    ![Sample SQL Query.](../../odbc-driver/image/SampleSQLQuery.png)
+    ![Sample SQL Query.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../odbc-driver/image/SampleSQLQuery.png)
 
 
-**Parent Topic:**[Configuring SQL API](../concept/configuring-sql-api.md)
+**Parent Topic:**[Configuring SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-sql-api.md)
 

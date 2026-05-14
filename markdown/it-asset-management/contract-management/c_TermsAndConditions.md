@@ -21,27 +21,27 @@ Users with the contract\_manager role can read contract history and add terms an
 
 There are three procedures involved in adding terms and conditions to a contract:
 
--   **[Create a terms and conditions record](../task/t_CreateATermsAndConditionsRecord.md)**  
+-   **[Create a terms and conditions record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_CreateATermsAndConditionsRecord.md)**  
 You can create a terms and conditions record to add to a contract.
--   **[Add terms and conditions to a contract](../task/t_AddTermsAndConditionsToAContract.md)**  
+-   **[Add terms and conditions to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_AddTermsAndConditionsToAContract.md)**  
 After you create a terms and conditions record, add the record to a contract that is in the Awaiting Review, Rejected, Renewal Rejected, or Extension Rejected substate.
--   **[Build a terms and conditions document within a contract](../task/t_BuildTandCDocWinContract.md)**  
+-   **[Build a terms and conditions document within a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_BuildTandCDocWinContract.md)**  
 After adding one or more terms and conditions records to a contract, you can build a terms and conditions document within the contract.
 
-**Parent Topic:**[Contracts](c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_Contracts.md)
 
 **Related topics**  
 
 
-[Create a contract](../task/t_CreateAContract.md)
+[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_CreateAContract.md)
 
-[Adjust a contract](../task/t_AdjustAContract.md)
+[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_AdjustAContract.md)
 
-[Verify contract administrator assignment for notification](../task/t_SendAContractNotification.md)
+[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_SendAContractNotification.md)
 
-[Send the contract for approval](../task/t_SendTheContractForApproval.md)
+[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_SendTheContractForApproval.md)
 
-[Create a contract rate card](../task/t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_ContractRateCardsAndExpenseLines.md)
 
-[Monitor a contract](../task/t_MonitoringContracts.md)
+[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../task/t_MonitoringContracts.md)
 

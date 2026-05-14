@@ -50,17 +50,17 @@ Role required: sn\_asc.alumni
 ## What to do next
 
 -   Use ![](../image/alumni-plus-icon.png) icon to add additional employment details.
--   Use ![Edit row icon.](../../legal-digital-forensics/image/rename-icon.png) to edit the existing employment details.
+-   Use ![Edit row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../legal-digital-forensics/image/rename-icon.png) to edit the existing employment details.
 -   Use the **Delete** button to delete an existing employment information.
 
-**Parent Topic:**[Using your Alumni Center](../concept/asc-use.md)
+**Parent Topic:**[Using your Alumni Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../concept/asc-use.md)
 
 **Related topics**  
 
 
-[Register on the Alumni Center website](alumni-self-registration.md)
+[Register on the Alumni Center website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/alumni-self-registration.md)
 
-[Alumni job preferences](alumni-job-preferences.md)
+[Alumni job preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/alumni-job-preferences.md)
 
-[Edit personal details](edit-personal-details.md)
+[Edit personal details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/edit-personal-details.md)
 

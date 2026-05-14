@@ -33,7 +33,7 @@ KPI Signals uses standard 3-sigma parameters. "Three-sigma" means that the indic
 
 The following diagram shows the workflow for setting up KPI Signals for a Performance Analytics indicator, and the workflow for responding to a signal notification.
 
-![How an administrator sets up KPI Signals for an indicator, and the steps a responsible user takes after receiving a signal. For details, refer to the following description.](../image/kpi-signals-workflow.png "Setting up and using KPI Signals")
+![How an administrator sets up KPI Signals for an indicator, and the steps a responsible user takes after receiving a signal. For details, refer to the following description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-workflow.png "Setting up and using KPI Signals")
 
 1.  Process owner requests an administrator to enable KPI Signals for an indicator.
 2.  Administator makes themselves a responsible user for the indicator. Doing so activates KPI Signals monitoring for the indicator.
@@ -46,19 +46,19 @@ The following diagram shows the workflow for setting up KPI Signals for a Perfor
 
 ## Other exploration topics
 
--   **[Signal, no signal, and anti-signal](signal-no-signal-anti-signal.md)**  
+-   **[Signal, no signal, and anti-signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/signal-no-signal-anti-signal.md)**  
 When KPI Signals detects abnormal variation in the scores of a KPI, it generates a signal. When KPI Signals does not detect abnormal variation for a significant amount of time, it generates an "anti-signal." The anti-signal lets you know that your workflow is under control.
--   **[View KPI Signals](../task/view-kpi-signals.md)**  
+-   **[View KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/view-kpi-signals.md)**  
 Access KPI Signals from the KPI Details page.
 
-**Parent Topic:**[KPI Signals](process-behavior-charts-for-kpis.md)
+**Parent Topic:**[KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md)
 
 **Related topics**  
 
 
-[Configuring KPI Signals for an indicator](configuring-kpi-signals.md)
+[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-[Using KPI Signals](using-kpi-signals.md)
+[Using KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/using-kpi-signals.md)
 
-[KPI Signals roles](kpi-signals-roles.md)
+[KPI Signals roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-signals-roles.md)
 

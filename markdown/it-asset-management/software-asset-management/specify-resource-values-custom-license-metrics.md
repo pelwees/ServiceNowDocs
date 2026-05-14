@@ -48,5 +48,5 @@ Role required: sam\_user
 
 When subsequent reconciliations run, the Software Asset Management application determines the license compliance position of the associated software product by comparing the value of the **Units consumed** field against the value of the corresponding **Licenses required** field in the License Metric Results \[samp\_license\_metric\_result\] table.
 
-**Parent Topic:**[Add a custom license metric](add-custom-license-metric.md)
+**Parent Topic:**[Add a custom license metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-custom-license-metric.md)
 

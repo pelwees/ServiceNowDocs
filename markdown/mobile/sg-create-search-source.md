@@ -36,7 +36,7 @@ In these steps, you create the search source to define what search results your 
     |Table|The table for this search source.|
     |Conditions|Conditions under which a record from the selected table appears in search results. For example, if you select &lt;Active&gt;&lt;is&gt;&lt;true&gt;, only active records appear in your search results.|
 
-    A search source configured for the User \[sys\_user\] table.![Search source for the User, sys_user, table example.](../image/example-search-source.png)
+    A search source configured for the User \[sys\_user\] table.![Search source for the User, sys_user, table example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/example-search-source.png)
 
 4.  Select **Save**.
 
@@ -45,5 +45,5 @@ In these steps, you create the search source to define what search results your 
     Note that additional search sources can impact the performance of your searches.
 
 
-**Parent Topic:**[Configure search criteria](../concept/sg-create-custom-search.md)
+**Parent Topic:**[Configure search criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-create-custom-search.md)
 

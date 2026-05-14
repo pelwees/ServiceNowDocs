@@ -17,7 +17,7 @@ Delete an application from the application repository so that it's no longer ava
 
 ## Before you begin
 
--   [Publish an application to the application repository](t_PublishAppsToTheAppRepository.md)
+-   [Publish an application to the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/t_PublishAppsToTheAppRepository.md)
 -   You can delete an application only if the application is not installed on any of your company instances. Uninstall the application on all your instances before deleting it from the application repository.
 
 Role required: Primary customer admin of the account
@@ -32,7 +32,7 @@ Role required: Primary customer admin of the account
 
 4.  Select the expand arrow next to your name and select **My app repos**.
 
-    ![Expanded user menu with my app repos option highlighted.](../image/app-manager-open-app-repo.png)
+    ![Expanded user menu with my app repos option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/app-manager-open-app-repo.png)
 
 5.  Next to the application listing, click **Select Action** and then click **Flag for Deletion**.
 

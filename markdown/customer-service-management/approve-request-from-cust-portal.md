@@ -19,7 +19,7 @@ Role required: snc\_external
 
 ## About this task
 
-A registration request or a change request may require approval from another employee within the same organization. For details on registration request, see [Customer contact self-registration](../concept/c_PortalSelfRegistration.md).
+A registration request or a change request may require approval from another employee within the same organization. For details on registration request, see [Customer contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/c_PortalSelfRegistration.md).
 
 ## Procedure
 

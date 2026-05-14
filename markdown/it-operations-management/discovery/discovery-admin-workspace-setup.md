@@ -75,7 +75,7 @@ The Anomaly Detection settings control how Discovery identifies and surfaces irr
 
 ## IP Address Management \(IPAM\)
 
-The IPAM settings manage how Discovery integrates with your IPAM sources, controlling schedule creation and connection behavior within the workspace. For more information, see [IPAM Discovery integration](ipv6-ipam-disco-integration.md).
+The IPAM settings manage how Discovery integrates with your IPAM sources, controlling schedule creation and connection behavior within the workspace. For more information, see [IPAM Discovery integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ipv6-ipam-disco-integration.md).
 
 **Important:** This feature requires the Australia, ZP8 or later, or YP13 or later version of the ServiceNow AI Platform. You must also install and configure Service Graph Connector Central \(SGC Central\) v2.4.0, as well as Service Graph Connector for Infoblox v1.5.0. For more information, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and [Configure Service Graph Connector for Infoblox using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-infoblox-integ.md).
 
@@ -83,7 +83,7 @@ The IPAM settings manage how Discovery integrates with your IPAM sources, contro
 
     Automatically create and manage Discovery schedules based on your IPv6 network infrastructure data stored in IPAM.
 
-    After you install and configure the connectors via SGC Central, use the toggle to enable auto-created schedules. Once enabled, Discovery creates schedules from incoming IPAM data and keeps them updated based on your auto‑creation criteria and IP data refresh settings. Schedules created automatically by IPAM are inactive by default. To activate a schedule created by IPAM, see [Activate auto-created Discovery schedules](../task/activate-auto-disco-schedule.md).
+    After you install and configure the connectors via SGC Central, use the toggle to enable auto-created schedules. Once enabled, Discovery creates schedules from incoming IPAM data and keeps them updated based on your auto‑creation criteria and IP data refresh settings. Schedules created automatically by IPAM are inactive by default. To activate a schedule created by IPAM, see [Activate auto-created Discovery schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/activate-auto-disco-schedule.md).
 
     Use the Auto-creation criteria setting to define how Discovery organizes IPs from your IPAM connections into new Discovery schedules. Discovery evaluates the key that you provide, retrieves the corresponding value from your IPAM data by looking it up in the Key Values \[cmdb\_key\_value\] table, where it searches only subnet records. IPs that share values are assigned to the same schedule, allowing the schedule structure to follow meaningful attributes such as location or environment.
 
@@ -126,7 +126,7 @@ Discovery notifications enable administrators to receive real-time alerts or dai
 
     Enables you to configure where your team receives Discovery notifications to respond quickly to urgent anomalies, errors, and failures.
 
-    To integrate your Microsoft Teams channel or email for notifications, select **Configure** the first time you set up the integration, or use the edit icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\) to update it at any time. For Microsoft Teams, enter a channel name and URL in the corresponding fields.
+    To integrate your Microsoft Teams channel or email for notifications, select **Configure** the first time you set up the integration, or use the edit icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\) to update it at any time. For Microsoft Teams, enter a channel name and URL in the corresponding fields.
 
     **Note:** The channel name is unique to Discovery Admin Workspace, but the channel URL must be obtained directly from Microsoft Teams.
 
@@ -148,7 +148,7 @@ Discovery notifications enable administrators to receive real-time alerts or dai
     -   **Critical anomalies**: Notifies you when anomaly detection identifies a schedule that has failed to run.
     -   **MID cluster down**: Notifies you when a Discovery-specific MID cluster goes down.
     -   **MID server down**: Notifies you when a Discovery-specific MID Server goes down.
-    To configure a notification, select the **Edit** icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\) or the **Name** hyperlink. You can also use in-line editing within the table.
+    To configure a notification, select the **Edit** icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\) or the **Name** hyperlink. You can also use in-line editing within the table.
 
     By default, all Microsoft Teams and email notifications are enabled. The notification frequency is set to **Immediately** for all notifications, except critical anomalies, which is set to **Daily**.
 
@@ -188,11 +188,11 @@ The browser extension must be enabled on the host.
 
     To remove a URL from the targeted monitoring list, select the corresponding check box and then select **Remove**. Confirm the removal when prompted. The URL is removed from the list immediately and is no longer actively monitored. Historical monitoring data for the removed URL is retained for 30 days before being deleted.
 
-    Select the filter icon \(![filter icon](../image/filter-icon-daw.png)\) to apply filters to the table.
+    Select the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/filter-icon-daw.png)\) to apply filters to the table.
 
 -   **URL Discovery Insights**
 
-    Select the link icon to access the URL Discovery insights dashboard, where you can view captured data and analytics for accessed URLs. For more information, see [URL Discovery Insights dashboard](url-disco-insights.md).
+    Select the link icon to access the URL Discovery insights dashboard, where you can view captured data and analytics for accessed URLs. For more information, see [URL Discovery Insights dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/url-disco-insights.md).
 
 -   **X devices with ACC agent installed**
 

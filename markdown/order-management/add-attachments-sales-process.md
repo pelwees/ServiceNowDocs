@@ -72,7 +72,7 @@ Drag and drop the file from your system to the Attachments pane.
 
 ## What to do next
 
-Download, rename, or delete attachments. For more information, see [Manage attachments for a sales process record](manage-attachments-l2c-process-management.md).
+Download, rename, or delete attachments. For more information, see [Manage attachments for a sales process record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/manage-attachments-l2c-process-management.md).
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-lead-cash-process-management.md)
 

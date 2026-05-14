@@ -294,5 +294,5 @@ San Diego
 **Related topics**  
 
 
-[Quick start tests for Employee Center](quick-start-tests-employee-center.md)
+[Quick start tests for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/quick-start-tests-employee-center.md)
 

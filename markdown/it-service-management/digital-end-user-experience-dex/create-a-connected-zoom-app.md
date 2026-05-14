@@ -36,7 +36,7 @@ Creating the connected app is a one-time activity.
 
 5.  Double-click the default name of the app and update the name.
 
-    ![Update general app name.](zoom-spk-app-name.png)
+    ![Update general app name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom-spk-app-name.png)
 
 6.  Select **Admin-managed**.
 
@@ -44,7 +44,7 @@ Creating the connected app is a one-time activity.
 
 8.  Under the **App Credentials** section, copy the Client ID and Client secret and store them at a secure place.
 
-    ![Client ID and client secret.](zoom-spk-client-id-secret.png)
+    ![Client ID and client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom-spk-client-id-secret.png)
 
 9.  Under the **OAuth Information** section, complete the following steps.
 
@@ -58,7 +58,7 @@ Creating the connected app is a one-time activity.
 
         The following example shows the screen that you use to generate credentials for the OAuth app.
 
-        ![OAuth credentials configuration for Zoom spokes.](zoom-app-conf.png)
+        ![OAuth credentials configuration for Zoom spokes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom-app-conf.png)
 
         **Note:** To learn more about the difference between the Redirect URL for OAuth and the URL that is mentioned in the OAuth allow list, see [Zoom Developer Forum](https://devforum.zoom.us/t/difference-between-redirect-url-and-allow-list-in-app-settings/58709).
 
@@ -82,13 +82,13 @@ Creating the connected app is a one-time activity.
 
     The granular scope appears.
 
-    ![Scope search and find.](zoom-spk-find-scope.png)
+    ![Scope search and find.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom-spk-find-scope.png)
 
 15. Select the scope and then select **Done**.
 
     The granular scope is added.
 
-    ![Granular scope added](Zoom_scope_added.png)
+    ![Granular scope added](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/Zoom_scope_added.png)
 
 16. Repeat the steps to add more granular scopes.
 

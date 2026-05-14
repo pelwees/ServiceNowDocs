@@ -40,17 +40,17 @@ The following list of components are on the Business Location 360 page:
 
 The location information component displays the location information details for the record​. The following example shows a location information component that displays the name and type of the location, the address, email, phone number, and the manager's name.
 
-![Location information such as the location address, phone number, manager's name, and so on.](../image/location-information.png "Location information component")
+![Location information such as the location address, phone number, manager's name, and so on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/location-information.png "Location information component")
 
 The **Email** and **Phone** links are clickable. When you select these links, the information is copied to the clipboard.
 
 **Note:** If your administrator hasn't enabled Computer Telephony Integration \(CTI\), your contact numbers are copied to the clipboard instead of calling the numbers directly​. For more information about integrating Computer Telephony Integration \(CTI\), see [Computer Telephony Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ComputerTelephonyIntegration.md).
 
-On the location information link, navigate to the business location hierarchy view page​ by selecting the view hierarchy icon ![view hierarchy icon.](../image/hierarchy.png).
+On the location information link, navigate to the business location hierarchy view page​ by selecting the view hierarchy icon ![view hierarchy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/hierarchy.png).
 
 The following example shows a business location parent-child hierarchy with multiple nodes.
 
-![Business location parent-child hierarchy with multiple nodes.](../image/business-location-hierarchy.png "Business Location Hierarchy page")
+![Business location parent-child hierarchy with multiple nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/business-location-hierarchy.png "Business Location Hierarchy page")
 
 You can use this page to visualize the parent-child hierarchy structure, search for business locations, and perform different contextual actions on the nodes. You can also perform the following different contextual actions on the node:
 
@@ -66,7 +66,7 @@ You can get the location details of the node that you select. Also, if there’s
 
 The point of contact component displays the primary points of contact that are available at a business location. The following example shows that the point of contact component can display the different points of contact at a business location.
 
-![Different points of contact at a business location.](../image/point-of-contact.png "Point of contact component")
+![Different points of contact at a business location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/point-of-contact.png "Point of contact component")
 
 Selecting **View all** takes you to the Business Location member page where you can get the details of all the points of contact at a business location.
 
@@ -78,14 +78,14 @@ The products installed component displays the information about the install base
 
 **Note:** You can access this component only after your administrator activates the Customer Service Install Base Management plugin \(com.snc.install\_base\).
 
-![Information about the listed install bases at a business location.](../image/products-installed.png "Products installed component")
+![Information about the listed install bases at a business location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/products-installed.png "Products installed component")
 
 If the listed products display **Issue reported** in the highlighted text, it indicates that there’s an active case reported for that install base item. The products within this component are sorted in the following order:
 
 -   Install base items with a recently reported case.
 -   Recently deployed install base items.
 
-You can view the product details or create a case by selecting the Overflow icon ![Overflow icon.](../image/OverflowIcon.png).
+You can view the product details or create a case by selecting the Overflow icon ![Overflow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/OverflowIcon.png).
 
 Selecting **View all** takes you to the **Products installed** page where you can get the details of all the products installed at a business location.
 
@@ -95,7 +95,7 @@ Selecting **View all** takes you to the **Products installed** page where you ca
 
 The services offered component displays the list of services that are offered at a business location. The following example shows the Services offered component that provides information about the list of all service names and the types that are available at a business location.
 
-![List of services that are offered at a business location.](../image/services-offered.png "Services offered component")
+![List of services that are offered at a business location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/services-offered.png "Services offered component")
 
 **Note:** By default, only three services are displayed and these services are sorted in the ascending order.
 
@@ -103,7 +103,7 @@ The services offered component displays the list of services that are offered at
 
 The all staff component displays the list of the staff members who are working at a business location and includes both the internal and external staff members. The following example shows the All staff component.
 
-![List of staff available at a business location with the user name and responsibility.](../image/all-staff.png "All staff component")
+![List of staff available at a business location with the user name and responsibility.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/all-staff.png "All staff component")
 
 Selecting **View all** takes you to the **All staff** page where you can get the details of all the staff members that are available at a business location.
 
@@ -119,7 +119,7 @@ The KPI components are performance analytic indicators that display multiple typ
 
 The following example shows a list of the different KPIs. The list includes the number of P1 cases, the number of cases by priority, and the SLAs that were breached.
 
-![List of different KPIs that includes the number of P1 cases, the number of cases by priority, and the SLAs that were breached.](../image/bl360-KPIs.png "KPIs component")
+![List of different KPIs that includes the number of P1 cases, the number of cases by priority, and the SLAs that were breached.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/bl360-KPIs.png "KPIs component")
 
 These KPIs are filtered to show the current business location-related details. Your administrator can customize these KPIs according to your location's requirements by using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-overview.md).
 
@@ -132,7 +132,7 @@ The task tab component displays the following cases and work- order tabs where y
 
 The following example shows a list of the cases that are associated with a business location.
 
-![List of cases that are associated with a business location.](../image/bl360-task-tab.png "Task tab component")
+![List of cases that are associated with a business location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/bl360-task-tab.png "Task tab component")
 
 **Note:** A maximum of five records are displayed per page.
 
@@ -151,18 +151,18 @@ The customer tab component displays the list of consumers, accounts, and househo
 
 The following example shows a list of the consumers that are associated with a business location.
 
-![List of consumers associated with a business location.](../image/bl360-consumer-tab.png "Customer tab component")
+![List of consumers associated with a business location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/bl360-consumer-tab.png "Customer tab component")
 
 **Note:** A maximum of 10 records are displayed per page.
 
 **Related topics**  
 
 
-[Using Business Location 360](using-the-business-location-360.md)
+[Using Business Location 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-the-business-location-360.md)
 
-[Access Business Location 360 as a customer service agent](../task/access-business-location-360-as-agents.md)
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/access-business-location-360-as-agents.md)
 
-[Access Business Location 360 as a customer service manager](../task/access-business-location-360-as-csm-managers.md)
+[Access Business Location 360 as a customer service manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/access-business-location-360-as-csm-managers.md)
 
-[Access Business Location 360 as a location service agent](../task/access-bl-360-as-loc-serv-agent.md)
+[Access Business Location 360 as a location service agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/access-bl-360-as-loc-serv-agent.md)
 

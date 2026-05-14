@@ -17,11 +17,11 @@ Manage the readiness of KCS articles and comply with regulated information using
 
 For information about the KCS article states, see [KCS v6 Practices Guide](https://library.serviceinnovation.org/KCS/KCS_v6/KCS_v6_Practices_Guide).
 
-For information about all the KCS roles, see [Knowledge Management roles](../reference/r_KnowledgeRoles.md#).
+For information about all the KCS roles, see [Knowledge Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeRoles.md#).
 
 ## Activation information
 
-Activate the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](../task/activate-kcs-capabilties-plugin.md).
+Activate the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-kcs-capabilties-plugin.md).
 
 **Note:** If you are not an admin and has either kcs\_contributor or kcs\_candidate roles, you cannot retire an article.
 
@@ -79,12 +79,12 @@ Archived
 
 The governance state of an article indicates which users can manage articles specific to a regulatory requirement, either experience based or compliance based. Users with contribute access to a knowledge article can modify the value of the **Governance** field.
 
-**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
 **Related topics**  
 
 
-[Create a knowledge article from an incident in ITSM Agent Workspace](../task/create-knowledge-article.md)
+[Create a knowledge article from an incident in ITSM Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-knowledge-article.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-article-workspace.md)
 

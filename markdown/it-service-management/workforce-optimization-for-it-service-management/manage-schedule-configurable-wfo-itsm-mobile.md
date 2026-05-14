@@ -63,12 +63,12 @@ Do this
 2.  Tap the menu icon and then tap **Request time off**.
 3.  In the **Title** field, enter a reason for the time off request.
 4.  In the **Start time** field:
-    1.  Tap the calendar icon![Calendar icon](../image/calendar-icon.png).
+    1.  Tap the calendar icon![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/calendar-icon.png).
     2.  Tap and select the date you want to start taking time off.
     3.  Tap the time field at the top-right corner of the calendar and select the time to start taking your time off.
     4.  Click **OK**.
 5.  In the **End time** field:
-    1.  Tap the calendar icon![Calendar icon](../image/calendar-icon.png).
+    1.  Tap the calendar icon![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/calendar-icon.png).
     2.  Tap and select the date you want to end taking time off.
     3.  Tap the time field at the top-right corner of the calendar and select the time to end your time off.
     4.  Click **OK**.
@@ -109,5 +109,5 @@ Do this
     A notification is sent to the agent to approve your request.
 
 
-**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
+**Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/configurable-agent-schedule-mobile-wfo-itsm.md)
 

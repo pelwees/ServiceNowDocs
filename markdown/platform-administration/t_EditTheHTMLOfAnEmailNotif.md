@@ -25,9 +25,9 @@ Role required: admin
 
 3.  On the form, open the **What it will contain** tab.
 
-4.  In the **Message HTML** field, click the source code icon \(![Source code icon](../image/source-code-icon.png)\) to open the HTML source code editor.
+4.  In the **Message HTML** field, click the source code icon \(![Source code icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/source-code-icon.png)\) to open the HTML source code editor.
 
-    ![The HTML source editor](../image/600pxHTMLSourceEditor.png)
+    ![The HTML source editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/600pxHTMLSourceEditor.png)
 
 5.  Make the needed changes to the HTML.
 
@@ -36,5 +36,5 @@ Role required: admin
 7.  On the form, click **Update**.
 
 
-**Parent Topic:**[Create an email notification](t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 

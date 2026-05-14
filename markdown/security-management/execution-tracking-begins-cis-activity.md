@@ -111,8 +111,8 @@ The output variables contain data that can be used in subsequent activities.
 
 The flow process actions include:
 
--   [Get Supported Security Capabilities action](get-supported-security-capabilities-activity.md)
--   [Capability Execution Tracking- No Impls action](execution-tracking-noimpls-activity.md)
+-   [Get Supported Security Capabilities action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-supported-security-capabilities-activity.md)
+-   [Capability Execution Tracking- No Impls action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/execution-tracking-noimpls-activity.md)
 
-**Parent Topic:**[Security Operations Integrations - Get Network Statistics flow](../task/secops-integration-get-network-stats-workflow.md)
+**Parent Topic:**[Security Operations Integrations - Get Network Statistics flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/secops-integration-get-network-stats-workflow.md)
 

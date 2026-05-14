@@ -51,7 +51,7 @@ The following items are installed with Smart Assessment for Field Service Questi
 -   Script includes
 -   Scheduled job
 
-For more information, see [Smart Assessment components](../reference/smart-assessment-components.md).
+For more information, see [Smart Assessment components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../reference/smart-assessment-components.md).
 
 ## Procedure
 
@@ -71,7 +71,7 @@ For more information, see [Smart Assessment components](../reference/smart-asses
 **Related topics**  
 
 
-[Enable Smart Assessment Questionnaire](enable-smart-assessment-questionnaire.md)
+[Enable Smart Assessment Questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/enable-smart-assessment-questionnaire.md)
 
-[Migrating to Smart Assessment from survey-based questionnaire](../concept/configuring-sa-by-migrating.md)
+[Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../concept/configuring-sa-by-migrating.md)
 

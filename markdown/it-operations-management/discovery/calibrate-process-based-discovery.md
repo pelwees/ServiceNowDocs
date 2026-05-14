@@ -41,7 +41,7 @@ If the **Application Fingerprints** dashboard does not display any suggestions, 
 
     3.  Verify that the Predictive Intelligence plugin is installed.
 
-        ![Checking the Predictive Intelligence plugin status](../image/pi-installed.png)
+        ![Checking the Predictive Intelligence plugin status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pi-installed.png)
 
         If Predictive Intelligence is not installed, click the **Install** button.
 
@@ -61,7 +61,7 @@ If the **Application Fingerprints** dashboard does not display any suggestions, 
 
     4.  Check that the discovery frequency is set to one hour as shown in the following example:
 
-        ![Ensuring that the scheduled job for the fingerprint-based discovery is active](../image/fingerprint-based-scheduled-job-active.png)
+        ![Ensuring that the scheduled job for the fingerprint-based discovery is active](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/fingerprint-based-scheduled-job-active.png)
 
 3.  Check that the clustering solution responsible for grouping processes into suggestions is active.
 
@@ -75,11 +75,11 @@ If the **Application Fingerprints** dashboard does not display any suggestions, 
 
     3.  If there are several clustering solutions, identify the latest solution by the timestamp in the **Update** column.
 
-        Alternatively, you can use the number that the system appends to the solution name to identify the latest solution.![Identifying the latest clustering solution by appended number in the name.](../image/pi-clustering-solution-identification.png)
+        Alternatively, you can use the number that the system appends to the solution name to identify the latest solution.![Identifying the latest clustering solution by appended number in the name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pi-clustering-solution-identification.png)
 
     4.  Verify that the **State** value is **Solution Complete** and **Progress** is at **100%**.
 
-        ![Verify that the clustering solution is active.](../image/pi-clustering-solution.png)
+        ![Verify that the clustering solution is active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pi-clustering-solution.png)
 
     5.  If the State value is not Solution Complete, configure Predictive Intelligence as described in [Configuration tips for Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/troubleshooting-predictive-intelligence.md).
 
@@ -91,7 +91,7 @@ If the **Application Fingerprints** dashboard does not display any suggestions, 
 
     3.  If there are less than 1000 processes, discover more processes by running horizontal discovery on additional IP ranges or subnets.
 
-    4.  If there are still less than 1000 processes after discovering additional IP ranges or subnets, [disable the fingerprint-based discovery](calibrate-process-based-discovery.md#).
+    4.  If there are still less than 1000 processes after discovering additional IP ranges or subnets, [disable the fingerprint-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/calibrate-process-based-discovery.md#).
 
 5.  Check that the **Application suggestion - ITOM Autodisco** transaction is not slow-loading, as described in [View and kill active transaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md).
 
@@ -123,7 +123,7 @@ Role required: discovery\_admin
 
     The Application Suggestion form opens.
 
-    ![The Application Suggestion form](../image/fingerprint-application-suggestion-fine-tune.png)
+    ![The Application Suggestion form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/fingerprint-application-suggestion-fine-tune.png)
 
 5.  To change the name used for the fingerprint-based application, enter the preferred name in the **Name** field.
 
@@ -137,7 +137,7 @@ Role required: discovery\_admin
 
 8.  Click **Update**.
 
-9.  If you are not sure how to change the classifier rule, fine-tune it after performing the initial discovery as described in [Adjust regular expression used for fingerprint-based discovery](calibrate-process-based-discovery.md#).
+9.  If you are not sure how to change the classifier rule, fine-tune it after performing the initial discovery as described in [Adjust regular expression used for fingerprint-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/calibrate-process-based-discovery.md#).
 
 
 ## Adjust regular expression used for fingerprint-based discovery
@@ -160,15 +160,15 @@ Role required: discovery\_admin
 
     The Process Classification form opens.
 
-    ![Adjusting the regular expression.](../image/process-classification-fine-tune-example1.png)
+    ![Adjusting the regular expression.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/process-classification-fine-tune-example1.png)
 
 4.  In the **Parameters** value field under **Condition**, notice the regular expression automatically selected by Predictive Intelligence.
 
     In this example, it is **."-DweblogicName=."**
 
-5.  Click **Padlock** icon ![Padlock icon](../../event-management/image/lock-icon.png) next to **Test with**.
+5.  Click **Padlock** icon ![Padlock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../event-management/image/lock-icon.png) next to **Test with**.
 
-6.  Click the **Look up** icon ![Search icon](../../../administer/field-administration/image/SearchIconHeisenberg.png) to select the server on which you want to test additional regular expressions.
+6.  Click the **Look up** icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../administer/field-administration/image/SearchIconHeisenberg.png) to select the server on which you want to test additional regular expressions.
 
     The list of all discovered servers opens.
 
@@ -180,7 +180,7 @@ Role required: discovery\_admin
 
     The system runs a test and displays the results on the **Test results** tab at the bottom of the page.
 
-    ![Adjusting the regular expression and choosing the server for testing it.](../image/process-classification-fine-tune-example2.png)
+    ![Adjusting the regular expression and choosing the server for testing it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/process-classification-fine-tune-example2.png)
 
 9.  On the Test results tab, check the processes that were discovered using the regular expressions configured for this classifier.
 

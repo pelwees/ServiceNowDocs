@@ -31,10 +31,10 @@ Role required: admin
 
     `${mail_script:cxs_EmailSearchResults}`
 
-    ![Notification form's What it will contain section with script added to Message HTML field.](../image/edit-email-notification.png)
+    ![Notification form's What it will contain section with script added to Message HTML field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/edit-email-notification.png)
 
 5.  Select and hold \(or right-click\) on the header form and click **Save**.
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

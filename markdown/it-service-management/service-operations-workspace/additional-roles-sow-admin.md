@@ -216,16 +216,16 @@ Provides access to configurations related to Change Management in SOW Admin Cent
 -   itil
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+</table>**Parent Topic:**[Service Operations Workspace for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/terminology-used-in-sow-for-itsm.md)
 
-[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](sow-itsm-itom-version.md)
+[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-itom-version.md)
 
-[Service Operations Workspace for ITSM data model](sow-itsm-data-model.md)
+[Service Operations Workspace for ITSM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-data-model.md)
 
-[Components installed with Service Operations Workspace ITSM Applications](components-installed-with-sow.md)
+[Components installed with Service Operations Workspace ITSM Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-with-sow.md)
 

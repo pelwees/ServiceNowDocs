@@ -33,7 +33,7 @@ Role required: adaptive\_auth\_admin
 
 </td><td>
 
-Double-click **Insert a new row...** and enter or select a role name. Click the **Save Icon** \(![Save icon](../images/save-icon.png)\) to save the entry.
+Double-click **Insert a new row...** and enter or select a role name. Click the **Save Icon** \(![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/save-icon.png)\) to save the entry.
 
 </td></tr><tr><td id="d32502e106">
 
@@ -41,7 +41,7 @@ Double-click **Insert a new row...** and enter or select a role name. Click the 
 
 </td><td>
 
-Click the delete icon \(![delete icon](../images/delete-icon.png)\) to remove a role from the list.
+Click the delete icon \(![delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/delete-icon.png)\) to remove a role from the list.
 
 </td></tr></tbody>
 </table>4.  Click **Update**.

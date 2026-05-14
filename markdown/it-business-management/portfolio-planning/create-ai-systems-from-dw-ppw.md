@@ -25,7 +25,7 @@ Create AI systems from directly within the demand workflow and associate them wi
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demands-ppw.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
 2.  Select a demand record from the **All Demands** list.
 
@@ -40,6 +40,6 @@ Create AI systems from directly within the demand workflow and associate them wi
 
 Associate your demands with the created AI systems:
 
--   Using the AI checkpoint stage in your demand AI playbook. For more information, see [Use Playbooks](use-playbooks-in-ppw.md).
+-   Using the AI checkpoint stage in your demand AI playbook. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md).
 -   Using the **AI Associations** section in the **Details** tab.
 

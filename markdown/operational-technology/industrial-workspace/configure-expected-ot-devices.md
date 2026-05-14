@@ -19,7 +19,7 @@ Configure the number of expected OT devices for a site so that you can use the *
 
 Role required: ot\_progress\_scorecard\_editor and cmdb\_ot\_isa\_viewer with site access assigned for relevant sites through user criteria
 
-**Note:** For more information about site access through user criteria, see [Review the homepage destination rules for the Industrial Workspace](review-iw-homepage-destination-rules.md).
+**Note:** For more information about site access through user criteria, see [Review the homepage destination rules for the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/review-iw-homepage-destination-rules.md).
 
 ## Procedure
 
@@ -43,5 +43,5 @@ Role required: ot\_progress\_scorecard\_editor and cmdb\_ot\_isa\_viewer with si
 
     3.  Select **Update**.
 
-**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](../concept/setting-up-the-ot-progress-scorecard.md)
+**Parent Topic:**[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/setting-up-the-ot-progress-scorecard.md)
 

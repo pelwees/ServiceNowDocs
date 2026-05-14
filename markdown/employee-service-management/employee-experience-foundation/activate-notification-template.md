@@ -72,5 +72,5 @@ Reuse the Employee notification layout for any of your templates to build consis
 **Related topics**  
 
 
-[Configure the mail and SMS send to self](deskless-kiosk-sendtoself-sms-email.md)
+[Configure the mail and SMS send to self](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-sendtoself-sms-email.md)
 

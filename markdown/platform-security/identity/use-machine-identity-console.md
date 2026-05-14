@@ -19,7 +19,7 @@ Manage your service accounts which are used for integrations with ServiceNow usi
 
 Role required: admin
 
-Activate the **Machine Identity Management** `com.glide.identity.machine_identity_management` plugin. For more information, see [Activating Machine Identity Console](activate-machine-identity-console.md).
+Activate the **Machine Identity Management** `com.glide.identity.machine_identity_management` plugin. For more information, see [Activating Machine Identity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/activate-machine-identity-console.md).
 
 ## Procedure
 
@@ -28,10 +28,10 @@ Activate the **Machine Identity Management** `com.glide.identity.machine_identit
     The Machine Identity Console has the following tabs:
 
     -   Overview: Displays the overall machine identity accounts and their metrics
-    -   [Inbound integrations](../concept/inbound-integrations.md): Configure Inbound integrations for the APIs.
-    -   [Security findings](../concept/security-score.md): Displays the security score is based on different security findings.
-    -   [Metrics](../concept/machine-identity-metrics.md): Displays the different metrics for the machine identity accounts
-    -   [Settings](machine-identity-console-settings.md): Configure the machine identity console.
+    -   [Inbound integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../concept/inbound-integrations.md): Configure Inbound integrations for the APIs.
+    -   [Security findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../concept/security-score.md): Displays the security score is based on different security findings.
+    -   [Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../concept/machine-identity-metrics.md): Displays the different metrics for the machine identity accounts
+    -   [Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/machine-identity-console-settings.md): Configure the machine identity console.
 2.  Select the appropriate tabs based on your security requirements.
 
 

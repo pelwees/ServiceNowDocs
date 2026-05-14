@@ -44,5 +44,5 @@ Planning managers can create portfolio plans using only lenses that are active. 
 **Related topics**  
 
 
-[Modify lens structure in Portfolio Planning](modify-lens-portfolio-planning.md)
+[Modify lens structure in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-lens-portfolio-planning.md)
 

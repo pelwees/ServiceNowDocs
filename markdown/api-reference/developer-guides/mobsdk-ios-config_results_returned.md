@@ -15,7 +15,7 @@ breadcrumb: [Interact with table data in a ServiceNow instance, Mobile SDK Devel
 
 Within the Mobile SDK, when interacting with data from a ServiceNow instance through a REST endpoint, you can configure what data is passed back in the return results.
 
-You configure what data to pass back using the [FetchConfiguration](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/FetchConfiguration/concept/FetchConfigiOSStructure.md#) structure. This structure enables you to configure:
+You configure what data to pass back using the [FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/FetchConfiguration/concept/FetchConfigiOSStructure.md#) structure. This structure enables you to configure:
 
 -   The specific records to return from a table.
 -   The specific fields to return from the records.
@@ -25,7 +25,7 @@ You configure what data to pass back using the [FetchConfiguration](../../../../
 
 ## Configuring the specific records to return
 
-The [Filter](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/Filter/concept/FilteriOSStructure.md#) structure within a FetchConfiguration call enables you to filter and sort the records that are fetched from a ServiceNow instance and passed back in the return results from a REST endpoint. This filter is passed in the **sysparm\_query** parameter of the REST API endpoint. For additional information, see [Table API](../../../../inbound-rest/concept/c_TableAPI.md#).
+The [Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/Filter/concept/FilteriOSStructure.md#) structure within a FetchConfiguration call enables you to filter and sort the records that are fetched from a ServiceNow instance and passed back in the return results from a REST endpoint. This filter is passed in the **sysparm\_query** parameter of the REST API endpoint. For additional information, see [Table API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../../inbound-rest/concept/c_TableAPI.md#).
 
 You can initialize the Filter structure in four different ways depending on the desired filtering capabilities:
 
@@ -37,7 +37,7 @@ You can initialize the Filter structure in four different ways depending on the 
     Filter(query: "active=true^short_descriptionLIKEbroken"
     ```
 
-    To use this type of filtering, initialize the Filter structure using the [Filter - init\(query: String, queryCategory: String? = nil\)](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/Filter/concept/FilteriOSStructure.md#) function.
+    To use this type of filtering, initialize the Filter structure using the [Filter - init\(query: String, queryCategory: String? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/Filter/concept/FilteriOSStructure.md#) function.
 
 2.  Filter by criteria. This filter enables you to filter based on one or more filter criteria that are OR'd together.
 
@@ -106,7 +106,7 @@ You can initialize the Filter structure in four different ways depending on the 
 
 ## Configuring the specific fields to return
 
-The [FieldReadConfiguration structure - iOS](../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#) within the FetchConfiguration method call allows you to configure what fields to pass back in the return results. In addition, you can configure the format/content of the returned fields as:
+The [FieldReadConfiguration structure - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../../../app-store/dev_portal/API_reference/MobileSDKiOS/FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#) within the FetchConfiguration method call allows you to configure what fields to pass back in the return results. In addition, you can configure the format/content of the returned fields as:
 
 -   display values
 -   actual values

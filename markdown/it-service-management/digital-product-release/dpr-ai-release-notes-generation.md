@@ -39,7 +39,7 @@ Using AI to generate release notes gives you clear, well-structured release note
 
 ## How it works
 
-The release notes are generated using a Now Assist summarization skill called Generate Release Notes. This skill is available when the [Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm.md) plugin is installed.
+The release notes are generated using a Now Assist summarization skill called Generate Release Notes. This skill is available when the [Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../../now-assist-itsm/concept/now-assist-itsm.md) plugin is installed.
 
 1.  When your release is in the readiness phase, select the option to generate release notes.
 2.  The system creates a draft using AI summarization.
@@ -59,14 +59,14 @@ The AI summarization feature pulls together details from your enhancements, feat
     This section provides details about new features, enhancements, and defect fixes included in the release, listed in subsections.
 
 
-![AI-generated release notes preview in Digital Product Release Workspace.](../image/dpr-release-notes-preview.png)
+![AI-generated release notes preview in Digital Product Release Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-notes-preview.png)
 
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
 **Related topics**  
 
 
-[Generate AI-powered release notes for a release](../task/dpr-generate-release-notes.md)
+[Generate AI-powered release notes for a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-generate-release-notes.md)
 
-[Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/concept/now-assist-itsm.md)
+[Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../../now-assist-itsm/concept/now-assist-itsm.md)
 

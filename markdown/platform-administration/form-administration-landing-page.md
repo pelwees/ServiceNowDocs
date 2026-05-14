@@ -19,11 +19,11 @@ You change aspects of a form such as showing or hiding fields, embedding lists, 
 
 <table id="table_utt_hzv_g2c" class="nav-card presentation"><tbody><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Design and configure form layout.](basic-form-administration.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Design and configure form layout.](basic-form-administration.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Define how forms behave and create UI policies.](form-administration.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Define how forms behave and create UI policies.](form-administration.md)
 
 </td></tr></tbody>
 </table>

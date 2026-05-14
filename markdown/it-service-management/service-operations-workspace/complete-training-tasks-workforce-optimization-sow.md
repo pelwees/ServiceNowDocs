@@ -23,7 +23,7 @@ Role required: sn\_wfo\_cfg\_itsm.employee
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Learning icon ![Learning icon](../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
+2.  Select the Learning icon ![Learning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
 
 3.  Select the **My learning** tab.
 
@@ -86,5 +86,5 @@ If you have a quiz associated with the learning path:1.  Select the path.
 </table>    The skills associated with the tasks are added to your skill set.
 
 
-**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](../concept/discovering-learning-sow-wfo-itsm.md)
+**Parent Topic:**[Learning path and course item discovery in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/discovering-learning-sow-wfo-itsm.md)
 

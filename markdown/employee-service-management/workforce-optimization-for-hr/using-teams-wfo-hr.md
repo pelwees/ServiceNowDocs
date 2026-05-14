@@ -26,16 +26,16 @@ With Teams, you can do the following:
 -   Targets can be set on the KPIs through the team performance page at the global or individual level. When such targets are set, the trendline reflects the targets.
 -   Drill down to the individual agent level to view a 360 degree view of the current work, historical KPIs, presence history, channel capacity utilization, skills, and upcoming time-offs.
 
-**Parent Topic:**[Using Workforce Optimization for HR](use-wfo-hr.md)
+**Parent Topic:**[Using Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/use-wfo-hr.md)
 
 **Related topics**  
 
 
-[Workforce Optimization for HR Manager workspace](hr-manager-workspace-wfo-hr.md)
+[Workforce Optimization for HR Manager workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/hr-manager-workspace-wfo-hr.md)
 
-[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
+[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 
-[Coaching in Workforce Optimization for HR](using-coaching-wfo-hr.md)
+[Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 
 ## Analyze performance trends
 
@@ -53,7 +53,7 @@ Analyze the data by drilling down into the data for a team, a specific team memb
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Teams ![Teams icon](../../workforce-optimization-for-customer-service-configurable/image/teams-new.png) icon.
+2.  Click the Teams ![Teams icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../workforce-optimization-for-customer-service-configurable/image/teams-new.png) icon.
 
 3.  Select a date range to view your teams' performance for that time period.
 

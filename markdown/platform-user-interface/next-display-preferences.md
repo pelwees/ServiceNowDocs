@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Organize form sections and related lists into tabs in classic forms.](../image/pol-pref-organize-forms-lists.png)
+![Organize form sections and related lists into tabs in classic forms.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-organize-forms-lists.png)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Displays forms and related lists in tabs so you can navigate directly to form se
 
 </td></tr><tr><td>
 
-![Put line breaks in lists.](../image/pol-pref-line-breaks.png)
+![Put line breaks in lists.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-line-breaks.png)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Enables you to create a new line within the same list entry.
 
 </td></tr><tr><td>
 
-![Show ability to quick edit favorites](../image/pol-pref-quick-favorite.png)
+![Show ability to quick edit favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-quick-favorite.png)
 
 </td><td>
 
@@ -60,7 +60,7 @@ Enables the ability to edit the name and location of a favorite when adding it.
 
 </td></tr><tr><td>
 
-![Load related lists in classic forms.](../image/pol-pref-compact.png)
+![Load related lists in classic forms.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-compact.png)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Loads related lists in classic forms at one of the following times:-   With the 
 
 </td></tr><tr><td>
 
-![Use compact spacing mode.](../image/pol-pref-help-tips.png)
+![Use compact spacing mode.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-help-tips.png)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Optimizes the spacing between form fields, controls, and list rows and columns, 
 
 </td></tr><tr><td>
 
-![Show help tips on forms.](../image/pol-pref-help.png)
+![Show help tips on forms.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-help.png)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Provides tooltips to use and configure features in the instance.
 
 </td></tr><tr><td>
 
-![Always show top navigation.](../image/pol-pref-top-navigation.png)
+![Always show top navigation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-top-navigation.png)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Sets persistent top navigation when opening a new window from the menu so you ca
 
 </td></tr><tr><td>
 
-![Show results from other menus when filtering menu items](../image/pol-pref-menu-filter.png)
+![Show results from other menus when filtering menu items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-menu-filter.png)
 
 </td><td>
 

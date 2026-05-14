@@ -49,5 +49,5 @@ To proceed with data migration, select **Script for migrating data to cam workfl
 
 This link is available at all times, even after the property is enabled, so you can run migration when required.
 
-See [Run migration scheduled job](run-migration-scheduled-job.md) from Step 4 for detailed migration steps.
+See [Run migration scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/run-migration-scheduled-job.md) from Step 4 for detailed migration steps.
 

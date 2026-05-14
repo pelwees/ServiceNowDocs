@@ -48,5 +48,5 @@ You can assign the user criteria for Can Edit access in two locations:
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Assign or remove equipment model site access for non-administrators](create-user-criteria-for-equipment-model-entity-site-users.md)
+**Parent Topic:**[Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md)
 

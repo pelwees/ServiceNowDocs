@@ -34,5 +34,5 @@ Role required: sn\_privacy\_case.privacy\_case\_admin. This role must contain th
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Create a region](create-a-region.md)
+**Parent Topic:**[Create a region](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-region.md)
 

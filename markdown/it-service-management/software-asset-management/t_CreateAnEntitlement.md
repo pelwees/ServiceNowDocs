@@ -53,5 +53,5 @@ You can create these entitlements from the Asset Management application. Navigat
     |Cached|Internal flag set and used by software counters.|
 
 
-**Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](t_CreatSWLicenseEntitlemnt.md)
+**Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatSWLicenseEntitlemnt.md)
 

@@ -31,7 +31,7 @@ The **ValidateWorkflowStageColumn** validator detects and reports when the stage
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md), [Workflow stages](../../using-workflows/concept/c_WorkflowStages.md)
+-   Related Information: [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowActivities.md), [Workflow stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowStages.md)
 
 ## Troubleshooting
 
@@ -45,5 +45,5 @@ To check the stage column:
 
 Tip: Stage columns should not be choice lists. If they are, the list appears read-only in form views, since changing that column value outside the workflow engine does not ensure safe tracking of stage states.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowValidator.md)
 

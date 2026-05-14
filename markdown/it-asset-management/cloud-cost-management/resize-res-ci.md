@@ -15,9 +15,9 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 Gain better visibility of resource usage by identifying your over-provisioned or underused resources, configuring rightsizing operations, implementing rightsizing recommendations, and performing various rightsizing operations.
 
-You can [configure Rightsizing operations](../task/rs-settings-config-cloudin.md) by selecting **Settings**.
+You can [configure Rightsizing operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/rs-settings-config-cloudin.md) by selecting **Settings**.
 
-![Rightsizing recommendations in Operations view.](../image/rightsizing-ws.png)
+![Rightsizing recommendations in Operations view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/rightsizing-ws.png)
 
 |Chart|Description|
 |-----|-----------|
@@ -93,7 +93,7 @@ Failed
 
 </td><td>
 
-Resources for which the Rightsizing operation wasn’t successful. For failed attempts, the Rightsizing operation performs a rollback as described in [AWS only – Rollback on failed Rightsizing attempts](rs-rollback-cloudin.md).
+Resources for which the Rightsizing operation wasn’t successful. For failed attempts, the Rightsizing operation performs a rollback as described in [AWS only – Rollback on failed Rightsizing attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-rollback-cloudin.md).
 
 </td><td>
 
@@ -283,16 +283,16 @@ Change request
 The change request that is associated with the recommendation.
 
 </td></tr></tbody>
-</table>-   **[Configure Rightsizing operations](../task/rs-settings-config-cloudin.md)**  
+</table>-   **[Configure Rightsizing operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/rs-settings-config-cloudin.md)**  
 Configure Rightsizing processes and specify the amount of potential rightsizing savings that triggers notifications.
--   **[Schedule resources to be rightsized](../task/rs-schedule-job-cloudin.md)**  
+-   **[Schedule resources to be rightsized](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/rs-schedule-job-cloudin.md)**  
 To rightsize a resource, add it to a Rightsizing job and specify when the job should run. You can also move resources out of one scheduled job into a different job or remove a resource from a job.
--   **[Move a resource to a different Rightsizing job](../task/rs-change-job-cloudin.md)**  
+-   **[Move a resource to a different Rightsizing job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/rs-change-job-cloudin.md)**  
 You can add resources to a currently scheduled job, move resources from one job to another, or remove resources from a job.
--   **[Exclude a resource from Rightsizing analysis](../task/rs-exclude-resource-cloudin.md)**  
+-   **[Exclude a resource from Rightsizing analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/rs-exclude-resource-cloudin.md)**  
 To ensure that a particular resource is not considered or recommended for Rightsizing, add the resource to the Excluded Resources list. The system continues to collect cost and usage data but does not consider the resource for Rightsizing.
--   **[View or edit scheduled and completed Rightsizing jobs](../task/view-rs-scheduled-jobs.md)**  
+-   **[View or edit scheduled and completed Rightsizing jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/view-rs-scheduled-jobs.md)**  
 View and manage the upcoming and completed Rightsizing jobs.
 
-**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 

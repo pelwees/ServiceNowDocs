@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 The active definitions promote a group of anomaly alerts to the All Alerts table when all of the definition's conditions are met.
 
-You can't modify the conditions of the definitions that come with the base system. For information on creating customized definitions, see [Create a definition for the Advanced Promotion Engine](create-advanced-promotion-engine.md).
+You can't modify the conditions of the definitions that come with the base system. For information on creating customized definitions, see [Create a definition for the Advanced Promotion Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-advanced-promotion-engine.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ You can't modify the conditions of the definitions that come with the base syste
 4.  Select **Save**.
 
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 

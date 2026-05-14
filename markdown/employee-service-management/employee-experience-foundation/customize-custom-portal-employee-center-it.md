@@ -27,13 +27,13 @@ If you’re using a custom portal rather than the Employee Center, you can repla
 
 2.  Search for `sn_now_teams.portal.suffix` property under Name.
 
-    ![System properties list](../images/sys-properties-list.png)
+    ![System properties list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sys-properties-list.png)
 
 3.  Select **sn\_now\_teams.portal.suffix**.
 
 4.  Enter the value of your custom portal in the **Value** field.
 
-    ![Custom value](../images/custom-value-sys-properties.png)
+    ![Custom value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/custom-value-sys-properties.png)
 
 5.  Select **Update**.
 
@@ -105,7 +105,7 @@ For example: `Frame-ancestors 'self' https://teams.microsoft.com *.office.com *.
 </table>    5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Employee Center](../concept/employee-center-dashboard-admin-it.md)
+**Parent Topic:**[Configuring Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-center-dashboard-admin-it.md)
 
 ## Hide the chat button on the custom portal
 
@@ -121,13 +121,13 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **CSS**.
 
-    ![CSS list](../images/system-css.png)
+    ![CSS list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/system-css.png)
 
 2.  Select the custom CSS that you want to edit.
 
 3.  Select the **click here** link to edit the CSS.
 
-    ![Edit CSS](../images/edit-css-2.png)
+    ![Edit CSS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit-css-2.png)
 
 4.  Paste the following code in the **CSS** field.
 
@@ -159,13 +159,13 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **CSS**.
 
-    ![CSS list](../images/system-css.png)
+    ![CSS list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/system-css.png)
 
 2.  Click on your custom CSS.
 
 3.  Click **here** to edit the CSS.
 
-    ![Edit CSS](../images/edit-css-2.png)
+    ![Edit CSS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit-css-2.png)
 
 4.  To disable the logout button from Microsoft Teams desktop application.
 

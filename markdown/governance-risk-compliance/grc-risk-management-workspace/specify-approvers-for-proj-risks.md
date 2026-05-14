@@ -40,7 +40,7 @@ Two predefined RAMs are provided for Enterprise Risk Assessment and Project Risk
 
 1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Project Integration Configuration**.
 
-2.  Click the information ![Information icon.](../image/icon-information.png) icon to view the project risk integration configuration record.
+2.  Click the information ![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/icon-information.png) icon to view the project risk integration configuration record.
 
 3.  Click **Open Record**.
 
@@ -87,7 +87,7 @@ Risk rollup formula
 The formula used to roll up the project risk scores. The choices are as follows:-   Average
 -   Maximum
 -   Minimum
- **Note:** Only the risks that are assessed using Advanced Risk Assessment are aggregated and have their scores rolled up. If a risk is retired, then the score of the retired risk is not aggregated. For details, see [Risk score rollup in Advanced Risk Assessment](../concept/risk-rollup-ara-concept.md).
+ **Note:** Only the risks that are assessed using Advanced Risk Assessment are aggregated and have their scores rolled up. If a risk is retired, then the score of the retired risk is not aggregated. For details, see [Risk score rollup in Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-rollup-ara-concept.md).
 
 </td></tr><tr><td>
 
@@ -150,5 +150,5 @@ The group which assesses the enterprise risk if the **Assessor type** field has 
 
 The assessor and approver details are set.
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-and-ppm-better-together.md)
 

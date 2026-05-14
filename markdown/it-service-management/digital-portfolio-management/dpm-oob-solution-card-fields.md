@@ -17,7 +17,7 @@ Digital Portfolio Management uses certain fields to auto-generate a set of defau
 
 ## DPM homepage overview
 
-Each time that you log in to the DPM Workspace, the system uses certain fields to display a set of default solution cards. You can use the personalize option to add or remove solutions to your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](../task/dpm-personalize-homepage.md).
+Each time that you log in to the DPM Workspace, the system uses certain fields to display a set of default solution cards. You can use the personalize option to add or remove solutions to your homepage. For more information, see [Personalize the Digital Portfolio Management Workspace home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-personalize-homepage.md).
 
 After you add or remove solutions, the DPM system remembers your updates in the **dpm\_home\_page\_item** table so that next time you log in to the DPM Workspace, your personalized homepage displays. The system no longer generates a set of default solution cards for you.
 
@@ -165,5 +165,5 @@ cmdb\_ci\_service\_auto including dynamic configuration item \(CI\) groups
 -   Managed by 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
+</table>**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 

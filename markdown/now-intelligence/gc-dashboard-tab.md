@@ -128,7 +128,7 @@ Empowerment &amp; shift-left efficiency
 Measures adoption of legal self-help tools to reduce repetitive queries and enable faster access to legal information.
 
 </td></tr></tbody>
-</table>![General Counsel Dashboard with Contracts, Service Delivery, Privacy and Compliance, Digital Forensics, and Self Service pillars, each containing legal metrics and visualizations.](../image/gc-db-tab.png)
+</table>![General Counsel Dashboard with Contracts, Service Delivery, Privacy and Compliance, Digital Forensics, and Self Service pillars, each containing legal metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/gc-db-tab.png)
 
 ## GC Dashboard overview
 

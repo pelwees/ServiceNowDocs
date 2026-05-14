@@ -44,10 +44,10 @@ For a complete description of all the Health Log Analytics system properties, se
     -   To apply the setting only to log sources created from this point forward, select **Update**.
     -   To override values for this property in all existing log sources and apply the modified setting to all new log sources, select **Override source property**.
 
-**Parent Topic:**[Configure Health Log Analytics system properties for a single log source](hla-system-properties-configure-single.md)
+**Parent Topic:**[Configure Health Log Analytics system properties for a single log source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure-single.md)
 
 **Related topics**  
 
 
-[Configure Health Log Analytics system properties for a single log source](hla-system-properties-configure-single.md)
+[Configure Health Log Analytics system properties for a single log source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure-single.md)
 

@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 
 1.  Fetch the Tenant ID, Client ID \(Application ID\), Client Secret, and Bot Name details for your bot created in Microsoft Teams.
 
-    For more information, see [Retrieve bot details](create-msteams-bot-gcch.md#bot-details).
+    For more information, see [Retrieve bot details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-msteams-bot-gcch.md#bot-details).
 
     **Note:** Use this information when setting up the self-configured bot in your ServiceNow instance.
 
@@ -40,13 +40,13 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 
         **Note:** The **Add Integrations** drop-down is available only after installing the Conversational Integration with Microsoft Teams plugin \(sn\_va\_teams\) on your ServiceNow instance.
 
-        ![Microsoft Teams Add Integrations options. The Integrate with Self-configured bot option is selected.](../images/add-msteams-self-integ.png)
+        ![Microsoft Teams Add Integrations options. The Integrate with Self-configured bot option is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-msteams-self-integ.png)
 
     4.  From the **Add Integrations** drop-down, select **Integrate with your self-configured bot**.
 
     5.  In the Integrate Microsoft Teams with self-configured bot page, provide the **Name of the bot**, **Tenant ID**, **Client ID \(App ID\)**, and **Client Secret** that you made a note while creating the Microsoft Teams bot and select **Submit**.
 
-        ![Integrate Microsoft Teams with self-configured bot window in Conversational integrations Channels and integrations settings.](../images/msteams-multi-integ.png "Integrate Microsoft Teams with self-configured bot")
+        ![Integrate Microsoft Teams with self-configured bot window in Conversational integrations Channels and integrations settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/msteams-multi-integ.png "Integrate Microsoft Teams with self-configured bot")
 
         **Note:** If you own multiple ServiceNow instances and would like to integrate additional bots for additional instances, repeat the preceding steps to add and integrate with bots.
 
@@ -54,17 +54,17 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 
         ![image.add-self-config-integ-2]
 
-        For more information, see [Manage the ServiceNow Virtual Agent integration with Microsoft Teams](configure-va-teams.md).
+        For more information, see [Manage the ServiceNow Virtual Agent integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-teams.md).
 
         User receives a message that the installation is successful.
 
 3.  In your ServiceNow instance, navigate to **System OAuth** &gt; **Application Registry** and open the record that contains the **sample-msteams-oauth-consumer**.
 
-4.  Right-select on the grey bar header titled **OAuth OIDC Entity** on the top of the page to select **Configure** &gt; **Form Layout**.![OAuth OIDC Entity record page with Form Layout selected from Configure option.](../images/gcc-h-form-layout.png)
+4.  Right-select on the grey bar header titled **OAuth OIDC Entity** on the top of the page to select **Configure** &gt; **Form Layout**.![OAuth OIDC Entity record page with Form Layout selected from Configure option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/gcc-h-form-layout.png)
 
 5.  Search for **Token URL** from the **Available** field, add it to the **Selected** field, and move it under **Redirect URL**.
 
-6.  Select **Save** to save the layout.![OAuth OIDC Entity form configuration page, with Token URL option selected](../images/save-form-layout-gcc-h.png)
+6.  Select **Save** to save the layout.![OAuth OIDC Entity form configuration page, with Token URL option selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/save-form-layout-gcc-h.png)
 
     You’re redirected to the OAuth OIDC Entity record.
 
@@ -79,5 +79,5 @@ Role required: virtual\_agent\_admin or admin and Microsoft Azure admin.
 10. On the OIDC Provider Configuration form, update the **OIDC Metadata URL** to `https://login.botframework.azure.us/v1/.well-known/openidconfiguration` and select **Update**.
 
 
-**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](../concept/va-integ-msteams-gcch.md)
+**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-msteams-gcch.md)
 

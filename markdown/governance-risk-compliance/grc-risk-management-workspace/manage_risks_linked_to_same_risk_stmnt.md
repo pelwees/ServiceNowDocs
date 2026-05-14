@@ -21,14 +21,14 @@ This feature benefits the risk manager as it allows the risk managers to define 
 
 To understand this feature, see the following image and consider the example. Most customers have risk statements defined until Corruption. Anything lower than Corruption such as accepting a bribe is defined as a risk as it is difficult to harmonize these risks across the organization. This feature of linking multiple risks to the same risk statement and entity enables customers to prevent the creation of orphan risks with no one acting on them.
 
-![Risk statement and risk creation hierarchy](../image/risk_stmnt_hieracrchy.png "New risk statement hierarchy")
+![Risk statement and risk creation hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk_stmnt_hieracrchy.png "New risk statement hierarchy")
 
-**Parent Topic:**[Manage risks, risk statements, and risk frameworks](../reference/r_RiskRegister.md)
+**Parent Topic:**[Manage risks, risk statements, and risk frameworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/r_RiskRegister.md)
 
 **Related topics**  
 
 
-[Workflow of a risk using Advanced Risk](risk-lifecycle-using-advanced-risk.md)
+[Workflow of a risk using Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-lifecycle-using-advanced-risk.md)
 
-[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+[Risk hierarchy and scoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/risk-hierarchy-scoring.md)
 

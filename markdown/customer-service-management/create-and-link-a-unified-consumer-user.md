@@ -15,6 +15,6 @@ Create and associate a contact user with a consumer record so that your user can
 
 |Task|Description|
 |----|-----------|
-|Create a consumer user|Create a consumer user record to establish the B2C identity required before associating it to an existing B2B contact. For more information, see [Create a consumer record](create-a-consumer-user.md).|
-|Associate an existing contact user with a consumer record|Associate a contact with a consumer record to enable seamless access to both accounts. For more information, see [Associate an existing contact user with a consumer record](associate-an-existing-contact-user-with-a-consumer-record.md).|
+|Create a consumer user|Create a consumer user record to establish the B2C identity required before associating it to an existing B2B contact. For more information, see [Create a consumer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-a-consumer-user.md).|
+|Associate an existing contact user with a consumer record|Associate a contact with a consumer record to enable seamless access to both accounts. For more information, see [Associate an existing contact user with a consumer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/associate-an-existing-contact-user-with-a-consumer-record.md).|
 

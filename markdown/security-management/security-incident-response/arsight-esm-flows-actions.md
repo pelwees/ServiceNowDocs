@@ -17,7 +17,7 @@ Using the Integration Hub and Flow Designer, several flows, subflows, and action
 
 To view these subflows, navigate to **Flow Designer** &gt; **Designer** and click on the **SubFlows** tab. The figure below shows the important subflows used during profile creation and the scheduled ingestion job.
 
-![ArcSight ESM: Flows](../image/sir-arcsight-esm-flows.png)
+![ArcSight ESM: Flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-flows.png)
 
 These subflows are listed in the sequence in which they are executed below:
 
@@ -32,5 +32,5 @@ These subflows are listed in the sequence in which they are executed below:
 
 During execution, the above subflows also trigger several other subflows and actions either directly or indirectly as shown below.
 
-![ArcSight ESM: Additional subflows](../image/sir-arcsight-esm-flows-subflows.png)
+![ArcSight ESM: Additional subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-flows-subflows.png)
 

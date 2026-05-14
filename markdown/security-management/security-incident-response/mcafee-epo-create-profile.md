@@ -103,7 +103,7 @@ The check box is selected by default to indicate that the profile is active. Whe
  When inactive, the profile will not run, and it is not available to invoke from a list.
 
 </td></tr></tbody>
-</table>    ![McAfee EPO capability profile details](../image/mcafee-epo-profile-name.png)
+</table>    ![McAfee EPO capability profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-epo-profile-name.png)
 
 4.  To save and validate the profile, click **Continue**.
 
@@ -112,7 +112,7 @@ The check box is selected by default to indicate that the profile is active. Whe
 
 ## What to do next
 
-The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. See [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md) and [Defining triggering conditions with a Configuration item \(CI\) field](../concept/mcafee-epo-alternate-ci.md) for more information.
+The next step is to configure your profile. Before you configure the settings for the profile, you may prefer to review the concepts for configuring profiles and triggering conditions. See [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md) and [Defining triggering conditions with a Configuration item \(CI\) field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcafee-epo-alternate-ci.md) for more information.
 
-**Parent Topic:**[McAfee ePO integration capability profiles](../concept/mcafee-epo-creating-profiles.md)
+**Parent Topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcafee-epo-creating-profiles.md)
 

@@ -15,7 +15,7 @@ Become familiar with the various elements that make up the sales process dashboa
 
 The sales process dashboard in the Lead-to-Cash Process Management application offers a consolidated view of sales activities across entities such as opportunities, quotes, and orders.
 
-![Hierarchical node map and details pane on the sales process dashboard.](../image/sales-process-node-map.png "Sales process dashboard in Lead-to-Cash Process Management")
+![Hierarchical node map and details pane on the sales process dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/sales-process-node-map.png "Sales process dashboard in Lead-to-Cash Process Management")
 
 ## Node map elements
 
@@ -28,7 +28,7 @@ The hierarchical node map visually represents the relationships of sales entitie
 |Delink|Delete child record and its hierarchy. To delink a record, select a link connecting a parent node and its child nodes you no longer want to monitor, and select **Delink**.|
 |Hard link|Enables you to convert soft links to hard links and vice versa. To convert a link, select it and select the **Hard link** toggle switch.|
 
-By default, only three levels are displayed on the node map when you open a sales process record in the CSM Configurable Workspace. Admins can increase or decrease the number of levels displayed. For more information, see [Customize hierarchical node map levels for Lead-to-Cash Process Management](../task/customize-node-map-levels.md).
+By default, only three levels are displayed on the node map when you open a sales process record in the CSM Configurable Workspace. Admins can increase or decrease the number of levels displayed. For more information, see [Customize hierarchical node map levels for Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/customize-node-map-levels.md).
 
 Only 250 nodes can be displayed on the node map at a time. If you have more than 250 nodes, collapse some nodes and then expand and view the other nodes.
 
@@ -40,22 +40,22 @@ A details section consolidates all relevant operational elements—tasks, emails
 
 Related lists configured in the Sales cockpit view in Next Experience UI govern the tabs that are displayed for a sales entity on the sales dashboard.
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[Monitoring and tracking sales activities](monitor-track-sales-activities.md)
+[Monitoring and tracking sales activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/monitor-track-sales-activities.md)
 
-[Create and manage task checklists](../task/create-checklists-l2c-process-management.md)
+[Create and manage task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-checklists-l2c-process-management.md)
 
-[Add attachments for a sales process record](../task/add-attachments-sales-process.md)
+[Add attachments for a sales process record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-attachments-sales-process.md)
 
-[Manage attachments for a sales process record](../task/manage-attachments-l2c-process-management.md)
+[Manage attachments for a sales process record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/manage-attachments-l2c-process-management.md)
 
-[View and send emails in Lead-to-Cash Process Management](../task/view-send-emails-sales-process.md)
+[View and send emails in Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/view-send-emails-sales-process.md)
 
-[Linking, delinking, and link conversion conditions](conditions-link-delink-toggle-records.md)
+[Linking, delinking, and link conversion conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/conditions-link-delink-toggle-records.md)
 
 [Using Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/using-sidebar.md)
 

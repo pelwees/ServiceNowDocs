@@ -36,7 +36,7 @@ Roles required:
 
 6.  Assign stories to teams and sprints.
 
-    1.  Click the feature backlog icon \(![Backlog icon](../images/backlog.png)\).
+    1.  Click the feature backlog icon \(![Backlog icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/backlog.png)\).
 
     2.  Add a new story to this feature by clicking **Create Story** in the backlog pane.
 
@@ -55,7 +55,7 @@ Roles required:
 
     Click the dependencies icon to show or hide dependencies between the stories.
 
-    For more information on story dependencies, see [Add dependencies to your SAFe stories](add-dependencies-safe-stories.md).
+    For more information on story dependencies, see [Add dependencies to your SAFe stories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/add-dependencies-safe-stories.md).
 
 8.  Update the group capacity of a team's sprint by clicking the sprint name.
 
@@ -64,5 +64,5 @@ Roles required:
     **Note:** You can update the sprint details only if you have the safe\_scrum\_master role.
 
 
-**Parent Topic:**[SAFe PI planning board](../concept/safe-pi-planning-board.md)
+**Parent Topic:**[SAFe PI planning board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/safe-pi-planning-board.md)
 

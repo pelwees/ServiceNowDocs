@@ -15,7 +15,7 @@ The donut visualization uses a hollow circular shape to show the proportion or p
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/platform-analytics-roles.md).
 
 ## About this task
 
@@ -23,7 +23,7 @@ Use this visualization type when you want to compare subcategories or additional
 
 ## Procedure
 
-1.  Follow the first steps to [Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md):
+1.  Follow the first steps to [Create a pie or donut data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/create-dv-donut-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -47,7 +47,7 @@ Use this visualization type when you want to compare subcategories or additional
 
     5.  Select **Add this source**.
 
-    A pie visualization with the current value of the selected data appears in the Visualization Designer. Because the only information you've given is that the visualization represents active incidents, you see only two possible wedges for Active=True and Active=False. You add priority and assignment group in step 4.![Untitled donut visualization showing the Incident table as data source](../../reporting/image/dv-ex-donut-data-source.png)
+    A pie visualization with the current value of the selected data appears in the Visualization Designer. Because the only information you've given is that the visualization represents active incidents, you see only two possible wedges for Active=True and Active=False. You add priority and assignment group in step 4.![Untitled donut visualization showing the Incident table as data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/dv-ex-donut-data-source.png)
 
 3.  Now that you can see the visualization, let's add some context for the user.
 
@@ -75,7 +75,7 @@ Use this visualization type when you want to compare subcategories or additional
 
     2.  Choose `Ascending` for the sort order.
 
-        The segments are ordered by Priority, starting with 1 - Critical, 2 - High, and so on.![Donut report on open incidents sorted by Priority](../../reporting/image/dv-ex-donut-sort-by.png)
+        The segments are ordered by Priority, starting with 1 - Critical, 2 - High, and so on.![Donut report on open incidents sorted by Priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/dv-ex-donut-sort-by.png)
 
 7.  Under Data update, configure how the audience interacts with the visualization.
 
@@ -115,7 +115,7 @@ Use this visualization type when you want to compare subcategories or additional
 
     7.  Change the Max legend item width to give those values more or less room.
 
-        ![Open incidents by assignment group pie visualization with legend showing value and percentage options](../../reporting/image/dv-ex-donut-legend-options.png)
+        ![Open incidents by assignment group pie visualization with legend showing value and percentage options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/dv-ex-donut-legend-options.png)
 
 9.  Clear **Show legend** and select **Show data labels**.
 
@@ -145,11 +145,11 @@ You have created a donut visualization grouped on one value. You have also confi
 
 Create a semi-donut visualization.
 
--   Select the More actions button \(![The More actions icon which consists of three vertical dots](../../../administer/integrationhub/images/more-actions-menu-icon.png)\) and choose **Duplicate**.
+-   Select the More actions button \(![The More actions icon which consists of three vertical dots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/integrationhub/images/more-actions-menu-icon.png)\) and choose **Duplicate**.
 -   Name the new visualization `Semi-donut - Open incidents` and select **Duplicate**.
 -   Change the Visualization type to Semi-donut and select **Save**.
 
 The semi-donut has all the same settings as the donut, but is a half circle instead of a full circle.
 
-**Parent Topic:**[Create a pie or donut data visualization](../../reporting/task/create-dv-donut-ac.md)
+**Parent Topic:**[Create a pie or donut data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/create-dv-donut-ac.md)
 

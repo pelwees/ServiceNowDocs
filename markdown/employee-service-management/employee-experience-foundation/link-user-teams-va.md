@@ -42,5 +42,5 @@ The authentication step occurs in your instance or in a Service Portal set by yo
 5.  On the confirmation dialog, select Confirm to link your account.
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-sn-ms-teams.md)
 

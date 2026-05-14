@@ -34,5 +34,5 @@ Role required: rota\_manager or rota\_admin
     The escalation settings are used only to configure reminders for escalations. The **Reminder lead time** is in the Reminder Communication section of the Roster form, and is used to email reminders for upcoming on-call commitments.
 
 
-**Parent Topic:**[Configure or update an On-Call shift](config-update-shift-oncall.md)
+**Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 

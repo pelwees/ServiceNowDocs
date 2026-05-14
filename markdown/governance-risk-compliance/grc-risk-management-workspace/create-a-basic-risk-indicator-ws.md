@@ -274,5 +274,5 @@ Previous status of the indicator to show whether the indicator passed or failed.
         Live records always open in the classic user interface and not in the Risk Workspace user interface.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

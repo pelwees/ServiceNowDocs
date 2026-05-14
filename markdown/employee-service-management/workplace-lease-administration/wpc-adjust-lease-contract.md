@@ -40,12 +40,12 @@ To adjust a contract, the **State** should be **Active**.
 4.  Click **Submit Adjustments**.
 
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-wpc.md)
 
 **Related topics**  
 
 
-[Renew workplace contract in Workplace Central](wpc-renew-lease-workplace-contracts.md)
+[Renew workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-renew-lease-workplace-contracts.md)
 
-[Cancel workplace contract in Workplace Central](wpc-cancel-lease-contract.md)
+[Cancel workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-cancel-lease-contract.md)
 

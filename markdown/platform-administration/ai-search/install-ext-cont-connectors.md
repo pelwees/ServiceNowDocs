@@ -36,7 +36,7 @@ When you install this plugin, it automatically installs plugins for the followin
 
 Your instance needs inbound mTLS support to run external content connector crawls. If inbound mTLS support isn't already activated for your instance, it should be automatically activated after you install the External Content Connectors Application Suite plugin.
 
-**Note:** Automatic activation of inbound mTLS support on your instance may take up to 24 hours. To check the activation status for this feature, see [Verify whether inbound mTLS support is activated for your instance](verify-adcv2-inbound-mtls-enabled.md).
+**Note:** Automatic activation of inbound mTLS support on your instance may take up to 24 hours. To check the activation status for this feature, see [Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-adcv2-inbound-mtls-enabled.md).
 
 ## Procedure
 
@@ -50,17 +50,17 @@ Your instance needs inbound mTLS support to run external content connector crawl
 
 3.  Select **Install**.
 
-4.  If you want to use the ServiceNow product documentation external content connector, repeat steps [2](install-ext-cont-connectors.md#find-ecc-app) and [3](install-ext-cont-connectors.md#install-ecc-app) to find and install the External Content Connectors SN Docs \(sn\_ext\_conn\_sndocs\) application.
+4.  If you want to use the ServiceNow product documentation external content connector, repeat steps [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ext-cont-connectors.md#find-ecc-app) and [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ext-cont-connectors.md#install-ecc-app) to find and install the External Content Connectors SN Docs \(sn\_ext\_conn\_sndocs\) application.
 
-5.  If you want to use the Webcrawler external content connector, repeat steps [2](install-ext-cont-connectors.md#find-ecc-app) and [3](install-ext-cont-connectors.md#install-ecc-app) to find and install the External Content Connectors Web Crawler \(sn\_ext\_conn\_wc\) application.
+5.  If you want to use the Webcrawler external content connector, repeat steps [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ext-cont-connectors.md#find-ecc-app) and [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ext-cont-connectors.md#install-ecc-app) to find and install the External Content Connectors Web Crawler \(sn\_ext\_conn\_wc\) application.
 
 
 ## What to do next
 
-With the External Content Connectors applications installed, ServiceNow AI Platform admins can configure connectors to crawl content, metadata, users, and group memberships from supported external content repositories, and AI Search administrators can configure crawl settings and create and schedule crawls for those connectors. For details on external content connector configuration, see [Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md).
+With the External Content Connectors applications installed, ServiceNow AI Platform admins can configure connectors to crawl content, metadata, users, and group memberships from supported external content repositories, and AI Search administrators can configure crawl settings and create and schedule crawls for those connectors. For details on external content connector configuration, see [Configuring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/configuring-ext-cont-connectors.md).
 
--   **[Verify whether inbound mTLS support is activated for your instance](verify-adcv2-inbound-mtls-enabled.md)**  
+-   **[Verify whether inbound mTLS support is activated for your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/verify-adcv2-inbound-mtls-enabled.md)**  
 Check whether inbound mTLS support is activated for your ServiceNow AI Platform® instance. You need this feature activated to run crawls for external content connectors.
 
-**Parent Topic:**[External Content Connectors](../reference/ext-cont-connectors-landing-page.md)
+**Parent Topic:**[External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/ext-cont-connectors-landing-page.md)
 

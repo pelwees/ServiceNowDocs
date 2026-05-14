@@ -101,7 +101,7 @@ State
 
 </td><td>
 
-[State of the improvement initiative](cim-reference.md). This field is read only.
+[State of the improvement initiative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md). This field is read only.
 
 -   New
 -   Accepted
@@ -649,7 +649,7 @@ State
 
 </td><td>
 
-[State of the task](cim-reference.md).
+[State of the task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md).
 
 -   Pending
 -   Open
@@ -797,7 +797,7 @@ State
 
 </td><td>
 
-[State of the approval](cim-reference.md).
+[State of the approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md).
 
 -   Not Yet Requested
 -   Requested
@@ -833,5 +833,5 @@ Created
 Date the improvement initiative was created.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Continual Improvement Management reference](cim-reference.md)
+</table>**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 

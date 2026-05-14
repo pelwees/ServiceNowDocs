@@ -15,7 +15,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 ServiceNow Discovery uses the AWS DB cluster discovery pattern to find and map Aurora DB clusters, Aurora Serverless resources, Amazon Neptune DB instances, and Amazon DocumentDB instances. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-The discovered DB clusters form new relationships with the DB Instances discovered by the AWS Relational Database Service pattern. Therefore, the AWS DB cluster pattern is triggered after the AWS Relational Database Service pattern during discovery. For further information, see [Amazon Relational Database Service \(Amazon RDS\) discovery with Patterns](aws-rds-discovery.md).
+The discovered DB clusters form new relationships with the DB Instances discovered by the AWS Relational Database Service pattern. Therefore, the AWS DB cluster pattern is triggered after the AWS Relational Database Service pattern during discovery. For further information, see [Amazon Relational Database Service \(Amazon RDS\) discovery with Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/aws-rds-discovery.md).
 
 ## Request apps on the Store
 
@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   Install the Discovery and Service Mapping Patterns application \(version 1.0.75\) from the ServiceNow Store.
 -   On the ServiceNow AI Platform, configure AWS credentials, using a secret key and an access key.
--   [Create a service account](../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the **Account ID** to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
+-   [Create a service account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../cloud-management-v2-setup/task/aws-first-cld-and-srvc-accts.md). Set the **Account ID** to the Amazon account ID to which RDS belongs. Use the Account ID as it appears in the AWS Management Console.
 -   Set read-only permissions for these REST APIs:
     -   https://rds.&lt;REGION&gt;.amazonaws.com/?Action=DescribeDBInstances
     -   https://rds.&lt;REGION&gt;.amazonaws.com/?Action=DescribeDBClusters
@@ -212,5 +212,5 @@ IP netmask \[0.0.0.0\].​
 |cmdb\_key\_value|Reference only​|cmdb\_ci\_cloud\_db\_cluster​|
 |cmdb\_key\_value|Reference only​|cmdb\_ci\_cloud\_database|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-Type an agent name in the **Search resources** field and select the Search \(![Search.](../image/search_icon.png)\) icon.
+Type an agent name in the **Search resources** field and select the Search \(![Search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/search_icon.png)\) icon.
 
 </td></tr><tr><td id="d139075e126">
 
@@ -49,8 +49,8 @@ Type an agent name in the **Search resources** field and select the Search \(![S
 
 </td><td>
 
-Rank resources by level of importance.1.  Select the Rank Resources ![Rank resources.](../image/rank-resources-icon-fsm.png) icon
-2.  Select a sort option to view the agents who meet the specific attributes and are available: **Default**, **Distance**, **Skills**, **Parts**, **Auto Assign Rules**. For more information, see [Activate dynamic scheduling](activate-dynamic-scheduling-plugin.md).
+Rank resources by level of importance.1.  Select the Rank Resources ![Rank resources.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/rank-resources-icon-fsm.png) icon
+2.  Select a sort option to view the agents who meet the specific attributes and are available: **Default**, **Distance**, **Skills**, **Parts**, **Auto Assign Rules**. For more information, see [Activate dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-dynamic-scheduling-plugin.md).
 
 
 </td></tr><tr><td id="d139075e175">
@@ -70,5 +70,5 @@ Field service agents are listed based on the filter criteria. If agents aren’t
 **Related topics**  
 
 
-[Assign work order tasks to agents](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../concept/manage-work-order-tasks-dw.md#)
 

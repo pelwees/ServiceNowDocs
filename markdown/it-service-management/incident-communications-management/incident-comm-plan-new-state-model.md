@@ -17,7 +17,7 @@ Incident communication plan state model helps you to understand the different st
 
 Incident communication plans are created with an **Open** state. They follow a process that finishes with the **Closed** or **Canceled** state. The following state model is applicable to new customers starting the Madrid release.
 
-![Stages of an incident communication plan](../image/icm-new-state-model.png "Incident communication plan state model")
+![Stages of an incident communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../image/icm-new-state-model.png "Incident communication plan state model")
 
 The following two properties are responsible for different actions that take place on Incident Communication Plan and Incident Communication Task:
 
@@ -30,5 +30,5 @@ The following two properties are responsible for different actions that take pla
 
 **Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the Incident Communications Management plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
 
-For more information on the old Incident Communications Plan state model, see [Incident communication plan state model \(old\)](../reference/r_IncidentAlertLifeCycle.md).
+For more information on the old Incident Communications Plan state model, see [Incident communication plan state model \(old\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../reference/r_IncidentAlertLifeCycle.md).
 

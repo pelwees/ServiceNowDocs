@@ -29,14 +29,14 @@ Role required: sn\_erp\_integration.erp\_admin
 
 2.  Open the ERP systems list by selecting the systems icon ![](../image/erp-systems-icon-sidebar.png) in the side panel.
 
-    ![Zero Copy Connector for ERP systems list.](../image/erpc-system-list-ys2.png)
+    ![Zero Copy Connector for ERP systems list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-system-list-ys2.png)
 
 3.  Select a system **Name**.
 
 4.  Check the retrieval and heartbeat information to confirm that the system has no connectivity issues.
 
-    For a description of the field values, see [Zero Copy Connector for ERP system list field descriptions](../reference/erp-canvas-system-list-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP system list field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-system-list-descriptions.md).
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-work-with-systems.md)
 

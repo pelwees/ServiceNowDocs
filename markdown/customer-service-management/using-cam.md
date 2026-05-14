@@ -20,7 +20,7 @@ Customer access management enables you to support multiple contacts and consumer
 **Related topics**  
 
 
-[Configuring customer access management](configuring-cam.md)
+[Configuring customer access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-cam.md)
 
-[Restrict contact access](../task/manage-account-access-cam.md)
+[Restrict contact access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/manage-account-access-cam.md)
 

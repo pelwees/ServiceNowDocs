@@ -58,7 +58,7 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Transaction Call Chain Register form, fill in the fields.
 
-    For a description of the field values, see [Transaction call chain register form](../reference/transaction-call-chain-reg-form.md).
+    For a description of the field values, see [Transaction call chain register form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../reference/transaction-call-chain-reg-form.md).
 
 3.  Select **Submit**.
 
@@ -71,7 +71,7 @@ A call chain register is created to designate that the next occurrence of the tr
 
 ## What to do next
 
-[Review a transaction call chain](review-transaction-call-chain.md)
+[Review a transaction call chain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/review-transaction-call-chain.md)
 
-**Parent Topic:**[Transaction call chains](../concept/transaction-call-chains.md)
+**Parent Topic:**[Transaction call chains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/transaction-call-chains.md)
 

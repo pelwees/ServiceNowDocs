@@ -26,7 +26,7 @@ Role required:
 
 This example shows how a community user experiences announcements and how you can configure the appearance and operation of announcements.
 
-![Community announcements page displaying global and forum announcements with options to hide or dismiss the announcements.](../images/announcements_annotated.png "Community User Experience Announcements")
+![Community announcements page displaying global and forum announcements with options to hide or dismiss the announcements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/announcements_annotated.png "Community User Experience Announcements")
 
 ## Procedure
 
@@ -167,5 +167,5 @@ This setting appears for Global announcements only. Determines how the user can 
 -   To update an announcement, update any setting as needed and then click **Update**. If you specified **Send email notification**, then you are prompted to send the updated email message.
 -   To cancel an announcement, clear the **Active** check box.
 
-**Parent Topic:**[Community Service Portal](../concept/community-service-portal.md)
+**Parent Topic:**[Community Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/community-service-portal.md)
 

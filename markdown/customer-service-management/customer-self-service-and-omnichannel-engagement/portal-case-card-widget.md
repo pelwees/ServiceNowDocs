@@ -17,7 +17,7 @@ The Portal Case Cards widget displays cards for cases that you define. By defaul
 
 The following illustration shows the default card view with cases that are currently in the awaiting info and resolved states.
 
-![Portal Case Cards widget displaying case cards.](../image/portal-case-cards-widget.png "Portal Case Cards widget")
+![Portal Case Cards widget displaying case cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-case-cards-widget.png "Portal Case Cards widget")
 
-For more information about how to configure the instance options for the Portal Case Cards widget, see [Add and configure the Portal Case Cards widget](../task/portal-case-card-widget-inst-optns.md).
+For more information about how to configure the instance options for the Portal Case Cards widget, see [Add and configure the Portal Case Cards widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/portal-case-card-widget-inst-optns.md).
 

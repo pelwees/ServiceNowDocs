@@ -27,10 +27,10 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 3.  Select **Analysis** &gt; **Conversion funnel**.
 
-4.  Select the Actions menu ![Actions menu icon](../../integrationhub/images/more-actions-menu-icon.png) of the funnel you want to delete and choose **Delete**.![Conversion funnel module with Actions menu and Delete option highlighted](../../../use/par-for-workspace/image/uxa-funnel-delete.png)
+4.  Select the Actions menu ![Actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../integrationhub/images/more-actions-menu-icon.png) of the funnel you want to delete and choose **Delete**.![Conversion funnel module with Actions menu and Delete option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-funnel-delete.png)
 
 5.  Confirm your choice by selecting **Delete**.
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/funnel-reports-uxa.md)
 

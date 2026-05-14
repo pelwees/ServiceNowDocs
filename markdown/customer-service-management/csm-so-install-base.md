@@ -28,7 +28,7 @@ Service organizations can:
 **Related topics**  
 
 
-[Sold products and install base plugins for service organizations](../reference/so-install-base-plugins.md)
+[Sold products and install base plugins for service organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/so-install-base-plugins.md)
 
-[Assign roles](../task/configure-data-model-roles.md)
+[Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-data-model-roles.md)
 

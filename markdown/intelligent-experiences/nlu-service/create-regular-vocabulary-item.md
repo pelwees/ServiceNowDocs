@@ -25,7 +25,7 @@ Add a word or phrase that your users might use, and match that vocabulary item t
 
 Regular vocabulary items provide the model with a synonym for words or phrases your users might use in an utterance. The model uses the synonym to replace the vocabulary when predicting the intent. Use a single word for the synonym when possible.
 
-Regular vocabulary items are case-insensitive by default. If you need to create a case-sensitive vocabulary item, use a pattern vocabulary item. For more information, see [Create a pattern vocabulary item](create-pattern-vocabulary-item.md).
+Regular vocabulary items are case-insensitive by default. If you need to create a case-sensitive vocabulary item, use a pattern vocabulary item. For more information, see [Create a pattern vocabulary item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-pattern-vocabulary-item.md).
 
 **Note:** Choose a synonym that is a commonly-occurring word in the same language as your model.
 
@@ -43,7 +43,7 @@ In this example scenario, you are adding a vocabulary item for the word credenti
 
 4.  In the Vocabulary tab, select **Add a vocabulary**.
 
-    ![Add a vocabulary button in the Vocabulary tab of the Manage your model content phase.](../images/create-regular-vocabulary-item4.png)
+    ![Add a vocabulary button in the Vocabulary tab of the Manage your model content phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-regular-vocabulary-item4.png)
 
 5.  In the **Add a vocabulary** window, select **Regular** as the Type.
 
@@ -51,7 +51,7 @@ In this example scenario, you are adding a vocabulary item for the word credenti
 
     In this example procedure, add credentials as the vocabulary and password as the synonym.
 
-    ![Add a vocabulary window for a regular vocabulary item.](../images/create-reg-vocabT2.png)
+    ![Add a vocabulary window for a regular vocabulary item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-reg-vocabT2.png)
 
 7.  Select **Save**.
 

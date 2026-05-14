@@ -33,7 +33,7 @@ Role required: sn\_si.analyst
 
     -   If at least one selected security incident has pending activities such as active tasks, playbooks, child SIs, assessments, or active flows, the **Security incidents with active tasks, playbooks, child SIs, assessments and active flows** link is displayed.
     -   If at least one security incident selected for closing has no pending closing activities, the **Security incidents ready to be closed** link is displayed.
-    ![Close multiple security incidents](../image/bulk-closure-sir.png)
+    ![Close multiple security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/bulk-closure-sir.png)
 
     Any active pending active tasks, playbooks, child SIs, assessments, and active flows will automatically be closed when you proceed with the bulk closure.
 
@@ -70,24 +70,24 @@ Role required: sn\_si.analyst
 
 The incident closing activity runs in the background.
 
-**Parent Topic:**[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+**Parent Topic:**[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/setting-up-list-view-in-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Personalize a list](../concept/personalize-a-list.md)
+[Personalize a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/personalize-a-list.md)
 
-[Apply quick filters on Security Incidents and Response Tasks lists](../concept/use-quick-filters-for-security-incidents.md)
+[Apply quick filters on Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/use-quick-filters-for-security-incidents.md)
 
-[Assign Security Incidents](../concept/assign-security-incident.md)
+[Assign Security Incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/assign-security-incident.md)
 
-[Assign Response Tasks](assign_response_tasks.md)
+[Assign Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/assign_response_tasks.md)
 
-[Report Phish Email](report-phish-email.md)
+[Report Phish Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-phish-email.md)
 
-[Working with quick filters](../concept/configure-quick-filters.md)
+[Working with quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-quick-filters.md)
 
-[Export Security Incidents or Response Tasks](../concept/export-security-incidents-or-response-tasks.md)
+[Export Security Incidents or Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/export-security-incidents-or-response-tasks.md)
 
-[Manage Shift Handover records](../concept/manage-shift-handover-records.md)
+[Manage Shift Handover records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-shift-handover-records.md)
 

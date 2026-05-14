@@ -23,7 +23,7 @@ Subscription required: This feature requires an Integration Hub subscription. Fo
 
 Ensure that you've installed the required spoke plugin.
 
-**Parent Topic:**[Set up external trigger endpoints](set-up-external-webhook-endpoints.md)
+**Parent Topic:**[Set up external trigger endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-external-webhook-endpoints.md)
 
 ## Configure endpoint with Hash message support
 
@@ -41,19 +41,19 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Under the Endpoints heading, select **Configure** for the connection to set up an endpoint with hash message authentication support.
 
-    ![Configure button for hash message authentication.](../images/configure-hash-message-auth.png)
+    ![Configure button for hash message authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-hash-message-auth.png)
 
 2.  In the Configure endpoint form, select Generate secret.
 
-    ![Generate secret link.](../images/configure-endpoint-generate-secret.png)
+    ![Generate secret link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-generate-secret.png)
 
     The secret is generated in the Secret field.
 
-3.  To generate the endpoint that the external webhook uses to connect to your ServiceNow instance, select **Activate**.![Activate button.](../images/configure-endpoint-activate-endpoint.png)
+3.  To generate the endpoint that the external webhook uses to connect to your ServiceNow instance, select **Activate**.![Activate button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-activate-endpoint.png)
 
-    The value in the Header parameter name field becomes available after you generate the endpoint.![Endpoint generated.](../images/configure-hash-auth-generate-endpoint.png)
+    The value in the Header parameter name field becomes available after you generate the endpoint.![Endpoint generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-hash-auth-generate-endpoint.png)
 
-4.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](../images/copy-endpoint-icon.png)\)
+4.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/copy-endpoint-icon.png)\)
 
     **Tip:** Keep the endpoint at a secure place to use later at the third-party application webhook.
 
@@ -99,7 +99,7 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Select **Edit**.
 
-    ![Edit button.](../images/endpoint-deconfigure-hash-edit-button.png).
+    ![Edit button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/endpoint-deconfigure-hash-edit-button.png).
 
     1.  Select **Update**.
 
@@ -109,7 +109,7 @@ Ensure that you've installed the required spoke plugin.
 
 2.  Remove the secret.
 
-    ![Secret field.](../images/endpoint-deconfigure-hash-remove-secret.png).
+    ![Secret field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/endpoint-deconfigure-hash-remove-secret.png).
 
 3.  Select **Update**.
 

@@ -22,5 +22,5 @@ Performance degrades whenever you purge and rebuild the instance cache. During c
 -   Committing update sets
 -   Adding or updating translations
 
-**Parent Topic:**[Resolving platform performance issues](resolving-plat-performance-issues.md)
+**Parent Topic:**[Resolving platform performance issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-plat-performance-issues.md)
 

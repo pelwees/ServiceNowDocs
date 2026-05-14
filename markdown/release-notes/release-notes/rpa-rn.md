@@ -119,7 +119,7 @@ To use the RPA Desktop Design Studio application, the software requirements are:
 
 ## Browser requirements
 
-ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+ServiceNow workspaces don’t support mobile devices. For more information about the list of supported browsers, see [Browser support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../../administer/navigation-and-ui/reference/browser-support.md).
 
 ## Accessibility information
 
@@ -139,5 +139,5 @@ RPA Hub supports international languages. For more information, see [Internation
     ServiceNow® Workflow Studio integrates with RPA Hub for a seamless robot execution. You can use the Workflow Studio design environment to author flows and actions, as well as view the results they produce.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

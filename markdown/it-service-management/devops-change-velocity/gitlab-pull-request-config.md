@@ -32,7 +32,7 @@ When enabled, the pull \(merge\) request changes will be reflected in DevOps Cha
 
 For pull request and orchestration pipeline linking and to enable change approval tracking, the following are required:
 
--   Use GitLab Docker for change tracking. For detailed information, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).
+-   Use GitLab Docker for change tracking. For detailed information, see [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md).
 -   From your GitLab project,
     1.  Navigate to
         -   For GitLab cloud: **Settings** &gt; **Merge requests**.
@@ -41,7 +41,7 @@ For pull request and orchestration pipeline linking and to enable change approva
 
         With this selection, only if the change is approved, you can proceed with the merge request. That is, when the check box is selected, pull requests will be blocked until the change is approved.
 
-        ![Settings for merge options.](../image/gitlab-merge-01.png)
+        ![Settings for merge options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-merge-01.png)
 
     3.  Select **Save changes**.
 -   Navigate to your project and open the `.yml` file.
@@ -78,5 +78,5 @@ For pull request and orchestration pipeline linking and to enable change approva
     ```
 
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 

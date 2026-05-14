@@ -38,7 +38,7 @@ For classic risk, the following risk criteria are defined with the respective co
 
 If you want to add or modify a risk criteria or a risk rating, a report administrator with the role, report\_admin, can configure your chart colors. For more information on configuring chart colors, see [Using chart colors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ChartColors.md).
 
-![Chart colors defined for risk.](../image/chart-colors.jpg "Chart colors")
+![Chart colors defined for risk.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/chart-colors.jpg "Chart colors")
 
-**Parent Topic:**[Using the Risk Workspace](../../grc-workspace-risk/concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/concept/using-risk-workspace.md)
 

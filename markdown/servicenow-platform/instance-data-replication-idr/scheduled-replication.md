@@ -19,5 +19,5 @@ Instead of continuously replicating data as it's created or changed on your prod
 
 For example, you should avoid continuous replication of CMDB tables. Replicating CMDB data as changes occur can create performance issues or unforeseen consequences with replication due to the number of records involved. Instead, you can use scheduled replication to periodically replicate CMDB data that accumulates on the producer instance.
 
-For more information, see [Set up scheduled replication](../task/set-up-scheduled-replication-idr.md).
+For more information, see [Set up scheduled replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/set-up-scheduled-replication-idr.md).
 

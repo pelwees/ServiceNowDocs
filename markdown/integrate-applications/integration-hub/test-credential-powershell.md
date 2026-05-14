@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Open the action with the PowerShell step that has the credential you want to test.
 
-    If you don't have a PowerShell step you're already working with, you can [Create an action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) with a new [PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md).
+    If you don't have a PowerShell step you're already working with, you can [Create an action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) with a new [PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/powershell-step-action-designer.md).
 
 3.  In the Connection Details section, enter the connection information.
 
@@ -40,12 +40,12 @@ Role required: admin
 
 When the test completes, you can view information about the tested credential in the Test Results section. This section shows the username and target for the credential, its validation status, and any error messages.
 
-![Test credential results showing the Username, Target, Validated, and Error fields.](../images/PowerShell-test-cred-result.png "Sample result of credential test in the PowerShell step")
+![Test credential results showing the Username, Target, Validated, and Error fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/PowerShell-test-cred-result.png "Sample result of credential test in the PowerShell step")
 
-**Parent Topic:**[PowerShell step](../../flow-designer/reference/powershell-step-action-designer.md)
+**Parent Topic:**[PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/powershell-step-action-designer.md)
 
 **Related topics**  
 
 
-[Configure logging for the PowerShell step](configure-logging-powershell-step.md)
+[Configure logging for the PowerShell step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-logging-powershell-step.md)
 

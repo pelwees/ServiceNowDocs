@@ -29,7 +29,7 @@ Role required: sn\_cm\_core.contract\_fulfiller or sn\_cm\_core.contract\_user
 
 4.  On the Add Signatory form, indicate whether you are configuring an internal or external signatory by selecting **Internal** or **External**.
 
-    ![Add signatories in contract request.](../image/cmpro-add-sign.png "Add signatory")
+    ![Add signatories in contract request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-add-sign.png "Add signatory")
 
 5.  Configure the signatories.
 
@@ -70,5 +70,5 @@ The fields **Authorized signatory name**, **Signatory**, and **Signatory email**
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-request-ss-contract-1.md)
 

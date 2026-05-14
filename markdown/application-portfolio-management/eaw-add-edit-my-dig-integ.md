@@ -27,9 +27,9 @@ The digital integration form helps you define why a connection is required betwe
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![portfolio icon.](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![portfolio icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![expand row icon.](../../image/ExpandIcon.png)\) next to **My Entities**.
+3.  Select the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **My Entities**.
 
 4.  Select **My Digital Integrations**.
 
@@ -39,23 +39,23 @@ The digital integration form helps you define why a connection is required betwe
     -   To update an existing digital integration, select the digital integration, select **Edit**.
 6.  On the **Digital Integration** form, fill in the fields.
 
-    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](../../reference/eaw-reference/eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](../../reference/eaw-reference/eaw-update-digital-integration-form.md).
+    For a description of the field values, see [Digital integration form \(easy form\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-digital-integ-form.md) or [Digital integration form in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-update-digital-integration-form.md).
 
 7.  Select **Add** or **Update**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-your-entities.md)
 
 **Related topics**  
 
 
-[View your digital integrations](eaw-my-digital-integrations.md)
+[View your digital integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-my-digital-integrations.md)
 
-[View all digital integrations](eaw-view-all-dig-integ.md)
+[View all digital integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-dig-integ.md)
 
-[Add or edit a digital integration in the EA Workspace](eaw-create-digital-integ.md)
+[Add or edit a digital integration in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-digital-integ.md)
 
-[Manage architectural artifacts of a digital integration in EA Workspace](eaw-assoicate-artifact-dig-intgn.md)
+[Manage architectural artifacts of a digital integration in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-dig-intgn.md)
 
-[Associate an information object to a digital integration](eaw-dig-integ-add-info-object.md)
+[Associate an information object to a digital integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-integ-add-info-object.md)
 

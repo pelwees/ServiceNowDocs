@@ -22,34 +22,34 @@ Domain separation is unsupported for Supplier Lifecycle Operations. Domain separ
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Supplier Lifecycle Operations reference](../reference/supp-mgmt-reference.md)
+**Parent Topic:**[Supplier Lifecycle Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/supp-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Create New Supplier Case form](../reference/new-supplier-case.md)
+[Create New Supplier Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/new-supplier-case.md)
 
-[Create new task form](../reference/create-new-supplier-task-form.md)
+[Create new task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/create-new-supplier-task-form.md)
 
-[Add New Location form](../reference/supplier-location-form.md)
+[Add New Location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/supplier-location-form.md)
 
-[Update banking details form](../reference/update-supp-banking-form.md)
+[Update banking details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/update-supp-banking-form.md)
 
-[Update profile details form](../reference/update-supp-profile-form.md)
+[Update profile details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/update-supp-profile-form.md)
 
-[Onboard a Supplier form](../reference/onboard-supp-form.md)
+[Onboard a Supplier form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/onboard-supp-form.md)
 
-[Create New Documents form](../reference/create-new-doc-form.md)
+[Create New Documents form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/create-new-doc-form.md)
 
-[Primary data tables for Supplier Lifecycle Operations](../reference/slo-primary-data-tables.md)
+[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/slo-primary-data-tables.md)
 
-[Supplier Lifecycle Operations data model](../reference/slo-data-model.md)
+[Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/slo-data-model.md)
 
-[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 
-[Supplier Payment Optimization reference](supp-payment-opt-ref.md)
+[Supplier Payment Optimization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-payment-opt-ref.md)
 
-[Supplier Lifecycle Operations glossary](slo-glossary.md#)
+[Supplier Lifecycle Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-glossary.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

@@ -23,11 +23,11 @@ Role required: admin
 
 As a team member, you can:
 
--   [View messages](t_ViewATeamFeed.md) posted to the team \(team feed\). Non-members can also view the feed for a public team.
--   [View a list of team members](t_ViewATeamMember.md).
--   [Invite another team](t_InviteANewMember.md) to join the team.
--   [Subscribe to team email notifications](t_SubscribToTeamEmailNotif.md).
--   [Leave](t_LeaveATeam.md) the team.
+-   [View messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewATeamFeed.md) posted to the team \(team feed\). Non-members can also view the feed for a public team.
+-   [View a list of team members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ViewATeamMember.md).
+-   [Invite another team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_InviteANewMember.md) to join the team.
+-   [Subscribe to team email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SubscribToTeamEmailNotif.md).
+-   [Leave](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_LeaveATeam.md) the team.
 
 ## Procedure
 
@@ -39,5 +39,5 @@ As a team member, you can:
     -   If the team is public, click **Join**.
     -   If the team is private, click **Request**. The team administrator receives an email notification and must accept your request before you can join the team.
 
-**Parent Topic:**[Use teams in Live Feed](../concept/c_UseTeamsInLiveFeed.md)
+**Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_UseTeamsInLiveFeed.md)
 

@@ -29,7 +29,7 @@ You can analyze the course items that were most taken by your team members. You 
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Select the coaching icon \(![Coaching icon](../image/coaching-icon-uib.png)\).
+2.  Select the coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-icon-uib.png)\).
 
 3.  Select the **Learning** tab.
 
@@ -42,7 +42,7 @@ You can analyze the course items that were most taken by your team members. You 
         -   Whether the course item is an internal or an external course item.
         -   Skills associated with the course. If a course has more than one skill, you can select the count next to a skill and view all skills. To remove a skill, select a skill and select **Remove**.
     -   You can close the status of a course item for any of your team members that you directly or additionally manage and by selecting **Mark as complete** for that course item.​
-5.  Select the assign icon \(![Assign course icon](../image/assign-course-icon.png)\) for the course item you want to assign to agents.
+5.  Select the assign icon \(![Assign course icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/assign-course-icon.png)\) for the course item you want to assign to agents.
 
 6.  In the **Assign learning course** screen, assign the learning course to groups or team members.
 
@@ -85,5 +85,5 @@ Select **To my groups**.
         -   The course that is most taken by your agents is identified with the **Most taken** highlight.
         -   The course that has been created less than five days before the current date is identified with the **New** highlight.
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/workforce-learning-configurable-wfo-itsm.md)
 

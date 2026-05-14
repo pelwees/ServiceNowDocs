@@ -15,12 +15,12 @@ Once you have the spoke custom actions working, you need to create a remote tabl
 
 Create a remote table as shown in the following example.
 
-![Salesforce Opportunity remote table listing data in columns.](../image/remote-table-salesforce-opportunity.jpg)
+![Salesforce Opportunity remote table listing data in columns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/remote-table-salesforce-opportunity.jpg)
 
 Create the script definition for the remote table \(u\_st\_salesforce\_opportunity\), which does the following:
 
 -   Uses the spoke custom actions to pull data from the Opportunity table in the Salesforce instance.
 -   Maps the response from Salesforce into the remote table columns.
 
-**Parent Topic:**[Using remote tables and the Salesforce spoke](csm-integration-remote-tables.md)
+**Parent Topic:**[Using remote tables and the Salesforce spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-remote-tables.md)
 

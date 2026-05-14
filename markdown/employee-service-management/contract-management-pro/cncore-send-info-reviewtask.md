@@ -42,7 +42,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Review tasks** &gt; **All**
 4.  Open the review task from the list
 
@@ -88,7 +88,7 @@ Steps
 
 4.  Select the file to be shared.
 
-5.  In the Comments field, enter work notes.![Send the information requested by a reviewer for an internal review task](../image/cmpro-internal-review-send-info.png)
+5.  In the Comments field, enter work notes.![Send the information requested by a reviewer for an internal review task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-internal-review-send-info.png)
 
 6.  Select **Send**.
 
@@ -97,5 +97,5 @@ Steps
 
 The information is shared with reviewer and the review task State changes to Work in progress.
 
-**Parent Topic:**[Internal review overview](cncore-expert-review.md)
+**Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 

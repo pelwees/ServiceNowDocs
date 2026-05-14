@@ -31,27 +31,27 @@ Role required: sn\_ti.case\_user\_write
 
 5.  Select one or more observables for which you want to search for sightings.
 
-    ![Run a sightings search](../image/run-sightings-search-obs.png)
+    ![Run a sightings search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/run-sightings-search-obs.png)
 
 6.  From the **Actions on selected items** drop-down list, select **Run sightings search**.
 
     The **Run Sighting Search** dialog box appears.
 
-    ![Sightings search](../image/SightingsSearch.png)
+    ![Sightings search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/SightingsSearch.png)
 
 7.  Either enter the number of days or hours you want to search for sightings of the selected observables, or select a date range.
 
 8.  Click **Search**.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-in-threat.md)
 
 **Related topics**  
 
 
-[Create a case from IoCs or observables](create-cases-threat.md)
+[Create a case from IoCs or observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-threat.md)
 
-[Add IoCs and observables to an existing case](add-records-to-cases-threat.md)
+[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)
 
-[Create an observable from a case](create-an-observable-from-a-case.md)
+[Create an observable from a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-an-observable-from-a-case.md)
 

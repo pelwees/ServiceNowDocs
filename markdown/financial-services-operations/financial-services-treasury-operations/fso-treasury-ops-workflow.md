@@ -26,7 +26,7 @@ These workflows are built using [Process Automation Designer](https://raw.github
 
 The following diagram shows how the application helps bank agents resolve a treasury request for onboarding RDC service.
 
-![Workflow that shows how onboarding of RDC treasury service is completed using the treasury operations application. For the text description, refer to the workflow steps that follow.](../image/treasury-ops-rdc-workflow.png "Treasury operations workflow example for onboarding RDC service")
+![Workflow that shows how onboarding of RDC treasury service is completed using the treasury operations application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/../image/treasury-ops-rdc-workflow.png "Treasury operations workflow example for onboarding RDC service")
 
 ## General workflow for Treasury Operations
 
@@ -61,5 +61,5 @@ The following is a typical treasury workflow in the Financial Services Treasury 
 
 The state and stage of the case is set to Closed Complete.
 
-**Parent Topic:**[Using Financial Services Treasury Operations](using-treasury-ops.md)
+**Parent Topic:**[Using Financial Services Treasury Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/using-treasury-ops.md)
 

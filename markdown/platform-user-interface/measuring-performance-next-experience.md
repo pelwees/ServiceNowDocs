@@ -112,8 +112,8 @@ Data
 Contextual information for in-page interactions.
 
 </td></tr></tbody>
-</table>-   **[View the server response time](../task/view-server-response-time.md)**  
+</table>-   **[View the server response time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/view-server-response-time.md)**  
 View the server response times that are associated with your Next Experience instance by using the client interaction table.
 
-**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 

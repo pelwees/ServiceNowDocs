@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Open a service-specific form.
 
-3.  Right-click the additional actions context menu ![Context menu](../images/context-menu.png).
+3.  Right-click the additional actions context menu ![Context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/context-menu.png).
 
 4.  Navigate to **Configure** &gt; **Related Lists**.
 
@@ -39,14 +39,14 @@ Role required: admin
 
     **Note:** Due to access control list \(ACL\) restrictions, the **New** button might not work while you are creating a task. You can hide the **New** button on the related list and use the UI action to create a universal task.
 
-    ![Disable the New tab.](../images/ut-relatdlst-new-tab.png)
+    ![Disable the New tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/ut-relatdlst-new-tab.png)
 
     For more information on adding related lists, see [Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md).
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Create UI actions for your service with Universal Task](config-uiactions-for-ut.md)
+**Previous topic:**[Create UI actions for your service with Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-uiactions-for-ut.md)
 
-**Next topic:**[Add a Task tab on the Standard Ticket page](config-stdtktpage-for-ut.md)
+**Next topic:**[Add a Task tab on the Standard Ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-stdtktpage-for-ut.md)
 

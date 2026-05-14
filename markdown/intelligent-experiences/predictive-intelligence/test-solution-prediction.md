@@ -35,13 +35,13 @@ This scenario illustrates a classification solution prediction for a hypothetica
 
     In this case, use the **Name** field value in your ML Solution Definition Incident Categorization record, as illustrated in the following example.
 
-    ![This image hows you where to find the Name field value in your ML Solution Definition Incident Categorization record.](../images/predictive-intelligence-solution-name.png)
+    ![This image hows you where to find the Name field value in your ML Solution Definition Incident Categorization record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intelligence-solution-name.png)
 
 3.  Write down and save the **Input Fields** used in your ML Solution Definition record that you want the REST API Explorer to use in its call to the Predictive Intelligence API.
 
     In this case, we use the **short \_description** field, as the prediction model has been trained to use this field to learn its category definition.
 
-    ![Where to find the Input Fields that you want the REST API Explorer to use in its call to the Predictive Intelligence API](../images/predictive-intelligence-solution-description.png)
+    ![Where to find the Input Fields that you want the REST API Explorer to use in its call to the Predictive Intelligence API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intelligence-solution-description.png)
 
 4.  Navigate to **System Web Services** &gt; **REST** &gt; **REST API Explorer**.
 
@@ -105,7 +105,7 @@ Result: When the form refreshes, an information message appears with the inciden
 
 **Note:** For some short descriptions, the prediction might not process because the solution does not have enough confidence in predicting the value for this input.
 
-**Parent Topic:**[Testing and monitoring predictions](../concept/testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/testing-reviewing-ml-solutions.md)
 
 **Related topics**  
 

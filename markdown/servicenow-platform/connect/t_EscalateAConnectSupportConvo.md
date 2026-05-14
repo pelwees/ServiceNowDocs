@@ -17,13 +17,13 @@ If an escalation path is defined for a Connect Support conversation, you can use
 
 ## Before you begin
 
-Define an escalation path for the queue, using the **Escalate to** field on the Chat Queue \[chat\_queue\] table. For more information, see [Administer Connect Support queues](t_AdministerConnectSupportQueues.md).
+Define an escalation path for the queue, using the **Escalate to** field on the Chat Queue \[chat\_queue\] table. For more information, see [Administer Connect Support queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_AdministerConnectSupportQueues.md).
 
 ## Procedure
 
 1.  Open a Connect Support conversation.
 
-2.  At the bottom of the conversation, click the menu icon \(![Menu icon](../image/IconMenu.png)\) to open the Connect actions menu.
+2.  At the bottom of the conversation, click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMenu.png)\) to open the Connect actions menu.
 
 3.  In the Connect actions menu, select **Escalate**.
 

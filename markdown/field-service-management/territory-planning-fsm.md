@@ -50,14 +50,14 @@ As a territory manager or planner, you can view territories and data points both
 
 The following screenshot highlights data items and a contextual side panel. Selecting a co-located map marker displays detailed asset information, ensuring seamless territory management.
 
-![Map that displays layers and heatmap.](../image/map-overlay-item.jpg)
+![Map that displays layers and heatmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/map-overlay-item.jpg)
 
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-territory-planning-fsm.md)
 
-[Managing territories and agents from Territory Planning console](using-territory-planning-console.md)
+[Managing territories and agents from Territory Planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/using-territory-planning-console.md)
 
-[Field Service Territory Performance Analytics dashboard](../../../use/dashboards/application-content-packs/territory-planning-dashboard.md)
+[Field Service Territory Performance Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/application-content-packs/territory-planning-dashboard.md)
 

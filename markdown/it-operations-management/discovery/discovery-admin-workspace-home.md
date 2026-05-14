@@ -24,9 +24,9 @@ To access the Discovery Admin Workspace, navigate to **Workspaces** &gt; **Disco
 
 View the status of discovery using data counts and identify any irregularities that might impact discovery. For detailed information, select the appropriate tile.
 
-Select the **More options** icon \(![More options icon](../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
+Select the **More options** icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../health-log-analytics-operator/image/icon-menu-sow.png)\), then select **Refresh** to refresh the data for each visualization in this section.
 
-**Note:** You can configure the time scale reflected in the displayed counts on the [Settings](discovery-admin-workspace-setup.md) page.
+**Note:** You can configure the time scale reflected in the displayed counts on the [Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-setup.md) page.
 
 The following data counts display in the Quick overview section:
 
@@ -36,30 +36,30 @@ The following data counts display in the Quick overview section:
 
 -   **Error tasks**
 
-    Displays the active, including pending or in-progress, Discovery error tasks opened in a certain time period. Selecting this number redirects you to the Case management tab on the [Diagnostics](discovery-admin-workspace-diagnostics.md) page, where you can view all Discovery error tasks.
+    Displays the active, including pending or in-progress, Discovery error tasks opened in a certain time period. Selecting this number redirects you to the Case management tab on the [Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md) page, where you can view all Discovery error tasks.
 
 -   **Schedules with anomalies**
 
-    Displays the number of Discovery schedules with anomalies detected over a certain time period. This count only displays when anomaly detection is enabled. If anomaly detection is inactive, select **Turn on** to access the [Settings](discovery-admin-workspace-setup.md) page.
+    Displays the number of Discovery schedules with anomalies detected over a certain time period. This count only displays when anomaly detection is enabled. If anomaly detection is inactive, select **Turn on** to access the [Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-setup.md) page.
 
-    Selecting this number redirects you to the Anomaly detection tab on the [Diagnostics](discovery-admin-workspace-diagnostics.md) page, where you can view details about the type and severity of anomalies.
+    Selecting this number redirects you to the Anomaly detection tab on the [Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md) page, where you can view details about the type and severity of anomalies.
 
 -   **Discovery Operations Monitor**
 
-    Monitor discovery performance across your IT environment. Select **View dashboard** to open the dashboard and view performance metrics for transactions, sensor jobs, MID Server queue load, and probe processing times. For more information, see [Discovery Operations Monitor dashboard](disco-operations-monitor.md).
+    Monitor discovery performance across your IT environment. Select **View dashboard** to open the dashboard and view performance metrics for transactions, sensor jobs, MID Server queue load, and probe processing times. For more information, see [Discovery Operations Monitor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disco-operations-monitor.md).
 
     **Note:** This feature is available starting in Discovery Admin Workspace v1.15.0.
 
 
 ## Discovery admin tasks
 
-Review the three most critical Discovery error tasks. Select the **Edit Task** button to access the details page where you can assign or update the error task, or add work notes. To view and manage all discovery error tasks, select **View all** to access the Case management tab on the [Diagnostics](discovery-admin-workspace-diagnostics.md) page.
+Review the three most critical Discovery error tasks. Select the **Edit Task** button to access the details page where you can assign or update the error task, or add work notes. To view and manage all discovery error tasks, select **View all** to access the Case management tab on the [Diagnostics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md) page.
 
 **Note:** This section focuses solely on Discovery errors that have associated tasks and not all Discovery errors.
 
 ## Discovery tuning advice
 
-Fine-tune Discovery and MID Server settings with automated suggestions derived from scans of your instance. These findings identify potential issues, arranged in order of their criticality. Selecting a finding redirects you to the **Tuning check** page for more details. To view all tuning checks and latest reports, select **View all** to access the [Tuning](discovery-admin-workspace-tuning.md) page.
+Fine-tune Discovery and MID Server settings with automated suggestions derived from scans of your instance. These findings identify potential issues, arranged in order of their criticality. Selecting a finding redirects you to the **Tuning check** page for more details. To view all tuning checks and latest reports, select **View all** to access the [Tuning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-tuning.md) page.
 
 ## Quick Discovery
 
@@ -73,7 +73,7 @@ Select a MID Server, a MID cluster, or enable Discovery to select the MID Server
 
 ## Discovery Guided Setup
 
-The ITOM Discovery Guided Setup leads you through a structured series of configuration activities to promote accurate visibility in the CMDB and establish a strong foundation for IT operations. If you're setting up Discovery for the first time, this is a good way to get your environment up and running quickly. For more information, see [Discovery Guided Setup](discovery-guided-setup.md).
+The ITOM Discovery Guided Setup leads you through a structured series of configuration activities to promote accurate visibility in the CMDB and establish a strong foundation for IT operations. If you're setting up Discovery for the first time, this is a good way to get your environment up and running quickly. For more information, see [Discovery Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-guided-setup.md).
 
 **Note:** This feature is available starting in Discovery Admin Workspace v1.12.0.
 
@@ -83,7 +83,7 @@ Enhance the functionality of the Discovery Admin Workspace by integrating additi
 
 **Note:** Updating applications requires you to have the admin role.
 
-While you can access details about the apps installed on your instance, information regarding pricing and packages isn’t provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [ITOM/OT SU Licensing and subscriptions](../../it-operations-management/reference/itom-su-licensing-landing-page.md).
+While you can access details about the apps installed on your instance, information regarding pricing and packages isn’t provided, as it varies based on each contract. For a general overview of licensing and subscription details, see [ITOM/OT SU Licensing and subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/reference/itom-su-licensing-landing-page.md).
 
 ## Learnings
 

@@ -17,7 +17,7 @@ Provides methods for iterating over XML elements.
 
 You get an XMLElementIterator object by calling the getIterator\(\) method of the XMLContent class.
 
-**Parent Topic:**[XML APIs](xml-overview.md)
+**Parent Topic:**[XML APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/xml-overview.md)
 
 ## XMLElementIterator - hasNext\(\)
 

@@ -15,7 +15,7 @@ A document agent can review and approve or reject a document submitted for verif
 
 ## Before you begin
 
-**Note:** An OCR-processed document can be automatically reviewed and approved. For information on OCR-processed documents, see [Integrating with Document Intelligence](integration-with-document-intelligence.md).
+**Note:** An OCR-processed document can be automatically reviewed and approved. For information on OCR-processed documents, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
 Role required: sn\_doc\_processor.agent​
 
@@ -23,7 +23,7 @@ Role required: sn\_doc\_processor.agent​
 
 1.  Navigate to **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![List icon.](../../../use/reporting/image/inline-data-vis-list.png)\).
+2.  Select the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../use/reporting/image/inline-data-vis-list.png)\).
 
 3.  In the **Lists** tab, under **Document verification**, open the task list.
 
@@ -41,7 +41,7 @@ Role required: sn\_doc\_processor.agent​
 
     Review and update any extracted values in the **Extracted Values** related list.
 
-    For more information, see [Integrating with Document Intelligence](integration-with-document-intelligence.md).
+    For more information, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
 6.  From the **Notes and Activity** tab in the **Work notes** field, enter any comments.
 

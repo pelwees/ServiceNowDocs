@@ -29,8 +29,8 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
 3.  Select **Security Analyst Overview** from the drop down list.
 
-    ![Security Analysts Overview dashboard](../image/security-analysts-overview-dashboard.png)
+    ![Security Analysts Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-analysts-overview-dashboard.png)
 
-    View the Security Analyst Overview dashboard for further action. For detailed information on Security Analyst Overview dashboard, see [Security Incident Response Platform Analytics Solutions](../../../use/dashboards/application-content-packs/security-incident-content-pack.md).
+    View the Security Analyst Overview dashboard for further action. For detailed information on Security Analyst Overview dashboard, see [Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/security-incident-content-pack.md).
 
 

@@ -169,5 +169,5 @@ Represents an improvement to an existing product.
 |epic\_backlog\_definition|Stores the filter criteria that is used to create the epic backlogs.|
 |scrum\_program\_m2m\_group|Stores the relationship between a scrum program and its teams.|
 
-**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 

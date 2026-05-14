@@ -84,5 +84,5 @@ In the Type column, change the column type from **Reference** back to the data t
 7.  Select **Finish**.
 
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/managing-data-fabric-tables-zcc.md)
 

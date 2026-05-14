@@ -400,12 +400,12 @@ This is available only for UPDATE trigger type. It specifies the list of trigger
     |Vulnerability|severity|Severity|
 
 
-**Parent Topic:**[Working with Webhooks](tisc-webhooks.md)
+**Parent Topic:**[Working with Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-webhooks.md)
 
 **Related topics**  
 
 
-[System properties for Webhooks](tisc-sysprops-retry.md)
+[System properties for Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sysprops-retry.md)
 
-[Configure webhooks](setup-webhooks.md)
+[Configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 

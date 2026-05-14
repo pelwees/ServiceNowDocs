@@ -15,7 +15,7 @@ breadcrumb: [AIOps Dashboards in SOW for ITOM, Using SOW for ITOM, Service Opera
 
 The Event and Alert dashboard uses Performance Analytics to provide real-time visibility into events and alerts in Event Management, showcasing key trends, outcomes, and the most impacted configuration items. It highlights metrics such as noise reduction, alert grouping coverage, and top alert sources.
 
-![Events and Alerts dashboard.](../image/aiops-events-and-alerts-dashboard.png)
+![Events and Alerts dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/aiops-events-and-alerts-dashboard.png)
 
 Run the \[PA EM\] Historic Data Collection job once to enable the partial collection of historical Event Management data:
 
@@ -37,7 +37,7 @@ Ensure that the Event Management application is installed.
 To open the dashboard, use one of the following methods:
 
 -   Navigate to **All** &gt; **AIOps Dashboards** &gt; **AIOps Operational** &gt; **Events and Alerts**.
--   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](../../health-log-analytics-admin/image/aiops-operational-icon.png)\).
+-   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/aiops-operational-icon.png)\).
 
     By default, the **Events and Alerts** tab is selected.
 

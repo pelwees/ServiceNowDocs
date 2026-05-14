@@ -115,5 +115,5 @@ Attribute to group by the card's associated tasks in the card's list view. The c
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring CMDB Workspace](../concept/configuring-cmdb-workspace.md)
+**Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/configuring-cmdb-workspace.md)
 

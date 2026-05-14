@@ -23,5 +23,5 @@ For both branches to complete, add a **Join** activity to resolve the branches. 
 
 ![](../image/WorkflowMultipleBranchesJoined.png "Workflow with completed branches")
 
-**Parent Topic:**[Create a workflow](../task/t_CreateAWorkflow.md)
+**Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../task/t_CreateAWorkflow.md)
 

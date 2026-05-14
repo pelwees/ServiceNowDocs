@@ -21,15 +21,15 @@ Role required: admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](../../image/eaw-image/technology-portfolio-icon.png).
+2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/technology-portfolio-icon.png).
 
 3.  Select **Technology portfolio audit**.
 
-    For a description of field values, see [Technology portfolio audit form](../../reference/eaw-reference/eaw-technology-portfolio-audit-form.md).
+    For a description of field values, see [Technology portfolio audit form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-technology-portfolio-audit-form.md).
 
 
--   **[Update verification status of TPM audit details](../eaw-update-verif-status.md)**  
+-   **[Update verification status of TPM audit details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../eaw-update-verif-status.md)**  
 Change the verification status of a software product or hardware model lifecycle in the TPM technology lifecycle exception table.
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-tpm.md)
 

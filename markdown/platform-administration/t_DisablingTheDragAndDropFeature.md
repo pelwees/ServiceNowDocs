@@ -28,7 +28,7 @@ Role required: admin
 3.  Click **Save**.
 
 
-**Parent Topic:**[Administering attachments](../reference/r_AdministeringAttachments.md)
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_AdministeringAttachments.md)
 
 ## Limit attachment file size
 

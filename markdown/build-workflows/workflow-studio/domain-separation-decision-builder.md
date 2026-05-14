@@ -28,5 +28,5 @@ Sample use case: An admin must be able to make comments mandatory when a record 
 -   Decision tables belong to the domain of the user who creates them. For example, when the customer in the TOP domain creates a decision table, it belongs to the TOP domain.
 -   While users in a parent domain can see decision tables in a child domain, they must edit them in the domain they belong to. For example, an administrator in the TOP domain can see decision tables from the ACME domain but must switch to the ACME domain to edit it.
 
-**Parent Topic:**[Decision tables reference](decision-builder-reference.md)
+**Parent Topic:**[Decision tables reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-builder-reference.md)
 

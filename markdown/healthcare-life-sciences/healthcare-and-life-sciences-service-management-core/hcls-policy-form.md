@@ -91,11 +91,11 @@ Document template
 
 Document template to generate standard letters or documents associated with the policy.
 
- This field is used only when the [Policy type](hcls-policy-form.md#policy_type) field is set to **Document template**.
+ This field is used only when the [Policy type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-policy-form.md#policy_type) field is set to **Document template**.
 
  **Note:** You can associate only one active policy with a document template.
 
- For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](../concept/hcls-config-doc-templates.md).
+ For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../concept/hcls-config-doc-templates.md).
 
 </td></tr><tr><td>
 
@@ -122,5 +122,5 @@ Policy content
 Content of the policy that should be read and accepted by the Patient Portal users at the time of registration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](hcls-serv-mgmt-core-reference.md)
+</table>**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 

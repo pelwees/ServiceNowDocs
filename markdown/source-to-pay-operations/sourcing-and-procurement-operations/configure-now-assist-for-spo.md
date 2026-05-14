@@ -69,13 +69,13 @@ The following table lists the features and skills that you can access from the N
 |Sourcing request summarization for requesters|Summarize sourcing requests to keep requesters informed about their status, progress, and action items.|
 |Spend category predictor|Suggests the appropriate spend category for a fulfiller when primary ML-based category prediction doesn’t meet the confidence threshold.|
 
-![Skills available on Now Assist for Sourcing and Procurement Operations.](../image/now-assist-spo-explore.png "Now Assist skills for SPO")
+![Skills available on Now Assist for Sourcing and Procurement Operations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/now-assist-spo-explore.png "Now Assist skills for SPO")
 
 ## Procedure
 
 1.  Install the Now Assist for Sourcing and Procurement Operations \(SPO\) plugin \(sn\_spend\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
@@ -205,10 +205,10 @@ Now Assist skills are available in the Now Assist panel. Now Assist skills are a
     The skill is activated.
 
 
--   **[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill](cust-now-assist-spo-skill.md)**  
+-   **[Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/cust-now-assist-spo-skill.md)**  
 If you have the sn\_nowassist\_admin.nsa\_admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
--   **[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](../reference/input-triggers-now-assist-spo.md)**  
+-   **[Skill inputs for Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/input-triggers-now-assist-spo.md)**  
 You can configure some of the inputs for a generative AI skill. Inputs permit you to determine how and when a skill is used.
 
-**Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo.md)
+**Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo.md)
 

@@ -24,5 +24,5 @@ Only certain roles can customize Cost Overview modules. In addition to viewing, 
 |procurement\_user|View|
 |sam|View|
 
-**Parent Topic:**[Activate Cost Management](../task/t_ActivatingCostManagement.md)
+**Parent Topic:**[Activate Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../task/t_ActivatingCostManagement.md)
 

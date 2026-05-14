@@ -21,7 +21,7 @@ The Now Assist AI Search for CSM Workspace​ plugin synthesizes and summarizes 
 
 Agents can use AI Search to pose a query directly in the search bar in the CSM Configurable Workspace, which will then generate an answer to their question by parsing and summarizing content from one or more knowledge bases. This single-turn, conversational search result replaces a long list of possible matches, and can help improve agent response accuracy and relevancy by allowing agents to review a summary of relevant content before responding to customers.
 
-![Answer generated to agent query in CSM Configurable Workspace for Public Sector](../image/ais-psds.png "Generative AI Q&A in CSM Configurable Workspace")
+![Answer generated to agent query in CSM Configurable Workspace for Public Sector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/ais-psds.png "Generative AI Q&A in CSM Configurable Workspace")
 
 ## Search configurations
 
@@ -29,5 +29,5 @@ A search application configuration specifies the search engine and the settings 
 
 An admin can define and customize the source tables and knowledge bases that the Now Assist AI Search indexes data from by customizing the search profiles within the search application configuration for Now Assist for Public Sector Digital Services \(PSDS\).
 
-For more information on search application configurations, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md). For more information on how to set up and customize AI Search for use with Now Assist for Public Sector Digital Services \(PSDS\), see [Configure AI search for Now Assist for Public Sector Digital Services \(PSDS\)](now-assist-psds-configuring-ai-search-toggle.md).
+For more information on search application configurations, see [Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md). For more information on how to set up and customize AI Search for use with Now Assist for Public Sector Digital Services \(PSDS\), see [Configure AI search for Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring-ai-search-toggle.md).
 

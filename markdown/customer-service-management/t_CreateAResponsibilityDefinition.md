@@ -23,9 +23,9 @@ Role required: One of the following roles:
 
 ## About this task
 
-If you’re using the Service Model Foundation feature, you can also create the responsibility definitions to use in customer and consumer relationships. For more information about configuring Service Model Foundation, see [Configure Service Model Foundation](configure-industry-data-model.md).
+If you’re using the Service Model Foundation feature, you can also create the responsibility definitions to use in customer and consumer relationships. For more information about configuring Service Model Foundation, see [Configure Service Model Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md).
 
-The Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table supports domain separation. For more information on domain separation, see [Domain separation and Customer Service Management](../concept/domain-separation-customer-service.md).
+The Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table supports domain separation. For more information on domain separation, see [Domain separation and Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/domain-separation-customer-service.md).
 
 **Note:** Starting with the Vancouver release, the Responsibility Definition \[sn\_customerservice\_responsibility\_def\] table is reparented to the Application file \[sys\_metadata\] table.
 
@@ -93,10 +93,10 @@ Provides a description of the purpose or function of the responsibility definiti
 
 ## What to do next
 
-[Configure access through the responsibility access configuration](declarative-resposibility-framework.md)
+[Configure access through the responsibility access configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/declarative-resposibility-framework.md)
 
 **Related topics**  
 
 
-[Service Model Foundation responsibilities](../reference/csm-data-model-responsibilities.md)
+[Service Model Foundation responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-data-model-responsibilities.md)
 

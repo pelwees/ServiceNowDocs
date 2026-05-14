@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-You [configured one or more audits](configure-domain-separation-audits.md) to run daily, weekly, or monthly. The scheduler specifies what days and times to run those audits. All audits with the same scheduling frequency run sequentially starting at the time you configure.
+You [configured one or more audits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configure-domain-separation-audits.md) to run daily, weekly, or monthly. The scheduler specifies what days and times to run those audits. All audits with the same scheduling frequency run sequentially starting at the time you configure.
 
 ## Procedure
 

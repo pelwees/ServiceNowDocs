@@ -17,7 +17,7 @@ The Overview module is a homepage that displays charts and graphs to help you ma
 
 To use the Overview module for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, navigate to **Software Asset Management** &gt; **Overview**. Click an element within a report to see more information or add and move widgets as needed.
 
-![Legacy Software Asset Management plugin Overview module](../image/SAMDashOver.png "Legacy Software Asset Management plugin Overview module")
+![Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMDashOver.png "Legacy Software Asset Management plugin Overview module")
 
 The overview shows the following compliance types:
 
@@ -26,12 +26,12 @@ The overview shows the following compliance types:
 
 The graphs show important statistics about the software being tracked, including software that has been entitled but is not being used and the total number of unallocated licenses.
 
-**Parent Topic:**[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
+**Parent Topic:**[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)
 
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin roles](../reference/r_SoftwareAssetManagementRoles.md)
+[Legacy Software Asset Management plugin roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../reference/r_SoftwareAssetManagementRoles.md)
 
-[Installed with the legacy Software Asset Management plugin](../reference/r_InstalledWithSoftwareAssetMgmt.md)
+[Installed with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../reference/r_InstalledWithSoftwareAssetMgmt.md)
 

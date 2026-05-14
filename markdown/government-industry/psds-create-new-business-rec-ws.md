@@ -21,7 +21,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 1.  Navigate to the CSM Configurable Workspace and select **lnteractions** &gt; **All**.
 
-2.  Select the interaction number to open an existing interaction record, or select the new icon ![New icon.](../image/new-icon.png) to create an interaction.
+2.  Select the interaction number to open an existing interaction record, or select the new icon ![New icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/new-icon.png) to create an interaction.
 
 3.  Select the interaction type and assign the interaction to a user.
 
@@ -31,7 +31,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agen
 
 6.  Select **Create Business** and fill in the fields.
 
-    For more information on the fields, see [Business Profile form](../reference/business-profile-form.md).
+    For more information on the fields, see [Business Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/business-profile-form.md).
 
 7.  Select **Submit**.
 

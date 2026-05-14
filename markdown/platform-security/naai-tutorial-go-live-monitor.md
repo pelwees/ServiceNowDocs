@@ -66,5 +66,5 @@ Schedule the following recurring activities to keep your agent performing secure
     Review your agent's performance metrics against your baseline and success criteria. Use the AI Agent Analytics dashboard and Now Assist Analytics to identify trends and determine whether prompt refinement or configuration changes are needed.
 
 
-**Parent Topic:**[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 

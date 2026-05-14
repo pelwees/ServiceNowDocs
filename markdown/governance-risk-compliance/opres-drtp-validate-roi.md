@@ -17,7 +17,7 @@ Run real-time validation on Register of Information \(RoI\) packages to help ens
 
 Role required: sn\_oper\_res.manager
 
-Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [Generate a Register of Information package](opres-drtp-gen-roi-pkg.md).
+Generate a Plain-CSV Reporting Package and an Excel Master Template. For more information, see [Generate a Register of Information package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-drtp-gen-roi-pkg.md).
 
 ## About this task
 
@@ -44,5 +44,5 @@ Validation reports are only generated when errors or warnings are present. If no
 5.  Update the affected records in the system or spreadsheet and re-upload the corrected package for re-validation.
 
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](../concept/conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/conf-dg-resi-party-regi.md)
 

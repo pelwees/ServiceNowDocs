@@ -19,7 +19,7 @@ The CSD dashboard provides a collection of visual reports for the Client Softwar
 
 To access the CSD dashboard, navigate to **Client Software Distribution** &gt; **Requested Software** &gt; **Dashboard**.
 
-![Sample report from CSD dashboard](../image/CSDSampleGraph.png "Sample report from CSD dashboard")
+![Sample report from CSD dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/CSDSampleGraph.png "Sample report from CSD dashboard")
 
 <table id="table_sbk_x2h_ft"><thead><tr><th>
 
@@ -106,5 +106,5 @@ Displays the license counts for all available applications.-   **Type**: [Create
 
 Navigate to **Client Software Distribution** &gt; **Usage Overview** to view the current transaction count for your instance.
 
-**Parent Topic:**[Client Software Distribution](c_ClientSoftwareDistribution.md)
+**Parent Topic:**[Client Software Distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)
 

@@ -23,29 +23,29 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
 You must have the now\_assist\_panel\_user role to have access to the Now Assist panel once you turn it on.
 
-To learn more about the Now Assist panel, and how it can assist your agents, see [Now Assist panel](../concept/now-assist-panel-overview.md).
+To learn more about the Now Assist panel, and how it can assist your agents, see [Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-panel-overview.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
-2.  On the Assistants page, select **Now Assist Panel - Platform \(default\)**.![Assistants screen for selecting Now Assist panel](../images/now-assist-panel-assistants-screen.png)
+2.  On the Assistants page, select **Now Assist Panel - Platform \(default\)**.![Assistants screen for selecting Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-panel-assistants-screen.png)
 
-3.  On the Now Assist Panel - Platform \(default\) page, select **Display experience**.![Now Assist panel - Platform (default) screen.](../images/now-assist-panel-display-experience.png)
+3.  On the Now Assist Panel - Platform \(default\) page, select **Display experience**.![Now Assist panel - Platform (default) screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-panel-display-experience.png)
 
 4.  Select the **Add agent experiences** drop-down menu and then select **Unified Navigation app shell**.
 
-5.  Select the ellipsis to change the chat experience from standard chat to enhanced chat.![Display experience screen.](../images/now-assist-panel-how-to-display.png)
+5.  Select the ellipsis to change the chat experience from standard chat to enhanced chat.![Display experience screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-panel-how-to-display.png)
 
     **Important:** Switching to enhanced chat is permanent and can't be undone after you have selected **Save** and then **Save and continue**.
 
-6.  On the Edit chat experience screen, select Enhanced chat.![Edit chat experience screen.](../images/now-assist-panel-edit-chat-experience.png)
+6.  On the Edit chat experience screen, select Enhanced chat.![Edit chat experience screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/now-assist-panel-edit-chat-experience.png)
 
 7.  Select **Save**.
 
 8.  If you want to use assistants, you must activate them.
 
-    See [Activate Now Assist panel assistants](now-assist-panel-activate-assistant.md) for information on activating assistants.
+    See [Activate Now Assist panel assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-activate-assistant.md) for information on activating assistants.
 
 
 ## What to do next
@@ -57,5 +57,5 @@ For examples of the Now Assist panel in action for Now Assist applications, see 
 -   [Summarize an issue using Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/summarize-an-issue.md)
 -   [Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/gen-kb-now-assisthr.md)
 
-**Parent Topic:**[Configuring Now Assist Admin features](../../now-assist-admin/concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/concept/configuring-na-landing.md)
 

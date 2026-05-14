@@ -85,11 +85,11 @@ To allow the connector to access your Notion source system via the Notion REST A
 
 ## What to do next
 
-Provide the internal integration secret that you copied in step [2.c](configure-notion-external-content-indexing.md#copy-internal-integration-secret-step) to your connector admin.
+Provide the internal integration secret that you copied in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-notion-external-content-indexing.md#copy-internal-integration-secret-step) to your connector admin.
 
 Your connector admin needs this item to configure a Notion external content connector to retrieve pages, files, and security principals from your Notion source system.
 
-For details on creating and configuring a Notion external content connector, see [Create a Notion external content connector](create-ext-cont-connector-notion.md).
+For details on creating and configuring a Notion external content connector, see [Create a Notion external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-notion.md).
 
-**Parent Topic:**[Notion external content connector](../concept/notion-external-content-connector.md)
+**Parent Topic:**[Notion external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/notion-external-content-connector.md)
 

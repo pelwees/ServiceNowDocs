@@ -17,7 +17,7 @@ Create event rules to map incoming raw metric data to specific CIs, to optionall
 
 The system generates events for every new raw metric data for which there are no CI binding specifications. You can create event rules that filter those events to map the incoming metric data to specific CIs. In such event rules, you can for example define a filter that is based on the monitoring object \(such as SCOM\).
 
-To use resource binding, the **resource\_path** attribute of events must be populated. You can configure an event rule to ensure that the **resource\_path** attribute is included in the **Additional information** field in events. For more information about configuring and using resource binding, see [resource binding](resource-binding.md).
+To use resource binding, the **resource\_path** attribute of events must be populated. You can configure an event rule to ensure that the **resource\_path** attribute is included in the **Additional information** field in events. For more information about configuring and using resource binding, see [resource binding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/resource-binding.md).
 
 For example, in the Event Rule designer you can update the event rule **SCOM IIS Web Server** as follows:
 
@@ -27,9 +27,9 @@ For example, in the Event Rule designer you can update the event rule **SCOM IIS
 **Related topics**  
 
 
-[Event rules](create-event-rules.md)
+[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-event-rules.md)
 
-[View metric to CI and resource binding](../task/view-metric-to-CI-binding.md)
+[View metric to CI and resource binding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/view-metric-to-CI-binding.md)
 
-[Get started with Metric Intelligence](../task/get-started-metrics.md)
+[Get started with Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/get-started-metrics.md)
 

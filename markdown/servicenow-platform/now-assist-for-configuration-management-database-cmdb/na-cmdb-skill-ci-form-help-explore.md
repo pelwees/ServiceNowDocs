@@ -17,13 +17,13 @@ Now Assist answers your questions on CI classes and attributes to help you work 
 
 ## Before you begin
 
-To enable Now Assist to provide a detailed description, you must activate the External Content Connectors plugin, install the ServiceNow Product Documentation connector, and then crawl the product documentation. For configuration instructions, see [Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md).
+To enable Now Assist to provide a detailed description, you must activate the External Content Connectors plugin, install the ServiceNow Product Documentation connector, and then crawl the product documentation. For configuration instructions, see [Configure the CI form contextual help skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-form-sense-config.md).
 
 Role required: cmdb\_inst\_admin
 
 ## About this task
 
-In addition to using Now Assist on the Explore CI page, Now Assist provides detailed information on any CI form while you create, view, or update a CI record, as described in [View CI attribute descriptions on CI forms](na-cmdb-skill-ci-form-help.md).
+In addition to using Now Assist on the Explore CI page, Now Assist provides detailed information on any CI form while you create, view, or update a CI record, as described in [View CI attribute descriptions on CI forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-ci-form-help.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ In addition to using Now Assist on the Explore CI page, Now Assist provides deta
 
     The Now Assist panel opens. Enter a question about any field or section on the view. For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
-    ![Description of the CI attribute](../image/na-cmdb-ci-form-help-explore-ci-ex.png)
+    ![Description of the CI attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/na-cmdb-ci-form-help-explore-ci-ex.png)
 
 2.  Provide feedback, copy the response text to the clipboard, or refresh the response.
 
@@ -72,9 +72,9 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[View CI attribute descriptions on CI forms](na-cmdb-skill-ci-form-help.md)
+[View CI attribute descriptions on CI forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-ci-form-help.md)
 
-[Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md)
+[Configure the CI form contextual help skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-form-sense-config.md)
 
-[Manage CI details using CI Form in CMDB Workspace](../../configuration-management/concept/ci-form-cmdb-workspace.md)
+[Manage CI details using CI Form in CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../configuration-management/concept/ci-form-cmdb-workspace.md)
 

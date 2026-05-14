@@ -21,7 +21,7 @@ Timeline provides a horizontal view of key events and milestones that have occur
 
 Each event or milestone is indicated with a different timeline event type option to identify the number and type of events or milestones. For example NOW record updates, collaboration activities. In addition, the time range period for the different major security incident states is tracked automatically and displayed using color-coded ranges displayed along with the duration of each incident state.
 
-![Summary, Incident impact, and Timeline details of the major security incident](../image/overview-tab-summary-msim.png "MSIM Overview tab")
+![Summary, Incident impact, and Timeline details of the major security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/overview-tab-summary-msim.png "MSIM Overview tab")
 
 <table id="table_gsv_2gt_gbc"><thead><tr><th>
 
@@ -70,7 +70,7 @@ You can modify the **Next update on** by selecting the **Edit** icon. Select the
 </td></tr></tbody>
 </table>You can enable or disable viewing of certain event types for both timeline indicators and timeline ranges accordingly using the filter toggle buttons.
 
-![Timeline view](../image/msim-timline-view.png "Timeline")
+![Timeline view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-timline-view.png "Timeline")
 
 Refer to the following table for additional capabilities available with the timeline component.
 
@@ -143,7 +143,7 @@ To create a new Timeline event, perform the following steps:
 2.  Select **+ New event**.
 3.  On the Add a new timeline event pop-up, fill the fields.
 
-    ![Add a new timeline event](../image/msim-add-timeline-event.png "New Timeline event")
+    ![Add a new timeline event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-add-timeline-event.png "New Timeline event")
 
 <table id="table_nkh_pss_dcc"><thead><tr><th>
 
@@ -172,7 +172,7 @@ Select a category for the timeline event.The following categories are provided a
 -   **Custom**.
 -   **Response**.
 -   **Threat**.
-To add or configure a Timeline event category, see [Configure timeline categories for major security incidents](configuring-msi-administration-settings.md#).
+To add or configure a Timeline event category, see [Configure timeline categories for major security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-msi-administration-settings.md#).
 
 </td></tr><tr><td>
 
@@ -206,26 +206,26 @@ Option to link the timeline event to a major security incident record.
 
 6.  Select the **Refresh** icon to display the latest timeline events.
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/list-view-in-msim.md)
 
-[View Major Security Incident trend charts](viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](msim-details-tab.md)
+[Update Major Security Incident details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msim-details-tab.md)
 
-[Link additional records to Major Security Incident](../task/linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](../task/unlinking-msi-records.md)
+[Unlink records from Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](tasks-tab.md)
+[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](collab-tab.md#)
+[Track collaboration activity via MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-tab.md#)
 
-[Create and distribute MSIM Status Reports](../task/creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/creating-and-distributing-major-security-incident-status-reports.md)
 

@@ -19,7 +19,7 @@ You can use the dashboard to view the information about the Guided Self-Service 
 
 Navigate to **Usage Insights** &gt; **Dashboard** &gt; **Guided Self-Service** for a detailed view and analysis. Click the respective widget or chart for more information. You can create a funnel to track session adoption and abandonment.
 
-![Guided Self-Service dashboard](../images/user-exp-analytics-guided-self-service.png "Usage Insights dashboard - Guided Self-Service")
+![Guided Self-Service dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/user-exp-analytics-guided-self-service.png "Usage Insights dashboard - Guided Self-Service")
 
 ## Widgets
 

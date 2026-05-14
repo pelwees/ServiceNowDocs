@@ -31,10 +31,10 @@ An **Activity Template** logically groups activities by name and requires an **A
 
 3.  Complete the **Activity Templates** form.
 
-    Read details about the different fields in [Talent Activity template reference](../reference/egd-activity-template-form.md).
+    Read details about the different fields in [Talent Activity template reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/egd-activity-template-form.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-administration.md)
 

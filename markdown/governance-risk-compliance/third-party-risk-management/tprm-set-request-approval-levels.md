@@ -40,13 +40,13 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 5.  Select **Submit**.
 
-    For information on setting up rules to assign to levels, see [Set up the approval rules for due diligence requests](tprm-set-request-approval-rules.md).
+    For information on setting up rules to assign to levels, see [Set up the approval rules for due diligence requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-rules.md).
 
-    For more information on approval levels and rules, see [Approving or rejecting requests for due diligence](../../grc-vendor-risk/concept/tprm-approving.md).
+    For more information on approval levels and rules, see [Approving or rejecting requests for due diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/tprm-approving.md).
 
 
 **Related topics**  
 
 
-[Set up the approval rules for due diligence requests](tprm-set-request-approval-rules.md)
+[Set up the approval rules for due diligence requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-rules.md)
 

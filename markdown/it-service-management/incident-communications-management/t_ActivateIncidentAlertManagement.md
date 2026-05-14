@@ -34,10 +34,10 @@ Role required: major\_incident\_manager, ia\_admin, or admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Configuring Incident Communications Management](../concept/config-inci-comm-mngmt.md)
+**Parent Topic:**[Configuring Incident Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/config-inci-comm-mngmt.md)
 
 **Related topics**  
 
 
-[Incident Communications Management](../concept/c_IncidentAlertManagement.md)
+[Incident Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/c_IncidentAlertManagement.md)
 

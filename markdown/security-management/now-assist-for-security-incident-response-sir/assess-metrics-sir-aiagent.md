@@ -25,7 +25,7 @@ Role required: sn\_si.manager
 
 ## Procedure
 
-1.  Select the Now Assist icon \(![Now Assist icon.](../../../common/image/icon-ai-sparkle.png)\) from anywhere in your instance.
+1.  Select the Now Assist icon \(![Now Assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../../../common/image/icon-ai-sparkle.png)\) from anywhere in your instance.
 
     The Now Assist panel is displayed.
 
@@ -65,7 +65,7 @@ End the conversation.
 </td></tr></tbody>
 </table>    You might prefer to have the Security Incident Response workspace open in another tab so that you can refer to assignment groups, dates, and other information for your prompts.
 
-    Your conversation is saved until you start a new chat. To start a new chat, select the New chat icon \(![New chat icon.](../image/na-new-chat.png)\).
+    Your conversation is saved until you start a new chat. To start a new chat, select the New chat icon \(![New chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/na-new-chat.png)\).
 
     Your request is repeated and displayed in highlighted text with more information.
 

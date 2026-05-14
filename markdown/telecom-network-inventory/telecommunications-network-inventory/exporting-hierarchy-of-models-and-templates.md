@@ -36,7 +36,7 @@ Both methods are launched from the Export Hierarchy action on a model or templat
 **Related topics**  
 
 
-[Exporting hierarchy process via JSON](exporting-hierarchy-process-via-json.md)
+[Exporting hierarchy process via JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exporting-hierarchy-process-via-json.md)
 
-[Exporting hierarchy via XML](exporting-hierarchy-process-via-xml.md)
+[Exporting hierarchy via XML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exporting-hierarchy-process-via-xml.md)
 

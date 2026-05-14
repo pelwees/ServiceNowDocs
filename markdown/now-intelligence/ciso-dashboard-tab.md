@@ -125,7 +125,7 @@ Oversight, readiness &amp; control validation
 Provides visibility into audit backlog, control testing readiness, and remediation timelines to maintain governance and reduce compliance failures.
 
 </td></tr></tbody>
-</table>![CISO Dashboard with Risk Exposure, Compliance, Security Incidents, Vulnerabilities, and Audits pillars, each containing security metrics and visualizations.](../image/ciso-db-tab.png)
+</table>![CISO Dashboard with Risk Exposure, Compliance, Security Incidents, Vulnerabilities, and Audits pillars, each containing security metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/ciso-db-tab.png)
 
 ## CISO Dashboard overview
 

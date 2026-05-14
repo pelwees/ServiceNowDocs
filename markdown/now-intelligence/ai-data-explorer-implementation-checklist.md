@@ -43,16 +43,16 @@ Grant users who need access to AI Data Explorer the **now-assist-explorer-user**
 -   AI Data Explorer cannot answer general definition questions or questions requiring comparison across multiple data sources. Break down complex analysis into multiple questions.
 -   When asking follow-up questions, use words like "these" to ensure filters are not dropped. For example, "Of these incidents, how many are critical?"
 
-**Parent Topic:**[Configure AI Data Explorer](../../par-for-workspace/concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/configure-now-ass-explorer.md)
 
 **Related topics**  
 
 
-[Add a table to the semantic data layer](../../par-for-workspace/task/add-table-semantic-layer.md#)
+[Add a table to the semantic data layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/add-table-semantic-layer.md#)
 
-[Enabling access to protected scope applications for AI Data Explorer and Query Generation](../../par-for-workspace/concept/enable-aide-secure-scope-apps.md)
+[Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/enable-aide-secure-scope-apps.md)
 
-[Query Generation Health page](../../par-for-workspace/reference/querygen-health-page.md)
+[Query Generation Health page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/querygen-health-page.md)
 
-[Roles, tables, and scheduled jobs included with Query Generation](../../par-for-workspace/concept/tables-sched-jobs-query-gen.md)
+[Roles, tables, and scheduled jobs included with Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/tables-sched-jobs-query-gen.md)
 

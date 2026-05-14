@@ -22,7 +22,7 @@ Use the following default task configurations available for approvals.
 -   Request with **sysapproval** as reference column and **sc\_request** as reference table.
 -   Requested item with **sysapproval** as reference column and **sc\_req\_item** as reference table.
 
-You can customize the task configurations to suit your requirements. The data model is an extension to the Employee Center **To-do configuration** as a related list. Follow the instructions [Enable task configuration for approvals](../task/approval-hub-to-dos-page-filters.md) about configuring the approval experience. For more information on how to configure approvals, see [Approvals hub](../concept/approval-hub-intro.md).
+You can customize the task configurations to suit your requirements. The data model is an extension to the Employee Center **To-do configuration** as a related list. Follow the instructions [Enable task configuration for approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/approval-hub-to-dos-page-filters.md) about configuring the approval experience. For more information on how to configure approvals, see [Approvals hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/approval-hub-intro.md).
 
 **Note:** A user must have the approval\_user or business\_stakeholder role to approve IT requests \(not applicable to other requests such as HR approvals\) on Employee Centre. Role validation has not been implemented in Core UI16 because modifying ACLs in UI16 might have broader implications at the NowPlatform level.
 
@@ -77,9 +77,9 @@ Use the following information for Workday integration.
     -   WorkdayApprovalToDosHelperUtilsSNC: Provides functions for Workday approvals.
 -   Ensure you configure the right user controls and privileges for Compensation Change and Spend Authorization use cases. Only the authorized users can view the sensitive records and data from Workday.
 -   For data protection, use the default purge policy to delete data more often. By default, data purge happens after in 30 days.
--   Ensure only the HR administrator \[sn\_hr\_core.admin\] has access to the sensitive information as explained in [Remove HR Administrator role from IT System Administrators](../../human-resources/task/t_HRRemoveAdminRole.md).
+-   Ensure only the HR administrator \[sn\_hr\_core.admin\] has access to the sensitive information as explained in [Remove HR Administrator role from IT System Administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/task/t_HRRemoveAdminRole.md).
 
-For more information on how to configure approvals, see [Approvals hub](../concept/approval-hub-intro.md).
+For more information on how to configure approvals, see [Approvals hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/approval-hub-intro.md).
 
 ## Approvals on mobile
 
@@ -89,7 +89,7 @@ To disable the feature change the value of this sys\_property: sn\_me\_todos.all
 
 ## OOTB action group use
 
-Use the out-of-the-box **Approvals action group** to display the actions such as **Approve** and **Reject**. For more information, see [Action framework](../concept/action-group-framework.md).
+Use the out-of-the-box **Approvals action group** to display the actions such as **Approve** and **Reject**. For more information, see [Action framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/action-group-framework.md).
 
 **Note:** For actions to appear in my items widget, you can add the OOTB **Approvals action group** from **All** &gt; **Employee Center** &gt; **Administration** &gt; **To-dos Configurations**, click an existing to-dos configuration, navigate to the **To-do Configuration Details** record, and use the OOTB action group under **Fields Mapping**.
 
@@ -98,66 +98,66 @@ Use the out-of-the-box **Approvals action group** to display the actions such as
 -   Click the URLs for additional information and context.
 -   Allow BUs to add non-task tables easily to the list in the To-dos or Task configuration reference tables by passing non-task tables as an array in the **Scripted Extension Points**. **sn\_hr\_sp.TodoNonTaskTables**, and **sn\_ex\_sp.RefNonTaskTables**.
 
-**Parent Topic:**[Employee Center reference](emp-center-reference.md)
+**Parent Topic:**[Employee Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-reference.md)
 
 **Related topics**  
 
 
-[Activity Configuration form](ec-activity-configuration-form.md)
+[Activity Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-activity-configuration-form.md)
 
-[Activity Configuration Detail form](activity-configuration-detail-form.md)
+[Activity Configuration Detail form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activity-configuration-detail-form.md)
 
-[Connected Content form](connected-content-form.md)
+[Connected Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/connected-content-form.md)
 
-[Default Employee Profile Header Configuration record](default-profile-header.md)
+[Default Employee Profile Header Configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/default-profile-header.md)
 
-[Employee Center widgets](../concept/employee-center-widgets-list.md)
+[Employee Center widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-center-widgets-list.md)
 
-[Employee Profile form](employee-profile-fieldconfig.md)
+[Employee Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-fieldconfig.md)
 
-[Employee Profile Header Configuration form](profile-header-config-form.md)
+[Employee Profile Header Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-header-config-form.md)
 
-[Employee Profile portal configuration form](profile-portal-config-form.md)
+[Employee Profile portal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-portal-config-form.md)
 
-[Employee Profile upgrade scenarios](emp-profile-upgrade.md)
+[Employee Profile upgrade scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-profile-upgrade.md)
 
-[Enhanced Requests Experience forms](req-concept-ec.md)
+[Enhanced Requests Experience forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 
-[External Link form](external-link-form.md)
+[External Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/external-link-form.md)
 
-[Featured Content form](featured-content-form.md)
+[Featured Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/featured-content-form.md)
 
-[Footer form](ec-footer-form.md)
+[Footer form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-footer-form.md)
 
-[Footer Menus form](ec-footer-menus.md)
+[Footer Menus form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-footer-menus.md)
 
-[Guided Self-Service reference](gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-reference-info.md)
 
-[Menu Item form](menu-item-form.md)
+[Menu Item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/menu-item-form.md)
 
-[Overview section form](profile-overview-section-form.md)
+[Overview section form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/profile-overview-section-form.md)
 
-[Portal notification configuration form](portal-notif-config-form.md)
+[Portal notification configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/portal-notif-config-form.md)
 
-[Portal notification content form](notif-content-form.md)
+[Portal notification content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notif-content-form.md)
 
-[Trigger conditions form](notif-trigger-form.md)
+[Trigger conditions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notif-trigger-form.md)
 
-[Quick Link form](ec-quick-link-form.md)
+[Quick Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-quick-link-form.md)
 
-[Tab widget mapping form](tab-widget-mapping-form.md)
+[Tab widget mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/tab-widget-mapping-form.md)
 
-[Taxonomy form](taxonomy-form.md)
+[Taxonomy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/taxonomy-form.md)
 
-[Topic form](topic-form.md)
+[Topic form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/topic-form.md)
 
-[User Criteria form](ec-user-criteria-form.md)
+[User Criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-user-criteria-form.md)
 
-[User Criteria output](user-criteria-output.md)
+[User Criteria output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/user-criteria-output.md)
 
-[Schedule appointment form](schedule-appointment-form.md)
+[Schedule appointment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/schedule-appointment-form.md)
 
-[Location Consent form](location-consent-form.md)
+[Location Consent form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/location-consent-form.md)
 
-[Website configuration form](config-website-form.md)
+[Website configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-website-form.md)
 

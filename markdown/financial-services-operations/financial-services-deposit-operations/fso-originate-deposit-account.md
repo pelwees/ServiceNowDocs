@@ -17,7 +17,7 @@ Learn how agents, using the originate deposit account workflow, resolve service 
 
 The following diagram shows how the application helps bank agents resolve a deposit request for a new deposit account.
 
-![Workflow that shows how origination of a new deposit account is completed using the deposit operations application. For the text description, refer to the workflow steps that follow.](../image/origin-standing-order-workflow.png "Originate deposit account workflow example")
+![Workflow that shows how origination of a new deposit account is completed using the deposit operations application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../image/origin-standing-order-workflow.png "Originate deposit account workflow example")
 
 The deposit admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -50,5 +50,5 @@ The following workflow routes the case and tasks for originating a deposit accou
 
 The case is complete and the state and stage of the case are set to Closed Complete.
 
-**Parent Topic:**[Financial Services Deposit Operations workflows](deposit-operations-workflows.md)
+**Parent Topic:**[Financial Services Deposit Operations workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/deposit-operations-workflows.md)
 

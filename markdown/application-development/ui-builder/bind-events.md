@@ -15,14 +15,14 @@ breadcrumb: [Manage actions in UI Builder pages, Working in UI Builder, UI Build
 
 After you have created events, you can bind them to actions on your components, pages, data resources, and declarative actions.
 
--   **[Bind an event to a component](../task/bind-event-component.md)**  
+-   **[Bind an event to a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-component.md)**  
 Bind data elements within UI Builder so that you can add event actions to your components.
--   **[Bind an event to a page](../task/bind-event-page.md)**  
+-   **[Bind an event to a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-page.md)**  
 Use page event mappings to bind data elements within UI Builder so that you can add event actions to your page.
--   **[Bind an event to a data resource](../task/bind-event-data-resource.md)**  
+-   **[Bind an event to a data resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-data-resource.md)**  
 Assign event handlers within UI Builder to individual data resources on your page. When a data resource successfully fetches new data, it executes an event handler to take a user to the next step in a flow.
--   **[Bind an event to a declarative action](../task/bind-event-declarative-action.md)**  
+-   **[Bind an event to a declarative action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-declarative-action.md)**  
 Bind data elements within UI Builder so that you can add event actions to a declarative action.
 
-**Parent Topic:**[Manage actions in UI Builder pages](work-events.md)
+**Parent Topic:**[Manage actions in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-events.md)
 

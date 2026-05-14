@@ -31,7 +31,7 @@ Role required: sn\_slm.contact
 
     -   The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards.
     -   If M2M mapping between supplier contact and suppliers is enabled, you can select the supplier from the **My Company** drop-down list of suppliers.
-3.  Navigate to the **Locations** section on the Company Profile page.![Location section on the Company Profile page.](../image/supplier-location-collaboration-portal.png)
+3.  Navigate to the **Locations** section on the Company Profile page.![Location section on the Company Profile page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supplier-location-collaboration-portal.png)
 
 
 ## Result
@@ -41,36 +41,36 @@ The Locations section displays the details about your locations. You can do one 
 -   Select the link to a supplier to view the location details of that supplier.
 -   To view a list of all of your supplier location details on the Supplier Locations page, select **View all**.
 
-**Parent Topic:**[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+**Parent Topic:**[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-central.md)
 
 **Related topics**  
 
 
-[Invite a member to access the Supplier Collaboration Portal](invite-member-supp-portal.md)
+[Invite a member to access the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/invite-member-supp-portal.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-contact-self-reg.md)
 
-[Managing supplier contacts from the Supplier Collaboration Portal](../concept/managing-contacts-scp.md)
+[Managing supplier contacts from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-scp.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
-[Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md)
+[Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/my-to-dos.md)
 
-[View or update your user profile from the Supplier Collaboration Portal](view-update-supp-profile.md)
+[View or update your user profile from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-update-supp-profile.md)
 
-[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-[View supplier payment information from the Supplier Collaboration Portal](view-bank-info-supp-central.md)
+[View supplier payment information from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-bank-info-supp-central.md)
 
-[Start a chat session from the Supplier Collaboration Portal](start-chat-portal.md)
+[Start a chat session from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/start-chat-portal.md)
 
-[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 
-[Complete a risk assessment from the Supplier Collaboration Portal](complete-risk-assessments.md)
+[Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-risk-assessments.md)
 
-[Create a Universal Request from the Supplier Collaboration Portal](../concept/create-universal-request.md)
+[Create a Universal Request from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/create-universal-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
-[View all your requests from the Supplier Collaboration Portal](view-supp-case-sc.md)
+[View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 

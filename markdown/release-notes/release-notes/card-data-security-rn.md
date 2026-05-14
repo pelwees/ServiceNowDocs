@@ -66,5 +66,5 @@ Install Card data security by requesting it from the ServiceNow Store. Visit the
     Integrate with Mastercard to receive attachments containing PCI data from this card network.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

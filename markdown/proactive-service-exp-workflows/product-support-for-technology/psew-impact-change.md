@@ -52,10 +52,10 @@ After a change in workflow Proactive Service Experience Workflows is triggered, 
 10. Select the resolution code from the drop-down list, enter the resolution notes before closing the change request, and update the state by selecting **Close**.
 
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](../concept/use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/use-assurance-workflows.md)
 
 **Related topics**  
 
 
-[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/psew-identify-act-incident.md)
 

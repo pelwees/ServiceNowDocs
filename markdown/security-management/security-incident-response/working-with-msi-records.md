@@ -21,35 +21,35 @@ The Major Security Incident Management \(MSIM\) UI actions are displayed on the 
 
 **Note:** Some actions are contextual. For example, Unlink action is available only when the security incident is already proposed or promoted or linked to a major security incident.
 
-![MSI integration](../image/msi-records.png)
+![MSI integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msi-records.png)
 
--   **[Propose as Major Security Incident](../task/propose-to-major-security-incident.md)**  
+-   **[Propose as Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/propose-to-major-security-incident.md)**  
 Propose a security incident as a Major Security Incident \(MSI\).
--   **[Promote to Major Security Incident](../task/promote-to-major-security-incident.md)**  
+-   **[Promote to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/promote-to-major-security-incident.md)**  
 Promote a security incident to major security incident.
--   **[Link to Major Security Incident](../task/link-to-major-security-incident.md)**  
+-   **[Link to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/link-to-major-security-incident.md)**  
 Link a security incident to a major security incident as child security incident\(s\).
 
-**Parent Topic:**[Using SIR Workspace](../reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](using-analyst-workspace.md)
+[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-analyst-workspace.md)
 
-[Security Incident Playbook](security-incident-playbook.md#)
+[Security Incident Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](../../playbook-migration-guide/concept/getting-started-with-processes.md)
+[Prerequisites for the Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](../../playbook-migration-guide/concept/build-activities.md)
+[Activity Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/build-activities.md)
 
-[Sample Playbooks for SIR Workspace](../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../playbook-migration-guide/concept/sir-workspace-playbooks.md)
 
-[Working with Form UI actions](enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/handle-incidents-using-awa.md)
 

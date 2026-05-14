@@ -24,14 +24,14 @@ This plugin isn't activated directly. Instead, the plugin is activated by any of
 
 **Note:** Stream Connect requires Workflow Data Fabric and Stream Connect subscriptions. For more information, see [https://www.servicenow.com/products/automation-engine.html](https://www.servicenow.com/products/automation-engine.html).
 
-**Parent Topic:**[Configuring Hermes Messaging Service](configuring-hermes-messaging-service.md)
+**Parent Topic:**[Configuring Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/configuring-hermes-messaging-service.md)
 
 **Related topics**  
 
 
-[Set up a secure connection to the Hermes Messaging Service](../task/set-up-secure-connection-to-hermes.md)
+[Set up a secure connection to the Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/set-up-secure-connection-to-hermes.md)
 
-[Revoke a Hermes certificate](../task/revoke-certificate.md)
+[Revoke a Hermes certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/revoke-certificate.md)
 
-[Restricting access to Hermes](restricting-access-hermes-topics.md)
+[Restricting access to Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/restricting-access-hermes-topics.md)
 

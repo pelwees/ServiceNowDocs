@@ -29,15 +29,15 @@ You must be the owner of the template to delete it.
 
 3.  Open the Template Center by selecting **Explore templates**.
 
-    ![Main create menu of CWM.](../images/cwm-templates-explore.png)
+    ![Main create menu of CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-explore.png)
 
 4.  Locate the template that you want to use.
 
     -   Filter the available templates by Owner or Type
     -   Search for the template using its title or keyword.
-5.  From the template card, select the Template actions \(![Template actions icon.](../images/cwm-icon-page-actions.png)\) menu and select **Delete**.
+5.  From the template card, select the Template actions \(![Template actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-page-actions.png)\) menu and select **Delete**.
 
-    ![View template details.](../images/cwm-templates-view-details.png)
+    ![View template details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-view-details.png)
 
 6.  Select **Delete** to confirm.
 
@@ -46,5 +46,5 @@ You must be the owner of the template to delete it.
 
 The template is deleted and is no longer available for you or your team to use.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
 

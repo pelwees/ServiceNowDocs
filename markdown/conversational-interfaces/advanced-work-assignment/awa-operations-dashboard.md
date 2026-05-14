@@ -15,23 +15,23 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor work items across all service channels so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../application-content-packs/concept/awa-content-pack.md).
 
 The Overview tab of the Operations dashboard displays information across all queues, teams, and channels.
 
-![The overview tab of the dashboard displays indicators and reports to track agent operations with customers.](../../../administer/advanced-work-assignment/image/awa-operations-dashboard-update.png "AWA dashboard for Operations - Overview")
+![The overview tab of the dashboard displays indicators and reports to track agent operations with customers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/awa-operations-dashboard-update.png "AWA dashboard for Operations - Overview")
 
 The Queue Manager tab of the Operations dashboard displays overall queue information. You can select the queue you want to look at from the left-hand panel.
 
-![The queue manager tab of the dashboard displays indicators and reports to track agent operations with customers.](../../../administer/advanced-work-assignment/image/awa-operations-dashboard-queue-manager.png "AWA dashboard for Operations - Queue Manager")
+![The queue manager tab of the dashboard displays indicators and reports to track agent operations with customers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/awa-operations-dashboard-queue-manager.png "AWA dashboard for Operations - Queue Manager")
 
 The Team Manager tab of the Operations dashboard displays information at a group level. You can select the group you want to look at from the left-hand panel.
 
-![The team manager tab of the dashboard displays indicators and reports to track agent operations with customers.](../../../administer/advanced-work-assignment/image/awa-operations-dashboard-team-manager.png "AWA dashboard for Operations - Team Manager")
+![The team manager tab of the dashboard displays indicators and reports to track agent operations with customers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/awa-operations-dashboard-team-manager.png "AWA dashboard for Operations - Team Manager")
 
 The Channel Owner tab of the Operations dashboard displays overall channel data, depending on the service channel you select from the drop-down list.
 
-![The channel owner tab of the dashboard displays indicators and reports to track agent operations with customers.](../../../administer/advanced-work-assignment/image/awa-operations-dashboard-channel-owner.png "AWA dashboard for Operations - Channel Owner")
+![The channel owner tab of the dashboard displays indicators and reports to track agent operations with customers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/awa-operations-dashboard-channel-owner.png "AWA dashboard for Operations - Channel Owner")
 
 ## End users and roles
 
@@ -75,7 +75,7 @@ Work Items Waiting
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -87,7 +87,7 @@ Available Agents
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -99,7 +99,7 @@ Accepted Work Items \(Today\)
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -111,7 +111,7 @@ Average Wait Time \(Today\)
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Timed out Work Items \(Today\)
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Rejected Work Items \(Today\)
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 

@@ -31,7 +31,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 2.  Open the required epic.
 
-3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](../../agile-development/image/hamburger-icon.png)\).
+3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../agile-development/image/hamburger-icon.png)\).
 
 4.  Click the Monetary Benefit Plans or Non-monetary Benefit Plans related list.
 
@@ -64,7 +64,7 @@ On the Benefit Plan form, fill in the **Associated benefit** field with the bene
 </td><td>
 
 1.  On the Benefit Plan form, click **Associate new benefit**.
-2.  On the form, fill in the fields. For details, see [Create a monetary benefit plan for an epic](create-monetary-benefit-plan-safe-epic.md) and [Create a non-monetary benefit plan for an epic](create-non-monetary-benefit-plan-safe-epic.md).
+2.  On the form, fill in the fields. For details, see [Create a monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-monetary-benefit-plan-safe-epic.md) and [Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-non-monetary-benefit-plan-safe-epic.md).
 
 
 </td></tr></tbody>
@@ -79,5 +79,5 @@ The selected benefit plan is associated with another plan.
 
 Click the **View Associated benefit plan** related link to view the associated benefit plan.
 
-**Parent Topic:**[Define an epic in SAFe](create-SAFeepic.md)
+**Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 

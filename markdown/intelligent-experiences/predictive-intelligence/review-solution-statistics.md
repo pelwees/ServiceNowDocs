@@ -25,7 +25,7 @@ The Solution Statistics dashboard in Predictive Intelligence has been deprecated
 
 The Solution Statistics dashboard lists the precision, coverage, and distribution for each class of active solutions. The system uses the classes with the highest number of records when it builds a solution. The number of classes predicted may be less than 50, and may skip a class if there is not enough historical data to build a solution that can predict the class confidently.
 
-The Solution Statistics dashboard is different from the Solution Statistics tab in an ML Solution record. For more information, see [Create and train a classification solution](create-solution-definition.md).
+The Solution Statistics dashboard is different from the Solution Statistics tab in an ML Solution record. For more information, see [Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ The Solution Statistics dashboard is different from the Solution Statistics tab 
 
     The system updates the dashboard based on the filters selected.
 
-    ![Bar graph of classification solution statistics](../images/solution-statistics-example-madrid.png)
+    ![Bar graph of classification solution statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/solution-statistics-example-madrid.png)
 
 5.  Identify classes with unwanted combinations of precision, coverage, and distribution values.
 

@@ -29,7 +29,7 @@ When a new issue configuration is created and saved in the Issue Page Configurat
 
 1.  Create a new issue configuration in the Issue page configurations record.
 
-    For instructions, see [Create a new Issue Page Configuration record](../../grc-common/task/create-new-issue-page-configuration.md).
+    For instructions, see [Create a new Issue Page Configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/task/create-new-issue-page-configuration.md).
 
 2.  Copy the sys\_id of the new configuration and keep note of it.
 
@@ -50,5 +50,5 @@ When a new issue configuration is created and saved in the Issue Page Configurat
 
 The new issue page configuration setting is displayed in the desired workspace view.
 
-**Parent Topic:**[Issue Page Configuration module](../concept/issue-page-config-record.md)
+**Parent Topic:**[Issue Page Configuration module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/issue-page-config-record.md)
 

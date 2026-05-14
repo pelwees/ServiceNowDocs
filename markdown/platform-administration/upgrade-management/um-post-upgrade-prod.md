@@ -62,5 +62,5 @@ Role required: admin
 4.  Select **Mark as complete** to complete the production tasks in a production instance.
 
 
-**Parent Topic:**[Access guided upgrade on a production instance](um-guided-tour-implement-prod.md)
+**Parent Topic:**[Access guided upgrade on a production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement-prod.md)
 

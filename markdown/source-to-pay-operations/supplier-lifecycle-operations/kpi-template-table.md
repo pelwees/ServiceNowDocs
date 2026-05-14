@@ -39,10 +39,10 @@ The KPI Template \[sn\_kpi\_template\] table contains the following fields.
 |Collection frequency|String|The frequency for collecting the KPI data.|
 |Instructions|Translated html|Populated in KPI collection tasks to give more context to the user providing the KPI data.|
 
-**Parent Topic:**[Primary data tables for Supplier Relationship and Performance Management \(SRPM\)](primary-data-tables-srpm.md)
+**Parent Topic:**[Primary data tables for Supplier Relationship and Performance Management \(SRPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-data-tables-srpm.md)
 
 **Related topics**  
 
 
-[Create manual KPI templates](../task/create-kpi-template-slo.md)
+[Create manual KPI templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-kpi-template-slo.md)
 

@@ -25,13 +25,13 @@ Role required: admin
 
 2.  Search for and open the **Invoice attachment DI processing** flow.
 
-3.  Select the more actions icon ![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+3.  Select the more actions icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
     The Create a copy of this flow dialog box is displayed.
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  Select the more actions icon ![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+5.  Select the more actions icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
     The Create a copy of this flow dialog box is displayed.
 
@@ -48,7 +48,7 @@ Role required: admin
 10. Under ACTIONS, do the following:
 
     -   Select **Process Attachment using DI** to expand it.
-    -   In the **SYS DI Task Definition \[Use Case\]** field, select the copy of the use case that was created using the **Duplicate use case** icon \(![duplicate DI use case](../image/duplicate-di-usecase.png)\) in Global scope. For more information on copying use case, refer [Create a copy of the default Invoice Processing use case](create-use-case-copy.md).![Invoice processing case for invoice email flow](../image/inv-process-flow-di-skill.png)
+    -   In the **SYS DI Task Definition \[Use Case\]** field, select the copy of the use case that was created using the **Duplicate use case** icon \(![duplicate DI use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/duplicate-di-usecase.png)\) in Global scope. For more information on copying use case, refer [Create a copy of the default Invoice Processing use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-use-case-copy.md).![Invoice processing case for invoice email flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/inv-process-flow-di-skill.png)
 11. Select **Save**.
 
 12. Select **Activate**.

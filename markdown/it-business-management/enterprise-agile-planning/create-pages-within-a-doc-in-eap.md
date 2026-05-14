@@ -61,18 +61,18 @@ Actions
     -   To create from templates:
         1.  Select **Create Page from template**.
 
-            ![Create Page from template](../images/eap-doc-create-from-template.png)
+            ![Create Page from template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-doc-create-from-template.png)
 
         2.  Select a template from the Template Center and select **Create page**.
 
-            ![Doc templates list.](../images/eap-doc-templates-list.png)
+            ![Doc templates list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-doc-templates-list.png)
 
     The new page is created and added to your Doc with the name **Untitled**, which you can rename.
 
-4.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](../images/eap-doc-page-actions-icon.png)\) and select **Create Subpage**.
+4.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-doc-page-actions-icon.png)\) and select **Create Subpage**.
 
-    ![Create subpage for a Doc in EAP.](../images/eap-doc-create-subpage.png)
+    ![Create subpage for a Doc in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-doc-create-subpage.png)
 
-5.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](../images/eap-doc-page-actions-icon.png)\) and select **Delete**.
+5.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-doc-page-actions-icon.png)\) and select **Delete**.
 
 

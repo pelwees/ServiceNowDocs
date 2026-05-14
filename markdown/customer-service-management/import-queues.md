@@ -41,7 +41,7 @@ Follow these steps in the workflow to import queues from your selected contact c
 
 3.  Select the **Import Queues** tab from the navigation pane.
 
-    ![ISelect queues from your selected contact center provider for importing](../image/int-import-queues-select-queues.png "Select queues for importing")
+    ![ISelect queues from your selected contact center provider for importing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-import-queues-select-queues.png "Select queues for importing")
 
 4.  Search for specific queues by using the search bar or select **Fetch all queues** to fetch the entire list of available queues.
 5.  Once you’ve fetched a set of queues, select the queues you plan to import by selecting the check box next to each queue.
@@ -53,7 +53,7 @@ Follow these steps in the workflow to import queues from your selected contact c
 
 ## Assign channels
 
-![Select queues and assign service channels](../image/int-select-queues-to-assign-service-channels.png "Select queues to assign service channels")
+![Select queues and assign service channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-select-queues-to-assign-service-channels.png "Select queues to assign service channels")
 
 1.  Select one or more queues from the displayed queues list by selecting the check box next to them.
 
@@ -61,7 +61,7 @@ Follow these steps in the workflow to import queues from your selected contact c
 
 2.  Select **Assign service channels** to display the service channel modal.
 
-    ![Assign service channels for selected queues](../image/int-assign-service-channels.png "Assign service channels")
+    ![Assign service channels for selected queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-assign-service-channels.png "Assign service channels")
 
 3.  Select one or multiple service channels and assign them to the selected queues.
 4.  Repeat steps \(1\) through \(3\) and confirm that all queues have at least one service channel assigned to them.
@@ -69,12 +69,12 @@ Follow these steps in the workflow to import queues from your selected contact c
 
     **Note:** Each pairing of a new queue and service channel creates a unique queue record in ServiceNow.
 
-    ![Import queues with assigned service channels](../image/int-import-queues.png "Import queues")
+    ![Import queues with assigned service channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-import-queues.png "Import queues")
 
 
 ## View summary
 
-![View summary of new and existing imported queues from the contact center provider](../image/int-view-summary.png "Summary of import")
+![View summary of new and existing imported queues from the contact center provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-view-summary.png "Summary of import")
 
 1.  In the **View summary** step, review a summary of your recent actions.
 2.  Additionally, you can also choose to import more queues or view all queues in the table.

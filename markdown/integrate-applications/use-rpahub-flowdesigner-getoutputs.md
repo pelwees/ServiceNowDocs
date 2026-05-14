@@ -17,9 +17,9 @@ Use the GetOutputs component to get the output of a flow or a subflow in Workflo
 
 To understand more about flows in Workflow Studio, see [Building flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
 
-Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](connect-studio-instance-rpa.md).
+Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connect-studio-instance-rpa.md).
 
-Use the GetExecutionStatus component to know the execution status of the flow or subflow. To use the component, see [Use the GetExecutionStatus component](use-rpahub-flowdesigner-getexecutionstatus.md).
+Use the GetExecutionStatus component to know the execution status of the flow or subflow. To use the component, see [Use the GetExecutionStatus component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-rpahub-flowdesigner-getexecutionstatus.md).
 
 Role required: none
 
@@ -35,7 +35,7 @@ There are many reasons why you might want to receive the output of a flow. For e
 
 3.  Configure the component properties by using the Properties pane.
 
-    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](../reference/properties-flow-designer-components.md).
+    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-flow-designer-components.md).
 
 4.  Connect the data and control ports of the GetOutputs component to the corresponding ports of the other components as described in the following table.
 
@@ -105,5 +105,5 @@ No. Connecting this port is optional.
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Flow Designer components](../concept/flow-designer-components.md)
+**Parent Topic:**[Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/flow-designer-components.md)
 

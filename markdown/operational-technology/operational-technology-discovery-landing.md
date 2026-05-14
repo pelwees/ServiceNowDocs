@@ -23,11 +23,11 @@ Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
 </td></tr><tr><td>
 
-[Operational Technology Native Discovery components](operational-technology-discovery-native-components.md)
+[Operational Technology Native Discovery components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-discovery-native-components.md)
 
 </td><td>
 
-[IT Discovery for Operational Technology \(OT\) Networks](../../mftg-manufacturing-oper-tech-mgr/concept/discovery-for-operational-technology.md)
+[IT Discovery for Operational Technology \(OT\) Networks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../mftg-manufacturing-oper-tech-mgr/concept/discovery-for-operational-technology.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

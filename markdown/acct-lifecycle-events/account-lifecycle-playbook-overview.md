@@ -31,5 +31,5 @@ The account onboarding workflow involves the following stages:
 -   The account onboarding playbook is launched.
 -   The case is managed by the onboarding manager who uses the playbook to manage the end-to-end workflow.
 
-![Account onboarding lifecycle](../image/account-lifecycle-workflow.png)
+![Account onboarding lifecycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-workflow.png)
 

@@ -40,11 +40,11 @@ Role required: discovery\_admin
 
 1.  Navigate to **All** &gt; **Discovery** &gt; **Status**.
 
-2.  Open a [Discovery Status](../concept/c_DiscoveryStatus.md) record.
+2.  Open a [Discovery Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryStatus.md) record.
 
-    The **Discovery Log** related list displays the logs for probe-based discovery. See [Discovery log details](discovery-log.md).
+    The **Discovery Log** related list displays the logs for probe-based discovery. See [Discovery log details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-log.md).
 
-    ![Discovery Log Records](../image/DiscoveryLog2.png)
+    ![Discovery Log Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryLog2.png)
 
 3.  Find out the information related to the relevant log entry:
 
@@ -53,11 +53,11 @@ Role required: discovery\_admin
     -   Select the IP address link in the **Device** column to view the log records for a particular device.
 4.  To view logs for pattern-based discovery, select the **Here** link for a log entry that has **HorizontalDiscoveryProbe** in the **ECC queue input**.
 
-    ![The link to the pattern-based discovery log.](../image/discovery-log-link-pattern-based-log.png)
+    ![The link to the pattern-based discovery log.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/discovery-log-link-pattern-based-log.png)
 
-    The Horizontal Discovery Log window opens showing the list of pattern-based log entries. For information on logged discovery phases, see [Discovery log details](discovery-log.md).
+    The Horizontal Discovery Log window opens showing the list of pattern-based log entries. For information on logged discovery phases, see [Discovery log details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-log.md).
 
-    ![Horizontal Discovery log](../image/horizontal-pattern-log.png "Horizontal Discovery log")
+    ![Horizontal Discovery log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/horizontal-pattern-log.png "Horizontal Discovery log")
 
 5.  Select an item in the left-hand column to see more information about it in the right-hand column.
 
@@ -69,13 +69,13 @@ Role required: discovery\_admin
 ### What to do next
 
 -   To fine-tune or troubleshoot the pattern-based discovery, retrieve the payload as described in [KB0998923: Retrieve Payload Feature](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0998923).
--   [Validate commands used in pattern-based discovery](../../it-operations-management/task/validate-discovery-commands.md), if there is one of the following errors:
+-   [Validate commands used in pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/task/validate-discovery-commands.md), if there is one of the following errors:
     -   Authentication issue
     -   Authorization/Permission issue
     -   No Valid credentials present
     -   IP not reachable from mid
     -   Command with wrong syntax
--   If there is an error in payload processing, select the **IRE Error Documentation** button to learn about the Identification and Reconciliation Engine \(IRE\) error that occurred and how to resolve it.![Horizontal Discovery Log window showing a payload processing error](../image/discovery-log-payload-error-IRE.png)
+-   If there is an error in payload processing, select the **IRE Error Documentation** button to learn about the Identification and Reconciliation Engine \(IRE\) error that occurred and how to resolve it.![Horizontal Discovery Log window showing a payload processing error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/discovery-log-payload-error-IRE.png)
 
 **Related topics**  
 

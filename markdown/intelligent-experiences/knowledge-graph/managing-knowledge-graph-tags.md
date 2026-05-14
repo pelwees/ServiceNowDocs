@@ -27,7 +27,7 @@ Role required: admin
 
     You can see all the tables that are part of the tag on the Knowledge Graph canvas.
 
-    ![edit tag](../Images/edit-tag.png)
+    ![edit tag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/edit-tag.png)
 
 3.  Select **Edit tag** option to open the Edit Tags window or select a node to edit.
 

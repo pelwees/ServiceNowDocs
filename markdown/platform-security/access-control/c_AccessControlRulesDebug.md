@@ -17,9 +17,9 @@ Field level debugging and access ACL rule output messages are available to help 
 
 ## Field level debugging
 
-When debugging is enabled, a small bug icon \(![Debug icon](../image/Debug.png)‎\) appears beside each field with an ACL rule. Clicking the icon lists the ACL rules that apply for the field and the evaluation results. Enable debugging by navigating to **System Security** &gt; **Debugging** &gt; **Debug Security Rules**.
+When debugging is enabled, a small bug icon \(![Debug icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/Debug.png)‎\) appears beside each field with an ACL rule. Clicking the icon lists the ACL rules that apply for the field and the evaluation results. Enable debugging by navigating to **System Security** &gt; **Debugging** &gt; **Debug Security Rules**.
 
-![Field level security on an incident](../../security/image/field_level_debugging.png "Field level security on an incident")
+![Field level security on an incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/field_level_debugging.png "Field level security on an incident")
 
 After enabling ACL debugging, you can impersonate another user to see what ACL rules the user passes and fails. When you impersonate a user, you can only see what that user is allowed to see. For example, you cannot view a record that an ACL prevents the user from seeing. To make debugging easier, read-only access to certain ACL-related tables is enabled by default, even when impersonating a user that does not have read access to the tables. To change this functionality, set the following property to **false**.
 
@@ -113,9 +113,9 @@ This is available starting with the Istanbul release.
 
 |Icon|Description|
 |----|-----------|
-|A green checkmark \(![Green checkmark](../image/GreenCheckmark.png)‎\)|Indicates the table or field passed the criteria.|
-|A red x icon \(![Red x icon](../image/RedX.png)\)|Indicates the table or field did not pass.|
-|An empty gray circle icon \(![Grey circle icon](../image/GrayCircle.png)‎\)|Indicates the ACL evaluation did not need to be performed.|
+|A green checkmark \(![Green checkmark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/GreenCheckmark.png)‎\)|Indicates the table or field passed the criteria.|
+|A red x icon \(![Red x icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/RedX.png)\)|Indicates the table or field did not pass.|
+|An empty gray circle icon \(![Grey circle icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/GrayCircle.png)‎\)|Indicates the ACL evaluation did not need to be performed.|
 |A blue checkmark, x, or empty circle|Indicates that the ACL was taken from a cached result of a previous ACL check. The icons mean the same as the above.|
 
 You can perform these actions on the ACL debug output:
@@ -125,10 +125,10 @@ You can perform these actions on the ACL debug output:
     -   **Others**: Show or hide other warnings or messages.
 -   Click the name of the ACL next to any of the output messages to open that ACL record.
 
-    ![Click the ACL link](../../security/image/ACL_name_link.png)
+    ![Click the ACL link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/ACL_name_link.png)
 
 -   Hover the cursor over any of the icons for the four ACL checks to see more information.
 
-    ![Hover over an ACL check mark](../../security/image/ACL-hover.png)
+    ![Hover over an ACL check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/ACL-hover.png)
 
 

@@ -47,14 +47,14 @@ The subsequent configuration of the state model ensures that a value is required
     |Name \(second part\)|Needs review|
     |Condition|\[State\] \[is\] \[Implement\]|
 
-    ![New change request ACL](../image/NewStateTutNewACL1.png)
+    ![New change request ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/NewStateTutNewACL1.png)
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Add a UI policy](t_AddUIPolicy.md)
+**Previous topic:**[Add a UI policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddUIPolicy.md)
 
-**Next topic:**[Update the state handler script include](t_UpdateStateHandlerScriptInclude.md)
+**Next topic:**[Update the state handler script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_UpdateStateHandlerScriptInclude.md)
 

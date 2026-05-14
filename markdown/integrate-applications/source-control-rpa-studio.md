@@ -15,9 +15,9 @@ Resolve conflicts when merging changes from multiple sources of the same activit
 
 ## Before you begin
 
-If you're not connected to a ServiceNow instance, click the Connection Manager icon under the **Design** tab to connect to an existing instance. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+If you're not connected to a ServiceNow instance, click the Connection Manager icon under the **Design** tab to connect to an existing instance. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 
-Create an activity. For more information, see [Create and use an activity in RPA Desktop Design Studio](configure-activity-rpa-studio.md).
+Create an activity. For more information, see [Create and use an activity in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-activity-rpa-studio.md).
 
 Role required: none
 
@@ -45,7 +45,7 @@ Action
 
 </td><td>
 
-1.  Click the Open Project icon \(![Open Project icon.](../image/connection-manager-icon.png)\).
+1.  Click the Open Project icon \(![Open Project icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/connection-manager-icon.png)\).
 2.  In the Open Project dialog box, select a package name and a version.
 3.  Click **Open**.
 4.  Click **Save** to save the Project in the default location.
@@ -66,7 +66,7 @@ Action
 </td></tr></tbody>
 </table>    The changes are highlighted in the COMPARE PROCESSES dialog box as shown in the following example. If changes are added, they appear in green. If the changes are removed, they appear in red. If the changes are modified, they appear in yellow.
 
-    ![Changes highlighted in the Compare Processes dialog box.](../image/confirm-processes-source-control.png "Changes highlighted in the Compare Processes dialog box")
+    ![Changes highlighted in the Compare Processes dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/confirm-processes-source-control.png "Changes highlighted in the Compare Processes dialog box")
 
 5.  Under the Local section, select any of the following options for resolving conflicts from the **In conflict** field:
 
@@ -77,5 +77,5 @@ Action
 7.  Click **Merge with current**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

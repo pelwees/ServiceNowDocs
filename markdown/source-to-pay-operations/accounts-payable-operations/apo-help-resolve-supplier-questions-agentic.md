@@ -34,5 +34,5 @@ The following table lists the agents that are used in the APO.
 **Related topics**  
 
 
-[Invoice inquiry cases](work-with-inquiry-cases.md)
+[Invoice inquiry cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md)
 

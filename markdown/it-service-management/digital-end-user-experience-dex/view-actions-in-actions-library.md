@@ -27,12 +27,12 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **Devices** icon\(![Devices icon](../image/icon-devices.png)\) from the primary navigation pane.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **Devices** icon\(![Devices icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-devices.png)\) from the primary navigation pane.
 
 2.  Select a device from the list.
 
-3.  On the contextual side panel, select the Action Library icon \(![Action library icon](../image/icon-action-library.png)\) and view actions.
+3.  On the contextual side panel, select the Action Library icon \(![Action library icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-action-library.png)\) and view actions.
 
-    To view the list of actions, see [Digital End-User Experience Remedial Actions](../reference/dex-diff-ra.md).
+    To view the list of actions, see [Digital End-User Experience Remedial Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/dex-diff-ra.md).
 
 

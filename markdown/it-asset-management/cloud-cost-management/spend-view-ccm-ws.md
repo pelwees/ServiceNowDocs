@@ -26,9 +26,9 @@ Use the Spend view to analyze and understand the spend on your assets that are g
 -   Cost allocation, displaying shared and direct cost
 -   Spend per region \(This month\)
 
-The Spend view displays detailed reports for the listed categories. You can select a report to view the cloud resource spend and fields in the list view. For more information on these reports, see [Spend dashboard](spend-view-ccm-ws.md#table-spend-dashboard). You can access the Spend view by navigating to **Workspaces** &gt; **Cloud Cost Management Workspace** &gt; **Spend**.
+The Spend view displays detailed reports for the listed categories. You can select a report to view the cloud resource spend and fields in the list view. For more information on these reports, see [Spend dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/spend-view-ccm-ws.md#table-spend-dashboard). You can access the Spend view by navigating to **Workspaces** &gt; **Cloud Cost Management Workspace** &gt; **Spend**.
 
-![Spend view in the Cloud Cost Management Workspace.](../image/ccm-spend-view-ws.png "Spend dashboard")
+![Spend view in the Cloud Cost Management Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/ccm-spend-view-ws.png "Spend dashboard")
 
 <table id="table-spend-dashboard"><thead><tr><th>
 

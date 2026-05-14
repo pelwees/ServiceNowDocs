@@ -38,7 +38,7 @@ Additional inputs include:
 -   Risk condition that was met
 -   Risk assessment
 
-    By default, the assessment uses the top five normalized risk values sorted in descending order. If there’s a tie between the two values, the one with the lower order number is used. For information on risk assessment, see [Risk assessment](../../change-management/concept/c_RskAsmtCalc.md).
+    By default, the assessment uses the top five normalized risk values sorted in descending order. If there’s a tie between the two values, the one with the lower order number is used. For information on risk assessment, see [Risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../change-management/concept/c_RskAsmtCalc.md).
 
 
 You can also add custom input fields.
@@ -49,13 +49,13 @@ You can generate the explanation of the calculated risk rating for a change requ
 
 1.  In Core UI or Service Operations Workspace for ITSM, open a change request that is assigned to you.
 
-2.  Select the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png) for the **Explain Risk** field.
+2.  Select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png) for the **Explain Risk** field.
 
-    **Note:** The Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png) isn’t available if the risk for the change request hasn’t already been calculated.
+    **Note:** The Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png) isn’t available if the risk for the change request hasn’t already been calculated.
 
     The risk explained by Now Assist appears in a window on the change request record.
 
-    ![The Change Risk explanation includes a list of relevant change requests to help you understand which risk factors contributed to the calculated risk](../image/now-assist-itsm-change-risk-citation.png)
+    ![The Change Risk explanation includes a list of relevant change requests to help you understand which risk factors contributed to the calculated risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-change-risk-citation.png)
 
 3.  Elaborate or shorten the risk explained by Now Assist.
 
@@ -77,7 +77,7 @@ Procedure
 
 </td><td>
 
-If you think that the change request risk explanation was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the change request risk explanation wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the change request risk explanation was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-helpful.png)\). If you think that the change request risk explanation wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d262256e277">
 
@@ -85,7 +85,7 @@ If you think that the change request risk explanation was helpful, select the he
 
 </td><td>
 
-If you want to reuse the change request risk explanation, select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\).
+If you want to reuse the change request risk explanation, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-copy.png)\).
 
 </td></tr><tr><td id="d262256e292">
 
@@ -93,7 +93,7 @@ If you want to reuse the change request risk explanation, select the copy to cli
 
 </td><td>
 
-If you want to check some details about the change request risk explanation, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the change request risk explanation, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

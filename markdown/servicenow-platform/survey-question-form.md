@@ -198,10 +198,10 @@ Assessment Metric Definitions
 Answer options for this question.This related list is available only if the **Data type** is **Choice** or **Likert Scale**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[Create or modify survey questions](../task/t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateOrModifySurveyQuestions.md)
 

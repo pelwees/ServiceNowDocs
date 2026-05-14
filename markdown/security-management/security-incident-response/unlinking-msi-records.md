@@ -21,7 +21,7 @@ Role required: sn\_msi.workspace\_manager and sn\_msi.workspace\_responder
 
 **Note:** You can only unlink a single record at a time. After you unlink a record, the related rolled up information will be removed from the Incident Impact and Threat Intelligence sections on the workspace and the action can't be undone.
 
-For more information on roll up records, see [Rollup Framework for MSIM](../concept/roll-up-framework-for-major-security-incident-management.md).
+For more information on roll up records, see [Rollup Framework for MSIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/roll-up-framework-for-major-security-incident-management.md).
 
 ## Procedure
 
@@ -41,41 +41,41 @@ For more information on roll up records, see [Rollup Framework for MSIM](../conc
 
 7.  Select **Unlink Record**.
 
-    ![Unlink Record remediation task.](../image/unlink-record.png "Unlink Record")
+    ![Unlink Record remediation task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/unlink-record.png "Unlink Record")
 
 8.  A warning message is displayed asking if you want to unlink the selected record from MSI.
 
-    ![Unlink Record warning message.](../image/unlink-record-msg.png "Unlink Record Warning Message")
+    ![Unlink Record warning message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/unlink-record-msg.png "Unlink Record Warning Message")
 
 9.  Select **Unlink Record**.
 
     The record is unlinked and once unlinked, the changes can't be reverted. The list view of Linked Records will be refreshed after unlinking.
 
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](../concept/viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](../concept/viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/viewing-msi-impact-metrics.md)
 
-[Update Major Security Incident details](../concept/msim-details-tab.md)
+[Update Major Security Incident details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/msim-details-tab.md)
 
-[Link additional records to Major Security Incident](linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/linking-additional-records-to-major-security-incidents.md)
 
-[Manage tasks in a Major Security Incident](../concept/tasks-tab.md)
+[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](../concept/collab-tab.md#)
+[Track collaboration activity via MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/collab-tab.md#)
 
-[Create and distribute MSIM Status Reports](creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-and-distributing-major-security-incident-status-reports.md)
 
-[Configure Linked Records in Major Security Incident Management](configuring-linked-records-in-major-security-incident-management.md)
+[Configure Linked Records in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-linked-records-in-major-security-incident-management.md)
 
-[Configure Rollup Records in Major Security Incident Management](../concept/roll-up-record-configuration-in-major-security-incident-management.md)
+[Configure Rollup Records in Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/roll-up-record-configuration-in-major-security-incident-management.md)
 

@@ -36,7 +36,7 @@ Role required: admin
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
@@ -44,7 +44,7 @@ Role required: admin
 
     The empty state illustrations are displayed on the main stage and grouped by type.
 
-    ![Image styles tab selected with empty state illustrations listed on main stage and property panel opened.](../image/tb-image-styles-opened.png "Image styles tab selected")
+    ![Image styles tab selected with empty state illustrations listed on main stage and property panel opened.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-image-styles-opened.png "Image styles tab selected")
 
 5.  Use one of the following options to select the empty state illustration that you want to override.
 
@@ -54,7 +54,7 @@ Role required: admin
 
 6.  From the property panel, select the **Images** tab.
 
-    ![Property panel with Images tab selected.](../image/tb-property-panel-images.png "Property panel Images tab")
+    ![Property panel with Images tab selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-property-panel-images.png "Property panel Images tab")
 
 7.  Select either the large, medium, or small image file of the illustration you want to override.
 
@@ -62,7 +62,7 @@ Role required: admin
 
     The upload images modal appears.
 
-    ![Upload image modal.](../image/tb-image-upload-modal.png "Upload images modal")
+    ![Upload image modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-image-upload-modal.png "Upload images modal")
 
 8.  Use one of the following options to upload your custom image:
 
@@ -70,17 +70,17 @@ Role required: admin
     -   Drag your custom image file from your computer's file browser and drop the image directly into the modal.
     Refer to the upload image modal for size and format limitations. If your custom image doesn’t meet the required size and format, your image isn’t saved.
 
-    ![Upload image modal with Browse selected and file limitations expanded.](../image/tb-image-upload-modal-browse.png "Upload image modal with size and format limitations")
+    ![Upload image modal with Browse selected and file limitations expanded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-image-upload-modal-browse.png "Upload image modal with size and format limitations")
 
 9.  Select **Save**.
 
     Your custom image appears on the main stage within the empty state category that you have chosen.
 
-    ![Add data empty state illustration category with custom image displayed.](../image/tb-add-data-image-modal.png "Add data empty state category with custom image displayed")
+    ![Add data empty state illustration category with custom image displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-add-data-image-modal.png "Add data empty state category with custom image displayed")
 
 10. Select the Remove override symbol if you want to restore the default empty state illustration.
 
-    ![Images tab with Remove override selected.](../image/tb-custom-image-override.png "Image Remove override")
+    ![Images tab with Remove override selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-custom-image-override.png "Image Remove override")
 
 11. Preview your edits before publishing your theme to your instance.
 
@@ -90,12 +90,12 @@ Role required: admin
 
     3.  Select the Open in new tab icon ![](../image/tb-icon-open-new-tab.png) to open the experience in a new tab.
 
-        ![Global styles experience preview screen with Admin Center experience selected.](../image/tb-experience-preview-1.png "Experience preview")
+        ![Global styles experience preview screen with Admin Center experience selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-experience-preview-1.png "Experience preview")
 
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Empty state illustrations in Theme Builder](../concept/empty-state-illustrations.md)
+**Parent Topic:**[Empty state illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/empty-state-illustrations.md)
 

@@ -32,7 +32,7 @@ Agent-scheduled callbacks enable agents to create callback tasks while interacti
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon to view callback list](../image/list-icon-callback.png)\)
+2.  Select the List icon \(![List icon to view callback list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/list-icon-callback.png)\)
 
 3.  Open a case or interaction.
 
@@ -54,11 +54,11 @@ Agent-scheduled callbacks enable agents to create callback tasks while interacti
 **Related topics**  
 
 
-[View scheduled callbacks](view-scheduled-callbacks.md)
+[View scheduled callbacks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/view-scheduled-callbacks.md)
 
-[View related callbacks in the contextual side panel](view-related-callbacks-contextual-side-panel.md)
+[View related callbacks in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/view-related-callbacks-contextual-side-panel.md)
 
-[Reschedule a callback](reschedule-callback.md)
+[Reschedule a callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/reschedule-callback.md)
 
-[Cancel a callback](cancel-callback.md)
+[Cancel a callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/cancel-callback.md)
 

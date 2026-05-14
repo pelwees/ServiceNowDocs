@@ -17,7 +17,7 @@ Create a Docker secret that stores the password of the ServiceNow user who will 
 
 ## Before you begin
 
-Complete Step 4: [Create the Docker image and containers for Headless Browser setup in Microsoft Windows](headless-browser-create-docker-image-containers-windows.md)
+Complete Step 4: [Create the Docker image and containers for Headless Browser setup in Microsoft Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-create-docker-image-containers-windows.md)
 
 Role required: Go to your ServiceNow instance and create a new user to be used by the Docker container to log in. Give this user the roles of **admin** or **atf\_test\_admin**. Save the password to be used in Step 2 of the following procedure.
 
@@ -35,16 +35,16 @@ Inside the Docker container is an automation script that opens a web browser, lo
 
     Your results should look like this:
 
-    ![Results of entering echo "my password" code](../image/echo-password.png)
+    ![Results of entering echo "my password" code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/echo-password.png)
 
 
 ## Result
 
 The result is your secret ID, which you must save for later use. The secret ID will be added to the ServiceNow instance in the sys\_property `sn_atf.headless.secret_id`.
 
-**Parent Topic:**[Headless Browser setup for Microsoft Windows](../concept/headless-browser-procedure-windows.md)
+**Parent Topic:**[Headless Browser setup for Microsoft Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/headless-browser-procedure-windows.md)
 
-**Previous topic:**[Create the Docker image and containers for Headless Browser setup in Microsoft Windows](headless-browser-create-docker-image-containers-windows.md)
+**Previous topic:**[Create the Docker image and containers for Headless Browser setup in Microsoft Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-create-docker-image-containers-windows.md)
 
-**Next topic:**[Set up instance for Headless Browser in Microsoft Windows](headless-browser-instance-setup-windows.md)
+**Next topic:**[Set up instance for Headless Browser in Microsoft Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/headless-browser-instance-setup-windows.md)
 

@@ -125,7 +125,7 @@ Possible actions include:-   Prompt agent – Sent Workspace notification to age
 
 The Agent Inbox displays new SMS messages and agents can locate currently assigned SMS conversations in the **Ongoing** tab. The tab indicator and record highlight indicate when an SMS conversation has a new message​. Unlike chat conversations, SMS conversations can be long-running. Completed SMS conversations do not display in the **Ongoing** tab.
 
-![Active conversation in the Ongoing tab.](../image/ongoing-conversations-example.png)
+![Active conversation in the Ongoing tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/ongoing-conversations-example.png)
 
 ## Requester initiated SMS conversations
 

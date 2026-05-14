@@ -45,7 +45,7 @@ Process Mining gathers audit log field data for the activities that you define. 
 
 5.  Select **New** in the Activities area.
 
-    ![Set activity definition](../image/set-activity-def.png)
+    ![Set activity definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/set-activity-def.png)
 
 6.  Fill the form.
 
@@ -87,7 +87,7 @@ This field is available only if you choose **Field Values \(Default\)** in the *
 
 These recommendations come from the process configuration set for the table on which the project is based. They’re derived from the Process perspectives section of the Process details page in the Process Configuration Builder.
 
-For more information on Process perspectives, see [Configure process details](process-details.md).
+For more information on Process perspectives, see [Configure process details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
 The recommendation is provided even if you don’t specify anything in the process configuration for the table. If nothing is configured on the Process details page, we recommend the fields that have high frequency of change.
 
@@ -95,7 +95,7 @@ Select the button, and a dialog box is displayed to select from the list of reco
 
 You can choose to use any other field outside of the recommendation too.
 
-![Recommendations in activity definition based on the setting in process configuration](../image/act-def-recom.gif)
+![Recommendations in activity definition based on the setting in process configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/act-def-recom.gif)
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Show Related Fields
 
 </td><td>
 
-This field is available only if you choose **Field Values \(Default\)** or **Date Time** in the **Select type** field.If you want to see the list of related fields, select the Related Fields icon \(![Related list](../image/act-def-rel-list.png)\), and select a field.
+This field is available only if you choose **Field Values \(Default\)** or **Date Time** in the **Select type** field.If you want to see the list of related fields, select the Related Fields icon \(![Related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/act-def-rel-list.png)\), and select a field.
 
 This field helps you set dot-walking on records.
 
@@ -145,7 +145,7 @@ This field is available only if you choose **Field Values \(Default\)** in the *
 
 You can select the values and choose to include or exclude.
 
-![List of values](../image/ad-listofvalues.png)
+![List of values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ad-listofvalues.png)
 
 For example, you have chosen the **Incident** table. Now, you want to see records that went through Assignment group Service Desk and Assignment group Database. To see this data, you must select **Assignment group** as the **Field** and add **Service Desk** and **Database** from **List of values**.
 
@@ -170,13 +170,13 @@ This field enables you to choose whether you want to view all the changes for an
 
  Changes to assignment group are displayed as one node 'Assignment group changed'. You can view the records or view the details to see which records are affected and how. Every change to State is displayed as an individual node.
 
- ![Show changes as group](../image/show-changes-group.png "Changes are grouped")
+ ![Show changes as group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/show-changes-group.png "Changes are grouped")
 
  In the next scenario, configure Assignment group and State to report on and select **Display each unique value as separate activity steps** for Assignment group and State.
 
  Every change to Assignment group and State is displayed as individual nodes.
 
- ![Changes are not grouped](../image/dont-show-changes-group.png "Changes aren’t grouped")
+ ![Changes are not grouped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/dont-show-changes-group.png "Changes aren’t grouped")
 
 </td></tr><tr><td>
 
@@ -207,7 +207,7 @@ Start node
 This field is available only if you choose **Field Values \(Default\)** in the **Select type** field.When this option is selected, an empty node on the process graph is displayed when the selected activity definition field is empty at the time of record creation.
 
 </td></tr></tbody>
-</table>    **Note:** To edit an activity definition, select the activity definition from the list and make edits. To delete an activity definition, select the activity definition from the list and select the Delete icon \(![Delete icon](../image/act-def-delete.png)\).
+</table>    **Note:** To edit an activity definition, select the activity definition from the list and make edits. To delete an activity definition, select the activity definition from the list and select the Delete icon \(![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/act-def-delete.png)\).
 
 7.  Select **Save**.
 
@@ -217,17 +217,17 @@ This field is available only if you choose **Field Values \(Default\)** in the *
 
 9.  Select improvement opportunities to set improvement opportunities.
 
-    For more information, see [Set improvement opportunities](improve-opportunities.md)
+    For more information, see [Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md)
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 
 **Related topics**  
 
 
-[Set breakdown definitions](breakdown.md)
+[Set breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/breakdown.md)
 
-[Set use cases](adv-settings.md)
+[Set use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/adv-settings.md)
 
-[Add a child entity](child-entity.md)
+[Add a child entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/child-entity.md)
 

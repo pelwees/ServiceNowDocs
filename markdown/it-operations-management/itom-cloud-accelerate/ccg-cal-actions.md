@@ -34,5 +34,5 @@ Cloud Action Library offers the following actions:
 
 The Cloud Action Library actions are available under the **Default** and **External** categories.
 
-**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)
+**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 

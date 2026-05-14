@@ -21,7 +21,7 @@ Role required: security\_admin
 
 Record producers allow end users to create task-based records, such as incident records, from the Service Catalog and Service Portal. If a record producer attempts to insert data into a field marked for encryption, an invalid insert message displays and the data is not saved to the field.
 
-Encrypting data from a record producer requires an encryption configuration defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](../concept/c_ConfigureCloudEdge.md#). To encrypt attachments from a record producer, [Configure attachment encryption](../concept/c_EncryptingAttachments.md#).
+Encrypting data from a record producer requires an encryption configuration defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_ConfigureCloudEdge.md#). To encrypt attachments from a record producer, [Configure attachment encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_EncryptingAttachments.md#).
 
 ## Procedure
 
@@ -54,11 +54,11 @@ Encrypting data from a record producer requires an encryption configuration defi
 
     The below encryption rule was created from the Report Outage record producer and processes POST parameters from the Service Catalog to map variables to fields in the instance. Replace `'FILL ME IN'` with the target field.
 
-    ![Edge Encryption Rule: Report Outage](../images/report-outage.png)
+    ![Edge Encryption Rule: Report Outage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/report-outage.png)
 
     The below encryption rule was created from the Report Outage record producer and processes a JSON payload from the Service Portal to map variables to fields in the instance. Add additional statements to map any scripted variables to the target fields.
 
-    ![Edge Encryption Rule: ReportOutageJson](../images/report-outage-json.png)
+    ![Edge Encryption Rule: ReportOutageJson](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/report-outage-json.png)
 
     When the payload from the record producer is examined, the error\_message element contains the value for the short\_description field. By adding the following statement, you can map the scripted variable error\_message to the short\_description field.
 
@@ -93,5 +93,5 @@ Encrypting data from a record producer requires an encryption configuration defi
 
 The two encryption rules enable the record producer to insert values into fields marked for encryption from either the Service Catalog or Service Portal.
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/edge-config.md)
 

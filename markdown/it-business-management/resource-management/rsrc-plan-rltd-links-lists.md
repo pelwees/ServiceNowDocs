@@ -37,9 +37,9 @@ Update Cost Plan
 
 </td><td>
 
-If you are using Project Portfolio Management, resource plans automatically create cost plans for a [project](../../project-management/task/t_CreateAProjectCostPlan.md) or [demand](../../planning-and-policy/task/t_CreateADemandCostPlan.md).
+If you are using Project Portfolio Management, resource plans automatically create cost plans for a [project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-management/task/t_CreateAProjectCostPlan.md) or [demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../planning-and-policy/task/t_CreateADemandCostPlan.md).
 
- Whenever you update the resource plan, click **Update Cost Plan** to [keep the cost plan up-to-date](../task/t_UpdateRelatedCostPlan.md).
+ Whenever you update the resource plan, click **Update Cost Plan** to [keep the cost plan up-to-date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/t_UpdateRelatedCostPlan.md).
 
 **Note:** The cost plan associated to a resource plan is also automatically updated when the resource plan is updated.
 
@@ -49,7 +49,7 @@ Recalculate Resource Cost
 
 </td><td>
 
-[Recalculates the resource costs of the resource plan](../task/recalculate-resource-costs.md) whenever the hourly rates change in the rate model to keep the costs up-to-date.
+[Recalculates the resource costs of the resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/recalculate-resource-costs.md) whenever the hourly rates change in the rate model to keep the costs up-to-date.
 
 </td></tr></tbody>
 </table><table id="table_yrz_hs1_mcc"><thead><tr><th>
@@ -66,7 +66,7 @@ Requested Allocations
 
 </td><td>
 
-List of [requested allocations](../task/request-allocation.md) for the resource plan.The number of requested allocation records created depends on the value of the **Allocation type** field. For example, if a resource is requested from January 1 to March 31, the following requested allocation records are created for each type:
+List of [requested allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/request-allocation.md) for the resource plan.The number of requested allocation records created depends on the value of the **Allocation type** field. For example, if a resource is requested from January 1 to March 31, the following requested allocation records are created for each type:
 
  -   **Monthly**: 3 allocation records, one for each month.
 -   **Weekly**: 14 allocation records, one for each week with Monday being the first day of the week.
@@ -78,7 +78,7 @@ Resource Allocations
 
 </td><td>
 
-List of [resources allocated](r_AllocatingResources.md) to the plan.
+List of [resources allocated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_AllocatingResources.md) to the plan.
 
 </td></tr><tr><td>
 
@@ -89,5 +89,5 @@ Resource Plan Logs
 Lists any error or warnings that might occur during resource allocation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+</table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/rsrc-mgmt-reference.md)
 

@@ -26,7 +26,7 @@ To modify the appearance of your mobile views and input form screens UI, you mus
     Each mobile UI rule uses mobile UI rule actions. These actions define the changes made to your target record. When you create an action, you select an operation, which defines the kind of change you want to make. You then define a value, which gives the rule more detail on the specifics of the change you're making.
 
 
-For more detail on the kinds of changes you can make with mobile UI rules, see the next section. For detailed steps on creating mobile UI rules and actions, see [Create a mobile UI rule](../task/create-mobile-ui-rule.md).
+For more detail on the kinds of changes you can make with mobile UI rules, see the next section. For detailed steps on creating mobile UI rules and actions, see [Create a mobile UI rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/create-mobile-ui-rule.md).
 
 ## Available mobile UI rule operations
 
@@ -38,7 +38,7 @@ Use calculations to quickly and accurately fill in field values based on calcula
 
 </td><td>
 
-![Demonstration of a UI rule performing a calculation.](../image/mobile-ui-rule-calc.png)
+![Demonstration of a UI rule performing a calculation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-ui-rule-calc.png)
 
 </td></tr></tbody>
 </table>-   **Apply UI styling to mobile view elements**
@@ -49,7 +49,7 @@ Use mobile UI rules to apply UI styling to your screens. Using JSON code, you ca
 
 </td><td>
 
-![Example UI styles.](../image/ui-styles.png)
+![Example UI styles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/ui-styles.png)
 
 </td></tr></tbody>
 </table>-   **Disable buttons**
@@ -60,7 +60,7 @@ Use mobile UI rules to conditionally disable buttons. De-clutter your interface 
 
 </td><td>
 
-![Disabled buttons in the mobile interface.](../image/disable_buttons-mobile.png)
+![Disabled buttons in the mobile interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/disable_buttons-mobile.png)
 
 </td></tr></tbody>
 </table>-   **Hide or display inputs or mobile view elements**
@@ -71,7 +71,7 @@ Use mobile UI rules to control the visibility of your inputs or elements on your
 
 </td><td>
 
-![Fields made mandatory using screen UI policies.](../image/hide-disable-input.png)
+![Fields made mandatory using screen UI policies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/hide-disable-input.png)
 
 </td></tr></tbody>
 </table>-   **Make inputs read-only or mandatory**
@@ -82,7 +82,7 @@ Make your inputs read-only or mandatory to control which inputs are required and
 
 </td><td>
 
-![Demonstration of a UI rule performing a calculation](../image/mobile-read-only.png)
+![Demonstration of a UI rule performing a calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-read-only.png)
 
 </td></tr></tbody>
 </table>

@@ -31,15 +31,15 @@ When you filter through a record hierarchy, you select one value of the referenc
 
 Hierarchical filters support only the hierarchies defined in the Record Hierarchy \[sys\_record\_hierarchy\] table and not those defined in other tables, such as Governance, Risk, and Compliance \(GRC\) tables. Hierarchical filters generally follow the same logic as hierarchical queries, as described in [Building hierarchical queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/data-hierarchies.md).
 
-To create a hierarchical dashboard filter, follow the procedure in [Configure a Single/Multiple select or cascading filter](../task/create-select-filter-workspace.md) to create a multi-select filter. When you reach the step where you define the filter source, specify the hierarchy.
+To create a hierarchical dashboard filter, follow the procedure in [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-select-filter-workspace.md) to create a multi-select filter. When you reach the step where you define the filter source, specify the hierarchy.
 
 ## Procedure
 
-1.  Create a filter and select the Single or Multiple Select filter type, as described in [Create or add a filter on an inline dashboard](../task/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](../task/add-filter-library.md).
+1.  Create a filter and select the Single or Multiple Select filter type, as described in [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/add-filter-library.md).
 
 2.  Select a Table source.
 
-    ![Filter source configuration pane showing filter hierarchy fields.](../image/filter-hierarchy.png)
+    ![Filter source configuration pane showing filter hierarchy fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/filter-hierarchy.png)
 
 3.  Select a table that has a record hierarchy, such as User \[sys\_user\].
 
@@ -59,30 +59,30 @@ To create a hierarchical dashboard filter, follow the procedure in [Configure a 
 
 9.  When you select the data to filter, select a field in the same table as the filter source or a reference field that points to the same table as the filter source.
 
-    **Note:** The filter also applies to visualizations of native Data snapshots indicators that have that table specified in their Data snapshots source. For more information, see [Create a Data snapshots source](../../performance-analytics/task/create-ds-source.md).
+    **Note:** The filter also applies to visualizations of native Data snapshots indicators that have that table specified in their Data snapshots source. For more information, see [Create a Data snapshots source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/create-ds-source.md).
 
-10. Complete configuring the filter as described in [Configure a Single/Multiple select or cascading filter](../task/create-select-filter-workspace.md).
+10. Complete configuring the filter as described in [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-select-filter-workspace.md).
 
 
 ## Filter on the Manager hierarchy
 
 In your company, you have a manager named Fred Luddy. He has one direct report named Beth Anglin.
 
-![Beth Anglin's User record showing Fred Luddy as manager.](../image/beth-anglin-fred-mgr.png)
+![Beth Anglin's User record showing Fred Luddy as manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/beth-anglin-fred-mgr.png)
 
 Beth in turn has one direct report named Bradly Hasselvander.
 
-![Bradly Hasselvander's user record showing Beth Anglin as manager.](../image/bradly-h-beth-as-mgr.png)
+![Bradly Hasselvander's user record showing Beth Anglin as manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/bradly-h-beth-as-mgr.png)
 
 You want a dashboard where the viewer can choose to see the details of indicators owned by anyone in Fred Luddy's reporting chain. You design a dashboard with some relevant data visualizations, and then you add a Multiple Select filter. You select the User table as the source, turn on **Is in hierarchy**, and specify the Manager hierarchy starting with Fred Luddy.
 
-![Filter source configuration pane showing filter hierarchy fields.](../image/filter-hierarchy.png)
+![Filter source configuration pane showing filter hierarchy fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/filter-hierarchy.png)
 
 For the data to filter, you select Incident.Assigned to, which is a reference field pointing to User.
 
-![Data to filter set to the Assigned to reference field on the Incident table.](../image/filter-hierarchy-target.png)
+![Data to filter set to the Assigned to reference field on the Incident table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/filter-hierarchy-target.png)
 
 The end result on the dashboard is a filter that can filter by Fred Luddy, Fred's direct report Beth Anglin, or Beth's direct report Bradly Hasselvander.
 
-![Dashboard with a Incident by priority data visualization and a filter that can filter the data from a manager hierarchy starting from Fred Luddy.](../image/hierarchy-filter-tester-dboard.png)
+![Dashboard with a Incident by priority data visualization and a filter that can filter the data from a manager hierarchy starting from Fred Luddy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/hierarchy-filter-tester-dboard.png)
 

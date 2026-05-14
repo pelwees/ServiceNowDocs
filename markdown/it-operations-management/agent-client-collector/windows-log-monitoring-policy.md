@@ -60,5 +60,5 @@ Usage:-   -c crit N: Critical level if pattern has a group.
 Windows Log CRITICAL: Found 4 criticals, 0 warnings for pattern SEVERE\|Exception\|404\|Errorin file C:\\ProgramData\\ServiceNow\\agent-client-collector\\log\\acc.log
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

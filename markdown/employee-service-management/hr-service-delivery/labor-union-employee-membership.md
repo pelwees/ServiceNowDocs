@@ -41,9 +41,9 @@ Employee
 
 </td><td>
 
-The employee and member of a union.Selecting the Lookup using icon \(![Lookup using list icon](../image/magnifying-glass.png)\) displays all employees with an HR profile.
+The employee and member of a union.Selecting the Lookup using icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png)\) displays all employees with an HR profile.
 
- **Note:** There is an **Employee Union Membership** tab on an HR profile for employees that are part of an employee union membership. For more information, see [Add or modify employee union membership](hr-profile-create-employee-union.md).
+ **Note:** There is an **Employee Union Membership** tab on an HR profile for employees that are part of an employee union membership. For more information, see [Add or modify employee union membership](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-profile-create-employee-union.md).
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Labor union
 
 </td><td>
 
-The labor union the employee is a member of.**Note:** For more information, see [Create a labor union](labor-unions-create.md).
+The labor union the employee is a member of.**Note:** For more information, see [Create a labor union](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-create.md).
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Local union chapter
 
 </td><td>
 
-The local union chapter the employee is a member of.**Note:** For more information, see [Create a local chapter](labor-unions-local-chapter.md).
+The local union chapter the employee is a member of.**Note:** For more information, see [Create a local chapter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-local-chapter.md).
 
 </td></tr><tr><td>
 
@@ -105,5 +105,5 @@ The employee's job code within your company.
 </table>4.  Select **Save** or **Submit**.
 
 
-**Parent Topic:**[Using Labor Unions](../concept/labor-unions-using.md)
+**Parent Topic:**[Using Labor Unions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/labor-unions-using.md)
 

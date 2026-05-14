@@ -122,7 +122,7 @@ This field represents the number of active alerts for the application on the dev
 -   By default, sorting is available only on the Impacted devices page and displays all devices on with ACC is installed for the latest 1000 records.
 -   The list displays active devices and refreshes every 5 minutes, a maximum of 1000 devices are listed. If no new data is available, the last available data is displayed.
 
-Selecting the user name takes you to the details page of that user. For detailed information on a user and associated applications, see [Device details](../concept/dex-workspace-user-details.md).
+Selecting the user name takes you to the details page of that user. For detailed information on a user and associated applications, see [Device details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-workspace-user-details.md).
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

@@ -25,8 +25,8 @@ Role required: sn\_cbs.admin
 
 3.  In the Instance form, fill in the fields, and select **Save**.
 
-    For a description of the field values, see [Help topics instance options](../reference/helpt-instance-form.md).
+    For a description of the field values, see [Help topics instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../reference/helpt-instance-form.md).
 
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/configure-cbs.md)
 

@@ -26,13 +26,13 @@ Role required: admin
 
             Enables you to manage work requests that are performed on location by field service agents.
 
-            For information, see [Activate Field Service Management](../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
+            For information, see [Activate Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../../planning-and-policy/task/t_ActivateFieldServiceManagement.md).
 
         -   **Field Service Mobile**
 
             Enables agents to view work order information on mobile.
 
-            For more information, see [Configure the Now Mobile Agent application](configure-field-service-mobile.md).
+            For more information, see [Configure the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configure-field-service-mobile.md).
 
 
 ## Procedure

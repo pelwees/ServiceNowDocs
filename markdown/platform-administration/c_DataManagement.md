@@ -17,15 +17,15 @@ Manage your instance data by configuring data management policies to archive and
 
 <table id="table_l2p_kcz_1bc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Data Management benefits and features.](exploring-data-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Data Management benefits and features.](exploring-data-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Data Management settings.](configuring-data-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Data Management settings.](configuring-data-management.md)
 
 </td><td>
 
-[Analyze data usage![](../../../reuse/icons/brand-icons/bus-discover.svg)Analyze data usage over time on your current instance.](viewing-data-usage.md)
+[Analyze data usage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-discover.svg)Analyze data usage over time on your current instance.](viewing-data-usage.md)
 
 </td></tr><tr><td>
 
@@ -33,11 +33,11 @@ Manage data growth![](../../../reuse/icons/brand-icons/bus-database.svg)Manage t
 
 </td><td>
 
-[Database rotation![](../../../reuse/icons/brand-icons/ind-renewable-recycling.svg)Learn about applying database rotation techniques.](../../database-rotation/concept/c_DatabaseRotation.md)
+[Database rotation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/ind-renewable-recycling.svg)Learn about applying database rotation techniques.](../../database-rotation/concept/c_DatabaseRotation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Data Management system properties.](../reference/data-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Data Management system properties.](../reference/data-management-reference.md)
 
 </td></tr></tbody>
 </table>

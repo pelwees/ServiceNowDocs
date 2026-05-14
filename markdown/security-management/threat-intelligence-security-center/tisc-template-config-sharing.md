@@ -19,6 +19,6 @@ The template determines which profiles are included, which sharing settings are 
 
 Role required: sn\_sec\_tisc.admin
 
-1.  Create and publish an outbound intelligence sharing template with the required configuration. For more information, see [Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md).
+1.  Create and publish an outbound intelligence sharing template with the required configuration. For more information, see [Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md).
 2.  Associate the published template with the outbound intelligence profile configured for the target TISC instance to begin sharing intelligence data.
 

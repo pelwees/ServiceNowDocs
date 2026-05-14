@@ -23,7 +23,7 @@ Role required: sn\_aia.admin
 
 2.  Open the AI agent that you want to add a desktop action to.
 
-    For creating an AI agent, see [Create an AI agent](configure-next-best-action-agent.md).
+    For creating an AI agent, see [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 3.  Navigate to the Add tools and information step.
 

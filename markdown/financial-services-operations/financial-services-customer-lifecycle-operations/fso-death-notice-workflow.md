@@ -17,7 +17,7 @@ Learn how agents, using the Notice of death workflow, manage a deceased client's
 
 The following diagram shows how the application helps bank agents resolve a case for notification of a customer's death. Agents can manage the accounts of a deceased client using dedicated flows for releasing funeral expense funds, freezing deposits, and closing other related accounts, all using one efficient, playbook-guided workflow.
 
-![Workflow that shows how notification of death is handled using the CLO application. For the text description, refer to the workflow steps that follow.](../image/notice-death-workflow.png "Notice of death workflow example")
+![Workflow that shows how notification of death is handled using the CLO application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../image/notice-death-workflow.png "Notice of death workflow example")
 
 The CLO admin can review and customize this predefined flow based on your organization's business needs.
 

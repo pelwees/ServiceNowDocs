@@ -35,16 +35,16 @@ From the Employee Center portal, an employee can perform the following actions:
 
 **Note:** The Employee Center portal experience is integrated and available in Microsoft Teams and Slack chat.
 
-![AI-native Employee portal](../image/AINativeemployeePortal.png)
+![AI-native Employee portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/AINativeemployeePortal.png)
 
--   **[Open an IT ticket in Employee Center](../task/open-ticket-native-ai-itsm.md)**  
+-   **[Open an IT ticket in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../task/open-ticket-native-ai-itsm.md)**  
 Resolve a user's issue by opening an IT ticket.
--   **[Submit a catalog item request in Employee Center](../task/submit-cat-request-native-ai-itsm.md)**  
+-   **[Submit a catalog item request in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../task/submit-cat-request-native-ai-itsm.md)**  
 Save time in searching for and submitting requests for commonly requested catalog items.
--   **[Search for a solution in Employee Center](../task/search-solution-native-ai-itsm.md)**  
+-   **[Search for a solution in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../task/search-solution-native-ai-itsm.md)**  
 Resolve a user's issue by searching for a relevant solution.
--   **[Get chat support in Employee Center](../task/get-support-using-chat.md)**  
+-   **[Get chat support in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../task/get-support-using-chat.md)**  
 Resolve user issues by requesting for support using chat.
 
-**Parent Topic:**[Simplified IT Service Management](../reference/ai-native-it-service-desk-landing-page.md)
+**Parent Topic:**[Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../reference/ai-native-it-service-desk-landing-page.md)
 

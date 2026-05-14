@@ -25,7 +25,7 @@ Replace your tab or tabs with viewport-enabled tabs.
 
 **Note:** Replacing a tab with a viewport-enabled tab is a permanent and one-way process. You lose any existing tab content and must recreate the viewport tab content.
 
-![Replace with viewport tabs confirmation.](../image/viewport-replace-with-tabs-warning.png)
+![Replace with viewport tabs confirmation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-replace-with-tabs-warning.png)
 
 ## Procedure
 
@@ -33,13 +33,13 @@ Replace your tab or tabs with viewport-enabled tabs.
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page with existing tabs, or add a **Tabs** component to your page.
 
-    ![Tabs component.](../image/tabs-component-toolbox.png "Tabs component")
+    ![Tabs component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/tabs-component-toolbox.png "Tabs component")
 
-    For more information on how to add a Tabs component to a page, see [Add tabbed content to UI Builder pages](tabs-components.md#).
+    For more information on how to add a Tabs component to a page, see [Add tabbed content to UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/tabs-components.md#).
 
 4.  Select the tabs component that you want to replace with viewport tabs in the content tree.
 
@@ -47,17 +47,17 @@ Replace your tab or tabs with viewport-enabled tabs.
 
     **Note:** Replacing a tab with a viewport-enabled tab is a permanent and one-way process. You lose any existing tab content and must recreate the viewport tab content.
 
-    ![Replace with viewport tabs option.](../image/viewport-replace-tabs-button.png)
+    ![Replace with viewport tabs option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-replace-tabs-button.png)
 
 6.  Select **Replace with viewport tabs**.
 
-    ![Replace with viewport tabs confirmation.](../image/viewport-replace-with-tabs-warning.png)
+    ![Replace with viewport tabs confirmation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-replace-with-tabs-warning.png)
 
 7.  Click **Edit content** to add a viewport-enabled tab.
 
-    ![Arrow pointing to the edit content button in the configure tab.](../image/viewport-replace-tabs-edit-content.png "Edit content")
+    ![Arrow pointing to the edit content button in the configure tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-replace-tabs-edit-content.png "Edit content")
 
-    For more information on viewport components, see [Add a viewport component to your page](work-with-viewport-components.md).
+    For more information on viewport components, see [Add a viewport component to your page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-with-viewport-components.md).
 
 8.  Select **Save and continue**.
 
@@ -87,22 +87,22 @@ Replace your tab or tabs with viewport-enabled tabs.
 
 18. Add an event handler to any components to make them perform actions, such as loading page content.
 
-    For more information about event handlers, see [Manage actions in UI Builder pages](work-events.md).
+    For more information about event handlers, see [Manage actions in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-events.md).
 
 19. Select **← Back to \(name of page\)** to return to your original page.
 
-    ![Arrow pointing to Back to Default link in the UI Builder header.](../image/viewport-replace-back-to-default.png)
+    ![Arrow pointing to Back to Default link in the UI Builder header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-replace-back-to-default.png)
 
 20. In **Data driven tabs**, select a data source to bind data to your viewport-enabled tab using data resources to dynamically expose your data from tables and records.
 
-    You then bind these data properties to components in your tab. For more information about using data resources, see [Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md).
+    You then bind these data properties to components in your tab. For more information about using data resources, see [Dynamically expose data in UI Builder pages \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/data-resources.md).
 
-    ![Arrow pointing to the data drive tabs field.](../image/viewport-tabs-data-source.png)
+    ![Arrow pointing to the data drive tabs field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/viewport-tabs-data-source.png)
 
 21. Choose where the viewport-enabled tab labels appear on the page and decide whether to hide tab labels so you only see the icons.
 
-    ![Set max width or hide tabs](../image/UIB-tabs-config-span-hide.png)
+    ![Set max width or hide tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-tabs-config-span-hide.png)
 
 
-**Parent Topic:**[Extend your UI experience with viewport components](viewports-overview.md)
+**Parent Topic:**[Extend your UI experience with viewport components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/viewports-overview.md)
 

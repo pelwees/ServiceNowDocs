@@ -27,8 +27,8 @@ Role required: sn\_si.analyst
 
 3.  Select **Security Incident Management** from the drop down list.
 
-    ![Security Incident Management dashboard](../image/security-incident-management-dashboard.png)
+    ![Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-incident-management-dashboard.png)
 
-    View the Security Incident Management dashboard for further action. For detailed information on Security Incident Management dashboard, see [Security Incident Management dashboard](../../../use/dashboards/application-content-packs/security-incident-mgmt-dashboard.md)
+    View the Security Incident Management dashboard for further action. For detailed information on Security Incident Management dashboard, see [Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/security-incident-mgmt-dashboard.md)
 
 

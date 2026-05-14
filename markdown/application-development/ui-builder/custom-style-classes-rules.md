@@ -29,7 +29,7 @@ Control the appearance of fields, containers, buttons, and other interface compo
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -39,7 +39,7 @@ Control the appearance of fields, containers, buttons, and other interface compo
 
 6.  Select the **...** icon next to the **Style class** field.
 
-    The **Page classes and rules** pop up will appear.![Page classes and rules pop up.](../image/style-class-pop-up.png)
+    The **Page classes and rules** pop up will appear.![Page classes and rules pop up.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/style-class-pop-up.png)
 
 7.  Select **+ Add class**.
 
@@ -68,5 +68,5 @@ Control the appearance of fields, containers, buttons, and other interface compo
 13. Select **Preview** to test the applied style class or style rule.
 
 
-**Parent Topic:**[Manage the visual style of UI Builder experiences](../concept/manage-the-visual-style-of-ui-builder-experiences.md)
+**Parent Topic:**[Manage the visual style of UI Builder experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/manage-the-visual-style-of-ui-builder-experiences.md)
 

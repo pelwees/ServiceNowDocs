@@ -31,7 +31,7 @@ All applications
 
 </td><td>
 
-Displays all application menus and modules. Each application appears as a section in the application navigator denoted by an application label. The tab lists modules by name under each application label.![All applications tab of the application navigator](../image/AllAppsNavigatorUI16.png "All applications tab")
+Displays all application menus and modules. Each application appears as a section in the application navigator denoted by an application label. The tab lists modules by name under each application label.![All applications tab of the application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/AllAppsNavigatorUI16.png "All applications tab")
 
 </td></tr><tr><td>
 
@@ -39,7 +39,7 @@ Favorites
 
 </td><td>
 
-Displays items you have added as favorites. ![Favorites tab of the application navigator](../image/UI16Favorites.png "Favorites tab")
+Displays items you have added as favorites. ![Favorites tab of the application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI16Favorites.png "Favorites tab")
 
 </td></tr><tr><td>
 
@@ -47,15 +47,15 @@ History
 
 </td><td>
 
-Displays items you have recently accessed.![History tab of the application navigator](../image/UI16YourHistory.png "History tab")
+Displays items you have recently accessed.![History tab of the application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI16YourHistory.png "History tab")
 
 </td></tr></tbody>
-</table>Enter text in the navigation filter to show matching applications, modules, and favorites. Matching favorites appear at the top of the results. You can also use the navigation filter to quickly access a specific table. For more information, see [Navigate directly to a table](../../../administer/navigation-and-ui/task/t_NavigateDirectlyToATable.md).
+</table>Enter text in the navigation filter to show matching applications, modules, and favorites. Matching favorites appear at the top of the results. You can also use the navigation filter to quickly access a specific table. For more information, see [Navigate directly to a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/t_NavigateDirectlyToATable.md).
 
--   **[Use the Core UI navigator](../../../administer/navigation-and-ui/task/ui16-navigator-tasks.md#)**  
+-   **[Use the Core UI navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/ui16-navigator-tasks.md#)**  
 Everyone can collapse and expand the navigator, work with favorites, and view navigation history in Core UI.
--   **[Configure the number of history entries displayed in the application navigator](../../../administer/navigation-and-ui/task/t_ConfigureNumberOfHistoryEntries.md)**  
+-   **[Configure the number of history entries displayed in the application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/t_ConfigureNumberOfHistoryEntries.md)**  
 A system property sets the maximum number of history entries displayed in the history tab of the application navigator.
 
-**Parent Topic:**[Core UI](../../../administer/navigation-and-ui/concept/c_UI16.md)
+**Parent Topic:**[Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/concept/c_UI16.md)
 

@@ -39,5 +39,5 @@ Role required: virtual\_agent\_admin or admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md)
+**Parent Topic:**[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-custom-adapter-framework.md)
 

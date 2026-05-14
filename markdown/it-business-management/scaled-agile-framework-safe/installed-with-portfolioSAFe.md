@@ -278,12 +278,12 @@ SAFe Team VTB Board\[sn\_safe\_team\_vtb\_board\]
 Records displayed on the Team level, Board tab.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Portfolio SAFe](../concept/portfolio-overview.md)
+</table>**Parent Topic:**[Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-overview.md)
 
 **Related topics**  
 
 
-[Define a portfolio](../task/create-SAFeportfolio.md)
+[Define a portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../task/create-SAFeportfolio.md)
 
-[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+[SAFe Board—Portfolio level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-tabs.md)
 

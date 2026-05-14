@@ -27,7 +27,7 @@ Role required: admin
 
 2.  View logs only related to Hermes by adding a filter.
 
-    1.  Select the filter icon \(![Filter icon.](../../../product/configuration-management/image/FilterIcon.png)\).
+    1.  Select the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../../../product/configuration-management/image/FilterIcon.png)\).
 
     2.  Set a condition with a field, operator, and search string.
 
@@ -40,16 +40,16 @@ Role required: admin
 
 The Log \[syslog\] table displays only the Hermes Messaging Service log messages.
 
-**Parent Topic:**[Administering Hermes Messaging Service](../concept/hermes-messaging-service-administration.md)
+**Parent Topic:**[Administering Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-administration.md)
 
 **Related topics**  
 
 
-[Check the status of and connection to the Hermes Kafka cluster](run-hermes-messaging-service-diagnostics.md)
+[Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/run-hermes-messaging-service-diagnostics.md)
 
-[Monitoring data usage in Hermes](../concept/monitoring-data-usage-hermes.md)
+[Monitoring data usage in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/monitoring-data-usage-hermes.md)
 
-[Tracking message usage in Hermes](../concept/tracking-hermes-messaging-service-usage.md)
+[Tracking message usage in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/tracking-hermes-messaging-service-usage.md)
 
-[Cloning with Hermes Messaging Service enabled](../concept/cloning-with-hermes-messaging-service.md)
+[Cloning with Hermes Messaging Service enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/cloning-with-hermes-messaging-service.md)
 

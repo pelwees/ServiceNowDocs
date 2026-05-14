@@ -29,11 +29,11 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 4.  Select the **Alert actions** drop-down arrow to view **Response actions**.
 
-    ![Alert actions drop down arrow](../image/alert-actions-tool-tip.png)
+    ![Alert actions drop down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alert-actions-tool-tip.png)
 
 5.  Select a response action.
 
-    ![Response actions for multiple alerts.](../image/bulk-alert-actions.png)
+    ![Response actions for multiple alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/bulk-alert-actions.png)
 
     **Note:** Numbers next to actions represent the number of alerts that can be addressed with that action. If the list is empty, no response actions are available.
 

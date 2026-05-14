@@ -52,7 +52,7 @@ Activate these plugins:
 **Related topics**  
 
 
-[Components installed with Content Governance](../reference/ec-installed-content-governance.md)
+[Components installed with Content Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-installed-content-governance.md)
 
-[Managing content requests](../concept/ec-content-governance.md)
+[Managing content requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-content-governance.md)
 

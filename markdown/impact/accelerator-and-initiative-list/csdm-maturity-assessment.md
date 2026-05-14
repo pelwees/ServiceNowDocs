@@ -26,7 +26,7 @@ By giving customers, a clear snapshot of their current data management maturity 
 
 ## Prerequisites
 
-Customers are encouraged to complete the [TuneUp Your CMDB technical accelerator](tuneup-your-cmdb.md) prior to taking this accelerator to ensure we have targeted information about platform data table usage.
+Customers are encouraged to complete the [TuneUp Your CMDB technical accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-cmdb.md) prior to taking this accelerator to ensure we have targeted information about platform data table usage.
 
 ## What You Get
 

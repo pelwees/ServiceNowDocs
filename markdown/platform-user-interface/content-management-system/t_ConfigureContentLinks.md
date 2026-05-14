@@ -52,24 +52,24 @@ After the content link is configured, it must be defined in a list block. List b
 7.  Click **Update**.
 
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a header block](t_HeaderBlock.md)
+[Configure a header block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_HeaderBlock.md)
 
-[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
+[Create a navigation menu block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateNavigationMenuBlock.md)
 
-[Configure dynamic blocks](t_CreateADynamicBlock.md)
+[Configure dynamic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md)
 
-[Customize the list block](t_DefineTheListBlock.md)
+[Customize the list block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheListBlock.md)
 
-[Configure a static HTML block](t_StaticHTMLBlock.md)
+[Configure a static HTML block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md)
 
-[Configure Flash movie blocks](t_FlashMovieBlock.md)
+[Configure Flash movie blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_FlashMovieBlock.md)
 
-[Configure iFrames](t_IFrame.md)
+[Configure iFrames](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_IFrame.md)
 
-[Configure a detailed content block](t_DetailedContentBlock.md)
+[Configure a detailed content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DetailedContentBlock.md)
 

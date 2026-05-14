@@ -22,7 +22,7 @@ Use the conversation change log to do the following actions:
 
 Checkpoints are groups of changes that you have made to an application that you can revert back to at any point during your conversation with Build Agent. Checkpoints are created automatically after you approve each task plan.
 
-![The conversational change log shows changes Build Agent has made to an application](../../servicenow-studio/image/sn-studio-ba-convo-change-log.png)
+![The conversational change log shows changes Build Agent has made to an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/image/sn-studio-ba-convo-change-log.png)
 
 The change log displays the following:
 
@@ -42,5 +42,5 @@ The change log displays the following:
 
 Changes from each checkpoint in the conversation are packaged together into an update set. You can find each update set on the **Deployment** tab on the ServiceNow Studio home page.
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../tasks/use-build-agent.md)
 

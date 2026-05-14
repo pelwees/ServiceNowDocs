@@ -27,12 +27,12 @@ Role required: model\_manager
 
 3.  Complete the form.
 
-    For general field descriptions, see [Model form fields](../reference/r_ModelFormFields.md). There are no fields specific to application models.
+    For general field descriptions, see [Model form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../reference/r_ModelFormFields.md). There are no fields specific to application models.
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_Models.md)
 
 **Related topics**  
 

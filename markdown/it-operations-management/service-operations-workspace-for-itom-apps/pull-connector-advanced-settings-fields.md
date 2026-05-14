@@ -96,7 +96,7 @@ initial\_sync\_in\_days
 Sets the duration for the initial synchronization process when retrieving historical data.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Configure an event pull connector](../task/pull-connector.md).
+</table>To return to the procedure, see [Configure an event pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/pull-connector.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/sow-reference-itom.md)
 

@@ -27,40 +27,40 @@ Role required: sn\_lc.catalog\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning internal content form](../reference/learning-internal-content-form.md).
+    For a description of the field values, see [Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-internal-content-form.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-Add associated skills to external learning content in Learning. For more information, see [Add associated skills](add-associated-skills.md) to Learning content.
+Add associated skills to external learning content in Learning. For more information, see [Add associated skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-associated-skills.md) to Learning content.
 
--   **[Define user access to course within internal learning content](define-internal-content-user-access.md)**  
+-   **[Define user access to course within internal learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-internal-content-user-access.md)**  
 Define user access to define who has read access to internal learning content.
--   **[Assign topics to internal content](assign-internal-content-topics.md)**  
+-   **[Assign topics to internal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/assign-internal-content-topics.md)**  
 Add assigned topics to internal learning content.
 
-**Parent Topic:**[Manage Learning](manage-learning-achievements.md)
+**Parent Topic:**[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 
 **Related topics**  
 
 
-[Create a content collection](create-content-collection.md)
+[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md)
 
-[View external Learning content](view-external-learning-content.md)
+[View external Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 
-[Create a learning library](create-learning-library.md)
+[Create a learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-library.md)
 
-[Create a learning task](create-learning-task.md)
+[Create a learning task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-task.md)
 
-[Create an achievement definition](create-achievement.md)
+[Create an achievement definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement.md)
 
-[Create user achievements](create-user-achievements.md)
+[Create user achievements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/achievement-rule-item.md)
 
-[Learning internal content form](../reference/learning-internal-content-form.md)
+[Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-internal-content-form.md)
 

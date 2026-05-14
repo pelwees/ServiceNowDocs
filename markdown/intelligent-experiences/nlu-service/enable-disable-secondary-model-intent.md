@@ -25,7 +25,7 @@ NLU admins and NLU editors can enable or disable intents in secondary models. If
 
 An intent's state is represented in the **Enabled** column.
 
-![Intents list with one intent that is enabled, and one intent that is not. Intents that are not enabled display as grayed out.](../images/enable-disable01.png "Intents list")
+![Intents list with one intent that is enabled, and one intent that is not. Intents that are not enabled display as grayed out.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/enable-disable01.png "Intents list")
 
 Enabling of intents works in the following ways:
 
@@ -45,13 +45,13 @@ Disabling intents gives editors time to review the intent translations and updat
 
 In this review example, you have a list of disabled intents in the Needs review state. The goal of this task is to review the translated content for a secondary model. When you complete your review, or if the content is fine as it is, you click Mark as reviewed. This moves the intent into the Reviewed state. You can also undo the Mark as reviewed state for an intent by clicking the **Unmark Reviewed** button, but only if you remain on the Intent screen. If you leave the screen prematurely, the **Unmark Reviewed** button disappears, and you won't be able to retrieve it.
 
-![You can switch back and forth between the Reviewed and Unmark Reviewed states for an intent, as long as you do so within the same session.](../images/enable-disable-secondary-model-intent00.png "Switch between the Reviewed and Unmark Reviewed states for an intent")
+![You can switch back and forth between the Reviewed and Unmark Reviewed states for an intent, as long as you do so within the same session.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/enable-disable-secondary-model-intent00.png "Switch between the Reviewed and Unmark Reviewed states for an intent")
 
 The editorial review also includes the Vocabulary section on the Model screen, where vocabulary that has been translated from the primary model to the secondary model is marked with an orange dot and the Needs review state. You can edit or delete the vocabulary items, even if they are in review. After you review the vocabulary and update the translations if needed, you can mark all of them at once by clicking the Mark all reviewed button. This action makes the orange dot disappear from the Vocabulary section of the Model screen.
 
 **Note:** The **Train** and **Try** buttons on the Model screen are disabled until the vocabulary is reviewed, and the intents in the Needs review state are either reviewed or disabled.
 
-![The orange dot represents items or groups of items that are in the Needs Review state.](../images/enable-disable-secondary-model-intent000.png "Items that require review")
+![The orange dot represents items or groups of items that are in the Needs Review state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/enable-disable-secondary-model-intent000.png "Items that require review")
 
 In this example scenario, you have applied the Use Software translation mode to translate a secondary model into the Japanese language. Because the translation hasn't been reviewed yet, the system marks the intents and the model with the Needs review state. When a model is in the Needs review state, it can't be trained, tested, or published. When it moves out of the Needs review state, you can then train and test the model.
 
@@ -69,7 +69,7 @@ In this example procedure, you're reviewing the intents in a model one at a time
 
     In the Intents section of the model, there's a list of five intents that are marked with the Needs review state. Above the list of intents, there's also a box that shows a running count of the intents that need review.
 
-    ![The Needs Review state lets users know that the translation must be reviewed by an NLU editor or NLU admin.](../images/enable-disable-secondary-model-intent1.png "The needs review state")
+    ![The Needs Review state lets users know that the translation must be reviewed by an NLU editor or NLU admin.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/enable-disable-secondary-model-intent1.png "The needs review state")
 
 3.  Click an intent Name so you can access the intent content.
 

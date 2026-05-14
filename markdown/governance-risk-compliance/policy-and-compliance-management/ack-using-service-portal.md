@@ -29,7 +29,7 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite, sn\_grc\_em
 
 3.  To view details of the request, click **View**.
 
-    ![View a policy acknowledgement request on the service portal](../image/view-policy-ack.png)
+    ![View a policy acknowledgement request on the service portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/view-policy-ack.png)
 
     **Note:** The actions you can perform on the policy acknowledgement depend on how the acknowledgement campaign was configured, as follows.
 
@@ -55,9 +55,9 @@ Click **Decline**.
 
 </td><td>
 
-Click [**Request Exception**](request-policy-exception.md).
+Click [**Request Exception**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-exception.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/ack-policy.md)
 

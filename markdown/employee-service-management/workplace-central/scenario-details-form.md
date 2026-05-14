@@ -71,7 +71,7 @@ If you select Workplace Entity as the group by option, the bars of the stack pla
 
 -   Creating or viewing a scenario based on workplace entities is supported from Workplace Space Management version 1.15.0. Workplace Entity is not supported for scenarios created in earlier versions.
 
-For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](../task/view-a-building-s-spaces-based-on-workplace-entities.md).
+For earlier versions, you can view spaces based on their workplace entities for a building. For more information, see [Edit or view a building's spaces based on workplace entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/view-a-building-s-spaces-based-on-workplace-entities.md).
 
 
 </td></tr><tr><td>
@@ -87,43 +87,43 @@ You can select and add multiple buildings using the space selection criteria.
 -   Select operator: Select **And** **Or** operators as required.
 -   Enter value: Option to provide the value for the selected field. For example, if you select Building, then enter the value as the name of the building \(Building A\).
 
-Location names are displayed based on the filter conditions. Select the refresh icon \( ![Refresh icon to refresh the filter criteria and get locations for multi-building scenario.](../images/refresh-icon.png)\) to view results matching filter conditions.
+Location names are displayed based on the filter conditions. Select the refresh icon \( ![Refresh icon to refresh the filter criteria and get locations for multi-building scenario.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/refresh-icon.png)\) to view results matching filter conditions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/workplace-central-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Central](components-installed-with-workplace-central.md)
+[Components installed with Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/components-installed-with-workplace-central.md)
 
-[Space Optimization - Key features and actions](space-optmization-features-and-actions-.md)
+[Space Optimization - Key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md)
 
-[Workplace Central Event planner](event-planner-key-features-actions-views.md)
+[Workplace Central Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner-key-features-actions-views.md)
 
-[Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md)
+[Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md)
 
-[Space request approvals, states, actions, and key features](space-request-states-and-view.md)
+[Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-request-states-and-view.md)
 
-[Move management key features and actions](move-mgmt-views-states-actions.md)
+[Move management key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)
 
-[Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md)
+[Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md)
 
-[Schedule Plan details form](schedule-plan-details-form.md)
+[Schedule Plan details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-plan-details-form.md)
 
-[Space Deployment Plan](space-deployment-plan.md)
+[Space Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)
 
-[User Deployment Plan](user-deployment-plan.md)
+[User Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)
 
-[Excel column lengths for move projects](move-excel-char-limit.md)
+[Excel column lengths for move projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-excel-char-limit.md)
 
-[Move conflicts for projects created via Excel upload](excel-upload-conflicts.md)
+[Move conflicts for projects created via Excel upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/excel-upload-conflicts.md)
 
-[Workplace Central troubleshooting](workplace-central-troubleshooting.md)
+[Workplace Central troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-troubleshooting.md)
 
-[Workplace Task form - Space Assignment task](workplace-task-space-assignment.md)
+[Workplace Task form - Space Assignment task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-task-space-assignment.md)
 
-[Neighborhood User Assignment Rule form](user-assignment-rule-form.md)
+[Neighborhood User Assignment Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-assignment-rule-form.md)
 
-[User Workplace Profile form](user-workplace-profile-form.md)
+[User Workplace Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md)
 

@@ -29,7 +29,7 @@ When untrusted or trusted domains send emails to your instance, their daily coun
 
 2.  On the Instance Security Center homepage, select **Email** from the **Metrics** menu.
 
-    ![Email option from the Metrics menu.](../image/select-trusted-emails-menu.png)
+    ![Email option from the Metrics menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/select-trusted-emails-menu.png)
 
 3.  On the Email page, in the Untrusted And Trusted Domains section, click **New**.
 
@@ -79,7 +79,7 @@ Notify
 
 </td><td>
 
-Name of the user to notify by email when activity occurs in the untrusted or trusted domain. Click the spotlight search icon \( ![Search](../image/Search.png)\) to search for the name of the user. Leave the **Notify** field blank if you do not want notifications sent.
+Name of the user to notify by email when activity occurs in the untrusted or trusted domain. Click the spotlight search icon \( ![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Search.png)\) to search for the name of the user. Leave the **Notify** field blank if you do not want notifications sent.
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
@@ -89,12 +89,12 @@ Name of the user to notify by email when activity occurs in the untrusted or tru
 
 Untrusted or trusted email domain information is also added to the **Untrusted And Trusted Domains** listing on the Email page.
 
-**Parent Topic:**[Email metrics](../concept/instance-sec-center-email-metrics.md)
+**Parent Topic:**[Email metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/instance-sec-center-email-metrics.md)
 
 **Related topics**  
 
 
-[Instance Security Center](../concept/instance-security-center.md)
+[Instance Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/instance-security-center.md)
 
-[Email metrics](../concept/instance-sec-center-email-metrics.md)
+[Email metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/instance-sec-center-email-metrics.md)
 

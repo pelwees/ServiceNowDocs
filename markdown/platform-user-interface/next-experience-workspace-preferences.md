@@ -28,9 +28,9 @@ Role required: none
 
     |Field|Description|
     |-----|-----------|
-    |![Show the ribbon.](../image/pol-pref-workspace-ribbon.png)|Shows the ribbon widget by default when the form loads.|
-    |![Show the sidebar.](../image/pol-pref-workspace-sidebar.png)|Shows the contextual side panel by default when the form loads.|
-    |![Expand activity stream items by default.](../image/pol-pref-workspace-activity-stream.png)|Expands all activities in the activity stream automatically.|
-    |![Lazy load workspace pages.](../image/pol-pref-workspace-lazy.png)|Loads all content on a page dynamically, as needed. Disable this preference to load all content immediately.|
+    |![Show the ribbon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-workspace-ribbon.png)|Shows the ribbon widget by default when the form loads.|
+    |![Show the sidebar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-workspace-sidebar.png)|Shows the contextual side panel by default when the form loads.|
+    |![Expand activity stream items by default.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-workspace-activity-stream.png)|Expands all activities in the activity stream automatically.|
+    |![Lazy load workspace pages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-workspace-lazy.png)|Loads all content on a page dynamically, as needed. Disable this preference to load all content immediately.|
 
 

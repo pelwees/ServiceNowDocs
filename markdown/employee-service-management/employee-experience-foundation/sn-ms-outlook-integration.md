@@ -28,18 +28,18 @@ ServiceNow for Microsoft Outlook leverages the [Outlook Actionable Messages](htt
 
 <table id="table_yb5_zm4_1bc" class="nav-card"><tbody><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Provide employees with seamless self-service without leaving the Outlook client.](configuring-sn-ms-outlook.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Provide employees with seamless self-service without leaving the Outlook client.](configuring-sn-ms-outlook.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)View reports, approve requests, and provide feedback from within email messages.](using-sn-ms-outlook.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)View reports, approve requests, and provide feedback from within email messages.](using-sn-ms-outlook.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Information about lists and forms used to configure Outlook Actionable Messages.](../reference/sn-ms-outlook-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg)Information about lists and forms used to configure Outlook Actionable Messages.](../reference/sn-ms-outlook-reference.md)
 
 </td></tr></tbody>
-</table>**Warning:** After Microsoft retired External Access Token \(EAT\) authentication for Outlook Actionable Messages on March 31, 2026, actionable messages that rely on EAT will stop working. To ensure uninterrupted functionality with actionable message, you must migrate to Microsoft Entra ID token authentication and update the Outlook Actionable Messages app registration in your ServiceNow instance. Refer to [Update Outlook Actionable Messages authentication to Microsoft Entra ID](../task/update-outlook-actionable-msgs-auth-to-ms-entra-id.md).
+</table>**Warning:** After Microsoft retired External Access Token \(EAT\) authentication for Outlook Actionable Messages on March 31, 2026, actionable messages that rely on EAT will stop working. To ensure uninterrupted functionality with actionable message, you must migrate to Microsoft Entra ID token authentication and update the Outlook Actionable Messages app registration in your ServiceNow instance. Refer to [Update Outlook Actionable Messages authentication to Microsoft Entra ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/update-outlook-actionable-msgs-auth-to-ms-entra-id.md).
 
 ## Troubleshoot and get help
 

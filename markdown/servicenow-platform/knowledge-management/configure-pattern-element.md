@@ -17,7 +17,7 @@ Configure a pattern element to specify a single activity type and how many times
 
 ## Before you begin
 
-[Configure activity contexts for Self-Service Analytics](configure-activity-context.md).
+[Configure activity contexts for Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-activity-context.md).
 
 Role required: sn\_ssa\_core.self\_service\_manager
 
@@ -102,7 +102,7 @@ Maximum occurrence of an activity. This field appears only when **Range** is sel
 
 ## What to do next
 
-[Configure pattern element groups for Self-Service Analytics](configure-pattern-element-group.md).
+[Configure pattern element groups for Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-pattern-element-group.md).
 
-**Parent Topic:**[Configure Self-Service Analytics](config-ssa.md)
+**Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 

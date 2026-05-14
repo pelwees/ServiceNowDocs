@@ -23,5 +23,5 @@ Several types of components are installed with the activation of the ServiceNow 
 |Lens user \[lens\_user\]|Enables you to use ServiceNow AI Lens.|sn\_nowassist\_admin.user|
 |Lens admin \[lens\_admin\]|Enables you to configure lens actions.|lens\_user|
 
-**Parent Topic:**[ServiceNow AI Lens reference](servicenow-lens-reference.md)
+**Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 

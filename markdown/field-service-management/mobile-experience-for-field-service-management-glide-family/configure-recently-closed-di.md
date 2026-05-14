@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Open the **DI\_recently\_closed\_tasks** data item.
 
-4.  In the condition section, select the time parameter from the list. ![Condition section of a recently closed data item with the time parameter highlighted.](../image/recently-closed-DI.png)
+4.  In the condition section, select the time parameter from the list. ![Condition section of a recently closed data item with the time parameter highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../image/recently-closed-DI.png)
 
 5.  Click **Save**.
 

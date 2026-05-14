@@ -31,10 +31,10 @@ Use the planning page to organize project tasks, allocate resources, and set pro
 -   Organize and manage project documentation and make sure that all relevant files, reports, and data are easily accessible.
 -   Engage in financial planning, tracking budget allocations, expenses, and financial metrics.
 
--   **[Project task checklist items](project-task-checklist.md)**  
+-   **[Project task checklist items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-task-checklist.md)**  
 Track the activities that must be completed on a task using the project task checklist items.
--   **[Playbooks in Project Workspace](playbooks-in-pw.md)**  
+-   **[Playbooks in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/playbooks-in-pw.md)**  
 Organize and guide project teams with Playbooks to maintain consistency, streamline projects, and keep work on track.
 
-**Parent Topic:**[Exploring Project Workspace](exploring-project-workspace.md)
+**Parent Topic:**[Exploring Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/exploring-project-workspace.md)
 

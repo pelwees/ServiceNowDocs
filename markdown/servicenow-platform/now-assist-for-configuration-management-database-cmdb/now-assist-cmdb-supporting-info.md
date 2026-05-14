@@ -19,7 +19,7 @@ Get a quick overview of the important information that is related to the Now Ass
 
 Now Assist for CMDB is supported starting with Xanadu patch 3.
 
-For more information, see [Configuring Now Assist for CMDB](now-assist-cmdb-configuring.md).
+For more information, see [Configuring Now Assist for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-configuring.md).
 
 ## Supported LLMs
 
@@ -40,5 +40,5 @@ Now Assist for CMDB supports the following languages across all skills:
 
 For more info, see [Configure multilingual service for Now Assist applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-dynamic-translation-for-now-assist-applications.md)
 
-**Parent Topic:**[Exploring Now Assist for CMDB](now-assist-cmdb-exploring.md)
+**Parent Topic:**[Exploring Now Assist for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-exploring.md)
 

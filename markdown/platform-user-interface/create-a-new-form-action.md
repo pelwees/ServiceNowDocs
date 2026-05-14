@@ -39,7 +39,7 @@ Role required: admin
         -   Select **Server Script** to apply the action to the server or database as JavaScript.
         -   Select **UXF Client Action** to apply the action as a UI Builder page event.
         -   Select **Client Script** to apply the action to the web browser as JavaScript.
-        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](../task/configure-da-ui-interactions.md).
+        -   Select **UI interaction** to apply the action as reusable logic and UI elements. For configuration instructions, see [Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/configure-da-ui-interactions.md).
     -   **Table**
 
         Select a table for the action button to appear on.
@@ -48,7 +48,7 @@ Role required: admin
 
         Select a UI view for the action button to appear on.
 
-4.  Select the Additional actions icon \(![menu icon](../../workspace/image/menu-icon-save.png)\) and **Save**.
+4.  Select the Additional actions icon \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon-save.png)\) and **Save**.
 
 5.  From the Layout Items related list, select your action.
 
@@ -77,11 +77,11 @@ The form action button appears within the workspace you specified.
 
 Configure a button to apply an action in the following ways:
 
--   **[Trigger a UI interaction from a declarative action](../task/configure-da-ui-interactions.md)**
+-   **[Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/configure-da-ui-interactions.md)**
 
     Trigger a UI interaction from a declarative action to extend a page without taking ownership.
 
--   **[Configure a form action to open a custom modal](configuring-an-action-button-to-open-a-custom-modal.md)**
+-   **[Configure a form action to open a custom modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configuring-an-action-button-to-open-a-custom-modal.md)**
 
     Configure a declarative action to open a custom modal that provides information or interactive elements without navigating away from the current page.
 

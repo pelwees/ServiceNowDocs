@@ -19,11 +19,11 @@ This video gives you an overview of how you set up your teams into assignment gr
 
 The image shows a visual representation of how you can organize your teams into groups.
 
-![Teams](../image/teams-drilldown-wfo-itsm.png)
+![Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/teams-drilldown-wfo-itsm.png)
 
 Drill down into your reports.
 
-![This graphic displays how you can drill down into the data for your teams](../image/teams-drill-down-wfo-itsm.gif)
+![This graphic displays how you can drill down into the data for your teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/teams-drill-down-wfo-itsm.gif)
 
 As an administrator for **Teams**, you can:
 
@@ -48,8 +48,8 @@ Select a task that you would like to perform to navigate to the topic for detail
 
 |Benefit|Users|Finding tasks to complete in Teams|
 |-------|-----|----------------------------------|
-|Activate Teams in the Workforce Optimization for ITSM.|admin|[Activate Teams in Workforce Optimization for ITSM](../task/activate-configurable-workforce-optimization-itsm.md)|
-|Refer to the roles, tables, and other components used in Teams.|[Any Teams role](../reference/configurable-wfo-itsm-teams-reference.md)|[Teams components in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-teams-reference.md)|
-|Organize teams into assignment groups for managers so that they can analyze team performance.|admin|[Setting up Teams in Workforce Optimization for ITSM](setup-teams-configurable-workforce-optimization-itsm.md)|
-|Analyze your teams' performance|Team performance admin|[Analyzing team performance using Teams in Workforce Optimization for ITSM](teams-workforce-optimization-configurable-wfo-itsm.md)|
+|Activate Teams in the Workforce Optimization for ITSM.|admin|[Activate Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/activate-configurable-workforce-optimization-itsm.md)|
+|Refer to the roles, tables, and other components used in Teams.|[Any Teams role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-teams-reference.md)|[Teams components in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-teams-reference.md)|
+|Organize teams into assignment groups for managers so that they can analyze team performance.|admin|[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)|
+|Analyze your teams' performance|Team performance admin|[Analyzing team performance using Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/teams-workforce-optimization-configurable-wfo-itsm.md)|
 

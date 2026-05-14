@@ -27,11 +27,11 @@ You must have access to the list of records that you want to analyze.
 
 2.  Right-click on the header of the column you want to analyze and select **Launch Interactive Analysis**.
 
-3.  Click the information icon \(![info icon](../../common-ui-elements/image/PreviewIcon.png)\) to open the **Filter Info** panel.
+3.  Click the information icon \(![info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../common-ui-elements/image/PreviewIcon.png)\) to open the **Filter Info** panel.
 
 4.  Click **Edit Source Filter**.
 
-    ![Filter info panel with Edit Source Filter button highlighted](../image/edit-source-filter.png)
+    ![Filter info panel with Edit Source Filter button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/edit-source-filter.png)
 
 5.  Click **Load Filter** and select the filter to edit.
 
@@ -44,7 +44,7 @@ You must have access to the list of records that you want to analyze.
 
 The interactive analysis updates with the new source filter. The **Filter Info** panel shows the updated conditions.
 
-**Parent Topic:**[Interactive Analysis](../../dashboards/concept/interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/interactive-analysis.md)
 
 **Related topics**  
 

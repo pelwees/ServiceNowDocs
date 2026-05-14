@@ -37,12 +37,12 @@ Role required: sn\_fin\_ops.specialist
 
     **Note:** The **Accept** option is available only if the cases assigned to you are in the draft state.
 
-    ![Accept finance case.](../image/fin-ops-accept.png "Accept draft finance cases assigned to you")
+    ![Accept finance case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-accept.png "Accept draft finance cases assigned to you")
 
     The state of the accepted case changes to Work in Progress.
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

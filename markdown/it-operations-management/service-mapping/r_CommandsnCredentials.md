@@ -21,7 +21,7 @@ You do not run these commands directly. Service Mapping uses commands requiring 
 -   process identification on port
 -   discovering CIs using patterns
 
-Some of these commands do not require elevated rights, unless directories that Service Mapping must access are protected. For more information, see [Service Mapping commands not requiring a privileged user](r_NonSudoCommands.md).
+Some of these commands do not require elevated rights, unless directories that Service Mapping must access are protected. For more information, see [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md).
 
 ## Operating system commands requiring elevated rights
 
@@ -1686,10 +1686,10 @@ Splits the output line.
 |-------|---------|-----------|
 |`ls`|Various options|Lists files and folders in the specified folder.|
 
-**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md)
+**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
 **Related topics**  
 
 
-[Service Mapping commands not requiring a privileged user](r_NonSudoCommands.md)
+[Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md)
 

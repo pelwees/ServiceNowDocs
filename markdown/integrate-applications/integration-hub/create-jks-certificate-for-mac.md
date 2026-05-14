@@ -27,13 +27,13 @@ Ensure that OpenSSL is installed. To verify that OpenSSL is installed, execute t
 
 2.  To generate the private key, run the command `openssl genrsa -out private.key 2048`.
 
-    The private key is generated.![Private key generation message.](../image/oracle-hcm-spoke-generate-x509-private-key.png)
+    The private key is generated.![Private key generation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-generate-x509-private-key.png)
 
 3.  To generate the public key, run the command `openssl req -new -x509 -key private.key -out publickey.cer -days 365`.
 
 4.  Enter the information.
 
-    ![Public key information.](../image/oracle-hcm-spoke-x509-generate-public-key.png)
+    ![Public key information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-x509-generate-public-key.png)
 
     The public key is generated.
 

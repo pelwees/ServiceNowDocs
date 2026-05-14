@@ -168,5 +168,5 @@ Lead
 Prospective customers who have expressed their interest through various channels, such as website forms, social media, or events.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lead Management reference](../concept/lead-management-reference.md)
+</table>**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-reference.md)
 

@@ -32,5 +32,5 @@ To access User Trails, navigate to **All** &gt; **System Security** &gt; **Ident
 |Created By|The user who made the change.|
 |Created|The time and date the audit was performed.|
 
-![User Trails](../images/user-trails.png)
+![User Trails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/user-trails.png)
 

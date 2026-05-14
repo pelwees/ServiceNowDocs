@@ -50,5 +50,5 @@ Role required: admin
 7.  Change the state to **Ignore** when you’re no longer working on the update set, but don’t want it transferred to another instance.
 
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/using-system-update-sets.md)
 

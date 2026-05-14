@@ -18,24 +18,24 @@ Learn about the terms and concepts used in Sourcing and Procurement Operations \
 
 Glossary terms are grouped alphabetically.
 
-[A](spo-glossary.md#) \| [B](spo-glossary.md#) \| [C](spo-glossary.md#) \| [D](spo-glossary.md#) \| [E](spo-glossary.md#) \| [F](spo-glossary.md#) \| [G](spo-glossary.md#) \| [H](spo-glossary.md#) \| [L](spo-glossary.md#) \| [M](spo-glossary.md#) \| [N](spo-glossary.md#) \| [O](spo-glossary.md#) \| [P](spo-glossary.md#) \| [Q](spo-glossary.md#) \| [R](spo-glossary.md#) \| [S](spo-glossary.md#) \| [T](spo-glossary.md#) \| [V](spo-glossary.md#) \| [W](spo-glossary.md#)
+[A](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [B](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [D](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [E](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [F](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [G](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [H](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [L](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [M](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [N](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [O](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [P](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [Q](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [R](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [S](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [T](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [V](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#) \| [W](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#)
 
-**Parent Topic:**[Sourcing and Procurement Operations reference](../reference/spo-reference.md)
+**Parent Topic:**[Sourcing and Procurement Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/spo-reference.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/base-system-procurement-case-types.md)
 
-[Create New Pipeline Project form](../reference/create-pipeline-project-form.md)
+[Create New Pipeline Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/create-pipeline-project-form.md)
 
-[Pipeline project record tabs and UI actions](../reference/pipeline-form-tabs-actions.md)
+[Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/pipeline-form-tabs-actions.md)
 
-[Purchase requisition, purchase order, and sourcing request states](../reference/pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](itam-spo-data-model.md)
+[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-domain-separation.md)
 
 ## A
 

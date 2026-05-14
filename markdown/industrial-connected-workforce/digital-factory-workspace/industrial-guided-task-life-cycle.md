@@ -111,5 +111,5 @@ When you start a task, you can make changes and select **Save**. The task then c
 
 When the state of a task changes it triggers an automatic tracking of task duration. The actual start time is recorded when the task moves to Work in Progress, and the actual end time is recorded when the task is submitted. The system captures the total duration spent on the task, from Work in Progress state till Submitted state. The duration value is then recorded in the business duration field.
 
-**Parent Topic:**[Industrial Guided Tasks reference](industrial-guided-tasks-reference.md)
+**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 

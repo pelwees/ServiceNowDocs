@@ -58,7 +58,7 @@ Before you enable the **glide.sg.blur\_ui\_when\_backgrounded** system property,
 
 With the property in place, the app is blurred when not in focus.
 
-![App is blurred when not in focus](../image/BlurApp.png)
+![App is blurred when not in focus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BlurApp.png)
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/additional-mobile-configuration.md)
 

@@ -23,7 +23,7 @@ Role required: Tax manager
 
 1.  Navigate to **All** &gt; **Finance Common** &gt; **Tax codes**.
 
-    ![Navigate to Finance Common and Tax Codes](../image/apo-create-tax-code.png)
+    ![Navigate to Finance Common and Tax Codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-create-tax-code.png)
 
 2.  Select **New**.
 
@@ -47,5 +47,5 @@ Role required: Tax manager
 
 The tax code details are added.
 
-**Parent Topic:**[Tax calculations](../concept/tax-calculations-in-apo.md)
+**Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tax-calculations-in-apo.md)
 

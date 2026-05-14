@@ -56,5 +56,5 @@ As a process owner, you can-   View the dashboard and KPIs
 sn\_sd.success\_dashboard\_details\_read
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ITSM Success Dashboard indicators reference](itsm-success-dashboard-reference.md)
+</table>**Parent Topic:**[ITSM Success Dashboard indicators reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/itsm-success-dashboard-reference.md)
 

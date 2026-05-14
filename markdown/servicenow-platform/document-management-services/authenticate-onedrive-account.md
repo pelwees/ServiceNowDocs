@@ -26,5 +26,5 @@ Role required: sn\_personal\_auth.personal\_auth\_user
 2.  Go to Microsoft OneDrive Spoke Credential tile, select **Authenticate**.
 
 
-**Parent Topic:**[Personal authentication](../concept/personal-authentication-documents.md)
+**Parent Topic:**[Personal authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/personal-authentication-documents.md)
 

@@ -22,7 +22,7 @@ The Policy \[sn\_hcls\_policy\] table stores the details of a policy shared with
 
 Role required to configure the table: sn\_hcls.admin.
 
-For more information, see [Healthcare and Life Sciences data model](../concept/hcls-serv-mgmt-core-1.md).
+For more information, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../concept/hcls-serv-mgmt-core-1.md).
 
 <table id="table_rdz_dhp_xrb"><thead><tr><th>
 
@@ -64,7 +64,7 @@ Document template to generate standard letters or documents associated with the 
 
  **Note:** You can associate only one active policy with a document template.
 
- For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](../concept/hcls-config-doc-templates.md).
+ For more information, see [Configure document templates for Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../concept/hcls-config-doc-templates.md).
 
 </td></tr><tr><td>
 

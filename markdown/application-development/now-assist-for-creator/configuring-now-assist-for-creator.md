@@ -18,7 +18,7 @@ To get started using Now Assist for Creator, install Now Assist for Creator. The
 
 ## Installing Now Assist for Creator
 
-Check your company's entitlements to verify that you have access to Now Assist for Creator. To start using Now Assist for Creator, you must request it from the ServiceNow® Store. Once approval has been granted, you can install it on your instance. See [Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md) for more information.
+Check your company's entitlements to verify that you have access to Now Assist for Creator. To start using Now Assist for Creator, you must request it from the ServiceNow® Store. Once approval has been granted, you can install it on your instance. See [Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../administer/flow-designer/task/install-now-assist-for-creator.md) for more information.
 
 ## Activating AI capabilities
 
@@ -26,11 +26,11 @@ After installing Now Assist for Creator, you must turn on the AI capabilities th
 
 You can turn on Now Assist for Creator skills in the Now Assist Admin console. When you turn on a skill, you might have to complete additional configuration steps, such as assigning roles and restrictions for who can access the skill. See the product documentation for the skill that you want to activate for additional configuration steps.
 
-![Now Assist for Creator skills inside the Now Assist Admin console, where you can turn skills on and off.](../image/nafc-turn-on-skill.png "Now Assist for Creator skills in the Now Assist Admin console")
+![Now Assist for Creator skills inside the Now Assist Admin console, where you can turn skills on and off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../image/nafc-turn-on-skill.png "Now Assist for Creator skills in the Now Assist Admin console")
 
 AI agents and agentic workflows are activated in AI Agent Studio. When you activate an AI agent or agentic workflow, you might have to complete additional configuration steps, such as selecting a large language model \(LLM\) for the AI agent or agentic workflow and assigning roles and restrictions. See the product documentation for the AI agent or agentic workflow that you want to activate for additional configuration steps.
 
-![Now Assist for Creator AI agents in AI Agent Studio, where you can activate and manage AI agents.](../image/nafc-ai-agents-and-workflows.png "Now Assist for Creator AI agents in AI Agent Studio")
+![Now Assist for Creator AI agents in AI Agent Studio, where you can activate and manage AI agents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../image/nafc-ai-agents-and-workflows.png "Now Assist for Creator AI agents in AI Agent Studio")
 
 ## Required roles
 

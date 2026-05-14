@@ -43,12 +43,12 @@ The report contains the reservation details and the requested service item detai
     **Note:** The Print reservation feature is only available for single- and multi-child reservations and isn’t available for blocker reservations and multi-parent reservations.
 
 
-**Parent Topic:**[Manage employee reservations](../concept/manage-reservation-requests.md)
+**Parent Topic:**[Manage employee reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/manage-reservation-requests.md)
 
 **Related topics**  
 
 
-[View or update reservations](view-reservations.md)
+[View or update reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/view-reservations.md)
 
-[Approve a reservation](approve-res-req.md)
+[Approve a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/approve-res-req.md)
 

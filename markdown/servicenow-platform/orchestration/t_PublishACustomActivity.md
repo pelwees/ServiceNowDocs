@@ -36,7 +36,7 @@ Roles required: admin, activity\_admin, activity\_creator
     **Note:** Activities you create and publish are visible in the **Packs** tab only if they were created in the current application scope.
 
 
-**Parent Topic:**[Orchestration activity designer](../concept/c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_WorkflowActivityDesigner.md)
 
 ## Return a locked activity to a published state
 
@@ -60,7 +60,7 @@ An administrator can return a locked activity to a published state.
 
     A list of all the versions of that activity appears. The locked version displays the user who checked it out.
 
-    ![The version history displays information about who checked out the activity](../image/CustomActivityVersions.png)
+    ![The version history displays information about who checked out the activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/CustomActivityVersions.png)
 
 4.  Select the checked out version.
 

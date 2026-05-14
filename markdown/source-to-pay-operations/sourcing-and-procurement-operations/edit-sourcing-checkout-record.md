@@ -38,7 +38,7 @@ Use record producers to create a custom set of questions to ask shoppers during 
 
 4.  Select the **Questions** tab and add from the pre-configured questions.
 
-    See [Create sourcing checkout record](create-sourcing-checkout-record.md) for more information.
+    See [Create sourcing checkout record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-sourcing-checkout-record.md) for more information.
 
 5.  Select the **Settings** tab and fill in the fields.
 
@@ -49,14 +49,14 @@ Use record producers to create a custom set of questions to ask shoppers during 
 
 Edits to an existing sourcing checkout are now complete.
 
-**Parent Topic:**[Sourcing checkout](../concept/sourcing-checkout.md)
+**Parent Topic:**[Sourcing checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/sourcing-checkout.md)
 
 **Related topics**  
 
 
 [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md)
 
-[Create sourcing checkout record](create-sourcing-checkout-record.md)
+[Create sourcing checkout record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-sourcing-checkout-record.md)
 
 [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md)
 

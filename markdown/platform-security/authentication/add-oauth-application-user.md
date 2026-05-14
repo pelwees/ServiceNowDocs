@@ -21,7 +21,7 @@ Role required: oauth\_admin
 
 Plugin required: OAuth 2.0.
 
-You must create an OAuth client. For more information, see [Create an endpoint for clients to access the instance](../../../administer/security/task/t_CreateEndpointforExternalClients.md).
+You must create an OAuth client. For more information, see [Create an endpoint for clients to access the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security/task/t_CreateEndpointforExternalClients.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ You must create an OAuth client. For more information, see [Create an endpoint f
 
 6.  Select the user for the **OAuth Application User**.
 
-    For example, System Administrator.![OAuth Application User](../images/add-oauth-application-user.png)
+    For example, System Administrator.![OAuth Application User](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/add-oauth-application-user.png)
 
     **Note:** You must use the REST API Auth Scope with client credentials grant type to control the access provided to the 3rd party client.
 

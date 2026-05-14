@@ -15,7 +15,7 @@ To enable the Data Collection Pack, you must install dependent plugins and activ
 
 ## Before you begin
 
-The App Engine Success Metric Definitions in this application are dependent on the use of the App Engine Studio \(sn\_app\_eng\_studio\) application. Ensure that the required plugins are installed if they are not already installed. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](dc-install-plugins.md).
+The App Engine Success Metric Definitions in this application are dependent on the use of the App Engine Studio \(sn\_app\_eng\_studio\) application. Ensure that the required plugins are installed if they are not already installed. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
 Role required: Impact user
 
@@ -33,6 +33,6 @@ Role required: Impact user
     -   **Impact VM - App Engine - Historical Data Collection**
 5.  If you're having trouble finding the data collection jobs, check whether the required data collection-dependent plugins are installed correctly.
 
-    See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](dc-install-plugins.md).
+    See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
 

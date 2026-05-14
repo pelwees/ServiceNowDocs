@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Enable data table for charts and graphs accessibility preference.
 
-![Enable data table for charts and graphs accessibility preference.](../image/coral-pref-data.png)
+![Enable data table for charts and graphs accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-data.png)
 
 The purpose of this preference is to provide accessible data for users with visual impairments.
 
@@ -56,13 +56,13 @@ Deactivated
 
 A data table is displayed alongside or instead of the chart/graph.
 
-![Chart with Enable data table for charts and graphs preference turned on and data table displayed.](../image/a11y-pref-data-table.png)
+![Chart with Enable data table for charts and graphs preference turned on and data table displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-data-table.png)
 
 </td><td>
 
 Only the chart/graph is displayed.
 
-![Chart with Enable data table for charts and graphs preference turned off.](../image/a11y-pref-replace-charts-off.png)
+![Chart with Enable data table for charts and graphs preference turned off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-replace-charts-off.png)
 
 </td></tr></tbody>
 </table>

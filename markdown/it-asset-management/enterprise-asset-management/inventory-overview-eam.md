@@ -21,7 +21,7 @@ You can access the Inventory view by navigating to **Enterprise Asset Workspace*
 
 To access detailed information and take relevant action, select any widget. You can also narrow your results by using the **Location**, **Stockroom**, and **Model category** filters.
 
-![Inventory view for Enterprise Asset Workspace](../image/eam-inventoryview.png "Inventory view")
+![Inventory view for Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eam-inventoryview.png "Inventory view")
 
 Use the following tabs to view your inventory:
 

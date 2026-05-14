@@ -32,5 +32,5 @@ Shipping method is stored in each cart line and purchase line. It is also stored
 
 Shipping method is one of the criteria for grouping purchase requisitions, along with supplier, business owner, and blanket requisition. All purchase lines with the same shipping method are grouped together.
 
-**Parent Topic:**[Purchase requisition](../reference/purchase-requisition.md)
+**Parent Topic:**[Purchase requisition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-requisition.md)
 

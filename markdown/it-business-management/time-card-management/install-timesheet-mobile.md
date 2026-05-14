@@ -42,10 +42,10 @@ Role required: admin
 6.  Click **Install**.
 
 
--   **[Enabling the mobile experience for Mobile Time Sheets](enable-timesheet-mobile.md)**  
+-   **[Enabling the mobile experience for Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/enable-timesheet-mobile.md)**  
 Enable the mobile experience for Mobile Time Sheets so users can fill out time sheets and user managers can approve or reject them from their mobile device.
--   **[Use Mobile Time Sheets in Now Mobile](migrate-to-nowagent.md)**  
+-   **[Use Mobile Time Sheets in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/migrate-to-nowagent.md)**  
 You can configure your platform system to use Mobile Time Sheets in the Now Mobile application. By default, Mobile Time Sheets can be viewed in the Now Mobile application.
 
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/timesheet-mobile.md)
 

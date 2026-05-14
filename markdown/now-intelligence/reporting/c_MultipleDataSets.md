@@ -19,7 +19,7 @@ The following report types support multiple datasets: bar, horizontal bar, colum
 
 Multiple **Group by**s are not supported on multiple datasets. When using multiple datasets, the report legend is always displayed.
 
-![Multiple data sets](../image/MultipleDataSetsINTPRB.png "Incident and Problem data in one report")
+![Multiple data sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/MultipleDataSetsINTPRB.png "Incident and Problem data in one report")
 
 ## Restrictions
 
@@ -31,7 +31,7 @@ Bear the following restrictions in mind when creating a report with multiple dat
 -   For multiple datasets on a Bar or Horizontal Bar chart, all associated datasets must have the same Group By value.
 -   The Show Legends option is always, by default, displayed on a report with multiple datasets, even if the parent report has this option unselected.
 
-**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
 ## Add an additional dataset to a report
 
@@ -51,21 +51,21 @@ The property **glide.ui.doctype** must be enabled.
 
     You can add additional sets to bar, horizontal bar, line, column, area, and spline reports.
 
-3.  Select the **Show report structure** icon \(![Show report structure](../image/Form_ShowReportStructureIcon.png)\).
+3.  Select the **Show report structure** icon \(![Show report structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/Form_ShowReportStructureIcon.png)\).
 
-    ![Add dataset example: Open Show report structure from a bar report](../image/show-report-structure-add-dataset.png)
+    ![Add dataset example: Open Show report structure from a bar report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/show-report-structure-add-dataset.png)
 
 4.  Select **Add dataset**.
 
 5.  On the **Data** tab, provide a custom name for the additional data set to appear in the legend of the report, select a data source, and select the **Configure** tab.
 
-    ![Add dataset example: Name the dataset from the Data tab](../image/add-dataset-group-by-example.png)
+    ![Add dataset example: Name the dataset from the Data tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/add-dataset-group-by-example.png)
 
 6.  On the **Configure** tab, specify applicable fields the same way that you would configure a standalone report.
 
     The dataset must have the same Group by and Stack by values as the parent report. The dataset should also have the same aggregation on the same field. Note attention to the following fields on applicable report types.
 
-    ![Add dataset example: Specify grouping and stacking from the Configure tab](../image/add-dataset-group-by-example-config-tab.png)
+    ![Add dataset example: Specify grouping and stacking from the Configure tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/add-dataset-group-by-example-config-tab.png)
 
     **Note:** The **Display data table** option is not available from the **Add dataset** module, but is only available from the **Configure** tab of the main Report Designer. If the **Display data table** option is selected, only the first dataset will display on the data table.
 

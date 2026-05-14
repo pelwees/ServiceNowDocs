@@ -46,7 +46,7 @@ Role required: itil
 
         1.  Double-click the corresponding **Consumable Quantity** field.
         2.  When prompted, enter the number of available assets that you want to take action on.
-        3.  Select the Save icon \(![Save icon.](../../software-asset-management2/image/save-icon.png)\).
+        3.  Select the Save icon \(![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../software-asset-management2/image/save-icon.png)\).
         **Important:** The **Consumable Quantity** field does not display the updated value automatically. To view the updated value, **Refresh** the **Affected Assets** related list.
 
 4.  Based on the actions that you specified in the previous step, update/repair, swap, retire, or take no action on the affected assets.
@@ -87,5 +87,5 @@ Role required: itil
     The incident is closed.
 
 
-**Parent Topic:**[Managing incidents in Enterprise Asset Management](../concept/managing-eam-incidents.md)
+**Parent Topic:**[Managing incidents in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-eam-incidents.md)
 

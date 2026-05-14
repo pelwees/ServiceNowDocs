@@ -43,5 +43,5 @@ The second scheduled job runs periodically based on configuration. The scheduled
     These prefixes are followed by the sys\_id of the password reset process.
 
 
-**Parent Topic:**[Configure password expiration reminder](password-reset-expiration-setup.md)
+**Parent Topic:**[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-expiration-setup.md)
 

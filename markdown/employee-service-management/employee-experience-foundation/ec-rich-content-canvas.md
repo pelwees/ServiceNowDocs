@@ -19,7 +19,7 @@ Use the **Rich Content Editor** canvas to create columns to help define and orga
 
 Role required: sn\_cd.content\_manager
 
-After you have completed the **New content** form \(see [Create rich content](ec-content-library-portal-rich-content.md)\) and navigated to the Rich content canvas, you can create rich content.
+After you have completed the **New content** form \(see [Create rich content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-rich-content.md)\) and navigated to the Rich content canvas, you can create rich content.
 
 You can add 1, 2, or 3 columns. Each column acts as a container for other components. Each column component can also be edited by selecting the component and updating the properties under settings.
 
@@ -33,7 +33,7 @@ You can add 1, 2, or 3 columns. Each column acts as a container for other compon
 
     Columns act as containers for the content you are creating.
 
-    ![Rich Content Editor - Canvas and columns](../images/ec-rich-content-columns.png "Rich Content Editor")
+    ![Rich Content Editor - Canvas and columns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-rich-content-columns.png "Rich Content Editor")
 
     After you drop a **1 Column**, **2 Column**, or **3 Column** into the **Rich Content Editor** canvas, there are two separators that appear. The outside separator is labelled **Row**. The inside separator is labelled **Cell**.
 
@@ -158,11 +158,11 @@ Add and style more columns to create a layout for all the content on the page.
 
 Then, add components such as images, videos, text boxes, and buttons:
 
--   [Add Tabs with Rich Content Editor](ec-rich-content-tabs.md)
--   [Add a Divider with the Rich Content Editor](ec-rich-content-divider.md)
--   [Add an Image with the Rich Content Editor](ec-rich-content-image.md)
--   [Add a Video with the Rich Content Editor](ec-rich-content-video.md)
--   [Add Text or a Text section with the Rich Content Editor](ec-rich-content-text.md)
--   [Add a Link or Link block with the Rich Content Editor](ec-rich-content-link-block.md)
--   [Add a Button with the Rich Content Editor](ec-rich-content-button.md)
+-   [Add Tabs with Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-tabs.md)
+-   [Add a Divider with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-divider.md)
+-   [Add an Image with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-image.md)
+-   [Add a Video with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-video.md)
+-   [Add Text or a Text section with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-text.md)
+-   [Add a Link or Link block with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-link-block.md)
+-   [Add a Button with the Rich Content Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content-button.md)
 

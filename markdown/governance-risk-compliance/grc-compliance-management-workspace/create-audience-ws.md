@@ -54,6 +54,6 @@ Click **Edit** and add one or more predefined groups of users to the audience.
 Click **New** to define a new filter for audience member inclusion. Click **Edit** to modify an existing user filter. You can save filters for future use.
 
 </td></tr></tbody>
-</table>5.  When the audience has been defined, you can add the users, groups, or user filters to an [acknowledgement request](submit-ack-request-ws.md).
+</table>5.  When the audience has been defined, you can add the users, groups, or user filters to an [acknowledgement request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/submit-ack-request-ws.md).
 
 

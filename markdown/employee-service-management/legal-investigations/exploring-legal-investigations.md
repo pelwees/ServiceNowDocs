@@ -21,7 +21,7 @@ Legal Investigations enables the Legal department to accept complaints and condu
 -   Option for submitting anonymous or named complaints.
 -   Intake form to gather detailed information about the incident, complaint type, involved parties, and incident date.
 
-For interdepartmental transfer of complaints between Legal and HR departments, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](lsd-investigations-hr-emp-relations.md).
+For interdepartmental transfer of complaints between Legal and HR departments, see [Better together solution: Legal Investigations and HR Service Delivery Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/lsd-investigations-hr-emp-relations.md).
 
 ## Legal Investigations - workflow
 

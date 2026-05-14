@@ -70,5 +70,5 @@ Self-Paced Training: [Flow Designer](https://developer.servicenow.com/dev.do#!/l
 
 Self-Paced Training: [IntegrationHub](https://developer.servicenow.com/dev.do#!/learn/courses/paris/app_store_learnv2_rest_paris_rest_integrations/app_store_learnv2_rest_paris_rest_in_integrationhub/app_store_learnv2_rest_paris_rest_in_integrationhub_objectives)
 
-**Parent Topic:**[Build form and business logic](build-form-and-business-logic.md)
+**Parent Topic:**[Build form and business logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-form-and-business-logic.md)
 

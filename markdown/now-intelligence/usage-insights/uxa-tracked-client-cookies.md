@@ -57,7 +57,7 @@ The table lists the keys and values stored on local storage.
 
 To delete local storage variables, you must clear the browsing data. For example, in the Chrome browser, select **History** &gt; **Show Full History** &gt; **Clear browsing data**. In the Clear browsing data window, select **Cookies and other site data** and then select **Clear data**.
 
-![Settings to clear local storage cookies.](../image/clear-local-storage-cookies.png)
+![Settings to clear local storage cookies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/clear-local-storage-cookies.png)
 
 ## Data storage
 
@@ -65,5 +65,5 @@ Data is encrypted at rest. It’s stored in a central ServiceNow® multitenant r
 
 Data is anonymized before it’s sent to storage, and deleted at the database level after a retention period of two years.
 
-**Parent Topic:**[Tracked analytics fields and cookies](../concept/uxa-tracked-fields-and-cookies.md)
+**Parent Topic:**[Tracked analytics fields and cookies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/uxa-tracked-fields-and-cookies.md)
 

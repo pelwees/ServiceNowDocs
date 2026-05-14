@@ -110,5 +110,5 @@ Number of stars out of five, where a five-star rating is the highest and a one-s
 Publicly visible.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow Store reference](store-reference.md)
+</table>**Parent Topic:**[ServiceNow Store reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 

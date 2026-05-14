@@ -43,5 +43,5 @@ A list of the predefined alert clustering tags provided with the Tag Based Alert
 |t\_environment|Environment|cmdb\_ci.environment|
 |t\_namespace|Namespace|cmdb\_ci.namespace|
 
-**Parent Topic:**[Event Management reference](event-management-reference.md)
+**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

@@ -17,13 +17,13 @@ Improve HAM data coverage by analyzing existing and suggested data integrations,
 
 Use the **Data integrations** tab in the CMDB success advisor for HAM to assess the effectiveness of your current data integration sources in the Configuration Management Database \(CMDB\) and identify opportunities to improve HAM data coverage. The **Data integrations** tab provides a breakdown of active Discovery patterns and installed Service Graph Connectors, including how many key configuration item \(CI\) attributes each integration source is populating.
 
-For a quick reference to improve HAM data coverage, see [Data integration checklist for HAM in CMDB success advisor](cmdb-sa-ham-integ-checklist.md).
+For a quick reference to improve HAM data coverage, see [Data integration checklist for HAM in CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-integ-checklist.md).
 
 ## Access data integrations
 
-Navigate to the CMDB success advisor, and on the HAM card, select **View insights**. Select the **Data integrations** tab. To access the dashboard, see [Access CMDB success advisor](../task/cmdb-sa-access.md).
+Navigate to the CMDB success advisor, and on the HAM card, select **View insights**. Select the **Data integrations** tab. To access the dashboard, see [Access CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/cmdb-sa-access.md).
 
-**Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](cmdb-sa-ham-config-settings.md).
+**Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-config-settings.md).
 
 ## Required roles
 
@@ -63,7 +63,7 @@ CMDB administrator
 |Feature|Description|
 |-------|-----------|
 |Integration overview|Displays the count of all Discovery patterns and Service Graph Connectors contributing hardware asset data to the CMDB.|
-|Status indicators|Check whether Discovery patterns are active and Service Graph Connectors are installed with active connections. For more information, see [Reviewing data integrations for HAM](cmdb-sa-ham-integration-details.md).|
-|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which hardware asset attributes are populated by a Discovery pattern or Service Graph Connector. For more information, see [Evaluate HAM data integration coverage](../task/cmdb-sa-ham-evaluate-data-integration.md).|
-|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate HAM data integration coverage](../task/cmdb-sa-ham-evaluate-data-integration.md).|
+|Status indicators|Check whether Discovery patterns are active and Service Graph Connectors are installed with active connections. For more information, see [Reviewing data integrations for HAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-integration-details.md).|
+|Attribute coverage insights|Select the **Attribute coverage** link next to the integration to review which hardware asset attributes are populated by a Discovery pattern or Service Graph Connector. For more information, see [Evaluate HAM data integration coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/cmdb-sa-ham-evaluate-data-integration.md).|
+|Access integration details|Configure integrations to improve attribute coverage. For more information, see [Evaluate HAM data integration coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/cmdb-sa-ham-evaluate-data-integration.md).|
 

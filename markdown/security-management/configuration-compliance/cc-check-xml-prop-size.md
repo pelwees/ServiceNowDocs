@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Scroll down to **Import Properties** &gt; **XML Format** at the bottom of the page.
 
-    ![Maximum file size for import](../../../secops-integration-vr/qualys/image/XMLFileSize.jpg)
+    ![Maximum file size for import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../secops-integration-vr/qualys/image/XMLFileSize.jpg)
 
 3.  If necessary, change the value to 250 and click **Save**.
 

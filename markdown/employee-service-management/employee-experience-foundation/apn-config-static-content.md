@@ -40,5 +40,5 @@ Role required: Admin
 
 ## What to do next
 
-You can add the useful static content in the [Get support](apn-config-getsupport.md) section.
+You can add the useful static content in the [Get support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/apn-config-getsupport.md) section.
 

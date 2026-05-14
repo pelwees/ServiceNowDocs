@@ -27,7 +27,7 @@ The system automatically associates default operations from the Cloud API \(CAPI
 
 1.  Open a resource block, and then click the **Operations** tab.
 
-    ![Operations tab for resource blocks](../image/rb-operations.png)
+    ![Operations tab for resource blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/rb-operations.png)
 
     The **Input Parameters** sub-tab appears by default.
 
@@ -35,7 +35,7 @@ The system automatically associates default operations from the Cloud API \(CAPI
 
     The interfaces in this choice list are derived from the **Resource Guest Interface** list on the **General Information** tab that you already configured when you created a resource block.
 
-    ![Selecting a resource block interface](../image/rb-interface-list.png)
+    ![Selecting a resource block interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/rb-interface-list.png)
 
 3.  Select the operation on which you want to modify the input parameters.
 
@@ -43,7 +43,7 @@ The system automatically associates default operations from the Cloud API \(CAPI
 
     1.  Click the **Add Operation** icon.
 
-        ![Adding an operation](../image/icon-add-operation.png)
+        ![Adding an operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-add-operation.png)
 
     2.  Fill out the form \(see table\):
 
@@ -79,7 +79,7 @@ Access type
 
 Select **Public** to make the resource block operation available from the catalog order form when a user manages a stack that they own. The actual operations appear in a list on the catalog order form:
 
- ![Operations for the user](../image/user-portal-operations.png)
+ ![Operations for the user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/user-portal-operations.png)
 
  Select **Private** to prevent the operation from being used when a user launches a stack.
 
@@ -96,7 +96,7 @@ Select **Public** to make the resource block operation available from the catalo
 
     1.  Click the **Add Input Parameters** icon.
 
-        ![add input parameters](../image/icon-add-input-parameters.png)
+        ![add input parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-add-input-parameters.png)
 
     2.  Add the **Name** of the parameter that you obtained from the cloud provider API.
 
@@ -107,7 +107,7 @@ Select **Public** to make the resource block operation available from the catalo
         This value specifies the source or location where the parameter value comes from:
 
         -   **Text**: a text value that the user passes.
-        -   **Pools**: the query that you want to run against a pool to get a value back from it. The pool **Datasource Value** should follow this convention: `ServiceNow::Pools::PoolName.Pool-Filter-Name`. See [Pools and Filters for Cloud Provisioning](../concept/pools.md) for more information on pools.
+        -   **Pools**: the query that you want to run against a pool to get a value back from it. The pool **Datasource Value** should follow this convention: `ServiceNow::Pools::PoolName.Pool-Filter-Name`. See [Pools and Filters for Cloud Provisioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/pools.md) for more information on pools.
         -   **CSVList**: values from a comma-separated value list that you enter into the **Datasource Value**.
         -   **Array**: an array of values. You can programmatically send it an array in JavaScript. The format is as follows: `['abc','def']`.
         -   **FormData**: data submitted from the form configured in the blueprint.
@@ -128,14 +128,14 @@ Select **Public** to make the resource block operation available from the catalo
 
         You can also select **Mandatory** to force the user to enter a value.
 
-    8.  In the **Restricted To** column, click the restricted icon \(![restricted to](../image/icon-restricted-to.png)\), and then select a resource block to restrict the attribute to be passed to a specific host.
+    8.  In the **Restricted To** column, click the restricted icon \(![restricted to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-restricted-to.png)\), and then select a resource block to restrict the attribute to be passed to a specific host.
 
         In this example, you are configuring a resource block for a virtual server on vSphere, which requires the name of the VM folder \(represented by the `VmFolderName` attribute\). Other datacenter types do not need the name of the VM folder. Therefore, you can restrict `VmFolderName` to the vSphere datacenter resource block.
 
-        This image illustrates how the VMFolderName attribute is restricted to the vSphere Datacenter.![VMFolderName](../image/vmfoldername-attribute.png)
+        This image illustrates how the VMFolderName attribute is restricted to the vSphere Datacenter.![VMFolderName](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/vmfoldername-attribute.png)
 
-        ![Restricting to a vSphere datacenter](../image/vsphere-datacenter-restricted-to.png)
+        ![Restricting to a vSphere datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/vsphere-datacenter-restricted-to.png)
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

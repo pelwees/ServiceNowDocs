@@ -53,7 +53,7 @@ Authenticate ServiceNow Cloud Observability as a data source to enable Event Man
 
     4.  Select **webhook**.
 
-        ![Choose Webhook](../image/choose-webhook.png "Select Webhook")
+        ![Choose Webhook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/choose-webhook.png "Select Webhook")
 
     5.  In the Name field, enter a name for the webhook.
 
@@ -67,7 +67,7 @@ Authenticate ServiceNow Cloud Observability as a data source to enable Event Man
 
         **Note:** In a ServiceNow instance, CI binding occurs only if the **service-name** header value matches the name fields of the CI you created in the**cmdb\_ci\_service\_auto table**.
 
-        ![Create a Webhook](../image/create-webhook.png "Create a Webhook")
+        ![Create a Webhook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/create-webhook.png "Create a Webhook")
 
     9.  Click **Create**.
 

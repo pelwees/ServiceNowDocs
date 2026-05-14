@@ -31,7 +31,7 @@ By default, the **Track Specific Pipeline** field is set to **False** when you d
 
 1.  Navigate to **All** &gt; **DevOps** &gt; **Tools** &gt; **Orchestration Tools**, and open the Azure DevOps tool record.
 
-2.  Click the **Additional Actions** icon \(![additional actions icon](../image/additional-actions-icon.png)\), and select **Configure** &gt; **Form Layout**.
+2.  Click the **Additional Actions** icon \(![additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/additional-actions-icon.png)\), and select **Configure** &gt; **Form Layout**.
 
 3.  Move the **Track Specific Pipeline** field to the selected list.
 
@@ -43,11 +43,11 @@ By default, the **Track Specific Pipeline** field is set to **False** when you d
 
 6.  Navigate to the Pipelines related list.
 
-7.  Click the **Update Personalized List** icon \(![Update personalized list](../image/personalize-list.png)\).
+7.  Click the **Update Personalized List** icon \(![Update personalized list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/personalize-list.png)\).
 
 8.  In the Personalize List Columns form, move the **Track** field to the Selected list.
 
-    Track Specific pipeline ![Track Specific pipelines](../image/track-specific-pipeline.png)
+    Track Specific pipeline ![Track Specific pipelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/track-specific-pipeline.png)
 
 9.  Click **OK**.
 
@@ -67,5 +67,5 @@ Only the pipelines that have **Track** field set to **true** in the Pipelines re
 -   If the **Track Specific Pipeline** check box is selected only those pipelines that have the **Track** field value set to **true** are tracked and sent to the Inbound Events table. If **Track** field is set to **false** for all pipelines none of the pipelines are tracked.
 -   If the **Track Specific Pipeline** check box is unselected, all events of the pipeline are tracked and sent to the Inbound Events table.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](../concept/azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/azure-devops-integration-dev-ops.md)
 

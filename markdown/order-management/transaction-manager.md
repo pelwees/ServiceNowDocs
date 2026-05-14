@@ -41,5 +41,5 @@ Core building blocks and relationships include:
 **Related topics**  
 
 
-[Installing the Salesforce Transaction Manager Integration Package extension](installing-the-salesforce-transaction-manager-integration-package-extension.md)
+[Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md)
 

@@ -17,5 +17,5 @@ For defining an enterprise strategy, you can start by creating a strategic plan 
 
 The following illustration provides an example of a strategic plan, including its strategic priorities, goals, and targets.
 
-![Enterprise strategy map example.](../../spw-strategy-goals/image/stratey-map-example.png)
+![Enterprise strategy map example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../../spw-strategy-goals/image/stratey-map-example.png)
 

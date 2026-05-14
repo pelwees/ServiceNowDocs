@@ -23,20 +23,20 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select the **My Lists** tab.
 
 4.  Select the list you wish to delete.
 
-5.  Select the settings icon \(![Settings icon](../image/settings-display-icon-itom.png)\) and then select **Delete**.
+5.  Select the settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/settings-display-icon-itom.png)\) and then select **Delete**.
 
-    ![Delete a list](../image/sow-rename-list.png)
+    ![Delete a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-rename-list.png)
 
 6.  In the confirmation pop-up window, select **Delete**.
 
     The list is delete.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

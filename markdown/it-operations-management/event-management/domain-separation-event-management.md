@@ -35,9 +35,9 @@ A domain column is present for Event Management tables that are provided in the 
 
 **Note:**
 
-If the domain column does not display in the list, click ![Update Personalized List](../image/update-personalized-list.png) \(Update Personalized List\) and add the required column. In addition, you can add a column that displays the domain path.
+If the domain column does not display in the list, click ![Update Personalized List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/update-personalized-list.png) \(Update Personalized List\) and add the required column. In addition, you can add a column that displays the domain path.
 
-For information about domain separation limitations in Event Management, see [Configure Event Management domain separation](../task/t_EMConfigureDomainSeparation.md).
+For information about domain separation limitations in Event Management, see [Configure Event Management domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureDomainSeparation.md).
 
 **Related topics**  
 

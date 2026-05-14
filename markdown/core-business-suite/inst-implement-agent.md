@@ -54,7 +54,7 @@ Role required: admin
 
 ## What to do next
 
-Set up the Core Business Suite. For more information, see [Install Core Business Suite Foundation](set-up-cbs.md).
+Set up the Core Business Suite. For more information, see [Install Core Business Suite Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/set-up-cbs.md).
 
-**Parent Topic:**[Configure Core Business Suite Foundation](../concept/configure-cbs.md)
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/configure-cbs.md)
 

@@ -17,7 +17,7 @@ Enable term frequency–inverse document frequency \(TF-IDF\) to increase the se
 
 ## Before you begin
 
-To enable TF-IDF scoring, a text index must be present for the table. Make sure that text indexing is enabled for the table before changing the query mode. See [Configure a table for indexing and searching](configure-single-table-for-indexing.md#).
+To enable TF-IDF scoring, a text index must be present for the table. Make sure that text indexing is enabled for the table before changing the query mode. See [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md#).
 
 Role required: ts\_admin or admin
 
@@ -29,7 +29,7 @@ Administrators can enable TF-IDF scoring on a table to improve search results. T
 
 ## Procedure
 
-1.  Navigate to the [system dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md) and open the entry for the desired table.
+1.  Navigate to the [system dictionary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../data-dictionary-tables/concept/c_SystemDictionary.md) and open the entry for the desired table.
 
 2.  In the **Attributes** related list, select **New**.
 
@@ -52,10 +52,10 @@ Administrators can enable TF-IDF scoring on a table to improve search results. T
 9.  Configure the desired notification and select **OK**.
 
 
-**Parent Topic:**[Zing computes document scores using three components](../concept/c_DocumentScoring.md)
+**Parent Topic:**[Zing computes document scores using three components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_DocumentScoring.md)
 
 **Related topics**  
 
 
-[Set the relative weight of a field](t_ControlMatchRelevanceByField.md)
+[Set the relative weight of a field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ControlMatchRelevanceByField.md)
 

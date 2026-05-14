@@ -40,12 +40,12 @@ Role required: sn\_grc\_ent\_access.admin
 
     The **Entity based access restriction** field is available only on the Issue form. For all other records, you must configure a bulk access update to enable an entity-based access restriction.
 
-    ![Access settings for entity-based access restriction on the Issue form.](../image/eba-issue-form.png)
+    ![Access settings for entity-based access restriction on the Issue form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/eba-issue-form.png)
 
 
 ## Result
 
 You have completed configuring entity-based access properties in your system.
 
-**Parent Topic:**[Configuring Entity Based Access](../concept/setting-up-entity-based-access.md)
+**Parent Topic:**[Configuring Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/setting-up-entity-based-access.md)
 

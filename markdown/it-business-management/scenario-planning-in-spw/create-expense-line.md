@@ -59,7 +59,7 @@ Description
 
 </td><td>
 
-1.  Select the options ![Option to add expense lines.](../images/fin-options.png) from a cell.
+1.  Select the options ![Option to add expense lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-options.png) from a cell.
 2.  Select **Add expense lines**.
 
 
@@ -69,14 +69,14 @@ Description
 
 </td><td>
 
-Select **New expense line** using the More actions option.![GIF showing the selection of new expense line option.](../images/fin-new-expense-line-option-gif.gif)
+Select **New expense line** using the More actions option.![GIF showing the selection of new expense line option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-new-expense-line-option-gif.gif)
 
 **Note:** Use this option to record and calculate any unplanned expenses.
 
 </td></tr></tbody>
 </table>5.  On the Create expense line form, fill the fields.
 
-    For a description of the field names, see [Create expense line form](../../alignment-planner-workspace/reference/create-exp-line-form-spw.md).
+    For a description of the field names, see [Create expense line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/create-exp-line-form-spw.md).
 
 6.  Select **Save**.
 

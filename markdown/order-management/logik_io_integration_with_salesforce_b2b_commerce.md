@@ -39,7 +39,7 @@ This guide assumes the following:
 
     You should see `src` and `sfdx-project.json`, as well as a plain text copy of this guide.
 
-    ![Json file details](../images/cpq-integration-SFB2B-ls.png)
+    ![Json file details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-ls.png)
 
 6.  Run the following command, making the changes indicated just below:
 
@@ -56,7 +56,7 @@ This guide assumes the following:
 
     After a few moments, the command line will return a confirmation message, "Deploy Succeeded."
 
-    ![json file details](../images/cpq-integration-SFB2B-deploy-succeeded.png)
+    ![json file details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-deploy-succeeded.png)
 
     If the Salesforce org isnʼt already open in a browser, it can be opened by running the command `sfdx force:org:open -u myOrg`.
 
@@ -70,16 +70,16 @@ Setting Field Level Security:
 1.  From Setup Home, go to the Object Manager tab, or navigate to Objects and Fields &gt; Object Manager.
 2.  From Object Manager, search for and open Cart Item \(CartItem\).
 
-    ![Object manager screen](../images/cpq-integration-SFB2B-cart-item.png)
+    ![Object manager screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-cart-item.png)
 
 3.  Go to Fields &amp; Relationships. Search for and open the field Configuration Id \(ConfigurationId\_\_c\).
 4.  Click **Set Field-Level Security**.
 
-    ![object manager screen](../images/cpq-integration-SFB2B-set-field-level-security.png)
+    ![object manager screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-set-field-level-security.png)
 
 5.  Make sure the Visible option is selected and Read-Only is not selected for profiles that will be configuring products in Commerce, and then click **Save**.
 
-    ![Config screen](../images/cpq-integration-SFB2B-field-level-security-options.png)
+    ![Config screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-field-level-security-options.png)
 
 
 A similar set of steps need to be followed for a Product2 field.
@@ -109,20 +109,20 @@ In addition, the following CartItem fields will need to be set to Visible \(Read
 
 1.  In Logik, create a Runtime Client, with an Origin matching the Logik base URL. Click **Copy** to get the client token.
 
-    ![Edit runtime client](../images/cpq-integration-SFB2B-runtime-client-origin.png)
+    ![Edit runtime client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-runtime-client-origin.png)
 
 2.  In Salesforce, from Setup home, go to Custom Code &gt; Custom Settings.
 3.  For Logik Tenant, click `Manage`.
 
-    ![Custom settings screen](../images/cpq-integration-SFB2B-SF-options-manage.png)
+    ![Custom settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-SF-options-manage.png)
 
 4.  If settings already exist, click “Edit”. Otherwise, click “New” above the “Default Organization Level Value” header.
 
-    ![Tenant details](../images/cpq-integration-SFB2B-SF-custom-setting-edit.png)
+    ![Tenant details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-SF-custom-setting-edit.png)
 
 5.  For the Runtime Client Token field, paste the copied token for the runtime client. Make sure the URL field\(s\) are set to the same URL as one of the runtime clientʼs Origins in CPQ Admin.
 
-    ![Edit tenant screen](../images/cpq-integration-SFB2B-SF-custom-settings-2.png)
+    ![Edit tenant screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-SF-custom-settings-2.png)
 
 6.  Save.
 
@@ -131,16 +131,16 @@ In addition, the following CartItem fields will need to be set to Visible \(Read
 1.  From Setup home, go to Feature Settings &gt; Digital Experiences &gt; All Sites.
 2.  For your store, click `Workspaces`.
 
-    ![Home page screen](../images/cpq-integration-SFB2B-VF-page-access-1.png)
+    ![Home page screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-VF-page-access-1.png)
 
 3.  Go to Administration &gt; Pages &gt; Go to [Salesforce Platform for Application Development](http://force.com/).
 
-    ![Admin pages](../images/cpq-integration-SFB2B-VF-page-access-3.png)
+    ![Admin pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-VF-page-access-3.png)
 
 4.  Under “Site Visualforce Pages”, click `Edit`.
 5.  Move `commerceConfigurationWindow` from Available to Enabled and save.
 
-    ![Visualforce page](../images/cpq-integration-SFB2B-VF-page-access-4.png)
+    ![Visualforce page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-VF-page-access-4.png)
 
 
 ## Configuring the Experience Builder
@@ -148,20 +148,20 @@ In addition, the following CartItem fields will need to be set to Visible \(Read
 1.  From the Commerce home page, open Experience Builder.
 2.  Click **Home** on the top left to open the list of pages. Search or navigate to Product and click **Product Detail**. Either add the custom Logik button to the existing Product Detail page, or use the packaged page as a variation.
 
-    ![Product details](../images/cpq-integration-SFB2B-experience-builder-1.png)
+    ![Product details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-experience-builder-1.png)
 
     -   To add the button to an existing page:
         1.  Click the lightning bolt on the left and go to Custom Components \(the last section in the list\).
         2.  Drag the Configurator from the list and move it to where you want it in the layout.
 
-            ![Configurator](../images/cpq-integration-SFB2B-experience-builder-2.png)
+            ![Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-experience-builder-2.png)
 
     -   To use the packaged page as a variation:
         1.  Reopen the page navigation menu on the top left.
         2.  On the Product Detail option, click the three dots and go to the Page Variations tab.
         3.  Click New Page Variation and choose “Configurable Product Detail” as the layout.
 
-            ![New page screen](../images/cpq-integration-SFB2B-experience-builder-3.png)
+            ![New page screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-integration-SFB2B-experience-builder-3.png)
 
         4.  Give the variation a name and click **Create**.
 
@@ -348,9 +348,9 @@ Example response:
 **Related topics**  
 
 
-[CPQ and Salesforce base package overview](logik_io-salesforce_base_package_overview.md)
+[CPQ and Salesforce base package overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_io-salesforce_base_package_overview.md)
 
-[Salesforce amendments and CPQ](salesforce_amendments_and_logik_io.md)
+[Salesforce amendments and CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/salesforce_amendments_and_logik_io.md)
 
-[CPQ and Salesforce managed packages](logik_io-salesforce_managed_packages.md)
+[CPQ and Salesforce managed packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_io-salesforce_managed_packages.md)
 

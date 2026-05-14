@@ -21,7 +21,7 @@ The translation management feature enables the following translation activities:
 -   Create translation tasks automatically for specified languages.
 -   Configure assignment rules and auto-assigned tasks for a language, knowledge base, or category to a translator or a group of translators.
 
-For information about activating translation management, see [Activate translation management](../task/activate-translation-mgt.md).
+For information about activating translation management, see [Activate translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-translation-mgt.md).
 
 Enabling the **glide.knowman.translation.enable\_translation\_task** property adds the following menu options to the Translation Management submenu under the Knowledge menu:
 
@@ -31,14 +31,14 @@ Enabling the **glide.knowman.translation.enable\_translation\_task** property ad
 
 You can choose a default language when you log in to an instance. The available languages are based on the internationalization language plugins you have installed.
 
-**Parent Topic:**[Knowledge Management](knowledge-management.md)
+**Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
 **Related topics**  
 
 
-[Translate a knowledge article from a translation task](../task/translate-knowledge-article.md)
+[Translate a knowledge article from a translation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/translate-knowledge-article.md)
 
-[I18N - Knowledge internationalization](c_I18NKMInternational.md)
+[I18N - Knowledge internationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md)
 
-[Activate the knowledge management internationalization plugin](c_ActKMIntPlugin.md)
+[Activate the knowledge management internationalization plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_ActKMIntPlugin.md)
 

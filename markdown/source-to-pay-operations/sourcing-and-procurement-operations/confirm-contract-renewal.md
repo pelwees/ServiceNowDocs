@@ -35,7 +35,7 @@ After a pipeline project is created from an expiring contract, a sourcing task i
 
 3.  On the **Open** tab, select the contract renewal task.
 
-    ![Contract renewal task in Employee Center.](../image/confirm-contract-renewal.png)
+    ![Contract renewal task in Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/confirm-contract-renewal.png)
 
 4.  In the Do you want to renew this contract section, select one of the following options:
 
@@ -52,5 +52,5 @@ After a pipeline project is created from an expiring contract, a sourcing task i
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create a pipeline project from an expiring contract](create-pipeline-expire-contract.md)
+**Parent Topic:**[Create a pipeline project from an expiring contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-expire-contract.md)
 

@@ -43,7 +43,7 @@ Connect to ICW data
 
 </td><td>
 
-[Connect to your Industrial Connected Workforce data](connect-to-icw-data.md)
+[Connect to your Industrial Connected Workforce data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/connect-to-icw-data.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Customize UI actions
 
 </td><td>
 
-[Customizing UI actions for the Now Mobile Agent application](../concept/customizing-ui-actions-icw-mobile.md)
+[Customizing UI actions for the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/customizing-ui-actions-icw-mobile.md)
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Configure UI actions
 
 </td><td>
 
-[Configure UI actions in the Now Mobile Agent application](configure-ui-actions-icw-mobile.md)
+[Configure UI actions in the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-ui-actions-icw-mobile.md)
 
 </td></tr><tr><td>
 
@@ -119,12 +119,12 @@ Enable dark theme
 
 </td></tr></tbody>
 </table>
--   **[Connect to your Industrial Connected Workforce data](connect-to-icw-data.md)**  
+-   **[Connect to your Industrial Connected Workforce data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/connect-to-icw-data.md)**  
 Connect the Now Mobile Agent application to your Industrial Connected Workforce \(ICW\) application instance to manage work on your mobile device.
--   **[Customizing UI actions for the Now Mobile Agent application](../concept/customizing-ui-actions-icw-mobile.md)**  
+-   **[Customizing UI actions for the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/customizing-ui-actions-icw-mobile.md)**  
 Make it easier for your end users to get things done faster with the Industrial Connected Workforce \(ICW\) mobile application by creating custom UI actions.
--   **[Configure UI actions in the Now Mobile Agent application](configure-ui-actions-icw-mobile.md)**  
+-   **[Configure UI actions in the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-ui-actions-icw-mobile.md)**  
 Enable or disable the desired UI actions to reduce the load on mobile devices. In some factory areas, the internet connection can be slow or unstable. To keep the app working smoothly, you can set it up to load only the most important information.
 
-**Parent Topic:**[Setting up the Industrial Connected Workforce Mobile Agent](../concept/setting-up-icw-mobile-agent.md)
+**Parent Topic:**[Setting up the Industrial Connected Workforce Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/setting-up-icw-mobile-agent.md)
 

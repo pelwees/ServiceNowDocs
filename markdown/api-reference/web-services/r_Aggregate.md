@@ -180,5 +180,5 @@ More than one HAVING can be added to the request, so you can use HAVING expressi
 </SOAP-ENV:Envelope>
 ```
 
-**Parent Topic:**[Data Retrieval API](r_DataRetrievalAPI.md)
+**Parent Topic:**[Data Retrieval API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataRetrievalAPI.md)
 

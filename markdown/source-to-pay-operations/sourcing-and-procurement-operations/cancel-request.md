@@ -29,17 +29,17 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 3.  Select **Cancel this purchase** from the **Edit** menu or the **More options** menu.
 
-    ![Canceling a purchase from the purchase requisition.](../image/spo-cancel-purchase-from-pr.png)
+    ![Canceling a purchase from the purchase requisition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-cancel-purchase-from-pr.png)
 
     You can also select the **More options** icon on the requisition line and select **Cancel this purchase** to cancel a purchase.
 
-    ![Canceling a purchase from the More options menu of a purchase line.](../image/spo-cancel-purchase-from-pr-more-options.png)
+    ![Canceling a purchase from the More options menu of a purchase line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-cancel-purchase-from-pr-more-options.png)
 
     You can also cancel a purchase requisition line using the **Remove** button in the **Edit a purchase** page. It will internally create a new procurement case for the buyer to confirm or reject.
 
 4.  Specify a reason for the cancellation.
 
-    ![Specifying a reason for canceling this purchase.](../image/spo-cancel-a-purchase-form.png)
+    ![Specifying a reason for canceling this purchase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-cancel-a-purchase-form.png)
 
 5.  Select **Submit request**.
 
@@ -53,12 +53,12 @@ The step creates a procurement case with the details of the product for cancella
 -   Shoppers can review and edit the request details from **ShoppingHub** &gt; **My requests** or **My requests** from the footer.
 -   Buyers can review, edit, and process your request details from **Procurement Case Management** &gt; **Source-to-Pay Workspace** &gt; **Procurement Cases**, if required.
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 
 **Related topics**  
 
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 
-[Process Automation Designer flows for playbook](../concept/process-automation-designer-flows-psm.md)
+[Process Automation Designer flows for playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/process-automation-designer-flows-psm.md)
 

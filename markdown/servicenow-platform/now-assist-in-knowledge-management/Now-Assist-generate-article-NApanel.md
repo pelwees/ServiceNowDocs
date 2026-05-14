@@ -25,13 +25,13 @@ Role required: agent
 
 1.  Open a case or an incident that is assigned to you.
 
-2.  Open the Now Assist panel by selecting the Now Assist icon \(![Now Assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  Open the Now Assist panel by selecting the Now Assist icon \(![Now Assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../../common/image/icon-ai-sparkle.png)\).
 
 3.  In the Now Assist panel, select or enter **Generate Article**.
 
     Now Assist generates a Knowledge \(KB\) article.
 
-    ![Generate KB article from task record using Now Assist panel.](../image/KB-gen-article-from-taskrecord.png)
+    ![Generate KB article from task record using Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/KB-gen-article-from-taskrecord.png)
 
 4.  View the draft article by selecting the **View KB article** link in the chat window.
 
@@ -41,14 +41,14 @@ Role required: agent
 
 6.  View, edit, and publish the article by using the respective buttons on the screen.
 
-7.  Provide feedback on whether the article is helpful or not by selecting the liked icon \(![Liked icon.](../image/KnowledgeHelpful.png)\) or the not liked icon \(![Not Liked icon.](../image/KnowledgeNotHelpful.png)\).
+7.  Provide feedback on whether the article is helpful or not by selecting the liked icon \(![Liked icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/KnowledgeHelpful.png)\) or the not liked icon \(![Not Liked icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/KnowledgeNotHelpful.png)\).
 
-    ![KB article feedback in the Now Assist panel.](../image/KB-gen-article-feedback-NAP.png)
+    ![KB article feedback in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/KB-gen-article-feedback-NAP.png)
 
 8.  Alternatively, create an article directly from the Now Assist panel without opening the case or incident, by entering the task number and proceed with the same steps as above.
 
-    ![Generate KB article from Now Assist panel.](../image/Gen-KB-article-from-NApanel.png)
+    ![Generate KB article from Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/Gen-KB-article-from-NApanel.png)
 
 
-**Parent Topic:**[Using Now Assist in Knowledge Management](../concept/using-now-assist-in-km.md)
+**Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../concept/using-now-assist-in-km.md)
 

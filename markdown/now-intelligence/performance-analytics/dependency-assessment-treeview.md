@@ -21,18 +21,18 @@ The Dependency Assessment tree view consists of a variety of possible nodes and 
 
 The tree view header contains choice lists for changing the PA entity type and a value. The tree view updates according to your choices. Click the reset button \(![](../image/tree-view-reset-icon.png)\) to return the tree view to the starting point with just the first level parent and its immediate child nodes.
 
-Each node has a context menu \(![Admin console tree view context menu button](../image/admin-console-treeview-menu.png)\) where you can choose from a number of actions. Choose **Show Used By** to change the tree view to show where a node is used in your instance. See [Bottom-up tree view](../task/dependency-assessment-show-used-by.md) for more information.
+Each node has a context menu \(![Admin console tree view context menu button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/admin-console-treeview-menu.png)\) where you can choose from a number of actions. Choose **Show Used By** to change the tree view to show where a node is used in your instance. See [Bottom-up tree view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/dependency-assessment-show-used-by.md) for more information.
 
-![Top-down dependency assessment with list of remaining nodes](../image/impact-analysis-remaining-nodes2.png "Dependency assessment tree view")
+![Top-down dependency assessment with list of remaining nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/impact-analysis-remaining-nodes2.png "Dependency assessment tree view")
 
 The figure below gives an example of the top-down tree view, starting from a dashboard at the top level, its tabs on the second level, the widgets of one of the dashboard tabs on the third level, and so on. The tree view in the example shows all breakdowns and supporting indicators as they are defined in the Breakdown form.
 
-![Top-down dependency assessment with legend](../image/impact-analysis-example.png)
+![Top-down dependency assessment with legend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/impact-analysis-example.png)
 
-**Parent Topic:**[Dependency Assessment](impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md)
 
 **Related topics**  
 
 
-[Performance Analytics breakdowns](c_CreatingBreakdowns.md)
+[Performance Analytics breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_CreatingBreakdowns.md)
 

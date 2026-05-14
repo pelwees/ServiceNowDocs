@@ -102,13 +102,13 @@ Roles that the flow runs with. This option is only available when **Run as** is 
 
 5.  Add a trigger to your flow.
 
-    If you have a saved external trigger, the trigger is displayed under the installed third-party spoke for you to use. You can add additional conditions as required. See [Create a saved external trigger](../../flow-designer/task/create-saved-external-trigger.md).
+    If you have a saved external trigger, the trigger is displayed under the installed third-party spoke for you to use. You can add additional conditions as required. See [Create a saved external trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/create-saved-external-trigger.md).
 
     1.  Under the TRIGGER section, select **Add a trigger**.
 
-    2.  Under the INSTALLED SPOKES heading, select a spoke from the Trigger list.![Select spoke.](../images/select-spoke.png)
+    2.  Under the INSTALLED SPOKES heading, select a spoke from the Trigger list.![Select spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/select-spoke.png)
 
-    3.  Select the predefined external trigger definition.![External trigger definition.](../images/select-external-trigger-definition.png)
+    3.  Select the predefined external trigger definition.![External trigger definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/select-external-trigger-definition.png)
 
         To learn more about external trigger definitions, see [Conditional and event-driven inbound integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/conditional-and-event-driven-inbound-integration.md).
 
@@ -124,8 +124,8 @@ Roles that the flow runs with. This option is only available when **Run as** is 
 
 8.  Activate the flow.
 
-    Activate the flow if the test returns the desired outcome. For more information on testing and activating your flow, see [Test a flow](../../flow-designer/task/flow-test.md) and [Activate a flow](../../flow-designer/task/flow-activate.md).
+    Activate the flow if the test returns the desired outcome. For more information on testing and activating your flow, see [Test a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/flow-test.md) and [Activate a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/flow-activate.md).
 
 
-**Parent Topic:**[Create a flow in Workflow Studio](../../flow-designer/task/create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/task/create-flow.md)
 

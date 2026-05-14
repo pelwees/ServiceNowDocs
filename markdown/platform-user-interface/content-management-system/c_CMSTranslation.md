@@ -20,22 +20,22 @@ Two tables support the translation of a CMS site into other languages.
 -   Translated Name / Field \[sys\_translated\]: Stores strings that are shared or commonly used within a site. These include menu section names, menu item names, site breadcrumb names, link names, and footer menu links. Internationalization plugins typically provide translations for these strings. See[System Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-landing.md).
 -   Translated Text \[sys\_translated\_text\]: Stores unique string translations which you create when you manually translate interface elements. See [Export and edit translation records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateTheInterface.md).
 
-**Parent Topic:**[Content Management System](c_ContentManagementSystem.md)
+**Parent Topic:**[Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Content Management design](c_ContentManagementPlanning.md)
+[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-[Domain separation and the Content Management System](domain-separation-content-management.md)
+[Domain separation and the Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateASite.md)
 
-[Content Management integration points](c_CMSIntegrationPoints.md)
+[Content Management integration points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)
 
-[Content Management testing](c_ContentManagementTesting.md)
+[Content Management testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTesting.md)
 
-[Global search in Content Management](c_UseGlobalSearchContentManagement.md)
+[Global search in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_UseGlobalSearchContentManagement.md)
 
 ## View a translated CMS site
 

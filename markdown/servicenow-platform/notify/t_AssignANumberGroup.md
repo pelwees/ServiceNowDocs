@@ -23,7 +23,7 @@ Role required: notify\_admin
 
 1.  Navigate to **All** &gt; **Notify** &gt; **Numbers**.
 
-    ![Notify Numbers module, which you can use to associate a Notify number to a number group](../image/Numbers.png)
+    ![Notify Numbers module, which you can use to associate a Notify number to a number group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/Numbers.png)
 
 2.  Click the listed phone number and assign it to a **Number Group**, as appropriate.
 
@@ -41,5 +41,5 @@ Role required: notify\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Numbers and number groups](../concept/c_NumberGroups.md)
+**Parent Topic:**[Numbers and number groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NumberGroups.md)
 

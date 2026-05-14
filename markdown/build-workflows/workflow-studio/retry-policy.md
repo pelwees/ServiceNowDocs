@@ -33,7 +33,7 @@ Associate a default retry policy to a Connection &amp; Credentials alias and app
 
 **Note:** You can only create retry policies for JDBC, REST, and SOAP steps.
 
-**Parent Topic:**[Create an action in Workflow Studio](../task/create-action.md)
+**Parent Topic:**[Create an action in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-action.md)
 
 ## Create a retry policy
 
@@ -133,7 +133,7 @@ Maximum cumulative time in seconds after which the retry attempts are stopped. T
 
 ### Retry policy with Retry Strategy as Exponential Backoff
 
-![Sample retry policy when Retry Strategy is Exponential Backoff](../images/exponential-backoff.png "Sample retry policy")
+![Sample retry policy when Retry Strategy is Exponential Backoff](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/exponential-backoff.png "Sample retry policy")
 
 In this example, the policy is defined to attempt retry when one of these conditions is met:
 

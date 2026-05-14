@@ -27,7 +27,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -62,7 +62,7 @@ The state of the legal matter updates to Work in Progress.
 
 
 </td></tr></tbody>
-</table>4.  Click the more actions button \(![More actions button icon.](../../legal-request-management/image/more-button-icon.png)\) and select **Compose Email**.
+</table>4.  Click the more actions button \(![More actions button icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/more-button-icon.png)\) and select **Compose Email**.
 
     The **Compose Email** button is available only when the legal matter is in the Assigned or Work in progress state.
 
@@ -77,5 +77,5 @@ After the email is sent, it is added to the activity stream on the legal matter 
 
 Legal matters marked as Privileged and Confidential, contain confidentiality markers to comply with legal requirements. This applies to both system-generated notifications and fulfiller-initiated outbound emails.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

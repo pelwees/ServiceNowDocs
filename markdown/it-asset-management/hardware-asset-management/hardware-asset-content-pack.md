@@ -46,7 +46,7 @@ The Performance Analytics dashboards available for Hardware Asset Management are
 
 Beginning with the Xanadu release, note the following points about the Core UI Performance Analytics dashboards:
 
--   The Procurement Overview and Asset Contract overview module links are redirected to [Hardware Asset Workspace](../../../product/hardware-asset-management/concept/using-ham-workspace.md).
+-   The Procurement Overview and Asset Contract overview module links are redirected to [Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../product/hardware-asset-management/concept/using-ham-workspace.md).
 -   The following Next Experience Platform Analytics dashboard versions of the Asset Overview and My Assets Core UI Performance Analytics dashboards are available:
     -   Analytics Overview: You can access this dashboard by navigating to **Asset** &gt; **Analytics Overview**.
     -   My Assets Analytics: You can access this dashboard by navigating to **Self-Service** &gt; **My Assets Analytics**.
@@ -85,7 +85,7 @@ This tab gives you an overview of hardware and consumable models that are missin
 |Asset incident Frequency|Incident \[incident\]|Assets that have been reported with frequent incidents.|
 |Active Assets - Not Discovered|Asset \[alm\_asset\]|Assets that aren’t discovered at all or not discovered within one month.|
 
-![Asset Health tab on the Hardware Dashboard.](../../../product/hardware-asset-management/image/asset-health.jpg "Asset Health tab")
+![Asset Health tab on the Hardware Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../../product/hardware-asset-management/image/asset-health.jpg "Asset Health tab")
 
 ### Model Management tab
 
@@ -208,7 +208,7 @@ CDS table \[cds\_client\_schedule\]
 The days since the content service library was last downloaded on your instance and the days remaining for the next download to take place.
 
 </td></tr></tbody>
-</table>![Model Management tab on the Hardware Dashboard.](../image/model-management.png "Model Management tab")
+</table>![Model Management tab on the Hardware Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/model-management.png "Model Management tab")
 
 ### Procurement tab
 
@@ -275,7 +275,7 @@ Request \[sc\_request\]
 Requests that haven’t yet been addressed. Requests for which either a purchase order or a transfer order hasn’t been initiated.
 
 </td></tr></tbody>
-</table>![Procurement tab on the Hardware Dashboard.](../image/procurement-dashboard.png "Procurement tab")
+</table>![Procurement tab on the Hardware Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/procurement-dashboard.png "Procurement tab")
 
 ### Inventory tab
 
@@ -390,7 +390,7 @@ RMA Request Line \[sn\_hamp\_rma\_request\_line\]
 List of all the open RMA request lines.**Note:** The asset, itil, or inventory\_user role can only access the RMA Request Line \[sn\_hamp\_rma\_request\_line\] reports.
 
 </td></tr></tbody>
-</table>![Inventory tab on the Hardware Dashboard.](../image/inventory-dashboard.png "Inventory tab")
+</table>![Inventory tab on the Hardware Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/inventory-dashboard.png "Inventory tab")
 
 ### End of Life tab
 
@@ -487,5 +487,5 @@ Requested Item \[sc\_req\_item\]
 A list of Hardware Asset Refresh ordered.
 
 </td></tr></tbody>
-</table>![End of Life tab on the Hardware Dashboard.](../image/endoflife-dashboard.png "End of Life tab")
+</table>![End of Life tab on the Hardware Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/endoflife-dashboard.png "End of Life tab")
 

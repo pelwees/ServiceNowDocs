@@ -75,5 +75,5 @@ Demands related list is added that contains the demand \(DMND\) record.
     |The story \(STRY\) record is added to the Stories related list.|No change.|
 
 
-**Parent Topic:**[Continual Improvement Management reference](cim-reference.md)
+**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 

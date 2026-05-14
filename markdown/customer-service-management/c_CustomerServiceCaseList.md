@@ -90,7 +90,7 @@ sn\_customerservice.customer\_admin
 -   Cases created for the customer administrator's account
 -   Cases created by contacts who have a contact relationship with the customer administrator's account
 
- **Note:** A [contact relationship](c_ContactRelationships.md) enables a contact with the customer role or customer admin role to manage the account for which the contact relationship has been established.
+ **Note:** A [contact relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_ContactRelationships.md) enables a contact with the customer role or customer admin role to manage the account for which the contact relationship has been established.
 
 </td></tr><tr><td>
 

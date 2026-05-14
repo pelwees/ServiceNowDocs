@@ -272,14 +272,14 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](../concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
 </table>6.  Click **Submit**.
 
 
--   **[Automatically generate control tests from an engagement](automatically-generate-control-test.md)**  
+-   **[Automatically generate control tests from an engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/automatically-generate-control-test.md)**  
 After adding an entity to an engagement, you can automatically generate control tests.
 
-**Parent Topic:**[Manage engagements](../concept/c_Engagements.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_Engagements.md)
 

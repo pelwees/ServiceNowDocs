@@ -15,10 +15,10 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 When installing the Agent Client Collector on a Windows machine, either download an installation file and use a wizard to install the agent manually, or use silent installation to automate agent installation and configuration. Manual installation enables you to test the agent on a single system, while silent installation enables you to deploy the agent at scale.
 
--   **[Install the Agent Client Collector on a Windows machine manually](../task/acc-install-windows.md)**  
+-   **[Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/acc-install-windows.md)**  
 Install the Agent Client Collector on a Windows machine manually when you want to test the agent on a single system.
--   **[Install the Agent Client Collector on a Windows machine using silent installation](../task/acc-windows-install-silent.md)**  
+-   **[Install the Agent Client Collector on a Windows machine using silent installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/acc-windows-install-silent.md)**  
 Install Agent Client Collector on a Windows machine using silent installation when you want to deploy the agent at scale.
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 

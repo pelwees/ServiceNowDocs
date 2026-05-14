@@ -43,7 +43,7 @@ Property: Enable the Adaptive authentication property.
 
 5.  Specify the locations.
 
-    ![Location Filter](../images/apac-filter-criteria.png)
+    ![Location Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/apac-filter-criteria.png)
 
 6.  Select **Submit**.
 

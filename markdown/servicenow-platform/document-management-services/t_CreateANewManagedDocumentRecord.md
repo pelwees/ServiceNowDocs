@@ -43,10 +43,10 @@ Role required: document\_management\_user
 
 9.  Under **Revision Settings**, select the **Auto increment revision** option.
 
-    ![Revision Settings](../image/RevisionSettings.png)
+    ![Revision Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/RevisionSettings.png)
 
 10. Click **Submit**.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_ManagedDocuments.md)
 

@@ -122,5 +122,5 @@ sn\_erp\_mining\_erp\_application
  sn\_erp\_mining\_erp\_application\_usage
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring ERP Semantic Mining](exploring-ecm.md)
+</table>**Parent Topic:**[Exploring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/exploring-ecm.md)
 

@@ -24,7 +24,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -62,18 +62,18 @@ To generate an email response for the following records:-   Negotiation
 </td></tr></tbody>
 </table>4.  On the **Details** tab, select **Email**.
 
-5.  Select anywhere within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist](../../../common/image/icon-ai-sparkle.png).
+5.  Select anywhere within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png).
 
-6.  To generate a context-based email response, select the Now Assist icon ![Sparkle icon for Now Assist](../../../common/image/icon-ai-sparkle.png).
+6.  To generate a context-based email response, select the Now Assist icon ![Sparkle icon for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png).
 
-7.  To refine an email draft, select the Now Assist icon ![Sparkle icon for Now Assist](../../../common/image/icon-ai-sparkle.png) and then select any of the available options:
+7.  To refine an email draft, select the Now Assist icon ![Sparkle icon for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png) and then select any of the available options:
 
     -   Elaborate
     -   Shorten
     -   Change tone
 8.  Select **Insert** to add the AI-generated email response to the email message window.
 
-9.  Apply templates by selecting the template icon ![Email template icon.](../../finance-case-management/image/apply-template-icon.png).
+9.  Apply templates by selecting the template icon ![Email template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../finance-case-management/image/apply-template-icon.png).
 
 10. Select **Send email** to send the email.
 
@@ -82,18 +82,18 @@ To generate an email response for the following records:-   Negotiation
 
 An AI-generated email response is sent to the requester.
 
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-using.md)
 
 **Related topics**  
 
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](now-assist-spo-summarize-record.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-record.md)
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-shopping.md)
 
-[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)
+[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-gen-ai-capabilities-spo-now-assist-panel.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-va-using.md)
 
-[Analyze sentiment in procurement cases](analyze-sentiments-na-spo.md)
+[Analyze sentiment in procurement cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-sentiments-na-spo.md)
 

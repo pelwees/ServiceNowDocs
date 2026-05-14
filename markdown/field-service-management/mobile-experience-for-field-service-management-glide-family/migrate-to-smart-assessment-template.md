@@ -51,5 +51,5 @@ The questionnaire is migrated and a Smart Assessment questionnaire and template 
 
 ## What to do next
 
-To view, update, or publish the Smart Assessment template, navigate to **Workspaces** &gt; **Assessment Workspace**. For more information, see [Author and publish a Smart Assessment template](create-a-smart-assessment-template.md).
+To view, update, or publish the Smart Assessment template, navigate to **Workspaces** &gt; **Assessment Workspace**. For more information, see [Author and publish a Smart Assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/create-a-smart-assessment-template.md).
 

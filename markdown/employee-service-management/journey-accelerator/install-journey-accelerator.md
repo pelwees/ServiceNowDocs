@@ -19,8 +19,8 @@ Install the Journey Accelerator \[sn\_ja\] application to enable your users to e
 
 The Employee Center must be installed and activated. Managers, employees, and mentors access Journey Accelerator plans from the EC.
 
--   Learn about the Employee Center \(EC\) portal \[com.sn\_hr\_service\_portal\] at [Employee Center](../../employee-center/concept/employee-center-landing-page.md).
--   If you are planning to use the Journey Accelerator v2 scheduling feature, see [Microsoft Exchange Online setup for Journey Accelerator](../concept/ja-ms-exchange-online-setup-1.md) before you begin installation.
+-   Learn about the Employee Center \(EC\) portal \[com.sn\_hr\_service\_portal\] at [Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../../employee-center/concept/employee-center-landing-page.md).
+-   If you are planning to use the Journey Accelerator v2 scheduling feature, see [Microsoft Exchange Online setup for Journey Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../concept/ja-ms-exchange-online-setup-1.md) before you begin installation.
 -   Role required: admin
 
 ## Procedure
@@ -49,5 +49,5 @@ The Employee Center must be installed and activated. Managers, employees, and me
 **Related topics**  
 
 
-[Verify the Journey Accelerator installation](ja-verify-install-dataset-updates.md)
+[Verify the Journey Accelerator installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-verify-install-dataset-updates.md)
 

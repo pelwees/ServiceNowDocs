@@ -43,13 +43,13 @@ Role required: admin
         -   Planned start date: $\{start\_date\}
         -   Planned end date: $\{end\_date\}
         -   Planned duration: $\{duration\}
-    ![screenshot for project notifications](../image/Notificationwf.png)
+    ![screenshot for project notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/Notificationwf.png)
 
 
-**Parent Topic:**[Activate project task email notifications](t_ActivateProjTaskEmailNot.md)
+**Parent Topic:**[Activate project task email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ActivateProjTaskEmailNot.md)
 
 **Related topics**  
 
 
-[Activate project task email notifications](t_ActivateProjTaskEmailNot.md)
+[Activate project task email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ActivateProjTaskEmailNot.md)
 

@@ -19,15 +19,15 @@ Use Now Assist for Common Finance and Supply Chain features to summarize purchas
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Common Finance and Supply Chain features](now-assist-fsc-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Common Finance and Supply Chain features](now-assist-fsc-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Common Finance and Supply Chain features to get started](../task/configure-now-assist-fsc.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Common Finance and Supply Chain features to get started](../task/configure-now-assist-fsc.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Common Finance and Supply Chain features](now-assist-fsc-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Common Finance and Supply Chain features](now-assist-fsc-using.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For more information, see the [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) article in the Now Support Knowledge Base. Please check for availability updates in future releases.

@@ -26,7 +26,7 @@ Generate a JWT with the following claims at the client side:
 -   `iss`: Recommended matching the value of the Client ID. If the `aud` and `iss` isn’t matching, then add the `iss` value in the claim validation.
 -   `exp`: Any desired expiration.
 
-![Example decoded JSON Web Token](../image/example-jwt.png "Example decoded JSON Web Token")
+![Example decoded JSON Web Token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/example-jwt.png "Example decoded JSON Web Token")
 
 ## Configuration in ServiceNow
 
@@ -154,7 +154,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select to only enable tokens to be used with APIs set to enable the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](../../../integrate/authentication/task/create-api-access-policy.md).Default: Unselected.
+Select to only enable tokens to be used with APIs set to enable the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../integrate/authentication/task/create-api-access-policy.md).Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Client Type
 Choose the client type, based on the type of your client. Options:-   **iframe Embedded**
 -   **Integration as a User**
 -   **Integration as a Service**
-To know more, see [Configure client type for OAuth and SSO records](../../../integrate/authentication/concept/client-type.md).
+To know more, see [Configure client type for OAuth and SSO records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../integrate/authentication/concept/client-type.md).
 
 </td></tr></tbody>
 </table>    4.  Save the form.

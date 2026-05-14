@@ -17,15 +17,15 @@ Enhance the security mechanism for users to access a network using token based a
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Time limited authentication![Time limited authentication](../../../reuse/icons/brand-icons/bus-explore.svg)](time-limited-authentication.md)
+[Time limited authentication![Time limited authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-explore.svg)](time-limited-authentication.md)
 
- [Token based authentication is a protocol which allows users to verify their identity, and in return receive a unique access token.It helps to enhance the security mechanism for users to access a network.](time-limited-authentication.md)
+ [Token based authentication is a protocol which allows users to verify their identity, and in return receive a unique access token.It helps to enhance the security mechanism for users to access a network.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/time-limited-authentication.md)
 
 </td><td>
 
-[Digest Token Authentication](../../single-sign-on/concept/c_DigestTokenAuthentication.md)![Digest Token Authentication](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Digest Token Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../single-sign-on/concept/c_DigestTokenAuthentication.md)![Digest Token Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [The digest token authentication passes user credentials and a digest token within an unencrypted HTTP header.](../../single-sign-on/concept/c_DigestTokenAuthentication.md)
+ [The digest token authentication passes user credentials and a digest token within an unencrypted HTTP header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../single-sign-on/concept/c_DigestTokenAuthentication.md)
 
 </td></tr><tr><td>
 

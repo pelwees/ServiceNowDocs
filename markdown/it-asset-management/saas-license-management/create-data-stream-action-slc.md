@@ -155,7 +155,7 @@ Not selected.
 
     The following image shows an example of the pagination setup step completion. This example is from the Get Users data stream action used in the Webex Download Subscriptions subflow.
 
-    ![Pagination Setup step](../image/slc-pagination-webex.png)
+    ![Pagination Setup step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/slc-pagination-webex.png)
 
     **Note:** Pagination variables only support the string data type. To perform math operations, you must convert the value to an integer, perform any required operations, then convert it back to a string.
 
@@ -189,7 +189,7 @@ Connection Alias
 
 </td><td>
 
-Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)
+Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ XML request message to get a list of all users. See the documentation for your c
         |-----|-----|
         |Connection Details|
         |Connection|**Use Connection Alias**.|
-        |Connection Alias|Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)|
+        |Connection Alias|Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)|
         |Base URL|This value is automatically populated when you select the connection alias. It's set to the Connection URL from the HTTP\(s\) Connection record linked to the alias.|
         |Request Details|
         |Build Request|**Manually**.|
@@ -244,7 +244,7 @@ XML request message to get a list of all users. See the documentation for your c
 
         The following image shows a completed example of the REST step. This example is from the Get Jira Users data stream action used in the Jira Download Subscriptions subflow.
 
-        ![REST step](../image/slc-rest-step.png)
+        ![REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/slc-rest-step.png)
 
 13. Select **Parsing** in the Action Outline.
 
@@ -376,5 +376,5 @@ Absolute path to a user element in the response message. See the documentation f
 
 ## What to do next
 
-[Create a subflow to get users](create-subflow-get-users.md#).
+[Create a subflow to get users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-subflow-get-users.md#).
 

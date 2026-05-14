@@ -34,5 +34,5 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 3.  Approve or deny the request.
 
 
-**Parent Topic:**[Manage Quorum Control](quorum-ctrl-mgmt.md)
+**Parent Topic:**[Manage Quorum Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-mgmt.md)
 

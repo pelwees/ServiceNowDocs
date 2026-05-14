@@ -45,7 +45,7 @@ From version 2.0.2: canvas\_user
 
  From version 3.0.0: content\_admin, import\_set\_loader, import\_transformer
 
-**Note:** The content\_admin role is different from the sn\_cd.content\_admin role. For more information about sn\_cd.content\_admin, see [Types of Localizable content in Localization Workspace](lw-localizable-content.md).
+**Note:** The content\_admin role is different from the sn\_cd.content\_admin role. For more information about sn\_cd.content\_admin, see [Types of Localizable content in Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-localizable-content.md).
 
 </td></tr></tbody>
 </table>## Scheduled jobs installed
@@ -192,10 +192,10 @@ Translation Target Group Info \(from version 2.0.2\)
 \[sn\_lw\_target\_group\_info\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Localization Workspace reference](../concept/localization-workspace-reference.md)
+</table>**Parent Topic:**[Localization Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/localization-workspace-reference.md)
 
 **Related topics**  
 
 
-[Find components installed with an application](../../plugins/task/find-components.md)
+[Find components installed with an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../plugins/task/find-components.md)
 

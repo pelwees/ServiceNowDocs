@@ -15,7 +15,7 @@ The Retail mobile plugin offers a customized mobile experience for retail operat
 
 The Retail mobile app supports creation of cases through store inquiry case type. It provides real-time insights into key KPIs, supports issue tracking, and is compatible with both Android and iOS platforms.
 
-![Retail Mobile landing screen](../image/z-retail-mobile.png)
+![Retail Mobile landing screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../image/z-retail-mobile.png)
 
 ## Menu Options
 
@@ -35,8 +35,8 @@ The key features that are available on the home page of the Retail mobile applic
 
 For information on using Retail mobile app, see the following topics:
 
--   [Create a store inquiry case from a mobile app](rahi-retail-creating-request-mobile.md)
--   [Manage a store inquiry case from a mobile app](rahi-retail-fulfill-retail-store-service-case-mobile.md)
+-   [Create a store inquiry case from a mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-creating-request-mobile.md)
+-   [Manage a store inquiry case from a mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case-mobile.md)
 
-**Parent Topic:**[Exploring Retail](rahi-retail-operations-explore.md)
+**Parent Topic:**[Exploring Retail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-explore.md)
 

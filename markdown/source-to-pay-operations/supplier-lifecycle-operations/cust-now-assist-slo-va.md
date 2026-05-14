@@ -28,7 +28,7 @@ Use the Now Assist Admin console to configure Now Assist for SLO. This console c
 
 1.  Install the Now Assist for Supplier Lifecycle Operations \(SLO\) plugin \(com.snc.sn\_supplier\_gen\_ai\).
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](../concept/now-assist-slo-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/now-assist-slo-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
@@ -52,7 +52,7 @@ Use the Now Assist Admin console to configure Now Assist for SLO. This console c
 **Related topics**  
 
 
-[Customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill for Case summarization](now-assist-slo-cust-skill.md)
+[Customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill for Case summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-cust-skill.md)
 
-[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](../reference/now-assist-slo-skill-input-triggers.md)
+[Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/now-assist-slo-skill-input-triggers.md)
 

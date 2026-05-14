@@ -48,5 +48,5 @@ Role required: admin
     Login as the synced user and make sure that the agent is available in Agent Workspace and also login to the Amazon Connect instance with the same ServiceNow user to verify.
 
 
-**Parent Topic:**[Configure Conversational IVR with Amazon Connect](configure-va-ivr.md)
+**Parent Topic:**[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-ivr.md)
 

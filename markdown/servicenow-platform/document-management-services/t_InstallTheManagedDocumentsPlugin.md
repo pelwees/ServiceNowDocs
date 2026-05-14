@@ -34,5 +34,5 @@ Role required: admin
 4.  Select **Activate**.
 
 
-**Parent Topic:**[Managed Documents plugin](../reference/r_ManagedDocumentsPlugin.md)
+**Parent Topic:**[Managed Documents plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/r_ManagedDocumentsPlugin.md)
 

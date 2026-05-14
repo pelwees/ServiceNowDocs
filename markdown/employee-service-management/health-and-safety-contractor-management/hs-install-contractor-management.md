@@ -31,7 +31,7 @@ The following items are installed with Health and Safety Contractor Management:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Health and Safety Contractor Management](../reference/components-installed-with-hs-contractor-mgmt.md).
+For more information, see [Components installed with Health and Safety Contractor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../reference/components-installed-with-hs-contractor-mgmt.md).
 
 ## Procedure
 

@@ -39,7 +39,7 @@ The entitlements with the following license types are carried over to the new co
 
     2.  On the Software Entitlement form, fill in the required fields.
 
-        For more information, see [Software entitlement fields](../../software-asset-management2/reference/software-entitlement-fields.md).
+        For more information, see [Software entitlement fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../../software-asset-management2/reference/software-entitlement-fields.md).
 
     3.  Select **Save**.
 
@@ -87,5 +87,5 @@ Add or remove entitlements to indicate the entitlements you want to cover.
 
 ## What to do next
 
-[Update terms and conditions](update-terms-conditions.md)
+[Update terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/update-terms-conditions.md)
 

@@ -45,25 +45,25 @@ The visitor policy is added.
 
 Assign the visitor policy to workplace locations.
 
--   **[Assign visitor policy to a workplace location](assign-visitor-policy-to-workplace-location.md)**  
+-   **[Assign visitor policy to a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/assign-visitor-policy-to-workplace-location.md)**  
 Add one or more workplace location to a visitor policy. Visitors who are registered to arrive at that locations will receive an email notification in prior to accept the policy.
 
-**Parent Topic:**[Configuring Workplace Visitor Management](../concept/configure-visitor-mgmt.md)
+**Parent Topic:**[Configuring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/configure-visitor-mgmt.md)
 
 **Related topics**  
 
 
-[Install Workplace Visitor Management](install-workplace-visitor-mgmt.md)
+[Install Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/install-workplace-visitor-mgmt.md)
 
-[Create a record producer for visitor management](create-rec-prodcr-visit-mgmt.md)
+[Create a record producer for visitor management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-rec-prodcr-visit-mgmt.md)
 
-[Configure a visitor type](configure-visitor-type.md)
+[Configure a visitor type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/configure-visitor-type.md)
 
-[Configure visit requirements](configure-visit-requirements.md)
+[Configure visit requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/configure-visit-requirements.md)
 
-[Create a visitor badge template](create-visitor-badge-template.md)
+[Create a visitor badge template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-badge-template.md)
 
-[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/config-visitor-for-kiosk.md)
 
-[Quick start test for Workplace Visitor Management](../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
+[Quick start test for Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../administer/atf-quick-start-tests/reference/quick-start-tests-wsd-visitor-mgmt.md)
 

@@ -25,11 +25,11 @@ Based on the insights gained, you can decide if a user has inappropriate access 
 
 **Important:** As a best practice, compare users at a peer-level \(same organization, same department, same manager\).
 
-You enable Access Insights in **Settings**. To learn more, see [Configuring Access Insights](../task/configure-access-insights.md).
+You enable Access Insights in **Settings**. To learn more, see [Configuring Access Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/configure-access-insights.md).
 
-You use Access Insights while comparing users' access with the **Compare user access** feature in Access Analyzer. To learn more about using Access Insights, see [Using Access Insights](../task/use-access-insights.md).
+You use Access Insights while comparing users' access with the **Compare user access** feature in Access Analyzer. To learn more about using Access Insights, see [Using Access Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/use-access-insights.md).
 
-![Access Insights](../images/access-insights-homepage.png)
+![Access Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/access-insights-homepage.png)
 
 **Note:** Access Insights is available with Access Analyzer V4.
 

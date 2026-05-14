@@ -53,12 +53,12 @@ The proposal is submitted and the following actions occur:
 -   The **Activity** section in the MSIM Workspace shows that the security incident has been added as a child security incident to the major security incident with a link.
 
 
-**Parent Topic:**[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+**Parent Topic:**[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/promoting-sir-to-msim.md)
 
 **Related topics**  
 
 
-[Propose as a Major Security Incident](propose-as-msi.md)
+[Propose as a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/propose-as-msi.md)
 
-[Promote to a Major Security Incident](promote-msi.md)
+[Promote to a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/promote-msi.md)
 

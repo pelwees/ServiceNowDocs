@@ -16,7 +16,7 @@ breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and report
 
 The Customer Portal Usage dashboard enables you to understand the user usage of portals by presenting an aggregate count of sessions created every month.
 
-These sessions don’t represent individual users. For example, if you access the portal on two different days, it counts as two separate sessions. For more information about how an aggregate session is counted, see [Portal usage calculation](../reference/csm-portal-user-sessions-timeouts.md).
+These sessions don’t represent individual users. For example, if you access the portal on two different days, it counts as two separate sessions. For more information about how an aggregate session is counted, see [Portal usage calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../reference/csm-portal-user-sessions-timeouts.md).
 
 You can access the dashboard by navigating to **All** &gt; **Self Service** &gt; **Dashboards**. On the dashboard page, search and select `Customer Portal Usage`.
 
@@ -24,7 +24,7 @@ To access more detailed information, place your mouse device over any of the gra
 
 **Note:** The Customer Portal usage tab is available when the Customer Service \(com.sn\_customerservice\) plugin is activated.
 
-![Customer portal usage dashboard. For descriptions of the reports included on this dashboard, see the Reports section that follows.](../image/customer-portal-usage-dashboard.png "Customer portal usage dashboard")
+![Customer portal usage dashboard. For descriptions of the reports included on this dashboard, see the Reports section that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/customer-portal-usage-dashboard.png "Customer portal usage dashboard")
 
 ## End user and roles
 
@@ -104,5 +104,5 @@ Get aggregated chargeable external portal sessions for last month.
 </table>**Related topics**  
 
 
-[Portal usage calculation](../reference/csm-portal-user-sessions-timeouts.md)
+[Portal usage calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../reference/csm-portal-user-sessions-timeouts.md)
 

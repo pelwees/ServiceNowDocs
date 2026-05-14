@@ -19,7 +19,7 @@ Register your Microsoft Teams Communications spoke with ServiceNow instance for 
 
 Ensure the following:
 
--   [Authenticate Microsoft Teams with Microsoft Azure](authenticate-microsoft-teams-with-micrsoft-azure.md)
+-   [Authenticate Microsoft Teams with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/authenticate-microsoft-teams-with-micrsoft-azure.md)
 -   Change the application scope to Microsoft Teams Communication spoke.
 
 Role required: admin
@@ -54,7 +54,7 @@ Role required: admin
 
     2.  On the form, in the OAuth Entity Profile Scopes related list, double-click **Insert a new row...**.
 
-    3.  In the OAuth Entity Scope field, click the Search icon ![search icon](../../workplace-case-mgmt/image/search-icon.png).
+    3.  In the OAuth Entity Scope field, click the Search icon ![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-case-mgmt/image/search-icon.png).
 
     4.  In the OAuth Entity Scope window that opens, click **New**.
 
@@ -75,9 +75,9 @@ Role required: admin
 
 The OAuth registration is added for Microsoft Teams Communications spoke.
 
-**Parent Topic:**[Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md)
+**Parent Topic:**[Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mgmt-with-teams.md)
 
-**Previous topic:**[Authenticate Microsoft Teams with Microsoft Azure](authenticate-microsoft-teams-with-micrsoft-azure.md)
+**Previous topic:**[Authenticate Microsoft Teams with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/authenticate-microsoft-teams-with-micrsoft-azure.md)
 
-**Next topic:**[Setup OAuth connectivity between ServiceNow and Microsoft Teams Graph](setup-connectivity-between-servicenow-and-microsoft-teams-graph.md)
+**Next topic:**[Setup OAuth connectivity between ServiceNow and Microsoft Teams Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/setup-connectivity-between-servicenow-and-microsoft-teams-graph.md)
 

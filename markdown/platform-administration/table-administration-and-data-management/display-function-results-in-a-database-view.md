@@ -41,5 +41,5 @@ Role required: admin
 
 The function field operation is executed and the results appear in the database view output.
 
-**Parent Topic:**[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
+**Parent Topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 

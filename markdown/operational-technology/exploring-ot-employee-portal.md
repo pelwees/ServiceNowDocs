@@ -25,7 +25,7 @@ The Employee Center for OT is available in the existing Employee Center.
 
 **Note:** For more information about the Employee Center, see [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-landing-page.md).
 
-You can access it by navigating to **All** &gt; **Self-Service** &gt; **Employee Center** and selecting the **Industrial services** tab. The following image shows the Industrial services page accessible from the Employee Center.![Employee Center for OT accessible in the Employee Center under the Industrial services tab](../image/industrial-services.png)
+You can access it by navigating to **All** &gt; **Self-Service** &gt; **Employee Center** and selecting the **Industrial services** tab. The following image shows the Industrial services page accessible from the Employee Center.![Employee Center for OT accessible in the Employee Center under the Industrial services tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/industrial-services.png)
 
 You can access the Employee Center for OT on both the desktop and the Now Mobile app experience. Providing both the desktop and mobile app experience helps different OT personas access the Employee Center for OT no matter their location.
 
@@ -42,6 +42,6 @@ You can access the Employee Center for OT on both the desktop and the Now Mobile
 
 To learn more about configuring and using the Employee Center for OT, see:
 
--   [Configuring the Employee Center for OT](configuring-ot-employee-portal.md)
--   [Report an OT incident in the Employee Center for OT](../task/report-ot-incident-in-ot-employee-portal.md)
+-   [Configuring the Employee Center for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
+-   [Report an OT incident in the Employee Center for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/report-ot-incident-in-ot-employee-portal.md)
 

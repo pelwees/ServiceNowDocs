@@ -25,12 +25,12 @@ Role required: sn\_dex.user
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](../image/icon-applications.png)\).
+2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-applications.png)\).
 
 3.  Select an installed application name.
 
 4.  Select **Performance** under **Application metrics**.
 
-    You can view information on the number of crashes, CPU usage, memory and I/O performance, and memory usage trends. For more information on the metrics, see [Installed application — Performance page](../reference/installed-app-health-form.md).
+    You can view information on the number of crashes, CPU usage, memory and I/O performance, and memory usage trends. For more information on the metrics, see [Installed application — Performance page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/installed-app-health-form.md).
 
 

@@ -76,5 +76,5 @@ Verify that the values provided are accurate. Select **Mark Complete**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure Success Dashboard indicators KPIs](config-kpis-sdb.md)
+**Parent Topic:**[Configure Success Dashboard indicators KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/config-kpis-sdb.md)
 

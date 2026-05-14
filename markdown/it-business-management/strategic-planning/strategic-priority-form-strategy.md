@@ -104,5 +104,5 @@ Description
 A detailed description of the strategic priority.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Strategy and Goals reference](strategy-goals-reference.md)
+</table>**Parent Topic:**[Strategy and Goals reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/strategy-goals-reference.md)
 

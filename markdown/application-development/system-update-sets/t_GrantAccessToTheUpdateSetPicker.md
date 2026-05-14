@@ -23,7 +23,7 @@ Role required: admin
 
 The update set picker appears when selecting the globe icon. The picker enables you to choose an update set for making and tracking customizations. By default, only administrators can use the update set picker. You can grant access to additional users.
 
-![update set picker list.](../image/UpdateSetList.png)
+![update set picker list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../image/UpdateSetList.png)
 
 ## Procedure
 
@@ -37,8 +37,8 @@ The update set picker appears when selecting the globe icon. The picker enables 
 
     2.  Set the value of glide.ui.update\_set\_picker.role to the role that you want to grant access to.
 
-    See [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) and [Update sets properties](../reference/update-sets-properties.md) for more information.
+    See [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) and [Update sets properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../reference/update-sets-properties.md) for more information.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/configure-system-update-sets.md)
 

@@ -34,5 +34,5 @@ For the Notify-Twilio Direct driver, the URLs are:
 
 **Note:** The **glide.notify.endpoint** property needs to be set to an Internet visible name because the instance name inside a private network can be different from the Internet domain.
 
-**Parent Topic:**[Notify reference](notify-reference-section.md)
+**Parent Topic:**[Notify reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-reference-section.md)
 

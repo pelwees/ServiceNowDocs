@@ -25,7 +25,7 @@ Typically, enterprises have hundreds of services which makes it impractical to m
 
 How you group service instances depends on the user and on service provisioning policies in your enterprise. The relation between service instances in groups is purely logical and the same service instance can belong to multiple groups. For example, the Mobile service can be part of the following service groups: Sales, Beijing, and Telephony.
 
-![A service instance belonging to different groups](../image/BusinessService3Groups.png "Example of a service instance belonging to different groups")
+![A service instance belonging to different groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/BusinessService3Groups.png "Example of a service instance belonging to different groups")
 
 You can embed a service group within another service group to create a hierarchy of service groups. If users have access to a parent service group, they automatically have access to all its child groups. By default, all new services are assigned to the **All** service group that lets all users view and manage service instances. When you assign a role to a service group, the users with this role can access service instances in this service group and in the **All** service group. To enable users with this role to access other services, assign this role to the respective service group. Do not assign user roles directly to the **All** service group.
 
@@ -65,7 +65,7 @@ You can use ServiceNow AI Platform Notifications to alert users if the service g
 
     4.  Enter the name of the service group to which you want to add the selected service instance.
 
-    5.  Click the **OK** icon \(![OK icon](../image/BusinessMappingOKicon.png)\).
+    5.  Click the **OK** icon \(![OK icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/BusinessMappingOKicon.png)\).
 
     6.  Click **Update**.
 

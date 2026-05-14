@@ -82,12 +82,12 @@ Database
 -   Oracle
 
 </td></tr></tbody>
-</table>-   **[Configure incident category or subcategory](../task/t_AddRemoveIncCatSubbCat.md)**  
+</table>-   **[Configure incident category or subcategory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/t_AddRemoveIncCatSubbCat.md)**  
 Configure incident category and subcategory for easy classification of incidents which helps in routing incidents to the right team. You can also generate reports based on category and subcategory of incidents.
--   **[Add a category or a subcategory](../task/add-new-category.md)**  
+-   **[Add a category or a subcategory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/add-new-category.md)**  
 Add category or subcategory to assign incidents to the correct team and save time in troubleshooting and bringing the service to normalcy.
--   **[Delete a category or a subcategory](../task/remove-category-subcategory.md)**  
+-   **[Delete a category or a subcategory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../task/remove-category-subcategory.md)**  
 Delete a category or subcategory if your organization no longer uses the category or subcategory.
 
-**Parent Topic:**[Configuring Incident Management](../concept/incident-configuration.md)
+**Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-configuration.md)
 

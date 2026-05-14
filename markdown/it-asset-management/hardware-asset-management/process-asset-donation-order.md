@@ -82,7 +82,7 @@ You can cancel an Asset Donation Order until it reaches the transit stage in the
         1.  In the **Pickup contact name** field, enter the name of the vendor to pick up the assets for donation.
         2.  \(Optional\) In the **Shipping carrier** field, select your shipping carrier.
         3.  \(Optional\) In the **Tracking number** field, enter the tracking number for the shipment.
-        **Note:** The Shipping carrier and Tracking number fields are used to track shipments from the Shipment list in the Asset operations view of the Hardware Asset Workspace. For details, see [View hardware asset shipment details](view-hardware-asset-shipments.md).
+        **Note:** The Shipping carrier and Tracking number fields are used to track shipments from the Shipment list in the Asset operations view of the Hardware Asset Workspace. For details, see [View hardware asset shipment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md).
 
     3.  Select **Close task**.
 
@@ -115,14 +115,14 @@ You can cancel an Asset Donation Order until it reaches the transit stage in the
 
 All the asset donation tasks are in the Closed Complete state and the Asset Donation Order stage changes to Completed.
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 
 
-[Create an Asset Donation Order](create-asset-donation-order.md)
+[Create an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-donation-order.md)
 
-[Approve or reject an Asset Donation Order](approve-reject-asset-donation-order.md)
+[Approve or reject an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/approve-reject-asset-donation-order.md)
 
-[Add a charity organization for donating assets](add-charity-org.md)
+[Add a charity organization for donating assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-charity-org.md)
 

@@ -21,13 +21,13 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](../reference/components-installed-configurable-wfo-cs.md). The **Total coverage/demand** row displays the number of agents covering each shift in a day. The day view displays the demand for the number of agents forecast for every hour in a day. For example, 4/5 shows that you have four agents scheduled for an hourly time slot, 11 AM to 12 PM and the agent demand forecast for that hour is 5.
+You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md). The **Total coverage/demand** row displays the number of agents covering each shift in a day. The day view displays the demand for the number of agents forecast for every hour in a day. For example, 4/5 shows that you have four agents scheduled for an hourly time slot, 11 AM to 12 PM and the agent demand forecast for that hour is 5.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon.](../image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\) icon.
 
 3.  Create a schedule plan.
 
@@ -35,8 +35,8 @@ You can set the number of days to cache agent schedules using the **sn\_shift\_p
 
         **Note:** You can analyze the staff alignment for a day, week, or month.
 
-    2.  In the contextual side panel, click the show schedules icon ![Show Schedules icon.](../image/show-schedule-new.png) to display the schedules.
-    3.  In the Schedules panel, click ![Create New Schedule icon.](../image/create-schedule-new.png) icon.
+    2.  In the contextual side panel, click the show schedules icon ![Show Schedules icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/show-schedule-new.png) to display the schedules.
+    3.  In the Schedules panel, click ![Create New Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/create-schedule-new.png) icon.
     4.  In the **Name** field, enter a name for the schedule plan.
     5.  From the **Start Date** field, select a date to start the schedule plan and click **OK**.
     6.  From the **End Date** field, select a date to end the schedule plan and click **OK**.
@@ -63,7 +63,7 @@ The schedule plan is created in Draft state.
 
 ## What to do next
 
-[Publish a schedule plan for visibility into team coverage](generate-preview-schedule-plan-configurable-wfo-cs.md).
+[Publish a schedule plan for visibility into team coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/generate-preview-schedule-plan-configurable-wfo-cs.md).
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

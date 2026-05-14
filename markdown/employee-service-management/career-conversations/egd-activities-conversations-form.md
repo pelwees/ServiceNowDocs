@@ -106,5 +106,5 @@ Select the table containing the data that you want to use.This field appears onl
 Select the record you want to use from the table you specified in the **Table name** field.This field appears only when the **Conversation type** field is set to **Mentoring Conversations**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Career Conversations reference](../concept/egd-activities-reference.md)
+</table>**Parent Topic:**[Career Conversations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../concept/egd-activities-reference.md)
 

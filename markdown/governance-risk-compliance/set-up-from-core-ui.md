@@ -23,7 +23,7 @@ Role required: sn\_oper\_res.admin
 
     The list of pillars available with the application are shown in the example. All pillars are in the inactive state.
 
-    ![Pillars in the Core UI view.](../image/pillars-core-ui-view.png)
+    ![Pillars in the Core UI view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/pillars-core-ui-view.png)
 
 2.  Activate the pillars first.
 
@@ -35,13 +35,13 @@ Role required: sn\_oper\_res.admin
 
         The example shows that the Active check box is selected.
 
-        ![Active check box is selected.](../image/pillar-record-active-option.png)
+        ![Active check box is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/pillar-record-active-option.png)
 
     4.  To save the settings, select **Update**.
 
         The example shows that the Business Services entity type is set to active.
 
-        ![The entity type is set to active.](../image/pillar-record-marked-active.png)
+        ![The entity type is set to active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/pillar-record-marked-active.png)
 
     5.  Repeat these steps for all required pillars.
 
@@ -53,7 +53,7 @@ Role required: sn\_oper\_res.admin
 
         The example shows the entity types that are set up in the instance.
 
-        ![Entity types that are set up in the instance.](../image/ent-types-list-from-core-ui.png)
+        ![Entity types that are set up in the instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-types-list-from-core-ui.png)
 
     2.  Select the Active check box, select **Pillar** \(must be active pillar\), and add **Description** \(optional\).
 
@@ -61,13 +61,13 @@ Role required: sn\_oper\_res.admin
 
         The example shows that the Active check box is selected.
 
-        ![The Active check box is selected.](../image/ent-types-active-option.png)
+        ![The Active check box is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-types-active-option.png)
 
     3.  To save the entity type, select **Update**.
 
         The entity type is displayed in the Setup - Entity types list in the UI.
 
-        ![Entity type is displayed in the Setup - Entity types list.](../image/ent-types-marked-active.png)
+        ![Entity type is displayed in the Setup - Entity types list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ent-types-marked-active.png)
 
     4.  Repeat these steps for all required entity types.
 
@@ -76,5 +76,5 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-Once pillars and entity types are set up, configure the entity filters. For more information, see [Configure the entity filters](conf-ent-filter.md).
+Once pillars and entity types are set up, configure the entity filters. For more information, see [Configure the entity filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-ent-filter.md).
 

@@ -25,7 +25,7 @@ As a hospital, payer \(insurance\), or a life sciences organization, you can unl
 
 The following example shows the Redox Inbound Integration workflow.
 
-![Example which shows how Redox inbound integration connects ServiceNow instances with EMR systems.](../image/redox-exploring.png)
+![Example which shows how Redox inbound integration connects ServiceNow instances with EMR systems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/redox-exploring.png)
 
 ## Benefits
 
@@ -49,12 +49,12 @@ Enables healthcare systems including electronic medical records \(EMR\) systems 
 
 </td><td>
 
-[Exchange real-time healthcare data with Redox Inbound Integration](hcls-redox-use.md)
+[Exchange real-time healthcare data with Redox Inbound Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-use.md)
 
 </td><td>
 
 Administrator/Clinician
 
 </td></tr></tbody>
-</table>To get started with the Redox Inbound Integration application, see [Configuring Redox Inbound Integration](hcls-redox-app-config.md).
+</table>To get started with the Redox Inbound Integration application, see [Configuring Redox Inbound Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-app-config.md).
 

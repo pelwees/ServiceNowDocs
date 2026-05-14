@@ -21,7 +21,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-Mass encryption and decryption is also available from the Encrypted Field Configurations form. See [Run mass encryption or decryption](mass-enc-dec.md) for instructions.
+Mass encryption and decryption is also available from the Encrypted Field Configurations form. See [Run mass encryption or decryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/mass-enc-dec.md) for instructions.
 
 ## Procedure
 
@@ -124,5 +124,5 @@ Job status information when the job is running, has completed, or has errors.
     -   Click **Update** to save any changes you make to the job schedule.
     -   Click **Delete** to delete the scheduled job.
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/field-encryption-key-management.md)
 

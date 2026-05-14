@@ -44,5 +44,5 @@ Role required: sn\_dex.admin
 
 ## What to do next
 
-[Add an alert action](add-alert-action.md) \(Optional\).
+[Add an alert action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-alert-action.md) \(Optional\).
 

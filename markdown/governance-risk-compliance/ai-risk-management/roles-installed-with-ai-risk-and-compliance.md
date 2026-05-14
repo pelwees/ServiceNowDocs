@@ -230,5 +230,5 @@ The AI Case Admin can manage type profiles to segregate AI cases. They can set u
 -   sn\_ai\_case\_mgmt.ai\_case\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Risk and Compliance reference](ai-risk-and-compliance-reference.md)
+</table>**Parent Topic:**[AI Risk and Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-reference.md)
 

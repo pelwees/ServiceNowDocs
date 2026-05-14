@@ -17,14 +17,14 @@ You can list Spotlights and show them in a dashboard on a configurable workspace
 
 To show Spotlight in Platform Analytics, create a dashboard in the inline editor. Add a List to that dashboard that shows records from the Spotlight \[spotlight\] table. You can filter on the Spotlight Group, such as Incident Spotlight.
 
-![A List component in the inline dashboard editor, showing the Spotlight table](../../par-for-workspace/image/dashboard-spotlights.png)
+![A List component in the inline dashboard editor, showing the Spotlight table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../../par-for-workspace/image/dashboard-spotlights.png)
 
-**Parent Topic:**[Ranking records with Spotlight](spotlight.md)
+**Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 
 **Related topics**  
 
 
-[Dashboards in Platform Analytics](../../par-for-workspace/concept/analytics-center-dashboards.md)
+[Dashboards in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../../par-for-workspace/concept/analytics-center-dashboards.md)
 
-[Create a list visualization in the Visualization Designer](../../reporting/task/create-dv-analytics-list.md)
+[Create a list visualization in the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../../reporting/task/create-dv-analytics-list.md)
 

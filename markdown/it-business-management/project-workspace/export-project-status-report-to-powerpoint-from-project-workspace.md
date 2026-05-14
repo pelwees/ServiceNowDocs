@@ -17,8 +17,8 @@ Generate a status report of your project and export it as a Microsoft PowerPoint
 
 ## Before you begin
 
--   Install the Export to PowerPoint for Strategic Portfolio Management application from ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](../../export-to-ppt/task/install-export-to-ppt.md).
--   Create and upload a Microsoft PowerPoint template to apply to your status report. For more information on how to create and upload a template, see [Create a Microsoft PowerPoint template](../../export-to-ppt/task/create-ppt-template.md) and [Upload your Microsoft PowerPoint template](../../export-to-ppt/task/upload-ppt-template.md) respectively.
+-   Install the Export to PowerPoint for Strategic Portfolio Management application from ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../export-to-ppt/task/install-export-to-ppt.md).
+-   Create and upload a Microsoft PowerPoint template to apply to your status report. For more information on how to create and upload a template, see [Create a Microsoft PowerPoint template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../export-to-ppt/task/create-ppt-template.md) and [Upload your Microsoft PowerPoint template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../export-to-ppt/task/upload-ppt-template.md) respectively.
 
 Role required: it\_project\_manager
 
@@ -34,13 +34,13 @@ Exporting the project is beneficial if your stakeholders prefer a slide deck rat
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
-2.  From the More actions menu \(![More actions.](../../alignment-planner-workspace/images/icon-more-actions.png)\), select **Export status report**.
+2.  From the More actions menu \(![More actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../alignment-planner-workspace/images/icon-more-actions.png)\), select **Export status report**.
 
 3.  On the Export status report form, fill in the fields for an existing project.
 
-    For field information, see [Export status report form on Project Workspace](../reference/export-status-report-form-project-workspace.md).
+    For field information, see [Export status report form on Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../reference/export-status-report-form-project-workspace.md).
 
 4.  Select **Export**.
 
@@ -48,17 +48,17 @@ Exporting the project is beneficial if your stakeholders prefer a slide deck rat
 
 6.  On the Export status report form, create a status report for a project by selecting the **Please create a status report to be able to export** link.
 
-    ![Export status report window on project workspace](../image/export-status-report.png)
+    ![Export status report window on project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/export-status-report.png)
 
 7.  On the **Status Report** Tab, create a status report by clicking **Create New**.
 
 8.  On the Status Report form, fill in the fields.
 
-    For field information, see [Create a project status report](../../project-management/task/t_CreateAProjectStatusReport.md).
+    For field information, see [Create a project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/task/t_CreateAProjectStatusReport.md).
 
 9.  Select **Submit**.
 
-10. Select the Export to PowerPoint icon \(![Export to PowerPoint icon](../image/export-to-powerpoint-icon.png)\).
+10. Select the Export to PowerPoint icon \(![Export to PowerPoint icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/export-to-powerpoint-icon.png)\).
 
 11. From the Export to PowerPoint window, select the report date by clicking **Status report date**.
 
@@ -71,5 +71,5 @@ Exporting the project is beneficial if your stakeholders prefer a slide deck rat
 
 The project status report is downloaded as a Microsoft PowerPoint file with the project number and status report date as the file name.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

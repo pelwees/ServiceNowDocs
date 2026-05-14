@@ -76,7 +76,7 @@ Description
 
 </td><td>
 
-Specify the facts table and any conditions for filtering the records of that table. You can specify a [database view](performance-analytics-glossary.md#) as the facts table. Remote tables are not supported, but Workflow Data Fabric tables are supported.
+Specify the facts table and any conditions for filtering the records of that table. You can specify a [database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#) as the facts table. Remote tables are not supported, but Workflow Data Fabric tables are supported.
 
 </td></tr><tr><td id="d143795e304">
 
@@ -124,7 +124,7 @@ Specify an existing report source to reuse. A report source specifies a facts ta
 
 11. In the Records Collection tab, override the maximum number of records that a job can collect for a single indicator source, for this indicator source only.
 
-    Select **Override record collection**, then enter a value in **Maximum number of records collected**. You are overriding the default value set on the property **com.snc.pa.dc.max\_row\_count\_indicator\_source**. For more information, see [Performance Analytics properties](../reference/pa-properties.md).
+    Select **Override record collection**, then enter a value in **Maximum number of records collected**. You are overriding the default value set on the property **com.snc.pa.dc.max\_row\_count\_indicator\_source**. For more information, see [Performance Analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../reference/pa-properties.md).
 
 12. Expand the context menu and click **Save**.
 
@@ -154,11 +154,11 @@ The following settings create an indicator source that collects new incidents da
 -   **Facts table**:`Incident [incident]`
 -   **Condition**:`[Opened] [on] [Today]`
 
-![Create indicator sources](../image/CreatingIndicatorSources.png "Create indicator sources")
+![Create indicator sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/CreatingIndicatorSources.png "Create indicator sources")
 
 ### What to do next
 
-After you create an indicator source, you can define text index configurations in a related list on the record. Use these configurations to create Performance Analytics text widgets with word clouds. For more information, see [Set up text analytics](../task/set-up-text-analytics.md).
+After you create an indicator source, you can define text index configurations in a related list on the record. Use these configurations to create Performance Analytics text widgets with word clouds. For more information, see [Set up text analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/set-up-text-analytics.md).
 
 If you are reusing a report source and the report source changes, a warning appears on the indicator source record. To update the indicator source to match the report source, click **Update report source**. You can also click the refresh button next to the **Report source** field.
 
@@ -167,7 +167,7 @@ The read-only **Report source updated at** field displays the last time the repo
 **Related topics**  
 
 
-[Report sources](../../reporting/concept/c_ReportSources.md#)
+[Report sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/concept/c_ReportSources.md#)
 
 [Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/business-calendars.md)
 
@@ -187,7 +187,7 @@ By joining tables in a database view, you can easily access them by calling up t
 
 -   If you select a database view as the facts table for an indicator source, provide additional configuration in the **Records view** section of the Indicator Source form.
 
-    ![Records View section on indicator source form](../image/indicator-source-record-view.png "Records View section on the indicator source form")
+    ![Records View section on indicator source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/indicator-source-record-view.png "Records View section on the indicator source form")
 
 <table id="table_lrc_1p5_dmb"><thead><tr><th>
 
@@ -223,11 +223,11 @@ Let's say you want to create some indicators tracking the number of incidents th
 
 Looking at the database view, you see that it gets the records where the task on the Task SLA table matches the unique sys\_id value on the Indicator table.
 
-![Database view tables list with Where clause highlighted](../image/ind-source-db-view-where-clause.png)
+![Database view tables list with Where clause highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ind-source-db-view-where-clause.png)
 
 You can only take snapshots from one table, and it is generally better to take snapshots of the table with a field with unique values. Therefore, you select Incident \[incident\] as the View table on the indicator source.
 
-![Records view tab](../image/ind-source-db-view-table.png)
+![Records view tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ind-source-db-view-table.png)
 
 **Related topics**  
 

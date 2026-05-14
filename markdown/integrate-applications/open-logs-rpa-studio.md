@@ -31,10 +31,10 @@ Each log has a naming convention. If it’s a runtime-related log, the log name 
 
 ## Procedure
 
-1.  In the notification area \(system tray\) in the taskbar, select and hold \(or right-click\) the Unattended Robot icon \(![Unattended Robot icon in the notification area.](../../rpa-runtime/image/rpa-robot-runtime-desktop-icon.png)\).
+1.  In the notification area \(system tray\) in the taskbar, select and hold \(or right-click\) the Unattended Robot icon \(![Unattended Robot icon in the notification area.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-runtime/image/rpa-robot-runtime-desktop-icon.png)\).
 
 2.  Select **View Logs** and select either **Service Logs** or **Runtime Logs**, to view the related logs.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 

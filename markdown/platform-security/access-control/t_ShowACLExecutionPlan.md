@@ -21,19 +21,19 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+1.  [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/task/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Access Control \(ACL\)**.
 
 3.  Open an ACL with the type **record**.
 
-    ![ACL type equals "record."](../image/acl-type-record.png)
+    ![ACL type equals "record."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/acl-type-record.png)
 
 4.  Click **Show ACL Execution Plan** in the Related Links section.
 
     The security rules window appears for the ACL. The example displays the execution plan for "vtb\_task".
 
-    ![An ACL execution plan](../image/ACL_execution_plan.png)
+    ![An ACL execution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/ACL_execution_plan.png)
 
     |UI item|Description|
     |-------|-----------|

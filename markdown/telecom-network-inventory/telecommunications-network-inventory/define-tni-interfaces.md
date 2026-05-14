@@ -21,13 +21,13 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-Network interfaces are used for the interconnection of signaling, or for the Internet Protocol \(IP\) or ATM networks. When you create a network interface record, it creates a corresponding configuration item \(CI\) record in the Network Interface \[cmdb\_ci\_interface\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+Network interfaces are used for the interconnection of signaling, or for the Internet Protocol \(IP\) or ATM networks. When you create a network interface record, it creates a corresponding configuration item \(CI\) record in the Network Interface \[cmdb\_ci\_interface\] table. To learn more, see [Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/uses-for-network-inventory-data.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  From the list icon \(![List](../../tmt-assurance-workflows/image/lists_icon-proactive.png)\)\(, go to **Inventory** &gt; **Network Interfaces**.
+2.  From the list icon \(![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../tmt-assurance-workflows/image/lists_icon-proactive.png)\)\(, go to **Inventory** &gt; **Network Interfaces**.
 
 3.  Select **New**.
 
@@ -35,7 +35,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
     The fields in the following table are unique to the Network Interface form.
 
-    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](../reference/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/commonly-used-tni-identification-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -45,7 +45,7 @@ Network interfaces are used for the interconnection of signaling, or for the Int
 
     The following table lists the fields that are unique to the Configuration section.
 
-    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](../reference/commonly-used-tni-configuration-fields.md).
+    To learn about the remaining configuration fields that are common to most of the Inventory menu forms, see [Commonly used network asset instance configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/commonly-used-tni-configuration-fields.md).
 
 <table id="table_inq_wc2_wrb"><thead><tr><th>
 
@@ -121,7 +121,7 @@ Port Bandwidth
 
 </td><td>
 
-Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](../image/search.png)\) and select a bandwidth.
+Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a bandwidth.
 
 </td></tr><tr><td>
 
@@ -172,45 +172,45 @@ Optical wavelength of a port.
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/ci-attribue-form.md).
 
 8.  Click **Save**.
 
     The Telecommunications Network Inventory attribute fields are displayed on the Network Interface form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn’t appear when you reopen the CI record.
 
-9.  To add the attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+9.  To add the attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
-10. To view the Dependency views map, select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Dependency View**.
+10. To view the Dependency views map, select the more options icon \(![More Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) and then select **Dependency View**.
 
     The Dependency Views map graphically displays the CIs that support the specific network asset and the relationships between the CIs.
 
-11. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
+11. Select the more options icon \(![More Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record.
 
-    To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).
+    To learn more, see [Attribute pack for CI records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-pack-table-ci-record.md).
 
-12. Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
+12. Select the more options icon \(![More Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) and then select **Decommission** to decommission a CI record.
 
-    To learn more, see [Decommission an inventory record](decommision-an-inventory-record.md).
+    To learn more, see [Decommission an inventory record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decommision-an-inventory-record.md).
 
 13. Click **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
-14. To view the associated network inventories, click the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
+14. To view the associated network inventories, click the brick icon \(![Brick icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/infrastructure-relashionship.png)\).
 
     The Infrastructure Relationships section shows all the associated network inventories grouped by the individual network instances.
 
 
 ## What to do next
 
--   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+-   If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
--   To delete an inventory record, see [Delete a record](delete-inventory-record.md).
+-   To delete an inventory record, see [Delete a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/delete-inventory-record.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Modeling your workflow](../concept/telecommunications-network-inventory-workflow.md)
+[Modeling your workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-workflow.md)
 

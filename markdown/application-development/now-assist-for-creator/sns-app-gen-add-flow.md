@@ -22,7 +22,7 @@ Role required: now\_assist\_panel\_user
 
 **Note:** If you have users that only need to edit \(not create\) apps, they can be assigned the delegated\_developer or now\_assist\_panel\_user roles.
 
-To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](../../../administer/flow-designer/reference/flow-generation-landing.md).
+To add a flow to an application created using app generation, enable the Now Assist for Creator flow generation skill and confirm that you have a flow\_designer role. For more information, see [Flow generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../administer/flow-designer/reference/flow-generation-landing.md).
 
 ## About this task
 
@@ -36,11 +36,11 @@ Use the app generation skill to add one or more flows to a custom application wh
 
 2.  Select the Now Assist icon.
 
-    ![Now Assist highlighted in banner.](../images/app-generation-task-initiation-xsr2.png)
+    ![Now Assist highlighted in banner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-task-initiation-xsr2.png)
 
 3.  In the Now Assist panel, select **Update an app**.
 
-    ![Now Assist panel with update an app button highlighted.](../images/app-generation-task-update-app.png)
+    ![Now Assist panel with update an app button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-task-update-app.png)
 
 4.  Select the application to edit.
 
@@ -48,11 +48,11 @@ Use the app generation skill to add one or more flows to a custom application wh
 
 6.  Start the conversation and ask for a flow.
 
-    ![Now Assist panel with add a flow request highlighted.](../images/app-generation-add-flow1.png)
+    ![Now Assist panel with add a flow request highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-add-flow1.png)
 
 7.  Specify what you want or ask for suggestions.
 
-    ![Now Assist panel with flow details requested highlighted.](../images/app-generation-add-flow2.png)
+    ![Now Assist panel with flow details requested highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-add-flow2.png)
 
     For more information about flows, see [Exploring flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-flows.md).
 
@@ -60,8 +60,8 @@ Use the app generation skill to add one or more flows to a custom application wh
 
 9.  Preview and save the application to view the new flow.
 
-    For more information, see [Review and edit applications built using app generation](sns-app-gen-review-apps.md).
+    For more information, see [Review and edit applications built using app generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-app-gen-review-apps.md).
 
 
-**Parent Topic:**[Generate apps in ServiceNow Studio](sns-app-gen-using-landing.md)
+**Parent Topic:**[Generate apps in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-app-gen-using-landing.md)
 

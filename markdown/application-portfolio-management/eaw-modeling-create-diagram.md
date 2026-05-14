@@ -21,7 +21,7 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Modeling icon \(![Modeling](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Modeling icon \(![Modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Select **New**.
 
@@ -40,34 +40,34 @@ An empty diagram page gets created and opened in a new tab. You can add the shap
 
 You can add a shape to the canvas by either selecting the shape or by dragging the shape from the **Shapes** palette to the canvas.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Share a modeling diagram](eaw-modeling-share-diagram.md)
+[Share a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-share-diagram.md)
 
-[Save as a new version](eaw-modeling-save-as-new.md)
+[Save as a new version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-save-as-new.md)
 
-[Duplicate a modeling diagram](eaw-modeling-duplicate.md)
+[Duplicate a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-duplicate.md)
 
-[Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md)
+[Submit a modeling diagram for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-submit-for-approval.md)
 
-[Synchronize a shape to the database](eaw-modeling-sync-shape.md)
+[Synchronize a shape to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-shape.md)
 
-[Commit diagram changes](eaw-modeling-sync-diagram-servicenow.md)
+[Commit diagram changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-diagram-servicenow.md)
 
-[Add related records in the modeling diagram](eaw-modeling-add-related-records.md)
+[Add related records in the modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-add-related-records.md)
 
-[Delete a shape](eaw-modeling-delete-shape.md)
+[Delete a shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-delete-shape.md)
 
-[Working with business capability map](../../concept/eaw-concept/eaw-work-with-bc-map.md)
+[Working with business capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-bc-map.md)
 
-[Working with business hierarchy map](../../concept/eaw-concept/eaw-work-with-ba-map.md)
+[Working with business hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ba-map.md)
 
-[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+[Working with business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-bp-map.md)
 
-[Working with ArchiMate Shapes](../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
+[Working with ArchiMate Shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-archimate-shapes.md)
 
-[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+[Working with custom shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-working-custom-shapes.md)
 

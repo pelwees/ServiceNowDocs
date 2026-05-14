@@ -21,23 +21,23 @@ Create an Instance Data Replication
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about IDR features and concepts.](exploring-instance-data-replication.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about IDR features and concepts.](exploring-instance-data-replication.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure IDR.](configuring-instance-data-replication.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure IDR.](configuring-instance-data-replication.md)
 
 </td><td>
 
-[Replicate data![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Configure IDR replication sets and settings.](replicating-data.md)
+[Replicate data![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg)Configure IDR replication sets and settings.](replicating-data.md)
 
 </td></tr><tr><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-elevate.svg)Maintain and monitor IDR.](administering-instance-data-replication.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../../../reuse/icons/brand-icons/bus-elevate.svg)Maintain and monitor IDR.](administering-instance-data-replication.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about excluded tables, adapters, and data privacy in IDR.](reference-instance-data-replication.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about excluded tables, adapters, and data privacy in IDR.](reference-instance-data-replication.md)
 
 </td><td>
 

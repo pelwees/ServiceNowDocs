@@ -19,7 +19,7 @@ The Employee Center portal is a unified portal that helps connect systems across
 
 If you integrate GRC with the Employee Center, you can provide all employees an interface to perform the following tasks:
 
--   Quickly [report risk events](../../grc-risk/task/report-risk-event-from-employee-center.md).
+-   Quickly [report risk events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/task/report-risk-event-from-employee-center.md).
 -   Report an issue.
 -   Request a policy exception.
 -   Use **My tasks** to get a consolidated view of all your tasks and perform them immediately.
@@ -28,7 +28,7 @@ If you integrate GRC with the Employee Center, you can provide all employees an 
 
 The following images show you the user interface of the Employee Center.
 
-![Employee center with GRC items and tasks.](../image/employee-portal-with-grc.png "Employee center with GRC")
+![Employee center with GRC items and tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/employee-portal-with-grc.png "Employee center with GRC")
 
-![GRC tasks for the users on the Employee Center.](../image/grc-tasks-on-employee-center.png "GRC tasks on the Employee Center")
+![GRC tasks for the users on the Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/grc-tasks-on-employee-center.png "GRC tasks on the Employee Center")
 

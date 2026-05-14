@@ -28,13 +28,13 @@ EVAM consists of the following components:
 
 ## EVAM and Multi-table data configuration
 
-The EVAM is an option for users who understand and are comfortable working with JSON. The multi-table data configuration option is an alternative that gives you greater control over the presentation of data, makes it easier to configure the data, and enables you to remain in UI Builder. Use the option that you prefer. For more information, see [Multi-table data configuration](multi-source-data-configuration.md).
+The EVAM is an option for users who understand and are comfortable working with JSON. The multi-table data configuration option is an alternative that gives you greater control over the presentation of data, makes it easier to configure the data, and enables you to remain in UI Builder. Use the option that you prefer. For more information, see [Multi-table data configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/multi-source-data-configuration.md).
 
 ## EVAM data sources
 
 You add EVAM data sources in UI Builder and bind them to a component.
 
-![EVAM data resources in the select a data resource modal.](../image/evam-data-sources.png "EVAM data resources")
+![EVAM data resources in the select a data resource modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/evam-data-sources.png "EVAM data resources")
 
 <table id="table_dz2_1g4_d4b"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Add an EVAM definition and other information about the data source. -   Type: Co
 
  In the **Now Code Editor** section, which is next to the Configuration pane, preview the EVAM definition script.
 
- ![EVAM Data Resource Configuration.](../image/EVAM-Data-Resource-Sample.png "EVAM Data Resource configuration")
+ ![EVAM Data Resource Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/EVAM-Data-Resource-Sample.png "EVAM Data Resource configuration")
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ To add an EVAM definition and other information about the data source, select **
 
  Preview the EVAM definition script in the **Now Code Editor** to the right of the Configuration pane.
 
-![Fetch EVAM Data source configuration.](../image/evam-fetch-data.png)
+![Fetch EVAM Data source configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/evam-fetch-data.png)
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ To select when to evaluate the EVAM data resource and add an EVAM definition, se
 
  Preview the EVAM definition script in the **Now Code Editor** to the right of the Configuration pane.
 
-![Fetch EVAM Metadata configuration.](../image/evam-fetch-metadata.png)
+![Fetch EVAM Metadata configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/evam-fetch-metadata.png)
 
 </td></tr><tr><td>
 
@@ -120,11 +120,11 @@ To add an EVAM definition, and other information about the data source, select *
 
  Preview the EVAM definition script in the **Now Code Editor** to the right of the Configuration pane.
 
-![Search EVAM Data resource configuration.](../image/evam-search-data-resource.png)
+![Search EVAM Data resource configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/evam-search-data-resource.png)
 
 </td></tr></tbody>
-</table>-   **[Add an Entity View Action Mapper data resource to a page](../task/evam-working.md)**  
+</table>-   **[Add an Entity View Action Mapper data resource to a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/evam-working.md)**  
 Add an Entity View Action Mapper \(EVAM\) data resource to your page in UI Builder so that you can standardize how the data sources in your components are displayed in your cards and lists.
 
-**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](data-resources.md)
+**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/data-resources.md)
 

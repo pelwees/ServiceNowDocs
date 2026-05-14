@@ -28,8 +28,8 @@ Tagging methods: Users can tag records with functional domains using two methods
 
     The following image shows the functional domain screen. The numbers in red against the tables indicate the number of records that do not have any functional domain assigned to them.
 
-    ![The figure displays the functional domain screen where users can update functional domains for multiple records](../image/functional-domain-bulk-update.png "Functional domain bulk update")
+    ![The figure displays the functional domain screen where users can update functional domains for multiple records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/functional-domain-bulk-update.png "Functional domain bulk update")
 
 
-**Parent Topic:**[Tagging records with functional domain](tagging-records-with-functional-domain.md)
+**Parent Topic:**[Tagging records with functional domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tagging-records-with-functional-domain.md)
 

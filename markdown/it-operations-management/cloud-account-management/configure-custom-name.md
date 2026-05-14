@@ -25,7 +25,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 2.  From the list of titles, search for the Cloud Account Management and double-click on the name to make the modification.
 
-3.  Enter a custom name and select the check ![check icon](../../agent-client-collector/image/check-icon.png)mark.
+3.  Enter a custom name and select the check ![check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../agent-client-collector/image/check-icon.png)mark.
 
 4.  Re-login to see the change.
 

@@ -112,10 +112,10 @@ Folder
 Name of the Lucid folder. Select the folder where you want to save the diagram. When you select a folder, its sub folders are displayed.**Note:** This field appears only when you select Lucidchart in the Diagramming tool field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-lucid-diagram-ba.md)
 

@@ -17,9 +17,9 @@ To update or change an existing flow for an app you built in App Engine Studio \
 
 ## Before you begin
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
-Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](../concept/add-automation.md).
+Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-automation.md).
 
 ## Procedure
 
@@ -27,11 +27,11 @@ Add logic and automation to your application. If you created an application usin
 
 2.  From the My Apps page, open your application.
 
-3.  Next to a flow, select the menu icon \(![Menu icon](../image/menu-icon-purple.png)\) and then select **Edit**.
+3.  Next to a flow, select the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\) and then select **Edit**.
 
-    ![Select to edit a flow](../image/aes-edit-flow-purple.png "Edit a flow")
+    ![Select to edit a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-edit-flow-purple.png "Edit a flow")
 
-    **Note:** When a flow is triggered by a record being created or updated in a data table, it's referred to as a record-based flow. Record-based flows display in the list of logic and automation with a distinct icon \(![Record-based flow.](../image/record-flow-icon.png)\). These flows open up within the **Flows** tab in Table Builder if you are licensed for Table Builder for App Engine and have it installed. Contact your account team for details. For more information on flows functionality in Table Builder, see [Flows in Table Builder](../../../administer/form-builder/concept/flows-tb.md#).
+    **Note:** When a flow is triggered by a record being created or updated in a data table, it's referred to as a record-based flow. Record-based flows display in the list of logic and automation with a distinct icon \(![Record-based flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/record-flow-icon.png)\). These flows open up within the **Flows** tab in Table Builder if you are licensed for Table Builder for App Engine and have it installed. Contact your account team for details. For more information on flows functionality in Table Builder, see [Flows in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/concept/flows-tb.md#).
 
 4.  Take the appropriate actions to edit the flow.
 
@@ -77,5 +77,5 @@ In your flow, select the plus icon in the ACTION section, then proceed as you wo
 
 Test a flow to make certain it works the way you expect. For more information on testing flows, see [Test a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md).
 
-**Parent Topic:**[Add a flow from scratch](create-scratch-flow.md)
+**Parent Topic:**[Add a flow from scratch](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/create-scratch-flow.md)
 

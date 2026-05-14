@@ -17,9 +17,9 @@ View a knowledge article in Microsoft Word, including the article number, short 
 
 ## Before you begin
 
--   Ensure that the administrator has configured the Knowledge Management - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](configure-km-add-in-word.md).\)
+-   Ensure that the administrator has configured the Knowledge Management - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
 
--   You must have logged in to your ServiceNow instance from the Word Online application. For more information, see [Log in to your ServiceNow instance for authoring knowledge articles in Microsoft Word](authenticate-article-word.md).
+-   You must have logged in to your ServiceNow instance from the Word Online application. For more information, see [Log in to your ServiceNow instance for authoring knowledge articles in Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/authenticate-article-word.md).
 
 -   You must have read access to the knowledge article.
 -   You must have signed in to your Office 365 account.
@@ -32,7 +32,7 @@ View a knowledge article in Microsoft Word, including the article number, short 
 
 2.  In the New section, click **New blank document**, or open any existing Microsoft Word document.
 
-3.  On the Home tab of the Word document, click the Knowledge icon \(![Knowledge icon](../image/word-addin.png)\).
+3.  On the Home tab of the Word document, click the Knowledge icon \(![Knowledge icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/word-addin.png)\).
 
 4.  Access the article in the Knowledge Management pane of the Word document.
 
@@ -40,7 +40,7 @@ View a knowledge article in Microsoft Word, including the article number, short 
     -   In the Knowledge Management pane, click a knowledge base to view a list of knowledge articles within the knowledge base. All knowledge bases and associated knowledge articles for which you have contribute or read access appear in the Knowledge Management pane
 5.  In the Knowledge Management pane, click the link to the knowledge article that you want to view.
 
-    **Tip:** To go back to the previous view in the Knowledge Management pane, click the left caret icon \(![Left caret icon](../image/word-back.png)\). To go back to the landing screen, click the home icon \(![Home icon](../image/word-home.png)\).
+    **Tip:** To go back to the previous view in the Knowledge Management pane, click the left caret icon \(![Left caret icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/word-back.png)\). To go back to the landing screen, click the home icon \(![Home icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/word-home.png)\).
 
 
 ## Result
@@ -91,7 +91,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they are associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it is automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](../concept/enable-ownership-group.md).
+Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they are associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it is automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -138,11 +138,11 @@ Valid to
 
 </td><td>
 
-The date this knowledge article expires. Articles do not appear in search results after the **Valid to** date or if the **Valid to** date is blank. The default value of the **Valid to** field is derived from the **Article Validity** field configured for the knowledge base \(see [Create a knowledge base](create-a-knowledgebase.md)\). The **Valid to** date starts from the date the article was created until the number of days specified in the **Article Validity** field. If the **Article Validity** field is blank, the default date in the **Valid to** field for the knowledge article is set to January 1, 2100.
+The date this knowledge article expires. Articles do not appear in search results after the **Valid to** date or if the **Valid to** date is blank. The default value of the **Valid to** field is derived from the **Article Validity** field configured for the knowledge base \(see [Create a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-a-knowledgebase.md)\). The **Valid to** date starts from the date the article was created until the number of days specified in the **Article Validity** field. If the **Article Validity** field is blank, the default date in the **Valid to** field for the knowledge article is set to January 1, 2100.
 
  An article author or editor can select whether to keep or change the default **Valid to** date.
 
- On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are about to expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](../concept/email-notifications-km.md).
+ On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are about to expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/email-notifications-km.md).
 
  **Note:** If the system date format or user preferences are set to use the `yy` year format, you might face issues when the **Valid to** date is set to the default date. Contact your system administrator or modify the user preferences to use a date format with the `yyyy` year format. For more information, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_FormatDateAndTimeFields.md) and [Personalize the system date format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_PersonalizeTheSystemDateFormat.md) topics.
 
@@ -152,13 +152,13 @@ Scheduled publish date
 
 </td><td>
 
-Future date when the knowledge article will be published automatically. For more information, see [Schedule a knowledge article for publishing in Microsoft Word](schedule-article-publishing-word.md).
+Future date when the knowledge article will be published automatically. For more information, see [Schedule a knowledge article for publishing in Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/schedule-article-publishing-word.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Create a knowledge article in Microsoft Word](create-article-word.md)
+[Create a knowledge article in Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-word.md)
 
-[Edit a knowledge article in Microsoft Word](edit-article-word.md)
+[Edit a knowledge article in Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-word.md)
 

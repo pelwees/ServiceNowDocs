@@ -65,5 +65,5 @@ Procedure
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md)
 

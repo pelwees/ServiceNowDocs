@@ -32,5 +32,5 @@ Role required: admin
 3.  Select **Install**.
 
 
-**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md)
+**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-ra.md)
 

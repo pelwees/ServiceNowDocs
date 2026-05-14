@@ -19,15 +19,15 @@ Healthcare Operations Core provides the foundation to enable hospitals to stream
 
 <table id="table_htd_hhb_qcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about the benefits of Healthcare Operations Core and how it's used.](hcls-cto-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about the benefits of Healthcare Operations Core and how it's used.](hcls-cto-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Healthcare Operations Core and configure your environment.](hcls-cto-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Healthcare Operations Core and configure your environment.](hcls-cto-configuring.md)
 
 </td><td>
 
-[Portal![](../../../reuse/icons/brand-icons/bus-service-portal.svg)Create operational support requests and gain visibility across your teams.](hcls-cto-using-portal.md)
+[Portal![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../../../reuse/icons/brand-icons/bus-service-portal.svg)Create operational support requests and gain visibility across your teams.](hcls-cto-using-portal.md)
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ Healthcare Operations Core provides the foundation to enable hospitals to stream
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Healthcare Operations Core components such as fields, tables, and properties.](hcls-cto-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Healthcare Operations Core components such as fields, tables, and properties.](hcls-cto-reference.md)
 
 </td><td>
 

@@ -22,7 +22,7 @@ Domain separation is unsupported in Communities. Domain separation enables you t
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Exploring Communities](exploring-communities.md)
+**Parent Topic:**[Exploring Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/exploring-communities.md)
 
 **Related topics**  
 

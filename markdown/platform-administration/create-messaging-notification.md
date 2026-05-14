@@ -25,7 +25,7 @@ Role required: admin
 
 3.  Fill in or modify the fields as appropriate.
 
-    ![Messaging notification form showing Name, Table, Category, and Description fields](../image/email-notification-form.png)
+    ![Messaging notification form showing Name, Table, Category, and Description fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-notification-form.png)
 
 <table id="table_tlr_5hd_rdb"><thead><tr><th>
 
@@ -76,7 +76,7 @@ Enter a description for this notification.
 
 5.  Open the **When to send** tab and complete the form.
 
-    ![When to send tab showing Send when, Weight, Conditions, and Advanced condition fields](../image/when-to-send-tab.png)
+    ![When to send tab showing Send when, Weight, Conditions, and Advanced condition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/when-to-send-tab.png)
 
     **Note:** If the same trigger generates multiple notifications, the system only sends one notification. The system considers all other notifications, even if they have a different subject and body, as duplicates. The Ignore Duplicates business rule controls this functionality.
 
@@ -145,7 +145,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing system properties. [The advanced condition](../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing system properties. [The advanced condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
  The advanced condition script uses the following global variables:
 
@@ -232,5 +232,5 @@ Select this check box if the event parameter 2 contains one or more notification
 8.  Click **Update**.
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/messaging-integration.md)
 

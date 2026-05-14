@@ -19,16 +19,16 @@ Pull Workday tasks or to-dos on regular scheduled basis or on manual basis for p
 
 -   Activate the HR Service Delivery Integration with Workday application from ServiceNow Store. This automatically activates the Workday HR Spoke.
 -   Set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/workday-hr-spoke.md) [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/workday-hr-spoke.md) .
--   Activate the HR Service Delivery Integrations Framework from ServiceNow Store. HR Service Delivery Integration with Workday uses Enterprise Service Management Integrations Framework to pull tasks from Workday into ServiceNow. For more information on HR Service Delivery Integrations Framework, see [Enterprise Service Management Integrations Framework](hr-integrations-framework.md).
+-   Activate the HR Service Delivery Integrations Framework from ServiceNow Store. HR Service Delivery Integration with Workday uses Enterprise Service Management Integrations Framework to pull tasks from Workday into ServiceNow. For more information on HR Service Delivery Integrations Framework, see [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md).
 
 
 ## To-dos settings
 
-Store one-time configuration parameters for pulling tasks from Workday into ServiceNow. For more information, see [Configure Workday to-dos](../task/config-w.md).
+Store one-time configuration parameters for pulling tasks from Workday into ServiceNow. For more information, see [Configure Workday to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/config-w.md).
 
 **Note:** The **HRSD Framework Integration** and **HRSD Integration Framework Complete** to-dos configurations help to display Workday tasks in the To-dos page in Employee Center. For more information on these to-dos configurations, navigate to **Employee Center** &gt; **To-dos Configuration**.
 
 ## Schedule flow activation
 
-Activate and run the schedule flow that pulls tasks into ServiceNow. For more information, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Activate and run the schedule flow that pulls tasks into ServiceNow. For more information, see [Activating schedule flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/activate-w-schedule-flow.md).
 

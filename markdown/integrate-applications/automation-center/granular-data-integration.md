@@ -25,7 +25,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Automation Attributes**.
 
@@ -35,7 +35,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 5.  From the ellipses on the right top, select **Enable Granular Integration**.
 
-    ![Enable granular integration](../images/granular-intg.png)
+    ![Enable granular integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/granular-intg.png)
 
     A confirmation message is displayed.
 
@@ -47,7 +47,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
     A window is displayed enabling you to add queues.
 
-    ![Add queues](../images/add-queues.png)
+    ![Add queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/add-queues.png)
 
 8.  Provide the details.
 
@@ -107,5 +107,5 @@ Specify the time that is saved per work item.
     The queue remains, however, granular data integration isn’t used to calculate the time and cost saved.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

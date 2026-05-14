@@ -21,11 +21,11 @@ After upgrading to version 22.0.1 and installing the Unified Content Management 
 
 TPR managers can use this library to activate and update ready-to-use questionnaires aligned with global regulations and industry standards, helping ensure consistent and comprehensive assessments.
 
-![Access Your smart assessment templates.](../../grc-vendor-risk/image/tprm-ws-ucm-page.png)
+![Access Your smart assessment templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/image/tprm-ws-ucm-page.png)
 
-For more information, see [Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md) and [TPRM Unified content management page](tprm-ws-ucm-page.md).
+For more information, see [Viewing third-party risk reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/unified-vrm-workspace.md) and [TPRM Unified content management page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-ucm-page.md).
 
-For a list of questionnaires that are provided as part of the base system, see [Sample questionnaires](../reference/tprm-questionnaire-types.md).
+For a list of questionnaires that are provided as part of the base system, see [Sample questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-questionnaire-types.md).
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/unified-vrm-workspace.md)
 

@@ -45,14 +45,14 @@ After you convert the application, it can't receive updates from the application
 
     -   If the installed version of the application is equal to the latest version that is published to the Application Repository, you see the following dialog:
 
-        ![Convert installed app dialog is displayed.](../image/convert_dialog.png)
+        ![Convert installed app dialog is displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/convert_dialog.png)
 
     -   If the installed version of the application is lower than the latest version that is published to the Application Repository, you see the following warning:
-        -   ![Version warning is displayed.](../image/warning.png)
+        -   ![Version warning is displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/warning.png)
 
         -   If an instance is connected to a self-hosted application repository, you may see this warning regardless of the availability of a higher version in the repository. Check your repository to ensure that the development version that you require is installed in this case.
     -   After the successful conversion, the following message is displayed:
-        -   ![Successful conversion message.](../image/convert-success.png)
+        -   ![Successful conversion message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/convert-success.png)
 
         -   Close the window to be redirected to the development application form.
 

@@ -21,7 +21,7 @@ To understand how a user hierarchy works, let's look at the following example. U
 
 Let's see another example of a manager and a user hierarchy.
 
-![Managers and their users' hierarchy.](../image/manager-user-hierarchy.png "Manager and user hierarchy")
+![Managers and their users' hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/manager-user-hierarchy.png "Manager and user hierarchy")
 
 In this example, the sales manager can see the data that the sales team has submitted. The VP of sales can see the data or reports that are submitted by the sales managers and the sales team.
 
@@ -84,7 +84,7 @@ The following tables are used to support the user hierarchy functionality.
 
 The User hierarchy configuration module is displayed in your instance only after you enable the user hierarchy properties. The User hierarchy configuration module, which is shown in the following example, lists the tables on which you have enabled the user hierarchy functionality.
 
-![User hierarchy configuration module.](../image/user-hierarchy-configuration.png "User hierarchy configuration module")
+![User hierarchy configuration module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/user-hierarchy-configuration.png "User hierarchy configuration module")
 
 Access control lists \(ACLs\): By default, a few access control lists are shipped with the GRC application, and they are stored in the sys\_security\_acl table. You can define a filter condition to check if the user hierarchy access control is enabled. You can create your own access control lists depending on your configuration and requirements.
 
@@ -92,8 +92,8 @@ For information on how to configure the user hierarchy access control on your cu
 
 **Note:** You must log in to Now Support to view the Knowledge Base articles.
 
--   **[Create a user hierarchy configuration record](../task/configure-a-new-user-hierarchy-configuration-record.md)**  
+-   **[Create a user hierarchy configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/configure-a-new-user-hierarchy-configuration-record.md)**  
 Create a user hierarchy configuration record for a table so that you can enable your managers to view the records of the users who report to them.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

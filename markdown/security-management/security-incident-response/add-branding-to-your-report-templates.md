@@ -132,5 +132,5 @@ Select a footer text position for the branding template. You can choose **Top le
     A new branding template is created under the Branding Templates page.
 
 
-**Parent Topic:**[Create a Report Template](create-report-template.md)
+**Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 

@@ -17,7 +17,7 @@ Clone existing tasks to quickly create new tasks.
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -36,7 +36,7 @@ In the cloning process, the following information is copied from the source task
 
 1.  Open the task from the related list in a work order.
 
-2.  Select the **Clone Task** related link.![Work order task page with the clone task link highlighted.](../../field-service-management/image/clone-work-order-task.png)
+2.  Select the **Clone Task** related link.![Work order task page with the clone task link highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/clone-work-order-task.png)
 
     This creates a new task in **Draft** state.
 

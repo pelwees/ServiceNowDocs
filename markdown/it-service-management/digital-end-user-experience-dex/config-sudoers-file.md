@@ -82,5 +82,5 @@ Role required: admin
     List all allowed commands confirming the rules are active.
 
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/installing-dex-local.md)
 

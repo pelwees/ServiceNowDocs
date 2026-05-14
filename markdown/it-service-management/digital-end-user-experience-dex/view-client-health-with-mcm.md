@@ -19,14 +19,14 @@ View client health metrics with the Microsoft Configuration Manager \(MCM\) appl
 
 -   Add or enable MCM for monitoring.
 
-    For more details, see [Add an application for monitoring](add-new-application.md).
+    For more details, see [Add an application for monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-new-application.md).
 
 -   Configure Advanced monitoring for MCM.
 
-    For more details, see [Enable application monitoring](enable-app-monitor.md).
+    For more details, see [Enable application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-app-monitor.md).
 
 
-[Enable application monitoring](enable-app-monitor.md).
+[Enable application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-app-monitor.md).
 
 Role required: admin
 
@@ -34,12 +34,12 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](../image/icon-applications.png)\).
+2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-applications.png)\).
 
 3.  Select **Microsoft Configuration Manager \(MCM\)**.
 
 4.  Select **Client health**.
 
-    For more information, see [Installed application — Client health page](../reference/installed-application-client-health-page.md).
+    For more information, see [Installed application — Client health page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/installed-application-client-health-page.md).
 
 

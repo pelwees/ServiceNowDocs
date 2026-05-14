@@ -29,7 +29,7 @@ From the process details page, you can do the following:
 
 When you mine and open a project, Analyst workbench opens.
 
-![Overview panel](../image/project-view-screen-annotated2.png)
+![Overview panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/project-view-screen-annotated2.png)
 
 The project's overview panel displays the following overview details and brief context menu.
 
@@ -63,15 +63,15 @@ Menu icon \(...\)
 
 Access the menu for additional options:-   **Edit project**
 
-Select this option to edit the current project. For more information, see [Create a project or template using Project Builder](../task/define-workflow-model.md).
+Select this option to edit the current project. For more information, see [Create a project or template using Project Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/define-workflow-model.md).
 
 -   **Edit Versions**
 
-Select this option to change the name of a project version. For more information, see [Change a project version name](edit-version-name.md).
+Select this option to change the name of a project version. For more information, see [Change a project version name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/edit-version-name.md).
 
 -   **Create CIM**
 
-Select this option to create a new improvement initiative. For more information, see [Create an improvement initiative from Process Mining](../task/create-improvement-initiative.md#).
+Select this option to create a new improvement initiative. For more information, see [Create an improvement initiative from Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/create-improvement-initiative.md#).
 
 
 </td></tr></tbody>
@@ -93,7 +93,7 @@ Summary and Insights tab
 
 </td><td>
 
-See business goals, summary insights for your key performance indicators, transitions, and route variation. For more information, see e[Summary and insights page](summary-insights-dashboard.md).
+See business goals, summary insights for your key performance indicators, transitions, and route variation. For more information, see e[Summary and insights page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/summary-insights-dashboard.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Analyst workbench tab
 Select this tab to access the following:-   **Breakdowns** tab: Create and delete filter sets, and set advanced filter conditions.
 -   **Variants** tab: View the routes distributed over the records in the data set.
 
-For more information, see [Analyst workbench page](analyst-workbench-dashboard.md).
+For more information, see [Analyst workbench page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-dashboard.md).
 
 </td></tr><tr><td>
 
@@ -214,20 +214,20 @@ The notes, initiatives, and scheduled tasks panel provides tools for creating an
 
 |UI element|Description|
 |----------|-----------|
-|Model options icon \(![Model options icon](../image/model-options-icon.png)\)|View and use of the bottleneck analysis.|
-|Global metrics icon \(![Global metrics icon](../image/global-met-icon.png)\)|View the primary and secondary metrics.|
-|Notes icon![Notes icon](../image/notes-icon.png)|View the notes list, create a note, and edit or delete a note.|
-|Improvement initiatives icon \(![Initiatives icon](../image/improve-initiative-icon.png)\)|View the initiatives list, create a new initiative, link to an existing initiative, or remove an initiative.|
-|Scheduled tasks icon \(![Scheduled tasks icon](../image/scheduled-tasks-icon.png)\)|View the status of scheduled mining, filtering, and requested cluster analysis tasks.|
+|Model options icon \(![Model options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/model-options-icon.png)\)|View and use of the bottleneck analysis.|
+|Global metrics icon \(![Global metrics icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/global-met-icon.png)\)|View the primary and secondary metrics.|
+|Notes icon![Notes icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/notes-icon.png)|View the notes list, create a note, and edit or delete a note.|
+|Improvement initiatives icon \(![Initiatives icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/improve-initiative-icon.png)\)|View the initiatives list, create a new initiative, link to an existing initiative, or remove an initiative.|
+|Scheduled tasks icon \(![Scheduled tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/scheduled-tasks-icon.png)\)|View the status of scheduled mining, filtering, and requested cluster analysis tasks.|
 
--   **[Summary and insights page](summary-insights-dashboard.md)**  
+-   **[Summary and insights page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/summary-insights-dashboard.md)**  
 The Summary and insights page enables you to view opportunities for optimizing your process. Access the page from a Process Mining project.
--   **[Opportunity details page](opportunity-details.md)**  
+-   **[Opportunity details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/opportunity-details.md)**  
 The Opportunity details page displays details about the improvement opportunities for a project. Access the page from a Process Mining project.
--   **[Analyst workbench page](analyst-workbench-dashboard.md)**  
+-   **[Analyst workbench page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-dashboard.md)**  
 View the visualized process map with tools for managing visualizations and performing analysis tasks from a project's page.
--   **[KPI dashboard page](kpi-dashboard.md)**  
+-   **[KPI dashboard page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/kpi-dashboard.md)**  
 On the **KPI dashboard** page, see any KPI dashboard that you have configured for your project.
 
-**Parent Topic:**[Process Mining workspace](analyst-workbench-overview.md)
+**Parent Topic:**[Process Mining workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-overview.md)
 

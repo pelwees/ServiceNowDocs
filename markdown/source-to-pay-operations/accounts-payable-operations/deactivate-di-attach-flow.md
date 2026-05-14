@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Search for and open the copied version of the **Invoice attachment DI processing** flow.
 
-    ![Invoice attachment DI processing](../image/apo-di-deacticate-flow.png)
+    ![Invoice attachment DI processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-di-deacticate-flow.png)
 
 3.  Select **Deactivate**.
 
@@ -37,7 +37,7 @@ The Invoice attachment DI processing flow is deactivated.
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](../concept/acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/acc-pay-invoice-processing.md)
 
-[Accounts Payable Operations integration with Document Intelligence](../concept/apo-docintel-integration.md)
+[Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/apo-docintel-integration.md)
 

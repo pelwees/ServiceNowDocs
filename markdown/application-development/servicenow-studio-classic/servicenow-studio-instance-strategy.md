@@ -31,5 +31,5 @@ After you have established your instance strategy, you must also complete the fo
 2.  Decide which non-production environment ServiceNow Studio will run on. Because ServiceNow Studio is a product that runs on your non-production environment, you need to select one to run it on.
 3.  Determine which method to use for promoting apps from a particular non-production instance to your test instance, and then finally to production where the app will be running live. You can deploy apps using update sets, pipelines, or the Application Repository in ServiceNow Studio.
 
-**Parent Topic:**[Installing ServiceNow Studio](installing-servicenow-studio.md)
+**Parent Topic:**[Installing ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/installing-servicenow-studio.md)
 

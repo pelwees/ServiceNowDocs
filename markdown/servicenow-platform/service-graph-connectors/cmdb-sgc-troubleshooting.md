@@ -37,7 +37,7 @@ You can use the prebuilt conversations to debug and resolve the following types 
     The virtual agent suggests you to review mappings for input and output fields using the IntegrationHub ETL store app.
 
 
-**Parent Topic:**[Service Graph Connector Support Tools](cmdb-sgc-support-tools.md)
+**Parent Topic:**[Service Graph Connector Support Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-support-tools.md)
 
 ## Resolve a Service Graph Connector issue
 
@@ -45,7 +45,7 @@ Resolve the Service Graph Connector issues or perform a general analysis using t
 
 ### Before you begin
 
-[Install Service Graph Connector Support Tools](../task/sgc-cmdb-troubleshooting-install.md)
+[Install Service Graph Connector Support Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../task/sgc-cmdb-troubleshooting-install.md)
 
 Role required: admin
 

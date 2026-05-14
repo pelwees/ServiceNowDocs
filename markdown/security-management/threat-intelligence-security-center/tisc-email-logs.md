@@ -50,12 +50,12 @@ As an admin, you can create, view, and edit the notifications in the classic UI.
 
 
 
-![Email Logs selected](../image/tisc-email-logs.png)
+![Email Logs selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-email-logs.png)
 
-**Parent Topic:**[Manage email Notifications](tisc-notifications.md)
+**Parent Topic:**[Manage email Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-notifications.md)
 
 **Related topics**  
 
 
-[Email Notifications](tisc-email-notifications.md)
+[Email Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-email-notifications.md)
 

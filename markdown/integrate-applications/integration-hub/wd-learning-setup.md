@@ -145,7 +145,7 @@ Role required: admin
 
 7.  Click **Allow**.
 
-    ![Authorize Workday.](../image/wd-learning-enable.png)
+    ![Authorize Workday.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wd-learning-enable.png)
 
 
 ## Configure the Workday reports

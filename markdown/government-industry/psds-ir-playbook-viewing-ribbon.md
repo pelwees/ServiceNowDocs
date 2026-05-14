@@ -13,7 +13,7 @@ breadcrumb: [Using the contextual side panel, Using Information Request Playbook
 
 You can view the information about the ribbon in the contextual side panel in CSM Configurable Workspace. The ribbon displays the important information about the case, such as the information request record information, constituent contact details, and the case timeline.
 
-Select the record information icon \(![Record information icon.](../../customer-service-management/image/contextual-side-panel-record-info.jpg)\) in the contextual side panel to view the information about the ribbon.
+Select the record information icon \(![Record information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../customer-service-management/image/contextual-side-panel-record-info.jpg)\) in the contextual side panel to view the information about the ribbon.
 
 You can see the information about the fields in the contextual side panel in the following table.
 

@@ -15,10 +15,10 @@ You can schedule assessments for preconfigured users or send them to any user on
 
 On-demand assessments require less setup. Scheduled assessments define users, or stakeholders, who have specific knowledge of the records being evaluated, and automatically send out assessment questionnaires to those users at scheduled intervals. The best practice is to configure an on-demand assessment first to familiarize yourself with the process and test your questionnaires. When you are satisfied with your categories and questions, reconfigure for a scheduled assessment. These configuration paths are the easiest for both assessment types. Refer to Key Terms for definitions of the terms used in these procedures.
 
-**Parent Topic:**[Scheduled assessments](c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[Assessments](../reference/r_Assessments.md)
+[Assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_Assessments.md)
 

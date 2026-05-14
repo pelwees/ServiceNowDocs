@@ -31,14 +31,14 @@ Role required: admin, activity\_admin, activity\_creator
 
     -   Copy into global scope as new activity: Copies the activity with the new name you provide, uses the same version number as the original activity, and moves it to the global scope in the **Custom** tab.
 
-        ![Naming an activity copy](../image/CopyCustomActivity.png "Naming an activity copy")
+        ![Naming an activity copy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/CopyCustomActivity.png "Naming an activity copy")
 
     -   Copy into global scope as new version: Copies the activity using the same name, increments the version number, and moves it to the global scope in the **Custom** tab. The system automatically adds the parent category to the **Custom** tab if it does not already exist. This action will overwrite another activity with the same name and version number.
 
-        ![Creating a new activity version](../image/NewVersionCustomActivity.png "Creating a new activity version")
+        ![Creating a new activity version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/NewVersionCustomActivity.png "Creating a new activity version")
 
     **Note:** If the activity is in any other scope but global, the system displays this message: `Cannot copy privately scoped activity`.
 
 
-**Parent Topic:**[Orchestration activity designer](../concept/c_WorkflowActivityDesigner.md)
+**Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_WorkflowActivityDesigner.md)
 

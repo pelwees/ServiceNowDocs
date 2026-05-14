@@ -19,7 +19,7 @@ View a complete list of the product subscriptions purchased for your current ins
 -   Plan for future purchases and keep subscriptions current by monitoring the start and end dates for each of your product subscriptions.
 -   Stay in compliance by monitoring the subscription allocation values in the **Status** column.
 
-![All product subscriptions on the current instance.](../image/subscription-management-instance-level.png "Instance-level entitlements")
+![All product subscriptions on the current instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/subscription-management-instance-level.png "Instance-level entitlements")
 
 ## Accessing your instance-level entitlements
 

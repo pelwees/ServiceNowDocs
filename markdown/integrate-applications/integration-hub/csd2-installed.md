@@ -15,7 +15,7 @@ breadcrumb: [Client Software Distribution 2.0 application, Integration Hub solut
 
 Several types of components are installed with the CSD 2.0 application.
 
-**Parent Topic:**[Client Software Distribution 2.0 application](../concept/csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd-app-2.md)
 
 ## Tables installed
 

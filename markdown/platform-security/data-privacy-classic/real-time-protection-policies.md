@@ -29,7 +29,7 @@ Role required: data\_privacy\_admin
 
 2.  Select **Create new policy.**
 
-    **Note:** In order to create real time protection polices, you must first create at least one[alert data pattern](../concept/alert-data-patterns.md).
+    **Note:** In order to create real time protection polices, you must first create at least one[alert data pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../concept/alert-data-patterns.md).
 
 3.  Fill in the fields on the form:
 
@@ -81,7 +81,7 @@ Alert data pattern
 
 </td><td>
 
-Select the data pattern that defines what sensitive data to detect. **Note:** You can create [Alert data patterns](../concept/alert-data-patterns.md) if none exist.
+Select the data pattern that defines what sensitive data to detect. **Note:** You can create [Alert data patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../concept/alert-data-patterns.md) if none exist.
 
 </td></tr><tr><td>
 
@@ -105,6 +105,6 @@ The protection policies you create show in the main view. You can edit or delete
 
 |Button|Description|
 |------|-----------|
-|View logs|View the top 100 activity logs that contain the most sensitive data from the last month. For more information, refer to [User sensitive data logs](user-sensitive-data-logs.md) for more information.|
+|View logs|View the top 100 activity logs that contain the most sensitive data from the last month. For more information, refer to [User sensitive data logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/user-sensitive-data-logs.md) for more information.|
 |View details|View the configuration of the protection policy. You can also toggle the **Active** button to turn the policy on or off.|
 

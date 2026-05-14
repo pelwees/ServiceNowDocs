@@ -60,5 +60,5 @@ Familiarize yourself with the key terms and concepts to work with CMDB success a
     A ServiceNow feature that defines which integration source has authority \(ownership\) over each CI attribute.
 
 
-**Parent Topic:**[CMDB success advisor reference](cmdb-sa-reference.md)
+**Parent Topic:**[CMDB success advisor reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-reference.md)
 

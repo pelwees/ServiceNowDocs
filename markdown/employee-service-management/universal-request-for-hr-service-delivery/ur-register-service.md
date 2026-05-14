@@ -40,5 +40,5 @@ Service categorizes the application according to the area of the work within the
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/config-service-for-ur.md)
 

@@ -37,7 +37,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
     -   Sandbox Submission
     -   Sighting Search
     -   Threat Lookup
-    ![Selected capabilities](../images/capability-details.png)
+    ![Selected capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../images/capability-details.png)
 
 2.  Select **Save changes**.
 

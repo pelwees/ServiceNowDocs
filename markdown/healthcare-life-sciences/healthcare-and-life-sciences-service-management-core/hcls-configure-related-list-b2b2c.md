@@ -17,7 +17,7 @@ Configure the account consumer related list to add account consumers for use wit
 
 ## Before you begin
 
-The Customer Data Models for B2B2C plugin must be installed. For more information, see [Install the Customer Data Models for B2B2C plugin for Healthcare and Life Sciences Service Management Core](hcls-install-customer-data-models-b2b2c-plugin.md).
+The Customer Data Models for B2B2C plugin must be installed. For more information, see [Install the Customer Data Models for B2B2C plugin for Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-install-customer-data-models-b2b2c-plugin.md).
 
 Role required: admin
 
@@ -38,5 +38,5 @@ The Consumers related list is added to the accounts form.
 
 ## What to do next
 
-Assign the case viewer role for contacts. For more information, see [Assign the case viewer role for contacts in B2B2C in Healthcare and Life Sciences Service Management Core](hcls-b2b2c-grant-contact-case-creation.md).
+Assign the case viewer role for contacts. For more information, see [Assign the case viewer role for contacts in B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-b2b2c-grant-contact-case-creation.md).
 

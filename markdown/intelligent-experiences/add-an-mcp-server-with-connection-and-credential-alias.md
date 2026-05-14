@@ -66,7 +66,7 @@ Connection and credential alias
 Select a Connection and credential alias record to map with your MCP Server.
 
 </td></tr></tbody>
-</table>    ![Adding an MCP Server in AI Agent Studio with a Connection and credential alias record.](../image/others-mcp-server.png)
+</table>    ![Adding an MCP Server in AI Agent Studio with a Connection and credential alias record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/others-mcp-server.png)
 
 4.  Select **Add**.
 

@@ -45,7 +45,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
     2.  To move the selection to the **Users List** column on the right, use the add-remove icon.
 
-        ![Add-remove icon.](../image/add-remove-icon.png)
+        ![Add-remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)
 
     3.  Click **Save**.
 
@@ -59,7 +59,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
     2.  To move the selection to the **Locations List** column on the right, use the add-remove icon.
 
-        ![Add-remove icon.](../image/add-remove-icon.png)
+        ![Add-remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)
 
     3.  Click **Save**.
 
@@ -73,40 +73,40 @@ The users and spaces are assigned to the shift. When an employee wants to make a
 -   The shifts for which the employee can make a reservation.
 -   The spaces that are available for reservation in the selected shift.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md)
 
-[Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
+[Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md)
 
-[Auto-resolve recurring reservations](recurring-reservations.md)
+[Auto-resolve recurring reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/recurring-reservations.md)
 
-[Set a location as favorite using the Space details page](set-a-location-as-favorite.md)
+[Set a location as favorite using the Space details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md)
 
-[Reserve a space near your colleague](browse-near-person-rsv.md)
+[Reserve a space near your colleague](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/browse-near-person-rsv.md)
 
-[Create a multi-day reservation](create-multi-day-reservation.md)
+[Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md)
 
-[Create multi-building reservations](create-multi-building-reservation.md)
+[Create multi-building reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md)
 
-[Create neighborhood reservations](create-neighborhood-reservations.md)
+[Create neighborhood reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
-[Create a reservation along with a shared reservation](create-rsv-along-with-shared-rsv.md)
+[Create a reservation along with a shared reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-along-with-shared-rsv.md)
 
-[Create a reservation including a virtual meeting link](Create-reservation-with-virtual-meeting.md)
+[Create a reservation including a virtual meeting link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/Create-reservation-with-virtual-meeting.md)
 
-[Create a shift reservation](create-a-shift-reservation.md)
+[Create a shift reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-shift-reservation.md)
 
-[Create a group reservation](create-group-reservation.md)
+[Create a group reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-group-reservation.md)
 
-[Share, modify, or cancel a reservation](modify-cancel-res-request.md)
+[Share, modify, or cancel a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/modify-cancel-res-request.md)
 
-[Reserve a workplace using the Quick Reservation widget](reserve-workplace-for-a-time-slot.md)
+[Reserve a workplace using the Quick Reservation widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reserve-workplace-for-a-time-slot.md)
 
-[Download an iCalendar for a reservation](generate-ical.md)
+[Download an iCalendar for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-ical.md)
 

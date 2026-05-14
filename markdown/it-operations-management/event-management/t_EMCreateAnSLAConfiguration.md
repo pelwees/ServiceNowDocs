@@ -51,10 +51,10 @@ If you want to run an SLA on all Linux servers for major and critical alerts, fi
 
 ## What to do next
 
-[Create an SLA definition](t_EMCreateSLADefForCI_BS.md) on the CIs that match this SLA configuration.
+[Create an SLA definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateSLADefForCI_BS.md) on the CIs that match this SLA configuration.
 
--   **[Limit the records for the SLA configuration filter](t_EMLimitTheRecordsForSLAConfigFilter.md)**  
+-   **[Limit the records for the SLA configuration filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMLimitTheRecordsForSLAConfigFilter.md)**  
 If too many records are returned by the SLA configuration filter, you can add a property to set the maximum number of records.
 
-**Parent Topic:**[SLAs for application services and CIs](../concept/c_EMSLAsForBSAndCIs.md)
+**Parent Topic:**[SLAs for application services and CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/c_EMSLAsForBSAndCIs.md)
 

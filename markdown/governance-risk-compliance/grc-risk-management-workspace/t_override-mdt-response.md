@@ -36,5 +36,5 @@ Role required: sn\_grc\_metric.admin, sn\_risk.admin, and sn\_compliance.admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-metrics-irm.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-metrics-irm.md)
 

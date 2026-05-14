@@ -31,5 +31,5 @@ Role required: Store associate or Store manager
     |**Detailed description of the inquiry including any specific questions**|Details about this request.|
 
 
-**Parent Topic:**[Manage store inquiries](rahi-retail-manage-store-inquiries.md)
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 

@@ -40,11 +40,11 @@ Add and configure a Snowflake connection to authenticate ServiceNow requests.
 
 4.  Locate the alias for **Snowflake** and click **View Details**.
 
-    -   To configure the default connection and credential alias record that is shipped along with the Snowflake spoke, click **View Details**.![Snowflake connection template](../image/snowflake-conn-template.png)
-    -   To manage more than one Snowflake connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see[Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To configure the default connection and credential alias record that is shipped along with the Snowflake spoke, click **View Details**.![Snowflake connection template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/snowflake-conn-template.png)
+    -   To manage more than one Snowflake connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see[Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Configure Snowflake connection template](../image/snowflake-conn-config.png)
+    ![Configure Snowflake connection template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/snowflake-conn-config.png)
 
 5.  On the **Configure Connection** form, fill in the fields:
 

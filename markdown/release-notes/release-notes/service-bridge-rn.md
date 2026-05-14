@@ -77,5 +77,5 @@ Install Service Exchange by requesting it from the ServiceNow Store. Visit the [
     Improve the employee service experience by automating HR interactions and providing a single platform for all HR services. Replace manual and siloed processes with cross-functional digital workflows for increased efficiency. Align business goals with employee needs, including onboarding, career growth, and other transitions.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

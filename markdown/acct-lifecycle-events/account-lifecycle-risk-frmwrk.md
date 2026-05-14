@@ -17,8 +17,8 @@ Risks can affect the health of an engagement and jeopardize the chances of expan
 
 Risk signals can be:
 
--   Created manually. See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md).
--   Generated automatically when a threshold value is breached or a specific condition is met. See [Define risk criteria](../task/account-lifecycle-setup-risk-defn.md).
+-   Created manually. See [Create a risk signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-risk-signal.md).
+-   Generated automatically when a threshold value is breached or a specific condition is met. See [Define risk criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-risk-defn.md).
 
 The following list shows a few sample use cases when risk signals are generated:
 
@@ -29,5 +29,5 @@ The following list shows a few sample use cases when risk signals are generated:
 -   Success outcome deadline missed
 -   The Net ACV for the opportunity is reduced by X%
 
-Customer success agents can monitor risk signals on the Active risk signals page. See the [Risk portfolio dashboard](account-lifecycle-risk-portfolio.md) for details.
+Customer success agents can monitor risk signals on the Active risk signals page. See the [Risk portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-risk-portfolio.md) for details.
 

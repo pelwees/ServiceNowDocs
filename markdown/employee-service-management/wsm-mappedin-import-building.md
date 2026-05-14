@@ -55,7 +55,7 @@ Region
 
 </td><td>
 
-Geographic location of the building.Click the Lookup using list icon ![Lookup using list icon](../../workplace-case-mgmt/image/search-icon.png) to view a list of regions you can select.
+Geographic location of the building.Click the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../workplace-case-mgmt/image/search-icon.png) to view a list of regions you can select.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Site
 
 </td><td>
 
-The location of the building within a region.Click the Lookup using list icon ![Lookup using list icon](../../workplace-case-mgmt/image/search-icon.png) to view a list of sites you can select.
+The location of the building within a region.Click the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../workplace-case-mgmt/image/search-icon.png) to view a list of sites you can select.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Managed by group
 
 </td><td>
 
-The group that manages the space reservation for the building.Click the Lookup using list icon ![Lookup using list icon](../../workplace-case-mgmt/image/search-icon.png) to view a list of groups you can select.
+The group that manages the space reservation for the building.Click the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../workplace-case-mgmt/image/search-icon.png) to view a list of groups you can select.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Managed by
 
 </td><td>
 
-The workplace manager of the group that manages the space reservation for the building.Click the Lookup using list icon ![Lookup using list icon](../../workplace-case-mgmt/image/search-icon.png) to view a list of group managers you can select.
+The workplace manager of the group that manages the space reservation for the building.Click the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../workplace-case-mgmt/image/search-icon.png) to view a list of group managers you can select.
 
 </td></tr></tbody>
 </table>3.  Click **Import**.
@@ -133,5 +133,5 @@ The workplace manager of the group that manages the space reservation for the bu
 5.  Click **Update**.
 
 
-**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](../concept/wsm-mappedin-type-table.md)
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/wsm-mappedin-type-table.md)
 

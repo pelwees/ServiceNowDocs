@@ -133,5 +133,5 @@ Result
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[HR service categorization](hr-service-categorization.md)
+**Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 

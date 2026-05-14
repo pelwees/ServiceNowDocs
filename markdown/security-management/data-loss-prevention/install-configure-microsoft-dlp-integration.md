@@ -29,7 +29,7 @@ Role required: sn\_dlir.admin
 
     1.  Search for **DLP Incident Response Integration with Microsoft** tile and select  **Configure**.
 
-        ![Click Configure for Microsoft.](../../data-loss-prevention/image/dlp-microsoft.png "DLP Incident Response Integration with Microsoft")
+        ![Click Configure for Microsoft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-microsoft.png "DLP Incident Response Integration with Microsoft")
 
     2.  On the form, fill in the fields.
 
@@ -50,7 +50,7 @@ Role required: sn\_dlir.admin
 
     2.  In the Azure Storage Configuration tile, select **Update**.
 
-        ![Click Update for Azure Storage Configuration.](../../data-loss-prevention/image/dlp-microsoft-azure-storage.png)
+        ![Click Update for Azure Storage Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-microsoft-azure-storage.png)
 
     3.  On the form, fill in the fields.
 
@@ -71,7 +71,7 @@ Role required: sn\_dlir.admin
 
     2.  In the AWS Storage Configuration tile, select **Update**.
 
-        ![Click Update for AWS Storage Configuration.](../../data-loss-prevention/image/dlp-microsoft-aws-storage.png)
+        ![Click Update for AWS Storage Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-microsoft-aws-storage.png)
 
     3.  On the form, fill in the fields.
 
@@ -90,5 +90,5 @@ Role required: sn\_dlir.admin
 
 After you successfully validate and submit the configuration, the AWS S3 Configuration is saved on the Security Integrations page as a tile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](../concept/dlp-integration-microsoft.md)
+**Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-integration-microsoft.md)
 

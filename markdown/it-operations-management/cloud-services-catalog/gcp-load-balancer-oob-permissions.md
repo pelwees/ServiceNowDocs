@@ -108,5 +108,5 @@ Stack - Deprovision
 -   compute.urlMaps.delete
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Google Cloud Platform Load Balancer](google-cloud-platform-load-balancer.md)
+</table>**Parent Topic:**[Google Cloud Platform Load Balancer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-load-balancer.md)
 

@@ -81,20 +81,20 @@ State of the policy confirmation.This field is automatically updated based on wh
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+**Parent Topic:**[Managing visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Use the receptionist portal](use-receptionist-portal.md)
+[Use the receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/use-receptionist-portal.md)
 
-[Update a visitor registration](update-visitor-registration.md)
+[Update a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/update-visitor-registration.md)
 
-[View visitor registrations](view-visitor-registrations.md)
+[View visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/view-visitor-registrations.md)
 
-[Visitor registration states](../reference/visitor-registration-states.md)
+[Visitor registration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/visitor-registration-states.md)
 
-[Anonymize a visitor](anonymize-visitor.md)
+[Anonymize a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/anonymize-visitor.md)
 
-[Apply visitor management archive policy](apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/apply-visitor-management-archival-rule.md)
 

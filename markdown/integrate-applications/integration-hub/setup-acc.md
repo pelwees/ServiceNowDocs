@@ -27,7 +27,7 @@ Integrate the ServiceNow Agent Client Collector framework and Agent Client Colle
 
     **Note:** To enable Agent Client Collector to execute commands, ensure that `ACC_ALLOW_LIST=0` for Linux environments or `ACC_ALLOW_LIST=False` for Windows environments. If you are using Windows guided installation, clear the **Enable executing command allow list** check-box. Otherwise, you cannot execute commands using the Agent Client Collector spoke.
 
-    ![Agent Client Collector Configuration configuration for Windows environments.](../image/acc-setup-wizard.png)
+    ![Agent Client Collector Configuration configuration for Windows environments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/acc-setup-wizard.png)
 
 2.  [Installing the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md).
 3.  [Configure the websocket server on the MID server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configure-web-server.md).

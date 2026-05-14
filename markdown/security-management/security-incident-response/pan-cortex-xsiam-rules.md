@@ -39,12 +39,12 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 5.  Use the right arrow **\( &gt;\)** to move the rule from **Available** to **Selected** column.
 
-    ![Set Alert Sources](../image/xsiam-alert-sources.png)
+    ![Set Alert Sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/xsiam-alert-sources.png)
 
 6.  Select **Continue**.
 
 
 ## What to do next
 
-[Map incident fields](pan-cortex-xsiam-mapping.md)
+[Map incident fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-cortex-xsiam-mapping.md)
 

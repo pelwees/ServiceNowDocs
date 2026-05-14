@@ -42,5 +42,5 @@ Details about exceptions on invoice lines for line-level invoice exceptions.
 This tab is displayed only for exception tasks that are created for line-level exceptions, such as Insufficient Goods Receipt, Insufficient Funds \(Quantity variance\), and Insufficient Funds \(Amount variance\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create New Invoice task form](create-apm-task-form.md)
+</table>**Parent Topic:**[Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task-form.md)
 

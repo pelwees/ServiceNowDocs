@@ -66,5 +66,5 @@ If you create a comment, you can edit or delete it. If you created the blog or v
     -   Comment authors and community administrators receive a notification that an attachment is infected.
     -   Click **Edit** to remove the infected file and upload the attachment again. You cannot add any more attachments until the infected file is removed.
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 

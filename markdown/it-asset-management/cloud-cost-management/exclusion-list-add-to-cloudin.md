@@ -49,8 +49,8 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 The resource is excluded from all reports. After you submit the record, you can open it to update the reports from which to exclude the resource.
 
--   **[Remove a resource from the Excluded Resources list](exclusion-list-remove-cloudin.md)**  
+-   **[Remove a resource from the Excluded Resources list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-remove-cloudin.md)**  
 You can remove a resource from the Excluded Resources list.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/using-cloud-insights.md)
 

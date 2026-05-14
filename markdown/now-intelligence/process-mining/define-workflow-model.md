@@ -29,17 +29,17 @@ To mine a project, ensure that you have enabled [Audit Log](https://raw.githubus
 
     The Project Setup page is displayed.
 
-    ![Project setup page](../image/set-obj.png)
+    ![Project setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/set-obj.png)
 
 
--   **[Set objectives for Process Mining projects](set-objectives.md)**  
+-   **[Set objectives for Process Mining projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/set-objectives.md)**  
 Define the kind of data or process that you want to view and analyze in your graph. You must select a specific table \(parent table\) that has the data that you want to analyze.
--   **[Scoping your analysis](../concept/scope-analysis.md)**  
+-   **[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)**  
 Define the data that you want to view in the graph.
--   **[Set improvement opportunities](improve-opportunities.md)**  
+-   **[Set improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md)**  
 Set improvement opportunities to find areas of improvement by which teams could optimize a process. You can either select from a list of rules available to you or set your own rules. Based on the rules set by you, you can view your areas of improvement.
--   **[Review and mine your project](review-mine.md)**  
+-   **[Review and mine your project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/review-mine.md)**  
 After you’ve created the project by setting the objectives, scoping the analysis, and adding improvement opportunities, it’s time to mine the project.
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-process-mining.md)
 

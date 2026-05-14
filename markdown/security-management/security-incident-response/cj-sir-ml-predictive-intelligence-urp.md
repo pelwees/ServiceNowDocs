@@ -17,8 +17,8 @@ The Predictive Intelligence for User Reported Phishing feature provides a signif
 
 This section describes the following:
 
--   [Predictive Intelligence for User Reported Phishing](cj-sir-ml-urp.md)
--   [Required components and plugins](cj-sir-ml-urp-comp.md)
--   [Final verdict generation for User Reported Phishing](cj-sir-ml-urp-final.md)
--   [Troubleshooting Predictive Intelligence for User Reported Phishing](cj-sir-ml-urp-trouble.md)
+-   [Predictive Intelligence for User Reported Phishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp.md)
+-   [Required components and plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp-comp.md)
+-   [Final verdict generation for User Reported Phishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp-final.md)
+-   [Troubleshooting Predictive Intelligence for User Reported Phishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/cj-sir-ml-urp-trouble.md)
 

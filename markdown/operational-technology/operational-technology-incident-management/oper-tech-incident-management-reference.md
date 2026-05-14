@@ -15,12 +15,12 @@ breadcrumb: [Operational Technology Incident Management, Operational Technology]
 
 Reference topics provide additional information about the Operational Technology Incident Management application.
 
--   **[Assignment rule form](assignment-rule-form-ot-inc.md)**  
+-   **[Assignment rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/assignment-rule-form-ot-inc.md)**  
 Assignment rules automatically assign an Operational Technology \(OT\) incident to a group or user according to one or more conditions in the assignment rule.
--   **[Components installed with Operational Technology Incident Management](components-installed-with-operational-technology-service-management.md)**  
+-   **[Components installed with Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/components-installed-with-operational-technology-service-management.md)**  
 Several types of components may be installed with activation of the Operational Technology Incident Management \(sn\_ot\_inc\_mgmt\) plugin, including user roles.
--   **[Related information](otim-related-information.md)**  
+-   **[Related information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/otim-related-information.md)**  
 Find more information about the OT extension classes and related applications.
 
-**Parent Topic:**[Operational Technology Incident Management](../concept/operational-technology-incident-management-landing-page.md)
+**Parent Topic:**[Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../concept/operational-technology-incident-management-landing-page.md)
 

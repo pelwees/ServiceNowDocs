@@ -34,7 +34,7 @@ Role required: sales\_agent or sales\_manager
 
 ## What to do next
 
-To learn more, see [Using Lead Management](../concept/lead-management-using.md).
+To learn more, see [Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md)
 

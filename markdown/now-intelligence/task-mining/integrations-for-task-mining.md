@@ -17,10 +17,10 @@ Make Task Mining a part of your ServiceNow® workflow.
 
 An administrator can integrate Task Mining with other ServiceNow applications such as Process Mining and Automation Center.
 
--   **[Integration with Automation Center](integration-with-automation-center.md)**  
+-   **[Integration with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/integration-with-automation-center.md)**  
 Create automation requests for your tasks directly from Task Mining.
--   **[Integration with Process Mining](integration-with-process-mining.md)**  
+-   **[Integration with Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/integration-with-process-mining.md)**  
 Streamline task analysis workflows by initiating a Task Mining project directly from your Process Mining workspace.
 
-**Parent Topic:**[Exploring Task Mining](exploring-task-mining.md)
+**Parent Topic:**[Exploring Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/exploring-task-mining.md)
 

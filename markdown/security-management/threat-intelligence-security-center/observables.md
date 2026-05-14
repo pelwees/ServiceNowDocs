@@ -44,49 +44,49 @@ Following are the type of observables available in the application:
 -   Windows Registry Key
 -   X.509 Certificate
 
--   **[Define an Observable](../task/define-an-observable.md)**  
+-   **[Define an Observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-an-observable.md)**  
 Observables can be retrieved from scheduled feed ingestion or from the import assistant. However, you can create observables, as needed.
--   **[Observables source records](../task/tisc-observables-source-records.md)**  
+-   **[Observables source records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-observables-source-records.md)**  
 The source records contribute to an aggregated record as displayed in the form view. These source records are auto created from feeds or manually created by the user.
--   **[Link Threat Intel Related Records](../task/link-threat-intel-releated-records.md)**  
+-   **[Link Threat Intel Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/link-threat-intel-releated-records.md)**  
 Link the records that are related to the corresponding threat intelligence objects.
--   **[Fetch Observables Data](../task/fetch-observables-data.md)**  
+-   **[Fetch Observables Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/fetch-observables-data.md)**  
 Fetch the observables related records data.
--   **[View details in Visualizer](objects-visualizer.md)**  
+-   **[View details in Visualizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/objects-visualizer.md)**  
 Using the Visualizer, you can view the relationships between objects, observables and indicators which provides context for you to further investigate. The Visualizer uses colors and icons to illustrate various information about the objects.
--   **[Working with Internal Intelligence Records](working-with-ti-internal-intelligence-records.md)**  
+-   **[Working with Internal Intelligence Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/working-with-ti-internal-intelligence-records.md)**  
 Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into Threat Intelligence Security Center.
--   **[Run Enrichment Actions from Observable](../task/run-enrichment-actions-from-observable.md)**  
+-   **[Run Enrichment Actions from Observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/run-enrichment-actions-from-observable.md)**  
 Use this section to understand how enrichments actions are performed on observables and other objects.
--   **[Add to Case](../task/add-to-case.md)**  
+-   **[Add to Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/add-to-case.md)**  
 Add observables, indicators, or other objects to the case.
--   **[Run Enrichment operations in TISC](../task/tisc-unified-experience-capabilities-and-modal-screens.md)**  
+-   **[Run Enrichment operations in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-unified-experience-capabilities-and-modal-screens.md)**  
 The following table below describes the interactions involved in running different enrichment operations from TISC.
--   **[View Enrichment Results](../task/vtisc-iew-enrichment-results.md)**  
+-   **[View Enrichment Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/vtisc-iew-enrichment-results.md)**  
 View observables, indicators, and various objects enrichment results.
 
-**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Indicators](indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/indicator.md)
 
-[Threat Entities](tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-[Other Objects](tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-other-objects.md)
 
-[Vulnerability Artifacts](vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-rss-feeds.md)
 
-[Working with Reports in TISC](tisc-reports-lib-view.md)
+[Working with Reports in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](relationship-objects.md)
+[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-[Potential Relationships](potential-relationships.md)
+[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-relationship-map.md)
 

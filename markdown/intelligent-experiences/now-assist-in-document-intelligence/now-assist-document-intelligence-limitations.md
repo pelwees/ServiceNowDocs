@@ -65,7 +65,7 @@ Image mode supports 10 to 50 pages per file, although this isn’t a hard limit.
 -   200 pages per file if no tables are defined for the use case.
 -   20 pages per file if a table is defined for the use case.
 
- Image mode is selected during use case setup. For more information, see [Set up a use case for Now Assist in Document Intelligence](../task/set-up-use-case-for-now-assist-document-intelligence.md).
+ Image mode is selected during use case setup. For more information, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../task/set-up-use-case-for-now-assist-document-intelligence.md).
 
 </td></tr><tr><td>
 
@@ -81,9 +81,9 @@ Supported languages
 
 </td><td>
 
-For image files that need optical character recognition \(OCR\) to detect the text in them, there are OCR models to support different language groups. For more information, see [Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md).
+For image files that need optical character recognition \(OCR\) to detect the text in them, there are OCR models to support different language groups. For more information, see [Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/languages-supported-now-assist-document-intelligence.md).
 
- For text-based files, the skill recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md).
+ For text-based files, the skill recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md).
 
 </td></tr></tbody>
 </table>## Limits for the document and visual insights AI agent
@@ -130,27 +130,27 @@ Supported languages
 
 </td><td>
 
-For image and text-based files, the AI agent recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md).
+For image and text-based files, the AI agent recognizes any language supported by the selected or default model, as described in the model card for the LLM. For more information on LLMs, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
+</table>**Parent Topic:**[Now Assist in Document Intelligence reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-in-document-intelligence-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Now Assist in Document Intelligence](now-assist-docintel-components.md)
+[Components installed with Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-docintel-components.md)
 
-[Data extraction modes in Now Assist in Document Intelligence](data-extraction-modes-now-assist-document-intelligence.md)
+[Data extraction modes in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/data-extraction-modes-now-assist-document-intelligence.md)
 
-[Document and visual insights AI agent](document-and-visual-insights-ai-agent.md)
+[Document and visual insights AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-and-visual-insights-ai-agent.md)
 
-[Document Intelligence tool for Now Assist Skill Kit](document-visual-intelligence-skill-kit-tool.md)
+[Document Intelligence tool for Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-visual-intelligence-skill-kit-tool.md)
 
-[Field types in Now Assist in Document Intelligence](now-assist-document-intelligence-field-types.md)
+[Field types in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-field-types.md)
 
-[Now Assist in Document Intelligence forms](now-assist-document-intelligence-forms.md)
+[Now Assist in Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-forms.md)
 
-[Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md)
+[Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md)
 
-[Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md)
+[Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/languages-supported-now-assist-document-intelligence.md)
 

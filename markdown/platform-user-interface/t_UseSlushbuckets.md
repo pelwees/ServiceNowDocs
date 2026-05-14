@@ -56,13 +56,13 @@ Information fields for the highlighted available item appear beneath some list c
     2.  Click the down icon.
 
 
--   **[Set the number of list collector items visible in the available column](t_SetNumSlushbucketItemsVisible.md)**  
+-   **[Set the number of list collector items visible in the available column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_SetNumSlushbucketItemsVisible.md)**  
 You can modify the **glide.xmlhttp.excessive** property to change the number of items that appear in the **Available** column of the list collector.
 
-**Parent Topic:**[Common UI elements](../topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../topic/p_CommonUIElements.md)
 
 **Related topics**  
 
 
-[Personal lists](../../using-lists/concept/c_PersonalLists.md#)
+[Personal lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/concept/c_PersonalLists.md#)
 

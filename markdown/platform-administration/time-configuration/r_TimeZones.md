@@ -82,16 +82,16 @@ DST enhancement requires that reports and queries observe Daylight Saving Time r
 
 The time zone changer is active by default. Users can change their time zone for the current session in the system settings \(the gear on the top right of the banner\). At the next login, the time zone setting reverts to the system default, or user profile setting for time zone.
 
-**Parent Topic:**[Time configuration references](../reference-time-configuration.md)
+**Parent Topic:**[Time configuration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference-time-configuration.md)
 
 **Related topics**  
 
 
-[Set a system time zone](../task/t_SetASystemTimeZone.md)
+[Set a system time zone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_SetASystemTimeZone.md)
 
-[Change the time zone choice list](../task/t_ChangeTheTimeZoneChoiceList.md)
+[Change the time zone choice list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_ChangeTheTimeZoneChoiceList.md)
 
-[Change a time zone in a scheduled report](../task/t_ChangeATimeZoneInASchedReport.md)
+[Change a time zone in a scheduled report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_ChangeATimeZoneInASchedReport.md)
 
-[Change a time zone in a scheduled data import](../task/t_ChangeTimeZoneInScheduledImport.md)
+[Change a time zone in a scheduled data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_ChangeTimeZoneInScheduledImport.md)
 

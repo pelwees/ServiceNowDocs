@@ -29,7 +29,7 @@ You can include other CMDB tables that contain software products, to fetch and v
 
 2.  Navigate to the **sn\_apm\_tpm.configurationItemsWithSoftwareInstalls** system property.
 
-3.  Select **here** to update the property details.![Sysem property screen with the here hyperlink highlighted.](../../image/eaw-image/sys-prop-incl-cmdb-table.png)
+3.  Select **here** to update the property details.![Sysem property screen with the here hyperlink highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/sys-prop-incl-cmdb-table.png)
 
 4.  In the **Value** field, add the CMDB table name that contains the details of the TPM software products, in comma-delimited format.
 
@@ -38,14 +38,14 @@ You can include other CMDB tables that contain software products, to fetch and v
     After the **Populate TPM Discovered Technologies and Lifecycles** job runs, the corresponding software records and their technology lifecycle details are populated in the list of TPM software products.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-tpm.md)
 
 **Related topics**  
 
 
-[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-tpm.md)
+[Manage the Technology Portfolio Management \(TPM\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-tpm.md)
 
-[Update TPM data for a business application or application service](update-tpm-data.md)
+[Update TPM data for a business application or application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/update-tpm-data.md)
 
-[Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](eaw-restart-tpm-scheduled-job.md)
+[Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-restart-tpm-scheduled-job.md)
 

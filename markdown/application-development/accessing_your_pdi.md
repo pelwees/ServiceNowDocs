@@ -27,7 +27,7 @@ Once you have obtained a PDI, you can open the instance from **Account** menu.
 
 2.  Open the **Account** menu and click the **Start building** link.
 
-    ![Start building link to access a PDI](../image/accessing-pdi.png)
+    ![Start building link to access a PDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/accessing-pdi.png)
 
 3.  If your PDI is hibernating, wait a couple minutes for your PDI to wake up before you can access it.
 
@@ -37,8 +37,8 @@ Once you have obtained a PDI, you can open the instance from **Account** menu.
 
 5.  If the instance is undergoing maintenance, you will need to wait for maintenance to complete before you can access your PDI.
 
-6.  If you have any issues accessing your PDI, review the [Getting instance assistance](../concept/getting_instance_assistance.md) section of this guide for steps you can take.
+6.  If you have any issues accessing your PDI, review the [Getting instance assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/getting_instance_assistance.md) section of this guide for steps you can take.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

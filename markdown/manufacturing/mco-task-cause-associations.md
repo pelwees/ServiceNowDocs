@@ -73,5 +73,5 @@ Type of task cause.-   Possible
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Create a root cause analysis](mco-root-cause-analysis-task.md)
+**Parent Topic:**[Create a root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task.md)
 

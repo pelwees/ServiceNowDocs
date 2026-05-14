@@ -23,5 +23,5 @@ Before you begin:
 -   Create a group of users who work in customer support.
 -   Assign the awa\_agent and workspace\_agent roles to the customer support group.
 
-![Video link](../../conversational-interfaces/image/icon-video-link.png) [Advanced Work Assignment \(AWA\) Tutorial: Automatically assign work to agents by skill](https://www.youtube.com/watch?v=2epAFf8yAT0) Watch this video for a visual representation of the following tutorial example.
+![Video link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../conversational-interfaces/image/icon-video-link.png) [Advanced Work Assignment \(AWA\) Tutorial: Automatically assign work to agents by skill](https://www.youtube.com/watch?v=2epAFf8yAT0) Watch this video for a visual representation of the following tutorial example.
 

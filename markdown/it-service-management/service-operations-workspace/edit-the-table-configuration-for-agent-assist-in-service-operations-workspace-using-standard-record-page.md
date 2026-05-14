@@ -25,7 +25,7 @@ Update the table configuration using to get the required search results.
 
 To create a table configuration, see [Configure table for a contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_DefineContextualSearchForForm.md).
 
-**Important:** If you are on version which is prior to 4.0, [Edit the table configuration for Agent Assist in Service Operations Workspace](edit-the-table-configuration-for-agent-assist-in-service-operations-workspace.md).
+**Important:** If you are on version which is prior to 4.0, [Edit the table configuration for Agent Assist in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/edit-the-table-configuration-for-agent-assist-in-service-operations-workspace.md).
 
 ## Procedure
 
@@ -39,20 +39,20 @@ To create a table configuration, see [Configure table for a contextual search](h
 
 4.  Select **Settings** to switch to the Settings mode.
 
-    ![Settings page button indicated by a box](../image/settings_SRP.jpg)
+    ![Settings page button indicated by a box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/settings_SRP.jpg)
 
 5.  From the Open records drop-down list, select **Variant record**.
 
 6.  In the UX screen form, add the property and sys ID in the **Macroponent Configuration** tab.
 
-    1.  Enter the new table name and the sys\_id of the required table configuration.![UX Screen form with callouts the additions to the Macroponent Configuration field](../image/screen_variant_srp.png)
+    1.  Enter the new table name and the sys\_id of the required table configuration.![UX Screen form with callouts the additions to the Macroponent Configuration field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/screen_variant_srp.png)
 
         **Note:** To copy the sys\_id, navigate to **Table Configuration** &gt; **Copy\_sysid**.
 
     2.  Select **Update**.
 
-        **Note:** To enable or disable Agent Assist tab, see [Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](configure-agent-assist-tab-sow-srp.md).
+        **Note:** To enable or disable Agent Assist tab, see [Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-agent-assist-tab-sow-srp.md).
 
 
-**Parent Topic:**[Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](configure-agent-assist-tab-sow-srp.md)
+**Parent Topic:**[Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-agent-assist-tab-sow-srp.md)
 

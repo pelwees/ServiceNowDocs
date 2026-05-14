@@ -35,7 +35,7 @@ Upload images associated with your theme including banner images and logos. Add 
 
 4.  When the asset is uploaded, close the Attachments window.
 
-5.  Type the file name of the asset in the **Name** field and select **Submit**.![UX Theme Asset form with uploaded image asset](../image/next-exp-add-image-asset.png)
+5.  Type the file name of the asset in the **Name** field and select **Submit**.![UX Theme Asset form with uploaded image asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-add-image-asset.png)
 
 6.  Add a script to the asset in the **Asset Properties** box.
 
@@ -46,5 +46,5 @@ Upload images associated with your theme including banner images and logos. Add 
 
 The font or image is available to use in your theme.
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

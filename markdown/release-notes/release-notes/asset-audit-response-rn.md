@@ -14,7 +14,7 @@ The ServiceNow® Asset Audit Response application provides workspaces where asse
 
 ## Asset Audit Response highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   Automatically generate summaries of completed and in-progress evidence requests for your financial regulatory audits.
 -   Track and manage impacted records that are associated with your remediation tasks.
@@ -75,5 +75,5 @@ Install Asset Audit Response by requesting it from the ServiceNow Store. Visit t
     The ServiceNow Audit Management application enables you to plan, execute, and report on your audit engagements so that you can mitigate risks and compliance issues before they lead to audit failures.
 
 
-**Parent Topic:**[IT Asset Management release notes](it-asset-management-rn-landing.md)
+**Parent Topic:**[IT Asset Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-asset-management-rn-landing.md)
 

@@ -63,5 +63,5 @@ sap_customer_gr.getValue('name');
 
 ```
 
-**Parent Topic:**[ERP Semantic Mining standard tables and fields](erpcm-standard-fields-tables-reference-landing.md)
+**Parent Topic:**[ERP Semantic Mining standard tables and fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/erpcm-standard-fields-tables-reference-landing.md)
 

@@ -17,5 +17,5 @@ You can add a list of REST request and response headers that are not to be saved
 
 To specify headers to be filtered, create a system property `glide.atf.rest.log.header_blacklist` with a comma-separated list of header names to be filtered. For information on adding properties, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Administering REST test step configurations](atf-administer-rest.md)
+**Parent Topic:**[Administering REST test step configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-administer-rest.md)
 

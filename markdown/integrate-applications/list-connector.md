@@ -15,14 +15,14 @@ The List connector enables you to create, view, search, and do many more actions
 
 The List connector exposes multiple methods that can perform actions on list items as part of an automation workflow.
 
--   To use the List connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the List connector, see [Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector.md).
+-   To expose the methods, see [Use connector method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-components.md).
 
--   **[List connector methods](list-connector-methods.md)**  
+-   **[List connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/list-connector-methods.md)**  
 The List connector methods perform various actions on list items as part of an automation workflow. You must first expose the methods before using.
--   **[List method properties](list-method-properties.md)**  
+-   **[List method properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/list-method-properties.md)**  
 View or update the List method properties.
 
-**Parent Topic:**[Connectors](../concept/connectors.md)
+**Parent Topic:**[Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/connectors.md)
 

@@ -111,7 +111,7 @@ Notify manager if overdue
 
 </td><td>
 
-Check box for sending [email notifications](t_ChangeTheOrderOfAnAnswer.md) to a recipient's manager when that user fails to submit an assigned quiz before the due date.
+Check box for sending [email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md) to a recipient's manager when that user fails to submit an assigned quiz before the due date.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -132,5 +132,5 @@ Opens the Benchmarks Dashboard that provides visibility into your key performanc
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 

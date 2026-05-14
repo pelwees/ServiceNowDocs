@@ -31,7 +31,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 5.  In the left pane, go to the **Content** section and navigate to **Body \(Flex\)** &gt; **Work queue \(Flex\)** &gt; **Sidebar**.
 
-6.  In the right pane, select the icon \(![Edit card icon](../image/edit-card-icon.png)\) in the **Work item cards default** sub-page.
+6.  In the right pane, select the icon \(![Edit card icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/edit-card-icon.png)\) in the **Work item cards default** sub-page.
 
 7.  In the left pane, select **Body \(Flex\)** &gt; **Viewport1**.
 
@@ -50,26 +50,26 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
     Follow the steps listed in each of the topics below in the given sequence to customize Work scheduler.
 
 
--   **[Create a client state parameter for Work scheduler](work-sched-create-client-state-params-wfo-cs.md)**  
+-   **[Create a client state parameter for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-create-client-state-params-wfo-cs.md)**  
 Add custom client state parameter values to add properties to the card components.
--   **[Create page scripts for Work scheduler](work-sched-create-page-scripts-wfo-cs.md)**  
+-   **[Create page scripts for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-create-page-scripts-wfo-cs.md)**  
 Add custom page scripts for the Work scheduler so that you can update the client state through events or update transform workItem object to properties.
--   **[Define the workItem property in the Work scheduler page configuration](work-sched-create-page-properties-wfo-cs.md)**  
+-   **[Define the workItem property in the Work scheduler page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-create-page-properties-wfo-cs.md)**  
 Add the **workItem** property to the Work scheduler page configuration to receive the **workItem** object provided by the work queue.
--   **[Define event mappings for Work scheduler](work-sched-event-mapping-wfo-cs.md)**  
+-   **[Define event mappings for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-event-mapping-wfo-cs.md)**  
 Add event mappings required for card interactions and for the card properties transformation to the page configurations in Work scheduler.
--   **[Configure container components for Work scheduler](work-sched-card-based-container-wfo-cs.md)**  
+-   **[Configure container components for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-card-based-container-wfo-cs.md)**  
 Present information in an intuitive format using the Card Base Container component.
--   **[Configure a Work scheduler card heading component](work-sched-card-based-header-wfo-cs.md)**  
+-   **[Configure a Work scheduler card heading component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-card-based-header-wfo-cs.md)**  
 Customize the Work scheduler heading component to display the title based on your needs.
--   **[Configure a display type component for a Work scheduler card](work-sched-stacked-component-wfo-cs.md)**  
+-   **[Configure a display type component for a Work scheduler card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-stacked-component-wfo-cs.md)**  
 Add the **Label value stacked** display work item fields within the card.
--   **[Configure an avatar component for Work scheduler](work-sched-avatar-component-wfo-cs.md)**  
+-   **[Configure an avatar component for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/work-sched-avatar-component-wfo-cs.md)**  
 Use the **Container** component to add an avatar and the user name of the work item assignee.
--   **[Associate a work scheduler card to the work configuration](associate-card-config-wfo-cs.md)**  
+-   **[Associate a work scheduler card to the work configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/associate-card-config-wfo-cs.md)**  
 Associate the work scheduler card that you've created to the work configuration to display the card in the Work scheduler sidebar.
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](../concept/setting-up-work-scheduler-wfo-cs.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setting-up-work-scheduler-wfo-cs.md)
 
 **Related topics**  
 

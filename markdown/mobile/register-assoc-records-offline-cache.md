@@ -23,7 +23,7 @@ When your ServiceNow instance has offline mode enabled, you can configure their 
 
 **Important:** This feature is supported for scripted writeback actions only.
 
-You must configure an action item before you can use the following steps to register associated records in the offline cache. See [Configure action items and action steps in offline mode](configure-action-item-offline.md) for information about configuring an action item.
+You must configure an action item before you can use the following steps to register associated records in the offline cache. See [Configure action items and action steps in offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-action-item-offline.md) for information about configuring an action item.
 
 You must use scripting to configure this task, which requires using an API.
 
@@ -66,5 +66,5 @@ You must use scripting to configure this task, which requires using an API.
 7.  Select **Save**.
 
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md)
 

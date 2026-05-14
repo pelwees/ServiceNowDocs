@@ -17,7 +17,7 @@ The Anonymous Report Center \(ARC\) enables employees to report discrimination o
 
 ## Anonymous reporting in the ARC
 
-The ARC homepage provides employees with options to submit a new report or return to an existing case. ![Use the ARC landing page to submit a report and track its progress anonymously.](../../grc-common/image/arc-landing-page.png)
+The ARC homepage provides employees with options to submit a new report or return to an existing case. ![Use the ARC landing page to submit a report and track its progress anonymously.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../grc-common/image/arc-landing-page.png)
 
 The following steps describe how an employee submits a report and how the system routes it for investigation:
 
@@ -31,11 +31,11 @@ The following steps describe how an employee submits a report and how the system
 
 <table id="table_nyp_yyr_qbc" class="nav-card"><tbody><tr><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activation and set-up information](arc-setup.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activation and set-up information](arc-setup.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-manage.svg)Submit and follow up on anonymous reports](arc-use.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-manage.svg)Submit and follow up on anonymous reports](arc-use.md)
 
 </td></tr></tbody>
 </table>**Note:**

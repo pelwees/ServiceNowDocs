@@ -143,5 +143,5 @@ Condition that is used to trigger when a task is assigned. This condition is eva
 For example: If the `Relative Due Date Trigger = Start On`, `Date Offset type = After`, and `Number of offset days = 5 days`, the task is configured to trigger 5 days after the publish date of the plan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer reference](jny-dsnr-reference.md)
+</table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 

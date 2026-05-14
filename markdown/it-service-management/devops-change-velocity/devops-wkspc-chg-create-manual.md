@@ -21,7 +21,7 @@ Role required: sn\_devops.admin
 
 ## About this task
 
-For more information on using Change features, see [Create a Change](../../change-management/task/t_CreateAChange.md).
+For more information on using Change features, see [Create a Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../change-management/task/t_CreateAChange.md).
 
 **Important:** You can update the associated data after you create a request, but you cannot edit a change request if it is in one of the following states:
 
@@ -31,7 +31,7 @@ For more information on using Change features, see [Create a Change](../../chang
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **DevOps Change** &gt; **Applications \(![Applications icon.](../image/icon-devops-applications.png)\)**.
+1.  Navigate to **Workspaces** &gt; **DevOps Change** &gt; **Applications \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/icon-devops-applications.png)\)**.
 
 2.  Select an application from **Applications** list.
 
@@ -98,7 +98,7 @@ The specific data to associate with the change request. You can select multiple 
 
     For example, specify the schedule.
 
-    **Note:** For more information on configuring settings, see [Create a Change](../../change-management/task/t_CreateAChange.md).
+    **Note:** For more information on configuring settings, see [Create a Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../change-management/task/t_CreateAChange.md).
 
 8.  Select **Save**.
 
@@ -107,5 +107,5 @@ The specific data to associate with the change request. You can select multiple 
 
 To modify the data that is associated to the change request, select **Edit DevOps data**. Verify the associated data that you added or removed in the **Additions**/**Removal** tabs in the **Add DevOps Data** modal.
 
-**Parent Topic:**[Accelerating your DevOps change process](../concept/dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/dev-ops-change-acceleration.md)
 

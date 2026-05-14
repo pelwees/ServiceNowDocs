@@ -120,5 +120,5 @@ Recall phase part allocation\[sn\_rcl\_claim\_mgmt\_phase\_part\_allocation\]
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Recall campaign data model](recall-claims.md)
+</table>**Parent Topic:**[Recall campaign data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/recall-claims.md)
 

@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-The show related incidents icon \(![Core UI related incidents icon.](../image/icon-workflow.png)\) displays other incidents related to the referenced record.
+The show related incidents icon \(![Core UI related incidents icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/icon-workflow.png)\) displays other incidents related to the referenced record.
 
 ## Procedure
 
@@ -35,5 +35,5 @@ The show related incidents icon \(![Core UI related incidents icon.](../image/ic
 **Related topics**  
 
 
-[Altering tables and fields using dictionary attributes](../../reference-pages/concept/c_DictionaryAttributes.md)
+[Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/concept/c_DictionaryAttributes.md)
 

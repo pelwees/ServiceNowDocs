@@ -19,7 +19,7 @@ Role required: sn\_customerservice.contact\_manager and sn\_customerservice.prox
 
 ## About this task
 
-Although you can view or modify existing cases from Microsoft Outlook, you can also access the CSM portal to work on open cases by clicking the pop-out icon \(![Pop-out icon to go to the CSM portal page.](../image/pop-out-icon.png)\).
+Although you can view or modify existing cases from Microsoft Outlook, you can also access the CSM portal to work on open cases by clicking the pop-out icon \(![Pop-out icon to go to the CSM portal page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/pop-out-icon.png)\).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Although you can view or modify existing cases from Microsoft Outlook, you can a
 
 5.  Type your message.
 
-6.  If you have supporting information such as a message that you want to attach to a case, click the attachment icon \(![Attachment icon.](../image/attachment-icon.png)\) and select the file.
+6.  If you have supporting information such as a message that you want to attach to a case, click the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/attachment-icon.png)\) and select the file.
 
 7.  Click **Send**.
 

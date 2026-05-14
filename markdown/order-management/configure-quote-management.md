@@ -29,7 +29,7 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-[../task/installing-quote-management.md](../task/installing-quote-management.md)
+[../task/installing-quote-management.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/installing-quote-management.md)
 
 </td><td>
 
@@ -44,7 +44,7 @@ Admin
 
 </td></tr><tr><td>
 
-[Assign user roles in Sales Customer Relationship Management applications](configure-SOM-roles.md)
+[Assign user roles in Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-SOM-roles.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Admin
 
 </td></tr><tr><td>
 
-[Configuring product offerings and catalogs](som-managing-product-catalogs.md)
+[Configuring product offerings and catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)
 
 </td><td>
 
@@ -68,12 +68,12 @@ Product catalog admin
 
 </td></tr><tr><td>
 
-[Configuring product pricing](../task/som-create-price-list-line.md)
+[Configuring product pricing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-create-price-list-line.md)
 
 </td><td>
 
-Define the price lists, pricing strategies, and other pricing features that you want to use, unless they've been previously defined.-   Set the [price lists](../task/som-create-price-list.md) and pricing strategies that control how pricing is applied to quotes.
--   If you're using cost books, create the [cost books](../task/create-cost-books.md) that define the unit costs for product offerings.
+Define the price lists, pricing strategies, and other pricing features that you want to use, unless they've been previously defined.-   Set the [price lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-create-price-list.md) and pricing strategies that control how pricing is applied to quotes.
+-   If you're using cost books, create the [cost books](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-cost-books.md) that define the unit costs for product offerings.
 
 </td><td>
 
@@ -93,7 +93,7 @@ Quote Management admin
 
 </td></tr><tr><td>
 
-[Activate location-based transactions](../task/som-activate-location-filter.md)
+[Activate location-based transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-activate-location-filter.md)
 
 </td><td>
 
@@ -105,13 +105,13 @@ Admin
 
 </td></tr><tr><td>
 
-[Configure quote PDF documents](quote-management-configure-pdf-documents.md)
+[Configure quote PDF documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-configure-pdf-documents.md)
 
 </td><td>
 
-Set up PDF template, signers, and Docusign.-   [Create PDF templates](../task/quote-mgt-setup-pdf-document-templates.md)
--   [Configure DocuSign](../task/quote-mgt-configure-docusign-pdf.md)
--   [Set up PDF document signers](../task/quote-mgt-configure-pdf-document-signers.md)
+Set up PDF template, signers, and Docusign.-   [Create PDF templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/quote-mgt-setup-pdf-document-templates.md)
+-   [Configure DocuSign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/quote-mgt-configure-docusign-pdf.md)
+-   [Set up PDF document signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/quote-mgt-configure-pdf-document-signers.md)
 
 </td><td>
 
@@ -120,20 +120,20 @@ sales\_operations\_specialists
 </td></tr></tbody>
 </table>## What to do next
 
-After completing the configuration tasks, you can start using Quote Management to build and manage customer quotes. See [Using Quote Management](quote-mgmt-using.md).
+After completing the configuration tasks, you can start using Quote Management to build and manage customer quotes. See [Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md).
 
-Optionally, configure [Configuring Advanced Approval Management](configuring-advanced-approval-management.md) to build automated approval workflows for customer quotes and other Sales Customer Relationship Management entities.
+Optionally, configure [Configuring Advanced Approval Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-advanced-approval-management.md) to build automated approval workflows for customer quotes and other Sales Customer Relationship Management entities.
 
 **Related topics**  
 
 
-[Quote Management](quote-management.md)
+[Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management.md)
 
-[Using Quote Management](quote-mgmt-using.md)
+[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-[Approving or rejecting quotes](approving-or-rejecting-quotes.md)
+[Approving or rejecting quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/approving-or-rejecting-quotes.md)
 
-[Using product offering recommendations in quotes](using-prod-recommendations-quote.md)
+[Using product offering recommendations in quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-prod-recommendations-quote.md)
 
-[Sync quote and opportunity](synchronise_quote_and_opportunity.md)
+[Sync quote and opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/synchronise_quote_and_opportunity.md)
 

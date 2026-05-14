@@ -19,7 +19,7 @@ Map an insight rule to an existing business rule to define the type of insight t
 
 This task must be performed in the classic environment.
 
-Create an insight rule. For more information, see [Create an insight rule](create-insight-rule.md).
+Create an insight rule. For more information, see [Create an insight rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-insight-rule.md).
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
@@ -95,5 +95,5 @@ Associated automation insight rule.
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Create an insight trigger](create-insight-trigger.md)
+**Parent Topic:**[Create an insight trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-insight-trigger.md)
 

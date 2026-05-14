@@ -42,5 +42,5 @@ Role required: admin
 9.  Select **Initiate**.
 
 
-**Parent Topic:**[Initiate a contract request](initiate-contract-request.md)
+**Parent Topic:**[Initiate a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/initiate-contract-request.md)
 

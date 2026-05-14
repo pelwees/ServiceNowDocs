@@ -19,9 +19,9 @@ Create a policy record in the system that represents the agreement between the i
 
 An insurance product model, a coverage specification, and an insurance policy table that extends the Insurance Policy \(sn\_bom\_ins\_policy\) table are required. For more information, see the following topics:
 
--   [Insurance product models](../concept/insurance-product-models.md)
--   [Coverage specification](../concept/coverage-specification.md)
--   [Create an insurance policy table](create-an-insurance-policy-table.md)
+-   [Insurance product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/insurance-product-models.md)
+-   [Coverage specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/coverage-specification.md)
+-   [Create an insurance policy table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-table.md)
 
 Role required: admin
 
@@ -50,7 +50,7 @@ Role required: admin
 
 ## What to do next
 
-Apply coverage to an insurance policy. For more information, see [Apply coverages to an insurance policy](apply-coverage-to-an-insurance-policy.md).
+Apply coverage to an insurance policy. For more information, see [Apply coverages to an insurance policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/apply-coverage-to-an-insurance-policy.md).
 
-**Parent Topic:**[Setting up an insurance policy for Insurance claims](../concept/set-up-an-insurance-policy.md)
+**Parent Topic:**[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/set-up-an-insurance-policy.md)
 

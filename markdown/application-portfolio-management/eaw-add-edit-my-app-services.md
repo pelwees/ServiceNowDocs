@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by clicking the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by clicking the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **My Entities**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **My Entities**.
 
 4.  Select **My Application Services**.
 
@@ -33,19 +33,19 @@ Role required: sn\_apm.apm\_analyst
     -   To update details of an existing application service, select the record then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Application service form](../../reference/eaw-reference/eaw-app-service-form.md).
+    For field information, see [Application service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-app-service-form.md).
 
 7.  Select **Save** or **Update**.
 
 
-**Parent Topic:**[Working with your entities](../../concept/eaw-concept/eaw-work-with-your-entities.md)
+**Parent Topic:**[Working with your entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-your-entities.md)
 
 **Related topics**  
 
 
-[View your application services](eaw-my-app-services.md)
+[View your application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-my-app-services.md)
 
-[View all application services](eaw-view-all-app-services.md)
+[View all application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-app-services.md)
 
-[Add or edit an application service in the Enterprise Architecture Workspace](eaw-add-appl-service.md)
+[Add or edit an application service in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-appl-service.md)
 

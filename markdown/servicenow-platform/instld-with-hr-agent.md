@@ -29,5 +29,5 @@ Operation handlers are reusable code components that get executed on the Service
 |createHRInteraction|Creates an interaction record in the ServiceNow instance for the incoming calls.|
 |fetchHRInteraction|Fetches interaction and processes sn\_cti\_hr\_cnt.enable\_ims\_update sys property for creating conversation.|
 
-**Parent Topic:**[ServiceNow Voice reference](ccc-reference.md)
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 

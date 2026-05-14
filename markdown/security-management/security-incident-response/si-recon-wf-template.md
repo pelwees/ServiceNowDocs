@@ -23,11 +23,11 @@ Role required: sn\_si.write
 
 The workflow is triggered when the **Category** in a security incident is set to **Reconnaissance activity**. This action causes a response task to be created for the first activity in the workflow.
 
-![Reconnaissance workflow template](../image/reconnaissance-workflow.png "Reconnaissance activity")
+![Reconnaissance workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/reconnaissance-workflow.png "Reconnaissance activity")
 
 ## Procedure
 
-1.  Open the security incident for this potential attack, or [create a new security incident](../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
+1.  Open the security incident for this potential attack, or [create a new security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/t_ManuallyCreateSecurityIncident.md).
 
 2.  In **Category**, select **Reconnaissance activity**.
 
@@ -135,28 +135,28 @@ When this task is complete, the flow ends.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Security Incident Response workflow templates](../concept/sir-orch-workflow-templates.md)
+**Parent Topic:**[Security Incident Response workflow templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sir-orch-workflow-templates.md)
 
 **Related topics**  
 
 
-[Security Incident Confidential Data Exposure workflow template](si-confidential-data-exposure-template.md)
+[Security Incident Confidential Data Exposure workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-confidential-data-exposure-template.md)
 
-[Security Incident Denial of Service workflow template](si-denial-of-service-template.md)
+[Security Incident Denial of Service workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-denial-of-service-template.md)
 
-[Security Incident Lost Equipment workflow template](si-lost-equip-template.md)
+[Security Incident Lost Equipment workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-lost-equip-template.md)
 
-[Security Incident Malicious Software workflow template](si-malic-sftwr-template.md)
+[Security Incident Malicious Software workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-malic-sftwr-template.md)
 
-[Security Incident Phishing workflow template](si-phishing-template.md)
+[Security Incident Phishing workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-phishing-template.md)
 
-[Security Incident Policy Violation workflow template](si-policy-violation-template.md)
+[Security Incident Policy Violation workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-policy-violation-template.md)
 
-[Security Incident Rogue Server or Service workflow template](si-rogue-wf-template.md)
+[Security Incident Rogue Server or Service workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-rogue-wf-template.md)
 
-[Security Incident Spam workflow template](si-spam-template.md)
+[Security Incident Spam workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-spam-template.md)
 
-[Security Incident Unauthorized Access workflow template](si-unauth-access-wf-template.md)
+[Security Incident Unauthorized Access workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-unauth-access-wf-template.md)
 
-[Security Incident Web/BBS Defacement workflow template](si-web-defacement-template.md)
+[Security Incident Web/BBS Defacement workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-web-defacement-template.md)
 

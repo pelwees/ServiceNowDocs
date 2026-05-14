@@ -17,7 +17,7 @@ Delete the demo data for Digital Experience Score​ when you no longer need it.
 
 ## Before you begin
 
-[Install Digital Experience Score​](install-dex-score.md)
+[Install Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/install-dex-score.md)
 
 Role required: admin
 
@@ -85,10 +85,10 @@ After both scheduled jobs run successfully and the script to delete records in g
 
 If an error occurs during execution of the scheduled jobs, run the jobs again.
 
-**Parent Topic:**[Install Digital Experience Score​](install-dex-score.md)
+**Parent Topic:**[Install Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/install-dex-score.md)
 
 **Related topics**  
 
 
-[Load Digital Experience Score​ demo data](dexscr-load-demo-data.md)
+[Load Digital Experience Score​ demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-load-demo-data.md)
 

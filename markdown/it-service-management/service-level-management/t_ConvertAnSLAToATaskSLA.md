@@ -56,17 +56,17 @@ To convert old SLAs to SLA Definitions:
 
 The following example is an old SLA for Priority 1 incidents to be resolved on a Monday-Friday \(8-5\) Calendar, with escalations to Moderate at 4 hours, to High at 2 hours, and to Overdue at 2 hours:
 
-![Old SLA form.](../image/OldSLA.png "Old SLA example")
+![Old SLA form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/OldSLA.png "Old SLA example")
 
 This is the new Task SLA created from the same information:
 
-![New SLA form.](../image/NewSLA.png "New SLA example")
+![New SLA form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/NewSLA.png "New SLA example")
 
 This is the workflow which powers the new Task SLA.
 
 **Note:** This example workflow responds to each escalation by firing off an event. A business rule can be configured to respond to escalation events, or the workflow can be adjusted to match the organization's process.
 
-![Diagram of the new SLA workfow.](../image/NewSLAWorkflow.png "New SLA workflow")
+![Diagram of the new SLA workfow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/NewSLAWorkflow.png "New SLA workflow")
 
-**Parent Topic:**[Service Level Agreement \(Legacy\) engines](../concept/c_GetStartedWithSLAs.md)
+**Parent Topic:**[Service Level Agreement \(Legacy\) engines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_GetStartedWithSLAs.md)
 

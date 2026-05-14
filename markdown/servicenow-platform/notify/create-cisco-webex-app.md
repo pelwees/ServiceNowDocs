@@ -52,5 +52,5 @@ Role required: Cisco admin
         You must update the **Client ID** and **Client Secret** values in your ServiceNow instance.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/setup-cisco-webex-notify.md)
 

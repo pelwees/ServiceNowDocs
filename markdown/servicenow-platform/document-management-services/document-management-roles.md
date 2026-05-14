@@ -17,16 +17,16 @@ Document Management is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[References](../concept/reference-document-management.md)
+**Parent Topic:**[References](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/reference-document-management.md)
 
 **Related topics**  
 
 
-[Components installed with Document Management](installed-with-doc-mgmt.md)
+[Components installed with Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/installed-with-doc-mgmt.md)
 
-[Domain separation and Document Management](../concept/domain-separation-document-services.md)
+[Domain separation and Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/domain-separation-document-services.md)
 
-[Granular admin roles in Document Management](granular-admin-roles-dms.md)
+[Granular admin roles in Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/granular-admin-roles-dms.md)
 
 ## Administrator \[platform\_document\_management\_admin\]
 

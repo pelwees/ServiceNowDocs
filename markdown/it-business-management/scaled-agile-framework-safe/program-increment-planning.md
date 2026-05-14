@@ -28,7 +28,7 @@ Role required: safe\_art\_user or safe\_admin
 3.  Assess features in the backlog and move them to a PI.
 
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/program-level-tabs.md)
 
 ## Use the SAFe program list view
 
@@ -48,11 +48,11 @@ Role required: safe\_admin or safe\_art\_user
 
 4.  Select the **List** view.
 
-    ![SAFe program increment list view](../../benchmarks-for-spm/images/list-view.png)
+    ![SAFe program increment list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../benchmarks-for-spm/images/list-view.png)
 
 5.  To create a PI, click **Create Program Increment**.
 
-    Fill the required fields in the [PI form](create-SAFeprogramincrement.md). To edit an existing PI, click the program increment number and edit the required details in a form.
+    Fill the required fields in the [PI form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogramincrement.md). To edit an existing PI, click the program increment number and edit the required details in a form.
 
 6.  To schedule a feature, drag the feature in the **Backlog** section and drop it in the required PI.
 
@@ -91,8 +91,8 @@ Role required: safe\_admin or safe\_art\_user
 
 6.  Add a feature directly to a PI lane by clicking **Add Card** at the bottom of the list in the lane.
 
-    You can also click the more options icon \(![more options for program increment lane](../../sdlc-scrum/image/ellipsis.png)\) and click **Add card**.
+    You can also click the more options icon \(![more options for program increment lane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/ellipsis.png)\) and click **Add card**.
 
-7.  Hide a PI lane by clicking the more options icon \(![more options for program increment lane](../../sdlc-scrum/image/ellipsis.png)\) and click **Hide lane**.
+7.  Hide a PI lane by clicking the more options icon \(![more options for program increment lane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/ellipsis.png)\) and click **Hide lane**.
 
 

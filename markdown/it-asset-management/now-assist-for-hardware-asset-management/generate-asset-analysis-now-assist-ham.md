@@ -44,6 +44,6 @@ The Generate hardware asset insights generative AI skill generates comprehensive
 
     An asset analysis summary card with a consolidated overview of critical asset data and potential actions is displayed.
 
-    ![Asset analysis summary with comprehensive asset information and list of action items](../image/now-assist-ham-asset-summary.png "Asset analysis summary")
+    ![Asset analysis summary with comprehensive asset information and list of action items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../image/now-assist-ham-asset-summary.png "Asset analysis summary")
 
 

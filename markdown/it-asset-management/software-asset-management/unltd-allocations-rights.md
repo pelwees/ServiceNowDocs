@@ -47,5 +47,5 @@ The following license types are supported for unlimited licenses:
 -   Perpetual + Maintenance/Perpetual + Software Assurance
 -   Subscription
 
-**Parent Topic:**[Software license metrics](c_SAMLicenseMetrics.md)
+**Parent Topic:**[Software license metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMLicenseMetrics.md)
 

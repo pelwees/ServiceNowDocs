@@ -47,7 +47,7 @@ Do this
 
 **Note:** You can view call transcripts and sentiments for all interactions that were closed today.
 
- 1.  Click the Channels \(![Channels icon.](../image/channels-new.png)\) icon.
+ 1.  Click the Channels \(![Channels icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/channels-new.png)\) icon.
 2.  Click **Amazon Connect \(Phone\)**.
 3.  Select an interaction record.
 
@@ -58,7 +58,7 @@ Do this
 
 </td><td>
 
-1.  Click the Teams icon \(![Teams icon.](../image/teams-new.png)\).
+1.  Click the Teams icon \(![Teams icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/teams-new.png)\).
 2.  Select a team.
 3.  Select a user.
 4.  Select a KPI.
@@ -73,7 +73,7 @@ Do this
 
 **Note:** When you have assessments triggered from calls, you can view call transcripts and sentiments for those interactions.
 
- 1.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+ 1.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 2.  Click the **Active Assessments** tab.
 3.  Select an assessment.
 
@@ -84,7 +84,7 @@ Do this
 
 </td><td>
 
-1.  Click the Lists \(![Lists icon.](../image/list-new.png)\)icon.
+1.  Click the Lists \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/list-new.png)\)icon.
 2.  Select an interaction record.
 
 
@@ -95,8 +95,8 @@ Do this
 
     In the CSM Configurable Workspace, agents use the **Call Analysis** tab to review calls, transcripts, and sentiment analysis. The recording playback widget is available if the agent's Amazon Connect security profile is configured to enable access to call recordings.
 
-4.  [Analyze transcripts and sentiments for the Amazon Connect phone channel](analyze-transcripts-sentiments-configurable-wfo-cs.md) and assign training to coach the agents.
+4.  [Analyze transcripts and sentiments for the Amazon Connect phone channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/analyze-transcripts-sentiments-configurable-wfo-cs.md) and assign training to coach the agents.
 
 
-**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](../concept/configurable-servicenow-voice-cs.md)
+**Parent Topic:**[Using Voice with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/configurable-servicenow-voice-cs.md)
 

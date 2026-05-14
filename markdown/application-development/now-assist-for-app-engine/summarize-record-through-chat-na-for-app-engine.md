@@ -20,9 +20,9 @@ Quickly understand the contents of a record through a conversation with Now Assi
 
 Role required: admin
 
-Verify that the custom app record summarization skill is activated and configured. For more information, see [Activate the custom app record summarization skill](activate-custom-app-record-summarization-na-for-app-engine.md).
+Verify that the custom app record summarization skill is activated and configured. For more information, see [Activate the custom app record summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/activate-custom-app-record-summarization-na-for-app-engine.md).
 
-The following procedure describes how to summarize a record through chat in the Now Assist panel. You can also summarize a record in-product within Core UI or a custom workspace. For more information, see [Summarize a record in-product using Now Assist for App Engine](summarize-record-in-product-na-for-app-engine.md).
+The following procedure describes how to summarize a record through chat in the Now Assist panel. You can also summarize a record in-product within Core UI or a custom workspace. For more information, see [Summarize a record in-product using Now Assist for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/summarize-record-in-product-na-for-app-engine.md).
 
 ## Procedure
 
@@ -52,7 +52,7 @@ Procedure
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../../product/now-assist-itsm/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../../product/now-assist-itsm/image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../product/now-assist-itsm/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../product/now-assist-itsm/image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d205388e184">
 
@@ -60,9 +60,9 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](../../../product/now-assist-itsm/image/icon-copy.png)\).
+If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../product/now-assist-itsm/image/icon-copy.png)\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for App Engine](../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md)
+**Parent Topic:**[Using Now Assist for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../app-engine-studio/concept/use-now-assist-for-app-engine-enterprise.md)
 

@@ -27,7 +27,7 @@ Associate an incident with a Universal Request record.
 
 2.  Select **Transfer**.
 
-    ![Transfer incident to Universal Request](../image/route-to-ur.png)
+    ![Transfer incident to Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/route-to-ur.png)
 
 3.  In the **Transfer Ticket** dialog box, provide the following details.
 
@@ -48,5 +48,5 @@ Associate an incident with a Universal Request record.
 4.  Click **Transfer**.
 
 
-**Parent Topic:**[Universal Request integration - Incident Management](../concept/inci-mgmt-integ-with-univ-req.md)
+**Parent Topic:**[Universal Request integration - Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/inci-mgmt-integ-with-univ-req.md)
 

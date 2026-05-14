@@ -39,9 +39,9 @@ If your SF Managed Package was installed before June 2022, follow these steps to
 **Related topics**  
 
 
-[Set up a configurable product in a Salesforce-integrated environment](cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment.md)
+[Set up a configurable product in a Salesforce-integrated environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment.md)
 
-[Set up a configurable product in a headless environment](cpq-set-up-a-configurable-product-in-a-headless-environment.md)
+[Set up a configurable product in a headless environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[Set up blueprints](../concept/blueprints_101.md)
+[Set up blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/blueprints_101.md)
 

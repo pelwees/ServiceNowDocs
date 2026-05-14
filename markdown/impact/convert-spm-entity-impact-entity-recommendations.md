@@ -64,7 +64,7 @@ Impact entities that can be converted to SPM entities are:
 
     You can view the work items that you created for this recommendation.
 
-    ![New SPM entity created from the Impact entity.](../image/recom-spm-entity-impact.png)
+    ![New SPM entity created from the Impact entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/recom-spm-entity-impact.png)
 
     In the recommendation pop-up, the **My work items** tab lists all the SPM entities like demands, projects, and others that are associated to the recommendation. If you would like to create another work item, then select **Convert to work item**.
 

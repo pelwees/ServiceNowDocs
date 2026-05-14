@@ -18,13 +18,13 @@ Access project status and status reports on the Project Status mobile app to rev
 ## Before you begin
 
 -   Download the Mobile Agent mobile application on an iOS platform from the Apple App Store or on an Android platform from the Google Play Store.
--   [Activate the PPM Mobile plugin](activate-ppm-mobile.md).
+-   [Activate the PPM Mobile plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/activate-ppm-mobile.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Open the mobile app and tap the plus icon \(![Add new instance.](../image/mobile-plus-icon.png)\).
+1.  Open the mobile app and tap the plus icon \(![Add new instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/mobile-plus-icon.png)\).
 
 2.  Add a ServiceNow instance and enter the credentials to login.
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  You can give a **Nickname** to your instance for easy identification.
 
-4.  Tap **Project Status** \(![Project status icon.](../image/proj-status-mob.png)\) to get started with tracking your projects.
+4.  Tap **Project Status** \(![Project status icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/proj-status-mob.png)\) to get started with tracking your projects.
 
 
 **Related topics**  

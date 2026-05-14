@@ -18,9 +18,9 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 -   Customers access SP services on a dedicated or shared portal to the SP shared instance.
 -   SPs use ServiceNow shared instances to manage their service delivery.
 
-![Reference architecture SIAM](../image/bp-sp-reference-architecture-siam.png "SIAM architecture at a glance")
+![Reference architecture SIAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-sp-reference-architecture-siam.png "SIAM architecture at a glance")
 
-![Reference architecture comparison](../image/bp-dedicated-ds-hybrid-siam.png "SP reference architecture comparison")
+![Reference architecture comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-dedicated-ds-hybrid-siam.png "SP reference architecture comparison")
 
-**Parent Topic:**[Service provider reference architecture](bp-sp-reference-arch-ds.md)
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 

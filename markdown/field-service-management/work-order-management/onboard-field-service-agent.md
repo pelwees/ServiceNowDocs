@@ -49,5 +49,5 @@ An external agent of the contractor company is onboarded and the internal manage
 
 ## What to do next
 
-The internal manager receives a request to approve the onboarding of an agent. For more information, see [Approve or reject requests for onboarding agents](Approve-reject-request-onboard-agent.md).
+The internal manager receives a request to approve the onboarding of an agent. For more information, see [Approve or reject requests for onboarding agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Approve-reject-request-onboard-agent.md).
 

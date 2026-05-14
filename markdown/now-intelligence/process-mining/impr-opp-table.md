@@ -28,7 +28,7 @@ The improvement opportunities that are set for a process table will be available
 
 1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
-2.  Select the Process configurations icon \(![Process configurations icon](../image/icon-process-config.png)\).
+2.  Select the Process configurations icon \(![Process configurations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/icon-process-config.png)\).
 
 3.  Select a table for which you want to create an improvement opportunity.
 
@@ -38,8 +38,8 @@ The improvement opportunities that are set for a process table will be available
 
     **Important:** If you try to create a new improvement opportunity or edit an existing improvement opportunity from the Classic view, the Finding Builder is automatically opens.
 
-    For information on configuring improvement opportunities, see step 4 onwards on [Configure improvement opportunities](../task/improvement-opportunities.md).
+    For information on configuring improvement opportunities, see step 4 onwards on [Configure improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/improvement-opportunities.md).
 
 
-**Parent Topic:**[Setting improvement opportunities](working-with-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/working-with-imp-opp.md)
 

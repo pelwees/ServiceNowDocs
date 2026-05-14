@@ -46,10 +46,10 @@ By default, contextual search results are based on the short description in the 
 
 You can configure notification options, such as changing the number of links provided with notifications. You can also configure contextual search functionality to match the email notifications of your organization or you can use contextual search with notifications for other records.
 
-**Parent Topic:**[Define email configuration for contextual search](define-email-configuration-for-cxs.md)
+**Parent Topic:**[Define email configuration for contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/define-email-configuration-for-cxs.md)
 
 **Related topics**  
 
 
-[Edit an email notification for the search results](t_ConfigureAnEmailNotification.md)
+[Edit an email notification for the search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_ConfigureAnEmailNotification.md)
 

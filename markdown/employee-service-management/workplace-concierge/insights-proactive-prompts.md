@@ -23,15 +23,15 @@ Role required: admin
 
 ## About this task
 
-As an admin, you can use Proactive Prompts to create insights for employees. These insights are displayed on the presence dashboard and the calendar sections. For more information about Proactive Prompts, see [Proactive Prompts](../../human-resources/concept/proactive-prompts-for-hrsd.md).
+As an admin, you can use Proactive Prompts to create insights for employees. These insights are displayed on the presence dashboard and the calendar sections. For more information about Proactive Prompts, see [Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../human-resources/concept/proactive-prompts-for-hrsd.md).
 
-For information about the default insights installed with Workplace Concierge, see [Insights installed with Workplace Concierge](../reference/insights-installed-workplace-concierge.md).
+For information about the default insights installed with Workplace Concierge, see [Insights installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../reference/insights-installed-workplace-concierge.md).
 
 ## Procedure
 
 1.  Create a signal data source for the insight.
 
-    For more information, see [Create a data source for a signal in Proactive Prompts](../../human-resources/task/proactive-prompts-signal-data-source.md).
+    For more information, see [Create a data source for a signal in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../human-resources/task/proactive-prompts-signal-data-source.md).
 
 2.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Signal Configurations**.
 
@@ -47,25 +47,25 @@ For information about the default insights installed with Workplace Concierge, s
 
 7.  In the **Schedule** field, select the **On demand** schedule.
 
-    **Note:** The on demand schedule is applicable for Calendar insights. For more information about signal schedules, see [Configure signal schedules in Proactive Prompts](../../human-resources/task/proactive-prompts-signal-schedules.md).
+    **Note:** The on demand schedule is applicable for Calendar insights. For more information about signal schedules, see [Configure signal schedules in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../human-resources/task/proactive-prompts-signal-schedules.md).
 
 8.  From the **Receiving user** list, select **Employee**.
 
 9.  Fill in the remaining fields based on your requirement, then select **Submit**.
 
-    For a description of the field values, see [Signal configuration form](../../human-resources/reference/proactive-prompts-create-signal-form.md).
+    For a description of the field values, see [Signal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../human-resources/reference/proactive-prompts-create-signal-form.md).
 
-    For more information about creating a signal configuration, see [Create a signal in Proactive Prompts](../../human-resources/task/proactive-prompts-signal-create.md).
+    For more information about creating a signal configuration, see [Create a signal in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../human-resources/task/proactive-prompts-signal-create.md).
 
 
 ## Result
 
 You've configured a signal that displays the insight to the user in the scheduled frequency.
 
-**Parent Topic:**[Manage Workplace Concierge - Employee Presence](../concept/manage-workplace-concierge.md)
+**Parent Topic:**[Manage Workplace Concierge - Employee Presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/manage-workplace-concierge.md)
 
 **Related topics**  
 
 
-[View employee presence modules](view-employee-routines-and-collaborators.md)
+[View employee presence modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/view-employee-routines-and-collaborators.md)
 

@@ -12,7 +12,7 @@ reading_time_minutes: 1
 
 Identify the requirements and plan your installation of the Hiring Experiences suite.
 
-**Parent Topic:**[Configuring Hiring Experiences](config-frmwrk-ta.md)
+**Parent Topic:**[Configuring Hiring Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/config-frmwrk-ta.md)
 
 ## Dependencies of Hiring Experiences
 

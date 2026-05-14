@@ -99,12 +99,12 @@ The work order plan template is created and appears in the **Work order plan tem
 
 ## What to do next
 
-Use this work order plan template when you [create a work order plan](create-work-order-plan-eam.md).
+Use this work order plan template when you [create a work order plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-work-order-plan-eam.md).
 
-**Parent Topic:**[Manage asset-centric work tasks using work order plans](../concept/manage-work-order-plans.md)
+**Parent Topic:**[Manage asset-centric work tasks using work order plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-work-order-plans.md)
 
 **Related topics**  
 
 
-[Create a work order plan for enterprise assets](create-work-order-plan-eam.md)
+[Create a work order plan for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-work-order-plan-eam.md)
 

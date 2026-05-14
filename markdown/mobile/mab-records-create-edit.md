@@ -27,7 +27,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 3.  Select a category from the categories home screen, and either create or edit a record.
 
-    -   To create a new record of the selected category, select the **New** button \(![New button in categories home screen.](../image/mab-buttton-new-green-solid.png)\).
+    -   To create a new record of the selected category, select the **New** button \(![New button in categories home screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-buttton-new-green-solid.png)\).
     -   To open and edit an existing record, select a record name listed in the main area of categories home screen.
 
 ## Result

@@ -17,7 +17,7 @@ Turn on the flow execution analysis skill to summarize flow execution details an
 
 ## Before you begin
 
--   Install the Now Assist for Creator application. See [Install Now Assist for Creator](install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. See [Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/install-now-assist-for-creator.md).
 -   Role required: flow\_designer or admin
 
 ## Procedure
@@ -26,7 +26,7 @@ Turn on the flow execution analysis skill to summarize flow execution details an
 
 2.  In the workflow list, select **Creator**.
 
-    ![List of cards displayed when selecting Now Assist skills for Creator](../../now-assist-skills/image/na-creator-skill-cards.png)
+    ![List of cards displayed when selecting Now Assist skills for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-skills/image/na-creator-skill-cards.png)
 
 3.  From the list of skills, select **Available**.
 
@@ -34,8 +34,8 @@ Turn on the flow execution analysis skill to summarize flow execution details an
 
 5.  In the Flow execution analysis card, verify that the skill is active.
 
-    ![Flow execution analysis skill listed as active skill](../images/na-flow-execution-analysis-skill-active.png)
+    ![Flow execution analysis skill listed as active skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/na-flow-execution-analysis-skill-active.png)
 
 
-**Parent Topic:**[Flow execution analysis](../reference/flow-execution-analysis-landing.md)
+**Parent Topic:**[Flow execution analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-execution-analysis-landing.md)
 

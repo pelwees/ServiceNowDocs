@@ -36,7 +36,7 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [Create New Action task form](../reference/action-task-form.md).
+    For more information, see [Create New Action task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/action-task-form.md).
 
 4.  Select the type of the action task as **Investigation**.
 
@@ -69,5 +69,5 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 ## What to do next
 
-The task owner reviews the work on the action task and then requests an approval for the vulnerability record. For more information on the steps, see [Request an approval](submit-vul-for-approval.md).
+The task owner reviews the work on the action task and then requests an approval for the vulnerability record. For more information on the steps, see [Request an approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-vul-for-approval.md).
 

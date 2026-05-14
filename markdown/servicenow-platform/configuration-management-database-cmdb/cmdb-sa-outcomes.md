@@ -25,7 +25,7 @@ Each supported business outcome maps to a dedicated product with its own scope, 
 
     You can select up to 50 principal classes, which enables you to improve foundational data accuracy, align with Common Service Data Model \(CSDM\), strengthen incident and change CI links, and increase integration coverage for important CI classes.
 
-    To learn more, see [Using CMDB success advisor for Data Foundations](cmdb-sa-df.md).
+    To learn more, see [Using CMDB success advisor for Data Foundations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df.md).
 
 -   **Hardware Asset Management \(HAM\)**
 
@@ -35,7 +35,7 @@ Each supported business outcome maps to a dedicated product with its own scope, 
 
     You can select up to 50 hardware model categories to improve hardware normalization rates, track asset life cycles accurately, strengthen financial and compliance reporting, and reduce duplicate and outdated hardware records.
 
-    To learn more, see [Using CMDB success advisor for HAM](cmdb-sa-ham-use.md).
+    To learn more, see [Using CMDB success advisor for HAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-use.md).
 
 
 ## Choosing your CMDB success advisor outcome

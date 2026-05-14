@@ -102,5 +102,5 @@ Change request template \(Standard Change type\) to be used. If no template appe
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/resize-res-ci.md)
 

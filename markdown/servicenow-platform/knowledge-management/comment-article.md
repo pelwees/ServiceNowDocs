@@ -23,7 +23,7 @@ Role required: User with Can Read access. Unauthenticated users and users with o
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-pages.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
     If you want to reply to an existing comment, select **Reply**
 
-    ![post a comment](../image/post-comment.png "Post a comment")
+    ![post a comment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/post-comment.png "Post a comment")
 
 4.  Enter your comment or reply and add links, images, and attachments as required.
 
@@ -60,5 +60,5 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
     |Knowledge Management v3|No|No|No|
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 

@@ -62,9 +62,9 @@ Video showing how to create a custom healthcare case type.
 
 ## Result
 
-You now have a new case type extended from the abstract case type Healthcare case. For more information on the abstract Healthcare case type, see [Healthcare case table](../reference/hcls-case-table.md).
+You now have a new case type extended from the abstract case type Healthcare case. For more information on the abstract Healthcare case type, see [Healthcare case table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../reference/hcls-case-table.md).
 
 ## What to do next
 
-[Configure the record producer for your healthcare case type](configure-the-record-producer-for-your-hcls-case-type.md).
+[Configure the record producer for your healthcare case type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-record-producer-for-your-hcls-case-type.md).
 

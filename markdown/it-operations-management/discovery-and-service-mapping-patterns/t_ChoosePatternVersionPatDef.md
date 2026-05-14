@@ -23,7 +23,7 @@ Role required: admin
 
 By default, the latest version is used for discovery, but you can choose any other version to use.
 
-If necessary, you can [compare pattern versions](compare-pattern-versions.md).
+If necessary, you can [compare pattern versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/compare-pattern-versions.md).
 
 ## Procedure
 
@@ -43,17 +43,17 @@ If necessary, you can [compare pattern versions](compare-pattern-versions.md).
 
 6.  Click **Revert to this version** under **Related Links**.
 
-    ![Selecting the Revert to this version option](../image/PatDefRevertVersion.png)
+    ![Selecting the Revert to this version option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefRevertVersion.png)
 
     This pattern version becomes the active version that Service Mapping and Discovery use. Its state changes to Current.
 
 
--   **[Compare pattern versions](compare-pattern-versions.md)**  
+-   **[Compare pattern versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/compare-pattern-versions.md)**  
 If you have multiple versions of the same pattern, you can compare them to decide which pattern version to use for discovery.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Copy patterns from one instance to another](export-patterns.md)
+**Previous topic:**[Copy patterns from one instance to another](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/export-patterns.md)
 
-**Next topic:**[Compare pattern versions](compare-pattern-versions.md)
+**Next topic:**[Compare pattern versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/compare-pattern-versions.md)
 

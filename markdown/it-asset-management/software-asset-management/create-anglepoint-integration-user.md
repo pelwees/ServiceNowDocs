@@ -221,7 +221,7 @@ Photo of the user.
         -   snc\_platform\_rest\_api\_access
         -   oauth\_user
         -   sn\_samp\_ibm\_lic.sam\_ibm\_data\_integrator
-    3.  Select the Add button ![Add button.](../image/add-icon.png) to move the selected roles from the Collection list to the Roles List.
+    3.  Select the Add button ![Add button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/add-icon.png) to move the selected roles from the Collection list to the Roles List.
 
     4.  Select **Save**.
 
@@ -230,5 +230,5 @@ Photo of the user.
     5.  Verify that all selected roles appear on the **Roles** related tab.
 
 
-**Parent Topic:**[Creating a connection for the Anglepoint integration](../concept/creating-connection-anglepoint-elevate-platform.md)
+**Parent Topic:**[Creating a connection for the Anglepoint integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/creating-connection-anglepoint-elevate-platform.md)
 

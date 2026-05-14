@@ -36,7 +36,7 @@ Users in child domains cannot overwrite dashboards. Child domain users only have
 
 Assumptions:
 
--   Only dashboards that have been shared are visible to other users. See [Share a responsive dashboard](../task/t_ControlAccessToADashboard.md).
+-   Only dashboards that have been shared are visible to other users. See [Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/t_ControlAccessToADashboard.md).
 -   Users granted edit permissions on a dashboard can only edit that dashboard if they are in the same domain as the dashboard. For example, a user who is in the HR domain cannot edit a dashboard created in the parent of the HR domain.
 
 Dashboard data that is domain separated includes dashboard records, dashboard tabs, and widget containers. Widget content is governed by the domain separation that applies to the content itself. For example, an admin adds a report created in the HR domain to a dashboard in the IT domain. This report is not visible to users in the IT domain, although they can see the widget container.
@@ -49,7 +49,7 @@ A dashboard defined at the global level is visible to all users with whom it has
 
 In the following figure, dashboards created in the IT, CS, and HR domains are not visible to users in the other child domains or in the parent domain.
 
-![List of company departments in separate domains including IT, CS, and HR](../../reporting/image/domains-list-example.png "Domains list example")
+![List of company departments in separate domains including IT, CS, and HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/domains-list-example.png "Domains list example")
 
 **Important:** Administrators should not edit a domain-separated dashboard from the global domain, because additions made to the dashboard are not visible to users within the separated domain. When editing dashboards, make sure that you are logged in to the correct domain.
 

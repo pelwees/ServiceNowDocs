@@ -29,7 +29,7 @@ After the automation request is moved to the following states, the option to upd
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -37,20 +37,20 @@ After the automation request is moved to the following states, the option to upd
 
     Ensure that the automation request has a template.
 
-5.  Select the Golive Checklist icon \(![golive checklist icon](../images/icon-golive.png)\) from the side panel.
+5.  Select the Golive Checklist icon \(![golive checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/icon-golive.png)\) from the side panel.
 
 6.  Make updates to the checklist.
 
-    You can add more tasks to the checklist or edit the existing tasks. To add more tasks, follow the same steps as creating a checklist in [Create a checklist](create-checklist.md). To edit or delete a task, see [Edit a task](edit-task.md).
+    You can add more tasks to the checklist or edit the existing tasks. To add more tasks, follow the same steps as creating a checklist in [Create a checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-checklist.md). To edit or delete a task, see [Edit a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/edit-task.md).
 
 7.  Select **Update template** from the details button to ensure that your changes are reflected in your template.
 
     **Note:** The **Update template** option is available only for the templates that are created by you.
 
-    ![Update a template](../images/golive-update.png)
+    ![Update a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/golive-update.png)
 
     The template is updated with your changes.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/working-golive.md)
 

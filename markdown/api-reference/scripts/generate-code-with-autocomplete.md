@@ -51,6 +51,6 @@ Role required: now.assist.creator
 
     **Note:** To disable autocomplete for your session, in the script editor select **Code with Now Assist** from the status bar at the bottom of the editor, and then clear **Autocomplete**.
 
-    ![Click to disable autocomplete](../image/now-assist-code-disable-autocomplete.png)
+    ![Click to disable autocomplete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-disable-autocomplete.png)
 
 

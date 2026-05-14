@@ -24,5 +24,5 @@ Server-side scoped APIs are for use within scoped applications, and may behave d
 
 Early Availability includes access to API documentation for the latest release.
 
-**Parent Topic:**[Early Availability guide](early-availability-guide.md)
+**Parent Topic:**[Early Availability guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/early-availability-guide.md)
 

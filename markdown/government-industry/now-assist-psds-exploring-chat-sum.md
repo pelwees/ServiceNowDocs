@@ -26,5 +26,5 @@ In the playbook Interaction record, Chat Summary and Short Description fields ar
 
 When a chat summary is generated, it is automatically added to the **Chat summary** field on the Interaction record. An agent can modify and save the information in the **Chat summary** field.
 
-![Chat summarization in Now Assist for PSDS](../image/chat-handoff-na-psds.png "Chat summarization in Now Assist for PSDS")
+![Chat summarization in Now Assist for PSDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/chat-handoff-na-psds.png "Chat summarization in Now Assist for PSDS")
 

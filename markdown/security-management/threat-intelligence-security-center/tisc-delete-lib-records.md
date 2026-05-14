@@ -33,7 +33,7 @@ The following example procedure explains how to delete an observable record. You
 
     A confirmation message will appear to verify that you want to delete the aggregated record. If you also want to delete the source records and prevent re aggregation, select the **Delete Source Records** check box. This action will remove all the associated source records.
 
-    ![Delete library records](../image/tisc-delete-library-record.png)
+    ![Delete library records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-delete-library-record.png)
 
 4.  Select **Delete**.
 
@@ -42,24 +42,24 @@ The following example procedure explains how to delete an observable record. You
 
 ## What to do next
 
-Refer to the section [Define an Observable](define-an-observable.md) to create a record.
+Refer to the section [Define an Observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-an-observable.md) to create a record.
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/downstream-actions-from-the-vulnerability-form-view.md)
 
-[Export intelligence data](tisc-export-observables.md)
+[Export intelligence data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-export-observables.md)
 
-[Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/automated-correlation-rules.md)
 

@@ -19,7 +19,7 @@ As an agent, you can use the activity stream to communicate with constituents an
 
 The following example shows the activity information view for a record in the Mobile Agent.
 
-![Activity stream view for a record in the Mobile Agent app.](../image/psds-mobile-service-request-activity-stream.png "Mobile Agent activity stream")
+![Activity stream view for a record in the Mobile Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-service-request-activity-stream.png "Mobile Agent activity stream")
 
 ## Agent tasks in the mobile activity stream
 
@@ -60,9 +60,9 @@ Add photos or attachments
 
 </td><td>
 
--   Select the document icon \(![Document icon.](../image/psds-mobile-agent-app-document-icon.png)\) to attach a document to the case.
--   Select the camera ![Camera icon.](../image/psds-mobile-agent-app-camera-icon.png) icon to take a photo to attach to the case.
--   Select the gallery icon \(![Gallery icon.](../image/psds-mobile-agent-app-gallery-icon.png)\) to attach an existing photo to the case.
+-   Select the document icon \(![Document icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-document-icon.png)\) to attach a document to the case.
+-   Select the camera ![Camera icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-camera-icon.png) icon to take a photo to attach to the case.
+-   Select the gallery icon \(![Gallery icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-gallery-icon.png)\) to attach an existing photo to the case.
 
 </td></tr></tbody>
 </table>

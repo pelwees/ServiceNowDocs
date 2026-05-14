@@ -33,7 +33,7 @@ After the Block List is configured, as the security incident administrator, you 
 
     Also note that the Active check box is cleared.
 
-    ![Malware Outboind IP](../image/malware-outbound-ip.png)
+    ![Malware Outboind IP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/malware-outbound-ip.png)
 
     **Note:** With Tabbed forms cleared in your system settings, the Block List Retrieval URL appears in Retrieval URL section.
 
@@ -41,7 +41,7 @@ After the Block List is configured, as the security incident administrator, you 
 
     The following figure shows the Block List Retrieval URL displayed as a tab with Tabbed forms selected in your system settings. The link to the change request \(CH0030270\) is also displayed.
 
-    ![Malware Outbound IP showing Change Requests](../image/malware-outbound-ip2.png)
+    ![Malware Outbound IP showing Change Requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/malware-outbound-ip2.png)
 
 5.  To complete the configuration and move the Block List from inactive to active, you must choose one of the following options to notify the firewall administrator that the retrieval URL is available.
 

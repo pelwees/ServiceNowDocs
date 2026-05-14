@@ -25,18 +25,18 @@ Complete these preparation tasks before running the dbt Cloud collector.
 
 1.  Obtain the required IDs from dbt Cloud.
 
-    See [Obtain account, project, job, and run IDs](prepare-to-run-dbt-cloud-collector.md#).
+    See [Obtain account, project, job, and run IDs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-dbt-cloud-collector.md#).
 
 2.  Create an API token based on your dbt Cloud plan.
 
-    -   Enterprise plan: See [Create a service token](prepare-to-run-dbt-cloud-collector.md#)
-    -   Team plan: See [Create a user token](prepare-to-run-dbt-cloud-collector.md#)
+    -   Enterprise plan: See [Create a service token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-dbt-cloud-collector.md#)
+    -   Team plan: See [Create a user token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-dbt-cloud-collector.md#)
 3.  Enable documentation generation in job settings.
 
-    See [Update job execution settings](prepare-to-run-dbt-cloud-collector.md#).
+    See [Update job execution settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-dbt-cloud-collector.md#).
 
 
-**Parent Topic:**[dbt Cloud metadata collector](../concept/dbt-cloud-metadata-collector.md)
+**Parent Topic:**[dbt Cloud metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/dbt-cloud-metadata-collector.md)
 
 ## Obtain account, project, job, and run IDs
 

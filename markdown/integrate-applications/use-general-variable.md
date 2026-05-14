@@ -19,12 +19,12 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the Variable component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Variable component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 ## Procedure
 
-1.  To use the Variable component, see [Create and use a variable in RPA Desktop Design Studio](configure-variables-rpa-studio.md).
+1.  To use the Variable component, see [Create and use a variable in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-variables-rpa-studio.md).
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

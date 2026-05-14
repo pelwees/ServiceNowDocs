@@ -38,5 +38,5 @@ The `glide.db.clone.allow_clone_target` system property is set to `False`.
 5.  Select **Update**.
 
 
-**Parent Topic:**[Troubleshooting for registering target instance](register-target-instance-troubleshooting.md)
+**Parent Topic:**[Troubleshooting for registering target instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-troubleshooting.md)
 

@@ -41,5 +41,5 @@ After the driver is installed, configure it for your instance. The driver is pre
 5.  Click **OK**.
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-odbc.md)
 

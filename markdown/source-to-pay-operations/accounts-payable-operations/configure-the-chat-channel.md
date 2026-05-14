@@ -30,8 +30,8 @@ Role required: Accounts payable specialist, Accounts payable agent, supplier.
 
 2.  Choose a flow, which you want to view.
 
-    For more information on flows, refer [Virtual agent flows](../concept/virtual-agent-flows.md).
+    For more information on flows, refer [Virtual agent flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/virtual-agent-flows.md).
 
 
-**Parent Topic:**[Virtual agent flows](../concept/virtual-agent-flows.md)
+**Parent Topic:**[Virtual agent flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/virtual-agent-flows.md)
 

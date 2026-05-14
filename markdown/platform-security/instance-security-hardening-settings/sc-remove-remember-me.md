@@ -83,7 +83,7 @@ Category
 
 </td><td>
 
-[Data protection](sc-data-protection.md)
+[Data protection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 
 </td></tr><tr><td>
 
@@ -114,5 +114,5 @@ None
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
 
-**Parent Topic:**[Data protection](sc-data-protection.md)
+**Parent Topic:**[Data protection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 

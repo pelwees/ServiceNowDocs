@@ -190,8 +190,8 @@ Risk rating for the risk of impact to integrity. Impact to integrity has consequ
     The values in the **Life cycle stage** field and the **Life cycle stage status** field change. The Approvals related list appears, and the members of the Approval list can view the record in their list of approvals.
 
 
--   **[Approve, reject, or delete a business process](review-a-business-process.md)**  
+-   **[Approve, reject, or delete a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/review-a-business-process.md)**  
 If a new business process has identified approvers, then the approvers must review and approve the process before it can be published. The approvers can also reject or delete the process as necessary.
 
-**Parent Topic:**[Manage a business process](../concept/use-business-process.md)
+**Parent Topic:**[Manage a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-business-process.md)
 

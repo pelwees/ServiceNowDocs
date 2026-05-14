@@ -18,7 +18,7 @@ As a contract configurator, activate a system property to generate a certificate
 
 ## Before you begin
 
-You must have configured an electronic signature provider. For more information, see [Configure an e-signature provider](cncore-integrate-esign.md).
+You must have configured an electronic signature provider. For more information, see [Configure an e-signature provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-esign.md).
 
 Role required: admin
 
@@ -34,7 +34,7 @@ The certificate of completion provided by Docusign or Adobe Acrobat Sign include
 
 2.  In the **Name** column, search for the `sn_cm_core.enable_executed_contract_audit_certificate` property.
 
-    ![Audit certificate property for executed contracts.](../image/cmpro-audit-certificate.png "Audit certificate property")
+    ![Audit certificate property for executed contracts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-audit-certificate.png "Audit certificate property")
 
 3.  Select the property.
 
@@ -49,26 +49,26 @@ The certificate of completion provided by Docusign or Adobe Acrobat Sign include
 
 A certificate of completion will be generated for all electronically signed contracts.
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-conf-cntrct-wrkspc.md)
 
-[Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
+[Configure signature pause duration when modifying signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-pause-sig-property.md)
 
-[Auto-populate the start date and end date for contract requests](cncore-conf-start-end-date-for-cntrcts.md)
+[Auto-populate the start date and end date for contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-start-end-date-for-cntrcts.md)
 
-[Enable users to view email details in activity stream](cncore-enbl-user-email-astream.md)
+[Enable users to view email details in activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-enbl-user-email-astream.md)
 
-[Enable keyword search for contract templates](cncore-enable-search-cont-tmplts.md)
+[Enable keyword search for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-enable-search-cont-tmplts.md)
 
-[Configuring contract summarization for Contract Management Pro](cmpro-conf-cntr-summary.md)
+[Configuring contract summarization for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-cntr-summary.md)
 
-[Configure conditions to send reminder notifications for expiring contracts](cncore-config-rem-exp-cont.md)
+[Configure conditions to send reminder notifications for expiring contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-rem-exp-cont.md)
 
-[Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
+[Copy fields from parent request to amendment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-notifications.md)
 

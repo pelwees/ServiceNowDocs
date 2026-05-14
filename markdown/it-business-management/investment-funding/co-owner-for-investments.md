@@ -26,12 +26,12 @@ Investment co-owners manage, request, and allocate funds on your behalf to the i
 -   Co-owners are added to the **Viewable by** field for all the child investments.
 -   An investment can have multiple co-owners. There is no maximum limit for the number of co-owners for an investment.
 -   In the Active Investments page, you can see the access level for the investments.
-    -   Owned investments are marked with an owned icon \(![Owned icon.](../image/owner_tag.png)\).
-    -   Co-owned investments are marked with a co-owner icon \(![Co-owner icon.](../image/co_owner_tag.png)\).
-    -   Viewable investments are marked with a view only icon \(![View only icon.](../image/view_only_invstmnt.png)\).
+    -   Owned investments are marked with an owned icon \(![Owned icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/owner_tag.png)\).
+    -   Co-owned investments are marked with a co-owner icon \(![Co-owner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/co_owner_tag.png)\).
+    -   Viewable investments are marked with a view only icon \(![View only icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/view_only_invstmnt.png)\).
 
--   **[Manage co-owners for an investment](../task/manage-co-owners-for-invstmnts.md)**  
+-   **[Manage co-owners for an investment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../task/manage-co-owners-for-invstmnts.md)**  
 Add co-owners to your investments to request, approve, and manage the funds on your behalf. You can remove the existing co-owners when you no longer need them to manage your investments.
 
-**Parent Topic:**[Investment Funding](investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 

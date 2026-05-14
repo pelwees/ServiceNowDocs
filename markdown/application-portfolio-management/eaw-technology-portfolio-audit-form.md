@@ -145,10 +145,10 @@ Technology lifecycle
 TPM technology lifecycle information of the software product or hardware model.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Working with technology portfolio audit details](../../concept/eaw-concept/eaw-view-technology-portfolio-audit-risk.md)
+[Working with technology portfolio audit details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-view-technology-portfolio-audit-risk.md)
 

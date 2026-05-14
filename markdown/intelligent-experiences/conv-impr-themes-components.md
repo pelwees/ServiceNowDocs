@@ -154,5 +154,5 @@ If any of the theme skills are not part of the Azure Open AI provider, the fallb
 |---------------|-----------|
 |themesUtil|Primary utility function for Conversation Evaluator.|
 
-**Parent Topic:**[Reference for Conversation Improvement Themes](conv-impr-themes-reference.md)
+**Parent Topic:**[Reference for Conversation Improvement Themes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-reference.md)
 

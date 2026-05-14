@@ -25,5 +25,5 @@ The generative AI banner displays information about the fields on a form that ar
 
 Messages also include links to the fields that are generated or predicted by Now Assist for TMT.
 
-Generative AI banner in CSM/FSM Configurable Workspace. ![Banner for resolution notes summary.](../image/resolution-banner.png)
+Generative AI banner in CSM/FSM Configurable Workspace. ![Banner for resolution notes summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/resolution-banner.png)
 

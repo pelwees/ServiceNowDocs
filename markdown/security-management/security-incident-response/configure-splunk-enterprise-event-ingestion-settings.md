@@ -137,5 +137,5 @@ Option to specify the delimiter character used to split values in field mapping.
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-install-and-configure.md)
+**Parent Topic:**[Install and configure the ServiceNow application for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-install-and-configure.md)
 

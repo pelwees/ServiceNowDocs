@@ -196,5 +196,5 @@ Information about the model that would be helpful for others to know.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/vaccine-mgmt-config.md)
 

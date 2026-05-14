@@ -124,12 +124,12 @@ Option to provide a text message that displays to the agent when the agent initi
  This field is enabled only if the **Auto Import** option is selected.
 
 </td></tr></tbody>
-</table>    ![New chat configuration](../images/new-chat-configuration-2.png)
+</table>    ![New chat configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/new-chat-configuration-2.png)
 
 6.  Click **Submit**.
 
     The chat configuration defined will be applicable only for the table selected. You can extend the chat configuration to other tables by creating another chat configuration record.
 
 
-**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](../concept/auto-import-messages.md)
+**Parent Topic:**[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/auto-import-messages.md)
 

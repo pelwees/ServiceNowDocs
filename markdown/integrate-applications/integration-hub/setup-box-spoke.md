@@ -44,11 +44,11 @@ Complete these steps from your Box account. See the [Box Developer Portal](https
 
 2.  Select **Create New App**.
 
-    ![Emphasizes the Create New App button](../image/box-spoke-create-new-app-icon.png)
+    ![Emphasizes the Create New App button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-spoke-create-new-app-icon.png)
 
 3.  Select **Custom App**.
 
-    ![Emphasizes the Custom App option](../image/box-spoke-custom-app-button.png)
+    ![Emphasizes the Custom App option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-spoke-custom-app-button.png)
 
 4.  Complete the form.
 
@@ -181,12 +181,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the Box spoke, click **View Details**.
 
-        ![View details of the Box connection.](../image/box-conn-view-det.png)
+        ![View details of the Box connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-conn-view-det.png)
 
-    -   To manage more than one Box spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Box spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Configure the Box connection.](../image/box-conf-connection.png)
+    ![Configure the Box connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-conf-connection.png)
 
 5.  On the form, fill these values.
 
@@ -236,7 +236,7 @@ OAuth Client ID
 
 </td><td>
 
-The application client ID. For more information, see [Create an OAuth application](setup-box-spoke.md#).
+The application client ID. For more information, see [Create an OAuth application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-box-spoke.md#).
 
 </td></tr><tr><td>
 
@@ -244,7 +244,7 @@ OAuth Client Secret
 
 </td><td>
 
-The application client secret. For more information, see [Create an OAuth application](setup-box-spoke.md#).
+The application client secret. For more information, see [Create an OAuth application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-box-spoke.md#).
 
 </td></tr><tr><td>
 
@@ -255,7 +255,7 @@ OAuth Redirect URL
 The URL in this format: `https://<ServiceNow-instance-name>.service-now.com/oauth_redirect.do`. Replace `<ServiceNow-instance-name>` with your ServiceNow instance name.
 
 </td></tr></tbody>
-</table>    ![Configure the Box connection.](../image/box-connection.png)
+</table>    ![Configure the Box connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-connection.png)
 
 6.  Click **Configure Connection**.
 

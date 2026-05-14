@@ -32,7 +32,7 @@ Analyze CSAT metrics by comparing ITSM Virtual Agent performance against live ag
 
 ## Customer satisfaction \(CSAT\) metrics
 
-![Now Assist for ITSM CSAT Virtual Agent Analytics](../image/now-assist-itsm-csat-va-analytics.png)
+![Now Assist for ITSM CSAT Virtual Agent Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-csat-va-analytics.png)
 
 <table><thead><tr><th>
 
@@ -75,7 +75,7 @@ This metric provides a holistic view of customer experience across your entire s
 </td></tr></tbody>
 </table>## Customer satisfaction - feedback metrics
 
-![Now Assist for ITSM CSAT metrics - Thumbs up and Thumbs down](../image/now-assist-itsm-csat-va-thumbs-up-down.png)
+![Now Assist for ITSM CSAT metrics - Thumbs up and Thumbs down](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-csat-va-thumbs-up-down.png)
 
 |Indicators|Descriptions|
 |----------|------------|
@@ -84,5 +84,5 @@ This metric provides a holistic view of customer experience across your entire s
 
 You can drill down into the data by selecting the thumbs-up or thumbs-down icon and then selecting the filter icon in the KPI details page. You can then see the breakdown of the thumbs-up or thumbs-down feedback data based on the different portals, such as Now Assist panel or Now Assist in Virtual Agent, in which it was given.
 
-![Number of chat messages that received feedback from different portals](../image/now-assist-itsm-va-csat-feedback-drilldown.png)
+![Number of chat messages that received feedback from different portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-va-csat-feedback-drilldown.png)
 

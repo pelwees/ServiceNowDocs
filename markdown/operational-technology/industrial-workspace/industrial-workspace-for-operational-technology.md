@@ -17,15 +17,15 @@ The Industrial Workspace is a user interface that provides Operational Technolog
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Exploring the Industrial Workspace](exploring-industrial-workspace.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../../reuse/icons/brand-icons/bus-explore.svg)Exploring the Industrial Workspace](exploring-industrial-workspace.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-industrial-workspace.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-industrial-workspace.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Using the Industrial Workspace](using-industrial-workspace.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../../reuse/icons/brand-icons/bus-management-console.svg)Using the Industrial Workspace](using-industrial-workspace.md)
 
 </td></tr><tr><td>
 

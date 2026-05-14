@@ -20,19 +20,19 @@ Monitor the usage, performance, and value of Now Assist Analytics.
 
 <table id="table_mtp_clr_gcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist Analytics](exploring-now-assist-analytics.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist Analytics](exploring-now-assist-analytics.md)
 
 </td><td>
 
-[Configure![](../../predictive-intelligence/images/icon-configure-pi.png)Configure Now Assist Analytics](configuring-now-assist-analytics.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../predictive-intelligence/images/icon-configure-pi.png)Configure Now Assist Analytics](configuring-now-assist-analytics.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Use Now Assist Analytics](using-now-assist-analytics.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Use Now Assist Analytics](using-now-assist-analytics.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about user roles in Now Assist Analytics](now-assist-analytics-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about user roles in Now Assist Analytics](now-assist-analytics-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -51,5 +51,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 

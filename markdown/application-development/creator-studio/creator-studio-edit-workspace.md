@@ -29,7 +29,7 @@ To customize how the app's workspace lists appear, you must be given permission 
 
     If you tested submitting a record using the **Try it** button, the workspace displays the generated records that you can view.
 
-    ![Customize the workspace in the List configurations section](../image/crs-list-configs-whole.png "List configurations in Creator Studio")
+    ![Customize the workspace in the List configurations section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-list-configs-whole.png "List configurations in Creator Studio")
 
 4.  Make the edits that you need to customize the workspace list configuration.
 
@@ -81,7 +81,7 @@ Delete a list
 </td><td>
 
 1.  Hover over the list you want to delete in the list navigation panel.
-2.  Select the delete icon that appears \(![Icon to delete the list](../../../common/image/Form_DeleteIcon.png)\).
+2.  Select the delete icon that appears \(![Icon to delete the list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../../../common/image/Form_DeleteIcon.png)\).
 3.  Confirm the deletion in the modal that appears by selecting the **Delete** button.
 
 
@@ -89,5 +89,5 @@ Delete a list
 </table>5.  Select the **Save** button in the Filtered list details panel to ensure all updates are saved.
 
 
-**Parent Topic:**[Configuring workspace lists and records for form submissions](../concept/creator-studio-form-submissions-workspace-about.md)
+**Parent Topic:**[Configuring workspace lists and records for form submissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-form-submissions-workspace-about.md)
 

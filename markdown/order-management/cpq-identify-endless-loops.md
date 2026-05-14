@@ -34,7 +34,7 @@ The report provides a list of all potential circular references in the blueprint
 
 The most recent Rule Cycle Report remains visible to all administrators until the report is run again by clicking **Rerun Report**.
 
-![Identify endless loops in Blueprint rules](../images/cpq-encrichments-rule-cycle-report.png)
+![Identify endless loops in Blueprint rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-encrichments-rule-cycle-report.png)
 
-![Identify endless loops in Blueprint rules](../images/cpq-enrichments-rule-cycle-report-breadcrumbs.png)
+![Identify endless loops in Blueprint rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enrichments-rule-cycle-report-breadcrumbs.png)
 

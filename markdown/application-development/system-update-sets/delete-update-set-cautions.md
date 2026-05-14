@@ -25,5 +25,5 @@ Don’t delete sys\_update\_xml entries, because this action:
 
 When you try to delete an update entry, a warning message appears. Select **OK** to confirm the deletion.
 
-**Parent Topic:**[Update sets reference](update-sets-reference.md)
+**Parent Topic:**[Update sets reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/update-sets-reference.md)
 

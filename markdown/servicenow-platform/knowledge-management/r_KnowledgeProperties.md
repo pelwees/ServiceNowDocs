@@ -17,7 +17,7 @@ As an administrator, you can configure the look and functionality of many knowle
 
 You can access Knowledge Management properties by navigating to **Knowledge** &gt; **Administration** &gt; **Properties**.
 
-**Parent Topic:**[Knowledge Management reference](knowledge-management-reference.md)
+**Parent Topic:**[Knowledge Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-reference.md)
 
 ## Knowledge portal properties
 
@@ -354,7 +354,7 @@ Show average rating from knowledge search results \(**glide.knowman.search.show\
 
 </td><td>
 
-Select the check box to display the average star ratings for knowledge base articles.This property is applicable to the search results for knowledge articles that appear on the Knowledge Management Service Portal search results page and service portal widgets such as Knowledge Featured Articles and Knowledge Most Viewed Articles. For more information, see [Using search in Knowledge Management Service Portal](../concept/knowledge-service-portal-search.md) and [Configure the home page widget instance options](../task/config-homepage-widget-options.md).
+Select the check box to display the average star ratings for knowledge base articles.This property is applicable to the search results for knowledge articles that appear on the Knowledge Management Service Portal search results page and service portal widgets such as Knowledge Featured Articles and Knowledge Most Viewed Articles. For more information, see [Using search in Knowledge Management Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-search.md) and [Configure the home page widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/config-homepage-widget-options.md).
 
 </td></tr><tr><td>
 
@@ -495,7 +495,7 @@ Show five-star rating option \(**glide.knowman.show\_star\_rating**\)
 
 </td><td>
 
-Select the check box to display the five-star rating to users with roles set in the associated property. This appears only if the **Show article rating section** property is selected. This property is applicable to the knowledge article view page in the Knowledge Management Service Portal. For more information, see [Knowledge Management Service Portal article view page features](../concept/knowledge-service-portal-view.md).
+Select the check box to display the five-star rating to users with roles set in the associated property. This appears only if the **Show article rating section** property is selected. This property is applicable to the knowledge article view page in the Knowledge Management Service Portal. For more information, see [Knowledge Management Service Portal article view page features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-view.md).
 
 </td></tr><tr><td>
 
@@ -619,7 +619,7 @@ Knowledge Management logo to display if running out of the ServiceNow frames \(*
 
 </td><td>
 
-Click the reference lookup tool ![Lookup icon](../image/Iconreferencelookup.png) and choose an image file to be displayed on knowledge pages that are used outside of the ServiceNow application frames. For example, the logo image selected here appears if you create a Content Management System site that includes knowledge pages. You can also enter the **Name** of an image stored in the database to use that image. **Note:** This property applies only to Knowledge v2 pages. This property is not supported on Knowledge v3 pages.
+Click the reference lookup tool ![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/Iconreferencelookup.png) and choose an image file to be displayed on knowledge pages that are used outside of the ServiceNow application frames. For example, the logo image selected here appears if you create a Content Management System site that includes knowledge pages. You can also enter the **Name** of an image stored in the database to use that image. **Note:** This property applies only to Knowledge v2 pages. This property is not supported on Knowledge v3 pages.
 
 </td></tr><tr><td>
 
@@ -739,7 +739,7 @@ Send email notifications on the first day of each month for articles expiring in
 
 </td><td>
 
-Enter the value as `true` to send email notifications to a list of recipients about articles expiring next month on the first day of each month. The recipients list depends on the ownership group and article versioning features. For more information, see [Knowledge subscriptions](../concept/knowledge-article-subscriptions.md).-   Type: true \| false
+Enter the value as `true` to send email notifications to a list of recipients about articles expiring next month on the first day of each month. The recipients list depends on the ownership group and article versioning features. For more information, see [Knowledge subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-article-subscriptions.md).-   Type: true \| false
 -   Default value: false
 -   Location: System Properties
 
@@ -753,7 +753,7 @@ Enter the value as `true` to apply knowledge ACLs on knowledge article search re
 -   Default value: true
 -   Location: System Properties
 
- **Note:** If the **glide.knowman.search.apply\_acls** is set to true, a knowledge base without any articles present in the search results might appear in the Knowledge Field Facet when filtering by knowledge base. For more information, see [Configure filter facet widget instance options](../task/config-search-results-filter-facets.md).
+ **Note:** If the **glide.knowman.search.apply\_acls** is set to true, a knowledge base without any articles present in the search results might appear in the Knowledge Field Facet when filtering by knowledge base. For more information, see [Configure filter facet widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/config-search-results-filter-facets.md).
 
 </td></tr><tr><td>
 
@@ -856,7 +856,7 @@ Enables you to set the recommended file size \(in megabytes\) while importing a 
 
 The knowledge administrator can set knowledge properties that enable users to edit specific fields on published articles without creating new versions.
 
-The article versioning feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\). For more information, see [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md) and [Article versioning](../concept/article-versioning.md).
+The article versioning feature requires the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\). For more information, see [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-knowledge-advanced-plugin.md) and [Article versioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/article-versioning.md).
 
 <table id="table_jzs_2kx_kt"><thead><tr><th>
 

@@ -32,14 +32,14 @@ Role required:
 
 4.  Select **Edit definition** from the **Take action** list.
 
-    ![Edit definition](../image/edit-def-opp.png)
+    ![Edit definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/edit-def-opp.png)
 
     The Finding Builder for the improvement opportunity is displayed. You can edit the improvement opportunity.
 
     For information on editing improvement opportunities, see the following topics:
 
-    -   [Set rule-based improvement opportunity](rule-based-builder.md)
-    -   [Setting Automated improvement opportunities](../concept/automated-findings.md)
+    -   [Set rule-based improvement opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/rule-based-builder.md)
+    -   [Setting Automated improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/automated-findings.md)
 
-**Parent Topic:**[Setting improvement opportunity for projects](../concept/project-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunity for projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/project-imp-opp.md)
 

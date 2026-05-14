@@ -143,5 +143,5 @@ Due date
 Due date for the action item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create task and assessment-type action items](../task/create-action-items-based-on-smart-assessments.md)
+</table>**Parent Topic:**[Create task and assessment-type action items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-action-items-based-on-smart-assessments.md)
 

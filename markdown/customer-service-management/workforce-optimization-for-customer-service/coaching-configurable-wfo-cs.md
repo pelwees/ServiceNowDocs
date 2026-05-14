@@ -18,11 +18,11 @@ By using Coaching in Workforce Optimization for Customer Service, you can assess
 With Coaching, you can do the following:
 
 -   Recommend training for your agents to address skill gaps.
--   Use the coaching opportunities that are available by [default](../reference/components-installed-configurable-wfo-cs.md) to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
+-   Use the coaching opportunities that are available by [default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
 -   Use assessments and surveys to apply consistent, measurable scores across teams.
 -   Use Predictive Intelligence to recommend skills for your agents and provide training to address those skill gaps.
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-configurable-wfo-cs.md)
 
 ## Skills Overview in Workforce Optimization for Customer Service
 
@@ -31,16 +31,16 @@ Use Skills Overview to analyze skill data such as how many skills are assigned t
 Access Skills Overview from the Teams application:
 
 1.  Go to **Workspaces** &gt; **Manager Workspace**.
-2.  Click the Teams icon ![Teams icon.](../../itsm-manager-workspace/image/teams-icon.png).
+2.  Click the Teams icon ![Teams icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../itsm-manager-workspace/image/teams-icon.png).
 3.  Select a team.
 4.  Click the **Skills** tab.
 5.  Select a skill.
 
 You can access the Skills Overview page when you click on a skill in a user profile page in any Workforce Optimization for Customer Service application.
 
-**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [Activate Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/request-configurable-wfo-cs.md).
 
-![Skill overview page displaying a skill assigned to tasks, agents, on-call experts, and a pie chart of skill coverage experience level dispersal.](../image/skills-overview-new.png)
+![Skill overview page displaying a skill assigned to tasks, agents, on-call experts, and a pie chart of skill coverage experience level dispersal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/skills-overview-new.png)
 
 ### Use cases
 
@@ -142,14 +142,14 @@ Displays the percentage as well as the number of users with different levels of 
 </td></tr></tbody>
 </table>### Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/request-configurable-wfo-cs.md).
 
 |Title|Type|Source table|Description|
 |-----|----|------------|-----------|
-|Assigned Users|![Single score icon.](../../../reuse/reporting/image/single-score-sm.svg)|User Skill \[sys\_user\_has\_skill\]|The number of users who have the selected skill assigned to them.|
-|Assigned Tasks|![Single score icon.](../../../reuse/reporting/image/single-score-sm.svg)|Task Skill \[task\_m2m\_skill\]|The number of tasks for which this skill has been assigned.|
-|Pending Users|![Single score icon.](../../../reuse/reporting/image/single-score-sm.svg)|Pending Users \[sn\_lc\_learning\_task\]|The numbers of users who are yet to be assigned the selected skill from the learning task.|
-|Course Items|![Single score icon.](../../../reuse/reporting/image/single-score-sm.svg)|Learning Course Item \[sn\_lc\_course\_item\]|The number of internal and external courses that have the skill associated with the course item.|
+|Assigned Users|![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/reporting/image/single-score-sm.svg)|User Skill \[sys\_user\_has\_skill\]|The number of users who have the selected skill assigned to them.|
+|Assigned Tasks|![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/reporting/image/single-score-sm.svg)|Task Skill \[task\_m2m\_skill\]|The number of tasks for which this skill has been assigned.|
+|Pending Users|![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/reporting/image/single-score-sm.svg)|Pending Users \[sn\_lc\_learning\_task\]|The numbers of users who are yet to be assigned the selected skill from the learning task.|
+|Course Items|![Single score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/reporting/image/single-score-sm.svg)|Learning Course Item \[sn\_lc\_course\_item\]|The number of internal and external courses that have the skill associated with the course item.|
 
 ## Assess the quality of completed tasks
 
@@ -181,7 +181,7 @@ The Coaching Overview screen displays the average quality of the tasks that were
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Do any of the following.
 
@@ -199,9 +199,9 @@ Do this
 
 </td><td>
 
-1.  Click the Lists \(![Lists icon.](../image/list-new.png)\) icon.
+1.  Click the Lists \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/list-new.png)\) icon.
 2.  Select any record, such as a case or interaction, for which you want to create an assessment.
-3.  Select the Assessments \(![Coaching Assessment icon.](../image/coaching-assessment-new.png)\) icon. The assessment screen appears in the right panel.
+3.  Select the Assessments \(![Coaching Assessment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-assessment-new.png)\) icon. The assessment screen appears in the right panel.
 4.  Click the plus \(+\) icon.
 
 
@@ -211,7 +211,7 @@ Do this
 
 </td><td>
 
-1.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+1.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 2.  Select any record for which you want to create an assessment.
 
 **Note:** Click the **Active Assessments** tab to view assessments of all teams for which you are a manager or an additional manager.
@@ -333,7 +333,7 @@ You can view skills for all users grouped by assignment group and the overall sk
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Click the **Skills** tab.
 
@@ -380,7 +380,7 @@ The skill gets automatically added to the agent.
     2.  In the **Details** tab, review the request for skill approval, the sample case resolutions that were used to predict the skill, and the activity stream.
     -   To approve a skill, click **Approve**. The skill is added to the agent and the lowest level for the skill is automatically associated with the added skill. The state for the request changes to **Approved** and the skill is added to the agent.
     -   To reject a skill, click **Reject**. The state for the request changes to **Rejected**. Predictive Intelligence does not recommend the skill for the user again and the field changes to **Add**.
-    -   Click the More Options \(![More options icon.](../image/ellipsis-new.png)\) icon and select **Save**.
+    -   Click the More Options \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/ellipsis-new.png)\) icon and select **Save**.
     The application assigns the skill to the user. If the assigned skill does not have a skill level, the application adds the basic skill level to the user.
 
 
@@ -388,7 +388,7 @@ The skill gets automatically added to the agent.
 
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content in catalogs. Assign learning tasks and track completion.
 
-**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](../task/request-configurable-wfo-cs.md).
+**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/request-configurable-wfo-cs.md).
 
 ### Create a learning catalog
 
@@ -402,7 +402,7 @@ Role required: sn\_lc.catalog\_manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Click the **Learning** tab.
 
@@ -441,13 +441,13 @@ Role required: sn\_lc.task\_creator
 
 #### About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Customer Service Reference](../reference/components-installed-configurable-wfo-cs.md).
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Customer Service Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md).
 
 #### Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Click **Learning Tasks** and select **All Tasks**.
 
@@ -515,7 +515,7 @@ Role required: sn\_lc.content\_creator
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Click **Learning Courses** and select **Internal Courses**.
 
@@ -608,7 +608,7 @@ Role required: sn\_lc.learning\_admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/coaching-new.png)\) icon.
 
 3.  Click the **Learning** tab.
 

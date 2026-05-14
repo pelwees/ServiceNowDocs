@@ -21,7 +21,7 @@ You can edit the default filters **Status** and **Updated** available with the d
 
 **Note:** You must be on the Employee Center version 38.0 or later or have upgraded to the Australia release to use the Enhanced Requests Experience.
 
-![Enhanced Requests Experience page displays the request items on the Created for others.](../images/ereq-dec25.png "Enhanced Requests Experience")
+![Enhanced Requests Experience page displays the request items on the Created for others.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ereq-dec25.png "Enhanced Requests Experience")
 
 The default number of requests shown on one page is 15. If it exceeds 15, pagination comes into effect.
 
@@ -35,8 +35,8 @@ Enhance the visibility of requests by using the **Filter by** option. You can on
 
 The multiple tab interface and the filter options are configurable. For more information, see:
 
--   [Set up request sources](../task/config-request-sources.md)
--   [Set up the Requests filter definition](../task/request-filter-def.md)
+-   [Set up request sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-request-sources.md)
+-   [Set up the Requests filter definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/request-filter-def.md)
 
 The **Requests** page is available on responsive view too. The filters are displayed with a **Show more** option when it exceeds the page length.
 
@@ -60,7 +60,7 @@ As an executive assistant, you can view requests that you have created for other
 
 You can get the Enhanced Requests Experience on the Now Mobile app, bringing the full request management capabilities from the Employee Center portal to mobile. Employees can view, search, filter, and manage their requests on the go.
 
-To view the requests on your Now Mobile, you must opt for the mobile experience. For more information, refer to [Opt in to the enhanced Enhanced Requests Experience](../task/opt-in-emre.md) and select the Mobile experience.
+To view the requests on your Now Mobile, you must opt for the mobile experience. For more information, refer to [Opt in to the enhanced Enhanced Requests Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/opt-in-emre.md) and select the Mobile experience.
 
-To know more about the mobile experience, refer to [Enhanced Requests Experience on Now Mobile](enhanced-req-exp-ec-mobile.md).
+To know more about the mobile experience, refer to [Enhanced Requests Experience on Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhanced-req-exp-ec-mobile.md).
 

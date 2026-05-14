@@ -33,13 +33,13 @@ Role required: sam\_user or sam\_admin
 
 2.  Select **Create entitlement**.
 
-    ![Guided walk-through for creating entitlements](../image/playbook-popup.png)
+    ![Guided walk-through for creating entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/playbook-popup.png)
 
 3.  Select **Guided step by step walk-through** and select **Next**.
 
     The Create New Software Entitlement page opens and the status of the entitlement is in **build**.
 
-    ![Create an entitlement via the guided walk-through playbook](../image/create-new-entitlement-playbook.png)
+    ![Create an entitlement via the guided walk-through playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/create-new-entitlement-playbook.png)
 
 4.  Select whether you're creating an entitlement for an on-premises product or for a SaaS product.
 
@@ -140,5 +140,5 @@ Based on the type of profile you specified, select an integration profile.
     The entitlement is created and state of the entitlement is changed to **in use** from **build**. The entitlement is ready to be used for the reconciliation process.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

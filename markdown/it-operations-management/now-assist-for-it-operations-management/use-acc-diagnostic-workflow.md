@@ -18,14 +18,14 @@ Enable and use AI agents to examine agent behavior through the Agent Client Coll
 ## Before you begin
 
 -   Ensure that the Now Assist panel is enabled on your instance. For details, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
--   Ensure that Now Assist for IT Operations Management \(ITOM\) is installed on your instance. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
+-   Ensure that Now Assist for IT Operations Management \(ITOM\) is installed on your instance. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../now-assist-setup-itom/task/install-now-assist-itom.md).
 -   Enable the Agent Client Collector diagnostic workflow in AI Agent Studio.
     1.  Select **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
     2.  On the **Agentic workflows** tab, select **Agent Client Collector \(ACC\) Diagnostic**.
     3.  Select the **Select channels and status** option.
     4.  In the **Engage via the Now Assist** panel, slide the **Display** toggle bar to the right \(active\).
 
-        ![Display toggle bar](../image/display-toggle-bar.png "Display toggle bar")
+        ![Display toggle bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/display-toggle-bar.png "Display toggle bar")
 
 -   Role required: agent\_client\_collector\_admin, agent\_client\_collector\_user, or now\_assist\_panel\_user
 
@@ -38,7 +38,7 @@ Invoke the Agent Client Collector \(ACC\) diagnostic workflow to:
 
 ## Procedure
 
-1.  In a ServiceNow instance, select the Now Assist icon \(![Now Assist icon](../image/now-assist-icon.png)\).
+1.  In a ServiceNow instance, select the Now Assist icon \(![Now Assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/now-assist-icon.png)\).
 
 2.  In the Now Assist panel, enter prompts to invoke the ACC diagnostic workflow and perform remediation actions on the agent.
 

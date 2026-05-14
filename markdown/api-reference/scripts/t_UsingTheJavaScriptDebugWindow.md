@@ -66,12 +66,12 @@ Click the debug icon in the banner frame.
     -   JavaScript Log
     -   Field Watcher
 
-**Parent Topic:**[JavaScript debug window](../concept/c_JavaScriptDebugWindow.md)
+**Parent Topic:**[JavaScript debug window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/c_JavaScriptDebugWindow.md)
 
 **Related topics**  
 
 
-[Writing to the debug log](../concept/c_WritingToTheDebugLog.md#)
+[Writing to the debug log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/c_WritingToTheDebugLog.md#)
 
-[Watching fields](../concept/c_FieldWatcher.md#)
+[Watching fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/c_FieldWatcher.md#)
 

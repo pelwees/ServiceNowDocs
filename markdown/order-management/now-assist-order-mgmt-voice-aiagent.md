@@ -56,5 +56,5 @@ Using the order exception AI voice agent, you can do the following:
 
 The AI voice agent creates an order case based on an agreement of proposed delivery dates with the customer starting with the prefix ORDCS and provides you with the case number over the call.
 
-**Parent Topic:**[Using Now Assist for Order Management](now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 

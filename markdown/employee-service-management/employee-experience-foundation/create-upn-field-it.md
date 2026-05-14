@@ -37,7 +37,7 @@ Role required: admin
 
 5.  Click **Add**.
 
-    ![Create new field](../images/create-new-field.png)
+    ![Create new field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/create-new-field.png)
 
 6.  In the Selected slush bucket column, move the field in the desired location on the form.
 
@@ -45,7 +45,7 @@ Role required: admin
 
     The field now appears on the form in the designated location.
 
-    ![New field added to form](../images/upn-field.png)
+    ![New field added to form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/upn-field.png)
 
     The admin must enter the email used for Microsoft Teams in this field.
 
@@ -53,23 +53,23 @@ Role required: admin
 
 8.  Right-click on the field and click **Show &lt;value of the field name&gt;**.
 
-    ![Show field name](../images/show-field-name.png)
+    ![Show field name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/show-field-name.png)
 
     The dictionary info of the field name can be viewed.
 
-    ![Field name](../images/field-name2.png)
+    ![Field name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/field-name2.png)
 
 9.  Right click the **Field** and copy the value.
 
 10. In the search field, enter `sys_properties.LIST` to view the system properties.
 
-    ![System properties](../images/sys-properties2.png)
+    ![System properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sys-properties2.png)
 
 11. In the Name column, search for `*user_email` property.
 
 12. Click the entry.
 
-    ![Email field properties](../images/email-field2.png)
+    ![Email field properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/email-field2.png)
 
     If the record is not editable, click **Edit** on the header to edit the record.
 
@@ -77,12 +77,12 @@ Role required: admin
 
     The default value is **email**.
 
-    ![Updtae email field](../images/updtae-email-field.png)
+    ![Updtae email field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/updtae-email-field.png)
 
 14. Click **Update**.
 
     **Note:** Ensure that the email address for all the users for the newly created field is updated with the email associated with Microsoft Teams app.
 
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](../concept/sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/sn-ms-teams-config-it.md)
 

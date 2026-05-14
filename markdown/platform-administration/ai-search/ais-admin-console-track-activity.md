@@ -32,11 +32,11 @@ The **Track AI Search activity pane** pane displays reports summarizing your AI 
 
 3.  To view the full AI Search dashboard, select the **Go to full dashboard** link.
 
-    For details on this dashboard's reports, see [AI Search dashboard](../../../use/dashboards/application-content-packs/ai-search-dashboard.md).
+    For details on this dashboard's reports, see [AI Search dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../../use/dashboards/application-content-packs/ai-search-dashboard.md).
 
 
--   **[AI Search activity reports](../reference/ais-admin-console-activity-reports.md)**  
+-   **[AI Search activity reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/ais-admin-console-activity-reports.md)**  
 Reports summarize your AI Search configurations and trends.
 
-**Parent Topic:**[Using AI Search Admin console](../concept/using-ais-admin-console.md)
+**Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/using-ais-admin-console.md)
 

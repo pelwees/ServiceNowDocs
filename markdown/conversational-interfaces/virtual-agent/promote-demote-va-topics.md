@@ -18,7 +18,7 @@ Promote assets including conversational subflows, conversational actions, and to
 
 ## Before you begin
 
-Associate an LLM topic, conversational subflow, or conversational action with an LLM assistant. For more information, see [Creating a Virtual Agent topic](create-virtual-agent-topic.md), [Managing conversational subflows in Assistant Designer](../concept/managing-conversational-subflows.md), and [Managing conversational actions in Assistant Designer](../concept/managing-conversational-actions.md).
+Associate an LLM topic, conversational subflow, or conversational action with an LLM assistant. For more information, see [Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md), [Managing conversational subflows in Assistant Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/managing-conversational-subflows.md), and [Managing conversational actions in Assistant Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/managing-conversational-actions.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -28,11 +28,11 @@ After you associate a conversational subflow, conversational action, or topic wi
 
 System topics, setup topics, topic blocks, custom controls, and small talk topics cannot be promoted.
 
-**Note:** You can also promote NLU/keyword topics by creating topic recommendations in Conversational Interfaces settings. For more information, see [Using Virtual Agent Topic Recommendations](../concept/va-topic-recommendations.md).
+**Note:** You can also promote NLU/keyword topics by creating topic recommendations in Conversational Interfaces settings. For more information, see [Using Virtual Agent Topic Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-topic-recommendations.md).
 
 For promotion controls for LLM assets, you can check the asset's **Promoted** status under the Show actions for this row icon ![](../images/kebab-menu.png). The **Promoted** status shows a check mark when the topic is promoted.
 
-For more information about LLM assistants, see [LLM assistants](../../now-assist-in-va/concept/llm-assistants.md).
+For more information about LLM assistants, see [LLM assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/concept/llm-assistants.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ For more information about LLM assistants, see [LLM assistants](../../now-assist
 
 ## Result
 
-![Virtual Agent chat window showing a list of promoted assets.](../images/promoted-llm-topic-list.png "Example of promoted assets in a Virtual Agent chat")
+![Virtual Agent chat window showing a list of promoted assets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/promoted-llm-topic-list.png "Example of promoted assets in a Virtual Agent chat")
 
 The asset is added to the list of assets promoted by the LLM assistant, while a demoted asset is removed from the list.
 
@@ -59,7 +59,7 @@ A toast message also appears for four seconds, confirming that the asset has bee
 
 ## What to do next
 
-Reorder promoted LLM conversational subflows, actions, and topics in Virtual Agent. For more information, see [Reorder promoted LLM conversational subflows, actions, and topics](sort-promoted-va-topics.md).
+Reorder promoted LLM conversational subflows, actions, and topics in Virtual Agent. For more information, see [Reorder promoted LLM conversational subflows, actions, and topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sort-promoted-va-topics.md).
 
-**Parent Topic:**[Getting started with Virtual Agent Designer](../reference/conversation-designer-virtual-agent.md)
+**Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/conversation-designer-virtual-agent.md)
 

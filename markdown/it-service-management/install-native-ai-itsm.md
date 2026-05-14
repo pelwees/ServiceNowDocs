@@ -24,8 +24,8 @@ Role required: admin
 
 The following items are installed with IT Service Management.
 
--   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](../reference/agents-ai-native-it-service-desk.md).
--   Commonly requested catalog items. For information on catalog items, see [Catalog items installed with Simplified IT Service Management](../reference/catalog-items-base-system.md).
+-   AI agents and agentic workflows simplifying ITSM workflows, supporting a simplified Employee Center portal, and a simplified administrator, employee, and fulfiller experience. For information on AI agents, see [AI agents and agentic workflows in Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../reference/agents-ai-native-it-service-desk.md).
+-   Commonly requested catalog items. For information on catalog items, see [Catalog items installed with Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../reference/catalog-items-base-system.md).
 
 ## Procedure
 
@@ -45,7 +45,7 @@ The following items are installed with IT Service Management.
 
         The Product Hub page for IT Service Management is displayed.
 
-        ![Set up Simplified ITSM application](../image/getStartedInstall2.png)
+        ![Set up Simplified ITSM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/getStartedInstall2.png)
 
     3.  In the **Installation progress** section, from the **Not Installed** tab, select **Apply default configurations** for IT Service Management.
 
@@ -57,7 +57,7 @@ The following items are installed with IT Service Management.
 
     1.  In the **Now you're ready to configure** pop-up window, select **Configure**.
 
-        ![Start configuring Simplified IT Service Management](../image/ai-native-itsm-configure.png)
+        ![Start configuring Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/ai-native-itsm-configure.png)
 
         The Configure IT Service Management page is displayed.
 

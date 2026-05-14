@@ -23,7 +23,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Employee Center**.
 
-2.  Select the chat icon \(![Chat icon for Virtual Agent](../../universal-request/images/icon-chat-va.png)\) to start the Virtual Agent.
+2.  Select the chat icon \(![Chat icon for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../universal-request/images/icon-chat-va.png)\) to start the Virtual Agent.
 
 3.  Type `Show notifications`.
 

@@ -73,8 +73,8 @@ Data Stream action
 
 </td><td>
 
--   ![Select Data Stream action](../image/select-data-stream-action.png) Selected to use an existing published Data Stream action from Integration Hub.
--   ![Select published Data Stream action or create new Data Stream action](../image/create-data-stream-action.png) Selected for one of the following reasons:
+-   ![Select Data Stream action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/select-data-stream-action.png) Selected to use an existing published Data Stream action from Integration Hub.
+-   ![Select published Data Stream action or create new Data Stream action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/create-data-stream-action.png) Selected for one of the following reasons:
     -   If you select a published Data Stream action, click this button to open the Data Stream action in Integration Hub.
     -   If you don't select a Data Stream action, click this button to create and publish a new Data Stream action in Integration Hub.
  **Note:** Data Stream actions require a subscription for production use.

@@ -125,7 +125,7 @@ Data visualizations follow filters by default. A data visualization follows filt
 2.  Select the dashboard element that you want to follow or not follow filters.
 3.  In the header, select the Configure icon ![](../images/configuration-icon.png) to open the Configuration panel.
 4.  In the Data update section, select or deselect **Follow filters**.
-5.  To show a filter icon ![Filter icon.](../../../reuse/icons/product-icons/filter-outline-24.svg) on the data visualization when it follows an interactive filter, select the **Show filter icon**.
+5.  To show a filter icon ![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../reuse/icons/product-icons/filter-outline-24.svg) on the data visualization when it follows an interactive filter, select the **Show filter icon**.
 
 
 </td></tr><tr><td id="d23497e392">
@@ -156,5 +156,5 @@ Point to the element, then select the information icon ![](../images/details-ico
 </table>    **Note:** If you’re unable to edit the dashboard, you don’t have permissions to edit the dashboard.
 
 
-**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](monitor-data-using-esg-dashboards.md)
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 

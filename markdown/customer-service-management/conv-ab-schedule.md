@@ -27,27 +27,27 @@ You can only schedule one appointment per location. Only logged-in users can sch
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Select the chat icon \(![Chat icon.](../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
+2.  Select the chat icon \(![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
 
 3.  Enter `schedule appointment`.
 
-    ![Virtual Agent chat window with the user selecting a reason for the appointment.](../image/conv-ab-sched3.png "Start scheduling an appointment")
+    ![Virtual Agent chat window with the user selecting a reason for the appointment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-sched3.png "Start scheduling an appointment")
 
 4.  Choose a date from the calendar.
 
-    ![Virtual Agent chat window with dates and times that are available for the appointment being scheduled.](../image/conv-ab-sched2.png "Choosing a date from the calendar")
+    ![Virtual Agent chat window with dates and times that are available for the appointment being scheduled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-sched2.png "Choosing a date from the calendar")
 
 
 ## Result
 
 The appointment is scheduled and the chat is complete.
 
-![Virtual Agent chat window with the details of the scheduled appointment.](../image/conv-ab-schedule.png "Finished scheduling an appointment")
+![Virtual Agent chat window with the details of the scheduled appointment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-schedule.png "Finished scheduling an appointment")
 
 **Related topics**  
 
 
-[Reschedule an appointment](conv-ab-reschedule.md)
+[Reschedule an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-reschedule.md)
 
-[Cancel an appointment](conv-ab-cancel.md)
+[Cancel an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-cancel.md)
 

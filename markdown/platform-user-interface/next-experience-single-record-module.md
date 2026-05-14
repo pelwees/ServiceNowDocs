@@ -27,11 +27,11 @@ Use the Single record module to create a custom record view, enabling users to f
 
 2.  Select the **Edit application** icon.
 
-    ![Arrow pointing the edit application icon in the all menu.](../image/neame-edit-app.png)
+    ![Arrow pointing the edit application icon in the all menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-edit-app.png)
 
 3.  Select **+** in the menu header.
 
-    ![Arrow pointing the add module icon in the header.](../image/neame-add-module.png)
+    ![Arrow pointing the add module icon in the header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-add-module.png)
 
 4.  Add a single record module by hovering over the module and selecting **Add**.
 
@@ -161,8 +161,8 @@ Action
 </td></tr></tbody>
 </table>11. Select **Open module** in the top bar to preview the new record form.
 
-    ![Arrow pointing the open module icon in the header.](../image/neame-open-single-record-module.png)
+    ![Arrow pointing the open module icon in the header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-open-single-record-module.png)
 
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-all-menu-editing.md)
 

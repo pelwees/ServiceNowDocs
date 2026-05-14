@@ -33,7 +33,7 @@ A time card is created for each category type and work order task. The total hou
 
     -   Navigate to a work order task and select **Record Time**. Selecting **Record Time** opens a **Time Worked** form with the **Task** and **User** field already populated.
     -   Navigate to **Time Sheets** &gt; **My Time Worked** and select **New**. This opens a **Time Worked** form with the **User** field already populated.
-    ![record time form](../image/record-time.png)
+    ![record time form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/record-time.png)
 
 2.  If necessary, select the work order task in the **Task** field.
 

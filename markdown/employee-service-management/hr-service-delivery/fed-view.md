@@ -35,15 +35,15 @@ The following are some key benefits of the Federal plugin:
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Set up Federal plugin](../task/set-up-fed.md#) ![Configure the plugin to get started](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the plugin to get started
+[Set up Federal plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/set-up-fed.md#) ![Configure the plugin to get started](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the plugin to get started
 
 </td><td>
 
-[Using Federal plugin](../task/using-fed-app.md) ![Use the plugin to promote interoperability between agencies or shared service providers.](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the plugin to promote interoperability between agencies or shared service providers.
+[Using Federal plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/using-fed-app.md) ![Use the plugin to promote interoperability between agencies or shared service providers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the plugin to promote interoperability between agencies or shared service providers.
 
 </td><td>
 
-[Federal plugin reference](../reference/refer-fed.md#) ![Get details about tables in Federal plugin](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about tables in the plugin
+[Federal plugin reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/refer-fed.md#) ![Get details about tables in Federal plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about tables in the plugin
 
 </td></tr></tbody>
 </table>## Additional resources

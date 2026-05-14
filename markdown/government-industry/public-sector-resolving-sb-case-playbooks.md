@@ -13,7 +13,7 @@ breadcrumb: [Using Social Benefits Playbook, Playbooks, Use, Public Sector Digit
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the Social Benefits Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the Social Benefits Playbook application](configuring-social-benefit-playbook.md).
+**Note:** Verify that the Social Benefits Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the Social Benefits Playbook application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/configuring-social-benefit-playbook.md).
 
 By default, the following stages are available to you as a government service agent in the Social Benefits Playbook in the CSM Configurable Workspace.
 

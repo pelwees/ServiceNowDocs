@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-    ![System applications](../image/system-apps.png)
+    ![System applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/system-apps.png)
 
     **Note:** Starting with Orlando, dependency plugins are automatically activated when you activate a core application. For example, when you activate the Vulnerability Response application, the Vulnerability Response Dependencies plugin is also activated. Hence, steps 2 through 5 are optional.
 
@@ -29,13 +29,13 @@ Role required: admin
 
     For example, if you are activating Security Incident Response, locate the Security Incident Response Dependencies plugin.
 
-    ![Locating the Security Incident Response Dependencies plugin](../image/sir-dependencies.png)
+    ![Locating the Security Incident Response Dependencies plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/sir-dependencies.png)
 
 3.  Click **Install**.
 
     The Activate Plugin dialog box appears.
 
-    ![Activate dependency plugin](../image/sir-dep-plugin.png)
+    ![Activate dependency plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/sir-dep-plugin.png)
 
 4.  In the **Activate Plugin** dialog box, click **Activate**.
 

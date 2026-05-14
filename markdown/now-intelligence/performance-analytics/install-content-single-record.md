@@ -21,7 +21,7 @@ Role required: pa\_admin
 
 ## About this task
 
-To install the entire dashboard and all associated records, see [Install a dashboard](install-content.md).
+To install the entire dashboard and all associated records, see [Install a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content.md).
 
 **Note:** Installing a record does not overwrite any customizations you have made to that record.
 
@@ -56,5 +56,5 @@ Available solution metadata types:
 5.  In the confirmation window, click **Install**.
 
 
-**Parent Topic:**[Install a dashboard](install-content.md)
+**Parent Topic:**[Install a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content.md)
 

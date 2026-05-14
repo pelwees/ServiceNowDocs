@@ -36,7 +36,7 @@ Search facets render in the Faceted Search widget on the sp\_search page. To ena
 
 ## Result
 
-When using search in Service Portal, results render in the sp\_search page. Add facets to the search source to enable end users to filter search results. To learn more about facets, see [Add facets to a simple search source](create-search-filter.md).
+When using search in Service Portal, results render in the sp\_search page. Add facets to the search source to enable end users to filter search results. To learn more about facets, see [Add facets to a simple search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-search-filter.md).
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/zing-search-service-portal.md)
 

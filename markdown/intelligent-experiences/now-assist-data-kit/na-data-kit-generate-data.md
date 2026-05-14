@@ -48,7 +48,7 @@ Role required: sn\_data\_kit.admin
     |Catalog item|Service Catalog is a user-friendly interface that allows end-users to browse, request, and manage services and products offered by the organization, streamlining self-service and improving operational efficiency.|
     |Incident data|Information Technology Service Management is a business function that involves managing IT services and processes to meet business needs effectively.|
 
-    ![Define data screen.](../image/nadk-data-template.png)
+    ![Define data screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../image/nadk-data-template.png)
 
 8.  On the form, fill in the rest of the fields.
 
@@ -59,11 +59,11 @@ Role required: sn\_data\_kit.admin
     |Category|Data that has been categorized with keywords.|
     |Count|Number of records to generate.|
 
-    **Note:** If you have sample data available, you can navigate to [Select the sample data](select-sample-data.md) to enhance the accuracy of the generated data. If you don't have sample data, refer to the in-product help for guidance.
+    **Note:** If you have sample data available, you can navigate to [Select the sample data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/select-sample-data.md) to enhance the accuracy of the generated data. If you don't have sample data, refer to the in-product help for guidance.
 
 9.  Select **Continue**.
 
-10. Add your sample data by navigating to [Define columns to generate data](na-data-kit-define-columns.md).
+10. Add your sample data by navigating to [Define columns to generate data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/na-data-kit-define-columns.md).
 
     The columns are populated when you add the sample data. If no sample data is available, you must manually populate the columns with data.
 

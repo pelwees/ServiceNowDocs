@@ -21,13 +21,13 @@ Role required: sn\_customerservice.consumer
 
 1.  Navigate to the Consumer Portal.
 
-2.  Select the Chat icon \( ![Chat icon.](../image/chat-icon.png)\) in the Consumer Portal to start a conversation.
+2.  Select the Chat icon \( ![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-icon.png)\) in the Consumer Portal to start a conversation.
 
 3.  Enter your query to continue the conversation.
 
     **Note:** Pre chat survey is turned off by default.
 
-4.  To talk to a person instead of a virtual agent, select ![Connect Support icon.](../../customer-communities/images/contact-support-icon.png) and then **Contact Support**.
+4.  To talk to a person instead of a virtual agent, select ![Connect Support icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../customer-communities/images/contact-support-icon.png) and then **Contact Support**.
 
 5.  Select **End Conversation** after you’re finished with the chat.
 

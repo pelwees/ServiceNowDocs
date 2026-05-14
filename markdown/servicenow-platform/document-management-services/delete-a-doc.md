@@ -36,22 +36,22 @@ User: owner
     -   To delete a single document, open the document record and select **Delete**.
     -   To delete multiple documents, select the document record entries, and from the Actions on selected rows drop-down menu, select **Delete**.
 
-**Parent Topic:**[Document repository](../concept/doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
-[Create a document record](create-new-doc.md)
+[Create a document record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-new-doc.md)
 
-[Document versions](../concept/document-mgt-versions.md)
+[Document versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-mgt-versions.md)
 
-[Download a document](downloading-a-document.md)
+[Download a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/downloading-a-document.md)
 
-[Share a document link](share-document-link.md)
+[Share a document link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/share-document-link.md)
 
-[Modify a shared link access](modify-access-shared-link.md)
+[Modify a shared link access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/modify-access-shared-link.md)
 
-[Configure document permissions](../concept/document-configuration.md)
+[Configure document permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-configuration.md)
 
-[Delete a document link](delete-document-link.md)
+[Delete a document link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/delete-document-link.md)
 

@@ -27,15 +27,15 @@ With the ServiceNow® Document Templates application, you can create HTML and PD
 
 <table id="doc-tem" class="nav-card"><tbody><tr><td>
 
-[Configure ![Plan and configure your implementation](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation](set-up-doc-temp.md)
+[Configure ![Plan and configure your implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation](set-up-doc-temp.md)
 
 </td><td>
 
-[Use ![Automate and simplify the process of filling, signing, and reviewing a document online](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Automate and simplify the process of filling, signing, and reviewing a document online](using-doc-templates.md)
+[Use ![Automate and simplify the process of filling, signing, and reviewing a document online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Automate and simplify the process of filling, signing, and reviewing a document online](using-doc-templates.md)
 
 </td></tr><tr><td>
 
-[Reference ![Get details about components like fields, tables, and properties](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties](../reference/reference-doc-templates.md#)
+[Reference ![Get details about components like fields, tables, and properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties](../reference/reference-doc-templates.md#)
 
 </td><td>
 

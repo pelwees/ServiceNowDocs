@@ -31,7 +31,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 5.  To add a new attribute, select **New**.
 
-    ![Configuring state model attribute.](../image/WF-state-attributes1.png)
+    ![Configuring state model attribute.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-state-attributes1.png)
 
 6.  On the **State Model Attribute New record** form, fill in the fields.
 
@@ -76,7 +76,7 @@ Table name
 Specifies which table this attribute applies to.**Note:** To configure the attribute to the authorization package, you must select **Authorization Package \[sn\_irm\_cont\_auth\_auth\_pack\]** in the table name drop-down.
 
 </td></tr></tbody>
-</table>    ![State model attribute fields.](../image/WF-state-attributes2.png)
+</table>    ![State model attribute fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-state-attributes2.png)
 
 7.  Select **Submit** to save the attribute.
 

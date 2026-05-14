@@ -470,5 +470,5 @@ Document
 The file in the document field is copied to the newly created revision record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Migrate to Contract Management Pro for Legal Service Delivery from Legal Simple Contracts](migration-to-cmpro.md)
+</table>**Parent Topic:**[Migrate to Contract Management Pro for Legal Service Delivery from Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-to-cmpro.md)
 

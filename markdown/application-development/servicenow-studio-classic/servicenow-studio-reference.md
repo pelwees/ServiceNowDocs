@@ -15,14 +15,14 @@ breadcrumb: [ServiceNow Studio, Developing your application, Building applicatio
 
 Use these reference topics to find details about the Navigator panel taxonomy, supported file types, properties, and collaboration permissions in ServiceNow Studio.
 
--   **[ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md)**  
+-   **[ServiceNow Studio Navigator panel taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-file-navigator-taxonomy.md)**  
 Learn more about each metadata file type and its corresponding primary table in the File categories tab of the ServiceNow Studio Navigator panel.
--   **[ServiceNow Studio properties](../reference/servicenow-studio-properties.md)**  
+-   **[ServiceNow Studio properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-properties.md)**  
 System properties control system behavior. The properties in this section are specific to the ServiceNow Studio application and delegated development deployment. You can access system properties for ServiceNow Studio by navigating to **All** &gt; **sys\_properties.list**.
--   **[ServiceNow Studio supported file types using code search](../reference/sn-studio-file-types.md)**  
+-   **[ServiceNow Studio supported file types using code search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/sn-studio-file-types.md)**  
 ServiceNow Studio supports the following file types when using code search.
--   **[Collaboration permissions for ServiceNow Studio](../reference/servicenow-studio-collab-permissions.md)**  
+-   **[Collaboration permissions for ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-collab-permissions.md)**  
 Collaboration permissions determine what delegated developers can do when working on an app in ServiceNow Studio. They can be set by an admin or the app owner.
 
-**Parent Topic:**[ServiceNow Studio](servicenow-studio-landing.md)
+**Parent Topic:**[ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/servicenow-studio-landing.md)
 

@@ -154,5 +154,5 @@ The service catalog record producer creates the new variable record in the selec
 
 ## What to do next
 
-After creating your variables, link them to the Appointment Booking table so they appear correctly in the booking calendar interface. For more information, see [Create a business rule to automatically generate appointment records from catalog item variables](create-business-rules-to-automatically-create-appointment-record.md)
+After creating your variables, link them to the Appointment Booking table so they appear correctly in the booking calendar interface. For more information, see [Create a business rule to automatically generate appointment records from catalog item variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-business-rules-to-automatically-create-appointment-record.md)
 

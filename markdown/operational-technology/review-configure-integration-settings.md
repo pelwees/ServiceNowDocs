@@ -92,7 +92,7 @@ For OT devices, you can select the OT device type to apply the device type to th
 
 9.  Next to the Configure system properties task, select **Configure**.
 
-    ![Configure Systems properties](../images/config-sys-properties-sgc.png)
+    ![Configure Systems properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/config-sys-properties-sgc.png)
 
 10. The Configure System properties window opens.
 
@@ -158,5 +158,5 @@ Logging level verbosity to use for the application.Default: Info
 
 ## What to do next
 
-The next setup step is to [Set up scheduled import jobs](setup-scheduled-jobs.md).
+The next setup step is to [Set up scheduled import jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/setup-scheduled-jobs.md).
 

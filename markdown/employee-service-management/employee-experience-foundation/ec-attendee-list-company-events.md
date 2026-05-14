@@ -18,7 +18,7 @@ Attendee list can be viewed for company events.
 ## Before you begin
 
 -   Role required: sn\_cd.content\_manager
--   Complete the steps to [Create a company event](create-company-event.md).
+-   Complete the steps to [Create a company event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-company-event.md).
 
 ## About this task
 
@@ -41,20 +41,20 @@ Attendee list can be viewed for company events.
 
 5.  Select **View attendee list**
 
-    ![Allows you to view the attendee list and options for RSVP and Allow waitlist](../images/ce-rsvp-allow-waitlist.png "View attendee list")
+    ![Allows you to view the attendee list and options for RSVP and Allow waitlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ce-rsvp-allow-waitlist.png "View attendee list")
 
 6.  View the listed attendees for the event.
 
-    ![The list of attendees for the company event](../images/ce-attendee-list.png "Attendee list")
+    ![The list of attendees for the company event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ce-attendee-list.png "Attendee list")
 
 7.  An email notification is sent when the RSVP is created.
 
-    ![Shows a detailed overview of a completed RSVP](../images/ce-rsvp-complete.png "RSVP Overview")
+    ![Shows a detailed overview of a completed RSVP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ce-rsvp-complete.png "RSVP Overview")
 
 8.  After an RSVP has been completed it can be edited, if needed, to indicate whether you will attend or not. Making this change will update the RSVP status.
 
     **Note:** If an event has reached capacity, you may opt to join the waitlist, and you will be notified should a spot become available. You can also update or remove yourself from the waitlist. An event is closed once the deadline has passed. If the event is full at the RSVP deadline, it will also be marked as closed. After the RSVP deadline, you can only cancel your RSVP and cannot rejoin the event.
 
 
-**Parent Topic:**[Company events](../concept/ec-company-events.md)
+**Parent Topic:**[Company events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-company-events.md)
 

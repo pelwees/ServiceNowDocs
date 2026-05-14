@@ -48,5 +48,5 @@ Also, ensure that the same users have the System Administrator \[admin\] role to
 7.  Log out.
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/config-service-for-ur.md)
 

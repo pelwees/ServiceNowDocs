@@ -15,13 +15,13 @@ A stage represents a phase in an organization's selling process. This article il
 
 Stages represent phases in an organization's selling process. In this example, we demonstrate a process with five stages: Draft, Pending Approval, Approved, Contracted, and Ordered. Your implementation will add or delete stages to accommodate your selling process.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-1.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-1.jpeg)
 
 ## Ordering stages
 
 An admin can change the order in which stages are evaluated. Select a stage, and then hover over the chevron graphic to alter the order of evaluation. Use the **&lt;** and **&gt;** buttons to change the order. The **+** button creates a new stage at that place in the sequence.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-2.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-2.jpeg)
 
 ## Transitions between stages
 
@@ -43,53 +43,53 @@ Rule groupings are associated with stages. Rule groupings are executed when the 
 
 Stages enable the admin to assign distinct permissions \(views\) to determine how personas observe field data.
 
-For more information about defining views for stages, see [Transaction Manager: Views](transaction-manager-views.md).
+For more information about defining views for stages, see [Transaction Manager: Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-views.md).
 
 ## Create a new stage, associate rule groups, and set entry criteria
 
 In the Transaction Manager Admin UI, you start in Stages by default. The defined stages are listed on the page. To create a new stage, click **+ New Stage**.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-1.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-1.jpeg)
 
 Enter a name in the **Name** field. As you enter the name, a similar value is entered in the **Variable Name** field. By default, the variable name is the same as the name entered by the admin. However, spaces and special characters are removed from the variable name, which is created using camel case. For example, If you type `Ordered` in the **Name** field, the **Variable Name** field contains **ordered**. To create a custom variable name, click the pencil icon to the right of the field to enter your own value.
 
 Once the name and the variable name are set, click **Save**.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-2.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-2.jpeg)
 
 When you click **Save**, you see the stage editor page. In the stage editor, you can assign rule groupings to the stage being created. Use the **Rule Groupings** menu to choose the rule groupings to assign to the new stage.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-3.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-3.jpeg)
 
 In the stage editor, in the **Entry Criteria** section, you can create the conditions that are tested before the transaction is allowed to transition into the new stage. The method is the same as the method you use to create conditions in rules. Click **Entry Criteria** to choose the type of condition logic you want to implement.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-4.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-4.jpeg)
 
 Click **Take Action When** to select the condition logic.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-5.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-5.jpeg)
 
 After you choose the condition logic method, click **+ Add Condition** to add the condition to be tested. You can add multiple conditions to the stage entry criteria. For each conditional statement, choose the field to test, the operator to use, and the value to test for.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-6.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-6.jpeg)
 
 When the new stage is fully configured, click **Save**.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-7.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-7.jpeg)
 
 ## Settings: Behavior on Open Transaction
 
 The **Behavior on Open Transaction** area enables an administrator to determine what rule groupings and integrations run when the user opens a transaction in the stage. Click **Edit Settings**.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-open-1.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-open-1.jpeg)
 
 On the Settings page, use the **Refresh Product Data** toggle to set the product data for the transaction to refresh when the transaction opens.
 
 Click **Add New Action** to add a rule grouping or an integration to the action list.
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-open-2.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-open-2.jpeg)
 
-![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-open-3.jpeg)
+![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-open-3.jpeg)
 
 ## Settings: Behavior on Idle Timeout
 
@@ -99,11 +99,11 @@ You can define one such event per stage. If the event fails on its first executi
 
 1.  In the stage's settings, make **Behavior on Idle Timeout** active.
 
-    ![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-idle-1.png)
+    ![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-idle-1.png)
 
 2.  To add actions, click **Edit Settings** next to **Behavior on Idle Timeout**.
 
-    ![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-idle-2.png)
+    ![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-idle-2.png)
 
 3.  Set the idle time.
 
@@ -116,7 +116,7 @@ You can define one such event per stage. If the event fails on its first executi
     -   Use rule groups to execute conditional logic such as updating fields or modifying the UI.
     -   Use integrations to trigger external APIs or services for logging events, sending notifications, or updating external records.
 
-        ![Transaction Manager: stages](../images/cpq-txn-mgr-stages-create-behavior-on-idle-3.png)
+        ![Transaction Manager: stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-stages-create-behavior-on-idle-3.png)
 
 
 General guidelines:
@@ -131,7 +131,7 @@ Deleting a stage is restricted because deleting a stage in use by transactions c
 **Related topics**  
 
 
-[Transaction Manager: Rules and rule groupings](transaction-manager-rules-and-rule-groupings.md)
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 
-[Transaction Manager: Events](transaction-manager-events.md)
+[Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-events.md)
 

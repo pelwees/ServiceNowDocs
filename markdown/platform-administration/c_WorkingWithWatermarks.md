@@ -25,7 +25,7 @@ The email watermark always begins with "**Ref:**" to identify the label as a wat
 -   An auto-numbered identifier — The numeric string identifying the source record, such as incident, problem, or change request.
 -   An underscore character followed by a random character string.
 
-![Randomized watermark format](../image/random-watermark-format.png "Randomized watermark example")
+![Randomized watermark format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/random-watermark-format.png "Randomized watermark example")
 
 When inbound emails are processed, the system matches random watermarks to the appropriate source records.
 
@@ -38,41 +38,41 @@ Watermarks are always generated, but you can configure them as follows:
 -   Hide all email watermarks globally.
 -   Omit watermarks from individual email messages.
 
-If watermarks are omitted from email notifications, inbound email actions might not work properly. Without a watermark, the system processes inbound email messages as described in [Criteria for matching email to inbound actions](inbound-action-type-criteria.md).
+If watermarks are omitted from email notifications, inbound email actions might not work properly. Without a watermark, the system processes inbound email messages as described in [Criteria for matching email to inbound actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/inbound-action-type-criteria.md).
 
 **Note:** Email clients that use the plain text version of the email still show the watermark.
 
--   **[Create a custom watermark prefix for email notifications](../task/t_CreatingCustomWatermarkPrefixes.md)**  
+-   **[Create a custom watermark prefix for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreatingCustomWatermarkPrefixes.md)**  
 By default, email notifications use the watermark prefix **MSG**, but you can create a custom watermark prefix.
--   **[Omit an email notification watermark](../task/t_OmitWatermarksIndEmailNotif.md)**  
+-   **[Omit an email notification watermark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_OmitWatermarksIndEmailNotif.md)**  
 You can omit watermarks on email notifications if you do not want the instance to match the notification to an existing record.
--   **[Hide email watermarks globally](../task/t_HidingWatermarksGlobally.md)**  
+-   **[Hide email watermarks globally](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_HidingWatermarksGlobally.md)**  
 Rather than omitting watermarks, it is possible to hide watermarks for global application using HTML markup.
 
-**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateANotification.md)
 
-[Email notifications dashboard](email-notifications-dashboard.md)
+[Email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-notifications-dashboard.md)
 
-[Email diagnostics dashboard](email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-diagnostics-dashboard.md)
 
-[Email templates](c_EmailTemplates.md)
+[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-[Email layouts](email-layouts.md)
+[Email layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-[Email retention](email-retention.md)
+[Email retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/parse-email.md)
 
-[Email digests](email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[Domain separation and Notifications](domain-separation-notifications.md)
+[Domain separation and Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 

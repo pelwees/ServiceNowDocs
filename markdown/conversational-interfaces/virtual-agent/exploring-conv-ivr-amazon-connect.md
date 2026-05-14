@@ -21,7 +21,7 @@ Use this application to build an integration with Amazon Connect. This allows yo
 -   Enable true-omnichannel flow including routing Phone to the Conversational VA-IVR.
 -   In case of escalations, route calls smoothly to live agents using AWA via conversational infrastructure.
 
-To get started, see [Install Conversational IVR with Amazon Connect](../task/install-va-ivr.md).
+To get started, see [Install Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/install-va-ivr.md).
 
 ## Unsupported Virtual Agent Designer controls
 
@@ -47,9 +47,9 @@ Conversational IVR is designed to silently skip the execution of unsupported con
 
 The system is designed to provide warnings when you pick an unsupported control for your topic flow while crating the topic. For example, you can trigger a warning message by adding File picker to your topic flow for a topic that has IVR enabled.
 
-![Warning messages for unsupported controls used in creating topic flows for IVR enabled topics.](../images/ivr-unsupported-topic-control-wrng.png)
+![Warning messages for unsupported controls used in creating topic flows for IVR enabled topics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ivr-unsupported-topic-control-wrng.png)
 
-For information about supported controls, see [Input Collector user input control](../reference/va-ai-data-collector.md).
+For information about supported controls, see [Input Collector user input control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-ai-data-collector.md).
 
-**Parent Topic:**[Conversational IVR with Amazon Connect](va-ivr-voice.md)
+**Parent Topic:**[Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ivr-voice.md)
 

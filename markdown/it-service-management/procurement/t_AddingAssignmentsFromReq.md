@@ -56,14 +56,14 @@ Role required: procurement\_admin or procurement\_user
     For auditing, the **Assigned Licences** related list in the Request form will provide the details of all the assignments done as part of this request.
 
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_SourcingRequestItems.md)
 
 **Related topics**  
 
 
-[Create a purchase order from a request](t_CreatingPurchOrderFromRequest.md)
+[Create a purchase order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingPurchOrderFromRequest.md)
 
-[Create a transfer order from a request](t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingTransferOrderFromReq.md)
 
-[Source requests from local stockrooms](consume-local-asset-stock.md)
+[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/consume-local-asset-stock.md)
 

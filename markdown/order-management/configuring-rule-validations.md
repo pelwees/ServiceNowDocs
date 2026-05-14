@@ -25,7 +25,7 @@ Some system-defined validation rules are applicable to all decision tables, whil
 -   MandatoryPriceListForTypeExistingPriceList: Checks the price list type.
 -   ProductOfferCharsWithoutProdOffer: Checks for product offer characteristics without product offering.
 
-![System-defined rule validations provided with the Product Catalog Eligibility Matrix](../image/matrix-rule-validation.png "Rule validations in Product Offering Category Eligibility Matrix")
+![System-defined rule validations provided with the Product Catalog Eligibility Matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/matrix-rule-validation.png "Rule validations in Product Offering Category Eligibility Matrix")
 
 From the Details tab for a matrix, you can also run rule validations for the entire matrix by selecting the **More actions** icon and selecting **Validate rule**.
 

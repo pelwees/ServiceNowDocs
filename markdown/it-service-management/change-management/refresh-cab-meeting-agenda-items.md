@@ -23,7 +23,7 @@ Role required: itil, sn\_change\_read, sn\_change\_write, or sn\_change\_cab.cab
 
 After you update the CAB board or change request conditions, refresh the CAB meeting to apply the updates. If you add new board members or attendees to the meeting, they are notified via email invitations after the meeting is refreshed.
 
-**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 ## Procedure
 
@@ -126,7 +126,7 @@ Check box to mark each pre-approved change request as **Complete** in the CAB me
 5.  Click **Update** to save your changes.
 
 
-**Parent Topic:**[Create a single CAB meeting occurrence](create-a-cab-meeting.md)
+**Parent Topic:**[Create a single CAB meeting occurrence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-cab-meeting.md)
 
 **Related topics**  
 

@@ -15,7 +15,7 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The scoped GlideElement API provides a number of convenient script methods for dealing with fields and their values. Scoped GlideElement methods are available for the fields of the current glide record.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped GlideElement - canCreate\(\)
 
@@ -77,7 +77,7 @@ I can create new records for the field Problem statement for - PRB0001001
 
 ### Scoped equivalent
 
-To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](c_GlideElementScopedAPI.md#).
+To use the canCreate\(\) method in a scoped application, use the corresponding scoped method: [canCreate\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#).
 
 ## Scoped GlideElement - canRead\(\)
 
@@ -506,11 +506,11 @@ Priority 1
 
 Gets the display value of the field in the language passed as a parameter.
 
-The result is only applicable to translatable field types such as **Choice**, **Translated Field**, and **Translated Text**. For other field types, the result defaults to [getDisplayValue\(\)](c_GlideElementScopedAPI.md#).
+The result is only applicable to translatable field types such as **Choice**, **Translated Field**, and **Translated Text**. For other field types, the result defaults to [getDisplayValue\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#).
 
 You must have the corresponding language plugin to retrieve a translated value. For information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
-See also [Scoped GlideElement - getLabelLang\(String language\)](c_GlideElementScopedAPI.md#).
+See also [Scoped GlideElement - getLabelLang\(String language\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -750,8 +750,8 @@ You must have the corresponding language plugin to retrieve a translated value. 
 
 See also:
 
--   [getDisplayValueLang\(\)](c_GlideElementScopedAPI.md#)
--   [getLabel\(\)](c_GlideElementScopedAPI.md#)
+-   [getDisplayValueLang\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#)
+-   [getLabel\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -927,7 +927,7 @@ if (current.approver.getTableName() == "sysapproval_approver") {
 
 Returns the value of a specified field from a GlideRecord object.
 
-This method returns the internal value of the associated database field. To return the [display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) of the field, use the [getDisplayValue\(\)](c_GlideElementScopedAPI.md#) method.
+This method returns the internal value of the associated database field. To return the [display value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DisplayValues.md) of the field, use the [getDisplayValue\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideElementScopedAPI.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|

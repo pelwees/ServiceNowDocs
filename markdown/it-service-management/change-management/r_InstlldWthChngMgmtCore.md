@@ -15,7 +15,7 @@ breadcrumb: [Activate Change Management - Core, Change Management plugins, Confi
 
 Several types of components are installed with the Change Management - Core.
 
-**Parent Topic:**[Activate Change Management - Core](../task/t_ActivateChangeMgmtCore.md)
+**Parent Topic:**[Activate Change Management - Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_ActivateChangeMgmtCore.md)
 
 ## Tables installed with Change Management core
 

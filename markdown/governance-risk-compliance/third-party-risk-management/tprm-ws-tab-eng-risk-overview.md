@@ -18,17 +18,17 @@ The Risk overview tab displays engagement name and process information, summary 
 ## Getting to the Risk overview tab
 
 1.  Select **Workspaces** &gt; **Vendor Management Workspace**.
-2.  On the **Risk** tab, select ![Home page icon.](../image/icon-tprm-ws-home.png).
+2.  On the **Risk** tab, select ![Home page icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/icon-tprm-ws-home.png).
 3.  In the Third-party risk overview section, select any number in a box to open the list of engagements with that value.
 
 4.  Select an engagement name and then select the appropriate tab.
 
-    ![Open an engagement page.](../image/tprm-ws-dd-list-engagement.png)
+    ![Open an engagement page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-dd-list-engagement.png)
 
 
 ## Information on the Risk overview tab
 
-![Open an engagement with low risk.](../image/tprm-ws-tp-risk-ovw-tab-eng-annotated.png)
+![Open an engagement with low risk.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-tp-risk-ovw-tab-eng-annotated.png)
 
 -   **A: Name and process information**
 
@@ -36,19 +36,19 @@ The Risk overview tab displays engagement name and process information, summary 
 
 -   **B: Engagement summary**
 
-    Risk rating and scoring rules are described in [Set up risk rating scales for scoring](../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md).
+    Risk rating and scoring rules are described in [Set up risk rating scales for scoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md).
 
 -   **C: Tracking**
     -   Assessments: Counts of assessments in various process statuses. Select a number to view details.
-    -   Issues: Issues are described in [Create an issue for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-issue-create.md) and [Manage issues](../../grc-vendor-risk/task/tprm-ws-issue-manage.md).
-    -   Tasks: Tasks are described in [Create a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-create.md) and [Manage a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-manage.md).
+    -   Issues: Issues are described in [Create an issue for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-issue-create.md) and [Manage issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-issue-manage.md).
+    -   Tasks: Tasks are described in [Create a task for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-task-create.md) and [Manage a task for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-task-manage.md).
 -   **D: Overview**
 
     This section provides quick access to basic information about the engagement.
 
 -   **E: Actions**
     -   **Discuss**: Select **Discuss** to send a message to other users. The message is recorded in the **Activity** section of the **Details** tab.
-    -   **Create**: Generate an issue or task. See [Create an issue for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-issue-create.md) and [Create a task for a third party or engagement](../../grc-vendor-risk/task/tprm-ws-task-create.md).
-    -   **360° view**: Visually explore the relationships between existing assessments, issues, tasks, product models, upstream, and downstream contacts that affect the selected third party. See [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+    -   **Create**: Generate an issue or task. See [Create an issue for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-issue-create.md) and [Create a task for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-ws-task-create.md).
+    -   **360° view**: Visually explore the relationships between existing assessments, issues, tasks, product models, upstream, and downstream contacts that affect the selected third party. See [360° Relationship Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
     -   **Save**: Save changes that you have made on the page.
 

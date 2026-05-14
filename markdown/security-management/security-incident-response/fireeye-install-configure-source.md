@@ -31,7 +31,7 @@ After you have successfully installed the application, follow the following step
 
 2.  Select the **Integration Configurations** module to display the available integrations, and locate the **FireEye** tile.
 
-    ![FireEye HX Integration tile highlighted](../image/fireeye-tile.png)
+    ![FireEye HX Integration tile highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-tile.png)
 
 3.  Select **Configure** on the FireEye tile.
 

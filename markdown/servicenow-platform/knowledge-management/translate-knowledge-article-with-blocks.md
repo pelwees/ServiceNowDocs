@@ -34,10 +34,10 @@ Role required: translator
     The newly translated blocks appears in the **Translated Block Versions** related list.
 
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-translation-management.md)
 
 **Related topics**  
 
 
-[Add knowledge blocks to a knowledge article](add-knowledge-block-to-knowledge-article.md)
+[Add knowledge blocks to a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/add-knowledge-block-to-knowledge-article.md)
 

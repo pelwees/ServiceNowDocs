@@ -23,9 +23,9 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the portfolio icon ![Portfolio icon.](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the portfolio icon ![Portfolio icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Next to **Business Applications**, select the expand row icon \(![Expand row icon.](../../image/ExpandIcon.png)\) and then select **All**.
+3.  Next to **Business Applications**, select the expand row icon \(![Expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) and then select **All**.
 
 4.  Select **All**.
 
@@ -41,23 +41,23 @@ Role required: sn\_apm.apm\_analyst
 
     By default, the TPM view is displayed.
 
-8.  Next to the business application and its associated application services, select the expand row icon \(![Expand row icon.](../../image/ExpandIcon.png)\) to see the lifecycle timeline bars in the Gantt chart.
+8.  Next to the business application and its associated application services, select the expand row icon \(![Expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) to see the lifecycle timeline bars in the Gantt chart.
 
-    Alternatively, you can select the expand icon \(![Expand icon.](../../image/ExpandIcon.png)\) next to the Application column header.
+    Alternatively, you can select the expand icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to the Application column header.
 
 9.  Open the TRM view by selecting **TRM** from the Show list.
 
-    ![Show list displaying the TRM option.](../../image/eaw-image/TRM-selected-gantt-chart.png)
+    ![Show list displaying the TRM option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/TRM-selected-gantt-chart.png)
 
 
-**Parent Topic:**[Working with Gantt chart views in EA Workspace](../../concept/eaw-concept/eaw-work-with-gantt-chart-views.md)
+**Parent Topic:**[Working with Gantt chart views in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-gantt-chart-views.md)
 
 **Related topics**  
 
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-trm.md)
 
-[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+[Working with Technology Portfolio Management \(TPM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-tpm.md)
 
-[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+[Working with application rationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-app-rat.md)
 

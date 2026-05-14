@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-To configure the properties for the GetProperty component, see [Properties of the JSON utilities](../reference/properties-utilities-json.md).
+To configure the properties for the GetProperty component, see [Properties of the JSON utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-utilities-json.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ To configure the properties for the GetProperty component, see [Properties of th
 
 6.  Drag the GetProperty component to the Design surface.
 
-7.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+7.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 8.  Connect the ports as described in the following table.
 
@@ -119,8 +119,8 @@ Returns the value of the property.If no property value is found, the port return
 
     The name is displayed as Abel Tutor when you right-click the GetProperty Data Out port.
 
-    ![GetProperty component Automation Example.](../image/get-property-utlities-json-example.png "GetProperty component Automation Example")
+    ![GetProperty component Automation Example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/get-property-utlities-json-example.png "GetProperty component Automation Example")
 
 
-**Parent Topic:**[JSON](../concept/json.md)
+**Parent Topic:**[JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/json.md)
 

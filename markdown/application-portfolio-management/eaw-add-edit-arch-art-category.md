@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![Setup icon](../../image/eaw-image/setup-icon.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Architectural Artifacts Categories**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Architectural Artifacts Categories**.
 
 4.  Select **All**.
 
@@ -33,15 +33,15 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing artifact category, select an action, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Architectural category form](../../reference/architectural-category-form.md).
+    For field information, see [Architectural category form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/architectural-category-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure architectural artifact categories](../../concept/eaw-concept/eaw-setup-arch-art-categories.md)
+**Parent Topic:**[Configure architectural artifact categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-arch-art-categories.md)
 
 **Related topics**  
 
 
-[View all architectural artifact categories](eaw-view-arch-art-categories.md)
+[View all architectural artifact categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-arch-art-categories.md)
 

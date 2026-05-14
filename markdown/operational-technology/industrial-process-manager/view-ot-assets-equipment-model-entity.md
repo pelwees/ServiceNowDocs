@@ -24,11 +24,11 @@ Role required: To add OT devices, the logged in user has to have a combination o
 -   cmdb\_ot\_viewer, cmdb\_ot\_editor or cmdb\_ot\_admin role
 -   cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_admin role
 
-**Note:** To learn more about assigning user roles, see [Assign Industrial Process Manager user roles](../task/assign-manufacturing-process-manager-roles.md).
+**Note:** To learn more about assigning user roles, see [Assign Industrial Process Manager user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/assign-manufacturing-process-manager-roles.md).
 
 ## About this task
 
-Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](../task/create-user-criteria-for-equipment-model-entity-site-users.md).
+Users with an assigned cmdb\_ot\_isa\_admin role can view equipment model entities for any site. However, users with assigned cmdb\_ot\_isa\_editor or cmdb\_ot\_isa\_viewer roles can only access those sites that an administrator has granted access to for specific users. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 ## Procedure
 
@@ -69,7 +69,7 @@ Proceed to the next step and review the OT devices form.
 1.  Click **Add**.
 2.  In the OT devices form, select the additional OT devices that you want to associate with the equipment model entity.
 3.  Click **Add** to add them to the OT devices form.
-4.  To edit the columns on the table, select the List Actions \(![List Actions icon](../../../common/image/List_PersonalizeListIcon.png)\) icon. Select **Edit columns** to choose the columns you want to display. For example, if you want to display the IP address column for the OT devices, select **IP Address** from the Available columns and click **OK**.
+4.  To edit the columns on the table, select the List Actions \(![List Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../common/image/List_PersonalizeListIcon.png)\) icon. Select **Edit columns** to choose the columns you want to display. For example, if you want to display the IP address column for the OT devices, select **IP Address** from the Available columns and click **OK**.
 
 
 </td></tr><tr><td id="d91866e214">
@@ -86,5 +86,5 @@ Proceed to the next step and review the OT devices form.
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Review and update the equipment model details](../task/equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../task/equipment-model-workspace.md)
 

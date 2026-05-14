@@ -15,15 +15,15 @@ A data domain is a structured grouping of information objects that are categoriz
 
 You can add a new information data domain or edit an existing one.
 
--   **[Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md)**  
+-   **[Add or edit an information data domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-info-data-domain.md)**  
 Create or edit an information data domain to logically group related information objects and govern how information is organized and linked to underlying data sources across business applications.
 
-**Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
+**Parent Topic:**[Configure EA Workspace using the Setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-config-eaw-using-setup-page.md)
 
 **Related topics**  
 
 
-[Manage information data domains](eaw-config-info-data-domains.md)
+[Manage information data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-config-info-data-domains.md)
 
-[View information data domains](../../task/eaw-task/eaw-view-info-data-domains.md)
+[View information data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-info-data-domains.md)
 

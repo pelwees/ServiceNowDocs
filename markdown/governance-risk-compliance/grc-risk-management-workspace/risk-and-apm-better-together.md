@@ -29,31 +29,31 @@ When you integrate GRC with APM, you can simplify the work of IT risk managers b
 
 The users who benefit from this integration are shown in the following figure:
 
-![Users that benefit by integrating APM and risk](../image/GRC_All_Key_Personas-01.png "Beneficiaries of APM and Risk integration")
+![Users that benefit by integrating APM and risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/GRC_All_Key_Personas-01.png "Beneficiaries of APM and Risk integration")
 
 The Application Risk Assessment feature is available when you activate the Advanced Risk plugin. But the default configurations for the APM risk identification record are available only when you have the APM integration with Risk Management plugin \(com.snc.apm\_risk\_assessment\) enabled.
 
 The following image shows the high-level workflow of the integration:
 
-![Figure depicting a high-level integration of the solution](../image/grc-apm-high-level-solution.png "High-level integration of APM and Advanced Risk Assessment")
+![Figure depicting a high-level integration of the solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/grc-apm-high-level-solution.png "High-level integration of APM and Advanced Risk Assessment")
 
--   **[Workflow of risk identification for business applications](workflow-risk-identification.md)**  
+-   **[Workflow of risk identification for business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-risk-identification.md)**  
 When assessing an application for risks, the application goes through various stages of risk identification and assessment. You can define the identification and assessment workflow based on your requirements.
--   **[Set up risk identification integration](../task/configure-risk-identification-form.md)**  
+-   **[Set up risk identification integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/configure-risk-identification-form.md)**  
 Before assessing an application, specify the target application where the risk identification must be initiated.
--   **[Respond to an application questionnaire](../task/respond-to-app-questionnaire.md)**  
+-   **[Respond to an application questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/respond-to-app-questionnaire.md)**  
 Respond to a questionnaire about an application for risk assessment.
--   **[Create a smart assessment template for risk identification](../task/create-smart-assessment-template-for-risk-identification.md)**  
+-   **[Create a smart assessment template for risk identification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-smart-assessment-template-for-risk-identification.md)**  
 Create a smart assessment template for risk identification using the Smart Assessment Engine application.
--   **[Review responses and perform inherent risk assessment](../task/review-responses-to-apm-risk-assmt.md)**  
+-   **[Review responses and perform inherent risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/review-responses-to-apm-risk-assmt.md)**  
 Compute the overall risk score for an application by performing an advanced risk assessment. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
--   **[Associate risks, citations, policies, and controls with a risk identification record](../task/associate-risks-pols-citations-risk-idenfn.md)**  
+-   **[Associate risks, citations, policies, and controls with a risk identification record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/associate-risks-pols-citations-risk-idenfn.md)**  
 After the inherent assessment is completed, you can associate risks, citations, policies, and controls with the risk identification record. You can identify what methods to use to mitigate the risks.
 
-**Parent Topic:**[Governance, Risk, and Compliance](../../grc-common/reference/r_WhatIsGRC.md)
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/reference/r_WhatIsGRC.md)
 
 **Related topics**  
 
 
-[Workflow of risk identification for business applications](workflow-risk-identification.md)
+[Workflow of risk identification for business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-risk-identification.md)
 

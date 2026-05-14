@@ -43,5 +43,5 @@ Role required: Opportunity Marketplace \[sn\_opp\_market.admin\]
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/../concept/egd-oppt-mrktplc-inst-config.md)
 

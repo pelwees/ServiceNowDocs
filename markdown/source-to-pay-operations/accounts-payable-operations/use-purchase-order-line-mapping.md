@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Properties**.
 
-    The Now Assist skill evaluates and executes rules on the invoice lines and performs the invoice line mapping with purchase order line mapping. For more information on setting APO properties, see [Set APO properties](set-apo-properties.md). In the playbook, the match lines card allows you to review the mapping performed by Now Assist. For more information on the match lines card, see step 7 of [Using Playbook in Accounts Payable Operations](how-to-use-playbook.md).
+    The Now Assist skill evaluates and executes rules on the invoice lines and performs the invoice line mapping with purchase order line mapping. For more information on setting APO properties, see [Set APO properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/set-apo-properties.md). In the playbook, the match lines card allows you to review the mapping performed by Now Assist. For more information on the match lines card, see step 7 of [Using Playbook in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/how-to-use-playbook.md).
 
     The Now Assist skill maps the invoice lines with purchase order lines.
 

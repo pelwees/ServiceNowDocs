@@ -50,7 +50,7 @@ Inadequate inventory. An ordered item can't be fulfilled.
 Associated system that is unavailable due to connectivity problems, timeouts, or other issues.
 
 
-**Note:** You can also create additional fallout types, as per the requirements of your enterprise. To learn more, see [Create additional fallout types](../concept/configure-fallout-management.md#).
+**Note:** You can also create additional fallout types, as per the requirements of your enterprise. To learn more, see [Create additional fallout types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/configure-fallout-management.md#).
 
 To view the associated details or search for another fallout type:
 
@@ -180,5 +180,5 @@ Attachments
 File attachments for the fallout record. Select **Select file** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 

@@ -21,19 +21,19 @@ Role required: web\_service\_admin, activity\_admin, activity\_creator
 
 ## About this task
 
-For instructions on using the activity template process flow, see [create custom activities](create-custom-activities.md).
+For instructions on using the activity template process flow, see [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
 ## Procedure
 
-1.  Create a [custom activity](create-custom-activities.md).
+1.  Create a [custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the SOAP web service Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#), configure the SOAP web service Execution Command.
 
 <table id="choicetable_m3f_hcs_d1b"><tbody><tr><td id="d374612e112">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -125,11 +125,11 @@ Required REST endpoint basic authentication credentials. This field is available
 [Outbound web services mutual authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundWebServicesMutualAuth.md) to use for authentication. This field is available when the authentication type is either **Override with Certificate Authentication credentials** or **Override with Both Basic and Certificate Authentication credentials**.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
--   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
--   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
+-   Use [auto-mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
+-   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAnOutputVariable.md#) and [create parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#)
 

@@ -19,7 +19,7 @@ Role required: admin.
 
 ## About this task
 
-![Upgrade progress bar](../image/progress-bar-phase-2.png)
+![Upgrade progress bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/progress-bar-phase-2.png)
 
 ## Procedure
 

@@ -153,5 +153,5 @@ Investment\[sn\_invst\_pln\_invst\_investment\]
 Stores investment details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Investment Funding](../task/activate-investment-funding.md)
+</table>**Parent Topic:**[Install Investment Funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../task/activate-investment-funding.md)
 

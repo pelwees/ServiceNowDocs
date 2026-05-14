@@ -22,7 +22,7 @@ You can only edit views and sections when you are in the same application scope 
 -   Grip icons beside section headings.
 -   Grip icons beside fields.
 
-![Some sections are editable on the form.](../image/FormDesignEditable.png "Visual indicators of editable sections")
+![Some sections are editable on the form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FormDesignEditable.png "Visual indicators of editable sections")
 
 Views and sections in another application scope display as read only. Read-only sections have:
 
@@ -33,5 +33,5 @@ Views and sections in another application scope display as read only. Read-only 
 -   No grip icons beside section headings.
 -   No grip icons beside fields.
 
-![Some form sections are not editable.](../image/FormDesignReadonly.png "Visual indicators of read-only sections")
+![Some form sections are not editable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FormDesignReadonly.png "Visual indicators of read-only sections")
 

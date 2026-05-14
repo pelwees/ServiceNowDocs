@@ -19,7 +19,7 @@ Card illustrations are visual elements that highlight key information, enhancing
 
 **Important:** Card illustrations apply to Workspaces and are not supported in the Core UI.
 
-![Visualize data card illustration.](../image/tb-card-illustration.png "Example of a default card illustration")
+![Visualize data card illustration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-card-illustration.png "Example of a default card illustration")
 
 ## Custom images
 
@@ -33,10 +33,10 @@ To override the default card illustrations with custom images, upload each image
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Configure colors for card illustrations](../task/configure-card-colors.md)**  
+-   **[Configure colors for card illustrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/configure-card-colors.md)**  
 Configure and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
--   **[Override card illustrations with custom images](../task/override-card-with-custom-images.md)**  
+-   **[Override card illustrations with custom images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/override-card-with-custom-images.md)**  
 Modify or override the default card illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[Working with Image styles](working-with-image-styles.md)
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 

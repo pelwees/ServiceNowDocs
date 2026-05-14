@@ -53,7 +53,7 @@ Important things to know:
 
     3.  Select **View draft policies** to view the converted policies in the Data Manager policies page, under the Draft policies tab.
 
-4.  [Publish a draft CMDB Data Manager policy](data-manager-publish-draft-policy.md)
+4.  [Publish a draft CMDB Data Manager policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-publish-draft-policy.md)
 
 
 ## Result

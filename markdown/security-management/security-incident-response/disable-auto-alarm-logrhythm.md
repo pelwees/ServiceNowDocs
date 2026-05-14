@@ -29,7 +29,7 @@ Once disabled, the status notes and other closure information on the security in
 
 2.  If not displayed in the **Business Rules** list, enter **LogRhythm Close Alarm On SI Closure** in the search field and press **Enter**.
 
-    ![Business rule highlighted in search field.](../image/lr-bus-list-search.png)
+    ![Business rule highlighted in search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr-bus-list-search.png)
 
 3.  In the **Name** column, click the **LogRhythm Close Alarm On SI Closure** link to open the record.
 
@@ -40,5 +40,5 @@ Once disabled, the status notes and other closure information on the security in
     The automated alarm closure capability is now disabled.
 
 
-**Parent Topic:**[Additional configurations for the LogRhythm integration](configure-system-and-troubleshooting-properties.md)
+**Parent Topic:**[Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)
 

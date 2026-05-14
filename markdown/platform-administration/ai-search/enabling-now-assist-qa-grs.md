@@ -18,9 +18,9 @@ As a search administrator, you can use the Now Assist Q&amp;A Genius Results ski
 
 ## Enable Now Assist Q&amp;A Genius Results in AI Search portals and mobile applications
 
-For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist Genius Results in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](../task/enable-now-assist-gr-ais-apps.md).
+For details on how to enable Now Assist Q&amp;A Genius Results and other Now Assist Genius Results in your AI Search portals and mobile applications, see [Enable Now Assist Genius Results in AI Search portals and mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/enable-now-assist-gr-ais-apps.md).
 
-**Parent Topic:**[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
+**Parent Topic:**[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
 ## Enable Now Assist Q&amp;A Genius Results in global search
 
@@ -30,15 +30,15 @@ Enable Now Assist Q&amp;A Genius Results in global search using the AI Search fo
 
 The [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md) must be activated on your instance. To learn about activating Next Experience UI, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 
-The AI Search for Next Experience application must be installed and enabled on your instance. For more information about the application, see [AI Search for Next Experience](ais-next-experience-app.md).
+The AI Search for Next Experience application must be installed and enabled on your instance. For more information about the application, see [AI Search for Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
 
-The Now Assist for Search application must be installed on your instance. For details on installing this application from the Now Assist Admin console, see [Install Now Assist in AI Search](../task/install-now-assist-ais.md).
+The Now Assist for Search application must be installed on your instance. For details on installing this application from the Now Assist Admin console, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/install-now-assist-ais.md).
 
 Role required: ais\_admin
 
 ### About this task
 
-As a search administrator, you can enable agentic AI model answer generation for Knowledge article results in global searches by adding the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile used by [AI Search for Next Experience](ais-next-experience-app.md).
+As a search administrator, you can enable agentic AI model answer generation for Knowledge article results in global searches by adding the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile used by [AI Search for Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
 
 **Note:** Linking the Now Assist Q&amp;A Genius Result configuration to the Next Experience Search Configuration search profile changes the status of the Now Assist Q&amp;A Genius Results skill to **Active** in the Now Assist Admin console. The skill remains active as long as any search profile includes a link to the Now Assist Q&amp;A Genius Result configuration.
 
@@ -96,7 +96,7 @@ Order
 
 </td><td>
 
-Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result configurations for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](../task/set-gr-eval-order-srch-profile-ais.md).
+Specify the evaluation order for the Now Assist Q&amp;A Genius Result configuration in the search profile. AI Search evaluates active Genius Result configurations for a search profile in order, from lowest **Order** field value to highest. For more details on the evaluation order for Genius Results, see [Set the evaluation order for Genius Result configurations in a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/set-gr-eval-order-srch-profile-ais.md).
 
 </td></tr></tbody>
 </table>    5.  Select **Submit**.

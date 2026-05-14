@@ -21,7 +21,7 @@ Role required: admin
 
 **Note:** List of post types without Sidebar options:
 
-![Post types menu without Sidebar options.](../image/post-types-menu-1.png)
+![Post types menu without Sidebar options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/post-types-menu-1.png)
 
 ## Procedure
 
@@ -30,18 +30,18 @@ Role required: admin
     1.  Check the `sys_properties` file for the record glide.ui.\{table\_name\}\_activity.fields where \{table\_name\} is the parent record table name.
     2.  If the `sys_properties` file record exists for the record table, check whether it includes **Sidebar discussion** and **Sidebar posted message**. If it doesn't, add **Sidebar discussion** and **Sidebar posted message** at the end of the existing value.
 
-        ![sys_properties file record for activity stream post type filter instructions. Sidebar discussion and Sidebar posted message are highlighted in the Value field.](../image/activity-stream-post-type-filter.png)
+        ![sys_properties file record for activity stream post type filter instructions. Sidebar discussion and Sidebar posted message are highlighted in the Value field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/activity-stream-post-type-filter.png)
 
 2.  If Sidebar was manually added for a record in a workspace:
 
     1.  Check the `sys_properties` file for glide.ui.\{table\_name\}\_activity.fields where \{table\_name\} is the parent record table name.
     2.  If the `sys_properties` file record exists for the record table, check whether it includes **Sidebar discussion** and **Sidebar posted message**. If it doesn't, add **Sidebar discussion** and **Sidebar posted message** at the end of the existing value.
 
-        ![sys_properties file record for activity stream post type filter instructions.](../image/activity-stream-post-type-filter.png)
+        ![sys_properties file record for activity stream post type filter instructions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/activity-stream-post-type-filter.png)
 
     3.  If the `sys_properties` file record doesn’t exist for the record table, it loads the default filters which contain Sidebar filters.
     **Note:** List of post types with Sidebar options:
 
-    ![Post types menu with sidebar options highlighted.](../image/sidebar-same-post-type.png)
+    ![Post types menu with sidebar options highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/sidebar-same-post-type.png)
 
 

@@ -165,7 +165,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 |LINE|Supported|None|
 |WhatsApp|Not supported|Not applicable|
 |Apple Messages for Business|Supported|None|
-|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the table will be read, if possible. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](../concept/va-settings-for-alexa.md).|
+|Alexa \(Voice\)|Partial support|Supported on devices with screens. For nonscreen devices, the table will be read, if possible. For details, see [Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-settings-for-alexa.md).|
 
 ## Example Table bot response output
 
@@ -181,16 +181,16 @@ Table bot response output
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-![Basic properties include the node name, the method of populating the table, the filter, and the columns to be returned.](../images/table-bot-response.png "Table bot response control basic properties")
+![Basic properties include the node name, the method of populating the table, the filter, and the columns to be returned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/table-bot-response.png "Table bot response control basic properties")
 
 </td><td>
 
-![Table in a chat window that displays the 2020 Company Holidays by Holiday and Date.](../images/table-bot-response-web-ui.png "Web UI Table bot response output")
+![Table in a chat window that displays the 2020 Company Holidays by Holiday and Date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/table-bot-response-web-ui.png "Web UI Table bot response output")
 
 </td></tr><tr><td>
 
-![Table in a chat window that displays the first six 2021 Company Holidays by Holiday and Date. The user can choose an option to view all 11 rows.](../images/table-bot-response-mobile.png "Table bot response output in ServiceNow mobile")
+![Table in a chat window that displays the first six 2021 Company Holidays by Holiday and Date. The user can choose an option to view all 11 rows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/table-bot-response-mobile.png "Table bot response output in ServiceNow mobile")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+</table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

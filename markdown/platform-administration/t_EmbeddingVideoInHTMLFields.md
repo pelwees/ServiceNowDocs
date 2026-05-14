@@ -52,7 +52,7 @@ Internet Explorer and Safari have difficulty streaming videos uploaded to the da
 
 2.  Click the position where the video is to appear, or to modify an existing video, click the video.
 
-3.  Click the insert/edit video icon \(![Insert or edit video](../image/TinyMCEV4Video.png)\) on the HTML editor toolbar.
+3.  Click the insert/edit video icon \(![Insert or edit video](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV4Video.png)\) on the HTML editor toolbar.
 
 4.  Enter information in each field.
 

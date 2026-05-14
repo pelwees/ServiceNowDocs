@@ -19,13 +19,13 @@ The Overview dashboard reports the current state of data classifications and ano
 
 **Note:** Some classified data is broken into different categories. Selecting a sub-category in any chart will add or remove the category from the overall chart and adjust the counts.
 
-![Displays the data privacy overview page.](../image/dps-overview.png)
+![Displays the data privacy overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dps-overview.png)
 
 ## Basic metrics
 
 You can view several basic privacy metrics at the top of the display.
 
-![Basic metrics](../image/dps-basic-metrics.png)
+![Basic metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dps-basic-metrics.png)
 
 |Metric|Description|
 |------|-----------|
@@ -48,7 +48,7 @@ Select **View more data** underneath any metric to review it in more detail.
 
 Displays information on data records.
 
-![Data classification](../image/dps-data-classification.png)
+![Data classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dps-data-classification.png)
 
 <table id="table_pd2_sdm_k3c"><thead><tr><th>
 
@@ -83,9 +83,9 @@ Classified data
 
 You can track anonymization methods applied to protect data.
 
-**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](../task/dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; Data Discovery \(Classic\) &gt; Active Data Patterns**.
+**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../task/dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; Data Discovery \(Classic\) &gt; Active Data Patterns**.
 
-![Data anonymization](../image/dps-data-anonymization.png)
+![Data anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dps-data-anonymization.png)
 
 Each metric provides the following information on its data pattern:
 
@@ -104,7 +104,7 @@ You can choose to sort the information with the time dropdown, to any of the fol
 
 You can track top alert and blocked data patterns.
 
-![Alerting and blocking](../image/dps-alerting-blocking.png)
+![Alerting and blocking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../image/dps-alerting-blocking.png)
 
 The chart shows the most frequently detected types of sensitive information found during data discovery scans. It shows whether the information was alerted or blocked.
 

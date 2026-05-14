@@ -132,5 +132,5 @@ NA
 -   An email notification is sent to the user who is assigned to the Incident.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
+</table>**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 

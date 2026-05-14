@@ -465,18 +465,18 @@ Provides an integration with the Field Service Management application. With this
 -   Shopping Hub Mobile
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+</table>**Parent Topic:**[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
 **Related topics**  
 
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
-[Components installed with Sourcing and Procurement Operations](installed-with-FSC.md)
+[Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/installed-with-FSC.md)
 
-[Components installed with ERP Integration Framework](installed-with-FSC-ERP.md)
+[Components installed with ERP Integration Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/installed-with-FSC-ERP.md)
 
-[Components installed with Finance Common Architecture](installed-with-finance-common.md)
+[Components installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/installed-with-finance-common.md)
 
-[Properties installed with Finance Common Architecture](properties-for-finance-common.md)
+[Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/properties-for-finance-common.md)
 

@@ -27,11 +27,11 @@ Role required: sn\_ai\_filter\_tracker.user, workspace\_user
     -   This feature is limited to tables that extend task.
     -   The list must have less than 100 records.
     -   You can only track five lists at a time.
-2.  Select the AI tracking icon \(![AI tracking icon](../image/icon-ai-tracking.png)\).
+2.  Select the AI tracking icon \(![AI tracking icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/icon-ai-tracking.png)\).
 
     When records within the list change, you can summarize the changes.
 
-    ![Summarize recent changes](../image/notification-ai-list-tracker.png)
+    ![Summarize recent changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/notification-ai-list-tracker.png)
 
 3.  Select **Summarize**.
 
@@ -40,5 +40,5 @@ Role required: sn\_ai\_filter\_tracker.user, workspace\_user
 
 A summary of recent changes made to the list is generated.
 
-![Summary of recent changes](../image/summary-ai-list-tracker.png)
+![Summary of recent changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/summary-ai-list-tracker.png)
 

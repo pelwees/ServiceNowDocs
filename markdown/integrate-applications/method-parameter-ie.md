@@ -426,7 +426,7 @@ Not applicable
 </td></tr></tbody>
 </table>## Enter inputs for parameters
 
-To enter inputs, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
-**Parent Topic:**[IE connector](../concept/internet-explorer-connector.md)
+**Parent Topic:**[IE connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/internet-explorer-connector.md)
 

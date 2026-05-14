@@ -17,8 +17,8 @@ As a contract configurator, use condition builders to define criteria for a tabl
 
 ## Before you begin
 
--   Map tables in Microsoft Word document using the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-table.md).
--   Upload and parse the document with the content controls. For more information, see [Complete mapping and upload Microsoft Word document that includes content controls](cncore-upload-doc-addin.md).
+-   Map tables in Microsoft Word document using the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-table.md).
+-   Upload and parse the document with the content controls. For more information, see [Complete mapping and upload Microsoft Word document that includes content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-upload-doc-addin.md).
 -   Role required: sn\_cm\_core.contract\_config
 
 ## Procedure
@@ -36,5 +36,5 @@ As a contract configurator, use condition builders to define criteria for a tabl
 5.  Select **Update**.
 
 
-**Parent Topic:**[Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](cncore-addin-table.md)
+**Parent Topic:**[Map contract tables using the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-table.md)
 

@@ -42,5 +42,5 @@ You can select to work either in a compact view of Connect that overlays the sta
 6.  To conclude the Connect collaboration session, click **Following**.
 
 
-**Parent Topic:**[View alert information](t_EMViewAlert.md)
+**Parent Topic:**[View alert information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 

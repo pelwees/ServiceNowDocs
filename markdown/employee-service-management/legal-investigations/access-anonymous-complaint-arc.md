@@ -87,5 +87,5 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
     The report is displayed in the Standard Ticket Page.
 
 
-**Parent Topic:**[Submit a complaint through the Anonymous Report Center portal](submit-complaint-arc.md)
+**Parent Topic:**[Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-arc.md)
 

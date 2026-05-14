@@ -27,7 +27,7 @@ Role required: admin
 
     The system dynamically renders application and plugin cards based on your admin entitlement status.
 
-    ![Screenshot showing the dynamically rendered apps and plugins tiles](../image/ia-install.png)
+    ![Screenshot showing the dynamically rendered apps and plugins tiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-install.png)
 
     **Note:** The Manage your products section is collapsible by default. You can expand it to see all the product family cards.
 
@@ -41,7 +41,7 @@ Role required: admin
 
 4.  Select **Install** in the Get started section.
 
-    ![Screenshot showing review install details](../image/ia-review-install-details.png)
+    ![Screenshot showing review install details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-review-install-details.png)
 
     The Review Installation Details modal shows up. It shows a list of corresponding applications that will be installed as part of the installation process.
 
@@ -56,5 +56,5 @@ Role required: admin
     See [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) for more information on configuration of Now Assist Admin module.
 
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/ia-administer.md)
 

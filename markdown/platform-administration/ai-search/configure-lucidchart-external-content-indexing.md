@@ -111,15 +111,15 @@ To allow the connector to access your Lucidchart source system via the SCIM API,
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 client ID that you copied in step [3.d](configure-lucidchart-external-content-indexing.md#copy-client-id-step).
--   The OAuth 2.0 client secret that you copied in step [3.e](configure-lucidchart-external-content-indexing.md#copy-client-secret-step).
--   The SCIM bearer token that you copied in step [4.e](configure-lucidchart-external-content-indexing.md#copy-bearer-token-step).
+-   The OAuth 2.0 client ID that you copied in step [3.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-lucidchart-external-content-indexing.md#copy-client-id-step).
+-   The OAuth 2.0 client secret that you copied in step [3.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-lucidchart-external-content-indexing.md#copy-client-secret-step).
+-   The SCIM bearer token that you copied in step [4.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-lucidchart-external-content-indexing.md#copy-bearer-token-step).
 
 Your connector admin needs these items to configure a Lucidchart external content connector to retrieve documents, folders, and security principals from your Lucidchart source system.
 
-**Important:** If you invited any connector admins to be application collaborators in step [2](configure-lucidchart-external-content-indexing.md#invite-app-collaborators-step), make sure they've accepted their invitations. Without the application collaborator role, they won't be able to create a Lucidchart external content connector.
+**Important:** If you invited any connector admins to be application collaborators in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-lucidchart-external-content-indexing.md#invite-app-collaborators-step), make sure they've accepted their invitations. Without the application collaborator role, they won't be able to create a Lucidchart external content connector.
 
-For details on creating and configuring a Lucidchart external content connector, see [Create a Lucidchart external content connector](create-ext-cont-connector-lucidchart.md).
+For details on creating and configuring a Lucidchart external content connector, see [Create a Lucidchart external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-lucidchart.md).
 
-**Parent Topic:**[Lucidchart external content connector](../concept/lucidchart-external-content-connector.md)
+**Parent Topic:**[Lucidchart external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/lucidchart-external-content-connector.md)
 

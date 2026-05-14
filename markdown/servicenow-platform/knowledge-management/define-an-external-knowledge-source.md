@@ -71,5 +71,5 @@ Only basic authentication is supported for the external content integration feat
     4.  Click **Submit**.
 
 
-**Parent Topic:**[Integration with external knowledge sources](../concept/knowledge-external-content-integration.md)
+**Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-external-content-integration.md)
 

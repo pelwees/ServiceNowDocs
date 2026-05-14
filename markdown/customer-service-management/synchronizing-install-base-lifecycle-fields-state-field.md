@@ -15,7 +15,7 @@ You can synchronize the **Life cycle stage** field and the **Life cycle stage st
 
 ## Overview
 
-Track the lifecycle of an install base entity by migrating to the Common Service Data Model. To learn more about the CSDM framework, see [Common Service Data Model framework for Install Base Management](csdm-framework-for-install-base-management.md).
+Track the lifecycle of an install base entity by migrating to the Common Service Data Model. To learn more about the CSDM framework, see [Common Service Data Model framework for Install Base Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csdm-framework-for-install-base-management.md).
 
 ## Life Cycle Mapping table
 

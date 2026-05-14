@@ -54,5 +54,5 @@ On-Call Scheduling is available with activation of the ServiceNow AI Platform On
     Identify available On-Call Scheduling members of a support group who can be contacted to resolve an issue in ServiceNow® Service Operations Workspace.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

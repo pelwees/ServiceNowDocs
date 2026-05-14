@@ -31,12 +31,12 @@ Agent Assist displays contextual search results based on text entered in the **S
 
 3.  Perform one of the following.
 
-    -   In the Agent Assist panel, click the search resource icon \(![Search resource icon.](../../../product/customer-service-management/image/agent-assist-select-search-resource-icon.png)\) and select a search source.
+    -   In the Agent Assist panel, click the search resource icon \(![Search resource icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../product/customer-service-management/image/agent-assist-select-search-resource-icon.png)\) and select a search source.
         -   `Knowledge Articles`
         -   `Similar Knowledge Articles`
     -   In the Recommended Actions - Search tab, search with a keyword and select the **Search source** as `Knowledge` to filter the knowledge articles.
 
-        For more information on how to enable Recommended Actions - AI Search and disable Agent Assist, see [Enable AI search in Recommended Actions](../../../product/customer-service-management/task/migrate-ra-agent-assist.md).
+        For more information on how to enable Recommended Actions - AI Search and disable Agent Assist, see [Enable AI search in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../product/customer-service-management/task/migrate-ra-agent-assist.md).
 
 4.  Select a knowledge article.
 

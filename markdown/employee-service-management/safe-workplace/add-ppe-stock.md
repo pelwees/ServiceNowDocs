@@ -91,9 +91,9 @@ After adding PPE stock, you can view all of your available PPE by navigating to 
 
 **Note:** The **Consumables in Stock** and **Available Hardware** pages have a **New** button. Do not add PPE stock using the **New** button. Using this button does not update the stock log.
 
-**Parent Topic:**[Set up Workplace PPE Inventory Management](set-up-ppe.md)
+**Parent Topic:**[Set up Workplace PPE Inventory Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/set-up-ppe.md)
 
-**Previous topic:**[Add PPE models to Service Catalog](add-ppe-service-catalog.md)
+**Previous topic:**[Add PPE models to Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-ppe-service-catalog.md)
 
-**Next topic:**[Reduce PPE stock](reduce-ppe-stock.md)
+**Next topic:**[Reduce PPE stock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/reduce-ppe-stock.md)
 

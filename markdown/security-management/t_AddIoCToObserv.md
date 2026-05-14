@@ -34,22 +34,22 @@ Role required: sn\_ti.admin
 7.  Click **Save**.
 
 
-**Parent Topic:**[Observables](../concept/c_Observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_Observables.md)
 
 **Related topics**  
 
 
-[Define an observable](t_AddObservable.md)
+[Define an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddObservable.md)
 
-[Add associated tasks to an observable](t_AddAssociatedTasksToObservable.md)
+[Add associated tasks to an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddAssociatedTasksToObservable.md)
 
-[Add a related observable](t_AddRelatedObservable.md)
+[Add a related observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddRelatedObservable.md)
 
-[Load more IoC data](t_LoadAdditionalIoCData.md)
+[Load more IoC data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_LoadAdditionalIoCData.md)
 
-[Identify observable sources](t_IdentifyObservbleSources.md)
+[Identify observable sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyObservbleSources.md)
 
-[Perform lookups on observables](perform-lookups-on-observables.md)
+[Perform lookups on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-lookups-on-observables.md)
 
-[Perform threat enrichment on observables](perform-enrich-on-observs.md)
+[Perform threat enrichment on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/perform-enrich-on-observs.md)
 

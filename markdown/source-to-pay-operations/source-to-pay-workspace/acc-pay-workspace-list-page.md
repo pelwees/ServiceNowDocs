@@ -15,7 +15,7 @@ breadcrumb: [Source-to-Pay Workspace list page, Explore, Workspace, Source-to-Pa
 
 As an agent, view and work with the primary data, all the invoice inquiry cases, including the cases that are assigned to you. As an Account Payable Specialist, you can view and work with the primary data, all the invoice processing cases, your assigned cases and tasks, invoices, and invoice exceptions.
 
-Select the list icon \(\)![List icon in the Source-to-Pay Workspace](../image/case-list-icon.png) to open the List page in the Source-to-Pay Workspace.
+Select the list icon \(\)![List icon in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../image/case-list-icon.png) to open the List page in the Source-to-Pay Workspace.
 
 You can select each module and sub-module to view the details in a list. Under **Lists**, you can do the following:
 
@@ -70,14 +70,14 @@ As an agent, you have access to the following modules and sub-modules:
     -   Invoices
     -   Payment terms
 
-**Parent Topic:**[Source-to-Pay Workspace list page](../../source-to-pay-operations/concept/source-to-pay-list-page.md)
+**Parent Topic:**[Source-to-Pay Workspace list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../source-to-pay-operations/concept/source-to-pay-list-page.md)
 
 **Related topics**  
 
 
-[SPO list page](../../sourcing-procurement-operations/concept/procurement-specialist-list-page.md)
+[SPO list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../sourcing-procurement-operations/concept/procurement-specialist-list-page.md)
 
-[SLO list page](../../supplier-lifecycle-operations/concept/supp-workspace-list-page.md)
+[SLO list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/concept/supp-workspace-list-page.md)
 
-[POM list page](../../purchase-order-management/concept/pom-list-page.md)
+[POM list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../purchase-order-management/concept/pom-list-page.md)
 

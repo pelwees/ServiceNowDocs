@@ -31,8 +31,8 @@ You cannot comment and vote for ideas that are in the **Completed**, **Unlikely 
 
 3.  Review the idea details and then choose which action to perform on the idea.
 
-    For more information on actions and steps, see [Collaborate on idea](../reference/collaborate-on-idea-actions.md).
+    For more information on actions and steps, see [Collaborate on idea](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../reference/collaborate-on-idea-actions.md).
 
 
-**Parent Topic:**[Managing ideas using Innovation Management](../concept/using-innovation-management.md)
+**Parent Topic:**[Managing ideas using Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../concept/using-innovation-management.md)
 

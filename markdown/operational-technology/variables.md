@@ -36,7 +36,7 @@ The columns on the page are:
     -   Select the pencil icon ![](../../msi-console/image/edit-icon.png) to edit the variable set.
     -   Select the trash can icon ![](../../msi-console/image/trash-icon.png) to delete the variable set.
 
-![Variable page](../images/variable-sets-page.png)
+![Variable page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/variable-sets-page.png)
 
 ## Special Variable sets
 
@@ -47,9 +47,9 @@ There are the following special variable sets:
 
 The Custom-Global variable set can be edited by a user while the Driver - Global is read-only. The Custom - Global variable sets can be used to override indirectly the Driver - Global variable sets.
 
-![Special variable sets](../images/special-variable-sets.png)
+![Special variable sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/special-variable-sets.png)
 
-You can use variable sets \(Custom - Global or Site-specific sets\) to override a Variable set. See [Edit a Variable set](ot-discovery-console-user-guide/task/editing-a-variable-set.md) or [Create a Site-specific Variable set to use with Auto Query](ot-discovery-console-user-guide/task/add-variable-site-auto-query.md) for more information on editing a Variable set.
+You can use variable sets \(Custom - Global or Site-specific sets\) to override a Variable set. See [Edit a Variable set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-user-guide/task/editing-a-variable-set.md) or [Create a Site-specific Variable set to use with Auto Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-user-guide/task/add-variable-site-auto-query.md) for more information on editing a Variable set.
 
 ## Query Behavior
 
@@ -59,15 +59,15 @@ During a query, the query configuration is reviewed to see which Sites are being
 
 You can import or export variable sets. You can select either the JSON or CSV formats. Select **Actions** to import or export.
 
-![Action button](../images/action-button-variable-sets.png)
+![Action button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/action-button-variable-sets.png)
 
 When you export Variable sets in either JSON or CSV format, you are prompted to include encrypted password variables. If you select yes, the values are exported as plain text. If you select no, the export excludes encrypted password variables.
 
-![Export prompt](../images/export-variable-sets.png)
+![Export prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/export-variable-sets.png)
 
 If the encrypted password is exported as plain text, it is no longer hidden and secure.
 
 **Note:** Encrypted Variable values in Variable Sets are obscured. Encrypted values display as dots when set to encrypted.
 
-![Encrypted value](../images/password-dots.png)
+![Encrypted value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/password-dots.png)
 

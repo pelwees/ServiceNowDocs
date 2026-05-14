@@ -17,7 +17,7 @@ Use the GRC case summarization skill to generate an AI summary of a privacy case
 
 ## Before you begin
 
-Install the Now Assist for Privacy Management application. For more information, see [Install Now Assist for Privacy Management](privacy-install-now-assist.md).
+Install the Now Assist for Privacy Management application. For more information, see [Install Now Assist for Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-install-now-assist.md).
 
 Role required:
 
@@ -37,7 +37,7 @@ The skill collects data from predefined fields and related lists across the priv
 
 **Important:** Be sure to check AI-generated summaries for accuracy.
 
-If the **Summarize** option isn’t visible, an admin has to activate the skill from the Now Assist Admin console. For more information, refer to [Activate the GRC case summarization skill](../../now-assist-irm/task/activate-grc-case-summarization-skill.md).
+If the **Summarize** option isn’t visible, an admin has to activate the skill from the Now Assist Admin console. For more information, refer to [Activate the GRC case summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../now-assist-irm/task/activate-grc-case-summarization-skill.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ If the **Summarize** option isn’t visible, an admin has to activate the skill 
 
 6.  Select **Summarize**.
 
-    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](../concept/privacy-case-summarization-skill.md#section_rfw_5rz_k3c).
+    The summary is displayed. For a description of each section included in it, see [Components of a privacy case summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/privacy-case-summarization-skill.md#section_rfw_5rz_k3c).
 
 7.  Review the summary and complete any of the following options.
 
@@ -83,7 +83,7 @@ Once saved to the case record, the summary appears in the **Overview** tab and i
 
 </td><td>
 
-Select the information icon \(![Info icon](../../grc-common/image/icon-more-info.png)\) next to **Privacy case summarized by Now Assist** to view a disclaimer about AI-generated content:
+Select the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../grc-common/image/icon-more-info.png)\) next to **Privacy case summarized by Now Assist** to view a disclaimer about AI-generated content:
 
  **"AI summarized this using the record details. Check it for accuracy.**
 
@@ -95,7 +95,7 @@ Select the information icon \(![Info icon](../../grc-common/image/icon-more-info
 
 Select **View less** to partially collapse the summary, or **View more** to expand it.
 
- Alternatively, select the **Expand card** icon \(![Expand icon.](5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or **Collapse card** icon \(![Collapse icon.](80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to **Share to case summary** to fully expand or collapse the summary.
+ Alternatively, select the **Expand card** icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or **Collapse card** icon \(![Collapse icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to **Share to case summary** to fully expand or collapse the summary.
 
 </td></tr><tr><td id="d100089e342">
 
@@ -103,7 +103,7 @@ Select **View less** to partially collapse the summary, or **View more** to expa
 
 </td><td>
 
-Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
+Select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
 
  **Note:** User feedback doesn't affect future LLM outputs. It’s collected by ServiceNow® for internal quality monitoring only.
 
@@ -113,7 +113,7 @@ Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894
 
 </td><td>
 
-Select the copy icon \(![Copy icon.](d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
+Select the copy icon \(![Copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
 
 </td></tr><tr><td id="d100089e392">
 

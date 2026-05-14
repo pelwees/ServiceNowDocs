@@ -71,5 +71,5 @@ When enabled, the agent receives a notification that their manager has submitted
 -   **Default value:**true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+</table>**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/skills-management-wfo-itsm.md)
 

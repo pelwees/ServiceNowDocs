@@ -19,10 +19,10 @@ Create and manage various segments to enable structured customer groupings. You 
 
 ## Related links
 
--   [Configure Segment Management](configure-segment-management.md)
+-   [Configure Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
-[Configure Segment Management](configure-segment-management.md)
+[Configure Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 

@@ -19,5 +19,5 @@ Product Catalog plugin adds the following script include.
 |-----|-----------|
 |ProductCatalogUtils|Utilities for creating and maintaining product catalog items derived from vendor catalog items and models.|
 
-**Parent Topic:**[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
+**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 

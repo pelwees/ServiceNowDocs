@@ -15,7 +15,7 @@ breadcrumb: [Legal Service Delivery, Legal and Contract Operations, Employee Ser
 
 Extend Legal Service Delivery capabilities by integrating with third-party applications.
 
--   **[Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-landing.md)**
+-   **[Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-landing.md)**
 
     The ServiceNow® Microsoft Outlook Add-In for Legal Service Delivery enables you to submit legal requests and matters from within Microsoft Outlook. You can receive requests or information over email. Use the add-in to submit legal requests or matters without having to log in to the instance. For adding attachments, just drag and drop emails, email attachments or attach files from your system.
 

@@ -31,5 +31,5 @@ For example, if you add the script global.events\(current\) to a business rule o
 -   change\_ request.assigned
 -   change\_ request.inactive
 
-**Parent Topic:**[System events reference](system-events-reference.md)
+**Parent Topic:**[System events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/system-events-reference.md)
 

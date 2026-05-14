@@ -17,7 +17,7 @@ Select investment currency as an additional currency, which can be different fro
 
 ## Before you begin
 
--   [Enable monetary benefit plans for planning items](../../spw-financials/task/enable-benefitplans-spw-fin.md)
+-   [Enable monetary benefit plans for planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/enable-benefitplans-spw-fin.md)
 -   Role required: admin
 
 ## Procedure

@@ -49,9 +49,9 @@ In this procedure, define an assignment rule to assign database problems to the 
     4.  Open the problem and verify that the assignment group was added.
 
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/configuring-problem-mgmt.md)
 
-**Previous topic:**[Configure problem categories](configure-problem-categories.md)
+**Previous topic:**[Configure problem categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/configure-problem-categories.md)
 
-**Next topic:**[Categorize a problem as a major problem](categorize-major-problem.md)
+**Next topic:**[Categorize a problem as a major problem](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/categorize-major-problem.md)
 

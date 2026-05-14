@@ -33,7 +33,7 @@ Adding a dashboard to the library makes it available to users on the Related Das
 
 2.  Select **Add Dashboard** in the Dashboard Library.
 
-    ![Add Dashboard modal in Dashboard Library](../image/NAinVA-assistant-designer-analytics-add-dashboard.png "Add Dashboard modal")
+    ![Add Dashboard modal in Dashboard Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-assistant-designer-analytics-add-dashboard.png "Add Dashboard modal")
 
 3.  On the **Add Dashboard** form, fill in the fields.
 

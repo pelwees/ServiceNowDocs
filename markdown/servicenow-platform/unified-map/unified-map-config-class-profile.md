@@ -106,13 +106,13 @@ Option to set the profile as available for use.
 </td></tr></tbody>
 </table>3.  Select **Submit** or **Update**.
 
-    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](../concept/administer-unified-map.md).
+    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/administer-unified-map.md).
 
 
-**Parent Topic:**[Configuring Unified Map — admin settings](../concept/administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/administer-unified-map.md)
 
 **Related topics**  
 
 
-[Create or manage a user preset](unified-map-manage-preset-filter.md)
+[Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md)
 

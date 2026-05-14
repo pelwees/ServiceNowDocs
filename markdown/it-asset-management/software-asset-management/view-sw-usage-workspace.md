@@ -150,5 +150,5 @@ Date and time that the software product was last used.
 
 After the software usage is created, you can view it by navigating to **License operations** &gt; **Discovery** &gt; **Software usage**.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

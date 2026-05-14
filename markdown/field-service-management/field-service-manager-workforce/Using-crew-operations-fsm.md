@@ -18,7 +18,7 @@ Use Field Service Crew Operations to assign the same set of resources repeatedly
 **Related topics**  
 
 
-[Using Dispatcher Workspace for crew operations](using-disp-wrkspc-crew-operations.md)
+[Using Dispatcher Workspace for crew operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-disp-wrkspc-crew-operations.md)
 
-[Managing crew tasks using the Now Mobile Agent application](executing-crew-tasks.md)
+[Managing crew tasks using the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/executing-crew-tasks.md)
 

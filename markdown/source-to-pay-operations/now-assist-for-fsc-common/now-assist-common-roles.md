@@ -33,16 +33,16 @@ Grant fulfiller, requester, and supplier user roles to access the Common Finance
 |sn\_supplier\_gen\_ai.now\_assist\_fulfiller|Contains Now Assist fulfiller role to access generative AI features for Supplier Lifecycle Operations|sn\_fsc\_genai.now\_assist\_fulfiller|
 |sn\_supplier\_gen\_ai.now\_assist\_supplier|Contains Now Assist supplier role to access generative AI features for Supplier Collaboration Portal|sn\_fsc\_genai.now\_assist\_supplier|
 
-**Parent Topic:**[Explore Now Assist for Common Finance and Supply Chain features](now-assist-fsc-exploring.md)
+**Parent Topic:**[Explore Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/now-assist-fsc-exploring.md)
 
 **Related topics**  
 
 
-[Supporting information for Now Assist for Common Finance and Supply Chain features](now-assist-fsc-supporting-info.md)
+[Supporting information for Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/now-assist-fsc-supporting-info.md)
 
-[Now Assist for Sourcing and Procurement Operations \(SPO\)](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/now-assist-spo.md)
 
-[Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../supplier-lifecycle-operations/concept/now-assist-slo.md)
 
-[Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/concept/now-assist-apo.md)
+[Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../accounts-payable-operations/concept/now-assist-apo.md)
 

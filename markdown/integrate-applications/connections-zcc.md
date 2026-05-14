@@ -24,7 +24,7 @@ Zero copy connections enable access to external data locally, while reducing sto
 
 In the Zero Copy Connector Hub, a connection admin can navigate to the **Available connectors** tab to view primary and community connectors and create a zero copy connection. After the connection is established, the connection admin can grant access to a data steward. The data steward can then access the zero copy connection from the **Established connections** tab to create a data fabric table.
 
-![Established connections in Zero Copy Connector Hub.](../image/zcc-zc-connections.png "Established connections")
+![Established connections in Zero Copy Connector Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/zcc-zc-connections.png "Established connections")
 
 ## Required ServiceNow AI Platform roles
 
@@ -78,5 +78,5 @@ The data steward's primary goal is to provide quality data to consumers to meet 
 -   Provide end-to-end details to agents with real-time data from an outside source. When a customer calls to make a warranty service claim against a vehicle, an agent working on the ServiceNow AI Platform can access extended warranty details from an external data lake in real time using a zero copy connection. The customer service agent can update the service request ticket with the latest warranty details directly from the data lake, ensuring the latest warranty information is used in the service ticket.
 -   Access data across multiple ServiceNow instances without replication. With the ServiceNow Remote Instance connector, you can access records from other instances locally, without moving, duplicating, or setting up complex ETL processes. For example, if you manage several ServiceNow instances and need to consolidate data for reporting or workflow decisions, designate one instance as your central processing instance and create zero copy connections to query tables on your other instances in real time. Data remains in its original location and isn't persisted on the processing instance, so you can maintain compliance with data residency requirements while gaining unified visibility across your organization.
 
-For more information, see [Managing zero copy connections](managing-connections-zcc.md).
+For more information, see [Managing zero copy connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-connections-zcc.md).
 

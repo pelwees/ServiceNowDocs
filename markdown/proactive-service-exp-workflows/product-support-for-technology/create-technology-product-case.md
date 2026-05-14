@@ -33,7 +33,7 @@ Role required: sn\_tech\_support.agent
 
 5.  On the form, fill in the fields.
 
-    ![technology product case.](../image/create-tech-product-case.png)
+    ![technology product case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/create-tech-product-case.png)
 
 <table id="table_bw4_flz_pfc"><thead><tr><th>
 

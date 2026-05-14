@@ -46,17 +46,17 @@ Role required: pa\_admin, pa\_target\_admin, pa\_power\_user, or admin.
 
 2.  Either:
 
-    -   Create a target, as described in [Create a target in KPI Details](../task/create-kpi-details-targets.md).
-    -   Open an existing target, as described in [Edit multiple targets in KPI Details](../task/edit-multiple-targets.md).
+    -   Create a target, as described in [Create a target in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-kpi-details-targets.md).
+    -   Open an existing target, as described in [Edit multiple targets in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/edit-multiple-targets.md).
 3.  Click the cogwheel to open the **Targets Configuration** page.
 
-    ![Targets panel top showing config cogwheel.](../image/kpi-details-target-config-cogwheel.png)
+    ![Targets panel top showing config cogwheel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-details-target-config-cogwheel.png)
 
     The **Targets configuration** view opens.
 
 4.  Open the Responsibility tab.
 
-    ![Selecting the Responsibility tab in Targets Configuration.](../image/kpi-details-targets-responsibility.png)
+    ![Selecting the Responsibility tab in Targets Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-details-targets-responsibility.png)
 
 5.  Select one or more unique indicator/breakdown element combinations \(KPIs\).
 
@@ -64,7 +64,7 @@ Role required: pa\_admin, pa\_target\_admin, pa\_power\_user, or admin.
 
     You can select only one user at a time, but you can repeat the selection process as often as you want. Only users who can view all selected KPIs are available.
 
-    ![Selecting responsible users.](../image/kpi-details-targets-select-resp-user.png)
+    ![Selecting responsible users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-details-targets-select-resp-user.png)
 
 7.  Click **Update**.
 

@@ -15,9 +15,9 @@ breadcrumb: [Configure Workplace Reservation Management portal, Workplace Reserv
 
 Set the Max days in future value for configuring reservation.
 
-The option to create a multi-day reservation is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](../task/config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](../task/create-multi-day-reservation.md).
+The option to create a multi-day reservation is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-multi-day-reservation.md).
 
-For multi-day reservation covering multiple days, the start date and end date span across multiple days \(for example, Start date: October 12, 2023. End date: October 17, 2023\). For more information, see [Create a multi-day reservation](../task/create-multi-day-reservation.md).
+For multi-day reservation covering multiple days, the start date and end date span across multiple days \(for example, Start date: October 12, 2023. End date: October 17, 2023\). For more information, see [Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-multi-day-reservation.md).
 
 -   If your administrator has set a limit on the maximum days that you can reserve in future, you can’t select days in the future beyond the set the date by the admin. A warning is displayed about the limitation.
 -   For example, if your administrator has limited the days of future to 45 days, you can’t select a date beyond 45 days while making a recurring reservation. The number of days available for **End on this date** option differs based on the **Daily**, **Weekly**, or **Monthly** selections. The end date and time specified for recurring reservation are used to indicate the end date and time of the reservation.
@@ -26,7 +26,7 @@ For multi-day reservation covering multiple days, the start date and end date sp
     **Note:** You can't select a date beyond a duration that is configured in the Max days in the future reservable module. For example, if Max days in future value are 45, you can’t select a date beyond this duration while making a recurring reservation. The number of days available for **End on this date** option differs based on the **Daily**, **Weekly**, or **Monthly** selections. If the **Max days in future** value isn’t configured on the Reservable module, the date selection isn’t restricted and employees can select a date based on the **Max number of occurrences** configuration.
 
 
-Space and reservation planners \(sn\_wsd\_rsv.reservation\_planner\) with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass certain settings in the Reservable module configuration. For more information, see [Allow Event planners to handle reservations with more flexibility](../../workplace-central/concept/event-planner-bypass-validation-rule-overview.md).
+Space and reservation planners \(sn\_wsd\_rsv.reservation\_planner\) with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass certain settings in the Reservable module configuration. For more information, see [Allow Event planners to handle reservations with more flexibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-central/concept/event-planner-bypass-validation-rule-overview.md).
 
 For example, reservation planners or space planners with the dedicated role \(sn\_wsd\_rsv.bypass\_module\_validation\) can ignore or bypass the following settings in the Reservable module:
 
@@ -36,48 +36,48 @@ For example, reservation planners or space planners with the dedicated role \(sn
 -   Available in
 -   All day
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/wsd-reservation-setup.md)
 
 **Related topics**  
 
 
-[Install Workplace Reservation Management](../task/install-wsd-reservation-mgmt.md)
+[Install Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/install-wsd-reservation-mgmt.md)
 
-[Add a workplace space for reservation](../task/add-reservable-items.md)
+[Add a workplace space for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-reservable-items.md)
 
-[Add a workplace room for reservation](../task/add-workplace-rooms.md)
+[Add a workplace room for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-workplace-rooms.md)
 
-[Configure a reservable module](../task/config-reservable-module.md)
+[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/config-reservable-module.md)
 
-[Assign spaces to an area](../task/add-neighbourhood-spaces-to-an-area.md)
+[Assign spaces to an area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-neighbourhood-spaces-to-an-area.md)
 
-[Create a standard service](../task/add-standard-services.md)
+[Create a standard service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-standard-services.md)
 
-[Create a flexible service](../task/add-flexible-service.md)
+[Create a flexible service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-flexible-service.md)
 
-[Create a workplace service to provide an extra service for a reservation](../task/create-workplace-service-to-provide-extra-service.md)
+[Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-workplace-service-to-provide-extra-service.md)
 
-[Create a reservable view](../task/create-a-reservable-view.md)
+[Create a reservable view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-a-reservable-view.md)
 
-[Create a user criteria record](../task/create-user-criteria.md)
+[Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-user-criteria.md)
 
-[Configure a reservable purpose](../task/configure-reservable-purpose.md)
+[Configure a reservable purpose](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/configure-reservable-purpose.md)
 
-[Create a quick reservation time slot](../task/add-reservable-time-slots.md)
+[Create a quick reservation time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/add-reservable-time-slots.md)
 
-[Configure virtual meeting providers](../task/configure-virtual-meeting-providers.md)
+[Configure virtual meeting providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/configure-virtual-meeting-providers.md)
 
-[Configure Microsoft Teams as virtual meeting provider](../task/configure-msteams-as-virtual-meeting-provider.md)
+[Configure Microsoft Teams as virtual meeting provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/configure-msteams-as-virtual-meeting-provider.md)
 
-[Connect Workplace Reservation Management with Microsoft Teams](../task/connect-rsv-mgmt-with-teams.md)
+[Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/connect-rsv-mgmt-with-teams.md)
 
-[Connect Workplace Reservation Management with Zoom](../task/connect-rsv-mtm-with-zoom.md)
+[Connect Workplace Reservation Management with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/connect-rsv-mtm-with-zoom.md)
 
-[Display permanent seat assignments on floor maps](../task/display-permanent-seats-on-maps.md)
+[Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/display-permanent-seats-on-maps.md)
 
-[Display name of the person reserving a space](../task/displayname-person-booking-rsv.md)
+[Display name of the person reserving a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](check-in-check-out-process.md)
+[Manage check-in and check-out reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-rsv-check-in.md)
 

@@ -37,7 +37,7 @@ After you pause a task, you can resume when you start working on it again. The s
 
 4.  Filter or sort the task view.
 
-    -   To filter your tasks, tap the Filter icon ![Filter icon](../../enterprise-asset-management/image/filter-mobile-task-eam.png) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
+    -   To filter your tasks, tap the Filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/filter-mobile-task-eam.png) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
     -   To sort your tasks, tap the Filter icon ![](../../enterprise-asset-management/image/filter-mobile-task-eam.png), tap **Sort by**, and select the fields by which to sort your tasks.
 5.  Tap the asset pick task record that you want to pause.
 
@@ -54,5 +54,5 @@ After you pause a task, you can resume when you start working on it again. The s
 
 Each time you pause or resume work on the asset pick task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on a hardware asset pick task using the Mobile Agent application](../concept/record-time-pick-task-mobile-agent-ham.md)
+**Parent Topic:**[Record time worked on a hardware asset pick task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-time-pick-task-mobile-agent-ham.md)
 

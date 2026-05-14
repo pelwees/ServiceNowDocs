@@ -15,7 +15,7 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 Certain types of data extracted from documents are converted into a standard format so that they appear the same across all fields.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-nowassist-landing.md).
 
 This process increases the usefulness of the data by enabling it to be grouped and analyzed more easily. It also supports integration with other applications on the ServiceNow AI Platform.
 
@@ -49,7 +49,7 @@ A field that uses a field in another table as a standard. DocIntel matches the e
 
  For example, a use case has a reference field called **Vendor** that points to the Name column in the Company table as the reference. When processing a document task, DocIntel extracts “Degas Dairy Products, Inc” from the document and fills the **Vendor** field with that value. DocIntel compares the value to the company names in the reference table and finds “Degas Dairy Products, Inc” as a match. In the document task, “Degas Dairy Products, Inc” is matched to “Degas Dairy Products, Inc” in the reference.
 
- ![Reference field flow.](../image/mmasset0020489-data-normalization-landing.png)
+ ![Reference field flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/mmasset0020489-data-normalization-landing.png)
 
 </td></tr><tr><td>
 
@@ -76,13 +76,13 @@ Floating point number
 Number with up to seven decimal places. For example, 12.0 to 12.0000000.
 
 </td></tr></tbody>
-</table>To set the field type, see [Create a field for data extraction](../task/manage-keys.md).
+</table>To set the field type, see [Create a field for data extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../task/manage-keys.md).
 
 ## Display
 
 A completed data extraction field shows the converted value next to it.
 
-![Data extraction integer field and its converted value field.](../image/docintel-normalization-example2.png) ![Data extraction date field and its converted value field.](../image/docintel-normalization-example.png)
+![Data extraction integer field and its converted value field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/docintel-normalization-example2.png) ![Data extraction date field and its converted value field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/docintel-normalization-example.png)
 
 You can adjust the converted date value by selecting **Edit**.
 
@@ -96,32 +96,32 @@ For example, a use case has a **Date** field, and `Month first` is selected as t
 
 In such cases, the user completing a document task may need to confirm or correct the conversion of ambiguous values. Depending on the field’s configuration in the use case, automated document processing may be interrupted to ensure the conversion is accurate.
 
-**Parent Topic:**[Document Intelligence references](../reference/docintel-references.md)
+**Parent Topic:**[Document Intelligence references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/docintel-references.md)
 
 **Related topics**  
 
 
-[Components installed with Document Intelligence](../reference/installed-with-document-intelligence.md)
+[Components installed with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/installed-with-document-intelligence.md)
 
-[Confidence scores](docintel-confidence-scores.md)
+[Confidence scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-confidence-scores.md)
 
-[Data extraction modes](../reference/data-extraction-modes.md)
+[Data extraction modes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/data-extraction-modes.md)
 
-[Document field statuses](../reference/docintel-field-statuses.md)
+[Document field statuses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/docintel-field-statuses.md)
 
-[Document Intelligence forms](../reference/document-intelligence-forms.md)
+[Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/document-intelligence-forms.md)
 
-[Document Intelligence properties](../reference/document-intelligence-properties.md)
+[Document Intelligence properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/document-intelligence-properties.md)
 
-[Document Intelligence roles](../reference/document-intelligence-user-roles.md#)
+[Document Intelligence roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/document-intelligence-user-roles.md#)
 
-[Document Intelligence terminology](docintel-terminology.md#)
+[Document Intelligence terminology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-terminology.md#)
 
-[Document task statuses](../reference/docintel-task-statuses.md)
+[Document task statuses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/docintel-task-statuses.md)
 
-[Domain separation and Document Intelligence](../reference/domain-separation-and-doc-intel.md)
+[Domain separation and Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/domain-separation-and-doc-intel.md)
 
-[Languages supported by Document Intelligence](languages-supported-by-document-intelligence.md)
+[Languages supported by Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/languages-supported-by-document-intelligence.md)
 
-[Limitations in Document Intelligence](../reference/hard-limits-in-doc-intel.md)
+[Limitations in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../reference/hard-limits-in-doc-intel.md)
 

@@ -26,7 +26,7 @@ Role required: sn\_customerservice\_agent and awa\_external\_user
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg) \).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg) \).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -38,8 +38,8 @@ Role required: sn\_customerservice\_agent and awa\_external\_user
 
 6.  Select any one of the following:
 
-    -   To transfer to a queue, select the Queues tab, search for the target queue, and select the arrow \(![Transfer icon to transfer a queue or another agent](../image/arrow.png) \) icon.
-    -   To transfer to an agent, select the Agents tab, search for the target agent, and select the arrow \(![Transfer icon to transfer to another agent](../image/arrow.png) \) icon.
+    -   To transfer to a queue, select the Queues tab, search for the target queue, and select the arrow \(![Transfer icon to transfer a queue or another agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/arrow.png) \) icon.
+    -   To transfer to an agent, select the Agents tab, search for the target agent, and select the arrow \(![Transfer icon to transfer to another agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/arrow.png) \) icon.
 
         **Note:** Only available agents in the external queue are displayed in the Agents tab.
 

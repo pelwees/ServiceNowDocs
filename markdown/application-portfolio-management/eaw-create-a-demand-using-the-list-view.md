@@ -25,23 +25,23 @@ Use a demand as a step to identify cost-saving opportunities on the business app
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
-3.  Select the row context menu icon \(![Row context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) next to the business application that you want to create a demand for and select **Create demand**.
+3.  Select the row context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\) next to the business application that you want to create a demand for and select **Create demand**.
 
 4.  On the Create demand form, fill in the fields.
 
-    For a description of the field values, see [Create demand form](../../reference/eaw-reference/eaw-demand-form.md).
+    For a description of the field values, see [Create demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-demand-form.md).
 
 5.  Select **Create**.
 
     The new demand is displayed under the business application.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 
 
-[Edit a demand associated with a business application](eaw-edit-a-demand-associated-with-a-business-application.md)
+[Edit a demand associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-edit-a-demand-associated-with-a-business-application.md)
 

@@ -17,32 +17,32 @@ Service Reliability Management \(SRM\) helps your organization respond, collabor
 
 ## Overview of Service Reliability Management
 
-![This image describes the main features of SRM: manage teams, register services, incident response, and monitor health.](../image/sr-landing-page-imagepng.png)
+![This image describes the main features of SRM: manage teams, register services, incident response, and monitor health.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/sr-landing-page-imagepng.png)
 
 ## Get started
 
 <table id="table_mv5_kz1_4bc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SRM concepts and features.](../concept/exploring-service-reliability-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about SRM concepts and features.](../concept/exploring-service-reliability-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure SRM.](../concept/configuring-service-reliability-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure SRM.](../concept/configuring-service-reliability-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Work with services, teams, and reliability tasks in SRM.](../concept/using-service-reliability-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../../reuse/icons/brand-icons/bus-investor-relations-2.svg)Work with services, teams, and reliability tasks in SRM.](../concept/using-service-reliability-management.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about SRM components, such as fields, tables, and properties.](service-reliability-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about SRM components, such as fields, tables, and properties.](service-reliability-management-reference.md)
 
 </td></tr></tbody>
 </table>## Install from the Store
 
 Install SRM from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Note:** When installing from the store, first confirm that you have all the dependencies needed by selecting the Dependencies tab. For more information, see [Install Service Reliability Management from Admin Center or ServiceNow Store](../task/sr-install-sr-store-app.md).
+**Note:** When installing from the store, first confirm that you have all the dependencies needed by selecting the Dependencies tab. For more information, see [Install Service Reliability Management from Admin Center or ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-install-sr-store-app.md).
 
 ## Troubleshoot and get help
 

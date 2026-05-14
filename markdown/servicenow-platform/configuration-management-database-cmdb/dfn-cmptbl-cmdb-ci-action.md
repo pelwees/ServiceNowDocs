@@ -39,5 +39,5 @@ By default, it is not allowed to apply more than a single action to a CI. You ca
 
 An API can successfully apply the two specified actions simultaneously to a CI.
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](../concept/cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-ci-lifecycle-mgmt.md)
 

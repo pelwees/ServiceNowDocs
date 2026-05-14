@@ -41,5 +41,5 @@ Industrial Workspace
 -   OT resolution notes generation
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Now Assist for Operational Technology Service Management \(OTSM\)](configuring-now-assist-otsm.md)
+</table>**Parent Topic:**[Configure Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-now-assist-otsm.md)
 

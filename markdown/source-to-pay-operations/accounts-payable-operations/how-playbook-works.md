@@ -17,7 +17,7 @@ Playbooks in Accounts Payable Operations displays step by step process involved 
 
 The playbook life cycle provides the context as to where an Accounts Payable specialist is within the playbook, including information for each stage and activity and any dependencies between stages. For stages with multiple activities, the playbook life cycle provides step-by-step guidance for completing the stage.
 
-The playbook workflow is shown below.![The playbook displaying the various activity cards and options to process an invoice.](../image/playboook.png)
+The playbook workflow is shown below.![The playbook displaying the various activity cards and options to process an invoice.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/playboook.png)
 
 The stages and activities in a playbook life cycle are configured using [Process Automation Designer](https://www.servicenow.com/docs/bundle/washingtondc-build-workflows/page/administer/process-automation-designer/concept/process-automation-designer.html) \(PAD\). Refer to the table below for the Playbook activity.
 
@@ -31,5 +31,5 @@ The stages and activities in a playbook life cycle are configured using [Process
 
 The playbook work area appears in the center part of the playbook section. It displays the action taken for the current activity, depending on the configured activity view.
 
-**Parent Topic:**[Playbook for updating the invoice primary data](playbooks.md)
+**Parent Topic:**[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/playbooks.md)
 

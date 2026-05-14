@@ -169,10 +169,10 @@ Complaint details
 Complaint details, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Quality issue management form](mco-qim-form.md)
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[Create a product non-conformance case](../task/mco-playbook-create-non-conformance.md)
+[Create a product non-conformance case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-playbook-create-non-conformance.md)
 

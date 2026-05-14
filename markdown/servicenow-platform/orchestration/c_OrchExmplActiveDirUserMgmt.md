@@ -15,7 +15,7 @@ breadcrumb: [Orchestration examples, Classic Orchestration, ServiceNow AI Platfo
 
 A set of six Orchestration Active Directory activities enables organizations to automate their on-boarding/off-boarding processes with auditable, self-documenting workflows that save time and eliminate mistakes.
 
-The activities in the [Active Directory activity pack](../../../administer/orchestration-activities/concept/c_OrchActiveDirectoryActivities.md) are designed to manage user accounts and reset user passwords. The following activities cover the most common use cases administrators encounter when managing Active Directory user accounts:
+The activities in the [Active Directory activity pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../administer/orchestration-activities/concept/c_OrchActiveDirectoryActivities.md) are designed to manage user accounts and reset user passwords. The following activities cover the most common use cases administrators encounter when managing Active Directory user accounts:
 
 -   Create AD User Account
 -   Update AD User Account
@@ -26,7 +26,7 @@ The activities in the [Active Directory activity pack](../../../administer/orche
 
 These activities share a common design, have complementary functionality, and share a common set of parameters. They can be used singly or together to create consistent workflows for provisioning and de-provisioning user accounts.
 
-**Parent Topic:**[Orchestration examples](c_OrchestrationExamples.md)
+**Parent Topic:**[Orchestration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExamples.md)
 
 ## Update Active Directory with Orchestration
 
@@ -52,7 +52,7 @@ The solution is to create an Orchestration workflow that pushes changes from the
 
 4.  Click the menu icon in the upper left corner of the canvas and select **Edit Inputs** from the context menu.
 
-    ![Editing workflow inputs](../image/WorkflowEditInputs.png "Editing workflow inputs")
+    ![Editing workflow inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowEditInputs.png "Editing workflow inputs")
 
 5.  In the Workflow Inputs form, click **New** in the **Variables** record list, and create a new variable, using the fields in the table.
 
@@ -126,7 +126,7 @@ Updates the user's account in Active Directory, if the user exists. In this exam
 
     The workflow looks like this:
 
-    ![Updating AD user](../image/WorkflowExample1.png "Updating an AD user")
+    ![Updating AD user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowExample1.png "Updating an AD user")
 
 11. Attach both activity outcomes \(Success and Failure\) to the end point.
 
@@ -152,7 +152,7 @@ Updates the user's account in Active Directory, if the user exists. In this exam
 
     For this example, we are ignoring errors. The workflow now looks like this:
 
-    ![Creating an AD user](../image/WorkflowExample2.png "Creating an AD user")
+    ![Creating an AD user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowExample2.png "Creating an AD user")
 
     This procedure builds a simple workflow that creates a bare-bones Active Directory account consisting of a user name only. The workflow then updates that account with additional information provided by the ServiceNow User \[sys\_user\] table. However, we do not want to execute the Create AD Object activity if the user account already exists. The workflow needs to query Active Directory for matching user records and then branch the workflow based on the results of the query. If an account already exists, then the workflow should update the account. If the account does not exist, then the workflow should create the account in Active Directory.
 
@@ -211,9 +211,9 @@ An LDAP filter string that defines the search parameters. Use any valid LDAP fil
 
     The workflow now looks like this:
 
-    ![Querying AD for user accounts](../image/WorkflowExample3.png "Querying AD for user accounts")
+    ![Querying AD for user accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowExample3.png "Querying AD for user accounts")
 
-    The Query AD activity returns its results as a JSON string in the workflow [data bus](../../../administer/orchestration-activity-designer/concept/c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
+    The Query AD activity returns its results as a JSON string in the workflow [data bus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../administer/orchestration-activity-designer/concept/c_OrchestrationDatabus.md#). This JSON string is always an array of objects. Each object corresponds to an Active Directory entry that matched the query. Our workflow should branch, whether that array is empty or not.
 
 21. Drag a standard If activity from the Conditions folder in the **Core** tab and drop it onto the transition between Query AD and Update AD Object.
 
@@ -256,7 +256,7 @@ For the If activity to work correctly, we must return a **yes** or **no** in the
 </td></tr></tbody>
 </table>    **Note:** The expression `data.get(5)` in this script identifies the Query AD output in the Databus by order number, since it was the fifth activity added to the workflow.
 
-    ![Query AD outputs in the Databus](../image/WorkflowExampleOrderNum.png "Query AD outputs in the Databus")
+    ![Query AD outputs in the Databus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowExampleOrderNum.png "Query AD outputs in the Databus")
 
 23. Click **Submit**.
 
@@ -266,6 +266,6 @@ For the If activity to work correctly, we must return a **yes** or **no** in the
 
     This is the final step. This workflow will query Active Directory to determine if an account already exists. If an account exists, the workflow updates that account. If an account does not exist, the workflow creates the account and then updates the Active Directory with the configured user data set.
 
-    ![Creating the conditional paths](../image/WorkflowExample4.png "Creating the conditional paths")
+    ![Creating the conditional paths](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/WorkflowExample4.png "Creating the conditional paths")
 
 

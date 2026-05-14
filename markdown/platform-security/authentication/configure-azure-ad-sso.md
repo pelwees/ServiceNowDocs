@@ -29,7 +29,7 @@ Role required: Azure admin
 
 3.  On the Set up single sign-on with SAML page, select the pen icon for Basic SAML Configuration to edit the settings.
 
-    ![SAML Configuration.](../image/configure-azure-ad-sso.png)
+    ![SAML Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/configure-azure-ad-sso.png)
 
 4.  In the Basic SAML Configuration section, perform the following:
 
@@ -57,7 +57,7 @@ Role required: Azure admin
 
 5.  On the Set up single sign-on with SAML page, in the SAML Signing Certificate section, find **Certificate \(Base64\)**.
 
-    ![Signing Certificate.](../image/certificate-sso.png)
+    ![Signing Certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/certificate-sso.png)
 
     1.  Select the copy button to copy **App Federation Metadata Url**, and paste it into Notepad.
 
@@ -67,6 +67,6 @@ Role required: Azure admin
 
 6.  In the Set up ServiceNow section, copy the appropriate URLs, based on your requirement.
 
-    ![Setup SAML.](../image/set-up-saml.png)
+    ![Setup SAML.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/set-up-saml.png)
 
 

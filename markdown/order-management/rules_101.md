@@ -15,7 +15,7 @@ Learn how to create and manage rules to deliver dynamic configuration experience
 
 As the end user navigates through the configuration experience and populates information, rules provide its dynamic elements: hiding and showing content, calculating values, delivering recommendations and messages, and building the bill of materials \(BOM\).
 
-With a focus on administering rules in the administration user interface, this article discusses the two components of rules, conditions and actions, and the six action types available in CPQ. Much like other elements in the application, the UI is a good place to add or edit small numbers of rules. When many rules need manipulation, we recommend using the Matrix Loader. For more information, see [Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md).
+With a focus on administering rules in the administration user interface, this article discusses the two components of rules, conditions and actions, and the six action types available in CPQ. Much like other elements in the application, the UI is a good place to add or edit small numbers of rules. When many rules need manipulation, we recommend using the Matrix Loader. For more information, see [Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md).
 
 In the administration UI, rules are accessible in two ways:
 
@@ -54,9 +54,9 @@ Message actions provide contextual information as the end user works through the
 
 |Message type|Example|Notes|
 |------------|-------|-----|
-|Info|![info message](../images/cpq-rules-message-type-example-info.png)|No effect on configuration experience beyond message|
-|Warning|![warning message](../images/cpq-rules-message-type-example-warning.png)|No effect on configuration experience beyond message|
-|Error|![error message](../images/cpq-rules-message-type-example-error.png)|Disables the Quote button so the user cannot move forward until the error state is alleviated.|
+|Info|![info message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-rules-message-type-example-info.png)|No effect on configuration experience beyond message|
+|Warning|![warning message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-rules-message-type-example-warning.png)|No effect on configuration experience beyond message|
+|Error|![error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-rules-message-type-example-error.png)|Disables the Quote button so the user cannot move forward until the error state is alleviated.|
 |Custom|Look is determined by user|The user can control whether this has no effect on configuration experience beyond message of if it disables the Quote button so the user cannot move forward until the error state is alleviated.|
 
 ## Inclusion/exclusion actions
@@ -421,5 +421,5 @@ See the following sample script to observe how item hierarchy, differentiating p
 **Related topics**  
 
 
-[Quote line unique IDs](quote_line_unique_ids.md)
+[Quote line unique IDs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote_line_unique_ids.md)
 

@@ -29,7 +29,7 @@ After you create a custom table map for an Azure DevOps process type, create a b
 
 2.  From the list of available business rules, locate and open the Synch Story with Azure DevOps rule.
 
-3.  From the context menu \(![context menu icon](../../apw-internal-integrations/images/context-menu-icon.png)\), perform an Insert and Stay operation on this business rule.
+3.  From the context menu \(![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../../apw-internal-integrations/images/context-menu-icon.png)\), perform an Insert and Stay operation on this business rule.
 
     If you have not enabled the **Insert and Stay** action in your ServiceNow instance, see [Allow insert options on records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-form-administration.md).
 
@@ -63,5 +63,5 @@ Select the table in Agile Development 2.0 for which you've created the custom ma
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../reference/customizing-map-config-agile-azure.md)
 

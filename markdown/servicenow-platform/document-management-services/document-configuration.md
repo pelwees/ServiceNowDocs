@@ -50,22 +50,22 @@ Role required: admin
 13. Select **Submit**.
 
 
-**Parent Topic:**[Document repository](doc-mgt-view-documents-repo.md)
+**Parent Topic:**[Document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-mgt-view-documents-repo.md)
 
 **Related topics**  
 
 
-[Create a document record](../task/create-new-doc.md)
+[Create a document record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/create-new-doc.md)
 
-[Document versions](document-mgt-versions.md)
+[Document versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-mgt-versions.md)
 
-[Download a document](../task/downloading-a-document.md)
+[Download a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/downloading-a-document.md)
 
-[Share a document link](../task/share-document-link.md)
+[Share a document link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/share-document-link.md)
 
-[Modify a shared link access](../task/modify-access-shared-link.md)
+[Modify a shared link access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/modify-access-shared-link.md)
 
-[Delete a document link](../task/delete-document-link.md)
+[Delete a document link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/delete-document-link.md)
 
-[Delete documents](../task/delete-a-doc.md)
+[Delete documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/delete-a-doc.md)
 

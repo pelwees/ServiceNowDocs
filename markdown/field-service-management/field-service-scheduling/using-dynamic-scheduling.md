@@ -20,7 +20,7 @@ Dynamic scheduling can run in one of two modes: manually or automatically. For m
 **Related topics**  
 
 
-[Dynamic scheduling](dynamic-scheduling.md)
+[Dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-scheduling.md)
 
-[Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md)
+[Configuring Dynamic Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/Configure-dynamic-scheduling.md)
 

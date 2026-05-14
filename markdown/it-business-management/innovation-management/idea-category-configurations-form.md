@@ -62,10 +62,10 @@ Module
 The Idea module to which this idea category belongs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Innovation Management](form-field-information-for-innovation-management.md)
+</table>**Parent Topic:**[Form field information for Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/form-field-information-for-innovation-management.md)
 
 **Related topics**  
 
 
-[Configure idea categories](../task/category-configuration-existing-table.md)
+[Configure idea categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/category-configuration-existing-table.md)
 

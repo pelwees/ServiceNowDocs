@@ -52,5 +52,5 @@ Each building \(drawing\) has a list of levels. Each level is a map and represen
 -   The `main` property assigns the main level of the building and is used as the default map when a building is selected.
 -   The `id` is used to find the correct level geometry file.
 
-**Parent Topic:**[Community file](r_CommunityFile.md)
+**Parent Topic:**[Community file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CommunityFile.md)
 

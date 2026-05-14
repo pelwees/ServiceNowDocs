@@ -17,7 +17,7 @@ Standalone client methods are methods that you can use within your client JavaSc
 
 You can directly access these methods within a client script without any constructor or other type of instantiation before use.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## Standalone - reflistOpen \(String target, String elementName, String refTableName, String dependent, String useQBE, String refQualElements, String additionalQual, String parentID, String forceReference, String ignoreTargetValue\)
 
@@ -25,11 +25,11 @@ Shows the reference field data in a standard pop-up window. This method is commo
 
 For example, using this method you can display reference field data for a specific set of query criteria:
 
-![Ref data in pop-up window](../image/reflistOpen_popup_image1.png)
+![Ref data in pop-up window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/reflistOpen_popup_image1.png)
 
 Similarly, you can use this method to display a search form that enables the user to enter their own set of query criteria for selecting the reference field data to display.
 
-![Search in pop-up window](../image/reflistOpen_popup_image2.png)
+![Search in pop-up window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/reflistOpen_popup_image2.png)
 
 When opening the URL in the standard pop-up, if the URL length is greater than TinyURL length, 1024 by default, the URL is converted to TinyURL, such as:
 

@@ -48,5 +48,5 @@ Install Order Management for telecom, media, and tech by requesting it from the 
     The Sales Agreement application captures the scope and conditions from a quote for future sales transactions, over a specified period between a buyer and a seller.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

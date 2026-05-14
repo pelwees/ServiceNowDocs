@@ -29,7 +29,7 @@ Role required: it\_project\_manager
 
 4.  Open the required non-monetary benefit plan.
 
-5.  In the Non-monetary Benefit Plan Breakdowns related list, select the information icon \(![information icon.](../../planning-and-policy/image/informationicon.png)\) for a non-monetary benefit plan breakdown.
+5.  In the Non-monetary Benefit Plan Breakdowns related list, select the information icon \(![information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/informationicon.png)\) for a non-monetary benefit plan breakdown.
 
 6.  Select **Open Record**.
 
@@ -49,10 +49,10 @@ Role required: it\_project\_manager
 8.  Select **Update**.
 
 
-**Parent Topic:**[Create a non-monetary benefit plan for a project](create-a-non-monetary-benefit-plan-for-a-project.md)
+**Parent Topic:**[Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 
 **Related topics**  
 
 
-[Create a non-monetary benefit plan for a project](create-a-non-monetary-benefit-plan-for-a-project.md)
+[Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 

@@ -85,10 +85,10 @@ If you express dissatisfaction or explicitly request human assistance at any poi
 
 When the dispute is resolved, an email notification is sent to you with a summary and a hyperlink to the case.
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-order-management-using.md)
 
 **Related topics**  
 
 
-[Resolve invoice disputes using agentic workflow](resolve-invoice-case-now-assist-agent.md)
+[Resolve invoice disputes using agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/resolve-invoice-case-now-assist-agent.md)
 

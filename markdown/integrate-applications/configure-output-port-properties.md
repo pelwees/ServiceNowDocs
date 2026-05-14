@@ -48,10 +48,10 @@ Write Data To
 </td><td>
 
 Field that appears for Data Out ports only. There are two options:-   **Connection**: Pass the data to another component.
--   **Variable**: Map a global or a local variable from where the data must be written. If you select this option, the Data Out port on the component disappears and the variable name appears on the port. For more information, see [Create and use a variable in RPA Desktop Design Studio](configure-variables-rpa-studio.md).
+-   **Variable**: Map a global or a local variable from where the data must be written. If you select this option, the Data Out port on the component disappears and the variable name appears on the port. For more information, see [Create and use a variable in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-variables-rpa-studio.md).
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

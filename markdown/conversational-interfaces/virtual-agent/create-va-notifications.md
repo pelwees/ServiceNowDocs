@@ -171,8 +171,8 @@ Option to include the user who changed the record or triggered the event.
 
 ## What to do next
 
--   [Create additional recipients for Virtual Agent notifications](create-additional-recipients.md).
--   [Define the notification contents](define-va-notif-contents.md).
+-   [Create additional recipients for Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-additional-recipients.md).
+-   [Define the notification contents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-va-notif-contents.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-va-notifications.md)
 

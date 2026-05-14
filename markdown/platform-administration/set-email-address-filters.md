@@ -73,21 +73,21 @@ You can also specify exceptions to the allowed or disallowed domains and email a
 
 ## Email address filter
 
-**Note:** After the email address filter is added to the Email Address Filters \[sys\_email\_address\_filter\] table, [Create an email client configuration](create-email-client-config.md).
+**Note:** After the email address filter is added to the Email Address Filters \[sys\_email\_address\_filter\] table, [Create an email client configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-client-config.md).
 
-![Allowed exception in the email address filter and how it appears in the email client.](../image/whitelist-example.png "Email address filter — allowed exception example")
+![Allowed exception in the email address filter and how it appears in the email client.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/whitelist-example.png "Email address filter — allowed exception example")
 
-![Disallowed exception in the email address filter and how it appears in the email client.](../image/blacklist-example.png "Email address filter — disallowed exception example")
+![Disallowed exception in the email address filter and how it appears in the email client.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/blacklist-example.png "Email address filter — disallowed exception example")
 
 ## Example
 
-![Allowed exception in the email address filter and how it appears in the email client.](../image/whitelist-example.png "Email address filter — allowed exception example")
+![Allowed exception in the email address filter and how it appears in the email client.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/whitelist-example.png "Email address filter — allowed exception example")
 
-![Disallowed exception in the email address filter and how it appears in the email client.](../image/blacklist-example.png "Email address filter — disallowed exception example")
+![Disallowed exception in the email address filter and how it appears in the email client.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/blacklist-example.png "Email address filter — disallowed exception example")
 
 ## What to do next
 
-Apply the email address filter to a system address filter. For more information, see [Create a system address filter](create-system-address-filter.md).
+Apply the email address filter to a system address filter. For more information, see [Create a system address filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-system-address-filter.md).
 
-**Parent Topic:**[System address filters](../concept/system-address-filters.md)
+**Parent Topic:**[System address filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/system-address-filters.md)
 

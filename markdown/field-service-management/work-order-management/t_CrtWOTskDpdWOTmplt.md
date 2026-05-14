@@ -17,7 +17,7 @@ In addition to creating work order task dependencies that are inherited from the
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -39,6 +39,6 @@ Like work order tasks created from work orders, the dependencies inherited from 
 
 6.  When you have defined the dependencies for all tasks, click **Update**.
 
-    After the work order task dependencies are defined, you can select the template when [creating a new work order](t_CreateAWorkOrder.md), and the tasks, along with the defined dependencies, will be inherited by the work order.
+    After the work order task dependencies are defined, you can select the template when [creating a new work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrder.md), and the tasks, along with the defined dependencies, will be inherited by the work order.
 
 

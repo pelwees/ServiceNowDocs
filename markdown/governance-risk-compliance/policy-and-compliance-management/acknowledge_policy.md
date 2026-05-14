@@ -23,7 +23,7 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 1.  After you have received a notification that you are required to acknowledge a policy, navigate to **Policy and Compliance** &gt; **Policy Acknowledgement** &gt; **My Acknowledgements**.
 
-    ![My acknowledgement](../image/my_acknowledgement.png)
+    ![My acknowledgement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/my_acknowledgement.png)
 
 2.  To provide the acknowledgement, open the record and perform one of the following actions.
 
@@ -54,8 +54,8 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
     -   **Request Exception**
 
-        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](../../grc-workspace-compliance/task/request-policy-exception-ws.md).
+        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-workspace-compliance/task/request-policy-exception-ws.md).
 
 
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/ack-policy.md)
 

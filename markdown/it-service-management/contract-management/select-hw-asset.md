@@ -116,5 +116,5 @@ The Payment amount field in the Financial tab of the draft contract shows the to
 
 ## What to do next
 
-[Add or remove entitlements for a contract renewal](select-sw-asset.md)
+[Add or remove entitlements for a contract renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/select-sw-asset.md)
 

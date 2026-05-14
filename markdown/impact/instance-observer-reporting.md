@@ -25,7 +25,7 @@ Navigate to **Instance Observer** &gt; **Reports**. Select the **Report Type**, 
 
 Select **Generate report** and the report renders. On the report page, you have the option to download the report or to schedule the report to be run periodically.
 
-![Report types.](../image/io-reports.png)
+![Report types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-reports.png)
 
 For additional information about a report, select **Help** &gt; **Metrics** from the main menu and select the option from the right-hand menu.
 
@@ -44,7 +44,7 @@ Some Instance Observer reporting features vary between the Impact package that y
 |Data retention|45 days|6 months|6 months|
 |Self Service Alerts|X|✓|✓|
 
-**Note:** For more information on subscription support, see [Impact packages](impact-packages.md).
+**Note:** For more information on subscription support, see [Impact packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-packages.md).
 
 ## Daily Performance Metrics Report
 
@@ -152,7 +152,7 @@ To configure the Custom Performance Report:
 
 9.  Select **Generate Report**.
 
-![Custom performance report offers more metrics to measure performance.](../image/io-custom-performance-report.png)
+![Custom performance report offers more metrics to measure performance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-custom-performance-report.png)
 
 Each metric render a different visualization, where many of them are based on time series rendering as charts, while some of them are tables where the key performance indicators are aggregated in a tabular format.
 
@@ -170,5 +170,5 @@ There are several database growth reports that are available that show how the i
 |Database by Size \(Including Shards\)|Various metrics on how the database has either grown or decreased over the selected, including shards. Total DBI Size align with primary shards, this is calculated every 4 hours and can be used to visualize database growth over time.|
 |Top 20 Tables \(By Size\)|Lists table name, size \(GB\), 1 day growth and rate, and the 7 day growth rate.|
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](../concept/io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-overview.md)
 

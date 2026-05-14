@@ -17,9 +17,9 @@ Find test steps for a particular user interface or ServiceNow AI Platform featur
 
 The Add Test Step panel lists test categories in the left pane. You can directly search for a specific test step by its name in the search field at the top of the panel. You can also select **All Steps** in the left pane to list all available test steps in the middle pane. A description of the selected step appears in the right pane.
 
-![Add Test Step – All Steps](../image/Search.png)
+![Add Test Step – All Steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/Search.png)
 
 You can select a specific test category to list only the test steps available for that test category in the middle panel. A description of the selected step appears in the right panel.
 
-![Add Test Step – Service Catalog steps](../image/atf-select-test-step.png)
+![Add Test Step – Service Catalog steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-select-test-step.png)
 

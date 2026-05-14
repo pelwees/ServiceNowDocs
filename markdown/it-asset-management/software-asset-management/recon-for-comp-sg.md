@@ -40,10 +40,10 @@ Role required: sam\_admin
 
 6.  Monitor the status and progress values to confirm completion.
 
-    Refresh the Reconciliation Results page to view the updated values. If the **Assigned to** value is empty for computers with Microsoft 365 application installs, the reconciliation might not work. For information about validating installation and usage data, see [Validate subscription, installation, and usage data](validate-sub-sg.md).
+    Refresh the Reconciliation Results page to view the updated values. If the **Assigned to** value is empty for computers with Microsoft 365 application installs, the reconciliation might not work. For information about validating installation and usage data, see [Validate subscription, installation, and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/validate-sub-sg.md).
 
 
 ## What to do next
 
-[Identify savings opportunities](identify-sav-opp-sg.md)
+[Identify savings opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/identify-sav-opp-sg.md)
 

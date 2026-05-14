@@ -31,7 +31,7 @@ Role required: none
 
     -   If you are a manager, navigate to **Your team** &gt; **Manager Hub**.
     -   If you are an employee, navigate to **Your career** &gt; **Career Hub**.
-3.  On the prompt widget, display a list of all signals by selecting the Manage preferences icon \(![Actions icon.](../../legal-request-management/image/more-actions-icon.png)\).
+3.  On the prompt widget, display a list of all signals by selecting the Manage preferences icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../legal-request-management/image/more-actions-icon.png)\).
 
     **Note:** All signals for which there is a prompt in the prompts table are listed regardless of their status.
 

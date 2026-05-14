@@ -33,7 +33,7 @@ This procedure demonstrates how to approve or reject a budget using the account 
 
 4.  Under the **Policy builder** tab, in the **If** condition block, make a note of the source fields against the highlighted values.
 
-    ![Customizing budget approval policy](../image/pace_budget_approval.png)
+    ![Customizing budget approval policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/pace_budget_approval.png)
 
     **Note:** In this section, you're validating two conditions:
 

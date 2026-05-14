@@ -80,7 +80,7 @@ A similar message for canceling the resource plans appears on the demand form wh
 </td></tr></tbody>
 </table>    The message for canceling the associated resource plans appears at the top of the record.
 
-    ![Screenshot for canceling a resource plan message](../image/ResourcePlanCancelMessage.png "Message for canceling a resource plan")
+    ![Screenshot for canceling a resource plan message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/ResourcePlanCancelMessage.png "Message for canceling a resource plan")
 
     **Note:** In the Planning Console, irrespective of the Closed state of the project tasks, the message appears only when the project is in Closed state.
 
@@ -99,5 +99,5 @@ A similar message for canceling the resource plans appears on the demand form wh
 -   The selected resource plan moves to the Canceled state.
 -   All past and future allocations for the resource plan are canceled. If there are any actual hours logged against an allocation, that allocation is deleted. In this case, Allocated hours become zero and the actual hours are retained as is.
 
-**Parent Topic:**[Cancel a resource plan](t_CancelAResourcePlan.md)
+**Parent Topic:**[Cancel a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CancelAResourcePlan.md)
 

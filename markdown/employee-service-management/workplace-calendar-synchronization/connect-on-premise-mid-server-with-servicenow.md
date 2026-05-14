@@ -75,5 +75,5 @@ A platform is set to communicate with the Microsoft Exchange On-Premises MID ser
 
 ## What to do next
 
-[Create a Connection and credential alias for Microsoft Exchange On-Premises](create-a-connection-and-credential-alias-for-ms-exch-onprem.md)
+[Create a Connection and credential alias for Microsoft Exchange On-Premises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-a-connection-and-credential-alias-for-ms-exch-onprem.md)
 

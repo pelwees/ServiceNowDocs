@@ -44,12 +44,12 @@ Role required: sn\_isa\_schedule\_admin
 
 The maintenance schedule is created, deleted, or edited. Depending on the steps you followed, an eligible user can see the new schedule, no longer see the deleted schedule, or see the edited version of the schedule.
 
--   **[Attach a schedule to an equipment model entity](attach-equipment-model-entity-schedule.md)**  
+-   **[Attach a schedule to an equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/attach-equipment-model-entity-schedule.md)**  
 Attach an existing schedule to an equipment model entity with the Industrial Process Manager application. Attaching a schedule to an equipment model entity applies the schedule and its entries to that entity.
--   **[Detach a schedule from an equipment model entity](detach-equipment-model-entity-schedule.md)**  
+-   **[Detach a schedule from an equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/detach-equipment-model-entity-schedule.md)**  
 Detach an existing schedule from an equipment model entity with the Industrial Process Manager application. If a schedule no longer applies to an equipment model entity, you can easily remove it so that it doesn't show up for that entity.
--   **[View a schedule for the equipment model entity](view-schedules.md)**  
+-   **[View a schedule for the equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-schedules.md)**  
 View a schedule for an existing equipment model entity in the Industrial Process Manager application.
 
-**Parent Topic:**[Managing an equipment model entity schedule](../concept/managing-equipment-entity-schedules.md)
+**Parent Topic:**[Managing an equipment model entity schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/managing-equipment-entity-schedules.md)
 

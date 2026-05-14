@@ -38,12 +38,12 @@ Role required: knowledge\_admin, or admin
 
 You can remove a knowledge base manager by removing that user from the **Managers** field. If the user is not a manager of any other knowledge base, the knowledge\_manager role is removed from that user.
 
-**Parent Topic:**[Configuration tasks for knowledge managers](../concept/c_KnowledgeManager.md)
+**Parent Topic:**[Configuration tasks for knowledge managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/c_KnowledgeManager.md)
 
 **Related topics**  
 
 
-[Add a knowledge article to featured content](t_PinAnArticle.md)
+[Add a knowledge article to featured content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_PinAnArticle.md)
 
-[Define a knowledge article category](t_DefineAKnowledgeCategory.md)
+[Define a knowledge article category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md)
 

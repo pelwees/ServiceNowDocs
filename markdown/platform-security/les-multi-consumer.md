@@ -32,5 +32,5 @@ A major benefit of this multi-consumer architecture is the ability to run multip
 
 **Note:** For a mid server consumer, the maximum production level throughput is 31500 msg/sec. You can use 27,000 msg/sec as the reliable sustained throughput.
 
-**Parent Topic:**[MID server consumer](les-mid-server-consumer.md)
+**Parent Topic:**[MID server consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-mid-server-consumer.md)
 

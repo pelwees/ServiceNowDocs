@@ -17,9 +17,9 @@ Creates a Paragraph object representing a block of text in a PDF.
 
 This API is part of the ServiceNow PDF Generation Utilities plugin \(com.snc.apppdfgenerator\) and is provided within the `sn_pdfgeneratorutils` namespace. The plugin is activated by default.
 
-This API is a component used with the [Document API](../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
+This API is a component used with the [Document API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) to generate a PDF.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Paragraph - Paragraph\(String text\)
 
@@ -29,7 +29,7 @@ Instantiates a new Paragraph object containing a string.
 |----|----|-----------|
 |text|String|Paragraph block of text.|
 
-The following example shows how to create a Paragraph object. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to create a Paragraph object. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var para = new Paragraph("hello");
@@ -47,7 +47,7 @@ Adds an empty line after a paragraph in a document.
 |----|-----------|
 |None| |
 
-The following example shows how to add a new line after a paragraph in a document. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to add a new line after a paragraph in a document. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("A4");
@@ -67,13 +67,13 @@ Adds a paragraph. You can use this method to create a block of paragraphs with a
 
 |Name|Type|Description|
 |----|----|-----------|
-|paragraph|[Paragraph](ParagraphBothAPI.md#)|Paragraph object.|
+|paragraph|[Paragraph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ParagraphBothAPI.md#)|Paragraph object.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to add a section of paragraphs to a document. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to add a section of paragraphs to a document. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -106,7 +106,7 @@ Adds a string of text to a paragraph. This method does not automatically insert 
 |----|-----------|
 |None| |
 
-The following example shows how to add a new sentence to a paragraph. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to add a new sentence to a paragraph. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -128,13 +128,13 @@ Applies a predefined style to paragraph text.
 
 |Name|Type|Description|
 |----|----|-----------|
-|style|[Style](../../StyleBoth/concept/StyleBothAPI.md#)|Style to apply to this element.|
+|style|[Style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../StyleBoth/concept/StyleBothAPI.md#)|Style to apply to this element.|
 
 |Type|Description|
 |----|-----------|
 |None| |
 
-The following example shows how to apply a style to a paragraph. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to apply a style to a paragraph. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("LETTER");
@@ -173,7 +173,7 @@ Sets a paragraph element to a fixed position on the page.
 |----|-----------|
 |None| |
 
-The following example shows how to set a fixed position on a page. For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set a fixed position on a page. For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var pageSize = new sn_pdfgeneratorutils.PdfPage("A4");
@@ -203,7 +203,7 @@ document.saveAsAttachment("incident", "<record_sys_id>", "fileName.pdf");
 
 Sets each paragraph margin.
 
-To set all four margins with one or more unique values, use [setMargins\(\)](ParagraphBothAPI.md#).
+To set all four margins with one or more unique values, use [setMargins\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ParagraphBothAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -321,7 +321,7 @@ document.saveAsAttachment("incident", "<record_sys_id>", "docName.pdf");
 
 Sets a size for each paragraph margin.
 
-To set each margin to the same value, use [setMargin\(\)](ParagraphBothAPI.md#).
+To set each margin to the same value, use [setMargin\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ParagraphBothAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -334,7 +334,7 @@ To set each margin to the same value, use [setMargin\(\)](ParagraphBothAPI.md#).
 |----|-----------|
 |None| |
 
-The following example shows how to set paragraph margins.For a document usage example, see [Document](../../DocumentBoth/concept/DocumentBothAPI.md#) API.
+The following example shows how to set paragraph margins.For a document usage example, see [Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DocumentBoth/concept/DocumentBothAPI.md#) API.
 
 ```
 var para = new sn_pdfgeneratorutils.Paragraph("Paragraph text.");

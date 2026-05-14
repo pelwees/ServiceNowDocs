@@ -19,7 +19,7 @@ Integration Hub Remote Process Sync enables you to set up one-way or bidirection
 
 An Integration Hub Remote Process Sync integration lets you span automated workflows for your business process across multiple ServiceNow instances. As a service provider, keep multiple customer instances in sync automatically, using Workflow Studio subflows to automate your process's workflows for all of your customers.
 
-![Keep process flows across multiple instances in sync. For example, automate software request fulfilment among customer and vendor instances.](../images/remote-process-sync-overview.png)
+![Keep process flows across multiple instances in sync. For example, automate software request fulfilment among customer and vendor instances.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/remote-process-sync-overview.png)
 
 ## Benefits
 
@@ -57,11 +57,11 @@ You can use Remote Process Sync to synchronize process flows among multiple doma
 
 ## Getting started
 
-Before deciding to move forward with Remote Process Sync as your integration framework, consider how this framework compares to other multi-instance ServiceNow AI Platform® integrations. While solutions such as [Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md) and the [Remote Instance spoke](../../integrationhub-store-spokes/concept/remote-instance-spoke-1.md) support simple multi-instance integrations, Remote Process Sync supports more complex multi-instance integration use cases, focusing on integrating instances by high-level business processes.
+Before deciding to move forward with Remote Process Sync as your integration framework, consider how this framework compares to other multi-instance ServiceNow AI Platform® integrations. While solutions such as [Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md) and the [Remote Instance spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../../integrationhub-store-spokes/concept/remote-instance-spoke-1.md) support simple multi-instance integrations, Remote Process Sync supports more complex multi-instance integration use cases, focusing on integrating instances by high-level business processes.
 
 **Note:** Remote Process Sync replaces the eBonding spoke for integrating instances.
 
-![Instance Data Replication and the Remote Instance spoke support simple integrations for an entire table or using ServiceNow AI Platform APIs. Remote Process Sync supports more complex multi-instance integrations.](../images/idr-remotespoke-rps-comparison.png "Comparison of Instance Data Replication, Remote Instance spoke, and Remote Process Sync")
+![Instance Data Replication and the Remote Instance spoke support simple integrations for an entire table or using ServiceNow AI Platform APIs. Remote Process Sync supports more complex multi-instance integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/idr-remotespoke-rps-comparison.png "Comparison of Instance Data Replication, Remote Instance spoke, and Remote Process Sync")
 
-When you're ready to start building and managing a Remote Process Sync integration, learn the basics of [Getting started with Remote Process Sync](../reference/getting-started-with-remote-process-sync.md).
+When you're ready to start building and managing a Remote Process Sync integration, learn the basics of [Getting started with Remote Process Sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../reference/getting-started-with-remote-process-sync.md).
 

@@ -39,7 +39,7 @@ Steps
 
 </td><td>
 
-1.  Select the contractor management icon \(![Contractor management icon](../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
+1.  Select the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
 2.  In the **Lists** tab, select **Contractor companies** and then **All**.
 3.  Open the company that the worker belongs to.
 4.  In the **Workers** tab, select the worker from the list to assign a task to.
@@ -51,7 +51,7 @@ Steps
 
 </td><td>
 
-1.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+1.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-risk-management/image/icon-config.png)\).
 2.  In the **Lists** tab, select **Health and safety profiles** and then **All**.
 3.  From the list, select the worker from the list to assign a task to.
 
@@ -61,7 +61,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For information on field descriptions, see [Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../ohs-incident-management/reference/hs-action-form.md).
 
 5.  Select **Save**.
 
@@ -77,6 +77,6 @@ Steps
 -   -   Upload documents​
 -   View prerequisite training material​
 -   Mark the task as complete​
--   When the contract worker completes all prerequisite tasks, the contractor coordinator can grant them access to the site. For more information, see [Grant site access to a contractor worker](hs-grant-site-access-worker.md).
--   If there are any documents submitted by the contractor worker, the contractor coordinator can upload them to the worker's or contractor company's **Document** tab. For more information, see [Add a document to a contractor worker](hs-add-document-contractor-worker.md).
+-   When the contract worker completes all prerequisite tasks, the contractor coordinator can grant them access to the site. For more information, see [Grant site access to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-grant-site-access-worker.md).
+-   If there are any documents submitted by the contractor worker, the contractor coordinator can upload them to the worker's or contractor company's **Document** tab. For more information, see [Add a document to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-document-contractor-worker.md).
 

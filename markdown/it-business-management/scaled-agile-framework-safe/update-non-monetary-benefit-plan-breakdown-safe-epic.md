@@ -25,7 +25,7 @@ Role required: safe\_product\_owner, safe\_scrum\_master, or safe\_admin
 
 2.  Open the required epic.
 
-3.  Click the hamburger icon \(![Hamburger icon](../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
+3.  Click the hamburger icon \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
 
 4.  Click the Non-monetary Benefit Plans related list.
 
@@ -51,5 +51,5 @@ Role required: safe\_product\_owner, safe\_scrum\_master, or safe\_admin
 9.  Click **Update**.
 
 
-**Parent Topic:**[Create a non-monetary benefit plan for an epic](create-non-monetary-benefit-plan-safe-epic.md)
+**Parent Topic:**[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-non-monetary-benefit-plan-safe-epic.md)
 

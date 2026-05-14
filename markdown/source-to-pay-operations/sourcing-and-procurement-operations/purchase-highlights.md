@@ -31,5 +31,5 @@ A procurement administrator can use the sn\_shop.spend.sla.due.days purchasing p
 
 Your purchases are also highlighted with colored information banners when approvers request for clarification, or reject your purchase requisitions, purchase orders, or sourcing requests, in whole or in part. The reason for rejection is also displayed.
 
-**Parent Topic:**[My purchases on Shopping Hub](my-purchases.md)
+**Parent Topic:**[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-purchases.md)
 

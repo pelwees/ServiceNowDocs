@@ -70,7 +70,7 @@ The evidence type associated with the evidence. The base system provides the fol
 -   Screenshots
 -   SMS
 -   Video
- For more information, see [Create evidence types](../concept/hr-er-evidence-mgmt.md#).
+ For more information, see [Create evidence types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-evidence-mgmt.md#).
 
 </td></tr><tr><td>
 
@@ -86,9 +86,9 @@ Submitted by involved party
 
 </td><td>
 
-Name of the person who submitted the evidence.Select the **Lookup using list** icon ![Lookup using list icon](../image/magnifying-glass.png) and search for the person that submitted the evidence.
+Name of the person who submitted the evidence.Select the **Lookup using list** icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png) and search for the person that submitted the evidence.
 
- If no names appear, you can select **New** and create an involved party. For more information, see [Create an involved parties record](hr-er-involved-parties.md).
+ If no names appear, you can select **New** and create an involved party. For more information, see [Create an involved parties record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-involved-parties.md).
 
 </td></tr><tr><td>
 
@@ -96,9 +96,9 @@ Involved parties
 
 </td><td>
 
-Any person involved with the evidence provided in the ER case.Select the **Unlock involved parties** icon \(![Unlock involved parties icon](../image/icon-hr-unlock-add-parties.png)\) and search for people you want to include as involved parties.
+Any person involved with the evidence provided in the ER case.Select the **Unlock involved parties** icon \(![Unlock involved parties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/icon-hr-unlock-add-parties.png)\) and search for people you want to include as involved parties.
 
- If no names appear, you can select **New** and create an involved party. For more information, see [Create an involved parties record](hr-er-involved-parties.md).
+ If no names appear, you can select **New** and create an involved party. For more information, see [Create an involved parties record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-involved-parties.md).
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Parent
 
 </td><td>
 
-The parent case the evidence is related to.To associate a parent case, select the **Lookup documents using list** icon ![Lookup documents using list icon](../image/magnifying-glass.png) and select the table associated with the parent case. The default is the Employee Relations Case \[sn\_hr\_er\_case\] table.
+The parent case the evidence is related to.To associate a parent case, select the **Lookup documents using list** icon ![Lookup documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png) and select the table associated with the parent case. The default is the Employee Relations Case \[sn\_hr\_er\_case\] table.
 
  Select the table and the associated case that is the parent case.
 
@@ -126,7 +126,7 @@ Evidence source type
 
 </td><td>
 
-Indicates if the evidence is an attachment or a URL.Select one. If the evidence is an attachment, attach the file using the Manage Attachments icon \(![Manage attachments icon](../image/attach-icon.png)\) at the top, right of the form.
+Indicates if the evidence is an attachment or a URL.Select one. If the evidence is an attachment, attach the file using the Manage Attachments icon \(![Manage attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/attach-icon.png)\) at the top, right of the form.
 
  If the evidence is a URL, enter the URL in the URL source field.
 
@@ -136,7 +136,7 @@ URL source
 
 </td><td>
 
-Select the Edit this URL icon \(![Edit this URL icon](../image/icon-hr-unlock-add-parties.png)\) and enter the URL.This field displays only when you select **URL** from the Evidence source type field.
+Select the Edit this URL icon \(![Edit this URL icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/icon-hr-unlock-add-parties.png)\) and enter the URL.This field displays only when you select **URL** from the Evidence source type field.
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Interview
 
 The associated interview number. If you came from the interview record, the number automatically displays.
 
- For more information, see [Interview Management for Employee Relations](../concept/hr-er-interview-1.md#).
+ For more information, see [Interview Management for Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-interview-1.md#).
 
 </td></tr><tr><td>
 

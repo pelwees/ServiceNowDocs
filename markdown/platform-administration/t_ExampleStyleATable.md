@@ -21,9 +21,9 @@ Role required: admin
 
 In this task, you create and format a table in either htmlArea or TinyMCE v6.8.3. The resulting tables should look similar to one of the following images.
 
-![Table example html](../image/TableExampleHTML.png "Table example in htmlArea")
+![Table example html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TableExampleHTML.png "Table example in htmlArea")
 
-![TinyMCE v6.8.3 Table example](../image/TinyMCEV6-table-example.png "Table example in TinyMCE v6.8.3")
+![TinyMCE v6.8.3 Table example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-table-example.png "Table example in TinyMCE v6.8.3")
 
 If you enter alternative values for aspects such as width, cell spacing, cell padding, border, and alignment, the resulting table varies from the examples given.
 

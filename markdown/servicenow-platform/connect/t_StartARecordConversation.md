@@ -74,7 +74,7 @@ In the form header, click **Follow**.
 
     Any comments or work notes added to the record appear in the record conversation. Likewise, comments and work notes you add to the conversation appear on the record.
 
-    1.  In the record conversation, by the text entry field, click the message type icon \(![Message type icon](../image/IconMessageType.png)\).
+    1.  In the record conversation, by the text entry field, click the message type icon \(![Message type icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMessageType.png)\).
 
     2.  Select **Comment** or **Work Note**.
 
@@ -87,10 +87,10 @@ In the form header, click **Follow**.
 
 ## What to do next
 
-[Edit your notification settings](t_EditNotifRecAConv.md) for the record conversation.
+[Edit your notification settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_EditNotifRecAConv.md) for the record conversation.
 
 **Related topics**  
 
 
-[Live Feed Core UI](../../live-feed/concept/c_GetStartedWithLiveFeed.md)
+[Live Feed Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/concept/c_GetStartedWithLiveFeed.md)
 

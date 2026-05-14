@@ -74,10 +74,10 @@ URL of the searched text query.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[View knowledge logs](view-knowledge-logs.md)
+**Parent Topic:**[View knowledge logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-knowledge-logs.md)
 
 **Related topics**  
 
 
-[View knowledge logs](view-knowledge-logs.md)
+[View knowledge logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-knowledge-logs.md)
 

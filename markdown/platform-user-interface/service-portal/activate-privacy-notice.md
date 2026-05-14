@@ -29,7 +29,7 @@ Role required: sp\_admin
 
     You can modify the default text of the **Summary** field or leave it as-is.
 
-    ![The Privacy Notice form, including the default text of the notice.](../image/privacy-notice-announcement.png "Privacy Notice announcement form")
+    ![The Privacy Notice form, including the default text of the notice.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/privacy-notice-announcement.png "Privacy Notice announcement form")
 
     By default, the **Unauthenticated only** option is selected to display the announcement only to users who haven't logged in to the portal. The announcement disappears after the user logs in.
 
@@ -37,7 +37,7 @@ Role required: sp\_admin
 
     If no portals are available, select **Insert a new row** and specify a portal.
 
-    ![Portals section in the Announcement form.](../image/portal-section-privacy-announcement.png "Portals section")
+    ![Portals section in the Announcement form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/portal-section-privacy-announcement.png "Portals section")
 
     **Note:** The Privacy Notice announcement appears only in portals for which have Usage Insights settings.
 
@@ -52,10 +52,10 @@ The Privacy Notice announcement is displayed to unauthenticated portal users.
 
 
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sp-analytics.md)
 
 **Related topics**  
 
 
-[Create an announcement](create-announcement.md)
+[Create an announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md)
 

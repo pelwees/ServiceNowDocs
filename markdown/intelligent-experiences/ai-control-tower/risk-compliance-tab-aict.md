@@ -79,7 +79,7 @@ You need to install GRC: Regulatory Change Management application to see this se
 
 The following image shows the Risk and compliance dashboard.
 
-![The dashboard monitors and manages the risk and compliance posture of the AI assets in your organization.](../image/riask-and-compliance-dashboard-aict.png "Risk and compliance dashboard")
+![The dashboard monitors and manages the risk and compliance posture of the AI assets in your organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/riask-and-compliance-dashboard-aict.png "Risk and compliance dashboard")
 
 For more information, see [AI Risk and Compliance documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md).
 

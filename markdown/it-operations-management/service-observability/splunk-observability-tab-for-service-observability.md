@@ -58,5 +58,5 @@ These dashboards display metrics for databases related to the service.
 |Threads|Number of threads used by this service|Splunk|
 |Uptime|Amount of time in \(?\) that the database has been running since its last restart.|CMDB|
 
-**Parent Topic:**[Splunk Observability templates for Service Observability](splunk-templates.md)
+**Parent Topic:**[Splunk Observability templates for Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/splunk-templates.md)
 

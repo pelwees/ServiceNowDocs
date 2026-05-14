@@ -85,15 +85,15 @@ Description for your video.
 </td></tr></tbody>
 </table>3.  Click **Post**.
 
-4.  If you have permission to edit or delete the video, click a video, click the corresponding ![More Options](../images/moreoptions-icon.png) icon, and then click **Edit** or **Delete**.
+4.  If you have permission to edit or delete the video, click a video, click the corresponding ![More Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/moreoptions-icon.png) icon, and then click **Edit** or **Delete**.
 
     Once a video is uploaded, other community users can comment on it, give feedback, subscribe to the video, bookmark it, and report any inappropriate content in the video.
 
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 
 **Related topics**  
 
 
-[Disable comments](disable-comments.md)
+[Disable comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 

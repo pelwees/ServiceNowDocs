@@ -27,5 +27,5 @@ Life cycle management is supported for the following tables:
 -   Detailed Network \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_subnetwork\]
 -   Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\]
 
-**Parent Topic:**[Service Graph Connector for Infoblox reference](sgc-cmdb-infoblox-reference.md)
+**Parent Topic:**[Service Graph Connector for Infoblox reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-infoblox-reference.md)
 

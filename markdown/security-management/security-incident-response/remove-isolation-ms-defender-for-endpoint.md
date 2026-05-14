@@ -33,7 +33,7 @@ Role required: sn\_si.admin or sn\_si.analyst
 
 4.  Browse and select a profile with **Remove Isolation capability** selected from the list of available profiles, and click **Submit**.
 
-    ![Remove Isolation capability in Microsoft Defender for Endpoint](../image/remove_isolation.png "Remove Isolation")
+    ![Remove Isolation capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/remove_isolation.png "Remove Isolation")
 
     Alternatively, you can perform the following steps:
 
@@ -47,20 +47,20 @@ Role required: sn\_si.admin or sn\_si.analyst
 7.  Validate the automation activities of the execution.
 
 
-**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](../concept/additional-configurations-in-defender.md)
+**Parent Topic:**[Additional Configurations in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/additional-configurations-in-defender.md)
 
 **Related topics**  
 
 
-[Configure Isolate Host capability in Microsoft Defender for Endpoint](isolate-host-ms-defender-for-endpoint.md)
+[Configure Isolate Host capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/isolate-host-ms-defender-for-endpoint.md)
 
-[Configure Run Antivirus Scan capability in Microsoft Defender for Endpoint](run-antivirus-scan-capability-ms-defender.md)
+[Configure Run Antivirus Scan capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/run-antivirus-scan-capability-ms-defender.md)
 
-[Configure Restrict App Execution capability in Microsoft Defender for Endpoint](restrict-app-execution-capability-ms-defender.md)
+[Configure Restrict App Execution capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/restrict-app-execution-capability-ms-defender.md)
 
-[Configure Remove App Restriction capability in Microsoft Defender for Endpoint](remove-app-restriction-capability-ms-defender.md)
+[Configure Remove App Restriction capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/remove-app-restriction-capability-ms-defender.md)
 
-[Configure Get Related Machines from Defender Capability in Microsoft Defender for Endpoint](get-related-machines-defender-capability-ms-defender.md)
+[Configure Get Related Machines from Defender Capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-related-machines-defender-capability-ms-defender.md)
 
-[Configure Stop and Quarantine File capability in Microsoft Defender for Endpoint](stop-and-quarantine-file-capability.md)
+[Configure Stop and Quarantine File capability in Microsoft Defender for Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/stop-and-quarantine-file-capability.md)
 

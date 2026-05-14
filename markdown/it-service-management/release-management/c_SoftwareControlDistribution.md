@@ -22,5 +22,5 @@ The DML table \[dsl\] consists of a physical store and a logical store.
 
 Both physically and logically stored software are represented as records on the DML table \[dsl\].
 
-**Parent Topic:**[Release Management](c_ITILReleaseManagement.md)
+**Parent Topic:**[Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 

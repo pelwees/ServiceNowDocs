@@ -22,7 +22,7 @@ The syntax editor has these features.
 -   Auto-suggestions for HTML and Jelly tags
 -   Script macros for common code shortcuts
 
-![Syntax editor for HTML and Jelly scripts.](../image/HTMLSyntaxEditor.png "HTML syntax editor")
+![Syntax editor for HTML and Jelly scripts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/HTMLSyntaxEditor.png "HTML syntax editor")
 
 <table id="table_cwn_f3t_3hb"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Toggle syntax editor icon](../image/toggle-syntax-editor.png)
+![Toggle syntax editor icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/toggle-syntax-editor.png)
 
 </td><td>
 
@@ -54,11 +54,11 @@ Toggle syntax editor
 
 </td><td>
 
-Disables the syntax editor. Click the Toggle syntax editor icon \(![Toggle syntax editor icon](../image/toggle-syntax-editor.png)\) again to enable the syntax editor.
+Disables the syntax editor. Click the Toggle syntax editor icon \(![Toggle syntax editor icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/toggle-syntax-editor.png)\) again to enable the syntax editor.
 
 </td></tr><tr><td>
 
-![Toggle comment icon](../image/toggle-comment.png)
+![Toggle comment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/toggle-comment.png)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Comments the selected code.
 
 </td></tr><tr><td>
 
-![Replace icon](../image/replace-html-syn-editor.png)
+![Replace icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/replace-html-syn-editor.png)
 
 </td><td>
 
@@ -86,12 +86,12 @@ Replace
 
 </td><td>
 
-Replaces the next occurrence of a text string in the script field.1.  Click the Replace icon \(![Replace icon](../image/replace-html-syn-editor.png)\), then enter the string to replace, and press Enter. You can use regular expressions enclosed in slashes to define the string to replace. For example, the term `/a{3}/` locates `aaa`.
+Replaces the next occurrence of a text string in the script field.1.  Click the Replace icon \(![Replace icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/replace-html-syn-editor.png)\), then enter the string to replace, and press Enter. You can use regular expressions enclosed in slashes to define the string to replace. For example, the term `/a{3}/` locates `aaa`.
 2.  Enter the replacement string and press Enter.
 
 </td></tr><tr><td>
 
-![Replace all icon](../image/replace-all.png)
+![Replace all icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/replace-all.png)
 
 </td><td>
 
@@ -103,12 +103,12 @@ Replace All
 
 </td><td>
 
-Replaces all occurrences of a text string in the script field.1.  Click the Replace all icon \(![Replace all icon](../image/replace-all.png)\), then enter the string to replace and press Enter. You can use regular expressions enclosed in slashes to define the string to replace. For example, the term `/a{3}/` locates `aaa`.
+Replaces all occurrences of a text string in the script field.1.  Click the Replace all icon \(![Replace all icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/replace-all.png)\), then enter the string to replace and press Enter. You can use regular expressions enclosed in slashes to define the string to replace. For example, the term `/a{3}/` locates `aaa`.
 2.  Enter the replacement string and press Enter.
 
 </td></tr><tr><td>
 
-![Start searching icon](../image/start-searching.png)
+![Start searching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/start-searching.png)
 
 </td><td>
 
@@ -120,11 +120,11 @@ Start Searching
 
 </td><td>
 
-Highlights all occurrences of a search term in the script field and locates the first occurrence. Click the Start searching icon \(![Start searching icon](../image/start-searching.png)\), then enter the search term and press Enter.
+Highlights all occurrences of a search term in the script field and locates the first occurrence. Click the Start searching icon \(![Start searching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/start-searching.png)\), then enter the search term and press Enter.
 
 </td></tr><tr><td>
 
-![Find next icon](../image/find-next.png)
+![Find next icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/find-next.png)
 
 </td><td>
 
@@ -136,11 +136,11 @@ Find Next
 
 </td><td>
 
-Locates the next occurrence of the current search term in the script field. Click the Start searching icon \(![Start searching icon](../image/start-searching.png)\) to change the current search term.
+Locates the next occurrence of the current search term in the script field. Click the Start searching icon \(![Start searching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/start-searching.png)\) to change the current search term.
 
 </td></tr><tr><td>
 
-![Find previous icon](../image/find-previous.png)
+![Find previous icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/find-previous.png)
 
 </td><td>
 
@@ -152,11 +152,11 @@ Find Previous
 
 </td><td>
 
-Locates the previous occurrence of the current search term in the script field. Click the Start searching icon \(![Start searching icon](../image/start-searching.png)\) to change the current search term.
+Locates the previous occurrence of the current search term in the script field. Click the Start searching icon \(![Start searching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/start-searching.png)\) to change the current search term.
 
 </td></tr><tr><td>
 
-![Toggle full screen icon](../image/toggle-full-screen.png)
+![Toggle full screen icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/toggle-full-screen.png)
 
 </td><td>
 
@@ -168,11 +168,11 @@ Toggle Full Screen
 
 </td><td>
 
-Expands the script field to use the full form view for easier editing. Click the Toggle full screen icon \(![Toggle full screen icon](../image/toggle-full-screen.png)\) again to return to standard form view. This feature is not available for Internet Explorer.
+Expands the script field to use the full form view for easier editing. Click the Toggle full screen icon \(![Toggle full screen icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/toggle-full-screen.png)\) again to return to standard form view. This feature is not available for Internet Explorer.
 
 </td></tr><tr><td>
 
-![Help icon](../image/help-html-syn-editor.png)
+![Help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/help-html-syn-editor.png)
 
 </td><td>
 
@@ -188,7 +188,7 @@ Displays the keyboard shortcuts help screen.
 
 </td></tr><tr><td>
 
-![Save icon](../image/save.png)
+![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/save.png)
 
 </td><td>
 
@@ -200,7 +200,7 @@ Save
 
 </td><td>
 
-Saves changes without leaving the current view. Click the Save icon \(![Save icon](../image/save.png)\) in full screen mode to save without returning to standard form view.
+Saves changes without leaving the current view. Click the Save icon \(![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/save.png)\) in full screen mode to save without returning to standard form view.
 
 </td></tr></tbody>
 </table>## Editing tips
@@ -210,5 +210,5 @@ Saves changes without leaving the current view. Click the Save icon \(![Save ico
 -   To indent one or more lines of code, select the code and then press Tab. To decrease the indentation, press Shift+Tab.
 -   To remove one tab from the start of a line of code, click in the line and press Shift+Tab.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../topic/c_Script.md)
 

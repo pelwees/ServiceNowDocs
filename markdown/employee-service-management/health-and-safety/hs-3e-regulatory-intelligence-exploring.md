@@ -29,5 +29,5 @@ With 3E Regulatory Intelligence you can obtain the following benefits:
 -   Monitor regulatory conformance status at the substance, chemical, and chemical group level.
 -   Reduce manual effort in sourcing and maintaining regulatory data for hazardous chemicals.
 
-**Parent Topic:**[3E Regulatory Intelligence](hs-3e-regulatory-intelligence.md)
+**Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-regulatory-intelligence.md)
 

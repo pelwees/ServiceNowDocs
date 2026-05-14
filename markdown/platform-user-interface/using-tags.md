@@ -15,7 +15,7 @@ Use tags to filter records and view tagged documents. Remove a tag when it is no
 
 **Note:** Conditions that use the **Tags** field are not supported in reports or data visualizations based on database views.
 
-**Parent Topic:**[Tags](c_Tags.md)
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Filter records by tag
 
@@ -35,7 +35,7 @@ Role required: none
 
 </td><td>
 
-Select the more options icon \(![More options icon.](../../using-forms/image/IconUI16MoreOptions.png)\), and then select the tag in the menu that opens. A new tab or window opens and displays a list of records that contain the tag.
+Select the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-forms/image/IconUI16MoreOptions.png)\), and then select the tag in the menu that opens. A new tab or window opens and displays a list of records that contain the tag.
 
 </td></tr><tr><td id="d59855e131">
 
@@ -51,7 +51,7 @@ With the **Tags** column visible, select the tag name. Selecting two or more tag
 
 </td><td>
 
-Select the show/hide filter icon \(![Show or hide a filter.](../../using-lists/image/Icon-Condition_builder_UI15.png)\), select **Tags** from the field list and enter the tag name.
+Select the show/hide filter icon \(![Show or hide a filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists/image/Icon-Condition_builder_UI15.png)\), select **Tags** from the field list and enter the tag name.
 
 </td></tr></tbody>
 </table>
@@ -65,7 +65,7 @@ Role required: none
 
 ### About this task
 
-An administrator can configure the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [Create and delete views](../../../administer/navigation-and-ui/task/create-delete-view.md).
+An administrator can configure the fields that appear on the tagged document cards by configuring the mobile view of the task, for example, the mobile view of the Incident form. If there isn’t a mobile view available for the page, the record reverts to the default view. For more information, see [Create and delete views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/create-delete-view.md).
 
 ### Procedure
 
@@ -145,7 +145,7 @@ Select the check box for one or more records, then select **Actions on selected 
 
 </td><td>
 
-Select the more options icon \(![More options icon.](../../using-forms/image/IconUI16MoreOptions.png)\) in the form header, then select the remove tag icon \(**x**\).
+Select the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-forms/image/IconUI16MoreOptions.png)\) in the form header, then select the remove tag icon \(**x**\).
 
 </td></tr><tr><td id="d59855e410">
 
@@ -156,6 +156,6 @@ Select the more options icon \(![More options icon.](../../using-forms/image/Ico
 Select the removed tag icon \(**x**\) in the corner of the document preview.
 
 </td></tr></tbody>
-</table>    If a tag is automatically applied to a record based on specific conditions, the tag is automatically removed when those conditions no longer apply. For more information, see [Administering tags](administering-tags.md#).
+</table>    If a tag is automatically applied to a record based on specific conditions, the tag is automatically removed when those conditions no longer apply. For more information, see [Administering tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/administering-tags.md#).
 
 

@@ -27,29 +27,29 @@ When you create a cable model, it creates the model record in the Cable Model \[
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Cable Models**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Cable Models**.
 
 3.  Select **New**.
 
 4.  On the **Details** tab, fill in the fields.
 
-    **Note:** To learn more about the fields, see [Cable model form](../reference/cable-model-form.md).
+    **Note:** To learn more about the fields, see [Cable model form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/cable-model-form.md).
 
-5.  Add the attachments, such as graphics or documents by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+5.  Add the attachments, such as graphics or documents by selecting the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 6.  Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](../reference/additional-tabs-of-inventory-models.md).
+    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/additional-tabs-of-inventory-models.md).
 
 
 ## What to do next
 
-To delete a model, select the options icon \(![Options icon.](../image/options-icon.png)\) next to the **Save** button, and select **Delete**.
+To delete a model, select the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) next to the **Save** button, and select **Delete**.
 
-**Parent Topic:**[Create inventory models](../concept/creating-your-inventory-models.md)
+**Parent Topic:**[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-your-inventory-models.md)
 
 **Related topics**  
 
 
-[Network inventory models](../concept/using-inventory-models-tni.md)
+[Network inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-inventory-models-tni.md)
 

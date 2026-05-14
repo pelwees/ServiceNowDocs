@@ -41,5 +41,5 @@ Roles required: sn\_grc.admin
 4.  To save the entity tier, click **Save**.
 
 
-**Parent Topic:**[Entity tiers](../concept/entity-tier-in-risk-ws.md)
+**Parent Topic:**[Entity tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/entity-tier-in-risk-ws.md)
 

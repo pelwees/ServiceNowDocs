@@ -25,9 +25,9 @@ Role required: sn\_lg\_ops.legal\_config
 
 2.  Select a legal request to customize Activity stream for.
 
-3.  Select the activity stream icon ![Activity stream icon](../../../common/image/List_ActivityStreamIcon.png).
+3.  Select the activity stream icon ![Activity stream icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../../common/image/List_ActivityStreamIcon.png).
 
-4.  Select the filter activity icon ![Filter activity icon](../../customer-service-management/image/playbook-filter.png).
+4.  Select the filter activity icon ![Filter activity icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../customer-service-management/image/playbook-filter.png).
 
 5.  Select **Configure available fields**.
 
@@ -40,5 +40,5 @@ Role required: sn\_lg\_ops.legal\_config
 9.  Select **Update** to save the changes to the legal request form.
 
 
-**Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](lsd-PI-configure-landing.md)
+**Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
 

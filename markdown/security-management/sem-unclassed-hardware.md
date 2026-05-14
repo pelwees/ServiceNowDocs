@@ -69,10 +69,10 @@ The following extracts show the IRE payload for creating CI in Unclassed Hardwar
 
 In this scenario, the existing Unclassed Hardware CI is not reclassified as a Windows Server. Instead, a new CI is created under Windows Server. This is because the identification rule depends on the Hardware CI’s name. As you can see from the payloads, the name received from Unified Security Exposure Management matches the FQDN/NETBIOS, whereas the Discovery payload provides only the host name.
 
-**Parent Topic:**[Associating finding with a configuration item using lookup rules](sem-associate-finding-configuration-item-using-lookup-rules.md)
+**Parent Topic:**[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 
 **Related topics**  
 
 
-[Reclassify unclassed hardware](../../security-exposure-management-remediation/task/sem-reclassify-unclassed-hardware.md)
+[Reclassify unclassed hardware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-remediation/task/sem-reclassify-unclassed-hardware.md)
 

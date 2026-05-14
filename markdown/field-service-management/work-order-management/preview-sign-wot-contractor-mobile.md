@@ -43,7 +43,7 @@ When a work order is closed, you are notified with a link to the work order. Ope
     -   To sign your name, click **Draw signature**.
 7.  Tap **Preview Work Summary** to review the task details and generate a signed PDF summary.
 
-    The PDF summary captures the details of the task along with the responses submitted in the smart assessment questionnaire and the score. You can view the PDF summary in the activity stream. For more information, see [Enable PDF summaries at work order task level](enable-pdf-summary.md).
+    The PDF summary captures the details of the task along with the responses submitted in the smart assessment questionnaire and the score. You can view the PDF summary in the activity stream. For more information, see [Enable PDF summaries at work order task level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/enable-pdf-summary.md).
 
 8.  Click **Accept and Confirm**.
 

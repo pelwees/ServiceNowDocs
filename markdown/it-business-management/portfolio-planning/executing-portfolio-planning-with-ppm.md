@@ -17,7 +17,7 @@ Facilitate execution of the work planned in Portfolio Planning in ServiceNow Pro
 
 Import, export, and manage your planning items between Portfolio Planning and PPM.
 
-![Real-time sync of planning items between Portfolio Planning and PPM.](../../apw-internal-integrations/images/planning-items.png "Integrating Portfolio Planning and PPM")
+![Real-time sync of planning items between Portfolio Planning and PPM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../apw-internal-integrations/images/planning-items.png "Integrating Portfolio Planning and PPM")
 
 ## Key benefits of Portfolio Planning with PPM
 
@@ -27,7 +27,7 @@ Import, export, and manage your planning items between Portfolio Planning and PP
 -   Synchronize updates for linked planning items of Portfolio Planning with PPM.
 -   Track the progress of the linked planning items in Portfolio Planning.
 
-To get started on integrating Portfolio Planning with PPM, see [Configuring Portfolio Planning with PPM](configuring-portfolio-planning-with-ppm.md).
+To get started on integrating Portfolio Planning with PPM, see [Configuring Portfolio Planning with PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-portfolio-planning-with-ppm.md).
 
 ## Frequently asked questions about execution integration
 

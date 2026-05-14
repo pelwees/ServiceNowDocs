@@ -29,7 +29,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
 2.  Alternatively, in the legacy UI \(UI16\), locate a security incident on the Security Incidents \[sn\_si\_incident\] table and open it.
 
-3.  Select the Now Assist icon \(![AI Sparkle icon.](../../../common/image/icon-ai-sparkle.png)\) in the top header to open the Now Assist panel.
+3.  Select the Now Assist icon \(![AI Sparkle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../../../common/image/icon-ai-sparkle.png)\) in the top header to open the Now Assist panel.
 
 4.  Select **Generate correlation insights**.
 
@@ -42,7 +42,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
     -   **Observables**: Records that are linked by shared observables that suggest potential ongoing attacks or repeated use of malicious infrastructure. Examples might include IP addresses, URLs, or file hashes. You must enter an exact value for an observable, for example, a complete file hash.
     If no matching data exists for any of these filters, none are displayed. You are prompted to add one of these values to the security incident that you are working from, save it, and reset your conversation in the panel and try again.
 
-5.  Reset your conversation by selecting the Now Assist more options menu icon \(![More options menu icon.](../image/now-assist-reset-icon.png)\) in the panel and select **Reset Conversation**.
+5.  Reset your conversation by selecting the Now Assist more options menu icon \(![More options menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/now-assist-reset-icon.png)\) in the panel and select **Reset Conversation**.
 
 6.  Select a filter.
 
@@ -55,7 +55,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
     -   The Affected users filter returns: SIR, INC, and CHG records.
     -   The Configuration filter item returns: SIR, INC, CHG, PRB, and VIT records.
     -   The Observables filter returns SIR records.
-    ![Now Assist panel with returned records for a configuration item for correlation insights.](../image/NAP-C-Insights.png)
+    ![Now Assist panel with returned records for a configuration item for correlation insights.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/NAP-C-Insights.png)
 
 7.  Modify the 30-day limit for the query by following these steps:
 

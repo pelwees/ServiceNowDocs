@@ -95,11 +95,11 @@ The default value is **global**.
 
 5.  Select to open a place.
 
-    The Places panel opens in the edit mode. Notice that **Autocad properties** field is available. For more information, see [Manage places](manage-buildings.md).
+    The Places panel opens in the edit mode. Notice that **Autocad properties** field is available. For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
 6.  Make sure to synchronize your campus after adding a CAD property.
 
-    For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](synchronize-ind-mapping-wsd.md).
+    For more information, see [Synchronize Indoor Mapping with Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/synchronize-ind-mapping-wsd.md).
 
 7.  Navigate to **All** &gt; **Workplace Core** &gt; **Campuses**.
 
@@ -107,7 +107,7 @@ The default value is **global**.
 
 8.  Select a Campus.
 
-9.  Select the personalized list columns icon \(![Personalized list columns icon.](../../workplace-space-mapping/images/gear-icon.png)\) to move the required values from the Collection list to the available list.
+9.  Select the personalized list columns icon \(![Personalized list columns icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../workplace-space-mapping/images/gear-icon.png)\) to move the required values from the Collection list to the available list.
 
 10. Select **OK**.
 

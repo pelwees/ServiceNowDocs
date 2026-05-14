@@ -75,20 +75,20 @@ Steps
 5.  Select **Update**.
 
 
-**Parent Topic:**[Applying templates to projects](../concept/c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplates.md)
 
 **Related topics**  
 
 
-[Add an attachment to a project template](t_AddAnAttachmentToAProjectTemplate.md)
+[Add an attachment to a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AddAnAttachmentToAProjectTemplate.md)
 
-[Apply a template on the Project form](t_ApplyATemplateFromTheProjectForm.md)
+[Apply a template on the Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ApplyATemplateFromTheProjectForm.md)
 
-[Apply template to an existing project](apply-multiple-templates-prj.md)
+[Apply template to an existing project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/apply-multiple-templates-prj.md)
 
-[Apply template to a blank project in project workspace](t_ApplyTempProjWorkbench.md)
+[Apply template to a blank project in project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ApplyTempProjWorkbench.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplateConfiguration.md)
 
-[Applying templates to projects](../concept/c_ProjectTemplates.md)
+[Applying templates to projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplates.md)
 

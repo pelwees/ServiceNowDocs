@@ -47,7 +47,7 @@ Role required: admin
 
 3.  On the form, fill in or update the fields with the desired classification code and title.
 
-    ![edit icm classification codes.](../image/psds-modify-classif-codes.png)
+    ![edit icm classification codes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-modify-classif-codes.png)
 
 4.  Select **Save**.
 

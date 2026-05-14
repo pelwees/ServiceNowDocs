@@ -27,27 +27,27 @@ You can toggle the template bar, which hides or shows it for all forms. The temp
 
 1.  Navigate to a form.
 
-2.  Click the more options icon \(![More options icon](../image/IconUI16MoreOptions.png)\) in the form header.
+2.  Click the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IconUI16MoreOptions.png)\) in the form header.
 
 3.  Select **Toggle Template Bar**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md)
 
-[Create templates for related task records](create-templates-for-related-task-records.md)
+[Create templates for related task records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-templates-for-related-task-records.md)
 
-[Create a template by saving a form](t_SaveAFormAsATemplateInUI16OrUI15.md)
+[Create a template by saving a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_SaveAFormAsATemplateInUI16OrUI15.md)
 
-[Schedule record creation from a template](t_ScheduleATemplate.md)
+[Schedule record creation from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleATemplate.md)
 
-[Create a module for a template](t_CreateAModuleForATemplate.md)
+[Create a module for a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/template-bar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ScriptedTemplates.md)
 

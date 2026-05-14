@@ -17,7 +17,7 @@ In the navigation menu, you can select the Assets and Sensors pages to reveal su
 
 The Console opens to the Home page.
 
-![Home page](../images/homepage.png)
+![Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/homepage.png)
 
 The **Home** page is made up of a left-hand, expandable navigation menu and a main area; that is, the Assets Dashboard. The dashboard is divided into the following sections.
 
@@ -42,17 +42,17 @@ Under these graphs are the **By Brand** and **By Port** graphs. The **By Brand**
 
 The following image shows an example of the data that you can find in the Assets section.
 
-![Assets overview on the Home page dashboard](../../msi-console/image/assets-ot-console.png)
+![Assets overview on the Home page dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/assets-ot-console.png)
 
 ## Assets by Location
 
-The Assets by Location section provides the number of assets according to the available site. The location of an asset is dependent on the Site's IP ranges that you define when creating a site. For more information about creating a site, see [Add a Site](ot-discovery-console-user-guide/task/add-site.md).
+The Assets by Location section provides the number of assets according to the available site. The location of an asset is dependent on the Site's IP ranges that you define when creating a site. For more information about creating a site, see [Add a Site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-user-guide/task/add-site.md).
 
 The **Top Locations** widget ranks each location based on its number of assets. The **New Assets** widget calls out any recently discovered assets by Site. The **Modified Assets** widget calls out recently edited or updated assets by site.
 
 The following image shows an example of the data that you can find on the Assets by Locations section.
 
-![Assets organized by location on the Home page dashboard](../../msi-console/image/assets-by-location.png)
+![Assets organized by location on the Home page dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/assets-by-location.png)
 
 ## Keyswitch / Protection
 
@@ -60,5 +60,5 @@ The Keyswitch / Protection section displays any key switch security or protectio
 
 **Note:** The Keyswitch / Protection section is only available if you have data available in your system.
 
-![Keyswitch and protection data on the Home page dashboard](../../msi-console/image/keyswitch-ot-console.png)
+![Keyswitch and protection data on the Home page dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/keyswitch-ot-console.png)
 

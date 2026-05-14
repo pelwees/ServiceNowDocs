@@ -17,7 +17,7 @@ Generate code from text with AI-powered Now Assist for Code.
 
 ## Before you begin
 
-Learn how to write prompts to generate better code suggestions. For more information, see [General guidelines for code generation](../concept/general-guidelines-code-generation.md).
+Learn how to write prompts to generate better code suggestions. For more information, see [General guidelines for code generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/general-guidelines-code-generation.md).
 
 Role required: now.assist.creator
 
@@ -35,7 +35,7 @@ Role required: now.assist.creator
 
     -   Windows: Ctrl-Enter
     -   Mac: Cmd-Enter
-    **Tip:** Select the Help icon \(![Help icon.](../../general-scripting/image/Help.png)\) to access the list of relevant keyboard shortcuts.
+    **Tip:** Select the Help icon \(![Help icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/image/Help.png)\) to access the list of relevant keyboard shortcuts.
 
 4.  In the **Code with Now Assist** dialog box, enter text that describes the desired goal of the code to generate.
 
@@ -45,16 +45,16 @@ Role required: now.assist.creator
 
     The code suggestion appears highlighted in the script editor.
 
-    ![Code with Now Assist dialog box with the text "Validate emails using regex" and a code suggestion in the script editor.](../image/now-assist-code-dialog.png)
+    ![Code with Now Assist dialog box with the text "Validate emails using regex" and a code suggestion in the script editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-dialog.png)
 
 6.  Review the code suggestion and complete one of the following steps:
 
     -   To include it in your script and make any edits, select **Accept**.
-    -   To regenerate a suggestion, revise the text in the dialog box and select the arrow icon \(![Arrow icon.](../image/now-assist-code-arrow.png)\).
+    -   To regenerate a suggestion, revise the text in the dialog box and select the arrow icon \(![Arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-arrow.png)\).
     -   To remove it from the script, select **Reject**.
     When you accept a code suggestion, a line next to the line numbers indicates which code was created by AI and hasn't been edited. If you edit AI-generated code, the line indicator doesn’t appear for those lines of code.
 
-    ![Line indicating which lines of code are AI-generated.](../image/now-assist-code-indicator-modal.png)
+    ![Line indicating which lines of code are AI-generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-indicator-modal.png)
 
     If the code suggestion doesn’t meet your requirements, try rephrasing your prompt according to the prompt guidance and generating another code suggestion.
 

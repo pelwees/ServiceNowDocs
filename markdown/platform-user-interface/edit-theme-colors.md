@@ -28,17 +28,17 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  Under the **Global styles** tab, select the Color palette icon ![](../image/tb-color-palette-icon.png) to access the color options.
 
-    ![Global styles tab with Color panel selected.](../image/tb-color-palette-tab.png "Global styles panel with Color tab selected") ![]( "Global styles panel with Color tab selected")
+    ![Global styles tab with Color panel selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-palette-tab.png "Global styles panel with Color tab selected") ![]( "Global styles panel with Color tab selected")
 
     1.  Update your brand colors by selecting either Primary, Secondary, or Neutral, then use the color picker to select another color.
 
@@ -50,12 +50,12 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
         **Note:** After you have saved changes to any of the color hooks, a Remove override symbol appears. Select the Remove override symbol to revert your changes back to the original auto-generated colors.
 
-        ![Remove override symbol.](../image/tb-color-undo.png)
+        ![Remove override symbol.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-undo.png)
 
 
 ## Result
 
-If your theme is published, your edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)
 

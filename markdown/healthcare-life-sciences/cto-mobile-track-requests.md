@@ -19,7 +19,7 @@ Role required: Team member, Team manager
 
 ## About this task
 
-![Track a request in Care Team Mobile.](../image/hcls-cto-mobile-track-requests.png)
+![Track a request in Care Team Mobile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-cto-mobile-track-requests.png)
 
 ## Procedure
 

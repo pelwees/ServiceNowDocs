@@ -41,7 +41,7 @@ Role required: sn\_lg\_matter.matter\_config
 
 ## What to do next
 
-[Create task templates](create-task-template-for-matter-phase-template.md) within a phase template.
+[Create task templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-task-template-for-matter-phase-template.md) within a phase template.
 
-**Parent Topic:**[Create a legal matter template](create-legal-matter-template.md)
+**Parent Topic:**[Create a legal matter template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-legal-matter-template.md)
 

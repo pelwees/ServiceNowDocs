@@ -32,7 +32,7 @@ Role required: \(per product\)
     |Field|Description|
     |-----|-----------|
     |Tabs|
-    |Details tab|Information on the entity. See [Create an entity](create-entity.md) for more information.|
+    |Details tab|Information on the entity. See [Create an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-entity.md) for more information.|
     |Related lists|
     |Entities|Details of the entity, the condition for the entity if it was created manually, and the compliance score as a percentage.|
     |Entity Filters|Details of the entity filter type, table for the entity, filter condition of the entity filter, use owner field, and the owner field.|
@@ -54,5 +54,5 @@ Role required: \(per product\)
 7.  To visually explore the relationship between the upstream entities, downstream entities, entity class, and entity type that is associated with the entity, click **360° view**.
 
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/entities-in-esg.md)
 

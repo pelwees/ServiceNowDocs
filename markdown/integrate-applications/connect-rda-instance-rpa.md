@@ -15,7 +15,7 @@ Connect to an RPA Hub instance in three ways by using the Connection Manager so 
 
 ## Before you begin
 
-Establish a connection between the Attended Robot and ServiceNow RPA Hub instance. For more information, see [Set up Attended Robot](set-up-rda-runtime.md).
+Establish a connection between the Attended Robot and ServiceNow RPA Hub instance. For more information, see [Set up Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rda-runtime.md).
 
 Role required: none
 

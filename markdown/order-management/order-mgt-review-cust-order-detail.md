@@ -19,7 +19,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order-fulfillme
 
 ## About this task
 
-You can only cancel orders that are in the In progress state. You can delete orders or order line items from orders that are in Draft or New states. To learn more, see [Delete orders](delete-orders.md).
+You can only cancel orders that are in the In progress state. You can delete orders or order line items from orders that are in Draft or New states. To learn more, see [Delete orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/delete-orders.md).
 
 ## Procedure
 
@@ -46,7 +46,7 @@ You can only cancel orders that are in the In progress state. You can delete ord
 
 ## What to do next
 
-A designated manager must approve the order cancellation. To learn more, see [Review and approve order revisions or cancellation requests](review-and-approve-or-decline-order-cancellation-requests.md).
+A designated manager must approve the order cancellation. To learn more, see [Review and approve order revisions or cancellation requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/review-and-approve-or-decline-order-cancellation-requests.md).
 
-**Parent Topic:**[Managing inflight order changes and cancellation requests](../concept/inflight-order-change-mgt-overview.md)
+**Parent Topic:**[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/inflight-order-change-mgt-overview.md)
 

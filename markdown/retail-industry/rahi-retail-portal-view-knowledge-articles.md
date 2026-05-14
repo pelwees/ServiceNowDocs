@@ -23,7 +23,7 @@ Role required: Store associate, Store manager, Regional manager
 
 2.  Find and select the knowledge article that you want to review.
 
-    -   In the **Search Knowledge** field, enter the keywords to search for an article and select the Search icon \(![search icon.](../image/search_icon.png)\).
+    -   In the **Search Knowledge** field, enter the keywords to search for an article and select the Search icon \(![search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../image/search_icon.png)\).
     -   Select an article from the **Top Rated Articles** or **Most Viewed Articles** lists.
     -   From the Categories list, filter the articles by selecting a category.
 

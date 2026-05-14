@@ -119,5 +119,5 @@ Preserves the last 90 days of in-progress update sets in the global application 
 The default isn’t to preserve update sets.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Instance Clone reference](instance-clone-reference.md)
+</table>**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 

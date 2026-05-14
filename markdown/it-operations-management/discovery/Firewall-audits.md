@@ -15,5 +15,5 @@ breadcrumb: [Configuring Firewall Audits and Reporting, Firewall Audits and Repo
 
 Firewall Audits and Reporting provides a flexible auditing framework to track your firewall policy ownership and the necessity of a firewall policy. You can trigger a random audit to measure your security hygiene on the firewall policy and ownership, as well as perform proactive audits on a regular basis.
 
-![Firewall audit workflow.](../image/firewall_audit_request.png "Firewall audit request workflow")
+![Firewall audit workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/firewall_audit_request.png "Firewall audit request workflow")
 

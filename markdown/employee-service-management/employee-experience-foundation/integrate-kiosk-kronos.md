@@ -43,8 +43,8 @@ If you don't plan to activate the HR Service Delivery with Ultimate Kronos Group
             For more information on creating requests, see [Create request as manager using the catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/kronos-serv-cat.md).
 
 
--   **[Receive employee data from UKG to the Employee Center Pro Kiosk](user-map-kronos-kiosk.md)**  
+-   **[Receive employee data from UKG to the Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/user-map-kronos-kiosk.md)**  
 Map the employee IDs between the UKG system and the Employee Center Pro Kiosk to see employee details in your organizational kiosks.
 
-**Parent Topic:**[Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md)
+**Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/deskless-kiosk-overview.md)
 

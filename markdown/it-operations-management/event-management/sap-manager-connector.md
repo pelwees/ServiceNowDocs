@@ -25,7 +25,7 @@ After the MID Server processes events, you can perform the following actions in 
 
 The following diagram illustrates the flow of data between SAP and Event Management.
 
-![SAP Manager Connector diagram](../image/sap-manager-connector-diagram.png "SAP Solution Manager connector")
+![SAP Manager Connector diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-manager-connector-diagram.png "SAP Solution Manager connector")
 
 Data moves between SAP and Event Management using both Push and Pull interfaces.
 
@@ -46,21 +46,21 @@ Data moves between SAP and Event Management using both Push and Pull interfaces.
     After Event Management creates alerts, a business rule listens for a change to the alert. If it detects a change, Event Management updates the SAP Solution Manager alerts.
 
 
--   **[Use the SAP Solution Manager Pull connector](../task/sap-pull-connector.md)**  
+-   **[Use the SAP Solution Manager Pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/sap-pull-connector.md)**  
 The SAP Solution Manager Pull connector sends information from Event Management to the SAP Solution Manager. The Pull connector sends responses received from a Push connector in a bi-directional environment.
--   **[Use the SAP Solution Manager Push connector](../task/sap-push-connector.md)**  
+-   **[Use the SAP Solution Manager Push connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/sap-push-connector.md)**  
 The MID Server web service Event Collector enables you to collect alerts sent from the SAP Solution Manager through event stream notification capabilities. The interface runs both a Push and a Pull interface to interact directly with the SAP Solution Manager.
--   **[SAP Solution Manager setup configurations](sap-solman-configurations.md)**  
+-   **[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-solman-configurations.md)**  
 As part of the SAP Solution Manager setup, you must perform several configurations to enable SAP Solution Manager to interact with Event Management.
--   **[SAP Solution Manager transaction codes](../reference/sapsolman-transaction-codes.md)**  
+-   **[SAP Solution Manager transaction codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/sapsolman-transaction-codes.md)**  
 The transaction code abbreviations that you can use in the SAP interface when working with the SAP Solution Manager connector.
 
-**Parent Topic:**[Configure SAP Solution Manager connector](../task/configure-sapsolman-connector.md)
+**Parent Topic:**[Configure SAP Solution Manager connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-sapsolman-connector.md)
 
 **Related topics**  
 
 
-[Event Management Integrations](c_EMEvent.md)
+[Event Management Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMEvent.md)
 
-[Use the SAP Solution Manager Pull connector](../task/sap-pull-connector.md)
+[Use the SAP Solution Manager Pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/sap-pull-connector.md)
 

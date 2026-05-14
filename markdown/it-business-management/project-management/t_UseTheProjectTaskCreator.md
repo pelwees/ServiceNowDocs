@@ -34,5 +34,5 @@ Role required: it\_project\_manager
     The new tasks appear in the **Project Tasks** related list. The application automatically creates a task **Number** and a **Short Description** that starts with **Auto Created Task**, followed by a number when more than one task is created.
 
 
-**Parent Topic:**[Create a project task from a project](t_CreateATaskFromAProject.md)
+**Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 

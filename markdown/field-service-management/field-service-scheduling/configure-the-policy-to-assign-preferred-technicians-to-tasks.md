@@ -33,7 +33,7 @@ Dispatchers have the ability to designate preferred, secondary, or excluded tech
 
 4.  Select **New**.
 
-5.  In the **Optimization Features** field, select the Lookup icon \(![Lookup icon.](../../../common/image/List_SearchIcon.png)\) and add the following objectives and constraints:
+5.  In the **Optimization Features** field, select the Lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../../common/image/List_SearchIcon.png)\) and add the following objectives and constraints:
 
 6.  1.  Maximize preferred agent assignment
 2.  Enable assignments only with preferred or secondary agents

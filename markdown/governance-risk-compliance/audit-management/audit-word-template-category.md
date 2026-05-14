@@ -20,5 +20,5 @@ The table gives a description of the field values for the Word template category
 |Name|Unique name for the Word template category.|
 |Active|Option to make the record active.|
 
-**Parent Topic:**[Configuring ATO artifacts report templates](../../grc-cam/reference/cam-configure-word-based-template.md)
+**Parent Topic:**[Configuring ATO artifacts report templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-cam/reference/cam-configure-word-based-template.md)
 

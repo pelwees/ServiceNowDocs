@@ -22,7 +22,7 @@ The Explore ERP models agentic workflow uses a team of AI agents to answer user 
 
 -   The sn\_erp\_integration.erp\_ai\_user role is required to work with generative AI and agentic AI in Now Assist for ZCC.
 -   You must have the Knowledge Graph plugin installed. For more information, see [Configuring Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/configuring-knowledge-graph.md).
--   Follow the steps in [Now Assist for Zero Copy Connector agentic workflow prerequisites](now-assist-erp-ai-agents-prereqs.md) before using the Explore ERP models agentic workflow.
+-   Follow the steps in [Now Assist for Zero Copy Connector agentic workflow prerequisites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-erp-ai-agents-prereqs.md) before using the Explore ERP models agentic workflow.
 
 ## AI agents used in the Explore ERP models agentic workflow
 
@@ -41,7 +41,7 @@ Users with the sn\_aia\_admin role can access the workflow.
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Explore ERP models**.
 
-    ![Explore ERP models page with information about the workflow and the AI agents in the workflow.](../images/erp-data-product-explorer-workflow-listing.png)
+    ![Explore ERP models page with information about the workflow and the AI agents in the workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-product-explorer-workflow-listing.png)
 
 3.  Review the **Workflow description** and **List of steps**.
 4.  Review the **Add AI agents that can perform these steps** section and select an AI agent name for details. For more information, see [Define key requirements for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-key-requirements.md).
@@ -58,24 +58,24 @@ In this example, use the Explore ERP models agentic workflow to run a specific m
 1.  Select the Now Assist icon \(![](../images/now-assist-sparkle-icon-dark.png)\) from anywhere in your instance to open the Now Assist panel.
 2.  Ask for information in plain language. For example, `I want to run the Order Details model`.
 
-    ![Now Assist panel with question typed in.](../images/erp-data-explorer-workflow7.png)
+    ![Now Assist panel with question typed in.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-explorer-workflow7.png)
 
 3.  Select the **Explore ERP models** option.
 
-    ![Now Assist panel with explore ERP models option highlighted.](../images/erp-data-explorer-workflow8.png)
+    ![Now Assist panel with explore ERP models option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-explorer-workflow8.png)
 
 4.  Select **Go to the ERP Model**.
 
-    ![Now Assist panel with go to the erp model option highlighted.](../images/erp-data-explorer-workflow9.png)
+    ![Now Assist panel with go to the erp model option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-explorer-workflow9.png)
 
 5.  If there are mandatory fields, provide the correct information in the specified format. You have the option to also include additional fields.
 
     Now Assist provides the information you requested.
 
-    ![Now Assist panel with order details listed.](../images/erp-data-explorer-workflow11.png)
+    ![Now Assist panel with order details listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-explorer-workflow11.png)
 
 
-Your conversation is saved until you start a new chat. If the conversation ends unexpectedly, start a new chat by selecting the New chat icon \(![New chat icon.](../../../common/image/icon-zoom-in.png)\).
+Your conversation is saved until you start a new chat. If the conversation ends unexpectedly, start a new chat by selecting the New chat icon \(![New chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-zoom-in.png)\).
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 

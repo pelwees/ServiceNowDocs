@@ -45,7 +45,7 @@ You can view the third party or engagement components by navigating to **Third-p
 
 2.  Select the **Default** entry to open the default criteria.
 
-    ![Component criteria — default record.](../image/component-criteria-default.png)
+    ![Component criteria — default record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/component-criteria-default.png)
 
 3.  Based on the amount of emphasis your company places on each of the component types, open each component and assign a weight.
 

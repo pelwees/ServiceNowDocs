@@ -17,27 +17,27 @@ Legal Stock Preclearance enables you to manage stock preclearance requests compl
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore Learn about how employees and stock approvers use Legal Stock Preclearance.](../concept/stock-preclearance-overview.md)
+[Explore Learn about how employees and stock approvers use Legal Stock Preclearance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../concept/stock-preclearance-overview.md)
 
 </td><td>
 
-[Set up Set up trading windows, trading holidays, access persons, and other configurations.](../concept/legal-stock-pre-administration.md)
+[Set up Set up trading windows, trading holidays, access persons, and other configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../concept/legal-stock-pre-administration.md)
 
 </td><td>
 
-[Request Submit and track stock preclearance requests.](../task/submit-preclearance-approval-request.md)
+[Request Submit and track stock preclearance requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../task/submit-preclearance-approval-request.md)
 
 </td></tr><tr><td>
 
-[Manage Manage stock preclearance approval requests.](../task/approve-reject-preclearance-approval-request.md)
+[Manage Manage stock preclearance approval requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../task/approve-reject-preclearance-approval-request.md)
 
 </td><td>
 
-[Analytics and Reporting Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting Coordinate work and improve processes with preconfigured dashboards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../../../use/application-content-packs/concept/legalsd-content-pack.md)
 
 </td><td>
 
-[Reference Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-stock-pre-reference.md)
+[Reference Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-pre-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store

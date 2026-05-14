@@ -34,5 +34,5 @@ The following table lists the features and skills that you can access from the N
 |Case summarization|Invoice case summarization|
 |Invoice data extraction|Invoice data extraction using DocIntel|
 
-![APO section showing the Case summarization skill.](../image/now-assist.png "Now Assist skills for APO")
+![APO section showing the Case summarization skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/now-assist.png "Now Assist skills for APO")
 

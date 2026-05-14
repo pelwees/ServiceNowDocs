@@ -69,7 +69,7 @@ Scripting governance feature introduces 9 data type ACLs to enforce Layer 2. The
     -   html\_template
     -   xml
     -   condition\_string
-    **Note:** The admin role does not have scripting access by default. Admin users are subject to the same two-layer check and cannot edit script fields unless they are members of the **Conditional Script Writer** group or explicitly hold the `snc_required_script_writer_permission` role.To know more, see [Datatype ACL](../../contextual-security/concept/datatype-acl.md).
+    **Note:** The admin role does not have scripting access by default. Admin users are subject to the same two-layer check and cannot edit script fields unless they are members of the **Conditional Script Writer** group or explicitly hold the `snc_required_script_writer_permission` role.To know more, see [Datatype ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../contextual-security/concept/datatype-acl.md).
 
 
 ## Scheduled jobs and properties
@@ -117,7 +117,7 @@ You can also view which groups contain the scripting role and which roles contai
 -   **Manual configuration**: Manually add or remove users from the **Conditional Script Writer** group to control who has scripting access.
 -   **Scan for users who have scripted**: Scan your instance to find users who have scripted within a specific time frame. The scan queries the audit logs and identifies any user who has performed write or update to a table having script field.
 
-![Scripting Governance Tool dashboard](../image/scripting-governance-dashboard.png)
+![Scripting Governance Tool dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/scripting-governance-dashboard.png)
 
 **Note:** It is recommended to manage scripting access exclusively through the **Conditional Script Writer** group. Adding the `snc_required_script_writer_permission` role as a child role to other roles or groups reduces your ability to centrally control who can script on your instance.
 

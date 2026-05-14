@@ -18,7 +18,7 @@ Specify the tickets you want your HubSpot external content connector to crawl. D
 
 ## Before you begin
 
-A connector admin must have already created the HubSpot external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a HubSpot external content connector](create-ext-cont-connector-hubspot.md).
+A connector admin must have already created the HubSpot external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a HubSpot external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-hubspot.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -69,7 +69,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 6.  Select **Save and validate**.
 
@@ -80,7 +80,7 @@ The HubSpot external content connector is updated with your modified crawl setti
 
 ## What to do next
 
-To retrieve content from your HubSpot source system using your modified crawl settings, create and run a one-time content crawl for your HubSpot external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your HubSpot source system using your modified crawl settings, create and run a one-time content crawl for your HubSpot external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[HubSpot external content connector](../concept/hubspot-external-content-connector.md)
+**Parent Topic:**[HubSpot external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/hubspot-external-content-connector.md)
 

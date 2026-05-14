@@ -159,8 +159,8 @@ Provides a checklist of tasks that must be completed before the case is closed.C
 
     When an Affected CI has a warranty date in the future, the **Facilities Request Task** tab appears as a task to check the warranty information.
 
-    ![Task form for a facilities request.](../image/WarrantyCheck.png)
+    ![Task form for a facilities request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/WarrantyCheck.png)
 
 
-**Parent Topic:**[Facilities request creation](../reference/r_FacilitiesRequestCreation.md)
+**Parent Topic:**[Facilities request creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_FacilitiesRequestCreation.md)
 

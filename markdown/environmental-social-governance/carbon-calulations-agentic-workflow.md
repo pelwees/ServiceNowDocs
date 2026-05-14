@@ -46,5 +46,5 @@ The benefits are as follows:
 -   Promotes transparency and traceability by providing step-by-step guidance and workflow audit logs.
 -   Simplifies user experience through an intuitive conversational assistant embedded in the Now Assist Panel.
 
-**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](exploring-now-assist-for-esg.md)
+**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)
 

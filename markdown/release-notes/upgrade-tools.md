@@ -27,7 +27,7 @@ Use these ServiceNow products to automate parts of your upgrade testing and mana
 
     Use ServiceNow® Upgrade Center to plan and manage your upgrades. Use the Upgrade Preview module to explore different release versions available to you and gain insights about the experience of an upgrade without actually upgrading your instance. You can also monitor the status of any ongoing upgrade and view the summary of your latest upgrade with the new Upgrade Monitor module. The Upgrade Center also features an Upgrade visual task board \(VTB\) to manage post-upgrade skips. A separate Upgrade History module can be used to view all your past upgrades.
 
-    ![Upgrade Center](../image/upgrade-center.png)
+    ![Upgrade Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/upgrade-center.png)
 
 
 ## Upgrade tools
@@ -44,7 +44,7 @@ In addition to upgrade-related products, you can also use ServiceNow's upgrade t
 
 -   **Sample upgrade project plans**
 
-    The [Upgrade planning checklist](../upgrades-planning-checklist.md) provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
+    The [Upgrade planning checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../upgrades-planning-checklist.md) provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
 
     -   [PDF](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow-upgrade-planning-checklist.pdf)
     -   [Excel](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow_upgrade_sample_project_plan_v1.0.xlsx)

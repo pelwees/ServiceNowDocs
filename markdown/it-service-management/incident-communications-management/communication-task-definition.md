@@ -17,5 +17,5 @@ Each communication plan involves a series of communication tasks. A communicatio
 
 For information on how to create a communication task definition, refer to [Create communication task definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-task-definition.md).
 
-**Parent Topic:**[Managing Incident Communications](working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/working-with-inci-comm-mgmt.md)
 

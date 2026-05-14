@@ -22,7 +22,7 @@ The section focuses on improving AI models, managing datacenter traffic, and ena
 
 By default, Data sharing is active. You can opt out to deactivate AI Control Tower and share your data with ServiceNow to improve AI accuracy, enhance user experiences, and gain a better understanding of business needs.
 
-![Data sharing on the Configurations screen.](../image/aict-data-sharing.png)
+![Data sharing on the Configurations screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-data-sharing.png)
 
 Data sharing helps enhance ServiceNow products, but if you choose to opt out of the ServiceNow data sharing program, you’ll no longer be able to contribute data to improve ServiceNow AI products.
 
@@ -78,6 +78,6 @@ By default, all Now Assist traffic is managed within ServiceNow datacenters. If 
 
     This setting controls how the LLM guardrail categories that comprise the score are weighted. You can change the default weights or remove categories from the score by deactivating them. The score formula is an average across all managed AI assets.
 
-    ![AI asset security score configuration with default weights shown.](../image/sp-tab-ai-score-config.png)
+    ![AI asset security score configuration with default weights shown.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-ai-score-config.png)
 
 

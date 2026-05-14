@@ -60,7 +60,7 @@ On the Benefit Plan form, fill in the **Associated benefit** field with the bene
 </td><td>
 
 1.  On the Benefit Plan form, select **Associate new benefit**.
-2.  On the form, fill in the fields. For details, see [Create a monetary benefit plan for a demand](create-demand-benefit-plan.md) and [Create a non-monetary benefit plan for a demand](create-a-non-monetary-benefit-plan-for-a-demand.md).
+2.  On the form, fill in the fields. For details, see [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md) and [Create a non-monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-a-non-monetary-benefit-plan-for-a-demand.md).
 
 
 </td></tr></tbody>
@@ -75,5 +75,5 @@ The selected benefit plan is associated with another plan.
 
 Select the **View Associated benefit plan** related link to view the associated benefit plan.
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

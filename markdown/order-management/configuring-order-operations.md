@@ -19,11 +19,11 @@ Installing and configuring the following applications involve installing the app
 
     Install and configure the Order Operations Case Management application customer service agents to create cases for multiple customer orders or for specific products in an order.
 
-2.  [Configuring Lead-to-Cash Process Management](configuring-lead-cash-process-management.md)
+2.  [Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
     Install the Lead-to-Cash Process Management application, and set up business object groups and relationships so that sales process managers can create and monitor sales process records.
 
-3.  [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
+3.  [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
 
     Activate the RMA Case Management plugin that enables your sales organization to manage and triage return cases for customer products and services, addressing returns, replacements, and repair use cases.
 

@@ -37,11 +37,11 @@ Role required: admin
 
     If the admin user is selected successfully, the following message shows up:
 
-    ![Image showing user selection success message](../image/atf-app-credentials-success.png)
+    ![Image showing user selection success message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-credentials-success.png)
 
     If the selected user is not an admin, an error message shows up. The following message is an example of one of the possible error messages. The error messages vary depending on the reason of the error.
 
-    ![Image showing user selection failed message](../image/atf-app-credentials-failed.png)
+    ![Image showing user selection failed message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-credentials-failed.png)
 
     The selection of a cloud user can fail for the following reasons:
 

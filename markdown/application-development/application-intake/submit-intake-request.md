@@ -17,7 +17,7 @@ With your carefully-planned idea in hand, you are ready to submit it through App
 
 ## Before you begin
 
-If you have not already [activated the Apply for Citizen Development standard catalog item](activate-catalog-item-for-app-intake.md), you must do so before you can perform this procedure.
+If you have not already [activated the Apply for Citizen Development standard catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-intake/activate-catalog-item-for-app-intake.md), you must do so before you can perform this procedure.
 
 Role required: none
 
@@ -31,11 +31,11 @@ If the idea is approved, developers can build the app with the guided, intuitive
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Service Catalog**.
 
-    ![Service Catalog](../image/can-we-help-you.png "Service Catalog")
+    ![Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-intake/../image/can-we-help-you.png "Service Catalog")
 
 2.  In the Service Catalog, select the **Can We Help You?** category.
 
-    ![Apply for Citizen Development catalog item](../image/apply-for-cit-dev.png "Apply for Citizen Development catalog item")
+    ![Apply for Citizen Development catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-intake/../image/apply-for-cit-dev.png "Apply for Citizen Development catalog item")
 
 3.  Select the **Apply for Citizen Development** catalog item to open the Application Intake form.
 
@@ -59,5 +59,5 @@ If the idea is approved, developers can build the app with the guided, intuitive
 
 If the admin approves your request, you can start building your app in App Engine Studio. You should receive a confirmation email with access to build the app.
 
-If you are an admin who approves requests, learn more about [managing AEMC requests](../concept/manage-aemc-requests.md).
+If you are an admin who approves requests, learn more about [managing AEMC requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-intake/../concept/manage-aemc-requests.md).
 

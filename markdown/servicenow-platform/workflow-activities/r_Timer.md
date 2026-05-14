@@ -15,7 +15,7 @@ breadcrumb: [Timer workflow activities, Workflow activities reference, Workflow 
 
 The **Timer** activity pauses the workflow for a specified period of time.
 
-This duration can be an absolute time value or a relative value based on a defined [Creating and using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md). It is best to adjust the **Duration** so the workflow can progress in a timely manner. To pause a workflow indefinitely until a condition is met, see [wait for condition](r_WaitForCondition.md).
+This duration can be an absolute time value or a relative value based on a defined [Creating and using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md). It is best to adjust the **Duration** so the workflow can progress in a timely manner. To pause a workflow indefinitely until a condition is met, see [wait for condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_WaitForCondition.md).
 
 **Note:** Timer activities run as the System user because the system scheduler advances the workflow.
 
@@ -216,5 +216,5 @@ answer =(eod.getTime()- now.getTime())/1000;
 workflow.debug('Timer will fire @: '+ eod +'  '+(answer/60)+' minutes from now');
 ```
 
-**Parent Topic:**[Timer workflow activities](../concept/c_TimerActivities.md)
+**Parent Topic:**[Timer workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/../concept/c_TimerActivities.md)
 

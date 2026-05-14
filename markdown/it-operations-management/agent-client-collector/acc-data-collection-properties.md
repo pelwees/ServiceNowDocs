@@ -88,5 +88,5 @@ Specify the order of the values by which the CI record's **Name** field is popul
 When set to **true**, indicates that data collection is disabled for containerized agents.Default: true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

@@ -31,11 +31,11 @@ Some additional referenced CIs that can be related in this manner are file syste
 
 In the following example, computer nodes in the map are related to network adapter nodes if the **Configuration Item** field of the adapter records reference the specific CI node. Access or create a network adapter record from the Network Adapter related list in the cmdb\_ci\_computer record.
 
-![CIs related by depencency.](../image/NGBSMRelatedItems2.png "Dependency Views Configuration Item field")
+![CIs related by depencency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/NGBSMRelatedItems2.png "Dependency Views Configuration Item field")
 
 The Dependency Views map for the \*JEMPLOYEE-IBM computer shows the network adapter attached to the computer.
 
-![Dependency Views map displaying related CIs.](../image/DepViewsExample01.png "Dependency Views map Related Items example")
+![Dependency Views map displaying related CIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/DepViewsExample01.png "Dependency Views map Related Items example")
 
 You can configure Dependency Views to display CIs that have no relationship record, but are related to other CIs by reference fields.
 
@@ -59,22 +59,22 @@ You can configure Dependency Views to display CIs that have no relationship reco
     |Active|Check box to enable or disable this record.|
 
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../topic/p_AdministerNGBSM.md)
 
 **Related topics**  
 
 
-[Create or modify map indicators](t_CreateModifyNGBSMMapIndicators.md)
+[Create or modify map indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIndicators.md)
 
-[Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
+[Create or modify map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIcons.md)
 
-[Create a predefined filter](create-predefined-filter.md)
+[Create a predefined filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/create-predefined-filter.md)
 
-[Set a predefined filter as default](set-predefined-filter-default.md)
+[Set a predefined filter as default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/set-predefined-filter-default.md)
 
-[Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
+[Create or modify Dependency Views menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../reference/condition-script-parameters.md)
 
-[Create or edit a dependency type](t_CreateMapScript.md)
+[Create or edit a dependency type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateMapScript.md)
 

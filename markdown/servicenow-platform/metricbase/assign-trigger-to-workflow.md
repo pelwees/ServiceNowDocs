@@ -106,7 +106,7 @@ Select the roles can run the flow. This option is only available when **Run as**
 
         Condition scripts add additional requirements for a trigger to execute a flow.
 
-    ![Condition script in Workflow Studio.](../image/condition-script-flow-designer.png)
+    ![Condition script in Workflow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/condition-script-flow-designer.png)
 
 8.  Under **ACTIONS**, select **Click to add an Action, Flow Logic, or Subflow**
 
@@ -116,7 +116,7 @@ Select the roles can run the flow. This option is only available when **Run as**
 
     3.  Select **Done** to complete each part of the flow action.
 
-    ![Selecting a flow.](../image/flow-action.png)
+    ![Selecting a flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/flow-action.png)
 
 9.  Select **Save**.
 
@@ -126,7 +126,7 @@ Select the roles can run the flow. This option is only available when **Run as**
 
     2.  Select the trigger **Level** to test, provide the **time of metric event**, and what **record** is triggering.
 
-        Different triggers may execute different flows. ![Test the flow.](../image/test-flow.png)
+        Different triggers may execute different flows. ![Test the flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/test-flow.png)
 
         **Note:** When you test a flow, the system does not execute the trigger, and therefore does not create a record. By selecting a record in the Test flow dialog box, the system acts as if that record was just created. For more information, see [Test a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md).
 

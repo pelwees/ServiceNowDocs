@@ -19,7 +19,7 @@ Onboard a contractor to a company listed in the Health and Safety Workspace work
 
 A new contractor can be added to an existing contractor company in the company list that can be viewed in the Health and Safety Workspace.
 
-For more information about adding a contractor company, see [Add a contractor company from Health and Safety Workspace](../../hs-contractor-management/task/hs-add-contractor-company-from-workspace.md)
+For more information about adding a contractor company, see [Add a contractor company from Health and Safety Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-contractor-management/task/hs-add-contractor-company-from-workspace.md)
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Steps
 
 </td><td>
 
-1.  Select the contractor management icon \(![Contractor management icon](../../hs-contractor-management/image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
+1.  Select the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-contractor-management/image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
 2.  In the **Lists** tab, select **Contractor companies** and then select **Active**.
 3.  Open the company that you want the contractor added to.
 4.  In the **Workers** tab, select **Add**.
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+1.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-risk-management/image/icon-config.png)\).
 2.  In the **Lists** tab, select **Health and safety profiles** and then **Active** and then select **New**.
 3.  On the form, fill in the fields and select **Save** to add the contractor in the workers list.
 
@@ -83,7 +83,7 @@ Steps
 
 You can assign a task to the contractor or upload any documents obtained from the contractor to complete the onboarding for the contractor.
 
--   For more information to assign a task to a contractor, see [Assign a task to a contractor worker](../../hs-contractor-management/task/hs-assign-tasks-contractor-worker.md).
--   For more information to add a document for a contractor, see [Add a document to a contractor worker](../../hs-contractor-management/task/hs-add-document-contractor-worker.md).
--   To configure the Health and Safety profile for a contractor, see [Assign Health and Safety profile to a contractor worker](../../hs-contractor-management/task/hs-assign-hs-user-profile-contract-worker.md).
+-   For more information to assign a task to a contractor, see [Assign a task to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-contractor-management/task/hs-assign-tasks-contractor-worker.md).
+-   For more information to add a document for a contractor, see [Add a document to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-contractor-management/task/hs-add-document-contractor-worker.md).
+-   To configure the Health and Safety profile for a contractor, see [Assign Health and Safety profile to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-contractor-management/task/hs-assign-hs-user-profile-contract-worker.md).
 

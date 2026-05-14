@@ -28,5 +28,5 @@ Role required: none
 
     -   When using the k8s\_informer.yaml, enter the value “false” in the line under CONTINUOUS\_DISCOVERY.
 
-**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](cnov-deploy-install.md)
+**Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 

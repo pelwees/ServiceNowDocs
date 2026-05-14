@@ -31,7 +31,7 @@ Role required: admin
 
 5.  In the Confirmation section, set the schedule, recursion, and duration.
 
-    ![Editing Auto Query](../images/editing-an-auto-query.png)
+    ![Editing Auto Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/editing-an-auto-query.png)
 
 6.  Select **Save** to save your changes or select **Cancel** to discard your changes
 

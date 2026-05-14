@@ -47,5 +47,5 @@ The choice is overridden in the dynamic namespace that you selected in **Within 
 
 ## An override is defined for the LED choice. In the Smartphones category, the choice appears as microLED
 
-![A dynamic choice override is defined on the LED choice. When LED is used in the Smartphones dynamic category, it appears as microLED.](../image/dynamic-choice-override-example.png)
+![A dynamic choice override is defined on the LED choice. When LED is used in the Smartphones dynamic category, it appears as microLED.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-choice-override-example.png)
 

@@ -70,7 +70,7 @@ Enter the lookup field label that should appear to the user.
 
 4.  On the Resource Pool Filters related list, click **New**, enter a unique and descriptive **Filter Name**, and then fill in the form.
 
-    ![Resource Pool for security group filter](../image/reource-pool-filter-form.png)
+    ![Resource Pool for security group filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/reource-pool-filter-form.png)
 
 <table id="table_ftb_bfn_2z"><thead><tr><th>
 
@@ -176,7 +176,7 @@ Order
 Enter an order number that determines when the value applies, relative to other resource pool filter values. Lower values are applied first.
 
 </td></tr></tbody>
-</table>    ![Resource Pool for security group filter value](../image/resource-pool-filter-value.png)
+</table>    ![Resource Pool for security group filter value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/resource-pool-filter-value.png)
 
     The resource pool filter is created.
 

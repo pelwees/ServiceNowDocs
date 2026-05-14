@@ -21,15 +21,15 @@ A firewall device acts as a network security system, monitoring and controlling 
 
 ## Firewall Audits and Reporting workflow
 
-The Firewall Audits and Reporting application enables the ServiceNow Discovery process to discover firewalls \(currently Palo Alto Networks firewalls\), CMDB CIs for the firewall devices, firewall manager, firewall device groups, and firewall policies using serverless patterns. Firewall policy audit tasks are generated from the firewall managers or devices. You can also request new firewall security policies through the Service Catalog and archive older firewall rule requests, audit requests, and audit tasks to improve system performance. For more information, see [Visibility to Firewall inventory](use-firewall-audit-rep.md). To see various reports to track discovered policies and audit tasks, see [Firewall Admin Workspace dashboard](firewall-admin-workspace-dashboard.md).
+The Firewall Audits and Reporting application enables the ServiceNow Discovery process to discover firewalls \(currently Palo Alto Networks firewalls\), CMDB CIs for the firewall devices, firewall manager, firewall device groups, and firewall policies using serverless patterns. Firewall policy audit tasks are generated from the firewall managers or devices. You can also request new firewall security policies through the Service Catalog and archive older firewall rule requests, audit requests, and audit tasks to improve system performance. For more information, see [Visibility to Firewall inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md). To see various reports to track discovered policies and audit tasks, see [Firewall Admin Workspace dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-admin-workspace-dashboard.md).
 
 ## Firewall Audits and Reporting benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Up-to-date inventory of firewall security policies, devices, device groups, and manager information by persistently storing data in the CMDB through regular queries to a firewall manager.|[Visibility to Firewall inventory](use-firewall-audit-rep.md)|Firewall Admin \[sn\_disco\_firewall.firewall\_admin\]|
-|Provision for requesting a new firewall rule using the Service Catalog.|[Firewall rule requests](firewall-requests.md#)|Firewall Requester \[sn\_disco\_firewall.firewall\_requester\]|
-|Provision for auditing firewall security policies for a specific time period.|[Firewall Admin Workspace dashboard](firewall-admin-workspace-dashboard.md)|Firewall User \[sn\_disco\_firewall.firewall\_user\]|
+|Up-to-date inventory of firewall security policies, devices, device groups, and manager information by persistently storing data in the CMDB through regular queries to a firewall manager.|[Visibility to Firewall inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md)|Firewall Admin \[sn\_disco\_firewall.firewall\_admin\]|
+|Provision for requesting a new firewall rule using the Service Catalog.|[Firewall rule requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-requests.md#)|Firewall Requester \[sn\_disco\_firewall.firewall\_requester\]|
+|Provision for auditing firewall security policies for a specific time period.|[Firewall Admin Workspace dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-admin-workspace-dashboard.md)|Firewall User \[sn\_disco\_firewall.firewall\_user\]|
 
 ## Request apps on the Store
 

@@ -105,7 +105,7 @@ State
 
 -   **Running**: The rule is currently running \(questionnaires and document requests are being sent\). For rules that are currently running: The duration between the **Run start** timestamp and the current time indicates how long the rule has been running.
 -   **Successful**: The rule ran to completion and sent all questionnaires and doc requests to third parties.
--   **Recalled**: After the rule completed the run, a user recalled the questionnaires and document requests. See [Recall event-driven questionnaires and doc requests](tprm-event-drvn-mgt-rule-recall.md).
+-   **Recalled**: After the rule completed the run, a user recalled the questionnaires and document requests. See [Recall event-driven questionnaires and doc requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-recall.md).
 
 
 </td></tr></tbody>

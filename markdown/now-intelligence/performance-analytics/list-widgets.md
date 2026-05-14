@@ -29,11 +29,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Scorecard icon](../image/scorecard-icon.png)
+![Scorecard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/scorecard-icon.png)
 
 </td><td>
 
-[Scorecard](../task/create-scorecard-list-widget.md)
+[Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-scorecard-list-widget.md)
 
 </td><td>
 
@@ -45,11 +45,11 @@ For several indicators, shows any of the following attributes:-   Scores at seve
 
 </td></tr><tr><td>
 
-![Spider list widget icon](../image/spider-icon.png)
+![Spider list widget icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/spider-icon.png)
 
 </td><td>
 
-[Spider](../task/create-spider-list-widget.md)
+[Spider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-spider-list-widget.md)
 
 </td><td>
 

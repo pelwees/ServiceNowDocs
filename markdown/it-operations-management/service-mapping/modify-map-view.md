@@ -41,7 +41,7 @@ Attributes you show or hide when you customize maps are not removed permanently 
 
 2.  Select the **Additional actions** menu.
 
-    ![Select the Additional actions menu on the Map page.](../image/MapAdditionalActionsButton.png)
+    ![Select the Additional actions menu on the Map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAdditionalActionsButton.png)
 
 3.  Select the relevant option:
 
@@ -71,11 +71,11 @@ When Disabled
 
 The service map shows host CIs.
 
- ![Hosts displayed on the map.](../image/MapMoreOptionsHostOn.png)
+ ![Hosts displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsHostOn.png)
 
  Click the plus icons to see application CIs running on the hosts.
 
- ![Applications running on a host displayed on the map](../image/MapMoreOptionsHostPlusSign.png)
+ ![Applications running on a host displayed on the map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsHostPlusSign.png)
 
  The **Properties** pane shows only information about servers who act as hosts.
 
@@ -83,7 +83,7 @@ The service map shows host CIs.
 
 The service map shows application CIs.
 
- ![CIs displayed on the map.](../image/MapMoreOptionsHostOff.png)
+ ![CIs displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsHostOff.png)
 
  The **Properties** pane shows information about both servers who act as hosts and applications running on the hosts.
 
@@ -115,13 +115,13 @@ The service instance map shows all CIs separately. The map is larger.
 
 The service instance map hides topology cycles.
 
- ![Topology cycles hidden on the map.](../image/MapMoreOptionsTopCyclOn.png)
+ ![Topology cycles hidden on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsTopCyclOn.png)
 
 </td><td>
 
 The service instance map shows topology cycles.
 
- ![Topology cycles displayed on the map.](../image/MapMoreOptionsTopCyclOff.png)
+ ![Topology cycles displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsTopCyclOff.png)
 
 </td></tr><tr><td>
 
@@ -151,13 +151,13 @@ The service instance map shows only CIs and hosts discovered using patterns.
 
 The service instance map merges all CIs with identical errors into one. The number on the connector line indicates the number of CIs with this error.
 
- ![CIs displayed on the map.](../image/MapAddOptionsMergeErrorOn.png)
+ ![CIs displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsMergeErrorOn.png)
 
 </td><td>
 
 The service instance map shows all CIs with identical errors separately.
 
- ![CIs displayed on the map.](../image/MapAddOptionsMergeErrorOff.png)
+ ![CIs displayed on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsMergeErrorOff.png)
 
 </td></tr><tr><td rowspan="2">
 
@@ -179,25 +179,25 @@ For more information, see [Event Management Map Indicators \(Video\)](https://ww
 
 For each record type that is set to display, the corresponding indicator and the tab display. For example, the **Incidents** tab appears underneath the map and the **Incidents** indicator shows next to CIs that have incidents associated with them.
 
- ![Map showing CI-related indicators.](../image/MapAddOptionsIndicOn.png)
+ ![Map showing CI-related indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsIndicOn.png)
 
 </td><td>
 
 The service instance map shows CIs without related indicators.
 
- ![Map with CI-related indicators hidden.](../image/MapAddOptionsIndicOff.png)
+ ![Map with CI-related indicators hidden.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsIndicOff.png)
 
 </td></tr><tr><td>
 
 If a record is associated with the service instance itself, the indicator shows next to the service instance name.
 
- ![Map showing service instance related indicators.](../image/MapBSAddOptionsIndicOn.png)
+ ![Map showing service instance related indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapBSAddOptionsIndicOn.png)
 
 </td><td>
 
 No map indicators appear next to the service instance name.
 
- ![Map indicators for a service instance hidden.](../image/MapBSAddOptionsIndicOff.png)
+ ![Map indicators for a service instance hidden.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapBSAddOptionsIndicOff.png)
 
 </td></tr><tr><td>
 
@@ -209,15 +209,15 @@ No map indicators appear next to the service instance name.
 
 The map displays a service instance as a tree.
 
- ![Map showing an service instance in the spanning tree view.](../image/MapAddOptionsSpanningTreeOn.png)
+ ![Map showing an service instance in the spanning tree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsSpanningTreeOn.png)
 
- To view actual connections, point to a CI. For more information on viewing connections, see [View CI connection attributes in an application service map in classic Service Mapping](view-connector-properties.md).
+ To view actual connections, point to a CI. For more information on viewing connections, see [View CI connection attributes in an application service map in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-connector-properties.md).
 
 </td><td>
 
 The map reflects the actual structure of a service instance.
 
- ![Map showing an service instance not in the spanning tree view.](../image/MapAddOptionsSpanningTreeOff.png)
+ ![Map showing an service instance not in the spanning tree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAddOptionsSpanningTreeOff.png)
 
 </td></tr><tr><td>
 
@@ -235,7 +235,7 @@ The map does not show ignored errors.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 

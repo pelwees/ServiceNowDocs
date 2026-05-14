@@ -60,7 +60,7 @@ If you’re upgrading, you must re-configure your orchestration tool before sett
 
 Set the **setCloseCode:** parameter to `true/false` based on the desired behavior. Default is true.
 
-If set to true, the **Close code** and **Close notes** fields are updated as specified in the change step attributes and the change request is moved to post-implement when a stage is completed. You can override this behavior by enabling the **Auto close code** feature. The setCloseCode feature will get disabled when autoCloseChange is enabled and set to true or false. For more information, see [Auto Close Change](dev-ops-config-change-details.md#section_ts2_c1b_5yb). Use the autoCloseChange feature for more accurate change request details.
+If set to true, the **Close code** and **Close notes** fields are updated as specified in the change step attributes and the change request is moved to post-implement when a stage is completed. You can override this behavior by enabling the **Auto close code** feature. The setCloseCode feature will get disabled when autoCloseChange is enabled and set to true or false. For more information, see [Auto Close Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-config-change-details.md#section_ts2_c1b_5yb). Use the autoCloseChange feature for more accurate change request details.
 
 If set to false, when the job or pipeline has completed, the change request isn’t updated and remains in the Implement state.
 
@@ -165,13 +165,13 @@ All remaining fields in the Change Request \[change\_request\] table.
 
 ## Pipeline examples
 
-![DevOps Azure change details.](../image/dev-ops-azure-change-details.png "Change request details - Azure pipeline")
+![DevOps Azure change details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-azure-change-details.png "Change request details - Azure pipeline")
 
-![JenkinsJobSettings.](../image/dev-ops-job-settings.png "Job-level settings — Jenkins")
+![JenkinsJobSettings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-job-settings.png "Job-level settings — Jenkins")
 
-![DevOps Jenkins change details.](../image/dev-ops-jenkins-change-details.png "Change request details - Jenkins")
+![DevOps Jenkins change details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-jenkins-change-details.png "Change request details - Jenkins")
 
-![DevOps GitHub change details.](../image/auto-close-github.png "Change request details - GitHub")
+![DevOps GitHub change details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/auto-close-github.png "Change request details - GitHub")
 
-**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 

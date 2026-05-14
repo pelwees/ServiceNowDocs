@@ -25,19 +25,19 @@ Role required: admin
 
 2.  Create a queue enabling External Routing.
 
-    For more information about creating a queue with external routing, see [Enable external routing for queues](enable-awa-external-routing.md).
+    For more information about creating a queue with external routing, see [Enable external routing for queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/enable-awa-external-routing.md).
 
 3.  Open the provider record, select the subflow that you created, and select **Save**.
 
-    For more information about creating a subflow, see [Create a subflow](create-subflow-extrnl-route.md).![Select subflow for external routing of the AWA queue item.](../image/subflow-extrnl-routing.png)
+    For more information about creating a subflow, see [Create a subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/create-subflow-extrnl-route.md).![Select subflow for external routing of the AWA queue item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/subflow-extrnl-routing.png)
 
 4.  In the External Event definition section, create a definition form or modify the existing demo data records by changing the provider name you created.
 
-    ![Select the provider for your work item to be routed to the external queue.](../image/select-provider-extrnl-route.png "Provider for External Routing")
+    ![Select the provider for your work item to be routed to the external queue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/select-provider-extrnl-route.png "Provider for External Routing")
 
     The payload script in the External event definition \[awa\_external\_event\_definition\] table has the event type and payload information that you send to the third-party providers. Therefore, it is required for you to change all the events' provider to the provider you created.
 
-    ![Payload script for the third-party provider.](../image/payload-extrnl-route.png "Payload for External Routing")
+    ![Payload script for the third-party provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/payload-extrnl-route.png "Payload for External Routing")
 
     In the payload script:
 

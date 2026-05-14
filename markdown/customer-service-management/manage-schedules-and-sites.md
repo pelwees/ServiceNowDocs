@@ -23,7 +23,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Managing agent calendar](agent-calendar.md)
+[Managing agent calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/agent-calendar.md)
 
 </td><td>
 
@@ -31,7 +31,7 @@ Customer service agents and field service technicians can use the agent calendar
 
 </td></tr><tr><td>
 
-[Using Microsoft Outlook with CSM](use-microsoft-outlook-with-csm.md)
+[Using Microsoft Outlook with CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-microsoft-outlook-with-csm.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Integrating Microsoft Outlook with CSM helps to improve collaboration among team
 
 </td></tr><tr><td>
 
-[Mobile experience for Customer Service Management](customer-service-mobile-interface.md)
+[Mobile experience for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-mobile-interface.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Manage customer service cases from a mobile device with the Customer Service Man
 
 </td></tr><tr><td>
 
-[Install base work plans](install-base-work-plans.md)
+[Install base work plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/install-base-work-plans.md)
 
 </td><td>
 

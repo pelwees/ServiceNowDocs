@@ -40,11 +40,11 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 
 
-    ![Triggers selected for Now Assist chat recommendation.](../image/na-chat-summarization-trigger.png)
+    ![Triggers selected for Now Assist chat recommendation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-chat-summarization-trigger.png)
 
 7.  Using the toggles, select the actions trigger the chat summarization skill.
 
-    ![Triggers selected for Now Assist chat summarization.](../../now-assist-skills/image/na-chat-summarization-trigger-summ.png "Define triggers for chat summarization")
+    ![Triggers selected for Now Assist chat summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-skills/image/na-chat-summarization-trigger-summ.png "Define triggers for chat summarization")
 
 8.  Select whether you want the summary to be formatted with bullet points.
 
@@ -54,7 +54,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 10. Customize when and how the skill capability will exist and be available.
 
-    ![Define availability for Now Assist chat recommendation](../image/na-chat-summarization-define-availability.png)
+    ![Define availability for Now Assist chat recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-chat-summarization-define-availability.png)
 
 11. Select **Customize skill availability** if you want to define the skill to be available for a certain domain.
 
@@ -66,7 +66,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
     This is a mandatory step. The admin must specify a portal and enable a specific channel on **Choose Input** page, to enable the skill for chats sent in the selected portal/channel. Else the agent will receive an error message, "Chat summaries won't appear until your IT administrator completes all the required steps involved in the setup".
 
-    ![Inputs selected for Now Assist chat recommendation.](../image/na-chat-summarization-input.png)
+    ![Inputs selected for Now Assist chat recommendation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-chat-summarization-input.png)
 
 15. Select **Save and continue**.
 
@@ -80,11 +80,11 @@ Role required: sn\_generative\_ai.nsa\_admin
     -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. Select the down arrow to identify the roles that can use the skill. Select the arrow next to toggle, to select roles who can access the skill. You can add roles by entering the name of the role in the **User roles** field. You can remove existing roles by selecting the X icon in the role bubble. You must have at least one role specified, but you can add as many roles as you like.
     **Note:** You can use different roles for chat recommendation in different workflows. You can see which workflow you're configuring by checking the label next to the skill name at the top of the guided setup, such as "ITSM" or "HRSD."
 
-    ![Select display step of the Now Assist incident summarization skill configuration prompts you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.](../image/na-chat-summarization-display.png)
+    ![Select display step of the Now Assist incident summarization skill configuration prompts you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-chat-summarization-display.png)
 
 17. Review your choices and complete the configuration by selecting **Activate**.
 
-    ![Review and activate step for Now Assist chat summarization.](../image/na-chat-summarization-review.png)
+    ![Review and activate step for Now Assist chat summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-chat-summarization-review.png)
 
 
 ## Result
@@ -95,5 +95,5 @@ Chat recommendation or reply recommendation for the workflow is active on the in
 
 Analyze your skill performance and usage on the Now Assist Admin console to help determine the success of the skill. Learn more about tracking your Now Assist usage at [Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md).
 
-**Parent Topic:**[Activate a Now Assist skill](configure-a-now-assist-skill.md)
+**Parent Topic:**[Activate a Now Assist skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)
 

@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-To make a synonym dictionary affect search behavior, you must link it to a search profile, either at creation time or afterward. To learn about linking a saved dictionary to a search profile, see [Link a synonym dictionary to a search profile](link-synonym-dict-profile-ais.md).
+To make a synonym dictionary affect search behavior, you must link it to a search profile, either at creation time or afterward. To learn about linking a saved dictionary to a search profile, see [Link a synonym dictionary to a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-synonym-dict-profile-ais.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ To make a synonym dictionary affect search behavior, you must link it to a searc
 
 4.  On the Dictionary form, fill in the fields.
 
-    For a description of the field values, see [Dictionary and AI Search Dictionary forms](../reference/dictionary-form-ais.md).
+    For a description of the field values, see [Dictionary and AI Search Dictionary forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/dictionary-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -44,7 +44,7 @@ The new synonym dictionary appears in the Synonyms related list.
 
 ## What to do next
 
-To make new or updated synonym dictionary settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
+To make new or updated synonym dictionary settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/synonyms-ais.md)
 

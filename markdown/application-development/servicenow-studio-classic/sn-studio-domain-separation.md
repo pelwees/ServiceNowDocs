@@ -22,5 +22,5 @@ Domain separation is not supported for ServiceNow Studio. Domain separation enab
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Configuring ServiceNow Studio](configuring-servicenow-studio.md)
+**Parent Topic:**[Configuring ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/configuring-servicenow-studio.md)
 

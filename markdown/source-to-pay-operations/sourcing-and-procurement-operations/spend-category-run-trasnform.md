@@ -34,7 +34,7 @@ Here’s how the transform map works:
 
 2.  Select **Existing table**.
 
-3.  In the **Import set table** field, select **Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\)**.![Displays the Load Data window in which you can import a set table and select the source for the import.](../image/import_spend_category.png)
+3.  In the **Import set table** field, select **Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\)**.![Displays the Load Data window in which you can import a set table and select the source for the import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/import_spend_category.png)
 
 4.  In the **Source of the import** field, select **File**.
 

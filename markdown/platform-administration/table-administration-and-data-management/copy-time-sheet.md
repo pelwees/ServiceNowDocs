@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-You can also perform this task from the [Time Sheet Portal](../concept/worker-portal.md).
+You can also perform this task from the [Time Sheet Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/worker-portal.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ You can also perform this task from the [Time Sheet Portal](../concept/worker-po
 -   If the previous time sheet has rate types, but the time sheet policy of the user no longer allows rate types, then rate types are not copied to the current time sheet.
 -   If the previous time sheet has a rate type that is inactive, that rate type is not copied. If necessary, the user can enter a different rate type before saving the individual time cards.
 
-**Parent Topic:**[Create a time card](t_CreateATimeCard.md)
+**Parent Topic:**[Create a time card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateATimeCard.md)
 

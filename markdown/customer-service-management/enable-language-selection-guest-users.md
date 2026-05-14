@@ -17,7 +17,7 @@ When a user selects a preferred language, the portal content reloads into the se
 
 
 
-![Language selector widget with languages grouped by region.](../image/lang-selector-widget-grouped.png)
+![Language selector widget with languages grouped by region.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lang-selector-widget-grouped.png)
 
 If languages aren’t grouped, users can view all available languages as a full-screen experience.
 
@@ -25,9 +25,9 @@ If languages aren’t grouped, users can view all available languages as a full-
 
 
 
-![Language selector widget with languages in an ascending order without region grouping.](../image/lang-selector-widget-ungrouped.png)
+![Language selector widget with languages in an ascending order without region grouping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lang-selector-widget-ungrouped.png)
 
-**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 

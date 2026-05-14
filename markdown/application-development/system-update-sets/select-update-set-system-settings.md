@@ -27,11 +27,11 @@ When you change your application scope, the system automatically switches the cu
 
 1.  Select the Application scope icon \(![](../../applications/image/icon-scope.png)\) in Unified Navigation.
 
-    ![Application scope in page header](../image/AppScope_icon.png)
+    ![Application scope in page header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../image/AppScope_icon.png)
 
 2.  Select the update set you want to make current from the list available in the **Update set** field, using the **Filter** if needed.
 
-    ![Update set list](../image/UpdateSetList.png)
+    ![Update set list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../image/UpdateSetList.png)
 
     The update set you selected is confirmed with a check mark icon.
 
@@ -42,7 +42,7 @@ When you change your application scope, the system automatically switches the cu
 
 The update set picker is part of the Next Experience picker. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).
 
-For more information about application scoping, see [Application scope](../../applications/concept/c_ApplicationScope.md).
+For more information about application scoping, see [Application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../../applications/concept/c_ApplicationScope.md).
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/using-system-update-sets.md)
 

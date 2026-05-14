@@ -25,7 +25,7 @@ A change request records the detailed information about the change, such as the 
 
 If you use conflict detection, the planned start and end dates and the configuration item \(CI\) are required.
 
-**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+**Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ If you use conflict detection, the planned start and end dates and the configura
 
 You can create all three types of change from the **Change** module.1.  Navigate to **All** &gt; **Change** &gt; **Create New**.
 2.  Select **Normal**, **Emergency**, or **Standard** changes.
- If you're an upgrade customer and willing to use change models, you must enable the change model properties. For information on change models and its properties, see [Change models](../concept/change-models.md).
+ If you're an upgrade customer and willing to use change models, you must enable the change model properties. For information on change models and its properties, see [Change models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-models.md).
 
  When you enable the change model properties, you see the following tabs when you navigate to **All** &gt; **Change** &gt; **Create New**.
 
@@ -81,7 +81,7 @@ If the administrator enabled the change request copy option, you can create a ne
 4.  View the new change request record created using the selected template by selecting **Continue**.
  **Note:** When you select an existing template, information in the predefined fields will be populated. Template fields are either read-only or mandatory depending on the template field policies configured while creating the template.
 
-For more information on change templates, see [Change templates](../concept/change-templates.md).
+For more information on change templates, see [Change templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-templates.md).
 
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
@@ -124,7 +124,7 @@ Service
 
 </td><td>
 
-Business service that you want to make available for the change request.**Note:** If you select a business service as the configuration item and that business service is also listed as the configuration item in any other active task, the active tasks icon \(![Active tasks icon.](../image/other-active-task.png)\) appears. Select this icon to view the list of all the other active tasks that are affecting the business service. You can view the BSM map \(dependency view\) of the selected business service by clicking the dependency icon \(![Dependency icon.](../image/dependency-icon.png)\).
+Business service that you want to make available for the change request.**Note:** If you select a business service as the configuration item and that business service is also listed as the configuration item in any other active task, the active tasks icon \(![Active tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/other-active-task.png)\) appears. Select this icon to view the list of all the other active tasks that are affecting the business service. You can view the BSM map \(dependency view\) of the selected business service by clicking the dependency icon \(![Dependency icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/dependency-icon.png)\).
 
 </td></tr><tr><td>
 
@@ -144,11 +144,11 @@ Select **Add** to add a CI for the change. You can add a CI for a change in **Ne
 
 CI that the change applies to. Change requests can be associated with any type of CI, including service offerings, providing detailed access to SLA and availability requirements.When you select a dynamic CI group, all the configuration items related to the selected dynamic group will be populated in the Affected CIs related list. In the Affected CIs related list, you can also manually add and delete the dynamic CI groups. When you add a dynamic CI group, all the related CIs are added, and when you remove a dynamic CI group, the related CIs are removed.
 
- After selecting a CI, you can select the health dashboard icon \(![Health dashboard icon.](../image/Change_CIHealthIcon.png)\) to view the CI health details.
+ After selecting a CI, you can select the health dashboard icon \(![Health dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/Change_CIHealthIcon.png)\) to view the CI health details.
 
  **Note:** By default, Service Offering is filtered out and CIs with Principal Class are selected. The Principal Class filter functionality is applicable to new customers starting the Paris release.
 
- See [Refresh impacted services properties](../reference/refreshing-impacted-services-properties.md)
+ See [Refresh impacted services properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../reference/refreshing-impacted-services-properties.md)
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ Risk
 
 </td><td>
 
-Risk level for the change. The Risk value is **-- None --** until you define it as **High**, **Moderate**, or **Low**. You can also use [Risk Calculation and Risk Assessment](../concept/c_RskAsmtCalc.md) to drive the risk value of the change.
+Risk level for the change. The Risk value is **-- None --** until you define it as **High**, **Moderate**, or **Low**. You can also use [Risk Calculation and Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_RskAsmtCalc.md) to drive the risk value of the change.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Model
 
 </td><td>
 
-Change model being used for the change request.For information about Change models, see [Change models](../concept/change-models.md).
+Change model being used for the change request.For information about Change models, see [Change models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-models.md).
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Type
 
 </td><td>
 
-The type of change request. The field displays **Model** if the Change model has not been configured with a defined Type. This field is read-only.For information about creating Change models, see [Create a Change model](create-a-change-model.md).
+The type of change request. The field displays **Model** if the Change model has not been configured with a defined Type. This field is read-only.For information about creating Change models, see [Create a Change model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
 
 </td></tr><tr><td>
 
@@ -273,7 +273,7 @@ Detailed description of the change.
 
     3.  If there is an unplanned CI activity, select the **Unauthorized** check box to determine if the change is an unauthorized change.
 
-        For more information, see [Unauthorized change request](../concept/unauthorized-change-request.md).
+        For more information, see [Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/unauthorized-change-request.md).
 
         **Note:** This check box is available only for emergency change requests.
 
@@ -379,34 +379,34 @@ List of agenda items and details of respective items. For example, the meeting s
     -   Assess state: Group level approval for a normal change request. Approval records are automatically generated based on the **Assignment group**. You can conduct peer and technical reviews of the proposed change.
     -   Authorize state: An emergency change request.
     -   Scheduled state: Pre-approved standard changes.
-    **Note:** To mail the change record, select the more options icon \(![More options icon.](../image/more-options.png)\) in the content frame and select **Email**. Both the user who requested the change and the user who is assigned to the change are automatically populated in the list of recipients.
+    **Note:** To mail the change record, select the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/more-options.png)\) in the content frame and select **Email**. Both the user who requested the change and the user who is assigned to the change are automatically populated in the list of recipients.
 
     To view the calendar, select **View Calendar** in the title bar of the Change Request form.
 
 
 ## What to do next
 
-[Process a change request](t_ProcessAChangeRequest.md)
+[Process a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ProcessAChangeRequest.md)
 
--   **[Create a change request from a configuration item \(CI\)](t_CreateAChangeFromACI.md)**  
+-   **[Create a change request from a configuration item \(CI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChangeFromACI.md)**  
 Create a change request from a list of configuration items \(CIs\), or add selected CIs from a list to a change record.
--   **[Create a standard change request from the catalog](t_RaiseNewStdCngeFmTempl.md)**  
+-   **[Create a standard change request from the catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RaiseNewStdCngeFmTempl.md)**  
 You can create a standard change request from the published standard change catalog templates.
--   **[Copy a change request](copy-a-change-request.md)**  
+-   **[Copy a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)**  
 You can copy details of an active or canceled change request to a new change request.
--   **[Create a change task](create-a-change-task.md)**  
+-   **[Create a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-task.md)**  
 You can create change tasks for a change request. A change task is a piece of work related to the change request. For example, there can be tasks to plan the change, implement the change, and test, and review the work.
--   **[Unauthorized change request](../concept/unauthorized-change-request.md)**  
+-   **[Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/unauthorized-change-request.md)**  
 Understand how an unauthorized change activity on a configuration item \(CI\) is captured and managed, so that you can review and take timely action on this change.
 
-**Parent Topic:**[Using Change Management](../concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-change-management.md)
 
 **Related topics**  
 
 
-[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+[Legacy: State model and transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ChangeStateModel.md)
 
-[Place a change request on hold](t_PlaceAChangeRequestOnHold.md)
+[Place a change request on hold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_PlaceAChangeRequestOnHold.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 

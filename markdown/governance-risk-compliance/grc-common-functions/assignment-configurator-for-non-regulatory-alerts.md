@@ -23,8 +23,8 @@ An assignment rule must also meet these additional criteria to run:
 -   The task record must be unassigned. The record cannot have an existing value for either the `assigned_to` or `assignment_group` fields. Assignment rules cannot overwrite existing assignments \(including assignments set by a default value or a previously run assignment rule\).
 -   The assignment rule is the first rule that matches the table and conditions. If more than one assignment rule matches the conditions, only the rule with the lowest order value runs.
 
--   **[Configure assignments](configure-assignments.md)**  
+-   **[Configure assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-assignments.md)**  
 Assignment configuration rules help in automating organization’s task records such as action tasks, and non-task records such as issues, incidents, regulatory alerts, etc.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

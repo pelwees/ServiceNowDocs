@@ -17,13 +17,13 @@ An AI asset refers to a digital tool or resource that uses artificial intelligen
 
 ## Details
 
-For information on AI inventory, see [AI asset inventory](ai-inventory.md)
+For information on AI inventory, see [AI asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-inventory.md)
 
-For information on AI asset Lifecycle, see [AI asset lifecycle](ai-asset-lifecycle.md)
+For information on AI asset Lifecycle, see [AI asset lifecycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
 
-For information on approval playbook workflow, see [Create an AI Control Tower Playbook workflow](../task/create-a-playbook-workflow-for-now-assist-approvals.md).
+For information on approval playbook workflow, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/create-a-playbook-workflow-for-now-assist-approvals.md).
 
-For information on creating Now Assist approvals task, see [Create a Now Assist approval task](../task/create-an-now-assist-approval-task.md).
+For information on creating Now Assist approvals task, see [Create a Now Assist approval task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/create-an-now-assist-approval-task.md).
 
-For information on AI security tasks, see [AI Task](ai-task-all-security-tasks.md).
+For information on AI security tasks, see [AI Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-task-all-security-tasks.md).
 

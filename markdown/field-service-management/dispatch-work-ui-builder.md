@@ -29,7 +29,7 @@ For information on components and how to work with them in UI Builder, see [Cust
 
 You can configure nearly any area of Dispatcher Workspace in UI Builder. Three of the most common areas to update are the contextual side panel, the agent card, and the calendar. For more information see the following topics:
 
--   [Customizing the contextual side panel in Dispatcher Workspace with UI Builder](side-panel-ui-builder.md)
--   [Customizing the agent card in Dispatcher Workspace with UI Builder](agent-card-ui-builder.md)
--   [Customizing the calendar grid in Dispatcher Workspace with UI Builder](calendar-color-ui-builder.md)
+-   [Customizing the contextual side panel in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/side-panel-ui-builder.md)
+-   [Customizing the agent card in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/agent-card-ui-builder.md)
+-   [Customizing the calendar grid in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/calendar-color-ui-builder.md)
 

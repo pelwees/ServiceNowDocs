@@ -45,5 +45,5 @@ If the response from the `adcv2/supports_tls` request is `true`, inbound mTLS su
 
 If the response from the `adcv2/supports_tls` request is anything other than `true`, inbound mTLS support isn't activated on your instance. Open a service request case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to ask Customer Service and Support to activate inbound mTLS support on your instance.
 
-**Parent Topic:**[Install External Content Connectors](install-ext-cont-connectors.md)
+**Parent Topic:**[Install External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ext-cont-connectors.md)
 

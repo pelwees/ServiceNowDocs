@@ -53,7 +53,7 @@ The Now Assist for TMT application includes the following generative AI skills:
 
     Sentiment analysis helps agents to identify the most current sentiment on the service problem cases. This skill enables you to select the relevant linked records for ADR case record.
 
-    ![Customer sentiment view on a service problem case.](../image/now-assist-sentiment-analysis.png "Example for Service Problem Case sentiment analysis")
+    ![Customer sentiment view on a service problem case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-sentiment-analysis.png "Example for Service Problem Case sentiment analysis")
 
 
 -   **Comprehensive Summary of Linked Records**
@@ -65,7 +65,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Resolution steps completed
     -   Outstanding gaps
     -   Recommended direction
-    ![ADR Complaint summary by Now Assist view.](../image/now-assist-comp-summary-linked-records.png "Example for comprehensive summary of linked records")
+    ![ADR Complaint summary by Now Assist view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-comp-summary-linked-records.png "Example for comprehensive summary of linked records")
 
 
 -   **Deadlock letter draft generation**
@@ -77,7 +77,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Chronological sequence of events
     -   Identified findings
     -   Resolution steps completed
-    ![Deadlock letter draft generation view.](../image/now-assit-deadlock-letter.png "Example for deadlock letter draft generation")
+    ![Deadlock letter draft generation view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assit-deadlock-letter.png "Example for deadlock letter draft generation")
 
 
 -   **Resolution notes generation for ADR**
@@ -87,12 +87,12 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Issue
     -   Cause
     -   Resolution steps
-    ![Resolution notes view in an ADR case record.](../image/now-assit-propose-resolution-adr.png "Example for resolution notes generation for ADR")
+    ![Resolution notes view in an ADR case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assit-propose-resolution-adr.png "Example for resolution notes generation for ADR")
 
 
 -   **Customer service summary**
 
-    Summarize the service details mentioning the current situation, any critical actions to be taken and find the root cause indicators using the knowledge graph and service summary skill.![Generate service summary.](../image/now-assist-generate-summary.png)
+    Summarize the service details mentioning the current situation, any critical actions to be taken and find the root cause indicators using the knowledge graph and service summary skill.![Generate service summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-generate-summary.png)
 
 
 -   **Service Problem Case summarization**
@@ -122,17 +122,17 @@ The Now Assist for TMT application includes the following generative AI skills:
         -   Short description
         -   Work notes
         -   state
-    ![Service problem case summary.](../image/serviceproblemcase-summary.png)
+    ![Service problem case summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/serviceproblemcase-summary.png)
 
 -   **Resolution notes generation**
 
-    Generates resolution notes for a service problem case, proposes the resolution to the customer, and adds the information to the service problem case record.![Resolution notes summary.](../image/resolution-notes-summary.png)
+    Generates resolution notes for a service problem case, proposes the resolution to the customer, and adds the information to the service problem case record.![Resolution notes summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/resolution-notes-summary.png)
 
 -   **Test summarization**
 
     Generates a test run summary after the test is executed. It includes the main points covered during the test execution, including the test output, test interpretation, and other defined test parameters. An agent can generate a test summary of the executed tests to identify the root cause of the problem.
 
-    ![Test summary.](../image/test-summary.png)
+    ![Test summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/test-summary.png)
 
 -   **Knowledge generation**
 
@@ -140,7 +140,7 @@ The Now Assist for TMT application includes the following generative AI skills:
 
     The knowledge generation skill displays a pop-up window that an agent can use to generate a knowledge article that is based on similar cases and review it before publishing the knowledge article draft.
 
-    ![knowledge article pop-up window.](../image/serviceproblemcase-knowledge-article.png)
+    ![knowledge article pop-up window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/serviceproblemcase-knowledge-article.png)
 
 -   **Account onboarding case summarization**
 
@@ -153,7 +153,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Development &amp; Automation
     -   Testing &amp; Training
     -   Go-live &amp; Post-Support
-    ![Account onboarding case summary.](../image/accountonboarding-summary.png)
+    ![Account onboarding case summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/accountonboarding-summary.png)
 
 -   **Engagement summarization**
 
@@ -164,7 +164,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Title
     -   Description
     -   Work notes
-    ![Engagement summary.](../image/engagement-summary.png)
+    ![Engagement summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/engagement-summary.png)
 
 -   **Touchpoint summarization**
 
@@ -176,7 +176,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Description
     -   Work notes
     -   Additional comments
-    ![Touchpoint summary.](../image/touchpoint-summary.png)
+    ![Touchpoint summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/touchpoint-summary.png)
 
 -   **Transform mapping assist**
 
@@ -191,7 +191,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Overview
     -   Progress updates
     -   Next steps
-    ![Customer play summary](../image/customer-play-summary.jpg)
+    ![Customer play summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customer-play-summary.jpg)
 
 -   **Internal play summarization**
 
@@ -202,7 +202,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Overview
     -   Progress updates
     -   Next steps
-    ![Internal play summary](../image/internal-play-summary.jpg)
+    ![Internal play summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/internal-play-summary.jpg)
 
 -   **Success initiative summarization**
 
@@ -213,11 +213,11 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Overview
     -   Progress updates
     -   Next steps
-    ![Success initiative summary](../image/success-init-summary.jpg)
+    ![Success initiative summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/success-init-summary.jpg)
 
 -   **Analyze metric data trend**
 
-    Collects and analyzes metric data, processes large data sets, identifies patterns and anomalies. Provides clear actionable insights that enables the [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](now-assist-tmt-monitor-health.md) to make informed decisions and take appropriate actions.
+    Collects and analyzes metric data, processes large data sets, identifies patterns and anomalies. Provides clear actionable insights that enables the [Now Assist for Telecommunications, Media and Technology \(TMT\) AI agent collection monitor engagement health agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-monitor-health.md) to make informed decisions and take appropriate actions.
 
 -   **Risk signal and issues summarization**
 
@@ -228,7 +228,7 @@ The Now Assist for TMT application includes the following generative AI skills:
     -   Overview
     -   Progress update
     -   Next steps
-    ![risk signal and issues summarization.](../image/now-assist-risk-signal-issue.png)
+    ![risk signal and issues summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-risk-signal-issue.png)
 
 
 ## Now Assist panel in CSM/FSM Configurable Workspace
@@ -241,7 +241,7 @@ This conversational interface enables an agent to request a service problem case
 
 Remote Hands Request Summarization is an Now Assist capability that provides a contextual overview of a Remote Hands case by combining current case data with insights from similar historical cases. Users with the Remote Hands Agent role can generate a summarized view of a Remote Hands case by selecting the **Summarize** option from either the Remote Hands Case table or the CSM/FSM Configurable Workspace.
 
-![Image displays the example for Remote hands case summary](../image/remote-hands-summary.png)
+![Image displays the example for Remote hands case summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/remote-hands-summary.png)
 
 The comprehensive summary includes the following sections:
 
@@ -252,7 +252,7 @@ The comprehensive summary includes the following sections:
 -   Case Issue: The Case Issue displays the Short Description of the related case
 -   Case Resolution: The Case Resolution displays the Resolution Notes recorded in the related case
 
-![Image displays the components in the Remote Hands Summary.](../image/remote-hands-summary-details.png)
+![Image displays the components in the Remote Hands Summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/remote-hands-summary-details.png)
 
 **Related topics**  
 

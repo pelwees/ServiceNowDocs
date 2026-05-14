@@ -46,12 +46,12 @@ Publish and distribute the quiz. You can send the quiz to a single user or all u
 
 Review the results from the submitted quizzes in reports and scorecards.
 
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/using-quizzes.md)
 
 **Related topics**  
 
 
-[Create a quiz](t_CreateaQuiz.md)
+[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[Metric templates](../reference/r_MetricTemplates.md)
+[Metric templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_MetricTemplates.md)
 

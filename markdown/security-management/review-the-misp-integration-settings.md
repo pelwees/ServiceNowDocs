@@ -116,8 +116,8 @@ Rollup of MITRE-ATT&amp;CK information from the MISP observable enrichment resul
 </td></tr></tbody>
 </table>    **Note:**
 
-    -   To use the MITRE™ technique extraction features in MISP, you must [enable the MITRE-ATT&amp;CK feature in the Threat Intelligence module](../../threat-intelligence/reference/get-started-with-mitre.md).
-    -   The MISP integration for Security Operations introduces two base system MITRE-ATT&amp;CK technique extraction rules for MISP - MISP galaxies and MISP tags. For more information on auto-extraction rules in MITRE-ATT&amp;CK, see [auto-extract technique rules for importing MITRE-ATT&amp;CK information](../../threat-intelligence/concept/auto-extract-technique-rules.md#).
+    -   To use the MITRE™ technique extraction features in MISP, you must [enable the MITRE-ATT&amp;CK feature in the Threat Intelligence module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/reference/get-started-with-mitre.md).
+    -   The MISP integration for Security Operations introduces two base system MITRE-ATT&amp;CK technique extraction rules for MISP - MISP galaxies and MISP tags. For more information on auto-extraction rules in MITRE-ATT&amp;CK, see [auto-extract technique rules for importing MITRE-ATT&amp;CK information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../threat-intelligence/concept/auto-extract-technique-rules.md#).
 3.  Click **Save**.
 
 
@@ -125,26 +125,26 @@ Rollup of MITRE-ATT&amp;CK information from the MISP observable enrichment resul
 
 Your modified integration settings are saved and applied.
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](../reference/get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/install-and-configure-misp.md)
 
-[Configure MISP sighting searches](configure-sightings-search.md)
+[Configure MISP sighting searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configure-sightings-search.md)
 
-[Configure how an automatic event is created](configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-event-data.md)
 
-[Associated MISP events](../reference/associated-misp-events.md)
+[Associated MISP events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/associated-misp-events.md)
 
-[MISP user information](../reference/misp-user-information.md)
+[MISP user information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/misp-user-information.md)
 
-[Domain separation and MISP](../reference/domain-separation-and-misp.md)
+[Domain separation and MISP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/domain-separation-and-misp.md)
 
-[Troubleshooting MISP integration](../reference/troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/troubleshooting-misp-integration.md)
 

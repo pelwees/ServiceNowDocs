@@ -31,22 +31,22 @@ A page is content that lives at a specific URL. When a user opens the URL, they 
 
     The Experiences page opens.
 
-    ![The Experiences page opens where you can filter the Display name field to search for Service Operations Workspace.](../image/ui-builder-display-name-filter.png)
+    ![The Experiences page opens where you can filter the Display name field to search for Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/ui-builder-display-name-filter.png)
 
 3.  Open **Service Operations Workspace** by selecting it.
 
-4.  Next to **Pages and variants**, select the plus icon \(![Plus icon to open a window where you have options to create a new page or to duplicate and existing page.](../image/icon-ui-builder-plus.png)\).
+4.  Next to **Pages and variants**, select the plus icon \(![Plus icon to open a window where you have options to create a new page or to duplicate and existing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-ui-builder-plus.png)\).
 
-    ![Option to create a page or duplicate a page.](../image/ui-builder-page-window.png)
+    ![Option to create a page or duplicate a page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/ui-builder-page-window.png)
 
 5.  Select **Add a variant to a page**.
 
     The Add variant to an existing page window opens.
 
-    ![The Add variant to an existing page window from where you can select variant to add for an existing page. You can also duplicate one of the variants.](../image/ui-builder-add-variant.png)
+    ![The Add variant to an existing page window from where you can select variant to add for an existing page. You can also duplicate one of the variants.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/ui-builder-add-variant.png)
 
 6.  To create a duplicate page content in the existing URL path, select **Duplicate** and follow the steps.
 
 
-**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](customize-sow-landing-page-itom.md)
+**Parent Topic:**[Customize the Service Operations Workspace for ITOM home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-sow-landing-page-itom.md)
 

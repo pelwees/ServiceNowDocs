@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Procure an Amazon Web Services \(AWS\) account with the administrative access to complete the setup of SMS integration and ensure to set up integration on Amazon Web Services before this. To learn how to set up integration on AWS, see [Set up SMS End User Messaging Service and AWS resources](set-up-sms-integration-on-amazon-web-services.md).
+Procure an Amazon Web Services \(AWS\) account with the administrative access to complete the setup of SMS integration and ensure to set up integration on Amazon Web Services before this. To learn how to set up integration on AWS, see [Set up SMS End User Messaging Service and AWS resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-sms-integration-on-amazon-web-services.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Procure an Amazon Web Services \(AWS\) account with the administrative access to
         |-----|-----------|
         |Name|Name of the auth token, such as AWSSMSTestAppAuthToken|
         |Description|Description of the auth token.|
-        |Secret|Key value generated while uploading the key material to KMS key during the AWS setup. To learn more about key value, see [Set up SMS End User Messaging Service and AWS resources](set-up-sms-integration-on-amazon-web-services.md).|
+        |Secret|Key value generated while uploading the key material to KMS key during the AWS setup. To learn more about key value, see [Set up SMS End User Messaging Service and AWS resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-sms-integration-on-amazon-web-services.md).|
         |Domain|Domain of the hash message, such as global.|
 
     3.  Select **Update**.
@@ -220,5 +220,5 @@ AWS IAM Auth.
 </table>    5.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](../concept/configure-ci-sms-with-aws.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-ci-sms-with-aws.md)
 

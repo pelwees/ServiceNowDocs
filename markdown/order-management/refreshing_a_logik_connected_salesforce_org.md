@@ -28,7 +28,7 @@ To complete the CPQ side of the refresh, create a Support case. Provide the foll
 -   The SFDC My Domain URL \(if changed\)
 -   The SFDC Usernames for users that will need CPQ Admin access
 -   Whether you want to change the CPQ environment host name, and if so, what it should be
--   The provisioning username with the email address of [provisioning@logik.io](mailto:provisioning@logik.io) and system administrator privileges.
+-   The provisioning username with the email address of [provisioning@logik.io](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/mailto:provisioning@logik.io) and system administrator privileges.
 
 Once the environment is refreshed, you will need to:
 

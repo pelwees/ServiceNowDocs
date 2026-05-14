@@ -21,7 +21,7 @@ AES is a web user interface that lets you build custom applications for your org
 
 The App Engine Studio home page provides easy access to creating apps, viewing your app, quick start actions, and templates.
 
-Use the top navigation bar to view your apps, access app templates, and find help resources. You can also access the help center by selecting the ![Help center icon](../image/aes-help-center-icon.png) in the top right.
+Use the top navigation bar to view your apps, access app templates, and find help resources. You can also access the help center by selecting the ![Help center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-help-center-icon.png) in the top right.
 
 Users can access the following in AES:
 
@@ -51,7 +51,7 @@ Add data, experience, logic and automation, and security to your app from the ap
 
 **Note:** When viewing an app home page in AES, if you tab to a section \(such as tables or experiences\) with more than three items, the **Sort by** option enables you to display them alphabetically or temporally, by **Newest** or **Oldest**.
 
-Some objects require access depending on your role. You can request access by selecting **Contact your system administrator** to become a delegated developer. For more information on the delegated developer role, see [Delegate developers using AES](aes-app-dev-workflow.md).
+Some objects require access depending on your role. You can request access by selecting **Contact your system administrator** to become a delegated developer. For more information on the delegated developer role, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-app-dev-workflow.md).
 
 ## Application properties
 
@@ -61,5 +61,5 @@ View general settings of your application such as the name, description, and log
 
 View and edit the source control repository settings for your application.
 
-![View and edit application repository configurations](../image/aes-app-properties-repo-purple.png)
+![View and edit application repository configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-app-properties-repo-purple.png)
 

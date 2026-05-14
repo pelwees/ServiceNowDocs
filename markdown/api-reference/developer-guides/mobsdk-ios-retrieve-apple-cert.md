@@ -27,7 +27,7 @@ You must already have an Apple Developer account set up. For information on how 
 
     A screen similar to the following appears.
 
-    ![Apple Developer account Identifiers](../image/mobsdk-ios-retrieve-cert-1.png)
+    ![Apple Developer account Identifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-ios-retrieve-cert-1.png)
 
 2.  Select the **Push Notifications** check box and then select **Edit**.
 
@@ -39,7 +39,7 @@ You must already have an Apple Developer account set up. For information on how 
 
 6.  Right-click the certificate and then select the **Export** option.
 
-    ![Export Apple Push Services](../image/mobsdk-ios-cert-export.png)
+    ![Export Apple Push Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-ios-cert-export.png)
 
 7.  Ensure that the **File Format** field is set to `Personal Information Exchange (.p12)`.
 

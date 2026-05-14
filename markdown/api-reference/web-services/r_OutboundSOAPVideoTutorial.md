@@ -17,5 +17,5 @@ The following video tutorial demonstrates how to configure outbound SOAP web ser
 
 Outboud SOAP video tutorial
 
-**Parent Topic:**[Outbound SOAP web service](../concept/c_OutboundSOAPWebService.md)
+**Parent Topic:**[Outbound SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OutboundSOAPWebService.md)
 

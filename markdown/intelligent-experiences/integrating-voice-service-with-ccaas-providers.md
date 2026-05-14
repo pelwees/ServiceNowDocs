@@ -13,10 +13,10 @@ breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences
 
 Enable users to get voice-based support from ServiceNow AI voice agents by integrating ServiceNow voice assistant with supported third-party CCaaS \(Contact Center as a Service\) providers.
 
--   **[Integrate ServiceNow voice assistant with Twilio voice service](integrate-voice-service-with-twilio.md)**  
+-   **[Integrate ServiceNow voice assistant with Twilio voice service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-twilio.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with the Twilio voice service.
--   **[Integrate ServiceNow voice assistant with Genesys Cloud service](integrate-voice-service-with-genesys.md)**  
+-   **[Integrate ServiceNow voice assistant with Genesys Cloud service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-genesys.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with the Genesys Cloud service.
 
-**Parent Topic:**[Deploy AI voice agents](../reference/deploy-ai-agents-for-voice.md)
+**Parent Topic:**[Deploy AI voice agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/deploy-ai-agents-for-voice.md)
 

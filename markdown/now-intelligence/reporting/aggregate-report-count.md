@@ -27,7 +27,7 @@ These images compare Count and Count Distinct. The first shows that the raw coun
 
 |Count|Count Distinct|
 |-----|--------------|
-|![Bar chart aggregated by Count with four bars, one showing the count for 90 days equals 632.](../image/aggregation-count.png)|![Bar chart aggregated by Count Distinct with four bars, one showing the distinct count for 90 days equals 8.](../image/aggregation-count-distinct.png)|
+|![Bar chart aggregated by Count with four bars, one showing the count for 90 days equals 632.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-count.png)|![Bar chart aggregated by Count Distinct with four bars, one showing the distinct count for 90 days equals 8.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-count-distinct.png)|
 
 ## Procedure
 

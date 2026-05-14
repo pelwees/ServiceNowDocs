@@ -38,6 +38,6 @@ Follow these steps to enable Dynamic Guidance on Help Center and Now Assist pane
 
 ## What to do next
 
--   Configure external content connectors to integrate with Dynamic Guidance. See [External content connector in Dynamic Guidance](external-content-connector-in-dynamic-guidance.md).
--   Link Dynamic Guidance to additional documentation sources. See [Adding custom sources](../task/adding-custom-sources.md).
+-   Configure external content connectors to integrate with Dynamic Guidance. See [External content connector in Dynamic Guidance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/external-content-connector-in-dynamic-guidance.md).
+-   Link Dynamic Guidance to additional documentation sources. See [Adding custom sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../task/adding-custom-sources.md).
 

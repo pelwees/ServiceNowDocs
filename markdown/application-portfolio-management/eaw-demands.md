@@ -15,12 +15,12 @@ You can use a demand as a step to identify cost-saving opportunities on applicat
 
 The strategy that you associate with the demand action decides the strategy for the application.
 
-**Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
+**Parent Topic:**[Exploring the business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View all demands](../../task/eaw-task/eaw-view-all-demands.md)
+[View all demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-demands.md)
 
-[Add or edit a demand](../../task/eaw-task/eaw-create-demand-ba.md)
+[Add or edit a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-demand-ba.md)
 

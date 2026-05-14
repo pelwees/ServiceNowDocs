@@ -15,7 +15,7 @@ breadcrumb: [Use AES with a Git source control repository, Build, App Engine Stu
 
 App developers using App Engine Studio \(AES\) can create versions and branches in their Git repositories.
 
-**Parent Topic:**[Use AES with a Git source control repository](aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-source-control-use.md)
 
 ## Create a tag to link to a particular application version
 
@@ -24,7 +24,7 @@ Create a tag in the repository to link to a particular app version in App Engine
 ### Before you begin
 
 -   Role required: admin or sn\_group\_creator.app\_creator
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/source-control-link-application.md)
 
 ### Procedure
 
@@ -34,7 +34,7 @@ Create a tag in the repository to link to a particular app version in App Engine
 
 3.  Select **Source control** &gt; **Create tag**.
 
-    App Engine Studio opens the Create Branch window.![Create tag window](../image/source-control-create-tag-purple.png)
+    App Engine Studio opens the Create Branch window.![Create tag window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-create-tag-purple.png)
 
 4.  Enter the **Tag Name**.
 
@@ -66,7 +66,7 @@ Application developers can switch to a different repository branch to work on an
 
 3.  Select **Source control** &gt; **Switch branch**.
 
-    ![Switch branch menu item](../image/source-control-switch-branch-purple.png)
+    ![Switch branch menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-switch-branch-purple.png)
 
     The system displays the Switch Branch window.
 
@@ -93,7 +93,7 @@ Application developers can create a branch to work on a new version of an existi
 ### Before you begin
 
 -   Role required: admin or sn\_group\_creator.app\_creator
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/source-control-link-application.md)
 
 ### Procedure
 
@@ -105,7 +105,7 @@ Application developers can create a branch to work on a new version of an existi
 
     App Engine Studio opens the Create Branch window.
 
-    ![Create Branch window](../image/source-control-create-branch-name-purple.png)
+    ![Create Branch window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-create-branch-name-purple.png)
 
 4.  Enter the **Branch Name**.
 
@@ -115,7 +115,7 @@ Application developers can create a branch to work on a new version of an existi
 
     App Engine Studio creates the branch.
 
-    ![Create Branch window showing the success message.](../image/source-control-create-branch-done-purple.png)
+    ![Create Branch window showing the success message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-create-branch-done-purple.png)
 
 7.  Select **Close**.
 
@@ -131,7 +131,7 @@ Set a default branch when you want to use a branch other than main for new chang
 ### Before you begin
 
 -   Role required: admin
--   [Link an application or application-customization to source control](../task/source-control-link-application.md)
+-   [Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/source-control-link-application.md)
 
 ### Procedure
 

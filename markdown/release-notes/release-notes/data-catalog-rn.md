@@ -78,5 +78,5 @@ Install Data Catalog by requesting it from the ServiceNow Store. Visit the [Serv
     The ServiceNow® MID Server provides secure bidirectional communication between your ServiceNow instance and external platforms. Metadata collectors use the MID Server to reach data sources in on-premises or private cloud environments not directly accessible from your instance.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

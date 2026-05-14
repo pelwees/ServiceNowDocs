@@ -29,25 +29,25 @@ The benefits of using clause variations in document templates are:
 
 ## Related information
 
--   [Create or edit a contract clause](../task/cncore-create-clause-library.md)
--   [Create a clause variation](../task/cncore-add-clauses-doc-tmplt.md)
--   [Add metadata to a clause using add-in](cncore-add-meta-cls-addin.md)
+-   [Create or edit a contract clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-create-clause-library.md)
+-   [Create a clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-add-clauses-doc-tmplt.md)
+-   [Add metadata to a clause using add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-meta-cls-addin.md)
 
--   **[Create or edit a contract clause](../task/cncore-create-clause-library.md)**  
+-   **[Create or edit a contract clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-create-clause-library.md)**  
 As a contract configurator, create or modify clauses that manage clause variations that are mapped to contract templates.
--   **[Create a clause variation](../task/cncore-add-clauses-doc-tmplt.md)**  
+-   **[Create a clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-add-clauses-doc-tmplt.md)**  
 As a contract configurator, create a clause variation to use in a contract template for predefined condition.
--   **[Add metadata to a clause using add-in](cncore-add-meta-cls-addin.md)**  
+-   **[Add metadata to a clause using add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-meta-cls-addin.md)**  
 As a contract configurator, add metadata to pre-fill information that will be placed in the contract document.
 
-**Parent Topic:**[Configure templates for a contract and amendment request in Contract Management Pro](cncore-document-templates.md)
+**Parent Topic:**[Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-document-templates.md)
 
 **Related topics**  
 
 
-[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-setup-ct-add-in.md)
+[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-setup-ct-add-in.md)
 
-[Create contract template by manually adding content controls](cncore-setup-ct-manual.md)
+[Create contract template by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-setup-ct-manual.md)
 
-[Publish a contract template](../task/cncore-publish-template.md)
+[Publish a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-publish-template.md)
 

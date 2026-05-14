@@ -21,12 +21,12 @@ Create a business unit to define your organizational functions.
 |Description|A description of the business unit.|
 |Parent|Refers to another business unit. The **Parent** field makes the business unit a hierarchy element.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring business units](../../concept/eaw-concept/eaw-business-units.md)
+[Exploring business units](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-business-units.md)
 
-[Add or edit a business unit](../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
+[Add or edit a business unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
 

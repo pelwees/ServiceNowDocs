@@ -41,7 +41,7 @@ Automated tasks are executed sequentially until a manual task is encountered. If
 
 4.  On the form, fill in the fields.
 
-    For more information on creating a customized subflow for automating the tasks in the BCM application, see [Create a subflow form](../reference/create-new-subflow-for-bcm.md).
+    For more information on creating a customized subflow for automating the tasks in the BCM application, see [Create a subflow form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-subflow-for-bcm.md).
 
     For more information on creating a subflow, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md).
 
@@ -55,7 +55,7 @@ Automated tasks are executed sequentially until a manual task is encountered. If
 
     To establish a reference to the record linked to the task, you can specify the name and type for the input in the Inputs &amp; Outputs section of the subflow. By defining the inputs, you can create a reference to the task responsible for executing the automation.
 
-    ![Reference to the task.](../image/automated-tasks-input.png)
+    ![Reference to the task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/automated-tasks-input.png)
 
     1.  Select the label for the input in the **Label** field.
 
@@ -79,7 +79,7 @@ Automated tasks are executed sequentially until a manual task is encountered. If
 
 7.  In the Actions section, select **Send Email**.
 
-    Expanding the Send Email section displays the fields as shown in the example. The fields on the form are described in the table. ![Revised subflow.](../image/automated-tasks-revised-subflow.png)
+    Expanding the Send Email section displays the fields as shown in the example. The fields on the form are described in the table. ![Revised subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/automated-tasks-revised-subflow.png)
 
 <table id="table_fxr_ghx_hbc"><thead><tr><th>
 
@@ -168,7 +168,7 @@ Description and action steps about the issue.
 
 9.  Select **Update record** in the Actions section of the subflow.
 
-    You can update the original plan task to be completed by updating the record section of the subflow. ![Update the record.](../image/automated-tasks-update-record.png)
+    You can update the original plan task to be completed by updating the record section of the subflow. ![Update the record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/automated-tasks-update-record.png)
 
     1.  In the **Action** field, select **Update record**.
 
@@ -188,13 +188,13 @@ Description and action steps about the issue.
 
     The recovery task form is displayed.
 
-    ![Tasks in the Automated flow field.](../image/automated-tasks-automated-flow.png)
+    ![Tasks in the Automated flow field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/automated-tasks-automated-flow.png)
 
 12. In the **Task classification** field, select **Automated** to change the manual task to an automated task and select **Save**.
 
     After saving the form, the flow variables are displayed.
 
-    When you select and save the task, the variables associated with the automated flow are displayed in the **Variables** field of the recovery task.![Variables for the automated flow.](../image/automated-tasks-variable.png)
+    When you select and save the task, the variables associated with the automated flow are displayed in the **Variables** field of the recovery task.![Variables for the automated flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/automated-tasks-variable.png)
 
 13. In the Assignment details, confirm that the **Backup assignee** field is filled in.
 
@@ -205,8 +205,8 @@ Description and action steps about the issue.
     The Recovery task form now includes a Task classification column where the automated tasks are displayed. These automated tasks are executed automatically by the system as part of the plan.
 
 
--   **[Create a subflow form](../reference/create-new-subflow-for-bcm.md)**  
+-   **[Create a subflow form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-subflow-for-bcm.md)**  
 Use the Create a subflow form to automate a manual recovery task within the business continuity plan.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

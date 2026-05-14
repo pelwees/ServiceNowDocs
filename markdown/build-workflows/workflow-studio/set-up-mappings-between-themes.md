@@ -69,5 +69,5 @@ The mapping between your Service Portal theme and the UXF theme is saved. Launch
 
 Embed a playbook in a Service Portal page and customize the Service Portal playbook runtime experience in the ServiceNow AI Platform®.
 
-To learn more about customizing the playbook runtime experience in Service Portal, see [Configure a playbook for Service Portal](embed-playbook-service-portal.md).
+To learn more about customizing the playbook runtime experience in Service Portal, see [Configure a playbook for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/embed-playbook-service-portal.md).
 

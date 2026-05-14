@@ -169,5 +169,5 @@ return global.JSON.stringify(cloudModelString);
 
 ```
 
-**Parent Topic:**[Configure a response processor](../task/configure-response-processor.md)
+**Parent Topic:**[Configure a response processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../task/configure-response-processor.md)
 

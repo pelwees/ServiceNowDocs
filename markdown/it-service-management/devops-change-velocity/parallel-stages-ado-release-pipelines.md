@@ -25,7 +25,7 @@ You can also see the details of the processed stages in the pipeline UI.
 
 **Important:** Support for parallel stages is restricted to Release pipelines. Build pipelines continue to appear in a sequential or serial manner in the DevOps pipeline UI, even if parallel stages are configured for build pipelines in Azure DevOps.
 
-![ADO pipeline with parallel stages](../image/ado-parallel-stage-pipeline-ui.png "ADO pipeline with parallel stages")
+![ADO pipeline with parallel stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-parallel-stage-pipeline-ui.png "ADO pipeline with parallel stages")
 
 Sample ADO pipeline with parallel stages
 
@@ -126,5 +126,5 @@ Ensure that you review the following considerations before upgrading.
 
 **Note:** A package is created for each start stage but any one package is associated per pipeline execution.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 

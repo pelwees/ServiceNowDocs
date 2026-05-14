@@ -28,10 +28,10 @@ This behavior can be customized in transform map scripts.
 
 Currency values can be exported in several formats, including CSV, XLSX, PDF, and XML. Depending on the export format, currency values are exported in the user’s session currency and formatted in the user’s locale or they're exported in the reference currency value with no formatting.
 
-**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
 **Related topics**  
 
 
-[Exporting currency fields to Excel](../../exporting-data/concept/c_ExportingCurrencyFields.md)
+[Exporting currency fields to Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../../exporting-data/concept/c_ExportingCurrencyFields.md)
 

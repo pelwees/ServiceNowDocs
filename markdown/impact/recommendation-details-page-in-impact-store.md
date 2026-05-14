@@ -19,7 +19,7 @@ The recommendation details page displays information for a recommendation includ
 
 You can use the **Overview** section to view detailed and relevant information regarding the recommendation for your product area.
 
-![Work items tab in recommendations window](../image/recommendations-details-workitems.png)
+![Work items tab in recommendations window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/recommendations-details-workitems.png)
 
 The **Work Items** section of the recommendations page displays the actionable SPM and Collaborative Work Management \(CWM\) work items created for the selected recommendation. You can use the Work Items section for the following actions.
 

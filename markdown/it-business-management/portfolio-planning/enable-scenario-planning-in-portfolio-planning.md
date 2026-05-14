@@ -27,7 +27,7 @@ Scenario planning is enabled by default. Use the following steps to disable or e
 
 1.  Navigate to **All** &gt; **System properties** &gt; **All properties**.
 
-2.  Search for the property **sn\_align\_ws.is\_scenario\_planning\_disabled**.![Use the sn_align_ws.is_scenario_planning_disabled property to enable or disable scenario planning](../../spw-scenario-planning/image/enable-scenario-planning-in-strategic-management.png)
+2.  Search for the property **sn\_align\_ws.is\_scenario\_planning\_disabled**.![Use the sn_align_ws.is_scenario_planning_disabled property to enable or disable scenario planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-scenario-planning/image/enable-scenario-planning-in-strategic-management.png)
 
 3.  Verify the value of the property.
 
@@ -36,5 +36,5 @@ Scenario planning is enabled by default. Use the following steps to disable or e
 
 ## What to do next
 
-[Create a scenario](create-a-scenario-in-portfolio-planning.md)
+[Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-a-scenario-in-portfolio-planning.md)
 

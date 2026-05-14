@@ -43,26 +43,26 @@ When a user clicks a survey module, the system performs one of the following act
 4.  Complete and save the form.
 
 
-**Parent Topic:**[Survey distribution](../concept/c_SurveyDistribution.md)
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDistribution.md)
 
 **Related topics**  
 
 
-[Email notifications for surveys](../concept/email-notification-for-surveys.md)
+[Email notifications for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/email-notification-for-surveys.md)
 
-[Send survey invitations to users](t_SendSurveyInvitationsToUsers.md)
+[Send survey invitations to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md)
 
-[Define a recipients list for surveys](define-recipient-list.md)
+[Define a recipients list for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md)
 
-[Add a recipients list to a survey](add-recipient-list-survey.md)
+[Add a recipients list to a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-recipient-list-survey.md)
 
-[Embed a survey within the Outlook email client](embed-survey-in-outlook-email.md)
+[Embed a survey within the Outlook email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/embed-survey-in-outlook-email.md)
 
-[Enable localization for a survey](enable-localization-survey.md)
+[Enable localization for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/enable-localization-survey.md)
 
-[Survey URLs](../concept/c_SurveyURLs.md)
+[Survey URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyURLs.md)
 
-[Sharing surveys](../concept/c_SurveyInportAndExport.md)
+[Sharing surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyInportAndExport.md)
 
-[Configure a survey in the Connect chat support](take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/take-survey-connect-chat.md)
 

@@ -35,7 +35,7 @@ When you open multiple tasks, Dispatcher Workspace displays today's date, not th
 
 3.  Select **Actions on selected rows** &gt; **Open in Dispatcher Workspace**.
 
-    ![opening work order tasks from the list](../image/open-from-platform.png)
+    ![opening work order tasks from the list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/open-from-platform.png)
 
     The tasks open in Dispatcher Workspace. You can save the URL to open the same work order tasks in Dispatcher Workspace later.
 

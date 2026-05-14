@@ -33,13 +33,13 @@ You can view information about a customer's purchased products and services, del
 
 4.  Scroll through the Sold Products tree view to view the details about the sold product and the list of install base items that belong to it.
 
-    ![Install Base tab for the account includes information about Sold Products and the associated install base items.](../image/product-model-view.jpg)
+    ![Install Base tab for the account includes information about Sold Products and the associated install base items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/product-model-view.jpg)
 
-5.  On the form header, select the Hierarchy icon ![Sold product hierarchy icon.](../image/hierarchy.png) to see the full product model that the sold product is part of.
+5.  On the form header, select the Hierarchy icon ![Sold product hierarchy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/hierarchy.png) to see the full product model that the sold product is part of.
 
     The product model hierarchy opens in a separate window. Unpurchased product components have a shopping cart icon next to them.
 
-    ![Product model showing different purchased and unpurchased product components.](../image/product-model.jpg)
+    ![Product model showing different purchased and unpurchased product components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/product-model.jpg)
 
 6.  View the install base items and related lists in the configurable workspace by navigating to **Products** &gt; **Install Base item**.
 

@@ -46,7 +46,7 @@ Use per‑size overrides when:
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
@@ -59,7 +59,7 @@ Use per‑size overrides when:
     -   Scroll through the list of icon illustrations in the main stage. Use the records-per-page control to view 10, 20, 50, or 100 icons at a time as you browse.
     Once you have selected an illustration, the property panel opens.
 
-    ![Image styles tab selected with icon illustrations listed on main stage and property panel opened.](../image/tb-icon-property-panel.png "Image styles tab with Icons expanded")
+    ![Image styles tab selected with icon illustrations listed on main stage and property panel opened.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-icon-property-panel.png "Image styles tab with Icons expanded")
 
 6.  From the property panel, select the file name for the icon size you want to override.
 
@@ -69,7 +69,7 @@ Use per‑size overrides when:
 
     -   Select **Browse**, choose your custom image file from your computer's file browser, and select **Open**.
     -   Drag your custom image file from your computer's file browser and drop the image directly into the modal.
-    Refer to the upload image modal for size and format limitations or see [Icon illustrations in Theme Builder](../concept/tb-icon-illustrations.md). If your custom image doesn’t meet the required size and format, your image isn’t saved.
+    Refer to the upload image modal for size and format limitations or see [Icon illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tb-icon-illustrations.md). If your custom image doesn’t meet the required size and format, your image isn’t saved.
 
 8.  Preview your image within the modal and select **Save**.
 
@@ -89,12 +89,12 @@ Use per‑size overrides when:
 
     3.  Select the Open in new tab icon ![](../image/tb-icon-open-new-tab.png) to open the experience in a new tab.
 
-        ![Global styles experience preview screen.](../image/tb-experience-preview-1.png "Experience preview")
+        ![Global styles experience preview screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-experience-preview-1.png "Experience preview")
 
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Icon illustrations in Theme Builder](../concept/tb-icon-illustrations.md)
+**Parent Topic:**[Icon illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tb-icon-illustrations.md)
 

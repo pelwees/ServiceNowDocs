@@ -21,17 +21,17 @@ Community connectors are developed by the open-source community and made availab
 
 |Community connector|Minimum compatibility|
 |-------------------|---------------------|
-|[Apache Cassandra](apache-cassandra-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Apache Hive](apache-hive-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Apache Hudi](apache-hudi-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Delta Lake](delta-lake-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Exasol](exasol-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[MariaDB](mariadb-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Microsoft SQL Server](sqlserver-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[MongoDB](mongodb-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[MySQL](mysql-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[OpenText Analytics Database \(Vertica\)](vertica-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[PostgreSQL](postgresql-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Prometheus](prometheus-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[SingleStore](singlestore-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Apache Cassandra](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/apache-cassandra-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Apache Hive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/apache-hive-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Apache Hudi](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/apache-hudi-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Delta Lake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/delta-lake-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Exasol](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/exasol-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[MariaDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mariadb-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Microsoft SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/sqlserver-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[MongoDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mongodb-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[MySQL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/mysql-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[OpenText Analytics Database \(Vertica\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/vertica-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[PostgreSQL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/postgresql-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Prometheus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prometheus-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[SingleStore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/singlestore-zcc.md)|Yokohama Patch 5, Zurich, Australia|
 

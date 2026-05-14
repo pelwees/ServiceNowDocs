@@ -33,7 +33,7 @@ Translate skill names and the description using the following fields that suppor
 
 ## Procedure
 
-1.  [Add a skill](t_CreateASkill.md).
+1.  [Add a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/t_CreateASkill.md).
 
 2.  For the newly added skills, load the translation to the Translated text \[sys\_translated.text\] table.
 

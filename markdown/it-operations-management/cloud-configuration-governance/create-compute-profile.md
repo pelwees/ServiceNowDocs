@@ -39,7 +39,7 @@ You must have a cloud account with datacenters. You must run Discovery on the se
 
     2.  In the **Profile Mappings** related list, click **New**, fill in the form, and then click **Submit**.
 
-        ![Compute resource profile](../image/compute-profile-mapping.png "Example compute profile")
+        ![Compute resource profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/compute-profile-mapping.png "Example compute profile")
 
 <table id="table_n3n_zvt_ddb"><thead><tr><th>
 
@@ -71,12 +71,12 @@ Hardware Template \[cmdb\_ci\_compute\_template\]
 
 </td><td>
 
-Select the hardware type that the profile should be mapped to.Click the reference icon \(![Reference image](../../../common/image/icon-reference.png)\) to view the details of the template.
+Select the hardware type that the profile should be mapped to.Click the reference icon \(![Reference image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-reference.png)\) to view the details of the template.
 
 </td></tr></tbody>
 </table>
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct-1.md)
+[Discover all datacenters in a service account on-demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct-1.md)
 

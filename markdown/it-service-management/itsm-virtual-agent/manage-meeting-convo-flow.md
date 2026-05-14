@@ -26,7 +26,7 @@ Requirements:
 -   Some actions can use the [Microsoft Teams Communication spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/msteams-comm.md) \(sn\_msteams\_com\_spk\) to send meeting links to Microsoft Teams
 -   Some actions can use the [Cisco Webex Teams spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/cisco-teams-spoke.md) \(sn\_cisco\_teams\_spk\)
 -   Some actions can use the [Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/zoom-spoke.md)\(com.sn.zoom.spoke\) to add meeting links
--   This topic uses the [Employee Experience VA topic blocks](employee-experience-va-topicblocks.md)
+-   This topic uses the [Employee Experience VA topic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/employee-experience-va-topicblocks.md)
 
 **Note:** If this topic is duplicated in a different scope than ITSM Virtual Agent Conversations, script logic can be affected and cause errors. This topic must be duplicated in the ITSM Virtual Agent Conversations scope.
 
@@ -102,5 +102,5 @@ Basic flow for rescheduling a meeting:
 5.  Virtual Agent confirms that the meeting has been rescheduled.
 6.  User can reschedule additional meetings, if desired.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

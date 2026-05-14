@@ -13,7 +13,7 @@ breadcrumb: [Legacy theming, Configuring the Mobile Platform, Mobile Platform]
 
 Learn how the colors that you select in your mobile themes are applied on your mobile applications.
 
-**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](../concept/explore-ne-theming.md).
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/explore-ne-theming.md).
 
 ## Color choice considerations
 
@@ -34,7 +34,7 @@ This example shows the colors that are used in the default mobile app theme. Use
 
 </td><td>
 
-![Colors used in the default mobile theme](../image/mobile-color-legend.png)
+![Colors used in the default mobile theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-color-legend.png)
 
 </td></tr></tbody>
 </table>## Mobile Features
@@ -43,27 +43,27 @@ Use the following figures to see how your color choices affect the elements with
 
 -   **Application Launch Page**
 
-    ![Diagram of where theme colors are applied in an application launch page.](../image/mobile-theme-alp.png)
+    ![Diagram of where theme colors are applied in an application launch page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-alp.png)
 
 -   **Navigation Bar**
 
-    ![Diagram of where theme colors are applied in the navigation bar.](../image/mobile-theme-tabbar.png)
+    ![Diagram of where theme colors are applied in the navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-tabbar.png)
 
 -   **List**
 
-    ![Diagram of where theme colors are applied in a list.](../image/mobile-theme-list.png)
+    ![Diagram of where theme colors are applied in a list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-list.png)
 
 -   **Virtual Agent**
 
-    ![Diagram of where theme colors are applied in virtual agent.](../image/mobile-theme-va.png)
+    ![Diagram of where theme colors are applied in virtual agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-va.png)
 
 -   **Search**
 
-    ![Diagram of where theme colors are applied in search components.](../image/mobile-theme-search.png)
+    ![Diagram of where theme colors are applied in search components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-search.png)
 
 -   **Actions**
 
-    ![Diagram of where theme colors are applied in action cards.](../image/mobile-theme-actions.png)
+    ![Diagram of where theme colors are applied in action cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-actions.png)
 
 
 ## Record screen and components
@@ -72,23 +72,23 @@ Use the following figures to see how your color choices affect a record screen a
 
 -   **Record screen**
 
-    ![Diagram of where theme colors are applied in a record screen.](../image/mobile-theme-form.png)
+    ![Diagram of where theme colors are applied in a record screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-form.png)
 
 -   **Checklist**
 
-    ![Diagram of where theme colors are applied in a checklist.](../image/mobile-theme-checklist.png)
+    ![Diagram of where theme colors are applied in a checklist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-checklist.png)
 
 -   **Activity stream**
 
-    ![Diagram of where theme colors are applied in an activity stream.](../image/mobile-theme-activity.png)
+    ![Diagram of where theme colors are applied in an activity stream.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-activity.png)
 
 -   **Links**
 
-    ![Diagram of where theme colors are applied in links.](../image/mobile-theme-link.png)
+    ![Diagram of where theme colors are applied in links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-link.png)
 
 -   **E-signature**
 
-    ![Diagram of where theme colors are applied in e-signatures.](../image/mobile-theme-esig.png)
+    ![Diagram of where theme colors are applied in e-signatures.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-esig.png)
 
 
 ## Screen templates
@@ -97,17 +97,17 @@ Use the following figures to see how your color choices affect the various scree
 
 -   **Calendar**
 
-    ![Diagram of where theme colors are applied in calendar screens.](../image/mobile-theme-calendar.png)
+    ![Diagram of where theme colors are applied in calendar screens.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-calendar.png)
 
 -   **Map**
 
-    ![Diagram of where theme colors are applied in map screens.](../image/mobile-theme-map.png)
+    ![Diagram of where theme colors are applied in map screens.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-map.png)
 
     **Note:** The **Pin color** field in the list stream record that is associated to your map screen determines the color of the pins on your maps.
 
 -   **URL template**
 
-    ![Diagram of where theme colors are applied in URL template screens.](../image/mobile-theme-url.png)
+    ![Diagram of where theme colors are applied in URL template screens.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-url.png)
 
 
 ## Settings and notifications
@@ -116,27 +116,27 @@ Use the following figures to see how your color choices affect the various setti
 
 -   **Notifications**
 
-    ![Diagram of where theme colors are applied in the notifications screen.](../image/mobile-theme-notification.png)
+    ![Diagram of where theme colors are applied in the notifications screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-notification.png)
 
 -   **Settings**
 
-    ![Diagram of where theme colors are applied in the settings screen.](../image/mobile-theme-settings.png)
+    ![Diagram of where theme colors are applied in the settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-settings.png)
 
 -   **Offline mode settings**
 
-    ![Diagram of where theme colors are applied in the offline mode settings screen.](../image/mobile-theme-offline.png)
+    ![Diagram of where theme colors are applied in the offline mode settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-offline.png)
 
 -   **Geolocation settings**
 
-    ![Diagram of where theme colors are applied in the geolocation settings screen.](../image/mobile-theme-geo.png)
+    ![Diagram of where theme colors are applied in the geolocation settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-geo.png)
 
 -   **PIN settings**
 
-    ![Diagram of where theme colors are applied in the PIN settings screen.](../image/mobile-theme-pin.png)
+    ![Diagram of where theme colors are applied in the PIN settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-pin.png)
 
 -   **Siri shortcuts settings \(iOS Only\)**
 
-    ![Diagram of where theme colors are applied in the Siri shortcuts settings screen.](../image/mobile-theme-siri.png)
+    ![Diagram of where theme colors are applied in the Siri shortcuts settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-siri.png)
 
 
 ## Modals
@@ -145,10 +145,10 @@ Use the following figures to see how your color choices display in your Android 
 
 -   **Android modals**
 
-    ![Diagram of where theme colors are applied in Android modals.](../image/mobile-theme-android-modal.png)
+    ![Diagram of where theme colors are applied in Android modals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-android-modal.png)
 
 -   **iOS modals**
 
-    ![Diagram of where theme colors are applied in iOS modals.](../image/mobile-theme-ios-modal.png)
+    ![Diagram of where theme colors are applied in iOS modals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-theme-ios-modal.png)
 
 

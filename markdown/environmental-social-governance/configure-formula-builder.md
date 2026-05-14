@@ -131,5 +131,5 @@ Preferred label of the secondary column selected.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Formula building in a calculated metric definition](../concept/formula-building-at-metric-definition-and-entity-level.md)
+**Parent Topic:**[Formula building in a calculated metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/formula-building-at-metric-definition-and-entity-level.md)
 

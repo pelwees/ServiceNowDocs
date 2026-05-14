@@ -216,5 +216,5 @@ Extended functions
 
 ## What to do next
 
-See [Change the TinyMCE default toolbar](../../workspace/concept/tinymce.md#) for more detailed information.
+See [Change the TinyMCE default toolbar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../workspace/concept/tinymce.md#) for more detailed information.
 

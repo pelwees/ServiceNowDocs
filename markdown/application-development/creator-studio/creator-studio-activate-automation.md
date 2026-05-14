@@ -25,7 +25,7 @@ To activate a playbook, you must be given permission to work on the app.
 
 You can check the activation status of a playbook at any time in the app header.
 
-![Playbook activation status appears in header](../image/cs-playbook-status.png "Playbook activation status")
+![Playbook activation status appears in header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-playbook-status.png "Playbook activation status")
 
 If you don't activate a playbook and its app is deployed to production, the automation won't run on the applicable records. However, your App Engine admin can activate the deployed playbook for you.
 
@@ -39,11 +39,11 @@ If you don't activate a playbook and its app is deployed to production, the auto
 
 4.  Select the automation that contains the playbook that you want to activate.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation that has the playbook")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation that has the playbook")
 
 5.  Select the **Activate** button.
 
-    ![Select the Activate button to activate the playbook](../image/crs-playbook-activate-btn.png "Activate the playbook")
+    ![Select the Activate button to activate the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-playbook-activate-btn.png "Activate the playbook")
 
 
 ## Result
@@ -52,5 +52,5 @@ The status displayed in the app header updates from **Inactive** to **Saving** t
 
 The playbook is ready to be deployed with your app. Once the app is deployed, the form is available in the associated service catalog. If the form's app hasn't been deployed, you need to deploy it.
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

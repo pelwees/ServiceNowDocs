@@ -24,34 +24,34 @@ Predefined set of daily stat configurations are available to use once you have a
 
 For more details, navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Team Daily Stats**.
 
-**Parent Topic:**[Reference for Manager Hub](../reference/reference-manager-hub.md)
+**Parent Topic:**[Reference for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/reference-manager-hub.md)
 
 **Related topics**  
 
 
-[Components installed with Manager Hub](../reference/installed-with-managerhub.md)
+[Components installed with Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/installed-with-managerhub.md)
 
-[Campaign configurations for Manager Hub](manager-hub-campaign.md)
+[Campaign configurations for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-campaign.md)
 
-[Default configurations for important dates](manager-hub-imp-dates.md)
+[Default configurations for important dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-imp-dates.md)
 
-[Default configurations for team requests](manager-hub-team-requests.md)
+[Default configurations for team requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-team-requests.md)
 
-[Default configurations for team data](team-data-config.md)
+[Default configurations for team data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/team-data-config.md)
 
-[Default configurations for team column data](config-team-column.md)
+[Default configurations for team column data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-team-column.md)
 
-[Default configurations for filter groups](config-filter-group.md)
+[Default configurations for filter groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-filter-group.md)
 
-[Default configurations for To do's](manager-hub-todos.md)
+[Default configurations for To do's](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-todos.md)
 
-[Default proactive prompts for Manager Hub](prompts-mh.md)
+[Default proactive prompts for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/prompts-mh.md)
 
-[Use the View menu icon in Manager Hub](../reference/view-menu.md)
+[Use the View menu icon in Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/view-menu.md)
 
-[Assign learning form](../reference/assign-learning-form.md)
+[Assign learning form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/assign-learning-form.md)
 
-[Create a conversation form](../reference/create-conversation-form.md)
+[Create a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/create-conversation-form.md)
 
-[Schedule a conversation form](../reference/schedule-conversation-form.md)
+[Schedule a conversation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/schedule-conversation-form.md)
 

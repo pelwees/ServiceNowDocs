@@ -25,13 +25,13 @@ The following flows are installed with the Human Resources: Core application. Th
 
     The trigger is based on the employee's start date in the HR Profile Table \[sn\_hr\_core\_profile\]. If the employment start date is at or after today, the flow creates an HR Onboarding case. This flow runs every time an HR profile is created or updated.
 
-    For more information about the HR Profile, see [Employee Profile table](employee-profile.md) and [HR Profile](c_HRProfileRecords.md).
+    For more information about the HR Profile, see [Employee Profile table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-profile.md) and [HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md).
 
 -   **New Hire on Boarding Case Trigger Job**
 
     The trigger is based on the employee's start date in the Job Table \[sn\_hr\_core\_job\]. If the employment start date is at or after today, the flow creates an HR Onboarding case. This flow runs every time an HR profile is created or updated.
 
-    For more information about the Job Table and related profile records, see [Capturing multiple job records for a user](support-hr-users-with-multiple-jobs.md).
+    For more information about the Job Table and related profile records, see [Capturing multiple job records for a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/support-hr-users-with-multiple-jobs.md).
 
 -   **Case Trigger Custom Condition**
 
@@ -44,8 +44,8 @@ These flows create an HR case adding an entry in the HR Lifecycle Events Case \[
 
 **Note:** Only one of these flows should be active at any given time for a particular lifecycle event.
 
--   **[Activate an HR flow](../task/activate-hr-flow.md)**  
+-   **[Activate an HR flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/activate-hr-flow.md)**  
 HR flows help automate task and case creation.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

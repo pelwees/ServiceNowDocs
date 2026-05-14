@@ -87,7 +87,7 @@ Exclude from content service
 
 </td><td>
 
-Option that excludes the custom product details from being shared with [Software Asset Management Content Service](../concept/c_SAMContentService.md) if opted in.
+Option that excludes the custom product details from being shared with [Software Asset Management Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMContentService.md) if opted in.
 
 </td></tr><tr id="row_nch_hd1_nfb"><td>
 
@@ -99,5 +99,5 @@ Option that indicates the rule is active.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Software Asset Management classic](../concept/using-sam-classic.md)
+**Parent Topic:**[Using Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-classic.md)
 

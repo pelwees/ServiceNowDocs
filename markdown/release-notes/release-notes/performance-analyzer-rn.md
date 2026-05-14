@@ -56,5 +56,5 @@ Install Performance Analyzer by requesting it from the ServiceNow Store. Visit t
     Next Experience Developer \(NED\) Tools is a Google Chrome extension that enables you to create components that track and enhance page performance and improve overall developer productivity.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

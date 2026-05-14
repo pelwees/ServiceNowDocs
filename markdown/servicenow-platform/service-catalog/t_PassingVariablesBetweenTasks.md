@@ -23,7 +23,7 @@ Role required: admin
 
 Variables can be processed by any workflow or execution plan that is associated with the requested items.
 
-**Note:** To pass a variable between tasks, select the **Global** check box when you [create a Service Catalog variable](t_CreateAVariableForACatalogItem.md).
+**Note:** To pass a variable between tasks, select the **Global** check box when you [create a Service Catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md).
 
 For example, consider the following tasks within the fulfillment process for a New PC catalog item.
 
@@ -40,5 +40,5 @@ For example, consider the following tasks within the fulfillment process for a N
     Step 4 may require a piece of information from step 3 \(the email account credentials for setting up email on the PC\). If steps 3 and 4 are executed by different fulfillment groups, you can use variables to make this information visible in the tasks for steps 3 and 4. You can then pass the information between groups so that the second group can access the email account credentials.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)
 

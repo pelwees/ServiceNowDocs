@@ -23,7 +23,7 @@ When you associate commits with an artifact version \(CI pipeline\), and define 
 
 DevOps change request attributes:
 
--   **Category** DevOps or the **Categorize DevOps change requests on "DevOps Change" field** check box is selected in DevOps properties. For more information, see [DevOps change request without mandating category as DevOps](../task/create-devops-change-any-category.md).
+-   **Category** DevOps or the **Categorize DevOps change requests on "DevOps Change" field** check box is selected in DevOps properties. For more information, see [DevOps change request without mandating category as DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/create-devops-change-any-category.md).
 -   Commits and Work Items related lists
 
 **Packages**
@@ -35,7 +35,7 @@ A package tracks when one or more artifact versions are being used in a deployme
 
 ## Artifact setup
 
-1.  [Create an artifact tool record in DevOps](integrating-devops-change-with-third-party-tools.md).
+1.  [Create an artifact tool record in DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
     **Note:** An artifact tool isn’t necessary unless a webhook or user-created integration subflow configuration is required to look up artifact versions.
 
@@ -94,7 +94,7 @@ For Jenkins pipeline:
     snDevOpsPackage(name: "sentimentpackage", artifactsPayload: """{"artifacts":[{"name": "sa-web.jar", "version": "1.9", "repositoryName": "services-1031"}, "{"name": "sa-db.jar", "version": "1.3.2", "repositoryName": "services-1032"}], "branchName": "master"}""")
     ```
 
-    ![DevOps change acceleration for releases package](../image/dev-ops-change-releases.png)
+    ![DevOps change acceleration for releases package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-change-releases.png)
 
 
 **Note:** When an artifact version isn’t available during the build, build details \(pipelineName or projectName, taskExecutionNumber, stageName, branchName\) are used to look up the artifact version in the task execution.
@@ -140,17 +140,17 @@ These objects are part of the artifact structure.
 
 DevOps change acceleration for releases:
 
-![DevOps change request.](../image/dev-ops-category-change-request.png "DevOps change request – category DevOps")
+![DevOps change request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-category-change-request.png "DevOps change request – category DevOps")
 
-![DevOps change request commits.](../image/dev-ops-change-request-artifacts.png "DevOps change request – commits and work items")
+![DevOps change request commits.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-change-request-artifacts.png "DevOps change request – commits and work items")
 
-![DevOps artifact version list.](../image/dev-ops-artifact-version-list.png "DevOps artifact version list")
+![DevOps artifact version list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-artifact-version-list.png "DevOps artifact version list")
 
-![DevOps artifact commits.](../image/dev-ops-artifact-commits.png "DevOps artifact version – commits")
+![DevOps artifact commits.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-artifact-commits.png "DevOps artifact version – commits")
 
-![DevOps artifact packages.](../image/dev-ops-artifacts-packages.png "DevOps artifact version – packages")
+![DevOps artifact packages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-artifacts-packages.png "DevOps artifact version – packages")
 
-![DevOps package.](../image/dev-ops-package.png "DevOps package")
+![DevOps package.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-package.png "DevOps package")
 
 You can also see all existing pipeline change requests directly from the **Changes** module in the application navigator.
 
@@ -160,13 +160,13 @@ Navigate to **DevOps Change Workspace** &gt; **Changes** &gt; **Pipeline change 
 
 **Pipeline change requests**
 
-![Pipeline change requests.](../image/dev-ops-pipeline-req.png "Changes module")
+![Pipeline change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-pipeline-req.png "Changes module")
 
 You can see all the existing artifacts and packages directly using the **List** module in the application navigator.
 
 Navigate to **DevOps Change Workspace** &gt; **Lists** &gt; **Artifact** for all artifact-related information.
 
-![List of artifacts and packages.](../image/dev-ops-artifacts-list.png "List module")
+![List of artifacts and packages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-artifacts-list.png "List module")
 
 ## Artifacts and packages monitoring
 
@@ -631,8 +631,8 @@ Your artifact registration request was ignored for the following reason:
  Artifact not found.
 
 </td></tr></tbody>
-</table>-   **[Commits included in DevOps change request](dev-ops-commits-release.md)**  
+</table>-   **[Commits included in DevOps change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-commits-release.md)**  
 The DevOps artifact package and its associated artifact versions are used to determine which commits are included in a DevOps change.
 
-**Parent Topic:**[Accelerating your DevOps change process](dev-ops-change-acceleration.md)
+**Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 

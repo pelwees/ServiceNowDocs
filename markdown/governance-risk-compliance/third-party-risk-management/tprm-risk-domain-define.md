@@ -37,7 +37,7 @@ In this procedure, you create a Risk domain definition. In each definition, you 
 
 1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **Scoring Setup** &gt; **Risk Domains**.
 
-    ![Third-party risk area definitions.](../image/vendor-risk-area-def.png)
+    ![Third-party risk area definitions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vendor-risk-area-def.png)
 
 2.  Select **New**, fill in the form, and then select **Submit**.
 
@@ -85,6 +85,6 @@ Default weight
 The default weight for third parties in this risk domain.
 
 </td></tr></tbody>
-</table>    ![Third-party risk area definition — new record.](../image/vendor-risk-area-def-new.png)
+</table>    ![Third-party risk area definition — new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vendor-risk-area-def-new.png)
 
 

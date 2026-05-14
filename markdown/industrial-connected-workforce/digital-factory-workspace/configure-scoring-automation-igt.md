@@ -33,7 +33,7 @@ Role required: sn\_icw\_igt.standard\_author
 
     1.  Configure automation of guided tasks by selecting the **Automations** tab.
 
-        The availability of the Automation feature is dependent on the installation of Automation plugins described in [Smart Assessment Engine automation plugin dependencies](../reference/sae-automation-plugin-dependencies.md). For the detailed information about configuring automations in Smart Assessment Engine, see [Configure post-assessment actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-post-assessment-actions.md).
+        The availability of the Automation feature is dependent on the installation of Automation plugins described in [Smart Assessment Engine automation plugin dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/sae-automation-plugin-dependencies.md). For the detailed information about configuring automations in Smart Assessment Engine, see [Configure post-assessment actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-post-assessment-actions.md).
 
     2.  Configure scoring for guided tasks by selecting the **Scoring** tab.
 
@@ -45,12 +45,12 @@ Role required: sn\_icw\_igt.standard\_author
 
         1.  In the Smart Assessment Workspace, navigate to the scoring configuration for the standard.
         2.  Enable the normalization option for the standard.
-        **Note:** Normalization must first be enabled on the assessment template category by an ICW administrator. To enable normalization, select **Enable Normalization** on the Industrial Guided Task category. For more information, see [Create an assessment template category](create-assessment-template-category-icw.md).
+        **Note:** Normalization must first be enabled on the assessment template category by an ICW administrator. To enable normalization, select **Enable Normalization** on the Industrial Guided Task category. For more information, see [Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-assessment-template-category-icw.md).
 
         When normalization is enabled and a normalized score is calculated on the assessment metric, the system saves the normalized score to the guided task instead of the raw score.
 
 
-**Parent Topic:**[Configuring Industrial Guided Tasks](../concept/configuring-industrial-guided-tasks.md)
+**Parent Topic:**[Configuring Industrial Guided Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/configuring-industrial-guided-tasks.md)
 
 **Related topics**  
 

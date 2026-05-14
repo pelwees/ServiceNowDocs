@@ -17,7 +17,7 @@ Add organizational entities and teams to an Enterprise Agile Planning \(EAP\) co
 
 ## Before you begin
 
-[Activate an EAP configuration](activate-eap-configuration.md).
+[Activate an EAP configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/activate-eap-configuration.md).
 
 Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
@@ -37,7 +37,7 @@ Based on your configuration, add entities such as Portfolios, Solutions Trains, 
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Agile structure**.
 
-3.  Add a Portfolio by selecting the + icon \(![Add icon.](../images/eap-add-icon.png)\) next to the configuration name.
+3.  Add a Portfolio by selecting the + icon \(![Add icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-add-icon.png)\) next to the configuration name.
 
     1.  On the SAFe Portfolio form, fill in details such as name, description and parent portfolio.
 
@@ -51,6 +51,6 @@ Based on your configuration, add entities such as Portfolios, Solutions Trains, 
     -   To a Solution Train, add Agile Release Trains \(ART\).
     -   To an ART, add Agile Teams.
 
-        The teams that you add as Agile Teams must be of the type **Agile**. If you need new teams or cannot find any existing teams, contact your admin. For more information, see [Assignment groups in Agile Development 2.0](../../agile-development/concept/manage-groups-agile-dev.md).
+        The teams that you add as Agile Teams must be of the type **Agile**. If you need new teams or cannot find any existing teams, contact your admin. For more information, see [Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../agile-development/concept/manage-groups-agile-dev.md).
 
 

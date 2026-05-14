@@ -24,5 +24,5 @@ Role required: Store associate or Store manager
 2.  Select the case number to track the case.
 
 
-**Parent Topic:**[Manage store inquiries](rahi-retail-manage-store-inquiries.md)
+**Parent Topic:**[Manage store inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-inquiries.md)
 

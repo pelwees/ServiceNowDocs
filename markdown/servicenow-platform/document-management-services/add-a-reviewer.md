@@ -21,7 +21,7 @@ Role required: platform\_document\_management\_admin or admin
 
 ## About this task
 
-The procedure described in this task applies to newly created records. For existing records, go to the document record, select the additional actions icon \(![Additional actions icon.](../../service-catalog-management/image/AdditinalActions.png)\) and select **Refresh Approvers and Reviewers** to match the rules and add reviewers.
+The procedure described in this task applies to newly created records. For existing records, go to the document record, select the additional actions icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../service-catalog-management/image/AdditinalActions.png)\) and select **Refresh Approvers and Reviewers** to match the rules and add reviewers.
 
 **Note:** Document reviewers can be directly added through the document record but they aren't added to the Document approval and revision rule.
 
@@ -42,5 +42,5 @@ The procedure described in this task applies to newly created records. For exist
 7.  Repeat steps 3–6 to add multiple reviewers.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-review-approval.md)
 

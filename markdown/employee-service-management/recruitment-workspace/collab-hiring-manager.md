@@ -32,5 +32,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 The hiring manager receives an email notification with the details of the comment.
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/use-recruit-workspace.md)
 

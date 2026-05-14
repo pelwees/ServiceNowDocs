@@ -19,7 +19,7 @@ Set the breakdown definitions that act as filters for your project. Breakdown de
 
 Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, or sn\_process\_mining\_admin
 
--   [Create a project or template using Project Builder](define-workflow-model.md)
+-   [Create a project or template using Project Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/define-workflow-model.md)
 
 ## About this task
 
@@ -45,11 +45,11 @@ This is an optional task.
 
 5.  Select **New** in the Breakdowns area.
 
-    ![Breakdown](../image/breakdown.png)
+    ![Breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/breakdown.png)
 
 6.  Select any breakdown from the list or the recommendations.
 
-    These recommendations come from the process configuration set for the table on which the project is based. They are derived from the Breakdown fields section of the Process details page in the Process Configuration Builder. For more information, see [Configure process details](process-details.md).
+    These recommendations come from the process configuration set for the table on which the project is based. They are derived from the Breakdown fields section of the Process details page in the Process Configuration Builder. For more information, see [Configure process details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
     If no value is set in the Process Configuration Builder, then no recommendation is provided.
 
@@ -59,7 +59,7 @@ This is an optional task.
 
 8.  Select a breakdown to edit it.
 
-    ![Edit breakdown](../image/breakdown-edit.png)
+    ![Edit breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/breakdown-edit.png)
 
     You can add a display name and a filter condition to the breakdown.
 
@@ -68,5 +68,5 @@ This is an optional task.
     If you want to add or edit anything in the **Scope your analysis** page, select **Previous**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 

@@ -25,7 +25,7 @@ Role required: major\_incident\_manager, ia\_admin, itil, or admin
 
 2.  Select **Manage recipients**.
 
-    You can also select the **More actions** \(![More action icon](../image/mim-more-action-icon.png)\) icon for a communication task and then select **Manage recipients**.
+    You can also select the **More actions** \(![More action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-more-action-icon.png)\) icon for a communication task and then select **Manage recipients**.
 
 3.  On the Manage recipients pop-up window, fill in the details.
 
@@ -43,7 +43,7 @@ Communication
 
 </td><td>
 
-Communication plan that is associated with the communication task for which you want to manage recipients.**Note:** When you select the **More actions** icon \(![More action icon](../image/mim-more-action-icon.png)\) for a communication task and then select **Manage recipients**, the communication plan associated the selected communication task is selected by default. When you select the **Manage recipients** option directly from the **Communicate** tab, you must select the communication plan.
+Communication plan that is associated with the communication task for which you want to manage recipients.**Note:** When you select the **More actions** icon \(![More action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim-more-action-icon.png)\) for a communication task and then select **Manage recipients**, the communication plan associated the selected communication task is selected by default. When you select the **Manage recipients** option directly from the **Communicate** tab, you must select the communication plan.
 
 </td></tr><tr><td>
 
@@ -81,5 +81,5 @@ User, user group, or list of recipients with the user role. You must use the **A
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](../concept/communicating-with-stakeholders-sow.md)
+**Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/communicating-with-stakeholders-sow.md)
 

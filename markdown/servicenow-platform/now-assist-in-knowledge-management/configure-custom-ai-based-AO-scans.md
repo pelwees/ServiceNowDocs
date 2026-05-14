@@ -27,7 +27,7 @@ Configure Article Optimization scans for articles in the Knowledge Center. Two t
 
 1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center** &gt; **Lists** &gt; **Article Optimization** &gt; **Scans**.
 
-    ![Article Optimization scans definition table.](../image/navigate-to-scan-definition-table.jpeg)
+    ![Article Optimization scans definition table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/navigate-to-scan-definition-table.jpeg)
 
 2.  Select **New**.
 
@@ -37,7 +37,7 @@ Configure Article Optimization scans for articles in the Knowledge Center. Two t
 
     3.  **Rename** the copied scan.
 
-    ![Modify a scan.](../image/Modify-scan.jpeg)
+    ![Modify a scan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/Modify-scan.jpeg)
 
 3.  Fill out the record form as follows:
 
@@ -73,16 +73,16 @@ The Article Optimization scan is custom configured.
 
 ## What to do next
 
-To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](configuring-article-optimization-jobs.md).
+To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configuring-article-optimization-jobs.md).
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../../knowledge-management/concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../knowledge-management/concept/configuring-now-assist-km.md)
 
 **Related topics**  
 
 
-[Configuring custom script based Article Optimization scans](configure-custom-script-based-AO-scan.md)
+[Configuring custom script based Article Optimization scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-custom-script-based-AO-scan.md)
 
-[Configuring Article Optimization skill and prompts](configure-kc-AO-skill.md)
+[Configuring Article Optimization skill and prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-kc-AO-skill.md)
 
-[Activate Article Optimization skill](activate-kc-AO-skill.md)
+[Activate Article Optimization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/activate-kc-AO-skill.md)
 

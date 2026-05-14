@@ -22,22 +22,22 @@ The Security Incident Response Workspace consists of the following key features.
 -   List view
 -   Multi-tab interface that supports opening multiple security incidents
 
-![SIR workspace key features](../image/key-features-section.png "SIR Workspace key features")
+![SIR workspace key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/key-features-section.png "SIR Workspace key features")
 
-**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace plugins](components-installed-with-analyst-workspace.md)
+[SIR Workspace plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/components-installed-with-analyst-workspace.md)
 
-[SIR Workspace interface overview](overview.md)
+[SIR Workspace interface overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/overview.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/upcoming-section.md)
 
-[Quick links section](../concept/quick-links.md)
+[Quick links section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/quick-links.md)
 
-[Shift Handover Records section](../concept/shift-handover-records-section.md)
+[Shift Handover Records section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/shift-handover-records-section.md)
 
-[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/setting-up-list-view-in-analyst-workspace.md)
 

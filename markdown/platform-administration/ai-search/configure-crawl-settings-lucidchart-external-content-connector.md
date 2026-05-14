@@ -18,7 +18,7 @@ Specify the folders you want your Lucidchart external content connector to crawl
 
 ## Before you begin
 
-A connector admin must have already created the Lucidchart external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Lucidchart external content connector](create-ext-cont-connector-lucidchart.md).
+A connector admin must have already created the Lucidchart external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Lucidchart external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-lucidchart.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -86,7 +86,7 @@ The Lucidchart external content connector is updated with your modified crawl se
 
 ## What to do next
 
-To retrieve content from your Lucidchart source system using your modified crawl settings, create and run a one-time content crawl for your Lucidchart external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Lucidchart source system using your modified crawl settings, create and run a one-time content crawl for your Lucidchart external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Lucidchart external content connector](../concept/lucidchart-external-content-connector.md)
+**Parent Topic:**[Lucidchart external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/lucidchart-external-content-connector.md)
 

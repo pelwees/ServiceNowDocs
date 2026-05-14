@@ -25,11 +25,11 @@ Phase 1
 
 </td><td align="justify">
 
-![Analyze icon](../image/progress-complete2.png)
+![Analyze icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[Analyze and acknowledge an alert](operator-phase-acknowledge-analyze.md)
+[Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-acknowledge-analyze.md)
 
 </td></tr><tr><td>
 
@@ -37,11 +37,11 @@ Phase 2
 
 </td><td align="justify">
 
-![Triage icon](../image/progress-complete2.png)
+![Triage icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[Triage alerts](operator-phase-triage-incident.md)
+[Triage alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ Phase 3
 
 </td><td align="justify">
 
-![Close alert icon](../image/progress-wip.png)
+![Close alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -70,13 +70,13 @@ Close an alert
 
 3.  Click the alert number to open the Alert Details tab and review key information about the alert.
 
-    ![Alert fields to check](../image/alert-form-close-verifyfields.png)
+    ![Alert fields to check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-form-close-verifyfields.png)
 
 4.  Review information about application services on the **Impacted Services** tab.
 
     In this example, the service\_1474 application service appears in the list.
 
-    ![Impacted services tab](../image/view-impacted-services.png)
+    ![Impacted services tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/view-impacted-services.png)
 
     If you need more information about an application service and want to see the service map, click the service name and then click **Service Map**.
 
@@ -86,7 +86,7 @@ Close an alert
 
     -   On a primary alert, the secondary alerts that are correlated with the primary appear on the **Secondary Alerts** tab.
 
-        ![Correlated alerts](../image/alert-form-secondary-alerts.png)
+        ![Correlated alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-form-secondary-alerts.png)
 
         Typically, you do not have to do anything with the secondary alerts unless you want to add more secondary alerts or remove the correlation altogether.
 
@@ -96,7 +96,7 @@ Close an alert
 
         The alert number of the primary alert appears in the **Parent** field. You do not have to do anything with the parent alert, unless you want to re-correlate this secondary alert with another primary alert, or remove the correlation altogether by clearing the field.
 
-        ![Parent field](../image/alert-form-parent-field.png)
+        ![Parent field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/alert-form-parent-field.png)
 
         **Note:** When you close a secondary alert, the primary alert is not closed. You must close the primary alert separately.
 
@@ -121,10 +121,10 @@ After you close an alert, you might need to follow up on these items:
 
     In some cases, the same event that created the alert you just closed could be triggered again, even repeatedly, in a short amount of time. If this occurs, the **State** of the alert that you just closed changes to **Reopen**, and eventually to **Flapping** depending on settings that your administrator configures.
 
-    See [Handle alerts in the flapping state](operator-handle-alerts-flapping.md) for more information on what to look for.
+    See [Handle alerts in the flapping state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-handle-alerts-flapping.md) for more information on what to look for.
 
 
-For a summary of other tasks that you might need to perform at some time, see [Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md).
+For a summary of other tasks that you might need to perform at some time, see [Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-advanced-tasks.md).
 
-**Parent Topic:**[What Event Management operators do](../concept/operator-process.md)
+**Parent Topic:**[What Event Management operators do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-process.md)
 

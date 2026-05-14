@@ -86,7 +86,7 @@ Auto create time cards every week
 
 </td><td>
 
-Option to [generate time cards automatically](auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated resource plans of the users.
+Option to [generate time cards automatically](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated resource plans of the users.
 
  By default, this option is selected.
 
@@ -217,7 +217,7 @@ Allow multiple rate types
 
 Option to provide a rate type in a time card to be used during expense line generation.When this option is selected, the **Rate type** field displays on the Time Card form to enable the selection of a rate type.
 
- For more information, see [Rate type in labor rate card](../../../product/cost-management/concept/RateType.md).
+ For more information, see [Rate type in labor rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../../../product/cost-management/concept/RateType.md).
 
 </td></tr><tr><td>
 
@@ -247,8 +247,8 @@ Option to set the time sheet policy as the default. The default policy is a glob
 
 ## What to do next
 
--   [Set the time sheet policy as the default policy](set-default-time-sheet-policy.md), if required.
--   [Assign the time sheet policy to users](assign-time-sheet-policy-to-user.md).
+-   [Set the time sheet policy as the default policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/set-default-time-sheet-policy.md), if required.
+-   [Assign the time sheet policy to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/assign-time-sheet-policy-to-user.md).
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/time-sheet-policies.md)
 

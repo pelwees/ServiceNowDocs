@@ -15,6 +15,6 @@ Begin your customer journey by preparing your Manufacturing Commercial Operation
 
 |List|Description|
 |----|-----------|
-|[Getting started with Manufacturing Commercial Operations](getting-started-mco.md)|Install Manufacturing Commercial Operations.|
-|[Set up additional requirements \(optional\)](set-up-additional-plugins.md)|Set up additional Manufacturing Commercial Operations requirements.|
+|[Getting started with Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/getting-started-mco.md)|Install Manufacturing Commercial Operations.|
+|[Set up additional requirements \(optional\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/set-up-additional-plugins.md)|Set up additional Manufacturing Commercial Operations requirements.|
 

@@ -19,7 +19,7 @@ To configure components to display a campaign on mobile devices, ensure that you
 
 -   Developed content for your campaign. For more information, see [Campaigns for Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md) and [Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-delivery-mobile.md).
 
--   Defined the appearance criteria for at least one card type. For more information, see [Create appearance templates for cards for a mobile campaign](mobile-campaign-card-type.md) and [Configure the details for the appearance of cards for a mobile campaign](../reference/mobile-campaign-card-config.md).
+-   Defined the appearance criteria for at least one card type. For more information, see [Create appearance templates for cards for a mobile campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-campaign-card-type.md) and [Configure the details for the appearance of cards for a mobile campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mobile-campaign-card-config.md).
 
 -   Have the Employee Center Pro Content Publishing plugin \[com.sn\_content\_delivery\] installed. For more information, see [Activate Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-delivery-plugin.md).
 
@@ -193,7 +193,7 @@ Not applicable for mobile campaigns.
 
     3.  In the **Name** field, enter a title for the list stream container.
 
-    4.  Right-click on the form header \(![Form header menu button](../image/context-menu-icon.png)\) and select **Save**.
+    4.  Right-click on the form header \(![Form header menu button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/context-menu-icon.png)\) and select **Save**.
 
     5.  In the Stream Container M2M streams section, click **New**.
 
@@ -227,5 +227,5 @@ Not applicable for mobile campaigns.
 
 ## What to do next
 
-Add the content UI section to a screen launcher. For more information, see [Configure a content UI section](configure-content-ui-section.md).
+Add the content UI section to a screen launcher. For more information, see [Configure a content UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-content-ui-section.md).
 

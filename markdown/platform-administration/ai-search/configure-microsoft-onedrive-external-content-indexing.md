@@ -26,7 +26,7 @@ You need the following credentials and permissions for your organization in the 
 -   Permission to grant admin consent for an application's API permissions
 -   Permission to upload certificates for an application
 
-You must have created a public/private key pair for the Microsoft OneDrive external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft OneDrive external content connector](gen-cert-msod-ext-cont-connector.md).
+You must have created a public/private key pair for the Microsoft OneDrive external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft OneDrive external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/gen-cert-msod-ext-cont-connector.md).
 
 Role required: none
 
@@ -48,7 +48,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
     3.  On the App registrations page, select **New registration**.
 
-        ![App registrations page in Microsoft Entra admin center with New registration link.](../image/ms-entra-home-app-registrations.png)
+        ![App registrations page in Microsoft Entra admin center with New registration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-home-app-registrations.png)
 
     4.  On the Register an application form, fill in the following fields:
 
@@ -58,7 +58,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
         |Supported account types|Select **Accounts in this organizational directory only \(&lt;instance-name&gt; only - Single tenant\)**, where `<instance-name>` is the name of your Microsoft Entra instance.|
         |Redirect URI \(optional\)|Leave this field empty.|
 
-        ![Register an application dialog box in Microsoft Entra admin center.](../image/ms-onedrive-entra-register-application.png)
+        ![Register an application dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-register-application.png)
 
     5.  Select **Register**.
 
@@ -66,7 +66,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
 2.  Record the values of the **Application \(client\) ID** and **Directory \(tenant\) ID** properties in a secure location.
 
-    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](../image/ms-onedrive-entra-app-overview.png)
+    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-app-overview.png)
 
     **Important:** Your connector admin needs the application's tenant and client IDs to configure a Microsoft OneDrive external content connector.
 
@@ -74,11 +74,11 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
     1.  In the application menu, select **Manage** &gt; **API permissions**.
 
-        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](../image/ms-onedrive-entra-api-permissions-before.png)
+        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-api-permissions-before.png)
 
     2.  Select **Add a permission**, then select **Microsoft Graph**, then select **Application permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](../image/ms-entra-request-api-permissions-ms-graph.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-ms-graph.png)
 
     3.  For each of the following permissions, enter the permission name into the **Select permissions** search field, then locate and select the option for the permission.
 
@@ -92,7 +92,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
         The new Microsoft Graph permissions appear in the application's Configured permissions list.
 
-    ![Application's API permissions list in Microsoft Entra admin center showing added permissions needing admin consent.](../image/ms-onedrive-entra-api-permissions-grant-consent.png)
+    ![Application's API permissions list in Microsoft Entra admin center showing added permissions needing admin consent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-api-permissions-grant-consent.png)
 
 4.  Grant admin consent for the added API permissions.
 
@@ -100,7 +100,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
     2.  In the Grant admin consent confirmation dialog box, select **Yes**.
 
-        ![Application's API permissions list in Microsoft Entra admin center showing added permissions with admin consent granted.](../image/ms-onedrive-entra-api-permissions-after.png)
+        ![Application's API permissions list in Microsoft Entra admin center showing added permissions with admin consent granted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-api-permissions-after.png)
 
     The status for the added API permissions changes to `Granted for <instance-name>`, where `<instance-name>` is the name of your Microsoft Entra instance.
 
@@ -110,11 +110,11 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
     2.  Select **Certificates**, then select **Upload certificate**.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](../image/ms-onedrive-entra-certificates-secrets-before.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-certificates-secrets-before.png)
 
     3.  Select **Select a file** and locate your DER-encoded binary X.509 format public key certificate file, then enter a description for it.
 
-        ![Upload certificate dialog box in Microsoft Entra admin center.](../image/ms-onedrive-entra-upload-certificate.png)
+        ![Upload certificate dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-upload-certificate.png)
 
     4.  Select **Add**.
 
@@ -124,7 +124,7 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
     5.  Copy the certificate's **Thumbprint** SHA1 hash, shown in hexadecimal format, and record it in a secure location.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](../image/ms-onedrive-entra-certificates-secrets-after.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-onedrive-entra-certificates-secrets-after.png)
 
         **Important:** Your connector admin needs the DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash to configure the Microsoft OneDrive external content connector.
 
@@ -137,12 +137,12 @@ To enable the connector to access your Microsoft OneDrive source system via this
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](configure-microsoft-onedrive-external-content-indexing.md#client-tenant-ids-step).
--   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](configure-microsoft-onedrive-external-content-indexing.md#certificate-thumbprint-step).
+-   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-microsoft-onedrive-external-content-indexing.md#client-tenant-ids-step).
+-   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-microsoft-onedrive-external-content-indexing.md#certificate-thumbprint-step).
 
 Your connector admin needs these items to configure a Microsoft OneDrive external content connector to retrieve searchable content and security principals from your Microsoft OneDrive instance.
 
-For details on creating and configuring a Microsoft OneDrive external content connector, see [Create a Microsoft OneDrive external content connector](create-ext-cont-connector-microsoft-onedrive.md).
+For details on creating and configuring a Microsoft OneDrive external content connector, see [Create a Microsoft OneDrive external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-microsoft-onedrive.md).
 
-**Parent Topic:**[Microsoft OneDrive external content connector](../concept/microsoft-onedrive-external-content-connector.md)
+**Parent Topic:**[Microsoft OneDrive external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-onedrive-external-content-connector.md)
 

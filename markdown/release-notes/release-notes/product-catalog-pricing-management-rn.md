@@ -108,5 +108,5 @@ The Product Catalog Management and Pricing Management features are included with
     The Sales Agreement Management application captures the scope and conditions from a quote for future sales transactions over a specified period between a buyer and a seller.​
 
 
-**Parent Topic:**[Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md)
+**Parent Topic:**[Sales Customer Relationship Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/sales-order-management-rn-landing.md)
 

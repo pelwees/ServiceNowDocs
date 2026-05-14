@@ -23,7 +23,7 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../image/lists-icon.png)\) icon.
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/lists-icon.png)\) icon.
 
 3.  Select **Incidents** &gt; **All**.
 

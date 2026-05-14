@@ -29,10 +29,10 @@ Indoor maps properties are specific to ServiceNow AI Platform capabilities. Map 
 
 2.  Set the map properties based on your preference.
 
-    For more information about the map properties, see [Properties installed with Workplace Space Mapping](../reference/wsd-space-mapping-properties.md).
+    For more information about the map properties, see [Properties installed with Workplace Space Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/wsd-space-mapping-properties.md).
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[Setting up Workplace Space Mapping](../concept/set-up-workplace-service-mapping.md)
+**Parent Topic:**[Setting up Workplace Space Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/set-up-workplace-service-mapping.md)
 

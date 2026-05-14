@@ -47,15 +47,15 @@ Employee Presence Exceptions
 
 </td><td>
 
-If the presence status is changed from **In-office** to **Remote**, a record is created in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). If the presence status is changed from "**In-office** or **Remote**" to "**Visit another office**," a record is created in the Employee Presence Exceptions table and Location column is updated with the building name for the **In-office** day. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../../wsd-for-mobile/concept/workplace-preference-schedule.md).
+If the presence status is changed from **In-office** to **Remote**, a record is created in the Employee Presence Exceptions table \(**All** &gt; **Workplace Concierge** &gt; **Employee Presence** &gt; **Exceptions**\). If the presence status is changed from "**In-office** or **Remote**" to "**Visit another office**," a record is created in the Employee Presence Exceptions table and Location column is updated with the building name for the **In-office** day. For more information, see [Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../../wsd-for-mobile/concept/workplace-preference-schedule.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Concierge - Components](../concept/workplace-concierge-references.md)
+</table>**Parent Topic:**[Workplace Concierge - Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/workplace-concierge-references.md)
 
 **Related topics**  
 
 
-[Properties installed with Workplace Concierge](properties-installed-with-workplace-concierge.md)
+[Properties installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md)
 
-[Insights installed with Workplace Concierge](insights-installed-workplace-concierge.md)
+[Insights installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/insights-installed-workplace-concierge.md)
 

@@ -40,5 +40,5 @@ Role required: admin
     The Entity Based Access application is available in your instance.
 
 
-**Parent Topic:**[Configuring Entity Based Access](../concept/setting-up-entity-based-access.md)
+**Parent Topic:**[Configuring Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/setting-up-entity-based-access.md)
 

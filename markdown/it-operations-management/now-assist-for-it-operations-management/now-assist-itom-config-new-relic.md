@@ -21,7 +21,7 @@ Configure the New Relic analysis AI agent for the analyze alert impact agentic w
 Before configuring the New Relic analysis AI agent, you must do the following:
 
 -   [Install Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
--   [Integrate New Relic with Event Management](../../event-management/task/new-relic-events-integration.md).
+-   [Integrate New Relic with Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/task/new-relic-events-integration.md).
 -   Copy your New Relic API key.
 
     The New Relic API key must be a user key, also known as a personal API key.
@@ -91,7 +91,7 @@ Activate the New Relic analysis AI agent to use it in the analyze alert impact a
 
 **Note:** To use the New Relic analysis AI agent in the analyze alert impact agentic workflow, make sure that the Alert impact summary and Alert information retrieval AI agents are active. They're also required for the analyze alert impact agentic workflow.
 
-To learn more about using the New Relic analysis AI agent in the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](now-assist-itom-use-aia.md).
+To learn more about using the New Relic analysis AI agent in the analyze alert impact agentic workflow, see [Use the analyze alert impact agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use-aia.md).
 
-**Parent Topic:**[Configuring agents for Now Assist for ITOM](../concept/itom-ai-agent-configuration.md)
+**Parent Topic:**[Configuring agents for Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/itom-ai-agent-configuration.md)
 

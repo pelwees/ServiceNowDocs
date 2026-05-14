@@ -133,7 +133,7 @@ Find a space on a floor
 
 </td><td>
 
-Option to directly select the new target desk on the floor map. If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](../../wsd-reservation-management/task/display-permanent-seats-on-maps.md).
+Option to directly select the new target desk on the floor map. If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../wsd-reservation-management/task/display-permanent-seats-on-maps.md).
 
 </td></tr><tr><td>
 
@@ -201,48 +201,48 @@ Depending on your platform, do one of the following to view your requests:
 
 If you want to cancel a request, Click **Cancel Request**. When the request is resolved, select **Accept** or **Reject**.
 
-**Parent Topic:**[Requesting a workplace service](../../workplace-case-mgmt/concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/concept/request-workplace-services.md)
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](../../workplace-case-mgmt/task/Reconfig-office-space-1.md)
+[Reconfigure an office space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/Reconfig-office-space-1.md)
 
-[Raise help request for a workplace inquiry](../../workplace-case-mgmt/task/submit-gen-workplace-serv-req.md)
+[Raise help request for a workplace inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-gen-workplace-serv-req.md)
 
-[Request furniture for a space](../../workplace-case-mgmt/task/request-furniture.md)
+[Request furniture for a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/request-furniture.md)
 
-[Raise a space assistance request](../../workplace-space-management/task/raise-a-space-recommendation-request.md)
+[Raise a space assistance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-space-management/task/raise-a-space-recommendation-request.md)
 
-[Submit a maintenance request](../../workplace-case-mgmt/task/submit-a-maintenance-request.md)
+[Submit a maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-maintenance-request.md)
 
-[Submit a catering request](../../workplace-case-mgmt/task/submit-a-catering-request.md)
+[Submit a catering request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-catering-request.md)
 
-[Submit heating and cooling request](../../workplace-case-mgmt/task/submit-heating-and-cooling-request.md)
+[Submit heating and cooling request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-heating-and-cooling-request.md)
 
-[Submit a badge request](../../workplace-case-mgmt/task/submit-a-badge-request.md)
+[Submit a badge request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-badge-request.md)
 
-[Submit a tech support request](../../workplace-case-mgmt/task/submit-a-tech-support-request.md)
+[Submit a tech support request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-tech-support-request.md)
 
-[Submit a cleaning request](../../workplace-case-mgmt/task/submit-a-cleaning-request.md)
+[Submit a cleaning request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-cleaning-request.md)
 
-[Submit an equipment request](../../workplace-case-mgmt/task/submit-a-equipment-request.md)
+[Submit an equipment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-a-equipment-request.md)
 
-[Edit a workplace request](../../workplace-case-mgmt/task/edit-workplace-request.md)
+[Edit a workplace request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/edit-workplace-request.md)
 
-[Submit an emergency maintenance request](../../workplace-case-mgmt/task/submit-emergency-maint-request.md)
+[Submit an emergency maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-emergency-maint-request.md)
 
-[Submit a change event request for a reservation](../../workplace-case-mgmt/task/submit-change-event-reservation.md)
+[Submit a change event request for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-case-mgmt/task/submit-change-event-reservation.md)
 
-[Create a move request on behalf of an employee](request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-desk-change-for-employee-1.md)
 
-[Update a move request workplace service](update-move-request-workplace-service.md)
+[Update a move request workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/update-move-request-workplace-service.md)
 
-[Update a move-related workplace service record producer](view-move-request-record-producer.md)
+[Update a move-related workplace service record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-move-request-record-producer.md)
 
-[Create a move-related knowledge base article](create-move-related-kb-article.md)
+[Create a move-related knowledge base article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-move-related-kb-article.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../reference/review-conflicts.md)
 

@@ -43,9 +43,9 @@ You can do these actions by using the Now Assist icon:
 
     For example, if the requester is having an issue with hardware, you may need the hardware model number and serial number.
 
-4.  In the chat message window, either type a response, or leave blank, and then select the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png)
+4.  In the chat message window, either type a response, or leave blank, and then select the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png)
 
-    ![Modal that shows a chat recommendation from the agent.](../image/now-assist-chat-reply-recommendation.png "Now Assist icon Modal")
+    ![Modal that shows a chat recommendation from the agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-chat-reply-recommendation.png "Now Assist icon Modal")
 
 <table id="choicetable_nbt_cxv_bcc"><thead><tr><th align="left" id="d33910e170">
 
@@ -92,7 +92,7 @@ Generates a recommended reply that is based on the context of the conversation u
 7.  End the chat by selecting **End Chat**.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 
 **Related topics**  
 

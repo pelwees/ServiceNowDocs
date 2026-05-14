@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-For detailed information about scorecards, see [Quiz Scorecards](../concept/c_QuizScorecards.md).
+For detailed information about scorecards, see [Quiz Scorecards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizScorecards.md).
 
 ## Procedure
 
@@ -33,20 +33,20 @@ For detailed information about scorecards, see [Quiz Scorecards](../concept/c_Qu
 
 4.  Select a category to view from the choice list above the chart.
 
-    ![Quiz scorecard category results](../images/QuizScorecardCategoryResults.png)
+    ![Quiz scorecard category results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizScorecardCategoryResults.png)
 
 
--   **[View a quiz scorecard](t_ViewAQuizScorecard.md)**  
+-   **[View a quiz scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizScorecard.md)**  
 View scorecards for a quiz record.
--   **[View an assessment category result](t_ViewACategoryResult.md)**  
+-   **[View an assessment category result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md)**  
 Category results contain values that represent an evaluated record's performance in a specific metric category. Each category result record stores data from one assessment group. Category result values are calculated based on category and metric weights and from metric result values for the same category.
--   **[Quiz scorecards](../concept/c_QuizScorecards.md)**  
+-   **[Quiz scorecards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizScorecards.md)**  
 The Quizzes application prepares printable scorecards.
 
-**Parent Topic:**[View a quiz result](t_ViewAQuizResult.md)
+**Parent Topic:**[View a quiz result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizResult.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 

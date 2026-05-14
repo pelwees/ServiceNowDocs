@@ -30,22 +30,22 @@ To turn on offline mode, perform the following steps:
 3.  Enable the **Offline Mode** option.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../concept/use-workplace-agent-mobile.md)
 
 **Related topics**  
 
 
-[Manage workplace cases and tasks](manage-workplace-cases-and-tasks-assigned-to-you-agentmobile.md)
+[Manage workplace cases and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/manage-workplace-cases-and-tasks-assigned-to-you-agentmobile.md)
 
-[Edit or view case details on the Workplace Agent for mobile app](edit-or-view-case-details-agentmobile.md)
+[Edit or view case details on the Workplace Agent for mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-case-details-agentmobile.md)
 
-[Print workplace cases](print-workplace-cases-mobile.md)
+[Print workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-cases-mobile.md)
 
-[Print workplace tasks](print-workplace-tasks-mobile.md)
+[Print workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-tasks-mobile.md)
 
-[Create a child task](create-a-child-task-agentmobile.md)
+[Create a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md)
 
-[Create a workplace case on behalf of an employee through Workplace Agent for mobile](create-agentcase-mobile.md)
+[Create a workplace case on behalf of an employee through Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-agentcase-mobile.md)
 
-[Edit or view a child task](edit-or-view-a-child-task-agentmobile.md)
+[Edit or view a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-a-child-task-agentmobile.md)
 

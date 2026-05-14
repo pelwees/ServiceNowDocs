@@ -110,12 +110,12 @@ Workplace Contract Service\[sn\_wsd\_la\_workplace\_contract\_service\]
 Stores workplace contract services related to the contract.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+</table>**Parent Topic:**[Workplace Lease Administration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/workplace-lease-references.md)
 
 **Related topics**  
 
 
-[Workplace contract new record form](workplace-contract-form.md)
+[Workplace contract new record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-contract-form.md)
 
-[Scripts installed with Workplace Lease Administration](scripts-lease-admin.md)
+[Scripts installed with Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/scripts-lease-admin.md)
 

@@ -19,7 +19,7 @@ Create a knowledge article to record and save information that is related to an 
 
 Role required: sn\_ot\_incident\_write
 
-**Note:** You also need the **Can contribute** access to at least one knowledge base. For more information, see [Create an OT knowledge base](configure-ot-knowledge-base.md).
+**Note:** You also need the **Can contribute** access to at least one knowledge base. For more information, see [Create an OT knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configure-ot-knowledge-base.md).
 
 ## About this task
 
@@ -33,7 +33,7 @@ Creating a knowledge article directly from an incident record helps to make sure
 
 3.  Select the OT incident record that you want to create a knowledge article for.
 
-4.  Select the **More actions** icon \(![More actions icon](../image/more-actions.png)\) to expand the menu.
+4.  Select the **More actions** icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../image/more-actions.png)\) to expand the menu.
 
 5.  Select **Create Knowledge**.
 
@@ -103,5 +103,5 @@ The knowledge article is now published in your OT knowledge base. To view the kn
 
 **Note:** If you set the **Publish workflow** field in your OT knowledge base to **Knowledge - Approval Publish**, the article must be approved before being published.
 
-**Parent Topic:**[Using Operational Technology Knowledge Management](../concept/using-operational-technology-knowledge-management.md)
+**Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../concept/using-operational-technology-knowledge-management.md)
 

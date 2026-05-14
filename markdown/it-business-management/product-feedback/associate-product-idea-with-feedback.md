@@ -25,7 +25,7 @@ Role required: pf\_user
 
 2.  Select **Feedback**.
 
-3.  Select **Product idea** and then [Create product idea](create-product-idea-in-sp.md).
+3.  Select **Product idea** and then [Create product idea](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-product-idea-in-sp.md).
 
 4.  From the Product ideas List page, select one or multiple ideas to associate.
 
@@ -39,9 +39,9 @@ Role required: pf\_user
 **Related topics**  
 
 
-[Associate a feedback or a product idea record with a non-planning item](associate-feedback-with-non-planning-item.md)
+[Associate a feedback or a product idea record with a non-planning item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-non-planning-item.md)
 
-[Associate a product idea with a goal](associate-product-idea-with-goals.md)
+[Associate a product idea with a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-product-idea-with-goals.md)
 
-[Manage documentation in Feedback application](manage-documents-with-pf.md)
+[Manage documentation in Feedback application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/manage-documents-with-pf.md)
 

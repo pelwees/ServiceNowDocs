@@ -47,6 +47,6 @@ Role required: admin
 
 6.  Select **Save** to save the latest modifications.
 
-    Select **Clear All** to remove all the columns being enabled. See [Setup your audit retention](setup-audit-retention.md) for more information about audit data retention.
+    Select **Clear All** to remove all the columns being enabled. See [Setup your audit retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/setup-audit-retention.md) for more information about audit data retention.
 
 

@@ -27,5 +27,5 @@ See the following table for a description of the field values.
 |Description|Purpose of the assessment template and the reason for its creation.|
 |Introduction|Guidance text for business users who respond to the assessment.|
 
-**Parent Topic:**[Create an assessment template](../task/ccm-create-assessment-template.md)
+**Parent Topic:**[Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/ccm-create-assessment-template.md)
 

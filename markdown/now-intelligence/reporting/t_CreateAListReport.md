@@ -23,7 +23,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../dashboards/reference/differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -35,7 +35,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 </td><td>
 
-Also called a report source, a data source is a table with filters applied to provide a single source of information for all users. For more information, see [Report sources](../concept/c_ReportSources.md#).**Note:** If you select a data source used by existing reports, a notification prompts you to view them.
+Also called a report source, a data source is a table with filters applied to provide a single source of information for all users. For more information, see [Report sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_ReportSources.md#).**Note:** If you select a data source used by existing reports, a notification prompts you to view them.
 
 </td></tr><tr><td id="d163525e160">
 
@@ -51,7 +51,7 @@ The raw data from a table with no filters applied. When you select a table, its 
 
 </td><td>
 
-Choose an existing imported report source, or select the Upload icon \(![Upload icon](../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](create-report-with-imported-data-source.md).
+Choose an existing imported report source, or select the Upload icon \(![Upload icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/upload-icon.png)\) to import a new file. See [Create a Core UI report from an imported Microsoft Excel document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/create-report-with-imported-data-source.md).
 
 </td></tr><tr><td id="d163525e204">
 
@@ -86,7 +86,7 @@ Choose columns
 
 Fields to display as columns in the list report. In the Columns window that opens after you click **Choose columns**, select fields in the Available list that you want to appear in your report and move them to the Selected list. Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields
 
- Depending on system configuration, you can add fields from tables that extend the selected table. For more information, see [Report on extended tables](t_AccessFieldExtendedTable.md#).
+ Depending on system configuration, you can add fields from tables that extend the selected table. For more information, see [Report on extended tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_AccessFieldExtendedTable.md#).
 
 </td></tr><tr><td>
 
@@ -94,12 +94,12 @@ Group by
 
 </td><td>
 
-Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
+Group report data using the values of this field. For example, in an incident report grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. To group by fields on extended tables, see [How to report on extended tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for a description of the selected field. Configured function fields appear in this list after you save the report.
 
  **Note:**
 
 -   It is not possible to group or stack reports by the **Tags** field, or by certain MySQL database field types, such as MEDIUMTEXT. For more information, see [Database field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_DatabaseFieldTypes.md).
--   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](../../performance-analytics/concept/performance-analytics-glossary.md#).
+-   Grouping or stacking by Variables or Questions fields is not supported for reports based on [database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/concept/performance-analytics-glossary.md#).
 
 
 </td></tr><tr><td>
@@ -108,13 +108,13 @@ Additional group by
 
 </td><td>
 
-Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
+Extra fields to group the report by. When you select **Additional group by** fields or function fields, the report includes a control at the bottom that allows you to group the report by any one of the additional fields. To group by fields on extended tables as well, see [How to report on extended tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_AccessFieldExtendedTable.md#). Select the info icon ![](../../par-for-workspace/image/icon-info.png) for descriptions of the selected fields Configured function fields appear in this list after you save the report.
 
 **Note:**
 
 -   You can see choices in the **Additional group by** list that do not appear in the main **Group by** list. The report does not support grouping or stacking by the extra fields you see. Unlike the main **Group by** choices, the **Additional group by** fields are not filtered. If you select an unsupported field, it has no effect.
 -   The limitations listed for the main **Group by** field also apply to the **Additional group by** field.
- For more information, see [Add an additional group by or stack by](add-additional-group-by-stack-by.md).
+ For more information, see [Add an additional group by or stack by](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/add-additional-group-by-stack-by.md).
 
 </td></tr><tr><td>
 
@@ -122,12 +122,12 @@ Configure function field
 
 </td><td>
 
-Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](../concept/function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
+Configure fields based on calculation of multiple inputs including arithmetic functions. For more information, see [Report on function fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/function-fields-reporting.md). Function field results are calculated when the report is run. You can use the results for aggregations and grouping. You have to save the report before you can configure function fields.Configured function fields appear in the **Group by** and **Additional group by** lists after you save the report.
 
 </td></tr></tbody>
 </table>8.  Configure the sort order of the applicable fields in the report \(column, row, Group by, Stack by or Trend by depending on the report type\).
 
-    Select the filter icon \(![Filter icon for lists](../../../common/image/List_FilterIcon.png)\) and choose **Add Sort**.
+    Select the filter icon \(![Filter icon for lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../../common/image/List_FilterIcon.png)\) and choose **Add Sort**.
 
     1.  In the Sorting Order list, choose the field you want to sort on and then choose **a-z** or **z-a** for alphabetical order or reverse alphabetical order.
 
@@ -135,13 +135,13 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
         **Note:** On fields from dot-walked \(extended\) tables, you can only sort on date fields.
 
-    2.  Select the sort plus icon \(![Sort plus icon](../image/sort-order-plus-icon.png)\) to configure additional sorting order conditions. \(Select the sort minus icon \( ![Sort minus icon](../image/sort-order-minus-icon.png)\) to delete configured sorting order conditions.\)
+    2.  Select the sort plus icon \(![Sort plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/sort-order-plus-icon.png)\) to configure additional sorting order conditions. \(Select the sort minus icon \( ![Sort minus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/sort-order-minus-icon.png)\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
     For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
-    ![Report sorted by priority choice list](../image/choice-list-sort-order.png)
+    ![Report sorted by priority choice list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/choice-list-sort-order.png)
 
-9.  To limit the information displayed in the report, select the filter icon \(![Filter icon](../../../common/image/List_FilterIcon.png)\) and specify conditions to filter the report data.
+9.  To limit the information displayed in the report, select the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../../common/image/List_FilterIcon.png)\) and specify conditions to filter the report data.
 
     To learn how to construct conditions, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
@@ -149,15 +149,15 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
 
 10. On the **Style** tab, add and configure a report title.
 
-    See [List report style options](../reference/list-report-style-options.md).
+    See [List report style options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/list-report-style-options.md).
 
 11. Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
 
 ## What to do next
 
--   Select the Report info icon \(![Info icon](../../../common/image/Form_ReferenceLookupIcon.png)\) and add a description of the report.
--   Click the sharing icon \(![Sharing icon](../image/ShareIcon.png)\) to open the **Sharing** menu. On this menu, you can add the report to a dashboard, export the report to PDF, publish the report to the web, and set visibility and schedules. For more information, see [Share a Core UI report](t_ShareASetting.md).
+-   Select the Report info icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../../common/image/Form_ReferenceLookupIcon.png)\) and add a description of the report.
+-   Click the sharing icon \(![Sharing icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ShareIcon.png)\) to open the **Sharing** menu. On this menu, you can add the report to a dashboard, export the report to PDF, publish the report to the web, and set visibility and schedules. For more information, see [Share a Core UI report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_ShareASetting.md).
 
     **Note:**
 
@@ -165,5 +165,5 @@ Configure fields based on calculation of multiple inputs including arithmetic fu
     -   Despite list filtering, pdf-format exported rows will count all record rows sequentially up to the export limit and show as blank for roles prevented by ACLs from viewing restricted data.
 -   [Configure and use list functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-use-list-functions.md)
 
-**Parent Topic:**[List reports](../concept/list-reports.md)
+**Parent Topic:**[List reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/list-reports.md)
 

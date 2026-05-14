@@ -13,7 +13,7 @@ breadcrumb: [Set the application scope, application resource, and event access, 
 
 Allow or deny access of all application resources in a source scope to a specific application resource \(business rule, table, script include, or event\) in a target scope.
 
-This setting combination is a many-to-one relationship. For example, you can specify that all application resources in source Scope A can access a script include in target Scope B. ![Restricted caller access scope to target setting](../image/Rcap-scope-to-target.png)
+This setting combination is a many-to-one relationship. For example, you can specify that all application resources in source Scope A can access a script include in target Scope B. ![Restricted caller access scope to target setting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/Rcap-scope-to-target.png)
 
 Enter the following field settings for Scope-to-Target restricted caller access.
 
@@ -26,5 +26,5 @@ Enter the following field settings for Scope-to-Target restricted caller access.
 |Target Type|Type of requested resource. Select the specific application resource \(for example, business rule, script include, UI page, event\) the source application resource requests access to.|
 |Operation|Type of operation \(for example, Read, Write\) in the target application resource the source application resource requests access to.|
 
-**Parent Topic:**[Set the application scope, application resource, and event access](../task/scope-resource-access.md)
+**Parent Topic:**[Set the application scope, application resource, and event access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/scope-resource-access.md)
 

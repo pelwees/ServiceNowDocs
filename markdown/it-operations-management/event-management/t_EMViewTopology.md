@@ -69,7 +69,7 @@ In the service map:1.  Click a CI tile.
 </td><td>
 
 In the service map:1.  Click a CI tile.
-2.  Click the additional actions menu icon![Additional actions menu option.](../image/context-menu-icon.png) to view the **Affected CIs** indicator.
+2.  Click the additional actions menu icon![Additional actions menu option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/context-menu-icon.png) to view the **Affected CIs** indicator.
 3.  Below the map, click the **Affected CIs** tab.
 
 
@@ -110,7 +110,7 @@ In the service map: 1.  Right-click a path between CIs.
 
 </td><td>
 
-In the service map header: 1.  Click the additional actions menu icon ![Additional actions menu option.](../image/context-menu-icon.png)
+In the service map header: 1.  Click the additional actions menu icon ![Additional actions menu option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/context-menu-icon.png)
 2.  You can select the **Map Indicators** for additional information that you want to view.
 
 
@@ -127,7 +127,7 @@ In the topology, right-click the CI, and then select **Remediation options**.
 **Related topics**  
 
 
-[Alert impact calculation](../concept/c_EMImpactCalculation.md)
+[Alert impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/c_EMImpactCalculation.md)
 
-[Understand Service Maps](../concept/Understand-Service-Maps.md)
+[Understand Service Maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/Understand-Service-Maps.md)
 

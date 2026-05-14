@@ -17,7 +17,7 @@ You can specify access permissions for externally defined users and groups when 
 
 For details on including access permissions for externally defined users and groups in ingested external documents, see the POST /ais/external\_content/ingestDocument/\{schema\_table\_name\} endpoint of the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/external-content-ingestion-api.md).
 
-**Parent Topic:**[External content security for AI Search](external-content-security-ais.md)
+**Parent Topic:**[External content security for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-security-ais.md)
 
 ## External content access permissions
 
@@ -57,7 +57,7 @@ List of externally defined groups that are denied access to the external documen
 
  This permission takes precedence over **groups.read**. If the same group has both read and deny access permissions for a document, AI Search denies members of the group access to the indexed record.
 
- By default, **users.read** takes precedence over this permission. To reverse this precedence order for an indexed source, see [Change the precedence of user read and group deny permissions for an external content indexed source](defining-access-perms-ext-docs-ais.md#).
+ By default, **users.read** takes precedence over this permission. To reverse this precedence order for an indexed source, see [Change the precedence of user read and group deny permissions for an external content indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-access-perms-ext-docs-ais.md#).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ List of externally defined users that are allowed access to the external documen
 
  **users.deny** takes precedence over this permission. If the same user has both read and deny access permissions for a document, AI Search denies that user access to the indexed record.
 
- By default, this permission takes precedence over **groups.deny**. To reverse this precedence order for an indexed source, see [Change the precedence of user read and group deny permissions for an external content indexed source](defining-access-perms-ext-docs-ais.md#).
+ By default, this permission takes precedence over **groups.deny**. To reverse this precedence order for an indexed source, see [Change the precedence of user read and group deny permissions for an external content indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-access-perms-ext-docs-ais.md#).
 
 </td></tr></tbody>
 </table>### Precedence order for principal permissions
@@ -140,10 +140,10 @@ From highest precedence to lowest:1.  **everyone** and **none**
 2.  **users.deny** and **groups.deny**
 3.  **users.read** and **groups.read**
 
- **Note:** For instructions on setting this attribute value, see [Change the precedence of user read and group deny permissions for an external content indexed source](defining-access-perms-ext-docs-ais.md#).
+ **Note:** For instructions on setting this attribute value, see [Change the precedence of user read and group deny permissions for an external content indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-access-perms-ext-docs-ais.md#).
 
 </td></tr></tbody>
-</table>For details on how content security permissions from certain user roles interact with these external content security principals, see [Special external content access permissions by role](defining-access-perms-ext-docs-ais.md#).
+</table>For details on how content security permissions from certain user roles interact with these external content security principals, see [Special external content access permissions by role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-access-perms-ext-docs-ais.md#).
 
 ## Special external content access permissions by role
 
@@ -163,7 +163,7 @@ AI Search administrator \[ais\_admin\]
 
 </td><td>
 
-An AI Search administrator can access all external content indexed records in a search application.**Note:** To bypass all search source and content security filtering in the Search Preview UI, you also need the impersonator and AI Search high security administrator \[ais\_high\_security\_admin\] roles. For details on this procedure, see [Diagnose search result access issues using the Search Preview UI](../task/diagnose-srch-result-access-ais.md).
+An AI Search administrator can access all external content indexed records in a search application.**Note:** To bypass all search source and content security filtering in the Search Preview UI, you also need the impersonator and AI Search high security administrator \[ais\_high\_security\_admin\] roles. For details on this procedure, see [Diagnose search result access issues using the Search Preview UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/diagnose-srch-result-access-ais.md).
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ To reverse this default behavior for an indexed source, making external group de
 
 1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
-2.  If the Advanced Configuration related list doesn't appear on the form, follow the steps in [Add a related list to a form](../../form-administration/concept/configure-form-layout.md#), selecting the **AI Search Indexed Source Attribute-&gt;Indexed Source** list in the slushbucket.
+2.  If the Advanced Configuration related list doesn't appear on the form, follow the steps in [Add a related list to a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../form-administration/concept/configure-form-layout.md#), selecting the **AI Search Indexed Source Attribute-&gt;Indexed Source** list in the slushbucket.
 
 3.  In the Advanced Configuration related list, select **New**.
 
@@ -217,7 +217,7 @@ To reverse this default behavior for an indexed source, making external group de
     |Attribute|user\_read\_takes\_precedence\_over\_group\_deny|
     |Value|false|
 
-    For a description of the field values, see [Indexed Source Attribute form](../reference/indexed-source-attribute-form-ais.md).
+    For a description of the field values, see [Indexed Source Attribute form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/indexed-source-attribute-form-ais.md).
 
 5.  Select **Submit**.
 

@@ -15,7 +15,7 @@ Configure a ServiceNow AI Lens launcher button with scripted screen.
 
 The following example adds a button instance to the “top-icon” location of the scripted screen. The highlighted portions indicate the updates needed in an existing scripted screen to add the ServiceNow AI Lens Launcher button.
 
-![scripted screen with new code highlighted](../image/na-lens-launcher-scripted-screen.png "Lens launcher configured with scripted screen")
+![scripted screen with new code highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-lens-launcher-scripted-screen.png "Lens launcher configured with scripted screen")
 
 ```
 (function ScriptedScreen(input, result) {
@@ -51,5 +51,5 @@ In this example, `a719743e0f703210e83019e800d1b29d` is the sys\_id of the **sys\
 
 The third parameter in `ButtonInstanceBuilder()` is the location. The location can be either `top_icon` or `top`.
 
-**Parent Topic:**[Configure a Lens launcher button](configure-lens-launcher-button.md)
+**Parent Topic:**[Configure a Lens launcher button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-lens-launcher-button.md)
 

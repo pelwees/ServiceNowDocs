@@ -205,7 +205,7 @@ Width
 
 </td><td>
 
-The number of columns the component occupies in the ribbon. The width of the page is 12 columns. When using multiple components, the total combined width of all the components must equal 12 or less.**Note:** The width is ignored if the ribbon is configured to display in the [contextual side panel](config-csm-display-header-in-sidebar.md).
+The number of columns the component occupies in the ribbon. The width of the page is 12 columns. When using multiple components, the total combined width of all the components must equal 12 or less.**Note:** The width is ignored if the ribbon is configured to display in the [contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md).
 
 </td></tr><tr><td>
 
@@ -223,6 +223,6 @@ Toggle to turn this component on/off in the ribbon for this table.
 
 You can display the form ribbon at the top of the form or in the Contextual side panel. For more information, see the following topics:
 
--   [CSM Configurable Workspace form ribbon and components](../reference/csm-agent-workspace-ribbon.md)
--   [Display the form ribbon and form header secondary values in the Contextual side panel](config-csm-display-header-in-sidebar.md)
+-   [CSM Configurable Workspace form ribbon and components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-agent-workspace-ribbon.md)
+-   [Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md)
 

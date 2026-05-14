@@ -103,11 +103,11 @@ WatchFileSystem method error.
 </td></tr></tbody>
 </table>-   **Input**
 
-    [Path](parameters-systemevents-methods.md#watchfilesystem-input-filepath)
+    [Path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-systemevents-methods.md#watchfilesystem-input-filepath)
 
-    [FileTypes](parameters-systemevents-methods.md#watchfilesystem-input-filetypes)
+    [FileTypes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-systemevents-methods.md#watchfilesystem-input-filetypes)
 
-    [SubDirectories \(Boolean\)](parameters-systemevents-methods.md#watchfilesystem-input-subdirectories)
+    [SubDirectories \(Boolean\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-systemevents-methods.md#watchfilesystem-input-subdirectories)
 
 
 ## WatchNetworkAvailability
@@ -142,5 +142,5 @@ Stops or prevents the RPA Desktop Design Studio watching the network availabilit
 
 Stops or prevents RPA Desktop Design Studio watching the network availability events. You can use this method before or after the WatchSessionEvents method was already used.
 
-**Parent Topic:**[System Events](../concept/system-events-connector.md)
+**Parent Topic:**[System Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/system-events-connector.md)
 

@@ -77,20 +77,20 @@ CSOD Status\[sn\_hr\_cornerstone\_status\]
 Status of transcripts in the Cornerstone OnDemand system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](reference-ondemand.md)
+</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-ondemand.md)
 
 **Related topics**  
 
 
-[Source for HR Service Delivery Integration with Cornerstone OnDemand](../concept/hr-cornerstone-properties.md)
+[Source for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-cornerstone-properties.md)
 
-[HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](../concept/cornerstone-hr-service.md)
+[HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/cornerstone-hr-service.md)
 
-[Users for HR Service Delivery Integration with Cornerstone OnDemand](../concept/users-cornerstone.md)
+[Users for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/users-cornerstone.md)
 
-[Learning objects for HR Service Delivery Integration with Cornerstone OnDemand](../concept/learning-objects-corner.md)
+[Learning objects for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/learning-objects-corner.md)
 
-[Status mapping in Cornerstone OnDemand System](../concept/status-cornerstone.md)
+[Status mapping in Cornerstone OnDemand System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/status-cornerstone.md)
 
-[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](transform-maps-cornerstone.md)
+[Transform maps for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-cornerstone.md)
 

@@ -19,7 +19,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Overview tab in the Execution Dashboard
 
-![Execution Dashbaord-Overview in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-overview-ppw.gif)
+![Execution Dashbaord-Overview in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-overview-ppw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -36,7 +36,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Financial tab in the Execution Dashboard
 
-![Execution Dashbaord-Financial in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-financial-ppw.gif)
+![Execution Dashbaord-Financial in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-financial-ppw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -56,7 +56,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Milestones &amp; Dependency tab in the Execution Dashboard
 
-![Execution Dashbaord-Milestones & Dependency in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-milestones-dependency-ppw.gif)
+![Execution Dashbaord-Milestones & Dependency in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-milestones-dependency-ppw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -69,7 +69,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Capacity tab in the Execution Dashboard
 
-![Execution Dashbaord-Capacity in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-capacity-ppw.gif)
+![Execution Dashbaord-Capacity in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-capacity-ppw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -80,11 +80,11 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## RIDAC tab in the Execution Dashboard
 
-![Execution Dashbaord-RIDAC in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-ridac-ppw.gif)
+![Execution Dashbaord-RIDAC in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-ridac-ppw.gif)
 
 ## Data Quality tab in the Execution Dashboard
 
-![Execution Dashbaord-Data Quality in Portfolio Planning.](../../ppw-dashboards/images/execution-dashboard-data-quality-ppw.gif)
+![Execution Dashbaord-Data Quality in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/images/execution-dashboard-data-quality-ppw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -112,5 +112,5 @@ The Execution Dashboard provides various analytics across different tabs, includ
 |--------------------|-----------|
 |Planned cost by location|Estimated cost by location for executing the plan.|
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../../ppw-dashboards/concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../ppw-dashboards/concept/using-dashboards-in-ppw.md)
 

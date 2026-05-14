@@ -19,19 +19,19 @@ Use the ServiceNow® Now Assist for Sourcing and Procurement Operations \(SPO\) 
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SPO](now-assist-spo-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SPO](now-assist-spo-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SPO application to get started](../task/configure-now-assist-for-spo.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SPO application to get started](../task/configure-now-assist-for-spo.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for SPO](now-assist-spo-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for SPO](now-assist-spo-using.md)
 
 </td></tr><tr><td>
 
-[Use Sourcing and Procurement Operations AI agent collection![](../../../reuse/icons/brand-icons/bus-explore.svg)Use agentic workflows in Now Assist for SPO](agentic-ai-now-assist-spo.md)
+[Use Sourcing and Procurement Operations AI agent collection![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Use agentic workflows in Now Assist for SPO](agentic-ai-now-assist-spo.md)
 
 </td><td>
 

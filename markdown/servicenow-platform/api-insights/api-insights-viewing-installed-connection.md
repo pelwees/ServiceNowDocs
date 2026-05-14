@@ -17,8 +17,8 @@ You can view installed and draft API data connections that were added using Serv
 
 The following connection types are available for viewing:
 
--   Installed connection \(see [View an installed connection within API Insights](api-insights-viewing-installed-connection.md#).\)
--   Draft connection \(see [View a draft connection within API Insights](api-insights-viewing-installed-connection.md#).\)
+-   Installed connection \(see [View an installed connection within API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-viewing-installed-connection.md#).\)
+-   Draft connection \(see [View a draft connection within API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-viewing-installed-connection.md#).\)
 
 ## View an installed connection within API Insights
 

@@ -17,7 +17,7 @@ As an enterprise architect, gain insights into your organization's API performan
 
 The API details page in the API Insights workspace provides a detailed view of an API's operational status, usage, security, and relationships within CMDB.
 
-![The API details page in the API Insights workspace](../image/api-insights-details-page.png "API details page")
+![The API details page in the API Insights workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-details-page.png "API details page")
 
 .
 
@@ -29,14 +29,14 @@ To access the API details page, navigate to **Workspaces** &gt; **API Insights**
 
 By default, the page displays the following data:
 
--   [Header region](api-insights-api-details-page.md#header)
--   [Metadata region](api-insights-api-details-page.md#metadata)
--   [Related lists](api-insights-api-details-page.md#access)
--   [Overview panel](api-insights-api-details-page.md#overview)
--   [Usage](api-insights-api-details-page.md#usage)
--   [Events](api-insights-api-details-page.md#events)
--   [Security](api-insights-api-details-page.md#security)
--   [Relationship map](api-insights-api-details-page.md#relationship)
+-   [Header region](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#header)
+-   [Metadata region](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#metadata)
+-   [Related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#access)
+-   [Overview panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#overview)
+-   [Usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#usage)
+-   [Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#events)
+-   [Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#security)
+-   [Relationship map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-api-details-page.md#relationship)
 
 -   **Header region**
 
@@ -160,11 +160,11 @@ Security incidents, if enabled, providing insights into security breaches or iss
 </td></tr></tbody>
 </table>-   **Relationship map**
 
-    Provides a hierarchical overview of the API relationships with its components, management platforms, business applications, and designs, making it easier to understand the API's role within the broader system architecture.In addition, provides the option to manage application service relationships. See [Managing application service relationships for APIs](api-insights-manage-serv-reln.md#).
+    Provides a hierarchical overview of the API relationships with its components, management platforms, business applications, and designs, making it easier to understand the API's role within the broader system architecture.In addition, provides the option to manage application service relationships. See [Managing application service relationships for APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-manage-serv-reln.md#).
 
-    A relationship map is a partial unified map similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](../../configuration-management/concept/cmdb-workspace-unified-map.md).
+    A relationship map is a partial unified map similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/concept/cmdb-workspace-unified-map.md).
 
-    ![API unified map](../image/api-insights-rel-map.png "Unified map for APIs")
+    ![API unified map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-rel-map.png "Unified map for APIs")
 
     Nodes on the map represent the API and its components in the CMDB and lines represent connections and relationships between API components. The connections help you, for example, to assess the impact of a change to a selected node by showing components that are connected to it through relationships and references. Products such as [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md), [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md), and [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md) benefit from such information.
 
@@ -185,10 +185,10 @@ Security incidents, if enabled, providing insights into security breaches or iss
         Use the toolbox to control several visual aspects of the map, such as zoom level or layout mode.
 
     -   **4: Contextual side panel**
-        -   The **Attributes** panel \(![Attributes icon.](../../configuration-management/image/icon-um-attributes-panel.png)\) lists attributes like location and operational status for the selected API or relationship.
-        -   The **Application services** panel \(![Application services icon.](../../configuration-management/image/icon-um-app-services-panel.png)\) lists details of application services associated with the selected API.
-        -   The **Related items** panel \(![Related items icon.](../../configuration-management/image/icon-um-related-items-panel.png)\) shows related items such as active incidents or active problems for the selected API.
-        -   The **Changes** panel \(![Changes icon.](../../configuration-management/image/icon-um-changes-panel.png)\) lists changes such as changes to operational status for the selected API.
+        -   The **Attributes** panel \(![Attributes icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/image/icon-um-attributes-panel.png)\) lists attributes like location and operational status for the selected API or relationship.
+        -   The **Application services** panel \(![Application services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/image/icon-um-app-services-panel.png)\) lists details of application services associated with the selected API.
+        -   The **Related items** panel \(![Related items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/image/icon-um-related-items-panel.png)\) shows related items such as active incidents or active problems for the selected API.
+        -   The **Changes** panel \(![Changes icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/image/icon-um-changes-panel.png)\) lists changes such as changes to operational status for the selected API.
     -   **5: Mini-map navigator**
 
         Set the zoom level or move the view to an area of interest. Select the icon to show or hide the navigator.

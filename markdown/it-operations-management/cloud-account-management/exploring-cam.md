@@ -22,7 +22,7 @@ The automation capabilities of Cloud Account Management in Cloud Workspace simpl
 
 As a Cloud Account Management admin, you can view the account statistics displayed on the **Home** tab, which include critical severity accounts, high severity accounts, suspended accounts, accounts due for certification, and accounts with undefined budgets.
 
-![Cloud Account Management overview infographic](../image/overview-cam.png)
+![Cloud Account Management overview infographic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/overview-cam.png)
 
 ## About Cloud Workspace entitlements
 
@@ -44,7 +44,7 @@ Cloud Account Management dynamically adjusts the features available to you based
 
 The compliance dashboard consolidates data from ITOM Visibility, Cloud Account Management to provide a unified view of cloud data and key metrics critical for security and compliance reporting.
 
-For more details, see [Viewing the compliance dashboard](viewing-compliance-dashboard.md).
+For more details, see [Viewing the compliance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-compliance-dashboard.md).
 
 ## Cloud account terminology
 
@@ -76,7 +76,7 @@ For Cloud Account Management, these operations are referred to as IAM service ac
 |Asset viewer|Can view all the configuration items \(CIs\) in Asset Explorer and access the compliance dashboard.|
 |Account manager|Can view all account details and associated assets. Account managers have edit access to accounts with primary ownership and read-only access to those with secondary ownership.|
 
-For more information about Cloud Account Management groups and responsibilities, see [Cloud Account Management ACL groups, roles, and responsibilities](../reference/cam-acl-groups-and-roles.md).
+For more information about Cloud Account Management groups and responsibilities, see [Cloud Account Management ACL groups, roles, and responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/cam-acl-groups-and-roles.md).
 
 ## Cloud Account Management Benefits
 
@@ -100,9 +100,9 @@ Simplifies subscription account creation by defining standardized procedures and
 
 </td><td>
 
-[Request a cloud account](../task/request-account.md)
+[Request a cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/request-account.md)
 
- [Cancel a Cloud account request](../task/cancel-cam-account.md)
+ [Cancel a Cloud account request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/cancel-cam-account.md)
 
 </td><td>
 
@@ -116,17 +116,17 @@ Enables suspending or reactivating accounts, and adding unmanaged accounts.
 
 </td><td>
 
-[Suspend a Cloud account](suspend-account.md)
+[Suspend a Cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/suspend-account.md)
 
- [Reactivate a cloud account](../task/reactivate-account.md)
+ [Reactivate a cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/reactivate-account.md)
 
- [Add an unmanaged cloud account](add-unmanaged-account-cam.md)
+ [Add an unmanaged cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/add-unmanaged-account-cam.md)
 
- [Creating configurations](cam-config.md)
+ [Creating configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-config.md)
 
- [About data visualization in Cloud Account Management](about-data-visualzation-cam.md)
+ [About data visualization in Cloud Account Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-data-visualzation-cam.md)
 
- [Review request policies](viewing-pace-policy.md)
+ [Review request policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-pace-policy.md)
 
 </td><td>
 
@@ -138,7 +138,7 @@ Streamlines performing verifications that a person or entity has legitimate owne
 
 </td><td>
 
-[Certify an account](../task/certify-account.md)
+[Certify an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/certify-account.md)
 
 </td><td>
 
@@ -148,9 +148,9 @@ Certifier
 </table>**Related topics**  
 
 
-[About Amazon Web Services API permissions](about-aws-api-permissions.md)
+[About Amazon Web Services API permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-aws-api-permissions.md)
 
-[Components installed with Cloud Account Management](../reference/components-installed-with-cam.md)
+[Components installed with Cloud Account Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/components-installed-with-cam.md)
 
-[About provision modes in Cloud Account Management](about-provision-modes.md)
+[About provision modes in Cloud Account Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-provision-modes.md)
 

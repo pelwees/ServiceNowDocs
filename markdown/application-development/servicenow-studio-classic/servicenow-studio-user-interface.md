@@ -35,34 +35,34 @@ The home page provides access to all tools and services in ServiceNow Studio.
 
 -   The toolbar provides access to the home page, Tools page, and Deployment.
 
-    ![ServiceNow Studio tool bar](../image/sn-studio-tool-bar.png)
+    ![ServiceNow Studio tool bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-tool-bar.png)
 
     |Page|Description|
     |----|-----------|
     |Home|Main landing page for ServiceNow Studio. Access the Navigator panel, recently opened files and apps, and other tools and resources.|
-    |Tools|Access documentation for the tools and builders in ServiceNow Studio. For more information, see [Integrated development tools for ServiceNow Studio](integrated-development-tools.md).|
+    |Tools|Access documentation for the tools and builders in ServiceNow Studio. For more information, see [Integrated development tools for ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/integrated-development-tools.md).|
     |Deployment|View, manage, and deploy apps using update sets, pipelines, or the Application Repository. New update sets appear on the **Deployment** page. You can also deploy apps directly from the App details page.|
 
 -   The user preferences menu provides access to ServiceNow Studio preferences, where you can select light or dark theme andchoose whether you want to use Build Agent as your default AI-assisted app generation tool.
 
-    ![The user preferences menu provides access to ServiceNow Studio settings.](../image/sn-studio-user-menu.png)
+    ![The user preferences menu provides access to ServiceNow Studio settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-user-menu.png)
 
-    ![Personalize your interface by choosing light or dark theme. Build Agent is active by default, but you can turn it off to continue using Now Assist for app generation.](../image/sn-studio-preferences-as1.png)
+    ![Personalize your interface by choosing light or dark theme. Build Agent is active by default, but you can turn it off to continue using Now Assist for app generation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-preferences-as1.png)
 
 -   Use the Create button to create apps and app filesor import a new app from source control.
 
-    ![In the Create menu, you can create a new app or file or import a new app from source control.](../image/sn-studio-create-options.png)
+    ![In the Create menu, you can create a new app or file or import a new app from source control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-create-options.png)
 
 -   The Resources section at the bottom of the home page links to the ServiceNow Community site, the App Gallery, and the Script Debugger tool. It also provides access to product documentation for ServiceNow Studio and Creator Studio applications.
 
-    ![The Resources section provides several links to tools, products, and documentation.](../image/sn-studio-resources-zs2.png)
+    ![The Resources section provides several links to tools, products, and documentation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-resources-zs2.png)
 
 
 ## How do I view the scope and update set?
 
 When you have an app or file open, the status bar shows the current scope and the update set associated with the application. To change the update set or create a new one, open the default update set and select a different one directly within the app.To see all updates associated with the current update set, select **View update set**.
 
-![Each app shows its scope and update set at the bottom of the canvas. Select a new update set or create one to change it.](../image/sn-studio-scope-update-set-zs1.png)
+![Each app shows its scope and update set at the bottom of the canvas. Select a new update set or create one to change it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-update-set-zs1.png)
 
-For more information, see [Working with update sets in ServiceNow Studio](working-with-update-sets-in-servicenow-studio.md).
+For more information, see [Working with update sets in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/working-with-update-sets-in-servicenow-studio.md).
 

@@ -29,7 +29,7 @@ Role required: admin
 
     The Data Broker Server Script form opens.
 
-    ![Data Broker Server Script form displaying sample values to configure for the playbook visibility.](../image/cmpro-data-broker-playbook.png "Data Broker Server Script form")
+    ![Data Broker Server Script form displaying sample values to configure for the playbook visibility.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-data-broker-playbook.png "Data Broker Server Script form")
 
 3.  In the **Name** field, enter the name for your configuration.
 
@@ -75,5 +75,5 @@ Role required: admin
 8.  Select **Update** to save the data broker server script.
 
 
-**Parent Topic:**[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+**Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

@@ -39,5 +39,5 @@ The values for each field in the Microsoft 365 Apps Usage Reports \[samp\_m365\_
 |OneNote \(Windows\)|Indicates usage of Microsoft OneNote on Windows with the value True or False.|
 |Teams \(Windows\)|Indicates usage of Microsoft Teams on Windows with the value True or False.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

@@ -105,10 +105,10 @@ Icon
 Enter name of the icon for which you want to associate the diagram action.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a diagram action for a custom shape](../../task/eaw-task/eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-action-custom-shape.md)
 

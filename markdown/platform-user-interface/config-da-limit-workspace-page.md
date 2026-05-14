@@ -15,7 +15,7 @@ Configure a global list action to display only on a specified workspace page.
 
 ## Before you begin
 
-Configure an action configuration record for a list action, and copy the action configuration record's sys\_id. For instructions, see [Configure an action configuration record](config-da-action-configuration.md).
+Configure an action configuration record for a list action, and copy the action configuration record's sys\_id. For instructions, see [Configure an action configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-da-action-configuration.md).
 
 Role required: admin
 
@@ -45,7 +45,7 @@ When the **Experience Restricted** field is set to true, the list action doesn't
 
 6.  Select or create a list page.
 
-    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](create-configurable-workspace-page-uib.md).
+    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-page-uib.md).
 
 7.  From the Content tree, select the **Record List Header**.
 

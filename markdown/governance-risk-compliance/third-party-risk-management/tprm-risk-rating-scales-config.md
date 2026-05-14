@@ -29,7 +29,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
     The base system includes five ratings. You can customize their maximum and minimum values.
 
-    ![Risk Rating Scales list.](../image/vrm-risk-scale.png)
+    ![Risk Rating Scales list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vrm-risk-scale.png)
 
 2.  Refine the existing values.
 
@@ -37,7 +37,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
     2.  Select **Open Record** in the Default risk rating scale pop-up.
 
-        ![Open a Risk record.](../image/vrm-risk-open-record.png)
+        ![Open a Risk record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vrm-risk-open-record.png)
 
 3.  Customize the **Minimum** and **Maximum** to adjust the lowest and highest value that falls in the risk rating scale range.
 

@@ -21,35 +21,35 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Business Capability Hierarchy page by selecting the Business Portfolio icon \(![Business Portfolio icon.](../../image/business-portfolio-icon.png)\).
+2.  Open the Business Capability Hierarchy page by selecting the Business Portfolio icon \(![Business Portfolio icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/business-portfolio-icon.png)\).
 
-3.  Select the row context menu icon \(![Row context menu icon.](../../../../common/image/icon-menu.png)\) and select **Create Demand**.
+3.  Select the row context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../../common/image/icon-menu.png)\) and select **Create Demand**.
 
 4.  Select **Open in new tab**.
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Demand form](../../reference/eaw-reference/eaw-edit-demand-form.md).
+    For a description of the field values, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-edit-demand-form.md).
 
 6.  Select **Save** to save the record and remain on the same form to add more details to the demand.
 
 
-**Parent Topic:**[Working with the business portfolio module](../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../assign-a-business-application.md)
 
-[Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
+[Unassign a business application from a capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/unassign-a-business-application-from-a-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../update-hierarchy.md)
 
-[View a roadmap of a business capability](eaw-view-roadmap-bc.md)
+[View a roadmap of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-roadmap-bc.md)
 
-[Create a sub-capability](eaw-create-sub-capability.md)
+[Create a sub-capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-sub-capability.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../add-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../delete-a-capability.md)
 

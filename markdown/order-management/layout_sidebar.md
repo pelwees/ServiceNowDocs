@@ -15,7 +15,7 @@ Use the sidebar element to display persistent information—such as visualizatio
 
 In a layout, the sidebar element can be used to show persistent information to the end user across multiple tiers.
 
-![Layout: Sidebar](../images/cpq-layout-sidebar.png)
+![Layout: Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-sidebar.png)
 
 **Note:** Currently, you cannot implement this feature using the CPQ layout editor. You must create the sidebar element in the layout CSV and then import the CSV file.
 
@@ -45,7 +45,7 @@ The sidebar can host the 3D visualization tools an organization uses during conf
 
 ## Use case: product information
 
-![Layout: Sidebar](../images/cpq-layout-sidebar-product-info.png)
+![Layout: Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-sidebar-product-info.png)
 
 The sidebar can host anything from the product or quote using the system or partner fields that you would like to make available to the end user throughout the configuration process.
 
@@ -53,7 +53,7 @@ The sidebar can host anything from the product or quote using the system or part
 
 ## Use case: shopping cart
 
-![Layout: Sidebar](../images/cpq-layout-sidebar-shopping-cart.png)
+![Layout: Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-sidebar-shopping-cart.png)
 
 To show a product list other than the shopping cart to the end user, you can host it in the sidebar. This could be helpful if you need to list a separate manufacturing BOM type while only showing sales BOM types in the shopping cart.
 

@@ -18,16 +18,16 @@ Use the Data Loss Prevention Incident Response \(DLP IR\) Analyst Workspace to v
 
 The DLP workspace consists of a home page with dashboards, list views, and form views that let you monitor DLP incidents.
 
-![DLP Workspace Overview page.](../image/dlp-ops-homepage.png "DLP Workspace overview page")
+![DLP Workspace Overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-ops-homepage.png "DLP Workspace overview page")
 
-**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](../task/data-loss-prevention-incident-management.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../task/data-loss-prevention-incident-management.md)
 
 **Related topics**  
 
 
-[Data Loss Prevention Incident Response User Workspace](using-dlp-end-user-portal.md)
+[Data Loss Prevention Incident Response User Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-end-user-portal.md)
 
-[Data Loss Prevention Incident Response Dashboard](using-dlp-dashboard.md#)
+[Data Loss Prevention Incident Response Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-dashboard.md#)
 
 ## Review and assign your DLP incidents
 
@@ -337,7 +337,7 @@ Preview Data Loss Prevention Incident Response evidence files in the DLP IR Anal
 
 ### Before you begin
 
-**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](../task/configure-advanced-settings-dlp.md).
+**Important:** While using the Evidence files action in the DLP analyst workspace, the evidence files are temporarily stored in the ServiceNow database in an unencrypted format. If you don't want to store the evidence files, disable the Evidence Files preview feature. For more information, see [Configure advanced settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../task/configure-advanced-settings-dlp.md).
 
 Role required: sn\_dlir.analyst
 
@@ -347,7 +347,7 @@ Role required: sn\_dlir.analyst
 
 2.  Open a DLP incident record.
 
-3.  From the contextual sidebar, select the Evidence files icon \(![Evidence files icon.](../image/icon-evidence-files.png)\).
+3.  From the contextual sidebar, select the Evidence files icon \(![Evidence files icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/icon-evidence-files.png)\).
 
 4.  On the **Evidence Files** tab, select the **Evidence File** card to preview the evidence files in the document viewer.
 
@@ -414,7 +414,7 @@ PDF files
 
 A Data Loss Prevention Incident Response Playbook is a step-by-step guide for addressing and mitigating data loss incidents, which can include unauthorized exposures, leaks, or breaches of sensitive information that can compromise your organization’s security.
 
-The following table lists the activities and stages available for creating a DLP Playbook. For more information, see [Add a DLP Playbook](using-dlp-ops-portal.md#):
+The following table lists the activities and stages available for creating a DLP Playbook. For more information, see [Add a DLP Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-ops-portal.md#):
 
 |Activity|Description|
 |--------|-----------|
@@ -428,14 +428,14 @@ The following table lists the activities and stages available for creating a DLP
 
 The following figure shows the workflow of activities and stages involved in the creation of the Sensitive Data Breach Playbook. Playbook steps vary depending on the workflow.
 
-![Playbook design workflow](../image/sensitive-data.png "Playbook design workflow")
+![Playbook design workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/sensitive-data.png "Playbook design workflow")
 
 **Related topics**  
 
 
-[Add a DLP Playbook](using-dlp-ops-portal.md#)
+[Add a DLP Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-ops-portal.md#)
 
-[Cancel a DLP Playbook](using-dlp-ops-portal.md#)
+[Cancel a DLP Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/using-dlp-ops-portal.md#)
 
 ### Add a DLP Playbook
 

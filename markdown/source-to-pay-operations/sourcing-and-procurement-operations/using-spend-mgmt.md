@@ -15,23 +15,23 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 
 Use Spend and Savings Management to import and manage your organization's category taxonomy.
 
--   **[Map spend categories to product categories using an Excel file](map-spend-product-categories-excel.md)**  
+-   **[Map spend categories to product categories using an Excel file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/map-spend-product-categories-excel.md)**  
 You can map spend categories to product categories using an Excel file to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
--   **[Map spend categories to product categories manually](../task/map-spend-product-categories.md)**  
+-   **[Map spend categories to product categories manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/map-spend-product-categories.md)**  
 You can manually map spend categories to product categories to better organize and manage your organization’s expenses by grouping similar goods or services into logical categories.
 
-**Parent Topic:**[Use Sourcing and Procurement Operations](using-spo.md)
+**Parent Topic:**[Use Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-spo.md)
 
 **Related topics**  
 
 
-[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 
-[Using Shopping Hub Mobile](using-sh-mobile.md)
+[Using Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-sh-mobile.md)
 
-[Using Procurement Case Management](using-pcm.md)
+[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
+[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-playbooks-spo.md)
 
-[Using Sourcing Pipeline Management](use-pipeline-sourcing-mgmt.md)
+[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 

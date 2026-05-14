@@ -27,20 +27,20 @@ To see a list of choice values:
 2.  Right-click the choice value field and select **Configure Dictionary**. For example, configure the dictionary for the **State** field.
 3.  From the Choices related list, note the value for the label you want to query. For example, note that the **Closed** choice has a value of **7**.
 
-**Parent Topic:**[Direct web services](c_DirectWebServices.md)
+**Parent Topic:**[Direct web services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_DirectWebServices.md)
 
 **Related topics**  
 
 
-[Use forms to limit or extend the query response](using-forms-limit-extend-query-resp.md)
+[Use forms to limit or extend the query response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/using-forms-limit-extend-query-resp.md)
 
-[Return the display value for reference variables](return-display-reference-variables.md)
+[Return the display value for reference variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/return-display-reference-variables.md)
 
-[Clear values from a target instance](clearing-values-target.md)
+[Clear values from a target instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/clearing-values-target.md)
 
-[Retrieve journal entries using direct web services](retrieving-journal-entries.md)
+[Retrieve journal entries using direct web services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/retrieving-journal-entries.md)
 
-[Persist an HTTP session across all SOAP calls](persist-session-all-soap-calls.md)
+[Persist an HTTP session across all SOAP calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/persist-session-all-soap-calls.md)
 
-[SOAP direct web service API functions](../../web-services-apis/reference/r_DirectWebServiceAPIFunctions.md)
+[SOAP direct web service API functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../web-services-apis/reference/r_DirectWebServiceAPIFunctions.md)
 

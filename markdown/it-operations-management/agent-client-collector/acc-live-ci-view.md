@@ -33,7 +33,7 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../image/lists-icon.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/lists-icon.png)\).
 
 3.  Select **Incidents** &gt; **All**.
 
@@ -107,7 +107,7 @@ Users logged in to the CI. Whether this data is visible depends on your OS privi
 **Related topics**  
 
 
-[View live CI data logs](acc-live-ci-view-logs.md)
+[View live CI data logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-live-ci-view-logs.md)
 
-[Assign a problematic CI to its incident to view live CI data](acc-live-ci-view-assign-ci.md)
+[Assign a problematic CI to its incident to view live CI data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-live-ci-view-assign-ci.md)
 

@@ -19,9 +19,9 @@ Conditional filters for indicator data cascade from indicator and breakdown sour
 
 Conditional filters can be applied to both automated indicators and indicator sources. In general, conditions that are applied to all indicators with the same source should be applied on the indicator source. To verify that your conditions are well designed, list the indicators for an indicator source and include the Conditions field in the view. You should have at least one indicator that only uses the conditions on the indicator source. Otherwise, your indicator source is probably collecting unused data. In this case, consider moving common conditions from the indicators to the indicator source, or splitting the indicator source.
 
-![List of indicators for the Incidents.Open indicator source, showing that some do not have conditions on the indicator](../image/indicators-wo-adv-conditions.png)
+![List of indicators for the Incidents.Open indicator source, showing that some do not have conditions on the indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/indicators-wo-adv-conditions.png)
 
-**Warning:** To avoid a [data collection job](performance-analytics-glossary.md#) completing with errors, follow these limitations:
+**Warning:** To avoid a [data collection job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#) completing with errors, follow these limitations:
 
 -   Do not add a condition that references Roles to an indicator. You can reference the Roles table only in an indicator source.
 -   If you define conditions that refer only to dot-walked fields, you must associate at least one breakdown with the indicator.
@@ -42,7 +42,7 @@ The following operators are not supported on indicators. You can use these opera
 
 When you select an indicator data source for a data visualization, you have the option to filter the scores by breakdown element.
 
-![Conditional filter for indicator data source on data visualization.](../image/dv-ind-source-con-filter.png)
+![Conditional filter for indicator data source on data visualization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/dv-ind-source-con-filter.png)
 
 The availability of the "is one of" and "is \(dynamic\)" operators depends on how you configure the indicator. The indicator must support multi-element aggregates. The required configuration settings follow:
 
@@ -52,8 +52,8 @@ The availability of the "is one of" and "is \(dynamic\)" operators depends on ho
 -   **is \(dynamic\)**
     -   The aggregation method must not be AVG or COUNT DISTINCT. This requirement applies to automated indicators including the contributing indicators of formula indicators.
     -   The field in the breakdown source must be a reference field.
-    -   An elements filter must be defined for the breakdown source, and this elements filter must have a dynamic conditional filter. For an example, see the Me elements filter on an instance. For more information, see [Element filters](c_BreakdownElementFilters.md#).
+    -   An elements filter must be defined for the breakdown source, and this elements filter must have a dynamic conditional filter. For an example, see the Me elements filter on an instance. For more information, see [Element filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_BreakdownElementFilters.md#).
     -   If the indicator is a formula indicator, the **Allow aggregation of multiple breakdown element scores** option must be on.
 
-**Parent Topic:**[Configure Performance Analytics fundamentals](c_PAWidgetsAndDashboards.md)
+**Parent Topic:**[Configure Performance Analytics fundamentals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWidgetsAndDashboards.md)
 

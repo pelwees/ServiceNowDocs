@@ -118,7 +118,7 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-[Enable related \(derived\) pricing for a price list line](../task/som-create-price-list-line.md)
+[Enable related \(derived\) pricing for a price list line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-create-price-list-line.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Pricing admin or manager
 
 </td></tr><tr><td>
 
-[Create rules for derived product pricing](../task/create-derived-pricing-source.md)
+[Create rules for derived product pricing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-derived-pricing-source.md)
 
 </td><td>
 

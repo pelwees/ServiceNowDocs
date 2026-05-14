@@ -79,7 +79,7 @@ A clone of the work order task set to **Draft** state is created and the origina
 </td></tr></tbody>
 </table>6.  Generate a signed PDF summary for the work order task by tapping **Preview Work Summary**.
 
-    The PDF summary captures the details of the task, and the responses submitted in the smart assessment questionnaire along with the score. For more information, see [Enable PDF summaries at work order task level](../task/enable-pdf-summary.md).
+    The PDF summary captures the details of the task, and the responses submitted in the smart assessment questionnaire along with the score. For more information, see [Enable PDF summaries at work order task level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/enable-pdf-summary.md).
 
 
 ### Result
@@ -89,9 +89,9 @@ When all work order tasks associated with a work order are closed, the work orde
 **Related topics**  
 
 
-[Closing work orders](../../planning-and-policy/concept/c_CloseAWorkOrder.md)
+[Closing work orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/concept/c_CloseAWorkOrder.md)
 
-[System properties](../../planning-and-policy/reference/r_InstalledWithFSM.md)
+[System properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/reference/r_InstalledWithFSM.md)
 
 ## Respond to a reviewed work order task
 
@@ -99,13 +99,13 @@ Respond to a task that was sent back to you for review. Update the work order ta
 
 ### Before you begin
 
-Ensure that the Field Service Quality Management plugin is active. For more information, see [Activate Field Service Quality Management](../task/activate-quality-mgmt.md).
+Ensure that the Field Service Quality Management plugin is active. For more information, see [Activate Field Service Quality Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/activate-quality-mgmt.md).
 
 Role required: wm\_agent
 
 ### About this task
 
-When you close a work order task, the task is sent to a reviewer. The reviewer can either mark the task as complete or request more information. For more information, see [Review a task](../task/review-send-task-back.md). You will receive a notification about the work order task that needs review.
+When you close a work order task, the task is sent to a reviewer. The reviewer can either mark the task as complete or request more information. For more information, see [Review a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/review-send-task-back.md). You will receive a notification about the work order task that needs review.
 
 ### Procedure
 
@@ -150,7 +150,7 @@ Receive a digital signature and confirmation from a customer that a work order h
 
 The **Sign and Confirm** button must be enabled to receive digital confirmation from a customer after a work order is closed.
 
-The signed PDF summaries capability must be enabled to generate a work order summary and get the customer signature on the work order after it has been closed. For more information on enabling the PDF summaries capability, see [Signed PDF summaries for closed work orders](work-order-sign-and-confirm-pdf.md#).
+The signed PDF summaries capability must be enabled to generate a work order summary and get the customer signature on the work order after it has been closed. For more information on enabling the PDF summaries capability, see [Signed PDF summaries for closed work orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-sign-and-confirm-pdf.md#).
 
 When all work order tasks associated with the work order are closed, the work order is automatically closed.
 
@@ -264,7 +264,7 @@ Role required: wm\_agent or wm\_dispatcher
 
 6.  Select the work order to view the details.
 
-7.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon and cancel or suspend the work order.
+7.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and cancel or suspend the work order.
 
     -   To cancel the work order, select **Cancel Work Order**.
     -   To suspend the work order:
@@ -334,7 +334,7 @@ Role required: wm\_agent or wm\_dispatcher
 
 4.  Select a work order task to record the time.
 
-5.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select **Record Time**.
+5.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select **Record Time**.
 
 6.  Select the desired items from any of the following fields:
 

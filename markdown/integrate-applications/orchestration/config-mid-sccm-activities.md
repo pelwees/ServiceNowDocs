@@ -40,7 +40,7 @@ Role required: admin
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring SCCM](../../../product/orchestration/concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../../product/orchestration/concept/configuring-sccm.md)
 
-**Parent Topic:**[SCCM activity pack](../concept/c_SCCMActivityPack.md)
+**Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_SCCMActivityPack.md)
 

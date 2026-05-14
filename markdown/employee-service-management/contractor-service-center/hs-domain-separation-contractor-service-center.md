@@ -36,7 +36,7 @@ All tables in the Contractor Service Center can be domain-separated and include 
 -   Each table in Contractor Service Center includes the domain separation fields **Domain** and **Domain path**.
 -   Customers can use these fields to configure domain separation in their implementation of Contractor Service Center r.
 
-**Parent Topic:**[Contractor Service Center reference](hs-contractor-service-center-reference.md)
+**Parent Topic:**[Contractor Service Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 
 **Related topics**  
 

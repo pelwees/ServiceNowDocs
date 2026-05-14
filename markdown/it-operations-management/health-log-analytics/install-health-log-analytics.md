@@ -32,13 +32,13 @@ Role required: admin
 
     1.  Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website and search for the Health Log Analytics app.
 
-        ![The Health Log Analytics app in the ServiceNow Store.](../image/hla-store.png "Health Log Analytics app in the ServiceNow Store")
+        ![The Health Log Analytics app in the ServiceNow Store.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-store.png "Health Log Analytics app in the ServiceNow Store")
 
     2.  Select the Health Log Analytics tile.
 
         The Health Log Analytics product page displays.
 
-        ![The Health Log Analytics app product page in the ServiceNow Store.](../image/hla-store-hla-page.png "Health Log Analytics product page in the ServiceNow Store")
+        ![The Health Log Analytics app product page in the ServiceNow Store.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-store-hla-page.png "Health Log Analytics product page in the ServiceNow Store")
 
     3.  Under **Included in Products**, select ITOM AIOps.
 
@@ -58,7 +58,7 @@ Role required: admin
 
     4.  On the **Installed** tab, verify that the application and its dependencies were installed successfully.
 
-        ![Application Manager shows that Health Log Analytics is installed on your instance.](../image/hla-verify-installation.png "Health Log Analytics is installed on the instance")
+        ![Application Manager shows that Health Log Analytics is installed on your instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-verify-installation.png "Health Log Analytics is installed on the instance")
 
 3.  Observe the status of the provisioning process by reviewing the CHG.
 
@@ -70,7 +70,7 @@ Role required: admin
 
         The Health Log Analytics Package Dependencies and Versions table displays.
 
-        ![Health Log Analytics Package Dependencies and Versions table.](../image/hla-sn-occ-stats.png "Health Log Analytics Package Dependencies and Versions table")
+        ![Health Log Analytics Package Dependencies and Versions table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-sn-occ-stats.png "Health Log Analytics Package Dependencies and Versions table")
 
         The provisioned endpoints are listed along with their version number:
 
@@ -86,11 +86,11 @@ The Health Log Analytics application is installed and provisioned on your instan
 
 ## What to do next
 
--   [Set up the data input process for Health Log Analytics](../concept/hla-implement.md)
+-   [Set up the data input process for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-implement.md)
 -   \(Optional\) Install the ServiceNow® Agent Client Collector Log Analytics \(ACC-L\) plugin.
 
-    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the Agent Client Collector. For more information, see the [Agent Client Collector Log Analytics](../../agent-client-collector/concept/acc-log-analytics.md) documentation.
+    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the Agent Client Collector. For more information, see the [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../agent-client-collector/concept/acc-log-analytics.md) documentation.
 
 
-**Parent Topic:**[Configuring Health Log Analytics](../concept/hla-configuring.md)
+**Parent Topic:**[Configuring Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-configuring.md)
 

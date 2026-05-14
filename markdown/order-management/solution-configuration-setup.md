@@ -84,5 +84,5 @@ The BOM hierarchy is still defined via the parent product and the unique identif
 **Related topics**  
 
 
-[Node cloning for solution configuration](node-cloning-for-solution-configuration.md)
+[Node cloning for solution configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/node-cloning-for-solution-configuration.md)
 

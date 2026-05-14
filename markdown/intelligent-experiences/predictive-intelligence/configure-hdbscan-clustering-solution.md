@@ -34,7 +34,7 @@ Predictive Intelligence implements the k-means algorithm by default in its clust
 
 1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
-    ![The Predictive Intelligence navigation path to the Clustering Definitions list view where you create a new clustering solution definition.](../images/configure-hdbscan-clustering-solution1.png)
+    ![The Predictive Intelligence navigation path to the Clustering Definitions list view where you create a new clustering solution definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution1.png)
 
 2.  Select **New**.
 
@@ -50,13 +50,13 @@ Predictive Intelligence implements the k-means algorithm by default in its clust
     -   **Stopwords**: Default English Stopwords
     -   **Training Frequency**: Every 30 days
     -   **Processing Language**: English
-    ![An example clustering solution definition you create on which you will apply the DBSCAN parameter.](../images/configure-hdbscan-clustering-solution2.png)
+    ![An example clustering solution definition you create on which you will apply the DBSCAN parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution2.png)
 
 4.  Select **Submit &amp; Train**.
 
 5.  On the Advanced Solution Settings tab in the Related Links section of the trained form, select **Solution Parameters** from the picker, then select **New**.
 
-    ![How to select the Solution Parameters option for creating the parameter.](../images/configure-hdbscan-clustering-solution3.png)
+    ![How to select the Solution Parameters option for creating the parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution3.png)
 
 6.  Create a parameter record.
 
@@ -64,25 +64,25 @@ Predictive Intelligence implements the k-means algorithm by default in its clust
 
     2.  In the ML Solution Parameters screen, select **Use HDBSCAN algo for clustering**.
 
-        ![How to create the parameter record by selecting the Search button, and then selecting the HDBSCAN key's Short Description.](../images/configure-hdbscan-clustering-solution4.png)
+        ![How to create the parameter record by selecting the Search button, and then selecting the HDBSCAN key's Short Description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution4.png)
 
 7.  Select **Submit**.
 
     The Advanced Solution Setting record appears with the HDBSCAN algorithm applied to the record. The field **User Inputs** is grayed out because it does not apply to this algorithm.
 
-    ![The new Solution Parameter record you create from the values you just assigned.](../images/configure-hdbscan-clustering-solution5.png)
+    ![The new Solution Parameter record you create from the values you just assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution5.png)
 
 8.  Select **Submit**.
 
     **Result**: HDBSCAN is configured for your clustering solution. Its solution parameter appears on the Advanced Solution Settings tab of your clustering solution definition form.
 
-    ![When you submit the record you created, the HDBSCAN solution parameter appears on your clustering solution definition form.](../images/configure-hdbscan-clustering-solution6.png)
+    ![When you submit the record you created, the HDBSCAN solution parameter appears on your clustering solution definition form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/configure-hdbscan-clustering-solution6.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Create and train a clustering solution](create-clustering-solution.md)
+[Create and train a clustering solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 

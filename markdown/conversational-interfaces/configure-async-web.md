@@ -41,7 +41,7 @@ The mweb channel is set to messaging mode. To help manage long-running conversat
 -   Requester message without agent response \(agent experience\): If an agent hasn't responded to a requester within 30 minutes, the agent receives a reminder that a message from an end user needs a response.
 -   Agent message without requester response: If a requester hasn't responded to an agent message after two days, the conversation state in the Interaction record is automatically set to closed abandoned.
 
-For more information on messaging actions, see [Configure messaging actions](configure-messaging-actions.md). For details on Virtual Agent and Live Agent idle conversation timeouts and conversation states, see [Closing Virtual Agent and Agent Chat conversations](../concept/va-open-conversations.md) and [Virtual Agent interaction records](../concept/va-interactions.md).
+For more information on messaging actions, see [Configure messaging actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-messaging-actions.md). For details on Virtual Agent and Live Agent idle conversation timeouts and conversation states, see [Closing Virtual Agent and Agent Chat conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/va-open-conversations.md) and [Virtual Agent interaction records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/va-interactions.md).
 
-**Parent Topic:**[Using Asynchronous Chat in messaging channels](../concept/async-chat.md)
+**Parent Topic:**[Using Asynchronous Chat in messaging channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/async-chat.md)
 

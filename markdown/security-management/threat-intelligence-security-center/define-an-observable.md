@@ -507,7 +507,7 @@ Observable
 
 </td><td>
 
-List of observables related to this observable.**Note:** This section also contains the potential relationships between two observables. For more information, see [Confirm observable-observable potential relationship](define-observable-observable-potential-relationship.md)and see [Define observable-observable relationships](define-observable-observable.md) for the confirmed relationships between the two observables.
+List of observables related to this observable.**Note:** This section also contains the potential relationships between two observables. For more information, see [Confirm observable-observable potential relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable-potential-relationship.md)and see [Define observable-observable relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-observable-observable.md) for the confirmed relationships between the two observables.
 
 </td></tr><tr><td>
 
@@ -584,10 +584,10 @@ If the observable is an IP address, this list shows any resources \(configuratio
 </td></tr></tbody>
 </table>**Note:**
 
-1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](link-threat-intel-releated-records.md).
-2.  Also, from the **Related Records** section, you can confirm the relationships between two Observables using the **Potential Relationships** section available on the **Observables** form view. For more information on see, [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md).
-3.  You can add observables to cases. For more information, see [Add to Case](add-to-case.md).
-4.  You can also run enrichment actions to observables. For more information, see [Run Enrichment Actions within a case](run-enrichment-results.md).
+1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
+2.  Also, from the **Related Records** section, you can confirm the relationships between two Observables using the **Potential Relationships** section available on the **Observables** form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
+3.  You can add observables to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
+4.  You can also run enrichment actions to observables. For more information, see [Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/run-enrichment-results.md).
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/observables.md)
 

@@ -17,7 +17,7 @@ Several legacy statuses are automatically mapped to the **Life Cycle Stage** and
 
 ## Values that can be auto-updated
 
-When you follow the procedure described in [Activate the CSDM plugin](../task/csdm-enable.md), the following legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields:
+When you follow the procedure described in [Activate the CSDM plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../task/csdm-enable.md), the following legacy statuses are automatically mapped to the **Life Cycle Stage** and **Life Cycle Stage Status** fields:
 
 **Important:** Legacy field values are not deleted after you map them to **Life Cycle Stage** and **Life Cycle Stage Status** values.
 
@@ -32,5 +32,5 @@ When you follow the procedure described in [Activate the CSDM plugin](../task/cs
 
 **Note:** Mappings are inherited from parent tables to child tables.
 
-**Parent Topic:**[Migrate and synchronize existing data to the CSDM framework](../task/migrate.md)
+**Parent Topic:**[Migrate and synchronize existing data to the CSDM framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../task/migrate.md)
 

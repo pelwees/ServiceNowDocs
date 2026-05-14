@@ -21,7 +21,7 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 ## About this task
 
-For information about policy-based, large scale automated CI deletions, see [Working with CMDB Data Manager](../concept/cmdb-data-management.md).
+For information about policy-based, large scale automated CI deletions, see [Working with CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-data-management.md).
 
 **Note:** You can't delete base system tables. For information about deleting custom tables, see [Deleting custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DeleteATable.md).
 
@@ -44,24 +44,24 @@ For information about policy-based, large scale automated CI deletions, see [Wor
 
 ## Result
 
-After deleting CIs that a dependent CI depends on, the dependent relationship is also deleted. The dependent CI becomes an orphan and is not immediately deleted. In this situation, the system attempts to cascade delete such orphan dependent CIs to prevent the accumulation of stale data and maintain the health of the CMDB. For information about how the system manages orphan dependent CIs, see [Management of orphan dependent CIs](../concept/c_CMDBClassifications.md).
+After deleting CIs that a dependent CI depends on, the dependent relationship is also deleted. The dependent CI becomes an orphan and is not immediately deleted. In this situation, the system attempts to cascade delete such orphan dependent CIs to prevent the accumulation of stale data and maintain the health of the CMDB. For information about how the system manages orphan dependent CIs, see [Management of orphan dependent CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md).
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_RelatedListsOfCIComponents.md)
 
-[Create a CI class](t_CreateCIType.md)
+[Create a CI class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIType.md)
 
-[Reclassify a CI](t_ManuallyReclassifyCI.md)
+[Reclassify a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ManuallyReclassifyCI.md)
 
-[View and edit class definitions and metadata](t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-principal-class-filter.md)
 

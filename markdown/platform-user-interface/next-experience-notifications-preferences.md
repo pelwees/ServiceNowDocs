@@ -83,8 +83,8 @@ Enable or disable individual delivery channels.
 
     |Option|Description|
     |------|-----------|
-    |**![Show banners](../image/pol-pref-banners.png)**|Enables notification banners to display in your workspace.|
-    |**![Show badge count](../image/pol-pref-badge.png)**|Displays a badge count of notifications.|
-    |**![Notification toast banner location](../image/pol-pref-banner-location.png)**|The location on the screen where notification banners display.|
+    |**![Show banners](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-banners.png)**|Enables notification banners to display in your workspace.|
+    |**![Show badge count](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-badge.png)**|Displays a badge count of notifications.|
+    |**![Notification toast banner location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-banner-location.png)**|The location on the screen where notification banners display.|
 
 

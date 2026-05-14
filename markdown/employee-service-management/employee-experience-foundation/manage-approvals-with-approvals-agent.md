@@ -54,11 +54,11 @@ Use the Now Assist Approval Assistance Agent to manage your assigned approvals. 
 
         **Note:** You can select **View AI Agent Processing Steps** to see the details.
 
-    ![Approval Assitance agent checklist](../images/na-agent-review-rules.png "Review with NowAssist")
+    ![Approval Assitance agent checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/na-agent-review-rules.png "Review with NowAssist")
 
 4.  Select **Approve** or **Reject**.
 
-    ![Summarization on NowAssist for Employee Experience on click](../images/na-agent-review-action.png "Approve or reject with NowAssist")
+    ![Summarization on NowAssist for Employee Experience on click](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/na-agent-review-action.png "Approve or reject with NowAssist")
 
     **Note:** Currently, HR requests aren't supported out-of-the-box.
 
@@ -66,7 +66,7 @@ Use the Now Assist Approval Assistance Agent to manage your assigned approvals. 
 
 5.  Select **Yes** or **No**.
 
-    ![Summarization on NowAssist for Employee Experience on click](../images/na-agent-review-action.png "Confirm Approval with NowAssist")
+    ![Summarization on NowAssist for Employee Experience on click](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/na-agent-review-action.png "Confirm Approval with NowAssist")
 
     **Note:** The agent supports only REQ and RITM. HR requests aren’t supported. However, by configuring the `sp_approval_configuration` record, you can set up support for for HR case too.
 
@@ -84,16 +84,16 @@ Review how to set up and use the Approval Assistance AI agent. For more informat
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-**Parent Topic:**[Using Now Assist for Employee Experience](../concept/use-now-assist-for-emp-exp.md)
+**Parent Topic:**[Using Now Assist for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/use-now-assist-for-emp-exp.md)
 
 **Related topics**  
 
 
-[Check your to-do tasks by using the Now Assist in Virtual Agent](check-todo-tasks-using-the-now-assist-virtual-agent.md)
+[Check your to-do tasks by using the Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-todo-tasks-using-the-now-assist-virtual-agent.md)
 
-[Check your approvals by using Now Assist in Virtual Agent](check-your-approvals-using-now-assist-virtual-agent-emp-exp.md)
+[Check your approvals by using Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-your-approvals-using-now-assist-virtual-agent-emp-exp.md)
 
-[Check company news and events](check-company-news-using-nowassist-va.md)
+[Check company news and events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-company-news-using-nowassist-va.md)
 
-[View summarization for approvals](view-summarization-approvals.md)
+[View summarization for approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-summarization-approvals.md)
 

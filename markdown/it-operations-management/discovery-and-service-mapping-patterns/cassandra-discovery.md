@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Provide credentials for discovering the host**
 
-    Identify the servers hosting a Cassandra database and provide credentials necessary for horizontal discovery of these servers. For more information, see [Credentials required for host discovery](r_Credentials4HostDiscovery.md).
+    Identify the servers hosting a Cassandra database and provide credentials necessary for horizontal discovery of these servers. For more information, see [Credentials required for host discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/r_Credentials4HostDiscovery.md).
 
 -   **Verify CMDB CI Class Models store app is up to date**
 
@@ -31,7 +31,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Verify permissions for Cassandra commands for UNIX**
 
-    For the list of Cassandra commands, see the [Cassandra \(for UNIX\)](r_NonSudoCommands.md#table_dxn_bml_mmb) section in [Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md).
+    For the list of Cassandra commands, see the [Cassandra \(for UNIX\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/r_NonSudoCommands.md#table_dxn_bml_mmb) section in [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/r_CommandsnCredentials.md).
 
 -   **Verify read access to cassandra.yaml**
 
@@ -82,7 +82,7 @@ Discovery populates the data in the CMDB when running the Cassandra Distributed 
 |Keyspace Name \[keyspace\_name\]|Name of the keyspace.|
 |Name \[name\]|The display name in the following format: &lt;keyspace\_name&gt;@&lt;cluster\_name&gt;.|
 
-![Dependency Views showing discovered Apache Cassandra deployment.](../../discovery/image/apache-cassandra-dependency-view.png "Dependency Views showing discovered Apache Cassandra deployment")
+![Dependency Views showing discovered Apache Cassandra deployment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/image/apache-cassandra-dependency-view.png "Dependency Views showing discovered Apache Cassandra deployment")
 
 ## CI relationships
 
@@ -107,12 +107,12 @@ In addition to the tables and fields discovered during horizontal discovery, the
 
 For incoming connections, the instance is discovered, as shown in the following image.
 
-![Cassandra discovery top-down service map](../image/cassandra-discovery-top-down.png "Cassandra discovery top-down service map")
+![Cassandra discovery top-down service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cassandra-discovery-top-down.png "Cassandra discovery top-down service map")
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 
 **Related topics**  
 
 
-[Database Administrator \(DBA\) report discovery](../../discovery/concept/dba-report-discovery-pattern.md)
+[Database Administrator \(DBA\) report discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/dba-report-discovery-pattern.md)
 

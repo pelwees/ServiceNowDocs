@@ -34,5 +34,5 @@ Modify the condition that is associated with your `awa_queue`record so that you 
 |Workplace misconduct: Workplace harassment, Violence, and discrimination|Report misconduct|Employee relations|
 |Workplace Substance Abuse and Support|Report misconduct|Employee relations|
 
-**Parent Topic:**[Reference for Now Assist for HR Service Delivery \(HRSD\)](reference-now-assist-hrsd.md)
+**Parent Topic:**[Reference for Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/reference-now-assist-hrsd.md)
 

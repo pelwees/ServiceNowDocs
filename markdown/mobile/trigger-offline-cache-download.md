@@ -74,5 +74,5 @@ Enter one of the following values:-   Enter `true` to enable the offline cache d
 </table>7.  Select **Save**.
 
 
-**Parent Topic:**[Configure offline mode properties for action functions](config-offline-properties-action-funct.md)
+**Parent Topic:**[Configure offline mode properties for action functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-offline-properties-action-funct.md)
 

@@ -25,16 +25,16 @@ Role required: admin or playbook.admin
 
 2.  Open the playbook with the variant that you want to save as a favorite.
 
-3.  Select the variant icon \(![variant icon](../images/playbook-variants-icon.png)\) to open the variant panel on the left.
+3.  Select the variant icon \(![variant icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-variants-icon.png)\) to open the variant panel on the left.
 
 4.  Hover over the variant in the variant panel, and select the kebab menu to open the action menu.
 
-    ![Setting the Manager variant as the favorite, and searching for the IC variant with the Quick Find search bar](../images/search-favorite-playbook-variants.gif)
+    ![Setting the Manager variant as the favorite, and searching for the IC variant with the Quick Find search bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/search-favorite-playbook-variants.gif)
 
 5.  Set the variant as a **Favorite**.
 
     **Tip:** You can also just search for variants in the **Quick Find** search bar.
 
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/playbook-variants.md)
 

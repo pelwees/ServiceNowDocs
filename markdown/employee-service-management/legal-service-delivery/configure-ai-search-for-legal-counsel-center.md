@@ -53,5 +53,5 @@ Role required: admin
 
 The AI Search for Legal Counsel Center is configured and is available for consumption in the Legal Counsel Center Workspace.
 
-**Parent Topic:**[Configure Legal Counsel Center Workspace](../concept/configure-legal-counsel-center-workspace.md)
+**Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/configure-legal-counsel-center-workspace.md)
 

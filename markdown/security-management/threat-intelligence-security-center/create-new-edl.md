@@ -118,10 +118,10 @@ The configuration URL for Palo Alto Networks is automatically generated and disp
     The EDLs are displayed on the Palo Alto Networks EDLs.
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/palo-alto-networks-integration.md)
 
 **Related topics**  
 
 
-[Define Palo Alto Networks Approval Rules](tisc-edl-approval-rules.md)
+[Define Palo Alto Networks Approval Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edl-approval-rules.md)
 

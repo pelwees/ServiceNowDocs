@@ -115,5 +115,5 @@ Details about this request.
     **Note:** Select **Task** related list to view your existing tasks and select **New** to add a task.
 
 
-**Parent Topic:**[Manage customer complaints](rahi-retail-manage-customer-complaints.md)
+**Parent Topic:**[Manage customer complaints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-customer-complaints.md)
 

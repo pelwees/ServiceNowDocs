@@ -29,11 +29,11 @@ Phase 1
 
 </td><td align="justify">
 
-![In progress icon](../image/app-tutorial-progress-wip.png)
+![In progress icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-wip.png)
 
 </td><td>
 
-[Add a record producer](app-tutorial-add-record-producer.md)
+[Add a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-add-record-producer.md)
 
 </td></tr><tr><td>
 
@@ -41,14 +41,14 @@ Phase 2
 
 </td><td align="justify">
 
-![Not started icon](../image/app-tutorial-progress-not-started.png)
+![Not started icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-not-started.png)
 
 </td><td>
 
-[Configure a record producer](app-tutorial-configure-record-producer.md)
+[Configure a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-record-producer.md)
 
 </td></tr></tbody>
-</table>This procedure covers the first part of the task demonstrated in the tutorial video. The rest of the procedure is outlined in the next topic [Configure a record producer](app-tutorial-configure-record-producer.md).
+</table>This procedure covers the first part of the task demonstrated in the tutorial video. The rest of the procedure is outlined in the next topic [Configure a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-record-producer.md).
 
 Follow along with the tutorial to add a record producer to the employee travel request application.
 
@@ -88,5 +88,5 @@ You have added a record producer to your application. The record producer is rea
 
 ## What to do next
 
-Complete the setup of the record producer by proceeding to the next phase: [Configure a record producer](app-tutorial-configure-record-producer.md).
+Complete the setup of the record producer by proceeding to the next phase: [Configure a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-record-producer.md).
 

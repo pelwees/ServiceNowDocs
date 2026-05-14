@@ -83,7 +83,7 @@ Conditions
 
 </td><td>
 
-Trigger conditions.Under **Meet ANY of the following conditions**, provide these conditions:![Trigger conditions.](../image/zendesk-trigger-condition.png)
+Trigger conditions.Under **Meet ANY of the following conditions**, provide these conditions:![Trigger conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/zendesk-trigger-condition.png)
 
 </td></tr><tr><td>
 

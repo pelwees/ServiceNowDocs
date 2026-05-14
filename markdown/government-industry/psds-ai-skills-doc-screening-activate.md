@@ -56,7 +56,7 @@ Activate the Document screening Al skill to use Now Assist for PSDS gen-AI to sc
 
 3.  On the card for the Document screening Al skill, select **Turn on**.
 
-    ![Document screening Al skill card that displays the skill to be turned on.](../image/psds-activate-doc-screening-skill.png)
+    ![Document screening Al skill card that displays the skill to be turned on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-activate-doc-screening-skill.png)
 
 4.  Configure user access on the pop-up modal to specify who can utilize this skill.
 
@@ -68,6 +68,6 @@ Activate the Document screening Al skill to use Now Assist for PSDS gen-AI to sc
 
 7.  Verify that the skill is activated on the Document Screening Al skill card.
 
-    ![Document screening Al skill is active.](../image/psds-doc-screening-skill-activated.png)
+    ![Document screening Al skill is active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-doc-screening-skill-activated.png)
 
 

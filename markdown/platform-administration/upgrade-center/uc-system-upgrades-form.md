@@ -15,7 +15,7 @@ breadcrumb: [Process the skipped records list, Scheduling and monitoring an upgr
 
 When an upgrade is complete, the System Upgrades form displays key statistics about the upgrade and a related list of skipped records \(the skipped list\).
 
-![Image showing the System Upgrades form](../image/uc-system-upgrade-form.png)
+![Image showing the System Upgrades form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-system-upgrade-form.png)
 
 <table id="table_b5b_p14_dlb"><thead><tr><th>
 

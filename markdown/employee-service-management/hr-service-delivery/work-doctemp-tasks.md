@@ -32,23 +32,23 @@ You must have activated the Employee Center \(com.sn\_hr\_service\_portal\) plug
 3.  Work on any one of these document tasks that is assigned to you.
 
 
--   **[Fill and sign a PDF document](fill-sign-document.md)**  
+-   **[Fill and sign a PDF document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/fill-sign-document.md)**  
 Complete your document task by filling in the required details and submitting the PDF document.
--   **[Sign an HTML document](sign-html-document.md)**  
+-   **[Sign an HTML document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sign-html-document.md)**  
 Complete your document task by signing and generating a PDF copy of the HTML document.
--   **[Review a PDF document](review-doctemp-task.md)**  
+-   **[Review a PDF document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/review-doctemp-task.md)**  
 Complete your document task by reviewing a PDF document. Send your review comments to one or more participants who are working on the document.
--   **[Resubmit a PDF document](resubmit-doctemp-task.md)**  
+-   **[Resubmit a PDF document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/resubmit-doctemp-task.md)**  
 Complete your document task by incorporating the reviewer's suggestions.
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/understanding-doc-templates.md)
 
-[Using Document Templates: Custom use case](doc-temp-gen.md)
+[Using Document Templates: Custom use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/doc-temp-gen.md)
 
-[Using Guided Tours in Document Templates](guided-tours-doc-temp.md)
+[Using Guided Tours in Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/guided-tours-doc-temp.md)
 

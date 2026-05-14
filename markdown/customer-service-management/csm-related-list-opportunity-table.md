@@ -15,7 +15,7 @@ Use a related list to link the Customer Account table with Salesforce Account Id
 
 In this example, create a relationship called Opportunities. Choose the Account table in the **Applies to table** field and the remote opportunity table in the **Queries from table** field. For more information, see [Create defined related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md).
 
-![Related list to create Opportunities relationship between the Account table and the Salesforce Opportunity table.](../image/opportunities-relationship-table.jpg)
+![Related list to create Opportunities relationship between the Account table and the Salesforce Opportunity table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/opportunities-relationship-table.jpg)
 
 Add the following code in the **Query with** field:
 
@@ -33,7 +33,7 @@ Add the following code in the **Query with** field:
 
 ```
 
-This code checks for the presence of the Salesforce Account Id in the Account table and, if it's missing in the record, sets it to `undefined`. The code also includes a query for the Opportunity table column that holds the Salesforce Account Id for the value of this Id from the Account table. This query is invoked when the user opens the list of opportunities associated with the customer account. To see how it is used in the remote table script, see [Selecting a spoke action and preparing the inputs](csm-opportunity-table-script.md#section_select_spoke_actions).
+This code checks for the presence of the Salesforce Account Id in the Account table and, if it's missing in the record, sets it to `undefined`. The code also includes a query for the Opportunity table column that holds the Salesforce Account Id for the value of this Id from the Account table. This query is invoked when the user opens the list of opportunities associated with the customer account. To see how it is used in the remote table script, see [Selecting a spoke action and preparing the inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-opportunity-table-script.md#section_select_spoke_actions).
 
-**Parent Topic:**[Using remote tables and the Salesforce spoke](csm-integration-remote-tables.md)
+**Parent Topic:**[Using remote tables and the Salesforce spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-remote-tables.md)
 

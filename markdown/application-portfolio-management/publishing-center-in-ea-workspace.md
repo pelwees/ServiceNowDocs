@@ -38,7 +38,7 @@ Publishing status and indicators- Each publishing configuration displays a statu
 -   Published– The catalog has been successfully published to the Knowledge Base.
 -   Publishing failed– The publishing operation failed and requires attention.
 
-![Publishing center home page in the Setup section](../../image/eaw-image/pub-center-home.png)
+![Publishing center home page in the Setup section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/pub-center-home.png)
 
 ## Required plugin
 
@@ -84,16 +84,16 @@ You can view all the publishing activity, including:
 
 Publishing history provides traceability and operational insight, making it easier to audit changes and understand when published content was last refreshed.
 
-**Parent Topic:**[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+**Parent Topic:**[Exploring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../explore-eaw.md)
 
 **Related topics**  
 
 
-[Working with the publishing center](working-with-publishing-center.md)
+[Working with the publishing center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/working-with-publishing-center.md)
 
-[Published TRM catalog experience](../../reference/eaw-reference/published-trm-cat-exp.md)
+[Published TRM catalog experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/published-trm-cat-exp.md)
 
-[Access the published TRM catalog knowledge base](../../task/eaw-task/access-the-published-kb.md)
+[Access the published TRM catalog knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/access-the-published-kb.md)
 
-[Understanding the publishing results and knowledge base output](../../reference/eaw-reference/understand-publishing-output.md)
+[Understanding the publishing results and knowledge base output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/understand-publishing-output.md)
 

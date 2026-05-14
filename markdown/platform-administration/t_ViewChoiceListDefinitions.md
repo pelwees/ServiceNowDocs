@@ -85,7 +85,7 @@ Role required: personalize\_choices
 
 5.  In the **Choice field** field, select Field A.
 
-    ![Choice list sharing](../image/ChoiceListSharing.png)
+    ![Choice list sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ChoiceListSharing.png)
 
 6.  Click **Update**.
 
@@ -108,7 +108,7 @@ Role required: personalize\_dictionary
 
 3.  Change the **Choice** field value to **Dropdown without -- None -- \(must specify a default value\)**.
 
-    ![Choice without none](../image/ChoiceWithoutNone.png)
+    ![Choice without none](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ChoiceWithoutNone.png)
 
 4.  Ensure that the **Default** field is populated to determine which choice is displayed by default.
 
@@ -294,7 +294,7 @@ Role required: admin
 
 In the following example, the **Network** category has been deactivated, so it appears in blue for records that still contain the inactive value.
 
-![Incident list with a blue inactive "Network" value the Category column.](../image/ChoiceListInvalid2.png)
+![Incident list with a blue inactive "Network" value the Category column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ChoiceListInvalid2.png)
 
 ### Procedure
 

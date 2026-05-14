@@ -27,7 +27,7 @@ As an agent, you can view the requests, complete tasks across multiple workflow 
 
 1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Cases**.
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Cases**.
 
 3.  Select a case of type **Edit a purchase**.
 
@@ -147,34 +147,34 @@ After the PR has been updated, the request to edit a PR is automatically closed.
 
 The request updates the purchase requisition or line item with revised quantity or location. A new card of revision type is also created for the shopper and approvers to communicate on, which can be viewed by the shopper from **My purchases**.
 
-**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](../concept/work-playbooks-spo.md)
+**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/work-playbooks-spo.md)
 
 **Related topics**  
 
 
-[Process a purchase order edit in playbook](process-purchase-order.md)
+[Process a purchase order edit in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-purchase-order.md)
 
-[Process a return request in playbook](playbook-return-request.md)
+[Process a return request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-return-request.md)
 
-[Process a replacement request in playbook](playbook-replacement-request.md)
+[Process a replacement request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-replacement-request.md)
 
-[Process an edit receipt request in playbook](playbook-process-edit-receipt.md)
+[Process an edit receipt request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-process-edit-receipt.md)
 
-[Fulfilling request for copy of contract in playbook](../concept/fulfilling-request-for-contract.md)
+[Fulfilling request for copy of contract in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/fulfilling-request-for-contract.md)
 
-[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+[Routing NDAs to suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/routing-ndas-to-suppliers.md)
 
-[Verifying delivery addresses in playbook](../concept/delivery-address-in-playbook.md)
+[Verifying delivery addresses in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/delivery-address-in-playbook.md)
 
-[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+[Reviewing and updating general ledger details in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/general-ledger-details-in-playbook.md)
 
-[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/sourcing-intake-guided-exp.md)
 
-[Streamlining the supplier risk assessment workflow](../concept/simplify-risk-assessment-wf.md)
+[Streamlining the supplier risk assessment workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/simplify-risk-assessment-wf.md)
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 
-[Purchase revision roles and responsibilities](../concept/purchase-revision-flows-roles.md)
+[Purchase revision roles and responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows-roles.md)
 
 [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
 

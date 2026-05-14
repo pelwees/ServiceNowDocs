@@ -43,7 +43,7 @@ Role required: sn\_sec\_tisc\_secure\_file\_access, sn\_sec\_tisc.admin
 
     The file attachments are uploaded.
 
-    ![Secure file attachments](../image/tisc-upload-secure-file.png)
+    ![Secure file attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-upload-secure-file.png)
 
 9.  Click **Download Secure Files** to download the attachments.
 
@@ -56,24 +56,24 @@ Role required: sn\_sec\_tisc\_secure\_file\_access, sn\_sec\_tisc.admin
     -   All the secure attachments are encrypted and stored in the system using Key Management Framework \(KMF\). For more information, see [Attachment Encryption](https://servicenow.com/docs/bundle/vancouver-platform-security/page/administer/encryption/concept/c_EncryptionSupport.html).
     -   If users have subscription for **ServiceNow Integration Hub Professional Pack Installer**, secure files are compressed in zip format and also encrypted and stored
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-case-task.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](run-enrichment-results.md)
+[Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/run-enrichment-results.md)
 
-[View Case Reports](view-case-reports.md)
+[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-case-reports.md)
 
-[Create a security incident from a TISC case](tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-si-case.md)
 

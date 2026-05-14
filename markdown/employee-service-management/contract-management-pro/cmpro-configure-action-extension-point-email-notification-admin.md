@@ -35,7 +35,7 @@ The base system `ApprovalNotificationWorkspaceURLExt` script provides the config
 
     2.  Search and select the **ApprovalNotificationWorkspaceURLExt** extension point.
 
-        ![Extension point for approval notification.](../image/cmpro-aprval-ext-point.png "Approval notification extension point")
+        ![Extension point for approval notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-aprval-ext-point.png "Approval notification extension point")
 
     3.  Add or modify an implementation for a practice area.
 
@@ -76,5 +76,5 @@ To see a list of available default email notifications, go to **All** &gt; **Sys
 
 To create new email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
-**Parent Topic:**[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+**Parent Topic:**[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-notifications.md)
 

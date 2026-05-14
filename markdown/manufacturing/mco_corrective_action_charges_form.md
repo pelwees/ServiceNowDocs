@@ -98,10 +98,10 @@ Description
 Brief detail about the corrective actions charges.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Corrective action charges](../task/mco_corrective_action_charges.md)
+[Corrective action charges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco_corrective_action_charges.md)
 

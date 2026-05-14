@@ -29,7 +29,7 @@ Workplace profile
 
 </td><td>
 
-Workplace profile record that the location must be assigned to. A workplace profile can have multiple location assignments.For more information about workplace profiles, see [Map designated workspaces to user profiles](../task/map-employees-to-existing-workplace-locations-wsd.md).
+Workplace profile record that the location must be assigned to. A workplace profile can have multiple location assignments.For more information about workplace profiles, see [Map designated workspaces to user profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../task/map-employees-to-existing-workplace-locations-wsd.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Schedule plan
 
 </td><td>
 
-Schedule plan that you want to use to assign workplace locations to the profile. For more information about schedule plans, see [Schedule Planning](../../workplace-central/concept/schedule-planning.md).
+Schedule plan that you want to use to assign workplace locations to the profile. For more information about schedule plans, see [Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../workplace-central/concept/schedule-planning.md).
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Is primary
 
 </td><td>
 
-Option to specify if the assigned workplace location is the primary location for the profile. A workplace profile can only be assigned one primary location.For more information about setting a primary location, see [Set the primary location of a workplace profile](../task/set-prim-location-of-worplace-profile.md).
+Option to specify if the assigned workplace location is the primary location for the profile. A workplace profile can only be assigned one primary location.For more information about setting a primary location, see [Set the primary location of a workplace profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../task/set-prim-location-of-worplace-profile.md).
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ Reason for anomaly
 
 </td><td>
 
-Anomaly that occurred due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](location-assignment-anomaly-types.md). This field is automatically calculated based on the workplace location and profile records.
+Anomaly that occurred due to a mismatch in the allocation or assignment type. For more information about anomalies, see [Workplace location assignment anomaly types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md). This field is automatically calculated based on the workplace location and profile records.
 
 </td></tr><tr><td>
 
@@ -104,18 +104,18 @@ Source
 Source from which the location assignment record was created. This field is automatically generated and is only visible in the Workplace Profile Location Assignments related list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+</table>**Parent Topic:**[Workplace Core references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/wsd-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Core](components-installed-with-workplace-service-delivery.md)
+[Components installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/components-installed-with-workplace-service-delivery.md)
 
-[Properties installed with Workplace Core](properties-installed-with-workplace-service-delivery.md)
+[Properties installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/properties-installed-with-workplace-service-delivery.md)
 
-[Workplace location assignment anomaly types](location-assignment-anomaly-types.md)
+[Workplace location assignment anomaly types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md)
 
-[Reserve a space form](reserve-space-form.md)
+[Reserve a space form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-space-form.md)
 
-[Card Configuration examples](card-configuration-examples.md)
+[Card Configuration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/card-configuration-examples.md)
 

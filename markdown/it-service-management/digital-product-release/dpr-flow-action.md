@@ -30,5 +30,5 @@ To access these flow actions, navigate to **All** &gt; **Workflow Studio**, and 
 
 **Note:** All create release actions support single and multi-product releases with new or existing versions, and can be used for validation or non-validation releases.
 
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 

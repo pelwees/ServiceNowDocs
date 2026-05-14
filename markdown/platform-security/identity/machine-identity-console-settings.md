@@ -33,6 +33,6 @@ The following task is specific to your organization on how to handle the inactiv
     -   **Accounts using Basic Authentication**
     -   **Integration accounts with Web Service Access disabled**
     -   **Accounts logging into the UI despite being integration only**
-    ![Machine Identity Console Settings](../images/mic-settings.png)
+    ![Machine Identity Console Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-settings.png)
 
 

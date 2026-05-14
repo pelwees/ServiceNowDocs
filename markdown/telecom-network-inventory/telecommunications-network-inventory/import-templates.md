@@ -27,7 +27,7 @@ After you create an import template request, a detailed summary is generated tha
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Import** &gt; **Imports**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Import** &gt; **Imports**.
 
 3.  Select **New**.
 
@@ -45,7 +45,7 @@ After you create an import template request, a detailed summary is generated tha
 
 6.  Download the demo data and the template by selecting **Create Excel Template**.
 
-    The template is created based on the Import template template \[sn\_ni\_adv\_import\_template\_template\] table. You can customize the [Import template excel](../reference/import-template-excel.md) and update it as required.
+    The template is created based on the Import template template \[sn\_ni\_adv\_import\_template\_template\] table. You can customize the [Import template excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/import-template-excel.md) and update it as required.
 
 7.  Select **Import**.
 
@@ -59,14 +59,14 @@ The **Import Results** tab appears next to the Details tab where you can view, a
 ## What to do next
 
 -   Redirect to the generated inventory template from the **Import Results** tab.
--   Delete a record. To learn more, see [Delete a record](delete-inventory-record.md).
+-   Delete a record. To learn more, see [Delete a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/delete-inventory-record.md).
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/import-models-and-templates.md)
 
 **Related topics**  
 
 
 [import]
 
-[Import templates](import-templates.md)
+[Import templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-templates.md)
 

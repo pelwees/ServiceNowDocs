@@ -17,7 +17,7 @@ Perform all tasks that are required for an on-site repair so that you can comple
 
 ## Before you begin
 
-Before you can proceed with repairing a recalled enterprise asset on-site, you must complete the Prepare task for that asset. See [Complete the Prepare task for a recalled enterprise asset](complete-prepare-task-recall-order.md) for detailed instructions.
+Before you can proceed with repairing a recalled enterprise asset on-site, you must complete the Prepare task for that asset. See [Complete the Prepare task for a recalled enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-prepare-task-recall-order.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technician
 
@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
     1.  On the **Recall Tasks** tab of the recalled asset record, select the task number for the **On-site Repair** task.
 
-        Alternatively, select the task number that is displayed in the **Current task** field of the recalled asset record header.![Current task field.](../image/current-task-recall-orders.png)
+        Alternatively, select the task number that is displayed in the **Current task** field of the recalled asset record header.![Current task field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/current-task-recall-orders.png)
 
         The On-site Repair task opens.
 
@@ -80,5 +80,5 @@ The recalled asset record moves to the Completed stage. In addition, the state a
 
 Complete the recall process for all remaining enterprise assets that are included in the recall order. After all corresponding recalled asset records reach the Completed stage, the state of the recall order changes to Completed.
 
-**Parent Topic:**[Completing a recall order for your enterprise assets](../concept/completing-recall-order-enterprise-assets.md)
+**Parent Topic:**[Completing a recall order for your enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/completing-recall-order-enterprise-assets.md)
 

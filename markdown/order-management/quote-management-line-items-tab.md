@@ -23,7 +23,7 @@ Role required: sales\_agent
 
 2.  Select the quote that you’re working with and select the **Quote Line Items** tab.
 
-    ![Image shows the quote form with the quote line items tab open.](../image/l2c-quote-line-item.png)
+    ![Image shows the quote form with the quote line items tab open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/l2c-quote-line-item.png)
 
 3.  Select **New** to start a new quote line item or select an existing quote line item to make changes.
 
@@ -57,7 +57,7 @@ Role required: sales\_agent
 
 ## What to do next
 
-Add a pricing adjustment to a quote line item. See [View and update manual pricing adjustments in quotes](quote-management-pricing-adjustments-tab.md) for more information.
+Add a pricing adjustment to a quote line item. See [View and update manual pricing adjustments in quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-pricing-adjustments-tab.md) for more information.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

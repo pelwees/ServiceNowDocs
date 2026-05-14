@@ -33,7 +33,7 @@ Role required: adaptive\_auth\_admin
     |Application|Scope of the application.|
     |Description|Short description of the role.|
 
-    ![Role filter criteria form](../images/role-filter-criteria-2.png "Example role filter criteria record")
+    ![Role filter criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/role-filter-criteria-2.png "Example role filter criteria record")
 
 4.  From the **Roles for criteria**, double-click **Insert a new row**.
 
@@ -52,6 +52,6 @@ Role required: adaptive\_auth\_admin
         -   Is same as
         -   Is not empty
         -   Is empty string
-    ![Role filter criteria sample](../images/role-filter-criteria.png)
+    ![Role filter criteria sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/role-filter-criteria.png)
 
 

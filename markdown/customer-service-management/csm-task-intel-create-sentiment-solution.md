@@ -34,7 +34,7 @@ Edit and test the pre-trained sentiment model to predict sentiment for customer 
 
 Tell the model when you want it to make predictions.
 
-![Case sentiment model screen with options to select the case type for sentiment prediction.](../image/task-intel-sentiment-model-pg1.png)
+![Case sentiment model screen with options to select the case type for sentiment prediction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-sentiment-model-pg1.png)
 
 The sentiment model is pre-trained with a large data set to understand communication patterns. This data comes from customer emails and from case descriptions and comments.
 
@@ -48,7 +48,7 @@ The sentiment model is pre-trained with a large data set to understand communica
 
 Choose the cases to use to test the model.
 
-![Case sentiment model with multiple condition fields that filter past cases for sentiment prediction.](../image/task-intel-sentiment-model-pg2.png)
+![Case sentiment model with multiple condition fields that filter past cases for sentiment prediction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-sentiment-model-pg2.png)
 
 Selecting this information tells the model what type of records to use for testing. When the model is deployed, it predicts sentiment on all records in the table that match the selected conditions.
 
@@ -59,7 +59,7 @@ Selecting this information tells the model what type of records to use for testi
 
 Assess the results from the testing and view sample results for past cases.
 
-![Case sentiment model providing a sample selection of test results with sentiment predictions based on past hundred cases.](../image/task-intel-sentiment-model-pg3.png)
+![Case sentiment model providing a sample selection of test results with sentiment predictions based on past hundred cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-sentiment-model-pg3.png)
 
 Reviewing the results gives you a preview of how your model will perform after being deployed.
 
@@ -70,7 +70,7 @@ Reviewing the results gives you a preview of how your model will perform after b
 
 Tell the model how you want to use the sentiment predictions.
 
-![Options to show predictions for new cases or to monitor predictions running in the background.](../image/task-intel-sentiment-model-pg4.png)
+![Options to show predictions for new cases or to monitor predictions running in the background.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-sentiment-model-pg4.png)
 
 1.  Display predictions in the **Current sentiment** and **Sentiment over time** fields.
 2.  If desired, you can run the model in the background only.
@@ -83,5 +83,5 @@ Tell the model how you want to use the sentiment predictions.
 
 Review your choices from the previous pages. Then you can select **Deploy** to deploy the model.
 
-![Information about the model testing and cases that the model will work on before deploying the case sentiment model.](../image/task-intel-sentiment-model-pg5.png)
+![Information about the model testing and cases that the model will work on before deploying the case sentiment model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intel-sentiment-model-pg5.png)
 

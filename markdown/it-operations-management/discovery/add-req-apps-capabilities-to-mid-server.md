@@ -17,7 +17,7 @@ Enable your MID Server to auto-renew your certificates by adding the Certificate
 
 ## Before you begin
 
-Check that you have completed the task [Configure your MID Server for automatic certificate renewal](configure-mid-server-automatic-cert-renewal.md).
+Check that you have completed the task [Configure your MID Server for automatic certificate renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-mid-server-automatic-cert-renewal.md).
 
 Role required: pki\_admin or admin
 
@@ -64,5 +64,5 @@ Your MID Server supports the Certificate Inventory and Management and GenerateCS
 
 ## What to do next
 
-[Configure System Properties for automatic certificate renewal](config-sys-props-for-auto-cert-renewal.md), to complete the configuration for automatic certificate renewal.
+[Configure System Properties for automatic certificate renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-sys-props-for-auto-cert-renewal.md), to complete the configuration for automatic certificate renewal.
 

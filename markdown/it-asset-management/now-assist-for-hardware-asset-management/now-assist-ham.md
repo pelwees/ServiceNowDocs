@@ -32,19 +32,19 @@ Agentic AI for Hardware Asset Management
 
 <table id="table_esh_mkr_w2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for HAM](exploring-now-assist-ham.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for HAM](exploring-now-assist-ham.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for HAM application to get started](configuring-now-assist-ham.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for HAM application to get started](configuring-now-assist-ham.md)
 
 </td></tr><tr><td>
 
-[Use generative AI skills![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for HAM](now-assist-ham-agent-ai.md)
+[Use generative AI skills![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for HAM](now-assist-ham-agent-ai.md)
 
 </td><td>
 
-[Use Hardware Asset Management AI agent collection![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for HAM](now-assist-ham-agentic-workflow.md)
+[Use Hardware Asset Management AI agent collection![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for HAM](now-assist-ham-agentic-workflow.md)
 
 </td></tr></tbody>
 </table>**Important:**

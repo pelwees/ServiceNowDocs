@@ -19,21 +19,21 @@ Global Identity resolves unique users across multiple ServiceNow® instances by 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore Federated ID ![](../../../common/image/icon-explore.png)](federated-id.md)
+[Explore Federated ID ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-explore.png)](federated-id.md)
 
- [Learn the key features and business value of Federated ID.](federated-id.md)
+ [Learn the key features and business value of Federated ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/federated-id.md)
 
 </td><td>
 
-[Accessing Federated ID ![](../../../common/image/icon-manage.png)](../task/configure-federated-id-criteria.md)
+[Accessing Federated ID ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-manage.png)](../task/configure-federated-id-criteria.md)
 
- [Access Federated ID.](../task/configure-federated-id-criteria.md)
+ [Access Federated ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../task/configure-federated-id-criteria.md)
 
 </td></tr><tr><td>
 
-[Updating ID fields ![](../../../common/image/icon-set-up.png)](../task/updating-id-fields.md)
+[Updating ID fields ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../common/image/icon-set-up.png)](../task/updating-id-fields.md)
 
- [Update and set-up the Federated ID.](../task/updating-id-fields.md)
+ [Update and set-up the Federated ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../task/updating-id-fields.md)
 
 </td><td>
 

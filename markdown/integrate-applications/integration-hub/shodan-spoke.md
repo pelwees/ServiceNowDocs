@@ -58,5 +58,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 Two connection and credential alias records are available along with the Shodan spoke.
 
-For information about setting up the spoke, see [Set up the Shodan spoke](../task/setup-shodan-spoke.md#).
+For information about setting up the spoke, see [Set up the Shodan spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-shodan-spoke.md#).
 

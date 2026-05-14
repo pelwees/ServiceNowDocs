@@ -21,7 +21,7 @@ Role required: sn\_wsd\_core.admin
 
 ## About this task
 
-When a workplace manager signs a completed task, an e-signature PDF document is generated using a signing template and is attached to the task. For information about signing a workplace task, see [Sign a completed workplace task](sign-completed-task-wsd.md).
+When a workplace manager signs a completed task, an e-signature PDF document is generated using a signing template and is attached to the task. For information about signing a workplace task, see [Sign a completed workplace task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/sign-completed-task-wsd.md).
 
 ## Procedure
 
@@ -94,7 +94,7 @@ Placeholder for HTML text and variables. The variables are resolved when the PDF
 
     -   `${Checklist}`: Adds the checklist variable.
     -   `${Signature}`: Adds the signature variable.
-    ![Signature and checklist variables in signing template body](../../../reuse/workplace-safety-mgmt/images/signing-template-body.png)
+    ![Signature and checklist variables in signing template body](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../../reuse/workplace-safety-mgmt/images/signing-template-body.png)
 
     In the signed PDF document, the signature and checklist are embedded at the same location where you entered these variables into the template body.
 
@@ -103,5 +103,5 @@ Placeholder for HTML text and variables. The variables are resolved when the PDF
 7.  Review the look of the PDF document by impersonating a workplace manager and signing a closed task.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 

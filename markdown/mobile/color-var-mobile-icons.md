@@ -19,13 +19,13 @@ Mobile icons have a **Set appearance** section used to define the appearance of 
 
  Using this style you can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 
- For details on creating map screens, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
+ For details on creating map screens, see [Configure an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-ui-section-config-navig.md).
 
- For details on creating icons in mobile, see [Mobile icons](sg-mobile-icon.md).
+ For details on creating icons in mobile, see [Mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
 </td><td>
 
-![Color variable used in an icon](../image/color-var-example-4.png)
+![Color variable used in an icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-4.png)
 
 </td></tr></tbody>
 </table>## Mobile icon color guide
@@ -61,7 +61,7 @@ Critical
 
 </td><td>
 
-![Critical mobile icons](../image/icon-colors/icons-mobile-critical.png)
+![Critical mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-critical.png)
 
 </td><td>
 
@@ -80,7 +80,7 @@ High
 
 </td><td>
 
-![High mobile icons](../image/icon-colors/icons-mobile-high.png)
+![High mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-high.png)
 
 </td><td>
 
@@ -99,7 +99,7 @@ Warning
 
 </td><td>
 
-![Warning mobile icons](../image/icon-colors/icons-mobile-warning.png)
+![Warning mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-warning.png)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Moderate
 
 </td><td>
 
-![Moderate mobile icons](../image/icon-colors/icons-mobile-moderate.png)
+![Moderate mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-moderate.png)
 
 </td><td>
 
@@ -137,7 +137,7 @@ Info
 
 </td><td>
 
-![Info mobile icons](../image/icon-colors/icons-mobile-info.png)
+![Info mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-info.png)
 
 </td><td>
 
@@ -156,7 +156,7 @@ Positive
 
 </td><td>
 
-![Positive mobile icons](../image/icon-colors/icons-mobile-positive.png)
+![Positive mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-positive.png)
 
 </td><td>
 
@@ -175,7 +175,7 @@ Low
 
 </td><td>
 
-![Low mobile icons](../image/icon-colors/icons-mobile-low.png)
+![Low mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-low.png)
 
 </td><td>
 
@@ -207,7 +207,7 @@ Blue
 
 </td><td>
 
-![Blue mobile icons](../image/icon-colors/icons-mobile-blue.png)
+![Blue mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-blue.png)
 
 </td><td>
 
@@ -222,7 +222,7 @@ Brown
 
 </td><td>
 
-![Brown mobile icons](../image/icon-colors/icons-mobile-brown.png)
+![Brown mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-brown.png)
 
 </td><td>
 
@@ -237,7 +237,7 @@ Gray
 
 </td><td>
 
-![Gray mobile icons](../image/icon-colors/icons-mobile-gray.png)
+![Gray mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-gray.png)
 
 </td><td>
 
@@ -252,7 +252,7 @@ Green
 
 </td><td>
 
-![Green mobile icons](../image/icon-colors/icons-mobile-green.png)
+![Green mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-green.png)
 
 </td><td>
 
@@ -267,7 +267,7 @@ Green-Yellow
 
 </td><td>
 
-![Green-yellow mobile icons](../image/icon-colors/icons-mobile-green-yellow.png)
+![Green-yellow mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-green-yellow.png)
 
 </td><td>
 
@@ -282,7 +282,7 @@ Magenta
 
 </td><td>
 
-![Magenta mobile icons](../image/icon-colors/icons-mobile-magenta.png)
+![Magenta mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-magenta.png)
 
 </td><td>
 
@@ -297,7 +297,7 @@ Orange
 
 </td><td>
 
-![Orange mobile icons](../image/icon-colors/icons-mobile-orange.png)
+![Orange mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-orange.png)
 
 </td><td>
 
@@ -312,7 +312,7 @@ Pink
 
 </td><td>
 
-![Pink mobile icons](../image/icon-colors/icons-mobile-pink.png)
+![Pink mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-pink.png)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Purple
 
 </td><td>
 
-![Purple mobile icons](../image/icon-colors/icons-mobile-purple.png)
+![Purple mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-purple.png)
 
 </td><td>
 
@@ -342,7 +342,7 @@ Teal
 
 </td><td>
 
-![Teal mobile icons](../image/icon-colors/icons-mobile-teal.png)
+![Teal mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-teal.png)
 
 </td><td>
 
@@ -357,7 +357,7 @@ Yellow
 
 </td><td>
 
-![Yellow mobile icons](../image/icon-colors/icons-mobile-yellow.png)
+![Yellow mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icons-mobile-yellow.png)
 
 </td><td>
 

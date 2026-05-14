@@ -44,5 +44,5 @@ After activating the **Knowledge Article View** page route map, you can:
 
 Your end users view knowledge articles in the Service Portal using the **kb\_article\_view** page.
 
-**Parent Topic:**[Upgrading Service Portal](upgrading-service-portal.md)
+**Parent Topic:**[Upgrading Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/upgrading-service-portal.md)
 

@@ -17,9 +17,9 @@ Configure an Emergency Outreach notification to send email and mobile push notif
 
 ## Before you begin
 
-Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+Ensure that you have the Emergency Outreach application installed. For details, see [Install Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../business-continuity/task/install-emergency-outreach.md#).
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../../administer/mobile-employee/concept/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -63,7 +63,7 @@ Select the **Email** check box.
 
 </td><td>
 
-Click the lookup icon \(![look up icon](../image/icon-lookup.png)\) and select an [email notification configured for the exposure notice outreach](configure-notify-exp-contact-email.md).
+Click the lookup icon \(![look up icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/icon-lookup.png)\) and select an [email notification configured for the exposure notice outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-notify-exp-contact-email.md).
 
 </td></tr><tr><td id="d733523e211">
 
@@ -100,7 +100,7 @@ An exposure notice outreach notification is created. These exposure notice outre
 
 ## What to do next
 
-A case manager can [send the outreach notification](send-notification-to-exposed-contact.md) to the potentially exposed contacts in a case.
+A case manager can [send the outreach notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/send-notification-to-exposed-contact.md) to the potentially exposed contacts in a case.
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-contact-tracing.md)
 

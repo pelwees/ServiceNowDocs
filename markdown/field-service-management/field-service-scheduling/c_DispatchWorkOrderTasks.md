@@ -15,17 +15,17 @@ breadcrumb: [Scheduling and dispatching, Use, Field Service Management]
 
 When all of the work order tasks associated with a work order are qualified, you can dispatch the work order tasks. You can dispatch them from either the task form, the task map, or Dispatcher Workspace.
 
-When all of the associated work order tasks are qualified, the state of the parent work order changes to Qualified. If you have already [sourced parts](c_SourceParts.md) and created [transfer order lines](../task/create-transfer-order.md), then you are ready to begin dispatching the work order tasks to agents.
+When all of the associated work order tasks are qualified, the state of the parent work order changes to Qualified. If you have already [sourced parts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_SourceParts.md) and created [transfer order lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/create-transfer-order.md), then you are ready to begin dispatching the work order tasks to agents.
 
 Users with the following roles can dispatch work order tasks: wm\_dispatcher, wm\_initiator\_qualifier\_dispatcher, or wm\_admin.
 
 You can dispatch work order tasks to qualified work agents from these locations:
 
--   [Dispatch queue](c_DispatchWorkOrderTasks.md#): Dispatch tasks to agents from task records.
--   [Task map](c_DispatchWorkOrderTasks.md#): Dispatch tasks to agents using a Google map with geolocation.
+-   [Dispatch queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_DispatchWorkOrderTasks.md#): Dispatch tasks to agents from task records.
+-   [Task map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_DispatchWorkOrderTasks.md#): Dispatch tasks to agents using a Google map with geolocation.
 -   Dispatcher Workspace: Dispatch tasks to agents using the drag-and-drop and auto-assign capabilities.
 
-**Note:** When dynamic scheduling is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [system property](../reference/r_InstalledWithFSM.md).
+**Note:** When dynamic scheduling is enabled, dispatchers can manually double-book an agent for more than one work order task with overlapping time. You can enable double booking using **work.management.allow.doublebooking.dynamicscheduling** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/r_InstalledWithFSM.md).
 
 ## Assign work order tasks to agents or crews from the dispatch queue
 
@@ -111,7 +111,7 @@ You can use the dispatch map if you urgently need to dispatch a task or to reass
 
     This button is available only if the task contains a location with a defined latitude and longitude. The map displays a red task icon with a black spot for the task, and shows icons for all nearby agents.
 
-    ![view task on map button](../../field-service-management/image/task-map.png)
+    ![view task on map button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/task-map.png)
 
 4.  To apply filters on the agents, do the following:
 
@@ -130,7 +130,7 @@ You can use the dispatch map if you urgently need to dispatch a task or to reass
 
 5.  Click an agent icon to show the agent's name, skills, and schedule.
 
-6.  Click the icon![paper with a plus sign on top of it](../../field-service-management/image/WM_Assign_Task_icon.png) beside the agent's name to assign the task to that agent.
+6.  Click the icon![paper with a plus sign on top of it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/WM_Assign_Task_icon.png) beside the agent's name to assign the task to that agent.
 
 
 ### Result
@@ -221,13 +221,13 @@ Role required: wm\_dispatcher
 
 3.  Select **Assignment assistance**.
 
-    ![assignment assistance on records page](../../field-service-management/image/assign-assistance-task.png)
+    ![assignment assistance on records page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/assign-assistance-task.png)
 
 4.  Sort the agent list based on the criteria that you want.
 
     |Sort option|Description|
     |-----------|-----------|
-    |Best Match|Best match is the default sorting method. Match percentage is calculated the same way that Dynamic Scheduling calculates agents to assign tasks to. For more information, see [Matching criteria for assigning tasks](../../field-service-management/task/create-dynamic-scheduling-config.md#).|
+    |Best Match|Best match is the default sorting method. Match percentage is calculated the same way that Dynamic Scheduling calculates agents to assign tasks to. For more information, see [Matching criteria for assigning tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/task/create-dynamic-scheduling-config.md#).|
     |Distance|Sorts agents based on how far each agent is from the work order task.|
     |Skills|Sorts agents based on the number of required skills that each agent has. Agents with more skills are at the top.|
     |Parts|Sorts agents based on how many required parts each agent has. Agents with the most parts to complete the task are at the top.|
@@ -259,7 +259,7 @@ Role required: wm\_dispatcher
 
 3.  Select **Flag Task**.
 
-    ![flag task button on records page](../../field-service-management/image/select-flag-task.png)
+    ![flag task button on records page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../field-service-management/image/select-flag-task.png)
 
     The work order task is flagged and can be found under **All** &gt; **Field Service** &gt; **Work Order** &gt; **My Flagged Tasks**.
 

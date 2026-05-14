@@ -17,7 +17,7 @@ View the details of a knowledge block in Agent Workspace.
 
 The knowledge block view page in Agent Workspace provides several details about a displayed block.
 
-![Knowledge block view page in Agent Workspace](../image/block-view-page-workspace.png "Sample knowledge block view page in Agent Workspace")
+![Knowledge block view page in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/block-view-page-workspace.png "Sample knowledge block view page in Agent Workspace")
 
 <table id="table_tjh_2r4_jjb"><thead><tr><th>
 
@@ -100,11 +100,11 @@ Selected version of the knowledge block. This field appears when the article ver
 </table>**Related topics**  
 
 
-[View a knowledge block in Agent Workspace](../task/view-block-agent.md)
+[View a knowledge block in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/view-block-agent.md)
 
-[Create a knowledge block in Agent Workspace](../task/create-knowledge-block-workspace.md)
+[Create a knowledge block in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-knowledge-block-workspace.md)
 
-[Edit a knowledge block in Agent Workspace](../task/edit-knowledge-block-workspace.md)
+[Edit a knowledge block in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/edit-knowledge-block-workspace.md)
 
-[Publish a knowledge block in Agent Workspace](../task/publish-block-agent.md)
+[Publish a knowledge block in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/publish-block-agent.md)
 

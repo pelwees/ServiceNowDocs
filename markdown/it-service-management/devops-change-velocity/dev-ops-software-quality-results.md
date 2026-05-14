@@ -21,9 +21,9 @@ You can configure SonarQube scan results from your GitHub Actions, Jenkins, Azur
 
 After you have configured SonarQube scans on your pipelines and configured the corresponding plugins, run the pipelines to fetch software quality scan results into ServiceNow DevOps. You can view the scan results by Scan ID for each SonarQube scan that was part of your build or release pipeline execution steps.
 
-**Note:** For Harness pipelines, you can configure SonarQube scans only through the generic Docker Container Image. For more information, [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md). For GitHub Actions, Jenkins, and Azure DevOps, you can either use the corresponding plugins from the marketplace or the Docker container image.
+**Note:** For Harness pipelines, you can configure SonarQube scans only through the generic Docker Container Image. For more information, [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md). For GitHub Actions, Jenkins, and Azure DevOps, you can either use the corresponding plugins from the marketplace or the Docker container image.
 
-**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/devops-change-velocity-reference.md)
 
 ## Software Quality Summaries
 
@@ -114,7 +114,7 @@ Use seeded subcategories or create new categories to prioritize and list your sc
     -   Major
     -   Minor
     -   Info
-    ![Software Quality Sub Category](../image/software-quality-sub-categories.png)
+    ![Software Quality Sub Category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/software-quality-sub-categories.png)
 
 2.  Click the **New** button to create custom sub categories.
 3.  On the form, fill in the fields.

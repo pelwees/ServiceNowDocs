@@ -93,5 +93,5 @@ Activate the applications in the following order:
 -   Now Assist for Platform
 -   Now Assist for Software Asset Management \(SAM\)
 
-**Parent Topic:**[Exploring Now Assist for Software Asset Management \(SAM\)](exploring-now-assist-sam.md)
+**Parent Topic:**[Exploring Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/exploring-now-assist-sam.md)
 

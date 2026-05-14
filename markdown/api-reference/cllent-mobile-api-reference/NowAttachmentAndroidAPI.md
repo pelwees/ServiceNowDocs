@@ -18,7 +18,7 @@ The NowAttachment class provides an object that contains an attachment and its a
 |Name|Type|Description|
 |----|----|-----------|
 |data|Data|Attachment data/file.|
-|metadata|[NowAttachmentMetadata](../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)|Metadata associated with the attachment.|
+|metadata|[NowAttachmentMetadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowAttachmentMetadata/concept/NowAttachmentMetadataAndroidAPI.md#)|Metadata associated with the attachment.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 

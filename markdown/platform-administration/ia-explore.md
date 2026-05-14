@@ -23,7 +23,7 @@ Installing Now Assist for Setup is the first step to experience automatic produc
 
 **Note:** You can install the Now Assist for Setup application either directly from the [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
 
-![Image showing the button for installation of Now Assist for Setup store app](../image/ia-pre-install.png)
+![Image showing the button for installation of Now Assist for Setup store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-pre-install.png)
 
 The Now Assist for Setup capability helps you with the following:
 
@@ -47,19 +47,19 @@ See [Now Assist for Setup personas and role assignments](https://support.service
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Set up an application with Now Assist for Setup|[Set up an application with Now Assist for Setup](../task/ia-setup-apps.md)|admin|
-|Set up Now Assist|[Set up Now Assist with Now Assist for Setup](../task/ia-setup-now-assist.md)|admin|
-|Upload update set batch file|[Manage update set for Now Assist for Setup](../task/ia-update-set.md)|admin|
-|Configure an application with Now Assist for Setup|[Product modules configuration in Now Assist for Setup](ia-bu-conf.md)|admin|
-|General guidelines for Now Assist for Setup|[General guidelines](ia-des-conf.md)|admin|
+|Set up an application with Now Assist for Setup|[Set up an application with Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/ia-setup-apps.md)|admin|
+|Set up Now Assist|[Set up Now Assist with Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/ia-setup-now-assist.md)|admin|
+|Upload update set batch file|[Manage update set for Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/ia-update-set.md)|admin|
+|Configure an application with Now Assist for Setup|[Product modules configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-bu-conf.md)|admin|
+|General guidelines for Now Assist for Setup|[General guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-des-conf.md)|admin|
 
 ## What to explore next
 
 To learn more about using Now Assist for Setup, see:
 
--   [Administer Now Assist for Setup](ia-administer.md)
--   [Product modules configuration in Now Assist for Setup](ia-bu-conf.md)
--   [Now Assist for Setup references](../reference/ia-reference.md)
+-   [Administer Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-administer.md)
+-   [Product modules configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-bu-conf.md)
+-   [Now Assist for Setup references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/ia-reference.md)
 
-**Parent Topic:**[Now Assist for Setup](ia-landing.md)
+**Parent Topic:**[Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-landing.md)
 

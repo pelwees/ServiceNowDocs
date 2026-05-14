@@ -38,5 +38,5 @@ Role required: agent\_client\_collector\_user
     A pop-up window displays the distribution of monitored CIs among agents within the policy.
 
 
-**Parent Topic:**[Assign a proxy agent cluster to a policy](assign-proxy-cluster-policy.md)
+**Parent Topic:**[Assign a proxy agent cluster to a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/assign-proxy-cluster-policy.md)
 

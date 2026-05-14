@@ -17,7 +17,7 @@ Learn about the security features of the ServiceNow mobile platform.
 
 ServiceNow mobile apps consist of ServiceNow server instance and native apps for iOS and Android. The apps use full native code and are not a hybrid approach. The mobile apps transmit and receive data with the server across the wireless network.
 
-![Diagram of ServiceNow mobile architecture.](../image/security-mobile-architecture-1.png "ServiceNow mobile architecture")
+![Diagram of ServiceNow mobile architecture.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/security-mobile-architecture-1.png "ServiceNow mobile architecture")
 
 ## Overview of key features of ServiceNow mobile platform security
 
@@ -47,7 +47,7 @@ ServiceNow mobile apps consist of ServiceNow server instance and native apps for
 
 ServiceNow mobile apps start fetching the initial user experience after a successful sign-in. The mobile app fetches the metadata to render the landing home screen from the instance. The app then uses this metadata to render the home screen.
 
-![App flow overview.](../image/security-mobile-architecture-2.png)
+![App flow overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/security-mobile-architecture-2.png)
 
 ## Data retrieval
 
@@ -101,7 +101,7 @@ ServiceNow mobile apps support platform authentication using OAuth 2.0. Authenti
 
     When an administrator deletes or removes a user from the instance, the access token is no longer valid, and any operation logs the user out.
 
-    ![Mobile authentication workflow.](../image/security-mobile-architecture-3.png "Mobile authentication workflow")
+    ![Mobile authentication workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/security-mobile-architecture-3.png "Mobile authentication workflow")
 
 -   **Multi-provider SSO**
 
@@ -124,7 +124,7 @@ ServiceNow mobile apps use SSL/TLS over-the-air \(OTA\) communication encryption
 
     Application preference data such as favorites, home screen, and the mobile navigator items are stored and cached locally on the device. The mobile apps do not store record data such as incidents and problems on the device unless your organization has specifically enabled offline syncing for field service. Record data stored during offline mode is encrypted with FIPS 140-2 validated modules. \(iOS cryptographic modules and SQL Cipher for Android which uses this cryptographic module for encryption\).
 
-    ![Data at rest.](../image/security-mobile-architecture-4.png "Data at rest")
+    ![Data at rest.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/security-mobile-architecture-4.png "Data at rest")
 
 -   **Data in motion**
 

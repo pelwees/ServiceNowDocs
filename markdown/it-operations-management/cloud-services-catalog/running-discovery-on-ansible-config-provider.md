@@ -27,13 +27,13 @@ Role required: none
 
 2.  On the form, fill in the fields as per the information received from the Ansible Tower.
 
-    ![New record for Ansible Tower credentials.](../image/ansible-tower-new.png "Ansible Tower credentials")
+    ![New record for Ansible Tower credentials.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ansible-tower-new.png "Ansible Tower credentials")
 
 3.  Select **Submit**.
 
 4.  Create a config provider by selecting **New**.
 
-    ![Create Config Provider form to use for creating an Ansible Config Provider.](../image/ansible-config-provider.png "Create Config Provider form")
+    ![Create Config Provider form to use for creating an Ansible Config Provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ansible-config-provider.png "Create Config Provider form")
 
     **Important:**
 
@@ -41,12 +41,12 @@ Role required: none
 
 5.  Run the Discovery to discover all projects and extra variables in an organization.
 
-    ![Ansible Discovery.](../image/ansible-config-provider-discover.png "Ansible Discovery")
+    ![Ansible Discovery.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ansible-config-provider-discover.png "Ansible Discovery")
 
 
 ## Result
 
 You’re all set to take the next steps to order an Ansible item.
 
-**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](../concept/integrating-ansible-with-cloud-services-catalog.md)
+**Parent Topic:**[Integrating Ansible with Cloud Services Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/integrating-ansible-with-cloud-services-catalog.md)
 

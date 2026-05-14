@@ -17,7 +17,7 @@ This section consists of the related lists items that are grouped into sections 
 
 The following related lists groups that are available as a part of the base system. You can modify these groups or create groups within the application and their respective actions.
 
-You can modify these groups or create new groups. For more information, see [Configure Security Incident Related List](sir-records.md#) on how to configure and group the related list for security incidents and response tasks. Each related list is fully functional within the SIR Workspace.
+You can modify these groups or create new groups. For more information, see [Configure Security Incident Related List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-records.md#) on how to configure and group the related list for security incidents and response tasks. Each related list is fully functional within the SIR Workspace.
 
 <table id="table_dyj_zqv_x5b"><thead><tr><th>
 
@@ -120,36 +120,36 @@ Endpoint Detection and Response \(EDR\)
 -   Microsoft Defender for Endpoint-Related Machines Details
 
 </td></tr></tbody>
-</table>![Related Records](../image/sir-records.png)
+</table>![Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-records.png)
 
 **Note:** In general, you'd be able to create new records, link, or unlink existing records or new records against the related list group as applicable.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[Set up view of SIR Records](set-up-view-of-sir-records.md)
+[Set up view of SIR Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-view-of-sir-records.md)
 
-[Configure SI design time investigation](configure-investigation-canvas-records.md)
+[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/define-risk-score-calculator-rules-sir.md)
 
-[Configure Shift Handover](config-shift-handover.md)
+[Configure Shift Handover](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/config-shift-handover.md)
 
-[Security Incident Response conference call integration](sir-conf-call-capability.md)
+[Security Incident Response conference call integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-conf-call-capability.md)
 
-[Configure report templates in Security Incident Response](daily-status-sir.md)
+[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 
-[On-Call scheduling in Security Incident Response](on-call-schedule-sir.md)
+[On-Call scheduling in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/on-call-schedule-sir.md)
 
-[Category management in Security Incident Response](category-management-sir.md)
+[Category management in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/category-management-sir.md)
 
-[View and update Security Incident Response system properties](view-update-sirw-system-properties.md)
+[View and update Security Incident Response system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-update-sirw-system-properties.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-quick-filters-for-security-incidents.md)
 
-[Configure Security Incident Related List](sir-records.md#)
+[Configure Security Incident Related List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-records.md#)
 
 ## Configure Security Incident Related List
 
@@ -165,7 +165,7 @@ Role required: sn\_si.admin
 
 1.  In the classic UI, navigate to **All** &gt; **Security Incident** &gt; **Show Open Incidents**.
 
-    ![Open incidents](../image/show-incidents.png)
+    ![Open incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/show-incidents.png)
 
 2.  Select any incident record.
 
@@ -173,7 +173,7 @@ Role required: sn\_si.admin
 
 4.  Go to **Configure** &gt; **Related List**.
 
-    ![related list page](../image/configure-related-list.png)
+    ![related list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/configure-related-list.png)
 
     The **Configuring related lists on Security Incident form** is displayed.
 
@@ -185,7 +185,7 @@ Role required: sn\_si.admin
 
     After you select the view, choose the required related list fields from the slush bucket.
 
-    ![related list slush bucket view](../image/related-list-slushbucket.png)
+    ![related list slush bucket view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-slushbucket.png)
 
     **Note:** If you want to modify anything, select the view and remove or add the items.
 
@@ -195,21 +195,21 @@ Role required: sn\_si.admin
 
 10. Select **Security Incident Response Workspace**.
 
-    ![configure related list new experience](../image/related-list-newexp.png)
+    ![configure related list new experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-newexp.png)
 
     The **UX Application Security Incident Response Workspace** page is displayed.
 
 11. Go to **UX Page Properties** tab and select **relatedListLayoutConfig** option in the list view.
 
-    ![Related list](../image/related-list-config.png)
+    ![Related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-config.png)
 
-    ![Related List configuration section.](../image/related-list-ux-view.png)
+    ![Related List configuration section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-ux-view.png)
 
 12. Add the newly created view name separated by a comma to an already existing list of values in the **Value** text box under the **sn\_si\_incident.viewsUsedForGrouping** field.
 
     For example, if you had created a new view name as, **Business Impact** then in the **Value** text box you must specify it as **business\_impact** \(which is separated by underscore within the view name and separated by a comma after an existing value\) under the sn\_si\_incident:groups field.
 
-    ![Related List Layout configuration.](../image/value-text-box-related-list.png)
+    ![Related List Layout configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/value-text-box-related-list.png)
 
     **Note:** If you add the new view name under **sn\_si\_incident.viewsUsedForGrouping** field then the entry will be created in the **Related Records** tab of the workspace.
 
@@ -217,7 +217,7 @@ Role required: sn\_si.admin
 
     Below is an example view which shows the newly created views added.
 
-    ![related list newly created view](../image/related-list-new-view-page.png)
+    ![related list newly created view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/related-list-new-view-page.png)
 
     **Note:** **requiredRolesForGrouping** contains comma separated sys\_user\_role record names. SIR Workspace user should have at least one of these roles, to use the grouped related lists. When a user does not have any of these roles then related lists view configured for the current user role using view rule configuration will be represented vertically without grouping. This property is ignored when **isGrouped** property is set to false. If this property is empty any user can access the grouped related lists.
 
@@ -248,7 +248,7 @@ The response tasks related list is not grouped but displayed as individual relat
 
 1.  Navigate to **All** &gt; **Security Incident** &gt; **Response Tasks** &gt; **Show All Tasks**.
 
-    ![List of all Security Incident Response Tasks](../image/response-tasks-configure.png)
+    ![List of all Security Incident Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/response-tasks-configure.png)
 
 2.  Select any response task record.
 
@@ -260,13 +260,13 @@ The response tasks related list is not grouped but displayed as individual relat
 
 5.  Go to **View name** and select **sirw** view.
 
-    ![sirw view name highlighted](../image/response-task-sirw-view.png)
+    ![sirw view name highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/response-task-sirw-view.png)
 
 6.  Select the desired related list fields from the slush bucket.
 
     For example, Affected Locations.
 
-    ![related list slush bucket view](../image/response-tasks-selction.png)
+    ![related list slush bucket view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/response-tasks-selction.png)
 
 7.  Click **Save**.
 
@@ -274,6 +274,6 @@ The response tasks related list is not grouped but displayed as individual relat
 
     The configured related lists \(For example, Affected locations as selected\) is listed within the SIT records list.
 
-    ![configured related list](../image/aafected-locations-response-tasks.png)
+    ![configured related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/aafected-locations-response-tasks.png)
 
 

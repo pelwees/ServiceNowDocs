@@ -53,7 +53,7 @@ Edit using one of the following ways. These actions are applicable for both high
 -   Hierarchy: Double-click an item's field on the grid to make inline edits or select the short description to open the full details page.
  The full details page shows the item's related lists such as Goal Relationships, Milestones, Dependencies, and others.
 
- For field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+ For field information, see [Planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/planning-item-form.md).
 
 </td></tr><tr><td id="d197343e174">
 
@@ -71,7 +71,7 @@ In the Attachments section of the full details page, select **Browse** and uploa
 
 From the full details page:
 
-1.  Select the More Actions icon \(![More actions icon.](../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
+1.  Select the More Actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
 2.  Click **OK** to confirm.
 
 

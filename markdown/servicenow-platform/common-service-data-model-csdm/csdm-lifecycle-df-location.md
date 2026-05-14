@@ -17,7 +17,7 @@ The values for the location life-cycle process reflect the locations used by you
 
 ## Definitions of location life cycle stage and life cycle stage status values
 
-![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-location.png)
+![Relationships between CSDM stages and life cycle values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-lifecycle-vp-location.png)
 
 -   **Ideation life cycle stage**
 
@@ -42,7 +42,7 @@ The values for the location life-cycle process reflect the locations used by you
 
 **Note:** The \[life\_cycle\_control\] table uses the type of CI \(tangible/physical, document and contract, location and so on\) to determine which *life cycle stage status* values are available for each *life cycle stage*.
 
-For additional information on how you can benefit from implementing life-cycle value pairs for CMDB entities, see the ['Map existing status values to CSDM life-cycle value pairs' section in the 'Foundation domain' topic](../concept/foundation-domain.md).
+For additional information on how you can benefit from implementing life-cycle value pairs for CMDB entities, see the ['Map existing status values to CSDM life-cycle value pairs' section in the 'Foundation domain' topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/foundation-domain.md).
 
-**Parent Topic:**[Life cycle of location entities](../concept/csdm-lifecycle-location.md)
+**Parent Topic:**[Life cycle of location entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-location.md)
 

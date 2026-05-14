@@ -15,7 +15,7 @@ breadcrumb: [Approval rules, Classic approvals, Build workflows]
 
 Process guides work similarly to approval rules in that their execution is controlled via a condition.
 
-**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 ## Before you begin
 
@@ -47,11 +47,11 @@ You can link a process guide to a execution task.
 
     Example \#1: Apply to all "Capacity Review" tasks.
 
-    ![Capacity](../image/Capacity.png)
+    ![Capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/Capacity.png)
 
     Example \#2: Apply to all "Capacity Review" tasks where there requester is in Atlanta.
 
-    ![Capacity Atlanta](../image/CapacityAtlanta.png)
+    ![Capacity Atlanta](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/CapacityAtlanta.png)
 
     Process guide tips and tricks:
 

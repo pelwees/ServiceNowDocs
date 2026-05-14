@@ -18,7 +18,7 @@ The ServiceNow® Advanced Risk application enables you to identify, analyze, eva
 -   Use the Risk Suggestion AI Agent to refine and confirm risks, by providing additional context and reviewing, updating, renaming, or removing suggested risks before they’re added.
 -   Use a structured workflow to draft, review, and approve control objective updates before making them active.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -73,5 +73,5 @@ Install Advanced Risk by requesting it from the ServiceNow Store. Visit the [Ser
     Using Risk Workspace with the ServiceNow® Advanced Risk application provides a simplified user experience with a single-pane view for all your risk-related activities.
 
 
-**Parent Topic:**[Governance, Risk, and Compliance release notes](grc-rn-landing.md)
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-rn-landing.md)
 

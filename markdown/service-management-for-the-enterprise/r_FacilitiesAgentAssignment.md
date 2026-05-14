@@ -27,10 +27,10 @@ If more than one set of criteria is considered, such as location and skills, the
 
 If the task cannot be auto-assigned, a user with the dispatcher role adjusts the values in the request or task form and saves the record.
 
-**Parent Topic:**[Facilities requests](../concept/c_FacilitiesRequests.md)
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_FacilitiesRequests.md)
 
 **Related topics**  
 
 
-[Agent assignment methods](../../service-management-core/concept/c_AgentAssignment.md)
+[Agent assignment methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../service-management-core/concept/c_AgentAssignment.md)
 

@@ -19,9 +19,9 @@ Role required: admin
 
 ## Procedure
 
-1.  From your grouped input record, click the reference icon \(![Reference icon](../image/gac-info-icon.png)\) next to the **Button** field, and then click **Open record** to open your function record.
+1.  From your grouped input record, click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) next to the **Button** field, and then click **Open record** to open your function record.
 
-2.  From your function record, click the reference icon \(![Reference icon](../image/gac-info-icon.png)\) next to the **Action item** field, and then click **Open record** to open your action item record.
+2.  From your function record, click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) next to the **Action item** field, and then click **Open record** to open your action item record.
 
 3.  Modify the **Execution Script** field to use your grouped input UI parameters.
 
@@ -29,16 +29,16 @@ Role required: admin
 
     In this example, the script checks the length of **input.add\_asset** to see how many items were scanned. It then adds an asset for each scanned item using the scanned-in serial number and asset tag.
 
-    ![Grouped input used in an execution script example.](../image/grouped-input-script-example.png)
+    ![Grouped input used in an execution script example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-input-script-example.png)
 
     **Note:**
 
     -   The action item type must be set to **Script** to display this **Execution Script** field.
-    -   In the above script example, the addAssetToStockroom\(\) function is a custom function that has been created by the user. For more information, see [Configure an action function](sg-studio-config-action-function.md).
+    -   In the above script example, the addAssetToStockroom\(\) function is a custom function that has been created by the user. For more information, see [Configure an action function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 ## What to do next
 
-Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [Multi-scan for mobile applications](../concept/sg-multi-scan.md).
+Your button is configured for multi-scan, and your users can begin creating records. For information on using the mobile scanning interface, see [Multi-scan for mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-multi-scan.md).
 
-**Parent Topic:**[Configure a grouped input for multiple scans](sg-configure-multiscan.md)
+**Parent Topic:**[Configure a grouped input for multiple scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md)
 

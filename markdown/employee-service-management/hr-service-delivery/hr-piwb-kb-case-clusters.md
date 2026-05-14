@@ -38,7 +38,7 @@ This template helps customizing a use case model to configure the Knowledge Dema
     2.  Click **Take me there** to get started with the solution definition.
     Machine Learning Solutions landing page appears.
 
-    ![List of ML usecases for HR PIWB](../image/piwb-hr-ml-list.png "HR ML use cases")
+    ![List of ML usecases for HR PIWB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/piwb-hr-ml-list.png "HR ML use cases")
 
 3.  Review the information from [Configure Knowledge Demand Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-demand-insights.md).
 
@@ -53,13 +53,13 @@ This template helps customizing a use case model to configure the Knowledge Dema
 
 You can use a demand insights for knowledge gap analysis and create actionable knowledge articles for missing topics.
 
-Review the corresponding use case information from [Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md).
+Review the corresponding use case information from [Machine learning solutions for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/predictive-intelligence-for-hr-service-delivery-1.md).
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

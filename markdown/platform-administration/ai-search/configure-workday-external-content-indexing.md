@@ -27,11 +27,11 @@ A Workday admin must have already completed the preliminary tasks shown in the f
 
 |Preliminary task|Description|
 |----------------|-----------|
-|[Configure Workday security settings](configure-workday-security-settings.md)|Required task.|
-|[Configure access to help articles in Workday](configure-public-help-articles-workday.md)|Optional task. Only required if you want the connector to retrieve searchable content and metadata from help articles accessible by all users in your Workday organization.|
-|[Configure a payslip report in Workday](configure-payslip-report-workday.md)|Optional task. Only required if you want the connector to retrieve searchable content and metadata from payroll data.|
-|[Configure a Learning assignment custom report in Workday](configure-learning-assignment-report-workday.md) and [Get Workday task code for Find Learning Assignments](get-workday-task-code-learning-assignments.md)|Optional tasks. Only required if you want the connector to retrieve searchable content and metadata from Learning assignment data.|
-|[Get Workday task code for My Team's Birthday](get-workday-task-code-birthday.md) and [Get Workday task code for My Team Anniversaries](get-workday-task-code-anniversaries.md)|Optional tasks. Only required if you want the connector to retrieve searchable content and metadata from Manager hub data.|
+|[Configure Workday security settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-security-settings.md)|Required task.|
+|[Configure access to help articles in Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-public-help-articles-workday.md)|Optional task. Only required if you want the connector to retrieve searchable content and metadata from help articles accessible by all users in your Workday organization.|
+|[Configure a payslip report in Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-payslip-report-workday.md)|Optional task. Only required if you want the connector to retrieve searchable content and metadata from payroll data.|
+|[Configure a Learning assignment custom report in Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-learning-assignment-report-workday.md) and [Get Workday task code for Find Learning Assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/get-workday-task-code-learning-assignments.md)|Optional tasks. Only required if you want the connector to retrieve searchable content and metadata from Learning assignment data.|
+|[Get Workday task code for My Team's Birthday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/get-workday-task-code-birthday.md) and [Get Workday task code for My Team Anniversaries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/get-workday-task-code-anniversaries.md)|Optional tasks. Only required if you want the connector to retrieve searchable content and metadata from Manager hub data.|
 
 Role required: none
 
@@ -105,16 +105,16 @@ To allow the connector to access your Workday source system via the Workday REST
 
 Provide the following items to your connector admin:
 
--   The base connection URL for your Workday tenant that you copied in step [1.b](configure-workday-external-content-indexing.md#copy-connection-url-tenant-name-step).
--   The tenant name that you copied in step [1.b](configure-workday-external-content-indexing.md#copy-connection-url-tenant-name-step).
--   The client ID that you copied in step [4.a](configure-workday-external-content-indexing.md#copy-client-id-step).
--   The client secret that you copied in step [4.b](configure-workday-external-content-indexing.md#copy-client-secret-step).
--   The token endpoint URL that you copied in step [4.c](configure-workday-external-content-indexing.md#copy-token-url-step).
--   The authorization endpoint URL that you copied in step [4.d](configure-workday-external-content-indexing.md#copy-auth-url-step).
+-   The base connection URL for your Workday tenant that you copied in step [1.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-connection-url-tenant-name-step).
+-   The tenant name that you copied in step [1.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-connection-url-tenant-name-step).
+-   The client ID that you copied in step [4.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-client-id-step).
+-   The client secret that you copied in step [4.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-client-secret-step).
+-   The token endpoint URL that you copied in step [4.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-token-url-step).
+-   The authorization endpoint URL that you copied in step [4.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workday-external-content-indexing.md#copy-auth-url-step).
 
 Your connector admin needs these items to configure a Workday external content connector to retrieve Workday content from your Workday source system.
 
-For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](create-ext-cont-connector-workday.md).
+For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-workday.md).
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

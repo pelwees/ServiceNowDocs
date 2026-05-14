@@ -265,7 +265,7 @@ Enter any additional information in the Close notes field.
 
 8.  Expand the Implementation Records item to view the list of implementation records associated with the engagement.
 
-    ![Related Items: Implementation Record](../image/related-items-imp-rec.jpg)
+    ![Related Items: Implementation Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/related-items-imp-rec.jpg)
 
     You can do the following:
 
@@ -273,5 +273,5 @@ Enter any additional information in the Close notes field.
     -   Select **View all** to view all the implementation records associated with the engagement. The list of records is displayed on a separate page.
     -   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) to open and edit the implementation record.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-config-cust-success.md)
 

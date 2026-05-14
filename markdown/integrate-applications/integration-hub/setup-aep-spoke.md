@@ -58,7 +58,7 @@ Enable the JWT Bearer Grant token authentication by attaching a valid Java KeySt
     |Short description|Summary about the certificate.|
     |PEM Certificate|Contents of the X509 certificate.|
 
-4.  Click the attachments icon \(![Attachments icon](../image/attachments-icon.png)\) and attach a JKS certificate.
+4.  Click the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach a JKS certificate.
 
 5.  Click **Validate Stores/Certificates**.
 

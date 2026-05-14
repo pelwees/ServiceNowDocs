@@ -30,7 +30,7 @@ The Copy Incident functionality copies the details of an existing incident recor
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Open an existing incident that you want to copy or from which you want to create a child incident.
 
@@ -50,7 +50,7 @@ Action
 
 </td><td>
 
-Click the Additional actions icon ![The Additional actions icon](../image/context-menu.png) and then click **Copy Incident**.**Note:** After the incident is copied, the **Work notes** field of the new incident is updated with the following message: `Created from a similar incident: INCXXXXXX`.
+Click the Additional actions icon ![The Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/context-menu.png) and then click **Copy Incident**.**Note:** After the incident is copied, the **Work notes** field of the new incident is updated with the following message: `Created from a similar incident: INCXXXXXX`.
 
 </td></tr><tr><td id="d134084e174">
 
@@ -58,7 +58,7 @@ Click the Additional actions icon ![The Additional actions icon](../image/contex
 
 </td><td>
 
-Click the Additional actions icon ![The Additional actions icon](../image/context-menu.png) and then click **Create Child Incident**.**Note:** Ensure you have added the **Parent Incident** field and the **Incident -&gt; Parent Incident** related list to the incident form. The incident, from which you have created the child incident, is considered as the parent incident.
+Click the Additional actions icon ![The Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/context-menu.png) and then click **Create Child Incident**.**Note:** Ensure you have added the **Parent Incident** field and the **Incident -&gt; Parent Incident** related list to the incident form. The incident, from which you have created the child incident, is considered as the parent incident.
 
 </td></tr></tbody>
 </table>4.  Fill out the other fields, as required.

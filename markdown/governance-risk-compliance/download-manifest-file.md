@@ -36,7 +36,7 @@ Verify that the following plugins are activated with the sys\_admin role.
 
     The manifest file is downloaded in your local drive.
 
-    ![Office manifest file for Document Designer.](../../grc-business-continuity-management/image/download-manifest.png)
+    ![Office manifest file for Document Designer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-business-continuity-management/image/download-manifest.png)
 
 4.  To enable the add-in, contact your Microsoft 365 account manager who can use the manifest file you downloaded in step 3.
 

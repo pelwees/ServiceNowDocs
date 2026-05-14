@@ -145,16 +145,16 @@ Script configuring the mapping between fields and record producer variables. Thi
 </table>6.  Select **Update**.
 
 
-**Parent Topic:**[Configure legal contract templates of type Microsoft Word](lsc-configure-ct-msword.md)
+**Parent Topic:**[Configure legal contract templates of type Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-configure-ct-msword.md)
 
 **Related topics**  
 
 
-[Add content controls in a Microsoft Word document](lsc-cont-contr-word-tmplt.md)
+[Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-cont-contr-word-tmplt.md)
 
-[Create a Microsoft Word legal contract template](lsc-create-ct-msword.md)
+[Create a Microsoft Word legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-create-ct-msword.md)
 
-[Create and configure participants for legal contract template](lsc-add-config-participants-msword.md)
+[Create and configure participants for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-add-config-participants-msword.md)
 
-[Publish a contract template](lsc-publish-word-template.md)
+[Publish a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-publish-word-template.md)
 

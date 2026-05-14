@@ -15,15 +15,15 @@ breadcrumb: [Administering the Automated Test Framework \(ATF\), Automated Test 
 
 Test step templates contain a list of steps to be added all at once to an automated test.
 
--   **[Create an automated test steps template](../task/atf-create-template.md)**  
+-   **[Create an automated test steps template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-create-template.md)**  
 Reduce testing time by creating a template containing a list of steps to add all at once to an automated test.
--   **[Edit automated test steps template](../task/atf-edit-template.md)**  
+-   **[Edit automated test steps template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-edit-template.md)**  
 Edit an existing test template.
 
-**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](atf-admin-overview.md)
+**Parent Topic:**[Administering the Automated Test Framework \(ATF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-admin-overview.md)
 
 **Related topics**  
 
 
-[Add a predefined list of steps \(template\) to an automated test](../task/atf-use-template.md)
+[Add a predefined list of steps \(template\) to an automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-use-template.md)
 

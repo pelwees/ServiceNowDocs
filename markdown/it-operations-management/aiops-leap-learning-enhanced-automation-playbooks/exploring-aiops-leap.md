@@ -21,7 +21,7 @@ LEAP helps you manage incidents and operational tasks efficiently. It uses AI to
 
 **Note:** The plugin name has been updated from AIOps Learning Enhanced Automation Playbook to AIOps Learning Enhanced Automation Platform \(LEAP\) to reflect its expanded capabilities and strategic direction.
 
-![LEAP dashboard with records analyzed](../images/leap-dashboard-records-analyzed.png)
+![LEAP dashboard with records analyzed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/leap-dashboard-records-analyzed.png)
 
 The landing page displays the number of records analyzed on the right-hand side of Automation opportunities section. The tool tip provides details about the duration considered for record analysis.
 
@@ -144,7 +144,7 @@ A buyer or a business goal owner gains strategic and operational advantages usin
 
 To learn more about configuring and using LEAP, see:
 
--   [Configuring LEAP](configuring-aiops-leap.md)
--   [Using LEAP](../task/using-aiops-leap.md)
--   [LEAP reference](../reference/references-aiops-leap.md)
+-   [Configuring LEAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/configuring-aiops-leap.md)
+-   [Using LEAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../task/using-aiops-leap.md)
+-   [LEAP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../reference/references-aiops-leap.md)
 

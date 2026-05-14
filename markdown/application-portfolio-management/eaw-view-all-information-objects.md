@@ -21,23 +21,23 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Information Objects**.
 
 
-**Parent Topic:**[Manage information objects](../../concept/eaw-concept/eaw-manage-info-object.md)
+**Parent Topic:**[Manage information objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-info-object.md)
 
 **Related topics**  
 
 
-[Add or edit an information object](eaw-create-new-information-object.md)
+[Add or edit an information object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-new-information-object.md)
 
-[Manage information objects of a business application in EA Workspace](eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-associate-info-obj-ba.md)
 
-[Associate an information object to a digital integration](eaw-dig-integ-add-info-object.md)
+[Associate an information object to a digital integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-integ-add-info-object.md)
 
-[Relate an information object to a digital interface](eaw-dig-interface-add-info-object.md)
+[Relate an information object to a digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-dig-interface-add-info-object.md)
 

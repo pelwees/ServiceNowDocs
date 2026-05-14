@@ -27,13 +27,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 OpenStack is a cloud operating system that controls large pools of compute, storage, and networking resources throughout a datacenter. All of these resources are managed and provisioned through APIs with common authentication mechanisms. Other components provide services such as orchestration, fault management, and service management to promote high availability of user applications. OpenStack is broken up into services to enable you to plug and play components depending on your needs. These components are designed for horizontal scalability, so you can easily add new resources to grow your cloud over time.
 
-![OpenStack classes integrated with the CMDB class hierarchy.](../image/CMDBCIClassModelsFeb20OpenStack.png "OpenStack classes integrated with the CMDB class hierarchy")
+![OpenStack classes integrated with the CMDB class hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/CMDBCIClassModelsFeb20OpenStack.png "OpenStack classes integrated with the CMDB class hierarchy")
 
 ## Classes
 
 This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class.
 
-CMDB CI Class Models: Release 1.8.0 adds the following classes for OpenStack. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+CMDB CI Class Models: Release 1.8.0 adds the following classes for OpenStack. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 |Class|Extends|Description|
 |-----|-------|-----------|
@@ -84,5 +84,5 @@ Defines if the Service and its endpoints appear in the Service catalog \(true/fa
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_ConfigurationManagementDatabase.md)
 

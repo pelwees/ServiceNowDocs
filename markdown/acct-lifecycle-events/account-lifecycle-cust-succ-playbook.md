@@ -22,7 +22,7 @@ Playbooks provide step-by-step guidance and include multiple stages and activiti
 
 For more details on the playbook layout and components, see [Playbook layout and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-layout.md). The following playbooks are available:
 
--   [Success case playbook](account-lifecycle-success-playbook.md)
--   [Internal play playbook](account-lifecycle-internal-playbook.md)
--   [Renewal playbook](account-lifecycle-renewal-playbook.md)
+-   [Success case playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-playbook.md)
+-   [Internal play playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-internal-playbook.md)
+-   [Renewal playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-renewal-playbook.md)
 

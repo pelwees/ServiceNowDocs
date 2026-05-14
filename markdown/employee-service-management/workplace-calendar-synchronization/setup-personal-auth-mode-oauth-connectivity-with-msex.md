@@ -17,7 +17,7 @@ Create a personal authentication mode application registry for Microsoft Exchang
 
 ## Before you begin
 
-Configure Microsoft Azure. For more information, see [Configure Microsoft Azure](configure-azure-personal-auth-mode.md).
+Configure Microsoft Azure. For more information, see [Configure Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md).
 
 Confirm that the application scope is set to **Workplace Calendar Synchronization**.
 
@@ -31,7 +31,7 @@ Role required: admin
 
 3.  On the Third-party OAuth Provider form, fill in the fields:
 
-    For a description of the field values, see [Third-party OAuth Provider form](../reference/wsd-third-party-oauth-provider-form.md).
+    For a description of the field values, see [Third-party OAuth Provider form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../reference/wsd-third-party-oauth-provider-form.md).
 
 4.  Right-click in the form header and select **Save**.
 
@@ -52,18 +52,18 @@ Role required: admin
 
 The OAuth registration is added for Microsoft Exchange Online with personal authentication mode OAuth entity profiles and OAuth entity scopes.
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../concept/personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 
 
-[Configure Microsoft Azure](configure-azure-personal-auth-mode.md)
+[Configure Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md)
 
-[Configure resource rooms in Microsoft Exchange Online](configure-resource-rooms-in-msex.md)
+[Configure resource rooms in Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-resource-rooms-in-msex.md)
 
-[Configure a personal authentication mode Connection and Credential alias for Microsoft Exchange Online](configure-personal-auth-mode-connection-and-credential-alias.md)
+[Configure a personal authentication mode Connection and Credential alias for Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-personal-auth-mode-connection-and-credential-alias.md)
 
-[Configure your own connection and credential alias for personal authentication mode](configure-your-own-connection-and-credential-alias-for-personal-auth.md)
+[Configure your own connection and credential alias for personal authentication mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-your-own-connection-and-credential-alias-for-personal-auth.md)
 
-[Configure the Microsoft Exchange Online calendar provider in personal authentication mode](configure-calendar-provider-in-personal-auth-mode.md)
+[Configure the Microsoft Exchange Online calendar provider in personal authentication mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-calendar-provider-in-personal-auth-mode.md)
 

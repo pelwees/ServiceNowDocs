@@ -108,5 +108,5 @@ Role required: agent\_client\_collector\_admin
 
 ## What to do next
 
-[Install the .pem file in the MID unified keystore and set up the MID Web Server](set-mid-web-server.md).
+[Install the .pem file in the MID unified keystore and set up the MID Web Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/set-mid-web-server.md).
 

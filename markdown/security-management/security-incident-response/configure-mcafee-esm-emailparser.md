@@ -29,7 +29,7 @@ A McAfee ESM email parser template is provided to use for the integration. It mu
 
     The available security integrations appear as a series of cards.
 
-    ![McAfee ESM - Email Parser integration card](../image/intel-mcafee-esm-emailparser-plugin-card.png)
+    ![McAfee ESM - Email Parser integration card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/intel-mcafee-esm-emailparser-plugin-card.png)
 
 2.  In the McAfee ESM - Email Parser card, click **Configure**.
 
@@ -37,7 +37,7 @@ A McAfee ESM email parser template is provided to use for the integration. It mu
 
 4.  Click the **McAfee ESM** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](../../../security-operations-common/task/parsing-emails.md).
+    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-operations-common/task/parsing-emails.md).
 
 5.  Check the **Active** box.
 

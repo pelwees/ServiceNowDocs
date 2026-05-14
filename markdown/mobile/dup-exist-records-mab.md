@@ -39,9 +39,9 @@ The ability to duplicate records is available for the following record types:
 
 3.  Select the **Screens** or the **Cards &amp; icons** category for the type of record that you want to duplicate, and then search for the screen or card you want to use as a template.
 
-4.  In the upper right corner of the screen or card form, select the menu \(![More menu button.](../image/mab-button-more.png)\), and then select **Duplicate**.
+4.  In the upper right corner of the screen or card form, select the menu \(![More menu button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-more.png)\), and then select **Duplicate**.
 
-    ![Mobile App Builder showing the 'Duplicate' menu.](../image/mab-dup-rec-dup-menu.png)
+    ![Mobile App Builder showing the 'Duplicate' menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-dup-rec-dup-menu.png)
 
     **Note:** The **Duplicate** option might be turned off for one of the following reasons:
 
@@ -52,16 +52,16 @@ The ability to duplicate records is available for the following record types:
 
 5.  In the modal dialog box, name the record, select the **Application scope** from the drop-down list, and then select **Create**.
 
-    ![Modal dialog box.](../image/mab-dup-rec-modal-dialog.png)
+    ![Modal dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-dup-rec-modal-dialog.png)
 
     **Note:**
 
     -   Most of the child records are automatically renamed when you create a new name for the parent record. Only child records that act as a property type such as **Min** or **Max** or those child records whose name appears on screen to end users retain their original name.
-    -   The child records that have a green check mark \(![Green check mark image.](../image/green-check-mark.png)\) next to them in the Preview section of the modal dialog box are duplicated for the new screen or card. If no check mark appears next to a child record, that means the original record is reused for the new screen or card.
+    -   The child records that have a green check mark \(![Green check mark image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/green-check-mark.png)\) next to them in the Preview section of the modal dialog box are duplicated for the new screen or card. If no check mark appears next to a child record, that means the original record is reused for the new screen or card.
     -   Records can be duplicated into a different application scope. Any cross-scope records are consolidated into one destination scope.
 6.  In the Success dialog box, you can select **Continue editing existing record** to make further changes to the original record or select **Go to record** to view the new duplicated screen or card.
 
-    ![Success dialog box.](../image/mab-dup-rec-succ-msg.png)
+    ![Success dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-dup-rec-succ-msg.png)
 
 7.  Make any additional changes to child records in the new duplicated screen or card, and then select **Save**.
 

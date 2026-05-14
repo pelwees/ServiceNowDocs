@@ -198,5 +198,5 @@ For a risk assessment, the weighted value from metric results table is calculate
 
 `weighted_value = metric.weight * result.actual_value`
 
-**Parent Topic:**[Metric Result form](../../survey-administration/reference/r_MetricResultFieldNames.md)
+**Parent Topic:**[Metric Result form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/reference/r_MetricResultFieldNames.md)
 

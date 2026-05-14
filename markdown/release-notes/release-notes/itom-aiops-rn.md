@@ -54,5 +54,5 @@ Install ITOM AIOps apps by requesting them from the ServiceNow Store. Visit the 
     Discovery provides a replicable and reliable method to identify your enterprise IT infrastructure. Service Mapping creates an accurate, service-aware view of your infrastructure. Service Mapping continuously monitors IT resources for service-affecting changes and updates service maps in real time. For more information on ITOM Visibility, see [ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-landing-page.md) .
 
 
-**Parent Topic:**[IT Operations Management release notes](it-operations-management-rn-landing.md)
+**Parent Topic:**[IT Operations Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-operations-management-rn-landing.md)
 

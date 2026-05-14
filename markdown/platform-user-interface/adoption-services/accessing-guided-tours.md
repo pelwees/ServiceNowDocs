@@ -17,7 +17,7 @@ Guided Tours are available across four user interface types: Standard, Service P
 
 The way-guided tours start varies depending on the specific interface type \(tour type\).
 
-**Parent Topic:**[Using Guided Tours](using-guided-tours.md)
+**Parent Topic:**[Using Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/using-guided-tours.md)
 
 ## Start guided tour from Help Center
 
@@ -29,7 +29,7 @@ Role required: user
 
 ### Procedure
 
-1.  Select the ![Help](../image/gtd-bluehelp-icon.png) icon to open the Help Center.
+1.  Select the ![Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-bluehelp-icon.png) icon to open the Help Center.
 
     The Help Center lists a maximum of four tours.
 
@@ -56,7 +56,7 @@ Role required: user
 
 1.  Go to the Service Portal page that has a guided tour.
 
-    The ![Tours](../image/gtd-tours-button.png) menu appears on the banner with a color indicator to the right of the menu.
+    The ![Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-tours-button.png) menu appears on the banner with a color indicator to the right of the menu.
 
 2.  Select the **Tours** menu.
 
@@ -66,7 +66,7 @@ Role required: user
 
     **Note:**
 
-    If a page doesn’t have a Service Portal Header Menu, you can’t access the **Tours** menu. In this case, the guided tour is only available to you through auto-launch. See [Configure auto-launch for Guided Tours](../task/auto-launch-guided-tours.md).
+    If a page doesn’t have a Service Portal Header Menu, you can’t access the **Tours** menu. In this case, the guided tour is only available to you through auto-launch. See [Configure auto-launch for Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../task/auto-launch-guided-tours.md).
 
     If a tour is assigned at least one role, the audience is limited to users with that role.
 

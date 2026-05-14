@@ -30,8 +30,8 @@ Role required: facilities\_staff or move\_basic
 5.  Click **Activate Delegators**.
 
 
--   **[Move delegators](../concept/c_EnterpriseMoveDelegators.md)**  
+-   **[Move delegators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_EnterpriseMoveDelegators.md)**  
 Facilities administrators assign move delegators to assign users to locations.
 
-**Parent Topic:**[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)
+**Parent Topic:**[Enterprise move scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveScenarios.md)
 

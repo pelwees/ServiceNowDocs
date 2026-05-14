@@ -130,7 +130,7 @@ Box uses the secret and callback URL to securely send the payload to the Service
 
     The callback URL is generated in the URL field.
 
-    ![Configure external trigger for the Box spoke.](../image/box-spk-ext-trigger.jpg)
+    ![Configure external trigger for the Box spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-spk-ext-trigger.jpg)
 
 9.  Close the window.
 

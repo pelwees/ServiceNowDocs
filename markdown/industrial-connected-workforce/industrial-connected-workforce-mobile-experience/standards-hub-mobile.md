@@ -23,7 +23,7 @@ The **Articles** tab within the Standards hub displays knowledge articles publis
 
 The following image shows an example of the Standards hub that you can view with the Industrial Connected Workforce Mobile Experience.
 
-![Standards hub in the ICW Mobile experience where you can view standards and articles](../image/standards-hub-icw-mobile.png)
+![Standards hub in the ICW Mobile experience where you can view standards and articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/standards-hub-icw-mobile.png)
 
 ## Actions performed in the Standards hub
 
@@ -38,7 +38,7 @@ After creating a task from a standard in the Standards hub on mobile, you can pe
 -   Put the task on hold
 -   Cancel the task
 
-For more information about requesting and creating a standard, see [Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](../task/create-igt-icw-mobile.md).
+For more information about requesting and creating a standard, see [Create an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../task/create-igt-icw-mobile.md).
 
-**Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](exploring-icw-mobile-experience.md)
+**Parent Topic:**[Exploring Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/exploring-icw-mobile-experience.md)
 

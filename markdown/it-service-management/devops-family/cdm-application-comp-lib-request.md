@@ -31,13 +31,13 @@ While creating data models for their applications, DevOps Config editors and adm
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Select the apps icon \(![Applications icon.](../image/icon-applications-nav.png)\) in the left navigation to open the **Apps** tab.
+2.  Select the apps icon \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-applications-nav.png)\) in the left navigation to open the **Apps** tab.
 
 3.  Open an application and select the **Config data** tab.
 
-4.  Select the shared components icon \(![Shared components icon.](../image/icon-shared-components-panel.png)\).
+4.  Select the shared components icon \(![Shared components icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-shared-components-panel.png)\).
 
-    ![Shared components pane.](../image/cdm-app-shared-comp-request.png)
+    ![Shared components pane.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-app-shared-comp-request.png)
 
 5.  In the Shared components pane, select **+ Create request**.
 

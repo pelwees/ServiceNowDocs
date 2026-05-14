@@ -17,19 +17,19 @@ Learn more about the decision tables user interface in Workflow Studio.
 
 ## Decision tables home page in Workflow Studio
 
-![Decision tables section of Workflow Studio](../image/workflow-studio-home-dec.png)
+![Decision tables section of Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/workflow-studio-home-dec.png)
 
 You can do the following on the Decision tables home page in Workflow Studio:
 
 -   Create a table by selecting **New** and selecting **Decision table**.
 -   Open a table that you have already created.
 -   Sort and filter the list of your decision tables.
--   Edit the available columns by selecting the List Actions icon \(![Gear icon](../../../build/app-engine-studio/image/gear-icon.png)\).
+-   Edit the available columns by selecting the List Actions icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../build/app-engine-studio/image/gear-icon.png)\).
 -   Delete selected decision tables.
 
 ## New decision table
 
-![New decision table page](../image/db-new-table.png)
+![New decision table page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/db-new-table.png)
 
 You can do the following on a new decision table:
 
@@ -40,7 +40,7 @@ You can do the following on a new decision table:
 
 ## Decision table
 
-![New decision table with an input being created](../image/db-empty-table.png)
+![New decision table with an input being created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/db-empty-table.png)
 
 When you first create a decision table, you can do the following:
 
@@ -53,7 +53,7 @@ When you first create a decision table, you can do the following:
 
 ## Complete decision table
 
-![Complete decision table](../image/db-complete-table.png)
+![Complete decision table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/db-complete-table.png)
 
 On a saved decision table, you can do the following:
 

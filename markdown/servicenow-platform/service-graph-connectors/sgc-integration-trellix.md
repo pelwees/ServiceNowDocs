@@ -38,13 +38,13 @@ The following examples describe how you can use the Service Graph Connector for 
 
 ## Configuring a connection for the connector
 
-Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Trellix using SGC Central](../../sgc-central/task/sgcc-configure-trellix-integ.md).
+Use the SGC Central view in the Service Graph Workspace or CMDB Workspace to install the connector and configure the connection. The view enables you to install and discover connectors and to manage the full life cycle of creating, editing, monitoring, and debugging connections. For instructions, see [Configure Service Graph Connector for Trellix using SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../sgc-central/task/sgcc-configure-trellix-integ.md).
 
 **Important:** Unless there are configuration issues, use SGC Central to configure the connection. The guided setup method for configuration is being deprecated.
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Trellix integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Trellix integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -59,16 +59,16 @@ The following data source is included for the Trellix application:
 
 The imported data is then inserted into the following target tables:
 
--   [File System](../reference/cmdb-trellix-classes.md#section_utl_zrr_mfc) \[cmdb\_ci\_file\_system\]
--   [IP Address](../reference/cmdb-trellix-classes.md#section_kpf_1sr_mfc) \[cmdb\_ci\_ip\_address\]
--   [Network Adapter](../reference/cmdb-trellix-classes.md#section_mgv_1sr_mfc) \[cmdb\_ci\_network\_adapter\]
--   [Server](../reference/cmdb-trellix-classes.md#section_wpn_bsr_mfc) \[cmdb\_ci\_server\]
--   [Software Installation](../reference/cmdb-trellix-classes.md#section_ahx_4ds_mfc) \[cmdb\_sam\_sw\_install\] \(if the Software Asset Management \(SAM\) application is installed\)
--   [Software](../reference/cmdb-trellix-classes.md#section_uqb_dsr_mfc) \[cmdb\_ci\_spkg\] \(if the SAM application isn't installed\)
--   [Software Instance](../reference/cmdb-trellix-classes.md#section_xfs_dsr_mfc) \[cmdb\_software\_instance\] \(if the SAM application isn't installed\)
--   [Storage Disk](../reference/cmdb-trellix-classes.md#section_thj_2sr_mfc) \[cmdb\_ci\_storage\_disk\]
+-   [File System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_utl_zrr_mfc) \[cmdb\_ci\_file\_system\]
+-   [IP Address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_kpf_1sr_mfc) \[cmdb\_ci\_ip\_address\]
+-   [Network Adapter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_mgv_1sr_mfc) \[cmdb\_ci\_network\_adapter\]
+-   [Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_wpn_bsr_mfc) \[cmdb\_ci\_server\]
+-   [Software Installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_ahx_4ds_mfc) \[cmdb\_sam\_sw\_install\] \(if the Software Asset Management \(SAM\) application is installed\)
+-   [Software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_uqb_dsr_mfc) \[cmdb\_ci\_spkg\] \(if the SAM application isn't installed\)
+-   [Software Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_xfs_dsr_mfc) \[cmdb\_software\_instance\] \(if the SAM application isn't installed\)
+-   [Storage Disk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md#section_thj_2sr_mfc) \[cmdb\_ci\_storage\_disk\]
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integrationhub-etl.md) for more information.
 
 ## System property
 
@@ -82,11 +82,11 @@ The following system property is available for Service Graph Connector for Trell
 **Related topics**  
 
 
-[Service Graph Connectors](cmdb-sgc-available.md)
+[Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-[Configure Service Graph Connector for Trellix using SGC Central](../../sgc-central/task/sgcc-configure-trellix-integ.md)
+[Configure Service Graph Connector for Trellix using SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../sgc-central/task/sgcc-configure-trellix-integ.md)
 
-[Configure Service Graph Connector for Trellix using guided setup](../task/sgc-config-trellix-integration.md)
+[Configure Service Graph Connector for Trellix using guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../task/sgc-config-trellix-integration.md)
 
-[CMDB classes targeted in Service Graph Connector for Trellix](../reference/cmdb-trellix-classes.md)
+[CMDB classes targeted in Service Graph Connector for Trellix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-trellix-classes.md)
 

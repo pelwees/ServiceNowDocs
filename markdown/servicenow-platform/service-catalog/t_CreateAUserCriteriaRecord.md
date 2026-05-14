@@ -87,7 +87,7 @@ Script
 
 </td><td>
 
-A [script](t_ContrlAccessByCDGUOrLoc.md#) to define any additional criteria, and return **true** or **false**. This field is available only if **Advanced** is selected. **Note:**
+A [script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ContrlAccessByCDGUOrLoc.md#) to define any additional criteria, and return **true** or **false**. This field is available only if **Advanced** is selected. **Note:**
 
 -   The script is evaluated in the scope that the user criteria is created in.
 -   The evaluation of the script is cached in the session, so any change in the evaluation requires you to logout and login, similar to roles in ACL.
@@ -159,7 +159,7 @@ With **Match All** selected, only users meeting all these conditions are matched
         **Note:** An empty User Criteria matches only authenticated users. Unauthenticated users are no longer matched by an empty User Criteria. Note that this behavior applies only to the Australia release.
 
 
-**Parent Topic:**[Set security for items and categories](../concept/c_ServiceCatalogAccessControls.md)
+**Parent Topic:**[Set security for items and categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogAccessControls.md)
 
 ## Implementing user criteria
 

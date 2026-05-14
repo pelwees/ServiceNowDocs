@@ -49,7 +49,7 @@ Follow these general guidelines:
 
     Creating this record adds OT context to IT CIs through the OT entity details.
 
-    For more information about how to create an Automated IT to OT Bulk Contextualization record, see [Automatically convert your IT records to OT devices](automatically-convert-it-records-to-ot-devices.md).
+    For more information about how to create an Automated IT to OT Bulk Contextualization record, see [Automatically convert your IT records to OT devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/automatically-convert-it-records-to-ot-devices.md).
 
     **Note:** The **Filter Criteria - OT Devices** tab isn't visible when using CMDB groups.
 
@@ -81,5 +81,5 @@ Follow these general guidelines:
 5.  Select **Proceed**.
 
 
-**Parent Topic:**[Using the Operational Technology Manager](../concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/using-operational-technology-manager.md)
 

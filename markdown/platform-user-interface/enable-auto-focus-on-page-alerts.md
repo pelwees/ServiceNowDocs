@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Enable auto-focus on page alerts accessibility preference.
 
-![Enable auto-focus on page alerts accessibility preference.](../image/pol-pref-auto-focus.png)
+![Enable auto-focus on page alerts accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-auto-focus.png)
 
 The purpose of this preference is to ensure alerts are immediately accessible by automatically moving keyboard focus to them when they appear.
 

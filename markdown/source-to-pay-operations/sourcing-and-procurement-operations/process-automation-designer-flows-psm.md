@@ -25,11 +25,11 @@ As a process owner or administrator, you can use Playbooks to enable cross-enter
 
 This playbook comes with a Global Playbook Experience record that defines a default playbook configuration. You can use the following record without any additional configurations. By default, this record defines a set of rules for managing how individual activities appear within the playbook.
 
-![Default flows available for purchase modification process](../image/process-auto-designer-playbook-flows.png "Playbooks playbook flows for procurement")
+![Default flows available for purchase modification process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/process-auto-designer-playbook-flows.png "Playbooks playbook flows for procurement")
 
 You can customize this behavior by customizing the Playbook experience with your own configurations and activity overrides.
 
-**Parent Topic:**[Procurement Case Management](psd-overview.md)
+**Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
 **Related topics**  
 

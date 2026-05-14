@@ -32,5 +32,5 @@ Now Assist reformulates questions with precision tailored to fulfillers. Because
 
 Once a request is submitted, all details and associated information are automatically linked to the parent record, completing the fulfiller’s workflow and ensuring thorough documentation.
 
-**Parent Topic:**[Now Assist in Conversational Catalog Request](now-assist-in-conversational-catalog-request.md)
+**Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 

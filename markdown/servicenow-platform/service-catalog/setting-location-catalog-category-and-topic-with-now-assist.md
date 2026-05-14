@@ -63,5 +63,5 @@ A catalog item can belong to more than one catalog, category, or topic. Now Assi
     -   Apply the changes to any fields that are allowed to be updated.
     -   Notify you about which fields could not be changed due to template control.
 
-**Parent Topic:**[Catalog item generation reference](catalog-item-generation-reference.md)
+**Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 

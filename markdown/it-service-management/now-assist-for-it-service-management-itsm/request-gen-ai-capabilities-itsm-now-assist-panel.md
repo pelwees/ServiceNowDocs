@@ -24,7 +24,7 @@ Role required: itil
 
 ## About this task
 
-You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+You can access the Now Assist panel from the Core UI or Service Operations Workspace for ITSM to request generative AI capabilities for Now Assist for ITSM skills. For information about these skills, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
 Using the Now Assist panel saves time for an agent, for example, the agent can quickly learn the details of an incident by reading the incident summarization. The summarization gives enough details about the associated interaction so that the requester doesn't have to repeat the same information to the agent. For information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -36,7 +36,7 @@ For information about how to activate the Now Assist panel, see [Activate the No
 
 2.  Request generative AI capabilities to summarize a chat for an interaction, summarize a chat for an incident that was created from an interaction, summarize an incident, or generate incident resolution notes.
 
-    ![Now Assist panel for ITSM skills.](../image/itsm-now-assist-panel.png "Now Assist panel for ITSM skills")
+    ![Now Assist panel for ITSM skills.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-panel.png "Now Assist panel for ITSM skills")
 
 <table id="choicetable_tvj_cqn_xyb"><thead><tr><th align="left" id="d279708e207">
 
@@ -53,7 +53,7 @@ Description
 </td><td>
 
 1.  Open the interaction.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Chat Summarization**. A summary of the chat conversation with the live agent is displayed.
 
 
@@ -64,7 +64,7 @@ Description
 </td><td>
 
 1.  Open the incident that was created from an interaction.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Chat Summarization**. A summary of the chat conversation with the live agent before the incident was created is displayed.
 
 
@@ -75,7 +75,7 @@ Description
 </td><td>
 
 1.  Open the discussion.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Sidebar Discussion Summarization**. A summary of the discussion with the live agent is displayed.
 
 
@@ -86,7 +86,7 @@ Description
 </td><td>
 
 1.  Open the incident.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Summarize a record**. An incident summary that helps you quickly understand the incident context is generated.
 
 
@@ -97,7 +97,7 @@ Description
 </td><td>
 
 1.  Open the change request.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Summarize a change request**. A change request summary that helps you quickly understand the change request context is generated.
 
 
@@ -108,7 +108,7 @@ Description
 </td><td>
 
 1.  Open the change request.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Explain change risk**. An explanation of the change request risk that helps you quickly understand the change request risk rating is generated.
 
 
@@ -119,7 +119,7 @@ Description
 </td><td>
 
 1.  Open the incident.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Generate resolution notes**. The incident resolution notes that provide a summary of the steps taken to resolve the issue are generated.
 
 
@@ -130,7 +130,7 @@ Description
 </td><td>
 
 1.  Open the incident.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Generate Article**. A Knowledge article is drafted for the incident using task data, comments, and work notes from the activity stream.
 
 
@@ -141,7 +141,7 @@ Description
 </td><td>
 
 1.  Open the chat message window.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, select **Generate Chat Reply Recommendation**. The reply that provides a recommendation for the issue in the chat is generated.
 
 
@@ -152,7 +152,7 @@ Description
 </td><td>
 
 1.  Open the incident.
-2.  From the header menu, select the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\).
+2.  From the header menu, select the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)\).
 3.  In the Now Assist panel, either type in an incident assist topic question, or select **Answer questions about an incident**, and select an incident assist topic. Information requested about the incident is shown.
 
 

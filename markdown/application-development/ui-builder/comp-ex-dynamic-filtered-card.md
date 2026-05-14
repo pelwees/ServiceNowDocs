@@ -26,7 +26,7 @@ This example shows how to bind data to components so you can display record info
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](add-components.md#)
+-   [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -102,15 +102,15 @@ Stylized text
 
 3.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 4.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 5.  Create a data resource to pull records from the Incident table.
 
-    Data resources expose data from tables and records to the page. In this example, we add a data resource to pull records from the incident table so we can display them using components. For more information, see [Add and configure data resources to a page](add-data-resources.md).
+    Data resources expose data from tables and records to the page. In this example, we add a data resource to pull records from the incident table so we can display them using components. For more information, see [Add and configure data resources to a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-data-resources.md).
 
     1.  In the **Data and scripts** drawer, under **Data resources**, select **+ Add data resource**.
 
@@ -152,7 +152,7 @@ Return fields
 2.  Enter `Caller`, select it to add it to the **Selected** column, then clear the search box.
 3.  Repeat the above step for **Priority** and **Short description**.
 
-![Choose fields modal showing Caller, Priority, and Short description.](../image/comp-ex-dfc-data-resource-fields.png)
+![Choose fields modal showing Caller, Priority, and Short description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-data-resource-fields.png)
 
 4.  Select **Apply**.
 
@@ -166,7 +166,7 @@ Max results
 Enter `25`.
 
 </td></tr></tbody>
-</table>        ![Edit data resource dialog for "Incident lookup" with callouts highlighting the Table, Return fields, and Max results fields.](../image/comp-ex-dfc-data-resource.png)
+</table>        ![Edit data resource dialog for "Incident lookup" with callouts highlighting the Table, Return fields, and Max results fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-data-resource.png)
 
     7.  Select the **X** in the upper right to close the dialog.
 
@@ -180,11 +180,11 @@ Enter `25`.
 
     3.  With **Column 1** selected in the content tree, navigate to **Layout** in the configuration panel and set the **Direction** to **Row**.
 
-        ![Configuration panel for single column layout, with a cursor hovering over the Direction > Row property.](../image/comp-ex-dfc-layout-row.png)
+        ![Configuration panel for single column layout, with a cursor hovering over the Direction > Row property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-layout-row.png)
 
 7.  Add and configure a repeater on your page with data binding.
 
-    Data binding is the process of associating data exposed by a data resource with a component. In this example, we bind the results of our **Incident lookup** data resource to the **Data array** property of the repeater component. For more information, see [Connect data components](../concept/connect-data-components.md).
+    Data binding is the process of associating data exposed by a data resource with a component. In this example, we bind the results of our **Incident lookup** data resource to the **Data array** property of the repeater component. For more information, see [Connect data components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/connect-data-components.md).
 
     1.  In the content tree, under **Column 1**, select **+ Add content**.
 
@@ -194,13 +194,13 @@ Enter `25`.
 
     4.  Keeping **Repeater 1** selected, in the configuration panel, hover over the **Data array** field and select the bind data icon ![](../image/uib-dynamic-data-binding-button.png).
 
-        ![Configurational panel for repeater, with a cursor hovering over the bind data icon.](../image/comp-ex-dfc-bind-data.png)
+        ![Configurational panel for repeater, with a cursor hovering over the bind data icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-bind-data.png)
 
     5.  In the **Bind data to Data array** dialog, under **Data types**, select **Data resource**.
 
     6.  Select the **Incident lookup** pill, then double-click or drag the **results** pill to move it to the area above.
 
-        ![Data binding modal showing the selection of data resource pills to configure the repeater.](../image/comp-ex-dfc-repeater.png "Bind data to Data array")
+        ![Data binding modal showing the selection of data resource pills to configure the repeater.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-repeater.png "Bind data to Data array")
 
     7.  Select **Apply** to confirm the binding.
 
@@ -226,7 +226,7 @@ Enter `25`.
 
     5.  Set the **Height** to `200`px.
 
-        ![Configuration panel for Card Base Container, with callouts highlighting the Width and Height fields.](../image/comp-ex-dfc-card-style.png)
+        ![Configuration panel for Card Base Container, with callouts highlighting the Width and Height fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-card-style.png)
 
 9.  Part 2: Add components and bind data
 
@@ -246,7 +246,7 @@ Enter `25`.
         2.  Label value: In the **Configure** tab, in the **Label** field, enter `Caller:`
         3.  Stylized text: In the **Configure** tab, set the **HTML tag** to **Paragraph**
         4.  Highlighted value: In the **Styles** tab, set the **Width** to `100`px
-        ![UI Builder editor with callouts highlighting the Repeater and its nested components in the content tree.](../image/comp-ex-dfc-cards.png)
+        ![UI Builder editor with callouts highlighting the Repeater and its nested components in the content tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-cards.png)
 
     3.  Select **Save**.
 
@@ -271,7 +271,7 @@ Enter `25`.
 
     5.  Repeat the process for each row in the table.
 
-        ![UI Builder editor showing data-bound values on each card.](../image/comp-ex-dfc-cards2.png)
+        ![UI Builder editor showing data-bound values on each card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-cards2.png)
 
     6.  Select **Save**.
 
@@ -310,7 +310,7 @@ Enter `25`.
 
     Verify that the highlighted value changes color depending on the priority of the record.
 
-    ![UI Builder editor showing highlighted value in a different color, depending on record priority.](../image/comp-ex-dfc-cards3.png)
+    ![UI Builder editor showing highlighted value in a different color, depending on record priority.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-cards3.png)
 
 13. Part 3: Add filtering with dropdown
 
@@ -318,7 +318,7 @@ Enter `25`.
 
 14. Create a client state parameter to track user selections.
 
-    The client state parameter can be modified by components when they trigger events. For more information, see [Client state parameters](../concept/client-state-parameters.md).
+    The client state parameter can be modified by components when they trigger events. For more information, see [Client state parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/client-state-parameters.md).
 
     1.  In the **Data and scripts** drawer, next to **Client state parameters**, select the **+** icon.
 
@@ -335,7 +335,7 @@ Enter `25`.
 
     2.  Select **Edit conditions**.
 
-        ![Edit Incident lookup dialog with a highlight over the Edit conditions button.](../image/comp-ex-dfc-edit-conditions.png)
+        ![Edit Incident lookup dialog with a highlight over the Edit conditions button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-edit-conditions.png)
 
     3.  In the **Conditions** dialog, enter **Caller** in the first field and select it from the list.
 
@@ -349,7 +349,7 @@ Enter `25`.
 
     8.  Select **Apply** to save the condition.
 
-        ![Conditions modal showing the condition, Caller is selected_caller.](../image/comp-ex-dfc-conditions.png)
+        ![Conditions modal showing the condition, Caller is selected_caller.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-conditions.png)
 
     9.  Select the **X** in the upper right to close the **Incident lookup** dialog.
 
@@ -361,7 +361,7 @@ Enter `25`.
 
     3.  Select the **look\_up\_multiple\_records\_1** ID to open the **Data resource details** form.
 
-        ![Edit data resource dialog with a highlight over the label and ID fields.](../image/comp-ex-dfc-data-resource2.png)
+        ![Edit data resource dialog with a highlight over the label and ID fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-data-resource2.png)
 
     4.  Replace the text in the **Data resource label** field with `sys_user_lookup`.
 
@@ -549,7 +549,7 @@ Value to use after triggering event
 
     6.  Locate **Incident lookup \(1\)**, select the **REFRESH** handler, then select **Continue**.
 
-        ![Events modal with the Incident lookup - REFRESH handler selected.](../image/comp-ex-dfc-dropdown-events.png)
+        ![Events modal with the Incident lookup - REFRESH handler selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-dropdown-events.png)
 
     7.  Select **Add**.
 
@@ -622,7 +622,7 @@ sysId
 </td></tr></tbody>
 </table>    8.  Select **Select**.
 
-        ![Select page destination modal.](../image/comp-ex-dfc-card-events.png)
+        ![Select page destination modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-card-events.png)
 
     9.  Select the check box to enable the **Open in new tab** property.
 
@@ -640,8 +640,8 @@ sysId
 
     3.  Select a card to view the full record in a new tab.
 
-    ![Preview of UI Builder page showing the card display filtered for a specific user.](../image/comp-ex-dfc-result.png)
+    ![Preview of UI Builder page showing the card display filtered for a specific user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-dfc-result.png)
 
 
-**Parent Topic:**[Learn components by example](../concept/learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-components-by-example.md)
 

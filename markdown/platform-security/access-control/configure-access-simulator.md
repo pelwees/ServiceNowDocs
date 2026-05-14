@@ -23,7 +23,7 @@ Role required: access\_analyzer\_admin
 
 1.  Navigate to **All** &gt; **Access Analyzer** &gt; **Settings**.
 
-    ![Settings page](../images/simulator-settings.png)
+    ![Settings page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/simulator-settings.png)
 
 2.  Toggle **Configure Simulator** to **Enable**.
 

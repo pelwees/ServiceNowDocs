@@ -23,7 +23,7 @@ Role required: Sourcing manager
 
 1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Sourcing Requests**.
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **All work** &gt; **Sourcing Requests**.
 
 3.  Open the sourcing request that you want to work with.
 
@@ -60,7 +60,7 @@ Role required: Sourcing manager
 
 ## What to do next
 
-Decide if you want to negotiate with suppliers right away, or skip this step and start qualifying the sourcing request instead. You can perform these actions from the Sourcing approach section of the sourcing intake playbook. For details, see [Select a sourcing approach in playbook](select-sourcing-approach.md). For more information about the qualification process, see [Supplier qualification](../reference/supplier-qualification.md).
+Decide if you want to negotiate with suppliers right away, or skip this step and start qualifying the sourcing request instead. You can perform these actions from the Sourcing approach section of the sourcing intake playbook. For details, see [Select a sourcing approach in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-sourcing-approach.md). For more information about the qualification process, see [Supplier qualification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/supplier-qualification.md).
 
-**Parent Topic:**[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+**Parent Topic:**[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/sourcing-intake-guided-exp.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -33,7 +33,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
     -   View all the cases by navigating to **Lists** &gt; **Cases** &gt; **All Cases**.
 4.  To view the details of the case, select the link for the case in the Number column.
 
-5.  Select **Assign to me**.![Selected button for assigning a case to yourself.](../../source-to-pay-operations/image/assign-supplier-case-to-yourself.png)
+5.  Select **Assign to me**.![Selected button for assigning a case to yourself.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../source-to-pay-operations/image/assign-supplier-case-to-yourself.png)
 
 6.  Select **Save**.
 
@@ -44,10 +44,10 @@ The case is assigned to you.
 
 **Note:** The **Assign to me** option is not available if a case is already assigned.
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 

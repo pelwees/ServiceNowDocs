@@ -27,10 +27,10 @@ For example, you could see records for employees in San Diego who were not grant
 
 1.  Navigate to **All** &gt; **Employee Health Screening** &gt; **Entry Requests**.
 
-    ![List of requests for entries.](../image/entry-request-list.png)
+    ![List of requests for entries.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/entry-request-list.png)
 
 2.  To evaluate request for entry data, build a query or sort and group the list by the appropriate columns.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-health-screening.md)
 

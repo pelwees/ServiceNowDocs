@@ -19,7 +19,7 @@ Provides Machine Identity security score and findings.
 
 The security score is displayed for following security findings. You can select each findings for learn more.
 
-![Machine Identity security score and findings](../images/mic-security-findings-landing.png)
+![Machine Identity security score and findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-security-findings-landing.png)
 
 |Findings|Description|
 |--------|-----------|

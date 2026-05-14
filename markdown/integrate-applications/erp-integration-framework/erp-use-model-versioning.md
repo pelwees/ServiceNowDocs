@@ -18,7 +18,7 @@ Use model versioning in Zero Copy Connector for ERP \(Enterprise Resource Planni
 
 ## Before you begin
 
-For versioning to take place, the **sn\_erp\_integration.enableModelModification** system property must be set to true on your development instance. For more information about the system property, see [Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md).
+For versioning to take place, the **sn\_erp\_integration.enableModelModification** system property must be set to true on your development instance. For more information about the system property, see [Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/work-with-erp-data-models.md).
 
 Role required: sn\_erp\_integration.erp\_admin
 
@@ -34,14 +34,14 @@ As you work with model records on a development instance, at certain intervals y
 
     View the **Version** column in the list.
 
-    ![Model list with version column highlighted.](../image/erp-model-versions1.png)
+    ![Model list with version column highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-model-versions1.png)
 
 3.  Select a model in the list to open a record.
 
 4.  View the version on the individual model record.
 
-    ![Model record with version number highlighted.](../image/erp-model-versions2.png)
+    ![Model record with version number highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-model-versions2.png)
 
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/work-with-erp-data-models.md)
 

@@ -101,5 +101,5 @@ Cost center that is financially responsible for the resource value.
 
 The resource value record that you created appears in the Resource Value list view.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

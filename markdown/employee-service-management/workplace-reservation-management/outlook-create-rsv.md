@@ -33,7 +33,7 @@ Verify that you have completed the following Microsoft Outlook add-in manifest f
 
     -   Upload the manifest file for a single user
     -   Upload the manifest in Microsoft Outlook
-    For more information, see [Activate the add-in for Microsoft Outlook](add-outlook-addin.md).
+    For more information, see [Activate the add-in for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-outlook-addin.md).
 
 
 Role required: sn\_wsd\_core.workplace\_user
@@ -51,16 +51,16 @@ Role required: sn\_wsd\_core.workplace\_user
         -   Date: Option to select a Date for your reservation.
         -   From: Option to select the start time of your reservation.
         -   To: Option to select the end time of your reservation.
-        -   All day: Option to enable **All day** reservation. For more information, see [Configure Reservable Module for Microsoft Outlook](config-rsv-module-outlook.md).
+        -   All day: Option to enable **All day** reservation. For more information, see [Configure Reservable Module for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-rsv-module-outlook.md).
         -   Add a location: Option to display the meeting location. The locations you select on the Make a reservation form on the Outlook side bar in Step 3 is added in this field option. You can also opt to end the location manually using this option.
         -   Use the **Scheduling Assistant** in Microsoft Outlook calendar to find a time that works for everyone and add a location or online meeting details.
-3.  Select the **See more items** icon \(![See more items in outlook to select the Outlook add-in file.](../image/see-more-items-icon.png) from the Microsoft Outlook ribbon, and, select the reservation add-in manifest file.
+3.  Select the **See more items** icon \(![See more items in outlook to select the Outlook add-in file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/see-more-items-icon.png) from the Microsoft Outlook ribbon, and, select the reservation add-in manifest file.
 
     For example: **Workplace\_Outlook\_add\_in\_manifest\_example.xml**
 
     **Note:** When you open the add-in manifest file for the first time, the MOA OAuth login screen appears. Provide your instance login access credentials. When the manifest add-in file is opened for the first time, it takes some time to load and display the Make a Reservation form.
 
-    ![WSD RSV MOA OAuth Registry](../image/outlook-moa-login-screen.png)
+    ![WSD RSV MOA OAuth Registry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-moa-login-screen.png)
 
 4.  Select **Allow**.
 
@@ -68,7 +68,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     Employees can search for a space and add locations for a given date and time. You can create multi-building reservations, neighborhood reservations, or make a reservation near your colleague. Employees can add workplace services to a reservation. They can edit a reservation or workplace services added to a reservation.
 
-    ![The Make a reservation form page shown on the Calendar invite for employees to make a workplace reservation.](../image/outlook-make-rsv-first.png)
+    ![The Make a reservation form page shown on the Calendar invite for employees to make a workplace reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-make-rsv-first.png)
 
     Fill in the field information:
 
@@ -88,7 +88,7 @@ Type
 
 Option to select a Reservable Module type.For example: Meeting rooms
 
-**Note:** Employees can only select a Reservable Module assigned to them by their administrator. For more information, see [Configure Reservable Module for Microsoft Outlook](config-rsv-module-outlook.md).
+**Note:** Employees can only select a Reservable Module assigned to them by their administrator. For more information, see [Configure Reservable Module for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-rsv-module-outlook.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Option to select a reservable path.-   **Browse all**
 -   **Browse by neighborhood**
 -   **Browse near a person**
 
-For more information, see [Create a reservation](create-reservation-request-1.md).
+For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
 **Note:** **Browse by Shift** Reservable path is available for Microsoft Outlook Add-in reservations.
 
@@ -119,7 +119,7 @@ Floor
 
 </td><td>
 
-Select a Floor.**Note:** If the Reservable Module Configuration option **Enable floor-based search** option isn’t configured by your administrator, this option to search by floors is displayed on the form. For more information, see [Configure Reservable Module for Microsoft Outlook](config-rsv-module-outlook.md).
+Select a Floor.**Note:** If the Reservable Module Configuration option **Enable floor-based search** option isn’t configured by your administrator, this option to search by floors is displayed on the form. For more information, see [Configure Reservable Module for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-rsv-module-outlook.md).
 
 </td></tr><tr><td>
 
@@ -134,11 +134,11 @@ Select this option to add another building to your reservation. You can create m
 
     If the Auto-search option is enabled by your administrator, the Search button is not displayed and the spaces are fetched automatically for reservation.
 
-    **Note:** Administrators can enable the auto-search by setting the **sn\_wsd\_rsv.enable\_auto\_search** system property to true. For more information, see [Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md).
+    **Note:** Administrators can enable the auto-search by setting the **sn\_wsd\_rsv.enable\_auto\_search** system property to true. For more information, see [Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/properties-installed-with-wsd-reservation-mgmt.md).
 
-    **Note:** If a selected room for a meeting invite or event has an email address configured to it, the search results shows only the room that is configured with the email configuration. For example, eureka@sncplatform.onmicrosoft.com. Microsoft Outlook doesn't show any other locations while you’re searching for spaces while making a reservation. For more information, see [Add a room using Workplace Space Management](../../workplace-space-management/task/add-a-room.md).
+    **Note:** If a selected room for a meeting invite or event has an email address configured to it, the search results shows only the room that is configured with the email configuration. For example, eureka@sncplatform.onmicrosoft.com. Microsoft Outlook doesn't show any other locations while you’re searching for spaces while making a reservation. For more information, see [Add a room using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-space-management/task/add-a-room.md).
 
-    ![Workplace Room showing mail configuration for the selected location.](../image/outlook-room-email-id.png)
+    ![Workplace Room showing mail configuration for the selected location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-room-email-id.png)
 
 7.  Select the **Filter** drop-down list to set filter criteria to search with the following criteria.
 
@@ -168,21 +168,21 @@ Select this option to add another building to your reservation. You can create m
         -   Select a space on the map. The space details card is displayed. Select Add to add the space to your reservation.
         -   Legend: Select the toggle radio button to turn on or turn off the **Accessibility patterns**.
 
-            ![Map legend showing the toggle button to activate accessibility on map.](../image/outlook-map-view.png)
+            ![Map legend showing the toggle button to activate accessibility on map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-map-view.png)
 
-10. Select the favorite icon \(![Favorite icon to favorite a space.](../image/favorite-icon.png)\) to favorite a space.
+10. Select the favorite icon \(![Favorite icon to favorite a space.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/favorite-icon.png)\) to favorite a space.
 
 11. Select **Next**.
 
     A message is displayed if you try to reserve a space on your remote office day. The application gives you an option to update your remote day to in office presence day using the Presence dashboard.
 
-    ![Employees trying to book a space on their remote presence days are shown a message "It looks like you are reserving a space on your remote work day."](../image/outlook-presence-message-remote-day.png)
+    ![Employees trying to book a space on their remote presence days are shown a message "It looks like you are reserving a space on your remote work day."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-presence-message-remote-day.png)
 
-    -   Select the URL link shown in the message to navigate to the Presence Dashboard and update your remote day to in office day. For more information, see [Set in-office days](../../workplace-concierge/task/set-in-office-days.md).![Presence dashboard showing calendar dates of your presence information. Change your remote days to in office to reserve a space in office.](../image/presence-dashboard-remote-days.png)
+    -   Select the URL link shown in the message to navigate to the Presence Dashboard and update your remote day to in office day. For more information, see [Set in-office days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-concierge/task/set-in-office-days.md).![Presence dashboard showing calendar dates of your presence information. Change your remote days to in office to reserve a space in office.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/presence-dashboard-remote-days.png)
 
         Select the **Remote** drop-down list and select **In-office** or **Visit another office** as required.
 
-        ![Presence Dashboard in Workplace Concierge showing option to convert your Remote days to In office or Visit another office.](../image/presence-dashboard-remote-to-office.png)
+        ![Presence Dashboard in Workplace Concierge showing option to convert your Remote days to In office or Visit another office.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/presence-dashboard-remote-to-office.png)
 
     -   On the Presence Dashboard, select the **Remote** day for a date that you were making reservation and change it to **In office** or **Visiting another office**.
     -   Select the **Make Reservation** tab.
@@ -193,55 +193,55 @@ Select this option to add another building to your reservation. You can create m
 
     **Note:** You can invite your colleagues in Microsoft Outlook Outlook by using the invite list \(Invite attendees" or "Add required people"\). If you want to add guests, you need to include the guests to your invite in Microsoft Outlook and register them in Microsoft Outlook Add-in.
 
-    ![Select invitees that you want to add to your workplace reservation.](../image/outlook-add-invitees.png)
+    ![Select invitees that you want to add to your workplace reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-add-invitees.png)
 
 13. Add external visitors to your reservation.
 
-    ![Option to add external visitors to your reservation.](../image/outlook-add-invite-external-visitor-llink.png)
+    ![Option to add external visitors to your reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-add-invite-external-visitor-llink.png)
 
     On the form, select one of the following options to add a visitor:
 
     -   Previous visitor: Option to select a prior visitor.
     -   Add a new visitor: Option to add a new visitor.
-    ![Select a visitor to add to your reservation.](../image/invite-external-visitor-add.png)
+    ![Select a visitor to add to your reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/invite-external-visitor-add.png)
 
 14. Select **Add extra services** drop-down list to add workplace services available for a location.
 
     Edit or remove workplace services as required. For example: Catering, space arrangement, projector, and so on.
 
-    ![Catering services details form.](../image/outlook-add-services-catering.png)
+    ![Catering services details form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-add-services-catering.png)
 
-    ![Add a space arrangement for a location. Select Chair layout from the list option for space arrangement.](../image/outlook-add-services-seat-arrangement-chair-layout.png)
+    ![Add a space arrangement for a location. Select Chair layout from the list option for space arrangement.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-add-services-seat-arrangement-chair-layout.png)
 
-    ![For chair arrangement services, select the Banquet style layout.](../image/outlook-chair-layout-details-banquet-stye.png)
+    ![For chair arrangement services, select the Banquet style layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-chair-layout-details-banquet-stye.png)
 
 15. Select **Submit Reservation**.
 
-    ![Select Submit Reservation to make a reservation.](../image/outlook-submit-resv.png)
+    ![Select Submit Reservation to make a reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-submit-resv.png)
 
 16. The Reservation Summary page is displayed.
 
-    ![After submitting a reservation, the Reservation Summary page displays the reservation in Draft state.](../image/draft-state-of-reservation-rsv-summary-page.png)
+    ![After submitting a reservation, the Reservation Summary page displays the reservation in Draft state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/draft-state-of-reservation-rsv-summary-page.png)
 
 17. Select **Actions** tab and select **Change Reservation details** from the drop-down list to edit or update your reservation.
 
-    ![Draft reservation showing the Actions tab to update reservation, if required.](../image/outlook-update-rsv-details-message.png)
+    ![Draft reservation showing the Actions tab to update reservation, if required.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-update-rsv-details-message.png)
 
 18. Edit Workplace Services or remove workplaces as required.
 
     While editing and updating a reservation to a new location, date, or time, the application shows the missing services message for services that are missing in your new updated location.
 
-    ![While updating a reservation, if some services are missing from the updated location, date, or time, the application shows missing services message for few service items added to a reservation.](../image/missing-retain-extra-services-message.png)
+    ![While updating a reservation, if some services are missing from the updated location, date, or time, the application shows missing services message for few service items added to a reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/missing-retain-extra-services-message.png)
 
 19. Review the services that you want to retain before updating the reservation and select the **Retain Services** tab.
 
     The services are retained from the changed location to the updated location.
 
-    ![Retain extra services tab to retain services from the changed location to the updated one.](../image/outlook-retain-extra-services-tab.png)
+    ![Retain extra services tab to retain services from the changed location to the updated one.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-retain-extra-services-tab.png)
 
 20. Select the **Update reservation details** tab or **Change location** to update changes to your location, date, and time.
 
-    ![After modifying or updating your reservation, select the Update reservation details tab to update the changes.](../image/outlook-update-reservation-details-tab.png)
+    ![After modifying or updating your reservation, select the Update reservation details tab to update the changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/outlook-update-reservation-details-tab.png)
 
     "The service creation or update is currently in progress. Reservation details can’t be edited until the process is complete" message is displayed.
 
@@ -257,6 +257,6 @@ Select this option to add another building to your reservation. You can create m
 
     If you have delegated access to a team member to create a reservation on your behalf, the All Reservations page shows the reservation details along with updated **Requested for** and **Opened by** column values.
 
-    ![Workplace Reservations page showing meeting delegate and meeting organizer.](../image/delegate-fields-all-reservations-page.png). For more information, see [Delegate reservations in Microsoft Outlook add-in](outlook-delegate-rsv.md).
+    ![Workplace Reservations page showing meeting delegate and meeting organizer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/delegate-fields-all-reservations-page.png). For more information, see [Delegate reservations in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-delegate-rsv.md).
 
 

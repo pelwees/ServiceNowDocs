@@ -55,12 +55,12 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Concierge](../concept/configure-workplace-concierge.md)
+**Parent Topic:**[Configure Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/configure-workplace-concierge.md)
 
 **Related topics**  
 
 
-[Configure calendar sections on the Presence dashboard](configure-presence-dashboard-sections.md)
+[Configure calendar sections on the Presence dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-presence-dashboard-sections.md)
 
-[Configure workplace space suggestions for employees](../concept/configure-workplace-suggestions.md)
+[Configure workplace space suggestions for employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/configure-workplace-suggestions.md)
 

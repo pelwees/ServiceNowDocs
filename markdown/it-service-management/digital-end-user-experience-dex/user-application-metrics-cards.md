@@ -193,5 +193,5 @@ Availability
 Percentage of time that a service is operational and accessible to users
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Device details pages](user-device-details-pages.md)
+</table>**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 

@@ -39,9 +39,9 @@ Role required: scrum\_story\_creator, scrum\_story\_editor
 You can visually analyze the dependencies of the stories using the scrum program board to help with your sprint planning.
 
 1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board** &gt; **Program** &gt; **Planning**
-2.  Use the dependencies icon \(![Story dependencies icon](../images/show-hide-dependencies.png)\) to show or hide dependencies between stories.
+2.  Use the dependencies icon \(![Story dependencies icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../images/show-hide-dependencies.png)\) to show or hide dependencies between stories.
 
 **Note:** Access to the Scrum program board is available only with the Scrum Programs plugin \(com.snc.sdlc.scrum\_program\).
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 

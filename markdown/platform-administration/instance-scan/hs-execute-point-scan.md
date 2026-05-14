@@ -58,21 +58,21 @@ For example, if you execute a point scan against a business rule, only the check
 
 A scan of all applicable checks against only a single record is executed.
 
--   **[Execute an update set scan](hs-execute-update-set-scan.md)**  
+-   **[Execute an update set scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-update-set-scan.md)**  
 Use update set scan to execute applicable checks against records that are affected by the update set.
--   **[Execute an app scan](hs-execute-app-scan.md)**  
+-   **[Execute an app scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-app-scan.md)**  
 Scan the installed files of an application as well as the application record itself with applicable checks by executing an application scan.
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-execute-scans.md)
 
 **Related topics**  
 
 
-[Execute a test scan](hs-execute-test-scan.md)
+[Execute a test scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-test-scan.md)
 
-[Execute a full scan](hs-execute-full-scan.md)
+[Execute a full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-full-scan.md)
 
-[Execute a suite scan](hc-execute-suite-scan.md)
+[Execute a suite scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-execute-suite-scan.md)
 
-[Execute a reactive scan](hs-reactive-scan.md)
+[Execute a reactive scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-reactive-scan.md)
 

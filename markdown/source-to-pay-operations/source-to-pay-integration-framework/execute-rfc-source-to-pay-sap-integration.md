@@ -27,7 +27,7 @@ Step 4 - Create ERP Source is an ERP source configuration table.
 
 Step 5 - Create a Service, add flow and give the necessary inputs in the fields.
 
-![Figure 0-1: Flow chart illustrating RFC Execution.](../../source-to-pay-operations/image/rfc-execution.png)
+![Figure 0-1: Flow chart illustrating RFC Execution.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/rfc-execution.png)
 
 **Name**: ZSN\_BAPI\_GET\_DATA
 
@@ -124,14 +124,14 @@ Error Message
 Reason for error. Populated only when an error occurs. Error returned from SAP in the RETURN parameter.No or empty response received from SAP
 
 </td></tr></tbody>
-</table>-   ![Function Builder Initial Screen](../../sourcing-procurement-operations/image/function-builder-initial-screen.png "Function Builder Initial Screen")
+</table>-   ![Function Builder Initial Screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/function-builder-initial-screen.png "Function Builder Initial Screen")
 
--   ![IMPORT, CHANGING, and TABLES parameters](../../sourcing-procurement-operations/image/test-function-module.png "Enter the IMPORT, CHANGING, and TABLES parameters")
+-   ![IMPORT, CHANGING, and TABLES parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/test-function-module.png "Enter the IMPORT, CHANGING, and TABLES parameters")
 
--   ![Results data](../../sourcing-procurement-operations/image/test-function-module-result-screen.png "Results data")
+-   ![Results data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/test-function-module-result-screen.png "Results data")
 
--   ![Results data](../../sourcing-procurement-operations/image/structure-editor.png "Results data")
+-   ![Results data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/structure-editor.png "Results data")
 
-    ![Results Data](../../sourcing-procurement-operations/image/structure-editor-display-it.png "Results data")
+    ![Results Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/structure-editor-display-it.png "Results data")
 
 

@@ -21,21 +21,21 @@ Role required: Admin
 
 1.  Select the blueprint that you want to move by clicking the check box next to its name.
 
-    ![Blueprints user interface](../images/cpq-blueprints-export-1.png)
+    ![Blueprints user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-export-1.png)
 
-2.  In the top right, click **Export**. ![Export blueprint](../images/cpq-blueprints-export-2.png)
+2.  In the top right, click **Export**. ![Export blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-export-2.png)
 
     Keep an eye on the bell icon in the lower-left corner. Notifications appear there. The first notification indicates that the export process has started. When the export is complete, a second notification indicates that the blueprint is ready for download.
 
-3.  In the Notifications menu, click **Download** to download the blueprint.![Download blueprint](../images/cpq-blueprints-export-download.png)
+3.  In the Notifications menu, click **Download** to download the blueprint.![Download blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-export-download.png)
 
 
 ## What to do next
 
-[Import a blueprint](cpq-import-a-blueprint.md)
+[Import a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-import-a-blueprint.md)
 
 **Related topics**  
 
 
-[Testing in non-production environments before migration](cpq-env-to-env-bp-migration-intro.md)
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 

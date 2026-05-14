@@ -33,14 +33,14 @@ Role required: sn\_dlir.analyst
 
 3.  Navigate to **Sensitive Information** tab.
 
-    ![DLP incident sensitive information](../image/dlp-icap-match-content.png)
+    ![DLP incident sensitive information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-icap-match-content.png)
 
 4.  Click on the violated record.
 
 5.  View the match content information and take respective action as necessary.
 
-    ![DLP incident sensitive information violated record.](../image/dlp-icap-match-content-details.png)
+    ![DLP incident sensitive information violated record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-icap-match-content-details.png)
 
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../concept/icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/icap-dlp-integration.md)
 

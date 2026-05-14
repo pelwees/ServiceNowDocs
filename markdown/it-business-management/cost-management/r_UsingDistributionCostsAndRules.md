@@ -38,8 +38,8 @@ To define new distribution costs, navigate to **Financial Management** &gt; **Co
 |Last Processed|A read-only display of the last time the distribution cost was processed.|
 |Next Process|A read-only display of the scheduled next process date.|
 
--   **[Defining distribution rules](r_DefiningDistributionRules.md)**  
+-   **[Defining distribution rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_DefiningDistributionRules.md)**  
 Define distribution rules to view distribution costs that are distributed according to the rules.
 
-**Parent Topic:**[Cost Management](r_CostManagement.md)
+**Parent Topic:**[Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 

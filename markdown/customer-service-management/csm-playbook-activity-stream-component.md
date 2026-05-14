@@ -15,9 +15,9 @@ The activity stream component displays a list of activities occurring on a case 
 
 The activities in the list can be collapsed or expanded. When collapsed, the agent can quickly scan the list to get an overview of case activities. When expanded, the agent can see detailed information on individual activities.
 
-![The playbook activity stream component lists record activities in a collapsed or expanded format and uses tiles to represent the activity types.](../image/case-playbook-template-activity-stream.png "Playbook activity stream component")
+![The playbook activity stream component lists record activities in a collapsed or expanded format and uses tiles to represent the activity types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/case-playbook-template-activity-stream.png "Playbook activity stream component")
 
-**Note:** The activity stream uses [Modeless dialogs](csm-front-line-case-page-modeless-dialogs.md) for composing comments, work notes, and emails.
+**Note:** The activity stream uses [Modeless dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md) for composing comments, work notes, and emails.
 
 ## Activity stream Case and Task tabs
 

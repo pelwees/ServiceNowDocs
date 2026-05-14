@@ -33,12 +33,12 @@ The AWS SSM Agent runs with root \(Linux\) or SYSTEM \(Windows\) privileges, mea
 
 4.  Enter `true`.
 
-5.  Select the check mark \(![check mark icon](../../cloud-management-v2/image/icon-check-mark.png)\) icon.
+5.  Select the check mark \(![check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../cloud-management-v2/image/icon-check-mark.png)\) icon.
 
 6.  To enable AWS SSM-based discovery on Windows machines, repeat steps 2-5 for the **glide.discovery.ssm.enable\_windows** property.
 
 
 ## What to do next
 
-Define fallback root behavior using the **mid.discovery.aws\_ssm.linux.fallback\_root\_user** property or create non-root credentials to execute Discovery commands using the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table. For more information, see [Enable root fallback](../task/enable-root-fallback.md) and [Configure custom user credentials](../task/configure-custom-user-credentials.md).
+Define fallback root behavior using the **mid.discovery.aws\_ssm.linux.fallback\_root\_user** property or create non-root credentials to execute Discovery commands using the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table. For more information, see [Enable root fallback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/enable-root-fallback.md) and [Configure custom user credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/configure-custom-user-credentials.md).
 

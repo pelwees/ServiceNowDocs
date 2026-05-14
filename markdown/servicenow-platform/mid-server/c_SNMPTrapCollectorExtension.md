@@ -17,7 +17,7 @@ The SNMP trap collector is a MID Server extension that listens for SNMP traps fr
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>Upon receiving a trap, the MID Server sends the trap to the instance for further processing by Event Management. If Event Management is not active, traps are not processed and are discarded by the instance.
@@ -44,7 +44,7 @@ Role required: admin
 
 4.  Click **Submit** or **Update**.
 
-    ![SNMP trap collector](../image/SNMPTrapCollectorExtension.png)
+    ![SNMP trap collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/SNMPTrapCollectorExtension.png)
 
 <table id="table_j3g_vrs_zq"><thead><tr><th>
 

@@ -119,5 +119,5 @@ Document that shows how to assess if a control is operating effectively.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Manage test templates and test plans](../concept/c_AuditTesting.md)
+**Parent Topic:**[Manage test templates and test plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_AuditTesting.md)
 

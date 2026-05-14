@@ -31,13 +31,13 @@ When the approval process is enabled, an EDL entry is not activated or deactivat
 
     **Note:** If you have Tabbed forms selected in System Settings, the section appears as a tab on the record.
 
-    ![Approval requests on the firewall EDL entry record.](../image/4-30-url-entry-apprv.png)
+    ![Approval requests on the firewall EDL entry record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-url-entry-apprv.png)
 
 3.  In Approval requests, click an item in the **State** column to open it.
 
     The approval record is displayed.
 
-    ![Approval record.](../image/4-30-entry-form-apprv.png)
+    ![Approval record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-entry-form-apprv.png)
 
 4.  Choose one option for approving the EDL entry.
 
@@ -70,20 +70,20 @@ On the entry record, the Status field changes to **Rejected**, and the **Active*
 </td></tr></tbody>
 </table>    After you have approved the EDL entry and it is activated, the Palo Alto Networks Next-Generation Firewall retrieves the EDL entry after the next retrieval interval. After the entry is retrieved, the observable is blocked from that point forward. In the following figure, note that the Active check box is selected, the status is Added, and the work notes indicate that the request has been approved.
 
-    ![Status, Active check box, and work notes highlighted.](../image/4-30-entry-apprvd-callout.png)
+    ![Status, Active check box, and work notes highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-entry-apprvd-callout.png)
 
     After the EDL entry is approved and activated, the security incident record is marked with a security tag. The tag is displayed at the top of the record.
 
-    ![Security tag on a Security Incident record.](../image/4-30-si-tagged.png)
+    ![Security tag on a Security Incident record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-si-tagged.png)
 
     The security tag is also displayed on the observable record.
 
-    ![Security tag on an observable record.](../image/4-30-url-tag-obsv.png)
+    ![Security tag on an observable record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-url-tag-obsv.png)
 
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[Submit EDL entries from the blocklist for Palo Alto Networks Next-Generation Firewall](paloalto-submit-entry-fm-blklist.md)
+**Previous topic:**[Submit EDL entries from the blocklist for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-submit-entry-fm-blklist.md)
 
-**Next topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](../reference/paloalto-edl-execptions.md)
+**Next topic:**[EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/paloalto-edl-execptions.md)
 

@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 1.  Open a Log Analytics alert.
 
-    1.  In the Service Operations Workspace, select the lists icon \(![Lists icon.](../image/icon-lists-sow.png)\).
+    1.  In the Service Operations Workspace, select the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-lists-sow.png)\).
 
     2.  Select the appropriate list in the Alerts sub-list and navigate to the desired alert.
 
@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     3.  Select the alert number.
 
-2.  Select the more actions icon \(![More Actions icon.](../image/icon-more-actions-sow.png)\) at the top right of the **Details** tab and then choose **Create KB article for this issue** from the list.
+2.  Select the more actions icon \(![More Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-more-actions-sow.png)\) at the top right of the **Details** tab and then choose **Create KB article for this issue** from the list.
 
 3.  On the form, fill in the fields.
 

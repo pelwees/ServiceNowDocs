@@ -33,11 +33,11 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     You can select **360° view** to view the relationships for a BIA as shown in the example.
 
-    ![360° view for a business impact analysis.](../image/360-bia-action-button.png)
+    ![360° view for a business impact analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bia-action-button.png)
 
     The example shows the 360° view of a business impact analysis and its details.
 
-    ![360° view for a BIA record.](../image/360-bia.png)
+    ![360° view for a BIA record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bia.png)
 
     The 360° view for the business impact analysis shows these details:
 
@@ -49,22 +49,22 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     The details of the BIA template such as the name and description of the template are displayed in the right panel of the view as shown in the example.
 
-    ![360-bia-template.](../image/360-bia-bia-template.png)
+    ![360-bia-template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bia-bia-template.png)
 
 5.  Select **Depends on** in the view.
 
     The details of the dependencies are displayed in the right panel of the view as shown in the example.
 
-    ![360-dependencies.](../image/360-bia-dependencies.png)
+    ![360-dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bia-dependencies.png)
 
 6.  Select **Vendors** in the view.
 
     The details of the vendors are displayed in the right panel of the view as shown in the example.
 
-    ![360-vendors.](../image/360-bia-vendors.png)
+    ![360-vendors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bia-vendors.png)
 
 7.  To navigate to the BIA again, select the BIA or list view in the breadcrumb navigation on the page.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bia-tasks-performed-by-bia-owner.md)
 

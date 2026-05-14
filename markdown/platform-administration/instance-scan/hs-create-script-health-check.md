@@ -20,7 +20,7 @@ Create a check without specifying a table or a column type by selecting **Create
 Role required: scan\_admin
 
 ```
-Before performing this task you must complete [Create a check](hs-create-health-check.md).
+Before performing this task you must complete [Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md).
 ```
 
 ## About this task
@@ -139,5 +139,5 @@ Option to write a custom script to generate findings.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a check](hs-create-health-check.md)
+**Parent Topic:**[Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 

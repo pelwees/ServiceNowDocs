@@ -39,7 +39,7 @@ When a user criteria is applied, the availability of the reservable items in the
 
     2.  Move the selection to the **User Criteria's List** column on the right.
 
-        Use the Add/remove icon \(![Add remove user criteria icon](../image/add-remove-icon.png)\) to move the user criteria.
+        Use the Add/remove icon \(![Add remove user criteria icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)\) to move the user criteria.
 
     3.  Click **Save**.
 
@@ -50,5 +50,5 @@ When a user criteria is applied, the availability of the reservable items in the
 
 The selected user criteria is applied on the reservable module.
 
-**Parent Topic:**[Create a user criteria record](create-user-criteria.md)
+**Parent Topic:**[Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-user-criteria.md)
 

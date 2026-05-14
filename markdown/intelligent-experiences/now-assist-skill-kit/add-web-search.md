@@ -177,9 +177,9 @@ The maximum number of tokens to include from search results. Default is 1000.
 
 ## What to do next
 
-After adding the web search tool, reference its `response` output in your prompt using the **+ Inputs and tools** button in the prompt editor. To learn more, see [Create a prompt](create-prompt-template.md).
+After adding the web search tool, reference its `response` output in your prompt using the **+ Inputs and tools** button in the prompt editor. To learn more, see [Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md).
 
-To learn more about configuring the web search capability, see [Configure AI search answers capability for web search](../../generative-ai-controller/task/configure-ai-search-answers-capability-for-web-search.md).
+To learn more about configuring the web search capability, see [Configure AI search answers capability for web search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../../generative-ai-controller/task/configure-ai-search-answers-capability-for-web-search.md).
 
-**Parent Topic:**[Create a prompt](create-prompt-template.md)
+**Parent Topic:**[Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 

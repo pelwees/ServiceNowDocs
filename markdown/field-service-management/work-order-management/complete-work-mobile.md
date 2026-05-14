@@ -21,11 +21,11 @@ Field Service managers can take full control of their teams and responsibilities
 
 Completing work on mobile include using the ServiceNow Agent mobile application as a technician or a manager.
 
--   [Completing work on the ServiceNow Agent mobile application](Use-mobile-app-fsm.md)
+-   [Completing work on the ServiceNow Agent mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Use-mobile-app-fsm.md)
 
     Learn about all the things technicians can accomplish on the ServiceNow Agent mobile application.
 
--   [Field Service Manager Mobile](manager-mobile-app.md)
+-   [Field Service Manager Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/manager-mobile-app.md)
 
     Learn about all the things managers can accomplish on Field Service Manager Mobile.
 

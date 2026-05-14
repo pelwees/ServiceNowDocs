@@ -17,8 +17,8 @@ Start importing data with Integration Hub by creating a data source. A data sour
 
 ## Before you begin
 
--   Imports in Integration Hub require the ServiceNow IntegrationHub Action Template - Data Stream \[com.glide.hub.action\_type.datastream\] plugin. For more information, see [Request IntegrationHub](../../flow-designer/concept/request-ih-overview.md).
--   A data source in Integration Hub uses an Excel file, a CSV file, or a Data Stream action. Data Stream actions have unique inputs, so if you plan to use one, make sure to familiarize yourself with it first. To learn more, see [Data Stream actions and pagination](../concept/data-stream-actions.md). You can use Data Stream actions with dynamic outputs, but dynamic inputs aren't supported.
+-   Imports in Integration Hub require the ServiceNow IntegrationHub Action Template - Data Stream \[com.glide.hub.action\_type.datastream\] plugin. For more information, see [Request IntegrationHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/concept/request-ih-overview.md).
+-   A data source in Integration Hub uses an Excel file, a CSV file, or a Data Stream action. Data Stream actions have unique inputs, so if you plan to use one, make sure to familiarize yourself with it first. To learn more, see [Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/data-stream-actions.md). You can use Data Stream actions with dynamic outputs, but dynamic inputs aren't supported.
 -   Role required: admin or ih\_import.
 
 ## About this task
@@ -53,7 +53,7 @@ Configuring a data source is the first step to importing data in Integration Hub
 
         -   To configure an Excel spreadsheet, specify which sheet to use and which row number to use for the header. Only one sheet and one header can be specified.
         -   To configure a CSV file, select the delimiter.
-        -   To configure a data stream action, enter any required inputs. This section only appears if the Data Stream action has inputs to enter. Data Stream actions with inputs have unique inputs, so the fields in this section depend on which Data Stream action is selected and its configuration. Any default values already configured by the spoke inputs are pre-filled. You can view the details of the Data Stream action by clicking the information icon \(![Information icon](../images/info-icon.png)\) next to it. Clicking the icon opens the Data Stream action's configuration.
+        -   To configure a data stream action, enter any required inputs. This section only appears if the Data Stream action has inputs to enter. Data Stream actions with inputs have unique inputs, so the fields in this section depend on which Data Stream action is selected and its configuration. Any default values already configured by the spoke inputs are pre-filled. You can view the details of the Data Stream action by clicking the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/info-icon.png)\) next to it. Clicking the icon opens the Data Stream action's configuration.
 4.  Select **Save**.
 
 
@@ -63,7 +63,7 @@ The structure of the source data appears in the Source data structure preview pa
 
 ## What to do next
 
-Map your source data to target tables. See [Map source data to a target table](map-source-data-target.md).
+Map your source data to target tables. See [Map source data to a target table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/map-source-data-target.md).
 
-**Parent Topic:**[Integration Hub - Import](../concept/integrationhub-imports.md)
+**Parent Topic:**[Integration Hub - Import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/integrationhub-imports.md)
 

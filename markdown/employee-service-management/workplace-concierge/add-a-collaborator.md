@@ -23,7 +23,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 1.  Navigate to the Presence dashboard.
 
-    For more information, see the steps mentioned [here](set-in-office-days.md#choicetable_presence_dashboard).
+    For more information, see the steps mentioned [here](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/set-in-office-days.md#choicetable_presence_dashboard).
 
 2.  On the Presence dashboard page, open the Add Routine window by selecting **Manage your settings**.
 
@@ -44,20 +44,20 @@ Role required: sn\_wsd\_core.workplace\_user
 
 The selected employees are added as your collaborators. You can view their in-office routine from the Employee Presence page.
 
-At any time, you can also remove a collaborator. For more information, see [Remove a collaborator](remove-a-collaborator.md).
+At any time, you can also remove a collaborator. For more information, see [Remove a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/remove-a-collaborator.md).
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/use-workplace-concierge.md)
 
 **Related topics**  
 
 
-[Set in-office days](set-in-office-days.md)
+[Set in-office days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/set-in-office-days.md)
 
-[Update your in-office days](update-your-in-office-days.md)
+[Update your in-office days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/update-your-in-office-days.md)
 
-[Remove a collaborator](remove-a-collaborator.md)
+[Remove a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/remove-a-collaborator.md)
 
-[Update your in-office days as exceptions](update-in-office-days-exceptions.md)
+[Update your in-office days as exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/update-in-office-days-exceptions.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/manage-presence-privacy-settings.md#)
 

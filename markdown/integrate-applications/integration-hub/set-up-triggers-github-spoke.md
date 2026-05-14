@@ -59,7 +59,7 @@ GitHub uses the secret and callback URL to securely send the payload to the Serv
 
     The callback URL is generated in the URL field.
 
-    ![Callback URL generated.](../image/github-callback-url.png)
+    ![Callback URL generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/github-callback-url.png)
 
 9.  Copy the values of **Secret** and **URL** for later use.
 
@@ -68,7 +68,7 @@ GitHub uses the secret and callback URL to securely send the payload to the Serv
 
 ### What to do next
 
-[Configure secret and callback URL on GitHub](set-up-triggers-github-spoke.md#)
+[Configure secret and callback URL on GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-triggers-github-spoke.md#)
 
 ## Configure secret and callback URL on GitHub
 
@@ -106,7 +106,7 @@ Payload URL \*
 
 </td><td>
 
-Option to provide GitHub the payload URL that GitHub uses to send the payload via the webhook.Enter the URL that you have generated while activating the trigger. See [Activate the trigger definition on ServiceNow instance](set-up-triggers-github-spoke.md#).
+Option to provide GitHub the payload URL that GitHub uses to send the payload via the webhook.Enter the URL that you have generated while activating the trigger. See [Activate the trigger definition on ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-triggers-github-spoke.md#).
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Secret
 
 </td><td>
 
-Option to provide the secret that the ServiceNow verifies when it receives the webhook from GitHub.Enter the secret that you have generated while activating the trigger. See [Activate the trigger definition on ServiceNow instance](set-up-triggers-github-spoke.md#).
+Option to provide the secret that the ServiceNow verifies when it receives the webhook from GitHub.Enter the secret that you have generated while activating the trigger. See [Activate the trigger definition on ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-triggers-github-spoke.md#).
 
 </td></tr><tr><td>
 

@@ -27,16 +27,16 @@ You can update the criticality and the order of the assessment rating by using t
 
     You see the default assessment rating that is shown in the following example.
 
-    ![Default assessment rating.](../image/default-importance-rating-scale.png "Default assessment rating")
+    ![Default assessment rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/default-importance-rating-scale.png "Default assessment rating")
 
     A sample assessment rating is shown in the following example.
 
-    ![Sample assessment rating.](../image/or-ws-admin-important-choices-example.png)
+    ![Sample assessment rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/or-ws-admin-important-choices-example.png)
 
 2.  Click **New**.
 
 3.  On the form, fill in the fields and select **Submit**.
 
-    For a description of the field values on the GRC Choices form, see [GRC Choices form](../reference/important-choices-reference.md).
+    For a description of the field values on the GRC Choices form, see [GRC Choices form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/important-choices-reference.md).
 
 

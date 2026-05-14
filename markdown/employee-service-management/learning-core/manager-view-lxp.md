@@ -19,7 +19,7 @@ Manage your team's learning tasks.
 
 The Assigned to your team tab has the following information that helps you understand the learning progress of your team.
 
-![Assigned to your team tab](../image/assigned-to-your-team-lxp.png)
+![Assigned to your team tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/assigned-to-your-team-lxp.png)
 
 -   Learning you've assigned to your team: View the status of the learnings assigned to your team.
     -   Not started

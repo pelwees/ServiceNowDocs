@@ -29,7 +29,7 @@ Role required: admin
 
     In the **getMilestoneMetadata** method, update the return value to the required icon.
 
-    For example, if you want to display the Circle exclamation icon \(![Circle exclamation outline icon.](../../spw-roadmap/images/circle-exclamation-outline.png)\) for key event milestone, update the return value to `'circle-exclamation-outline'` for the key\_event milestone.
+    For example, if you want to display the Circle exclamation icon \(![Circle exclamation outline icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/images/circle-exclamation-outline.png)\) for key event milestone, update the return value to `'circle-exclamation-outline'` for the key\_event milestone.
 
     The default icons are as follows:
 
@@ -38,10 +38,10 @@ Role required: admin
     -   important\_date: `'calendar-clock-fill'`
     -   key\_milestone: `'diamond-fill'`
     -   deadline: `'star-fill'`
-    ![Milestone types in Strategic Planning.](../../spw-roadmap/images/milestone-icon-types-spw.png)
+    ![Milestone types in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/images/milestone-icon-types-spw.png)
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Prioritization display settings in Strategic Planning](../concept/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
+**Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 

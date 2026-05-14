@@ -30,29 +30,29 @@ The map uses icons to display:
 
 |Icon|Description|
 |----|-----------|
-|![Agent location marker.](../image/agent-location.png)|An agent's location.|
-|![Agent home location.](../image/agent-at-home.png)|The agent is at their home location.|
-|![Multiple agents marker.](../image/multiple-agents.png)|Multiple agents are at this location.|
-|![Assigned map marker.](../image/assigned.png)|A task is accepted, assigned, or scheduled.|
-|![Assigned multiple.](../image/assigned-multiple.png)|Multiple tasks have been accepted, assigned, or scheduled at this location.|
-|![Assigned P1.](../image/assigned-P1.png)|A priority-1 task has been accepted, assigned, or scheduled.|
-|![Colored marker with 1 on it.](../image/route-marker.png)|The assigned work order task displayed while viewing agent's route. The number indicates the order in which the task will be completed.|
-|![Needs attention marker.](../image/needs-attention.png)|A task is in the pending dispatch or draft state.|
-|![Needs attention multiple.](../image/needs-attention-multi.png)|Multiple tasks are in the pending dispatch or draft state.|
-|![Needs attention P1.](../image/needs-attention-P1.png)|A priority-1 task is in the pending dispatch or draft state.|
-|![In progress.](../image/in-progress.png)|An agent is on the way to the task, work on the task is paused, or the task is in progress.|
-|![In progress multiple.](../image/in-progress-multiple.png)|An agent is on the way to a location with multiple tasks, work on a task is paused, or the task is in progress.|
-|![In progress P1.](../image/in-progress-P1.png)|An agent is on the way to a priority-1 task, work on the priority-1 task is paused, or the priority-1 task is in progress.|
-|![Complete.](../image/complete.png)|A work order task is complete.|
-|![Complete multiple.](../image/complete-multiple.png)|Multiple tasks are complete at the same location.|
-|![Complete P1.](../image/complete-P1.png)|A priority-1 task is complete.|
-|![Incomplete.](../image/incomplete.png)|A task was closed as incomplete or canceled.|
-|![Incomplete multiple.](../image/incomplete-multiple.png)|Multiple tasks were closed as incomplete or canceled.|
-|![Incomplete P1.](../image/incomplete-P1.png)|A priority-1 task was closed as incomplete or canceled.|
-|![Home location tasks.](../image/home-location.png)|A task is assigned at the agent's home location.|
-|![Home location task.](../image/home-location-multi.png)|Multiple tasks are assigned at the agent's home location.|
-|![Co-located multiple.](../image/colocated-multi.png)|More than one task, agent, or crew is at this location.|
-|![Co-located P1.](../image/colocted-P1.png)|More than one task, agent, or crew is at this location. At least one of the tasks at this location is a priority-1 task.|
-|![Personal event](../image/personal-event.png)|Indicates the location that a meeting or training personal event is located.|
-|![co-located event](../image/colocated-event.png)|Indicates the location that more than one meeting or training personal event is located.|
+|![Agent location marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/agent-location.png)|An agent's location.|
+|![Agent home location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/agent-at-home.png)|The agent is at their home location.|
+|![Multiple agents marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/multiple-agents.png)|Multiple agents are at this location.|
+|![Assigned map marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/assigned.png)|A task is accepted, assigned, or scheduled.|
+|![Assigned multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/assigned-multiple.png)|Multiple tasks have been accepted, assigned, or scheduled at this location.|
+|![Assigned P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/assigned-P1.png)|A priority-1 task has been accepted, assigned, or scheduled.|
+|![Colored marker with 1 on it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/route-marker.png)|The assigned work order task displayed while viewing agent's route. The number indicates the order in which the task will be completed.|
+|![Needs attention marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/needs-attention.png)|A task is in the pending dispatch or draft state.|
+|![Needs attention multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/needs-attention-multi.png)|Multiple tasks are in the pending dispatch or draft state.|
+|![Needs attention P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/needs-attention-P1.png)|A priority-1 task is in the pending dispatch or draft state.|
+|![In progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/in-progress.png)|An agent is on the way to the task, work on the task is paused, or the task is in progress.|
+|![In progress multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/in-progress-multiple.png)|An agent is on the way to a location with multiple tasks, work on a task is paused, or the task is in progress.|
+|![In progress P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/in-progress-P1.png)|An agent is on the way to a priority-1 task, work on the priority-1 task is paused, or the priority-1 task is in progress.|
+|![Complete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/complete.png)|A work order task is complete.|
+|![Complete multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/complete-multiple.png)|Multiple tasks are complete at the same location.|
+|![Complete P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/complete-P1.png)|A priority-1 task is complete.|
+|![Incomplete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/incomplete.png)|A task was closed as incomplete or canceled.|
+|![Incomplete multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/incomplete-multiple.png)|Multiple tasks were closed as incomplete or canceled.|
+|![Incomplete P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/incomplete-P1.png)|A priority-1 task was closed as incomplete or canceled.|
+|![Home location tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/home-location.png)|A task is assigned at the agent's home location.|
+|![Home location task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/home-location-multi.png)|Multiple tasks are assigned at the agent's home location.|
+|![Co-located multiple.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/colocated-multi.png)|More than one task, agent, or crew is at this location.|
+|![Co-located P1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/colocted-P1.png)|More than one task, agent, or crew is at this location. At least one of the tasks at this location is a priority-1 task.|
+|![Personal event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/personal-event.png)|Indicates the location that a meeting or training personal event is located.|
+|![co-located event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/colocated-event.png)|Indicates the location that more than one meeting or training personal event is located.|
 

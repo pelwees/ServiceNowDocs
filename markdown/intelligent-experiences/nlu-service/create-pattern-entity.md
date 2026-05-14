@@ -26,7 +26,7 @@ Create a pattern entity from a word or phrase with repeatable patterns, such as 
 
 Pattern entities help your model identify, contextualize, and govern similar types of content. Inputs such as phone numbers and email address follow the same pattern. By creating a pattern entity, you can train the model to recognize all variations of those inputs.
 
-**Note:** Pattern entities use regular expressions \(regex\). The regex field value is a Java regular expression. For more information on how to use regex, see [Using regular expressions in entities](../concept/using-regular-expressions-nlu.md).
+**Note:** Pattern entities use regular expressions \(regex\). The regex field value is a Java regular expression. For more information on how to use regex, see [Using regular expressions in entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/using-regular-expressions-nlu.md).
 
 In this example scenario, you've created an intent that's titled \#CheckITTicketStatus. In this example procedure, you're creating a pattern entity for incident record numbers.
 
@@ -48,7 +48,7 @@ In this example scenario, you've created an intent that's titled \#CheckITTicket
 
     In this scenario, you click **INC1234567**.
 
-    ![Entity window in the Utterances tab of the intent details page.](../images/create-pattern-entity1.png)
+    ![Entity window in the Utterances tab of the intent details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-pattern-entity1.png)
 
 6.  Select **Create New Entity**.
 
@@ -60,7 +60,7 @@ In this example scenario, you've created an intent that's titled \#CheckITTicket
     -   **Type**: Select **Pattern**
     -   **Model Availability**: Select this box if you want this entity to be included in all intents in your model
     -   **Regex**: Enter `INC\d{7}`
-    ![Create a new entity window for a pattern entity.](../images/create-pattern-entity2.png)
+    ![Create a new entity window for a pattern entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-pattern-entity2.png)
 
 8.  Click **Save**.
 

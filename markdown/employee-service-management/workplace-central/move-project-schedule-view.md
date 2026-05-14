@@ -25,7 +25,7 @@ Using the Move project's Schedule view, you can:
 -   Check the number of move requests to be fulfilled every day.
 -   Schedule a move request to another date by simply dragging the bar of the request.
 
-![Move scheduler view of a move project.](../images/move-scheduler.png "Move scheduler view of a move project")
+![Move scheduler view of a move project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/move-scheduler.png "Move scheduler view of a move project")
 
 ## Move dates
 
@@ -41,7 +41,7 @@ When you select a move project to work, it’s opened in a separate tab. It’s 
 
 -   **Schedule**
 
-    The default view when you open a move project. The schedule view is an interactive calendar view with displayed according to your local time zone. You can also switch to a list view using the list options tab \(![List options.](../images/list-options.png)\).
+    The default view when you open a move project. The schedule view is an interactive calendar view with displayed according to your local time zone. You can also switch to a list view using the list options tab \(![List options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/list-options.png)\).
 
     The view is categorized based on the following:
 
@@ -53,7 +53,7 @@ When you select a move project to work, it’s opened in a separate tab. It’s 
         -   If a move request doesn’t have any **Expected start** or **Due date** specified, then the calendar doesn’t display any bar for the request.
         -   You can switch between a weekly view and a monthly view. By default, the calendar is displayed in a weekly view.
         -   When you select a move request bar on the calendar, a Case details panel is displayed. You can view case details like the **To location**, **Expected start**, **Due date**, **State**, and **Request for**.
-    -   **List**: You can change your view from a calendar view to list view using the List options tab \( ![List options.](../images/list-options.png)\). View all the move requests under the move project as a list.
+    -   **List**: You can change your view from a calendar view to list view using the List options tab \( ![List options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/list-options.png)\). View all the move requests under the move project as a list.
         -   You can view the details of the request like the request number, state, relevant dates, and the move project.
         -   You can remove a single or multiple move requests by selecting them from them list.
         -   You can also assign one or more move requests to yourself by using the **Edit** option.
@@ -109,5 +109,5 @@ A move project goes through the following state changes:
     A project that is in the **Cancelled** state can't be edited. You can only edit the **Assigned to** and the **State** fields.
 
 
-**Parent Topic:**[Move management key features and actions](move-mgmt-views-states-actions.md)
+**Parent Topic:**[Move management key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)
 

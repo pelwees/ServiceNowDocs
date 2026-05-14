@@ -18,7 +18,7 @@ Start translating articles once they are published and assigned to you for trans
 ## Before you begin
 
 -   Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\).
--   Enable the **glide.knowman.translation.enable\_translation\_task** property. For more information, see [Translation management](../concept/translation-management.md).
+-   Enable the **glide.knowman.translation.enable\_translation\_task** property. For more information, see [Translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/translation-management.md).
 
 Role required: admin, knowledge\_admin, or knowledge
 
@@ -38,7 +38,7 @@ For information about how administrators configure the translation API, see [Dyn
 
     The **Translate from** and **Translate to** panes are side-by-side for easy comparison, as shown in the following figure.
 
-    ![Translate knowledge article panes.](../image/translate-to-from.png)
+    ![Translate knowledge article panes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/translate-to-from.png)
 
 4.  Select **Machine translate** to automatically translate to the targeted languages.
 
@@ -55,5 +55,5 @@ For information about how administrators configure the translation API, see [Dyn
 
 The newly created draft is listed in the **Translated Versions** tab.
 
-**Parent Topic:**[Use translation management](../concept/use-translation-management.md)
+**Parent Topic:**[Use translation management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-translation-management.md)
 

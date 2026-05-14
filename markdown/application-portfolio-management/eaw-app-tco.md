@@ -26,14 +26,14 @@ The application TCO cost type refers to the categorization of business applicati
 
 The application TCO cost type helps you to evaluate and manage the capital and operating expenditures associated with your business application.
 
-**Parent Topic:**[Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-manage-application-tco.md)
+**Parent Topic:**[Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-application-tco.md)
 
 **Related topics**  
 
 
-[Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](eaw-manage-application-tco.md)
+[Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-application-tco.md)
 
-[Install the Application Total Cost of Ownership \(TCO\) plugin](../../task/eaw-task/eaw-install-app-tco.md)
+[Install the Application Total Cost of Ownership \(TCO\) plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-install-app-tco.md)
 
-[Add or edit a total cost of ownership record](../../task/eaw-task/eaw-create-new-tco.md)
+[Add or edit a total cost of ownership record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-new-tco.md)
 

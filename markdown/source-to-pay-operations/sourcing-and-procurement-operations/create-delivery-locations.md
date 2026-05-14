@@ -49,8 +49,8 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 5.  Select **Submit**.
 
-    ![Delivery location.](../image/add_delivery_location.png)
+    ![Delivery location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_delivery_location.png)
 
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 

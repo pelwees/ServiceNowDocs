@@ -35,7 +35,7 @@ Role required: sn\_hr\_core.admin
 
 5.  To remove a user from the user segment group, double-click in the **Status** column for the user you want to remove and change to **Excluded**.
 
-    ![Status related to user in bulk case user segment](../image/bulk-case-user-seg-status.png)
+    ![Status related to user in bulk case user segment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/bulk-case-user-seg-status.png)
 
     The meaning for each status:
 
@@ -54,5 +54,5 @@ Role required: sn\_hr\_core.admin
 6.  After changing a user's status, select **Save**.
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/bulk-case.md)
 

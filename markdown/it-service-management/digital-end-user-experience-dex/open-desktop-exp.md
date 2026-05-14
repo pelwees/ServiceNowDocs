@@ -17,7 +17,7 @@ Open and log in to Desktop Assistant to get quick access to self-service tools, 
 
 ## Before you begin
 
--   Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](install-app-device-health.md) and [Download and install Desktop Assistant](download-desktop-experience.md).
+-   Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Download and install Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/download-desktop-experience.md).
 
 -   Confirm that the OAuth registry record for Desktop Assistant is active.
 
@@ -45,7 +45,7 @@ Role required: sn\_dex\_desktop.user or sn\_dex\_desktop.admin
         2.  If you can't remember your login details, select **Forgot password** to reset your password.
         3.  Select **Log in**.
         4.  Select **Allow** to grant Desktop Assistant permission to connect to your ServiceNow account.
-        **Note:** To enable SSO login, set up the SSO provider and configure SSO in the instance. For more information, see [Configure Open Authorization details](configure-oauth-details.md).
+        **Note:** To enable SSO login, set up the SSO provider and configure SSO in the instance. For more information, see [Configure Open Authorization details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/configure-oauth-details.md).
 
     -   When SSO is enabled:
         1.  Select the **Login with SSO** link.
@@ -63,5 +63,5 @@ Role required: sn\_dex\_desktop.user or sn\_dex\_desktop.admin
 **Related topics**  
 
 
-[Resolve Desktop Assistant screen loading issue](../reference/resolve-loading-da-screen.md)
+[Resolve Desktop Assistant screen loading issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/resolve-loading-da-screen.md)
 

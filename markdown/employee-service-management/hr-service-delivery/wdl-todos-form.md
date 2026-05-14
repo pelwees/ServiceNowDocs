@@ -31,14 +31,14 @@ Use this form to create Workday learning todos.
 |Integration todo ID|Unique identification number of the todo.|
 |State|State of the todo.|
 
-**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](reference-workday-learning-intg.md)
+**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-workday-learning-intg.md)
 
 **Related topics**  
 
 
-[Components installed with workday learning](components-installed-with-workday-learning.md)
+[Components installed with workday learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-workday-learning.md)
 
-[Edit a record in HR Service Delivery Integration with Workday Learning](sync-user-activity-form.md)
+[Edit a record in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sync-user-activity-form.md)
 
-[Workday learning user course activity staging form](wdl-user-course-activity-form.md)
+[Workday learning user course activity staging form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-user-course-activity-form.md)
 

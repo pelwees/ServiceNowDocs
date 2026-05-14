@@ -19,7 +19,7 @@ By default, the Pipeline project creation rule decision table is used to create 
 
 The `sn_spend_pipeline.pipeline_management_admin` role contains the `decision_table_admin` role, which enables you to create, read, edit, and delete decision table inputs, columns, and values. For more information about configuring decision tables, see [Configuring decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configuring-decision-builder.md).
 
-![Pipeline project creation rule.](../image/pipeline-decision-table.png)
+![Pipeline project creation rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-decision-table.png)
 
 When a shopper requests pricing for items exceeding $250,000 through ShoppingHub, the following decision inputs are automatically evaluated to apply the rule conditions:
 
@@ -33,5 +33,5 @@ The Pipeline project creation rule is applied to the Budget field in the Sourcin
 
 **Note:** If the currency is different from the USD, it's converted to USD before the rule conditions are applied.
 
-**Parent Topic:**[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
+**Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 

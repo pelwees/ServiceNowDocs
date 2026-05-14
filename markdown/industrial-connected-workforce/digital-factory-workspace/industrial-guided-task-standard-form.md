@@ -287,5 +287,5 @@ Version
 Filter by standard version to compare execution results across versions and track how changes affect performance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Guided Tasks reference](industrial-guided-tasks-reference.md)
+</table>**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 

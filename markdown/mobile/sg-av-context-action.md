@@ -71,7 +71,7 @@ The kind of action item. Choose from the following:-   New
 -   Update
 -   Delete
 -   Script
--   MultiStep. For more information, see [Configure action steps within an action item](configure-action-steps.md).
+-   MultiStep. For more information, see [Configure action steps within an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-action-steps.md).
 Different fields appear on the action item form depending on the type of action you select.
 
 </td></tr><tr><td>
@@ -116,7 +116,7 @@ Input form screen
 
 </td><td>
 
-Select an input form screen to use for this action item. See [Configure an input form screen](parameter-screen-config.md).
+Select an input form screen to use for this action item. See [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 </td></tr><tr><td>
 
@@ -134,14 +134,14 @@ Action item step
 
 Allows an action item to perform multiple processes.
 
- For more information, see [Configure action steps within an action item](configure-action-steps.md).
+ For more information, see [Configure action steps within an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-action-steps.md).
 
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
 
--   **[Create UI parameters for your Virtual Agent link](sg-av-context-2.md)**  
+-   **[Create UI parameters for your Virtual Agent link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-av-context-2.md)**  
 Create UI parameters to pass information from your record into Virtual Agent so that your users get the information they need for their issues.
--   **[Enable Virtual Agent for mobile applications](sg-mobile-virtual-agent.md)**  
+-   **[Enable Virtual Agent for mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-virtual-agent.md)**  
 Give your users the ability to chat with a virtual agent through a ServiceNow mobile application.
 

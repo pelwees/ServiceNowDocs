@@ -49,5 +49,5 @@ Role required: Admin
         **Note:** Admins can see additional filtering options and widgets such as: **Pending approvals**, **Today's approvals**, **Exception Approvals**, **False Positive Approvals**
 
 
-**Parent Topic:**[Unified Approvals View](../concept/sem-approval-view.md)
+**Parent Topic:**[Unified Approvals View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sem-approval-view.md)
 

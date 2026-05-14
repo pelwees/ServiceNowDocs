@@ -39,5 +39,5 @@ Journeys are created in the ServiceNow® Journey designer application to help em
 -   Complete learning courses added by the organization or their manager.
 -   Receive notifications when a journey is created for them.
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 

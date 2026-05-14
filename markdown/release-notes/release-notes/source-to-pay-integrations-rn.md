@@ -60,5 +60,5 @@ See [Source-to-Pay integration with third-party applications](https://raw.github
     Extend the capabilities of APO by integrating with other applications.
 
 
-**Parent Topic:**[Source-to-Pay Operations release notes](source-to-pay-operations-rn-landing.md)
+**Parent Topic:**[Source-to-Pay Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/source-to-pay-operations-rn-landing.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_cmp.cloud\_admin
 
 1.  In the AWS console, select the EC2 service and then click **IMAGES** &gt; **AMIs**.
 
-    ![AWS console](../image/public-image-aws.png)
+    ![AWS console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/public-image-aws.png)
 
 2.  Filter the list of images and then take note of the **AMI Name** and **AMI ID** values for the image of interest.
 
@@ -69,5 +69,5 @@ Role required: sn\_cmp.cloud\_admin
     This step also creates a relationship between the public image and the logical datacenter \(LDC\) in the CMDB.
 
 
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-resource-profiles.md)
 

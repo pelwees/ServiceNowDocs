@@ -25,7 +25,7 @@ Role required: cdm\_admin
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Click the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
+2.  Click the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
 
 3.  Click **Create new library** to create a component library.
 
@@ -75,6 +75,6 @@ A component library is created. The state of the library is set to Not Available
 
 ## What to do next
 
-1.  [Add or update a shared component in a component library](cdm-comp-library-add-component.md).
-2.  [Activate a component library](cdm-comp-library-activate.md).
+1.  [Add or update a shared component in a component library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-comp-library-add-component.md).
+2.  [Activate a component library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-comp-library-activate.md).
 

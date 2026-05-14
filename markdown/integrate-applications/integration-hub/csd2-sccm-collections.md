@@ -80,5 +80,5 @@ Name of the collection associated with the uninstall deployment for the selected
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](../concept/csd2.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2.md)
 

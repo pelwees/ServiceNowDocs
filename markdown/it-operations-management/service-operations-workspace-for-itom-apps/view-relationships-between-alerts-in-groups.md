@@ -17,7 +17,7 @@ When an alert group is generated, understand better how the alerts in the group 
 
 ## Before you begin
 
-For an overview of Link View in Express List, see [Viewing links between alerts in alert groups in Express List](../concept/el-link-view.md).
+For an overview of Link View in Express List, see [Viewing links between alerts in alert groups in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/el-link-view.md).
 
 Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation, select the Express List icon \(![Express List icon](../../event-management/image/express-list1.png)\).
+2.  In the primary navigation, select the Express List icon \(![Express List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list1.png)\).
 
 3.  In the fields in the interactive filter panel, select **Group** and then the check box for the alert groups you want to display.
 
@@ -77,7 +77,7 @@ Select **Refresh**. When you've refreshed the alert group, rearranged nodes appe
 
 </td><td>
 
-Select the Link View legend.The legend also indicates the number of unique nodes displayed per tag. For a description of each tag, see [Attributes in Express List Link View](../reference/link-view-tags-icons-descriptions.md).
+Select the Link View legend.The legend also indicates the number of unique nodes displayed per tag. For a description of each tag, see [Attributes in Express List Link View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../reference/link-view-tags-icons-descriptions.md).
 
 </td></tr><tr><td id="d609624e230">
 

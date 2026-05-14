@@ -36,7 +36,7 @@ sn\_wsd\_core.AUTO\_ASSIGN\_LOCATION
 Enables auto-assignment of workspaces when employees make workspace reservation requests.-   Type: true\|false
 -   Default value: false
 
- **Note:** Once this feature is enabled, the fields related to workplace locations such as **Area**, **Space preference**, and **Space** do not appear on the Workspace Reservation form. Enable this feature only if all employees have a designated workspace in their user profiles in the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table. For more information, see [Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md).
+ **Note:** Once this feature is enabled, the fields related to workplace locations such as **Area**, **Space preference**, and **Space** do not appear on the Workspace Reservation form. Enable this feature only if all employees have a designated workspace in their user profiles in the User Workplace Profile \[sn\_wsd\_core\_workplace\_profile\] table. For more information, see [Mapping employees to their designated workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/mapping-employees-to-existing-work-locations-wsd.md).
 
 </td></tr><tr><td>
 
@@ -252,7 +252,7 @@ sn\_wsd\_core.ENABLE\_LOCATION\_PRIVACY
 
 </td><td>
 
-Enables you to set location privacy preference. You can apply privacy on workplace profiles and workplace reservations. For more information, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: choice list
+Enables you to set location privacy preference. You can apply privacy on workplace profiles and workplace reservations. For more information, refer to [Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: choice list
 -   Default value: None
 
 </td></tr><tr><td>
@@ -261,7 +261,7 @@ sn\_wsd\_core.OVERRIDE\_RESERVATION\_PRIVACY
 
 </td><td>
 
-Enables you to let employees override the location privacy on a reservation. For more information, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: choice list
+Enables you to let employees override the location privacy on a reservation. For more information, refer to [Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: choice list
 -   Default value: no
 
 </td></tr><tr><td>
@@ -270,7 +270,7 @@ sn\_wsd\_core.PRIVACY\_INFORM\_EMPLOYEE
 
 </td><td>
 
-Enables you to inform employees when privacy is applied on a workplace profile or reserved spaces. For more information, refer to [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: true\|false
+Enables you to inform employees when privacy is applied on a workplace profile or reserved spaces. For more information, refer to [Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).-   Type: true\|false
 -   Default value: false
 
 </td></tr><tr><td>
@@ -289,18 +289,18 @@ By default the following allocation types are provided with the applications:
 -   Workplace entity = workplace\_entity
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+</table>**Parent Topic:**[Workplace Core references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/wsd-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Core](components-installed-with-workplace-service-delivery.md)
+[Components installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/components-installed-with-workplace-service-delivery.md)
 
-[Workplace Profile Location Assignment form](wsd-location-assignment-form.md)
+[Workplace Profile Location Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-location-assignment-form.md)
 
-[Workplace location assignment anomaly types](location-assignment-anomaly-types.md)
+[Workplace location assignment anomaly types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md)
 
-[Reserve a space form](reserve-space-form.md)
+[Reserve a space form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-space-form.md)
 
-[Card Configuration examples](card-configuration-examples.md)
+[Card Configuration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/card-configuration-examples.md)
 

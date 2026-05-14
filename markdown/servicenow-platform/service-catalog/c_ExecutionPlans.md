@@ -25,14 +25,14 @@ An execution plan is not specific to any one catalog item. There could be many d
 
 **Note:** Execution plans are not as powerful or flexible as workflows, and cannot be designed using a graphical editor. Execution plans are useful in some circumstances, for example, if you want to build your processes programmatically or through imports. ServiceNow recommends using workflows for request fulfillment processes.
 
--   **[Create an execution plan](../task/t_CreateAnExecutionPlan.md#)**  
+-   **[Create an execution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CreateAnExecutionPlan.md#)**  
 Administrators and catalog administrators can create and manage execution plans and the associated variable tasks.
--   **[Execution plan tasks](c_ExecutionPlanTasks.md#)**  
+-   **[Execution plan tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ExecutionPlanTasks.md#)**  
 An execution plan contains one or more execution plan tasks, such as for obtaining approval. Execution plan tasks are assigned to a fulfillment group.
--   **[Creating execution plan tasks](c_CreatingExecutionPlanTasks.md#)**  
+-   **[Creating execution plan tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_CreatingExecutionPlanTasks.md#)**  
 An execution plan contains one or more task templates. Each task template defines work that can be completed by a specific fulfillment group.
--   **[Service catalog execution plans](c_UsingExecutionPlans.md#)**  
+-   **[Service catalog execution plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingExecutionPlans.md#)**  
 Service catalog enables you to associate execution plans with catalog items.
 
-**Parent Topic:**[Service Catalog request fulfillment](request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-fulfillment.md)
 

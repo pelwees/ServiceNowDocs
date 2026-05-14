@@ -31,7 +31,7 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 2.  Select the list view in any landing page section in SRM with an **Export button**.
 
-3.  Determine which filters you want to use and select them from the Filters ![Filter icon.](../image/icon-sr-filter.png) or More actions menu in the list columns.
+3.  Determine which filters you want to use and select them from the Filters ![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-filter.png) or More actions menu in the list columns.
 
     **Note:**
 
@@ -56,5 +56,5 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
     For **Download**: The pop-up begins exporting and the file appears in your Download directory. Depending on the size of the file, it might take some time. You can open it in any application that supports the file format.
 
 
-**Parent Topic:**[SRM interface](../concept/sr-navigate-interface.md)
+**Parent Topic:**[SRM interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-navigate-interface.md)
 

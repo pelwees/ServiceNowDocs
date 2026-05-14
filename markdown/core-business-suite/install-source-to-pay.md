@@ -33,17 +33,17 @@ Role required: admin
 
 5.  Select **Apply default configurations**.
 
-    Applying default configurations sets the required default settings for the Source-to-Pay. For information about default configurations, see [Source-to-Pay default configurations](../concept/source-to-pay-default-configurations.md).
+    Applying default configurations sets the required default settings for the Source-to-Pay. For information about default configurations, see [Source-to-Pay default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/source-to-pay-default-configurations.md).
 
-    If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](reset-default-configurations.md).
+    If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/reset-default-configurations.md).
 
 
 ## Result
 
 The installed Source-to-Pay business unit appears in the ready to configure section.
 
--   **[Source-to-Pay default configurations](../concept/source-to-pay-default-configurations.md)**  
+-   **[Source-to-Pay default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/source-to-pay-default-configurations.md)**  
 Details of the default configurations for Source-to-Pay.
 
-**Parent Topic:**[Install Core Business Suite applications](../concept/install-cbs-apps.md)
+**Parent Topic:**[Install Core Business Suite applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/install-cbs-apps.md)
 

@@ -35,7 +35,7 @@ In the SFDC CPQ quote object \(SBQQ\_Quote\_c\), confirm that there is a field s
 
 2.  Add this custom field to the ReferencedFields field set on the quote object. In SFDC, navigate to Setup -&gt; Object Manager -&gt; quote \(SBQQ\_Quote\_c\) -&gt; Field Sets -&gt; ReferencedFields. From the list of quote fields, drag and drop your new custom field into the In the Field Set box.
 
-    ![SFDC CPQ quote object](../images/cpq-salesforce-field-sets.png)
+    ![SFDC CPQ quote object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-field-sets.png)
 
 3.  In CPQ, add a field with variable name &lt;someName&gt;.
 

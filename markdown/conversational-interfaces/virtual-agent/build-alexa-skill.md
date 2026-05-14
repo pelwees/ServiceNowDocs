@@ -36,5 +36,5 @@ Role required: admin
     The build successful message appears and you can test the sample utterances while the build is being trained.
 
 
-**Parent Topic:**[Set up Conversational Integration with Alexa](setup-alexa.md)
+**Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 

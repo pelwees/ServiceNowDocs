@@ -15,7 +15,7 @@ Analytics managers can view information about potentially problematic dashboards
 
 ## Dashboard recommendation panel
 
-![Dashboard library showing recommendation panel.](../image/db-recommendation-panel.png)
+![Dashboard library showing recommendation panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/db-recommendation-panel.png)
 
 Visible to roles: dashboard\_admin and higher.
 
@@ -29,5 +29,5 @@ The following types of recommendations are currently available:
 |n Empty dashboards|Number of dashboards that do not contain any widgets|
 |n No active owner|Number of dashboards without an active owner|
 
-**Parent Topic:**[Platform Analytics library recommendations](../concept/pa-library-recommendations.md)
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/pa-library-recommendations.md)
 

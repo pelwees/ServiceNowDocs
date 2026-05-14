@@ -108,7 +108,7 @@ Do this
 
 </td><td>
 
-From the State list, select **Work in progress**. You can save the feedback task, edit the knowledge article for which the feedback task was added, or create another knowledge article from a feedback task if the information in the existing article is irrelevant or obsolete. For more information, see [Create a knowledge article from a feedback task in Agent Workspace](create-article-feedback-agent.md) and [Edit a knowledge article from a feedback task in Agent Workspace](edit-article-feedback-agent.md).
+From the State list, select **Work in progress**. You can save the feedback task, edit the knowledge article for which the feedback task was added, or create another knowledge article from a feedback task if the information in the existing article is irrelevant or obsolete. For more information, see [Create a knowledge article from a feedback task in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-feedback-agent.md) and [Edit a knowledge article from a feedback task in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-feedback-agent.md).
 
 </td></tr><tr><td id="d588386e229">
 
@@ -156,5 +156,5 @@ The feedback task is updated.
 **Related topics**  
 
 
-[View a knowledge article in Agent Workspace](view-article-agent.md)
+[View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-agent.md)
 

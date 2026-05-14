@@ -61,7 +61,7 @@ Approvers
 
 </td><td>
 
-Approvers for the approval definition. Select one or more approvers to approve the reservations that match the approval definition. To add approvers, refer to [Create a workplace performer criteria](create-workplace-performer-criteria.md).
+Approvers for the approval definition. Select one or more approvers to approve the reservations that match the approval definition. To add approvers, refer to [Create a workplace performer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md).
 
 </td></tr><tr><td>
 
@@ -106,5 +106,5 @@ Importance level of the approval. The approval with the lowest level is implemen
 
 The workplace approval configuration is added.
 
-**Parent Topic:**[Create a workplace performer criteria](create-workplace-performer-criteria.md)
+**Parent Topic:**[Create a workplace performer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md)
 

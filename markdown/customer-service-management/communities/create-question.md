@@ -76,9 +76,9 @@ Description
 
 </td><td>
 
-Content of the question.To insert an image, click the **Insert Image** button \(![Insert image](../images/insert-image-button.png)\), navigate to the `.png` or `.jpg` file, and then click **Open**.
+Content of the question.To insert an image, click the **Insert Image** button \(![Insert image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/insert-image-button.png)\), navigate to the `.png` or `.jpg` file, and then click **Open**.
 
- To insert a video, click the **Insert Video** button \(![Insert video](../images/insert-video-button.png)\), enter the video URL, and then click **Upload**.
+ To insert a video, click the **Insert Video** button \(![Insert video](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/insert-video-button.png)\), enter the video URL, and then click **Upload**.
 
 </td></tr><tr><td>
 
@@ -112,10 +112,10 @@ To attach a file, click **Add attachments** and then drag the file into the **At
     -   Click **Edit** to remove the infected file and upload the attachment again. You cannot add any more attachments until the infected file is removed.
     -   If you are a user whose content is due to be moderated, the content is not posted until approved by a community moderator.
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 
 **Related topics**  
 
 
-[Disable comments](disable-comments.md)
+[Disable comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 

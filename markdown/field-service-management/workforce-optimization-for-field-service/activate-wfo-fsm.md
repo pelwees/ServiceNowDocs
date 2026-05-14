@@ -51,7 +51,7 @@ The following items are installed with Workforce Optimization for Field Service:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../reference/components-wfo-fsm.md).
 
 ## Procedure
 

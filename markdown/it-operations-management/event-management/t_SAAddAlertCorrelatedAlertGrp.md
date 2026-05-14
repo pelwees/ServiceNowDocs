@@ -31,16 +31,16 @@ Role required: evt\_mgmt\_admin
 
 3.  Scroll down and in the **Secondary Alerts** tab, select **Add To Group**.
 
-    ![Option to add secondary alerts to the group.](../image/em-secondary-alert-1.png)
+    ![Option to add secondary alerts to the group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-secondary-alert-1.png)
 
 4.  Select the check boxes for all alerts you want to add to the group as secondary alerts and select **Add Selected**.
 
-    ![Select the alerts that you want to add as secondary alerts to the group.](../image/em-secondary-alert-2.png)
+    ![Select the alerts that you want to add as secondary alerts to the group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-secondary-alert-2.png)
 
 5.  In the **Secondary Alerts** tab, view the alerts that have been added as secondary.
 
-    ![Secondary alerts are added to the group.](../image/em-secondary-alert-3.png)
+    ![Secondary alerts are added to the group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-secondary-alert-3.png)
 
 
-**Parent Topic:**[Manual alert grouping](../concept/manual-alert-grouping.md)
+**Parent Topic:**[Manual alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/manual-alert-grouping.md)
 

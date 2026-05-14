@@ -42,7 +42,7 @@ Example:
 
 The following script uses the number of rights equal to the number of CPU sockets on the machine the script is installed on. The **workstation** variable is used to identify any workstation that is in the development environment. If such a workstation is found, the script then assigns a **valuation** equal to the number of CPU sockets on the machine. Otherwise, if the workstation is not in the development environment, then no rights are assigned.
 
-![SAM custom calculation type](../image/SAMCustomCalculationType.png "SAM custom calculation type")
+![SAM custom calculation type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMCustomCalculationType.png "SAM custom calculation type")
 
-**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseLicenseCalculations.md)
 

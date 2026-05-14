@@ -17,8 +17,8 @@ Several types of components are installed with activation of the Configuration C
 
 The following topics provide you with reference information, troubleshooting, in addition to field data on the forms and records found in Configuration Compliance.
 
--   [Components installed with Configuration Compliance](installed-with-config-compliance.md)
--   [Test result form fields](../task/view-vuln-config-compl-test-results.md)
--   [Resolving Configuration Compliance import issues](../concept/vuln-config-compl-troubleshooting.md)
--   [Modify Qualys PC Results start date](../task/modify-test-results-startdate.md)
+-   [Components installed with Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/installed-with-config-compliance.md)
+-   [Test result form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../task/view-vuln-config-compl-test-results.md)
+-   [Resolving Configuration Compliance import issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/vuln-config-compl-troubleshooting.md)
+-   [Modify Qualys PC Results start date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../task/modify-test-results-startdate.md)
 

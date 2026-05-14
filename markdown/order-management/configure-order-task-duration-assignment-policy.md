@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select **Order Task Duration Assignment Policy**.
 
-    ![The image shows the Order Task Duration Assignment policy window in Workflow Studio.](../image/jm-order-task-duration-assignment.png)
+    ![The image shows the Order Task Duration Assignment policy window in Workflow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/jm-order-task-duration-assignment.png)
 
 3.  On the Order Task Duration Assignment Policy decision table, fill in the fields.
 
@@ -65,5 +65,5 @@ Allotted time for this task. For example, 2 Days 6 Hours.**Note:** The allotted 
 
 ## What to do next
 
-The next step is to configure SLA definitions for Jeopardy Management. For more information, see [create-sla-definitions.md](create-sla-definitions.md).
+The next step is to configure SLA definitions for Jeopardy Management. For more information, see [create-sla-definitions.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-sla-definitions.md).
 

@@ -233,10 +233,10 @@ Applies while viewing the requested item record after the request is submitted
 Select the check box so that the UI policy applies while viewing the requested item record after the request is submitted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Edit a catalog item in Catalog Builder](edit-cat-item-cat-builder.md)
+</table>**Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
 **Related topics**  
 
 
-[Create UI policies in Catalog Builder](create-ui-policies-in-catalog-builder.md)
+[Create UI policies in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-ui-policies-in-catalog-builder.md)
 

@@ -38,5 +38,5 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     **Note:** Before you close a customer play, you must close or cancel all the associated child tasks. If an associated child task is still open, a warning message is displayed. You must first close or cancel the child tasks and then proceed with closing the customer play.
 
 
-**Parent Topic:**[Create a customer play](account-lifecycle-create-success-case-playbook.md)
+**Parent Topic:**[Create a customer play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-case-playbook.md)
 

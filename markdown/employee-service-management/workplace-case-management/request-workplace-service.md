@@ -26,7 +26,7 @@ The Workplace Services catalog displays a list of workplace services from which 
     -   Workplace Assignment Type Service
     -   Workplace Allocation Change Service
 -   Space request
--   The above workplace services are triggered automatically based on the type of change implemented while scenario planning. For more information about Space optimization - scenario planning and it's features, refer to [Scenario Planning](../../workplace-central/concept/scenario-planning.md).
+-   The above workplace services are triggered automatically based on the type of change implemented while scenario planning. For more information about Space optimization - scenario planning and it's features, refer to [Scenario Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-central/concept/scenario-planning.md).
 
 
 You can also use the Virtual agent chat support on the Workplace Service Portal to submit a general inquiry. The chat support enables you to do the following:
@@ -35,12 +35,12 @@ You can also use the Virtual agent chat support on the Workplace Service Portal 
 -   View the status of your submitted cases.
 -   View the cases that are awaiting acceptance.
 
-**Parent Topic:**[Exploring Workplace Case Management](workplace-case-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Workplace Services](workplace-services.md)
+[Workplace Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-services.md)
 
-[Case and Task Templates](wsd-templates.md)
+[Case and Task Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-templates.md)
 

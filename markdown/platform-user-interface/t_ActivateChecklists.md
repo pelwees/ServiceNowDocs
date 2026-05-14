@@ -32,12 +32,12 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Checklists](../concept/c_Checklists.md)
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Checklists.md)
 
 **Related topics**  
 
 
-[Create a checklist](t_CreateAChecklist.md)
+[Create a checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAChecklist.md)
 
-[Delete checklist or a template](t_DeleteAChecklist.md)
+[Delete checklist or a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_DeleteAChecklist.md)
 

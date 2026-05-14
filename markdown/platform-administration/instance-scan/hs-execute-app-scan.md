@@ -38,5 +38,5 @@ For example, if the application installs a business rule, checks that are releva
 4.  Select **Scan Application** to run app scan.
 
 
-**Parent Topic:**[Execute a point scan](hs-execute-point-scan.md)
+**Parent Topic:**[Execute a point scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md)
 

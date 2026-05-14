@@ -26,15 +26,15 @@ When Card Data Security is installed, the Attachments view in the contextual sid
 
 In a transaction record for a card dispute case, attachments added by an agent are shown in the **Issuer** tab.
 
-![Transaction review page showing the Issuer tab in Attachments.](../image/card-data-security-issuer-attachments.png)
+![Transaction review page showing the Issuer tab in Attachments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-issuer-attachments.png)
 
 These files can be uploaded in the Attachments view, or from the task workspace.
 
-![Transaction dispute form with document attachment area and attached customer purchase information file.](../image/card-data-security-txn-attach-docs.png)
+![Transaction dispute form with document attachment area and attached customer purchase information file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-txn-attach-docs.png)
 
 Files that are received from card networks and stored in the tokenizer service are shown in the **Merchant** tab.
 
 The files in the **Merchant** tab aren't stored in the ServiceNow instance; they are references to files that are stored in the tokenizer service vault to maintain PCI compliance. You can download these files to your device, or preview them directly from the tokenizer service vault so that they are not stored in your instance.
 
-![Transaction review page showing the Merchant tab in Attachments.](../image/card-data-security-merchant-attachments.png)
+![Transaction review page showing the Merchant tab in Attachments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-merchant-attachments.png)
 

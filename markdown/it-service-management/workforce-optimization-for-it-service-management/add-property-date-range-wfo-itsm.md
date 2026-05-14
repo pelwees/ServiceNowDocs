@@ -40,5 +40,5 @@ The Teams application uses the sn\_optimize.default\_date\_range property in the
     |Write roles|sn\_team\_perf.team\_performance\_admin|
 
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-teams-configurable-workforce-optimization-itsm.md)
 

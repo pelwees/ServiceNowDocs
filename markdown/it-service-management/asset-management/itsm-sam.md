@@ -40,7 +40,7 @@ Description
 
 </td><td>
 
-[Software Asset Management Foundation plugin](../../software-asset-management2/concept/c_SoftwareAssetMgmtSAMF.md)
+[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../software-asset-management2/concept/c_SoftwareAssetMgmtSAMF.md)
 
 </td><td>
 
@@ -55,17 +55,17 @@ Manage your software assets using manual normalization and reconciliation to det
 
 </td><td>
 
-[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
+[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_SoftwareAssetManagement.md)
 
 </td><td>
 
 Manage your software licenses.
 
 </td></tr></tbody>
-</table>-   **[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)**  
+</table>-   **[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_SoftwareAssetManagement.md)**  
 The legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin activates the legacy ITSM Software Asset Management feature that is provided with the Asset Management application.
--   **[Software Asset Management Foundation plugin](../../software-asset-management2/concept/c_SoftwareAssetMgmtSAMF.md)**  
+-   **[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/../../software-asset-management2/concept/c_SoftwareAssetMgmtSAMF.md)**  
 The Software Asset Management Foundation plugin activates the ITSM Software Asset Management feature provided with the Asset Management application.
 
-**Parent Topic:**[Asset Management](c_AssetManagement.md)
+**Parent Topic:**[Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_AssetManagement.md)
 

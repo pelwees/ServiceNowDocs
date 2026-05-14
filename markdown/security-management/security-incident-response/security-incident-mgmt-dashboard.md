@@ -15,15 +15,15 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 With this dashboard, security managers can easily track the volume, performance and progress of security incidents from initial analysis/detection to containment, eradication, and recovery.
 
-![Open security incidents and basic security indicators on the Security Incident Management dashboard](../../../product/security-incident-response/image/si-mgmt-dashboard-overview.png "Overview tab")
+![Open security incidents and basic security indicators on the Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-dashboard-overview.png "Overview tab")
 
-![Security Incident Management tab that shows open incidents](../../../product/security-incident-response/image/si-mgmt-dashboard-open.png "Open security incidents tab")
+![Security Incident Management tab that shows open incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-dashboard-open.png "Open security incidents tab")
 
-![Tab showing new security incidents](../../../product/security-incident-response/image/si-mgmt-dashboard-new.png "New security incident tab")
+![Tab showing new security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-dashboard-new.png "New security incident tab")
 
-![Tab showing number of closed incidents and average resolution time](../../../product/security-incident-response/image/si-mgmt-dashboard-closed.png "Closed security incidents tab")
+![Tab showing number of closed incidents and average resolution time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-dashboard-closed.png "Closed security incidents tab")
 
-![Daily view of security incidents. Same format as 7-day and 28-day.](../../../product/security-incident-response/image/si-mgmt-dashboard-daily.png "Security Incidents Daily tab")
+![Daily view of security incidents. Same format as 7-day and 28-day.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-dashboard-daily.png "Security Incidents Daily tab")
 
 The **7d Running** and **28d Running** tabs follow the format of the **Daily** tab.
 
@@ -66,16 +66,16 @@ The following breakdowns apply to the indicators on the dashboard:
 -   Security Incident Priority
 -   Security Incident State
 
-**Parent Topic:**[Security Incident Response Platform Analytics Solutions](security-incident-content-pack.md)
+**Parent Topic:**[Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md)
 
 **Related topics**  
 
 
-[CISO dashboard](ciso-dashboard.md)
+[CISO dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ciso-dashboard.md)
 
-[Security Incident Management Premium dashboard](si-mgmt-premium-dashboard.md)
+[Security Incident Management Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-mgmt-premium-dashboard.md)
 
-[Security Incident Explorer dashboard](si-explorer-dashboard.md)
+[Security Incident Explorer dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-explorer-dashboard.md)
 
-[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
+[Security Operations Efficiency dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
 

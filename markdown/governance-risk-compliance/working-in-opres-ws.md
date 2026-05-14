@@ -30,11 +30,11 @@ You can view the data visualization components of the resilience metrics on the 
 
 The Home page, Tasks page, and List page are displayed in the following examples.
 
-![Home page.](../image/home-page.png "Home page")
+![Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/home-page.png "Home page")
 
-![Tasks page.](../image/tasks-page.png "Tasks page")
+![Tasks page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tasks-page.png "Tasks page")
 
-![List page.](../image/list-page.png "List page")
+![List page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/list-page.png "List page")
 
 ## Roles required to access Operational Resilience Workspace
 
@@ -44,7 +44,7 @@ You can access Operational Resilience Workspace with the following user roles:
 -   Operational Resilience manager \[sn\_oper\_res.manager\]
 -   Operational Resilience user \[sn\_oper\_res.user\]
 
-**Note:** For information on the administrative tasks, see [Completing general administrative tasks](../../grc-operational-res/concept/admin-module-tasks.md).
+**Note:** For information on the administrative tasks, see [Completing general administrative tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res/concept/admin-module-tasks.md).
 
 ## Configurable features in Operational Resilience Workspace
 

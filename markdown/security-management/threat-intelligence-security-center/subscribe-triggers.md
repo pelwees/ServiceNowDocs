@@ -42,5 +42,5 @@ Role required: sn\_sec\_tisc.admin
     **Note:** You can also **Unsubscribe** the webhook from the selected trigger\(s\).
 
 
-**Parent Topic:**[Configure webhooks](setup-webhooks.md)
+**Parent Topic:**[Configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 

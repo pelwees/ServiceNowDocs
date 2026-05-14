@@ -17,7 +17,7 @@ To discover certain information on a host server, the MID Server must run SSH co
 
 <table id="table_y14_tv4_nhb"><tbody><tr><td>
 
-![Links to each of the MID Server sections](../image/MIDRefIconBar.png)
+![Links to each of the MID Server sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDRefIconBar.png)
 
 </td></tr></tbody>
 </table>An example of information that requires elevated privileges is information about storage disks on a host server, retrieved with the `fdisk -l` command. If your system cannot use sudo commands, you must configure the hosts in your network to use one of the other privileged commands. You can configure different privileged commands for different hosts. However, Discovery supports only one privileged command per host.
@@ -76,38 +76,38 @@ dzdo
 -   Discovery does not support any other `dzdo –` options, but Discovery supports password authentication for dzdo.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[MID Server reference](mid-server-reference-information.md)
+</table>**Parent Topic:**[MID Server reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-reference-information.md)
 
 **Related topics**  
 
 
-[MID Server system requirements](../reference/r_MIDServerSystemRequirements.md)
+[MID Server system requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerSystemRequirements.md)
 
-[MID Server upgrades](c_UpgradeAndTestMIDServer.md)
+[MID Server upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md)
 
-[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+[Resolving MID Server issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerTroubleshooting.md)
 
-[MID Server dashboard](c_MIDServerDashboard.md)
+[MID Server dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md)
 
-[MID Server properties](../reference/r_MIDServerProperties.md#)
+[MID Server properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerProperties.md#)
 
-[MID Server parameters](../reference/mid-server-parameters.md#)
+[MID Server parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-parameters.md#)
 
-[MID Server Configuration Parameter settings and priority](../reference/mid-config-param-priority.md)
+[MID Server Configuration Parameter settings and priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-config-param-priority.md)
 
-[MID Server File Cleaner](mid_file_cleaner.md)
+[MID Server File Cleaner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid_file_cleaner.md)
 
-[MID Server protected records and reserved characters](../reference/mid-server-reserved-characters.md)
+[MID Server protected records and reserved characters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-reserved-characters.md)
 
-[MIDSystem methods](../reference/r_MIDSystemMethods.md)
+[MIDSystem methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDSystemMethods.md)
 
-[Manually start, stop, and restart a MID Server](../task/t_InstallMIDServerAsWinService.md)
+[Manually start, stop, and restart a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_InstallMIDServerAsWinService.md)
 
-[MID Server heartbeat](../reference/r_MIDServerHeartbeat.md)
+[MID Server heartbeat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerHeartbeat.md)
 
-[Set the MID Server JVM memory size](../task/t_MIDServerOptionalConfiguration.md)
+[Set the MID Server JVM memory size](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_MIDServerOptionalConfiguration.md)
 
-[Pause the MID Server](../task/t_PauseTheMIDServer.md#)
+[Pause the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_PauseTheMIDServer.md#)
 
 ## Long-running commands with sudo
 
@@ -177,7 +177,7 @@ Role required: admin
 
 3.  Click the menu icon in the header bar and select **View** &gt; **Advanced** from the context menu.
 
-    ![Selecting the Advanced view](../image/MIDServerAdvancedView.png "Selecting the Advanced view")
+    ![Selecting the Advanced view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerAdvancedView.png "Selecting the Advanced view")
 
 4.  In the **Privileged Command** related list, click **Edit**.
 
@@ -185,7 +185,7 @@ Role required: admin
 
     The default order of privileged commands is 100, but you can change the order as necessary. The privileged command with the smallest order number is tried first.
 
-    ![List of privileged commands to use for a MID Server](../image/MIDSelectPrivilegedCommand.png "List of privileged commands to use for a MID Server")
+    ![List of privileged commands to use for a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDSelectPrivilegedCommand.png "List of privileged commands to use for a MID Server")
 
 
 ## Create a pbrun profile privileged command
@@ -217,5 +217,5 @@ Of all the privileged commands, only the **pbrun** command can be configured to 
 
 ### What to do next
 
-Return to [Configuring MID Servers](c_MIDServerConfiguration.md).
+Return to [Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md).
 

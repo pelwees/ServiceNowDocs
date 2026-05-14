@@ -19,12 +19,12 @@ You can establish a mapping between the program segment mapping table and the cr
 |Criteria|Reference|Reference to the entity criteria \(sn\_req\_criteria\_customer\_condition\) table|
 |Active|True/False|Current state of the program segment criteria, whether active or not|
 
-**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[Program segment mapping table fields](program-segment-mapping-table-fields.md)
+[Program segment mapping table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/program-segment-mapping-table-fields.md)
 
-[Program criteria table fields](program-criteria-table-fields.md)
+[Program criteria table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/program-criteria-table-fields.md)
 

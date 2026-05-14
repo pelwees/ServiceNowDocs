@@ -58,5 +58,5 @@ Follow these guidelines to avoid issues when running multiple tests in parallel.
     To prevent unwanted rollback of changes, always close client test runners after testing is complete. Closing the browser window ensures that test rollback doesn't revert any legitimate changes made in another browser tab.
 
 
-**Parent Topic:**[UI test steps](ui-test-steps.md)
+**Parent Topic:**[UI test steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/ui-test-steps.md)
 

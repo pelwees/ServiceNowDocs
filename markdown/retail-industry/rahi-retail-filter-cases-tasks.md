@@ -39,5 +39,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 
 **My Work** now displays case and tasks as based on your specified filter criteria. To reset these filters, select **Clear**.
 
-**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](rahi-retail-fulfill-in-store-ops-mobile.md)
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 

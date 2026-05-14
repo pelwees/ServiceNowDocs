@@ -38,7 +38,7 @@ This is useful if a qualifier or dispatcher is waiting for information from the 
 
 4.  Select **Suspend**.
 
-    ![suspend work order button](../../field-service-management/image/suspend-order.png)
+    ![suspend work order button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/suspend-order.png)
 
     The system sets the **Stage** of the SLA to **Paused**.
 

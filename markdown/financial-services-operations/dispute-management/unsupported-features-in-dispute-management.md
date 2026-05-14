@@ -15,10 +15,10 @@ breadcrumb: [Reference, Dispute Management, Banking applications, Financial Serv
 
 Learn about features in Dispute Management that are currently not supported.
 
--   **[Review chargeback response and decide on pre-arbitration or arbitration](../task/review-and-decide-prearbitration.md)**
+-   **[Review chargeback response and decide on pre-arbitration or arbitration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/review-and-decide-prearbitration.md)**
 
     After submitting a Mastercard pre-arbitration request and waiting for a response, you currently cannot skip the wait period and escalate directly to arbitration.
 
 
-**Parent Topic:**[Dispute management reference](dispute-management-reference.md)
+**Parent Topic:**[Dispute management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management-reference.md)
 

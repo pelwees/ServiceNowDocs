@@ -104,5 +104,5 @@ requestPerMinute
 The limit on number of API calls to Dynatrace per minute. Relevant only when **throttleApiCalls** = **true**.Default: 1000
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

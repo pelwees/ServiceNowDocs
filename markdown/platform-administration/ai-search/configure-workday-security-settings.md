@@ -125,5 +125,5 @@ The Workday external content connector runs as an integration in Workday. To ena
         The pending changes are applied to your new integration system security group.
 
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

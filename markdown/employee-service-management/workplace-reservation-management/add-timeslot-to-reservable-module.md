@@ -17,7 +17,7 @@ After you create a time slot, assign the time slot to a reservable module that i
 
 ## Before you begin
 
-[Create a quick reservation time slot](add-reservable-time-slots.md).
+[Create a quick reservation time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-time-slots.md).
 
 Role required: sn\_wsd\_rsv.admin
 
@@ -43,7 +43,7 @@ After you create a time slot, you must assign the time slot to the reservable mo
 
     2.  Move the selection to the **Time Slots List** column on the right.
 
-        To move the time slot, use the add/remove icon \(![Add remove time slot icon](../image/add-remove-icon.png)\).
+        To move the time slot, use the add/remove icon \(![Add remove time slot icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)\).
 
     3.  Click **Save**.
 
@@ -54,5 +54,5 @@ The time slot is added to the reservable module. When an employee uses the Quick
 
 **Important:** When the reservable module is configured, the minimum and maximum duration set to 4 and 8 hours are not validated it impacts quick reservation.
 
-**Parent Topic:**[Create a quick reservation time slot](add-reservable-time-slots.md)
+**Parent Topic:**[Create a quick reservation time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-time-slots.md)
 

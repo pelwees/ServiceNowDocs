@@ -149,7 +149,7 @@ Additional information about the recall order.
 
 ## What to do next
 
-[Acknowledge enterprise assets in the recall order](acknowledge-recalled-assets-eam.md).
+[Acknowledge enterprise assets in the recall order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/acknowledge-recalled-assets-eam.md).
 
-**Parent Topic:**[Managing recalled enterprise assets](../concept/managing-recalled-enterprise-assets.md)
+**Parent Topic:**[Managing recalled enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-recalled-enterprise-assets.md)
 

@@ -72,5 +72,5 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## What to do next
 
-[Create GRC model state transition conditions](add-state-transition-conditions.md)
+[Create GRC model state transition conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-state-transition-conditions.md)
 

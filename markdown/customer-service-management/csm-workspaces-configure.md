@@ -13,7 +13,7 @@ breadcrumb: [Organize agent workspaces, Configure, Customer Service Management]
 
 CSM Configurable Workspace is a user interface that provides customer service agents with the tools they need to assist customers, answer questions, and resolve issues quickly and efficiently.
 
-![CSM Configurable Workspace enables agents to focus on the information, such as record details and activities, and the tools they need to resolve customer issues, including search and recommended actions.](../image/front-line-case-page-template.png "CSM Configurable Workspace")
+![CSM Configurable Workspace enables agents to focus on the information, such as record details and activities, and the tools they need to resolve customer issues, including search and recommended actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/front-line-case-page-template.png "CSM Configurable Workspace")
 
 CSM Configurable Workspace provides agents with a unified workspace to handle customer requests. Agents can manage cases, accounts, and contacts from multiple channels, like email, voice, and chat on a single screen, eliminating the need to switch between tabs.
 
@@ -31,7 +31,7 @@ Key features of CSM Configurable Workspace include list views for managing cases
 |Contextual side panel|A configurable panel that provides agents with additional tools and information such as search, Recommended Actions, attachments, and templates.|
 |AI tools|Summarize interaction chats and calls, summarize case information, and generate case resolution notes.|
 
-For more information, see [CSM Configurable Workspace features](csm-workspace-feature-overview.md).
+For more information, see [CSM Configurable Workspace features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-feature-overview.md).
 
 ## CSM Configurable Workspace benefits
 
@@ -46,13 +46,13 @@ CSM Configurable Workspace presents the Core UI lists and forms in one interface
 -   Get notified of potential major incidents based on issue frequency and impact.
 -   Keep informed of updates and surface important insights with a live activity feed and analytics.
 
-For more information, see [CSM Configurable Workspace overview](csm-config-workspace-overview.md).
+For more information, see [CSM Configurable Workspace overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-overview.md).
 
 ## Application information
 
 The CSM Configurable Workspace application \(com.snc.uib.csm\_agent\_workspace\) is activated with the Customer Service plugin \(com.sn\_customerservice\).
 
-**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [Customer Central plugin](customer-central.md#section_jmt_bnt_ydc).
+**Note:** Starting with the Yokohama release, CSM Configurable Workspace has a dependency on the Customer Central plugin. For more information, see [Customer Central plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md#section_jmt_bnt_ydc).
 
 The CSM Configurable Workspace application is available from the ServiceNow Store.
 

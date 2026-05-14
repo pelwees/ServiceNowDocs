@@ -37,13 +37,13 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager or sn\_customerservice\
 **Related topics**  
 
 
-[Major issue management overview](../concept/major-issue-management.md)
+[Major issue management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/major-issue-management.md)
 
-[Create a major case](create-major-case.md)
+[Create a major case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-major-case.md)
 
-[Create a major case candidate](create-major-case-candidate.md)
+[Create a major case candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-major-case-candidate.md)
 
-[Approve or reject a major case candidate](approve-reject-major-case-candidate.md)
+[Approve or reject a major case candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/approve-reject-major-case-candidate.md)
 
-[Create child cases for a major case](create-child-cases-for-major-case.md)
+[Create child cases for a major case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-child-cases-for-major-case.md)
 

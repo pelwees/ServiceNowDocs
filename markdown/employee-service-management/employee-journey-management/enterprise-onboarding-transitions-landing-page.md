@@ -19,15 +19,15 @@ The Lifecyle events for enterprise application helps to improve employee satisfa
 
 <table id="table-onbrd-trans-landing-page" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about automating the fulfillment of employee lifecycle events such as new hire onboarding, offboarding, relocation, promotion, parental leave, and more.](../concept/understanding-enterprise-onboarding-and-transitions.md)
+[Explore ![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about automating the fulfillment of employee lifecycle events such as new hire onboarding, offboarding, relocation, promotion, parental leave, and more.](../concept/understanding-enterprise-onboarding-and-transitions.md)
 
 </td><td>
 
-[Configure ![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure related apps and processes.](../task/onbrd-trans-install.md)
+[Configure ![Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure related apps and processes.](../task/onbrd-trans-install.md)
 
 </td><td>
 
-[Integrate ![Integrate](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Enterprise Onboarding and Transitions features with integrated features and services.](../concept/onbrd-trans-integrations.md)
+[Integrate ![Integrate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Enterprise Onboarding and Transitions features with integrated features and services.](../concept/onbrd-trans-integrations.md)
 
 </td></tr></tbody>
 </table>## Additional resources

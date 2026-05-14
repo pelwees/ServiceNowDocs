@@ -44,13 +44,13 @@ Relative durations calculate time periods based on business schedules. You can c
 
 The **End of next business day** relative duration shows how to configure a basic calculation. The *days* variable is set to one because the result should land one day in the future. You can customize the end time \(currently set to 5pm\) in the script.
 
-![End of Next Business Day Relative Duration](../image/EndOfNextBusDay.png)
+![End of Next Business Day Relative Duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/EndOfNextBusDay.png)
 
 The **2 business days by 4pm** relative duration demonstrates conditional logic. The script includes an if-statement that checks whether the calculated time is after 10am. If it is, an extra day is added to the calculation. Therefore, the description reads `2 business days by 4pm if before 10am`.
 
-![2 Business Days by 4 pm Relative Duration](../image/TwoBusDays.png)
+![2 Business Days by 4 pm Relative Duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/TwoBusDays.png)
 
 The end time of 17:00 is hard-coded into the relative duration script and is not related to the associated schedule. To change the end time from 5pm, modify the script directly.
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../using-time-configuration.md)
 

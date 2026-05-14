@@ -29,7 +29,7 @@ To create the skill:
     -   Description: `Summarization of child incidents`
     -   Default provider: `Now LLM Generic`
     -   Provider API: `Now LLM Generic`
-    ![Create new skill modal for Now Assist Skill Kit.](../image/nask-new-skill.png)
+    ![Create new skill modal for Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-new-skill.png)
 
 4.  Select **Create skill**.
 
@@ -47,11 +47,11 @@ After you create the skill and configure the settings, you must develop the prom
 
 Select the **Inputs** for the skill. For this example, the record is selected as the input.
 
-![Skill input modal for Now Assist Skill Kit.](../image/nask-add-skill-input.png)
+![Skill input modal for Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-add-skill-input.png)
 
 Select insert inputs for the prompt.
 
-![Prompt page for Now Assist Skill Kit with the Insert iIputs button outlined in red.](../image/nask-insert-inputs.png)
+![Prompt page for Now Assist Skill Kit with the Insert iIputs button outlined in red.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-insert-inputs.png)
 
 For this example, the following is used:
 
@@ -59,7 +59,7 @@ For this example, the following is used:
 
 Select the tools for the skill. For this example, select Flow Action and the IncidentDetailsFetcher flow resource.
 
-![Add tool modal in Now Assist Skill Kit.](../image/nask-add-tool-example.png)
+![Add tool modal in Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-add-tool-example.png)
 
 ## Configure the skill deployment options
 
@@ -86,5 +86,5 @@ If everything looks good, select **Finalize prompt**. After you finalize the pro
 
 ## Activate the skill
 
-After you test, finalize, and publish your skill, an admin must activate it in Now Assist Admin. To learn more about activating skills, see [Activate a skill](../task/activate-skill.md).
+After you test, finalize, and publish your skill, an admin must activate it in Now Assist Admin. To learn more about activating skills, see [Activate a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/activate-skill.md).
 

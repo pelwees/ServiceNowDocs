@@ -36,9 +36,9 @@ Only one time sheet policy can be set as a default policy.
 
 ## Result
 
-The **Default Policy** option on the [record form](create-time-sheet-policy.md#time_sheet_policy_form) is selected to indicate that the current time sheet policy is set as the default policy. The **Default Policy** option on the earlier default time sheet policy is cleared.
+The **Default Policy** option on the [record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet-policy.md#time_sheet_policy_form) is selected to indicate that the current time sheet policy is set as the default policy. The **Default Policy** option on the earlier default time sheet policy is cleared.
 
 You cannot delete a default time sheet policy. You must first mark another policy as the default policy to delete the current default policy.
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/time-sheet-policies.md)
 

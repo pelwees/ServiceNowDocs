@@ -37,9 +37,9 @@ If no extension points are provided, the API copies everything \(unless the API 
 
 The extension point methods are as follows:
 
-1.  [CopyDynamicSchemaAPI - verifyCopyOperation\(String transactionId\)](CopyDynamicSchemaAPI.md#) - Called before copying each major component type. Must return the same verification key supplied to getCopyApi\(\). If the method returns null, the extension point logic is ignored for this operation.
-2.  [CopyDynamicSchemaAPI - shouldCopy\(Object recordData\)](CopyDynamicSchemaAPI.md#) - If false, skips the copy of that record.
-3.  [CopyDynamicSchemaAPI - getCopyName\(Object recordData\)](CopyDynamicSchemaAPI.md#) - Creates a custom or auto-generated name for the copy.
+1.  [CopyDynamicSchemaAPI - verifyCopyOperation\(String transactionId\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Called before copying each major component type. Must return the same verification key supplied to getCopyApi\(\). If the method returns null, the extension point logic is ignored for this operation.
+2.  [CopyDynamicSchemaAPI - shouldCopy\(Object recordData\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - If false, skips the copy of that record.
+3.  [CopyDynamicSchemaAPI - getCopyName\(Object recordData\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Creates a custom or auto-generated name for the copy.
 
 ## CopyDynamicSchemaAPI workflow
 
@@ -47,15 +47,15 @@ The following workflow shows the order in which to call CopyDynamicSchemaAPI met
 
 **Note:** If you choose to implement any extension point methods, you must first define them before calling the following API methods.
 
-1.  [CopyDynamicSchemaAPI - getCopyApi\(String categoryToCopy, String verificationKey\)](CopyDynamicSchemaAPI.md#) - Creates an object used later in the copy operation and validates inputs.
-2.  [CopyDynamicSchemaAPI - skipAttributes\(\)](CopyDynamicSchemaAPI.md#), [CopyDynamicSchemaAPI - skipChoiceSets\(\)](CopyDynamicSchemaAPI.md#), [CopyDynamicSchemaAPI - skipChoiceOverrides\(\)](CopyDynamicSchemaAPI.md#) - Presets to optionally skip attributes, choices, choice sets, and choice overrides during the copy operation. Must be called before runAsync\(\).
-3.  [CopyDynamicSchemaAPI - getTransactionId\(\)](CopyDynamicSchemaAPI.md#) - Used to store the transaction ID so your extension point can recognize this specific copy operation.
-4.  [CopyDynamicSchemaAPI - runAsync\(\)](CopyDynamicSchemaAPI.md#) - Starts the asynchronous copy process and triggers the extension points for each record being copied. Returns the transaction ID.
+1.  [CopyDynamicSchemaAPI - getCopyApi\(String categoryToCopy, String verificationKey\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Creates an object used later in the copy operation and validates inputs.
+2.  [CopyDynamicSchemaAPI - skipAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#), [CopyDynamicSchemaAPI - skipChoiceSets\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#), [CopyDynamicSchemaAPI - skipChoiceOverrides\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Presets to optionally skip attributes, choices, choice sets, and choice overrides during the copy operation. Must be called before runAsync\(\).
+3.  [CopyDynamicSchemaAPI - getTransactionId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Used to store the transaction ID so your extension point can recognize this specific copy operation.
+4.  [CopyDynamicSchemaAPI - runAsync\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) - Starts the asynchronous copy process and triggers the extension points for each record being copied. Returns the transaction ID.
 5.  After runAsync\(\), the system runs the extension point methods you may have previously defined: verifyCopyOperation\(\), shouldCopy\(\), getCopyName\(\).
 
 If any step fails, the API rolls back the entire transaction. You can monitor the operation's status in the Progress Worker \[sys\_progress\_worker\] table, Name column with a name format like `Copy Dynamic Schema – <transaction ID>`.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CopyDynamicSchemaAPI - getCopyApi\(String categoryToCopy, String verificationKey\)
 
@@ -99,7 +99,7 @@ String
 
 </td><td>
 
-Verification key to authorize the copy operation. See [CopyDynamicSchemaAPI - getTransactionId\(\)](CopyDynamicSchemaAPI.md#) for more information.
+Verification key to authorize the copy operation. See [CopyDynamicSchemaAPI - getTransactionId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CopyDynamicSchemaAPI.md#) for more information.
 
 </td></tr></tbody>
 </table>|Type|Description|

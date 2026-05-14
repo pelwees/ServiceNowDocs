@@ -15,9 +15,9 @@ breadcrumb: [Cloud Services Catalog administration guide, Configuring Cloud Serv
 
 Permissions are your group-level access rights to features and actions in Cloud Services Catalog.
 
-The permission policies in Cloud Provisioning and Governance User Portal control the actions that are allowed or limited for users based on the user group. See [Permissions Management](../../cloud-management-v2/concept/cloud-permissions.md) for permission types and ideas.
+The permission policies in Cloud Provisioning and Governance User Portal control the actions that are allowed or limited for users based on the user group. See [Permissions Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../../cloud-management-v2/concept/cloud-permissions.md) for permission types and ideas.
 
 Currently, this does not apply for catalog provisioning in Cloud Services Catalog. For CSC, all users with roles permission can access, view and provision the catalogs, by default.
 
-**Parent Topic:**[Cloud Services Catalog administration guide](cloud-services-catalog-administration-guide.md)
+**Parent Topic:**[Cloud Services Catalog administration guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/cloud-services-catalog-administration-guide.md)
 

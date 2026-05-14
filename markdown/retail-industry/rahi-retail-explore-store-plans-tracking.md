@@ -21,12 +21,12 @@ Once a plan is published and cases are generated, tracking gives plan authors a 
 
 Store Plan Authoring handles the design and scheduling of plans to define tasks, link store locations, and trigger case generation on a schedule. Execution Tracking picks up from the point of publication and provides the operational oversight layer that Authoring does not cover.
 
--   **[Stages of store plan tracking and monitoring](rahi-retail-stages-tracking-monitoring.md)**  
+-   **[Stages of store plan tracking and monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-stages-tracking-monitoring.md)**  
 A store plan moves through distinct phases, each supported by specific screens and interactions. Tracking activates from the point of publication onward.
--   **[Scenarios for tracking store plans](rahi-retail-scenarios-tracking-store-plans.md)**  
+-   **[Scenarios for tracking store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-scenarios-tracking-store-plans.md)**  
 Tracking can support several operational goals.
--   **[Implementation details](rahi-retail-implementation-details.md)**  
+-   **[Implementation details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-implementation-details.md)**  
 The following table captures each screen in the tracking flow and the interaction pattern it uses.
 
-**Parent Topic:**[Retail store plans](rahi-retail-retail-multistore-operational-planning.md)
+**Parent Topic:**[Retail store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-multistore-operational-planning.md)
 

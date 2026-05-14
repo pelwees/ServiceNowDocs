@@ -23,12 +23,12 @@ Sometimes you need to provide your users with monetary KPIs converted to a stand
 
 To collect indicator scores in a reference currency, create an indicator with the following characteristics:
 
--   The indicator is an [automated indicator](performance-analytics-glossary.md#), not a formula or a manual indicator.
+-   The indicator is an [automated indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#), not a formula or a manual indicator.
 -   The aggregate is not **Count** or **Count Distinct** and the indicator is not **Scripted**.
 -   The selected **Field** to aggregate has the type Price, Currency, or FX Currency.
 -   The selected **Unit** for the scores is **Use reference currency**.
 
-For the full procedure of creating such an indicator, see [Create an automated indicator](../task/t_CreateAnAutomatedIndicator.md#).
+For the full procedure of creating such an indicator, see [Create an automated indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/t_CreateAnAutomatedIndicator.md#).
 
 **Note:**
 

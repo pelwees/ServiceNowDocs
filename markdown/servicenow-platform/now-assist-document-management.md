@@ -17,15 +17,15 @@ Use ServiceNow Now Assist in Document Management to get key insights from the do
 
 <table id="table_n4l_lqg_ggc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Document Services](explore-now-assist-in-document-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Document Services](explore-now-assist-in-document-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Document Services](configure-now-assist-document-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for Document Services](configure-now-assist-document-management.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for Document Services](use-now-assist-document-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for Document Services](use-now-assist-document-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

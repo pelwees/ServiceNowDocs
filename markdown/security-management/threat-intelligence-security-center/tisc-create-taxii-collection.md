@@ -140,16 +140,16 @@ Maximum number of records that can be added to an outbound TAXII server collecti
 12. View the respective TAXII server collection action.
 
 
-**Parent Topic:**[Exploring TAXII Outbound Server](tisc-taxii-outbound-server.md)
+**Parent Topic:**[Exploring TAXII Outbound Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-outbound-server.md)
 
 **Related topics**  
 
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-automated-share-taxii.md)
 
-[Viewing TAXII Collection Records](tisc-view-taxii-collection.md)
+[Viewing TAXII Collection Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-taxii-collection.md)
 
-[Automated Sharing of TAXII Collections](../task/tisc-automated-share-taxii.md)
+[Automated Sharing of TAXII Collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-automated-share-taxii.md)
 
-[Configuring Outbound Intel Sharing Templates](../task/tisc-intel-sharing-templates.md)
+[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-intel-sharing-templates.md)
 

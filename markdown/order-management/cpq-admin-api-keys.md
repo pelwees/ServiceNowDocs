@@ -23,13 +23,13 @@ For an introduction to CPQ admin API keys, view the following video:
 
 To get to the Admin API Keys page in CPQ, click the arrow to expand the Utilities section in CPQ Admin. The Admin API Keys tab appears in the menu.
 
-![Admin keys](../images/cpq-apis-admin-keys-page.png)
+![Admin keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-admin-keys-page.png)
 
 ## Add a new admin API key
 
 To add a new admin API key, click **New** at the top of the screen.
 
-![Add Admin Key](../images/cpq-apis-admin-new-key.png)
+![Add Admin Key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-admin-new-key.png)
 
 All parameters are required.
 
@@ -42,7 +42,7 @@ Choose the permissions that fit your use case before clicking **Save**.
 
 ## Admin API key permissions
 
-![API key Permissions](../images/cpq-apis-admin-permissions.png)
+![API key Permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-admin-permissions.png)
 
 1.  Read \(required, default\): read-only access, typically for GET requests
 2.  Edit: create, read, update, and delete access for most objects, including fields and rules
@@ -53,7 +53,7 @@ Choose the permissions that fit your use case before clicking **Save**.
 
 When you are finished assigning permissions, click **Save**. The dialog box updates to show the new admin API key.
 
-![Add API key](../images/cpq-apis-admin-new.png)
+![Add API key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-admin-new.png)
 
 1.  View the admin API key
 2.  Copy the key to the clipboard
@@ -93,5 +93,5 @@ When you use an admin API key, you use different endpoints to access the admin A
 
 [https://logikio.atlassian.net/wiki/spaces/CS/pages/1614479620/Setting+up+a+Google+IdP+JWT+Token+for+Headless+Admin+API+Authentication](https://logikio.atlassian.net/wiki/spaces/CS/pages/1614479620/Setting+up+a+Google+IdP+JWT+Token+for+Headless+Admin+API+Authentication)
 
-[Admin APIs: Authentication using a Salesforce-connected app](admin-apis-authentication-via-salesforce-connected-app.md)
+[Admin APIs: Authentication using a Salesforce-connected app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/admin-apis-authentication-via-salesforce-connected-app.md)
 

@@ -57,5 +57,5 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configuring Workplace Space Management](../concept/configure-space-management.md)
+**Parent Topic:**[Configuring Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/configure-space-management.md)
 

@@ -17,7 +17,7 @@ Verify that the related list declarative form actions in Service Operations Work
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Relative list declarative form actions** option for ITSM Agent Workspace features. For example, the **Relative list declarative form actions** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Relative list declarative form actions** option for ITSM Agent Workspace features. For example, the **Relative list declarative form actions** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -41,16 +41,16 @@ Role required: admin
 
 2.  1.  On the migration completion page in SOW Admin Center, select **View migration details**.
 
-2.  Select the **Go to system logs** \(![System logs icon](../../service-builder/image/sb-service-triangle.png)\) icon.
+2.  Select the **Go to system logs** \(![System logs icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-builder/image/sb-service-triangle.png)\) icon.
 
 3.  Review the logs to determine which items failed during migration.
 
 4.  Based on each failed item, identify which step has failed and perform the steps mentioned in the following topics.
 
-    -   [Migrate the client script from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-client-script-aw-sow.md)
-    -   [Migrate the server script from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-server-script-aw-sow.md)
-    -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-client-action-aw-sow.md)
-    -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](migrate-related-list-ui-component-aw-sow.md)
+    -   [Migrate the client script from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-related-list-client-script-aw-sow.md)
+    -   [Migrate the server script from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-related-list-server-script-aw-sow.md)
+    -   [Migrate the client action from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-related-list-client-action-aw-sow.md)
+    -   [Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-related-list-ui-component-aw-sow.md)
 
-**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/related-list-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/related-list-declarative-actions-aw-sow.md)
 

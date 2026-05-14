@@ -41,7 +41,7 @@ Permission changes and revocations that occur after the connector is created can
 
 The external content connector runs a one-time test crawl. This crawl checks whether the connector's current connection settings and source system permissions enable it to refresh a small portion of its source system's searchable content and metadata.
 
-The test crawl appears in the connector's crawl history with name **Test crawl** so you can monitor its status. For details on monitoring crawl history, see [Review crawl history for an external content connector](review-crawl-ext-cont-connector.md).
+The test crawl appears in the connector's crawl history with name **Test crawl** so you can monitor its status. For details on monitoring crawl history, see [Review crawl history for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/review-crawl-ext-cont-connector.md).
 
 When the test crawl finishes its run, an alert message indicates whether it completed successfully or encountered errors. If it completed successfully, its connection settings and source system permissions are valid.
 
@@ -49,5 +49,5 @@ When the test crawl finishes its run, an alert message indicates whether it comp
 
 If the test crawl encountered errors, review its crawl history entries to see whether it experienced connection issues or source system permissions issues. If it did, ask your source system administrator to verify your connection settings and to confirm that the permissions required by the connector are properly set.
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/configuring-ext-cont-connectors.md)
 

@@ -21,5 +21,5 @@ While running arbitrary JavaScript code in the **Scripts - Background** module, 
 -   Trigger a business rule containing breakpoints.
 -   Trigger a script action containing breakpoints.
 
-**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md)
 

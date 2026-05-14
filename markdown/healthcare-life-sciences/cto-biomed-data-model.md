@@ -17,5 +17,5 @@ These diagrams show the relationships between the tables within the application 
 
 The following diagram shows the tables and their relationships within the Healthcare Operations for Biomed application.
 
-![CTO for Biomed data model.](../image/cto-biomed-data-model.png)
+![CTO for Biomed data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-biomed-data-model.png)
 

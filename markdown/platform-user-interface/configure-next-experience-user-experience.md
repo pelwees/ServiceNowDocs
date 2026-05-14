@@ -36,15 +36,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Current start page.](../../../get-started/servicenow-overview/image/current-start-page.png)
+![Current start page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/current-start-page.png)
 
 </td><td>
 
-Start page that appears when users log in to their Next Experience instances. For more information on start page options, see [Configure a user-selected start page](configure-user-selected-start-page-preference.md).
+Start page that appears when users log in to their Next Experience instances. For more information on start page options, see [Configure a user-selected start page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-user-selected-start-page-preference.md).
 
 </td></tr><tr><td>
 
-![Enable Analytics.](../image/enable-analytics.png)
+![Enable Analytics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/enable-analytics.png)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Option that lets you turn on or off usage analytics tracking on your Next Experi
 
 </td></tr><tr><td>
 
-![Turn off Next Experience.](../image/turn-off-next-experience.png)
+![Turn off Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/turn-off-next-experience.png)
 
 </td><td>
 

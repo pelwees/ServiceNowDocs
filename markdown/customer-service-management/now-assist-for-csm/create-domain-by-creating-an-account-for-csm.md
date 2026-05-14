@@ -37,7 +37,7 @@ When creating a domain, follow these general guidelines:
 
     For example, if you want to create a domain under the global scope that would inherit its settings by default, select the global domain in the domain scope. If you want to create a child domain under a specific parent domain, change the domain scope to that parent domain.
 
-    ![Different domains that are created under the global scope.](../image/domain-separation-change-domain.png "Example of the different domains under domain scope")
+    ![Different domains that are created under the global scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/domain-separation-change-domain.png "Example of the different domains under domain scope")
 
 2.  Navigate to **All** &gt; **Customer Service** &gt; **Customer** &gt; **Accounts** or **All** &gt; **customer\_account.list**.
 
@@ -45,7 +45,7 @@ When creating a domain, follow these general guidelines:
 
 4.  Create a domain with the same name as the account by selecting **Save**.
 
-    ![Parent and child domains that were created under the global domain scope.](../image/domain-separation-domain-names.png "Different domain names")
+    ![Parent and child domains that were created under the global domain scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/domain-separation-domain-names.png "Different domain names")
 
     For example, when you create an account named ParentDomain under the global scope, you also create a domain with the same name. All the domains that are created under the global scope will be under the TOP \(top level\) domain. If you create an account called ChildDomain within the ParentDomain domain, the domain with the same name is also created under the ParentDomain domain.
 

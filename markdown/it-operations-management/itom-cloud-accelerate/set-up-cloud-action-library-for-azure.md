@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Create Microsoft Azure credentials that can access the Microsoft Azure account.
 
-    For more information, see [Create Azure cloud credentials](../../discovery/task/create-azure-cloud-credentials.md).
+    For more information, see [Create Azure cloud credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../../discovery/task/create-azure-cloud-credentials.md).
 
 2.  Create an Integration Hub connection for Microsoft Azure.
 
@@ -77,5 +77,5 @@ Tenant ID of the Microsoft Azure account.Replace `{tenant}` with the Microsoft A
 </table>    4.  Select **Create and Get OAuth Token**.
 
 
-**Parent Topic:**[Exploring Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+**Parent Topic:**[Exploring Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../concept/exploring-cloud-actions-library.md)
 

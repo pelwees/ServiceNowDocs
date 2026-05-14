@@ -31,15 +31,15 @@ Use the knowledge tool to research user questions and provide solutions quickly 
 
 2.  In the conversation tools area to the right of the conversation pane, click the knowledge base tab, which is represented by an open book icon.
 
-    ![The knowledge base tab is represented by an open book icon](../image/ConnectSupportKnowledgeBaseTab.png)
+    ![The knowledge base tab is represented by an open book icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSupportKnowledgeBaseTab.png)
 
     The knowledge homepage appears in the conversation tools pane.
 
-    ![The knowledge base](../image/ConnectSupportKnowledgeBaseHome.png)
+    ![The knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSupportKnowledgeBaseHome.png)
 
 3.  Search for articles related to the user's issue.
 
-    For more information about finding knowledge, see [Search using Knowledge Management v3](../../../product/knowledge-management/reference/r_KnowledgeSearch.md).
+    For more information about finding knowledge, see [Search using Knowledge Management v3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../../product/knowledge-management/reference/r_KnowledgeSearch.md).
 
 4.  To share an article in the conversation, drag a knowledge article link to the conversation pane and drop it anywhere in the drop zone that appears.
 

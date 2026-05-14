@@ -36,8 +36,8 @@ Event rules and alert suppression give you control over how alerts are generated
 
 For instructions on how to configure Event Management solutions, see the following documentation:
 
--   [Configure a webhook](../task/configure-fault-management.md)
--   [Configure an event pull connector](../task/configure-an-event-pull-connector.md)
--   [Cisco Meraki installed integrations](meraki-installed-integrations.md)
--   [Fortinet installed integrations](fortinet-installed-integrations.md)
+-   [Configure a webhook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/configure-fault-management.md)
+-   [Configure an event pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/configure-an-event-pull-connector.md)
+-   [Cisco Meraki installed integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/meraki-installed-integrations.md)
+-   [Fortinet installed integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/fortinet-installed-integrations.md)
 

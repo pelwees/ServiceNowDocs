@@ -48,7 +48,7 @@ The Type value on existing the Change Requests will be updated as following:
 
 ## What to do next
 
-You can activate one or more of the following [plugins](../concept/change-plugins.md):
+You can activate one or more of the following [plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-plugins.md):
 
 -   State model \(com.snc.change\_management.state\_model\)
 -   Change Management - Collision Detector \(com.snc.change.collision\)
@@ -59,57 +59,57 @@ You can activate one or more of the following [plugins](../concept/change-plugin
 -   Mass update CI \(com.snc.change\_management.mass\_update\_ci\)
 -   CAB workbench \(com.snc.change\_management.cab\)
 
-You can now [configure Change Management](../concept/configure-change-management.md).
+You can now [configure Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/configure-change-management.md).
 
--   **[Installed with Change Management - Core](../reference/r_InstlldWthChngMgmtCore.md#)**  
+-   **[Installed with Change Management - Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../reference/r_InstlldWthChngMgmtCore.md#)**  
 Several types of components are installed with the Change Management - Core.
 
-**Parent Topic:**[Change Management plugins](../concept/change-plugins.md)
+**Parent Topic:**[Change Management plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-plugins.md)
 
 **Related topics**  
 
 
-[Request ITSM Roles- Change Management](request-itsm-roles-cm.md)
+[Request ITSM Roles- Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-itsm-roles-cm.md)
 
-[Activate Business Stakeholder](../../../reuse/itsm/task/activate-business-stakeholders.md)
+[Activate Business Stakeholder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../../reuse/itsm/task/activate-business-stakeholders.md)
 
-[Activate Change Management - State Model](t_ActivateStateModel.md)
+[Activate Change Management - State Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateStateModel.md)
 
-[Activate Change Management - Collision Detector](t_ActivateConflictDetection.md)
+[Activate Change Management - Collision Detector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateConflictDetection.md)
 
-[Activate Best Practice - Change Risk Calculator](activate-change-risk-calculator.md)
+[Activate Best Practice - Change Risk Calculator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-risk-calculator.md)
 
-[Activate Change Management - Change Schedule](activate-changemgmt-changeschedule.md)
+[Activate Change Management - Change Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-changemgmt-changeschedule.md)
 
-[Activate Change Management - Risk Assessment](activate-change-risk-assessment.md)
+[Activate Change Management - Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-risk-assessment.md)
 
-[Activate Change Management - Standard Change Catalog](t_ActivateStandardChangeCatalog.md)
+[Activate Change Management - Standard Change Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateStandardChangeCatalog.md)
 
-[Activate Change Management - Change Success Score](activate-change-success-score.md)
+[Activate Change Management - Change Success Score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-success-score.md)
 
-[Activate Change Management - Mass Update CI](t_ActivateChangeManagementBulkCI.md)
+[Activate Change Management - Mass Update CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateChangeManagementBulkCI.md)
 
-[Activate Change Management -Approval policy](activate-change-approval-policy.md)
+[Activate Change Management -Approval policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-approval-policy.md)
 
-[Activate Change Management - CAB Workbench](activate-cab-workbench.md)
+[Activate Change Management - CAB Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-cab-workbench.md)
 
-[Activate Change Management ATF Tests](activate-changemgmt-atftests.md)
+[Activate Change Management ATF Tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-changemgmt-atftests.md)
 
-[Request Change Management - Risk Assessment](request-cm-risk-assessment.md)
+[Request Change Management - Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-risk-assessment.md)
 
-[Request Change Management - Standard Change Template Intelligence](request-cm-std-chg-template-intelligence.md)
+[Request Change Management - Standard Change Template Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-std-chg-template-intelligence.md)
 
-[Change Management - Predictive Intelligence Core](request-cm-picore.md)
+[Change Management - Predictive Intelligence Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-picore.md)
 
-[Activate Change Management - Change Flows](activate-change-flows.md)
+[Activate Change Management - Change Flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-flows.md)
 
-[Activate Change Management - Change Velocity dashboard](activate-change-velocity-dashboard.md)
+[Activate Change Management - Change Velocity dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-velocity-dashboard.md)
 
-[Activate Change Management - Change Models](activate-change-models.md)
+[Activate Change Management - Change Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-change-models.md)
 
-[Activate Change Management Success Probability](install-chg-mgmt-success-probability.md)
+[Activate Change Management Success Probability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/install-chg-mgmt-success-probability.md)
 
-[Activate Change Management - Data Archiving](activate-data-retention-archive-rule.md)
+[Activate Change Management - Data Archiving](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/activate-data-retention-archive-rule.md)
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 

@@ -45,21 +45,21 @@ Role required: sn\_dex\_score.digital\_workplace\_leader, sn\_dex.admin
 
 5.  On the form, customize the remaining fields.
 
-    For a description of the field values, see [Metric definition form](../reference/dexscr-dex-metric-def-form.md).
+    For a description of the field values, see [Metric definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-metric-def-form.md).
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Digital Experience Score​](../concept/dexscr-configuring-dex-score.md)
+**Parent Topic:**[Configuring Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-configuring-dex-score.md)
 
 **Related topics**  
 
 
-[Define qualitative mapping for a DEX Score metric](dexscr-define-qlty-metric-score-mapping.md)
+[Define qualitative mapping for a DEX Score metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-define-qlty-metric-score-mapping.md)
 
-[Metric scores in Digital Experience Score​](../concept/dexscr-dex-score-defs.md)
+[Metric scores in Digital Experience Score​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-dex-score-defs.md)
 
-[DEX Score metrics calculation](../reference/dexscr-dex-score-metrics-calc.md)
+[DEX Score metrics calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-metrics-calc.md)
 
-[DEX Score normalization for metric scores](../reference/dexscr-dex-score-normalization.md)
+[DEX Score normalization for metric scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../reference/dexscr-dex-score-normalization.md)
 

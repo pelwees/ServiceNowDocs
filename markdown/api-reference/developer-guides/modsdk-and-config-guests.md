@@ -27,7 +27,7 @@ Role required: admin
 
     2.  In the **Page** field, enter the name of the table for which to add public access.
 
-        ![Public Page record](../../image/mob_sdk-set-public-page.png)
+        ![Public Page record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mob_sdk-set-public-page.png)
 
     1.  Select **Submit.**
 
@@ -59,10 +59,10 @@ Role required: admin
 
     4.  In **Requires role**, insert a new row and select the `public` role.
 
-        ![Adding guest user ACLs](../../image/modsdk-table-guest-user-access.png)
+        ![Adding guest user ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/modsdk-table-guest-user-access.png)
 
 4.  Select **Submit** to save your changes.
 
-    When complete, there should be two ACLs for each guest user \(public\) CRUD operation. One with a ".\*" at the end of the table name and one without. ![Successful guest CRUD operations](../../image/mob_sdk-public-CRUD-ops.png)
+    When complete, there should be two ACLs for each guest user \(public\) CRUD operation. One with a ".\*" at the end of the table name and one without. ![Successful guest CRUD operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mob_sdk-public-CRUD-ops.png)
 
 

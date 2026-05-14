@@ -18,7 +18,7 @@ With Sourcing and Procurement Operations and Supplier Lifecycle Operations toget
 
 The following figure shows how an employee, procurement specialist, supplier manager, and supplier use the SPO and SLO applications together to get complete visibility into the sourcing process and simultaneously enjoy improved supplier onboarding experience.
 
-![Workflow of the sourcing experience](../../product/sourcing-procurement-operations/image/spo-slo-sourcing-new-supplier.png "Workflow for sourcing and supplier onboarding")
+![Workflow of the sourcing experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/sourcing-procurement-operations/image/spo-slo-sourcing-new-supplier.png "Workflow for sourcing and supplier onboarding")
 
 In this workflow:
 
@@ -51,33 +51,33 @@ Install and activate these plugins.
 -   Common Service Delivery \[com.sn\_spend\_sdc\]
 -   Risk Assessments Integration for Sourcing and Procurement Operations \[com.sn\_spend\_vrm\]
 
-For information on the installation sequence, see [Application plugin installation sequence in Sourcing and Procurement Operations](../../product/sourcing-procurement-operations/reference/application-plugin-list.md).
+For information on the installation sequence, see [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/sourcing-procurement-operations/reference/application-plugin-list.md).
 
 ## Get started with sourcing with a new supplier
 
 To get started with sourcing with a new supplier, follow these steps:
 
-1.  Request for a product or service that you don't see on Shopping Hub, and add a new supplier that you prefer to source it from. For more information, see [Requesting for products or services that you don't see on ShoppingHub](../../product/sourcing-procurement-operations/concept/request-prod-serv-dont-see-sh.md).
+1.  Request for a product or service that you don't see on Shopping Hub, and add a new supplier that you prefer to source it from. For more information, see [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/sourcing-procurement-operations/concept/request-prod-serv-dont-see-sh.md).
 
     Role: sn\_shop.shopper.
 
-2.  Review the sourcing request and its associated purchase lines on the Source-to-Pay Workspace. For more information, see [SPO list page](../../product/sourcing-procurement-operations/concept/procurement-specialist-list-page.md).
+2.  Review the sourcing request and its associated purchase lines on the Source-to-Pay Workspace. For more information, see [SPO list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/sourcing-procurement-operations/concept/procurement-specialist-list-page.md).
 
     Role: sn\_shop.procurement\_specialist.
 
-3.  Begin the qualification process to onboard the new supplier. For more information, see [Supplier qualification](../../product/sourcing-procurement-operations/reference/supplier-qualification.md).
+3.  Begin the qualification process to onboard the new supplier. For more information, see [Supplier qualification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/sourcing-procurement-operations/reference/supplier-qualification.md).
 
     Role: sn\_shop.procurement\_specialist.
 
-4.  Review the supplier onboarding case and start the supplier onboarding using playbooks. For more information, see [Use the supplier onboarding playbook to onboard suppliers](../../product/supplier-lifecycle-operations/concept/use-playbooks-onboard-supp.md#).
+4.  Review the supplier onboarding case and start the supplier onboarding using playbooks. For more information, see [Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/supplier-lifecycle-operations/concept/use-playbooks-onboard-supp.md#).
 
     Role: sn\_slm.manager.
 
 5.  The playbook automatically creates supplier tasks to conduct risk assessment and to collect supplier information, such as banking information and location details.
 6.  Log in to the Supplier Collaboration Portal and complete the following:
 
-    -   Assigned tasks. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](../../product/supplier-lifecycle-operations/concept/my-to-dos.md).
-    -   Risk assessment questionnaire. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](../../product/supplier-lifecycle-operations/task/complete-risk-assessments.md).
+    -   Assigned tasks. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/supplier-lifecycle-operations/concept/my-to-dos.md).
+    -   Risk assessment questionnaire. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../../product/supplier-lifecycle-operations/task/complete-risk-assessments.md).
     Role: sn\_slm.contact.
 
 7.  Review the collected supplier information and determine whether to continue or cancel the onboarding process.

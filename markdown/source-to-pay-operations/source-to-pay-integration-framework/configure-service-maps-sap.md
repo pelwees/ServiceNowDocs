@@ -39,7 +39,7 @@ If the application requires multiple SAP instances, create separate integration 
 
 3.  In the Integration Services list, select the service that you want to configure.
 
-    ![Look up Legal Entities from SAP S4 HANA OData](../../source-to-pay-operations/image/sap-integration-full-pull.png "Look up Legal Entities from SAP S4 HANA OData")
+    ![Look up Legal Entities from SAP S4 HANA OData](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-full-pull.png "Look up Legal Entities from SAP S4 HANA OData")
 
 4.  To modify the Integration service record, select **here**.
 
@@ -133,18 +133,18 @@ Option to choose the order in which the entity should be displayed.
     The integration service is configured for the selected entity.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](../concept/configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for SAP](../concept/erp-source-configuration-sap.md)
+[ERP Source Configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/erp-source-configuration-sap.md)
 
-[Define ERP source configuration for SAP](define-erp-source-sap.md)
+[Define ERP source configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-sap.md)
 
-[Look up primary data in SAP](../concept/look-up-primary-data-sap.md)
+[Look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/look-up-primary-data-sap.md)
 
-[Manually execute flows or subflows in SAP \(Inbound\)](manually-trigger-subflows-sap.md)
+[Manually execute flows or subflows in SAP \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/scheduled-jobs-to-primary-data-sap.md)
 

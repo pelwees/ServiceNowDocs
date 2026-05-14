@@ -15,7 +15,7 @@ Customize the New Activity marker in UI Builder to differentiate between the lat
 
 ## Before you begin
 
-A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable or disable the New Activity marker. For more information, see [Customize the email interaction experience](customize-email-interaction-experience.md).
+A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable or disable the New Activity marker. For more information, see [Customize the email interaction experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customize-email-interaction-experience.md).
 
 Role required: admin
 

@@ -33,7 +33,7 @@ Role required: admin
 
     -   **Skipped Changes to Review related list**
 
-        Resolve the skipped update records by tracking and reviewing them in the Skipped Changes to Review related list. To prevent your customizations from being overwritten during system upgrades, the upgrade process skips \(does not apply the update to\) objects that have been customized. See [Resolve a skipped update and set a resolution status](uc-resolve-skipped-update.md) for more information.
+        Resolve the skipped update records by tracking and reviewing them in the Skipped Changes to Review related list. To prevent your customizations from being overwritten during system upgrades, the upgrade process skips \(does not apply the update to\) objects that have been customized. See [Resolve a skipped update and set a resolution status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-resolve-skipped-update.md) for more information.
 
     -   **Skipped Changes Reviewed related list**
 
@@ -49,7 +49,7 @@ Role required: admin
 
     -   **Customization Unchanged related list**
 
-        Customizations Unchanged lists all records that were skipped \(due to a customization\), but there have been no changes from the last upgrade. See [Revert a customization](uc-revert-customization.md) for more information.
+        Customizations Unchanged lists all records that were skipped \(due to a customization\), but there have been no changes from the last upgrade. See [Revert a customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-revert-customization.md) for more information.
 
     -   **Changes Applied related list**
 

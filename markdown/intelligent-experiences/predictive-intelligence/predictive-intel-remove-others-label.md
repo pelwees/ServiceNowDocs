@@ -51,7 +51,7 @@ In JSON format:
 
 5.  In the **Solution Parameters** field, search for `Remove others label`, then select **Submit** to save your update.
 
-    ![On the Advanced Solution Setting form, in the Solution Parameters field, Remove others label is selected.](../images/predictive-intel-remove-others-labelZ1.png)
+    ![On the Advanced Solution Setting form, in the Solution Parameters field, Remove others label is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-remove-others-labelZ1.png)
 
 
 ## Result
@@ -62,12 +62,12 @@ The setting appears as a row on the **Advanced Solution Setting** tab on your so
 
 Retrain your solution.
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Using Machine Learning APIs](../concept/using-ml-apis.md#)
+[Using Machine Learning APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/using-ml-apis.md#)
 
-[Create and train a classification solution](create-solution-definition.md)
+[Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 

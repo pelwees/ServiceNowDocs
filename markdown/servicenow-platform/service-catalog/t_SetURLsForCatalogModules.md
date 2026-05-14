@@ -38,5 +38,5 @@ When you create a module for your catalog page, you can direct users to a specif
     **Note:** To ensure peak performance, define both parameters correctly.
 
 
-**Parent Topic:**[Service catalog setup](../topic/p_ServiceCatalogs.md)
+**Parent Topic:**[Service catalog setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogs.md)
 

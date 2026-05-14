@@ -15,10 +15,10 @@ breadcrumb: [Entity Based Access, Common GRC features, Governance, Risk, and Com
 
 Entity-based access restriction can be applied on some GRC tables.
 
--   **[Entity based record access update utility configuration states](eba-configuration-states.md)**  
+-   **[Entity based record access update utility configuration states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/eba-configuration-states.md)**  
 Entity-based access configuration states represent the defined permissions and control settings.
--   **[Entity-based access applicable record types](tables-that-consume-entity-based-access.md)**  
+-   **[Entity-based access applicable record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tables-that-consume-entity-based-access.md)**  
 Entity-based access applicable record types refer to the specific tables or record categories within the system for which entity-based access rules can be defined. This table holds information about all the EBA enabled tables and their relationships with entity or primary tables.
 
-**Parent Topic:**[Entity Based Access](../concept/entity-based-access.md)
+**Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/entity-based-access.md)
 

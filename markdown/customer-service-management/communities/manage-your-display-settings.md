@@ -81,5 +81,5 @@ Visible to users who are following your profile.
 </table>5.  Click **Save Settings**.
 
 
-**Parent Topic:**[Use a community profile](community-profile.md)
+**Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 

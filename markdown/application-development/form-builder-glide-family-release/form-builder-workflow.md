@@ -35,7 +35,7 @@ Choosing a table or form to work with
 
 </td><td>
 
-To choose a data table or form to work with, launch Table Builder as instructed in [Accessing Table Builder](accessing-form-builder.md) and choose the table or form to work with.
+To choose a data table or form to work with, launch Table Builder as instructed in [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/accessing-form-builder.md) and choose the table or form to work with.
 
  **Note:** While using Table Builder in App Engine Studio, the table selected here is chosen when you click on a table in your app. However, if Table Builder is launched from UI Builder, you can choose a new table to work with from the drop-down list that displays the name of your currently selected table.
 
@@ -49,7 +49,7 @@ Select a domain and application scope to work within from Table Builder navigati
 
  **Note:** While using Table Builder in App Engine Studio, the application scope selected is the app you are working in. However, if Table Builder is launched from UI Builder, you can choose an application scope to work with from the drop-down list in the top right side of your screen \(e.g., Global\).
 
- See [Domain separation and Table Builder](form-builder-domain-separation.md) and [Using an application scope with Table Builder](fb-application-scope.md).
+ See [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-domain-separation.md) and [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/fb-application-scope.md).
 
 </td></tr><tr><td>
 
@@ -59,7 +59,7 @@ Modifying table properties
 
 Select **Data** tab to edit table properties directly.
 
- For more information, see [Data in Table Builder](table-builder.md).
+ For more information, see [Data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/table-builder.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Customizing form views
 
 Select **Forms** tab to create and customize new views or configure the form elements for a selected view.
 
- For more information, see [Forms in Table Builder](form-view-configuration.md).
+ For more information, see [Forms in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-view-configuration.md).
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Configuring policies and rules
 
 Select **Policies and rules** tab to configure and control how data is displayed for your form views.
 
- For more information, see [Policies and rules in Table Builder](form-builder-policies-rules.md#).
+ For more information, see [Policies and rules in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-builder-policies-rules.md#).
 
 </td></tr><tr><td>
 
@@ -87,11 +87,11 @@ Previewing a form and managing your changes
 
 </td><td>
 
-At any point in the process, you can preview the changes you've made by selecting **Preview**. For more information, see [Preview your form](../task/preview-your-form.md).
+At any point in the process, you can preview the changes you've made by selecting **Preview**. For more information, see [Preview your form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../task/preview-your-form.md).
 
  Save your form view changes at any point in the process by clicking **Save**. Your form view is ready and can be accessed by other applications in the ServiceNow AI Platform.
 
-**Note:** To undo \(![Undo icon.](../image/fb-undo-icon.png)\) or reapply \(![Redo icon.](../image/fb-redo-icon.png)\) changes you make, select the Undo or Redo icons at the top of your screen.
+**Note:** To undo \(![Undo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-undo-icon.png)\) or reapply \(![Redo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-redo-icon.png)\) changes you make, select the Undo or Redo icons at the top of your screen.
 
 </td></tr></tbody>
 </table>## Navigational elements
@@ -108,7 +108,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Table selection list \(![Table selection list.](../image/fb-tableselection-icon.png)\)
+Table selection list \(![Table selection list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-tableselection-icon.png)\)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Choose an option to customize the policies and rules, table properties, fields, 
 
 Select domain list
 
- \(![Domain selection list.](../image/fb-domain-icon.png)\)
+ \(![Domain selection list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-domain-icon.png)\)
 
 </td><td>
 
@@ -126,7 +126,7 @@ Choose an option to customize the policies and rules, table properties, fields, 
 
 </td></tr><tr><td>
 
-Select scope list \(![Application scope selection list.](../image/fb-app-scope-icon.png)\)
+Select scope list \(![Application scope selection list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-app-scope-icon.png)\)
 
 </td><td>
 
@@ -134,17 +134,17 @@ Choose an option to customize the policies and rules, table properties, fields, 
 
 </td></tr><tr><td>
 
-Undo \(![Undo icon.](../image/fb-undo-icon.png)\)
+Undo \(![Undo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-undo-icon.png)\)
 
- Redo \( ![Redo icon.](../image/fb-redo-icon.png)\)
+ Redo \( ![Redo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-redo-icon.png)\)
 
 </td><td>
 
-Select the undo \(![Undo icon.](../image/fb-undo-icon.png)\) or redo \(![Redo icon.](../image/fb-redo-icon.png)\) icons in the navigation bar to revert to a previous editing state.
+Select the undo \(![Undo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-undo-icon.png)\) or redo \(![Redo icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-redo-icon.png)\) icons in the navigation bar to revert to a previous editing state.
 
 </td></tr><tr><td>
 
-Advanced table properties menu \(![Advanced table properties menu.](../image/fb-advancedtable-icon.png)\)
+Advanced table properties menu \(![Advanced table properties menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-advancedtable-icon.png)\)
 
 </td><td>
 
@@ -160,15 +160,15 @@ Choose an option:
 
 Preview
 
- \(![Preview icon.](../image/fb-preview-icon.png)\)
+ \(![Preview icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/fb-preview-icon.png)\)
 
 </td><td>
 
-Select **Preview** to review the selected form as how it is displayed in the ServiceNow AI Platform. For more information on previewing, see [Preview your form](../task/preview-your-form.md).
+Select **Preview** to review the selected form as how it is displayed in the ServiceNow AI Platform. For more information on previewing, see [Preview your form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../task/preview-your-form.md).
 
 </td></tr><tr><td>
 
-Save \(![Save icon.](../image/form-save-icon.png)\)
+Save \(![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/form-save-icon.png)\)
 
 </td><td>
 
@@ -178,7 +178,7 @@ Select **Save** to commit your changes to your selection.
 
 Search fields and filter options
 
- \(![Search fields and filter options.](../image/icn-search-fields.png)\)
+ \(![Search fields and filter options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-search-fields.png)\)
 
 </td><td>
 
@@ -188,12 +188,12 @@ Use the search box to filter the list of field columns by keyword or use the **F
 
 PDF extractor
 
- \(![PDF extractor.](../image/icn-pdf-extractor.png)\)
+ \(![PDF extractor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-pdf-extractor.png)\)
 
 </td><td>
 
-If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](../../../build/app-engine-studio/concept/pdf-extractor.md#).
+If a PDF is associated with the selected data table, select this element to launch the PDF extractor tool and view the PDF. See [Use a PDF to create data tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/pdf-extractor.md#).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Table Builder](exploring-fb.md)
+</table>**Parent Topic:**[Exploring Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/exploring-fb.md)
 

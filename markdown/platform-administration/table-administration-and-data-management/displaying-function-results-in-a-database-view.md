@@ -19,19 +19,19 @@ Function fields perform common database transformations and calculations on fiel
 
 For example, you could identify incidents with ineffective descriptions of fewer than 10 characters by adding a function field that calculates the length of the **Short description** field.
 
--   **[Create a function field to perform a database function](create-a-function-field-to-perform-a-database-function.md)**  
+-   **[Create a function field to perform a database function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-a-function-field-to-perform-a-database-function.md)**  
 Create a function field that displays the results of a database function, such as a mathematical operation, field length computation, or day of the week calculation.
--   **[Display function results in a database view](display-function-results-in-a-database-view.md)**  
+-   **[Display function results in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/display-function-results-in-a-database-view.md)**  
 Add a function field to the output of a database view to see function results.
 
-**Parent Topic:**[Working with database views for reporting](../concept/c_DatabaseViews.md)
+**Parent Topic:**[Working with database views for reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DatabaseViews.md)
 
 **Related topics**  
 
 
-[Joining tables using database views](c_CreatingDatabaseViews.md)
+[Joining tables using database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_CreatingDatabaseViews.md)
 
-[Using disjunctions in complex queries](../concept/c_UseDisjunctionsInComplexQueries.md)
+[Using disjunctions in complex queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_UseDisjunctionsInComplexQueries.md)
 
-[Database views in the base system](../reference/r_DatabaseViewsInTheBaseSystem.md)
+[Database views in the base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_DatabaseViewsInTheBaseSystem.md)
 

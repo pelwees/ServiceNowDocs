@@ -29,7 +29,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 2.  Open the required epic.
 
-3.  Click the hamburger icon \(![Hamburger icon](../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
+3.  Click the hamburger icon \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
 
 4.  On the form, fill in the required fields in the Planning section.
 
@@ -280,10 +280,10 @@ Actual benefit value that is rolled up from the actual benefit in the non-moneta
 ## What to do next
 
 -   On the Benefit Plan form, view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
--   [Associate monetary and non-monetary benefit plans](associate-benefit-plans-safe-epic.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
+-   [Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/associate-benefit-plans-safe-epic.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
 
--   **[Update a non-monetary benefit plan breakdown for an epic](update-non-monetary-benefit-plan-breakdown-safe-epic.md)**  
+-   **[Update a non-monetary benefit plan breakdown for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/update-non-monetary-benefit-plan-breakdown-safe-epic.md)**  
 Update a non-monetary benefit plan breakdown record that specifies the estimated and actual benefits, at a granular level, for specific fiscal periods.
 
-**Parent Topic:**[Define an epic in SAFe](create-SAFeepic.md)
+**Parent Topic:**[Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md)
 

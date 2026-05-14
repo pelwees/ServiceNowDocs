@@ -27,9 +27,9 @@ Integrate the ServiceNow instance with the Ethoca account in the Consumer Clarit
 
 Follow these steps:
 
--   [Attach a Ethoca certificate](set-up-ethoca-spoke.md#)
--   [Create credential records](set-up-ethoca-spoke.md#)
--   [Create connection records](set-up-ethoca-spoke.md#)
+-   [Attach a Ethoca certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ethoca-spoke.md#)
+-   [Create credential records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ethoca-spoke.md#)
+-   [Create connection records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ethoca-spoke.md#)
 
 ### Attach a Ethoca certificate
 
@@ -58,7 +58,7 @@ Use the certificate generated during the Ethoca account configuration to sign th
     |Active|Option to make the client certificate active.|
     |Short description|Short description of the user client certificate.|
 
-4.  Click the manage attachments icon \(![Manage attachments icon.](../image/attachments-icon.png)\) and attach a Ethoca certificate.
+4.  Click the manage attachments icon \(![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach a Ethoca certificate.
 
 5.  Click **Validate Stores/Certificates** to validate the certificate.
 
@@ -187,8 +187,8 @@ Integrate the ServiceNow instance with the Ethoca account in the Issuer Alerts M
 
 Follow these steps:
 
--   [Create basic auth credentials](set-up-ethoca-spoke.md#)
--   [Create connection records](set-up-ethoca-spoke.md#)
+-   [Create basic auth credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ethoca-spoke.md#)
+-   [Create connection records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ethoca-spoke.md#)
 
 ### Create basic auth credentials
 

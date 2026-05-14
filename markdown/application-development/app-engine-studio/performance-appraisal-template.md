@@ -17,7 +17,7 @@ Build an application in App Engine Studio \(AES\) using the Performance Review t
 
 To use the Performance Review template, install this application from the ServiceNow Store.
 
-![Performance Review template](../image/template-performance-review.png)
+![Performance Review template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/template-performance-review.png)
 
 A performance review app automates the process of scheduling annual or quarterly reviews, reviewing employee performance, and providing manager feedback. The app displays report information by default and lets managers view, update, and request employee performance reviews.
 
@@ -39,9 +39,9 @@ You can improve this template by incorporating the following features:
 -   Add performance improvement plan \(PIP\) process/individual development plans
 -   Include compensation info/annual performance review \(APR\)
 
-For more information on creating an application using a template, see [Create your app using an application template](../task/use-app-template.md).
+For more information on creating an application using a template, see [Create your app using an application template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/use-app-template.md).
 
-**Parent Topic:**[Available templates](template-library.md)
+**Parent Topic:**[Available templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/template-library.md)
 
 ## Performance Review template contents
 

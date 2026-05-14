@@ -40,5 +40,5 @@ You can create extension points to process the custom code that uses the followi
 
 For more information about extension points, see [Using extension points to extend application functionality](https://www.servicenow.com/docs/bundle/australia-api-reference/page/build/applications/concept/extension-points.html).
 
-**Parent Topic:**[Recommendation contexts and templates](recommendation-contexts.md)
+**Parent Topic:**[Recommendation contexts and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md)
 

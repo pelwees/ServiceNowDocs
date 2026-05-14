@@ -41,7 +41,7 @@ When the generative AI experience is configured for catalog item request submiss
 
 ## Procedure
 
-1.  To configure the Now Assist for Virtual Agent application that installs the Now Assist in Conversational Catalog Request application, see [Configuring assistants overview](configure-now-assist-va.md).
+1.  To configure the Now Assist for Virtual Agent application that installs the Now Assist in Conversational Catalog Request application, see [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
     With this configuration, the **sn\_now\_assist\_cr.llm.conversational.request.question.limit** system property value is set to 500 by default if that property wasn't edited earlier.
 
@@ -114,11 +114,11 @@ Description
 
 
 </td></tr></tbody>
-</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [Configure URL navigation for chat links](../../conversational-interfaces/task/ac-configure-url-navigation.md).
+</table>4.  Configure URL navigation settings to specify where the generated ticket link in the Virtual Agent chat opens, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../conversational-interfaces/task/ac-configure-url-navigation.md).
 
-    For information about URL navigation in Virtual Agent, see [URL navigation in Conversational Interfaces](../../conversational-interfaces/concept/url-navigation-ci.md). For information about Virtual Agent scripts, see [Virtual Agent scripts](../../virtual-agent/concept/virtual-agent-scripts.md).
+    For information about URL navigation in Virtual Agent, see [URL navigation in Conversational Interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../conversational-interfaces/concept/url-navigation-ci.md). For information about Virtual Agent scripts, see [Virtual Agent scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../../virtual-agent/concept/virtual-agent-scripts.md).
 
-    ![Generated ticket link in the Virtual Agent chat](../image/va-link-cat-item.png "Generated ticket link in the Virtual Agent chat")
+    ![Generated ticket link in the Virtual Agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/va-link-cat-item.png "Generated ticket link in the Virtual Agent chat")
 
 
 **Related topics**  

@@ -15,5 +15,5 @@ breadcrumb: [Use for consumers, Service Exchange for Consumers, Service Exchange
 
 The Scratchpad feature facilitates exchange of data between provider and consumer instances while performing Service Exchange tasks.
 
-Both providers and consumers can add, update, and remove information to and from the Scratchpad table. See [Using the Scratchpad for Service Exchange tasks](service-bridge-v2-scratchpad.md) for detailed information on how to use the Scratchpad feature.
+Both providers and consumers can add, update, and remove information to and from the Scratchpad table. See [Using the Scratchpad for Service Exchange tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-scratchpad.md) for detailed information on how to use the Scratchpad feature.
 

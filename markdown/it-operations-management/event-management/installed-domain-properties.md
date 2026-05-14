@@ -62,5 +62,5 @@ Field that provides the domain path.-   **Type**: string
 -   **Default value**: sys\_domain\_path
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

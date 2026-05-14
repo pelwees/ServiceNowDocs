@@ -29,7 +29,7 @@ The **Results** tab brings together the outcome and all associated records for a
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  In the **Audits** list, select **All** and select the audit.
 
@@ -65,5 +65,5 @@ The **Results** tab brings together the outcome and all associated records for a
 -   The audit result is recorded and all related records are visible in a single view.
 -   If a comparison was applied, you can see how findings, observations, actions, and risk assessments have changed across audit iterations. For example, a finding that was non-compliant in a previous audit may now appear as compliant, confirming that the issue was resolved.
 
-**Parent Topic:**[Create and manage a safety audit](hs-create-manage-safety-audit-workspace.md)
+**Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 

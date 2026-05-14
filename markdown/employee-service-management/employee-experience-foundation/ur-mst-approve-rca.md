@@ -42,7 +42,7 @@ RCA privileges define cross-scope access to an application, an event, or an appl
 
 ## Result
 
-The RCA is approved. The records get updated as shown in the following figure. The **Application** column and the **Target Scope** column now have the same values, and the **Status** column changes to **Allowed**.![Universal Request integration with MS Teams RCA approval.](../images/ur-mst-rca-result.png)
+The RCA is approved. The records get updated as shown in the following figure. The **Application** column and the **Target Scope** column now have the same values, and the **Status** column changes to **Allowed**.![Universal Request integration with MS Teams RCA approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ur-mst-rca-result.png)
 
-**Parent Topic:**[Install Universal Request integration with Microsoft Teams application](install-ur-ms-teams-app.md)
+**Parent Topic:**[Install Universal Request integration with Microsoft Teams application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ur-ms-teams-app.md)
 

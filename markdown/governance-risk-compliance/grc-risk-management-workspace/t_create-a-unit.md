@@ -39,5 +39,5 @@ Role required: sn\_grc\_metric.manager, sn\_risk.user and sn\_compliance.user.
 
 The metric unit is saved in the Units list.
 
-**Parent Topic:**[Configuring metrics](../concept/configuring-irm-metrics.md)
+**Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/configuring-irm-metrics.md)
 

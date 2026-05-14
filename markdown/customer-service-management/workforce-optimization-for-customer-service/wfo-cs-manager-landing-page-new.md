@@ -15,7 +15,7 @@ breadcrumb: [Use, Workforce Optimization for Customer Service, Customer Service 
 
 Monitor your teams' work and organizational performance using Workforce Optimization for Customer Service.
 
-![Manager Workspace landing page and widgets](../../../product/workforce-optimization-for-customer-service-configurable/image/manager-workspace-landing-page.png "Manager Workspace landing page")
+![Manager Workspace landing page and widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../product/workforce-optimization-for-customer-service-configurable/image/manager-workspace-landing-page.png "Manager Workspace landing page")
 
 ## End user and roles
 
@@ -62,5 +62,5 @@ Monitor your agent's work at the start of your day, act on urgent alerts, assess
 |Top skills in 24 hrs|Bar|Highlights of agent skills in demand.|
 |Team's performance|Presentation list|Assessment of individual agent effectiveness using key metrics like Adherence and CSAT.|
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](../../../product/workforce-optimization-for-customer-service-configurable/concept/use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../product/workforce-optimization-for-customer-service-configurable/concept/use-configurable-wfo-cs.md)
 

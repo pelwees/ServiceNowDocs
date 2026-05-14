@@ -45,5 +45,5 @@ The following table describes the model categories available for Operational Tec
 |OT Supervisory OPC|OPC Client \[cmdb\_ci\_ot\_opc\_client\]|
 |OT Supervisory SCADA|cmdb\_ci\_ot\_scada\_client|
 
-**Parent Topic:**[Operational Technology Manager reference](operational-technology-manager-reference.md)
+**Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 

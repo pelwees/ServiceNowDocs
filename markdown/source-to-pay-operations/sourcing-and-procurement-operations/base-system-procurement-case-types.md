@@ -223,22 +223,22 @@ Obtain a copy of an existing supplier contract for reference.
 Employee submits the **Request a copy of contract** catalog item in the Service Catalog or Employee Center. The system links the case to the relevant contract record and populates the case description with the contract number.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing and Procurement Operations reference](spo-reference.md)
+</table>**Parent Topic:**[Sourcing and Procurement Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-reference.md)
 
 **Related topics**  
 
 
-[Create New Pipeline Project form](create-pipeline-project-form.md)
+[Create New Pipeline Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-pipeline-project-form.md)
 
-[Pipeline project record tabs and UI actions](pipeline-form-tabs-actions.md)
+[Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-form-tabs-actions.md)
 
-[Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-glossary.md#)
 
-[Procurement case types](../concept/procurement-case-types.md)
+[Procurement case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/procurement-case-types.md)
 

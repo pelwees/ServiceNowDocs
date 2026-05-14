@@ -17,5 +17,5 @@ The DevOps Change Velocity APIs provides endpoints that enable the interaction w
 
 For more information, see [DevOps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/devops-api.md).
 
-**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 

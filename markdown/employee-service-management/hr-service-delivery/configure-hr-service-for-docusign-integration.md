@@ -21,7 +21,7 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured HR services, flows, and HR case templates are available for your use and example. See [HR services](../concept/hr-service-administration.md) to learn more about HR service configuration, generally.
+Depending on whether the user is signing an ad hoc document \(HR PDF document template\) or a DocuSign template, the following preconfigured HR services, flows, and HR case templates are available for your use and example. See [HR services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-service-administration.md) to learn more about HR service configuration, generally.
 
 |Flow|Component|Name|
 |----|---------|----|
@@ -53,9 +53,9 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
 
     4.  Fill in the other fields on the form, as appropriate.
 
-        For further details on creating an HR service, see [Configure an HR service](configure-hr-service.md).
+        For further details on creating an HR service, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
-        **Note:** In the HR Service Additional Information related list, make sure that the **PDF Template** field is included so that it appears on the HR case form when a request for this service is made. See [Configure the HR case form for an HR service](configure-case-form-for-hr-service.md#) for more information.
+        **Note:** In the HR Service Additional Information related list, make sure that the **PDF Template** field is included so that it appears on the HR case form when a request for this service is made. See [Configure the HR case form for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-form-for-hr-service.md#) for more information.
 
     5.  Right-click the form header and click **Save**.
 
@@ -75,12 +75,12 @@ Depending on whether the user is signing an ad hoc document \(HR PDF document te
         -   For the DocuSign template flow, make sure to select an HR PDF document template with the **Template type** field set to `DocuSign Templates`.
     5.  Fill in the other fields on the form, as appropriate.
 
-        For further details on creating an HR case template, see [Configure an HR case template](configure-hr-case-template.md).
+        For further details on creating an HR case template, see [Configure an HR case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-case-template.md).
 
     6.  Click **Submit**.
 
     7.  On the HR service form, click **Update**.
 
 
-**Parent Topic:**[Integrating with the DocuSign service](../concept/docusign-integration-for-hr.md)
+**Parent Topic:**[Integrating with the DocuSign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/docusign-integration-for-hr.md)
 

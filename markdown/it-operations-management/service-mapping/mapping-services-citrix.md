@@ -146,7 +146,7 @@ Top-down
 Citrix Application Icon Path
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+</table>**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_DefineNewBusinessService.md)
 
 ## Map application services containing Citrix XenApp and Presentation Server
 
@@ -212,7 +212,7 @@ Role required: service\_mapping\_admin
 
     2.  Review the application service map and make sure that it resembles in the following example.
 
-        ![Check the result of mapping an application service containing the XenApp Servers and other environment components.](../image/Citrix-XenApp-top-down-map.png)
+        ![Check the result of mapping an application service containing the XenApp Servers and other environment components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/Citrix-XenApp-top-down-map.png)
 
 
 If the mapping result is not as you expected, perform basic troubleshooting.

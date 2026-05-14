@@ -31,11 +31,11 @@ You can connect to Bitbucket Cloud using one of the following authentication met
     -   Projects: Read
     -   Webhooks: Read and write
     -   Pull requests: Read
-    ![Permissions for Bitbucket basic auth](../image/bitbucket-oauth-permissions.png)
+    ![Permissions for Bitbucket basic auth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-permissions.png)
 
 -   **OAuth 2.0 - Authorization Code**
 
-    You must create the OAuth consumer in the Bitbucket tool with the required permissions before creating the OAuth record for Authorization Code. You can navigate to **Workspace settings &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. ![OAuth consumer page](../image/bitbucket-oauth-consumer.png) Select the following permissions for the OAuth consumer.
+    You must create the OAuth consumer in the Bitbucket tool with the required permissions before creating the OAuth record for Authorization Code. You can navigate to **Workspace settings &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. ![OAuth consumer page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-consumer.png) Select the following permissions for the OAuth consumer.
 
     -   Account: Read
     -   Projects: Read
@@ -47,15 +47,15 @@ You can connect to Bitbucket Cloud using one of the following authentication met
     https://<instanceurl>/oauth_redirect.do
     ```
 
-    ![Permissions for Bitbucket OAuth 2.0 - Authorization Code](../image/bitbucket-oauth-permissions-auth-code.png)
+    ![Permissions for Bitbucket OAuth 2.0 - Authorization Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-permissions-auth-code.png)
 
-    You can create an OAuth 2.0 - Authorization Code credential by performing the steps specified in the [Set up OAuth 2.0 Authorization Code for Bitbucket Cloud](../task/set-up-oauth-2-0-authorization-code.md) procedure.
+    You can create an OAuth 2.0 - Authorization Code credential by performing the steps specified in the [Set up OAuth 2.0 Authorization Code for Bitbucket Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/set-up-oauth-2-0-authorization-code.md) procedure.
 
     **Note:** When you select the credential type as Oauth 2.0 - Authorization Code for Bitbucket Cloud, the repositories for all the workspaces are discovered. This is a limitation from Bitbucket side
 
 -   **OAuth 2.0 - Client Credentials**
 
-    You must create the OAuth consumer in the Bitbucket tool with the required permissions before creating the OAuth record for Client Credentials. You can navigate to **Workspace settings &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. ![OAuth consumer page](../image/bitbucket-oauth-consumer.png) Select the following permissions for the OAuth consumer.
+    You must create the OAuth consumer in the Bitbucket tool with the required permissions before creating the OAuth record for Client Credentials. You can navigate to **Workspace settings &gt; OAuth consumers &gt; Add consumer** in Bitbucket to add the OAuth consumer. ![OAuth consumer page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-consumer.png) Select the following permissions for the OAuth consumer.
 
     -   Account: Read
     -   Projects: Read
@@ -67,9 +67,9 @@ You can connect to Bitbucket Cloud using one of the following authentication met
     https://<instanceurl>/oauth_redirect.do
     ```
 
-    ![Permissions for Bitbucket OAuth 2.0 - Client Credentials](../image/bitbucket-oauth-client-credentials.png)
+    ![Permissions for Bitbucket OAuth 2.0 - Client Credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-client-credentials.png)
 
-    You can create an OAuth 2.0 - Client Credential record in the workspace UI while onboarding the tool. You need the **Client Id** and **Client secret** values of your Bitbucket workspace. Client ID of your Bitbucket tool is available in the OAuth consumers section of your workspace settings \(**Workspace settings &gt; OAuth consumers &gt; Add consumer**\) in the **Key** field. Client secret of your Bitbucket tool is available in the OAuth consumers section of your workspace settings \(**Workspace settings &gt; OAuth consumers &gt; Add consumer**\) in the **Secret** field. ![OAuth consumer page](../image/bitbucket-oauth-consumer.png)
+    You can create an OAuth 2.0 - Client Credential record in the workspace UI while onboarding the tool. You need the **Client Id** and **Client secret** values of your Bitbucket workspace. Client ID of your Bitbucket tool is available in the OAuth consumers section of your workspace settings \(**Workspace settings &gt; OAuth consumers &gt; Add consumer**\) in the **Key** field. Client secret of your Bitbucket tool is available in the OAuth consumers section of your workspace settings \(**Workspace settings &gt; OAuth consumers &gt; Add consumer**\) in the **Secret** field. ![OAuth consumer page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-oauth-consumer.png)
 
 -   **Access Token**
 
@@ -79,7 +79,7 @@ You can connect to Bitbucket Cloud using one of the following authentication met
     -   Projects: Read
     -   Webhooks: Read and write
     -   Pull requests: Read
-    ![Create Access Token in Bitbucket](../image/bitbucket-access-token.png)
+    ![Create Access Token in Bitbucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/bitbucket-access-token.png)
 
     You also need the workspace ID of your Bitbucket workspace. Copy it from the **Workspace ID** field in the Workspace settings of your Bitbucket Cloud account.
 
@@ -88,12 +88,12 @@ You can connect to Bitbucket Cloud using one of the following authentication met
 
 Use one of the following options to onboard Bitbucket. For a guided experience, use the workspace to onboard a tool. Alternatively, you can use the Service Catalog or Classic experience.
 
--   **[Onboard Bitbucket to DevOps Change Velocity — Workspace](../task/devops-wkspc-bitbucket-tool-conn.md)**  
+-   **[Onboard Bitbucket to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/devops-wkspc-bitbucket-tool-conn.md)**  
 Create, connect, discover, and configure your Bitbucket instance using the DevOps Change Velocity workspace.
--   **[Onboard Bitbucket to DevOps Change Velocity — Service Catalog](../task/sc-bitbucket.md)**  
+-   **[Onboard Bitbucket to DevOps Change Velocity — Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/sc-bitbucket.md)**  
 Create, connect, discover, and configure your Bitbucket instance using the ServiceNow Service Catalog.
--   **[Onboard Bitbucket to DevOps Change Velocity — Classic](../task/onboard-bitbucket-to-devops-change-velocity-classic.md)**  
+-   **[Onboard Bitbucket to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/onboard-bitbucket-to-devops-change-velocity-classic.md)**  
 Create, connect, discover, and configure your Bitbucket instance using the Classic UI.
 
-**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)
+**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 

@@ -18,11 +18,11 @@ ServiceNow workflows provide automated sequences of tasks that your applications
 
 <table id="table_cry_rvq_pvb" class="nav-card"><tbody><tr><td>
 
-[Build applications ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Build new applications with low-code development tools. Turn business processes into digital workflows to deliver faster, smarter experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md)
+[Build applications ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/hyperautomation-low-code/../../../reuse/icons/brand-icons/bus-application-development.svg) Build new applications with low-code development tools. Turn business processes into digital workflows to deliver faster, smarter experiences.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md)
 
 </td><td>
 
-[Build workflows ![](../../../reuse/icons/brand-icons/bus-workflow.svg) Modernize legacy processes and extend workflow automation across the enterprise.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows.md)
+[Build workflows ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/hyperautomation-low-code/../../../reuse/icons/brand-icons/bus-workflow.svg) Modernize legacy processes and extend workflow automation across the enterprise.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows.md)
 
 </td></tr></tbody>
 </table>## App Engine products and features

@@ -42,5 +42,5 @@ User: owner
 4.  In the **Actions on selected rows** drop-down menu, select **Remove**.
 
 
-**Parent Topic:**[Document references](../concept/doc-mgt-references.md)
+**Parent Topic:**[Document references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-mgt-references.md)
 

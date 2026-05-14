@@ -30,7 +30,7 @@ Customer service agents can browse the catalog and make a selection to create a 
 
 2.  To create a request, do one of the following.
 
-    -   CSM Configurable Workspace: Click the More UI Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Request**.
+    -   CSM Configurable Workspace: Click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Request**.
     -   Platform interface: Click the form context menu icon and select **Create Request**.
 3.  Select an item or a service from the catalog to display the item page.
 

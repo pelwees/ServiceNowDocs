@@ -48,5 +48,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+**Parent Topic:**[Integration with Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../concept/incident-for-fsm.md)
 

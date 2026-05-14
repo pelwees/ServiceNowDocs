@@ -27,7 +27,7 @@ You can associate a change request to a phase only once, although it can be adde
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\).
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\).
 
 3.  Select a release from the list to open.
 
@@ -57,7 +57,7 @@ Steps
 2.  Select a Change request model and then select **Next**.
 3.  Fill in the details in the Change Request form and select **Save**.
 
-For more information, see [Create a change request](../../change-management/task/t_CreateAChange.md).
+For more information, see [Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../../change-management/task/t_CreateAChange.md).
 
  The new change request is created and added to theselected phase. The **Software model** field in the change request is filled with the version of the release.
 
@@ -96,5 +96,5 @@ All existing change requests that have the **Software model** field empty are li
 -   If the change request is associated with a single phase, the **Attached to phases** in the header section of the Change Request record shows the name of that phase. Select the link to open the phase.
 -   If the change request is associated with more than one phase of the release, the **Attached to phases** shows the count of those phases. Select the link to open the list of those phases.
 
-**Parent Topic:**[Manage releases for digital products and services](dpr-manage-releases.md)
+**Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 

@@ -28,5 +28,5 @@ Role required: none
 3.  In the **Actions** choice list, select **Follow on Live Feed**.
 
 
-**Parent Topic:**[Working with record feeds](../concept/c_WorkingWithRecordFeeds.md)
+**Parent Topic:**[Working with record feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_WorkingWithRecordFeeds.md)
 

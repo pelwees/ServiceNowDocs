@@ -103,38 +103,38 @@ Ledger account
 Ledger account that incurs the cost of the allocated transaction amount.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Accounts Payable Operations reference](acc-pay-reference.md)
+</table>**Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
 **Related topics**  
 
 
-[Accounts Payable Operations properties](acc-pay-properties.md)
+[Accounts Payable Operations properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-properties.md)
 
-[Create New Invoice Line form](create-invoice-line-form.md)
+[Create New Invoice Line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 
-[Outbound cost allocation staging table](outbound-cost-allocation-table.md)
+[Outbound cost allocation staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-cost-allocation-table.md)
 
-[Distribution set form](distribution-set-form.md)
+[Distribution set form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/distribution-set-form.md)
 
-[Create New Invoice case form](create-new-ap-case-form.md)
+[Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 
-[Create New Invoice task form](create-apm-task-form.md)
+[Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task-form.md)
 
-[Invoice processing case form](invoice-processing-case-form.md)
+[Invoice processing case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-[Tax lines](create-tax-lines-apo.md)
+[Tax lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 
-[Invoice exception form](exception-form-fields.md)
+[Invoice exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 
-[Request Help form](ur-request-help-form.md)
+[Request Help form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ur-request-help-form.md)
 
-[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-[Invoice exception definition form](invoice-exception-definition-form.md)
+[Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md)
 
-[Approval Rule form](new-approval-rule-form.md)
+[Approval Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/new-approval-rule-form.md)
 
-[Approval Plan form](approval-plan-form.md)
+[Approval Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/apo-glossary.md#)
 

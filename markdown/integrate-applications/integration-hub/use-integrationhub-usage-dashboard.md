@@ -23,11 +23,11 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
 
 1.  To access the dashboard, navigate to **All** &gt; **IntegrationHub** &gt; **IntegrationHub Usage**.
 
-    **Tip:** Get quicker access by entering **Integrationhub usage** in the filter search field ![Filter search field.](../images/filter-search.png).
+    **Tip:** Get quicker access by entering **Integrationhub usage** in the filter search field ![Filter search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/filter-search.png).
 
 2.  To view the reports, select **Spokes** or **Protocols &amp; Features** in the **View by** list.
 
-    ![View reports.](../images/ihub-dashboard-view-reports.png)
+    ![View reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ihub-dashboard-view-reports.png)
 
     **Note:** There’s no order in which you must view the reports, set the filters, or customize the columns in the report tables. So, you can complete one or more of the following steps in any order. The Transactions tab is selected by default.
 
@@ -37,13 +37,13 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
 
     1.  Drill down the report.
 
-    2.  In the desired column, move the mouse device to the row that contains the parameter and click the group transactions by parameter icon \(![Group transactions by parameter icon.](../images/group-by-icon.png)\) for the parameter under which you want to group the transactions.
+    2.  In the desired column, move the mouse device to the row that contains the parameter and click the group transactions by parameter icon \(![Group transactions by parameter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/group-by-icon.png)\) for the parameter under which you want to group the transactions.
 
     3.  Click **Show Matching**.
 
         Alternatively, you can view the following animation by opening this topic on a browser.
 
-        ![Group transactions by parameter.](../images/group-by.gif "Group transactions by a parameter")
+        ![Group transactions by parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/group-by.gif "Group transactions by a parameter")
 
 5.  To hide or reveal the slices in a pie chart, do the following actions:
 
@@ -55,23 +55,23 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
 
     Alternatively, you can view the following animation by opening this topic on a browser.
 
-    ![Hide or reveal pie chart slices.](../images/hide-reveal-pie-slices.gif "Hide or reveal pie chart slices")
+    ![Hide or reveal pie chart slices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/hide-reveal-pie-slices.gif "Hide or reveal pie chart slices")
 
 6.  To customize the columns in the report table, do the following actions:
 
     1.  Drill down the report.
 
-    2.  Click the column settings icon \(![Column settings icon.](../images/column-settings-icon.png)\).
+    2.  Click the column settings icon \(![Column settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/column-settings-icon.png)\).
 
     3.  Click **Edit columns**.
 
     4.  In the Available columns section, click the column name.
 
-    5.  To include a column, click the include column icon \(![Include column icon.](../images/include-column.png)\).
+    5.  To include a column, click the include column icon \(![Include column icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/include-column.png)\).
 
-    6.  To exclude a column from the table, in the Selected columns section, click the remove column icon \(![Remove column icon.](../images/remove-column.png)\).
+    6.  To exclude a column from the table, in the Selected columns section, click the remove column icon \(![Remove column icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/remove-column.png)\).
 
-    7.  To change the positions of the columns in the report table, in the Selected columns section, click and drag the drag column icon \( ![Drag column icon.](../images/drag-column.png)\).
+    7.  To change the positions of the columns in the report table, in the Selected columns section, click and drag the drag column icon \( ![Drag column icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/drag-column.png)\).
 
     8.  To apply the changes, click **OK**.
 
@@ -84,13 +84,13 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
         1.  Select the **Caller Scope** or **Spoke** filter.
         2.  Click to select the first value in the Available list.
 
-            ![Select single scope.](../images/ihub-dashboard-sel-scope.png)
+            ![Select single scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ihub-dashboard-sel-scope.png)
 
         3.  Click to select more values.
 
-            ![Select multiple values.](../images/ihub-dashboard-sel-multiple-values.png)
+            ![Select multiple values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ihub-dashboard-sel-multiple-values.png)
 
-    2.  Click the Move selected items to the To be Applied list icon ![Move selected items to the To be Applied list icon.](../images/ihub-dashboard-move-sel-items-icon.png)
+    2.  Click the Move selected items to the To be Applied list icon ![Move selected items to the To be Applied list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ihub-dashboard-move-sel-items-icon.png)
 
     3.  Click **Apply**.
 
@@ -103,5 +103,5 @@ Role required: admin, flow designer, action\_designer, usage\_admin, or flow\_op
     6.  Click **Apply**.
 
 
-**Parent Topic:**[Integration Hub Usage Dashboard](../concept/integrationhub-usage-dashboard.md)
+**Parent Topic:**[Integration Hub Usage Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/integrationhub-usage-dashboard.md)
 

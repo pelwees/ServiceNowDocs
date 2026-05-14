@@ -31,25 +31,25 @@ You can create events even if the timeslot is booked by some other event.
 
 3.  On the New event form, fill the fields.
 
-    For a description of the field names, see [New event form](../reference/new-event-form.md).
+    For a description of the field names, see [New event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/new-event-form.md).
 
-    ![A repeating task](../image/RepeatingTask.png)
+    ![A repeating task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/RepeatingTask.png)
 
     **Note:** Dates in the When and To field should the same.
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_MyCalendar.md)
 
 **Related topics**  
 
 
-[Add events to your calendar](t_AddEventsToYourCalendar.md)
+[Add events to your calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AddEventsToYourCalendar.md)
 
-[View a user calendar](t_ViewAUserCalendar.md)
+[View a user calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_ViewAUserCalendar.md)
 
-[Add events to a user calendar](t_AddEventsToAUserCalendar.md)
+[Add events to a user calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AddEventsToAUserCalendar.md)
 
-[Delete events](t_DeleteEvents.md)
+[Delete events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_DeleteEvents.md)
 

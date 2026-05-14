@@ -110,8 +110,8 @@ Any instructions that you may want to mention.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-    The enterprise asset reclamation request is created. Once the request is created, the enterprise\_asset\_technician role navigates to the Enterprise Asset Workspace to view the reclamation line and complete the tasks. For more details, see [Close an enterprise asset reclamation request](close-enteprise-reclamation-request.md).
+    The enterprise asset reclamation request is created. Once the request is created, the enterprise\_asset\_technician role navigates to the Enterprise Asset Workspace to view the reclamation line and complete the tasks. For more details, see [Close an enterprise asset reclamation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/close-enteprise-reclamation-request.md).
 
 
-**Parent Topic:**[Enterprise asset reclamation](../concept/enterprise-asset-reclamation.md)
+**Parent Topic:**[Enterprise asset reclamation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/enterprise-asset-reclamation.md)
 

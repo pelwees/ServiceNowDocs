@@ -89,5 +89,5 @@ Partner administrator \[sn\_customerservice.partner\_admin\]
 </table>**Related topics**  
 
 
-[Customer Service Portal user roles](r_CustomerServicePortalUserRoles.md)
+[Customer Service Portal user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_CustomerServicePortalUserRoles.md)
 

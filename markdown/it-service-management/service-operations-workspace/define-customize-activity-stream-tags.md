@@ -33,7 +33,7 @@ Role required: admin
 
 5.  Enter the following tag information in the **Value** field to define and customize your tags.
 
-    ![Activity stream prop UX registry record](../image/sow-activity-stream-props-data.png)
+    ![Activity stream prop UX registry record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-activity-stream-props-data.png)
 
     -   Color - Color of the tag.
     -   Icon - Icon type of the tag.
@@ -44,5 +44,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-record-pages-sow-itsm.md)
 

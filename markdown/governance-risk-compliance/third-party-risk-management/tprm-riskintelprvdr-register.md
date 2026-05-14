@@ -40,9 +40,9 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer
 
 You can now specify the services and levels of service that you might later request from the provider.
 
-Services that you have associated with the provider appear in the Risk intelligence provider services related list. To add a service, select **New** in the related list and then follow the instructions in [Set up a risk intelligence provider service](tprm-riskintelprvdr-set-up.md).
+Services that you have associated with the provider appear in the Risk intelligence provider services related list. To add a service, select **New** in the related list and then follow the instructions in [Set up a risk intelligence provider service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-set-up.md).
 
 **Important:** The **Order reports** option on the Risk intelligence provider form must be selected for providers to be available for risk intelligence report requests.
 
-**Parent Topic:**[Integrating scores from risk intelligence providers](../concept/tprm-riskintelprvdr-overview.md)
+**Parent Topic:**[Integrating scores from risk intelligence providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-riskintelprvdr-overview.md)
 

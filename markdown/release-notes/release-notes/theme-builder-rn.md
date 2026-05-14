@@ -112,5 +112,5 @@ Theme Builder is included as a core plugin with the Next Experience application 
     Create, manage, or test AI agents and agentic workflows so that you can create self-executing workflows to help you achieve your business goals.
 
 
-**Parent Topic:**[ServiceNow AI Platform user interface release notes](now-platform-ui-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform user interface release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-ui-rn-landing.md)
 

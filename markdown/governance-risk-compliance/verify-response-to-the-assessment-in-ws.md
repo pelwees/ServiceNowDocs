@@ -42,5 +42,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-Having an approved Importance and impact tolerance assessment completes the workflow. To close an inactive assessment, see [Close the assessment](approve-the-assessment-in-ws.md). Note that closed assessments are considered inactive.
+Having an approved Importance and impact tolerance assessment completes the workflow. To close an inactive assessment, see [Close the assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/approve-the-assessment-in-ws.md). Note that closed assessments are considered inactive.
 

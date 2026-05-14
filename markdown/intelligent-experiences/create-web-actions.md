@@ -15,7 +15,7 @@ Configure and add a desktop action as a tool to an AI agent in AI Agent Studio s
 
 ## Before you begin
 
-Familiarize yourself with adaptive desktop actions. For more information, see [Adaptive desktop actions for web-based tasks](web-agents-overview.md).
+Familiarize yourself with adaptive desktop actions. For more information, see [Adaptive desktop actions for web-based tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/web-agents-overview.md).
 
 Role required: sn\_aia.admin
 
@@ -31,21 +31,21 @@ An AI agent named **Web Automation Agent** and agentic workflow named **Web Auto
 
 2.  Open the AI agent that you want to add a desktop action to.
 
-    For creating an AI agent, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For creating an AI agent, see [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md).
 
 3.  Navigate to the Add tools and information step.
 
 4.  In the **Add tool** drop-down list, select **Desktop action**.
 
-    ![Add tool drop-down showing desktop action as an option.](../image/create-web-tool4.png)
+    ![Add tool drop-down showing desktop action as an option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/create-web-tool4.png)
 
 5.  On the Add a desktop action modal, select the **Click here to create a desktop action** link.
 
-    ![Add web-based desktop actions](../image/create-web-tool5.png)
+    ![Add web-based desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/create-web-tool5.png)
 
 6.  Keep the option **Let AI determine the steps dynamically for web-based tasks** selected.
 
-    ![Add web-based desktop actions](../image/create-web-tool6.png)
+    ![Add web-based desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/create-web-tool6.png)
 
 7.  Select **Continue**
 
@@ -151,5 +151,5 @@ Message to display to users during tool execution.-   In-progress message: Write
 
 ## What to do next
 
-For more information about executing desktop actions, see [Examples of executing desktop actions using AI agents](use-agentic-desktop.md).
+For more information about executing desktop actions, see [Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md).
 

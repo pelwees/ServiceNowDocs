@@ -17,7 +17,7 @@ Export the list view of Collaborative Work Management \(CWM\) Boards to CSV or M
 
 ## Before you begin
 
-[Create a Board in CWM](create-boards-in-cwm.md)
+[Create a Board in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md)
 
 Role required: sn\_cwm.cwm\_user
 
@@ -27,9 +27,9 @@ Role required: sn\_cwm.cwm\_user
 
 2.  From a Space, select the Board that you want to export.
 
-3.  From the Board header, select the More options icon \(![More options icon.](../images/cwm-icon-more-options.png)\), and then select **Export**.
+3.  From the Board header, select the More options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-more-options.png)\), and then select **Export**.
 
-    ![Exporting a Board in CWM.](../images/cwm-board-export-option.png)
+    ![Exporting a Board in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-board-export-option.png)
 
 4.  In the Export dialog, select the Board view that you want to export and the file type.
 
@@ -64,7 +64,7 @@ Description
 </td></tr></tbody>
 </table>5.  Select **Export**.
 
-    ![Export dialog.](../images/cwm-board-export.png)
+    ![Export dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-board-export.png)
 
     **Note:** The exported file doesn't retain the hierarchy of the tasks from the Board and all links, including URLs, references to records and assigned users, are converted to plain text.
 
@@ -73,5 +73,5 @@ Description
 
 The file is downloaded and saved in your local system.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-boards.md)
 

@@ -17,15 +17,15 @@ Create a new table by extending an existing table, and then using a Microsoft Ex
 
 ## Before you begin
 
--   Import a spreadsheet into App Engine Studio. See [Import a spreadsheet](spreadsheet-importing-spreadsheet.md).
+-   Import a spreadsheet into App Engine Studio. See [Import a spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-importing-spreadsheet.md).
 
-Role required: admin, sn\_app\_eng\_studio.user, delegated developer permissions for "Integration" must be present to view data import and mapping options. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: admin, sn\_app\_eng\_studio.user, delegated developer permissions for "Integration" must be present to view data import and mapping options. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
-1.  After you have uploaded your spreadsheet as described in [Import a spreadsheet](spreadsheet-importing-spreadsheet.md), choose where to import your file in the displayed wizard.
+1.  After you have uploaded your spreadsheet as described in [Import a spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-importing-spreadsheet.md), choose where to import your file in the displayed wizard.
 
-    ![Import into a new data table.](../image/aes-spreadsheet-import-data.png "Import into a new data table")
+    ![Import into a new data table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-spreadsheet-import-data.png "Import into a new data table")
 
     1.  Select **A new table**.
 
@@ -71,7 +71,7 @@ Make extensible
 
 </td><td>
 
-Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](../concept/add-data.md#section_ebj_sdb_d5b).
+Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-data.md#section_ebj_sdb_d5b).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
 7.  Control who has access to create, read, write, and delete content from this table by adding new roles and/or defining the desired Create, Read, Write, Delete permissions for existing roles.
 
-    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](../concept/add-security.md) for more information on how security permissions work.
+    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md) for more information on how security permissions work.
 
     **Note:** At least one role must have read access for you to be able to preview the table.
 
@@ -122,7 +122,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
     A screen displays where you can map field columns from your source spreadsheet on the left to field columns in your newly extended target table that you just created on the right.
 
-    ![Map imported fields.](../image/spreadsheet-map-fields.png "Map imported fields")
+    ![Map imported fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/spreadsheet-map-fields.png "Map imported fields")
 
 10. You have the following choices available to you during this step.
 
@@ -148,7 +148,7 @@ Map fields from your import to your target table by dragging data pills represen
 
 </td><td>
 
-Map data by using the pill picker \(![Pill picker.](../../../administer/integrationhub/images/pill-picker-green.png)\) on the right side of the target table. You can enter more than one value in the **Value** column, you can also enter text.
+Map data by using the pill picker \(![Pill picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/integrationhub/images/pill-picker-green.png)\) on the right side of the target table. You can enter more than one value in the **Value** column, you can also enter text.
 
 </td></tr><tr><td id="d48292e430">
 
@@ -156,7 +156,7 @@ Map data by using the pill picker \(![Pill picker.](../../../administer/integrat
 
 </td><td>
 
-Add transform options for each of the individual mapped spreadsheet fields by clicking the FX icon \( ![FX icon.](../../../administer/flow-designer/images/fx-icon.png)\) on the right side pane. For example, you can use the Uppercase transform function to change an input string to all uppercase characters. See [Transform functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/transform-functions.md) for information on how to use these to trim data for your imported spreadsheet fields.
+Add transform options for each of the individual mapped spreadsheet fields by clicking the FX icon \( ![FX icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/flow-designer/images/fx-icon.png)\) on the right side pane. For example, you can use the Uppercase transform function to change an input string to all uppercase characters. See [Transform functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/transform-functions.md) for information on how to use these to trim data for your imported spreadsheet fields.
 
 **Note:** Not all the transform functions available in Flow Designer are available.
 
@@ -178,7 +178,7 @@ Specify fields where the system should check for matching data and, if found, up
 
 </td><td>
 
-Configure behavior for **Choice** and **Reference** field types.1.  Click the gear icon \(![Gear icon.](../../../administer/ui-builder/image/gear-icon.png)\).
+Configure behavior for **Choice** and **Reference** field types.1.  Click the gear icon \(![Gear icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/ui-builder/image/gear-icon.png)\).
 2.  In **Field**, select the field column to match the incoming record value against in the target table.
 3.  In **If no matching record exists then do the following**, specify what to do if that record isn't found in the target table.
     -   **Create a new choice/record:** Creates the choice or record in the target table's matching field column from the data imported for the field.
@@ -197,7 +197,7 @@ Add unmapped field columns from your import to your target table or create new f
 2.  Choose which fields to add to your target table by selecting the checkbox on the left or select **All** to choose all of them.
 3.  You can also perform the following functions:
     -   Edit the **Field Label** for the imported field.
-    -   Edit field properties for the imported field by selecting the **Edit icon** \(![Edit target table field properties.](../image/aes-add-field-edit-properties.png)\).
+    -   Edit field properties for the imported field by selecting the **Edit icon** \(![Edit target table field properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-add-field-edit-properties.png)\).
     -   Create a new field by clicking **Create a new field** in the top right corner of the window.
 4.  Select **Add fields** to add the selected fields to your target table.
 
@@ -207,7 +207,7 @@ Add unmapped field columns from your import to your target table or create new f
 
 12. Convert any remaining worksheets if your file contained multiple worksheet tabs.
 
-    -   **Note:** For each sheet that you want to convert, you will need to select **Convert to table**, and then repeat steps in this procedure or choose a different pathway for the additional worksheet \(see [Create new table from spreadsheet import](spreadsheet-create-new-table.md) or [Modify existing table using spreadsheet import](spreadsheet-import-existing-table.md) for steps\).
+    -   **Note:** For each sheet that you want to convert, you will need to select **Convert to table**, and then repeat steps in this procedure or choose a different pathway for the additional worksheet \(see [Create new table from spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-create-new-table.md) or [Modify existing table using spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-import-existing-table.md) for steps\).
 
     -   If you do not have multiple worksheets, proceed to the next step.
 13. Select **Done** on the summary screen.
@@ -217,7 +217,7 @@ Add unmapped field columns from your import to your target table or create new f
 
 ## What to do next
 
-For more information on editing your data tables in Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+For more information on editing your data tables in Table Builder, see [Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/concept/tb-landing-page.md).
 
-**Parent Topic:**[Use a spreadsheet to add data](upload-multi-sheets.md)
+**Parent Topic:**[Use a spreadsheet to add data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/upload-multi-sheets.md)
 

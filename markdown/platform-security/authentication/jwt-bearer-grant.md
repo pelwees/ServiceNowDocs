@@ -41,7 +41,7 @@ The JWT must be signed using the client’s private key. It must include the fol
 **Related topics**  
 
 
-[JSON Web token grant workflow](using-json-web-token-grant.md)
+[JSON Web token grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/using-json-web-token-grant.md)
 
-[Configure an OAuth JSON web token bearer grant](configure-an-oauth-jwt-bearer-grant.md)
+[Configure an OAuth JSON web token bearer grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-an-oauth-jwt-bearer-grant.md)
 

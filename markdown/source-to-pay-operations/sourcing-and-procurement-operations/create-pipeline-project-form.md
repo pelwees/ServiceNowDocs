@@ -260,20 +260,20 @@ Previous record ID
 The unique identifier of the previous related project or sourcing record, used for reference.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing and Procurement Operations reference](spo-reference.md)
+</table>**Parent Topic:**[Sourcing and Procurement Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-reference.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](base-system-procurement-case-types.md)
+[Base system procurement case type reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/base-system-procurement-case-types.md)
 
-[Pipeline project record tabs and UI actions](pipeline-form-tabs-actions.md)
+[Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-form-tabs-actions.md)
 
-[Purchase requisition, purchase order, and sourcing request states](pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/itam-spo-data-model.md)
 
-[Domain separation and Sourcing and Procurement Operations](../concept/psm-domain-separation.md)
+[Domain separation and Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/psm-domain-separation.md)
 
-[Sourcing and Procurement Operations glossary](../concept/spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-glossary.md#)
 

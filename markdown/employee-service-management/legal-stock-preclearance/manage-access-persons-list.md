@@ -37,7 +37,7 @@ Role required: sn\_lg\_stock\_cp.stock\_config
 
 3.  To modify a user's information in the Access Persons list,
 
-    1.  Click the preview icon \(![Preview icon](../../workplace-case-mgmt/image/preview-icon.png)\) and click **Open Record**.
+    1.  Click the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../../workplace-case-mgmt/image/preview-icon.png)\) and click **Open Record**.
 
     2.  On the form, update the fields.
 
@@ -51,5 +51,5 @@ Role required: sn\_lg\_stock\_cp.stock\_config
     3.  Click **Update**.
 
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../concept/legal-stock-pre-administration.md)
 

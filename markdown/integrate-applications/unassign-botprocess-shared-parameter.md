@@ -15,11 +15,11 @@ Unassign a bot process from a shared parameter in RPA Hub to stop an interaction
 
 ## Before you begin
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md).
 
-Create a shared parameter. For more information, see [Create a shared parameter in RPA Hub](create-shared-parameter.md).
+Create a shared parameter. For more information, see [Create a shared parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-shared-parameter.md).
 
-Assign a bot process to a shared parameter. For more information, see [Assign a bot process to a shared parameter in RPA Hub](assign-botprocess-shared-parameter.md).
+Assign a bot process to a shared parameter. For more information, see [Assign a bot process to a shared parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/assign-botprocess-shared-parameter.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
@@ -27,7 +27,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Shared Parameters**.
 
@@ -40,10 +40,10 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Shared parameters in RPA Hub](../concept/shared-paramaters-rpa-hub.md)
+**Parent Topic:**[Shared parameters in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/shared-paramaters-rpa-hub.md)
 
 **Related topics**  
 
 
-[Process parameter form in RPA Hub](create-process-parameter-botprocess.md#)
+[Process parameter form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-process-parameter-botprocess.md#)
 

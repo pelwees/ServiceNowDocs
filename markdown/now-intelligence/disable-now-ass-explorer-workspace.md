@@ -25,14 +25,14 @@ Role required: now\_assist\_explorer\_admin or higher
 
 3.  In the new PAAI Canvas Workspace Config record, select the workspace or experience from the **Experience** list.
 
-    ![Expanded list for selecting an experience or workspace for the Experience field.](../image/nowass-select-restricted-workspace.png)
+    ![Expanded list for selecting an experience or workspace for the Experience field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-select-restricted-workspace.png)
 
 4.  Turn on **Disabled in workspace**.
 
-    ![Disable in Workspace selector in PAAI Canvas Workspace Config record.](../image/nowass-disable-workspace.png)
+    ![Disable in Workspace selector in PAAI Canvas Workspace Config record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-disable-workspace.png)
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure AI Data Explorer](../concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configure-now-ass-explorer.md)
 

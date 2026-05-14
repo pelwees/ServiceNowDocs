@@ -43,5 +43,5 @@ On-Call Scheduling supports the Members of the roster \(itil role\), Shift Manag
 -   Create shift and group templates.
 -   Design the entire escalation process.
 
-**Parent Topic:**[Exploring On-Call Scheduling](exploring-on-call-scheduling.md)
+**Parent Topic:**[Exploring On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
 

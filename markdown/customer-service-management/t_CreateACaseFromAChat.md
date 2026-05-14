@@ -31,11 +31,11 @@ Starting in Utah, Connect Support has been deprecated and is no longer supported
 
     The Connect workspace opens in a new tab.
 
-2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](../../../use/collaboration/image/IconSupport.png)\).
+2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../use/collaboration/image/IconSupport.png)\).
 
 3.  Under **Cases**, open a customer service conversation.
 
-4.  At the bottom of the conversation, click the menu icon \(![Menu icon](../../../use/collaboration/image/IconMenu.png)\) to open the Connect actions menu.
+4.  At the bottom of the conversation, click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../use/collaboration/image/IconMenu.png)\) to open the Connect actions menu.
 
 5.  In the Connect actions menu, select **Create Case**.
 
@@ -45,7 +45,7 @@ Starting in Utah, Connect Support has been deprecated and is no longer supported
 
     Any comments or work notes in the record conversation appear as comments on the incident form. Work notes do not appear in the chat for the ESS user. The chat agent can select whether a message is a Comment or Work Note in the conversation.
 
-    1.  In the record conversation, by the text entry field, click the message type icon \(![Message type icon.](../../../use/collaboration/image/IconMessageType.png)\).
+    1.  In the record conversation, by the text entry field, click the message type icon \(![Message type icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../use/collaboration/image/IconMessageType.png)\).
 
     2.  Select **Comment** or **Work Note**.
 

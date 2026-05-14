@@ -17,7 +17,7 @@ The Customer Service Management \(CSM\) application provides different business 
 
 To implement the Customer Service Management application successfully, the technical teams within your organization must distinguish between the different business models being serviced. Each model defines how customer data and relationships are structured. The CSM application provides the flexibility to adopt multiple models through its customer data model, including B2C, B2B, B2B2B, B2B2C, and B2B2E.​
 
-![An infographic showing customer service business models: Business-to-Consumer (B2C), Business-to-Business (B2B), and multi-level models like B2B2C and B2B2E.](../image/business-models.png "Overview of business models")
+![An infographic showing customer service business models: Business-to-Consumer (B2C), Business-to-Business (B2B), and multi-level models like B2B2C and B2B2E.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/business-models.png "Overview of business models")
 
 ## Business-to-consumer \(B2C\) model
 

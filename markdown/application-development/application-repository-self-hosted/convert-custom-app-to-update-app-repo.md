@@ -33,24 +33,24 @@ After you convert the application, it is no longer enabled for development on th
 
 4.  Select the **Convert to Application Repository Mode** related link.
 
-    ![Convert to application repository mode related link](../image/ui_action_sys_app.png)
+    ![Convert to application repository mode related link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/ui_action_sys_app.png)
 
 5.  Select **Convert**.
 
     -   In scoped custom applications, the following message displays.
 
-        ![Scoped custom app confirmation message](../image/convert-scoped-app-confirm.png)
+        ![Scoped custom app confirmation message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/convert-scoped-app-confirm.png)
 
     -   In global custom applications, the following message displays.
 
-        ![Global custom app confirmation message](../image/convert-global-app-confirm.png)
+        ![Global custom app confirmation message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/convert-global-app-confirm.png)
 
     -   After the successful conversion, the following message displays.
 
-        ![Successful conversion message](../image/convert-success.png)
+        ![Successful conversion message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../image/convert-success.png)
 
 
 ## What to do next
 
-Go to **System Applications-&gt;My Company Applications** and update the application using the software from the application repository. See [Install an application from the application repository](install-app-from-repo.md) to learn more.
+Go to **System Applications-&gt;My Company Applications** and update the application using the software from the application repository. See [Install an application from the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/install-app-from-repo.md) to learn more.
 

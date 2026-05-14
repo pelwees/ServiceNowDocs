@@ -25,6 +25,6 @@ Consider building a new application for the following reasons:
 
 For more information, see the following topics:
 
--   [Use App Engine instead of customizations](../../servicenow-studio/concept/use-app-engine-instead-of-customizations.md)
--   [Customization vs configuration with ServiceNow Studio](../../servicenow-studio/concept/sn-studio-custom-vs-config.md)
+-   [Use App Engine instead of customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/concept/use-app-engine-instead-of-customizations.md)
+-   [Customization vs configuration with ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/concept/sn-studio-custom-vs-config.md)
 

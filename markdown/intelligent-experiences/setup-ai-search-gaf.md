@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [Group Action Framework](../concept/group-action-framework.md) for more information about GAF's role in intelligent experiences and how it works.
+GAF is a feature on the Now Platform that clusters and indexes related records and executes actions on them in agentic AI and Now Assist generative AI. See [Group Action Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/group-action-framework.md) for more information about GAF's role in intelligent experiences and how it works.
 
 Now Assist in AI Search is the foundation for GAF's optimized prediction feature. AI Search is the backup search for certain workflows, and if it is not enabled and ready, GAF will not return any results.
 
@@ -42,7 +42,7 @@ You must index every table for each workflow or application you'd like to config
 
     For example, if you are configuring GAF for Now Assist for ITSM, select the GAF ITSM action strategy record.
 
-    ![Now Assist Skill Config table filtered for skill configs with name contains action strategy](../image/gaf-action-strategy.png)
+    ![Now Assist Skill Config table filtered for skill configs with name contains action strategy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/gaf-action-strategy.png)
 
 5.  In the related list, select the Now Assist Skill Config Var Set record.
 
@@ -52,13 +52,13 @@ You must index every table for each workflow or application you'd like to config
 
 7.  Navigate to the Semantic Index Configuration \[ais\_semantic\_index\_configuration\] table by entering `ais_semantic_index_configuration.list` in the filter navigator, filter the **Indexed Source** for the table you want to index and the **Semantic Index Name** you configured in the previous step, and set **Active** to `true` to activate the embedding model.
 
-    ![Semantic Index Configuration table filtered for Index Source contains Incident](../image/gaf-sic-is-filtered.png)
+    ![Semantic Index Configuration table filtered for Index Source contains Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/gaf-sic-is-filtered.png)
 
 8.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Source**, filter the list so that the **Name** is the name of the table you are configuring, and select the record.
 
 9.  Select **Index All Tables**.
 
-    ![Indexed Source record for the Incident table open with a Index All Tables UI action at the top right](../image/gaf-index-tables.png)
+    ![Indexed Source record for the Incident table open with a Index All Tables UI action at the top right](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/gaf-index-tables.png)
 
 
 ## Result
@@ -69,5 +69,5 @@ The tables for Now Assist in AI Search for your Now Assist application is indexe
 
 To confirm that indexing has occurred successfully, check the Indexed Source History related list and ensure that both the **Keyword Ingestion State** and **Semantic Ingestion State** are both set to **Indexed**.
 
-Once your tables have been indexed, you can continue to [Configure Group Action Framework](configure-gaf.md) to set up GAF for each application.
+Once your tables have been indexed, you can continue to [Configure Group Action Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md) to set up GAF for each application.
 

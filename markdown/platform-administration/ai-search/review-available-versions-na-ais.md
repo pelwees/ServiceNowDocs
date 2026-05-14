@@ -70,5 +70,5 @@ Role required: none
     The listing shows the **Product Details** view for the selected version of the Now Assist in AI Search application.
 
 
-**Parent Topic:**[Install Now Assist in AI Search](install-now-assist-ais.md)
+**Parent Topic:**[Install Now Assist in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md)
 

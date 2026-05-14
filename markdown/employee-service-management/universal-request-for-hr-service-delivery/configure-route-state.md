@@ -47,7 +47,7 @@ For example, if an incident ticket is transferred without resolution, in the **T
 
 To perform this transfer action, you must configure the transfer configuration details in the Universal Request application.
 
-![Transfer configuration form](../images/ur-route-config.png)
+![Transfer configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-route-config.png)
 
 ## Procedure
 
@@ -57,8 +57,8 @@ To perform this transfer action, you must configure the transfer configuration d
 
 3.  On the form, fill in the fields.
 
-    For more information on the field descriptions, see [Transfer configuration form](../reference/ur-route-config-form.md).
+    For more information on the field descriptions, see [Transfer configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../reference/ur-route-config-form.md).
 
 
-**Parent Topic:**[Configuring Universal Request](../concept/configure-ur.md)
+**Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/configure-ur.md)
 

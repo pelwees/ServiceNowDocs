@@ -66,7 +66,7 @@ Complete these steps from the [Google Cloud Platform](https://cloud.google.com/)
 
 5.  Enter the following Authorized redirect URI: `https://<instance>.service-now.com/oauth_redirect.do` and click **Create**.
 
-6.  Copy your client ID and client secret to a text file so that you can use them when you [Register Google Compute Engine as an OAuth provider](setup-gcompute.md#).
+6.  Copy your client ID and client secret to a text file so that you can use them when you [Register Google Compute Engine as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcompute.md#).
 
     **Tip:** You can always access the client ID and secret in the Google APIs &amp; Services interface by clicking **Credentials** and selecting the OAuth 2.0 client ID name.
 
@@ -131,7 +131,7 @@ Role required: admin.
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Compute default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcompute\_spoke.GoogleCloudCompute** is selected.|
 
-    ![Credential record for the Google Cloud Compute Engine spoke.](../image/gcloud-comp-eng.png)
+    ![Credential record for the Google Cloud Compute Engine spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-comp-eng.png)
 
 6.  Right-click the form header and click **Save**.
 

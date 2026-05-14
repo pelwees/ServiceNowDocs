@@ -23,7 +23,7 @@ Role required: service\_mapping\_admin
 
 You can fix errors in individual application services at any time. When you perform initial mapping of application services in your organization, you typically fix errors in individual application services after resolving errors in multiple services, in bulk. You may also need to fix errors in an approved and completed application service at a later stage.
 
-![Fixing errors in individual application services as part of the Service Mapping workflow](../image/SMMapFlowReviewFix.png "Service Mapping workflow")
+![Fixing errors in individual application services as part of the Service Mapping workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/SMMapFlowReviewFix.png "Service Mapping workflow")
 
 ## Procedure
 
@@ -37,9 +37,9 @@ You can fix errors in individual application services at any time. When you perf
 
 2.  Ensure that the map opens in Edit mode.
 
-    ![Discovery messages appear under the map.](../image/MapEditDiscoveryMessages.png)
+    ![Discovery messages appear under the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapEditDiscoveryMessages.png)
 
-    CIs discovered with errors appear with the warning icon \(![The Warning icon](../image/MapWarningIcon.png)\) on the map. Discovery messages on the **Discovery Messages** tab give short error descriptions.
+    CIs discovered with errors appear with the warning icon \(![The Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapWarningIcon.png)\) on the map. Discovery messages on the **Discovery Messages** tab give short error descriptions.
 
 3.  Group errors by types by clicking **Group Errors**.
 
@@ -121,7 +121,7 @@ See the log to understand at what stage an error occurred and what caused it.
 
 </td><td>
 
-Manually add the CI whose discovery failed and configure attributes of the entry point from which Service Mapping continues discovery. For more information, see [Skip errors to continue discovering an application service](skip-errors-continue-discovery-individual-services.md).
+Manually add the CI whose discovery failed and configure attributes of the entry point from which Service Mapping continues discovery. For more information, see [Skip errors to continue discovering an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/skip-errors-continue-discovery-individual-services.md).
 
 </td></tr><tr><td id="d458554e350">
 
@@ -140,13 +140,13 @@ Run the discovery process for the selected CI after trying to resolve a discover
 Display a list of all services affected by the selected error. In the list, click a service to view service details.
 
 </td></tr></tbody>
-</table>8.  If there are no instructions or semi-automated resolution options available, [fix errors based on symptoms and discovery messages](fix-errors-by-discovery-messages.md).
+</table>8.  If there are no instructions or semi-automated resolution options available, [fix errors based on symptoms and discovery messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-errors-by-discovery-messages.md).
 
 9.  To ignore an irrelevant error, right-click its error message on the **Discovery Messages** tab and select `Toggle Ignore State`.
 
     The ignored error disappears from the map and from the list of discovery error messages.
 
-    **Note:** If necessary, you can still display ignored errors by switching on the **Include Ignored Errors** option under **More Options** menu. For more info, see [Modify view for an application service map](modify-map-view.md).
+    **Note:** If necessary, you can still display ignored errors by switching on the **Include Ignored Errors** option under **More Options** menu. For more info, see [Modify view for an application service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/modify-map-view.md).
 
 10. Click **Handle Next Error** to review the next error in the largest error group.
 
@@ -155,37 +155,37 @@ Display a list of all services affected by the selected error. In the list, clic
 
 ## What to do next
 
-If you resolved most errors, [send the service instance for review](send-business-service-for-review.md).
+If you resolved most errors, [send the service instance for review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/send-business-service-for-review.md).
 
--   **[Fix errors in individual application services using discovery messages](fix-errors-by-discovery-messages.md)**  
+-   **[Fix errors in individual application services using discovery messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-errors-by-discovery-messages.md)**  
 Service Mapping does not offer semi-automated resolution options for errors that require advanced resolution. Fix such errors using symptoms and discovery messages.
--   **[Skip errors to continue discovering an application service](skip-errors-continue-discovery-individual-services.md)**  
+-   **[Skip errors to continue discovering an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/skip-errors-continue-discovery-individual-services.md)**  
 If you know what configuration items \(CIs\) and connections make up your service instance, you can enable Service Mapping to continue discovery of the service instance even if there are some errors. You can skip errors to troubleshoot later so you can complete mapping most of the service instance, even if some CIs are missing.
--   **[Resolve pattern-related mapping errors](t_TBSMapProcess.md)**  
+-   **[Resolve pattern-related mapping errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_TBSMapProcess.md)**  
 You can troubleshoot mapping errors caused by patterns.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
 
-[Map multiple application services suggested by classic Service Mapping](map-business-services-in-bulk.md)
+[Map multiple application services suggested by classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-business-services-in-bulk.md)
 
-[Map application services using tags with classic Service Mapping](map-service-tag.md)
+[Map application services using tags with classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-service-tag.md)
 
-[Map multiple application services from a CSV file using classic Service Mapping](import-business-services-csv.md)
+[Map multiple application services from a CSV file using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/import-business-services-csv.md)
 
-[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
-[Fix application service errors in bulk](fix-bus-serv-errors-by-category.md)
+[Fix application service errors in bulk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-bus-serv-errors-by-category.md)
 
-[Review and approval of application service maps](business-service-approval.md)
+[Review and approval of application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md)
 
-[Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
+[Fine-tune application services to implement owner requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-implement-business-service-maps.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 
-[Prerequisites for performing top-down discovery using Service Mapping](../reference/prerequisites-service-mapping.md)
+[Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/prerequisites-service-mapping.md)
 

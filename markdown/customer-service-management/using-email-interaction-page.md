@@ -16,7 +16,7 @@ The email interaction page enables agents to view incoming and outgoing emails, 
 
 The email interaction page consists of various sections.
 
-![Email interaction page that displays the contact information and communication details.](../image/Email_interaction_page_updated.png "Email interaction page")
+![Email interaction page that displays the contact information and communication details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Email_interaction_page_updated.png "Email interaction page")
 
 The following are the key features of the email interaction page:
 
@@ -25,7 +25,7 @@ The following are the key features of the email interaction page:
 -   View the email conversation between the customer and the agent in the Activity stream that provides complete context.
 -   Identify the most recent conversation with using annotated new emails, the latest reply, and work notes.
 
-The email interaction page consists of sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [Email interaction sections](../reference/email-interaction-page.md).
+The email interaction page consists of sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [Email interaction sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/email-interaction-page.md).
 
 **Note:** Agents can use the Contact component to do the following:
 

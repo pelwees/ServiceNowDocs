@@ -53,7 +53,7 @@ Knowledge Bases
 
 </td><td>
 
-List of knowledge bases that are associated with your messenger module. Use the Edit option \(![Lock icon.](../image/lock-icon.png)\) and search to add a knowledge base to your messenger module.
+List of knowledge bases that are associated with your messenger module. Use the Edit option \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lock-icon.png)\) and search to add a knowledge base to your messenger module.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Enable copy permalink
 Option for enabling your customer to copy the permalink of a knowledge article.
 
 </td></tr></tbody>
-</table>![Knowledge feature widget displaying a list of featured articles with the article count set to 2.](../image/em-knowledge-feature-widget.png "Knowledge feature widget")
+</table>![Knowledge feature widget displaying a list of featured articles with the article count set to 2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-knowledge-feature-widget.png "Knowledge feature widget")
 
 Note the following points while you are configuring the Knowledge feature on your Engagement Messenger module:
 

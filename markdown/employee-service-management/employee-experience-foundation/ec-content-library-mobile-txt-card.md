@@ -19,7 +19,7 @@ Create text card content that your employees can view on their mobile devices.
 
 Role required: sn\_cd.content\_manager
 
-Define the link: [Add or modify links to other content sources](ecpro-manage-link-content.md)
+Define the link: [Add or modify links to other content sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md)
 
 ## Procedure
 
@@ -113,9 +113,9 @@ Style of the mobile text card:-   Light
 
 ## What to do next
 
-Make the content available to users: [Scheduling the delivery of content](ecpro-schedule-content.md).
+Make the content available to users: [Scheduling the delivery of content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-schedule-content.md).
 
-Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](../concept/ecpro-campaigns.md)
+Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ecpro-campaigns.md)
 
-**Parent Topic:**[Mobile content](../concept/ec-mobile-content.md)
+**Parent Topic:**[Mobile content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-mobile-content.md)
 

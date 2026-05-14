@@ -32,16 +32,16 @@ Role required: ts\_admin or admin
 4.  Select **Update**.
 
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-synonyms-expand-results.md)
 
 **Related topics**  
 
 
-[Enable search synonyms](enable-text-index-synonyms.md)
+[Enable search synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-text-index-synonyms.md)
 
-[Create synonym dictionaries](create-synonym-dictionaries.md)
+[Create synonym dictionaries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-synonym-dictionaries.md)
 
-[Select synonym dictionaries for a table](select-synonym-dictionaries.md)
+[Select synonym dictionaries for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/select-synonym-dictionaries.md)
 
-[Debug synonym searches](debug-synonym-searches.md)
+[Debug synonym searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/debug-synonym-searches.md)
 

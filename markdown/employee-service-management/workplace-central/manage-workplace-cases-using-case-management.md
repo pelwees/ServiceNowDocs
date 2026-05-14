@@ -31,7 +31,7 @@ Check the number of active cases and the details of those cases using the dashbo
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
     The Case Management dashboard opens.
 
@@ -52,7 +52,7 @@ Check the number of active cases and the details of those cases using the dashbo
         -   Assign the case to a user
         -   Export the cases to the desired format
         -   Create a case
-    3.  To add your own list, refer to [Create your own list to view case metrics](create-your-own-list-to-view-case-metrics.md).
+    3.  To add your own list, refer to [Create your own list to view case metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-your-own-list-to-view-case-metrics.md).
 
 4.  To view a list of all the active cases, check the **All active cases** section.
 
@@ -62,26 +62,26 @@ Check the number of active cases and the details of those cases using the dashbo
 
     2.  To view the case in detail, select the workplace case.
 
-    3.  To make changes to the workplace cases, refer to [Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md).
+    3.  To make changes to the workplace cases, refer to [Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md).
 
 
--   **[Create your own list to view case metrics](create-your-own-list-to-view-case-metrics.md)**  
+-   **[Create your own list to view case metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-your-own-list-to-view-case-metrics.md)**  
 Configure a custom list to view workplace cases. You can view the workplace cases based on the filter that you apply and monitor the cases.
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-case-management.md)
 
 **Related topics**  
 
 
-[Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md)
 
-[Create a workplace service case](create-a-case-casemgmtworkspace.md)
+[Create a workplace service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-case-casemgmtworkspace.md)
 
-[Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Print a workplace case](print-a-workplace-case.md)
+[Print a workplace case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-print-case.md#)
 
-[Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
+[Cancel or delete a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/cancel-or-delete-a-case-casemgmtworkspace.md)
 

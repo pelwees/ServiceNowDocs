@@ -54,12 +54,12 @@ Select a stage option from the Correlated Event Stage Update choice list that di
 
     -   Enter a resource ID in the Enter Stage Resource ID field and click **Submit**. The resource ID is validated in the ArcSight ESM console and the following screen is displayed.
 
-        ![ArcSight ESM: Stage Resource ID](../image/sir-arcsight-esm-profile-additional-stage.png)
+        ![ArcSight ESM: Stage Resource ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-additional-stage.png)
 
     -   Click **Save** to save the new stage \(**Monitoring**\).
     -   Click the Select Correlated Event Stage drop down list.
 
-        ![ArcSight ESM: Event Stage List](../image/sir-arcsight-esm-profile-additional-stage-list.png)
+        ![ArcSight ESM: Event Stage List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-additional-stage-list.png)
 
     -   You can select the newly created stage from the list.
     **Correlated event stage already configured**: If you have already configured the correlated event stage, follow these steps:
@@ -67,7 +67,7 @@ Select a stage option from the Correlated Event Stage Update choice list that di
     -   Select **Use Previously Assigned Stage** in the Correlated Event Stage Update choice list.
     -   Select an existing stage from the Select Correlated Event Stage choice list as shown below.
 
-        ![ArcSight ESM: Previously Assigned Stage](../image/sir-arcsight-esm-profile-additional-stage-2.png)
+        ![ArcSight ESM: Previously Assigned Stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-additional-stage-2.png)
 
     -   Initial Comments posted back to Correlated Event: In addition to updating the correlation event stage value, you can also post comments to the correlation stage annotations. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the Security Incident Response incident form.
     **Note:** You can either use the default stages defined in the ArcSight ESM console or create your own custom stages. To create a new stage, follow these steps:
@@ -119,7 +119,7 @@ Select an appropriate status here.
 In addition to updating the correlation event status value, you can also post closure comments to the correlation event annotations. As indicated in the instructions, you may edit the default text displayed in the comments section including adding or modifying the substitution variables using format $⁠\{field name\}$ for any field on the Security Incident Response incident form.
 
 </td></tr></tbody>
-</table>    ![ArcSight ESM: Closure Event Stage](../image/sir-arcsight-esm-profile-additional-stage-3.png)
+</table>    ![ArcSight ESM: Closure Event Stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-additional-stage-3.png)
 
 5.  Click **Finish** to complete the configuration.
 

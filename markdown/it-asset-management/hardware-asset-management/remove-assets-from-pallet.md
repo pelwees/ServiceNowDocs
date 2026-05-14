@@ -42,16 +42,16 @@ You can remove assets only from a pallet whose **State** field value is In stock
 
 The assets that you removed from the pallet are no longer shown under the Assets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/pallets-for-inventory-management.md)
 
 **Related topics**  
 
 
-[Create pallet assets](create-pallet-assets.md)
+[Create pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-pallet-assets.md)
 
-[Add assets to a pallet](add-assets-to-pallet.md)
+[Add assets to a pallet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-assets-to-pallet.md)
 
-[Delete pallet assets](delete-pallet-assets.md)
+[Delete pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/delete-pallet-assets.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/using-pallet-assets-for-inventory-mgmt.md)
 

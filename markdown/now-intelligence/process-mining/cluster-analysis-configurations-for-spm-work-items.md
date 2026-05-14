@@ -29,5 +29,5 @@ A Process Mining administrator \(sn\_process\_mining\_admin\) can access the SPM
 
 The clustering solution definitions also contain the purity fields for demands, which are department, business\_unit, and priority.
 
-**Parent Topic:**[Content pack for SPM](integration-with-spm.md)
+**Parent Topic:**[Content pack for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-with-spm.md)
 

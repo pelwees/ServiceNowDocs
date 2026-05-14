@@ -34,20 +34,20 @@ When you create category users, choose users who are knowledgeable and can answe
 4.  Select the appropriate users for this category.
 
 
-**Parent Topic:**[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+**Parent Topic:**[Category users and stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_CategoryUsersAndStakeholders.md)
 
 **Related topics**  
 
 
-[Category users and stakeholders](../reference/r_CategoryUsersAndStakeholders.md)
+[Category users and stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_CategoryUsersAndStakeholders.md)
 
-[Associate multiple category users to multiple assessable records](t_AssocMultCatUsrsToMultAssessRecs.md)
+[Associate multiple category users to multiple assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocMultCatUsrsToMultAssessRecs.md)
 
-[Associate multiple category users to one assessable record](t_AssocMultCatUsrsToOneAssessRec.md)
+[Associate multiple category users to one assessable record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocMultCatUsrsToOneAssessRec.md)
 
-[Associate one category user to one assessable record](t_AssocOneCatUsrToOneAssessRec.md)
+[Associate one category user to one assessable record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_AssocOneCatUsrToOneAssessRec.md)
 
-[Delete a stakeholder for multiple assessable records](t_DelAStakeholderForMultAssessRecs.md)
+[Delete a stakeholder for multiple assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_DelAStakeholderForMultAssessRecs.md)
 
-[Delete a stakeholder for one assessable record](t_DelAStakeholderForOneAssessRec.md)
+[Delete a stakeholder for one assessable record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_DelAStakeholderForOneAssessRec.md)
 

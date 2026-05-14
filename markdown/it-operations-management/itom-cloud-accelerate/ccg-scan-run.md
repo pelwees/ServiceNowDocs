@@ -29,5 +29,5 @@ Cloud Configuration Governance displays the following information for each scan 
 **Related topics**  
 
 
-[Scan configuration](ccg-scan-configuration.md)
+[Scan configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-scan-configuration.md)
 

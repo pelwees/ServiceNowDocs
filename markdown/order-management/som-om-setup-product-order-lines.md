@@ -79,5 +79,5 @@ Product and service order lines items contain the product or service that you ha
 **Related topics**  
 
 
-[Review and submit a product or service order in Order Management](som-om-review-and-submit-product-order.md)
+[Review and submit a product or service order in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-om-review-and-submit-product-order.md)
 

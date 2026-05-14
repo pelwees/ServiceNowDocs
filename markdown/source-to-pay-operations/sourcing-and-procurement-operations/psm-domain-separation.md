@@ -22,22 +22,22 @@ Domain separation is unsupported for Sourcing and Procurement Operations. Domain
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Sourcing and Procurement Operations reference](../reference/spo-reference.md)
+**Parent Topic:**[Sourcing and Procurement Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/spo-reference.md)
 
 **Related topics**  
 
 
-[Base system procurement case type reference](../reference/base-system-procurement-case-types.md)
+[Base system procurement case type reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/base-system-procurement-case-types.md)
 
-[Create New Pipeline Project form](../reference/create-pipeline-project-form.md)
+[Create New Pipeline Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/create-pipeline-project-form.md)
 
-[Pipeline project record tabs and UI actions](../reference/pipeline-form-tabs-actions.md)
+[Pipeline project record tabs and UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/pipeline-form-tabs-actions.md)
 
-[Purchase requisition, purchase order, and sourcing request states](../reference/pr-po-sr-states.md)
+[Purchase requisition, purchase order, and sourcing request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/pr-po-sr-states.md)
 
-[SPO and ITAM data model mappings](itam-spo-data-model.md)
+[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-data-model.md)
 
-[Sourcing and Procurement Operations glossary](spo-glossary.md#)
+[Sourcing and Procurement Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-glossary.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

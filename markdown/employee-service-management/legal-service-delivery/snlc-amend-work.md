@@ -17,7 +17,7 @@ Review and work on an amendment request for an existing contract.
 
 ## Before you begin
 
-The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](../../legal-request-management/task/assign-legal-request-1.md).
+The practice area lead or group manager should have assigned you the request. If not, you can open the request to [assign it to yourself or someone in the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/assign-legal-request-1.md).
 
 Role required: sn\_lg\_cnt.contract\_fulfiller
 
@@ -44,7 +44,7 @@ Identify the legal and contract requests created for amendment using the followi
 
     1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-    2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+    2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
     3.  In the **Legal Requests**, select **Unassigned**.
 
@@ -58,13 +58,13 @@ Identify the legal and contract requests created for amendment using the followi
 
 2.  Link parent contract \(Example: CNTR0010077\) when prompted with a message or you want to change the already linked parent contract.
 
-    ![Link parent contract](../image/snlc-amend-link-cntr.png)
+    ![Link parent contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/snlc-amend-link-cntr.png)
 
     -   If you didn’t select a contract while submitting the amendment request, you’re prompted to link a parent contract record.
     -   When a contract is linked, its corresponding contract request \(Example: CMR0001026\) will automatically be linked through a parent-child hierarchy. You can’t manually unlink the contract request as it depends on the contract selection.
     1.  Navigate to the Legal request details section.
 
-    2.  In the Parent contract record field, select the Search for Record icon \(![Search for Record icon](../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
+    2.  In the Parent contract record field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
 
         Only active contracts that don’t have any ongoing amendment requests are listed.
 
@@ -101,7 +101,7 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
 </td></tr></tbody>
 </table>4.  If you have opened a contract request from the **Legal requests** listing, select the **Contract Requests** tab and open the contract request.
 
-5.  In the contract request, review the Description field for the amendments requested.![Review the description field for the amendments requested](../image/lsd-amend-description.png)
+5.  In the contract request, review the Description field for the amendments requested.![Review the description field for the amendments requested](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/lsd-amend-description.png)
 
 6.  Update the contract request.
 
@@ -121,7 +121,7 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
 
         The document opens in a new tab.
 
-    5.  Select the Download icon \(![Download icon](../../legal-request-management/image/download-icon.png)\)
+    5.  Select the Download icon \(![Download icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/download-icon.png)\)
 
         The document is downloaded into your system.
 
@@ -158,14 +158,14 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
 
     |Options|Steps|
     |-------|-----|
-    |**Ad hoc approval**|[Initiate an ad hoc approval for a contract document revision](snlc-initiate-approval-cr.md)|
-    |**Internal review**|[Request an internal review](snlc-add-review-task.md).|
+    |**Ad hoc approval**|[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-initiate-approval-cr.md)|
+    |**Internal review**|[Request an internal review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-add-review-task.md).|
     |**Email communication**|Set up an email to stakeholders to request to have the completed contract document reviewed and the changes confirmed using **Compose Email** option.|
     |**Signature workflow**| |
 
 12. Send the contract amendment document for signature.
 
-    For more information, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+    For more information, see [Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md)
 
 
 ## Result
@@ -179,9 +179,9 @@ Update the **Watch list** and **Requested for**.Any changes done to the **Watch 
     -   Contract Requests: Displays all contract and amendment requests associated with the contract repository record.
     -   Amendment Field Changes: Shows a detailed log of all field changes made through amendments. Example: Change in the contract end date is available in this tab. Example: Change in the contract end date is available in this tab.
 
-        ![View the field changes due to amendment](../image/snlc-amend-field-changes.png)
+        ![View the field changes due to amendment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/snlc-amend-field-changes.png)
 
     -   Attachment pane: View the certificate of completion for the contract and amendment requests if electronic signature was selected.
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-amend-req-landing.md)
 

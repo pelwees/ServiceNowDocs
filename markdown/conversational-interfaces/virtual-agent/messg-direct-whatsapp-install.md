@@ -29,7 +29,7 @@ The following applications or plugins are installed with Conversational Integrat
 
     Provides custom chat integration framework of scriptable APIs to enable the Virtual Agent application on any conversational interface.
 
-    For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md).
+    For more information on this plugin, see [Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-custom-adapter-framework.md).
 
 -   **ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)**
 
@@ -63,5 +63,5 @@ The following applications or plugins are installed with Conversational Integrat
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](messg-direct-whatsapp-configure.md)
+**Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-configure.md)
 

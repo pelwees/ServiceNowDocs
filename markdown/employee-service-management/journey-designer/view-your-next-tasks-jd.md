@@ -30,5 +30,5 @@ Role required: employee
 4.  Select **Complete** if the task is complete or select **Mark as in-progress** if you are still working on the task.
 
 
-**Parent Topic:**[Employees view and complete journeys](jny-dsgnr-employee-journey-tasks.md)
+**Parent Topic:**[Employees view and complete journeys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-employee-journey-tasks.md)
 

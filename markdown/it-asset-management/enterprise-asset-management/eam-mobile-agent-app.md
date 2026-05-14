@@ -22,5 +22,5 @@ See [Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDo
 **Related topics**  
 
 
-[Managing enterprise assets and tasks using the Mobile Agent application](manage-enterprise-assets-tasks-mobile-app.md)
+[Managing enterprise assets and tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-enterprise-assets-tasks-mobile-app.md)
 

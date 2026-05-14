@@ -17,22 +17,22 @@ Select a metric category from the choice list to display the chart.
 
 ![](../images/ScorecardCategoryMetrics.png "Scorecard category metrics")
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateALinkToAScorecard.md)
 
-[Assessment scorecard averages](r_Averages.md)
+[Assessment scorecard averages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Averages.md)
 
-[Assessment scorecard categories](r_Categories.md)
+[Assessment scorecard categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Categories.md)
 
-[Assessment scorecard head-to-head compare view](r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_HeadToHeadCompare.md)
 
-[Assessment scorecard history](r_History.md)
+[Assessment scorecard history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_History.md)
 
-[Live feed view of assessable records](r_LiveFeed.md)
+[Live feed view of assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_LiveFeed.md)
 
-[Assessment scorecard ratings](r_Ratings.md)
+[Assessment scorecard ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Ratings.md)
 

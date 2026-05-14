@@ -27,7 +27,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 3.  Add or remove columns and change their order of display on the Backlog page.
 
-    1.  Select **Edit columns** \(![Edit columns icon.](../images/eap-backlog-edit-columns.png)\).
+    1.  Select **Edit columns** \(![Edit columns icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-backlog-edit-columns.png)\).
 
     2.  From the Available columns section, select the columns that you want to be displayed on the Backlog.
 
@@ -37,11 +37,11 @@ Role required: sn\_apw\_advanced.eap\_user
 
     5.  Select **Apply**.
 
-        ![Personalize column display for Backlog.](../images/eap-edit-columns.png)
+        ![Personalize column display for Backlog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-edit-columns.png)
 
 4.  Apply filters to work items to narrow down the data that's displayed on the Backlog.
 
-    1.  Select **Filter** \(![Filter icon.](../images/eap-filter.png)\).
+    1.  Select **Filter** \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-filter.png)\).
 
     2.  Add conditions to filter the work items.
 
@@ -53,8 +53,8 @@ Role required: sn\_apw\_advanced.eap\_user
 
 5.  For an ART, you can personalize the grouping of the work items by Planning Interval or Team.
 
-    ![Group items on ART Backlog by team or planning interval.](../images/eap-backlog-art-personalize.png)
+    ![Group items on ART Backlog by team or planning interval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-backlog-art-personalize.png)
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 

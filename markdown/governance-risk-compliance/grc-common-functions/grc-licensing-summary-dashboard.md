@@ -209,10 +209,10 @@ Shows the license treatment for a specific combination of roles. You can search 
 </td></tr></tbody>
 </table>The following illustration shows the tabs, sections, and cards that are available on the GRC licensing summary dashboard:
 
-![GRC licensing summary dashboard](../image/grc-licensing-summary-dashboard.gif "GRC licensing summary dashboard")
+![GRC licensing summary dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/grc-licensing-summary-dashboard.gif "GRC licensing summary dashboard")
 
--   **[Displaying the role hierarchy of a user](role-hierarchy.md)**  
+-   **[Displaying the role hierarchy of a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/role-hierarchy.md)**  
 The role hierarchy node map displays the relationship between the license contributing roles for role-based users and provides insights into the licensing treatment of a user.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

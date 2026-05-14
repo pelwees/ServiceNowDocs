@@ -51,7 +51,7 @@ In CAM there are two ways to inherit controls from the control objectives source
 
 3.  To assign baseline controls from a common control provider as common controls, select the control objectives in the Baseline Controls tab that you want to assign as common controls.
 
-    1.  Select **Mark as Common** and then select **OK** in the Confirmation popup.![Common baseline controls.](../image/Baseline-control-mark-common.png)
+    1.  Select **Mark as Common** and then select **OK** in the Confirmation popup.![Common baseline controls.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/Baseline-control-mark-common.png)
 
     2.  Select **Request approval** to request approval.
 
@@ -75,9 +75,9 @@ In CAM there are two ways to inherit controls from the control objectives source
 
         The Hybrid Controls related list appears with the selected baseline controls. A baseline control is an m2m of a control objective and an authorization package.
 
-        ![Set up baseline controls to inherit controls and requirements.](../image/cam-sort-baseline-controls.png "UI actions on baseline controls")
+        ![Set up baseline controls to inherit controls and requirements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-sort-baseline-controls.png "UI actions on baseline controls")
 
-    4.  Select the Display/hide hierarchical lists \(![Display or hide hierarchical lists icon.](../image/cam-display-hide-hierarch-icon.png)\) icon to see the inherited requirements.
+    4.  Select the Display/hide hierarchical lists \(![Display or hide hierarchical lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-display-hide-hierarch-icon.png)\) icon to see the inherited requirements.
 
         All the other requirements that are not listed here are self implemented.
 

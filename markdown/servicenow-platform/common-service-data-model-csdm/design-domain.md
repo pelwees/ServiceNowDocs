@@ -22,16 +22,16 @@ CIs in the Design &amp; Planning domain aren’t operational, so you can’t sel
 The Design &amp; Planning domain includes the tables used by Application Portfolio Management \(APM\). You use APM to rationalize and manage your business applications, but you're not required to use APM to benefit from the data in these tables. The Design &amp; Planning domain includes the following tables:
 
 -   Business Capability \[cmdb\_ci\_business\_capability\] table. Business Capability: A business capability is a high-level capability required by the organization to execute its business model. A business capability provides design guidance for implementing applications.
--   Business Application \[cmdb\_ci\_business\_app\] table. A business application is a purchased or internally-developed application that supports a business capability. A Business Application, ultimately, relates to an Application Service table and not any other type of Service Instance. For more information, see [CI relationships in the CSDM](ci-relationships.md).
+-   Business Application \[cmdb\_ci\_business\_app\] table. A business application is a purchased or internally-developed application that supports a business capability. A Business Application, ultimately, relates to an Application Service table and not any other type of Service Instance. For more information, see [CI relationships in the CSDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/ci-relationships.md).
 -   Information Object \[cmdb\_ci\_information\_object\] table. An information object describes the type of data that is being interchanged between the business application and the database that serves it.
 
-![Design & Planning domain of the CSDM framework.](../image/domain-design-planning-tables.png)
+![Design & Planning domain of the CSDM framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/domain-design-planning-tables.png)
 
 **Note:** CIs in the Design &amp; Planning domain aren’t operational, so you can’t select them for Incident Management, Problem Management, or Change Management.
 
 ## Tables used during the Design &amp; Planning phase of the service life cycle
 
-![Design & Planning tables in the service life cycle.](../image/service-lifecycle-design-plan.png)
+![Design & Planning tables in the service life cycle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/service-lifecycle-design-plan.png)
 
 ## Relationships between CIs that support decision making
 
@@ -67,7 +67,7 @@ You can represent business capabilities in a hierarchy of a parent business capa
 
 Use the Business Capability form to create, modify, and extend business capabilities.
 
-![Business capability form.](../image/business-capability-form.png)
+![Business capability form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/business-capability-form.png)
 
 To update capabilities, select the **Update Capability Level and HierarchyID** related link. Follow these guidelines when you update capabilities to confirm that the capability map reflects the change:
 
@@ -93,7 +93,7 @@ Use either of the following methods to add a business application:
 
 -   Use the Business Application form.
 
-    ![Business Application form.](../image/business-application-form.png)
+    ![Business Application form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/business-application-form.png)
 
 
 ## Information object
@@ -109,10 +109,10 @@ Use either of the following methods to add a business application:
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
-**Parent Topic:**[CSDM data domains](csdm-conceptual-model.md)
+**Parent Topic:**[CSDM data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-conceptual-model.md)
 
 **Related topics**  
 
 
-[CI relationships in the CMDB](../../configuration-management/concept/c_CIRelationships.md)
+[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../configuration-management/concept/c_CIRelationships.md)
 

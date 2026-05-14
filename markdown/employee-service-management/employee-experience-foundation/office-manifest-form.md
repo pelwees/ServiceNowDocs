@@ -114,5 +114,5 @@ List of domains that are allowed to access the add-in.This field is available on
 </td></tr></tbody>
 </table>**Note:** You can configure single sign-on \(SSO\) for your add-in by selecting the **Login Page not Required** field and providing the SSO domain in the **Allowed Domains** field.
 
-**Parent Topic:**[ServiceNow Add-in for Microsoft 365 reference](sn-addin-for-ms365-reference.md)
+**Parent Topic:**[ServiceNow Add-in for Microsoft 365 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 

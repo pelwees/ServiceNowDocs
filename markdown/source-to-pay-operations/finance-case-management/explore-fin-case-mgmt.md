@@ -33,7 +33,7 @@ The dark theme emits less blue light, making the display easier for your eyes an
 
 For more information on customizing coral theme, see [Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md).
 
-An example of the email notification template with coral theme is shown below.![Theme](../../accounts-payable-operations/image/theme.png)
+An example of the email notification template with coral theme is shown below.![Theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../accounts-payable-operations/image/theme.png)
 
 ## Finance Case Management applications
 
@@ -48,8 +48,8 @@ Finance Case Management uses the following applications:
     Finance Operations Workspace provides a single system of action to manage and prioritize work. The application displays critical information to prioritize work, and it eliminates tool sprawl.
 
 
--   **[Explore the Finance Operations Workspace](fin-ops-workpace.md)**  
+-   **[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)**  
 The Finance Operations Workspace is a single system to manage and prioritize work.
 
-**Parent Topic:**[Finance Case Management](fin-case-mgmt-landing-page.md)
+**Parent Topic:**[Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-landing-page.md)
 

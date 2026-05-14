@@ -48,10 +48,10 @@ Using the Employee Presence module, you can perform the following:
     A list of your collaborators is displayed.
 
 
-**Parent Topic:**[Manage Workplace Concierge - Employee Presence](../concept/manage-workplace-concierge.md)
+**Parent Topic:**[Manage Workplace Concierge - Employee Presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/manage-workplace-concierge.md)
 
 **Related topics**  
 
 
-[Create custom insights using Proactive Prompts](create-insights-proactive-prompts.md)
+[Create custom insights using Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/create-insights-proactive-prompts.md)
 

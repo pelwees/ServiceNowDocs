@@ -153,14 +153,14 @@ Role required: Terraform admin
     Don’t modify the template as the variables are closely connected to the application.
 
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 
 
-[Create a Terraform organization for Cloud Account Management in Cloud Workspace](integrate-terraform-and-git.md)
+[Create a Terraform organization for Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-and-git.md)
 
-[Integrate Terraform Cloud with GitHub](integrate-terraform-cloud-and-git.md)
+[Integrate Terraform Cloud with GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-cloud-and-git.md)
 
-[Create Terraform API token](set-up-administrator-api-key.md)
+[Create Terraform API token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-administrator-api-key.md)
 

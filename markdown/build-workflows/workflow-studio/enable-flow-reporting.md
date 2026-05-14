@@ -15,7 +15,7 @@ breadcrumb: [Flow administration, Configure flows, Flows, subflows, and actions,
 
 Choose whether to generate execution details for all flows and actions run, just for individual flows and actions, or just when you test a flow or action. Specify the level of detail the execution details contain.
 
-**Parent Topic:**[Flow administration](../concept/flow-administration.md)
+**Parent Topic:**[Flow administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-administration.md)
 
 ## Activate reporting for an individual flow, subflow, or action
 
@@ -84,7 +84,7 @@ You can activate reporting for an individual flow, subflow, or action by creatin
 
 8.  Select **Submit**.
 
-    For example, this setting enables the full reporting level and warning log level for the Acknowledge Alert flow. ![Flow reporting setting for the Acknowledge Alert flow](../images/example-flow-reporting-setting.png)
+    For example, this setting enables the full reporting level and warning log level for the Acknowledge Alert flow. ![Flow reporting setting for the Acknowledge Alert flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-flow-reporting-setting.png)
 
 
 ### Result

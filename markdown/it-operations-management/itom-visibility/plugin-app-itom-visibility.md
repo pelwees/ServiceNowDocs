@@ -78,16 +78,16 @@ Tables that list the plugins or applications that are installed with ITOM Visibi
 |Agent Client Collector Framework \(sn\_agent\)|Manages Agent Client Collector on the ServiceNow instance and the MID Server.|
 |CMDB CI Class Models \(sn\_cmdb\_ci\_class\)|Adds class models that extend the CMDB class hierarchy, including class descriptions, identification rules, identifier entries, and dependent relationships if applicable. Applications such as Discovery and Service Mapping can use these class extensions to populate configuration items \(CIs\) and discover various technologies and software.|
 
-**Parent Topic:**[ITOM Visibility reference](visibility-reference.md)
+**Parent Topic:**[ITOM Visibility reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/visibility-reference.md)
 
 **Related topics**  
 
 
-[Plugins or applications installed with ITOM Cloud Accelerate](../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md)
+[Plugins or applications installed with ITOM Cloud Accelerate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../itom-cloud-accelerate/reference/plugin-app-cloud-accelerate.md)
 
-[Plugins or applications installed with ITOM AIOps](plugin-app-itom-health.md)
+[Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-health.md)
 
-[Plugins activated with ITOM Optimization](plugin-itom-optimization.md)
+[Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-itom-optimization.md)
 
-[Applications installed with Now Assist for ITOM](../../now-assist-itom/reference/app-now-assist-itom.md)
+[Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../now-assist-itom/reference/app-now-assist-itom.md)
 

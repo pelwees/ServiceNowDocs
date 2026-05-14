@@ -24,7 +24,7 @@ All of these options can be configured globally or for specific users.
 -   Use skip links.
 -   Turn off first field focus
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
 
 ## Enable accessibility mode
 
@@ -36,13 +36,13 @@ Role required: none
 
 ### About this task
 
-Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [User preferences](../../navigation-and-ui/concept/c_UserPreferences.md).
+Administrators can enable accessibility mode for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility` user preference. For more information on configuring user preferences, see [User preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/concept/c_UserPreferences.md).
 
 ### Procedure
 
 1.  Navigate to **User Administration** &gt; **User Preferences**.
 
-2.  Click the gear icon \(![Gear icon](../../navigation-and-ui/image/IconUI16Gear.png)\) in the banner frame to open the System Settings window.
+2.  Click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/image/IconUI16Gear.png)\) in the banner frame to open the System Settings window.
 
 3.  From the General tab, select the **Accessibility enabled** option.
 
@@ -51,9 +51,9 @@ Administrators can enable accessibility mode for specific users by navigating to
 
 ### What to do next
 
-Alternatively, enable accessibility mode using the Enable Accessibility skip link. For more information on skip links, see [Use skip links](keyboard-accessibility.md#).
+Alternatively, enable accessibility mode using the Enable Accessibility skip link. For more information on skip links, see [Use skip links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-accessibility.md#).
 
-![Enable accessibility skip link, which is the first focusable element on the page.](../image/EnableAccessibiltySkipLink.png "Enable accessibility skip link")
+![Enable accessibility skip link, which is the first focusable element on the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/EnableAccessibiltySkipLink.png "Enable accessibility skip link")
 
 ## Enable the high contrast theme
 
@@ -65,7 +65,7 @@ Role required: admin
 
 ### About this task
 
-Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [system settings](../../navigation-and-ui/reference/r_UI16BannerFrame.md) menu. From the Theme tab, select the **Contrast UI** theme.
+Individual users can enable the contrast theme for themselves by navigating to the Theme tab of the [system settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/reference/r_UI16BannerFrame.md) menu. From the Theme tab, select the **Contrast UI** theme.
 
 ### Procedure
 
@@ -121,13 +121,13 @@ Role required: admin
 
 Some fields on forms have associated tooltips that contain additional information. By default, these tooltips are accessible by pointing to the field label or mandatory indicator asterisk. However, a user who relies on keyboard navigation cannot point to the field to access the tooltip. The accessible form tooltip feature solves this problem by adding a keyboard-accessible icon next to each field that has a tooltip. Tabbing or pointing to the icon shows the tooltip.
 
-Administrators can enable accessible form tooltips for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility.accessible.tooltips` user preference. For more information on configuring user preferences, see [User preferences](../../navigation-and-ui/concept/c_UserPreferences.md).
+Administrators can enable accessible form tooltips for specific users by navigating to **User Administration** &gt; **User Preferences** and searching for the `glide.ui.accessibility.accessible.tooltips` user preference. For more information on configuring user preferences, see [User preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/concept/c_UserPreferences.md).
 
 Accessibility must be enabled for the accessible form tooltips user preference to work.
 
 ### Procedure
 
-1.  Click the gear icon \(![Gear icon](../../navigation-and-ui/image/IconUI16Gear.png)\) in the banner frame to open the System Settings window.
+1.  Click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/image/IconUI16Gear.png)\) in the banner frame to open the System Settings window.
 
 2.  From the General tab, select the **Accessibility enabled** option.
 

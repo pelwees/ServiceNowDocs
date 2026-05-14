@@ -18,9 +18,9 @@ ServiceNow® Service Operations Workspace \(SOW\) is a configurable workspace de
 
 By centralizing workflows, it enhances collaboration, facilitates efficient task management, and provides real-time insights through different metrics. Highly customizable, it enables you to tailor the workspace to your specific needs, optimizing productivity and workflow efficiency. With its comprehensive set of features, including generative AI assistance, automation and collaboration tools, Service Operations Workspace empowers users to work more effectively across different workflows, boosting productivity organization-wide. Scalable to accommodate evolving business needs, it ensures continued support for IT environments of all sizes, delivering superior services and driving operational excellence.
 
-![Home page information.](../image/home-tab-sow.png)
+![Home page information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/home-tab-sow.png)
 
-For information regarding subscriptions for ITOM Service Operations Workspace, check the ITOM AIOps subscription at [Subscription ITOM AIOps](../../it-operations-management/concept/itom-license-module.md).
+For information regarding subscriptions for ITOM Service Operations Workspace, check the ITOM AIOps subscription at [Subscription ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../it-operations-management/concept/itom-license-module.md).
 
 When setting up the Service Operations Workspace, it's crucial to configure both IT Operations Management \(ITOM\) for managing alerts and IT Service Management \(ITSM\) for resolving incidents and delivering services. This integrated setup ensures access to the full range of features, facilitating comprehensive management of IT operations and service quality.
 
@@ -34,19 +34,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Service Operations Workspace concepts and features](explore-sow-itom.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Service Operations Workspace concepts and features](explore-sow-itom.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environment, tools, and user access](configure-sow-itom.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environment, tools, and user access](configure-sow-itom.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-community.svg) Learn how agents can use Service Operations Workspace](use-sow-itom.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../reuse/icons/brand-icons/bus-community.svg) Learn how agents can use Service Operations Workspace](use-sow-itom.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Get details about Service Operations Workspace components such as roles and dependent applications](sow-reference-itom.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Get details about Service Operations Workspace components such as roles and dependent applications](sow-reference-itom.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

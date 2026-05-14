@@ -21,7 +21,7 @@ Role required: sn\_exam.catalog\_admin
 
 Users configured as part of the admin list, can contribute user criteria or owner of the associated catalog can add questions for an exam.
 
-Create an exam. See, [Create an exam](create-exam.md).
+Create an exam. See, [Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md).
 
 ## Procedure
 
@@ -35,17 +35,17 @@ Create an exam. See, [Create an exam](create-exam.md).
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Question form](../reference/question-form.md).
+    For a description of the field values, see [Question form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/question-form.md).
 
 6.  Select **Submit**.
 
 
 ## What to do next
 
-Add options to a question. See, [Add options to a question](add-question-options.md).
+Add options to a question. See, [Add options to a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-question-options.md).
 
--   **[Add options to a question](add-question-options.md)**  
+-   **[Add options to a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-question-options.md)**  
 Add options for a question on Career Assessment.
 
-**Parent Topic:**[Create an exam](create-exam.md)
+**Parent Topic:**[Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md)
 

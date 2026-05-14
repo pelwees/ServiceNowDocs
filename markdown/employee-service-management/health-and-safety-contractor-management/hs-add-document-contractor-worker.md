@@ -39,7 +39,7 @@ Steps
 
 </td><td>
 
-1.  Select the contractor management icon \(![Contractor management icon](../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
+1.  Select the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
 2.  In the **Lists** tab, select **Contractor companies** and then **All**.
 3.  Open the company that the worker belongs to.
 4.  In the **Workers** tab, select the worker from the list to add the document to.
@@ -51,7 +51,7 @@ Steps
 
 </td><td>
 
-1.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+1.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-risk-management/image/icon-config.png)\).
 2.  In the **Lists** tab, select **Health and safety profiles** and then **All**.
 3.  From the list, select the worker from the list to add the document to.
 
@@ -61,7 +61,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety document version form](../../ohs-incident-management/reference/hs-document-form.md).
+    For information on form field descriptions, see [Health and Safety document version form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../ohs-incident-management/reference/hs-document-form.md).
 
 5.  Select **Save**.
 

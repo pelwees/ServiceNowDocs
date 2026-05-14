@@ -25,7 +25,7 @@ With this application, you can perform the following:
 -   Create good receipts in Oracle EBS.
 -   Create invoices in Oracle EBS.
 
-![Overview of the Source-to-Pay integration with Oracle EBS](../../source-to-pay-operations/image/oracle-ebs-integration-overview.png "Overview of the Source-to-Pay integration with Oracle EBS")
+![Overview of the Source-to-Pay integration with Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-integration-overview.png "Overview of the Source-to-Pay integration with Oracle EBS")
 
 ## Prerequisites
 

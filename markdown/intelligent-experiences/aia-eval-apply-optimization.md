@@ -41,7 +41,7 @@ If you are already in the flow for identifying issues, skip to step 6.
 
 4.  Select an issue to review.
 
-5.  [Go over the issue](aia-eval-review-issues.md), including [analyzing issue traces](aia-eval-analyze-traces.md).
+5.  [Go over the issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-review-issues.md), including [analyzing issue traces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md).
 
 6.  Select issues to optimize, then select **Start optimization**.
 
@@ -80,5 +80,5 @@ A new evaluation run begins with any changes you applied to the agentic AI asset
 
 ## What to do next
 
-You can [track and monitor your agentic evaluation](track-aia-eval-progress.md) while the reevaluation is in-progress. After the evaluation is complete, you can review and compare the results against the original evaluation and make further optimizations if necessary.
+You can [track and monitor your agentic evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/track-aia-eval-progress.md) while the reevaluation is in-progress. After the evaluation is complete, you can review and compare the results against the original evaluation and make further optimizations if necessary.
 

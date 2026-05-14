@@ -23,7 +23,7 @@ Role required: sn\_slm.admin
 
 Ensure that you've installed the Document Templates \[com.snc.document\_templates\] plugin.
 
-**Important:** When you create the supplier task of action type Sign document for the very first time, the supplier task is created; however, the document task is not created. Therefore, you cannot use the first Sign document task to upload PDF or HTML documents to get signatures. When you create the Sign document task for the first time, a set of restricted caller access \(RCA\) records are created that you must approve. Approving RCAs is a one-time activity. After you approve the RCAs, you can create and use subsequent Sign document supplier tasks except the first Sign document task. For more information about the approving the required RCAs, see [Approve application restricted caller access privileges for Sign document supplier task type](approve-sign-task-rca.md).
+**Important:** When you create the supplier task of action type Sign document for the very first time, the supplier task is created; however, the document task is not created. Therefore, you cannot use the first Sign document task to upload PDF or HTML documents to get signatures. When you create the Sign document task for the first time, a set of restricted caller access \(RCA\) records are created that you must approve. Approving RCAs is a one-time activity. After you approve the RCAs, you can create and use subsequent Sign document supplier tasks except the first Sign document task. For more information about the approving the required RCAs, see [Approve application restricted caller access privileges for Sign document supplier task type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-sign-task-rca.md).
 
 **Important:** Starting from the May Store 2024 release, the supplier task of action type Sign document uses the document template \(PDF or HTML\). The E-signature template is used only for KB articles.
 
@@ -98,35 +98,35 @@ For more information, see [Mark a signature block](https://raw.githubusercontent
 
 </td></tr></tbody>
 </table>
--   **[Approve application restricted caller access privileges for Sign document supplier task type](approve-sign-task-rca.md)**  
+-   **[Approve application restricted caller access privileges for Sign document supplier task type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-sign-task-rca.md)**  
 Approve restricted caller access \(RCA\) privileges after you create a supplier task of action type Sign document for the very first time so that you can create and use subsequent Sign document supplier tasks.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](../concept/config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/config-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Install Supplier Case Management](install-supp-mgmt.md)
+[Install Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](install-supp-central.md)
+[Install Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-central.md)
 
-[Install Supplier Operations](install-supplier-ops.md)
+[Install Supplier Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-payment-opt.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-doc-mgmt-overview.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](../concept/supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supplier-awa.md)
 
-[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configuring-supplier-performance-mgmt.md)
 
-[Install Universal Request for SLO](install-universal-request.md)
+[Install Universal Request for SLO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-universal-request.md)
 
-[Configure smart assessments](../concept/configure-smart-assessments.md)
+[Configure smart assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configure-smart-assessments.md)
 
-[Approve application restricted caller access privileges for Sign document supplier task type](approve-sign-task-rca.md)
+[Approve application restricted caller access privileges for Sign document supplier task type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-sign-task-rca.md)
 
-[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+[Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-doc-mgmt-overview.md)
 

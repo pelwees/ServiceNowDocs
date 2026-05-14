@@ -35,7 +35,7 @@ This spoke was built for Oracle Financial Cloud API version 11.13.18.05.
 
 If you’re having trouble installing the app, ensure that these dependent plugins are installed:
 
--   [Utility Actions Spoke](utilityact-spoke-1.md)
+-   [Utility Actions Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/utilityact-spoke-1.md)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
 -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
@@ -164,7 +164,7 @@ BI Report Paths
 
 Displays information about the folder path where the required report is saved. The Get Subledger Balances and Get Code Combinations Details actions retrieve the subledger balances from these folder paths.Admin must create two records for the two actions and specify the folder path in this module.
 
- ![Folder paths in the BI Report Paths module](../image/bi-report-paths.png)
+ ![Folder paths in the BI Report Paths module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bi-report-paths.png)
 
 </td></tr><tr><td>
 
@@ -187,9 +187,9 @@ Displays the journal records. The Import Journals flow imports these records fro
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-Two connection and credential records are available along with the spoke. You must configure these alias record to use the spoke. See [Set up the Oracle Financial Cloud spoke](../task/setup-oracle-fin-cloud.md#) for more information.
+Two connection and credential records are available along with the spoke. You must configure these alias record to use the spoke. See [Set up the Oracle Financial Cloud spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-oracle-fin-cloud.md#) for more information.
 
 **Note:** Depending on the Oracle Financial Cloud policies and account settings, you may have to change or refresh the credentials in your credential record periodically.
 
-For information about setting up the spoke, see [Set up the Oracle Financial Cloud spoke](../task/setup-oracle-fin-cloud.md#).
+For information about setting up the spoke, see [Set up the Oracle Financial Cloud spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-oracle-fin-cloud.md#).
 

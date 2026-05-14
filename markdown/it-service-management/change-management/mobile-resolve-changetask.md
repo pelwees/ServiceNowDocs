@@ -30,12 +30,12 @@ Role required: itil or sn\_change\_write
 4.  Tap **Close task**.
 
 
-**Parent Topic:**[Get started with Change Management mobile tasks](getting-started-with-changetasks.md)
+**Parent Topic:**[Get started with Change Management mobile tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/getting-started-with-changetasks.md)
 
 **Related topics**  
 
 
-[View change tasks](mobile-view-changetask.md)
+[View change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-view-changetask.md)
 
-[Add comments to your change tasks](mobile-add-comment-changetask.md)
+[Add comments to your change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-add-comment-changetask.md)
 

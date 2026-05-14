@@ -36,5 +36,5 @@ Several preconfigured CI relationships participate in tag-based discovery, by de
 |Kubernetes Namespace \[cmdb\_ci\_kubernetes\_namespace\]​|Contains::Contained By|OpenShift Route \[cmdb\_ci\_openshift\_route\]|
 |Kubernetes Namespace \[cmdb\_ci\_kubernetes\_namespace\]​|Contains::Contained By|OpenShift Image Stream \[cmdb\_ci\_openshift\_images\_stream\]|
 
-**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 

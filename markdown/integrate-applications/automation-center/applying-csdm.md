@@ -27,12 +27,12 @@ CSDM is the data model standard for all products that use the Configuration Mana
 
 For more information, see [Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md).
 
--   **[Automation Center product view](product-view.md)**  
+-   **[Automation Center product view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/product-view.md)**  
 Use the ServiceNow® Automation Center application to govern your end-to-end multi-vendor automation life cycles from one place. By using real-time dashboards, you can manage and measure the health of the automation and prevent automation failures across multiple vendors​.
--   **[Automation Center and CSDM tables](csdm-tables.md)**  
+-   **[Automation Center and CSDM tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/csdm-tables.md)**  
 Automation Center uses CSDM tables. Several ServiceNow products benefit from and add value to Automation Center.
--   **[Automation Center use cases](use-cases.md)**  
+-   **[Automation Center use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/use-cases.md)**  
 Automation Center enables you to manage your automations from one central place.
 
-**Parent Topic:**[Configuring Automation Center](automation-center-setup.md)
+**Parent Topic:**[Configuring Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-setup.md)
 

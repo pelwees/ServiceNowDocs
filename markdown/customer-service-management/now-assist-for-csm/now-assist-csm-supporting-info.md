@@ -125,7 +125,7 @@ Activate the applications in the following order:
 2.  UXC Generative AI
 3.  Now Assist for CSM
 
-For more information, see [Configuring Now Assist for Customer Service Management \(CSM\)](now-assist-csm-configuring.md).
+For more information, see [Configuring Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-configuring.md).
 
-**Parent Topic:**[Exploring Now Assist for Customer Service Management \(CSM\)](now-assist-csm-exploring.md)
+**Parent Topic:**[Exploring Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-exploring.md)
 

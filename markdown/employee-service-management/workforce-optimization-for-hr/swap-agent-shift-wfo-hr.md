@@ -23,11 +23,11 @@ Role required: sn\_hr\_wfo.admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  In the **Team Calendar** tab, navigate and point to the shift for the agent that you want to swap with another agent.
 
-4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon](../image/shift_swap_icon.png)\).
+4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../image/shift_swap_icon.png)\).
 
 5.  In the **Requested Shift** section, click the **Agent** field and select the agent who can work on that shift.
 
@@ -36,5 +36,5 @@ Role required: sn\_hr\_wfo.admin
     The team calendar displays the updated schedule.
 
 
-**Parent Topic:**[Scheduling in Workforce Optimization for HR](../concept/scheduling-configurable-wfo-hr.md)
+**Parent Topic:**[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/scheduling-configurable-wfo-hr.md)
 

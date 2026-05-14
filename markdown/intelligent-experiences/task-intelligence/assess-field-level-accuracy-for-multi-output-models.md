@@ -35,7 +35,7 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 3.  Group the list by **Predicted Correctly** by selecting the list controls icon in the top left corner of the screen.
 
-    ![List control open to group by Predicted Correctly](../images/predictor-results-list.png)
+    ![List control open to group by Predicted Correctly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../images/predictor-results-list.png)
 
 4.  Divide the number of records where **Predicted Correctly** is **true** by the total number of records.
 
@@ -49,7 +49,7 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
         The Monitoring screen allows you to select the model, field, and date range to display in the charts. Accuracy is measured based on whether the top autofilled value or the top 3 recommendations are correct.
 
-        ![Monitoring screen showing options to view model performance charts at the field level.](../images/task-intel-analytics.png)
+        ![Monitoring screen showing options to view model performance charts at the field level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../images/task-intel-analytics.png)
 
     2.  Select a model.
 
@@ -60,5 +60,5 @@ Your model must be in Monitoring mode. You can set Monitoring mode on the Assess
 
 ## What to do next
 
-If the accuracy of each field is acceptable, transition your model from monitoring mode to real-time predictions and deploy. If the accuracy of a specific field is not acceptable, you can remove that output field from your model, retrain, and deploy. See [Edit a Task Intelligence model](../concept/edit-a-task-intelligence-model.md) for more information on editing your model.
+If the accuracy of each field is acceptable, transition your model from monitoring mode to real-time predictions and deploy. If the accuracy of a specific field is not acceptable, you can remove that output field from your model, retrain, and deploy. See [Edit a Task Intelligence model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../concept/edit-a-task-intelligence-model.md) for more information on editing your model.
 

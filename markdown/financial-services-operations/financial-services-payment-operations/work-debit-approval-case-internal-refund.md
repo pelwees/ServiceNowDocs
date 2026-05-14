@@ -34,7 +34,7 @@ If there's a Customer or Consumer Service Portal available for customers, they g
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the debit approval payment service case from a claim case or from the Debit Approvals list.
 
@@ -54,7 +54,7 @@ Steps
 
 1.  In the **Lists** tab, under **Claims**, click **Assigned to me**.
 2.  In the list, click the claim case that you want to open.
-3.  In the **Debit approval** field on the claim form, click the information icon \(![Information icon](../image/information-icon.png)\) next to the debit approval case number.
+3.  In the **Debit approval** field on the claim form, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../image/information-icon.png)\) next to the debit approval case number.
 
 
 </td></tr><tr><td id="d128762e158">
@@ -88,7 +88,7 @@ Steps
 
 ## What to do next
 
-Update the claim case fields as required and [close the claim](close-claim-case.md).
+Update the claim case fields as required and [close the claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/close-claim-case.md).
 
-**Parent Topic:**[Work on a claim with an internal refund](work-claim-with-internal-refund.md)
+**Parent Topic:**[Work on a claim with an internal refund](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-with-internal-refund.md)
 

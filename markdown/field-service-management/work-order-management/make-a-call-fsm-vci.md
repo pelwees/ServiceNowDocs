@@ -33,13 +33,13 @@ The option Make a Call appears only if you have set up both Zoom and Microsoft T
 
 4.  Select and open the work order task.
 
-5.  Tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select **Make a Call**.
+5.  Tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select **Make a Call**.
 
 6.  Tap **Conference Bridge** and then select a bridge.
 
     -   To make a Zoom call, tap Zoom.
     -   To make a Microsoft Teams call, tap Microsoft Teams.
 
-        For more information about making a call, see [Start a Zoom or Microsoft Teams meeting from ServiceNow Agent](initiate-zoom-MSTeam-meeting-fsm.md).
+        For more information about making a call, see [Start a Zoom or Microsoft Teams meeting from ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/initiate-zoom-MSTeam-meeting-fsm.md).
 
 

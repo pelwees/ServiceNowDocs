@@ -33,7 +33,7 @@ For new contracts, the scheduled job runs automatically when the contract reques
 
 3.  Select **Execute Now**.
 
-    ![Scheduled job to copy contract documents to the contract repository](../image/cmpro-na-conv-search-job.png "Scheduled job to copy contract documents to the contract repository")
+    ![Scheduled job to copy contract documents to the contract repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-conv-search-job.png "Scheduled job to copy contract documents to the contract repository")
 
 
 ## Result
@@ -42,5 +42,5 @@ The signed contract documents are copied into the contract repository.
 
 ## What to do next
 
-Index data for conversational search. [Index contracts table for conversational search](cmpro-converse-search-indexing.md)
+Index data for conversational search. [Index contracts table for conversational search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-converse-search-indexing.md)
 

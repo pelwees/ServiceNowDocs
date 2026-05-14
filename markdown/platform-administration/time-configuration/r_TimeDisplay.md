@@ -17,7 +17,7 @@ You can use three different interfaces to view record information over time: rep
 
 ## Reports and performance analytics
 
-![Column chart shows data over time](../../../use/reporting/image/ColumnChart.png "Report example")
+![Column chart shows data over time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../../use/reporting/image/ColumnChart.png "Report example")
 
 You can visualize data using [Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-landing-page.md).
 
@@ -33,8 +33,8 @@ This type of page enables you to define linear time lines from records with time
 
 ![](../image/PlanningTimeline.png "Schedule pages example")
 
--   **[Timeline pages](../concept/c_TimelinePages.md)**  
+-   **[Timeline pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_TimelinePages.md)**  
 Use timeline pages to track any activity bounded by two dates, such as change request start and end dates, or incident open and close dates. Administrators can create timeline pages, which are user interactive.
 
-**Parent Topic:**[Time configuration references](../reference-time-configuration.md)
+**Parent Topic:**[Time configuration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference-time-configuration.md)
 

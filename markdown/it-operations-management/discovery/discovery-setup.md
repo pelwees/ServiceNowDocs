@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Discovery Guided Setup](discovery-guided-setup.md)
+[Discovery Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-guided-setup.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Use this method if you want to set up everything you need to use Discovery, incl
 
 </td></tr><tr><td>
 
-[Without Guided Setup](../task/t_ConfigureDiscovery.md)
+[Without Guided Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_ConfigureDiscovery.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Use this method if you want to set up each component of setup separately. You ca
 
 </td></tr><tr><td>
 
-[Discovery Quick Start](discovery-quick-start.md#)
+[Discovery Quick Start](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md#)
 
 </td><td>
 
@@ -57,5 +57,5 @@ Use this wizard to configure everything you need to perform subnet and CI Discov
 </table>**Related topics**  
 
 
-[Discovery monitoring and issue resolution](c_DiscoveryTroubleshooting.md)
+[Discovery monitoring and issue resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 

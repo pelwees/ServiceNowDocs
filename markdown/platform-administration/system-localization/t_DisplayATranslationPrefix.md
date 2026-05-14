@@ -45,7 +45,7 @@ Translation prefixes map to translation tables as follows.
     -   To enable prefixes for the current user session, navigate to **All** &gt; **System Localization** &gt; **Enable I18N Debugging**.
     -   To enable prefixes for all sessions, navigate to **All** &gt; **System Properties** &gt; **System Localization** and set **Display translation prefix on translatable strings** to **Yes**.
 
-        ![Translation property.](../image/TranslationProperty.png)
+        ![Translation property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/TranslationProperty.png)
 
 2.  Refresh the page or change your user language to one of the non-English languages installed on your instance to see the prefixes.
 
@@ -54,7 +54,7 @@ Translation prefixes map to translation tables as follows.
 
 When enabled, translation prefixes appear before translatable UI strings.
 
-![The application navigator with MSG and TRF prefixes for the navigator and application strings.](../image/translation-prefix.png)
+![The application navigator with MSG and TRF prefixes for the navigator and application strings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/translation-prefix.png)
 
 ## What to do next
 
@@ -66,5 +66,5 @@ When you are done debugging, disable the translation prefixes.
 **Related topics**  
 
 
-[System Localization properties](../reference/set-localization-props.md)
+[System Localization properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/set-localization-props.md)
 

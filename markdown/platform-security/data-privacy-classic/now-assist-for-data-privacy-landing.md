@@ -19,11 +19,11 @@ Set up and configure how to discover and anonymize sensitive data from generativ
 
 <table id="table_tpg_p4l_ydc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Data Privacy for Now Assist](explore-now-assist-data-privacy.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Data Privacy for Now Assist](explore-now-assist-data-privacy.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Data Privacy for Now Assist](configure-now-assist-data-privacy.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Data Privacy for Now Assist](configure-now-assist-data-privacy.md)
 
 </td></tr></tbody>
 </table>**Note:** Data Privacy for Now Assist detects and masks sensitive data based on Regex patterns and does not support contextual\(model-type\) data patterns.

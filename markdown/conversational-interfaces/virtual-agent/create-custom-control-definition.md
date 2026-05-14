@@ -131,5 +131,5 @@ The custom control definition is available for use. You can specify it when you 
 
 ## What to do next
 
-[Create the custom control](create-custom-control.md) in Virtual Agent Designer.
+[Create the custom control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-custom-control.md) in Virtual Agent Designer.
 

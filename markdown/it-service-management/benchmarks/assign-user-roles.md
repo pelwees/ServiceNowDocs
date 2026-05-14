@@ -23,7 +23,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
 1.  Opt in for the Benchmarks application.
 
-    For more information, see [Enable Benchmarks](t_EnableBench.md).
+    For more information, see [Enable Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_EnableBench.md).
 
 2.  On the Benchmarks configuration page, locate the User roles section and select **Configure**.
 
@@ -31,7 +31,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
     A list of users currently assigned the selected role and a graph showing the distribution of users in different roles are displayed.
 
-    For information about Benchmarks roles, see [Benchmarks roles](../concept/c_BenchRoles.md).
+    For information about Benchmarks roles, see [Benchmarks roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchRoles.md).
 
 4.  Add users to a role list.
 
@@ -48,5 +48,5 @@ Role required: sn\_bm\_client.benchmark\_admin
     2.  Select **Remove user**.
 
 
-**Parent Topic:**[Enable Benchmarks](t_EnableBench.md)
+**Parent Topic:**[Enable Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_EnableBench.md)
 

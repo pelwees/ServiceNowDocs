@@ -23,7 +23,7 @@ Role required: admin
 
 When configuring your department for Universal Request, to use transfer to other department capability, create scripted extension points and add them to the script includes of the application code. A sample **CreateDepartmentTicket** extension point is provided for you to modify and use.
 
-**Note:** For a better user experience, you can choose to use the Mapping configuration to define and configure fields that must be copied to the end-points for ticket transfers and creation. For more information, see [Configure mappings](ur-transfer-map-config.md).
+**Note:** For a better user experience, you can choose to use the Mapping configuration to define and configure fields that must be copied to the end-points for ticket transfers and creation. For more information, see [Configure mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ When configuring your department for Universal Request, to use transfer to other
     For more information, see [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
 
 
-**Parent Topic:**[Configure service to use Universal Request](../concept/config-service-for-ur.md)
+**Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/config-service-for-ur.md)
 

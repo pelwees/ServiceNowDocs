@@ -27,14 +27,14 @@ Sample use case: When a service provider \(SP\) uses chat to respond to a tenant
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[MetricBase reference](reference-metricbase.md)
+**Parent Topic:**[MetricBase reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/reference-metricbase.md)
 
 **Related topics**  
 
 
-[Developer resources](developer-resources.md)
+[Developer resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/developer-resources.md)
 
-[MetricBase roles](../reference/metricbase-roles.md#)
+[MetricBase roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../reference/metricbase-roles.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

@@ -80,11 +80,11 @@ Workspace user \[workspace\_user\]
 </td></tr></tbody>
 </table>## User roles
 
-Any user with sn\_lg\_ops.legal\_fulfiller and sn\_lg\_ops.request\_fulfiller roles can access Legal Counsel Center. You can customize Legal Counsel Center for different roles depending on assignment group, practice areas, and other access credentials. For more information on customization, see [Configure Legal Counsel Center Workspace](configure-legal-counsel-center-workspace.md).
+Any user with sn\_lg\_ops.legal\_fulfiller and sn\_lg\_ops.request\_fulfiller roles can access Legal Counsel Center. You can customize Legal Counsel Center for different roles depending on assignment group, practice areas, and other access credentials. For more information on customization, see [Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-counsel-center-workspace.md).
 
 ## Accessing Legal Counsel Center
 
 To access Legal Counsel Center, navigate to **Workspaces** &gt; **Legal Counsel Center**. Alternatively, you can access the Legal Counsel Center by navigating to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-**Parent Topic:**[Legal Counsel Center reference](../reference/legal-counsel-center-ws-reference.md)
+**Parent Topic:**[Legal Counsel Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/legal-counsel-center-ws-reference.md)
 

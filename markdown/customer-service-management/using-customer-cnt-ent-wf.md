@@ -20,21 +20,21 @@ You can manage the life cycle of customer contracts and entitlements from offer 
 
 ## Automatic renewal of customer contracts
 
-While creating customer contracts from quote or orders, you can select the **Auto-renew contract** option on a quote or order to automatically renew the contracts. ​When you add or delete a contract line from these customer contracts, the renewed quotes and opportunities are updated. You can configure the auto-renewal date of the contract in the Customer Life Cycle Workflows Policy decision table. By default, you can choose to initiate the auto-renewal 90, 60, or 30 days before the contract end date, or on the contract creation date. For more info, see [Creating contracts and entitlements using workflows](create-cont-ent-workflows-csm.md).
+While creating customer contracts from quote or orders, you can select the **Auto-renew contract** option on a quote or order to automatically renew the contracts. ​When you add or delete a contract line from these customer contracts, the renewed quotes and opportunities are updated. You can configure the auto-renewal date of the contract in the Customer Life Cycle Workflows Policy decision table. By default, you can choose to initiate the auto-renewal 90, 60, or 30 days before the contract end date, or on the contract creation date. For more info, see [Creating contracts and entitlements using workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
-![Auto-renew option](../images/auto-renew-quote.png "Automatic renewal for customer contracts on quotes")
+![Auto-renew option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/auto-renew-quote.png "Automatic renewal for customer contracts on quotes")
 
 In the Renewal adjustment basis field, you can select **List price** or **Contracted price**. Selecting List price renews the contract at the market price of the contract at the time of the renewal date.
 
-![Renewal adjustment basis](../images/renewal-adjustment.png "Renewal adjustment basis")
+![Renewal adjustment basis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/renewal-adjustment.png "Renewal adjustment basis")
 
 Selecting Contracted price gives you the option to renew the contract at Markdown % or Markup % of the current contract price. For example, if you select **Markup %** field and you enter 10 in **Renewal adjustment value**, the customer contract is renewed at 10% above the current contract price.
 
-![Renewal adjustment type](../images/renewal-adjustment-quote.png "Renewal adjustment type")
+![Renewal adjustment type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/renewal-adjustment-quote.png "Renewal adjustment type")
 
 That exact renewal date and the renewal adjustments for that customer contract will be visible on the customer contract form in the **Auto renewal date** field.
 
-![Auto renewal date on customer contract](../images/service-contract-auto-renew.png "Automatic renewal of customer contracts")
+![Auto renewal date on customer contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/service-contract-auto-renew.png "Automatic renewal of customer contracts")
 
 You cannot modify the renewal adjustment fields on the customer contract. You can only modify the renewal adjustment values on the quote and orders.
 
@@ -42,7 +42,7 @@ You cannot modify the renewal adjustment fields on the customer contract. You ca
 
 During quote processing, the system alerts you when the contract end date is exceeding the product offering end date. When you submit quotes for approval, a dialog box appears alerting you. You can select the option **update contract end dates to match offering end dates** to match the contract end date to the product offering end date.
 
-![Matching end dates.](../images/end-of-life-check.png "Matching the contract and product offering end dates")
+![Matching end dates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/end-of-life-check.png "Matching the contract and product offering end dates")
 
 If you do not select this option and approve the quote, the contract end date remains the same.
 
@@ -50,7 +50,7 @@ If you do not select this option and approve the quote, the contract end date re
 
 You can assign the same start and end dates to multiple quote lines while creating or renewing a quote. On the **Line items** tab on the quote details page, select multiple quote lines and then select **Co-terminate**. All the selected quote lines have the same start and end date.
 
-![Co-terminate option.](../images/co-terminate-quotes.png "Co-terminate quote lines")
+![Co-terminate option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../images/co-terminate-quotes.png "Co-terminate quote lines")
 
 ## Viewing price ramps
 

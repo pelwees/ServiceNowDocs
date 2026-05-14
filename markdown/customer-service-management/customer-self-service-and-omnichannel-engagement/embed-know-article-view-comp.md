@@ -17,7 +17,7 @@ Embed the global code and component code of the Knowledge article view component
 
 ## Before you begin
 
-You must configure the Knowledge article view component instance. For information, see [Configure the Knowledge article view component instance](config-know-article-view-comp.md).
+You must configure the Knowledge article view component instance. For information, see [Configure the Knowledge article view component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-know-article-view-comp.md).
 
 Role required: None
 

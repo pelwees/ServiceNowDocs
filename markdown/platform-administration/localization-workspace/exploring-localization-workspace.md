@@ -37,7 +37,7 @@ Localization Workspace is available for on-premise \(self-hosted\) customers. It
 |Localization requester|localization\_requestor|
 |Localization Workspace user|sn\_lw.user|
 
-Many of the user roles in Localization Workspace are derived from roles in Localization Framework. For more information see [Localization Framework Roles](../../localization-framework/reference/roles-localization-framework.md#).
+Many of the user roles in Localization Workspace are derived from roles in Localization Framework. For more information see [Localization Framework Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../localization-framework/reference/roles-localization-framework.md#).
 
 ## Localization Workspace benefits
 
@@ -51,7 +51,7 @@ Many of the user roles in Localization Workspace are derived from roles in Local
 
 To learn more about setting up and using Localization Workspace, see:
 
--   [Configuring Localization Workspace](configuring-localization-workspace.md)
--   [Requesting translations in Localization Workspace](requesting-translations-localization-workspace.md)
--   [Localization Workspace reference](localization-workspace-reference.md)
+-   [Configuring Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md)
+-   [Requesting translations in Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/requesting-translations-localization-workspace.md)
+-   [Localization Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-reference.md)
 

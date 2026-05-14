@@ -27,23 +27,23 @@ Role required: sn\_fcms\_intg.integration\_user
 
 3.  In the Integration Services list, select the subflows that you want to trigger manually.
 
-    ![Manually trigger flows or subflows in Coupa](../../source-to-pay-operations/image/manual-trigger-flow-coupa.png "Manually trigger flows or subflows in Coupa")
+    ![Manually trigger flows or subflows in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/manual-trigger-flow-coupa.png "Manually trigger flows or subflows in Coupa")
 
 4.  Trigger the flow or subflow by selecting **Run job**.
 
 
 ## What to do next
 
-To view the status of the executed flow and a list of errors \(if any\), see [View the execution status of a flow](view-executed-flow-status.md)
+To view the status of the executed flow and a list of errors \(if any\), see [View the execution status of a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/view-executed-flow-status.md)
 
-**Parent Topic:**[Use Source-to-Pay integration with Coupa](../concept/using-source-to-pay-coupa-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-source-to-pay-coupa-integration.md)
 
 **Related topics**  
 
 
-[View the execution status of a flow](view-executed-flow-status.md)
+[View the execution status of a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/view-executed-flow-status.md)
 
-[Use a flow or subflow in Coupa \(outbound\)](use-flow-or-subflow-coupa.md)
+[Use a flow or subflow in Coupa \(outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-coupa.md)
 
-[Copy a flow or subflow in Coupa](copy-flow-or-subflow-coupa.md)
+[Copy a flow or subflow in Coupa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-coupa.md)
 

@@ -29,15 +29,15 @@ Role required: sn\_oper\_res.admin
 
     The following example shows the Main node configurations available in the instance.
 
-    ![Main node configurations.](../image/main-node.png)
+    ![Main node configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/main-node.png)
 
 3.  In the Nexus map configurations related list, select **New**.
 
     The Nexus map configuration new record is displayed as shown in the example.
 
-    ![New record.](../image/nexus-map-new-record-empty.png)
+    ![New record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-new-record-empty.png)
 
-    For more information on the fields, see [Nexus map configuration form](../reference/nexus-map-configuration-form.md).
+    For more information on the fields, see [Nexus map configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/nexus-map-configuration-form.md).
 
 4.  Enter a unique name for the Nexus map configuration in the **Name** field.
 
@@ -53,17 +53,17 @@ Role required: sn\_oper\_res.admin
 
     A sample record is shown for reference.
 
-    ![Nexus map configuration new record.](../image/nexus-map-new-record.png)
+    ![Nexus map configuration new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-new-record.png)
 
 8.  To submit the details of the Nexus map configuration, select **Submit**.
 
     The Nexus map configuration record is displayed in the Nexus map configurations related list as shown in the example.
 
-    ![Nexus map configuration record.](../image/nexus-map-config-record.png)
+    ![Nexus map configuration record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-config-record.png)
 
     Opening the record shows the details of the Nexus map configuration as shown in the following examples.
 
-    ![Tab1.](../image/nexus-map-config-record-tab1.png)![Tab2.](../image/nexus-map-config-record-tab2.png)
+    ![Tab1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-config-record-tab1.png)![Tab2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-config-record-tab2.png)
 
     The **Main node** tab displays the name of the Main node table along with its associated conditions. The **Node UI details** tab shows the Node UI type, which is set to "Node map default node" by default.
 
@@ -74,7 +74,7 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-To configure the node settings for the Nexus map, see [Configure the Node configurations](configure-node-configurations.md).
+To configure the node settings for the Nexus map, see [Configure the Node configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-node-configurations.md).
 
-To configure the edge settings for the Nexus map, see [Configure the Edge configurations](configure-edge-configurations.md).
+To configure the edge settings for the Nexus map, see [Configure the Edge configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-edge-configurations.md).
 

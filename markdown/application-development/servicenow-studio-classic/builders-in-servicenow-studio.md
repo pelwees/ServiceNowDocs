@@ -19,25 +19,25 @@ Builders provide features such as inline editing, customizable views, and integr
 
 When you open files such as decision tables, flows, or tables in ServiceNow Studio, the files open in a new tab in their designated builder. Some file types, such as mobile app configurations, open in a new browser tab. To access a builder, you must first open a file or application — builders cannot be opened independently in ServiceNow Studio.
 
-For a full list of the builders integrated in ServiceNow Studio, see [Integrated development tools for ServiceNow Studio](integrated-development-tools.md).
+For a full list of the builders integrated in ServiceNow Studio, see [Integrated development tools for ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/integrated-development-tools.md).
 
 ## How do builders open in ServiceNow Studio?
 
 Decision tables and most other automation file types open in new tabs.
 
-![Decision tables open in the Workflow Studio builder.](../image/sn-studio-builder-dt-as1.png)
+![Decision tables open in the Workflow Studio builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-builder-dt-as1.png)
 
 Mobile App Builder opens in a new tab.
 
-![When you open Mobile App Builder, it opens in a new browser tab.](../image/sn-studio-builder-mobile.png)
+![When you open Mobile App Builder, it opens in a new browser tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-builder-mobile.png)
 
 Some builders, such as Table Builder, display a short tutorial when you first open them.
 
-![Some builders display a short tutorial when you first open them.](../image/sn-studio-builder-tutorial.png)
+![Some builders display a short tutorial when you first open them.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-builder-tutorial.png)
 
 ## How does scope work with builders?
 
 Some builders override automatic scope switching. For example, when you use Table Builder to edit a form or table file, a message indicates that the scope is controlled by the builder.
 
-![Some builders control the scope for apps open in ServiceNow Studio.](../image/sn-studio-scope-builder.png)
+![Some builders control the scope for apps open in ServiceNow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-builder.png)
 

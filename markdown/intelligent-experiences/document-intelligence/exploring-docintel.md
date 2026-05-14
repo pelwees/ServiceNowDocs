@@ -15,7 +15,7 @@ breadcrumb: [Document Intelligence, Enable AI experiences]
 
 Document Intelligence helps you to quickly and accurately classify and extract information from documents using artificial intelligence \(AI\).
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-nowassist-landing.md).
 
 ## Document Intelligence overview
 
@@ -27,7 +27,7 @@ With Document Intelligence \(DocIntel\) you can process single or multi-page doc
 
 The following diagram shows how document extraction works in Document Intelligence.
 
-![Diagram showing how Document Intelligence activities train the AI models.](../image/doc-intel-flow.png "Document Intelligence flow")
+![Diagram showing how Document Intelligence activities train the AI models.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/doc-intel-flow.png "Document Intelligence flow")
 
 In this workflow:
 
@@ -38,7 +38,7 @@ In this workflow:
 
 ## Document Intelligence benefits
 
-![Diagram showing the phased approach to automation using Document Intelligence.](../image/doc-intel-benefits.png "Benefits of Document Intelligence")
+![Diagram showing the phased approach to automation using Document Intelligence.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/doc-intel-benefits.png "Benefits of Document Intelligence")
 
 Document Intelligence provides the following benefits.
 
@@ -60,7 +60,7 @@ Start fast with a no-code set-up that enables data extraction from many document
 
 </td><td>
 
-[Set up document extraction use cases](set-up-document-extraction-use-cases.md)
+[Set up document extraction use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/set-up-document-extraction-use-cases.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Enable categorization for any type of document you define.
 
 </td><td>
 
-[Set up document classification use cases](set-up-document-classification-use-cases.md)
+[Set up document classification use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/set-up-document-classification-use-cases.md)
 
 </td><td>
 
@@ -88,7 +88,7 @@ Automate intelligently with responsible, feedback-driven AI for continual learni
 
 </td><td>
 
-[Configure data extraction modes](../task/configure-data-extraction-modes.md)
+[Configure data extraction modes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../task/configure-data-extraction-modes.md)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Seamlessly integrate document processing steps into workflows​.
 
 </td><td>
 
-[Integrating Document Intelligence with other applications](integrating-docintel.md)
+[Integrating Document Intelligence with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/integrating-docintel.md)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Accelerate extraction of structured and semi-structured documents such as forms,
 
 </td><td>
 
-[Extract fields using the Document Intelligence workspace](doc-intel-workspace.md#)
+[Extract fields using the Document Intelligence workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-workspace.md#)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Accelerate classification of single and multi-page documents.
 
 </td><td>
 
-[Classify documents using the Document Intelligence workspace](use-the-docintel-workspace-to-classify.md#)
+[Classify documents using the Document Intelligence workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/use-the-docintel-workspace-to-classify.md#)
 
 </td><td>
 

@@ -30,7 +30,7 @@ The following items are installed with LEAP:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with LEAP](../reference/components-installed-with-aiops-leap.md).
+For more information, see [Components installed with LEAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../reference/components-installed-with-aiops-leap.md).
 
 ## Procedure
 

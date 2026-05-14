@@ -48,7 +48,7 @@ gs.info(gr.getValue('short_description')); //displays the unencrypted value
 
 When using `getValue()` to get encrypted text, your script no longer returns the ciphertext. Your script returns the plaintext, assuming that the user has access to the cryptographic module. `getValue()` returns the ciphertext if the user doesn’t have access to the cryptographic module.
 
-**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
 ## Create a field encryption configuration
 
@@ -116,7 +116,7 @@ The encryption type to use.
 
 ### What to do next
 
-After you add the encryption configuration record, you can create an encryption job to encrypt existing data. If you do not run an encryption job, Edge encrypts the existing data the next time the data changes. For details, see [Schedule an encryption job](c_ConfigureCloudEdge.md#).
+After you add the encryption configuration record, you can create an encryption job to encrypt existing data. If you do not run an encryption job, Edge encrypts the existing data the next time the data changes. For details, see [Schedule an encryption job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_ConfigureCloudEdge.md#).
 
 ## Create a variable encryption configuration
 
@@ -144,7 +144,7 @@ Role required: security\_admin
 
 ### What to do next
 
-After you add the encryption configuration record, you can create an encryption job to encrypt existing data. If you do not run an encryption job, Edge encrypts the existing data the next time the data changes. For details, see [Schedule an encryption job](c_ConfigureCloudEdge.md#).
+After you add the encryption configuration record, you can create an encryption job to encrypt existing data. If you do not run an encryption job, Edge encrypts the existing data the next time the data changes. For details, see [Schedule an encryption job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_ConfigureCloudEdge.md#).
 
 ## Deactivate an encryption configuration
 
@@ -263,7 +263,7 @@ Process Historical Records
 
 </td><td>
 
-Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../time/concept/c_AuditedTables.md).
 
 </td></tr><tr><td>
 
@@ -381,7 +381,7 @@ Process Historical Records
 
 </td><td>
 
-Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../time/concept/c_AuditedTables.md).
 
 </td></tr><tr><td>
 

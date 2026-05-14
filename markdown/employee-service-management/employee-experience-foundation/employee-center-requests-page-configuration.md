@@ -19,7 +19,7 @@ The requests page is where employees can view all their requests on a single pag
 
 The requests page displays all of an employee's requests. The following GIF shows an example of an employee viewing and opening requests on the requests page.
 
-**Note:** Leverage the Enhanced Requests Experience to get more flexibility of configuration and requests management on Employee Center. For more information, see [Enhanced Requests Experience](my-requests-update-intro.md).
+**Note:** Leverage the Enhanced Requests Experience to get more flexibility of configuration and requests management on Employee Center. For more information, see [Enhanced Requests Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/my-requests-update-intro.md).
 
 ## Configuring the requests page
 
@@ -30,7 +30,7 @@ You control the type of requests that appear by configuring the request filters.
 -   HR child cases that are rolled up with the parent do not appear as separate requests on the requests page.
 -   Non-HR child cases \(such as IT or service catalog requests\) appear both as a separate request and as part of the roll-up on the parent case.
 
-To learn more, including how to configure the view for the subject person of an HR case, see [Use HR Case Management](../../human-resources/concept/c_HRCaseManagement.md).
+To learn more, including how to configure the view for the subject person of an HR case, see [Use HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/concept/c_HRCaseManagement.md).
 
 ## Preconfigured filters
 

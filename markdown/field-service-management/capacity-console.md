@@ -32,7 +32,7 @@ Field Service Advanced Capacity and Reservations Management provides the followi
 **Related topics**  
 
 
-[Activate Field Service Capacity console](../task/capacity-console-plugin.md)
+[Activate Field Service Capacity console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/capacity-console-plugin.md)
 
-[Using the Capacity Console](capacity-and-reservation-management-console.md)
+[Using the Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/capacity-and-reservation-management-console.md)
 

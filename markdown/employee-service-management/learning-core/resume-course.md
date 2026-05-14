@@ -30,22 +30,22 @@ Role required: admin
 3.  Select **Resume**.
 
 
-**Parent Topic:**[Using My Learning](../concept/manage-your-learning.md)
+**Parent Topic:**[Using My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/manage-your-learning.md)
 
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/enroll-course-lxp.md)
 
-[Create a personal course collection](../concept/create-personal-collection.md)
+[Create a personal course collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/create-personal-collection.md)
 
-[Create a Learning challenge](../concept/learning-challenge.md)
+[Create a Learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/learning-challenge.md)
 
-[View recent activity](../concept/view-recent-activity-lxp.md)
+[View recent activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/view-recent-activity-lxp.md)
 
-[Assign Learning to your team](assign-learning-lxp.md)
+[Assign Learning to your team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/assign-learning-lxp.md)
 
-[Manage Learning](../concept/manage-learning-achievements.md)
+[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/manage-learning-achievements.md)
 
-[Skill sensing for learning content](../concept/skill-sensing-for-learning-content.md)
+[Skill sensing for learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/skill-sensing-for-learning-content.md)
 

@@ -53,14 +53,14 @@ Allows you to adjust an anomaly tolerance by manipulating the percentage range o
 -   When you hover over the chart following the alert, the normal range and adjusted data range distribution \(upper boundary and lower boundary\) will be displayed for quick comparison.
 -   If the lower boundary value exceeds the upper boundary, the range width will prevent the lower limit from surpassing the upper limit.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
 
-[Instance Data Replication](instance-observer-metrics.md)
+[Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/instance-observer-metrics.md)
 
-[Instance Observer reports overview](i-o-reports.md)
+[Instance Observer reports overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/i-o-reports.md)
 
-[Anomaly insights](addl-inf-io-anomaly.md)
+[Anomaly insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/addl-inf-io-anomaly.md)
 

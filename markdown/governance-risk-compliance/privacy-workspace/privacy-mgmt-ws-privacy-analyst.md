@@ -24,7 +24,7 @@ A privacy analyst has the sn\_privacy.analyst role. The primary tasks for a priv
 
 The following image shows the processing activity overview page for the privacy analyst.
 
-![Home page for the Privacy analyst.](../image/processing-activity-prm-hr-onboarding-sample.png "Processing activity overview page")
+![Home page for the Privacy analyst.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/processing-activity-prm-hr-onboarding-sample.png "Processing activity overview page")
 
-**Parent Topic:**[Exploring Privacy Management](explore-privacy-management.md)
+**Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 

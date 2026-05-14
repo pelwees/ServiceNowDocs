@@ -58,7 +58,7 @@ Define how you will measure whether the agent is working before you build it. Th
 
 ## Next step
 
-When your use case is defined, your agent type and activation model are chosen, and your success criteria are documented, proceed to [Build your agent](naai-tutorial-build-agent.md).
+When your use case is defined, your agent type and activation model are chosen, and your success criteria are documented, proceed to [Build your agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-build-agent.md).
 
-**Parent Topic:**[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 

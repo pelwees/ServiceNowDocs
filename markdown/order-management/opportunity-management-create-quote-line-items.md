@@ -30,7 +30,7 @@ Role required: sales\_agent
 
 ## What to do next
 
-To learn more about using the Quote Management workspace, see [Using Quote Management](quote-mgmt-using.md).
+To learn more about using the Quote Management workspace, see [Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md).
 
-**Parent Topic:**[Create a quote from an opportunity](opportunity-management-create-quote.md)
+**Parent Topic:**[Create a quote from an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-quote.md)
 

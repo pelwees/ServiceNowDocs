@@ -31,11 +31,11 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     1.  In the Express List pane, select the check box for the desired alert.
 
-        **Note:** To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](../image/icon-chevron.png)\) at the beginning of the alert group row.
+        **Note:** To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-chevron.png)\) at the beginning of the alert group row.
 
     2.  Select the **Alert actions** drop-down list.
 
-        ![Alert actions drop down arrow](../image/alert-actions-tool-tip.png)
+        ![Alert actions drop down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alert-actions-tool-tip.png)
 
     3.  Under **Response actions**, select **Create Incident**.
 

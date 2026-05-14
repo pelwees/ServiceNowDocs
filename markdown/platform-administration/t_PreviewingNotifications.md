@@ -102,5 +102,5 @@ The content of the notification as defined by the template. The **Subject** and 
 6.  Make the necessary changes to the notification or template, if necessary.
 
 
-**Parent Topic:**[Create an email notification](t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
-2.  Open the resource block and then set it to **Draft** ![Draft .](../image/draft-published-slider.png) state.
+2.  Open the resource block and then set it to **Draft** ![Draft .](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/draft-published-slider.png) state.
 
 3.  On the **Resource Script** tab, specify a unique and meaningful **Name** and then define the script:
 
@@ -54,5 +54,5 @@ Type of script:-   Instance Script: Javascript that performs an operation on the
     Add as many scripts as are needed.
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

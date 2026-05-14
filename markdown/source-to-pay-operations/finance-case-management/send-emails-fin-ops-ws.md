@@ -45,12 +45,12 @@ Role required: sn\_fin\_ops.specialist
 
     By default, the email body contains the link to the finance case. You can also use the email templates. For more information on email templates, see [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md).
 
-8.  Select **Send mail**.![Send emails](../image/fin-ops-email.png)
+8.  Select **Send mail**.![Send emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-email.png)
 
 
 ## Result
 
 The email is sent to the recipients. You can view the details of the sent email in the **Emails** tab.
 
-**Parent Topic:**[Finance Operations Workspace Case Details page](../concept/case-details-fin-ops-ws.md)
+**Parent Topic:**[Finance Operations Workspace Case Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/case-details-fin-ops-ws.md)
 

@@ -17,7 +17,7 @@ The BCM administrators configure the Impact analysis dependency update configura
 
 The BCM administrators access the Impact analysis dependency update configuration record by navigating to **General Administration** in the application UI. The record contains the configuration details such as the name, order, target records, sources, and notification preferences as shown in the example.
 
-![Impact analysis dependencies update.](../image/impact-ana-dep-update-config.png)
+![Impact analysis dependencies update.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-ana-dep-update-config.png)
 
 ## Configure the sources for adding the dependencies
 
@@ -35,10 +35,10 @@ The snapshot records are displayed in the Pending updates record of the BIA from
 
 BIA owners then update the CMDB assets and dependencies manually by selecting the **Update dependencies** UI action displayed in the Dependency assessment of the BIA. The BIA owners or BIA approvers then review the dependency updates and save the changes to the BIA.
 
-For more information on configuring the Impact analysis dependency update configuration record, see [Set up Impact analysis dependency update configuration](../task/configure-imp-ana-dep-update-module.md).
+For more information on configuring the Impact analysis dependency update configuration record, see [Set up Impact analysis dependency update configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-imp-ana-dep-update-module.md).
 
--   **[Set up Impact analysis dependency update configuration](../task/configure-imp-ana-dep-update-module.md)**  
+-   **[Set up Impact analysis dependency update configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-imp-ana-dep-update-module.md)**  
 Configure the Impact analysis dependency update configuration record to configure the BIA record \(for which the dependencies are updated\), its target records, sources, and notification preferences.
 
-**Parent Topic:**[Dependency Configuration records](dependency-config-modules.md)
+**Parent Topic:**[Dependency Configuration records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/dependency-config-modules.md)
 

@@ -42,5 +42,5 @@ Users can select the display option best suited for their requirements.
 
 
 
-![Comparison of pie charts with colored segments and with black and white patterns.](../image/access-chartlines-compare.png)
+![Comparison of pie charts with colored segments and with black and white patterns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/access-chartlines-compare.png)
 

@@ -95,7 +95,7 @@ Language of the intent. English for ServiceNow NLU is configured by default.If y
 
 Depending on your environment, your configuration may contain entries for other languages \(such as French or German in the example below\) or for other NLU providers, such as IBM Watson.
 
-![VA NLU Dispatches table displaying the configurations for French, German, and IBM Watson in English.](../images/va-nlu-dispatches-full-config.png)
+![VA NLU Dispatches table displaying the configurations for French, German, and IBM Watson in English.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-nlu-dispatches-full-config.png)
 
-**Parent Topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](../concept/natural-language-user-response-handling.md)
+**Parent Topic:**[Enhanced natural language handling of user inputs in NLU topic discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/natural-language-user-response-handling.md)
 

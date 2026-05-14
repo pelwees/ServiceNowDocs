@@ -148,5 +148,5 @@ The system returns field-value pairs for the updated record.
 }
 ```
 
-**Parent Topic:**[Perform record operations using ServiceNow CLI](manage-records.md)
+**Parent Topic:**[Perform record operations using ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/manage-records.md)
 

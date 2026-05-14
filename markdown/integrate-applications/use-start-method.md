@@ -49,7 +49,7 @@ AppType
 
 </td><td>
 
-Opens the Port Properties dialog. The options available are **Chrome**, **Edge**, and **Application**.If you select **Chrome** or **Edge** from the **Static Value** list, the selected browser opens in a new tab. For more information on how to configure port properties, see [Configure port properties](configure-input-port-properties.md).
+Opens the Port Properties dialog. The options available are **Chrome**, **Edge**, and **Application**.If you select **Chrome** or **Edge** from the **Static Value** list, the selected browser opens in a new tab. For more information on how to configure port properties, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
  If you select **Application** from the **Static Value** list, you must provide the full path of the application in the **Path** parameter of the Start method.
 
@@ -86,10 +86,10 @@ No
 
     For example, if you select a Java application screen or element, the Java connector methods are displayed in Object Explorer.
 
-    -   For more information on Java connector methods, see [Java connector methods](../reference/java-connector-methods.md).
-    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](../reference/connectors-chrome-methods.md).
+    -   For more information on Java connector methods, see [Java connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/java-connector-methods.md).
+    -   For more information on Google Chrome and Microsoft Edge connector methods, see [Chromium connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/connectors-chrome-methods.md).
 
-    -   For more information on Windows connector methods, see [Windows Connector methods](../reference/connectors-windows-methods.md).
+    -   For more information on Windows connector methods, see [Windows Connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/connectors-windows-methods.md).
     -   If you have captured a web application screen and you want to execute a custom JavaScript on it, you can use the ExecuteJavascript method.
 
 
@@ -112,5 +112,5 @@ You have a list of employee salary records in an Excel sheet, and you want your 
     -   Trigger the calculation.
     -   Capture the calculated tax amount.
 
-**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+**Parent Topic:**[Universal app connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/universal-app-connector.md)
 

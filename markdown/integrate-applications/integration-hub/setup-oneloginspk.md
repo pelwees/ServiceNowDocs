@@ -37,13 +37,13 @@ Role required: admin or account owner.
 
     **Note:** Ensure that you select either **Manage users** or **Manage all** permission.
 
-    ![OneLogin credential.](../image/onelogin-credential.png)
+    ![OneLogin credential.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/onelogin-credential.png)
 
 5.  Click **Save**.
 
     The values of client ID and client secret are displayed.
 
-    ![Values of client ID and client secret.](../image/onelogin-creds.png)
+    ![Values of client ID and client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/onelogin-creds.png)
 
 6.  Copy and record the values of client ID and client secret for later use.
 

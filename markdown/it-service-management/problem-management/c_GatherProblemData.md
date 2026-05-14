@@ -31,7 +31,7 @@ The Dependency Views map provides a visual representation of the configuration i
 
 For example, the following image is a map for the CI **nyc rac na200**, which is a mass storage device.
 
-![Dependency views map](../image/ProbBSM1.png "Map for nyc rac nas200 storage device")
+![Dependency views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/ProbBSM1.png "Map for nyc rac nas200 storage device")
 
 The icons beside CIs indicate the following information. You can view information for the selected CI by clicking **Details** in the form header, or by pointing to the icon and viewing a pop-up box.
 
@@ -49,9 +49,9 @@ If a baseline is [generated](https://raw.githubusercontent.com/ServiceNow/Servic
 
 To check the CMDB Baseline, view the CI record and check **Baseline Differences** and **Scheduled Changes**. The administrator can use the form designer to add these formatters.
 
-![View baseline differences](../image/problem-baseline.png "Problem baseline")
+![View baseline differences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-baseline.png "Problem baseline")
 
 In the example above, the change in RAM is associated with a change request. You can review the change and see what was planned and what was implemented. The removal of QuickTime software was recorded as an unplanned change.
 
-**Parent Topic:**[Reference section for Problem Management](reference-section-for-problem-management.md)
+**Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 

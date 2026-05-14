@@ -27,20 +27,20 @@ Role required: admin
 
     **Note:** **hrm\_ticket\_page** is available only when you have the Employee Center \[com.sn\_hr\_service\_portal\] plugin.
 
-    ![Page route mapping](enable-page-route-hr.png)
+    ![Page route mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/enable-page-route-hr.png)
 
 3.  Create the page route map from **hrsp\_ticket** to **standard\_ticket**.
 
     **Note:** **hrsp\_ticket** is available only when you have Human Resources Scoped App: Core \[com.sn\_hr\_core\] plugin, without the Employee Service Center \[com.sn\_hr\_service\_portal\] plugin.
 
-    ![Page route mapping](enable-page-route-hr2.png)
+    ![Page route mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/enable-page-route-hr2.png)
 
 4.  Create the page route map from **ticket** to **standard\_ticket**.
 
     **Note:** **ticket** is available only Non-HR catalog items.
 
-    ![Page route mapping](enable-page-route-hr3.png)
+    ![Page route mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/enable-page-route-hr3.png)
 
 
-**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](../concept/ur-hr-standard-ticket-page.md)
+**Parent Topic:**[Standard Ticket Page view for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/ur-hr-standard-ticket-page.md)
 

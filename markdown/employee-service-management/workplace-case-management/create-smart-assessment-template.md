@@ -73,5 +73,5 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
     **Note:** Templates must be published before they can be attached to triggers and used in workplace cases.
 
 
-**Parent Topic:**[Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
+**Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 

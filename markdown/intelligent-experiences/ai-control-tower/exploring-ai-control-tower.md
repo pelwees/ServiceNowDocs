@@ -42,12 +42,12 @@ The AI asset data model catalogs different AI assets such as AI systems, AI mode
 
 To learn more about AI Control Tower and other applications integrating with its workspace, see the following topics:
 
--   [AI Control Tower dashboard](ai-governance.md)
--   [Configure AI Control Tower](configuring-ai-governance.md)
+-   [AI Control Tower dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-governance.md)
+-   [Configure AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configuring-ai-governance.md)
 -   [AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
--   [Explore Now Assist AI asset discovery](now-assist-asset-discovery.md)
--   [Enterprise AI discovery: Unlock Visibility, Governance &amp; Value](enterprise-ai-discovery.md)
--   [AI Gateway](ai-gateway-overview.md)
--   [Using AI Control Tower](using-ai-control-tower.md)
--   [AI Control Tower reference](../reference/aict-references.md)
+-   [Explore Now Assist AI asset discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/now-assist-asset-discovery.md)
+-   [Enterprise AI discovery: Unlock Visibility, Governance &amp; Value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/enterprise-ai-discovery.md)
+-   [AI Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-overview.md)
+-   [Using AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/using-ai-control-tower.md)
+-   [AI Control Tower reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../reference/aict-references.md)
 

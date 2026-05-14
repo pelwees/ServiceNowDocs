@@ -22,7 +22,7 @@ With the JavaScript syntax editor, you can use the following features:
 -   Script macros for common code shortcuts
 -   Linting using the ESLint utility
 
-![JavaScript code in the syntax editor](../image/JavaScriptSyntaxEditor.png "JavaScript syntax editor")
+![JavaScript code in the syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/JavaScriptSyntaxEditor.png "JavaScript syntax editor")
 
 ## Configuring the syntax editor
 
@@ -36,10 +36,10 @@ The Syntax Editor plugin \(com.glide.syntax\_editor\) is required to use this fu
 
 For more information about system properties, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
--   **[Using the JavaScript syntax editor](../reference/r_EdtJvaScptWSyntxEdtr.md)**  
+-   **[Using the JavaScript syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/r_EdtJvaScptWSyntxEdtr.md)**  
 The syntax editor provides editing functions to support editing JavaScript scripts.
--   **[Create a script macro for the syntax editor](../task/t_ManageScriptMacros.md)**  
+-   **[Create a script macro for the syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../task/t_ManageScriptMacros.md)**  
 Administrators can define new script macros or modify existing script macros.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../topic/c_Script.md)
 

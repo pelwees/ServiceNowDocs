@@ -36,18 +36,18 @@ Role required: sn\_shop.shopper
     |**Revise purchase**|Tap the Actions icon to revise your purchase. On the **Revise purchase** screen, enter the revised quantity and delivery location, and tap the Next icon.|
 
 
-**Parent Topic:**[Using Shopping Hub Mobile](../concept/using-sh-mobile.md)
+**Parent Topic:**[Using Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-sh-mobile.md)
 
 **Related topics**  
 
 
-[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+[Shopper to-dos on your mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/shopper-todos-mobile.md)
 
-[Display My Purchases on your mobile instance](display-my-purchases-on-mobile.md)
+[Display My Purchases on your mobile instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/display-my-purchases-on-mobile.md)
 
-[Shopping Hub Mobile](../concept/shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shoppinghub-mobile.md)
 
-[My purchases on Shopping Hub](../concept/my-purchases.md)
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/my-purchases.md)
 
-[Display My Purchases on your mobile instance](display-my-purchases-on-mobile.md)
+[Display My Purchases on your mobile instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/display-my-purchases-on-mobile.md)
 

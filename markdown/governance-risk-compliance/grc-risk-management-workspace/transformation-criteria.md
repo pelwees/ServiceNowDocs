@@ -19,7 +19,7 @@ Scores are transformed into a rating because ratings provide clear meaning and i
 
 The following figure shows an example of the rating transformation criteria.
 
-![Numeric scores are transformed into a rating.](../image/semi-quantitative-risk.png "Rating transformation Criteria")
+![Numeric scores are transformed into a rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/semi-quantitative-risk.png "Rating transformation Criteria")
 
-**Parent Topic:**[Types of risk rating methodologies](qual-vs-quant.md)
+**Parent Topic:**[Types of risk rating methodologies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/qual-vs-quant.md)
 

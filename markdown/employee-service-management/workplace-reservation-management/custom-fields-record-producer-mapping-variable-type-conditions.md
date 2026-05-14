@@ -81,22 +81,22 @@ In the Workplace Reservation \(sn\_wsd\_rsv\_reservation\) table, Columns relate
 -   The columns in the table are created to only store the data.
 -   The **Max length** field is considered to save the data with **Max length**.
 
-**Parent Topic:**[Workplace Reservation Management references](../concept/rsv-mgmt-references.md)
+**Parent Topic:**[Workplace Reservation Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/rsv-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Reservation Management](components-installed-with-wsd-reservation-mgmt.md)
+[Components installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/components-installed-with-wsd-reservation-mgmt.md)
 
-[Properties installed with Workplace Reservation Management](properties-installed-with-wsd-reservation-mgmt.md)
+[Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md)
 
-[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+[Workplace Reservation Management - Field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/workplace-reservation-management-field-descriptions.md)
 
-[Proximity calculation when browsing near a person](proximity-calculation-for-browse-near-person.md)
+[Proximity calculation when browsing near a person](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/proximity-calculation-for-browse-near-person.md)
 
-[Reservable module derivation logic for Space details](../concept/reservation-logic-for-myfavorites-space-details.md)
+[Reservable module derivation logic for Space details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/reservation-logic-for-myfavorites-space-details.md)
 
-[Mobile push notifications for workplace reservations](reservation-push-notifications.md)
+[Mobile push notifications for workplace reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-push-notifications.md)
 
-[Location privacy settings and impact](location-privacy-settings-and-impact.md)
+[Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/location-privacy-settings-and-impact.md)
 

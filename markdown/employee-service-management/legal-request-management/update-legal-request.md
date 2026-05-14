@@ -85,9 +85,9 @@ Steps
 
 </td><td>
 
--   To upload a new document, select the add attachment icon \(![Add attachment icon.](../image/add-attachment-icon.png)\) and select a file.
--   To rename an attached file, select the edit file name icon \(![Edit file name icon.](../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
--   To remove an attached file, select the delete icon \(![Delete icon.](../../legal-digital-forensics/image/delete-icon.png)\).
+-   To upload a new document, select the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/add-attachment-icon.png)\) and select a file.
+-   To rename an attached file, select the edit file name icon \(![Edit file name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
+-   To remove an attached file, select the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../legal-digital-forensics/image/delete-icon.png)\).
 
 
 </td></tr><tr><td id="d736336e240">
@@ -113,5 +113,5 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Legal Matters** tab appears only when the legal request is associated with a legal matter, and you have permission to view legal matters.
 
 
-**Parent Topic:**[Using Legal Request Management](../concept/submitting-legal-request.md)
+**Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/submitting-legal-request.md)
 

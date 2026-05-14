@@ -25,7 +25,7 @@ Role required: sn\_kpi.admin
 
 2.  Select **Create**.
 
-    The **Crate new action plan item** dialog box is displayed.![Create new action plan item dialog box for creating milestone](../image/create-milestone-task.png)
+    The **Crate new action plan item** dialog box is displayed.![Create new action plan item dialog box for creating milestone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/create-milestone-task.png)
 
 3.  Select **Milestone**.
 
@@ -48,5 +48,5 @@ Role required: sn\_kpi.admin
 7.  Select **Save** to create and save the new milestone.
 
 
-**Parent Topic:**[Create action plan for KPIs](create-action-plan-for-kpis.md)
+**Parent Topic:**[Create action plan for KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 

@@ -26,7 +26,7 @@ CSM Configurable Workspace presents the Core UI lists and forms in one interface
 
 List pages for CSM Configurable Workspace are created with the List page template in UI Builder. The List page template includes the Record List component bundle and List menu component.
 
-![CSM Configurable Workspace includes several filtered lists that display database table, record, and field data](../image/csm-config-ws-lists.png "CSM Configurable Workspace lists")
+![CSM Configurable Workspace includes several filtered lists that display database table, record, and field data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-ws-lists.png "CSM Configurable Workspace lists")
 
 ## Record List component bundle
 
@@ -52,7 +52,7 @@ The List menu component is configured by admins in UI Builder. For information o
 
 The Predicate Builder component enables agents to set conditions from the list header to filter which records appear in a list.
 
-![Predicate Builder for a Configurable Workspace](../../../administer/workspace/image/configurable-workspace-predicate-builder.png)
+![Predicate Builder for a Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../administer/workspace/image/configurable-workspace-predicate-builder.png)
 
 The Predicate Builder is configured by admins in UI Builder. For more information, see [Predicate Builder UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/zurich/now-components/now-predicate-builder/overview).
 

@@ -36,10 +36,10 @@ The Suggested Relationship \(cmdb\_rel\_type\_suggest\) table is not domain sepa
 
 By default domain separation is supported in the relationship editor.
 
-**Parent Topic:**[CI relations formatter](c_CIRelationsFormatterNG.md)
+**Parent Topic:**[CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationsFormatterNG.md)
 
 **Related topics**  
 
 
-[Domain separation and Configuration Management Database \(CMDB\)](domain-separation-cmdb.md)
+[Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 

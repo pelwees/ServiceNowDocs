@@ -21,5 +21,5 @@ Internal jobs are tracked in the Job Posting \[sn\_ta\_hiring\_core\_job\_postin
 
 Artificial Intelligence \(AI\) is used in search to make sure the most relevant opportunities are returned.
 
-**Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](egd-oppt-mrktplc-explore.md)
+**Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 

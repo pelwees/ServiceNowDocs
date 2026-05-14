@@ -15,9 +15,9 @@ Extend the capabilities of Public Sector Digital Services and connect with other
 
 Public Sector Digital Services provides integrations with the following applications:
 
-[Field Service Management](psds-integration-fsm.md)
+[Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-integration-fsm.md)
 
-[Financial Services OperationsDocument Processor](psds-integration-fso-doc-pro.md)
+[Financial Services OperationsDocument Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-integration-fso-doc-pro.md)
 
 Integrating the Public Sector Digital Services application with the Field Service Management application enables you to create and view all work orders and appointments related to your case, depending on the business needs.
 

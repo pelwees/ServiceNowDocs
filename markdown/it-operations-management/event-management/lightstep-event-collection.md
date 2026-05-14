@@ -61,7 +61,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
         Use the ServiceNow destination to connect only with the ServiceNow platform. If you have any issues with the ServiceNow destination, then use the **webhook** destination option.
 
-        ![Choose ServiceNow](../image/choose-webhook.png)
+        ![Choose ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/choose-webhook.png)
 
 3.  In your ServiceNow Cloud Observability platform, create a ServiceNow notification destination.
 
@@ -75,7 +75,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
     4.  In the **Password** field, enter your ServiceNow user password.
 
-        ![ServiceNow Cloud Observability ServiceNow Destination](../image/lightstep-servicenow-destination.png "Create a ServiceNow destination")
+        ![ServiceNow Cloud Observability ServiceNow Destination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/lightstep-servicenow-destination.png "Create a ServiceNow destination")
 
         **Note:** In a ServiceNow instance, CI binding occurs only if the name of the service in the ServiceNow Cloud Observability platform value matches the name fields of the CI you created in the **cmdb\_ci\_service\_auto** table.
 
@@ -95,7 +95,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
     4.  Select the **ServiceNow Event Management** option.
 
-        ![ServiceNow event management template](../image/lightstep-webhook-destination-payload-template.png)
+        ![ServiceNow event management template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/lightstep-webhook-destination-payload-template.png)
 
         **Note:** In a ServiceNow instance, CI binding occurs only if the name of the service in the ServiceNow Cloud Observability platform value matches the name fields of the CI you created in the **cmdb\_ci\_service\_auto** table.
 
@@ -103,7 +103,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
         **Note:** In a ServiceNow instance, CI binding occurs only if the **service-name** header value matches the name fields of the CI you created in the **cmdb\_ci\_service\_auto table**.
 
-        ![Create a Webhook](../image/create-webhook.png "Create a Webhook")
+        ![Create a Webhook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/create-webhook.png "Create a Webhook")
 
     6.  Select **Create**.
 
@@ -117,7 +117,7 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
 
     4.  According to the destination that you created, in the **Notification Rules** area, in the **Send Notifications to** field, select your notification destination type and search for the destination name.
 
-        ![Send notification destinations type](../image/lightstep-send-alert-notification-types.png)
+        ![Send notification destinations type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/lightstep-send-alert-notification-types.png)
 
     5.  Select **Save**.
 
@@ -129,5 +129,5 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provid
         -   4- Warning
         -   5- Info
 
-**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 

@@ -31,16 +31,16 @@ In the Application Files table, look up the components that are installed with t
 
     The list of Application Files records is displayed.
 
-2.  Click the personalize list icon \(![gear icon](../../../common/image/gear.png)\), and add the **Package** column to the list.
+2.  Click the personalize list icon \(![gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../common/image/gear.png)\), and add the **Package** column to the list.
 
 3.  Filter the list with these conditions to show only the components for the plugin:
 
     **\[Package\] \[is\] \[ _&lt;plugin name&gt;_\]**
 
-4.  In the **Class** column heading, click the menu icon \(![menu icon](../image/HamburgerMenu.png)\) and select **Group by Class**.
+4.  In the **Class** column heading, click the menu icon \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/HamburgerMenu.png)\) and select **Group by Class**.
 
 5.  Select the class of information that you want to view.
 
 
-**Parent Topic:**[Basic system configuration](../../core-configuration/concept/p_CoreConfigurationOverview.md)
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../core-configuration/concept/p_CoreConfigurationOverview.md)
 

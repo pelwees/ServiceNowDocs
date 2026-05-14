@@ -28,6 +28,6 @@ Role required: admin.
 
 4.  Copy and record the generated value for later use.
 
-    ![Client Secret or Authorization Key](../image/auth-token.png)
+    ![Client Secret or Authorization Key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integrate-applications/../image/auth-token.png)
 
 

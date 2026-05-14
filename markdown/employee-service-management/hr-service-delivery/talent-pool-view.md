@@ -19,7 +19,7 @@ View all the important specifications of a talent pool in the Talent pool record
 
 The **Details** tab shows you the basic details of the pool like the name, number, owner, collaborators.
 
-As an owner, you can view or edit the details. As a collaborator or if it has been shared with you, you get a read-only view of the details. For more information on notifications for collaborated or shared pools, see [Email notification for Talent pools](notification-tp.md).
+As an owner, you can view or edit the details. As a collaborator or if it has been shared with you, you get a read-only view of the details. For more information on notifications for collaborated or shared pools, see [Email notification for Talent pools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/notification-tp.md).
 
 You must have the sn\_ta\_tp\_talent\_profile.user role to own, share, or collaborate on a Talent pool.
 
@@ -27,12 +27,12 @@ You must have the sn\_ta\_tp\_talent\_profile.user role to own, share, or collab
 
 The **Talent** tab lists all the talent profiles added to the pool. You can perform the following actions within the **Talent** tab.
 
--   [Add talent profiles to a Talent pool](../task/add-talent-to-pool.md).
--   [Create talent profiles](../task/create-talent-ta.md).
--   [Copy talent to pool](../task/copy-talent-other-pool.md).
--   [Copy talent profiles as job prospects](../task/copy-talent-to-leads.md).
--   [Remove talent profiles from a pool](../task/remove-talent-from-pool.md).
--   [Delete a Talent pool](../task/delete-talent-pool.md).
+-   [Add talent profiles to a Talent pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/add-talent-to-pool.md).
+-   [Create talent profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-talent-ta.md).
+-   [Copy talent to pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/copy-talent-other-pool.md).
+-   [Copy talent profiles as job prospects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/copy-talent-to-leads.md).
+-   [Remove talent profiles from a pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/remove-talent-from-pool.md).
+-   [Delete a Talent pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/delete-talent-pool.md).
 
 ## Record History tab
 

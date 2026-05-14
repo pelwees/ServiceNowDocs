@@ -107,7 +107,7 @@ Legal team
 
 To learn more about configuring and using External Legal Service Center, see:
 
--   [Configuring up External Legal Service Center](lsd-ext-portal-config-land-page.md)
--   [Using External Legal Service Center](lsd-ext-portal-use-landing.md)
--   [External Legal Service Center reference](lsd-ext-portal-reference-landing.md)
+-   [Configuring up External Legal Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-config-land-page.md)
+-   [Using External Legal Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-use-landing.md)
+-   [External Legal Service Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-reference-landing.md)
 

@@ -40,7 +40,7 @@ Users of the operational vulnerability are listed in the Assignment section on t
 
 4.  On the Vulnerability New record form, fill in the fields.
 
-    To view more information on the fields, see the [Create New Operational vulnerability form](../reference/create-new-op-vul-form.md).
+    To view more information on the fields, see the [Create New Operational vulnerability form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-op-vul-form.md).
 
 5.  Select the treatment decision for the vulnerability.
 
@@ -71,7 +71,7 @@ Users of the operational vulnerability are listed in the Assignment section on t
 
     The sidebar discussion is displayed as shown in the example.
 
-    ![Sidebar.](../image/op-vul-sidebar.png)
+    ![Sidebar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-sidebar.png)
 
     The New discussion created is also displayed in the Activity panel of the record.
 

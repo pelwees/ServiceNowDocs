@@ -36,7 +36,7 @@ Create conditions to be able to filter and identify the most relevant territory 
 
 2.  In the Territories panel, select a territory from the Browse All list.
 
-3.  Select the **Actions** icon \(![Actions icon.](../image/more_actions.png)\) on the territory card and select **View Details**.
+3.  Select the **Actions** icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/more_actions.png)\) on the territory card and select **View Details**.
 
 4.  Select **More** and then select **Territory Conditions**.
 

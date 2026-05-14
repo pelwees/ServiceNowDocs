@@ -73,8 +73,8 @@ Card configuration allows you to customize the appearance and features of space 
 
 11. Confirm the new field appears in the space card.
 
-    ![field details configuration on the space card.](../images/wsd-card-config-user.png)
+    ![field details configuration on the space card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../images/wsd-card-config-user.png)
 
 
-**Parent Topic:**[Configure a workplace card](configure-workplace-card.md)
+**Parent Topic:**[Configure a workplace card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-card.md)
 

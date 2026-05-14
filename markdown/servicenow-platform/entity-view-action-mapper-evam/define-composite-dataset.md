@@ -42,7 +42,7 @@ Role required: admin or evam\_admin
 
 </td><td>
 
-[You can define a new data source](define-evam-datasource.md) and then link this data source to your EVAM definition.
+[You can define a new data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-evam-datasource.md) and then link this data source to your EVAM definition.
 
 </td></tr><tr><td id="d358662e196">
 
@@ -71,7 +71,7 @@ You can remove the selected data source from your EVAM definition.
 
 </td><td>
 
-[You can define a new configuration bundle](define-view-configuration-bundle.md) and then link this bundle to your EVAM definition.
+[You can define a new configuration bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-view-configuration-bundle.md) and then link this bundle to your EVAM definition.
 
 </td></tr><tr><td id="d358662e255">
 

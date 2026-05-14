@@ -27,9 +27,9 @@ Role required: Itil, sn\_incident\_write
 
     A list of time-off requests is displayed. The list is divided into pending and completed requests.
 
-3.  Tap the filter icon \(![Filter icon.](../../../product/knowledge-management/image/filter-settings.png)\) to view specific time-off requests.
+3.  Tap the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../product/knowledge-management/image/filter-settings.png)\) to view specific time-off requests.
 
-4.  Tap the menu icon \(![Menu icon.](../image/inveted-menu-ocs.png)\) and select **Request time-off**.
+4.  Tap the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/inveted-menu-ocs.png)\) and select **Request time-off**.
 
 5.  Complete the following fields on the Request time-off form:
 

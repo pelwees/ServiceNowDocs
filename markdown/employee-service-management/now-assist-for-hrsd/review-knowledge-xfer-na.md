@@ -17,7 +17,7 @@ Departing employees working for organizations using the offboarding knowledge tr
 
 ## Before you begin
 
-The manager must have completed the knowledge transfer request for the departing employee. For more information about this process, see [Generate offboarding knowledge transfer plans using Now Assist](generate-knowledge-xfer-na.md).
+The manager must have completed the knowledge transfer request for the departing employee. For more information about this process, see [Generate offboarding knowledge transfer plans using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/generate-knowledge-xfer-na.md).
 
 Role required: employee
 

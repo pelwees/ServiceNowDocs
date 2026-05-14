@@ -36,5 +36,5 @@ You can opt out of the SPM Benchmarks at any time.
     You can choose to opt out of SPM Benchmarks at any time. To opt out of benchmarks as a whole, including but not limited to SPM Benchmarks, navigate to **All** &gt; **Benchmarks** &gt; **Setup** and click **Opt-out of ServiceNow Benchmarks**.
 
 
-**Parent Topic:**[Configuring SPM Benchmarks](configuring-benchmarks.md)
+**Parent Topic:**[Configuring SPM Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/configuring-benchmarks.md)
 

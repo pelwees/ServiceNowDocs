@@ -137,17 +137,17 @@ The Human Resources Manager dashboard contains the following visualizations:
 
 |Title|Type|
 |-----|----|
-|\# Breached SLA|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|\# Critical Cases|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|\# Not updated last 10 days|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|\# Unassigned Open Cases|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|Approvals Requested|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|Open Backlog|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
-|Open Backlog by State|List ![List icon3](../../performance-analytics/image/scorecard-icon.png)|
-|Open Backlog by State|Horizontal bar ![Horizontal bar icon](../../performance-analytics/image/horizontal-bar.png)|
-|Open Cases Distribution|Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)|
-|Time Spent in Each Group\(last 6 months\)|Multilevel Pivot ![Multilevel pivot icon](../../performance-analytics/image/pivot-scorecard-icon.png)|
-|Unassigned Cases|Single Score ![Single-score icon](../../performance-analytics/image/single-score.png)|
+|\# Breached SLA|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|\# Critical Cases|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|\# Not updated last 10 days|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|\# Unassigned Open Cases|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|Approvals Requested|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|Open Backlog|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
+|Open Backlog by State|List ![List icon3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/scorecard-icon.png)|
+|Open Backlog by State|Horizontal bar ![Horizontal bar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/horizontal-bar.png)|
+|Open Cases Distribution|Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/heatmap.png)|
+|Time Spent in Each Group\(last 6 months\)|Multilevel Pivot ![Multilevel pivot icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/pivot-scorecard-icon.png)|
+|Unassigned Cases|Single Score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../performance-analytics/image/single-score.png)|
 
-**Parent Topic:**[HR Performance Analytics Dashboards](human-resources-content-pack.md)
+**Parent Topic:**[HR Performance Analytics Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/human-resources-content-pack.md)
 

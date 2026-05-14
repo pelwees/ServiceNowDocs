@@ -103,7 +103,7 @@ Add reference filter
 
 </td><td>
 
-Option to filter the list of reference records in a linked condition column where the input type is **Reference** and the Data to evaluate is **Reference record**. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](../concept/format-decision-table-in-decision-designer.md#).
+Option to filter the list of reference records in a linked condition column where the input type is **Reference** and the Data to evaluate is **Reference record**. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/format-decision-table-in-decision-designer.md#).
 
 </td></tr></tbody>
 </table>    **Note:** For the Choice input type, the ability to select an existing choice list depends on the choice list living on a table in the same application scope as the decision table. For example, if you create a decision table in the Global scope, you can use any existing choice list on tables in the Global scope. But, if you create a decision table in a custom scope, you can only use existing choice lists from tables in the same custom scope.
@@ -244,7 +244,7 @@ Add reference filter
 
 </td><td>
 
-Option to filter the list of reference records in the result column when the result type is Reference. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](../concept/format-decision-table-in-decision-designer.md#).
+Option to filter the list of reference records in the result column when the result type is Reference. Use this field to build a filter condition statement. For more information, see [Filter reference inputs and results in a decision table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/format-decision-table-in-decision-designer.md#).
 
 </td></tr></tbody>
 </table>    **Note:** The Currency and True/False result types have several important exceptions.
@@ -261,7 +261,7 @@ Option to filter the list of reference records in the result column when the res
     -   Point to a result column and select the plus icon \(+\).
 16. For each condition, click into the empty box in the condition column to select an operator and enter a value.
 
-    ![Decision table with empty cells](../image/populate-decision-table.png)
+    ![Decision table with empty cells](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/populate-decision-table.png)
 
     For more information about operators, see [Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md).
 
@@ -269,9 +269,9 @@ Option to filter the list of reference records in the result column when the res
 
     Decision rule view supports complex conditions that may not fit into the table structure.
 
-    ![Decision rule view.](../image/decision-rule-view.png "Decision rule view")
+    ![Decision rule view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/decision-rule-view.png "Decision rule view")
 
-    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](../concept/manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
+    **Note:** Using Decision rule view can result in creating complex conditions. Tables with advanced rows can be edited in Excel but advanced rows are read-only. For more information, see [Manage decision tables in Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/manage-decision-tables-ms-excel.md). Where possible, split complex decisions into multiple simplified decision rule rows.
 
     1.  Edit the condition as needed.
 
@@ -279,7 +279,7 @@ Option to filter the list of reference records in the result column when the res
 
 18. For each result, click into the empty box in the result column and enter a result value.
 
-    ![Empty decision table, adding results](../image/populate-decision-table-results.png)
+    ![Empty decision table, adding results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/populate-decision-table-results.png)
 
 19. Add more decision rules by selecting **Add new decision row** and entering conditions and desired results.
 
@@ -287,10 +287,10 @@ Option to filter the list of reference records in the result column when the res
 
 21. Select **Publish**.
 
-    A modal appears asking if you’re sure you want to publish. If you want to make edits to this table after it's published, you must create a draft of the table. For more information about editing a published decision table, see [Edit decision tables using draft authoring](edit-decision-tables-using-draft-authoring.md).
+    A modal appears asking if you’re sure you want to publish. If you want to make edits to this table after it's published, you must create a draft of the table. For more information about editing a published decision table, see [Edit decision tables using draft authoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/edit-decision-tables-using-draft-authoring.md).
 
 22. Select **Publish**.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/using-decision-builder.md)
 

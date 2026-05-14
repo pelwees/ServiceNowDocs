@@ -33,5 +33,5 @@ The second **Parallel Flow Launcher** activity uses WorkflowCoordinator objects 
 
 ![](../image/WFParallelActivityDetail2.png "Specifying which subflows to run")
 
-**Parent Topic:**[Parallel Flow Launcher workflow activity](r_ParallelFlowLauncher.md)
+**Parent Topic:**[Parallel Flow Launcher workflow activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ParallelFlowLauncher.md)
 

@@ -70,11 +70,11 @@ MID Servers that have been validated are displayed. The MID Server status and th
 
 3.  On the **Application Services** page, locate **ServiceNow Event Management** and click **View Service**.
 
-    ![Event Management health — application service](../image/application-service.png)
+    ![Event Management health — application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/application-service.png)
 
     Displayed on the map are the related MID Servers and the Event Management object, as depicted in the following image; these MID Servers have an **UP** status. MID Servers are updated when they are created or deactivated.
 
-    ![Event Management application service map](../image/view-map.png)
+    ![Event Management application service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/view-map.png)
 
     Under the Event Management object is Event Processing, Alert Processing, and Event Sources \(for example, connectors\). Only **Active** connectors are shown; when a connector is created, the connector is displayed only after it has been activated. The status of active connectors is updated and the status of non-active connectors is not displayed.
 
@@ -85,5 +85,5 @@ MID Servers that have been validated are displayed. The MID Server status and th
 
 You can select the configuration item that has a critical alert and change the impact from parent to application service.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/self-monitoring.md)
 

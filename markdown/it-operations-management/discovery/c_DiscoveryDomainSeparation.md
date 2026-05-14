@@ -73,10 +73,10 @@ Records in all tables that extend the Base Configuration Item \[cmdb\] table can
 -   Load Balancer VLAN Interface \[cmdb\_lb\_vlan\_interface\]
 -   Switch Port \[cmdb\_switch\_port\]
 
--   **[Configure domain-separated Discovery schedules](../task/configure-domain-separated-discovery-schedules.md)**  
+-   **[Configure domain-separated Discovery schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/configure-domain-separated-discovery-schedules.md)**  
 Configuring the "Run as" user in a Discovery schedule directs discovered Configuration Items \(CIs\) to the correct domain and maintains data isolation.
 
-**Parent Topic:**[Configuring Discovery](c_DiscoveryConfiguration.md)
+**Parent Topic:**[Configuring Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryConfiguration.md)
 
 **Related topics**  
 
@@ -85,5 +85,5 @@ Configuring the "Run as" user in a Discovery schedule directs discovered Configu
 
 [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-[Discovery behaviors](c_DiscoveryBehaviors.md)
+[Discovery behaviors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md)
 

@@ -23,7 +23,7 @@ Role required: cmdb\_ot\_isa\_admin
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Open the list \(![List icon in the Industrial Workspace.](../../../common/image/icon-list.png)\) view.
+2.  Open the list \(![List icon in the Industrial Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../../common/image/icon-list.png)\) view.
 
 3.  Under the **Industrial Process Manager** module, select the Sites list.
 
@@ -40,5 +40,5 @@ Role required: cmdb\_ot\_isa\_admin
 
 The **OT VR assignment group** field is updated for each selected site.
 
-**Parent Topic:**[Review and update the equipment model details](../../mftg-manufacturing-process-mgr/task/equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../../mftg-manufacturing-process-mgr/task/equipment-model-workspace.md)
 

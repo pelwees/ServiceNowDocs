@@ -24,7 +24,7 @@ Role required: sn\_change\_cab.cab\_manager
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the List icon \(![List icon.](../image/sow-list.png)\).
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-list.png)\).
 
 3.  In the **Change Advisory Board** tab, select **My upcoming CAB meetings**.
 
@@ -34,7 +34,7 @@ Role required: sn\_change\_cab.cab\_manager
 
     The CAB meeting opens in the CAB Workbench.
 
-    ![CAB workbench shows a CAB meeting in progress, and an agenda item with its details.](../image/cm-cab-workbench-meeting-sow.png)
+    ![CAB workbench shows a CAB meeting in progress, and an agenda item with its details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/cm-cab-workbench-meeting-sow.png)
 
 6.  Select **Start meeting** to start the meeting.
 
@@ -83,12 +83,12 @@ Role required: sn\_change\_cab.cab\_manager
 
 8.  In the contextual menu, view the meeting details, attendees list, and take meeting notes.
 
-    -   Select the meeting information icon \(![Meeting information icon.](../image/cm-icon-meeting-info.png)\) to view the meeting details.
-    -   Select the attendees icon \(![Attendees icon.](../image/cm-icon-attendee.png)\) to view the list of attendees along with their response to the meeting invitation.
+    -   Select the meeting information icon \(![Meeting information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/cm-icon-meeting-info.png)\) to view the meeting details.
+    -   Select the attendees icon \(![Attendees icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/cm-icon-attendee.png)\) to view the list of attendees along with their response to the meeting invitation.
 
         The green circle mark next to the name of attendees indicates they are currently connected to the meeting.
 
-    -   Select the notes icon \(![Notes icon.](../image/cm-icon-meeting-notes.png)\) to enter meeting notes and save into the CAB meeting record or email it to the attendees.
+    -   Select the notes icon \(![Notes icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/cm-icon-meeting-notes.png)\) to enter meeting notes and save into the CAB meeting record or email it to the attendees.
 
         **Note:** Only the CAB manager or delegates can enter the notes for the overall meeting. Other attendees in the meeting can review the notes in the read-only mode.
 
@@ -102,22 +102,22 @@ Role required: sn\_change\_cab.cab\_manager
     -   **Meeting end time**: Shows when the meeting ended.
     -   **Meeting notes**: Shows notes taken during the meeting and decision comments on agenda items.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 
 **Related topics**  
 
 
-[Create a change request in Service Operations Workspace](create-change-sow.md)
+[Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-sow.md)
 
-[Work on a change request in Service Operations Workspace](work-on-change-sow.md)
+[Work on a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 
-[Create a change task in Service Operations Workspace](create-change-task-sow.md)
+[Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md)
 
-[Work on a change task in Service Operations Workspace](work-on-change-task-sow.md)
+[Work on a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-task-sow.md)
 
-[Create a Change Advisory Board \(CAB\) definition](cm-create-cab-definition-sow.md)
+[Create a Change Advisory Board \(CAB\) definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-definition-sow.md)
 
-[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 

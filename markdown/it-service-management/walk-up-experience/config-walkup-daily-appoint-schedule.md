@@ -44,7 +44,7 @@ Create a unique appointment booking schedule for each day of the week or for spe
     |Repeats|Indicate the recurrence for this availability schedule. For example, **Weekly on Tue and Thu**.|
     |Repeat until|Specify how long you want this availability schedule to run by selecting an end date.|
 
-    ![Schedule Entry Excludes form](../image/TuesdayThursdayExcluded.png)
+    ![Schedule Entry Excludes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/TuesdayThursdayExcluded.png)
 
 5.  Select **Submit**.
 
@@ -62,8 +62,8 @@ Create a unique appointment booking schedule for each day of the week or for spe
 
 10. Determine that appointments are only available on Tuesdays and Thursdays from 9:00am to 12:00pm.
 
-    ![Appointment selection choices](../image/SelectAnAppointment.png)
+    ![Appointment selection choices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/SelectAnAppointment.png)
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-appointment-booking-config.md)
 

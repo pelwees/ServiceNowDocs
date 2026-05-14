@@ -18,7 +18,7 @@ Create a use case record to define a document you want to process with Now Assis
 
 ## Before you begin
 
--   If the Now Assist in Document Intelligence skill has been deactivated, activate the skill.For more information, see [Activate a Now Assist in Document Intelligence skill](activate-now-assist-in-document-intelligence-skill.md).
+-   If the Now Assist in Document Intelligence skill has been deactivated, activate the skill.For more information, see [Activate a Now Assist in Document Intelligence skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/activate-now-assist-in-document-intelligence-skill.md).
 -   Role required: Admin, DocIntel Admin, DocIntel Manager
 
 ## About this task
@@ -27,7 +27,7 @@ In a use case, you define the information you want Now Assist to get from a docu
 
 Once you have defined a use case, users can begin processing documents for it in the related workflows.
 
-For more information on use cases, see [Use cases in Now Assist in Document Intelligence](../concept/use-cases-now-assist-document-intelligence.md).
+For more information on use cases, see [Use cases in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/use-cases-now-assist-document-intelligence.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ For more information on use cases, see [Use cases in Now Assist in Document Inte
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( ![Field options menu icon](../image/icon-docintel-field-options-menu.png)\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( ![Field options menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-field-options-menu.png)\).
 
 4.  Select **New use case**.
 
@@ -51,11 +51,11 @@ For more information on use cases, see [Use cases in Now Assist in Document Inte
 
         If the files contain multiple languages, select the primary language.
 
-        For more information, see [Languages supported by Now Assist in Document Intelligence](../reference/languages-supported-now-assist-document-intelligence.md).
+        For more information, see [Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/languages-supported-now-assist-document-intelligence.md).
 
     4.  Select the large language model \(LLM\) that will make predictions for the documents processed with this use case.
 
-        For more information, see [Large language models used by Now Assist in Document Intelligence](../reference/llms-now-assist-document-intelligence.md).
+        For more information, see [Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/llms-now-assist-document-intelligence.md).
 
     5.  Turn on image mode to process images more efficiently.
 
@@ -97,16 +97,16 @@ For more information on use cases, see [Use cases in Now Assist in Document Inte
 
         The type of form depends on the type of field.
 
-        -   [Question form for use case setup](../reference/document-qna-single-field-form.md)
-        -   [Field form for use case setup](../reference/document-extraction-single-field-form.md)
-        -   [Table form for use case setup](../reference/document-extraction-table-form.md)
-        ![Form used to define a piece of information to extract from a document.](../image/docintel-na-de-field-form.png "Field form for document extraction")
+        -   [Question form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/document-qna-single-field-form.md)
+        -   [Field form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/document-extraction-single-field-form.md)
+        -   [Table form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/document-extraction-table-form.md)
+        ![Form used to define a piece of information to extract from a document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-de-field-form.png "Field form for document extraction")
 
     4.  Select **Save**.
 
         The system adds the new fields, tables, or questions to the Informationlist associated with the use case.
 
-    5.  To edit or delete a field, table, or question, select the appropriate option in the options menu \( ![Field options menu icon](../image/icon-docintel-field-options-menu.png)\) of the row.
+    5.  To edit or delete a field, table, or question, select the appropriate option in the options menu \( ![Field options menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-field-options-menu.png)\) of the row.
 
     6.  Select **Save and Continue**.
 
@@ -150,7 +150,7 @@ Upload from this device
 </td></tr></tbody>
 </table>    2.  Select **Continue**.
 
-        **Tip:** Select the **Open in a new tab** button \(![Open in a new tab icon.](../image/icon-docintel-na-test-tab.png)\) to view the document in a larger workspace on a separate browser tab.
+        **Tip:** Select the **Open in a new tab** button \(![Open in a new tab icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-na-test-tab.png)\) to view the document in a larger workspace on a separate browser tab.
 
         The Document Intelligence workspace appears in a frame on the Test output screen.
 
@@ -164,7 +164,7 @@ Upload from this device
 
     This option is available when a target table is selected for the use case.
 
-    For more information on Document Intelligence integrations, see [Integrate with a custom application or workflow](configure-integration-setup.md).
+    For more information on Document Intelligence integrations, see [Integrate with a custom application or workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/configure-integration-setup.md).
 
     1.  Select **Add integration**.
 
@@ -199,22 +199,22 @@ Upload from this device
     3.  Select **Complete setup**.
 
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/docintel-configuring-now-assist.md)
 
 **Related topics**  
 
 
-[Activate a Now Assist in Document Intelligence skill](activate-now-assist-in-document-intelligence-skill.md)
+[Activate a Now Assist in Document Intelligence skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/activate-now-assist-in-document-intelligence-skill.md)
 
-[Turn on Full automation mode for a use case](turn-on-full-automation-for-document-extraction-na.md)
+[Turn on Full automation mode for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/turn-on-full-automation-for-document-extraction-na.md)
 
-[Change the language models for a use case](change-llm-for-use-case.md)
+[Change the language models for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/change-llm-for-use-case.md)
 
-[Edit a use case in Now Assist in Document Intelligence](edit-now-assist-document-intelligence-use-case.md)
+[Edit a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/edit-now-assist-document-intelligence-use-case.md)
 
-[Make a copy of a use case in Now Assist in Document Intelligence](make-copy-of-now-assist-document-intelligence-use-case.md)
+[Make a copy of a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/make-copy-of-now-assist-document-intelligence-use-case.md)
 
-[Deactivate a use case in Now Assist in Document Intelligence](deactivate-now-assist-document-intelligence-use-case.md)
+[Deactivate a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/deactivate-now-assist-document-intelligence-use-case.md)
 
-[Delete a use case in Now Assist in Document Intelligence](delete-now-assist-document-intelligence-use-case.md)
+[Delete a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/delete-now-assist-document-intelligence-use-case.md)
 

@@ -58,7 +58,7 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 </td><td>
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Outside Counsel section of the **Lists** menu, select **All**.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Outside Counsel section of the **Lists** menu, select **All**.
 
 
 </td></tr></tbody>
@@ -78,5 +78,5 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
     -   If you have added details from the Legal Matter module, select **Update**.
     -   If you have added details from the Legal Counsel Center, select **Save**.
 
-**Parent Topic:**[Configure data to enable matter creation in Legal Tracker](lmm-config-data-mtemplates.md)
+**Parent Topic:**[Configure data to enable matter creation in Legal Tracker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-config-data-mtemplates.md)
 

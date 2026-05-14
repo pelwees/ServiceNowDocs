@@ -89,7 +89,7 @@ Output:
  {ticker: "Now", change_percentage: "0", close_price: "165.77 USD", summary: "Shares of Now closed at 165.77" }
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Transformer - Transformer\(Object transformerDefinition, String document\)
 

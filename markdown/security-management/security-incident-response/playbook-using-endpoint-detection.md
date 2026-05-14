@@ -34,13 +34,13 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     1.  In Action 4, you need to identify the application or the process being detected as a threat and gather information about the detection reasoning to proceed further on to safe listing.
 
-        ![Response tasks to determine whether the file is not malicious.](../image/playbook-endpoint-detection-malicious.png "Endpoint Detection playbook")
+        ![Response tasks to determine whether the file is not malicious.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-endpoint-detection-malicious.png "Endpoint Detection playbook")
 
     2.  In Action 5, you need to check whether the application is from a trusted source \(For example, Microsoft, Adobe, or other well-known software vendors\).
 
     3.  In Action 6, if the application is from a trusted source, then you need to take action on the CrowdStrike Falcon alerts.
 
-        ![Response tasks to take action on CrowdStrike Falcon alerts.](../image/playbook-endpoint-detection-crowd.png "CrowdStrike Falcon alerts")
+        ![Response tasks to take action on CrowdStrike Falcon alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-endpoint-detection-crowd.png "CrowdStrike Falcon alerts")
 
     4.  In Action 7, perform the following actions:
 
@@ -76,7 +76,7 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
         4.  In Action 20, based on the result of the Forensic Analysis, perform host isolation and remove the malicious file/hash.
         5.  In Action 21, if the user credentials are compromised or the threat can’t be removed easily, raise an IT ticket to reset the user credentials or reimage the machine as required.
         6.  In Action 22, perform host unisolation.
-        ![Response tasks to determine if it's a high-risk file.](../image/playbook-endpoint-detection-risk.png "High-risk file")
+        ![Response tasks to determine if it's a high-risk file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-endpoint-detection-risk.png "High-risk file")
 
     3.  In Action 23, if the file isn’t a high-risk file, then perform the following actions:
 
@@ -86,5 +86,5 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 5.  In Action 24, a response task is created for the user to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Endpoint Detection](../concept/playbook-endpoint-detection.md)
+**Parent Topic:**[Playbook for Endpoint Detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-endpoint-detection.md)
 

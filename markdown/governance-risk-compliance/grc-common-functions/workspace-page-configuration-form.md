@@ -106,5 +106,5 @@ Custom process flow information for the stepper seismic component in the default
  **Note:** This field is greyed out when the **State field** is selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure workspace page](../task/configure-workspace-page.md)
+</table>**Parent Topic:**[Configure workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/configure-workspace-page.md)
 

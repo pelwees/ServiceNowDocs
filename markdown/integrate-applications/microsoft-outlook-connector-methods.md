@@ -293,7 +293,7 @@ Retrieves and returns a list of folder names from the active outlook account.
 
 Retrieves all details of an email, specified by its unique entry ID \(MailId\).
 
-To specify additional criteria for retrieving all details of an email, on the GetMail method bar, click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\), select the required mail items such as CC, BCC, Subject, Body, Sender, To, AttachmentsCount, ReceivedTime, EntryId.
+To specify additional criteria for retrieving all details of an email, on the GetMail method bar, click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\), select the required mail items such as CC, BCC, Subject, Body, Sender, To, AttachmentsCount, ReceivedTime, EntryId.
 
 |Parameter|Description|Data port type|Data type|
 |---------|-----------|--------------|---------|
@@ -1134,5 +1134,5 @@ The SetAccount method must be used initially, before any other method of this co
 |---------|-----------|--------------|---------|
 |AccountName|This parameter specifies the Outlook email account ID on which you want to perform operations.|Data in|String|
 
-**Parent Topic:**[Microsoft Outlook](../concept/microsoft-outlook-connector.md)
+**Parent Topic:**[Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/microsoft-outlook-connector.md)
 

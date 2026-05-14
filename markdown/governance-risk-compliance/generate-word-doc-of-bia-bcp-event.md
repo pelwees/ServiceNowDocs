@@ -31,11 +31,11 @@ You can control whether to retain or replace the existing report attachments by 
 
     A BIA record with the UI action is shown in the example.
 
-    ![BIA record.](../image/gen-ms-word-action.png)
+    ![BIA record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/gen-ms-word-action.png)
 
     The Generate report window is displayed.
 
-    ![Generate report window.](../image/generate-report.png)
+    ![Generate report window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/generate-report.png)
 
 4.  Select the report template for the BIA, BCP, or event and add the name of the report.
 

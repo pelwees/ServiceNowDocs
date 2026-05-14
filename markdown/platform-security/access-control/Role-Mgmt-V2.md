@@ -35,7 +35,7 @@ When Contextual Security: Role Management V2 is activated, the following columns
 
 The Role Inheritance Map displays a visual representation of inherited roles. You can use this map to understand the roles represented in the Inheritance Count \(inh\_count\) column. To view the Role Inheritance Map, configure the User Roles \[sys\_user\_has\_role\] table to display the Role Inheritance Map column.
 
-![Role inheritance map](../image/RoleInheritanceMap.png "Role Inheritance Map")
+![Role inheritance map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/RoleInheritanceMap.png "Role Inheritance Map")
 
 **Note:** Concurrent update to group or role assignment may result in incorrect inheritance count. You must enable the `glide.security.inh_count_patcher.enabled` property to get the exact inheritance count.
 

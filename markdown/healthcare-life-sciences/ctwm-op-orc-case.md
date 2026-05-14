@@ -119,5 +119,5 @@ A detailed description of the work being requested.
 
 ## What to do next
 
-[Input Orchestration task details into the Operational Rounding playbook](ctwm-op-healthcare-orc-tasks.md)
+[Input Orchestration task details into the Operational Rounding playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-healthcare-orc-tasks.md)
 

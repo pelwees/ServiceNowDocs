@@ -26,11 +26,11 @@ You can also view the site data for the following Operational Technology applica
 -   Operational Technology Incident Management
 -   Operational Technology Change Management
 
-You can configure the OT Progress Scorecard using the Industrial Workspace Admin Guided Setup. For more information about the setup tasks, see [Setting up the Operational Technology Progress Scorecard](setting-up-the-ot-progress-scorecard.md).
+You can configure the OT Progress Scorecard using the Industrial Workspace Admin Guided Setup. For more information about the setup tasks, see [Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md).
 
 ## Scorecard contents
 
-To access the OT Progress Scorecard, navigate to **All** &gt; **Industrial Workspace** and select the **OT Progress Scorecard** \(![OT Progress Scorecard icon](../image/ot-progress-scorecard-icon.png)\) icon.
+To access the OT Progress Scorecard, navigate to **All** &gt; **Industrial Workspace** and select the **OT Progress Scorecard** \(![OT Progress Scorecard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ot-progress-scorecard-icon.png)\) icon.
 
 The following table describes columns in the OT Progress Scorecard.
 
@@ -48,7 +48,7 @@ Overall Score \(%\)
 
 </td><td>
 
-The progress of your site determined by the indicators on the scorecard. You can edit the weightage to control how much an indicator contributes to the overall score. For more information, see [Set the system properties for the Operational Technology Progress Scorecard](../task/set-the-system-properties-for-ot-progress-scorecard.md).
+The progress of your site determined by the indicators on the scorecard. You can edit the weightage to control how much an indicator contributes to the overall score. For more information, see [Set the system properties for the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../task/set-the-system-properties-for-ot-progress-scorecard.md).
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ The progress of your site determined by the indicators on the scorecard. You can
 
 </td><td>
 
-The percentage of your OT devices that you expect to have in the Configuration Management Database \(CMDB\).**Note:** If you see a value of -1, then one or more of the values in the % of Expected OT Devices in CMDB indicator is missing the **Expected OT Device** attribute in the OTPSC Attributes table. For information about how to configure expected OT devices see [Configure the expected OT devices for a site](../task/configure-expected-ot-devices.md).
+The percentage of your OT devices that you expect to have in the Configuration Management Database \(CMDB\).**Note:** If you see a value of -1, then one or more of the values in the % of Expected OT Devices in CMDB indicator is missing the **Expected OT Device** attribute in the OTPSC Attributes table. For information about how to configure expected OT devices see [Configure the expected OT devices for a site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../task/configure-expected-ot-devices.md).
 
 </td></tr><tr><td>
 
@@ -143,5 +143,5 @@ OT Incidents with OT Context \(%\)
 The percentage of OT incidents that have OT device or equipment model data.**Note:** If you see a value of 0, then no OT devices have been found.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the Industrial Workspace](exploring-industrial-workspace.md)
+</table>**Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 

@@ -25,11 +25,11 @@ To manually apply a CMDB remediation, a CMDB remediation rule must exist, in whi
 
 Except for the duplicate and audit health metrics, you can choose to create tasks for health test failures for a metric.
 
-To remediate failures of the duplicate metric, use [de-duplication tasks](t_ResolveDeDuplicationTask.md).
+To remediate failures of the duplicate metric, use [de-duplication tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ResolveDeDuplicationTask.md).
 
 For all metrics except for audit, each CI that failed a metric test is associated with a single task. Because a CI can fail multiple audits, a single CI can be associated with multiple audit tasks. The first of those tasks is in the **Task** field, and any additional tasks are in the **Additional Tasks** field. To remediate failures of the audit metric, refer to the audit tasks for the audits that the CI failed.
 
-CMDB remediation is applied in the [CMDB Workspace store app](../concept/cmdb-workspace.md)and [Service Graph Workspace store app](../concept/sg-workspace.md).
+CMDB remediation is applied in the [CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-workspace.md)and [Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/sg-workspace.md).
 
 ## Procedure
 
@@ -54,10 +54,10 @@ CMDB remediation is applied in the [CMDB Workspace store app](../concept/cmdb-wo
 7.  Select **Next**.
 
 
-**Parent Topic:**[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
+**Parent Topic:**[Create a CMDB remediation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBRemediationRule.md)
 
 **Related topics**  
 
 
-[Create a CMDB remediation rule](t_CreateCMDBRemediationRule.md)
+[Create a CMDB remediation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBRemediationRule.md)
 

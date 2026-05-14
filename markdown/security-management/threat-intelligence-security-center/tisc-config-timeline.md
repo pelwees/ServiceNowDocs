@@ -23,7 +23,7 @@ Role required: sn\_sec\_tisc.admin
 
 As an administrator, you can configure the custom event types to align the timeline with organizational investigative needs, ensuring relevant events are highlighted and improving temporal threat analysis.
 
-Analysts can add, edit, or remove events associated with the intelligence records. The timeline also preserves the user specific date ranges for each canvas providing a consistent and detailed analysis experience. For more information, see [Adding Timeline Events to the Canvas](tisc-add-timeline-events.md).
+Analysts can add, edit, or remove events associated with the intelligence records. The timeline also preserves the user specific date ranges for each canvas providing a consistent and detailed analysis experience. For more information, see [Adding Timeline Events to the Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-timeline-events.md).
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Specifies the color of the icon that represents the event on the timeline.
 
 5.  Navigate to **Timeline Event Configuration** section to add or remove the objects or observables.
 
-    ![Timeline configuration](../image/tisc-config-timeline.png)
+    ![Timeline configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-config-timeline.png)
 
 6.  Select **Add** to add or edit the entity and applicable table for an object or observable, which means you can now specify which tables the timeline applies to.
 
@@ -122,5 +122,5 @@ Specifies the color of the icon that represents the event on the timeline.
 
 ## What to do next
 
-Once the event is configured, you can navigate to the Investigation Canvas to verify the timeline entry and add or edit entries. For more information, see [Adding Timeline Events to the Canvas](tisc-add-timeline-events.md). To understand more about using timeline feature, see [Using Timeline in Investigation Canvas](tisc-timeline-events.md).
+Once the event is configured, you can navigate to the Investigation Canvas to verify the timeline entry and add or edit entries. For more information, see [Adding Timeline Events to the Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-timeline-events.md). To understand more about using timeline feature, see [Using Timeline in Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-timeline-events.md).
 

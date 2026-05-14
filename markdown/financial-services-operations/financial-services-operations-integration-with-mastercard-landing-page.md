@@ -19,19 +19,19 @@ The ServiceNow® Financial Services Operations Integration with Mastercard strea
 
 <table id="table_g4t_jnr_szb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Integration with Mastercard.](exploring-financial-services-operations-integration-with-mastercard.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Integration with Mastercard.](exploring-financial-services-operations-integration-with-mastercard.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan and configure your integration.](configuring-financial-services-operations-integration-with-mastercard.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Plan and configure your integration.](configuring-financial-services-operations-integration-with-mastercard.md)
 
 </td></tr><tr><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to seamlessly integrate with Mastercard Spoke.](../task/activate-mastercard-spoke.md)
+[Activate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to seamlessly integrate with Mastercard Spoke.](../task/activate-mastercard-spoke.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed.](../reference/components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components that are installed.](../reference/components-installed-with-the-financial-services-operations-integration-with-mastercard.md)
 
 </td></tr></tbody>
 </table>## Request Financial Services Operations Integration with Mastercard on the store

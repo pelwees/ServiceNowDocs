@@ -19,7 +19,7 @@ Role required: security\_admin
 
 ## About this task
 
-You can also create scheduled jobs for mass encryption and decryption. See [Schedule mass encryption, decryption, and rekeying jobs](schedule-mass-jobs.md) for instructions.
+You can also create scheduled jobs for mass encryption and decryption. See [Schedule mass encryption, decryption, and rekeying jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md) for instructions.
 
 Mass encryption and decryption are available only when an encrypted field configuration uses the single cryptographic module. Mass decryption is available for both the single and multiple encryption method.
 
@@ -42,5 +42,5 @@ Mass encryption and decryption are available only when an encrypted field config
 
 If running a mass encryption, all values are encrypted with the encryption module defined in the encrypted field configuration record. If running a mass decryption, only fields encrypted with an encryption module you have access to are decrypted.
 
-**Parent Topic:**[Encrypting fields and attachments](../concept/field-encryption-key-management.md)
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/field-encryption-key-management.md)
 

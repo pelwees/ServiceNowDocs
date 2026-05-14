@@ -33,7 +33,7 @@ Starting with version 14.7 of Configuration Compliance, the **Assignment group, 
 
 2.  Open the **Assignment group, Test** rule or click **New**.
 
-    ![New Remediation Task rule example](../image/TRGRExample.png)
+    ![New Remediation Task rule example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/TRGRExample.png)
 
 3.  If **New**, fill in the fields on the form, as appropriate.
 

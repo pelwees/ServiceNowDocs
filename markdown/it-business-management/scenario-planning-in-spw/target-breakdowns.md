@@ -32,7 +32,7 @@ The following examples help you understand how the target progress is calculated
 
         This Target value distribution means that the final target value is divided into 12 equal values \(planned target value for each target breakdown\) which aggregates to the final target value. You can edit the planned target value later from the respective target breakdown record as needed.
 
-    ![Target breakdowns with monthly cumulative breakdowns.](../images/target-breakdowns-monthly-non-cumulative.gif)
+    ![Target breakdowns with monthly cumulative breakdowns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/target-breakdowns-monthly-non-cumulative.gif)
 
     In this case, the application creates 12 target breakdowns \(January, February,………, and December\) for calender year 2025 and sets the Planned target value for each target breakdown to 100 \(Final target value divided by the number of target breakdowns\).
 
@@ -51,7 +51,7 @@ The following examples help you understand how the target progress is calculated
 
         This Target value distribution means that the final target value is divided linearly into 12 planned target values \(such a way that the value for the last monthly breakdown is equal to the final target value\). You can edit the planned target value later from the respective target breakdown record as needed.
 
-    ![Target breakdowns with monthly non-cumulative breakdowns](../images/target-breakdowns-monthly-cumulative.gif)
+    ![Target breakdowns with monthly non-cumulative breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/target-breakdowns-monthly-cumulative.gif)
 
     In this case, the application creates 12 target breakdowns \(January, February,………, and December\) for calender year 2025 and sets the Planned target value for the January, February,………, and December breakdowns to 100, 200,…….., and 1200 respectively.
 
@@ -64,7 +64,7 @@ The following examples help you understand how the target progress is calculated
 
 The **Progress** tab in the target’s side panel provides graphical visualization for the trend of the target progress based on the planned target value and the actual value of the breakdowns. You can also edit the planned target and view the check-in history of the target actuals from the **Progress** tab.
 
-![Graphical visualisation of target progress.](../images/trend-of-a-target-spw.gif)
+![Graphical visualisation of target progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/trend-of-a-target-spw.gif)
 
 ## Benefits of target breakdowns
 

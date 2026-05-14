@@ -23,9 +23,9 @@ Role required: admin
 
 1.  Go to the Upgrade Preview page to preview the Upgrade Plan.
 
-2.  Check the Upgrade Plan mentioned on the Previewing version card.![Image showing previewing version card](../../upgrade-center/image/uc-previewing-version-card.png)
+2.  Check the Upgrade Plan mentioned on the Previewing version card.![Image showing previewing version card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-previewing-version-card.png)
 
-3.  Check the Predicted skipped records with upgrade plan card to preview the skipped records.![Image showing predicted skipped records with upgrade plan card](../../upgrade-center/image/uc-predicted-skipped-records-up.png)
+3.  Check the Predicted skipped records with upgrade plan card to preview the skipped records.![Image showing predicted skipped records with upgrade plan card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-predicted-skipped-records-up.png)
 
     -   Total: total number of skipped records
     -   Resolved: skipped records included in the upgrade plan
@@ -33,5 +33,5 @@ Role required: admin
     **Note:** This step is applicable only if you have enabled the GLIDE\_UPGRADE\_PLAN\_INCLUDE\_SKIPS property.
 
 
-**Parent Topic:**[Prepare to upgrade with Upgrade Plan](um-prepare-upgrade-plan.md)
+**Parent Topic:**[Prepare to upgrade with Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-prepare-upgrade-plan.md)
 

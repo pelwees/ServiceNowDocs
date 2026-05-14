@@ -17,7 +17,7 @@ The process of collecting assessment data from a third party moves between sever
 
 ## Third-party assessment states
 
-![States of an external assessment.](../image/vrm-states.png "Third-party assessment states")
+![States of an external assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vrm-states.png "Third-party assessment states")
 
 -   **Draft**
 
@@ -49,5 +49,5 @@ The process of collecting assessment data from a third party moves between sever
     When all data is acceptable, the assessment is complete and a member of the team closes the assessment. If the engagement will be contracted, the **Closed** state initiates the contract risk process.
 
 
-**Parent Topic:**[Third-party \(external\) risk assessment management](../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+**Parent Topic:**[Third-party \(external\) risk assessment management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-workspace-vrm/reference/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 

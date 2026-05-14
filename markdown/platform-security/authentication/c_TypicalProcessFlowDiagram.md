@@ -15,5 +15,5 @@ breadcrumb: [SAML 2.0 concepts, SAML, Multi-Provider single sign-on \(SSO\), Aut
 
 A typical SSO logic flow involves looking for an active session, checking user credentials, and creating the necessary token.
 
-![SSO flow](../image/SSOStandard.png "SSO Standard")
+![SSO flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/SSOStandard.png "SSO Standard")
 

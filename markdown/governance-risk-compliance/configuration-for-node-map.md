@@ -21,7 +21,7 @@ The main node configuration comprises several key properties:
 -   An order field that auto-increments by 10 \(You can update the order field manually.\)
 -   A direction property defining relationships between configuration items and entities
 
-You can update these property settings from the UI directly. For more information on setting up the Main node configurations in your instance, see [Configure the Main node configurations](../task/set-up-main-node.md).
+You can update these property settings from the UI directly. For more information on setting up the Main node configurations in your instance, see [Configure the Main node configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/set-up-main-node.md).
 
 ## Nexus map configuration related list in the Main node configuration
 
@@ -37,5 +37,5 @@ To access the entity hierarchy graphically, select the **Resilience Map** button
 
 The Nexus map feature is accessible to multiple user roles, although its configuration settings are read-only. The configuration for Nexus Map is managed through the Main node configuration, with related lists for the node relationship and edge configurations. You can customize properties such as maximum number of nodes, maximum number of children, and edge properties. Based on your configuration settings, the resulting node map is displayed in the UI.
 
-**Parent Topic:**[Nexus map configurations](nexus-map-configuration.md)
+**Parent Topic:**[Nexus map configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/nexus-map-configuration.md)
 

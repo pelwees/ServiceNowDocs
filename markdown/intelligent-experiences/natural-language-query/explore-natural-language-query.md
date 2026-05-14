@@ -30,7 +30,7 @@ NLQ is a ServiceNow AI Platform feature that is active by default and supports t
 -   Single number
 -   Multi-table
 
-For more information, see [Using Natural Language Query](using-nlq.md).
+For more information, see [Using Natural Language Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/using-nlq.md).
 
 NLQ doesn't support domain separation. It also doesn't support on-premise instances.
 

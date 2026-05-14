@@ -44,7 +44,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
     The view is updated to reflect the changes made.
 
-6.  To edit name of the view, select the Portfolio plan view drop-down from the portfolio plan header and then select Edit view icon \(![edit view icon.](../../spw-roadmap/images/edit-view-icon-spw.png)\) next to the view you want to edit the name for.
+6.  To edit name of the view, select the Portfolio plan view drop-down from the portfolio plan header and then select Edit view icon \(![edit view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/edit-view-icon-spw.png)\) next to the view you want to edit the name for.
 
     On the Edit view window, fill the details.
 
@@ -60,19 +60,19 @@ Role required: sn\_align\_core.ap\_read\_only
 
         The name of the view is updated.
 
-        ![Edit portfolio plan view name.](../images/edit-view-name-ppw.gif)
+        ![Edit portfolio plan view name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/edit-view-name-ppw.gif)
 
 
 ## What to do next
 
-Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](share-portfolio-plan-in-portfolio-planning-workspace.md).
+Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](../concept/managing-portfolio-plan-views-ppw.md)
+**Parent Topic:**[Managing portfolio plan views in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-portfolio-plan-views-ppw.md)
 
 **Related topics**  
 
 
-[Create a portfolio plan view](create-portfolio-plan-view-ppw.md)
+[Create a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-view-ppw.md)
 
-[Delete a portfolio plan view](delete-portfolio-plan-view-ppw.md)
+[Delete a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/delete-portfolio-plan-view-ppw.md)
 

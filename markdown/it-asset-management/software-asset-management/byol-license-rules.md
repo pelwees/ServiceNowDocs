@@ -410,5 +410,5 @@ One on-premise subscription license is required for every two cloud-based virtua
 
 **Note:** This rule is only one of the licensing rules for Red Hat Enterprise Linux Server BYOS. Refer to the official Red Hat Enterprise Linux website for the complete list of licensing rules.
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

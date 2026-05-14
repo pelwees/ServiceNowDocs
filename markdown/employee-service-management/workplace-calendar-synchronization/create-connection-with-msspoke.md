@@ -24,7 +24,7 @@ Ensure the following:
     **Important:** After installing Microsoft Exchange Online spoke, check that the **Data Stream action** field of the Data source **Exchange Online Calendar** is not set to empty. Otherwise, repair the Microsoft Exchange Online spoke plugin.
 
 2.  After installing Microsoft Exchange Online spoke, depending on what type of customer you are, perform the following actions:
-    -   If you are a new customer, to install the applications, refer to [Install Workplace Calendar Synchronization](install-workplace-calendar-synchronization.md).
+    -   If you are a new customer, to install the applications, refer to [Install Workplace Calendar Synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/install-workplace-calendar-synchronization.md).
     -   If you are an existing customer, upgrade to the latest versions of the following applications:
         -   Workplace Reservation Management
         -   Workplace Calendar Synchronization
@@ -60,20 +60,20 @@ Synchronize reservations using a connection with the Microsoft Exchange Online s
 
 ## What to do next
 
-[Set up OAuth connection with Microsoft Exchange Online](setup-connectivity-with-msexchange-for-calendar-sync.md)
+[Set up OAuth connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-connectivity-with-msexchange-for-calendar-sync.md)
 
-**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](../concept/create-connection-with-msex-in-normal-mode.md)
+**Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../concept/create-connection-with-msex-in-normal-mode.md)
 
 **Related topics**  
 
 
-[Configure Microsoft Azure in normal mode](authenticate-mxexchange-with-azure.md)
+[Configure Microsoft Azure in normal mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-mxexchange-with-azure.md)
 
-[Set up OAuth connection with Microsoft Exchange Online](setup-connectivity-with-msexchange-for-calendar-sync.md)
+[Set up OAuth connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-connectivity-with-msexchange-for-calendar-sync.md)
 
-[Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](create-connection-and-credential-alias-for-msexchange-.md)
+[Configure Connection and credential alias for Microsoft Exchange Online using the default credentials and connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-and-credential-alias-for-msexchange-.md)
 
-[Create your own connection and credential alias for Microsoft Exchange Online](create-own-connection-and-credential-alias-normalmode.md)
+[Create your own connection and credential alias for Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-connection-and-credential-alias-normalmode.md)
 
-[Configure Microsoft Exchange Online calendar provider](configure-xsex-calendar-provider-in-normal-mode.md)
+[Configure Microsoft Exchange Online calendar provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-xsex-calendar-provider-in-normal-mode.md)
 

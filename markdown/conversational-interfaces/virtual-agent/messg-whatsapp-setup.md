@@ -158,7 +158,7 @@ Inbound message verification
 
 </td><td>
 
-Name of the Hash Message Verification record that you created for the inbound hash messages in [step 2](messg-whatsapp-setup.md#wa-hash).
+Name of the Hash Message Verification record that you created for the inbound hash messages in [step 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-setup.md#wa-hash).
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Outbound message verification
 
 </td><td>
 
-Name of the Hash Message Verification record that you created for the inbound hash messages in [step 2](messg-whatsapp-setup.md#wa-hash).**Note:** The values for the **Inbound message verification** and **Inbound message verification** fields are the same.
+Name of the Hash Message Verification record that you created for the inbound hash messages in [step 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-setup.md#wa-hash).**Note:** The values for the **Inbound message verification** and **Inbound message verification** fields are the same.
 
 </td></tr></tbody>
 </table>    3.  Click **Submit**.
@@ -215,7 +215,7 @@ Message auth
 
 </td><td>
 
-Message auth that you created in [step 3](messg-whatsapp-setup.md#wa-auth-record).
+Message auth that you created in [step 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-setup.md#wa-auth-record).
 
 </td></tr></tbody>
 </table>    5.  Click **Submit**.

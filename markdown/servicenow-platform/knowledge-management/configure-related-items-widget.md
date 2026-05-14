@@ -50,10 +50,10 @@ The knowledge article view page displays the Related Items section when an artic
 6.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/km-service-portal-widget-instances.md)
 
 **Related topics**  
 
 
-[Map catalog items related to an article](map-related-items.md)
+[Map catalog items related to an article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/map-related-items.md)
 

@@ -27,6 +27,6 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
 2.  Enter the data point in the relevant month cell.
 
-    ![Example with empty Oct 2024 cell selected.](../image/dct_config_irm.png)
+    ![Example with empty Oct 2024 cell selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dct_config_irm.png)
 
 

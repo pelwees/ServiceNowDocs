@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Architectural Artifacts**.
 
@@ -37,31 +37,31 @@ Role required: sn\_apm.apm\_user
 
 8.  On the form, fill in the fields.
 
-    For a description of the field values, see [Create new related entities form](../../reference/eaw-reference/eaw-artifact-releated-entity-form.md).
+    For a description of the field values, see [Create new related entities form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-artifact-releated-entity-form.md).
 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Manage architectural artifacts](../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
+**Parent Topic:**[Manage architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-arch-artifacts.md)
 
 **Related topics**  
 
 
-[Download an architectural artifact version](eaw-download-artifact-version.md)
+[Download an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-download-artifact-version.md)
 
-[Manage access to architectural artifacts](eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-access-to-architectural-artifacts.md)
 
-[Create or edit an architectural artifact from Portfolio page](eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-architectural-artifact.md)
 
-[Delete an architectural artifact version](eaw-delete-an-architectural-artifact-version.md)
+[Delete an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-delete-an-architectural-artifact-version.md)
 
 [eaw-add-an-architectural-artifact-version]
 
-[Request approval for an architectural artifact of type URL or Attachment](eaw-req-approval-artifact-version.md)
+[Request approval for an architectural artifact of type URL or Attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-req-approval-artifact-version.md)
 
-[Share an architectural artifact with users or groups](eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-share--archi-artft-with-users-groups.md)
 
-[View all architectural artifact categories](eaw-view-arch-art-categories.md)
+[View all architectural artifact categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-arch-art-categories.md)
 
-[View all architectural artifacts](eaw-view-all-architectural-artifacts.md)
+[View all architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-architectural-artifacts.md)
 

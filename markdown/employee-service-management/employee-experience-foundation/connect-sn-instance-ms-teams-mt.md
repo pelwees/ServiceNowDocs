@@ -39,5 +39,5 @@ Role required: External admin \(external\_app\_install\_admin\)
     When the apps are successfully installed, the page displays the details of the tenant and available Azure Apps to authorize.
 
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_tnt.md)
 

@@ -45,5 +45,5 @@ The available condition builders for each audit type:
 The default Templates list displays only the active version of each template, but you can update the breadcrumbs to display all template versions.
 
 -   Default Templates List: The default Templates list displays only the active version of each template, filtered by **Audit type**.
--   All Template Versions: To view all template versions for an audit type, click the arrow before **Active=true** to remove that condition from the breadcrumbs. ![Breadcrumbs.](../image/DesiredStateBreadcrumbs.png)
+-   All Template Versions: To view all template versions for an audit type, click the arrow before **Active=true** to remove that condition from the breadcrumbs. ![Breadcrumbs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/DesiredStateBreadcrumbs.png)
 

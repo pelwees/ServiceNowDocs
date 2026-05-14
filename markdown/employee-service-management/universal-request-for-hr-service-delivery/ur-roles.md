@@ -62,5 +62,5 @@ Assignment group that consists of tier 1 agents who focus primarily on managing 
 -   Assign the Universal Request to another assignment group, such as HR routing group or IT routing group.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Universal Request](explore-universal-request.md)
+</table>**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 

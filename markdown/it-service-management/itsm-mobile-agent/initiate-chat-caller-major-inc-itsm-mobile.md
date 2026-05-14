@@ -25,13 +25,13 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 2.  Tap **Major incidents** tab, tap **See All**.
 
-    ![See All in major incidents tab.](../image/major-incident-itsm-mobile.png)
+    ![See All in major incidents tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-incident-itsm-mobile.png)
 
 3.  Tap the major incident record you want to work on.
 
 4.  Tap **Caller**.
 
-    ![Major incident details in ITSM Mobile Agent.](../image/major-inc-caller-itsm-mobile.png)
+    ![Major incident details in ITSM Mobile Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-inc-caller-itsm-mobile.png)
 
 5.  Do one of the following:
 
@@ -40,7 +40,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
     |Initiate chat in Slack|Tap on the Slack contact.|
     |Initiate chat in Microsoft Teams|Tap on the Microsoft Teams contact.|
 
-    ![User details in ITSM Mobile Agent.](../image/user-details-2-itsm-mobile.png)
+    ![User details in ITSM Mobile Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/user-details-2-itsm-mobile.png)
 
     **Note:** The Slack and the Microsoft Teams contacts will be displayed only if the caller has a valid Slack and Microsoft Teams accounts.
 

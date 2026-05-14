@@ -61,7 +61,7 @@ Parent Directory
 
 </td><td>
 
-Path of the SolarWinds directory where the data is stored in your low-secure server.See [Configure air gap solution for Service Graph Connector for SolarWinds in a low-secure server](sgc-cmdb-solarwinds-airgap-low-secure.md).
+Path of the SolarWinds directory where the data is stored in your low-secure server.See [Configure air gap solution for Service Graph Connector for SolarWinds in a low-secure server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-low-secure.md).
 
 </td></tr><tr><td>
 
@@ -86,5 +86,5 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 **Related topics**  
 
 
-[Perform a test data load for the air gap solution for Service Graph Connector for SolarWinds](sgc-cmdb-solarwinds-airgap-test-load.md)
+[Perform a test data load for the air gap solution for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-solarwinds-airgap-test-load.md)
 

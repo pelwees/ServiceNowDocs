@@ -24,7 +24,7 @@ Role required: To view your assigned regulatory alerts, you need the sn\_grc\_re
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available," "None," "No records to display," and so on.
 
-To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+To learn about the related roles and regulatory alerts for a recommendation, see [Types of alerts, user roles, and states of regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/reference/user_roles_and_actions.md).
 
 ## About this task
 
@@ -44,15 +44,15 @@ You can view the related activity for each recommendation by selecting the summa
 
     -   On the **Overview** tab, select **Recommend**.
     -   On the **Recommendations** tab, select **Show recommendations**.
-    For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](create-recommendation-reg-alert.md).
+    For more information, see [Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md).
 
 3.  Review potential impact areas by selecting the **Policies** tab in the Recommended areas of the impact section.
 
     The recommended policies only include policies that are part of the existing inventory.
 
-    ![Details of the recommended policy.](../../grc-rcm/image/reco-policy-details.png)
+    ![Details of the recommended policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/image/reco-policy-details.png)
 
-    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+    **Note:** The `Suggest business operations affected by regulatory alert recommendation context` provides the recommendations that you see here. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/recommendation-contexts.md).
 
     If recommendations are available, you can scroll through the generated list of policies recommendation cards and review the information about each policy, such as its name and compliance status.
 
@@ -169,7 +169,7 @@ Related goal or requirement that can be associated with the policy.For each cont
 
 
 </td></tr></tbody>
-</table>    For full descriptions of these fields, see [Create a control objective](../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](../../grc-policy-and-compliance/task/t_DefineAPolicy.md), and [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md).
+</table>    For full descriptions of these fields, see [Create a control objective](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_CreateAPolicyStatement.md), [Create a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_DefineAPolicy.md), and [Create a control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/task/t_CreateAControl.md).
 
 5.  To associate control objectives or risks with your recommendation, navigate to the corresponding tab and select the check box for each record that you want to include as part of the impacted areas.
 
@@ -177,7 +177,7 @@ Related goal or requirement that can be associated with the policy.For each cont
 
     **Note:** The policy you’re reviewing may not have any risks associated with it. Control objectives or risks must be mapped to policies in the inventory for them to appear.
 
-    ![Details of the affected associations for policies.](../../grc-rcm/image/reco-policy-associations.png)
+    ![Details of the affected associations for policies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/image/reco-policy-associations.png)
 
 6.  View the record for a policy, refresh your recommendations, or review related activity for each recommendation.
 
@@ -198,5 +198,5 @@ Related goal or requirement that can be associated with the policy.For each cont
 
 ## What to do next
 
-If you accepted any recommendations, confirm the creation of an impacted area by navigating to the **Impacted areas** tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](add-impacted-area-reg-alert.md).
+If you accepted any recommendations, confirm the creation of an impacted area by navigating to the **Impacted areas** tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md).
 

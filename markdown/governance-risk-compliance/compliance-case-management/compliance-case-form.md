@@ -436,5 +436,5 @@ Save
 Save the details of the compliance case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a compliance case in the Compliance Workspace](../task/create-compliance-case.md)
+</table>**Parent Topic:**[Create a compliance case in the Compliance Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/create-compliance-case.md)
 

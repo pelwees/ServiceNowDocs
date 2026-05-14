@@ -88,10 +88,10 @@ You can perform the following actions from my purchase list page. Select the mor
 
 This list of actions changes based on the state of the order.
 
-**Parent Topic:**[My purchases on Shopping Hub](../concept/my-purchases.md)
+**Parent Topic:**[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/my-purchases.md)
 
 **Related topics**  
 
 
-[Shopper to-dos](shopper-todos.md)
+[Shopper to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 

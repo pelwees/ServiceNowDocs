@@ -25,7 +25,7 @@ This API runs in the `sn_sec_tisc` namespace. The calling user must have the sn\
 
 The current version of this API is `v1`.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## TISC RPZ - POST /sn\_sec\_tisc/rpz\_export
 
@@ -38,7 +38,7 @@ Exports domains and IP addresses in Response Policy Zone \(RPZ\) format.
 
 Click **Add** to save the taxonomy for the domain.
 
-![Domain record in TISC with the Taxonomy fields highlighted.](../image/TISC-RPZ-domain.png "Domain record in TISC")
+![Domain record in TISC with the Taxonomy fields highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/TISC-RPZ-domain.png "Domain record in TISC")
 
 ### URL format
 
@@ -431,7 +431,7 @@ Data type: String
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -457,7 +457,7 @@ Authorization
 
 </td><td>
 
-Basic. For more information about API authentication and authorization, see the REST API security section in [REST APIs](c_RESTAPI.md).
+Basic. For more information about API authentication and authorization, see the REST API security section in [REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 </td></tr><tr><td>
 
@@ -487,7 +487,7 @@ Use this value in the next API request to get the next page of results. Provide 
 </td></tr></tbody>
 </table>### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

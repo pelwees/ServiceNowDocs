@@ -15,7 +15,7 @@ Field Service Capacity and Reservations Management enables managers to assign th
 
 The capacity management process helps you plan work assignments based on priority and demand and ensure that business services are not unavailable due to being over capacity. Reservation rules within capacity management enable you to reserve a certain percentage of time for various tasks. Analyzing past failures and planning for the growth of demand for services help you manage capacity efficiently.
 
-You can use the Capacity Console, an advanced tool designed for monitoring, managing, and optimizing resource capacities across territories and demand channels. For more information, see [Capacity Console](capacity-console.md).
+You can use the Capacity Console, an advanced tool designed for monitoring, managing, and optimizing resource capacities across territories and demand channels. For more information, see [Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/capacity-console.md).
 
 ## Key benefits
 
@@ -28,13 +28,13 @@ Field Service Capacity and Reservations Management provides the following benefi
 **Related topics**  
 
 
-[Configuring Field Service Capacity and Reservations Management](configuring-capacity-management.md)
+[Configuring Field Service Capacity and Reservations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-capacity-management.md)
 
-[View Capacity Usages information](../reference/capacity-usage.md)
+[View Capacity Usages information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/capacity-usage.md)
 
-[Field Service Territory Capacity Analytics dashboard](../../../use/dashboards/application-content-packs/capacity-dashboard.md)
+[Field Service Territory Capacity Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/application-content-packs/capacity-dashboard.md)
 
-[Capacity Console](capacity-console.md)
+[Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/capacity-console.md)
 
-[Field Service Capacity and Reservations Management components](../reference/capacity-management-components.md)
+[Field Service Capacity and Reservations Management components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/capacity-management-components.md)
 

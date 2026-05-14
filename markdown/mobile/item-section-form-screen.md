@@ -15,7 +15,7 @@ Enrich your record screen with the addition of record UI sections displayed in a
 
 ## Before you begin
 
-At least one pre-configured record UI section must be created. For more information, see [Configure a record UI section](sg-ui-section-config-item.md).
+At least one pre-configured record UI section must be created. For more information, see [Configure a record UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 Role required: admin
 
@@ -30,11 +30,11 @@ Role required: admin
     3.  On the Item Sorting form, fill in the fields.
 
         1.  **Name**: Enter a title for the UI section screen.
-        2.  **Icon**: Select the reference lookup icon \(![Reference lookup icon](../image/reference-lookup-icon.png)\) and select an icon from the list.
+        2.  **Icon**: Select the reference lookup icon \(![Reference lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) and select an icon from the list.
 
             **Note:** The icon selected is not displayed in this configuration.
 
-        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [Mobile fetch types](../reference/applet-fetch-types.md).
+        3.  **Fetch Type**: Select either `Prefetch`, `On-demand`, or `Background` as required according to your setup. For more information about these options, see [Mobile fetch types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/applet-fetch-types.md).
     4.  Right-click in the header and select **Save**.
 
 2.  Add record UI sections to the selected section screen.

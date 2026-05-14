@@ -26,16 +26,16 @@ As a host, you can use the portal for the following:
 -   Remind visitors to respond, edit visitor details, or remove a visitor from a visit
 -   Edit a single occurrence or an entire series of recurring visits
 
-![Host portal displaying a list of visits. A single visit is selected and the details are displayed in a separate panel.](../image/wsd-visitor-host-portal.png)
+![Host portal displaying a list of visits. A single visit is selected and the details are displayed in a separate panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../image/wsd-visitor-host-portal.png)
 
-**Parent Topic:**[Exploring Workplace Visitor Management](workplace-visitor-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Visitor registration](register-visitors.md)
+[Visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/register-visitors.md)
 
-[Receptionist portal](receptionist-portal.md)
+[Receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/receptionist-portal.md)
 
-[Visitor portal](visitor-portal.md)
+[Visitor portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/visitor-portal.md)
 

@@ -42,5 +42,5 @@ Specify the semicolon-separated list of addresses that bypass the proxy server. 
 127.0.0.1;\*.internal.com;localhost
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Web proxy](../concept/c_WebProxy.md)
+</table>**Parent Topic:**[Web proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_WebProxy.md)
 

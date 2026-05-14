@@ -146,5 +146,5 @@ Task script
 Task script to be executed when the user selects an action control on the dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure alert actions](../task/configure-alert-action-uib-ws.md)
+</table>**Parent Topic:**[Configure alert actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-alert-action-uib-ws.md)
 

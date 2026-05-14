@@ -57,7 +57,7 @@ Changes to configuration files are associated with CIs to which these files belo
 **Related topics**  
 
 
-[View the change history of application services in legacy Agent Workspace](workspace-view-history-app-service.md)
+[View the change history of application services in legacy Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/workspace-view-history-app-service.md)
 
-[View the change history of application services in classic Service Mapping](t_ViewCIChanges.md)
+[View the change history of application services in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ViewCIChanges.md)
 

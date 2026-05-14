@@ -27,7 +27,7 @@ All agent and crew resources in the assignment group associated with a territory
 
 -   You can customize the membership only of agents and crews who belong to the assignment group that is associated with the territory.
 
--   You must activate Field Service Crew Operations plugin to view and customize crew membership. For more information, see [Activate Field Service Crew Operations](activate-fsm-crew-scheduling.md).
+-   You must activate Field Service Crew Operations plugin to view and customize crew membership. For more information, see [Activate Field Service Crew Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md).
 
 ## Procedure
 

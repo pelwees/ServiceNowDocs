@@ -36,16 +36,16 @@ Role required: itil, sn\_problem\_write, admin, problem\_admin, problem\_coordin
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Problem Task form](../reference/problem-task-form.md).
+    For a description of the field values, see [Problem Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/problem-task-form.md).
 
 6.  Click **Submit**.
 
-    The problem task enters the **New** state. If you have filled the mandatory fields that are necessary to move a problem task record to the **Assess** state, the problem task record directly moves to the **Assess** state. If you want to add any additional field for the assess state, you must add the field at **System UI** &gt; **Form Sections**. For more information, refer [Add a field in the assess mandatory field dialog](add-field-in-assess-dialog-form.md).
+    The problem task enters the **New** state. If you have filled the mandatory fields that are necessary to move a problem task record to the **Assess** state, the problem task record directly moves to the **Assess** state. If you want to add any additional field for the assess state, you must add the field at **System UI** &gt; **Form Sections**. For more information, refer [Add a field in the assess mandatory field dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/add-field-in-assess-dialog-form.md).
 
 
 ## What to do next
 
 Assess the problem task.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-lifecycle.md)
 

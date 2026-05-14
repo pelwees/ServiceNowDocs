@@ -17,13 +17,13 @@ The User Registration Request \[com.snc.user\_registration\] plugin provides the
 
 A user can request an account by navigating to the instance. If the plugin is installed, the following section is added to the welcome screen.
 
-![Welcome screen](../image/WelcomeScreen.png)
+![Welcome screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/WelcomeScreen.png)
 
 The user can complete and submit the self-registration form, and see a confirmation that it was submitted. The user receives an email when the account is registered.
 
 **Note:** If the email address entered in the self-registration form is already in the system, the request is not submitted.
 
-**Parent Topic:**[Creating users](../../roles/concept/ua-creating-users.md)
+**Parent Topic:**[Creating users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../roles/concept/ua-creating-users.md)
 
 ## Approve a self-registered user account
 

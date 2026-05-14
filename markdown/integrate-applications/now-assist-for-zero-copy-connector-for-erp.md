@@ -24,11 +24,11 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_fqw_fwq_2hc" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Now Assist for ZCC](exploring-now-assist-for-zero-copy-connector.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Now Assist for ZCC](exploring-now-assist-for-zero-copy-connector.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Now Assist for ZCC application to get started](../task/configure-now-assist-for-zero-copy-connectors.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the Now Assist for ZCC application to get started](../task/configure-now-assist-for-zero-copy-connectors.md)
 
 </td><td>
 
@@ -36,11 +36,11 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 </td></tr><tr><td>
 
-[Use generative AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use generative AI capabilities offered by Now Assist for ZCC](now-assist-for-zero-copy-connectors-skills.md)
+[Use generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use generative AI capabilities offered by Now Assist for ZCC](now-assist-for-zero-copy-connectors-skills.md)
 
 </td><td>
 
-[Use agentic AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic AI workflows offered by Now Assist for ZCC](zero-copy-connector-for-erp-ai-agents-use-cases.md)
+[Use agentic AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic AI workflows offered by Now Assist for ZCC](zero-copy-connector-for-erp-ai-agents-use-cases.md)
 
 </td><td>
 

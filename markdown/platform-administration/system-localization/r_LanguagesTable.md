@@ -23,14 +23,14 @@ To enable translation to a new language, add a record to the Languages table. Th
 -   Active: Indicator that shows whether the language has been activated \(true\) for this instance or not \(false\)
 -   Fallback: Name of the language that the instance uses if a translation is not available
 
-**Parent Topic:**[Translation tables](r_TranslationTables.md)
+**Parent Topic:**[Translation tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
 **Related topics**  
 
 
-[Activate a language](../task/t_ActivateALanguage.md)
+[Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_ActivateALanguage.md)
 
-[Create a language record](../task/t_CreateANewLanguageRecord.md)
+[Create a language record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_CreateANewLanguageRecord.md)
 
-[Ensure that translated choices appear for applications added by plugins](../task/activate-translated-choices-plugins.md)
+[Ensure that translated choices appear for applications added by plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/activate-translated-choices-plugins.md)
 

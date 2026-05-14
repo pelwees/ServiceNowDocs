@@ -98,8 +98,8 @@ Knowledge
 Finance articles
 
 </td></tr></tbody>
-</table>-   **[View a case from Finance Operations Workspace](../task/view-case-fin-ops-ws.md)**  
+</table>-   **[View a case from Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../task/view-case-fin-ops-ws.md)**  
 View a case from the Finance Operations Workspace for further processing.
 
-**Parent Topic:**[Explore the Finance Operations Workspace](fin-ops-workpace.md)
+**Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 

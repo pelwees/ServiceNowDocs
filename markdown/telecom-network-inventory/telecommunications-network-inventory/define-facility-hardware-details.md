@@ -21,17 +21,17 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you create a facility hardware record, it creates a corresponding configuration item \(CI\) record in the facility extension class table. To learn more about the Equipment Holder extension class table, see [Network inventory facility classes](../reference/network-inventory-facility-classes.md).
+When you create a facility hardware record, it creates a corresponding configuration item \(CI\) record in the facility extension class table. To learn more about the Equipment Holder extension class table, see [Network inventory facility classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/network-inventory-facility-classes.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **All Facilities**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **All Facilities**.
 
 3.  Select **New** and then select the facility type from the list.
 
-    To learn more about the facility types, see [Network inventory facility classes](../reference/network-inventory-facility-classes.md).
+    To learn more about the facility types, see [Network inventory facility classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/network-inventory-facility-classes.md).
 
 4.  Select **Submit**.
 
@@ -39,7 +39,7 @@ When you create a facility hardware record, it creates a corresponding configura
 
 5.  On the **Details** tab, fill in the form.
 
-    To learn more about the field information, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md)
+    To learn more about the field information, see [Equipment Holder form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-equipment-holder-form-configuration.md)
 
 6.  Create the Telecommunications Network Inventory attributes for the Facility record by selecting **Set Inventory Attributes**.
 
@@ -51,31 +51,31 @@ When you create a facility hardware record, it creates a corresponding configura
 
 7.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/ci-attribue-form.md).
 
 8.  Select **Save**.
 
     The Telecommunications Network Inventory attribute fields are displayed on the Facility form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn't appear when you reopen the CI record.
 
-9.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\).
+9.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\).
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](../concept/telecom-network-inventory.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecom-network-inventory.md).
 
-11. View the associated network inventories by selecting the brick icon \(![Brick icon.](../image/infrastructure-relashionship.png)\).
+11. View the associated network inventories by selecting the brick icon \(![Brick icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/infrastructure-relashionship.png)\).
 
     The Infrastructure Relationships section shows all the associated network inventories grouped by the individual network asset instances.
 
 
 ## What to do next
 
-If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-telecommunications-network-inventory.md)
 
 **Related topics**  
 
 
-[Data model](../concept/uses-for-network-inventory-data.md)
+[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/uses-for-network-inventory-data.md)
 

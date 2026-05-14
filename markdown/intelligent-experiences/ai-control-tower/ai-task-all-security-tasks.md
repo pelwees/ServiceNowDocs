@@ -15,5 +15,5 @@ breadcrumb: [AI assets, AI Control Tower dashboard, Explore, AI Control Tower, E
 
 Use the **All Security Tasks** tab to view all AI security tasks for your instance. You can also create an AI task on this page.
 
-![All Security Tasks tab showing a list of tasks and their priority.](../image/sp-tab-ai-task.png)
+![All Security Tasks tab showing a list of tasks and their priority.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-ai-task.png)
 

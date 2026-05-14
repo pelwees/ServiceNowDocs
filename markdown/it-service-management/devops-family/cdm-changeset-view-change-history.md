@@ -27,7 +27,7 @@ Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_polic
 
     The **Changes** section displays the list of individual nodes for which changes were committed.
 
-    ![cdm-changeset-activities-tab](../image/cdm-changeset-activities-tab.png)
+    ![cdm-changeset-activities-tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-changeset-activities-tab.png)
 
 <table id="table_gzb_kjf_1qb"><thead><tr><th>
 

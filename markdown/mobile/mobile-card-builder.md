@@ -15,7 +15,7 @@ Use Mobile Card Builder to create or modify card templates using a graphical int
 
 ## Customize mobile card views
 
-![Examples of cards in the Mobile Agent app.](../image/card-examples-1.png "Examples of cards in the Mobile Agent app")
+![Examples of cards in the Mobile Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/card-examples-1.png "Examples of cards in the Mobile Agent app")
 
 Mobile Card Builder is a visual tool you can use to edit the templates and cards used in the ServiceNow mobile applications for iOS and Android. The ServiceNow mobile interface uses cards to display information about records on your instance. The following places make use of cards to display record information:
 
@@ -32,7 +32,7 @@ Depending on whether a mobile card is based on a legacy card, card, or a card te
 
 The Mobile Card Builder open screen appears when you first open the card builder. Use this screen to select what you want to work on.
 
-![Mobile Card Builder open screen.](../image/card-builder-open-screen.png)
+![Mobile Card Builder open screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/card-builder-open-screen.png)
 
 The available cards are divided into sections on the left side of the screen. The right side of the screen displays images representing the cards in the selected section.
 
@@ -63,5 +63,5 @@ Use the **Open** button in the lower right corner to open the selected card temp
 
 After you open a card template or choose to create a new card template, the Mobile Card Builder stage displays. Use this interface to create and update your cards.
 
-![Mobile Card Builder stage.](../image/card-builder-stage.png)
+![Mobile Card Builder stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/card-builder-stage.png)
 

@@ -25,5 +25,5 @@ In addition to classification, deviations include a system-only contact\_type fi
 
 With these two markers, teams can produce straightforward counts. For example, how many breakdowns were created, how many deviations remained regular, and how many deviations escalated, without introducing additional UI complexity.
 
-**Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)
+**Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 

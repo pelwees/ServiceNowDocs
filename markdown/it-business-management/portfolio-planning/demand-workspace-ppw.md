@@ -31,19 +31,19 @@ Key benefits of Next Experience for Demand Management:
 
 <table id="table_is2_hh1_dzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Next Experience for Demand Management features and business value.](explore-demand-workspace-ppw.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Next Experience for Demand Management features and business value.](explore-demand-workspace-ppw.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure Next Experience for Demand Management.](configuring-demand-workspace-ppw.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure Next Experience for Demand Management.](configuring-demand-workspace-ppw.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-manage.svg)Create and manage demands, use playbooks, and manage financials and resources.](managing-demands-ppw.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../../reuse/icons/brand-icons/bus-manage.svg)Create and manage demands, use playbooks, and manage financials and resources.](managing-demands-ppw.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about demand components like roles, tables, properties, forms, and lists.](../reference/demand-workspace-reference-ppw.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about demand components like roles, tables, properties, forms, and lists.](../reference/demand-workspace-reference-ppw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -28,5 +28,5 @@ Restrict the Now Assist capabilities for your employee relations cases and defin
 3.  On the **Define Availability** tab, modify the condition and add **Task type is not Employee Relations Case**.
 
 
-**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
+**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 

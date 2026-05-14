@@ -28,5 +28,5 @@ Role required: notify\_admin or notify\_setup\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Configure Notify Zoom connector in Notify](configure-notify-zoom-connector.md)
+**Parent Topic:**[Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md)
 

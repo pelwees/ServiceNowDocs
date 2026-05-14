@@ -22,22 +22,22 @@ Video that shows you how you can use Now Assist in Document Intelligence to get 
 
 <table id="table_ekk_gb3_xcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the generative AI skills that are available in Now Assist in Document Intelligence](docintel-exploring-now-assist.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the generative AI skills that are available in Now Assist in Document Intelligence](docintel-exploring-now-assist.md)
 
 </td><td>
 
-[Configure ![](../image/icon-configure-docintel.png) Activate Now Assist in Document Intelligence and configure the generative AI skills](docintel-configuring-now-assist.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-configure-docintel.png) Activate Now Assist in Document Intelligence and configure the generative AI skills](docintel-configuring-now-assist.md)
 
 </td></tr><tr><td>
 
-[Use ![](../image/icon-use-docintel.png) Use the generative AI capabilities that are offered by Now Assist in Document Intelligence](docintel-using-now-assist.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-use-docintel.png) Use the generative AI capabilities that are offered by Now Assist in Document Intelligence](docintel-using-now-assist.md)
 
 </td><td>
 
-[Reference ![](../image/icon-docintel-references.png) Get details about forms, tables, and more](../reference/now-assist-in-document-intelligence-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-references.png) Get details about forms, tables, and more](../reference/now-assist-in-document-intelligence-reference.md)
 
 </td></tr></tbody>
-</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 **Important:**
 
@@ -48,7 +48,7 @@ Video that shows you how you can use Now Assist in Document Intelligence to get 
 
 ## Troubleshoot and get help
 
--   [Additional resources for AI products and solutions](../../general/reference/ai-additional-resources.md).
+-   [Additional resources for AI products and solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../general/reference/ai-additional-resources.md).
 -   [ServiceNow Community on AI and Intelligence](https://www.servicenow.com/community/ai-intelligence/ct-p/ai-intelligence).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 -   Search the [Known Error Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477) for known error articles.
@@ -68,7 +68,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information extracted from documents. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information extracted from documents. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-platform/concept/platform-now-assist-landing.md).
 

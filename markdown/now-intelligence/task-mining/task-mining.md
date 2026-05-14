@@ -19,19 +19,19 @@ Task Mining helps process owners collect and analyze workstation activities to u
 
 <table id="table_dkk_4ln_hcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Task Mining concepts and features](exploring-task-mining.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Task Mining concepts and features](exploring-task-mining.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to set up Task Mining](configuring-task-mining.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to set up Task Mining](configuring-task-mining.md)
 
 </td></tr><tr><td>
 
-[Using![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to use Task Mining](using-task-mining.md)
+[Using![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to use Task Mining](using-task-mining.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Mining key terms and background information](reference-task-mining.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Mining key terms and background information](reference-task-mining.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

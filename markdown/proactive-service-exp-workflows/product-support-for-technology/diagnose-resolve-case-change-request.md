@@ -123,5 +123,5 @@ The change request progresses through several stages from start to closure. It b
 10. View the change request records in the **Related records** tab.
 
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](../concept/use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/use-assurance-workflows.md)
 

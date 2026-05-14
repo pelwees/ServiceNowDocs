@@ -211,5 +211,5 @@ Approval Steps\[sn\_adv\_appr\_mgmt\_approval\_step\]
 The approval step records created for an approval request. The records contain the relevant approval rules, conditions, and chain details defined for an approval configuration. The Approval Steps table is extended from the Task \[task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Advanced Approval Management reference](advanced-approval-management-reference.md)
+</table>**Parent Topic:**[Advanced Approval Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 

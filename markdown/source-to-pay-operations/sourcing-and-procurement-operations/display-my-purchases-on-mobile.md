@@ -40,18 +40,18 @@ You can perform this activity only from your desktop.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Using Shopping Hub Mobile](../concept/using-sh-mobile.md)
+**Parent Topic:**[Using Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-sh-mobile.md)
 
 **Related topics**  
 
 
-[Shopper to-dos on your mobile](../reference/shopper-todos-mobile.md)
+[Shopper to-dos on your mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/shopper-todos-mobile.md)
 
-[View and revise your purchase from your mobile device](view-revise-purchase-mobile.md)
+[View and revise your purchase from your mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/view-revise-purchase-mobile.md)
 
-[Shopping Hub Mobile](../concept/shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shoppinghub-mobile.md)
 
-[My purchases on your mobile](../concept/my-purchases-mobile.md)
+[My purchases on your mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/my-purchases-mobile.md)
 
-[View and revise your purchase from your mobile device](view-revise-purchase-mobile.md)
+[View and revise your purchase from your mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/view-revise-purchase-mobile.md)
 

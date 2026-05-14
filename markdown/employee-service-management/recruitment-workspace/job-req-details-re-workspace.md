@@ -39,5 +39,5 @@ The **Approvers** tab shows the name of the approver and the state of the approv
 
 The **Prospects** tab shows all the applicants for the job requisition. You can add applicants from here and also create prospects.
 
-**Parent Topic:**[Using Recruitment workspace](use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 

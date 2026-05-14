@@ -14,7 +14,7 @@ The ServiceNow® External Content Connectors application enables AI Search appli
 
 ## External Content Connectors highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   Expand your search experience with external content connectors for Adobe Acrobat Sign, Aha! Roadmaps, Cornerstone, Fluid Topics, ManageEngine, and Workvivo source systems.
 -   Retrieve content and links from URLs found in sitemaps defined for your web source system when running content crawls for the Webcrawler external content connector.
@@ -81,5 +81,5 @@ Install External Content Connectors by requesting the External Content Connector
     Configure search applications to display results indexed by your external content connectors.
 
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

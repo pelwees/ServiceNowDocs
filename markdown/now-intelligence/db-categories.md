@@ -31,7 +31,7 @@ Role required: analytics\_categories\_admin
 
 ### Procedure
 
-1.  Select the Application scope icon \(![Application scope icon](../../../administer/virtual-agent/images/icon-scope.png)\) and choose the scope the category should apply to.
+1.  Select the Application scope icon \(![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/virtual-agent/images/icon-scope.png)\) and choose the scope the category should apply to.
 
     The default application scope is Global.
 
@@ -39,7 +39,7 @@ Role required: analytics\_categories\_admin
 
     You can also select **Create new category** in the Details window of a dashboard in Edit mode to open the Category New record form.
 
-    ![Dashboard category section of dashboard information panel](../image/db-create-new-category.png)
+    ![Dashboard category section of dashboard information panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/db-create-new-category.png)
 
 3.  Select **New**.
 
@@ -68,9 +68,9 @@ Assign dashboard categories on the dashboard's info panel.
 
 2.  Select the dashboard you want to apply a category to.
 
-3.  Select the Edit button \(![Edit button](../image/edit-button.png)\) to put the dashboard into Edit mode.
+3.  Select the Edit button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-button.png)\) to put the dashboard into Edit mode.
 
-4.  Select the Info button \(![Info button](../../par-for-workspace/image/icon-info.png)\) to open the dashboard's Information panel and choose the categories you want to apply.
+4.  Select the Info button \(![Info button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-info.png)\) to open the dashboard's Information panel and choose the categories you want to apply.
 
     Users with the analytics\_categories\_admin role also have the option to create a new category.
 

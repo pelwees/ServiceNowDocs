@@ -17,7 +17,7 @@ Use the client script summarization skill to generate a plain-language summary o
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](install-ui-generation.md) and [Grant UI Builder admin role](grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/install-ui-generation.md) and [Grant UI Builder admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/grant-ui-builder-admin-role.md).
 
 Turn on the Client script summarization skill.
 
@@ -62,14 +62,14 @@ A concise summary, information about where the client script is triggered, and a
 |-------|------------|----------|
 |Explain Code panel does not appear|Client script summarization skill is disabled, or user lacks the ui\_builder\_admin role.|Activate Client script summarization skill in Now Assist Admin. Confirm the user has the ui\_builder\_admin role.|
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/using-ui-generation.md)
 
 **Related topics**  
 
 
 [Client scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/client-scripts.md)
 
-[Client script summarization](../concept/client-script-summarization.md)
+[Client script summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/client-script-summarization.md)
 
-[Use case: Summarize a client script using Now Assist](../concept/use-case-client-script-summarization.md)
+[Use case: Summarize a client script using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/use-case-client-script-summarization.md)
 

@@ -30,12 +30,12 @@ The underlying reports in the scheduled export are migrated to the Platform Anal
 
 3.  From the **Action on selected rows** menu, choose **Migrate Scheduled Report**.
 
-    If any of the reports are not compatible, you’ll see the message `Migrating X of Y scheduled reports`.![Scheduled report list with two reports highlighted as well as the Migrate Scheduled Report link on the Actions on selected rows menu](../image/data-migration-mig-sched-reports.png)
+    If any of the reports are not compatible, you’ll see the message `Migrating X of Y scheduled reports`.![Scheduled report list with two reports highlighted as well as the Migrate Scheduled Report link on the Actions on selected rows menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-mig-sched-reports.png)
 
 4.  When the migration is complete, select the banner link to view the migrated reports in the Platform Analytics Scheduled exports library.
 
 
 ## What to do next
 
-Edit the migrated scheduled export as needed. For more information, see [Export a data visualization from the Visualization Designer](export-visualization-vd.md).
+Edit the migrated scheduled export as needed. For more information, see [Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md).
 

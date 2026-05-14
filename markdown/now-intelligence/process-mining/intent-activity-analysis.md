@@ -24,11 +24,11 @@ Intent and activity analysis works by:
 
 This results in a structured summary that reflects what analysts and technicians actually did to resolve incidents — not just how the incidents were labeled when submitted.
 
-The intent and activity analysis is configured for process tables. This enables you to use it in your projects. To know about how to configure intent and activity analysis, see [Configure investigative features](investigative-features.md).
+The intent and activity analysis is configured for process tables. This enables you to use it in your projects. To know about how to configure intent and activity analysis, see [Configure investigative features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/investigative-features.md).
 
-You need Now Assist for Creator and the Intent and Activity Analysis skill enabled to use the analysis. For more information, see [Working with intent and activity analysis](../concept/nowass-intent-activity-analysis.md).
+You need Now Assist for Creator and the Intent and Activity Analysis skill enabled to use the analysis. For more information, see [Working with intent and activity analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/nowass-intent-activity-analysis.md).
 
-To know more about running an intent and activity analysis, see [Run intent and activity analysis](run-intent-and-activity-analysis.md).
+To know more about running an intent and activity analysis, see [Run intent and activity analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/run-intent-and-activity-analysis.md).
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/analyze-get-process-insights.md)
 

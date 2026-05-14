@@ -155,5 +155,5 @@ The specific MID Cluster you want to use. This field is available when **Use MID
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Get started with connections](../reference/connection-information.md)
+**Parent Topic:**[Get started with connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../reference/connection-information.md)
 

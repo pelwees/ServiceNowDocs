@@ -19,7 +19,7 @@ In AI Agent Studio, on the **Settings** page, under **External AI Agents** &gt; 
 
 You can also choose between **Synchronous** and **Asynchronous** communication between your external AI agent and the agentic AI provider.
 
-![Discoverability page in AI Agent Studio settings.](../image/A2A-asynchronous.png)
+![Discoverability page in AI Agent Studio settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/A2A-asynchronous.png)
 
 ## ServiceNow AI agents as secondary agents overview
 
@@ -47,5 +47,5 @@ Once you save the record, a Connection &amp; Credential Alias \[sys\_alias\] rec
 
 When the record is created, you can go back to the External Agent Callback Registry record you created and select **Verify URL** to test the connection works as expected.
 
-**Parent Topic:**[Create an external AI agent](create-external-aia.md)
+**Parent Topic:**[Create an external AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/create-external-aia.md)
 

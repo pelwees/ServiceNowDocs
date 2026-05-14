@@ -29,7 +29,7 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
     The available security integrations appear as a series of cards.
 
-    ![Check Point Anti-bot integration card](../image/checkpt-antibot-plugin-card.png)
+    ![Check Point Anti-bot integration card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/checkpt-antibot-plugin-card.png)
 
 2.  In the Check Point Anti-bot - Email Parser card, click **Configure**.
 
@@ -37,7 +37,7 @@ A Check Point Anti-bot email parser template is provided to use for the integrat
 
 4.  Click the **Check Point Anti-bot** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create an email parser, see [Create email parsers in Security Operations](../../../security-operations-common/task/parsing-emails.md).
+    At a minimum, fill in the `Email is from` field. To create an email parser, see [Create email parsers in Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-operations-common/task/parsing-emails.md).
 
 5.  Check the **Active** box.
 

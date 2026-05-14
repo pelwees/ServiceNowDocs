@@ -92,8 +92,8 @@ sn\_coaching.coach
 
     The configured indicator replaces the existing indicator in the Overview tab in the Coaching application in Workforce Optimization for ITSM.
 
-    The image below show an example of the configured indicator displayed in the Coaching Overview tab.![Coaching quality indicator](../image/coaching-quality-indicator-uib.png)
+    The image below show an example of the configured indicator displayed in the Coaching Overview tab.![Coaching quality indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-quality-indicator-uib.png)
 
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
 

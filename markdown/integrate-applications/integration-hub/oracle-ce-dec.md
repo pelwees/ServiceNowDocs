@@ -35,8 +35,8 @@ This spoke was built for Oracle Compute Engine API version 20160918, but may be 
 
 If you’re having trouble installing the app, ensure that these dependent plugins are installed:
 
--   [Oracle Cloud IAM Spoke](oracle-iam.md)
--   [Oracle Object Storage Management Spoke](object-storage-mngmt-dec.md)
+-   [Oracle Cloud IAM Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/oracle-iam.md)
+-   [Oracle Object Storage Management Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/object-storage-mngmt-dec.md)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   Complex Object \(com.glide.cobject\)
@@ -79,5 +79,5 @@ The Oracle Compute Engine spoke provides actions to automate Oracle Compute Engi
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Oracle Compute Engine spoke](../task/oracle-ce-setup-dec.md).
+For information about setting up the spoke, see [Set up the Oracle Compute Engine spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/oracle-ce-setup-dec.md).
 

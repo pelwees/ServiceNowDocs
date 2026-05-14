@@ -32,10 +32,10 @@ Role required: discovery\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

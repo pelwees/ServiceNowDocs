@@ -25,19 +25,19 @@ Role required: it\_project\_user
 
 ## About this task
 
-The **Analytics** tab is a PA dashboard which displays preconfigured widgets and reports to track the progress on various aspects of a project such as open risks, actual cost, and delayed milestones. The information in the reports is rolled up from the project form fields. For information about various widgets and reports for different project types, see [Project analytics widgets and reports](../reference/project-analytics-widgets.md)
+The **Analytics** tab is a PA dashboard which displays preconfigured widgets and reports to track the progress on various aspects of a project such as open risks, actual cost, and delayed milestones. The information in the reports is rolled up from the project form fields. For information about various widgets and reports for different project types, see [Project analytics widgets and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../reference/project-analytics-widgets.md)
 
 ## Procedure
 
-1.  [Open](access-the-project-workspace.md) the required project in Project Workspace.
+1.  [Open](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-the-project-workspace.md) the required project in Project Workspace.
 
 2.  Click the **Analytics** tab to display its contents.
 
 3.  Review the displayed reports and take necessary actions, if required.
 
 
--   **[Project analytics widgets and reports](../reference/project-analytics-widgets.md)**  
+-   **[Project analytics widgets and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../reference/project-analytics-widgets.md)**  
 Widgets and reports that provide information for the project summary in the **Analytics** tab of the project workspace for Agile, Waterfall, and Hybrid projects.
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/project-workspace-classic.md)
 

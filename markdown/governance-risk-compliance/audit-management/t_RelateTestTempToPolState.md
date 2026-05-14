@@ -27,8 +27,8 @@ Role required: sn\_audit.admin or sn\_audit.manager
 
 3.  Select a control objective and select **Update**.
 
-    ![Test template control objectives update.](../image/audit-test-template-c-b.png)
+    ![Test template control objectives update.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/audit-test-template-c-b.png)
 
 
-**Parent Topic:**[Manage test templates and test plans](../concept/c_AuditTesting.md)
+**Parent Topic:**[Manage test templates and test plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_AuditTesting.md)
 

@@ -54,5 +54,5 @@ The root cause analysis is listed in the Root cause analysis section of the acti
 
 Add a corrective or preventive action based on your root cause analysis.
 
-**Parent Topic:**[Work on a safety incident](work-hs-incident-observation.md)
+**Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 

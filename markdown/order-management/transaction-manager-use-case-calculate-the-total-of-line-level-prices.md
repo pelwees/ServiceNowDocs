@@ -33,7 +33,7 @@ In CPQ Transaction Manager, you can use a determination rule to calculate the su
 
     For example, calculate the sum aggregate of the list price of every line item. To calculate the total list price, we use the `sumField` function to calculate all the line-level list prices into a single field.
 
-    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](../images/cpq-txn-mgr-use-case-calc-total-1.png)
+    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-total-1.png)
 
 5.  Save and activate the rule so it applies in real time during the transaction life cycle.
 6.  To test the rule, create a transaction and add line items with varying net prices.
@@ -51,7 +51,7 @@ Here are two more examples of line-level calculations stored in a header-level f
 
     `return txn.line.functions.sumField(txn.line.custom.listUnitPrice) - txn.line.functions.sumField(txn.line.pricing.extendedNet);`
 
-    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](../images/cpq-txn-mgr-use-case-calc-total-2.png)
+    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-total-2.png)
 
 -   Total Net
 
@@ -59,8 +59,8 @@ Here are two more examples of line-level calculations stored in a header-level f
 
     `return txn.line.functions.sumField(txn.line.pricing.extendedNet);`
 
-    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](../images/cpq-txn-mgr-use-case-calc-total-3.png)
+    ![Transaction Manager Use Case: Calculate the Total of Line-Level Prices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-calc-total-3.png)
 
 
-**Parent Topic:**[Transaction Manager: Use cases](transaction-manager-use-cases.md)
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 

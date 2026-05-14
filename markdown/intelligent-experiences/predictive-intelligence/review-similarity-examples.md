@@ -53,5 +53,5 @@ On domain-separated instances, the following procedure displays records from all
 
 ## What to do next
 
-If you decide to adjust the Similarity Score Threshold for your similarity solution, see [update its similarity solution threshold](update-similarity-threshold.md).
+If you decide to adjust the Similarity Score Threshold for your similarity solution, see [update its similarity solution threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/update-similarity-threshold.md).
 

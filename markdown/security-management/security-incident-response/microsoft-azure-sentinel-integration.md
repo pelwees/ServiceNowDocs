@@ -29,7 +29,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 See the following diagram to learn how Microsoft Azure Sentinel integrates with the ServiceNow AI Platform Security Operations applications.
 
-![How Azure Sentinel integrates with the ServiceNow AI Platform.](../image/sentinel-overview.png)
+![How Azure Sentinel integrates with the ServiceNow AI Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-overview.png)
 
 ## Key features
 

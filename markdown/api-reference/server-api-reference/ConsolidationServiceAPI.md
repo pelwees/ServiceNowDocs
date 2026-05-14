@@ -95,7 +95,7 @@ To extend and use the ConsolidationServiceSNC API:
 
 5.  Invoke your consolidation by calling LeadToCashService.consolidate\(\) either directly from a server‑side script or indirectly via Lead‑to‑Cash Flow Designer primitives.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## ConsolidationService - canConsolidateEntity\(String contextType\)
 
@@ -343,7 +343,7 @@ Object
 
 </td><td>
 
-Accepts the JSON output of the [LeadtoCashCore - Scoped](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) createInstance\(\) or effect\(\) method. Can be a single entity JSON object, or a JSON object containing an items array of multiple entity JSONs.If sourceJSON doesn't contain an items array, the method treats it as a single entity and wraps it in an array automatically. Pass null or omit this parameter if only target consolidation is needed.
+Accepts the JSON output of the [LeadtoCashCore - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) createInstance\(\) or effect\(\) method. Can be a single entity JSON object, or a JSON object containing an items array of multiple entity JSONs.If sourceJSON doesn't contain an items array, the method treats it as a single entity and wraps it in an array automatically. Pass null or omit this parameter if only target consolidation is needed.
 
 ```
 "sourceJSON": {
@@ -1618,7 +1618,7 @@ Store computed results on the `this` object \(for example, `this.targetHeaderId 
 
 |Name|Type|Description|
 |----|----|-----------|
-|sourceTarget|Object|Output of sourceJSON to consolidate. Accepts the JSON output of the [LeadtoCashCore - Scoped](../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) createInstance\(\) or effect\(\) method. Can be a single entity JSON object, or a JSON object containing an items array of multiple entity JSONs. Can be null or empty.|
+|sourceTarget|Object|Output of sourceJSON to consolidate. Accepts the JSON output of the [LeadtoCashCore - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../LeadtoCashCoreScoped/concept/LeadToCashCoreAPI.md#) createInstance\(\) or effect\(\) method. Can be a single entity JSON object, or a JSON object containing an items array of multiple entity JSONs. Can be null or empty.|
 |targetJSON|Object|Required. Target entity JSON for consolidation.|
 |additionalParams|Object|Optional. Additional data passed from the caller.|
 

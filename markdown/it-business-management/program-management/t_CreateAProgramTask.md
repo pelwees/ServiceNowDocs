@@ -142,7 +142,7 @@ Work notes
 
 </td><td>
 
-Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](../../project-portfolio-suite-with-financials/reference/business-stakeholder-role-ppm.md).
+Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../../project-portfolio-suite-with-financials/reference/business-stakeholder-role-ppm.md).
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -151,14 +151,14 @@ Enter work notes about the milestones, impediments, or changes as the program pr
 |Actual end date|The date that this program ended. This date is populated after you update the program state to Closed Complete.|
 |Actual duration|The actual duration of the program from program start to program closure. As with planned duration, the actual duration shows total program time.|
 
-**Parent Topic:**[Create a program to manage projects and demands](t_CreateAProgram.md)
+**Parent Topic:**[Create a program to manage projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgram.md)
 
 **Related topics**  
 
 
-[Allocate budget to a program](allocate-budget-to-program.md)
+[Allocate budget to a program](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/allocate-budget-to-program.md)
 
-[Create a program status report](create-program-status-report.md)
+[Create a program status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/create-program-status-report.md)
 
-[View program status reports](view-program-status-report.md)
+[View program status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/view-program-status-report.md)
 

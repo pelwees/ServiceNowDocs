@@ -87,8 +87,8 @@ Substates
     Your asset is successfully onboarded.
 
 
--   **[View an automatically created onboarding task](view-auto-onboard-task.md)**  
+-   **[View an automatically created onboarding task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-auto-onboard-task.md)**  
 View an automatically created asset onboarding task.
 
-**Parent Topic:**[Create and manage enterprise assets](../concept/create-manage-enterprise-assets.md)
+**Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-assets.md)
 

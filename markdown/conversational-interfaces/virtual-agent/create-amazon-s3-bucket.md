@@ -67,5 +67,5 @@ For additional information about Amazon S3 Buckets, refer to the [Amazon S3 docu
     message.
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-aws-account.md)
 

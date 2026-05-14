@@ -15,7 +15,7 @@ The dynamic operator, **is \(dynamic\)**, lists predefined dynamic filter option
 
 The following dynamic filter options are available by default.
 
-**Note:** Administrators can [create new dynamic filter options](../task/t_DynamicFilterOptions.md).
+**Note:** Administrators can [create new dynamic filter options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_DynamicFilterOptions.md).
 
 |Target table of reference field|Option label|Description|
 |-------------------------------|------------|-----------|
@@ -32,16 +32,16 @@ The following table contains examples and descriptions of dynamic filter conditi
 |Caller|is \(dynamic\)|Me|Computes the value of Caller based on the current user viewing the list.|
 |Assignment group|is \(dynamic\)|One of My Groups|Computes the value of Assignment group based on the current user viewing the list.|
 
-**Parent Topic:**[Filters](../concept/c_Filters.md)
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Filters.md)
 
 **Related topics**  
 
 
-[Create a filter in List](../task/t_CreatingFilters.md)
+[Create a filter in List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreatingFilters.md)
 
-[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)
+[Add related list conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists-v3/task/create-related-list-query.md)
 
-[OR conditions](../concept/c_UsingORConditions.md)
+[OR conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingORConditions.md)
 
-[Filter on multiple string values](../task/t_FilteringOnMultipleStringValues.md)
+[Filter on multiple string values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_FilteringOnMultipleStringValues.md)
 

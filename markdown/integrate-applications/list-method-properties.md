@@ -20,5 +20,5 @@ View or update the List method properties.
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[List](list-connector.md)
+**Parent Topic:**[List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/list-connector.md)
 

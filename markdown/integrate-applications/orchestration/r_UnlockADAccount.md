@@ -15,11 +15,11 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Unlock AD Account activity unlocks a locked Active Directory user account.
 
-You can use the [Is AD Account Locked activity](r_IsADAccountLocked.md) activity to determine if an account is locked.
+You can use the [Is AD Account Locked activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/r_IsADAccountLocked.md) activity to determine if an account is locked.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
-**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](../../orchestration-activity-designer/concept/c_PowershellActivityDesigner.md).
+**Note:** This activity replaces an AD activity by the same name available in prior releases. If you have a workflow that uses the deprecated activity, your workflow will continue to work normally after upgrading to Instanbul. However, all new workflows must use the custom version of this activity, which was built with the [PowerShell activity designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration-activity-designer/concept/c_PowershellActivityDesigner.md).
 
 ## Input variables
 
@@ -33,7 +33,7 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Variable|Description|
 |--------|-----------|
 |result|Either **success** or **failure**.|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#).|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration-activity-designer/task/t_CreateAParsingRule.md#).|
 
 ## Conditions
 
@@ -42,5 +42,5 @@ To access this activity in the Workflow Editor, select the **Custom** tab, and t
 |Success|The account was successfully unlocked.|
 |Failure|An error occurred while attempting to unlock the account. Additional details may be available in the workflow log.|
 
-**Parent Topic:**[Active Directory activity pack](../concept/c_OrchActiveDirectoryActivities.md)
+**Parent Topic:**[Active Directory activity pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_OrchActiveDirectoryActivities.md)
 

@@ -102,5 +102,5 @@ When your decision tree is complete, select **Activate** in Decision Tree Builde
 </table>
 ## What to do next
 
-[Create a needs template and set the catalog relationship](create-publish-needs-template.md).
+[Create a needs template and set the catalog relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-publish-needs-template.md).
 

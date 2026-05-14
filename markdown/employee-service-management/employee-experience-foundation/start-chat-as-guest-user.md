@@ -23,7 +23,7 @@ Role required: agent
 
 ## About this task
 
-This procedure is accomplished through the classic ServiceNow UI. For information about the same procedure accomplished through the workspace, see [Request-based chat - Start and import chat from Start Microsoft Teams chat action](initiate-chat-agent-ws.md).
+This procedure is accomplished through the classic ServiceNow UI. For information about the same procedure accomplished through the workspace, see [Request-based chat - Start and import chat from Start Microsoft Teams chat action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/initiate-chat-agent-ws.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ This procedure is accomplished through the classic ServiceNow UI. For informatio
 
 The chat opens in the Microsoft Teams application.
 
-**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](../concept/start-import-req-based-chat-as-guest.md)
+**Parent Topic:**[Request-based chat - Start and import chat as guest user from classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/start-import-req-based-chat-as-guest.md)
 

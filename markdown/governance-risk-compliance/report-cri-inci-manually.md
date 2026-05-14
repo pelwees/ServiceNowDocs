@@ -27,7 +27,7 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager, sn\_op
 
 4.  On the New record form, fill in the fields.
 
-    To view more information on the fields, see the [Create New Digital Resilience Incident form](../reference/create-new-dig-res-inci.md).
+    To view more information on the fields, see the [Create New Digital Resilience Incident form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-dig-res-inci.md).
 
 5.  Select **Accept work**.
 
@@ -75,7 +75,7 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager, sn\_op
 
     The export functionality generates a Microsoft Excel sheet based on the reporting cases, which can be saved to your local hard drive and shared with regulatory authorities. You can download the DRI report as shown in the example.
 
-    ![Export.](../image/export.png)
+    ![Export.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/export.png)
 
     The Microsoft Excel report contains the Common details and Initial report tabs. All fields from the initial report are exported with their names as column headers.
 

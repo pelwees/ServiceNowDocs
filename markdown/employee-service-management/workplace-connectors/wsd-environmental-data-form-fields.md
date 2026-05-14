@@ -160,9 +160,9 @@ Query status
 NA
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Connectors references](../concept/workplace-connectors-references.md)
+</table>**Parent Topic:**[Workplace Connectors references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/workplace-connectors-references.md)
 
-**Previous topic:**[Components installed with Workplace Connectors](component-workplace-connectors.md)
+**Previous topic:**[Components installed with Workplace Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/component-workplace-connectors.md)
 
-**Next topic:**[Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md)
+**Next topic:**[Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../../workplace-concierge/concept/workplace-concierge-feat.md)
 

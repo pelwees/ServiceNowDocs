@@ -31,7 +31,7 @@ Role required: sp\_admin or admin
 
 3.  Press and hold the control key on the keyboard, right-click the child topics widget, and then select **Instance Options**.
 
-    ![Child topics widget instance options. The HR child topics are shown as an example](../images/hr-child-topics-ins-opt.png)
+    ![Child topics widget instance options. The HR child topics are shown as an example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/hr-child-topics-ins-opt.png)
 
 4.  Do one of the following.
 
@@ -42,5 +42,5 @@ Role required: sp\_admin or admin
 5.  Click **Save**.
 
 
-**Parent Topic:**[Employee Center browse experience widgets](../concept/custom-widget-landing-ec.md)
+**Parent Topic:**[Employee Center browse experience widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/custom-widget-landing-ec.md)
 

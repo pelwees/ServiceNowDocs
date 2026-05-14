@@ -19,19 +19,19 @@ The ServiceNow® Insurance claims application provides a flexible framework that
 
 <table id="table_hnk_51j_4cc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Insurance claims](exploring-insurance-claims-flow.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how to use Insurance claims](exploring-insurance-claims-flow.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Insurance claims](setting-up-insurance-claims-flow.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Insurance claims](setting-up-insurance-claims-flow.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-business-management.svg)Learn how to manage cases in Insurance claims](using-insurance-claims-flow.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-business-management.svg)Learn how to manage cases in Insurance claims](using-insurance-claims-flow.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get the details about components such as roles, tables, plugins, and store applications that are installed](insurance-claims-flow-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../reuse/icons/brand-icons/bus-learn.svg)Get the details about components such as roles, tables, plugins, and store applications that are installed](insurance-claims-flow-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

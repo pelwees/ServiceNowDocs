@@ -31,11 +31,11 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 2.  Open the required epic.
 
-3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](../image/hamburger-icon.png)\).
+3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/hamburger-icon.png)\).
 
 4.  Select the Monetary Benefit Plans or Non-monetary Benefit Plans related list.
 
-5.  Select the information icon \(![information icon](../../planning-and-policy/image/informationicon.png)\) for a benefit plan that you want to associate.
+5.  Select the information icon \(![information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../planning-and-policy/image/informationicon.png)\) for a benefit plan that you want to associate.
 
 6.  Select **Open Record**.
 
@@ -43,7 +43,7 @@ You can associate a monetary benefit plan with a non-monetary benefit plan and v
 
 8.  On the form, fill in the fields.
 
-    For description of fields, see [Create a monetary benefit plan for an epic](create-monetary-benefit-plan-agile-epic.md) and [Create a non-monetary benefit plan for an epic](create-non-monetary-benefit-plan-agile-epic.md).
+    For description of fields, see [Create a monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-monetary-benefit-plan-agile-epic.md) and [Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-non-monetary-benefit-plan-agile-epic.md).
 
 9.  Select **Save**.
 
@@ -56,5 +56,5 @@ The selected benefit plan is associated with another plan.
 
 Select the **View Associated benefit plan** related link to view the associated benefit plan.
 
-**Parent Topic:**[Create an epic in Agile Development 2.0](create-an-epic.md)
+**Parent Topic:**[Create an epic in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-an-epic.md)
 

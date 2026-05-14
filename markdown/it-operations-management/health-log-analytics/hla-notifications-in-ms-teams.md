@@ -17,7 +17,7 @@ Set up notifications for new Health Log Analytics anomaly alerts in a Microsoft 
 
 ## Before you begin
 
-Starting with Version 33.0.27 - August 2024, Health Log Analytics uses the Microsoft Teams Graph spoke application to send notifications on new anomaly alerts. For more information, see [Microsoft Teams Graph Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/msteams-spoke.md). If you're using an HLA version earlier than 33.0.27, refer to the setup procedure in [Set up Health Log Analytics alert notifications in channels](hla-notifications-in-channel.md).
+Starting with Version 33.0.27 - August 2024, Health Log Analytics uses the Microsoft Teams Graph spoke application to send notifications on new anomaly alerts. For more information, see [Microsoft Teams Graph Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/msteams-spoke.md). If you're using an HLA version earlier than 33.0.27, refer to the setup procedure in [Set up Health Log Analytics alert notifications in channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-notifications-in-channel.md).
 
 Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
@@ -54,5 +54,5 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
     5.  Repeat steps 1 to 4 to add additional configurations.
 
 
-**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](../concept/hla-alert-notification-in-channel.md)
+**Parent Topic:**[Health Log Analytics alert notification in Slack or Microsoft Teams channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-alert-notification-in-channel.md)
 

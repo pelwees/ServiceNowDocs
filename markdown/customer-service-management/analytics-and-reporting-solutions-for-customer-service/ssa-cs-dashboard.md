@@ -15,21 +15,21 @@ breadcrumb: [Platform Analytics Solutions for Self-Service Analytics for Custome
 
 Measure and track the effectiveness of self-service content through user activities on self-service portals to enrich the content and address any self-service gaps.​
 
-![Overview tab displaying different widgets such as self-service engagements, successful engagements, success rate, cost saved by channel, deflection activity, resolution by channel, and self-service demand by channel.](../../../product/customer-service-management/image/self-service-dashboard-overview.png "Overview tab")
+![Overview tab displaying different widgets such as self-service engagements, successful engagements, success rate, cost saved by channel, deflection activity, resolution by channel, and self-service demand by channel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../../product/customer-service-management/image/self-service-dashboard-overview.png "Overview tab")
 
-![Knowledge tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](../../../product/customer-service-management/image/self-service-dashboard-knowledge.png "Knowledge tab")
+![Knowledge tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../../product/customer-service-management/image/self-service-dashboard-knowledge.png "Knowledge tab")
 
-![Communities tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](../../../product/customer-service-management/image/self-service-dashboard-communities.png "Communities tab")
+![Communities tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../../product/customer-service-management/image/self-service-dashboard-communities.png "Communities tab")
 
-![Catalog tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](../../../product/customer-service-management/image/self-service-dashboard-catalog.png "Catalog tab")
+![Catalog tab displaying different widgets to analyse the engagements, success rates, and deflection activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../../product/customer-service-management/image/self-service-dashboard-catalog.png "Catalog tab")
 
-![Virtual agent tab displaying different tab to analyse the engagements, success rates, and deflection activity.](../../../product/customer-service-management/image/self-service-dashboard-virtual-agent.png "Virtual agent tab")
+![Virtual agent tab displaying different tab to analyse the engagements, success rates, and deflection activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../../product/customer-service-management/image/self-service-dashboard-virtual-agent.png "Virtual agent tab")
 
 You can access this dashboard by navigating to **All** &gt; **Platform analytics** &gt; **Library** &gt; **Dashboards**, and search for Self-Service Analytics dashboard. To edit this dashboard, you must set the application scope to **Self-Service Analytics for Customer Service** using the [application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 **Note:**
 
--   On the Knowledge tab, you can report knowledge gaps for unsuccessful searches. For more information, see [Report knowledge gaps based on unsuccessful searches](../../performance-analytics/task/report-knowledge-gap-unsucc-search.md).
+-   On the Knowledge tab, you can report knowledge gaps for unsuccessful searches. For more information, see [Report knowledge gaps based on unsuccessful searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../performance-analytics/task/report-knowledge-gap-unsucc-search.md).
 -   The Communities tab is available when the Communities plugin \(com.sn\_communities\) is activated.
 -   The Virtual Agent tab is available when the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) is activated.
 
@@ -211,7 +211,7 @@ This dashboard includes the following breakdowns:
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Unsuccessful Searches|Bar ![Bar icon.](../../performance-analytics/image/column-icon.png)|A monthly collection of searches for knowledge articles with no results or results with no clicks.|
+|Unsuccessful Searches|Bar ![Bar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../../performance-analytics/image/column-icon.png)|A monthly collection of searches for knowledge articles with no results or results with no clicks.|
 
 **Related topics**  
 

@@ -19,11 +19,11 @@ Enable dispatchers, agents, managers, and field service agents of contractor com
 
 Completing work orders on the web interface can include one or more of the following activities.
 
--   [Updating task status in web interface](updating-task-status-in-web-interface.md)
+-   [Updating task status in web interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/updating-task-status-in-web-interface.md)
 
     Use the Internet to track and update the statuses of work order tasks.
 
--   [Contractor Portal](field-service-contractor-portal.md)
+-   [Contractor Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/field-service-contractor-portal.md)
 
     The Contractor Portal allows managers and field service agents of contractor companies to manage and work on the assigned work order tasks.
 

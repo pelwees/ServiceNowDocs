@@ -22,11 +22,11 @@ Using the simplified navigation, you can design the primary navigation menu and 
 -   Takes employees to destination with an easy hover or click.
 -   Adapts across devices by transforming to bottom navigation for a consistent experience.
 
-![Simplified navigation on left and at bottom](../images/simplified-navigation-ec-overview.png "Simplified navigation overview")
+![Simplified navigation on left and at bottom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/simplified-navigation-ec-overview.png "Simplified navigation overview")
 
 You can configure the simplified navigation in the following steps:
 
--   Streamline navigation setup from [Advanced Portal Navigation](adv-portal-navigation-overview.md) by creating a record.
+-   Streamline navigation setup from [Advanced Portal Navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/adv-portal-navigation-overview.md) by creating a record.
 -   Select side navigation style and a set of predefined icons for consistency and usability.
 
 **Note:** Migrating your existing navigation structure to simplified left navigation is easy.
@@ -42,7 +42,7 @@ Use some of the following guidance and tips.
 -   Add topics up to two levels from the root-level. For example, when you add topics under Human Resources, you can only traverse from `Human Resources > Subtopic 1`.
 -   In the left navigation, only the first level of child menu items appears. For deeper levels, hover or click back and forth for additional menus.
 
-    ![How submenu navigation appears from the More menu](../images/simplified-left-nav-backforth.png "More and menu navigation")
+    ![How submenu navigation appears from the More menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/simplified-left-nav-backforth.png "More and menu navigation")
 
 -   When a sub-menu contains many items, a scroll bar appears for navigation.
 -   Left and bottom views are responsively adjusted as per available space.
@@ -52,5 +52,5 @@ Use some of the following guidance and tips.
     **Note:** For top navigation option, sync supports up to three levels of sub-navigation.
 
 
-For configuration steps, see [Configure simplified left navigation](../task/config-simplified-nav-as-menu.md).
+For configuration steps, see [Configure simplified left navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-simplified-nav-as-menu.md).
 

@@ -30,7 +30,7 @@ Configure the websocket server on MID Servers to enable connections from agents 
 
     The **Agent Client Collector Setup** dialog box appears.
 
-    ![Agent Client Collector Setup dialog box](../image/acc-setup.png)
+    ![Agent Client Collector Setup dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-setup.png)
 
 4.  Enter the MID web server port \(**8800**\) in the displayed field.
 
@@ -53,8 +53,8 @@ Configure the websocket server on MID Servers to enable connections from agents 
 
     2.  Verify that you receive a valid JSON response \(and not an error message\), such as the following:
 
-        ![Successful installation JSON script](../image/ACC-websocket-JSON.png "Successful installation JSON script")
+        ![Successful installation JSON script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-websocket-JSON.png "Successful installation JSON script")
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-configuring-with-mid.md)
 

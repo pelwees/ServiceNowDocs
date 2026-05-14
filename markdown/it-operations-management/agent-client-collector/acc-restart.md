@@ -25,7 +25,7 @@ Role required: agent\_client\_collector\_admin
 
     The **Agent Client Collectors** page appears with the list of agents.
 
-    ![Agent Client Collectors list](../image/ACC-Agent-Client-Collectors.png)
+    ![Agent Client Collectors list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Agent-Client-Collectors.png)
 
 2.  Select the check box of the agent you want to restart.
 
@@ -35,7 +35,7 @@ Role required: agent\_client\_collector\_admin
 
     A confirmation dialog box appears.
 
-    ![Restart agent confirmation dialog box](../image/ACC-Restart-Confirm.png)
+    ![Restart agent confirmation dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Restart-Confirm.png)
 
 4.  Select **Restart**.
 

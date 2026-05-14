@@ -31,8 +31,8 @@ Role required: admin
 
 5.  Under **Assignments**, perform assignments for the groups you want to deploy.
 
-    ![Group assignments.](../image/csd2-app-group-assignments.png)
+    ![Group assignments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-app-group-assignments.png)
 
 
-**Parent Topic:**[CSD 2.0 for Microsoft Intune](../concept/csd2-ms-intune.md)
+**Parent Topic:**[CSD 2.0 for Microsoft Intune](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2-ms-intune.md)
 

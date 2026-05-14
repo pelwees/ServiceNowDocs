@@ -19,10 +19,10 @@ The CTIOperationResponse API provides methods to set and get data on the current
 
 The CTI API provides REST resources that enable Computer Telephony Integration \(CTI\) providers to interact with the Voice framework. For information about this API, see [CTI API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-apis/cti-api.md).
 
--   **[Provider configuration in Voice](provider-configuration-ccc.md)**  
+-   **[Provider configuration in Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/provider-configuration-ccc.md)**  
 For both inbound and outbound calls, a provider configuration contains settings about the involved components and message transformers for a specific third-party phone system provider. Any request from that phone system provider is handled within ServiceNow based on these settings.
--   **[Extension points in Voice](extension-point-ccc.md)**  
+-   **[Extension points in Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/extension-point-ccc.md)**  
 Using extension points, you can call the custom scripts to extend the functionality of ServiceNow Voice. While integrating a third-party phone system with ServiceNow Voice, you can invoke extension points using the CTI API to handle events in ServiceNow Voice.
 
-**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 

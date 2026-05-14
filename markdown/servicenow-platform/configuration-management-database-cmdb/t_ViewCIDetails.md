@@ -62,7 +62,7 @@ If Service Mapping is deployed, the way CIs appear on the map depends on the [vi
 
     The attributes of applications and the servers that host them appear separately.
 
-    ![CI attributes displayed in the Properties pane](../image/AppServerProperties.gif)
+    ![CI attributes displayed in the Properties pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/AppServerProperties.gif)
 
 5.  To view more detailed attributes for the CI, click **Detailed properties** at the bottom of the Properties pane.
 

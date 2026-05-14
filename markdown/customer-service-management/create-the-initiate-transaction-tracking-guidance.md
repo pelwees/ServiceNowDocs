@@ -61,12 +61,12 @@ Role required: sn\_gd\_guidance.guidance\_manager
 
 5.  Configure the preview and detail experiences.
 
-    For more information, see [Configure guidance detail experience](configure-guidance-preview-detail-experiences-ga.md).
+    For more information, see [Configure guidance detail experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-preview-detail-experiences-ga.md).
 
 6.  Select **Submit**.
 
 
 ## What to do next
 
-[Configure a guidance action](create-guidance-action-ga-use-case.md) that an agent can take while initiating transaction tracking.
+[Configure a guidance action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-guidance-action-ga-use-case.md) that an agent can take while initiating transaction tracking.
 

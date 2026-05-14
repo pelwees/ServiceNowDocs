@@ -23,23 +23,23 @@ Role required: sn\_rvw\_feedback.reviewer
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![List icon.](../image/list-icon-riskworkspace.png) icon.
+2.  Select the list ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-riskworkspace.png) icon.
 
 3.  Open the record on which you want to create a Feedback.
 
-4.  In the side-panel, select the list ![side panel list icon.](../image/side-panel-list-icon.jpg) icon.
+4.  In the side-panel, select the list ![side panel list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/side-panel-list-icon.jpg) icon.
 
 5.  Select **New**.
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New Feedback form, see [Feedback Details form](../reference/feedback-details-form.md).
+    For a description of the field values on the Create New Feedback form, see [Feedback Details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/feedback-details-form.md).
 
 7.  Select **Save**.
 
     The feedback is moved to the Draft state.
 
-8.  To initiate a Sidebar discussion, select the More actions ![More actions icon.](../../grc-compliance-case-mgmt/image/more-actions-vertical-icon.png) icon on the feedback, and select **Discuss**.
+8.  To initiate a Sidebar discussion, select the More actions ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-compliance-case-mgmt/image/more-actions-vertical-icon.png) icon on the feedback, and select **Discuss**.
 
 9.  To add feedback items, select the **Add Item**.
 
@@ -57,8 +57,8 @@ Role required: sn\_rvw\_feedback.reviewer
     The feedback is raised and assigned to the respondent. The feedback is moved to the Assigned state.
 
 
--   **[Feedback Details form](../reference/feedback-details-form.md)**  
+-   **[Feedback Details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/feedback-details-form.md)**  
 Use the Feedback Details form to provide feedback on a record or fields in a record from the record side panel.
 
-**Parent Topic:**[Create feedback in Advanced Risk](../concept/create-a-feedback-risk.md)
+**Parent Topic:**[Create feedback in Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/create-a-feedback-risk.md)
 

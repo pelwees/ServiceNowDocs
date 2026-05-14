@@ -15,9 +15,9 @@ Provide input parameters to make a valid API call, test the connection, and rece
 
 ## Before you begin
 
-For all templates, you can select the information icon \(![lower case letter i for more information](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) to learn more about each parameter. You can use the API samples provided with each template. After you define your input parameters, you must test your connection.
+For all templates, you can select the information icon \(![lower case letter i for more information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) to learn more about each parameter. You can use the API samples provided with each template. After you define your input parameters, you must test your connection.
 
-You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response AI skills and agentic workflows](../../now-assist-vulnerability-response/concept/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with Now Assist for Vulnerability Response](../../now-assist-vulnerability-response/concept/using-now-assist-api-connector.md) about using the skill in connector framework.
+You have the option to get guidance for selecting a template with a Now Assist skill for this step. See [Exploring Now Assist for Vulnerability Response AI skills and agentic workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../now-assist-vulnerability-response/concept/exploring-ai-for-now-assist-for-vulnerability-response.md) for more information about the generative AI skill and [Creating an API connector with Now Assist for Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../now-assist-vulnerability-response/concept/using-now-assist-api-connector.md) about using the skill in connector framework.
 
 Roles required:
 
@@ -28,7 +28,7 @@ Roles required:
 
 1.  Fill in the fields.
 
-    **Note:** If you change any input parameters after testing the connection, you must test the connection again before you can continue on to [Map API response to SPC attributes](spc-sgc-stepper-5.md).
+    **Note:** If you change any input parameters after testing the connection, you must test the connection again before you can continue on to [Map API response to SPC attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-sgc-stepper-5.md).
 
 <table id="table_j1c_st4_sfc"><thead><tr><th>
 

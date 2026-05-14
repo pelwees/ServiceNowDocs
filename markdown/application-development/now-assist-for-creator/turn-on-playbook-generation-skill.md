@@ -17,7 +17,7 @@ Turn on the Now Assist for Creator playbook generation skill to use generative A
 
 ## Before you begin
 
--   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](../../flow-designer/task/install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. For more information, see [Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../flow-designer/task/install-now-assist-for-creator.md).
 -   Role required: admin
 
 ## About this task
@@ -34,22 +34,22 @@ Turn on the Now Assist for Creator playbook generation skill to use generative A
 
 4.  Turn on the **Playbook generation** and **Playbook generation with images** skills.
 
-    ![Playbook skills in Now Assist for Creator.](../images/now-assist-creator-playbook.png)
+    ![Playbook skills in Now Assist for Creator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/now-assist-creator-playbook.png)
 
 
 ## Result
 
 Playbook generation skills are active on your instance.
 
--   **[Change the default LLM for playbook generation](change-default-llm-playbook-generation.md)**  
+-   **[Change the default LLM for playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/change-default-llm-playbook-generation.md)**  
 Choose either the NowLLM/Mixtral model or OpenAI's GPT-4o as the default LLM to generate your playbooks.
 
-**Parent Topic:**[Playbook generation](../concept/playbook-assist-landing.md)
+**Parent Topic:**[Playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/playbook-assist-landing.md)
 
 **Related topics**  
 
 
-[Generate a playbook](generate-a-playbook-outline.md)
+[Generate a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/generate-a-playbook-outline.md)
 
-[Change the default LLM for playbook generation](change-default-llm-playbook-generation.md)
+[Change the default LLM for playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/change-default-llm-playbook-generation.md)
 

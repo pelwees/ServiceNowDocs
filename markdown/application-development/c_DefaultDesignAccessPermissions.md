@@ -23,7 +23,7 @@ By default, new application tables prevent other application scopes from creatin
 |**Allow access to this table via web services**|Enabled|
 |**Allow configuration**|Disabled|
 
-![Specifying table access](../image/DefaultDesignTimeAccessPermissions.png "Default access permissions to configuration records")
+![Specifying table access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/DefaultDesignTimeAccessPermissions.png "Default access permissions to configuration records")
 
-**Parent Topic:**[Design-time access to application tables](c_DesignTimeAccessToAppTables.md)
+**Parent Topic:**[Design-time access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_DesignTimeAccessToAppTables.md)
 

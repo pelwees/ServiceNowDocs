@@ -40,8 +40,8 @@ Role required: web\_service\_admin
     The **Versioning** embedded list is added to the Scripted REST Service form. You can add new versions or control which version is default from this list.
 
 
--   **[Add a version to a scripted REST API](t_AddAVersion.md)**  
+-   **[Add a version to a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_AddAVersion.md)**  
 Add a new version to a versioned scripted REST API to define new API behavior without impacting older versions.
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

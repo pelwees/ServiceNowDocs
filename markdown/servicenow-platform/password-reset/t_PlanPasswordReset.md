@@ -46,10 +46,10 @@ Role required: password\_reset\_admin or admin
     -   If your organization uses single sign-on, how will users reset their password if they are unable to log on?
     -   What options are available to users working off-site?
 
-**Parent Topic:**[Configuring Password Reset](../concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/password-reset-admin-guide.md)
 
 **Related topics**  
 
 
-[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)
+[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 

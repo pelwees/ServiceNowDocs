@@ -37,5 +37,5 @@ An Account Payable Specialist fills the key fields in the purchase order for inv
 |Legal entity|Reference|Internal legal entity making this purchase|
 |Payment term|Reference|The agreed time and conditions of payment to the supplier.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

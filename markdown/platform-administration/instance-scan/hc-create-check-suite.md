@@ -41,28 +41,28 @@ Role required: admin.
     **Note:** The suites that you create are completely modifiable. You can modify the checks in the suite and can also add child and parent suites.
 
 
-**Parent Topic:**[Using Instance Scan](../concept/hs-using-scans.md)
+**Parent Topic:**[Using Instance Scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-using-scans.md)
 
 **Related topics**  
 
 
-[Create a check](hs-create-health-check.md)
+[Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-execute-scans.md)
 
-[Schedule a full scan](hs-schedule-full-scan.md)
+[Schedule a full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-schedule-full-scan.md)
 
-[Schedule a suite scan](hc-schedule-suite-scan.md)
+[Schedule a suite scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-schedule-suite-scan.md)
 
-[Monitoring a scan](hs-progress-status-full-scan.md)
+[Monitoring a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-progress-status-full-scan.md)
 
-[Parallel scans](../concept/hs-parallel-scan.md)
+[Parallel scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-parallel-scan.md)
 
-[Reviewing of scans](../reference/hs-review-scans.md)
+[Reviewing of scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-review-scans.md)
 
-[Queue your scan](hs-queue-scan.md)
+[Queue your scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-queue-scan.md)
 
-[Cancel a scan](hs-cancel-scan.md)
+[Cancel a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-cancel-scan.md)
 
-[Using the Instance Scan dashboard](hs-implement-dashboard.md)
+[Using the Instance Scan dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-implement-dashboard.md)
 

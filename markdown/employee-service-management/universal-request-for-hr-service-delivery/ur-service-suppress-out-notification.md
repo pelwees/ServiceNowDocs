@@ -31,10 +31,10 @@ Service emails, such as, service ticket creation, notes or state changes, can be
 
 3.  In the **When to send** tab, under the condition builder, add a new condition step as shown.
 
-    ![Suppress notification for Services](../images/ur-suppress-notification.png)
+    ![Suppress notification for Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-suppress-notification.png)
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+**Parent Topic:**[Email notification preferences for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-customize-email-notifcations.md)
 

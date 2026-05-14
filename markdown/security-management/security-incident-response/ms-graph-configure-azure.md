@@ -38,7 +38,7 @@ Role required:
 
 6.  Under **Manage**, select **Certificates &amp; secrets**.
 
-    ![MIicrosoft Azure portal configuration](../image/ms-graph-azure-config.png)
+    ![MIicrosoft Azure portal configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-azure-config.png)
 
 7.  Select **New client secret** to create a client secret.
 
@@ -50,13 +50,13 @@ Role required:
 
 9.  Add new Application level API permissions for SecurityAlert.ReadWrite.All security events.
 
-    ![Microsoft Graph Security API configuration: security events](../image/ms-graph-azure-config-1.png)
+    ![Microsoft Graph Security API configuration: security events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-azure-config-1.png)
 
 10. Grant admin consent for the newly added API permissions.
 
     For more information, see the [Microsoft Graph Permissions reference](https://docs.microsoft.com/en-us/graph/permissions-reference) Microsoft Graph permission model.
 
-    ![Microsoft Graph Security API configuration: grant admin consent](../image/ms-graph-azure-config-2.png)
+    ![Microsoft Graph Security API configuration: grant admin consent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-azure-config-2.png)
 
 11. Log in as a tenant administrator and provide consent for the application.
 

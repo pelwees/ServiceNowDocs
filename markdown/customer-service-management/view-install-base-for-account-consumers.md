@@ -33,6 +33,6 @@ View the list of install base items information from the Customer Service Portal
 
 3.  Select an install base to view its details.
 
-    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [Configure the Install Base items and Sold Products lists](config-b2b2c-data-model-case-list.md) for details.
+    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [Configure the Install Base items and Sold Products lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-b2b2c-data-model-case-list.md) for details.
 
 

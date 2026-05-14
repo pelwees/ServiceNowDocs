@@ -23,7 +23,7 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_manager
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![List icon.](../image/list-icon-riskworkspace.png) icon.
+2.  Select the list ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-riskworkspace.png) icon.
 
 3.  From the list, navigate to **Risk assessment projects**, and select **In progress**.
 
@@ -36,5 +36,5 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_manager
 6.  Select **Confirm**.
 
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-assessment-project.md)
 

@@ -45,7 +45,7 @@ A customer project can be initiated by applying templates, or by importing and e
 
 5.  Select a project to see all the related tabs.
 
-    ![Project workspace displaying related tabs of a project.](../image/project-workspace.png)
+    ![Project workspace displaying related tabs of a project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/project-workspace.png)
 
 <table id="table_jzx_dmn_tdc"><thead><tr><th>
 

@@ -127,5 +127,5 @@ Defines any additional criteria, and returns true or false. This field is availa
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Change models](../concept/change-models.md)
+**Parent Topic:**[Change models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-models.md)
 

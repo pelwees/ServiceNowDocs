@@ -74,7 +74,7 @@ To automatically trigger the Help manage software request workflow for sourcing 
         -   If the entitlement is available, the AI agent creates a reservation order using the existing entitlement and generates a catalog task to replicate that reservation within the Microsoft 365 Admin Center.
         -   If the entitlement isn’t available, the AI agent generates a catalog task to create entitlement in ServiceNow.
 
-To view the agentic workflow process, navigate to the Asset Workspace or the Hardware Asset Workspace and select the sparkle icon ![sparkle icon for Now Assist](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) on the top right side of the workspace.
+To view the agentic workflow process, navigate to the Asset Workspace or the Hardware Asset Workspace and select the sparkle icon ![sparkle icon for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) on the top right side of the workspace.
 
 ## AI agents used in the Help manage software asset requests agentic workflow
 
@@ -113,5 +113,5 @@ Microsoft license assignment AI agent
 Assigns a Microsoft 365 license from the existing inventory when available, using the RITM.The AI agent checks for both group and individual licenses. If the licenses aren't available, the AI agent creates a reservation order.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using agentic workflows in Now Assist for SAM](using-now-assist-sam-ai-agents-usecases.md)
+</table>**Parent Topic:**[Using agentic workflows in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam-ai-agents-usecases.md)
 

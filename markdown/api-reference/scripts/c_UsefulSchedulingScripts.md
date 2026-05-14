@@ -86,5 +86,5 @@ You can also utilize the system's scripting functionality available for server-s
 
 You can use options on the Business Rules form to build conditions, set field values, and display alert messages without needing to write a script.
 
-**Parent Topic:**[Useful scripts](usefulScripts.md)
+**Parent Topic:**[Useful scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/usefulScripts.md)
 

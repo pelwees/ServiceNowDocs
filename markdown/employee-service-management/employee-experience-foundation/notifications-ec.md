@@ -19,9 +19,9 @@ Notifications for Employee Center functionality is available when you have the E
 
 **Note:** Installation of the Notifications for Employee Center plugin \(sn\_ex\_sp\_notifs\) is required to avail the functionality.
 
-![Notifications icon is displayed on the Employee Center portal.](../images/notification-ec.png "Notifications for Employee Center")
+![Notifications icon is displayed on the Employee Center portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/notification-ec.png "Notifications for Employee Center")
 
-![List of notifications displayed on the Employee Center portal.](../images/notfication-tray-ec.png "Notifications list")
+![List of notifications displayed on the Employee Center portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/notfication-tray-ec.png "Notifications list")
 
 Notifications for Employee Center functionality is configurable for other portals too, like the Employee Center Pro Kiosk.
 
@@ -60,7 +60,7 @@ Notifications actions available for each notification are:
     -   Next week
 -   Clear notification
 
-For more information on configuring notifications, see [Configure notifications for portal](../task/config-notification-ec.md).
+For more information on configuring notifications, see [Configure notifications for portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-notification-ec.md).
 
 ## Notifications in Content engagement for Employee Center Pro
 
@@ -77,7 +77,7 @@ Get Notifications for Employee Center in the Browser Extension for Employee Cent
 
 You must have the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 installed to get the default Notifications configuration **ECBE configuration**.
 
-The **Display mode** available for the **ECBE configuration** is only **Page view**. For more information on Notifications configuration for your portal, see [Configure notifications for portal](../task/config-notification-ec.md).
+The **Display mode** available for the **ECBE configuration** is only **Page view**. For more information on Notifications configuration for your portal, see [Configure notifications for portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-notification-ec.md).
 
-For more information on the field values in the portal notification configuration form, see [Portal notification configuration form](../reference/portal-notif-config-form.md).
+For more information on the field values in the portal notification configuration form, see [Portal notification configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/portal-notif-config-form.md).
 

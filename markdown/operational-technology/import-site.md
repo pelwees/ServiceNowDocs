@@ -25,10 +25,10 @@ Role required: admin
 
 3.  Select **Import Sites**.
 
-    ![Sites Action menu](../image/sites-action-menu.png)
+    ![Sites Action menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/sites-action-menu.png)
 
 4.  In the Import Sites window, choose the type of site and the file that you want to import, and select **Save**.
 
-    ![Import Sites](../image/import-sites.png)
+    ![Import Sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/import-sites.png)
 
 

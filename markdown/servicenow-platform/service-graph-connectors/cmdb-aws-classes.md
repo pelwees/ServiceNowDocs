@@ -1138,7 +1138,7 @@ The following attributes in the VNIC Endpoint \[cmdb\_ci\_endpoint\_vnic\] table
 
 ## Related content
 
-[Data mapping for Service Graph Connector for AWS](cmdb-data-mapping-aws.md)
+[Data mapping for Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-data-mapping-aws.md)
 
-[Service Graph Connector for AWS properties](cmdb-sgc-aws-props.md)
+[Service Graph Connector for AWS properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-aws-props.md)
 

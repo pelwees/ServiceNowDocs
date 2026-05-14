@@ -29,7 +29,7 @@ Roles required: workflow\_admin or activity\_creator
 
     The designer creates a default variable called **Input1**.
 
-    ![Creating an input variable](../image/InputsNewVariable.png)
+    ![Creating an input variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/InputsNewVariable.png)
 
 2.  Type your new variable name in the field.
 
@@ -45,14 +45,14 @@ Roles required: workflow\_admin or activity\_creator
 
 5.  To reorder the variable list, select a row and then drag the row to its new location.
 
-    When you select a row to move it, the pointer icon changes to an up/down arrow icon \(![up/down arrow icon](../image/MoveVariable.png)\).
+    When you select a row to move it, the pointer icon changes to an up/down arrow icon \(![up/down arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/MoveVariable.png)\).
 
-6.  To delete a variable, click the delete icon \(![delete icon](../image/DeleteVar.png)\) in the row.
+6.  To delete a variable, click the delete icon \(![delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/DeleteVar.png)\) in the row.
 
 7.  Click **Continue** to advance to the **Execution Command** stage or click **Go to Pre-Processing \(Advanced\)** to create a script that runs before the activity executes.
 
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md)
 
 ## Map an input variable
 
@@ -72,7 +72,7 @@ These fields contain values required by the target host or endpoint to authentic
 
     The designer automatically expresses the variable in the syntax the system requires.
 
-    ![Mapping input variables](../image/InputsMapping.png)
+    ![Mapping input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/InputsMapping.png)
 
 
 ## Configure the PowerShell execution command
@@ -85,7 +85,7 @@ Create the input variables you need in the **Inputs** form before you can advanc
 
 Role required: activity\_creator, admin
 
-**Note:** You can test the PowerShell connection between the MID Server and the target computer without having to run the acvitity in a workflow context. For details, see [test template outputs](CreateInputVariables.md#).
+**Note:** You can test the PowerShell connection between the MID Server and the target computer without having to run the acvitity in a workflow context. For details, see [test template outputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#).
 
 ### Procedure
 
@@ -93,7 +93,7 @@ Role required: activity\_creator, admin
 
     The system formats the variable in the proper syntax for the command.
 
-    ![PowerShell execution command](../image/PowershellExecutionCommand.png "PowerShell execution command")
+    ![PowerShell execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/PowershellExecutionCommand.png "PowerShell execution command")
 
 2.  Complete the fields shown in the table.
 
@@ -111,7 +111,7 @@ Input
 
 </td><td>
 
-Input variable builder. [Create variables](CreateInputVariables.md#) to [map](CreateInputVariables.md#) to available fields.
+Input variable builder. [Create variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to [map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) to available fields.
 
 </td></tr><tr><td>
 
@@ -207,7 +207,7 @@ An input test executes only the input parameters against an endpoint and not the
 
     The list of input source variables appears. If you added default values for these variables, those values appear in the **Substitute Value** column. Mandatory variables are marked with a red star. In this example, a SOAP endpoint returns a value for a stock quote variable.
 
-    ![Test value for input variable](../image/TestDesignerSOAPInputValues.png)
+    ![Test value for input variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/TestDesignerSOAPInputValues.png)
 
 2.  Filter the variable list with these controls:
 
@@ -222,9 +222,9 @@ An input test executes only the input parameters against an endpoint and not the
 
     The system runs the values for all the inputs configured against the specified target and returns the resulting payload. The buttons in the Response form display different views of the payload. The entire payload appears in the **Raw Output** window.
 
-    ![Response payload from inputs test](../image/TestDesignerSOAPInputsResponse.png "Response payload from inputs test")
+    ![Response payload from inputs test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/TestDesignerSOAPInputsResponse.png "Response payload from inputs test")
 
-5.  To map appropriate parameter values in the payload to variables in the **Outputs** stage automatically, select an [auto-mapping option](automap-output-variable-inputs.md).
+5.  To map appropriate parameter values in the payload to variables in the **Outputs** stage automatically, select an [auto-mapping option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 6.  Alternately, you can click **Save for parsing rules** to copy the entire payload to the parsing rules.
 

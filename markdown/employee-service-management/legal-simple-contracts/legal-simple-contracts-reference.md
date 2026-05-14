@@ -15,12 +15,12 @@ breadcrumb: [Legal Simple Contracts, Legal Service Delivery Practice Application
 
 Reference topics provide additional information about the lists and forms that you use in Legal Simple Contracts.
 
--   **[Components installed with Legal Simple Contracts](installed-with-legal-simple-contracts.md)**  
+-   **[Components installed with Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/installed-with-legal-simple-contracts.md)**  
 Several types of components are installed with activation of the Legal Simple Contracts application, including tables and user roles.
--   **[Third Party Contract Review form](tpc-request-intake-form-fields.md)**  
+-   **[Third Party Contract Review form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/tpc-request-intake-form-fields.md)**  
 The Third Party Contract Review form is used to submit a legal request to the legal department to get the third-party contracts reviewed.
--   **[Word Template New Record form](lsc-word-tmple-rec-form.md)**  
+-   **[Word Template New Record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-word-tmple-rec-form.md)**  
 The Word Template New Record form is used to create document template.
 
-**Parent Topic:**[Legal Simple Contracts](legal-simple-contracts-landing-page.md)
+**Parent Topic:**[Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-landing-page.md)
 

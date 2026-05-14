@@ -14,7 +14,7 @@ The ServiceNow® Purchase Order Management application helps you identify, track
 
 ## Purchase Order Management highlights for the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -104,5 +104,5 @@ Install Purchase Order Management by requesting it from the ServiceNow Store. Vi
     ServiceNow® Supplier Lifecycle Operations empowers suppliers with self-service to simplify operations and improve productivity. You can effectively collaborate with suppliers, manage supplier relationships, monitor risk, compliance, and performance across the supplier life cycle.
 
 
-**Parent Topic:**[Source-to-Pay Operations release notes](source-to-pay-operations-rn-landing.md)
+**Parent Topic:**[Source-to-Pay Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/source-to-pay-operations-rn-landing.md)
 

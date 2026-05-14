@@ -15,13 +15,13 @@ breadcrumb: [Automated Test Framework \(ATF\) reference, Automated Test Framewor
 
 The Suites module opens the Test Suites table. You can create, edit, and run test suites from this table.
 
--   **[Test suite form](../reference/atf-test-suite-record.md)**  
+-   **[Test suite form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-suite-record.md)**  
 The Test Suite form contains information about one test suite.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-ref-overview.md)
 
 **Related topics**  
 
 
-[Building and running automated test suites](atf-suites-overview.md)
+[Building and running automated test suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-suites-overview.md)
 

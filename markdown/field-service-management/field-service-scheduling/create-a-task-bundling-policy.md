@@ -48,7 +48,7 @@ Task bundling policies are groups of rules that dictate how work order tasks are
 
 ## What to do next
 
-Policies require rules and qualifiers to run. For more information, see [Create a task bundling rule](create-a-task-bundling-rule.md) and [Add qualifiers to a task bundling policy](add-qualifier-bundling-policy.md).
+Policies require rules and qualifiers to run. For more information, see [Create a task bundling rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-a-task-bundling-rule.md) and [Add qualifiers to a task bundling policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-qualifier-bundling-policy.md).
 
-After a policy is complete, you can schedule them or run them manually. For more information, see [Schedule dynamic task bundling](schedule-dynamic-task-bundling.md) or [Run a task bundling policy manually](run-a-task-bundling-policy.md).
+After a policy is complete, you can schedule them or run them manually. For more information, see [Schedule dynamic task bundling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/schedule-dynamic-task-bundling.md) or [Run a task bundling policy manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/run-a-task-bundling-policy.md).
 

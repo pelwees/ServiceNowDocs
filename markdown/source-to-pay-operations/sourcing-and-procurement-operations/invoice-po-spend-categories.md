@@ -21,5 +21,5 @@ During matching, the spend category from the PO line is applied to the correspon
 
 For older invoice lines created before SPO installation, the system generates updated predictions to populate missing spend categories.
 
-**Parent Topic:**[Automatically assign categories during SR and PR creation](automatically-assign-categories.md)
+**Parent Topic:**[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)
 

@@ -19,7 +19,7 @@ Enable Smart Assessment Questionnaire to enhance work order task questionnaires 
 
 You can enable Smart Assessment Questionnaire only if no survey instances are open for any questionnaire.
 
-Activate the required plugins. For more information, see [Activate Smart Assessment for Field Service questionnaire](activate-smart-assessment.md).
+Activate the required plugins. For more information, see [Activate Smart Assessment for Field Service questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-smart-assessment.md).
 
 **Important:**
 
@@ -41,7 +41,7 @@ Smart Assessment Questionnaire is enabled for work order tasks.
 **Related topics**  
 
 
-[Activate Smart Assessment for Field Service questionnaire](activate-smart-assessment.md)
+[Activate Smart Assessment for Field Service questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-smart-assessment.md)
 
-[Migrating to Smart Assessment from survey-based questionnaire](../concept/configuring-sa-by-migrating.md)
+[Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../concept/configuring-sa-by-migrating.md)
 

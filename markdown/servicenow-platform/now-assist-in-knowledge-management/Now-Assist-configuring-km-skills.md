@@ -23,7 +23,7 @@ Before configuring the KB generation skill, the following applications and their
 
 -   For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-applications-in-application-manager.md).
 
-    **Note:** You can access knowledge articles created with TinyMCE by enabling KB generation skill, see [Configuring the KB generation skill](Now-Assist-configuring-km-skills.md). To use articles created with custom instructions, please activate the knowledge content recommendation skill, see [Edit an article using the Now Assist context menu](Now-Assist-generate-article-using-context-menu.md#).
+    **Note:** You can access knowledge articles created with TinyMCE by enabling KB generation skill, see [Configuring the KB generation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-km-skills.md). To use articles created with custom instructions, please activate the knowledge content recommendation skill, see [Edit an article using the Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-using-context-menu.md#).
 
 
 Role required: admin
@@ -45,9 +45,9 @@ Role required: admin
     -   **Input Table**: The record type used for KB generation. For example, the value is **case** for Now Assist for CSM.
     -   **Input Fields**: The fields from which information is gathered to draft the Knowledge article. Based on the Input Table, the Input Fields can be configured. Together, they serve as an input to Now LLM Service from the case or incident where the article is created.
     -   **Default Knowledge Base for NAP**: The Knowledge Base in which the Now Assist panel generates the article.
-    ![Choose the table records and input fields to generate a knowledge article.](../image/NAConfig_Chooseinput.png)
+    ![Choose the table records and input fields to generate a knowledge article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NAConfig_Chooseinput.png)
 
-6.  Configure whether the KB generation skill should always be available or available based on a set of conditions. ![Customize the skill availability for the KB generation skill.](../image/NAConfig_DefineAvailability.png)
+6.  Configure whether the KB generation skill should always be available or available based on a set of conditions. ![Customize the skill availability for the KB generation skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NAConfig_DefineAvailability.png)
 
 7.  Select where you want to display the KB generation skill.
 
@@ -55,7 +55,7 @@ Role required: admin
 
     -   **In-product**: When selected, Now Assist skills are displayed on forms and workspaces. Select the arrow next to the toggle switch to define the roles that can use this skill in-product.
     -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. Select the arrow next to the toggle switch to define roles that can use this skill in the Now Assist panel.
-    ![Select where the KB generation skill is displayed.](../image/NAConfig_Selectdisplay.png)
+    ![Select where the KB generation skill is displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NAConfig_Selectdisplay.png)
 
 8.  Select **Save and continue** to go to the next step.
 
@@ -66,7 +66,7 @@ Role required: admin
 
 Your skill is configured.
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../concept/configuring-now-assist-km.md)
 
 **Related topics**  
 

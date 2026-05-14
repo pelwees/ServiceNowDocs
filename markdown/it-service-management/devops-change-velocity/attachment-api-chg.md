@@ -32,7 +32,7 @@ The attachment API URL is:
 -   Create an active user with the option **Web service access only** selected. For information on how to create a user, see [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAUser.md).
 -   Assign the role **sn\_change\_write** to the user. For information on how to assign the role, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md).
 
-    ![Create user.](../image/attachment-api-01.png)
+    ![Create user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/attachment-api-01.png)
 
 -   The system property **sn\_devops.enable\_ado\_generic\_connection** must be enabled.
 -   While configuring your Azure DevOps project, to upload to chg. table, the generic connection used should have a user having the role **sn\_change\_write**.
@@ -67,7 +67,7 @@ stage: PostDeploy
                waitForCompletion: 'false'
 ```
 
-![Azure DevOps pipeline.](../image/attachment-api-02.png)
+![Azure DevOps pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/attachment-api-02.png)
 
 ## GitHub
 
@@ -75,11 +75,11 @@ For GitHub pipelines, use the format given here to add attachments to change req
 
 Sample pipeline:
 
-![GitHub pipeline.](../image/attachment-api-03.png)
+![GitHub pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/attachment-api-03.png)
 
 **Attachment in the Change Request form in Now instance**:
 
-![Attachments in change record.](../image/attachment-api-04.png)
+![Attachments in change record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/attachment-api-04.png)
 
 ## Jenkins
 
@@ -171,12 +171,12 @@ pipeline {
 
 ```
 
-![Jenkins pipeline.](../image/attachment-api-05.png)
+![Jenkins pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/attachment-api-05.png)
 
 ## Limitations of the attachment API
 
 -   The attachment xml file’s text size should be acceptable to the orchestration tool.
 -   For Azure DevOps, **sn\_change\_write** role is needed for authentication of attachment API, to upload the file to the change record.
 
-**Parent Topic:**[DevOps test tool integration](../concept/dev-ops-test-tool-integration.md)
+**Parent Topic:**[DevOps test tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/dev-ops-test-tool-integration.md)
 

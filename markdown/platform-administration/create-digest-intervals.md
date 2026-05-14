@@ -48,12 +48,12 @@ Before adding an email digest interval, review the base system digest intervals 
 
 ## What to do next
 
-Determine the email notifications that can be delivered in a digest and [configure the email digest content](configure-email-digest.md) for those notifications.
+Determine the email notifications that can be delivered in a digest and [configure the email digest content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-email-digest.md) for those notifications.
 
-**Parent Topic:**[Email digests](../concept/email-digests.md)
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-digests.md)
 
 **Related topics**  
 
 
-[Email digest properties](../concept/email-digest-properties.md)
+[Email digest properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-digest-properties.md)
 

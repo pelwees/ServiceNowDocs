@@ -15,7 +15,7 @@ breadcrumb: [Advanced Work Assignment for Supplier Lifecycle Operations, Configu
 
 Plan and configure your implementation of Advanced Work Assignment for Supplier Lifecycle Operations.
 
-Setting up [Advanced Work Assignment for Supplier Lifecycle Operations](slo-glossary.md#) involves configuring the following components:
+Setting up [Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-glossary.md#) involves configuring the following components:
 
 -   Service channels: A means of providing customer service. Advanced Work Assignment offers base system channels for chats, cases, incidents, and walk-up centers. For each channel, you can set attributes such as agent capacity and utilization conditions to control the work handled in the channel.
 -   Work item: A single piece of work handled by an agent from start to completion.
@@ -28,27 +28,27 @@ Setting up [Advanced Work Assignment for Supplier Lifecycle Operations](slo-glos
 
 For more information, see [Exploring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md).
 
--   **[Configure Advanced Work Assignment for Supplier Lifecycle Operations](../task/setup-awa-slm.md)**  
+-   **[Configure Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/setup-awa-slm.md)**  
 Configure various components, such as service channels, work item queues, and assignment rules that determine how a chat interaction should be routed to an agent.
--   **[Configure the Supplier Collaboration Queue](../task/configure-scp-queue.md)**  
+-   **[Configure the Supplier Collaboration Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-scp-queue.md)**  
 Configure the Supplier Collaboration Queue chat queue to ensure that the chat requests are routed and assigned to specific agents that belong to a defined group.
--   **[Configure Agent Chat for Source-to-Pay Workspace](../task/configure-agent-chat-slm.md)**  
+-   **[Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-agent-chat-slm.md)**  
 Use Agent Chat Settings to configure Agent Chat for Source-to-Pay Workspace.
 
-**Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
+**Parent Topic:**[Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-awa.md)
 
 **Related topics**  
 
 
-[Source-to-Pay Workspace agent inbox](agent-inbox-ws.md)
+[Source-to-Pay Workspace agent inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/agent-inbox-ws.md)
 
-[Activate Agent Chat and load demo data](../task/load-demo-agent-chat.md)
+[Activate Agent Chat and load demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/load-demo-agent-chat.md)
 
-[Using Advanced Work Assignment for Supplier Lifecycle Operations](use-awa-slm.md)
+[Using Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-awa-slm.md)
 
-[Configure Advanced Work Assignment for Supplier Lifecycle Operations](../task/setup-awa-slm.md)
+[Configure Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/setup-awa-slm.md)
 
-[Configure the Supplier Collaboration Queue](../task/configure-scp-queue.md)
+[Configure the Supplier Collaboration Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-scp-queue.md)
 
-[Configure Agent Chat for Source-to-Pay Workspace](../task/configure-agent-chat-slm.md)
+[Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-agent-chat-slm.md)
 

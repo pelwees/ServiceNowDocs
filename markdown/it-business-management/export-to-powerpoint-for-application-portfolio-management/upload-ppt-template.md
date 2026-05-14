@@ -25,7 +25,7 @@ Role required: sn\_ppt\_export.ppt\_user
 
 2.  Select a record to attached the latest template.
 
-3.  Select the manage attachments icon \(![Manage attachments icon.](../image/icon-attachment.png)\).
+3.  Select the manage attachments icon \(![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../image/icon-attachment.png)\).
 
 4.  Select **Choose file** to browse and upload the template.
 
@@ -36,7 +36,7 @@ Role required: sn\_ppt\_export.ppt\_user
 
 ## What to do next
 
-[Download a project status report](download-status-report.md).
+[Download a project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/download-status-report.md).
 
-**Parent Topic:**[Using Export to PowerPoint](../concept/using-export-to-ppt.md)
+**Parent Topic:**[Using Export to PowerPoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../concept/using-export-to-ppt.md)
 

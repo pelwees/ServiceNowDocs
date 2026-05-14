@@ -17,7 +17,7 @@ Assign search sources to a chat assistant. Search sources are used to determine 
 
 ## Before you begin
 
-See [Use agentic support for a chat assistant](use-agentic-support.md).
+See [Use agentic support for a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/use-agentic-support.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -31,7 +31,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
 1.  Assign search sources to your chat assistant.
 
-    ![View of the information sources.](../image/NAinVA-search-sources-122025.png "Search sources in the default search profile")
+    ![View of the information sources.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-search-sources-122025.png "Search sources in the default search profile")
 
     When a chat assistant is created, a search profile for that assistant gets created. All search sources associated with the profile are listed. The default search sources are:
 
@@ -57,7 +57,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     The associated search profile is also shown.
 
-    ![Drop-down list with search configurations.](../image/NAinVA-copy-config-052025.png "Select a search configuration to copy")
+    ![Drop-down list with search configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-copy-config-052025.png "Select a search configuration to copy")
 
 5.  Select **Copy**.
 
@@ -69,7 +69,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     The **Edit conditions** pop-up window appears.
 
-    ![Table view for editing conditions.](../image/NAinVA-edit-conditions4NOV.png "Edit conditions")
+    ![Table view for editing conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-edit-conditions4NOV.png "Edit conditions")
 
 7.  Select **Apply** after you have edited the conditions or added a new condition set.
 
@@ -87,7 +87,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
 10. Select **Restore default search sources** if you want to revert to the default search sources of Now Assist Multi-Turn Catalog Ordering and Now Assist Q&amp;A.
 
-    ![Select the Restore default search sources to revert to the default sources.](../image/NAinVA-search-sources-restore-default-122025.png "Restore default search sources")
+    ![Select the Restore default search sources to revert to the default sources.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-search-sources-restore-default-122025.png "Restore default search sources")
 
 11. Select **Manage search profile** if you have not yet configured AI Search for your portal or mobile app and want to start building the search configuration for your assistant from scratch, or edit advanced settings such as dictionaries, improvement rules, and stop words.
 
@@ -95,7 +95,7 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
     You must first complete the build of your search profile in the AI Search Admin console, and then publish your profile for it to be saved. For more information, see [Configure and manage AI Search in search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-admin-console-setup-manage-ais.md).
 
-    ![Review and publish profile in AI Search Admin console](../image/NAinVA-publish-profile.png "Publish profile in AI Search Admin console")
+    ![Review and publish profile in AI Search Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-publish-profile.png "Publish profile in AI Search Admin console")
 
     When navigating back to your assistant admin configuration in Assistant Designer, refresh your browser page to reflect published updates from the AI Search Admin console. For more information about the AI Search Admin console, see [Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/using-ais-admin-console.md).
 
@@ -110,5 +110,5 @@ Each assistant has its own search configuration. If you have configured AI Searc
 
 ## What to do next
 
-See [Brand an assistant](brand-assistant.md).
+See [Brand an assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
 

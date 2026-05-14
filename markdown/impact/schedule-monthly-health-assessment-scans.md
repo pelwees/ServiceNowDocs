@@ -21,7 +21,7 @@ Role required: impact\_permission\_authorizer
 
 1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Diagnose**.
 
-    A banner displays introducing the Monthly Health Assessment.![The banner to activate the monthly healthscans.](../image/monthly-healthscan-banner.png)
+    A banner displays introducing the Monthly Health Assessment.![The banner to activate the monthly healthscans.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/monthly-healthscan-banner.png)
 
 2.  Select **Turn on**.
 
@@ -29,12 +29,12 @@ Role required: impact\_permission\_authorizer
 
     **Important:** If you do not consent to run the automated reports, the Monthly HealthScan reports will not be scheduled.
 
-    ![Screen to consent and setup the auto health assessment.](../image/enable-auto-health-assessment.png)
+    ![Screen to consent and setup the auto health assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/enable-auto-health-assessment.png)
 
 4.  Select **Enable.**
 
     -   A success banner displays with the option to request an Accelerator, as needed, or Close.
     -   The scans are conducted monthly as long as the consent is active.
-5.  Access the Monthly HealthScan reports in the [Health Assessment Dashboard](../concept/health-assessment-dashboard.md).
+5.  Access the Monthly HealthScan reports in the [Health Assessment Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/health-assessment-dashboard.md).
 
 

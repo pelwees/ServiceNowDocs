@@ -18,5 +18,5 @@ Configure settings related to Evidence Management, such as modifying evidence se
 
 [psds-config-icm-evidence-classification]
 
-[Configure relationship types for an evidence record in Investigative Case Management](psds-config-icm-evidence-relationship-type.md)
+[Configure relationship types for an evidence record in Investigative Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-evidence-relationship-type.md)
 

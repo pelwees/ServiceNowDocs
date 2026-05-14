@@ -25,13 +25,13 @@ Role required: admin
 
     The list of properties in the System Properties \[sys\_properties\] table appears.
 
-    ![System properties list.](../images/sys-properties.png)
+    ![System properties list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sys-properties.png)
 
 2.  In the Name search field, enter `sn_tcm_collab_hook.on_call_tables_for_start_chat_action`.
 
 3.  Select **sn\_tcm\_collab\_hook.on\_call\_tables\_for\_start\_chat\_action** system property.
 
-    ![TCM system property details.](../images/sn-tcm-collab-system-property.png)
+    ![TCM system property details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-tcm-collab-system-property.png)
 
 4.  In the Value field, provide the tables to which you must extend the functionality.
 
@@ -40,5 +40,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Include On-call scheduling users to initiate Microsoft Teams chat](../concept/on-call-users-start-chat-it.md)
+**Parent Topic:**[Include On-call scheduling users to initiate Microsoft Teams chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/on-call-users-start-chat-it.md)
 

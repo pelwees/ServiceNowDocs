@@ -42,7 +42,7 @@ Expanding to 1 item
 ![](../image/ConfigurePreview2.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+</table>**Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ManagingTheHomepageForACatalog.md)
 
 ## Set number of items and categories to preview
 
@@ -54,11 +54,11 @@ To change this number, set the **Number of Catalog Items/Categories to preview i
 
 <table id="simpletable_gk5_psq_bq"><tbody><tr><td>
 
-![Screenshot for previewing five items](../image/ServiceCatalogPreview5Items.png "Previewing five items")
+![Screenshot for previewing five items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogPreview5Items.png "Previewing five items")
 
 </td><td>
 
-![Screenshot for previewing two items](../image/ServiceCatalogPreview2Items.png "Previewing two items")
+![Screenshot for previewing two items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogPreview2Items.png "Previewing two items")
 
 </td></tr></tbody>
 </table>## Hide the existing categories in the categories display
@@ -75,11 +75,11 @@ Role required: admin
 
 <table id="simpletable_gk5_psq_bq"><tbody><tr><td>
 
-![Screenshot for showing additional categories](../image/ServiceCatalogShowAdditionaCatsOn.png "Showing additional categories")
+![Screenshot for showing additional categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogShowAdditionaCatsOn.png "Showing additional categories")
 
 </td><td>
 
-![Screenshot for hiding additional categories](../image/ServiceCatalogShowAdditionaCatsOff.png "Hiding additional categories")
+![Screenshot for hiding additional categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogShowAdditionaCatsOff.png "Hiding additional categories")
 
 </td></tr></tbody>
 </table>

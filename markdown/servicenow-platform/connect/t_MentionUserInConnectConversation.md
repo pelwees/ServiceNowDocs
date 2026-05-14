@@ -23,7 +23,7 @@ Role required: none
 
 Users can set their notification preferences so they receive notifications only when they are mentioned. Mentioning a user creates a shortcut to view their basic information and send them a direct message.
 
-![Shortcut to viewing someone's basic information](../image/ConnectMentionMoreInfo.png)
+![Shortcut to viewing someone's basic information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectMentionMoreInfo.png)
 
 ## Procedure
 

@@ -66,10 +66,10 @@ Select **Enterprise agile team**.
 |------------------|
 |Enable the **Can read**, **Can create**, **Can update**, and **Can delete** fields.|
 
-**Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
+**Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
 **Related topics**  
 
 
-[Create a custom team type in EAP](../task/create-custom-team-type-in-eap.md)
+[Create a custom team type in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../task/create-custom-team-type-in-eap.md)
 

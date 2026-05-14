@@ -26,7 +26,7 @@ To access the **Analyze** step of IAR tuning, use the nlu\_admin role and naviga
 3.  Provide feedback, then select the **Analyze** button. Step 2 \(Analyze\) opens.
 4.  In the section **Here are your tuning options and projected results**, using the list **You can tune for precision, automation, or balance**, select options to see projected scenarios. You can also select the link **Learn about tuning goals** to open the following window.
 
-![In the Analyze step of IAR Tuning in NLU Workbench, the window What do you want to tune for? is open.](../images/issue-auto-resolution-tuning-options020V.png)
+![In the Analyze step of IAR Tuning in NLU Workbench, the window What do you want to tune for? is open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/issue-auto-resolution-tuning-options020V.png)
 
 ## Precision
 

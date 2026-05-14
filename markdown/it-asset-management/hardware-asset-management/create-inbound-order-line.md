@@ -118,5 +118,5 @@ Asset that is selected matching the model.This field automatically populates whe
 
 ## What to do next
 
-[Select a DaaS asset matching the model specified by the DaaS provider.](select-daas-asset.md)
+[Select a DaaS asset matching the model specified by the DaaS provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/select-daas-asset.md)
 

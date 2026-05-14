@@ -35,7 +35,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 5.  View the custom fields on the preview panel:
 
-    1.  In the primary navigation, select the Express List icon \(![Express List icon](../../event-management/image/express-list1.png)\).
+    1.  In the primary navigation, select the Express List icon \(![Express List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list1.png)\).
 
     2.  Select a row or the information icon at the beginning of a row.
 

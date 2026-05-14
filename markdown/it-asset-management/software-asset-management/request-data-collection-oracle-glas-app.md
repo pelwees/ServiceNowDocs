@@ -53,7 +53,7 @@ If your request is approved, you will receive an email with detailed instruction
 
 Install the application according to the instructions in the email.
 
-**Parent Topic:**[Oracle Database options and management packs](../reference/oracle-options.md)
+**Parent Topic:**[Oracle Database options and management packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/oracle-options.md)
 
 **Related topics**  
 

@@ -31,7 +31,7 @@ Rate limiting policy is enabled by default for SMS for better security. To confi
     If your account is locked, you are treated as a guest user when you start a new conversation. The bot confirms that your account is locked. You are then provided with the public topics and you can also unlock the account using the **Setup/Reset Verification Profile** Virtual Agent topic to reset the Soft PIN and Google authenticator.
 
 
-![The Provider Properties tab lists entries for each of these parameters, including the value and description.](../images/sms-auth-rate-limit-properties.png)
+![The Provider Properties tab lists entries for each of these parameters, including the value and description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sms-auth-rate-limit-properties.png)
 
-**Parent Topic:**[Configure SMS authentication](../task/configure-sms-auth.md)
+**Parent Topic:**[Configure SMS authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-sms-auth.md)
 

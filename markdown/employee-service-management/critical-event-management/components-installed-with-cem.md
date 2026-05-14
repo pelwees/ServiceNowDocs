@@ -33,7 +33,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../hs-core/reference/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -252,5 +252,5 @@ Geo Map componentsn\_geo\_map
 Enables the map component on the Critical Event Management dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Critical Event Management reference](../concept/critical-event-management-reference.md)
+</table>**Parent Topic:**[Critical Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/critical-event-management-reference.md)
 

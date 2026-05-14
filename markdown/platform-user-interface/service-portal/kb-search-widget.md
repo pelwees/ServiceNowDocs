@@ -15,26 +15,26 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 The KB Search widget is a search widget that is specifically confined to the knowledge base. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-The [typeahead search widget](typeahead-search-widget.md) is embedded in the KB search widget.
+The [typeahead search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/typeahead-search-widget.md) is embedded in the KB search widget.
 
-![KB Search widget with categories displayed](../image/WidgetKBSearch.png "KB Search widget")
+![KB Search widget with categories displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetKBSearch.png "KB Search widget")
 
 ## Instance options
 
-![KB search widget instance options with the title field](../image/IOKBSearch.png "KB search widget instance options")
+![KB search widget instance options with the title field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/IOKBSearch.png "KB search widget instance options")
 
 |Field|Description|
 |-----|-----------|
 |Title|Name of the widget. This field is non-public facing.|
 
-**Parent Topic:**[Knowledge Management widgets](km-widgets.md)
+**Parent Topic:**[Knowledge Management widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

@@ -42,5 +42,5 @@ Filtering helps you to isolate DLP alerts and to limit the number of DLP alerts 
 
 To configure the schedule, click **Continue**.
 
-**Parent Topic:**[Create a profile for ICAP DLP integration](create-profile-for-icap.md)
+**Parent Topic:**[Create a profile for ICAP DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-for-icap.md)
 

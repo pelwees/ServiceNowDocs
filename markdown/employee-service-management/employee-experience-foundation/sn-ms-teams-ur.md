@@ -24,20 +24,20 @@ The Universal Request integration with Microsoft Teams includes the following ca
 
 The Universal Request integration with Microsoft Teams is available with the Universal Request Pro application.
 
-For Universal Request integration with Microsoft Teams in ServiceNow instance, see [Integrating ServiceNow with Microsoft Teams and Microsoft 365](setup-sn-ms-teams.md).
+For Universal Request integration with Microsoft Teams in ServiceNow instance, see [Integrating ServiceNow with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams.md).
 
-To configure Universal Request integration with Microsoft Teams in ServiceNow instance, see [Configure Universal Request integration with Microsoft Teams](ur-ms-teams-config-ur.md).
+To configure Universal Request integration with Microsoft Teams in ServiceNow instance, see [Configure Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-config-ur.md).
 
-To manage Universal Request integration with Microsoft Teams in ServiceNow instance, see [Customize UI actions for Universal Request integration with Microsoft Teams](ur-ms-teams-ui-actions.md).
+To manage Universal Request integration with Microsoft Teams in ServiceNow instance, see [Customize UI actions for Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-ui-actions.md).
 
-To use Universal Request integration with Microsoft Teams in ServiceNow instance, see [Use Microsoft Teams for Universal Request](ur-ms-teams-use.md).
+To use Universal Request integration with Microsoft Teams in ServiceNow instance, see [Use Microsoft Teams for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use.md).
 
-**Parent Topic:**[Explore Microsoft Teams and Microsoft 365 integration for Employee Experience](c_employee_experience.md)
+**Parent Topic:**[Explore Microsoft Teams and Microsoft 365 integration for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_experience.md)
 
 **Related topics**  
 
 
-[IT Service Management integration with Microsoft Teams and Microsoft 365](sn-ms-teams.md)
+[IT Service Management integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams.md)
 
-[HR Service Delivery integration with Microsoft Teams and Microsoft 365](sn-ms-teams-hr.md)
+[HR Service Delivery integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-hr.md)
 

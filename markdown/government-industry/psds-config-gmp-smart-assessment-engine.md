@@ -37,7 +37,7 @@ Role required: admin
 
 7.  Navigate to the **Questions** tab and select **Add section**.
 
-    ![Smart assessment engine.](../image/psds-gmp-smart-engine-questions-tab.png)
+    ![Smart assessment engine.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-gmp-smart-engine-questions-tab.png)
 
 8.  On the form, fill in the details for the section, then select **Save**.
 

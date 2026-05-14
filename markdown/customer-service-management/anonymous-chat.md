@@ -42,7 +42,7 @@ For more information, see [Record Producer](https://raw.githubusercontent.com/Se
 
 ## Anonymous chat routing
 
-Information provided by the guest user assists with routing and also provides the context of the request to the consumer service agent. The chat request is routed to the appropriate agent queue based on the type of issue selected. The routing for anonymous chat requests uses [matching rules](c_CaseRouting.md). Create one matching rule for each queue and tie a chat request to a chat queue based on the selected issue type. Matching rules for anonymous chat are based on the Customer Interaction table.
+Information provided by the guest user assists with routing and also provides the context of the request to the consumer service agent. The chat request is routed to the appropriate agent queue based on the type of issue selected. The routing for anonymous chat requests uses [matching rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md). Create one matching rule for each queue and tie a chat request to a chat queue based on the selected issue type. Matching rules for anonymous chat are based on the Customer Interaction table.
 
 The following matching rules are provided:
 
@@ -92,5 +92,5 @@ Message shown to user when rate limit for guest conversations is breached. -   T
 
 [Connect Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectSupport.md)
 
-[Routing and assigning customer service cases](c_CaseRouting.md)
+[Routing and assigning customer service cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md)
 

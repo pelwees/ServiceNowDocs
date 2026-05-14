@@ -15,7 +15,7 @@ breadcrumb: [Playbook, Playbooks, Workflow Studio, Build workflows]
 
 Understand how Playbook work in the ServiceNow AI Platform® to automate cross-functional processes and consolidate them into task-oriented views for your end users.
 
-**All** &gt; **Process Automation** &gt; **Workflow Studio** &gt; **Playbooks** is the design environment where playbook owners build playbooks. Meanwhile, the runtime experience is where end users, such as playbook agents, follow the playbook to complete a business process. To learn more about the Playbook designer, see [Playbook builder](exploring-process-automation-designer.md).
+**All** &gt; **Process Automation** &gt; **Workflow Studio** &gt; **Playbooks** is the design environment where playbook owners build playbooks. Meanwhile, the runtime experience is where end users, such as playbook agents, follow the playbook to complete a business process. To learn more about the Playbook designer, see [Playbook builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-process-automation-designer.md).
 
 ## Runtime experience
 
@@ -37,13 +37,13 @@ Workflow Studio produces these runtime components for Playbooks:
 During runtime for a playbook, your instance:
 
 1.  Evaluates any conditions specified in the trigger definition and processes the trigger.
-2.  Processes the [Events](../../platform-events/concept/events.md) and starts running the playbook in the background.
+2.  Processes the [Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../platform-events/concept/events.md) and starts running the playbook in the background.
 3.  Builds the automation plans from each activity into an entire process plan.
 4.  Runs the process plan for your playbook.
 5.  Stores the process execution information in the Process Execution \[sys\_pd\_context\] table.
 6.  Provides data for the running playbook view that agents and fulfillers experience.
 
-![Sequence of playbook processing.](../images/process-definition-runtime-processing.png "Playbook processing")
+![Sequence of playbook processing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/process-definition-runtime-processing.png "Playbook processing")
 
 Your instance processes a playbook during runtime by evaluating trigger conditions, processing the event in the queue, building and running a process plan, storing process execution details, and providing data for the Playbook Experience.
 
@@ -125,5 +125,5 @@ The inclusion list supports these HTML elements and attributes, which cannot be 
 |ul|class|
 |video|autoplay, class, controls, height, loop, preload, src, width|
 
-**Parent Topic:**[Exploring Playbook](process-automation-designer.md)
+**Parent Topic:**[Exploring Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
 

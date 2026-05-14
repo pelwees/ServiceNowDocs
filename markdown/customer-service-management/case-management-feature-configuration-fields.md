@@ -58,11 +58,11 @@ Description for the Case form launcher widget in the messenger.
 
 <table id="table_tww_xgb_g4b"><tbody><tr><td>
 
-![Engagement Messenger home page displaying case widget to track all your cases and requests.](../image/em-cases-feature-widget.png "Cases feature widget")
+![Engagement Messenger home page displaying case widget to track all your cases and requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-cases-feature-widget.png "Cases feature widget")
 
 </td><td>
 
-![Widget displaying Chat with us and Submit a case features along with their description.](../image/em-case-launcher.png "Cases feature launcher widget")
+![Widget displaying Chat with us and Submit a case features along with their description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-case-launcher.png "Cases feature launcher widget")
 
 </td></tr></tbody>
 </table>

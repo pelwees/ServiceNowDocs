@@ -36,7 +36,7 @@ By default the Auto Assignment Group for HR Cases solution definition is configu
 -   There are 10000 records of HR case study matching the filters defined in the solution definition.
 -   The **glide.platform\_ml.auto\_training.enabled** system property is set to true.
 
-You can [manually train the predictive model](hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Case Assignment group record, and map the configured solution definition.
+You can [manually train the predictive model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Case Assignment group record, and map the configured solution definition.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](../concept/predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/predictive-intelligence-for-hr-service-delivery-1.md)
 

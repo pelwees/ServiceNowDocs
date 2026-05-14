@@ -24,7 +24,7 @@ When a script that uses only supported features is evaluated by guarded script, 
 -   The origin of the transaction: authenticated user or unauthenticated \(guest\) user.
 -   The enforcement phase for authenticated traffic configured for an instance.
 
-Scripts with a guarded-script exemption bypass guarded script restrictions and are routed to the script sandbox evaluator for execution instead. For more information about the script sandbox evaluator, see [Script sandbox evaluator](script-sandbox.md).
+Scripts with a guarded-script exemption bypass guarded script restrictions and are routed to the script sandbox evaluator for execution instead. For more information about the script sandbox evaluator, see [Script sandbox evaluator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md).
 
 ## Guarded script enforcement
 
@@ -59,7 +59,7 @@ Authenticated
 </td></tr></tbody>
 </table>For authenticated traffic on upgraded instances, guarded script enforcement advances through the following phases to provide time to detect and review incompatible scripts before rejecting them. Before transitioning to Phase 2: Syntax enforcement and Phase 3: Full enforcement, the system creates exemptions for any incompatible scripts detected during each phase automatically. Those exempted scripts bypass guarded script restrictions and run in the script sandbox evaluator. To further secure your instance, you can still review any scripts that have an automatic exemption, update them to be compatible with guarded script, and then remove the exemption.
 
-**Important:** Incompatible scripts are only detected and recorded when transactions calling them are sent to the server. You should test business-critical scripts that run infrequently, such as for quarterly or annual processes, before moving to Phase 3: Full enforcement and review the Incompatible Guarded Scripts list regularly to identify any scripts that may need remediation before they could be rejected. For more information, see [Review and update scripts incompatible with guarded script](../task/review-incompatible-guarded-scripts.md).
+**Important:** Incompatible scripts are only detected and recorded when transactions calling them are sent to the server. You should test business-critical scripts that run infrequently, such as for quarterly or annual processes, before moving to Phase 3: Full enforcement and review the Incompatible Guarded Scripts list regularly to identify any scripts that may need remediation before they could be rejected. For more information, see [Review and update scripts incompatible with guarded script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../task/review-incompatible-guarded-scripts.md).
 
 <table id="table_yt2_cc4_y3c"><thead><tr><th>
 
@@ -177,7 +177,7 @@ The GlideGuardedScript script include supports methods for transitioning between
 |`new GlideGuardedScript().advanceToPhase2()`|Validates that Phase 1: Detection is complete, creates exemptions for scripts with incompatible syntax, and advances the instance to Phase 2: Syntax enforcement for authenticated transactions.|
 |`new GlideGuardedScript().advanceToPhase3()`|Validates that Phase 2: Syntax enforcement is complete, creates exemptions for scripts that use incompatible APIs, and advances the instance to Phase 3: Full enforcement for authenticated transactions.|
 
-For information about running background scripts, see [Scripts - Background module](c_ScriptsBackground.md).
+For information about running background scripts, see [Scripts - Background module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptsBackground.md).
 
 ## JavaScript features supported by guarded script
 
@@ -208,19 +208,19 @@ If you move this logic to a script include and call the script include from the 
 javascript:new MyAppUtils().getAccountToFilter(current);
 ```
 
-In addition, guarded script supports only a restricted list of ServiceNow server-side JavaScript APIs and built-in JavaScript APIs. For a list of supported APIs, see [JavaScript APIs supported by guarded script](../reference/guarded-script-allowed-apis.md).
+In addition, guarded script supports only a restricted list of ServiceNow server-side JavaScript APIs and built-in JavaScript APIs. For a list of supported APIs, see [JavaScript APIs supported by guarded script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/guarded-script-allowed-apis.md).
 
-You should review the Incompatible Guarded Scripts list regularly and either rewrite scripts to use supported features to further secure your instance or create exemptions for scripts that can't be rewritten. For more information, see [Review and update scripts incompatible with guarded script](../task/review-incompatible-guarded-scripts.md) and the [Server-Side Sandbox Runtime Replacement \[KB2944435\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2944435) article on the Now Support Knowledge Base.
+You should review the Incompatible Guarded Scripts list regularly and either rewrite scripts to use supported features to further secure your instance or create exemptions for scripts that can't be rewritten. For more information, see [Review and update scripts incompatible with guarded script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../task/review-incompatible-guarded-scripts.md) and the [Server-Side Sandbox Runtime Replacement \[KB2944435\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2944435) article on the Now Support Knowledge Base.
 
--   **[Review and update scripts incompatible with guarded script](../task/review-incompatible-guarded-scripts.md)**  
+-   **[Review and update scripts incompatible with guarded script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../task/review-incompatible-guarded-scripts.md)**  
 Review scripts that are incompatible with guarded script and either rewrite them to use supported features or create an exemption for scripts that can't be rewritten.
--   **[JavaScript APIs supported by guarded script](../reference/guarded-script-allowed-apis.md)**  
+-   **[JavaScript APIs supported by guarded script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/guarded-script-allowed-apis.md)**  
 Review the JavaScript APIs that guarded script supports to help you analyze scripts in the Incompatible Guarded Scripts list and either rewrite them or create an exemption for them.
 
-**Parent Topic:**[Script sandbox environment](script-sandbox-environment.md)
+**Parent Topic:**[Script sandbox environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox-environment.md)
 
 **Related topics**  
 
 
-[Script sandbox evaluator](script-sandbox.md)
+[Script sandbox evaluator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md)
 

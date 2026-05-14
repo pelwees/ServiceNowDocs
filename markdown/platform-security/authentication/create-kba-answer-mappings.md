@@ -33,7 +33,7 @@ Role required: auth\_factors\_admin
     |Application|Global application scope is selected by default.|
     |Answer|Select the answer for mapping to the question. Example: `Business Phone Number`.|
 
-    ![Knowledge Based Question Answer Mapping](../images/configure-kba-question-answer.png "Knowledge Based Question Answer Mapping")
+    ![Knowledge Based Question Answer Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/configure-kba-question-answer.png "Knowledge Based Question Answer Mapping")
 
 4.  Select **Submit**.
 
@@ -42,5 +42,5 @@ Role required: auth\_factors\_admin
 
 You’re redirected to the Knowledge Based Question Answer Mappings list view. Verify if your mapping is successfully added.
 
-![Knowledge Based Question Answer Mappings - list](../images/configure-kba-question-answer-result.png "Knowledge Based Question Answer Mappings - list")
+![Knowledge Based Question Answer Mappings - list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/configure-kba-question-answer-result.png "Knowledge Based Question Answer Mappings - list")
 

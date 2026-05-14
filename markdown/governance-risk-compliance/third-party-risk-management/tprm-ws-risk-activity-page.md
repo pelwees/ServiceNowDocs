@@ -19,7 +19,7 @@ The Risk activity page enables you to quickly identify assessments, issues, and 
 
 To view the Risk activity page, select **Workspaces** &gt; **Vendor Management Workspace** and on the **Risk** tab, select the risk activity icon ![](../image/icon-tprm-ws-risk-activity.png).
 
-![Risk activity page.](../image/tprm-ws-risk-activity-page.png)
+![Risk activity page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-risk-activity-page.png)
 
 ## Working on the page
 
@@ -38,5 +38,5 @@ To view the Risk activity page, select **Workspaces** &gt; **Vendor Management W
     For each external risk assessment, the system auto-assigns a unique ID number that starts with the text VRA. Select a VRA number to work on the risk assessment on the **External assessments** tab.
 
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/unified-vrm-workspace.md)
 

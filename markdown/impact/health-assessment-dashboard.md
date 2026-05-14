@@ -91,13 +91,13 @@ Findings that can make improvements, but are not a critical severity.
 
 Select to view the assessment by summary view or list view. Toggle to the list view to show the individual findings records logged from the selected scan.
 
-![Health Assessment Summary View](../image/health-assmt-summary.png "Summary View")
+![Health Assessment Summary View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/health-assmt-summary.png "Summary View")
 
 Summary view shows the total of the findings and the breakdown of findings for each category. By default, the Summary View is selected, displaying the assessment information in tiles.
 
-![Shows the Health Assessment dashboard in summary view.](../image/health-assessment-report.png)
+![Shows the Health Assessment dashboard in summary view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/health-assessment-report.png)
 
-![List view.](../image/health-list-view.png "List View")
+![List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/health-list-view.png "List View")
 
 List view displays the list of individual findings that were logged during a particular scan.
 
@@ -158,7 +158,7 @@ Best action
 Link to KB articles or product documentation regarding how to address the finding
 
 </td></tr></tbody>
-</table>![Shows all finding in List view.](../image/health-list-view.png)
+</table>![Shows all finding in List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/health-list-view.png)
 
 **Note:** This feature is available in Impact Guided, Advanced, and Total packages.
 

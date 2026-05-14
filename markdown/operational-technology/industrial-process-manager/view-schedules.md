@@ -39,5 +39,5 @@ You can view equipment model entity schedules in two places depending on where y
     1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Planned Downtime**.
     2.  View the association of the schedules and equipment model entities.
 
-**Parent Topic:**[Associate a schedule with an equipment model entity](associate-schedules-with-equipment-model-entity.md)
+**Parent Topic:**[Associate a schedule with an equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/associate-schedules-with-equipment-model-entity.md)
 

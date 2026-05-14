@@ -55,5 +55,5 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Workplace Services Kiosk](../concept/configure-workplace-services-kiosk.md)
+**Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../concept/configure-workplace-services-kiosk.md)
 

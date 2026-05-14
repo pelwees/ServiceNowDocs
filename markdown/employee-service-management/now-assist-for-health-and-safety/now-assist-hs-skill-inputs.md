@@ -66,5 +66,5 @@ Health and Safety action
 Short description
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Now Assist for Health and Safety](../concept/now-assist-hs-configuring.md)
+</table>**Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../concept/now-assist-hs-configuring.md)
 

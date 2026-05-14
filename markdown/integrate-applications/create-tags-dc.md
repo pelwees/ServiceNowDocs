@@ -21,7 +21,7 @@ Role required: Data Steward \(df\_data \_ steward\)
 
 Catalog tags are metadata labels that you can apply to data assets to enable classification, categorization, and discovery. Tags provide a flexible way to describe data characteristics, business context, data quality, sensitivity levels, or any other attributes relevant to your organization.
 
-You can search and filter data assets based on applied tags, making it easier to find data assets that meet specific criteria or share common characteristics. ![View list of catalog tags](../image/dc-tag-manager.png)
+You can search and filter data assets based on applied tags, making it easier to find data assets that meet specific criteria or share common characteristics. ![View list of catalog tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-tag-manager.png)
 
 ## Procedure
 
@@ -58,7 +58,7 @@ The tag is created and appears in the Tag Manager list. The tag is now available
 
 ## What to do next
 
-After creating tags, apply them to data assets in the Tags field of the Classification section when editing a data asset. For details, see [Update a data asset](update-data-asset.md).
+After creating tags, apply them to data assets in the Tags field of the Classification section when editing a data asset. For details, see [Update a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/update-data-asset.md).
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-catalog.md)
 

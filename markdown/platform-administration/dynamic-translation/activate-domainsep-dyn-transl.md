@@ -78,12 +78,12 @@ Select the date and time to activate the plugin.
 
 ## What to do next
 
-For information about configuring domain separation in Dynamic Translation, see [Domain separation and Dynamic Translation](../concept/domain-sep-dynamic-translation.md).
+For information about configuring domain separation in Dynamic Translation, see [Domain separation and Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../concept/domain-sep-dynamic-translation.md).
 
-**Parent Topic:**[Configuring Dynamic Translation](../concept/configuring-dynamic-translation.md)
+**Parent Topic:**[Configuring Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../concept/configuring-dynamic-translation.md)
 
 **Related topics**  
 
 
-[List of plugins \(Australia\)](../../plugins/reference/list-of-plugins.md#)
+[List of plugins \(Australia\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../plugins/reference/list-of-plugins.md#)
 

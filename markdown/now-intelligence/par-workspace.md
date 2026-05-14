@@ -30,31 +30,31 @@ The Platform Analytics experience has two main sections:
     The library is a set of pages listing all the Platform Analytics visual components that you can access, along with utilities that apply to these components. You can also create your own dashboards, data visualizations, and filters. With the appropriate roles, you can add the components you create to the shared library.
 
 
-**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [Creating Platform Analytics pages in your own workspace](../../performance-analytics/concept/adding-analytics-center-to-ws.md).
+**Note:** You can add an Analytics Overview with tabs for library content to your own configurable workspace. For more information, see [Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/adding-analytics-center-to-ws.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Platform Analytics Dashboards ![](../../../reuse/icons/brand-icons/bus-management-console.svg) View all the dashboards you have rights to access, and filter them by those you've created, those you've bookmarked, and those that are certified. Create your own dashboards and potentially share them with others.](analytics-center-dashboards.md)
+[Platform Analytics Dashboards ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-management-console.svg) View all the dashboards you have rights to access, and filter them by those you've created, those you've bookmarked, and those that are certified. Create your own dashboards and potentially share them with others.](analytics-center-dashboards.md)
 
 </td><td>
 
-[Data visualizations ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create, update, certify, and share visualizations based on tables, indicators, or other data to share with others.](../../performance-analytics/concept/analytics-center-data-visualizations.md)
+[Data visualizations ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Create, update, certify, and share visualizations based on tables, indicators, or other data to share with others.](../../performance-analytics/concept/analytics-center-data-visualizations.md)
 
 </td><td>
 
-[Platform Analytics filters ![](../../../reuse/icons/brand-icons/bus-filter.svg) Filter lists and data visualizations on a dashboard by data value, by whether the value is true or false, or by date.](interactive-filters-workspace.md)
+[Platform Analytics filters ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-filter.svg) Filter lists and data visualizations on a dashboard by data value, by whether the value is true or false, or by date.](interactive-filters-workspace.md)
 
 </td></tr><tr><td>
 
-[KPI Details ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Delve into the information behind your Key Performance Indicator \(KPI\) scores. See trends, forecasts, and associated records. Experiment with different breakdowns and time aggregations.](kpi-details.md)
+[KPI Details ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-infographic.svg) Delve into the information behind your Key Performance Indicator \(KPI\) scores. See trends, forecasts, and associated records. Experiment with different breakdowns and time aggregations.](kpi-details.md)
 
 </td><td>
 
-[KPI Signals ![](../../../reuse/icons/brand-icons/bus-customize.svg)&gt;Learn when a business process behaves in an unexpected way. Notify responsible users when a KPI score changes significantly.](process-behavior-charts-for-kpis.md)
+[KPI Signals ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-customize.svg)&gt;Learn when a business process behaves in an unexpected way. Notify responsible users when a KPI score changes significantly.](process-behavior-charts-for-kpis.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Data caching, roles, and tables across the Platform Analytics experience](platform-analytics-exp-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Data caching, roles, and tables across the Platform Analytics experience](platform-analytics-exp-reference.md)
 
 </td></tr></tbody>
 </table>

@@ -17,7 +17,7 @@ Enable using your own SMTP server so that you can leverage the existing filterin
 
 -   Role required: admin
 -   Email server required: SMTP
--   [Basic email properties:](t_ConfiguringStandardEmail.md) enabled
+-   [Basic email properties:](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md) enabled
 
 ## About this task
 
@@ -25,7 +25,7 @@ You can combine your own internal email architecture with the ServiceNow email a
 
 **Note:** Supports only one active SMTP account at a time \(for outbound emails\).
 
-![Sending email using your own SMTP server](../image/AlternateEmailConfigurationUsingYourOwnSMTPServer.png "Sending email using your own SMTP server")
+![Sending email using your own SMTP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AlternateEmailConfigurationUsingYourOwnSMTPServer.png "Sending email using your own SMTP server")
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You can combine your own internal email architecture with the ServiceNow email a
 
 2.  Locate the record for **ServiceNow SMTP** and change **Active** to **false**.
 
-    ![ServiceNow SMTP active = false](../../notification/image/servicenow-smtp-disabled.png)
+    ![ServiceNow SMTP active = false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/servicenow-smtp-disabled.png)
 
 3.  Click **New**.
 
@@ -139,7 +139,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../../notification/concept/system-address-filters.md).
+ For more information, see [System address filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -172,17 +172,17 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
     If the email account is valid, the system returns a success message.
 
-    ![Test SMTP connection](../../notification/image/test-smtp-connection.png)
+    ![Test SMTP connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/test-smtp-connection.png)
 
 
 ## What to do next
 
 Configure the SMTP server in your internal email architecture to forward email from the custom email address to the instance email address. Implement a spam filter on the custom email address.
 
-**Parent Topic:**[Advanced email setup](../concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_AlternateEmailConfigurations.md)
 
 **Related topics**  
 
 
-[Create an email account](../../notification/task/t_ConfigureAnEmailAccount.md)
+[Create an email account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/task/t_ConfigureAnEmailAccount.md)
 

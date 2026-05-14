@@ -39,14 +39,14 @@ Role required: admin
 
 5.  Create or assign existing delegation rules to the delegation rule category:
 
-    -   Under the Delegation Rule tab, click **New**. Follow the steps to [Create delegation rules](create-delegation-rules.md).
+    -   Under the Delegation Rule tab, click **New**. Follow the steps to [Create delegation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/create-delegation-rules.md).
     -   Click **Edit** to select from existing delegation rules.
 6.  Click **Update**.
 
 
 ## What to do next
 
-Delegate assigned tasks for a specific period of time. See [Create a delegate](create-delegation-admin.md).
+Delegate assigned tasks for a specific period of time. See [Create a delegate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/create-delegation-admin.md).
 
-Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](../concept/granular-delegation-use.md#).
+Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../concept/granular-delegation-use.md#).
 

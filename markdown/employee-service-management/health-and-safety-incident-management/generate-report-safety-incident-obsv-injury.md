@@ -21,13 +21,13 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 ## About this task
 
-The report generation uses a report field mapping for your reporting PDF template. A report field mapping includes mappings of fields from the safety record \(such as incident or observation\) to the fields in the reporting PDF template. When generating a report, the exported PDF fills in information from the selected safety record through mapped fields. This field mapping, therefore, speeds up the report filling for incidents, observations, or injury and illness records. For more information on report field mapping, see [Create a safety report field mapping for generating reports](create-safety-report-field-mapping.md).
+The report generation uses a report field mapping for your reporting PDF template. A report field mapping includes mappings of fields from the safety record \(such as incident or observation\) to the fields in the reporting PDF template. When generating a report, the exported PDF fills in information from the selected safety record through mapped fields. This field mapping, therefore, speeds up the report filling for incidents, observations, or injury and illness records. For more information on report field mapping, see [Create a safety report field mapping for generating reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-safety-report-field-mapping.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the Incident Management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the Incident Management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\).
 
 3.  In the **Lists** tab, open the safety incident, observation, or injury and illness list.
 
@@ -55,8 +55,8 @@ The report generation uses a report field mapping for your reporting PDF templat
 
     -   **Attachments** section of the safety record.
     -   Downloaded to the browser.
-    For more information, see [Health and Safety report field mapping form](../reference/hs-report-field-mapping-form.md).
+    For more information, see [Health and Safety report field mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../reference/hs-report-field-mapping-form.md).
 
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing-hs-incidents-obs.md)
 

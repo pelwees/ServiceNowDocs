@@ -70,5 +70,5 @@ Role required: admin.
 
 The credential records for the Microsoft Exchange Online spoke are created.
 
-**Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](setup-walkup-msoffice365-cal-integ.md)
+**Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/setup-walkup-msoffice365-cal-integ.md)
 

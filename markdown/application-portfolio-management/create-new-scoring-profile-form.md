@@ -19,12 +19,12 @@ Create an application score profile and update the default application profile w
 |Description|Description of the scoring profile.|
 |CI Class|Configuration item type for which the score is generated.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Manage scoring profiles](../../concept/eaw-concept/eaw-configure-scoring-profiles.md)
+[Manage scoring profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-configure-scoring-profiles.md)
 
-[Add or edit a scoring profile](../../task/eaw-task/eaw-create-scoring-profile.md)
+[Add or edit a scoring profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-scoring-profile.md)
 

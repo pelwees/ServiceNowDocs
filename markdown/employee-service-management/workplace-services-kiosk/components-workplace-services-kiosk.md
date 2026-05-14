@@ -23,7 +23,7 @@ Several types of components are installed with activation of the Workplace Servi
 |----|-----------|--------------|
 |sn\_wsd\_kiosk.admin|Has access to configure the kiosk features and experience.|None|
 |sn\_wsd\_kiosk.operator|Has access to bind a kiosk configuration to a physical kiosk device.|None|
-|sn\_wsd\_kiosk.viewer|Has access to view and use the kiosk experience.|sn\_wsd.core\_workplace\_user. Workplace users can make reservations using the kiosk map. For more information, see [Make workplace reservations on the kiosk](../task/rsv-space-kiosk-map.md)|
+|sn\_wsd\_kiosk.viewer|Has access to view and use the kiosk experience.|sn\_wsd.core\_workplace\_user. Workplace users can make reservations using the kiosk map. For more information, see [Make workplace reservations on the kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../task/rsv-space-kiosk-map.md)|
 
 ## Tables
 
@@ -91,5 +91,5 @@ Stores information about the status of kiosk devices such as the date and time o
 |sn\_wsd\_kiosk.kiosk\_reset\_delay|Specifies the duration of inactivity before the kiosk resets to the home page.|
 |sn\_wsd\_kiosk.kiosk\_heartbeat\_delay|Specifies the duration after which the kiosk pings the instance to update the **Kiosk Status** table.|
 
-**Parent Topic:**[Workplace Services Kiosk reference](workplace-services-kiosk-reference.md)
+**Parent Topic:**[Workplace Services Kiosk reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 

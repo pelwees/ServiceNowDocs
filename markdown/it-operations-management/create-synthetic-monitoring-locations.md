@@ -55,12 +55,12 @@ You can create as many locations as needed, but you must have at least one locat
 
 7.  Select **Save**.
 
-    **Note:** You can delete locations from the Synthetic Locations menu, which you can navigate to by selecting **All** &gt; **Synthetic Monitoring** &gt; **Synthetic Locations**. However, you must first remove any monitors running on that location, either by editing the monitors to use a different location or deleting the monitors. See [Create and edit a synthetic monitor](create-synthetic-monitor.md) for more information.
+    **Note:** You can delete locations from the Synthetic Locations menu, which you can navigate to by selecting **All** &gt; **Synthetic Monitoring** &gt; **Synthetic Locations**. However, you must first remove any monitors running on that location, either by editing the monitors to use a different location or deleting the monitors. See [Create and edit a synthetic monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md) for more information.
 
 
 ## What to do next
 
-[Create and edit a synthetic monitor](create-synthetic-monitor.md)
+[Create and edit a synthetic monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md)
 
-**Parent Topic:**[Configuring synthetic monitoring](../concept/configuring-synthetic-monitoring.md)
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/configuring-synthetic-monitoring.md)
 

@@ -25,7 +25,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap the assignment group or territory that the Field Service agent you want to manage is part of.
 
-3.  Tap the more actions icon \(![more actions](../image/more-action-manager.png)\).
+3.  Tap the more actions icon \(![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/more-action-manager.png)\).
 
 4.  Choose from the following.
 

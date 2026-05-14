@@ -47,5 +47,5 @@ An implementation variation for the inbound path would be to use an import set t
 
 Implementing this type of integration involves a web-service component for third-party applications for inbound data. The ECC queue is recommended for outbound data.
 
-**Parent Topic:**[Incident ticketing integrations](c_IncidentTicketingIntegrations.md)
+**Parent Topic:**[Incident ticketing integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentTicketingIntegrations.md)
 

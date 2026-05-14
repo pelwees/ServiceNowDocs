@@ -30,5 +30,5 @@ There might be AI agents installed with the Now Assist application that are not 
 **Related topics**  
 
 
-[Case resolution using Inquiry resolution provider](../task/case-resolution-using-agent.md)
+[Case resolution using Inquiry resolution provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../task/case-resolution-using-agent.md)
 

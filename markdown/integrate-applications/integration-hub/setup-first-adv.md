@@ -45,7 +45,7 @@ Acquire the API key from the First Advantage server.
 
 5.  On the FirstAdvantage tile, select **View Details**.
 
-    ![View Details button on FirstAdvantage alias tile.](../image/first-adv-view-details.png)
+    ![View Details button on FirstAdvantage alias tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/first-adv-view-details.png)
 
 6.  Select **Configure**.
 
@@ -59,7 +59,7 @@ Acquire the API key from the First Advantage server.
     |Version|Option to provide the version of the API.|
     |API Key|Option to enter the API key that the First Advantage server uses to authenticate access requests.|
 
-    ![First Advantage connection form.](../image/first-adv-conn-form.png)
+    ![First Advantage connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/first-adv-conn-form.png)
 
 8.  Select **Configure Connection**.
 
@@ -252,7 +252,7 @@ Role required: admin
 
 4.  Copy and record the generated value for later use.
 
-    ![Client Secret or Authorization Key](../image/auth-token.png)
+    ![Client Secret or Authorization Key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/auth-token.png)
 
 
 ### Provide key in your ServiceNow instance
@@ -261,7 +261,7 @@ Set up the First Advantage webhook by providing key for the First Advantage webh
 
 #### Before you begin
 
--   [Create authorization key for the First Advantage spoke](setup-first-adv.md#) and record the value.
+-   [Create authorization key for the First Advantage spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-first-adv.md#) and record the value.
 -   Role required: admin
 
 #### Procedure
@@ -275,7 +275,7 @@ Set up the First Advantage webhook by providing key for the First Advantage webh
     |Field|Description|
     |-----|-----------|
     |Name|Name to uniquely identify the record.|
-    |Authorization Key|Authorization key you had generated. For more information, see [Create authorization key for the First Advantage spoke](setup-first-adv.md#).|
+    |Authorization Key|Authorization key you had generated. For more information, see [Create authorization key for the First Advantage spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-first-adv.md#).|
 
 4.  Click **Submit**.
 

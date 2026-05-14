@@ -29,13 +29,13 @@ Keep track of where you're at in an overall process more easily, and pause and r
 
 2.  In the home screen, search for the playbook and select it.
 
-    ![A Service Portal home screen](../images/service-portal-home-screen.png)
+    ![A Service Portal home screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/service-portal-home-screen.png)
 
     The playbook launches.
 
 3.  In the URL, you can apply the following properties to your playbook.
 
-    ![An example URL for a playbook in Service Portal](../images/portal-playbook-URL.png)
+    ![An example URL for a playbook in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/portal-playbook-URL.png)
 
     |Property|Description|Example|
     |--------|-----------|-------|
@@ -46,7 +46,7 @@ Keep track of where you're at in an overall process more easily, and pause and r
 
 4.  As you go through the playbook, you can open records and lists in a modal without needing to leave Service Portal, such as when you view a Knowledge Base article or a user record via the information icon.
 
-    ![Opening playbook modals in Service Portal](../images/portal-playbooks-modal.gif)
+    ![Opening playbook modals in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/portal-playbooks-modal.gif)
 
 
 |Error|Description|

@@ -61,5 +61,5 @@ Store in CMDB as referable objects
 2.  Switch between blue and green environment
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CSC references](csc-reference.md)
+</table>**Parent Topic:**[CSC references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-reference.md)
 

@@ -19,21 +19,21 @@ EDR network solutions predicts and preempt the emerging threats and helps in enh
 
 By integrating with other security tools such as EDR, TISC enables proactive threat monitoring on endpoints and thereby enhances the overall security posture and resilience against evolving threats.
 
--   **[CrowdStrike Falcon EDR integration](crowdstrike-edr-integration.md)**  
+-   **[CrowdStrike Falcon EDR integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/crowdstrike-edr-integration.md)**  
 Configure CrowdStrike Falcon EDR integration to enable continuous endpoint monitoring and receive real-time security alerts based on Threat Intelligence data from TISC.
--   **[Microsoft Defender for EDR integration](tisc-ms-defender-integration.md)**  
+-   **[Microsoft Defender for EDR integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defender-integration.md)**  
 Integration with the Microsoft Defender for EDR allows Cyber Threat Intelligence \(CTI\) analysts to automatically push malicious or suspicious IP addresses, domains, file hashes, and URLs to Microsoft Defender for continuous monitoring and real-time alerting.
--   **[Firewall integration](tisc-security-tools.md)**  
+-   **[Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-security-tools.md)**  
 TISC Security Firewall prevents unauthorized access to the network. Palo Alto Networks integration with TISC helps blocking malicious IP addresses, URLs, and domains using External Dynamic List \(EDL\) capabilities with ServiceNow Threat Intelligence data.
--   **[Microsoft Sentinel integration](tisc-sentinel-integration.md)**  
+-   **[Microsoft Sentinel integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sentinel-integration.md)**  
 Threat Intelligence Security Center for Microsoft Sentinel offers several capabilities, including importing observables from TISC to Sentinel, enriching Sentinel incidents with details of related observables, and also allow exporting observables from Sentinel to TISC.
 
-**Parent Topic:**[TISC Integrations](tisc-integrations.md)
+**Parent Topic:**[TISC Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-integrations.md)
 
 **Related topics**  
 
 
-[TISC Enrichment integrations](tisc-enrichment-integrations.md)
+[TISC Enrichment integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md)
 
-[CrowdStrike Falcon EDR integration](crowdstrike-edr-integration.md)
+[CrowdStrike Falcon EDR integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/crowdstrike-edr-integration.md)
 

@@ -26,21 +26,21 @@ Generating expense lines is a three-step procedure.
 ## Procedure
 
 -   
-1.  [Add a user or asset to a contract](t_Step1AddAUserOrAssetToAContract.md)  
+1.  [Add a user or asset to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step1AddAUserOrAssetToAContract.md)  
 You can add a user or asset to a contract to generate expense lines.
-2.  [Create a rate card and assign a user or asset](t_Step2CreatRCAsgnUseAsset.md)  
+2.  [Create a rate card and assign a user or asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step2CreatRCAsgnUseAsset.md)  
 You can assign a user or asset when you create a rate card. You can only assign the user or asset that is assigned to the contract.
-3.  [Configure rate card expense generation](t_Step3ConfigRCExpenseGen.md)  
+3.  [Configure rate card expense generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step3ConfigRCExpenseGen.md)  
 After assets or users are added to the rate card, you can use the **Distribute cost** field in the Financial section of the contract to generate rate card expenses.
 
-**Parent Topic:**[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+**Parent Topic:**[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../reference/ContractRateCardForm.md)
 
-[Create a new expense line](t_CreatingANewExpenseLine.md)
+[Create a new expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreatingANewExpenseLine.md)
 
-[View contract expense lines](t_ViewingContractExpenseLines.md)
+[View contract expense lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ViewingContractExpenseLines.md)
 

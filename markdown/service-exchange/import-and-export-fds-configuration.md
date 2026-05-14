@@ -41,7 +41,7 @@ You can export ETL configurations from one instance and import them into another
 
     2.  Request a foundation data sync \(FDS\) offering, complete the configuration, and verify that the data sync is working correctly.
 
-        For more information on how to request a foundation data sync \(FDS\) offering, see [Request foundation data sync offerings](service-bridge-v2-request-fds-offerings.md).
+        For more information on how to request a foundation data sync \(FDS\) offering, see [Request foundation data sync offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-request-fds-offerings.md).
 
     3.  Complete the update sets and export it.
 
@@ -49,7 +49,7 @@ You can export ETL configurations from one instance and import them into another
 
 2.  Import the ETL configuration to another instance.
 
-    1.  In the new instance, request a foundation data sync \(FDS\) offering with same cadence as in [Step 1](import-and-export-fds-configuration.md#substeps_dwc_5l1_cgc).
+    1.  In the new instance, request a foundation data sync \(FDS\) offering with same cadence as in [Step 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/import-and-export-fds-configuration.md#substeps_dwc_5l1_cgc).
 
     2.  After a subscription is created for your FDS request, and the request is in awaiting validation state, import the configuration that you have exported in Step 1.
 
@@ -59,7 +59,7 @@ You can export ETL configurations from one instance and import them into another
 
     4.  Select **ETL Transform Map Assistance**.
 
-        In the guided setup, step 1, step 2, and step 3 are marked as completed. For more information, see [Validate foundation data sync subscription items](service-bridge-v2-validate-fds-subscription.md)
+        In the guided setup, step 1, step 2, and step 3 are marked as completed. For more information, see [Validate foundation data sync subscription items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-validate-fds-subscription.md)
 
     5.  Verify all the steps in ETL configuration to make sure everything is mapped correctly, and run the integration and perform rollback.
 

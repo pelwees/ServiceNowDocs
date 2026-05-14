@@ -16,7 +16,7 @@ When the unified analytics property is enabled, Core UI dashboards and dashboard
 
 Both Core UI and Platform Analytics dashboards enable you to show visual components in a shareable canvas. When the **com.glide.par.unified\_analytics.enabled** property is enabled, all dashboards are available. This property is set to true on net new Australia instances and on upgrade to Australia.
 
-On migrated instances, your Core UI data, existing dashboards, reports, interactive filters, and Performance Analytics widgets are moved to Platform Analytics. The result is a single set of visualizations and unified filters for all data sources. For more information, see [Platform Analytics Migration Center](../../par-for-workspace/concept/data-migration.md).
+On migrated instances, your Core UI data, existing dashboards, reports, interactive filters, and Performance Analytics widgets are moved to Platform Analytics. The result is a single set of visualizations and unified filters for all data sources. For more information, see [Platform Analytics Migration Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/data-migration.md).
 
 ## Core UI dashboards
 
@@ -24,14 +24,14 @@ Core UI dashboards are those created in the classic UI featuring visualizations 
 
 -   **Dashboard example**
 
-    ![Core UI dashboard example with four single score visualizations and part of the configuration panel](../image/db-edit-mode-core-ui.png)
+    ![Core UI dashboard example with four single score visualizations and part of the configuration panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/db-edit-mode-core-ui.png)
 
 -   **Menu path**
 
     Both Core UI and Platform Analytics dashboards are found in the Library. Navigate to **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 
-When you edit Core UI dashboards and their content, you do so in the Core UI tools including Report Designer. For more information, see [Reporting, dashboards, and Performance Analytics in the Core UI](../../reporting/concept/classic-vis-overview.md).
+When you edit Core UI dashboards and their content, you do so in the Core UI tools including Report Designer. For more information, see [Reporting, dashboards, and Performance Analytics in the Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/classic-vis-overview.md).
 
 ## Platform Analytics dashboards
 
@@ -39,16 +39,16 @@ Platform Analytics dashboards are created using either UI Builder or the inline 
 
 When you create Platform Analytics dashboards, you can add any existing element that you have rights to, or create a new element from within the dashboard. These elements include data-agnostic visualizations based on indicators, table data, MetricBase data, and Usage Insights.
 
-Platform Analytics dashboards also provide Proactive Insights that support more informed decision making. Insights explore correlations and highlight potential changes and issues before they turn into problems.​ For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+Platform Analytics dashboards also provide Proactive Insights that support more informed decision making. Insights explore correlations and highlight potential changes and issues before they turn into problems.​ For more information, see [Proactive analytics insights on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/proactive-analytics.md).
 
 -   **Dashboard example**
 
-    ![Platform Analytics experience dashboard with three single score visualizations and part of the Details panel](../image/db-edit-mode-ne-ac.png)
+    ![Platform Analytics experience dashboard with three single score visualizations and part of the Details panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/db-edit-mode-ne-ac.png)
 
 -   **Menu path**
 
     **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**
 
 
-**Parent Topic:**[Exploring Platform Analytics dashboards](ac-elements.md)
+**Parent Topic:**[Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md)
 

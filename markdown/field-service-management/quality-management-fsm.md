@@ -24,11 +24,11 @@ Overall, the Field Service Quality Management feature streamlines the process of
 **Related topics**  
 
 
-[Configuring Field Service Quality Management](config-quality-mgmt.md)
+[Configuring Field Service Quality Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/config-quality-mgmt.md)
 
-[Review a task](../task/review-send-task-back.md)
+[Review a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/review-send-task-back.md)
 
-[Respond to a reviewed work order task](close-wo-wot-mobile.md#)
+[Respond to a reviewed work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/close-wo-wot-mobile.md#)
 
-[Field Service Quality Management components](../reference/quality-mgmt-components.md)
+[Field Service Quality Management components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/quality-mgmt-components.md)
 

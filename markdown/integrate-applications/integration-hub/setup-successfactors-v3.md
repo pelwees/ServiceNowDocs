@@ -27,8 +27,8 @@ Integrate the ServiceNow instance with your SuccessFactors spoke instance using 
 
 **Note:** SuccessFactors will be deprecating basic authentication by Nov 2026 and hence, everyone must use OAuth SAML, which SuccessFactors spoke v4.10.1 supports.
 
--   If you are installing the SuccessFactors spoke for the first time, install SuccessFactors spoke v4.10.1. For more information about setting up SuccessFactors spoke v4.10.1, [Set up the SuccessFactors spoke v4.x.x](setup-successfactors.md#).
--   If you are using an earlier version of the SuccessFactors spoke, migrate to SuccessFactors spoke v4.10.1. For more information, see [Migrate to SuccessFactors spoke v4.10.1](migrate-successfactors.md).
+-   If you are installing the SuccessFactors spoke for the first time, install SuccessFactors spoke v4.10.1. For more information about setting up SuccessFactors spoke v4.10.1, [Set up the SuccessFactors spoke v4.x.x](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).
+-   If you are using an earlier version of the SuccessFactors spoke, migrate to SuccessFactors spoke v4.10.1. For more information, see [Migrate to SuccessFactors spoke v4.10.1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/migrate-successfactors.md).
 
 ## Create Credential record for the OData API
 

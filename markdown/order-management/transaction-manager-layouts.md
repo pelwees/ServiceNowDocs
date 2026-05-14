@@ -25,7 +25,7 @@ To create a new layout, navigate to the Transaction Manager Admin UI, click **La
 
 An existing layout can be copied by using the Save As function in the layout.
 
-![Transaction Manager: layouts](../images/cpq-txn-mgr-layouts-new-1.png)
+![Transaction Manager: layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-new-1.png)
 
 The layout requires a name and a variable name. Click in the Name field, enter the name of the new layout, and click **Save** to proceed. Although the name can later be edited in the layout, the variable name is not editable after the layout is saved.
 
@@ -45,19 +45,19 @@ For example, when the stages are named Draft, Approved, and Fulfilled, and the l
 
 The optional Line Detail layout displays details on a selected line in the line item grid. This view is initiated via the Line Detail UI effect. This layout requires its own layout file and the variable name must end with `_linedetail`. These layouts follow the same mapping as stages. Continuing the example above, if you want a Line Detail layout for the Draft stage, the name must be `draft_linedetail`.
 
-![Transaction Manager: view of new layout](../images/cpq-txn-mgr-layouts-view-of-new.png)
+![Transaction Manager: view of new layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-view-of-new.png)
 
 The YAML code for the layout can be accessed by using the view toggle in the subheader. Admins can update the layout either by using the visual editor or by directly editing the YAML code. The YAML for each element can also be accessed in the Raw Value section of the element properties.
 
 The **Save** button saves the current version of the layout. However, the blueprint must be deployed for the new version to be used in runtime. If there are errors in the layout, the Save button is disabled. To identify errors, select the error messages button in the subheader. In the YAML view, look for red marks on the right side of the display that indicate the location of the error.
 
-![Transaction Manager layout](../images/cpq-txn-mgr-layouts-yaml-view.png)
+![Transaction Manager layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-yaml-view.png)
 
 ## General layout information
 
 Click the gear \(settings\) icon in the subheader to access the layout settings.
 
-![Transaction Manager: layout properties dialog](../images/cpq-txn-mgr-layouts-properties.png)
+![Transaction Manager: layout properties dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-properties.png)
 
 Settings include the following:
 
@@ -92,11 +92,11 @@ Settings include the following:
 
 ## Theming
 
-Transaction Manager layouts can be customized with themes. Themes can be enabled on the Customize Theme tab. For more information, see [Customizing CPQ with themes](customizing-cpq-with-themes.md).
+Transaction Manager layouts can be customized with themes. Themes can be enabled on the Customize Theme tab. For more information, see [Customizing CPQ with themes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/customizing-cpq-with-themes.md).
 
 ## Stage progress chevrons
 
-The Stages Progress Chevron component displays a horizontal chevron bar to visually represent a transaction’s progression through stages. It can be defined statically or dynamically and is configurable through layout YAML. For more information, see [Transaction Manager: Layouts - The stages progress chevron](transaction-manager-layouts-the-stages-progress-chevron.md).
+The Stages Progress Chevron component displays a horizontal chevron bar to visually represent a transaction’s progression through stages. It can be defined statically or dynamically and is configurable through layout YAML. For more information, see [Transaction Manager: Layouts - The stages progress chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-the-stages-progress-chevron.md).
 
 ## Tiers
 
@@ -118,7 +118,7 @@ On the Edit Field Info tab, changing the field display type to "text area" lets 
 
 Events are objects that cause certain actions to be taken. Events are typically represented in the layout as a button. To add an event, add a button to a columnset, and then toggle the **Event Button** setting. Once it is enabled, an event can be selected from the Event picklist.
 
-![Transaction Manager: button properties with event enabled](../images/cpq-txn-mgr-layouts-button-properties-1.png)
+![Transaction Manager: button properties with event enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-button-properties-1.png)
 
 ## Line item grid
 
@@ -198,99 +198,99 @@ Line-level event buttons can have an icon defined. Icons must be defined in the 
 
 <table id="table_ykm_jll_hhc"><tbody><tr><td>
 
-![hollow gear icon](../images/cpq-txn-mgr-sldc-icon-automate.png)automate
+![hollow gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-automate.png)automate
 
 </td><td>
 
-![icon of three people and a check mark](../images/cpq-txn-mgr-sldc-icon-buyer-group-qualifier.png)buyer\_group\_qualifier
+![icon of three people and a check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-buyer-group-qualifier.png)buyer\_group\_qualifier
 
 </td><td>
 
-![chevron pointing down](../images/cpq-txn-mgr-sldc-icon-chevron-down.png)chevrondown
+![chevron pointing down](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-chevron-down.png)chevrondown
 
 </td><td>
 
-![chevron pointing left](../images/cpq-txn-mgr-sldc-icon-chevronleft.png)chevronleft
+![chevron pointing left](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-chevronleft.png)chevronleft
 
 </td><td>
 
-![chevron pointing right](../images/cpq-txn-mgr-sldc-icon-chevronright.png)chevronright
+![chevron pointing right](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-chevronright.png)chevronright
 
 </td><td>
 
-![chevron pointing up](../images/cpq-txn-mgr-sldc-icon-chevronup.png)chevronup
+![chevron pointing up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-chevronup.png)chevronup
 
 </td></tr><tr><td>
 
-![option button](../images/cpq-txn-mgr-sldc-icon-choice.png)choice
+![option button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-choice.png)choice
 
 </td><td>
 
-![white x on solid background](../images/cpq-txn-mgr-sldc-icon-clear.png)clear
+![white x on solid background](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-clear.png)clear
 
 </td><td>
 
-![clock icon](../images/cpq-txn-mgr-sldc-icon-clock.png)clock
+![clock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-clock.png)clock
 
 </td><td>
 
-![x icon](../images/cpq-txn-mgr-sldc-icon-close.png)close
+![x icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-close.png)close
 
 </td><td>
 
-![wrench icon](../images/cpq-txn-mgr-sldc-icon-custom-apps.png)custom\_apps
+![wrench icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-custom-apps.png)custom\_apps
 
 </td><td>
 
-![trash can icon](../images/cpq-txn-mgr-sldc-icon-delete.png)delete
+![trash can icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-delete.png)delete
 
 </td></tr><tr><td>
 
-![triangle pointing down](../images/cpq-txn-mgr-sldc-icon-down.png)down
+![triangle pointing down](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-down.png)down
 
 </td><td>
 
-![pencil icon](../images/cpq-txn-mgr-sldc-icon-edit.png)edit
+![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-edit.png)edit
 
 </td><td>
 
-![star icon](../images/cpq-txn-mgr-sldc-icon-favorite.png)favorite
+![star icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-favorite.png)favorite
 
 </td><td>
 
-![triangle pointing left](../images/cpq-txn-mgr-sldc-icon-left.png)left
+![triangle pointing left](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-left.png)left
 
 </td><td>
 
-![icon of lightning bolt and gear](../images/cpq-txn-mgr-sldc-icon-lightning-extension.png)lightning\_extension
+![icon of lightning bolt and gear](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-lightning-extension.png)lightning\_extension
 
 </td><td>
 
-![triangle pointing right](../images/cpq-txn-mgr-sldc-icon-right.png)right
+![triangle pointing right](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-right.png)right
 
 </td></tr><tr><td>
 
-![question mark](../images/cpq-txn-mgr-sldc-icon-question.png)question
+![question mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-question.png)question
 
 </td><td>
 
-![magnifying glass icon](../images/cpq-txn-mgr-sldc-icon-search.png)search
+![magnifying glass icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-search.png)search
 
 </td><td>
 
-![solid gear icon](../images/cpq-txn-mgr-sldc-icon-settings.png)settings
+![solid gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-settings.png)settings
 
 </td><td>
 
-![icon of arrow pointing at center of target](../images/cpq-txn-mgr-sldc-icon-target-mode.png)target\_mode
+![icon of arrow pointing at center of target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-target-mode.png)target\_mode
 
 </td><td>
 
-![three horizontal dots](../images/cpq-txn-mgr-sldc-icon-threedots.png)threedots
+![three horizontal dots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-threedots.png)threedots
 
 </td><td>
 
-![three vertical dots](../images/cpq-txn-mgr-sldc-icon-threedots-vertical.png)threedots\_vertical
+![three vertical dots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-sldc-icon-threedots-vertical.png)threedots\_vertical
 
 </td></tr></tbody>
 </table>YAML code snippet:
@@ -360,7 +360,7 @@ UI effect button properties include:
     The location of action buttons on the product search display
 
 
-![Transaction Manager: button properties for the product list search object](../images/cpq-txn-mgr-layouts-button-properties-2.png)
+![Transaction Manager: button properties for the product list search object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-button-properties-2.png)
 
 The properties of the Product List Search object include:
 
@@ -378,7 +378,7 @@ The properties of the Product List Search object include:
 
 -   Search on Submit: Determines whether search results are updated as the user types or only when the user clicks **Submit**.
 
-![Transaction Manager: product list properties](../images/cpq-txn-mgr-layouts-prod-list-properties.png)
+![Transaction Manager: product list properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-prod-list-properties.png)
 
 Field-level properties include:
 
@@ -399,7 +399,7 @@ Field-level properties include:
     When enabled, a popover is displayed when value in field is selected
 
 
-![Transaction Manager: product list column properties](../images/cpq-txn-mgr-layouts-prod-list-col-properties.png)
+![Transaction Manager: product list column properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-layouts-prod-list-col-properties.png)
 
 ## UI effects
 
@@ -549,7 +549,7 @@ productList:
 **Related topics**  
 
 
-[Transaction Manager: Layouts - UI effects](transaction-manager-layouts-ui-effects.md)
+[Transaction Manager: Layouts - UI effects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-ui-effects.md)
 
-[Transaction Manager: Layouts - Theming options](transaction-manager-layouts-theming-options.md)
+[Transaction Manager: Layouts - Theming options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-theming-options.md)
 

@@ -69,7 +69,7 @@ See [Role masking in Now Assist AI agents](https://raw.githubusercontent.com/Ser
 
 ## Next step
 
-When your agent is built, tools are configured, and access controls are set, proceed to [Configure security controls](naai-tutorial-configure-security.md).
+When your agent is built, tools are configured, and access controls are set, proceed to [Configure security controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-configure-security.md).
 
-**Parent Topic:**[Create and secure an AI agent in Now Assist](naai-tutorial-overview.md)
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 

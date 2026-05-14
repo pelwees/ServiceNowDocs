@@ -49,5 +49,5 @@ You set a login page on the site record to allow users to log in or out directly
 
 Login rules were used in earlier versions to dictate what users saw after logging in, based on their roles or permissions. Login rules still work, but their use is deprecated.
 
-**Parent Topic:**[Content sites](c_ContentSite.md)
+**Parent Topic:**[Content sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentSite.md)
 

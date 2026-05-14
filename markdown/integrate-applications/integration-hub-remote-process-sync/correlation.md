@@ -28,7 +28,7 @@ Prior to Integration Hub Remote Process Sync, you could only create correlations
 
 A classic correlation creates a one-to-one relationship between a record on the local system and a record on a remote system. One local record can only ever correlate to one remote record. The correlation provides no information about the remote system nor the current state of the correlation. Administrators manually manage classic correlations from the records being updated.
 
-![A classic correlation between Incident record INC100001 and Problem record PRB123456.](../images/correlation-classic-example.png "Sample classic correlation field")
+![A classic correlation between Incident record INC100001 and Problem record PRB123456.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/correlation-classic-example.png "Sample classic correlation field")
 
 ## Integration Hub Correlation records
 

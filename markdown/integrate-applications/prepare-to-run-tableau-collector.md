@@ -25,24 +25,24 @@ The collector uses the Tableau Metadata API to harvest metadata. You must enable
 
 1.  Enable the Metadata API on Tableau Server.
 
-    See [Enable Tableau Metadata API](prepare-to-run-tableau-collector.md#).
+    See [Enable Tableau Metadata API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-tableau-collector.md#).
 
     **Note:** The Metadata API is enabled by default for Tableau Cloud. This step applies only to Tableau Server.
 
 2.  Configure user permissions and create a Personal Access Token.
 
-    See [Configure Tableau user permissions](prepare-to-run-tableau-collector.md#).
+    See [Configure Tableau user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-tableau-collector.md#).
 
 3.  Configure JWT authentication using a Connected App.
 
-    See [Configure Tableau JWT authentication](prepare-to-run-tableau-collector.md#).
+    See [Configure Tableau JWT authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-tableau-collector.md#).
 
 4.  Configure hostname mapping for database aliases.
 
-    See [Set up a YAML file for hostnames mapping](prepare-to-run-tableau-collector.md#).
+    See [Set up a YAML file for hostnames mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-tableau-collector.md#).
 
 
-**Parent Topic:**[Tableau metadata collector](../concept/tableau-metadata-collector.md)
+**Parent Topic:**[Tableau metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/tableau-metadata-collector.md)
 
 ## Enable Tableau Metadata API
 

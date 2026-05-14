@@ -17,11 +17,11 @@ Use ServiceNow Now Assist to automate inbound emails processing and to create an
 
 <table id="table_dlz_kd4_ghc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Now Assist in Notifications](exploring-now-assist-notifications.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Now Assist in Notifications](exploring-now-assist-notifications.md)
 
 </td><td>
 
-[Use agentic workflow![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for Notifications](use-agentic-ai-notifications.md)
+[Use agentic workflow![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for Notifications](use-agentic-ai-notifications.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **My Work**, click **Items Pending Approvals**.
 
@@ -46,5 +46,5 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 -   If you approve the request on a holiday, the approval validity starts from the next business day.
 -   If you reject the request, the requester cannot perform any securities transactions.
 
-**Parent Topic:**[Submitting Legal Stock Preclearance requests](../concept/submit-legal-stock-reqs.md)
+**Parent Topic:**[Submitting Legal Stock Preclearance requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../concept/submit-legal-stock-reqs.md)
 

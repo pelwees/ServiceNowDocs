@@ -23,11 +23,11 @@ The existing users will not see their custom changes on the new dashboards by de
 
 All the AWA Core UI dashboards have been migrated to Next Experience.
 
-![AWA Operations dashboard migrated to Next Experience.](../image/NExp-awa-operations-dashboard.png "AWA Operations Dashboard")
+![AWA Operations dashboard migrated to Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/NExp-awa-operations-dashboard.png "AWA Operations Dashboard")
 
-![AWA Interactions dashboard migrated to Next Experience.](../image/NExp-awa-interactions-dashboard.png "AWA Interactions Dashboard")
+![AWA Interactions dashboard migrated to Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/NExp-awa-interactions-dashboard.png "AWA Interactions Dashboard")
 
-![AWA Tasks dashboard migrated to Next Experience.](../image/NExp-awa-tasks-dashboard.png "AWA Tasks Dashboard")
+![AWA Tasks dashboard migrated to Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/NExp-awa-tasks-dashboard.png "AWA Tasks Dashboard")
 
-![AWA Messaging dashboard migrated to Next Experience.](../image/NExp-awa-messaging-dashboard.png "AWA Messaging Dashboard")
+![AWA Messaging dashboard migrated to Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/NExp-awa-messaging-dashboard.png "AWA Messaging Dashboard")
 

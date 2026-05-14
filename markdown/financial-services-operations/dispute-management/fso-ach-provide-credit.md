@@ -27,7 +27,7 @@ A temporary credit is provided to the account holder while the case is under inv
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab under **Card disputes service cases**, open the case list.
 
@@ -50,5 +50,5 @@ A temporary credit is provided to the account holder while the case is under inv
     **Note:** In cases where the agent does not provide provisional credit but keeps the task open, once file return communication is sent to the customer, this task is cancelled.
 
 
-**Parent Topic:**[Processing an ACH dispute](../concept/process-dispute-ach.md)
+**Parent Topic:**[Processing an ACH dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/process-dispute-ach.md)
 

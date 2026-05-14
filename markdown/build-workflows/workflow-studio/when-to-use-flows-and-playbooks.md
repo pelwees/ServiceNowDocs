@@ -53,5 +53,5 @@ A playbook is a good fit for process automations that met these criteria.
     Playbooks offer a better user experience for running a sequence of subflows.
 
 
-**Parent Topic:**[Exploring Workflow Studio](exploring-workflow-studio.md)
+**Parent Topic:**[Exploring Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/exploring-workflow-studio.md)
 

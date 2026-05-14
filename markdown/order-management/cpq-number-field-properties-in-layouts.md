@@ -29,7 +29,7 @@ Using a rule to set a value that is not a multiple of the step is not recommende
 
 The following Field Properties dialog illustrates one use of the step property.
 
-![Number field properties in layouts](../images/cpq-step-property-example.png)
+![Number field properties in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-step-property-example.png)
 
 ## The precision property
 
@@ -39,17 +39,17 @@ The precision property defaults to 0 if not set.
 
 The following Field Properties dialog illustrates one use of the precision property.
 
-![Number field properties in layouts](../images/cpq-precision-property-example.png)
+![Number field properties in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-precision-property-example.png)
 
 ## The Display-Type-Specific Constraints Slider
 
-![Number field properties in layouts](../images/cpq-layout-number-field-props-slider.png)
+![Number field properties in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-number-field-props-slider.png)
 
 The step property is required for this component. Minimum and maximum values are included, but precision is not.
 
 ## NumberWithSubmit
 
-![Number field properties in layouts](../images/cpq-layout-number-field-props-num-w-submit.png)
+![Number field properties in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-number-field-props-num-w-submit.png)
 
 The precision property is included and defaults to 0. The step property is not included.
 

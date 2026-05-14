@@ -49,5 +49,5 @@ Build Agent can use the Run Query tool to query a specific table within your ins
 
 For applications that were not developed using the ServiceNow IDE, ServiceNow Studio, or the ServiceNow SDK, you must convert them into Fluent format to enable development within the Build Agent. You can prompt the Build Agent to use the Open App tool to locate the application you want. Alternatively, you can search for an application directly within the Build Agent, and it will automatically use the Open App tool. The Open App tool can find an application, convert it to Fluent format, and then add the converted app to your workspace.
 
-**Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
+**Parent Topic:**[Exploring Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-build-agent.md)
 

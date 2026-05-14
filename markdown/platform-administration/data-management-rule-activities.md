@@ -19,7 +19,7 @@ View a summary of records in the backlog and the execution history for a specifi
 -   Track the backlog of records that meet the rule's conditions but haven't been processed yet.
 -   View a detailed summary of the rule's execution history.
 
-![Viewing a table's rule activities.](../image/dmc-rule-activities.png "Viewing rule activities")
+![Viewing a table's rule activities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dmc-rule-activities.png "Viewing rule activities")
 
 ## Required ServiceNow AI Platform roles
 

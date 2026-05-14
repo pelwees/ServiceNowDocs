@@ -27,13 +27,13 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 A firewall is a network security system that, based on security policies, monitors and controls incoming and outgoing network traffic. Firewalls typically form a barrier between an internal network and an untrusted external network such as the internet. It usually consists of security policies that help secure an organization from external threats and cyberattacks. Firewall vendors might provide a centralized firewall manager to manage many firewall devices and the security policies residing on them. For example, Panorama™ is the centralized management system for Palo Alto Networks firewalls.
 
-![Firewall extension classes integrated with the CMDB class hierarchy.](../image/cmdb-ci-class-model-fw-palo-alto-cisco.png "Firewall extension classes integrated with the CMDB class hierarchy (CMDB CI Class Models: Release 1.11.0)")
+![Firewall extension classes integrated with the CMDB class hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/cmdb-ci-class-model-fw-palo-alto-cisco.png "Firewall extension classes integrated with the CMDB class hierarchy (CMDB CI Class Models: Release 1.11.0)")
 
-![Firewall extension classes integrated with the CMDB class hierarchy.](../image/cmdb_ci_class_model_fw.png "Firewall extension classes integrated with the CMDB class hierarchy (CMDB CI Class Models: Release 1.10.0)")
+![Firewall extension classes integrated with the CMDB class hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/cmdb_ci_class_model_fw.png "Firewall extension classes integrated with the CMDB class hierarchy (CMDB CI Class Models: Release 1.10.0)")
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates.See the class columns table for further details about the columns added for each class. CMDB CI Class Models: Release 1.10.0 adds or updates the following classes for the discovery of network firewall devices. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates.See the class columns table for further details about the columns added for each class. CMDB CI Class Models: Release 1.10.0 adds or updates the following classes for the discovery of network firewall devices. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 <table id="table_kbv_s5d_dlb"><thead><tr><th>
 
@@ -277,5 +277,5 @@ CMDB CI Class Models: Release 1.12.0 adds no columns to the existing classes.
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_ConfigurationManagementDatabase.md)
 

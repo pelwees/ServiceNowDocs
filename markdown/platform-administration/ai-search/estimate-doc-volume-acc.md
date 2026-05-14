@@ -70,7 +70,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
 If your Atlassian Confluence Cloud source system's total available document count exceeds the connector limit of ten million \(10,000,000\) documents, you will need to limit the crawl scope for the Atlassian Confluence Cloud external content connector. Choose a set of spaces whose total document count is less than the connector limit, and inform your ServiceNow AI Platform admin so they can configure the external content connector's crawl settings to include only those spaces.
 
-For details on configuring the Atlassian Confluence Cloud connector's crawl settings, see [Configure crawl settings for an Atlassian Confluence Cloud external content connector](configure-crawl-settings-cc-ext-cont-connector.md).
+For details on configuring the Atlassian Confluence Cloud connector's crawl settings, see [Configure crawl settings for an Atlassian Confluence Cloud external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-crawl-settings-cc-ext-cont-connector.md).
 
-**Parent Topic:**[Atlassian Confluence Cloud external content connector](../concept/atlassian-confluence-cloud-external-content-connector.md)
+**Parent Topic:**[Atlassian Confluence Cloud external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/atlassian-confluence-cloud-external-content-connector.md)
 

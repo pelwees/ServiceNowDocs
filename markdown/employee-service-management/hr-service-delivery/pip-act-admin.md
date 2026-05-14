@@ -27,7 +27,7 @@ After a PIP request is initiated by a manager, a structured workflow \(a predefi
 
 2.  Open the Performance Improvement plan \(PIP\) life cycle event with predefined activity sets and activities.
 
-    ![Performance Improvement plan lifecycle event](../image/pip-service.png "Performance Improvement plan (PIP) lifecycle event")
+    ![Performance Improvement plan lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/pip-service.png "Performance Improvement plan (PIP) lifecycle event")
 
 3.  Configure the activity set and activities as per your business use case.
 

@@ -45,17 +45,17 @@ When a user applies a shared preset or a user preset, all filter settings are ov
 
     -   A dot appears on the Map filter icon ![](../image/icon-um-filter-outline.png) to indicate that filters are applied.
     -   To expose filtered CIs and relationships on the map as dimmed view-only images, select the Show filtered items icon ![](../image/icon-um-show-hide-filtered-items.png).
-    -   You can save filter settings for reuse. For more information, see [Create or manage a user preset](unified-map-manage-preset-filter.md).
+    -   You can save filter settings for reuse. For more information, see [Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md).
     -   Maps show up to 250 CMDB elements. Remaining elements are truncated and don't appear on the map.
 
 ## What to do next
 
 To apply the home CI's default filter settings, select **Reset filter**.
 
-Admins can save filter settings as a shared preset that all users can apply. For more information, see [Create or manage a user preset](unified-map-manage-preset-filter.md).
+Admins can save filter settings as a shared preset that all users can apply. For more information, see [Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md).
 
 **Related topics**  
 
 
-[Create or manage a user preset](unified-map-manage-preset-filter.md)
+[Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md)
 

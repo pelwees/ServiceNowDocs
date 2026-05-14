@@ -48,16 +48,16 @@ To update the banner image in the **System Properties** &gt; **System** page, yo
     **Note:** The system limits banner images to 50px.
 
 
-**Parent Topic:**[Create a company profile](t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
-[Banner logo link](../concept/c_CustomizeTheBannerLogoLink.md)
+[Banner logo link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_CustomizeTheBannerLogoLink.md)
 
-[Customize the favicon](customize-favicon.md)
+[Customize the favicon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/customize-favicon.md)
 
-[Examples of how to modify the banner](../concept/c_ExamplesOfHowToModifyTheBanner.md)
+[Examples of how to modify the banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_ExamplesOfHowToModifyTheBanner.md)
 
-[Modify the banner](../concept/c_ModifyTheBanner.md)
+[Modify the banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_ModifyTheBanner.md)
 

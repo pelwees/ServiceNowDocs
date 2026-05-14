@@ -43,7 +43,7 @@ Action
 
 </td><td>
 
-Select the lookup icon \(![The Look up icon](../../itsm-workspace/image/look-up-icon.png)\) beside the field and select the CI.
+Select the lookup icon \(![The Look up icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../itsm-workspace/image/look-up-icon.png)\) beside the field and select the CI.
 
 </td></tr><tr><td id="d267593e95">
 
@@ -58,13 +58,13 @@ Select the lookup icon \(![The Look up icon](../../itsm-workspace/image/look-up-
 
 
 </td></tr></tbody>
-</table>2.  Select the dependency views icon \(![Dependency views icon](../image/BusinessServiceMapIcon.png)\) beside the **Configuration item** field.
+</table>2.  Select the dependency views icon \(![Dependency views icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/BusinessServiceMapIcon.png)\) beside the **Configuration item** field.
 
     The Dependency Views map opens in a new tab or window.
 
 3.  To see items that this CI affects, select the down arrow and then select **View Affected CIs**.
 
-    ![Select the View affected CIs option from the menu](../image/IM_CIOptionsDepViews.png)
+    ![Select the View affected CIs option from the menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/IM_CIOptionsDepViews.png)
 
     To add another affected CI to the incident, select the down arrow beside the CI and then select **Add Affected CI\(s\)**.
 

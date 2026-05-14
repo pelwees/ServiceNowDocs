@@ -33,11 +33,11 @@ Role required: admin
 
 2.  Select the **Edit application** icon.
 
-    ![Arrow pointing the edit application icon in the all menu.](../image/neame-edit-app.png)
+    ![Arrow pointing the edit application icon in the all menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-edit-app.png)
 
 3.  Select **+** in the menu header.
 
-    ![Arrow pointing the add module icon in the header.](../image/neame-add-module.png)
+    ![Arrow pointing the add module icon in the header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-add-module.png)
 
 4.  Add a dashboard module by hovering over the module and selecting **Add**.
 
@@ -78,12 +78,12 @@ Role required: admin
 
 16. Select **Open module** in the top bar to preview the dashboard.
 
-    ![Arrow pointing the open module icon in the header.](../image/neame-open-dashboard-module.png)
+    ![Arrow pointing the open module icon in the header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-open-dashboard-module.png)
 
 
 ## What to do next
 
 Continue building your dashboard by adding more elements such as additional visualizations, filters, or text components. Arrange and resize elements to create a balanced layout that provides users with a comprehensive view of their data.
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-all-menu-editing.md)
 

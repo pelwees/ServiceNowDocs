@@ -31,7 +31,7 @@ Submit a workplace service request on behalf of an employee for any reason. You 
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
     The Case Management dashboard opens.
 
@@ -50,7 +50,7 @@ Submit a workplace service request on behalf of an employee for any reason. You 
     -   Submit a maintenance request
 5.  Select **Submit**.
 
-    To fill the form, refer to [Requesting a workplace service](../../workplace-case-mgmt/concept/request-workplace-services.md) topics.
+    To fill the form, refer to [Requesting a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-case-mgmt/concept/request-workplace-services.md) topics.
 
 6.  Select **Submit** to submit the request.
 
@@ -59,20 +59,20 @@ Submit a workplace service request on behalf of an employee for any reason. You 
 
 The workplace service request is submitted and a workplace case is created. Refresh the **All active cases** list to view the workplace case.
 
-**Parent Topic:**[Working with Case management](../concept/working-with-case-management.md)
+**Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-case-management.md)
 
 **Related topics**  
 
 
-[Manage workplace cases using Case management](manage-workplace-cases-using-case-management.md)
+[Manage workplace cases using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-cases-using-case-management.md)
 
-[Work on a workplace case using Case management](work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md)
 
-[Create a child case and a child task](create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Print a workplace case](print-a-workplace-case.md)
+[Print a workplace case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/print-a-workplace-case.md)
 
-[Managing print case](../concept/manage-print-case.md#)
+[Managing print case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-print-case.md#)
 
-[Cancel or delete a case](cancel-or-delete-a-case-casemgmtworkspace.md)
+[Cancel or delete a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/cancel-or-delete-a-case-casemgmtworkspace.md)
 

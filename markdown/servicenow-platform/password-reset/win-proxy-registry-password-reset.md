@@ -23,8 +23,8 @@ Role required: Windows system administrator
 
 If you choose not to use the method described in this topic, there are other methods to configure a proxy server:
 
--   Configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](win-proxy-exception-password-reset.md).
--   Configure all Windows clients that use the Password Reset Windows Application to pass valid credentials to the proxy server. See [Configure a proxy server using client credentials method](win-proxy-cfg-clients-password-reset.md).
+-   Configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-exception-password-reset.md).
+-   Configure all Windows clients that use the Password Reset Windows Application to pass valid credentials to the proxy server. See [Configure a proxy server using client credentials method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-cfg-clients-password-reset.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ If you choose not to use the method described in this topic, there are other met
     -   ProxyDomainName: Domain name that verifies the credentials
     -   ByPassProxyOnLocal: Set to true if you want to bypass a proxy server for local calls.
 
-**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](win-config-proxy-server-password-reset.md)
+**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 

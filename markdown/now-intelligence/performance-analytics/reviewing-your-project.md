@@ -35,8 +35,8 @@ The review tab shows four boxes of information:
     -   Error: A Measurement is not linked to an Indicator Definition, or an Indicator or Breakdown definition is not linked to a facts table.
 -   **Tasks**
 
-    Generate and list the tasks to create the Performance Analytics and Reporting elements you have defined in your project. For more information, see [Generating tasks in KPI Composer](generating-tasks-kpi-composer.md#).
+    Generate and list the tasks to create the Performance Analytics and Reporting elements you have defined in your project. For more information, see [Generating tasks in KPI Composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/generating-tasks-kpi-composer.md#).
 
 
-**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
+**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 

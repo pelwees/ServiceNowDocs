@@ -29,12 +29,12 @@ Role required: sn\_imt\_dashboard.admin
 
     |Field|Description|
     |-----|-----------|
-    |Location|Click the Lookup using list icon \(![Lookup using list icon](../../human-resources/image/magnifying-glass.png)\) and select the location that you want to associate with a campus and site.|
-    |Campus|Click the Lookup using list icon \(![Lookup using list icon](../../human-resources/image/magnifying-glass.png)\) and select the campus that you want to associate with a location and site.|
-    |Site|Click the Lookup using list icon \(![Lookup using list icon](../../human-resources/image/magnifying-glass.png)\) and select the site that you want to associate with a location and campus.|
+    |Location|Click the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../../human-resources/image/magnifying-glass.png)\) and select the location that you want to associate with a campus and site.|
+    |Campus|Click the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../../human-resources/image/magnifying-glass.png)\) and select the campus that you want to associate with a location and site.|
+    |Site|Click the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../../human-resources/image/magnifying-glass.png)\) and select the site that you want to associate with a location and campus.|
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](../concept/configrng-safe-workplce-dshbrd.md)
+**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../concept/configrng-safe-workplce-dshbrd.md)
 

@@ -33,7 +33,7 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 **Note:** Only the owner or contributors of the goal can generate insights for the goal.
 
-![Generate goal insights in Strategic Planning Workspace using Goal insights skill.](../images/generate-goal-insights.gif)
+![Generate goal insights in Strategic Planning Workspace using Goal insights skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/generate-goal-insights.gif)
 
 **Note:** If the Goal insights generation job is enabled, it automatically generates insights for each goal based on the job's run frequency. Before manually regenerating, check the timestamp on the goal insights summary card to confirm when insights were last generated — regenerating unnecessarily increases token consumption. You can also view the last generated insights in the **AI rationale** column of the goal list. If goal or target data has changed since the last run, select the refresh icon on the goal insights summary card to regenerate the insights.
 
@@ -54,12 +54,12 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 5.  Review AI-generated insights to identify risk, assess forecasted statuses, and act on recommendations before goals fall off track.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Update the progress of an automated target](../../spw-goals/task/update-progress-of-target-agf-apw.md)
+[Update the progress of an automated target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../spw-goals/task/update-progress-of-target-agf-apw.md)
 
-[Update the progress of a manual target](../../spw-goals/task/update-progress-of-target-egm.md)
+[Update the progress of a manual target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../spw-goals/task/update-progress-of-target-egm.md)
 

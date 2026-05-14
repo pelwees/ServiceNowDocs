@@ -32,12 +32,12 @@ Role required: it\_project\_manager
 5.  Select **Save**.
 
 
-**Parent Topic:**[Use a project task checklist](t_CreateAProjectTaskChecklist.md)
+**Parent Topic:**[Use a project task checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectTaskChecklist.md)
 
 **Related topics**  
 
 
-[Project task checklists](../concept/c_project-task-checklists.md)
+[Project task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_project-task-checklists.md)
 
-[Use a project task checklist](t_CreateAProjectTaskChecklist.md)
+[Use a project task checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectTaskChecklist.md)
 

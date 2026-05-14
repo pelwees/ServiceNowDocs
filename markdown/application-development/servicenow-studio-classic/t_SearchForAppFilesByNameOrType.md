@@ -19,7 +19,7 @@ Application developers can use Studio to search for application files.
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 Role required: admin
 
@@ -64,7 +64,7 @@ Windows: Control+Shift+O
 
 4.  Enter a search string.
 
-    ![A pop-up window with the Go To field containing the search string Mo and the search results](../image/CreateNowStudioGoTo.png)
+    ![A pop-up window with the Go To field containing the search string Mo and the search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateNowStudioGoTo.png)
 
     Studio displays a list of matching application files as you type.
 
@@ -73,5 +73,5 @@ Windows: Control+Shift+O
     Studio opens the application file record in a new tab in the content frame.
 
 
-**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+**Parent Topic:**[Legacy - ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_ServiceNowStudio.md)
 

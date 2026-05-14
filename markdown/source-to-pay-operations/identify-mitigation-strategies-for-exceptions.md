@@ -28,7 +28,7 @@ Users must be assigned this role alongside the Operational Buyer role to use thi
 3.  Use any of the following steps:
 
     -   Select the **Now Assist** button on any of the purchase order exception cards.
-    -   [View a purchase order exception](view-purch-order-exception.md). Select the **Now Assist** button on the exception record.
+    -   [View a purchase order exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/view-purch-order-exception.md). Select the **Now Assist** button on the exception record.
     The Now Assist panel opens and the agentic workflow begins analyzing the exception and building a mitigation strategy by:
 
     -   Outlining the material delivery gap caused by the exception.
@@ -41,5 +41,5 @@ Users must be assigned this role alongside the Operational Buyer role to use thi
 
 The agentic workflow then creates the appropriate order revision \(a purchase requisition of type Order Revision\) reflecting the approved changes.
 
-**Parent Topic:**[Identify and execute mitigation strategies for purchase order exceptions](../concept/mitigation-strategies-for-po-exceptions.md)
+**Parent Topic:**[Identify and execute mitigation strategies for purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/mitigation-strategies-for-po-exceptions.md)
 

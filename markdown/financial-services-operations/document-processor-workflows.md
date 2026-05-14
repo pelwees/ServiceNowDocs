@@ -41,6 +41,6 @@ The following is a typical loan workflow in the Financial Services Loan Operatio
 4.  A document verification task is generated.
 5.  A document agent manually verifies or rejects the document, or approves or rejects an exception or deferral request.
 
-    **Note:** For documents specified to required OCR processing, Document Intelligence can automatically extract data and verify a document if the extracted data attributes are sufficiently provided. For more information, see [Integrating with Document Intelligence](integration-with-document-intelligence.md).
+    **Note:** For documents specified to required OCR processing, Document Intelligence can automatically extract data and verify a document if the extracted data attributes are sufficiently provided. For more information, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
 

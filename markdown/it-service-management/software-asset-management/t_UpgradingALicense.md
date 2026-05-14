@@ -60,5 +60,5 @@ Role required: sam
         The Software Model form is updated.
 
 
-**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](../concept/c_UpgradingAndDowngradingLicenses.md)
+**Parent Topic:**[License upgrade and downgrade with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UpgradingAndDowngradingLicenses.md)
 

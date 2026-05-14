@@ -54,14 +54,14 @@ The following tables are affected during the snapshot process.
 -   sn\_map\_core\_m2m\_view\_type\_campus\_direction\_mode
 -   sn\_map\_core\_m2m\_view\_type\_campus\_reader
 
-**Parent Topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Parent Topic:**[Indoor Mapping references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/indoor-mapping-references.md)
 
-**Previous topic:**[Indoor Mapping terminology](indoor-mapping-common-terminology.md)
+**Previous topic:**[Indoor Mapping terminology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-common-terminology.md)
 
-**Next topic:**[Map printing options](map-printing-options.md)
+**Next topic:**[Map printing options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/map-printing-options.md)
 
 **Related topics**  
 
 
-[Create Snapshots to migrate Indoor Mapping data](../task/snapshot-ind-mapping.md)
+[Create Snapshots to migrate Indoor Mapping data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../task/snapshot-ind-mapping.md)
 

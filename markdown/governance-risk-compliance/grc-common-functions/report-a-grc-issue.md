@@ -109,5 +109,5 @@ After you submit, the agent confirms that the issue has been reported and provid
 **Related topics**  
 
 
-[Activate the Report a GRC issue AI agent](../concept/activate-the-issue-submission-ai-agent.md)
+[Activate the Report a GRC issue AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/activate-the-issue-submission-ai-agent.md)
 

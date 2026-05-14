@@ -103,7 +103,7 @@ Debugging
 -   Log payload: Displays raw log data. Use only for debugging, as it can quickly fill the MID Server logs.
 
 </td></tr></tbody>
-</table>To return to the procedure, see [Configure Dynatrace metric pull connector](../task/configure-dynatrace-metric-pull-connector.md).
+</table>To return to the procedure, see [Configure Dynatrace metric pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/configure-dynatrace-metric-pull-connector.md).
 
-**Parent Topic:**[Service Operations Workspace for ITOM reference](../concept/sow-reference-itom.md)
+**Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/sow-reference-itom.md)
 

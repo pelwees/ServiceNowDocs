@@ -25,7 +25,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
 **Note:** It is not possible to make a shift-based reservation using the Reservation widget.
 
-![Quick Reservation widget.](../image/wsd-rsv-home-page-quick-rsv.png)
+![Quick Reservation widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/wsd-rsv-home-page-quick-rsv.png)
 
 ## Procedure
 
@@ -37,17 +37,17 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
     1.  In the **Reserve a** field, select the type of workplace that you want to reserve.
 
-    2.  To select the date of reservation, click the calendar icon \( ![Calendar icon.](../../human-resources/reference/images/calendar-icon.png)\)
+    2.  To select the date of reservation, click the calendar icon \( ![Calendar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../human-resources/reference/images/calendar-icon.png)\)
 
     3.  In the **Time slot** field, select a time slot for which you want to make a reservation.
 
-        **Note:** Employees are not allowed to create a reservation too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation](create-reservation-request-1.md) and [Configure a reservable module](config-reservable-module.md).
+        **Note:** Employees are not allowed to create a reservation too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md) and [Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
         If the**Max days in future** value is not enabled, users can select a date as per the **Max number of occurrences** on the Reservable module.
 
     4.  In the **Location** field, click the location selection icon to select the building where you want to make a reservation.
 
-        ![Location selection icon.](../image/location-selection-icon.png)
+        ![Location selection icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/location-selection-icon.png)
 
     5.  In the **Floor** field, select the floor on which you want to make a reservation.
 
@@ -57,7 +57,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
 4.  To set the space as favorite, click on the Favorite icon.
 
-    ![Favorite icon](../image/favorite-icon.png)
+    ![Favorite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/favorite-icon.png)
 
     **Note:** The Favorite icon will appear only if you have access to the Employee Center.
 
@@ -67,7 +67,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
 6.  To apply more filter criteria or to view all the spaces that match the specified criteria on the Reservation portal, select **Advanced reservations**.
 
-    For more information on how to make a reservation on the Reservation portal, see [Create a reservation](create-reservation-request-1.md).
+    For more information on how to make a reservation on the Reservation portal, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
 
 ## Result
@@ -76,40 +76,40 @@ The workplace is reserved for the selected time slot.
 
 To view the details of the reservation, click **View details**. To cancel the reservation, click **Release space**.
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md)
 
-[Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
+[Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md)
 
-[Auto-resolve recurring reservations](recurring-reservations.md)
+[Auto-resolve recurring reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/recurring-reservations.md)
 
-[Set a location as favorite using the Space details page](set-a-location-as-favorite.md)
+[Set a location as favorite using the Space details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md)
 
-[Reserve a space near your colleague](browse-near-person-rsv.md)
+[Reserve a space near your colleague](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/browse-near-person-rsv.md)
 
-[Create a multi-day reservation](create-multi-day-reservation.md)
+[Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md)
 
-[Create multi-building reservations](create-multi-building-reservation.md)
+[Create multi-building reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md)
 
-[Create neighborhood reservations](create-neighborhood-reservations.md)
+[Create neighborhood reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
-[Enable shift-based reservation](enable-shift-based-reservation.md)
+[Enable shift-based reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/enable-shift-based-reservation.md)
 
-[Create a reservation along with a shared reservation](create-rsv-along-with-shared-rsv.md)
+[Create a reservation along with a shared reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-along-with-shared-rsv.md)
 
-[Create a reservation including a virtual meeting link](Create-reservation-with-virtual-meeting.md)
+[Create a reservation including a virtual meeting link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/Create-reservation-with-virtual-meeting.md)
 
-[Create a shift reservation](create-a-shift-reservation.md)
+[Create a shift reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-shift-reservation.md)
 
-[Create a group reservation](create-group-reservation.md)
+[Create a group reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-group-reservation.md)
 
-[Share, modify, or cancel a reservation](modify-cancel-res-request.md)
+[Share, modify, or cancel a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/modify-cancel-res-request.md)
 
-[Download an iCalendar for a reservation](generate-ical.md)
+[Download an iCalendar for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-ical.md)
 

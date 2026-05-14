@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select the contact from the contact record.
 
-3.  In the login details related list, select the User lookup icon ![Lookup icon.](../image/lookup-list.jpg) to open the list of consumer\_contact.
+3.  In the login details related list, select the User lookup icon ![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lookup-list.jpg) to open the list of consumer\_contact.
 
 4.  On the contacts form, select the user to associate with the consumer record.
 
@@ -35,7 +35,7 @@ Role required: admin
 **Related topics**  
 
 
-[Create a consumer record](create-a-consumer-user.md)
+[Create a consumer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-a-consumer-user.md)
 
-[Assign the consumer role to a contact](assign-the-unified-consumer-role-to-a-contact.md)
+[Assign the consumer role to a contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/assign-the-unified-consumer-role-to-a-contact.md)
 

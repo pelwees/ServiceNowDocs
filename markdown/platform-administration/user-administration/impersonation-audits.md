@@ -57,5 +57,5 @@ You can use the **Personailze List Columns** options to add more columns to the 
 
 **Note:** Impersonation audit records follow the same retention policy as transaction logs. The default retention period is `seven` days, but this is configurable by a system administrator. Any change to the transaction log retention setting applies equally to impersonation audit records.
 
-**Parent Topic:**[Impersonating users](c_ImpersonateAUser.md)
+**Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md)
 

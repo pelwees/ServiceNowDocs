@@ -29,11 +29,11 @@ Role required: cdm\_editor or cdm\_admin
 
 1.  Follow this procedure to add a component to an application:
 
-    1.  While working in a changeset, select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for the **components** node and select **Create component**.
+    1.  While working in a changeset, select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for the **components** node and select **Create component**.
 
     2.  Enter a unique and meaningful name and then select **Create**.
 
-2.  To perform other actions, select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for a component and select the action, as follows.
+2.  To perform other actions, select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for a component and select the action, as follows.
 
 <table id="choicetable_hkz_r4h_tpb"><thead><tr><th align="left" id="d432796e116">
 
@@ -82,7 +82,7 @@ Include the selected component in specified collections.In the Include in collec
 
 Add a file as a file node.You can attach a MIME-type file with a maximum file size of 5 MB.
 
-For more information on adding files, see [Manage files in the config data model using file nodes](cdm-manage-file-config-data-file-node.md).
+For more information on adding files, see [Manage files in the config data model using file nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-manage-file-config-data-file-node.md).
 
 </td></tr><tr><td id="d432796e205">
 
@@ -90,9 +90,9 @@ For more information on adding files, see [Manage files in the config data model
 
 </td><td>
 
-Removes the inherited node and all child objects from the current collection.You can see excluded nodes in the changeset tree when you access the More actions menu \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) and select **View excluded data**. Excluded nodes are appended with the label "Excluded".
+Removes the inherited node and all child objects from the current collection.You can see excluded nodes in the changeset tree when you access the More actions menu \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) and select **View excluded data**. Excluded nodes are appended with the label "Excluded".
 
-Select **Include in inheritance** from the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) to stop excluding the node and re-add it to the changeset.
+Select **Include in inheritance** from the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) to stop excluding the node and re-add it to the changeset.
 
 </td></tr><tr><td id="d432796e236">
 
@@ -119,7 +119,7 @@ Delete the selected component.
 View direct relationships with the node. Direct relationships are formed between nodes by inheritance or by being included.
 
 </td></tr></tbody>
-</table>3.  Add a CDI: Select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for the item and select **Create CDI**.
+</table>3.  Add a CDI: Select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for the item and select **Create CDI**.
 
 <table id="table_h53_jmt_spb"><thead><tr><th>
 
@@ -191,13 +191,13 @@ Option to specify that the value of the CDI should be encrypted. This option app
 **Related topics**  
 
 
-[Create or update a variable CDI](cdm-variables-crud.md)
+[Create or update a variable CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 
-[Manage files in the config data model using file nodes](cdm-manage-file-config-data-file-node.md)
+[Manage files in the config data model using file nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-manage-file-config-data-file-node.md)
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-editing-config-data-changesets.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-secrets-managing.md)
 

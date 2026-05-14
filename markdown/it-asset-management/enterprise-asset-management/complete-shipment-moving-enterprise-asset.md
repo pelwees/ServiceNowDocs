@@ -17,7 +17,7 @@ Perform all tasks that are required to ship an enterprise asset. You must perfor
 
 ## Before you begin
 
-Before you can proceed with the shipment, you must complete the Prepare task for the enterprise asset. See [Complete the Prepare task for a moving enterprise asset](complete-prepare-task-moving-enterprise-asset.md) for detailed instructions.
+Before you can proceed with the shipment, you must complete the Prepare task for the enterprise asset. See [Complete the Prepare task for a moving enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-prepare-task-moving-enterprise-asset.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.enterprise\_admin, or enterprise\_asset\_technician
 
@@ -104,5 +104,5 @@ The enterprise move line is automatically updated with a status of Completed.
 
 Move all remaining enterprise assets that are included in the move order. After all corresponding enterprise move lines reach a status of Completed, the move order is complete.
 
-**Parent Topic:**[Completing an enterprise asset move order](../concept/completing-enterprise-asset-move-order.md)
+**Parent Topic:**[Completing an enterprise asset move order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/completing-enterprise-asset-move-order.md)
 

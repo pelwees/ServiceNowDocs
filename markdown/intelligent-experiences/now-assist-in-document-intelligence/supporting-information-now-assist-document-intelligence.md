@@ -29,11 +29,11 @@ Now Assist in Document Intelligence is supported starting with Yokohama \(Patch 
 
 The Now Assist in Document Intelligence application is supported for the Document Intelligence workspace.
 
-For more information, see [Document Intelligence workspace with Now Assist](document-intelligence-workspace-with-now-assist.md).
+For more information, see [Document Intelligence workspace with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-intelligence-workspace-with-now-assist.md).
 
 ## Supported languages
 
-Now Assist in Document Intelligence supports text in multiple languages. For information on supported languages, see [Languages supported by Now Assist in Document Intelligence](../reference/languages-supported-now-assist-document-intelligence.md).
+Now Assist in Document Intelligence supports text in multiple languages. For information on supported languages, see [Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../reference/languages-supported-now-assist-document-intelligence.md).
 
 ## Application information
 
@@ -47,5 +47,5 @@ This store app has the following dependencies:
 -   Now Assist for Platform \(sn\_genai\_platform\)
 -   Document Intelligence \(sn\_docintel\)
 
-For more information, see [Configuring Now Assist in Document Intelligence](docintel-configuring-now-assist.md).
+For more information, see [Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-configuring-now-assist.md).
 

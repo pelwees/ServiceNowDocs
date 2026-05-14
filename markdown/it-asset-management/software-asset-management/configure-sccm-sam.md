@@ -56,7 +56,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin or admin
 
 ## What to do next
 
-Once you've configured SCCM and discovered your software applications, you can [create reclamation rules](create-reclamation-rule-sccm.md) to identify unused or underused software, [view software usage](view-sw-usage-workspace.md), and [reclaim software](t_AddAReclCandidate.md).
+Once you've configured SCCM and discovered your software applications, you can [create reclamation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-reclamation-rule-sccm.md) to identify unused or underused software, [view software usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-sw-usage-workspace.md), and [reclaim software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAReclCandidate.md).
 
-**Parent Topic:**[Configuring Software Asset Management](../concept/Config-sam-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/Config-sam-workspace.md)
 

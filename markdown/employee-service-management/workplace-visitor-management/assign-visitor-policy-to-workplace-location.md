@@ -38,7 +38,7 @@ You can also assign visitor policy by selecting the workplace location in **Buil
 
 3.  In the Locations related list, select **Edit**.
 
-4.  On the Edit Members form, select the workplace location from the **Collection** column, then move it to the **Locations List** column by using the add-remove icon \(![Add-remove arrows.](../../wsd-reservation-management/image/add-remove-icon.png)\).
+4.  On the Edit Members form, select the workplace location from the **Collection** column, then move it to the **Locations List** column by using the add-remove icon \(![Add-remove arrows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../wsd-reservation-management/image/add-remove-icon.png)\).
 
 5.  Select **Save**.
 
@@ -50,12 +50,12 @@ You can also assign visitor policy by selecting the workplace location in **Buil
 
     3.  On the Location Policy form, fill in the fields.
 
-        For a description of the field values, see [Location Policy form](../reference/location-policy-form.md).
+        For a description of the field values, see [Location Policy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/location-policy-form.md).
 
 
 ## Result
 
 The visitor policy is assigned to the selected workplace location.
 
-**Parent Topic:**[Create a visitor policy](create-visitor-policy.md)
+**Parent Topic:**[Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-policy.md)
 

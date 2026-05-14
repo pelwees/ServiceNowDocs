@@ -47,7 +47,7 @@ There are three steps to importing data.
     After you've configured the data source and determined the data mapping, you can run the import. You can also schedule the import to run later. When the import runs, data is gathered from the source, moved to a staging table, and transformed to the target tables according to the specifications in your mapping.
 
 
-For more details about how importing data works, see [Import sets](../../import-sets/reference/import-sets-landing-page.md).
+For more details about how importing data works, see [Import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../import-sets/reference/import-sets-landing-page.md).
 
 ## Integration Hub import environment
 
@@ -65,7 +65,7 @@ The following sections explain each interface in greater detail.
 
 Create and access integrations through the landing page.
 
-![User interface for the IntegrationHub import landing page.](../images/ih-import-landing.png "Landing page user interface")
+![User interface for the IntegrationHub import landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-landing.png "Landing page user interface")
 
 The landing page has these components.
 
@@ -82,7 +82,7 @@ The landing page has these components.
 
 Define a data source for an import through the source configuration page. The data source must be an Excel file, a CSV file, or a Data Stream action.
 
-![User interface for the IntegrationHub import source configuration section.](../images/ih-import-source.png "Source configuration section user interface")
+![User interface for the IntegrationHub import source configuration section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-source.png "Source configuration section user interface")
 
 The source configuration section has these components.
 
@@ -124,7 +124,7 @@ Select the target tables and determine how the source data is mapped to them. Ma
 
 The Map to target section has two parts. In the first part, select the target tables. In the second part, map the data to the target tables.
 
-![User interface for the IntegrationHub table selection section.](../images/ih-import-target.png "Table selection user interface")
+![User interface for the IntegrationHub table selection section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-target.png "Table selection user interface")
 
 The table selection section has these components.
 
@@ -134,7 +134,7 @@ The table selection section has these components.
 
 -   **2. Transform Settings**
 
-    Button to configure the transform settings for your integration. You can specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration. For more information, see [Transform settings](../reference/transform-settings.md).
+    Button to configure the transform settings for your integration. You can specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration. For more information, see [Transform settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/transform-settings.md).
 
     The **Transform Settings** button doesn't appear until you've added at least one target table.
 
@@ -152,7 +152,7 @@ The table selection section has these components.
     -   **Revalidate**: Checks to see if there are any changes to the target entity schema. If changes are detected, the target table card displays a message saying the target schema has changed. Selecting the target table card opens a window where you can **Update** the target entity schema or **Cancel** to keep the schema the same. Revalidate your table whenever you edit the target table's configuration.
     -   **Delete**: Deletes the target table from the integration.
 
-![User interface for the IntegrationHub import data mapping section.](../images/ih-import-map.png "Data-mapping user interface")
+![User interface for the IntegrationHub import data mapping section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-map.png "Data-mapping user interface")
 
 The data-mapping section has these components.
 
@@ -162,7 +162,7 @@ The data-mapping section has these components.
 
 -   **2. Source data section**
 
-    Section that displays the source data as data pills. To map the data, drag the data pills to the target table data section. You can also use the pill picker. After you map a source field to a target field, a small check mark icon \(![check mark icon](../images/check-mark-icon.png)\) appears next to the source field name. If you move your cursor to the check mark, the tooltip lists the target fields that source field has been mapped to, up to five fields.
+    Section that displays the source data as data pills. To map the data, drag the data pills to the target table data section. You can also use the pill picker. After you map a source field to a target field, a small check mark icon \(![check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/check-mark-icon.png)\) appears next to the source field name. If you move your cursor to the check mark, the tooltip lists the target fields that source field has been mapped to, up to five fields.
 
 -   **3. Target table data section**
 
@@ -193,7 +193,7 @@ The data-mapping section has these components.
 
 Run an import immediately, or schedule it to run at a specific time, at regular intervals, or after a parent import. Schedule large imports to run concurrently to reduce processing time.
 
-![User interface for the IntegrationHub import schedule imports section.](../images/ih-import-schedule.png "Schedule imports section user interface")
+![User interface for the IntegrationHub import schedule imports section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-schedule.png "Schedule imports section user interface")
 
 The schedule imports section has these components.
 
@@ -230,7 +230,7 @@ The schedule imports section has these components.
 
 View details for each import, such as the execution time and date, and execution context. Open the import's execution records to view the import state and the imported rows, errors, and logs.
 
-![User interface for the IntegrationHub import execution details section.](../images/ih-import-execution.png "Execution details section user interface")
+![User interface for the IntegrationHub import execution details section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-import-execution.png "Execution details section user interface")
 
 The execution details section has these components.
 
@@ -240,7 +240,7 @@ The execution details section has these components.
 
 -   **2. Execution Details**
 
-    Section with cards showing the total number of rows imported, processed, pending, or skipped, and the number of errors that occurred. If the import is processed concurrently, this section also includes a Partitions card. For more information, see [Concurrent imports](../../import-sets/concept/concurrent-imports.md).
+    Section with cards showing the total number of rows imported, processed, pending, or skipped, and the number of errors that occurred. If the import is processed concurrently, this section also includes a Partitions card. For more information, see [Concurrent imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../import-sets/concept/concurrent-imports.md).
 
     You can click the cards to filter the results. Filtered results display in the Import Set Rows tab toward the bottom of the page. For example, clicking the **Pending** card displays the pending rows. Clicking **Total rows imported** or **Clear Selection** clears the filters.
 
@@ -309,14 +309,14 @@ Follow these guidelines to achieve the benefits offered by Integration Hub impor
     Modifying Data Stream actions used as data sources might change the mapping from source to target. When the output for a Data Stream action changes, the Map to target page displays a warning that the complex object schema has changed. You might need to reconfigure the mapping.
 
 
--   **[Configure a data source](../tasks/configure-data-source.md)**  
+-   **[Configure a data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-data-source.md)**  
 Start importing data with Integration Hub by creating a data source. A data source specifies how and where to get the data you want to import.
--   **[Map source data to a target table](../tasks/map-source-data-target.md)**  
+-   **[Map source data to a target table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/map-source-data-target.md)**  
 Specify how source data is transformed to your target tables.
--   **[Run or schedule a data import](../tasks/run-schedule-data-imports.md)**  
+-   **[Run or schedule a data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/run-schedule-data-imports.md)**  
 Specify when to run a data import by creating a schedule. Schedule an import to run at a specific time, at regular intervals, or after a parent import. You can also run your import immediately.
--   **[Transform settings](../reference/transform-settings.md)**  
+-   **[Transform settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/transform-settings.md)**  
 Configure the transform settings for your Integration Hub - Import integration. Specify batch size and empty-field handling, enable verbose mode, or run a script before or after the integration.
 
-**Parent Topic:**[Importing and streaming data in Integration Hub](importing-streaming-data-ih.md)
+**Parent Topic:**[Importing and streaming data in Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/importing-streaming-data-ih.md)
 

@@ -150,9 +150,9 @@ Output
     -   context\_vars - Contextual variables to pass into a conversation, such as \`outputs.request\_context.context\_vars = \{language: "en"\};\`.
 
 </td></tr></tbody>
-</table>![An Action Input in Workflow Studio with Headers and Payload set to use JSON.](../images/va-flowdesigner-action-inputs.png "Example: Workflow Studio provider attributes action script input, including headers and payload")
+</table>![An Action Input in Workflow Studio with Headers and Payload set to use JSON.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-flowdesigner-action-inputs.png "Example: Workflow Studio provider attributes action script input, including headers and payload")
 
-![An Action Output in Workflow Studio specifies the token, request_context, and provider_user_id values.](../images/va-flowdesigner-action-output.png "Example: Workflow Studio provider attributes action script output, including token, request_context, and provider_user_id")
+![An Action Output in Workflow Studio specifies the token, request_context, and provider_user_id values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-flowdesigner-action-output.png "Example: Workflow Studio provider attributes action script output, including token, request_context, and provider_user_id")
 
 Example: Provider attributes action script.
 
@@ -546,5 +546,5 @@ Virtual Agent - SMS Twilio Adapter Default Picker Inbound TransformerPurpose: Fi
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](../concept/va-features-custom-chat-integrations.md)
+</table>**Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-features-custom-chat-integrations.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_oper\_res.manager
 
 4.  Set up the digital resilience information details.
 
-    For more information, see [Create New ICT third-party service provider form](../reference/create-ICT-thirdparty-serv-prov-form.md).
+    For more information, see [Create New ICT third-party service provider form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-ICT-thirdparty-serv-prov-form.md).
 
 5.  Select **Save**.
 
@@ -38,5 +38,5 @@ Role required: sn\_oper\_res.manager
 6.  Navigate to the Contractual arrangements tab and view the details.
 
 
-**Parent Topic:**[Create a third-party engagement and enhance digital resilience data](create-drtp-reg-tp-engagement.md)
+**Parent Topic:**[Create a third-party engagement and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-tp-engagement.md)
 

@@ -29,8 +29,8 @@ When the Azure Form Recognizer service reads the uploaded CDC Vaccination Card, 
 
 For more information on the validation engine used with the validator services, see the following topics:
 
--   [Automate reviews of vaccine responses](../task/enable-automated-vaccine-response-reviews.md)
--   [Set up Vaccination Status properties](../task/config-vaccination-properties.md)
+-   [Automate reviews of vaccine responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/enable-automated-vaccine-response-reviews.md)
+-   [Set up Vaccination Status properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/config-vaccination-properties.md)
 
 ## Integration details
 
@@ -43,5 +43,5 @@ The following items are provided and supported by Vaccination Status to streamli
 
 -   A trained model that you can use when setting up your integration
 
-For more information on integrating with the service and enabling automatic reviews, see [Configure Azure Form Recognizer integration for automatic vaccine response reviews](../task/config-azure-form-recognizer-integration.md).
+For more information on integrating with the service and enabling automatic reviews, see [Configure Azure Form Recognizer integration for automatic vaccine response reviews](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/config-azure-form-recognizer-integration.md).
 

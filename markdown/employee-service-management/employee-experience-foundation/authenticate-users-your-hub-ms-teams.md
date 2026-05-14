@@ -29,7 +29,7 @@ Role required: Microsoft Azure admin
 
     The **Register an application** form appears.
 
-    ![Register an application](../images/reg-an-app.png)
+    ![Register an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/reg-an-app.png)
 
 4.  Enter the name for your application, for example: `ServiceNow Auth app`, on the Register an application page.
 
@@ -76,7 +76,7 @@ Implicit grant
 Select **Access tokens** and **ID tokens**.
 
 </td></tr></tbody>
-</table>    ![Configure web form](../images/configure-web-meeting-extensibility02.png)
+</table>    ![Configure web form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/configure-web-meeting-extensibility02.png)
 
 10. Select **Configure**.
 
@@ -86,7 +86,7 @@ Select **Access tokens** and **ID tokens**.
 
 13. Select **Openid permissions** accordion, and select **email**, **offline\_access**, **openid**, and **profile** check boxes.
 
-    ![Request API permissions](../images/request-api-permissions.png)
+    ![Request API permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/request-api-permissions.png)
 
 14. Select **Add permissions**.
 
@@ -116,7 +116,7 @@ Select **Access tokens** and **ID tokens**.
     |User consent description|Enable Teams to call this app’s APIs with the same rights as the user.|
     |State|Enabled|
 
-    ![Add scope](../images/add_scope02.png)
+    ![Add scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/add_scope02.png)
 
 21. Select the **Add scope** button.
 
@@ -208,14 +208,14 @@ Client ID for Outlook mobile application
 </td></tr></tbody>
 </table>    For more information on the client IDs, see [Configure your tab app in Microsoft Entra ID](https://learn.microsoft.com/en-us/microsoftteams/platform/tabs/how-to/authentication/tab-sso-register-aad#to-configure-authorized-client-application) in the Microsoft Teams documentation.
 
-    ![Add client ID](../images/add-client-id.png)
+    ![Add client ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/add-client-id.png)
 
 24. Select the **Add application** button.
 
     Copy the Application \(client\) ID, and Directory \(tenant\) ID from the application overview page in the Microsoft Azure portal to update the details in the ServiceNow instance.
 
-    ![Application ID and the tenant ID from the app overview page](../images/app-overview-azure-portal.png)
+    ![Application ID and the tenant ID from the app overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/app-overview-azure-portal.png)
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_s_tnt.md)
 

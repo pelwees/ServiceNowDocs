@@ -17,33 +17,33 @@ Assets can be received and added to the system when they are delivered to a stoc
 
 Users with an appropriate procurement role can receive assets. If one purchase order contains multiple purchase order lines, the lines can be received at different times. This is useful if items arrive at the stockroom in different shipments. The purchase order status does not change to **Received** until all purchase order lines are received.
 
-As an alternative to receiving assets when they arrive, you can create assets [before they arrive](../task/t_CreateAssetReserveForRequester.md) and reserve them for the requester.
+As an alternative to receiving assets when they arrive, you can create assets [before they arrive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_CreateAssetReserveForRequester.md) and reserve them for the requester.
 
--   **[Receive an asset](../task/t_ReceiveAnAsset.md)**  
+-   **[Receive an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_ReceiveAnAsset.md)**  
 When assets are received and delivered to a stockroom, they’re added to the system.
--   **[Create a receiving slip](../task/t_CreateAReceivingSlip.md)**  
+-   **[Create a receiving slip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_CreateAReceivingSlip.md)**  
 Receiving slips are created automatically during the process of receiving assets. You can also create receiving slips manually.
--   **[Create a receiving slip line](../task/t_CreateAReceivingSlipLine.md)**  
+-   **[Create a receiving slip line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_CreateAReceivingSlipLine.md)**  
 When assets arrive at a stockroom and you receive them, a receiving slip is created on the purchase order. You create a receiving slip line to identify the specific assets and quantities that were received.
--   **[Consumable assets](c_ReceiveAConsumableAsset.md)**  
+-   **[Consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_ReceiveAConsumableAsset.md)**  
 A consumable asset is one that is purchased in quantity and distributed. It is assigned to the consumable model category, and the asset record tracks the quantity that is available and total cost. When consumable assets are received, they are merged into an existing consumable record, if available.
 
-**Parent Topic:**[Procurement](c_Procurement.md)
+**Parent Topic:**[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../reference/r_ProcurementRoles.md)
 
-[Procurement workflows](c_ProcurementWorkflows.md)
+[Procurement workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_UseProcurement.md)
 
-[Domain separation and Procurement](domain-separation-procurement.md)
+[Domain separation and Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/domain-separation-procurement.md)
 

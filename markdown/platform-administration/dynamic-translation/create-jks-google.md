@@ -86,9 +86,9 @@ Encrypt the security certificates obtained from Google by creating a Java KeySto
     **Note:** You should specify this password when attaching a JKS certificate to Google Cloud Translator Service spoke.
 
 
-**Parent Topic:**[Set up the Google Cloud Translator Service spoke](setup-google-translator.md)
+**Parent Topic:**[Set up the Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/setup-google-translator.md)
 
-**Previous topic:**[Set up the Google Cloud Translator Service spoke](setup-google-translator.md)
+**Previous topic:**[Set up the Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/setup-google-translator.md)
 
-**Next topic:**[Attach a Java KeyStore certificate to Google Cloud Translator Service spoke](attach-jks-google-translator.md)
+**Next topic:**[Attach a Java KeyStore certificate to Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/attach-jks-google-translator.md)
 

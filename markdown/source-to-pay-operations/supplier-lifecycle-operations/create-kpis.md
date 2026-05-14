@@ -23,9 +23,9 @@ Role required: sn\_kpi.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
 
-3.  Select **New**.![Selected option to create a new KPI.](../image/create-kpi-without-template.png)
+3.  Select **New**.![Selected option to create a new KPI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/create-kpi-without-template.png)
 
 4.  On the Create New KPI form, fill in the fields.
 
@@ -284,12 +284,12 @@ This KPI is activated only when the following conditions are met:
 -   You must have access to the data tables for extracting data for automated KPIs.
 -   If the automated KPI collection fails to extract data, manual KPI data collection tasks are created and assigned to the supplier manager.
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configuring-supplier-performance-mgmt.md)
 
 **Related topics**  
 
 
-[Create KPIs by adding suppliers to a KPI template](add-supplier-kpi-template.md)
+[Create KPIs by adding suppliers to a KPI template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-kpi-template.md)
 
-[Create KPI units](../concept/create-kpi-units.md)
+[Create KPI units](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/create-kpi-units.md)
 

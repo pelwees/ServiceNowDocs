@@ -78,5 +78,5 @@ Enables the effective date of a work plan to be set in the past. Support for pas
 -   Default value: Advanced
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Planned Work Management components](planned-work-components.md)
+</table>**Parent Topic:**[Planned Work Management components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/planned-work-components.md)
 

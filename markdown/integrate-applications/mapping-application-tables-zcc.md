@@ -28,7 +28,7 @@ The instance admin can choose to keep the predefined data fabric table connected
 
 Connecting to an external data source using requires coordination between the instance admin, connection admin, and data steward. To configure this type of data fabric table, follow the process shown in this infographic.
 
-![Different users in an organization work together to connect an application table to an external data source. View the steps after the infographic for details.](../../../administer/workflow-data-fabric/image/mmasset0021028-connecting-a-data-fabric-table-in-an-application-to-external-source-horizontal.png "Connecting a predefined data fabric table to an external data source")
+![Different users in an organization work together to connect an application table to an external data source. View the steps after the infographic for details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/image/mmasset0021028-connecting-a-data-fabric-table-in-an-application-to-external-source-horizontal.png "Connecting a predefined data fabric table to an external data source")
 
 In this workflow:
 
@@ -38,10 +38,10 @@ In this workflow:
 4.  The data steward selects a source table and maps source columns to the existing columns in the data fabric table.
 5.  Users access the application, and interact with flows retrieving data from the external source in real-time.
 
--   **[Connect a predefined data fabric table to an external data source](../task/map-application-table-external-zcc.md)**  
+-   **[Connect a predefined data fabric table to an external data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/map-application-table-external-zcc.md)**  
 Connect a data fabric table included with an application to an external data source.
--   **[Connect a predefined data fabric table to a local table](../task/map-application-table-internal-zcc.md)**  
+-   **[Connect a predefined data fabric table to a local table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/map-application-table-internal-zcc.md)**  
 Connect a data fabric table included with an application to a local table on your instance.
 
-**Parent Topic:**[Zero Copy Connectors](zero-copy-connectors.md)
+**Parent Topic:**[Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/zero-copy-connectors.md)
 

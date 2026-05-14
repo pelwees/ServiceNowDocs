@@ -17,7 +17,7 @@ Learn how bank agents, using the failed standing order workflow, proactively con
 
 The following diagram shows how the application helps bank agents handle a failed standing order for a deposit account.
 
-![Workflow that shows how a failed standing order is handled using the Deposit Operations application. For the text description, refer to the workflow steps that follow.](../image/failed-standing-order-workflow.png "Failed standing order workflow example")
+![Workflow that shows how a failed standing order is handled using the Deposit Operations application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../image/failed-standing-order-workflow.png "Failed standing order workflow example")
 
 The deposit admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -55,5 +55,5 @@ The following workflow routes the case and tasks for a failed standing order to 
         After the child case is complete, the state and the stage of the parent case \(failed standing order\) are set to Closed Complete.
 
 
-**Parent Topic:**[Financial Services Deposit Operations workflows](deposit-operations-workflows.md)
+**Parent Topic:**[Financial Services Deposit Operations workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/deposit-operations-workflows.md)
 

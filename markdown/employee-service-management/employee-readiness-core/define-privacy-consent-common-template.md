@@ -36,5 +36,5 @@ Role required: sn\_imt\_core.admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up privacy consent settings](../concept/set-up-privacy-consent-common.md)
+**Parent Topic:**[Setting up privacy consent settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/set-up-privacy-consent-common.md)
 

@@ -25,11 +25,11 @@ Role required: sn\_oper\_res.admin
 
     You can select the table from the list view as shown in the example.
 
-    ![Tables.](../image/conf-360-view-for-csdm-obj.png)
+    ![Tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/conf-360-view-for-csdm-obj.png)
 
     The Configure 360º Views form for the selected table is displayed.
 
-    ![Configure 360º Views form.](../image/conf-360-view-f-bs.png)
+    ![Configure 360º Views form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/conf-360-view-f-bs.png)
 
 3.  Update the section configuration for the top, bottom, left, and right positions as desired in the **Sector configuration** field.
 
@@ -45,14 +45,14 @@ Role required: sn\_oper\_res.admin
 
     You can navigate to the 360º view for the selected table.
 
-    ![360º view UI action.](../image/conf-360-view-f-ui-action.png)
+    ![360º view UI action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/conf-360-view-f-ui-action.png)
 
 8.  Verify the positions of the relationships on the form.
 
     The 360º view shows the context information of the opened service, business service, service offering, and business process. When you select the node, it shows more information on the selected node in the right side panel. You can verify the placements and positions of the relationships on the form as shown in the example.
 
-    ![Positions of the relationships.](../image/conf-360-view-f-bs-form.png)
+    ![Positions of the relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/conf-360-view-f-bs-form.png)
 
-    For more information on 360º views, see [Exploring the 360º view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+    For more information on 360º views, see [Exploring the 360º view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
 
 

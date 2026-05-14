@@ -15,10 +15,10 @@ breadcrumb: [Plan configuration components, Use, Journey designer, Employee Jour
 
 Plan configuration approvers review and approve plan configurations.
 
-ServiceNow administrators [assign plan configuration approvers](../task/jny-assign-pconfig-owner-approver.md) for different plan configurations. Approvers are assigned by ServiceNow administrators. Approvers are subject matter experts \(SME\) with specialized skills related to plan configurations. When an owner publishes updates to a plan configuration an approval task is created for any approvers.
+ServiceNow administrators [assign plan configuration approvers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../task/jny-assign-pconfig-owner-approver.md) for different plan configurations. Approvers are assigned by ServiceNow administrators. Approvers are subject matter experts \(SME\) with specialized skills related to plan configurations. When an owner publishes updates to a plan configuration an approval task is created for any approvers.
 
--   **[Review and approve plan configuration changes](../task/jny-dsgnr-approval-requests.md)**  
+-   **[Review and approve plan configuration changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../task/jny-dsgnr-approval-requests.md)**  
 Approvers receive approval tasks to track reviewing, approving, and rejecting changes to a plan configuration.
 
-**Parent Topic:**[Journey designer plan configuration template process, owners, and maintenance](jny-process-owners-maint.md)
+**Parent Topic:**[Journey designer plan configuration template process, owners, and maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-process-owners-maint.md)
 

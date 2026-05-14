@@ -29,7 +29,7 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 4.  On the Breakdown analysis form, fill in the fields.
 
-    For a description of the field values, see [Root cause analysis form](../../icw-digital-factory-workspace/reference/root-cause-analysis-form.md).
+    For a description of the field values, see [Root cause analysis form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../../icw-digital-factory-workspace/reference/root-cause-analysis-form.md).
 
 5.  Select **Submit**.
 
@@ -38,5 +38,5 @@ Role required: sn\_icw.rca\_user or sn\_icw.rca\_expert
 
 The breakdown analysis is created and displayed in the list of root cause analyses in the Workspace. You can access the Playbook only in the Digital Factory Workspace.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/using-icw-mobile-experience.md)
 

@@ -71,5 +71,5 @@ If you’re using multiple storage vendors with custom namespaces not specified 
 |SMI - Storage Server|Retrieves SAN and NAS arrays and servers.|
 |SMI - WBEM Service|Retrieves WBEM Service information such as profiles and SMI-S version.|
 
-**Parent Topic:**[Storage Discovery via SMI-S and CIM](r_DataCollDiscoStorageviaSMISCIM.md)
+**Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 

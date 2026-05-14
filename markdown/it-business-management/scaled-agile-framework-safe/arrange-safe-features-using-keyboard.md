@@ -29,7 +29,7 @@ You can use the keyboard to change the order of a feature in the Backlog list or
 
 2.  Press the Tab key again.
 
-    The context menu icon \(![Context menu icon.](../images/ContextMenuIcon.png)\) on the feature is highlighted.
+    The context menu icon \(![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/ContextMenuIcon.png)\) on the feature is highlighted.
 
 3.  Select the feature by pressing the Enter key.
 
@@ -38,5 +38,5 @@ You can use the keyboard to change the order of a feature in the Backlog list or
 5.  Fix the position of the feature by pressing the Enter key.
 
 
-**Parent Topic:**[Manage your ART backlog from the SAFe Board](plan-program-backlog.md)
+**Parent Topic:**[Manage your ART backlog from the SAFe Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/plan-program-backlog.md)
 

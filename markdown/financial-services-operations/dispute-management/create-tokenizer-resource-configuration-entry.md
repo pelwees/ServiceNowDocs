@@ -37,5 +37,5 @@ Role required: admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Manage Tokenizer Resource Configurations](../concept/manage-tokenizer-resource-configurations.md)
+**Parent Topic:**[Manage Tokenizer Resource Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/manage-tokenizer-resource-configurations.md)
 

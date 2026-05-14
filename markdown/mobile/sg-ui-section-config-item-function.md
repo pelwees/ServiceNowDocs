@@ -15,7 +15,7 @@ Add action functions, like buttons to the footer area of record sections to enab
 
 ## Before you begin
 
-To configure record section functions within a sections screen, at least one pre-configured record section must be created. For more information, see [Configure a record UI section](sg-ui-section-config-item.md).
+To configure record section functions within a sections screen, at least one pre-configured record section must be created. For more information, see [Configure a record UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 Role required: admin
 
@@ -29,11 +29,11 @@ Vertical button within a section screen view of a record section
 
 </th></tr></thead><tbody><tr><td>
 
-![Record section with two buttons.](../image/record-section-two-buttons.png)
+![Record section with two buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/record-section-two-buttons.png)
 
 </td><td>
 
-![Record section with one button.](../image/record-section-one-button.png)
+![Record section with one button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/record-section-one-button.png)
 
 </td></tr></tbody>
 </table>## Procedure
@@ -115,11 +115,11 @@ Function not displayed when 'Hide if empty' field is checked
 
 </th></tr></thead><tbody><tr><td>
 
-![Hide if empty field is unchecked so action function displays.](../image/record-section-unhide.png)
+![Hide if empty field is unchecked so action function displays.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/record-section-unhide.png)
 
 </td><td>
 
-![Hide if empty field is checked so action function does not display.](../image/record-section-hide.png)
+![Hide if empty field is checked so action function does not display.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/record-section-hide.png)
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.

@@ -18,11 +18,11 @@ After your administrator sets up Certificate-based authentication, you can regis
 **Related topics**  
 
 
-[Manage your client certificates](ui-login-mutual-auth.md#)
+[Manage your client certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#)
 
-[Register client certificate for your PIV or CAC card](ui-login-mutual-auth.md#)
+[Register client certificate for your PIV or CAC card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#)
 
-[Log in to ServiceNow AI Platform using PIV or CAC card](ui-login-mutual-auth.md#)
+[Log in to ServiceNow AI Platform using PIV or CAC card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#)
 
 ## Register client certificate for your PIV or CAC card
 
@@ -36,7 +36,7 @@ Before you log in to ServiceNow AI Platform using your PIV or CAC card, you must
 
 ### About this task
 
-If you need an admin to register your client certificate, see [Map PEM certificate to user](set-up-mutual-auth.md#).
+If you need an admin to register your client certificate, see [Map PEM certificate to user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/set-up-mutual-auth.md#).
 
 ### Procedure
 
@@ -48,7 +48,7 @@ If you need an admin to register your client certificate, see [Map PEM certifica
 
     If a valid is certificate is available, the following message displays:
 
-    ![register a client certificate for PIV or CAC card](../images/register-piv-cac-card-cert.png)
+    ![register a client certificate for PIV or CAC card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/../images/register-piv-cac-card-cert.png)
 
 4.  Click **Register**.
 
@@ -56,9 +56,9 @@ If you need an admin to register your client certificate, see [Map PEM certifica
 
     `The PIV/CAC certificate has been successfully registered and linked to the user account.`
 
-    ![certificate registered successfully for a PIV or CAC card](../images/piv-cac-card-register-success.png)
+    ![certificate registered successfully for a PIV or CAC card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/../images/piv-cac-card-register-success.png)
 
-    The next time you log in to your ServiceNow AI Platform, you can log in using your PIV or CAC card. For more information, see [Log in to ServiceNow AI Platform using PIV or CAC card](ui-login-mutual-auth.md#).
+    The next time you log in to your ServiceNow AI Platform, you can log in using your PIV or CAC card. For more information, see [Log in to ServiceNow AI Platform using PIV or CAC card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/ui-login-mutual-auth.md#).
 
 
 ## Log in to ServiceNow AI Platform using PIV or CAC card
@@ -70,7 +70,7 @@ You can log in with your PIV or CAC card instead of user name and password when 
 -   Role required: none
 -   Make sure that Certificate-based authentication is enabled.
 -   Make sure that a PIV or CAC card reader is connected to your computer.
--   Make sure that a client certificate of your PIV or CAC card is mapped to you. For more information, see [Register CA certificate](set-up-mutual-auth.md#).
+-   Make sure that a client certificate of your PIV or CAC card is mapped to you. For more information, see [Register CA certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/set-up-mutual-auth.md#).
 
 ### Procedure
 
@@ -86,11 +86,11 @@ You can log in with your PIV or CAC card instead of user name and password when 
 
 4.  If you enter a correct PIN, the browser displays a prompt to select a certificate.
 
-    ![Browser prompt to select a client certificate.](../images/client_certificate_prompt.png)
+    ![Browser prompt to select a client certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/../images/client_certificate_prompt.png)
 
 5.  Select a certificate from the browser prompt.
 
-    If the certificate is valid and mapped to you, you are redirected to the login page.![Login page with PIV or CAC card option](../images/piv_cac_card_login.png)
+    If the certificate is valid and mapped to you, you are redirected to the login page.![Login page with PIV or CAC card option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/../images/piv_cac_card_login.png)
 
 6.  Click **Log in with PIV/CAC card** button.
 
@@ -112,7 +112,7 @@ View and delete client certificates associated with your account.
 
 2.  Click your name from the **User Menu** and select **Profile**.
 
-    ![Options in the user menu](../images/user_menu_profile.png)
+    ![Options in the user menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/certificate-based-authentication/../images/user_menu_profile.png)
 
 3.  From the **Related Links**, click **Manage your client certificates**.
 

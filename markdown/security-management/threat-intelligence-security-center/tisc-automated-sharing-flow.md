@@ -77,31 +77,31 @@ Automated sharing of high-risk IOC's with trusted partners triggers only when:
 
 8.  End the flow for this sharing of high-risk IOCs with trusted partners.
 
-    ![Automated IOC Enrichment in TISC.](../image/tisc-automated-intel-share.png)
+    ![Automated IOC Enrichment in TISC.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-automated-intel-share.png)
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-automated-flows.md)
 
 **Related topics**  
 
 
-[Automated IOC Enrichment](tisc-ioc-enrichment.md)
+[Automated IOC Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc-enrichment.md)
 
-[Automatically add threat intelligence to a TAXII collection](tisc-taxii-automated-flow.md)
+[Automatically add threat intelligence to a TAXII collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-automated-flow.md)
 
-[Create vulnerability assessment for zero day](tisc-create-vul-assess.md)
+[Create vulnerability assessment for zero day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-vul-assess.md)
 
-[Analyze, assess, and disseminate observables](tisc-disseminate-observables.md)
+[Analyze, assess, and disseminate observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-disseminate-observables.md)
 
-[Analyze and assess threat IoC’s](tisc-analyze-ioc.md)
+[Analyze and assess threat IoC’s](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-analyze-ioc.md)
 
-[Vulnerability Management Support](tisc-vul-mgmt.md)
+[Vulnerability Management Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-mgmt.md)
 
-[Zero-day vulnerability tracking](tisc-zero-vul.md)
+[Zero-day vulnerability tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-flows-tables.md)
 
-[Automated Sharing of Outbound Intelligence Records](../concept/tisc-automated-outbound-intel-share.md)
+[Automated Sharing of Outbound Intelligence Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-automated-outbound-intel-share.md)
 
-[Sharing of Outbound Intelligence Records from GUI](../concept/tisc-create-intel-records-lib.md)
+[Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-create-intel-records-lib.md)
 

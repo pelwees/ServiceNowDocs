@@ -17,12 +17,12 @@ With advanced risk assessment for your projects, you can easily identify if any 
 
 |Feature|Project Portfolio Management|Advanced Risk|Both applications together|
 |-------|----------------------------|-------------|--------------------------|
-|Project risk assessment|![Yes](../../reuse/images/icon-check-mark-green.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Elevating to enterprise risk|![No](../../reuse/images/icon-error-red-x.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Assessing inherent and residual risks|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Integrated project and enterprise risk registers|![No](../../reuse/images/icon-error-red-x.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Risk heatmaps|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
-|Enterprise project risk overview dashboard|![No](../../reuse/images/icon-error-red-x.png)|![No](../../reuse/images/icon-error-red-x.png)|![Yes](../../reuse/images/icon-check-mark-green.png)|
+|Project risk assessment|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Elevating to enterprise risk|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Assessing inherent and residual risks|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Integrated project and enterprise risk registers|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Risk heatmaps|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
+|Enterprise project risk overview dashboard|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)|
 
 ## Workflow of advanced project risk assessment
 
@@ -33,7 +33,7 @@ Use Project Portfolio Management \(PPM\) and Advanced Risk Assessment \(ARA\) to
 
 The following figure shows an example workflow of how a project manager, risk specialist, and enterprise risk manager use the applications together to assess and mitigate risks both at the project and enterprise level.
 
-![Advanced Risk Assessment with Project Portfolio Management Workflow](../image/ara-ppm-workflow-bottom_v2_asset0012692.png "The Project Portfolio Management and Advanced Risk workflow")
+![Advanced Risk Assessment with Project Portfolio Management Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../image/ara-ppm-workflow-bottom_v2_asset0012692.png "The Project Portfolio Management and Advanced Risk workflow")
 
 In this workflow:
 
@@ -74,5 +74,5 @@ To get started with assessing your project risks, follow these steps:
     Role: sn\_risk.admin, it\_project\_manager.
 
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

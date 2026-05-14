@@ -19,7 +19,7 @@ To modify the system properties, log in as a user with the `sn_si.admin` role an
 
 The default configuration settings are displayed. You can modify these settings if required.
 
-![Secureworks CTP: Integration Settings](../image/secureworks-integration-settings.gif)
+![Secureworks CTP: Integration Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-integration-settings.gif)
 
 Any modified integration settings will be applied during the next polling interval as defined in the profile.
 

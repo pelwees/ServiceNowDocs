@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Select **Import**.
 
-    The **Import external data into Invoice Import** page appears. For more information on importing data through transform map, see [Run transform to update invoice data](run-transform.md).
+    The **Import external data into Invoice Import** page appears. For more information on importing data through transform map, see [Run transform to update invoice data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/run-transform.md).
 
     **Note:** Follow the same steps for invoice lines and invoice payment.
 

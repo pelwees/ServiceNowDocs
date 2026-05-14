@@ -49,5 +49,5 @@ If a monitor was configured to generate an alert when it fails, a link to the al
 
 When you see a failure or high latency, select a test to view details, including the response body, which might help explain any issues.
 
-![A modal displays information about the test including a response body that states that the request was to a bad gateway.](../image/sys-mon-failed_monitor.png "Response body in the details modal")
+![A modal displays information about the test including a response body that states that the request was to a bad gateway.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/sys-mon-failed_monitor.png "Response body in the details modal")
 

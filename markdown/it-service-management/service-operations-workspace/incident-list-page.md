@@ -53,7 +53,7 @@ Description
 
 </td><td>
 
-Displays the count of the total number of records in a list. The fuzzyCount UX property is not applied to the SOW list page.![Count of incidents](../image/fuzzycount.png)
+Displays the count of the total number of records in a list. The fuzzyCount UX property is not applied to the SOW list page.![Count of incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/fuzzycount.png)
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Displays the count of the total number of records in a list. The fuzzyCount UX p
 
 Displays the count of the number of records in a list as &lt;integer+&gt;.For example, if the incident has 124 records, if you configure the value of the property as 10, the system displays the count of incidents as 10+.
 
-![Count after updating the value of fuzzyCount property](../image/fuzzycount-2.png)
+![Count after updating the value of fuzzyCount property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/fuzzycount-2.png)
 
 </td></tr><tr><td>
 
@@ -77,5 +77,5 @@ Displays the count of the number of records in a list as &lt;integer+&gt;. You c
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-sow-to-improve-experience.md)
 

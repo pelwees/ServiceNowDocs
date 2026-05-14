@@ -23,7 +23,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the contractor management icon \(![Contractor management icon](../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
+2.  Select the contractor management icon \(![Contractor management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../image/icon-contractor-mgmt.png)\) to open the **Contractor Management** tab.
 
 3.  In the **Lists** tab, select **Contractor companies** and then **All**.
 
@@ -37,9 +37,9 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
         The **Primary contact** field displays only users who have been assigned the \[snc\_external\] role and have the Health and Safety profile created for them.
 
-        For more information, see [Assign Health and Safety profile to a contractor worker](hs-assign-hs-user-profile-contract-worker.md).
+        For more information, see [Assign Health and Safety profile to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md).
 
-6.  If necessary, add attachments related to the company using the add attachments icon \(![Add attachment icon.](../../ohs-incident-management/image/icon-add-attachment.png)\).
+6.  If necessary, add attachments related to the company using the add attachments icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../ohs-incident-management/image/icon-add-attachment.png)\).
 
 7.  Select **Save**.
 
@@ -59,10 +59,10 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
     -   Select **Add** to link an existing document stored in the **Health and Safety document library** list.
     -   Select **New** to upload a new document.
-    For information on storing safety-related documents in Health and Safety Workspace, see [Add a new Health and Safety related document](../../ohs-incident-management/task/add-hs-related-document.md).
+    For information on storing safety-related documents in Health and Safety Workspace, see [Add a new Health and Safety related document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../ohs-incident-management/task/add-hs-related-document.md).
 
 -   In the **Site access** tab, select **New** to grant site access to workers from this contractor company so that they can perform required tasks at your location.
 
-    If any workers associated with this company already have the site access, they appear in this list. For information on adding site access for a worker, see [Grant site access to a contractor worker](hs-grant-site-access-worker.md).
+    If any workers associated with this company already have the site access, they appear in this list. For information on adding site access for a worker, see [Grant site access to a contractor worker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-grant-site-access-worker.md).
 
 

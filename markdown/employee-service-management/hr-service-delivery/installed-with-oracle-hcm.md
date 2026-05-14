@@ -58,17 +58,17 @@ Trigger Oracle HCM Integration flow
 
 </td><td>
 
-Pull data from Oracle HCM Cloud to a ServiceNow® instance. By default, the flow is in inactive state. For information on how to activate the flow, see [Activate schedule flows](../task/setup-the-job.md).
+Pull data from Oracle HCM Cloud to a ServiceNow® instance. By default, the flow is in inactive state. For information on how to activate the flow, see [Activate schedule flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/setup-the-job.md).
 
 </td></tr></tbody>
 </table>## Tables installed
 
-The tables required for HR Service Delivery integration with Oracle Cloud HCM are obtained from the Enterprise Service Management Integrations Framework. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery integration with Oracle Cloud HCM application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](installed-with-hr-int-fra.md).
+The tables required for HR Service Delivery integration with Oracle Cloud HCM are obtained from the Enterprise Service Management Integrations Framework. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery integration with Oracle Cloud HCM application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-hr-int-fra.md).
 
-**Parent Topic:**[Reference - HR Service Delivery integration with Oracle Cloud HCM](reference-hrsd-int-oracle-cloud-hcm.md)
+**Parent Topic:**[Reference - HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-hrsd-int-oracle-cloud-hcm.md)
 
 **Related topics**  
 
 
-[Transform maps for HR Service Delivery integration with Oracle Cloud HCM](oracle-hcm-transform-maps.md)
+[Transform maps for HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-hcm-transform-maps.md)
 

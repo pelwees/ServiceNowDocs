@@ -52,9 +52,9 @@ For more information on how to create or customize playbooks, see [Configuring P
 
 [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-experience-admins.md)
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace-ppw.md)
+[Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/playbooks-in-demand-workspace-ppw.md)
 
-[Use Playbooks](use-playbooks-in-ppw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-default-playbook-stages-activities-ppw.md)
 

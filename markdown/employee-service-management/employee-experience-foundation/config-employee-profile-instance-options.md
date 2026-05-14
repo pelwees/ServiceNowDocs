@@ -64,5 +64,5 @@ Select to display the left navigation menu \(widget overview panel\).
 **Related topics**  
 
 
-[Employee profile](../concept/employee-profile-portal.md)
+[Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-profile-portal.md)
 

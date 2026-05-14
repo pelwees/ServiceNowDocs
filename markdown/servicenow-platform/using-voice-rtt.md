@@ -50,5 +50,5 @@ Persona: Customer Service Agent.
 
 An interaction is created with the subject “outbound call to `<customer name>`”, and a chat panel opens with the transcript.
 
-**Parent Topic:**[Integrating ServiceNow Voice with CSM](integrating-ccc-csm.md)
+**Parent Topic:**[Integrating ServiceNow Voice with CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/integrating-ccc-csm.md)
 

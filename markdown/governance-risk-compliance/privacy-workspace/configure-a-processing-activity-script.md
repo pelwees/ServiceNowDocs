@@ -83,5 +83,5 @@ Script to be used to update the processing activity.
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Create a privacy assessment](create-assessment-template.md)
+**Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 

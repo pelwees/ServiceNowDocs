@@ -31,8 +31,8 @@ Compress one or more record attachments into a single zip archive. You can also 
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
-**Parent Topic:**[ZIP step](zip-step.md)
+**Parent Topic:**[ZIP step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/zip-step.md)
 

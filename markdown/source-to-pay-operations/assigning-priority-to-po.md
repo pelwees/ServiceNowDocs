@@ -22,14 +22,14 @@ The Priority field for purchase order exceptions can have one of the following v
 
 As an admin, you can configure the **Set Impact and Urgency fields for Priority** business rule to fit your business practices. To calculate impact and urgency level automatically based on the product model and supplier, use this business rule to create your own advanced configurations.
 
-**Parent Topic:**[Configure Purchase Order Management](configure-purch-order-mgmt.md)
+**Parent Topic:**[Configure Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-purch-order-mgmt.md)
 
 **Related topics**  
 
 
-[Install Purchase Order Management](../task/install-purch-order-mgmt.md)
+[Install Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/install-purch-order-mgmt.md)
 
-[Assigning purchase order exceptions to buyers](assigning-po-exceptions-to-buyers.md)
+[Assigning purchase order exceptions to buyers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/assigning-po-exceptions-to-buyers.md)
 
-[Domain separation and Purchase Order Management](domain-separation-pom.md)
+[Domain separation and Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/domain-separation-pom.md)
 

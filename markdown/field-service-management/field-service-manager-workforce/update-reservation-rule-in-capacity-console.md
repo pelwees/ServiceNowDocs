@@ -43,9 +43,9 @@ Use contextual side panel \(CSP\) to:
 
     The Territory summary page appears in the contextual side panel.
 
-5.  To update the capacity value, select the Edit ![Edit icon](../image/edit-mobile-icon.png) icon and change the value in terms of hours or tasks in whichever way the capacity definition is defined.
+5.  To update the capacity value, select the Edit ![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/edit-mobile-icon.png) icon and change the value in terms of hours or tasks in whichever way the capacity definition is defined.
 
-6.  To change the applied reservation, select the Actions ![Actions icon.](../image/more_actions.png) icon and click **Override Reservation**.
+6.  To change the applied reservation, select the Actions ![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/more_actions.png) icon and click **Override Reservation**.
 
     1.  In the **Reservation** field, select an existing reservation from the drop-down menu.
 
@@ -78,7 +78,7 @@ Use contextual side panel \(CSP\) to:
 
 The following snapshots showcases the actions performed in the contextual side panel of the capacity console.
 
-![Capacity console contextual side panel showcasing the options to open the reservation record and override reservation.](../image/reservation-rule-update.png)
+![Capacity console contextual side panel showcasing the options to open the reservation record and override reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/reservation-rule-update.png)
 
-![Capacity console contextual side panel showcasing the option to copy and modify the reservation.](../image/copy-reservation.png)
+![Capacity console contextual side panel showcasing the option to copy and modify the reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/copy-reservation.png)
 

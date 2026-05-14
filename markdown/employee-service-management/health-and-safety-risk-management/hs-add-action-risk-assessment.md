@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\) to open the **Risk assessment** list.
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\) to open the **Risk assessment** list.
 
 3.  Create an action from a risk assessment record or the Risk actions list.
 
@@ -45,7 +45,7 @@ Steps
 2.  In the list, open a risk assessment.
 3.  In the **Action schedules** tab, set up actions for the risk assessment.
 
-For more information, see [Create a Health and Safety action schedule](../../ohs-incident-management/task/create-health-safety-action-schedule.md).
+For more information, see [Create a Health and Safety action schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/task/create-health-safety-action-schedule.md).
 
  The action schedule creates actions in the **Risk actions** tab and auto-assigns them to individuals using the condition builder.
 
@@ -59,7 +59,7 @@ For more information, see [Create a Health and Safety action schedule](../../ohs
 2.  Select **New**.
 3.  On the form, fill in the fields.
 
-For information on field descriptions, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+For information on field descriptions, see [Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/reference/hs-action-form.md).
 
 4.  Select **Save**.
 
@@ -78,5 +78,5 @@ If needed, you can share the action, independent of the risk, with other groups 
 -   The action is duplicated and appears in the **My Tasks** list of the assigned user on the Employee Center.
 -   The action is also listed in the **Actions** list on the Health and Safety Workspace.
 
-**Parent Topic:**[Safety risk assessment](../concept/hs-risk-assessment.md)
+**Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-risk-assessment.md)
 

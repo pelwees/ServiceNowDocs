@@ -17,7 +17,7 @@ Life cycle management in the Service Graph Connector for AWS monitors and update
 
 The life cycle management process helps maintain the accuracy and integrity of data in the Configuration Management Database \(CMDB\).
 
-In life cycle management, the record removal process involves systematically deleting obsolete or unnecessary resources. This step ensures that outdated entries are cleared, keeping the CMDB accurate and up-to-date. See [Record removal process in Service Graph Connector for AWS](sgc-cmdb-aws-removal.md).
+In life cycle management, the record removal process involves systematically deleting obsolete or unnecessary resources. This step ensures that outdated entries are cleared, keeping the CMDB accurate and up-to-date. See [Record removal process in Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-removal.md).
 
 ## Life cycle management for CIs in Service Graph Connector for AWS
 
@@ -80,5 +80,5 @@ The following table lists the configuration items \(CIs\) in CMDB and other non-
 |SG-AWS-Generic-Tags|Key Value \[cmdb\_key\_value\]|No|
 |SG-AWS-Get-Inventory|Server \[cmdb\_ci\_server\]|Yes|
 
-**Parent Topic:**[Service Graph Connector for AWS reference](sgc-cmdb-aws-reference.md)
+**Parent Topic:**[Service Graph Connector for AWS reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-reference.md)
 

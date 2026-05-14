@@ -173,5 +173,5 @@ Industry Core \(com.sn\_ind\)
 Includes common objects, code artifacts, and request definitions for industry vertical applications.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[EMR Help reference](emr-reference.md)
+</table>**Parent Topic:**[EMR Help reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-reference.md)
 

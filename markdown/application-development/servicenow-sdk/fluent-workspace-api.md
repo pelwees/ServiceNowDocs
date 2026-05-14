@@ -20,16 +20,16 @@ The Workspace API defines configurable workspace experiences for organizing and 
 
 The Workspace API creates application metadata in the following tables depending on the workspace definition: UX Application \[sys\_ux\_page\_registry\], UX App Configuration \[sys\_ux\_app\_config\], UX Application Category M2M \[sys\_ux\_registry\_m2m\_category\], UX Page Property \[sys\_ux\_page\_property\], UX Screen Collection \[sys\_ux\_screen\_type\], UX App Route \[sys\_ux\_app\_route\], UX Screen \[sys\_ux\_screen\], and UX Macroponent Definition \[sys\_ux\_macroponent\].
 
-Dashboards can be used as the home page of a workspace by referring to one or more workspaces from the visibilities array of the Dashboard object. To create a dashboard, see [Dashboard API - ServiceNow Fluent](fluent-dashboard-api.md#).
+Dashboards can be used as the home page of a workspace by referring to one or more workspaces from the visibilities array of the Dashboard object. To create a dashboard, see [Dashboard API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-dashboard-api.md#).
 
 For general information about workspaces, see [Configurable Workspace UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## Workspace object
 
@@ -57,7 +57,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Reference
 
 </td><td>
 
-Required. The variable identifier of a UxListMenuConfig object that defines the navigation structure of the workspace. For more information, see [UxListMenuConfig object](fluent-workspace-api.md#).
+Required. The variable identifier of a UxListMenuConfig object that defines the navigation structure of the workspace. For more information, see [UxListMenuConfig object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Array
 
 </td><td>
 
-A list of top-level groupings in the list configuration. For more information, see [categories array](fluent-workspace-api.md#).
+A list of top-level groupings in the list configuration. For more information, see [categories array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 </td></tr></tbody>
 </table>```javascript
@@ -284,7 +284,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -308,7 +308,7 @@ Array
 
 </td><td>
 
-Required. A list of list views in the category. For more information, see [lists array](fluent-workspace-api.md#).
+Required. A list of list views in the category. For more information, see [lists array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 </td></tr><tr><td>
 
@@ -411,7 +411,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -495,7 +495,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Applicability objects that control which roles can view the list. For more information, see [Applicability object](fluent-workspace-api.md#).
+A list of variable identifiers of Applicability objects that control which roles can view the list. For more information, see [Applicability object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-workspace-api.md#).
 
 </td></tr></tbody>
 </table>```javascript
@@ -557,7 +557,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -605,7 +605,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles that a user must have to view the list. For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or sys\_ids of roles that a user must have to view the list. For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 

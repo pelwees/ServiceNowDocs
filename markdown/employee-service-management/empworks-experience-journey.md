@@ -25,7 +25,7 @@ You can update your personal information by:
 -   Confirm the changes so both records update in SAP SuccessFactors at the same time.
 -   Access helpful resources like the employee handbook and payroll information that the assistant suggests. Moving across state lines often affects your benefits.
 
-See [Update personal records with the AI assistant](../task/empworks-update-hr-records.md).
+See [Update personal records with the AI assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/empworks-update-hr-records.md).
 
 ## Research a prospect and generate an artifact
 
@@ -38,7 +38,7 @@ You can prepare for a meeting with a manufacturing prospect like Atlas Industria
 -   Request an NDA for your prospect contact.
 -   Review the pre-filled document with all the contact information and confirm before sending it through DocuSign.
 
-See [Research prospects and generate artifacts with the AI assistant](../task/empworks-research-external-content.md).
+See [Research prospects and generate artifacts with the AI assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/empworks-research-external-content.md).
 
 ## Submit a request in the split view
 
@@ -63,7 +63,7 @@ You can search across knowledge base and content from Enterprise Search. You get
 -   Select **Dive Deeper** to continue the conversation with the AI assistant.
 -   Ask `who the presales expert is for manufacturing demos` and the assistant shows you the relevant information from content sources such as SharePoint.
 
-See [Search enterprise content with Enterprise Search](../task/empworks-search-enterprise-content.md).
+See [Search enterprise content with Enterprise Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/empworks-search-enterprise-content.md).
 
 ## Stay one message away, everywhere
 
@@ -82,7 +82,7 @@ You can manage all your work routines using the same AI assistant apps in portal
 **Related topics**  
 
 
-[Employee Slate for Moveworks](employee-slate-moveworks.md)
+[Employee Slate for Moveworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-moveworks.md)
 
-[Moveworks AI assistant capabilities](empworks-moveworks-capabilities.md)
+[Moveworks AI assistant capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/empworks-moveworks-capabilities.md)
 

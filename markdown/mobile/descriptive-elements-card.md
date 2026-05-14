@@ -15,11 +15,11 @@ Add a card descriptive element before an input ﬁeld, within an input form scre
 
 ## Before you begin
 
-**Note:** Card descriptive elements are configured in the ServiceNow AI Platform, whereas image, text and rich text descriptive elements are configured in the Mobile App Builder. For the configuration of image, text, or rich text descriptive elements see, [Configure descriptive elements for input form screens](descriptive-elements-script.md).
+**Note:** Card descriptive elements are configured in the ServiceNow AI Platform, whereas image, text and rich text descriptive elements are configured in the Mobile App Builder. For the configuration of image, text, or rich text descriptive elements see, [Configure descriptive elements for input form screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-script.md).
 
 Role required: admin
 
-To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [Mobile Card Builder](../concept/mobile-card-builder.md).
+To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [Mobile Card Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-card-builder.md).
 
 When using a preconfigured mobile card, consider the following:
 
@@ -31,11 +31,11 @@ When using a preconfigured mobile card, consider the following:
 
 <table id="table_sw1_f1b_cgc"><tbody><tr><td>
 
-You can add card descriptive elements to input ﬁelds, sections that contain input ﬁelds, or input form sections without any inputs. Descriptive elements can be a selection of simple text, rich text, an image or a mobile card that precedes an input. This topic deals with the configuration of descriptive element of type card. For the configuration of image, text, or rich text descriptive elements see, [Configure descriptive elements for input form screens](descriptive-elements-script.md).
+You can add card descriptive elements to input ﬁelds, sections that contain input ﬁelds, or input form sections without any inputs. Descriptive elements can be a selection of simple text, rich text, an image or a mobile card that precedes an input. This topic deals with the configuration of descriptive element of type card. For the configuration of image, text, or rich text descriptive elements see, [Configure descriptive elements for input form screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-script.md).
 
 </td><td>
 
-![Input form screen with a card descriptive element at the top.](../image/desc-element-card.png)
+![Input form screen with a card descriptive element at the top.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/desc-element-card.png)
 
 </td></tr></tbody>
 </table>## Procedure
@@ -54,7 +54,7 @@ You can add card descriptive elements to input ﬁelds, sections that contain in
 
     -   **Input** for the card to precede the input.
     -   **Input form section** for the card to exist within the specific section.
-7.  In the **Parent** field, select an input or input section that is on your input form screen by selecting the lookup \(![Reference lookup icon.](../image/reference-lookup-icon.png)\) icon.
+7.  In the **Parent** field, select an input or input section that is on your input form screen by selecting the lookup \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) icon.
 
 8.  Select the relevant input and then select **OK**.
 
@@ -68,7 +68,7 @@ You can add card descriptive elements to input ﬁelds, sections that contain in
 
     1.  Navigate to **All** &gt; **sys\_sg\_view\_config.list**.
     2.  Select the card that you want to display as a descriptive element.
-    3.  Select and hold \(or right-click\) the menu icon \(![Context menu icon.](../image/mobile-more-icon.png)\) and then select **Copy sys\_id**.
+    3.  Select and hold \(or right-click\) the menu icon \(![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-more-icon.png)\) and then select **Copy sys\_id**.
     4.  Paste the sys\_id into the **Value** column.
 11. Select **Update**.
 

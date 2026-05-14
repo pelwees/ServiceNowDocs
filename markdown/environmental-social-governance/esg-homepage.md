@@ -17,7 +17,7 @@ The Operational Sustainability Workspace displays different sections to provide 
 
 The following image shows you the operational sustainability home page.
 
-![Operational sustainability dashboard](../images/operational-sustainability-workspace.png)
+![Operational sustainability dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/operational-sustainability-workspace.png)
 
 Each section of the dashboard is explained in the following sections.
 
@@ -120,5 +120,5 @@ You can view material topics in one of the following formats:
 
 You can use the ability to search the Operational Sustainability Workspace by using the Search field. To search the Operational Sustainability Workspace, select **Operational Sustainability Workspace** from the list. The search results appear on the contextual side panel.
 
-**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](esg-new-explore.md)
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 

@@ -30,14 +30,14 @@ Role required: catalog\_admin or admin
 4.  Right-click on the form header and click **Save**.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-templates-record-producers.md)
 
 **Related topics**  
 
 
-[Create incident template](t_CreateAnIncidentTemplate.md)
+[Create incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateAnIncidentTemplate.md)
 
-[Create a module that uses incident template](t_UseATemplateFromAModule.md)
+[Create a module that uses incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_UseATemplateFromAModule.md)
 
-[Create a record producer to log incidents](t_CreateARecordProducer.md)
+[Create a record producer to log incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateARecordProducer.md)
 

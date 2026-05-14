@@ -25,5 +25,5 @@ Input variables determine the initial behavior of the activity.
 |-----|-----------|
 |Script|Script to execute.|
 
-**Parent Topic:**[Utility workflow activities](../concept/c_UtilityActivities.md)
+**Parent Topic:**[Utility workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_UtilityActivities.md)
 

@@ -35,8 +35,8 @@ Role required: safe\_admin or safe\_art\_user
 
     2.  On the form, fill in the fields and submit it.
 
-        For more information on the Feature form fields, see [Define a feature in SAFe](create-SAFefeature.md).
+        For more information on the Feature form fields, see [Define a feature in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFefeature.md).
 
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/program-level-tabs.md)
 

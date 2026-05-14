@@ -21,7 +21,7 @@ All you need to do is describe the business problem you want to solve, and Build
 
 As part of the agent and skill creation process, Build Agent guides you through defining access controls and permissions alongside the agent itself, keeping governance integrated from the start. Once created, you can test and activate the agent in AI Agent Studio, then monitor and govern it in AI Control Tower.
 
-**Note:** You need Now Assist for App Engine to create agents and skills. For more information, see [Now Assist for App Engine](../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md).
+**Note:** You need Now Assist for App Engine to create agents and skills. For more information, see [Now Assist for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../app-engine-studio/concept/add-ai-to-custom-apps-with-now-assist-for-app-engine-enterprise.md).
 
 ## Custom in-app agents
 
@@ -41,7 +41,7 @@ You can create custom skills individually, that is, they don't need to be used a
 
 Some ServiceNow resources that can provide you with helpful information are:
 
--   **[Create agentic workflows, agents, and skills](../../build-agent/tasks/create-custom-ai-agent.md)**
+-   **[Create agentic workflows, agents, and skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../build-agent/tasks/create-custom-ai-agent.md)**
 
     Details on how to create custom agentic workflows, in-app agents, and skills with Build Agent.
 
@@ -50,5 +50,5 @@ Some ServiceNow resources that can provide you with helpful information are:
     Pro Dev Academy session recording on vibe coding in-app agents.
 
 
-**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](vc-build-agent-landing.md)
+**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-landing.md)
 

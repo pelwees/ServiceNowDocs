@@ -21,7 +21,7 @@ Review the process of preparing a subflow for use in a parent workflow, and for 
 
 2.  In the title bar, click the menu icon and select **Edit Inputs**.
 
-    ![Editing workflow inputs](../image/SubflowEditInputs.png)
+    ![Editing workflow inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/SubflowEditInputs.png)
 
 3.  In the Workflow Inputs window, click **New** in the **Variables** list.
 
@@ -29,7 +29,7 @@ Review the process of preparing a subflow for use in a parent workflow, and for 
 
     The following example sets up a string value.
 
-    ![Adding new variables](../image/SubflowNewVariables.png)
+    ![Adding new variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/SubflowNewVariables.png)
 
 5.  Click **Submit**.
 
@@ -43,18 +43,18 @@ Review the process of preparing a subflow for use in a parent workflow, and for 
 
     -   Create a new field on the request form but do not display the field. This serves as temporary storage.
 
-        ![Create a script to set the parameter value](../image/RunScriptSetParaValue.png)
+        ![Create a script to set the parameter value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/RunScriptSetParaValue.png)
 
 8.  Create a **Notification** activity on the subflow and use `${description}` in the subject to return the value from the field.
 
-    ![Setting up the notification to return a value](../image/NotificationActivityValues.png)
+    ![Setting up the notification to return a value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/NotificationActivityValues.png)
 
     This is what the subflow would look like:
 
-    ![Completed subflow](../image/WorkflowWithSubflow.png)
+    ![Completed subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/WorkflowWithSubflow.png)
 
 
-**Parent Topic:**[Workflows used as subflows](../reference/workflows-as-subflows.md)
+**Parent Topic:**[Workflows used as subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../reference/workflows-as-subflows.md)
 
 ## Prepare a workflow to use a subflow
 
@@ -66,7 +66,7 @@ After you create a subflow, use this procedure to prepare the parent workflow.
 
     In the following example, the variable is named **Blue Main Variable**.
 
-    ![Creating input variables for the workflow](../image/ParentWorkflowInputVariable.png)
+    ![Creating input variables for the workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/ParentWorkflowInputVariable.png)
 
 2.  Click **Submit**.
 
@@ -76,7 +76,7 @@ After you create a subflow, use this procedure to prepare the parent workflow.
 
     `workflow.scratchpad.bluemainvariable = current.short_description;`
 
-    ![Run script activity properties](../image/RunScriptActivityProperty.png)
+    ![Run script activity properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/RunScriptActivityProperty.png)
 
 4.  Click **Submit**.
 
@@ -86,6 +86,6 @@ After you create a subflow, use this procedure to prepare the parent workflow.
 
     This is what the main workflow looks like:
 
-    ![Completed sample workflow with a subflow](../image/WorkflowExampleWithSubflow.png)
+    ![Completed sample workflow with a subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/WorkflowExampleWithSubflow.png)
 
 

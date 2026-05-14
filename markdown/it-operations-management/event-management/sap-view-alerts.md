@@ -23,13 +23,13 @@ Role required: evt\_mgt\_admin
 
 1.  On the SAP UI, open Solution Manager and select the **System Alerts** tab.
 
-    ![Solution Manager UI](../image/sap-solman-solution-mgr-ui.png)
+    ![Solution Manager UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-solution-mgr-ui.png)
 
     The system alerts are listed on the page.
 
 2.  Navigate to \(**Event Management** &gt; **All Alerts\)** to view the alerts in Event Management.
 
-    ![Alerts in Event Management UI](../image/sap-solman-alerts-in-em.png)
+    ![Alerts in Event Management UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-alerts-in-em.png)
 
     The following table describes the field mapping between SAP Solution Manager and Event Management for alerts.
 
@@ -78,5 +78,5 @@ Here’s how the alert is mapped in Event Management:
 |Rating|Red|
 |Mandant|100|
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

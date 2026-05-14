@@ -25,7 +25,7 @@ All the reports are updated daily or whenever a new reconciliation result is ava
 
 You can access the Engineering license overview dashboard by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Engineering license overview**.
 
-![Engineering Overview dashboard in workspace](../image/engineering-dboard-workspace.png "Engineering license overview dashboard")
+![Engineering Overview dashboard in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/engineering-dboard-workspace.png "Engineering license overview dashboard")
 
 <table id="table_xts_cjh_dpb"><thead><tr><th>
 

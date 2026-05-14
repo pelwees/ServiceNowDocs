@@ -24,17 +24,17 @@ The indexed content and metadata are stored as records in a connector-specific i
 
 The Adobe Experience Manager as a Cloud Service external content connector only crawls assets. It doesn't crawl web page content or social content such as reviews, blog posts, or comments. All asset content retrieved by the connector is treated as public, meaning that it's searchable by all users with access to your configured AI Search experience.
 
--   **[Configure Adobe Experience Manager as a Cloud Service for external content indexing](../task/configure-adobe-expmgr-cs-external-content-indexing.md)**  
+-   **[Configure Adobe Experience Manager as a Cloud Service for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-adobe-expmgr-cs-external-content-indexing.md)**  
 Create Service Credentials in Adobe Cloud Manager to allow the Adobe Experience Manager as a Cloud Service external content connector to access nodes and assets in your source system.
--   **[Create an Adobe Experience Manager as a Cloud Service external content connector](../task/create-ext-cont-connector-adobe-expmgr-cs.md)**  
+-   **[Create an Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-ext-cont-connector-adobe-expmgr-cs.md)**  
 Create an external content connector to retrieve searchable content from your Adobe Experience Manager as a Cloud Service source system.
--   **[Configure crawl settings for an Adobe Experience Manager as a Cloud Service external content connector](../task/configure-crawl-settings-adobe-expmgr-cs-external-content-connector.md)**  
+-   **[Configure crawl settings for an Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-crawl-settings-adobe-expmgr-cs-external-content-connector.md)**  
 Specify the nodes you want your Adobe Experience Manager as a Cloud Service external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
-**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ext-cont-connectors.md)
 
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-content-crawl-external-content-connector.md)
 

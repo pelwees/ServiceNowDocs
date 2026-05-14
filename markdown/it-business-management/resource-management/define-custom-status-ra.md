@@ -31,7 +31,7 @@ Role required: admin
 
 5.  Right-click on the Resource status label and select **Show Choice List**.
 
-    ![GIF showing the Show Choice List option to define custom resource assignment status.](../images/rmw-custom-ra-status-gif.gif)
+    ![GIF showing the Show Choice List option to define custom resource assignment status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-custom-ra-status-gif.gif)
 
 6.  Select a status field to open the record.
 
@@ -44,5 +44,5 @@ Role required: admin
     **Important:** Selecting **Save** or **Update** overwrites the selected resource status in Step 4.
 
 
-**Parent Topic:**[Configure Resource Management Workspace](../concept/configure-rmw.md)
+**Parent Topic:**[Configure Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/configure-rmw.md)
 

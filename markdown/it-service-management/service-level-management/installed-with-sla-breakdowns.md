@@ -15,7 +15,7 @@ breadcrumb: [Activate SLA Breakdown definitions, Service Level Management plugin
 
 Several types of components are installed with the SLA breakdown definitions.
 
-**Parent Topic:**[Activate SLA Breakdown definitions](activate-sla-breakdowns-plugin.md)
+**Parent Topic:**[Activate SLA Breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/activate-sla-breakdowns-plugin.md)
 
 ## Plugins installed with SLA breakdowns
 

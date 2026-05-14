@@ -39,7 +39,7 @@ Follow these general guidelines when designing flows containing Password \(2 Way
 
     You can only assign a value to a password2 variable by selecting an existing password2 data pill. Selecting values from other field types is not supported. Workflow Studio presents a warning message when invalid data pill types are selected.
 
-    ![The warning message displayed when dragging a non-password2 data pill onto a password2 field.](../images/password2-field-warning.ong.png)
+    ![The warning message displayed when dragging a non-password2 data pill onto a password2 field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/password2-field-warning.ong.png)
 
     **Note:** You cannot manually enter Password \(2 Way Encrypted\) values.
 
@@ -47,7 +47,7 @@ Follow these general guidelines when designing flows containing Password \(2 Way
 
     Workflow Studio prevents selecting Password2 data pills as the value for invalid field types. The system presents a warning message when the field is an incompatible type.
 
-    ![The warning shown when dragging a password2 field to a disallowed field.](../images/password2-field-warning2.png)
+    ![The warning shown when dragging a password2 field to a disallowed field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/password2-field-warning2.png)
 
     Workflow Studio only allows Password2 data pills to be dragged into the following field types.
 
@@ -74,5 +74,5 @@ Follow these general guidelines when designing flows containing Password \(2 Way
     Only users with a valid encryption module access can decrypt and view the contents of password2 variables. To specify the encryption algorithm and which roles can access encrypted data, see [Password2 encryption with KMF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md) .
 
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

@@ -17,19 +17,19 @@ Use Now Assist for Workflow Data Fabric \(WDF\) to describe what you want to ach
 
 <table id="table_i1m_zbk_xhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for WDF](exploring-now-assist-for-workflow-data-fabric.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for WDF](exploring-now-assist-for-workflow-data-fabric.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for WDF to get started](../task/configure-now-assist-for-workflow-data-fabric.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Now Assist for WDF to get started](../task/configure-now-assist-for-workflow-data-fabric.md)
 
 </td></tr><tr><td>
 
-[Ask Now Assist![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to get guidance from Now Assist for WDF](../task/ask-now-assist-for-recommendation.md)
+[Ask Now Assist![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how to get guidance from Now Assist for WDF](../task/ask-now-assist-for-recommendation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for WDF background information](now-assist-for-workflow-data-fabric-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist for WDF background information](now-assist-for-workflow-data-fabric-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

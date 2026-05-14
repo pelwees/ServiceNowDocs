@@ -17,7 +17,7 @@ Turn on the flow generation skill to use generative AI to create and edit flows.
 
 ## Before you begin
 
--   Install the Now Assist for Creator application. See [Install Now Assist for Creator](install-now-assist-for-creator.md).
+-   Install the Now Assist for Creator application. See [Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/install-now-assist-for-creator.md).
 -   Role required: admin
 
 ## About this task
@@ -30,18 +30,18 @@ Turn on the flow generation skill to use generative AI to create and edit flows.
 
 2.  In the workflow list, select **Creator**.
 
-    ![List of cards displayed when selecting Now Assist skills for Creator](../../now-assist-skills/image/na-creator-skill-cards.png)
+    ![List of cards displayed when selecting Now Assist skills for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-skills/image/na-creator-skill-cards.png)
 
 3.  In the Flow generation card, select **Turn on**.
 
 4.  In the Flow generation card, verify that the skill is active.
 
-    ![Flow generation skill listed as active skill](../../now-assist-skills/image/na-creator-flow-skills-active.png)
+    ![Flow generation skill listed as active skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../now-assist-skills/image/na-creator-flow-skills-active.png)
 
 
 ## What to do next
 
 Grant the now.assist.creator and flow\_designer roles to each user who will use the flow generation skill.
 
-**Parent Topic:**[Flow generation](../reference/flow-generation-landing.md)
+**Parent Topic:**[Flow generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-generation-landing.md)
 

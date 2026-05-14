@@ -131,8 +131,8 @@ The Australia release includes an installation of CMDB Workspace. However, you c
 
 -   **[Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)**
 
-    Use ServiceNow® Now Assist for CMDB to improve the quality of CMDB data, get help as you search the CMDB, troubleshoot issues with Service Graph Connector import sets, remediate duplicate CIs, manually create CIs, and view the comprehensive summaries for CIs. For release notes, see [Now Assist for Configuration Management Database \(CMDB\) release notes](now-assist-cmdb-rn.md).
+    Use ServiceNow® Now Assist for CMDB to improve the quality of CMDB data, get help as you search the CMDB, troubleshoot issues with Service Graph Connector import sets, remediate duplicate CIs, manually create CIs, and view the comprehensive summaries for CIs. For release notes, see [Now Assist for Configuration Management Database \(CMDB\) release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-assist-cmdb-rn.md).
 
 
-**Parent Topic:**[ServiceNow AI Platform capabilities release notes](now-platform-capabilities-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-capabilities-rn-landing.md)
 

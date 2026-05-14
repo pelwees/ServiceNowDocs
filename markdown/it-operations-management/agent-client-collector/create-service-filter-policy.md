@@ -35,7 +35,7 @@ Role required: agent\_client\_collector\_admin
 
     The **Application Service filter** section appears.
 
-    ![Application service filter section](../image/app-service-filter.png "Application Service filter section")
+    ![Application service filter section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/app-service-filter.png "Application Service filter section")
 
 5.  Configure conditions in the fields and select **Save** at the bottom of the page.
 

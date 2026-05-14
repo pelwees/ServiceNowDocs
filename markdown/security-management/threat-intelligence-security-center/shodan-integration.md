@@ -21,7 +21,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:** The Threat Intelligence Security Center and Whois Observable Enrichment plugins must be installed and active.
 
-Download the Whois integration from the ServiceNow Store and verify you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+Download the Whois integration from the ServiceNow Store and verify you have a valid Whois account before use. For more information see, [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../security-incident-response/reference/download-app-first-time.md).
 
 ## Procedure
 
@@ -87,10 +87,10 @@ Description for the new enrichment integration.For example, the description for 
 
 After configuration, Shodan can be selected for performing enrichment on observables in Threat Intelligence Security Center.
 
-**Parent Topic:**[Shodan integration](tisc-shodan.md)
+**Parent Topic:**[Shodan integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-shodan.md)
 
 **Related topics**  
 
 
-[Configure Observable Enrichment](configure-observable-enrichment.md)
+[Configure Observable Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-observable-enrichment.md)
 

@@ -84,7 +84,7 @@ The topics do not address the following information:
 
 -   **Service Catalog**
 
-    [Service Catalog and CSDM](../../service-catalog-management/concept/request-cat-use-case-product-view.md)
+    [Service Catalog and CSDM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../service-catalog-management/concept/request-cat-use-case-product-view.md)
 
 -   **Service Portfolio Management**
 
@@ -99,5 +99,5 @@ The topics do not address the following information:
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
-**Parent Topic:**[Common Service Data Model](../concept/csdm-landing-page.md)
+**Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-landing-page.md)
 

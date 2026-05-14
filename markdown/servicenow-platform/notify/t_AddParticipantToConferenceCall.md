@@ -39,7 +39,7 @@ You can add the following participants:
 
     You can add a single participant, a group of participants, or a phone number.
 
-    ![Add participant to conference call](../image/AddParticipant.png)
+    ![Add participant to conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/AddParticipant.png)
 
 5.  You can send a message for the participant who you want to add in the **Include a brief message for participants** field.
 
@@ -48,10 +48,10 @@ You can add the following participants:
     The selected user, group, or phone number is added to the selected conference call.
 
 
-**Parent Topic:**[Using Notify for making conference calls](../concept/c_NotifyConferenceCalls.md)
+**Parent Topic:**[Using Notify for making conference calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyConferenceCalls.md)
 
 **Related topics**  
 
 
-[Mute or remove a conference call participant](t_MuteOrKickAConfCallParty.md)
+[Mute or remove a conference call participant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_MuteOrKickAConfCallParty.md)
 

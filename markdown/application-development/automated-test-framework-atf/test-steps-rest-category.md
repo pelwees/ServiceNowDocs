@@ -176,7 +176,7 @@ Authentication Type
 
 The type of authentication to use. For public APIs, select **None**.
 
- To configure basic or mutual authentication, users need the atf\_ws\_designer role. For more information, see [Automated Test Framework roles](atf-roles.md).
+ To configure basic or mutual authentication, users need the atf\_ws\_designer role. For more information, see [Automated Test Framework roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-roles.md).
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ Basic authentication
 
 </td><td id="basic-authentication">
 
-The basic authentication profile to use when doing the test. You must create or select a basic authentication profile to assign to test steps to avoid authentication issues when running the test. For more information, see [Create a basic auth profile using the Automated Test Framework](../task/atf-create-basic-auth-profile.md).
+The basic authentication profile to use when doing the test. You must create or select a basic authentication profile to assign to test steps to avoid authentication issues when running the test. For more information, see [Create a basic auth profile using the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-create-basic-auth-profile.md).
 
 </td></tr><tr><td>
 

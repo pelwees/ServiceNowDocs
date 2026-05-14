@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **+**.
 
-    ![Arrow pointing the create menu icon in the all menu.](../image/neame-create-menu.png)
+    ![Arrow pointing the create menu icon in the all menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/neame-create-menu.png)
 
 2.  On the form, fill in the fields.
 
@@ -46,10 +46,10 @@ Role required: admin
 
 Editing the modules you have added using the following links.
 
--   [Dashboard module](next-experience-dashboard-module.md)
--   [List module](next-experience-list-module.md)
--   [New record module](next-experience-new-record-module.md)
--   [Single record module](next-experience-single-record-module.md)
+-   [Dashboard module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-dashboard-module.md)
+-   [List module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-list-module.md)
+-   [New record module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-new-record-module.md)
+-   [Single record module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-single-record-module.md)
 
-**Parent Topic:**[Next Experience All Menu Editing](../concept/next-experience-all-menu-editing.md)
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-all-menu-editing.md)
 

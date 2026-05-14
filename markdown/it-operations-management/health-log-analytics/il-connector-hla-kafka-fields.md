@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Apache Kafka integration configuration forms for Health Log Analytics.
 
-For the Apache Kafka integration setup procedure, see [Set up an Apache Kafka integration for Health Log Analytics](../task/il-connector-hla-kafka.md).
+For the Apache Kafka integration setup procedure, see [Set up an Apache Kafka integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-kafka.md).
 
 <table id="table_cnt_1x5_l2c"><thead><tr><th>
 
@@ -130,7 +130,7 @@ Kafka credentials
 
 </td><td>
 
-The Apache Kafka credentials.You can select existing Kafka SSL credentials, or create new ones by selecting **Create Kafka credentials** from the drop-down list. For a description of the fields on the Kafka SSL credentials form, see [Kafka SSL credentials fields](hla-data-input-kafka-credentials.md).
+The Apache Kafka credentials.You can select existing Kafka SSL credentials, or create new ones by selecting **Create Kafka credentials** from the drop-down list. For a description of the fields on the Kafka SSL credentials form, see [Kafka SSL credentials fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-kafka-credentials.md).
 
 </td></tr><tr><td>
 
@@ -250,5 +250,5 @@ Option to discard logs if there is a load on the MID Server.
 False
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

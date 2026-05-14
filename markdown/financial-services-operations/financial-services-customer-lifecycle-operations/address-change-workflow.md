@@ -17,7 +17,7 @@ Learn how agents, using the Address change workflow, resolve service requests fo
 
 The following diagram shows how the application helps bank agents resolve an address change request.
 
-![Workflow that shows how the address for a customer is updated using the CLO application. For the text description, refer to the workflow steps that follow.](../image/fso-address-change-workflow.png "Address change workflow example")
+![Workflow that shows how the address for a customer is updated using the CLO application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../image/fso-address-change-workflow.png "Address change workflow example")
 
 The CLO admin can review and customize this predefined flow based on your organization's business needs.
 

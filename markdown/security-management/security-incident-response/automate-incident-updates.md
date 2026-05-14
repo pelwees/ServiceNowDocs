@@ -144,7 +144,7 @@ Option that you can select to update your SIR work notes in the Microsoft Azure 
 </td></tr></tbody>
 </table>    The following example shows the configuration options that are available for automating incident updates.
 
-    ![Options for automating incidents.](../image/sentinel-automating-incidents.png)
+    ![Options for automating incidents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel-automating-incidents.png)
 
 3.  Click **Finish**.
 

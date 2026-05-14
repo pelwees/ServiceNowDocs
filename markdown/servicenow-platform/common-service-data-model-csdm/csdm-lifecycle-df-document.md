@@ -17,7 +17,7 @@ The document and contract life-cycle value pairs represent the overall life cycl
 
 ## Definitions of document and contract life cycle stage and life cycle stage status values
 
-![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-doc-contract.png)
+![Relationships between CSDM stages and life cycle values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-lifecycle-vp-doc-contract.png)
 
 -   **Ideation life cycle stage**
 
@@ -41,10 +41,10 @@ The document and contract life-cycle value pairs represent the overall life cycl
     -   **Expired**: Date-limited material such as contracts that are past their expiration date.
     -   **Retired**: Materials that are no longer needed by the organization.
 
-**Parent Topic:**[Life cycle of document and contract entities](../concept/csdm-lifecycle-document.md)
+**Parent Topic:**[Life cycle of document and contract entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-document.md)
 
 **Related topics**  
 
 
-[Life cycle of document and contract entities](../concept/csdm-lifecycle-document.md)
+[Life cycle of document and contract entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-document.md)
 

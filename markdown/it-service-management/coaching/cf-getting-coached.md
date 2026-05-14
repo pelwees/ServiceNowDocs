@@ -28,7 +28,7 @@ The Trainee Dashboard lets you manage your assessments and track results.
 -   View the types of survey feedback from your coaches.
 -   Manage the full list of your coaching assessment details.
 
-![TraineeDashboard](../../coaching/image/trainee-dashboard.png "Trainee dashboard")
+![TraineeDashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../coaching/image/trainee-dashboard.png "Trainee dashboard")
 
 |Report|Description|
 |------|-----------|
@@ -37,8 +37,8 @@ The Trainee Dashboard lets you manage your assessments and track results.
 |My Survey Results|Survey feedback results of the coach to the trainee.|
 |My Assessment Details|List of active coaching assessments and trainings.|
 
--   **[Work with your coach](../task/cf-work-with-your-coach.md)**  
+-   **[Work with your coach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../task/cf-work-with-your-coach.md)**  
 Use your assessments to work with your coach, including assigned training and due dates. You can view your assessments and track your results using the Trainee Dashboard.
 
-**Parent Topic:**[Training agents using Coaching with Learning](cf-train-your-agents.md)
+**Parent Topic:**[Training agents using Coaching with Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-train-your-agents.md)
 

@@ -96,5 +96,5 @@ Select variables
 Fields from the selected table that you can include in the template body as variables.For example, say you selected the Legal Request \[sn\_lg\_ops\_request\] table in the **Table** field and then inserted the **Requested for** field variable in the template body. When the response template is used, this field variable will be replaced with the actual name of the user for whom the legal request was submitted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Request Management reference](legal-request-management-reference.md)
+</table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 

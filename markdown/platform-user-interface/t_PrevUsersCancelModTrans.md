@@ -27,15 +27,15 @@ Role required: admin
 
 4.  Select the check box for **Uncancelable by Other Modules**.
 
-    ![Prevent users from canceling this module when they navigate away](../image/600px-Uncancelable_by_other_modules.png)
+    ![Prevent users from canceling this module when they navigate away](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/600px-Uncancelable_by_other_modules.png)
 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Navigation action cancellation](../concept/c_CancelingNavigationActions.md)
+**Parent Topic:**[Navigation action cancellation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_CancelingNavigationActions.md)
 
 **Related topics**  
 
 
-[Add sites to the always cancel list](t_AddSitesAlwaysCancelWhiteList.md)
+[Add sites to the always cancel list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddSitesAlwaysCancelWhiteList.md)
 

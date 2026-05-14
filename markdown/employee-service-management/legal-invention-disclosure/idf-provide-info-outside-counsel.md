@@ -25,7 +25,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
 3.  Open the Legal Invention Disclosure request.
 
@@ -58,7 +58,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 ## What to do next
 
-Once you receive the decision from the outside counsel about whether the patent is being filed, finalize the request application process. For more information, see [Facilitate the patent review process](facilitate-patent-review-process.md).
+Once you receive the decision from the outside counsel about whether the patent is being filed, finalize the request application process. For more information, see [Facilitate the patent review process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/facilitate-patent-review-process.md).
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/use-legal-invention-disclosure.md)
 

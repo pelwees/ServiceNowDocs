@@ -36,5 +36,5 @@ For security reasons, any HTML code is automatically stripped out of a message b
 4.  Click **Update**.
 
 
-**Parent Topic:**[Live Feed security and table access](../reference/r_LiveFeedTableAccessRules.md)
+**Parent Topic:**[Live Feed security and table access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedTableAccessRules.md)
 

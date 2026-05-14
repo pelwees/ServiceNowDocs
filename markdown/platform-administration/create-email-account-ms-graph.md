@@ -101,12 +101,12 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Select the test connection link at the bottom to test the account.
 
 
-**Parent Topic:**[Reading email using Microsoft Graph](../concept/read-email-using-ms-graph.md)
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/read-email-using-ms-graph.md)
 
 **Related topics**  
 
 
-[Configure an OAuth profile to use a client ID and secret for token generation](microsoft-graph.md#)
+[Configure an OAuth profile to use a client ID and secret for token generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/microsoft-graph.md#)
 
-[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](configure-oauth-profile-using-certificates.md)
+[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 

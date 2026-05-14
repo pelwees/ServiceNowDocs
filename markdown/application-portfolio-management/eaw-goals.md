@@ -24,18 +24,18 @@ Using the Enterprise Architecture Workspace, you can perform the following:
 -   Add sub-goals
 -   Add demands to a goal
 
-**Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
+**Parent Topic:**[Exploring the business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View all goals](../../task/eaw-task/eaw-view-all-goals.md)
+[View all goals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-goals.md)
 
-[Add or edit a goal](../../task/eaw-task/eaw-add-or-edit-a-goal.md)
+[Add or edit a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-goal.md)
 
-[Add a quantitative target to a goal](../../task/eaw-task/eaw-add-a-quantitative-target-to-a-goal.md)
+[Add a quantitative target to a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-quantitative-target-to-a-goal.md)
 
-[Add a qualitative target to a goal](../../task/eaw-task/eaw-add-a-qualitative-target-to-a-goal.md)
+[Add a qualitative target to a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-qualitative-target-to-a-goal.md)
 
-[Create a sub-goal](../../task/eaw-task/eaw-create-a-sub-goal.md)
+[Create a sub-goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-a-sub-goal.md)
 

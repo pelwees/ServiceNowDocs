@@ -35,5 +35,5 @@ Delete an Operational Technology incident category or subcategory if your organi
 
 The deleted category or subcategory is no longer available on an Operational Technology incident record.
 
-**Parent Topic:**[Incident categories and subcategories](../reference/ot-incident-categories-subcategories.md)
+**Parent Topic:**[Incident categories and subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../reference/ot-incident-categories-subcategories.md)
 

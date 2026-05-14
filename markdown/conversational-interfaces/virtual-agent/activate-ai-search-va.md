@@ -29,16 +29,16 @@ The default chat experience is defined in the Custom Greetings and Setup setting
 
 2.  On the Home page, find the Request AI Search tile, and select **Request AI Search**.
 
-    ![Request AI Search tile on the Conversational Interfaces console home page.](../../conversational-interfaces/image/ci-home-request-ai-search.png)
+    ![Request AI Search tile on the Conversational Interfaces console home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../conversational-interfaces/image/ci-home-request-ai-search.png)
 
 3.  On the page that opens, select **Request AI Search** to request provisioning.
 
 
 ## Result
 
-Your request will be processed. Once activated, enable the AI Search Fallback setup topic in the default or a custom chat experience. For instructions on configuring a chat experience, see [Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md).
+Your request will be processed. Once activated, enable the AI Search Fallback setup topic in the default or a custom chat experience. For instructions on configuring a chat experience, see [Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-conversation-settings.md).
 
-If you want to customize the Virtual Agent AI Search results that are generated for your users, see [Create a custom AI Search experience for Virtual Agent conversations](create-va-aisearch-application.md).
+If you want to customize the Virtual Agent AI Search results that are generated for your users, see [Create a custom AI Search experience for Virtual Agent conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-va-aisearch-application.md).
 
-**Parent Topic:**[Improving the user experience with AI Search](../concept/va-ai-search.md)
+**Parent Topic:**[Improving the user experience with AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-ai-search.md)
 

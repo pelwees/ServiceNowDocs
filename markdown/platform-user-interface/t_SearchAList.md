@@ -37,9 +37,9 @@ Each option in a choice list is defined with a column label and a value. For exa
 
 3.  Select a field or select **for text**.
 
-    ![Go to](../image/GoToUI16.png)
+    ![Go to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/GoToUI16.png)
 
-    ![Search](../image/SearchListUI16.png)
+    ![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/SearchListUI16.png)
 
 4.  Enter the search text.
 
@@ -48,7 +48,7 @@ Each option in a choice list is defined with a column label and a value. For exa
 5.  Press the Enter key to execute the search.
 
 
-**Parent Topic:**[Lists in the classic environment](../concept/c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UseLists.md)
 
 ## Available list search wildcards
 

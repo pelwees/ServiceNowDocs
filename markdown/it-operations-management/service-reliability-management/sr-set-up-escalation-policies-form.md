@@ -133,5 +133,5 @@ Additional notification steps to add. You can select email, call, or SMS. You ca
 |Additional audience|Specific users, teams, groups, or devices that you want to notify.|
 |Time to next step after last notification|The maximum amount of time that will pass before the issue is escalated to the next step. For example, if a responder can't resolve the issue within 30 minutes of the notification, the issue is escalated to the manager.|
 
-**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
+**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 

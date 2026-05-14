@@ -21,7 +21,7 @@ Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.asset\_technician, sn
 
 ## About this task
 
-You can use the [Mobile Agent application for Enterprise Asset Management](../concept/eam-mobile-agent-app.md) to scan asset tags or enter them manually. If an asset is scanned but its asset tag does not exist in our database, then by default, that asset is mapped to an unknown model record. The unknown model record appears on the **All enterprise models** tab of the **Model Management** view in the Enterprise Asset Workspace. The asset manager manually associates this asset to the appropriate model. You can't change, update or delete an unknown model.
+You can use the [Mobile Agent application for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/eam-mobile-agent-app.md) to scan asset tags or enter them manually. If an asset is scanned but its asset tag does not exist in our database, then by default, that asset is mapped to an unknown model record. The unknown model record appears on the **All enterprise models** tab of the **Model Management** view in the Enterprise Asset Workspace. The asset manager manually associates this asset to the appropriate model. You can't change, update or delete an unknown model.
 
 **Note:** Starting with Enterprise Asset Management version 9.0, you can also audit the licensed hardware assets in the Enterprise Asset Workspace only if the Hardware Asset Management application is activated.
 
@@ -35,7 +35,7 @@ You can use the [Mobile Agent application for Enterprise Asset Management](../co
 
 3.  On the Create New Asset Audits form, fill in the fields.
 
-    For a description of the field values, see [Asset audit fields for enterprise assets](../reference/asset-audit-record-fields-eam.md).
+    For a description of the field values, see [Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/asset-audit-record-fields-eam.md).
 
 4.  Select **Save**.
 
@@ -48,16 +48,16 @@ The asset audit inventory record is created and appears with the **Expected Asse
 
 Scan the assets in the inventory using the ServiceNow Agent app.
 
-**Parent Topic:**[Stockroom audit access by role](../concept/stockroom-audit-access-eam.md)
+**Parent Topic:**[Stockroom audit access by role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/stockroom-audit-access-eam.md)
 
 **Related topics**  
 
 
-[Asset audit fields for enterprise assets](../reference/asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/asset-audit-record-fields-eam.md)
 
-[Audit results](../reference/audit-results-eam.md)
+[Audit results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/audit-results-eam.md)
 
-[Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](scan-assets-agent-app-eam.md)
+[Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/scan-assets-agent-app-eam.md)
 
-[Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
+[Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 

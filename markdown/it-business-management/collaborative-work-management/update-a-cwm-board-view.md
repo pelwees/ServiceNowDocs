@@ -27,19 +27,19 @@ Role required: sn\_cwm.cwm\_user
 
 3.  From the view switcher, select a view that you want to modify.
 
-    ![View switcher in CWM Board.](../images/cwm-views-switcher.png)
+    ![View switcher in CWM Board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-views-switcher.png)
 
 4.  Modify the display preferences of the Board data using the personalization settings, sorting, filtering, and adding custom columns.
 
-    For more information, see [Personalize List, Gantt and Kanban display for CWM Boards](personalize-cwm-board-views.md).
+    For more information, see [Personalize List, Gantt and Kanban display for CWM Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/personalize-cwm-board-views.md).
 
 5.  Select **Save view**.
 
-    ![Save a CWM view.](../images/cwm-views-save-view.png)
+    ![Save a CWM view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-views-save-view.png)
 
 6.  Select **Save to current view**.
 
-    ![Save view dialog box.](../images/cwm-views-save-view-modal.png)
+    ![Save view dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-views-save-view-modal.png)
 
     **Note:** If you select the **Don't show this again** checkbox, this dialog box doesn't appear the next time.
 
@@ -48,5 +48,5 @@ Role required: sn\_cwm.cwm\_user
 
 The current view is updated with the changes that you made.
 
-**Parent Topic:**[Board views in CWM](../concept/board-views-in-cwm.md)
+**Parent Topic:**[Board views in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/board-views-in-cwm.md)
 

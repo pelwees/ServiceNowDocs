@@ -22,12 +22,12 @@ The Move management workspace is a one stop workspace where you can perform mult
 The workspace has several key features such as move requests-related metrics, visual representation, detailed views, and also the option to create a move project. The Move management displays information in the following categories:
 
 -   **Move management**: Displays metrics of your active move projects, move requests, and move tasks. It also provides a visual representation of the planned and unplanned move requests, states of requests and active projects.
--   **Create project**: Option to create a move project. For more information, refer to [Create a move project from existing move requests](../task/create-move-project.md).
+-   **Create project**: Option to create a move project. For more information, refer to [Create a move project from existing move requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/create-move-project.md).
 -   **Move management**: Lists the details of the following:
     -   Details of all the move projects with their planned start and end date, their current state, and the assigned user.
     -   Details of all the move requests with their current state, the requested move date, the expected start, and the due date.
 
-For detailed information about move projects, its features, and various states, refer to [Move project views, actions, and states](move-project-schedule-view.md).
+For detailed information about move projects, its features, and various states, refer to [Move project views, actions, and states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-project-schedule-view.md).
 
 ## Move request metrics
 
@@ -71,43 +71,43 @@ At a time, the workspace displays up to five move requests. To view all the move
     -   Add or remove filters.
 -   You can select a move request to view the details in a separate tab. When selected, the workplace move case record is opened where you can view the request details and also edit any information if necessary.
 
--   **[Move project views, actions, and states](move-project-schedule-view.md)**  
+-   **[Move project views, actions, and states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-project-schedule-view.md)**  
 As a move manager, create, track, and work on move projects to fulfill multiple move requests at a time. The move project enables you to work using a schedule view, which is faster than opening individual move requests.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/workplace-central-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Central](components-installed-with-workplace-central.md)
+[Components installed with Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/components-installed-with-workplace-central.md)
 
-[Space Optimization - Key features and actions](space-optmization-features-and-actions-.md)
+[Space Optimization - Key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md)
 
-[Workplace Central Event planner](event-planner-key-features-actions-views.md)
+[Workplace Central Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner-key-features-actions-views.md)
 
-[Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md)
+[Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md)
 
-[Space request approvals, states, actions, and key features](space-request-states-and-view.md)
+[Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-request-states-and-view.md)
 
-[Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md)
+[Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md)
 
-[Schedule Plan details form](schedule-plan-details-form.md)
+[Schedule Plan details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-plan-details-form.md)
 
-[Scenario details form](scenario-details-form.md)
+[Scenario details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-details-form.md)
 
-[Space Deployment Plan](space-deployment-plan.md)
+[Space Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)
 
-[User Deployment Plan](user-deployment-plan.md)
+[User Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)
 
-[Excel column lengths for move projects](move-excel-char-limit.md)
+[Excel column lengths for move projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-excel-char-limit.md)
 
-[Move conflicts for projects created via Excel upload](excel-upload-conflicts.md)
+[Move conflicts for projects created via Excel upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/excel-upload-conflicts.md)
 
-[Workplace Central troubleshooting](workplace-central-troubleshooting.md)
+[Workplace Central troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-troubleshooting.md)
 
-[Workplace Task form - Space Assignment task](workplace-task-space-assignment.md)
+[Workplace Task form - Space Assignment task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-task-space-assignment.md)
 
-[Neighborhood User Assignment Rule form](user-assignment-rule-form.md)
+[Neighborhood User Assignment Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-assignment-rule-form.md)
 
-[User Workplace Profile form](user-workplace-profile-form.md)
+[User Workplace Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md)
 

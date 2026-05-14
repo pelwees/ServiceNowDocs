@@ -38,7 +38,7 @@ Role required: ui\_builder\_admin
 
     The controller building window opens.
 
-    ![Controller building window with no data added.](../image/controller-builder-window.png)
+    ![Controller building window with no data added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/controller-builder-window.png)
 
 6.  Add data resources.
 
@@ -80,7 +80,7 @@ Role required: ui\_builder\_admin
 
     6.  Select **Save**.
 
-    For more information about client state parameters, see [Client state parameters](../concept/client-state-parameters.md).
+    For more information about client state parameters, see [Client state parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/client-state-parameters.md).
 
 9.  Add client scripts.
 
@@ -97,7 +97,7 @@ Role required: ui\_builder\_admin
 
 ## What to do next
 
-Use the custom controller you just created by [adding the controller to a page.](../concept/controllers.md#)
+Use the custom controller you just created by [adding the controller to a page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/controllers.md#)
 
-**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](../concept/data-resources.md)
+**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/data-resources.md)
 

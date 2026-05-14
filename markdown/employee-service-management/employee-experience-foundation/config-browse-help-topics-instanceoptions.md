@@ -61,10 +61,10 @@ Number of shifts to show. The choices are 7, 14, and 30 days. Default value: 7**
     **Note:** The latest shift information is available only after relogging.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-topic-inst-options.md)
 
 **Related topics**  
 
 
-[Configure Employee Center Pro Kiosk](deskless-kiosk-config.md)
+[Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 

@@ -120,12 +120,12 @@ The order is started and the product catalog opens.
 
 ## What to do next
 
-Browse the product catalog and add products and services to the order. For more information, see [Add products or services to an order in Order Management](som-add-products-services-to-orders.md).
+Browse the product catalog and add products and services to the order. For more information, see [Add products or services to an order in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-add-products-services-to-orders.md).
 
 **Related topics**  
 
 
-[Order types in Sales Customer Relationship Management](../concept/som-order-types.md)
+[Order types in Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/som-order-types.md)
 
-[Action types for customer and service orders](../concept/order-mgt-customer-order-types.md)
+[Action types for customer and service orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-customer-order-types.md)
 

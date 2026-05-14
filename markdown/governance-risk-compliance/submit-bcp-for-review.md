@@ -40,16 +40,16 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     -   The BCP should not have any approval records created.
     If you have the BCM lead or BCM program manager role, you can approve the plan. The information is displayed on the **Approval levels** and **Approvals** tabs as shown in the example.
 
-    ![Approvals tab.](../image/approval-levels-approvals.png)
+    ![Approvals tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-levels-approvals.png)
 
-    To configure multiple approval levels for the plan, see [Set up approval levels](setup-bcm-approval-levels.md).
+    To configure multiple approval levels for the plan, see [Set up approval levels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-bcm-approval-levels.md).
 
     The example shows the Approvals tabs and the Approve and Reject buttons are not displayed.
 
-    ![Approve and Reject not displayed.](../image/approve-reject-not-displayed.png)
+    ![Approve and Reject not displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approve-reject-not-displayed.png)
 
     When you approve the business continuity plan, its state is updated to **Approved**.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

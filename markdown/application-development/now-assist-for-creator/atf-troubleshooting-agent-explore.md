@@ -19,7 +19,7 @@ ATF troubleshooting agent streamlines the process of figuring out why tests are 
 
 Use ATF troubleshooting agent to simplify test failure diagnosis on specific metadata.
 
-![Landing page](../images/test-agent.gif)
+![Landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/test-agent.gif)
 
 ## ATF troubleshooting agent users
 
@@ -64,14 +64,14 @@ This role is required to access metadata tables to accurately troubleshoot test 
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Simplify test failure diagnosis|[Troubleshoot test failures](../task/atf-troubleshooting-agent-test-failure.md)|atf\_triager + now\_assist\_panel\_user|
+|Simplify test failure diagnosis|[Troubleshoot test failures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/atf-troubleshooting-agent-test-failure.md)|atf\_triager + now\_assist\_panel\_user|
 
 ## What to explore next
 
 To learn more about configuring and using ATF troubleshooting agent, see:
 
--   [Install ATF troubleshooting agent](../task/test-agent-install.md)
--   [Use](../task/atf-troubleshooting-agent-test-failure.md)
+-   [Install ATF troubleshooting agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/test-agent-install.md)
+-   [Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/atf-troubleshooting-agent-test-failure.md)
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/atf-troubleshooting-agent-landing-page.md)
 

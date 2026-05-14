@@ -20,11 +20,11 @@ You can manage the creation or modification of categories in the HR service cata
 **Note:** The COEs available to you may differ depending on the HR package you have.
 
 -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
--   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](hr-catalog-item-configuration.md) instead. Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](../task/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md) instead. Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
 -   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
-**Parent Topic:**[HR service catalog management](hr-service-catalog-management.md)
+**Parent Topic:**[HR service catalog management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-catalog-management.md)
 
 ## Create an HR catalog category
 
@@ -40,7 +40,7 @@ Role required: sn\_hr\_core.admin
 
 2.  Click **New Category**.
 
-    ![Create a new category in the HR service catalog](../image/create-hr-service-catalog-category.png)
+    ![Create a new category in the HR service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/create-hr-service-catalog-category.png)
 
 3.  Provide the category name and description.
 
@@ -61,7 +61,7 @@ Role required: sn\_hr\_core.admin
 
 2.  Hover over the category you want to edit and click the edit icon.
 
-    ![Edit an existing category in the HR service catalog.](../image/edit-hr-service-catalog-category.png)
+    ![Edit an existing category in the HR service catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/edit-hr-service-catalog-category.png)
 
 3.  Modify the category name, active state, or description as needed.
 
@@ -82,11 +82,11 @@ Role required: sn\_hr\_core.admin
 
 2.  Select the category you want to assign or remove HR catalog items, and click **Assign / Remove Catalog Items**.
 
-    ![Assign one or more HR catalog items to a category in the HR service catalog.](../image/assign-items-to-hr-service-catalog-category.png)
+    ![Assign one or more HR catalog items to a category in the HR service catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/assign-items-to-hr-service-catalog-category.png)
 
 3.  Select the HR catalog items to assign and deselect the items to remove.
 
-    ![Assign or remove items from an HR service catalog category.](../image/assign-remove-items-from-category.png)
+    ![Assign or remove items from an HR service catalog category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/assign-remove-items-from-category.png)
 
 4.  Click **Save**.
 
@@ -105,13 +105,13 @@ Role required: sn\_hr\_core.admin
 
 2.  Select **All Catalog Items**.
 
-    ![Assign a category in the HR service catalog to one or more HR catalog items.](../image/assign-hr-service-catalog-category-to-items.png)
+    ![Assign a category in the HR service catalog to one or more HR catalog items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/assign-hr-service-catalog-category-to-items.png)
 
 3.  Locate the HR catalog item you want to assign or remove categories, and open the **Categories** list.
 
 4.  Select the categories to assign and deselect the categories to remove.
 
-    ![Assign or remove categories for an HR catalog item.](../image/assign-remove-categories-from-item.png)
+    ![Assign or remove categories for an HR catalog item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/assign-remove-categories-from-item.png)
 
 5.  Click **Save**.
 

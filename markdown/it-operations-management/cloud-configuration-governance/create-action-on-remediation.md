@@ -18,8 +18,8 @@ The on Task remediation trigger fires when a user resubmits a failed request. A 
 ## Before you begin
 
 -   Role required: sn\_cmp.cloud\_governor or admin
--   Optional: [Create one or more cloud policy groups](create-cloud-policy-group-1.md).
--   [Configure a cloud policy rule](configure-cloud-policy-rule-1.md) and associated conditions.
+-   Optional: [Create one or more cloud policy groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy-group-1.md).
+-   [Configure a cloud policy rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-cloud-policy-rule-1.md) and associated conditions.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ The on Task remediation trigger fires when a user resubmits a failed request. A 
 
 4.  On the popup, click **Create** for the type of action to perform.
 
-    ![Create Action popup](../image/create-approval-action-cloud-mgt.png)
+    ![Create Action popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/create-approval-action-cloud-mgt.png)
 
 5.  Select one of the following options.
 
@@ -42,7 +42,7 @@ The on Task remediation trigger fires when a user resubmits a failed request. A 
         -   User \(lock\)
 6.  On the Approval form, specify a unique and meaningful **Action Name**.
 
-    ![Approval policy action](../image/service-now-approval.png "Action in the rule")
+    ![Approval policy action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/service-now-approval.png "Action in the rule")
 
 7.  If you select **Custom Approval**, specify the subflow and then click **Submit** and if you select **ServiceNow Approval**, specify who should approve the cloud activity.
 

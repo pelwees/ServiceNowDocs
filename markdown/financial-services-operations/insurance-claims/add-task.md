@@ -49,7 +49,7 @@ From a claims list, select the claim case you want to create a new task for.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  In the **Lists** tab, navigate to one of the following applicable lists:
     -   As a processor, select **Commercial auto claim cases**, then select **All**.
     -   As an adjuster, select **Commercial auto claim adjuster tasks**, then select **All**.

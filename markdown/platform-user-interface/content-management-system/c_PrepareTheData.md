@@ -20,5 +20,5 @@ Ensure that the necessary data and content are available in the instance by taki
 -   Review the ITIL processes that you intend to implement in the CMS. Ensure that the data in the instance is a mature representation of the applications being used, for example, service catalog, knowledge management, and incident management.
 -   Review the defined hierarchies, such as the categories and subcategories for the knowledge base or service catalog. You use these categories to design the entry page into the application.
 
-**Parent Topic:**[Content Management design](c_ContentManagementPlanning.md)
+**Parent Topic:**[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 

@@ -27,11 +27,11 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **Scoring Setup** &gt; **Engagement Risk Scoring Rules**.
 
-    ![List of engagement risk scoring rules.](../image/engagement-risk-scoring-rules.png)
+    ![List of engagement risk scoring rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/engagement-risk-scoring-rules.png)
 
 2.  Select **New**, fill in the form, and then select **Submit**.
 
-    ![Engagement Risk Scoring Rule — New.](../image/risk-engage-scoring-rule.png)
+    ![Engagement Risk Scoring Rule — New.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/risk-engage-scoring-rule.png)
 
 <table id="table_eng-scoring-rule"><thead><tr><th>
 
@@ -73,7 +73,7 @@ Third-party risk area criteria
 
 The third-party risk area criteria that applies to this engagement risk scoring rule.
 
- A third-party risk area criteria is a group of risk domains \(sometimes called risk areas in other platform features\) that applies to a particular type of third party. See [Define third-party risk area criteria](tprm-risk-domain-criteria-df.md) for details on how criteria are defined.
+ A third-party risk area criteria is a group of risk domains \(sometimes called risk areas in other platform features\) that applies to a particular type of third party. See [Define third-party risk area criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-risk-domain-criteria-df.md) for details on how criteria are defined.
 
 </td></tr><tr><td>
 

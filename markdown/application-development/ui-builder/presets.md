@@ -15,7 +15,7 @@ breadcrumb: [Customize UI Builder pages using components, Working in UI Builder,
 
 Use component presets to automatically configure components on compatible pages.
 
-Use component presets to apply predefined configuration values and event mappings to components. UI Builder page templates contain [controllers](ui-builder-glossary.md#) that presets use to define component configuration values.
+Use component presets to apply predefined configuration values and event mappings to components. UI Builder page templates contain [controllers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-glossary.md#) that presets use to define component configuration values.
 
 Presets apply pre-built configurations to component properties and event handlers and are only available for certain components. They are based on common use cases for components, such as configuring a **Form** component with fields that are typically included on a record page.
 
@@ -32,7 +32,7 @@ You can override values configured by a preset but in doing so you assume owners
 
 Sub-pages do not inherit controllers and are not able to use presets in Australia.
 
-![Heading component properties configured by a preset.](../image/preset-list-example.png "Preset applied to a component")
+![Heading component properties configured by a preset.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-list-example.png "Preset applied to a component")
 
 ## Data and event bindings
 
@@ -43,17 +43,17 @@ Presets can include bindings to:
 -   Session context \(@context.session\)
 -   Complex formulas \(client transforms\)
 
-Presets can also include event mappings to a controller's handled events. For more information, see [Manage actions in UI Builder pages](work-events.md).
+Presets can also include event mappings to a controller's handled events. For more information, see [Manage actions in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-events.md).
 
 ## Controllers
 
-Presets connect components to data and event mappings using a controller. If the controller required by a preset is not already on the page, the preset prompts you to configure the controller's required properties and adds the controller. After a controller is added to a page, components that have presets associated with the controller appear highlighted in the components list. For more information, see [Bind data to UI Builder pages using controllers \(advanced feature\)](controllers.md#).
+Presets connect components to data and event mappings using a controller. If the controller required by a preset is not already on the page, the preset prompts you to configure the controller's required properties and adds the controller. After a controller is added to a page, components that have presets associated with the controller appear highlighted in the components list. For more information, see [Bind data to UI Builder pages using controllers \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/controllers.md#).
 
-![Components tab showing components with preset label highlighted.](../image/presets-highlighted-components.png "Components with presets")
+![Components tab showing components with preset label highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/presets-highlighted-components.png "Components with presets")
 
 Check the **Presets available** box to view components with presets in the toolbox.
 
-**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md)
 
 ## Select a component preset
 
@@ -69,11 +69,11 @@ Role required: admin
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](../task/create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/create-page.md).
 
 4.  Open the toolbox.
 
@@ -81,11 +81,11 @@ Role required: admin
 
 6.  Select the component you want to add to your page.
 
-    ![Open toolbox showing components with presets.](../image/preset-component-library.png)
+    ![Open toolbox showing components with presets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-component-library.png)
 
 7.  The component automatically configures with the default preset.
 
-    ![The default component preset displays in the preset drop-down.](../image/preset-default-selection.png)
+    ![The default component preset displays in the preset drop-down.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-default-selection.png)
 
 8.  Select a different preset from the list in the configuration panel.
 
@@ -95,7 +95,7 @@ Role required: admin
 
     2.  Select **Apply** to replace the existing preset.
 
-    ![Select a different preset or no preset from the list.](../image/preset-select-none.png)
+    ![Select a different preset or no preset from the list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-select-none.png)
 
 9.  Click **Save**.
 
@@ -112,7 +112,7 @@ Role required: admin
 
 1.  Select a component with a preset.
 
-    ![Select the component you want to override in the content tree.](../image/preset-select-component.png)
+    ![Select the component you want to override in the content tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-select-component.png)
 
 2.  Find the data value that you want to override in the configuration panel.
 
@@ -122,7 +122,7 @@ Role required: admin
 
 5.  Select **Save**.
 
-    ![Override preset component values with custom values.](../image/preset-select-value-custom.gif)
+    ![Override preset component values with custom values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-select-value-custom.gif)
 
 
 ### Result
@@ -141,15 +141,15 @@ Role required: admin
 
 1.  Select the component that you want to reset in the content tree.
 
-    ![Select the component you want to override in the content tree.](../image/preset-component-custom.png)
+    ![Select the component you want to override in the content tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-component-custom.png)
 
 2.  Select the component name in the configuration panel.
 
-    ![Component name in the configuration panel.](../image/reset-component-config.png)
+    ![Component name in the configuration panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/reset-component-config.png)
 
 3.  Click **Reset component**.
 
-    ![Reset component values with the reset component option.](../image/reset-component-link.png)
+    ![Reset component values with the reset component option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/reset-component-link.png)
 
 4.  Click **Reset**.
 

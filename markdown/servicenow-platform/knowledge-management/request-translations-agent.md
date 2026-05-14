@@ -26,7 +26,7 @@ Ensure that the system administrator verifies the following settings:
 
     **Note:** The 18N: Internationalization plugin \(com.glide.i18n\) activates the I18N: Knowledge Management Internationalization Plugin v2 plugin.
 
--   The **glide.knowman.translation.enable\_translation\_task** property is set to `true` in the ServiceNow AI Platform interface. For more information, see [Knowledge Management properties](../reference/r_KnowledgeProperties.md#).
+-   The **glide.knowman.translation.enable\_translation\_task** property is set to `true` in the ServiceNow AI Platform interface. For more information, see [Knowledge Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#).
 
 Role required: agent\_workspace\_user
 
@@ -56,7 +56,7 @@ The translation task is created for the article in the selected languages and as
 **Related topics**  
 
 
-[Create translation assignments for knowledge articles](create-translation-assignments.md)
+[Create translation assignments for knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-translation-assignments.md)
 
-[Translate a knowledge article from a translation task in Agent Workspace](translate-article-agent.md)
+[Translate a knowledge article from a translation task in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translate-article-agent.md)
 

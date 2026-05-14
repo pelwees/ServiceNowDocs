@@ -21,12 +21,12 @@ Configure state flow records with an ending state only and create the correct be
 
 **Note:** State flows use client scripts to enforce field controls. It is possible that your settings can be changed by existing UI policies, which execute after client scripts.
 
-**Parent Topic:**[State flow customization](c_StateFlowCustomization.md)
+**Parent Topic:**[State flow customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)
 
 **Related topics**  
 
 
-[Request states](../../planning-and-policy/reference/r_SMRequestStates.md)
+[Request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestStates.md)
 
-[Request task states](../../planning-and-policy/reference/r_SMRequestTaskStates.md)
+[Request task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestTaskStates.md)
 

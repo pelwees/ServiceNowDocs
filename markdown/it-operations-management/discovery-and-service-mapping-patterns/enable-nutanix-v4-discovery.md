@@ -36,5 +36,5 @@ Role required: discovery\_admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Nutanix Acropolis discovery](../reference/nutanix-pattern.md)
+**Parent Topic:**[Nutanix Acropolis discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/nutanix-pattern.md)
 

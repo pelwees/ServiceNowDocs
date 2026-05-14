@@ -50,7 +50,7 @@ Click the link in the email to open the record that needs approval.
 **Note:** The request\_fulfiller role is required to access Legal Counsel Center.
 
  1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  In the **Lists** tab, under **My Work**, click **Items Pending Approval**.
 4.  In the Items Pending Approval list, click a record to open for approval.
 
@@ -113,5 +113,5 @@ If the requested item was assigned to a user group for approval, then the state 
 -   Any approver who isn’t added to **Watch list** in the legal matter would lose access to the approved item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+</table>**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

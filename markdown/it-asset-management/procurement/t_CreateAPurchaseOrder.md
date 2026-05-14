@@ -203,7 +203,7 @@ Expected delivery
 
 </td><td>
 
-The date the items associated with the purchase order are expected to arrive in the stockroom identified in the **Ship to** field. This field can’t be edited when the purchase order has a **Status** of **Received** or **Canceled**. \(For more information about this field, see[Purchase order expected delivery date](../reference/r_SetExpectDelDateOnPurchOrder.md).\)
+The date the items associated with the purchase order are expected to arrive in the stockroom identified in the **Ship to** field. This field can’t be edited when the purchase order has a **Status** of **Received** or **Canceled**. \(For more information about this field, see[Purchase order expected delivery date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../reference/r_SetExpectDelDateOnPurchOrder.md).\)
 
 </td></tr><tr><td>
 
@@ -253,33 +253,33 @@ The vendor account related with the purchase order.
 
 Add purchase order line items to specify what you are ordering from this vendor.
 
--   **[Create a purchase order line item](t_CreateAPurchaseOrderLineItem.md)**  
+-   **[Create a purchase order line item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CreateAPurchaseOrderLineItem.md)**  
 After you save a new purchase order, you create purchase order line item records to specify the individual items to order.
--   **[Purchase order status](../reference/r_FollowAPurchaseOrderStatus.md)**  
+-   **[Purchase order status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../reference/r_FollowAPurchaseOrderStatus.md)**  
 Purchase orders follow a specific life cycle. The **Status** field on the purchase order record is always read-only.
--   **[Purchase order expected delivery date](../reference/r_SetExpectDelDateOnPurchOrder.md)**  
+-   **[Purchase order expected delivery date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../reference/r_SetExpectDelDateOnPurchOrder.md)**  
 The purchase order record and the purchase order line item record both contain the **Expected delivery** date field.
--   **[Cancel a purchase order](t_CancelAPurchaseOrder.md)**  
+-   **[Cancel a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CancelAPurchaseOrder.md)**  
 You can cancel purchase orders with a status of **Requested**, **Ordered**, or **Pending Delivery**.
--   **[Cancel a purchase order line item](t_CancelAPurchaseOrderLineItem.md)**  
+-   **[Cancel a purchase order line item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CancelAPurchaseOrderLineItem.md)**  
 You can cancel a purchase order line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
--   **[Reorder a purchase order](t_ReorderAPurchaseOrder.md)**  
+-   **[Reorder a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ReorderAPurchaseOrder.md)**  
 You can reorder a purchase order that was canceled.
--   **[Reorder a purchase order line item](t_ReorderAPurchaseOrderLineItem.md)**  
+-   **[Reorder a purchase order line item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ReorderAPurchaseOrderLineItem.md)**  
 You can reorder a purchase order line item that was canceled.
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../concept/c_UseProcurement.md)
 
 **Related topics**  
 
 
-[Track a request from the service catalog](t_TrackReqFromServiceCatalog.md)
+[Track a request from the service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_TrackReqFromServiceCatalog.md)
 
-[Cancel a request from the service catalog](t_CancelReqFromServCatalog.md)
+[Cancel a request from the service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CancelReqFromServCatalog.md)
 
-[View and edit a catalog task](t_ViewAndEditACatalogTask.md)
+[View and edit a catalog task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ViewAndEditACatalogTask.md)
 
-[Create an asset and reserve it for the requester](t_CreateAssetReserveForRequester.md)
+[Create an asset and reserve it for the requester](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CreateAssetReserveForRequester.md)
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_TransferOrders.md)
 

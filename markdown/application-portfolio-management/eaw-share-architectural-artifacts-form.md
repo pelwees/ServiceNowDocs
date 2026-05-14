@@ -58,12 +58,12 @@ Manage access
 Select **Manage access** to view the existing collaborators on the architectural artifact and their access permissions. You can change the existing access permissions, according to your requirement.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Share an architectural artifact with users or groups](../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-share--archi-artft-with-users-groups.md)
 
-[Manage access to architectural artifacts](../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-manage-access-to-architectural-artifacts.md)
 

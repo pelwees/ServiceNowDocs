@@ -21,5 +21,5 @@ ITOM AIOps manages the following tables:
 -   Configuration Item table \[ci\_\*\]
 -   Dynamic CI Group table \[cmdb\_ci\_query\_based\_service\]
 
-![CSDM tables managed by ITOM.](../image/itom-managed-tables-CSDM-v5.png "CSDM tables managed by ITOM")
+![CSDM tables managed by ITOM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-managed-tables-CSDM-v5.png "CSDM tables managed by ITOM")
 

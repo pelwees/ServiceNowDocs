@@ -19,7 +19,7 @@ Request Software Spend Detection to track, analyze, and optimize software spendi
 
 Before you can request Software Spend Detection, you must sign the Software Spend Detection legal agreement. For more information about the Software Spend Detection legal agreement, contact your ServiceNow account representative.
 
-To use Software Spend Detection, you must activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance. For more information about activating Software Asset Management Professional, see [Request Software Asset Management](t_RequSoftwareAssetMgmt.md).
+To use Software Spend Detection, you must activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance. For more information about activating Software Asset Management Professional, see [Request Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 **Note:** Software Spend Detection is not supported for on-premises users hosting their own ServiceNow instance.
 
@@ -75,5 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Software Spend Detection](../concept/software-spend-detection.md)
+**Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/software-spend-detection.md)
 

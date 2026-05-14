@@ -105,5 +105,5 @@ Conditions the Assign HR Roles business rule uses to automatically assign a role
 8.  Click **Submit** or **Update** to save your changes.
 
 
-**Parent Topic:**[Client roles](../concept/c_ClientRoles.md)
+**Parent Topic:**[Client roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ClientRoles.md)
 

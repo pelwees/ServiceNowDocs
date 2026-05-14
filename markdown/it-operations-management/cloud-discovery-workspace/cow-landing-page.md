@@ -23,13 +23,13 @@ Choose one of these tiles to get started.
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-database.svg)](../task/install-cloud-ops-wrksp.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/../../../reuse/icons/brand-icons/bus-database.svg)](../task/install-cloud-ops-wrksp.md)
 
  Install Cloud Discovery Workspace
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg)](cloud-ops-wrksp-dashboard.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/../../../reuse/icons/brand-icons/bus-gender-neutral-leader-c-suite.svg)](cloud-ops-wrksp-dashboard.md)
 
  Use Cloud Discovery Workspace
 

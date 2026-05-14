@@ -21,7 +21,7 @@ Role required: sn\_aia.admin
 
 The **Define security controls** step is divided into two parts: **Define user access** and **Define data access**. The former creates an ACL that determines who can discover or invoke the AI agent. The latter defines the data that the AI agent has access to once it’s invoked.
 
-See [Security for AI agents](../concept/aia-security-implementation.md) for more information about creating ACLs and user identities for security for AI agent.
+See [Security for AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/aia-security-implementation.md) for more information about creating ACLs and user identities for security for AI agent.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ See [Security for AI agents](../concept/aia-security-implementation.md) for more
 
     Saving and moving onto the next step triggers the creation of an ACL for your AI agent. If you want to make changes later, you can return to the guided setup and change the options here. If you have the correct elevated role, you can also make edits directly on the ACL table.
 
-    ![Define user access step for Approval Assistant agent](../image/def-user-access-aia.png)
+    ![Define user access step for Approval Assistant agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/def-user-access-aia.png)
 
 3.  Define the user identity of the AI agent to determine what data it has access to.
 
@@ -56,7 +56,7 @@ See [Security for AI agents](../concept/aia-security-implementation.md) for more
 
     If you select **AI user**, the list of roles that the AI user has is displayed.
 
-    ![Define data access step for Approval Assistant agent](../image/def-data-access-aia.png)
+    ![Define data access step for Approval Assistant agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/def-data-access-aia.png)
 
 
 ## Result
@@ -65,5 +65,5 @@ You have created an ACL that determines who can discover and access your AI agen
 
 ## What to do next
 
-Select **Save and continue** to move to the next step, [Adding a trigger](add-trigger-aia.md). Adding a trigger is optional. You can also skip to the final step, [Select channels and access](channels-access-aia.md).
+Select **Save and continue** to move to the next step, [Adding a trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/add-trigger-aia.md). Adding a trigger is optional. You can also skip to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 

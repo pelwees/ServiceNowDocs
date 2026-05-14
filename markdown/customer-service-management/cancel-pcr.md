@@ -33,5 +33,5 @@ Role required: sn\_customerservice\_manager or admin
 **Related topics**  
 
 
-[Re-open a post case review](reopen-case-review-document.md)
+[Re-open a post case review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/reopen-case-review-document.md)
 

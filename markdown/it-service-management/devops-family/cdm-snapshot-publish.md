@@ -44,7 +44,7 @@ Role required: CDM Editor \[sn\_cdm.cdm\_editor\] or CDM Admin \[sn\_cdm.cdm\_ad
 
     -   On any tab for an open snapshot, select **Publish**.
     -   On the **Version** tab for an application, select **Publish** from the **Actions** menu for the snapshot.
-    ![Snapshots tab for a mature application](../image/cdm-snapshots-tab.png)
+    ![Snapshots tab for a mature application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshots-tab.png)
 
 2.  View info
 

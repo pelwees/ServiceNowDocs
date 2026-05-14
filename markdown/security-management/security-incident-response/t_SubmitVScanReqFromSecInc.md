@@ -23,7 +23,7 @@ Role required: sn\_si.write
 
 ## Procedure
 
-1.  [Create a security incident](../concept/si-manual-creation.md) and include at least one resource.
+1.  [Create a security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/si-manual-creation.md) and include at least one resource.
 
     You can also open an existing incident that has configuration items.
 
@@ -39,7 +39,7 @@ Role required: sn\_si.write
 
     A message appears at the top of the security incident form, along with a link to the scan record.
 
-    ![Scan request with link](../image/ScanRequest.png)
+    ![Scan request with link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ScanRequest.png)
 
 4.  You can Select the scan request number to view the scan record.
 

@@ -35,8 +35,8 @@ Role required: sn\_hr\_core.admin
 
     Messages are displayed to notify you of the skills that were assigned to each group member.
 
-    ![Group skill assignment messages](../image/MessagesForGroupSkillAssignment.png "Messages displayed for group skill assignment")
+    ![Group skill assignment messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/MessagesForGroupSkillAssignment.png "Messages displayed for group skill assignment")
 
 
-**Parent Topic:**[HR skills management](../concept/c_HRSkillsManagement.md)
+**Parent Topic:**[HR skills management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRSkillsManagement.md)
 

@@ -21,22 +21,22 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](../reference/configurable-wfo-itsm-scheduling-reference.md).
+You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-scheduling-reference.md).
 
 If you do any of the following:
 
 -   Import agent schedules using table import
 -   Disable business rules and use a script to load the data
 
-you must manually run the **Shift Planning - Delete All Agent Schedules Cache** [schedule job](../reference/configurable-wfo-itsm-scheduling-reference.md) to clear the cache.
+you must manually run the **Shift Planning - Delete All Agent Schedules Cache** [schedule job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-scheduling-reference.md) to clear the cache.
 
-**Note:** Your administrator can set user preferences for the pagination size to view schedule plans. For more information see, [Scheduling in Workforce Optimization for ITSM](../reference/configurable-wfo-itsm-scheduling-reference.md)
+**Note:** Your administrator can set user preferences for the pagination size to view schedule plans. For more information see, [Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-scheduling-reference.md)
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Click the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  Create a schedule plan.
 
@@ -44,13 +44,13 @@ you must manually run the **Shift Planning - Delete All Agent Schedules Cache** 
 
         **Note:** You can analyze the staff alignment for a day or for the week.
 
-    2.  In the contextual side panel, click the Show Schedules icon ![Show Schedules icon.](../image/show-schedules-icon.png) to display the schedules.
+    2.  In the contextual side panel, click the Show Schedules icon ![Show Schedules icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/show-schedules-icon.png) to display the schedules.
     3.  In the Schedules panel, click the + icon.
 
         **Tip:**
 
         -   **Search schedules:** Type keywords in the Schedules search field to access related schedule plans easily.
-        -   **Filter schedules:** Select the filter icon \(![Filter schedule](../image/show-filter-icon.png)\) and then select the desired schedule states using the **Schedule plan state** filter and the desired start and end dates using the **Schedule plan dates** filter to narrow down the display of schedules in the team calendar.
+        -   **Filter schedules:** Select the filter icon \(![Filter schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/show-filter-icon.png)\) and then select the desired schedule states using the **Schedule plan state** filter and the desired start and end dates using the **Schedule plan dates** filter to narrow down the display of schedules in the team calendar.
         You can duplicate an existing schedule to create another one. The start date changes to the day after the current date and the end date changes to 30 days from the current date.
 
     4.  In the **Name** field, enter a name for the schedule plan.
@@ -76,8 +76,8 @@ you must manually run the **Shift Planning - Delete All Agent Schedules Cache** 
 
     1.  In the **Assign agents** field, search for agents and add one or more agents to add to the shift.
     2.  To publish the schedule plan, select **Publish**.
-    It may take a few minutes for the screen to refresh. For more information on publishing a schedule plan, see [Publish a schedule plan for visibility into team coverage](publish-schedule-wfo-itsm.md).
+    It may take a few minutes for the screen to refresh. For more information on publishing a schedule plan, see [Publish a schedule plan for visibility into team coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/publish-schedule-wfo-itsm.md).
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/scheduling-configurable-workforce-optimization-itsm.md)
 

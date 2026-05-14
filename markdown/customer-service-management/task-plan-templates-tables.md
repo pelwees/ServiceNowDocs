@@ -57,9 +57,9 @@ Stores template item condition records.You can add conditions to a template item
 </table>**Related topics**  
 
 
-[Task Plan Template form](../reference/task-plan-template-form.md)
+[Task Plan Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/task-plan-template-form.md)
 
-[Template item form](../reference/task-plan-template-item-form.md)
+[Template item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/task-plan-template-item-form.md)
 
-[Template item condition form](../reference/task-plan-template-item-condition-form.md)
+[Template item condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/task-plan-template-item-condition-form.md)
 

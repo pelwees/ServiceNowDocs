@@ -170,11 +170,11 @@ As an owner of the scenario analysis, you can close the scenario analysis. The s
 
 The Operational Resilience application fetches the service entities from the Services \(OR\) entity type as shown in the following example.
 
-![Services OR entity type.](../image/entity-type-module-view-in-list-4.png "Services OR entity type")
+![Services OR entity type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/entity-type-module-view-in-list-4.png "Services OR entity type")
 
 Users with the sn\_oper\_res.admin role can view the Entity Types module and its related lists in the Operational Resilience application UI as shown in the following example.
 
-![Service entities under the Services OR entity type.](../image/entities-under-services-or-entity-type-5.png "Service entities under the Services OR entity type")
+![Service entities under the Services OR entity type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/entities-under-services-or-entity-type-5.png "Service entities under the Services OR entity type")
 
 **Note:** You can only select the entities that belong to the Facilities, People, Suppliers, and Technology pillars. The Services and Processes pillars are filtered out from the list of the pillars for the entities.
 
@@ -182,7 +182,7 @@ Users with the sn\_oper\_res.admin role can view the Entity Types module and its
 
 Each service has a few dependencies associated with it. The **Compute Operational Resilience Compliance** scheduled job runs in the background and populates the dependencies for the services. The following example shows that the Addison, TX United States HVAC entity is listed as a dependency for supporting the Faster Retail Payments service.
 
-![Dependencies for the services.](../image/dependencies.png "Dependencies for the services")
+![Dependencies for the services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dependencies.png "Dependencies for the services")
 
 You can only select the dependencies that belong to the Facilities, People, Suppliers, and Technology pillars. The Services and Processes pillars are filtered out from the list of the pillars for the dependencies.
 
@@ -194,7 +194,7 @@ On the **Responses** tab, the details of the response task such as the response 
 
 The owner of the scenario event can add a service and a dependency to the response task. The assignee of the response task can complete the response task, add their notes about the scenario event, and update the impact duration of the scenario event as shown in the following example.
 
-![Notes about the scenario event.](../image/sce-event-notes.png "Notes about the scenario event")
+![Notes about the scenario event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sce-event-notes.png "Notes about the scenario event")
 
 ## Known issue for upgrading from Release 15.x.x to Release 16.x.x
 
@@ -208,7 +208,7 @@ As a workaround for this issue, the Operational Resilience manager must remove t
 
 You can view information on the services, scenarios, disruptions, and events in the Summary panel as shown in the following example.
 
-![Summary panel of the scenario analysis form.](../image/summary-panel.png "Summary panel of the scenario analysis form")
+![Summary panel of the scenario analysis form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/summary-panel.png "Summary panel of the scenario analysis form")
 
 The Summary panel provides information about the business services, associated scenarios, disruptions, and events. For a description of the field values, see the following table.
 

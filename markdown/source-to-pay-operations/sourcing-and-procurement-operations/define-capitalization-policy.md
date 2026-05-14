@@ -31,7 +31,7 @@ You can define a capitalization policy from the Sourcing and Purchasing Automati
 
 3.  On the form, fill in the fields.
 
-    ![Capitalization policy.](../image/create_capitalization_policy.png)
+    ![Capitalization policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_capitalization_policy.png)
 
     |Field|Description|
     |-----|-----------|
@@ -45,5 +45,5 @@ You can define a capitalization policy from the Sourcing and Purchasing Automati
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 

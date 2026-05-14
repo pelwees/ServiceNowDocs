@@ -19,7 +19,7 @@ Moveworks combines agentic reasoning with enterprise-ready integrations to deliv
 
 Here is a quick overview of the product capabilities:
 
-![Moveworks foundation](../images/moveworks-capabilities.png "Moveworks overview")
+![Moveworks foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/moveworks-capabilities.png "Moveworks overview")
 
 -   **Moveworks AI-Powered Employee Assistant**: AI Assistant provides an agentic AI experience that millions of employees love for instant support and self-service.
 -   **Rapid Agent Development**: Agent Studio enables developers to build powerful, enterprise-ready AI agents quickly without extensive coding.

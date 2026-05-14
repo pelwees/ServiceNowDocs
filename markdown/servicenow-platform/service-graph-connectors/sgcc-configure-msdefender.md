@@ -32,11 +32,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-ui.md).
 
 ## Procedure
 
@@ -54,7 +54,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](sgcc-first-time-setup.md).
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing Microsoft Defender for Endpoint data.
 
@@ -84,7 +84,7 @@ OAuth Client ID
 
 </td><td>
 
-Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Application \(client\) ID of your Microsoft Defender for Endpoint as described in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ OAuth Client Secret
 
 </td><td>
 
-Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Client Secret of your Microsoft Defender for Endpoint as described in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Token URL of your Microsoft Defender for Endpoint.Enter the token URL in the fol
 https://login.microsoftonline.com/*&lt;tenantid&gt;*/oauth2/v2.0/token
 ```
 
-Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
+Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Defender for Endpoint as described in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-msdefender.md#prereq_bbj_rbg_ndc) section.
 
 </td></tr><tr><td>
 
@@ -157,9 +157,9 @@ Select **View all connections** to review the connection details. The configured
 **Related topics**  
 
 
-[Service Graph Connector for Microsoft Defender Endpoint](../../configuration-management/concept/sgc-cmdb-integration-msdefender.md)
+[Service Graph Connector for Microsoft Defender Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-integration-msdefender.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft Defender Endpoint](../../configuration-management/reference/sgc-cmdb-msdefender-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft Defender Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/reference/sgc-cmdb-msdefender-classes.md)
 
-[Accessing the connection details of Service Graph Connector for Microsoft Defender Endpoint](../../configuration-management/concept/sgc-cmdb-msdefender-conn.md#)
+[Accessing the connection details of Service Graph Connector for Microsoft Defender Endpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../configuration-management/concept/sgc-cmdb-msdefender-conn.md#)
 

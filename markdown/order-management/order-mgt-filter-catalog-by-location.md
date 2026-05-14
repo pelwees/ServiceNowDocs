@@ -15,7 +15,7 @@ Agents can filter products in the catalog by using the location function in Orde
 
 ## Before you begin
 
-Location-based product transaction capability must be activated to enable location-based filtering in Order Management. For more information [Activate location-based transactions](som-activate-location-filter.md).
+Location-based product transaction capability must be activated to enable location-based filtering in Order Management. For more information [Activate location-based transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-activate-location-filter.md).
 
 Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_agent
 
@@ -39,5 +39,5 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_agent
 **Related topics**  
 
 
-[Configuring location-based product transactions](../concept/config-location-transaction.md)
+[Configuring location-based product transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/config-location-transaction.md)
 

@@ -63,7 +63,7 @@ The default genius search result font size settings are:
 -   This setting for Catalog is found in the **em\_catalog\_genius\_results\_template** template script.
 
 </td></tr></tbody>
-</table>![Search results examples of normal search results, showing auto-spell correction, title text, and summary text.](../image/normal-search-result.jpg "Normal search result text appearance in Engagement Messenger")
+</table>![Search results examples of normal search results, showing auto-spell correction, title text, and summary text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/normal-search-result.jpg "Normal search result text appearance in Engagement Messenger")
 
-![Genius search result with automatic font size adjustment for identifier text, heading text, and description text.](../image/genius-result.jpg "Genius search result text appearance in Engagement Messenger")
+![Genius search result with automatic font size adjustment for identifier text, heading text, and description text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/genius-result.jpg "Genius search result text appearance in Engagement Messenger")
 

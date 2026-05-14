@@ -36,10 +36,10 @@ Role required: cmdb\_ot\_editor
 2.  If you want to view the dependency map for an OT system service in the Industrial Workspace, complete the following actions:
 
     1.  Navigate to **All** &gt; **Industrial Workspace**.
-    2.  Select the List \(![List icon](../../../common/image/icon-list.png)\) icon.
+    2.  Select the List \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
     3.  Under the **Operational Technology \(OT\)** module, select the **OT Systems** list.
     4.  Select the OT system service record you want to view the OT dependency map for.
     5.  Select **View OT Dependency map**.
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/modeling-ot-system.md)
 

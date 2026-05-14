@@ -27,7 +27,7 @@ The **Invoice lines affected** tab is displayed only for exception tasks that ar
 
 1.  Navigate to **Source-to-Workspace** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -40,5 +40,5 @@ The **Invoice lines affected** tab is displayed only for exception tasks that ar
 6.  Select the **Invoice lines affected** tab to view details about each invoice line exception.
 
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-invoice-exceptions.md)
 

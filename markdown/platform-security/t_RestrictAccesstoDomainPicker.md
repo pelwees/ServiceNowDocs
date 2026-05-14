@@ -21,7 +21,7 @@ Role required: admin
 
 By default, users with the ITIL role, and roles that include the ITIL role \(such as the administrator\), can access the domain picker in Next Experience. You can grant other roles access by adding them to the property or restrict roles by removing them. It is recommended to restrict the role to admins only.
 
-Admins can grant access to users by creating a system property in the sys\_properties table.![Polaris domain picker UI](../image/domain-sep-global-polaris.png)
+Admins can grant access to users by creating a system property in the sys\_properties table.![Polaris domain picker UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/domain-sep-global-polaris.png)
 
 ## Procedure
 
@@ -34,10 +34,10 @@ Admins can grant access to users by creating a system property in the sys\_prope
     To learn more, see [Configure Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md)
 
 
-**Parent Topic:**[Use domain selection menus](../concept/c_DisplayingDomainSelectionMenus.md)
+**Parent Topic:**[Use domain selection menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DisplayingDomainSelectionMenus.md)
 
 **Related topics**  
 
 
-[Enable domain selection menus in Core UI](t_EnableDomainReferencePickerProperty.md)
+[Enable domain selection menus in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_EnableDomainReferencePickerProperty.md)
 

@@ -33,10 +33,10 @@ Role required: admin
 
     **Note:** The **Condition with Event BR \(Demo\)** activity set is an example of what you can use. This is an optional solution, but you can create and use server-side code \(business rule, event script, scheduled job, etc.\) that triggers the check\_activity\_set\_trigger event into the HR Activity Set Trigger Check workflow.
 
-5.  Select the edit \(![Edit icon](../../legal-mobile/image/edit-icon.png)\) in the **Condition with Event BR \(Demo\)** activity set.
+5.  Select the edit \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../../legal-mobile/image/edit-icon.png)\) in the **Condition with Event BR \(Demo\)** activity set.
 
     -   The **Trigger type** is **Condition**.
     -   When the **State** of the LE/HR case changes to **Work in Progress**, the **Condition with Event BR \(Demo\)** activity set triggers and sends a email.
 
-**Parent Topic:**[Lifecycle Events evaluation interval](../concept/le-evaluation-interval1.md)
+**Parent Topic:**[Lifecycle Events evaluation interval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../concept/le-evaluation-interval1.md)
 

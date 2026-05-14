@@ -22,19 +22,19 @@ Defined desktop actions are categorized into two categories.
 
 ## Key interfaces related to AI Desktop Actions
 
--   **[Design workspace](agentic-desktop-overview.md)**
+-   **[Design workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md)**
 
     Create and test desktop actions that define how automations interact with desktop applications.
 
--   **[Execution workspace](agentic-desktop-excution-workspace.md)**
+-   **[Execution workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-excution-workspace.md)**
 
     Automatically runs desktop actions in an isolated desktop session during testing or execution. You do not open this workspace directly.
 
--   **[AI Agent Studio](../../../administer/now-assist-ai-agents/concept/ai-agent-studio.md)**
+-   **[AI Agent Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/concept/ai-agent-studio.md)**
 
     Create and manage AI agents that run desktop actions.
 
--   **[Now Assist panel](../../../administer/now-assist-platform/concept/now-assist-panel-overview.md)**
+-   **[Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-platform/concept/now-assist-panel-overview.md)**
 
     Trigger automations from within ServiceNow.
 
@@ -86,7 +86,7 @@ Optimize business processes by automating manual desktop interactions.
 </td></tr></tbody>
 </table>## How AI Desktop Actions works end-to-end
 
-![Agentic Workflow diagram showing four stages: Desktop actions, AI agents, Execution, and Desktop-in-Desktop with related tasks and workspace tools.](../image/agentic-desktop-workflow.png "Workflow for automating fixed steps using desktop actions")
+![Agentic Workflow diagram showing four stages: Desktop actions, AI agents, Execution, and Desktop-in-Desktop with related tasks and workspace tools.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/agentic-desktop-workflow.png "Workflow for automating fixed steps using desktop actions")
 
 This workflow shows how AI Desktop Actions works end to end from designing desktop actions to running them during execution. As you move through the workflow, note which steps you perform manually and which steps are handled automatically by the system.
 
@@ -111,7 +111,7 @@ You don’t open the Execution workspace directly. It launches automatically whe
 -   Step in and out of the automation where your inputs are required.
 -   Check the outcome of the execution in the Now Assist panel.
 
-For more information, see [Defined path desktop actions in AI Desktop Actions](desktop-actions-designer-workspace-ad.md) and [Creating AI agents for AI Desktop Actions](create-ai-agents-ad.md).
+For more information, see [Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md) and [Creating AI agents for AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-agents-ad.md).
 
 ## AI Desktop Actions capabilities
 
@@ -143,11 +143,11 @@ For more information, see [Defined path desktop actions in AI Desktop Actions](d
 **Related topics**  
 
 
-[Configure AI Desktop Actions](../task/configure-agentic-desktop.md)
+[Configure AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/configure-agentic-desktop.md)
 
-[Examples of creating desktop actions](examples-of-agentic-desktop-automation.md)
+[Examples of creating desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/examples-of-agentic-desktop-automation.md)
 
-[Examples of executing desktop actions using AI agents](use-agentic-desktop.md)
+[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-[AI Desktop Actions reference](../reference/agentic-desktop-reference.md)
+[AI Desktop Actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/agentic-desktop-reference.md)
 

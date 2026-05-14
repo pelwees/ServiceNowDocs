@@ -18,7 +18,7 @@ After opening a request, you can modify the details and update it.
 1.  Perform one of the following actions:
 
     -   **Facilities** &gt; **Open** and open the request you want to modify.
-    -   **Facilities** &gt; **View Floor Plans**, click the request icon \(![Request icon.](../image/FacilitiesRequest.png)\), and click the request number on the list that appears.
+    -   **Facilities** &gt; **View Floor Plans**, click the request icon \(![Request icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/FacilitiesRequest.png)\), and click the request number on the list that appears.
 2.  On the Facilities Request form, click the reference lookup icon beside **Room**.
 
     A list of locations defined for your organization appears. A location could be a room or any point on a floor plan.
@@ -28,5 +28,5 @@ After opening a request, you can modify the details and update it.
     If you don't see the location, contact the facilities administrator to add the location to the floor plan.
 
 
-**Parent Topic:**[Facilities requests](../../facilities-service-management/concept/c_FacilitiesRequests.md)
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-service-management/concept/c_FacilitiesRequests.md)
 

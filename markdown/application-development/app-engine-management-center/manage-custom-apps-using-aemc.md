@@ -19,11 +19,11 @@ The App Engine adoption metrics section of the AEMC Overview page shows how many
 
 The Custom apps page in AEMC shows more detailed metrics and a full list of your applications. In each tile in the Custom app lifecycle status section, you can see trending data for the last 90 days. You can show all apps in the Custom apps list or limit the list to only certain types of applications using the filter. Select a trend chart to filter the list to those criteria.
 
-![Custom app page, with high-level metrics and list of all apps](../image/custom-app-page.png)
+![Custom app page, with high-level metrics and list of all apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/custom-app-page.png)
 
 The Custom app page also lists all the applications individually, with a single record for each application. If the app has been published to production, the **Published Version** column shows the version number. If the **Published Version** column is blank, the app exists in development but has never been published to production.
 
-![List of all custom apps](../image/custom-app-list-purple.png)
+![List of all custom apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/custom-app-list-purple.png)
 
 View the app's usage data, subscription monitoring details,deployment history, and collaborators, if any, by selecting an application name from the list.
 
@@ -65,7 +65,7 @@ App Engine admins do not have permissions to change subscriptions. However, if a
 
 You can select a user's name in the **Assigned Users** section to see a role inheritance map. This map shows how this user inherited the role, whether from a parent role, a group assignment, or another inheritance. This information can help you take action if someone has a role you believe they shouldn't, and you want to change it.
 
-![Role inheritance map, showing how a user got their roles](../image/role-inheritance-map.png "Role inheritance map")
+![Role inheritance map, showing how a user got their roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/role-inheritance-map.png "Role inheritance map")
 
 ## App deployments
 
@@ -83,5 +83,5 @@ View the collaborators for the app by selecting the **Collaborators** tab. All c
 
 If you must take quick action in the application to fix an issue or defect, you can quickly see who has permissions to make changes in an app and what those permissions are.
 
-**Parent Topic:**[Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
+**Parent Topic:**[Managing app development using the App Engine Management Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../app-engine-management-center/concept/managing-app-development-using-aemc.md)
 

@@ -21,7 +21,7 @@ The Knowledge article view component automatically adapts its layout when displa
 
 When you access knowledge articles through Web Embeddables capability on a mobile device, it detects your screen size and adjusts the interface to fit mobile dimensions. While the article loads, you see a visual placeholder that shows where content will appear. The article page content, navigation controls, and selection options reorganize to provide better usability on touch devices.
 
-![Knowledge article component mobile view displaying knowledge article about adding users to an instance.](../image/we-mobile-adaptive-know-view.png "Knowledge article view component mobile view")
+![Knowledge article component mobile view displaying knowledge article about adding users to an instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-mobile-adaptive-know-view.png "Knowledge article view component mobile view")
 
 ## Key capabilities
 

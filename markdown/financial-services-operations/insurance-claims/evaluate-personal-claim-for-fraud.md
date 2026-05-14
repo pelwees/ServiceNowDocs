@@ -29,7 +29,7 @@ When business rule logic identifies a claim case as a 'close proximity' claim- a
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from the special investigation tasks list.
 

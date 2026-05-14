@@ -15,7 +15,7 @@ The SCCM plugins can be activated by an administrator and requires the Integrati
 
 ## Before you begin
 
-For a complete listing of the plugins that need to be activated, see [Activate SCCM Asset Intelligence scheduled imports](activate-ai-scheduled-imports.md).
+For a complete listing of the plugins that need to be activated, see [Activate SCCM Asset Intelligence scheduled imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/activate-ai-scheduled-imports.md).
 
 Role required: admin
 
@@ -34,5 +34,5 @@ Role required: admin
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_MicrosoftSCCMIntegration.md)
 

@@ -29,9 +29,9 @@ Role required: sn\_wsd\_visitor.manager, sn\_wsd\_core.workplace\_manager
 
 4.  From the **Collection** column, select the workplace locations that the template must be assigned to.
 
-5.  Move the workplace location to the **Workplace location List** column by using the add-remove icon \(![Add-remove icon.](../../wsd-reservation-management/image/add-remove-icon.png)\).
+5.  Move the workplace location to the **Workplace location List** column by using the add-remove icon \(![Add-remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../wsd-reservation-management/image/add-remove-icon.png)\).
 
-    **Note:** You can remove workplace locations from the **Workplace location list** column by using the add-remove icon \(![Add-remove icon.](../../wsd-reservation-management/image/add-remove-icon.png)\).
+    **Note:** You can remove workplace locations from the **Workplace location list** column by using the add-remove icon \(![Add-remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../wsd-reservation-management/image/add-remove-icon.png)\).
 
 6.  Select **Save**.
 
@@ -46,5 +46,5 @@ If a location doesn't have an assigned badge template, the nearest template from
 
 If the visitor picture is not found, a default avatar is used for the badge template. You can change the avatar picture in the **sn\_wsd\_visitor.visitor\_avatar.png** record of the Images \[db\_image\] table.
 
-**Parent Topic:**[Create a visitor badge template](create-visitor-badge-template.md)
+**Parent Topic:**[Create a visitor badge template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/create-visitor-badge-template.md)
 

@@ -22,7 +22,7 @@ Role required:
 -   sn\_sec\_tisc.admin \(create/update\)
 -   sn\_sec\_tisc.analyst \(read\)
 
-![TISC Catalog](../image/tisc-catolog.png)
+![TISC Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-catolog.png)
 
 **Note:** The cards on the catalog are differentiated by their label at the top of the card: **Threat Feed/Enrichment**.
 
@@ -55,11 +55,11 @@ Refresh list
 
 </td><td>
 
-Use the refresh icon ![Refresh](../image/enrich-refresh-icon.png) to refresh the list.
+Use the refresh icon ![Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-refresh-icon.png) to refresh the list.
 
 </td></tr><tr><td>
 
-![Sort](../image/enrich-sort-icon.png)
+![Sort](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-sort-icon.png)
 
 </td><td>
 
@@ -77,12 +77,12 @@ Search in catalog
 Use this action to search for feeds and integrations based on the name and description within the catalog.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integrate](integrating-threat-intelligence-security-center.md)
+</table>**Parent Topic:**[Integrate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/integrating-threat-intelligence-security-center.md)
 
 **Related topics**  
 
 
-[Threat Intelligence Feeds](threat-intelligence-feeds.md)
+[Threat Intelligence Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-[TISC Integrations](tisc-integrations.md)
+[TISC Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-integrations.md)
 

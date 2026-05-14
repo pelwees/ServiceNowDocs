@@ -38,5 +38,5 @@ Role required: sn\_privacy.manager
 
 The data subject type that you classified as vulnerable contributes to the criticality score being High.
 
-**Parent Topic:**[Using Privacy Management](using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 

@@ -370,5 +370,5 @@ Amount of outbound network traffic in bytes per second.
 Zabbix
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Zabbix templates](zabbix-templates.md)
+</table>**Parent Topic:**[Zabbix templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/zabbix-templates.md)
 

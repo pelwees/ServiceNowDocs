@@ -31,9 +31,9 @@ Roles required: agent\_client\_collector\_admin
 
 3.  Locate the **Agent Upgrade Histories** tab.
 
-    ![Agent Upgrade Histories tab](../image/agent-upgrade-histories-tab.png)
+    ![Agent Upgrade Histories tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/agent-upgrade-histories-tab.png)
 
-4.  Underneath the check box ![Check box](../image/check-box-icon.png) icon, hover next to a failed upgrade entry and select the check box that appears.
+4.  Underneath the check box ![Check box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/check-box-icon.png) icon, hover next to a failed upgrade entry and select the check box that appears.
 
 5.  Select the arrow next to the **Actions on selected rows...** drop-down and select **Delete**.
 

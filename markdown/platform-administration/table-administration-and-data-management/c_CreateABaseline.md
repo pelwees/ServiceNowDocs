@@ -17,13 +17,13 @@ A Planned Task Baseline is a record of the start and end times of the planned ta
 
 To create a baseline, navigate to the form of the top planned task and select the **Create a Baseline** related link:
 
-![Create baseline for the current task.](../image/PTBaseline.png "Create baseline")
+![Create baseline for the current task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/PTBaseline.png "Create baseline")
 
 To view the baseline, configure the related lists to add a related list of baselines:
 
-![Baseline related list](../image/PTBaseline2.png "Baselines tab")
+![Baseline related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/PTBaseline2.png "Baselines tab")
 
 The baseline can be viewed on a Gantt Chart using the related link.
 
-**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PlannedTask.md)
 

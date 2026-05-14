@@ -27,7 +27,7 @@ Analyze the service issue in an incident, problem, or change record. Update the 
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List Icon.](../../../common/image/icon-list.png)\)
+2.  Select the list icon \(![List Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../../../common/image/icon-list.png)\)
 
 3.  Navigate to **All** &gt; **Incidents** &gt; **All**.
 
@@ -37,7 +37,7 @@ Analyze the service issue in an incident, problem, or change record. Update the 
 
 6.  In the Affected customers section, select the account that has a case record where you want to sent the message.
 
-7.  Select the more option icon \(![More Option Icon.](../image/icon-more-option.png)\).
+7.  Select the more option icon \(![More Option Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/icon-more-option.png)\).
 
 8.  Select **Messages** from the option list.
 
@@ -50,10 +50,10 @@ Analyze the service issue in an incident, problem, or change record. Update the 
 
 A note is automatically inserted in the **Activity** field of the incident record and also in the selected cases record. If your customer updates the case with any message, it automatically synchronizes with the incident record too.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/enhance-customer-impact-visibility-psew-process.md)
 

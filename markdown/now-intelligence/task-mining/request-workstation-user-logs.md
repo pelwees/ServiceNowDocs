@@ -48,7 +48,7 @@ A data request goes to every manager of each workstation user for approval.
 
 ## What to do next
 
-If you are an approver, [Approve workspace user data collection](approve-workspace-user-log-requests.md).
+If you are an approver, [Approve workspace user data collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/approve-workspace-user-log-requests.md).
 
-If you want to track the progress of data log requests, see [Follow data request progress](manage-data-log-requests.md).
+If you want to track the progress of data log requests, see [Follow data request progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/manage-data-log-requests.md).
 

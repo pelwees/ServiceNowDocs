@@ -15,7 +15,7 @@ You can configure the left padding of the system numbers on a table. For example
 
 ## Before you begin
 
-If you are configuring numbers on a custom table or a table that does not extend the task table, then, before performing the following procedure, you must prepare business rules and script includes. For more information, see [Prepare to left-pad number fields in custom tables](t_PrepToLeftPadNumFldsInCustmTbls.md).
+If you are configuring numbers on a custom table or a table that does not extend the task table, then, before performing the following procedure, you must prepare business rules and script includes. For more information, see [Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_PrepToLeftPadNumFldsInCustmTbls.md).
 
 Role required: admin
 
@@ -39,12 +39,12 @@ Role required: admin
 
     Number padding is applied to both existing and new records.
 
-    ![Sys number padded](../image/SysNumberPadded.png)
+    ![Sys number padded](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/SysNumberPadded.png)
 
     The result of the configuration in the image is an Incident number that is left padded.
 
-    ![Padded incident number](../image/PaddedIncidentnumber.png)
+    ![Padded incident number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PaddedIncidentnumber.png)
 
 
-**Parent Topic:**[Prepare to left-pad number fields in custom tables](t_PrepToLeftPadNumFldsInCustmTbls.md)
+**Parent Topic:**[Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_PrepToLeftPadNumFldsInCustmTbls.md)
 

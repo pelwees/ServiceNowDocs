@@ -25,7 +25,7 @@ Apps and integrations that are available for no additional cost might require ap
 
 1.  Access the isolated federal or regional ServiceNow Store instance that corresponds to your regulated environment.
 
-    For more information, see [Access the ServiceNow Store for a regulated environment](access-regulated-store.md).
+    For more information, see [Access the ServiceNow Store for a regulated environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/access-regulated-store.md).
 
 2.  Find and select the free app or integration you want.
 
@@ -50,7 +50,7 @@ Apps and integrations that are available for no additional cost might require ap
 
 The application is available for installation within 24 hours of license confirmation. If the application isn't available to install from the Application Manager within 24 hours, contact Now Support for assistance.
 
-Confirmation emails for the application and any dependencies that were procured are sent to the email address associated with your ServiceNow Store account. For information about configuring which email address receives notifications for this application, see [Configure ServiceNow Store application notification preferences](configure-store-notifications.md).
+Confirmation emails for the application and any dependencies that were procured are sent to the email address associated with your ServiceNow Store account. For information about configuring which email address receives notifications for this application, see [Configure ServiceNow Store application notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-store-notifications.md).
 
 **Note:** It can take up to two business days for the application to be available for installation after final approval.
 
@@ -58,6 +58,6 @@ Confirmation emails for the application and any dependencies that were procured 
 
 Install the app on compatible production or non-production instances, based on whether you have a hosted or on-premise instance:
 
--   If your instance is in a hosted regulated environment, install the app using the Application Manager. For more information, see [Install an application or plugin](../../../build/applications/task/installing-applications-in-application-manager.md).
--   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](../concept/getting-apps-on-prem.md)
+-   If your instance is in a hosted regulated environment, install the app using the Application Manager. For more information, see [Install an application or plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../build/applications/task/installing-applications-in-application-manager.md).
+-   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/getting-apps-on-prem.md)
 

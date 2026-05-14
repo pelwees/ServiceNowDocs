@@ -36,10 +36,10 @@ Set system properties to enable "Did you mean?" suggestions in the Knowledge Bas
 3.  Select **Save**.
 
 
-**Parent Topic:**[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+**Parent Topic:**[Global text search suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_GlobalTextSearchSuggestions.md)
 
 **Related topics**  
 
 
-[Update a type-ahead suggestion](t_UpdateATypeAheadSuggestion.md)
+[Update a type-ahead suggestion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_UpdateATypeAheadSuggestion.md)
 

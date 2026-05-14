@@ -27,13 +27,13 @@ Role required: Microsoft Azure admin
 
 3.  Search for and open the new bot created for Notify Connector by name or by Application \(client\) ID.
 
-    The app was created in the section [Create an app in Microsoft Teams to enable making calls](../../notify2/task/create-app-ms-teams.md).
+    The app was created in the section [Create an app in Microsoft Teams to enable making calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../notify2/task/create-app-ms-teams.md).
 
 4.  Expose an API.
 
     1.  Navigate to **Manage** &gt; **Expose an API** &gt; **Application ID URI** &gt; **Set**.
 
-    2.  Paste the Application ID URI `api://<instance_name>.service-now.com/<client-id-in-azure>`, which was set for the Single-sign on in the section [Create and configure an app for Meeting Extensions in the Microsoft Teams Developer Portal](config-nc-use-meeting-ext-ms-teams-portal.md) and select **Save**.
+    2.  Paste the Application ID URI `api://<instance_name>.service-now.com/<client-id-in-azure>`, which was set for the Single-sign on in the section [Create and configure an app for Meeting Extensions in the Microsoft Teams Developer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-nc-use-meeting-ext-ms-teams-portal.md) and select **Save**.
 
     3.  Select **Add a scope**.
 
@@ -125,5 +125,5 @@ Set to **Enabled**
     8.  Select **Add application**.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-single-tenant.md)
 

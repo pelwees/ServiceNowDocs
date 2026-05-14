@@ -41,17 +41,17 @@ The following procedure covers step three of four steps in the Translation Reque
 
 2.  Reveal the filter row by selecting the **Show column filter row** icon, if needed.
 
-    ![The Translation Request wizard at step 2, Scope. The Show column filter row toggle is highlighted.](../image/lw-request-translations-scope-show-filter-row.png)
+    ![The Translation Request wizard at step 2, Scope. The Show column filter row toggle is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-scope-show-filter-row.png)
 
 3.  Filter the list according to terms in the document titles \(Translation Item\), or by Translation State or Language.
 
-    ![The Show column filter displays under each column. Under Translation Item, the filter is Operator starts with "How", so only documents whose titles start with the word How are displayed.](../image/lw-request-translations-scope-filter-row.png)
+    ![The Show column filter displays under each column. Under Translation Item, the filter is Operator starts with "How", so only documents whose titles start with the word How are displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-scope-filter-row.png)
 
-4.  Reveal the Types pane by opening the **Resizable panes divider**, then expand Types by selecting the caret icon. ![In the Scope step, the Types pane is open with the Resizable panes divider highlighted.](../image/lw-request-translations-scope-resizeable-panes.png)
+4.  Reveal the Types pane by opening the **Resizable panes divider**, then expand Types by selecting the caret icon. ![In the Scope step, the Types pane is open with the Resizable panes divider highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-scope-resizeable-panes.png)
 
 5.  Deselect any retrieved documents that you don't want to include in your request by clearing the item's check box.
 
-    You can use the bulk select/deselect check box in the Filter row to select \(or clear\) a set of items. If anything is highlighted in the Types pane, bulk selection/deselection applies only to the highlighted type or language.![Under the Types pane, one language (Brazilian Portuguese) is selected, and also the bulk select/deselect check box is cleared. This means that Brazilian Portuguese documents are excluded from the request.](../image/lw-request-translations-scope-types-selector.png)
+    You can use the bulk select/deselect check box in the Filter row to select \(or clear\) a set of items. If anything is highlighted in the Types pane, bulk selection/deselection applies only to the highlighted type or language.![Under the Types pane, one language (Brazilian Portuguese) is selected, and also the bulk select/deselect check box is cleared. This means that Brazilian Portuguese documents are excluded from the request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-scope-types-selector.png)
 
 6.  Select **Save**.
 

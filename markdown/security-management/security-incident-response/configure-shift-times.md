@@ -45,10 +45,10 @@ Role required:
 
 The new shift is added on the Shift Time Configurations page.
 
-**Parent Topic:**[Configure Shift Handover](../concept/config-shift-handover.md)
+**Parent Topic:**[Configure Shift Handover](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/config-shift-handover.md)
 
 **Related topics**  
 
 
-[Configure Shift Handover Templates](configure-shift-handover-templates.md)
+[Configure Shift Handover Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-shift-handover-templates.md)
 

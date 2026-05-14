@@ -31,10 +31,10 @@ If you no longer need your PDI or you are not going to be able to use it for an 
 
     3.  In the **Your instance actions** dialog, read the details and select a reason for releasing your instance from the choice list.
 
-        ![Specify why you're releasing an instance](../image/release-pdi.png)
+        ![Specify why you're releasing an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/release-pdi.png)
 
     4.  Click the **Release instance** button.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

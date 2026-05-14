@@ -21,11 +21,11 @@ Role required: admin
 
 When **glide.sg.block\_mobile\_attachments\_sharing** system property is set to `false`, users can download or share attachments by tapping the share button on their device screens:
 
-![Mobile app with share button displaying](../image/share-button-displayed.png)
+![Mobile app with share button displaying](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/share-button-displayed.png)
 
 When **glide.sg.block\_mobile\_attachments\_sharing** system property is set to `true`, the share button on users' device screens isn't displayed. In this case, users can't download or share attachments:
 
-![Mobile app without the share button](../image/no-share-button-displayed.png)
+![Mobile app without the share button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/no-share-button-displayed.png)
 
 ## Procedure
 
@@ -75,5 +75,5 @@ Enter one of the following values:
 </table>4.  Right-click the banner at the top of the **glide.sg.block\_mobile\_attachments\_sharing** form and select **Save**.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/additional-mobile-configuration.md)
 

@@ -27,7 +27,7 @@ Role required: Adobe Cloud admin
 
 2.  Add an API to your project by selecting **Add API**.
 
-    For more information, see [Add API to project using OAuth](https://developer.adobe.com/developer-console/docs/guides/services/services-add-api-oauth/).![Adobe Developer Console user interface showing the Add API functionality](../image/adobe-add-api.png)
+    For more information, see [Add API to project using OAuth](https://developer.adobe.com/developer-console/docs/guides/services/services-add-api-oauth/).![Adobe Developer Console user interface showing the Add API functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/adobe-add-api.png)
 
 3.  Select **User Management API** for the Adobe service that you want to integrate with.
 
@@ -70,6 +70,6 @@ Role required: Adobe Cloud admin
 
         For example, here the Connection URL is the highlighted part.
 
-        ![Connection URL in Adobe Developer Console.](../image/access-token-adobe.jpg)
+        ![Connection URL in Adobe Developer Console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/access-token-adobe.jpg)
 
 

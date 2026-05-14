@@ -121,7 +121,7 @@ Select a Taxonomy
 
 </td><td>
 
-Select the taxonomy for the imported data. Using taxonomies, define dictionaries that can be used as taxonomies assigned to threat intelligence records. For example, CAPEC nomenclature. For more information, see [Creating Taxonomies](../concept/create-taxonomies.md).
+Select the taxonomy for the imported data. Using taxonomies, define dictionaries that can be used as taxonomies assigned to threat intelligence records. For example, CAPEC nomenclature. For more information, see [Creating Taxonomies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-taxonomies.md).
 
 </td></tr><tr><td>
 
@@ -171,14 +171,14 @@ Select this check box if you wish to over ride the source values for TLP, Confid
 12. Click **Go Back** to go back to the previous page and review the record, if necessary.
 
 
-**Parent Topic:**[Import Intelligence in TISC](../concept/importing-threat-intelligence.md)
+**Parent Topic:**[Import Intelligence in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/importing-threat-intelligence.md)
 
 **Related topics**  
 
 
-[Import data using structured file](import-data-using-structured-file.md)
+[Import data using structured file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/import-data-using-structured-file.md)
 
-[Import data using raw text](import-data-using-pasted-text.md)
+[Import data using raw text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/import-data-using-pasted-text.md)
 
-[Import data using unstructured file format](import-data-using-unstructured-file.md)
+[Import data using unstructured file format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/import-data-using-unstructured-file.md)
 

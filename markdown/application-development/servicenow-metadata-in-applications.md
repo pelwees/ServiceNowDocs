@@ -71,5 +71,5 @@ Metadata is used in applications in several different ways.
     When you install applications from the ServiceNow Store, you import a package of metadata that gets installed into your instance.
 
 
-**Parent Topic:**[Overview of building apps in ServiceNow](overview-building-apps-in-servicenow.md)
+**Parent Topic:**[Overview of building apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/overview-building-apps-in-servicenow.md)
 

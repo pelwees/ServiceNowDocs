@@ -21,13 +21,13 @@ Role required: workspace\_user
 
 Use tags to filter activities in the Activity stream by dynamic and static states that are not offered in filter lists.
 
-**Important:** Tags are enabled and created by your administrator. For instructions, see [Configure tags for the Activity stream](tags-activity-stream-admin.md).
+**Important:** Tags are enabled and created by your administrator. For instructions, see [Configure tags for the Activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tags-activity-stream-admin.md).
 
 ## Procedure
 
 1.  Open a record in your instance.
 
-2.  From the Activity stream, select the filter icon \(![Filter icon](image/filter-icon-new.png)\).
+2.  From the Activity stream, select the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/image/filter-icon-new.png)\).
 
 3.  Select the **Tags** filter, and select tags related to activities you want to view.
 
@@ -36,5 +36,5 @@ Use tags to filter activities in the Activity stream by dynamic and static state
 
 Activities with the tags you selected are displayed in the Activity stream.
 
-![Activity stream with tags](image/x-activity-tags-agent.png)
+![Activity stream with tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/image/x-activity-tags-agent.png)
 

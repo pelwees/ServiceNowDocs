@@ -30,7 +30,7 @@ Automatic Key Exchange is active by default when cloning an instance, where the 
 -   **Turn off automatic key exchange:** Set the **glide\_encryption.auto\_key\_exchange.enabled** property to **false** for recurring clone requests.
 -   **Send auto key exchange requests**: Set this property to **true**.
 
-**Important:** The base system property is set to **true** by default, meaning that automatic key exchange is activated when cloning an instance. This value must be set to **false** if you're using the [Rekey ciphertext with Key Exchange](../reference/rekey-keyexchange.md) or the recurring Key Exchange functionality. See [Recurring Key Exchange walkthrough](key-exchange-walkthrough.md) for additional details.
+**Important:** The base system property is set to **true** by default, meaning that automatic key exchange is activated when cloning an instance. This value must be set to **false** if you're using the [Rekey ciphertext with Key Exchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../reference/rekey-keyexchange.md) or the recurring Key Exchange functionality. See [Recurring Key Exchange walkthrough](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-exchange-walkthrough.md) for additional details.
 
 ## Procedure
 
@@ -82,7 +82,7 @@ Crypto Specifications
 
 </td><td>
 
-The keys from the crypto specification in a crypto module define the keys to clone. For both one-time and recurring clone requests, your instance automatically creates a **Resource Exchange** module access policy. You don’t need to configure a policy manually.**Note:** Select the lookup using list icon \(![Lookup using list icon.](../../navigation-and-ui/image/IconUI15GlobalTextSearch.png)\) to browse the available cryptographic specifications.
+The keys from the crypto specification in a crypto module define the keys to clone. For both one-time and recurring clone requests, your instance automatically creates a **Resource Exchange** module access policy. You don’t need to configure a policy manually.**Note:** Select the lookup using list icon \(![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../navigation-and-ui/image/IconUI15GlobalTextSearch.png)\) to browse the available cryptographic specifications.
 
 </td></tr><tr><td>
 
@@ -97,18 +97,18 @@ Option to enable auto rekeying.
 
     If successful, a confirmation displays at the top of the form. The Requests table is updated with an entry of **Request Pending** in both the source instance and in the target instance. Open the Request Record to view the status of the request, the Imported Key Count, and the Total Key Count on the target or source host.
 
-    ![Shows the request status for Requests.](../image/resource-exchange-requests-table.png)
+    ![Shows the request status for Requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/resource-exchange-requests-table.png)
 
 4.  The pending request is accepted in the source instance to complete the exchange.
 
     At clone time, the module access policy on the source instance is invoked to auto-approve the request and send keys to the newly cloned target.
 
-    ![Request Approved appears in the Status field on the Request record.](../image/request-record.png)
+    ![Request Approved appears in the Status field on the Request record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/request-record.png)
 
 
 ## Result
 
 After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the System Properties \[sys\_properties\] table after a key exchange is attempted. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, the instance will attempt to encrypt again the next day.
 
-**Parent Topic:**[Key Management Framework Resource Exchange](../reference/resource-exchange.md)
+**Parent Topic:**[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../reference/resource-exchange.md)
 

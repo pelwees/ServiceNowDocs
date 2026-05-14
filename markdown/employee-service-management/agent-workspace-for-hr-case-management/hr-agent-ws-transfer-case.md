@@ -19,7 +19,7 @@ Many cases are created as a General Inquiry case. After researching the employee
 
 Role required: sn\_hr\_core.case\_writer
 
-For information on configuring HR case transfer or classification properties, see [Transfer an HR case](../concept/reclassify-hr-case.md#).
+For information on configuring HR case transfer or classification properties, see [Transfer an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/reclassify-hr-case.md#).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ For information on configuring HR case transfer or classification properties, se
 
 2.  Find the case you want to transfer.
 
-    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](../concept/agent-ws-hr-case-mgmt-use.md).
+    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/agent-ws-hr-case-mgmt-use.md).
 
-3.  Select the ![More icon](../reference/images/EllipsisIcon.png) more icon.
+3.  Select the ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/EllipsisIcon.png) more icon.
 
 4.  Select **Transfer case**.
 

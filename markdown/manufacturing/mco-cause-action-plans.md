@@ -28,5 +28,5 @@ Role required: admin
 4.  Select **Save**.
 
 
-**Parent Topic:**[Related list for remediation action plan](../concept/mco-related-list-for-remediation-action-plan.md)
+**Parent Topic:**[Related list for remediation action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-related-list-for-remediation-action-plan.md)
 

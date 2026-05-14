@@ -20,7 +20,7 @@ The issue recommendation skill in Now Assist for Third-party Risk Management \(T
 
 Third-party assessment reviewers \[sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer\] can use TPRM issue recommendations review completed third-party assessments after questionnaire responses are submitted. The TPRM issue recommendation skill analyzes historical issues created from all assessments, along with historical Smart Assessment and Classic assessment questions and responses, to generate suggested issues when semantically similar questions exist and the intended meaning of the answers is consistent.
 
-For more information, see [Generate issue recommendations for TPRM](../task/create-recommendation-tprm-issue.md) and [Create or dismiss issues using recommendations](../task/manage-recommendation-issue.md).
+For more information, see [Generate issue recommendations for TPRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/create-recommendation-tprm-issue.md) and [Create or dismiss issues using recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/manage-recommendation-issue.md).
 
 ## Benefits of issue recommendations
 
@@ -55,9 +55,9 @@ The accuracy of issue recommendations depends on the quality and configuration o
 **Related topics**  
 
 
-[TPRM issue recommendation skill](issue-recommendation-tprm.md)
+[TPRM issue recommendation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/issue-recommendation-tprm.md)
 
-[Create or dismiss issues using recommendations](../task/manage-recommendation-issue.md)
+[Create or dismiss issues using recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/manage-recommendation-issue.md)
 
-[Activate TPRM issue recommendation skill](../task/tprm-recommend-an-issue.md)
+[Activate TPRM issue recommendation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-recommend-an-issue.md)
 

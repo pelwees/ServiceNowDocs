@@ -25,7 +25,7 @@ Role required: localization\_admin
 
     Find the table using its table name. For example, **\[sys\_cs\_topic\]** is the table name for Virtual Agent topics.
 
-2.  Click the hamburger icon \(![Hamburger icon](../../search-administration/image/hamburger-icon.png)\) at any of the columns and navigate to **Configure** **UI Actions**.
+2.  Click the hamburger icon \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../search-administration/image/hamburger-icon.png)\) at any of the columns and navigate to **Configure** **UI Actions**.
 
 3.  Click **New**.
 
@@ -130,10 +130,10 @@ List choice
 Option to enable the UI action in the choice list.
 
 </td></tr></tbody>
-</table>    **Note:** Configure the form to see all the fields. For more information, see [Create a UI action](../../list-administration/task/t_EditingAUIAction.md).
+</table>    **Note:** Configure the form to see all the fields. For more information, see [Create a UI action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../list-administration/task/t_EditingAUIAction.md).
 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/framework-configuration.md)
 

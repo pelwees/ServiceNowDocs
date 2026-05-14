@@ -26,27 +26,27 @@ The standard change catalog enables you to perform the following activities:
 
 You can propose, modify, and retire standard change templates based on the requirements of your organization.
 
--   **[Propose a standard change template](../task/propose-standard-change-sow.md)**  
+-   **[Propose a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/propose-standard-change-sow.md)**  
 Propose a new standard change template when you identify a need while creating a change request.
--   **[Modify a standard change template](../task/modify-standard-change-sow.md)**  
+-   **[Modify a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/modify-standard-change-sow.md)**  
 You can modify standard change templates based on your organization's requirements.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/change-sow.md)
 
 **Related topics**  
 
 
-[Create a change request in Service Operations Workspace](../task/create-change-sow.md)
+[Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-change-sow.md)
 
-[Work on a change request in Service Operations Workspace](../task/work-on-change-sow.md)
+[Work on a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/work-on-change-sow.md)
 
-[Create a change task in Service Operations Workspace](../task/create-change-task-sow.md)
+[Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-change-task-sow.md)
 
-[Work on a change task in Service Operations Workspace](../task/work-on-change-task-sow.md)
+[Work on a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/work-on-change-task-sow.md)
 
-[Create a Change Advisory Board \(CAB\) definition](../task/cm-create-cab-definition-sow.md)
+[Create a Change Advisory Board \(CAB\) definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/cm-create-cab-definition-sow.md)
 
-[Create a CAB meeting](../task/cm-create-cab-meeting-sow.md)
+[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/cm-create-cab-meeting-sow.md)
 
-[Conduct a CAB meeting in the CAB workbench](../task/cm-manage-cab-meeting-workbench-sow.md)
+[Conduct a CAB meeting in the CAB workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/cm-manage-cab-meeting-workbench-sow.md)
 

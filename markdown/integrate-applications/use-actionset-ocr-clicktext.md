@@ -19,19 +19,19 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](../reference/actionset-actions-properties.md#section_lff_znr_h5b).
+You can configure the properties for the OCR ClickText action. For more information about these properties, see [OCR Click Text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/actionset-actions-properties.md#section_lff_znr_h5b).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see how to use the [Anchor](../concept/anchor.md).
+    To know about the anchor, see how to use the [Anchor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/anchor.md).
 
 2.  Navigate to **OCR** &gt; **Click Text**.
 
-3.  Drag the OCR read table icon \(![Green rectangle icon.](../image/green-rectangle.png)\) over the captured image to the location where the component will perform an action.
+3.  Drag the OCR read table icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) over the captured image to the location where the component will perform an action.
 
-4.  To increase or decrease the area on the captured image covered by the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\), drag its edges.
+4.  To increase or decrease the area on the captured image covered by the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\), drag its edges.
 
 5.  In the Properties pane, select the required action from the Type list in the General section.
 
@@ -46,5 +46,5 @@ You can configure the properties for the OCR ClickText action. For more informat
 8.  To test the component, right-click the component bar and then click **Run From Here**.
 
 
-**Parent Topic:**[Use the ActionSet component](use-actionsui-actionset.md)
+**Parent Topic:**[Use the ActionSet component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-actionsui-actionset.md)
 

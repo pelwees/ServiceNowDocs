@@ -25,7 +25,7 @@ Use the overview page to get the necessary details and monitor the state flow of
 -   manage issues
 -   complete the audit engagement using the different related items
 
-Select the ![Sidebar icon](../../grc-workspace-compliance/image/pc-ws-sidebar-icon.png) icon to view the scope of the engagement.
+Select the ![Sidebar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-workspace-compliance/image/pc-ws-sidebar-icon.png) icon to view the scope of the engagement.
 
-![Overview of an audit engagement.](../image/engagement-aw-record-pg.png "Overview of an audit engagement")
+![Overview of an audit engagement.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/engagement-aw-record-pg.png "Overview of an audit engagement")
 

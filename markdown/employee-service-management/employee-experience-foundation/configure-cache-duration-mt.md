@@ -25,11 +25,11 @@ Role required: admin
 
     The entire list of properties in the System Properties \[sys\_properties\] table appears.
 
-    ![System properties](../images/sys-properties-0012.png)
+    ![System properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sys-properties-0012.png)
 
 2.  In the Name column, search for the system property `sn_tcm_collab_hook.teams.presence_status_cache_invalidate_duration` and click the property to view the property details.
 
-    ![Edit system property](../images/edit_sys_property_0013.png)
+    ![Edit system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit_sys_property_0013.png)
 
 3.  Click here to edit the property details.
 
@@ -38,5 +38,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[User Presence Indicator](../concept/user-presence-indicator-mt.md)
+**Parent Topic:**[User Presence Indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/user-presence-indicator-mt.md)
 

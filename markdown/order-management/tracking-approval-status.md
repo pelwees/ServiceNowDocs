@@ -19,7 +19,7 @@ After a requester submits an approval request, users involved in the approval pr
 
 The approval workflow interface provides an audit trail of each approval step, including the rule, assigned approvers, actual approvers \(for completed steps\), approval comments, and assignment and completion timestamps.
 
-![Approval workflow for a quote. The following table describes key elements of the interface.](../image/approval-workflow-interface.png "Approval interface in Advanced Approval Management")
+![Approval workflow for a quote. The following table describes key elements of the interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/approval-workflow-interface.png "Approval interface in Advanced Approval Management")
 
 <table id="table_g4c_qq5_m3c"><thead><tr><th>
 
@@ -61,7 +61,7 @@ Grouping of approval steps that are run in sequential order, based on the order 
 
 Card that provides information about the approval step and the rules and conditions for that step. -   If the request was previously recalled during the approval process, an Auto-approved flag indicates at least one or more previously completed approvals are automatically reapplied.
 -   Depending on the approval request state and the user role, the card displays the More options \(![](../image/icon-three-dots.png) \) menu for approvers to approve or reject the request in the step.
--   For approval admins that also have the requester role, the More options \(![](../image/icon-three-dots.png) \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [Override an approver](../task/override-approval-step.md).
+-   For approval admins that also have the requester role, the More options \(![](../image/icon-three-dots.png) \) menu includes an **Override** option to bypass the step if it's no longer required. For details, see [Override an approver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/override-approval-step.md).
 
 </td></tr><tr><td>
 
@@ -72,8 +72,8 @@ Card that provides information about the approval step and the rules and conditi
 Options displayed for different approval actions, depending on the user role.For example:
 
 -   Requesters have the option to **Recall an approval request**.
--   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [Add approvers to an approval request](../task/add-approver.md).
+-   Requesters and approvers have the option to add an ad-hoc approver to the approval workflow using **Add approver**. For more information, see [Add approvers to an approval request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-approver.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)
+</table>**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 

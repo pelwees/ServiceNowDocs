@@ -31,13 +31,13 @@ Role required: sn\_sec\_tisc.analyst
 
 5.  Select **Remove from EDL** button to remove the entries from the list.
 
-    The **Remove from EDL** modal opens. Complete the removal process. You can add observables back to the list later. For more information, see [Add Observables to EDLs](add-obsesrvables-edl.md).
+    The **Remove from EDL** modal opens. Complete the removal process. You can add observables back to the list later. For more information, see [Add Observables to EDLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-obsesrvables-edl.md).
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/palo-alto-networks-integration.md)
 
 **Related topics**  
 
 
-[Approve EDL entries for Palo Alto Networks](tisc-approve-edl-entries.md)
+[Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 

@@ -71,7 +71,7 @@ Parent Directory
 
 </td><td>
 
-Path of the Microsoft SCCM directory where the data is stored in your low-secure server.See [Configure air gap solution for Microsoft SCCM in a low-secure server](sgc-sccm-airgap-low-secure.md).
+Path of the Microsoft SCCM directory where the data is stored in your low-secure server.See [Configure air gap solution for Microsoft SCCM in a low-secure server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-low-secure.md).
 
 </td></tr><tr><td>
 
@@ -96,5 +96,5 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 **Related topics**  
 
 
-[Perform a test data load for the air gap solution for Microsoft SCCM](sgc-sccm-airgap-test-load.md)
+[Perform a test data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-test-load.md)
 

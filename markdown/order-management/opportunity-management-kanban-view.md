@@ -27,7 +27,7 @@ A Kanban view is a visual representation of the data that enables you to drag an
 
 The Kanban view as part of Opportunity Management in Sales Customer Relationship Management.
 
-![The image shows the Kanban view in Opportunity Management](../image/opportunity-management-kanban-view.png)
+![The image shows the Kanban view in Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/opportunity-management-kanban-view.png)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ The Kanban view as part of Opportunity Management in Sales Customer Relationship
 
     -   To change an opportunity state, drag the opportunity card from one state and drop it into another state.
     -   To view the opportunities of different sales type, use the Filter by option on the page.
-    -   To create a new opportunity directly from this page, select the **Create Opportunity** button. To learn more, see [Create an opportunity](create-new-opportunity.md).
+    -   To create a new opportunity directly from this page, select the **Create Opportunity** button. To learn more, see [Create an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-new-opportunity.md).
 
-**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 

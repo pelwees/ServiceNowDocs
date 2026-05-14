@@ -45,10 +45,10 @@ The application provides capability to debug and resolve the following types of 
 
 The chatbot conversation also directs to the knowledge articles landing page in the Now Support knowledge base, if available for a connector.
 
--   **[Install Service Graph Connector Support Tools](../task/sgc-cmdb-troubleshooting-install.md)**  
+-   **[Install Service Graph Connector Support Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../task/sgc-cmdb-troubleshooting-install.md)**  
 You can install Service Graph Connector Support Tools if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
--   **[Resolving Service Graph Connector issues](cmdb-sgc-troubleshooting.md#)**  
+-   **[Resolving Service Graph Connector issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-troubleshooting.md#)**  
 You can use the Service Graph Connector Support Tools application to initiate a chatbot conversation with a virtual agent and resolve an issue or perform a general analysis on a Service Graph Connector installed on your instance.
 
-**Parent Topic:**[Service Graph Connectors](cmdb-sgc-available.md)
+**Parent Topic:**[Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 

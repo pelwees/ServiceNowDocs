@@ -46,13 +46,13 @@ You can perform the listed activities in any sequence.
 
 3.  In the Pre-deployment state, select **Open task**.
 
-    ![Model risk validation task workflow.](../image/validation-task-workflow.png)
+    ![Model risk validation task workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/validation-task-workflow.png)
 
     The model risk validation task workflow opens.
 
 4.  To send an evidence collection request, select **Create Request**.
 
-    For more information, see [Request evidence for model](request-evidence-for-model.md).
+    For more information, see [Request evidence for model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md).
 
 5.  In the Validation Checklist stage, select **Open** to perform the validation.
 
@@ -75,13 +75,13 @@ You can perform the listed activities in any sequence.
 
 The model validation task is submitted for approval. If no approvers are configured, the task is marked as completed.
 
--   **[Request evidence for model](request-evidence-for-model.md)**  
+-   **[Request evidence for model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md)**  
 Send evidence collection request for all the required documents to complete the model validation. Evidence request helps validators to electronically request the information that they need from the model owner to perform model validation.
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-mrm.md)
 
 **Related topics**  
 
 
-[Request evidence for model](request-evidence-for-model.md)
+[Request evidence for model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md)
 

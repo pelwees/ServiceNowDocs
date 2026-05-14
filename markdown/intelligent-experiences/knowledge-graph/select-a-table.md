@@ -27,7 +27,7 @@ Role required: admin
 
     Choose up to 200 nodes to customize your view. Once you select a node, all the related edges will also be selected.
 
-    ![Select tables in Enterprise Graph](../Images/multiple_tables_EG.png)
+    ![Select tables in Enterprise Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/multiple_tables_EG.png)
 
 2.  Select a group using the **By Tag** or **By Application** search bar.
 

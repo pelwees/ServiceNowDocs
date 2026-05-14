@@ -55,5 +55,5 @@ You can bulk close selected Asset put away tasks that are open and assigned to y
 
 .
 
-**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](../concept/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 

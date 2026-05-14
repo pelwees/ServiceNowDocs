@@ -42,5 +42,5 @@ Role required: sn\_bcm.recovery\_team\_member
 9.  To update the record, select **Update**.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

@@ -34,5 +34,5 @@ When the portable application is executed, it creates a running process. The app
 
 Name, Version, and Vendor attributes are fetched from the Portable software and are found in the appinfo.ini files. appinfo.ini is the mandatory file to execute any portable application. If SAM is installed, the information is displayed in Software installation \[cmdb\_sam\_sw\_install\] table. If SAM is not installed, the information shows in the Software instance \[cmdb\_software\_instance\] table.
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 

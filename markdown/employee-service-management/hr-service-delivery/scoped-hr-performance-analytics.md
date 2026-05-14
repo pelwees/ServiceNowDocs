@@ -34,12 +34,12 @@ See [Performance Analytics roles](https://raw.githubusercontent.com/ServiceNow/S
 
 Contact your account manager for more information.
 
--   **[Viewing HR Performance Analytics Scoped](../task/viewing-hr-perf-analytics.md)**  
+-   **[Viewing HR Performance Analytics Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/viewing-hr-perf-analytics.md)**  
 HR Performance Analytics for the scoped version of HR Service Delivery helps you align resources and systems to strategic objectives.
--   **[HR Performance Analytics Dashboards](../../../use/dashboards/application-content-packs/human-resources-content-pack.md)**  
+-   **[HR Performance Analytics Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../use/dashboards/application-content-packs/human-resources-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
-**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](integrate-hr-platform-apps.md)
+**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
 **Related topics**  
 

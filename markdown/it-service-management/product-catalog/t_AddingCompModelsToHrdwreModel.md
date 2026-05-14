@@ -38,14 +38,14 @@ Role required: model\_manager
     The selected model is listed in the **Compatibles** related list.
 
 
-**Parent Topic:**[Create hardware models](t_CreatingHardwareModels.md)
+**Parent Topic:**[Create hardware models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreatingHardwareModels.md)
 
 **Related topics**  
 
 
-[Add substitute models to a hardware model](t_AddingSubModelsToHrdwModel.md)
+[Add substitute models to a hardware model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingSubModelsToHrdwModel.md)
 
-[Models](../concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_Models.md)
 
-[Bundled models](../concept/c_CreatingBundledModels.md)
+[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_CreatingBundledModels.md)
 

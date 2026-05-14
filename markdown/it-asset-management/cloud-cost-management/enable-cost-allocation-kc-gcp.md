@@ -33,7 +33,7 @@ Role required: Google Cloud administrator
 
 1.  Log in to the [Google Cloud Console](https://cloud.google.com/cloud-console).
 
-2.  Select the menu icon ![Menu icon.](../image/menu-icon.png).
+2.  Select the menu icon ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/menu-icon.png).
 
 3.  Select **Kubernetes Engine**.
 

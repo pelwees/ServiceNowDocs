@@ -27,7 +27,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 2.  Open **Your team** &gt; **Skills**.
 
-3.  In the Skills Expectations section, select ![View menu icon](../image/viewmenu.png) on an employee card and select any of the following options:
+3.  In the Skills Expectations section, select ![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/viewmenu.png) on an employee card and select any of the following options:
 
 <table id="table_phb_mr3_pzb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ View skills
 
 </td><td>
 
-Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](../concept/skill-details-emp.md).
+Skill details page provides granular details of employee skills, proficiency levels, and gaps. For more information, see [Skill details of an employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/skill-details-emp.md).
 
 </td></tr><tr><td>
 
@@ -71,10 +71,10 @@ The employee profile page appears with details such as reporting structure, cowo
 
     2.  Select **Assign learning** in the **Validated** skills section to view progress bars of skills that meet and don't meet expected proficient levels.
 
-    3.  Select the Skill pill icon \(![View menu icon](../image/viewmenu.png)\) on a skill to perform one of the following:
+    3.  Select the Skill pill icon \(![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/viewmenu.png)\) on a skill to perform one of the following:
 
         -   **View skill details**: View a detailed description of the skill.
-        -   **Assign learning**: Assign a learning course to an employee. For more information, see [Assign learning form](../reference/assign-learning-form.md).
+        -   **Assign learning**: Assign a learning course to an employee. For more information, see [Assign learning form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/assign-learning-form.md).
 5.  To view all the employee cards, select **View all**.
 
 6.  If you have team members reporting from different job functions, you can filter the skill distribution by job function.

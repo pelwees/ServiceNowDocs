@@ -49,7 +49,7 @@ com.sn\_sales\_territory
 </table>**Related information**  
 
 
-[Using Sales Territory Management​](../task/use-sales-territory-management.md)
+[Using Sales Territory Management​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/use-sales-territory-management.md)
 
-[Components installed with Sales Territory Management​](../reference/components-installed-sales-territory-management.md)
+[Components installed with Sales Territory Management​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/components-installed-sales-territory-management.md)
 

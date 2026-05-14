@@ -33,7 +33,7 @@ You can add test cases that are not already a part of existing test suites. Crea
 
 4.  On the form, fill in the fields.
 
-    For information on the Test Case form fields, see [Create a test case](t_CreateANewTestCase.md).
+    For information on the Test Case form fields, see [Create a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateANewTestCase.md).
 
 5.  Click **Submit**.
 
@@ -42,5 +42,5 @@ You can add test cases that are not already a part of existing test suites. Crea
 
 The new test case is added to the **Test Cases** related list.
 
-**Parent Topic:**[Test plans](../concept/c_TestPlans.md)
+**Parent Topic:**[Test plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_TestPlans.md)
 

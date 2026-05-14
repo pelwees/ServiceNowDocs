@@ -19,8 +19,8 @@ Sightings track who and what is the target, how attacks are carried out, and to 
 
 The Sighting relationship object contains extra properties not present in the generic relationship objects. These extra properties represent data specific to sighting relationships.
 
--   **[Define Object Sighting](../task/define-object-sighting.md)**  
+-   **[Define Object Sighting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-object-sighting.md)**  
 Define object sighting that describes that an object \(malware, tool, threat actor, and so on\) was seen.
 
-**Parent Topic:**[Threat Entities](tisc-threat-entities.md)
+**Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 

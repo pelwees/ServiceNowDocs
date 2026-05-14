@@ -17,9 +17,9 @@ Initiate an automation request from a Task Mining task timeline analysis or shar
 
 ## Before you begin
 
-The project requires a task timeline analysis to take task improvement actions. A task timeline analysis contains tasks with sequential task time steps of user interactions. Use these task steps as the basis of your improvement opportunities. For more information, see [Task Mining analyses](../concept/task-mining-dashboard.md).
+The project requires a task timeline analysis to take task improvement actions. A task timeline analysis contains tasks with sequential task time steps of user interactions. Use these task steps as the basis of your improvement opportunities. For more information, see [Task Mining analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/task-mining-dashboard.md).
 
-Automation Center must be installed to initiate an automation request. To use the Now Assist feature in the integration, you must install Now Assist for Platform and activate the User Task Step Summarization skill. For more information, see [Integration with Automation Center](../concept/integration-with-automation-center.md).
+Automation Center must be installed to initiate an automation request. To use the Now Assist feature in the integration, you must install Now Assist for Platform and activate the User Task Step Summarization skill. For more information, see [Integration with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/integration-with-automation-center.md).
 
 Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
@@ -31,7 +31,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 3.  Select the task that you want to act on.
 
-    ![Screenshot showing the task steps view.](../image/tm-io-1.png)
+    ![Screenshot showing the task steps view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-io-1.png)
 
 4.  Create a copy to make any edits and to take task improvement actions.
 
@@ -41,7 +41,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
     3.  Select **Duplicate to edit**.
 
-        ![Screenshot showing the edit task steps dialog.](../image/tm-io-2.png)
+        ![Screenshot showing the edit task steps dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-io-2.png)
 
     The new task is created with the task name appended with Editable.
 
@@ -59,7 +59,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
         You can’t edit the **Source** and **Datetime** fields.
 
-    ![Screenshot showing the editable task steps view.](../image/tm-io-3.png)
+    ![Screenshot showing the editable task steps view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-io-3.png)
 
 6.  Select**Take action**.
 
@@ -77,7 +77,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
         Share details of the task to initiate further action. A link is copied to the task steps. You can choose who to send the improvement initiative to.
 
-    ![Screenshot showing the Take action options.](../image/tm-io-4.png)
+    ![Screenshot showing the Take action options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-io-4.png)
 
 8.  Select **Generate details** to populate the **Description** and **Detailed sequence of steps** fields with data from the tasks.
 
@@ -87,7 +87,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
     **Note:** The generate details option is available only if Now Assist for Platform is installed and the User Task Step Summarization skill is activated.
 
-    ![Screenshot showing the New Automation Request form.](../image/tm-automation-request.png)
+    ![Screenshot showing the New Automation Request form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-automation-request.png)
 
 9.  Add a value in the **Frequency** field to specify in minutes how often the process should be executed.
 
@@ -101,7 +101,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 **Related topics**  
 
 
-[Integration with Automation Center](../concept/integration-with-automation-center.md)
+[Integration with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/integration-with-automation-center.md)
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/task-mining-dashboard.md)
 

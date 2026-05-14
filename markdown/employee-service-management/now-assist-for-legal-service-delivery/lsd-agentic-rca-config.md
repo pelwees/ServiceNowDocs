@@ -69,7 +69,7 @@ Source
 
 </td><td>
 
-Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](../image/lookup-using-list.png)\).
+Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lookup-using-list.png)\).
 -   In the field document, search and set the value as **Script Include: AiAgentRuntimeRequest**.
 
 
@@ -160,7 +160,7 @@ Source
 
 </td><td>
 
-Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](../image/lookup-using-list.png)\).
+Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lookup-using-list.png)\).
 -   In the field document, search and set the value as **58d70eff2bb0ea50099bfd2cce91bf1d**.
 
 
@@ -251,7 +251,7 @@ Source
 
 </td><td>
 
-Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](../image/lookup-using-list.png)\).
+Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lookup-using-list.png)\).
 -   In the field document, search and set the value as **58d70eff2bb0ea50099bfd2cce91bf1d**.
 
 
@@ -342,7 +342,7 @@ Source
 
 </td><td>
 
-Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](../image/lookup-using-list.png)\).
+Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lookup-using-list.png)\).
 -   In the field document, search and set the value as **58d70eff2bb0ea50099bfd2cce91bf1d**.
 
 
@@ -433,7 +433,7 @@ Source
 
 </td><td>
 
-Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](../image/lookup-using-list.png)\).
+Cross-scope record that is accessing a restricted application resource.-   Select Lookup Documents by using the list icon \(![Lookup Documents using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lookup-using-list.png)\).
 -   In the field document, search and set the value as **58d70eff2bb0ea50099bfd2cce91bf1d**.
 
 

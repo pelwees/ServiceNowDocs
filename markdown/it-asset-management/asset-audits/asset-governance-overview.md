@@ -20,7 +20,7 @@ You can use the Asset governance overview to perform the following tasks:
 -   Fulfill, respond to, and track the progress of your assigned evidence requests.
 -   Track and manage remediation tasks.
 
-![Asset Governance overview.](../image/asset-governance-overview.png)
+![Asset Governance overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/../image/asset-governance-overview.png)
 
 Select any widget to view more detailed information or to perform a relevant task.
 

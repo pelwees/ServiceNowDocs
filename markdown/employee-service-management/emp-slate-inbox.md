@@ -19,7 +19,7 @@ The inbox replaces the fragmented experience of managing work across multiple qu
 
 The inbox aggregates the following work item types:
 
-![Inbox items](../images/es-inbox.png "Inbox")
+![Inbox items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-inbox.png "Inbox")
 
 -   Tasks assigned to the employee.
 -   Active service requests that the employee submitted.
@@ -65,7 +65,7 @@ AI-generated insights may not reflect every relevant policy condition. Verify AI
 
 The inbox is a single place for tasks, approvals, and requests in Employee Slate. You can view, track, and act on pending tasks, approvals, and open requests across enterprise systems. These systems include HR approvals, IT tasks, learning content, and surveys.
 
-![chat about inbox items](../images/es-inbox-chat.png "Inbox chat")
+![chat about inbox items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-inbox-chat.png "Inbox chat")
 
 Employees interact with the inbox through natural language in the chat panel:
 
@@ -82,5 +82,5 @@ Conversational filters apply in addition to the inbox filters that administrator
 **Related topics**  
 
 
-[Employee Slate prompt library](../reference/employee-slate-prompt-library.md)
+[Employee Slate prompt library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/employee-slate-prompt-library.md)
 

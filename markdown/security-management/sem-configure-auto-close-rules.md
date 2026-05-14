@@ -22,12 +22,12 @@ Starting with v30.3.3 of USEM parallel processing for auto close rules is suppor
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Closing stale detections and findings automatically using auto-close rules](sem-closing-stale-findings-automatically.md)
+[Closing stale detections and findings automatically using auto-close rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-closing-stale-findings-automatically.md)
 
 ## Create or edit auto-close rules
 
@@ -35,7 +35,7 @@ Create rules to close stale detections and findings associated with retired conf
 
 ### Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 

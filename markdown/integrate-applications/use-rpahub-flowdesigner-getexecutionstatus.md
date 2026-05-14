@@ -17,7 +17,7 @@ Use the GetExecutionStatus component to determine the execution status of a flow
 
 To understand more about flows in Workflow Studio, see [Building flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md).
 
-Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](connect-studio-instance-rpa.md).
+Before you use any Flow Designer component, use the Connection Manager to make sure that you're connected to the instance. For more information about how to connect to an instance, see [Connect to an RPA Hub instance from RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connect-studio-instance-rpa.md).
 
 Role required: none
 
@@ -33,7 +33,7 @@ Before you use the GetOutputs component to get the output of a flow, you may wan
 
 3.  Configure the component properties by using the Properties pane.
 
-    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](../reference/properties-flow-designer-components.md).
+    For example, you can configure the component to include a timeout or a delay before the component executes. For more information about these properties, see [Properties of the Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-flow-designer-components.md).
 
 4.  Connect the data and control ports of the GetExecutionStatus component to the corresponding ports of other components as described in the following table.
 
@@ -47,5 +47,5 @@ Before you use the GetOutputs component to get the output of a flow, you may wan
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Flow Designer components](../concept/flow-designer-components.md)
+**Parent Topic:**[Flow Designer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/flow-designer-components.md)
 

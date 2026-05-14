@@ -59,9 +59,9 @@ To customize a Next Experience landing page for different audiences and use case
 
     You can customize what components are included on the page, the data they connect to, their style, and event mappings. To learn more about how to customize components on a page, refer to [Customize UI Builder pages using components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md) in the UI Builder documentation.
 
-    To enable a footer for the page, see [Configure a Next Experience landing page footer](configure-next-experience-landing-page-footer.md).
+    To enable a footer for the page, see [Configure a Next Experience landing page footer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-next-experience-landing-page-footer.md).
 
-    ![Customize the landing page in UI Builder staging](../image/create-landing-page.png "Customize a landing page in UI Builder")
+    ![Customize the landing page in UI Builder staging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/create-landing-page.png "Customize a landing page in UI Builder")
 
 7.  Select **Save**.
 
@@ -76,5 +76,5 @@ To customize a Next Experience landing page for different audiences and use case
     3.  Select **Save**.
 
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-landing-pages.md)
 

@@ -86,5 +86,5 @@ Steps
 
 The **ServiceNow Contracts** add-in is available in the Home ribbon.
 
-**Parent Topic:**[Install Microsoft Word add-in for ServiceNow Contracts](snlc-install-word-addin.md)
+**Parent Topic:**[Install Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-install-word-addin.md)
 

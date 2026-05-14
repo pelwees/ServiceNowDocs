@@ -25,7 +25,7 @@ Depending on the issue being debugged, set up debug logging in one of three ways
 
 For all debug cases, you may view and interpret the logs in your own or open an incident to get an interpretation from ServiceNow technical support providing the description of the issue and how it’s reproduced.
 
-**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
 ## Debugging issues with the Edge Encryption application other than SSL connectivity
 

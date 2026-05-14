@@ -28,7 +28,7 @@ You can review, create, or delete an IP pool in your network.
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Number Allocation** &gt; **IP Pools**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Number Allocation** &gt; **IP Pools**.
 
 3.  Select **New**
 
@@ -38,7 +38,7 @@ You can review, create, or delete an IP pool in your network.
     |-----|-----------|
     |Name|User-friendly name for this IP pool.|
 
-    To learn about the other fields, see [Inventory number allocation fields](../reference/inventory-number-allocation-fields.md).
+    To learn about the other fields, see [Inventory number allocation fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-number-allocation-fields.md).
 
 5.  Create the Telecommunications Network Inventory attributes for this IP pool form by selecting the **Set Inventory Attributes** button.
 
@@ -50,24 +50,24 @@ You can review, create, or delete an IP pool in your network.
     -   In the TNI CI attributes form, by default, the name is fetched from the **Name** field and the **Inventory Category** is set as **IP Address**.
 6.  Add packs to this service by selecting **Add Packs**.
 
-    To learn more about the packs, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+    To learn more about the packs, see [Attribute packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunication-network-inventory-pack.md).
 
-7.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+7.  Add the attachments, such as the graphics or documents, by selecting the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 8.  Select **Save**.
 
-    The related tabs appear on the form. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. To learn more, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
 9.  View the hierarchy or flow chart of the created IP pool by selecting the **Dependency View** button.
 
-10. View the related network inventories by selecting the brick icon \(![brick icon.](../image/infrastructure-relashionship.png)\).
+10. View the related network inventories by selecting the brick icon \(![brick icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/infrastructure-relashionship.png)\).
 
     The Infrastructure Relationships section shows all the related network inventories that are grouped by the individual network instance.
 
 
 ## What to do next
 
-You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](update_and_delete_ip_address_space.md).
+You can review and update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
 
-**Parent Topic:**[Create IP address allocation](../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
+**Parent Topic:**[Create IP address allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/ip_pool_ip_network_subnet_allocated_ip_address_and_ip_address.md)
 

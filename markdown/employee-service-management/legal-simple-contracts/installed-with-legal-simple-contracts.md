@@ -260,5 +260,5 @@ Signer Task\[sn\_lg\_contracts\_signer\_task\]
 Stores all signatory information, including the order of signatories to sign the contract document and current signature status a request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Simple Contracts reference](legal-simple-contracts-reference.md)
+</table>**Parent Topic:**[Legal Simple Contracts reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-reference.md)
 

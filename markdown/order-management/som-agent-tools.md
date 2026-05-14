@@ -15,8 +15,8 @@ The applications in Sales Customer Relationship Management share common features
 
 This section describes common features that you can configure for your agents, such as location-based transactions.
 
--   **[Configuring location-based product transactions](config-location-transaction.md)**  
+-   **[Configuring location-based product transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md)**  
 In Sales Customer Relationship Management, agents can create opportunities, quotes, and orders tailored to customer location. These transactions are called location-based product transactions.
 
-**Parent Topic:**[Configuring Sales Customer Relationship Management applications](som-configuring.md)
+**Parent Topic:**[Configuring Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-configuring.md)
 

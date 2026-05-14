@@ -22,7 +22,7 @@ There are two types of bot communication with the primary bot:
 
 In both scenarios, the ServiceNow bot informs the primary bot when the request is completed or when it cannot continue handling the request. The primary bot can then determine whether to inform the end user that the conversation is complete or provide further assistance.
 
-![Diagram of a bot-to-bot ecosystem with the ServiceNow Virtual Agent as a secondary bot.](../images/bot-to-bot-ecosystem.png "Bot-to-Bot ecosystem with ServiceNow Virtual Agent as a secondary bot")
+![Diagram of a bot-to-bot ecosystem with the ServiceNow Virtual Agent as a secondary bot.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/bot-to-bot-ecosystem.png "Bot-to-Bot ecosystem with ServiceNow Virtual Agent as a secondary bot")
 
 The ServiceNow secondary bot uses a standard request and response through REST endpoints. When the request is received through the Bot Framework or an enterprise app seeking to integrate with the ServiceNow bot, the response for a request is sent asynchronously via the API to the requesting system. Virtual Agent supports Live Agent in the channel as well.
 
@@ -38,5 +38,5 @@ You can [add system properties](https://raw.githubusercontent.com/ServiceNow/Ser
 |va.bot.to.bot.take.control\_times|Number of times that Virtual Agent tries to get a response, after which control is returned to the primary bot.|2|
 |va.bot.to.bot.score.normalization\_factor|A value used to normalize the prediction confidence score returned by Virtual Agent, if the primary bot does not use intents to route requests to the appropriate bot.|1|
 
-**Parent Topic:**[Using Virtual Agent API](use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-virtual-agent-api.md)
 

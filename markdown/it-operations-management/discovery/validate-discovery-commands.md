@@ -20,7 +20,7 @@ Validate pattern commands to verify that the MID Server can successfully run the
 -   Verify that you have the following applications:
     -   Pattern Designer Enhancements \(sn\_itom\_pde\)
     -   Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)
--   Check the log for horizontal discovery based on patterns, as described in [Review the logs for horizontal discovery](../../discovery/reference/r_DiscoveryLog.md#).
+-   Check the log for horizontal discovery based on patterns, as described in [Review the logs for horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/reference/r_DiscoveryLog.md#).
 -   If you are viewing commands for the first time, have upgraded Discovery and Service Mapping Patterns, or have customized any pattern, refresh the command list by navigating to **All** &gt; **Pattern Designer** &gt; **Command Validation Tool** &gt; **Commands List** and selecting **Refresh Command List**.
 -   To be able to test credentials on an IP range or IP network, install the ParseIPRanges script include attached to the KB article: [KB1123625: Command Validation Tool](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123625).
 
@@ -36,7 +36,7 @@ You can also validate discovery commands to check that the IP addresses you’re
 
 If you validate commands that contain applicative credentials, the Command Validation Tool checks the Connections and Credentials module and uses relevant applicative credentials configured there.
 
-Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer role can view the command validation task results through the **Command Validation Tasks** and **Command Validation Task Results** modules but can't edit or modify them. For more information, see [View command validation task results in pattern-based discovery](../../discovery/task/view-command-validation-task-results.md).
+Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer role can view the command validation task results through the **Command Validation Tasks** and **Command Validation Task Results** modules but can't edit or modify them. For more information, see [View command validation task results in pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/task/view-command-validation-task-results.md).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 2.  To validate all commands used by a pattern, select **Validate All Pattern Commands**.
 
-3.  Fill in the fields as described in [Command Validation Tasks form for pattern-based discovery](../reference/command-validation-reference.md).
+3.  Fill in the fields as described in [Command Validation Tasks form for pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/command-validation-reference.md).
 
 4.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -56,13 +56,13 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
     2.  Select the **Temporary Variable Mappings** tab and enter the values for the temporary variables.
 
-        ![The value column](../image/pde-command-validation-temporary-variable.png "Temporary Variable Mappings tab")
+        ![The value column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pde-command-validation-temporary-variable.png "Temporary Variable Mappings tab")
 
 6.  Select **Run Command Validation**.
 
 7.  Check if **FAILURE** appears in the **Result** column in the **Command Validation Task Results** section.
 
-    ![Validation Task Result section](../image/pde-command-validation-task-result.png)
+    ![Validation Task Result section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pde-command-validation-task-result.png)
 
 8.  Select the link in the **Command Validation Test** column.
 
@@ -73,16 +73,16 @@ Starting with Pattern Designer Enhancements version 3.9.0, the new pde\_viewer r
 
 1.  Select the **Open suggestions to troubleshoot failure** link.
 
-    ![Open suggestions to troubleshoot failure](../image/pde-command-validation-task-result-suggestion.png)
+    ![Open suggestions to troubleshoot failure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/pde-command-validation-task-result-suggestion.png)
 
 2.  Follow the instructions in the **Steps to Remediate** window.
 
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../../discovery/concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/concept/discovery-command-probe-pattern.md)
 
 [Getting started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-getting-started.md)
 
-[Command List form for pattern-based discovery](../reference/commands-list-discovery.md)
+[Command List form for pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/commands-list-discovery.md)
 

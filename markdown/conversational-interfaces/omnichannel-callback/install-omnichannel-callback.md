@@ -30,7 +30,7 @@ The following items are installed with Omnichannel Callback:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Omnichannel Callback](../reference/installed-with-omnichannel-callback.md#).
+For more information, see [Components installed with Omnichannel Callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/../reference/installed-with-omnichannel-callback.md#).
 
 ## Procedure
 

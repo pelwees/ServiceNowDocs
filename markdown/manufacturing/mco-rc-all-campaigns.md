@@ -23,8 +23,8 @@ Role required: admin
 
 2.  Select **New**
 
-3.  For information on how to create recall campaigns, see [Create a campaign](mco-rc-my-campaigns.md).
+3.  For information on how to create recall campaigns, see [Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md).
 
 
-**Parent Topic:**[Recall management](mco-recall-management.md)
+**Parent Topic:**[Recall management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-management.md)
 

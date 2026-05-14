@@ -31,7 +31,7 @@ Reference
 
 </td><td>
 
-For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/embedded-task-auto-rpa.md).
 
 </td></tr><tr><td>
 
@@ -39,9 +39,9 @@ For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../conce
 
 </td><td>
 
-For more information about the new components, see [Forms](../../rpa-studio/concept/forms_sn_rpa_studio.md).
+For more information about the new components, see [Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/concept/forms_sn_rpa_studio.md).
 
- For more information about publishing the automation RPA Desktop Design Studio, see [Publish an automation project in RPA Desktop Design Studio](../../rpa-studio/task/publish-automation-project.md).
+ For more information about publishing the automation RPA Desktop Design Studio, see [Publish an automation project in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/task/publish-automation-project.md).
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ For more information about the new components, see [Forms](../../rpa-studio/conc
 
 </td><td>
 
-For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md).
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ For more information, see [Configuring a bot process record in RPA Hub](../conce
 
 </td><td>
 
-For more information, see [Bot Process form in RPA Hub](../task/select-botprocess.md#).
+For more information, see [Bot Process form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/select-botprocess.md#).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ For more information, see [Bot Process form in RPA Hub](../task/select-botproces
 
 </td><td>
 
-For more information, see [Create a process field parameter in RPA Hub](../task/create-process-field-param-rpa.md).
+For more information, see [Create a process field parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-process-field-param-rpa.md).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ For more information, see [Create a process field parameter in RPA Hub](../task/
 
 </td><td>
 
-For more information, see [Create an attended configuration record in RPA Hub](../task/create-attended-config-rpa.md).
+For more information, see [Create an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-attended-config-rpa.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ For more information, see [Create an attended configuration record in RPA Hub](.
 
 </td><td>
 
-For more information, see [Map a table field to a bot process field parameter in RPA Hub](../task/create-field-param-mapping-rpa.md).
+For more information, see [Map a table field to a bot process field parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-field-param-mapping-rpa.md).
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ For more information, see [Map a table field to a bot process field parameter in
 
 </td><td>
 
-For more information, see [Activate an attended configuration record in RPA Hub](../task/activate-attend-config-rpa.md).
+For more information, see [Activate an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/activate-attend-config-rpa.md).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ For more information, see [Activate an attended configuration record in RPA Hub]
 
 </td><td>
 
-For more information, see [Invoke Embedded Task Automation via API in RPA Hub](../concept/create-button-att-config-rpa.md).
+For more information, see [Invoke Embedded Task Automation via API in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-button-att-config-rpa.md).
 
 </td></tr><tr><td>
 
@@ -107,9 +107,9 @@ If the auto assignment system property is true, an attended robot license is ava
 
 </td><td>
 
-For more information about assigning the user with RPA AU, see [Assign an attended user or group to an attended bot process](../task/assign-rda-users-botprocess.md).
+For more information about assigning the user with RPA AU, see [Assign an attended user or group to an attended bot process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-rda-users-botprocess.md).
 
- For more information about this system property, see [Configure RPA Hub properties](rpahub-sys-properties.md).
+ For more information about this system property, see [Configure RPA Hub properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpahub-sys-properties.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ For more information about assigning the user with RPA AU, see [Assign an attend
 
 </td><td>
 
-For more information, see [Publish a bot process in RPA Hub](../task/publish-bot-process.md).
+For more information, see [Publish a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/publish-bot-process.md).
 
 </td></tr><tr><td>
 
@@ -125,8 +125,8 @@ For more information, see [Publish a bot process in RPA Hub](../task/publish-bot
 
 </td><td>
 
-For more information about the visibility conditions, see [Conditions for the visibility of UI action \(button\)](visibility-cond-button-rpa.md).
+For more information about the visibility conditions, see [Conditions for the visibility of UI action \(button\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/visibility-cond-button-rpa.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md)
+</table>**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/embedded-task-auto-rpa.md)
 

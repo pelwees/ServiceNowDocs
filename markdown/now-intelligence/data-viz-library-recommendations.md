@@ -15,7 +15,7 @@ Analytics managers can view information about potentially problematic data visua
 
 ## Data visualization recommendation panel
 
-![Data visualization library showing recommendation panel.](../image/dv-recommendation-panel.png)
+![Data visualization library showing recommendation panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-recommendation-panel.png)
 
 Visible to roles: viz\_admin and higher, including pa\_admin.
 
@@ -28,5 +28,5 @@ The following types of recommendations are currently available:
 |n Unused data visualizations|Number of data visualizations that are not used in any dashboards|
 |n No active owner|Number of data visualizations without an active owner|
 
-**Parent Topic:**[Platform Analytics library recommendations](../concept/pa-library-recommendations.md)
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/pa-library-recommendations.md)
 

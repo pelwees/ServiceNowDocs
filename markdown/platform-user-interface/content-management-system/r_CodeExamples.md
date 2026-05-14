@@ -66,10 +66,10 @@ Code examples
     ```
 
 
-**Parent Topic:**[Content Management and the Apache Jelly engine](r_ContentManagementAndJelly.md)
+**Parent Topic:**[Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_ContentManagementAndJelly.md)
 
 **Related topics**  
 
 
-[Content Management and the Apache Jelly engine](r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_ContentManagementAndJelly.md)
 

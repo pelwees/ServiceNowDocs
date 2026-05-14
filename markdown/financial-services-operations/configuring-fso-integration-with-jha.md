@@ -48,5 +48,5 @@ Role required: admin
 
 To view the action execution details, click **Your test has finished running. View the Action execution details.**
 
-**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](../concept/fso-integration-with-jha-integthub-landing-page.md)
+**Parent Topic:**[Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/fso-integration-with-jha-integthub-landing-page.md)
 

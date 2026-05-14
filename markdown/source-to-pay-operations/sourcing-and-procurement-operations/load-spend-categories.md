@@ -29,9 +29,9 @@ Role required: sn\_spend\_mgmt.category\_manager\_admin
 
 3.  From the **Import set table** list, select the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) table.
 
-4.  In **Source of the Import**, choose **File**.![Load Data page.](../image/create_load_data.png)
+4.  In **Source of the Import**, choose **File**.![Load Data page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_load_data.png)
 
-5.  Browse to the excel template that was created in [Add spend category data in an Excel file](add-spend-data-spo.md).
+5.  Browse to the excel template that was created in [Add spend category data in an Excel file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-spend-data-spo.md).
 
 6.  Enter the **Sheet number** of the excel template that needs to be loaded into the staging table.
 
@@ -46,5 +46,5 @@ The Excel template with spend category data is uploaded.
 
 ## What to do next
 
-Run the transform to import the data from the Spend Category Stage table to the Spend Category primary table. For more information, see [Run transform to import spend category data into the Spend Category primary table](spend-category-run-trasnform.md).
+Run the transform to import the data from the Spend Category Stage table to the Spend Category primary table. For more information, see [Run transform to import spend category data into the Spend Category primary table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spend-category-run-trasnform.md).
 

@@ -64,8 +64,8 @@ sn\_sec\_tisc.api\_azure\_sentinel\_solution
 User configured in the TISC Custom Connector should have this role to allow access to TISC APIs.
 
 </td></tr></tbody>
-</table>-   **[TISC playbook templates](tisc-playbook-templates.md)**  
+</table>-   **[TISC playbook templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-playbook-templates.md)**  
 This section describes the playbook templates that are shipped with TISC Sentinel solution.
 
-**Parent Topic:**[TISC Security Tools integrations](tisc-edr-integrations.md)
+**Parent Topic:**[TISC Security Tools integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 

@@ -19,7 +19,7 @@ The page opens in a separate tab. It supports both retail \(B2C\) consumer profi
 
 **Note:** When viewing the page for an account's primary contact, a variant of the page displays the details of the associated account. No AI elements are displayed on this page.
 
-![Customer 360 view showing account details, interaction history, and financial overview with donut charts.](../images/agentic-contact-center-banking-c360.png)
+![Customer 360 view showing account details, interaction history, and financial overview with donut charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../images/agentic-contact-center-banking-c360.png)
 
 ## Customer summary
 
@@ -141,17 +141,17 @@ The following table shows the available actions in the Customer 360 page.
 
 |Name|Description|
 |----|-----------|
-|Ask Now Assist|Opens the Now Assist panel and initiates the Banking CSR customer insights AI agent. This agent uses the customer's profile and financial data to surface insights. See [Agentic Contact Center for Banking AI agents overview](../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md) for more information.|
+|Ask Now Assist|Opens the Now Assist panel and initiates the Banking CSR customer insights AI agent. This agent uses the customer's profile and financial data to surface insights. See [Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-now-assist/concept/agentic-contact-center-for-banking-agents-overview.md) for more information.|
 |Create case|Opens the **Create new case** window to create a case for the customer.|
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/fso-overview.md)
 
 **Related topics**  
 
 
-[Exploring Agentic Contact Center for Banking](exploring-agentic-contact-center-for-banking.md)
+[Exploring Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-agentic-contact-center-for-banking.md)
 
-[Interaction page for Agentic Contact Center for Banking](interaction-workspace-for-agentic-contact-center-for-banking.md)
+[Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md)
 
 [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 

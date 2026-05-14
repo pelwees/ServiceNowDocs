@@ -41,7 +41,7 @@ A sample workflow while submitting on an amendment request would be:
 
 2.  Select **Legal services** from the header.
 
-3.  Search for **Amendment request** and open the intake form.![Amendment request intake form in Employee Center](../image/snlc-amend-record-producer.png)
+3.  Search for **Amendment request** and open the intake form.![Amendment request intake form in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/snlc-amend-record-producer.png)
 
 4.  Enter the contract details.
 
@@ -103,7 +103,7 @@ Steps
 
 7.  Select Electronic or Wet signature, in the **Signature type** drop-down.
 
-    For more information on the signature flow, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+    For more information on the signature flow, see [Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md)
 
 8.  Attach contract documents.
 
@@ -142,9 +142,9 @@ Drag files from your local computer into your browser window to attach them to t
 
     -   To add a signatory, select **Add** and provide the signatory's details.
 
-    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
+    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
 
-    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
+    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
 
 10. Save the information in the request to submit later in Employee Center by selecting **Save as Draft**.
 
@@ -162,9 +162,9 @@ Drag files from your local computer into your browser window to attach them to t
     -   Replacing the metadata with data from the request.
     -   Replacing the signatory information.
     -   Placing the content of the clauses in the contract document according to the clause variation rules.
--   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md). View the signatories in the Signatories tab of the contract request.
+-   Internal signatories based on the template are also populated in the generated document. For more information, see [Define an internal signatory rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-define-internal-signers-rule.md). View the signatories in the Signatories tab of the contract request.
 
-For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](snlc-view-legal-req-details.md).
+For more information on how to view and track a legal request, see [View and track non-disclosure agreement requests as a legal user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-legal-req-details.md).
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-amend-req-landing.md)
 

@@ -58,7 +58,7 @@ Role required: scrum\_product\_owner, scrum\_master, safe\_product\_owner, or sa
 
     **Note:** **Triage Board** link is displayed only when the Agile — Scaled Agile Framework — Unified Backlog plugin \(com.snc.sdlc.safe.multi\_task\) is installed.
 
-8.  To view records in a standard platform list, click the icon to view records in a standard list \(![Icon used to view records in a standard list](../images/viewstandardlist.png)\).
+8.  To view records in a standard platform list, click the icon to view records in a standard list \(![Icon used to view records in a standard list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/viewstandardlist.png)\).
 
 9.  To personalize columns in a list, click the Personalize icon.
 
@@ -71,12 +71,12 @@ Role required: scrum\_product\_owner, scrum\_master, safe\_product\_owner, or sa
     |Action|Description|
     |------|-----------|
     |**Using the drag feature**|This option can be used to move stories within the backlog, move stories from the backlog to any sprint, or move stories from one sprint to another. Point to a story in the backlog and drag it to the required location.|
-    |**Using the keyboard**|This option can be used to move stories only within a backlog or a sprint. See [Arrange stories using the keyboard](../../sdlc-scrum/task/arrange-stories.md).|
+    |**Using the keyboard**|This option can be used to move stories only within a backlog or a sprint. See [Arrange stories using the keyboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/task/arrange-stories.md).|
 
 12. To perform an action on a set of stories.
 
     -   Select the required stories.
-    -   Click ![Icon used to perform a single action on multiple stories](../../sdlc-scrum/image/ellipsis.png) and select any of the following options:
+    -   Click ![Icon used to perform a single action on multiple stories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/ellipsis.png) and select any of the following options:
     |Option|Description|
     |------|-----------|
     |**Move to top**|Stories are placed at the top of the sprint.|
@@ -86,7 +86,7 @@ Role required: scrum\_product\_owner, scrum\_master, safe\_product\_owner, or sa
     |**SAFe Team**|From the Groups list, select the team to which you want to assign the stories.|
 
 
-**Parent Topic:**[SAFe Board — Team level](../concept/team-level-tabs.md)
+**Parent Topic:**[SAFe Board — Team level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/team-level-tabs.md)
 
 ## Perform sprint planning
 

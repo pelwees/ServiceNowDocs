@@ -129,5 +129,5 @@ A customized confirmation message to send to customers when they opt in to recei
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/configuring-notify.md)
 

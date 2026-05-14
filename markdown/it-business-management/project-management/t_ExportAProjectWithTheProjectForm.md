@@ -67,7 +67,7 @@ Steps
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 2.  Open the project that you want to export.
 3.  In the Project form, select the **Planning Console** related link.
-4.  In the Planning Console, select the more actions icon \(![More actions icon](../image/elipsis_icon.png)\) and select the **Export** option.
+4.  In the Planning Console, select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/elipsis_icon.png)\) and select the **Export** option.
 5.  In the Microsoft Project Export dialog box, select the file format.
 6.  Select **OK**.
 
@@ -86,13 +86,13 @@ Steps
 -   Use the XML file to import the project data into other ServiceNow instances or Microsoft Project.
 -   Use the CSV file to view project data using other applications.
 
--   **[Export project tasks](t_ExportProjectTasks.md)**  
+-   **[Export project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ExportProjectTasks.md)**  
 The task being exported must be associated with a project that uses either the Project Management Schedule or the Default MS Project schedule.
 
-**Parent Topic:**[Project export to Microsoft Project](../concept/c_ProjectExportToMicrosoftProject.md)
+**Parent Topic:**[Project export to Microsoft Project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectExportToMicrosoftProject.md)
 
 **Related topics**  
 
 
-[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+[Importing and exporting projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectImportAndExport.md)
 

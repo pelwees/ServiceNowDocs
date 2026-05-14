@@ -84,5 +84,5 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     ServiceNow® Playbook experiences enable you to customize the default playbook user experience for your agents.
 
 
-**Parent Topic:**[Workflow Studio release notes](workflow-studio-rn-landing.md)
+**Parent Topic:**[Workflow Studio release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/workflow-studio-rn-landing.md)
 

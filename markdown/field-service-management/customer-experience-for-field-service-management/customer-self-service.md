@@ -19,7 +19,7 @@ Empower customers to manage their own information and updates. Enhance convenien
 
 Customer self service includes the following.
 
-[Customer or Consumer Service Portal](use-customer-experience.md)
+[Customer or Consumer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/customer-experience-for-field-service-management/use-customer-experience.md)
 
 The Customer or Consumer Service Portal sends notifications to your customers through email and SMS, such as status of their work order tasks, agent's current location, and provide agent feedback.
 

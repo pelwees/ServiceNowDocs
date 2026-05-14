@@ -19,26 +19,26 @@ For example, when onboarding a new supplier, the supplier onboarding flow includ
 
 If you notice that the supplier catalog item records have been skipped during the upgrade, you must review the list of skipped records, evaluate how you want to resolve the conflict for these records, and take appropriate action.
 
-**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](post-upgrade-tasks-slo.md)
+**Parent Topic:**[Post-upgrade tasks for Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/post-upgrade-tasks-slo.md)
 
 **Related topics**  
 
 
-[Run fix script to update the KPI weighted score field in the KPI score table](../task/run-fixscript-update-kpi-weighted-score.md)
+[Run fix script to update the KPI weighted score field in the KPI score table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/run-fixscript-update-kpi-weighted-score.md)
 
-[Run fix script to update the Aggregation method field in the KPI table](../task/run-fixscript-update-kpi-aggregation-method.md)
+[Run fix script to update the Aggregation method field in the KPI table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/run-fixscript-update-kpi-aggregation-method.md)
 
-[Run fix script to update the KPI Instruction field in the Supplier Task table](../task/run-fixscript-update-kpi-instruction.md)
+[Run fix script to update the KPI Instruction field in the Supplier Task table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/run-fixscript-update-kpi-instruction.md)
 
-[Run fix scripts to enable Automated KPI collection](../task/run-fixscript-automated-kpis.md)
+[Run fix scripts to enable Automated KPI collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/run-fixscript-automated-kpis.md)
 
-[Run fix script to migrate existing data from the deprecated Action type column after upgrade](../task/fix-script-deprecated-column.md)
+[Run fix script to migrate existing data from the deprecated Action type column after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/fix-script-deprecated-column.md)
 
-[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](../task/access-smw-after-upgrade.md)
+[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/access-smw-after-upgrade.md)
 
-[Enable deprecated case types after upgrade](../task/enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enable-deprecated-case-types.md)
 
-[Enable deprecated case types after upgrade](../task/enable-deprecated-case-types.md)
+[Enable deprecated case types after upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enable-deprecated-case-types.md)
 
-[Restructured Supplier Task table](supplier-task-table-restructure.md)
+[Restructured Supplier Task table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)
 

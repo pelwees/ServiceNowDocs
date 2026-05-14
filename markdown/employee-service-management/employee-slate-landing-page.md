@@ -17,28 +17,28 @@ Employee Slate is your AI-first employee experience that brings search, requests
 
 <table id="table_topic-areas" class="nav-card presentation"><tbody><tr><td>
 
-[Getting started![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Install plugins, configure branding, manage conversational assistant, and more.](../task/eslate-config-admin-console.md)
+[Getting started![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Install plugins, configure branding, manage conversational assistant, and more.](../task/eslate-config-admin-console.md)
 
--   [Employee Slate setup flow](emp-slate-setup-flow.md)
--   [Employee Slate for Moveworks](employee-slate-moveworks.md)
--   [Employee Slate for Now Assist](employee-slate-nowassist.md)
--   [Employee Slate prompt library](../reference/employee-slate-prompt-library.md)
-
-</td><td>
-
-[Home page experience![](../../../reuse/icons/brand-icons/bus-personalized-self-service-portal.svg)Personalized home page that unifies widgets, services, and conversational interactions.](emp-slate-home-page.md)
+-   [Employee Slate setup flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emp-slate-setup-flow.md)
+-   [Employee Slate for Moveworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-moveworks.md)
+-   [Employee Slate for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-nowassist.md)
+-   [Employee Slate prompt library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/employee-slate-prompt-library.md)
 
 </td><td>
 
-[Workspace and productivity![](../../../reuse/icons/brand-icons/bus-task-list.svg)Tools that help employees manage tasks, stay informed, and navigate the organization.](emp-slate-inbox.md)
+[Home page experience![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-personalized-self-service-portal.svg)Personalized home page that unifies widgets, services, and conversational interactions.](emp-slate-home-page.md)
+
+</td><td>
+
+[Workspace and productivity![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-task-list.svg)Tools that help employees manage tasks, stay informed, and navigate the organization.](emp-slate-inbox.md)
 
 </td></tr><tr><td>
 
-[Now Assist![](../../../reuse/icons/brand-icons/bus-chat.svg)AI-powered assistance integrated into the Employee Slate experience.](employee-slate-nowassist.md)
+[Now Assist![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-chat.svg)AI-powered assistance integrated into the Employee Slate experience.](employee-slate-nowassist.md)
 
 </td><td>
 
-[Moveworks![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Conversational experiences that power Employee Slate.](employee-slate-moveworks.md)
+[Moveworks![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Conversational experiences that power Employee Slate.](employee-slate-moveworks.md)
 
 </td><td>
 

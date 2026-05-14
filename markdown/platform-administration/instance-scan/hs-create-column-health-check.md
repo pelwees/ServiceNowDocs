@@ -20,7 +20,7 @@ Retrieve all records containing a specific column field type from all tables in 
 Role required: scan\_admin
 
 ```
-Before performing this task you must complete [Create a check](hs-create-health-check.md).
+Before performing this task you must complete [Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md).
 ```
 
 ## Procedure
@@ -153,5 +153,5 @@ Script that executes against each record in a table containing a field of the de
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a check](hs-create-health-check.md)
+**Parent Topic:**[Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 

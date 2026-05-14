@@ -17,7 +17,7 @@ Learn about the Retail Task Management application by viewing the data model and
 
 ## Retail Task Management data model
 
-![Retail Task Management core data model.](../image/rtmc-data-model.png)
+![Retail Task Management core data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-data-model.png)
 
 Installing Retail Task Management Core introduces the **Affected retail stores** field into the Retail case \[sn\_retail\_case\] table.
 
@@ -29,17 +29,17 @@ Installing Retail Task Management Core automatically installs the Multi-case cre
 
 The Multi-case creation plugin also introduces a new internal table Affected Organization Core. This table maintains a many-to-one mapping between Organization Core and Cases.
 
-![Affected organizations in Retail Task Management Core.](../image/rtmc-case-so-data-model.png)
+![Affected organizations in Retail Task Management Core.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-case-so-data-model.png)
 
 **Note:** Both the child case creation status field and the Affected Organization Core table are hidden from end users. They're only used internally by the multi-case engine to manage and track case creation processes.
 
-![Multiple case creation config in the Retail Task Management Core data model.](../image/rtmc-mccc-data-model.png)
+![Multiple case creation config in the Retail Task Management Core data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-mccc-data-model.png)
 
 Installing the Multi-case creation plugin adds the Multiple case creation config field into the Service Definition table. This field references a new table, Multi Case Creation Config, which is also created during the plugin installation.
 
 The Multi Case Creation Config table holds the necessary information for multiple case creations.
 
-For more detailed information on how these fields are involved with the multi-store creation process, refer to [Configuring Retail Task Management](../concept/rahi-retail-task-management-configuring.md).
+For more detailed information on how these fields are involved with the multi-store creation process, refer to [Configuring Retail Task Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../concept/rahi-retail-task-management-configuring.md).
 
-**Parent Topic:**[Retail Task Management reference](../concept/rahi-retail-task-management-reference.md)
+**Parent Topic:**[Retail Task Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../concept/rahi-retail-task-management-reference.md)
 

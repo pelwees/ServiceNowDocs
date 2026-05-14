@@ -31,7 +31,7 @@ You can customize the existing notification or create a notification. For more i
 
 1.  Navigate to **All** &gt; **System Notifications ** &gt; **Email** &gt; **Notifications**.
 
-2.  Select the Show column search row icon \(![Show column search icon](../image/Search_icon_eaaI.jpg)\).
+2.  Select the Show column search row icon \(![Show column search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Search_icon_eaaI.jpg)\).
 
 3.  In the  **Name** column, search and select for any of the following notifications.
 

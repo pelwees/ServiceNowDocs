@@ -79,16 +79,16 @@ Add the following Hermes tables to the Clone Exclude Tables list if they're miss
 -   sys\_kafka\_namespace
 -   sys\_kafka\_topic
 
-**Parent Topic:**[Administering Hermes Messaging Service](hermes-messaging-service-administration.md)
+**Parent Topic:**[Administering Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-administration.md)
 
 **Related topics**  
 
 
-[Check the status of and connection to the Hermes Kafka cluster](../task/run-hermes-messaging-service-diagnostics.md)
+[Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/run-hermes-messaging-service-diagnostics.md)
 
-[Monitoring data usage in Hermes](monitoring-data-usage-hermes.md)
+[Monitoring data usage in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/monitoring-data-usage-hermes.md)
 
-[Tracking message usage in Hermes](tracking-hermes-messaging-service-usage.md)
+[Tracking message usage in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/tracking-hermes-messaging-service-usage.md)
 
-[View Hermes Messaging Service log messages](../task/view-hermes-log-messages.md)
+[View Hermes Messaging Service log messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/view-hermes-log-messages.md)
 

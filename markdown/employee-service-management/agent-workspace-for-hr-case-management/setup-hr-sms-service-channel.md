@@ -33,17 +33,17 @@ The HR Service Delivery base system includes the **HR SMS** service channel queu
 
     **Note:** By default, most of the form is populated for you. **Capacity and Utilization** fields are set to 1 for **Default work item size** and 4 for **Default capacity**. You can change these, and any form values, if desired.
 
-    ![HR SMS Service Channel SMS form](../image/setup-hr-sms-service-channel.png)
+    ![HR SMS Service Channel SMS form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/setup-hr-sms-service-channel.png)
 
 4.  Click the Queues related list to view and configure the HR SMS queue.
 
-    ![HR SMS Queues related list](../image/Queues-related-list-hr-sms.png)
+    ![HR SMS Queues related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/Queues-related-list-hr-sms.png)
 
 5.  View the default configurations on the Queue HR SMS form, ensuring the **Active** check box is checked.
 
 6.  Modify values as you desire.
 
-    ![Queue HR SMS form configuration](../image/hr-sms-queue-configuration.png)
+    ![Queue HR SMS form configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/hr-sms-queue-configuration.png)
 
 7.  Click on any of the related lists to view or modify default configured values.
 
@@ -57,7 +57,7 @@ The HR Service Delivery base system includes the **HR SMS** service channel queu
 
 11. In the Presence State Available form, select **SMS** in the **Service channels Available** column and move it to the **Selected** column using the right-pointing arrow.
 
-    ![HR SMS Advanced Work Assignment Presence States configuration](../image/sms-hr-presence-state-config.png)
+    ![HR SMS Advanced Work Assignment Presence States configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/sms-hr-presence-state-config.png)
 
 12. Click **Update**.
 

@@ -13,7 +13,7 @@ breadcrumb: [Exploring digital integrations in Enterprise Architecture Workspace
 
 This section shows the digital integration management data model.
 
-![Digital integration management data model](../../image/eaw-image/dig-integ-mgmt-data-model.png)
+![Digital integration management data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/dig-integ-mgmt-data-model.png)
 
-**Parent Topic:**[Exploring digital integrations in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-digital-integration.md)
+**Parent Topic:**[Exploring digital integrations in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-digital-integration.md)
 

@@ -35,7 +35,7 @@ To display the Image Viewer for a Static Image field, follow these steps:
 2.  Hover over the field and click the gear icon.
 3.  Open the raw value menu and add the following while including the required inputs in place of the placeholder text below.
 
-    ![Static images code](../images/cpq-image-viewer-raw-value.png)
+    ![Static images code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-raw-value.png)
 
 4.  Click **Save**, and deploy the blueprint.
 
@@ -75,7 +75,7 @@ To display the Image Viewer for a product picker field, follow these steps:
 
     **Note:** To display alt text or a label, additional fields for each type must be created. These fields are not required.
 
-    ![Product picker setup](../images/cpq-image-viewer-product-picker-fields.png)
+    ![Product picker setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-product-picker-fields.png)
 
 5.  Select the Bulk Actions tab.
 6.  Click Add New Action.
@@ -83,12 +83,12 @@ To display the Image Viewer for a product picker field, follow these steps:
 8.  Enter a Bulk Action Name.
 9.  Select all of the fields added for your Image Viewer.
 
-    ![Product picket setup](../images/cpq-image-viewer-product-picker-bulk-action-1.png)
+    ![Product picket setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-product-picker-bulk-action-1.png)
 
 10. Click **Save**.
 11. On the Bulk Actions tab, provide the URL for each image as well as text for labels and alt text if desired.
 
-    ![Image viewer demo](../images/cpq-image-viewer-product-picker-bulk-action-2.png)
+    ![Image viewer demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-product-picker-bulk-action-2.png)
 
 12. Click **Save**
 13. Open a layout that includes the product picker field.
@@ -101,7 +101,7 @@ To display the Image Viewer for a product picker field, follow these steps:
 
 18. Click **+ Add** and repeat step 17 for each image that you want to include.
 
-    ![Image viewer settings](../images/cpq-image-viewer-settings.png)
+    ![Image viewer settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-settings.png)
 
 19. Click **Save**, and deploy the blueprint.
 
@@ -118,13 +118,13 @@ To display the Image Viewer for a product picker field, follow these steps:
     -   imageLabel \(optional\)
     -   imageAltText \(optional\)
 
-        ![CSV file](../images/cpq-image-viewer-picklist-csv.png)
+        ![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-picklist-csv.png)
 
 5.  Import the created CSV.
 6.  Click **Column Mapping**.
 7.  For each field added, select the mapping menu and select the column name under the Extension mapping section.
 
-    ![Picklist extension](../images/cpq-image-viewer-picklist-column-mapping.png)
+    ![Picklist extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-picklist-column-mapping.png)
 
 8.  Click **Save Mapping**.
 9.  Open a layout that includes the product picker field.
@@ -137,7 +137,7 @@ To display the Image Viewer for a product picker field, follow these steps:
 
 14. Click **+ Add** and repeat step 13 for each image that you want to include.
 
-    ![Image viewer settings](../images/cpq-image-viewer-picklist-field-properties.png)
+    ![Image viewer settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-picklist-field-properties.png)
 
 15. Click **Save**, and deploy the blueprint.
 
@@ -155,11 +155,11 @@ For optimal performance, avoid large or high resolution images since that will i
 
 On a layout with a field that includes an image view, a user can hover over an image to see the expand icon.
 
-![Products screen](../images/cpq-image-viewer-display-1.png)
+![Products screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-display-1.png)
 
 Once clicked, the image view will open in a dialog box.
 
-![Image viewer display](../images/cpq-image-viewer-display-2.png)
+![Image viewer display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-image-viewer-display-2.png)
 
 A user can move between images with the arrow buttons or by clicking the thumbnails below the feature image. This carousel displays any label and alt text if provided. A user can close the dialog box by clicking outside it or by clicking **X** in the top right.
 

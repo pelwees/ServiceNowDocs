@@ -29,7 +29,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 3.  Make the necessary changes in the categories and their records.
 
-4.  Save all your changes to the database all at once by selecting the **Save** button \(![Save button.](../image/mab-button-save-bold.png)\).
+4.  Save all your changes to the database all at once by selecting the **Save** button \(![Save button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-save-bold.png)\).
 
     **Note:** Changes that you make are not saved to the database until you select the **Save** button. Mobile App Builder has several warning modals that display if you attempt to navigate away from a record with unsaved changes. For example, if you select the **Home** button, a warning message displays about unsaved changes.
 

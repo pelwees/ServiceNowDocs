@@ -99,12 +99,12 @@ Example Output
 
 ```
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/using-tsom.md)
 
 **Related topics**  
 
 
-[Configuring the Telecom Discovery Builder framework ETL in a connector](configuring-the-telco-generic-schema-etl.md)
+[Configuring the Telecom Discovery Builder framework ETL in a connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configuring-the-telco-generic-schema-etl.md)
 
-[Telecom Discovery Builder framework](exploring-the-telco-generic-schema-etl-framework.md)
+[Telecom Discovery Builder framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/exploring-the-telco-generic-schema-etl-framework.md)
 

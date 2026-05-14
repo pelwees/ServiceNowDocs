@@ -23,7 +23,7 @@ An activity group is a logical grouping of activity types. An activity group is 
 
 Activity groups are displayed in the Customer History view in Agent Workspace.
 
-![Activity groups view in Agent Workspace displaying Chat and Phone as the activity group types.](../image/static-facet.png)
+![Activity groups view in Agent Workspace displaying Chat and Phone as the activity group types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/static-facet.png)
 
 Learn more about configuring activity groups from the following video tutorial.Configure activity groups
 

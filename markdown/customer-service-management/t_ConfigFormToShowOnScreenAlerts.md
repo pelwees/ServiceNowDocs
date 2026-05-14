@@ -37,5 +37,5 @@ Role required: sn\_shn.admin
 **Related topics**  
 
 
-[Special handling notes](../concept/c_OnScreenAlerts.md)
+[Special handling notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/c_OnScreenAlerts.md)
 

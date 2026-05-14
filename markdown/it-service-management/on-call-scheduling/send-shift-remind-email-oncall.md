@@ -48,12 +48,12 @@ The ITSM Notifications Redirection \(com.snc.itsm.notifications\_redirection\) p
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configure or update an On-Call shift](config-update-shift-oncall.md)
+**Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/roles-assigning-oncall.md)
 
-[Manage shifts from the Calendar view](customize-calendar-view-oncall.md)
+[Manage shifts from the Calendar view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/customize-calendar-view-oncall.md)
 

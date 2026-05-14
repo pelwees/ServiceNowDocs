@@ -26,5 +26,5 @@ The following table lists the metrics that are gathered as output from Network p
 |ping.max|ms|Longest amount of time for a series of ping requests on the data packets.|
 |ping.mdev|ms|Mean deviation \(measure of the variability or dispersion\) of the round-trip time \(RTT\) of the packets sent during the ping test.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

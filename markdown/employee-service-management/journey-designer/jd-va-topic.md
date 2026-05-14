@@ -25,9 +25,9 @@ The Create JA task Virtual Agent topic enables you to create a JA task for any j
 
 From Employee Center, open a chat window and type in words such as, create JA task. After you have provided the required details \(such as journey to which you want to add the JA task, stage at which you want to add the JA task, template for the JA task, due date for the task\) the JA task is created. You can view the created task by navigating to the provided link in the topic flow.
 
-![Creating a Journey Accelerator task for a new hire](../image/ja-task-hrsd.png)
+![Creating a Journey Accelerator task for a new hire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../image/ja-task-hrsd.png)
 
-![Adding a Journey Accelerator task to a new hire journey](../image/ja-task-hrsd-1.png)
+![Adding a Journey Accelerator task to a new hire journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../image/ja-task-hrsd-1.png)
 
-**Parent Topic:**[Using Journey designer](using-jny-dsnr.md)
+**Parent Topic:**[Using Journey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/using-jny-dsnr.md)
 

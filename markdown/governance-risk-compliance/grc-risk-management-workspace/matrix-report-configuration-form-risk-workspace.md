@@ -109,5 +109,5 @@ Base table relation
 Relationship between the configured table and the base table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create Matrix report configuration for Risk Workspace](../task/create-matrix-report-configuration-for-risk-workspace.md)
+</table>**Parent Topic:**[Create Matrix report configuration for Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-matrix-report-configuration-for-risk-workspace.md)
 

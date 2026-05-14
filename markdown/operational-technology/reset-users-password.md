@@ -31,11 +31,11 @@ An Administrator can force another user to change their password on that user's 
 
     The green key changes color to an orange key with backwards slash through it. This means the user needs to change their password the next time they log in. The key image does not display once the user changes their password and logs back in.
 
-    ![User keys](../../msi-console/image/password-keys.png)
+    ![User keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/password-keys.png)
 
     The next time the user logs into the console, the **Change Password** window opens.
 
-    ![Change Password window](../images/change-password-resized.png)
+    ![Change Password window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/change-password-resized.png)
 
 4.  Enter a new password and then enter it again to confirm it.
 

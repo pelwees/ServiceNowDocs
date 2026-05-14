@@ -133,10 +133,10 @@ Script to define advanced assignment rule functionality. Current.variable\_pool 
 
 After creating the assignment rule, you can test it to verify that it works.
 
-**Parent Topic:**[Assignment and matching rules in HR](../concept/c_UseAssignmentRules-1.md)
+**Parent Topic:**[Assignment and matching rules in HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_UseAssignmentRules-1.md)
 
 **Related topics**  
 
 
-[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_AdministerHRServiceManagement.md)
 

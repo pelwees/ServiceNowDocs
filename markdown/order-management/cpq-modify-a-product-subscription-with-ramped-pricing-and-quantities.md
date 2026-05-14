@@ -36,10 +36,10 @@ In each segment, the **Quantity** field is editable. For example, to specify a c
 
 **Note:** By default, ramps are hidden in a product’s list of line items. To display the ramps in the line items view, set the hierarchy toggle at the top of the list. Then, select **conditions** and remove the default conditions for the view.
 
-**Parent Topic:**[Using CPQ](cpq-using.md)
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
 
-[Configurable products](configurable-products-explore.md)
+[Configurable products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configurable-products-explore.md)
 

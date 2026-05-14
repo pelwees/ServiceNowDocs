@@ -33,7 +33,7 @@ There are limitations to what users see when they follow the publish URL for a r
 -   Read ACLs govern the content of list reports. Users cannot see records for which they do not have access.
 -   Public roles with access to a published report may see a smaller subset of the original data displayed in the report when they're not logged in. For help with resolving published reports not showing all the expected data, see [KB article KB0736982](https://support.servicenow.com/kb_view.do?sysparm_article=KB0736982).
 
-Users with the admin or report\_admin role can see if a report has been published. Navigate to **Reports** &gt; **View / Run**, open the report, and click the **Sharing** icon \(![Sharing icon](../../../common/image/Form_ShareIcon.png)\). If the Sharing menu has the **Publish** option, the report is not yet published. If the Sharing menu has the **Unpublish** option, the report has been published.
+Users with the admin or report\_admin role can see if a report has been published. Navigate to **Reports** &gt; **View / Run**, open the report, and click the **Sharing** icon \(![Sharing icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../../common/image/Form_ShareIcon.png)\). If the Sharing menu has the **Publish** option, the report is not yet published. If the Sharing menu has the **Unpublish** option, the report has been published.
 
 **Note:** To make a report available only to users who are logged in, set its **Sharing** setting to **Everyone**, but do not publish it.
 
@@ -43,14 +43,14 @@ Users with the admin or report\_admin role can see if a report has been publishe
 
 2.  Click the report you want to publish.
 
-3.  In the upper right side of the report form, click the **Sharing** icon \(![Sharing icon](../../../common/image/Form_ShareIcon.png)\) and select **Publish**.
+3.  In the upper right side of the report form, click the **Sharing** icon \(![Sharing icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../../common/image/Form_ShareIcon.png)\) and select **Publish**.
 
-    A link icon \(![Link icon](../image/link-icon.png)\) shows with the Report option icons message. Click this icon to show a link to the published report. This link is available as long as the report is published.
+    A link icon \(![Link icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/link-icon.png)\) shows with the Report option icons message. Click this icon to show a link to the published report. This link is available as long as the report is published.
 
     **Note:** Business rules may affect how records are collected for public reports.
 
 
-**Parent Topic:**[Distribute reports](../concept/c_DistributeReports.md)
+**Parent Topic:**[Distribute reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_DistributeReports.md)
 
 ## Unpublish a report
 

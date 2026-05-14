@@ -31,7 +31,7 @@ The article view page uses the Knowledge Article Helpful widget to allow users t
 
 3.  Click **Instance Options**.
 
-    ![Knowledge article helpful widget Instance Options](../image/article-helpful-widget.png)
+    ![Knowledge article helpful widget Instance Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/article-helpful-widget.png)
 
 4.  Configure the desired settings for the Knowledge Article Helpful widget.
 
@@ -46,5 +46,5 @@ The article view page uses the Knowledge Article Helpful widget to allow users t
 5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/km-service-portal-widget-instances.md)
 

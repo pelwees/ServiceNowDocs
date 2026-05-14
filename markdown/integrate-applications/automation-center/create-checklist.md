@@ -19,7 +19,7 @@ Create a checklist to track the items for an automation request. A checklist is 
 
 Role required: sn\_ac.automation\_admin
 
-**Note:** The option to create a checklist is available only when the automation request is in the In progress state. For information about moving an automation request to the In progress state, see [Move an automation request to the In progress state](move-automationrequest-to-inprogress.md).
+**Note:** The option to create a checklist is available only when the automation request is in the In progress state. For information about moving an automation request to the In progress state, see [Move an automation request to the In progress state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/move-automationrequest-to-inprogress.md).
 
 After the automation request is moved to the following states, the option to create a checklist isn’t available:
 
@@ -31,7 +31,7 @@ After the automation request is moved to the following states, the option to cre
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -39,7 +39,7 @@ After the automation request is moved to the following states, the option to cre
 
     Ensure that the automation request is in the In progress state.
 
-5.  Select the Golive Checklist icon \(![golive checklist icon](../images/icon-golive.png)\) from the side panel.
+5.  Select the Golive Checklist icon \(![golive checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/icon-golive.png)\) from the side panel.
 
 6.  Select **Create new** from the **Add checklist** list if you want to create a checklist.
 
@@ -110,16 +110,16 @@ Specify a due date in the provided format.
 
     On top of the task that you created, there’s an arrow. Select the arrow to go to the main checklist window.
 
-    ![Moving from task window to checklist window](../images/golive-check.png)
+    ![Moving from task window to checklist window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/golive-check.png)
 
-    You can also select the available checklist that is provided with the product. For information, see [Working with golive checklists](../concept/working-golive.md).
+    You can also select the available checklist that is provided with the product. For information, see [Working with golive checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/working-golive.md).
 
 9.  Select the + icon if you want to add more tasks to the checklist.
 
-    ![Add task button](../images/golive-addtask.png)
+    ![Add task button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/golive-addtask.png)
 
     The Details form is displayed. Fill in the details.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/working-golive.md)
 

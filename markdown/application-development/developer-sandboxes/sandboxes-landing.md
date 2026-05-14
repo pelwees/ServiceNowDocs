@@ -22,15 +22,15 @@ Developer Sandboxes overview video
 
 <table id="table_bcm_2pm_bcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Developer Sandboxes](exploring-sandboxes.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Developer Sandboxes](exploring-sandboxes.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Developer Sandboxes](dev-sbx-installing.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Developer Sandboxes](dev-sbx-installing.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Administer and allocate Developer Sandboxes](../task/administering-sandboxes.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Administer and allocate Developer Sandboxes](../task/administering-sandboxes.md)
 
 </td></tr></tbody>
 </table>Use Developer Sandboxes to create isolated development environments where users can develop on the ServiceNow AI Platform in parallel. Sandboxes help enhance Git-based workflows of the software development life cycle by reducing conflicts and enabling faster time to production.

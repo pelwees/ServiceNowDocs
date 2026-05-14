@@ -42,10 +42,10 @@ The Communities application separates the notion of subscriptions from notificat
     The isNotificationDisabled API checks the value of the disable\_notifications flag. This API can also be used for blocking notification of other activity subscription modules.
 
 
-**Parent Topic:**[Community subscriptions](../concept/c_communities-subscriptions.md)
+**Parent Topic:**[Community subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-subscriptions.md)
 
 **Related topics**  
 
 
-[Subscribe to content](subscribe.md)
+[Subscribe to content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/subscribe.md)
 

@@ -42,5 +42,5 @@ The GRC: Risk Management plugin includes the following Performance Analytics ind
     Number of risks which are not assessed.
 
 
-**Parent Topic:**[Operational Risk Management dashboard](operational-risk-dashboard.md)
+**Parent Topic:**[Operational Risk Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/operational-risk-dashboard.md)
 

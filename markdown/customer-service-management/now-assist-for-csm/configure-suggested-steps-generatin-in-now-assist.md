@@ -82,7 +82,7 @@ Input fields
 
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
-    -   For customizing access control, see [Customize access control for suggested steps](configure-suggested-steps-generatin-in-now-assist.md#)
+    -   For customizing access control, see [Customize access control for suggested steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-suggested-steps-generatin-in-now-assist.md#)
 7.  Toggle **Display** to determine if suggested step recommendations appear in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
 8.  After selecting **Review and Activate** to examine changes, select **Done** to close the Suggested Steps Generation settings.
@@ -106,13 +106,13 @@ After activating the Suggested steps generation feature in the Now Assist Admin 
 
 2.  Go to **Experiences** &gt; **CSM/FSM Configurable Workspace** &gt; **Record** &gt; **Front-line Case Page**.
 
-    ![Front-line Case page location under CSM/FSM Configurable Workspace](../image/csm-fsm-configurable-workspace.png)
+    ![Front-line Case page location under CSM/FSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/csm-fsm-configurable-workspace.png)
 
 3.  In the left content navigation pane, scroll down and select **Recommended Action 1**.
 
 4.  In the right pane, clear the checkbox **Hide recommended actions**.
 
-    ![Image shows the Hide recommended actions checkbox unchecked](../image/recommended-actions1-tab.png)
+    ![Image shows the Hide recommended actions checkbox unchecked](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/recommended-actions1-tab.png)
 
 5.  Select **Save** to apply the changes.
 

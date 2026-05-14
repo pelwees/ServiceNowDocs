@@ -62,5 +62,5 @@ Enables \(**true**\) or disables \(**false**\) impersonation logging for non-int
 Excludes impersonation logging of non-interactive sessions for specified users.Enter user names as a comma-separated list. Default users \(**system**, **soap.guest**, and **guest**\) don’t need to be included in the list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Impersonating users](c_ImpersonateAUser.md)
+</table>**Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md)
 

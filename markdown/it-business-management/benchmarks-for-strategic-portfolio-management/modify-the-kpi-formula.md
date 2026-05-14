@@ -32,5 +32,5 @@ Role required: admin
 5.  Click and open the indicator field to view and edit the formula.
 
 
-**Parent Topic:**[Customize the SPM Benchmarks KPIs](using-benchmarks.md)
+**Parent Topic:**[Customize the SPM Benchmarks KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/using-benchmarks.md)
 

@@ -24,23 +24,23 @@ You can install and use the application only if you've already installed the Ent
 -   Enterprise Asset Management for Facilities \(com.sn\_eamfam\)
 -   Enterprise Asset Management for Data Center and Network Asset Management \(com.sn\_eam\_dcnam\)
 
--   **[Install Enterprise Asset Management for Providers](../task/install-eam-providers.md)**  
+-   **[Install Enterprise Asset Management for Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/install-eam-providers.md)**  
 You can install the Enterprise Asset Management for Providers application \(com.sn\_eam\_provider\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
--   **[Components installed with Enterprise Asset Management for Providers](../reference/installed-with-eam-providers.md)**  
+-   **[Components installed with Enterprise Asset Management for Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/installed-with-eam-providers.md)**  
 Several types of components are installed with activation of the com.sn\_eam\_provider plugin, including user roles, applications, and tables.
--   **[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](managing-rma-response-orders-daas-assets.md)**  
+-   **[Managing Return Merchandise Authorization \(RMA\) response orders for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-rma-response-orders-daas-assets.md)**  
 If you are a DaaS provider, vendor, or manufacturer, you can fulfill RMA requests from your customers by creating and managing provider-based RMA response orders.
--   **[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](managing-inbound-asset-orders-daas-assets.md)**  
+-   **[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-inbound-asset-orders-daas-assets.md)**  
 If you are a DaaS provider, vendor, or manufacturer, you can create and manage provider-based inbound asset orders to provide your customers with the DaaS assets that are requested through your Return Merchandise Authorization \(RMA\) response orders.
 
-**Parent Topic:**[Industry-specific Enterprise Asset Management solutions](eam-related-apps.md)
+**Parent Topic:**[Industry-specific Enterprise Asset Management solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-related-apps.md)
 
 **Related topics**  
 
 
-[Enterprise Asset Management for Healthcare](eam-for-healthcare.md)
+[Enterprise Asset Management for Healthcare](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-for-healthcare.md)
 
-[OT Asset Management](ot-asset-management.md)
+[OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-management.md)
 
-[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](eam-dcnam.md)
+[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-dcnam.md)
 

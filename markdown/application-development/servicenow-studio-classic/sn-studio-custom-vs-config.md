@@ -111,7 +111,7 @@ When your company needs to add new functionality to the ServiceNow platform, you
 
 For example, ITSM is designed to handle IT issues. To customize it to handle travel requests goes beyond the original intention of ITSM. Because IT and travel requests have different workflows, it’s better to create a travel request app using App Engine developer tools, such as Creator Studio and ServiceNow Studio, instead of customizing ITSM.
 
-For more information, see [Use App Engine instead of customizations](use-app-engine-instead-of-customizations.md).
+For more information, see [Use App Engine instead of customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/use-app-engine-instead-of-customizations.md).
 
 ## Examples of when to use App Engine developer products
 

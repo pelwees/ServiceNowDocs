@@ -33,15 +33,15 @@ The following procedure describes the steps for comparing user records using the
 
     For example, `ITIL User` as **user 1** and `Abel Tuter` as **user 2**.
 
-    ![Compare user records](../images/comparing-user-records.png)
+    ![Compare user records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-user-records.png)
 
 4.  Click **Compare user records**.
 
     The results show in the Details, Roles, and Groups tabs:
 
-    -   **Details**: Displays the user's metadata.![Details page](../images/comparing-page.png)
-    -   **Roles**: Displays the roles that are assigned to the user. You can select the role to know more about the role and its entitlements. ![Roles](../images/role-compare-user-records.png)
-    -   **Groups**: Displays the groups that are assigned to the user. You can select the group to know more about the group and its entitlements.![Group](../images/group-compare-user-records.png)
+    -   **Details**: Displays the user's metadata.![Details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-page.png)
+    -   **Roles**: Displays the roles that are assigned to the user. You can select the role to know more about the role and its entitlements. ![Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/role-compare-user-records.png)
+    -   **Groups**: Displays the groups that are assigned to the user. You can select the group to know more about the group and its entitlements.![Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/group-compare-user-records.png)
     Similarly, you can compare different users in the ServiceNow instance to understand the access that's assigned to them.
 
 

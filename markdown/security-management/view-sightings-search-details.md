@@ -39,5 +39,5 @@ Role required: sn\_si.analyst
     |Updated|Date and time of last modification.|
 
 
-**Parent Topic:**[Create sightings search configuration records](../../security-incident-response/task/sightings-search-configurations.md)
+**Parent Topic:**[Create sightings search configuration records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/task/sightings-search-configurations.md)
 

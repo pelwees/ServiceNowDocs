@@ -55,8 +55,8 @@ Role required: sn\_hr\_core.case\_reader
     -   **Close Incomplete**: Close the case and change the state to Incomplete.
     -   **Preview Document**: Click to preview a document for accuracy before generating and sending it.
     -   **Sign Document**: For documents that require an HR signature, click to preview, sign, and save the document.
-    Buttons appear at the top.![Menu buttons for HR case form.](../image/HRCaseButtons.png)
+    Buttons appear at the top.![Menu buttons for HR case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/HRCaseButtons.png)
 
 
-**Parent Topic:**[Work an HR case](t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 

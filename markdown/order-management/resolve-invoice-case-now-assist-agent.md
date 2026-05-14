@@ -16,7 +16,7 @@ Resolve invoice dispute cases using Now Assist directly from the CSM/FSM Configu
 
 ## Before you begin
 
-The invoice dispute assist agentic workflow must be made available on the Now Assist panel. For more information, see [Make the invoice dispute assist workflow available in the Now Assist panel](enable-invoice-dispute-assist-agentic-workflow.md).
+The invoice dispute assist agentic workflow must be made available on the Now Assist panel. For more information, see [Make the invoice dispute assist workflow available in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enable-invoice-dispute-assist-agentic-workflow.md).
 
 Role required: awa\_agent, sn\_csm\_invoice.agent, sn\_otc.accounts\_receivable\_agent, and now\_assist\_panel\_user
 
@@ -82,5 +82,5 @@ When a customer is transferred from the Virtual Assistant, the interaction recor
 
 When the dispute is resolved, the invoice case is closed with the resolution details documented in the case notes, and an email notification is sent to the customer with a summary and a hyperlink to the case.
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-order-management-using.md)
 

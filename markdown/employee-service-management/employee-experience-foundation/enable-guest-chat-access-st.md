@@ -57,7 +57,7 @@ Enable Guest access
 
 </td><td>
 
-Option to enable the Client Credentials token to fetch user type details that were set during the process of [Enable authentication of guest users](update-verify-app-registry-guest.md).
+Option to enable the Client Credentials token to fetch user type details that were set during the process of [Enable authentication of guest users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-verify-app-registry-guest.md).
 
  If you do not select this option, an error occurs when the guest tries to start or import a Microsoft Teams chat.
 
@@ -81,5 +81,5 @@ The guest user domains where invited guests can start or import a chat. Only the
 
 Guests belonging to the selected guest domains can start or import chats.
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-st.md)
+**Parent Topic:**[Request-based chat access for a guest user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/guest-user-chat-access-st.md)
 

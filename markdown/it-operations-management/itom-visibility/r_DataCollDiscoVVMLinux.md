@@ -122,5 +122,5 @@ VxVM Discovery maps file systems to the disks that supply storage. By default th
 -   Veritas Subdisk \(Storage\)
 -   Veritas Volume
 
-**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+**Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Storage.md)
 

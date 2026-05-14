@@ -91,7 +91,7 @@ Notes and limitations:
 -   The parent variable refers to the **Applies to table**. In this case, it applies to the User \[sys\_user\] table.
 -   Querying against a record sys\_id is a common query method for relationships.
 
-**Parent Topic:**[Create defined related lists](t_CreateDefinedRelatedLists.md)
+**Parent Topic:**[Create defined related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md)
 
 **Related topics**  
 

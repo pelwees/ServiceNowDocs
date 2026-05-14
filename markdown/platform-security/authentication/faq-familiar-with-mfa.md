@@ -19,7 +19,7 @@ FAQ related to understanding the MFA metrics.
 
     You can navigate to **Security Center** &gt; **Security Console** &gt; **Security Metrics**. Under metrics for users click on local login not protected by MFA.
 
-    ![MFA Metrics](../images/mfa-metrics-page.png)
+    ![MFA Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-metrics-page.png)
 
 2.  How can I check the number of users who still need to complete the MFA setup and are performing local login?
 

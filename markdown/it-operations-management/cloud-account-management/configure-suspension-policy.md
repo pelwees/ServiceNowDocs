@@ -17,7 +17,7 @@ Set up a restriction on cloud account creation. For example, when the account ow
 
 ## Before you begin
 
-Verify you have saved the CloudFormation template. For more details, see [Configuring Service Control Policy in AWS](about-service-control-policy.md).
+Verify you have saved the CloudFormation template. For more details, see [Configuring Service Control Policy in AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-service-control-policy.md).
 
 Role required: AWS admin
 
@@ -54,5 +54,5 @@ The key element that you must provide to the ServiceNow AI Platform admin is the
 
 ## What to do next
 
-[Provisioning modes for Cloud Account Management in Cloud Workspace](../concept/supported-provision-modes.md)
+[Provisioning modes for Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/supported-provision-modes.md)
 

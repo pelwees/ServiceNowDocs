@@ -44,5 +44,5 @@ The case template is created. You can use the template for workplace services.
 
 ## What to do next
 
-Create a case template with user acceptance, for more information, see [Create a User acceptance Workplace case template](create-usr-accptnce-workplace-case-template.md).
+Create a case template with user acceptance, for more information, see [Create a User acceptance Workplace case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-usr-accptnce-workplace-case-template.md).
 

@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-There are properties that you configure for the OpenFolderDialog component. For more information, see [Dialog component properties](../reference/dialog-component-properties.md).
+There are properties that you configure for the OpenFolderDialog component. For more information, see [Dialog component properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/dialog-component-properties.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ There are properties that you configure for the OpenFolderDialog component. For 
 
 4.  In the Browse For Folder dialog, select the required folder and click **Open**.
 
-5.  To configure the outputs from the data ports, see [Configure output port properties](configure-output-port-properties.md).
+5.  To configure the outputs from the data ports, see [Configure output port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-output-port-properties.md).
 
     The Result \(Boolean\) and Path \(String\) returns the Boolean response to whether you had opened a folder and the folder name and path respectively.
 
@@ -47,5 +47,5 @@ There are properties that you configure for the OpenFolderDialog component. For 
 7.  To test the component, click **Run** under the **DESIGN** tab.
 
 
-**Parent Topic:**[Dialogs](../concept/dialogs.md)
+**Parent Topic:**[Dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/dialogs.md)
 

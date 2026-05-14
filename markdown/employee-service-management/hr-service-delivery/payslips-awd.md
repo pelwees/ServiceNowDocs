@@ -39,18 +39,18 @@ Report an issue with your Workday payslip from Employee Center.
     An HR case is created that is in Ready state.
 
 
-**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](../concept/using-hr-service-delivery-advanced-integration-with-workday.md)
+**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-hr-service-delivery-advanced-integration-with-workday.md)
 
 **Related topics**  
 
 
-[Time off request to Workday](../concept/w-timeoff.md)
+[Time off request to Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/w-timeoff.md)
 
-[Change legal name through Virtual Agent](change-legal-na-awd.md)
+[Change legal name through Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/change-legal-na-awd.md)
 
-[Publish the VA topic template for legal name change](nlu-awd.md)
+[Publish the VA topic template for legal name change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/nlu-awd.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](../concept/now-assist-va-awd.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/now-assist-va-awd.md)
 
-[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](../concept/conversational-agents-wd.md)
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/conversational-agents-wd.md)
 

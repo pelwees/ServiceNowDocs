@@ -17,7 +17,7 @@ As a contract configurator, search for templates and clauses in the Microsoft Wo
 
 ## Before you begin
 
-Ensure you have configured the Microsoft Word add-in for ServiceNow Contracts add-in. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
+Ensure you have configured the Microsoft Word add-in for ServiceNow Contracts add-in. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 
@@ -29,7 +29,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  On the add-in login screen, enter the credentials of the ServiceNow instance from where you downloaded the manifest file.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
 4.  On the **Templates** tab, search for templates with a specific name or state by entering search text in the **Search templates** search field.
 
@@ -73,5 +73,5 @@ Actions
     Active clauses that match the search criteria will be displayed.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Configure the HTML toolbar, Configure a field editor for the HTML f
 
 Several editing functions are built into TinyMCE.
 
-You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [Configure the HTML toolbar](../../../administer/form-administration/task/t_ConfigureTheTinyMCEHTMLToolbar.md).
+You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [Configure the HTML toolbar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/form-administration/task/t_ConfigureTheTinyMCEHTMLToolbar.md).
 
 <table id="table_xg1_bcg_vq"><thead><tr><th>
 
@@ -37,11 +37,11 @@ Cut\*
 
 </td><td>
 
-![Cut html](../image/CutHTML.png)
+![Cut html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CutHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3Cut](../image/TinyMCEV6-cut_icon.png)
+![TinyMCE v6.8.3Cut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-cut_icon.png)
 
 </td><td>
 
@@ -55,11 +55,11 @@ Copy\*
 
 </td><td>
 
-![Copy html](../image/CopyHTML.png)
+![Copy html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CopyHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Copy](../image/TinyMCEV6-copy_icon.png)
+![TinyMCE v6.8.3 Copy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-copy_icon.png)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Find/Replace
 
 </td><td>
 
-![Find replace html](../image/FindReplaceHTML.png)
+![Find replace html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FindReplaceHTML.png)
 
 </td><td>
 
@@ -89,11 +89,11 @@ Paste\*
 
 </td><td>
 
-![Paste html](../image/PasteHTML.png)
+![Paste html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PasteHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Paste](../image/TinyMCEV6-paste_icon.png)
+![TinyMCE v6.8.3 Paste](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-paste_icon.png)
 
 </td><td>
 
@@ -107,11 +107,11 @@ Paste as Plain Text\*
 
 </td><td>
 
-![Paste text html](../image/PasteTextHTML.png)
+![Paste text html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PasteTextHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Paste as plain text](../image/TinyMCEV6-paste-text_icon.png)
+![TinyMCE v6.8.3 Paste as plain text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-paste-text_icon.png)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Paste from Word
 
 </td><td>
 
-![Paste from Word html](../image/PasteWordHTML.png)
+![Paste from Word html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PasteWordHTML.png)
 
 </td><td>
 
@@ -139,11 +139,11 @@ Undo\*
 
 </td><td>
 
-![Undo html](../image/UndoHTML.png)
+![Undo html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/UndoHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Undo](../image/TinyMCEV6-undo_icon.png)
+![TinyMCE v6.8.3 Undo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-undo_icon.png)
 
 </td><td>
 
@@ -155,11 +155,11 @@ Redo\*
 
 </td><td>
 
-![Redo html](../image/RedoHTML.png)
+![Redo html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RedoHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Redo](../image/TinyMCEV6-redo_icon.png)
+![TinyMCE v6.8.3 Redo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-redo_icon.png)
 
 </td><td>
 

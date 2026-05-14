@@ -195,7 +195,7 @@ Set up ServiceNow instance for Microsoft Dynamics 365 and Power Apps to track yo
 
 Role required: sam\_integrator
 
-**Important:** You must select the **Microsoft Dynamics 365 Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Microsoft Dynamics 365 Spoke** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md).
 
 ### About this task
 
@@ -247,7 +247,7 @@ Action
 
 5.  Under the **Download Subscription Subflow** tab, beside the **Connection &amp; Credential** field, select the preview icon ![](../image/preview-icon.png).
 
-6.  Under the **Please Enter the Credential Information** section, enter the values you received from [Set up Microsoft Azure Active Directory](integrating-with-microsoft365.md#).
+6.  Under the **Please Enter the Credential Information** section, enter the values you received from [Set up Microsoft Azure Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrating-with-microsoft365.md#).
 
     1.  In the **Tenant ID** field, enter your Tenant ID.
 
@@ -273,7 +273,7 @@ Action
 
     2.  Select the permission type to ensure your application accesses data correctly and securely.
 
-        The permission type can be **Application Permissions** or **Delegated Permissions** depending on the application's data access requirements. For more information on permission types, see [Software Asset Management publisher pack for Microsoft](microsoft-publisher-pack.md).
+        The permission type can be **Application Permissions** or **Delegated Permissions** depending on the application's data access requirements. For more information on permission types, see [Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/microsoft-publisher-pack.md).
 
     3.  In the **OAuth Client ID** field, enter the OAuth Client ID.
 
@@ -313,22 +313,22 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/run-recon-workspace.md).
 
 ## Optimizing Microsoft Dynamics 365 subscriptions
 
@@ -347,10 +347,10 @@ Based on the software usage activity and the incurred cost, Software Asset Manag
     For example, if Dynamics 365 Commerce, Dynamics 365 Finance, and Dynamics 365 Human Resources base license subscriptions are purchased for a user, Software Asset Management recommends using Dynamics 365 Commerce as base license and Dynamics 365 Finance and Dynamics 365 Human Resources as attached licenses to the base license. For more information, you can download the Dynamics 365 Licensing Guide from the [Dynamics 365 pricing overview page](https://www.microsoft.com/en-us/dynamics-365/pricing-overview).
 
 
-After completing the [Integrating with Microsoft Dynamics 365 and Power Apps](integrating-with-microsoft365.md#) integration, you can view the usage activity information in the Software Subscription \[samp\_sw\_subscription\] table.
+After completing the [Integrating with Microsoft Dynamics 365 and Power Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrating-with-microsoft365.md#) integration, you can view the usage activity information in the Software Subscription \[samp\_sw\_subscription\] table.
 
 **Related topics**  
 
 
-[Reclamation rules for SaaS and SSO applications](../reference/reclamation-rules.md)
+[Reclamation rules for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reference/reclamation-rules.md)
 

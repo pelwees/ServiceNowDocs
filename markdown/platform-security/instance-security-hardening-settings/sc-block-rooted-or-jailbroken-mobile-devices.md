@@ -85,7 +85,7 @@ Category
 
 </td><td>
 
-[Malicious code](sc-malicious-code.md)
+[Malicious code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-malicious-code.md)
 
 </td></tr><tr><td>
 
@@ -111,8 +111,8 @@ References
 
 </td><td>
 
-[Access control](sc-access-control.md)
+[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Malicious code](sc-malicious-code.md)
+</table>**Parent Topic:**[Malicious code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-malicious-code.md)
 

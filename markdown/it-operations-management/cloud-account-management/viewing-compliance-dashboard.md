@@ -20,7 +20,7 @@ The Cloud Workspace compliance dashboard provides insights that help security te
 
 As an admin, you can access the dashboard by navigating to **All** &gt; **Cloud Workspace** &gt; **Monitor and track**.
 
-![Compliance dashboard view](../image/compliance-dashboard.png "Compliance dashboard")
+![Compliance dashboard view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/compliance-dashboard.png "Compliance dashboard")
 
 **Note:**
 

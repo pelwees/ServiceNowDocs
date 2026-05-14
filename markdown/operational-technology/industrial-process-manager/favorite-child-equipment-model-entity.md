@@ -23,15 +23,15 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the Equipment Model Manager \( ![Equipment Model Manager icon in the Industrial Workspace](../image/equip-model-manager-button.png)\) icon.
+2.  Select the Equipment Model Manager \( ![Equipment Model Manager icon in the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/equip-model-manager-button.png)\) icon.
 
-3.  Next to the child equipment model entity or entities that you want to favorite, select the **Mark as Favorite** \(![Favorite icon](../image/mark-as-favorite.png)\) icon.
+3.  Next to the child equipment model entity or entities that you want to favorite, select the **Mark as Favorite** \(![Favorite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/mark-as-favorite.png)\) icon.
 
     **Note:** You cannot select an ISA site as a favorite.
 
     If you select a higher level entity as a favorite, the related child entities underneath won't be shown. But if you select a lower level child entity, the full hierarchy including the parent entity is shown.
 
-4.  To remove a child entity from your favorites, select the **Remove as Favorite** \(![Remove as favorite icon](../image/remove-as-favorite.png)\) icon.
+4.  To remove a child entity from your favorites, select the **Remove as Favorite** \(![Remove as favorite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/remove-as-favorite.png)\) icon.
 
 
 ## Result
@@ -42,5 +42,5 @@ To view only favorite child equipment model entities, you can select the Show Fa
 
 When you switch on the Show Favorites toggle, the configuration is saved. When you log out and log back in, or open a different site, the Show Favorites toggle is still switched on.
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

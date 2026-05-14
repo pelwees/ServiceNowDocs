@@ -118,5 +118,5 @@ if (set.networkDevices.totalRackUnits > 50) {
 **Related topics**  
 
 
-[Configure sets](sets.md)
+[Configure sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/sets.md)
 

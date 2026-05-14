@@ -126,5 +126,5 @@ Amount received
 Receipt amount for the service received.This field is visible only for a services receipt.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
+</table>**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 

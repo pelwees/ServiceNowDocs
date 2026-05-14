@@ -17,7 +17,7 @@ The Financial Services Complaint Management application installs an automated wo
 
 The following diagram shows how the application helps bank agents resolve a complaint request.
 
-![Workflow that shows how a complaint request is resolved using the Complaint management application. For the text description, refer to the workflow steps that follow.](../image/fso-complaints-workflow-example.png "Complaint management workflow")
+![Workflow that shows how a complaint request is resolved using the Complaint management application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-complaint-management/../image/fso-complaints-workflow-example.png "Complaint management workflow")
 
 **Note:** This workflow is built using [Process Automation Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md) and [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md). The complaint admin can review and customize this predefined flow based on the business needs of your organization.
 

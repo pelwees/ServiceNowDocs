@@ -30,7 +30,7 @@ Most environments require multiple MID Servers, with Service Mapping using the r
 
 -   IP range — limits operation of this MID Server to this IP range. Service Mapping does not choose this MID Server for a discovery request whose endpoint is outside this IP range. See [Configure an IP address range for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureMIDIPRange.md).
 
-    **Note:** For information on how to bypass MID Server configuration based on IP range, see [Fine-tune Service Mapping with MID affinity and IP reuse](network-location-mid-affinity-td-discovery.md).
+    **Note:** For information on how to bypass MID Server configuration based on IP range, see [Fine-tune Service Mapping with MID affinity and IP reuse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/network-location-mid-affinity-td-discovery.md).
 
 
 Service Mapping selects a MID Server using the following algorithm:
@@ -39,7 +39,7 @@ Service Mapping selects a MID Server using the following algorithm:
 -   If there are no MID Servers with matching selection criteria, Service Mapping chooses the default MID Server.
 -   If there are no MID Servers with matching selection criteria or default MID Server, Service Mapping cannot start the discovery process.
 
-While by default Service Mapping uses this algorithm in all deployments upgraded from Istanbul or Jakarta, it can support both new and legacy algorithms for selecting a MID Server. For more information, see [Choose MID Server selection algorithm](../task/choose-mid-selection-algorithm.md).
+While by default Service Mapping uses this algorithm in all deployments upgraded from Istanbul or Jakarta, it can support both new and legacy algorithms for selecting a MID Server. For more information, see [Choose MID Server selection algorithm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/choose-mid-selection-algorithm.md).
 
 ## Default MID Servers for Service Mapping
 
@@ -63,39 +63,39 @@ ServiceNow applications refer to devices and applications that comprise a servic
 
 The number of MID Servers that you require and where you place them depends on your organization needs. If you want to map devices and applications inside your private network, place the MID Servers inside the private network. If you want to map devices and applications located in the DMZ, place the MID Servers both in the DMZ and inside the private network.
 
-![Placing MID Servers inside private network](../image/SNcomponentsSMtopology.png "Placing MID Servers inside private network")
+![Placing MID Servers inside private network](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/SNcomponentsSMtopology.png "Placing MID Servers inside private network")
 
 In deployments where domain separation is enabled and domains are configured to form a hierarchy, MID Servers must be placed in the lowest domain level, a "leaf domain".
 
-![Placing MID Servers to support domain separation](../image/MIDServerDeplDomainSep.png "Placement of MID Servers in domain-seprated environments")
+![Placing MID Servers to support domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MIDServerDeplDomainSep.png "Placement of MID Servers in domain-seprated environments")
 
 Once MID Servers MID Servers are installed, configure them to work with Service Mapping for the best discovery results.
 
--   **[Choose MID Server selection algorithm](../task/choose-mid-selection-algorithm.md)**  
+-   **[Choose MID Server selection algorithm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/choose-mid-selection-algorithm.md)**  
 Service Mapping supports the new and the legacy algorithms for selecting a MID Server for a discovery request. Depending on your organization needs, you can choose which algorithm to enable.
--   **[MID Server configuration for Service Mapping in upgraded deployments](MID-selection-criteria-upgrade.md)**  
+-   **[MID Server configuration for Service Mapping in upgraded deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/MID-selection-criteria-upgrade.md)**  
 For ServiceNow deployments upgraded from earlier versions to Istanbul, Service Mapping uses the legacy algorithm to choose a MID Server for a discovery request.
--   **[Configure a default MID Server for Service Mapping for upgraded deployments](../task/config-default-mid-for-sm.md)**  
+-   **[Configure a default MID Server for Service Mapping for upgraded deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/config-default-mid-for-sm.md)**  
 In deployments upgraded to Istanbul or earlier, Service Mapping uses the default MID Server when it cannot find a MID Server with the matching IP range. Configuring a default MID Server improves the discovery process.
 
-**Parent Topic:**[Configuring Service Mapping](service-mapping-setup.md)
+**Parent Topic:**[Configuring Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-setup.md)
 
 **Related topics**  
 
 
-[PowerShell for Discovery and Service Mapping](../../discovery/reference/r_PowerShellForDiscovery.md)
+[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/reference/r_PowerShellForDiscovery.md)
 
-[Pattern-based discovery in Service Mapping](pattern-based-discovery.md)
+[Pattern-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/pattern-based-discovery.md)
 
 [MID Server connection prerequisites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConnectionPrerequisites.md)
 
-[Credential-less Discovery with Nmap](../../discovery/concept/nmap-credential-less-discovery.md)
+[Credential-less Discovery with Nmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/concept/nmap-credential-less-discovery.md)
 
-[Credential-less Application Discovery](../../discovery/reference/credential-less-app-discovery.md)
+[Credential-less Application Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/reference/credential-less-app-discovery.md)
 
 [Multiple MID Server deployments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallMultplMIDSvrOnASingleSys.md)
 
 [MID Server installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md)
 
-[MID Server properties used by Service Mapping](../reference/mid-server-properties-service-mapping.md)
+[MID Server properties used by Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/mid-server-properties-service-mapping.md)
 

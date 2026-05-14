@@ -29,13 +29,13 @@ Role required: none
 
 3.  \[ODBC version 1.0.8\] Change the value of the **ServiceJVMOptions** attribute to the desired logging level.
 
-    ![ODBC service JVM options](../image/ODBC_ServiceJVMOptions.png)
+    ![ODBC service JVM options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ODBC_ServiceJVMOptions.png)
 
 4.  Within the management console, navigate to **&lt;your\_installation\_directory&gt;** &gt; **Services** &gt; **ServiceNow\_ODBC** &gt; **Service Settings** &gt; **Logging**.
 
 5.  Change the value of the **ServiceDebugLogLevel** by selecting all available check boxes.
 
-    ![ODBC service debug log level](../image/ODBC_ServiceDebugLogLevel.png)
+    ![ODBC service debug log level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ODBC_ServiceDebugLogLevel.png)
 
 6.  In Windows, navigate to **Start** &gt; **Programs** &gt; **ServiceNow ODBC** &gt; **ODBC Administrator**.
 
@@ -48,12 +48,12 @@ Role required: none
 10. Enable SOAP debugging for your ServiceNow instance.
 
 
-**Parent Topic:**[Configuring the ODBC driver](../concept/configuring-odbc.md)
+**Parent Topic:**[Configuring the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/configuring-odbc.md)
 
 **Related topics**  
 
 
-[Generate logs for debugging](t_GenerateDebugLogs.md)
+[Generate logs for debugging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_GenerateDebugLogs.md)
 
-[Debug incoming SOAP envelope](../../inbound-soap/concept/c_DebuggingIncomingSOAPEnvelope.md)
+[Debug incoming SOAP envelope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../inbound-soap/concept/c_DebuggingIncomingSOAPEnvelope.md)
 

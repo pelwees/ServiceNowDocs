@@ -123,5 +123,5 @@ Date from when data is supposed to be retrieved from Microsoft. This field can b
 
 After the successful creation and activation of the profile, the incidents are retrieved periodically as per the configuration set in the profile and added into the DLP incidents table.
 
-**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](create-profile-microsoft-dlp-integration.md)
+**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-microsoft-dlp-integration.md)
 

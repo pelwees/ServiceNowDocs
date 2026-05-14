@@ -43,13 +43,13 @@ Reconfigure the **Holiday Schedule** field on the Appointment Booking Service Co
 
     Use the Schedule Entries related list to create two separate excluded hours schedule entries, one for **Friday off hours** and one for **Weekday off hours**.
 
-    ![Off hours schedule](../image/OffHoursSchedule.png)
+    ![Off hours schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/OffHoursSchedule.png)
 
 8.  Select **New** in the Schedule Entries related list to create **Friday off hours**.
 
     You will configure Fridays to exclude all appointments after 1:00 p.m.
 
-    ![Friday off hours](../image/FridayOffHours.png)
+    ![Friday off hours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/FridayOffHours.png)
 
 9.  Select **Update** to save your changes.
 
@@ -71,15 +71,15 @@ Reconfigure the **Holiday Schedule** field on the Appointment Booking Service Co
 
 13. Select **Walk-up Experience** and then the walk-up location you want to reconfigure, for example, San Diego Tech Lounge.
 
-    ![Appointment Booking Configuration](../image/AppointmentBookingConfiguration.png)
+    ![Appointment Booking Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/AppointmentBookingConfiguration.png)
 
-14. In the **Holiday Schedule** field, change the default, base system schedule value to **Off hours schedule**, using the list search ![list search icon](../../../common/image/List_SearchIcon.png) icon.
+14. In the **Holiday Schedule** field, change the default, base system schedule value to **Off hours schedule**, using the list search ![list search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../common/image/List_SearchIcon.png) icon.
 
 15. Click the **Daily Schedule** tab to configure the daily start and end times for the walk-up location.
 
     For this location, the hours of operation begin at 8:00 a.m. and end at 5:00 p.m. \(17:00\), Monday through Friday.
 
-    ![Configure location daily start and end times](../image/AppointmentBookingConfig.png)
+    ![Configure location daily start and end times](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/AppointmentBookingConfig.png)
 
 16. Select **Update** to save your changes.
 
@@ -87,16 +87,16 @@ Reconfigure the **Holiday Schedule** field on the Appointment Booking Service Co
 
 18. Select the walk-up location with the excluded hours you want to verify.
 
-    ![Welcome to the walk-up check-in](../image/WelcomeWalkupServicePortal.png)
+    ![Welcome to the walk-up check-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/WelcomeWalkupServicePortal.png)
 
 19. Select **Schedule an appointment**.
 
-20. Click the calendar ![calendar icon](../image/CalendarIcon.png) icon to view the available appointment times for the walk-up location.
+20. Click the calendar ![calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/CalendarIcon.png) icon to view the available appointment times for the walk-up location.
 
     The appointment schedule reflects the excluded hours you configured by using the **Off hours schedule**. Scroll down in the **Select Appointment** window to view the end times.
 
-    ![Available appointments with accurate off hours times](../image/AvailableAppointments.png)
+    ![Available appointments with accurate off hours times](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/AvailableAppointments.png)
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-appointment-booking-config.md)
 

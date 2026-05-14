@@ -19,7 +19,7 @@ Set your user's password for the instance based on the password policy that is c
 
 Users created for setting the password for their first login. For more information, see [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAUser.md).
 
-To populate the **Password** field directly on the user form, enable the **Enable to show the password field on the sys\_user Form** \(glide.user.show.password.field\). To know more about the properties, see [Password policy properties](../reference/password-policy-properties.md).
+To populate the **Password** field directly on the user form, enable the **Enable to show the password field on the sys\_user Form** \(glide.user.show.password.field\). To know more about the properties, see [Password policy properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../reference/password-policy-properties.md).
 
 Role required: password\_policy\_admin
 
@@ -33,21 +33,21 @@ Role required: password\_policy\_admin
 
     The Set Password pop-up is displayed.
 
-    ![Set Password](../images/set-password.png)
+    ![Set Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/set-password.png)
 
 4.  In the Set Password, perform the following.
 
     1.  Click **Generate** to generate the password.
 
-        ![Generate Password](../images/generate-password.png)
+        ![Generate Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/generate-password.png)
 
     2.  Click the **View** icon to view the password.
 
-        ![View Password](../images/view-password.png)
+        ![View Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/view-password.png)
 
     3.  Click the **Copy** icon to copy the password to share to the user.
 
-        ![Copy Password](../images/copy-password.png)
+        ![Copy Password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/copy-password.png)
 
 5.  Click **Save Password**.
 

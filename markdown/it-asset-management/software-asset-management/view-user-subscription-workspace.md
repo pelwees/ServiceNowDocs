@@ -60,19 +60,19 @@ Navigate to **All** &gt; **Software Asset** &gt; **Software Subscriptions**.
 
 3.  On the Create New Software Subscription form, fill in the fields.
 
-    For more information on the Software subscription form fields and their descriptions, see [Software subscription fields](../reference/software-subscription-fields.md).
+    For more information on the Software subscription form fields and their descriptions, see [Software subscription fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-subscription-fields.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 
 **Related topics**  
 
 
-[Software models and Software entitlements](../concept/software-models-and-entitlements.md)
+[Software models and Software entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/software-models-and-entitlements.md)
 
-[Create a software model in the Software Asset Workspace](create-swmodels-workspace.md)
+[Create a software model in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md)
 
-[Create entitlements in workspace](create-entitlements-workspace.md)
+[Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md)
 

@@ -36,5 +36,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Predictive Intelligence for Change Management](../concept/change-mgmt-intelligent-solutions.md)
+**Parent Topic:**[Predictive Intelligence for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-mgmt-intelligent-solutions.md)
 

@@ -21,7 +21,7 @@ You can use the default license types provided by the legacy Software Asset Mana
 |-----|-----------|
 |Name|The name of the license type.|
 |Query table|The table that is being used for data. Possible values are Software install and Software usage.|
-|Count by|The calculation type by which the [license calculation type](r_LicenseCalculationTypes.md) counts software licenses.|
+|Count by|The calculation type by which the [license calculation type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/r_LicenseCalculationTypes.md) counts software licenses.|
 
-**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](../concept/c_UseLicenseCalculations.md)
+**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UseLicenseCalculations.md)
 

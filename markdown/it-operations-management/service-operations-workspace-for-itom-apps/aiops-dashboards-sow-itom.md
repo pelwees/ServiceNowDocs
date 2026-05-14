@@ -26,13 +26,13 @@ Key benefits of using the AIOps dashboards:
 
 ## Access the AIOps Operational dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Operational dashboard**.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Operational dashboard**.
 
 ## AIOps Dashboard home page
 
-![AIOps Dashboard home page](../image/dashboard-home-page.png)
+![AIOps Dashboard home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/dashboard-home-page.png)
 
 To view AIOps Operational dashboards, such as AIOps Value Realization, select the AIOps Operational list and then select the dashboard name.
 
-![AIOps dashboard list](../image/aiops-dashboard-list.png "AIOps dashboard list")
+![AIOps dashboard list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/aiops-dashboard-list.png "AIOps dashboard list")
 

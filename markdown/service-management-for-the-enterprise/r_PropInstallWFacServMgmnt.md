@@ -164,5 +164,5 @@ Sets the maximum number of agents processed by auto-dispatch at a time. The syst
 -   Location: **Facilities** &gt; **Administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installed with Facilities Service Management](r_InstallWFacServMgmnt.md)
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 

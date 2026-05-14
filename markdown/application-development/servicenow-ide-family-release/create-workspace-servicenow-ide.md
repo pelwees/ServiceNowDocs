@@ -37,7 +37,7 @@ In a workspace in the ServiceNow IDE, you can add any applications that you're w
 
     The workspace becomes the active workspace.
 
-    ![A workspace on the homepage.](../image/servicenow-ide-empty-workspace.png)
+    ![A workspace on the homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-empty-workspace.png)
 
 5.  Add existing applications to the workspace.
 
@@ -50,7 +50,7 @@ In a workspace in the ServiceNow IDE, you can add any applications that you're w
 
 ## What to do next
 
-Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](../concept/creating-applications-servicenow-ide.md).
+Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/creating-applications-servicenow-ide.md).
 
 To switch the active workspace, you can browse and select other workspaces from the ServiceNow IDE home page or from the command palette with the `Workspaces: Browse Workspaces` command.
 

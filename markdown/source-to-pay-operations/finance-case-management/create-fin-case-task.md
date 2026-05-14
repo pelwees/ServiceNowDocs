@@ -33,14 +33,14 @@ Role required: sn\_fin\_ops.specialist, sn-fin-ops.admin
     -   **All work** &gt; **Cases**
 4.  From the Number column, select a link to open the finance inquiry case.
 
-5.  Select the **Tasks** tab, and then select **New**.![Create a finance task from a finance case](../image/fin-task-from-fin-case.png)
+5.  Select the **Tasks** tab, and then select **New**.![Create a finance task from a finance case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-task-from-fin-case.png)
 
 6.  On the Create New Finance Task form, fill in the fields.
 
-    For more information on the form fields and descriptions, see [Create a finance task form](../reference/create-fin-task-form.md).
+    For more information on the form fields and descriptions, see [Create a finance task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../reference/create-fin-task-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

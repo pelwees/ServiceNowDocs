@@ -31,7 +31,7 @@ Apart from the matter owner, a collaborator or a task fulfiller can also add an 
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -113,12 +113,12 @@ The state of the legal matter updates to Work in Progress.
 
 ## What to do next
 
-[Attach files to a legal matter artifact](add-files-to-artifact.md).
+[Attach files to a legal matter artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-files-to-artifact.md).
 
--   **[Attach files to a legal matter artifact](add-files-to-artifact.md)**  
+-   **[Attach files to a legal matter artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-files-to-artifact.md)**  
 Upload supporting documentation, such as documents, email copies, images, or any other files into the artifact while you are working on a legal matter or matter task. You can also use these artifacts as a reference material to solve similar requests in future.
--   **[Document access in a legal matter](../concept/document-access-legal-matter.md)**  
+-   **[Document access in a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../concept/document-access-legal-matter.md)**  
 Documents attached to legal matters are uploaded to the configured external storage system when the external storage option is enabled on an intake form with All or matter type selected. The access permission of these documents to various personas is controlled in real time, via a scheduled job, or on-demand.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

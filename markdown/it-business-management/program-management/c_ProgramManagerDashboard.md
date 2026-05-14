@@ -15,17 +15,17 @@ breadcrumb: [Program Management, Project Portfolio Management, Strategic Portfol
 
 The PMO dashboard provides a central location to a program manager to generate different graphical reports.
 
-From Madrid release onward, the program manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your programs. For more information, see [PMO Dashboard](../../../use/dashboards/application-content-packs/pmo-dashboard.md).
+From Madrid release onward, the program manager dashboard has been deprecated and replaced with the PMO dashboard. Use the PMO dashboard to gain insights about your programs. For more information, see [PMO Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../../../use/dashboards/application-content-packs/pmo-dashboard.md).
 
--   **[Access the Program Dashboard](../task/t_AccessTheProgramManagerDashboard.md)**  
+-   **[Access the Program Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../task/t_AccessTheProgramManagerDashboard.md)**  
 View different graphical reports for your programs on the PMO Dashboard.
 
-**Parent Topic:**[Program Management](c_ProgramManagement.md)
+**Parent Topic:**[Program Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagement.md)
 
 **Related topics**  
 
 
-[Create a program to manage projects and demands](../task/t_CreateAProgram.md)
+[Create a program to manage projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../task/t_CreateAProgram.md)
 
-[Program workbench](c_ProgramWorkbench.md)
+[Program workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramWorkbench.md)
 

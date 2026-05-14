@@ -29,13 +29,13 @@ Role required: ais\_admin or admin
 
 1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Status**.
 
-    ![AI Search Status module under AI Search application.](../image/nav-ai-search-status-lens.png)
+    ![AI Search Status module under AI Search application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/nav-ai-search-status-lens.png)
 
 2.  If AI search is not enabled, select **Request AI Search**.
 
     After AI Search is activated in your instance, you will see the following success message.
 
-    ![AI search activation confirmation.](../image/ai-search-ready.png)
+    ![AI search activation confirmation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/ai-search-ready.png)
 
 
 ## Enable the default Now Assist assistant for ServiceNow AI Lens
@@ -44,7 +44,7 @@ Enable the default Now Assist in Virtual Agent assistant so that you can use Ser
 
 ### Before you begin
 
-If you have another assistant configured for your specific use case or industry, you can skip this procedure and follow [Enable other assistants in ServiceNow AI Lens topic](enabling-lens-for-virtual-agent.md#).
+If you have another assistant configured for your specific use case or industry, you can skip this procedure and follow [Enable other assistants in ServiceNow AI Lens topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/enabling-lens-for-virtual-agent.md#).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -52,17 +52,17 @@ Role required: virtual\_agent\_admin or admin
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
-    ![Assistants module under Conversational Interfaces application.](../image/nav-assistants-lens.png)
+    ![Assistants module under Conversational Interfaces application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/nav-assistants-lens.png)
 
 2.  Select the **Now Assist in Virtual Agent \(default\)** assistant.
 
-    ![Now Assist in Virtual Agent assistant is enabled.](../image/now-assist-va-topic-lens.png)
+    ![Now Assist in Virtual Agent assistant is enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/now-assist-va-topic-lens.png)
 
 3.  On the Overview tab, select **Save and continue**.
 
 4.  On the Now Assist Skills tab, ensure that **Now Assist Topics** is selected.
 
-    ![Selected Now Assist Topics from the Now Assist Skills tab.](../image/now-assist-topics-lens.png)
+    ![Selected Now Assist Topics from the Now Assist Skills tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/now-assist-topics-lens.png)
 
 5.  Select **Save and continue**.
 
@@ -72,11 +72,11 @@ Role required: virtual\_agent\_admin or admin
 
     2.  Select the portal for which you want to enable the Now Assist assistant from the **Add portal** drop-down.
 
-        ![Configuring display experience for a portal.](../image/display-exp-portal-lens.png)
+        ![Configuring display experience for a portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/display-exp-portal-lens.png)
 
     3.  On the Add chat experience dialog box, select **Enhanced chat** option.
 
-        ![Selecting Enhanced chat option while configuring display experience for a portal.](../image/display-exp-portal-enhanced-chat-lens.png)
+        ![Selecting Enhanced chat option while configuring display experience for a portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/display-exp-portal-enhanced-chat-lens.png)
 
     4.  Select **Add**.
 
@@ -86,11 +86,11 @@ Role required: virtual\_agent\_admin or admin
 
     2.  Under the Chat launcher functions section, select Agent Chat from the **Add function** drop-down.
 
-        ![Configuring display experience for a mobile device by adding function.](../image/display-exp-mobile-lens.png)
+        ![Configuring display experience for a mobile device by adding function.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/display-exp-mobile-lens.png)
 
     3.  On the Add chat experience dialog box, select **Enhanced chat** option.
 
-        ![Selecting Enhanced chat option while configuring display experience for a mobile device.](../image/display-exp-mobile-enhanced-chat-lens.png)
+        ![Selecting Enhanced chat option while configuring display experience for a mobile device.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/display-exp-mobile-enhanced-chat-lens.png)
 
     4.  Select **Add**.
 
@@ -119,15 +119,15 @@ Role required: virtual\_agent\_admin or admin
 
     Virtual Agent Designer opens in a new tab.
 
-    ![Designer module for Virtual Agent under Conversational Interfaces.](../image/nav-va-designer.png)
+    ![Designer module for Virtual Agent under Conversational Interfaces.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/nav-va-designer.png)
 
 2.  In the Topic tab, select **ServiceNow Lens** topic.
 
-    ![ServiceNow AI Lens topic in Virtual Agent Designer.](../image/va-designer-lens-topic.png)
+    ![ServiceNow AI Lens topic in Virtual Agent Designer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/va-designer-lens-topic.png)
 
 3.  In the Select LLM assistants section, select your assistant.
 
-    ![Selecting other assistant in ServiceNow AI Lens topic for Virtual Agent.](../image/enable-other-assistant.png)
+    ![Selecting other assistant in ServiceNow AI Lens topic for Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/enable-other-assistant.png)
 
 4.  Publish the **ServiceNow Lens** topic.
 
@@ -148,22 +148,22 @@ Do this procedure when you do not see the Now Assist ![](../../../common/image/i
 
 1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
-    ![Mobile App Builder designer app.](../image/nav-mobile-app-builder-lens.png)
+    ![Mobile App Builder designer app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/nav-mobile-app-builder-lens.png)
 
     The Mobile App Builder opens in a new tab.
 
 2.  From the search option, search and select **Now Mobile**.
 
-    ![Selecting the Now Mobile app in Mobile App Builder.](../image/now-mobile-lens.png)
+    ![Selecting the Now Mobile app in Mobile App Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/now-mobile-lens.png)
 
 3.  From the list of screens, select **Homepage**.
 
-    ![Selecting the Homepage screen for the Now Mobile app in Mobile App Builder.](../image/now-mobile-homepage-lens.png)
+    ![Selecting the Homepage screen for the Now Mobile app in Mobile App Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/now-mobile-homepage-lens.png)
 
 4.  From the Now Platform configuration list, select the **Chat** function.
 
 5.  Enable the **Chat with Virtual Agent** setting.
 
-    ![Activating Chat with Virtual Agent setting for Homepage of Now Mobile in Mobile App Builder.](../image/mobile-agent-chat-active-lens.png)
+    ![Activating Chat with Virtual Agent setting for Homepage of Now Mobile in Mobile App Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/mobile-agent-chat-active-lens.png)
 
 

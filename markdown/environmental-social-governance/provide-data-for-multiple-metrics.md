@@ -25,9 +25,9 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
 1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace**.
 
-2.  Select the Metric data table icon \(![Metric tasks icon.](../images/metric-tasks.png)\).
+2.  Select the Metric data table icon \(![Metric tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/metric-tasks.png)\).
 
-3.  Select the filter icon ![filter icon.](../../../reuse/icons/product-icons/filter-outline-24.svg) and set the Entity, Metric group, Metric subgroup, Task type, Start date, End date, and Approval level filters to show the tasks for which you want to provide data.
+3.  Select the filter icon ![filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../../reuse/icons/product-icons/filter-outline-24.svg) and set the Entity, Metric group, Metric subgroup, Task type, Start date, End date, and Approval level filters to show the tasks for which you want to provide data.
 
     Only those Groups which have open metric data tasks appear in the filter.
 
@@ -39,7 +39,7 @@ As a data owner, you have to provide data or responses for multiple metric data 
 
     Perform this step for each cell for which you want to provide data. You can scroll the cells to provide responses for all the tasks.
 
-    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [Create a manual metric definition](../../metrics/task/create-manual-metric-definition.md) and [Manual metric definition fields](../../metrics/reuse/manual-md-reuse.md).
+    **Note:** You have the option to select a choice or enter HTML depending on how the related metric definition has been set up. These formats are available when the manual metric definition **Category** field is set to **Qualitative**. For more information, see [Create a manual metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../metrics/task/create-manual-metric-definition.md) and [Manual metric definition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../metrics/reuse/manual-md-reuse.md).
 
 7.  Select the tasks for which you want to submit the responses.
 
@@ -117,5 +117,5 @@ Press the Tab key to get the focus on to the select all check box. Press the Ent
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using GRC: Metrics to provide data](../../metrics/concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../metrics/concept/using-grc-metrics.md)
 

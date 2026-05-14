@@ -29,7 +29,7 @@ You can combine Expressions with operators with each operator having a priority.
 6.  Relational
 7.  Logical
 
-The Expression component supports multiple functions. See [Supported functions for the Expression components](../reference/supported-expression-functions.md).
+The Expression component supports multiple functions. See [Supported functions for the Expression components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/supported-expression-functions.md).
 
 You can configure the properties for the Expression component.
 
@@ -46,11 +46,11 @@ You can configure the properties for the Expression component.
 
 2.  Drag the Expression component to the Design surface.
 
-3.  Double-click the light-yellow colored field and enter the expression.![Edit-Expression-field.](../image/expression-field-edit.png)
+3.  Double-click the light-yellow colored field and enter the expression.![Edit-Expression-field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/expression-field-edit.png)
 
     A Data In port is dynamically added for each operand. For example, if you enter the expression X+Y, then two Data In ports are added for "X" and "Y". The Data In ports accept values for the operands.
 
-4.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+4.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 5.  Connect the data and control ports of the Expression component to the corresponding ports of the other components as described in the following table.
 
@@ -64,9 +64,9 @@ You can configure the properties for the Expression component.
 
 ## Expression component performs a mathematical operation between two operands
 
-![Mathematical operation between two operands.](../image/Expression_False.PNG)
+![Mathematical operation between two operands.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/Expression_False.PNG)
 
 In the example, the Variable component passes the integer values for the two operands "i" and "j" set in the Expression component. The Expression component takes the values and finds whether the value of i&gt;=j. The result is passed to the Decision component. The Decision component passes the result to the Show component. In the example, since the value of "i" is lesser than "j", the Show component shows "False" in a message box.
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

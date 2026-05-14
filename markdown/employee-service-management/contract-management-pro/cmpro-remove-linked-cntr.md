@@ -42,7 +42,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Contract requests** &gt; **All**
 4.  Select a contract request.
 
@@ -63,7 +63,7 @@ Steps
 
 3.  Select **Remove linked contract**.
 
-    ![Unlink parent contracts in the Related contract requests tab.](../image/cmpro-remove-link-cmr.png "Remove linked contract")
+    ![Unlink parent contracts in the Related contract requests tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-remove-link-cmr.png "Remove linked contract")
 
 4.  In the confirmation message, select **Remove**.
 
@@ -74,5 +74,5 @@ Steps
     The parent contract request number is removed from the **Parent contract request** field. The activity stream displays the parent-child linking history.
 
 
-**Parent Topic:**[Linking parent-child contracts](../concept/cmpro-linking-parent-child.md)
+**Parent Topic:**[Linking parent-child contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-linking-parent-child.md)
 

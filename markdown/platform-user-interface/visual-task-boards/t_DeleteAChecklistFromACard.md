@@ -23,9 +23,9 @@ Role required: none
 
 1.  Open a task card that contains a checklist.
 
-2.  Click the checklist tab \(![Checklist tab](../image/IconChecklist.png)\).
+2.  Click the checklist tab \(![Checklist tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconChecklist.png)\).
 
-3.  Click the more icon \(![More icon](../image/IconMore.png)\).
+3.  Click the more icon \(![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconMore.png)\).
 
 4.  Select **Remove Checklist**.
 
@@ -34,5 +34,5 @@ Role required: none
 5.  Click **Delete**.
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardChecklists.md)
 

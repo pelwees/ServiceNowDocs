@@ -21,8 +21,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/../../grc-common/task/download-grc-first-time.md).
 
 
-**Parent Topic:**[360° Relationship Visualization](../concept/grc-360-deg-rel-vis.md)
+**Parent Topic:**[360° Relationship Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-360-degree-relationship-visualization/../concept/grc-360-deg-rel-vis.md)
 

@@ -15,5 +15,5 @@ breadcrumb: [Configuring Cloud Services Catalog Terraform Connector, Cloud Servi
 
 Domain separation is supported for Cloud Services Catalog Terraform Connector. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-Cloud Services Catalog Terraform Connector integrates with Cloud Provisioning and Governance and it complies with the Cloud Provisioning and Governance domain separation. For more information, see [Domain separation and Cloud Provisioning and Governance](domain-separation-cloud-management.md).
+Cloud Services Catalog Terraform Connector integrates with Cloud Provisioning and Governance and it complies with the Cloud Provisioning and Governance domain separation. For more information, see [Domain separation and Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/domain-separation-cloud-management.md).
 

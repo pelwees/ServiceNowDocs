@@ -15,7 +15,7 @@ Add a map marker icon and define the click behavior to differentiate between dat
 
 ## Before you begin
 
-Set up a [map data item](configure-map-data-items.md) before you accomplish this task.
+Set up a [map data item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md) before you accomplish this task.
 
 Role required: admin
 
@@ -101,14 +101,14 @@ Application
 Optional application scope for your map marker, if other than Global.
 
 </td></tr></tbody>
-</table>8.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+</table>8.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ## What to do next
 
 Set up map marker icons and map marker click actions to finish configuring map markers.
 
-**Parent Topic:**[Create an advanced Map Page](create-advanced-map-page.md)
+**Parent Topic:**[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
 ## Set up map marker icons
 
@@ -141,16 +141,16 @@ Role required: admin
 
 6.  Select your map page marker.
 
-7.  In the **Map Marker Icons** field, double-click the record and click the search icon \(![Search icon](../image/QueryIcon.png)\).
+7.  In the **Map Marker Icons** field, double-click the record and click the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/QueryIcon.png)\).
 
-8.  Select your map marker icon, then click the check mark icon \(![Check mark icon](../image/CheckMark.png)\).
+8.  Select your map marker icon, then click the check mark icon \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CheckMark.png)\).
 
-9.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+9.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ### What to do next
 
-Continue to the next task to [define map marker click actions](configure-map-markers.md#).
+Continue to the next task to [define map marker click actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md#).
 
 ## Define map marker click actions
 
@@ -186,16 +186,16 @@ Select a dialog box that displays form details, or script your own click actions
 
 6.  Select your Map Page marker.
 
-7.  In the **Map Marker Click Actions** field, double-click the record and click the search icon \(![Search icon](../image/QueryIcon.png)\).
+7.  In the **Map Marker Click Actions** field, double-click the record and click the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/QueryIcon.png)\).
 
-8.  Select your map marker click action, then click the check mark icon \(![Check mark icon](../image/CheckMark.png)\).
+8.  Select your map marker click action, then click the check mark icon \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CheckMark.png)\).
 
-9.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+9.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ### What to do next
 
-Continue to the next task to complete your [map marker setup](configure-map-markers.md#).
+Continue to the next task to complete your [map marker setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md#).
 
 ## Select map markers
 
@@ -211,11 +211,11 @@ Role required: admin
 
 2.  Select your Map Page.
 
-3.  In the **Map Page Markers** field, double-click the record and click the search icon \(![Search icon](../image/QueryIcon.png)\).
+3.  In the **Map Page Markers** field, double-click the record and click the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/QueryIcon.png)\).
 
-4.  Select your map marker, then click the check mark icon \(![Check mark icon](../image/CheckMark.png)\).
+4.  Select your map marker, then click the check mark icon \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CheckMark.png)\).
 
-5.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+5.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
 
 ### What to do next

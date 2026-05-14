@@ -23,5 +23,5 @@ Entity-based access configuration states represent the defined permissions and c
 |In progress|The configuration is being applied or validated. The process has started but isn’t complete.|
 |Completed|The configuration was applied and is active. All changes are finalized and in effect.|
 
-**Parent Topic:**[Entity Based Access reference](entity-based-access-reference.md)
+**Parent Topic:**[Entity Based Access reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access-reference.md)
 

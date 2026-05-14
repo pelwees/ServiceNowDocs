@@ -23,18 +23,18 @@ Role required: SharePoint administrator
 
 1.  Log in to Microsoft SharePoint admin center.
 
-2.  Navigate to **More features**![Microsoft Sharepoint admin center More Features item](../images/more-features.png).
+2.  Navigate to **More features**![Microsoft Sharepoint admin center More Features item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/more-features.png).
 
-3.  Select **Open** under **Apps**![Microsoft Sharepoint admin center Open Apps action](../images/open-apps.png).
+3.  Select **Open** under **Apps**![Microsoft Sharepoint admin center Open Apps action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/open-apps.png).
 
-4.  Select **Upload**![Microsoft Sharepoint admin center Upload package action](../images/upload-package.png).
+4.  Select **Upload**![Microsoft Sharepoint admin center Upload package action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/upload-package.png).
 
 5.  Select the Microsoft Viva solution package.
 
-6.  Select **Enable this app and add it to all sites**![Microsoft Sharepoint admin center Enable app on all sites action](../images/enable-all-sites.png).
+6.  Select **Enable this app and add it to all sites**![Microsoft Sharepoint admin center Enable app on all sites action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/enable-all-sites.png).
 
 7.  Select **Enable app**.
 
 
-**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](../concept/manage-viva.md)
+**Parent Topic:**[Managing Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/manage-viva.md)
 

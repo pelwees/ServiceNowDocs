@@ -36,7 +36,7 @@ Role required: Quality Issue Management Admin or product non-conformance submitt
 
 ## Result
 
-The [Create a CoPQ expense line](mco-copq-expense-line.md) and [Impacted asset action](mco-impacted-asset-action.md) forms are displayed.
+The [Create a CoPQ expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md) and [Impacted asset action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md) forms are displayed.
 
-**Parent Topic:**[Product Non-conformance without playbook](mco-related-lists-product-non-conformance.md)
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 

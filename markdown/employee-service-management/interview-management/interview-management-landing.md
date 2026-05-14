@@ -19,19 +19,19 @@ The Interview management application simplifies and optimizes the interview proc
 
 <table id="table_mlp_lsc_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Interview management](exploring-interview-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Interview management](exploring-interview-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Interview management application](configuring-interview-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Interview management application](configuring-interview-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Learn how to use Interview management](using-interview-mgmnt.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../../../reuse/icons/brand-icons/bus-1-1-meetings.svg)Learn how to use Interview management](using-interview-mgmnt.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Interview management](interview-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Interview management](interview-management-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

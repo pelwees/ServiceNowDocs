@@ -20,5 +20,5 @@ Should any approver reject the request, the status will immediately be set to "R
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../reference/r_Approvals.md)
 

@@ -25,13 +25,13 @@ Role required: sn\_fcms\_intg.admin, sn\_shop.procurement\_specialist, connectio
 
 2.  From the Workflow Studio home page, select **Flows**.
 
-3.  Select the More icon ![More icon](../../sourcing-procurement-operations/image/more_vertical_icon.png) corresponding to the flow, subflow, or application name, use the filter condition, and select **Apply**.
+3.  Select the More icon ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/more_vertical_icon.png) corresponding to the flow, subflow, or application name, use the filter condition, and select **Apply**.
 
 4.  Select the required flow from the list.
 
     For example, select the **Create or Update Sourcing Event in SAP Ariba** flow.
 
-    ![Overview of the Create or Update Sourcing Event in SAP Ariba flow](../../source-to-pay-operations/image/sap-ariba-trigger.png "Create or Update Sourcing Event in SAP Ariba")
+    ![Overview of the Create or Update Sourcing Event in SAP Ariba flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-ariba-trigger.png "Create or Update Sourcing Event in SAP Ariba")
 
 5.  In the Trigger field, specify the condition for the flow to run.
 
@@ -42,12 +42,12 @@ Role required: sn\_fcms\_intg.admin, sn\_shop.procurement\_specialist, connectio
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use flows in SAP Ariba](../concept/use-flows-sap-ariba.md)
+**Parent Topic:**[Use flows in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/use-flows-sap-ariba.md)
 
 **Related topics**  
 
 
-[Manually trigger flows or subflows in SAP Ariba \(Inbound\)](manually-trigger-subflows-sap-ariba.md)
+[Manually trigger flows or subflows in SAP Ariba \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-sap-ariba.md)
 
-[Copy a flow or subflow in SAP Ariba](copy-subflow-sap-ariba.md)
+[Copy a flow or subflow in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-subflow-sap-ariba.md)
 

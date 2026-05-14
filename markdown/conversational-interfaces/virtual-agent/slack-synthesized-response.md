@@ -25,15 +25,15 @@ The overall synthesized response helps users experience a conversational flow th
 
 When you start a conversation in Slack and ask a question, with Now Assist enabled on it, you receive a summary of the response with catalog items and topics followed by the citation links. For example, if you enter a command `laptop` in your conversations, you see the responses in a synthesized format.
 
-![Slack synthesized response in a Now Assist enabled conversation.](../images/na-slck-synthesized-rspns.png)
+![Slack synthesized response in a Now Assist enabled conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/na-slck-synthesized-rspns.png)
 
 When you select the **View other options** button they get the list of available Knowledge Base articles and catalogs, which you can select and go through the details.
 
 ## Streaming synthesized response
 
-Streaming synthesized responses in Slack conversations provides a faster interaction and more engaged user experience with real-time updates while the messages are processed. To learn more about response streaming, see [Chat streaming responses](streaming-responses-requestor.md) and [Manage an assistant chat experience](../../now-assist-in-va/task/manage-assistant-chat-experience.md).
+Streaming synthesized responses in Slack conversations provides a faster interaction and more engaged user experience with real-time updates while the messages are processed. To learn more about response streaming, see [Chat streaming responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/streaming-responses-requestor.md) and [Manage an assistant chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/task/manage-assistant-chat-experience.md).
 
-To enable response streaming in Slack conversations, see [Enable Now Assist in Virtual Agent for Slack](../task/enable-na-llm-slack.md). With response streaming enabled in Slack conversations, you can experience the following enhancements:
+To enable response streaming in Slack conversations, see [Enable Now Assist in Virtual Agent for Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/enable-na-llm-slack.md). With response streaming enabled in Slack conversations, you can experience the following enhancements:
 
 -   Reduced latency in conversations
 -   Increased engagement
@@ -64,5 +64,5 @@ Example of using the sn\_aia REST API endpoints to trigger agents through REST A
 }
 ```
 
-**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](na-va-llm-slack.md)
+**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-slack.md)
 

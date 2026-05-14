@@ -25,7 +25,7 @@ Role required: admin
 
 2.  On the skill expectations widget, select **Score analysis** of the employee you want to request feedback from.
 
-3.  On the skill score analysis fly out, click ![View menu icon](../../human-resources/image/viewmenu.png) on any skill pill and select **Request skill feedback**.
+3.  On the skill score analysis fly out, click ![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../human-resources/image/viewmenu.png) on any skill pill and select **Request skill feedback**.
 
 4.  On the **Request skill feedback** form, fill in the information.
 

@@ -160,7 +160,7 @@ When the system pushes an event to the staging table, the following steps take p
 **Related topics**  
 
 
-[Producing outbound API notifications using Hermes](hermes-stream-connect-kafka-workflow.md)
+[Producing outbound API notifications using Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/hermes-stream-connect-kafka-workflow.md)
 
-[Producing outbound trouble ticket notifications using the open message bus](trouble-ticket-workflow-using-pub-sub-model.md)
+[Producing outbound trouble ticket notifications using the open message bus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/trouble-ticket-workflow-using-pub-sub-model.md)
 

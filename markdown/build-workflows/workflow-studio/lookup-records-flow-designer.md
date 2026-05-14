@@ -83,7 +83,7 @@ Use these general guidelines when working with the Look Up Records action.
 
 -   **Process records with For Each flow logic**
 
-    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](../concept/flow-logic-for-each.md).
+    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-logic-for-each.md).
 
 -   **Set Max Results to improve performance**
 
@@ -96,13 +96,13 @@ Use these general guidelines when working with the Look Up Records action.
 
 ## Look up configuration items assigned to a change request user
 
-![Configuration of Look Up Records action](../images/example-look-up-records-action.png)
+![Configuration of Look Up Records action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-look-up-records-action.png)
 
 In this example, the flow starts when an emergency change request is opened in the Network category. The Look Up Records action uses the Configuration Item \[cmdb\_ci\] table as the Table input. The Conditions input looks for configuration items assigned to the requester of the change request. The Order by input uses the Name field to perform an ascending alphabetical type sort.
 
-![Execution details of Look Up Records action](../images/example-look-up-records-action-execution-details.png)
+![Execution details of Look Up Records action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-look-up-records-action-execution-details.png)
 
 In the execution details, the Count output shows three configuration items that are assigned to the requester of the change request. The Records output shows the configuration items by name in the execution details page, but the data pill contains a series of Sys ID values. The Table output is the Configuration Item \[cmdb\_ci\] table.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

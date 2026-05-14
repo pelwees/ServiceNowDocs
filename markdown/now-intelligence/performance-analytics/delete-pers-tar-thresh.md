@@ -29,7 +29,7 @@ If your roles allow you to create a global target or threshold, you can delete a
 
 2.  Select the tickboxes for the targets or thresholds that you want to delete.
 
-    If an owner is specified for a target or threshold, it is their personal target or threshold.![List of targets with two targets chosen.](../image/select-targets-delete.png)
+    If an owner is specified for a target or threshold, it is their personal target or threshold.![List of targets with two targets chosen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/select-targets-delete.png)
 
 3.  Expand the **Actions on selected rows...** list and select **Delete**.
 
@@ -38,5 +38,5 @@ If your roles allow you to create a global target or threshold, you can delete a
 4.  Read through the warning in the Confirmation dialog and if you're certain it is safe, select **Delete**.
 
 
-**Parent Topic:**[Performance Analytics targets and thresholds](../concept/pa-targets-thresholds.md)
+**Parent Topic:**[Performance Analytics targets and thresholds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/pa-targets-thresholds.md)
 

@@ -14,14 +14,14 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 Resources shared across all features and applications in the Platform Analytics experience
 
--   **[Data caching in Platform Analytics](data-caching-pa.md)**  
+-   **[Data caching in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-caching-pa.md)**  
 Data caching can help data visualizations load faster by reusing older responses when available. Users can always get the latest data by refreshing the dashboard manually.
--   **[Platform Analytics roles](../reference/platform-analytics-roles.md)**  
+-   **[Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/platform-analytics-roles.md)**  
 Platform Analytics has both unique roles and roles from other applications that apply to it.
--   **[Platform Analytics tables](../reference/platform-analytics-tables.md)**  
+-   **[Platform Analytics tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/platform-analytics-tables.md)**  
 The following tables relate to Platform Analytics data visualizations and dashboards and can be accessed through scripts.
--   **[Platform Analytics UI artifacts](../reference/platform-analytics-ui-artifacts.md)**  
+-   **[Platform Analytics UI artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/platform-analytics-ui-artifacts.md)**  
 Core UI and Next Experience UI artifacts are located under Platform Analytics Administration. Users with the admin role can navigate from these components to the associated tables.
 
-**Parent Topic:**[Platform Analytics experience](par-workspace.md)
+**Parent Topic:**[Platform Analytics experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md)
 

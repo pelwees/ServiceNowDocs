@@ -29,7 +29,7 @@ Role required: itil\_admin or admin
 
 3.  Open an incident record with **Resolved** state.
 
-    For more information on viewing and updating incident information and resolution, see [View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md).
+    For more information on viewing and updating incident information and resolution, see [View and update incident information on the Overview tab in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-update-inc-overview-tab.md).
 
 4.  Select **Close**.
 
@@ -38,24 +38,24 @@ Role required: itil\_admin or admin
 
 The incident record is closed and a success message is displayed. You cannot further edit the field values in the incident form.
 
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/incident-sow.md)
 
 **Related topics**  
 
 
-[Create an incident in Service Operations Workspace](create-incident-sow.md)
+[Create an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-incident-sow.md)
 
-[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
+[View and update incident information on the Overview tab in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/view-inc-record-info-contextual-sidepanel.md)
 
-[Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
+[Work on an incident list page in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-incident-list-page-sow.md)
 
-[Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
+[Work on an incident record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-incident-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/remedial-actions-playbook.md)
 
-[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
+[Reopen an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-im-reference.md)
 

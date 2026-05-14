@@ -31,7 +31,7 @@ As dispatcher or a Field Service Manager, you can listen to conference recording
 
 3.  Open the Conferences related list.
 
-4.  Click the personalize list icon \(![Personalize list icon](../image/IconPersonalizeList.png)\) in the upper left corner.
+4.  Click the personalize list icon \(![Personalize list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../image/IconPersonalizeList.png)\) in the upper left corner.
 
 5.  Use the dual listbox to move the following items from the **Available** column to the **Selected** column.
 
@@ -46,5 +46,5 @@ As dispatcher or a Field Service Manager, you can listen to conference recording
 6.  Click **OK**.
 
 
-**Parent Topic:**[Configure Field Service Management Virtual Conferencing Integration](configure-virtual-conference-fsm.md)
+**Parent Topic:**[Configure Field Service Management Virtual Conferencing Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/configure-virtual-conference-fsm.md)
 

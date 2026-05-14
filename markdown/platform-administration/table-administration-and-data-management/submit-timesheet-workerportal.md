@@ -21,7 +21,7 @@ Role required: timecard\_user
 
 ## About this task
 
-When you submit a time sheet, time cards are verified against the assigned [time sheet policy](../concept/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
+When you submit a time sheet, time cards are verified against the assigned [time sheet policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/time-sheet-policies.md). If there is no time sheet policy assigned, time cards are verified against the default time sheet policy. Business rules prevent you from submitting a time sheet in case any violation is found.
 
 ## Procedure
 
@@ -32,12 +32,12 @@ When you submit a time sheet, time cards are verified against the assigned [time
     The time sheet moves to the Submitted state.
 
 
-**Parent Topic:**[Time Sheet Portal](../concept/worker-portal.md)
+**Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/worker-portal.md)
 
 **Related topics**  
 
 
-[Create time cards and log time through Time Sheet Portal](create-timecards-through-worker-portal.md)
+[Create time cards and log time through Time Sheet Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-timecards-through-worker-portal.md)
 
-[Log time and submit time sheets of your resources](submit-time-sheet-other-users.md)
+[Log time and submit time sheets of your resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/submit-time-sheet-other-users.md)
 

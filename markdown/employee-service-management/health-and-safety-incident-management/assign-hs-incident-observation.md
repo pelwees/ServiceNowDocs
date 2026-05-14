@@ -23,7 +23,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\).
 
 3.  In the **Lists** tab, open the safety incident or observation list.
 
@@ -37,7 +37,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
     -   For the safety observations list, select **Details** tab.
 6.  In the **Assignment group** field, select the safety group.
 
-    For more information on safety groups, see [Health and Safety groups](configure-groups-health-and-safety.md).
+    For more information on safety groups, see [Health and Safety groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/configure-groups-health-and-safety.md).
 
 7.  In the **Assigned to** field, select your name.
 
@@ -54,5 +54,5 @@ The incident or observation is assigned to you or the selected agent.
 
 The assigned agent can start working on it to resolve it.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing-hs-incidents-obs.md)
 

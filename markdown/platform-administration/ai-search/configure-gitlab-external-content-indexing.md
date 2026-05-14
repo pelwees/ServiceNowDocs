@@ -57,11 +57,11 @@ Your ServiceNow AI Platform instance admin needs this personal access token to c
 
 2.  In the menu, select your avatar, then select **Edit profile**.
 
-    ![Edit profile link in user menu on GitLab.com.](../image/gitlab-edit-profile.png)
+    ![Edit profile link in user menu on GitLab.com.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/gitlab-edit-profile.png)
 
 3.  Select **Access tokens**, then select **Add new token**.
 
-    ![Access tokens page on GitLab.com showing Add new token button.](../image/gitlab-access-tokens-add-new-token.png)
+    ![Access tokens page on GitLab.com showing Add new token button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/gitlab-access-tokens-add-new-token.png)
 
 4.  Enter a name, optional description, and expiration date for your new personal access token.
 
@@ -71,11 +71,11 @@ Your ServiceNow AI Platform instance admin needs this personal access token to c
 
 6.  Select **Create token**.
 
-    ![Personal access tokens form on GitLab.com showing token name, description, expiration date, and scopes plus Create token button.](../image/gitlab-access-tokens-create-personal-access-token.png)
+    ![Personal access tokens form on GitLab.com showing token name, description, expiration date, and scopes plus Create token button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/gitlab-access-tokens-create-personal-access-token.png)
 
 7.  When prompted, select the copy icon ![](../image/gitlab-copy-personal-access-token-icon.png) to copy your new personal access token, then save it in a secure location.
 
-    ![Access tokens page on GitLab.com showing new personal access token.](../image/gitlab-access-tokens-copy-new-personal-access-token.png)
+    ![Access tokens page on GitLab.com showing new personal access token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/gitlab-access-tokens-copy-new-personal-access-token.png)
 
     **Important:** Your connector admin needs this personal access token to create a GitLab external content connector. You won't be able to access the token again after creating it.
 
@@ -85,11 +85,11 @@ Your ServiceNow AI Platform instance admin needs this personal access token to c
 Provide the following items to your connector admin:
 
 -   The URL for your GitLab instance. This is typically [https://gitlab.com/](https://gitlab.com/).
--   The personal access token for the group owner user that you copied in step [7](configure-gitlab-external-content-indexing.md#copy-personal-access-token).
+-   The personal access token for the group owner user that you copied in step [7](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-gitlab-external-content-indexing.md#copy-personal-access-token).
 
 Your connector admin needs these items to configure a GitLab external content connector to retrieve searchable content and security principals from your GitLab.com instance.
 
-For details on creating and configuring a GitLab external content connector, see [Create a GitLab external content connector](create-ext-cont-connector-gitlab.md).
+For details on creating and configuring a GitLab external content connector, see [Create a GitLab external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-gitlab.md).
 
-**Parent Topic:**[GitLab external content connector](../concept/gitlab-external-content-connector.md)
+**Parent Topic:**[GitLab external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/gitlab-external-content-connector.md)
 

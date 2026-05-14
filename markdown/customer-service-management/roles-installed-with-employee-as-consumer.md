@@ -23,7 +23,7 @@ Earlier, the Consumer \(sn\_customerservice.consumer\) role automatically includ
 
 The following diagram shows the existing roles and the new roles that enable the Employee as a Consumer functionality.
 
-![Existing and new roles that enable the Employee as a Consumer functionality. For a detailed explanation of these roles, refer to the Roles and description table.](../image/unified-consumer.png "Existing and new roles")
+![Existing and new roles that enable the Employee as a Consumer functionality. For a detailed explanation of these roles, refer to the Roles and description table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/unified-consumer.png "Existing and new roles")
 
 **Note:**
 
@@ -59,9 +59,9 @@ Supports consumers and runs parallel to the Consumer \(sn\_customerservice.consu
 </table>**Related topics**  
 
 
-[Configuring a user as a Unified Consumer](../concept/configuring-employee-as-a-consumer.md)
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configuring-employee-as-a-consumer.md)
 
-[Supported and unsupported roles and features](features-supp-and-unsupp-by-unified-consumer.md)
+[Supported and unsupported roles and features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/features-supp-and-unsupp-by-unified-consumer.md)
 
-[Setting up a user as a Unified Consumer](../concept/setting-up-a-user.md)
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/setting-up-a-user.md)
 

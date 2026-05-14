@@ -27,13 +27,13 @@ You can use the COVID-19 Global Health Data Set application to see the Field Ser
 
 Navigate to **Field Service** &gt; **Safety Dashboard**.
 
-![Field Service Safety Map that displays COVID-19 alert locations by date range. A dashboard with task compliance by agents and the number of non-compliant agents, and working agents is displayed.](../../../use/dashboards/image/safety_dashboard.png "Field Service Safety Dashboard with COVID-19 data")
+![Field Service Safety Map that displays COVID-19 alert locations by date range. A dashboard with task compliance by agents and the number of non-compliant agents, and working agents is displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/image/safety_dashboard.png "Field Service Safety Dashboard with COVID-19 data")
 
 Locations with alerts are listed on the FSM Covid19 map. Use the map controls as follows:
 
--   To zoom in to a location and its alerts, click the location icon \(![COVID-19 alert location marker.](../image/marker-wot-unassigned-multiple-clear.svg) \).
+-   To zoom in to a location and its alerts, click the location icon \(![COVID-19 alert location marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/marker-wot-unassigned-multiple-clear.svg) \).
 -   To select a time period to review, use the Task Date Range at the top left.
--   To filter the information displayed on the map, click the layers icon \(![Layers icon to select filters.](../../../use/dashboards/image/layers-map.png)\) on the top right and select your filters.
+-   To filter the information displayed on the map, click the layers icon \(![Layers icon to select filters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../use/dashboards/image/layers-map.png)\) on the top right and select your filters.
 
 Each icon displays the information in the following table.
 
@@ -83,5 +83,5 @@ Managers can view the task compliance result of their agents based on the date, 
 |My Working Agents|The number of agents working on at least one task and reporting to the logged-in field service manager. Click the metrics to view the list of their compliant and non-compliant tasks.|
 |Task Compliance by my Agents|The breakdown of compliant and non-compliant tasks by each agent within the selected date range. Click a section to view the list of tasks.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 

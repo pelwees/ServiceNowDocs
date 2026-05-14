@@ -17,5 +17,5 @@ If you cannot access your PDI or get the **Your instance is currently offline** 
 
 If your PDI is not available after five minutes, sign in to the Developer Site, select the arrow next to your avatar, and check the **My Instance** page to see if your PDI is still undergoing maintenance.
 
-**Parent Topic:**[Personal developer instance guide](personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/personal_developer_instance_guide.md)
 

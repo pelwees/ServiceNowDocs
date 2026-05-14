@@ -19,7 +19,7 @@ Role required: sn\_customerservice\_manager
 
 ## About this task
 
-Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [Install base characteristics](../concept/attributes-and-configuration-of-install-base-management.md).
+Each product has its own set of attributes, some of which are configurable by the user and some that are non-configurable. Configurable characteristics are a set of characteristics related to an install base item that the user can choose or customize at the time of purchase. These characteristics differ from user to user and product to product. However, non-configurable characteristics are a set of fixed characteristics that are related to an install base item and can't be chosen or customized by the user at the time of purchase. To know more about characteristics, see [Install base characteristics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/attributes-and-configuration-of-install-base-management.md).
 
 ## Procedure
 
@@ -37,11 +37,11 @@ Each product has its own set of attributes, some of which are configurable by th
 
 
 
-    ![Value field that is based on the selected characteristic string.](../image/characteristic-value.png)
+    ![Value field that is based on the selected characteristic string.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/characteristic-value.png)
 
     If the characteristic field has an option, then the **Characteristic option** field appears as shown in the following example.
 
-    ![Characteristic option field that is based on the selected characteristic option.](../image/characteristic-option.png "Install base item characteristics record with the Characteristic Options field")
+    ![Characteristic option field that is based on the selected characteristic option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/characteristic-option.png "Install base item characteristics record with the Characteristic Options field")
 
 6.  Select **Submit**.
 

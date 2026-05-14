@@ -17,7 +17,7 @@ The Appointment Open API is a telecommunication API that allows you to interact 
 
 The Appointment Open API is a ServiceNow® implementation of the Open API TMForum TMF646 Appointment REST API specification and is conformance certified by TM Forum. This implementation is based on [TMF646 Appointment API REST Specification R16.0.1](https://www.tmforum.org/resources/specification/tmf646-appointment-api-rest-specification-r16-0-1/).
 
-![TMF conformance logo](../image/tmf-conformance.png)
+![TMF conformance logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../image/tmf-conformance.png)
 
 This API requires the following plugins available on the ServiceNow Store.
 
@@ -30,7 +30,7 @@ Before using this API, Appointment Booking Configuration and Service Configurati
 
 This API is provided within the `sn_tmf_api` namespace. The calling user must have the sn\_tmf\_api.appointment\_integrator role.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## Appointment Open - GET /api/sn\_tmf\_api/appointment/searchTimeSlot
 
@@ -113,7 +113,7 @@ Format: YYYY-MM-DD 00:00:00. For example, `2025-01-31 09:00:00`.
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -125,7 +125,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -624,7 +624,7 @@ Format: YYYY-MM-DD 00:00:00. For example, 2025-01-31 09:35:43.
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -636,7 +636,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

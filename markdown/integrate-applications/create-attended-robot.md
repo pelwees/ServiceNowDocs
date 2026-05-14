@@ -15,7 +15,7 @@ Create an attended robot in RPA Hub to run the attended bot process.
 
 ## Before you begin
 
-Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](display-activity-stream-sys-property-rpahub.md).
+Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/display-activity-stream-sys-property-rpahub.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager, or sn\_rpa\_fdn.rpa\_admin
 
@@ -47,7 +47,7 @@ Action
 
 </td><td>
 
-1.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+1.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 2.  On the **Lists** tab, under **Administration**, select **Robots**.
 3.  Select **New**.
 
@@ -58,7 +58,7 @@ Action
 
 </td><td>
 
-1.  Select the plus icon \(![Plus icon.](../image/icon-plus.png)\).
+1.  Select the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/icon-plus.png)\).
 2.  Select **New Robot**.
 
 
@@ -125,16 +125,16 @@ Brief description of the robot.
 
 ## What to do next
 
-Install Attended Robot. For more information, see [Install Attended Robot](../../rda-runtime/task/install-rda-runtime.md).
+Install Attended Robot. For more information, see [Install Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/task/install-rda-runtime.md).
 
-Set up the Attended Robot application. For more information, see [Set up Attended Robot](../../rda-runtime/task/set-up-rda-runtime.md).
+Set up the Attended Robot application. For more information, see [Set up Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/task/set-up-rda-runtime.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md).
 
 **Related topics**  
 
 
-[Retire a robot in RPA Hub](retire-robot.md)
+[Retire a robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/retire-robot.md)
 
 [View Audit History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 

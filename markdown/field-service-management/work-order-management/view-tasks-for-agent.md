@@ -25,14 +25,14 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap the assignment group or territory that the Field Service agent you want to manage is part of.
 
-3.  Tap the clipboard icon ![clipboard](../image/manager-clipboard.png) next to the agent whose assigned tasks you want to see.
+3.  Tap the clipboard icon ![clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/manager-clipboard.png) next to the agent whose assigned tasks you want to see.
 
 4.  Choose from the following.
 
     |Selection|Action|
     |---------|------|
     |**Tap the work order task**|To open the work order task details.|
-    |**Tap the location icon \(![task location](../image/task-location.png)\) next to a task**|To see where the task is located on the map.|
-    |**Tap the map icon \(![map location](../image/map-location.png)\)**|To see all tasks locations on the map.|
+    |**Tap the location icon \(![task location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/task-location.png)\) next to a task**|To see where the task is located on the map.|
+    |**Tap the map icon \(![map location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/map-location.png)\)**|To see all tasks locations on the map.|
 
 

@@ -36,18 +36,18 @@ Administrators and catalog administrators can design a home page in any of the f
 
 **Note:** End users can access the catalog through the customizable user home page, or with content management pages that use content blocks for categories.
 
--   **[Configure search and navigation](c_ConfigSrchNavUseProps.md)**  
+-   **[Configure search and navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ConfigSrchNavUseProps.md)**  
 You can use service catalog properties to configure search and navigation within the service catalog homepage.
--   **[Configure preview](../task/t_ConfigureMoreInformationDisplays.md#)**  
+-   **[Configure preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_ConfigureMoreInformationDisplays.md#)**  
 Configure the number of items that have the **Preview** section expanded to display item details. You can also change the default number \(5\) of items and categories that display, and hide the **Exists in categories** information.
--   **[Create a renderer](../task/t_CreatingOrModifyingRenderers.md#)**  
+-   **[Create a renderer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CreatingOrModifyingRenderers.md#)**  
 Create or modify renderers using UI macros to provide the rendering instructions. Renderers define a specific look and feel for a catalog or category.
--   **[Customize a catalog homepage](../task/t_CustomizingTheHomepageForACatalog.md#)**  
+-   **[Customize a catalog homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CustomizingTheHomepageForACatalog.md#)**  
 Customize a catalog homepage to provide end users with access to catalogs from one homepage.
--   **[Customize the multi-catalog homepage](../task/t_CustomizeTheMultiCatalogHomepage.md)**  
+-   **[Customize the multi-catalog homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CustomizeTheMultiCatalogHomepage.md)**  
 Customize the multi-catalog homepage to provide end users with access to multiple catalogs from one homepage.
--   **[Show item details in sections or pop-ups](../task/t_ShowItemDetlsCollapsSect.md)**  
+-   **[Show item details in sections or pop-ups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_ShowItemDetlsCollapsSect.md)**  
 By default, a service catalog category displays the first two items with the preview section expanded to show item details. You can change the number of items that are previewed, or change the preview to appear in a pop-up window.
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogCustomization.md)
 

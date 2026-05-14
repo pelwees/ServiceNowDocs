@@ -25,8 +25,8 @@ Set up an outbound integration between the ServiceNow instance and the Google AP
 
 To establish an outbound integration, you must complete these steps.
 
--   [Set up an OAuth 2.0 client ID](setup-gmail.md#)
--   [Configure a connection for the Gmail spoke](setup-gmail.md#)
+-   [Set up an OAuth 2.0 client ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gmail.md#)
+-   [Configure a connection for the Gmail spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gmail.md#)
 
 ## Set up an OAuth 2.0 client ID
 
@@ -84,11 +84,11 @@ The connection and credentials contain the details such as the client ID, client
 
 5.  Select **View Details**.
 
-    ![View Details button on Gmail spoke connection alias.](../image/gmail-spk-conn-alias.png)
+    ![View Details button on Gmail spoke connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmail-spk-conn-alias.png)
 
 6.  Select **Configure**.
 
-    ![Configure button on Gmail spoke connection alias.](../image/gmail-spk-alias-config-button.png)
+    ![Configure button on Gmail spoke connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmail-spk-alias-config-button.png)
 
 7.  Fill the form with the details given in the table.
 
@@ -151,7 +151,7 @@ OAuth Redirect URL
 The OAuth redirect URL. It must be in the format: `https://<instance-name>.service-now.com/oauth_redirect.do`.
 
 </td></tr></tbody>
-</table>    ![Gmail connection form.](../image/gmail-spk-conn-form.png)
+</table>    ![Gmail connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmail-spk-conn-form.png)
 
 8.  Select **Configure and Get OAuth Token**.
 

@@ -21,25 +21,25 @@ Role required: sn\_si.analyst
 
 The flow process activities include:
 
--   [Execution Tracking - Begin \(CIs\) Flow Action](../reference/execution-tracking-begins-cis-activity.md)
--   [Get IP from CI](../reference/get-ip-from-ci-activity.md)
--   [Collect Carbon Black configurations](../reference/collect-cb-config-activity.md)
--   [Capability Execution Tracking- Failure Flow Action](../../security-operations-common/concept/capability-execution-tracking-failure.md)
--   [Get Sensor ID](../reference/get-sensor-id-activity.md)
--   [Set Network Isolation Enabled activity](../reference/set-network-isolation-enabled-activity.md)
--   [Update Sensor](../reference/update-sensor-activity.md) - returns Isolate Host result.
--   [Capability Execution Tracking - Complete Flow Action](../../security-operations-common/concept/capability-execution-tracking-complete.md)
+-   [Execution Tracking - Begin \(CIs\) Flow Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/execution-tracking-begins-cis-activity.md)
+-   [Get IP from CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-ip-from-ci-activity.md)
+-   [Collect Carbon Black configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/collect-cb-config-activity.md)
+-   [Capability Execution Tracking- Failure Flow Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/capability-execution-tracking-failure.md)
+-   [Get Sensor ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-sensor-id-activity.md)
+-   [Set Network Isolation Enabled activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/set-network-isolation-enabled-activity.md)
+-   [Update Sensor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/update-sensor-activity.md) - returns Isolate Host result.
+-   [Capability Execution Tracking - Complete Flow Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/capability-execution-tracking-complete.md)
 
-![Flow designer for Security Operations Carbon Black Integration - Isolate Host](../image/carbon-black-integration-isolate-host-flow-v1.png)![Flow designer for Security Operations Carbon Black Integration - Isolate Host](../image/carbon-black-integration-isolate-host-flow-v1-2.png)
+![Flow designer for Security Operations Carbon Black Integration - Isolate Host](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/carbon-black-integration-isolate-host-flow-v1.png)![Flow designer for Security Operations Carbon Black Integration - Isolate Host](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/carbon-black-integration-isolate-host-flow-v1-2.png)
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
--   **[Get Sensor ID Flow Action](../reference/get-sensor-id-activity.md)**  
+-   **[Get Sensor ID Flow Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/get-sensor-id-activity.md)**  
 The Get Sensor ID flow action gathers sensor identifiers to use in the flow.
--   **[Set Network Isolation Enabled activity](../reference/set-network-isolation-enabled-activity.md)**  
+-   **[Set Network Isolation Enabled activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/set-network-isolation-enabled-activity.md)**  
 The Set Network Isolation Enabled workflow activity enables network isolation.
--   **[Update Sensor activity](../reference/update-sensor-activity.md)**  
+-   **[Update Sensor activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/update-sensor-activity.md)**  
 The Update Sensor workflow activity updates the sensor to isolate hosts or endpoints.
 
-**Parent Topic:**[Security Operations Integration- Isolate Host capability](../../security-operations-common/concept/isolate-host-capability.md)
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/isolate-host-capability.md)
 

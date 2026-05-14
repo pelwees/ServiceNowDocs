@@ -37,11 +37,11 @@ Ensure that same languages are selected in your ServiceNow instance and Box acco
 
 -   In your ServiceNow instance, select the required language by navigating to **User Profile** &gt; **Preferences** &gt; **Display**.
 
-    ![Set language in ServiceNow instance.](../image/servicenow-language.png)
+    ![Set language in ServiceNow instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/servicenow-language.png)
 
 -   In your Box account, select the required language by navigating to **Account Settings** &gt; **Account** &gt; **General Options**.
 
-    ![Set language in Box account.](../image/box-language.png)
+    ![Set language in Box account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/box-language.png)
 
 
 ## Spoke flows
@@ -606,7 +606,7 @@ Updates a webhook.
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -713,7 +713,7 @@ ServiceNow supports specific events on Box that create triggers. You must first 
 |Folder Moved|Flow is triggered when a folder is moved.|
 |Folder Renamed|Flow is triggered when a folder is renamed.|
 
-For information about setting up the triggers for the Box spoke, see [Set up triggers for the Box spoke](../task/box-spk-triggers-setup.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](../../integrationhub/concept/conditional-and-event-driven-inbound-integration.md).
+For information about setting up the triggers for the Box spoke, see [Set up triggers for the Box spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/box-spk-triggers-setup.md#). For more information about inbound integration, see [Conditional and event-driven inbound integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/conditional-and-event-driven-inbound-integration.md).
 
 ## Spoke user roles
 
@@ -737,7 +737,7 @@ Webhooks require separate setup and can be used independently without using the 
 
 ## Box account requirements
 
-The Box spoke requires creating a custom app on your Box account to generate OAuth 2.0 tokens. See [Create an OAuth application](../task/setup-box-spoke.md#).
+The Box spoke requires creating a custom app on your Box account to generate OAuth 2.0 tokens. See [Create an OAuth application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-box-spoke.md#).
 
 ## Connection and credential alias requirements
 
@@ -784,5 +784,5 @@ Connection to the Box upload service.
 -   Connection URL: https://upload.box.com
 
 </td></tr></tbody>
-</table>To use the spoke connection aliases, create an associated Connection record and an associated Credential record for each alias. For information about setting up the spoke, see [Set up the Box spoke](../task/setup-box-spoke.md#).
+</table>To use the spoke connection aliases, create an associated Connection record and an associated Credential record for each alias. For information about setting up the spoke, see [Set up the Box spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-box-spoke.md#).
 

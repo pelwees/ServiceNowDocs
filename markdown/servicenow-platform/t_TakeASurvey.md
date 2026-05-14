@@ -31,7 +31,7 @@ Each assessment or survey appears as a clickable card in the queue, which can be
 
 2.  Click the survey card to open the questionnaire.
 
-    If there is more than one survey category, click the collapse icon \(![Collapse icon](../../assessments/images/CollapseIcon.png)\) or expand icon \(![Expand icon](../../assessments/images/ExpandIcon.png)\) to hide or show the questions in the category.
+    If there is more than one survey category, click the collapse icon \(![Collapse icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/images/CollapseIcon.png)\) or expand icon \(![Expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/images/ExpandIcon.png)\) to hide or show the questions in the category.
 
 3.  Answer each question to the best of your ability.
 
@@ -57,5 +57,5 @@ Click **Submit**. You can't return to the questionnaire after submitting. **Note
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Survey questionnaires](../concept/c_SurveyQuestionnairesForUsers.md)
+**Parent Topic:**[Survey questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionnairesForUsers.md)
 

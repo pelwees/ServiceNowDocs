@@ -26,5 +26,5 @@ An overview of the application states the way the recruiters see it.
 |Rejected|The application is rejected.|
 |Withdrawn|The applicant has withdrawn the application.|
 
-**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/recruitment-workspace-reference.md)
 

@@ -19,7 +19,7 @@ The Application Risk and Compliance Overview dashboard provides the current view
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-![Application Risk and Compliance Overview dashboard in the Next Experience UI Framework.](../image/app-risk-compl-overvvw-pa-db-pc.png "Application Risk and Compliance Overview dashboard in the Next Experience UI Framework")
+![Application Risk and Compliance Overview dashboard in the Next Experience UI Framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/app-risk-compl-overvvw-pa-db-pc.png "Application Risk and Compliance Overview dashboard in the Next Experience UI Framework")
 
 ## Required ServiceNow AI Platform roles
 
@@ -139,5 +139,5 @@ Filters used to filter data on the reports available from the Audit Overview tab
 -   Criticality
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](grc-policy-compliance-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 

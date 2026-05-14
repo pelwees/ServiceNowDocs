@@ -24,5 +24,5 @@ This happens if you perform any of the following actions:
 
 However, if you refresh the page, values on the current and previous steps are retained.
 
-**Parent Topic:**[Complete your checkout](../task/complete-your-checkout.md)
+**Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/complete-your-checkout.md)
 

@@ -28,67 +28,67 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_jb4_kgc_r1c_ddd" class="nav-card"><tbody><tr><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Now Assist for Creator.](../task/install-now-assist-for-creator.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Now Assist for Creator.](../task/install-now-assist-for-creator.md)
 
 </td><td>
 
-[App generation![](../../../reuse/icons/brand-icons/bus-application-development.svg)Generate simplified apps with AI-generated tables, experiences, and roles tailored to your text prompts.](../../../build/now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md)
+[App generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-application-development.svg)Generate simplified apps with AI-generated tables, experiences, and roles tailored to your text prompts.](../../../build/now-assist-app-gen/concept/sns-now-assist-app-gen-landing.md)
 
 </td><td>
 
-[App summary generation![](../../../reuse/icons/brand-icons/bus-news.svg)Summarize what an app does using generative AI.](../../../build/now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md)
+[App summary generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-news.svg)Summarize what an app does using generative AI.](../../../build/now-assist-app-summarize/concept/sns-now-assist-app-summarize-landing.md)
 
 </td></tr><tr><td>
 
-[ATF troubleshooting agent![](../../../reuse/icons/brand-icons/bus-field-service-technician.svg)Simplify test failure diagnosis on specific metadata.](../../atf-troubleshooting-agent/reference/atf-troubleshooting-agent-landing-page.md)
+[ATF troubleshooting agent![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-field-service-technician.svg)Simplify test failure diagnosis on specific metadata.](../../atf-troubleshooting-agent/reference/atf-troubleshooting-agent-landing-page.md)
 
 </td><td>
 
-[Build Agent![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Generate a complete scoped application, including core logic and user interface components, in the ServiceNow IDE.](../../../build/build-agent/concept/build-agent.md)
+[Build Agent![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-rocketship.svg)Generate a complete scoped application, including core logic and user interface components, in the ServiceNow IDE.](../../../build/build-agent/concept/build-agent.md)
 
 </td><td>
 
-[Catalog item generation![](../../../reuse/icons/brand-icons/bus-service-catalog.svg)Generate catalog items using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
+[Catalog item generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-service-catalog.svg)Generate catalog items using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
 </td></tr><tr><td>
 
-[Code generation![](../../../reuse/icons/brand-icons/bus-start-developing.svg)Get help writing scripts quickly with AI-generated code based on text or code prompts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/now-assist-code-landing.md)
+[Code generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-start-developing.svg)Get help writing scripts quickly with AI-generated code based on text or code prompts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/now-assist-code-landing.md)
 
 </td><td>
 
-[Flow generation![](../../../reuse/icons/brand-icons/bus-workflow.svg)Create multiple step flows with generative AI.](../reference/flow-generation-landing.md)
+[Flow generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-workflow.svg)Create multiple step flows with generative AI.](../reference/flow-generation-landing.md)
 
 </td><td>
 
-[Flow recommendations![](../../../reuse/icons/brand-icons/bus-innovation.svg)Generate recommendations for the next step of a flow.](../reference/flow-recommendations-landing.md)
+[Flow recommendations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-innovation.svg)Generate recommendations for the next step of a flow.](../reference/flow-recommendations-landing.md)
 
 </td></tr><tr><td>
 
-[Flow summarization![](../../../reuse/icons/brand-icons/bus-news.svg)Summarize what a flow or subflow does with generative AI.](exploring-flow-summarization.md)
+[Flow summarization![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-news.svg)Summarize what a flow or subflow does with generative AI.](exploring-flow-summarization.md)
 
 </td><td>
 
-[Mobile card generation![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg)Generate cards for mobile applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md)
+[Mobile card generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-mobile-phone.svg)Generate cards for mobile applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md)
 
 </td><td>
 
-[Playbook generation![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Generate playbook outlines from text directions.](../../process-automation-designer/concept/playbook-assist-landing.md)
+[Playbook generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-service-aware.svg)Generate playbook outlines from text directions.](../../process-automation-designer/concept/playbook-assist-landing.md)
 
 </td></tr><tr><td>
 
-[Process Mining![](../../../reuse/icons/brand-icons/bus-elevate.svg)Identify the work notes and generate insights about inefficiencies, challenges, and other reasons that cause reassignment of work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/now-assist.md)
+[Process Mining![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-elevate.svg)Identify the work notes and generate insights about inefficiencies, challenges, and other reasons that cause reassignment of work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/now-assist.md)
 
 </td><td>
 
-[RPA bot generation ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create automations, activities, and add automation logic from text instructions and preview options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-bot-generation.md)
+[RPA bot generation ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create automations, activities, and add automation logic from text instructions and preview options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-bot-generation.md)
 
 </td><td>
 
-[Test generation ![](../../../reuse/icons/brand-icons/bus-siem.svg)Automate test creation from simple descriptions with AI-powered test generation.](../../test-generation/concept/test-generation-intro.md)
+[Test generation ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-siem.svg)Automate test creation from simple descriptions with AI-powered test generation.](../../test-generation/concept/test-generation-intro.md)
 
 </td></tr><tr><td>
 
-[UI generation![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Create experiences by describing what you want using natural language.](../../ui-generation/concept/ui-generation-landing.md)
+[UI generation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../reuse/icons/brand-icons/bus-app-creator.svg)Create experiences by describing what you want using natural language.](../../ui-generation/concept/ui-generation-landing.md)
 
 </td><td>
 

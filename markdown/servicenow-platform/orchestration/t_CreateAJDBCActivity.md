@@ -21,7 +21,7 @@ Role required: activity\_admin, activity\_creator
 
 ## About this task
 
-The JDBC activity template allows you to execute ANSI SQL statements or stored procedures on a target database. Support for stored procedures with IN, OUT, and INOUT parameters are available in Australia. To learn how to set up these parameters, see [JDBC stored procedure parameters](t_CreateAJDBCActivity.md#).
+The JDBC activity template allows you to execute ANSI SQL statements or stored procedures on a target database. Support for stored procedures with IN, OUT, and INOUT parameters are available in Australia. To learn how to set up these parameters, see [JDBC stored procedure parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#).
 
 **Note:** If you are transferring bulk data into a ServiceNow instance from an external data source, use [Import sets key concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_ImportSetsKeyConcepts.md). The JDBC activities allow you to transfer data between external data sources and ServiceNow within a workflow. It is not intended to replace the bulk import features of data sources.
 
@@ -31,7 +31,7 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
     Your JDBC credentials must have permission for the target database and proper configuration for the corresponding JDBC connection. Credentials must be set up before you can create a JDBC activity.
 
-2.  Create or verify your [JDBC connection](t_CreateAJDBCActivity.md#).
+2.  Create or verify your [JDBC connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#).
 
     Your JDBC connection must be configured with valid JDBC credentials set up before you can create a JDBC activity.
 
@@ -39,11 +39,11 @@ The JDBC activity template allows you to execute ANSI SQL statements or stored p
 
     This action creates a custom activity using a template.
 
-4.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the JDBC Execution Command.
+4.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#), configure the JDBC Execution Command.
 
 <table id="choicetable_py3_zmj_4y"><tbody><tr><td id="d545176e157">
 
-**[JDBC Connection](t_CreateAJDBCActivity.md#)**
+**[JDBC Connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#)**
 
 </td><td>
 
@@ -69,7 +69,7 @@ JDBC credential to use for your JDBC connection.
 
 Input the ANSI SQL to execute on the JDBC target database. **Note:** This field is hidden when the Stored Procedure check box is selected.
 
- You can [map the input variables](CreateInputVariables.md#) you created to configure the SQL statements. By default, you can run the following SQL statements. -   select
+ You can [map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md#) you created to configure the SQL statements. By default, you can run the following SQL statements. -   select
 -   insert
 -   update
 -   delete
@@ -124,24 +124,24 @@ MID Server to use for querying JDBC, by capabilities. By default, the system sel
 
 </td><td>
 
-If checked, you can run a stored procedure on MySQL, Oracle, or SQL Server databases by entering the procedure name and parameters. See [JDBC stored procedure parameters](t_CreateAJDBCActivity.md#).
+If checked, you can run a stored procedure on MySQL, Oracle, or SQL Server databases by entering the procedure name and parameters. See [JDBC stored procedure parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#).
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
--   [Test JDBC activity inputs](t_CreateAJDBCActivity.md#)
--   Use [auto-mapping](automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
--   If you do not use auto-mapping, you can manually [create output variables](t_CreateAnOutputVariable.md#) and [create parsing rules](t_CreateAParsingRule.md#)
+-   [Test JDBC activity inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#)
+-   Use [auto-mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md) to generate outputs and parsing rules \(recommended for JDBC\)
+-   If you do not use auto-mapping, you can manually [create output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnOutputVariable.md#) and [create parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAParsingRule.md#)
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 **Related topics**  
 
 
-[Create custom activities using custom activity designer templates](create-custom-activities.md)
+[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/create-custom-activities.md)
 
 ## Create a JDBC connection for an Orchestration activity
 
@@ -352,7 +352,7 @@ None, DB2 Universal, Sybase
 The JDBC driver to use for this connection when it is not a default database. **Note:** If you add a Sybase or DB2 Universal database, you must enter the driver name in this field and upload the driver JAR file to the instance.
 
 </td></tr></tbody>
-</table>    ![JDBC connection example](../image/JDBCConnection.png "JDBC connection to Oracle example")
+</table>    ![JDBC connection example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/JDBCConnection.png "JDBC connection to Oracle example")
 
 3.  Click **Submit**.
 
@@ -382,7 +382,7 @@ Role required: admin
 
     The entire payload appears in the **Raw Output** tab of the Response form.
 
-    ![Auto-mapping controls](../image/AutoMappingButtons.png)
+    ![Auto-mapping controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/AutoMappingButtons.png)
 
 4.  Select one of these auto-mapping options.
 
@@ -416,7 +416,7 @@ There is support of multiple data types, with the following limitations:
 -   ResultSet is the first result set coming back from database server.
 -   MS-SQL does not support INOUT parameters. If you use INOUT parameters, the Activity Template transparently maps them to OUT parameters.
 
-**Note:** If you do not want to do a validation of data types in stored procedure parameters, like the legacy behavior, you set the glide.stored\_proc.data\_type.validation as false. See [MID Server properties](../../../product/mid-server/reference/r_MIDServerProperties.md#) for more information.
+**Note:** If you do not want to do a validation of data types in stored procedure parameters, like the legacy behavior, you set the glide.stored\_proc.data\_type.validation as false. See [MID Server properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../product/mid-server/reference/r_MIDServerProperties.md#) for more information.
 
 <table id="table_vry_jqc_cz"><thead><tr><th>
 
@@ -506,7 +506,7 @@ This test executes only the input parameters against an endpoint and not the pre
 
     **Note:** The test fails if the MID Server cannot be found or if it cannot connect to the target.
 
-    ![JDBC input test values](../image/TestDesignerJDBCInputValues.png "JDBC input test values")
+    ![JDBC input test values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/TestDesignerJDBCInputValues.png "JDBC input test values")
 
 2.  Filter the variable list with these controls:
 
@@ -521,9 +521,9 @@ This test executes only the input parameters against an endpoint and not the pre
 
     The system runs the values for all the inputs configured against the specified target and returns the resulting payload. The buttons in the Response form display different views of the payload. The entire payload appears in the **Raw Output** window.
 
-    ![Response payload from inputs test](../image/TestDesignerJDBCInputsResponse.png "Response payload from inputs test")
+    ![Response payload from inputs test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/TestDesignerJDBCInputsResponse.png "Response payload from inputs test")
 
-5.  To map appropriate parameter values in the payload to variables in the **Outputs** stage automatically, select an [auto-mapping option](t_CreateAJDBCActivity.md#).
+5.  To map appropriate parameter values in the payload to variables in the **Outputs** stage automatically, select an [auto-mapping option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJDBCActivity.md#).
 
 6.  Click the **X** in the upper right corner of the window to close it.
 

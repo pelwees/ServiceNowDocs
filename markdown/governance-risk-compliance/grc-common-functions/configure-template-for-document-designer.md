@@ -39,5 +39,5 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 ## What to do next
 
-Create a data relationship path from the template configuration to go to any table that you require. For more information, see [Create data relationships](create-data-relationships.md).
+Create a data relationship path from the template configuration to go to any table that you require. For more information, see [Create data relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-data-relationships.md).
 

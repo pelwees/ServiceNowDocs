@@ -21,13 +21,13 @@ Role required: sn\_ohs\_im.compliance\_manager
 
 ## About this task
 
-You can view the exported reports, such as OSHA 300 and 300A forms, for an establishment by navigating to the establishment record in the list. For more information, see [View a saved OSHA 300 and 300A form](view-osha-annual-forms.md).
+You can view the exported reports, such as OSHA 300 and 300A forms, for an establishment by navigating to the establishment record in the list. For more information, see [View a saved OSHA 300 and 300A form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/view-osha-annual-forms.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/list-icon-hs.png)\).
 
 3.  In the **Lists** tab, under the **Establishments** list, select **All**.
 
@@ -75,7 +75,7 @@ This establishment is available in the **Establishment** field's list on an inju
 
 ## What to do next
 
-In the **Annual information** tab, add the annual total hours worked for this establishment. For more information, see [Add total hours worked for an establishment](add-hs-total-hours-worked-establishment.md).
+In the **Annual information** tab, add the annual total hours worked for this establishment. For more information, see [Add total hours worked for an establishment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/add-hs-total-hours-worked-establishment.md).
 
-**Parent Topic:**[Health and Safety injury and illness reports](../concept/injury-illness-reports.md)
+**Parent Topic:**[Health and Safety injury and illness reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/injury-illness-reports.md)
 

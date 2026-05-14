@@ -31,29 +31,29 @@ With the Financial Services Operations Integration with Jack Henry jXchange, you
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits that are provided by integrating Financial Services Operations with Jack Henry jXchange.](exploring-fso-integration-with-jha.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits that are provided by integrating Financial Services Operations with Jack Henry jXchange.](exploring-fso-integration-with-jha.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Plan and configure your integration.](setting-up-fso-integration-with-jha.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Plan and configure your integration.](setting-up-fso-integration-with-jha.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate FSO with the Jack Henry jXchange application.](../task/configuring-fso-integration-with-jha.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate FSO with the Jack Henry jXchange application.](../task/configuring-fso-integration-with-jha.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the components like fields, tables, and properties.](../reference/components-installed-with-fso-integration-with-jha.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about the components like fields, tables, and properties.](../reference/components-installed-with-fso-integration-with-jha.md)
 
 </td></tr></tbody>
-</table>-   **[Exploring the Financial Services Operations Integration with Jack Henry jXchange](exploring-fso-integration-with-jha.md)**  
+</table>-   **[Exploring the Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-integration-with-jha.md)**  
 The Financial Services Operations Integration with Jack Henry jXchange application enables your agents to access the required system of record information so they can look up and verify your customer's financial and account information quickly. This integration also enables your organization to convert your end-to-end digital financial service processes.
--   **[Setting up the Financial Services Operations Integration with Jack Henry jXchange spoke](setting-up-fso-integration-with-jha.md)**  
+-   **[Setting up the Financial Services Operations Integration with Jack Henry jXchange spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/setting-up-fso-integration-with-jha.md)**  
 You can integrate a ServiceNow instance with your Jack Henry jXchange account so that you can access and verify customer and account information quickly.
--   **[Configure Financial Services Operations Integration with Jack Henry jXchange](../task/configuring-fso-integration-with-jha.md)**  
+-   **[Configure Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../task/configuring-fso-integration-with-jha.md)**  
 Configure the Financial Services Operations Integration with Jack Henry jXchange application by using the Jack Henry jXchange connection and credential record to authenticate ServiceNow requests.
--   **[Components installed with Financial Services Operations Integration with Jack Henry jXchange](../reference/components-installed-with-fso-integration-with-jha.md)**  
+-   **[Components installed with Financial Services Operations Integration with Jack Henry jXchange](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/components-installed-with-fso-integration-with-jha.md)**  
 Several types of components are installed with the activation of the Financial Services Operations Integration with Jack Henry jXchange spoke \(com.sn.jha.spoke\), including plugins and tables.
 
-**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 

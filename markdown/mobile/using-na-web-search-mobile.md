@@ -13,7 +13,7 @@ breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
 
 Web search mode for Now Assist lets you perform an internet search from within Now Assist, showing external results from outside your organization.
 
-![Virtual Agent displaying internet search results](../image/na-web-search.png "Web search mode on mobile")
+![Virtual Agent displaying internet search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-web-search.png "Web search mode on mobile")
 
 Web search mode is available for both standard and enhanced chat conversations as an opt-in feature via Now Assist Virtual Agent assistant. Select the Start web search mode icon \(![](../image/na-web-search-icon.png)\) to enter into web search mode. When in web search mode, all queries will be answered via internet search results rather than internal company search results. A banner that indicates you're in web search mode appears and will disappear when you disable web search mode.
 
@@ -25,5 +25,5 @@ To exit out of web search mode and return to internal search results, do one of 
 
 For more information on configuring web search, see [Manage an assistant chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

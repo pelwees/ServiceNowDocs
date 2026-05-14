@@ -21,13 +21,13 @@ When the user re-authenticates, there's a high assurance session that is establi
 
 You can create CA policies to verify the users identity and authentication the users to access the data that you've protected. You can configure the CA policy and provide the Identity Providers details in the Identity Providers record to establish high assurance session.
 
-![Continuous Authentication - tab information](../images/ca-tab.png)
+![Continuous Authentication - tab information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/ca-tab.png)
 
 The users who are performing SSO based login \(SAML or OIDC\) and whenever there is an attempt to access the protected data, re-authentication screen is prompted with the same SSO that was used by the user during the initial login.
 
-![SSO - Screen](../images/ca-sso-screen.png)
+![SSO - Screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/ca-sso-screen.png)
 
-After successful SSO authentication, the protected data is displayed to the users for a certain time frame. You can configure the properties to change the time limit based on your requirement. To know more, see [High Assurance session with Continuous Authentication](high-assurance-ca.md).
+After successful SSO authentication, the protected data is displayed to the users for a certain time frame. You can configure the properties to change the time limit based on your requirement. To know more, see [High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md).
 
 Performing re-authentication with SSO login \(SAML or OIDC\), creates a high assurance session establishing a secure and trusted connection with the identities \(users\) who are accessing the protected data.
 
@@ -36,9 +36,9 @@ An high assurance session established for the user is limited to the High Assura
 **Related topics**  
 
 
-[High Assurance session with Continuous Authentication](high-assurance-ca.md)
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md)
 
-[Pre-work for Continuous Authentication](pre-work-ca.md)
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-ca.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_hr\_agent\_ws.admin
 
 2.  Select the case that you want to customize related lists for.
 
-3.  Select the additional actions icon ![Additional actions icon](../../../common/image/Form_MenuIcon.png).
+3.  Select the additional actions icon ![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../common/image/Form_MenuIcon.png).
 
 4.  Navigate to **Configure** &gt; **Related lists**.
 

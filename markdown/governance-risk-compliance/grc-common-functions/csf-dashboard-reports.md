@@ -33,5 +33,5 @@ The contains various reports. The NIST Cybersecurity Framework \(CSF\) Use Case 
 |Issues|Displays an overview of issues for cybersecurity activities. Issues are grouped by policies, entity class, entities, or functions.|
 |Action Plans|Displays an overview of action plans that exist for cybersecurity activities. Action plans are grouped by policies, entity class, entities, or functions.|
 
-**Parent Topic:**[NIST CSF Use Case Accelerator](../concept/grc-csf-usecase-accelerator.md)
+**Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-csf-usecase-accelerator.md)
 

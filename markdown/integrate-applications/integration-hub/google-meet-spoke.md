@@ -293,7 +293,7 @@ Retrieves a list of transcript entries for a specific Google Meet conference, in
 </td></tr></tbody>
 </table>## Available AI agents
 
-Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](../../integrationhub/concept/now-assist-spokes.md).
+Install Now Assist for Integration Hub and start using the available AI agents. For more information, see [Now Assist for Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/now-assist-spokes.md).
 
 This spoke provides standalone AI agents that mimic human-like intelligence to perform tasks in your ServiceNow instance.
 
@@ -315,18 +315,18 @@ Available AI agents include:
 
 ## Available conversational actions
 
-Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](../../integrationhub/concept/conv-spokes-na.md).
+Install Now Assist for Conversational Spokes and start using the conversational ability of Integration Hub spokes. For more information, see [Now Assist in Conversational Spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/conv-spokes-na.md).
 
 |Action|Usage|
 |------|-----|
 |Create Meeting Space|In the Ask Now Assist to... field, enter the phrase that asks Now Assist to perform the action and press **Enter**. For example, `Create a meeting space`.|
 |Update Meeting Space|In the Ask Now Assist to... field, enter the phrase that asks Now Assist to perform the action and press **Enter**. For example, `Update a meeting space`.|
 
-![Use conversational action on Now Assist.](../image/gmeet-spk-nowassist.png)
+![Use conversational action on Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-nowassist.png)
 
 ## Connection and credential alias requirements
 
 Integration Hub uses aliases to manage connection and credential information. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection. For more information, see [Connections and Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r-credentials.md).
 
-For information about setting up the spoke, see [Set up the Google Meet spoke](../task/set-up-the-google-meet-spoke.md#).
+For information about setting up the spoke, see [Set up the Google Meet spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/set-up-the-google-meet-spoke.md#).
 

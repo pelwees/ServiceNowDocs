@@ -17,19 +17,19 @@ You can download and install LEAP application from the ServiceNow® Store to man
 
 ## Configuration overview
 
-1.  [Install LEAP](../task/install-aiops-leap-application.md)
+1.  [Install LEAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../task/install-aiops-leap-application.md)
 
     Install LEAP if you have the admin role.
 
-2.  [Setup LEAP properties](../task/setup-aiops-leap-properties.md)
+2.  [Setup LEAP properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../task/setup-aiops-leap-properties.md)
 
     View and modify the LEAP LEAP properties as per your requirements.
 
-3.  [Activate LEAP](../task/activate-aiops-leap.md)
+3.  [Activate LEAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../task/activate-aiops-leap.md)
 
     Activate LEAP to enable grouping of incidents, create problem records, and generate resolution playbooks.
 
-4.  [Change LEAP large language model \(LLM\)](../task/change-leap-large-languauge-model-llm.md)
+4.  [Change LEAP large language model \(LLM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../task/change-leap-large-languauge-model-llm.md)
 
     Modify the LLM model to suit your requirements.
 

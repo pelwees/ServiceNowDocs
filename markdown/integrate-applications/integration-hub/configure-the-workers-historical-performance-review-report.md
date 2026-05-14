@@ -37,27 +37,27 @@ Confirm that in the advanced section, **Enable as webservice** is selected.
 
     1.  Create Aggregate Related Instances Calculated Field named CF\_Competencies\_all.
 
-        ![Workday report.](../image/workday-report27.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report27.png)
 
     2.  Create Aggregate Related Instances Calculated Field named CF Content Evaluation - Accomplishments all.
 
-        ![Workday report.](../image/workday-report28.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report28.png)
 
     3.  Create Aggregate Related Instances Calculated Field CF\_Content Evaluation - Areas for Development all.
 
-        ![Workday report.](../image/workday-report29.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report29.png)
 
     4.  Create Aggregate Related Instances Calculated Field named CF\_Content Evaluation - Career Interests all.
 
-        ![Workday report.](../image/workday-report30.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report30.png)
 
     5.  Create Aggregate Related Instances Calculated Field named CF\_Content Evaluation - Goals all.
 
-        ![Workday report.](../image/workday-report31.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report31.png)
 
     6.  Create Aggregate Related Instances Calculated Field named CF\_Content Evaluation - Responsibilities all.
 
-        ![Workday report.](../image/workday-report32.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report32.png)
 
 2.  Create the report.
 
@@ -73,75 +73,75 @@ Confirm that in the advanced section, **Enable as webservice** is selected.
 
     6.  Deselect the temporary report box and then click ok.
 
-        ![Workday report.](../image/workday-report33.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report33.png)
 
     7.  Select the report business object and report fields.
 
-        ![Workday report.](../image/workday-report34.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report34.png)
 
-        ![Workday report.](../image/workday-report35.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report35.png)
 
-        ![Workday report.](../image/workday-report36.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report36.png)
 
     8.  In the Group column heading section, select all business object as given below.
 
         Group Column heading for each business object will be blank.
 
-        ![Workday report.](../image/workday-report37.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report37.png)
 
     9.  In the Sort section, select the value.
 
-        ![Workday report.](../image/workday-report38.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report38.png)
 
     10. In Sort section, under Sub level sort, select the value.
 
-        ![Workday report.](../image/workday-report39.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report39.png)
 
-        ![Workday report.](../image/workday-report40.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report40.png)
 
-        ![Workday report.](../image/workday-report41.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report41.png)
 
     11. In the Filter section, select the value as given below.
 
         Add parenthesis as given in the image.
 
-        ![Workday report.](../image/workday-report42.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report42.png)
 
     12. In Sub-Filter section, select the value.
 
         Add parenthesis as given in the image.
 
-        ![Workday report.](../image/workday-report43.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report43.png)
 
-        ![Workday report.](../image/workday-report44.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report44.png)
 
-        ![Workday report.](../image/workday-report45.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report45.png)
 
     13. In the prompt section, click on populate undefined prompt defaults check box.
 
-        ![Workday report.](../image/workday-report46.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report46.png)
 
     14. Select the value of prompts as given below under Prompt default section.
 
         Confirm that the Label For Prompt XML Alias of all prompt fields is the same as the image below.
 
-        ![Workday report.](../image/workday-report47.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report47.png)
 
     15. In the advanced section, select **enable as webservice**, and click OK.
 
     16. Select the three dots icon and go to **web services&gt; view URLs** option.
 
-        ![Workday report.](../image/workday-report48.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report48.png)
 
     17. Select the organization for which you want to run this report and check the box if you want to include subordinate organization and managers.
 
-        ![Workday report.](../image/workday-report49.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report49.png)
 
     18. In the View URLs Web Service page, click on marked icon under CSV section.
 
         A new browser tab opens.
 
-        ![Workday report.](../image/workday-report50.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report50.png)
 
         You can see the RaaS URL of the report in new browser tab.
 

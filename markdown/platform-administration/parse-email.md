@@ -105,30 +105,30 @@ Language of the reply separator.**Note:** All email clients don't indicate a lan
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Email and SMS notifications](../concept/c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailNotifications.md)
 
 **Related topics**  
 
 
-[Create notification categories](create-notification-categories.md)
+[Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-notification-categories.md)
 
-[Create an email notification](t_CreateANotification.md)
+[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-[Email notifications dashboard](../concept/email-notifications-dashboard.md)
+[Email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-notifications-dashboard.md)
 
-[Email diagnostics dashboard](../concept/email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-diagnostics-dashboard.md)
 
-[Email templates](../concept/c_EmailTemplates.md)
+[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailTemplates.md)
 
-[Email layouts](../concept/email-layouts.md)
+[Email layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-layouts.md)
 
-[Email retention](../concept/email-retention.md)
+[Email retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-retention.md)
 
-[Watermarks on notification emails](../concept/c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_WorkingWithWatermarks.md)
 
-[Email digests](../concept/email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-digests.md)
 
-[Domain separation and Notifications](../concept/domain-separation-notifications.md)
+[Domain separation and Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](../concept/troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/troubleshooting-notification-emails.md)
 

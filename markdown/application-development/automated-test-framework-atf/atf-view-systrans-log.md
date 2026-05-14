@@ -27,8 +27,8 @@ Role required: test\_admin or admin
 
 1.  Navigate to related transaction record in the system transaction log.
 
-    -   From the [Step results record](../reference/atf-step-result-record.md), view transactions in the Step transactions related list.
-    -   From the [Test Results record](../reference/atf-test-results-record.md), view transactions in the Test Transactions related list.
+    -   From the [Step results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-step-result-record.md), view transactions in the Step transactions related list.
+    -   From the [Test Results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-results-record.md), view transactions in the Test Transactions related list.
 
-**Parent Topic:**[Optimizing automatic test performance](../concept/atf-optimize-perf.md)
+**Parent Topic:**[Optimizing automatic test performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-optimize-perf.md)
 

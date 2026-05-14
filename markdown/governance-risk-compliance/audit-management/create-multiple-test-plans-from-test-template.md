@@ -30,5 +30,5 @@ Role required: sn\_audit.manager or sn\_audit.admin
     **Note:** This link is only visible if there are controls associated with the test plan's control objective that have not yet had a test plan generated from the current test template.
 
 
-**Parent Topic:**[Manage test templates and test plans](../concept/c_AuditTesting.md)
+**Parent Topic:**[Manage test templates and test plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_AuditTesting.md)
 

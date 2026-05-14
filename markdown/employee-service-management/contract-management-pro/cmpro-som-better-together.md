@@ -27,28 +27,28 @@ The integration provides the following benefits:
 
 |Feature|Sales and order management|Contract management pro|All applications together|
 |-------|--------------------------|-----------------------|-------------------------|
-|Product Catalog Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Pricing Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Lead Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Opportunity Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Sales Forecasting|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Quote Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Order Management|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Order to cash operations|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Post Sales Support|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Sales Customer Relationship Management workflows \(lead-to-cash core\)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Customer Life Cycle Management Workflows|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Contract lifecycle management|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Contract document authoring|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Obligation Management|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Contract document Analysis using generative AI|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Contract document metadata extraction using generative AI|![No](../../../reuse/images/icon-error-red-x.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
+|Product Catalog Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Pricing Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Lead Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Opportunity Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Sales Forecasting|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Quote Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Order Management|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Order to cash operations|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Post Sales Support|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Sales Customer Relationship Management workflows \(lead-to-cash core\)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Customer Life Cycle Management Workflows|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Contract lifecycle management|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Contract document authoring|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Obligation Management|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Contract document Analysis using generative AI|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
+|Contract document metadata extraction using generative AI|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-error-red-x.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)|
 
 ## Workflow for Sales Customer Relationship Management
 
 The following figure shows an example workflow of how an sales agent, sales operation specialist, and a contract fulfiller can use these applications to streamline collaboration with legal teams, enabling them to execute contracting tasks within the lead-to-cash workflow. It also provides sales operation professionals with full visibility into contract progress, reducing delays and improving operational transparency.
 
-![SOM - CM Pro workflow](../image/mmassest0021242-SOM-CMPro-workflow.png "Sales Customer Relationship Management and Contract Management Pro workflow")
+![SOM - CM Pro workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/mmassest0021242-SOM-CMPro-workflow.png "Sales Customer Relationship Management and Contract Management Pro workflow")
 
 In this workflow:
 
@@ -76,7 +76,7 @@ The following roles are required to initiate, view, and manage contract executio
 ## Requirements for integrating Sales Customer Relationship Management and Contract Management Pro
 
 1.  [Install Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/installing-quote-management.md).
-2.  [Install Contract Management Pro](../task/cncore-install-cmpro.md).
+2.  [Install Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-install-cmpro.md).
 3.  [Integrate with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-integrate-contract-management.md).
 
 For more information, see [Quote Management integration with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-int-contracts-pro.md).
@@ -87,37 +87,37 @@ Get started with initiating contract request by completing these tasks:
 
 1.  [Configuring Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-configuring.md).
 2.  Configure Contract Management Pro
-    -   **[Create a contract type](../task/cncore-create-contract-type.md)**
+    -   **[Create a contract type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-create-contract-type.md)**
 
         Create a contract type for defining different types of contract requests and associate it to a contract model.
 
         Role:contract administrator.
 
-    -   **[Configure templates for a contract and amendment request in Contract Management Pro](cncore-document-templates.md)**
+    -   **[Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-document-templates.md)**
 
         Create a contract template of type .docx that can be used when submitting a contract request to generate a standard contract with predefined content.
 
         Role:contract configurator.
 
-    -   **[Configure dynamic clauses for contract templates](cncore-clause-and-cv.md)**
+    -   **[Configure dynamic clauses for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-and-cv.md)**
 
         Enable dynamic customized content in contract templates through clauses that contain clause variations for preset conditions.
 
         Role:contract configurator.
 
-    -   **[Define an internal signatory rule](../task/cncore-define-internal-signers-rule.md)**
+    -   **[Define an internal signatory rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-define-internal-signers-rule.md)**
 
         Define a user as an internal signatory rule so that the signer can be added to a contract template to automatically add to the contract document for a request.
 
         Role:contract configurator.
 
-    -   **[Create document template categories](../task/cncore-create-doc-tmplt-cat.md)**
+    -   **[Create document template categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-create-doc-tmplt-cat.md)**
 
         Create document template categories to easily identify similar documents and find the correct document template more easily.
 
         Role:contract configurator.
 
-    -   **[Create a contract configuration](../task/cncore-contract-config.md)**
+    -   **[Create a contract configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-contract-config.md)**
 
         Define the contract repository where the contracts will be stored and map the data to be added to the contract document.
 

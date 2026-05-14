@@ -17,7 +17,7 @@ After you configure a widget, associate it with the Demand table to show the fin
 
 ## Before you begin
 
-You must [configure a widget](configure-widget-demand-financials.md) before you can associate it with the Demand \[dmn\_demand\] table.
+You must [configure a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/configure-widget-demand-financials.md) before you can associate it with the Demand \[dmn\_demand\] table.
 
 Role required: pps\_admin
 
@@ -31,8 +31,8 @@ Role required: pps\_admin
 
 4.  On the Widget Association form, fill in the fields.
 
-    For a description of the field names, see [Widget Association form](../reference/widget-association-form.md).
+    For a description of the field names, see [Widget Association form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/widget-association-form.md).
 
 
-**Parent Topic:**[Configure a widget for the financial metrics of a demand](configure-widget-demand-financials.md)
+**Parent Topic:**[Configure a widget for the financial metrics of a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/configure-widget-demand-financials.md)
 

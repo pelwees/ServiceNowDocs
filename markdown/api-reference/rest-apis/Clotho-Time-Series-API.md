@@ -21,7 +21,7 @@ Role required to write to this API: clotho\_rest\_put.
 
 The examples in this section were created using data in the MetricBase \(com.snc.clotho\) plugin.
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## MetricBase Time Series - GET /now/clotho/table/\{table\}/\{subject\}/\{metric\}
 
@@ -130,7 +130,7 @@ Format: ISO 8601 \(UTC\), either:
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -142,7 +142,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -432,7 +432,7 @@ Comma separated list of transforms. Valid transforms:
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -457,7 +457,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -814,7 +814,7 @@ Required. Metric value.Data type: Number
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -827,7 +827,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -1029,7 +1029,7 @@ metrics.transforms
 
 </td><td>
 
-List of transforms \(transform chain\) to apply to the retrieved time series data. Each transform builds on the results of the previous transform. For a list of available transforms, see [Supported Transforms](Clotho-Time-Series-API.md#Supported_transforms) below.Data type: Array of Objects
+List of transforms \(transform chain\) to apply to the retrieved time series data. Each transform builds on the results of the previous transform. For a list of available transforms, see [Supported Transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.Data type: Array of Objects
 
 ```
 "transforms": [
@@ -1052,7 +1052,7 @@ Dependent on the transform. Parameter or parameters to pass into the transform.G
 -   Use Number, String, or Boolean for transforms that take a single parameter.
 -   Use a JSON object, with the appropriate name-value pairs, for transforms that take more than one parameter.
 
-Data type: Number, String, Boolean, or JSON object, depending on transform. \(For a list of available transforms, refer to the table [Supported transforms](Clotho-Time-Series-API.md#Supported_transforms) below.\)
+Data type: Number, String, Boolean, or JSON object, depending on transform. \(For a list of available transforms, refer to the table [Supported transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.\)
 
 </td></tr><tr><td>
 
@@ -1060,7 +1060,7 @@ metrics.transforms.name
 
 </td><td>
 
-Required if a **transforms** object is specified. Name of the transform.For a list of available transforms, refer to the table [Supported transforms](Clotho-Time-Series-API.md#Supported_transforms) below.
+Required if a **transforms** object is specified. Name of the transform.For a list of available transforms, refer to the table [Supported transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.
 
  Data type: String
 
@@ -1100,7 +1100,7 @@ Required. Name of the table that contains the GlideRecord associated with this s
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -1113,7 +1113,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -2205,7 +2205,7 @@ By setting the corresponding Accept header value in your request, you can:
 -   Serialize streamed data into a JSON array, or
 -   Stream data back to the client in a wide or narrow CSV format.
 
-The endpoint streams the data as transforms are completed on the MetricBase server, without groupings or a predetermined ordering. Data streamed in binary format is smaller in size than the JSON representation returned by the [MetricBase Time Series - POST /now/clotho/transform](Clotho-Time-Series-API.md#) endpoint.
+The endpoint streams the data as transforms are completed on the MetricBase server, without groupings or a predetermined ordering. Data streamed in binary format is smaller in size than the JSON representation returned by the [MetricBase Time Series - POST /now/clotho/transform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#) endpoint.
 
 ### URL format
 
@@ -2327,7 +2327,7 @@ metrics.transforms
 
 </td><td>
 
-List of transforms \(transform chain\) to apply to the retrieved time series data. Each transform builds on the results of the previous transform. For a list of available transforms, see [Supported Transforms](Clotho-Time-Series-API.md#Supported_transforms) below.Data type: Array of Objects
+List of transforms \(transform chain\) to apply to the retrieved time series data. Each transform builds on the results of the previous transform. For a list of available transforms, see [Supported Transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.Data type: Array of Objects
 
 ```
 "transforms": [
@@ -2350,7 +2350,7 @@ Dependent on the transform. Parameter or parameters to pass into the transform.G
 -   Use Number, String, or Boolean for transforms that take a single parameter.
 -   Use a JSON object, with the appropriate name-value pairs, for transforms that take more than one parameter.
 
-Data type: Number, String, Boolean, or JSON object, depending on transform. \(For a list of available transforms, refer to the table [Supported transforms](Clotho-Time-Series-API.md#Supported_transforms) below.\)
+Data type: Number, String, Boolean, or JSON object, depending on transform. \(For a list of available transforms, refer to the table [Supported transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.\)
 
 </td></tr><tr><td>
 
@@ -2358,7 +2358,7 @@ metrics.transforms.name
 
 </td><td>
 
-Required if a **transforms** object is specified. Name of the transform.For a list of available transforms, refer to the table [Supported transforms](Clotho-Time-Series-API.md#Supported_transforms) below.
+Required if a **transforms** object is specified. Name of the transform.For a list of available transforms, refer to the table [Supported transforms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/Clotho-Time-Series-API.md#Supported_transforms) below.
 
 Data type: String
 
@@ -2398,7 +2398,7 @@ Required. Name of the table that contains the GlideRecord associated with this s
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -2452,7 +2452,7 @@ If multiple Accept types are specified, the first supported type is returned.
 </td></tr></tbody>
 </table>### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table><thead><tr><th>
 
@@ -3757,7 +3757,7 @@ Required. Metric value.Data type: Number
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -3770,7 +3770,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

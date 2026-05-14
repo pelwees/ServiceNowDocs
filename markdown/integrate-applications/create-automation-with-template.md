@@ -49,8 +49,8 @@ The default templates that the RPA Desktop Design Studio provides are RPA Deskto
 
     The automation project is created.
 
-    ![Automation template.](../image/rpa-studio-automation-template.png)
+    ![Automation template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpa-studio-automation-template.png)
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 

@@ -44,12 +44,12 @@ $navpage-button-color-hover: #82C9B8
     
 ```
 
-**Parent Topic:**[CSS theme support](../concept/c_CSSThemeSupport.md)
+**Parent Topic:**[CSS theme support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_CSSThemeSupport.md)
 
 **Related topics**  
 
 
-[Activating CSS theme support](r_ActivatingCSSThemeSupport.md)
+[Activating CSS theme support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/r_ActivatingCSSThemeSupport.md)
 
-[Create or customize a theme](../task/t_CreateOrCustomizeATheme.md)
+[Create or customize a theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateOrCustomizeATheme.md)
 

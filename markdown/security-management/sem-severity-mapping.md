@@ -48,10 +48,10 @@ Last 30 days WatchDog failure
 All the conditions met in the past 30 days.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+</table>**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configure watchdog](../task/sem-watchdog-configure.md)
+[Configure watchdog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-watchdog-configure.md)
 

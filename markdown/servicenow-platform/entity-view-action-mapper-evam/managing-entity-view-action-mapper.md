@@ -17,20 +17,20 @@ Optimize data presentation and interaction by defining data sources, creating En
 
 ## Overview of managing EVAM
 
--   [Define a data source](../task/define-evam-datasource.md)
+-   [Define a data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/../task/define-evam-datasource.md)
 
     Specify a data source.
 
--   [Define an EVAM configuration bundle](../task/define-view-configuration-bundle.md)
+-   [Define an EVAM configuration bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/../task/define-view-configuration-bundle.md)
 
     Create a view configuration to combine conditions, database fields, and declarative actions with an associated view template.
 
--   [Define an EVAM view template](../task/define-evam-template.md)
+-   [Define an EVAM view template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/../task/define-evam-template.md)
 
     Configure view templates to customize data display for users, mapping fields from the view configuration to the component.
 
 
 ## EVAM reference
 
-For more information, see [Entity View Action Mapper reference](entity-view-action-mapper-reference.md).
+For more information, see [Entity View Action Mapper reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/entity-view-action-mapper-reference.md).
 

@@ -19,7 +19,7 @@ Set up a schedule to regularly query for CMDB 360 data. Use scheduled queries to
 
 Ensure that you run the CMDB 360 query at least once.
 
-To access CMDB 360 in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](../concept/sg-workspace.md).
+To access CMDB 360 in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/sg-workspace.md).
 
 Role required: sn\_cmdb\_user and either cmdb\_ms\_admin or cmdb\_ms\_editor.
 
@@ -51,9 +51,9 @@ Create a CMDB 360 report to integrate CMDB 360 query results with platform [Repo
 **Related topics**  
 
 
-[Create a Get Records query](workspc-mltsrc-query-get-records.md)
+[Create a Get Records query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-query-get-records.md)
 
-[Create a Find Gap query](workspc-mltsrc-query-find-gap.md)
+[Create a Find Gap query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-query-find-gap.md)
 
-[Create a Compare Attribute Values query](workspc-mltsrc-query-comp-attr-value.md)
+[Create a Compare Attribute Values query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-query-comp-attr-value.md)
 

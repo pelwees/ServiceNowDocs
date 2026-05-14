@@ -250,5 +250,5 @@ https://k8s0057813-node1.thunder.lab3.service-now.com/api/now/table/samp_vmware_
 |className|cmdb\_ci\_win\_server|The name of the Windows server table|
 |name|VirtualMachine-WS2|Name of the Windows server virtual machine.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

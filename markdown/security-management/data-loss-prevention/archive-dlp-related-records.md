@@ -47,5 +47,5 @@ Role required: admin
     **Note:** For more information on how to add more related records, see [Archive DLP related records](https://servicenow.com/docs/bundle/vancouver-platform-administration/page/administer/database-rotation/task/t_CreateAnArchiveRule.html) on ServiceNow AI Platform.
 
 
-**Parent Topic:**[DLP Incidents Archival](dlp-archiving-rule.md)
+**Parent Topic:**[DLP Incidents Archival](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-archiving-rule.md)
 

@@ -25,14 +25,14 @@ Role required: evt\_mgmt\_admin
 
     The Operator Workspace Views page opens.
 
-    ![Operator Workspace Views](../image/workspace-nocpit-views.png)
+    ![Operator Workspace Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/workspace-nocpit-views.png)
 
 2.  Select the check box next to the view you want to delete.
 
 3.  In the **Actions on selected rows** list, select **Delete**.
 
-    ![Option to delete a view](../image/sow-delete-view.png)
+    ![Option to delete a view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-delete-view.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

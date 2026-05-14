@@ -23,7 +23,7 @@ Role required: sn\_audit.admin and sn\_audit.manager
 
 1.  Navigate to **Workspaces** &gt; **Audit Workspace**.
 
-2.  Select the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+2.  Select the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
 
 3.  Select **All engagements** under **Execution**.
 
@@ -39,7 +39,7 @@ Role required: sn\_audit.admin and sn\_audit.manager
 
 7.  Select the **Test steps** tab to view the list of test steps and create a new test step.
 
-    **Note:** You can also view the list of control test steps that are generated from the test plan within the engagement. For more information, see [Automatically generate control tests from an engagement](../../grc-audit/task/automatically-generate-control-test.md).
+    **Note:** You can also view the list of control test steps that are generated from the test plan within the engagement. For more information, see [Automatically generate control tests from an engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-audit/task/automatically-generate-control-test.md).
 
 8.  Select **New** to create a new test step plan for the control test.
 

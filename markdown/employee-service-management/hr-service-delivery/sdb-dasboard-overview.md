@@ -17,15 +17,15 @@ Analyze the performance and self-solve data visually and drive business outcomes
 
 ## Performance Overview in HR Success Dashboard indicators
 
-Measure the Key Performance Indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Structured tickets percentage, and Successful predictions in the Performance Overview tab. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](sd-formulae.md).
+Measure the Key Performance Indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Structured tickets percentage, and Successful predictions in the Performance Overview tab. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
-![HR Success Dashboard indicators Overview page displayed.](../image/dashboard-perf-oview.png "HR Success Dashboard indicators Overview")
+![HR Success Dashboard indicators Overview page displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dashboard-perf-oview.png "HR Success Dashboard indicators Overview")
 
 ## Service Quality in HR Success Dashboard indicators
 
-Measure the Key Performance Indicators \(KPIs\) like Customer satisfaction score, Mean time to resolve, % Breached SLA, and % First assignment resolution in the Service Quality tab. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](sd-formulae.md)
+Measure the Key Performance Indicators \(KPIs\) like Customer satisfaction score, Mean time to resolve, % Breached SLA, and % First assignment resolution in the Service Quality tab. For more information, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md)
 
-![Service Quality tab displayed on the HR Success Dashboard indicators.](../image/service-quality.png "Service Quality")
+![Service Quality tab displayed on the HR Success Dashboard indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/service-quality.png "Service Quality")
 
 ## Scorecards in HR Success Dashboard indicators
 
@@ -41,7 +41,7 @@ View the aggregation of the daily values for KPIs in the selected period on the 
 
 View the short description of the indicator and understand how the indicator value is calculated.
 
-![Info cards on each KPI parameter displayed on the screen.](../image/info-icon-crds.png "Info Icons and cards")
+![Info cards on each KPI parameter displayed on the screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/info-icon-crds.png "Info Icons and cards")
 
 ## Trends in HR Success Dashboard indicators
 
@@ -56,19 +56,19 @@ See the constituent drill-down views and their contextual descriptions for KPIs.
 
 -   View the primary indicators.
 
-    ![Primary indicators page of the HR Success Dashboard indicators](../image/prmry-indctr.png "Primary indicators")
+    ![Primary indicators page of the HR Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/prmry-indctr.png "Primary indicators")
 
-    You can replace or add new indicators to suit your implementation in addition to the base system indicators. For more details, see [HR Success Dashboard indicators KPI definitions and formulae](sd-formulae.md).
+    You can replace or add new indicators to suit your implementation in addition to the base system indicators. For more details, see [HR Success Dashboard indicators KPI definitions and formulae](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 
 -   View the contributing indicators.
 
-    ![Secondary indicators displaying on the HR Success Dashboard indicators](../image/secndry-indctr.png "Secondary indicators")
+    ![Secondary indicators displaying on the HR Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/secndry-indctr.png "Secondary indicators")
 
     You can view a graph of the contributing indicators scores over time along with the KPI value.
 
 -   View the record-level breakdown
 
-    ![Third level indicators of the HR Success Dashboard indicators displayed](../image/thrd-lvl-indtr.png "Third level breakdown indicators")
+    ![Third level indicators of the HR Success Dashboard indicators displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/thrd-lvl-indtr.png "Third level breakdown indicators")
 
 
 This level drill-down helps you view the record-level details of the indicator when you have the `sn_sd.success_dashboard_details_read` user permissions. See [KPI details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md) for more information.
@@ -77,5 +77,5 @@ This level drill-down helps you view the record-level details of the indicator w
 
 View the contextual formula, definitions, or any other information about the metric or KPI selected.
 
-![More info card on the HR Success Dashboard overview page](../image/more-info.png "More info card")
+![More info card on the HR Success Dashboard overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/more-info.png "More info card")
 

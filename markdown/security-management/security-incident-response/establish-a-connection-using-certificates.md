@@ -128,8 +128,8 @@ You can enter any value. **Note:** This is not important as you will be using th
 
     On success, the following API permissions are added to the Azure application.
 
-    ![API Permissions - MS Teams](../image/api-permissions-msteams.png)
+    ![API Permissions - MS Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/api-permissions-msteams.png)
 
 
-**Parent Topic:**[Using Certificates for authentication](using-certificates-for-authentication.md)
+**Parent Topic:**[Using Certificates for authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-certificates-for-authentication.md)
 

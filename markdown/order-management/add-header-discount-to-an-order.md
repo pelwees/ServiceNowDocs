@@ -46,5 +46,5 @@ You can only add discounts to a quote while the quote is being crafted. Once the
 
 ## What to do next
 
-[Review and submit a product or service order in Order Management](som-om-review-and-submit-product-order.md)
+[Review and submit a product or service order in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-om-review-and-submit-product-order.md)
 

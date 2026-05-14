@@ -44,12 +44,12 @@ Role required: release\_v2\_admin
 
     1.  Click **Attach task**.
 
-    2.  Find and locate the required task by clicking the search icon \(![Search icon](../../configurable-workforce-optimization-itsm/image/search-icon.png)\).
+    2.  Find and locate the required task by clicking the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../../configurable-workforce-optimization-itsm/image/search-icon.png)\).
 
     3.  Add the task as a release task by clicking the task number.
 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Using Release Management v2](../concept/c_Release.md)
+**Parent Topic:**[Using Release Management v2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../concept/c_Release.md)
 

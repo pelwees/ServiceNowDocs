@@ -24,7 +24,7 @@ An application profile specifies application software to install on newly-provis
 
 This example shows an application profile mapping for a Tomcat server on Ansible.
 
-![An example profile](../image/application-profile-mapping-example.png)
+![An example profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/application-profile-mapping-example.png)
 
 ## Procedure
 
@@ -32,7 +32,7 @@ This example shows an application profile mapping for a Tomcat server on Ansible
 
 2.  In the **Profiles** list, select **Application Profile** and then click **New**.
 
-    ![Application profile](../image/application-profile.png)
+    ![Application profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/application-profile.png)
 
 3.  Enter a unique and descriptive **Name** and **Description** for the profile and then click **Submit**.
 
@@ -70,11 +70,11 @@ Select a template that the profile should be mapped to. If you ran Discovery on 
 
  The resource type associated with an application profile is `sn_cmp_application_template`.
 
- Click the reference icon \(![Reference icon](../../../common/image/icon-reference.png)\) to view the details of the template.
+ Click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-reference.png)\) to view the details of the template.
 
  To create a new template:
 
-1.  Click the reference icon \(![Reference icon](../../../common/image/icon-reference.png)\) to open the Application Templates list.
+1.  Click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../../common/image/icon-reference.png)\) to open the Application Templates list.
 2.  Click **New** and then fill in the Application Template form:
  -   **Name**: Enter a descriptive name for the template.
 -   **Template ID**: Enter an ID to use for the template.
@@ -90,5 +90,5 @@ Select a template that the profile should be mapped to. If you ran Discovery on 
 **Related topics**  
 
 
-[Discover all datacenters in a service account on-demand](../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct-1.md)
+[Discover all datacenters in a service account on-demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/disco-datacntrs-in-srv-acct-1.md)
 

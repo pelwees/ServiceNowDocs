@@ -25,7 +25,7 @@ Role required: sn\_si.basic
 
 ## Procedure
 
-1.  [Create a new security incident](t_ManuallyCreateSecurityIncident.md) or open an existing one if you intend to attach new files to it.
+1.  [Create a new security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_ManuallyCreateSecurityIncident.md) or open an existing one if you intend to attach new files to it.
 
 2.  Select the paperclip icon in the form header and attach one or more files.
 
@@ -41,6 +41,6 @@ Role required: sn\_si.basic
 
     You can select the Lookup reference link to view detailed results.
 
-    ![Lookup request message](../image/LookupRequestFromSI.png)
+    ![Lookup request message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/LookupRequestFromSI.png)
 
 

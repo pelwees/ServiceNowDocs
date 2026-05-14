@@ -129,11 +129,11 @@ Option to show or hide component notifications.By default, it shows notification
 </table>**Related topics**  
 
 
-[Configure the Case create component instance](../task/config-case-create-component-on-instance.md)
+[Configure the Case create component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-case-create-component-on-instance.md)
 
-[Embed the Case create component instance on the third-party website](../task/embed-case-create-component-on-third-party-website.md)
+[Embed the Case create component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-case-create-component-on-third-party-website.md)
 
-[Event handlers in the Case create component](we-case-create-event-handlers.md)
+[Event handlers in the Case create component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-event-handlers.md)
 
-[Sample code for the Case create component](we-case-create-sample-code.md)
+[Sample code for the Case create component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-sample-code.md)
 

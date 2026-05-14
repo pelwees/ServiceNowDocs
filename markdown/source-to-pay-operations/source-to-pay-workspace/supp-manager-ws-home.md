@@ -17,7 +17,7 @@ As a supplier manager, view a snapshot of your assigned supplier cases and tasks
 
 As a Supplier Manager \[sn\_slm.manager\] or Supplier Fulfiller \[sn\_slm.fulfiller\], you can use the landing page to create a new case, task, and supplier. You can also manage suppliers, view cases and tasks that are assigned to you.
 
-For a detailed analysis on each component, select the respective widget or chart. Select the Refresh icon \( ![Refresh icon.](../image/refresh-icon.png)\) to view the latest data. Select the Edit columns icon \(![Edit columns icon.](../image/edit-columns-icon.png)\) to add or remove columns in the list and to display the columns in the order you choose.
+For a detailed analysis on each component, select the respective widget or chart. Select the Refresh icon \( ![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../image/refresh-icon.png)\) to view the latest data. Select the Edit columns icon \(![Edit columns icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../image/edit-columns-icon.png)\) to add or remove columns in the list and to display the columns in the order you choose.
 
 ## Components in the Source-to-Pay Workspace
 
@@ -354,14 +354,14 @@ Create task
 
 You can configure the landing page using UI Builder, define different audiences for the landing page, and even add, remove, or modify the different content, if you want. However, it’s recommended that you create a duplicate of the landing page before modifying it. For detailed information on how to configure using UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
-**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+**Parent Topic:**[Source-to-Pay Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SPO landing page](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[SPO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
 
-[APO landing page](../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
+[APO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
 
-[POM landing page](../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
+[POM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
 

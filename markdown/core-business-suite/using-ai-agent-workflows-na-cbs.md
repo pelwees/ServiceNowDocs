@@ -54,5 +54,5 @@ The following AI agents are used to support the conversational setup process for
 
 For more information on the AI agents, see [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md).
 
-**Parent Topic:**[Now Assist for Core Business Suite](now-assist-cbs.md)
+**Parent Topic:**[Now Assist for Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/now-assist-cbs.md)
 

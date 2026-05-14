@@ -94,5 +94,5 @@ The activity state tells the workflow engine what to do with the activity.
 |Finished|The activity finished running. See the result value for the outcome of the activity.|
 |Cancelled|This activity, or the workflow that contains this activity, was canceled.|
 
-**Parent Topic:**[Workflow notification activities](../concept/c_NotificationActivities.md)
+**Parent Topic:**[Workflow notification activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_NotificationActivities.md)
 

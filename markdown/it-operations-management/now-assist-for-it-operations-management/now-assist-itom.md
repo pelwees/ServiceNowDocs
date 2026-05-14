@@ -33,15 +33,15 @@ For information about AI assets that are available on the ServiceNow AI Platform
 
 <table id="table_arj_d2f_l1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for ITOM](alert-summary-now-assist.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for ITOM](alert-summary-now-assist.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITOM application to get started](now-assist-itom-configure.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITOM application to get started](now-assist-itom-configure.md)
 
 </td><td>
 
-[Use generative AI![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for ITOM](now-assist-itom-use.md)
+[Use generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for ITOM](now-assist-itom-use.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ For information about AI assets that are available on the ServiceNow AI Platform
 
 </td><td>
 
-[Use agentic AI![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for ITOM](now-assist-itom-ai-agent-workflows.md)
+[Use agentic AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for ITOM](now-assist-itom-ai-agent-workflows.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Dependencies
 
-For a list of Otto for ITOM plugin dependencies, see [Applications installed with Now Assist for ITOM](../reference/app-now-assist-itom.md).
+For a list of Otto for ITOM plugin dependencies, see [Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../reference/app-now-assist-itom.md).
 
 ## Troubleshoot and get help
 
@@ -96,5 +96,5 @@ For more information, see the [Now Assist documentation](https://raw.githubuserc
 **Related topics**  
 
 
-[Explore Now Assist for ITOM](alert-summary-now-assist.md)
+[Explore Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summary-now-assist.md)
 

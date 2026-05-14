@@ -233,5 +233,5 @@ When enabled, the manager receives a notification that the adjuster has submitte
  When disabled, the approval request goes directly to a manager who has the approval authority for the amount.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Insurance Claims Core](insurance-claims-core-data-model.md)
+</table>**Parent Topic:**[Insurance Claims Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-data-model.md)
 

@@ -31,11 +31,11 @@ On the task cards and agent cards, the administrator has to configure what field
 
 3.  Customize the information to be presented on the card.
 
-    -   For task cards, select Settings icon \(![Settings icon.](../image/IconPersonalizeList.png)\) and then select the **Tasks** tab.
-    -   For agent cards, select Settings icon \(![Settings icon.](../image/IconPersonalizeList.png)\) and then select the **Resources** tab.
+    -   For task cards, select Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/IconPersonalizeList.png)\) and then select the **Tasks** tab.
+    -   For agent cards, select Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/IconPersonalizeList.png)\) and then select the **Resources** tab.
 4.  Enable or disable the fields in the Settings dialog box.
 
-    For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+    For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 5.  Select **Save**.
 

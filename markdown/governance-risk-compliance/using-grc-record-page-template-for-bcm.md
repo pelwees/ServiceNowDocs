@@ -17,7 +17,7 @@ With standard record page migration, you can configure consistent styling and a 
 
 A record in the BCM application with the GRC record template is shown in the example.
 
-![Header of a record page.](../image/bcm-record-with-record-template.png)
+![Header of a record page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-record-with-record-template.png)
 
 **Note:** If you are upgrading to the version 17.x apps, you can also revert to the previous record page.
 
@@ -25,8 +25,8 @@ A record in the BCM application with the GRC record template is shown in the exa
 
 The stepper component on the **Overview** tab shows the progression of the states for the record.
 
--   **[Stepper component in the Overview tab of the records](stepper-component.md)**  
+-   **[Stepper component in the Overview tab of the records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/stepper-component.md)**  
 The stepper component on the **Overview** tab shows the progression of the states for the record.
 
-**Parent Topic:**[BCM reference](../reference/bcm-reference.md)
+**Parent Topic:**[BCM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/bcm-reference.md)
 

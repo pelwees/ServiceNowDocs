@@ -66,8 +66,8 @@ It’s useful for the exception approver to understand the reason for requesting
 8.  Select **Save**.
 
 
--   **[Request an exception using GRC: Policy and Compliance Management](sem-integration-with-grc.md)**  
+-   **[Request an exception using GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-integration-with-grc.md)**  
 Request policy exceptions using the GRC policy exception management capability in the Policy and Compliance Management application from within Vulnerability Response.
--   **[Specify the duration of an exception requested for a remediation task](sem-ex-req-sysprop.md)**  
+-   **[Specify the duration of an exception requested for a remediation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ex-req-sysprop.md)**  
 Use system properties to limit the duration for which an exception is requested for a remediation task. Remediation of the remediation task is deferred for the specified period.
 

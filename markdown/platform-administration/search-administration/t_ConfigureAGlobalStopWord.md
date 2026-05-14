@@ -29,17 +29,17 @@ Role required: ts\_admin or admin
 
     You must regenerate indexes whenever words may be missing from an index. For example, if you delete, inactivate, or change an active global stop word, the word may be missing from the index. An after business rule checks these conditions and generates the notification message when index regeneration is necessary.
 
-    ![Notification to regenerate all indexes after removing a stop word.](../image/NotificationToRegenerateAllIndexes.png)
+    ![Notification to regenerate all indexes after removing a stop word.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/NotificationToRegenerateAllIndexes.png)
 
 
-**Parent Topic:**[Zing removes stop words from queries](../concept/stop-words-removed-from-queries.md)
+**Parent Topic:**[Zing removes stop words from queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/stop-words-removed-from-queries.md)
 
 **Related topics**  
 
 
-[Configure a table-specific stop word](t_ConfigureATableSpecificStopWord.md)
+[Configure a table-specific stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureATableSpecificStopWord.md)
 
-[Enable automatic stop words for a table](t_ConfigureAnAutomaticStopWord.md)
+[Enable automatic stop words for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAnAutomaticStopWord.md)
 
-[Disable a stop word in Zing](disable-stop-word-zing.md)
+[Disable a stop word in Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/disable-stop-word-zing.md)
 

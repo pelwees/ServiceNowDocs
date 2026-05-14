@@ -19,13 +19,13 @@ The usefulness of fields lies in their ability to structure data collection, mak
 
 In CPQ, fields are global. This means a field may be reused in any blueprint, rule, or layout without having to create a unique field for each.
 
--   [Layouts](layout_csv_101.md)
+-   [Layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
     -   Fields are the most granular component that make up a layout. A layout consists of many fields arranged into a navigational flow or page.
     -   Tabs, expandable sections, column sets, field grids, and headings provide additional organization to the fields in a configuration experience.
--   [Rules](rules_101.md)
+-   [Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rules_101.md)
     -   Rules leverage fields as inputs to conditions, calculations, and logic.
     -   Rules act on fields. A rule may determine the value of a field, display a message associated with a field, hide a field, control the options available in a field, and send the information in a field to the Product List, all in the same rule.
--   [Blueprints](blueprints_101.md)
+-   [Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
     -   Because fields are global across an environment, the only way for them to be a part of a specific configuration is to be associated with a blueprint.
     -   When all of the fields referenced by a rule are associated with a blueprint, the rule is associated with the blueprint without the need to specify it.
     -   When a field is associated with a blueprint, the field can be added to the layouts of the blueprint.
@@ -42,31 +42,31 @@ Because fields are global across an environment, all fields need a unique variab
 
 Text fields accept any characters entered into the field up to 2000 characters. The field definition allows the admin to specify minimum and maximum field lengths and a static default value.
 
-![Activities screen](../images/cpq-text-field-options.png)
+![Activities screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-text-field-options.png)
 
 Numbers fields accept only numeric characters in their fields. The field definition requires the admin to specify whether the field will be used as a number, currency, or percentage. Optional settings include minimum and maximum values and a default value. The unit label setting is not currently used in the application.
 
-![Admin screen](../images/cpq-number-field-options.png)
+![Admin screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-number-field-options.png)
 
 To specify the display precision of a numeric value, in the CPQ layout, click the gear icon in the number field. Then, set the precision in the Display Precision field.
 
-![Field properties](../images/cpq-layout-field-properties-with-precision.png)
+![Field properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-field-properties-with-precision.png)
 
 Boolean fields accept only two values: true and false. The field definition allows the admin to specify a true label, a false label, and a default value. Unless specified, the default true label is Enabled and the default false label is Disabled. The default state is false.
 
-![A toggle switch with two options, “Enabled” and “Disabled,” showing a Boolean field set to False by default.](../images/cpq-fields-boolean.png)
+![A toggle switch with two options, “Enabled” and “Disabled,” showing a Boolean field set to False by default.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-boolean.png)
 
 Picklists are fields that only allow specified options to be selected, such as catalog items. When defining the field, the admin must specify whether the field is single-select, where the user must select one value, or multi-select, where the user can select as many values as desired. If the field is single-select, the admin must also specify whether the option values should be evaluated as a text field or a number field. The admin can also add field options, set an order, or a default value or values, and add picklist extension data if necessary.
 
-![Picklist](../images/cpq-fields-picklist.png)
+![Picklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-picklist.png)
 
 A product picker is like a picklist with extended data. product pickers can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard rules.
 
-![Picklist picker](../images/cpq-fields-product-picker.png)
+![Picklist picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-product-picker.png)
 
 A set is a collection of fields that interacts only with the fields in their own row and column.
 
-![Blueprint fields](../images/cpq-fields-sets.png)
+![Blueprint fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-sets.png)
 
 ## Sample blueprint showing field options and display variations
 
@@ -77,11 +77,11 @@ The following blueprint includes all the different field options and display var
 **Related topics**  
 
 
-[CPQ fields, system fields, and partner fields](system_fields_vs_partner_fields.md)
+[CPQ fields, system fields, and partner fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/system_fields_vs_partner_fields.md)
 
-[Field type display options](field-type-display-options.md)
+[Field type display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/field-type-display-options.md)
 
-[Grid-style fields and field collections](what_field_type_should_i_use_for_organizing_field_options_and_data.md)
+[Grid-style fields and field collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/what_field_type_should_i_use_for_organizing_field_options_and_data.md)
 
-[Boundaries and limits](boundaries-and-limits.md)
+[Boundaries and limits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/boundaries-and-limits.md)
 

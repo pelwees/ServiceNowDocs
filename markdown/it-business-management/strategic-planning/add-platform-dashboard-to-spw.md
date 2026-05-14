@@ -37,7 +37,7 @@ You can add any Platform Analytics dashboard to Strategic Planning Workspace.
 
 3.  From the dashboard header, select **Edit**.
 
-4.  From the dashboard header, select the View dashboard details icon \(![View dashboard details icon.](../Images/view-dashboard-details-icon-spw.png)\).
+4.  From the dashboard header, select the View dashboard details icon \(![View dashboard details icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/view-dashboard-details-icon-spw.png)\).
 
     1.  In the Details side panel, fill in the **Dashboard visibility** field with Strategic Planning Workspace.
 
@@ -50,16 +50,16 @@ You can add any Platform Analytics dashboard to Strategic Planning Workspace.
 
 The dashboard appears in the Strategic Planning Workspace.
 
-**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](../concept/using-dashboards-spw.md)
+**Parent Topic:**[Using Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/using-dashboards-spw.md)
 
 **Related topics**  
 
 
-[View a dashboard](view-dashboard-spw.md)
+[View a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/view-dashboard-spw.md)
 
-[Create a dashboard](create-dashboard-spw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-dashboard-spw.md)
 
-[Duplicate a dashboard](copy-dashboard-spw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/copy-dashboard-spw.md)
 
-[Share a dashboard](share-dashboard-spw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/share-dashboard-spw.md)
 

@@ -30,5 +30,5 @@ A spoke is a scoped application containing Workflow Studio content dedicated to 
 |[FRISS Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/friss-spoke.md)|Detect fraud and assess risk by analyzing customer data, identifying suspicious activity, and triggering fraud alerts. Integrate these actions into your workflows to enhance fraud prevention.|\[com.sn\_friss\_spoke\]|
 |[Guidewire Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/guidewire-spoke.md)|Manage insurance operations by creating policies, updating claims, and retrieving billing information directly within flows.|\[com.sn\_guidewire\_spoke\]|
 
-**Parent Topic:**[Integrate applications](fso-integrate-other-applications.md)
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 

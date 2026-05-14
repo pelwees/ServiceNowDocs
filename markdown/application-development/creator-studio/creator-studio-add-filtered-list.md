@@ -33,11 +33,11 @@ To add a list to a workspace configuration, you must be given permission to work
 
     If you tested submitting a record using the **Try it** button, the workspace displays the generated records that you can view.
 
-    ![Customize the workspace in the List configurations section](../image/crs-list-configs-whole.png "List configurations in Creator Studio")
+    ![Customize the workspace in the List configurations section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-list-configs-whole.png "List configurations in Creator Studio")
 
 4.  Select **Add a filtered list**.
 
-    ![Adding a filtered list details](../image/cs-new-filtered-list.png "Add a filtered list")
+    ![Adding a filtered list details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-new-filtered-list.png "Add a filtered list")
 
 5.  Enter a **Name** for the new list in the modal that appears.
 
@@ -72,5 +72,5 @@ To add a list to a workspace configuration, you must be given permission to work
 
 Your new list will appear in the Request App Workspace after your admin deploys it!
 
-**Parent Topic:**[Configuring workspace lists and records for form submissions](../concept/creator-studio-form-submissions-workspace-about.md)
+**Parent Topic:**[Configuring workspace lists and records for form submissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-form-submissions-workspace-about.md)
 

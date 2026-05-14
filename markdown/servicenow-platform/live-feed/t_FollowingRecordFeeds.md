@@ -26,5 +26,5 @@ Role required: none
 2.  Click the **Show on Live Feed** icon in the header.
 
 
-**Parent Topic:**[Working with record feeds](../concept/c_WorkingWithRecordFeeds.md)
+**Parent Topic:**[Working with record feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_WorkingWithRecordFeeds.md)
 

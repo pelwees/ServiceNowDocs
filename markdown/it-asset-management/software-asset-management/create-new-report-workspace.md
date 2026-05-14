@@ -29,13 +29,13 @@ All the base system Software Asset Management reports and the custom created rep
 
 2.  In the License usage view, select the **Reports** tab.
 
-    ![Reports tab](../image/reportstab-workspace.png)
+    ![Reports tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/reportstab-workspace.png)
 
 3.  Select **Manage Reports**.
 
 4.  In the Reports list view page, select **New**.
 
-    ![Create a new report](../image/create-report-workspace.png "Create New SAM Workbench Report form")
+    ![Create a new report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/create-report-workspace.png "Create New SAM Workbench Report form")
 
 5.  On the form, fill in the fields.
 
@@ -54,5 +54,5 @@ All the base system Software Asset Management reports and the custom created rep
     The new report tile appears on the Reports tab. You may need to reload the Reports tab to see the new report tile.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

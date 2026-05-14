@@ -57,5 +57,5 @@ Role required:
 12. To delete a list, with the list displayed, select the gear icon on the upper right of the page.
 
 
-**Parent Topic:**[Use the List view in the Security Exposure Management Workspace](sem-ws-list-view.md)
+**Parent Topic:**[Use the List view in the Security Exposure Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ws-list-view.md)
 

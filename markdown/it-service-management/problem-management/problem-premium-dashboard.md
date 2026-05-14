@@ -17,17 +17,17 @@ This dashboard uses advanced features such as interactive filters and workbench 
 
 **Important:**
 
-Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/performance-analytics/problem.md) to view, and track the open problems.
 
-![Process by Age tab](../image/problem-premium-process-age.png "Process by Age tab")
+![Process by Age tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-premium-process-age.png "Process by Age tab")
 
-![Problem premium dashboard overview tab](../image/problem-premium-overview.png "Overview tab")
+![Problem premium dashboard overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-premium-overview.png "Overview tab")
 
 **Note:** The Overview tab has the same contents as the Problem Overview dashboard.
 
-![Problem Premium dashboard Data Quality tab](../image/problem-premium-data-quality.png "Data Quality tab")
+![Problem Premium dashboard Data Quality tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-premium-data-quality.png "Data Quality tab")
 
-![Process KPIs for Problem Premium dashboard](../image/problem-premium-kpis.png "Process KPIs tab")
+![Process KPIs for Problem Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-premium-kpis.png "Process KPIs tab")
 
 ## End user and roles
 
@@ -129,7 +129,7 @@ Critical open problems
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -141,7 +141,7 @@ Unassigned problems
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Overdue problems
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -165,7 +165,7 @@ Open problems
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -177,7 +177,7 @@ Problems not updated for 7 days
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -189,7 +189,7 @@ Open problems older than 30 days
 
 </td><td>
 
-Single Score ![single score icon](../../performance-analytics/image/single-score.png)
+Single Score ![single score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -201,7 +201,7 @@ Open problems - Grouped
 
 </td><td>
 
-Horizontal Bar ![Horizontal bar icon](../../performance-analytics/image/horizontal-bar.png)
+Horizontal Bar ![Horizontal bar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/horizontal-bar.png)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Open problems older than 30 days - Grouped
 
 </td><td>
 
-Horizontal Bar ![Horizontal bar icon](../../performance-analytics/image/horizontal-bar.png)
+Horizontal Bar ![Horizontal bar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/horizontal-bar.png)
 
 </td><td>
 
@@ -225,7 +225,7 @@ Problems by Priority and State
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -237,7 +237,7 @@ Open problems older than 30 days by Priority and State
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -249,7 +249,7 @@ Open problems not updated in last 30 days by assignment group
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -261,7 +261,7 @@ Problems Opened per Week
 
 </td><td>
 
-Line![line trend icon](../../../reuse/reporting/image/line-trend.svg)
+Line![line trend icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -273,7 +273,7 @@ Problems Closed per Week
 
 </td><td>
 
-Line![line trend icon](../../../reuse/reporting/image/line-trend.svg)
+Line![line trend icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -285,7 +285,7 @@ Open Problems Where Assignee Is Not Active
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
@@ -297,7 +297,7 @@ Problems Pending a Change Request that is Already Closed
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 

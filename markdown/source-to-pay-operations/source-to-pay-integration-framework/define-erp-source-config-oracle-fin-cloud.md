@@ -50,7 +50,7 @@ Each ERP instance requires a unique ERP source configuration. Therefore, 10 ERP 
         |Active|Option to activate the ERP source.|
         |Amount Precisions|Amount precision of the ERP source. For example, 2.|
 
-        ![Define a new ERP source configuration](../../source-to-pay-operations/image/oracle-fin-new-erp-source.png "Define a new ERP source configuration")
+        ![Define a new ERP source configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-fin-new-erp-source.png "Define a new ERP source configuration")
 
     3.  Select **Submit**.
 

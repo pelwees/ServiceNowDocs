@@ -110,5 +110,5 @@ The Now Assist Case in form portal is now configured and available for use.
 **Related topics**  
 
 
-[Using Now Assist in portal case form](../concept/using-ai-search-with-q-a-within-the-portal-form.md)
+[Using Now Assist in portal case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/using-ai-search-with-q-a-within-the-portal-form.md)
 

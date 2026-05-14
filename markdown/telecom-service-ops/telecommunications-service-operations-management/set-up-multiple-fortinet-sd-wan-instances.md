@@ -21,7 +21,7 @@ Verify the following:
 
 -   The active application scope is Service Graph Connector \(SGC\) for Fortinet.
 -   The SGC for Fortinet has been installed.
--   The initial Fortinet instance has been set up. For more information, see [Set up the Service Graph Connector for Fortinet schedule](set-up-fortinet-sd-wan.md).
+-   The initial Fortinet instance has been set up. For more information, see [Set up the Service Graph Connector for Fortinet schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-fortinet-sd-wan.md).
 -   The associated MID Server has been set up and validated. For more information, see [Configuring MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md).
 
 Role required: TSOM Visibility admin
@@ -94,7 +94,7 @@ You can configure additional Fortinet instances or reuse the same Fortinet insta
 
     1.  Select **Configure** and fill in the fields.
 
-        For more information, see [Set up the Service Graph Connector for Fortinet schedule](set-up-fortinet-sd-wan.md).
+        For more information, see [Set up the Service Graph Connector for Fortinet schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-fortinet-sd-wan.md).
 
     2.  In the **Use connection** field, choose the new Fortinet instance.
 

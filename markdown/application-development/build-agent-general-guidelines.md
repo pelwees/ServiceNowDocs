@@ -27,5 +27,5 @@ To maximize Build Agent effectiveness, use the following practices:
 -   Maintain documentation: Keep clear rules and documentation in project folders; use Build Agent to create Knowledge Base articles.
 -   Iterate and experiment: Prototype freely and ask Build Agent for optimal prompts once your vision is complete.
 
-**Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
+**Parent Topic:**[Exploring Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-build-agent.md)
 

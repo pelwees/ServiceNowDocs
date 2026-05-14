@@ -40,5 +40,5 @@ The new document is renamed and includes the word "Copy".
 
 **Note:** Only the latest revision is copied.
 
-**Parent Topic:**[Create a document](../concept/c_CreateADocument.md)
+**Parent Topic:**[Create a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_CreateADocument.md)
 

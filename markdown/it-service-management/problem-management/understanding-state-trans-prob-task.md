@@ -24,11 +24,11 @@ By default, you can create the following types of tasks:
 -   **Root Cause Analysis**: When you need to investigate the root cause and the resolution for a problem
 -   **General**: For any other task
 
-![Diagram describing how a problem task transitions from one state to another state](../image/pm-task-state-transitions.png "Problem task state transitions")
+![Diagram describing how a problem task transitions from one state to another state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-task-state-transitions.png "Problem task state transitions")
 
 **Note:**
 
-You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](problem-mgmt-models.md).
+You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
 
-**Parent Topic:**[Problem Management process](c_ProblemManagementProcess.md)
+**Parent Topic:**[Problem Management process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagementProcess.md)
 

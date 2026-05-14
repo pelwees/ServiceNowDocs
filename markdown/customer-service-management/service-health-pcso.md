@@ -58,9 +58,9 @@ This feature requires the Proactive Customer Service Operations with Event Manag
 **Related topics**  
 
 
-[Integration with Event Management](pcso-event-management.md)
+[Integration with Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/pcso-event-management.md)
 
-[Configure form views for Proactive Customer Service Operations](../task/configure-form-views.md)
+[Configure form views for Proactive Customer Service Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-form-views.md)
 
-[Track the service health of install base items in Agent Workspace](../task/service-health-tracking-csm.md)
+[Track the service health of install base items in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/service-health-tracking-csm.md)
 

@@ -351,5 +351,5 @@ Two connection and credential aliases are available along with the Vonage spoke:
 |VonagePrimary|Required for the actions that manage SMS, number, and account.|
 |Vonage|Required for the actions that manage calls and WhatsApp.|
 
-For information about setting up the spoke, see [Set up the Vonage spoke](../task/setup-vonage-spoke.md#).
+For information about setting up the spoke, see [Set up the Vonage spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-vonage-spoke.md#).
 

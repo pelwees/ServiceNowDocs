@@ -20,5 +20,5 @@ Learn about the fields on the export status report form on the Project Workspace
 |Report to export|Existing project status report that you want to export as PowerPoint.|
 |PowerPoint template|PowerPoint template to apply for your status report.|
 
-**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 

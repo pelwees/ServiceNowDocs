@@ -17,7 +17,7 @@ As an admin, you can create email notifications triggered by translation request
 
 ## Before you begin
 
-Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](../../notification/task/create-notification-categories.md).
+Create your own notification category to identify and group your notifications related to Localization Workspace translation projects. For instructions see [Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/create-notification-categories.md).
 
 Role required: admin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 From version 2.0.2, your users may set a due date when requesting translations in Localization Workspace. You can reference these due dates to send email notifications.
 
-For more information see [Request translations in Localization Workspace: Estimate and Due Date](lw-estimate.md). For background information about configuring email notifications, see [Create an email notification](../../notification/task/t_CreateANotification.md).
+For more information see [Request translations in Localization Workspace: Estimate and Due Date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-estimate.md). For background information about configuring email notifications, see [Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/t_CreateANotification.md).
 
 The following procedure is specific to notifications for Localization Workspace translation request due dates. In the example scenario, a notification is sent when a translation request is past due \(the request is still in progress after its due date\).
 
@@ -41,9 +41,9 @@ The following procedure is specific to notifications for Localization Workspace 
     |-----|-----------|
     |**Name**|Enter a unique, descriptive name for these notifications.|
     |**Table**|Select the Localization Project \[sn\_lf\_project\] table from the list of tables.|
-    |**Category**|If you have already set up your own category for these notifications, you can select it from the drop-down list. For information see [Create notification categories](../../notification/task/create-notification-categories.md).|
+    |**Category**|If you have already set up your own category for these notifications, you can select it from the drop-down list. For information see [Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/create-notification-categories.md).|
 
-    ![An email notification form with the Table field set to Localization Project. Includes a reminder to preconfigure the notification Category.](../image/lw-email-notif-due-dates-main.png)
+    ![An email notification form with the Table field set to Localization Project. Includes a reminder to preconfigure the notification Category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-email-notif-due-dates-main.png)
 
 4.  On the **When to send** tab, fill in the fields.
 
@@ -90,7 +90,7 @@ In the example, two conditions are set:1.  `State is In Progress`
 
 
 </td></tr></tbody>
-</table>    ![The When to send tab of the email notification form. Two example conditions are highlighted.](../image/lw-email-notif-due-dates-when.png)
+</table>    ![The When to send tab of the email notification form. Two example conditions are highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-email-notif-due-dates-when.png)
 
 5.  On the **Who will receive** tab, fill in the fields according to your organizational requirements.
 
@@ -180,9 +180,9 @@ You can use variables from the Localization Project \[sn\_lf\_project\] table, a
 
 After creating or updating a notification, review its record in the Notifications \[sysevent\_email\_action\] table. You can select **Preview Notification** to open an example of the email notification. Use this function to confirm how the notification appears to recipients.
 
-![In the top menu bar of the example's notification form, the Preview Notification button is highlighted.](../image/lw-email-notif-due-dates-preview.png)
+![In the top menu bar of the example's notification form, the Preview Notification button is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-email-notif-due-dates-preview.png)
 
-For more information, see [Preview email notifications](../../notification/task/t_PreviewingNotifications.md).
+For more information, see [Preview email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../notification/task/t_PreviewingNotifications.md).
 
-**Parent Topic:**[Creating email notifications for Localization Workspace](../concept/lw-email-notifications.md)
+**Parent Topic:**[Creating email notifications for Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/lw-email-notifications.md)
 

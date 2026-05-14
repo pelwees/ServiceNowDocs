@@ -53,7 +53,7 @@ Role required: discovery\_admin
 
 ## What to do next
 
-Create OCI service accounts. For more information, see [Create OCI service accounts](create-oci-service-accounts.md).
+Create OCI service accounts. For more information, see [Create OCI service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-oci-service-accounts.md).
 
-**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](../concept/set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
+**Parent Topic:**[Set up Oracle Cloud infrastructure \(OCI\) service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/set-up-oracle-cloud-infrastructure-oci-service-accounts.md)
 

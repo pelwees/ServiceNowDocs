@@ -30,5 +30,5 @@ Role required: personalize\_dictionary
     If there are multiple attributes, use a comma to separate them without any spaces between.
 
 
-**Parent Topic:**[Tree picker](../concept/c_TreePicker.md)
+**Parent Topic:**[Tree picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_TreePicker.md)
 

@@ -15,7 +15,7 @@ Create and use an activity to provide modularity to an automation project in RPA
 
 ## Before you begin
 
-Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 
 Role required: none
 
@@ -29,7 +29,7 @@ Each activity contains two components by default: Start and End. These component
 
 You can reuse each activity multiple times within the same automation project by dragging the activity to the Design surface. You can also import activities in different automation projects.
 
-To create an activity using Now Assist, see [Create an activity with Now Assist](create-activity-now-assist.md).
+To create an activity using Now Assist, see [Create an activity with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-activity-now-assist.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ To create an activity using Now Assist, see [Create an activity with Now Assist]
 
     The Activities section lists all the activities that are created under each project. By default, a Main activity is created when a new project is initiated. The automation execution starts from the startup activity, in this case, Main activity as shown in the following example.
 
-    ![Main activity is created when a new project is initiated.](../image/main-activity-proj-exp.png)
+    ![Main activity is created when a new project is initiated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/main-activity-proj-exp.png)
 
 2.  Do any of the following options for a desired action.
 
@@ -63,10 +63,10 @@ Right-click **Activities** in the Project Explorer pane and select **New Activit
 
 </td><td>
 
-Right-click **Activities** in the Project Explorer pane and select **New activity using Now Assist**. For more information, see [Create an activity with Now Assist](create-activity-now-assist.md).To access the Now Assist for RPA Hub feature in RPA Desktop Design Studio, perform the following steps:
+Right-click **Activities** in the Project Explorer pane and select **New activity using Now Assist**. For more information, see [Create an activity with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-activity-now-assist.md).To access the Now Assist for RPA Hub feature in RPA Desktop Design Studio, perform the following steps:
 
--   Install the Now Assist for RPA Hub application to add the generative AI capability. For more information, see [Configure Now Assist for RPA Hub](configure-now-assist-rpa-hub.md).
--   Turn on the RPA bot generation skill to use the generative AI capability. For more information, see [Turn on the RPA bot generation skill](turn-rpa-bot-generation-skill.md).
+-   Install the Now Assist for RPA Hub application to add the generative AI capability. For more information, see [Configure Now Assist for RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-now-assist-rpa-hub.md).
+-   Turn on the RPA bot generation skill to use the generative AI capability. For more information, see [Turn on the RPA bot generation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/turn-rpa-bot-generation-skill.md).
 -   After activating the RPA bot generation skill, relaunch the RPA Desktop Design Studio application to apply the modified settings.
 If you skip these steps, the Now Assist for RPA Hub feature doesn’t appear in RPA Desktop Design Studio.
 
@@ -86,7 +86,7 @@ Do one of the following actions:-   In the Project Explorer pane, right-click th
 
 </td><td>
 
-Click the plus icon \(![Plus icon.](../image/add-image-icon.png)\) on the Start component.When you drag this activity into another activity, the input parameters appear as Data Input ports.
+Click the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) on the Start component.When you drag this activity into another activity, the input parameters appear as Data Input ports.
 
 </td></tr><tr><td id="d492843e292">
 
@@ -94,7 +94,7 @@ Click the plus icon \(![Plus icon.](../image/add-image-icon.png)\) on the Start 
 
 </td><td>
 
-Click the plus icon \(![Plus icon.](../image/add-image-icon.png)\) on the End component.When you drag this activity in another activity, the output parameters appear as Data Output ports.
+Click the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) on the End component.When you drag this activity in another activity, the output parameters appear as Data Output ports.
 
 </td></tr><tr><td id="d492843e310">
 
@@ -128,7 +128,7 @@ Drag the activity to the desired Design surface of the activity.
 
 </td><td>
 
-Perform the steps in the [Import project in RPA Desktop Design Studio](import-project-activities.md).
+Perform the steps in the [Import project in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/import-project-activities.md).
 
 </td></tr><tr><td id="d492843e371">
 
@@ -181,9 +181,9 @@ Do the following:1.  Delete all the references that are used in other activities
 
 Right-click the desired activity in the Project Explorer pane and select **Source Control**. The COMPARE PROCESSES dialog box appears and the changes are highlighted as shown in the following example.
 
- ![Compare Processes dialog box.](../image/source-control-activity.png "Compare Processes dialog box")
+ ![Compare Processes dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/source-control-activity.png "Compare Processes dialog box")
 
- For more information, see [Resolve conflicts when merging changes from multiple sources of the same activity](source-control-rpa-studio.md).
+ For more information, see [Resolve conflicts when merging changes from multiple sources of the same activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/source-control-rpa-studio.md).
 
 </td></tr><tr><td id="d492843e500">
 
@@ -193,7 +193,7 @@ Right-click the desired activity in the Project Explorer pane and select **Sourc
 
 Do the following:1.  Consolidate all the activities in a single Main activity and arrange them in the execution order to execute the entire automation, as shown in the following example.
 
-![Consolidate Test 1 and Test 2 activities in a single Main activity.](../image/tes1-test2-activities.png "Consolidate Test 1 and Test 2 activities in a single Main activity")
+![Consolidate Test 1 and Test 2 activities in a single Main activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/tes1-test2-activities.png "Consolidate Test 1 and Test 2 activities in a single Main activity")
 
 2.  Click **Run** under the **Design** tab to execute the entire automation designed in these two activities.
 
@@ -215,12 +215,12 @@ In this example, the Main activity is marked as startup, which executes the Test
         -   If the port names are the same and the port data types are different, then the data connections are created only if the port data type is can be converted \(the source port data must be converted to target data type. This is known as typecasting or type conversion. For more information on type casting, see [Java Type Casting](https://www.w3schools.com/java/java_type_casting.asp)\). For example, integer to object but not object to integer.
         -   If the port names are the same and the port data type can be converted, but there is already an existing data connection between the two components, then no new data connection is created.
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Handle errors in RPA Desktop Design Studio](error-handling-rpa-studio.md)
+[Handle errors in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/error-handling-rpa-studio.md)
 
-[Create and use a variable in RPA Desktop Design Studio](configure-variables-rpa-studio.md)
+[Create and use a variable in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-variables-rpa-studio.md)
 

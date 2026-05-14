@@ -60,5 +60,5 @@ A list of work orders is automatically generated for the selected schedule occur
 **Related topics**  
 
 
-[Associate a work order template to a work schedule](associate-work-schedule-to-wotemplate.md)
+[Associate a work order template to a work schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/associate-work-schedule-to-wotemplate.md)
 

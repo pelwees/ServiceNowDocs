@@ -18,7 +18,7 @@ Viewing metrics enables you to understand historical data related to an alert's 
 ## Before you begin
 
 -   Ensure that you install the Operational Intelligence \(com.snc.sa.metric\) plugin.
--   Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](../../service-operations-workspace-itom/task/configure-alert-metrics-itom.md).
+-   Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/task/configure-alert-metrics-itom.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_admin
 
     The configured metrics appear on the page.
 
-    ![Metrics subtab](../image/alert-metrics-new.png)
+    ![Metrics subtab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/alert-metrics-new.png)
 
     To customize the metrics display, configure the following properties on the **System Properties** &gt; **All Properties** page:
 
@@ -54,5 +54,5 @@ Role required: evt\_mgmt\_admin
 **Related topics**  
 
 
-[View metric values in the Insights Explorer](view-metrics-explorer.md)
+[View metric values in the Insights Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-metrics-explorer.md)
 

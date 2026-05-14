@@ -46,5 +46,5 @@ The AI Agent for Health and safety \[sn\_hs\_ai\_agents\] plugin associated with
 
 To access AI agents in the Now Assist panel, you must enable the panel. See [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-**Parent Topic:**[Configure Now Assist AI agents for Health and Safety](../concept/ai-agents-now-assist-hs-configuring.md)
+**Parent Topic:**[Configure Now Assist AI agents for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../concept/ai-agents-now-assist-hs-configuring.md)
 

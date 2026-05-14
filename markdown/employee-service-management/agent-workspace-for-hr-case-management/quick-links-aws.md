@@ -17,7 +17,7 @@ Configure quick links to quickly access internal and external resources related 
 
 ## Before you begin
 
-Employee Center Pro must be installed. For more information, see [Install Employee Center Pro](../../employee-center/task/install-ec-pro.md).
+Employee Center Pro must be installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../employee-center/task/install-ec-pro.md).
 
 Role required: sn\_hr\_agent\_ws.admin and sn\_hr\_core.basic
 
@@ -175,23 +175,23 @@ Final date the content is valid.
 
     3.  Select your landing page variant.
 
-    4.  In the left pane, select the data icon \(![Data icon](../image/data-icon.png)\).![Data tab](../image/data-icon-aws.png)
+    4.  In the left pane, select the data icon \(![Data icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/data-icon.png)\).![Data tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/data-icon-aws.png)
 
-    5.  Select **getQuickLinksContent**.![Get quick links panel](../image/get-quick-links.png)
+    5.  Select **getQuickLinksContent**.![Get quick links panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/get-quick-links.png)
 
     6.  In the **content\_id** field, enter the name given to the Content group.
 
     7.  Select **Save**.
 
 
-**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](../concept/uib-aws.md)
+**Parent Topic:**[UI Builder for Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/uib-aws.md)
 
 **Related topics**  
 
 
-[Create a landing page variant](configure-report-aws.md)
+[Create a landing page variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configure-report-aws.md)
 
-[Enable a detailed data display within a report](drill-down-report.md)
+[Enable a detailed data display within a report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/drill-down-report.md)
 
-[Reorder the navigation pane modules in HR Agent Workspace](reorder-pane-modules-aws.md)
+[Reorder the navigation pane modules in HR Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/reorder-pane-modules-aws.md)
 

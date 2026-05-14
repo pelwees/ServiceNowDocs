@@ -17,5 +17,5 @@ Enables you to display records from different tables with their related actions 
 
 Users can sort, filter, and take actions directly on the list. It also supports nested rows to show hierarchical relationships.
 
-![Object list component displaying different cases with their details in list format.](../image/we-object-list-comp-homepage.png "Object list component")
+![Object list component displaying different cases with their details in list format.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-object-list-comp-homepage.png "Object list component")
 

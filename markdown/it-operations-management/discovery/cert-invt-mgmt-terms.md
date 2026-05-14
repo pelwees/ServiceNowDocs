@@ -66,5 +66,5 @@ The Certificate Inventory Management glossary comprises a set of concise definit
     Installed: Shows where each discovered certificate is installed.
 
 
-**Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)
+**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 

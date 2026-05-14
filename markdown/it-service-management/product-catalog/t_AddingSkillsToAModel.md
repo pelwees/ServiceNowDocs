@@ -32,5 +32,5 @@ Role required: skill\_admin or model\_manager
 5.  Click **Save**.
 
 
-**Parent Topic:**[Models](../concept/c_Models.md)
+**Parent Topic:**[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_Models.md)
 

@@ -19,19 +19,19 @@ After a Secureworks CTP ticket has been ingested, a security incident is created
 
 A worknote is posted with details of the ticket that triggered the security incident.
 
-![Secureworks CTP: SIR Worknote](../image/secureworks-sir-worknote.gif)
+![Secureworks CTP: SIR Worknote](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-sir-worknote.gif)
 
 Click on the ticket link to navigate to the internal Secureworks Ticket to Task record. The **Click here** hyperlink takes you to the Secureworks CTP dashboard where you can view the ticket details.
 
 If you had selected the **Log work note for new ticket** option in the Ticket Aggregation Criteria as described in the Create Profile: Mapping page, a worknote is posted when the ticket is aggregated.
 
-![Secureworks CTP SIR Worknote aggregated](../image/secureworks-sir-worknote-aggregated.gif)
+![Secureworks CTP SIR Worknote aggregated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-sir-worknote-aggregated.gif)
 
 ## Aggregated tickets
 
 Click **Related Lists** &gt; **Secureworks Aggregated Tickets** to view the ticket aggregated to the security incident. Click the ticket hyperlink to view the ticket in the Secureworks CTP dashboard.
 
-![Secureworks CTP: SIR: Aggregated Tickets](../image/secureworks-sir-aggregated-tickets.gif)
+![Secureworks CTP: SIR: Aggregated Tickets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-sir-aggregated-tickets.gif)
 
 Create security incident: Select a ticket from the list, click the **Actions** menu and click **Create security incident**. This option creates a new security incident for the ticket and this ticket is de-aggregated from the parent security incident.
 
@@ -41,13 +41,13 @@ Delete ticket record: Select a ticket from the list, click the **Actions** menu 
 
 This shows the standard ticket fields and tracks changes to the tickets during every polling interval. This is helpful as you can view any ticket updates directly without navigating to the Secureworks CTP dashboard. Any changes to the values are displayed in the Previous Value and Current Value fields.
 
-![Secureworks CTP: SIR: Ticket Updates](../image/secureworks-sir-ticket-updates.gif)
+![Secureworks CTP: SIR: Ticket Updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-sir-ticket-updates.gif)
 
 ## Secureworks Recent Events
 
 Click the **Fetch Recent Secureworks Events** option under the **Related Links** to view the most recent Secureworks events.
 
-![Secureworks CTP: SIR: Recent Events](../image/secureworks-sir-recent-events.gif)
+![Secureworks CTP: SIR: Recent Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-sir-recent-events.gif)
 
 By default, a maximum number of 50 events will be displayed. You can modify this default setting in the Secureworks Integration Settings.
 

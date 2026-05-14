@@ -27,7 +27,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 2.  Select **New** to create a new reusable test.
 
-    ![Screenshots showing the reusable test form](../image/atf-reusable-test-form.png)
+    ![Screenshots showing the reusable test form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-reusable-test-form.png)
 
     The Reusable Test form shows up.
 
@@ -73,7 +73,7 @@ Category
 
 </td><td>
 
-The test step category in which the test shows up. ![Screenshot showing the reusable test step category](../image/atf-reusable-test-step-category.png)
+The test step category in which the test shows up. ![Screenshot showing the reusable test step category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-reusable-test-step-category.png)
 
 **Note:** If you leave this field empty, the test shows up under the Reusable Tests test category by default.
 
@@ -85,9 +85,9 @@ Description
 
 Description of the reusable test.**Note:** The description of the reusable test is displayed in the step creator modal.
 
-![Screenshot showing the reusable test description](../image/atf-reusable-test-description.png)
+![Screenshot showing the reusable test description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-reusable-test-description.png)
 
-See [Reusable Tests category](../reference/test-steps-reusable-tests-category.md) for more information.
+See [Reusable Tests category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/test-steps-reusable-tests-category.md) for more information.
 
 </td></tr></tbody>
 </table>4.  Select **Save** to create the reusable test.
@@ -97,5 +97,5 @@ See [Reusable Tests category](../reference/test-steps-reusable-tests-category.md
     **Note:** Reusable tests can’t run independently. They can run only when it becomes a part of another test. They also can’t be added to a test suite independently. They must be invoked in another test within a test suite.
 
 
-**Parent Topic:**[Reusable tests](../concept/atf-reuse-tests.md)
+**Parent Topic:**[Reusable tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-reuse-tests.md)
 

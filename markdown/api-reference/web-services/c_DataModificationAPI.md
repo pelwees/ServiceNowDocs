@@ -118,5 +118,5 @@ http://instance_name.service-now.com/incident.do?JSONv2&sysparm_action=deleteMul
 
 deletes all incident records where the `short_description` field contains the value "this was updated with python".
 
-**Parent Topic:**[JSONv2 web service](c_JSONv2WebService.md)
+**Parent Topic:**[JSONv2 web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_JSONv2WebService.md)
 

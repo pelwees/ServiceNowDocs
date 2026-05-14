@@ -26,5 +26,5 @@ Starting with Vulnerability Response v20.0, the Asset Type column is added in th
 
 **Note:** If you modify the value of the **sn\_sec\_cmn.unmatched\_cloud\_resource\_enabled** system property, ensure to delete unmatched configuration items on the previously targeted CI class, and reapply the lookup rules. To know more about how to delete the existing CIs and reapply CI lookup rules so that the new CIs are created in the right class, see [KB1533376](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1533376).
 
-**Parent Topic:**[Creating CIs using the Identification and Reconciliation engine](sem-ci-creation-using-IRE.md)
+**Parent Topic:**[Creating CIs using the Identification and Reconciliation engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ci-creation-using-IRE.md)
 

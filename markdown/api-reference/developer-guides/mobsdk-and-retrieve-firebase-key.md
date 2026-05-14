@@ -25,11 +25,11 @@ You must already have a Firebase account set up. For information on how to creat
 
 1.  From your Firebase account, select the configuration gear next to the **Project Overview** link on the left navigation bar, and then select **Project settings.**
 
-    ![Google Firebase configuration screen](../../image/mobsdk-firebase-config-screen.png)
+    ![Google Firebase configuration screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobsdk-firebase-config-screen.png)
 
 2.  From the Project settings page, select the **Cloud Messaging** tab.
 
-    ![Firebase Project setting - server key copy](../image/mobsdk-and-firebase_project_settings.png)
+    ![Firebase Project setting - server key copy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-and-firebase_project_settings.png)
 
 3.  Select and copy the Server key token.
 

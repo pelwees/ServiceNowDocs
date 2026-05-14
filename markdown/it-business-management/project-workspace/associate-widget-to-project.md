@@ -21,7 +21,7 @@ Classic Project Workspace is being prepared for future deprecation. It will be h
 
 ## Before you begin
 
-You should [configure a widget](configure-widget-project-financials.md) before you can associate it with the Project \[pm\_project\] table.
+You should [configure a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-widget-project-financials.md) before you can associate it with the Project \[pm\_project\] table.
 
 Role required: pps\_admin
 
@@ -93,5 +93,5 @@ Option to show the widget by default in the **Financials** tab.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure a widget for project financial metrics](configure-widget-project-financials.md)
+**Parent Topic:**[Configure a widget for project financial metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-widget-project-financials.md)
 

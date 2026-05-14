@@ -15,7 +15,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 Insert predefined content into the message body of emails that you send from the email client in the Source-to-Pay Workspace.
 
-You can use this feature to compose and send emails directly from a supplier case or a supplier task. To open the email client, select **Compose Email** from the more actions icon \(![More actions icon.](../image/more-actions-icon.png)\) from a supplier case or a supplier task. A draft email appears with pre-populated data in the **Cc** and **Subject** fields. The **Cc** field is auto-populated with the email address of the contact who opened the case. The **Subject** field is auto-populated with the case number and issue description.
+You can use this feature to compose and send emails directly from a supplier case or a supplier task. To open the email client, select **Compose Email** from the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/more-actions-icon.png)\) from a supplier case or a supplier task. A draft email appears with pre-populated data in the **Cc** and **Subject** fields. The **Cc** field is auto-populated with the email address of the contact who opened the case. The **Subject** field is auto-populated with the case number and issue description.
 
 ## Using quick messages
 
@@ -40,7 +40,7 @@ For more information on how to work with response templates, see [Create or modi
 
 ## Viewing draft emails
 
-After you save the emails as draft, you can view the draft emails by selecting the **Draft Emails** tab on the supplier case or supplier task. Alternatively, you can view the draft emails by selecting the list icon \(![List icon.](../image/cases-list-icon.png)\) and selecting the **Case Draft Emails** or **Task Draft Emails** sub-modules under the **Draft Emails** module.
+After you save the emails as draft, you can view the draft emails by selecting the **Draft Emails** tab on the supplier case or supplier task. Alternatively, you can view the draft emails by selecting the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and selecting the **Case Draft Emails** or **Task Draft Emails** sub-modules under the **Draft Emails** module.
 
 ## Emailed message in activity log
 
@@ -48,43 +48,43 @@ After your email is composed, sent, and received by the intended recipient, you 
 
 ## Email composer configuration
 
-To view the **Compose Email** option in the More Actions menu, and to view your emailed message in the activity log of a supplier case or supplier task in Source-to-Pay Workspace, ensure that you add the role required to access this feature in the User Interface Properties page. For more information, see [Configure access to the compose email feature](../task/config-access-compose-email.md).
+To view the **Compose Email** option in the More Actions menu, and to view your emailed message in the activity log of a supplier case or supplier task in Source-to-Pay Workspace, ensure that you add the role required to access this feature in the User Interface Properties page. For more information, see [Configure access to the compose email feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/config-access-compose-email.md).
 
--   **[Configure access to the compose email feature](../task/config-access-compose-email.md)**  
+-   **[Configure access to the compose email feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/config-access-compose-email.md)**  
 Configure the role required to access the compose email feature that enables you to send emails directly from a supplier case or supplier task in the Source-to-Pay Workspace.
--   **[Communicate using emails from the Source-to-Pay Workspace](../task/send-emails-slm-ws.md)**  
+-   **[Communicate using emails from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/send-emails-slm-ws.md)**  
 Compose and send emails directly from a supplier case or a supplier task in the Source-to-Pay Workspace.
 
-**Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
+**Parent Topic:**[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/new-supplier.md)
 
-[Manage supplier details](supp-ws-details-page.md)
+[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-ws-details-page.md)
 
-[Manage internal stakeholders](manage-internal-stakeholders.md)
+[Manage internal stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/manage-internal-stakeholders.md)
 
-[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
+[Manage supplier contacts from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-contacts-smw.md)
 
-[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 
-[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
+[Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/accept-chat-supp-ws.md)
 
-[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/interaction-mgmt-supplier-mgr-ws.md)
 
-[Overall supplier dashboard](overall-supplier-db.md)
+[Overall supplier dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enabling-emails-view-for-contacts.md)
 
-[Configure access to the compose email feature](../task/config-access-compose-email.md)
+[Configure access to the compose email feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/config-access-compose-email.md)
 
-[Communicate using emails from the Source-to-Pay Workspace](../task/send-emails-slm-ws.md)
+[Communicate using emails from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/send-emails-slm-ws.md)
 

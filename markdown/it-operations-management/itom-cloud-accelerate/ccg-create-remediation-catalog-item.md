@@ -107,7 +107,7 @@ Status of the catalog item.The copied catalog item is active by default.
 
     3.  Select the violation type.
 
-    4.  Select the save icon \(![Save icon.](../image/save-icon.png)\).
+    4.  Select the save icon \(![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../image/save-icon.png)\).
 
 8.  Update the &lt;Catalog item name&gt;\_Action to interact with the cloud resource.
 
@@ -135,7 +135,7 @@ Status of the catalog item.The copied catalog item is active by default.
 
     Cloud Configuration Governance uses the Integration Hub subflows to trigger the Integration Hub action and process the returned data.
 
-    1.  Navigate to the Workflow Studio home page by selecting the flow designer home icon \(![Flow Designer home icon.](../image/flow-designer-home.png)\).
+    1.  Navigate to the Workflow Studio home page by selecting the flow designer home icon \(![Flow Designer home icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../image/flow-designer-home.png)\).
 
     2.  Select the **Subflows** tab.
 
@@ -158,5 +158,5 @@ Status of the catalog item.The copied catalog item is active by default.
 
 ## What to do next
 
-Run the remediation action to fix the identified violation. For more information, see [Run remediation](ccg-run-remediation.md).
+Run the remediation action to fix the identified violation. For more information, see [Run remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
 

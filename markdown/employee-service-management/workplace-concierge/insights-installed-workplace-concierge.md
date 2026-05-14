@@ -65,12 +65,12 @@ Displays a message if the employee presence isn’t set to five days in the offi
 |Presence Calendar Insight|Displays the insight in the calendar week view.|
 |Presence Dashboard Insight|Displays the insight on the Presence dashboard.|
 
-**Parent Topic:**[Workplace Concierge - Components](../concept/workplace-concierge-references.md)
+**Parent Topic:**[Workplace Concierge - Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/workplace-concierge-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Concierge](components-installed-with-workplace-concierge.md)
+[Components installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/components-installed-with-workplace-concierge.md)
 
-[Properties installed with Workplace Concierge](properties-installed-with-workplace-concierge.md)
+[Properties installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md)
 

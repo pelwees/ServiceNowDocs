@@ -72,5 +72,5 @@ Opened for, Watch list
 
 If you are an existing user of HR Service Delivery on a release prior to San Diego, upgrade to Employee Center or Employee Center Pro or install the Employee Experience Foundation plugin from ServiceNow Store to start using these email notifications.
 
-**Parent Topic:**[HR notifications](HRNotifications.md)
+**Parent Topic:**[HR notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRNotifications.md)
 

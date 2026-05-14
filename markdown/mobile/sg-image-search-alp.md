@@ -38,5 +38,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configure photo search](sg-configure-image-search.md)
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 

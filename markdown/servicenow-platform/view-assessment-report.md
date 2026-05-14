@@ -30,5 +30,5 @@ The dashboard displays reports arranged in widgets. You can add new widgets to t
     For more information about working with dashboards, see [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md).
 
 
-**Parent Topic:**[View a metric result](t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 

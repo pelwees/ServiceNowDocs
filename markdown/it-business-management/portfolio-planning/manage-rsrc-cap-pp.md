@@ -17,8 +17,8 @@ Generate and view the total capacity of the resources with primary attributes. C
 
 ## Before you begin
 
-1.  Enable planning attributes for capacity planning. For more information, see [Enable planning attributes for capacity in Portfolio Planning](cp-enable-planning-attributes-pp.md).
-2.  Generate employee profiles for resources. For more information, see [Generate employee profiles for resources to work with capacity planning](gen-emp-profiles-cp-pp.md).
+1.  Enable planning attributes for capacity planning. For more information, see [Enable planning attributes for capacity in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/cp-enable-planning-attributes-pp.md).
+2.  Generate employee profiles for resources. For more information, see [Generate employee profiles for resources to work with capacity planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/gen-emp-profiles-cp-pp.md).
 
 Role required: sn\_align\_ws.spw\_capacity\_user
 
@@ -26,9 +26,9 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
 1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace**.
 
-2.  Select the **Manage resource capacity** option \(![Manage resource capacity option.](../../spw-capacity-planning/images/cp-manage-resource-capacity-icon.png)\).
+2.  Select the **Manage resource capacity** option \(![Manage resource capacity option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-manage-resource-capacity-icon.png)\).
 
-    **Note:** If planning attributes aren’t enabled for capacity planning, you see an empty state screen with an option to configure. Contact your admin to enable planning attributes for capacity planning. For more information, see [enable planning attributes for capacity planning](../../spw-capacity-planning/task/cp-enable-planning-attributes-spw.md).
+    **Note:** If planning attributes aren’t enabled for capacity planning, you see an empty state screen with an option to configure. Contact your admin to enable planning attributes for capacity planning. For more information, see [enable planning attributes for capacity planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/task/cp-enable-planning-attributes-spw.md).
 
 3.  Use one the following options to view and regenerate the capacity details.
 
@@ -51,7 +51,7 @@ Use the Resource capacity filters to filter and view the resource capacity withi
 You can select a date range up to 3 years.
 
 2.  Select at least one of the primary attributes from **Group**, **Role**, or **Skill**.
-3.  Select **View capacity** \(![View capacity button.](../../spw-capacity-planning/images/cp-view-capacity-button.png)\).
+3.  Select **View capacity** \(![View capacity button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-view-capacity-button.png)\).
 4.  On the Generate capacity details window, select **Generate**.
 
 The resource capacity details for the selected combination of primary attributes and time frame is displayed.
@@ -64,7 +64,7 @@ The resource capacity details for the selected combination of primary attributes
 
 </td><td>
 
-1.  Select **Regenerate capacity** \(![Regenerate capacity button.](../../spw-capacity-planning/images/cp-regenerate-capacity.png)\).
+1.  Select **Regenerate capacity** \(![Regenerate capacity button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-regenerate-capacity.png)\).
 2.  In the Regenerate capacity window, filter the date range, if needed, and select **Regenerate**.
 
 
@@ -74,11 +74,11 @@ The resource capacity details for the selected combination of primary attributes
 
 </td><td>
 
-Activate a schedule job to automatically generate the capacity details of your resources at required cadence. For more information on how to activate a scheduled job, see [Activate a scheduled job to automatically generate resource capacity](generate-capacity-scheduled-job-pp.md).
+Activate a schedule job to automatically generate the capacity details of your resources at required cadence. For more information on how to activate a scheduled job, see [Activate a scheduled job to automatically generate resource capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/generate-capacity-scheduled-job-pp.md).
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-[Use Capacity Planning](using-cap-planning-screen-pp.md) to view the resource capacity, resource-to-work mapping and re-prioritize resource allocations to effective execute your prioritized planning items.
+[Use Capacity Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-cap-planning-screen-pp.md) to view the resource capacity, resource-to-work mapping and re-prioritize resource allocations to effective execute your prioritized planning items.
 

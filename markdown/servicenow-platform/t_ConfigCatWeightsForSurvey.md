@@ -34,22 +34,22 @@ Weights are set to a value of **10** by default but can be changed.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesignerElements.md)
 
-[Configure a survey in the survey designer](t_ConfigSurveyInSurveyDesgnr.md)
+[Configure a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyCategory.md)
 
-[Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](create-custom-templates-questions.md)
+[Create custom metric type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditASurveyInTheSurveyDesigner.md)
 

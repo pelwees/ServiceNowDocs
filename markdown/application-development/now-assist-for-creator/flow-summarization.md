@@ -32,29 +32,29 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Flow summaries
 
-![Flow summary option from the Flow context menu.](../images/flow-summary-01.png)
+![Flow summary option from the Flow context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-summary-01.png)
 
 You can generate and view flow summaries from the More Actions menu.
 
-![The Flow summary dialog box has a Summarize button.](../images/flow-summary-02.png)
+![The Flow summary dialog box has a Summarize button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-summary-02.png)
 
 From the Flow summary dialog box, you can generate a new flow summary or view any previously generated summary. A flow that has never been summarized displays a **Summarize** button.
 
-![A summary of the Change - Standard flow, which also lists a creation date.](../images/flow-summary-03.png)
+![A summary of the Change - Standard flow, which also lists a creation date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-summary-03.png)
 
 An existing flow summary lists its creation date. You can regenerate a flow summary from the Flow summary dialog box.
 
 ## Subflow summaries
 
-![Subflow summary option from the Flow context menu.](../images/subflow-summary-01.png)
+![Subflow summary option from the Flow context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/subflow-summary-01.png)
 
 You can generate and view subflow summaries from the More Actions menu.
 
-![The Subflow summary dialog box has a Summarize button.](../images/subflow-summary-02.png)
+![The Subflow summary dialog box has a Summarize button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/subflow-summary-02.png)
 
 From the Subflow summary dialog box, you can generate a new subflow summary or view any previously generated summary. A subflow that has never been summarized displays a **Summarize** button.
 
-![A summary of the Change - Implementation tasks subflow, which also lists a creation date.](../images/subflow-summary-03.png)
+![A summary of the Change - Implementation tasks subflow, which also lists a creation date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/subflow-summary-03.png)
 
 An existing subflow summary lists its creation date. You can regenerate a subflow summary from the Subflow summary dialog box.
 
@@ -62,5 +62,5 @@ An existing subflow summary lists its creation date. You can regenerate a subflo
 
 This application uses artificial intelligence \(AI\) and machine learning, which are rapidly evolving fields of study that generate predictions based on patterns in data. As a result, this application may not always produce accurate, complete, or appropriate information. Furthermore, there is no guarantee that this application has been fully trained or tested for your use case. To mitigate these issues, it is your responsibility to test and evaluate your use of this application for accuracy, harm, and appropriateness for your use case, employ human oversight of output, and refrain from relying solely on AI-generated outputs for decision-making purposes. This is especially important if you choose to deploy this application in areas with consequential impacts such as healthcare, finance, legal, employment, security, or infrastructure. You agree to abide by [ServiceNow’s AI Acceptable Use Policy](https://www.servicenow.com/ai-acceptable-use-policy.html), which may be updated by ServiceNow.
 
-**Parent Topic:**[Flow summarization](../reference/flow-summarization-landing.md)
+**Parent Topic:**[Flow summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-summarization-landing.md)
 

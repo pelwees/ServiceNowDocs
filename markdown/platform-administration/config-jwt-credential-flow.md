@@ -65,7 +65,7 @@ Client ID copied from Microsoft Azure
 
 ## What to do next
 
-[Generate a SHA-1 thumbprint](generate-sha-1-thumbprint.md)
+[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/generate-sha-1-thumbprint.md)
 
-**Parent Topic:**[Configure client credential flow for SMTP OAuth2 using certificate-based authentication](config-credential-flow-certificate.md)
+**Parent Topic:**[Configure client credential flow for SMTP OAuth2 using certificate-based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/config-credential-flow-certificate.md)
 

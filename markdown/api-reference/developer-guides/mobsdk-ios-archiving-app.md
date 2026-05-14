@@ -17,5 +17,5 @@ It is important to disable **rebuild from bitcode** when archiving your applicat
 
 To disable rebuild from bitcode, either set **ENABLE\_BITCODE** to `NO` in your project settings or clear the **Rebuild from Bitcode** check box when using Xcode to distribute your application.
 
-![Xcode rebuild bitcode screen](../image/mobile_sdk-ios-rebuild-bitcode.png)
+![Xcode rebuild bitcode screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobile_sdk-ios-rebuild-bitcode.png)
 

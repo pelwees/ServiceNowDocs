@@ -23,7 +23,7 @@ Subscription required: This feature requires an Integration Hub subscription. Fo
 
 Ensure that you've installed the required spoke plugin.
 
-**Parent Topic:**[Set up external trigger endpoints](set-up-external-webhook-endpoints.md)
+**Parent Topic:**[Set up external trigger endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-external-webhook-endpoints.md)
 
 ## Configure endpoint with Token support
 
@@ -41,23 +41,23 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Under the Endpoints heading, select **Configure** for the connection to set up an endpoint with token authentication support.
 
-    ![Configure button for token authentication.](../images/configure-endpoint-token-support.png).
+    ![Configure button for token authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-token-support.png).
 
 2.  In the Configure endpoint form, select Generate token.
 
-    ![Generate token link.](../images/configure-endpoint-generate-token.png).
+    ![Generate token link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-generate-token.png).
 
     The token is generated.
 
 3.  To generate the endpoint, select **Activate**.
 
-    ![Endpoint Activate button.](../images/configure-endpoint-token-click-activate.png)
+    ![Endpoint Activate button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-token-click-activate.png)
 
     The endpoint URL is generated in the URL field.
 
-    ![Endpoint is generated.](../images/configure-endpoint-endpoint-generated.png).
+    ![Endpoint is generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/configure-endpoint-endpoint-generated.png).
 
-4.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](../images/copy-endpoint-icon.png)\)
+4.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/copy-endpoint-icon.png)\)
 
     **Tip:** Keep the endpoint at a secure place to use later at the third-party application webhook.
 
@@ -103,11 +103,11 @@ Ensure that you've installed the required spoke plugin.
 
 1.  Select **Edit**.
 
-    ![Edit button to edit the endpoint.](../images/endpoint-deconfigure-token-edit.png)
+    ![Edit button to edit the endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/endpoint-deconfigure-token-edit.png)
 
 2.  Remove the token.
 
-    ![Token field.](../images/endpoint-deconfigure-token-remove-token.png).
+    ![Token field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/endpoint-deconfigure-token-remove-token.png).
 
 3.  Select **Update**.
 

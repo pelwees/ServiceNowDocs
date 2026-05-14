@@ -31,16 +31,16 @@ This API provides methods commonly used among all solution capabilities and meth
 
 The MLSolution API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-The methods in this object are instantiated using [MLSolutionFactory](../../MLSolutionFactory/concept/MLSolutionFactoryAPI.md#).
+The methods in this object are instantiated using [MLSolutionFactory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolutionFactory/concept/MLSolutionFactoryAPI.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 **Related topics**  
 
 
-[MLSolutionUtil](../../MLSolutionUtil/concept/MLSolutionUtilAPI.md#)
+[MLSolutionUtil](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../MLSolutionUtil/concept/MLSolutionUtilAPI.md#)
 
-[REST API: Get predictions for multiple solutions](../../../../../integrate/inbound-rest/concept/agent-intelligence-api.md#)
+[REST API: Get predictions for multiple solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../integrate/inbound-rest/concept/agent-intelligence-api.md#)
 
 ## MLSolution - applyPrediction\(GlideRecord now\_GR\)
 
@@ -422,7 +422,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

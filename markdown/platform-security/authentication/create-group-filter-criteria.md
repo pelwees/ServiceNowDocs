@@ -33,11 +33,11 @@ Role required: admin
     |Description|Short description of the group.|
     |Application|Scope of the application.|
 
-    ![Group filter criteria form](../images/group-filter-criteria-2.png "Example group filter criteria record")
+    ![Group filter criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/group-filter-criteria-2.png "Example group filter criteria record")
 
 4.  From the **Groups for criteria** tab, double-click **Insert a new row**.
 
-5.  Click the search icon ![search icon](../images/search.png), look up, and select a user group.
+5.  Click the search icon ![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/search.png), look up, and select a user group.
 
 6.  Click the save icon.
 

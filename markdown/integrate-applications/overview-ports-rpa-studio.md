@@ -17,7 +17,7 @@ The ports are categorized as Control ports and Data ports.
 
 The gray ports are called the Control ports and the orange ports are called the Data ports.
 
-![Control ports and Data ports of a component.](../image/ports-overview-studio.png)
+![Control ports and Data ports of a component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ports-overview-studio.png)
 
 The ports are subcategorized into input ports and output ports.
 
@@ -31,13 +31,13 @@ Input ports always appear on the left of the component and output ports appear o
 
 Hover over the port to see the function of the port.
 
-![Control In, Control Out, Data In, and Data Out ports.](../image/ports-in-out-studio.png)
+![Control In, Control Out, Data In, and Data Out ports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ports-in-out-studio.png)
 
-A Data port turns red when you turn off the logging on that port. For example, select this option if you don’t want to log sensitive information such as password or banking details. To do that, right-click the Data In or Data Out port and select **Turn off logging**. ![Turn off logging for a Data port.](../image/port-turn-off-logging.png)
+A Data port turns red when you turn off the logging on that port. For example, select this option if you don’t want to log sensitive information such as password or banking details. To do that, right-click the Data In or Data Out port and select **Turn off logging**. ![Turn off logging for a Data port.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/port-turn-off-logging.png)
 
 To turn on the logging, right-click the inactive Data port and select **Turn on logging**.
 
-A Data port turns green when the data is transformed. For example, it turns green when it converts any information existing within a Data port from one format to another. To do that, right-click the Data In or Data Out port and select **Transform Data**. For more information, see [Transform the data in RPA Desktop Design Studio](../task/transform-data-gen-rpa-studio.md).
+A Data port turns green when the data is transformed. For example, it turns green when it converts any information existing within a Data port from one format to another. To do that, right-click the Data In or Data Out port and select **Transform Data**. For more information, see [Transform the data in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/transform-data-gen-rpa-studio.md).
 
-**Parent Topic:**[Building automations](rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-studio-build.md)
 

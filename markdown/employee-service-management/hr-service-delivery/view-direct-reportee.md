@@ -41,45 +41,45 @@ Use the following procedure to customize the View as experience for your employe
 
 4.  To get a search engine experience, select **Primary** and select **Save**.
 
-    ![Primary view as provides a search bar along with the name of the direct report on top on the View articles as page.](../images/p-v-view-as.jpg "Primary view option on View articles as page")
+    ![Primary view as provides a search bar along with the name of the direct report on top on the View articles as page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/p-v-view-as.jpg "Primary view option on View articles as page")
 
 5.  To get a compact user experience, select **Secondary** and select **Save**.
 
-    ![Secondary view option has the search bar beside the chosen direct report list view on the View articles as page.](../images/s-v-view-as.jpg "Secondary View option on View articles as page")
+    ![Secondary view option has the search bar beside the chosen direct report list view on the View articles as page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/s-v-view-as.jpg "Secondary View option on View articles as page")
 
 6.  Manage the number of Knowledge Base articles visible as a search result or add **Pagination** through the Search results **Instance options**.
 
     The default result is 15 articles.
 
-    ![The knowledge base search widget shows a number of articles on the View as page.](../images/search-results-view-as.jpg "Search results for View as feature")
+    ![The knowledge base search widget shows a number of articles on the View as page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/search-results-view-as.jpg "Search results for View as feature")
 
 
 ## Result
 
 Set up the View as page experience, add pagination, and tweak the number of articles displayed as a search result to provide optimal user experience for a manager searching for Knowledge articles using the feature.
 
-**Parent Topic:**[Configure Manager Hub](../../human-resources/task/set-up-managerhub.md)
+**Parent Topic:**[Configure Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/set-up-managerhub.md)
 
 **Related topics**  
 
 
-[RCA approvals for Manager Hub](../../human-resources/task/run-rca-mh.md)
+[RCA approvals for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/run-rca-mh.md)
 
-[Activate a scheduled job](../../human-resources/reference/activate-sj-mh.md)
+[Activate a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/reference/activate-sj-mh.md)
 
-[Configure important dates](../../human-resources/task/configure-imp-dates.md)
+[Configure important dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-imp-dates.md)
 
-[Configure team requests](../../human-resources/task/configure-team-requests.md)
+[Configure team requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-team-requests.md)
 
-[Configure team data](../../human-resources/task/configure-team-data.md)
+[Configure team data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-team-data.md)
 
-[Configure team column data](../../human-resources/task/configure-team-columndata.md)
+[Configure team column data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-team-columndata.md)
 
-[Configure team filters](../../human-resources/task/configure-team-filter.md)
+[Configure team filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-team-filter.md)
 
-[Configure daily stats](../../human-resources/task/configure-daily-stats.md)
+[Configure daily stats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-daily-stats.md)
 
-[Configure to do mappings](../../human-resources/task/use-to-do-map.md)
+[Configure to do mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/use-to-do-map.md)
 
-[Configure widgets](../../human-resources/task/configure-team-insights.md)
+[Configure widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../human-resources/task/configure-team-insights.md)
 

@@ -15,10 +15,10 @@ Install and configure the Data Collection Content Pack for ITOM.
 
 Perform the steps in the following order:
 
-1.  [Install the Data Collection Pack for ITOM](../task/dc-itom-install.md)
-2.  [Configure Data Collection for ITOM](../task/dc-itom-config.md)
-3.  [Activate Data Collection for ITOM](../task/dc-itom-activate.md)
-4.  [Review ITOM artifacts](../reference/dc-itom-install-artifacts.md)
+1.  [Install the Data Collection Pack for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/dc-itom-install.md)
+2.  [Configure Data Collection for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/dc-itom-config.md)
+3.  [Activate Data Collection for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/dc-itom-activate.md)
+4.  [Review ITOM artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/dc-itom-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Upgrading the Data Collection Content Pack](dc-all-upgrade.md) and [Modifying the Data Collection configuration](dc-all-modify.md).
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md) and [Modifying the Data Collection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md).
 

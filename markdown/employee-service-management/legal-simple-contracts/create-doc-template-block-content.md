@@ -103,5 +103,5 @@ Text in the block content that appears on the document generated from the associ
 
 ## What to do next
 
-[Create a legal contract template of type HTML](create-legal-contract-template-html.md).
+[Create a legal contract template of type HTML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-legal-contract-template-html.md).
 

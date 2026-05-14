@@ -34,7 +34,7 @@ Edit rights granted by sharing a data visualization do not apply to that visuali
 
 3.  Expand the More actions menu and select **Share**.
 
-    ![Visualization designer More actions menu showing Share option.](../../par-for-workspace/image/share-data-viz.png)
+    ![Visualization designer More actions menu showing Share option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/share-data-viz.png)
 
 4.  Enter the names of one or more users, groups, or roles you want to share the data visualization with.
 
@@ -68,7 +68,7 @@ Grant editing rights to the users, groups, or roles you share the visualization 
 </table>7.  Select **Confirm**.
 
 
-**Parent Topic:**[Common data visualization tasks](../concept/common-dv-tasks.md)
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dv-tasks.md)
 
 ## Manage data visualization access
 
@@ -88,7 +88,7 @@ Role required: You can change the access rights to any data visualization that y
 
 3.  Expand the More actions menu and select **Share**.
 
-    ![Visualization designer More actions menu showing Share option.](../../par-for-workspace/image/share-data-viz.png)
+    ![Visualization designer More actions menu showing Share option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/share-data-viz.png)
 
     Under Manage Access, you see a tile for every user, group, or role that the data visualization is shared with.
 
@@ -100,7 +100,7 @@ Role required: You can change the access rights to any data visualization that y
 
 5.  When you locate the desired tile, expand the list of rights and select the rights to grant.
 
-    You can grant editing rights or only viewing rights. You can give or take away the right to share the data visualization. Lastly, you can remove the user, no longer sharing the data visualization with them.![Possible rights you can grant or deny a user to a data visualization that is shared with them.](../../dashboards/image/share-db-ac-manage.png)
+    You can grant editing rights or only viewing rights. You can give or take away the right to share the data visualization. Lastly, you can remove the user, no longer sharing the data visualization with them.![Possible rights you can grant or deny a user to a data visualization that is shared with them.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/share-db-ac-manage.png)
 
 
 ## Data visualization sharing reference qualifiers
@@ -117,15 +117,15 @@ Role required: admin
 
 2.  Open the **par\_visualization\_permission** table.
 
-3.  Press Ctrl+Click on the Preview Users button ![info button](../../performance-analytics/image/InfoIcon.png)next to Users on the **Columns** tab to open the Users dictionary entry.
+3.  Press Ctrl+Click on the Preview Users button ![info button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/image/InfoIcon.png)next to Users on the **Columns** tab to open the Users dictionary entry.
 
     Point to the Users Column label to see this button.
 
-    ![Preview Users and Preview Groups buttons on the Columns list of Par Notification Email Recipients](../../par-for-workspace/image/preview-buttons-sched-export.png)
+    ![Preview Users and Preview Groups buttons on the Columns list of Par Notification Email Recipients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/preview-buttons-sched-export.png)
 
 4.  If you're in the wrong application, select the link to edit the record.
 
-    ![Mismatched application message with link to edit the record](../../par-for-workspace/image/app-mismatch-msg-sched-export.png)
+    ![Mismatched application message with link to edit the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/app-mismatch-msg-sched-export.png)
 
 5.  On the Reference Specification tab of the dictionary entry, use the condition builder to add filter conditions to the User list.
 

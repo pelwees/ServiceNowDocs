@@ -27,5 +27,5 @@ See the following table for a description of the field values.
 |Respondent|Individual responding to the feedback.|
 |Priority|Priority of the feedback.|
 
-**Parent Topic:**[Create Feedback from the record side panel](../task/create-feedback-from-record-side-panel.md)
+**Parent Topic:**[Create Feedback from the record side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-feedback-from-record-side-panel.md)
 

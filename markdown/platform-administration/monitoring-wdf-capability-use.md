@@ -37,7 +37,7 @@ The **Column values** column has two comma-separated entries per row. The first 
 
 Match the entries under **Column names** to the entries under **Column values** to determine how many tokens are expended per Workflow Data Fabric capability.
 
-![Token ratio tab showingColumn names and Column values columns. All rows under Column names display "capability_id, exchange_value." Refer to the following example for more detail](../image/sub-mgt-wdf-token-ratio.png)
+![Token ratio tab showingColumn names and Column values columns. All rows under Column names display "capability_id, exchange_value." Refer to the following example for more detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/sub-mgt-wdf-token-ratio.png)
 
 The first row under **Column values** displays "API\_ACCESS, 8." Because the entries under **Column values** correspond to capability\_id and exchange\_value from **Column names**, the capability\_id is "API\_ACCESS" and the exchange\_value is "8." In other words, a Workflow Data Fabric capability that requires API access expends eight tokens.
 

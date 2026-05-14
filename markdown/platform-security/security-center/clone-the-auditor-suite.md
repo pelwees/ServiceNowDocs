@@ -54,5 +54,5 @@ The default access controls auditor suite provided with your instance can't be m
 8.  Select **Execute Suite Scan**.
 
 
-**Parent Topic:**[Create a scan suite](create-new-suite.md)
+**Parent Topic:**[Create a scan suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/create-new-suite.md)
 

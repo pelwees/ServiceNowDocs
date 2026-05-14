@@ -47,7 +47,7 @@ Role required: admin
 
     The OAuth client window shows your client ID and client secret.
 
-8.  Copy these two values to a text file so that you can use them when you [Register Google Cloud Pub Sub as an OAuth provider](setup-google-pubsub.md#).
+8.  Copy these two values to a text file so that you can use them when you [Register Google Cloud Pub Sub as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-google-pubsub.md#).
 
     The client ID and secret can always be accessed in the Google APIs &amp; Services interface. Click **Credentials** and select the OAuth 2.0 client ID name.
 
@@ -110,7 +110,7 @@ Role required: admin.
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Cloud Pub Sub default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gc\_pubsub\_spoke.GoogleCloudPubSub** is selected.|
 
-    ![Credential record for the Google Pub Sub spoke.](../image/gcloud-pub-sub-cred.png)
+    ![Credential record for the Google Pub Sub spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-pub-sub-cred.png)
 
 6.  Right-click the form header and click **Save**.
 

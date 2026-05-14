@@ -67,5 +67,5 @@ Approval steps that are unaffected by the changes may be automatically approved,
 
 Once all required approval steps are approved, the quote can proceed to the next stage of the sales process.
 
-**Parent Topic:**[Using Quote Management](quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 

@@ -50,12 +50,12 @@ The knowledge gap analysis is repeatedly run at the duration as configured in th
 
 ## What to do next
 
-Create assignment rules to assign knowledge gap feedback tasks. For more information, see [Assign knowledge gap feedback tasks to content authors](assign-knowledge-gaps-demand-insights.md).
+Create assignment rules to assign knowledge gap feedback tasks. For more information, see [Assign knowledge gap feedback tasks to content authors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/assign-knowledge-gaps-demand-insights.md).
 
-**Parent Topic:**[Configuration tasks for knowledge demand insights](../concept/configuration-tasks-for-knowledge-demand-insights.md)
+**Parent Topic:**[Configuration tasks for knowledge demand insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuration-tasks-for-knowledge-demand-insights.md)
 
 **Related topics**  
 
 
-[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](analyze-knowledge-gaps-demand-insights.md)
+[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 

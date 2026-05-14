@@ -35,12 +35,12 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 6.  On the Create New Maintenance Plan page, fill in the details.
 
-    For a detailed description of all the maintenance plan fields, see [Maintenance plan fields for Enterprise Asset Management](../reference/maintenance-plan-fields-eam.md).
+    For a detailed description of all the maintenance plan fields, see [Maintenance plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/maintenance-plan-fields-eam.md).
 
 7.  Select **Save**.
 
     The page closes and you’re automatically redirected to the new maintenance plan record.
 
-    You can further configure your maintenance plan by creating [maintenance schedules](create-eam-maintenance-schedule.md), work orders, and work order tasks. You can view all your maintenance plan records in the list view in the **Maintenance plans** tab. Every maintenance plan record is prefixed with **MP**.
+    You can further configure your maintenance plan by creating [maintenance schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-maintenance-schedule.md), work orders, and work order tasks. You can view all your maintenance plan records in the list view in the **Maintenance plans** tab. Every maintenance plan record is prefixed with **MP**.
 
 

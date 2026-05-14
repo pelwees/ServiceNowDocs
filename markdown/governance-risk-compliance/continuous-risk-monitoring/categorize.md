@@ -48,7 +48,7 @@ When you clicked **Categorize** on the Authorization Package form, an **Impact**
 
     **Note:** As you select the information types, guidance about the selected information type appears, including name, categories, and the Confidentiality, Integrity, and Availability \(CIA\) ratings for the information type.
 
-    ![Information Types selection form](../image/slush.png)
+    ![Information Types selection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/slush.png)
 
 2.  Multi-select the information types you want to select for this authorization package and move them to the Information Type List box.
 
@@ -56,7 +56,7 @@ When you clicked **Categorize** on the Authorization Package form, an **Impact**
 
     The Information Types related list now contains the guidance information for the information types you selected.
 
-    ![Information Types list](../image/info-type-list.png)
+    ![Information Types list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/info-type-list.png)
 
 4.  Select the **Impact** tab and review the recommended impacts for the information types you selected.
 
@@ -66,7 +66,7 @@ When you clicked **Categorize** on the Authorization Package form, an **Impact**
 
     As you provide overrides, the **Impact** field is updated accordingly based on the update CIA levels.
 
-    ![Impact override fields](../image/impact-overrides.png)
+    ![Impact override fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/impact-overrides.png)
 
     **Important:** It is vital that the **Impact** field accurately reflects the impact of the data you are authorizing. All processes downstream from this point relies on that impact level. According to NIST guidelines, the number of controls you must implement depends on the Impact, as follows:
 
@@ -75,7 +75,7 @@ When you clicked **Categorize** on the Authorization Package form, an **Impact**
     -   Low risk = 125 controls
 6.  After you have defined the impact, select **Request Approval**.
 
-    ![Authorization Package categorize to request for approval.](../image/cam-auth-packages-request-approval.png)
+    ![Authorization Package categorize to request for approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-auth-packages-request-approval.png)
 
     An approval request is sent to the Authorizing Official, who will access My Approvals from the navigation pane and review the information in the package. When approval is received, the package transitions to the **Select** state.
 

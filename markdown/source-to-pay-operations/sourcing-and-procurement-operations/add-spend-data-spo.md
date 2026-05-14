@@ -36,5 +36,5 @@ An Excel template is created with the required columns for adding the spend cate
 
 ## What to do next
 
-Load the spend category data from the excel template into the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) staging table. For more information, see [Load and map spend categories to existing product categories](load-spend-categories.md).
+Load the spend category data from the excel template into the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) staging table. For more information, see [Load and map spend categories to existing product categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/load-spend-categories.md).
 

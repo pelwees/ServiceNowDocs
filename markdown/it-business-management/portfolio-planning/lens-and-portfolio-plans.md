@@ -26,7 +26,7 @@ Portfolio Planning provides two pre-defined lenses to get you started with build
 
 Planning managers can use these lenses based on their role at the company. Each lens includes multiple levels, that the personas can plan at, and together these levels form the structure for that lens.
 
-![Predefined lenses - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability.](../../alignment-planner-workspace/images/predefined-lenses-sp.png "Structure of pre-defined lenses")
+![Predefined lenses - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/predefined-lenses-sp.png "Structure of pre-defined lenses")
 
 <table id="table_xfv_x5h_fvb"><thead><tr><th>
 
@@ -99,9 +99,9 @@ Project Program
 Plan, prioritize, and roadmap the work in your programs.
 
 </td></tr></tbody>
-</table>You can work with your administrator to modify the structure for these pre-defined lenses. For more information, see [Configuring lens in Portfolio Planning](configuring-lens-in-portfolio-planning.md).
+</table>You can work with your administrator to modify the structure for these pre-defined lenses. For more information, see [Configuring lens in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-lens-in-portfolio-planning.md).
 
-Start creating portfolio plans to improve the alignment of your work with the business strategy. See [Create a portfolio plan](../task/create-portfolio-plan-in-portfolio-planning-workspace.md).
+Start creating portfolio plans to improve the alignment of your work with the business strategy. See [Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/create-portfolio-plan-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Exploring Portfolio Planning](exploring-portfolio-planning.md)
+**Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 

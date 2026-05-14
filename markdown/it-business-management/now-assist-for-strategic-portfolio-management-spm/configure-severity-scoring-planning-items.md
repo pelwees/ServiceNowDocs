@@ -57,11 +57,11 @@ The insights are generated for the following categories for a portfolio plan:
 
 2.  In the **Type** column, right-click **Portfolio** and select **Show Matching** to show only records with the type set to **Portfolio**.
 
-    ![Show the Portfolio Insight topic table records.](../images/update-severity-scoring-for-planning-items.png)
+    ![Show the Portfolio Insight topic table records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/update-severity-scoring-for-planning-items.png)
 
     After applying the filter, the following three insight topic table records appear.
 
-    ![Insight topic table records portfolio insights](../images/insight-topic-table-portfolio-insights.png)
+    ![Insight topic table records portfolio insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/insight-topic-table-portfolio-insights.png)
 
 3.  Next to an Insight topic record, select preview icon to open the record.
 
@@ -69,7 +69,7 @@ The insights are generated for the following categories for a portfolio plan:
 
 4.  In the `severityThresholds` section of the **Default topic config** field, set the score range for each severity level according to your organization's risk criteria.
 
-    ![Default delayed planning items record.](../images/default-delayed-planning-items-record.png)
+    ![Default delayed planning items record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/default-delayed-planning-items-record.png)
 
     |Severity level|Description|
     |--------------|-----------|
@@ -97,5 +97,5 @@ The insights are generated for the following categories for a portfolio plan:
 
 ## What to do next
 
-To verify that the configuration is working as expected, open a portfolio plan that contains planning items with known delays and confirm that the severity classifications reflect the thresholds you set. For details, see [View portfolio insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace using Now Assist for SPM](view-portfolio-insights.md).
+To verify that the configuration is working as expected, open a portfolio plan that contains planning items with known delays and confirm that the severity classifications reflect the thresholds you set. For details, see [View portfolio insights for a portfolio plan in Strategic Planning Workspace or Portfolio Planning Workspace using Now Assist for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/view-portfolio-insights.md).
 

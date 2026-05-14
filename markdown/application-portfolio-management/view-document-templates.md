@@ -21,23 +21,23 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![setup icon.](../../image/eaw-image/eaw-icon-setup.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![setup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-setup.png)\).
 
-3.  Select the expand row icon \(![expand row icon.](../../image/ExpandIcon.png)\) next to **Templates**.
+3.  Select the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Templates**.
 
 4.  Select **Document Templates**.
 
     The list of all available templates appear.
 
 
-**Parent Topic:**[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+**Parent Topic:**[Working with the document templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/document-templates-for-ea.md)
 
 **Related topics**  
 
 
-[Export document templates](export-document-templates.md)
+[Export document templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/export-document-templates.md)
 
-[Generate a document from a diagram](create-documents-for-diagrams.md)
+[Generate a document from a diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/create-documents-for-diagrams.md)
 
-[View all architectural documents](view-architectural-documents.md)
+[View all architectural documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-architectural-documents.md)
 

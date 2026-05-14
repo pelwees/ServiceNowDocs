@@ -19,7 +19,7 @@ Role required: sn\_bcm.program\_manager
 
 ## About this task
 
-You can open or dismiss an alert from the Crisis map interface. For more information, see [Manage alerts from the map interface](manage-alerts-in-crisis-map-interface-uib-ws.md).
+You can open or dismiss an alert from the Crisis map interface. For more information, see [Manage alerts from the map interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-alerts-in-crisis-map-interface-uib-ws.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ You can open or dismiss an alert from the Crisis map interface. For more informa
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Alert Action form](../reference/alert-action-form.md).
+    For more information on the fields, see [Alert Action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/alert-action-form.md).
 
 4.  Select **Submit**.
 
@@ -47,8 +47,8 @@ You can open or dismiss an alert from the Crisis map interface. For more informa
 
 The alert action is displayed in the **Alert Actions** record page.
 
--   **[Alert Action form](../reference/alert-action-form.md)**  
+-   **[Alert Action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/alert-action-form.md)**  
 Use the Alert Action form in BCM UIB Workspace to add details about the alert actions.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/crisis-map-admin-tasks.md)
 

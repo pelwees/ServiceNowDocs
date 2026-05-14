@@ -51,12 +51,12 @@ Benefits of using Performance Analytics indicators can include:
 
 **Tip:** For an introduction to using Performance Analytics, take the [Platform Analytics Overview](https://learning.servicenow.com/lxp/en/now-intelligence/platform-analytics-pa-overview?id=learning_course_prev&course_id=fb9decf8932f06905402393d6cba10f6) course.
 
--   **[Performance Analytics concepts](c_PerformanceAnalytics.md)**  
+-   **[Performance Analytics concepts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PerformanceAnalytics.md)**  
 Performance Analytics uses terms and concepts that can differ from industry norms due to the unique nature of the ServiceNow platform.
--   **[Performance Analytics indicators compared to table data](pa-vs-reporting-pa.md)**  
+-   **[Performance Analytics indicators compared to table data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-vs-reporting-pa.md)**  
 Indicator data sources address a different set of use cases than table data sources.
--   **[Implement Performance Analytics](implementing-pa.md)**  
+-   **[Implement Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)**  
 Follow these steps to begin using Performance Analytics to improve your service levels.
 
-**Parent Topic:**[Performance Analytics \(Indicator data sources\)](r_PALandingPage.md)
+**Parent Topic:**[Performance Analytics \(Indicator data sources\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_PALandingPage.md)
 

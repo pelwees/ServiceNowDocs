@@ -21,7 +21,7 @@ Role required: agent\_admin
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task

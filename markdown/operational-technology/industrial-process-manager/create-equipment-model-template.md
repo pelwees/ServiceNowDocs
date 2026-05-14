@@ -40,5 +40,5 @@ Role required: cmdb\_ot\_isa\_admin
 
 Create hierarchical sorting levels for the equipment model template.
 
-**Parent Topic:**[Defining equipment model templates](../concept/defining-equipment-model-templates.md)
+**Parent Topic:**[Defining equipment model templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/defining-equipment-model-templates.md)
 

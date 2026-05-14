@@ -36,5 +36,5 @@ Role required: itil
 5.  Click **Run Report**.
 
 
-**Parent Topic:**[Viewing On-Call Scheduling reports](../../user-administration/concept/viewing-reports.md)
+**Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/viewing-reports.md)
 

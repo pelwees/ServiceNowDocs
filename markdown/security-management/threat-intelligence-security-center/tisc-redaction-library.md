@@ -114,23 +114,23 @@ This property enables or disables case sensitivity when applying redaction to sh
 </table>11. Select **Save**.
 
 
--   **[Bulk Import of Redaction Categories and Values](tisc-bulk-import-redaction.md)**  
+-   **[Bulk Import of Redaction Categories and Values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-bulk-import-redaction.md)**  
 Import redaction categories. Bulk importing of redaction categories and their associated values.
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 
 
-[Configuring Outbound Intel Sharing Controls](tisc-outbound-sharing.md)
+[Configuring Outbound Intel Sharing Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing.md)
 
-[Configuring Outbound Intel Data Exclusion Rule](tisc-outbound-data-exclusion.md)
+[Configuring Outbound Intel Data Exclusion Rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-data-exclusion.md)
 
-[Configuring Outbound Intel Sharing Profiles](tisc-outbound-sharing-profiles.md)
+[Configuring Outbound Intel Sharing Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing-profiles.md)
 
-[Configuring Outbound Intel Sharing Groups](tisc-config-inbound-sharing-groups.md)
+[Configuring Outbound Intel Sharing Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-sharing-groups.md)
 
-[Defining Approval Rule for Outbound Intel](tisc-approval-outbound-intel.md)
+[Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md)
 
-[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
+[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 

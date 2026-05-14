@@ -38,5 +38,5 @@ Some hardening settings have been removed with the release of Security Center ba
 -   Restrict Allowed Java Packages
 -   Enforce Strict Code Signing Checks
 
-**Parent Topic:**[Deleted hardening settings](hardening-settings-deleted.md)
+**Parent Topic:**[Deleted hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)
 

@@ -31,8 +31,8 @@ Role required: none
     -   The financial transaction record page.
 4.  In the Card details section, select the icon to mask or reveal the PAN associated with this transaction.
 
-    ![Dispute Workspace showing Card details section with masked card number field.](../image/card-data-security-card-details.png "Card number reveal component in Dispute Workspace")
+    ![Dispute Workspace showing Card details section with masked card number field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-card-details.png "Card number reveal component in Dispute Workspace")
 
-    ![Transaction details form showing card number reveal component in card details section.](../image/card-data-security-card-details-txn.png "Card number reveal component in Transaction record")
+    ![Transaction details form showing card number reveal component in card details section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-card-details-txn.png "Card number reveal component in Transaction record")
 
 

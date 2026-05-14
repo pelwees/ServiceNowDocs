@@ -17,7 +17,7 @@ Upload the manifest file \(add-in for Microsoft Outlook\) for a workplace employ
 
 ## Before you begin
 
-Activated the add-in for Microsoft Outlook. For more information, see [Activate the add-in for Microsoft Outlook](add-outlook-addin.md).
+Activated the add-in for Microsoft Outlook. For more information, see [Activate the add-in for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-outlook-addin.md).
 
 Role required: admin
 

@@ -50,12 +50,12 @@ You can view the sample content in both the Service Portfolio Management applica
     Look at several service type taxonomy nodes to find the structure that best fits you your needs. You can use them as guidance as you build your own portfolio content structure.
 
 
-**Parent Topic:**[Install the Service Portfolio Management Sample Content Pack](activate-SPM2-content-pack-plugin.md)
+**Parent Topic:**[Install the Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md)
 
 **Related topics**  
 
 
-[Using Service Portfolio Management](../concept/SPM2-using.md)
+[Using Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-using.md)
 
-[Work with portfolios in Digital Portfolio Management](../../digital-portfolio-management/concept/dpm-explore-portfolios.md)
+[Work with portfolios in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../digital-portfolio-management/concept/dpm-explore-portfolios.md)
 

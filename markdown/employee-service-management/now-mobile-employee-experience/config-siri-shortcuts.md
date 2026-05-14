@@ -27,15 +27,15 @@ Role required: admin
 
 3.  On the settings page, tap **Siri shortcuts**.
 
-4.  In the Siri shortcuts section,**** tap the plus button \(![Plus button](../image/icon-plus-white.png)\) to configure a Siri shortcut.
+4.  In the Siri shortcuts section,**** tap the plus button \(![Plus button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/icon-plus-white.png)\) to configure a Siri shortcut.
 
     **Note:** The currently available shortcuts are limited to **Open My Tasks**, **Browse Services**, and **Open My Requests**.
 
-    ![Siri shortcuts screen with plus buttons.](../image/siri-shortcuts-1.png)
+    ![Siri shortcuts screen with plus buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/siri-shortcuts-1.png)
 
 5.  In the **When I say** field, add the phrase you want to say to Siri to open your app and use the selected shortcut.
 
-    ![Add to Siri screen](../image/siri-shortcuts-2.png)
+    ![Add to Siri screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/siri-shortcuts-2.png)
 
 6.  Tap **Add to Siri**.
 
@@ -44,5 +44,5 @@ Role required: admin
     -   You can repeat the process to configure the remaining shortcuts, or change the phrase used to activate previously configured shortcuts.
     -   You can also set up the Siri shortcuts in the Apple **Shortcuts** application.
 
-**Parent Topic:**[Configuring Now Mobile](../../mobile-employee/concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../mobile-employee/concept/setup-mobile-employee.md)
 

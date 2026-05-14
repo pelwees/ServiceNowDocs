@@ -25,14 +25,14 @@ The template import is designed for when you want to define a complete template 
 
 When the template import runs, it does not duplicate the existing auto-generated templates from the model import. Instead, it creates a new parent template with enriched data such as default field values, updates existing slot templates with name patterns and default values, and inserts the slot-to-card template relationships that were missing from the model import auto-generation. Related templates such as slot templates for rack, equipment, or card templates are automatically generated during the import, provided the corresponding model relationships are already defined. If model relationships are not defined, the system does not create the associated templates.
 
-![The image displays the import templates workflow](../image/import-template-flow.png)
+![The image displays the import templates workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/import-template-flow.png)
 
-A detailed Import Results summary is produced, showing total records processed and breaking them down into inserted, updated, skipped, ignored, and failed records. To learn the step-by-step process of importing templates, see [Import templates](../task/import-templates.md)
+A detailed Import Results summary is produced, showing total records processed and breaking them down into inserted, updated, skipped, ignored, and failed records. To learn the step-by-step process of importing templates, see [Import templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/import-templates.md)
 
 **Related topics**  
 
 
-[Import models and templates in JSON format](../task/import-models-templates-json.md)
+[Import models and templates in JSON format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/import-models-templates-json.md)
 
-[Export hierarchy of models and templates](../task/export-hierarchy-of-models-and-template.md)
+[Export hierarchy of models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/export-hierarchy-of-models-and-template.md)
 

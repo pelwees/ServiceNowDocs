@@ -39,20 +39,20 @@ Annotations are only visible from the sidebar History view.
 
 7.  From More actions menu, select **Add annotation**.
 
-    ![Add annotation menu item](../images/flow-history-add-annotation-01.png)
+    ![Add annotation menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-add-annotation-01.png)
 
 8.  In the text box, enter the text of the annotation.
 
-    ![Sample annotation reading Send Email when Incident Closed or Resolved](../images/flow-history-add-annotation-02.png)
+    ![Sample annotation reading Send Email when Incident Closed or Resolved](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-add-annotation-02.png)
 
 9.  Press Enter to save the annotation.
 
-    ![Flow history entry with annotation](../images/flow-history-add-annotation-03.png)
+    ![Flow history entry with annotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-add-annotation-03.png)
 
 
 ## What to do next
 
 You can change the annotation using the **Modify annotation** option.
 
-**Parent Topic:**[Flow history](../concept/flow-history.md)
+**Parent Topic:**[Flow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-history.md)
 

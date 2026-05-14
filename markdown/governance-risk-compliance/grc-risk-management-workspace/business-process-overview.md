@@ -38,10 +38,10 @@ The life cycle states of a business process are as follows:
 
 The following image shows an example of how to define a business process, such as employee recruitment. You can define the relationship of the process with the associated risks and controls. You can also determine how associating the risks and controls helps to derive the risk rating of the process.
 
-![Business process followed during employee recruitment.](../image/business-process-example.png "Employee recruitment business process")
+![Business process followed during employee recruitment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/business-process-example.png "Employee recruitment business process")
 
 **Related topics**  
 
 
-[Create a business process](../task/create-a-business-process.md)
+[Create a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-a-business-process.md)
 

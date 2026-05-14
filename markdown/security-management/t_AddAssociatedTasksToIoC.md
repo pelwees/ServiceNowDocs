@@ -34,18 +34,18 @@ Role required: sn\_ti.write
 7.  Click **Save**.
 
 
-**Parent Topic:**[Indicators of compromise](../concept/c_IoCs.md)
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/c_IoCs.md)
 
 **Related topics**  
 
 
-[View an IoC](t_AddIoCs.md)
+[View an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddIoCs.md)
 
-[Add a related observable to an IoC](t_AddObservToIoC.md)
+[Add a related observable to an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddObservToIoC.md)
 
-[Add a related attack mode/method to an IoC](t_AddRelatedAttackModeToIoc.md)
+[Add a related attack mode/method to an IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_AddRelatedAttackModeToIoc.md)
 
-[Identify associated indicator types](t_IdentifyAssociatedIndicatorTypes.md)
+[Identify associated indicator types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyAssociatedIndicatorTypes.md)
 
-[Identify indicator sources](t_IdentifyIndicatorSources.md)
+[Identify indicator sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/t_IdentifyIndicatorSources.md)
 

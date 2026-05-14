@@ -19,22 +19,22 @@ The Key Management Framework \(KMF\) introduces specific roles for cryptographic
 
 KMF roles are required to use the Key Management Framework. Users without KMF roles are not be able to access lists, tables and modules used to configure key management.
 
-To assign the KMF admin role, you must have the admin, security\_admin, and sn\_kmf\_admin roles. Use the KMF admin role to assign other KMF roles. For details on assigning KMF roles, see [Assign Key Management Framework roles](../../encryption/task/assign-kmf-roles.md).
+To assign the KMF admin role, you must have the admin, security\_admin, and sn\_kmf\_admin roles. Use the KMF admin role to assign other KMF roles. For details on assigning KMF roles, see [Assign Key Management Framework roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/task/assign-kmf-roles.md).
 
-![KMF roles](../image/kmf-roles.png)
+![KMF roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/kmf-roles.png)
 
-**Parent Topic:**[Key Management Framework Reference](../concept/understanding-kmf.md)
+**Parent Topic:**[Key Management Framework Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/understanding-kmf.md)
 
 **Related topics**  
 
 
-[Key Management Framework key life-cycle states](key-life-cycle-states.md)
+[Key Management Framework key life-cycle states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-life-cycle-states.md)
 
-[Module access policy visualization](../concept/map-vis-concept.md)
+[Module access policy visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/map-vis-concept.md)
 
-[Module access policy debugger](../concept/map-debugger.md)
+[Module access policy debugger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/map-debugger.md)
 
-[Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md)
+[Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/reference/encryption-sku.md)
 
 ## KMF admin \[sn\_kmf.admin\]
 
@@ -56,7 +56,7 @@ None.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
--   This role is assigned via the process shown in [Assign Key Management Framework roles](../../encryption/task/assign-kmf-roles.md).
+-   This role is assigned via the process shown in [Assign Key Management Framework roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/task/assign-kmf-roles.md).
 -   Users with this role must also have the admin and security\_admin
 -   You must have this role to assign  KMF roles, and in addition can perform all the capabilities of the KMF cryptographic manager.
 
@@ -148,7 +148,7 @@ Assign KMF roles to admins, who in turn can assign other KMF roles.
 
 Role required: admin and security\_admin
 
-You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md)
+You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../security/task/t_ElevateToAPrivilegedRole.md)
 
 ### Procedure
 
@@ -164,7 +164,7 @@ You must elevate to the security\_admin role before assigning the KMF admin role
 
 5.  Select the user that you want to be KMF admin in the **Available Users** column and move them to the **Selected User\(s\)** column.
 
-    ![KMF admin role](../../encryption/image/kmf-admin-select-user.png)
+    ![KMF admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/image/kmf-admin-select-user.png)
 
 6.  Select **Save**.
 
@@ -172,7 +172,7 @@ You must elevate to the security\_admin role before assigning the KMF admin role
 
     The user has the sn\_kmf.admin role in the **Roles** related list, and can assign other KMF roles.
 
-    ![KMF admin role in the Roles related list](../../encryption/image/sn-kmf-admin-role.png)
+    ![KMF admin role in the Roles related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/image/sn-kmf-admin-role.png)
 
 
 ### What to do next
@@ -182,6 +182,6 @@ If you have the KMF admin role, follow these steps for assigning other KMF roles
 1.  Navigate to **User Administration** &gt; **Users** and select the user you want to have another KMF role, such as KMF Cryptographic Manager.
 2.  In the Roles related list, select **Edit** and select the KMF roles you want to assign the users. All KMF roles start with `sn_kmf`.
 
-    ![Assigning other KMF roles](../../encryption/image/kmf-roles-assignments.png)
+    ![Assigning other KMF roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/image/kmf-roles-assignments.png)
 
 

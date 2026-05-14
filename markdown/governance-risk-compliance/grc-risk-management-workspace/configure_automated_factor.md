@@ -297,10 +297,10 @@ Date when the factor runs again. This field is automatically set based on the se
 
 The factor is published and is ready for use in a Risk Assessment Methodology.
 
-**Parent Topic:**[Perform Advanced Risk Assessment](../concept/use-advanced-risk-assessment.md)
+**Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-advanced-risk-assessment.md)
 
 **Related topics**  
 
 
-[Create a scripted automated factor](define-scripted-automated-factor.md)
+[Create a scripted automated factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-scripted-automated-factor.md)
 

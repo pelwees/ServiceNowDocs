@@ -18,5 +18,5 @@ You can access the frequently asked questions page by navigating to **Resources*
 **Related topics**  
 
 
-[Portal FAQ widget](../concept/portal-faq-widget.md)
+[Portal FAQ widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/portal-faq-widget.md)
 

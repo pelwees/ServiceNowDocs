@@ -90,5 +90,5 @@ var notifyUtils = new sn_dex_desktop.DesktopAppNotificationUtils();
 notifyUtils.sendDANotification(notificationObj);
 ```
 
-**Parent Topic:**[DEX Desktop Assistant reference](dex-desktop-experience-reference.md)
+**Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 

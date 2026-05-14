@@ -51,10 +51,10 @@ Role required: sn\_msi.workspace\_manager
     |**Timeline**|Displays the timeline of key events and milestones that have occurred as part of the major security incident.|
 
 
-**Parent Topic:**[Create a Report Template](create-report-template.md)
+**Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
 **Related topics**  
 
 
-[Create a Visualization Type Element](create-visualization-type-element.md)
+[Create a Visualization Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-visualization-type-element.md)
 

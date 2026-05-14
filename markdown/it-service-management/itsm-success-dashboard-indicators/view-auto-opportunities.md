@@ -27,12 +27,12 @@ Role required: sn\_sd.success\_dashboard\_details\_read
 
 3.  Select the **Self solved - percentage** indicator.
 
-4.  Select **Insights** \(![Insights icon](../image/insights-icon.png)\) on the contextual side panel.
+4.  Select **Insights** \(![Insights icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/insights-icon.png)\) on the contextual side panel.
 
 5.  Select **View in Automation Discovery**.
 
     For more information on Automation Discovery, refer [Automation Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/automation-discovery.md).
 
 
-**Parent Topic:**[Configuring ITSM Success Dashboard indicators](../concept/configure-success-dashboards.md)
+**Parent Topic:**[Configuring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/configure-success-dashboards.md)
 

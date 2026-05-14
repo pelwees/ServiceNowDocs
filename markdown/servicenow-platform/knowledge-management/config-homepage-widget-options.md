@@ -21,7 +21,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-The homepage displays links to the featured, most viewed, and most useful articles using several widgets. The featured articles are displayed based on the keywords associated with the articles. For information on displaying articles in the Featured content section, see [Pin a knowledge article](t_PinAnArticle.md). Most viewed and most useful articles are displayed based on the highest view and use count of the articles.
+The homepage displays links to the featured, most viewed, and most useful articles using several widgets. The featured articles are displayed based on the keywords associated with the articles. For information on displaying articles in the Featured content section, see [Pin a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_PinAnArticle.md). Most viewed and most useful articles are displayed based on the highest view and use count of the articles.
 
 ## Procedure
 
@@ -50,5 +50,5 @@ The homepage displays links to the featured, most viewed, and most useful articl
 5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/km-service-portal-widget-instances.md)
 

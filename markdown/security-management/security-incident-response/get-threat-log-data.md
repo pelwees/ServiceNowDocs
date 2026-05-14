@@ -23,7 +23,7 @@ Role required: sn\_si.analyst
 
 During flow execution, firewall configuration information is retrieved from the database and the API Key is retrieved from the firewall. The Get Log action queues up a search query on the firewall. When the query runs, it returns a Job ID that is used to retrieve threat logs data from the firewall. It attaches the log data as an XML file to the security incident.
 
-![Get Log Data flow](../image/get-log-data.png "Security Operations Palo Alto Networks - Get Log Data flow")
+![Get Log Data flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/get-log-data.png "Security Operations Palo Alto Networks - Get Log Data flow")
 
 ## Procedure
 

@@ -118,5 +118,5 @@ TPM Technology Risk \[sn\_apm\_tpm\_technology\_risk\]
 Stores the TPM technology risk information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+</table>**Parent Topic:**[Install Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/install-ea-workspace.md)
 

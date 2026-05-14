@@ -17,7 +17,7 @@ Create an application file in an embedded ServiceNow AI Platform user interface 
 
 ## Before you begin
 
-Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](../concept/creating-applications-servicenow-ide.md).
+Create, convert, or clone an application and add it to your workspace. For more information, see [Adding applications in ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/creating-applications-servicenow-ide.md).
 
 Role required: admin
 
@@ -33,7 +33,7 @@ If you need to create some application metadata outside of source code, you can 
 
 3.  From the Activity Bar, select the File Categories view or Apps view.
 
-4.  From a file category or type, select the Create New File icon \(![Create New File](../../../administer/flow-designer/images/add-record-button.png)\).
+4.  From a file category or type, select the Create New File icon \(![Create New File](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../../../administer/flow-designer/images/add-record-button.png)\).
 
     **Tip:** Alternatively, you can right-click an existing metadata category or file type in an application and select **Create New File** to create an application file of that category or type.
 
@@ -43,7 +43,7 @@ If you need to create some application metadata outside of source code, you can 
 
     **Tip:** Search for a file type or select a category to find the file type you need.
 
-    ![Create an application file from the File Categories view](../image/servicenow-ide-create-file.png)
+    ![Create an application file from the File Categories view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-create-file.png)
 
 7.  Select **Continue**.
 
@@ -54,5 +54,5 @@ If you need to create some application metadata outside of source code, you can 
 9.  Select **Submit**.
 
 
-**Parent Topic:**[Developing applications with the ServiceNow IDE](../concept/developing-applications-servicenow-ide.md)
+**Parent Topic:**[Developing applications with the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/developing-applications-servicenow-ide.md)
 

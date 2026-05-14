@@ -17,7 +17,7 @@ To enable the field service feature, ensure that you activate the Field Service 
 
 Once the plugin is active, navigate to the Features section of the guided configuration view of your Engagement Messenger module and enable the Field service feature.
 
-![Field service features window with an option to add a custom feature or activate an existing feature with the help of a toggle switch.](../image/em-enable-fsm-feature.png "Field service features")
+![Field service features window with an option to add a custom feature or activate an existing feature with the help of a toggle switch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-enable-fsm-feature.png "Field service features")
 
 |Field|Description|
 |-----|-----------|
@@ -26,7 +26,7 @@ Once the plugin is active, navigate to the Features section of the guided config
 
 ## Enabling technician tracking from Engagement Messenger
 
-When a technician is assigned to resolve your customer's field service request, they can track their technician from Engagement Messenger. ![Chat window showing the Track my technician feature.](../image/em-track-my-technician.png)
+When a technician is assigned to resolve your customer's field service request, they can track their technician from Engagement Messenger. ![Chat window showing the Track my technician feature.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-track-my-technician.png)
 
 To enable this functionality, ensure that you meet the following criteria:
 

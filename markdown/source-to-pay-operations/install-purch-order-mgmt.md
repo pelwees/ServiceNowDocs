@@ -51,19 +51,19 @@ The following items are installed with Purchase Order Management:
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 
--   **[Components installed with Purchase Order Management](../reference/installed-with-purch-ord-mgmt.md)**  
+-   **[Components installed with Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../reference/installed-with-purch-ord-mgmt.md)**  
 Several types of components are installed with the activation of the Purchase Order Management plugin, including roles and tables.
--   **[Application plugin installation sequence in Purchase Order Management](../reference/app-plugin-install-seq-purch-ord-mgmt.md)**  
+-   **[Application plugin installation sequence in Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../reference/app-plugin-install-seq-purch-ord-mgmt.md)**  
 View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in Purchase Order Management.
 
-**Parent Topic:**[Configure Purchase Order Management](../concept/configure-purch-order-mgmt.md)
+**Parent Topic:**[Configure Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/configure-purch-order-mgmt.md)
 
 **Related topics**  
 
 
-[Assigning priority to a purchase order](../concept/assigning-priority-to-po.md)
+[Assigning priority to a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/assigning-priority-to-po.md)
 
-[Assigning purchase order exceptions to buyers](../concept/assigning-po-exceptions-to-buyers.md)
+[Assigning purchase order exceptions to buyers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/assigning-po-exceptions-to-buyers.md)
 
-[Domain separation and Purchase Order Management](../concept/domain-separation-pom.md)
+[Domain separation and Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/domain-separation-pom.md)
 

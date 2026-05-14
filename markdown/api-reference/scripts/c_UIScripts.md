@@ -17,7 +17,7 @@ UI scripts provide a way to package client-side JavaScript into a reusable form,
 
 UI scripts are not supported for mobile.
 
-**Parent Topic:**[Client-side scripting](client-side-scripting-overview.md)
+**Parent Topic:**[Client-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/client-side-scripting-overview.md)
 
 ## Global UI scripts
 
@@ -115,7 +115,7 @@ Follow these guidelines when running UI scripts.
 
 ### Run a UI script from a form
 
-To run a UI script on a form, [Create a formatter and add it to a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md). In the associated [UI macro](../../server-scripting/concept/c_UIMacros.md#), include a `g:requires` tag and specify the **name=** parameter as the name of the UI script followed by the .jsdbx extension. Add the formatter on the form view.
+To run a UI script on a form, [Create a formatter and add it to a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md). In the associated [UI macro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../server-scripting/concept/c_UIMacros.md#), include a `g:requires` tag and specify the **name=** parameter as the name of the UI script followed by the .jsdbx extension. Add the formatter on the form view.
 
 This code ensures that the definitions and results of the UI script are immediately available in the browser.
 
@@ -143,7 +143,7 @@ To run a UI script from HTML code, use the `<script>` tag and specify the `src=`
 
 ### Call a UI script from client-side code
 
-Access UI scripts from within client-side code using the g\_ui\_scripts global object. For more information, see [GlideUIScripts - Client](../../../app-store/dev_portal/API_reference/GlideUIScripts/concept/GUIScriptsAPI.md#).
+Access UI scripts from within client-side code using the g\_ui\_scripts global object. For more information, see [GlideUIScripts - Client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../../app-store/dev_portal/API_reference/GlideUIScripts/concept/GUIScriptsAPI.md#).
 
 **Note:** This class does not support UI scripts with the **Global** field set to true.
 

@@ -23,9 +23,9 @@ Role required: atf\_test\_admin
 
 This example tests the data policy that sets the field **Assignment Group** to **mandatory** if **impact** is **high**.
 
-![Data Policy Rules form for the data policy record being tested.](../image/atf-use-data-policy-02.png "Automated Test Framework: Data policy being tested")
+![Data Policy Rules form for the data policy record being tested.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-02.png "Automated Test Framework: Data policy being tested")
 
-![Test steps for data policy example.](../image/atf-data-policy-01-steps.png "Automated Test Framework: Data policy example")
+![Test steps for data policy example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-data-policy-01-steps.png "Automated Test Framework: Data policy example")
 
 ## Procedure
 
@@ -33,32 +33,32 @@ This example tests the data policy that sets the field **Assignment Group** to *
 
     In this example, the step impersonates an admin user.
 
-    ![Impersonate test step for data policy example.](../image/atf-use-data-policy-03.png "Step 1 - Impersonate")
+    ![Impersonate test step for data policy example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-03.png "Step 1 - Impersonate")
 
 2.  Open a form for the table to which this data policy applies.
 
     This example opens a new incident form.
 
-    ![Test Step form for the Open a New Form test step.](../image/atf-use-data-policy-04.png "Step 2 - Open a New Form")
+    ![Test Step form for the Open a New Form test step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-04.png "Step 2 - Open a New Form")
 
 3.  Check that the data policy has not yet been triggered.
 
     In this example, the step checks to confirm that **Assignment group** is not **mandatory**.
 
-    ![Test Step form for the Field State Validation test step.](../image/atf-use-data-policy-05.png "Step 3 - Field State Validation")
+    ![Test Step form for the Field State Validation test step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-05.png "Step 3 - Field State Validation")
 
 4.  If applicable, set the conditions that trigger the data policy.
 
     This example sets **Impact** to **High**.
 
-    ![Test Step form for the Set Field Values test step.](../image/atf-use-data-policy-06.png "Step 4 - Set Field Values")
+    ![Test Step form for the Set Field Values test step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-06.png "Step 4 - Set Field Values")
 
 5.  Validate that the data policy is enforced.
 
     In this example, the test confirms that the data policy set **Assignment group** to **High** after the previous step set **Impact** to **High**.
 
-    ![Test Step form for Field State Validation.](../image/atf-use-data-policy-07.png "Step 5 - Field State Validation")
+    ![Test Step form for Field State Validation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-data-policy-07.png "Step 5 - Field State Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-use-cases.md)
 

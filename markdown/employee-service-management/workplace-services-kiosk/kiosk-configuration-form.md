@@ -90,5 +90,5 @@ Device ID
 Auto-generated identifier for the kiosk device.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Services Kiosk reference](workplace-services-kiosk-reference.md)
+</table>**Parent Topic:**[Workplace Services Kiosk reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 

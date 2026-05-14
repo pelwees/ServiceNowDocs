@@ -31,13 +31,13 @@ The following table lists the Now Assist for Common Finance and Supply Chain fea
 |Supplier summarization for fulfillers|Summarize supplier details and keep fulfillers informed about their overview, total spends, and performance.|
 |Purchase order summarization for fulfillers|Summarize purchase orders and keep fulfillers informed on their status, progress, and required actions.|
 
-![Now Assist skills for Common Finance and Supply Chain features section, showing the Purchase order summarization for fulfillers feature card.](../image/now-assist-for-fsc.png "Now Assist skills for Common Finance and Supply Chain features")
+![Now Assist skills for Common Finance and Supply Chain features section, showing the Purchase order summarization for fulfillers feature card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../image/now-assist-for-fsc.png "Now Assist skills for Common Finance and Supply Chain features")
 
 ## Procedure
 
 1.  Install the Now Assist for FSC Common \(sn\_fsc\_genai\) plugin.
 
-    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-supporting-info.md).
+    -   For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../concept/now-assist-fsc-supporting-info.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 2.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist Skills** tab of the Now Assist Admin console.
 
@@ -125,19 +125,19 @@ Now Assist skills are available in the Now Assist panel. Turn on multi-language 
     The skill is activated.
 
 
--   **[Customize a Now Assist for Common Finance and Supply Chain features skill](cust-now-assist-fsc-skill.md)**  
+-   **[Customize a Now Assist for Common Finance and Supply Chain features skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-now-assist-fsc-skill.md)**  
 If you have the admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
--   **[Customize supplier summarization for fulfillers skill](cust-na-fsc-supplier-skill.md)**  
+-   **[Customize supplier summarization for fulfillers skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-na-fsc-supplier-skill.md)**  
 If you have the admin role, you can customize the supplier summarization for fulfillers skill so that fulfillers can use the generative AI skills in Source-to-Pay Workspace to view relevant supplier information.
 
-**Parent Topic:**[Now Assist for Common Finance and Supply Chain features](../concept/now-assist-fsc-common.md)
+**Parent Topic:**[Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../concept/now-assist-fsc-common.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](configure-now-assist-for-spo.md)
+[Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/configure-now-assist-for-spo.md)
 
-[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../../supplier-lifecycle-operations/task/now-assist-slo-configuring.md)
+[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../supplier-lifecycle-operations/task/now-assist-slo-configuring.md)
 
-[Configure Now Assist for Accounts Payable Operations \(APO\)](../../accounts-payable-operations/task/configuring-now-assist-apo.md)
+[Configure Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../accounts-payable-operations/task/configuring-now-assist-apo.md)
 

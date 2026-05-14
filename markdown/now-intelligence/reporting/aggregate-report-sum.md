@@ -23,7 +23,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 Select **Sum** to show the sum of the field you aggregate on. For example, select a duration field. The aggregated data is expressed in terms of days, hours, minutes, and seconds. \(You can configure durations to show the level of detail you want.\) Select an integer field, such as **Priority**, and the data is expressed as a whole number.
 
-![Bar chart aggregated by Sum duration with five bars representing incident categories, one showing the sum duration for software incidents of approximately 100 days, 17 hours.](../image/aggregation-sum-dur.png)
+![Bar chart aggregated by Sum duration with five bars representing incident categories, one showing the sum duration for software incidents of approximately 100 days, 17 hours.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aggregation-sum-dur.png)
 
 ## Procedure
 

@@ -29,7 +29,7 @@ For more information about the delegated developer role, see [Delegated developm
 
     -   Use the All mobile records category to search for your record and then select the name of the record.
     -   Drill down into the category and record type until you find your record.
-4.  Select the more icon \(![More button.](../image/mab-button-more.png)\).
+4.  Select the more icon \(![More button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-button-more.png)\).
 
 5.  Select **Delete record** and then confirm that you want to delete the record.
 

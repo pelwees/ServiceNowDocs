@@ -64,14 +64,14 @@ Role required: sn\_sec\_tisc.analyst
 
 The product identifier record is created and appears in the **Product Identifiers** related records of the **Product**.
 
-**Parent Topic:**[Vulnerability Artifacts](../concept/vulnerability.md)
+**Parent Topic:**[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/vulnerability.md)
 
 **Related topics**  
 
 
-[Create a CWE record](tisc-create-cwe-record.md)
+[Create a CWE record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-cwe-record.md)
 
-[Create a Vendor to a Vulnerability](tisc-add-vendor-to-vul.md)
+[Create a Vendor to a Vulnerability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-vendor-to-vul.md)
 
-[Create Remediations](tisc-create-remediation-record.md)
+[Create Remediations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-remediation-record.md)
 

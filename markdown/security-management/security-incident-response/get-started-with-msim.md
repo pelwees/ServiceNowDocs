@@ -52,14 +52,14 @@ Verify that you have required access to install Microsoft SharePoint Spoke and M
 Before you install Microsoft SharePoint Spoke and Microsoft Teams Graph Spoke, make sure you have required access to the ServiceNow Integration Hub applications.**Note:** Microsoft SharePoint Spoke and Microsoft Teams Graph spoke are dependent applications to ServiceNow® Integration Hub applications.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Major Security Incident Management](exploring-major-security-incident-management.md)
+</table>**Parent Topic:**[Exploring Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Major Security Incident Management](../concept/major-security-incident-management.md)
+[Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/major-security-incident-management.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/reference/msim-checklist.md)
 
-[Major Security Incident Management roles](msi-roles.md)
+[Major Security Incident Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msi-roles.md)
 

@@ -44,7 +44,7 @@ Once the discovery process is complete, the CMDB Compliance framework identifies
 -   Follow-On Tasks: Automatically generated for each failed audit. These tasks document and categorize the identified discrepancies.
 -   Remediation Subflows: Launched from Follow-On Tasks to resolve discrepancies by updating, decommissioning, or realigning Configuration Items \(CIs\).
 
-**Note:** For more information, see [Discrepancy identification – types of discrepancies](discrepancy-identification-types-of-discrepancies.md).
+**Note:** For more information, see [Discrepancy identification – types of discrepancies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/discrepancy-identification-types-of-discrepancies.md).
 
 ## CMDB Compliance and Telecom Discrepancy Identification &amp; Reconciliation
 
@@ -112,11 +112,11 @@ Automate reconciliation of network inventory discrepancies and enhance operation
 **Related topics**  
 
 
-[Discrepancy identification – types of discrepancies](discrepancy-identification-types-of-discrepancies.md)
+[Discrepancy identification – types of discrepancies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/discrepancy-identification-types-of-discrepancies.md)
 
-[Activate Telecom Discrepancy Identification and Reconciliation](../task/configure-telecom-reconciliation.md)
+[Activate Telecom Discrepancy Identification and Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/configure-telecom-reconciliation.md)
 
-[Run Telecom Discrepancy audit](../task/run-audits.md#)
+[Run Telecom Discrepancy audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/run-audits.md#)
 
-[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
+[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 

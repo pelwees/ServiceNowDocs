@@ -46,7 +46,7 @@ You can create a coaching assessment from incidents, problems, change requests, 
 
     3.  In the **Due Date** field, enter the date when the assessment is due.
 
-    The coaching assessment is set to **Closed Incomplete** state after the due date. Use system properties to set due dates to complete training. For more information, refer to [Coaching reference](../reference/cf-coaching-reference.md). You can disable automatic closure behavior by deactivating the **Close assessments after expiration** scheduled job.
+    The coaching assessment is set to **Closed Incomplete** state after the due date. Use system properties to set due dates to complete training. For more information, refer to [Coaching reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../reference/cf-coaching-reference.md). You can disable automatic closure behavior by deactivating the **Close assessments after expiration** scheduled job.
 
 3.  Fill in the fields in the **Notes** tab.
 
@@ -68,7 +68,7 @@ You can create a coaching assessment from incidents, problems, change requests, 
 
     See [Skills Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/skills-management.md) for more information.
 
-7.  Add [assigned training content](cf-identify-learning-content.md) in the **Assigned course items** related list.
+7.  Add [assigned training content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-identify-learning-content.md) in the **Assigned course items** related list.
 
 8.  Review survey feedback for the trainee in the **Survey Results** related list.
 
@@ -156,13 +156,13 @@ Summary
 Trainee showed great interest in learning the trainings and finished them ahead of due date.
 
 </td></tr></tbody>
-</table>-   **[Assign skills after completing an assessment](cf-assign-skills-assessment.md)**  
+</table>-   **[Assign skills after completing an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-assign-skills-assessment.md)**  
 Automatically assign skills to trainees for specific skill levels based on the course items they have completed. For example, if a trainee completes the course items for learning Japanese at an expert level, then the skill level 'expert' can be assigned to the trainee.
 
-**Parent Topic:**[Coaching your trainee](../concept/cf-coaching-your-trainee.md)
+**Parent Topic:**[Coaching your trainee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../concept/cf-coaching-your-trainee.md)
 
 **Related topics**  
 
 
-[Coaching field descriptions](../reference/cf-coaching-field-descriptions.md)
+[Coaching field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../reference/cf-coaching-field-descriptions.md)
 

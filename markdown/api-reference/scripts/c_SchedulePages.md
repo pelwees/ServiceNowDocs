@@ -17,7 +17,7 @@ A schedule page is a record that contains a collection of scripts that allow for
 
 Creation of timeline schedule pages requires understanding of the page/event flow and the ability to write client and server side JavaScript.
 
-**Parent Topic:**[Server-side scripting](../../server-scripting/concept/c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../server-scripting/concept/c_ServerScripting.md)
 
 ## Schedule pages form
 
@@ -378,6 +378,6 @@ IncidentTimelineScriptInclude.prototype = Object.extendsObject(AbstractTimelineS
 
 6.  After clicking **OK**, it is clear the incident is now listed in the **Closed Incidents** group.
 
-    ![Timeline of an example incident](../image/TimelineExampleIncidentUpdated.png "Timeline Example Incident Updated")
+    ![Timeline of an example incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/TimelineExampleIncidentUpdated.png "Timeline Example Incident Updated")
 
 

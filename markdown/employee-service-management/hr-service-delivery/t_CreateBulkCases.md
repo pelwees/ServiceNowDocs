@@ -51,7 +51,7 @@ HR service
 
 </td><td>
 
-The HR service associated with the bulk case request.**Note:** When you create a user segment group, the fields from the HR service you select can appear similar to creating a new HR case. For more information, see [Create a user segment group](bulk-case-segment.md).
+The HR service associated with the bulk case request.**Note:** When you create a user segment group, the fields from the HR service you select can appear similar to creating a new HR case. For more information, see [Create a user segment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case-segment.md).
 
 </td></tr><tr><td>
 
@@ -104,8 +104,8 @@ Shows the date and time your bulk case request was submitted to create cases.**N
 
 4.  Select **New** in the **User segment groups** tab.
 
-    For more information, see [Create a user segment group](bulk-case-segment.md).
+    For more information, see [Create a user segment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case-segment.md).
 
 
-**Parent Topic:**[Creating bulk cases](../concept/bulk-case.md)
+**Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/bulk-case.md)
 

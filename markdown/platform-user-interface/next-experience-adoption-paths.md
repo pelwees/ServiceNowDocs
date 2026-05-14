@@ -37,7 +37,7 @@ If you're an existing customer who has made any of the following modifications t
 You can use the following tools and APIs with your implementation partner to help adjust your customizations to work well with the new Next Experience theme:
 
 -   [Scriptable PolarisUI API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/PolarisUIScopedAPI.md)
--   [Next Experience client scripting globals](../reference/next-exp-client-script-globals.md)
+-   [Next Experience client scripting globals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/next-exp-client-script-globals.md)
 -   [Jelly tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md)
 
 ## Existing customer opting out of the Next Experience UI prior to an upgrade
@@ -73,7 +73,7 @@ For more information, see:
 -   [KB1123615 – Moving from Connect Chat to Sidebar](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123615)
 -   [KB1157068 – Live Feed Is Not Supported in Next Experience](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1157068)
 
-**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 ## Enable Next Experience
 
@@ -87,17 +87,17 @@ Role required: admin
 
 As an administrator, you can enable Next Experience for all users on your Australia instance, or let users enable or disable unified navigation for themselves.
 
-If you're a new customer running the Australia release, Next Experience is enabled by default. If you're upgrading, see the information at [Considerations for activating Next Experience](next-experience-adoption-paths.md#) before you enable Next Experience.
+If you're a new customer running the Australia release, Next Experience is enabled by default. If you're upgrading, see the information at [Considerations for activating Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md#) before you enable Next Experience.
 
 **Warning:** It's not recommended that you enable or disable the Next Experience UI until you've learned the impact of how that might affect your instance functionality. You might need assistance from the modification authors or an established partner to ensure a seamless activation.
 
 ### Procedure
 
-1.  On login, the **Turn on Next Experience** modal displays. ![Next experience modal.](../image/turn-on-next-experience-modal.png)
+1.  On login, the **Turn on Next Experience** modal displays. ![Next experience modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/turn-on-next-experience-modal.png)
 
 2.  Select **Get started**.
 
-3.  Read and determine if Next Experience is for your users.![Turn on next experience page.](../image/turn-on-next-experience-page.png)
+3.  Read and determine if Next Experience is for your users.![Turn on next experience page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/turn-on-next-experience-page.png)
 
     **Note:** Be aware that enabling the Next Experience UI will affect all users on your instance, not just the system administrator.
 
@@ -105,7 +105,7 @@ If you're a new customer running the Australia release, Next Experience is enabl
 
 4.  Select **Turn on Next Experience**.
 
-    A banner displays to notify you that Next Experience is successfully turned on.![Next experience turned on banner.](../image/next-experience-turned-on-banner.png)
+    A banner displays to notify you that Next Experience is successfully turned on.![Next experience turned on banner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-experience-turned-on-banner.png)
 
 5.  Log out and back into your instance.
 

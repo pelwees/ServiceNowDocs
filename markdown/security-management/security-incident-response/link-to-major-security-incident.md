@@ -27,7 +27,7 @@ Role required: sn\_si.analyst.
 
 3.  Click **Link to Major Security Incident**.
 
-    ![Link incident](../image/link-si-to-msi.png)
+    ![Link incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/link-si-to-msi.png)
 
 4.  Select the incident\(s\) to link to a major security incident.
 
@@ -38,5 +38,5 @@ Role required: sn\_si.analyst.
     After the incident is linked as a child incident to a major security incident, **Major Security Incident** tag is applied and displayed on the form banner.
 
 
-**Parent Topic:**[Working with MSI Records](../concept/working-with-msi-records.md)
+**Parent Topic:**[Working with MSI Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/working-with-msi-records.md)
 

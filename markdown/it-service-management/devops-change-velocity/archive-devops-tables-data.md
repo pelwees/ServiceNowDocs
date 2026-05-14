@@ -66,5 +66,5 @@ The data archiving rules feature considers and honors parent rules before indivi
 
 Base-system destroy rules are also enabled and activated on all the archived DevOps tables. By default, data is deleted from an archived table after 36 months or 1095 days have passed from the time the data is stored in the archive table. For more information, see [Create a destroy rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnArchiveRule.md).
 
-**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 

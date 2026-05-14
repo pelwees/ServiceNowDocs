@@ -25,11 +25,11 @@ Typically, this is to prevent any other applications from changing the functiona
 |**Allow access to this table via web services**|Disabled|
 |**Allow configuration**|Disabled|
 
-![Limiting design-time access to this application scope only](../image/DenyingAllRuntimeAccess.png "Limiting design-time access to this application scope only")
+![Limiting design-time access to this application scope only](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/DenyingAllRuntimeAccess.png "Limiting design-time access to this application scope only")
 
 The following diagram illustrates the effect of denying other application scopes the ability to create configuration records.
 
-![Limiting design access to this application scope only](../image/EffectsOfDenyAllDesignTimeAccess.png "Limiting design access to this application scope only")
+![Limiting design access to this application scope only](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/EffectsOfDenyAllDesignTimeAccess.png "Limiting design access to this application scope only")
 
-**Parent Topic:**[Design-time access to application tables](c_DesignTimeAccessToAppTables.md)
+**Parent Topic:**[Design-time access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_DesignTimeAccessToAppTables.md)
 

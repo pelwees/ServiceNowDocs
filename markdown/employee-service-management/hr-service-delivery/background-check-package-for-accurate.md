@@ -47,14 +47,14 @@ Role required: sn\_hr\_integrations.admin
 
 .
 
-**Parent Topic:**[Integrating with the Accurate Background service](../concept/integrate-with-accurate-service.md)
+**Parent Topic:**[Integrating with the Accurate Background service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrate-with-accurate-service.md)
 
-**Previous topic:**[Verify integration for the Accurate service](verify-base-integration-for-accurate.md)
+**Previous topic:**[Verify integration for the Accurate service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/verify-base-integration-for-accurate.md)
 
-**Next topic:**[Integrating with the Sterling Talent Solutions service](../concept/integrate-with-sterling-service.md)
+**Next topic:**[Integrating with the Sterling Talent Solutions service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrate-with-sterling-service.md)
 
 **Related topics**  
 
 
-[Provide source credentials for the Accurate service](hr-integrations-sources-accurate.md)
+[Provide source credentials for the Accurate service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-sources-accurate.md)
 

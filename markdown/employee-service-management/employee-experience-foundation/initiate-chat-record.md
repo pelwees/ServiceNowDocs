@@ -27,7 +27,7 @@ Role required: user with access to the respective records
 
 3.  Within the dialog box that appears, select the participants for the chat.
 
-    ![Start chat modal with user presence status](../images/start-chat-modal-fd-user-presence.png)
+    ![Start chat modal with user presence status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/start-chat-modal-fd-user-presence.png)
 
     The dialog box displays the **Recommended** and **Selected** participants along with their current presence status in Microsoft Teams.
 
@@ -92,15 +92,15 @@ Option to choose the default chat client.
 
     The Microsoft Teams app displays the chat title and the opening message provided by the agent.
 
-    ![Chat conversation](../images/chat-conversation-ms-teams.png)
+    ![Chat conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-conversation-ms-teams.png)
 
     The system will capture the work notes about the chat details.
 
-    ![Chat work notes](../images/chat-work-notes.png)
+    ![Chat work notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-work-notes.png)
 
     If the agent initiates the chat from the record with the same user, the **Start Microsoft Teams Chat** appears as shown.
 
-    ![Continue chat](../images/continue-chat.png)
+    ![Continue chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/continue-chat.png)
 
     The system displays **Continue Chat** button to resume the conversation. However, if any other user is added, the chat modal displays the **Chat title** and the **Create an opening message** fields.
 
@@ -111,7 +111,7 @@ Option to choose the default chat client.
 
         The chat transcript is stored in the **Activities** section.
 
-        ![Chat details in Activities section](../images/chat-details-activities-section.png)
+        ![Chat details in Activities section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-details-activities-section.png)
 
     |Field|Description|
     |:----|:----------|
@@ -123,5 +123,5 @@ Option to choose the default chat client.
     |Activities|Chat transcript|
 
 
-**Parent Topic:**[Request based chat - Start and import chat from classic view](../concept/initiate-conversation-requester.md)
+**Parent Topic:**[Request based chat - Start and import chat from classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/initiate-conversation-requester.md)
 

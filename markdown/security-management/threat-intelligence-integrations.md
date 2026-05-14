@@ -17,7 +17,7 @@ The Threat Intelligence base system includes integrations to third-party malware
 
 The base system includes a series of "cards" for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on Security Operations plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
 
-![Threat Intelligence integrations](../image/threat-cards.png)
+![Threat Intelligence integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/threat-cards.png)
 
 You can filter the visible integrations using the **Category** drop-down menu. The **Show Configurations** drop-down menu lets you see multiple instances of implementations that allow their creation.
 

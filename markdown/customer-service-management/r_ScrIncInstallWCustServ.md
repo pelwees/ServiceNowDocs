@@ -20,5 +20,5 @@ Script includes are added with activation of Customer Service Management.
 |AccountTeamUtil|Util APIs for the Customer Service Management account team responsibility module.|
 |AjaxCustomerServiceSearch|Ajax class that provides the knowledge base search results.|
 
-**Parent Topic:**[Components installed with Customer Service Management](r_InstalledWithCustomerService.md)
+**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 

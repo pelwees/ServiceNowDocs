@@ -35,8 +35,8 @@ You might want to add custom tables or remove tables you do not use.
 
     The property value populates the task type selection list users choose from when they create a task from a checklist item. Note that users can only see task types for which they have the appropriate access roles.
 
-    ![Task type selection list](../image/CreateTaskFromChecklistItem.png)
+    ![Task type selection list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/CreateTaskFromChecklistItem.png)
 
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardChecklists.md)
 

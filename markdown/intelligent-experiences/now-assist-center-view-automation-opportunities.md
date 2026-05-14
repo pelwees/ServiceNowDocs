@@ -16,7 +16,7 @@ Review the automation opportunities that AI Agent Advisor has identified for you
 
 ## Before you begin
 
-Automation discovery must be set up and an analysis run must be completed. For more information, see [Set up automation discovery for AI Agent Advisor](now-assist-center-set-up-automation-discovery.md).
+Automation discovery must be set up and an analysis run must be completed. For more information, see [Set up automation discovery for AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-set-up-automation-discovery.md).
 
 Role required: sn\_na\_center.nac\_admin
 
@@ -32,7 +32,7 @@ After AI Agent Advisor completes an analysis, it produces a prioritized list of 
 
     Each card displays the estimated time and cost savings.
 
-    ![AI Agent Advisor section of the home page showing automation opportunities.](../image/now-assist-center-agent-advisor-opportunities-home.png "Automation opportunities")
+    ![AI Agent Advisor section of the home page showing automation opportunities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-opportunities-home.png "Automation opportunities")
 
 3.  Do one of the following:
 
@@ -40,7 +40,7 @@ After AI Agent Advisor completes an analysis, it produces a prioritized list of 
 
         The Resolution Steps tab opens showing the opportunity details.
 
-        ![Resolution Steps tab showing the opportunity details.](../image/now-assist-center-agent-advisor-opportunity-detail-2.png "Opportunity details example")
+        ![Resolution Steps tab showing the opportunity details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-opportunity-detail-2.png "Opportunity details example")
 
     2.  Select **View all** to view the complete list of automation opportunities.
 
@@ -48,17 +48,17 @@ After AI Agent Advisor completes an analysis, it produces a prioritized list of 
 
         Use the search field or the filter and sort controls adjust the list.
 
-        ![Automation opportunities tab showing a list of all automation opportunities.](../image/now-assist-center-agent-advisor-opportunities-list.png "Automation opportunities list")
+        ![Automation opportunities tab showing a list of all automation opportunities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-opportunities-list.png "Automation opportunities list")
 
 
 ## What to do next
 
-Implement an automation opportunity. For more information, see [Implement an automation opportunity from Now Assist Center](activate-automation-opportunity-now-assist-center.md).
+Implement an automation opportunity. For more information, see [Implement an automation opportunity from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-automation-opportunity-now-assist-center.md).
 
-**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](../concept/now-assist-center-using-ai-agent-advisor.md)
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 
 
-[Implement an automation opportunity from Now Assist Center](activate-automation-opportunity-now-assist-center.md)
+[Implement an automation opportunity from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-automation-opportunity-now-assist-center.md)
 

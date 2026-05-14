@@ -52,5 +52,5 @@ Role required: sn\_hr\_wfo.admin
     3.  In the **Group** field, select a group that you want to associate with the learning library.
     4.  Select **Save**.
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/learning-wfo-hr.md)
 

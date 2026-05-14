@@ -19,5 +19,5 @@ Facilities Move Management adds the following script includes.
 |--------------|-----------|
 |FacilitiesMoveUtils|Utilities used by move management|
 
-**Parent Topic:**[Installed with Facilities Move Management](r_InstallWFacMoveMgmt.md)
+**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 

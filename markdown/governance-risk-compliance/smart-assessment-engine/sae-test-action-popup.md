@@ -41,7 +41,7 @@ Assessors
 
 Persons who are notified of the assessment and typically respond to the assessment or assign it to another user. One assessment instance is assigned to each assessor.
 
- Assessors have the Assessment actor \[sn\_smart\_asmt.actor\] role. See [Roles installed in Smart Assessment Engine](sae-roles-defined.md).
+ Assessors have the Assessment actor \[sn\_smart\_asmt.actor\] role. See [Roles installed in Smart Assessment Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-roles-defined.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Category that the assessment template should be a member of. For example, Risk, 
 
 Template purposes enforce data segregation for templates. A purpose controls which users can view a template. Each assessment template is associated with a purpose. To view a template within a specific purpose, you must have a category role associated with that purpose.
 
-For more information, see [Create an assessment template category](../task/sae-asmnt-template-category-create.md).**Note:** You can create an assessment only from a published assessment template.
+For more information, see [Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../task/sae-asmnt-template-category-create.md).**Note:** You can create an assessment only from a published assessment template.
 
 </td></tr><tr><td>
 

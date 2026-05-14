@@ -21,14 +21,14 @@ Learn about the fields of the Idea form. Use this form to create or edit the det
 |Category|The category to associate with your idea. You can select multiple categories for an idea. Categories are also visible to other users in the Idea Portal when viewing submitted ideas.|
 |Description|Detailed description of the idea. Consider including details such as why is it useful, who would benefit from it, and how it would work. You can use the formatting toolbar to format text and add images or web links.|
 
-**Parent Topic:**[Form field information for Innovation Management](form-field-information-for-innovation-management.md)
+**Parent Topic:**[Form field information for Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/form-field-information-for-innovation-management.md)
 
 **Related topics**  
 
 
-[Create an Idea module](../task/create-idea-module.md)
+[Create an Idea module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/create-idea-module.md)
 
-[Submit an idea](../task/submit-idea-in-idea-portal.md)
+[Submit an idea](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/submit-idea-in-idea-portal.md)
 
-[View, filter, and sort ideas](../task/view-filter-sort-ideas.md)
+[View, filter, and sort ideas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../task/view-filter-sort-ideas.md)
 

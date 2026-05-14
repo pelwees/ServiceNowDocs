@@ -29,10 +29,10 @@ Role required: admin
 
 4.  Select **Turn on** for the Process Inefficiency Highlights skill.
 
-    ![Process Inefficiency Highlights skill activated](../image/skill-acti-highli.png)
+    ![Process Inefficiency Highlights skill activated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/skill-acti-highli.png)
 
     The skill is activated for your instance.
 
 
-**Parent Topic:**[Working with process inefficiency highlights using Now Assist](../concept/highlights.md)
+**Parent Topic:**[Working with process inefficiency highlights using Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/highlights.md)
 

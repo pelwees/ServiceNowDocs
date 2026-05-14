@@ -17,7 +17,7 @@ Some use cases require an advanced condition or action. Other times, the adminis
 
 Scripting is available in rule actions and conditions, behind the Advanced menu choice or toggle.
 
-![Rule](../images/cpq-scripting-advanced.png)
+![Rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-scripting-advanced.png)
 
 When you click **Create Advanced Function**, the script editor opens, including the tools you need to write a script.
 
@@ -31,19 +31,19 @@ When the script editor first opens, it provides the expected return format of th
 -   Advanced inclusion and exclusion rules return an array.
 -   Product rules return ProductList.
 
-For more details and a script sample, review the "Advanced product actions" section of [Rules](rules_101.md).
+For more details and a script sample, review the "Advanced product actions" section of [Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rules_101.md).
 
 The **? Help** button opens a menu of available functions. Each entry includes a description of the function, the parameters it accepts, its output, and an example that can be inserted at the current location of the cursor in the script.
 
-![Script](../images/cpq-scripting-available-functions.png)
+![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-scripting-available-functions.png)
 
 As you type in the script editor, suggestions are provided, including functions, configurable field variable names, and local variables. Using this feature helps eliminate mismatched variable names and typing errors. In the screenshot below, typing `Ma` gives the user two available functions \(Map and Math\) and a list of all matching fields. Additional inputs narrow the list of matching options.
 
-![Map structure](../images/cpq-scripting-typeahead.png)
+![Map structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-scripting-typeahead.png)
 
 At the bottom of the scripting interface, the debugger lets you test your script by defining values for the variables \(fields\) that it references. Debugger input is provided in JSON format. For your convenience, review field-specific formats in the fields information help \(arrow\).
 
-![Help screen](../images/cpq-scripting-debugger.png)
+![Help screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-scripting-debugger.png)
 
 It can be helpful to save your debugger inputs as comments in your script for easy pasting into the debugger when you need to test the script.
 
@@ -60,13 +60,13 @@ Also see the following sample scripts:
 **Related topics**  
 
 
-[CPQ scripting language reference](cpq-logik-io-scripting-language-reference.md)
+[CPQ scripting language reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-logik-io-scripting-language-reference.md)
 
-[Sample scripts](cpq-sample-scripts.md)
+[Sample scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-sample-scripts.md)
 
-[Using comments and the console to debug scripts](rules-enrichments-comments-and-console_log.md)
+[Using comments and the console to debug scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rules-enrichments-comments-and-console_log.md)
 
-[Scripting: Checking for first and subsequent configurations](enrichments_on_configurer_and_reconfigure_behavior.md)
+[Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md)
 
-[Scripting: How to populate set values](enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values.md)
+[Scripting: How to populate set values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values.md)
 

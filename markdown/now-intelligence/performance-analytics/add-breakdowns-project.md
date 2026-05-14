@@ -16,7 +16,7 @@ breadcrumb: [KPI Composer projects, Design your indicator solution, Configure fu
 Each project can have a set of breakdown definitions that you can use to group the data in KPIs. These breakdown definitions provide the specifications for Performance Analytics breakdowns that you eventually create.
 
 Prerequisites
-:   [Create a KPI Composer project](create-kpi-composer-project.md)
+:   [Create a KPI Composer project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-kpi-composer-project.md)
 
 ## Before you begin
 
@@ -30,20 +30,20 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 3.  In the 'Group by' dialog, use the sliders to select which breakdown definitions to include in your project.
 
-    !['Group by' dialog for projects, with sliders and Add Item link](../image/kpi-comp-project-bkdowns.png)
+    !['Group by' dialog for projects, with sliders and Add Item link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-project-bkdowns.png)
 
     The selected breakdown definitions appear in the header of the KPI tree canvas. From here, you can drag them onto artifacts.
 
 4.  To add a new breakdown definition to your project, click **Add Item** and enter the term.
 
-    ![Add Item field filled in with new breakdown name](../image/kpi-comp-new-breakdown.png)
+    ![Add Item field filled in with new breakdown name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-new-breakdown.png)
 
     The new item appears in the 'Group by' list, and a matching breakdown definition record is created.
 
 
 ## Selecting breakdown definitions for a KPI Composer project
 
-In the following short animation, you see how to select the breakdown definitions Assignment Group, Impact, and Priority to a project. Then you see how to group the values of a KPI tree artifact by Assignment Group and Priority.![Short animation showing 'Group by' terms being added](../image/kpi-comp-add-breakdowns.gif)
+In the following short animation, you see how to select the breakdown definitions Assignment Group, Impact, and Priority to a project. Then you see how to group the values of a KPI tree artifact by Assignment Group and Priority.![Short animation showing 'Group by' terms being added](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-add-breakdowns.gif)
 
 ## What to do next
 
@@ -64,11 +64,11 @@ By holding down the Ctrl/Command or Alt/Option key while dropping a breakdown de
     Remove the breakdown definition from the artifact on which is dropped and from all child artifacts of that artifact.
 
 
-**Parent Topic:**[KPI Composer projects](../concept/kpi-composer-projects.md)
+**Parent Topic:**[KPI Composer projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/kpi-composer-projects.md)
 
-**Previous topic:**[Add personas to a project](add-personas-project.md)
+**Previous topic:**[Add personas to a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-personas-project.md)
 
-**Next topic:**[Write journal entries for a project](write-journal-entries-kpi-composer.md)
+**Next topic:**[Write journal entries for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/write-journal-entries-kpi-composer.md)
 
 ## Define a breakdown
 

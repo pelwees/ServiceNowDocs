@@ -16,8 +16,8 @@ Connect to a Model Context Protocol \(MCP\) server from an MCP client by creatin
 
 With the Quickstart Server or after creating a server, you can complete the following steps to connect to a server from a client:
 
-1.  [Create an OAuth inbound integration for an MCP client](connect-mcp-server-client.md#)
-2.  [Configure an MCP client to connect to an MCP server](connect-mcp-server-client.md#)
+1.  [Create an OAuth inbound integration for an MCP client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md#)
+2.  [Configure an MCP client to connect to an MCP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md#)
 
 The process to configure a client to connect to a server is dependent on the client used. For more information, refer to the documentation for your AI application and client.
 
@@ -79,7 +79,7 @@ Redirect URLs
 
 </td><td>
 
-Enter the redirect URL for a client. The authorization code is sent to this URL after authentication. To get the redirect URL, refer to the documentation for your AI application and client.To connect to the ServiceNow MCP client on another instance, use the following redirect URL: `https://<client-instance>.service-now.com/oauth_redirect.do`. For more information, see the [Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md) documentation.
+Enter the redirect URL for a client. The authorization code is sent to this URL after authentication. To get the redirect URL, refer to the documentation for your AI application and client.To connect to the ServiceNow MCP client on another instance, use the following redirect URL: `https://<client-instance>.service-now.com/oauth_redirect.do`. For more information, see the [Model Context Protocol Client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../model-context-protocol-client/reference/mcp-client.md) documentation.
 
 </td></tr><tr class="sub-head"><td colspan="2">
 
@@ -110,7 +110,7 @@ Select **JWT**.
 
     The OAuth inbound integration is created as broadly scoped with a client ID and client secret that you use when configuring the client to connect to servers on the instance.
 
-    ![An OAuth inbound integration for Claude to connect to MCP servers as an MCP client.](../image/mcp-server-oauth-inbound-integration.png)
+    ![An OAuth inbound integration for Claude to connect to MCP servers as an MCP client.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-oauth-inbound-integration.png)
 
 
 ### What to do next
@@ -259,20 +259,20 @@ The client secret from the OAuth inbound integration on the server instance.
 
 ### Connecting to an MCP server from ServiceNow Model Context Protocol Client
 
-This example demonstrates how to connect to a server from an AI agent on another instance using the ServiceNow Model Context Protocol Client. First, you configure the client to call the preconfigured Quickstart Server. From an AI agent, you access the Quickstart Server's list of tools and add individual tools to the agent. Lastly, you test the agent in AI Agent Studio by providing a prompt and seeing the agent's response. For more information, see the [Model Context Protocol Client](../../model-context-protocol-client/reference/mcp-client.md) documentation.
+This example demonstrates how to connect to a server from an AI agent on another instance using the ServiceNow Model Context Protocol Client. First, you configure the client to call the preconfigured Quickstart Server. From an AI agent, you access the Quickstart Server's list of tools and add individual tools to the agent. Lastly, you test the agent in AI Agent Studio by providing a prompt and seeing the agent's response. For more information, see the [Model Context Protocol Client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../model-context-protocol-client/reference/mcp-client.md) documentation.
 
 Role required: sn\_mcp\_client.admin
 
 1.  On the server instance, create an OAuth inbound integration for the ServiceNow Model Context Protocol Client.
 
-    For more information, see [Create an OAuth inbound integration for an MCP client](connect-mcp-server-client.md#).
+    For more information, see [Create an OAuth inbound integration for an MCP client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md#).
 
 2.  On the client instance, navigate to **All** &gt; **AI Agent Studio** &gt; **Settings**.
 3.  Select **Manage MCP Servers**.
 4.  Select **New**.
 5.  Add the Quickstart Server.
 
-    For more information about this step, see [Add an MCP Server with OAuth 2.1](../../model-context-protocol-client/task/add-an-oauth-2-1-mcp-server.md).
+    For more information about this step, see [Add an MCP Server with OAuth 2.1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../model-context-protocol-client/task/add-an-oauth-2-1-mcp-server.md).
 
     1.  On the Add MCP server form, fill in the fields.
 
@@ -302,12 +302,12 @@ Role required: sn\_mcp\_client.admin
     2.  Select **Allow** to allow the client to connect to the server.
 7.  Add tools from the Quickstart Server to an AI agent.
 
-    For more information about this step, see [Add an MCP server tool to an AI agent](../../model-context-protocol-client/task/add-mcp-server-tool.md).
+    For more information about this step, see [Add an MCP server tool to an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../model-context-protocol-client/task/add-mcp-server-tool.md).
 
     1.  In AI Agent Studio, select the **Create and manage** tab.
     2.  From the AI agents tab, select an existing agent or create one.
 
-        For information about creating an agent, see [Create an AI agent](../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
+        For information about creating an agent, see [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
 
     3.  Select **Add tools and information**.
     4.  Select **Add tool** &gt; **MCP server tool**.
@@ -318,13 +318,13 @@ Role required: sn\_mcp\_client.admin
         |Select Model Context Protocol server|Quickstart Server|
         |Select tool|Select the tools from the Quickstart Server that you want to use with this AI agent.|
 
-        ![Viewing the tools list for the Quickstart Server from an AI agent in AI Agent Studio.](../image/mcp-server-tools-list.png)
+        ![Viewing the tools list for the Quickstart Server from an AI agent in AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-tools-list.png)
 
     6.  Select **Add**.
     7.  Select **Save and continue**.
 8.  Test the AI agent.
 
-    For more information about this step, see [Test an AI agent](../../model-context-protocol-client/task/test-ai-agent-mcp.md).
+    For more information about this step, see [Test an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../model-context-protocol-client/task/test-ai-agent-mcp.md).
 
     1.  In AI Agent Studio, select the **Testing** tab.
     2.  Select **Start manual test**.
@@ -334,11 +334,11 @@ Role required: sn\_mcp\_client.admin
 
         The prompt should be based on which tools are available. For example, if you added the Look up Case Records and Case summarization tools, you can enter "Summarize all cases closed this week."
 
-        ![Prompting the AI agent for summaries of cases closed by Abel Tuter this week.](../image/mcp-server-prompt-agent.png)
+        ![Prompting the AI agent for summaries of cases closed by Abel Tuter this week.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-prompt-agent.png)
 
     6.  Select **Continue to Test Chat Response**.
     The AI agent calls the server, and the server runs the tools requested based on the prompt. The server returns the information to the agent as JSON data, and the agent presents it as formatted text. In this example, the agent returns summaries of the cases closed by Abel Tuter in the past week.
 
-    ![The agent responds with summaries of two cases closed by Abel Tuter this week.](../image/mcp-server-agent-response.png)
+    ![The agent responds with summaries of two cases closed by Abel Tuter this week.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-agent-response.png)
 
 

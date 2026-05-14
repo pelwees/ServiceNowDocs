@@ -19,11 +19,11 @@ Use the Content Experience Builder to create stages for your campaign on Employe
 
 Role required: sn\_ca.campaign\_manager
 
-Complete the steps to [Create a campaign](ecpro-create-campaign.md)
+Complete the steps to [Create a campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-create-campaign.md)
 
 ## About this task
 
-Stages organize and manage the delivery of campaign content. When configuring a stage, you set the stage trigger, which determines when content becomes available and for how long. To learn more about triggers, see [Campaign bundle triggers](../reference/ecpro-triggers.md).
+Stages organize and manage the delivery of campaign content. When configuring a stage, you set the stage trigger, which determines when content becomes available and for how long. To learn more about triggers, see [Campaign bundle triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ecpro-triggers.md).
 
 **Note:** Some parts of the interface use the term "bundles" to refer to stages.
 
@@ -34,11 +34,11 @@ Stages organize and manage the delivery of campaign content. When configuring a 
 
 3.  Select the campaign and click the **Schedule of content** tab or click **Next**.
 
-    ![Schedule of content tab](../images/campaign-content-builder-1.png)
+    ![Schedule of content tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/campaign-content-builder-1.png)
 
 4.  Click **Create stage**.
 
-    A stage is a visible area to add content.![Campaign - Create stage](../images/campaign-create-stage.png)
+    A stage is a visible area to add content.![Campaign - Create stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/campaign-create-stage.png)
 
 5.  On the form, fill in the fields.
 
@@ -46,10 +46,10 @@ Stages organize and manage the delivery of campaign content. When configuring a 
     |-----|-----------|
     |Title|The name of the campaign bundle.|
     |Campaign|The campaign associated with the campaign bundle.|
-    |Trigger type|How the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](../reference/ecpro-triggers.md)|
+    |Trigger type|How the campaign bundle starts or ends. To learn more about triggers, see [Campaign bundle triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ecpro-triggers.md)|
     |Description|Descriptive information about the campaign bundle.|
 
-    ![Campaign bundle](../images/campaign-bundle.png)
+    ![Campaign bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/campaign-bundle.png)
 
 6.  Click **Submit**.
 
@@ -57,5 +57,5 @@ Stages organize and manage the delivery of campaign content. When configuring a 
 ## What to do next
 
 -   Click **Add stage** to configure additional stages
--   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](ecpro-campaigns-manage-content-builder.md)
+-   Add content to the stage, specify an audience, and set the location where the content will be delivered. For more information on creating content in the Content Experience Builder, see [Add content to a campaign using Content Experience Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns-manage-content-builder.md)
 

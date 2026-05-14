@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 -   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   To use attachments to generate a project, activate the document intelligence skill. The default LLM is Azure OpenAI. Switching to a different model may affect accuracy.
 
--   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+-   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 
 ## Procedure
@@ -35,7 +35,7 @@ Role required: it\_project\_manager
 
     To create a project task without using Now Assist, use **Add Task** option.
 
-    ![Generate tasks using Now assist.](../images/generate-tasks-now-assist-spm.png)
+    ![Generate tasks using Now assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/generate-tasks-now-assist-spm.png)
 
 4.  Provide your project task input using one or more of these methods.
 
@@ -47,7 +47,7 @@ Role required: it\_project\_manager
 
 6.  Review the task details for a project on the planning page.
 
-    ![AI-generated tasks for a project in Project Workspace.](../images/generated-tasks-page-na-spm.png)
+    ![AI-generated tasks for a project in Project Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/generated-tasks-page-na-spm.png)
 
     **Note:** Because the information in these fields is automatically generated, it's a good idea to review the text and make sure it's accurate.
 
@@ -56,5 +56,5 @@ Role required: it\_project\_manager
 
 The project is created with the generated tasks, including task hierarchy and dates derived from your input.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

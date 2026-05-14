@@ -38,12 +38,12 @@ When WS-Security is enabled, authentication is required for all SOAP requests in
 5.  Click **Update**.
 
 
-**Parent Topic:**[Enable WS-Security verification](t_EnableWS-SecurityVerification.md)
+**Parent Topic:**[Enable WS-Security verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_EnableWS-SecurityVerification.md)
 
 **Related topics**  
 
 
-[Enable WS-Security verification](t_EnableWS-SecurityVerification.md)
+[Enable WS-Security verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_EnableWS-SecurityVerification.md)
 
-[WS-Security](../concept/c_SOAPWebService.md#WS-Security)
+[WS-Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md#WS-Security)
 

@@ -141,7 +141,7 @@ Selected
 
         The following image shows the Advanced tab with Condition and Script fields populated.
 
-        ![Advanced tab with Condition and Script fields populated.](../image/email-promotion-business-rule.png)
+        ![Advanced tab with Condition and Script fields populated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/email-promotion-business-rule.png)
 
     7.  Select **Submit**.
 
@@ -155,5 +155,5 @@ When an agent associates an email with a CRM record through the Microsoft Outloo
 
 [Classic Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/business-rules-classic/c_BusinessRules.md)
 
-[Track emails linked from Microsoft Outlook](view-associated-emails-crm.md)
+[Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-associated-emails-crm.md)
 

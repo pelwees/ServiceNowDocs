@@ -35,7 +35,7 @@ The final step of the agentic workflow guided setup includes options for where a
 
     3.  Select a table where the UI action can be used.
 
-        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [In-product agentic AI](../concept/in-product-agentic-ai.md) for more information about the AI Workflows panel.
+        Users who are accessing a record on the selected table can view the UI action in the Core UI and workspaces. See [In-product agentic AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/in-product-agentic-ai.md) for more information about the AI Workflows panel.
 
     4.  Specify conditions for the UI action to appear and select **Add**.
 
@@ -43,7 +43,7 @@ The final step of the agentic workflow guided setup includes options for where a
 
         **Note:** The display for a new UI action is turned on by default.
 
-    ![Select channels and access page](../image/channels-access-aw.png)
+    ![Select channels and access page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/channels-access-aw.png)
 
 3.  Select **Save and test**.
 
@@ -56,5 +56,5 @@ If you added a UI action for your agentic workflow in this guided setup, but the
 
 ## What to do next
 
-Move to the **Testing** playground to [test an agentic workflow execution](test-aia-use-case.md) using example utterances or to [test user access](test-aw-access.md).
+Move to the **Testing** playground to [test an agentic workflow execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md) using example utterances or to [test user access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md).
 

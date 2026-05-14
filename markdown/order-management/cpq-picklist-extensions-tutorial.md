@@ -34,7 +34,7 @@ Role required: Admin
 
 1.  In dogBreed picklist administration, click the Picklist Extension tab, and then click **Guided Setup**.
 
-2.  Click the **Additional option info**, **Filter options**, and **Product Info** tiles, and then click **Next**.![Picklist extensions](../images/cpq-picklist-extensions-ples-2.png)
+2.  Click the **Additional option info**, **Filter options**, and **Product Info** tiles, and then click **Next**.![Picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-extensions-ples-2.png)
 
 3.  For each option in the picklist, enter labels for the extended information to show.
 
@@ -46,9 +46,9 @@ Role required: Admin
 
 5.  Product Info: check **Product ID** and **Product Quantity**.
 
-6.  Click **Next**.![Picklist extensions](../images/cpq-picklist-extensions-ples-3.png)
+6.  Click **Next**.![Picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-extensions-ples-3.png)
 
-7.  Review the format, and then click `Download CSV Template`.![Picklist extensions](../images/cpq-picklist-extensions-ples-4.png)
+7.  Review the format, and then click `Download CSV Template`.![Picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-extensions-ples-4.png)
 
 8.  Complete the CSV file on your local machine.
 
@@ -88,13 +88,13 @@ Role required: Admin
 
 19. Add the picklist extension field to the layout via the Logik Admin UI or by CSV upload, and deploy.
 
-    For more information, see [Displaying a picklist extension on a layout](../concept/csv_layouts_how_do_i_display_a_picklist_extension.md).![Picklist extensions](../images/cpq-picklist-extensions-ples-5.png)
+    For more information, see [Displaying a picklist extension on a layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/csv_layouts_how_do_i_display_a_picklist_extension.md).![Picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-extensions-ples-5.png)
 
 
 **Related topics**  
 
 
-[Displaying a picklist extension on a layout](../concept/csv_layouts_how_do_i_display_a_picklist_extension.md)
+[Displaying a picklist extension on a layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/csv_layouts_how_do_i_display_a_picklist_extension.md)
 
-[Picklists and picklist extensions in rules](../concept/cpq-picklists-and-picklist-extensions-in-rules.md)
+[Picklists and picklist extensions in rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/cpq-picklists-and-picklist-extensions-in-rules.md)
 

@@ -17,27 +17,27 @@ ServiceNow® Access Analyzer is an access diagnostic tool designed for AI admini
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-access-analyzer.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-access-analyzer.md)
 
- [Learn the features and business value of Access Analyzer.](explore-access-analyzer.md)
+ [Learn the features and business value of Access Analyzer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/explore-access-analyzer.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-analyzer.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/use-access-analyzer.md)
 
- [Understand how to use Access Analyzer.](../task/use-access-analyzer.md)
+ [Understand how to use Access Analyzer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/use-access-analyzer.md)
 
 </td></tr><tr><td>
 
-[Permission Evaluation ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](permission-evaluation.md)
+[Permission Evaluation ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](permission-evaluation.md)
 
- [Know how the permissions are evaluated.](permission-evaluation.md)
+ [Know how the permissions are evaluated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/permission-evaluation.md)
 
 </td><td>
 
-[Frequently asked questions ![](../../../reuse/icons/brand-icons/bus-learn.svg)](frequently-asked-questions.md)
+[Frequently asked questions ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-learn.svg)](frequently-asked-questions.md)
 
- [Get answers to commonly asked questions about Access Analyzer.](frequently-asked-questions.md)
+ [Get answers to commonly asked questions about Access Analyzer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/frequently-asked-questions.md)
 
 </td></tr></tbody>
 </table>

@@ -23,7 +23,7 @@ You must have the Unified Content Management application installed and you must 
 
 **Warning:** After this option is enabled, this selection can’t be reversed.
 
-For more information, see [Configure TPRM properties](../../grc-vendor-risk-implementation/task/tprm-properties-configure.md), [Migrating from Classic Assessment Engine to Smart Assessment Engine](../concept/tprm-migrate-asmnt-sae.md), and [Managing TPRM SAE templates with Unified Content Management](../concept/tprm-integrating-ucm.md).
+For more information, see [Configure TPRM properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-properties-configure.md), [Migrating from Classic Assessment Engine to Smart Assessment Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-migrate-asmnt-sae.md), and [Managing TPRM SAE templates with Unified Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-integrating-ucm.md).
 
 ## About this task
 
@@ -63,5 +63,5 @@ To modify template content, contact a team member with the TPR admin \[sn\_vdr\_
 
 **Note:**
 
-You can create an assessment only from a published assessment template. You can update a published template only if no active assessment is associated with it. You can also copy an existing template, including all questions, sections, instructions, and configurations. For more information, see [Copy an assessment template](../../assessment-engine/task/sae-asmnt-template-duplicate.md).
+You can create an assessment only from a published assessment template. You can update a published template only if no active assessment is associated with it. You can also copy an existing template, including all questions, sections, instructions, and configurations. For more information, see [Copy an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../assessment-engine/task/sae-asmnt-template-duplicate.md).
 

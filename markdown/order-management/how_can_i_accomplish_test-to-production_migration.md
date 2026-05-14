@@ -21,5 +21,5 @@ CPQ Administrators have two ways to migrate a blueprint from test to production 
 **Related topics**  
 
 
-[Testing in non-production environments before migration](cpq-env-to-env-bp-migration-intro.md)
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 

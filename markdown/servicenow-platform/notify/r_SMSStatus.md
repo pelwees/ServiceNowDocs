@@ -104,5 +104,5 @@ unknown
 The driver does not support the status
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Notify with SMS](../concept/c_NotifySMS.md)
+</table>**Parent Topic:**[Using Notify with SMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifySMS.md)
 

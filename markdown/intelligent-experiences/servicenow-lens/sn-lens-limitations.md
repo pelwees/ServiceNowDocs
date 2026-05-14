@@ -82,5 +82,5 @@ Hallucinations
 If the large language model \(LLM\) returns text that doesn’t exist in the source artifacts, the LLM might inject out-of-context information. You must verify that all information aligns with the source material to ensure that there are no fabricated facts or unsupported conclusions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow AI Lens reference](servicenow-lens-reference.md)
+</table>**Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 

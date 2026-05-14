@@ -17,7 +17,7 @@ You can create and manage supplier cases for suppliers in the Source-to-Pay Work
 
 On the Source-to-Pay Workspace List page, navigate to **Lists** &gt; **Cases** and select any of the sub-modules to view a list of cases. Select the link to the case in the Number column to open the Case Details page.
 
-For more information about viewing cases in the Source-to-Pay Workspace, see [View a supplier case from the Source-to-Pay Workspace](../task/view-supp-case-ws.md).
+For more information about viewing cases in the Source-to-Pay Workspace, see [View a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/view-supp-case-ws.md).
 
 The Case Details page contains the following options.
 
@@ -37,12 +37,12 @@ Multi-tab interface
 
 When you select a link for a case, each case opens in a separate tab in the top-left corner, which enables you to easily navigate between multiple open cases. Each case displays information in the following tabs:
 
--   **Playbook** tab: Displays either the playbook to onboard a supplier or the generic playbook depending on the case type. For more information, see [Use the supplier onboarding playbook to onboard suppliers](use-playbooks-onboard-supp.md#) and [Case playbook for specific supplier case types](gen-playbook-cases.md).
+-   **Playbook** tab: Displays either the playbook to onboard a supplier or the generic playbook depending on the case type. For more information, see [Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#) and [Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/gen-playbook-cases.md).
 -   **Details** tab: Contains the Supplier Case, Summary Details, and Resolution Information sections.
     -   Supplier Case: Displays information about the supplier case.
     -   Summary Details: Displays the parent case, related location, start and end dates for the case.
     -   Resolution Information: Displays the resolution information and close notes for the case.
--   **Supplier Information** tab: Displays information about the supplier. For more information about this tab, see [View information on supplier cases](supp-info-tab.md).
+-   **Supplier Information** tab: Displays information about the supplier. For more information about this tab, see [View information on supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-info-tab.md).
 -   **Supplier Tasks** tab: Lists the supplier tasks for the supplier case.
 -   **Related Cases** tab: Lists the child supplier cases related to the parent supplier case.
 
@@ -87,7 +87,7 @@ Contextual side panel
 
 </td><td>
 
-This panel appears below the UI actions. Select the supplier overview icon \(![Supplier overview icon.](../image/supp-overview-icon.png)\) to open the following panels:
+This panel appears below the UI actions. Select the supplier overview icon \(![Supplier overview icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-overview-icon.png)\) to open the following panels:
 
 -   Supplier overview: Displays the following information about the supplier.
     -   **Supplier**: Name of the supplier.
@@ -112,68 +112,68 @@ For more information about risk ratings and risk scores, see [Set up risk rating
     -   **Country of Registration**: The country in which the supplier is registered.
 -   Supplier contacts: Displays information about the supplier contacts. An Admin label next to the contact's name indicates that the contact is a primary contact. If a supplier has more than five supplier contacts, the **View all** option is displayed. Select **View all** to view a list of all the contacts for the supplier.
 
- Select the attachments icon \(![Attachments icon.](../image/attachments-icon.png)\) to open the Attachments panel, which enables you to attach documents to the case.
+ Select the attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/attachments-icon.png)\) to open the Attachments panel, which enables you to attach documents to the case.
 
- Select the agent assist icon \(![Agent Assist icon.](../image/agent-assist-icon.png)\) to open the Agent Assist panel, which enables you to search for information across multiple sources such as catalog items, knowledge articles, supplier cases, problems, and open incidents.
+ Select the agent assist icon \(![Agent Assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/agent-assist-icon.png)\) to open the Agent Assist panel, which enables you to search for information across multiple sources such as catalog items, knowledge articles, supplier cases, problems, and open incidents.
 
 </td></tr></tbody>
-</table>-   **[View information on supplier cases](supp-info-tab.md)**  
+</table>-   **[View information on supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-info-tab.md)**  
 The **Supplier Information** tab shows details about the supplier and the supplier contact, a summary of all the open and overdue cases, and a list of all the cases by their priority.
--   **[Sidebar for supplier cases in the Source-to-Pay Workspace](sidebar-smw.md)**  
+-   **[Sidebar for supplier cases in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sidebar-smw.md)**  
 Sidebar enables stakeholders to collaborate with others by getting into discussions when working on supplier cases.
--   **[Configure due dates for supplier cases](../task/configure-case-due-date.md)**  
+-   **[Configure due dates for supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-case-due-date.md)**  
 Configure due dates for different case types so that the **Due date** field is auto-populated when you create supplier cases.
--   **[Case playbook for specific supplier case types](gen-playbook-cases.md)**  
+-   **[Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/gen-playbook-cases.md)**  
 Source-to-Pay Workspace includes a generic case playbook to complete supplier cases of specific case types.
--   **[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)**  
+-   **[Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-new-supplier-case.md)**  
 Create a supplier case to track the progress of supplier tasks, resolve issues related to supplier products or services, and request additional information from a supplier.
--   **[Assign a supplier case to yourself from the Source-to-Pay Workspace](../task/assign-supp-case.md)**  
+-   **[Assign a supplier case to yourself from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/assign-supp-case.md)**  
 As a supplier manager, assign a case to yourself and start working on it.
--   **[Submit a supplier case from the Source-to-Pay Workspace](../task/submit-supplier-case.md)**  
+-   **[Submit a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/submit-supplier-case.md)**  
 Submit a supplier case in Draft state to indicate that it is ready to be worked on.
--   **[Complete a supplier case from the Source-to-Pay Workspace](../task/complete-supplier-case.md)**  
+-   **[Complete a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/complete-supplier-case.md)**  
 You can mark a supplier case as complete when you finish all the tasks related to that case.
--   **[Reopen a supplier case from the Source-to-Pay Workspace](../task/reopen-supplier-case.md)**  
+-   **[Reopen a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/reopen-supplier-case.md)**  
 Reopen a closed supplier case if you are not satisfied with the case resolution.
--   **[Add a related case to a supplier case from the Source-to-Pay Workspace](../task/add-related-case.md)**  
+-   **[Add a related case to a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/add-related-case.md)**  
 If a supplier case has related cases, you can add them to that supplier case from the Source-to-Pay Workspace.
--   **[View a supplier case from the Source-to-Pay Workspace](../task/view-supp-case-ws.md)**  
+-   **[View a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/view-supp-case-ws.md)**  
 As a supplier manager, view a supplier case that requires your input or approval.
 
-**Parent Topic:**[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
+**Parent Topic:**[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](../task/new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/new-supplier.md)
 
-[Manage supplier details](supp-ws-details-page.md)
+[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-ws-details-page.md)
 
-[Manage internal stakeholders](manage-internal-stakeholders.md)
+[Manage internal stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/manage-internal-stakeholders.md)
 
-[Manage supplier contacts from the Source-to-Pay Workspace](managing-contacts-smw.md)
+[Manage supplier contacts from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-contacts-smw.md)
 
-[Manage supplier tasks from the Source-to-Pay Workspace](managing-tasks.md)
+[Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](../task/offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/offboard-supplier.md)
 
-[Accept an incoming chat request from the Source-to-Pay Workspace](../task/accept-chat-supp-ws.md)
+[Accept an incoming chat request from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/accept-chat-supp-ws.md)
 
-[Interaction Management in Supplier Lifecycle Operations](interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/interaction-mgmt-supplier-mgr-ws.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-composer-slm-workspace.md)
 
-[Overall supplier dashboard](overall-supplier-db.md)
+[Overall supplier dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/overall-supplier-db.md)
 
-[Create supplier case from Universal Request](../task/create-supplier-case.md)
+[Create supplier case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-supplier-case.md)
 
-[Emails view for supplier managers](../task/enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enabling-emails-view-for-contacts.md)
 
-[Configure due dates for supplier cases](../task/configure-case-due-date.md)
+[Configure due dates for supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-case-due-date.md)
 
-[Case playbook for specific supplier case types](gen-playbook-cases.md)
+[Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/gen-playbook-cases.md)
 
-[Playbook for updating the supplier primary data](primary-playbook-cases.md)
+[Playbook for updating the supplier primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](../task/create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-new-supplier-case.md)
 

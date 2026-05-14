@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Inbound Request](som_request_tracker.md) \(sn\_tmt\_core\_inbound\_queue\)
+[Inbound Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som_request_tracker.md) \(sn\_tmt\_core\_inbound\_queue\)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Tracks the status of both synchronous and asynchronous flows. It enables agents 
 
 </td></tr><tr><td>
 
-[Inbound Request Configuration](inbound-request-configuration-table.md) \(sn\_tmt\_core\_inbound\_queue\_config\)
+[Inbound Request Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/inbound-request-configuration-table.md) \(sn\_tmt\_core\_inbound\_queue\_config\)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Defines how each flow is processed and tracked.
 
 </td></tr><tr><td>
 
-[Outbound Request](outbound-request-configuration-table.md) \(sn\_tmt\_core\_outbound\_request\)
+[Outbound Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/outbound-request-configuration-table.md) \(sn\_tmt\_core\_outbound\_request\)
 
 </td><td>
 

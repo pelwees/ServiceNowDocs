@@ -41,7 +41,7 @@ Notes
 
 </td><td>
 
-![Radio buttons in horizontal direction](../images/cpq_display-components-radio-buttons.png)
+![Radio buttons in horizontal direction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-radio-buttons.png)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Single-select
 
 </td><td>
 
-![Radio buttons in vertical direction](../images/cpq_display-components-vertical-radio.png)
+![Radio buttons in vertical direction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-vertical-radio.png)
 
 </td><td>
 
@@ -73,7 +73,7 @@ Single-select
 
 </td><td>
 
-![Options](../images/cpq_display-components-radio.png)
+![Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-radio.png)
 
 </td><td>
 
@@ -89,7 +89,7 @@ Single-select
 
 </td><td>
 
-![Check boxes in horizontal direction](../images/cpq_display-components-checkbox.png)
+![Check boxes in horizontal direction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-checkbox.png)
 
 </td><td>
 
@@ -105,7 +105,7 @@ Multi-select
 
 </td><td>
 
-![Check boxes in vertical direction](../images/cpq_display-components-vertical-checkbox.png)
+![Check boxes in vertical direction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-vertical-checkbox.png)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Multi-select
 
 </td><td>
 
-![Picklist with multiple options](../images/cpq_display-components-picklist.png)![Picklist with a single option](../images/cpq_display-components-picklist-2.png)
+![Picklist with multiple options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-picklist.png)![Picklist with a single option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-picklist-2.png)
 
 </td><td>
 
@@ -137,7 +137,7 @@ Single-select; includes combo box for filtering
 
 </td><td>
 
-![Basic picklist](../images/cpq_display-components-basic-picklist.png)![Basic picklist with a single option](../images/cpq_display-components-basic-picklist-2.png)
+![Basic picklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-basic-picklist.png)![Basic picklist with a single option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-basic-picklist-2.png)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Single-select; selection only; no combo box for filtering
 
 </td><td>
 
-![Multi select picklist](../images/cpq_display-components-multiselect-picklist.png)![Multiple options](../images/cpq_display-components-multiselect-picklist-2.png)![Multiselect - picklist](../images/cpq_display-components-multiselect-picklist-3.png)
+![Multi select picklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-picklist.png)![Multiple options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-picklist-2.png)![Multiselect - picklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-picklist-3.png)
 
 </td><td>
 
@@ -169,7 +169,7 @@ Multi-select; includes combo box for filtering
 
 </td><td>
 
-![Visual picker options](../images/cpq_display-components-visual-picker.png)
+![Visual picker options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-visual-picker.png)
 
 </td><td>
 
@@ -185,7 +185,7 @@ Single-select using images
 
 </td><td>
 
-![Visual pickers to select multiple options](../images/cpq_display-components-multiselect-visual-picker.png)
+![Visual pickers to select multiple options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-visual-picker.png)
 
 </td><td>
 
@@ -201,7 +201,7 @@ Multi-select using images
 
 </td><td>
 
-![Extended picklist](../images/cpq_display-components-extended-picklist-1.png)![ERP application image](../images/cpq_display-components-extended-picklist-2.png)
+![Extended picklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-extended-picklist-1.png)![ERP application image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-extended-picklist-2.png)
 
 </td><td>
 
@@ -217,7 +217,7 @@ Single-select using images; picklist extension; includes combo box for filtering
 
 </td><td>
 
-![MultiSelectExtendedPicklistappearing as a list](../images/cpq_display-components-multiselect-extended-picklist-1.png)![MultiSelectExtendedPicklist appearing as different options](../images/cpq_display-components-multiselect-extended-picklist-2.png)
+![MultiSelectExtendedPicklistappearing as a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-extended-picklist-1.png)![MultiSelectExtendedPicklist appearing as different options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-extended-picklist-2.png)
 
 </td><td>
 
@@ -237,7 +237,7 @@ Multi-select using images; picklist extension; includes combo box for filtering
 
 </td><td>
 
-![ExtendedPicklistDisplayOnly](../images/cpq_display-components-extended-picklist-display-only.png)
+![ExtendedPicklistDisplayOnly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-extended-picklist-display-only.png)
 
 </td><td>
 
@@ -257,7 +257,7 @@ Single-select using images; picklist extension; includes combo box for filtering
 
 </td><td>
 
-![MultiSelectExtendedPicklistDisplayOnly](../images/cpq_display-components-multiselect-extended-picklist-display-only.png)
+![MultiSelectExtendedPicklistDisplayOnly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-extended-picklist-display-only.png)
 
 </td><td>
 
@@ -277,7 +277,7 @@ Multi-select using images; picklist extension; includes combo box for filtering
 
 </td><td>
 
-![SingleSelectPicklistGrid](../images/cpq_display-components-single-select-picklist-grid.png)
+![SingleSelectPicklistGrid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-single-select-picklist-grid.png)
 
 </td><td>
 
@@ -297,7 +297,7 @@ Single-select using images; picklist extension
 
 </td><td>
 
-![MultiSelectPicklistGrid](../images/cpq_display-components-multiselect-picklist-grid.png)
+![MultiSelectPicklistGrid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-picklist-grid.png)
 
 </td><td>
 
@@ -327,7 +327,7 @@ Multi-select using images; picklist extension
 
 </td><td>
 
-![SingleSelectProductPickerGrid](../images/cpq_display-components-single-select-product-picker-grid.png)
+![SingleSelectProductPickerGrid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-single-select-product-picker-grid.png)
 
 </td><td>
 
@@ -357,7 +357,7 @@ Single-select using images; product picker
 
 </td><td>
 
-![MultiSelectProductPickerGrid](../images/cpq_display-components-multiselect-product-picker-grid.png)
+![MultiSelectProductPickerGrid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-product-picker-grid.png)
 
 </td><td>
 
@@ -374,7 +374,7 @@ Multi-select using images; product picker
 
 </td><td>
 
-![VisualProductPicker](../images/cpq_display-components-visual-product-picker.png)
+![VisualProductPicker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-visual-product-picker.png)
 
 </td><td>
 
@@ -391,7 +391,7 @@ Single-select using images; product picker
 
 </td><td>
 
-![MultiSelectVisualProductPicker](../images/cpq_display-components-multiselect-visual-product-picker.png)
+![MultiSelectVisualProductPicker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-multiselect-visual-product-picker.png)
 
 </td><td>
 
@@ -402,12 +402,12 @@ Multi-select using images; product picker
 
 |Name|Options|Appearance|Notes|
 |----|-------|----------|-----|
-|**Text**| |![Text field](../images/cpq_display-components-text.png)| |
-|**TextArea**| |![TextArea](../images/cpq_display-components-text-area.png)| |
-|**ReadOnlyText**| |![ReadOnlyText](../images/cpq_display-components-read-only-text.png)|Supports markdown formatting, including links and inserting content from other fields|
-|**Date**| |![Calendar](../images/cpq_display-components-date.png)| |
-|**FormattedNumber**| |![Formatted number field](../images/cpq_display-components-formatted-number.png)|Supports units before or after number, displayed within the input|
-|**LocationLookup**| |![Lookup selection list](../images/cpq_display-components-location-lookup.png)|Accesses Google API and returns location data, which can be inserted into specified fields|
+|**Text**| |![Text field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-text.png)| |
+|**TextArea**| |![TextArea](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-text-area.png)| |
+|**ReadOnlyText**| |![ReadOnlyText](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-read-only-text.png)|Supports markdown formatting, including links and inserting content from other fields|
+|**Date**| |![Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-date.png)| |
+|**FormattedNumber**| |![Formatted number field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-formatted-number.png)|Supports units before or after number, displayed within the input|
+|**LocationLookup**| |![Lookup selection list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-location-lookup.png)|Accesses Google API and returns location data, which can be inserted into specified fields|
 
 ## Number fields
 
@@ -439,7 +439,7 @@ Minimum and maximum values; step size
 
 </td><td>
 
-![NUmber field](../images/cpq_display-components-number.png)
+![NUmber field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-number.png)
 
 </td><td>
 
@@ -457,7 +457,7 @@ Minimum and maximum values; step size
 
 </td><td>
 
-![Slider](../images/cpq_display-components-slider.png)
+![Slider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-slider.png)
 
 </td><td>
 
@@ -473,7 +473,7 @@ Button label
 
 </td><td>
 
-![Number with Submit](../images/cpq_display-components-number-with-submit.png)
+![Number with Submit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-number-with-submit.png)
 
 </td><td>
 
@@ -484,7 +484,7 @@ Button label
 
 |Name|Options|Appearance|Notes|
 |----|-------|----------|-----|
-|**Boolean**|Labels for true and false states|![Boolean field](../images/cpq_display-components-boolean.png)| |
+|**Boolean**|Labels for true and false states|![Boolean field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq_display-components-boolean.png)| |
 
-**Parent Topic:**[CPQ reference](servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/servicenow-cpq-reference.md)
 

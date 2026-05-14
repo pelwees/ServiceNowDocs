@@ -95,7 +95,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 </td></tr></tbody>
 </table>## Example Record Action utility
 
-![Record Action utility displaying the various basic properties for updating a record.](../images/va-record-action-utility-properties-vancouver.png "Record Action utility basic properties")
+![Record Action utility displaying the various basic properties for updating a record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-record-action-utility-properties-vancouver.png "Record Action utility basic properties")
 
-**Parent Topic:**[Assistant Designer utilities](va-utilities.md)
+**Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 

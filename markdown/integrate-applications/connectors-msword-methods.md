@@ -41,7 +41,7 @@ To use this method, provide the text to be added to the Text parameter and the f
 |Text|Specifies the text in the footer.|Data in|String|
 |FontSize|Specifies the font size of the text in the footer. Default value is 12.|Data in|Integer|
 
-To provide inputs, see [Configure port properties](../task/configure-input-port-properties.md)
+To provide inputs, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md)
 
 ## AddHeader
 
@@ -252,7 +252,7 @@ To use this method, provide the index of the expected table to the TableIndex pa
 
 Depending on the table structure, you can optionally configure the table type for the method. To configure the table, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the table type.
 3.  Click **OK**.
 
@@ -361,8 +361,8 @@ To use this method, provide the indices of the table cells whose value is requir
 
 To specify the number of cells, you must configure the index values of the cells. To configure, do the following.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
-2.  Click \(![Click to add cell index icon.](../image/add-image-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click \(![Click to add cell index icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 3.  Enter the index values for the cells.
 4.  Repeat the steps to add more index values.
 5.  Click **OK**.
@@ -375,7 +375,7 @@ Select the table type from the config window. If you expect to receive total num
 
 To configure the type of table, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the table type.
 3.  Click **OK**.
 
@@ -391,8 +391,8 @@ Returns the values in one or more cells of a row in a Microsoft Word document. Y
 
 You can configure the index values of the cells in a row. To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
-2.  Click the add index value icon \(![Add index value icon.](../image/add-image-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click the add index value icon \(![Add index value icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 3.  Enter the index value of the cell.
 4.  Repeat the steps to add more index values.
 5.  Click **OK**.
@@ -450,11 +450,11 @@ To use this method, the point at which the table needs to be added is provided t
 
 To customize the table before inserting, do the following steps.
 
-1.  Click the method settings icon\(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon\(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select Include Headers.
 3.  Select border style and autofit behavior.
 4.  Select Include Empty Rows.
-5.  To ignore specific columns, click the add index value icon \(![Add index value](../image/add-image-icon.png)\).
+5.  To ignore specific columns, click the add index value icon \(![Add index value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 6.  Enter the index value of the column.
 7.  Click **OK**.
 
@@ -570,7 +570,7 @@ To use this method, provide value to the added field\(s\) which is the text with
 Provide more details of the bookmark text to replace as follows:
 
 1.  Double-click the component.
-2.  In the PROVIDE LABELS/BOOKMARKS dialog box, click the click to add label icon \(![Click to add label icon.](../image/add-image-icon.png)\) and enter the bookmark to replace it.
+2.  In the PROVIDE LABELS/BOOKMARKS dialog box, click the click to add label icon \(![Click to add label icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) and enter the bookmark to replace it.
 
     Repeat this step to add more bookmarks.
 
@@ -610,8 +610,8 @@ To use this method, provide a value to the added field which is the text with wh
 
 You must configure the method before executing. To configure, do the steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
-2.  Click the add text icon \(![Add text icon.](../image/add-image-icon.png)\)
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
+2.  Click the add text icon \(![Add text icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\)
 3.  Enter the heading, bookmark, or text that you want to replace.
 4.  Repeat the steps to enter more text.
 5.  Click **OK**.
@@ -674,7 +674,7 @@ To use this method, provide the indices of the table cells whose value needs to 
 Provide one or more cell indexes and value types as follows:
 
 1.  Double-click the component.
-2.  In the PROVIDE CELL INDEXES dialog box, click the click to add cell index icon \(![Click to add cell index icon.](../image/add-image-icon.png)\) and enter a cell index and select a value type.
+2.  In the PROVIDE CELL INDEXES dialog box, click the click to add cell index icon \(![Click to add cell index icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) and enter a cell index and select a value type.
 
     Repeat this step to add more cell indexes and value types.
 
@@ -690,17 +690,17 @@ To use this method, index of the table row at which the data needs to be set is 
 
 -   **Input**
 
-    [RowIndex](method-parameter-msword.md#RowIndex)
+    [RowIndex](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-msword.md#RowIndex)
 
     Provide the column index as follows:
 
     1.  Double-click the component.
-    2.  In the PROVIDE COLUMN INDEXES dialog box, click the click to add cell index icon \(![Click to add cell index icon.](../image/add-image-icon.png)\) and enter a column index.
+    2.  In the PROVIDE COLUMN INDEXES dialog box, click the click to add cell index icon \(![Click to add cell index icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) and enter a column index.
     3.  Click **OK**.
 
 |Parameter|Description|Data port type|Data type|
 |---------|-----------|--------------|---------|
 |RowIndex|Index of row at which data needs to be set. Default value is 0, meaning the data will be set to the first row.|Data in|Integer|
 
-**Parent Topic:**[Microsoft Word](../concept/microsoft-word-connector.md)
+**Parent Topic:**[Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/microsoft-word-connector.md)
 

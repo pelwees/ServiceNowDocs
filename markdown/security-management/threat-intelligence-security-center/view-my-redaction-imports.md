@@ -32,10 +32,10 @@ Role required: sn\_sec\_tisc.admin
 4.  View the summary of the import records that are imported by the logged in user.
 
 
-**Parent Topic:**[Viewing Redaction Imports](../concept/tisc-radaction-imports.md)
+**Parent Topic:**[Viewing Redaction Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-radaction-imports.md)
 
 **Related topics**  
 
 
-[View all Redaction Imports](tisc-view-redaction-imports.md)
+[View all Redaction Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-redaction-imports.md)
 

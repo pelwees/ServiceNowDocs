@@ -86,7 +86,7 @@ Token Name
 
 </td><td>
 
-The Token name that you provided while setting up the Tableau spoke by using the PAT authentication type.For more information, see [Set up the Tableau spoke](set-up-tableau-spoke.md)
+The Token name that you provided while setting up the Tableau spoke by using the PAT authentication type.For more information, see [Set up the Tableau spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-tableau-spoke.md)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Token Secret
 
 </td><td>
 
-The Token secret that you copied while setting up the Tableau spoke by using the PAT authentication type.For more information, see [Set up the Tableau spoke](set-up-tableau-spoke.md).
+The Token secret that you copied while setting up the Tableau spoke by using the PAT authentication type.For more information, see [Set up the Tableau spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-tableau-spoke.md).
 
 .
 
@@ -118,7 +118,7 @@ Secret ID
 
 </td><td>
 
-The Secret ID that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](set-up-tableau-spoke.md).
+The Secret ID that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-tableau-spoke.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Secret Value
 
 </td><td>
 
-The Secret Value that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](set-up-tableau-spoke.md).
+The Secret Value that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-tableau-spoke.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Client ID
 
 </td><td>
 
-The Client ID that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](set-up-tableau-spoke.md).
+The Client ID that you copied while setting up the Tableau spoke by using the JWT authentication type.For more information, see [Set up the Tableau spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-tableau-spoke.md).
 
 </td></tr><tr><td>
 

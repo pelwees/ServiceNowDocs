@@ -24,19 +24,19 @@ Role required: admin
 
     The Admin Home page opens.
 
-    ![Admin home page showing the product families.](../image/aiops-admin-conf-home-page1.png)
+    ![Admin home page showing the product families.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aiops-admin-conf-home-page1.png)
 
 2.  In the IT Operations Management tile, select **View product overview**.
 
     The Welcome! Let's get started dialog box appears.
 
-    ![Welcome dialog box prompting the user to get started.](../image/aiops-admin-start-setup1.png)
+    ![Welcome dialog box prompting the user to get started.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aiops-admin-start-setup1.png)
 
 3.  Select **Start setup**.
 
     View all unavailable plugins in the **Not Installed** tab.
 
-    ![IT Operations Management page showing the plugins to be installed.](../image/aiops-admin-conf-not-installed-tab.png)
+    ![IT Operations Management page showing the plugins to be installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aiops-admin-conf-not-installed-tab.png)
 
 4.  Install the ITOM AIOps plugin by selecting the install icon \(![](../image/icon-aiops-admin-conf-install.png)\).
 

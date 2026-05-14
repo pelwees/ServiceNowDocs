@@ -17,11 +17,11 @@ A good way to see how software counters work is to use the demo data provided wi
 
 Load the demo data on a non-production instance.
 
-![Software Asset Management demo data](../image/SoftwareAssetMgmtDemoData.png "Legacy Software Asset Management plugin demo data")
+![Software Asset Management demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SoftwareAssetMgmtDemoData.png "Legacy Software Asset Management plugin demo data")
 
-Using the demo data, try some of the procedures on this page, such as [Use the Software Counter](c_UseTheSoftwareCounter.md) and [View a Usage Counter Result](../task/t_ViewAUsageCounterResult.md).
+Using the demo data, try some of the procedures on this page, such as [Use the Software Counter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseTheSoftwareCounter.md) and [View a Usage Counter Result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ViewAUsageCounterResult.md).
 
-To use software counters with your own information, follow the steps in the [Legacy Software Asset Management plugin setup process](c_SetupProcess.md). ServiceNow Discovery does not populate the Software Usage \(cmdb\_sam\_sw\_usage\) table. Use a third party tool such as Microsoft's System Center Configuration Manager to add information about software assets to the Software Usage table.
+To use software counters with your own information, follow the steps in the [Legacy Software Asset Management plugin setup process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetupProcess.md). ServiceNow Discovery does not populate the Software Usage \(cmdb\_sam\_sw\_usage\) table. Use a third party tool such as Microsoft's System Center Configuration Manager to add information about software assets to the Software Usage table.
 
-**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
+**Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 

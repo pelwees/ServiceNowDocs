@@ -19,12 +19,12 @@ As a knowledge manager, you can assign other managers, define category structure
 
 The primary manager of a knowledge base is the owner of that knowledge base. Each knowledge base must have one owner. There may be any number of additional managers for each knowledge base. The owner and all managers of a knowledge base automatically receive the knowledge\_manager role. If the knowledge base is made inactive later, the knowledge\_manager role is not automatically removed for these users.
 
--   **[Add a knowledge article to featured content](../task/t_PinAnArticle.md)**  
+-   **[Add a knowledge article to featured content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_PinAnArticle.md)**  
 Add a knowledge article to appear in the Featured content section of the knowledge homepage and at the top of knowledge search results page.
--   **[Define a knowledge article category](../task/t_DefineAKnowledgeCategory.md)**  
+-   **[Define a knowledge article category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_DefineAKnowledgeCategory.md)**  
 Each knowledge base has a hierarchy of categories that organizes the articles.
--   **[Assign a knowledge base manager](../task/t_AssignAKnowledgeBaseManager.md)**  
+-   **[Assign a knowledge base manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_AssignAKnowledgeBaseManager.md)**  
 You can assign users as managers of a knowledge base.
 
-**Parent Topic:**[Configuring Knowledge Management](configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 

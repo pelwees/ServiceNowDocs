@@ -38,5 +38,5 @@ Role required: sn\_opty\_mgmt\_core.opportunity\_setup\_writer
 
 ## What to do next
 
-Add sales cycle stages to your opportunity. To learn more, see [Create opportunity stages](opportunity-management-opportunity-stages.md).
+Add sales cycle stages to your opportunity. To learn more, see [Create opportunity stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-opportunity-stages.md).
 

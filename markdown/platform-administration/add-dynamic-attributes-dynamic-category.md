@@ -41,7 +41,7 @@ After creating dynamic attributes, you can build out your taxonomy by including 
 
 ## Dynamic attributes added to a dynamic category
 
-![Add dynamic attributes to the Televisions dynamic category.](../image/dynamic-category-attribute-member-example.png)
+![Add dynamic attributes to the Televisions dynamic category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-category-attribute-member-example.png)
 
 ## What to do next
 

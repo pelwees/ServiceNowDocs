@@ -112,11 +112,11 @@ With the Virtual Agent Administrator \[virtual\_agent\_admin\] role, users can c
 -   If the Virtual Agent admin is granted access to AI Search-related tables, the search application administrator role \[search\_application\_admin\] is included.
 -   If the Virtual Agent admin is granted access to Entity View Action Mapper tables, the EVAM admin role \[evam\_admin\] is included.
 -   For multilanguage support, the localization\_requestor role is included by default. For more information, see [Localization Framework roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/roles-localization-framework.md) .
--   For more information on the roles contained in virtual\_agent\_admin, see [Virtual Agent roles](VA-roles.md#).
+-   For more information on the roles contained in virtual\_agent\_admin, see [Virtual Agent roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-roles.md#).
 
 ## Users installed
 
-The Glide Conversation Server plugin \(com.glide.cs\) automatically installs a virtual agent user \(virtual.agent\) in the User \[sys\_user\] table. Ongoing [Virtual Agent interactions](../concept/va-interactions.md) are assigned to this virtual agent user. If you're using Advanced Work Assignment \(AWA\), interactions assigned to the virtual agent user are not routed by AWA. The virtual agent user is also used in the default web chat branding settings to associate a virtual agent user profile with a bot avatar.
+The Glide Conversation Server plugin \(com.glide.cs\) automatically installs a virtual agent user \(virtual.agent\) in the User \[sys\_user\] table. Ongoing [Virtual Agent interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-interactions.md) are assigned to this virtual agent user. If you're using Advanced Work Assignment \(AWA\), interactions assigned to the virtual agent user are not routed by AWA. The virtual agent user is also used in the default web chat branding settings to associate a virtual agent user profile with a bot avatar.
 
 ## Tables installed
 

@@ -38,18 +38,18 @@ For example, searching for the phrase `"email password"` returns the same search
 -   `"email password?"` because the punctuation mark `?` is ignored.
 -   `"email password*"` because the wildcard character `*` is ignored as punctuation.
 
-**Parent Topic:**[Available search options](c_IntroductionToSearching.md)
+**Parent Topic:**[Available search options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_IntroductionToSearching.md)
 
 **Related topics**  
 
 
-[List search finds records from the current table](c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_TextSearchesInRecordLists.md)
 
-[Boolean operators allow conditional search results](c_BooleanOperators.md)
+[Boolean operators allow conditional search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_BooleanOperators.md)
 
-[Wildcard characters allow searching for patterns and variations](c_Wildcards.md)
+[Wildcard characters allow searching for patterns and variations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_Wildcards.md)
 
-[Enable or disable the Zing junk filter](../task/t_DisableTheJunkFilter.md)
+[Enable or disable the Zing junk filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_DisableTheJunkFilter.md)
 
-[Debug Zing](../task/t_DebugZing.md)
+[Debug Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_DebugZing.md)
 

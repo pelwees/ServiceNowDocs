@@ -24,7 +24,7 @@ Role required: sn\_gf.goal\_admin
 
 By default, the Goal insights generation job runs on the predefined set of goals using the goals filter criteria \(**Goal insights generation filter**\) in the system. If the predefined filter criteria doesn’t match goals set that you want to run the job, administrators must edit the predefined filter criteria to run the goal insights generation job on the specific set of goals as required.
 
-![Default goals set for goal insights generation.](../image/default-goals-set-for-goal-insights-generation.png "Goal insights generation filter")
+![Default goals set for goal insights generation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../image/default-goals-set-for-goal-insights-generation.png "Goal insights generation filter")
 
 **Tip:** Defining a precise goals set helps optimize AI resource usage and prevents excessive token consumption.
 
@@ -38,9 +38,9 @@ If a goal does not match the configured filter criteria, users can still generat
 
 2.  Select the predefined goals list view by navigating to **List controls** &gt; **Filters** &gt; **Goal insights generation filter**
 
-    ![Goal insights generation filter.](../image/goal-insights-generation-filter.png)
+    ![Goal insights generation filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../image/goal-insights-generation-filter.png)
 
-3.  Select the Show / hide filter icon \(![Show or hide filter icon.](../image/goal-insights-filter-icon.png)\).
+3.  Select the Show / hide filter icon \(![Show or hide filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../image/goal-insights-filter-icon.png)\).
 
 4.  Add or edit the filter conditions as needed per your set of goals on which you want to the scheduled job.
 
@@ -53,5 +53,5 @@ The filter criteria is saved. The Goal insights generation job processes the goa
 
 ## What to do next
 
-Activate the Goal insights generation scheduled job to automatically generate AI-driven insights for a predefined set of goals at a scheduled frequency. For details, see [Activate and configure the Goal insights generation job](activate-goal-insights-generation-job.md).
+Activate the Goal insights generation scheduled job to automatically generate AI-driven insights for a predefined set of goals at a scheduled frequency. For details, see [Activate and configure the Goal insights generation job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/activate-goal-insights-generation-job.md).
 

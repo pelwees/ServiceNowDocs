@@ -29,16 +29,16 @@ Role required: admin or delegated\_developer
 
 3.  Access collaboration settings by selecting the more options icon ![](../image/sn-studio-more-options-icon.png) and selecting **Invite**.
 
-    ![Invite collaborators to work on your app using the more options menu on the app details page.](../image/sn-studio-collab-select-zs2.png)
+    ![Invite collaborators to work on your app using the more options menu on the app details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-collab-select-zs2.png)
 
 4.  Select **Remove** for the user or group in the Collaborators section of the modal.
 
-    ![Remove a collaborator from accessing an app](../../app-engine-studio/image/remove-collaborator-purple.png "Remove a collaborator")
+    ![Remove a collaborator from accessing an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../app-engine-studio/image/remove-collaborator-purple.png "Remove a collaborator")
 
 
 ## Result
 
 Your changes are automatically saved when you close the Collaborate with others modal.
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/manage-app-collab-servicenow-studio.md)
 

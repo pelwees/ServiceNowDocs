@@ -37,13 +37,13 @@ Configurations made through an event take priority over those made in the experi
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Select **View experience settings**.
 
 4.  Under **Configure alerts**, select the **Auto-dismiss** option next to the alert type you wish to configure.
 
-    ![Configure alerts section of the experience settings, showing auto-dismiss selected for the Info alert type, with 5 seconds entered in the Timeout field.](../image/uib-alerts-experience-settings.png)
+    ![Configure alerts section of the experience settings, showing auto-dismiss selected for the Info alert type, with 5 seconds entered in the Timeout field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-alerts-experience-settings.png)
 
     For this example, select the **Auto-dismiss** option next to the **Info** alert type and enter `5` in the **Timeout \(seconds\)** field. **Info** alerts disappear after 5 seconds.
 
@@ -65,13 +65,13 @@ Configurations made through an event take priority over those made in the experi
 
     The **Configure** dialog enables you to edit multiple alerts in one place and displays a preview of the alert being edited. You can select the **+** to add more alerts, then select the alert in the dropdown to configure it.
 
-    ![Configure event dialog with arrows pointing to the alert dropdown and add alert buttons.](../image/uib-alerts-event1.png)
+    ![Configure event dialog with arrows pointing to the alert dropdown and add alert buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-alerts-event1.png)
 
     For this example, leave the alert **Type** as **Info**.
 
 13. At the bottom of the **Configure** dialog, under **Auto-dismiss**, enter `10` in the **Timeout** field.
 
-    ![Configure event dialog with arrows pointing to the selected Auto-dismiss property and the Timeout field with an entered value of 10.](../image/uib-alerts-event2.png)
+    ![Configure event dialog with arrows pointing to the selected Auto-dismiss property and the Timeout field with an entered value of 10.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-alerts-event2.png)
 
     This specific **Info** alert disappears after 10 seconds.
 
@@ -86,5 +86,5 @@ Configurations made through an event take priority over those made in the experi
 
 Alerts of the selected type are now set to auto-dismiss after the specified time period.
 
-**Parent Topic:**[Customize UI Builder pages using components](../concept/work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-components.md)
 

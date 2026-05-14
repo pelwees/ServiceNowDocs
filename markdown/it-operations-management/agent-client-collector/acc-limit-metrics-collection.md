@@ -27,7 +27,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Metric to CI Mappings** page appears.
 
-        ![Metric to CI Mappings page](../image/metric-to-ci-mappings.png "Metric to CI Mappings")
+        ![Metric to CI Mappings page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/metric-to-ci-mappings.png "Metric to CI Mappings")
 
         **Note:** The Metric to CI Mapping is identified by both its metric identifier and its configuration item.
 
@@ -39,7 +39,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Monitoring System Metric Types** page appears.
 
-        ![Monitoring System Metric Types page](../image/monitoring-system-metric-types.png "Monitoring System Metric Types")
+        ![Monitoring System Metric Types page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/monitoring-system-metric-types.png "Monitoring System Metric Types")
 
     2.  To prevent sending metrics for a metric type, set the value of the **Active** column to **false**.
 

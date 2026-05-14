@@ -18,7 +18,7 @@ Load a data structure of child variables within an Object variable.
 ## Before you begin
 
 -   Role required: action\_designer, flow\_designer, or admin
--   [Create an action in Workflow Studio](create-action.md) or [Create a subflow in Workflow Studio](create-subflow.md)
+-   [Create an action in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) or [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md)
 
 ## Procedure
 
@@ -37,5 +37,5 @@ Load a data structure of child variables within an Object variable.
     If the Object variable has no existing data structure, Workflow Studio loads the data structure into it. If the Object variable has an existing data structure, Workflow Studio displays a confirmation dialog to replace the existing structure.
 
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/complex-data.md)
 

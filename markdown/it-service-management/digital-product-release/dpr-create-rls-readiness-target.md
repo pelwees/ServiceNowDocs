@@ -30,7 +30,7 @@ Role required: sn\_dpr\_model.release\_calendar\_admin orsn\_dpr\_model.release\
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the release calendar icon \(![Release calendar icon.](../image/dpr-icon-rls-target.png)\).
+2.  Select the release calendar icon \(![Release calendar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-rls-target.png)\).
 
 3.  Select a calendar on which you want to create release readiness targets.
 
@@ -40,7 +40,7 @@ Role required: sn\_dpr\_model.release\_calendar\_admin orsn\_dpr\_model.release\
     -   To modify an existing release readiness target, open the release readiness target from the calendar or list.
 5.  In the dialog box, fill in the fields.
 
-    For more information on release readiness target field descriptions, see [Release readiness target form](../reference/create-release-readiness-target-form.md).
+    For more information on release readiness target field descriptions, see [Release readiness target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/create-release-readiness-target-form.md).
 
 6.  Select **Next**.
 

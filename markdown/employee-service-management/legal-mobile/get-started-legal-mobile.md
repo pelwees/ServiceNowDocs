@@ -21,7 +21,7 @@ Role required: none
 
 ## About this task
 
-After you [install the Legal Mobile](install-legal-mobile.md) app in your instance, employees and lawyers can start using the legal services on their mobile device.
+After you [install the Legal Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/install-legal-mobile.md) app in your instance, employees and lawyers can start using the legal services on their mobile device.
 
 ## Procedure
 
@@ -29,7 +29,7 @@ After you [install the Legal Mobile](install-legal-mobile.md) app in your instan
 
     -   As a requester, download the Now Mobile app for submitting and tracking legal requests.
 
-        For more information on using this mobile app, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+        For more information on using this mobile app, see [Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../../../administer/mobile-employee/concept/mobile-employee-experience.md).
 
     -   As a member of the legal department, download the Mobile Agent mobile app for working on legal requests.
 

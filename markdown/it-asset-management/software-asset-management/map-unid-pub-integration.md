@@ -27,7 +27,7 @@ Role required: sam\_admin
 
 3.  On the Create New Unrecognized Publisher Integration Map form, enter the name of the unrecognized publisher in the **Publisher** field.
 
-4.  Select the appropriate subscription integration for the publisher using the lookup \(![Lookup icon](../image/search-icon.png)\) icon.
+4.  Select the appropriate subscription integration for the publisher using the lookup \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/search-icon.png)\) icon.
 
 5.  Select **Save**.
 
@@ -36,5 +36,5 @@ Role required: sam\_admin
 
 The publisher to subscription integration mapping that you have created appears in the list of unrecognized publisher integration maps.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

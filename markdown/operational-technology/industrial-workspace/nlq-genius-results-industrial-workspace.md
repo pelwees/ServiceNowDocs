@@ -34,5 +34,5 @@ The following table contains examples for searching different information for a 
 |Searching for a PLC by description|`PLC Description <insert description>`|
 |Searching for a PLC by manufacturer|`PLC Manufacturer <insert manufacturer>`|
 
-**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 

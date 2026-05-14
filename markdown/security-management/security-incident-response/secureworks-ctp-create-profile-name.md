@@ -72,7 +72,7 @@ This option is cleared by default. If this option is disabled, the profile is no
 </td></tr></tbody>
 </table>    The following figure is an example of a completed form.
 
-    ![Secureworks CTP: Create Profile: Identify Source](../image/secureworks-create-profile-name.gif)
+    ![Secureworks CTP: Create Profile: Identify Source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-name.gif)
 
 
 ## What to do next

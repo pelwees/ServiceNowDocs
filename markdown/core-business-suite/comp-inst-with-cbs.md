@@ -84,5 +84,5 @@ Grants permissions to submit requests for services included in the Core Business
 |Supplier Lifecycle Operations|[Components installed with Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/installed-with-supp-mgmt.md)|
 |Accounts Payable Operations||
 
-**Parent Topic:**[Core Business Suite reference](cbs-reference-parent.md)
+**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 

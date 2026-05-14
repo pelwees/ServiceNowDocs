@@ -27,22 +27,22 @@ Slots help a rack to distribute the weight of the equipment across the rack even
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Slot**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Slot**.
 
 3.  Create a slot by selecting **New**.
 
 4.  On the Equipment Holder form, fill in the fields.
 
-    To learn more, see [Equipment Holder form](../reference/tni-equipment-holder-form-configuration.md).
+    To learn more, see [Equipment Holder form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-equipment-holder-form-configuration.md).
 
 5.  Select **Set Inventory Attributes**.
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/ci-attribue-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-telecommunications-network-inventory.md)
 

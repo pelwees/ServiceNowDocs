@@ -150,26 +150,26 @@ Having a positive digital experience can lead to numerous benefits, including th
 
 ## Better together
 
--   **[DEX for Service Desk Agents](../../service-operations-workspace/reference/features-of-investigation-tab.md)**
+-   **[DEX for Service Desk Agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../service-operations-workspace/reference/features-of-investigation-tab.md)**
 
     As a Service Desk agent, navigate to the DEX device health page from the ServiceNow Core UI incident experience or from the Investigate tab within the Incident experience in Service Operations Workspace \(SOW\). Configure a computer Configuration Item \(CI\) and install the DEX plugin for the ability to analyze device metrics from within the platform, getting valuable insights for effective issue investigation.
 
-    Use incident investigation with DEX to review device health, detected issues, and suggested resolutions. Implement resolutions and remedial actions directly from your workspace and monitor the status of actions. For more information, see [Incident investigation with DEX](dex-diagnostics-guided-resolutions.md).
+    Use incident investigation with DEX to review device health, detected issues, and suggested resolutions. Implement resolutions and remedial actions directly from your workspace and monitor the status of actions. For more information, see [Incident investigation with DEX](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-diagnostics-guided-resolutions.md).
 
-    Use the DEX issue diagnosis and resolution agentic workflow to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](../../now-assist-itsm/concept/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
+    Use the DEX issue diagnosis and resolution agentic workflow to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../now-assist-itsm/concept/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
 
 -   **[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)**
 
-    Unifying the experience of DEX application with Software Asset Management \(SAM\) software enables you to access SAM-normalized software content. This integration provides software metering data from DEX to integrate with SAM for software licensing reclamation and, in turn, reduce software license costs. For more information, see [Using DEX or SAM for application monitoring](using-dex-or-sam-for-app-monitoring.md).
+    Unifying the experience of DEX application with Software Asset Management \(SAM\) software enables you to access SAM-normalized software content. This integration provides software metering data from DEX to integrate with SAM for software licensing reclamation and, in turn, reduce software license costs. For more information, see [Using DEX or SAM for application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/using-dex-or-sam-for-app-monitoring.md).
 
 
 ## What to explore next
 
 To learn more about configuring and using Digital End-User Experience, see:
 
--   [Configure Digital End-User Experience](config-dex-console.md).
--   [Monitor and manage the digital workplace with Digital End-User Experience.](use-dex-console.md)
--   [Use the Desktop Assistant.](use-dex-desktop-exp.md)
--   [Get information about the DEX Workspace administration](../reference/dex-console-reference.md).
--   [Tracking digital experience using Digital Experience Score​ dashboard](../../dex-score/concept/dexscr-using-dex-score.md).
+-   [Configure Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/config-dex-console.md).
+-   [Monitor and manage the digital workplace with Digital End-User Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/use-dex-console.md)
+-   [Use the Desktop Assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/use-dex-desktop-exp.md)
+-   [Get information about the DEX Workspace administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/dex-console-reference.md).
+-   [Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../dex-score/concept/dexscr-using-dex-score.md).
 

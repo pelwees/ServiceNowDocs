@@ -47,7 +47,7 @@ The Help remediate bill issues agentic workflow has the following dependencies:
 -   Case Management for Invoice operations \(com.sn\_csm\_invoice\)
 -   Product offering recommendations
 
-To configure the spoke selector, see [Configure the spoke selector for external systems](../task/configure-spoke-selector-for-external-systems.md).
+To configure the spoke selector, see [Configure the spoke selector for external systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../task/configure-spoke-selector-for-external-systems.md).
 
 ## Testing the agentic workflow
 

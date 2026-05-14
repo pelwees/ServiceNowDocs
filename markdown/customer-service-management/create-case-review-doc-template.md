@@ -132,5 +132,5 @@ The content in the case action summary that is for internal users only. This fie
 **Related topics**  
 
 
-[Create a case digest configuration](create-case-review-type.md)
+[Create a case digest configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-type.md)
 

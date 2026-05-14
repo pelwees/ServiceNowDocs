@@ -22,7 +22,7 @@ The Allergy intolerance \[sn\_hcls\_allergy\] table stores the information about
 
 Role required to configure the table: sn\_hcls.admin.
 
-For more information, see [Healthcare and Life Sciences data model](../concept/hcls-serv-mgmt-core-1.md).
+For more information, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../concept/hcls-serv-mgmt-core-1.md).
 
 <table id="table_gsz_dbb_npb"><thead><tr><th>
 
@@ -250,5 +250,5 @@ Assertion about certainty associated with a propensity or potential risk of a re
  For more information about the available statuses, see [allergy intolerance verification statuses](https://www.hl7.org/fhir/valueset-allergyintolerance-verification.html) defined in the FHIR specifications.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Healthcare and Life Sciences data model tables](hcls-healthcare-data-tables.md)
+</table>**Parent Topic:**[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)
 

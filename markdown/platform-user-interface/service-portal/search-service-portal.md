@@ -44,10 +44,10 @@ To avoid performance degradation and improve the search experience for end users
 
 **Note:** Service Portal search results display as text only. HTML tags, images, and formatting do not display in search results.
 
--   **[AI Search in Service Portal](ai-search.md)**  
+-   **[AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ai-search.md)**  
 Configure the ServiceNow AI Search application for Service Portal so that portal users can take advantage of intelligent query features and quickly find the answers they need.
--   **[Zing search in Service Portal](zing-search-service-portal.md)**  
+-   **[Zing search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)**  
 Service Portal search supports the ServiceNow Zing text indexing and search engine. Zing allows you to index and search record data by table and is created entirely with ServiceNow code and implemented within the relational model.
 
-**Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 

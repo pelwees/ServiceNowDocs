@@ -100,5 +100,5 @@ Create, update store inquiry case for their location.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

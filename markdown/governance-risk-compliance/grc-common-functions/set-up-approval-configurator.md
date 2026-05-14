@@ -29,21 +29,21 @@ Role required: sn\_grc\_appr.admin, sn\_compliance\_ws.corporate\_compliance\_an
 
     The Approval Configuration New Record is displayed.
 
-    ![Approval Configuration new record.](../image/approval-config-new-record.png)
+    ![Approval Configuration new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/approval-config-new-record.png)
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [Approval Configuration New Record](../reference/approval-config-new-record.md).
+    For information on the fields in the form, see [Approval Configuration New Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/approval-config-new-record.md).
 
     **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 
 4.  Select **Submit**.
 
 
--   **[Approval Configuration New Record](../reference/approval-config-new-record.md)**  
+-   **[Approval Configuration New Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/approval-config-new-record.md)**  
 Use the Approval Configuration New Record form to create an approval configuration record.
--   **[Assignment Configuration New Record](../reference/assignment-configuration-new-record.md)**  
+-   **[Assignment Configuration New Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/assignment-configuration-new-record.md)**  
 Use the Assignment Configuration new record form to create auto-assignments for regulatory events of the type regulatory alert.
 
-**Parent Topic:**[Using Approver Configurator for setting up approvals](../concept/approval-configuration.md)
+**Parent Topic:**[Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/approval-configuration.md)
 

@@ -21,24 +21,24 @@ The Service Graph Connector for ServiceNow Operational Technology Discovery impo
 
 Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
- [Explore the Service Graph Connector](explore-service-graph-connector.md)
+ [Explore the Service Graph Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/explore-service-graph-connector.md)
 
 </td><td>
 
 Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](../../sgc-ot-discovery/task/install-sgc-ot-discovery.md)
+ [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/task/install-sgc-ot-discovery.md)
 
 </td></tr><tr><td colspan="2">
 
 Setup![](../images/BUS_64px_Actionable-Analytics_YG.png)
 
- [Service Graph Connector for OT Discovery guided setup](../task/sgc-ot-discovery-guided-setup.md)
+ [Service Graph Connector for OT Discovery guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/sgc-ot-discovery-guided-setup.md)
 
 </td></tr></tbody>
 </table>## Troubleshooting
 
-For more information, see [Support and troubleshooting](troubleshooting-ot-discovery.md).
+For more information, see [Support and troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/troubleshooting-ot-discovery.md).
 
 If you have any errors or difficulties while using the Service Graph Connector, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 

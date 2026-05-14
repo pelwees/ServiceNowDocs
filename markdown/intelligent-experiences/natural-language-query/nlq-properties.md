@@ -19,7 +19,7 @@ Admins can edit properties of NLQ by navigating to **All** &gt; **System Propert
 
 **Note:** Editing these system properties requires the admin role. The nlq\_admin role does not have permission to edit records in this table.
 
-![System properties filtered for NLQ properties.](../images/nlq-propertiesT1.png)
+![System properties filtered for NLQ properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/../images/nlq-propertiesT1.png)
 
 <table id="table_xvc_v1z_spb"><thead><tr><th>
 
@@ -93,10 +93,10 @@ glide.service\_portal.ais\_nlq\_enabled
 -   False: NLQ is not available in global search
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Natural Language Query References](nlq-references.md)
+</table>**Parent Topic:**[Natural Language Query References](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/nlq-references.md)
 
 **Related topics**  
 
 
-[Natural Language Query roles](natural-language-query-roles.md#)
+[Natural Language Query roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query/natural-language-query-roles.md#)
 

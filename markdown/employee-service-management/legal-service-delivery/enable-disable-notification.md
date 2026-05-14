@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-For information about the available notifications, see [Legal Counsel Center notifications](../reference/legal-counsel-center-config-notification.md).
+For information about the available notifications, see [Legal Counsel Center notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/legal-counsel-center-config-notification.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ For information about the available notifications, see [Legal Counsel Center not
 
 ## Result
 
-The notification is enabled or disabled for the user. For more information on the notifications, see [Legal Counsel Center notifications](../reference/legal-counsel-center-config-notification.md).
+The notification is enabled or disabled for the user. For more information on the notifications, see [Legal Counsel Center notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/legal-counsel-center-config-notification.md).
 
-**Parent Topic:**[Configure Legal Counsel Center Workspace](../concept/configure-legal-counsel-center-workspace.md)
+**Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/configure-legal-counsel-center-workspace.md)
 

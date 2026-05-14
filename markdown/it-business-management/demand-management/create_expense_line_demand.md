@@ -37,10 +37,10 @@ When a demand is converted to a project, the expense lines remain with the deman
 
 3.  On the expense line form, fill in the fields.
 
-    For a description of the field names, see [Expense line form](../reference/expense-line-form-demand.md).
+    For a description of the field names, see [Expense line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/expense-line-form-demand.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

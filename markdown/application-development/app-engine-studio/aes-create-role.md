@@ -27,11 +27,11 @@ Role required: admin, security admin, or delegated\_developer \(with the **Secur
 
 2.  From the My Apps page, open your application.
 
-3.  In your application, next to Security, select the add icon \(![Add icon](../image/plus-icon.png)\).
+3.  In your application, next to Security, select the add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/plus-icon.png)\).
 
 4.  Select **Build a new role** and then select **Continue**.
 
-    ![Option to build a new role](../image/build-new-role-purple.png "Option to build a new role")
+    ![Option to build a new role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/build-new-role-purple.png "Option to build a new role")
 
 5.  Enter a name and description for your role, and then select **Continue**.
 
@@ -60,5 +60,5 @@ Role required: admin, security admin, or delegated\_developer \(with the **Secur
 8.  Select **Continue**, and then select **Done** on the summary screen.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md)
 

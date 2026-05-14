@@ -148,29 +148,29 @@ String
 The Server AJAX processor is specific to calendar type schedule pages that is used to return a set of schedule items and spans that display.
 
 </td></tr></tbody>
-</table>-   **[Invoke the Schedule page and view a calendar](../concept/c_GenCalViewsFromSchedPages.md)**  
+</table>-   **[Invoke the Schedule page and view a calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_GenCalViewsFromSchedPages.md)**  
 You can use the URL from arguments module, a field decoration \(dictionary attribute `ref_contributions`\), or a UI Action linking to `show_schedule.do` to invoke the Schedule page.
--   **[Schedule calendar](../concept/schedule-calendar.md)**  
+-   **[Schedule calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/schedule-calendar.md)**  
 Use the Schedule calendar to create, view, and edit events.
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](r_DefaultSchedules.md)
+[Default schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_Holidays.md)
 
-[Create a holiday schedule for multiple regions](../task/t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_ParentAndChildSchedules.md)
 
-[Define a schedule](../task/t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](../task/t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_FifthInstanceOfADayOfTheWeek.md)
 
-[Repeat a monthly schedule](../task/t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_RepeatAMonthlySchedule.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/domain-support-for-schedules.md)
 

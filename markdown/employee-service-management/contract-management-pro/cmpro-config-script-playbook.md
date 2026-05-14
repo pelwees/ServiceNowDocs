@@ -29,7 +29,7 @@ Role required: admin
 
 3.  Open the Script Include record.
 
-    ![Script include form to add the wrapper method](../image/cmpro-playbook-method.png "Script include form")
+    ![Script include form to add the wrapper method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-playbook-method.png "Script include form")
 
 4.  In the **Script** box, add the following method.
 
@@ -48,5 +48,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+**Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

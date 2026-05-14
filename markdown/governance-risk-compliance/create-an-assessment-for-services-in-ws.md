@@ -27,7 +27,7 @@ Operational Resilience Managers \(sn\_oper\_res.manager\) have the Smart Assessm
 
     The Importance and impact tolerance assessments \(IIA\) in the Operational Resilience application are displayed in the All assessments list view as shown in the following example.
 
-    ![List view in the All assessments form.](../image/list-view-of-assessments.png "List view in the All assessments form")
+    ![List view in the All assessments form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/list-view-of-assessments.png "List view in the All assessments form")
 
 2.  To create an assessment, select **New**.
 
@@ -77,7 +77,7 @@ Only when these conditions are met, the template is available for selection in t
 
  Operational Resilience administrators can edit or create Smart Assessment templates in the base version and update their automation logic to suit the business needs.
 
- **Note:** For information on setting up Smart Assessment templates, see [Create a Smart Assessment template](../../grc-operational-res/task/create-sm-asmt-temp-as-ws.md) and [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+ **Note:** For information on setting up Smart Assessment templates, see [Create a Smart Assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res/task/create-sm-asmt-temp-as-ws.md) and [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
 </td></tr><tr><td id="d185642e324">
 
@@ -94,7 +94,7 @@ Legacy assessment method for performing the importance and impact tolerance asse
 
     **Note:** The approver must be a user other than the owner and assessor.
 
-    For a description of the field values on the Importance and impact tolerance assessment form, see [Create New Importance and impact tolerance assessment form](../reference/importance-and-impact-tolerance-assessment-reference-in-ws.md).
+    For a description of the field values on the Importance and impact tolerance assessment form, see [Create New Importance and impact tolerance assessment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/importance-and-impact-tolerance-assessment-reference-in-ws.md).
 
 6.  In the **Assessment due date** field under the Milestones panel, select the due date for the assessment.
 
@@ -118,10 +118,10 @@ Legacy assessment method for performing the importance and impact tolerance asse
 
     An assessment is created in the **Draft** state. The details of the assessment are displayed in the assessment form as shown in the following example.
 
-    ![Importance and impact tolerance assessment.](../image/assessment-draft-state-details-panel.png "Importance and impact tolerance assessment")
+    ![Importance and impact tolerance assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assessment-draft-state-details-panel.png "Importance and impact tolerance assessment")
 
 
 ## What to do next
 
-Add scope for the assessment. For more information, see [Define the scope and begin the assessment](submit-an-assessment-in-ws.md).
+Add scope for the assessment. For more information, see [Define the scope and begin the assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-an-assessment-in-ws.md).
 

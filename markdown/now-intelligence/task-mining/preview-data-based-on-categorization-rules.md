@@ -27,7 +27,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
 3.  Select one of the analysis tabs that has charts; either **Task activity** or **Overall activity**.
 
-    ![Screenshot showing a project with all analyses available.](../image/tm-refine-1.png)
+    ![Screenshot showing a project with all analyses available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-refine-1.png)
 
 4.  Identify uncategorized activities.
 
@@ -37,19 +37,19 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.power\_user, sn\_tm\_core.admi
 
     3.  Make note of any large portion of activities that don’t use user-friendly categorization that might benefit from being categorized.
 
-        ![Screenshot showing a categories drop-down selector.](../image/tm-refine-2.png)
+        ![Screenshot showing a categories drop-down selector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-refine-2.png)
 
 5.  If you find any areas to modify, contact your Task Mining power user to refine categorization based on the data gaps in the charts you identified.
 
 
 ## What to do next
 
-Share the analysis with interested process owners by adding shared users to the project. For more information, see [Share a Task Mining analysis](share-projects.md).
+Share the analysis with interested process owners by adding shared users to the project. For more information, see [Share a Task Mining analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/share-projects.md).
 
 **Related topics**  
 
 
-[Task Mining analyses](../concept/task-mining-dashboard.md)
+[Task Mining analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../concept/task-mining-dashboard.md)
 
-[Categorize workstation activities to simplify analysis](define-default-categorization-rules.md)
+[Categorize workstation activities to simplify analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/define-default-categorization-rules.md)
 

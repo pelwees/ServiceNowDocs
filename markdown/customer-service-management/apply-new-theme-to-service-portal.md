@@ -35,7 +35,7 @@ Role required: sp\_admin or admin
 
 6.  Provide the UX theme ID of the theme that you want to apply in the **Value** field.
 
-    1.  On the UX theme record, select the Additional actions icon \(![Additional actions icon](../../../use/collaboration/image/IconMenu.png)\).
+    1.  On the UX theme record, select the Additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../use/collaboration/image/IconMenu.png)\).
 
     2.  Select **Copy sys\_id** from the menu.
 

@@ -44,12 +44,12 @@ If you submit a space reservation request from the catalog item, or if a request
 
 The notification contains campus details, space details, and the reservation duration.
 
-![Reservation details like the campus, space, and duration.](../../workplace-service-delivery/images/wsd-core-notification.png)
+![Reservation details like the campus, space, and duration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/images/wsd-core-notification.png)
 
--   **[Request a workplace reservation for multiple days](../task/request-workspace-reservations-for-multiple-days.md)**  
+-   **[Request a workplace reservation for multiple days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../task/request-workspace-reservations-for-multiple-days.md)**  
 Request a workplace reservation for the days during which you want to return to office by using Workplace Core.
--   **[Reserve a workplace for a day](../task/reserve-space-for-a-day.md)**  
+-   **[Reserve a workplace for a day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../task/reserve-space-for-a-day.md)**  
 Reserve workplaces for a day on which you want to return to the office by using Workplace Core.
 
-**Parent Topic:**[Workplace Core](workplace-safety-mgmt-hr.md)
+**Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 

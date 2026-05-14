@@ -129,7 +129,7 @@ See who is available to assist with real-troubleshooting and get timely support 
 
  View additional details about developer support users such as username, access status, locked status, and access permissions by selecting the **View Users** link.
 
-**Note:** Impact developer support users are managed in Impact Delivery Instance. For more information, see [Impact Developer Support](developer-support.md).
+**Note:** Impact developer support users are managed in Impact Delivery Instance. For more information, see [Impact Developer Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/developer-support.md).
 
 </td></tr></tbody>
 </table>

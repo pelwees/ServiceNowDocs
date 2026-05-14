@@ -15,8 +15,8 @@ breadcrumb: [Legal Simple Privacy, Legal Service Delivery Practice Applications,
 
 Reference topics provide additional information about the lists and forms that you use in Legal Simple Privacy.
 
--   **[Components installed with Legal Simple Privacy](../reference/components-installed-simple-privacy.md)**  
+-   **[Components installed with Legal Simple Privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../reference/components-installed-simple-privacy.md)**  
 Several types of components are installed with activation of the Legal Simple Privacy application, including user roles.
 
-**Parent Topic:**[Legal Simple Privacy](legal-simple-privacy-landing-page.md)
+**Parent Topic:**[Legal Simple Privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
 

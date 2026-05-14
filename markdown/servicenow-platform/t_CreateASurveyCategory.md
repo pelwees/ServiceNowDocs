@@ -44,10 +44,10 @@ Only one category is required for each survey, but you can add additional catego
 6.  Click **Update**.
 
 
-**Parent Topic:**[Survey categories](../concept/c_SurveyCategory.md)
+**Parent Topic:**[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyCategory.md)
 
 **Related topics**  
 
 
-[Create a category in the survey designer](t_CreateCatInSurveyDesigr.md)
+[Create a category in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCatInSurveyDesigr.md)
 

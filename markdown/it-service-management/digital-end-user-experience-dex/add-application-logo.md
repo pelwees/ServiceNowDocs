@@ -53,11 +53,11 @@ You can only add a logo for an existing application.
 To see the new application logo, perform the following steps.
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
-2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](../image/icon-applications.png)\).
+2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-applications.png)\).
 3.  Open the application for which you have added the logo.
 
     The logo appears before the name of the application.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-application-monitoring.md)
 

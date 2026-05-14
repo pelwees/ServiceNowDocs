@@ -25,11 +25,11 @@ A component triggers an event when a certain condition is met or on user interac
 **Related topics**  
 
 
-[Configure the Case create component instance](../task/config-case-create-component-on-instance.md)
+[Configure the Case create component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-case-create-component-on-instance.md)
 
-[Embed the Case create component instance on the third-party website](../task/embed-case-create-component-on-third-party-website.md)
+[Embed the Case create component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-case-create-component-on-third-party-website.md)
 
-[Component properties for the Case create](comp-properties-case-create.md)
+[Component properties for the Case create](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/comp-properties-case-create.md)
 
-[Sample code for the Case create component](we-case-create-sample-code.md)
+[Sample code for the Case create component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-sample-code.md)
 

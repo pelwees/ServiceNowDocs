@@ -86,10 +86,10 @@ User Onboarding Item\[sn\_hr\_magnit\_user\_onboarding\_item\]
 Stores the mappings of onboarding items of contingent workers with HR profiles.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Magnit](reference-magnit.md)
+</table>**Parent Topic:**[Reference for HR Service Delivery Integration with Magnit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-magnit.md)
 
 **Related topics**  
 
 
-[Default entities](default-ent-magnit.md)
+[Default entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/default-ent-magnit.md)
 

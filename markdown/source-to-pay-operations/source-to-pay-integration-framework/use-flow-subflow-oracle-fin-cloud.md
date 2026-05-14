@@ -31,7 +31,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
     For example, select **Fetch currencies from Oracle Financial Cloud** subflow.
 
-    ![Use a flow or subflow in Oracle Financial Cloud](../../source-to-pay-operations/image/oracle-fin-use-subflow.png "Use a flow or subflow in Oracle Financial Cloud")
+    ![Use a flow or subflow in Oracle Financial Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-fin-use-subflow.png "Use a flow or subflow in Oracle Financial Cloud")
 
 5.  In the Trigger field, specify the time and interval at which you want to run the scheduled flow automatically.
 

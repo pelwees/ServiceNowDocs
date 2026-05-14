@@ -18,5 +18,5 @@ This section refers to advanced configuration options for the Kubernetes Visibil
 
 For the latest information, see the [Kubernetes Visibility Agent \(formerly CNO for Visibility\) Advanced Configuration Options \[KB1648891\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1648891) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Kubernetes Visibility Agent Reference](cnov-reference.md)
+**Parent Topic:**[Kubernetes Visibility Agent Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-reference.md)
 

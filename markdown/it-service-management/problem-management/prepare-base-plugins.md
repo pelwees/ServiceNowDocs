@@ -39,5 +39,5 @@ Role required: admin
 
 ## What to do next
 
-[Restore base plugins](restore-base-plugins.md).
+[Restore base plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/restore-base-plugins.md).
 

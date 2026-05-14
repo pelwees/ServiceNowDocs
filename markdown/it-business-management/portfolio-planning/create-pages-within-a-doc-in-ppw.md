@@ -37,18 +37,18 @@ Role required: sn\_align\_core.apw\_user
     -   To create from templates:
         1.  Select **Create Page from template**.
 
-            ![Create Page from template](../../spw-eap/images/eap-doc-create-from-template.png)
+            ![Create Page from template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-eap/images/eap-doc-create-from-template.png)
 
         2.  Select a template from the Template Center and select **Create page**.
 
-            ![Doc templates list.](../../alignment-planner-workspace/images/spw-doc-templates-list.png)
+            ![Doc templates list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/spw-doc-templates-list.png)
 
     The new page is created and added to your Doc with the name **Untitled**, which you can rename.
 
-6.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create subpage**.
+6.  To create a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create subpage**.
 
-    ![Create subpage for a Doc in Portfolio Planning.](../../spw-eap/images/eap-doc-create-subpage.png)
+    ![Create subpage for a Doc in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-eap/images/eap-doc-create-subpage.png)
 
-7.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
+7.  To delete a page or a subpage, select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
 
 

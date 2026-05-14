@@ -37,14 +37,14 @@ Only the owner or contributors of the goal can edit the goal.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Goal form](../reference/goal-form-egm.md).
+    For a description of the field values, see [Goal form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/goal-form-egm.md).
 
 5.  Select **Save**.
 
-    You can also select **Save and add target** and add a target for the goal on the flow. For a description of the field values for a target, see [Target form](../reference/target-form-egm.md).
+    You can also select **Save and add target** and add a target for the goal on the flow. For a description of the field values for a target, see [Target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/target-form-egm.md).
 
 
 ## What to do next
 
-Set targets for the goals. For more information, see [Add targets for a goal in Strategic Planning](set-targets-for-goal-egm.md) or [Configuring target source for target automation](../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
+Set targets for the goals. For more information, see [Add targets for a goal in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/set-targets-for-goal-egm.md) or [Configuring target source for target automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md).
 

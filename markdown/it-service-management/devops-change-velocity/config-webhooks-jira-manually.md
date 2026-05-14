@@ -30,7 +30,7 @@ If you have connected your Jira tool using OAuth 2.0 based authentication, the w
 
 1.  In DevOps Change Velocity, in the Configure to send data playbook activity, select **Configure manually** when configuring the tool instance to send data.
 
-    ![Jira webhook configuration.](../image/jira-plybk-05.png)
+    ![Jira webhook configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-05.png)
 
     **Note:** You can also access manual configuration from the Jira tool record in DevOps Change Velocity. From the tool record, select **Configure** &gt; **Configure manually**.
 
@@ -38,7 +38,7 @@ If you have connected your Jira tool using OAuth 2.0 based authentication, the w
 
     **Note:** Select **Copy** in the appropriate field to copy the value to your clipboard. The field label changes to **Copied**, but you can copy multiple times.
 
-    ![Jira configure webhooks manually.](../image/jira-manual-webhooks-2.png)
+    ![Jira configure webhooks manually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-manual-webhooks-2.png)
 
 3.  Navigate to:
 
@@ -90,13 +90,13 @@ Events
 
 Select the events to be tracked.For example:
 
-![Events for tracking.](../image/jira-manual-webhooks-1.png)
+![Events for tracking.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-manual-webhooks-1.png)
 
 </td></tr></tbody>
 </table>6.  Select **Create**.
 
-    If you want to test the webhook, see the section on Jira in [Test webhooks manually](../reference/test-wehooks-manually.md).
+    If you want to test the webhook, see the section on Jira in [Test webhooks manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/test-wehooks-manually.md).
 
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/jira-integration-dev-ops.md)
 

@@ -140,12 +140,12 @@ The application the MID Server must support to be eligible for selection. The sy
 
 4.  Click **New**, select **JMS Credentials**, and then provide the user name and password the MID should use to communicate with the JMS provider.
 
-    For more information, see [JMS credentials](../reference/r_JMSCredentialsForm.md).
+    For more information, see [JMS credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../reference/r_JMSCredentialsForm.md).
 
 5.  Click **Submit**.
 
     You are ready to create a custom JMS action or activity.
 
 
-**Parent Topic:**[Get started with connections](../reference/connection-information.md)
+**Parent Topic:**[Get started with connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../reference/connection-information.md)
 

@@ -19,7 +19,7 @@ Learn about terms and concepts that are unique to App Engine Studio \(AES\).
 
     Provides predefined data, experience, logic and automation, and security to support a certain use case. For example, the Travel Request template provides application content for submitting and approving employee travel requests.
 
-    For more information on the available templates, see [Available templates](../concept/template-library.md).
+    For more information on the available templates, see [Available templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/template-library.md).
 
 -   **Logic and automation**
 
@@ -39,7 +39,7 @@ Learn about terms and concepts that are unique to App Engine Studio \(AES\).
 
 -   **Experience**
 
-    Graphical interface that your users interact with. For example, you can create a portal where users find information, submit requests, or complete business tasks. For more information on the available application experiences, see [Add an application experience](../concept/add-experience.md).
+    Graphical interface that your users interact with. For example, you can create a portal where users find information, submit requests, or complete business tasks. For more information on the available application experiences, see [Add an application experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-experience.md).
 
 -   **Pipeline**
 
@@ -50,5 +50,5 @@ Learn about terms and concepts that are unique to App Engine Studio \(AES\).
     Roles and access controls to limit who can use your application.
 
 
-**Parent Topic:**[App Engine Studio reference](aes-reference.md)
+**Parent Topic:**[App Engine Studio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-reference.md)
 

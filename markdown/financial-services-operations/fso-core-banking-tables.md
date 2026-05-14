@@ -104,5 +104,5 @@ This section describes the banking tables in FSO Core and shows how they store a
 |Wire Transfer Service|sn\_bom\_wire\_transfer|Stores all wire transfer treasury service records. Extends the Financial Service \[sn\_bom\_service\] table.|
 |Wire Transfer User|sn\_bom\_m2m\_wire\_transfer\_user|Stores details of users who are authorized to request for a wire transfer facility on a business deposit account|
 
-**Parent Topic:**[Financial Services Operations Core](financial-services-operations-core-data-model.md)
+**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 

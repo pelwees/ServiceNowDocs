@@ -44,5 +44,5 @@ Role required: sn\_sales\_forecast.adjustment\_writer
     On your forecast item, the Owner Adjustment field displays the adjusted forecast value and the Hierarchy Forecast value displays the original forecast value.
 
 
-**Parent Topic:**[Using Sales Forecasting](using-sales-forecasting.md)
+**Parent Topic:**[Using Sales Forecasting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 

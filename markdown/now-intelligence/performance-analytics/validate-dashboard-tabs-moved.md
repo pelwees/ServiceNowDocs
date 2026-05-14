@@ -21,7 +21,7 @@ Role required: admin.
 
 ## About this task
 
-Moving dashboards from one instance to another requires associating the sys\_id values of dashboard tabs with the sys\_id values of the associated portal pages. This task explains how to find these values and map them to each other if there are problems with moving the dashboard. Perform this task after you [Move a Core UI dashboard with an update set](t_MoveDashboardWithUpdateSet.md).
+Moving dashboards from one instance to another requires associating the sys\_id values of dashboard tabs with the sys\_id values of the associated portal pages. This task explains how to find these values and map them to each other if there are problems with moving the dashboard. Perform this task after you [Move a Core UI dashboard with an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_MoveDashboardWithUpdateSet.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ Moving dashboards from one instance to another requires associating the sys\_id 
 
     6.  On the **Portal Page**, select the context menu icon \(![](../image/icon-context-p.png)\) and select **Copy sys\_id**.
 
-        Paste this value into the text editor.![Copy sys_id](../../performance-analytics/image/copy-sys-id.png)
+        Paste this value into the text editor.![Copy sys_id](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/copy-sys-id.png)
 
         This value is the sys\_id for the portal page. It is different than the sys\_id for the associated tab that you have already used. These values are used together to map the tab to the portal page.
 
@@ -69,7 +69,7 @@ Moving dashboards from one instance to another requires associating the sys\_id 
 
     3.  Filter the list to show only the portal page with the sys\_id you copied.
 
-    4.  Right-click the record and select **Unload Portal Page**.![Portal page record context menu with the item Unload portal page selected.](../../performance-analytics/image/unload-portal-page.png)
+    4.  Right-click the record and select **Unload Portal Page**.![Portal page record context menu with the item Unload portal page selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/unload-portal-page.png)
 
     5.  Move the update set to another instance using standard update set functionality.
 

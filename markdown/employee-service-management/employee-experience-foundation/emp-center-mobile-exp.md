@@ -25,42 +25,42 @@ The following are the features that are delivered to give you a curated experien
 
     Unifies the help content, such as requests and articles across multiple departments.
 
-    ![Help center tab displays on Now Mobile home page.](../images/nm-home-h_cntr.png)
+    ![Help center tab displays on Now Mobile home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/nm-home-h_cntr.png)
 
 -   **Popular topic section**
 
     Displays up to six popular topics based on content popularity.
 
-    ![Popular topic section displays on Now Mobile home page.](../images/nm-home-p_topics.png)
+    ![Popular topic section displays on Now Mobile home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/nm-home-p_topics.png)
 
 -   **Browse experience**
 
     Displays the first 10 root topics for the taxonomy associated to the MESP portal record.
 
-    ![Browse all topics section displays on Now Mobile home page.](../images/nm-home-browse.png)
+    ![Browse all topics section displays on Now Mobile home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/nm-home-browse.png)
 
 -   **Employee Profile on Now Mobile**
 
     You can view the employee profile details, such as, **About**, **Bio**, **Personal information**, and **Employment details** on Now Mobile.
 
-    ![Mobile view of employee profile](../images/employee-profile-mobile.png)
+    ![Mobile view of employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/employee-profile-mobile.png)
 
 -   **Quick links**
 
     Use the helpful quick links available on the home page.
 
-    ![Quick link section displays on Now Mobile home page.](../images/nm-qlinkls.png)
+    ![Quick link section displays on Now Mobile home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/nm-qlinkls.png)
 
 
-For more information on configuring for Employee Center, see [Configuring Employee Center for mobile](ec-mobile-configrations.md).
+For more information on configuring for Employee Center, see [Configuring Employee Center for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md).
 
--   **[Configuring Employee Center for mobile](ec-mobile-configrations.md)**  
+-   **[Configuring Employee Center for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)**  
 Configure Employee Center capabilities on Now Mobile to help employees utilize the employee-centric content experience. This configuration enables all services, information, and support tabs.
 
-**Parent Topic:**[Employee Center Integrations](integrate-ec.md)
+**Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
 **Related topics**  
 
 
-[Exploring Employee Center Pro](emp-center-vs-ec-pro.md)
+[Exploring Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-vs-ec-pro.md)
 

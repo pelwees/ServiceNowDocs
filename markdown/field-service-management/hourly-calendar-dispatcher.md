@@ -27,7 +27,7 @@ Benefits of configuring an hourly calendar include:
 -   **Responsive Design**: Optimized column width and spacing
 -   **Event Management**: Full support for event creation, editing, and visualization
 
-![hourly view span showing](../image/hourly-view.png "Hourly view in Dispatcher Workspace")
+![hourly view span showing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/hourly-view.png "Hourly view in Dispatcher Workspace")
 
 ## Procedure
 

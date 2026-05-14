@@ -48,9 +48,9 @@ Depending on the reclassification, the following occurs.
     A switch is a combination of a downgrade and an upgrade. For example if the CI is downgraded to the cmdb\_ci\_server, and then upgraded to the cmdb\_ci\_win\_server class. Therefore, attributes are lost in the same manner as in a downgrade operation.
 
 
-**Note:** Avoid the CI class downgrade and CI class switch operations as those can lead to data loss. When automatic CI reclassification is enabled \(which is by default\), the [identification process](../concept/c_CMDBIdentifyandReconcile.md) can result in some automatic reclassifications which lead to data loss.
+**Note:** Avoid the CI class downgrade and CI class switch operations as those can lead to data loss. When automatic CI reclassification is enabled \(which is by default\), the [identification process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBIdentifyandReconcile.md) can result in some automatic reclassifications which lead to data loss.
 
-For information about CI reclassification by the Identification and Reconciliation Engine \(IRE\) and related system properties that control the behavior of automatic CI reclassification, see [Configure CI reclassification during IRE processing](../concept/c_CIReclassification.md#).
+For information about CI reclassification by the Identification and Reconciliation Engine \(IRE\) and related system properties that control the behavior of automatic CI reclassification, see [Configure CI reclassification during IRE processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIReclassification.md#).
 
 ## Procedure
 
@@ -67,22 +67,22 @@ For information about CI reclassification by the Identification and Reconciliati
 4.  Click the green check box to confirm your selection.
 
 
-**Parent Topic:**[CMDB classifications and class dependency](../concept/c_CMDBClassifications.md)
+**Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBClassifications.md)
 
 **Related topics**  
 
 
-[Dependent CIs management](../concept/manage-dependent-ci.md)
+[Dependent CIs management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/manage-dependent-ci.md)
 
-[CMDB record types](../reference/r_CMDBRecordTypes.md)
+[CMDB record types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_CMDBRecordTypes.md)
 
-[Related Lists of CI components](../reference/r_RelatedListsOfCIComponents.md)
+[Related Lists of CI components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_RelatedListsOfCIComponents.md)
 
-[Create a CI class](t_CreateCIType.md)
+[Create a CI class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIType.md)
 
-[Delete CIs](delete-class-records-ci-class-mgr.md)
+[Delete CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/delete-class-records-ci-class-mgr.md)
 
-[View and edit class definitions and metadata](t_ViewTableDefinitions.md)
+[View and edit class definitions and metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewTableDefinitions.md)
 
-[Update the list of classes in the Principal Class filter](update-principal-class-filter.md)
+[Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/update-principal-class-filter.md)
 

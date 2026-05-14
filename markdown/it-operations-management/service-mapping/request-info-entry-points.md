@@ -17,7 +17,7 @@ The most important attribute you must know and configure to discover an service 
 
 ## Before you begin
 
-Requesting information about entry points is an optional part of [mapping a single application service](t_DefineNewBusinessService.md).
+Requesting information about entry points is an optional part of [mapping a single application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md).
 
 Roles required: service\_mapping\_admin
 
@@ -49,8 +49,8 @@ Entry points vary depending on the nature of the service instance. Service Mappi
 
 6.  Click the link in the email to open the Questionnaire screen for the relevant service instance.
 
-7.  Continue [mapping a single application service](t_DefineNewBusinessService.md).
+7.  Continue [mapping a single application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md).
 
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 

@@ -56,5 +56,5 @@ if (gr.get(g_url.get('sys_id'))) {
 } 
 ```
 
-**Parent Topic:**[View management](view-management-overview.md)
+**Parent Topic:**[View management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md)
 

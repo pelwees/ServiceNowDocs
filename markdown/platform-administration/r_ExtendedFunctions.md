@@ -39,7 +39,7 @@ Accordion\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Accordion](../image/TinyMCEV6-accordion_icon.png)
+![TinyMCE v6.8.3 Accordion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-accordion_icon.png)
 
 </td><td>
 
@@ -51,11 +51,11 @@ Add character map\*
 
 </td><td>
 
-![Spec Char html](../image/SpecCharHTML.png)
+![Spec Char html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/SpecCharHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Add character map](../image/TinyMCEV6-add-character-map_icon.png)
+![TinyMCE v6.8.3 Add character map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-add-character-map_icon.png)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Anchor\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Anchor](../image/TinyMCEv6-anchor_icon.png)
+![TinyMCE v6.8.3 Anchor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEv6-anchor_icon.png)
 
 </td><td>
 
@@ -83,7 +83,7 @@ Cleanup Messy Code
 
 </td><td>
 
-![Cleanup html](../image/CleanupHTML.png)
+![Cleanup html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CleanupHTML.png)
 
 </td><td>
 
@@ -99,15 +99,15 @@ Edit HTML Source/Code
 
 </td><td>
 
-![Html editor button](../image/HTMLEditorButton.png)
+![Html editor button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/HTMLEditorButton.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Code](../image/TinyMCEV6-code_icon.png)
+![TinyMCE v6.8.3 Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-code_icon.png)
 
 </td><td>
 
-Opens HTML source code in a separate window. See [Editing in HTML Source Mode](../concept/c_UseHTMLFields.md).
+Opens HTML source code in a separate window. See [Editing in HTML Source Mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_UseHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Emoticons\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Emoticons](../image/TinyMCEV6-emoticons_icon.png)
+![TinyMCE v6.8.3 Emoticons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-emoticons_icon.png)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Insert date/time\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Insert date/time](../image/TinyMCEV6-insertdatetime_icon.png)
+![TinyMCE v6.8.3 Insert date/time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-insertdatetime_icon.png)
 
 </td><td>
 
@@ -147,15 +147,15 @@ Insert/Edit Embedded Media
 
 </td><td>
 
-![Media html](../image/MediaHTML.png)
+![Media html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/MediaHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Embed media](../image/TinyMCEV6-embed_icon.png)
+![TinyMCE v6.8.3 Embed media](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-embed_icon.png)
 
 </td><td>
 
-Embeds a video from the video library or an attachment. You can also add videos to the video library with this feature. To learn more, see [Embedding Video in HTML Fields](../task/t_EmbeddingVideoInHTMLFields.md).
+Embeds a video from the video library or an attachment. You can also add videos to the video library with this feature. To learn more, see [Embedding Video in HTML Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_EmbeddingVideoInHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -163,15 +163,15 @@ Insert/Edit Image
 
 </td><td>
 
-![Image html](../image/ImageHTML.png)
+![Image html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ImageHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Image](../image/TinyMCEV6-image_icon.png)
+![TinyMCE v6.8.3 Image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-image_icon.png)
 
 </td><td>
 
-Inserts an image from the image library or an attachment. You can also add images to the image library with this feature. To learn more, see [Embedding Images in HTML Fields](../task/t_EmbeddingImagesInHTMLFields.md).
+Inserts an image from the image library or an attachment. You can also add images to the image library with this feature. To learn more, see [Embedding Images in HTML Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_EmbeddingImagesInHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -179,11 +179,11 @@ Insert/Edit Link
 
 </td><td>
 
-![Link html](../image/LinkHTML.png)
+![Link html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/LinkHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Link](../image/TinyMCEV6-link_icon.png)
+![TinyMCE v6.8.3 Link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-link_icon.png)
 
 </td><td>
 
@@ -197,7 +197,7 @@ Insert Horizontal Line
 
 </td><td>
 
-![Hr html](../image/HrHTML.png)
+![Hr html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/HrHTML.png)
 
 </td><td>
 
@@ -213,7 +213,7 @@ Preview\*
 
 </td><td>
 
-![Preview html](../image/PreviewHTML.png)
+![Preview html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PreviewHTML.png)
 
 </td><td>
 
@@ -233,7 +233,7 @@ Print\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Print](../image/TinyMCEV6-print_icon.png)
+![TinyMCE v6.8.3 Print](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-print_icon.png)
 
 </td><td>
 
@@ -245,11 +245,11 @@ Remove link\*
 
 </td><td>
 
-![Unlink html](../image/UnlinkHTML.png)
+![Unlink html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/UnlinkHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Unlink](../image/TinyMCEV6-unlink_icon.png)
+![TinyMCE v6.8.3 Unlink](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-unlink_icon.png)
 
 </td><td>
 
@@ -261,7 +261,7 @@ Spell Checker
 
 </td><td>
 
-![Spell html](../image/SpellHTML.png)
+![Spell html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/SpellHTML.png)
 
 </td><td>
 
@@ -277,11 +277,11 @@ Toggle Full Screen Mode\*
 
 </td><td>
 
-![Full screen html](../image/FullScreenHTML.png)
+![Full screen html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FullScreenHTML.png)
 
 </td><td>
 
-![TinyMCE v6.8.3 Full screen](../image/TinyMCEV6-fullscreen_icon.png)
+![TinyMCE v6.8.3 Full screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-fullscreen_icon.png)
 
 </td><td>
 
@@ -297,7 +297,7 @@ Visual blocks\*
 
 </td><td>
 
-![TinyMCE v6.8.3 Visual blocks](../image/TinyMCEV6-blocks_icon.png)
+![TinyMCE v6.8.3 Visual blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-blocks_icon.png)
 
 </td><td>
 
@@ -309,7 +309,7 @@ Visual chars\*
 
 </td><td>
 
-![Toggle guides html](../image/ToggleGuidesHTML.png)
+![Toggle guides html](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ToggleGuidesHTML.png)
 
 </td><td>
 

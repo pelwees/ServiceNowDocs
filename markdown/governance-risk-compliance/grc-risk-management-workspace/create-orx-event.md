@@ -77,5 +77,5 @@ The ORX association enables operational and non-financial risk professionals to 
     |Additional comments|Additional comments about this event.|
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

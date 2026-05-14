@@ -25,15 +25,15 @@ Easily see how many subscriptions for IT Operations Management applications your
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore ITOM/OT SU Licensing and subscriptions](../concept/explore-itom-licensing.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Explore ITOM/OT SU Licensing and subscriptions](../concept/explore-itom-licensing.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install ITOM/OT SU Licensing](../concept/configure-itom-licensing.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to install ITOM/OT SU Licensing](../concept/configure-itom-licensing.md)
 
 </td><td>
 
-[References![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about schedule jobs, tables, subscription form and dashboard](itom-su-licensing-reference.md)
+[References![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn about schedule jobs, tables, subscription form and dashboard](itom-su-licensing-reference.md)
 
 </td></tr></tbody>
 </table>To know about Operational Technology Management \(OTM\) licensing and subscriptions, see [Subscriptions form for the OTM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-subscriptions-form.md).

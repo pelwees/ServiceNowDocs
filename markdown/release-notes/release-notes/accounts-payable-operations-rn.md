@@ -62,5 +62,5 @@ Accounts Payable Operations supports multiple languages. However, the current Do
     Tax Engine Integration with Vertex \(com.sn\_fsc\_vertex\): This plugin enables the integration of APO with Vertex \(vendor\) to perform tax validation on invoices resulting in tax accuracy and compliance.
 
 
-**Parent Topic:**[Source-to-Pay Operations release notes](source-to-pay-operations-rn-landing.md)
+**Parent Topic:**[Source-to-Pay Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/source-to-pay-operations-rn-landing.md)
 

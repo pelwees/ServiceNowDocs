@@ -40,7 +40,7 @@ If this is the first time that the driver is installed, the installer is in firs
 
     The ODBC Driver Setup Wizard appears.
 
-    ![f ODBC Driver Setup Wizard.](../image/OdbcStep1.png)
+    ![f ODBC Driver Setup Wizard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcStep1.png)
 
 4.  Click **Next**.
 
@@ -73,22 +73,22 @@ If this is the first time that the driver is installed, the installer is in firs
     -   **Service Data Source**: The name that can be selected in the **Service Data Source** field of the ODBC Administrator.
     Usually, the default values are appropriate.
 
-    ![Service Configuration.](../image/OdbcStep5.png)
+    ![Service Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcStep5.png)
 
 10. Under the Start menu, select the **Program Folder** to create links for the driver.
 
-    ![ODBC Driver Setup - Select Program Folder.](../image/OdbcStep6.png)
+    ![ODBC Driver Setup - Select Program Folder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcStep6.png)
 
     The installation creates the following links in the menu:
 
     -   **Interactive SQL \(ODBC\)**: An interactive SQL command window for directly testing SQL statements.
     -   **Management Console**: A Microsoft MMC snap-in for configuring default properties for the ODBC driver.
     -   **ODBC Administrator**: A Microsoft ODBC Administrator program.
-    ![ODBC Program Menu.](../image/OdbcProgramMenu.png)
+    ![ODBC Program Menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcProgramMenu.png)
 
     The driver code is copied to the target folder.
 
-    ![ODBC Driver Setup - Start Copying Files.](../image/OdbcStep7.png)
+    ![ODBC Driver Setup - Start Copying Files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcStep7.png)
 
     A progress bar appears.
 
@@ -111,5 +111,5 @@ If this is the first time that the driver is installed, the installer is in firs
 
 The ODBC driver application is ready for testing.
 
-**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Parent Topic:**[Installing the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_InstallingTheODBCDriver.md)
 

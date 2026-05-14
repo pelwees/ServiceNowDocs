@@ -13,7 +13,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 Use this dashboard to view technician metrics, task metrics, and Schedule Optimization configuration details.
 
-![schedule health dashboard](../../../product/field-service-management/image/schedule-health-dash.png)
+![schedule health dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/image/schedule-health-dash.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -85,7 +85,7 @@ Admins have the capabilities of a dispatcher and can update the information that
 |On-site tasks without on-site arrival|Single Score|wm\_task|The number of tasks that have been accepted and the agent has arrived, but no on‑site arrival time is set.|
 |Tasks with invalid skills|Single Score|cmn\_skills|The number of tasks with assigned skills that don’t exist in the cmn\_skills table.|
 
-![Schedule optimization scheduling health metrics](../../../product/field-service-management/image/SO-scheduling-health.png)
+![Schedule optimization scheduling health metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/image/SO-scheduling-health.png)
 
 ## Schedule Optimization Data Visualizations
 
@@ -163,5 +163,5 @@ The **Type** filter contains two choices, batch and intraday. Your selection out
 |Batch|Single select|Generate a report based on the selected batch configuration.|
 |Intraday configuration|Single select|Generate a report based on the selected intraday configuration.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/concept/analytics-reporting-fsm.md)
 

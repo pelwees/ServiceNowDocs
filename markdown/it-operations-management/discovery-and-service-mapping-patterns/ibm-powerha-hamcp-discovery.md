@@ -33,11 +33,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     1.  Navigate to **CI Classification** &gt; **UNIX**.
     2.  Select **AIX**.
     3.  In The **Triggers probes** tab, verify that the IBM PowerHA Cluster \(HACMP\) pattern is listed as an exploration that runs after the AIX Server pattern.
-    For more information on AIX Server discovery, see [AIX server discovery](../../discovery/reference/r_DataCollDiscoAIXComputers.md).
+    For more information on AIX Server discovery, see [AIX server discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/r_DataCollDiscoAIXComputers.md).
 
 -   **Verify server IP address or hostname**
 
-    Verify that the server IP address or hostname are used during discovery. For more information, see [Schedule a horizontal discovery](../../discovery/task/t_CreateADiscoverySchedule.md#).
+    Verify that the server IP address or hostname are used during discovery. For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/task/t_CreateADiscoverySchedule.md#).
 
 -   **Verify MID Server access**
 
@@ -126,7 +126,7 @@ On the Dependency Views map you can see all discovered cluster CIs in your organ
 
 In this example, UNIX Cluster Node represents a cluster of UNIX Clusters. UNIX Cluster Node gets resources from UNIX Cluster Resource and uses Cluster Virtual IP. UNIX Cluster Node contains three Cluster Resource Groups.
 
-![CIs and connections on a Dependency Views map](../image/ibm-hacmp-dependency-view.png "Dependency Views sample map")
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/ibm-hacmp-dependency-view.png "Dependency Views sample map")
 
 ## CI relationships
 
@@ -144,5 +144,5 @@ These relationships are created to support IBM HACMP/PowerHA cluster discovery:
 |UNIX Cluster \[cmdb\_ci\_unix\_cluster\]|Contains::Contained by|Cluster Resource Group \[cmdb\_ci\_cluster\_resource\_group\]|
 |UNIX Cluster Node \[cmdb\_ci\_unix\_cluster\_node\]|Hosted on::Hosts|AIX Server \[cmdb\_ci\_aix\_server\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

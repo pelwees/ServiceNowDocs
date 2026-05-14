@@ -22,5 +22,5 @@ Users can only view messages on the record feed if they have access to the same 
 
 **Note:** Access control rules are only checked when a user first accesses the record feed. After users view the feed, an administrator must remove them manually to change their access.
 
-**Parent Topic:**[Record feeds](c_RecordFeeds.md)
+**Parent Topic:**[Record feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_RecordFeeds.md)
 

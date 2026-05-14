@@ -48,5 +48,5 @@ Agents can only create personal events for themselves, while managers can create
 **Related topics**  
 
 
-[View personal events on the Team calendar in Workforce](view-personal-events-on-the-team-calendar.md)
+[View personal events on the Team calendar in Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/view-personal-events-on-the-team-calendar.md)
 

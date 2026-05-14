@@ -56,20 +56,20 @@ You can share certain entities while excluding specific records within those ent
     -   Enabling templates or sharing from GUI is not allowed while the Outbound Intelligence Data Exclusion Rule is in the edit mode.
     -   The automated sharing and automatic addition of records to TAXII collections will also fail while the exclusion rule remains in edit mode.
 
-**Parent Topic:**[Exploring Outbound Intel Sharing](../concept/tisc-outbound-intel-sharing.md)
+**Parent Topic:**[Exploring Outbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-outbound-intel-sharing.md)
 
 **Related topics**  
 
 
-[Configuring Outbound Intel Sharing Controls](tisc-outbound-sharing.md)
+[Configuring Outbound Intel Sharing Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing.md)
 
-[Configuring Outbound Intel Sharing Profiles](tisc-outbound-sharing-profiles.md)
+[Configuring Outbound Intel Sharing Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing-profiles.md)
 
-[Configuring Outbound Intel Sharing Groups](tisc-config-inbound-sharing-groups.md)
+[Configuring Outbound Intel Sharing Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-sharing-groups.md)
 
-[Defining Approval Rule for Outbound Intel](tisc-approval-outbound-intel.md)
+[Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md)
 
-[Configuring Outbound Intel Sharing Templates](tisc-intel-sharing-templates.md)
+[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 
-[Working on the Redaction Library](tisc-redaction-library.md)
+[Working on the Redaction Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-redaction-library.md)
 

@@ -52,5 +52,5 @@ To enable accessibility for PDF generation, in the navigation filter, enter sys\
 
 If the memory usage reaches the configured value \(default value is 90%\) for the system property, the platform automatically terminates the ongoing PDF export and new PDF export requests are rejected. The guardrail continues to block PDF exports until the memory usage drops below the safe threshold.
 
-**Parent Topic:**[PDF generation and accessibility](pdf-generation-accessibility.md)
+**Parent Topic:**[PDF generation and accessibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/pdf-generation-accessibility.md)
 

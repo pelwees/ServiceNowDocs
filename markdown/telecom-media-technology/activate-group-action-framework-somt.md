@@ -29,7 +29,7 @@ Role required: admin
 
 2.  In Group &amp; Action - Sales and Order Management for Telecommunications, select **Activate skill**.
 
-    ![Group & Action - Sales and Order Management for Telecommunications skill for TMT.](../image/assist-skills-somt.png)
+    ![Group & Action - Sales and Order Management for Telecommunications skill for TMT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/assist-skills-somt.png)
 
 3.  On the Group &amp; Action - Sales and Order Management for Telecommunications form, change the values by selecting **Edit**.
 

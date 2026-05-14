@@ -29,7 +29,7 @@ Role required: admin
 
 3.  Modify or complete the fields in the form.
 
-    For detailed information on the fields in the form, see [Journey Accelerator Model Task fields](../reference/ja-model-task-fields.md).
+    For detailed information on the fields in the form, see [Journey Accelerator Model Task fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../reference/ja-model-task-fields.md).
 
 4.  Click **Submit** or **Update** to save the form.
 

@@ -254,5 +254,5 @@ User role for the ICW Core application
 -   Industrial Task \[sn\_icw\_task\]
 -   Worker profile \[sn\_icw\_worker\_profile\]
 
-**Parent Topic:**[Industrial Connected Workforce reference](icw-reference.md)
+**Parent Topic:**[Industrial Connected Workforce reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/icw-reference.md)
 

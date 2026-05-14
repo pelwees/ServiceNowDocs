@@ -102,10 +102,10 @@ Activity
 Updates and information related to the channel partner.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[Configure Channel Partner table](../task/configure-channel-partner-table.md)
+[Configure Channel Partner table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-channel-partner-table.md)
 

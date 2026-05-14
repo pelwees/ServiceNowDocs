@@ -19,17 +19,17 @@ Create an inventory template for the logical composite in the Telecommunications
 
 The following example shows an inventory template for a logical composite.
 
-![Details view of a logical composite template with field information.](../image/logical-composite-template.png "Inventory template for a logical composite")
+![Details view of a logical composite template with field information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/logical-composite-template.png "Inventory template for a logical composite")
 
 The inventory model has inventory relationships such as **Multi Chassis to Equipment** and **Multi Chassis to Rack** attached to it.
 
-![Details of the network relationship with field information.](../image/logical-composite-model-relationship.png "Example of the network relationship")
+![Details of the network relationship with field information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/logical-composite-model-relationship.png "Example of the network relationship")
 
 After saving the inventory template, it creates the related equipment and rack templates depending on the count mentioned in the network model relationship.
 
-![Related template view of the logical composite template with list information.](../image/logical-composite-related-template-view.png "Related templates of a logical composite template")
+![Related template view of the logical composite template with list information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/logical-composite-related-template-view.png "Related templates of a logical composite template")
 
-![Details view of a related template with field information.](../image/related-template-logical-composite.png "Details of a logical composite related template")
+![Details view of a related template with field information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/related-template-logical-composite.png "Details of a logical composite related template")
 
 The default naming patterns of slot, subslot, and port records that are created under the equipment are as follows:
 
@@ -43,20 +43,20 @@ You can edit the **Name Pattern** field.
 
 ## What's next
 
-Use a this template to instantiate logical composites and related equipment and rack records using design and assign. To learn more, see [Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md).
+Use a this template to instantiate logical composites and related equipment and rack records using design and assign. To learn more, see [Create an equipment record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-equipment-record-design-and-assign.md).
 
-**Parent Topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
+**Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
-**Previous topic:**[Create an inventory template for cable models](create-inventory-tenplate-cable-models.md)
+**Previous topic:**[Create an inventory template for cable models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-inventory-tenplate-cable-models.md)
 
-**Next topic:**[Import models and templates](import-models-and-templates.md)
+**Next topic:**[Import models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models-and-templates.md)
 
 **Related topics**  
 
 
-[Define a network model relationship](../task/create-network-model-relationships.md)
+[Define a network model relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-network-model-relationships.md)
 
-[Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-equipment-record-design-and-assign.md)
 
-[Equipment extension classes](../reference/equipment-extension-classes.md)
+[Equipment extension classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/equipment-extension-classes.md)
 

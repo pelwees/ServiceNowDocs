@@ -65,7 +65,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     Dependencies for this planning item are listed in the form of cards.
 
-4.  From the side panel, locate your dependency and use the More actions icon \(![More actions icon.](../../alignment-planner-workspace/images/icon-more-actions.png)\) to edit or delete.
+4.  From the side panel, locate your dependency and use the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-more-actions.png)\) to edit or delete.
 
 <table id="choicetable_syp_cn3_2tb"><thead><tr><th align="left" id="d179074e186">
 
@@ -84,7 +84,7 @@ Steps
 1.  Select **Edit**.
 2.  In the Dependency details form, update the required fields and select **Save**.
 
-For field information, see [Dependency form](../../alignment-planner-workspace/reference/dependency-form.md).
+For field information, see [Dependency form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/reference/dependency-form.md).
 
 </td></tr><tr><td id="d179074e231">
 
@@ -98,5 +98,5 @@ For field information, see [Dependency form](../../alignment-planner-workspace/r
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Add dependencies for roadmap items](add-dependencies-roadmap-items-portfolio-planning.md)
+**Parent Topic:**[Add dependencies for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-dependencies-roadmap-items-portfolio-planning.md)
 

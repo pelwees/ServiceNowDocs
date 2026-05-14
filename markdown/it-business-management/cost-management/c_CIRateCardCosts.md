@@ -19,7 +19,7 @@ Costs associated with rate cards are stored in the Rate Card Cost \(`fm_ci_rate_
 
 Expense Line is active by default.
 
-**Parent Topic:**[CI rate cards](c_CIRateCards.md)
+**Parent Topic:**[CI rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_CIRateCards.md)
 
 ## Add a CI rate card cost
 

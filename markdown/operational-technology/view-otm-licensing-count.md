@@ -36,7 +36,7 @@ The CI list generated is strongly correlated to the most recent daily count of C
     -   Visibility
     -   HLA
     -   Health
-    ![Applications for which you want to see licensed CIs](../../operational-technology-management/image/otm-application-ci-1.png)
+    ![Applications for which you want to see licensed CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-management/image/otm-application-ci-1.png)
 
 3.  To create a report for the selected applications, select **Populate licensable CIs**.
 

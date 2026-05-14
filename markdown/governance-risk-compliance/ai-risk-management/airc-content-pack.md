@@ -47,5 +47,5 @@ Currently, the application offers the following:
 **Related topics**  
 
 
-[Install AI Risk and Compliance Content](../task/install-ai-risk-content-pack.md)
+[Install AI Risk and Compliance Content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/install-ai-risk-content-pack.md)
 

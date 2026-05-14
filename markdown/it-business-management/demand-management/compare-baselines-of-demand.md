@@ -21,9 +21,9 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-You can [create](create-demand-baseline.md) multiple baselines at various stages of a demand's life cycle. For example, at the end of each phase or after every calendar month or quarter. Each baseline captures the financial data of the demand at a particular moment, providing a basis from which you can identify and review the changes made to the demand. Having multiple baselines and comparing them helps you track the performance of your demand.
+You can [create](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-baseline.md) multiple baselines at various stages of a demand's life cycle. For example, at the end of each phase or after every calendar month or quarter. Each baseline captures the financial data of the demand at a particular moment, providing a basis from which you can identify and review the changes made to the demand. Having multiple baselines and comparing them helps you track the performance of your demand.
 
-If you’re creating demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, you can view and compare the financial details of the demand in baselines in the demand currency. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Demand Management](../concept/multicurrency-demand.md).
+If you’re creating demand with the PPM Standard Multicurrency \(com.snc.ppm\_multicurrency\) plugin activated and Demand Currency view enabled, you can view and compare the financial details of the demand in baselines in the demand currency. For more information about the fields that are available only in the Demand Currency view, see [Multicurrency in Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/multicurrency-demand.md).
 
 ## Procedure
 
@@ -96,5 +96,5 @@ Steps
     -   To view a cost plan or benefit plan comparative data in yearly, quarterly, or monthly format, select the **Year** or **Quarter** or **Month** views respectively.
     -   To view details of a fiscal year, select the **Expand** icon ![](../image/new-expand-icon.png) or **Collapse** icon ![](../image/new-collapse-icon.png).
 
-**Parent Topic:**[Create a baseline of a demand](create-demand-baseline.md)
+**Parent Topic:**[Create a baseline of a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-baseline.md)
 

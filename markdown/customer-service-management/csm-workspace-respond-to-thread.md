@@ -27,7 +27,7 @@ Cases that have been created from a community discussion have the **Channel** fi
 
 2.  Open a case that was created from a community discussion.
 
-3.  Click the More UI Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Show Community Thread**.
+3.  Click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Show Community Thread**.
 
     This UI action is only available if the **Channel** is Community.
 

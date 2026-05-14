@@ -17,16 +17,16 @@ Several types of components are installed with Live Feed.
 
 Demo data is available with Live Feed.
 
--   **[Tables installed with Live Feed](r_TablesInstalledWithLiveFeed.md)**  
+-   **[Tables installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_TablesInstalledWithLiveFeed.md)**  
 The Live Feed plugin includes the following tables.
--   **[User roles installed with Live Feed](r_UserRolesInstalledWithLiveFeed.md#)**  
+-   **[User roles installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_UserRolesInstalledWithLiveFeed.md#)**  
 The Live Feed plugin includes the following user roles.
--   **[Script includes installed with Live Feed](r_ScriptIncludesIWLiveFeed.md)**  
+-   **[Script includes installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_ScriptIncludesIWLiveFeed.md)**  
 The Live Feed plugin installs the following script includes.
--   **[Business rules installed with Live Feed](r_BRIWLiveFeed.md)**  
+-   **[Business rules installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_BRIWLiveFeed.md)**  
 The Live Feed plugin includes the following business rules.
--   **[Email notifications installed with Live Feed](r_EmailNotificationsUsedByLiveFeed.md)**  
+-   **[Email notifications installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_EmailNotificationsUsedByLiveFeed.md)**  
 The Live Feed plugin includes the following email notifications.
 
-**Parent Topic:**[Live Feed reference](live-feed-reference.md)
+**Parent Topic:**[Live Feed reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/live-feed-reference.md)
 

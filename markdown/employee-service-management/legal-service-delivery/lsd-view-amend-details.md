@@ -35,7 +35,7 @@ You can view the certificate of completion from the Attachment pane.
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  View all contract repository records by navigating to **Legal contracts** &gt; **All Contracts**.
 
@@ -58,8 +58,8 @@ You can view the certificate of completion from the Attachment pane.
 
 9.  To view certificate of completion for the contract and amendment request, navigate to **Attachments** pane.
 
-    The certification of completion is available for electronic signature workflow only. For more information, see [Activate a system property to generate a certificate of completion](../../contract-mgmt-pro/task/cncore-config-system-prop-COC.md)
+    The certification of completion is available for electronic signature workflow only. For more information, see [Activate a system property to generate a certificate of completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-config-system-prop-COC.md)
 
 
-**Parent Topic:**[Contract amendments](../concept/snlc-amend-req-landing.md)
+**Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-amend-req-landing.md)
 

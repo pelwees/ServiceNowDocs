@@ -61,10 +61,10 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[Configure Workplace Central](../concept/configure-workplace-central.md)
+**Parent Topic:**[Configure Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/configure-workplace-central.md)
 
 **Related topics**  
 
 
-[Configure approvers of a scenario](configure-approvers-of-a-scenario.md)
+[Configure approvers of a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/configure-approvers-of-a-scenario.md)
 

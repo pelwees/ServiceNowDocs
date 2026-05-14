@@ -30,15 +30,15 @@ The BCM administrator can configure the element definitions in the Business Cont
 
 The example shows the element definitions in an instance.
 
-![Element definitions in an instance.](../image/element-definitions.png)
+![Element definitions in an instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/element-definitions.png)
 
 The example shows the configuration of an element definition by the Business Continuity Management administrator.
 
-![Element definition.](../image/element-definition-new-record.png)
+![Element definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/element-definition-new-record.png)
 
 ## Configuration of an element definition
 
-For more information on configuring an element definition with the BCM administrator role, see [Configure element definition](../task/configure-element-definition-bia-uib-ws.md).
+For more information on configuring an element definition with the BCM administrator role, see [Configure element definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-element-definition-bia-uib-ws.md).
 
 **Note:** Starting with the Xanadu release, the element definition filter for the Hardware element definition has been updated. You can now add a Windows server asset in the Windows server element definition or a Linux server asset in the Linux server element definition. However, you cannot add the Windows server asset or the Linux server asset in the filter of the Hardware element definition.
 
@@ -46,7 +46,7 @@ For more information on configuring an element definition with the BCM administr
 
 As a functional system administrator, you can set up an element variable that is required for a particular dependency of an element. The example shows an administrator's view of the element variable record.
 
-![Configuration of an element variable.](../image/new-element-variable.png)
+![Configuration of an element variable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-element-variable.png)
 
-For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [Configure element variables for element definitions](../task/configure-element-variable-uib-ws.md).
+For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [Configure element variables for element definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-element-variable-uib-ws.md).
 

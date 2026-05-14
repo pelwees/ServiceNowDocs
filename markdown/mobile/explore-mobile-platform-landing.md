@@ -19,11 +19,11 @@ Select one of the tiles to learn about these ServiceNow mobile apps and how you 
 
 <table id="table_zpk_qsh_jzb" class="nav-card"><tbody><tr><td>
 
-[Now Mobile![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Use the Now Mobile app so employees can manage their tasks, records, incidents, and access company resources.](now-mobile-app.md)
+[Now Mobile![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-mobile-phone.svg) Use the Now Mobile app so employees can manage their tasks, records, incidents, and access company resources.](now-mobile-app.md)
 
 </td><td>
 
-[Mobile Agent ![](../../../reuse/icons/brand-icons/bus-work-order.svg) Use the Mobile Agent app to support agents and help them work from anywhere with purpose-built mobile workflows.](mobile-experience.md)
+[Mobile Agent ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../../reuse/icons/brand-icons/bus-work-order.svg) Use the Mobile Agent app to support agents and help them work from anywhere with purpose-built mobile workflows.](mobile-experience.md)
 
 </td></tr></tbody>
 </table>For more information, refer to the following resources:
@@ -38,25 +38,25 @@ Now Mobile is used by general employees or the requester persona. This app enabl
 
 Now Mobile includes workflows for [IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md), [Employee Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management-overview.md), [IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md), [Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md), [Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md), , [Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-management-overview.md), and [Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md). Navigate to these documentation sets for information about using Now Mobile for these workflows. The Mobile Platform documentation provides information about configuring Now Mobile to use your ServiceNow instance.
 
-![Now mobile applet launcher](../image/homepage-alp.png)
+![Now mobile applet launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/homepage-alp.png)
 
 ## Mobile Agent
 
-Mobile Agent is used by agents or the fulfiller persona. This app delivers out-of-the-box mobile experiences for the most common service desk agent workflows, which makes it easy for agents to triage, act on, and resolve requests on the go. [Mobile Agent app demo](sg-agent-demo.md) offers a curated demonstration of the Mobile Agent app, with a full range of personas and the controls for each role.
+Mobile Agent is used by agents or the fulfiller persona. This app delivers out-of-the-box mobile experiences for the most common service desk agent workflows, which makes it easy for agents to triage, act on, and resolve requests on the go. [Mobile Agent app demo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-agent-demo.md) offers a curated demonstration of the Mobile Agent app, with a full range of personas and the controls for each role.
 
 Mobile Agent includes workflows for [IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md), [Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-application-landing-page.md), [Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md), [IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md), [IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r_ITOMApplications.md), [Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md), [Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-operations-landing-page.md), [Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md), [Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-management-overview.md), and [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_Procurement.md). Navigate to these documentation sets for information about using Mobile Agent for these workflows. The Mobile Platform documentation provides information about configuring Mobile Agent to use your ServiceNow instance.
 
-![List using a swipe function in the Mobile Agent app.](../image/SwipeFunction.png)
+![List using a swipe function in the Mobile Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/SwipeFunction.png)
 
 ## Using the mobile apps
 
-![Native device features.](../image/native-device-features.png)
+![Native device features.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/native-device-features.png)
 
 Gain all the necessary knowledge to make mobile applications work best for your enterprise on the ServiceNow AI Platform.
 
 ## Building and configuring mobile apps
 
-![Mobile App Builder main record screen.](../image/mab-full-landing.png)
+![Mobile App Builder main record screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-full-landing.png)
 
 Develop a mobile experience custom-built to work with your business, your staff, and your customers, using the modules available on the ServiceNow Mobile Platform.
 

@@ -23,7 +23,7 @@ Role required: itil
 
 1.  Navigate to the Service Operations Workspace landing page.
 
-2.  Under the **Quick links** section, select add quick link \(![quick link icon](../image/quick-link.png)\).
+2.  Under the **Quick links** section, select add quick link \(![quick link icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/quick-link.png)\).
 
 3.  In the **URL** field, specify the URL that you want to refer to.
 
@@ -32,22 +32,22 @@ Role required: itil
 5.  Select **Add**.
 
 
-**Parent Topic:**[Operating IT services in your organization](../concept/enhancing-services-operations-in-organization.md)
+**Parent Topic:**[Operating IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/enhancing-services-operations-in-organization.md)
 
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/play-guided-tour-sow.md)
 
-[Create a list in Service Operations Workspace](create-list-sow.md)
+[Create a list in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-list-sow.md)
 
-[Live Agent chat in Service Operations Workspace](../concept/configure-liveagent-sow.md)
+[Live Agent chat in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configure-liveagent-sow.md)
 
-[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
-[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/incident-sow.md)
 
-[Request Management in Service Operations Workspace](../concept/request-sow.md)
+[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/request-sow.md)
 
-[Change Management in Service Operations Workspace](../concept/change-sow.md)
+[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 

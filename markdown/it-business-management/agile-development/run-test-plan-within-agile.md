@@ -39,12 +39,12 @@ From the Agile board, use the List view of the Sprint Tracking tab to check stor
 
 6.  In the Test Execution window, execute each test step and mark them as passed, failed, or blocked accordingly.
 
-    -   Passed \(![Step passed icon](../image/passedtest.png)\)
-    -   Failed \(![Step failed icon](../image/failedtest.png)\)
-    -   Blocked \(![Step blocked icon](../image/blockedtest.png)\)
+    -   Passed \(![Step passed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/passedtest.png)\)
+    -   Failed \(![Step failed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/failedtest.png)\)
+    -   Blocked \(![Step blocked icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/blockedtest.png)\)
     If you select Failed or Blocked for a test step, you can enter comments and attach files to support your selection.
 
-7.  If you're running multiple tests for the story, use the Next Test option \(![Next test icon](../image/icon-next-test.png)\) to move to the next test after verifying the current one.
+7.  If you're running multiple tests for the story, use the Next Test option \(![Next test icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/icon-next-test.png)\) to move to the next test after verifying the current one.
 
 8.  Repeat step 6 and 7 until you've executed and verified all the test steps.
 
@@ -68,7 +68,7 @@ The result of each test is indicated on the Agile board as Passed, Failed, Block
 
 ## What to do next
 
-[View the test results for a story in Agile Development 2.0](view-test-result-form.md)
+[View the test results for a story in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/view-test-result-form.md)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 

@@ -23,31 +23,31 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 1.  Navigate to **ShoppingHub Home** &gt; **My purchases**.
 
-    Alternatively, you can edit a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Edit a purchase**. For more information, see [Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](edit-pur-req-emp-central.md).
+    Alternatively, you can edit a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Edit a purchase**. For more information, see [Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-pur-req-emp-central.md).
 
 2.  Select a purchase requisition or order and select **Edit**.
 
-    ![Selecting a purchase order and editing it.](../image/spo-sh-select-po-and-edit.png)
+    ![Selecting a purchase order and editing it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-sh-select-po-and-edit.png)
 
     You can also select the **More options** icon on the line and select **Edit** to modify the details of the purchase requisition or order.
 
-    ![Editing a purchase order fromMore options on a purchase line.](../image/spo-edit-purchase-order.png)
+    ![Editing a purchase order fromMore options on a purchase line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-edit-purchase-order.png)
 
     **Note:** Remember that the **Edit** option isn’t available for purchases in the Closed state.
 
     The Edit a purchase page is displayed with the available purchase lines.
 
-    ![Available purchase lines when you edit the details of the purchase requisition or order.](../image/spo-sh-edit-a-purchase-form.png)
+    ![Available purchase lines when you edit the details of the purchase requisition or order.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-sh-edit-a-purchase-form.png)
 
 3.  Select the Open Preview icon to edit the quantity or delivery location of the purchase line.
 
-    ![Open preview.](../image/spo-sh-open-preview-po.png)
+    ![Open preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-sh-open-preview-po.png)
 
     The delivery location available for selection is filtered based on the countries supplier can deliver to.
 
 4.  You can update the following details.
 
-    ![Editing and revising the quantity of a product or delivery location of a purchase line directly from a purchase order.](../image/spo-preview-purchase-line.png)
+    ![Editing and revising the quantity of a product or delivery location of a purchase line directly from a purchase order.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-preview-purchase-line.png)
 
     **Note:** If it's a product, you will see Current delivery date and New delivery date fields, and if it's a service, you will see Current start date, New start date, Current end date, and New end date.
 
@@ -169,5 +169,5 @@ Browse and select the related attachments for updating the purchase requisition 
     The purchase line is updated with the changes.
 
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 

@@ -29,11 +29,11 @@ Unlike other widgets in the Configurable Portal widgets, the Portal Polaris Head
 
 2.  On the Service Portal page, search and select `Customer Support` in the Title column.
 
-3.  On the Customer Support page, in the **Theme** field, select the Preview this record icon \(![Preview this record](../image/preview-record.png)\).
+3.  On the Customer Support page, in the **Theme** field, select the Preview this record icon \(![Preview this record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/preview-record.png)\).
 
 4.  Select **Open Record** on the Theme pop-up window.
 
-5.  On the Portal Next Experience Theme page, in the **Header** field, select the Lookup using list icon \(![Look up list](../image/lookup-list.jpg)\).
+5.  On the Portal Next Experience Theme page, in the **Header** field, select the Lookup using list icon \(![Look up list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/lookup-list.jpg)\).
 
     **Note:** If a message appears about the application scope, select **here** to be able to edit the record.
 

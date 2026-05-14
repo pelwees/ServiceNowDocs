@@ -50,7 +50,7 @@ When you are installing an app on a customer's instance, real RCAs are generated
 
 To notify the target app admin about an RCA's pending review, messages have been added to application pages. An example is as follows:
 
-![RCA pending review message on application page.](../image/rca-pending-review.png "RCA pending review message")
+![RCA pending review message on application page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/rca-pending-review.png "RCA pending review message")
 
 ## Store App backward compatibility
 

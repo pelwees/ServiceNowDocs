@@ -18,7 +18,7 @@ In the basic VMware system, the VMware Workstation runs on a Windows or Linux ho
 
 This system clones instances from templates, but can't be automated. The relationships between VMware components for this type of installation are in the following diagram:
 
-![VMware Workstation relationships](../image/VMWareNoVCenterDiagram.png "VMware Workstation relationships")
+![VMware Workstation relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/VMWareNoVCenterDiagram.png "VMware Workstation relationships")
 
 <table id="table_VMwareComponentRelationshipsOnWindowsOrLinuxWithoutVCenter"><thead><tr><th>
 

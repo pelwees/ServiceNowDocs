@@ -56,7 +56,7 @@ Description
 
 </td><td>
 
-Select the information icon \(![Info icon](../image/icon-more-info.png)\) next to the issue summarized by Now Assist.
+Select the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/icon-more-info.png)\) next to the issue summarized by Now Assist.
 
 </td></tr><tr><td id="d305057e163">
 
@@ -75,7 +75,7 @@ Select the information icon \(![Info icon](../image/icon-more-info.png)\) next t
 
 </td><td>
 
-Select the expand icon \(![Expand icon.](5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or collapse icon \(![Collapse icon.](80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to Share to work notes to expand or collapse the summary.
+Select the expand icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/5e6d873f6db60bae022cf9fcb303bf89a63a7304.png)\) or collapse icon \(![Collapse icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/80d47af69a337958ed1e05bed9e9686dc905b6cf.png)\) next to Share to work notes to expand or collapse the summary.
 
 </td></tr><tr><td id="d305057e214">
 
@@ -83,7 +83,7 @@ Select the expand icon \(![Expand icon.](5e6d873f6db60bae022cf9fcb303bf89a63a730
 
 </td><td>
 
-Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
+Select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/328ef1e6ae5fbd285e9f69401ad973e953894858.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/1fd014625812cb2899d61e0565992deb5c4b1678.png)\) if the summary wasn't helpful.
 
  **Note:** Feedback improves the generative AI model and can help to improve future versions of this skill.
 
@@ -93,7 +93,7 @@ Select the helpful icon \(![Helpful icon.](328ef1e6ae5fbd285e9f69401ad973e953894
 
 </td><td>
 
-Select the copy icon \(![Copy icon.](d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
+Select the copy icon \(![Copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/d766411fa2cda51fca6d8b46dc674db6e0bfa2dc.png)\) to copy the summary to the clipboard.
 
 </td></tr><tr><td id="d305057e260">
 

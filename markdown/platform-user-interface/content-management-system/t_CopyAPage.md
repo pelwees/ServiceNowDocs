@@ -36,5 +36,5 @@ Role required: content\_admin or admin
 6.  Click **Update**.
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentPages.md)
 

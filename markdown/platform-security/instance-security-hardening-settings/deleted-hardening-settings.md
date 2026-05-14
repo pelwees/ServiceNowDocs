@@ -22,5 +22,5 @@ Some hardening settings have been removed with the release of Security Center ba
 -   Block Direct Inserts to MID ECC Queue for Code Signing Requirement
 -   Log All Outbound HTTP Request Fields
 
-**Parent Topic:**[Deleted hardening settings](hardening-settings-deleted.md)
+**Parent Topic:**[Deleted hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)
 

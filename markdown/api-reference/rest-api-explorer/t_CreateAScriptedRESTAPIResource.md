@@ -17,7 +17,7 @@ Create a scripted REST API resource to define the HTTP method, the processing sc
 
 ## Before you begin
 
-Create a scripted REST API. For more information, see [Create a scripted REST API](t_CreateAScriptedRESTService.md).
+Create a scripted REST API. For more information, see [Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md).
 
 Role required: web\_service\_admin
 
@@ -48,7 +48,7 @@ Role required: web\_service\_admin
 
 ## What to do next
 
-After creating the resource, you can associate headers and query parameters. For details, see [Define scripted REST API headers](t_DefineRESTServiceHeaders.md) and [Define available query parameters](t_DefineAvailableQueryParameters.md).
+After creating the resource, you can associate headers and query parameters. For details, see [Define scripted REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_DefineRESTServiceHeaders.md) and [Define available query parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_DefineAvailableQueryParameters.md).
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

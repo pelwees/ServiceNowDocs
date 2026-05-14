@@ -15,7 +15,7 @@ breadcrumb: [Monitor an upgrade to an instance, Scheduling and monitoring an upg
 
 The Upgrade Summary report summarizes the actions taken, provides tools to resolve conflicts between customizations and changes that are part of the upgrade, and provides information to help estimate time for upgrades to other instances.
 
-![Image showing summary report of the recently completed upgrade](../image/uc-complete-summary1.png)
+![Image showing summary report of the recently completed upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-complete-summary1.png)
 
 <table id="table_b5b_p14_dlb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Links to view the new and changed features in the current upgrade version. The f
 </td></tr></tbody>
 </table>## Skipped Records
 
-![Image showing Skipped Records in the Upgrade Summary Report](../image/uc-skipped-records.png)
+![Image showing Skipped Records in the Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-skipped-records.png)
 
 <table id="table_ghc_ycq_slb"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Total record changes
 
 </td><td>
 
-Total number of records that have changed since the previous upgrade version.**Review changes**: List of records that have changed can be reviewed. See [System Upgrade form](uc-system-upgrades-form.md) for more details.
+Total number of records that have changed since the previous upgrade version.**Review changes**: List of records that have changed can be reviewed. See [System Upgrade form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-system-upgrades-form.md) for more details.
 
 </td></tr><tr><td>
 
@@ -113,43 +113,43 @@ Skipped records code changed/code unchanged
 Skipped records are sorted depending on if there are changes in the code or not.
 
 </td></tr></tbody>
-</table>**Note:** You can click **Skipped Record VTB** to view the resolution status of the current upgrade with skipped records using the visual task board \(VTB\) view. See [Skipped Records visual task board \(VTB\)](../concept/uc-vtb-history.md) for more information.
+</table>**Note:** You can click **Skipped Record VTB** to view the resolution status of the current upgrade with skipped records using the visual task board \(VTB\) view. See [Skipped Records visual task board \(VTB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-vtb-history.md) for more information.
 
 ## Node Upgrades
 
-![Image showing Node Upgrades in the Upgrade Summary Report](../image/uc-node-upgrades.png)
+![Image showing Node Upgrades in the Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-node-upgrades.png)
 
 The Node Upgrades section shows the status of the upgrade for each node in the instance. The color of the icon denotes the status, as illustrated by the legend \(key\) and to the right of the node icons. To see details about a node, position the cursor above the icon for that node. An arrow points to the node selected, and the information below the icons pertains to that node.
 
 ## Application Upgrade Status
 
-![Application upgrade status.](../image/uc-application-status.png)
+![Application upgrade status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-application-status.png)
 
 You can view the list of installed and upgraded applications during an upgrade. It also lists the applications that failed to install during the process.
 
 **Note:** The **All applications are on the latest versions** message shows up only when all the applications are on their latest versions.
 
-![List of installed and upgraded applications.](../image/uc-all-apps.png)You can view the first 10 applications that were installed during the upgrade. Select **View all application details** to view the information about all the installed, upgraded, and failed applications on the Upgrade App Version Histories table.
+![List of installed and upgraded applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-all-apps.png)You can view the first 10 applications that were installed during the upgrade. Select **View all application details** to view the information about all the installed, upgraded, and failed applications on the Upgrade App Version Histories table.
 
 **Note:** You can select any of the application links to go to its form view. Select **Go to application** on the form view to go to the application sys record.
 
-The following message shows up if you have selected any of the failed applications link.![Upgrade failure message.](../image/uc-failed-app-msg.png)
+The following message shows up if you have selected any of the failed applications link.![Upgrade failure message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-failed-app-msg.png)
 
 ## Schema Changes to Clone-excluded Tables
 
-![Image showing Schema Changes to Clone-excluded Tables in the Upgrade Summary Report](../image/uc-schema-changes-clone.png)
+![Image showing Schema Changes to Clone-excluded Tables in the Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-schema-changes-clone.png)
 
 The Schema Changes to Clone-excluded Tables section shows a list of tables affected by the upgrade that were clone-excluded when you cloned the production instance to this instance. Because clone-excluded tables are empty, upgrading them takes less time than upgrading those same tables on the production instance. To estimate how much longer the production upgrade takes, note the size of the clone-excluded tables on the production instance.
 
 ## Top 10 Fix Scripts by Duration
 
-![Image showing Top 10 Fix Scripts by Duration in the Upgrade Summary Report](../image/uc-fix-script-duration.png)
+![Image showing Top 10 Fix Scripts by Duration in the Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-fix-script-duration.png)
 
 The Top 10 Fix Scripts by Duration helps you understand which fix scripts required the most time.
 
 ## Top 10 Schema Changes by Duration
 
-![Image showing Top 10 Schema Changes by Duration in the Upgrade Summary Report](../image/uc-schema-changes-duration.png)
+![Image showing Top 10 Schema Changes by Duration in the Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-schema-changes-duration.png)
 
 The Top 10 Schema Changes by Duration helps you understand which schema changes required the most time.
 
@@ -157,5 +157,5 @@ The Top 10 Schema Changes by Duration helps you understand which schema changes 
 
 ![]()
 
-The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](../task/uc-view-loaded-files-plugin.md) for more information.
+The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../task/uc-view-loaded-files-plugin.md) for more information.
 

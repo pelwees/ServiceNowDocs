@@ -17,7 +17,7 @@ App developers can apply or delete stashed changes from ServiceNow Studio.
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 You must have one or more stashed changes.
 
@@ -42,8 +42,8 @@ Role required: admin
 
 6.  If you apply the stashed changes to your application, continue normal pull/push operations to add your changes to the Git repository.
 
-    For more information, see [Pull changes from a repository](sns-sc-pull-changes-from-repository.md).
+    For more information, see [Pull changes from a repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/sns-sc-pull-changes-from-repository.md).
 
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sns-sc-work-with-changes-in-git.md)
 

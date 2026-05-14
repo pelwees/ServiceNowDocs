@@ -38,12 +38,12 @@ You can also unpublish a schedule make updates, and then publish it again.
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Schedule icon \(![Schedule icon](../image/schedule-new.png)\).
+2.  Select the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\).
 
 3.  Generate a schedule preview.
 
     1.  Select the **Team Calendar** tab.
-    2.  Select the Show Schedules \(![Show Schedules icon.](../image/show-schedule-new.png)\) icon to display in the contextual side panel.
+    2.  Select the Show Schedules \(![Show Schedules icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/show-schedule-new.png)\) icon to display in the contextual side panel.
     The team calendar refreshes and generates the preview when you save a work shift.
 
 4.  Publish a schedule.
@@ -59,5 +59,5 @@ You can also unpublish a schedule make updates, and then publish it again.
 
 All the schedules that are in **Draft** state move to **Published** state. You can view the published schedule on the team calendar for the assigned agents. You can also analyze the scheduling gaps and staffing information by switch between the day, week, and monthviews in the drop-down. Agents can view their published schedules and approved leaves on MS Outlook after synchronizing their team calendars and events with Microsoft Outlook.
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

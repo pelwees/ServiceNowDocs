@@ -54,14 +54,14 @@ If the number of blocked or locked users exceeds the limit within a defined time
     2.  Change the **Blocked** setting for the user from true to false.
 
 
-**Parent Topic:**[Reset a password or unlock a user account with service desk assistance](reset-password-for-user.md)
+**Parent Topic:**[Reset a password or unlock a user account with service desk assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/reset-password-for-user.md)
 
 **Related topics**  
 
 
-[Password Reset and Password Change reports and logs](../concept/c_MonitorPasswordResetActivity.md)
+[Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/c_MonitorPasswordResetActivity.md)
 
-[Configure Password Reset properties](t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_SetPwdResetProps.md)
 
-[Password Reset and Password Change reports and logs](../concept/c_MonitorPasswordResetActivity.md)
+[Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/c_MonitorPasswordResetActivity.md)
 

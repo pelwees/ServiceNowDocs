@@ -52,7 +52,7 @@ Text that appears in the title bar of the survey widget.
  Default title: **My Assessments and Surveys**
 
 </td></tr></tbody>
-</table>![My Assessments and Surveys widget on the Service Portal home page.](../images/ecs-my-assessments-surveys-widget.png "My Assessments and Surveys widget on the Service Portal home page")
+</table>![My Assessments and Surveys widget on the Service Portal home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/ecs-my-assessments-surveys-widget.png "My Assessments and Surveys widget on the Service Portal home page")
 
 ## Assessments in the Now Mobile app
 
@@ -60,7 +60,7 @@ Your users can view and take the assessments on mobile devices using the My Asse
 
 When you assign an assessment to a user, an email notification about taking the assessment is sent to the user. If users installed the Now Mobile app, a mobile push notification is also sent on mobile devices. Tapping the notification opens an introduction page for an assessment in the Mobile Employee Service Portal in the Now Mobile app. The page displays a **Get started** link. The introduction page and the **Get started** link are available only if the related settings are enabled. Users can tap the link to view and take the assessment. You can activate push notifications by setting the **glide.sg.universal\_links.enabled** system property to **true**.
 
-![My Assessments and Surveys applet on a mobile device.](../images/AssessmentsandSurveysInNowMobilApp.png "My Assessments and Surveys applet on a mobile device")
+![My Assessments and Surveys applet on a mobile device.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentsandSurveysInNowMobilApp.png "My Assessments and Surveys applet on a mobile device")
 
 **Note:** In the Australia release, you now see the assessments and surveys assigned in the card view instead of the item view. If you customize the styles of the legacy card item views in older versions of Assessments and Surveys, the card continues to appear in the item view even after you upgrade to Australia. You can view the new card view in Australia only if no customizations were made to the legacy cards.
 
@@ -77,7 +77,7 @@ When users open an assessment either in Service Portal or the Now Mobile app, th
     **Note:** For mobile users, the pagination is always by question for assessments.
 
 
-**Parent Topic:**[Take an assessment](../task/t_TakeAnAssessment.md)
+**Parent Topic:**[Take an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_TakeAnAssessment.md)
 
 **Related topics**  
 

@@ -27,7 +27,7 @@ The decision type defines whether users are allowed to access the object if cond
 
 |Decision type|Description|
 |-------------|-----------|
-|Deny-Unless|Restrict access to resource by explicitly denying access unless conditions are passed. See [acl-denial-behavior.md\#section\_qnd\_snl\_zbc](acl-denial-behavior.md#section_qnd_snl_zbc) for more information.|
+|Deny-Unless|Restrict access to resource by explicitly denying access unless conditions are passed. See [acl-denial-behavior.md\#section\_qnd\_snl\_zbc](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-denial-behavior.md#section_qnd_snl_zbc) for more information.|
 |Allow-If|Allow access to resource if conditions are passed.|
 
 The object is the target to which access needs to be controlled. Each object consists of a type and name that uniquely identifies a particular table, field, or record. With the Applies-to field users have granular control over which specific records this ACL will apply to.
@@ -114,7 +114,7 @@ The conditions specify when someone can access the named object and operation. S
 
 To gain access to an object and operation, a user must pass all conditions listed in an access control. For example, this access control restricts access to view operations on the incident table.
 
-![ACL on an incident record.](../image/access-control-record-write-incident2.png)
+![ACL on an incident record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/access-control-record-write-incident2.png)
 
 To update a record in the incident table, a user must have the listed roles and the record must meet the condition.
 
@@ -147,7 +147,7 @@ Invalid ACLs are defined as:
 
 If the system detects the user creating an ACL it will prompt the user to select a role or an existing security attribute.
 
-![System prompting user to select.](../../security/image/empty-acl-example.png)
+![System prompting user to select.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/empty-acl-example.png)
 
 ## ACL evaluation process
 
@@ -158,7 +158,7 @@ An ACL rule only grants a user access to an object if the user meets all conditi
 -   The user must have one of the roles in the required roles list. If the list is empty, this condition evaluates to true.
 -   \[Record ACL rules only\] The matching table-level and field-level ACL rules must both evaluate to true.
 
-![ACL evaluate conditions](../image/AclEvaluatePermissions2.png "ACL evaluate conditions")
+![ACL evaluate conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/AclEvaluatePermissions2.png "ACL evaluate conditions")
 
 Whenever a session requests data, the system searches for access control rules that match the requested object and operation. If there’s a matching access control rule, then the system evaluates if the user has the conditions required to access the object and operation. If an access control rule specifies more than one condition, then the user must meet all conditions to gain access to the object and operation. Failing any one condition check prevents the user from accessing the matching object and operation.
 
@@ -355,7 +355,7 @@ If two or more rules match at the same point in the processing order, the user m
 
 ## Required role
 
-Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the security\_admin role. See [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md) for instructions.
+Normal admin users can view and debug access control rules. However, to create or update existing access control rules, administrators must elevate privileges to the security\_admin role. See [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/task/t_ElevateToAPrivilegedRole.md) for instructions.
 
 ## ACL rules in scoped applications
 

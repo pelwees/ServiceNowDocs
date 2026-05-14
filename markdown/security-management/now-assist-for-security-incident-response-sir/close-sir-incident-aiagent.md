@@ -30,7 +30,7 @@ Role required: sn\_si.analyst or sn\_si.manager
 
 2.  Open the security incident that you want to close by using the AI agent.
 
-3.  Select the Now Assist \(![Now assist panel for AI agent icon.](../image/ai-icon-now-assist.png)\) icon.
+3.  Select the Now Assist \(![Now assist panel for AI agent icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/ai-icon-now-assist.png)\) icon.
 
     The Now Assist panel is displayed.
 

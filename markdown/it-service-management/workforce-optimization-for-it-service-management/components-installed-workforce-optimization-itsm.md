@@ -210,5 +210,5 @@ Manager Groups database view \[sn\_wfo\_manager\_groups\]**Note:** The filters f
 |----|-----------|
 |WFO data collection|Runs the job on demand and collects data for all Workforce Optimization for ITSM indicators.|
 
-**Parent Topic:**[Workforce Optimization for ITSM reference](workforce-optimization-itsm-reference.md)
+**Parent Topic:**[Workforce Optimization for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-reference.md)
 

@@ -34,12 +34,12 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 An email message is sent to the selected approver and the contract substate changes to Under Review.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](../concept/use-lease-admin-core-ui.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/use-lease-admin-core-ui.md)
 
 **Related topics**  
 
 
-[Create workplace contracts in Core UI](create-lease-contracts.md)
+[Create workplace contracts in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/create-lease-contracts.md)
 
-[Approve or reject a workplace contract in Core UI](approve-lease-contract.md)
+[Approve or reject a workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/approve-lease-contract.md)
 

@@ -19,7 +19,7 @@ View the metric to CI and resource binding results, including details for failed
 
 Role required: evt\_mgmt\_admin
 
-If [resource binding](../concept/resource-binding.md) is not enabled, then no resource binding results appear.
+If [resource binding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../concept/resource-binding.md) is not enabled, then no resource binding results appear.
 
 ## About this task
 
@@ -207,10 +207,10 @@ Verify that the CI Type To Resource Class \[sa\_ci\_type\_to\_resource\_class\] 
 
 Group **Binding Failure Reason** by **Binding Status** to create a summary report with the number of records per failure category. Use this report to efficiently remediate the problems.
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 
 **Related topics**  
 
 
-[Creating an event rule to map metrics to specific CIs](../concept/event-rule-bind-metrics-to-ci.md)
+[Creating an event rule to map metrics to specific CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../concept/event-rule-bind-metrics-to-ci.md)
 

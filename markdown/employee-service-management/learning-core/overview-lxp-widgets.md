@@ -15,7 +15,7 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 The **Overview** tab on My Learning provides a variety of widgets that help you track courses, view your progress, view achievements among other things.
 
-The overview tab has the following widgets that help you with a seamless learning experience: ![The learning dashboard displays learning tasks, your current challenges, latests achievements and more.](../image/overview-lxp.png)
+The overview tab has the following widgets that help you with a seamless learning experience: ![The learning dashboard displays learning tasks, your current challenges, latests achievements and more.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/overview-lxp.png)
 
 |Widget|Description|
 |------|-----------|

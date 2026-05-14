@@ -73,9 +73,9 @@ true or false
 
 </td><td>
 
-![The true icon](../image/CheckOn.png) &gt; true
+![The true icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/CheckOn.png) &gt; true
 
- ![The false icon](../image/CheckOff.png) &gt; false
+ ![The false icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/CheckOff.png) &gt; false
 
 </td></tr><tr><td>
 
@@ -190,5 +190,5 @@ Returns a string of comma-separated Sys IDs
 ![](../image/GlideListExample.png) &gt; 5137153cc611227c000bbd1bd8cd2007,46d14f04a9fe19810142e40c6b071512
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Scripting](../../topic/c_Script.md)
+</table>**Parent Topic:**[Scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../topic/c_Script.md)
 

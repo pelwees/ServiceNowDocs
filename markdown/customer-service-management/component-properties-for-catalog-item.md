@@ -145,11 +145,11 @@ Option to show or hide component notifications. By default, it shows notificatio
 </table>**Related topics**  
 
 
-[Configure the Catalog item component instance](../task/configure-catalog-item-component-on-instance.md)
+[Configure the Catalog item component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-catalog-item-component-on-instance.md)
 
-[Embed the Catalog item component instance on the third-party website](../task/embed-catalog-item-component-on-third-party-website.md)
+[Embed the Catalog item component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-catalog-item-component-on-third-party-website.md)
 
-[Event handler in the Catalog item component](we-catalog-item-event-handler.md)
+[Event handler in the Catalog item component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-item-event-handler.md)
 
-[Sample code for the Catalog item component](we-catalog-item-sample-code.md)
+[Sample code for the Catalog item component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-item-sample-code.md)
 

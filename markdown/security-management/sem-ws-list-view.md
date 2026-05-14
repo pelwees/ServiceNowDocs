@@ -28,11 +28,11 @@ Role required:
 
 2.  Select the **List** icon.
 
-    The consolidated list of records, remediation tasks, remediation efforts, libraries are displayed. For more information on the type of lists on the List page, see [Security Exposure Management Workspace List view](../concept/sem-workspace-list-page.md).
+    The consolidated list of records, remediation tasks, remediation efforts, libraries are displayed. For more information on the type of lists on the List page, see [Security Exposure Management Workspace List view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sem-workspace-list-page.md).
 
 3.  Select **My Lists** to create a list.
 
-    For more information on how to create a list, see [Create a customized list of records](sem-create-custom-list.md).
+    For more information on how to create a list, see [Create a customized list of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-custom-list.md).
 
 4.  Refer to the following table for the actions that you can perform on the List page.
 
@@ -54,7 +54,7 @@ With **Active** selected under the **Remediation efforts** list, select a remedi
 
  A Remediation Effort is a set of records that are associated with a watch topic. The records listed on a remediation effort are static. They are not updated by new import data or changes that you make to watch topics.
 
- The related list items on the remediation effort record permit you to view overall remediation progress and status on the records associated with it. For more details and UI actions you can perform from a remediation effort, see [Use Remediation Effort records](sem-ws-remed-eff-rcd.md).
+ The related list items on the remediation effort record permit you to view overall remediation progress and status on the records associated with it. For more details and UI actions you can perform from a remediation effort, see [Use Remediation Effort records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md).
 
 </td></tr><tr><td>
 
@@ -123,8 +123,8 @@ Select a cell in a column and refine the data displayed by choosing one:-   Show
 </table>5.  You can create an application vulnerable item from the **Active** or **All** lists under **Application Vulnerable items** by selecting the **New** button on the upper right.
 
 
--   **[Create a customized list of records](sem-create-custom-list.md)**  
+-   **[Create a customized list of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-custom-list.md)**  
 You can create a customized list in the Security Exposure Management Workspace.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/using-unified-security-exposure-management.md)
 

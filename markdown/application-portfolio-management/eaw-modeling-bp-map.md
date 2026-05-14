@@ -21,7 +21,7 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Modeling](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Select the **New** drop-down menu.
 
@@ -29,7 +29,7 @@ Role required: sn\_apm.apm\_user
 
 5.  On the Create a business process map form, fill in the details.
 
-    For field information, see [Create a business process map form](../../reference/eaw-reference/eaw-modeling-bp-map-form.md).
+    For field information, see [Create a business process map form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-bp-map-form.md).
 
 6.  Select **Create diagram**.
 
@@ -42,14 +42,14 @@ The business process map gets created and opened in a new tab.
 
 You can add a shape to the canvas by either selecting the shape or by dragging the shape from the **Shapes** palette to the canvas.
 
-**Parent Topic:**[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+**Parent Topic:**[Working with business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-bp-map.md)
 
 **Related topics**  
 
 
-[Update a business process map](eaw-modeling-update-bp-map.md)
+[Update a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-update-bp-map.md)
 
-[Business Process Modeling Notation \(BPMN\) shapes](../../reference/eaw-reference/eaw-modeling-bpmn-shapes.md)
+[Business Process Modeling Notation \(BPMN\) shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-bpmn-shapes.md)
 
-[Business process modeling](../../concept/eaw-concept/business-process-modeling.md)
+[Business process modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/business-process-modeling.md)
 

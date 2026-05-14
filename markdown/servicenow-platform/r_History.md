@@ -17,29 +17,29 @@ Ratings that have declined are highlighted in red and display negative numbers. 
 
 -   **3 Years**: To calculate the current ratings, the system averages the ratings from the trailing twelve month \(TTM\) period. The **Diff** column shows the discrepancy between the current ratings and the previous calendar year's ratings.
 
-    ![Scorecard history for three years](../images/ScorecardHistory3Years.png "Scorecard history - 3 years")
+    ![Scorecard history for three years](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/ScorecardHistory3Years.png "Scorecard history - 3 years")
 
 -   **4 Quarters**: Quarterly assessments compare the average rating for each category in the current quarter against the average ratings from the previous four quarters. The **Diff** column shows the discrepancy between the current ratings and the previous quarter's ratings. The column labels count backward, by quarter from the current quarter. For example, if the current quarter is the **3rd** quarter of 2013, then the previous quarters appear as **2nd** \[2013\], **1st** \[2013\], **4th** \[2012\], and **3rd** \[2012\]. All four of the previous quarters appear, whether or not there was any data for those quarters.
 
-    ![Scorecard history with four quarters](../images/ScorecardHistory4Quarters.png "Scorecard history - 4 quarters")
+    ![Scorecard history with four quarters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/ScorecardHistory4Quarters.png "Scorecard history - 4 quarters")
 
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateALinkToAScorecard.md)
 
-[Assessment scorecard averages](r_Averages.md)
+[Assessment scorecard averages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Averages.md)
 
-[Assessment scorecard categories](r_Categories.md)
+[Assessment scorecard categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Categories.md)
 
-[Assessment scorecard category metrics](r_CategoryMetrics.md)
+[Assessment scorecard category metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryMetrics.md)
 
-[Assessment scorecard head-to-head compare view](r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_HeadToHeadCompare.md)
 
-[Live feed view of assessable records](r_LiveFeed.md)
+[Live feed view of assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_LiveFeed.md)
 
-[Assessment scorecard ratings](r_Ratings.md)
+[Assessment scorecard ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Ratings.md)
 

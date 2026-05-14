@@ -64,10 +64,10 @@ Integration Type
 Select **Strategic Planning Workspace**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
+</table>**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
 **Related topics**  
 
 
-[Create custom table mapping for SPW Jira integrations](../concept/custom-mapping-configuration-spw-jira.md#)
+[Create custom table mapping for SPW Jira integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../concept/custom-mapping-configuration-spw-jira.md#)
 

@@ -29,7 +29,7 @@ Role required: app\_service\_admin or service\_mapping\_admin
 
 To create a link, add a reference to the relevant application service as an outgoing connection of the relevant CI inside another application service. For example, you can add the UK Portal application service as a link to the Online Store application service. In this case, the Online Store service becomes dependent on the UK Portal service that it contains. The Online Store service reflects discovery errors for its contained service in the Edit map mode, as well as alerts in Event Management.
 
-![Linked application service](../image/linked-services-dependent-contained.png "Example of linked application services")
+![Linked application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/linked-services-dependent-contained.png "Example of linked application services")
 
 When you link an application service to another application service, the information about the CI, to which you linked the service, is updated in the CMDB. The CMDB recognizes other application services that use the same applicative flow, and adds the contained application service to these application services by analogy. The same logic applies when you remove a contained application service: The system removes it from all application services where you either manually linked this service or the system linked this service by analogy.
 
@@ -92,7 +92,7 @@ Select the name of the application service that you want to link as a contained 
 **Related topics**  
 
 
-[Application services](../../configuration-management/concept/application-services.md)
+[Application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/concept/application-services.md)
 
 [View dependent application services in classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-linked-services.md)
 

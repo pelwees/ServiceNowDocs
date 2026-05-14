@@ -27,7 +27,7 @@ Role required: sn\_cmp.cloud\_admin
 
     You can use the following sample command on the CLI - `az vm image list -f Windows --output table` to fetch the values.
 
-    ![Command-line interface](../image/public-image-azure.png)
+    ![Command-line interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/public-image-azure.png)
 
 2.  On the instance, enter `cmdb_ci_os_template.list` in the **Filter navigator** text box to open the Images \[cmdb\_ci\_os\_template\] table and then click **New**.
 
@@ -122,5 +122,5 @@ Vendor
     This step also creates a relationship between the public image and the logical datacenter \(LDC\) in the CMDB.
 
 
-**Parent Topic:**[Resource Profiles](../concept/cloud-resource-profiles.md)
+**Parent Topic:**[Resource Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-resource-profiles.md)
 

@@ -27,10 +27,10 @@ Role required: it\_project\_manager
 
 3.  From the resource assignment pane, create a resource assignment for a project or task by selecting **Add resource**.
 
-4.  From the resource assignment pane, select the row context menu \(![Row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) and then select **Delete row**.
+4.  From the resource assignment pane, select the row context menu \(![Row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-workspace/image/icon-row-context-menu.png)\) and then select **Delete row**.
 
     The resource assignment is deleted from the resource assignment pane.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 

@@ -38,5 +38,5 @@ Role required: admin
     **Note:** Before you close a success initiative, you must close or cancel all the associated child tasks. If an associated child task is still open, a warning message is displayed. You must first close or cancel the child tasks and then proceed with closing the success initiative.
 
 
-**Parent Topic:**[Create a success initiative](account-lifecycle-success-initiative.md)
+**Parent Topic:**[Create a success initiative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-initiative.md)
 

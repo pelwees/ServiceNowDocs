@@ -35,19 +35,19 @@ Role required: sn\_exam.catalog\_admin
 3.  Select **Submit**.
 
 
--   **[Define user access for an exam catalog](define-exam-catalog-user-access.md)**  
+-   **[Define user access for an exam catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/define-exam-catalog-user-access.md)**  
 After creating an exam catalog, define user access criteria at the exam catalog level.
--   **[Add exams to a catalog](assign-catalog-exams.md)**  
+-   **[Add exams to a catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/assign-catalog-exams.md)**  
 Add exams to an exam catalog in Career Assessment.
 
-**Parent Topic:**[Using Career Assessment](../concept/using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-exam-engine.md)
 
 **Related topics**  
 
 
-[Create an exam](create-exam.md)
+[Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam.md)
 
-[Add exams to a learning path from Career Assessment](../concept/create-quiz-path.md)
+[Add exams to a learning path from Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/create-quiz-path.md)
 
-[View an exam instance](view-exam-instance.md)
+[View an exam instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-exam-instance.md)
 

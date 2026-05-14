@@ -93,7 +93,7 @@ Hide in diagram types
 
 </td><td>
 
-\(Optional\) Select type of diagrams for which you want to hide this shape element.![Hide shape library element in different diagrams](../../image/eaw-image/modeling/eaw-modeling-hide-show-shape-element.png)
+\(Optional\) Select type of diagrams for which you want to hide this shape element.![Hide shape library element in different diagrams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/eaw-modeling-hide-show-shape-element.png)
 
 </td></tr><tr><td>
 
@@ -116,18 +116,18 @@ Order
 Enter a number to define the order of the shape element in the shape library.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add a shape library element](../../task/eaw-task/eaw-modeling-add-shape-library-element.md)
+[Add a shape library element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-add-shape-library-element.md)
 
-[Add a shape library element for a custom shape](../../task/eaw-task/eaw-modeling-custom-shape-element.md)
+[Add a shape library element for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-custom-shape-element.md)
 
-[Storing shapes or images to the database](../../task/eaw-task/eaw-modeling-store-image-databse.md)
+[Storing shapes or images to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-store-image-databse.md)
 
-[Create a diagram action for a custom shape](../../task/eaw-task/eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-action-custom-shape.md)
 
-[Add a custom shape library](../../task/eaw-task/eaw-modeling-add-custom-shape-library.md)
+[Add a custom shape library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-add-custom-shape-library.md)
 

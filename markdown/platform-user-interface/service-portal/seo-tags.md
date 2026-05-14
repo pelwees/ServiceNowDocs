@@ -82,7 +82,7 @@ The HTML meta description attribute. If **ROBOTS** is defined in the **Name** fi
  Alternatively, you can pass a variable into this field based on record data. For example, you can define a `%description` variable in this field, and create a content variable to populate the content tag with record data.
 
 </td></tr></tbody>
-</table>    ![A competed meta tag form for the sc_home page.](../image/add-tag.png)
+</table>    ![A competed meta tag form for the sc_home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/add-tag.png)
 
 7.  Click **Submit**.
 
@@ -106,7 +106,7 @@ The HTML meta description attribute. If **ROBOTS** is defined in the **Name** fi
         |More than one URL parameter variable|Populates the content tag with the values defined in the associated content variables records.|`%description %price`|
         |Static value and a URL parameter variable|Populates the content tag with a static value and the associated content variables record.|`Catalog item: %description`|
 
-        ![A Meta Tag form that uses a variable in the Content field.](../image/content-var.png)
+        ![A Meta Tag form that uses a variable in the Content field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/content-var.png)
 
     2.  In the **Content variables** related list, click **New**.
 
@@ -185,7 +185,7 @@ Select a field from the table defined in the **Table** field. This field is used
 
     4.  Click **Submit**.
 
-        ![A competed content variable form that populates the description tag with the value of a sys_id parameter.](../image/new-content-var.png)
+        ![A competed content variable form that populates the description tag with the value of a sys_id parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/new-content-var.png)
 
     The content tag loads record data. For example:
 
@@ -194,10 +194,10 @@ Select a field from the table defined in the **Table** field. This field is used
     ```
 
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/seo-sp.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md#)
 

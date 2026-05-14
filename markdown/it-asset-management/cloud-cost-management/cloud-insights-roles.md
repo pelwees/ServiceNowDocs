@@ -17,7 +17,7 @@ You assign Cloud Cost Management roles to user groups and to individual users ba
 
 ## Role relationships in Cloud Cost Management
 
-![Role relationships in Cloud Cost Management](../image/role-permissions-cloud-in.png)
+![Role relationships in Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/role-permissions-cloud-in.png)
 
 <table id="primary-roles"><thead><tr><th>
 
@@ -70,7 +70,7 @@ The role is in the Cloud Cost Management Core plugin. The role spans only the Cl
  -   Define jobs and policies.
 -   View data for owned service accounts.
 
- For more information, see [Assign service accounts to an insights\_owner](../task/insights-owner-new-cloudin.md).
+ For more information, see [Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/insights-owner-new-cloudin.md).
 
 </td><td>
 
@@ -154,7 +154,7 @@ The role is in the Cloud Cost Management Core plugin.
  Access Spend dashboards and tables.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+</table>**Parent Topic:**[Cloud Cost Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/reference-cloudinsights.md)
 
 **Related topics**  
 

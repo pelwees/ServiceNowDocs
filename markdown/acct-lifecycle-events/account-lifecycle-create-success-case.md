@@ -226,10 +226,10 @@ Clear the check box to make Blocked by capability work.
 ## What to do next
 
 -   Select **Discuss** to start a sidebar discussion about this customer play. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this initiative. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the **Activity stream**.
--   Create success play: See [Create a success play](account-lifecycle-create-success-play.md).
+-   Create success play: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-play.md).
 
--   **[Create a customer play task](account-lifecycle-create-success-case-task.md)**  
+-   **[Create a customer play task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-case-task.md)**  
 Create a customer play task to define a planned action that a provider or customer must complete in support of a customer play. A customer play task must be clearly defined and can be visible to internal stakeholders or external customers.
 
-**Parent Topic:**[Create a customer play](account-lifecycle-create-success-case-playbook.md)
+**Parent Topic:**[Create a customer play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-case-playbook.md)
 

@@ -36,10 +36,10 @@ Role required: sn\_wsd\_move.manager
     -   Related cases
     -   Conflicts review
 
-**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](../concept/analytics-reporting-solution.md)
+**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/analytics-reporting-solution.md)
 
 **Related topics**  
 
 
-[View move tasks](view-move-tasks.md)
+[View move tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/view-move-tasks.md)
 

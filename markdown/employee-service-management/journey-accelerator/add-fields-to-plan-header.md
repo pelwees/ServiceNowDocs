@@ -51,6 +51,6 @@ You can customize the plan header for each role. You can also customize role-bas
 
     Any plan type role that uses this plan header displays the label buddy in the plan header. Labels apply to individual roles. Each role can have its own customized labels.
 
-    Configure unique plan headers for different plan types. For more information, see [Create and manage Journey Accelerator plan types](create-manage-ja-plans.md).
+    Configure unique plan headers for different plan types. For more information, see [Create and manage Journey Accelerator plan types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-manage-ja-plans.md).
 
 

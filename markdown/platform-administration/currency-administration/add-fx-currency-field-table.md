@@ -27,7 +27,7 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
 1.  Follow the normal procedures to add a table, or access an existing table.
 
-    To learn more about creating and modifying tables in an instance, see [Create a table](../../table-administration/task/t_CreateATable.md).
+    To learn more about creating and modifying tables in an instance, see [Create a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../../table-administration/task/t_CreateATable.md).
 
 2.  In the **Columns** section, use the **Table Columns** embedded list to add columns to the table.
 
@@ -37,7 +37,7 @@ For example, you create a new custom table, named `transactions`, that stores tr
 
 4.  In the **Type** field, select **FX Currency** as the field type.
 
-    ![FX Currency field](../images/fx-currency-table-field.png)
+    ![FX Currency field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/fx-currency-table-field.png)
 
 5.  As needed, enter other required parameters.
 
@@ -46,16 +46,16 @@ For example, you create a new custom table, named `transactions`, that stores tr
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up defaults required for FX Currency use](../concept/setting-up-defaults-fx-currency-use.md)
+**Parent Topic:**[Setting up defaults required for FX Currency use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/setting-up-defaults-fx-currency-use.md)
 
 **Related topics**  
 
 
-[Add conversion rates using a custom rate table](custom-rate-table.md)
+[Add conversion rates using a custom rate table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/custom-rate-table.md)
 
-[Configuring FX Currency global settings](fx-currency-configure.md)
+[Configuring FX Currency global settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md)
 
-[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+[Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md)
 
-[Update a Currency Instance record](updating-fx-currency-instance-record.md)
+[Update a Currency Instance record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/updating-fx-currency-instance-record.md)
 

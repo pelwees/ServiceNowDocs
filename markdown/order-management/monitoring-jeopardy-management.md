@@ -57,7 +57,7 @@ SLA Definition Progress Bar
 </td><td>
 
 Navigate to **Customer Order** &gt; **Order** &gt; **Order Line Item** &gt; **Task** &gt; **SLA** and view the status bar. The status bar shows the SLA progress, for example:-   Green: SLA progressing on its time line.
--   Red: Task is near the end of the critical percentage of allotted time.![The image shows a method of monitoring jeopardy risk level using the Order Task Characteristics Values table.](../image/jm-sla-indicator.png)
+-   Red: Task is near the end of the critical percentage of allotted time.![The image shows a method of monitoring jeopardy risk level using the Order Task Characteristics Values table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/jm-sla-indicator.png)
 
 </td></tr></tbody>
 </table>

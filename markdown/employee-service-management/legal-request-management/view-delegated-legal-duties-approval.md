@@ -23,7 +23,7 @@ Role required: legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Delegate to me**, click a list item to see records assigned to the user who delegated you their duties.
 
@@ -34,5 +34,5 @@ Role required: legal\_fulfiller
 4.  Open a record from the list to view and work on it.
 
 
-**Parent Topic:**[Delegation of legal duties and approvals](../concept/legal-services-delegation.md)
+**Parent Topic:**[Delegation of legal duties and approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/legal-services-delegation.md)
 

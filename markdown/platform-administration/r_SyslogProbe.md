@@ -26,7 +26,7 @@ The syslog probe is launched by a ServiceNow [Script includes](https://raw.githu
 
 The Acme Corporation wants to send a log message from their ServiceNow instance to an ArcSight syslog server inside their corporate firewall each time a user login fails. The system administrator uses the login.failed event to trigger a business rule that invokes the Syslog Script Include each time a login fails. Acme's MID Server checks the ECC Queue for work and picks up the syslog probe, which contains the log entry. The MID Server then sends the log message to the ArcSight server, which gathers log messages from all the machine in the internal network.
 
-![Syslog probe diagram](../image/SyslogProbeDiagram.png "Syslog probe diagram")
+![Syslog probe diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/SyslogProbeDiagram.png "Syslog probe diagram")
 
 ## Code sample
 
@@ -44,5 +44,5 @@ This code does the following:
 -   Sends the message to your syslog server
 -   Launches the probe via the MID Server named "Eclipse"
 
-**Parent Topic:**[Supported integration interfaces](r_SupportedIntegrationInterfaces.md)
+**Parent Topic:**[Supported integration interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)
 

@@ -35,13 +35,13 @@ The following procedure describes on how to create a Location Filter with the co
 
     For example, you want to display MFA for users logging in to the instance outside Australia.
 
-    ![Location Filter for MFA](../images/location-based-mfa.png)
+    ![Location Filter for MFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/location-based-mfa.png)
 
 5.  On the Step-Up MFA Policy page, select the Policy Conditions tab and select **New**.
 
 6.  In the Conditions page, provide the label, conditions, and set it to true.
 
-    ![Condition for MFA](../images/conditions-mfa.png)
+    ![Condition for MFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/conditions-mfa.png)
 
 7.  Select **Submit**.
 

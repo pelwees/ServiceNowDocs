@@ -47,7 +47,7 @@ Role required: agent\_client\_collector\_admin
 
     6.  Follow the steps in the Certificate Import Wizard.
 
-        For details, see [Import a self-signed certificate](import-self-signed-certificate.md).
+        For details, see [Import a self-signed certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/import-self-signed-certificate.md).
 
     Alternatively, you can add a Windows certificate using PowerShell by running the following command as an administrator:
 
@@ -108,5 +108,5 @@ Role required: agent\_client\_collector\_admin
 
 Your self-signed certificate is on the OS that you are working with.
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-certificates.md)
 

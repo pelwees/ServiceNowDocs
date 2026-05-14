@@ -31,7 +31,7 @@ The following example shows a workflow that routes the case and tasks for invest
 -   Fraud evaluation
 -   Claim closure
 
-![Workflow showing the claims process for a commercial auto claim using the Commercial Lines Claims application. For the image description, see the text that follows.](../image/claims-process-flow-commercial-auto-claim.png "Claims process workflow – Commercial Auto Claim​")
+![Workflow showing the claims process for a commercial auto claim using the Commercial Lines Claims application. For the image description, see the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/claims-process-flow-commercial-auto-claim.png "Claims process workflow – Commercial Auto Claim​")
 
 ## First notice of loss \(FNOL\) stage
 

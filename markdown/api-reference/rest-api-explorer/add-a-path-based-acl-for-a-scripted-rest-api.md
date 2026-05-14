@@ -65,14 +65,14 @@ Path-based ACLs are defined in the sys\_security\_acl table with the type "REST 
 
 The path-based ACL is active and will be evaluated for any requests to this resource path.
 
-**Parent Topic:**[Configure a scripted REST API to require an ACL](t_WbSvcRqACL.md)
+**Parent Topic:**[Configure a scripted REST API to require an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_WbSvcRqACL.md)
 
 **Related topics**  
 
 
-[Configure a scripted REST API resource to require an ACL](t_WbSvcOpRqACL.md)
+[Configure a scripted REST API resource to require an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_WbSvcOpRqACL.md)
 
-[View path-based ACLs](view-path-based-acls.md)
+[View path-based ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/view-path-based-acls.md)
 
-[View path-based ACLs from REST API Explorer](view-path-based-acls-from-rest-api-explorer.md)
+[View path-based ACLs from REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/view-path-based-acls-from-rest-api-explorer.md)
 

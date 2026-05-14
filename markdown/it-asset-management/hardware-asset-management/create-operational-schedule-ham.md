@@ -103,5 +103,5 @@ Description of the operational schedule.
 
 ## What to do next
 
-[Map hardware assets to an operational schedule](create-asset-schedule-ham.md).
+[Map hardware assets to an operational schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-schedule-ham.md).
 

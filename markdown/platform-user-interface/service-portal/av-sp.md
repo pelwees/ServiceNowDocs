@@ -25,11 +25,11 @@ Review these scanning scenarios to understand how Antivirus Scanning interacts w
     1.  A user uploads an infected file to a record in Service Portal.
     2.  The system scans the file, moves it to quarantine, and displays a message. The file is unavailable for download.
 
-        ![Message that the file failed the security scan in a Catalog page.](../image/av-sc-page.png)
+        ![Message that the file failed the security scan in a Catalog page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/av-sc-page.png)
 
         If viewing the record in the Ticket Form page, the thumbnail does not display.
 
-        ![Message that the file failed the security scan in the Ticket Form page.](../image/av-ticket-form-page.png)
+        ![Message that the file failed the security scan in the Ticket Form page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/av-ticket-form-page.png)
 
     3.  The system sends an email notification to the user and the antivirus administrator.
 -   **Download a file**
@@ -37,11 +37,11 @@ Review these scanning scenarios to understand how Antivirus Scanning interacts w
     1.  A user opens a record with an attachment in Service Portal.
     2.  The system scans the file and moves it to quarantine. The file is unavailable for download. If viewing the record in the Ticket Form page, the thumbnail does not display.
     3.  The system sends an email notification to the user and the antivirus administrator.
-    ![Infected file viewed from a form in the Service Portal.](../image/infected-file-form-page.png)
+    ![Infected file viewed from a form in the Service Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/infected-file-form-page.png)
 
 -   **View a file**
     1.  A user opens a record with an infected attachment.
     2.  The file is unavailable for download. If viewing the record in the Ticket Form page, the thumbnail does not display.
 
-**Parent Topic:**[Supported features in Service Portal](../reference/unsupported-features-sp.md)
+**Parent Topic:**[Supported features in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../reference/unsupported-features-sp.md)
 

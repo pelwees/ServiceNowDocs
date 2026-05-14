@@ -25,9 +25,9 @@ Cart lines are created, updated, or deleted based on the updates that you make t
 -   When you remove a product from your cart, the cart line is updated to reflect the status of the product, which is now Pending Deletion. If you wish to add the removed product back to your cart, and select **Undo**, the cart line status is updated to Visible in Cart.
 -   If you wish to buy a product at a later date or time, and select **Purchase later**, the cart line status is updated to Purchasing Later.
 
-    ![Product moved to the Purchase later section to your shopping cart when you decide to buy it at a later time](../image/spo-purchase-later.png)
+    ![Product moved to the Purchase later section to your shopping cart when you decide to buy it at a later time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-purchase-later.png)
 
 -   If you move a product, some quantity of which already exists in your cart, from your **Purchase later** section to your shopping cart, the cart lines merge and the purchase quantity is updated accordingly.
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shopping-cart.md)
 

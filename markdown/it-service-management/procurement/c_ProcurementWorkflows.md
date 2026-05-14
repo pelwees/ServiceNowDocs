@@ -17,39 +17,39 @@ Procurement uses the following workflows. You can edit the existing flows or cre
 
 -   In the Service Catalog Request workflow, items ordered from the service catalog that cost over one thousand dollars require approval.
 
-    ![Service catalog request workflow](../image/ServiceCatalogRequestWorkflow.png "Service catalog request workflow")
+    ![Service catalog request workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../image/ServiceCatalogRequestWorkflow.png "Service catalog request workflow")
 
 -   In the Source Request workflow, catalog tasks are created so that a procurement manager can source the item by creating a transfer order or purchase order.
 
-    ![Source request flow actions](../image/SourceRequestWorkflow.png "Source request")
+    ![Source request flow actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../image/SourceRequestWorkflow.png "Source request")
 
 -   In the Procurement Process Flow-Hardware, a Service Catalog request task for a hardware asset is created so that a procurement manager can source the item by creating a transfer order or purchase order.
 
-    ![Procurement process flow-hardware actions](../image/procurement-process-flow-hardware.png "Procurement Process Flow-Hardware")
+    ![Procurement process flow-hardware actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../image/procurement-process-flow-hardware.png "Procurement Process Flow-Hardware")
 
 
-**Parent Topic:**[Procurement](c_Procurement.md)
+**Parent Topic:**[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../reference/r_ProcurementRoles.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_UseProcurement.md)
 
-[Receive assets](c_ReceiveAssets.md)
+[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_ReceiveAssets.md)
 
-[Domain separation and Procurement](domain-separation-procurement.md)
+[Domain separation and Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/domain-separation-procurement.md)
 
 [Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md)
 
-[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_UseProcurement.md)
 

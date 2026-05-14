@@ -17,7 +17,7 @@ Set a workflow as a default launch screen in Engagement Messenger either using c
 
 The deep linking capability enables you to customize the home page of Engagement Messenger so that you can launch a specified feature every time the messenger is accessed. The feature is launched through variables in a structured URL or in custom code through launch entries that contain substitution variables.
 
-![Customizable home page for Engagement Messenger that launches when messenger is accessed.](../image/Contextual-launch-1.png "Deep linking launch screens")
+![Customizable home page for Engagement Messenger that launches when messenger is accessed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/Contextual-launch-1.png "Deep linking launch screens")
 
 The deep linking capability supports the launch of View Article, New Case, Case List, Search, Case Search, Catalog Item, New Appointment, New Work Order, Default Home, Work Order, Virtual Agent and Live Agent chat features and display in Engagement Messenger.
 
@@ -26,5 +26,5 @@ The deep linking capability supports the launch of View Article, New Case, Case 
 -   Continue chat
 -   New Chat
 
-![Current chat window with an Ongoing conversation pop-up window with options for the user to continue the chat or begin a new chat.](../image/em-switch-chat.png "Switching chat")
+![Current chat window with an Ongoing conversation pop-up window with options for the user to continue the chat or begin a new chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-switch-chat.png "Switching chat")
 

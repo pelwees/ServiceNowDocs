@@ -41,7 +41,7 @@ Role required: sn\_sprb\_mgmt.agent
 
 8.  On the intake form of verify issue, fill in the fields.
 
-    ![Create new service problem case.](../image/create-new-service-problem-case.png)
+    ![Create new service problem case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/create-new-service-problem-case.png)
 
 <table id="table_x4b_pvh_pbc"><thead><tr><th>
 

@@ -17,13 +17,13 @@ ServiceNow AI Platform's Access management console ensures that the right indivi
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-explore.svg)
 
 Learn the features and business value of Access management console.](../../security-center/concept/access-controls-console.md)
 
 </td><td>
 
-[Use](../task/use-access-management-console.md)![Use](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/use-access-management-console.md)![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
 Understand how to use Access management console.
 

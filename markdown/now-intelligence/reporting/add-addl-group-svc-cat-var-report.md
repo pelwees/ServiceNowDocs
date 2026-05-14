@@ -46,20 +46,20 @@ You can apply these steps to any report type as long as the report source has va
 
 7.  Select **Additional group by**.
 
-8.  Select **Variables \[+\]** and select the structure icon \(![Report structure icon](../image/Form_ShowReportStructureIcon.png)\) to choose an item.
+8.  Select **Variables \[+\]** and select the structure icon \(![Report structure icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/Form_ShowReportStructureIcon.png)\) to choose an item.
 
-    ![Additional group by slushbucket](../image/additional-group-by-variable.png)
+    ![Additional group by slushbucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/additional-group-by-variable.png)
 
 9.  Select a **Catalog item**.
 
-    The variables associated with the item appear in the **Additional group by** window.![Additional group by variables](../image/additional-group-by-selected-variables.png)
+    The variables associated with the item appear in the **Additional group by** window.![Additional group by variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/additional-group-by-selected-variables.png)
 
 10. Add the desired variables to the **Selected** column and select **OK**.
 
 11. Continue to configure and style the report according to its report type.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/report-types-creation-details-rd.md).
 
 
-**Parent Topic:**[Report on service catalog variables](../concept/rep-service-catalog-variables.md)
+**Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/rep-service-catalog-variables.md)
 

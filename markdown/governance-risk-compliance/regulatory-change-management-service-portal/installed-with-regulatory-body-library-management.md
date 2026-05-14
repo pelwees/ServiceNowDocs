@@ -119,5 +119,5 @@ Agency Profile \[sn\_reg\_body\_mgmt\_agency\_profile\]
 Stores regulatory agency profiles in Regulatory Agency Library.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Regulatory Change Management reference](rcm-reference.md)
+</table>**Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 

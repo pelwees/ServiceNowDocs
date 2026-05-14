@@ -25,20 +25,20 @@ Role required: any user
 
 2.  Click your user menu and select **Store**.
 
-    ![Store option on the portal](../image/pwr-winapp-user-store.png)
+    ![Store option on the portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/pwr-winapp-user-store.png)
 
 3.  Set the filter for the **Ancillary Software** app type.
 
-    ![Select the Ancillary Software App Type](../image/pwr-winapp-filter-ancillary.png)
+    ![Select the Ancillary Software App Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/pwr-winapp-filter-ancillary.png)
 
 4.  Click **Password Reset Windows Application**.
 
     The application download location appears.
 
-    ![Password Reset Windows Application download location](../image/pwr-winapp-app-downld-loc.png)
+    ![Password Reset Windows Application download location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/pwr-winapp-app-downld-loc.png)
 
 5.  Click **Download**.
 
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/install-configure-password-reset-windows-app.md)
 

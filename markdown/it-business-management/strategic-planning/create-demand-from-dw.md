@@ -21,7 +21,7 @@ Role required: it\_demand\_manager, it\_demand\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands** &gt; **New**.![Demand creation form.](../images/demand-creation-form.png)
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands** &gt; **New**.![Demand creation form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-creation-form.png)
 
 2.  On the Demand form, fill in the fields.
 
@@ -51,7 +51,7 @@ The preliminary or estimated date when the work is initially planned to begin. T
 
 This date is changed to **Planned start date** when the demand is converted to a project.**Note:**
 
--   When you change the planned start date of a demand or project, the associated cost plans and resource assignments also change. The **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property controls the behavior for a demand date change. This property isn’t enabled by default. For more information, see [Properties installed with Project Management](../../project-management/reference/r_InstalledWithProjectManagement.md).
+-   When you change the planned start date of a demand or project, the associated cost plans and resource assignments also change. The **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** property controls the behavior for a demand date change. This property isn’t enabled by default. For more information, see [Properties installed with Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../project-management/reference/r_InstalledWithProjectManagement.md).
 -   The **Start date** column label is changed to **Planned start date**. This change is applicable only for new customers who begin using the Australia version. To ensure continuity, if you’re upgrading to the Australia release from an earlier release, you’ll continue to see the prior labels.
 
 
@@ -72,18 +72,18 @@ The preliminary or estimated date when the planned work is expected to be comple
 </td></tr></tbody>
 </table>3.  Select **Create**.
 
-    The created demand opens in the **Playbook** page.![Demand opens in the Playbook page with the first stage and activity expanded.](../images/demand-playbook.png)
+    The created demand opens in the **Playbook** page.![Demand opens in the Playbook page with the first stage and activity expanded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-playbook.png)
 
 
 ## What to do next
 
--   Review and refine the demand details and progress the demand using the playbook stages. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
--   Review and refine the demand details using the forms and tabs in the **Details** page. For more details, see [Update the demand details](update-the-demand-details-from-dw.md).
+-   Review and refine the demand details and progress the demand using the playbook stages. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
+-   Review and refine the demand details using the forms and tabs in the **Details** page. For more details, see [Update the demand details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-the-demand-details-from-dw.md).
 
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-dw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md)
 
-[Update the demand details](update-the-demand-details-from-dw.md)
+[Update the demand details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-the-demand-details-from-dw.md)
 

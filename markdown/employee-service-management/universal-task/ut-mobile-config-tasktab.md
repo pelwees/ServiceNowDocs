@@ -36,9 +36,9 @@ Role required: admin
 6.  Click **Update**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Configure the extension points for Universal Task](configure-extnsn-points.md)
+**Previous topic:**[Configure the extension points for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/configure-extnsn-points.md)
 
-**Next topic:**[Hide the template bar on the Universal Task form](ut-hide-template-bar.md)
+**Next topic:**[Hide the template bar on the Universal Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-hide-template-bar.md)
 

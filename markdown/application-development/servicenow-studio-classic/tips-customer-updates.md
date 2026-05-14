@@ -17,7 +17,7 @@ When you install an application from the application repository or ServiceNow® 
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 ## Overview of author elective
 
@@ -31,5 +31,5 @@ Similarly, update sets protect customizations that you make in an instance again
 
 Loading what is present in the source is challenging when properties must have different versions based on the target of the installation. For example, it’s difficult to resolve when a property containing an integration URL differs based on instance production role. The **is\_private** flag is effective with a source control installation and does not overwrite the property if set, mitigating this concern.
 
-**Parent Topic:**[Legacy - Production deployment tips](tips-production-deployment.md)
+**Parent Topic:**[Legacy - Production deployment tips](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/tips-production-deployment.md)
 

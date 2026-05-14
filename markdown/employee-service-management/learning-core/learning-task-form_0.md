@@ -27,5 +27,5 @@ Assign a learning task to an employee that can be completed from the To-dos page
 |Opened by|Name of the user who has created the learning task.|
 |Short description|Additional details of the learning task.|
 
-**Parent Topic:**[Learning reference](learning-experience-reference.md)
+**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 

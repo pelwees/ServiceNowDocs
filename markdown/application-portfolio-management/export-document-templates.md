@@ -23,9 +23,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![setup icon.](../../image/eaw-image/eaw-icon-setup.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![setup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-setup.png)\).
 
-3.  Select the expand row icon \(![expand row icon.](../../image/ExpandIcon.png)\) next to **Templates**.
+3.  Select the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Templates**.
 
 4.  Select **Document Templates**.
 
@@ -42,18 +42,18 @@ Role required: sn\_apm.apm\_user
     The template data is downloaded in the selected file format.
 
 
-**Parent Topic:**[Working with the document templates](../../concept/eaw-concept/document-templates-for-ea.md)
+**Parent Topic:**[Working with the document templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/document-templates-for-ea.md)
 
 **Related topics**  
 
 
-[View all document templates](view-document-templates.md)
+[View all document templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-document-templates.md)
 
-[Create a document template](create-manage-doc-templates.md)
+[Create a document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/create-manage-doc-templates.md)
 
-[Generate a document from a diagram](create-documents-for-diagrams.md)
+[Generate a document from a diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/create-documents-for-diagrams.md)
 
-[View documents for a diagram](view-docs-for-diagram.md)
+[View documents for a diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-docs-for-diagram.md)
 
-[Manage architectural documents](../../concept/eaw-concept/manage-arch-documents.md)
+[Manage architectural documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/manage-arch-documents.md)
 

@@ -42,14 +42,14 @@ The skipped records are prioritized based on the importance of the file types. T
 -   Priority 4: Form Sections, Choice Sets, and more
 -   Priority 5 \(lowest priority\): other
 
-![Image showing the VTB view of skipped records resolution status](../../upgrade-center/image/uc-vtb.png)
+![Image showing the VTB view of skipped records resolution status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-vtb.png)
 
--   **[Upgrade History Task form](../reference/um-history-task-form.md)**  
+-   **[Upgrade History Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../reference/um-history-task-form.md)**  
 You can update information about a skipped record task using the Upgrade History Task form.
--   **[Previous Resolutions related list](../reference/um-previous-resolutions-rl.md)**  
+-   **[Previous Resolutions related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../reference/um-previous-resolutions-rl.md)**  
 The Previous Resolutions related list shows the history of the selected skipped record. You can see what resolutions have been done with the selected skipped record in the previous upgrades.
--   **[Update default labels in VTB view](../task/um-label-vtb.md)**  
+-   **[Update default labels in VTB view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../task/um-label-vtb.md)**  
 Filter skipped records in the task board of the VTB with the implementation of color-coded labels. You can filter the skipped records by assigning a color to each of the products.
 
-**Parent Topic:**[Reviewing upgrade history](um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-history.md)
 

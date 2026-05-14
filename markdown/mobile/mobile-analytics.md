@@ -34,7 +34,7 @@ There are two mobile applications with the primary difference being the personas
     Mobile Agent focuses on the fulfiller or agent persona.
 
 
-![Usage Insights for Mobile overview page](../../user-exp-analytics/image/dashboard-overview-page.png)
+![Usage Insights for Mobile overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../user-exp-analytics/image/dashboard-overview-page.png)
 
 **Related topics**  
 

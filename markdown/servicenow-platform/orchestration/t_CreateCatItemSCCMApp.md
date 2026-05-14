@@ -33,7 +33,7 @@ Before creating a catalog item, you must link the application to a software mode
 
     A new SCCM Application Catalog Item record appears with preconfigured information. .
 
-    ![SCCM application catalog item](../image/SCCMCatalogItem.png "SCCM application catalog item")
+    ![SCCM application catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/SCCMCatalogItem.png "SCCM application catalog item")
 
 4.  Add price information and complete the following fields added to the Client Software Distribution Catalog Item \[sn\_client\_sf\_dist\_cat\_item\] table by the Orchestration - Client Software Distribution plugin:
 
@@ -82,7 +82,7 @@ SCCM configuration
 
 </td><td>
 
-Name of the [SCCM configuration record](t_ConfigureSCCMCollections.md) for this application. This record defines the collection and uninstall collection for this application. This configuration is required for all deployments, revocations, and leases performed by the SCCM server.
+Name of the [SCCM configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ConfigureSCCMCollections.md) for this application. This record defines the collection and uninstall collection for this application. This configuration is required for all deployments, revocations, and leases performed by the SCCM server.
 
 </td></tr></tbody>
 </table>5.  If the catalog item requires approval because of cost, be sure to configure an approval group in the**Approved By Group** related list.
@@ -96,5 +96,5 @@ Name of the [SCCM configuration record](t_ConfigureSCCMCollections.md) for this 
 7.  To see all client software distribution \(CSD\) catalog items, navigate to **Client Software Distribution** &gt; **Maintain Items** &gt; **Software Items**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configuring-sccm.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/configuring-sccm.md)
 

@@ -61,7 +61,7 @@ To use a field in a condition, the field must be displayed on the mobile card, o
 
 Conditions can also use variables defined in the mobile scratchpad. These variables are created and evaluated using the script in the **Mobile Scratchpad Script** field in the card \[sys\_sg\_view\_config\] record.
 
-![Javascript in the Mobile Scratchpad script field](../image/mobile-scratch-example-2.png)![Mobile UI Rule condition using a scripted condition](../image/mobile-scratch-example-1.png)**Note:** For details on the operators available for your condition, see [Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md).
+![Javascript in the Mobile Scratchpad script field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-scratch-example-2.png)![Mobile UI Rule condition using a scripted condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-scratch-example-1.png)**Note:** For details on the operators available for your condition, see [Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md).
 
 </td></tr><tr><td>
 

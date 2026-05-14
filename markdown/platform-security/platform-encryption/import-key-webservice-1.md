@@ -21,7 +21,7 @@ These two separate procedures \(importing the wrapping key pair and importing th
 
 **Note:** This example uses OpenSSL for key and certificate generation and the Postman API test tool to show REST API use. Substitute other comparable tools based on your company requirements.
 
-**Parent Topic:**[Key Management Framework](../../encryption/concept/encryption.md)
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/concept/encryption.md)
 
 ## Import the wrapping / unwrapping key pair
 
@@ -49,11 +49,11 @@ This example uses OpenSSL for key and certificate generation. Substitute other c
 
 3.  On your instance, navigate to **All** &gt; **Key Management** &gt; **Import Settings** &gt; **Key Import Settings**.
 
-4.  In the Algorithm Definition section, verify the **Crypto Purpose** is set to `Asymmetric Key Unwrapping`.![Crypto purpose selection.](../image/import-web-cryptopurpose.png)
+4.  In the Algorithm Definition section, verify the **Crypto Purpose** is set to `Asymmetric Key Unwrapping`.![Crypto purpose selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/import-web-cryptopurpose.png)
 
 5.  Select an appropriate algorithm that aligns with asymmetric key material for the imported keystore.
 
-    See [Cryptographic specification overview](cryptographic-purpose.md) for additional information.
+    See [Cryptographic specification overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/cryptographic-purpose.md) for additional information.
 
 6.  Select **Next**.
 
@@ -101,7 +101,7 @@ This example uses OpenSSL to generate keys and certificates. You may substitute 
 3.  Add a cryptographic specification with the following selections.
 
     -   **Crypto Purpose**: `Symmetric Data Encryption/Decryption`.
-    -   **Key Origin**: `Import from web service` ![Key origin selected as import from web service.](../image/selectweborigin.png)
+    -   **Key Origin**: `Import from web service` ![Key origin selected as import from web service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/selectweborigin.png)
 
         See or for more information.
 
@@ -160,6 +160,6 @@ Uses basic authentication of `<username/password>`.**Note:** Ensure that the des
 </td></tr></tbody>
 </table>    Successful import of the public key results in an HTTP response message with `Status 200`.
 
-5.  Verify that the key successfully imported to the targeted cryptographic module.![Crypto specification module keys tab with successful key import.](../image/keyimportedfromwebservices.png)
+5.  Verify that the key successfully imported to the targeted cryptographic module.![Crypto specification module keys tab with successful key import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/keyimportedfromwebservices.png)
 
 

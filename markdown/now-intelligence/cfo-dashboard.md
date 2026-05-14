@@ -17,5 +17,5 @@ The CFO dashboard is a critical tool for the day-to-day financial operations as 
 
 This dashboard presents a collection of data visualizations for key financial indicators such as Variance by portfolio, Potential savings, Actual savings, Negotiation trends, Net loss trends and so on, reflecting the trends over time, performance direction, and potential risks.
 
-![CFO dashboard overview screen featuring pillars for Portfolio Health, Software Investment, Procurement, Audit, and Risk under each heading of which there are several visualizations](../image/overview-cfo-db.png)
+![CFO dashboard overview screen featuring pillars for Portfolio Health, Software Investment, Procurement, Audit, and Risk under each heading of which there are several visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/overview-cfo-db.png)
 

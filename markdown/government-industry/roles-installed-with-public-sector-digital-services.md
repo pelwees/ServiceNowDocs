@@ -19,7 +19,7 @@ Roles and personas help you to understand the different roles involved in Public
 
 Public Sector Digital Services supports users with the following basic job functions \(personas\). Personas are defined as the individual roles that perform different tasks in Public Sector Digital Services.
 
-The following graphic shows the most common personas used throughout Public Sector Digital Services. ![Common Public Sector Digital Services personas](../image/PSDS_user_personas.png)
+The following graphic shows the most common personas used throughout Public Sector Digital Services. ![Common Public Sector Digital Services personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/PSDS_user_personas.png)
 
 <table id="table_qcv_ktt_ytb"><thead><tr><th>
 
@@ -2721,5 +2721,5 @@ None
 </td></tr></tbody>
 </table>**Note:** Customers who have purchased a Public Sector Digital Services subscription can provide Business Stakeholder users with rights to actions listed under [Business Stakeholder for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/business-stakeholder-for-csm.md).
 
-**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](installed-with-public-sector-digital-services-core.md)
+**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md)
 

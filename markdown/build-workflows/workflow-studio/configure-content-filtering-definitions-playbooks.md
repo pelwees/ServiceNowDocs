@@ -56,5 +56,5 @@ This means that users with the roles delegated\_developer or playbook.activity\_
 4.  Click **Submit**.
 
 
-**Parent Topic:**[User access to Playbooks in Workflow Studio](../concept/user-access-playbooks.md)
+**Parent Topic:**[User access to Playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/user-access-playbooks.md)
 

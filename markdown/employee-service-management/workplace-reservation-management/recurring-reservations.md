@@ -19,7 +19,7 @@ While making a recurring reservation, only the availability of the first occurre
 
 Administrators can choose to auto-resolve recurring reservation conflicts at the Reservable module level.
 
-**Note:** Ensure that you have enabled **Allow recurring reservations** and **Auto-resolve recurring conflicts** options on the Reservable Module form. For more information, see [Configure a reservable module](config-reservable-module.md).
+**Note:** Ensure that you have enabled **Allow recurring reservations** and **Auto-resolve recurring conflicts** options on the Reservable Module form. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
 If you’re upgrading from a previous version of Workplace Reservation Management and if you've updated the form layout before, you must edit the form view again to display the **Auto-resolve recurring conflicts** field.
 
@@ -46,7 +46,7 @@ Role required: admin
 
 3.  Create a reservation.
 
-    For more information about how to create a reservation, see [Create a reservation](create-reservation-request-1.md).
+    For more information about how to create a reservation, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
     For example, two workplace users, Abel Tutor and Abel L create reservations. Abel L creates a reservation for Tuesday 11/22 10.00 AM to 12.00 PM in Room A1-02-01.
 
@@ -72,7 +72,7 @@ Role required: admin
 
 9.  When viewing the details of a conflicting reservation, the employee can find an alternative space and time using the **Recurrences** option on the Reservation Summary page.
 
-    ![Reservation summary page showing conflicts in reservation and option to find another available space.](../image/wsd-conflicting-recurring-reservation.png)
+    ![Reservation summary page showing conflicts in reservation and option to find another available space.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/wsd-conflicting-recurring-reservation.png)
 
 10. Select the required options from the **Actions** drop-down list on the Reservation Summary page:
 
@@ -89,40 +89,40 @@ Role required: admin
     If the **Auto-resolve recurring conflicts** option is enabled, the conflicting recurring reservation in a series is resolved and the user is assigned an available space. When this option isn’t enabled, workplace users must manually update the time and space for a given reservation.
 
 
-**Parent Topic:**[Reserve workplace items](../concept/reserve-workplace-items.md)
+**Parent Topic:**[Reserve workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/reserve-workplace-items.md)
 
 **Related topics**  
 
 
-[Create a reservation](create-reservation-request-1.md)
+[Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md)
 
-[Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md)
+[Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md)
 
-[Set a location as favorite using the Space details page](set-a-location-as-favorite.md)
+[Set a location as favorite using the Space details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md)
 
-[Reserve a space near your colleague](browse-near-person-rsv.md)
+[Reserve a space near your colleague](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/browse-near-person-rsv.md)
 
-[Create a multi-day reservation](create-multi-day-reservation.md)
+[Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md)
 
-[Create multi-building reservations](create-multi-building-reservation.md)
+[Create multi-building reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md)
 
-[Create neighborhood reservations](create-neighborhood-reservations.md)
+[Create neighborhood reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md)
 
-[Create reservation for multiple workplace items](create-reservation-for-multiple-wrkplceitems-1.md)
+[Create reservation for multiple workplace items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-for-multiple-wrkplceitems-1.md)
 
-[Enable shift-based reservation](enable-shift-based-reservation.md)
+[Enable shift-based reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/enable-shift-based-reservation.md)
 
-[Create a reservation along with a shared reservation](create-rsv-along-with-shared-rsv.md)
+[Create a reservation along with a shared reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-along-with-shared-rsv.md)
 
-[Create a reservation including a virtual meeting link](Create-reservation-with-virtual-meeting.md)
+[Create a reservation including a virtual meeting link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/Create-reservation-with-virtual-meeting.md)
 
-[Create a shift reservation](create-a-shift-reservation.md)
+[Create a shift reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-shift-reservation.md)
 
-[Create a group reservation](create-group-reservation.md)
+[Create a group reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-group-reservation.md)
 
-[Share, modify, or cancel a reservation](modify-cancel-res-request.md)
+[Share, modify, or cancel a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/modify-cancel-res-request.md)
 
-[Reserve a workplace using the Quick Reservation widget](reserve-workplace-for-a-time-slot.md)
+[Reserve a workplace using the Quick Reservation widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reserve-workplace-for-a-time-slot.md)
 
-[Download an iCalendar for a reservation](generate-ical.md)
+[Download an iCalendar for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-ical.md)
 

@@ -53,7 +53,7 @@ Vendor
 
 </td><td>
 
-Connector's vendor name from the list. The templates in the connector builder provide you with options that are based on popular API integrations from security tool vendors. You can choose a vendor to base your connector on. Alternatively, select the ![Plus sign](../../../common/image/icon-zoom-in.png) to add a vendor name and URL.Select the refresh icon \(![Rotating arrows that refresh the page](../../../reuse/icons/product-icons/sync-outline-24.svg)\) to see your vendor on the list.
+Connector's vendor name from the list. The templates in the connector builder provide you with options that are based on popular API integrations from security tool vendors. You can choose a vendor to base your connector on. Alternatively, select the ![Plus sign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../common/image/icon-zoom-in.png) to add a vendor name and URL.Select the refresh icon \(![Rotating arrows that refresh the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../reuse/icons/product-icons/sync-outline-24.svg)\) to see your vendor on the list.
 
 </td></tr><tr><td>
 

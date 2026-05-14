@@ -31,7 +31,7 @@ A legal entity can operate multiple branches across various cities or countries,
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create New Branch form](../reference/tprm-create-new-branch-form.md).
+    For descriptions of all these fields, see [Create New Branch form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-branch-form.md).
 
     Users typically fill in the following details of the branch:
 
@@ -53,5 +53,5 @@ A legal entity can operate multiple branches across various cities or countries,
 
 ## What to do next
 
-Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](tprm-drtp-reg-function.md).
+Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-drtp-reg-function.md).
 

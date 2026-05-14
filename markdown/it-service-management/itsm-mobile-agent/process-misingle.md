@@ -25,7 +25,7 @@ Role required: major incident manager
 
     The **Active major incidents** screen opens with a list of major incidents.
 
-2.  If you want to reduce the number of records on the screen, see [Filter records](filter-records-agent-mobile.md) to search for records that match specific search criteria.
+2.  If you want to reduce the number of records on the screen, see [Filter records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/filter-records-agent-mobile.md) to search for records that match specific search criteria.
 
 3.  On the **Active major incidents** screen with the list of incidents, swipe left on an incident to open the menu.
 
@@ -66,7 +66,7 @@ ACTIVITY tab
 
 </td><td>
 
-View the activity on the incident like field changes or assignment changes. Tap the add icon \(![Add icon](../image/add_icon.png)\) to perform any of the following activities on the incident. 1.  **Record Video**: Record a video to be attached to the incident.
+View the activity on the incident like field changes or assignment changes. Tap the add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/add_icon.png)\) to perform any of the following activities on the incident. 1.  **Record Video**: Record a video to be attached to the incident.
 2.  **Open Gallery**: Open your photo gallery to attach an existing image or a video to the incident.
 3.  **Take Photo**: Take a picture and attach it to the incident
 4.  **Attach File**: Attach a file from another application to the incident.

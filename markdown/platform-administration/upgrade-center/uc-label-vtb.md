@@ -41,12 +41,12 @@ Role required: admin
 
 5.  If you want to add a label, click **Add Label**.
 
-    Enter the name of the label you want to create. You can also change the color of a label by clicking the color circle.![Image showing Add Label and color change in the VTB view](../image/uc-labels.png)
+    Enter the name of the label you want to create. You can also change the color of a label by clicking the color circle.![Image showing Add Label and color change in the VTB view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-labels.png)
 
     **Note:** The new labels and colors are saved only for the current visual task board and don't get rolled over to the next updated board. If you want the new label updates to show up in the next updated board, navigate to **Upgrade Center** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Center VTB Labels**. Set the colors as required and the updated colors start showing up from the next generated board.
 
 
 ## What to do next
 
-Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](../reference/uc-history-task-form.md) for more information.
+Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-history-task-form.md) for more information.
 

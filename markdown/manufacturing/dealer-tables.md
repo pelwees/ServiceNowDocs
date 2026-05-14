@@ -124,5 +124,5 @@ Configure the responsibilities of the staff working at service organizations or 
 </td></tr></tbody>
 </table>To learn more about the Service Model Foundation, see [Configuring Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-service.md).
 
-**Parent Topic:**[Dealer data model](dealer-data-model-overview.md)
+**Parent Topic:**[Dealer data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/dealer-data-model-overview.md)
 

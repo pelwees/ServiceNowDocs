@@ -34,12 +34,12 @@ You can configure IAM roles to generate temporary credentials using STS API for 
     A **Credential ID** is generated, which is used when creating configurations.
 
 
-**Parent Topic:**[Configure Cloud License Estimator](../Concept/configure-cloud-license-estimator.md)
+**Parent Topic:**[Configure Cloud License Estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../Concept/configure-cloud-license-estimator.md)
 
 **Related topics**  
 
 
-[Configure Azure Credentials for Cloud License Estimator](cle-azure-credential-setup.md#)
+[Configure Azure Credentials for Cloud License Estimator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cle-azure-credential-setup.md#)
 
 ## Configure AWS Service Accounts for CLE
 
@@ -156,5 +156,5 @@ Role required: admin
 **Related topics**  
 
 
-[Generate Cloud License Estimator Reports](../Concept/cle-generate-reports.md)
+[Generate Cloud License Estimator Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../Concept/cle-generate-reports.md)
 

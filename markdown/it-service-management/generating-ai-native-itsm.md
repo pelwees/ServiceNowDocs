@@ -63,11 +63,11 @@ You can also choose specific menu actions based on the category of the search re
 -   For an incident, can **Copy** or **Link to incident** for specific incident category search results.
 -   For a catalog, you can **Order item**.
 
-![AI native recommendations section.](../image/recomm-ai-native-itsm.png)
+![AI native recommendations section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/recomm-ai-native-itsm.png)
 
 ## Incident with Now Assist panel
 
 ![](../image/incident-now-assist-panel-ai-native.png)
 
-**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](fulfiller-experience-ai-native-itsm.md)
+**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/fulfiller-experience-ai-native-itsm.md)
 

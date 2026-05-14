@@ -49,5 +49,5 @@ Role required: admin
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](../concept/configuring-verification-methods-pr-sow.md)
+**Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-verification-methods-pr-sow.md)
 

@@ -27,5 +27,5 @@ The two user-specific values in the report are:
 
 **Note:** A user that has a different session currency than the person who runs a report might receive unexpected results.
 
-**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 

@@ -60,9 +60,9 @@ This action has no outputs.
 
 ## Fire an incident escalated event
 
-![Field values used to fire the incident.escalated event.](../images/example-fire-event-action.png)
+![Field values used to fire the incident.escalated event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-fire-event-action.png)
 
 This example creates an incident.escalated event when an incident record is updated to change the value of the Escalation field. The incident.escalated event expects the value of parameter 1 to be the current value of the Escalation field and parameter 2 to be the previous value of the Escalation field.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

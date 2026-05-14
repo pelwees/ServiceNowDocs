@@ -19,7 +19,7 @@ Discover all the users who have a similar profile as the employee who has logged
 
 When the User Profile Based Recommendation \(ml\_sn\_sn\_hr\_core\_global\_user\_profile\_based\_recommendation\) solution definition is configured and the predictive model is trained, the top three knowledge articles and top three catalog items are displayed to an employee in Employee Service Center and HR Ticket page.
 
-![The top viewed knowledge articles and top submitted catalog items as displayed to an employee.](../image/KBarticles-catalogitems.png)
+![The top viewed knowledge articles and top submitted catalog items as displayed to an employee.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/KBarticles-catalogitems.png)
 
 ## Auto training the predictive model
 
@@ -29,7 +29,7 @@ By default, the User Profile Based Recommendation solution definition is configu
 -   The Predictive Intelligence \(com.glide.platform\_ml\) plugin is installed.
 -   The**glide.platform\_ml.auto\_training.enabled** system property is set to true.
 
-You can [manually train the predictive model](../task/hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Similar users group record, and map the configured solution definition.
+You can [manually train the predictive model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/hr-predictive-intelligence-train.md) if it is not auto trained by default. After you manually train the predictive model, navigate to the **HR AI configuration** module, open the Similar users group record, and map the configured solution definition.
 
 ## Configuring widget options
 
@@ -40,5 +40,5 @@ You can also configure the following widget options:
 
 To configure the widget options, navigate to the **Service Portal Configuration** module, select the widget editor, search for **Relevant for you**, and click **Edit Option Schema**.
 
-**Parent Topic:**[Machine learning solutions for HR Service Delivery](predictive-intelligence-for-hr-service-delivery-1.md)
+**Parent Topic:**[Machine learning solutions for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/predictive-intelligence-for-hr-service-delivery-1.md)
 

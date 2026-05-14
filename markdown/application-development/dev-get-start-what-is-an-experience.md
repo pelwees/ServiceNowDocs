@@ -41,5 +41,5 @@ Experiences evolved from forms and lists in the classic UI, which exposed the un
     -   Experiences often include Platform Analytics, enabling you to visualize KPIs, dashboards, and trends directly within the interface.
     -   Natural language queries and filters enhance decision-making.
 
-**Parent Topic:**[User interface and experiences](dev-get-start-ui-and-experience.md)
+**Parent Topic:**[User interface and experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/dev-get-start-ui-and-experience.md)
 

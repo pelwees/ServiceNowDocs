@@ -38,15 +38,15 @@ When the state transition conditions are satisfied, each vulnerability state get
 -   **Closed**
 -   **Canceled**
 
-![State transition for New state.](../image/new-state-transition.png)
+![State transition for New state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-state-transition.png)
 
 -   **New to Approved**: Users can select **New to Approved** to view the state transition condition. Once this condition is met, the vulnerability status updates from **New** to **Approved** as shown in the example.
 
-    ![State transition condition.](../image/state-transition-condition.png)
+    ![State transition condition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/state-transition-condition.png)
 
     When all action tasks are closed, the users with write access can update the state as shown in the example.
 
-    ![Tasks to be closed.](../image/state-transition-condition-tasks-to-be-closed.png)
+    ![Tasks to be closed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/state-transition-condition-tasks-to-be-closed.png)
 
 -   **New to Assessment**: Once the state transition condition is met, the vulnerability status updates from **New** to **Assessment**.
 -   **New to Canceled**: Once the state transition condition is met, the vulnerability status updates from **New** to **Canceled**. The vulnerability is canceled and it is no longer being pursued.
@@ -67,15 +67,15 @@ Workflow states for an action task are defined as follows:
 
 When the action task transition conditions are satisfied, each action task state gets updated to the next state. For example, the **Draft** state can be transitioned to the **Assigned** and **Canceled** states as shown in the example.
 
-![State transition for the Draft state.](../image/action-task-state-transition.png)
+![State transition for the Draft state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-state-transition.png)
 
 Once the condition is met, the action task is updated from **Draft** to **Assigned** as shown in the example.
 
-![Draft to Assigned.](../image/action-task-state-transition-condition.png)
+![Draft to Assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-state-transition-condition.png)
 
 When the state transition condition is fulfilled, the state gets updated or else an error message is displayed as shown in the example.
 
-![Error message.](../image/action-task-state-transition-condition-fulfilled.png)
+![Error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-state-transition-condition-fulfilled.png)
 
 ## Procedure
 
@@ -90,11 +90,11 @@ When the state transition condition is fulfilled, the state gets updated or else
 
     The Action task model is shown in the following example.
 
-    ![Action task model.](../image/action-task-model.png)
+    ![Action task model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-model.png)
 
 3.  On the State model form, fill in the other fields.
 
-    For more information on the fields, see [GRC state model form](../reference/grc-state-model-form-for-op-vul.md).
+    For more information on the fields, see [GRC state model form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/grc-state-model-form-for-op-vul.md).
 
 4.  Select **Submit**.
 
@@ -102,7 +102,7 @@ When the state transition condition is fulfilled, the state gets updated or else
 
     You can copy an existing Vulnerability state model as shown in the following example.
 
-    ![State model.](../image/vul-state-model.png)
+    ![State model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-state-model.png)
 
 6.  To update an existing State model, select it from the list and select **Update**.
 

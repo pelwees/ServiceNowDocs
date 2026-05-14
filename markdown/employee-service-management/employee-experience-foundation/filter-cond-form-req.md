@@ -25,5 +25,5 @@ The field descriptions provide a reference point when you're creating a Requests
 |**Add OR Clause**: Add an OR clause to the filter condition.|
 |**Add Sort**: Add a sorting clause to the filter condition.|
 
-**Parent Topic:**[Enhanced Requests Experience forms](req-concept-ec.md)
+**Parent Topic:**[Enhanced Requests Experience forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/req-concept-ec.md)
 

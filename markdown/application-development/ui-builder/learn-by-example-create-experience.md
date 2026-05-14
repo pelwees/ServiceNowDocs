@@ -29,13 +29,13 @@ The UI Builder experience view is a central place to view and understand the str
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**.
 
-    ![UI Builder Home page.](../image/nav-home-page.png "UI Builder Home page")
+    ![UI Builder Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nav-home-page.png "UI Builder Home page")
 
 2.  From the UI Builder Home page, select **Create**.
 
 3.  Select **Experience**
 
-    ![Create an experience.](../image/create-experience.png "Create an experience dialog box")
+    ![Create an experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-experience.png "Create an experience dialog box")
 
 4.  Enter a **Name**; for example, **Demo Experience**.
 
@@ -45,7 +45,7 @@ The UI Builder experience view is a central place to view and understand the str
 
 7.  Select **Open experience** to view the main page for your experience.
 
-    ![Main page for your new experience](../image/experience-main-page.png "Main page for your new experience")
+    ![Main page for your new experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/experience-main-page.png "Main page for your new experience")
 
     **Note:** In addition to the name of your new experience, the screen includes the URL, application scope, admin panel, and the roles of users who can view the experience. Any pages or variants you create for the experience appear in the **Pages** section.
 
@@ -54,18 +54,18 @@ The UI Builder experience view is a central place to view and understand the str
 
 Select the **Next topic** link to learn how to create a blank page for this experience.
 
-**Parent Topic:**[Learn UI Builder by example](../concept/learning-uib-by-example.md)
+**Parent Topic:**[Learn UI Builder by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-uib-by-example.md)
 
 **Related topics**  
 
 
-[Create a blank page](learn-by-example-create-blank-page.md)
+[Create a blank page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-blank-page.md)
 
-[Create a record page using a template](learn-by-example-create-page-with-template.md)
+[Create a record page using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-create-page-with-template.md)
 
-[Define an audience for your variant](learn-by-example-define-audience.md)
+[Define an audience for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-audience.md)
 
-[Define conditions for your variant](learn-by-example-define-conditions.md)
+[Define conditions for your variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-define-conditions.md)
 
-[Customize forms within a form component](learn-by-example-edit-form-component.md)
+[Customize forms within a form component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/learn-by-example-edit-form-component.md)
 

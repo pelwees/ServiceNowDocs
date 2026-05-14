@@ -304,5 +304,5 @@ Event tasks associated with the event
 Information on the event tasks such as Number, Short description, State, Impacted assets, Assigned to, Dependencies, Actual start, Actual end, Related activated plan, Similar tasks group, Phase.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an exercise](../task/start-exercise-event-in-uib-ws.md)
+</table>**Parent Topic:**[Create an exercise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/start-exercise-event-in-uib-ws.md)
 

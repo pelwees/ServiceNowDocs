@@ -41,8 +41,8 @@ Indicates whether canceled transactions are to be logged to the Transaction Canc
 
  Default value: true
 
- Location: [Add to the System Properties](../../reference-pages/reference/r_AvailableSystemProperties.md#) \[sys\_properties\] table
+ Location: [Add to the System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../../reference-pages/reference/r_AvailableSystemProperties.md#) \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Transaction cancellation](transaction-cancellation.md)
+</table>**Parent Topic:**[Transaction cancellation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-cancellation.md)
 

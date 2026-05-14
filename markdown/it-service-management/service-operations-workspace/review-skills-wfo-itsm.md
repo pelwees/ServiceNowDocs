@@ -27,7 +27,7 @@ You will receive a notification when your manager initiates or approves a skill 
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the List icon \(![List icon](../image/sow-list.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-list.png)\).
 
 3.  Send a request to review an updated skill proficiency or to review a new skill to be added to your skill set.
 
@@ -72,5 +72,5 @@ Do this
     When your manager approves or rejects the skill review request and completes it, you will receive a notification.
 
 
-**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](../concept/wfo-itsm-service-operations-workspace.md)
+**Parent Topic:**[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/wfo-itsm-service-operations-workspace.md)
 

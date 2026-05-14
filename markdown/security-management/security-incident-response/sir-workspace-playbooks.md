@@ -17,32 +17,32 @@ You can create or configure playbooks for SIR Workspace quickly and easily witho
 
 The Security Incident Response provides the following playbooks with the base system:
 
--   [Playbook for Manual Phishing](playbook-manual-phishing.md)
--   [Playbook for Automated Phishing](playbook-automated-phishing.md)
--   [Playbook for Manual Malware](playbook-malware-manual.md)
--   [Playbook for Automated Malware](playbook-automated-malware.md)
--   [Playbook for Failed Login Manual](playbook-failed-login.md)
+-   [Playbook for Manual Phishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-manual-phishing.md)
+-   [Playbook for Automated Phishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-automated-phishing.md)
+-   [Playbook for Manual Malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-malware-manual.md)
+-   [Playbook for Automated Malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-automated-malware.md)
+-   [Playbook for Failed Login Manual](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-failed-login.md)
 
-**Parent Topic:**[Using SIR Workspace](../../secops-analyst-workspace/reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/reference/using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](../../secops-analyst-workspace/concept/using-analyst-workspace.md)
+[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/using-analyst-workspace.md)
 
-[Security Incident Playbook](../../secops-analyst-workspace/concept/security-incident-playbook.md#)
+[Security Incident Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](getting-started-with-processes.md)
+[Prerequisites for the Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/rebuilding-existing-playbooks-on-pad.md)
 
-[Activity Definitions](build-activities.md)
+[Activity Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/build-activities.md)
 
-[Working with MSI Records](../../secops-analyst-workspace/concept/working-with-msi-records.md)
+[Working with MSI Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/working-with-msi-records.md)
 
-[Working with Form UI actions](../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
 

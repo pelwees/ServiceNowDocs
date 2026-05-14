@@ -24,16 +24,16 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Express List icon \(![Express List icon.](../../event-management/image/express-list1.png)\) in the navigation bar.
+2.  Select the Express List icon \(![Express List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/image/express-list1.png)\) in the navigation bar.
 
-3.  In the Active alerts list, select the information icon \(![Information icon.](../../event-management/image/info.png)\) for an alert.
+3.  In the Active alerts list, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../event-management/image/info.png)\) for an alert.
 
 4.  Below the displayed alert group description, select **Update description**.
 
     Now Assist generates a comprehensive new description of the alert group, which encompasses all the alerts within the group. If you select **Update**, the generated description replaces the original description of the alert group taken from the earliest, most severe secondary alert in the group.
 
-5.  Restore the original alert group description by selecting the revert icon \(![Revert icon.](../image/icon-revert.png)\) next to **Update description** and then choosing **Restore**.
+5.  Restore the original alert group description by selecting the revert icon \(![Revert icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/icon-revert.png)\) next to **Update description** and then choosing **Restore**.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-use.md)
 

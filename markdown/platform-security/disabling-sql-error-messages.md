@@ -28,5 +28,5 @@ Use the **glide.db.loguser** property to disable SQL error messages from renderi
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Logging, auditing, and errors \(instance security hardening\)](logging-auditing-errors-instance-security-hardening.md)
+**Parent Topic:**[Logging, auditing, and errors \(instance security hardening\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/logging-auditing-errors-instance-security-hardening.md)
 

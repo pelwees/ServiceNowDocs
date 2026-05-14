@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Set up the development instance hierarchy as described in [Set up an instance hierarchy](t_SetUpAnInstanceHierarchy.md).
+1.  Set up the development instance hierarchy as described in [Set up an instance hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_SetUpAnInstanceHierarchy.md).
 
     1.  Provision development instances on the same software version as the target instance. For example, use the software version that is running on your production instance.
     2.  \[Recommended\] Clone the target to the development instances.
@@ -47,9 +47,9 @@ Role required: admin
 **Related topics**  
 
 
-[Team Development](../reference/team-development-landing.md)
+[Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../reference/team-development-landing.md)
 
-[Access rights for developers](../reference/r_GrantingAccessRightsToDevelopers.md)
+[Access rights for developers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../reference/r_GrantingAccessRightsToDevelopers.md)
 
-[Push a version](t_PushAVersion.md)
+[Push a version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_PushAVersion.md)
 

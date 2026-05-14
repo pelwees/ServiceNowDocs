@@ -24,7 +24,7 @@ You can use client side scripts to:
 -   Add something to the cart.
 -   Order something immediately.
 
-**Parent Topic:**[Client-side scripting](client-side-scripting-overview.md)
+**Parent Topic:**[Client-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/client-side-scripting-overview.md)
 
 ## Catalog client script considerations
 

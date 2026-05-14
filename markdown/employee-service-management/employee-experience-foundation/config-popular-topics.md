@@ -33,7 +33,7 @@ Employee Center uses an algorithm to determine which topics must appear on the w
 
 2.  Press and hold the control key, right-click the Popular topics widget, and then select **Instance Options**.
 
-    ![Popular topics widget instance options](../images/popular-inst-opts.png)
+    ![Popular topics widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/popular-inst-opts.png)
 
 3.  Configure the instance options.
 
@@ -134,5 +134,5 @@ Option to show the view from the available options:-   None
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Employee Center browse experience widgets](../concept/custom-widget-landing-ec.md)
+**Parent Topic:**[Employee Center browse experience widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/custom-widget-landing-ec.md)
 

@@ -39,7 +39,7 @@ Filter
 
 </td><td>
 
-Select the subset of assessable records you want to view. The filter options available vary by metric type, based on the **Filter** field and **Filter condition** field settings for each type.![Decision matrix components](../images/DecisionMatrixComponents.png "Decision matrix components")
+Select the subset of assessable records you want to view. The filter options available vary by metric type, based on the **Filter** field and **Filter condition** field settings for each type.![Decision matrix components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/DecisionMatrixComponents.png "Decision matrix components")
 
  The maximum values in the filter are controlled by the **Maximum number of items to show for a decision matrix field filter** property **\(com.snc.assessment.decision\_matrix\_filter\_max\_entries\)**, which has a default value of 1000.
 
@@ -61,7 +61,7 @@ X- and Y-axes
 
 </td><td>
 
-Each axis represents one or more metric categories. If multiple categories are used for an axis, their respective[weights](../concept/c_AssessmentMetrics.md) determine the positioning of the plotted items.
+Each axis represents one or more metric categories. If multiple categories are used for an axis, their respective[weights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md) determine the positioning of the plotted items.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Plotted items
 
 </td><td>
 
-The labeled points you see on a decision matrix, called plotted items, represent averages of [category result](r_CategoryResults.md) data for assessable records. Point to a plotted item label to view a rating summary for that assessable record. Click a plotted item label to view the [scorecard](../task/t_ViewAnAssessmentScorecard.md) for the assessable record.![Vendor decision matrix](../images/VendorDecisionMatrix.png "Vendor decision matrix")
+The labeled points you see on a decision matrix, called plotted items, represent averages of [category result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryResults.md) data for assessable records. Point to a plotted item label to view a rating summary for that assessable record. Click a plotted item label to view the [scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAnAssessmentScorecard.md) for the assessable record.![Vendor decision matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/VendorDecisionMatrix.png "Vendor decision matrix")
 
 </td></tr></tbody>
 </table>## Plotted item rating summaries
@@ -84,5 +84,5 @@ The summary shows:
 
 ![](../images/DecisionMatrixRatingSummary.png "Decision matrix rating summary")
 
-**Parent Topic:**[Create a decision matrix](../task/t_CreateADecisionMatrix.md)
+**Parent Topic:**[Create a decision matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateADecisionMatrix.md)
 

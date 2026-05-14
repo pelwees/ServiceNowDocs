@@ -19,19 +19,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, insurance agents, and policy processors use Group Life Servicing.](exploring-group-life-servicing.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, insurance agents, and policy processors use Group Life Servicing.](exploring-group-life-servicing.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Group Life Servicing](setting-up-group-life-servicing.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Group Life Servicing](setting-up-group-life-servicing.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-with-group-life-servicing.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](../reference/components-installed-with-group-life-servicing.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](analytics-reporting-group-life-servicing.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Monitor key statistics and track performance with preconfigured dashboard.](analytics-reporting-group-life-servicing.md)
 
 </td></tr></tbody>
 </table>

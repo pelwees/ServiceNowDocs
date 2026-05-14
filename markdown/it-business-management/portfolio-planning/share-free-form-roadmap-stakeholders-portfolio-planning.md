@@ -18,9 +18,9 @@ Add people from your organization who are the stakeholders for the work involved
 
 ## Before you begin
 
--   [Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md).
+-   [Create a free-form roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-portfolio-planning-workspace.md).
 
--   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Portfolio Planning](../reference/installed-with-portfolio-planning.md).
+-   Ensure that the users that you add as stakeholders have the appropriate role to access the roadmap. For more details on user roles, see [Components installed with Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/installed-with-portfolio-planning.md).
 
 
 Role required: sn\_align\_core.apw\_user
@@ -35,7 +35,7 @@ Grant access for the free-form roadmap to other users and stakeholders in your o
 
 2.  Select a roadmap to open it.
 
-3.  From the roadmap header, select the **Share roadmap** icon \(![Share roadmap icon](../../alignment-planner-workspace/images/icon-share-pp.png)\).
+3.  From the roadmap header, select the **Share roadmap** icon \(![Share roadmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-share-pp.png)\).
 
 4.  On the Share roadmap form, select users to share the roadmap with and set their access appropriately.
 
@@ -53,8 +53,8 @@ Grant access for the free-form roadmap to other users and stakeholders in your o
 Change the access level or remove access for a user or a group.
 
 1.  On the Share roadmap form, select **Manage access**.
-2.  From the user or group card, select the action menu icon \(![Action menu icon.](../../alignment-planner-workspace/images/action-menu-icon.png)\).
+2.  From the user or group card, select the action menu icon \(![Action menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/action-menu-icon.png)\).
 3.  Select the right access level or select **Remove**.
 
-**Parent Topic:**[Create a free-form roadmap](create-free-form-roadmap-portfolio-planning-workspace.md)
+**Parent Topic:**[Create a free-form roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-portfolio-planning-workspace.md)
 

@@ -40,7 +40,7 @@ For any ServiceNow page or portal to be launched within an iframe, an HTTP Respo
 
 ## Result
 
-![Proper domain indication on iFrame configuration for Epic.](../image/configureiframe.png)
+![Proper domain indication on iFrame configuration for Epic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../image/configureiframe.png)
 
 ## What to do next
 

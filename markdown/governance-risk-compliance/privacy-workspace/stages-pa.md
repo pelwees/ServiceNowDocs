@@ -65,5 +65,5 @@ This is a state to track the processing activity for continuous monitoring​. T
 
 This is a state to retire the processing activity when the respective business application or business process is no longer used in the organization. When moved to this state, all the controls associated with the processing activity are retired. The privacy team cannot make any updates to a processing activity in the retired state. When an entity gets inactivated, the related processing activity is also automatically moved to the Retired state.
 
-**Parent Topic:**[Uses of a processing activity in Privacy Management](states-of-pa.md)
+**Parent Topic:**[Uses of a processing activity in Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/states-of-pa.md)
 

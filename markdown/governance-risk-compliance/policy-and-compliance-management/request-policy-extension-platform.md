@@ -47,8 +47,8 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 5.  Click **Request**.
 
-    You can see the policy extension details in the [Schedule tab of the Policy exception form](request-policy-exception.md#policy-ext-det) after the requester has requested for an extension and the extension has been approved by the approver.
+    You can see the policy extension details in the [Schedule tab of the Policy exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-exception.md#policy-ext-det) after the requester has requested for an extension and the extension has been approved by the approver.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/manage-policy-exceptions.md)
 

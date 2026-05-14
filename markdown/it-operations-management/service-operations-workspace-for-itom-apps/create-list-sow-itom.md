@@ -27,13 +27,13 @@ Create custom groupings of records listed under the **Lists** tab, such as incid
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select the **My Lists** tab.
 
 4.  Select **Add new list**.
 
-    ![Add new list option](../image/sow-add-new-list.png)
+    ![Add new list option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-add-new-list.png)
 
 5.  Create a list by either basing it on an existing list or creating a new one.
 
@@ -41,12 +41,12 @@ Create custom groupings of records listed under the **Lists** tab, such as incid
     -   To begin a new list, select **Create your own.**
 6.  On the form, fill in the fields.
 
-    For more information on the fields, see [Create list fields](../reference/forms-filtered-list-sow.md).
+    For more information on the fields, see [Create list fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../reference/forms-filtered-list-sow.md).
 
 7.  Select **Create**.
 
     The list appears in the **My Lists** tab.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

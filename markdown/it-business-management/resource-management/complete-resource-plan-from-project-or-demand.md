@@ -80,7 +80,7 @@ A similar message for completing the resource plans appears on the Demand form w
 </td></tr></tbody>
 </table>    The message for completing the associated resource plans appears at the top of the record.
 
-    ![Screenshot for completing a resource plan message](../image/ResourcePlanCompleteMessage.png "Message for completing a resource plan")
+    ![Screenshot for completing a resource plan message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../image/ResourcePlanCompleteMessage.png "Message for completing a resource plan")
 
     **Note:** In the Planning Console, irrespective of the Closed state of the project tasks, the message appears only when the project is in Closed state.
 
@@ -106,5 +106,5 @@ A similar message for completing the resource plans appears on the Demand form w
 -   If the completion date is earlier than the resource plan end date, the end date of the resource plan is updated with the completion date. If the completion date was entered later than the resource plan end date, the resource plan end date is retained.
 -   All the requested and resource allocations for the resource plan that are past the completion date are deleted. If there are any actual hours logged against an allocation, that allocation record is not deleted. But the allocated hours become zero and the actual hours are retained. The available and allocated hours for the resources are also updated in the aggregate tables.
 
-**Parent Topic:**[Complete a resource plan](t_CloseAResourcePlan.md)
+**Parent Topic:**[Complete a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CloseAResourcePlan.md)
 

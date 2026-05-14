@@ -27,18 +27,18 @@ Once a replication set is active, a replication set with multiple consumers migh
 
 If you set bi-direction between a producer and consumer instance, the consumer can originate data that shares back to the producer instance. This data can also potentially reach any other consumer that is part of the replication set.
 
-**Parent Topic:**[Instance Data Replication reference](reference-instance-data-replication.md)
+**Parent Topic:**[Instance Data Replication reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/reference-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Adapter descriptions for Instance Data Replication](../reference/adapter-descriptions.md)
+[Adapter descriptions for Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/adapter-descriptions.md)
 
-[Excluded tables in Instance Data Replication](../reference/IDR-excluded-tables.md)
+[Excluded tables in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/IDR-excluded-tables.md)
 
-[Domain separation and IDR](../reference/instance-data-replication-domain-separation.md)
+[Domain separation and IDR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/instance-data-replication-domain-separation.md)
 
-[Instance Data Replication system properties](../reference/instance-data-replication-properties.md)
+[Instance Data Replication system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/instance-data-replication-properties.md)
 
-[Instance Data Replication roles](../reference/instance-data-replication-roles.md#)
+[Instance Data Replication roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/instance-data-replication-roles.md#)
 

@@ -19,7 +19,7 @@ These schedules are incorporated into the conflict detection process for change 
 
 There are two ways to define Maintenance schedules for Conflict Detection:
 
--   [Configure maintenance schedule](../task/t_CreateBlkoutMaintSched.md). This path is enabled through the change.conflict.currentwindow system property.
+-   [Configure maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_CreateBlkoutMaintSched.md). This path is enabled through the change.conflict.currentwindow system property.
 -   Create maintenance schedule using Schedules table \[cmn\_schedule\]. This method can be enabled using the change.conflict.ci\_maint\_sched system property.
 
     **Note:** These system properties can be configured on the Conflict properties.
@@ -31,11 +31,11 @@ All Maintenance Schedules defined through this method are processed based on the
 
 It should be noted that the presence of multiple Maintenance Schedules extends the time required to determine their relevance, and this duration increases with each Affected CI.
 
-If a generic schedule is applicable to numerous CIs or change requests, you must define a maintenance schedule using [Configure maintenance schedule](../task/t_CreateBlkoutMaintSched.md).
+If a generic schedule is applicable to numerous CIs or change requests, you must define a maintenance schedule using [Configure maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/t_CreateBlkoutMaintSched.md).
 
 However, if your schedules are tailored to a limited number of CIs, you must consider creating maintenance schedule using schedules table.
 
-![Maintenance schedule](../image/cmn_schedule_maintenance_form.png)
+![Maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/cmn_schedule_maintenance_form.png)
 
 ## Maintenance schedule using schedules table
 
@@ -45,7 +45,7 @@ In such cases, the maintenance schedule should be set in the Schedule table \(cm
 
 Unlike the maintenance schedule record, the schedule record lacks a condition or an **Applies to** field, as it is intended to be directly associated with a CI. After defining the schedule record, the **Type** must be set as `maintenance` to link to a CI. To attach this schedule to a CI, it should be referenced in the **Maintenance schedule** field on the CI record; if this field is not visible, it must be added to the form.
 
-![Schedules table](../image/cmn_schedule_form.png)
+![Schedules table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/cmn_schedule_form.png)
 
-**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 

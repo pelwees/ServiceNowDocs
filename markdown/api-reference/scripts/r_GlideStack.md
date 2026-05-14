@@ -111,7 +111,7 @@ Persistence
     -   ElementDescriptor
 
 </td></tr></tbody>
-</table>![Diagram of the Glide stack](../image/GlideServlet.svg "Glide stack")
+</table>![Diagram of the Glide stack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/GlideServlet.svg "Glide stack")
 
-**Parent Topic:**[Glide class overview](r_GlideClassOverview.md)
+**Parent Topic:**[Glide class overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_GlideClassOverview.md)
 

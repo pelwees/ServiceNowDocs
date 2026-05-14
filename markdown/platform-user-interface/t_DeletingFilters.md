@@ -32,18 +32,18 @@ Role required: admin
 5.  Click **Delete** and confirm the deletion.
 
 
-**Parent Topic:**[Filter admin functions](../concept/filter-admin-functions.md)
+**Parent Topic:**[Filter admin functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/filter-admin-functions.md)
 
 **Related topics**  
 
 
-[Create and edit filters](t_EditingSavedFilters.md)
+[Create and edit filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditingSavedFilters.md)
 
-[Create scripted filters](t_ScriptedFilters.md)
+[Create scripted filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ScriptedFilters.md)
 
-[Create a dynamic filter option](t_DynamicFilterOptions.md)
+[Create a dynamic filter option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md)
 
-[Personal lists](../concept/c_PersonalLists.md#)
+[Personal lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_PersonalLists.md#)
 
 [Configure the list layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_ConfigureTheListLayout.md)
 

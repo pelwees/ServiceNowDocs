@@ -18,7 +18,7 @@ Organize multiple data variables into a structure to process them as a unit and 
 ## Before you begin
 
 -   Role required: action\_designer, flow\_designer, or admin
--   [Create an action in Workflow Studio](create-action.md) or [Create a subflow in Workflow Studio](create-subflow.md)
+-   [Create an action in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md) or [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md)
 
 ## About this task
 
@@ -42,9 +42,9 @@ A data structure is a collection of related data elements organized into a hiera
 
     Workflow Studio adds a child data variable to the bottom of the object list.
 
-    **Note:** You can insert a child item variable between existing variables by hovering your mouse pointer between two variables, and click the insert item icon \(![Insert item icon](../images/insert-child-icon.png)\) that appears.
+    **Note:** You can insert a child item variable between existing variables by hovering your mouse pointer between two variables, and click the insert item icon \(![Insert item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/insert-child-icon.png)\) that appears.
 
-    When hovering your mouse pointer between a child and sibling variable, you will see a add child icon \(![Insert child item icon](../images/insert-item-icon.png)\). Click the left side of the icon to add a new sibling variable to the child's parent, or the right side to add another child variable under the current variable.
+    When hovering your mouse pointer between a child and sibling variable, you will see a add child icon \(![Insert child item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/insert-item-icon.png)\). Click the left side of the icon to add a new sibling variable to the child's parent, or the right side to add another child variable under the current variable.
 
 4.  Set the child variable **Label** and **Type**.
 
@@ -57,5 +57,5 @@ A data structure is a collection of related data elements organized into a hiera
 
 Use the data structure to populate action, step, or subflow inputs. If you can reuse the data structure, save it as a template.
 
-**Parent Topic:**[Complex data](../concept/complex-data.md)
+**Parent Topic:**[Complex data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/complex-data.md)
 

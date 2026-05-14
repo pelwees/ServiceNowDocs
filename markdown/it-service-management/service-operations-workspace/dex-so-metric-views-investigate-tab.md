@@ -27,7 +27,7 @@ You can select the CI from the list of affected CIs or caller CIs associated wit
 
 ## DEX view in the Investigate tab
 
-![Investigate tab - DEX view](../image/sow-investigation-tab-dex-view.png)
+![Investigate tab - DEX view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-investigation-tab-dex-view.png)
 
 The Investigate tab displays a DEX UI experience dashboard, if the selected CI matches the following conditions:
 
@@ -36,11 +36,11 @@ The Investigate tab displays a DEX UI experience dashboard, if the selected CI m
 -   Matches DEX related rule from the **Investigate CI Experience Rules** \(**sn\_sow\_investigate\_ci\_ux\_rule**\) table.
 -   CI is supported by DEX.
 
-For more information on DEX, see [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+For more information on DEX, see [Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../digital-end-user-experience/concept/dex-landing.md).
 
 ## SO view in the Investigate tab
 
-![Investigate tab - SO view](../image/sow-investigation-tab-so-view.png)
+![Investigate tab - SO view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-investigation-tab-so-view.png)
 
 The Investigate tab displays SO UI experience dashboard, if the selected CI matches the following conditions:
 
@@ -60,5 +60,5 @@ The investigate tab displays SO dashboard containing vendor generated metrics fr
 
 For more information on SO, see [Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability.md).
 
-**Parent Topic:**[Features of the Investigation tab](features-of-investigation-tab.md)
+**Parent Topic:**[Features of the Investigation tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/features-of-investigation-tab.md)
 

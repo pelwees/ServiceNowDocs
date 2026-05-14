@@ -21,7 +21,7 @@ Synchronize the contract document for non-disclosure agreements contract request
 
 You can synchronize a contract document only when the contract request is in the Work in progress state.
 
-**Note:** Tables are not updated when you use the **Sync document** option. You must regenerate the document to update the tables. For more information, see [Regenerate contract document after modifying request](snlcregen-contract-doc.md).
+**Note:** Tables are not updated when you use the **Sync document** option. You must regenerate the document to update the tables. For more information, see [Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlcregen-contract-doc.md).
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required:
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  Navigate to **Legal Requests**.
 
@@ -49,5 +49,5 @@ Role required:
 
 A new contract document revision is created with the update metadata and signatories. The changes made in the previous revision are retained.
 
-**Parent Topic:**[Work on NDA legal requests](snlc-work-on-contract-request.md)
+**Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 

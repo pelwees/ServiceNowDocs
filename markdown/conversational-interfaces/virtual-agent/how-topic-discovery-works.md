@@ -41,7 +41,7 @@ Virtual Agent sends a prediction request to the NLU provider. The request contai
 
 If no matches are found but backup keywords are enabled \(the **com.glide.cs.nlu.keywords.enabled** property is **true**\), Virtual Agent searches for a topic based on keywords.
 
-![Topic discovery flow chart showing the process Virtual Agent uses to deliver a topic to the user.](../images/va-topic-discovery-logic.png "Virtual Agent topic discovery logic")
+![Topic discovery flow chart showing the process Virtual Agent uses to deliver a topic to the user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-topic-discovery-logic.png "Virtual Agent topic discovery logic")
 
 ## Virtual Agent NLU confidence scores
 
@@ -81,12 +81,12 @@ While a topic is running, the requester can enter an utterance or phrase that re
 5.  The NLU predictor returns Intent B, and Virtual Agent sees that Topic B is bound to Intent B.
 6.  Virtual Agent switches the conversation to Topic B, which then presents information to the requester about their incidents.
 
-![Topic discovery flow chart that shows the process Virtual Agent uses to change topics in the middle of a conversation.](../images/va-midtopic-discovery-logic.png "Virtual Agent mid-topic discovery logic")
+![Topic discovery flow chart that shows the process Virtual Agent uses to change topics in the middle of a conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-midtopic-discovery-logic.png "Virtual Agent mid-topic discovery logic")
 
-**Parent Topic:**[Debug a Virtual Agent topic](../reference/virtual-agent-troubleshooting-guide.md)
+**Parent Topic:**[Debug a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/virtual-agent-troubleshooting-guide.md)
 
 **Related topics**  
 
 
-[Resolve Natural Language Understanding \(NLU\) topic discovery issues](../reference/va-topic-discovery-issues.md)
+[Resolve Natural Language Understanding \(NLU\) topic discovery issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-topic-discovery-issues.md)
 

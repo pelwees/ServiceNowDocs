@@ -83,7 +83,7 @@ Category
 
 </td><td>
 
-[Communications](sc-communications.md)
+[Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
 </td></tr><tr><td>
 
@@ -112,5 +112,5 @@ Functional impact
 Verifies hostname and certificate chain presented by remote secure socket layer \(SSL\) hosts. Set this property to true to secure against Man-in-the-middle \(MITM\) attacks.**Note:** This property overrides the **com.glide.communications.trustmanager\_trust\_all**, property.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Communications](sc-communications.md)
+</table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 

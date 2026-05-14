@@ -23,7 +23,7 @@ Procurement specialists can do this with the help of a document template that is
 
 Role required: Procurement specialist
 
-![Supplier NDA draft.](../image/nda_content.png)
+![Supplier NDA draft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/nda_content.png)
 
 ## Procedure
 
@@ -46,5 +46,5 @@ Role required: Procurement specialist
 6.  Select **Update**.
 
 
-**Parent Topic:**[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+**Parent Topic:**[Routing NDAs to suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/routing-ndas-to-suppliers.md)
 

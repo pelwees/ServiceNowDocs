@@ -30,7 +30,7 @@ Role required: taxonomy\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Taxonomy form](../reference/taxonomy-form.md).
+    For more information on the fields and description, see [Taxonomy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/taxonomy-form.md).
 
 4.  Click **Submit**.
 

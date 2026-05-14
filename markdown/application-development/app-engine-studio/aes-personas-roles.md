@@ -187,5 +187,5 @@ Professional ServiceNow developer
 -   Collaborate with a system administrator to create instance scan definitions for the platform.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure App Engine Studio](configure-aes.md)
+</table>**Parent Topic:**[Configure App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/configure-aes.md)
 

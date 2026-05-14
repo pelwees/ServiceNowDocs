@@ -45,7 +45,7 @@ Configuration item
 
 </td><td>
 
-1.  Click the lookup icon \(![Lookup icon](../../itsm-workspace/image/look-up-icon.png)\).
+1.  Click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../itsm-workspace/image/look-up-icon.png)\).
 2.  Select configuration item.
 
 **Note:** By default, Service Offering is filtered out and CIs with Principal Class are selected. The Principal Class filter functionality is applicable to the new customers starting the Paris release.
@@ -61,7 +61,7 @@ Affected CIs
 
 **Note:** By default, Service Offering is filtered out and CIs with Principal Class are selected. The Principal Class filter functionality is applicable to the new customers starting the Paris release.
 
-![Filter in Affected CIs related list](../../incident-management/image/affected-ci-offering-filter.png)
+![Filter in Affected CIs related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../incident-management/image/affected-ci-offering-filter.png)
 
 3.  Click **Add Selected**.
 
@@ -82,5 +82,5 @@ Impacted Services/CIs
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-lifecycle.md)
 

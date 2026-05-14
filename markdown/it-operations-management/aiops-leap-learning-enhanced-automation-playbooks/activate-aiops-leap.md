@@ -56,7 +56,7 @@ Steps
 </td></tr></tbody>
 </table>2.  In the LEAP installer input section, enter the details for LEAP to run scans on existing records, and select **Save and continue**.
 
-    For details on installer fields, see [LEAP Installer fields](../reference/aiops-leap-installation-fields.md)
+    For details on installer fields, see [LEAP Installer fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../reference/aiops-leap-installation-fields.md)
 
 3.  In the Define access section, select the role to whom you want to provide access to LEAP skills.
 
@@ -66,7 +66,7 @@ Steps
 
 6.  Select **Return to ITOM** on the success message.
 
-7.  The grouping job starts and proceeds to group records into automation opportunities.![landing page with analysis data](../images/grouping-job-run.png)
+7.  The grouping job starts and proceeds to group records into automation opportunities.![landing page with analysis data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/grouping-job-run.png)
 
     If errors are encountered, then LEAP provides links to knowledge base articles to understand the root cause and steps to resolve issues.
 

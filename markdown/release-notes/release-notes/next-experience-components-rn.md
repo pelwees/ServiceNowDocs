@@ -437,5 +437,5 @@ To view Next Experience Components accessibility conformance information, refer 
     Use components to build custom workspace experiences for agents who solve internal or external customer issues.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

@@ -25,7 +25,7 @@ Role required: admin
 
 You can view the detailed reference records in your current decision table instance. You can also open these records and make changes.
 
-![Enhanced reference record](../image/reference-record-result.png)
+![Enhanced reference record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/reference-record-result.png)
 
 ## Procedure
 
@@ -41,12 +41,12 @@ You can view the detailed reference records in your current decision table insta
 
     For example, in the screenshot, the column labeled **Incident** has the condition set to `is` and the value is set as `INC0009005`.
 
-    After setting this value, you’ll see an info icon ![reference record info icon](../image/reference-record-icon.png) in the value field similar to the screenshot.
+    After setting this value, you’ll see an info icon ![reference record info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/reference-record-icon.png) in the value field similar to the screenshot.
 
-    ![reference record column](../image/reference-record-column.png)
+    ![reference record column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/reference-record-column.png)
 
-6.  Select the ![reference record info icon](../image/reference-record-icon.png) icon to view the record details.
+6.  Select the ![reference record info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/reference-record-icon.png) icon to view the record details.
 
 
-**Parent Topic:**[Using decision tables](../concept/using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/using-decision-builder.md)
 

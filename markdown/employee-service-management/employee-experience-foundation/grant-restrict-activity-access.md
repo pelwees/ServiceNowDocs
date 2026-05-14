@@ -48,7 +48,7 @@ Do this
 </td><td>
 
 1.  Click **New**.
-2.  On the form, fill in the fields. For more information about the form fields and descriptions, see [User Criteria form](../reference/ec-user-criteria-form.md).
+2.  On the form, fill in the fields. For more information about the form fields and descriptions, see [User Criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-user-criteria-form.md).
 3.  Click **Submit**.
 
 
@@ -59,7 +59,7 @@ Do this
 </td><td>
 
 1.  Click **Edit**.
-2.  On the Edit Members form, select the required roles, users, and groups from the Collection column and move them to the Activity Access List column by clicking the right arrow icon \(![Right arrow icon.](../images/right-arrow-icon.png)\).
+2.  On the Edit Members form, select the required roles, users, and groups from the Collection column and move them to the Activity Access List column by clicking the right arrow icon \(![Right arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/right-arrow-icon.png)\).
 3.  Click **Save**.
 
 

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Build Agent, Vibe coding and AI app development on the S
 
 Metadata and app file types are ServiceNow Fluent plugins that Build Agent can process and manage. Use this reference when determining compatibility for your development workflow.
 
-**Important:** Build Agent only creates metadata supported by ServiceNow® Fluent. For more information, see [ServiceNow Fluent](../../servicenow-sdk/concept/servicenow-fluent.md). For the latest API reference, see [https://servicenow.github.io/sdk/](https://servicenow.github.io/sdk/)
+**Important:** Build Agent only creates metadata supported by ServiceNow® Fluent. For more information, see [ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-sdk/concept/servicenow-fluent.md). For the latest API reference, see [https://servicenow.github.io/sdk/](https://servicenow.github.io/sdk/)
 
 Build Agent supports working with many types of ServiceNow metadata and app files, including the following:
 
@@ -50,5 +50,5 @@ Build Agent supports working with many types of ServiceNow metadata and app file
 -   Workflows
 -   Workspaces
 
-**Parent Topic:**[Build Agent reference](build-agent-reference-landing.md)
+**Parent Topic:**[Build Agent reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-agent-reference-landing.md)
 

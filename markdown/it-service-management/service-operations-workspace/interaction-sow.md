@@ -15,15 +15,15 @@ breadcrumb: [Operating IT services in your organization, Service Operations Work
 
 Interactions are a centralized location for all communication channels in Service Operations Workspace. You can respond to an incoming chat, phone, walk-up, or messaging interactions faster.
 
-![Interaction landing page](../image/interaction-sow-aug24.png)
+![Interaction landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/interaction-sow-aug24.png)
 
 ## Details tab
 
-This tab displays the detailed information of an interaction. For information about fields in this section, see [Create an interaction in Service Operations Workspace](../task/create-interaction-sow.md).
+This tab displays the detailed information of an interaction. For information about fields in this section, see [Create an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-interaction-sow.md).
 
 From the **Compose** section, you can add work notes for the interaction.
 
-For information about how you can configure fields in this tab, see [Configure a task record form in Service Operations Workspace](../task/configure-form-layout-task.md).
+For information about how you can configure fields in this tab, see [Configure a task record form in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/configure-form-layout-task.md).
 
 ## Related records tab
 
@@ -35,31 +35,31 @@ From this section, you can view record information, requester information, add a
 
 For information about Interaction Management, see [Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-management.md).
 
--   **[Create an interaction in Service Operations Workspace](../task/create-interaction-sow.md)**  
+-   **[Create an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-interaction-sow.md)**  
 Track an interaction that is a centralized location for all communication channels. Each interaction represents a request for assistance through a communication channel, for example, a phone call or a chat.
--   **[Work on an interaction in Service Operations Workspace](../task/work-on-interaction-sow.md)**  
+-   **[Work on an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/work-on-interaction-sow.md)**  
 Work on customer conversations to resolve issues.
--   **[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](../task/collaborate-interaction-ms-teams-sow.md)**  
+-   **[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/collaborate-interaction-ms-teams-sow.md)**  
 You can initiate a chat or make conference calls using Microsoft Teams to communicate with stakeholders to resolve the issue.
--   **[Associate an interaction with a task record](../task/associate-interaction-record-sow.md)**  
+-   **[Associate an interaction with a task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/associate-interaction-record-sow.md)**  
 Associating a record to an interaction leverages data to streamline processes, enhance the customer experience, and improve resolution time.
 
-**Parent Topic:**[Operating IT services in your organization](enhancing-services-operations-in-organization.md)
+**Parent Topic:**[Operating IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enhancing-services-operations-in-organization.md)
 
 **Related topics**  
 
 
-[Play a guided tour in Service Operations Workspace](../task/play-guided-tour-sow.md)
+[Play a guided tour in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/play-guided-tour-sow.md)
 
-[Add a user-specific quick link on the ITSM landing page](../task/add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/add-quick-link.md)
 
-[Create a list in Service Operations Workspace](../task/create-list-sow.md)
+[Create a list in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/create-list-sow.md)
 
-[Live Agent chat in Service Operations Workspace](configure-liveagent-sow.md)
+[Live Agent chat in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-liveagent-sow.md)
 
-[Incident Management in Service Operations Workspace](incident-sow.md)
+[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/incident-sow.md)
 
-[Request Management in Service Operations Workspace](request-sow.md)
+[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/request-sow.md)
 
-[Change Management in Service Operations Workspace](change-sow.md)
+[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/change-sow.md)
 

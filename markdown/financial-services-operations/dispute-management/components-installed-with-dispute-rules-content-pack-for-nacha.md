@@ -57,5 +57,5 @@ Dispute Rules Content Pack for Nacha includes 10 reason codes and the predefined
 |R37|Source Document Presented|60 days|Yes|
 |R39|Improper Source Document|2 banking days|No|
 
-**Parent Topic:**[Dispute Rules Content Pack for Nacha reference](dispute-rules-content-pack-nacha-reference.md)
+**Parent Topic:**[Dispute Rules Content Pack for Nacha reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-reference.md)
 

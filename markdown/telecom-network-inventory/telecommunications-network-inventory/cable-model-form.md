@@ -29,7 +29,7 @@ Manufacturer
 
 </td><td>
 
-Name of the network asset's manufacturer. Select the search icon \(![Search icon.](../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](../task/add-company-designate-manufacturer-tni.md).
+Name of the network asset's manufacturer. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/add-company-designate-manufacturer-tni.md).
 
 </td></tr><tr><td>
 
@@ -302,10 +302,10 @@ Depth
 Depth of the network asset that is expressed in the unit of measure that you designate in the **Units** field.**Note:** This field is applicable for the equipment models and equipment holder models.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create a cable model](../task/create-a-cable-model.md)
+[Create a cable model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-a-cable-model.md)
 

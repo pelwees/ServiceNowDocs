@@ -23,7 +23,7 @@ Select any case from the list, select **Edit-More Actions** to assign the case t
 
 The following image displays all the AI cases in a list view.
 
-![List view of the cases on the AI assets page.](../image/aict-cases.png "Cases")
+![List view of the cases on the AI assets page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-cases.png "Cases")
 
-For information about creating AI cases from the AI cases tab in the AI Control Tower workspace, see [Create an AI case in the AI Control Tower](../task/create-ai-case-in-the-ai-control-tower.md)
+For information about creating AI cases from the AI cases tab in the AI Control Tower workspace, see [Create an AI case in the AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/create-ai-case-in-the-ai-control-tower.md)
 

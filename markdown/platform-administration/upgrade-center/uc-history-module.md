@@ -65,11 +65,11 @@ Copies to review
 Total number of copied records to review whose base records have been upgraded
 
 </td></tr></tbody>
-</table>Select Skipped Record VTB related link to view and manage skipped records over VTB. See [Skipped Records visual task board \(VTB\)](uc-vtb-history.md) for more information.
+</table>Select Skipped Record VTB related link to view and manage skipped records over VTB. See [Skipped Records visual task board \(VTB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-vtb-history.md) for more information.
 
-Select View Upgrade Plan History related link to view the details of the upgrade plan configuration. See [Upgrade Plan overview](uc-upgrade-plan.md) for more information.
+Select View Upgrade Plan History related link to view the details of the upgrade plan configuration. See [Upgrade Plan overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-upgrade-plan.md) for more information.
 
 Select View Upgrade Summary Report related link to view the summary of an older upgrade over Upgrade Monitor module.
 
-See [Review skipped records using related lists](../task/uc-access-rl.md#) for more information about related lists.
+See [Review skipped records using related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../task/uc-access-rl.md#) for more information about related lists.
 

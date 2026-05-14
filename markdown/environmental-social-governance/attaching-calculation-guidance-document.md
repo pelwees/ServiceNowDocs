@@ -44,5 +44,5 @@ Role required: sn\_esg.admin
 9.  Close the pop-up and select **Submit**.
 
 
-**Parent Topic:**[Activate carbon calculations agentic workflow](activate-carbon-calculations-agentic-workflow.md)
+**Parent Topic:**[Activate carbon calculations agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-carbon-calculations-agentic-workflow.md)
 

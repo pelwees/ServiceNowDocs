@@ -27,23 +27,23 @@ Role required: sn\_ti.case\_user\_write
 
 3.  Click Additional Details for the CI artifact you want to view related details for.
 
-    ![View related details for a CI](../image/related-data-cis.png)
+    ![View related details for a CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/related-data-cis.png)
 
 4.  Click any of the tabs to view specific types of details for the selected artifact.
 
 5.  You can also click the **Security Annotation** tab to view annotations for the selected artifact.
 
 
-**Parent Topic:**[Related details for case artifacts](../concept/related-details-for-case-artifacts.md)
+**Parent Topic:**[Related details for case artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/related-details-for-case-artifacts.md)
 
 **Related topics**  
 
 
-[View related details for a security incident artifact](view-related-details-for-sec-inc-artifact.md)
+[View related details for a security incident artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-sec-inc-artifact.md)
 
-[View related details for an IoC artifact](view-related-details-for-ioc-artifact.md)
+[View related details for an IoC artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-ioc-artifact.md)
 
-[View related details for an affected user artifact](view-related-details-for-user-artifact.md)
+[View related details for an affected user artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-user-artifact.md)
 
-[View related details for an observable artifact](view-related-details-for-observ-artifact.md)
+[View related details for an observable artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-related-details-for-observ-artifact.md)
 

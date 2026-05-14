@@ -61,7 +61,7 @@ The entity type is created. The new entity type form is displayed with the **Det
 
 ## What to do next
 
-You can also [update an entity type](update-entity-type.md).
+You can also [update an entity type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/update-entity-type.md).
 
-**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](../concept/entities-in-esg.md)
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/entities-in-esg.md)
 

@@ -51,12 +51,12 @@ Role required: asset
 
 Each time you pause or resume work on the task, the actual time you worked on the task is automatically calculated. An entry for the time worked is created in the Time Worked tab.
 
-**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](../concept/record-repair-time-ham-ws.md)
+**Parent Topic:**[Record time worked on asset repair tasks in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-repair-time-ham-ws.md)
 
 **Related topics**  
 
 
-[Record time worked on a repair task automatically in the Hardware Asset Workspace](record-total-repair-time-ham-ws.md)
+[Record time worked on a repair task automatically in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/record-total-repair-time-ham-ws.md)
 
-[Record time worked on a repair task manually in the Hardware Asset Workspace](record-time-worked-manually-ham-ws.md)
+[Record time worked on a repair task manually in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/record-time-worked-manually-ham-ws.md)
 

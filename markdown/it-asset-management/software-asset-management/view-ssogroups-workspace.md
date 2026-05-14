@@ -28,5 +28,5 @@ Role required: sam\_admin or sam\_user
 3.  Select a group record to view additional details such as the users and child groups within that group.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

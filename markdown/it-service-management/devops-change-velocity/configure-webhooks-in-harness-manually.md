@@ -32,7 +32,7 @@ Role required:
 
     **Note:** Select **Copy** in the appropriate field to copy the value to your clipboard. The field label changes to **Copied**, but you can copy multiple times.
 
-    ![Configure webhooks manually screen](../image/harness-workspace-3.png)
+    ![Configure webhooks manually screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-workspace-3.png)
 
 3.  Modify the copied Webhook URL to reflect your tool details.
 
@@ -66,23 +66,23 @@ Role required:
 
         `https://demoinstance.service-now.com/api/sn_devops/v2/devops/tool/orchestration?toolId=ac0cdf1a1b7696107940a864gjhgbcb58&ni.nolog.token=brl1jhab63nn56&projectId=vH2s1ghNKNy6sEVSeTIK3w`
 
-4.  In your Harness tool, select your pipeline, and then select the **Notify** option. ![Notify option in Harness pipeline](../image/harness-configure-1.png)
+4.  In your Harness tool, select your pipeline, and then select the **Notify** option. ![Notify option in Harness pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-configure-1.png)
 
 5.  Select **+Notifications** to create a new notification record.
 
-6.  Enter a name for the notification, and select **Continue**. ![Create new notification in Harness](../image/harness-configure-2.png)
+6.  Enter a name for the notification, and select **Continue**. ![Create new notification in Harness](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-configure-2.png)
 
-7.  Select the following pipeline events, and then select **Continue**. ![Select events for Harness notification](../image/harness-configure-3.png)
+7.  Select the following pipeline events, and then select **Continue**. ![Select events for Harness notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-configure-3.png)
 
     -   Pipeline End
     -   Stage Failed
     -   Stage Success
     -   Stage Start
     -   Step Failed
-8.  Select the channel type as **Webhook**, and enter the URL to be configured \(created in step3\). ![Select channel type and URL to be configured](../image/harness-configure-4.png)
+8.  Select the channel type as **Webhook**, and enter the URL to be configured \(created in step3\). ![Select channel type and URL to be configured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-configure-4.png)
 
 9.  Select **Finish**.
 
 
-**Parent Topic:**[Harness integration with DevOps Change Velocity](../concept/harness-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Harness integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/harness-integration-with-devops-change-velocity.md)
 

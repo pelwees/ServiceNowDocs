@@ -27,13 +27,13 @@ When you create a network service instance record, it creates a corresponding co
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then select **Services** &gt; **Service Instance**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then select **Services** &gt; **Service Instance**.
 
 3.  Select **New**.
 
 4.  On the Service Instance form, fill in the fields.
 
-    To learn more about fields, see [Service Instance form](../reference/application-service-instance-form.md).
+    To learn more about fields, see [Service Instance form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/application-service-instance-form.md).
 
 5.  To create the Telecommunications Network Inventory attributes for the Service Instance form, select **Set Inventory Attributes**.
 
@@ -45,12 +45,12 @@ When you create a network service instance record, it creates a corresponding co
 
 6.  On the TNI CI Attributes form, fill in the fields.
 
-    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](../reference/ci-attribue-form.md).
+    To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/ci-attribue-form.md).
 
 7.  Select **Save**.
 
     The Telecommunications Network Inventory attribute fields are displayed on the Service Instance form after you save the TNI CI Attributes form. The **Set Inventory Attributes** doesn't appear when you reopen the CI record.
 
 
-**Parent Topic:**[Manage your network functions](../concept/services.md)
+**Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/services.md)
 

@@ -93,7 +93,7 @@ Risk rank
 
 </td><td>
 
-A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../../project-management/task/risk-value-lookup-project.md).
+A value and color assigned to the risk. This value is calculated using risk probability and impact. You can configure the color and value using the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/task/risk-value-lookup-project.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Risk value
 
 </td><td>
 
-A value calculated from the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](../../project-management/task/risk-value-lookup-project.md).
+A value calculated from the Risk Value Lookup. For more information, see [Configure custom Risk rank and Risk value for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/task/risk-value-lookup-project.md).
 
 </td></tr><tr><td>
 
@@ -187,5 +187,5 @@ Brief description of efforts taken to mitigate the risk.
 |Enterprise inherent risk|This field gets auto-populated with the risk scores when the risk assessor assesses the enterprise inherent risk.|
 |Enterprise residual risk|This field gets auto-populated with the risk scores when the risk assessor evaluates the enterprise residual risk.|
 
-**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 

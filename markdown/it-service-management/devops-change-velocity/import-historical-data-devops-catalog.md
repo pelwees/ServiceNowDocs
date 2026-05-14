@@ -56,7 +56,7 @@ For example, if the Plan import request failed \(after all retries\), we will pr
 -   Specify the count of retries to auto-attempt, in case the import request page fails in the **Maximum retries per page, while importing** field. If after all the automatic retries, page does not succeed, the import request will process the remaining pages. The overall status of the import request reflects as errored.
 -   You can manually retry attempting a failed import by clicking the **Retry import** button, on the failed import request page,
 
-**Parent Topic:**[Additional information for onboarding DevOps tools and apps using the Service catalog](onboard-tools-self-service-catalog.md)
+**Parent Topic:**[Additional information for onboarding DevOps tools and apps using the Service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/onboard-tools-self-service-catalog.md)
 
 ## Polling schedule and configuration
 
@@ -117,15 +117,15 @@ Role required: admin
 
     The resulting DevOps App Onboarding form enables you to specify the catalog item to order. In this case, the "app" to order is your Azure DevOps instance.
 
-    ![Specify the instance on the Onboarding form](../image/dev-ops-app-onboarding-form.png)
+    ![Specify the instance on the Onboarding form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-app-onboarding-form.png)
 
-4.  Select the Select in list icon \(![Applications icon](../image/icon-view-list.png)\) on the **App** field and then select your instance of Azure DevOps.
+4.  Select the Select in list icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/icon-view-list.png)\) on the **App** field and then select your instance of Azure DevOps.
 
     Now that you have specified the instance, you will specify date range and sources of data to import.
 
 5.  Repeat the following procedure for each pipeline, repository, and plan that you want to import:
 
-    1.  Select the Select in list icon \(![Applications icon](../image/icon-view-list.png)\) on the appropriate **Onboarding** field to select the item to import.
+    1.  Select the Select in list icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/icon-view-list.png)\) on the appropriate **Onboarding** field to select the item to import.
 
         You can select multiple items.
 
@@ -137,7 +137,7 @@ Role required: admin
 
 7.  Select the request number so you or another user with the admin role can approve the request.
 
-    ![Select the request so you can approve it](../image/dev-ops-request-number-select.png)
+    ![Select the request so you can approve it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-request-number-select.png)
 
 8.  Approve the request: On the Request form, set **Approval** and **Request state**to **Approved**.
 
@@ -175,15 +175,15 @@ Role required: admin
 
     The resulting DevOps App Onboarding form enables you to specify the catalog item to order. In this case, the "app" to order is your GitLab instance.
 
-    ![Specify the instance on the Onboarding form](../image/dev-ops-app-onboarding-form.png)
+    ![Specify the instance on the Onboarding form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-app-onboarding-form.png)
 
-4.  Select the Select in list icon \(![Applications icon](../image/icon-view-list.png)\) on the **App** field and then select your instance of GitLab.
+4.  Select the Select in list icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/icon-view-list.png)\) on the **App** field and then select your instance of GitLab.
 
     Now that you have specified the instance, you will specify date range and sources of data to import.
 
 5.  Repeat the following procedure for each repository that you want to import:
 
-    1.  Select the Select in list icon \(![Applications icon](../image/icon-view-list.png)\) on the **Onboarding Repositories** field and then select the item to import.
+    1.  Select the Select in list icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/icon-view-list.png)\) on the **Onboarding Repositories** field and then select the item to import.
 
         You can select multiple items.
 
@@ -197,7 +197,7 @@ Role required: admin
 
 7.  Select the request number so you or another user with the admin role can approve the request.
 
-    ![Select the request so you can approve it](../image/dev-ops-request-number-select.png)
+    ![Select the request so you can approve it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-request-number-select.png)
 
 8.  Approve the request: On the Request form, set **Approval** and **Request state** to **Approved**.
 

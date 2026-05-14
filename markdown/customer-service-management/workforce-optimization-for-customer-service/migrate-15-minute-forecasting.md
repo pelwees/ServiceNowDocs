@@ -43,7 +43,7 @@ Starting with the Tokyo release, 15-minute forecasting is the default forecastin
 
 3.  Create new data collection definitions, formula parameters, and group forecast configuration.
 
-    For more info, see [Configure the data collection for resources demands](configure-data-collection-demand-forecast.md).
+    For more info, see [Configure the data collection for resources demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/configure-data-collection-demand-forecast.md).
 
 4.  Run the **Collect historical data** on-demand job to collect historical data at 15-minute interval.
 
@@ -62,5 +62,5 @@ Starting with the Tokyo release, 15-minute forecasting is the default forecastin
     3.  Click **Execute Now**.
 
 
-**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](../concept/configuring-demand-forecast-configurable-wfo-cs.md)
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/configuring-demand-forecast-configurable-wfo-cs.md)
 

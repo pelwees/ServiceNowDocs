@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Select **Edit subflow**.
 
-5.  Select the Data Pill Picker icon ![data pill picker](../image/data-pill-pick.png) for the field you want to change the recipients of intraday schedule automation notifications.
+5.  Select the Data Pill Picker icon ![data pill picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/data-pill-pick.png) for the field you want to change the recipients of intraday schedule automation notifications.
 
 <table id="choicetable_u45_d4c_vgc"><thead><tr><th align="left" id="d74538e99">
 

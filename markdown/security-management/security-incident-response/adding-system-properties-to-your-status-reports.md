@@ -26,16 +26,16 @@ Add system properties to control MSIM application behavior. Following are the de
 |sn\_msi.msi\_report\_uib\_element\_js\_path|Use this property to control the generic path to capture the image out of the UIB page portion.|
 |sn\_msi.report\_default\_style\_objects|Use this property to change the CSS of the generated PDFs such as font size, font color, or field value. For example, if sn\_msi.workspace\_manager would prefer to change the font color of the left panel of the generated PDF status report then the workspace manager can modify the system property font color and render the PDF in a desired view.|
 
-**Parent Topic:**[Configure Major Security Incident status reports](manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Create a Report Template](../task/create-report-template.md)
+[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-report-template.md)
 
-[Create a Report Section Template](../task/create-report-section-template.md)
+[Create a Report Section Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-report-section-template.md)
 
-[Create a Report Subsection Template](../task/create-report-subsection-template.md)
+[Create a Report Subsection Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-report-subsection-template.md)
 
-[Create Report Subsection Element template](../task/create-report-subsection-element-template.md)
+[Create Report Subsection Element template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-report-subsection-element-template.md)
 

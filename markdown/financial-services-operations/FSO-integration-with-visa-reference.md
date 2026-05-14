@@ -13,10 +13,10 @@ breadcrumb: [Visa, Integrate, Financial Services Operations \(FSO\)]
 
 Reference topics provide additional information on the installed components, including plugins,subflows, and system properties, that you use to configure and administer Financial Services Operations Integration with Visa application.
 
--   **[Components installed with Financial Services Operations Integration with Visa](../reference/financial-services-operations-integration-with-visa-reference.md)**  
+-   **[Components installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/financial-services-operations-integration-with-visa-reference.md)**  
 Reference topics provide additional information on the installed components and subflows that you use to configure and administer Financial Services Operations Integration with Visa application.
--   **[Properties installed with Financial Services Operations Integration with Visa](../reference/properties-installed-with-fso-integration-with-visa.md)**  
+-   **[Properties installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/properties-installed-with-fso-integration-with-visa.md)**  
 Customize the properties that are available with the Financial Services Operations Integration with Visa application.
 
-**Parent Topic:**[Financial Services Operations Integration with Visa](financial-services-operations-integration-with-visa-landing-page.md)
+**Parent Topic:**[Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-landing-page.md)
 

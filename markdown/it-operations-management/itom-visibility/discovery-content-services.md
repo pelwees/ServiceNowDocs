@@ -15,7 +15,7 @@ breadcrumb: [ITOM Visibility, IT Operations Management]
 
 ServiceNow® ITOM Content Service offers extensive visibility of products in your infrastructure. The classification of processes identified by Predictive Intelligence enables wider discovery and weekly updates of new configuration items in the CMDB. Use the Discovery Admin Workspace to review and manage ITOM Content Service suggestions.
 
-![Discovery admins upload their fingerprints to Data Services, AI librarians tag and classify them and then deliver classifiers back to the admins.](../image/ics-mm-diagram.png "ITOM Content Service Model")
+![Discovery admins upload their fingerprints to Data Services, AI librarians tag and classify them and then deliver classifiers back to the admins.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/ics-mm-diagram.png "ITOM Content Service Model")
 
 ## About ITOM Content Service
 
@@ -36,7 +36,7 @@ ITAM Software Asset Management \(SAM\) users benefit from the integration with I
 
 -   Gain visibility on the processes currently running on the installed software. This also enables you to find out which installed software doesn't have running processes and might be redundant.
 -   ITOM Content Service compliments Software Asset Management in cases of services that don't require installation, for example, an Oracle database that runs as a service and isn’t installed. In cases like this, ITOM Content Service creates the installed software record based on combining the process fingerprint data with the data discovered by SAM. Without ITOM Content Service, you can’t gain this kind of visibility.
--   Using file-based discovery capabilities, ITOM Content Service can discover a running system file that is identified with an app. For example, ITOM Content Service can match an installed software record to an Apache Kafka running an `exe` file. For more information, see [File-based Discovery](file-based-discovery.md).
+-   Using file-based discovery capabilities, ITOM Content Service can discover a running system file that is identified with an app. For example, ITOM Content Service can match an installed software record to an Apache Kafka running an `exe` file. For more information, see [File-based Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/file-based-discovery.md).
 
 For more information on Software Asset Management, see [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md).
 
@@ -123,7 +123,7 @@ Service's publisher.
 **Service Fingerprints** tab in Service Mapping workspace
 
 </td></tr></tbody>
-</table>For more information about using Service Fingerprints in Service Mapping, see [Map application services based on Automated Service Suggestions](../../service-mapping/task/map-application-suggestion.md).
+</table>For more information about using Service Fingerprints in Service Mapping, see [Map application services based on Automated Service Suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/task/map-application-suggestion.md).
 
 For more information about Service Fingerprints candidates, see [KB1706310](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1706310).
 
@@ -133,7 +133,7 @@ Review recommended actions and application suggestions and configure discovery t
 
 Note that the Discovery Admin Workspace is supported starting with the Vancouver release.
 
-For more information, see [Discovery Admin Workspace Content 360](discovery-workspace-content-360.md).
+For more information, see [Discovery Admin Workspace Content 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-workspace-content-360.md).
 
 ## Sharing data on the CDS
 
@@ -147,5 +147,5 @@ The three options for sharing your data are:
 -   Sharing the SNMP System OIDs data, which enables access to the SNMP OID \[discovery\_snmp\_oid\] table.
 -   Sharing the Service Info data of mapped candidates, which enables access to the Application Service Candidate \[application\_service\_candidate\] table \(starting with ITOM Content Service version 1.6.2 and Discovery Admin Workspace version 1.11.0\).
 
-For more information on setting the permissions, see [Share data on ITOM Content Service](../task/share-data-itom-content-service.md)
+For more information on setting the permissions, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/share-data-itom-content-service.md)
 

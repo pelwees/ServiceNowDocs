@@ -209,5 +209,5 @@ Work notes related to the asset.
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/vaccine-mgmt-config.md)
 

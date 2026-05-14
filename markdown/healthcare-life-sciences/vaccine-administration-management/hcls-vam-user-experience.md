@@ -70,5 +70,5 @@ View the details of an individual appointment.
 Provide your health updates in the portal. Also, organizations have the option to send an appointment reminder and pre-appointment questionnaire to you at a specified time before the vaccination appointment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Vaccine Administration Management](using-vaccine-administration-management.md)
+</table>**Parent Topic:**[Using Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/using-vaccine-administration-management.md)
 

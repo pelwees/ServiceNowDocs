@@ -57,25 +57,25 @@ On the SAFe Board, you can perform various actions to manage your backlog, such 
 
 7.  Add an epic to the Features by SAFe epic section.
 
-    1.  Select the options icon \(![Options icon.](../../agile-development/image/create-story-arrow.png)\) that is next to the **Create Feature** option.
+    1.  Select the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../agile-development/image/create-story-arrow.png)\) that is next to the **Create Feature** option.
 
     2.  Select **Create Epic**.
 
     3.  On the SAFe Epic form, fill in the fields and submit the form.
 
-        For more details, see [Define an epic in SAFe](create-SAFeepic.md).
+        For more details, see [Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md).
 
 8.  To arrange features within a Backlog page, use one of the following options.
 
     -   Use the mouse device to select and hold a feature, drag it to the required position, and drop it.
-    -   Use the keyboard. For more information, see [Arrange a feature in the SAFe backlog page using the keyboard](arrange-safe-features-using-keyboard.md).
+    -   Use the keyboard. For more information, see [Arrange a feature in the SAFe backlog page using the keyboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/arrange-safe-features-using-keyboard.md).
 9.  To personalize the columns in a list, select the Personalize icon.
 
 10. Perform various actions on a single feature or set of features.
 
     1.  Select the required features.
 
-    2.  Click the options icon \(![Options icon.](../../sdlc-scrum/image/ellipsis.png)\) and select one of the following options.
+    2.  Click the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../sdlc-scrum/image/ellipsis.png)\) and select one of the following options.
 
     |Option|Description|
     |------|-----------|
@@ -88,13 +88,13 @@ On the SAFe Board, you can perform various actions to manage your backlog, such 
     |**SAFe Epic**|Select the SAFe epic that the features belong to.|
     |**Program Increment**|Select the PI during which the features are scheduled for completion.|
 
-11. To view records in a standard list, select the standard list icon \(![Standard list icon.](../images/viewstandardlist.png)\).
+11. To view records in a standard list, select the standard list icon \(![Standard list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/viewstandardlist.png)\).
 
 
--   **[Arrange a feature in the SAFe backlog page using the keyboard](arrange-safe-features-using-keyboard.md)**  
+-   **[Arrange a feature in the SAFe backlog page using the keyboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/arrange-safe-features-using-keyboard.md)**  
 Use the keyboard to move and arrange SAFe features in the **Backlog** tab of the SAFe Board.
--   **[Arrange multiple features in the SAFe Board using the keyboard](arrange-multiple-features-in-the-safe-board-using-the-keyboard-.md)**  
+-   **[Arrange multiple features in the SAFe Board using the keyboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/arrange-multiple-features-in-the-safe-board-using-the-keyboard-.md)**  
 Use the keyboard to move and arrange multiple SAFe features in the **Backlog** tab of your SAFe Board.
 
-**Parent Topic:**[SAFe Board — ART level](../concept/program-level-tabs.md)
+**Parent Topic:**[SAFe Board — ART level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/program-level-tabs.md)
 

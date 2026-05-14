@@ -18,7 +18,7 @@ Determine the order in which worker threads run background flows. Use a mix of f
 ## Before you begin
 
 -   Role required: flow\_designer or admin
--   [Show flow priority field](show-flow-priority-field.md)
+-   [Show flow priority field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/show-flow-priority-field.md)
 
 ## Procedure
 
@@ -56,5 +56,5 @@ The flow runs at the priority you specify as long as it does not pause or get de
 
 Use the FDIH dashboard to review the flow executions and verify that your flows are running as expected.
 
-**Parent Topic:**[Flow priority](../concept/flow-priority.md)
+**Parent Topic:**[Flow priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-priority.md)
 

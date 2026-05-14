@@ -17,7 +17,7 @@ Initiate background verification of the required candidate by sending a request 
 
 ## Before you begin
 
--   [Create a case in First Advantage from ServiceNow](create-fadv-case.md)
+-   [Create a case in First Advantage from ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/create-fadv-case.md)
 
     **Note:** Ensure that the **Send Invite link** option is selected and the **Use "Order As"** option isn't selected.
 
@@ -58,6 +58,6 @@ After accessing the invite email, candidate can either complete the application 
 
 **Note:**
 
--   You must set up the webhooks to receive the guest event updates. See [Set up First Advantage webhooks](setup-first-adv.md#) for information on setting up the webhooks.
+-   You must set up the webhooks to receive the guest event updates. See [Set up First Advantage webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-first-adv.md#) for information on setting up the webhooks.
 -   If the candidate has declined the request for background verification, the Order record isn't created for the task.
 

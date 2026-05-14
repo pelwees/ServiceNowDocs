@@ -41,7 +41,7 @@ Add workplace locations to a reservable module so that employees can access only
 
     2.  Move the selection to the **Workplace Locations List** column on the right.
 
-        To move the location, use the add/remove icon \(![Add remove time slot icon](../image/add-remove-icon.png)\).
+        To move the location, use the add/remove icon \(![Add remove time slot icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png)\).
 
     3.  Click **Save**.
 
@@ -50,5 +50,5 @@ Add workplace locations to a reservable module so that employees can access only
 
 The workplace locations are added to the reservable module. When an employee selects the reservable module to make a reservation, only the configured workplace locations are displayed.
 
-**Parent Topic:**[Configure a reservable module](config-reservable-module.md)
+**Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 

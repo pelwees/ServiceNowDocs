@@ -32,5 +32,5 @@ Role required: admin
     The skill is activated for your instance.
 
 
-**Parent Topic:**[Working with intent and activity analysis](../concept/nowass-intent-activity-analysis.md)
+**Parent Topic:**[Working with intent and activity analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/nowass-intent-activity-analysis.md)
 

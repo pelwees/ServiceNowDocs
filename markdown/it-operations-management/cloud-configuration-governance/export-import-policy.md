@@ -27,7 +27,7 @@ Role required: sn\_cmp.cloud\_admin or admin.
 
     1.  Click the export icon for the policy.
 
-        ![Export icon for a policy](../image/export-cloud-policy.png)
+        ![Export icon for a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/export-cloud-policy.png)
 
         The instance generates an update set.
 
@@ -44,7 +44,7 @@ Role required: sn\_cmp.cloud\_admin or admin.
     **Note:** If the policy that you exported from the source environment exists in the target environment, and the policies have different sys\_ids, then an error occurs during the import process. You must export a different policy from the source environment or delete the policy with the same name in the target environment.
 
 
-**Parent Topic:**[Policies for Cloud Provisioning](../concept/cloud-policy.md)
+**Parent Topic:**[Policies for Cloud Provisioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-policy.md)
 
 **Related topics**  
 

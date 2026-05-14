@@ -37,7 +37,7 @@ Steps
 
 </td><td>
 
-1.  Open a project record in [project workspace](access-the-project-workspace.md).
+1.  Open a project record in [project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/access-the-project-workspace.md).
 2.  Select the **Planning** tab.
 3.  Select the **Planning Console** selection arrow on the banner and select **Project Workbench**.
 
@@ -56,16 +56,16 @@ Steps
 </table>    **Note:** If the project workbench opens with no associated sys\_id or an incorrect sys\_id, an error message appears. Select a project from the project choice list in project workspace banner.
 
 
-**Parent Topic:**[Using Project workbench - Legacy](../concept/c_ProjectWorkbench.md)
+**Parent Topic:**[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Components of project workbench](../concept/components-project-workbench.md)
+[Components of project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/components-project-workbench.md)
 
-[Project calculation](../concept/c_ProjectWorkbenchProjectCalc.md)
+[Project calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectWorkbenchProjectCalc.md)
 
-[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_UsingProjectWorkbench.md)
 
-[Using Project workbench - Legacy](../concept/c_ProjectWorkbench.md)
+[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectWorkbench.md)
 

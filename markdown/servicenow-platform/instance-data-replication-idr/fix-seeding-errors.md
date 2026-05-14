@@ -21,7 +21,7 @@ Role required: idr\_admin or admin
 
 ## About this task
 
-The maximum for a retry reseeding request is 10,000 errors. If you have more errors, perform a [full seeding](seed-consumer-instance.md).
+The maximum for a retry reseeding request is 10,000 errors. If you have more errors, perform a [full seeding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/seed-consumer-instance.md).
 
 **Note:** Seeding is not a replacement for cloning. Do not use IDR to clone instances.
 
@@ -38,7 +38,7 @@ Do not retry full seeding if you exceed any of the following limitations:
 
 2.  On the **Seeding Requests** tab of the Consumer Replication Set pane, select a seeding request that failed.
 
-    ![Seeding failure notification.](../image/failed-seeding-request.png)
+    ![Seeding failure notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/failed-seeding-request.png)
 
 3.  In the Seeding Request details, select the Payload Errors related list and examine the values in the Message column.
 
@@ -47,5 +47,5 @@ Do not retry full seeding if you exceed any of the following limitations:
     -   Retry seeding for all errors by selecting **Retry All Errors**.
     -   Retry seeding for specific errors by selecting the check box next to each error and then selecting **Retry Selected Errors**.
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/common-issues-idr.md)
 

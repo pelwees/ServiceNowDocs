@@ -19,7 +19,7 @@ Legacy cards
 
  Use legacy cards to show a summary of a record in an easy to read format. Legacy cards are the patterns that define the appearance and location of fields in an applet. Legacy cards are specific to a screen, each screen has its own unique legacy card record.
 
- Learn more about legacy cards at [Mobile hierarchy](mobile-hierarchy.md).
+ Learn more about legacy cards at [Mobile hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md).
 
 </td><td>
 
@@ -31,11 +31,11 @@ UI styles
 
  Use UI styles to dynamically change legacy card elements such as background color or font color. You can use UI styles to show or hide legacy card elements, and add icons next to an element within an legacy card.
 
- For more detail on UI styles, see [Mobile styles](sg-mobile-ui-styles.md).
+ For more detail on UI styles, see [Mobile styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-ui-styles.md).
 
 </td><td>
 
-![Example UI styles](../image/ui-styles.png)
+![Example UI styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/ui-styles.png)
 
 </td></tr><tr><td>
 
@@ -45,11 +45,11 @@ Mobile UI Rules
 
  In the example to the right, a UI style hides the **Impact** field based on conditions defined by an administrator.
 
- For more information on mobile UI rules, see [Mobile UI Rules](mobile-ui-rules.md).
+ For more information on mobile UI rules, see [Mobile UI Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-ui-rules.md).
 
 </td><td>
 
-![Fields made mandatory using screen UI policies](../image/screen-ui-policy-example-2.png)
+![Fields made mandatory using screen UI policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/screen-ui-policy-example-2.png)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Icons
 
  Use icons to provide unique visual identifiers for navigation tabs and quick actions in your mobile applications.
 
- To learn more about mobile icons, see [Mobile icons](../reference/sg-mobile-icon.md).
+ To learn more about mobile icons, see [Mobile icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-mobile-icon.md).
 
  **Note:** Custom mobile icons are not supported.
 

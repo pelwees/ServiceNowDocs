@@ -27,7 +27,7 @@ To modify the system properties, log in as a user with the `sn_si.admin` role an
 
 The default configuration settings are displayed. You can modify these settings if required.
 
-![Microsoft Graph Security API: Integration Settings](../image/ms-graph-intg-settings.png)
+![Microsoft Graph Security API: Integration Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-intg-settings.png)
 
 Any modified integration settings will be applied during the next polling interval as defined in the profile.
 

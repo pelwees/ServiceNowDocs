@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -33,7 +33,7 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 4.  To delete an automation, select the check box next to its name and then select **Delete**.
 
-    ![Delete automation option.](../image/delete-automation.png)
+    ![Delete automation option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/delete-automation.png)
 
 5.  In the confirmation window, select **Delete**.
 

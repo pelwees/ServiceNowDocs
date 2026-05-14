@@ -35,7 +35,7 @@ Role required: sn\_msi.workspace\_manager
 
 6.  Navigate to **Report subsection elements** &gt; **New**.
 
-    ![Sample Report subsection element template](../image/msim-status-subsection-element.png "Create Report subsection element template") ![]( "Create Report subsection element template")
+    ![Sample Report subsection element template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-status-subsection-element.png "Create Report subsection element template") ![]( "Create Report subsection element template")
 
 7.  On the Report subsection elements form, fill in the fields.
 
@@ -125,25 +125,25 @@ Provide a description to the subsection element type.
 </table>8.  Save and **Update** the new report template section.
 
 
--   **[Create a Free Form Type Element](create-free-form-type-element.md)**  
+-   **[Create a Free Form Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-free-form-type-element.md)**  
 Create a free form element type to define the free form text more declaratively with filter options such as assignment groups and labels.
--   **[Create a Visualization Type Element](create-visualization-type-element.md)**  
+-   **[Create a Visualization Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-visualization-type-element.md)**  
 Create a visualization element type to define the visualization elements more declaratively with filter options such as assignment groups and labels.
--   **[Create a List Type Element](create-list-type-element.md)**  
+-   **[Create a List Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-list-type-element.md)**  
 Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
--   **[Create a Custom Type Element](create-a-custom-type-element.md)**  
+-   **[Create a Custom Type Element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-a-custom-type-element.md)**  
 Create a list type element, which defines the related list elements more declaratively with filter options such as assignment groups and labels.
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Create a Report Template](create-report-template.md)
+[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
-[Create a Report Section Template](create-report-section-template.md)
+[Create a Report Section Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-section-template.md)
 
-[Create a Report Subsection Template](create-report-subsection-template.md)
+[Create a Report Subsection Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/adding-system-properties-to-your-status-reports.md)
 

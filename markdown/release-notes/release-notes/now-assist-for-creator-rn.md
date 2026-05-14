@@ -14,13 +14,13 @@ The ServiceNow® Now Assist for Creator application includes generative AI skill
 
 ## Now Assist for Creator highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-2.md)
 
 -   Upload brand guidelines as a PDF using the theme creation workflow to generate themes that align with your brand.
 -   The app generation and test generation plugins are being planned for deprecation in a future release.
--   Learn about Build Agent updates in the new [Build Agent release notes](build-agent-rn.md).
+-   Learn about Build Agent updates in the new [Build Agent release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-agent-rn.md).
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   Generate readable documentation throughout the app development lifecycle using the new release lifecycle documentation AI agent.
 -   Generate themes and color palettes from brand images using the new theme generation workflow in Theme Builder.
@@ -180,7 +180,7 @@ Install Now Assist for Creator by requesting it from the ServiceNow Store. Visit
     The ServiceNow® Workflow Studio application provides a single location to access all process automation applications.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../now-assist/now-assist-rn-landing.md)
 

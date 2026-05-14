@@ -26,24 +26,24 @@ Some views display an overall rating column, which lists categories used to eval
 
 Click a category to view the category record. Point to a category to display a line chart that shows the rating trend for that category.
 
-![Vendor scorecard trend chart](../../survey-administration/image/VendorScorecardTrendChart.png "Vendor scorecard trend chart")
+![Vendor scorecard trend chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/image/VendorScorecardTrendChart.png "Vendor scorecard trend chart")
 
-**Parent Topic:**[View an assessment scorecard](../task/t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Create a link to a scorecard](../task/t_CreateALinkToAScorecard.md)
+[Create a link to a scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateALinkToAScorecard.md)
 
-[Assessment scorecard averages](r_Averages.md)
+[Assessment scorecard averages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Averages.md)
 
-[Assessment scorecard categories](r_Categories.md)
+[Assessment scorecard categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_Categories.md)
 
-[Assessment scorecard category metrics](r_CategoryMetrics.md)
+[Assessment scorecard category metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryMetrics.md)
 
-[Assessment scorecard head-to-head compare view](r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_HeadToHeadCompare.md)
 
-[Assessment scorecard history](r_History.md)
+[Assessment scorecard history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_History.md)
 
-[Live feed view of assessable records](r_LiveFeed.md)
+[Live feed view of assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_LiveFeed.md)
 

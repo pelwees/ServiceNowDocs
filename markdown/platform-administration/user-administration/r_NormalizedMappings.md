@@ -31,5 +31,5 @@ The Normalized Mappings table lists all the discovered names and the normalized 
 |----|-----------|
 |Promote discovered name|Replaces the normalized name with the discovered name for the selected record and for all the records in its related mappings list.|
 
-**Parent Topic:**[Normalization data services](../concept/c_NormalizationOverview.md)
+**Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../concept/c_NormalizationOverview.md)
 

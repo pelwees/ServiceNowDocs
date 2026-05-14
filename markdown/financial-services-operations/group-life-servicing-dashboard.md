@@ -24,7 +24,7 @@ The Group Life Servicing dashboard enables you to monitor the status of the poli
 
 ## Access the Group Life Servicing dashboard
 
-To access the Group Life Servicing dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Group Life Servicing dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **All** &gt; **Group Life Servicing** &gt; **Analytics**.
 
@@ -123,5 +123,5 @@ Needs to be able to customize views.
 -   Group Life Rejection Reason
 -   Group Life Service
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

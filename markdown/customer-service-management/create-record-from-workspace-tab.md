@@ -21,7 +21,7 @@ Role required: sn\_customerservice\_agent,sn\_customerservice.consumer\_agent
 
 You can create records from the Add tab in CSM Configurable workspace. Select the plus sign \(**+**\) icon on the Add tab to see the list of records that can be created.
 
-![Select the plus sign on the Add tab in the session tabs to see the records that can be created.](../image/record-creation-from-add-tab-workspace.png "Record creation from Add tab")
+![Select the plus sign on the Add tab in the session tabs to see the records that can be created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/record-creation-from-add-tab-workspace.png "Record creation from Add tab")
 
 Users with the system administrator role can configure the types of records that appear in this list. The default is an interaction record. For more information about configuring the records that can be created from the Add tab, see [Configure record creation from the new tab menu in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-new-tab-records.md).
 

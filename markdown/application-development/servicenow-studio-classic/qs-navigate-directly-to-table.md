@@ -31,15 +31,15 @@ Video on how to navigate directly to a table in ServiceNow Studio
 
     -   In the Navigator panel, with any application or file category selected, select **Open list**.
 
-        The list opens in a new tab. In the example below, this is a list of all apps on the Custom Applications table \[sys\_app\].![Open any list on the platform by opening it in the Navigator and selecting Open list.](../image/sn-studio-open-list.png)
+        The list opens in a new tab. In the example below, this is a list of all apps on the Custom Applications table \[sys\_app\].![Open any list on the platform by opening it in the Navigator and selecting Open list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-open-list.png)
 
     -   In the Search bar, enter one of the inputs in the table below and press **Enter**. The table view opens in a new tab.
 
-        **Important:** The table name must match the name in the dictionary entry for the table. For more information about the primary table associated with each metadata type, see [ServiceNow Studio Navigator panel taxonomy](../reference/servicenow-studio-file-navigator-taxonomy.md).
+        **Important:** The table name must match the name in the dictionary entry for the table. For more information about the primary table associated with each metadata type, see [ServiceNow Studio Navigator panel taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-file-navigator-taxonomy.md).
 
         To find the primary table name for a metadata type, select the metadata type in the Navigator panel. The primary table name appears below it. In the following example, **sys\_hub\_action\_type\_definition** is the table name for the **Action** metadata type.
 
-        ![View the table name for a metadata type under the name.](../image/sn-studio-table-name.png)
+        ![View the table name for a metadata type under the name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-table-name.png)
 
         When you enter an input, the table view opens in a new tab.
 

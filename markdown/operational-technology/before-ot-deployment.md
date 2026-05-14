@@ -47,5 +47,5 @@ With OT Discovery, you can add layers of capabilities over time such as:
 
 ## Adding locations over time
 
-On a site-by-site level, you can add locations over time, such as deploying the Discovery Console for OT and the Discovery Sensor for OT at a pilot site. See the Console's [Sites page](sites-page.md) for more information.
+On a site-by-site level, you can add locations over time, such as deploying the Discovery Console for OT and the Discovery Sensor for OT at a pilot site. See the Console's [Sites page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/sites-page.md) for more information.
 

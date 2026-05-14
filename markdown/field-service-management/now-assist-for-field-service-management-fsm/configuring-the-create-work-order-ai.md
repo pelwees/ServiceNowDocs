@@ -37,7 +37,7 @@ The Create Work Order agentic workflow allows users to create work orders from t
 
 4.  Toggle the **Display** for the Now Assist panel so that it's turned on.
 
-    ![Create Work Order configuration screen with Display set to active.](../image/now-assist-create-wo-nap-display.png)
+    ![Create Work Order configuration screen with Display set to active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-create-wo-nap-display.png)
 
     You have enabled the agentic workflow in the Now Assist panel. If the option isn't available, you must enable the panel first. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
@@ -46,7 +46,7 @@ The Create Work Order agentic workflow allows users to create work orders from t
 
 ### Result
 
-The Create Work Order agentic workflow will appear in the Now Assist panel. The workflow can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order using Now Assist for Field Service Management \(FSM\)](../task/create-work-order-now-assist-fsm.md).
+The Create Work Order agentic workflow will appear in the Now Assist panel. The workflow can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order using Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../task/create-work-order-now-assist-fsm.md).
 
 ## Configure the Create Work Order AI Agent for the Now Assist Virtual Agent
 
@@ -70,7 +70,7 @@ The Create Work Order AI agent allows users to create work orders in the Service
 
 4.  Toggle the **Allow** slider for the Virtual Agent assistants so that it's turned on.
 
-    ![Create Work Order configuration screen with Allow set to active.](../image/now-assist-create-wo-nava-allow.png)
+    ![Create Work Order configuration screen with Allow set to active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-create-wo-nava-allow.png)
 
 5.  In the **Chat assistants** field, select **Now Assist Virtual Agent for FSM**.
 
@@ -79,5 +79,5 @@ The Create Work Order AI agent allows users to create work orders in the Service
 
 ### Result
 
-The Create Work Order AI agent will appear in the ServiceNow Agent mobile application. The agent can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order on ServiceNow Agent using Now Assist for Field Service Management \(FSM\)](../task/create-work-order-mobile-now-assist-fsm.md).
+The Create Work Order AI agent will appear in the ServiceNow Agent mobile application. The agent can be triggered by asking Now Assist to create a work order, or by selecting the Create Work Order button. For more information, see [Create a work order on ServiceNow Agent using Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../task/create-work-order-mobile-now-assist-fsm.md).
 

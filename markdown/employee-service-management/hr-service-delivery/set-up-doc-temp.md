@@ -21,8 +21,8 @@ You can activate the Document Templates application from ServiceNow Store.
 
 **Note:** PDF document template and HTML document template are available with the Document Templates application. For Word document Template, Contract Management Pro \(paid\) or Legal Service Delivery \(paid\) license is required.
 
--   To configure and use a PDF document template, see [Document Templates of type PDF \(Advanced forms\)](document-templates-PDF-flow.md).
--   To configure and use an HTML document template, see [Document Templates of type HTML](document-templates-flow-html.md).
+-   To configure and use a PDF document template, see [Document Templates of type PDF \(Advanced forms\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/document-templates-PDF-flow.md).
+-   To configure and use an HTML document template, see [Document Templates of type HTML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/document-templates-flow-html.md).
 
 ## Request apps on the Store
 

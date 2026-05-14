@@ -17,28 +17,28 @@ Exports enable you to push data from an instance to an external file. To dynamic
 
 <table id="table_all_rlp_gwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore.](../../../common/image/icon-explore.png) Learn about export sets concepts and features.](../../../administer/export-sets/concept/c_ExportSets.md)
+[Explore ![Explore.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-explore.png) Learn about export sets concepts and features.](../../../administer/export-sets/concept/c_ExportSets.md)
 
 </td><td>
 
-[Configure ![Configure.](../../../common/image/icon-set-up.png) Create export sets, definitions, targets, and schedule an export.](../../../administer/export-sets/task/t_CreateAnExportSet.md)
+[Configure ![Configure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-set-up.png) Create export sets, definitions, targets, and schedule an export.](../../../administer/export-sets/task/t_CreateAnExportSet.md)
 
 </td></tr><tr><td>
 
-[Use ![Use.](../../../common/image/icon-workspace.png) Learn how to export directly from a URL.](../../../administer/exporting-data/task/t_ExportDirectlyFromTheURL.md)
+[Use ![Use.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-workspace.png) Learn how to export directly from a URL.](../../../administer/exporting-data/task/t_ExportDirectlyFromTheURL.md)
 
 </td><td>
 
-[Reference ![Reference.](../../../common/image/icon-reference.png) Get details about export set properties.](../../../administer/export-sets/reference/r_ExportSetProperties.md)
+[Reference ![Reference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-reference.png) Get details about export set properties.](../../../administer/export-sets/reference/r_ExportSetProperties.md)
 
 </td></tr></tbody>
 </table>## Products
 
--   **[Export sets](../../../administer/export-sets/concept/c_ExportSets.md)**
+-   **[Export sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/export-sets/concept/c_ExportSets.md)**
 
     Export sets enable you to push data from an instance to an external file.
 
--   **[Export directly from a URL](../../../administer/exporting-data/task/t_ExportDirectlyFromTheURL.md)**
+-   **[Export directly from a URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/exporting-data/task/t_ExportDirectlyFromTheURL.md)**
 
     To dynamically export data from a script or web service, export data from the URL.
 

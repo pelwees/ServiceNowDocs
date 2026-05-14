@@ -17,7 +17,7 @@ You can use a Service Graph Connector to import and integrate third-party data i
 
 **Important:** Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/integrations%3FfreeTrial=service_graph_certified) website to view the latest list of all Service Graph Connectors.
 
-To learn more, see [Getting started with Service Graph Connectors](cmdb-sgc-intro.md).
+To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-intro.md).
 
 Select an application to learn about the Service Graph Connector available for ingesting data from the application into your CMDB.
 
@@ -25,19 +25,19 @@ Select an application to learn about the Service Graph Connector available for i
 
 <table id="table_t4z_2ww_3xb" class="nav-card"><tbody><tr><td>
 
-[AWS![AWS logo.](../image/sgc-aws.png)](cmdb-integration-aws-sg.md)
+[AWS![AWS logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-aws.png)](cmdb-integration-aws-sg.md)
 
 </td><td>
 
-[GCP ![GCP logo.](../image/sgc-gcp.png)](sgc-cmdb-integration-gcp.md)
+[GCP ![GCP logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-gcp.png)](sgc-cmdb-integration-gcp.md)
 
 </td><td>
 
-[Microsoft Azure ![Microsoft Azure logo.](../image/sgc-azure.png)](cmdb-integration-azure.md)
+[Microsoft Azure ![Microsoft Azure logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-azure.png)](cmdb-integration-azure.md)
 
 </td></tr><tr><td>
 
-[Wiz ![Wiz logo.](../image/sgc-wiz.png)](sgc-cmdb-integration-wiz.md)
+[Wiz ![Wiz logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-wiz.png)](sgc-cmdb-integration-wiz.md)
 
 </td><td>
 
@@ -52,85 +52,85 @@ Select an application to learn about the Service Graph Connector available for i
 
 <table id="table_s2w_h2k_jxb" class="nav-card"><tbody><tr><td>
 
-[Google Console![Google Console logo.](../image/sgc-gcp.png)](sgc-cmdb-google-console.md)
+[Google Console![Google Console logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-gcp.png)](sgc-cmdb-google-console.md)
 
 </td><td>
 
-[Jamf![Jamf logo.](../image/sgc-jamf.png)](cmdb-integration-jamf.md)
+[Jamf![Jamf logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-jamf.png)](cmdb-integration-jamf.md)
 
 </td><td>
 
-[Microsoft Intune![Microsoft Intune logo.](../image/sgc-intune.png)](cmdb-integration-intune.md)
+[Microsoft Intune![Microsoft Intune logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-intune.png)](cmdb-integration-intune.md)
 
 </td></tr><tr><td>
 
-[Microsoft SCCM![Microsoft SCCM logo.](../image/sgc-sccm.png)](cmdb-integration-sccm.md)
+[Microsoft SCCM![Microsoft SCCM logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-sccm.png)](cmdb-integration-sccm.md)
 
 </td><td>
 
-[Tanium ![Tanium logo.](../image/sgc-tanium.png)](cmdb-integration-tanium.md)
+[Tanium ![Tanium logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-tanium.png)](cmdb-integration-tanium.md)
 
 </td><td>
 
-[VMware Workspace ONE UEM![VMware Workspace ONE UEM logo.](../image/sgc-vmware-ws-one.png)](cmdb-integration-workspace-one.md)
+[VMware Workspace ONE UEM![VMware Workspace ONE UEM logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-vmware-ws-one.png)](cmdb-integration-workspace-one.md)
 
 </td></tr></tbody>
 </table>## Monitoring and observability applications
 
 <table id="table_cxb_32k_jxb" class="nav-card"><tbody><tr><td>
 
-[AppDynamics![AppDynamics logo.](../image/sgc-app-dynamics.png)](cmdb-integration-appdynamics.md)
+[AppDynamics![AppDynamics logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-app-dynamics.png)](cmdb-integration-appdynamics.md)
 
 </td><td>
 
-[Datadog![Datadog logo.](../image/sgc-datadog.png)](sgc-cmdb-integration-datadog.md)
+[Datadog![Datadog logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-datadog.png)](sgc-cmdb-integration-datadog.md)
 
 </td><td>
 
-[Dynatrace![Dynatrace logo.](../image/sgc-dynatrace.png)](cmdb-integration-dynatrace.md)
+[Dynatrace![Dynatrace logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-dynatrace.png)](cmdb-integration-dynatrace.md)
 
 </td></tr><tr><td>
 
-[OpenTelemetry![OpenTelemetry logo.](../image/sgc-opentelemetry.png)](sgc-cmdb-integration-opentelemetry.md)
+[OpenTelemetry![OpenTelemetry logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-opentelemetry.png)](sgc-cmdb-integration-opentelemetry.md)
 
 </td><td>
 
-[New Relic![New Relic logo.](../image/sgc-newrelic.png)](sgc-cmdb-integration-new-relic.md)
+[New Relic![New Relic logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-newrelic.png)](sgc-cmdb-integration-new-relic.md)
 
 </td><td>
 
-[SolarWinds ![SolarWinds logo.](../image/sgc-solarwinds.svg)](cmdb-integration-solarwinds.md)
+[SolarWinds ![SolarWinds logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-solarwinds.svg)](cmdb-integration-solarwinds.md)
 
 </td></tr></tbody>
 </table>## Security solutions
 
 <table id="table_ksj_4gw_tzb" class="nav-card"><tbody><tr><td>
 
-[Microsoft Defender for Endpoint ![Microsoft Defender for Endpoint logo.](../image/sgc-ms-defender.png)](sgc-cmdb-integration-msdefender.md)
+[Microsoft Defender for Endpoint ![Microsoft Defender for Endpoint logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-ms-defender.png)](sgc-cmdb-integration-msdefender.md)
 
 </td><td>
 
-[Microsoft Active Directory![Microsoft Active Directory logo.](../image/sgc-active-directory.png)](../../secops-integration-vr/ad-SGCs/concept/sgc-ad-integration.md)
+[Microsoft Active Directory![Microsoft Active Directory logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-active-directory.png)](../../secops-integration-vr/ad-SGCs/concept/sgc-ad-integration.md)
 
 </td><td>
 
-[Netskope![Netskope logo](../image/sgc-netskope.png)](../../secops-integration-vr/netskope-SGCs/concept/sgc-netskope-integration.md)
+[Netskope![Netskope logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-netskope.png)](../../secops-integration-vr/netskope-SGCs/concept/sgc-netskope-integration.md)
 
 </td></tr><tr><td>
 
-[Qualys![Qualys logo.](../image/sgc-qualys.png)](../../secops-integration-vr/qualys-SGCs/concept/sgc-qualys-integration.md)
+[Qualys![Qualys logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-qualys.png)](../../secops-integration-vr/qualys-SGCs/concept/sgc-qualys-integration.md)
 
 </td><td>
 
-[Rapid7![Rapid 7 logo.](../image/sgc-rapid7.png)](../../secops-integration-vr/rapid7-SGCs/concept/sgc-rapid7-integration.md)
+[Rapid7![Rapid 7 logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-rapid7.png)](../../secops-integration-vr/rapid7-SGCs/concept/sgc-rapid7-integration.md)
 
 </td><td>
 
-[Splunk![Splunk logo](../image/sgc-splunk.png)](../../secops-integration-vr/splunk-SGCs/concept/sgc-splunk-integration.md)
+[Splunk![Splunk logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-splunk.png)](../../secops-integration-vr/splunk-SGCs/concept/sgc-splunk-integration.md)
 
 </td></tr><tr><td>
 
-[Akamai API Security](sgc-integration-akamai.md)![Akamai API Security logo](../image/sgc-akamai.png)
+[Akamai API Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-integration-akamai.md)![Akamai API Security logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-akamai.png)
 
 </td><td>
 
@@ -145,11 +145,11 @@ Select an application to learn about the Service Graph Connector available for i
 
 <table id="table_vyy_h2k_jxb" class="nav-card"><tbody><tr><td>
 
-[Infoblox ![Infoblox logo.](../image/sgc-infoblox.png)](sgc-cmdb-integration-infoblox.md)
+[Infoblox ![Infoblox logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-infoblox.png)](sgc-cmdb-integration-infoblox.md)
 
 </td><td>
 
-[Trellix![Trellix logo.](../image/sgc-trellix.png)](sgc-integration-trellix.md)
+[Trellix![Trellix logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-trellix.png)](sgc-integration-trellix.md)
 
 </td><td>
 
@@ -160,19 +160,19 @@ Select an application to learn about the Service Graph Connector available for i
 
 <table id="table_ip4_44q_byb" class="nav-card"><tbody><tr><td>
 
-[Claroty CTD![Claroty CTD logo.](../image/sgc-claroty.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)
+[Claroty CTD![Claroty CTD logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-claroty.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)
 
 </td><td>
 
-[Microsoft Defender for IoT \(On-premises Management Console\)![A decorative graphic for Microsoft Defender for IoT on-premises management console.](../image/sgc-iot-onpremise.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-on-prem.md)
+[Microsoft Defender for IoT \(On-premises Management Console\)![A decorative graphic for Microsoft Defender for IoT on-premises management console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-iot-onpremise.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-on-prem.md)
 
 </td><td>
 
-[Microsoft Defender for IoT \(Azure\)![A decorative graphic for Microsoft Defender for IoT Azure graphic.](../image/sgc-iot-azure.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
+[Microsoft Defender for IoT \(Azure\)![A decorative graphic for Microsoft Defender for IoT Azure graphic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-iot-azure.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
 </td></tr><tr><td>
 
-[Operational Technology \(Excel import\)![Microsoft Excel logo.](../image/sgc-ms-excel.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/service-graph-connector-for-OT-excel.md)
+[Operational Technology \(Excel import\)![Microsoft Excel logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/sgc-ms-excel.png)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/service-graph-connector-for-OT-excel.md)
 
 </td><td>
 

@@ -17,7 +17,7 @@ Include or exclude KPIs and metrics as needed in your organization, and configur
 
 ## Before you begin
 
-To start collecting and reporting CMDB health KPIs and metrics, you must first [enable and configure the CMDB Health Dashboard jobs](t_EnableCMDBHealthDashboardJob.md).
+To start collecting and reporting CMDB health KPIs and metrics, you must first [enable and configure the CMDB Health Dashboard jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md).
 
 Role required: sn\_cmdb\_admin or itil\_admin \(on top of sn\_cmdb\_editor or itil\)
 
@@ -69,7 +69,7 @@ Create Task
 
 </td><td>
 
-If a CI fails the metric test, create a task with details about the failure. You can then view any generated tasks in the [CMDB Workspace store app](../concept/cmdb-workspace.md)or in [Service Graph Workspace store app](../concept/sg-workspace.md), and configure remediation for the task.
+If a CI fails the metric test, create a task with details about the failure. You can then view any generated tasks in the [CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-workspace.md)or in [Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/sg-workspace.md), and configure remediation for the task.
 
 </td></tr><tr><td>
 

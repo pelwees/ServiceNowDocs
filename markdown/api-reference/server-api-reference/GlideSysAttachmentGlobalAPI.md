@@ -21,7 +21,7 @@ Content is returned as a GlideScriptableInputStream object when getContentStream
 
 Methods that manage encryption contexts, cryptographic modules, or encryption state are available only in the global application. These APIs are intentionally restricted because they modify platform‑level security configuration.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideSysAttachment - GlideSysAttachment\(\)
 
@@ -31,14 +31,14 @@ Creates an instance of the GlideSysAttachment class.
 
 Use the following methods for managing attachment attributes:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
 <table id="table_iys_ctb_fv" class="parameters"><thead><tr><th>
 
@@ -110,15 +110,15 @@ Adds a single attribute to an existing attachment record.
 
 See also:
 
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -155,15 +155,15 @@ Adds multiple attributes to an attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addMultipleAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - addMultipleAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -283,15 +283,15 @@ Deletes all attributes from an existing attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -385,15 +385,15 @@ Deletes a specified attribute from attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - deleteAllAttributes\(String sysAttachmentID\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -445,15 +445,15 @@ Fetches all attributes from a specified attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAllAttributes\(String sysAttachmentID\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAllAttributes\(String sysAttachmentID\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -461,7 +461,7 @@ For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetch
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
+|[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The attachment record and all of its attributes.|
 
 The following example shows how to get all attributes assigned to a specified attachment.
 
@@ -490,15 +490,15 @@ Fetches a specified attribute from an attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAttribute\(String sysAttachmentID, String attrKey\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetchAttribute\(String sysAttachmentID, String attrKey\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -506,7 +506,7 @@ For the scoped equivalent of this method, use [Scoped GlideSysAttachment - fetch
 
 |Type|Description|
 |----|-----------|
-|[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
+|[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)|The GlideRecord of the attachment and the specified attribute.|
 
 The following example shows how to get an attachment attribute with the key `author`.
 
@@ -562,7 +562,7 @@ Output:
 
 Returns a GlideScriptableInputStream object given the sys\_id of an attachment.
 
-You can use the [GlideTextReader](../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#) API to read the content stream.
+You can use the [GlideTextReader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideTextReaderScoped/concept/c_GlideTextReaderScopedAPI.md#) API to read the content stream.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -591,15 +591,15 @@ Updates all the attributes for an existing attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAllAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAllAttributes\(String sysAttachmentID, Object attrsKeyValuePair\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 <table id="table_rql_3mg_5fc" class="parameters"><thead><tr><th>
 
@@ -673,15 +673,15 @@ Updates a single attribute for an existing attachment record.
 
 See also:
 
--   [addAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [addMultipleAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [deleteAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [fetchAttribute\(\)](GlideSysAttachmentGlobalAPI.md#)
--   [updateAllAttributes\(\)](GlideSysAttachmentGlobalAPI.md#)
+-   [addAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [addMultipleAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [deleteAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [fetchAttribute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
+-   [updateAllAttributes\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideSysAttachmentGlobalAPI.md#)
 
-For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
+For the scoped equivalent of this method, use [Scoped GlideSysAttachment - updateAttribute\(String sysAttachmentID, String attrKey, String attrValue\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSysAttachmentScoped/concept/c_GlideSysAttachmentScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

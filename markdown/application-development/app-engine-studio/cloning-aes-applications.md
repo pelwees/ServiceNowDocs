@@ -116,5 +116,5 @@ ServiceNow provides several additional resources on cloning instances with App E
 **Note:** You must log in to ServiceNow University to access this resource.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring App Engine Studio and related apps](aes-setup.md)
+</table>**Parent Topic:**[Configuring App Engine Studio and related apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/aes-setup.md)
 

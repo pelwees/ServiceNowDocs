@@ -17,27 +17,27 @@ You can limit the number of concurrent interactive sessions for a user or role o
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-lcs.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-lcs.md)
 
- [Learn the features and business value of limit concurrent sessions.](explore-lcs.md)
+ [Learn the features and business value of limit concurrent sessions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-lcs.md)
 
 </td><td>
 
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/limit-concurrent-sessions-plugin.md)
+[Activate![Activate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/limit-concurrent-sessions-plugin.md)
 
- [Understand how to Activate limit concurrent sessions.](../task/limit-concurrent-sessions-plugin.md)
+ [Understand how to Activate limit concurrent sessions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/limit-concurrent-sessions-plugin.md)
 
 </td></tr><tr><td>
 
-[Set![Set](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/set-session-limit-user-role.md)
+[Set![Set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/set-session-limit-user-role.md)
 
- [Set the limit concurrent sessions for a user or role.](../task/set-session-limit-user-role.md)
+ [Set the limit concurrent sessions for a user or role.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/set-session-limit-user-role.md)
 
 </td><td>
 
-[Disable![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](../task/disable-session-limit-user-role.md)
+[Disable![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-learn.svg)](../task/disable-session-limit-user-role.md)
 
- [Know about the how to disable limit concurrent sessions.](../task/disable-session-limit-user-role.md)
+ [Know about the how to disable limit concurrent sessions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/disable-session-limit-user-role.md)
 
 </td></tr></tbody>
 </table>

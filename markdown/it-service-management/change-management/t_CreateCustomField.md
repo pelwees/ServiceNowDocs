@@ -40,7 +40,7 @@ Role required: admin
 
     1.  Use the up and down arrows next to the slushbucket to move the new field next to the **Assigned to** field.
 
-        ![Needs Review field placement](../image/NewStateTutCustFld2.png)
+        ![Needs Review field placement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/NewStateTutCustFld2.png)
 
     2.  Select **Save**.
 
@@ -69,9 +69,9 @@ Role required: admin
     The Change Request form reopens. The **Needs review** field displays **–- None --**.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Create a new choice](t_CreateNewChoice.md)
+**Previous topic:**[Create a new choice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateNewChoice.md)
 
-**Next topic:**[Add a UI policy](t_AddUIPolicy.md)
+**Next topic:**[Add a UI policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddUIPolicy.md)
 

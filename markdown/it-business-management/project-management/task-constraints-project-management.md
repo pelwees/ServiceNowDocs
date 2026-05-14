@@ -31,36 +31,36 @@ When a task has both a dependency and a constraint, the behavior depends on the 
 -   Semi-flexible constraints enforce the date boundary. If the predecessor finishes before the constraint date, the task waits until the constraint date is reached.
 -   Inflexible constraints override dependencies. The task is fixed to the specified date, regardless of when the predecessor finishes.
 
-**Parent Topic:**[Basics of Project Management](c_ProjectTasks.md)
+**Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
 
 **Related topics**  
 
 
-[Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
+[Parent-child rollup task calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectTask.md)
 
-[Schedule conflicts between project tasks](scheduling-conflicts.md)
+[Schedule conflicts between project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduling-conflicts.md)
 
-[Change requests and project tasks](c_ChangeRequestsAndProjectTasks.md)
+[Change requests and project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ChangeRequestsAndProjectTasks.md)
 
-[Project task checklists](c_project-task-checklists.md)
+[Project task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_project-task-checklists.md)
 
-[Task resources](c_TaskResources.md)
+[Task resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TaskResources.md)
 
-[Project and project task states](project-and-project-task-states.md)
+[Project and project task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-and-project-task-states.md)
 
-[Composite Fields](pm-composite-fields.md)
+[Composite Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/pm-composite-fields.md)
 
-[Cost plan breakdown](cost-plan-breakdown.md#)
+[Cost plan breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md#)
 
-[Actual project costs](actual-project-costs.md)
+[Actual project costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/actual-project-costs.md)
 
-[Types of external dependencies](external-dependency-types.md)
+[Types of external dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
 
-[Project scheduling in Project Management](project-scheduling.md)
+[Project scheduling in Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-scheduling.md)
 
-[Apply or change a task constraint](../task/change-task-constraint-project-management.md)
+[Apply or change a task constraint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/change-task-constraint-project-management.md)
 

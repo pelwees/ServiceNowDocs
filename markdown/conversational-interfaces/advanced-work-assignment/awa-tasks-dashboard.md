@@ -15,9 +15,9 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor Task \[task\] work items so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../application-content-packs/concept/awa-content-pack.md).
 
-![The dashboard displays indicators and reports to track agent tasks with customers](../../../administer/advanced-work-assignment/image/AWATasks-update.png "AWA dashboard for Tasks")
+![The dashboard displays indicators and reports to track agent tasks with customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/AWATasks-update.png "AWA dashboard for Tasks")
 
 ## End users and roles
 
@@ -119,5 +119,5 @@ For more information on analyzing data with breakdowns, see [Using breakdowns on
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Average Task Wait Time - Last Hour|Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)|Average amount of time in the past hour that customers have spent waiting for an agent response.|
+|Average Task Wait Time - Last Hour|Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)|Average amount of time in the past hour that customers have spent waiting for an agent response.|
 

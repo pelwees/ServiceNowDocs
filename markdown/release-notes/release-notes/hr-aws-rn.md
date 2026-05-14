@@ -58,5 +58,5 @@ Install Agent Workspace for HR Case Management by requesting it from the Service
     Summarize case information, generate resolution notes, and summarize chat information using GenAI capabilities. Enable your agents to understand the chat and case context and to propose quicker resolutions to requesters.
 
 
-**Parent Topic:**[HR Service Delivery release notes](hr-service-delivery-landing.md)
+**Parent Topic:**[HR Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md)
 

@@ -21,7 +21,7 @@ Use the BOM Types to Include in Save Request admin setting to add additional BOM
 
 Use the Push BOM Data to Logik Salesforce Object admin setting to configure BOM items to be passed back and written into Salesforce as configuration line items.
 
-To learn how to add additional BOM types to a Save request and to configure BOM items to be written to Salesforce as configuration line items, see [CPQ admin settings](cpq-admin-settings.md).
+To learn how to add additional BOM types to a Save request and to configure BOM items to be written to Salesforce as configuration line items, see [CPQ admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-admin-settings.md).
 
 To add multiple product lists to a layout, use tiers to separate the additional BOMs. Product lists can be added by editing the layout CSV file and importing it. For information about displaying multiple BOMs in a layout, view the following video:
 
@@ -29,7 +29,7 @@ To add multiple product lists to a layout, use tiers to separate the additional 
 
 ## Multiple bills of material: CSV setup
 
-![CSV setup](../images/cpq-multiple-boms-csv-setup.png)
+![CSV setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-multiple-boms-csv-setup.png)
 
 1.  The first product list uses the same format as the default product list included in layouts
 2.  The value for this product list determines that this will display in a modal window and with type:all will contain all of the BOM items
@@ -43,7 +43,7 @@ See this [sample layout CSV](https://docs.google.com/spreadsheets/d/1vTouzEdkHaB
 
 ## Multiple bills of material: layout editor
 
-![CSV setup](../images/cpq-multiple-boms-layout-editor.png)
+![CSV setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-multiple-boms-layout-editor.png)
 
 1.  Display of the manufacturing BOM product list in the layout editor in a tier
 2.  Display of the sales BOM product list in the layout editor in a tier
@@ -51,7 +51,7 @@ See this [sample layout CSV](https://docs.google.com/spreadsheets/d/1vTouzEdkHaB
 
 ## Final configuration experience
 
-![CSV setup](../images/cpq-multiple-boms-final-config.png)
+![CSV setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-multiple-boms-final-config.png)
 
 1.  Manufacturing product list, only displaying the manufacturing bomType products
 2.  Sales BOM product list, only displaying the sales bomType products
@@ -60,5 +60,5 @@ See this [sample layout CSV](https://docs.google.com/spreadsheets/d/1vTouzEdkHaB
 **Related topics**  
 
 
-[Customizing the currency display in the shopping cart](layout_how_do_i_customize_currency_display_in_shopping_cart.md)
+[Customizing the currency display in the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_currency_display_in_shopping_cart.md)
 

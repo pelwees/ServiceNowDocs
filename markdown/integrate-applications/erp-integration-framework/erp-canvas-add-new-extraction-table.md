@@ -18,7 +18,7 @@ Create an ERP \(Enterprise Resource Planning\) extraction table to capture large
 
 ## Before you begin
 
-You must first configure the source table, target table, and table transform map before those tables can be added to an ERP extraction table. For more information on creating table transform maps, see [Create a transform map](../../../script/server-scripting/task/t_CreateATransformMap.md).
+You must first configure the source table, target table, and table transform map before those tables can be added to an ERP extraction table. For more information on creating table transform maps, see [Create a transform map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../script/server-scripting/task/t_CreateATransformMap.md).
 
 Role required: sn\_erp\_integration.erp\_admin
 
@@ -36,14 +36,14 @@ You can create multiple ERP extraction tables, and multiple extraction tables ca
 
 3.  Select the **New** button.
 
-    ![New extraction table fields.](../image/erpc-new-extraction-table.png)
+    ![New extraction table fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-new-extraction-table.png)
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values, see [Zero Copy Connector for ERP extraction table field descriptions](../reference/erp-canvas-extraction-table-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP extraction table field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-extraction-table-descriptions.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-extraction-tables.md)
 

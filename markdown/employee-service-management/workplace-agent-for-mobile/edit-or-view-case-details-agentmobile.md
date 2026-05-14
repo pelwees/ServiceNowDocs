@@ -25,7 +25,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 The application enables you to edit any type of workplace case such as a regular workplace case, maintenance case, move case, space configuration case, and reservation case.
 
-For information about all the details, related lists and actions that are available on a case details page, refer to [Workplace Agent for mobile - Key features, actions, and case details](../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md).
+For information about all the details, related lists and actions that are available on a case details page, refer to [Workplace Agent for mobile - Key features, actions, and case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md).
 
 ## Procedure
 
@@ -61,7 +61,7 @@ For information about all the details, related lists and actions that are availa
 
     1.  Select **Comment**.
 
-        You can also select the ![more options icon.](../images/wsdagentmob-actions.png) icon on the top-right of the header and select **Add comment**.
+        You can also select the ![more options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../images/wsdagentmob-actions.png) icon on the top-right of the header and select **Add comment**.
 
     2.  On the Add Comment page, enter your notes and comments in the **Work notes** and **Additional comments \(Customer visible\)** fields respectively.
 
@@ -69,7 +69,7 @@ For information about all the details, related lists and actions that are availa
 
         The comment is posted on the case.
 
-6.  To perform other actions, select the ![more options icon.](../images/wsdagentmob-actions.png) icon on the top right of the header and do the following:
+6.  To perform other actions, select the ![more options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../images/wsdagentmob-actions.png) icon on the top right of the header and do the following:
 
     1.  To attach a knowledge base article, select **Attach Knowledge**.
 
@@ -79,7 +79,7 @@ For information about all the details, related lists and actions that are availa
 
     2.  To create a child task, select **Create task**.
 
-        1.  On the Create a task form, enter the details. For more information, refer to [Create a child task](create-a-child-task-agentmobile.md).
+        1.  On the Create a task form, enter the details. For more information, refer to [Create a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md).
         2.  Select **Submit**.
         The child task is created for the case.
 
@@ -96,30 +96,30 @@ For information about all the details, related lists and actions that are availa
     5.  To view, add, or edit the attachments, select **View attachments**.
 
         1.  On the Attachment page, view the list of attachments.
-        2.  To edit an attachment, select the ![Edit icon.](../images/wsdagentmob-editattach.png) icon.
-        3.  To delete an attachment, select the ![Delete icon.](../images/wsdagentmob-deleteicon.png) icon.
+        2.  To edit an attachment, select the ![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../images/wsdagentmob-editattach.png) icon.
+        3.  To delete an attachment, select the ![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../images/wsdagentmob-deleteicon.png) icon.
         4.  To preview an image, select the image directly.
-7.  To save the case for quick reference, select the ![Quick reference icon.](../images/wsdagentmob-saveicon.png) icon.
+7.  To save the case for quick reference, select the ![Quick reference icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../images/wsdagentmob-saveicon.png) icon.
 
     The case is saved. You can select the **Saved** tab at the bottom of the screen to view the case.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../concept/use-workplace-agent-mobile.md)
 
 **Related topics**  
 
 
-[Manage workplace cases and tasks](manage-workplace-cases-and-tasks-assigned-to-you-agentmobile.md)
+[Manage workplace cases and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/manage-workplace-cases-and-tasks-assigned-to-you-agentmobile.md)
 
-[Print workplace cases](print-workplace-cases-mobile.md)
+[Print workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-cases-mobile.md)
 
-[Print workplace tasks](print-workplace-tasks-mobile.md)
+[Print workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-tasks-mobile.md)
 
-[Create a child task](create-a-child-task-agentmobile.md)
+[Create a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md)
 
-[Create a workplace case on behalf of an employee through Workplace Agent for mobile](create-agentcase-mobile.md)
+[Create a workplace case on behalf of an employee through Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-agentcase-mobile.md)
 
-[Edit or view a child task](edit-or-view-a-child-task-agentmobile.md)
+[Edit or view a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-a-child-task-agentmobile.md)
 
-[Offline mode](offline-mode.md)
+[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/offline-mode.md)
 

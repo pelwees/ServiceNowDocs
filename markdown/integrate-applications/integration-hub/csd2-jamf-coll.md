@@ -43,5 +43,5 @@ Perform these steps for the Jamf applications and policies.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[CSD 2.0 for Jamf](../concept/csd2-jamf-tsk.md)
+**Parent Topic:**[CSD 2.0 for Jamf](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd2-jamf-tsk.md)
 

@@ -19,7 +19,7 @@ For more information on creating work order tasks, see .
 
 For more information on Work order task start and end dates, see .
 
-**Parent Topic:**[Create a facilities request task](../task/t_CreateAFacilitiesRequestTask.md)
+**Parent Topic:**[Create a facilities request task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../task/t_CreateAFacilitiesRequestTask.md)
 
-**Parent Topic:**[Request task management](../concept/c_RequestTasksMgmt.md)
+**Parent Topic:**[Request task management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_RequestTasksMgmt.md)
 

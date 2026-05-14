@@ -15,7 +15,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 The objects in the conceptual CSDM framework must map to the physical model objects \(CIs and CI class tables\) in the CMDB. You can navigate in the platform to see dictionary attributes.
 
-![Conceptual-to-physical mapping CSDM to CMDB.](../image/csdm-data-to-table-mapping.png)
+![Conceptual-to-physical mapping CSDM to CMDB.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-data-to-table-mapping.png)
 
 Business Application data belongs in the cmdb\_ci\_business\_app table, and not in the cmdb\_ci\_app table.
 
@@ -31,10 +31,10 @@ In contrast, in sys\_choice inheritance definitions in child tables override the
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
-**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-reference.md)
 
 **Related topics**  
 
 
-[CSDM resources](../reference/csdm-resources.md)
+[CSDM resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../reference/csdm-resources.md)
 

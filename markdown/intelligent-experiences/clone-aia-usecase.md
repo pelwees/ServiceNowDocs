@@ -24,7 +24,7 @@ Duplicate the agentic workflows to do the following tasks:
 -   Duplicate the record.
 -   Disallow any agentic workflows with existing names.
 
-Custom columns, such as the Tools and Knowledge sources, Status, and a column with the Duplicate icon \(![Duplicate icon.](../image/ai-agents-clone-icon.png)\) are available for agentic workflows list.
+Custom columns, such as the Tools and Knowledge sources, Status, and a column with the Duplicate icon \(![Duplicate icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-agents-clone-icon.png)\) are available for agentic workflows list.
 
 **Note:** Selecting the Duplicate icon duplicates the selected agentic workflow.
 
@@ -36,12 +36,12 @@ Custom columns, such as the Tools and Knowledge sources, Status, and a column wi
 
     |Current location|Navigation option|
     |----------------|-----------------|
-    |**Manage agentic workflows and AI agents page**|On the agentic workflows list, select the duplicate icon \(![Duplicate icon.)](../image/ai-agents-clone-icon.png)\) for the agentic workflow that you would like to duplicate.|
-    |**AI agent form**|Open the agentic workflow that you want to duplicate, select the menu icon \(![Menu icon.](../image/three-dots-icon.png)\) next to **Exit** on the Describe and instruct form, and select **Duplicate**.|
+    |**Manage agentic workflows and AI agents page**|On the agentic workflows list, select the duplicate icon \(![Duplicate icon.)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ai-agents-clone-icon.png)\) for the agentic workflow that you would like to duplicate.|
+    |**AI agent form**|Open the agentic workflow that you want to duplicate, select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/three-dots-icon.png)\) next to **Exit** on the Describe and instruct form, and select **Duplicate**.|
 
     You see a confirmation message in a pop-up window.
 
-    ![Confirmation pop-up window that asks you to either duplicate the agentic workflow or cancel the action.](../image/clone-use-case-confirm.png)
+    ![Confirmation pop-up window that asks you to either duplicate the agentic workflow or cancel the action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/clone-use-case-confirm.png)
 
 3.  Create a copy of the agentic workflow with the same information from the original agentic workflow's record by selecting **Duplicate**.
 

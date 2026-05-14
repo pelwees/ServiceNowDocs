@@ -193,7 +193,7 @@ ${CloudScript.scripts.DestroyTerraform}
 
 15. From the Operation list, select the **CreateStack** or **DeleteStack** operation.
 
-16. Click the add icon![Add Response Processor](../image/add-button.png)for **Add Response Processor**.
+16. Click the add icon![Add Response Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/add-button.png)for **Add Response Processor**.
 
 17. Click the **Resource Script** sub tab, and then click **New**.
 
@@ -269,5 +269,5 @@ function processResponse (response, cloudServiceAccountId, ldc,
     The datacenter resource block moves from the draft to the published state and you cannot make further changes to the resource block. You can only modify a resource block after you set the status to **Draft**.
 
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

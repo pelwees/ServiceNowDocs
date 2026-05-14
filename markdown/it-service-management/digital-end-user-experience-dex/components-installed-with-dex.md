@@ -155,8 +155,8 @@ CI Device Configuration\[dex\_ci\_device\_config\]
 
 </td><td>
 
-Table that stores the device configuration data including the logged-in user information.For information on the related policies and check definitions, see [DEX Content Playbook reference](dex-content-playbook-reference.md).
+Table that stores the device configuration data including the logged-in user information.For information on the related policies and check definitions, see [DEX Content Playbook reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
+</table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 

@@ -15,9 +15,9 @@ Add theme-able empty state images to customize empty states and improve the user
 
 When a component or a part of your Next Experience web page doesn’t contain data, an empty state image appears. Empty state images are theme-able, and adapt to the theme colors of your instance.
 
-![No data available empty state image.](../image/empty-state-no-data-available.png "Empty state image")
+![No data available empty state image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/empty-state-no-data-available.png "Empty state image")
 
-There are 12 empty state image types available, each including a small, medium, and large version. When creating a theme using Theme Builder a UX Styles Imagery record is created however, the record is empty. In this case, your theme defaults to using a base system empty state theme-able images. If you choose to override these images, see [Customize theme-able empty state images for your theme](../task/customize-themeable-empty-state-images.md).
+There are 12 empty state image types available, each including a small, medium, and large version. When creating a theme using Theme Builder a UX Styles Imagery record is created however, the record is empty. In this case, your theme defaults to using a base system empty state theme-able images. If you choose to override these images, see [Customize theme-able empty state images for your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/customize-themeable-empty-state-images.md).
 
 You can insert an empty state image into your custom experience by using the Illustration component in UI Builder. The Illustration component displays all available empty state images. For more information on the Illustration component, see [Horizon Design System Empty State](https://horizon.servicenow.com/components/now-template-message-empty-state).
 
@@ -27,48 +27,48 @@ You can also add custom images using the Custom Illustration component in UI Bui
 
 The following images represent the No Search Results empty state image along with the theme hooks required for each variation.
 
-![No Search Results empty state image, accent solid variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-accent-solid.png "No Search Results (accent solid)")
+![No Search Results empty state image, accent solid variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-accent-solid.png "No Search Results (accent solid)")
 
 The theme hook required for this variation is `$now-color_interactive-1`.
 
-![No Search Results empty state image, accent outline variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-accent-outline.png "No Search Results (accent outline)")
+![No Search Results empty state image, accent outline variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-accent-outline.png "No Search Results (accent outline)")
 
 The theme hook required for this variation is `$now-color_interactive-3`.
 
-![No Search Results empty state image, subtle outlines variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-subtle-outlines.png "No Search Results (subtle outlines)")
+![No Search Results empty state image, subtle outlines variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-subtle-outlines.png "No Search Results (subtle outlines)")
 
 The theme hook required for this variation is `$now-color_border-secondary`.
 
-![No Search Results empty state image, subject dark detail variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-dark-detail.png "No Search Results (subject dark detail)")
+![No Search Results empty state image, subject dark detail variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-dark-detail.png "No Search Results (subject dark detail)")
 
 The theme hook required for this variation is `$now-color_border-tertiary`.
 
-![No Search Results empty state image, subject light detail variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-light-detail.png "No Search Results (subject light detail)")
+![No Search Results empty state image, subject light detail variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-light-detail.png "No Search Results (subject light detail)")
 
 The theme hook required for this variation is `$now-color_background-secondary`.
 
-![No Search Results empty state image, subject fill variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-subject-fill.png "No Search Results (subject fill)")
+![No Search Results empty state image, subject fill variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-subject-fill.png "No Search Results (subject fill)")
 
 The theme hook required for this variation is `$now-color_background-primary`.
 
-![No Search Results empty state image, subject outline variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-subject-outline.png "No Search Results (subject outline)")
+![No Search Results empty state image, subject outline variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-subject-outline.png "No Search Results (subject outline)")
 
 The theme hook required for this variation is `$now-color_border-secondary`.
 
-![No Search Results empty state image, subject shadows variation. For the text description, refer to the theme hook information that follows.](../image/tb-no-search-results-subject-shadows.png "No Search Results (subject shadows)")
+![No Search Results empty state image, subject shadows variation. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-no-search-results-subject-shadows.png "No Search Results (subject shadows)")
 
 The theme hook required for this variation is `$now-color_border-secondary`.
 
 ## Empty state light mode tokens
 
-![Main object empty state image. For the text description, refer to the theme hook information that follows.](../image/tb-empty-state-main-object.png "Main Object empty state image")
+![Main object empty state image. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-empty-state-main-object.png "Main Object empty state image")
 
 The theme hooks used to override the main object empty state image.
 
 -   now-illustration--empty-state--main-object--outline
 -   now-illustration--empty-state--main-object--fill
 
-![Primary object empty state image. For the text description, refer to the theme hook information that follows.](../image/tb-empty-state-primary-object.png "Primary object empty state image")
+![Primary object empty state image. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-empty-state-primary-object.png "Primary object empty state image")
 
 The theme hooks used to override the primary object empty state image.
 
@@ -79,7 +79,7 @@ The theme hooks used to override the primary object empty state image.
 -   now-illustration--empty-state--primary-object--detail
 -   now-illustration--empty-state--primary-object--shadow
 
-![Tertiary object empty state image. For the text description, refer to the theme hook information that follows.](../image/tb-empty-state-tertiary-object.png "Tertiary object empty state image")
+![Tertiary object empty state image. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-empty-state-tertiary-object.png "Tertiary object empty state image")
 
 The theme hooks used to override the tertiary object empty state image.
 
@@ -90,7 +90,7 @@ The theme hooks used to override the tertiary object empty state image.
 -   now-illustration--empty-state--tertiary-object--detail
 -   now-illustration--empty-state--tertiary-object--shadow
 
-![Background empty state image. For the text description, refer to the theme hook information that follows.](../image/tb-empty-state-background.png "Background empty state image")
+![Background empty state image. For the text description, refer to the theme hook information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-empty-state-background.png "Background empty state image")
 
 The theme hooks used to override the background empty state image.
 
@@ -290,8 +290,8 @@ Background object
 ```
 
 </td></tr></tbody>
-</table>-   **[Customize theme-able empty state images for your theme](../task/customize-themeable-empty-state-images.md)**  
+</table>-   **[Customize theme-able empty state images for your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/customize-themeable-empty-state-images.md)**  
 Customize default theme-able empty state images for your Next Experience and Theme Builder themes using the theme's Imagery record.
 
-**Parent Topic:**[Working with themes in Next Experience](next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 

@@ -22,9 +22,9 @@ Each set of controls performs specific functions in a conversation flow.
 |--------|-----------|
 |Start segment|Appears automatically in a topic flow and cannot be added to or removed from a conversation. This control can be configured with a greeting response that appears when a conversation begins.|
 |End segment|Appears automatically in a topic flow and cannot be added to or removed from a conversation. This control can be configured with a final confirmation message before the end of a conversation. Ensure that all branches of your topic eventually connect to this control.|
-|[User Input](../reference/va-user-inputs.md)|Prompts and captures information from the user in a conversation.|
-|[Bot Response](../reference/va-bot-responses.md)|Displays bot responses in a conversation.|
-|[Utilities](../reference/va-utilities.md)|Handles actions and logic within a topic, such as running a script or adding different conversation paths \(branches\) in a topic. You can also use them to call automated Workflow Studio workflows.|
+|[User Input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-user-inputs.md)|Prompts and captures information from the user in a conversation.|
+|[Bot Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-bot-responses.md)|Displays bot responses in a conversation.|
+|[Utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-utilities.md)|Handles actions and logic within a topic, such as running a script or adding different conversation paths \(branches\) in a topic. You can also use them to call automated Workflow Studio workflows.|
 
 For controls that have prompts, messages, default values, or confirmation messages, you can enter any of the following input values:
 
@@ -41,10 +41,10 @@ Using data pills enables you to quickly and easily access the data in your varia
 
 |Method|Result|
 |------|------|
-|Data pill|![Data pill selector, showing Input Variables and Script Variables options.](../images/va-data-pill-selector.png)|
-|![Data pill selector showing a text control.](../images/va-data-pill-result.png)|
-|Script|![An example text control showing a dynamic scripted entry.](../images/va-script-entry.png)|
-|![A text control showing a dynamic scripted response message.](../images/va-script-result.png)|
+|Data pill|![Data pill selector, showing Input Variables and Script Variables options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-data-pill-selector.png)|
+|![Data pill selector showing a text control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-data-pill-result.png)|
+|Script|![An example text control showing a dynamic scripted entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-script-entry.png)|
+|![A text control showing a dynamic scripted response message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-script-result.png)|
 
 The first example uses the data pill selector to choose **Get Name**, an input variable that contains the name of the customer. The second example accomplishes the same thing using a script. The script example also uses `gs.getMessage` to handle translating the message.
 
@@ -80,10 +80,10 @@ Sample script for conditionally showing the node:
 
 </td><td>
 
-![Sample condition builder defining User with data pill selector set to Input Variables for User.](../images/va-condition-builder.png)
+![Sample condition builder defining User with data pill selector set to Input Variables for User.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-condition-builder.png)
 
 </td></tr></tbody>
 </table>In this example, a condition script returns a value of true if the current user is able to create incident records. This condition prevents a utilities control from creating an incident when the user does not have permission to do so.
 
-**Parent Topic:**[Assistant Designer interface reference](vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-reference.md)
 

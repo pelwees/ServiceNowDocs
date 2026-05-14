@@ -24,5 +24,5 @@ The following table outlines the structure and modularity of the golden image mo
 |**Certificate handling**|cert wip|skip restore|cert wipe|
 |**Runtime state**|Cache and database wipe|skip restore|Cache and database wipe|
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

@@ -41,5 +41,5 @@ The **Applications** tab lists all the applications on the job requisition and t
 
 The **Interview phases** tab lists all the interview phases set up for the job requisition and their respective details.
 
-**Parent Topic:**[Using Hiring](use-hiring.md)
+**Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 

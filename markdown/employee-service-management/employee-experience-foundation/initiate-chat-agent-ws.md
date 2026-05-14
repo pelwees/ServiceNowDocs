@@ -23,7 +23,7 @@ Role required: user with access to the respective records
 
 1.  Navigate to an open ticket in your ServiceNow instance.
 
-2.  Click ![Start chat button](../images/start-chat-agent-workspace.png).
+2.  Click ![Start chat button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/start-chat-agent-workspace.png).
 
     The chat will be initiated with the requester in Microsoft Teams.
 
@@ -100,10 +100,10 @@ Option to choose the default chat client.
 
     The Microsoft Teams app displays the chat title and the opening message provided by the agent.
 
-    ![Chat conversation](../images/chat-conversation-ms-teams.png)
+    ![Chat conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-conversation-ms-teams.png)
 
     The system captures the work notes about the chat details.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat from Workspace](../concept/initiate-chat-agent-workspace.md)
+**Parent Topic:**[Request-based chat - Start and import chat from Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/initiate-chat-agent-workspace.md)
 

@@ -21,13 +21,13 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 When the failure code received by the customer is 200, the path that leads to the Reassign case guidance is taken.
 
-![Path for 200 error code conditions](../image/ex-200-failure-code-path.png)
+![Path for 200 error code conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-200-failure-code-path.png)
 
-For more information about how to configure a path, see [Determine the next node displayed in a decision tree](configure-path-in-gdb.md).
+For more information about how to configure a path, see [Determine the next node displayed in a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-in-gdb.md).
 
 ## Procedure
 
-1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](../image/icon-add-path.png)\) on the Ask for failure codes question node.
+1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-add-path.png)\) on the Ask for failure codes question node.
 
     A new path and a new node are added to the canvas.
 

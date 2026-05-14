@@ -17,9 +17,9 @@ The NowTableService class provides functions that enable you to perform create, 
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
+|configuration|[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)|Configuration settings provided when the service was initialized.|
 
-**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 
 ## NowTableService - create&lt;Model: SysIdentifiableModel&gt;\(\_ model: Model, in tableName: String, coder: Coder, writeOptions: FieldWriteOptions, configuration: FetchConfiguration\) async throws
 
@@ -101,7 +101,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -113,7 +113,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -320,7 +320,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -332,7 +332,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -549,7 +549,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -561,7 +561,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -614,7 +614,7 @@ publisher
 
 Inserts a record in the specified table that contains the specified fields.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -665,7 +665,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -677,7 +677,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -784,7 +784,7 @@ do {
 
 Inserts the specified record in the specified table and then executes the **completion** handler after the record is saved.
 
-If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -835,7 +835,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -847,7 +847,7 @@ configuration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#)
+[FieldReadConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldReadConfiguration/concept/FieldReadConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -957,7 +957,7 @@ Inserts a record in the specified table that contains the specified fields.
 
 **Note:** This method has been deprecated. You should use the async/await implementation of the method instead.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -1008,7 +1008,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -1020,7 +1020,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -1837,7 +1837,7 @@ configuration
 
 </td><td>
 
-[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
+[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationiOSStruct.md#)
 
 </td><td>
 
@@ -1890,7 +1890,7 @@ Table API responses are nested inside a **result** parameter similar to the foll
 }
 ```
 
-For large result sets, use one of the paginator functions, [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) to fetch paginated models.
+For large result sets, use one of the paginator functions, [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) to fetch paginated models.
 
 <table id="table_nbq_yyj_spb" class="parameters"><thead><tr><th>
 
@@ -1976,7 +1976,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2186,7 +2186,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2316,7 +2316,7 @@ Table API responses are nested inside a **result** parameter similar to the foll
 }
 ```
 
-For large result sets, use one of the paginator functions, [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) to fetch paginated models.
+For large result sets, use one of the paginator functions, [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) or [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) to fetch paginated models.
 
 <table id="table_nbq_yyj_spb" class="parameters"><thead><tr><th>
 
@@ -2402,7 +2402,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2510,7 +2510,7 @@ let publisher: AnyPublisher<User, NowDataError> = service.model(with: "5137153cc
 
 Creates a paginator that enables iterating through pages of records.
 
-The paginator's publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The paginator's publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -2549,7 +2549,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2776,7 +2776,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -2879,7 +2879,7 @@ let paginator: Paginator<[User]> = service.paginator(from: "sys_user", path: "re
 
 Retrieves a specified record from the specified table on a ServiceNow instance.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -2928,7 +2928,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3040,14 +3040,14 @@ func fetchTableRecord(sysId: String, tableName: String, includeFields: [FieldNam
 
 Retrieves the specified record from the specified table and then executes a completion handler after the record is retrieved.
 
-If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
 let recordsPublisher: AnyPublisher<[NowRecord], NowDataError> = myResult.convertToRecords()
 ```
 
-For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function to fetch paginated results.
+For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function to fetch paginated results.
 
 <table id="table_fzv_fnj_ppb" class="parameters"><thead><tr><th>
 
@@ -3091,7 +3091,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3203,7 +3203,7 @@ Creates a publisher to retrieve a specified record from the specified table on a
 
 **Note:** This method has been deprecated. You should use the async/await implementation of the method instead.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -3252,7 +3252,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3359,14 +3359,14 @@ tableService.record(with: sysId, from: tableName, configuration: fetchConfigurat
 
 Retrieves records from the specified table.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
 let recordsPublisher: AnyPublisher<[NowRecord], NowDataError> = myPublisher.convertToRecords()
 ```
 
-For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function to fetch paginated results.
+For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function to fetch paginated results.
 
 <table id="id_rzw_lcj_ppb" class="parameters"><thead><tr><th>
 
@@ -3398,7 +3398,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3513,14 +3513,14 @@ func fetchTableRecords( tableName: String, filterQuery: String,
 
 Retrieves records from a specified table and then executes the **completion** handler after the records are retrieved.
 
-If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
 let recordsPublisher: AnyPublisher<[NowRecord], NowDataError> = myResult.convertToRecords()
 ```
 
-For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function to fetch paginated results.
+For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function to fetch paginated results.
 
 <table id="table_uvc_y2j_ppb" class="parameters"><thead><tr><th>
 
@@ -3552,7 +3552,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3664,14 +3664,14 @@ Creates a publisher that enable you to retrieve records from the specified table
 
 **Note:** This method has been deprecated. You should use the async/await implementation of the method instead.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
 let recordsPublisher: AnyPublisher<[NowRecord], NowDataError> = myPublisher.convertToRecords()
 ```
 
-For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function to fetch paginated results.
+For large result sets, use the [NowTableService - paginator\(from tableName: String, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function to fetch paginated results.
 
 <table id="id_rzw_lcj_ppb" class="parameters"><thead><tr><th>
 
@@ -3703,7 +3703,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -3882,7 +3882,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -3894,7 +3894,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4080,7 +4080,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4092,7 +4092,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4284,7 +4284,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4296,7 +4296,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4417,7 +4417,7 @@ tableService.update(user, in: "sys_user")
 
 Updates the specified record with the specified fields.
 
-You can decode the data into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+You can decode the data into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -4480,7 +4480,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4492,7 +4492,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4599,7 +4599,7 @@ do {
 
 Updates the specified record with the specified fields then executes the **completion** handler once the record is saved.
 
-If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+If needed, you can decode the return results into a custom Codable model or you can use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function instead. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -4662,7 +4662,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4674,7 +4674,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 
@@ -4780,7 +4780,7 @@ Updates the specified record with the specified fields.
 
 **Note:** This method has been deprecated. You should use the async/await implementation of the method instead.
 
-The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
+The publisher emits data that you can decode into a custom [Codable model](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types), or you can also use the [NowTableService - paginator&lt;Model: Decodable&gt;\(from tableName: String, path: String = Constants.resultPath, coder: Coder = .default, configuration: FetchConfiguration? = nil\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowTableServiceiOSAPI.md#) function. Alternatively, you can use the convenience function convertToRecords\(\) to transform data into a NowRecord object. The following shows how to convert a publisher to emit NowRecords:
 
 ```
 let dataPublisher: AnyPublisher<Data, NowDataError> = ...
@@ -4843,7 +4843,7 @@ writeOptions
 
 </td><td>
 
-[FieldWriteOptions](../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
+[FieldWriteOptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldWriteOptions/concept/FieldWriteOptionsiOSStruct.md#)
 
 </td><td>
 
@@ -4855,7 +4855,7 @@ configuration
 
 </td><td>
 
-[FetchConfiguration](../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
+[FetchConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FetchConfiguration/concept/FetchConfigiOSStructure.md#)
 
 </td><td>
 

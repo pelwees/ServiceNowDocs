@@ -136,5 +136,5 @@ Contains the details of license and permit items that have been issued or receiv
 Install Base Item \(sn\_install\_base\_item\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Public Sector Digital Services License and Permit Playbook Data Model](psds-data-model-lp-playbook.md)
+</table>**Parent Topic:**[Public Sector Digital Services License and Permit Playbook Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-lp-playbook.md)
 

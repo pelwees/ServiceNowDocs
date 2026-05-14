@@ -54,5 +54,5 @@ Type of push notification.Possible values:
 -   launchVirtualAgent
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Mobile SDK - iOS](../../concept/MobileSDKiOSAPI.md)
+</table>**Parent Topic:**[Mobile SDK - iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKiOSAPI.md)
 

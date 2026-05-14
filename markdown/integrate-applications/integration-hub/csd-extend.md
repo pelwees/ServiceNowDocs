@@ -33,18 +33,18 @@ If your software has a lease end date defined, and the software status is **Inst
 
 3.  Under **Related Links** click **Extend Lease**.
 
-    ![Requested Software form](../images/ExtendLease.png)
+    ![Requested Software form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ExtendLease.png)
 
 4.  In the dialog box that appears, select a new lease end date in the calendar and click **OK**.
 
     You must select a date later than the current date.
 
-    ![New Lease End Date Time dialog](../images/NewLeaseEndDate.png)
+    ![New Lease End Date Time dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/NewLeaseEndDate.png)
 
     If the lease extension is subject to manager approval, you are notified of the decision. If the request is approved, a notification shows the new lease end date. If the new end date is within 5 days \(the default notification period\) of the date when you made the request, CSD sends an immediate end-of-lease notification.
 
     **Important:** If lease extensions in your organization require approval, make sure the approver is available and has enough time to process your extension request. If the extension cannot be approved before the original end date expires, the software is revoked.
 
 
-**Parent Topic:**[Client Software Distribution using Integration Hub](../concept/csd-integrationhub.md)
+**Parent Topic:**[Client Software Distribution using Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd-integrationhub.md)
 

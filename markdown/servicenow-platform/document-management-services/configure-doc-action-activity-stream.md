@@ -23,9 +23,9 @@ Role required: admin
 
 To add and attach documents to a record's activity stream, you would need to complete the following tasks:
 
--   [Enable Document actions in activity stream](configure-doc-action-activity-stream.md)
--   [Enable Documents in the record](enable-doc-related-list.md)
--   [Add documents to the record](create-new-doc-parent.md)
+-   [Enable Document actions in activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/configure-doc-action-activity-stream.md)
+-   [Enable Documents in the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/enable-doc-related-list.md)
+-   [Add documents to the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-new-doc-parent.md)
 
 ## Procedure
 
@@ -50,5 +50,5 @@ To add and attach documents to a record's activity stream, you would need to com
 7.  Select **Update**.
 
 
-**Parent Topic:**[Document attachments in an activity stream](../concept/activity-stream-for-documents.md)
+**Parent Topic:**[Document attachments in an activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/activity-stream-for-documents.md)
 

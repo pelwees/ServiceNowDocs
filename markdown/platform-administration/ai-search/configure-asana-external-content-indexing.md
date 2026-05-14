@@ -110,12 +110,12 @@ To allow the connector to access your Asana source system via the Asana API, you
 
 Provide the following items to your connector admin:
 
--   The client ID for your new OAuth 2.0 application that you copied in step [3.a](configure-asana-external-content-indexing.md#copy-client-id-step).
--   The client secret for your new OAuth 2.0 application that you copied in step [3.b](configure-asana-external-content-indexing.md#copy-client-secret-step).
+-   The client ID for your new OAuth 2.0 application that you copied in step [3.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-asana-external-content-indexing.md#copy-client-id-step).
+-   The client secret for your new OAuth 2.0 application that you copied in step [3.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-asana-external-content-indexing.md#copy-client-secret-step).
 
 Your connector admin needs these items to configure an Asana external content connector to retrieve projects, tasks, comments, and security principals from your Asana source system.
 
-For details on creating and configuring an Asana external content connector, see [Create an Asana external content connector](create-ext-cont-connector-asana.md).
+For details on creating and configuring an Asana external content connector, see [Create an Asana external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-asana.md).
 
-**Parent Topic:**[Asana external content connector](../concept/asana-external-content-connector.md)
+**Parent Topic:**[Asana external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/asana-external-content-connector.md)
 

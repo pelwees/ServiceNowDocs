@@ -19,33 +19,33 @@ You can also adjust the size of shapes by selecting a shape and then drag any of
 
 |Shape|Name|
 |-----|----|
-|![Application](../../image/eaw-image/modeling/icon-application.png)|Application|
-|![Application service](../../image/eaw-image/modeling/icon-application-service.png)|Application Service|
-|![Business application](../../image/eaw-image/modeling/icon-business-application.png)|Business Application|
-|![Business capability](../../image/eaw-image/modeling/icon-business-capability.png)|Business Capability|
-|![Business process](../../image/eaw-image/modeling/icon-business-process.png)|Business Process|
-|![Business service](../../image/eaw-image/modeling/icon-business-service.png)|Business Service|
-|![Business unit](../../image/eaw-image/modeling/icon-business-unit.png)|Business Unit|
-|![Computer](../../image/eaw-image/icon-computer.png)|Computer|
-|![Demand](../../image/eaw-image/modeling/icon-demand.png)|Demand|
-|![Departments](../../image/eaw-image/modeling/icon-departments.png)|Departments|
-|![Digital integration](../../image/eaw-image/modeling/icon-digital-integration.png)|Digital Integration|
-|![Digital interface](../../image/eaw-image/modeling/icon-digital-interface.png)|Digital Interface|
-|![Dynamic CI group](../../image/eaw-image/modeling/icon-dynamic-ci-group.png)|Dynamic CI Group|
-|![Hardware model](../../image/eaw-image/modeling/icon-hardware-model.png)|Hardware Model|
-|![Information object](../../image/eaw-image/modeling/icon-information-object.png)|Information Object|
-|![SDLC component](../../image/eaw-image/modeling/icon-sdlc-component.png)|SDLC Component|
-|![Server](../../image/eaw-image/modeling/icon-server.png)|Server|
-|![Service portfolio](../../image/eaw-image/modeling/icon-service-portfolio.png)|Service Portfolio|
-|![Software product](../../image/eaw-image/modeling/icon-software-product.png)|Software Product|
-|![Technical service](../../image/eaw-image/modeling/icon-technical-service.png)|Technical Service|
-|![Technical service offering](../../image/eaw-image/modeling/icon-technical-service-offering.png)|Technical Service Offering|
-|![Value stream](../../image/eaw-image/modeling/icon-value-stream.png)|Value Stream|
-|![Value stream stage](../../image/eaw-image/modeling/icon-value-stream-stage.png)|Value Stream Stage|
-|![AI dataset digital asset](../../image/eaw-image/modeling/icon-ai-dataset.png)|AI Dataset Digital Asset|
-|![AI model digital asset](../../image/eaw-image/modeling/icon-ai-model.png)|AI Model Digital Asset|
-|![AI prompt digital asset](../../image/eaw-image/modeling/icon-ai-prompt.png)|AI Prompt Digital Asset|
-|![AI system digital asset](../../image/eaw-image/modeling/icon-ai-system.png)|AI System Digital Asset|
+|![Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-application.png)|Application|
+|![Application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-application-service.png)|Application Service|
+|![Business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-business-application.png)|Business Application|
+|![Business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-business-capability.png)|Business Capability|
+|![Business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-business-process.png)|Business Process|
+|![Business service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-business-service.png)|Business Service|
+|![Business unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-business-unit.png)|Business Unit|
+|![Computer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-computer.png)|Computer|
+|![Demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-demand.png)|Demand|
+|![Departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-departments.png)|Departments|
+|![Digital integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-digital-integration.png)|Digital Integration|
+|![Digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-digital-interface.png)|Digital Interface|
+|![Dynamic CI group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-dynamic-ci-group.png)|Dynamic CI Group|
+|![Hardware model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-hardware-model.png)|Hardware Model|
+|![Information object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-information-object.png)|Information Object|
+|![SDLC component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-sdlc-component.png)|SDLC Component|
+|![Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-server.png)|Server|
+|![Service portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-service-portfolio.png)|Service Portfolio|
+|![Software product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-software-product.png)|Software Product|
+|![Technical service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-technical-service.png)|Technical Service|
+|![Technical service offering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-technical-service-offering.png)|Technical Service Offering|
+|![Value stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-value-stream.png)|Value Stream|
+|![Value stream stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-value-stream-stage.png)|Value Stream Stage|
+|![AI dataset digital asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-ai-dataset.png)|AI Dataset Digital Asset|
+|![AI model digital asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-ai-model.png)|AI Model Digital Asset|
+|![AI prompt digital asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-ai-prompt.png)|AI Prompt Digital Asset|
+|![AI system digital asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-ai-system.png)|AI System Digital Asset|
 
-**Parent Topic:**[Shapes to create a modeling diagram](eaw-modeling-shapes.md)
+**Parent Topic:**[Shapes to create a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-shapes.md)
 

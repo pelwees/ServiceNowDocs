@@ -130,15 +130,15 @@ Catalog Builder does not allow creation and editing of the following entities, b
 -   Catalog client scripts
 -   Data lookup rules
 
--   **[Setting up the Catalog Builder](../task/set-up-cat-builder.md)**  
+-   **[Setting up the Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/set-up-cat-builder.md)**  
 Set up the catalog item building process.
--   **[Creating or editing catalog item template](../task/create-cat-item-template-cat-builder.md)**  
+-   **[Creating or editing catalog item template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/create-cat-item-template-cat-builder.md)**  
 Pre-specify values or provide restrictions for attributes such as catalogs, categories, variable types, and portal settings, which are applicable during the catalog item creation or editing process. You can create a template for a catalog item or record producer.
 
-**Parent Topic:**[Service Catalog](service-catalog.md)
+**Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
 **Related topics**  
 
 
-[Set up a service catalog](../task/t_SetUpAServiceCatalog.md)
+[Set up a service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_SetUpAServiceCatalog.md)
 

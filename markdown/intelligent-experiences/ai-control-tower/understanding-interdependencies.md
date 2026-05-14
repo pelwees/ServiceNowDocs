@@ -25,7 +25,7 @@ Comprehensive responsible AI governance requires attention to all these componen
 -   Identify the associated AI model
 -   Document the dataset
 
-For a visual example of how these elements interact, see [Example of an AI system](example-of-an-ai-system.md)
+For a visual example of how these elements interact, see [Example of an AI system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/example-of-an-ai-system.md)
 
 For information on Model asset classes, see [Model asset classes](https://www.servicenow.com/docs/bundle/zurich-it-asset-management/page/product/enterprise-asset-management/concept/enterprise-model-asset-classes-app.html#d396350e744)
 

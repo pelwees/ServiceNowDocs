@@ -57,10 +57,10 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Document Viewer](../../../use/using-forms/concept/Documentviewer.md)
+**Parent Topic:**[Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/concept/Documentviewer.md)
 
 **Related topics**  
 
 
-[Enable Document Viewer](enable-document-viewer.md)
+[Enable Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md)
 

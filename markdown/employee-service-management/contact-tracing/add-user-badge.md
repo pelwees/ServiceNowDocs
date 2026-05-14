@@ -41,5 +41,5 @@ You can also import your user badge data from an Excel spreadsheet. For more inf
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Collecting user badge data](../concept/badge-management.md)
+**Parent Topic:**[Collecting user badge data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/badge-management.md)
 

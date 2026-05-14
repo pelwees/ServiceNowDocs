@@ -25,7 +25,7 @@ Auditable units are a combination of different entities such as business units, 
 
 After you determine the nature and scope of the auditable units, your goal is to perform risk assessments, and scope auditable units and entities based on the risk rating.
 
-See also [Perform advanced risk assessment in the Risk workspace](../../grc-workspace-risk/task/perform-ara-workspace.md).
+See also [Perform advanced risk assessment in the Risk workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-workspace-risk/task/perform-ara-workspace.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ See also [Perform advanced risk assessment in the Risk workspace](../../grc-work
 
     You can also create an auditable unit by navigating to the Audit workspace List page.
 
-    1.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+    1.  Click the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
     2.  Click **All auditable units** or **My auditable units** in the Scoping list.
     3.  Click **New**.
 3.  On the form, fill in the fields.
@@ -167,10 +167,10 @@ Residual risk score. The value in this field is derived from advanced risk asses
 
     The state of the auditable unit becomes Active.
 
-9.  To retire the auditable unit, click the **Retire** button in the more actions icon \(![More actions icon.](../image/MoreActionsIcon.jpg)\)
+9.  To retire the auditable unit, click the **Retire** button in the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/MoreActionsIcon.jpg)\)
 
 10. If you have GRC: Advanced Risk application installed and if you have selected Risk Assessment Method as **Detailed Risk Assessment**, then you can assess risk by clicking the **Assess risk** button.
 
-    For more information, see risk assessment method in [Create an auditable unit](../../grc-audit/task/create-auditable-unit.md#table_r2w_hbm_5mb).
+    For more information, see risk assessment method in [Create an auditable unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-audit/task/create-auditable-unit.md#table_r2w_hbm_5mb).
 
 

@@ -44,11 +44,11 @@ Enrich assets with descriptions, business context, and organizational metadata t
     -   Steward: Person responsible for data quality and governance.
 7.  Update the classification details.
 
-    -   Domain: Terms that represent the logical grouping of related data assets \(like customer or product data\). For details about creating domains, see [Create catalog domains](create-domains-dc.md).
-    -   Tags: A non-hierarchical label or keyword that provides context and descriptive metadata to a piece of data, making it easier to organize, locate, and manage. For details about creating tags, see [Create catalog tags](create-tags-dc.md).
+    -   Domain: Terms that represent the logical grouping of related data assets \(like customer or product data\). For details about creating domains, see [Create catalog domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-domains-dc.md).
+    -   Tags: A non-hierarchical label or keyword that provides context and descriptive metadata to a piece of data, making it easier to organize, locate, and manage. For details about creating tags, see [Create catalog tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-tags-dc.md).
     -   Related terms: Glossary terms connected to this data asset.
-8.  Select **Save**. ![Edit a data asset](../image/dc-data-asset-edits.png)
+8.  Select **Save**. ![Edit a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-data-asset-edits.png)
 
 
-**Parent Topic:**[Governing the Data Catalog](../concept/manage-data-catalog.md)
+**Parent Topic:**[Governing the Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-catalog.md)
 

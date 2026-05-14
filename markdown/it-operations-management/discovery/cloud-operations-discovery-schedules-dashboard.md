@@ -100,7 +100,7 @@ Resource counts from recent discovery runs
 
 </td><td>
 
-Bar chart![Bar chart.](../../../use/reporting/image/icon-bar-report-p.png)
+Bar chart![Bar chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-bar-report-p.png)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Time taken for recent discovery runs
 
 </td><td>
 
-Bar chart![Bar chart.](../../../use/reporting/image/icon-bar-report-p.png)
+Bar chart![Bar chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-bar-report-p.png)
 
 </td><td>
 

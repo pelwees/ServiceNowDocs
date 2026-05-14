@@ -28,10 +28,10 @@ Place types are used to categorize the different places on your map. You can use
 |Rack row|A linear arrangement of multiple server racks positioned side by side.|
 |Server room|Secure space where IT equipment such as servers, storage systems, and network gear is installed and operated.|
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Upload and manage floor map for your datacenter](../task/create-floor-map-data-center.md)
+[Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-floor-map-data-center.md)
 

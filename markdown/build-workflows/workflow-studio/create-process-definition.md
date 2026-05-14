@@ -17,11 +17,11 @@ Enable playbook owners to configure and organize multiple instances of Workflow 
 
 ## Before you begin
 
--   [Activate Playbooks](../concept/activate-process-automation-designer.md) for your appropriate application.
+-   [Activate Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activate-process-automation-designer.md) for your appropriate application.
 -   Familiarize yourself with the tables and relationships that your application uses for the playbook that you want to create.
--   Make sure to familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](../../workflow-studio/concept/exploring-flows.md), [subflows](../../workflow-studio/reference/exploring-subflows.md), and [actions](../../workflow-studio/concept/exploring-actions.md).
--   Learn how to [get started with ServiceNow® Process Automation](../concept/getting-started-process-automation.md).
--   Role required: admin, playbook.admin, or playbook.write. To learn more about playbook authoring access in Workflow Studio, see [User access to Playbooks in Workflow Studio](../concept/user-access-playbooks.md).
+-   Make sure to familiarize yourself with any features that your business uses to automate operations on the ServiceNow AI Platform, such as [flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/concept/exploring-flows.md), [subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/reference/exploring-subflows.md), and [actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/concept/exploring-actions.md).
+-   Learn how to [get started with ServiceNow® Process Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/getting-started-process-automation.md).
+-   Role required: admin, playbook.admin, or playbook.write. To learn more about playbook authoring access in Workflow Studio, see [User access to Playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/user-access-playbooks.md).
 
 ## About this task
 
@@ -45,7 +45,7 @@ Enable playbook owners to configure and organize multiple instances of Workflow 
 
     The builder displays in **Diagram view** by default, but you can select **Board view** to switch views. Switch between views anytime as you build your playbook.
 
-    ![Diagram and Board view toggle](../images/board-view.png)
+    ![Diagram and Board view toggle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/board-view.png)
 
 4.  Select the **Start** node.
 
@@ -110,42 +110,42 @@ Allow runtime users to restart the entire playbook during a run.
 
 7.  Under the **Runtime permissions** tab, add sets of users, user groups, user criteria and roles, and define whether they can add optional activities to the playbook, restart the playbook or its stages and activities, or cancel the playbook during runtime.
 
-8.  [Configure your trigger.](add-configure-trigger.md)
+8.  [Configure your trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-trigger.md)
 
     **Note:** You can create a playbook with no trigger, a single trigger, or multiple triggers.
 
-9.  [Add a stage.](add-configure-stage.md)
+9.  [Add a stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-10. [Add a decision stage.](create-decision-stage.md)
+10. [Add a decision stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-stage.md)
 
-11. [Add an activity.](add-configure-activity.md)
+11. [Add an activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-activity.md)
 
 12. Keep adding stages and activities according to your manual playbook.
 
-    For an example of how to design an entire digitized process with Playbooks, see [Create a sample playbook](design-automated-process.md).
+    For an example of how to design an entire digitized process with Playbooks, see [Create a sample playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/design-automated-process.md).
 
-13. If you don't see the activity you need to add in the activity picker, [create an activity definition](create-activity-definition.md).
+13. If you don't see the activity you need to add in the activity picker, [create an activity definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-activity-definition.md).
 
-14. [Add a decision activity.](create-a-decision-activity.md)
+14. [Add a decision activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-a-decision-activity.md)
 
-15. [Add parallel activities.](create-parallel-activity.md)
+15. [Add parallel activities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-parallel-activity.md)
 
-16. [Add optional activities.](../concept/optional-activities.md#)
+16. [Add optional activities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/optional-activities.md#)
 
 17. After you've added all appropriate stages and activities to your playbook, select **Activate** in the header.
 
     Activating your playbook publishes it so that it runs when triggered.
 
-    **Note:** If you change your playbook after activating it, the system saves your changes but deactivates your playbook. You must click **Activate** again to publish any new changes to your playbook. For more information, see [Playbook statuses and activation states](../reference/process-status-activation-state.md).
+    **Note:** If you change your playbook after activating it, the system saves your changes but deactivates your playbook. You must click **Activate** again to publish any new changes to your playbook. For more information, see [Playbook statuses and activation states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/process-status-activation-state.md).
 
 
 ## Result
 
-When your playbook's trigger conditions are met, your playbook runs. As a result, the system creates a Process Execution record and renders user-facing configurations for Playbook Experience. For an example of how to digitize a manual business process that renders as a playbook, see [Create a sample playbook](design-automated-process.md).
+When your playbook's trigger conditions are met, your playbook runs. As a result, the system creates a Process Execution record and renders user-facing configurations for Playbook Experience. For an example of how to digitize a manual business process that renders as a playbook, see [Create a sample playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/design-automated-process.md).
 
 ## What to do next
 
 Set up the Playbook Experience for your agents and fulfillers.
 
-**Parent Topic:**[Creating and managing Playbooks](../concept/creating-managing-playbooks.md)
+**Parent Topic:**[Creating and managing Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/creating-managing-playbooks.md)
 

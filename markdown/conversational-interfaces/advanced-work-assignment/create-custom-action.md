@@ -25,7 +25,7 @@ Role required: admin
 
 2.  From the Actions list, open **AWA Post External Routing Events – Demo**.
 
-3.  Select **Copy action** from the More Actions menu ![More actions menu.](../../../product/service-catalog-management/image/more-actions-ne-icon.png), copy the contents of the **AWA Post External Routing Events – Demo** action and provide a name to it.
+3.  Select **Copy action** from the More Actions menu ![More actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../product/service-catalog-management/image/more-actions-ne-icon.png), copy the contents of the **AWA Post External Routing Events – Demo** action and provide a name to it.
 
 4.  Select **Publish**.
 

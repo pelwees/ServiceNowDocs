@@ -40,7 +40,7 @@ There are a few good practices when creating groups:
 
     The **Type** field expands.
 
-5.  Click the lookup icon \(![Lookup icon.](../image/SearchIcon.png)\) and select the **\[application\]** type.
+5.  Click the lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/SearchIcon.png)\) and select the **\[application\]** type.
 
 6.  Right-click the form header and select **Save**.
 
@@ -51,5 +51,5 @@ There are a few good practices when creating groups:
 9.  Click **Update**.
 
 
-**Parent Topic:**[Activate Facilities Service Management](../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
+**Parent Topic:**[Activate Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-service-management/task/t_ActivateFacilitiesSM.md)
 

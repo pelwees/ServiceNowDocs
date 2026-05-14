@@ -27,11 +27,11 @@ Role required: sam\_admin and sam\_user
 
 3.  View the number of licenses purchased and required by selecting the **License Metric Results** tab.
 
-    For more information about the fields in the License Metric Results tab, see the License metric results table in [License usage publisher fields in workspace](../reference/workbench-publisherfields-workspace.md).
+    For more information about the fields in the License Metric Results tab, see the License metric results table in [License usage publisher fields in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/workbench-publisherfields-workspace.md).
 
 4.  View the details about the required licenses by selecting a value for a configuration item under the **License required** column.
 
-    ![Details of a configuration item.](../image/licenses-required-by.png)
+    ![Details of a configuration item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/licenses-required-by.png)
 
 <table id="table_mcl_jpt_frb"><thead><tr><th>
 
@@ -104,7 +104,7 @@ Indicates whether the configuration item is a virtual or physical host.
 
 6.  In the Licenses Required By related list, view the details of required licenses by selecting the value for a device under the **License required** column.
 
-    ![Licenses required](../image/license-consumption-explanation.png)
+    ![Licenses required](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/license-consumption-explanation.png)
 
 <table id="table_k2j_5tt_cqb"><thead><tr><th>
 
@@ -189,9 +189,9 @@ A detailed license consumption summary post reconciliation. The summary gives yo
 </td></tr></tbody>
 </table>7.  View the infrastructure of a configuration item and the metric attributes applied by selecting the **License consumption breakdown** tab.
 
-    For more information on the license calculation for CrowdStrike products, see [License usage breakdown for CrowdStrike products](../reference/license-usage-crowdstrike.md).
+    For more information on the license calculation for CrowdStrike products, see [License usage breakdown for CrowdStrike products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/license-usage-crowdstrike.md).
 
-    ![License consumption breakdown of a configuration item.](../image/license-consumption-breakdown.png)
+    ![License consumption breakdown of a configuration item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/license-consumption-breakdown.png)
 
     |Fields|Description|
     |------|-----------|
@@ -204,7 +204,7 @@ A detailed license consumption summary post reconciliation. The summary gives yo
 
 8.  View the details of the installations covered by licensing related to the configuration item by selecting **Software installs licensing details**.
 
-    ![Licensing details of configuration items.](../image/software-installs-licensing-details.png)
+    ![Licensing details of configuration items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/software-installs-licensing-details.png)
 
     |Field|Description|
     |-----|-----------|
@@ -216,13 +216,13 @@ A detailed license consumption summary post reconciliation. The summary gives yo
 
     1.  View the licensing status of an install on various hosts within a cluster by selecting a normalized display name for Per Core and Per Core \(with CAL\) license metrics.
 
-        ![Licensing status of the software install on various hosts within a cluster.](../image/normalized-display-name.png)
+        ![Licensing status of the software install on various hosts within a cluster.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/normalized-display-name.png)
 
 9.  Check the accuracy of the license consumption and view the host affinity rules configured for a cluster by selecting the **Host affinity rules** tab.
 
     Host affinity rules can be configured for SQL Server and Windows Server Standard while determining license consumption. This helps to optimize the number of licenses required and significantly minimizes the number of licenses required resulting in cost savings.
 
-    ![Host affinity rules configured for a cluster.](../image/Host-affinity-rules.png)
+    ![Host affinity rules configured for a cluster.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/Host-affinity-rules.png)
 
     |Field|Description|
     |-----|-----------|
@@ -245,5 +245,5 @@ A detailed license consumption summary post reconciliation. The summary gives yo
     |Mandatory|Requirement of a suite component. A suite component can be Optional, Always Mandatory, or Mandatory Group.|
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

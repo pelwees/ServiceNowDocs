@@ -30,7 +30,7 @@ The application provides several global reports, both lists and charts, that sho
 -   Pending projects: list report
 -   Active Projects by Manager: bar chart
 
-**Parent Topic:**[Using Project Management](using-project-management.md)
+**Parent Topic:**[Using Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/using-project-management.md)
 
 **Related topics**  
 

@@ -17,7 +17,7 @@ The IdentificationEngine API uses the Identification and Reconciliation framewor
 
 When using this class in a scoped application, use the `sn_cmdb` namespace identifier.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## IdentificationEngine - createOrUpdateCI\(String source, String input\)
 
@@ -4500,7 +4500,7 @@ Determines the Configuration Management Database \(CMDB\) operation \(insert/upd
 
 Use this method to simulate submission of a payload.
 
-This method is similar to the [IdentificationEngine - identifyCI\(String jsonString\)](IdentificationEngineScopedAPI.md#) method, however it also supports the following functionality:
+This method is similar to the [IdentificationEngine - identifyCI\(String jsonString\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md#) method, however it also supports the following functionality:
 
 -   Partial payloads
     -   In case of an item having a warning or error, indicates if an item operation is INSERT\_AS\_PARTIAL or INSERT\_INCOMPLETE.

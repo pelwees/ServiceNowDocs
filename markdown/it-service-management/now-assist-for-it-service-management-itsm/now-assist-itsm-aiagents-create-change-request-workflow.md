@@ -48,12 +48,12 @@ You can access the standard change template recommender AI agent in the Define k
 
     The agent executes the request for the workflow.
 
-    ![Create standard change request agentic workflow output in ServiceNowAI Agent Studio.](../image/now-assist-create-change-agent-studio.png "Example of the create standard change request agentic workflow output in the ServiceNowAI Agent Studio")
+    ![Create standard change request agentic workflow output in ServiceNowAI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-create-change-agent-studio.png "Example of the create standard change request agentic workflow output in the ServiceNowAI Agent Studio")
 
 4.  Access and use the create standard change request agentic workflow from the Now Assist panel.
 
     You can query in the Now Assist panel to create a change request. For the query instructions, read the steps specified in the **List of steps** field of the corresponding AI agent \(standard change template recommender AI agent\).
 
-    ![Create standard change request agentic workflow output in the Now Assist panel.](../image/now-assist-create-change-nap.png "Example of the create standard change request agentic workflow output in the Now Assist panel")
+    ![Create standard change request agentic workflow output in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-create-change-nap.png "Example of the create standard change request agentic workflow output in the Now Assist panel")
 
 

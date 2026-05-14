@@ -29,7 +29,7 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
@@ -43,23 +43,23 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
     -   To update the details of an existing stakeholder, select the record.
 5.  On the Create New Demand Stakeholder form, fill in the fields.
 
-    For a description of the field names, see [Create stakeholder form](../reference/create-stakeholder-form-dw.md) form.
+    For a description of the field names, see [Create stakeholder form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/create-stakeholder-form-dw.md) form.
 
 6.  Select **Save**.
 
     **Note:**
 
     -   To delete a stakeholder record, select the record and select **Delete** from the More Actions option.
-    -   Alternatively, you can create, edit, or delete stakeholder records using the **Add stakeholders** playbook activity. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
+    -   Alternatively, you can create, edit, or delete stakeholder records using the **Add stakeholders** playbook activity. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
     After completing your work on the stakeholder record, use the breadcrumb navigation to return to the **Stakeholders** tab.
 
 
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-dw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md)
 
-[Create stakeholder form](../reference/create-stakeholder-form-dw.md)
+[Create stakeholder form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/create-stakeholder-form-dw.md)
 

@@ -17,7 +17,7 @@ You can run the GRC Audit Management application by downloading it from the Serv
 
 The flow of mandatory steps in the checklist are as follows:
 
-![Mandatory steps to implement audit management](../image/grc-audit-imple-workflow.png "Audit Management implementation steps")
+![Mandatory steps to implement audit management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/grc-audit-imple-workflow.png "Audit Management implementation steps")
 
 ## Download Audit Management
 

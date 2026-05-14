@@ -25,7 +25,7 @@ Enables the PowerShell probe version 2 for use with all PowerShell activities. T
 
 You can access the property by selecting the MID Server Properties link in the navigation pane:
 
-![Use PowerShell Probe v2](../image/powershell-probe-v2.png)
+![Use PowerShell Probe v2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/powershell-probe-v2.png)
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration/concept/c_OrchestrationMID.md)
 

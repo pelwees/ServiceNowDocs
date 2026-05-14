@@ -42,31 +42,31 @@ The State transition of a work item guides you through the stages of its life cy
 
 The following diagram shows the lifecycle of work items \(WI\) in RPA Hub application.
 
-![Lifecycle of work items in RPA Hub.](../image/wqi-lifecyle.png "Lifecycle of work items (WI) in RPA Hub")
+![Lifecycle of work items in RPA Hub.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wqi-lifecyle.png "Lifecycle of work items (WI) in RPA Hub")
 
--   **[Create a queue in RPA Hub](../task/create-queue.md)**  
+-   **[Create a queue in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-queue.md)**  
 Create a queue in RPA Hub to manage the work items that you want the robot to process.
--   **[Assign a bot process to a queue from Queues menu in RPA Hub](../task/assign-botprocess-queue.md)**  
+-   **[Assign a bot process to a queue from Queues menu in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-botprocess-queue.md)**  
 Assign a bot process to a queue in RPA Hub so that it can interact with this queue. You can assign more than one bot process to a queue. Any robot that is associated with the assigned bot process can insert the work item, pick the work item, and update the work item.
--   **[Unassign a bot process from a queue in RPA Hub](../task/unassign-botprocess-queue.md)**  
+-   **[Unassign a bot process from a queue in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/unassign-botprocess-queue.md)**  
 Unassign a bot process from a queue in RPA Hub to stop an interaction with this queue.
 
-**Parent Topic:**[Using RPA Hub](managing-rpa-hub.md)
+**Parent Topic:**[Using RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-rpa-hub.md)
 
 **Related topics**  
 
 
-[Create a queue in RPA Hub](../task/create-queue.md)
+[Create a queue in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-queue.md)
 
-[Assign a bot process to a queue from Queues menu in RPA Hub](../task/assign-botprocess-queue.md)
+[Assign a bot process to a queue from Queues menu in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/assign-botprocess-queue.md)
 
-[Manage your work items in RPA Hub](../task/manage-work-queue-items.md#)
+[Manage your work items in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/manage-work-queue-items.md#)
 
-[Using auto-retry functionality for your failed work items in RPA Hub](auto-retry-wqi-rpa.md)
+[Using auto-retry functionality for your failed work items in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/auto-retry-wqi-rpa.md)
 
-[Queue form in RPA Hub](../reference/queue-form.md)
+[Queue form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/queue-form.md)
 
-[Work item form in RPA Hub](../task/manage-work-queue-items.md#)
+[Work item form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/manage-work-queue-items.md#)
 
-[Queue](../../rpa-studio/concept/queue-connector.md)
+[Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-studio/concept/queue-connector.md)
 

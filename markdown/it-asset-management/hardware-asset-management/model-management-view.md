@@ -17,7 +17,7 @@ Use the Model management view in the Hardware Asset Workspace to create or edit 
 
 All reports except **Days until next hardware content refresh** under the Model Management view get filtered based on the model category you choose.
 
-![Model management view in the Hardware Asset Workspace.](../image/model-management-view.png "Model management view")
+![Model management view in the Hardware Asset Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/model-management-view.png "Model management view")
 
 **Note:** Software model tab is hidden when Software Asset Management \(com.snc.software\_asset\_management\) or Software Asset Management Professional \(com.snc.pa.samp\) is active. You can view this Software model tab in Software Asset Workspace.
 

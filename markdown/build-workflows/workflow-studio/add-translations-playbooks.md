@@ -67,7 +67,7 @@ The playbook text that you can create translations for are:
 
 When the playbook runs, the translated content appears for agents in their user session language.
 
-![The message translated into Spanish.](../images/playbook-translation-runtime.png)
+![The message translated into Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-translation-runtime.png)
 
-**Parent Topic:**[Creating and managing Playbooks](../concept/creating-managing-playbooks.md)
+**Parent Topic:**[Creating and managing Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/creating-managing-playbooks.md)
 

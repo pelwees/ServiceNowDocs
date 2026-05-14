@@ -73,5 +73,5 @@ Result
 
 ## What to do next
 
-[Receive a purchase order for contract assets](receive-po.md)
+[Receive a purchase order for contract assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/receive-po.md)
 

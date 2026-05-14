@@ -33,7 +33,7 @@ You can specify user criteria for an article to control which users can read the
 
     The articles associated with a parent category are grouped under a dummy child category labeled as **Other**.
 
-    ![Other category](../image/knowledge-other-category.png "Other category")
+    ![Other category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/knowledge-other-category.png "Other category")
 
 5.  To view an article, tap the article in the articles list.
 
@@ -41,7 +41,7 @@ You can specify user criteria for an article to control which users can read the
 **Related topics**  
 
 
-[View an article in the Now Mobile Information applet](view-article-now-mobile.md)
+[View an article in the Now Mobile Information applet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-now-mobile.md)
 
-[Control access at the knowledge article level through user criteria](t_SelectUCArticle.md)
+[Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 

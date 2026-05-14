@@ -37,14 +37,14 @@ The Source-to-Pay Workspace is automatically installed if any of the following a
 |Accounts Payable Specialist: View and manage invoice processing cases and tasks.|sn\_ap\_apm.accounts\_payable\_specialist|
 |Agent: View and manage invoice inquiry cases and tasks.|sn\_ap\_cm.agent|
 
-**Parent Topic:**[Explore Accounts Payable Operations](explore-acc-pay-mgmt.md)
+**Parent Topic:**[Explore Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/explore-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-invoice-processing.md)
 
-[Invoice Case Management](acc-pay-case-mgmt-overview.md)
+[Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-case-mgmt-overview.md)
 
-[Accounts Payable Operations integration with Document Intelligence](apo-docintel-integration.md)
+[Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-docintel-integration.md)
 

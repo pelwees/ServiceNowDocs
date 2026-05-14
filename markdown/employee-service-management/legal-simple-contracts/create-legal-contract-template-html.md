@@ -84,7 +84,7 @@ Body
 Content to include in the generated legal contract document.Insert columns from the selected table to the document template:
 
 1.  Point the cursor to the desired location in the text editor.
-2.  In **Select variables**, click the plus icon \(![Plus icon.](../image/plus_icon.png)\) beside **Fields**.
+2.  In **Select variables**, click the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../image/plus_icon.png)\) beside **Fields**.
 3.  From the fields list, select a column name.
  The selected column is added at the cursor position.
 

@@ -34,8 +34,8 @@ Role required: sam
     -   Green - in compliance
     -   Orange - within 5% of being out of compliance
     -   Red - not compliant
-    ![Software Counters list](../image/SoftwareLicenseComplianceChecker.png "Software Counters list")
+    ![Software Counters list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SoftwareLicenseComplianceChecker.png "Software Counters list")
 
 
-**Parent Topic:**[Legacy Software License Compliance Checker](../concept/c_SoftwareLicenseComplianceChecker.md)
+**Parent Topic:**[Legacy Software License Compliance Checker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_SoftwareLicenseComplianceChecker.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 The service problem case progresses through several stages from start to closure. It begins with a customer service agent reviewing and verifying the problem. Next is the diagnosis stage, where system-specified tests are executed to identify the root cause. After the tests, the agent moves to the repair stage, creating a task to fix the identified issue. The agent follows the instructions in the repair task to address the problem areas. Once the repair is complete, the service is retested to confirm that the issue is resolved. Finally, the case is resolved and closed based on the customer's feedback on the provided solution.
 
-![Service problem case.](../image/service-problem-case.png)
+![Service problem case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/service-problem-case.png)
 
 ## Procedure
 
@@ -57,9 +57,9 @@ The service problem case progresses through several stages from start to closure
 
     3.  Expand the cards in the **Available test suite**.
 
-        To set up the test definitions, see [Setting up test definitions](../concept/settingup-test-specifications.md).
+        To set up the test definitions, see [Setting up test definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/settingup-test-specifications.md).
 
-        To set up a test group, see [Setting up a test group](../concept/setting-test-group.md).
+        To set up a test group, see [Setting up a test group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../concept/setting-test-group.md).
 
     4.  In the manual test, select single/multiple tests.
 

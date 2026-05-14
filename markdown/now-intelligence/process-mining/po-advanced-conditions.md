@@ -23,7 +23,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 1.  Go to the **Advanced Condition** tab of your table configuration record.
 
-    ![Crop process in table configuration](../image/table-config-classic.png)
+    ![Crop process in table configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/table-config-classic.png)
 
 2.  Select **Crop** from the **Condition type** list.
 
@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 4.  In the **Create new process start condition** form, fill in the fields.
 
-    For a description of the field values, see [Create new process start/end condition](../reference/process-start-condition.md).
+    For a description of the field values, see [Create new process start/end condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../reference/process-start-condition.md).
 
 5.  Select **Submit** to save the condition.
 
@@ -50,7 +50,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 In this example, a process end condition is configured when an incident record enters the `Work in progress` state. Because the **Occurrence\(s\) to match** field is set to `First only`, the condition only triggers the first time a record's state changes to `Work in progress`.
 
-![Configured process start condition](../image/start-condition-example.png)
+![Configured process start condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/start-condition-example.png)
 
-**Parent Topic:**[Set up a table configuration](po-table-configuration.md)
+**Parent Topic:**[Set up a table configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/po-table-configuration.md)
 

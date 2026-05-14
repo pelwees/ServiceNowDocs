@@ -19,7 +19,7 @@ The Faceted Search widget displays search results and search facets defined for 
 
 You can use facet filters to refine your search in Service Portal. For example, you can view only knowledge article search results by selecting the **Knowledge** source facet bucket. Or, to filter search results by certain knowledge categories, you can select one or more facets.
 
-![Filter for faceted Search widget showing "email" search results with available facet filters](../image/faceted-search-widget.png "Filter for Faceted Search widget")
+![Filter for faceted Search widget showing "email" search results with available facet filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/faceted-search-widget.png "Filter for Faceted Search widget")
 
 The available facets are dynamic, showing only field values that are included in your current search results. As you select facets, the search narrows and the number of available facets decreases. You can broaden your search by clearing an individual facet selection.
 
@@ -141,17 +141,17 @@ Placeholder
 
 Text that appears in the search box before the user enters anything. By default, the placeholder text is `Search`.
 
- **Note:** This instance option applies only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+ **Note:** This instance option applies only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-ais-sp.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Search widgets](search-widgets.md)
+</table>**Parent Topic:**[Search widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

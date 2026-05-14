@@ -19,7 +19,7 @@ Configure the Data Security Vault API REST message with the correct endpoint URL
 
 Role required: admin
 
-This task requires an OAuth Provider created for Card Data Security. See [Set up an OAuth Provider](set-up-an-oauth-provider.md) for more information.
+This task requires an OAuth Provider created for Card Data Security. See [Set up an OAuth Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-provider.md) for more information.
 
 ## Procedure
 

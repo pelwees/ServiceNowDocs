@@ -39,7 +39,7 @@ Create indicators provide you the ability to set a list of indicators for detect
 
 6.  From the **Actions** on selected rows, click **Create Indicator in Microsoft Defender**.
 
-    ![Associated Deliverables view: Select Create Indicators in Microsoft Defender for Endpoint from the Actions list.](../image/create_indicators.png)
+    ![Associated Deliverables view: Select Create Indicators in Microsoft Defender for Endpoint from the Actions list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create_indicators.png)
 
 7.  On the form, fill in the fields.
 

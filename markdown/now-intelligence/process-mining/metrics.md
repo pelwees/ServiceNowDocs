@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     **Note:** The touchpoint and idle time metrics are not available in the Classic view.
 
-    ![Set metrics](../image/metrics-project.png)
+    ![Set metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/metrics-project.png)
 
     There are two types of metrics:
 
@@ -51,5 +51,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 6.  Select **Set improvement opportunities**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 

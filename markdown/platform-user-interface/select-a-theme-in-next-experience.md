@@ -16,7 +16,7 @@ Personalize your Next Experience instance by selecting a theme and it's variant 
 
 ## Before you begin
 
-**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [Core styles, colors, variants, and alternate color palettes](../reference/difference-themes-variants.md).
+**Note:** An administrator must enable at least one theme before you can select one as described in this task. For information about theme variants and alternate color palettes, see [Core styles, colors, variants, and alternate color palettes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/difference-themes-variants.md).
 
 Role required: none
 
@@ -30,6 +30,6 @@ Role required: none
 
     Each theme card displays the core theme and all variants or alternative color palettes that are associated with that core theme. Hover over the circles beneath the core theme to view a preview of the variant or alternate color palette. A colored border appears around the theme card that has been applied to your instance.
 
-    ![Theme choices within the Theme user preference.](../image/select-a-theme.png)
+    ![Theme choices within the Theme user preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/select-a-theme.png)
 
 

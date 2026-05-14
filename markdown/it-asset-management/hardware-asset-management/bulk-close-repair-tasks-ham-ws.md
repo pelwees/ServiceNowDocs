@@ -65,20 +65,20 @@ You can bulk close only similar asset repair tasks that are in the Open state. H
 
 All the selected repair tasks are closed with the same task result and Work notes.
 
-**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](../concept/fulfill-ham-repair-orders-ws.md)
+**Parent Topic:**[Fulfill repair orders in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/fulfill-ham-repair-orders-ws.md)
 
 **Related topics**  
 
 
-[View open repair orders for your stockroom in the Hardware Asset Workspace](view-open-repair-orders-stockroom-ham.md)
+[View open repair orders for your stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-repair-orders-stockroom-ham.md)
 
-[Troubleshoot assets requested for repair in the Hardware Asset Workspace](troubleshoot-ham-assets-for-repair.md)
+[Troubleshoot assets requested for repair in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/troubleshoot-ham-assets-for-repair.md)
 
-[Complete the repair asset task in the Hardware Asset Workspace](repair-ham-assets-ws.md)
+[Complete the repair asset task in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-ham-assets-ws.md)
 
-[Evaluate the repaired asset in the Hardware Asset Workspace](evaluate-repaired-ham-asset-ws.md)
+[Evaluate the repaired asset in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/evaluate-repaired-ham-asset-ws.md)
 
-[Cancel a repair order in the Hardware Asset Workspace](cancel-repair-orders-ham-ws.md)
+[Cancel a repair order in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-repair-orders-ham-ws.md)
 
-[Cancel a repair order line in the Hardware Asset Workspace](cancel-repair-order-line-ham-ws.md)
+[Cancel a repair order line in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-repair-order-line-ham-ws.md)
 

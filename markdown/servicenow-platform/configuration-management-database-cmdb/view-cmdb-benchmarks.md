@@ -39,7 +39,7 @@ Global averages are based on the sum of monthly averages of all peer instances, 
 
 1.  Navigate to **Benchmarks** &gt; **Dashboard**.
 
-2.  Click the ![Select what to display benchmarks for.](../image/select-benchmark-bundle.png) icon and select **IT Operations Management**.
+2.  Click the ![Select what to display benchmarks for.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/select-benchmark-bundle.png) icon and select **IT Operations Management**.
 
 3.  Click **ALL** or **CMDB**.
 
@@ -49,5 +49,5 @@ Global averages are based on the sum of monthly averages of all peer instances, 
 **Related topics**  
 
 
-[CMDB Health](../concept/c_CMDBHealth.md)
+[CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBHealth.md)
 

@@ -102,7 +102,7 @@ You created a custom email notification for use as daily contact log with Emerge
 
 ## What to do next
 
-To use this email notification for as your daily contact log, see [Configure an Emergency Outreach notification for the daily contact log](configure-outreach-notif-daily-log.md).
+To use this email notification for as your daily contact log, see [Configure an Emergency Outreach notification for the daily contact log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notif-daily-log.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-contact-tracing.md)
 

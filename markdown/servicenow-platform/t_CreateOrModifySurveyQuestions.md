@@ -37,7 +37,7 @@ Changes to a survey, such as the addition of questions or the modification of qu
 
     The fields that appear depend on the selected **Data type**.
 
-    For a description of the field values, see [Survey Question form](../reference/survey-question-form.md).
+    For a description of the field values, see [Survey Question form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/survey-question-form.md).
 
 6.  Save the record.
 
@@ -46,24 +46,24 @@ Changes to a survey, such as the addition of questions or the modification of qu
     -   Be sure to create answer options if you select the **Choice** or **Likert Scale** data type.
     -   You cannot delete a survey question \(metric\) with user responses. To delete a survey question with user responses, you should delete the responses, and then delete the survey question.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestion.md)
 
 **Related topics**  
 
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
-[Add a metric category and metric in the question bank for surveys](add-questionbank-for-survey.md)
+[Add a metric category and metric in the question bank for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-for-survey.md)
 
-[Create or modify answer options](t_CreateOrModifyAnswerOptions.md)
+[Create or modify answer options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifyAnswerOptions.md)
 
-[Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
+[Change the order of survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfSurveyQuestions.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
-[Trigger condition example](../reference/r_TriggerConditionExample.md)
+[Trigger condition example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_TriggerConditionExample.md)
 
-[Survey trigger conditions](../concept/c_TriggerConditions.md)
+[Survey trigger conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_TriggerConditions.md)
 

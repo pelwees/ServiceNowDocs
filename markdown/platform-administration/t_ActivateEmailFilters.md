@@ -34,7 +34,7 @@ Role required: admin
 
 ## What to do next
 
-[Create an email filter](t_CreateAnEmailFilter.md)
+[Create an email filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailFilter.md)
 
-**Parent Topic:**[Activate email administration](../concept/activate-email-admin.md)
+**Parent Topic:**[Activate email administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/activate-email-admin.md)
 

@@ -133,5 +133,5 @@ Install App Engine Studio by requesting it from the ServiceNow Store. Visit the 
     Edit and customize workspaces built in AES.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

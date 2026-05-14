@@ -14,7 +14,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 Engaging with customers through email interaction involves verifying customer details as well as creating and updating consumer or contact records. It also includes viewing past emails in the **Activity** stream. Agents can compose email responses using email and response templates, add internal work notes, and track activity history for better context.
 
-Agents are notified of email responses received from customers in the **Ongoing** tab \(![Ongoing tab](../image/Ongoing_tab.jpg)\) on the agent workspace. This feature enables agents to view and respond to customer inquiries.
+Agents are notified of email responses received from customers in the **Ongoing** tab \(![Ongoing tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Ongoing_tab.jpg)\) on the agent workspace. This feature enables agents to view and respond to customer inquiries.
 
-For more information, see [View notifications on email response](../task/view-notifications-email-responses-received.md).
+For more information, see [View notifications on email response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/view-notifications-email-responses-received.md).
 

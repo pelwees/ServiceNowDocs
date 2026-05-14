@@ -19,7 +19,7 @@ Design and manage the appearance of the widget, such as the title, display style
 
 Role required: sp\_admin or admin
 
-**Note:** These configuration options are only available for the Quick links widget, not the Quick links \(CD\) widget. To verify which widget is present in your portal, open the page in the Service Portal Designer [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md). For more information on how to configure quick links, see [Create a quick link](create-quick-links.md)
+**Note:** These configuration options are only available for the Quick links widget, not the Quick links \(CD\) widget. To verify which widget is present in your portal, open the page in the Service Portal Designer [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md). For more information on how to configure quick links, see [Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
 ## Procedure
 
@@ -27,7 +27,7 @@ Role required: sp\_admin or admin
 
 2.  On the Employee Center home page, press and hold the control key, right-click the Quick links widget, and then select **Instance Options**.
 
-    ![Quick links widget instance options.](../images/quick-inst-opts.png "Quick links instance options")
+    ![Quick links widget instance options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/quick-inst-opts.png "Quick links instance options")
 
 3.  Configure the instance options.
 
@@ -213,14 +213,14 @@ Option to show the widget with empty state message.
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Quick links](../concept/emp-center-quick-link-config.md)
+**Parent Topic:**[Quick links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-quick-link-config.md)
 
 **Related topics**  
 
 
-[Create a quick link](create-quick-links.md)
+[Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 
-[Create an external link](create-external-links.md)
+[Create an external link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-external-links.md)
 
-[Create a quick link](create-quick-links.md)
+[Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-quick-links.md)
 

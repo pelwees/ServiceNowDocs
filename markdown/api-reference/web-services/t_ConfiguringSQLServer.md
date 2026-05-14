@@ -35,14 +35,14 @@ The ODBC driver must be installed on the same computer on which SQL Server is in
     -   Provider: `Microsoft OLE DB Provider for ODBC drivers`
     -   Product name: `ServiceNow`. This is an identifier. Enter any value that is appropriate.
     -   Data source: `ServiceNow`. This is the name of your DSN.
-    ![New Linked Server](../image/NewLinkedServer.png)
+    ![New Linked Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/NewLinkedServer.png)
 
 6.  Select **Security** from the Select a page list, and then enter the following security values:
 
     1.  For a login connection, select **Be made using this security context**.
     2.  Enter the user name and password for connecting to the ServiceNow instance.
     3.  Click **OK**.
-    ![ODBC SQL Server Security](../image/OdbcSqlserverSecurity.png)
+    ![ODBC SQL Server Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcSqlserverSecurity.png)
 
 7.  Navigate to **Server Objects** &gt; **Linked Server** &gt; **Providers** and double-click Microsoft **OLE DB Provider for ODBC drivers**.
 
@@ -55,13 +55,13 @@ The ODBC driver must be installed on the same computer on which SQL Server is in
 
     ServiceNow recommends running the third-party provider in the out-of-process mode setting \(AllowInProcess=FALSE\). If you run the provider in-process \(within the same process as SQL Server\), then any issues with the provider can affect the SQL Server process, which in turn could result in crashing SQL server.
 
-    ![SQL Server Provider Options](../image/SqlserverProviderOptions.jpg)
+    ![SQL Server Provider Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/SqlserverProviderOptions.jpg)
 
 9.  Test your connection by selecting the newly created linked server SERVICENOW and selecting **Test connection**.
 
 10. Execute the following query in a query builder window to retrieve some results.
 
-    ![ODBC SQL Server Query](../image/OdbcSqlserverQuery.png)
+    ![ODBC SQL Server Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcSqlserverQuery.png)
 
 
 ## What to do next
@@ -99,5 +99,5 @@ EXEC sp_addlinkedserver
 
 After creating the linked server, you must update its properties to specify the login credentials.
 
-**Parent Topic:**[ODBC driver in SQL Server](../concept/c_ODBCDrvrSQL20082012.md)
+**Parent Topic:**[ODBC driver in SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_ODBCDrvrSQL20082012.md)
 

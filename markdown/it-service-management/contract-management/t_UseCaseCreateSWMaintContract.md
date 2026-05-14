@@ -25,9 +25,9 @@ The goal of this example is to create a contract that shows the total amount of 
 
 ## Procedure
 
-1.  Create an [application model](../../product-catalog/concept/c_Models.md), adding a **Name** and specifying **Software License** in **Model categories**.
+1.  Create an [application model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../product-catalog/concept/c_Models.md), adding a **Name** and specifying **Software License** in **Model categories**.
 
-2.  Create a [software model](../../product-catalog/concept/c_Models.md), adding a **Name** and **Model Number**, and selecting the application model created in step 1.
+2.  Create a [software model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../product-catalog/concept/c_Models.md), adding a **Name** and **Model Number**, and selecting the application model created in step 1.
 
 3.  Create a new software entitlement by selecting the software model created in step 2.
 
@@ -100,21 +100,21 @@ Enter the value.
 
 11. Click **Update**.
 
-12. [Submit the contract for review](t_ObtainContractApproval.md).
+12. [Submit the contract for review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ObtainContractApproval.md).
 
 
-**Parent Topic:**[Create a contract](t_CreateAContract.md)
+**Parent Topic:**[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)
 
 **Related topics**  
 
 
-[Add an asset to a contract](t_AddAnAssetToAContract.md)
+[Add an asset to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAnAssetToAContract.md)
 
-[Add a user to a contract](t_AddAUserToAContract.md)
+[Add a user to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAUserToAContract.md)
 
-[Add a configuration item to a contract](t_AddAConfigurationItemToAContract.md)
+[Add a configuration item to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAConfigurationItemToAContract.md)
 
-[Add a document to a contract](t_AddADocumentToAContract.md)
+[Add a document to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddADocumentToAContract.md)
 
 [Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMOverview.md)
 

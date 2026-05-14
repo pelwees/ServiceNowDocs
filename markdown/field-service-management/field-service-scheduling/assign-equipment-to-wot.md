@@ -17,7 +17,7 @@ Assigning equipment to a work order task ensures that crews or assigned agents a
 
 An administrator must install the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). Resource scheduling is then added to the instance, and dispatchers are able to assign equipment to crews.
 
-For information about configuring Field Service Resource Scheduling plugin, see [Configuring Resource Scheduling](configure-equipment-scheduling.md).
+For information about configuring Field Service Resource Scheduling plugin, see [Configuring Resource Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-equipment-scheduling.md).
 
 Dispatchers can assign equipment and resources to crews or tasks.
 
@@ -25,7 +25,7 @@ Dispatchers can assign equipment and resources to crews or tasks.
 -   Assign equipment to task crews.
 -   Assign equipment to groups.
 
-Crew leaders can use the Now Mobile agent app to modify their crews or manage their tasks. For more information, see [Crew on ServiceNow Agent](manage-crew-mobile-agent-app.md).
+Crew leaders can use the Now Mobile agent app to modify their crews or manage their tasks. For more information, see [Crew on ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-crew-mobile-agent-app.md).
 
 -   Add, remove, or swap planned crew members.
 -   Add or remove equipment and agents according to the resource requirements of the task.
@@ -34,7 +34,7 @@ Crew leaders can use the Now Mobile agent app to modify their crews or manage th
 
 -   **Skills**
 
-    Admins to ensure only skilled, certified, or trained personnel are assigned the equipment. For more information, see [Add skills to an equipment instance](../task/add-skills-eq-instance.md).
+    Admins to ensure only skilled, certified, or trained personnel are assigned the equipment. For more information, see [Add skills to an equipment instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/add-skills-eq-instance.md).
 
 -   **Geolocation tracking**
 
@@ -44,5 +44,5 @@ Crew leaders can use the Now Mobile agent app to modify their crews or manage th
 **Related topics**  
 
 
-[Configuring Resource Scheduling](configure-equipment-scheduling.md)
+[Configuring Resource Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-equipment-scheduling.md)
 

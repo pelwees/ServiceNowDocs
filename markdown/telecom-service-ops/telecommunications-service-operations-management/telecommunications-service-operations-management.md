@@ -18,19 +18,19 @@ Learn how Telecommunications Service Operations Management \(TSOM\) empowers com
 
 <table id="table_acr_hnj_wfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how telecom service providers use Telecommunications Service Operations Management.](exploring-tsom.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how telecom service providers use Telecommunications Service Operations Management.](exploring-tsom.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Telecommunications Service Operations Management.](configuring-tsom.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Telecommunications Service Operations Management.](configuring-tsom.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Service Operations Management to track comprehensive telecom service operations.](using-tsom.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Telecommunications Service Operations Management to track comprehensive telecom service operations.](using-tsom.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Service Operations Management reference information.](../reference/components-installed-with-tsom.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get Telecommunications Service Operations Management reference information.](../reference/components-installed-with-tsom.md)
 
 </td></tr></tbody>
 </table>## Additional resources

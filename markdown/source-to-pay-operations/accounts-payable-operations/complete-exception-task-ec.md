@@ -34,5 +34,5 @@ Role required: sn\_shop.invoice\_owner or sn\_ap\_cm.task\_owner
     The status of the exception task changes to Closed complete.
 
 
-**Parent Topic:**[Work on an invoice exception](work-invoice-exception-case.md)
+**Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 

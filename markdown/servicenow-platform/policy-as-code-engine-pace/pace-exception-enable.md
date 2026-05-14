@@ -28,7 +28,7 @@ Enable exceptions for a PaCE policy and associate it with a control objective in
 
 2.  Click the policy for which you want to enable exceptions.
 
-    The Details page is displayed. ![Enable policy exception.](../image/pace-enable-exception-1.jpg)
+    The Details page is displayed. ![Enable policy exception.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-enable-exception-1.jpg)
 
     As you can see in this image, the Exception status is **Disabled**.
 

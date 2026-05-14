@@ -18,7 +18,7 @@ Test Agent autonomously manages end‑to‑end test authoring, execution, and tr
 
 By extending Build Agent, Test Agent uses the same prompt and code context to generate unit and functional ATF tests, run the tests, and automatically triage failures.
 
-![Gif showing test agent](../image/test-agent-new.gif)
+![Gif showing test agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/test-agent-new.gif)
 
 Test Agent delivers the following measurable outcomes:
 
@@ -41,13 +41,13 @@ Test Agent has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|One-stop shop experience|[Author, execute, and troubleshoot tests with Test Agent](../task/test-agent-use.md)|admin|
+|One-stop shop experience|[Author, execute, and troubleshoot tests with Test Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/test-agent-use.md)|admin|
 
 ## What to explore next
 
 To learn more about configuring and using Test Agent, see:
 
--   [Test Agent access](test-agent-access.md)
--   [Author, execute, and troubleshoot tests with Test Agent](../task/test-agent-use.md)
--   [Test Agent guidelines](test-agent-exceptions.md)
+-   [Test Agent access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-agent-access.md)
+-   [Author, execute, and troubleshoot tests with Test Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/test-agent-use.md)
+-   [Test Agent guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-agent-exceptions.md)
 

@@ -21,7 +21,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 1.  Navigate to **All** &gt; **Guided Decisions** &gt; **Decision Trees**.
 
-    ![Navigation to decision tree in the navigation side bar.](../image/nav-decision-tree.png)
+    ![Navigation to decision tree in the navigation side bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/nav-decision-tree.png)
 
 2.  Select **New** on the Decision Trees list.
 
@@ -36,7 +36,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
     |Question font size|Enter the desired font size for the questions in the guided decision tree. Example: `14`|
     |Show a dismiss button|Select this check box if you want the Dismiss button to appear on recommendation for the agent.|
 
-    ![The new record form to fill in the decision tree details.](../image/create-decision-tree-example.png)
+    ![The new record form to fill in the decision tree details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/create-decision-tree-example.png)
 
 4.  Select **Submit**.
 
@@ -45,5 +45,5 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## What to do next
 
-[Configure the start node](ask-card-holder-and-transaction-details.md) to ask for the user, card, and transaction details and determine if any amount was debited.
+[Configure the start node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ask-card-holder-and-transaction-details.md) to ask for the user, card, and transaction details and determine if any amount was debited.
 

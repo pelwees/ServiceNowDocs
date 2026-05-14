@@ -23,30 +23,30 @@ The details of the following case types in the **Review supplier primary data re
 -   Supplier location change request
 -   Conduct sanction screening
 
-For more information on required and dependent plugins for Relish, see [Relish Integration for Supplier Lifecycle Operations](relish-slo-connector.md).
+For more information on required and dependent plugins for Relish, see [Relish Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/relish-slo-connector.md).
 
 ## Verifying Supplier location change request
 
 When a location change request is assigned to a supplier manager and they start working on it, they can verify the new location by clicking **Validate**.
 
-![Verify supplier information](../image/validate.png "Verify supplier information")
+![Verify supplier information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/validate.png "Verify supplier information")
 
 Clicking the **Validate** button invokes the Relish verification process.
 
-![Screen showing Please wait while Relish is verifying information message](../image/validate-relish.png "Verify supplier information using Relish")
+![Screen showing Please wait while Relish is verifying information message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/validate-relish.png "Verify supplier information using Relish")
 
 It takes few minutes for Relish to complete the verification process. Depending on the result, the supplier manager can approve or reject the request.
 
-![Approve or reject changes](../image/validate-approve.png "Approve or reject changes")
+![Approve or reject changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/validate-approve.png "Approve or reject changes")
 
 Also, a notification can be sent to the requester.
 
-![Notify the supplier](../image/validate-email.png "Notify the supplier")
+![Notify the supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/validate-email.png "Notify the supplier")
 
-**Parent Topic:**[Manage supplier details](supp-ws-details-page.md)
+**Parent Topic:**[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Playbook for updating the supplier primary data](primary-playbook-cases.md)
+[Playbook for updating the supplier primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-playbook-cases.md)
 

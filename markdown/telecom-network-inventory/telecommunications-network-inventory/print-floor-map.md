@@ -27,7 +27,7 @@ You can print the floor map by configuring relevant options and applying filters
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the blue hub icon ![Blue Hub Icon.](../image/icon-blue-hub.png).
+2.  Select the blue hub icon ![Blue Hub Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-blue-hub.png).
 
     The Network viewer window is displayed.
 
@@ -35,9 +35,9 @@ You can print the floor map by configuring relevant options and applying filters
 
 4.  Apply filters and select your floor.
 
-5.  Select the print icon \(![Print Icon.](../image/icon-print-floor-map.png)\).
+5.  Select the print icon \(![Print Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-print-floor-map.png)\).
 
-6.  On the map pane, select the download icon \(![Download Icon](../image/icon-download.png)\).
+6.  On the map pane, select the download icon \(![Download Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-download.png)\).
 
 7.  On the Edit Map Content panel, configure the fields.
 
@@ -116,5 +116,5 @@ You can use your web browser to print the map or save it as a PDF.
 -   If the aspect ratio of the map is not the same as your instance, verify that the layout settings \(like page size and orientation\) of the print dialog of your browser are the same as the settings on your instance.
 -   If the map is shifted on the printed page, or the position of icons or the pin isn’t the same as your instance, set the margins in the print dialog of your browser to **None**.
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-floor-map.md)
 

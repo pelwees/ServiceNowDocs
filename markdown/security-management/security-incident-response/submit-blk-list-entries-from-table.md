@@ -27,7 +27,7 @@ When you want to block an observable that you have determined is malicious or al
 
 1.  Navigate to **All** &gt; **Check Point NGTP Integration** &gt; **Block Request Entries**.
 
-    ![Block Request List Entries](../image/submit-from-table.png)
+    ![Block Request List Entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/submit-from-table.png)
 
 2.  Click the **Block Request Lists** module.
 
@@ -41,7 +41,7 @@ When you want to block an observable that you have determined is malicious or al
     -   A matching observable is found, and a message is displayed that a matching observable exists. Select the Block List you want to attach this entry to and click Submit. Select the Block List you want to attach this entry to prior to setting the Expiration period.
     A message is displayed that instructs you to complete the form. A matching observable has not been found, and you must complete the form. After you complete it, select the Block List you want to attach the observable to and click Submit. An observable record is created. The following figure shows an example of an existing domain observable and how the fields are completed automatically.
 
-    ![New record](../image/list-entry-new-record.png)
+    ![New record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/list-entry-new-record.png)
 
 5.  Click the search icon to select the Block List you want to attach the entry to.
 
@@ -51,7 +51,7 @@ When you want to block an observable that you have determined is malicious or al
 
     If a message is displayed that requests you to fill in the rest of the information manually, fill in the fields.
 
-    ![New record with no matching observables](../image/new-record-no-match-observ.png)
+    ![New record with no matching observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-record-no-match-observ.png)
 
 <table id="table_kpf_lrk_ls"><thead><tr><th>
 
@@ -118,7 +118,7 @@ The expiration period inherited from the Block List by default. You can override
 
     If you have changed the default expiration period of the Block List entry, a warning confirmation dialog box is displayed indicating that the period differs from the selected Block List.
 
-    ![Expiration period message](../image/confirm-dialog.png)
+    ![Expiration period message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/confirm-dialog.png)
 
 <table id="table_mwz_wjl_rgb"><thead><tr><th>
 
@@ -147,7 +147,7 @@ Cancels the override. At this point, you can change the value for the **Expirati
 </td></tr></tbody>
 </table>9.  If not displayed, navigate to **Check Point Block Request List Entries**, and note that the status for the entry is **Pending**.
 
-    ![List entry ready for approval](../image/list-entry-ready-for-appv.png)
+    ![List entry ready for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/list-entry-ready-for-appv.png)
 
     The entry is now ready for approval.
 

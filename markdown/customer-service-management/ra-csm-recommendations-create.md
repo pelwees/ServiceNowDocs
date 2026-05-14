@@ -56,7 +56,7 @@ Then you define the action inputs, which are the parameters that enable agents t
 
     2.  In the **Document** field, select the desired action by clicking the lookup icon.
 
-        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [Creating guidance and field recommendation in Recommended Actions](../concept/ra-csm-config-recommendations.md).
+        You can also create an action of type guidance, field recommendation, or guided decision tree. For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ra-csm-config-recommendations.md).
 
     3.  Select **OK**.
 
@@ -66,9 +66,9 @@ Then you define the action inputs, which are the parameters that enable agents t
 
 8.  In the **Resource generator** field, select or create a resource generator and then save the record.
 
-    For more information, see [Create a resource generator in Recommended Actions](ra-csm-resource-generators-create.md). Guidances and field value recommendations can use resource generators to find relevant resources for the action inputs.
+    For more information, see [Create a resource generator in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators-create.md). Guidances and field value recommendations can use resource generators to find relevant resources for the action inputs.
 
-    The **Action type**, **Action**, and **Recommendation hint** fields are not available for AI search resource generator. You can select the action type as a guidance and an action when you configure the search result mapping for AI search. For more information, see [Map AI search results with guidance inputs in Recommended Actions](ra-create-search-result-mapping-for-ai-search.md).
+    The **Action type**, **Action**, and **Recommendation hint** fields are not available for AI search resource generator. You can select the action type as a guidance and an action when you configure the search result mapping for AI search. For more information, see [Map AI search results with guidance inputs in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-create-search-result-mapping-for-ai-search.md).
 
 9.  For guidances and guided decision trees: in the **Recommendation hint** field, enter a hint text.
 

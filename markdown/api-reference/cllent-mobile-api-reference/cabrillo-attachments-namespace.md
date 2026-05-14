@@ -15,13 +15,13 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 The name space for Cabrillo JS attachment functions. This enables adding and viewing attachments.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../../../../build/applications/concept/api-client-mobile.md)
 
 ## cabrillo.attachments - addFile\(String tableName, String sysId, Object params, String options\)
 
 Presents a document picker and uploads the selected file.
 
-**Important:** This method is deprecated. Use the [addFiles\(\)](cabrillo-attachments-namespace.md#) method instead.
+**Important:** This method is deprecated. Use the [addFiles\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/cabrillo-attachments-namespace.md#) method instead.
 
 |Name|Type|Description|
 |----|----|-----------|

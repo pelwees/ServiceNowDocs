@@ -17,7 +17,7 @@ This section outlines the card disputes data model and the tables installed with
 
 The following diagram shows the tables and their relationships within the card disputes data model.
 
-![Diagram showing the relationships between tables in the card disputes data model.](../../fso-deposit-operations/image/MMASSET0020606-card-dispute-data-model.png "Disputes data model")
+![Diagram showing the relationships between tables in the card disputes data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-deposit-operations/image/MMASSET0020606-card-dispute-data-model.png "Disputes data model")
 
 ## Card disputes tables
 
@@ -62,8 +62,8 @@ The following diagram shows the tables and their relationships within the card d
 |Consumer|csm\_consumer|Store information for B2C \(individual\) customers.|
 |Contact|customer\_contact|Maintain customer contact information.|
 
--   **[Dispute decision tables](../concept/dispute-decision-tables.md)**  
+-   **[Dispute decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/dispute-decision-tables.md)**  
 Decision tables in Dispute Management provide decision logic for card dispute processing.
 
-**Parent Topic:**[Data Models](../../fso-common/reference/data-models.md)
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/reference/data-models.md)
 

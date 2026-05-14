@@ -46,7 +46,7 @@ For example, assigning Bow Ruggeri to the ACME company automatically assigns him
 
 ## Using business rules to assign domains
 
-Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md).
+Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/bp-domain-sep-recommended.md).
 
 ## Using modules to assign domains
 
@@ -67,18 +67,18 @@ By default, related records inherit the domain of the parent record. For example
 
 If no other domain conditions apply, a record automatically inherits the domain of the user who creates it.
 
-**Parent Topic:**[Exploring domain separation](c_DomainSeparation.md)
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
 
-[Configuration that can be delegated to internal or external customers](ds-before-you-begin.md)
+[Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ds-before-you-begin.md)
 
-[Visibility domains and Contains domains](c_DomainVisibility.md)
+[Visibility domains and Contains domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainVisibility.md)
 
-[Domain scope](c_DomainScope.md)
+[Domain scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainScope.md)
 
-[Concepts for service providers](sp-concepts.md)
+[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/r_InstalledWithDomainSeparation.md)
 

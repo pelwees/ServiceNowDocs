@@ -28,12 +28,12 @@ A loaner order request is completed through the following stages:
 
 Loaner assets are not counted in the stockroom count when stock rules are being processed.
 
-You can't allocate an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](ham-license-exclusion.md).
+You can't allocate an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 
 **Related topics**  
 
 
-[Manage loaner assets](../task/manage-loaner-asset.md)
+[Manage loaner assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/manage-loaner-asset.md)
 
 ## Loaner asset reservation
 
@@ -49,5 +49,5 @@ As an inventory admin, if you want to confirm a wait listed loaner order, unchec
 -   Reserved
 -   In use
 
-**Note:** You can't select an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](ham-license-exclusion.md).
+**Note:** You can't select an excluded loaner asset. For more information, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md).
 

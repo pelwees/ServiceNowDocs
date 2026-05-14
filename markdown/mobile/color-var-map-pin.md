@@ -19,11 +19,11 @@ Map screens have a **Pin Color** section with a **Pin color variable** field to 
 
  Using this field you can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 
- For details on creating icon UI sections, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
+ For details on creating icon UI sections, see [Configure an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-ui-section-config-navig.md).
 
 </td><td>
 
-![Pin color showing the color labeled as Primary 1.](../image/color-var-example-3.png)
+![Pin color showing the color labeled as Primary 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-3.png)
 
 </td></tr></tbody>
 </table>## Color design guide for map pins
@@ -46,7 +46,7 @@ Primary
 
 </td><td>
 
-![Primary mobile pin](../image/icon-colors/icon-map-pin-primary.png)
+![Primary mobile pin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-map-pin-primary.png)
 
 </td><td>
 
@@ -65,7 +65,7 @@ Secondary
 
 </td><td>
 
-![Secondary mobile pin](../image/icon-colors/icon-map-pin-secondary.png)
+![Secondary mobile pin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-map-pin-secondary.png)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Tertiary
 
 </td><td>
 
-![Tertiary mobile pin](../image/icon-colors/icon-map-pin-tertiary.png)
+![Tertiary mobile pin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-map-pin-tertiary.png)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Brand
 
 </td><td>
 
-![Brand mobile pin](../image/icon-colors/icon-map-pin-brand.png)
+![Brand mobile pin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-map-pin-brand.png)
 
 </td><td>
 

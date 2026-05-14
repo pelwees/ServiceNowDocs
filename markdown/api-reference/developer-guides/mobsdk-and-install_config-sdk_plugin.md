@@ -35,13 +35,13 @@ Role required: admin
 
         A screen similar to the following should appear:
 
-        ![Verify Mobile SDK plugin](../../image/mobile_sdk-verify_plugin.png)
+        ![Verify Mobile SDK plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-verify_plugin.png)
 
     3.  Verify that the plugin **Id** is `sn_mobile_sdk` and that the version is the latest.
 
 4.  Open the Mobile SDK Settings \[sn\_mobile\_sdk\] table and create a new application record for the application that will leverage the Mobile SDK.
 
-    ![Mobile SDK Settings form](../../image/mobile_sdk-sn_mobile_sdk-screen.png)
+    ![Mobile SDK Settings form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-sn_mobile_sdk-screen.png)
 
     1.  In the **Name** field, enter the name of your application that will leverage the Mobile SDK.
 
@@ -87,7 +87,7 @@ Role required: admin
 
         Ensure that the **Advanced** check box is unselected. This allows you to enter JSON in the **SDK Settings** field.
 
-        ![SDK settings](../../image/mobile_sdk-sn_mobile_sdk_settings.png)
+        ![SDK settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-sn_mobile_sdk_settings.png)
 
         Any applicable configuration added in **SDK Settings** is used in conjunction with the ServiceNow instance configuration.
 
@@ -103,7 +103,7 @@ Role required: admin
 
         A screen similar to the following appears:
 
-        ![Register analytics](../../image/mobile_sdk-register-analytics.png)
+        ![Register analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-register-analytics.png)
 
     3.  Select **Update** to save the registration.
 
@@ -122,7 +122,7 @@ Role required: admin
 
         The response should look similar to the following:
 
-        ![Verigy SDK settings](../../image/mobile_sdk-verify_SDK-Settings.png)
+        ![Verigy SDK settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-verify_SDK-Settings.png)
 
         The JSON **Response Body** should look similar to the following:
 

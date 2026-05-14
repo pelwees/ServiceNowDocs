@@ -22,5 +22,5 @@ In a card dispute resolution process, this principle is implemented at the follo
 -   **Investigation &gt; Manual investigation**: After an agent completes the manual investigation task, a mandatory approval from a dispute manager is required to proceed further.
 -   **Chargeback &gt; Review representment**: After an agent completes the review representment task, a mandatory approval from a dispute manager is required to proceed further.
 
-**Parent Topic:**[Dispute manager workspace](workspace-for-dispute-manager.md)
+**Parent Topic:**[Dispute manager workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/workspace-for-dispute-manager.md)
 

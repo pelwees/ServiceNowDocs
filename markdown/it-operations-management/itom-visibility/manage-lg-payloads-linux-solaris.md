@@ -37,7 +37,7 @@ When Linux or Solaris storage sensors process payloads from large disk arrays, w
     -   **Windows - ADM Enhanced**
 2.  To change the threshold, double-click in the **Value** column in the list and edit the size.
 
-    ![Editing the sensor yield threshold](../image/DiscoverySensorYield.png "Editing the sensor yield threshold")
+    ![Editing the sensor yield threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/DiscoverySensorYield.png "Editing the sensor yield threshold")
 
 3.  To add another sensor and configure it for payload serialization, click **New** and complete the fields in the form.
 
@@ -46,5 +46,5 @@ When Linux or Solaris storage sensors process payloads from large disk arrays, w
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Storage discovery](../concept/c_Storage.md)
+**Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Storage.md)
 

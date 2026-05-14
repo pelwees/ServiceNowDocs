@@ -27,7 +27,7 @@ Role required: Admin
 
 ## About this task
 
-The Product Configuration console organizes the configuration work into modules and displays progress in the configuration summary. You can leave and resume the configuration at any time. For the Moveworks chat bot connection step in detail, see [Configure the Moveworks chat bot for Employee Slate](empworks-configure-moveworks-chatbot.md).
+The Product Configuration console organizes the configuration work into modules and displays progress in the configuration summary. You can leave and resume the configuration at any time. For the Moveworks chat bot connection step in detail, see [Configure the Moveworks chat bot for Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/empworks-configure-moveworks-chatbot.md).
 
 ## Procedure
 
@@ -51,11 +51,11 @@ The Product Configuration console organizes the configuration work into modules 
 
 5.  In the **Conversational Assistant** module, enter the Moveworks AI Assistant instance URL and save the configuration.
 
-    The page also offers a redirection to the Moveworks setup experience so you can further configure AI Assistant sources and behaviors. For the chat bot procedure, see [Configure the Moveworks chat bot for Employee Slate](empworks-configure-moveworks-chatbot.md).
+    The page also offers a redirection to the Moveworks setup experience so you can further configure AI Assistant sources and behaviors. For the chat bot procedure, see [Configure the Moveworks chat bot for Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/empworks-configure-moveworks-chatbot.md).
 
 6.  In the **Canvas** module, configure the default canvas view and the widget library.
 
-    Select **Canvas Editor** to configure the default canvas dashboard. Use the widget library to toggle the visibility of widgets that employees can add to their personal canvas. You can also edit or create widgets from the library. For the full procedure, see [Configure the default canvas dashboard](eslate-configure-canvas.md).
+    Select **Canvas Editor** to configure the default canvas dashboard. Use the widget library to toggle the visibility of widgets that employees can add to their personal canvas. You can also edit or create widgets from the library. For the full procedure, see [Configure the default canvas dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-configure-canvas.md).
 
 7.  In the **Documentation** module, review the links to Employee Slate documentation for home page, inbox, org chart, notifications, and employee profile.
 

@@ -18,7 +18,7 @@ Add custom tables to the Lists menu in Strategic Planning Workspace.
 ## Before you begin
 
 -   Ensure that your application scope is set to **Portfolio Planning**.
--   [Enable adding custom tables to the Lists menu](../../portfolio-planning/task/enable-adding-custom-tables-to-the-lists-menu.md).
+-   [Enable adding custom tables to the Lists menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../portfolio-planning/task/enable-adding-custom-tables-to-the-lists-menu.md).
 
 Role required: admin
 
@@ -45,8 +45,8 @@ For more information of configuring lists in a workspace, see [Lists](https://ra
 
 4.  On the form, fill in the fields.
 
-    -   [UX List Category form](../reference/ux-list-category-form.md).
-    -   [UX List form](../reference/ux-list-form.md).
+    -   [UX List Category form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/ux-list-category-form.md).
+    -   [UX List form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/ux-list-form.md).
 5.  Select **Submit**.
 
     Repeat this procedure until you've created all the custom categories and lists.
@@ -54,5 +54,5 @@ For more information of configuring lists in a workspace, see [Lists](https://ra
 
 ## What to do next
 
-[Define audience for new lists in Strategic Planning](define-audience-for-new-lists-strategic-planning.md).
+[Define audience for new lists in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/define-audience-for-new-lists-strategic-planning.md).
 

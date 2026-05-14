@@ -22,7 +22,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## About this task
 
-Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form. To generate multiple scrum tasks at once based on the story description using Now Assist, see [Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
+Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form. To generate multiple scrum tasks at once based on the story description using Now Assist, see [Generate scrum tasks for a story with Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form
 
 4.  Select the **Scrum Tasks** tab on the story form.
 
-    ![The Scrum tasks tab on a story form showing the option to add a scrum task from the side panel.](../images/cwm-scrum-tasks-add.png)
+    ![The Scrum tasks tab on a story form showing the option to add a scrum task from the side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-scrum-tasks-add.png)
 
 5.  Select **Add new**.
 
@@ -42,23 +42,23 @@ Scrum tasks are added one at a time from the **Scrum tasks** tab on a story form
 
 7.  Select the Save icon \(![](../images/cwm-icon-scrum-task-save.png)\).
 
-    ![Save the scrum task after providing its name.](../images/cwm-scrum-tasks-save.png)
+    ![Save the scrum task after providing its name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-scrum-tasks-save.png)
 
 8.  Select **+ Add new** to add more scrum tasks.
 
 
 ## What to do next
 
-To add more scrum tasks, repeat the previous steps. You can also add scrum tasks inline from the List and Sprint planning views.![Option to add scrum task for a story inline in the List view.](../images/cwm-scrum-tasks-add-inline.png)
+To add more scrum tasks, repeat the previous steps. You can also add scrum tasks inline from the List and Sprint planning views.![Option to add scrum task for a story inline in the List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-scrum-tasks-add-inline.png)
 
-To generate scrum tasks automatically based on the story content without manual work, see [Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
+To generate scrum tasks automatically based on the story content without manual work, see [Generate scrum tasks for a story with Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md).
 
-**Parent Topic:**[Scrum tasks for stories in CWM](../concept/managing-scrum-tasks-for-stories-cwm.md)
+**Parent Topic:**[Scrum tasks for stories in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/managing-scrum-tasks-for-stories-cwm.md)
 
 **Related topics**  
 
 
-[Scrum tasks for stories in CWM](../concept/managing-scrum-tasks-for-stories-cwm.md)
+[Scrum tasks for stories in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/managing-scrum-tasks-for-stories-cwm.md)
 
-[Generate scrum tasks for a story with Now Assist for CWM](../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md)
+[Generate scrum tasks for a story with Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/task/generate-scrum-tasks-for-stories-cwm.md)
 

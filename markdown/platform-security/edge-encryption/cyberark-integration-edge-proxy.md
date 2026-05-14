@@ -39,5 +39,5 @@ The proxy installer also includes a new page for CyberArk protected credentials.
 
 Any password field in the Edge proxy installer that has a CyberArk credential configured in the CyberArk vault and specified on the CyberArk Protected Credentials page of the installer is grayed out and contains the message `Protected by CyberArk`.
 
-**Parent Topic:**[Installing Edge Encryption](c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 

@@ -40,6 +40,6 @@ If Discovery isn't running on the ServiceNow instance, create a record for the *
 
 5.  Select **Submit**.
 
-    ![ESX Resource Pool form](../image/ESXResourcePool.png "ESX Resource Pool form")
+    ![ESX Resource Pool form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/ESXResourcePool.png "ESX Resource Pool form")
 
 

@@ -25,13 +25,13 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Tap the incident record you want to work on.
 
 4.  Tap **Related** &gt; **Incident tasks**.
 
-    ![Incident task record](../image/inc-task-itsm-mobile-1.png)
+    ![Incident task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/inc-task-itsm-mobile-1.png)
 
 5.  Tap on the incident task record.
 
@@ -39,9 +39,9 @@ Role required: itil, itil\_admin, or admin
 
 7.  Tap on the conference call.
 
-    ![Conference call screen](../image/participants-inc-call-itsm-mobile.png)
+    ![Conference call screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/participants-inc-call-itsm-mobile.png)
 
-8.  Tap ![More options](../image/more-options-itsm-mobile-agent.png).
+8.  Tap ![More options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/more-options-itsm-mobile-agent.png).
 
 9.  Tap **End call**.
 

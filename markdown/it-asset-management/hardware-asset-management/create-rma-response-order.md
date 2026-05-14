@@ -145,5 +145,5 @@ Reason of the RMA request creation provided by the customer.
 
 ## What to do next
 
-[Create an RMA response order line](create-rma-response-order-line.md).
+[Create an RMA response order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-rma-response-order-line.md).
 

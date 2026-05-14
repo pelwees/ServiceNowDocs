@@ -33,10 +33,10 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator
 
     `Alert2405199 and Alert2405219 were grouped together because of CI relationships. Open Dependency Map for CMDB Group Alerts. Open Dependency Map for CMDB Group Alerts`.
 
-    ![Select the link to view dependency map.](../image/open-dependency-map.png)
+    ![Select the link to view dependency map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/open-dependency-map.png)
 
 5.  Select the link to see the dependency view of the CMDB alerts.
 
-    ![View dependency map for CMDB alerts.](../image/view-dependency-map.png)
+    ![View dependency map for CMDB alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/view-dependency-map.png)
 
 

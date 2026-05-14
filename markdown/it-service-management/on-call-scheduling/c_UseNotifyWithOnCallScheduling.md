@@ -22,7 +22,7 @@ Configure the following items to use Notify with On-Call Scheduling:
 
 To set up SMS and voice message as contact methods, see [Set up Notify with On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_SetUpNotifyWithOnCall.md)
 
-**Parent Topic:**[Configuring On-Call Scheduling](configuration.md)
+**Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configuration.md)
 
 **Related topics**  
 

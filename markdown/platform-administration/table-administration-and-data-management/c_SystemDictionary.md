@@ -30,5 +30,5 @@ In most cases, use the following interfaces rather than creating entries directl
 -   To create tables and fields, use the Tables module.
 -   To create fields, configure the table form.
 
-**Parent Topic:**[Exploring ServiceNow AI Platform tables](../../table-administration/concept/exploring-table-administration.md)
+**Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../table-administration/concept/exploring-table-administration.md)
 

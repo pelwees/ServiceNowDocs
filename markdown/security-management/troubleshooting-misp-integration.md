@@ -15,28 +15,28 @@ This section covers important troubleshooting tips that can help you resolve com
 
 ## SSL issues
 
-When connecting through the MISP integration, ensure that you’ve installed a valid CA certificate on the MISP server, which hasn’t expired. You can import RSA or your own certificates into the platform and ensure that the common name of the certificate matches the host name. For more information, see [Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md) and [MISP user roles and permissions](misp-user-roles-and-permissions.md).
+When connecting through the MISP integration, ensure that you’ve installed a valid CA certificate on the MISP server, which hasn’t expired. You can import RSA or your own certificates into the platform and ensure that the common name of the certificate matches the host name. For more information, see [Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/install-and-configure-misp.md) and [MISP user roles and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md).
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/install-and-configure-misp.md)
 
-[Review the MISP integration settings](../task/review-the-misp-integration-settings.md)
+[Review the MISP integration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](../task/configure-sightings-search.md)
+[Configure MISP sighting searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-sightings-search.md)
 
-[Configure how an automatic event is created](../task/configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-event-data.md)
 
-[Associated MISP events](associated-misp-events.md)
+[Associated MISP events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associated-misp-events.md)
 
-[MISP user information](misp-user-information.md)
+[MISP user information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/misp-user-information.md)
 
-[Domain separation and MISP](domain-separation-and-misp.md)
+[Domain separation and MISP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/domain-separation-and-misp.md)
 

@@ -39,7 +39,7 @@ Import template
 
 The template highlights the invalid cell.
 
- ![Import template client validation](../image/ImportTemplateClientValidation.png)
+ ![Import template client validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../image/ImportTemplateClientValidation.png)
 
 </td></tr><tr><td>
 
@@ -53,10 +53,10 @@ Instance
 
 The import pauses and displays an error message.
 
- ![Import template server validation](../image/ImportTemplateServerValidation.png)
+ ![Import template server validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../image/ImportTemplateServerValidation.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+</table>**Parent Topic:**[Easy import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../concept/c_EasyImport.md)
 
 ## Template data validation
 

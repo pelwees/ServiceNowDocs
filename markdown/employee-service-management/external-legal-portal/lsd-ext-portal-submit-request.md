@@ -21,7 +21,7 @@ Role required: sn\_lg\_ext\_portal.ext\_user
 
 ## About this task
 
-Verify you have registered with External Legal Service Center before submitting a request for a legal service. For more information, see [Register with External Legal Service Center](lsd-external-portal-register.md).
+Verify you have registered with External Legal Service Center before submitting a request for a legal service. For more information, see [Register with External Legal Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-external-portal-register.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Verify you have registered with External Legal Service Center before submitting 
 
 6.  Add attachments.
 
-    1.  Select Add icon \(![Add icon](../image/lsd-ext-portal-add-attachment.png)\).
+    1.  Select Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-add-attachment.png)\).
 
     2.  Add attachments using any of the following methods.
 

@@ -76,5 +76,5 @@ Role required: Azure admin
 
 You must assign the permission to a role. For more information, see [https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal](https://learn.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal).
 
-Configure a lock/unlock policy. For more information, see [Set up suspension of a subscription using Azure policy](configuring-lock-unlock-policy-for-azure.md).
+Configure a lock/unlock policy. For more information, see [Set up suspension of a subscription using Azure policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configuring-lock-unlock-policy-for-azure.md).
 

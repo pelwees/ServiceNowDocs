@@ -62,5 +62,5 @@ Parameters used by a verification to configure specific behaviors, like number o
 </table>**Related topics**  
 
 
-[Create a custom Password Reset verification](../task/t_CreatePWRVerFromVerType.md)
+[Create a custom Password Reset verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreatePWRVerFromVerType.md)
 

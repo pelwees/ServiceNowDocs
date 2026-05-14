@@ -15,19 +15,19 @@ breadcrumb: [View the Initiatives and Accelerators catalog, Initiatives and Acce
 
 This is a complete catalog of Impact initiatives.
 
-Refer to [Impact packages](impact-packages.md) for additional information on initiative consumption.
+Refer to [Impact packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/impact-packages.md) for additional information on initiative consumption.
 
 <table id="table_dcj_bbv_bdc" class="nav-card presentation"><tbody><tr><td>
 
-[Access to Expertise ![](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Seek feature guidance and the most effective path forward provided by subject matter experts.](../concept/access-expertise-initiative.md)
+[Access to Expertise ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../../../reuse/icons/brand-icons/bus-start-discussion.svg)Seek feature guidance and the most effective path forward provided by subject matter experts.](../concept/access-expertise-initiative.md)
 
 </td><td>
 
-[Getting started with Developer Support![](../../../reuse/icons/brand-icons/bus-it-leader.svg)Gain an understanding of the Developer Support offering and identification of named contacts for requesting Developer Support.](getting-started-developer-support.md)
+[Getting started with Developer Support![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../../../reuse/icons/brand-icons/bus-it-leader.svg)Gain an understanding of the Developer Support offering and identification of named contacts for requesting Developer Support.](getting-started-developer-support.md)
 
 </td><td>
 
-[Preventive Care![](../../../reuse/icons/brand-icons/bus-compliance.svg)A premium, engineer-led diagnostic of instance performance executed quarterly.](../concept/preventive-care.md)
+[Preventive Care![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../../../reuse/icons/brand-icons/bus-compliance.svg)A premium, engineer-led diagnostic of instance performance executed quarterly.](../concept/preventive-care.md)
 
 </td></tr></tbody>
 </table>

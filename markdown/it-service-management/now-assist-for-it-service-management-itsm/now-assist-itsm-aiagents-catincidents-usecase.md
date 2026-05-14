@@ -26,7 +26,7 @@ To modify the Triage and categorize ITSM incidents agentic workflow, [duplicate 
 
 **Important:** When you modify an agentic workflow, AI agent, or a tool, make sure that you update all instructions accordingly.
 
-**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../../incident-management/task/activate-major-incident-management-plugin.md).
+**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../incident-management/task/activate-major-incident-management-plugin.md).
 
 ## Triage and categorize ITSM incidents agentic workflow
 
@@ -129,7 +129,7 @@ Link major incident or problem AI agent
 
 </td><td>
 
-**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](../../incident-management/task/activate-major-incident-management-plugin.md).
+**Important:** To search for related major incidents, you must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\). For more information, see [Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../incident-management/task/activate-major-incident-management-plugin.md).
 
  -   If this AI agent identifies a related, most similar major incident, it automatically links it to the current incident and ends the workflow.
 -   If the Major incident linker AI agent doesn't find a related major incident, then the Incident problem linker AI agent takes over. If it identifies any ongoing problem that best matches the incident, then it automatically links it to the incident.
@@ -151,9 +151,9 @@ In the agentic workflow record:
         The agent executes the request for the agentic workflow.
 
 
-**Example of Triage and categorize ITSM incidents agentic workflow output in the ServiceNow AI Agent Studio**![Triage and categorize ITSM incidents agentic workflow output.](../image/now-assist-itsm-aiagents-inc-triage-classify.png)
+**Example of Triage and categorize ITSM incidents agentic workflow output in the ServiceNow AI Agent Studio**![Triage and categorize ITSM incidents agentic workflow output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-aiagents-inc-triage-classify.png)
 
-In the AI Agent Studio, the human agent gets notified as soon as the category recommendation is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as the category recommendation is generated so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
 ## Automate the categorizing an incident, then automatically link them to major incidents or known problems in the Now Assist panel
 
@@ -182,11 +182,11 @@ As a user, do the following in the Now Assist panel:
     -   Configuration item
     It also updates the **Additional comments** and **Work notes** fields.
 
-    ![Now Assist for ITSM Categorize Incidents Additional Comments](../image/now-assist-itsm-inc-cat-add-comm.png)
+    ![Now Assist for ITSM Categorize Incidents Additional Comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-cat-add-comm.png)
 
 4.  The third agent, which is the Link major incident or problem AI agent updates the parent **incident** or **problem** field in the incident's related record. The AI agent updates the changes in the **Additional comments** field.
 
-![Now Assist ITSM Categorize Incidents Related Records](../image/now-assist-itsm-inc-cat-related-records.png)
+![Now Assist ITSM Categorize Incidents Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-cat-related-records.png)
 
 The image below shows the following:
 
@@ -194,5 +194,5 @@ The image below shows the following:
 -   The Classify service and CI AI agent populates the **Service**, **Service offering**, and **Configuration items** fields.
 -   The Link major incident or problem AI agent populates the **Parent incident** or the **Problem** field.
 
-![Now Assist ITSM categorize incidents workflow fields populated](../image/now-assist-itsm-inc-cat-fields.png)
+![Now Assist ITSM categorize incidents workflow fields populated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-cat-fields.png)
 

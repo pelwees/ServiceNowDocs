@@ -13,5 +13,5 @@ breadcrumb: [Reference, Care Team Work Management, Healthcare Operations, Health
 
 The following diagram shows the tables and their relationships within Care Team Work Management.
 
-![Data model for Care Team Work Management.](../image/ctwm-data-model.png)
+![Data model for Care Team Work Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/ctwm-data-model.png)
 

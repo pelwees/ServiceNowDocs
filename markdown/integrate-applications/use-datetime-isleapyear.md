@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the IsLeapYear component. For more information about these properties, see [Properties of the DateTime components](../reference/util-datetime-prop.md).
+You can configure the properties for the IsLeapYear component. For more information about these properties, see [Properties of the DateTime components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-datetime-prop.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ You can configure the properties for the IsLeapYear component. For more informat
 
 4.  Drag the GetPart component to the Design surface.
 
-5.  To configure the input field, see [Configure port properties](configure-input-port-properties.md).
+5.  To configure the input field, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 6.  Connect the data and control ports of the IsLeapYear component to the corresponding ports of the other components as described in the following table and image.
 
@@ -47,7 +47,7 @@ You can configure the properties for the IsLeapYear component. For more informat
 
 ## IsLeapYear component with GetPart and Now component
 
-![GetPart component extracts a date part from the Now component, and IsLeapYear determines if the year is a leap year.](../image/isleapyear-datetime-utlities-rpa.png "IsLeapYear component")
+![GetPart component extracts a date part from the Now component, and IsLeapYear determines if the year is a leap year.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/isleapyear-datetime-utlities-rpa.png "IsLeapYear component")
 
-**Parent Topic:**[DateTime](../concept/datetime-utility.md)
+**Parent Topic:**[DateTime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/datetime-utility.md)
 

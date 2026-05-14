@@ -109,5 +109,5 @@ First date of the fiscal period corresponding to the cost plan breakdown.
 </table>**Related topics**  
 
 
-[Update a cost plan breakdown](../task/update-cost-plan-breakdown.md)
+[Update a cost plan breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/update-cost-plan-breakdown.md)
 

@@ -25,11 +25,11 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 3.  On the recall campaign phases form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-recall-campaign-phases-form.md).
 
 
--   **[Assign or unassign impacted assets](mco_assign_unassign_impacted_assets.md)**  
+-   **[Assign or unassign impacted assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco_assign_unassign_impacted_assets.md)**  
 Create a impacted asset list and assign or unassign it to a phases or sub-phases.
 
-**Parent Topic:**[Recall a campaign phase](mco-recall-campaign-phases.md)
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 

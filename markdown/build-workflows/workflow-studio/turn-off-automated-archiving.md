@@ -19,7 +19,7 @@ Turn off the automatic archiving of context records for your complete and cancel
 
 Role required: playbook.admin
 
-If you want to change the number of days to before a playbook is archived instead, see [Configure archive settings for process contexts](config-archive-settings-process-contexts.md).
+If you want to change the number of days to before a playbook is archived instead, see [Configure archive settings for process contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/config-archive-settings-process-contexts.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ If you want to change the number of days to before a playbook is archived instea
 
 ## Turn off archiving
 
-![Animation of navigating to system properties and editing the archiving property.](../images/turn-off-archiving.gif)
+![Animation of navigating to system properties and editing the archiving property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/turn-off-archiving.gif)
 
-**Parent Topic:**[Archive process contexts](archive-process-executions.md)
+**Parent Topic:**[Archive process contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/archive-process-executions.md)
 

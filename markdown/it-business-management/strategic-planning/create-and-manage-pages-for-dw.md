@@ -26,7 +26,7 @@ Role required:
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Docs** from the L-2 \(level 2\) navigation menu.
 
@@ -56,11 +56,11 @@ Select **Create page**.The new page is created and added to your Doc with the na
 
 1.  Select **Create Page from template**.
 
-![Create Page from template](../../spw-eap/images/eap-doc-create-from-template.png)
+![Create Page from template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-create-from-template.png)
 
 2.  Select a template from the Template Center and select **Use**.
 
-![Doc templates list.](../../alignment-planner-workspace/images/spw-doc-templates-list.png)
+![Doc templates list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/images/spw-doc-templates-list.png)
 
 </td></tr><tr><td id="d308574e174">
 
@@ -68,7 +68,7 @@ Select **Create page**.The new page is created and added to your Doc with the na
 
 </td><td>
 
-Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create subpage**.![Create subpage for a Doc in Portfolio Planning.](../../spw-eap/images/eap-doc-create-subpage.png)
+Select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Create subpage**.![Create subpage for a Doc in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-create-subpage.png)
 
 </td></tr><tr><td id="d308574e201">
 
@@ -76,7 +76,7 @@ Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/ea
 
 </td><td>
 
-Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
+Select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Delete**.
 
 </td></tr><tr><td id="d308574e223">
 
@@ -84,7 +84,7 @@ Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/ea
 
 </td><td>
 
-Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Duplicate page**.
+Select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Duplicate page**.
 
 </td></tr><tr><td id="d308574e244">
 
@@ -92,10 +92,10 @@ Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/ea
 
 </td><td>
 
-1.  Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Apply template**.
+1.  Select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Apply template**.
 2.  Select a template from the Template Center and select **Use**.
 
-![Doc templates list.](../../alignment-planner-workspace/images/spw-doc-templates-list.png)
+![Doc templates list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../alignment-planner-workspace/images/spw-doc-templates-list.png)
 
 </td></tr><tr><td id="d308574e283">
 
@@ -103,7 +103,7 @@ Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/ea
 
 </td><td>
 
-1.  Select the **Page Actions** menu \(![Page Actions icon.](../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Save as template**.
+1.  Select the **Page Actions** menu \(![Page Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/images/eap-doc-page-actions-icon.png)\) and select **Save as template**.
 2.  Provide a name and description for the template.
 3.  Select whether the template is public or private.
 4.  Select **Save**.

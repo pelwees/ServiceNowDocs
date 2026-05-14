@@ -15,25 +15,25 @@ breadcrumb: [Using Project workbench - Legacy, Using Project Management, Project
 
 The project workbench allows project managers to manage all aspects of a project.
 
--   **[Open a project in the project workbench](../task/t_OpenAProjectInTheProjectWorkbench.md)**  
+-   **[Open a project in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_OpenAProjectInTheProjectWorkbench.md)**  
 The project manager can open an existing project in the project workbench.
--   **[Create a project task in the project workbench](../task/t_CreateProjTaskProjWorkbench.md)**  
+-   **[Create a project task in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateProjTaskProjWorkbench.md)**  
 Create a project task for a waterfall phase.
--   **[Manage project stories in the project workbench](../task/t_ManageProjStoriesProjWorkbench.md)**  
+-   **[Manage project stories in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ManageProjStoriesProjWorkbench.md)**  
 If Project Portfolio Management and Agile Development 2.0 are activated, the project manager can manage the stories in a project from the project workbench.
--   **[Create a story in the project workbench](../task/t_CreateAStoryInTheProjectWorkbench.md)**  
+-   **[Create a story in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAStoryInTheProjectWorkbench.md)**  
 Create a story for an agile phase.
--   **[Create a test case in the project workbench](../task/t_CreateTestCaseProjWorkbench.md)**  
+-   **[Create a test case in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateTestCaseProjWorkbench.md)**  
 Specifying a test plan is optional when creating a test phase. However, before you add test cases to a test phase, you must specify a test plan.
 
-**Parent Topic:**[Using Project workbench - Legacy](c_ProjectWorkbench.md)
+**Parent Topic:**[Using Project workbench - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Access the project workbench](../task/t_AccessTheProjectWorkbench.md)
+[Access the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_AccessTheProjectWorkbench.md)
 
-[Components of project workbench](components-project-workbench.md)
+[Components of project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/components-project-workbench.md)
 
-[Project calculation](c_ProjectWorkbenchProjectCalc.md)
+[Project calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbenchProjectCalc.md)
 

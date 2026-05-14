@@ -73,7 +73,7 @@ The Integration Commons for CMDB store app provides a dashboard with a central v
 **Related topics**  
 
 
-[Configure Nokia Altiplano service graph connector](configuring-service-graph-connector-nokia-altiplano.md)
+[Configure Nokia Altiplano service graph connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configuring-service-graph-connector-nokia-altiplano.md)
 
-[System components installed with Nokia Altiplano](../reference/properties-installed-with-nokia-altiplano.md)
+[System components installed with Nokia Altiplano](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../reference/properties-installed-with-nokia-altiplano.md)
 

@@ -173,7 +173,7 @@ The name of the account being added as an additional member.
 </td></tr></tbody>
 </table>5.  Fill in the fields on the Case form.
 
-    For more information and field descriptions, see [Create a customer service case](t_CreateACaseFromCustServApp.md).
+    For more information and field descriptions, see [Create a customer service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateACaseFromCustServApp.md).
 
 6.  Click **Save**.
 

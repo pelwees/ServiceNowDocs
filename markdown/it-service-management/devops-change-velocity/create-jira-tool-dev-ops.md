@@ -17,7 +17,7 @@ Connect to your Jira Server or Jira Cloud instance from the DevOps Change Worksp
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -49,8 +49,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\) from the primary navigation.
-2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](app-create-workspace.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\) from the primary navigation.
+2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select Jira from the **Plan** category.
 
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\) from the primary navigation.
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\) from the primary navigation.
 2.  From the Capability list, select **Planning**.
 3.  Select **Connect a tool**.
 4.  On the  Connect to a tool  modal, select **Jira**.
@@ -83,7 +83,7 @@ Jira Server
 
 This name is used to identify your Jira instance from the list of tools connected to DevOps Change Velocity.
 
- ![Connect to Jira server.](../image/jira-plybk-02.png)
+ ![Connect to Jira server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-02.png)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Jira Cloud
 
 This name is used to identify your Jira instance from the list of tools connected to DevOps Change Velocity.
 
- ![Connect to Jira cloud.](../image/jira-plybk-08.png)
+ ![Connect to Jira cloud.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-08.png)
 
 </td></tr></tbody>
 </table>3.  Select **Next**.
@@ -122,13 +122,13 @@ Jira Server
 **Note:** The Jira user that you use here must have the Jira Administrators permissions.
 
         2.  Enter the password or access token to access this instance.
-![Enter Jira server basic auth details.](../image/jira-plybk-01.png)
+![Enter Jira server basic auth details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-01.png)
 
     -   **API Key**
 
 Enter the API token to access the instance.
 
-![Enter Jira server API token.](../image/jira-plybk-11.png)
+![Enter Jira server API token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-11.png)
 
 3.  If your Jira instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -158,7 +158,7 @@ For information on obtaining the value of Cloud ID, see [Obtain the value of Clo
 
 **Note:** The Jira user that you use here must have the Jira Administrators permissions.
 
-    2.  Enter the password or access token to access this instance. ![Enter Jira Cloud instance details for basic authentication](../image/jira-plybk-12.png)
+    2.  Enter the password or access token to access this instance. ![Enter Jira Cloud instance details for basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-12.png)
 **OAuth 2.0 with 3LO**
 
 Pre-requisites:
@@ -172,7 +172,7 @@ Select an existing OAuth 2.0 credential record in the **Credential** field, or s
 
     -   The option to create a new OAuth 2.0 will only be available if you have the connection &amp; OAuth admin role.
     -   Only records that are not in use and configured for Jira Cloud can be selected as an existing credential record.
-![Enter Jira Cloud instance details for OAuth 2.0 authentication](../image/jira-plybk-10.png)
+![Enter Jira Cloud instance details for OAuth 2.0 authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-10.png)
 
 3.  If your Jira instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -185,11 +185,11 @@ For more information about MID server, see [MID Server selection](https://raw.gi
 
     3.  Permission checks are run on the credentials that you entered.
 
-        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](../reference/tool-req-permission.md).
+        Permissions required and permissions that are available are displayed. If you want to enter credentials with better permissions, select **Re-enter credentials**. For detailed information on all the required permissions, see Jira permissions in [Permissions required for DevOps tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/tool-req-permission.md).
 
         You can choose to continue with the tool connection even if you don't have all the required permissions.
 
-        ![Permission checks for connecting to Jira.](../image/jira-plybk-07.png)
+        ![Permission checks for connecting to Jira.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-07.png)
 
     4.  Select **Next**.
 
@@ -211,7 +211,7 @@ For more information about MID server, see [MID Server selection](https://raw.gi
 
     3.  Select **Assign**.
 
-        ![Specify tool access.](../image/jira-plybk-04.png)
+        ![Specify tool access.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-04.png)
 
 6.  To send data in real time between DevOps and your Jira instance, select **Configure**.
 
@@ -223,9 +223,9 @@ For more information about MID server, see [MID Server selection](https://raw.gi
 
     If you don’t choose to configure now, you can enable nightly polling later to fetch data for any tracked plans by setting the **Enable Polling** system property to **Yes**.
 
-    ![Configure Jira instance.](../image/jira-plybk-05.png)
+    ![Configure Jira instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-05.png)
 
-    To configure manually, select **Configure manually**. See [Configure webhooks in Jira manually](config-webhooks-jira-manually.md) for more information.
+    To configure manually, select **Configure manually**. See [Configure webhooks in Jira manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-webhooks-jira-manually.md) for more information.
 
     **Important:**
 
@@ -239,17 +239,17 @@ For more information about MID server, see [MID Server selection](https://raw.gi
 
     2.  Select **Next**.
 
-        ![Select Plans from Jira to track.](../image/jira-plybk-03.png)
+        ![Select Plans from Jira to track.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-03.png)
 
     3.  If you want to import plan data, select the date range and select **Submit**.
 
         You can import up to 90 days of data.
 
-        ![Import plan data.](../image/jira-plybk-09.png)
+        ![Import plan data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-09.png)
 
 8.  From the **Summary** page, select **View tool record** to review the details of the connected instance and the plans discovered from it.
 
-    ![Connection summary.](../image/jira-plybk-06.png)
+    ![Connection summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jira-plybk-06.png)
 
 
 ## Result
@@ -268,16 +268,16 @@ From the tool record page, you can:
     -   By default, projects are discovered in a set of 50 for Jira Cloud. 50 is the maximum pagination limit supported by Jira. If you want to reduce this value, then you should edit the respective constant in DevOpsCommonConstants script.
     -   Project and version data that are discovered aren't updated or tracked in real time.
 -   Assign groups to control access to the tool using the **Maintained by** field.
--   Check credential permissions and update credentials for the tool. For more details, see [Check permissions and update credentials for tools — Workspace](../reference/update-credentials-check-permissions.md).
+-   Check credential permissions and update credentials for the tool. For more details, see [Check permissions and update credentials for tools — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/update-credentials-check-permissions.md).
 -   From the **Plans** tab, select a plan to view its details such as imported work items, features, and others.
--   To import historical data from the plans, associate the plans with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
+-   To import historical data from the plans, associate the plans with an application, and import the data. For more information, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
 **Note:** It is recommended not to update the project key for projects in Jira. If the project key is updated, the updated object names will not reflect in DevOps Change Velocity. Only when the object is updated in Jira, the new name will reflect in DevOps Change Velocity.
 
-**Parent Topic:**[Jira integration with DevOps Change Velocity](../concept/jira-integration-dev-ops.md)
+**Parent Topic:**[Jira integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/jira-integration-dev-ops.md)
 
 **Related topics**  
 
 
-[Configure webhooks from the tool record](configure-webhooks-from-the-tool-record.md)
+[Configure webhooks from the tool record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 This section outlines the various approval levels required when sharing intelligence data with external organizations.
 
-The workflow below illustrates the various levels of approval involved in sharing data externally. For more information on the approval levels, see [Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md).
+The workflow below illustrates the various levels of approval involved in sharing data externally. For more information on the approval levels, see [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md).
 
-![TISC approval workflow](../image/tisc-approval-workflow.png)
+![TISC approval workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-approval-workflow.png)
 

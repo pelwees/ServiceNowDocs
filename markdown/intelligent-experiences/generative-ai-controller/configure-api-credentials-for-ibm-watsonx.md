@@ -33,7 +33,7 @@ In order to use models with IBM watsonx as your LLM provider for Generative AI C
 
 3.  Select the **Create New Connection &amp; Credential** related link.
 
-    ![Create New Connection & Credential related link highlighted on the screen.](../image/gai-create-new-connection-ibm.png)
+    ![Create New Connection & Credential related link highlighted on the screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-create-new-connection-ibm.png)
 
 4.  In the API key field, enter your API key.
 
@@ -46,7 +46,7 @@ In order to use models with IBM watsonx as your LLM provider for Generative AI C
 
 You can now use capabilities labeled with IBM watson in Flow Designer, Virtual Agent Designer, and scripts like background scripts and business rules to create custom experiences with generative AI.
 
-![Complete connection for IBM watsonx.](../image/gai-created-connection-ibm.png)
+![Complete connection for IBM watsonx.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-created-connection-ibm.png)
 
 ## What to do next
 

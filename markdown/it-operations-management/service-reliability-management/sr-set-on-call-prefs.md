@@ -27,7 +27,7 @@ Role required: srm\_manager or srm\_admin
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
-2.  From the primary navigation, select **Teams** \(![Teams.](../image/icon-sr-teams.png)\).
+2.  From the primary navigation, select **Teams** \(![Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-teams.png)\).
 
 3.  Select the team card to open.
 
@@ -95,5 +95,5 @@ Choices are:-   System default \(Escalate to all shifts\)
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Create an SRM on-call schedule](sr-create-on-call-schedule.md)
+**Parent Topic:**[Create an SRM on-call schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-on-call-schedule.md)
 

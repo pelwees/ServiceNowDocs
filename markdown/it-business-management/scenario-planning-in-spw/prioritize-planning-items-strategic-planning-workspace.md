@@ -18,7 +18,7 @@ Review and prioritize the items of your portfolio plan pipeline to add them to t
 
 ## Before you begin
 
--   [Create a portfolio plan](../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
+-   [Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/task/create-portfolio-plans-in-alignment-planner-workspace.md).
 -   Ensure that the planning items in the Prioritization tab are sorted by the Rank column in ascending order.
 
 Role required: sn\_align\_core.apw\_user
@@ -51,7 +51,7 @@ Action
 
 Update the **Planning state** field of the item.
 
- ![Planning state update in Prioritization page.](../images/backlog-planning-state.png)
+ ![Planning state update in Prioritization page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-planning-state.png)
 
 </td></tr><tr><td id="d75669e165">
 
@@ -61,7 +61,7 @@ Update the **Planning state** field of the item.
 
 Move the item card into the **Prioritized** lane.
 
- ![Prioritize item in kanban view](../images/kanban-prioritize-item.png)
+ ![Prioritize item in kanban view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/kanban-prioritize-item.png)
 
 </td></tr><tr><td id="d75669e187">
 
@@ -71,7 +71,7 @@ Move the item card into the **Prioritized** lane.
 
 Update the **Planning state** field of the item.
 
- ![Planning state in Prioritization.](../images/prioritize-item-hierarchy.png)
+ ![Planning state in Prioritization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/prioritize-item-hierarchy.png)
 
  For a high-level portfolio plan, you can’t edit the Planning state inline. Select the short description of the item to open its Full details page and then update the item's Planning item.
 
@@ -90,6 +90,6 @@ Update the **Planning state** field of the item.
 
     3.  Double-click one of the selected cells and choose a state.
 
-    ![Update planning state of multiple rows at once in Prioritization page.](../images/backlog-multi-row-update.gif)
+    ![Update planning state of multiple rows at once in Prioritization page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/backlog-multi-row-update.gif)
 
 

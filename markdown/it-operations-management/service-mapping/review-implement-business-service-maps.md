@@ -25,11 +25,11 @@ You can edit discovered and manually created service instances.
 
 **Important:** You cannot fine-tune or edit tag-based and dynamic services from the map.
 
-Reviewing and implementing owner requests is part of the [review and approval process](business-service-approval.md).
+Reviewing and implementing owner requests is part of the [review and approval process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md).
 
 To see documentation for another review phase, click the relevant box in the diagram.
 
-![Approval flow for individual application services](../image/ApproveBSFlow.png)
+![Approval flow for individual application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ApproveBSFlow.png)
 
 ## Procedure
 
@@ -60,37 +60,37 @@ To see documentation for another review phase, click the relevant box in the dia
 7.  If necessary, resend the application service for review.
 
 
--   **[Manually add CIs to an application service](manually-add-ci-to-business-service.md)**  
+-   **[Manually add CIs to an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/manually-add-ci-to-business-service.md)**  
 Add configuration items to manually created application services or to services discovered by Service Mapping.
--   **[Remove CIs not belonging to application services](remove-cis-not-belonging-business-services.md)**  
+-   **[Remove CIs not belonging to application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/remove-cis-not-belonging-business-services.md)**  
 Remove CIs erroneously mapped as part of an application service by Service Mapping. Unnecessary CIs included in the map can generate irrelevant alerts in Event Management. For example, when creating an application service for a web portal, Service Mapping might automatically discover a connection to unaffiliated external services, such as PayPal.
--   **[Transfer a map segment into another application service](add-segment-to-business-service-map.md)**  
+-   **[Transfer a map segment into another application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-segment-to-business-service-map.md)**  
 You can remove a branch of a service and place it into another application service, either new or existing. Transfer map segments to split large services or when you want to organize services differently from the initial mapping result.
--   **[Link application services](link-services-to-services.md)**  
+-   **[Link application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/link-services-to-services.md)**  
 You can manually link two application services by adding a reference to one application service into another application service. The service that contains the reference, becomes a dependent service. The service that you include as a reference is a contained service. You can link application services to create dependencies for impact monitoring in Event Management.
--   **[Discover CIs identified as generic applications](create-pattern-from-generic-application.md)**  
+-   **[Discover CIs identified as generic applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/create-pattern-from-generic-application.md)**  
 Service Mapping identifies application configuration items \(CIs\) that it failed to properly discover as generic applications. Correctly identify generic applications by creating a simplified discovery pattern from an application service map, rather than creating a fully functional pattern from scratch using the Pattern Designer.
 
-**Parent Topic:**[Application service mapping using classic Service Mapping](../concept/c_DefineMapBusinessServices.md)
+**Parent Topic:**[Application service mapping using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
 
-[Map multiple application services suggested by classic Service Mapping](map-business-services-in-bulk.md)
+[Map multiple application services suggested by classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-business-services-in-bulk.md)
 
-[Map application services using tags with classic Service Mapping](map-service-tag.md)
+[Map application services using tags with classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-service-tag.md)
 
-[Map multiple application services from a CSV file using classic Service Mapping](import-business-services-csv.md)
+[Map multiple application services from a CSV file using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/import-business-services-csv.md)
 
-[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
-[Fix application service errors in bulk](fix-bus-serv-errors-by-category.md)
+[Fix application service errors in bulk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-bus-serv-errors-by-category.md)
 
-[Fix errors in individual application service maps](fix-or-ignore-errors-business-service-map.md)
+[Fix errors in individual application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/fix-or-ignore-errors-business-service-map.md)
 
-[Review and approval of application service maps](business-service-approval.md)
+[Review and approval of application service maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/business-service-approval.md)
 
-[Application service completion](../concept/advanced-business-service-definitions.md)
+[Application service completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/advanced-business-service-definitions.md)
 
-[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 

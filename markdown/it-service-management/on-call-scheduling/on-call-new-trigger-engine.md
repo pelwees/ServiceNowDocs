@@ -34,5 +34,5 @@ The new trigger engine is applicable only when the following conditions are met:
 -   Subflows are used. The new engine is only applicable to on-call subflows and not the workflows.
 -   The **On-Call rotation new trigger engine** \[**com.snc.on\_call\_rotation.new\_trigger\_engine**\] system property is set to `true`.
 
-**Parent Topic:**[Exploring On-Call Scheduling](exploring-on-call-scheduling.md)
+**Parent Topic:**[Exploring On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
 

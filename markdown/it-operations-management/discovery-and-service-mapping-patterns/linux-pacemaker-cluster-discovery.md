@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the Linux Pacemaker Cluster discovery pattern to find high-availability cluster data and populate the CMDB with the discovered information. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-This pattern is an extension section of the [Linux Server](../../discovery/reference/r_DataCollDiscoLinuxComputers.md) pattern. Discovery uses the pattern to run horizontal discovery.
+This pattern is an extension section of the [Linux Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/r_DataCollDiscoLinuxComputers.md) pattern. Discovery uses the pattern to run horizontal discovery.
 
 You can use this pattern on the ServiceNow AI Platform® using the Madrid release or later.
 
@@ -78,7 +78,7 @@ The discovered data includes the following tables and fields.
 
 The Dependency Views map shows discovered load balancer CIs and the relationships between them.
 
-![CIs and connections on a Dependency Views map](../image/linux-pacemaker-cluster-dep-view.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/linux-pacemaker-cluster-dep-view.png)
 
 ## CI relationships
 
@@ -97,5 +97,5 @@ These relationships are created to support Linux Pacemaker Cluster discovery:
 |Contains::Contained by|cmdb\_ci\_unix\_cluster\_node|
 |Contains::Contained by|cmdb\_ci\_unix\_cluster\_resource|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

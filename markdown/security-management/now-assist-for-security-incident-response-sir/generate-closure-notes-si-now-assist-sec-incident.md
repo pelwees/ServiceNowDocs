@@ -87,14 +87,14 @@ The resolution summary is displayed on the **Details** tab on the security incid
 </td></tr></tbody>
 </table>    The following screen shot depicts the resolution notes generated for closing the security incident in Core UI16.
 
-    ![Close the security incident - Resolution notes generated in Core UI16.](../image/NA-RN-UI16.png)
+    ![Close the security incident - Resolution notes generated in Core UI16.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/NA-RN-UI16.png)
 
     Auto-generated resolution notes from the Security Incident Response Workspace.
 
-    ![Resolution Notes on the Security Incident Response workspace](../image/NA-RN-NAPanel.png)
+    ![Resolution Notes on the Security Incident Response workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/NA-RN-NAPanel.png)
 
     Edit the resolution notes generated using the Now Assist context menu on the Security Incident Response workspace.
 
-    ![Now Assist Context menu for the Close notes.](../image/NA-R-notes.png)
+    ![Now Assist Context menu for the Close notes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/NA-R-notes.png)
 
 

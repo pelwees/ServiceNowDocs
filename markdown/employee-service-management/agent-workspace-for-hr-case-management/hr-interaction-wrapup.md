@@ -19,7 +19,7 @@ Interaction wrap up feature is available for interaction type: **Phone**. When e
 
 **Note:** You can view the wrap up record within the Wrap up sub-list inside the Interaction list.
 
-![Interaction wrap up](../image/nav-ws.png)
+![Interaction wrap up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/nav-ws.png)
 
 ## Configuring interaction wrap up
 

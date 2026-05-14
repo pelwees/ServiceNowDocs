@@ -21,8 +21,8 @@ When initiating a Microsoft Teams chat, users who are part of On-Call Scheduling
 
 For more information on On-Call Scheduling, see [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
 
--   **[Extend On-Call Scheduling users to initiate Microsoft Teams Chat](../task/extend-on-call-users-start-chat-it.md)**  
+-   **[Extend On-Call Scheduling users to initiate Microsoft Teams Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/extend-on-call-users-start-chat-it.md)**  
 View the list of On-Call Scheduling users in Start Microsoft Teams chat for a change, request, or a request item.
 
-**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](sn-ms-teams-config-it.md)
+**Parent Topic:**[Configure IT Service Management integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-it.md)
 

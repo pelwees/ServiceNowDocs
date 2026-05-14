@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-**Note:** The timeline also indicates related items \(events\). One important difference is that the timeline indicates only historical related items — events that occurred before the timeline's map time. In contrast, the **Related items** panel lists all related items. For more information, see [Viewing related items on the Unified Map timeline](../concept/unified-map-timeline-working-on.md).
+**Note:** The timeline also indicates related items \(events\). One important difference is that the timeline indicates only historical related items — events that occurred before the timeline's map time. In contrast, the **Related items** panel lists all related items. For more information, see [Viewing related items on the Unified Map timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/unified-map-timeline-working-on.md).
 
 ## Procedure
 
@@ -34,9 +34,9 @@ Role required:
 
     Related items are grouped by category. Badges show the count of related items for the selected CI \(or for all CIs if no CI is selected\).
 
-    ![Related items for the selected CI.](../image/um-related-items-panel.png)
+    ![Related items for the selected CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-related-items-panel.png)
 
-    To specify which related item categories should appear on the **Related items** panel, see [Configure the Related items panel](unified-map-configure-rel-items.md).
+    To specify which related item categories should appear on the **Related items** panel, see [Configure the Related items panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-configure-rel-items.md).
 
 2.  Select an arrow to view the details of the related item record.
 

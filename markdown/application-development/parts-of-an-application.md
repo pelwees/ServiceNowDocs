@@ -15,7 +15,7 @@ Applications in ServiceNow have tables, UI elements, application files, integrat
 
 ## Parts of an application
 
-![Infographic showing how applications contain tables, UI elements, files, integrations, and dependencies. For a text description, refer to the following content.](../image/parts-of-an-app.png)
+![Infographic showing how applications contain tables, UI elements, files, integrations, and dependencies. For a text description, refer to the following content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/parts-of-an-app.png)
 
 -   **Tables** are the foundation of ServiceNow applications, where data is stored and new records are created.
 -   **UI elements** enable users to interact with your application. Menus, modules, lists, and forms are just some of the UI elements you can add to an application.
@@ -46,5 +46,5 @@ It's similar to a system dictionary record for a table or column in that it stor
 -   View the run-time resource to which the application has been granted access
 -   View the design-time resources to which the application has been granted access
 
-**Parent Topic:**[Overview of building apps in ServiceNow](overview-building-apps-in-servicenow.md)
+**Parent Topic:**[Overview of building apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/overview-building-apps-in-servicenow.md)
 

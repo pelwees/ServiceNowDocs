@@ -101,5 +101,5 @@ Order that the menu item appears in the menu list.
     The new menu is displayed. If it does not appear, ensure that active is marked and then refresh your instance.
 
 
-**Parent Topic:**[Configuring the Next Experience UI](../concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-ui-admin.md)
 

@@ -17,7 +17,7 @@ The Task SLA cards component can display multiple SLAs. The cards are displayed 
 
 **Note:** When there are no active SLAs, the Task SLA cards component isn't shown.
 
-![SLA card component with three SLA cards displayed in a carousel. Cards include the SLA name, time remaining and current status.](../image/component-sla-card.png "Task SLA cards component")
+![SLA card component with three SLA cards displayed in a carousel. Cards include the SLA name, time remaining and current status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/component-sla-card.png "Task SLA cards component")
 
 The Task SLA cards component is available on the Front-line case page in the contextual side panel. The SLA cards appear in the Record Information tab below below the record information card.
 

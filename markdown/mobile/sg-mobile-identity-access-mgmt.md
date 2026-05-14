@@ -22,7 +22,7 @@ The ServiceNow mobile apps use a new authentication methodology called AppAuth. 
 3.  The client then sends the authorization code in the Access Token Request as usual but includes the `code_verifier` secret generated in the previous steps.
 4.  The authorization server transforms `code_verifier` and compares it to `t(code_verifier)` from the previous steps. Access is denied if they are not equal.
 
-![Flow for the authentication process for logging in to a mobile app](../image/AppAuthArch.png "Abstract protocol flow")
+![Flow for the authentication process for logging in to a mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/AppAuthArch.png "Abstract protocol flow")
 
 ## Single sign-on
 
@@ -36,7 +36,7 @@ For more information on configuring multi provider SSO, see [Multi-Provider sing
 
 Users can access the instance via Multifactor Authentication using the MFA plugin \[com.snc.integration.multifactor.authentication\]. Users are directed to their login page after selecting their instance in a mobile app.
 
-![Multifactor login page in the Mobile Agent app.](../image/mobile-mfa-redirect.png "Multifactor login page in the Mobile Agent app")
+![Multifactor login page in the Mobile Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-mfa-redirect.png "Multifactor login page in the Mobile Agent app")
 
 For details on configuring Multi-factor Authentication, see [Multifactor authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-properties.md)
 
@@ -53,5 +53,5 @@ The user name and password in the user record in the instance database.
 -   Kerberos
 -   Certificate-based authentication \(AppAuth’s external browser may solve for some certificate based mechanisms\)
 
-**Parent Topic:**[Identity and access management](sg-mobile-ID-access-mgmt.md)
+**Parent Topic:**[Identity and access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-ID-access-mgmt.md)
 

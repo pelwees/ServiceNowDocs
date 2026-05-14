@@ -19,27 +19,27 @@ Enhance your workplace's reservation experience by synchronizing your reservatio
 
 <table id="table_lxp_xlf_ptb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Calendar Synchronization concepts and features.](workplace-calendar-synchronization-overview.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Calendar Synchronization concepts and features.](workplace-calendar-synchronization-overview.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install the Workplace Calendar Synchronization application.](configure-rsv-sync.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install the Workplace Calendar Synchronization application.](configure-rsv-sync.md)
 
 </td><td>
 
-[Synchronize ![Synchronize](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Synchronize reservations between Workplace Reservation Management](workplace-calendar-synchronization-setup.md)
+[Synchronize ![Synchronize](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Synchronize reservations between Workplace Reservation Management](workplace-calendar-synchronization-setup.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage reservation synchronizations, view the synchronization deltas. Know about sync conditions and troubleshooting.](manage-calendar-synchronizations.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-headset.svg) Manage reservation synchronizations, view the synchronization deltas. Know about sync conditions and troubleshooting.](manage-calendar-synchronizations.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with the synchronization dashboard.](analytics-reporting-calendar-sync.md)
+[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with the synchronization dashboard.](analytics-reporting-calendar-sync.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like roles, tables, properties, scheduled jobs and flows.](workplace-calendar-sync-references.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like roles, tables, properties, scheduled jobs and flows.](workplace-calendar-sync-references.md)
 
 </td></tr></tbody>
 </table>

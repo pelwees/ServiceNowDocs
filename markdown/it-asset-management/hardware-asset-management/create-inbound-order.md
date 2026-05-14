@@ -113,5 +113,5 @@ Estimated delivery date of the asset that's being sent to the specified delivery
 
 ## What to do next
 
-[Create an inbound asset order line](create-inbound-order-line.md)
+[Create an inbound asset order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-inbound-order-line.md)
 

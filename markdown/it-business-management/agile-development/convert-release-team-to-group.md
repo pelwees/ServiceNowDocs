@@ -39,5 +39,5 @@ Agile Development 2.0 does not use Release Teams. Existing users who have create
 -   The release team is available as assignment group from **Agile Development** &gt; **Groups**.
 -   The members of the release team are copied to the assignment group.
 
-**Parent Topic:**[Assignment groups in Agile Development 2.0](../concept/manage-groups-agile-dev.md)
+**Parent Topic:**[Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/manage-groups-agile-dev.md)
 

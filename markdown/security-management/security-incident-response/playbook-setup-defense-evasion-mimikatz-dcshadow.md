@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  Create a copy of the T1003 - Defense Evasion - Mimikatz DCShadow playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, select the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, select the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the T1003 - Defense Evasion - Mimikatz DCShadow playbook.](../image/playbook-mimikatz-dcshadow-overview.png "T1003 - Defense Evasion - Mimikatz DCShadow playbook")
+    ![Overview of the T1003 - Defense Evasion - Mimikatz DCShadow playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-mimikatz-dcshadow-overview.png "T1003 - Defense Evasion - Mimikatz DCShadow playbook")
 
 4.  Activate the playbooks.
 
@@ -46,8 +46,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     This playbook is triggered and associated with the security incident when the **Category** is **Malicious code activity**.
 
-    ![Trigger condition for T1003 - Defense Evasion - Mimikatz DCShadow playbook.](../image/playbook-mimikatz-dcshadow-trigger.png "T1003 - Defense Evasion - Mimikatz DCShadow playbook trigger condition")
+    ![Trigger condition for T1003 - Defense Evasion - Mimikatz DCShadow playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-mimikatz-dcshadow-trigger.png "T1003 - Defense Evasion - Mimikatz DCShadow playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](../concept/playbook-defense-evasion-mimikatz-dcshadow.md)
+**Parent Topic:**[Playbook for T1003 - Defense Evasion - Mimikatz DCShadow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-defense-evasion-mimikatz-dcshadow.md)
 

@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Configure the map properties for the Location directory.
 
-    For more information about the map properties, see [Properties installed with Workplace Space Mapping](../../workplace-space-mapping/reference/wsd-space-mapping-properties.md).
+    For more information about the map properties, see [Properties installed with Workplace Space Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../workplace-space-mapping/reference/wsd-space-mapping-properties.md).
 
 3.  Select **Save**.
 
@@ -40,12 +40,12 @@ Role required: admin
     3.  Set the value of the property to **true** and save the record.
 
 
-**Parent Topic:**[Manage workplace activities and services with Location directory](../concept/location-directory.md)
+**Parent Topic:**[Manage workplace activities and services with Location directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/location-directory.md)
 
 **Related topics**  
 
 
-[Work with the Map view on the Location Directory](wsd-map-view-loc-directiory.md)
+[Work with the Map view on the Location Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-map-view-loc-directiory.md)
 
-[Work with the Card view on the Location directory](wsd-card-view-loc-directory.md)
+[Work with the Card view on the Location directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-card-view-loc-directory.md)
 

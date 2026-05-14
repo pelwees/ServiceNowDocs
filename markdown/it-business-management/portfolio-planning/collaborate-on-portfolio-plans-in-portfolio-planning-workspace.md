@@ -18,7 +18,7 @@ Add comments and attachments to your portfolio plan so that users can review and
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 
 Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
@@ -34,7 +34,7 @@ The attachments and comments that you add from the portfolio plan's header, they
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
-3.  From the portfolio plan header in the Planning page, select the **Comments** icon \(![Comments icon.](../../alignment-planner-workspace/images/icon-comments.png)\).
+3.  From the portfolio plan header in the Planning page, select the **Comments** icon \(![Comments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-comments.png)\).
 
 4.  Add comments or attachments to the portfolio plan.
 
@@ -66,10 +66,10 @@ In the Comments tab, add notes or comments and select **Post Worknotes**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-portfolio-plans-in-portfolio-planning.md)
 
 **Related topics**  
 
 
-[Show or hide the features for a portfolio plan](show-or-hide-the-features-for-your-portfolio-plan-ppw.md)
+[Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/show-or-hide-the-features-for-your-portfolio-plan-ppw.md)
 

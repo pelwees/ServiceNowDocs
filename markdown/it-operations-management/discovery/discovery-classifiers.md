@@ -36,11 +36,11 @@ Discovery classification can be broken down into three types: device classificat
     -   Shazzam determines that the ports for HTTP \(80\) and HTTPS \(443\) traffic are open.
     -   The horizontal discovery process fails for the higher priority port probes \(WMI, SSH, and SNMP\) if the ports for those protocols are not open, or if discovery for those protocols fail. The horizontal discovery process can fail, for example, if SSH and SNMP credentials are not configured or are incorrect.
 
-        **Note:** See [Port Probes](../reference/r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
+        **Note:** See [Port Probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_PortProbes.md) for more details on how port scanning works and to see the priorities of the different protocols.
 
     HTTP classification launches the **HTTP Classify** probe to classify the device. The **HTTP - Classify** probe runs a GET request for each device for each HTTP classification. The URL of the request is built as follows: `PROTOCOL://IP:PORT/PATH`, where:
 
-    For more information on port probes, see [Port probes](../reference/r_PortProbes.md). For instructions on creating an HTTP classifier, see [Create an HTTP classification](../task/create-an-http-classifier.md).
+    For more information on port probes, see [Port probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_PortProbes.md). For instructions on creating an HTTP classifier, see [Create an HTTP classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/create-an-http-classifier.md).
 
 -   **Process classification**
 
@@ -58,10 +58,10 @@ Discovery classification can be broken down into three types: device classificat
 
     This diagram shows the processing flow for classifying and probing devices with an IP scan \(no identifiers\):
 
-    ![IP acan classification](../image/DiscoveryClassificationDiagram.png "IP scan classification")
+    ![IP acan classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryClassificationDiagram.png "IP scan classification")
 
 
-See [Classification for IP address discovery](ip-address-scanning-classification.md) for more details about the parameters available to classifiers for this type of discovery.
+See [Classification for IP address discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/ip-address-scanning-classification.md) for more details about the parameters available to classifiers for this type of discovery.
 
 ## Classifier criteria
 
@@ -71,7 +71,7 @@ Classifiers also provide criteria that you can use to specify when Discovery sho
 
 ## Classifiers and patterns
 
-Discovery can use patterns, rather than probes, to identify and explore CIs. Discovery triggers patterns from the Horizontal Discovery probe, which can be specified on a classifier. You can create you own patterns and add them, via the Horizontal Discovery probe, to a classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions. You might already be using one of the out-of-box patterns that are provided with Discovery. You can verify this by looking at the classifier to see if the Horizontal Pattern Probe is specified.
+Discovery can use patterns, rather than probes, to identify and explore CIs. Discovery triggers patterns from the Horizontal Discovery probe, which can be specified on a classifier. You can create you own patterns and add them, via the Horizontal Discovery probe, to a classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md#) for instructions. You might already be using one of the out-of-box patterns that are provided with Discovery. You can verify this by looking at the classifier to see if the Horizontal Pattern Probe is specified.
 
 ## Logging classification debugging information
 
@@ -98,10 +98,10 @@ Enables debugging information for process classification. -   **Type**: true \| 
 </td></tr></tbody>
 </table>## What you can do with Discovery classification
 
--   Create or modify a discovery classifier if you want to classify CIs that Discovery does not already classify, or trigger other probes that are not already on a classifier. You can modify classifiers that Discovery uses in [standard CI discovery](../task/create-discovery-ci-classification.md), [process classifiers for applications](../task/t_CreateAProcessClassification.md), and [classifiers based on IP address scans](../task/t_ClassifForIPAddrScan.md).
+-   Create or modify a discovery classifier if you want to classify CIs that Discovery does not already classify, or trigger other probes that are not already on a classifier. You can modify classifiers that Discovery uses in [standard CI discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/create-discovery-ci-classification.md), [process classifiers for applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_CreateAProcessClassification.md), and [classifiers based on IP address scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_ClassifForIPAddrScan.md).
 
-    Before you modify any classifiers, [review the parameters](../reference/classification-parameters.md) that are available for each type of classifier.
+    Before you modify any classifiers, [review the parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/classification-parameters.md) that are available for each type of classifier.
 
--   If Windows machines are on your network, you can use the WinRM protocol, rather than WMI, for more efficient lightweight data transfer and remote command execution. By default, Discovery uses WMI. For instructions on the classifier modifications you can make to use WinRM, see [Use Windows Remote Management for classification](../../mid-server/task/t_EnableDeviceClassWinRemoteMgmt.md).
--   If you have Windows computers that are acting as servers and you want them to be classified by their function rather than by the operating system, you can make changes to the criteria of the Windows classifier. See [Reclassify a Windows Workstation machine as a server](../task/t_ReClassWinWorkstnAsSvr.md) for instructions.
+-   If Windows machines are on your network, you can use the WinRM protocol, rather than WMI, for more efficient lightweight data transfer and remote command execution. By default, Discovery uses WMI. For instructions on the classifier modifications you can make to use WinRM, see [Use Windows Remote Management for classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../mid-server/task/t_EnableDeviceClassWinRemoteMgmt.md).
+-   If you have Windows computers that are acting as servers and you want them to be classified by their function rather than by the operating system, you can make changes to the criteria of the Windows classifier. See [Reclassify a Windows Workstation machine as a server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_ReClassWinWorkstnAsSvr.md) for instructions.
 

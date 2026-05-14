@@ -37,7 +37,7 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 
 8.  Select **Sync document**.
 
-    ![Sync document button in a contract request](../image/cmpro-sync-doc.png "Sync document")
+    ![Sync document button in a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-sync-doc.png "Sync document")
 
     A new contract document revision is created with the updated signatory information.
 
@@ -50,5 +50,5 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 11. Select **Send for signature** on the confirmation message.
 
 
-**Parent Topic:**[Updating and synchronizing signatories](cncore-update-sync-signatories.md)
+**Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 

@@ -25,13 +25,13 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 
 2.  Open the required epic.
 
-3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](../image/hamburger-icon.png)\).
+3.  Select **View** &gt; **Benefit** from the Additional actions menu \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/hamburger-icon.png)\).
 
 4.  Click the Non-monetary Benefit Plans related list.
 
 5.  Open the required non-monetary benefit plan.
 
-6.  In the Non-monetary Benefit Plan Breakdowns related list, click the information icon \(![information icon.](../../planning-and-policy/image/informationicon.png)\) for a non-monetary benefit plan breakdown.
+6.  In the Non-monetary Benefit Plan Breakdowns related list, click the information icon \(![information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../planning-and-policy/image/informationicon.png)\) for a non-monetary benefit plan breakdown.
 
 7.  Click **Open Record**.
 
@@ -51,5 +51,5 @@ Role required: scrum\_master, scrum\_product\_owner, or scrum\_admin
 9.  Click **Update**.
 
 
-**Parent Topic:**[Create a non-monetary benefit plan for an epic](create-non-monetary-benefit-plan-agile-epic.md)
+**Parent Topic:**[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-non-monetary-benefit-plan-agile-epic.md)
 

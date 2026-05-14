@@ -19,7 +19,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-To format the PDF for your business needs, see [Format PDF templates for BIAs, BCPs, and Events](update-pdf-format-for-bia-bcp-event.md).
+To format the PDF for your business needs, see [Format PDF templates for BIAs, BCPs, and Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-pdf-format-for-bia-bcp-event.md).
 
 Beginning with the Xanadu release, the content in PDFs of Business Impact Analyses, Plans, and Events is improved by implementing a new layout:
 
@@ -40,28 +40,28 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     The example shows the message that is displayed on the screen: `<Name of the exercise event> PDF has been successfully generated for download.`
 
-    ![Downloading the event PDF.](../image/event-pdf-download.png)
+    ![Downloading the event PDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-pdf-download.png)
 
 4.  To download the PDF, select the link in the message.
 
     The example shows that the PDF of the exercise has been downloaded locally.
 
-    ![Event PDF that can be customized.](../image/event-pdf-to-be-customized.png)![Event details.](../image/event-details-pdf.png)
+    ![Event PDF that can be customized.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-pdf-to-be-customized.png)![Event details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-details-pdf.png)
 
 5.  Save the PDF on your system.
 
     You can save the PDF for a future reference.
 
-6.  To format the Events PDF template, follow the instructions in [Format PDF templates for BIAs, BCPs, and Events](update-pdf-format-for-bia-bcp-event.md).
+6.  To format the Events PDF template, follow the instructions in [Format PDF templates for BIAs, BCPs, and Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-pdf-format-for-bia-bcp-event.md).
 
 7.  To create the event report in Microsoft Word, select **Generate MS Word**.
 
     Generate a report of the event or crisis record in Microsoft Word format. The Microsoft Word copy of the BIA record is successfully generated that you can download.
 
-    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](../concept/integrating-document-designer-with-bcm.md).
+    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/integrating-document-designer-with-bcm.md).
 
 8.  To print the report, open the saved PDF or Microsoft Word copy and select **Print**.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

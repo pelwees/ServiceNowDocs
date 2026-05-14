@@ -24,8 +24,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 Dependencies and requirements:
 
 -   Wiz advanced or standard license
--   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md).
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md).
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   ITOM Licensing plugin \(com.snc.itom.license\). See [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   Discovery and Service Mapping Patterns \(sn\_itom\_pattern\). See [Install Discovery and Service Mapping Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/install-discovery-service-mapping-patterns.md).
 -   Discovery Core \(com.snc.discovery.core\)
@@ -37,7 +37,7 @@ You must obtain the OAuth credentials associated with the Wiz service account an
 -   OAuth Token URL
 -   Connection URL
 
-See [Set up the Wiz environment](sgc-cmdb-wiz-setup.md).
+See [Set up the Wiz environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-wiz-setup.md).
 
 You must have the following permissions for the Wiz service account:
 
@@ -102,7 +102,7 @@ Client ID
 
 </td><td>
 
-Client ID of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#prereq).
+Client ID of your Wiz application as described in [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-wiz-integration.md#prereq).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Client Secret
 
 </td><td>
 
-Client secret of your Wiz application as described in [Before you begin](sgc-config-wiz-integration.md#prereq).
+Client secret of your Wiz application as described in [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-wiz-integration.md#prereq).
 
 </td></tr><tr><td>
 

@@ -19,15 +19,15 @@ Employee Journey Management integrates HR Service Delivery features and applicat
 
 <table id="table_z3y_d1g_h2c" class="nav-card presentation"><tbody><tr><td>
 
-[Journey Designer![](../../../reuse/icons/brand-icons/bus-service-aware.svg)Personalize employee journeys to enhance their experience.](jny-dsgnr-landing-page-1.md)
+[Journey Designer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-service-aware.svg)Personalize employee journeys to enhance their experience.](jny-dsgnr-landing-page-1.md)
 
 </td><td>
 
-[Journey Accelerator![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Journey Accelerator to create personalized journey plans for key employee transitions.](journey-accelerator-1.md)
+[Journey Accelerator![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-rocketship.svg)Use Journey Accelerator to create personalized journey plans for key employee transitions.](journey-accelerator-1.md)
 
 </td><td>
 
-[Lifecycle Events![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Lifecycle Events to automate complex processes across the enterprise and create great employee experiences during moments that matter.](hr-lifecycle-events-landing-page-1.md)
+[Lifecycle Events![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Lifecycle Events to automate complex processes across the enterprise and create great employee experiences during moments that matter.](hr-lifecycle-events-landing-page-1.md)
 
 </td></tr></tbody>
 </table>## Additional resources

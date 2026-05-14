@@ -15,7 +15,7 @@ breadcrumb: [Configure, Creator Studio, Building no-code applications, Developin
 
 You can install Pipelines and Deployments and configure a controller instance to deploy apps built in Creator Studio to production instances.
 
-For details on how to set up Pipelines and Deployments, see [Configure Pipelines and Deployments](../../pipelines-and-deployments/task/config-p-and-d.md).
+For details on how to set up Pipelines and Deployments, see [Configure Pipelines and Deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../../pipelines-and-deployments/task/config-p-and-d.md).
 
-**Parent Topic:**[Configuring Creator Studio](configuring-creator-studio.md)
+**Parent Topic:**[Configuring Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/configuring-creator-studio.md)
 

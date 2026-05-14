@@ -19,27 +19,27 @@ Monetary and non-monetary benefit plans capture the financial and non-financial 
 
 ## Benefit Plans in Project Management
 
--   [Create a monetary benefit plan for a project](../../project-management/task/create-project-benefit-plan.md)
--   [Create a non-monetary benefit plan for a project](../../project-management/task/create-a-non-monetary-benefit-plan-for-a-project.md)
--   [Associate monetary and non-monetary benefit plans of a project](../../project-management/task/associate-monetary-and-non-monetary-benefit-plans-project.md)
+-   [Create a monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../project-management/task/create-project-benefit-plan.md)
+-   [Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../project-management/task/create-a-non-monetary-benefit-plan-for-a-project.md)
+-   [Associate monetary and non-monetary benefit plans of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../project-management/task/associate-monetary-and-non-monetary-benefit-plans-project.md)
 
 ## Benefit Plans in Demand Management
 
--   [Create a monetary benefit plan for a demand](../../planning-and-policy/task/create-demand-benefit-plan.md)
--   [Create a non-monetary benefit plan for a demand](../../planning-and-policy/task/create-a-non-monetary-benefit-plan-for-a-demand.md)
--   [Associate monetary and non-monetary benefit plans of a demand](../../planning-and-policy/task/associate-monetary-and-non-monetary-benefit-plans.md)
+-   [Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../planning-and-policy/task/create-demand-benefit-plan.md)
+-   [Create a non-monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../planning-and-policy/task/create-a-non-monetary-benefit-plan-for-a-demand.md)
+-   [Associate monetary and non-monetary benefit plans of a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../planning-and-policy/task/associate-monetary-and-non-monetary-benefit-plans.md)
 
 ## Benefit Plans in Agile Development 2.0
 
--   [Create a monetary benefit plan for an agile development epic](../../agile-development/task/create-monetary-benefit-plan-agile-epic.md)
--   [Create a non-monetary benefit plan for an agile development epic](../../agile-development/task/create-non-monetary-benefit-plan-agile-epic.md)
--   [Associate monetary and non-monetary benefit plans of an agile development epic](../../agile-development/task/associate-benefit-plans-agile-epic.md)
+-   [Create a monetary benefit plan for an agile development epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-development/task/create-monetary-benefit-plan-agile-epic.md)
+-   [Create a non-monetary benefit plan for an agile development epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-development/task/create-non-monetary-benefit-plan-agile-epic.md)
+-   [Associate monetary and non-monetary benefit plans of an agile development epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-development/task/associate-benefit-plans-agile-epic.md)
 
 ## Benefit Plans in Scaled Agile Framework \(SAFe\)
 
--   [Create a monetary benefit plan for an SAFe epic](../../agile-SAFe/task/create-monetary-benefit-plan-safe-epic.md)
--   [Create a non-monetary benefit plan for an SAFe epic](../../agile-SAFe/task/create-non-monetary-benefit-plan-safe-epic.md)
--   [Associate monetary and non-monetary benefit plans of an SAFe epic](../../agile-SAFe/task/associate-benefit-plans-safe-epic.md)
+-   [Create a monetary benefit plan for an SAFe epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-SAFe/task/create-monetary-benefit-plan-safe-epic.md)
+-   [Create a non-monetary benefit plan for an SAFe epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-SAFe/task/create-non-monetary-benefit-plan-safe-epic.md)
+-   [Associate monetary and non-monetary benefit plans of an SAFe epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../agile-SAFe/task/associate-benefit-plans-safe-epic.md)
 
-**Parent Topic:**[Project Portfolio Management](../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
+**Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/../../project-portfolio-suite/concept/c_ProjectPortfolioSuite.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_cm\_core.contract\_config
 
 1.  In Microsoft Word, open the document that you want to import as a contract template.
 
-2.  On the Microsoft Word Home ribbon, select the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](../image/lsd-word-formatting-icon.png)\) to see the formatting symbols.
+2.  On the Microsoft Word Home ribbon, select the Show/Hide formatting marks icon \(![Show/Hide formatting marks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-word-formatting-icon.png)\) to see the formatting symbols.
 
 3.  Display the **Developer** tab in Microsoft Word.
 
@@ -35,7 +35,7 @@ Role required: sn\_cm\_core.contract\_config
 
 5.  Select **Plain Text Content Control** from the **Developer** tab.
 
-    ![Content control example](../image/lsd-content-control-eg.png)
+    ![Content control example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-content-control-eg.png)
 
 6.  Select the **Properties** option from the **Developer** tab.
 
@@ -63,16 +63,16 @@ Role required: sn\_cm\_core.contract\_config
 9.  Select **OK**.
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-setup-ct-manual.md)
 
 **Related topics**  
 
 
-[Create a contract template](cncore-create-contract-template.md)
+[Create a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-template.md)
 
-[Create and configure participants](cncore-add-participants.md)
+[Create and configure participants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-participants.md)
 
-[Classify and map imported clauses](cncore-import-clauses.md)
+[Classify and map imported clauses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-import-clauses.md)
 
-[Update contract template mappings](cncore-template-mapping.md)
+[Update contract template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-template-mapping.md)
 

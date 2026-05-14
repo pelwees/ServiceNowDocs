@@ -21,7 +21,7 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -32,7 +32,7 @@ If you want to apply two breakdowns to an indicator, create a pivot widget with 
 -   Pivot widgets do not support the **Follow Element** function. Dashboard breakdowns cannot apply to these widgets.
 -   Heatmaps cannot display more than 1000 cells. If the total number of elements of the two breakdowns is above 1000, the heatmap does not appear.
 
-![Heatmap visualization of open incidents by priority and category](../image/heatmap-pivot-widget.png "Heatmap visualization - pivot widget")
+![Heatmap visualization of open incidents by priority and category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/heatmap-pivot-widget.png "Heatmap visualization - pivot widget")
 
 ## Procedure
 

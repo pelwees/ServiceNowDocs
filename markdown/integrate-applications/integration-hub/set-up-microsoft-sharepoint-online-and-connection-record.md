@@ -18,7 +18,7 @@ Integrate your ServiceNow instance with the Microsoft SharePoint Online by setti
 ## Before you begin
 
 -   Request Integration Hub subscription
--   Activate [Microsoft SharePoint Online Spoke](../concept/sharepoint-online-spoke.md)
+-   Activate [Microsoft SharePoint Online Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/sharepoint-online-spoke.md)
 -   Create an OAuth application on Microsoft Azure portal.
 -   Access to Microsoft Azure portal
 -   Role required: admin
@@ -64,7 +64,7 @@ Role required: admin
 
     The keystore asks you to enter certain information.
 
-3.  Enter your custom information, as given in the image for illustration.![Keystore custom information.](../image/MS-sharepoint-spoke-sponline-certificate-mac.png)
+3.  Enter your custom information, as given in the image for illustration.![Keystore custom information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-certificate-mac.png)
 
 4.  Press **Return**.
 
@@ -82,7 +82,7 @@ Role required: admin
 
 8.  To locate the .cer file, navigate to the location on your local disk.
 
-    ![Location of the .cer file.](../image/MS-sharepoint-spoke-sponline-cer-file-generated.png)
+    ![Location of the .cer file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-cer-file-generated.png)
 
 
 ## Configure an application in Microsoft Azure
@@ -102,27 +102,27 @@ Create a custom app using your Azure portal to authenticate requests.
 
     2.  Select **App registrations**.
 
-        ![App registration button.](../image/MS-sharepoint-spoke-app-reg-button.png)
+        ![App registration button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-app-reg-button.png)
 
     3.  Select **All applications** or **Owned applications.**
 
-        ![OAuth application selection options.](../image/ms-sharepoint-spoke-graph-select-app.png)
+        ![OAuth application selection options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-sharepoint-spoke-graph-select-app.png)
 
     4.  In the search field, enter the name of the OAuth application you had created.
 
-        To learn how to configure an OAuth application, see [Configure OAuth application in Microsoft Azure](configure-oauth-application-in-microsoft-azure.md).
+        To learn how to configure an OAuth application, see [Configure OAuth application in Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-oauth-application-in-microsoft-azure.md).
 
     5.  On the left panel, under Manage heading, select Certificates &amp; secrets.
 
-        ![Certificates & secrets.](../image/MS-sharepoint-sponline-upload-certificate.png)
+        ![Certificates & secrets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-sponline-upload-certificate.png)
 
     6.  Under Certificates &amp; secrets, select Certificates.
 
-        ![Certificate section.](../image/MS-sharepoint-sponline-certificate-section.png)
+        ![Certificate section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-sponline-certificate-section.png)
 
     7.  Select **Upload certificate**.
 
-    8.  In the Upload certificate window, select the folder icon \(![Folder icon.](../image/MS-sharepoint-spoke-sponline-upload-certificate-icon.png)\) to navigate to the .cer file you had generated.
+    8.  In the Upload certificate window, select the folder icon \(![Folder icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-upload-certificate-icon.png)\) to navigate to the .cer file you had generated.
 
     9.  In the Description field, enter a description of the certificate.
 
@@ -132,13 +132,13 @@ Create a custom app using your Azure portal to authenticate requests.
 
     11. Under the **Thumbprint** column, copy the thumbprint value and store it at a secure place.
 
-        ![Thumbprint value.](../image/MS-sharepoint-spoke-sponline-copy-thumbprint.png)
+        ![Thumbprint value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-copy-thumbprint.png)
 
         **Note:** Ensure that you copy the entire value of **Thumbprint**.
 
         Alternatively, you can copy the **Thumbprint** by clicking **Manifest**.
 
-        ![Copy value of Manifest.](../image/ms-exchng-ol-manifest.png)
+        ![Copy value of Manifest.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-exchng-ol-manifest.png)
 
     12. Encode the Thumbprint value to a Base64 value and record the value for later use.
 
@@ -148,17 +148,17 @@ Create a custom app using your Azure portal to authenticate requests.
 
     1.  On the left panel, under the Manage heading, select API permissions.
 
-        ![API permissions link.](../image/MS-sharepoint-spoke-graph-api-permissions-link.png)
+        ![API permissions link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-graph-api-permissions-link.png)
 
     2.  Under the Configured permissions heading, select **+ Add a permission**.
 
     3.  In the Request API permissions window, select **SharePoint**.
 
-        ![SharePoint API button.](../image/MS-sharepoint-spoke-sponline-sharepoint-api.png)
+        ![SharePoint API button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-sharepoint-api.png)
 
     4.  Select **Application permissions**.
 
-        ![Application permissions button.](../image/MS-sharepoint-spoke-sponline-application-permission.png)
+        ![Application permissions button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-application-permission.png)
 
     5.  Expand the Sites list.
 
@@ -170,7 +170,7 @@ Create a custom app using your Azure portal to authenticate requests.
 
         The permissions are added.
 
-        ![SharePoint online permissions granted.](../image/MS-sharepoint-spoke-sponline-permissions-granted.png)
+        ![SharePoint online permissions granted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-spoke-sponline-permissions-granted.png)
 
     8.  To grant admin consent, select **Grant admin consent for ServiceNow**.
 
@@ -178,7 +178,7 @@ Create a custom app using your Azure portal to authenticate requests.
 
         The admin consent is granted.
 
-        ![Admin consent granted status.](../image/MS-sharepoint-sponline-admin-consent.png)
+        ![Admin consent granted status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/MS-sharepoint-sponline-admin-consent.png)
 
         **Tip:** If you want to use other permissions apart from `Sites.FullControl.All`, contact your SharePoint and Azure administrators to determine the exact permissions that are needed for your organisational policies.
 
@@ -204,9 +204,9 @@ Enable the JWT Bearer Grant token authentication by attaching a valid Java Key S
 
 4.  Select **Java Key Store** as the **Type**.
 
-5.  Click the attachments icon \(![Attachments icon](../image/attachments-icon.png)\) and attach the JKS certificate you had generated.
+5.  Click the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach the JKS certificate you had generated.
 
-    For more information, see [Configure OAuth application in Microsoft Azure](configure-oauth-application-in-microsoft-azure.md).
+    For more information, see [Configure OAuth application in Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-oauth-application-in-microsoft-azure.md).
 
 6.  Click **Validate Stores/Certificates**.
 
@@ -240,7 +240,7 @@ Add a JSON Web Token \(JWT\) provider to your ServiceNow instance.
 
 -   Copy and record the value of **Application \(client\) ID** and **Directory \(tenant\) ID** of the application you had registered in the Azure portal.
 
-    ![Copy the values of Client ID and Tenant ID.](../image/ms-sharept-clientid.png)
+    ![Copy the values of Client ID and Tenant ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-sharept-clientid.png)
 
 -   Role required: admin
 
@@ -298,7 +298,7 @@ Role required: admin.
     |----|-----------|
     |scope|`https://<MS-SharePoint-tenant-name>.sharepoint.com/.default`|
 
-    ![Insert the OAuth entity scope record.](../image/ms-sharept-scopes.png)
+    ![Insert the OAuth entity scope record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-sharept-scopes.png)
 
 6.  Right-click the form header, and click **Save**.
 
@@ -395,6 +395,6 @@ Role required: admin.
     -   Confirm that you allow pop-up windows in your browser.
     The spoke setup is completed and you can use the flows as per your requirement.
 
-    **Note:** If the generated token doesn't work after the spoke setup, open your OAuth application in the Azure portal and select the two checkboxes under **Implicit grant and hybrid flows**.![Select the tokens in the Azure portal.](../image/ms-exchng-ol-tokens.png)
+    **Note:** If the generated token doesn't work after the spoke setup, open your OAuth application in the Azure portal and select the two checkboxes under **Implicit grant and hybrid flows**.![Select the tokens in the Azure portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ms-exchng-ol-tokens.png)
 
 

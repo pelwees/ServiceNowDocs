@@ -16,7 +16,7 @@ The side navigation bar provides access to Now Assist applications and features 
 
 Select an item in the navigation bar to open it in a workspace tab.
 
-![Selection from the side navigation bar in Now Assist Center.](../image/now-assist-center-navigation-bar-select.png "Side navigation bar")
+![Selection from the side navigation bar in Now Assist Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-navigation-bar-select.png "Side navigation bar")
 
 The side navigation bar includes the following options:
 
@@ -38,7 +38,7 @@ Home
 
 </td><td>
 
-![Home option in the side navigation bar.](../image/icon-now-assist-center-nav-home.png)
+![Home option in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-home.png)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Asset inventory
 
 </td><td>
 
-![Asset inventory option in the side navigation bar.](../image/icon-now-assist-center-nav-assets.png)
+![Asset inventory option in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-assets.png)
 
 </td><td>
 
@@ -64,7 +64,7 @@ Data
 
 </td><td>
 
-![Data option in the side navigation bar.](../image/icon-now-assist-center-nav-data.png)
+![Data option in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-data.png)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Admin
 
 </td><td>
 
-![Admin option in the side navigation bar.](../image/icon-now-assist-center-nav-admin.png)
+![Admin option in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-admin.png)
 
 </td><td>
 
@@ -90,14 +90,14 @@ Monitor
 
 </td><td>
 
-![Monitor option in the side navigation bar.](../image/icon-now-assist-center-nav-monitor.png)
+![Monitor option in the side navigation bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-monitor.png)
 
 </td><td>
 
 The monitor page shows usage, performance, and adoption metrics for your AI solutions.
 
 </td></tr></tbody>
-</table>For more information, see [Using other Now Assist applications and features from Now Assist Center](now-assist-center-using-other-applications.md).
+</table>For more information, see [Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md).
 
-**Parent Topic:**[Now Assist Center workspace](now-assist-center-workspace.md)
+**Parent Topic:**[Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 

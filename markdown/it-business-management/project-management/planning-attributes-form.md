@@ -97,5 +97,5 @@ Table name and field value for a task attribute.This field is visible only while
 </table>**Related topics**  
 
 
-[Create or edit planning attributes](configure-planning-attributes.md#)
+[Create or edit planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md#)
 

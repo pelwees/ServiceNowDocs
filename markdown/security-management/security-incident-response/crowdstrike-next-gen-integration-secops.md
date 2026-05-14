@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 See the following graphic to learn how CrowdStrike Next-Gen SIEM integrates with the ServiceNow AI Platform Security Operations applications.
 
-![How CrowdStrike Next-Gen SIEM integrates with the ServiceNow AI Platform.](../image/crowdstrike-next-gen-siem.png)
+![How CrowdStrike Next-Gen SIEM integrates with the ServiceNow AI Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/crowdstrike-next-gen-siem.png)
 
 ## Key features
 

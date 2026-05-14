@@ -21,20 +21,20 @@ Plan and manage all RIDAC records on a single RIDAC page in Project Workspace. T
 
 Consider the following points before converting or associating RIDAC records in Project Workspace:
 
--   You can convert one record to another only in the RIDAC sequence. For example, you can convert a risk to an issue, decision, action, or request change but you can’t convert an issue to a risk or a decision to an issue. The following diagram illustrates the RIDAC process flow. ![RIDAC process flow](../../planning-and-policy/image/ridac_workflow.png)
+-   You can convert one record to another only in the RIDAC sequence. For example, you can convert a risk to an issue, decision, action, or request change but you can’t convert an issue to a risk or a decision to an issue. The following diagram illustrates the RIDAC process flow. ![RIDAC process flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/ridac_workflow.png)
 -   You can convert one record into multiple RIDAC records. For example, you can create multiple issue records from one risk record.
 
-    For converting RIDAC records in Classic Project Workspace, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](../task/convert-ridac-for-project.md). For converting RIDAC records in Project Workspace, see [Convert one RIDAC record to another for a project in Project Workspace](../../project-workspace/task/convert-ridac-project-workspace.md).
+    For converting RIDAC records in Classic Project Workspace, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/convert-ridac-for-project.md). For converting RIDAC records in Project Workspace, see [Convert one RIDAC record to another for a project in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-workspace/task/convert-ridac-project-workspace.md).
 
 -   You can associate one record with multiple different records. For example, you can link one issue record to multiple different risk, decision, action, or request change records.
 
-    For associating RIDAC records in Classic Project Workspace, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../task/reassociate-ridac-project.md). For associating RIDAC records in Project Workspace, see [Associate existing RIDAC records for a project in Project Workspace](../../project-workspace/task/associate-ridac-project-workspace.md).
+    For associating RIDAC records in Classic Project Workspace, see [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/reassociate-ridac-project.md). For associating RIDAC records in Project Workspace, see [Associate existing RIDAC records for a project in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-workspace/task/associate-ridac-project-workspace.md).
 
 
 **Related topics**  
 
 
-[Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](../task/convert-ridac-for-project.md)
+[Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record to another for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/convert-ridac-for-project.md)
 
-[Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../task/reassociate-ridac-project.md)
+[Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/reassociate-ridac-project.md)
 

@@ -43,5 +43,5 @@ Role required: sn\_audit.admin or sn\_audit.manager
 4.  Click **Create**.
 
 
-**Parent Topic:**[Manage Audit Engagements](../concept/c_AuditEngagementWorkbench.md)
+**Parent Topic:**[Manage Audit Engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_AuditEngagementWorkbench.md)
 

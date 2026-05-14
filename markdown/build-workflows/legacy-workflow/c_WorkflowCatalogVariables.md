@@ -21,7 +21,7 @@ The inputs into this workflow are essentially question:answer pairings that, whe
 
 For the purposes of Service Catalog and workflow, a variable’s scope determines its availability to a catalog task activity within a workflow. You can define variables as global or catalog item-specific. When a variable is associated to a catalog item and the workflow generating the catalog task is associated to the catalog item, the variable scope determines which variables are available for mapping within the catalog task activity in a workflow. If a workflow is associated with Requested Item \[sc\_request\_item\], and is not specifically associated with a catalog item, any catalog variable with a blank Cat Item field value is available to all catalog task activities within the workflow.
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-administration/concept/managing-workflows.md)
 
 ## Declaration
 
@@ -31,7 +31,7 @@ You can declare requested item catalog variables at the catalog item level or at
 
 You can declare global catalog variables using the Workflow Editor context menu.
 
-Also see, [Global variable declaration option 2](c_WorkflowCatalogVariables.md#).
+Also see, [Global variable declaration option 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowCatalogVariables.md#).
 
 ### Procedure
 
@@ -68,7 +68,7 @@ You can declare global catalog variables using the Service Catalog.
 
 6.  Click **Submit**.
 
-    Also see, [Global variable declaration option 1](c_WorkflowCatalogVariables.md#).
+    Also see, [Global variable declaration option 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowCatalogVariables.md#).
 
 
 ### Catalog item specific variable declaration option 1
@@ -91,7 +91,7 @@ These variables are only available to the catalog item referenced in the **Cat I
 
 3.  Click **Submit**.
 
-    Also see, [Catalog item specific variable declaration option 2](c_WorkflowCatalogVariables.md#).
+    Also see, [Catalog item specific variable declaration option 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowCatalogVariables.md#).
 
 
 ### Catalog item specific variable declaration option 2
@@ -124,7 +124,7 @@ Creating a catalog variable in this way automatically sets the **Cat Item** refe
 
 8.  Click **Submit**.
 
-    Also see, [Catalog item specific variable declaration option 1](c_WorkflowCatalogVariables.md#).
+    Also see, [Catalog item specific variable declaration option 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowCatalogVariables.md#).
 
 
 ## Display

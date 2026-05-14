@@ -95,5 +95,5 @@ Industrial Guided Tasks is automatically installed when you install Industrial C
     Industrial Guided Tasks \(IGT\) provides the structured, step‑by‑step workflows that operators execute on the shop floor using the ICW Mobile. It acts as the primary execution channel for IGT, enabling workers to perform guided tasks with features like barcode/QR scanning, offline support, and attachment capture. In this way, ICW Mobile makes sure that the detailed guidance authored in IGT reaches frontline workers in a format optimized for real‑world industrial environments.
 
 
-**Parent Topic:**[Industrial Connected Workforce release notes](industrial-connected-workforce-rn-landing.md)
+**Parent Topic:**[Industrial Connected Workforce release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/industrial-connected-workforce-rn-landing.md)
 

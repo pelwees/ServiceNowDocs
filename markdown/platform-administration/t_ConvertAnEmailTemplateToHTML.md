@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Open the email template you want to convert.
 
-    ![Email template content](../image/legacy-email-template.png)
+    ![Email template content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/legacy-email-template.png)
 
 3.  Select **Switch to Rich HTML Editor**.
 
@@ -31,7 +31,7 @@ Role required: admin
 
     -   HTML Editor: Any raw HTML in the **Message** field is rendered as WYSIWYG text in the **Message HTML** field. The content can be edited in a feature-rich HTML editor.
     -   Simplified Mail Scripts: Any mail scripts in the body are automatically saved to the Email Script \[sys\_script\_email\] table and are replaced in the notification body with an embedded script tag. This makes the template body easier to read and makes it easier to reuse scripts in multiple email templates.
-    ![Content converted to rich HTML](../image/template-converted.png)
+    ![Content converted to rich HTML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/template-converted.png)
 
 4.  Modify the message text, as needed, using the WYSIWYG editor or by editing the underlying HTML.
 
@@ -48,5 +48,5 @@ If you manually enter a mail script in the body of a new or converted email noti
 
 You can view the mail scripts in their original form by opening the email template and clicking the **Show Notification Scripts** related link.
 
-**Parent Topic:**[Email templates](../concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailTemplates.md)
 

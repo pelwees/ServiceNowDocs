@@ -19,5 +19,5 @@ For example, for an incident feed, the screen displays recent activity for the i
 
 **Note:** The information in the activity stream is subject to the same ACL rules as those for viewing the underlying document.
 
-**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 

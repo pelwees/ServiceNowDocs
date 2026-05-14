@@ -25,10 +25,10 @@ In TISC, you can do the following:
 -   Perform validation
 -   Manage subscriptions
 
--   **[System properties for Webhooks](tisc-sysprops-retry.md)**  
+-   **[System properties for Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-sysprops-retry.md)**  
 The system properties for webhooks are explained below.
--   **[Configure webhooks](setup-webhooks.md)**  
+-   **[Configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)**  
 Configure a webhook to subscribe to events in Threat Intelligence Security Center.
--   **[Webhook Triggers](tisc-triggers.md)**  
+-   **[Webhook Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-triggers.md)**  
 Webhook triggers are used to filter the threat intelligence entities that needs to be tracked for any event changes such as Create, Update, and Delete.
 

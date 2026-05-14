@@ -68,5 +68,5 @@ Number of consumed subscription units from a bundle or application \(a la carte\
 -   Red: Your organization has used 100% or more and exceeded the number of purchased subscriptions. Purchased subscriptions are overdrawn.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](itom-su-licensing-reference.md)
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 

@@ -20,13 +20,13 @@ By using Q&amp;A Genius Results in the Now Assist for Legal Service Delivery \(L
 
 The Q&amp;A Genius Results capability enables request fulfillers and legal users to generate concise, actionable answers from knowledge article results in Legal Counsel Center, Employee Center, and global search.
 
-![Q&A Genius Results in Legal Counsel Center.](../image/lsd-na-genius-result.png)
+![Q&A Genius Results in Legal Counsel Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-na-genius-result.png)
 
 ## Q&amp;A Genius Results configuration
 
 For Legal Counsel Center, the Q&amp;A Genius Results feature is activated by default when you install and activate AI Search and the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\) application.
 
-For global search and Employee Center, you must enable Q&amp;A Genius Results manually. For more information, see [Enabling Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enabling-now-assist-qa-grs.md) and [Enable Now Assist genius results](../../employee-center/task/na-qa-activate.md).
+For global search and Employee Center, you must enable Q&amp;A Genius Results manually. For more information, see [Enabling Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enabling-now-assist-qa-grs.md) and [Enable Now Assist genius results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../employee-center/task/na-qa-activate.md).
 
-For more information on the other supported search engines, see [Search in Legal Service Delivery](../concept/lsd-search-overview.md).
+For more information on the other supported search engines, see [Search in Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../concept/lsd-search-overview.md).
 

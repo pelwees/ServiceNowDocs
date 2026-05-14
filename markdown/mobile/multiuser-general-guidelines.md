@@ -56,7 +56,7 @@ When configuring the setup for multiple users using a shared device, keep these 
 
 -   **MAM app configuration**
 
-    Changes to either the **SNDefaultInstanceURL** or **SNDefaultInstanceName** properties in the MAM app configuration will not take effect once the application is converted to shared device mode. For more information, see [AppConfig for Mobile Apps](appconfig.md).
+    Changes to either the **SNDefaultInstanceURL** or **SNDefaultInstanceName** properties in the MAM app configuration will not take effect once the application is converted to shared device mode. For more information, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/appconfig.md).
 
     **Note:** When using MAM/MDM with the multi-user feature, only the policies of the user who first authenticates into MAM/MDM are applied, even after the app is converted to shared mode.
 

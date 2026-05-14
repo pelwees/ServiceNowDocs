@@ -36,7 +36,7 @@ Role required: ui\_builder\_admin
 
 3.  In the search field, enter the name of the interaction you want to delete.
 
-    ![UI interactions list with search field highlighted.](../image/uib-uii-search.png "UI interactions list")
+    ![UI interactions list with search field highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-search.png "UI interactions list")
 
 4.  Select the interaction from the search results.
 
@@ -54,12 +54,12 @@ Role required: ui\_builder\_admin
 
 6.  From the Settings tab, select **Delete**.
 
-    ![UI interactions Settings page with Delete highlighted.](../image/uib-uii-settings.png "UI interaction Settings page")
+    ![UI interactions Settings page with Delete highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-settings.png "UI interaction Settings page")
 
 
 ## Result
 
 The UI interaction is permanently removed. Any component or page that previously referenced this interaction will no longer trigger its actions. Update or remove related event handlers as needed.
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/uib-ui-interactions.md)
 

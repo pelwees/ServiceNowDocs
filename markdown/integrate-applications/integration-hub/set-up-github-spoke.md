@@ -33,7 +33,7 @@ Demonstrates integrating the ServiceNow instance with GitHub and GitHub Enterpri
 
     2.  On the dashboard, select your profile icon.
 
-        ![GitHub profile icon.](../image/github-spoke-profile-icon.png)
+        ![GitHub profile icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/github-spoke-profile-icon.png)
 
     3.  Select **Settings**.
 
@@ -55,7 +55,7 @@ Demonstrates integrating the ServiceNow instance with GitHub and GitHub Enterpri
 
     11. To copy the personal access token, select the copy button.
 
-        ![Personal access token copy button.](../image/github-spoke-copy-token-button.png)
+        ![Personal access token copy button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/github-spoke-copy-token-button.png)
 
         **Important:** Keep the personal access token at a secure place. You’ll need it when you create a connection record for GitHub.
 

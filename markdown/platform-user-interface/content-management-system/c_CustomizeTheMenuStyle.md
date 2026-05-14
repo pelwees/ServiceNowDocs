@@ -264,5 +264,5 @@ TABLE.super_menu_video_table {
 }
 ```
 
-**Parent Topic:**[Menu types](../reference/r_MenuTypes.md)
+**Parent Topic:**[Menu types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_MenuTypes.md)
 

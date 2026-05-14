@@ -38,5 +38,5 @@ Role required: admin or sp\_admin
 
 Facets do not display when the defined search source is selected in the sp\_search page.
 
-**Parent Topic:**[Zing search in Service Portal](../concept/zing-search-service-portal.md)
+**Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/zing-search-service-portal.md)
 

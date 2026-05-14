@@ -25,7 +25,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap **Teams** and open the Assignment group or territory that the agent you want to filter for belongs to.
 
-3.  Tap the Filter icon \(![filter](../image/filter-manager-app.png)\).
+3.  Tap the Filter icon \(![filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/filter-manager-app.png)\).
 
 4.  On the form, fill in the fields.
 

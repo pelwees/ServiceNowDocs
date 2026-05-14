@@ -17,7 +17,7 @@ Perform high-volume upgrade of your Agent Client Collector agents when you want 
 
 ## Before you begin
 
-Configure the Agent Client Collector web server. For details, see [Configure the websocket server on the MID Server](acc-configure-web-server.md).
+Configure the Agent Client Collector web server. For details, see [Configure the websocket server on the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configure-web-server.md).
 
 Ensure that the MID Server, MID Web Server, and the MID Server websocket server are running.
 

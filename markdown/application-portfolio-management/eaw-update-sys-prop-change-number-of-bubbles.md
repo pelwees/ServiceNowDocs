@@ -29,7 +29,7 @@ By default, the bubble chart page displays a maximum of 500 bubbles. If you have
 
 3.  Select **here** to update the property details.
 
-    ![System property screen with the here hyperlink highlighted.](../../image/eaw-image/sys-prop-bubble-chart.png)
+    ![System property screen with the here hyperlink highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/sys-prop-bubble-chart.png)
 
 4.  In the **Value** field, enter the maximum number of bubbles you want displayed on the bubble chart page of application rationalization.
 
@@ -40,5 +40,5 @@ By default, the bubble chart page displays a maximum of 500 bubbles. If you have
 
 The bubble chart page displays bubbles up to the number that you have defined in the **Value** field.
 
-**Parent Topic:**[Use bubble chart view](../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
+**Parent Topic:**[Use bubble chart view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-bubble-chart-view.md)
 

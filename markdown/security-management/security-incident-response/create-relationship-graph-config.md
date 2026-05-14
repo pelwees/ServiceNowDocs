@@ -41,5 +41,5 @@ Role required: sn\_si.admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Viewing incident details with a relationship graph](../concept/sir-relationship-graph.md)
+**Parent Topic:**[Viewing incident details with a relationship graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sir-relationship-graph.md)
 

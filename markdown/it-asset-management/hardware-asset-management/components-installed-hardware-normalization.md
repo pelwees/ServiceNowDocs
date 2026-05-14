@@ -28,5 +28,5 @@ Several types of components are installed with activation of the Hardware Model 
 |Hardware Normalization Map|Hardware product and hardware product model IDs.|
 |Hardware Product|Name of the product and type of device, such as Apple Mac or Lenovo Printer.|
 
-**Parent Topic:**[Hardware Asset Management reference](reference-hardware-asset-management.md)
+**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 

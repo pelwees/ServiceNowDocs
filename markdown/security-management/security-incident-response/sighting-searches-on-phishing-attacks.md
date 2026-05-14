@@ -24,7 +24,7 @@ The following terms are used to describe user-reported phishing attacks:
 -   Phished user: A user who has received a phishing email.
 -   Victim user: A user who has interacted with the phishing URL, typically by clicking a link in the phishing email. This action potentially exposes credentials to the attacker.
 
-As you start analyzing a phishing incident, you can [Perform an email sightings search](sighting-searches-on-phishing-attacks.md#) or [Perform an observable sightings search](sighting-searches-on-phishing-attacks.md#) to identify other users in your organization who are impacted by the same phishing attack. Search your log stores to identify phished and victim users. After you have identified the list of affected users, create child security incidents to perform comprehensive incident response procedures using the tools available in Security Incident Response.
+As you start analyzing a phishing incident, you can [Perform an email sightings search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md#) or [Perform an observable sightings search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sighting-searches-on-phishing-attacks.md#) to identify other users in your organization who are impacted by the same phishing attack. Search your log stores to identify phished and victim users. After you have identified the list of affected users, create child security incidents to perform comprehensive incident response procedures using the tools available in Security Incident Response.
 
 **Note:** You can also use the following approach to perform a sightings search:
 
@@ -44,7 +44,7 @@ Configure sighting searches and create saved configurations for SIEMs or other l
 **Related topics**  
 
 
-[Create sightings search configuration records](../task/sightings-search-configurations.md)
+[Create sightings search configuration records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/sightings-search-configurations.md)
 
 ## Perform an email sightings search for user-reported phishing attacks
 
@@ -71,19 +71,19 @@ Search the Splunk email traffic logs to gather the list of recipients of a suspi
 
     To view security incidents of a particular type, such as critical incidents or phishing emails, click one of the **Quick Filters**.
 
-    ![Security incidents](../image/cj-sir-si-list.png)
+    ![Security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-list.png)
 
 3.  Click the security incident that you want to analyze.
 
     The Overview tab provides an overview of the security incident including a list of observables, affected users, and similar security incidents.
 
-    ![Overview tab](../image/cj-sir-si-details.png)
+    ![Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-details.png)
 
 4.  Click the **Explore** tab.
 
 5.  Under **Incident Data**, navigate to **Investigation** &gt; **Search Email &amp; Observables**.
 
-    ![Email search](../image/cj-sir-si-email-search.png)
+    ![Email search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-email-search.png)
 
 6.  Expand the Search Criteria section.
 
@@ -144,7 +144,7 @@ Time window for the search \(for example, the last 24 hours\).
 
 9.  To view the list of users who received the phishing email, click the **&gt;** symbol in the Search Date column.
 
-    ![Email search results](../image/cj-sir-si-email-results.png)
+    ![Email search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-email-results.png)
 
 10. To view a list of users who received the email, navigate to **Users** &gt; **Affected Users**.
 
@@ -190,29 +190,29 @@ You can perform a network traffic search on observables such as the URL, destina
 
     To view security incidents of a particular type, such as critical incidents or phishing emails, click one of the **Quick Filters**.
 
-    ![Security incidents](../image/cj-sir-si-list.png)
+    ![Security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-list.png)
 
 3.  Click the security incident that you want to analyze.
 
     You can see an overview of the security incident including a list of observables, affected users, and similar security incidents.
 
-    ![Overview tab](../image/cj-sir-si-details.png)
+    ![Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-details.png)
 
     In the Observables section, notice that the Observable column shows the email address, subject, and URL. Notice also that the Finding column shows that the URL was automatically scanned when the phishing email was submitted and determined to be a known malicious URL. The Incident Count column shows the other incidents that share the same observable. These artifacts indicate that you are likely ready to move on to containment procedures for this phishing attack, including determining how many users in the organization have been affected.
 
-    ![Observables](../image/cj-sir-si-obs-details.png)
+    ![Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-obs-details.png)
 
 4.  Navigate to **Explore** &gt; **Investigation** &gt; **Search Email &amp; Observables**.
 
 5.  Expand the Search Criteria section and click **Observable Search**.
 
-    ![Observable search](../image/cj-sir-si-search-emobs.png)
+    ![Observable search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-search-emobs.png)
 
 6.  Enter the observable that you are searching for, and a time window for the search \(for example, Last 24 Hours\).
 
 7.  From the **Select Action** list, select **Search**.
 
-    The Splunk log store is searched using the criteria that you entered and the key users targeted by the malicious attack are shown on the **Observable Search Results** tab.![Observable search results](../image/cj-sir-si-observable_result.png)
+    The Splunk log store is searched using the criteria that you entered and the key users targeted by the malicious attack are shown on the **Observable Search Results** tab.![Observable search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-observable_result.png)
 
 8.  To view the users who received the email, navigate to **Users** &gt; **Affected Users**.
 
@@ -273,7 +273,7 @@ To verify if the saved search configuration matches the configuration defined on
 
 For example, the Sightings Search Configuration form contains the email address and email sender as search parameters:
 
-![Saved configuration](../image/cj-sir-si-saved-config.png "Sightings Search Configuration form")
+![Saved configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-si-saved-config.png "Sightings Search Configuration form")
 
 In your Splunk instance, define the saved search with the same name, Default Saved Search - Emails, and the same search parameters for the email address and email subject. If the name and search parameters are not the same, sightings search does not generate accurate result.
 

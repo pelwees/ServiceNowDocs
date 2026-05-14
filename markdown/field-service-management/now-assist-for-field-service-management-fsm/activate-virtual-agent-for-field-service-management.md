@@ -39,7 +39,7 @@ To set up and control who has access to the AI agents and the workflows they man
 
 3.  Review each of the seven guided setup steps:
 
-    All of the guided setup steps are preconfigured. No changes are required to complete the setup.![Overview page of the guided setup](../image/nava-for-fsm.png)
+    All of the guided setup steps are preconfigured. No changes are required to complete the setup.![Overview page of the guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/nava-for-fsm.png)
 
     |Guided Setup Steps|Description|
     |------------------|-----------|

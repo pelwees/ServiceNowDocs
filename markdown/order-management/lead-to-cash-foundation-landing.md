@@ -19,18 +19,18 @@ Select a link from the following table to explore key capabilities that streamli
 
 |Application|Description|
 |-----------|-----------|
-|[Product Catalog Management](product-catalog-managment.md)|Organize and maintain a unified catalog of products and services.|
-|[Pricing Management](pricing-management.md)|Manage price lists, discounts, and rules to support dynamic and region-specific pricing.|
-|[Lead to Cash Core](lead-to-cash.md)|Enable seamless integration of lead generation, quoting, order management, and fulfillment.|
+|[Product Catalog Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)|Organize and maintain a unified catalog of products and services.|
+|[Pricing Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/pricing-management.md)|Manage price lists, discounts, and rules to support dynamic and region-specific pricing.|
+|[Lead to Cash Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)|Enable seamless integration of lead generation, quoting, order management, and fulfillment.|
 
 ## Related links
 
-Configure the lead-to-cash foundation applications to enable core capabilities for using Sales Customer Relationship Management. For more information, see [Configuring the lead-to-cash foundation applications](configuring-lead-to-cash-foundation.md).
+Configure the lead-to-cash foundation applications to enable core capabilities for using Sales Customer Relationship Management. For more information, see [Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md).
 
 **Related topics**  
 
 
-[Using lead-to-cash foundation applications](using-lead-cash-foundation.md)
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[Lead-to-cash foundation reference](reference-lead-cash-foundation.md)
+[Lead-to-cash foundation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)
 

@@ -36,14 +36,14 @@ A scheduled job runs everyday and automatically drafts closure notes for all ris
 
     The daily scheduled job identifies all eligible risk signals, reviews the activity data for each eligible risk signal from the associated risk solutions and generates closure notes. The Closure notes and the State are updated on the risk signal record and are visible in the Activity stream.
 
-    ![Closure notes](../image/draft-risk-close-notes.jpg)
+    ![Closure notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/draft-risk-close-notes.jpg)
 
     The activity contexts used to generate the closure notes are predefined and available with the base system. If you want to use additional fields or tables when generating closure notes, you must add additional activity contexts using the Customer Central guided setup. Navigate to **All** &gt; **Customer Central** &gt; **Activity Contexts** and select **Risk signal**, create an activity context group and map it to the additional table you want to use.
 
-    ![Activity context group](../image/activity-context.jpg)
+    ![Activity context group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/activity-context.jpg)
 
     For more details on creating the activity context group, see [Configure activity groups for the Customer History view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-activity-groups-ca.md).
 
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-spm-using.md)
 

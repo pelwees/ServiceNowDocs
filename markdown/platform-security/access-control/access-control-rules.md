@@ -17,25 +17,25 @@ Rules for access control lists \(ACLs\) restrict access to data by requiring use
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ACLs![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Access Control Lists\(ACLs\).](exploring-access-control-list.md)
+[Explore ACLs![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Access Control Lists\(ACLs\).](exploring-access-control-list.md)
 
 </td><td>
 
-[Configure ACLs![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/t_CreateAnACLRule.md)
+[Configure ACLs![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-sdlc.svg)](../task/t_CreateAnACLRule.md)
 
- [Configure ACLs.](../task/t_CreateAnACLRule.md)
+ [Configure ACLs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/t_CreateAnACLRule.md)
 
 </td></tr><tr><td>
 
-[Contextual Security Manager![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](../../roles/reference/r_ContextualSecurity.md)
+[Contextual Security Manager![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](../../roles/reference/r_ContextualSecurity.md)
 
- [Learn about the about Contextual Security Manager.](../../roles/reference/r_ContextualSecurity.md)
+ [Learn about the about Contextual Security Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../roles/reference/r_ContextualSecurity.md)
 
 </td><td>
 
-[Advanced ACL Configuration![](../../../reuse/icons/brand-icons/bus-learn.svg)](acl-advanced-config.md)
+[Advanced ACL Configuration![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../reuse/icons/brand-icons/bus-learn.svg)](acl-advanced-config.md)
 
- [Learn about Advanced ACL configurations and tools.](acl-advanced-config.md)
+ [Learn about Advanced ACL configurations and tools.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/acl-advanced-config.md)
 
 </td></tr></tbody>
 </table>

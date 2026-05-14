@@ -144,5 +144,5 @@ Incident Communication Task\[incident\_alert\_task\]
 The Incident Communication Task table extends the Communication Task table \[comm\_task\].
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Incident Communications Management reference](reference-section-inci-comm-mngmt.md)
+</table>**Parent Topic:**[Incident Communications Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/reference-section-inci-comm-mngmt.md)
 

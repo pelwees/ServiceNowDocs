@@ -31,7 +31,7 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 4.  Import template field mappings from a Microsoft Word document with content controls.
 
-    For more information, see [Add content controls in a Microsoft Word document](lsc-cont-contr-word-tmplt.md).
+    For more information, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-cont-contr-word-tmplt.md).
 
     1.  In the **Document** field, select **Update**.
 
@@ -50,5 +50,5 @@ Role required: sn\_lg\_contracts.contracts\_config
 
 ## What to do next
 
-Map any new meta data found during parsing. For more information, see [Update contract template mappings for legal contract template](lsc-template-map-msword.md).
+Map any new meta data found during parsing. For more information, see [Update contract template mappings for legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-template-map-msword.md).
 

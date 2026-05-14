@@ -21,27 +21,27 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon.](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Select a diagram from the Diagrams page where you want to add labels to the connector lines.
 
 4.  Select a connector line.
 
-    The Select to add text icon \(![Select to add text icon.](../../image/eaw-image/modeling/add-text-to-connector-line.png)\) appears.
+    The Select to add text icon \(![Select to add text icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/add-text-to-connector-line.png)\) appears.
 
-    ![Click to add text button highlighted.](../../image/eaw-image/modeling/add-text-button-connector-line.png)
+    ![Click to add text button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/add-text-button-connector-line.png)
 
-5.  Select the Select to add text icon \(![Select to add text icon.](../../image/eaw-image/modeling/add-text-to-connector-line.png)\) and enter a label for the connector line.
+5.  Select the Select to add text icon \(![Select to add text icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/add-text-to-connector-line.png)\) and enter a label for the connector line.
 
 
 ## Result
 
-The connector line label is added to the diagram.![Label added to connector line.](../../image/eaw-image/modeling/text-added-connector-line.png)
+The connector line label is added to the diagram.![Label added to connector line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/text-added-connector-line.png)
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md)
+[Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-modeling.md)
 

@@ -19,17 +19,17 @@ Role required: none
 
 ## About this task
 
-Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](../reference/actionset-actions-properties.md#actionset-sendkeys).
+Configure the properties for the ActionSet SendKeys action. For more information about these properties, see [ActionSet Send Keys properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/actionset-actions-properties.md#actionset-sendkeys).
 
 ## Procedure
 
 1.  Right-click the anchor.
 
-    To know about the anchor, see [Anchor](../concept/anchor.md).
+    To know about the anchor, see [Anchor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/anchor.md).
 
 2.  Click **Send Keys**.
 
-3.  Drag and place the Green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) on the location in the captured image where the component will perform an action.
+3.  Drag and place the Green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) on the location in the captured image where the component will perform an action.
 
 4.  Close the ACTIONSET SETTINGS window.
 
@@ -42,5 +42,5 @@ Configure the properties for the ActionSet SendKeys action. For more information
 6.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Use the ActionSet component](use-actionsui-actionset.md)
+**Parent Topic:**[Use the ActionSet component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-actionsui-actionset.md)
 

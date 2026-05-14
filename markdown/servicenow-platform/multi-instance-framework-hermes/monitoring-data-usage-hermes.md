@@ -25,7 +25,7 @@ Usage data is calculated by aggregating the size of all messages sent to the clu
 -   Visualize data usage over time for all topics or a single topic.
 -   Compare data usage for topics that belong to an application.
 
-![Hermes Metrics Dashboard.](../images/hermes-usage-dashboard.png "Hermes Usage Dashboard")
+![Hermes Metrics Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../images/hermes-usage-dashboard.png "Hermes Usage Dashboard")
 
 ## Required roles
 
@@ -91,16 +91,16 @@ Topics with the prefix \[Internal\] are for applications used only by ServiceNow
 
 **Note:** When **All** is selected for both the Application ID and Hermes Topic, the Topic Usage Data table displays two roll-up rows: one for external topics \(\*All Topics\*\) and one for internal topics \(\[Internal\]\*All Topics\*\).
 
-**Parent Topic:**[Administering Hermes Messaging Service](hermes-messaging-service-administration.md)
+**Parent Topic:**[Administering Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-administration.md)
 
 **Related topics**  
 
 
-[Check the status of and connection to the Hermes Kafka cluster](../task/run-hermes-messaging-service-diagnostics.md)
+[Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/run-hermes-messaging-service-diagnostics.md)
 
-[Tracking message usage in Hermes](tracking-hermes-messaging-service-usage.md)
+[Tracking message usage in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/tracking-hermes-messaging-service-usage.md)
 
-[Cloning with Hermes Messaging Service enabled](cloning-with-hermes-messaging-service.md)
+[Cloning with Hermes Messaging Service enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/cloning-with-hermes-messaging-service.md)
 
-[View Hermes Messaging Service log messages](../task/view-hermes-log-messages.md)
+[View Hermes Messaging Service log messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/view-hermes-log-messages.md)
 

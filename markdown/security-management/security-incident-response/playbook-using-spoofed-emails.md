@@ -34,7 +34,7 @@ Role required:
 
     2.  In Action 6, you need to investigate the URL on a Linux VM \(For example, Ubuntu\).
 
-        ![Response task to investigate the URL on a Linux VM.](../image/playbook-spoofed-email-url.png "Spoofed Emails (using the same Display name) playbook")
+        ![Response task to investigate the URL on a Linux VM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-spoofed-email-url.png "Spoofed Emails (using the same Display name) playbook")
 
     3.  In Action 7, you need to look up when the domain was created on WHOIS.
 
@@ -44,7 +44,7 @@ Role required:
 
         If this email doesn't contain a malicious attachment or link, then the flow ends.
 
-        ![Response tasks to check if the spoofed email contains malicious attachments or links.](../image/playbook-spoofed-email-users.png "Spoofed email contains malicious attachments or links")
+        ![Response tasks to check if the spoofed email contains malicious attachments or links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-spoofed-email-users.png "Spoofed email contains malicious attachments or links")
 
     5.  In Action 9, if the email contains malicious attachments or links, perform the following actions.
 
@@ -58,10 +58,10 @@ Role required:
 
 5.  In Action 18, if the user's system is impacted, then in Action 19, raise an IT ticket to reimage the impacted system.
 
-    ![Response task to check if the affected user's system is impacted.](../image/playbook-spoofed-email-system.png "Check if the affected user's system is impacted")
+    ![Response task to check if the affected user's system is impacted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-spoofed-email-system.png "Check if the affected user's system is impacted")
 
 6.  In Action 20, a response task is created for you to complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](../concept/playbook-spoofed-emails-display-name.md)
+**Parent Topic:**[Playbook for Spoofed Emails \(using the same Display name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-spoofed-emails-display-name.md)
 

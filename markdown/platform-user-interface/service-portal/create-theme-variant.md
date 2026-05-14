@@ -38,5 +38,5 @@ Role required: admin
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Create a portal theme](c_CustomCSS.md)
+**Parent Topic:**[Create a portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 

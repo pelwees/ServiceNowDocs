@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **User Menu**![User menu.](../image/pol-user-menu.png).
+1.  Navigate to **User Menu**![User menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-user-menu.png).
 
 2.  Select one of these user menu options for admins.
 
@@ -60,5 +60,5 @@ Dynamic links to configuration pages to access configurations relevant to lists 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring the Next Experience UI](../../../administer/navigation-and-ui/concept/next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/concept/next-experience-ui-admin.md)
 

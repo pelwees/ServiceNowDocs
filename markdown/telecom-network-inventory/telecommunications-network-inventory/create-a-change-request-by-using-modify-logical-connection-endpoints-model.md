@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
 
 3.  Select the **New** button.
 
@@ -31,11 +31,11 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 5.  On the form, fill in the fields.
 
-    To learn more, see [Change request and change task forms](../concept/change_request_forms.md).
+    To learn more, see [Change request and change task forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/change_request_forms.md).
 
 6.  Select **Submit**.
 
-    A new change request is created. Furthermore, a change task is automatically created and other related tabs appear. To learn more, see [Change request related tabs](../reference/tni-change-request-related-tabs.md)
+    A new change request is created. Furthermore, a change task is automatically created and other related tabs appear. To learn more, see [Change request related tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-change-request-related-tabs.md)
 
 7.  Select the **Change Tasks** tab.
 
@@ -43,7 +43,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 9.  On the Logical connection modification request form, update the logical connection endpoints and details, as required.
 
-    To learn more about the fields, see [Logical connection modification request form](../reference/logical-connection-modification-request-form.md).
+    To learn more about the fields, see [Logical connection modification request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/logical-connection-modification-request-form.md).
 
 10. Select **Submit**.
 
@@ -54,5 +54,5 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 12. Select **Save**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/instantiate-asset-using-template-relationship-model.md)
 

@@ -40,12 +40,12 @@ You can also unpublish a schedule make updates, and then publish it again.
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  Generate a schedule preview.
 
     1.  Click the **Team Calendar** tab.
-    2.  Click the Show Schedules icon \(![Show Schedules icon.](../image/show-schedule-new.png)\) in the contextual side panel.
+    2.  Click the Show Schedules icon \(![Show Schedules icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/show-schedule-new.png)\) in the contextual side panel.
     The team calendar refreshes and generates the preview when you save a work shift.
 
 4.  Publish a schedule.

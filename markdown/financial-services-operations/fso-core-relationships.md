@@ -29,7 +29,7 @@ The following table lists this application's dependencies:
 
 The following diagram shows the tables and their relationships that build the Financial Services Operations Core data model.
 
-![Diagram illustrating the FSO Core data model.](../../fso-deposit-operations/image/FSO-Core-Data-model.png "Financial Services Operations Core table relationship")
+![Diagram illustrating the FSO Core data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-deposit-operations/image/FSO-Core-Data-model.png "Financial Services Operations Core table relationship")
 
 ## Using ServiceNow AI Platform, Customer Service Management \(CSM\) tables
 
@@ -204,5 +204,5 @@ Provides a series of standard fields used on each of the tables that extend it.
 ServiceNow AI Platform
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Core](financial-services-operations-core-data-model.md)
+</table>**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 

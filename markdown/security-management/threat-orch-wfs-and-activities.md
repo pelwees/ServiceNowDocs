@@ -13,7 +13,7 @@ breadcrumb: [Threat Intelligence Orchestration, Threat Intelligence, Enterprise 
 
 The base system includes workflows and workflow activities you can use to automate actions on your instance.
 
-**Parent Topic:**[Threat Intelligence Orchestration](c_ThreatIntelligenceOrchestration.md)
+**Parent Topic:**[Threat Intelligence Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_ThreatIntelligenceOrchestration.md)
 
 ## Threat Intelligence - Run IoC Lookup workflow
 
@@ -37,12 +37,12 @@ If no correlating observable exists, a new observable with indicator is created.
 
 Workflow process activities include:
 
--   [Populate lookup with observable activity](threat-orch-wfs-and-activities.md#)
--   [Perform IoC Lookup activity](threat-orch-wfs-and-activities.md#)
+-   [Populate lookup with observable activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-orch-wfs-and-activities.md#)
+-   [Perform IoC Lookup activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-orch-wfs-and-activities.md#)
 -   Wait for lookup \(core activity\)
--   [Update observable with lookup result activity](threat-orch-wfs-and-activities.md#)
+-   [Update observable with lookup result activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-orch-wfs-and-activities.md#)
 
-![Threat Intelligence - Run IoC Lookup workflow diagram](../image/RunScanWorkflow.png "Threat Intelligence - Run IoC Lookup workflow")
+![Threat Intelligence - Run IoC Lookup workflow diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/RunScanWorkflow.png "Threat Intelligence - Run IoC Lookup workflow")
 
 ### Populate lookup with observable activity
 

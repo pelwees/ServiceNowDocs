@@ -83,7 +83,7 @@ For each copy of the Spotlight group, the domain name is added to the end of the
 
 5.  Click **OK**.
 
-    The Spotlight group is copied. If copying is successful, a list of the Spotlight groups that you have just created opens. If any error messages or warnings appeared during the copying process, read the [Spotlight group copy logs](../concept/spotlight-copy-logs.md#).
+    The Spotlight group is copied. If copying is successful, a list of the Spotlight groups that you have just created opens. If any error messages or warnings appeared during the copying process, read the [Spotlight group copy logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../concept/spotlight-copy-logs.md#).
 
 6.  Open each of the Spotlight groups you have just created and perform the following steps:
 
@@ -100,25 +100,25 @@ In this example, the ACME - Incident Spotlight group, which was created in the A
 
 1.  Open the Spotlight Groups list and click **ACME - Incident Spotlight.**.
 
-    ![The Spotlight Groups list with ACME - Incident Spotlight highlighted](../image/spotlight-select-group-domain.png)
+    ![The Spotlight Groups list with ACME - Incident Spotlight highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-select-group-domain.png)
 
-2.  The Incident Spotlight group record opens, and you click **Copy to domain**.![Spotlight group record with the Copy to Domain button highlighted](../image/spotlight-copy-to-domain.png)
-3.  In the **Copy Spotlight Group** dialog, you select the ACME - Metallurgy and ACME - Rocketry subdomains. Only ACME and ACME subdomains are available because the original Spotlight group was created in the ACME domain. You want the domain names to appear at the beginning of the group names, so you also select **Add domain name to new name as prefix**.![Copy Spotlight Group dialog, with the ACME - Metallurgy and ACME - Rocketry subdomains about to be selected.](../image/spotlight-copy-group-domains.png)
-4.  Because the domain names that will be added as prefixes begin with ACME, you do not need ACME in the base name of the group. Therefore, you remove it.![The filled-out Copy Spotlight Group dialog with the new group name shortened](../image/spotlight-copy-group-short-name-domains.png)
-5.  You click **OK**, and you are taken to a list showing you the Spotlight groups that you have just created. Note that both have the base name Incident Spotlight, as shown in the New Name field of the **Copy Spotlight Group** dialog, with the domain name added as a prefix. ![List of the new Spotlight groups you have created by copying a group.](../image/spotlight-new-group-copies-domain.png)
+2.  The Incident Spotlight group record opens, and you click **Copy to domain**.![Spotlight group record with the Copy to Domain button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-copy-to-domain.png)
+3.  In the **Copy Spotlight Group** dialog, you select the ACME - Metallurgy and ACME - Rocketry subdomains. Only ACME and ACME subdomains are available because the original Spotlight group was created in the ACME domain. You want the domain names to appear at the beginning of the group names, so you also select **Add domain name to new name as prefix**.![Copy Spotlight Group dialog, with the ACME - Metallurgy and ACME - Rocketry subdomains about to be selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-copy-group-domains.png)
+4.  Because the domain names that will be added as prefixes begin with ACME, you do not need ACME in the base name of the group. Therefore, you remove it.![The filled-out Copy Spotlight Group dialog with the new group name shortened](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-copy-group-short-name-domains.png)
+5.  You click **OK**, and you are taken to a list showing you the Spotlight groups that you have just created. Note that both have the base name Incident Spotlight, as shown in the New Name field of the **Copy Spotlight Group** dialog, with the domain name added as a prefix. ![List of the new Spotlight groups you have created by copying a group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-new-group-copies-domain.png)
 6.  In the **Run as** field, you browse for a user in the ACME - Metallurgy domain and select Wiley C. Latrans. Only global users and users in the domain of the Spotlight group are available. Spotlight jobs run more efficiently with a **Run as** user in the same domain as the Spotlight group, because only the records visible to this domain are evaluated.
 
-    ![Selecting a TOP/ACME/ACME - Metallurgy user as the Run As user.](../image/spotlight-acme-employee-domain.png)
+    ![Selecting a TOP/ACME/ACME - Metallurgy user as the Run As user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-acme-employee-domain.png)
 
 7.  Review the Spotlight job run schedule, and activate the Spotlight group.
 
-    ![Activating the ACME - Metallurgy - Incident Spotlight group](../image/spotlight-group-domain-activate.png)
+    ![Activating the ACME - Metallurgy - Incident Spotlight group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-group-domain-activate.png)
 
 8.  You verify the schedule for the ACME - Rocketry - Incident Spotlight group and activate the group.
 
 ## What to do next
 
-If any error messages or warnings appeared during the copying process, read the [Spotlight group copy logs](../concept/spotlight-copy-logs.md#).
+If any error messages or warnings appeared during the copying process, read the [Spotlight group copy logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../concept/spotlight-copy-logs.md#).
 
-**Parent Topic:**[Ranking records with Spotlight](../concept/spotlight.md)
+**Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../concept/spotlight.md)
 

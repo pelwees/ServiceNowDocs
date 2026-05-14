@@ -15,16 +15,16 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 The Page Map widget works in the Page Editor to display any Service Portal page in a tree structure. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![404 widget tree from the Page Editor](../image/WidgetPageMap.png "SP Page Map widget")
+![404 widget tree from the Page Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetPageMap.png "SP Page Map widget")
 
-**Parent Topic:**[Service Portal configuration page widgets](sp-config-widgets.md)
+**Parent Topic:**[Service Portal configuration page widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-config-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

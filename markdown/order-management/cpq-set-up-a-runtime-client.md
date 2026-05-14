@@ -29,11 +29,11 @@ Runtime clients can be set up that provide a token for authentication of runtime
 
 2.  Click **New**.
 
-    ![Runtime clients user interface](../images/cpq-runtime-client.png)
+    ![Runtime clients user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client.png)
 
 3.  Name the runtime client.
 
-    ![Add a runtime client interface](../images/cpq-runtime-client-add.png)
+    ![Add a runtime client interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client-add.png)
 
 4.  Set the user ID.
 
@@ -53,11 +53,11 @@ Runtime clients can be set up that provide a token for authentication of runtime
 
 8.  Click to open the new runtime client, and copy the token.
 
-    ![Edit runtime client](../images/cpq-runtime-client-edit.png)
+    ![Edit runtime client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client-edit.png)
 
 
 **Related topics**  
 
 
-[Use case: Embed CPQ UI in a Salesforce VisualForce page](../concept/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
+[Use case: Embed CPQ UI in a Salesforce VisualForce page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
 

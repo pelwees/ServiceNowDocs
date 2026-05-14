@@ -61,5 +61,5 @@ Select the required MITRE ATT&amp;CK matrix from the **Matrix** drop-down list. 
     -   Select **Show Sub Techniques** to view all the sub-techniques. When you select this option, all the techniques are shown in the expanded view. The expanded view of the technique shows all the sub-techniques that are present for that corresponding technique.
     -   Select **Show Only Associated Techniques** to view only MITRE techniques that are associated with a case. When you select this option, each tactic shows the total number of associated techniques and sub-techniques.
 
-**Parent Topic:**[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+**Parent Topic:**[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 

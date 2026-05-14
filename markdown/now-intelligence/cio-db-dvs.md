@@ -15,7 +15,7 @@ Use these data visualizations to get high-level and detailed views of how inform
 
 ## Overview tab
 
-For more information about indicator data sources, see [Chief Information Officer Dashboard indicators](cio-db-indicators.md).
+For more information about indicator data sources, see [Chief Information Officer Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/cio-db-indicators.md).
 
 |Column|Visualization|Visualization Type|Data Source|
 |------|-------------|------------------|-----------|

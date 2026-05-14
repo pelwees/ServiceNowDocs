@@ -18,9 +18,9 @@ Users with the agent calendar user role can add events to their personal calenda
 **Related topics**  
 
 
-[Configuring an agent calendar](configure-agent-calendar.md)
+[Configuring an agent calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/configure-agent-calendar.md)
 
-[Managing agent calendar](agent-calendar.md)
+[Managing agent calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/agent-calendar.md)
 
 ## Add an event to the agent calendar
 
@@ -38,7 +38,7 @@ Role required: agent\_schedule\_user
     -   **Field Service** &gt; **Agent** &gt; **My Schedule**
 2.  Double-click a timeslot or click and drag over a timeslot on the calendar to open the New Event form.
 
-    ![The agent schedule shows an event on Tuesday, July 9, and a new event being selected for Wednesday, July 10.](../../field-service-management/image/agent-my-schedule.png "Agent schedule")
+    ![The agent schedule shows an event on Tuesday, July 9, and a new event being selected for Wednesday, July 10.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../field-service-management/image/agent-my-schedule.png "Agent schedule")
 
 3.  Fill in the fields on the New Event form, as necessary.
 
@@ -259,13 +259,13 @@ Role required: agent\_schedule\_user
 
     -   **Customer Service** &gt; **My Schedule**
     -   **Field Service** &gt; **Agent** &gt; **My Schedule**
-2.  Click the configuration icon \(![Configuration icon.](../../field-service-management/image/icon-agent-sched-config.png)\) in the calendar header to display the Schedule Configuration menu.
+2.  Click the configuration icon \(![Configuration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../field-service-management/image/icon-agent-sched-config.png)\) in the calendar header to display the Schedule Configuration menu.
 
 3.  Enable or disable the switches for the different types of events.
 
     An option is enabled when the switch is moved to the right and appears with a green background.
 
-4.  Click the configuration icon \(![Configuration icon.](../../field-service-management/image/icon-agent-sched-config.png)\) again to hide the Schedule Configuration menu.
+4.  Click the configuration icon \(![Configuration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../field-service-management/image/icon-agent-sched-config.png)\) again to hide the Schedule Configuration menu.
 
     The calendar displays the enabled task types.
 

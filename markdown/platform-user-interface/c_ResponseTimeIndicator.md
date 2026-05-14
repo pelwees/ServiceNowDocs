@@ -17,7 +17,7 @@ Hovering over or selecting the icon \(\) provides the processing time, including
 
 The following example shows detail provided when hovering over the icon.
 
-![Response time](../image/ResponseTime2.png "Response time")
+![Response time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ResponseTime2.png "Response time")
 
 The response time text is:
 
@@ -34,9 +34,9 @@ In this example, the transaction took the following amount of processing time.
 
 Select the icon to see more details for the response time indicator.
 
-![Response time indicator expanded](../image/ResponseTimeExpanded.png "Response time indicator expanded")
+![Response time indicator expanded](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ResponseTimeExpanded.png "Response time indicator expanded")
 
 Administrators can disable the response time by setting the **glide.ui.response\_time** property to **false**.
 
-**Parent Topic:**[User interface configuration](../../../administer/core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/core-configuration/concept/p_NavigationAndUIConfiguration.md)
 

@@ -25,7 +25,7 @@ For configuration management to be most effective, establish relationships betwe
     **Note:** Enterprise Architecture Workspace users should continue to use the **Consumes::Consumed by** relationship so that the TPM and TRM life-cycle timelines are displayed correctly.
 
 
-![CSDM relationships.](../image/csdm-ci-relationships.png)
+![CSDM relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-ci-relationships.png)
 
 **Note:** Business services and Technology management services connect to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-taxonomy.md).
 
@@ -35,10 +35,10 @@ For an extended explanation of the business application reference attribute's ro
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
-**Parent Topic:**[CSDM reference](csdm-content-frame-reference.md)
+**Parent Topic:**[CSDM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-reference.md)
 
 **Related topics**  
 
 
-[CSDM resources](../reference/csdm-resources.md)
+[CSDM resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../reference/csdm-resources.md)
 

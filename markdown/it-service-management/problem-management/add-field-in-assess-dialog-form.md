@@ -87,5 +87,5 @@ Name of the formatter that is used to display information.**Note:** The formatte
 </table>8.  Click **Submit**.
 
 
-**Parent Topic:**[Configure the problem form](problem-configure-forms.md)
+**Parent Topic:**[Configure the problem form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-configure-forms.md)
 

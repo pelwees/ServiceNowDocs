@@ -20,5 +20,5 @@ View or update Java connector properties.
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Java](../concept/java-connector.md)
+**Parent Topic:**[Java](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/java-connector.md)
 

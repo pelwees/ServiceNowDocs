@@ -15,7 +15,7 @@ Learn about how ServiceNow mobile apps comply with encryption security standards
 
 <table id="table_hws_qkb_2lb"><tbody><tr><td>
 
-![Device PIN and Blur features in the mobile UI.](../image/fedramp-compliance.png)
+![Device PIN and Blur features in the mobile UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/fedramp-compliance.png)
 
 </td><td>
 
@@ -78,7 +78,7 @@ For more information on the certificate used with the third party SDK, see [http
 
     For commercial instances, offline mode is enabled by default when the offline mode plugin is installed. To disable offline mode on a commercial instance, an administrator must create the **glide.sg.offline.enabled** system property on the \[sys\_properties\] table, and set the value of this property to `false`.
 
-    For more information on offline mode, see [Offline mode](mobile-offline-mode.md).
+    For more information on offline mode, see [Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md).
 
 -   **Screen blur on background**
 

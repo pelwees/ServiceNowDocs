@@ -53,5 +53,5 @@ Role required: personalize\_dictionary
 **Related topics**  
 
 
-[System dictionary](../../data-dictionary-tables/concept/c_SystemDictionary.md)
+[System dictionary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../data-dictionary-tables/concept/c_SystemDictionary.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Default lists** tab, navigate to **Matters** &gt; **All**
 
@@ -44,5 +44,5 @@ The message **Legal matter has been closed** appears in the **Activity** section
 
 In the legal hold matter page, the state changes from Work in progress to Closed Complete.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/use-lg-hold-notif.md)
 

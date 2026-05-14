@@ -21,15 +21,15 @@ This enables organizations to ensure compliance, allocate resources effectively,
 
 <table id="table_yjv_4lx_nxb" class="nav-card"><tbody><tr><td>
 
-[Explore OTM license![](../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about subscription-related details](../concept/otm-license-module.md)
+[Explore OTM license![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about subscription-related details](../concept/otm-license-module.md)
 
 </td><td>
 
-[Install ITOM SU Licensing for OTM![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Update the latest version of plugin](../task/install-otm-su-licensing.md)
+[Install ITOM SU Licensing for OTM![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Update the latest version of plugin](../task/install-otm-su-licensing.md)
 
 </td><td>
 
-[Licensing References![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Know about installed components like scheduled jobs and tables](otm-su-licensing-references.md)
+[Licensing References![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Know about installed components like scheduled jobs and tables](otm-su-licensing-references.md)
 
 </td></tr></tbody>
 </table>## Contact Support

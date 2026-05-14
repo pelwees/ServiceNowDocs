@@ -67,7 +67,7 @@ To edit the details of a dashboard created in the in-line editor:
 **Note:** If you don’t see this option, you don’t have permission to edit the dashboard.
 
 3.  Edit the details of the dashboard and then select **Exit editing mode**.
- For more information, see [Edit TPRM dashboard details](edit-tprm-db-details.md).
+ For more information, see [Edit TPRM dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/edit-tprm-db-details.md).
 
 </td></tr><tr><td id="d179205e208">
 

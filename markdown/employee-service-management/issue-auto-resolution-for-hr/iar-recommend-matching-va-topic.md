@@ -28,9 +28,9 @@ The Virtual Agent process is as follows:
 1.  An HR case is submitted by the employee through an email.
 2.  The employee receives an email with the Virtual Agent topic recommendation in it.
 3.  The employee selects **Go to portal** to access the details of the case on the portal.
-4.  The employee accesses the Virtual Agent topic, by selecting the Virtual Agent chat icon ![VA chat icon.](../../universal-request/images/icon-chat-va.png) on the portal and selecting the case recommendation notification.
+4.  The employee accesses the Virtual Agent topic, by selecting the Virtual Agent chat icon ![VA chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../universal-request/images/icon-chat-va.png) on the portal and selecting the case recommendation notification.
 
 ## Enhanced recommendations preview on email for AI search flow
 
-The new recommendations section displays the titles of the knowledge articles and catalog items in the email. The ![IAR knowledge article icon.](../image/iar-knowledge-article.png) icon indicates that the recommendation title is a catalog item. The ![IAR catalog item icon.](../image/iar-catalog-item.png) icon indicates that the recommendation title is a knowledge article.
+The new recommendations section displays the titles of the knowledge articles and catalog items in the email. The ![IAR knowledge article icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/iar-knowledge-article.png) icon indicates that the recommendation title is a catalog item. The ![IAR catalog item icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/iar-catalog-item.png) icon indicates that the recommendation title is a knowledge article.
 

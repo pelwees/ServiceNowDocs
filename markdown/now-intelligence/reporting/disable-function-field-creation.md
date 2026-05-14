@@ -36,5 +36,5 @@ Role required: admin.
 
 The option to configure function fields doesn’t appear in the Report Designer for any user.
 
-**Parent Topic:**[Report on function fields](../concept/function-fields-reporting.md)
+**Parent Topic:**[Report on function fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/function-fields-reporting.md)
 

@@ -15,7 +15,7 @@ Before you create a push notification, create the push message with the actual m
 
 ## Before you begin
 
-The [Push notification plugin](t_ActivatePushNotifications.md) must be active. The plugin is active by default.
+The [Push notification plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md) must be active. The plugin is active by default.
 
 Role required: admin
 
@@ -81,11 +81,11 @@ Push Message Attribute Values
 
 </td><td>
 
-Optional. Select the attributes that apply to this notification. For details, see [Create an attribute value or action for a push message](t_CreateAPushMessageAttributeValue.md).
+Optional. Select the attributes that apply to this notification. For details, see [Create an attribute value or action for a push message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-[Set up the push notification](t_CreatePushNotification.md) that contains the message created or update an existing push notification to use the push message.
+[Set up the push notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreatePushNotification.md) that contains the message created or update an existing push notification to use the push message.
 

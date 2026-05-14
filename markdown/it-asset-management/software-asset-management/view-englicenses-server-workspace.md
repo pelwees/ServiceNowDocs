@@ -19,7 +19,7 @@ View the list of license management servers that OpenLM or Open iT connect with 
 
 Information such as the name and type of the server, its current status, whether it's currently active, and the last connection time is displayed.
 
-**Note:** Engineering license servers only appear if the Software Asset Management Professional for Engineering Applications \(com.sn\_samp\_eng\_app\) [plugin](t_RequSoftwareAssetMgmt.md) is activated.
+**Note:** Engineering license servers only appear if the Software Asset Management Professional for Engineering Applications \(com.sn\_samp\_eng\_app\) [plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) is activated.
 
 Role required: sam\_admin or sam\_user
 
@@ -30,5 +30,5 @@ Role required: sam\_admin or sam\_user
 2.  Select a license server record to view its details.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

@@ -19,7 +19,7 @@ Interact directly with the configurable workspace components for simpler test cr
 
 Navigate to a workspace page using a URL. The feature allows for URLs to be entered with or without the preceding domain name.
 
-![Screenshot shows the workspace url form](../image/atf-ws-url-form.png)
+![Screenshot shows the workspace url form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-ws-url-form.png)
 
 <table id="table_od3_dgb_hzb"><thead><tr><th>
 
@@ -92,7 +92,7 @@ Interact with a seismic component on a workspace page using the Test Page test s
 
 Enter the URL of the workspace page you want to inspect for the Configurable Workspace URL field on the Configurable Workspace Test Authoring modal.
 
-![Screenshot shows the test page modal](../image/atf-test-page-modal.png)
+![Screenshot shows the test page modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-test-page-modal.png)
 
 **Note:** By default, the URL from the preceding Open Workspace Page test step is displayed. If this step is not immediately preceded by an Open Workspace Page step, you must enter the target workspace page URL manually for inspection.
 

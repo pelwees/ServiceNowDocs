@@ -17,12 +17,12 @@ In the Contact Tracing application, manage data for user badges and badge reader
 
 Use this badge swipe data when running the diagnostic requests in the Emergency Exposure Management application.
 
--   **[Add badge reader details](../task/add-badge-reader.md)**  
+-   **[Add badge reader details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/add-badge-reader.md)**  
 Create entries for all badge reading devices that are installed at your workplace to control employee access to building, floors, and workspaces.
--   **[Add user badges](../task/add-user-badge.md)**  
+-   **[Add user badges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/add-user-badge.md)**  
 Add user badges that are assigned to employees to use with badge readers when they enter or exit controlled access locations in the workplace. These badges can be used with badge readers for building entry, exit gates, or floors.
--   **[Import your badge reader data from an Excel spreadsheet](../task/import-badge-register-data.md)**  
+-   **[Import your badge reader data from an Excel spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/import-badge-register-data.md)**  
 Import your badge reader data from an Excel spreadsheet into the Badge Access Register table.
 
-**Parent Topic:**[Contact Tracing](contact-tracing.md)
+**Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 

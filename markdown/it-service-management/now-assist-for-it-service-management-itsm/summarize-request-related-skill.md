@@ -28,7 +28,7 @@ Summarization for Request Management involves individual skills used to summariz
 -   Requested items
 -   Catalog tasks
 
-These Request Management summarization skills provide you with concise summaries generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+These Request Management summarization skills provide you with concise summaries generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
 ## Procedure
 
@@ -36,15 +36,15 @@ These Request Management summarization skills provide you with concise summaries
 
 2.  Select **Summarize**.
 
-    ![Summarize action in the Details tab.](../image/itsm-request-summarize.png)
+    ![Summarize action in the Details tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-request-summarize.png)
 
     -   In the Core UI, the summary appears in a banner of the Request Management record.
 
-        ![Request summary in the Core UI that provides the context and next steps.](../image/itsm-request-summary-core-ui.png)
+        ![Request summary in the Core UI that provides the context and next steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-request-summary-core-ui.png)
 
     -   In Service Operations Workspace for ITSM, the summary is generated in the **Details** tab.
 
-        ![Request summary in Service Operations Workspace for ITSM that provides the context and next steps.](../image/itsm-request-summary.png)
+        ![Request summary in Service Operations Workspace for ITSM that provides the context and next steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-request-summary.png)
 
 3.  When you're finished summarizing a record, you can add the summary to your work notes, copy it, or provide feedback.
 
@@ -73,7 +73,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) to view the complete summary. Select the collapse card icon \(![collapse card icon.](../image/icon-collapse.png)\) to view a collapsed summary.
+Select the expand card icon \(![expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-expand.png)\) to view the complete summary. Select the collapse card icon \(![collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-collapse.png)\) to view a collapsed summary.
 
 </td></tr><tr><td id="d389507e254">
 
@@ -81,7 +81,7 @@ Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) t
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d389507e277">
 
@@ -89,7 +89,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\).
+If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-copy.png)\).
 
 </td></tr><tr><td id="d389507e293">
 
@@ -97,7 +97,7 @@ If you want to reuse the summary, select the copy to clipboard icon \(![Copy to 
 
 </td><td>
 
-If you want to check more details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check more details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

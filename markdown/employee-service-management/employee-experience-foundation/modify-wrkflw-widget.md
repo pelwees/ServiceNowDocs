@@ -29,12 +29,12 @@ Role required: sn\_hr\_sp.esc\_admin
 
 4.  On the feedback widget instance options window, fill in the fields.
 
-    For a description of the field values, see [Modify the experience flow feedback widget](modify-fdbck-widgets.md).
+    For a description of the field values, see [Modify the experience flow feedback widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/modify-fdbck-widgets.md).
 
 
 ## Result
 
 The workflow feedback widget is customized according to your preference.
 
-**Parent Topic:**[Integrated service and experience feedback management](../concept/ex-fdbck-manage.md)
+**Parent Topic:**[Integrated service and experience feedback management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ex-fdbck-manage.md)
 

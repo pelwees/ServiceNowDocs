@@ -21,5 +21,5 @@ On the workspace landing page, you can get a quick overview of the cases and tas
 
 The following is an example of the workspace landing page for the fraud agent.
 
-![Example landing page in workspace for fraud agent showing number and list of open cases, as well as indicators such as SLA at risk and breached.](../image/fraud-agent-workspace.png "Example of the landing page for fraud agent")
+![Example landing page in workspace for fraud agent showing number and list of open cases, as well as indicators such as SLA at risk and breached.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/intelligent-servicing-for-fraud/../image/fraud-agent-workspace.png "Example of the landing page for fraud agent")
 

@@ -77,30 +77,30 @@ Enter the width of the Flash movie in pixels.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of content blocks](../reference/r_TypesOfContentBlocks.md)
+**Parent Topic:**[Types of content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_TypesOfContentBlocks.md)
 
 **Related topics**  
 
 
-[Configure a header block](t_HeaderBlock.md)
+[Configure a header block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_HeaderBlock.md)
 
-[Create a navigation menu block](t_CreateNavigationMenuBlock.md)
+[Create a navigation menu block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateNavigationMenuBlock.md)
 
-[Configure dynamic blocks](t_CreateADynamicBlock.md)
+[Configure dynamic blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADynamicBlock.md)
 
-[Customize the list block](t_DefineTheListBlock.md)
+[Customize the list block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheListBlock.md)
 
-[Configure a static HTML block](t_StaticHTMLBlock.md)
+[Configure a static HTML block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_StaticHTMLBlock.md)
 
-[Configure content links](t_ConfigureContentLinks.md)
+[Configure content links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_ConfigureContentLinks.md)
 
-[Configure iFrames](t_IFrame.md)
+[Configure iFrames](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_IFrame.md)
 
-[Configure a detailed content block](t_DetailedContentBlock.md)
+[Configure a detailed content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DetailedContentBlock.md)
 
-[Add and manage attachments](../../../use/using-forms/task/t_AddingAnAttachment.md)
+[Add and manage attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../../../use/using-forms/task/t_AddingAnAttachment.md)
 
-[Content blocks](../concept/c_ContentBlocks.md)
+[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentBlocks.md)
 
-[Configure a content block](t_CreateAContentBlock.md)
+[Configure a content block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 

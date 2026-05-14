@@ -32,16 +32,16 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     1.  In the Express List pane, select the alert.
 
-        **Note:** To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](../../service-operations-workspace-itom/image/icon-chevron.png)\) at the beginning of the alert group row.
+        **Note:** To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/image/icon-chevron.png)\) at the beginning of the alert group row.
 
     2.  Select the **Alert actions** drop-down list.
 
-        ![Alert actions drop down arrow](../../service-operations-workspace-itom/image/alert-actions-tool-tip.png)
+        ![Alert actions drop down arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-operations-workspace-itom/image/alert-actions-tool-tip.png)
 
     3.  Under **Response actions**, select **Create Incident with Now Assist**.
 
     An incident with a human-readable, AI-generated description is created from the selected alert and a confirmation message is displayed.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](../concept/now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../concept/now-assist-itom-use.md)
 

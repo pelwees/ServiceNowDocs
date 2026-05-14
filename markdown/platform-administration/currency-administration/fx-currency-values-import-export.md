@@ -79,5 +79,5 @@ Export to Excel/PDF
 Uses the default method of exporting data that extracts data from fields using `getDisplayValue()`. For FX Currency fields, using this method returns a formatted currency string of the form $1,234.56. To access specific information inside an FX Currency field directly without any transformations, simply export that column using dot walking.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[FX Currency fields](fx-currency.md)
+</table>**Parent Topic:**[FX Currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md)
 

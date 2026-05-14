@@ -15,7 +15,7 @@ breadcrumb: [Reference, Creator Studio, Building no-code applications, Developin
 
 Learn about the terms and concepts used in Creator Studio.
 
-**Parent Topic:**[Creator Studio reference](../reference/creator-studio-reference.md)
+**Parent Topic:**[Creator Studio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../reference/creator-studio-reference.md)
 
 ## activity
 
@@ -105,7 +105,7 @@ Someone requesting something, like a piece of equipment or permission to do some
 
 ## target table
 
-The table where apps created in Creator Studio store their requests. Admininstrators can change the table that an app saves its data to. For more information, see [Administering an app's associated table](creator-studio-admin-app-table.md).
+The table where apps created in Creator Studio store their requests. Admininstrators can change the table that an app saves its data to. For more information, see [Administering an app's associated table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-admin-app-table.md).
 
 ## trigger
 

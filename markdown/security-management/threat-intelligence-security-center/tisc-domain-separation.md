@@ -34,7 +34,7 @@ Domain separation is enabled for all the features of Threat Intelligence Securit
 
 -   All the configuration related records that are provisioned in the base system are shipped in the global domain. In case the instance is domain separated, users would see an explicit button **Setup TISC** under the **Administration** module of the TISC workspace. Click on this button to clone the base system provisioned global domain configurations into the respective domains.
 
-    ![TISC Domain Separation](../image/tisc-domain-separation.png "Domain Separation")
+    ![TISC Domain Separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-domain-separation.png "Domain Separation")
 
     **Note:** Users should only enable or modify domain specific configuration records and should not enable or modify configuration records in the global domain.
 

@@ -17,9 +17,9 @@ Defines facet items, filters, or mapped queries for a facets object.
 
 You can only use the SPScriptedFacet API in a facet generation script in a Service Portal search source. The facet generation script is only visible when **Is scripted source** is selected.
 
-There is no constructor for this class. Instead, use the [createFacet\(\)](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) or [createMultiChoiceFacet\(\)](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) methods of the [SPScriptedFacetService](../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) class to generate a facets object.
+There is no constructor for this class. Instead, use the [createFacet\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) or [createMultiChoiceFacet\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) methods of the [SPScriptedFacetService](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SPScriptedFacetService/concept/SPScriptedFacetServiceScopedAPI.md#) class to generate a facets object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SPScriptedFacet - addFacetItem\(String label, Object valueObj\)
 

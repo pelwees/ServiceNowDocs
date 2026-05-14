@@ -23,5 +23,5 @@ Select **Assign groups** if you want to assign a role to a group. You can also e
 
 **Note:** You must select one or more roles to get it assigned to a group.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

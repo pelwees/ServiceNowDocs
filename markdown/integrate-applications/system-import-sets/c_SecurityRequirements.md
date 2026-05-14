@@ -97,5 +97,5 @@ The following image shows the resultant row created for the import set table Not
 
 ![](../image/WsIsetPerl.png "WS Iset Perl")
 
-**Parent Topic:**[Web service import sets](c_WebServiceImportSets.md)
+**Parent Topic:**[Web service import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_WebServiceImportSets.md)
 

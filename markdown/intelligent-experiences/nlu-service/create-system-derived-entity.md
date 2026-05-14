@@ -17,9 +17,9 @@ Create a custom entity that's derived from a default system entity such as date,
 
 ## Before you begin
 
--   Make sure that the [NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.](activate-nlu-workbench.md)
--   [Create or use](../concept/creating-models.md) an existing NLU model for Virtual Agent or AI Search.
--   [Create or use an existing intent.](create-nlu-intent.md)
+-   Make sure that the [NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md)
+-   [Create or use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/creating-models.md) an existing NLU model for Virtual Agent or AI Search.
+-   [Create or use an existing intent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-nlu-intent.md)
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
 
 ## About this task
@@ -50,7 +50,7 @@ In this example procedure, you create two system-derived entities to gather the 
 
     In this example scenario, you have an example utterances `book a flight from San Diego to San Francisco`. For this step, click **from San Diego**.
 
-    ![Entity window on the Utterances tab of the Intent details page.](../images/create-derived1.png)
+    ![Entity window on the Utterances tab of the Intent details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived1.png)
 
 6.  Select **Create New Entity**.
 
@@ -62,7 +62,7 @@ In this example procedure, you create two system-derived entities to gather the 
     -   **Type**: Select **System-derived**
     -   **Model Availability**: Select this check box if you want this entity to be included in all intents in your model
     -   Parent Entity: Select **LOCATION**
-    ![Create a new entity window for a system-derived entity.](../images/create-derived2.png)
+    ![Create a new entity window for a system-derived entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived2.png)
 
 8.  Select **Save**.
 
@@ -70,7 +70,7 @@ In this example procedure, you create two system-derived entities to gather the 
 
     In this example scenario, you click **to San Francisco**.
 
-    ![Entity window on the Utterances tab of the Intent details page. Make sure to select the correct part of the utterance.](../images/create-derived3.png)
+    ![Entity window on the Utterances tab of the Intent details page. Make sure to select the correct part of the utterance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived3.png)
 
 10. Select **Create New Entity**.
 
@@ -80,13 +80,13 @@ In this example procedure, you create two system-derived entities to gather the 
     -   **Type**: Select **System-derived**
     -   **Model Availability**: Select this check box if you want this entity to be included in all intents in your model
     -   **Parent Entity**: Select **LOCATION**
-    ![Create a new entity window for a system-derived entity.](../images/create-derived4.png)
+    ![Create a new entity window for a system-derived entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived4.png)
 
 11. Select **Save**.
 
     **Result:** Your two system-derived entities appear in the entity window.
 
-    ![Entity window for system-derived entities.](../images/create-derived5.png)
+    ![Entity window for system-derived entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived5.png)
 
 
 ## What to do next
@@ -99,7 +99,7 @@ For this example, you can test your model with a different departure and arrival
 2.  Enter `book a flight from Dallas to San Jose`.
 3.  Select **Go**.
 
-![Intents details page with the test panel open. Train and try your model to assess your new entities.](../images/create-derived6.png "Intents details page with the test panel")
+![Intents details page with the test panel open. Train and try your model to assess your new entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-derived6.png "Intents details page with the test panel")
 
 The model predicts the intent, showing the entities it used to determine the values. Notice how it uses both the system entity and system-derived entity when predicting.
 

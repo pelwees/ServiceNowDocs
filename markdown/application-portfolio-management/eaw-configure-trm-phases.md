@@ -15,12 +15,12 @@ A Technology Reference Model \(TRM\) phase refers to a specific stage in the lif
 
 A TRM phase represents the status of the application, that is whether the application is approved for use, being evaluated or being scheduled for divestment.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all TRM phases](../../task/eaw-task/eaw-view-all-trm-phases.md)
+[View all TRM phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-trm-phases.md)
 
-[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)
+[Add or edit a TRM phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-trm-phase.md)
 

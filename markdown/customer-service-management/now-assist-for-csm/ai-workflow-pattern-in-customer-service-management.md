@@ -52,7 +52,7 @@ This allows admin to control whether the **Triage Cases** button appears in the 
 
 **Note:** The sn\_now\_canvas\_ai.interactive\_view\_user role must be manually added to the sn\_esm\_agent role to enable agents to view the **AI Workflows** tab in the side panel.
 
-![Add triggers page showing Triage Cases UI actions with display toggles and configuration options.](../image/ai-workflow-triage-cases.png "Triage Cases guided flow")
+![Add triggers page showing Triage Cases UI actions with display toggles and configuration options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/ai-workflow-triage-cases.png "Triage Cases guided flow")
 
 The **AI Workflow** tab is visible on following pages in CSM Configurable Workspace:
 

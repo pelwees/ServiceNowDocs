@@ -13,25 +13,25 @@ breadcrumb: [Data visualizations, Platform Analytics experience, Platform Analyt
 
 A dashboard viewer has several ways to affect what a data visualization shows in runtime.
 
--   **[Select a group-by value in a data visualization as a viewer](select-group-runtime.md)**  
+-   **[Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md)**  
 A viewer of a data visualization can select the value for grouping the data in the visualization.
--   **[Refresh a data visualization as a viewer](refresh-data-viz-runtime.md)**  
+-   **[Refresh a data visualization as a viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/refresh-data-viz-runtime.md)**  
 A viewer of a data visualization can refresh that data visualization without refreshing the page or having editing rights.
--   **[Download a data visualization from a dashboard](../task/export-data-vis-from-dboard.md)**  
+-   **[Download a data visualization from a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/export-data-vis-from-dboard.md)**  
 As a viewer, download individual data visualizations from a dashboard or the Visualization Designer. Output formats differ between Lists and other data visualizations. The available output formats are CSV, Excel, PNG and JPEG.
 
-**Parent Topic:**[Data visualizations in Platform Analytics](analytics-center-data-visualizations.md)
+**Parent Topic:**[Data visualizations in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
 
 **Related topics**  
 
 
-[Exploring the Data Visualizations library](explore-data-vis-library.md)
+[Exploring the Data Visualizations library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md)
 
-[Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
+[Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md)
 
-[Common data visualization tasks](../../reporting/concept/common-dv-tasks.md)
+[Common data visualization tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/common-dv-tasks.md)
 
-[Configure data visualizations](configure-data-visualizations.md)
+[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
-[Data visualization reference](../../par-for-workspace/reference/data-visualization-reference.md)
+[Data visualization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/data-visualization-reference.md)
 

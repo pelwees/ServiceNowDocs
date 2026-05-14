@@ -25,7 +25,7 @@ Role required: admin
 
 3.  Click **Schedule**.
 
-    The [Scheduled Entity Generation](../../reference-pages/task/t_ScheduleTheGenerationOfAnEntity.md) form appears.
+    The [Scheduled Entity Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/task/t_ScheduleTheGenerationOfAnEntity.md) form appears.
 
 4.  In the **Run** choice list, select how frequently to create a record.
 
@@ -34,22 +34,22 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md)
 
-[Create templates for related task records](create-templates-for-related-task-records.md)
+[Create templates for related task records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-templates-for-related-task-records.md)
 
-[Create a template by saving a form](t_SaveAFormAsATemplateInUI16OrUI15.md)
+[Create a template by saving a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_SaveAFormAsATemplateInUI16OrUI15.md)
 
-[Create a module for a template](t_CreateAModuleForATemplate.md)
+[Create a module for a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/template-bar.md)
 
-[Toggle the template bar](t_ToggleTheTemplateBar.md)
+[Toggle the template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ScriptedTemplates.md)
 

@@ -55,5 +55,5 @@ Uses various tools to perform the following:-   Analyzes the table schema and it
 </td></tr></tbody>
 </table>There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-**Parent Topic:**[Use agentic AI in Now Assist for Vault](use-now-assist-vault-agentic-ai.md)
+**Parent Topic:**[Use agentic AI in Now Assist for Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/use-now-assist-vault-agentic-ai.md)
 

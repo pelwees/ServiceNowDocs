@@ -29,7 +29,7 @@ Most column layout options on the property pane can be edited for different form
 -   **Stack columns below \(pixels\)** option
 -   All options under **Accessibility**
 
-![Column layout properties pane with black arrows pointing to the options that cannot be set by form factor.](../image/responsive-author-column-layout.png)
+![Column layout properties pane with black arrows pointing to the options that cannot be set by form factor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-column-layout.png)
 
 ## Procedure
 
@@ -37,15 +37,15 @@ Most column layout options on the property pane can be edited for different form
 
 2.  Open an experience to work in or create an experience by selecting **Create &gt; Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch with responsive authoring.
 
-    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  At the top, check that the desktop form factor icon is selected.
 
-    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-desktop.png)
+    ![Black arrow pointing to desktop form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-desktop.png)
 
 5.  On the stage, select **+ Add content**.
 
@@ -61,7 +61,7 @@ Most column layout options on the property pane can be edited for different form
 
 8.  In the configuration panel, on the **Configure** tab, edit the name of the first tab by selecting the edit icon.
 
-    ![Configure tab with black arrow pointing to tab edit icon.](../image/responsive-author-layout1.png)
+    ![Configure tab with black arrow pointing to tab edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-layout1.png)
 
 9.  In **Tab label**, enter `Tab 1`.
 
@@ -79,7 +79,7 @@ Most column layout options on the property pane can be edited for different form
 
     4.  Check that **Tab ID** has been automatically filled in with **tab\_2**.
 
-        ![Configuration panel with configure tab displayed and black arrow pointing to the label field.](../image/responsive-author-layout2.png)
+        ![Configuration panel with configure tab displayed and black arrow pointing to the label field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-layout2.png)
 
     5.  Select **Create**.
 
@@ -89,13 +89,13 @@ Most column layout options on the property pane can be edited for different form
 
 15. Select the tablet form factor icon.
 
-    ![Black arrow pointing to tablet form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-tablet.png)
+    ![Black arrow pointing to tablet form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-tablet.png)
 
     The spacing and position of the tabs looks good at tablet width.
 
 16. Select the mobile form factor icon.
 
-    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](../image/responsive-author-icon-mobile.png)
+    ![Black arrow pointing to mobile form factor icon at the top of a UI Builder page in editor view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-icon-mobile.png)
 
     The tabs take more space at the smaller size.
 
@@ -105,7 +105,7 @@ Most column layout options on the property pane can be edited for different form
 
     2.  On the configuration panel, in **Direction**, select the row icon.
 
-        ![Configuration panel for column 1 with black arrow pointing to row icon for direction option.](../image/responsive-author-layout7.png)
+        ![Configuration panel for column 1 with black arrow pointing to row icon for direction option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-layout7.png)
 
     3.  Select **Save**.
 
@@ -122,5 +122,5 @@ Most column layout options on the property pane can be edited for different form
 21. Select the **X** to close the **Preview** overlay.
 
 
-**Parent Topic:**[Responsive authoring](../concept/responsive-authoring.md)
+**Parent Topic:**[Responsive authoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/responsive-authoring.md)
 

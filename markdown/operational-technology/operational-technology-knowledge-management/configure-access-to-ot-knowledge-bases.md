@@ -31,7 +31,7 @@ If you want to restrict unauthenticated users for a knowledge base, you can use 
 
 3.  To restrict unauthenticated users for a knowledge base by using the user criteria, select the knowledge base record and update its user criteria.
 
-    For more information about creating the user criteria, see [Create the user criteria for an OT knowledge base](create-user-criteria-otkm.md). For more information about assigning the user criteria, see [Assign the user criteria to an OT knowledge base](assign-ot-user-criteria-otkm.md).
+    For more information about creating the user criteria, see [Create the user criteria for an OT knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/create-user-criteria-otkm.md). For more information about assigning the user criteria, see [Assign the user criteria to an OT knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/assign-ot-user-criteria-otkm.md).
 
 4.  Restrict unauthenticated users for a knowledge base by using the **glide.knowman.block\_access\_with\_no\_user\_criteria** property settings.
 
@@ -39,5 +39,5 @@ If you want to restrict unauthenticated users for a knowledge base, you can use 
     2.  Set the **glide.knowman.block\_access\_with\_no\_user\_criteria** property settings to true.
     3.  Select **Save**.
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../concept/configuring-operational-technology-knowledge-management.md)
 

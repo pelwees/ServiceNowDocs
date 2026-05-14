@@ -50,5 +50,5 @@ Persona: Agent.
 
 An interaction is created with the subject “outbound call to `<customer name>`”, and a chat panel opens with the transcript.
 
-**Parent Topic:**[Integrating ServiceNow Voice with ITSM](integrate-ccc-itsm.md)
+**Parent Topic:**[Integrating ServiceNow Voice with ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-itsm.md)
 

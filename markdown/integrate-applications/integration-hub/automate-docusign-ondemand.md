@@ -20,7 +20,7 @@ Send Docusign on-demand signing requests using information in your ServiceNow in
 -   Request Integration Hub subscription
 -   Activate Docusign spoke
 -   Role required: admin
--   [Set up Docusign eSignature spoke using JWT grant](setup-docusign-jwt.md#) or [Set up Docusign eSignature spoke using authorization code grant](setup-docusign-authorization-code.md#)
+-   [Set up Docusign eSignature spoke using JWT grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-jwt.md#) or [Set up Docusign eSignature spoke using authorization code grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-authorization-code.md#)
 
 ## About this task
 

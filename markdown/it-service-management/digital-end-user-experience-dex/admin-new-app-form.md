@@ -66,7 +66,7 @@ Enable page-level monitoring
 
 </td><td>
 
-Specific pages to monitor within the domain.You can add a specific page to monitor after adding and saving the application to monitored applications. In the Application management table, select the added application to set up one or more pages. See [Set up page-level monitoring](../concept/set-up-page-level-monitoring.md) for more details.
+Specific pages to monitor within the domain.You can add a specific page to monitor after adding and saving the application to monitored applications. In the Application management table, select the added application to set up one or more pages. See [Set up page-level monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/set-up-page-level-monitoring.md) for more details.
 
 This field appears only if you select **Web application** under the **New** drop-down list.
 
@@ -109,8 +109,8 @@ Option to add a Software Asset Management \(SAM\) product to enable tracking of 
 
 This field appears only when you're editing a web application.
 
-For more information, see [Using DEX or SAM for application monitoring](../concept/using-dex-or-sam-for-app-monitoring.md).
+For more information, see [Using DEX or SAM for application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/using-dex-or-sam-for-app-monitoring.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administration cards](administration-cards.md)
+</table>**Parent Topic:**[Administration cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md)
 

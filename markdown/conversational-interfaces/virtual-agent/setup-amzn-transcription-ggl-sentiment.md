@@ -48,7 +48,7 @@ Role required: admin
 
 6.  Select the **Name** of the existing S3 bucket from the drop-down and click **Save**.
 
-7.  Copy the S3 bucket name from the Data storage page, under the Call recordings section.![The Amazon S3 bucket name from the Data storage page.](../images/copy-s3-bucket.png)
+7.  Copy the S3 bucket name from the Data storage page, under the Call recordings section.![The Amazon S3 bucket name from the Data storage page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/copy-s3-bucket.png)
 
 8.  Navigate to **AWS Lambda** &gt; **Functions** and select the**SN\_CI\_CC\_ProcessRequest** Function name.
 
@@ -64,7 +64,7 @@ Role required: admin
 
     2.  Find the Sentiment Analysis \(com.glide.cs.sentiment\) application using the filter criteria and search bar and click **Install**.
 
-    3.  Select the **Enable Sentiment Analysis** check box on the Amazon Connect's messaging channel record to enable Sentiment Analysis in your ServiceNow instance.![Amazon Connect messaging channel window, with Enable Sentiment Analysis option highlighted.](../images/amz-sentiment-analysis.png)
+    3.  Select the **Enable Sentiment Analysis** check box on the Amazon Connect's messaging channel record to enable Sentiment Analysis in your ServiceNow instance.![Amazon Connect messaging channel window, with Enable Sentiment Analysis option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/amz-sentiment-analysis.png)
 
     4.  Create a connection for the Google Sentiment Analysis API.
 
@@ -100,5 +100,5 @@ Role required: admin
         ```
 
 
-**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](../concept/configure-aws-account.md)
+**Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-aws-account.md)
 

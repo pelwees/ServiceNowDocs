@@ -32,7 +32,7 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 4.  Navigate to **Pages and variants** &gt; **Record** &gt; **Email Interaction Page**.
 
-5.  Select the Open menu icon \(![Open menu icon](../image/Open_menu_icon_EaaI.png)\).
+5.  Select the Open menu icon \(![Open menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Open_menu_icon_EaaI.png)\).
 
 6.  Select **Duplicate variant**.
 

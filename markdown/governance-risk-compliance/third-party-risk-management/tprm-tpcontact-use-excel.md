@@ -21,7 +21,7 @@ Role required: vendor\_contact
 
 ## About this task
 
-The Microsoft Excel questionnaire template enables third-party and engagement contacts to provide information outside the third-party portal, streamlining the due diligence process. For more information, see [Using a Microsoft Excel spreadsheet template for external questionnaires](../concept/tprm-excel-template-support.md).
+The Microsoft Excel questionnaire template enables third-party and engagement contacts to provide information outside the third-party portal, streamlining the due diligence process. For more information, see [Using a Microsoft Excel spreadsheet template for external questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-excel-template-support.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ The Microsoft Excel questionnaire template enables third-party and engagement co
 
 5.  Upload a completed questionnaire by selecting **Import** and then select the file from your file browser.
 
-    ![Import questionnaire template widget.](../../grc-vendor-risk/image/import-q-template.png)
+    ![Import questionnaire template widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/image/import-q-template.png)
 
     A dialog box shows the progress status for your questionnaire template upload. After the upload is complete, you can review the results.
 

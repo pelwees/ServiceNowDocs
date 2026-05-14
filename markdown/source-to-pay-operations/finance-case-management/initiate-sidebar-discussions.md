@@ -46,7 +46,7 @@ Role required: sn\_fin\_ops.specialist
 
 The stakeholders are notified when you add them to a discussion. They can join the discussion by selecting the Sidebar discussions icon ![](../image/fin-ops-sidebar-chat-icon.png).
 
-![Join the sidebar discussion](../image/fin-ops-sidebar-discussion.png)
+![Join the sidebar discussion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-sidebar-discussion.png)
 
 ## What to do next
 
@@ -56,5 +56,5 @@ To learn more about using the sidebar, see [Using Sidebar](https://raw.githubuse
 
 For information on the activity stream in the sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/activity-stream-sidebar.md).
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

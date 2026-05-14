@@ -44,5 +44,5 @@ Role required: itil or admin
 -   The **Walk-up Appointment** tab appears in the related list. The **Walk-up Appointment** related list must be added to the platform manually.
 -   The requester is notified of the appointment. The requester can also see the appointment created on the home page under the My active items widget.
 
-**Parent Topic:**[View and manage Walk-up Experience appointments in Agent Workspace](view-manage-walkup-appointments.md)
+**Parent Topic:**[View and manage Walk-up Experience appointments in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/view-manage-walkup-appointments.md)
 

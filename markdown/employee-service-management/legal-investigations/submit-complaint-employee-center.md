@@ -21,21 +21,21 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## About this task
 
-To submit a complaint anonymously, see [Submit a complaint through the Anonymous Report Center portal](submit-complaint-arc.md).
+To submit a complaint anonymously, see [Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-arc.md).
 
 ## Procedure
 
 1.  In the Employee Center portal, submit a complaint using either the **Legal** menu or the **Quick links** section.
 
 
-**Parent Topic:**[Submitting a complaint for investigation](../concept/submitting-legal-investigations-request.md)
+**Parent Topic:**[Submitting a complaint for investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../concept/submitting-legal-investigations-request.md)
 
 **Related topics**  
 
 
-[Submit a complaint through Legal Service Portal](submit-complaint-legal-svc-portal-1.md)
+[Submit a complaint through Legal Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-legal-svc-portal-1.md)
 
-[Submit a complaint through the Anonymous Report Center portal](submit-complaint-arc.md)
+[Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-arc.md)
 
 ## Submit a complaint through the Legal menu in Employee Center
 
@@ -47,7 +47,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### About this task
 
-**Note:** This option is available if the admin has activated the record producer that is mapped to the Ethics \[sn\_lg\_ops\_ethics\] table. For more information, see [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+**Note:** This option is available if the admin has activated the record producer that is mapped to the Ethics \[sn\_lg\_ops\_ethics\] table. For more information, see [Record producers for legal investigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../reference/record-producers-legal-investigation.md).
 
 ### Procedure
 
@@ -59,7 +59,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 4.  On the Ethics Complaints form, fill in the fields.
 
-    For a description of the field values, see [Ethics complaints intake form](../reference/ethics-complaint-intake-form.md).
+    For a description of the field values, see [Ethics complaints intake form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../reference/ethics-complaint-intake-form.md).
 
 5.  To add an involved party, in the **Involved Parties** section, click **Add**.
 
@@ -80,7 +80,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### Result
 
-A legal request is created and assigned to a [request fulfiller or an assignment group as configured](../../legal-request-management/task/create-assignment-rules-intake-form.md).
+A legal request is created and assigned to a [request fulfiller or an assignment group as configured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../../legal-request-management/task/create-assignment-rules-intake-form.md).
 
 ## Submit a complaint through the Quick Link in Employee Center
 
@@ -92,7 +92,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### About this task
 
-**Note:** This option is available if the admin has activated the record producer that is mapped to the Universal Request \[universal\_request\] table. For more information, see [Record producers for legal investigations](../reference/record-producers-legal-investigation.md).
+**Note:** This option is available if the admin has activated the record producer that is mapped to the Universal Request \[universal\_request\] table. For more information, see [Record producers for legal investigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../reference/record-producers-legal-investigation.md).
 
 ### Procedure
 
@@ -111,5 +111,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 ### Result
 
-A universal request is created and is assigned to the [the assignment group as configured](integrate-lsd-hrsd.md#step_li_prop_group). A universal request routing agent can triage and work on it.
+A universal request is created and is assigned to the [the assignment group as configured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/integrate-lsd-hrsd.md#step_li_prop_group). A universal request routing agent can triage and work on it.
 

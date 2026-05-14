@@ -36,5 +36,5 @@ Role required: admin
     The associated artifacts are displayed as the related lists for that specific case.
 
 
-**Parent Topic:**[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+**Parent Topic:**[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 

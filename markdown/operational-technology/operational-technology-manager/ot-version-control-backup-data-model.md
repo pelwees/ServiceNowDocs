@@ -41,10 +41,10 @@ Use the OT AutomationCommit \(sn\_ot\_automation\_commit\) class as a reference 
 |---------|-----------|
 |Automation Version|The version of the script or the program committed for the OT entity.|
 
-**Parent Topic:**[Operational Technology Manager reference](operational-technology-manager-reference.md)
+**Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
 **Related topics**  
 
 
-[Operational Technology Backup Management data model](ot-backup-management-data-model.md)
+[Operational Technology Backup Management data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-backup-management-data-model.md)
 

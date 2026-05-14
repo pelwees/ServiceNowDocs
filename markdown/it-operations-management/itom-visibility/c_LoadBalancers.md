@@ -50,7 +50,7 @@ Main CI table populated
 
 </th></tr></thead><tbody><tr><td>
 
-[A10](../reference/r_DataCollDiscoA10LoadBalancers.md)
+[A10](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../reference/r_DataCollDiscoA10LoadBalancers.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ A10 Load Balancer \[cmdb\_ci\_lb\_a10\]
 
 </td></tr><tr><td>
 
-[ACE](ace-load-balancer-discovery.md)
+[ACE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ace-load-balancer-discovery.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ ACE \[cmdb\_ci\_lb\_ace\]
 
 </td></tr><tr><td>
 
-[Alteon](alteon-load-balancer-discovery.md)
+[Alteon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/alteon-load-balancer-discovery.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Alteon \[cmdb\_ci\_lb\_alteon\]
 
 </td></tr><tr><td>
 
-[F5 BIG-IP](c_LoadBalancerF5BIGIP.md)
+[F5 BIG-IP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerF5BIGIP.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ F5 BIG-IPs \[cmdb\_ci\_lb\_bigip\]
 
 </td></tr><tr><td>
 
-[NetScaler](c_LoadBalancerCitrixNetscaler.md)
+[NetScaler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerCitrixNetscaler.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Citrix NetScalers \[cmdb\_ci\_lb\_netscaler\]
 
 </td></tr><tr><td>
 
-[Radware - AppDirector](radware-appdirector.md)
+[Radware - AppDirector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/radware-appdirector.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ Radware Load Balancer \[cmdb\_ci\_lb\_radware\]
 
 </td></tr><tr><td>
 
-[HAProxy load balancer discovery with patterns](../../service-mapping/reference/haproxy-lb-discovery-pattern.md)
+[HAProxy load balancer discovery with patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/haproxy-lb-discovery-pattern.md)
 
 </td><td>
 
@@ -133,34 +133,34 @@ HA Proxy
 HAProxy Load Balancer \[cmdb\_ci\_lb\_haproxy\]
 
 </td></tr></tbody>
-</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+</table>To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Load balancer discovery, Service Mapping, and customized CI fields
 
 Discovery collects information about the install status and operational status of load balancers. If you are using Discovery with Service Mapping, do not customize the \[operational\_status\] or \[install\_status\] fields. By default, Service Mapping ignores all host CIs for which the value of the **\[operational\_status\]** field is not **1** \(Operational\) or the value of the status **\[install\_status\]** field is **100** \(absent\). For additional information, see [Preparing customized ServiceNow deployments to work with Service Mapping](https://support.servicenow.com/nav_to.do?uri=%2Fkb_knowledge.do%3Fsys_id%3D334cd265db4a4fc0d7e37aa31f9619f7%26sysparm_referring_url%3Dkb_view.do) \[KB0647574\] in the HI Knowledge Base.
 
--   **[A10 load balancer discovery](../reference/r_DataCollDiscoA10LoadBalancers.md)**  
+-   **[A10 load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../reference/r_DataCollDiscoA10LoadBalancers.md)**  
 Discovery and Service Mapping uses patterns to collect information about A10 load balancers.
--   **[Cisco ACE load balancer discovery](ace-load-balancer-discovery.md)**  
+-   **[Cisco ACE load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ace-load-balancer-discovery.md)**  
 Discovery identifies and classifies information about ACE load balancers.
--   **[Cisco GSS load balancer discovery](c_LoadBalancerGSS.md)**  
+-   **[Cisco GSS load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerGSS.md)**  
 Discovery of Cisco GSS load balancers is performed by both SNMP and SSH.
--   **[Cisco CSS load balancer](c_LoadBalancerCSS.md)**  
+-   **[Cisco CSS load balancer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerCSS.md)**  
 Discovery of Cisco CSS load balancers is performed by SNMP.
--   **[Citrix NetScaler load balancer discovery](c_LoadBalancerCitrixNetscaler.md)**  
+-   **[Citrix NetScaler load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerCitrixNetscaler.md)**  
 Discovery and Service Mapping find Citrix NetScaler load balancers including Server Load Balancing \(GSLB\).
--   **[F5 BIG-IP load balancer discovery](c_LoadBalancerF5BIGIP.md)**  
+-   **[F5 BIG-IP load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerF5BIGIP.md)**  
 Discovery and Service Mapping can find F5 BIG-IP load balancers via SNMP, SSH, and through the REST API.
--   **[HAProxy load balancer discovery using probes](c_LoadBalancerHAProxy.md)**  
+-   **[HAProxy load balancer discovery using probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerHAProxy.md)**  
 Discovery of HAProxy Community edition load balancers is performed by SSH.
--   **[NGINX load balancer discovery](c_LoadBalancerNGINX.md)**  
+-   **[NGINX load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerNGINX.md)**  
 Discovery of NGINX load balancers is performed by SSH.
--   **[Radware Alteon load balancer discovery](alteon-load-balancer-discovery.md)**  
+-   **[Radware Alteon load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/alteon-load-balancer-discovery.md)**  
 Discovery identifies and classifies information about Alteon load balancers.
--   **[Radware-appDirector load balancer discovery](radware-appdirector.md)**  
+-   **[Radware-appDirector load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/radware-appdirector.md)**  
 Discovery of Radware load balancers is performed by SNMP.
--   **[Load balancer fields and probes](../reference/r_LoadBalancerFields.md)**  
+-   **[Load balancer fields and probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../reference/r_LoadBalancerFields.md)**  
 Discovery stores load balancer information in several tables.
 
-**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 

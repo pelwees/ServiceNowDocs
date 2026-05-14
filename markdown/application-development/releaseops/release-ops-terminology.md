@@ -15,7 +15,7 @@ breadcrumb: [Reference, ReleaseOps, Deploying applications, Building application
 
 Before getting started with ReleaseOps, it's important to understand some key concepts used in the application.
 
-**Parent Topic:**[ReleaseOps reference](../reference/releaseops-reference.md)
+**Parent Topic:**[ReleaseOps reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../reference/releaseops-reference.md)
 
 ## deployment analyzer
 

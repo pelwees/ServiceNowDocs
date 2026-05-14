@@ -35,16 +35,16 @@ Role required: sn\_pace.admin
     2.  In the Edit Tag dialog, edit the tag name.
     3.  In the Viewable by list, select from **Me**, **Groups and Users**, or **Everyone**. By default, **Me** is selected when initially creating a tag.
 
-        ![Edit a tag.](../image/pace-edit-tag-2.jpg)
+        ![Edit a tag.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-edit-tag-2.jpg)
 
         **Note:** When you select **Groups and Users**, you are prompted to choose the ServiceNow AI Platform groups and users who can view the tag.
 
-        ![Tag group and users.](../image/pace-edit-tag-group-2.jpg)
+        ![Tag group and users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-edit-tag-group-2.jpg)
 
     4.  Click **Save**.
 5.  To remove a tag, click the x on the tag itself.
 
-    ![Remove a tag.](../image/pace-tags-remove-2.jpg)
+    ![Remove a tag.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-tags-remove-2.jpg)
 
     The tag is removed from the policy.
 

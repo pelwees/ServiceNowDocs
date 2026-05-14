@@ -13,8 +13,8 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 Find all the miscellaneous information about LES in the reference section.
 
--   **[Log Export Service roles](../reference/les-roles.md)**  
+-   **[Log Export Service roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/les-roles.md)**  
 Log Export Service is installed with these roles.
 
-**Parent Topic:**[Log Export Service \(LES\)](les-intro.md)
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 

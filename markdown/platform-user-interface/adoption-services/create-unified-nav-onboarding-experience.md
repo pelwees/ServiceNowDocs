@@ -362,5 +362,5 @@ The question is Mandatory when selected.
 8.  On the Guidance form, select **Update**.
 
 
-**Parent Topic:**[Configure](../concept/configure-onboarding-modals.md)
+**Parent Topic:**[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/configure-onboarding-modals.md)
 

@@ -25,14 +25,14 @@ Product enhancements can also be generated automatically from the main epics imp
 
 -   The integration with the external planning tool is done.
 -   The validates version option of the release is set to true.
--   A project from the Planning tool is linked with the product or service. For more information, see [View and manage data from external tools](dpr-manage-product-ext-tool.md).
--   The system property **sn\_dpr\_workspace.auto\_create\_product\_enhancement\_for\_primary\_epic** is set to **true**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+-   A project from the Planning tool is linked with the product or service. For more information, see [View and manage data from external tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-product-ext-tool.md).
+-   The system property **sn\_dpr\_workspace.auto\_create\_product\_enhancement\_for\_primary\_epic** is set to **true**. For more information, see [Digital Product Release properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/digital-product-release-properties.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select a product or service from the list to open.
 
@@ -40,7 +40,7 @@ Product enhancements can also be generated automatically from the main epics imp
 
 5.  Select the more actions icon next to the **Add enhancement** button and then select **Add enhancement from epic**.
 
-    ![Add enhancement from epic button.](../image/dpr-icon-enhance-epic-btn.png)
+    ![Add enhancement from epic button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-enhance-epic-btn.png)
 
     The Add enhancements from epics dialog box appears. It has a list of all top-level epics from the linked project that don’t have a product enhancement.
 
@@ -52,7 +52,7 @@ Product enhancements can also be generated automatically from the main epics imp
 **Related topics**  
 
 
-[Add an enhancement to a product or service](dpr-create-product-enhancement.md)
+[Add an enhancement to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-enhancement.md)
 
-[Add a product feature to a product or service](dpr-create-product-feature.md)
+[Add a product feature to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-feature.md)
 

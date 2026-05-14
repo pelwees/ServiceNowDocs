@@ -33,7 +33,7 @@ Theme Builder includes an option on the home page that you can use to provide fe
 -   Provides an introductory overview of Theme Builder
 -   Offers a **Create a theme** option to begin the theme creation process
 
-![Theme Builder Home screen](../image/tb-home.png)
+![Theme Builder Home screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-home.png)
 
 ## Theme Builder Manager page
 
@@ -41,25 +41,25 @@ Theme Builder includes an option on the home page that you can use to provide fe
 -   Enables adding alternate color palettes to existing themes
 -   Enables publishing or unpublishing your themes to your experience
 
-![Theme Builder Manager page.](../image/tb-manager-page-Z.png)
+![Theme Builder Manager page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-manager-page-Z.png)
 
 ## Theme Builder Editor page
 
 -   Customize your themes in the Editor page, including color palette customization, logo, typography, shape adjustment, component and image editing.
 -   Offers real-time preview of theme changes
 
-![Editor page with global styles tab selected.](../image/tb-editor-page-view.png)
+![Editor page with global styles tab selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png)
 
--   **[Create a theme with Theme Builder](tb-create-theme.md)**  
+-   **[Create a theme with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-create-theme.md)**  
 Create a theme record for your web or mobile experiences by using the Home view in the Theme Builder application.
--   **[Theme creation with AI](../concept/theme-creation-with-ai.md)**  
+-   **[Theme creation with AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/theme-creation-with-ai.md)**  
 Use AI to generate themes from images directly in Theme Builder or from the Now Assist panel.
--   **[Manage or edit a theme with Theme Builder](tb-edit-theme.md)**  
+-   **[Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)**  
 Customize and manage your theme and styling in a time and cost efficient way. After customizing, publish your new theme to either a web or mobile implementation of your instance.
--   **[Publish your themes with Theme Builder](tb-apply-theme.md)**  
+-   **[Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md)**  
 Publish multiple themes to your web instance or a single theme to your mobile instance to reflect your company's brand.
--   **[Theme Builder and domain separation](../concept/tb-domain-sep.md)**  
+-   **[Theme Builder and domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tb-domain-sep.md)**  
 Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-theming.md)
 

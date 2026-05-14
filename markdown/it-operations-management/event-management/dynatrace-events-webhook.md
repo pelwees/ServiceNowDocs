@@ -84,16 +84,16 @@ Configure the Event Management environment for the collection of events from Dyn
         1.  Navigate to **All** &gt; **IntegrationHub** &gt; **Connection &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
         2.  Select to open the connector for which you want to get the &lt;connections\_alias\_sys\_id&gt;.
 
-            ![Dynatrace connection aliases list.](../image/dynatrace-connection-aliases.png)
+            ![Dynatrace connection aliases list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/dynatrace-connection-aliases.png)
 
-        3.  Right-click the context menu \(![menu icon](../../../common/image/Form_MenuIcon.png)\) and then select **Copy sys\_id**.
+        3.  Right-click the context menu \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../../common/image/Form_MenuIcon.png)\) and then select **Copy sys\_id**.
 
-            ![sys_id of the connection.](../image/dynatrace-static-sys-id.png)
+            ![sys_id of the connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/dynatrace-static-sys-id.png)
 
 
 ## Result
 
 Alerts start flowing from the Dynatrace console into the Event Management plugin. The plugin extracts information from the original Dynatrace alert message to populate the required event fields and inserts the event into the database. In your ServiceNow AI Platform instance, navigate to **All Events** to see the events.
 
-**Note:** By default, host binding is enabled for Dynatrace events for all providers \(Azure/AWS/Google\). If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the **Dynatrace - General** event rule. For further information about Event rules, see [Event rules](../concept/create-event-rules.md).
+**Note:** By default, host binding is enabled for Dynatrace events for all providers \(Azure/AWS/Google\). If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the **Dynatrace - General** event rule. For further information about Event rules, see [Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md).
 

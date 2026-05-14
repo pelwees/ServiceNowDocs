@@ -61,7 +61,7 @@ After upgrade to Public Sector Digital Services v8.0, Services Offered, an exten
 
 6.  In the Default Table Values field, select **Service Definition**.
 
-7.  Select the search icon ![Search icon.](../../../help-center/vendor-management-workspace/image/magnifying-glass.png), and select the new Service definition in the choice menu.
+7.  Select the search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../help-center/vendor-management-workspace/image/magnifying-glass.png), and select the new Service definition in the choice menu.
 
 8.  Select **Submit**.
 

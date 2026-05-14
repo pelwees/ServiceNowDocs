@@ -23,13 +23,13 @@ Role required: admin
 
 2.  Select an existing action function or select **New**.
 
-    The Function screen displays. For more information on how to configure an action function, see [Action functions](../concept/mobile-actions.md).
+    The Function screen displays. For more information on how to configure an action function, see [Action functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-actions.md).
 
 3.  Select the **Offline Properties** tab.
 
 4.  Select the **Offline** check box to display all the fields relevant for an offline function configuration.
 
-5.  Complete the action function offline mode property fields as required, see [Configure offline mode properties for action functions](config-offline-properties-action-funct.md).
+5.  Complete the action function offline mode property fields as required, see [Configure offline mode properties for action functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-offline-properties-action-funct.md).
 
 6.  From the **Offline Condition Type** field, select whether the condition style is **Declarative** or **Script**.
 
@@ -42,5 +42,5 @@ Role required: admin
 9.  Select **Submit** to save your display and hide button configurations.
 
 
-**Parent Topic:**[Configure offline mode properties for action functions](config-offline-properties-action-funct.md)
+**Parent Topic:**[Configure offline mode properties for action functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-offline-properties-action-funct.md)
 

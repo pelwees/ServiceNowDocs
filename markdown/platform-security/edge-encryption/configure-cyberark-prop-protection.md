@@ -59,9 +59,9 @@ Setting up CyberArk password storage is optional. If you do not want to set up C
 4.  Click **Next**.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
 
-**Previous topic:**[Install the Edge Encryption proxy server \(interactive installer\)](install-proxy.md)
+**Previous topic:**[Install the Edge Encryption proxy server \(interactive installer\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/install-proxy.md)
 
-**Next topic:**[Configure the signature key](configure-sig-key.md)
+**Next topic:**[Configure the signature key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-sig-key.md)
 

@@ -41,7 +41,7 @@ Although reviewers can see the individual versions within a push, they must appr
 
 7.  Click either **Approve** or **Reject**, as appropriate.
 
-    ![Approve or reject changes](../image/ApproveOrRejectChanges.png)
+    ![Approve or reject changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/ApproveOrRejectChanges.png)
 
     **Note:** The URL and Remote Instance fields list the address and name of the instance where the change originated.
 

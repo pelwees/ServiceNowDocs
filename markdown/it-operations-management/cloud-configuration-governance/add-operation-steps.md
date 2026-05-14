@@ -174,8 +174,8 @@ Enter an optional condition that must be met before the system uses this step.
         -   `Output.resp` is a mandatory part of the syntax.
         -   `nodeId`
 
--   **[Add a resource operation step to invoke a subflow](add-resource-op-step-subflow.md)**  
+-   **[Add a resource operation step to invoke a subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-resource-op-step-subflow.md)**  
 Invoke a subflow by adding an operation step to a resource and linking it to a new or existing subflow.
 
-**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](../concept/resource-blocks.md)
+**Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/resource-blocks.md)
 

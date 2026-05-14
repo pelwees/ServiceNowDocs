@@ -23,7 +23,7 @@ Role required: playbook.admin or pd\_author
 
 Parallel activities create branches like decision activities. Unlike decision activities, the activities and stages on a parallel can run on the same conditions as other branches. For example, in this credit card approval playbook:
 
-![Parallel activities and stages in Diagram view](../images/playbook-parallel-example.png "Parallel activities and stages")
+![Parallel activities and stages in Diagram view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbook-parallel-example.png "Parallel activities and stages")
 
 In this example, agents verify information or identity at the same time as when they check credit scores. All activities and all stages will run.
 
@@ -33,41 +33,41 @@ In this example, agents verify information or identity at the same time as when 
 
     The mini-picker displays.
 
-2.  Select the parallel icon ![Parallel icon in diagram view](../images/diagram-parallel-icon.png) to add a parallel branch.
+2.  Select the parallel icon ![Parallel icon in diagram view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/diagram-parallel-icon.png) to add a parallel branch.
 
     A parallel branch is added.
 
 
 ## What to do next
 
-Add and configure the [stage](add-configure-stage.md) or [activity](add-configure-activity.md) that will run at the same time as the other branches of stages or activities.
+Add and configure the [stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md) or [activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-activity.md) that will run at the same time as the other branches of stages or activities.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](add-configure-stage.md)
+[Add and configure a stage in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md)
 
-[Add and configure an activity in a playbook](add-configure-activity.md)
+[Add and configure an activity in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-activity.md)
 
-[Use AI agent as an activity](ai-agent-as-activity.md)
+[Use AI agent as an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/optional-activities.md#)
 
-[Decision activities](create-a-decision-activity.md)
+[Decision activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-a-decision-activity.md)
 
-[Decision stages](create-decision-stage.md)
+[Decision stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/questionnaire-activity.md)
 
-[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-activity-state-mapping.md)
 

@@ -35,11 +35,11 @@ Integrate the ServiceNow instance and your Workplace from Facebook account using
 
 4.  Click **Add to Workplace**.
 
-    ![Add to ServiceNow spoke to Workplace](../image/fb-add-to-workplace.png)
+    ![Add to ServiceNow spoke to Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/fb-add-to-workplace.png)
 
     The ServiceNow spoke is added to Workplace account and a confirmation message is displayed.
 
-    ![ServiceNow spoke added to Workplace](../image/fb-confirmation.png)
+    ![ServiceNow spoke added to Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/fb-confirmation.png)
 
 5.  Click **Done**.
 

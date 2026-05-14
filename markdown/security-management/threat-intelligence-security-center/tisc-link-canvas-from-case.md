@@ -33,7 +33,7 @@ Role required: sn\_sec\_tisc.analyst
 
 6.  Select **Link Case** from the drop down list on the empty canvas page \(the option is shown in the following screenshot\).
 
-    ![Link Canvas from a Case](../image/tisc-link-canvas-from-case.png)
+    ![Link Canvas from a Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-link-canvas-from-case.png)
 
 7.  Select the canvas.
 
@@ -42,5 +42,5 @@ Role required: sn\_sec\_tisc.analyst
     An information message is displayed indicating that the canvas data is refreshed successfully.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 

@@ -25,11 +25,11 @@ Role required: You must be a responsible user for the KPI, or have the admin, pa
 
 2.  Switch to the **Past** tab.
 
-    ![KPI Signals panel in KPI Details, focused on the Past tab](../image/kpi-signals-past.png)
+    ![KPI Signals panel in KPI Details, focused on the Past tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-past.png)
 
 3.  To focus on a baseline reset or a signal dismissal, click the card for that decision.
 
-    You can also point to the callout for a signal to see the reason for its dismissal or for the baseline reset.![KPI Signals focusing on a past baseline reset](../image/kpi-signals-past-focus.png)
+    You can also point to the callout for a signal to see the reason for its dismissal or for the baseline reset.![KPI Signals focusing on a past baseline reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-past-focus.png)
 
     **Note:** You cannot revert an anti-signal.
 
@@ -37,7 +37,7 @@ Role required: You must be a responsible user for the KPI, or have the admin, pa
 
 5.  Review the list of all decisions that you would revert.
 
-    When you revert a signal dismissal or baseline reset, you also revert all later decisions.![List of decisions that would be reverted](../image/kpi-signals-reverted-decisions.png)
+    When you revert a signal dismissal or baseline reset, you also revert all later decisions.![List of decisions that would be reverted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-reverted-decisions.png)
 
 6.  If you decide to proceed with reverting the decisions, click **Confirm**.
 
@@ -46,5 +46,5 @@ Role required: You must be a responsible user for the KPI, or have the admin, pa
 
 Now make a new decision for the oldest signal whose decision you reverted. Then work your way through any subsequent signals.
 
-**Parent Topic:**[Using KPI Signals](../concept/using-kpi-signals.md)
+**Parent Topic:**[Using KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/using-kpi-signals.md)
 

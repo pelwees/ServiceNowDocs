@@ -24,19 +24,19 @@ Dispute Rules Content Pack for Visa application can help you do the following:
 
 <table id="table_g4t_jnr_szb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits provided by integrating Dispute Rules Content Pack for Visa application.](exploring-the-dispute-rules-content-pack-for-visa.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits provided by integrating Dispute Rules Content Pack for Visa application.](exploring-the-dispute-rules-content-pack-for-visa.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](../task/set-up-dispute-rules-content-pack-for-visa-connection-credentials.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your integration.](../task/set-up-dispute-rules-content-pack-for-visa-connection-credentials.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)See how agents and issuers can use Dispute Rules Content Pack for Visa to access card network rules.](using-the-dispute-rules-content-pack-for-visa.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)See how agents and issuers can use Dispute Rules Content Pack for Visa to access card network rules.](using-the-dispute-rules-content-pack-for-visa.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components like fields, tables, and properties.](dispute-content-pack-for-visa-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about the components like fields, tables, and properties.](dispute-content-pack-for-visa-reference.md)
 
 </td></tr></tbody>
 </table>## Request Financial Services Operations Integration with Visa on the store

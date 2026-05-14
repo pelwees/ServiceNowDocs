@@ -269,7 +269,7 @@ Sourcing time in days
 
 Number of days that are required to source a product of this category from the supplier.This field is auto-populated based on the selected product category.
 
- For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+ For details, see [Lead time calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/lead-time-calculations.md).
 
 </td></tr><tr><td>
 
@@ -279,7 +279,7 @@ Purchasing time in days
 
 Number of days that are required to complete a purchase order for products in this category. This field is auto-populated based on the selected product category.
 
- For details, see [Lead time calculations](../reference/lead-time-calculations.md).
+ For details, see [Lead time calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/lead-time-calculations.md).
 
 </td></tr></tbody>
 </table>5.  Select **Submit**.
@@ -288,7 +288,7 @@ Number of days that are required to complete a purchase order for products in th
 ## What to do next
 
 -   Use the related lists of the model category form to view the product models, supplier products, and ledger assignment rules that are associated with this category.
--   Create ledger assignment rules for this product model. See [add a ledger assignment rule](create-ledger-assignment-rules.md).
+-   Create ledger assignment rules for this product model. See [add a ledger assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-ledger-assignment-rules.md).
 
-**Parent Topic:**[Setting up your product catalog](create-product-catalogue.md)
+**Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 

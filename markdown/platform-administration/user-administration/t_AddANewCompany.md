@@ -157,7 +157,7 @@ The longitude of the company, if applicable. This field is populated by a busine
 
 ## What to do next
 
-Normalize company data to create consistency when referring to a company name, such as a vendor or manufacturer. For more information see, [Normalization data services](../../normalization/concept/c_NormalizationOverview.md).
+Normalize company data to create consistency when referring to a company name, such as a vendor or manufacturer. For more information see, [Normalization data services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../normalization/concept/c_NormalizationOverview.md).
 
-**Parent Topic:**[Creating users, companies, and departments](../../roles/concept/using-user-administration.md)
+**Parent Topic:**[Creating users, companies, and departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../roles/concept/using-user-administration.md)
 

@@ -17,7 +17,7 @@ There are two options for the Recommended Actions application: String-based and 
 
 ## Before you begin
 
-Install the Recommended Actions application. For more information, see [Install Recommended Actions application](install-ra.md).
+Install the Recommended Actions application. For more information, see [Install Recommended Actions application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/install-ra.md).
 
 Recommended Actions searches for matching string in **Process name**, **Description**, and **Applications used** fields of the Automation requests form, and **Automation name**, **Description**, and **Source** in the Automation Attribute table.
 
@@ -48,5 +48,5 @@ Role required: sn\_ac.automation\_technical\_user and sn\_nb\_action.next\_best\
     After selecting **Update &amp; Retrain**, the training will start in the scheduler. After it’s complete, it displays **Solution complete**.
 
 
-**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md)
+**Parent Topic:**[Configuring the Recommended Actions application with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-ra.md)
 

@@ -76,5 +76,5 @@ Select the risk signal for which the solution is being associated.
     This enables you to track the risk and view the proposed solutions to address the risk.
 
 
-**Parent Topic:**[Risk portfolio dashboard](../concept/account-lifecycle-risk-portfolio.md)
+**Parent Topic:**[Risk portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-risk-portfolio.md)
 

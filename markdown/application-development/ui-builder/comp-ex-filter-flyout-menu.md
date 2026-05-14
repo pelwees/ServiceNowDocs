@@ -22,7 +22,7 @@ Role required: ui\_builder\_admin
 
 This procedure uses UI Builder components to create dynamic, interactive layouts. For more information on how to configure components, see:
 
--   [Add and configure components](add-components.md#)
+-   [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-components.md#)
 -   [UI Builder Quick Bits: Navigating Component Configuration](https://www.servicenow.com/community/next-experience-blog/ui-builder-quick-bits-navigating-component-configuration/ba-p/3181624)
 
 <table id="table_exc_zzf_dhc"><thead><tr><th>
@@ -57,11 +57,11 @@ Record list
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create a page from scratch.
 
-    For more information about how to create a page, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  Select **Add content** on the stage or in the content tree to open the toolbox, then add a **Record list** component to the page.
 
@@ -174,7 +174,7 @@ Value to use after triggering event
 
     6.  Locate **List Controller**, select the **REFRESH** handler, then select **Continue**.
 
-        ![Events modal with the List Controller - Data refresh requested handler selected.](../image/comp-ex-ffm-events.png)
+        ![Events modal with the List Controller - Data refresh requested handler selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-ffm-events.png)
 
     7.  Select **Add**.
 
@@ -182,8 +182,8 @@ Value to use after triggering event
 
 14. Preview and test the page.
 
-    ![Preview of UI Builder page showing the record list filtered for a specific priority.](../image/comp-ex-ffm-result.png)
+    ![Preview of UI Builder page showing the record list filtered for a specific priority.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/comp-ex-ffm-result.png)
 
 
-**Parent Topic:**[Learn components by example](../concept/learning-components-by-example.md)
+**Parent Topic:**[Learn components by example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/learning-components-by-example.md)
 

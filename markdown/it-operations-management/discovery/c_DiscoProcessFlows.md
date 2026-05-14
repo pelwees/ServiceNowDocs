@@ -21,7 +21,7 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 
 ## Scanning phase
 
-1.  Discovery first takes the Shazzam probe \(and then [port probes](../reference/r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
+1.  Discovery first takes the Shazzam probe \(and then [port probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_PortProbes.md)\) and places it in a request in the External Communication Channel \(ECC\) queue.
 2.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the probes against the host and discovers open ports.
 3.  The port probes scan common ports using several protocols, such as WMI, HTTP, SSH, and SNMP.
 4.  If one or more ports respond, the Shazzam probe sends information about the port back to the ECC queue through the MID Server.
@@ -45,7 +45,7 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 3.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the identification trigger probe.
 4.  The identification probe accumulates identification data for each device and sends that data back to the instance via the MID Server.
 5.  Discovery uses sensors for the identifier probe to process the information.
-6.  Discovery performs the analysis on the CMDB using [CI identifiers](c_DiscoveryIdentifiers.md). Discovery can update existing CIs in the CMDB or create new ones.
+6.  Discovery performs the analysis on the CMDB using [CI identifiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryIdentifiers.md). Discovery can update existing CIs in the CMDB or create new ones.
 
 ## The Exploration phase
 
@@ -54,12 +54,12 @@ A user triggers horizontal discovery by configuring a discovery schedule or by l
 3.  The MID Server checks the ECC queue, retrieves the discovery request, and runs the exploration trigger probes.
 4.  The probes send data back to the instance via the MID Server and sensors make updates to the CMDB, just as in the identification phase.
 
-**Parent Topic:**[Exploring Discovery](c_GetStartedWithDiscovery.md)
+**Parent Topic:**[Exploring Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_GetStartedWithDiscovery.md)
 
 **Related topics**  
 
 
-[Horizontal discovery process flow with patterns](disco-process-flow-patterns.md)
+[Horizontal discovery process flow with patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disco-process-flow-patterns.md)
 
-[Patterns and horizontal discovery](c-UsingPatternsForHorizontalDiscovery.md#)
+[Patterns and horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md#)
 

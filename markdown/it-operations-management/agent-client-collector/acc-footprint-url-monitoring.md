@@ -28,5 +28,5 @@ The following tables display the agent performance KPIs and its footprint on the
 |Process CPU utilization|1% - 1.5%|1.5% - 2.5%|5% - 6%|6% - 7%|12% - 13%|
 |Host CPU utilization|~10%|~19%|~23%|~45%|~53%|
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

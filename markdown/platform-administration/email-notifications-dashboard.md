@@ -24,7 +24,7 @@ The dashboard enhances visibility and supports proactive management of email not
 
 Email notifications dashboard 
 
-Data collection is triggered by configuring and executing jobs. For more information, see [Configure jobs for email notifications dashboard](../task/configure-jobs-email-dashboard.md).
+Data collection is triggered by configuring and executing jobs. For more information, see [Configure jobs for email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/configure-jobs-email-dashboard.md).
 
 **Note:** Configuration of jobs is required for data to be displayed on the dashboard.
 
@@ -32,7 +32,7 @@ Data collection is triggered by configuring and executing jobs. For more informa
 
 Email notification insights highlights and shows the system notification sent over emails for the selected time period.
 
-![Email notifications insights](../image/email-noti-insights.png)
+![Email notifications insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-noti-insights.png)
 
 <table id="table_m2g_lmw_12c"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Most triggered notification
 
 </td><td>
 
-![Example for most triggered notification](../image/dashboard-most-triggered.png)
+![Example for most triggered notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dashboard-most-triggered.png)
 
 The most triggered notification in the selected time period. In the above example the Asset Restocking notification has been triggered 99 times.Clicking on **Most triggered notification** gives more insight into the notification overview for the selected period which includes:
 
@@ -76,7 +76,7 @@ Most opted-out notification
 
 </td><td>
 
-![Most opt-out notification.](../image/dashboard-most-optout.png)
+![Most opt-out notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dashboard-most-optout.png)
 
 The overview of all recipients receiving the notification vs. the users who opted out of the notification. In the above example 120 users were receiving the notification and out of the 120 users, 78 users have chosen to opt out from receiving the notification.Clicking on **Most opted-out notification** gives the notification overview for the selected period which includes:
 
@@ -92,7 +92,7 @@ Most used category
 
 </td><td>
 
-![Most used category.](../image/dashboard-most-used-category.png)
+![Most used category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dashboard-most-used-category.png)
 
 Notification category of the that was most triggered in the selected time period. Clicking on **Most used category** displays the top 100 most used notification categories with:
 
@@ -107,7 +107,7 @@ Total unused notification
 
 </td><td>
 
-![Total unused notifications.](../image/dashboard-total-unused.png)
+![Total unused notifications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dashboard-total-unused.png)
 
 Total number of notifications that weren't triggered during the selected time period. Clicking on **Most unused notification** displays the top 100 most unused notifications with:
 
@@ -119,13 +119,13 @@ Total number of notifications that weren't triggered during the selected time pe
 </td></tr></tbody>
 </table>**Example for deeper insights into a notification**
 
-![Example for deeper insights into a notification](../image/email-not-overview.png)
+![Example for deeper insights into a notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-not-overview.png)
 
 ## Active notifications
 
 Active notifications shows the number of total notifications where true represents the number of active notifications and false represents the number of inactive notifications.
 
-![Example for active notifications](../image/email-dashboard-active.png)
+![Example for active notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-dashboard-active.png)
 
 ## Notifications trend
 
@@ -133,16 +133,16 @@ Monitor notifications trend on triggered counts and newly created notifications.
 
 -   Triggered count
 
-    ![Example for Triggered count shown in monthly email notifications trend](../image/email-dashboard-monthly-trigger.png)
+    ![Example for Triggered count shown in monthly email notifications trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-dashboard-monthly-trigger.png)
 
 -   Newly created notifications
 
-    ![Example for Newly created notifications shown in monthly email notifications trend](../image/email-dashboard-monthly-created.png)
+    ![Example for Newly created notifications shown in monthly email notifications trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-dashboard-monthly-created.png)
 
 
 ## Top email notifications
 
-![Example for Top 10 email notifications by usage](../image/email-dashboard-top-noti.png)
+![Example for Top 10 email notifications by usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-dashboard-top-noti.png)
 
 The top 10 email notifications can be viewed by:
 
@@ -152,39 +152,39 @@ The top 10 email notifications can be viewed by:
 
 You can select **Show more** to view up the top 100 notifications.
 
-![Example for top notifications by usage](../image/email-dashboard-100.png)
+![Example for top notifications by usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-dashboard-100.png)
 
 The top 100 notifications for Most triggered, Last triggered, Most opted-out and Unused notifications can be filtered and viewed by Date, Category, Table, and State.
 
 To view all the email notifications, select **View all email notifications**.
 
--   **[Configure jobs for email notifications dashboard](../task/configure-jobs-email-dashboard.md)**  
+-   **[Configure jobs for email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/configure-jobs-email-dashboard.md)**  
 Configure data collection jobs for the email notification dashboard.
 
-**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateANotification.md)
 
-[Email diagnostics dashboard](email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-diagnostics-dashboard.md)
 
-[Email templates](c_EmailTemplates.md)
+[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-[Email layouts](email-layouts.md)
+[Email layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-[Email retention](email-retention.md)
+[Email retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-[Watermarks on notification emails](c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/parse-email.md)
 
-[Email digests](email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[Domain separation and Notifications](domain-separation-notifications.md)
+[Domain separation and Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-notifications.md)
 
-[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 

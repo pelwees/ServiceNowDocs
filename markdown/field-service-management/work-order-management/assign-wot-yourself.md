@@ -27,7 +27,7 @@ Role required: wm\_ext\_agent or wm\_ext\_manager
 
 3.  Select the work order task from the list.
 
-4.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon.
+4.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon.
 
 5.  Tap **Assign to me**.
 

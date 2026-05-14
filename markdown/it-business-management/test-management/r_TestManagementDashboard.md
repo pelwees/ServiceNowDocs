@@ -19,7 +19,7 @@ From each report on the Test Management dashboard, you can select an individual 
 
 To access the dashboard, navigate to **Test Management** &gt; **Overview**. Then select a test plan that you want to analyze the progress of, from the **Select a Test Plan** field in the reports. The data in the report updates automatically.
 
-![Test Management Dashboard.](../image/TestManagementDashboard.png "Test Management Dashboard")
+![Test Management Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../image/TestManagementDashboard.png "Test Management Dashboard")
 
 <table id="table_aqk_ykw_yq"><thead><tr><th>
 

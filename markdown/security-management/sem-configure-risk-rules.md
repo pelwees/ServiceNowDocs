@@ -13,12 +13,12 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 Configure roll-up calculator rules to compute the cumulative risk score for remediation tasks and imported vulnerabilities.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Prioritizing vulnerabilities and other findings using roll-up calculators](sem-prioritizing-vulnerabilities-other-findings.md)
+[Prioritizing vulnerabilities and other findings using roll-up calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-prioritizing-vulnerabilities-other-findings.md)
 
 ## Create or edit roll-up calculator rules
 
@@ -26,7 +26,7 @@ Create rules to roll-up risk scores on imported findings and remediation tasks.
 
 ### Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 

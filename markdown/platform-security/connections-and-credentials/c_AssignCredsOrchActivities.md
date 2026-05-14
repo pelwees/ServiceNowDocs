@@ -17,7 +17,7 @@ Credential alias gives an administrator more control over the credentials used i
 
 This is useful when an activity requires specific credentials to perform a task. You can use a credential tag to assign individual credentials to any activity in a Orchestration workflow or assign different credentials to each occurrence of the same activity type in an Orchestration workflow.
 
-Credential alias interacts with [credential affinity](c_CredentialAffinity.md) to determine which credentials should be used for an Orchestration activity.
+Credential alias interacts with [credential affinity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CredentialAffinity.md) to determine which credentials should be used for an Orchestration activity.
 
 ## How credential alias works
 

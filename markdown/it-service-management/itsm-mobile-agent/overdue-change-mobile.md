@@ -23,7 +23,7 @@ Role required: admin
 
 1.  On the My team dashboard, tap on **Overdue changes** on the applet.
 
-2.  If you want to reduce the number of records on the screen, see [Filter records](filter-records-agent-mobile.md) to search for records that match specific search criteria.
+2.  If you want to reduce the number of records on the screen, see [Filter records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/filter-records-agent-mobile.md) to search for records that match specific search criteria.
 
 3.  On the **Overdue changes** screen with the list of incidents, swipe left on an incident to open the menu.
 

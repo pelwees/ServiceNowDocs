@@ -132,7 +132,7 @@ Option to use the trained model. Once the model is active it becomes available f
 
     The modeling data appears as does the model string with the parameters optimized by the training.
 
-    ![Trained model data](../image/trained-model-results.png)
+    ![Trained model data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/trained-model-results.png)
 
 6.  Click the model name and then click **Set Model** to change the model parameters.
 
@@ -141,5 +141,5 @@ Option to use the trained model. Once the model is active it becomes available f
 
 ## What to do next
 
-You can create a Workflow Studio trigger for this model. For more information, see [Create a model trigger](create-metricbase-model-trigger.md).
+You can create a Workflow Studio trigger for this model. For more information, see [Create a model trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/create-metricbase-model-trigger.md).
 

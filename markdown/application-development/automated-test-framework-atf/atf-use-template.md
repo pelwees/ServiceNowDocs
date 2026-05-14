@@ -23,7 +23,7 @@ Role required: atf\_test\_admin or atf\_test\_designer
 
 ## About this task
 
-Many tests follow similar patterns. One common pattern, for example, is to open a form, set some field values, validate some field values, click a UI action, and submit the current form. If a template exists containing these steps, you can add them to a test all at once. The Automated Test Framework comes with default templates. You can also [create custom test templates](atf-create-template.md).
+Many tests follow similar patterns. One common pattern, for example, is to open a form, set some field values, validate some field values, click a UI action, and submit the current form. If a template exists containing these steps, you can add them to a test all at once. The Automated Test Framework comes with default templates. You can also [create custom test templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-create-template.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Many tests follow similar patterns. One common pattern, for example, is to open 
 
     The system displays the **Add a test template** dialog.
 
-    ![Image showing the test template](../image/atf-predefined-steps.png)
+    ![Image showing the test template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-predefined-steps.png)
 
 4.  From the **Table** field, select the table you want to test with these steps.
 
@@ -54,10 +54,10 @@ Many tests follow similar patterns. One common pattern, for example, is to open 
 
 Proceed to edit or save the test as you normally would.
 
-**Parent Topic:**[Create a new automated test](atf-create-test.md)
+**Parent Topic:**[Create a new automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-create-test.md)
 
 **Related topics**  
 
 
-[Create an automated test steps template](atf-create-template.md)
+[Create an automated test steps template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-create-template.md)
 

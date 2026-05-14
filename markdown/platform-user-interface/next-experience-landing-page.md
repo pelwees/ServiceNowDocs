@@ -17,15 +17,15 @@ The Next Experience UI delivers a next generation, intuitive, personalized exper
 
 <table id="table_b5z_nd3_2bc" class="nav-card"><tbody><tr><td>
 
-[Work ![Work.](../../../common/image/icon-explore.png) Learn about Next Experience concepts and features.](next-experience-ui.md)
+[Work ![Work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../common/image/icon-explore.png) Learn about Next Experience concepts and features.](next-experience-ui.md)
 
 </td><td>
 
-[Configure ![Configure.](../../../common/image/icon-configure.png) Configure environments, tools, and user access.](../../../administer/navigation-and-ui/concept/next-experience-ui-admin.md)
+[Configure ![Configure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../common/image/icon-configure.png) Configure environments, tools, and user access.](../../../administer/navigation-and-ui/concept/next-experience-ui-admin.md)
 
 </td><td>
 
-[Migrate ![Migrate.](../../../common/image/icon-use.png) Migrate to Next Experience UI.](../../../administer/navigation-and-ui/concept/next-experience-adoption-paths.md#)
+[Migrate ![Migrate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../common/image/icon-use.png) Migrate to Next Experience UI.](../../../administer/navigation-and-ui/concept/next-experience-adoption-paths.md#)
 
 </td></tr></tbody>
 </table>## Benefits
@@ -42,7 +42,7 @@ New features and benefits when working in the Next Experience:
 -   **Additional menus**
     -   Navigate to and save important resources with the Favorites, History, and Workspaces menus. Find your recently-viewed items in a single menu.
     -   Easily switch between classic environment applications and configurable workspaces.
-    -   Create custom menus for your end users. For more information, see [Configure custom menus for Unified Navigation](../../../administer/navigation-and-ui/task/configure-custom-menu.md).
+    -   Create custom menus for your end users. For more information, see [Configure custom menus for Unified Navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/configure-custom-menu.md).
 -   **Next Experience landing pages**
     -   Start your day with everything you need right when you log in.
     -   View content specific to your role and tasks all in one location.

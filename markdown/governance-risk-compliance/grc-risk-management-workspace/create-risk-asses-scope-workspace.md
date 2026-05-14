@@ -27,7 +27,7 @@ Creating a risk assessment scope ensures that assessments are effectively carrie
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![List icon.](../image/list-icon-riskworkspace.png) icon.
+2.  Select the list ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-riskworkspace.png) icon.
 
 3.  From the list, navigate to **Risk assessment planning** select **Scoped entities**.
 
@@ -182,8 +182,8 @@ Number of days within which the assessment should be completed after it is initi
 
     When you generate an assessment, the assessor or the assessor's group gets an email notification indicating that the assessment has been assigned to them.
 
-16. To go back in the workflow and change the scope, assignment, or frequency, select the menu ![Menu icon.](../image/more-actions-new.png) icon, and then select **Redefine scope**.
+16. To go back in the workflow and change the scope, assignment, or frequency, select the menu ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/more-actions-new.png) icon, and then select **Redefine scope**.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

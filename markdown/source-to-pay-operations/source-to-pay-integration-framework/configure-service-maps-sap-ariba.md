@@ -122,14 +122,14 @@ The order in which the entity should be displayed.
     The integration service is configured for the selected entity.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP Ariba](configuring-source-to-pay-sap-ariba-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configuring-source-to-pay-sap-ariba-integration.md)
 
 **Related topics**  
 
 
-[ERP source configuration for SAP Ariba](erp-source-configuration-sap-ariba.md)
+[ERP source configuration for SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration-sap-ariba.md)
 
-[Define ERP source configuration for SAP Ariba](../task/define-erp-source-sap-ariba.md)
+[Define ERP source configuration for SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/define-erp-source-sap-ariba.md)
 
-[Look up primary data in SAP Ariba](look-up-primary-data-sap-ariba.md)
+[Look up primary data in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/look-up-primary-data-sap-ariba.md)
 

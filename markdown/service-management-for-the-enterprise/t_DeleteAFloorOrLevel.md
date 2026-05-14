@@ -24,5 +24,5 @@ Before you can delete a floor, you must first delete any spaces defined for it.
     If the building has any assets associated with it, a warning box opens. If you click **Delete**, the associated asset is deleted.
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

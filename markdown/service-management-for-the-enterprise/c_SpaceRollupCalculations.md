@@ -15,7 +15,7 @@ The Facilities Service Management application can roll up occupancy, area, and u
 
 An occupiable space is designated by selecting the check box on the facility space record. The **Current occupancy** and **Percent occupied** fields rely on the **Occupiable** option. Roll up calculations are modified in a script include.
 
-![image is a screen shot showing the Occupiable check box and dependant fields](../image/Occupiable.png "Occupiable selected and dependent fields")
+![image is a screen shot showing the Occupiable check box and dependant fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/Occupiable.png "Occupiable selected and dependent fields")
 
 The values that roll up are:
 
@@ -25,5 +25,5 @@ The values that roll up are:
 
 The percent occupied calculation takes place based on the current and max occupancy values.
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

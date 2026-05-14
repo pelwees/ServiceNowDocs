@@ -21,7 +21,7 @@ Role required: itil
 
 ## About this task
 
-**Note:** If you have Problem Management Best Practice — Madrid — Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\) activated, see [Create a known error article](create-known-error-from-problem.md). The topic applies to legacy Problem \(London or a prior release\) only.
+**Note:** If you have Problem Management Best Practice — Madrid — Knowledge Integration plugin \(com.snc.best\_practice.problem.madrid.knowledge\) activated, see [Create a known error article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-known-error-from-problem.md). The topic applies to legacy Problem \(London or a prior release\) only.
 
 You can select the **Knowledge** check box and automatically submit a knowledge article when a problem is closed.
 
@@ -36,5 +36,5 @@ You can select the **Knowledge** check box and automatically submit a knowledge 
     If the knowledge submission workflow is enabled, the problem **Work notes** become a knowledge submission instead of an article. For more information, see [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md).
 
 
-**Parent Topic:**[Knowledge articles from problems](../concept/c_CreateKnowledge.md)
+**Parent Topic:**[Knowledge articles from problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/c_CreateKnowledge.md)
 

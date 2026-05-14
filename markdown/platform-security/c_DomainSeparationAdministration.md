@@ -15,54 +15,54 @@ Administrators can view information about domain separation, identify potential 
 
 You can perform these advanced administrative tasks on domains:
 
--   [Use domain selection menus](c_DisplayingDomainSelectionMenus.md)
--   [View domain relationships](../task/t_ViewDomainRelationships.md)
+-   [Use domain selection menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DisplayingDomainSelectionMenus.md)
+-   [View domain relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ViewDomainRelationships.md)
 
--   **[Use domain selection menus](c_DisplayingDomainSelectionMenus.md)**  
+-   **[Use domain selection menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DisplayingDomainSelectionMenus.md)**  
 The instance offers domain selection via two menu formats.
--   **[Domain separation application properties](ds-application-properties.md)**  
+-   **[Domain separation application properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ds-application-properties.md)**  
 The Domain Separation plugin has two new tables to give service providers more flexibility in customizing their applications that use domain separation. These tables are the System Application Property table \[sys\_application\_property\] and the System Application Property Value table \[sys\_application\_property\_value\].
 
-**Parent Topic:**[Domain separation setup and administration](c_DomainSeparationSetup.md)
+**Parent Topic:**[Domain separation setup and administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationSetup.md)
 
 **Related topics**  
 
 
-[Request domain separation](../task/t_ActivateDomainSeparation.md)
+[Request domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ActivateDomainSeparation.md)
 
-[Domain separation plugin](domain-sep-plugin.md)
+[Domain separation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-sep-plugin.md)
 
-[Domain system properties and user preferences](../reference/r_DefaultDomainScope.md)
+[Domain system properties and user preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/r_DefaultDomainScope.md)
 
-[Create a domain](../task/t_CreateADomain.md)
+[Create a domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_CreateADomain.md)
 
-[Make a domain the default](../task/t_MakeAnMSPDomainTheDefault.md)
+[Make a domain the default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_MakeAnMSPDomainTheDefault.md)
 
-[Manually manage the domain for particular records](../task/t_ManuManDomPartRec.md)
+[Manually manage the domain for particular records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ManuManDomPartRec.md)
 
-[Domain Separated Tables](domain-separated-tables.md)
+[Domain Separated Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-separated-tables.md)
 
-[Domain Override Viewer](domain-sep-override-viewer.md)
+[Domain Override Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-sep-override-viewer.md)
 
-[Enable or disable a domain](../task/t_ActivateDeactivateADomainForMSP.md)
+[Enable or disable a domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ActivateDeactivateADomainForMSP.md)
 
-[Add a domain field to a table](../task/t_AddADomainFieldToATable.md)
+[Add a domain field to a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_AddADomainFieldToATable.md)
 
-[View upgraded processes or records in the global domain](../task/t_view-upgraded-overriden-domains.md)
+[View upgraded processes or records in the global domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_view-upgraded-overriden-domains.md)
 
-[View domain relationships](../task/t_ViewDomainRelationships.md)
+[View domain relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ViewDomainRelationships.md)
 
-[Create a domain-specific choice list](../task/t_CreateADomainSpecificChoiceList.md)
+[Create a domain-specific choice list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_CreateADomainSpecificChoiceList.md)
 
-[Domain Migration Tool](tenant-domain-migration-tool.md#)
+[Domain Migration Tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/tenant-domain-migration-tool.md#)
 
-[Process administration](c_DelegatedAdministration.md)
+[Process administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DelegatedAdministration.md)
 
-[Enable verbose domain logging and debug messages](../task/t_EnableDomainLogDebugMsgs.md)
+[Enable verbose domain logging and debug messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_EnableDomainLogDebugMsgs.md)
 
-[Post-Production Domain Separation Activation Utility](post-prod-domain-sep-utility.md)
+[Post-Production Domain Separation Activation Utility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/post-prod-domain-sep-utility.md)
 
-[Domain Job Management](domain-job-manger.md)
+[Domain Job Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-job-manger.md)
 
-[Delete by domain](../task/delete-by-domain.md)
+[Delete by domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/delete-by-domain.md)
 

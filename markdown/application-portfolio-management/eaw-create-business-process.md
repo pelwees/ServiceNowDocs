@@ -21,9 +21,9 @@ Role required: business\_process\_manager or asset or itil or sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Business Processes**.
 
@@ -33,21 +33,21 @@ Role required: business\_process\_manager or asset or itil or sn\_apm.apm\_user
     -   To update details of an existing business process, select the business process.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create business process form](../../reference/eaw-reference/eaw-business-process-form.md).
+    For field information, see [Create business process form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-business-process-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage business processes](../../concept/eaw-concept/eaw-manage-business-processes.md)
+**Parent Topic:**[Manage business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-business-processes.md)
 
 **Related topics**  
 
 
-[View all business processes](eaw-view-all-business-processes.md)
+[View all business processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-business-processes.md)
 
-[Manage architectural artifacts of a business process](eaw-assoicate-artifact-bp.md)
+[Manage architectural artifacts of a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-bp.md)
 
-[Create a diagram for a business process map](eaw-modeling-bp-map.md)
+[Create a diagram for a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-bp-map.md)
 
-[Update a business process map](eaw-modeling-update-bp-map.md)
+[Update a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-update-bp-map.md)
 

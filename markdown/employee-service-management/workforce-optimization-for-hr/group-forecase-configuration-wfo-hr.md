@@ -28,5 +28,5 @@ Role required: admin
     -   In the **Assignment Group** field, browse and select the group to which you want to associate a forecast configuration.
     -   In the **Forecast Configuration** field, browse and select a **Resource Conversion Formula**.
 
-**Parent Topic:**[Configure data collection for Demand Forecast](configure-data-collection-df-wfo-hr.md)
+**Parent Topic:**[Configure data collection for Demand Forecast](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-data-collection-df-wfo-hr.md)
 

@@ -30,7 +30,7 @@ Build Agent supports the following development tasks:
 -   Support governance: Work inside platform scopes, roles, and testing workflows rather than as a detached external bot.
 -   Enable developer learning: Answer ServiceNow development questions, summarize documents, and provide practical examples.
 
-For more information on Build Agent, see [Build Agent](../../build-agent/concept/build-agent.md).
+For more information on Build Agent, see [Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../build-agent/concept/build-agent.md).
 
 ## General guidelines for AI-assisted development with Build Agent
 
@@ -60,7 +60,7 @@ You can access Build Agent within both ServiceNow Studio and ServiceNow IDE. Bot
 
 ## Limitations of Build Agent
 
-Use Build Agent for creating standalone apps that have limited interaction with flows, deployment, etc. on the ServiceNow AI Platform. For details, see [Limitations of AI-assisted app generation with Build Agent](vc-build-agent-limitations.md).
+Use Build Agent for creating standalone apps that have limited interaction with flows, deployment, etc. on the ServiceNow AI Platform. For details, see [Limitations of AI-assisted app generation with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-limitations.md).
 
 ## Helpful resources
 
@@ -87,5 +87,5 @@ ServiceNow resources for AI-assisted development:
     [\#BuildWithBuildAgent Guidebook on Community](https://www.servicenow.com/community/developer-advocate-blog/your-buildwithbuildagent-guidebook-is-here/ba-p/3419535)
 
 
-**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](vc-build-agent-landing.md)
+**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-landing.md)
 

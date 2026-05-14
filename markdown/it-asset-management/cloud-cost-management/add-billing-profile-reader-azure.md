@@ -42,10 +42,10 @@ The Billing Profile Reader role provides the required permissions to download pr
 
 ## What to do next
 
-[Schedule and manage the jobs that download Azure billing data](schedule-azure-billing-job.md)
+[Schedule and manage the jobs that download Azure billing data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/schedule-azure-billing-job.md)
 
 **Related topics**  
 
 
-[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](azure-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/azure-pricesht-sched-dwnld-cloudin.md)
 

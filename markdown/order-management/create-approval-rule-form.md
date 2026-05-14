@@ -155,10 +155,10 @@ Dynamic escalated assignee
 Rule logic that determines the escalated assignee dynamically when an approval request is submitted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Advanced Approval Management reference](advanced-approval-management-reference.md)
+</table>**Parent Topic:**[Advanced Approval Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 
 **Related topics**  
 
 
-[Create approval rules](../task/create-approval-rules.md)
+[Create approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-approval-rules.md)
 

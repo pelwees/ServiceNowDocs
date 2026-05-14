@@ -17,7 +17,7 @@ As a mentor, add your preferences to help mentees find out if you're the right m
 
 ## Before you begin
 
-Enroll as a mentee. For more information, see [Enroll as a mentor or mentee](enroll-mentoring.md)
+Enroll as a mentee. For more information, see [Enroll as a mentor or mentee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md)
 
 Role required: none
 

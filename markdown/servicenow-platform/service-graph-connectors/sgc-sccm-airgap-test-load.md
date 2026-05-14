@@ -30,11 +30,11 @@ Role required: admin
     -   If the test data load is successful, the log file contains the `Test Load status SUCCESS!` message.
     -   If the test data load fails, the log file contains the `Error occurred while processing ComputerIdentity StatusCode 403` message.
 
-        If the test data load fails, verify the Microsoft SCCM user credentials and ensure that the user has the required permissions to pull the data from Microsoft SCCM. If the credentials need to be updated, you must run the `SgSCCMHighSecureSetup.ps1` PowerShell script again. See [Configure air gap solution for Microsoft SCCM in a high-secure server](sgc-sccm-airgap-high-secure.md).
+        If the test data load fails, verify the Microsoft SCCM user credentials and ensure that the user has the required permissions to pull the data from Microsoft SCCM. If the credentials need to be updated, you must run the `SgSCCMHighSecureSetup.ps1` PowerShell script again. See [Configure air gap solution for Microsoft SCCM in a high-secure server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-high-secure.md).
 
 
 **Related topics**  
 
 
-[Perform a full data load for the air gap solution for Microsoft SCCM](sgc-sccm-airgap-data-load.md)
+[Perform a full data load for the air gap solution for Microsoft SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-sccm-airgap-data-load.md)
 

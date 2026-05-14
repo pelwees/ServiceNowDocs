@@ -23,7 +23,7 @@ Role required: it\_project\_manager
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the dependency side panel in one of the two ways.
 
@@ -37,5 +37,5 @@ Role required: it\_project\_manager
 4.  Select **Update**.
 
 
-**Parent Topic:**[Add internal project task dependencies from Project Workspace](create-dependencies-for-project-tasks-from-project-workspace.md)
+**Parent Topic:**[Add internal project task dependencies from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-dependencies-for-project-tasks-from-project-workspace.md)
 

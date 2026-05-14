@@ -94,7 +94,7 @@ By applying the CSDM model to different business model views, organizations can 
 
 This flexible approach, along with the use of Main node configurations, enables organizations to customize their CSDM implementation to meet their specific business needs, ensuring a robust and effective control environment.
 
-For information on setting up the Main node configurations, see [Main node configurations: A component of the Data Relationships Framework](main-node-relationship-fw.md).
+For information on setting up the Main node configurations, see [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
-For information on gathering Operational Resilience data aligned with the CSDM model, see [Gathering data aligned with the CSDM setup](using-csdm-v5.md) and [Landing page and dashboard views](../../grc-operational-res-ws/concept/setup-homepage.md).
+For information on gathering Operational Resilience data aligned with the CSDM model, see [Gathering data aligned with the CSDM setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-csdm-v5.md) and [Landing page and dashboard views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/concept/setup-homepage.md).
 

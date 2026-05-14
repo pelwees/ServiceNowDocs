@@ -21,11 +21,11 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Security Operations** &gt; **Security Tags** &gt; **Tags**.
 
-2.  Choose or [create a security tag](../../security-operations-common/task/create-class-group-and-tags.md).
+2.  Choose or [create a security tag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/task/create-class-group-and-tags.md).
 
 3.  Click the **Import security tag rules** related link.
 
-    ![Import security tag rules](../../security-operations-common/image/ImportSecTagRules.png)
+    ![Import security tag rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/image/ImportSecTagRules.png)
 
 4.  Fill in the fields on the form, as appropriate.
 
@@ -86,5 +86,5 @@ Upload a file with delimited values. The values are parsed into security tags.
 </table>5.  Click **Submit**
 
 
-**Parent Topic:**[Set up security tag groups and tags](sem-create-class-group-and-tags.md)
+**Parent Topic:**[Set up security tag groups and tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-class-group-and-tags.md)
 

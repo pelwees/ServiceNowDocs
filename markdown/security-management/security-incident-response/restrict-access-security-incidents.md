@@ -35,17 +35,17 @@ After you enforce the restriction on specific security incidents and limit the a
 
     2.  Select the **Enforce restriction** check box to enable the restriction of the security incident.
 
-        ![Restrict access to security incidents](../image/si-restriction.png)
+        ![Restrict access to security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/si-restriction.png)
 
-    3.  In the Allowed members field, click the ![Lock icon](../image/lock-icon.png) icon to select the users who can access the security incident.
+    3.  In the Allowed members field, click the ![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lock-icon.png) icon to select the users who can access the security incident.
 
-    4.  Select the ![Add me icon](../image/add-me-icon.png) icon to add yourself as the allowed user.
+    4.  Select the ![Add me icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/add-me-icon.png) icon to add yourself as the allowed user.
 
-    5.  Select the ![Add and Remove multiple users](../image/add-remove-users.png) icon to add or remove users.
+    5.  Select the ![Add and Remove multiple users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/add-remove-users.png) icon to add or remove users.
 
-    6.  In the Allowed groups field, click the ![Lock icon](../image/lock-icon.png) icon to select the groups who can access the security incident.
+    6.  In the Allowed groups field, click the ![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lock-icon.png) icon to select the groups who can access the security incident.
 
-    7.  Select the ![Add and Remove multiple groups](../image/add-remove-users.png) icon to add or remove groups.
+    7.  Select the ![Add and Remove multiple groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/add-remove-users.png) icon to add or remove groups.
 
         **Note:** After the **Enforce restriction** check box is enabled for the security incident, only the sn\_si.admin and allowed members or groups will have access to the security incident.
 
@@ -59,7 +59,7 @@ After you enforce the restriction on specific security incidents and limit the a
 
     3.  Select the **Enforce restriction** check box to enable the restriction of the security incident.
 
-        ![Restrict access to security incidents on SIR Workspace](../image/si-restriction-worskpace.png)
+        ![Restrict access to security incidents on SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/si-restriction-worskpace.png)
 
     4.  In the Allowed members field, select the users who can access the security incident using the Search option.
 

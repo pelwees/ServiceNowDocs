@@ -23,39 +23,39 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Supplier Collaboration portal**.
 
-    Suppliers interact with APO live agent for invoice inquiry cases. The interactions between supplier and APO live agent is recorded in an auto-generated interaction record. For more information regarding interaction record, refer [Interaction management in Accounts Payable Operations](../concept/interaction-record.md).
+    Suppliers interact with APO live agent for invoice inquiry cases. The interactions between supplier and APO live agent is recorded in an auto-generated interaction record. For more information regarding interaction record, refer [Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/interaction-record.md).
 
 2.  Click **Create a case** through the interaction record to create an inquiry case.
 
-    For more information about invoice case, refer [Create New Invoice case form](../reference/create-new-ap-case-form.md).
+    For more information about invoice case, refer [Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-new-ap-case-form.md).
 
 
-**Parent Topic:**[Use Accounts Payable Operations](../concept/use-acc-pay-mgmt.md)
+**Parent Topic:**[Use Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Create a knowledge base article about invoice](create-knowledge-base-articles-for-invoices.md)
+[Create a knowledge base article about invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-knowledge-base-articles-for-invoices.md)
 
-[Invoice case categories and subcategories](../concept/working-with-cases.md)
+[Invoice case categories and subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/working-with-cases.md)
 
-[Using Invoice Case Management](../concept/use-invoice-case-mgmt.md)
+[Using Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-invoice-case-mgmt.md)
 
-[Using Accounts Payable Invoice Processing](../concept/use-ap-invoice-processing.md)
+[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-ap-invoice-processing.md)
 
-[Advanced Work Assignment in Accounts Payable Operations](../concept/advanced-work-assignment.md)
+[Advanced Work Assignment in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-advanced-work-assignment-for-apo.md)
 
-[Using Advanced Work Assignment for Accounts Payable Operations](../concept/using-awa-for-apo.md)
+[Using Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-awa-for-apo.md)
 
-[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/interaction-record.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-apm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/email-composer-apm-workspace.md)
 
-[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+[Universal Request in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/universal-request-in-apo.md)
 
-[Playbook for updating the invoice primary data](../concept/playbooks.md)
+[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/playbooks.md)
 
-[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-supplier-collaboration-portal.md)
 

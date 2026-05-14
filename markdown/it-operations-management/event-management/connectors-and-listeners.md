@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Azure Monitor](../task/configure-azure-bi-directional-connector.md)
+[Azure Monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-azure-bi-directional-connector.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ Send alert state changes to the Azure Portal.
 
 </td></tr><tr><td>
 
-[HPOM](../task/t_EMConfigureHPOMConnector.md)
+[HPOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureHPOMConnector.md)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Receive events from the HP Operations Manager \(HPOM\).
 
 </td></tr><tr><td>
 
-[Hyperic](../task/t_EMConfigureHypericConnectorJS.md)
+[Hyperic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureHypericConnectorJS.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Receive events from the VMware vRealize Hyperic server.
 
 </td></tr><tr><td>
 
-[Logicmonitor](../task/configure-logic-monitor-connector.md)
+[Logicmonitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-logic-monitor-connector.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Receive events from the Logicmonitor server.
 
 </td></tr><tr><td>
 
-[IBM Netcool](../task/t_EMUpgradeNetcoolConnector.md)
+[IBM Netcool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMUpgradeNetcoolConnector.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Receive events from IBM Netcool/OMNIbus Object Servers and Impact Servers.
 
 </td></tr><tr><td>
 
-[Icinga2](../task/configure-icinga-connector.md)
+[Icinga2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-icinga-connector.md)
 
 </td><td>
 
@@ -110,7 +110,7 @@ Receive events from the Icinga2 server.
 
 </td></tr><tr><td>
 
-[Apache Kafka Consumer Connector](../concept/apache-kafka-consumer-connector.md)
+[Apache Kafka Consumer Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/apache-kafka-consumer-connector.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Receive events from the Apache Kafka server.
 
 </td></tr><tr><td>
 
-[ServiceNow Cloud Observability](../task/configure-cloud-observability-event-collection.md)
+[ServiceNow Cloud Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-cloud-observability-event-collection.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Receive events from the ServiceNow Cloud Observability platform.
 
 </td></tr><tr><td>
 
-[NagiosXI](../task/configure-nagios-connector.md)
+[NagiosXI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-nagios-connector.md)
 
 </td><td>
 
@@ -147,7 +147,7 @@ Receive events from the Nagios XI server.
 
 </td></tr><tr><td>
 
-[NNMi](../task/configure-nnmi-connector.md)
+[NNMi](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-nnmi-connector.md)
 
 </td><td>
 
@@ -159,7 +159,7 @@ Receive events from the NNMi server.
 
 </td></tr><tr><td>
 
-[OBM, also known as OMi v2](../task/configure-obm-connector.md)
+[OBM, also known as OMi v2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-obm-connector.md)
 
 </td><td>
 
@@ -171,7 +171,7 @@ Receive alerts from the OBM server.
 
 </td></tr><tr><td>
 
-[OMi](../task/configure-omi-connector.md)
+[OMi](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-omi-connector.md)
 
 </td><td>
 
@@ -183,7 +183,7 @@ Receive alerts from OMi server.
 
 </td></tr><tr><td>
 
-[Op5](../task/configure-op5-connector.md)
+[Op5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-op5-connector.md)
 
 </td><td>
 
@@ -195,7 +195,7 @@ Receive alerts from an OP5 Monitor.
 
 </td></tr><tr><td>
 
-[Opsview](../task/configure-opsview-connector.md)
+[Opsview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-opsview-connector.md)
 
 </td><td>
 
@@ -207,7 +207,7 @@ Receive alerts from an Opsview Monitor
 
 </td></tr><tr><td>
 
-[PRTG](../task/configure-prtg-connector.md)
+[PRTG](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-prtg-connector.md)
 
 </td><td>
 
@@ -219,7 +219,7 @@ Receive alerts from a Paessler PRTG Network Monitor source.
 
 </td></tr><tr><td>
 
-[SAP Solution Manager](../task/configure-sapsolman-connector.md)
+[SAP Solution Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-sapsolman-connector.md)
 
 </td><td>
 
@@ -231,7 +231,7 @@ Receive alerts from an SAP Solution Manager Monitor source.
 
 </td></tr><tr><td>
 
-[SCOM](../task/t_EMConfigureSCOMConnector.md)
+[SCOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureSCOMConnector.md)
 
 </td><td>
 
@@ -245,7 +245,7 @@ Alert and metric collection from the Microsoft System Center Operations Manager 
 
 </td></tr><tr><td>
 
-[SolarWinds](../task/t_EMConfigureSolarwindsConnectorJS.md)
+[SolarWinds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureSolarwindsConnectorJS.md)
 
 </td><td>
 
@@ -258,7 +258,7 @@ Receive events from the SolarWinds monitor.
 
 </td></tr><tr><td>
 
-[vCenter](../task/configure-vcenter-connector.md)
+[vCenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-vcenter-connector.md)
 
 </td><td>
 
@@ -270,7 +270,7 @@ Receive events from your VMware vSphere environment.
 
 </td></tr><tr><td>
 
-[vRealize](../task/t_EMConfigurevRealizeConnectorJS.md)
+[vRealize](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigurevRealizeConnectorJS.md)
 
 </td><td>
 
@@ -282,7 +282,7 @@ Receive events from the vRealize Operations Log and Event Management servers.
 
 </td></tr><tr><td>
 
-[Zabbix](../task/t_EMConfigureZabbixConnector.md)
+[Zabbix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureZabbixConnector.md)
 
 </td><td>
 
@@ -313,7 +313,7 @@ Supported authentication
 
 </th></tr></thead><tbody><tr><td>
 
-[AWS](../task/aws-events-transform-script.md)
+[AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/aws-events-transform-script.md)
 
 </td><td>
 
@@ -325,7 +325,7 @@ N/A
 
 </td></tr><tr><td>
 
-[Azure](../concept/azure-integration.md)
+[Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/azure-integration.md)
 
 </td><td>
 
@@ -333,12 +333,12 @@ Use OAuth authentication to process Azure platform event messages. The event col
 
 </td><td>
 
--   [Integrate Azure Monitor with OAuth authentication](../task/azure-events-authentication.md)
--   [Integrate Azure Monitor with basic authentication](../task/azure-events-webhook.md)
+-   [Integrate Azure Monitor with OAuth authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/azure-events-authentication.md)
+-   [Integrate Azure Monitor with basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/azure-events-webhook.md)
 
 </td></tr><tr><td>
 
-[Configure Azure Monitor Bi-directional connector](../task/configure-azure-bi-directional-connector.md)
+[Configure Azure Monitor Bi-directional connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-azure-bi-directional-connector.md)
 
 </td><td>
 
@@ -346,11 +346,11 @@ Use the Azure Monitor Pull connector to send information from ServiceNow Event M
 
 </td><td>
 
-[Basic authentication](../task/azure-events-webhook.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/azure-events-webhook.md)
 
 </td></tr><tr><td>
 
-[Microsoft Azure MID Push Connector](../task/event-collection-MicrosoftAzure.md)
+[Microsoft Azure MID Push Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-MicrosoftAzure.md)
 
 </td><td>
 
@@ -358,11 +358,11 @@ Collect JSON formatted event messages sent from Microsoft Azure. The collection 
 
 </td><td>
 
-[Basic authentication](../task/event-collection-MicrosoftAzure.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-MicrosoftAzure.md)
 
 </td></tr><tr><td>
 
-[BMC TrueSight](../task/event-collection-BMCTrueSight.md)
+[BMC TrueSight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-BMCTrueSight.md)
 
 </td><td>
 
@@ -370,11 +370,11 @@ Collect JSON formatted event messages sent from BMC TrueSight Operations Managem
 
 </td><td>
 
-[Basic authentication](../task/event-collection-BMCTrueSight.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-BMCTrueSight.md)
 
 </td></tr><tr><td>
 
-[New Relic](../task/new-relic-events-integration.md)
+[New Relic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/new-relic-events-integration.md)
 
 </td><td>
 
@@ -382,11 +382,11 @@ Collect JSON formatted event messages sent from New Relic. The event collection 
 
 </td><td>
 
-[Basic authentication](../task/new-relic-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/new-relic-events-integration.md)
 
 </td></tr><tr><td>
 
-[Dynatrace](../concept/dynatrace-events-integration.md)
+[Dynatrace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/dynatrace-events-integration.md)
 
 </td><td>
 
@@ -394,12 +394,12 @@ Collect JSON formatted event messages sent from Dynatrace. The event collection 
 
 </td><td>
 
--   [Integrate Dynatrace with OAuth authentication](../task/dynatrace-oauth-authentication.md)
--   [Integrate Dynatrace with basic authentication](../task/dynatrace-events-webhook.md)
+-   [Integrate Dynatrace with OAuth authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/dynatrace-oauth-authentication.md)
+-   [Integrate Dynatrace with basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/dynatrace-events-webhook.md)
 
 </td></tr><tr><td>
 
-[Datadog](../concept/datadog-events-integration.md)
+[Datadog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/datadog-events-integration.md)
 
 </td><td>
 
@@ -407,12 +407,12 @@ Collect JSON formatted event messages sent from Datadog. The event collection is
 
 </td><td>
 
--   [Integrate Datadog with OAuth authentication](../task/datadog-oauth-authentication.md)
--   [Integrate Datadog with basic authentication](../task/datadog-events-webhook.md)
+-   [Integrate Datadog with OAuth authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/datadog-oauth-authentication.md)
+-   [Integrate Datadog with basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/datadog-events-webhook.md)
 
 </td></tr><tr><td>
 
-[Catchpoint](../task/catchpoint-event-collection.md)
+[Catchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/catchpoint-event-collection.md)
 
 </td><td>
 
@@ -420,11 +420,11 @@ Configure the Catchpoint connector to receive Catchpoint events. Event Managemen
 
 </td><td>
 
-[Basic authentication](../task/catchpoint-event-collection.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/catchpoint-event-collection.md)
 
 </td></tr><tr><td>
 
-[Google Cloud Platform \(GCP\)](../task/gcp-events-integration.md)
+[Google Cloud Platform \(GCP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/gcp-events-integration.md)
 
 </td><td>
 
@@ -432,11 +432,11 @@ Collect JSON formatted event messages sent from GCP. The event collection is thr
 
 </td><td>
 
-[Basic authentication](../task/gcp-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/gcp-events-integration.md)
 
 </td></tr><tr><td>
 
-[Google Cloud Platform \(GCP\) MID Push Connector](../task/event-collection-GCP.md)
+[Google Cloud Platform \(GCP\) MID Push Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-GCP.md)
 
 </td><td>
 
@@ -444,11 +444,11 @@ Collect JSON formatted event messages sent from GCP. The event collection is thr
 
 </td><td>
 
-[Basic authentication](../task/event-collection-GCP.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-GCP.md)
 
 </td></tr><tr><td>
 
-[Logicmonitor](../task/logicmonitor-events-integration.md)
+[Logicmonitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/logicmonitor-events-integration.md)
 
 </td><td>
 
@@ -456,11 +456,11 @@ Collect JSON formatted event messages sent from Logicmonitor. The event collecti
 
 </td><td>
 
-[Basic authentication](../task/logicmonitor-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/logicmonitor-events-integration.md)
 
 </td></tr><tr><td>
 
-[Logicmonitor MID Push Connector](../task/event-collection-logicmonitor.md)
+[Logicmonitor MID Push Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-logicmonitor.md)
 
 </td><td>
 
@@ -468,11 +468,11 @@ Collect JSON formatted event messages sent from Logicmonitor. The event collecti
 
 </td><td>
 
-[Basic authentication](../task/event-collection-logicmonitor.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-logicmonitor.md)
 
 </td></tr><tr><td>
 
-[Oracle Cloud Push Connector](../task/oracle-cloud-events-integration.md)
+[Oracle Cloud Push Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/oracle-cloud-events-integration.md)
 
 </td><td>
 
@@ -480,11 +480,11 @@ Use basic authentication to process Oracle Cloud alarms. The event collection is
 
 </td><td>
 
-[Basic authentication](../task/oracle-cloud-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/oracle-cloud-events-integration.md)
 
 </td></tr><tr><td>
 
-[Prometheus](../task/prometheus-events-integration.md)
+[Prometheus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/prometheus-events-integration.md)
 
 </td><td>
 
@@ -492,11 +492,11 @@ Collect JSON formatted event messages sent from Prometheus. The event collection
 
 </td><td>
 
-[Basic authentication](../task/prometheus-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/prometheus-events-integration.md)
 
 </td></tr><tr><td>
 
-[Sentry](../task/sentry-events-collection.md)
+[Sentry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/sentry-events-collection.md)
 
 </td><td>
 
@@ -504,11 +504,11 @@ Configure the Sentry connector to receive Sentry events. Event Management can pr
 
 </td><td>
 
-[Basic authentication](../task/sentry-events-collection.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/sentry-events-collection.md)
 
 </td></tr><tr><td>
 
-[SNMP traps](../task/t_EMSNMPTrapEvent.md)
+[SNMP traps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMSNMPTrapEvent.md)
 
 </td><td>
 
@@ -516,11 +516,11 @@ Process SNMP traps as events.
 
 </td><td>
 
-[Basic authentication](../task/t_EMSNMPTrapEvent.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMSNMPTrapEvent.md)
 
 </td></tr><tr><td>
 
-[ThousandEyes](../concept/thousandeyes-events-integration.md)
+[ThousandEyes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/thousandeyes-events-integration.md)
 
 </td><td>
 
@@ -528,12 +528,12 @@ Collect JSON formatted event messages sent from ThousandEyes. The event collecti
 
 </td><td>
 
--   [Integrate ThousandEyes with OAuth authentication](../task/event-collection-thousandeyes-oauth.md)
--   [Integrate ThousandEyes with basic authentication](../task/event-collection-thousandeyes-oauth.md)
+-   [Integrate ThousandEyes with OAuth authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-thousandeyes-oauth.md)
+-   [Integrate ThousandEyes with basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/event-collection-thousandeyes-oauth.md)
 
 </td></tr><tr><td>
 
-[Email](../task/t_EMConfigureEmailConnector.md)
+[Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureEmailConnector.md)
 
 </td><td>
 
@@ -541,11 +541,11 @@ Configure an inbound email action to send email notifications when events and al
 
 </td><td>
 
-[Basic authentication](../task/t_EMConfigureEmailConnector.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureEmailConnector.md)
 
 </td></tr><tr><td>
 
-[Oracle Enterprise Manager trap collection](../task/configure-snmp-trap-listener.md)
+[Oracle Enterprise Manager trap collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-snmp-trap-listener.md)
 
 </td><td>
 
@@ -553,11 +553,11 @@ Configure the SNMP trap connector to receive Oracle Enterprise Manager Cloud Con
 
 </td><td>
 
-[Basic authentication](../task/configure-snmp-trap-listener.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/configure-snmp-trap-listener.md)
 
 </td></tr><tr><td>
 
-[Grafana](../task/grafana-events-integration.md)
+[Grafana](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/grafana-events-integration.md)
 
 </td><td>
 
@@ -565,11 +565,11 @@ Collect JSON formatted event messages sent from Grafana. The event collection is
 
 </td><td>
 
-[Basic authentication](../task/grafana-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/grafana-events-integration.md)
 
 </td></tr><tr><td>
 
-[EIF listener](../task/eif-events-integration.md)
+[EIF listener](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/eif-events-integration.md)
 
 </td><td>
 
@@ -577,11 +577,11 @@ Configure the EIF listener context to receive EIF events. Event Management can p
 
 </td><td>
 
-[Basic authentication](../task/eif-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/eif-events-integration.md)
 
 </td></tr><tr><td>
 
-[Integrate Honeycomb events](../task/honeycomb-event-integration.md)
+[Integrate Honeycomb events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/honeycomb-event-integration.md)
 
 </td><td>
 
@@ -589,11 +589,11 @@ Configure the Event Management environment for the collection of events from Hon
 
 </td><td>
 
-[Basic authentication](../task/honeycomb-event-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/honeycomb-event-integration.md)
 
 </td></tr><tr><td>
 
-[Integrate Instana events](../task/instana-events-integration.md)
+[Integrate Instana events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/instana-events-integration.md)
 
 </td><td>
 
@@ -601,11 +601,11 @@ Configure Instana with Event Management by adding a standard webhook in the Inst
 
 </td><td>
 
-[Basic authentication](../task/instana-events-integration.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/instana-events-integration.md)
 
 </td></tr><tr><td>
 
-[Integrate Scout APM events](../task/integrate-scout-apm-events.md)
+[Integrate Scout APM events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/integrate-scout-apm-events.md)
 
 </td><td>
 
@@ -613,11 +613,11 @@ Enable the collection of events from Scout APM by authenticating Scout APM as a 
 
 </td><td>
 
-[Basic authentication](../task/integrate-scout-apm-events.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/integrate-scout-apm-events.md)
 
 </td></tr><tr><td>
 
-[Integrate Panopta as a data source](integrate-with-panopta.md)
+[Integrate Panopta as a data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/integrate-with-panopta.md)
 
 </td><td>
 
@@ -625,7 +625,7 @@ Configure the Panopta cloud-based monitoring solution with Event Management.
 
 </td><td>
 
-[Basic authentication](integrate-with-panopta.md)
+[Basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/integrate-with-panopta.md)
 
 </td></tr><tr><td>
 
@@ -725,14 +725,14 @@ Site24X7Integrate with this application for one-directional transfer of events f
 [Site24x7 Integration](https://www.site24x7.com/help/admin/third-party-integration/servicenow.html)
 
 </td></tr></tbody>
-</table>-   **[Create a custom pull connector](../task/t_EMCreateCustomConnectorDefinition.md)**  
+</table>-   **[Create a custom pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMCreateCustomConnectorDefinition.md)**  
 You can create a customized pull connector that requires a script, connector definition, and connector instance, to retrieve events on behalf of an event source.
--   **[Configure a pull connector](../task/t_EMConfigureConnectorInstance.md)**  
+-   **[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureConnectorInstance.md)**  
 Configure a pull connector to schedule the frequency of event collection.
--   **[Configure event collection for SNMP traps](../task/t_EMSNMPTrapEvent.md)**  
+-   **[Configure event collection for SNMP traps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMSNMPTrapEvent.md)**  
 The SNMP listener runs on the MID Server, which acts as a collection endpoint for SNMP traps. The MID Server sends the traps to the ServiceNow instance for further processing as an event by Event Management.
--   **[Configure event collection from email](../task/t_EMConfigureEmailConnector.md)**  
+-   **[Configure event collection from email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMConfigureEmailConnector.md)**  
 Configure an inbound email action to send email notifications when events and alerts are triggered.
 
-**Parent Topic:**[Event Management Integrations](../concept/c_EMEvent.md)
+**Parent Topic:**[Event Management Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/c_EMEvent.md)
 

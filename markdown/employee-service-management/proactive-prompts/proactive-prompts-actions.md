@@ -31,7 +31,7 @@ View details
 
 </td><td>
 
-Enables the user to see more details about the prompt, including any URL provided in the signal configuration. Users can also access links directly to the items/tasks/records based on the URL configured in the Script data source. For more information see, [Create a signal in Proactive Prompts](../task/proactive-prompts-signal-create.md).**Note:**
+Enables the user to see more details about the prompt, including any URL provided in the signal configuration. Users can also access links directly to the items/tasks/records based on the URL configured in the Script data source. For more information see, [Create a signal in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../task/proactive-prompts-signal-create.md).**Note:**
 
 -   The display of links to items/tasks/records only works with the Script data source.
 -   The details displayed are influenced by the selection in the Collect records field.
@@ -78,20 +78,20 @@ Action groups are a collection of frequently used actions in a framework for qui
 -   Chat action group
 -   Email action group
 
-For more information, see [Action group](../../employee-center/concept/action-group-framework.md).
+For more information, see [Action group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../employee-center/concept/action-group-framework.md).
 
-**Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)
+**Parent Topic:**[Reference for Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Proactive Prompts](proactive-prompts-components.md)
+[Components installed with Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-components.md)
 
-[Tokens in Proactive Prompts](proactive-prompts-tokens.md)
+[Tokens in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-tokens.md)
 
-[Types of data sources in Proactive Prompts](proactive-prompts-data-source.md)
+[Types of data sources in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-data-source.md)
 
-[Signal data source form](proactive-prompts-signal-datasource-form.md)
+[Signal data source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-datasource-form.md)
 
-[Signal configuration form](proactive-prompts-create-signal-form.md)
+[Signal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-create-signal-form.md)
 

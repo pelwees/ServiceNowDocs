@@ -35,8 +35,8 @@ As of now, you can only translate the short description, description and work no
 
 4.  Open the request to be worked on.
 
-    A translate icon ![Dynamic translation icon](../images/icon-translation.png) appears next to the fields. The logged-in user can click on ![Dynamic translation icon](../images/icon-translation.png) to translate the text to their preferred language as configured. ![Dynamic translation in action](../images/ur-dynamic-translation.gif)
+    A translate icon ![Dynamic translation icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/icon-translation.png) appears next to the fields. The logged-in user can click on ![Dynamic translation icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/icon-translation.png) to translate the text to their preferred language as configured. ![Dynamic translation in action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-dynamic-translation.gif)
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/using-ur.md)
 

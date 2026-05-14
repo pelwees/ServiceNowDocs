@@ -44,5 +44,5 @@ You can cancel the signature process from the Employee Center under following co
 
 The contract status updates to Signature cancelled, and a notification email is sent to all signatories.
 
-**Parent Topic:**[Work on a third-party contract review request](snlc-work-tpc-review-request.md)
+**Parent Topic:**[Work on a third-party contract review request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 

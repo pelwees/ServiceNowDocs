@@ -122,7 +122,7 @@ Review signers
 
 </td><td>
 
-Review the signer details and select **Save and create NDA**.An NDA is created with the document template that was defined in [Define NDA content and update the list of signers](define-nda-content-update-signers.md). A contract is also created in parallel and displayed here.
+Review the signer details and select **Save and create NDA**.An NDA is created with the document template that was defined in [Define NDA content and update the list of signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/define-nda-content-update-signers.md). A contract is also created in parallel and displayed here.
 
 </td></tr><tr><td>
 
@@ -203,5 +203,5 @@ Updates the case to Closed Completed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Routing NDAs to suppliers](../concept/routing-ndas-to-suppliers.md)
+**Parent Topic:**[Routing NDAs to suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/routing-ndas-to-suppliers.md)
 

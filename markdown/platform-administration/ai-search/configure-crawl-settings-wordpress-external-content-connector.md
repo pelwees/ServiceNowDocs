@@ -18,7 +18,7 @@ Specify the pages and blog posts you want your WordPress external content connec
 
 ## Before you begin
 
-A connector admin must have already created the WordPress external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a WordPress external content connector](create-ext-cont-connector-wordpress.md).
+A connector admin must have already created the WordPress external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a WordPress external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-wordpress.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -110,7 +110,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 10. Select **Save and validate**.
 
@@ -121,7 +121,7 @@ The WordPress external content connector is updated with your modified crawl set
 
 ## What to do next
 
-To retrieve content from your WordPress source system using your modified crawl settings, create and run a one-time content crawl for your WordPress external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your WordPress source system using your modified crawl settings, create and run a one-time content crawl for your WordPress external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[WordPress external content connector](../concept/wordpress-external-content-connector.md)
+**Parent Topic:**[WordPress external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/wordpress-external-content-connector.md)
 

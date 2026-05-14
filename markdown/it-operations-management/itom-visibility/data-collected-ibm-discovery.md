@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Visibility Content.
 -   **Configure a discovery schedule**
 
-    [Create a discovery schedule in Cloud Discovery Workspace](../task/cloud-operations-disco-create-schedule.md)
+    [Create a discovery schedule in Cloud Discovery Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/cloud-operations-disco-create-schedule.md)
 
 
 ## Verify the REST API Permissions
@@ -473,5 +473,5 @@ IBM Datacenter \[cmdb\_ci\_ibm\_datacenter\]
 |cmdb\_ci\_ibm\_datacenter|Hosted on::Hosts|cmdb\_ci\_cloud\_service\_account|
 |cmdb\_ci\_ibm\_datacenter|Hosts::Hosted on|cmdb\_ci\_network|
 
-**Parent Topic:**[Cloud resource discovery references](cloud-discovery-collected-data.md)
+**Parent Topic:**[Cloud resource discovery references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/cloud-discovery-collected-data.md)
 

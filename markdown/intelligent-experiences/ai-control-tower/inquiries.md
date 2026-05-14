@@ -25,7 +25,7 @@ Select any inquiry from the list, click **Assign to me** to assign the inquiry t
 
 The following image displays all the AI inquiries in a list view.
 
-![Inquiries in a list view on the AI assets page.](../image/aict-inquiries.png "Inquiries")
+![Inquiries in a list view on the AI assets page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-inquiries.png "Inquiries")
 
-For information about creating AI inquiries from the AI cases tab in the AI Control Tower workspace, see [Create an AI issue in the AI Control Tower](../task/create-an-ai-issue-in-the-ai-control-tower.md)
+For information about creating AI inquiries from the AI cases tab in the AI Control Tower workspace, see [Create an AI issue in the AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/create-an-ai-issue-in-the-ai-control-tower.md)
 

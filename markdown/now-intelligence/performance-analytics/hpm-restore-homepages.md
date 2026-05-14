@@ -29,7 +29,7 @@ Role required: admin or dashboard\_admin.
 
 3.  Select **Restore Homepage**.
 
-4.  Enter the name of the retired homepage or use the search icon \(![lookup icon](../image/icon-search.png)\) to find the retired homepage.
+4.  Enter the name of the retired homepage or use the search icon \(![lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-search.png)\) to find the retired homepage.
 
 5.  Select **Submit**.
 

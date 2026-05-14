@@ -76,5 +76,5 @@ The Apache Kafka client is installed in a simplified directory on your local mac
 
 ## What to do next
 
-[Create a test topic in Hermes using the Kafka client](create-hermes-topic.md)
+[Create a test topic in Hermes using the Kafka client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/create-hermes-topic.md)
 

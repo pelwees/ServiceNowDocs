@@ -43,7 +43,7 @@ You can now configure an allowlist of Cisco Meraki Organizations on each connect
     |Matching|Exact string match against the name returned by the source system API|
     |Default|Empty \(connector polls all organizations\)|
 
-    ![Screenshot showing organizationsToWhitelist field in connector configuration](../images/whitelist.png)
+    ![Screenshot showing organizationsToWhitelist field in connector configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/whitelist.png)
 
 5.  Select **Update** to save.
 

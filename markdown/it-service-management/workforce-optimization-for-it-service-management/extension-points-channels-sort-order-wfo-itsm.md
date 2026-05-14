@@ -52,5 +52,5 @@ Add or update the `getColumns` to modify the current implementation to configure
 Add or update the `getColumns` to configure the columns in the All queues list for Channel Management.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](../concept/setup-channels-configurable-workforce-optimization-itsm.md)
+</table>**Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-channels-configurable-workforce-optimization-itsm.md)
 

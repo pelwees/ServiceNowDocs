@@ -23,5 +23,5 @@ Considerations when importing data containing date/time values.
     1.  Click the user drop-down in the banner and select **Profile**.
     2.  Change the **Time zone** field value to the timezone of the date/time values in the import file and click **Update**.
 
-**Parent Topic:**[Importing data using import sets](c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_ImportDataUsingImportSets.md)
 

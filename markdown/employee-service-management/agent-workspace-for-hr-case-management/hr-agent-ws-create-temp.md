@@ -25,7 +25,7 @@ Role required: sn\_hr\_core.case\_writer
 
 2.  Select an HR case for the document task.
 
-    In the **HR service** field, make sure that an HR service that has document template is selected. For more information, see [Create a case in Agent Workspace for HR Case Management](agent-ws-configurable-hr-create-case.md).
+    In the **HR service** field, make sure that an HR service that has document template is selected. For more information, see [Create a case in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-configurable-hr-create-case.md).
 
 3.  Click the **Start Work** button.
 
@@ -35,9 +35,9 @@ Role required: sn\_hr\_core.case\_writer
 
 5.  Select the **Initiate document task** button.
 
-    ![Initiating document tasks](../image/initiate-tasks.png)
+    ![Initiating document tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/initiate-tasks.png)
 
-    For more information, see [Document tasks generation in Document Templates](task-mapped-participants.md).
+    For more information, see [Document tasks generation in Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/task-mapped-participants.md).
 
     Document tasks that are part of the selected HR case are generated and listed in the **Document tasks** tab. The participants will receive document tasks as configured in the template
 

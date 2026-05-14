@@ -44,7 +44,7 @@ Cost calculations roll up when the costing add-on is active.
 -   **Estimated cost**: The sum of all cost estimates at the beginning of a project. Estimated costs of child tasks roll up to parent tasks and to the project.
 -   **Actual cost**: By default for the project, the sum of all costs of all the expense lines, and are typically associated with a time card and a labor rate. To track costs, you can derive rates using any of the following options:
 
-    -   Associate a [rate model](../../project-portfolio-suite-with-financials/concept/rate-model.md) to the project.
+    -   Associate a [rate model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite-with-financials/concept/rate-model.md) to the project.
     -   Define rate cards for the task and labor expenses.
     -   Associate rate at the resource plan level.
     These rates automatically generate expense lines showing actual expenditures, which are associated with the projects. If rate cards are defined, the task expense lines are generated as each project task closes, and labor expense lines are generated when time cards are approved. Expense lines are visible in the **Expense Lines** related list, which requires the **Advanced view** on both Project and Project Task forms.
@@ -72,36 +72,36 @@ Project states can also roll down. If you change the state of a project to close
     -   Child tasks with a **Start on** date that has passed are changed to start **ASAP** and the state is changed to **Work in Progress**.
     -   Child tasks with a **Start on** date that has not yet passed retain the same start on date but the state is changed to **Open**.
 
-**Parent Topic:**[Basics of Project Management](c_ProjectTasks.md)
+**Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
 
 **Related topics**  
 
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectTask.md)
 
-[Schedule conflicts between project tasks](scheduling-conflicts.md)
+[Schedule conflicts between project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduling-conflicts.md)
 
-[Change requests and project tasks](c_ChangeRequestsAndProjectTasks.md)
+[Change requests and project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ChangeRequestsAndProjectTasks.md)
 
-[Project task checklists](c_project-task-checklists.md)
+[Project task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_project-task-checklists.md)
 
-[Task resources](c_TaskResources.md)
+[Task resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TaskResources.md)
 
-[Project and project task states](project-and-project-task-states.md)
+[Project and project task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-and-project-task-states.md)
 
-[Composite Fields](pm-composite-fields.md)
+[Composite Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/pm-composite-fields.md)
 
-[Cost plan breakdown](cost-plan-breakdown.md#)
+[Cost plan breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md#)
 
-[Actual project costs](actual-project-costs.md)
+[Actual project costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/actual-project-costs.md)
 
-[Types of external dependencies](external-dependency-types.md)
+[Types of external dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
 
-[Project scheduling in Project Management](project-scheduling.md)
+[Project scheduling in Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-scheduling.md)
 
-[Task constraints](task-constraints-project-management.md)
+[Task constraints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/task-constraints-project-management.md)
 
-[Create a parent-child relationship on the Project Task form](../task/t_CreateParentChildRelationship.md)
+[Create a parent-child relationship on the Project Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateParentChildRelationship.md)
 

@@ -36,7 +36,7 @@ API URL: &lt;host\_name&gt;/api/sbom/core/upload
 
 **Note:** &lt;host\_name&gt; is your ServiceNow instance name.
 
-All below request parameters are optional; the request body is the SBOM file content. If you are using DevOps as part of your development process, the value of 'requestedBy' should be 'devops'. See [Uploading Software Bill of Materials for DevOps SBOM files](vr-sbom-uploading-devops.md) for more general information about DevOps. If the value for 'requestedby' is "devops" \(devlopment operations\), these parameters are mandatory:
+All below request parameters are optional; the request body is the SBOM file content. If you are using DevOps as part of your development process, the value of 'requestedBy' should be 'devops'. See [Uploading Software Bill of Materials for DevOps SBOM files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-uploading-devops.md) for more general information about DevOps. If the value for 'requestedby' is "devops" \(devlopment operations\), these parameters are mandatory:
 
 -   buildId
 -   lifecycleStage
@@ -214,7 +214,7 @@ All the components listed in an SBOM have a defined `type`.
 **Related topics**  
 
 
-[View upload status for Software Bill of Materials files](../task/vr-sbom-bom-queue.md)
+[View upload status for Software Bill of Materials files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/../task/vr-sbom-bom-queue.md)
 
-[Viewing reports and dashboards in the Software Bill of Materials workspace](vr-sbom-viewing-data-overview.md)
+[Viewing reports and dashboards in the Software Bill of Materials workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-viewing-data-overview.md)
 

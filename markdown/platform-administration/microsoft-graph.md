@@ -70,14 +70,14 @@ Role required: admin and Microsoft Azure portal administrator
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
 
-**Parent Topic:**[Reading email using Microsoft Graph](../concept/read-email-using-ms-graph.md)
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/read-email-using-ms-graph.md)
 
 **Related topics**  
 
 
-[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](configure-oauth-profile-using-certificates.md)
+[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 
-[Create an email account for Microsoft Graph \(receive\)](create-email-account-ms-graph.md)
+[Create an email account for Microsoft Graph \(receive\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-ms-graph.md)
 
 ## Register an application as an OAuth provider
 
@@ -135,7 +135,7 @@ OAuth API Script
 
 </td><td>
 
-OAuth API script name. For more information see, [OAuth API Script](oauth-api-script.md). **Note:** This is required only while using certificates.
+OAuth API script name. For more information see, [OAuth API Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md). **Note:** This is required only while using certificates.
 
 </td></tr><tr><td>
 
@@ -183,5 +183,5 @@ Redirect URL
 
 ### What to do next
 
-[Create an email account for Microsoft Graph \(receive\)](create-email-account-ms-graph.md) using the OAuth profile.
+[Create an email account for Microsoft Graph \(receive\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-ms-graph.md) using the OAuth profile.
 

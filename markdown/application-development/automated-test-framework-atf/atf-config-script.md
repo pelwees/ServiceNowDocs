@@ -95,5 +95,5 @@ The method `stepResult.setOutputMessage()` sets the message to write to the log 
 
 **Note:** The above example can also be used for Run Server Side script by replacing `stepResult.setSuccess()`” and `stepResult.setFailed()` with `return true` and `return false`.
 
-**Parent Topic:**[Step configurations](step-configurations-module.md)
+**Parent Topic:**[Step configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/step-configurations-module.md)
 

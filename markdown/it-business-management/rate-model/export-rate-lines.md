@@ -23,7 +23,7 @@ Role required: pps\_admin or it\_rate\_model\_admin.
 
 ## About this task
 
-Besides [creating rate lines](create-rate-line.md) one at a time, you can add multiple rate lines into a rate model using the export and import rate lines functions.
+Besides [creating rate lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/create-rate-line.md) one at a time, you can add multiple rate lines into a rate model using the export and import rate lines functions.
 
 -   Rate Model
 -   Number
@@ -46,7 +46,7 @@ The number of criteria columns depends on the number of attributes added in the 
     -   Navigate to **All** &gt; **Time Sheets** &gt; **Rate Model** &gt; **All**.
 2.  On the Rate Model form, select the **View Rate Lines** related link.
 
-3.  Select the more actions icon \(![More actions icon](../image/MoreActionsIcon.png)\) and then select the **Export to CSV** option.
+3.  Select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/../image/MoreActionsIcon.png)\) and then select the **Export to CSV** option.
 
     A dialog box might prompt you to save or open the export file. By default, the file has the same name as the rate model. However, you can specify a different file name. Save the file either as a CSV file or Microsoft Excel \(.XLSX\) file.
 
@@ -63,7 +63,7 @@ All rate lines in the rate model are exported to the file. If there is no rate l
 
 ## What to do next
 
-[Import rate lines](import-rate-lines.md) from the file into a rate model.
+[Import rate lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/import-rate-lines.md) from the file into a rate model.
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/../concept/rate-model.md)
 

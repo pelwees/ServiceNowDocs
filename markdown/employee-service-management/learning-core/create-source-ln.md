@@ -38,5 +38,5 @@ Role required: learning\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Administration tasks in Learning Core](ln-administration.md)
+**Parent Topic:**[Administration tasks in Learning Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-administration.md)
 

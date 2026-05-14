@@ -35,7 +35,7 @@ You can create up to three private views and up to ten shared \(public\) views p
 
     The **Save as new view** option appears on the portfolio plan header.
 
-    ![shared view in strategic planning.](../images/create-shared-view-spw.gif)
+    ![shared view in strategic planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/create-shared-view-spw.gif)
 
 4.  From the portfolio plan header, select **Save as new view**.
 
@@ -56,8 +56,8 @@ The shared view for the portfolio plan is created and will be visible to all sta
 
 ## What to do next
 
--   Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](share-portfolio-plan-alignment-planner-workspace.md).
--   Edit a portfolio plan view to make any changes to the existing view. See [Edit a portfolio plan view](edit-portfolio-plan-view-spw.md).
+-   Share the portfolio plan with your stakeholders to start collaborating on the portfolio plan. See [Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-portfolio-plan-alignment-planner-workspace.md).
+-   Edit a portfolio plan view to make any changes to the existing view. See [Edit a portfolio plan view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/edit-portfolio-plan-view-spw.md).
 
-**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](../concept/managing-portfolio-plan-views-spw.md)
+**Parent Topic:**[Managing portfolio plan views in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/managing-portfolio-plan-views-spw.md)
 

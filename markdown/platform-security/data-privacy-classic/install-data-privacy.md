@@ -33,7 +33,7 @@ The following items are installed with data privacy:
 -   Roles
 -   Tables
 
-For more information, see [Installed with data privacy \(Classic\)](../../security/reference/installed-with-data-privacy.md#).
+For more information, see [Installed with data privacy \(Classic\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/reference/installed-with-data-privacy.md#).
 
 ## Procedure
 

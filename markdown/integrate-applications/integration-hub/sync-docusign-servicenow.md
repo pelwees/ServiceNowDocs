@@ -21,7 +21,7 @@ Role required: admin
 
 -   Request IntegrationHub subscription
 -   Activate Docusign spoke
--   [Set up Docusign eSignature spoke using JWT grant](setup-docusign-jwt.md#)
+-   [Set up Docusign eSignature spoke using JWT grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-jwt.md#)
 
 ## About this task
 

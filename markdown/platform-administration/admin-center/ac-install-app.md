@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Start the installation of the selected application.
 
-    ![Image showing get started button](../image/ac-get-started.png)The button to start the installation or activation may vary depending on the selected application.
+    ![Image showing get started button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/admin-center/../image/ac-get-started.png)The button to start the installation or activation may vary depending on the selected application.
 
     -   **Activate**: If you have selected a plugin
     -   **Install**: If you have selected an application
@@ -36,8 +36,8 @@ Role required: admin
 
         **Note:** You can view the configuration page of the application by clicking **Get Started**.
 
-    **Note:** Some applications and plugins show dependency applications and roles that need to be installed.![Image showing technical details of certain applications](../image/ac-dependency-app.png)
+    **Note:** Some applications and plugins show dependency applications and roles that need to be installed.![Image showing technical details of certain applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/admin-center/../image/ac-dependency-app.png)
 
 
-**Parent Topic:**[Adoption blueprints](../concept/ac-achieve-business-objective.md)
+**Parent Topic:**[Adoption blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/admin-center/../concept/ac-achieve-business-objective.md)
 

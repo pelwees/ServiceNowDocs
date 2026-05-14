@@ -89,7 +89,7 @@ Your data stream action to get users may return a user activity metric such as l
 
     The following image shows a completed example of the pagination setup step. This example is from the Get Users data stream action used in the Webex Download Subscriptions subflow.
 
-    ![Pagination Setup step](../image/slc-pagination-webex.png)
+    ![Pagination Setup step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/slc-pagination-webex.png)
 
     **Note:** Pagination variables only support the string data type. To perform math operations, convert the value to an integer, perform any required operations, then convert it back to a string.
 
@@ -123,7 +123,7 @@ Connection Alias
 
 </td><td>
 
-Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)
+Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ Connection Alias
 
 </td><td>
 
-Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](create-integration-custom.md)
+Connection alias that you created when you created the integration profile. If you have not yet created an integration profile, follow the steps to [create a custom integration profile with a connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md)
 
 </td></tr><tr><td>
 
@@ -241,7 +241,7 @@ Add parameters for pagination. Set the values as the variables that you created 
 </td></tr></tbody>
 </table>    The following image shows a completed example of the REST step. This example is from the Get Audit Log data stream action used in the Jira Update User Activity subflow.
 
-    ![REST step](../image/slc-rest-step-2.png)
+    ![REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/slc-rest-step-2.png)
 
 16. Click **Parsing** in the Action Outline.
 

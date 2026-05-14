@@ -23,13 +23,13 @@ If you’re familiar with Map reports in Core UI, you might have noticed that th
 
 In map reports, the map source references the facts table, such as Incident \[incident\]. The map source also includes a reference field that points to the location table. Child map sources dot-walk to a field on the location table. This structure results in a separate map source hierarchy for every data table you want as a data source for a map.
 
-![List of map sources for map reports showing facts tables.](../image/classic-map-sources.png "Map sources for map reports")
+![List of map sources for map reports showing facts tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/classic-map-sources.png "Map sources for map reports")
 
 Map sources for geomaps point directly to location tables. They don’t reference facts tables. The facts table is specified only in the geomap data visualization. Thanks to this structure, you can reuse one map hierarchy for all geomaps on your instance, regardless of the data they display.
 
-![Reusable set of map sources for all geomap data visualizations on an instance.](../image/dv-map-sources.png "Map sources for geomap data visualizations")
+![Reusable set of map sources for all geomap data visualizations on an instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-map-sources.png "Map sources for geomap data visualizations")
 
-**Parent Topic:**[Create a geomap data visualization](../task/create-dv-geomap-ac.md)
+**Parent Topic:**[Create a geomap data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-dv-geomap-ac.md)
 
 ## Create a data visualization map source
 

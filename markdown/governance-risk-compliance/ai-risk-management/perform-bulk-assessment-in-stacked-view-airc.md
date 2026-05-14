@@ -75,7 +75,7 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
 
 8.  Respond to all the factors in Inherent, Control, and Residual assessments, and define a risk response strategy for each risk within the project.
 
-    ![Stacked view of risk assessment project.](../image/stacked-view-airc.png)
+    ![Stacked view of risk assessment project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/stacked-view-airc.png)
 
     **Note:** The application automatically saves your responses and calculates the overall risk score.
 
@@ -94,5 +94,5 @@ You can perform the bulk risk assessment either from the Employee Center or AI C
     Assessments are validated again in this stage. Review the assessment summary before you submit. You can’t make any changes after submission.
 
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

@@ -29,7 +29,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     The alert opens in a separate tab, displaying the **Overview** subtab. In the right panel, the **Utilities** tab is selected by default.
 
-    ![The Utilities section displaying the web apps that you can launch.](../image/el-close-menu.png)
+    ![The Utilities section displaying the web apps that you can launch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-close-menu.png)
 
 4.  In the Utilities section, select the web application to launch the app.
 

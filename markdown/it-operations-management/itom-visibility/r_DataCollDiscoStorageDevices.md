@@ -85,5 +85,5 @@ Discovery creates the following relationships for storage CIs running on Network
 |----------------|------------|---------------|
 |NAS File System \[cmdb\_ci\_nas\_file\_system\]|Allocated from::Allocated to|Storage File Share \[cmdb\_ci\_storage\_fileshare\]|
 
-**Parent Topic:**[Storage Discovery via SMI-S and CIM](r_DataCollDiscoStorageviaSMISCIM.md)
+**Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 

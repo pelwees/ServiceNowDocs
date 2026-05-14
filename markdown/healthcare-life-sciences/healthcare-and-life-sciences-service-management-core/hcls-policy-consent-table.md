@@ -22,7 +22,7 @@ The Policy consent \[sn\_hcls\_policy\_consent\] table stores the details of a c
 
 Role required to configure the table: sn\_hcls.admin.
 
-For more information, see [Healthcare and Life Sciences data model](../concept/hcls-serv-mgmt-core-1.md).
+For more information, see [Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../concept/hcls-serv-mgmt-core-1.md).
 
 <table id="table_rdz_dhp_xrb"><thead><tr><th>
 
@@ -158,8 +158,8 @@ Date
 
 Date until which the policy is valid for a patient. The valid until date is calculated based on validity duration of the policy after the date on which the consent was given.
 
- **Note:** The [**Status**](hcls-policy-consent-table.md#policy-status) field value is updated as active or inactive based on the **Valid until** date.
+ **Note:** The [**Status**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-policy-consent-table.md#policy-status) field value is updated as active or inactive based on the **Valid until** date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Healthcare and Life Sciences data model tables](hcls-healthcare-data-tables.md)
+</table>**Parent Topic:**[Healthcare and Life Sciences data model tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-data-tables.md)
 

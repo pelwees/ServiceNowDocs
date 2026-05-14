@@ -17,5 +17,5 @@ The instance tracks the performance of individual threads, which administrators 
 
 The amount of time a thread waits for an available semaphore or session synchronization is included in the **Response Time** field in the transaction log. To view the transaction log, navigate to **All** &gt; **System Logs** &gt; **Transactions**.
 
-**Parent Topic:**[Monitoring platform performance](monitoring-platform-performance.md)
+**Parent Topic:**[Monitoring platform performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 

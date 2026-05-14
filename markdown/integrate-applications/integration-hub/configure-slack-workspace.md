@@ -29,7 +29,7 @@ Complete these steps from your Slack account. You can create an app or configure
 
     To learn how to create a workspace, see [Create a Slack workspace](https://slack.com/intl/en-in/help/articles/206845317-Create-a-Slack-workspace).The following image shows a typical Slack workspace.
 
-    ![Slack Workspace.](../../integrationhub-store-spokes/image/slack-workspace.png)
+    ![Slack Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/image/slack-workspace.png)
 
 2.  Navigate to the [Slack API](https://api.slack.com/) console.
 
@@ -37,11 +37,11 @@ Complete these steps from your Slack account. You can create an app or configure
 
 4.  On the Create an app window, select the most appropriate method to create the app.
 
-    ![Create an app on Slack.](../../integrationhub-store-spokes/image/slack-create-app.png)
+    ![Create an app on Slack.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/image/slack-create-app.png)
 
 5.  From the App Credentials page on the Basic Information page, copy and record the values of Client ID, Client Secret, and Signing Secret of your Slack app.
 
-    ![Slack app credentials.](../../integrationhub-store-spokes/image/slack-app-credentials.png)
+    ![Slack app credentials.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/image/slack-app-credentials.png)
 
     For more information, see the [Obtain Client ID and Client Secret](https://api.slack.com/authentication/postman#get_client_secret) for later step.
 

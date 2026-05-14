@@ -25,7 +25,7 @@ On the form, each related list displays property settings or a table of configur
 
 The base system includes a configuration identifier named **Default** that specifies all default settings.
 
-![Overview of all configuration identifier settings.](../image/um-config-id-form.png)
+![Overview of all configuration identifier settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-config-id-form.png)
 
 ## Defining custom settings for your CMDB Workspace instance
 
@@ -33,5 +33,5 @@ To create a custom configuration identifier for your workspace, modify the defau
 
 **Note:** When a custom configuration identifier doesn't specify a particular property setting or table entry, the value in the default configuration identifier is used.
 
-**Parent Topic:**[Configuring Unified Map — admin settings](administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/administer-unified-map.md)
 

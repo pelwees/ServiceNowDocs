@@ -29,19 +29,19 @@ The following are some examples of the page customizations you can apply to the 
 
 **Note:** You can make changes to the home page, but editing all other pages requires creating a variant or copy of the page. If you edit the pages directly, then they won't get the latest code in a system upgrade.
 
-![Sample workspace home page](../image/sample-workspace-next-exp.png "Home page")
+![Sample workspace home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/sample-workspace-next-exp.png "Home page")
 
 ## Workspace list page
 
-![Sample workspace list page](../image/sample-workspace-list-next-exp.png "List page")
+![Sample workspace list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/sample-workspace-list-next-exp.png "List page")
 
 ## Workspace record page
 
-![Sample workspace record page](../image/sample-workspace-record-next-exp.png "Record page")
+![Sample workspace record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/sample-workspace-record-next-exp.png "Record page")
 
 ## Workspace search page
 
-![Sample workspace search page](../image/sample-workspace-search-next-exp.png "Search page")
+![Sample workspace search page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/sample-workspace-search-next-exp.png "Search page")
 
 ## Workspace Analytics Overview
 
@@ -64,7 +64,7 @@ The Analytics Overview includes the following components:
 
 For more information on Analytics Overview, see [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md).
 
-![Example Analytics Center for a workspace](../image/sample-worksapce-analytics-next-exp.png "Analytics Overview")
+![Example Analytics Center for a workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/sample-worksapce-analytics-next-exp.png "Analytics Overview")
 
-**Parent Topic:**[Exploring Workspace Builder](../../workspace-builder/concept/exploring-workspace-builder.md)
+**Parent Topic:**[Exploring Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../workspace-builder/concept/exploring-workspace-builder.md)
 

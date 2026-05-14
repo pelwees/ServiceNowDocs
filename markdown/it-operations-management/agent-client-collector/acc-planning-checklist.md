@@ -137,5 +137,5 @@ Internal Compliance and Security Review
 Work with internal teams and your stakeholders to review your deployment plan, solution architecture, and to obtain approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Preparing for Agent Client Collector implementation](acc-preparation.md)
+</table>**Parent Topic:**[Preparing for Agent Client Collector implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-preparation.md)
 

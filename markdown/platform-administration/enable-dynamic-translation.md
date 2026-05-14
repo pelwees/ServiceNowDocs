@@ -15,11 +15,11 @@ Enable dynamic translation for a notification to send dynamically translated ema
 
 ## Before you begin
 
-An email notification must exist. For more information, see [Create an email notification](t_CreateANotification.md).
+An email notification must exist. For more information, see [Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 You must activate the Glide Notification Translation \(com.glide.notification.translation\) plugin.
 
-Set the system property for the dynamic translation. For more information see, [Enable dynamic translation](enable-email-notification-translation.md).
+Set the system property for the dynamic translation. For more information see, [Enable dynamic translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/enable-email-notification-translation.md).
 
 Role required: admin
 
@@ -42,14 +42,14 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 
 ## What to do next
 
-[Preview email notifications](t_PreviewingNotifications.md)
+[Preview email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_PreviewingNotifications.md)
 
-**Parent Topic:**[Dynamic translation](../concept/dynamic-translation.md)
+**Parent Topic:**[Dynamic translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/dynamic-translation.md)
 
 **Related topics**  
 
 
-[Enable dynamic translation](enable-email-notification-translation.md)
+[Enable dynamic translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/enable-email-notification-translation.md)
 
-[Configure the note banner for translated emails](config-email-notification-banner.md)
+[Configure the note banner for translated emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/config-email-notification-banner.md)
 

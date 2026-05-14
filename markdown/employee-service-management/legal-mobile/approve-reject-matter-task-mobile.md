@@ -29,7 +29,7 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
     1.  Tap the task number on the **Approval for** field.
 
-    2.  Tap the back icon \(![Back icon.](../image/back-arrow-icon.png)\) to return to the task Pending Legal Matter Task Approval screen.
+    2.  Tap the back icon \(![Back icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/back-arrow-icon.png)\) to return to the task Pending Legal Matter Task Approval screen.
 
 4.  Approve or reject the task by tapping **Approve** or **Reject**.
 

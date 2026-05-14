@@ -33,6 +33,6 @@ Role required: sn\_pace.mapping\_admin
 
     In the displayed mapping input form, edit the details as required, and click **Save**.
 
-    ![Adding additional objects.](../image/pace-map-select-objects-1.jpg)
+    ![Adding additional objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-map-select-objects-1.jpg)
 
 

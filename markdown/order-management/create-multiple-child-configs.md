@@ -28,7 +28,7 @@ If your product catalog admin has enabled multiple configurations for child offe
 -   Customize the options and characteristics for each child offering instance created.
 -   Delete a child offering instance, as long as the minimum number of child offerings defined for the product is maintained.
 
-**Note:** Even when the multiple configurations feature is enabled, there are scenarios in which some configuration options might not be available. The system uses the default, minimum, and maximum quantity values from the product definition to determine valid configurations and then enables or disables the **Split** or **Delete** options for managing child offering configurations. For more information on validation, see [Multiple configurations](../concept/multiple-child-offering-configurations.md).
+**Note:** Even when the multiple configurations feature is enabled, there are scenarios in which some configuration options might not be available. The system uses the default, minimum, and maximum quantity values from the product definition to determine valid configurations and then enables or disables the **Split** or **Delete** options for managing child offering configurations. For more information on validation, see [Multiple configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/multiple-child-offering-configurations.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ If your product catalog admin has enabled multiple configurations for child offe
 
     The product configurator displays the product offering configuration, including the bundle product options and characteristics. Child offerings that can have multiple configurations are identified by information ![](../../now-assist-order-mgmt/image/icon-more-info.png) icons. Select the information icon to view a message indicating that the offering can have multiple configurations and that the offering quantity shown is aggregated across the configurations.
 
-    ![Information message displayed for a child offering in a configurable product. The message indicates that multiple configurations can be created for the offering.](../image/multi-config-msg-order.png "Example bundle configuration for an order")
+    ![Information message displayed for a child offering in a configurable product. The message indicates that multiple configurations can be created for the offering.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/multi-config-msg-order.png "Example bundle configuration for an order")
 
 6.  Navigate to the child offering in the product hierarchy, which displays the offering summary page.
 
@@ -101,5 +101,5 @@ Removes an existing child offering instance.
 8.  When you finish configuring the child offerings, select **Add** to add each configuration as a separate line item to your opportunity, quote, or order.
 
 
-**Parent Topic:**[Using the legacy product configurator](../concept/using-som-product-configurator.md)
+**Parent Topic:**[Using the legacy product configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-som-product-configurator.md)
 

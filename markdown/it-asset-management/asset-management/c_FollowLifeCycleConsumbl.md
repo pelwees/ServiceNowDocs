@@ -37,35 +37,35 @@ The consumable lifecycle stages are as follows.
 -   Retired
 -   Missing
 
--   **[View consumable assets](../task/t_ViewingConsumableAssets.md)**  
+-   **[View consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_ViewingConsumableAssets.md)**  
 Consumables are tracked as a group of the same model, but you can view individual consumables in the consumable model record.
--   **[Create consumable assets](../task/t_CreatingConsumableAssets.md)**  
+-   **[Create consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_CreatingConsumableAssets.md)**  
 Create a consumable to track an asset as a group of the same model.
--   **[Consume consumable assets](../task/t_ConsumingConsumableAssets.md)**  
+-   **[Consume consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_ConsumingConsumableAssets.md)**  
 To consume consumable assets, they must have a state of **In Stock** and a substate of **Available**.
--   **[Return consumable assets to stockrooms](../../hardware-asset-management/task/return-consumables.md)**  
+-   **[Return consumable assets to stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/task/return-consumables.md)**  
 Move a consumable asset that is in a consumed state and has completed its life cycle back to an in-stock status.
--   **[Dispose of consumable assets](../../hardware-asset-management/task/dispose-consumables.md)**  
+-   **[Dispose of consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/task/dispose-consumables.md)**  
 Dispose of those consumable assets that are no longer required in your stockrooms.
 
-**Parent Topic:**[Using Asset Management](using-asset-management.md)
+**Parent Topic:**[Using Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/using-asset-management.md)
 
 **Related topics**  
 
 
-[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
 
-[Work with Asset and CI](../../hardware-asset-management/concept/work-with-asset-ci.md)
+[Work with Asset and CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/concept/work-with-asset-ci.md)
 
-[Manage various assets through asset classes](c_AssetClasses.md)
+[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_AssetClasses.md)
 
-[Create fixed assets](c_CreatingFixedAssets.md#)
+[Create fixed assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_CreatingFixedAssets.md#)
 
-[Stockrooms](c_Stockrooms.md)
+[Stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_Stockrooms.md)
 
-[Manage pre-allocated assets](../../hardware-asset-management/concept/manage-preallocated-asset.md)
+[Manage pre-allocated assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/concept/manage-preallocated-asset.md)
 
-[Manage transfer order](manage-transfer-orders.md)
+[Manage transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-transfer-orders.md)
 
-[Use Organization Management](../reference/org-mgmt.md#)
+[Use Organization Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../reference/org-mgmt.md#)
 

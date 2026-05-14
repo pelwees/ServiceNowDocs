@@ -129,7 +129,7 @@ Script that passes page and widget data to an Agent Chat conversation. For examp
 
 Users can initiate and maintain an Agent Chat conversation from any page in the selected portal.
 
-**Parent Topic:**[Create a portal](create-a-portal.md)
+**Parent Topic:**[Create a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md)
 
 ## Customize the Agent Chat button
 
@@ -137,7 +137,7 @@ You can change the color and images that are used in the Agent Chat button in yo
 
 ### Before you begin
 
-If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [Storing images in the database](../../../administer/navigation-and-ui/concept/c_StoringImagesInTheDatabase.md).
+If you plan to replace one or both of the images that are used in the Agent Chat button, upload the images to your instance. For more information on uploading an image, see [Storing images in the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../administer/navigation-and-ui/concept/c_StoringImagesInTheDatabase.md).
 
 Role required: sp\_admin or admin
 
@@ -181,7 +181,7 @@ For example, to reference the `tack-icon.png` image in the database, enter the f
 $sp-agent-chat-btn-close: url("https://<instance-name>.service-now.com/tack-icon.png");
 ```
 
- ![The image URL references tack-icon.png in the Agent Chat button](../image/sp-chat-close.png)
+ ![The image URL references tack-icon.png in the Agent Chat button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/sp-chat-close.png)
 
 To use the default image, remove the variable.
 
@@ -197,7 +197,7 @@ For example, to reference the `book-icon.png` image in the database, enter the f
 $sp-agent-chat-btn-open: url("https://<instance-name>.service-now.com/book-icon.png");
 ```
 
- ![The image URL references book-icon.png in the Agent Chat button](../image/sp-chat-open.png)
+ ![The image URL references book-icon.png in the Agent Chat button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/sp-chat-open.png)
 
 To use the default image, remove the variable.
 
@@ -211,7 +211,7 @@ Button background color. Use a Hex code to set the color. For example, to use re
 $sp-agent-chat-bg: #ff0000;
 ```
 
- ![Red background color](../image/red-chat-icon.png)
+ ![Red background color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/red-chat-icon.png)
 
 To use the default background color, remove the variable.
 
@@ -335,7 +335,7 @@ Examine the widget to understand how data is passed to the widget client script.
 
 Agent Chat can access the variables when an end user initiates a conversation from the Service Portal page.
 
-![Agent Chat displays the value of the variable.](../image/agent-chat-client.png)
+![Agent Chat displays the value of the variable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/agent-chat-client.png)
 
 ## Remove Live Chat link from the header menu
 

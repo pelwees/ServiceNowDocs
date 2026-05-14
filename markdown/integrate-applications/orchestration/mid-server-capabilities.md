@@ -25,7 +25,7 @@ Capabilities provided in the base system do not have a defined value string. The
 
 Starting with the Madrid release, the **\[capability name\]:\[value\]** combination appears in the slushbucket when you add a capability to a MID Server. This combination allows you to see all the capabilities that have different values, even if the capability name is the same. For example, if you are using the Cloud Management capability, and you use the value field to specify the us-west logical datacenter on one of the capability records, you can see the combination in the **Collection** list.
 
-![Capability name and value combination](../image/capability-value-combo.png)
+![Capability name and value combination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/capability-value-combo.png)
 
 ## MID Server selection
 
@@ -47,10 +47,10 @@ The Resolve DNS capability is provided in the base system and is configured to r
 
 To view the script for evaluating this capability, navigate to **MID Server** &gt; **Capability Value Tests** and select **Resolve DNS** from the list.
 
-![MID capabilities](../image/MIDServerResolveDNS.png)
+![MID capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/MIDServerResolveDNS.png)
 
--   **[Configure MID Server capabilities](../../../configure-capabilities.md)**  
+-   **[Configure MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../../configure-capabilities.md)**  
 MID Server capabilities define the specific functions of a MID Server within an IP address range, allowing an application to select the most appropriate MID Server. Configure capabilities on MID Servers for applications like Orchestration, , and .
 
-**Parent Topic:**[MID Servers for Orchestration](../../orchestration/concept/c_OrchestrationMID.md)
+**Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration/concept/c_OrchestrationMID.md)
 

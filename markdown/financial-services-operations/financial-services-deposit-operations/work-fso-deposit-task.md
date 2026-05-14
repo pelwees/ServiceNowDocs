@@ -22,7 +22,7 @@ Role required:
 -   For a business deposit service task: sn\_bom\_deposit\_b2b.agent or sn\_bom\_deposit\_b2b.agent\_connector
 -   For a personal deposit service task: sn\_bom\_deposit\_b2c.agent or sn\_bom\_deposit\_b2c.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -45,7 +45,7 @@ If assignment rules are configured, the task is automatically assigned to a depo
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from the case playbook or the deposit task list.
 
@@ -134,5 +134,5 @@ Click **Approve** to approve or **Reject** to reject the request.**Note:** You c
 
 The deposit task moves to the Closed Complete state.
 
-**Parent Topic:**[Using Financial Services Deposit Operations](../concept/using-deposit-ops.md)
+**Parent Topic:**[Using Financial Services Deposit Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../concept/using-deposit-ops.md)
 

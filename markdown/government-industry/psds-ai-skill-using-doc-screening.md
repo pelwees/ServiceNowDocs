@@ -29,7 +29,7 @@ The Document screening generative AI skill automatically analyzes documents uplo
 
 2.  Complete the activities in the Review stage once the constituent has uploaded their documents and other supporting information through the Government Service Portal and the case is moved from Intake to Review stage.
 
-    ![Asset analysis summary with comprehensive asset information and list of action items](../image/verify-docs-review-stage.png "Verify documents activity with document screening skill")
+    ![Asset analysis summary with comprehensive asset information and list of action items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/verify-docs-review-stage.png "Verify documents activity with document screening skill")
 
 3.  Select the document record that you want to analyze.
 
@@ -39,7 +39,7 @@ The Document screening generative AI skill automatically analyzes documents uplo
 
     Manually type the reasons, or select **Compose message for applicant** to compose the reason summary into an ai-generated message to the applicant. Refine the reasons in a pop-up modal by selecting on the sparkle icon inside the text area to either shorten or elaborate on what was generated. Select **Insert** to add this text to the message to the applicant.
 
-    ![Asset analysis summary with comprehensive asset information and list of action items](../image/doc-screen-skill-compose-message.png "Now Assist-generated correspondence to applicant")
+    ![Asset analysis summary with comprehensive asset information and list of action items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/doc-screen-skill-compose-message.png "Now Assist-generated correspondence to applicant")
 
 5.  Select **Request Documents** action to request the constituent to re-upload the ‘Pre-Flagged’ documents.
 

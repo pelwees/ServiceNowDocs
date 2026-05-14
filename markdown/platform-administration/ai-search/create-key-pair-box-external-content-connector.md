@@ -80,7 +80,7 @@ To configure public/private key authentication for the connector, you need to cr
         openssl pkcs8 -topk8 -in private_key.pem -out encrypted_key.pem -v2 aes-256-cbc -v2prf hmacWithSHA256 -iter 10000 -saltlen 32
         ```
 
-    2.  When prompted, enter the secure password you generated in step [2](create-key-pair-box-external-content-connector.md#generate-secure-password-step).
+    2.  When prompted, enter the secure password you generated in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-key-pair-box-external-content-connector.md#generate-secure-password-step).
 
     3.  Store the generated `encrypted_key.pem` file in a secure location.
 
@@ -94,13 +94,13 @@ To configure public/private key authentication for the connector, you need to cr
         openssl pkey -in private_key.pem -pubout -out public_key.pem
         ```
 
-    2.  View or edit the content of the `public_key.pem` file that you generated in step [2](create-key-pair-box-external-content-connector.md#generate-secure-password-step).
+    2.  View or edit the content of the `public_key.pem` file that you generated in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-key-pair-box-external-content-connector.md#generate-secure-password-step).
 
     3.  Copy the PEM-encoded X.509 public key certificate text and store it in a secure location.
 
         The public key consists of all the text in the file, including the `-----BEGIN PUBLIC KEY-----` and `-----END PUBLIC KEY-----` markers.
 
-        ![PEM-encoded public key certificate text from public_key.pem file.](../image/public-key-pem-encoding.png)
+        ![PEM-encoded public key certificate text from public_key.pem file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/public-key-pem-encoding.png)
 
         **Important:** Your Box admin needs this PEM-encoded X.509 public key certificate text when configuring the OAuth 2.0 application for Box external content connector in the Box developer console.
 
@@ -123,7 +123,7 @@ PEM-encoded X.509 public key certificate text
 
 </td><td>
 
-Provide this text to your Box administrator. They will need to upload the PEM-encoded X.509 public key certificate text to the Box developer console when configuring an OAuth 2.0 application for the Box external content connector. For more information on configuring an OAuth 2.0 application in the Box developer console for the Box external content connector, see [Configure Box for external content indexing](configure-box-external-content-indexing.md).
+Provide this text to your Box administrator. They will need to upload the PEM-encoded X.509 public key certificate text to the Box developer console when configuring an OAuth 2.0 application for the Box external content connector. For more information on configuring an OAuth 2.0 application in the Box developer console for the Box external content connector, see [Configure Box for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-box-external-content-indexing.md).
 
 </td></tr><tr><td>
 
@@ -131,8 +131,8 @@ Encrypted private key file and password
 
 </td><td>
 
-Provide this encrypted private key file and its password to your connector admin. They will need the file and password when configuring the Box external content connector. For details on creating and configuring the Box external content connector, see [Create a Box external content connector](create-ext-cont-connector-box.md).
+Provide this encrypted private key file and its password to your connector admin. They will need the file and password when configuring the Box external content connector. For details on creating and configuring the Box external content connector, see [Create a Box external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-box.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Box external content connector](../concept/box-external-content-connector.md)
+</table>**Parent Topic:**[Box external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/box-external-content-connector.md)
 

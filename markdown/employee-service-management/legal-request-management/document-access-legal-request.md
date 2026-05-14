@@ -164,7 +164,7 @@ User is delegated
 -   Ad hoc approvers lose document access after they approve or reject the requested item.
 -   Delegates lose access after the delegation period expires.
 
-**Parent Topic:**[Manage attachments for a legal request](../task/manage-attachments-legal-request.md)
+**Parent Topic:**[Manage attachments for a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/manage-attachments-legal-request.md)
 
 ## Request document access for a legal request
 
@@ -180,7 +180,7 @@ Role required: sn\_lg\_ops.legal\_user or sn\_lg\_ops.legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **Legal Requests**, click **All**.
 
@@ -205,7 +205,7 @@ Role required: sn\_lg\_ops.request\_admin
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **Legal Requests**, click **All**.
 

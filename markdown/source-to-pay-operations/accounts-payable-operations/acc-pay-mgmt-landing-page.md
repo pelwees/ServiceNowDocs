@@ -19,27 +19,27 @@ This video provides a visual overview of Accounts Payable Operations and its key
 
 Accounts Payable Operations overview 
 
-![Landing page for Accounts Payable Operations explaining the value proposition.](../image/apm-value-proposition.png "Accounts Payable Operations value proposition")
+![Landing page for Accounts Payable Operations explaining the value proposition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apm-value-proposition.png "Accounts Payable Operations value proposition")
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how accounts payable specialists, employees, and suppliers use Accounts Payable Operations.](explore-acc-pay-mgmt.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how accounts payable specialists, employees, and suppliers use Accounts Payable Operations.](explore-acc-pay-mgmt.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-acc-pay-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-acc-pay-mgmt.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend the capabilities of Accounts Payable Operations by integrating with other applications.](integrate-apo.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend the capabilities of Accounts Payable Operations by integrating with other applications.](integrate-apo.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Work on invoices, view invoice statuses, identify and resolve invoice exceptions.](use-acc-pay-mgmt.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Work on invoices, view invoice statuses, identify and resolve invoice exceptions.](use-acc-pay-mgmt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/acc-pay-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/acc-pay-reference.md)
 
 </td><td>
 

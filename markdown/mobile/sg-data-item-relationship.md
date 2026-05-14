@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-A relationship data item is required to create an embedded list. Embedded lists are lists that can be embedded within a record screen. For more information on embedded lists in mobile, see [Embedded lists for a record screen](../concept/sg-embedded-list.md).
+A relationship data item is required to create an embedded list. Embedded lists are lists that can be embedded within a record screen. For more information on embedded lists in mobile, see [Embedded lists for a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-embedded-list.md).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Table
 
 </td><td>
 
-The table you want the data item to pull information from. This table is the table of records that is embedded as list on the parent record screen.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](sg-allow-custom-tables.md).
+The table you want the data item to pull information from. This table is the table of records that is embedded as list on the parent record screen.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-allow-custom-tables.md).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Use a script to determine the conditions of your data item. A text window to ent
 
 -   **Append Encoded Query**
 
-Use this option only when creating data items for your chart screens. For details on that data item type, see [Configure an encoded query data item for chart screens](sg-relative-url-data-item.md).
+Use this option only when creating data items for your chart screens. For details on that data item type, see [Configure an encoded query data item for chart screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-relative-url-data-item.md).
 
 </td></tr><tr><td>
 
@@ -171,5 +171,5 @@ Parameters
 
 ## What to do next
 
-After creating a relationship data item, create a list screen using this newly created data item. For more information, see [List screen configuration](sg-configure-list-screen.md).
+After creating a relationship data item, create a list screen using this newly created data item. For more information, see [List screen configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-list-screen.md).
 

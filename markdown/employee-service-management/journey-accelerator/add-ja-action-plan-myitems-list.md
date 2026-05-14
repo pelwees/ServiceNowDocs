@@ -17,7 +17,7 @@ Add a menu item for Journey Accelerator action plans to the header menus in the 
 
 ## Before you begin
 
-The latest Employee Center app installed on your instance. See, [Install Employee Center](../../employee-center/task/activate-ec.md).
+The latest Employee Center app installed on your instance. See, [Install Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../../employee-center/task/activate-ec.md).
 
 Role required: admin
 
@@ -38,5 +38,5 @@ Role required: admin
 
 ## What to do next
 
-Go to **Employee Center** &gt; **Activity Configuration**, and create an Employee Center activity configuration for the activity you created. See, [Create an Employee Center activity configuration](create-ja-activity-config.md).
+Go to **Employee Center** &gt; **Activity Configuration**, and create an Employee Center activity configuration for the activity you created. See, [Create an Employee Center activity configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-ja-activity-config.md).
 

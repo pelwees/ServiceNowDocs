@@ -31,5 +31,5 @@ See the following table for a description of the field values.
 |Script|
 |Script|Script to define the advanced assignment rule.|
 
-**Parent Topic:**[Create an assignment rule](../task/create-assignment-rule.md)
+**Parent Topic:**[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/create-assignment-rule.md)
 

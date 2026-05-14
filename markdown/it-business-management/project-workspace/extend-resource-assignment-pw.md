@@ -45,7 +45,7 @@ Procedure
 
 </td><td>
 
-1.  From the resource assignment pane, select the row context menu \(![Row context menu.](../../project-workspace/image/icon-row-context-menu.png)\) of resource assignment record and then select **Extend**.![Extend resource assignment.](../image/extend-resource-assignment-pw.png)
+1.  From the resource assignment pane, select the row context menu \(![Row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-workspace/image/icon-row-context-menu.png)\) of resource assignment record and then select **Extend**.![Extend resource assignment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/extend-resource-assignment-pw.png)
 2.  From the Extend Assignment window, modify the **New end date** and effort.
 3.  Select **Extend** to extend the resource assignment.
 
@@ -57,7 +57,7 @@ Procedure
 </td><td>
 
 1.  Navigate to **All** and enter `sn_plng_att_core_resource_assignment.LIST`.
-2.  Select the resource assignment record you want to extend and then select **Extend**. ![Extend resource assignment from resource assignment form.](../image/extend-resource-assignment-form-view.png)
+2.  Select the resource assignment record you want to extend and then select **Extend**. ![Extend resource assignment from resource assignment form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/extend-resource-assignment-form-view.png)
 
 **Note:** You can’t set the assignment's extended end date later than the task end date.
 
@@ -71,20 +71,20 @@ Procedure
 -   The assignment end date is updated and allocation is created based on resource's availability.
 -   The extended FTE or hours or person days is divided equally for the extended resource period.
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 
-[Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)
+[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md)
 
-[Update resource assignment from Project Workspace](update-resource-assignment-pw.md)
+[Update resource assignment from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/update-resource-assignment-pw.md)
 
-[Delete a resource assignment from Project Workspace](delete-resource-assignment-pw.md)
+[Delete a resource assignment from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/delete-resource-assignment-pw.md)
 
-[Update the resource allocation in a heatmap](view-allocations-heatmap-prj-wksp.md)
+[Update the resource allocation in a heatmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-allocations-heatmap-prj-wksp.md)
 
-[Realign resource assignment to project task](realign-resource-assignment-to-task.md)
+[Realign resource assignment to project task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 

@@ -1087,5 +1087,5 @@ Response:
 }
 ```
 
-**Parent Topic:**[Integrate Performance Analytics](../../../use/performance-analytics/concept/c_PAWebServiceIntegrations.md)
+**Parent Topic:**[Integrate Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../use/performance-analytics/concept/c_PAWebServiceIntegrations.md)
 

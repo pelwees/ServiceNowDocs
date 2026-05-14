@@ -15,7 +15,7 @@ breadcrumb: [Managing roles, User administration, Configure core features, Admin
 
 Administrators can assign one or more base system user roles to grant access to base system platform features and applications.
 
-To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
@@ -80,7 +80,7 @@ The administrator role. This role has access to all system features, functions, 
 
 -   **Special considerations**
 
-    Grant this privilege carefully. If you have sensitive information, such as HR records, that you must protect, create a custom admin role for that area. Train any users authorized to see those records to act as the administrator. Also note the [Special Administrative Roles](r_SpecialAdministrativeRoles.md#).
+    Grant this privilege carefully. If you have sensitive information, such as HR records, that you must protect, create a custom admin role for that area. Train any users authorized to see those records to act as the administrator. Also note the [Special Administrative Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_SpecialAdministrativeRoles.md#).
 
     **Note:** Users with roles related to the Key Management Framework can only be modified by admins with the kmf\_admin role. For details on KMF roles, see [Roles installed with Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf-roles.md).
 
@@ -114,7 +114,7 @@ Agent administrators can download and administer the built-in system agent. They
 
 ## AI search administrator \[ais\_admin\]
 
-AI search administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](../../ai-search/concept/overview-ais.md) application.
+AI search administrators can query, create, update, and delete indexing and search settings and log messages through the [AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../ai-search/concept/overview-ais.md) application.
 
 -   **Contains Roles**
 
@@ -1145,7 +1145,7 @@ Impersonators can impersonate users.
 
 -   **Special considerations**
 
-    For details on impersonation, see [Base system roles](r_BaseSystemRoles.md).
+    For details on impersonation, see [Base system roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
 
 
 ## Import administrator \[import\_admin\]
@@ -2834,7 +2834,7 @@ Workflow report viewers can access the workflow scratchpad for reports.
 
 ## Zing text search administrator \[ts\_admin\]
 
-Users with the ts\_admin role can administer the [Zing text indexing and search engine](../../search-administration/concept/c_ZingTextSearch.md).
+Users with the ts\_admin role can administer the [Zing text indexing and search engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../search-administration/concept/c_ZingTextSearch.md).
 
 -   **Contains Roles**
 
@@ -2859,12 +2859,12 @@ Users with the ts\_admin role can administer the [Zing text indexing and search 
     None.
 
 
--   **[Special administrative roles](r_SpecialAdministrativeRoles.md#)**  
+-   **[Special administrative roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_SpecialAdministrativeRoles.md#)**  
 Certain roles grant specific administrative rights without the full privileges of the admin role. For example, an administrator can grant a user the right to change UI policy but not client scripts.
--   **[Read-only role](../../user-administration/concept/c_ReadOnlyRole.md#)**  
+-   **[Read-only role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../user-administration/concept/c_ReadOnlyRole.md#)**  
 The read-only role \(snc\_read\_only\) restricts a user or a group of users to read-only access on the tables to which the user already has access.
--   **[Application specific roles](application-specific-roles.md)**  
+-   **[Application specific roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/application-specific-roles.md)**  
 Applications you install on your instance may include additional roles. Follow the links in this section to see roles installed along with applications.
 
-**Parent Topic:**[Managing roles](../concept/ua-creating-roles.md)
+**Parent Topic:**[Managing roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../concept/ua-creating-roles.md)
 

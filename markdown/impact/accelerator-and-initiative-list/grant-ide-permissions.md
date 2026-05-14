@@ -19,7 +19,7 @@ Review and approve Initiative and Accelerator activities access using **Manage P
 
 If you have pending Initiatives and Accelerators that require permissions to be granted, a message displays on the Impact homepage that directs you to **Manage Permissions**.
 
-![Banner linking to Manage Permissions on the Impact homepage.](../image/permissions-manager-pending.png)
+![Banner linking to Manage Permissions on the Impact homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/permissions-manager-pending.png)
 
 The following table contains available consent statuses and actions.
 
@@ -92,7 +92,7 @@ Role required: Impact Permissions Authorizer
 
 1.  Navigate to **Impact** &gt; **&lt;Your&gt; profile** &gt; **Manage Permissions** or select **Manage Permissions** from the homepage banner.
 
-    ![Manage Permissions navigation menu.](../image/ide-manage-permissions.png)
+    ![Manage Permissions navigation menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/ide-manage-permissions.png)
 
     Manage Permissions opens and you can filter the list by entering in the name of the Impact activity in the **Search** field or by **Consents** status.
 
@@ -102,17 +102,17 @@ Role required: Impact Permissions Authorizer
 
     2.  Select **Accept** or **Decline** to approve or deny a pending request.
 
-        ![Impact Permissions Manager](../image/permissions-management.png)
+        ![Impact Permissions Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/permissions-management.png)
 
 
 ## What to do next
 
 -   **Once permission has been granted, the Accelerator is active for users to start.**
 
-    Accelerators that require additional permissions prompt to update the permissions.![Impact Accelerator requiring permissions](../image/permissions-no.png)
+    Accelerators that require additional permissions prompt to update the permissions.![Impact Accelerator requiring permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/permissions-no.png)
 
 -   **Accelerators that have been granted permissions will display as such.**
 
-    The option to **Start Initiative** becomes available.![Impact Accelerator granted permissions](../image/permissions-yes.png)
+    The option to **Start Initiative** becomes available.![Impact Accelerator granted permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/../image/permissions-yes.png)
 
 

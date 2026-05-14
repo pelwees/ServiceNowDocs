@@ -24,7 +24,7 @@ You can monitor the status of the lifecycle cases, see trends, and drill down in
 
 ## Access the Financial Services Business Lifecycle dashboard
 
-To access the Financial Services Business Lifecycle dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Financial Services Business Lifecycle dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **Business Lifecycle** &gt; **Analytics**.
 
@@ -118,5 +118,5 @@ The following table shows the available filters in the Business Lifecycle Operat
 |Age|Bucket|Shows the age ranges in days for the Business Lifecycle cases.|
 |Service|List|Fetches the records for all the Business Lifecycle cases.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

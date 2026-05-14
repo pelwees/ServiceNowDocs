@@ -75,5 +75,5 @@ A platform is set to communicate with the Microsoft Exchange On-Premises MID ser
 
 ## What to do next
 
-[Create a strict mode Connection and credential alias for Microsoft Exchange On-Premises](create-connection-credential-alias-for-exchange-on-prem-in-strict-mode.md)
+[Create a strict mode Connection and credential alias for Microsoft Exchange On-Premises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-credential-alias-for-exchange-on-prem-in-strict-mode.md)
 

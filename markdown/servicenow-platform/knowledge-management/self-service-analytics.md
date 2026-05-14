@@ -25,21 +25,21 @@ Analyzing self-service deflection metrics has the following benefits:
 
 ## Activation information
 
-The Self-Service Analytics framework requires the Self-Service Analytics Core plugin \(com.snc.self\_service\_analytics\_core\). For more information, see [Activate Self-Service Analytics](../task/activate-ssa-cs.md).
+The Self-Service Analytics framework requires the Self-Service Analytics Core plugin \(com.snc.self\_service\_analytics\_core\). For more information, see [Activate Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-ssa-cs.md).
 
 **Note:** The data for the Communities and Virtual Agent channels are generated when the Communities plugin \(com.sn\_communities\) and Glide Virtual Agent plugin \(com.glide.cs.chatbot\) are activated respectively.
 
--   **[Self-Service Analytics concepts](ssa-concepts.md)**  
+-   **[Self-Service Analytics concepts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/ssa-concepts.md)**  
 You can quantify your self-service effectiveness by measuring case deflections.
 
-**Parent Topic:**[Knowledge Management](knowledge-management.md)
+**Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 
 **Related topics**  
 
 
-[Configure Self-Service Analytics](../task/config-ssa.md)
+[Configure Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/config-ssa.md)
 
-[Self-Service Analytics concepts](ssa-concepts.md)
+[Self-Service Analytics concepts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/ssa-concepts.md)
 
 [Platform Analytics Solutions for Self-Service Analytics for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/ssa-cs-content-pack.md)
 

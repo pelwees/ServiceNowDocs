@@ -15,18 +15,18 @@ Enable and configure email client.
 
 ## Configuration overview
 
--   **[Enable the email client for a table](../task/enable-email-client.md)**  
+-   **[Enable the email client for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/enable-email-client.md)**  
 Enable the email client for a table so that users can send emails directly from the table record.
--   **[Email client configurations](email-client-configuration.md)**  
+-   **[Email client configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md)**  
 Use email client configurations to manage the behavior of your email client. Each configuration consists of different email controls for setting allowable email recipients and email addresses.
--   **[Enable SMS delivery with the email client](../reference/r_EnableTheSMSDeliveryOption.md)**  
+-   **[Enable SMS delivery with the email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_EnableTheSMSDeliveryOption.md)**  
 Give users the option to send an email client message as an SMS text message.
--   **[Create an email client template](../task/t_CreateAnEmailClientTemplate.md#)**  
+-   **[Create an email client template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateAnEmailClientTemplate.md#)**  
 Create a different template for each table that uses the email client to pre-populate data for recipients and email content.
--   **[Composing emails with quick messages](quick-message.md)**  
+-   **[Composing emails with quick messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/quick-message.md)**  
 Insert predefined content into the message body of emails that you send from the email client.
--   **[Email address internationalization](email-address-internationalization.md)**  
+-   **[Email address internationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-address-internationalization.md)**  
 Email address internationalization allows international character support for email addresses for non-English characters when sending and receiving emails. Email addresses can have non American Standard Code for Information Interchange \(ASCII\) characters.
 
-**Parent Topic:**[Email client](email-client-landing.md)
+**Parent Topic:**[Email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-client-landing.md)
 

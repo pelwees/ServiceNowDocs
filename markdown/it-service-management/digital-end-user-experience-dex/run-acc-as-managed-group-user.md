@@ -41,5 +41,5 @@ Role required: admin
 6.  Select **OK**.
 
 
-**Parent Topic:**[Install ACC for DEX on Windows](install-acc-for-dex-windows.md)
+**Parent Topic:**[Install ACC for DEX on Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-acc-for-dex-windows.md)
 

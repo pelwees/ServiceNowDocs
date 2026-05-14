@@ -21,19 +21,19 @@ Service Portfolio Management enables portfolio owners and service owners to crea
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Portfolio Management concepts and features.](../concept/c_ServicePortfolioManagementv2.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Service Portfolio Management concepts and features.](../concept/c_ServicePortfolioManagementv2.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure service offerings, commitments, subscriptions, and the service catalog.](../concept/SPM2-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure service offerings, commitments, subscriptions, and the service catalog.](../concept/SPM2-configuring.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Service Portfolio Management to create and manage services, service offerings, portfolios, and service level agreements \(SLAs\).](../concept/SPM2-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Service Portfolio Management to create and manage services, service offerings, portfolios, and service level agreements \(SLAs\).](../concept/SPM2-using.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about Service Portfolio Management administration.](SPM2-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get information about Service Portfolio Management administration.](SPM2-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

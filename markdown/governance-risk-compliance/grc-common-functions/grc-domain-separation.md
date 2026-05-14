@@ -94,10 +94,10 @@ Records that are automatically generated, the domain of the record is determined
 
 **Note:** When the domain source is global or nil, then that object's domain will be set to Default.
 
--   **[Create a domain](../task/create-a-domain.md)**  
+-   **[Create a domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/create-a-domain.md)**  
 You can create a domain by creating a record in the \[domain\] table.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
 **Related topics**  
 

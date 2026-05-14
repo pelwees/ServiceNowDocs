@@ -17,7 +17,7 @@ Categorize your planning items based on your requirement by adding tags.
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -25,7 +25,7 @@ Role required: sn\_align\_core.apw\_user
 
 Tags enable you to categorize planning items. You create the tag name, which should name the reason for the tag. You can make the tags visible to everyone, some people, or just yourself. The visibility setting specifies who can use the tags to search for planning items.
 
-Any tagging additions or removals made to a planning item are automatically synced across all views in the Planning page and in the Scoring page. After tagging planning items, you can use the tags to search for planning items using the **Filter** option \(![Filter planning items using tags.](../../spw-prioritization/images/prioritization-filter-button.png)\) in the List view of Prioritization and in the Scoring page.
+Any tagging additions or removals made to a planning item are automatically synced across all views in the Planning page and in the Scoring page. After tagging planning items, you can use the tags to search for planning items using the **Filter** option \(![Filter planning items using tags.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/prioritization-filter-button.png)\) in the List view of Prioritization and in the Scoring page.
 
 ## Procedure
 
@@ -56,7 +56,7 @@ The tag is added to the planning item.
 
 You can add more tags.
 
- ![Add tags to a planning item from the grid view.](../../spw-prioritization/images/add-tags-to-planning-items-from-grid.gif)
+ ![Add tags to a planning item from the grid view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/add-tags-to-planning-items-from-grid.gif)
 
 </td></tr><tr><td id="d52024e166">
 
@@ -68,7 +68,7 @@ You can add more tags.
 
 The Details page of the planning item opens.
 
-2.  Select the Tag icon \(![Add tag to a planning item.](../../spw-prioritization/images/icon-tag-outline.png)\) next to the name of the planning item in the form header.
+2.  Select the Tag icon \(![Add tag to a planning item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/icon-tag-outline.png)\) next to the name of the planning item in the form header.
 3.  In the Tags window, fill the **Add Tag** field with a tag name.
 4.  Press **Enter** to add the tag.
 
@@ -76,14 +76,14 @@ The tag is added to the planning item.
 
 You can add more tags.
 
- ![Add tags to a planning item from the details page.](../../spw-prioritization/images/add-tags-to-planning-items-from-details-page.gif)
+ ![Add tags to a planning item from the details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/add-tags-to-planning-items-from-details-page.gif)
 
 </td></tr></tbody>
 </table>    **Note:** The tag visibility setting defaults to private, which means the tag is only visible to the user who created the tag. So, only the user who created the tag can use the tag to search for planning items labeled with that tag.
 
 4.  To change the visibility setting of the tag, on the Details page of the planning item, select the tag and change the **Viewable by** setting.
 
-    ![Edit tag in Portfolio Planning.](../../spw-prioritization/images/edit-tag-in-spw.png)
+    ![Edit tag in Portfolio Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/edit-tag-in-spw.png)
 
 <table id="choicetable_n2j_xn4_c3b"><tbody><tr><td id="d52024e243">
 
@@ -112,8 +112,8 @@ Tag is visible to everyone. **Note:** This visibility setting is only available 
 </td></tr></tbody>
 </table>    A planning item can have multiple tags and each can have a different visibility setting.
 
-    ![Tags with visibility settings.](../../spw-prioritization/images/tag-visibility-setting-spw.png)
+    ![Tags with visibility settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/tag-visibility-setting-spw.png)
 
-5.  To remove a tag from a planning item, double-click the cell in the Tag column on the List view or select the filled tag icon \(![Tag icon with tags](../../spw-prioritization/images/icon-filled-tag.png)\) on the Details page of the planning item to open the list of tags, then select the **X** next to the tag you want to remove.
+5.  To remove a tag from a planning item, double-click the cell in the Tag column on the List view or select the filled tag icon \(![Tag icon with tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/icon-filled-tag.png)\) on the Details page of the planning item to open the list of tags, then select the **X** next to the tag you want to remove.
 
 

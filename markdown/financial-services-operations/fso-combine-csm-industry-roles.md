@@ -39,7 +39,7 @@ For more information, see [Industry data model roles](https://raw.githubusercont
 
 The following diagram shows examples how you can combine various FSO roles with the CSM roles and assign them to appropriate FSO user groups.
 
-![Infographic shows FSO fulfiller and contributor roles combining with CSM fulfiller and requestor roles into common example roles groups such as loan agent and card contributor.](../image/fso-csm-contributor-industry-data-model.png "Example of FSO roles combined with roles in CSM industry data model and Contributor users")
+![Infographic shows FSO fulfiller and contributor roles combining with CSM fulfiller and requestor roles into common example roles groups such as loan agent and card contributor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-csm-contributor-industry-data-model.png "Example of FSO roles combined with roles in CSM industry data model and Contributor users")
 
 ## Example role combinations in Financial Services Loan Operations
 
@@ -52,5 +52,5 @@ The following are a few examples of how you can assign roles to users in Loan Op
 -   A loan relationship agent must be assigned Loan Agent Connector \[sn\_bom\_loan\_b2b.agent\_connector\] and CSM Relationship Agent \[sn\_customerservice.relationship\_agent\] roles.
 -   A loan location agent for a business location must be assigned Loan Agent Connector \[sn\_bom\_loan\_b2b.agent\_connector\] and CSM Location Agent \[sn\_customerservice.svc\_location\_agent\] roles.
 
-![Infographic displaying the titles of the various Loan operations role employees combined with various CSM agent and contributor roles.](../image/example-fso-csm-combine-roles.png "Examples of loan operations roles combined with CSM roles")
+![Infographic displaying the titles of the various Loan operations role employees combined with various CSM agent and contributor roles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/example-fso-csm-combine-roles.png "Examples of loan operations roles combined with CSM roles")
 

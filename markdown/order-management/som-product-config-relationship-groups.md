@@ -27,7 +27,7 @@ Bundled product offerings can be other bundles or individual product offerings.
 
 Assign child product offerings in a bundle to the product offering relationship group, which presents the options in logical groups on the product configurator to the agent. The following example shows how product offering groups appear in the product configurator.
 
-![The image shows the product configurator in the Sales Customer Relationship Management application that lets agents select options when building product orders.](../image/l2c-rel-groups-product-configurator.png)
+![The image shows the product configurator in the Sales Customer Relationship Management application that lets agents select options when building product orders.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/l2c-rel-groups-product-configurator.png)
 
 ## Procedure
 
@@ -57,11 +57,11 @@ Assign child product offerings in a bundle to the product offering relationship 
 
 ## What to do next
 
--   [Create product characteristics and characteristic options](som-product-config-add-characteristics.md)
--   [Add product visuals](som-product-config-add-visuals.md)
--   [Add product catalog categories](som-product-config-offering-categories.md)
--   [Create product offering relationships](som-product-config-offering-relationships.md)
--   [Add related contracts to product offerings](som-product-config-related-contracts.md)
--   [Add a unit of measure to a product offering](som-product-config-add-unit-of-measure.md)
--   [Create a product offering version](som-product-config-create-new-version.md)
+-   [Create product characteristics and characteristic options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)
+-   [Add product visuals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Create product offering relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-relationships.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
 

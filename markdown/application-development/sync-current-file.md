@@ -19,7 +19,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Click the **Sync** icon ![Sync current file icon](../image/vscode-sync-current-file.png) from the menu on the top-right corner of the Visual Studio Code IDE.
+1.  Click the **Sync** icon ![Sync current file icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-sync-current-file.png) from the menu on the top-right corner of the Visual Studio Code IDE.
 
     You can also use a keyboard shortcut Control+Shift+P in Windows and Command+Shift+P in MacOS to open the command palette and choose **Now: Sync Current File** from the list.
 
@@ -30,11 +30,11 @@ Role required: admin
 
     -   Compare the **Server** and **Client** version using the **Diff** window, and evaluate the changes.
     -   Override the **Server** or **Client** changes.
-    ![Conflicting Files changes list](../image/vscode-conflict-changes.png "Conflicting Files list")
+    ![Conflicting Files changes list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-conflict-changes.png "Conflicting Files list")
 
 3.  Check for the differences in the **Conflicting Files** list.
 
-    ![Conflicting changes display](../image/vscode-opendiff.png "Conflicting changes display")
+    ![Conflicting changes display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-opendiff.png "Conflicting changes display")
 
     A dialog box displays the following options:
 
@@ -46,7 +46,7 @@ Role required: admin
 
     You can see two versions of the file with the differences highlighted.
 
-    ![Window showing differences between client and server](../image/vscode-differences-sync.png "Differences in client and server")
+    ![Window showing differences between client and server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-differences-sync.png "Differences in client and server")
 
 5.  Make changes to the server version from the client version and save the file.
 
@@ -55,5 +55,5 @@ Role required: admin
     The changes are successfully synchronized upon the next synchronization. When the changes are merged successfully, the message **Sync completed successfully** appears at the bottom of the page.
 
 
-**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](../concept/vscode-sync.md)
+**Parent Topic:**[Synchronization between Visual Studio Code and a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vscode-sync.md)
 

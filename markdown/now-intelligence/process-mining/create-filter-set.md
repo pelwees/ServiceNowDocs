@@ -32,7 +32,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 The Filter set list contains the new filter set.
 
-**Parent Topic:**[Filtering project data](filter-project.md)
+**Parent Topic:**[Filtering project data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-project.md)
 
 ## Update a filter set
 
@@ -69,7 +69,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 As you add filters from the Filters tab, a list of selected filters shows you new values currently selected but not yet applied. The Applied filters list also shows currently applied filter values and the panel categories they were added from.
 
-![Selected filters list](../image/selected-filters-list.png)
+![Selected filters list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/selected-filters-list.png)
 
 ### Procedure
 

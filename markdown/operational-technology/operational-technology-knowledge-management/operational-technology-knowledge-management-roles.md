@@ -53,5 +53,5 @@ The knowledge administrator can perform all the administrative tasks that are as
 -   The knowledge role comes as a subordinate role.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Technology Knowledge Management reference](operational-technology-knowledge-management-reference-landing-page.md)
+</table>**Parent Topic:**[Operational Technology Knowledge Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-reference-landing-page.md)
 

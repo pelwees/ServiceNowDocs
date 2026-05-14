@@ -17,7 +17,7 @@ You can link Policy and Compliance Management content and items to Performance A
 
 The risks and controls associated with a PA indicator or PA indicator/breakdown/element automatically monitor any PA threshold with the same PA indicator or PA indicator, breakdown, or element relationship. Any PA threshold breach is reported at the risk or control and Performance Analytics indicators relationship level within a breach counter.
 
-![Performance analytics integration overview.](../../grc-common/image/pa-integration.png)
+![Performance analytics integration overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/pa-integration.png)
 
 ## PA threshold breach impact
 
@@ -34,7 +34,7 @@ There are two reports for the reporting of breaches:
 -   Risk PA Indicator Breaches
 -   Control PA Indicator Breaches
 
-**Parent Topic:**[Classic UI for Policy and Control Management](using-policy-compliance-legacy-ui.md)
+**Parent Topic:**[Classic UI for Policy and Control Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/using-policy-compliance-legacy-ui.md)
 
 ## Activate GRC: Performance Analytics Integration
 
@@ -70,7 +70,7 @@ After activating the GRC: Performance Analytics Integration plugin on an instanc
 **Related topics**  
 
 
-[List of plugins](../../grc-common/task/activate-grc-pa-prem-integ.md)
+[List of plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/task/activate-grc-pa-prem-integ.md)
 
 ## Associate a PA indicator with a risk statement or control objective
 

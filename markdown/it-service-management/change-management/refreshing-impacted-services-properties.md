@@ -89,5 +89,5 @@ com.snc.change\_request.refresh\_impacted\_services.message.show
 -   When false, the `Refresh impacted services is initiated` message doesn't appear.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Refresh impacted services and CIs for Change](../task/refresh-impacted-services-cis.md)
+</table>**Parent Topic:**[Refresh impacted services and CIs for Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/refresh-impacted-services-cis.md)
 

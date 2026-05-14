@@ -112,5 +112,5 @@ Japanese Localization for CPQ admin UI: The CPQ admin UI supports internationali
     Sales Customer Relationship Management applications enable you to manage the product sales life cycle in your organization. This includes pre-sales leads and opportunities, sales quote generation, order capture, order fulfillment, order and invoice cases, and post-sales order changes and contract renewals.
 
 
-**Parent Topic:**[Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md)
+**Parent Topic:**[Sales Customer Relationship Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/sales-order-management-rn-landing.md)
 

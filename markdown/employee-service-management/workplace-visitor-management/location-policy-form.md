@@ -25,24 +25,24 @@ Use the location policy form to assign a visitor policy to a workplace location,
 |Required for external|Option to enable the policy for external visitors.|
 |Require signature for external|Option to enable signatures for external visitors to acknowledge the policy. The visitor signature is stored in the visitor policy confirmation record.|
 
-**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+**Parent Topic:**[Workplace Visitor Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Visitor Management](components-installed-with-workplace-visitor-mgmt.md)
+[Components installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/components-installed-with-workplace-visitor-mgmt.md)
 
-[Properties installed with Workplace Visitor Management](properties-installed-with-workplace-visitor-mgmt.md)
+[Properties installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/properties-installed-with-workplace-visitor-mgmt.md)
 
-[Kiosk Check-in Flow Configuration form](kiosk-check-in-config-form.md)
+[Kiosk Check-in Flow Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-check-in-config-form.md)
 
-[Kiosk Check-out Flow Configuration form](kiosk-check-out-config-form.md)
+[Kiosk Check-out Flow Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-check-out-config-form.md)
 
-[Kiosk Page Configuration form](kiosk-page-config-form.md)
+[Kiosk Page Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-config-form.md)
 
-[Kiosk Page Customizations](kiosk-page-customizations.md)
+[Kiosk Page Customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-customizations.md)
 
-[New visit form](new-visit-form.md)
+[New visit form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/new-visit-form.md)
 
-[Additional requirement form](additional-req-form.md)
+[Additional requirement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/additional-req-form.md)
 

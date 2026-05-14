@@ -33,5 +33,5 @@ Triggers the automation when the Start method is executed.
 
 Stops the automation when the Start method is executed.
 
-**Parent Topic:**[IdleTimer connector](../concept/idletimer-connector.md)
+**Parent Topic:**[IdleTimer connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/idletimer-connector.md)
 

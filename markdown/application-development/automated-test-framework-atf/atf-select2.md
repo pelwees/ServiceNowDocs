@@ -23,7 +23,7 @@ Select the **Set Component Value** option under **Action** to search for a compo
 
 **Note:** If multiple, similarly named component options show up on searching a term, only the first option is selected.
 
-![Gif showing the select2 functionalities](../image/select2.gif "Select2 component")
+![Gif showing the select2 functionalities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/select2.gif "Select2 component")
 
 ## Limitations of the select2 support
 
@@ -40,5 +40,5 @@ Search and select your options efficiently with the following design considerati
 -   Prevent failing of tests by avoiding jquery library name change
 -   Select2 Adapter and Decorator features are not supported
 
-**Parent Topic:**[Custom UI test steps](custom-ui-test-steps.md)
+**Parent Topic:**[Custom UI test steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/custom-ui-test-steps.md)
 

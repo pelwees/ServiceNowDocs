@@ -36,12 +36,12 @@ Role required: admin
 7.  Select **Confirm**.
 
 
-**Parent Topic:**[Now Support administration](now-support-administration.md)
+**Parent Topic:**[Now Support administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/now-support-administration.md)
 
 **Related topics**  
 
 
-[View Now Support users](view-now-support-users.md)
+[View Now Support users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/view-now-support-users.md)
 
-[Create a user in Now Support](create-a-user-in-now-support.md)
+[Create a user in Now Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-a-user-in-now-support.md)
 

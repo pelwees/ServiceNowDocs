@@ -28,13 +28,13 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 3.  Select a skill you would like to archive.
 
-    ![Archive a skill](../image/na-skill-archive.png)
+    ![Archive a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-skill-archive.png)
 
     You can archive custom skills and copies of skills, only.
 
 4.  Confirm your selection in the modal.
 
-    ![Modal for skill archival](../image/na-skill-archive-modal.png)
+    ![Modal for skill archival](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-skill-archive-modal.png)
 
 5.  In the navigation pane, select **Archive**.
 
@@ -42,7 +42,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 7.  Restore an archived skill you would like to activate.
 
-    ![Restore an archived skill](../image/na-skill-archive-restore.png)
+    ![Restore an archived skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-skill-archive-restore.png)
 
 8.  Select **Restore** to find the skill in your instance.
 
@@ -50,8 +50,8 @@ Role required: sn\_generative\_ai.nsa\_admin
 
     You may find specific skills within **Archive** for which **Activate** option is unavailable. These are business unit skills that are deprecated. You will find these in your instance like:
 
-    ![Deprecated skills](../image/na-skill-deprecate.png)
+    ![Deprecated skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-skill-deprecate.png)
 
 
-**Parent Topic:**[Using Now Assist Admin](../concept/using-now-assist-admin_0.md)
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/using-now-assist-admin_0.md)
 

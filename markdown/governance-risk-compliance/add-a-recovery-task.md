@@ -21,15 +21,15 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 Beginning with the Xanadu release, cyclic dependencies in recovery tasks can be avoided to prevent repeated invocation of the same plan from other plans.
 
-![Plan record tabs.](../image/plan-record-tabs.png)
+![Plan record tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plan-record-tabs.png)
 
 For example, in the Recovery task of Cyclic plan example 1 invokes Cyclic plan example 2, Cyclic plan example 2 invokes Cyclic plan example 3 and then again Cyclic plan example 3 invokes Cyclic plan example 1. If you attempt to add a link bet Cyclic plan example 2 and Cyclic plan example 3, it isn’t allowed. An error message, similar to the one shown in the example, prompts you to choose a different related plan to help prevent such issues from occurring in an event.
 
-![Cyclic plan error message.](../image/cyclic-plan-error-message.png)
+![Cyclic plan error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/cyclic-plan-error-message.png)
 
 Similarly, if plans are activated beyond 10 levels or hierarchical links involving more than 10 levels of plans are created, an error message is displayed, suggesting the removal of the plan before saving the record.
 
-![Plan levels.](../image/cyclic-plan-levels.png)
+![Plan levels.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/cyclic-plan-levels.png)
 
 Starting from version 6.1.x of the Business Continuity Management application, the integration of recovery task automation into the business continuity planning process is introduced. This automation aims to enhance efficiency, save time, and minimize the risk of human errors. Users who have the necessary access to the recovery task can classify it as either manual or automated. These tasks are organized in a sequential manner with dependencies.
 
@@ -66,27 +66,27 @@ To automate a recovery task, administrators or application developers create an 
 
     The Create New Recovery task form is displayed.
 
-    ![Create New Recovery task form.](../image/create-new-recovery-task.png)
+    ![Create New Recovery task form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-recovery-task.png)
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Create New Recovery task form](../reference/create-new-recovery-task-form.md).
+    For more information on the fields in the form, see [Create New Recovery task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-recovery-task-form.md).
 
 5.  Assign a phase to the recovery task.
 
     The Phase column is available in both the list and form views of a recovery task.
 
-    ![Phase column.](../image/reco-task-phase-column.png)
+    ![Phase column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/reco-task-phase-column.png)
 
     BCM administrators and managers can update recovery task phases using inline editing. BCM planners can also update phases, but only if they are the plan owners.
 
     Only active phases are available for selection in the Phase column as shown in the example.
 
-    ![Phases for selection.](../image/phase-column-recovery-task.png)
+    ![Phases for selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/phase-column-recovery-task.png)
 
     The phases of a recovery task can also be updated by modifying the Phase field in the form itself.
 
-    ![Phase field on the form.](../image/phase-field-in-recovery-task.png)
+    ![Phase field on the form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/phase-field-in-recovery-task.png)
 
 6.  To exclude specific tasks from time calculation, select the **Do not include in time calculation** option.
 
@@ -106,7 +106,7 @@ To automate a recovery task, administrators or application developers create an 
 
     In plans, the Asset recovery level column features color coding, offering visual cues for various recovery progress levels. Specifically, "partially recovered" is denoted by an info color, while "recovered" is indicated by a success color, making it easier to track recovery status at a glance.
 
-    ![Asset Recovery Level column.](../image/asset-reco-level-column.png)
+    ![Asset Recovery Level column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asset-reco-level-column.png)
 
     **Note:**
 
@@ -121,8 +121,8 @@ To automate a recovery task, administrators or application developers create an 
     The updated recovery tasks are now displayed in the UI.
 
 
--   **[Create New Recovery task form](../reference/create-new-recovery-task-form.md)**  
+-   **[Create New Recovery task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-recovery-task-form.md)**  
 Use the Create New Recovery task form in the BCM Configurable Workspace to input the necessary details regarding the recovery task.
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

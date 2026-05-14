@@ -25,7 +25,7 @@ The Document Processor service determines which documents \(inbound and outbound
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Document Service**, open the task list.
 
@@ -92,5 +92,5 @@ If the customer is not able to submit a document and seeks an exemption from sub
 -   The document task moves to the Closed Complete state and the associated case moves to the next stage.
 -   A new task that is based on the configured workflow is automatically generated in a respective task tab of the associated case. The new task is assigned to an assignment group or agent based on the assignment rules.
 
-**Parent Topic:**[Work on a policy service case](work-commercial-policy-case.md)
+**Parent Topic:**[Work on a policy service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-commercial-policy-case.md)
 

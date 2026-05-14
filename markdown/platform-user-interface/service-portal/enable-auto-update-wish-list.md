@@ -49,13 +49,13 @@ Role required: admin or sp\_admin
                   "value": true}
         ```
 
-    ![Screenshot to automatically update the wish list](../image/auto-update-wish-list.png "Automatic updates to the wish list")
+    ![Screenshot to automatically update the wish list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/auto-update-wish-list.png "Automatic updates to the wish list")
 
 
-**Parent Topic:**[SC Wish List Cart widget](../concept/sc-wish-list.md)
+**Parent Topic:**[SC Wish List Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sc-wish-list.md)
 
 **Related topics**  
 
 
-[Enable the SC Wish List Cart widget in Service Portal](enable-wish-list-portal.md)
+[Enable the SC Wish List Cart widget in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-wish-list-portal.md)
 

@@ -23,7 +23,7 @@ Input variables determine the initial behavior of the activity.
 
 |Field|Description|
 |-----|-----------|
-|Lock key|The Mutex key that releases the lock. This key must match the key specified by a **Lock** activity. For more information, see [Lock activity](r_LockActivity-1.md).|
+|Lock key|The Mutex key that releases the lock. This key must match the key specified by a **Lock** activity. For more information, see [Lock activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_LockActivity-1.md).|
 
 ## States
 

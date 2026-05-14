@@ -265,7 +265,7 @@ com.snc.fsm\_advanced\_parts\_sourcing
 
 </td><td>
 
-Enables Field Service agents to request and source multiple parts. Agents can receive mobile notifications when part requests are raised by their peers. **Note:** This plugin installs several system components such as tables, business rules, and scripts. For more information, see [Advanced Part Sourcing components](advanced-part-souring-components.md).
+Enables Field Service agents to request and source multiple parts. Agents can receive mobile notifications when part requests are raised by their peers. **Note:** This plugin installs several system components such as tables, business rules, and scripts. For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/advanced-part-souring-components.md).
 
 </td></tr><tr><td>
 
@@ -367,5 +367,5 @@ Enables users to quickly view important information about records.
 </table>**Related topics**  
 
 
-[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

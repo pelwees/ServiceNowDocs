@@ -27,10 +27,10 @@ Role required: sn\_wsd\_move.manager
     -   **Open tasks:** Select this option to view open move tasks.
     -   **All move tasks**: Select this option to view all the move tasks.
 
-**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](../concept/analytics-reporting-solution.md)
+**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/analytics-reporting-solution.md)
 
 **Related topics**  
 
 
-[View move requests](view-move-requests.md)
+[View move requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/view-move-requests.md)
 

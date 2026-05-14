@@ -16,7 +16,7 @@ Field descriptions for creating and configuring Employee Slate announcements in 
 
 ## Announcement details
 
-To create an announcement, see [Create an Employee Slate announcement](../task/eslate-create-announcement.md)
+To create an announcement, see [Create an Employee Slate announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/eslate-create-announcement.md)
 
 |Field|Description|
 |-----|-----------|
@@ -40,7 +40,7 @@ To create an announcement, see [Create an Employee Slate announcement](../task/e
 
 ## Content priority levels
 
-To create an announcement through chat, see [Conversational authoring for announcements](../concept/eslate-conversational-authoring-announcements.md).
+To create an announcement through chat, see [Conversational authoring for announcements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/eslate-conversational-authoring-announcements.md).
 
 |Priority level|Behavior|
 |--------------|--------|

@@ -40,7 +40,7 @@ Role required: admin
     -   Custom: The app is distributed only to users or groups you choose.
 9.  Click **Next**.
 
-10. In the App Configuration section, click the add icon \(![MobileIron add icon](../image/MIPlusIcon.png)\) next to **iOS Managed App Configuration**.
+10. In the App Configuration section, click the add icon \(![MobileIron add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/MIPlusIcon.png)\) next to **iOS Managed App Configuration**.
 
 11. In the **Name** field, enter a name for the configuration, for example, Default Instance.
 
@@ -65,5 +65,5 @@ Role required: admin
 
 The ServiceNow app for iOS appears in the App Catalogs section on the MobileIron Portal. Mobile users can download it from the MobileIron App Catalog.
 
-**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](../concept/mobileiron-mdm.md)
+**Parent Topic:**[MobileIron Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobileiron-mdm.md)
 

@@ -104,5 +104,5 @@ Assigned to
 User that the task should be assigned to.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Guided Tasks reference](industrial-guided-tasks-reference.md)
+</table>**Parent Topic:**[Industrial Guided Tasks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-guided-tasks-reference.md)
 

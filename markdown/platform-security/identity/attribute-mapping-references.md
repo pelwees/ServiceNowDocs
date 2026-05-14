@@ -19,7 +19,7 @@ The attribute mappings enables you to use the attributes as a single source of r
 
 The attribute for which mapping needs to be defined. For example, **userName**.
 
-![Attribute - userName](../images/attribute-username.png)
+![Attribute - userName](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-username.png)
 
 ## Sub-Attribute
 
@@ -29,7 +29,7 @@ For example, if there is a complex type attribute like **name.familyName**, then
 
 For simple attributes like user name, the **Sub-Attribute** value would be **None**.
 
-![Attribute Name and Sub-Attribute Family Name](../images/attribute-name.png)
+![Attribute Name and Sub-Attribute Family Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-name.png)
 
 ## Filter Condition
 
@@ -39,11 +39,11 @@ For example, the **phoneNumbers** attribute has multiple types like work, mobile
 
 You can specify a Filter Condition from a set of possible values. For example, the **phoneNumber** attribute can have the Filter Condition as **type eq "mobile"**.
 
-![Attribute Phone Number with Filter Condition Mobile](../images/attribute-phonenumber-mobile.png)
+![Attribute Phone Number with Filter Condition Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-phonenumber-mobile.png)
 
 The **phoneNumber** attribute can instead have a Filter Condition as **type eq "work"**.
 
-![Attribute Phone Number with Filter Condition Work](../images/attribute-phonenumber-work.png)
+![Attribute Phone Number with Filter Condition Work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-phonenumber-work.png)
 
 ## Database Field Name
 
@@ -51,15 +51,15 @@ If the direct attribute mapping option is chosen, then this attribute needs to b
 
 For example, the **username** SCIM Attribute can be mapped to a user as the **Database Table Name** field, and to the user ID field as the **Database Field Name** field.
 
-![Database Field Name](../images/attribute-databasename.png)
+![Database Field Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-databasename.png)
 
 You can also dot-walk using the **Database Field Name**. For example, the **department** SCIM Attribute can be mapped to the **Department Name** field.
 
-![Attribute - Dot walk](../images/attribute-dot-mapping.png)
+![Attribute - Dot walk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-dot-mapping.png)
 
 Here the Database Table is **User** and the Database field Name is **Department Name**.
 
-![Attribute - Department Name](../images/attribute-departmentname.png)
+![Attribute - Department Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-departmentname.png)
 
 ## Default Value
 
@@ -69,7 +69,7 @@ In the case of a hard-coded value, the database table name and field name should
 
 For example, the primary sub-attribute value of work email can be hard coded as **true**.
 
-![Attribute Default Value](../images/attribute-default-value.png)
+![Attribute Default Value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-default-value.png)
 
 ## Script
 
@@ -77,13 +77,13 @@ The script is used to fetch the attribute value. The return type of the script s
 
 The following is a sample script for a multi-valued attribute.
 
-![Attribute Script](../images/attribute-script.png)
+![Attribute Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-script.png)
 
 The output of the script should have a stringified JSON Array.
 
 The following is a sample Script of a simple-valued Attribute.
 
-![Attribute Employee Number - Run script](../images/attribute-employeenumberscript.png)
+![Attribute Employee Number - Run script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/attribute-employeenumberscript.png)
 
 The output of the script should be a string.
 

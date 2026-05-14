@@ -128,7 +128,7 @@ Frequency of recurring pricing:-   Monthly
 **Related topics**  
 
 
-[Copy a cost book](copy-cost-book.md)
+[Copy a cost book](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/copy-cost-book.md)
 
-[Control the default cost book on transaction header or header line](som-control-default-costbook.md)
+[Control the default cost book on transaction header or header line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-control-default-costbook.md)
 

@@ -44,7 +44,7 @@ For more information on the computation of non-standard and missing clauses, see
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    ![Now Assist skills available for Contract Management Pro.](../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
+    ![Now Assist skills available for Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-NA-skills.png "Now Assist skills for Contract Management Pro")
 
 4.  In the General details page, view the skill details and select **Save and continue**.
 
@@ -115,7 +115,7 @@ Displays the skill name for which you’re creating the use case.
 
     1.  In the New field window, select **Question group**.
 
-        ![Question group card in add field page.](../image/cmpro-na-question-group.png "Question group")
+        ![Question group card in add field page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-question-group.png "Question group")
 
         **Note:** Add a question group, and then define the questions within that question group to ensure that questions are linked to a question group.
 
@@ -156,13 +156,13 @@ This field should be left empty.
 </td></tr></tbody>
 </table>    3.  Select **Add questions**.
 
-        ![Adding questions in a Question group page.](../image/cmpro-na-add-questions.png "Question group page")
+        ![Adding questions in a Question group page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-add-questions.png "Question group page")
 
     4.  Enter details for the field.
 
         For more information on the field form, see [Question form for use case setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-qna-single-field-form.md).
 
-        ![Question details in the fields page.](../image/cmpro-na-add-fields.png "Fields page")
+        ![Question details in the fields page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-add-fields.png "Fields page")
 
     5.  Select **Save**.
 
@@ -197,18 +197,18 @@ The use case for Contract analysis skill is created.
 
 ## What to do next
 
-[Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md)
+[Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md)
 
-**Parent Topic:**[Configuring contract analysis](../concept/cmpro-conf-contract-analysis.md)
+**Parent Topic:**[Configuring contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-contract-analysis.md)
 
 **Related topics**  
 
 
-[Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md)
+[Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md)
 
-[Map a field to an expected response](cmpro-na-exp-res-mapping.md)
+[Map a field to an expected response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-exp-res-mapping.md)
 
-[Map a use case for contract analysis](cmpro-na-usecase-mappings-ca.md)
+[Map a use case for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-ca.md)
 
-[Select large language models for use cases in Now Assist in Contract Management](cmpro-na-manage-llm.md)
+[Select large language models for use cases in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-manage-llm.md)
 

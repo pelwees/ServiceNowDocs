@@ -107,5 +107,5 @@ Exceptionally, when a contract line or entitlement in the Suspended state has re
 
 A customer contract line associated with a customer contract must be created within the customer contract's start and end dates. Any modification to the dates of customer contract lines must comply with the date range of the parent service contract.
 
-**Parent Topic:**[Customer Contracts and Entitlements reference](pss-reference.md)
+**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 

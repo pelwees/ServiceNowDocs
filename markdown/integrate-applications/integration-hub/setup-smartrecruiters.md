@@ -91,7 +91,7 @@ Role required: admin
     |Connection Name|Name of the SmartRecruiters connection. This field populates automatically.|
     |Connection URL|URL for the connection. This field is automatically set to **https://api.smartrecruiters.com**.|
     |Credential Information|
-    |API Key|API key for your SmartRecruiters applications. Enter the same API key that you generated in [Generate a SmartRecruiters API key](setup-smartrecruiters.md#).|
+    |API Key|API key for your SmartRecruiters applications. Enter the same API key that you generated in [Generate a SmartRecruiters API key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-smartrecruiters.md#).|
 
 5.  Click **Create Connection**.
 

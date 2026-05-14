@@ -17,7 +17,7 @@ Inline citations are intended to show from which ServiceNow knowledge articles t
 
 ## Before you begin
 
-For more information about Now Assist in Virtual Agent citations, see [Using Now Assist in Virtual Agent](../concept/using-now-assist-in-va.md).
+For more information about Now Assist in Virtual Agent citations, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/using-now-assist-in-va.md).
 
 Role required: admin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 3.  In the **Custom Greetings and Setup Messages** tab, select **Starting "\{0\}"** to modify the LLM-generated message in the citation.
 
-    ![Customize the LLM-generated message in the citation.](../image/NAinVA-context-profile-list.png "Customize the LLM-generated message in the citation")
+    ![Customize the LLM-generated message in the citation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-context-profile-list.png "Customize the LLM-generated message in the citation")
 
 4.  Select **Update**.
 

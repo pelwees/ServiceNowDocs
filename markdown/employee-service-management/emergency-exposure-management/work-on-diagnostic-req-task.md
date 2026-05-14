@@ -21,7 +21,7 @@ Role required: sn\_imt\_diagnosis.diagnostics\_admin or admin
 
 ## About this task
 
-The diagnostic request task is created from the diagnostic request task configuration for the data source type selected in the Diagnostic Request form. For more information, see [Create or modify a diagnostic request task configuration](create-diagnostic-task-config.md).
+The diagnostic request task is created from the diagnostic request task configuration for the data source type selected in the Diagnostic Request form. For more information, see [Create or modify a diagnostic request task configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/create-diagnostic-task-config.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ The diagnostic request task is created from the diagnostic request task configur
 
 The state of the diagnostic request task updates to Close. The potentially exposed users from the data source are added to the corresponding related list on the Diagnostic Request form.
 
-**Parent Topic:**[Identify potentially exposed users](use-emergency-exposure-mgnt.md)
+**Parent Topic:**[Identify potentially exposed users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/use-emergency-exposure-mgnt.md)
 
 ## Fetch potentially exposed user data from Cisco DNA Spaces
 
@@ -70,7 +70,7 @@ Steps
 
 </td><td>
 
-1.  Click the manage attachments icon \(![Manage attachments icon](../image/icon-manage-attachments.png)\).
+1.  Click the manage attachments icon \(![Manage attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/../image/icon-manage-attachments.png)\).
 2.  In the Attachments window, click **Choose file** and select a Wi-Fi access log file.
 3.  Select **Closed** in the State list.
 4.  Click **Update**.
@@ -110,7 +110,7 @@ Role required: sn\_imt\_diagnosis.diagnostics\_admin or admin
 
 ### Procedure
 
-1.  Click the manage attachments icon \(![Manage attachments icon](../image/icon-manage-attachments.png)\).
+1.  Click the manage attachments icon \(![Manage attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/../image/icon-manage-attachments.png)\).
 
 2.  In the Attachments window, click **Choose file** and select a Zebra MotionWorks proximity report spreadsheet.
 

@@ -83,10 +83,10 @@ Enter a useful description for the document.
     -   You can download the attachments only when the scan is successful.
     -   The user who posted the document and community administrators receive a notification that an attachment is infected.
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 
 **Related topics**  
 
 
-[Disable comments](disable-comments.md)
+[Disable comments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-comments.md)
 

@@ -134,5 +134,5 @@ Attachments associated with the entity that are displayed in the side panel.
 </table>5.  To save the entity filter, click **Save**.
 
 
-**Parent Topic:**[Entity filters](../../grc-common/concept/what-is-an-entity-filter.md)
+**Parent Topic:**[Entity filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/concept/what-is-an-entity-filter.md)
 

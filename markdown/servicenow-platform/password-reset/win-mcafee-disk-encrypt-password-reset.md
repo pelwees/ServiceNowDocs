@@ -27,13 +27,13 @@ You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows deskt
 
 2.  On the Policy Catalog, select **Product** &gt; **Drive Encryption 7.2.0** and select **Category** &gt; **Product Settings**
 
-    ![Category Product Settings](../image/epo-policy-catalog.png)
+    ![Category Product Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/epo-policy-catalog.png)
 
 3.  Click the **Name** of your policy catalog \(**My Default** in the example\).
 
 4.  On the **Log On** tab, select the **V7.2 Onwards** tab and then select the **Allow integrated third-party credential providers ...** check box.
 
-    ![Allow integrated third-party credential providers](../image/epo-log-on-tab.png)
+    ![Allow integrated third-party credential providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/epo-log-on-tab.png)
 
 5.  Click **Save** and then log out of ePO.
 
@@ -53,5 +53,5 @@ You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows deskt
 7.  Restart the computer.
 
 
-**Parent Topic:**[Installing and configuring Password Reset Windows Application](../concept/install-configure-password-reset-windows-app.md)
+**Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/install-configure-password-reset-windows-app.md)
 

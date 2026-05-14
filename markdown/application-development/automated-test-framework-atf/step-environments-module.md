@@ -17,5 +17,5 @@ A test step environment specifies where the step executes \(for example, server 
 
 In this release, you cannot add custom test step environments.
 
-**Parent Topic:**[Administration](../reference/atf-test-admin-module.md)
+**Parent Topic:**[Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-admin-module.md)
 

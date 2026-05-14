@@ -21,6 +21,6 @@ For the mapping step, you must first ingest sample offenses for one or more sele
 
 Mapping of the sample offense fields involves the following:
 
--   Fetching and populating of the sample data: See [Ingesting the sample IBM QRadar offenses](../task/qradar-ibm-create-profile-ingestion.md).
--   Mapping the offense fields to the security incident: See [Mapping IBM QRadar offense fields to security incident response fields](ibm-qradar-mapping-process.md).
+-   Fetching and populating of the sample data: See [Ingesting the sample IBM QRadar offenses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/qradar-ibm-create-profile-ingestion.md).
+-   Mapping the offense fields to the security incident: See [Mapping IBM QRadar offense fields to security incident response fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ibm-qradar-mapping-process.md).
 

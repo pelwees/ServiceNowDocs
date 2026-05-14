@@ -27,11 +27,11 @@ This capture is possible due to the **Setup launch parameters from Epic** variab
 
 To capture the launch tokens protected and shared by oAuth, a variable must be created on the record producer and the name must start with “sysparm\_”. This same variable name must be included as a key in Epic's FDI record launch context configuration.
 
-![Variable naming for capturing tokenized data from an EMR system.](../image/hco-variable-example.png)
+![Variable naming for capturing tokenized data from an EMR system.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/hco-variable-example.png)
 
 For example, to capture the “Workstation ID” field from an EMR system, the name value of the variable should “sysparm\_workstation\_id” and the launch parameter would be `sysparm_workstation_id` with the value set to `=%WORKSTATIONID%`.
 
-For information about configuring launch parameters in Epic, see [Configure the integration settings in the Hyperdrive Client Test Harness for Care Team Portal](configure-hyperspace-hco.md).
+For information about configuring launch parameters in Epic, see [Configure the integration settings in the Hyperdrive Client Test Harness for Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/configure-hyperspace-hco.md).
 
 ## Procedure
 

@@ -22,15 +22,15 @@ Role required: none
 1.  You can edit a quiz even after it has been distributed, with these results:
 
     -   Added questions are available only on quizzes that are distributed after this change.
-    -   Changes to existing questions are immediately available to users before the quiz is submitted or during the [retake period](t_EnableAQuizRetake.md). This includes changes to the answers, such as additional choices or changes to the data type.
+    -   Changes to existing questions are immediately available to users before the quiz is submitted or during the [retake period](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnableAQuizRetake.md). This includes changes to the answers, such as additional choices or changes to the data type.
     -   Deleted questions are also deleted from the distributed quizzes in users' queues.
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[Create a quiz](t_CreateaQuiz.md)
+[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)
+[Change the order of an answer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 

@@ -40,12 +40,12 @@ Because the script for mapping variables using the Microsoft Word add-in for Ser
 6.  Select **Update**.
 
 
-**Parent Topic:**[Manage contract records](cncore-manage-cont-records.md)
+**Parent Topic:**[Manage contract records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-cont-records.md)
 
 **Related topics**  
 
 
-[View a contract record](cncore-view-contract-rec.md)
+[View a contract record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-view-contract-rec.md)
 
-[Modify a contract record](cncore-modify-contract-rec.md)
+[Modify a contract record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-modify-contract-rec.md)
 

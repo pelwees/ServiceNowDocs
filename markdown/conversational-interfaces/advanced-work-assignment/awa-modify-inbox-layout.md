@@ -146,6 +146,6 @@ The field from the table for the channel. For example, the Interaction \[interac
 
 As needed:
 
--   [Override the agent capacity](awa-change-agent-capacity.md) value for selected agents or groups.
--   [Create or change a work item queue](awa-create-queue.md) for the channel.
+-   [Override the agent capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-change-agent-capacity.md) value for selected agents or groups.
+-   [Create or change a work item queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-queue.md) for the channel.
 

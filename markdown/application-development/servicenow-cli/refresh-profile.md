@@ -36,5 +36,5 @@ Role required: none.
 
 The CLI connects to the instance in the designated connection profile and updates any commands that may have changed.
 
-**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](configure-profile.md)
+**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/configure-profile.md)
 

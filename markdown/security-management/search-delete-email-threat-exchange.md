@@ -42,5 +42,5 @@ Possible exit conditions for this action are:
 |Error Checking Status|When status checking fails due to exception in exchange server.|
 |Error|When exception occurs in flow action.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../../security-operations-common/concept/common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../security-operations-common/concept/common-wf-activities.md)
 

@@ -18,7 +18,7 @@ Specify the Spaces and boards you want your Miro external content connector to c
 
 ## Before you begin
 
-A connector admin must have already created the Miro external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Miro external content connector](create-ext-cont-connector-miro.md).
+A connector admin must have already created the Miro external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Miro external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-miro.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -86,7 +86,7 @@ The Miro external content connector is updated with your modified crawl settings
 
 ## What to do next
 
-To retrieve searchable text content and metadata from your Miro source system using your modified crawl settings, create and run a one-time content crawl for your Miro external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve searchable text content and metadata from your Miro source system using your modified crawl settings, create and run a one-time content crawl for your Miro external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Miro external content connector](../concept/miro-external-content-connector.md)
+**Parent Topic:**[Miro external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/miro-external-content-connector.md)
 

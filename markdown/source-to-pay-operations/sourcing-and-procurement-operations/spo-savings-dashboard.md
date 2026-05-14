@@ -17,7 +17,7 @@ The Savings dashboard provides procurement teams with a consolidated view of sav
 
 The Savings dashboard helps users analyze category performance, track potential and realized savings, and monitor project progress from opportunity identification to savings realization.
 
-![Savings dashboard.](../image/savings-dashboard.png "Savings dashboard")
+![Savings dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/savings-dashboard.png "Savings dashboard")
 
 ## Components in the Savings dashboard
 
@@ -190,5 +190,5 @@ Ring chart
 Displays count of projects segmented by state \(Draft, Planned, Work in Progress, Closed Complete\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Category analytics](spo-category-analytics.md)
+</table>**Parent Topic:**[Category analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-category-analytics.md)
 

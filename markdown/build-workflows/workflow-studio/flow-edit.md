@@ -83,7 +83,7 @@ To add an action at the end of a flow, select the plus icon in the ACTION sectio
 
 </td><td>
 
-Select **Undo last action** to revert your last change. ![UNdo last action icon.](../images/icon-undo.png)
+Select **Undo last action** to revert your last change. ![UNdo last action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-undo.png)
 
  Workflow Studio stores your last 20 configuration changes. You can’t undo changes that create records. For example, converting actions into a subflow creates a subflow, and therefore can't be undone. You can select **Undo last action** multiple times to revert multiple changes.
 
@@ -95,7 +95,7 @@ Select **Undo last action** to revert your last change. ![UNdo last action icon.
 
 </td><td>
 
-Select **Redo last action** to reapply the last reverted change. ![Redo last action icon.](../images/icon-redo.png)
+Select **Redo last action** to reapply the last reverted change. ![Redo last action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-redo.png)
 
  Workflow Studio stores your last 20 configuration changes. You can select **Redo last action** multiple times to reapply multiple changes.
 
@@ -107,5 +107,5 @@ Select **Redo last action** to reapply the last reverted change. ![Redo last act
     Workflow Studio automatically saves changes as you add and edit items. It also saves when you test or activate a flow.
 
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

@@ -22,9 +22,9 @@ Work items from all ServiceNow applications assigned to you’re displayed in My
 **Note:**
 
 -   Any task record created in a table that doesn’t extend the Task \[task\] table, such as VTask, won't show up in My Work.
--   If you’re added as **Additional assignee** to a task, work with your admin to enable the display of such tasks in My Work. See [Properties installed with CWM](../reference/properties-installed-with-cwm.md).
+-   If you’re added as **Additional assignee** to a task, work with your admin to enable the display of such tasks in My Work. See [Properties installed with CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../reference/properties-installed-with-cwm.md).
 
-![My Work filters in CWM.](../images/cwm-my-work.png "Overview tab of My Work")
+![My Work filters in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-my-work.png "Overview tab of My Work")
 
 The following are the filters available on My Work:
 
@@ -112,7 +112,7 @@ Task by State
 
 </td><td>
 
-Bar chart that groups all work items assigned to you by their current state. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by state, see [Grouping of tasks in status reports of CWM My Work](../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
+Bar chart that groups all work items assigned to you by their current state. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by state, see [Grouping of tasks in status reports of CWM My Work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
 
 </td></tr><tr><td>
 
@@ -120,10 +120,10 @@ Task by Priority
 
 </td><td>
 
-Bar chart that groups all work items assigned to you by their priority. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by priority, see [Grouping of tasks in status reports of CWM My Work](../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
+Bar chart that groups all work items assigned to you by their priority. Clicking a bar opens a list of tasks that meet the filter criteria for the corresponding bar.For more information on how the tasks are grouped by priority, see [Grouping of tasks in status reports of CWM My Work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../reference/grouping-of-tasks-in-status-reports-of-cwm-my-work.md).
 
 </td></tr></tbody>
-</table>![List view of work items from My Work.](../images/cwm-my-work-list-view.png "List tab of My Work")
+</table>![List view of work items from My Work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-my-work-list-view.png "List tab of My Work")
 
 The List view shows all open work items assigned to you. Select the **Short description** of a work item to view its details in a modal pop-up. Select the **Source** of a work item to open the work item in a new tab.
 
@@ -133,5 +133,5 @@ The List view shows all open work items assigned to you. Select the **Short desc
 -   Any closed task that doesn't have dates populated isn’t shown in My Work.
 -   You can't perform bulk editing of state, priority, or date values of the tasks through My Work.
 
-**Parent Topic:**[Using Collaborative Work Management](using-collaborative-work-management.md)
+**Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 

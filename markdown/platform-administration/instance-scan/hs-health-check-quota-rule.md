@@ -25,7 +25,7 @@ Role required: admin
 
 2.  From the System Properties list, select **glide.scan.process\_check.time\_out**.
 
-    **Note:** If **glide.scan.process\_check.time\_out** is not present in the list, see [Create a new check timeout system property](hs-create-new-heath-check-timeout.md) for more information.
+    **Note:** If **glide.scan.process\_check.time\_out** is not present in the list, see [Create a new check timeout system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-new-heath-check-timeout.md) for more information.
 
 3.  In the **Value** field, set the execution time for the check in seconds.
 

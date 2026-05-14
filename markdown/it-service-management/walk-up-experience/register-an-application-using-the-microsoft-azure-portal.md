@@ -29,7 +29,7 @@ Complete these steps from the Microsoft Azure portal. For instructions on regist
 
 2.  For the **Required Permissions**, select **Microsoft Graph**.
 
-    ![Microsoft graph permissions](../image/ms-exchange-online-spoke-permissions.png)
+    ![Microsoft graph permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/ms-exchange-online-spoke-permissions.png)
 
 3.  Record the **Client Secret** for use in later configurations.
 
@@ -38,5 +38,5 @@ Complete these steps from the Microsoft Azure portal. For instructions on regist
 
 The ServiceNow application is created with Microsoft Azure AD.
 
-**Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](setup-walkup-msoffice365-cal-integ.md)
+**Parent Topic:**[Set up Microsoft Office 365 integration for Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/setup-walkup-msoffice365-cal-integ.md)
 

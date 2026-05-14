@@ -25,9 +25,9 @@ Role required: requester
 
 2.  Select a topic to view the catalog items and then select catalog item or record producer from the Catalog.
 
-3.  Click the Add to Wish List icon \(![Icon to add to the wishlist](../image/SPWishList.png)\) in the Ordering widget.
+3.  Click the Add to Wish List icon \(![Icon to add to the wishlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/SPWishList.png)\) in the Ordering widget.
 
-    **Note:** When you edit an item that is added to the wish list, the Update Wish List icon \(![Icon to update wishlist](../image/SPWishList.png)\) is displayed in the corresponding Ordering widget.
+    **Note:** When you edit an item that is added to the wish list, the Update Wish List icon \(![Icon to update wishlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/SPWishList.png)\) is displayed in the corresponding Ordering widget.
 
 4.  Click **View Wish List** from the confirmation message or the **Wish List** menu option on the main navigation bar.
 
@@ -41,7 +41,7 @@ Role required: requester
 
 </td><td>
 
-To remove an item from the wish list, click the Remove Item icon \( ![Icon to remove item](../image/RemoveIcn.png)\).
+To remove an item from the wish list, click the Remove Item icon \( ![Icon to remove item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/RemoveIcn.png)\).
 
 </td></tr><tr><td id="d206162e132">
 
@@ -65,5 +65,5 @@ To navigate to the Service Catalog landing page, click **View the Catalog**.
     **Note:** This does not open a new instance of the item, but the instance that is in the wish list, where you can edit the details.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-in-ec.md)
 

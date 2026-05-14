@@ -42,7 +42,7 @@ Create an XML file of an update set when:
     When a file is uploaded to a different instance, it’s recognized as a retrieved update set.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/configure-system-update-sets.md)
 
 ## Load customizations from a single XML file
 
@@ -66,6 +66,6 @@ Roles required: admin
 
     The customization is available as a retrieved update set with the state **Loaded**.
 
-6.  To commit the update set, see [Commit an update set](t_CommitAnUpdateSet.md).
+6.  To commit the update set, see [Commit an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/t_CommitAnUpdateSet.md).
 
 

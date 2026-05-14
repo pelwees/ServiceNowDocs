@@ -19,7 +19,7 @@ You can approve, implement, review, and close a change request.
 
 Role required: itil, admin, sn\_change\_write, or change\_manager
 
-As part of processing a change request, ensure that you have [detected any change conflicts](t_RunManualConflictDetection.md#) and [performed risk assessment](t_AssessRisk.md)
+As part of processing a change request, ensure that you have [detected any change conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md#) and [performed risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AssessRisk.md)
 
 ## Procedure
 
@@ -91,21 +91,21 @@ From the context menu, click **Cancel Change**. Provide a reason for canceling t
     You can also add approval history to the change request activity log. Click the activity filter icon and select **Approval history** from the list. When there is a change in the approval process, such as an approval, rejection, or comments, the activity log is updated.
 
 
--   **[Associated CIs on a change request](../concept/c_AffectedCIsAndImpactedServices.md#)**  
+-   **[Associated CIs on a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_AffectedCIsAndImpactedServices.md#)**  
 You can associate additional CIs or services to change requests through related lists on the Change Request form. You can also associate CIs with a change request from the dependency views map.
--   **[Mass Update CI](../concept/bulk-ci-change.md)**  
+-   **[Mass Update CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/bulk-ci-change.md)**  
 The Mass Update CI plugin enable users to apply the same update to a set of CIs for a specific CI class. The Change Management - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
--   **[Use Mass Update CI](use-bulk-mass-ci-changes.md)**  
+-   **[Use Mass Update CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/use-bulk-mass-ci-changes.md)**  
 You can use the proposed changes in a change request to apply the same update to a set of CIs for a specific CI class.
--   **[Place a change request on hold](t_PlaceAChangeRequestOnHold.md)**  
+-   **[Place a change request on hold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_PlaceAChangeRequestOnHold.md)**  
 You can put a change request on hold to get additional information for the created change request.
--   **[Refresh impacted services and CIs for Change](refresh-impacted-services-cis.md)**  
+-   **[Refresh impacted services and CIs for Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/refresh-impacted-services-cis.md)**  
 The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business Applications related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
 
-**Parent Topic:**[Using Change Management](../concept/using-change-management.md)
+**Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/using-change-management.md)
 
 **Related topics**  
 
 
-[Create a change request](t_CreateAChange.md)
+[Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 

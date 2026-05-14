@@ -100,12 +100,12 @@ Integer
 30
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Working with Webhooks](tisc-webhooks.md)
+</table>**Parent Topic:**[Working with Webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-webhooks.md)
 
 **Related topics**  
 
 
-[Configure webhooks](setup-webhooks.md)
+[Configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 
-[Webhook Triggers](tisc-triggers.md)
+[Webhook Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-triggers.md)
 

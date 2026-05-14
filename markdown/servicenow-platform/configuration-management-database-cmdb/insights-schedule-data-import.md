@@ -45,10 +45,10 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and one of these roles:
 8.  Select **Update**.
 
 
-**Parent Topic:**[CMDB Workspace store app](../concept/cmdb-workspace.md)
+**Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-workspace.md)
 
 **Related topics**  
 
 
-[Insights view in CMDB Workspace](../concept/cmdb-workspace-insights-view.md)
+[Insights view in CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-workspace-insights-view.md)
 

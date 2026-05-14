@@ -28,7 +28,7 @@ Role required: sn\_sec\_tisc.admin
 
 2.  Using your instance, access **Threat Intelligence Security Center**.
 
-3.  [Download the integration from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+3.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../security-incident-response/reference/download-app-first-time.md).
 
 4.  Select **Integrations** &gt; **Security Tools** &gt; **EDR**.
 
@@ -182,7 +182,7 @@ The expiry period in days that are applied for the Hash type of observable when 
 
 ## Result
 
-After the integration is configured, you can select any type of observable that supports Microsoft Defender EDR from Threat Intel Library, you can then send observables to EDR. For more information, see [Send observables to EDR](tisc-ms-defend-edr.md).
+After the integration is configured, you can select any type of observable that supports Microsoft Defender EDR from Threat Intel Library, you can then send observables to EDR. For more information, see [Send observables to EDR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ms-defend-edr.md).
 
-**Parent Topic:**[Microsoft Defender for EDR integration](../concept/tisc-ms-defender-integration.md)
+**Parent Topic:**[Microsoft Defender for EDR integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-ms-defender-integration.md)
 

@@ -166,5 +166,5 @@ You can also search for Major Incidents, Major Cases, Knowledge, Articles, or Ca
     -   Product Models
     -   Vendor Catalog Items
 
-**Parent Topic:**[Reviewing customer or partner accounts in Proactive Service Experience Workflows](../concept/reviewing-customer-accounts-360.md)
+**Parent Topic:**[Reviewing customer or partner accounts in Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/reviewing-customer-accounts-360.md)
 

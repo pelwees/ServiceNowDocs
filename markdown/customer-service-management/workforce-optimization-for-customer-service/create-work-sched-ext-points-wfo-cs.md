@@ -36,5 +36,5 @@ The **WorkItemSkillsRecommendationManager** extension point is available by defa
 4.  Define the functions based on your needs to customize your implementation.
 
 
-**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](../concept/setting-up-work-scheduler-wfo-cs.md)
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setting-up-work-scheduler-wfo-cs.md)
 

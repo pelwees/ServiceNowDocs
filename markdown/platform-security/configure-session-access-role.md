@@ -101,8 +101,8 @@ Choose the roles from the Group List that you want to remove or limit to the use
 
     -   In **Remove Roles**, the users from the configured countries with the selected roles no longer have those roles for the session.
     -   In **Limit To Roles**, the users from the configured countries with the selected roles only have those roles for the session.
-    ![Configure Session Access Role](../images/configure-session-access-role.png)
+    ![Configure Session Access Role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/configure-session-access-role.png)
 
-    To know more about how to remove or limit roles for a session explained with a sample use-case, see [Tutorial: Use Zero Trust Access](use-zero-trust-access.md).
+    To know more about how to remove or limit roles for a session explained with a sample use-case, see [Tutorial: Use Zero Trust Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/use-zero-trust-access.md).
 
 

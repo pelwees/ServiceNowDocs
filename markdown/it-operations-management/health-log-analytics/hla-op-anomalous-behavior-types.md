@@ -43,7 +43,7 @@ The Anomaly card illustrates the anomalous activity that led to the alert. The c
 
 In this example, the system tracks the baseline rate \(the average number of events per minute\) for a specific log pattern. When this typically inactive log generates a spike in events, the system detects the deviation from the baseline and generates an alert.
 
-![Anomaly card identifies and illustrates anomalous behavior.](../image/anomaly-spike.png "Anomaly card")
+![Anomaly card identifies and illustrates anomalous behavior.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/anomaly-spike.png "Anomaly card")
 
 ## Kinds of anomalies
 

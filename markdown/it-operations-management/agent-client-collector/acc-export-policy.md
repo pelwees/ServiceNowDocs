@@ -47,7 +47,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Import XML** page appears.
 
-        ![Import XML page](../image/ACC-Import-XML.png)
+        ![Import XML page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Import-XML.png)
 
     3.  Click the **Choose File** button and select the previously downloaded update set to import.
 

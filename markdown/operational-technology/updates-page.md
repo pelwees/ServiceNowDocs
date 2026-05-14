@@ -28,5 +28,5 @@ The Updates page is organized into the following sections.
     The devices that you can select to update. To update the device firmware, select the **Select Devices to Update** button. For more information, see Update Sensor Firmware.
 
 
-![Updates page](../images/updates-page.png)
+![Updates page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/updates-page.png)
 

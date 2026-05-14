@@ -25,7 +25,7 @@ Role required: wm\_dispatcher
 
 2.  Select **Dispatcher Workspace**.
 
-3.  Select the Flag icon \(![Flag icon.](../image/flag_tasks.png)\) on the task.
+3.  Select the Flag icon \(![Flag icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/flag_tasks.png)\) on the task.
 
 
 ## Result

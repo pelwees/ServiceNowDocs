@@ -38,7 +38,7 @@ Discover all the users who have a similar profile as the employee. Identify the 
     2.  Click **Take me there** to get started with the solution definition.
     Machine Learning Solutions landing page appears.
 
-    ![List of ML usecases for HR PIWB](../image/piwb-hr-ml-list.png "HR ML use cases")
+    ![List of ML usecases for HR PIWB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/piwb-hr-ml-list.png "HR ML use cases")
 
 3.  Go to **Similarity** and click **Configure**.
 
@@ -53,13 +53,13 @@ Discover all the users who have a similar profile as the employee. Identify the 
 
 ## Result
 
-When the configuration is complete, the solution displays the top three knowledge articles and top three catalog items to the employee based on a similar employee profile. For more information, see [Discovering knowledge articles and catalog items for employees](../concept/user-profile-based-recommendations.md).
+When the configuration is complete, the solution displays the top three knowledge articles and top three catalog items to the employee based on a similar employee profile. For more information, see [Discovering knowledge articles and catalog items for employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/user-profile-based-recommendations.md).
 
 ## What to do next
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

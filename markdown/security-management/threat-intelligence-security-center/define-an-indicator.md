@@ -391,7 +391,7 @@ Indicators
 
 </td><td>
 
-Lists the indicators that are related to this indicator.**Note:** This section also contains the potential relationships between two indicators. For more information, see [Confirm indicator-indicator potential relationships](define-indicator-indicator-potential-relationships.md)and see [Define indicator-indicator relationships](define-indicator-indicator-relationships.md) for the confirmed relationships between the two observables.
+Lists the indicators that are related to this indicator.**Note:** This section also contains the potential relationships between two indicators. For more information, see [Confirm indicator-indicator potential relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-potential-relationships.md)and see [Define indicator-indicator relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-indicator-indicator-relationships.md) for the confirmed relationships between the two observables.
 
 </td></tr><tr><td>
 
@@ -564,9 +564,9 @@ List of external references that describes this indicator.
 </td></tr></tbody>
 </table>**Note:**
 
-1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](link-threat-intel-releated-records.md).
-2.  Also, from the **Related Records** section, you can confirm the relationships between two Observables using the **Potential Relationships** section available on the **Indicators** form view. For more information on see, [Confirm Potential Relationships from Related Records](confirm-potential-relationships.md).
-3.  You can add indicators to cases. For more information, see [Add to Case](add-to-case.md).
+1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
+2.  Also, from the **Related Records** section, you can confirm the relationships between two Observables using the **Potential Relationships** section available on the **Indicators** form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
+3.  You can add indicators to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
 
-**Parent Topic:**[Indicators](../concept/indicator.md)
+**Parent Topic:**[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/indicator.md)
 

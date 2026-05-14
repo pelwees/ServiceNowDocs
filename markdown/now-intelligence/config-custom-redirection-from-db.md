@@ -15,13 +15,13 @@ If you have created a page in your workspace from the Dashboard page template, y
 
 ## Before you begin
 
-You have created a workspace in UI Builder with a page generated from the Dashboard page template. You may also have set the dashboard component in that page to display a dashboard from the library as described in [Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md).
+You have created a workspace in UI Builder with a page generated from the Dashboard page template. You may also have set the dashboard component in that page to display a dashboard from the library as described in [Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md).
 
 Role required: ui\_builder\_admin
 
 ## About this task
 
-**Important:** The procedure described here applies only to dashboards created in the inline editor. For technical dashboards, you configure redirection through a drilldown event for each data visualization. For more information, see [Add a drilldown event to a data visualization on a technical dashboard](../../dashboards/task/add-custom-drilldown-event.md).
+**Important:** The procedure described here applies only to dashboards created in the inline editor. For technical dashboards, you configure redirection through a drilldown event for each data visualization. For more information, see [Add a drilldown event to a data visualization on a technical dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/add-custom-drilldown-event.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Role required: ui\_builder\_admin
 
 4.  In the configuration panel, turn off **Use default redirections**.
 
-    ![Turning off default redirections.](../../par-for-workspace/image/db-turnoff-redirections.png)
+    ![Turning off default redirections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-turnoff-redirections.png)
 
     You have turned off redirections. Clicking on a visualization at runtime does not trigger any actions.
 
@@ -47,11 +47,11 @@ Role required: ui\_builder\_admin
 
     2.  From the list of available events, select Dashboard widget clicked.
 
-        ![Selecting the Dashboard widget clicked event.](../../par-for-workspace/image/db-add-db-widget-clicked-event.png)
+        ![Selecting the Dashboard widget clicked event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-add-db-widget-clicked-event.png)
 
 7.  In the Data and scripts area of the page, under Client scripts, open Dashboard Widget Clicked.
 
-    ![Opening the Dashboard widget clicked script in the editor.](../../par-for-workspace/image/db-dashboard-widget-clicked.png)
+    ![Opening the Dashboard widget clicked script in the editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-dashboard-widget-clicked.png)
 
 8.  In the Edit client script pane, find the line `api.emit('NAV_ITEM_SELECTED', payload);`.
 
@@ -62,20 +62,20 @@ Role required: ui\_builder\_admin
 
 All redirections from data visualizations on that dashboard open your specified target.
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/create-analytics-ws-aes.md)
 
-[Add Platform Analytics pages to a configurable workspace](add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
 
-[Pass global filters to the dashboard page template](../../par-for-workspace/task/pass-global-filters-to-db.md)
+[Pass global filters to the dashboard page template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/pass-global-filters-to-db.md)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
 

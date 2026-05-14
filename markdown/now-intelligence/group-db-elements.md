@@ -31,7 +31,7 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 4.  Select the first item that you want to group and select the Grouping icon \(![](../image/icon-group-dashboard.png)\) from the item's header menu.
 
-    ![Selected visualization with arrow pointing to the Group option](../image/header-menu-group-option.png)
+    ![Selected visualization with arrow pointing to the Group option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/header-menu-group-option.png)
 
     Each element on the dashboard shows a check box that you can select to add that element to the group.
 
@@ -39,9 +39,9 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 6.  Select **Confirm Group** from the header to complete the grouping.
 
-    ![Shows check boxes to select to group three dashboard elements](../image/group-db-elements.png)
+    ![Shows check boxes to select to group three dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/group-db-elements.png)
 
-7.  ![Elements group menu with the Modify and Ungroup options highlighted](../image/modify-group-ungroup-db-elements.png)
+7.  ![Elements group menu with the Modify and Ungroup options highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/modify-group-ungroup-db-elements.png)
 
 8.  Specify background and border colors.
 
@@ -54,5 +54,5 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 Grouped elements on the dashboard remain together when elements on the dashboard are moved. These elements also share a border and background as though they were one unit.
 
-**Parent Topic:**[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+**Parent Topic:**[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 

@@ -42,5 +42,5 @@ The collector connects to BigQuery using a service account associated with your 
 
 See the [Google Cloud Platform predefined roles and permissions documentation](https://cloud.google.com/iam/docs/understanding-roles#predefined_roles) for additional information.
 
-**Parent Topic:**[BigQuery metadata collector](../concept/bigquery-metadata-collector.md)
+**Parent Topic:**[BigQuery metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/bigquery-metadata-collector.md)
 

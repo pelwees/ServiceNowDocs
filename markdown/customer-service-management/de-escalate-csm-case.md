@@ -32,7 +32,7 @@ sn\_customerservice.deescalation\_requester
 
     This opens the De-escalate Case pop-up window.
 
-    ![Escalated case form with De-escalate UI action in the form header](../image/escalated-case-form.png)
+    ![Escalated case form with De-escalate UI action in the form header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/escalated-case-form.png)
 
 3.  Enter the necessary information in the **De-escalation Justification** field.
 

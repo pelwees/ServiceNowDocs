@@ -37,11 +37,11 @@ The Smart Assessment Engine uses the rule engine, where the rules are based on u
 
 The workflow for integrating BIA with the Smart Assessment Engine is shown in the illustration.
 
-![Workflow diagram for BIA Smart Assessment Engine integration showing decision tree.](../image/bia-sae-workflow.png)
+![Workflow diagram for BIA Smart Assessment Engine integration showing decision tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-sae-workflow.png)
 
 ## Configuring BIA templates
 
-You can configure the BIA template with the legacy or Smart Assessment. The legacy assessment shows only drop-down questions, while the Smart Assessment enables multiple question types and configures RTO, RPO, and recovery tier calculations based on the responses to the questionnaire. For more information, see [Setup for a business impact analysis](bcm-admin-tasks.md).
+You can configure the BIA template with the legacy or Smart Assessment. The legacy assessment shows only drop-down questions, while the Smart Assessment enables multiple question types and configures RTO, RPO, and recovery tier calculations based on the responses to the questionnaire. For more information, see [Setup for a business impact analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-admin-tasks.md).
 
 ## Roles and responsibilities
 
@@ -207,5 +207,5 @@ The UI page containing only the Smart Assessment component is created in the BCM
 -   The **Open assessment** action opens the Smart Assessment page for you to read the responses.
 -   The **Edit assessment** action opens the Smart Assessment page for you to edit the responses.
 
-**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 

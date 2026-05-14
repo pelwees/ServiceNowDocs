@@ -37,7 +37,7 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
 
         1.  On the Product Details form, fill in the fields.
 
-            For a description of the field values, see [Product details form](../reference/mco-product-non-conformance-case-form.md)
+            For a description of the field values, see [Product details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-product-non-conformance-case-form.md)
 
         2.  Select **Save**, to save the product details.
         3.  Select **Assign to me**, to assign the case to self.
@@ -73,11 +73,11 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
 
     3.  Select edit to view and edit the correction actions form.
 
-        You can add [Correction actions form](../reference/mco-correction-actions-form.md) and [CoPQ expense line form](../reference/mco-copq-expense-line-form.md) details.
+        You can add [Correction actions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-correction-actions-form.md) and [CoPQ expense line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-copq-expense-line-form.md) details.
 
     4.  Select the **Create work order** activity.
 
-        You can add [Work order form](../reference/work-order-form.md) details.
+        You can add [Work order form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/work-order-form.md) details.
 
     5.  Select **Save**.
 
@@ -98,7 +98,7 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
     2.  Apply the containment.
 
         1.  Select **Add**.
-        2.  On the Containment actions form, fill in the [Containment action form](../reference/mco-containment-actions-form.md) details.
+        2.  On the Containment actions form, fill in the [Containment action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-containment-actions-form.md) details.
         3.  Add the Expense line details.
             -   Description
             -   CoPQ Type
@@ -127,20 +127,20 @@ Role required: Quality Issue Management Admin, product non-conformance resolver 
         5.  Add **Resolution notes**.
         6.  Select **Close**.
 
-**Parent Topic:**[Product non-conformance](../concept/mco-product-non-conformances.md)
+**Parent Topic:**[Product non-conformance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-product-non-conformances.md)
 
 **Related topics**  
 
 
-[Create a correction action](mco-correction-actions.md)
+[Create a correction action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)
 
-[Create an impacted asset](mco-impacted-asset.md)
+[Create an impacted asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset.md)
 
-[Impacted asset action](mco-impacted-asset-action.md)
+[Impacted asset action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md)
 
-[Create a containment action](mco-containment-actions.md)
+[Create a containment action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions.md)
 
-[Create a CoPQ expense line](mco-copq-expense-line.md)
+[Create a CoPQ expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)
 
-[Create a product quality investigation](mco-create-product-quality-investigation.md)
+[Create a product quality investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-product-quality-investigation.md)
 

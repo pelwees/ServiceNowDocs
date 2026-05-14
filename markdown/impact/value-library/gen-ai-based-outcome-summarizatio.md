@@ -35,11 +35,11 @@ Role required:Impact App Admin, Impact Platform Owner, Impact Portfolio Owner.
 
     Now Assist generates and displays summary information for the outcome, as shown in the following example.
 
-    ![Outcomes Summarization result](../image/outcomes_summarizationresult.png)
+    ![Outcomes Summarization result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/value-library/../image/outcomes_summarizationresult.png)
 
 5.  Provide feedback for the summary by selecting the thumbs-up ![](../../../reuse/icons/product-icons/thumbs-up-outline-24.svg) or thumbs-down ![](../../../reuse/icons/product-icons/thumbs-down-outline-24.svg) icons.
 
-6.  Copy the summary to use its information outside the app, for example, for including in an email or editing before forwarding, by selecting the Copy to clipboard icon ![Copy to clipboard](../image/copytoclipboard.png).
+6.  Copy the summary to use its information outside the app, for example, for including in an email or editing before forwarding, by selecting the Copy to clipboard icon ![Copy to clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/value-library/../image/copytoclipboard.png).
 
 7.  If you think that data might have changed after you viewed the summary, refresh the summary information by selecting the redo icon ![](../image/refresh_aisummary.png).
 

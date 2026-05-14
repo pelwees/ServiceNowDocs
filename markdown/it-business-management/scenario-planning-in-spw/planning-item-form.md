@@ -19,16 +19,16 @@ All planning item types in Strategic Planning including any custom item type tha
 
 The following are the different planning item types available by default. Use the following sections for the details of the form fields for the planning item type that you want to use.
 
--   [Demand planning item form](demand-form-spw.md)
--   [Epic planning item form](epic-form.md)
--   [Initiative form](initiative-form.md)
--   [Project planning item form](project-form.md)
--   [Strategic program form](program-form.md)
+-   [Demand planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/demand-form-spw.md)
+-   [Epic planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/epic-form.md)
+-   [Initiative form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/initiative-form.md)
+-   [Project planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/project-form.md)
+-   [Strategic program form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/program-form.md)
 
 **Related topics**  
 
 
-[Create planning items from the roadmap view](../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
+[Create planning items from the roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
 
-[Add planning items to Prioritization](../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
+[Add planning items to Prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
 

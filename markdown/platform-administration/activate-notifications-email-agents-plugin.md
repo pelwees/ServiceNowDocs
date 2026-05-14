@@ -42,5 +42,5 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## What to do next
 
-Enable intent to action from [Inbound email actions](enable-intent-to-action.md) or [Inbound email triggers in Workflow Studio](trigger-intent-to-action.md).
+Enable intent to action from [Inbound email actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/enable-intent-to-action.md) or [Inbound email triggers in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/trigger-intent-to-action.md).
 

@@ -16,7 +16,7 @@ breadcrumb: [Zero Copy Connector for ERP field descriptions, Reference, Zero Cop
 
 The software info tab in Zero Copy Connector for ERP \(Enterprise Resource Planning\) contains information about the selected ERP system.
 
-For process details, see [View Zero Copy Connector for ERP software information](../task/view-erp-system-information.md).
+For process details, see [View Zero Copy Connector for ERP software information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/view-erp-system-information.md).
 
 |Field|Description|
 |-----|-----------|
@@ -26,5 +26,5 @@ For process details, see [View Zero Copy Connector for ERP software information]
 |CPU architecture|CPU design and instruction set, for example, x86\_64.|
 |Unicode|If this option is selected, the system supports the international standard character set.|
 
-**Parent Topic:**[Zero Copy Connector for ERP field descriptions](erp-canvas-field-descriptions.md)
+**Parent Topic:**[Zero Copy Connector for ERP field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-field-descriptions.md)
 

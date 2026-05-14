@@ -27,11 +27,11 @@ Role required: sn\_bcm.admin
 
     The predefined Microsoft Word templates that are available with the base version are displayed in the Template Configurations module. The example shows the BIA template, BCP template, and Events template.
 
-    ![Template configurations.](../image/temp-config-module.png)
+    ![Template configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/temp-config-module.png)
 
     The example shows how to create a template configuration in your instance.
 
-    ![New template configuration form.](../image/new-template-config.png)
+    ![New template configuration form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-template-config.png)
 
 3.  On the form, fill in the fields.
 
@@ -44,7 +44,7 @@ Role required: sn\_bcm.admin
 
     The example shows the template configuration for the "BCP template."
 
-    ![BCP template configuration.](../image/data-rela-template-config.png)
+    ![BCP template configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/data-rela-template-config.png)
 
 4.  Select **Submit**.
 
@@ -57,5 +57,5 @@ Role required: sn\_bcm.admin
 
 ## What to do next
 
-For the newly created template, create a data relationship path from the template configuration to navigate to any table that you require. For more information, see [Configure the data relationships](create-data-rel-fortemp-config.md).
+For the newly created template, create a data relationship path from the template configuration to navigate to any table that you require. For more information, see [Configure the data relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-data-rel-fortemp-config.md).
 

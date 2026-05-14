@@ -15,11 +15,11 @@ Configure photo search to give your users the ability to perform image-based sea
 
 ## Photo searches in your mobile apps
 
-![A photo search used to identify a laptop.](../image/photo-search-example.png "A photo search used to identify a laptop")
+![A photo search used to identify a laptop.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/photo-search-example.png "A photo search used to identify a laptop")
 
-When photo search is configured on your instance, a photo icon \(![Photo search icon](../image/sg-icon-image-search.png)\) appears in your launcher screen search bar. Your users can tap this icon to use the camera on their mobile device to take a picture. The picture is identified using the Google Vision API, which returns one or more results. Users can select a result, which is used as their search query.
+When photo search is configured on your instance, a photo icon \(![Photo search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/sg-icon-image-search.png)\) appears in your launcher screen search bar. Your users can tap this icon to use the camera on their mobile device to take a picture. The picture is identified using the Google Vision API, which returns one or more results. Users can select a result, which is used as their search query.
 
-**Note:** For details on how an administrator can configure photo search, see [Mobile photo search](sg-mobile-image-search.md).
+**Note:** For details on how an administrator can configure photo search, see [Mobile photo search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-image-search.md).
 
 ## Third-party data usage
 

@@ -36,7 +36,7 @@ Engagement Messenger provides the following benefits:
     -   Walk-up appointment booking
     -   Knowledge article search that is powered by ServiceNow® AI Search
 
-For more information about the Engagement Messenger application, see [Features of Engagement Messenger](features-of-engagement-messenger.md).
+For more information about the Engagement Messenger application, see [Features of Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/features-of-engagement-messenger.md).
 
-To get started with the Engagement Messenger application, see [Set up Engagement Messenger](setting-up-engagement-messenger.md).
+To get started with the Engagement Messenger application, see [Set up Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/setting-up-engagement-messenger.md).
 

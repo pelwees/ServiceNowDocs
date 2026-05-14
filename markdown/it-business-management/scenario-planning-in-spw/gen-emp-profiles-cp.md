@@ -27,9 +27,9 @@ Role required: admin
 
 3.  In the Employee Definition page, select **User** from the Table list.
 
-4.  Use the condition builder to filter the required resources and then select the update count icon \(![Update count icon.](../images/cp-refresh-button.png)\).
+4.  Use the condition builder to filter the required resources and then select the update count icon \(![Update count icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/cp-refresh-button.png)\).
 
-5.  Select **Generate Employee Profiles** \(![Option to generate employee profiles.](../images/cp-gen-emp-profiles-button.png)\).
+5.  Select **Generate Employee Profiles** \(![Option to generate employee profiles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/cp-gen-emp-profiles-button.png)\).
 
 6.  In the Generate Employee Profiles window, select **Proceed**.
 
@@ -40,5 +40,5 @@ Employee profiles for the selected resources are generated.
 
 ## What to do next
 
-Populate a primary group, primary role, and primary skill for the resources with employee profiles. For more information, see [Map primary attributes to resources](map-primary-attributes-cp.md).
+Populate a primary group, primary role, and primary skill for the resources with employee profiles. For more information, see [Map primary attributes to resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/map-primary-attributes-cp.md).
 

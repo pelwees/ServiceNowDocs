@@ -20,7 +20,7 @@ Inform any users who can view the dashboard that you’re deleting it. Users who
 
 Role required: You can delete any dashboard that you created. Users with the admin or dashboard\_admin role can delete any dashboard.
 
-**Note:** The steps to delete a Core UI responsive dashboard are different. For more information, see [Manage responsive dashboards](manage-responsive-dashboards.md#).
+**Note:** The steps to delete a Core UI responsive dashboard are different. For more information, see [Manage responsive dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/manage-responsive-dashboards.md#).
 
 ## Procedure
 
@@ -28,9 +28,9 @@ Role required: You can delete any dashboard that you created. Users with the adm
 
 2.  Open the dashboard that you want to delete.
 
-3.  From the More actions menu \(![More actions menu icon](../image/icon-vert-3dot-p.png)\), select **Delete**.
+3.  From the More actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-vert-3dot-p.png)\), select **Delete**.
 
-    ![Dashboard with More actions menu expanded and the Delete option highlighted](../image/delete-plat-admin-db.png)
+    ![Dashboard with More actions menu expanded and the Delete option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/delete-plat-admin-db.png)
 
 4.  Confirm the deletion.
 
@@ -38,30 +38,30 @@ Role required: You can delete any dashboard that you created. Users with the adm
 
     1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
     2.  Find the plugin using the filter criteria and search bar.
-    3.  Select the More actions menu button ![More actions menu icon](../image/icon-vert-3dot-p.png) and choose **Repair**.
+    3.  Select the More actions menu button ![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-vert-3dot-p.png) and choose **Repair**.
     4.  Select **Repair** in the Activate Plugin window.
 
--   **[Configure dashboard deletion actions in the Workflow Studio](delete-db-in-ac-wf.md)**  
+-   **[Configure dashboard deletion actions in the Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/delete-db-in-ac-wf.md)**  
 Using the Workflow Studio, you can add actions to the dashboard deletion process. Actions may include sending an email to the dashboard's users or generating an approval request.
 
-**Parent Topic:**[Common dashboard tasks in the in-line editor](../concept/common-dashboard-tasks.md)
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/common-dashboard-tasks.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md)
 
-[Edit Platform Analytics dashboards](edit-db-in-ac.md)
+[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-[Share a Platform Analytics dashboard](share-db-in-ac.md)
+[Share a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/share-db-in-ac.md)
 
-[Duplicate a Platform Analytics dashboard](../../reporting/task/duplicate-db.md#)
+[Duplicate a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/duplicate-db.md#)
 
-[Print a Platform Analytics dashboard](printer-friendly-db-ac.md)
+[Print a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/printer-friendly-db-ac.md)
 
-[Export a Platform Analytics dashboard](export-pae-dashboard-ppt.md)
+[Export a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/export-pae-dashboard-ppt.md)
 
-[Schedule the export of dashboards and data visualizations](../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
+[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/schedule-export-dboards-data-viz.md)
 
-[Bookmark a Platform Analytics dashboard](bookmark-dashboard-ac.md)
+[Bookmark a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dashboard-ac.md)
 

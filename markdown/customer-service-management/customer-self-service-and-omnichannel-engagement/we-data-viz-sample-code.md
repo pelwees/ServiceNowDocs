@@ -54,11 +54,11 @@ console.log(title, type, params, data);
 **Related topics**  
 
 
-[Configure the Data visualization component instance](../task/config-data-viz-comp.md)
+[Configure the Data visualization component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-data-viz-comp.md)
 
-[Embed the Data visualization component instance on the third-party website](../task/embed-data-viz-comp.md)
+[Embed the Data visualization component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/embed-data-viz-comp.md)
 
-[Component properties for the Data visualization](we-data-viz-comp-prop.md)
+[Component properties for the Data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-data-viz-comp-prop.md)
 
-[Event handler in the Data visualization component](we-data-viz-event-handler.md)
+[Event handler in the Data visualization component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-data-viz-event-handler.md)
 

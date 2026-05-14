@@ -17,7 +17,7 @@ Integrate CSD 2.0 with client software distribution providers, such as Casper, A
 
 **Note:** Extending CSD 2.0 is an advanced procedure intended for use by experienced ServiceNow AI Platform developers only.
 
-**Parent Topic:**[Client Software Distribution 2.0 application](csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/csd-app-2.md)
 
 ## Create provider tables
 
@@ -80,7 +80,7 @@ Role required: admin
     |Configuration Flow|Subflow you had created to retrieve configuration data for the specified requested item or software configuration record.|
     |Source List|List of discovery sources separated by a comma.|
 
-    ![Sample provider record.](../image/csd2-prov-casper.png "Example provider record")
+    ![Sample provider record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-prov-casper.png "Example provider record")
 
 4.  Click **Save**.
 

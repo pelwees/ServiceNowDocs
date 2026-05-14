@@ -24,11 +24,11 @@ Displays all pull, push, and custom connector integrations, including connectors
 -   Search Box: Helps you quickly find a specific data source by entering keywords, improving efficiency and saving time.
 -   All Integrations list: Organizes integrations into categories such as All Integrations, Events \(Push, Pull, Custom\), Metrics \(ACC-M\), and Logs \(HLA\). This categorization makes it easier for users to browse the list and select the relevant type of integration they need.
 
-![Browse integrations tab displaying all integration tiles.](../image/integrations-launchpad-browse.png "Browse integrations tab")
+![Browse integrations tab displaying all integration tiles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/integrations-launchpad-browse.png "Browse integrations tab")
 
 ## Installed Integrations tab
 
-![Active and inactive installed integrations.](../image/integrations-launchpad-installed.png "Active and inactive installed integrations")
+![Active and inactive installed integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/integrations-launchpad-installed.png "Active and inactive installed integrations")
 
 Lists all user-configured integrations, both active and inactive. This tab features:
 

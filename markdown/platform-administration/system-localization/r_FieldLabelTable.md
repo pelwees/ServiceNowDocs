@@ -26,14 +26,14 @@ For each table name and field label, the Field Label table contains a record for
 -   Hint: text that pops up when the cursor rests on the field.
 -   URL: URL for a web page that provides information about the field. When a URL is provided, the text appears blue and underlined to indicate the label is clickable.
 
-![List of Field labels showing field names in the element column and label translations in English and Spanish.](../image/FieldLabel.png "Field label")
+![List of Field labels showing field names in the element column and label translations in English and Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/FieldLabel.png "Field label")
 
-![An Incident record with field labels translated into Spanish.](../image/TranslatedField.png "Translated field")
+![An Incident record with field labels translated into Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/TranslatedField.png "Translated field")
 
-**Parent Topic:**[Translation tables](r_TranslationTables.md)
+**Parent Topic:**[Translation tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslationTables.md)
 
 **Related topics**  
 
 
-[Translate a field label](../task/t_TranslateAFieldLabel.md)
+[Translate a field label](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_TranslateAFieldLabel.md)
 

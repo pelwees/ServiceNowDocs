@@ -25,7 +25,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  Open the legal request for which you want to reclassify the documents.
 
@@ -46,5 +46,5 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 10. Select **Save** to save the record.
 
 
-**Parent Topic:**[Work on a third-party contract review request](snlc-work-tpc-review-request.md)
+**Parent Topic:**[Work on a third-party contract review request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 

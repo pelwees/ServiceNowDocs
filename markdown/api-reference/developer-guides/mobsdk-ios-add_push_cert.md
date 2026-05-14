@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Create a certificate record by selecting the **New** button.
 
-5.  Add the Personal Information Exchange \(.p12\) certificate that you exported in [Generate and retrieve an iOS push certificate](mobsdk-ios-retrieve-apple-cert.md) to the certificate record as an attachment.
+5.  Add the Personal Information Exchange \(.p12\) certificate that you exported in [Generate and retrieve an iOS push certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/mobsdk-ios-retrieve-apple-cert.md) to the certificate record as an attachment.
 
     1.  In the upper-right corner, select the attachment icon.
 
@@ -51,6 +51,6 @@ Role required: admin
 
     8.  After the certificate validation is confirmed, select **Update** to submit the form.
 
-    ![Push certificate form](../image/mobsdk-ios-push_cert_save.png)
+    ![Push certificate form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-ios-push_cert_save.png)
 
 

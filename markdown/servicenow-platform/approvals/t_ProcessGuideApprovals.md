@@ -47,16 +47,16 @@ You can link a process guide to a execution task.
 
     Example \#1: Apply to all "Capacity Review" tasks.
 
-    ![Capacity](../image/Capacity.png)
+    ![Capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/Capacity.png)
 
     Example \#2: Apply to all "Capacity Review" tasks where there requester is in Atlanta.
 
-    ![Capacity Atlanta](../image/CapacityAtlanta.png)
+    ![Capacity Atlanta](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/CapacityAtlanta.png)
 
     Process guide tips and tricks:
 
     1.  All catalog tasks are generated when a request is first submitted, but tasks which aren't active yet have a state of "pending". So if you do not want to send out approval requests until a task has actually started, add "state=open" as part of your condition.
     2.  There is a "Default" process guide in the system for catalog tasks with a sequence number of 10,000. It behaves exactly the same way the old, pre-process guide code did in regards to approvals. Approvals are based on the execution of task-related lists.
 
-**Parent Topic:**[Approval rules](../concept/c_ApprovalRules.md)
+**Parent Topic:**[Approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/c_ApprovalRules.md)
 

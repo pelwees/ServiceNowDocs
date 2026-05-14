@@ -56,12 +56,12 @@ Not all navigation menu sections require menu items. Use menu items to link user
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Configure menu sections](t_ConfigureMenuSections.md)
+**Parent Topic:**[Configure menu sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_ConfigureMenuSections.md)
 
 **Related topics**  
 
 
-[Menu types](../reference/r_MenuTypes.md)
+[Menu types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_MenuTypes.md)
 
-[Menu style customization](../concept/c_CustomizeTheMenuStyle.md)
+[Menu style customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_CustomizeTheMenuStyle.md)
 

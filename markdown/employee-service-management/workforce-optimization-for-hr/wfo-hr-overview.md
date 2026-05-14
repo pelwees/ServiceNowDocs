@@ -51,19 +51,19 @@ Workforce Optimization for HR WFO enables you to do these tasks:
 
 <table id="table_nlp_srv_zqb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how managers use Workforce Optimization for HR.](explore-wfo-hr.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how managers use Workforce Optimization for HR.](explore-wfo-hr.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configure-wfo-hr.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](configure-wfo-hr.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Schedule, coach and train your agents.](use-wfo-hr.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Schedule, coach and train your agents.](use-wfo-hr.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the components and roles installed with Workforce Optimization for HR.](../reference/wfo-hr-reference.md#)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the components and roles installed with Workforce Optimization for HR.](../reference/wfo-hr-reference.md#)
 
 </td><td>
 

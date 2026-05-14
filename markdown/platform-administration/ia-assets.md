@@ -43,5 +43,5 @@ Manage assets with intuitive work flows and life cycle visibility.
 
 Select **Add a consumable** if you want to add a consumable to configure. You can also export the list of consumables into an excel sheet or an available file type by selecting **Export**.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

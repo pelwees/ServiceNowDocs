@@ -56,5 +56,5 @@ Policy and Compliance Management supports the latest public release and the two 
 -   Microsoft Edge Chromium
 -   Safari 12.0 and later versions
 
-**Parent Topic:**[Governance, Risk, and Compliance release notes](grc-rn-landing.md)
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-rn-landing.md)
 

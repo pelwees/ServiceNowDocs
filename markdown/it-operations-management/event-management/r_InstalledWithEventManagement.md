@@ -17,7 +17,7 @@ Activating the Event Management \(com.glideapp.itom.snac\) plugin adds several r
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-**Parent Topic:**[Event Management reference](event-management-reference.md)
+**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
 ## Roles installed with Event Management
 
@@ -154,7 +154,7 @@ Event Management — Alert Priority Queue
 
 </td><td>
 
-Calculate [alert priority](../concept/alert-priority.md). Two Alert Priority Queue jobs are active and available and can be run multi-thread. Runs every minute.
+Calculate [alert priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-priority.md). Two Alert Priority Queue jobs are active and available and can be run multi-thread. Runs every minute.
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Event Management — Node Count
 
 </td><td>
 
-Calculate [license usage](../task/license-usage.md). Runs once every hour.
+Calculate [license usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/license-usage.md). Runs once every hour.
 
 </td></tr><tr><td>
 

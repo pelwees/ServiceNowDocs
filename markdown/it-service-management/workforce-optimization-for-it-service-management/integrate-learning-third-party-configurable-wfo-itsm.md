@@ -17,7 +17,7 @@ Connect your ServiceNow instance with third-party learning sites to pull learnin
 
 ## Before you begin
 
-**Important:** Coaching with Learning application is available from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for ITSM](activate-configurable-workforce-optimization-itsm.md).
+**Important:** Coaching with Learning application is available from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md).
 
 Role required: learning\_admin
 
@@ -179,7 +179,7 @@ Register an OAuth application and authenticate requests from ServiceNow. Follow 
     2.  For each of the following properties, set the value to **1638400**:
         -   com.glide.transform.json.max-partial-length
         -   com.snc.process\_flow.reporting.serialized.val\_size\_limit
-    For more information on these system properties, see [Coaching With Learning System Properties](../reference/configurable-wfo-itsm-coaching-reference.md).
+    For more information on these system properties, see [Coaching With Learning System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-coaching-reference.md).
 
 3.  Activate schedule flows to integrate third-party learning content.
 
@@ -193,7 +193,7 @@ Register an OAuth application and authenticate requests from ServiceNow. Follow 
     4.  Select each of the third-party learning sources and set the **Active** field to **true**.
     Schedule flows automatically run on a scheduled basis to synchronize third-party learning content into your ServiceNow instance.
 
-4.  After you [configure the third-party integration sources](../reference/integration-source-coaching-with-learning-coaching-wfo-itsm.md) you can refresh the entire third-party content or synchronize new and updated services into your ServiceNow instance.
+4.  After you [configure the third-party integration sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/integration-source-coaching-with-learning-coaching-wfo-itsm.md) you can refresh the entire third-party content or synchronize new and updated services into your ServiceNow instance.
 
     -   To refresh the entire content, set the **full\_pull** property to **true**.
 
@@ -257,8 +257,8 @@ ServiceNow ServiceNow University
 
 </td></tr></tbody>
 </table>
--   **[External Content Integration Sources](../reference/integration-source-coaching-with-learning-coaching-wfo-itsm.md)**  
+-   **[External Content Integration Sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/integration-source-coaching-with-learning-coaching-wfo-itsm.md)**  
 When you integrate Coaching with Learning with third-party learning management systems, the source record for Cornerstone OnDemand, Pluralsight, Udemy, and ServiceNow University applications are automatically created in the Enterprise Service Management Integrations Framework. These source records contain a predefined set of properties and integration services.
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-coaching-configurable-workforce-optimization-itsm.md)
 

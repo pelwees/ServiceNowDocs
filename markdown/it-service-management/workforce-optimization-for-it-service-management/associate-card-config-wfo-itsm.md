@@ -31,14 +31,14 @@ Role required: workspace\_admin or ui\_builder\_admin​
 
     The work configuration card displays in Work scheduler in manager workspace.
 
-    For information on setting up a work configuration, see [Set up a work configuration](setup-work-scheduler.md).
+    For information on setting up a work configuration, see [Set up a work configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-work-scheduler.md).
 
-    For information on creating the work scheduler card, see [Create a Work Scheduler card using UI Builder](create-workscheduler-card-wfo-itsm.md).
+    For information on creating the work scheduler card, see [Create a Work Scheduler card using UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-workscheduler-card-wfo-itsm.md).
 
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-itsm.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-workscheduler-card-wfo-itsm.md)
 
-**Previous topic:**[Configure an avatar component for Work scheduler](work-sched-avatar-component.md)
+**Previous topic:**[Configure an avatar component for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-avatar-component.md)
 
-**Next topic:**[Create extension points for Work scheduler](create-work-sched-ext-points-wfo-itsm.md)
+**Next topic:**[Create extension points for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-work-sched-ext-points-wfo-itsm.md)
 

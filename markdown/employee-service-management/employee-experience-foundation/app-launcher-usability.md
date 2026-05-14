@@ -31,7 +31,7 @@ Employees can see the favorites icon on the following types of pages or sections
 -   My applications widget
 -   Recommended for you widget
 
-You can set up the favorite card details and use the default favorite icon ![default favorite icon default without selection](../images/myfav-no-selection.jpg) to bookmark content as your favorites. When your employees mark content as favorites, the favorite icon appearance changes to ![default favorite icon default with selection](../images/myfav-selection.jpg).
+You can set up the favorite card details and use the default favorite icon ![default favorite icon default without selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/myfav-no-selection.jpg) to bookmark content as your favorites. When your employees mark content as favorites, the favorite icon appearance changes to ![default favorite icon default with selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/myfav-selection.jpg).
 
 **Note:** To change the icon, go to **Service Portal** &gt; **Portals** &gt; **Employee Center** &gt; **Quick start configuration**, and update the icon.
 
@@ -57,7 +57,7 @@ To fix issues with alphabetical sort order of favorites, see [KB1348001](https:/
 
 You can configure user permissions such as **Available for** and **Not Available for**. When the favorite topic is not marked available for the user, the topic isn't visible from **My Favorites** and on the favorites widget.
 
-For more information, see [Enable user criteria for topics](../task/enable-user-criteria-topics.md).
+For more information, see [Enable user criteria for topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/enable-user-criteria-topics.md).
 
 ## Favorites troubleshooting
 
@@ -72,7 +72,7 @@ Follow these steps to troubleshoot issues with **Favorites**:
 **Related topics**  
 
 
-[Configure favorites option](../task/web-configure-favorites-admin.md)
+[Configure favorites option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/web-configure-favorites-admin.md)
 
-[Manage favorites](../task/web-configure-favorites-employee.md)
+[Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/web-configure-favorites-employee.md)
 

@@ -32,7 +32,7 @@ Role required: sys\_admin
 
     The Manifest file is downloaded in your local drive.
 
-    ![Manifest file.](../image/download-manifest.png)
+    ![Manifest file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/download-manifest.png)
 
 4.  To enable the add-in, contact your Microsoft 365 account manager who can use the manifest file you downloaded in step 3.
 

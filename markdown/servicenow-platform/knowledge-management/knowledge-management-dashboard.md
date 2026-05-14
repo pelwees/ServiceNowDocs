@@ -21,11 +21,11 @@ The Knowledge Management dashboard helps knowledge content owners and managers t
 -   To enable the solution for Knowledge Management, an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Select Get Started then scroll to the section for Knowledge Management. The guided setup takes you through the entire setup and configuration process.
 -   To access the Knowledge Management dashboard, navigate to **All** &gt; **Self-Service** &gt; **Dashboard**. In the **Search dashboard** field, search for the Knowledge Management dashboard.
 
-![Tab showing user activity, click rank, and click through rate for any user and authenticated user activities](../../../product/knowledge-management/image/kmdash-content-usage.png "Knowledge Management dashboard- Content Usage tab")
+![Tab showing user activity, click rank, and click through rate for any user and authenticated user activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../product/knowledge-management/image/kmdash-content-usage.png "Knowledge Management dashboard- Content Usage tab")
 
-![Tab showing time to publish of articles](../../../product/knowledge-management/image/kmdash-content-gov.png "Knowledge Management dashboard - Content Governance tab")
+![Tab showing time to publish of articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../product/knowledge-management/image/kmdash-content-gov.png "Knowledge Management dashboard - Content Governance tab")
 
-![The Content Quality view shows the quality index, the percentage of flagged articles, the monthly average rating, and other quality reports](../../../product/knowledge-management/image/kmdash-content-quality.png "Knowledge Management dashboard-Content Quality tab")
+![The Content Quality view shows the quality index, the percentage of flagged articles, the monthly average rating, and other quality reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../product/knowledge-management/image/kmdash-content-quality.png "Knowledge Management dashboard-Content Quality tab")
 
 |End user and goal|Required role|Benefits|
 |-----------------|-------------|--------|
@@ -134,12 +134,12 @@ The dashboards include the following visualizations:
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Articles with Inactive Authors|Column![Column icon](../../performance-analytics/image/column-icon.png)|Active = true and Author.Active = False|
-|Invalid Articles|Column![Column icon](../../performance-analytics/image/column-icon.png)|Active = true and Workflow is one of Draft, Review, Published, or Pending Retirement and Valid to is before today and latest = true|
-|Articles Created Over 1 Year|Column![Column icon](../../performance-analytics/image/column-icon.png)|Active = true and Created = before 1 year ago|
-|Articles not Published|Column![Column icon](../../performance-analytics/image/column-icon.png)|Active = true and Workflow is Draft or Review|
+|Articles with Inactive Authors|Column![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../performance-analytics/image/column-icon.png)|Active = true and Author.Active = False|
+|Invalid Articles|Column![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../performance-analytics/image/column-icon.png)|Active = true and Workflow is one of Draft, Review, Published, or Pending Retirement and Valid to is before today and latest = true|
+|Articles Created Over 1 Year|Column![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../performance-analytics/image/column-icon.png)|Active = true and Created = before 1 year ago|
+|Articles not Published|Column![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../performance-analytics/image/column-icon.png)|Active = true and Workflow is Draft or Review|
 
-**Parent Topic:**[Knowledge Management Platform Analytics Solutions](knowledge-content-pack.md)
+**Parent Topic:**[Knowledge Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-content-pack.md)
 
 **Related topics**  
 

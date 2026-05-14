@@ -44,34 +44,34 @@ Role required: sn\_eam.enterprise\_admin, sn\_eam.enterprise\_asset\_manager, or
     3.  Select the fields by which to sort your tasks.
 
 
-**Parent Topic:**[Manage an Enterprise Asset Management task using the Mobile Agent application](work-order-mobile-agent-eam.md)
+**Parent Topic:**[Manage an Enterprise Asset Management task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/work-order-mobile-agent-eam.md)
 
 **Related topics**  
 
 
-[Assign a group task to yourself using the Mobile Agent application](pick-task-from-assignment-group.md)
+[Assign a group task to yourself using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pick-task-from-assignment-group.md)
 
-[Start working on tasks using the Mobile Agent application](start-work-mobile-agent-eam.md)
+[Start working on tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/start-work-mobile-agent-eam.md)
 
-[Record time worked on a task using the Mobile Agent application](../concept/record-time-mobile-agent-app.md)
+[Record time worked on a task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-time-mobile-agent-app.md)
 
-[Initiate a request to source parts for work order tasks using the Mobile Agent application](source-parts-mobile-agent.md)
+[Initiate a request to source parts for work order tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/source-parts-mobile-agent.md)
 
-[Close a Pick Up Asset task using the Mobile Agent application](pickup-asset-task-mobile-agent.md)
+[Close a Pick Up Asset task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pickup-asset-task-mobile-agent.md)
 
-[Take action on an enterprise asset using the Mobile Agent application](complete-work-order-mobile-agent.md)
+[Take action on an enterprise asset using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-work-order-mobile-agent.md)
 
-[Close a work order for an enterprise asset using the Mobile Agent application](close-workorder-mobile-app-eam.md)
+[Close a work order for an enterprise asset using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/close-workorder-mobile-app-eam.md)
 
-[Create a checklist for work order tasks using the Mobile Agent application](manage-work-orders-using-checklist.md)
+[Create a checklist for work order tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-work-orders-using-checklist.md)
 
-[View knowledge articles related to work order tasks in the Mobile Agent application](view-knowledge-articles-mobile-agent.md)
+[View knowledge articles related to work order tasks in the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-knowledge-articles-mobile-agent.md)
 
-[Create work notes about the work order tasks using the Mobile Agent application](create-worknote-mobile-agent.md)
+[Create work notes about the work order tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-worknote-mobile-agent.md)
 
-[Set enterprise assets to the shutdown state using the Mobile Agent application](shutdown-assets-eam-mobile.md)
+[Set enterprise assets to the shutdown state using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/shutdown-assets-eam-mobile.md)
 
-[Start up enterprise assets after maintenance activities using the Mobile Agent application](startup-assets-eam-mobile.md)
+[Start up enterprise assets after maintenance activities using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/startup-assets-eam-mobile.md)
 
-[Move enterprise assets to maintenance state using the Mobile Agent application](move-assets-maintenance-mobile.md)
+[Move enterprise assets to maintenance state using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/move-assets-maintenance-mobile.md)
 

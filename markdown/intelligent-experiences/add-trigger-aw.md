@@ -21,7 +21,7 @@ Role required: sn\_aia.admin
 
 Adding a trigger is optional. If you want your agentic workflow to be used only in chats such as in Now Assist for Virtual Agent or Now Assist panel, you don't need to add a trigger. Only add a trigger if you want to invoke the agentic workflow automatically when some event occurs.
 
-If you don't want to add a trigger, skip to the final step, [Select channels and access](channels-access-aw.md).
+If you don't want to add a trigger, skip to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ If you don't want to add a trigger, skip to the final step, [Select channels and
     |Name|Name of the trigger.|
     |Trigger objective|Additional user statements or sample utterances that help guide when to trigger this agentic workflow.|
 
-    ![Edit/create a trigger basic description](../image/edit-trigger-1.png)
+    ![Edit/create a trigger basic description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-1.png)
 
 <table><thead><tr><th>
 
@@ -67,10 +67,10 @@ Active trigger toggle
 
 </td><td>
 
-Only enable the trigger once you’re confident in the execution of your agentic workflow. Try testing the [agentic workflow execution](test-aia-use-case.md) and [user access](test-aw-access.md) first. To review overall trends over many executions, try an [automated evaluation](execute-aia-eval.md).
+Only enable the trigger once you’re confident in the execution of your agentic workflow. Try testing the [agentic workflow execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md) and [user access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md) first. To review overall trends over many executions, try an [automated evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 </td></tr></tbody>
-</table>    ![Define when the trigger occurs section](../image/edit-trigger-2.png)
+</table>    ![Define when the trigger occurs section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-2.png)
 
 <table><thead><tr><th>
 
@@ -99,7 +99,7 @@ Show an alert to users
 Alerts appear in the selected channel.
 
 </td></tr></tbody>
-</table>    ![Log and launch options for a trigger section](../image/edit-trigger-3.png)
+</table>    ![Log and launch options for a trigger section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/edit-trigger-3.png)
 
     If you choose a scheduled trigger, additional options are available, such as the day of the week and time when you want the trigger to run.
 
@@ -118,5 +118,5 @@ You have added triggers to your agentic workflow to run it automatically under t
 
 ## What to do next
 
-Select **Save and continue** to move to the final step, [Select channels and access](channels-access-aw.md).
+Select **Save and continue** to move to the final step, [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md).
 

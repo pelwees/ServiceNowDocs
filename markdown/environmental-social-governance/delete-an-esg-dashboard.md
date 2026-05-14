@@ -36,5 +36,5 @@ Role required: sn\_esg.data\_owner, sn\_esg.metrics\_manager
     3.  Select the More actions icon ![](../images/more-menu.png) and choose **Repair**.
     4.  Select **Repair** in the Activate Plugin window.
 
-**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](monitor-data-using-esg-dashboards.md)
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 

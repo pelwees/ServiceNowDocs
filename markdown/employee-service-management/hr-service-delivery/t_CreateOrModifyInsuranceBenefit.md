@@ -177,5 +177,5 @@ Employee Contribution \(per year\)
 8.  Click **Update**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

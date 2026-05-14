@@ -87,10 +87,10 @@ glide.scan.sn\_non\_standard\_scopes\_list
 -   Used to exclude specific non-standard ServiceNow scopes from being classified as ISV/third-party applications during scan classification
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Instance Scan references](hs-references.md)
+</table>**Parent Topic:**[Instance Scan references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-references.md)
 
 **Related topics**  
 
 
-[Instance Scan roles](instance-scan-roles.md#)
+[Instance Scan roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/instance-scan-roles.md#)
 

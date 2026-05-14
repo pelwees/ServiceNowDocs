@@ -43,19 +43,19 @@ Build a complete profile of your talent with a comprehensive view of the skills 
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Skills Foundation application empowers customers on their journey toward Talent Development.](exploring-skills-intelligence.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Skills Foundation application empowers customers on their journey toward Talent Development.](exploring-skills-intelligence.md)
 
 </td><td>
 
-[Install and configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Skills Foundation app and related features.](configuring-skills-intelligence.md)
+[Install and configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Skills Foundation app and related features.](configuring-skills-intelligence.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how to view and manage your skills profile.](using-skills-intelligence.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how to view and manage your skills profile.](using-skills-intelligence.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](skills-intelligence-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components like fields, tables, and properties.](skills-intelligence-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

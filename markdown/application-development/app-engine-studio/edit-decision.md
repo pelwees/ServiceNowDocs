@@ -17,9 +17,9 @@ To update or change an existing decision for an app built in App Engine Studio \
 
 ## Before you begin
 
-Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](../concept/add-automation.md).
+Add logic and automation to your application. If you created an application using a template, logic and automation may already be added to your application. For more information on adding custom logic and automation, see [Add logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-automation.md).
 
-Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -27,9 +27,9 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 
 2.  From the My Apps page, open your application.
 
-3.  Next to a decision, select the menu icon \(![Menu icon](../image/menu-icon-purple.png)\) and then select **Edit**.
+3.  Next to a decision, select the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/menu-icon-purple.png)\) and then select **Edit**.
 
-    ![Decision table with menu actions 'Edit' and 'Delete' displayed.](../image/modify-decision.png)
+    ![Decision table with menu actions 'Edit' and 'Delete' displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/modify-decision.png)
 
 4.  Take the appropriate actions to edit the decision.
 
@@ -38,5 +38,5 @@ Role required: sn\_app\_eng\_studio.user or delegated\_developer. For more infor
 5.  To save your changes, select **Save**.
 
 
-**Parent Topic:**[Add a decision](add-decision.md)
+**Parent Topic:**[Add a decision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/add-decision.md)
 

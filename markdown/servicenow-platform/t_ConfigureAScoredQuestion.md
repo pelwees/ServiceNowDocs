@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [quiz scorecard](../concept/c_QuizScorecards.md).
+A question must have a correct answer specified to be scored. Only results for scored questions are displayed in the [quiz scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizScorecards.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ A question must have a correct answer specified to be scored. Only results for s
 
 6.  Select the **Correct answer** for the question.
 
-    **Note:** Multiple correct answers are supported for a few data types. See [Data types for quizzes](../reference/r_AvailableDataTypes.md).
+    **Note:** Multiple correct answers are supported for a few data types. See [Data types for quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_AvailableDataTypes.md).
 
 7.  Click **Update**.
 
@@ -46,7 +46,7 @@ A question must have a correct answer specified to be scored. Only results for s
 9.  Return to the list of metric categories, select another category, and configure scoring for the appropriate questions in that category.
 
 
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-**Parent Topic:**[Edit a quiz](t_EditaQuiz.md)
+**Parent Topic:**[Edit a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditaQuiz.md)
 

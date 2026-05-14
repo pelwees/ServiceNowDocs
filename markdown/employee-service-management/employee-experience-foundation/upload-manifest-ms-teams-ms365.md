@@ -37,7 +37,7 @@ Role required: admin
 
     The ServiceNow for Microsoft 365 app appears in the Apps screen.
 
-    ![ServiceNow for Microsoft Teams app.](../images/sn-ms-teams-ms365.png)
+    ![ServiceNow for Microsoft Teams app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-ms-teams-ms365.png)
 
 6.  Select the ServiceNow for Microsoft 365 app.
 

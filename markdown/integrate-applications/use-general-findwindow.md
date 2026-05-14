@@ -21,7 +21,7 @@ Role required: none
 
 The Find Window component identifies one or more rules associated with a Window and later uses the rules to set the focus back on the window. The component also returns the window handle of the window.
 
-You can configure the properties for the Find Window component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Find Window component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 ## Procedure
 
@@ -29,11 +29,11 @@ You can configure the properties for the Find Window component. For more informa
 
 2.  Drag the Find Window component to the Design surface.
 
-3.  Click the component settings icon \(![Component settings icon](../image/component-settings-icon.png)\).
+3.  Click the component settings icon \(![Component settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
-4.  Click and drag the capture window icon \(![Capture window icon.](../image/drag-window.png)\) and drop it on the window that you want to find.
+4.  Click and drag the capture window icon \(![Capture window icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/drag-window.png)\) and drop it on the window that you want to find.
 
-    The POTENTIAL MATCH RULES window shows the rules matching the window.![Rules matching a window](../image/find-window.png)
+    The POTENTIAL MATCH RULES window shows the rules matching the window.![Rules matching a window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/find-window.png)
 
 5.  Select a rule by clicking the rule.
 
@@ -56,5 +56,5 @@ You can configure the properties for the Find Window component. For more informa
 9.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

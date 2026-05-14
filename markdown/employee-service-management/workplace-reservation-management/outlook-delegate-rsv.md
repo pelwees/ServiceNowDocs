@@ -35,15 +35,15 @@ Role required: admin
 
 4.  On the New Event form, fill in the required information.
 
-    For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md).
+    For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
 5.  Select the add-in manifest file of your instance and create a reservation using the Make a reservation form.
 
-    For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md).
+    For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
 6.  Review your reservation in the Reservation Summary page.
 
-    ![Reservation summary showing the Reservation organizer and on behalf of (employee with delegate access).](../image/rsv-summary-page-use-for-delegate-summary3.png)
+    ![Reservation summary showing the Reservation organizer and on behalf of (employee with delegate access).](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/rsv-summary-page-use-for-delegate-summary3.png)
 
 7.  Select **Send** to send the meeting invite.
 
@@ -55,6 +55,6 @@ Role required: admin
 
     If you have delegated access to create a reservation, the All Reservations page shows the reservation details along with updated **Requested for** and **Opened by** column values.
 
-    ![Workplace Reservations page showing updated reservations for an employee. If you have provided delegate access, it shows the column values for the delegate and the organizer.](../image/delegate-fields-all-reservations-page.png)
+    ![Workplace Reservations page showing updated reservations for an employee. If you have provided delegate access, it shows the column values for the delegate and the organizer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/delegate-fields-all-reservations-page.png)
 
 

@@ -75,5 +75,5 @@ SLAConditionLocal.prototype = Object.extendsObject(SLAConditionBase, {
 });
 ```
 
-**Parent Topic:**[Extend SLA condition rules](../concept/c_ExtendSLAConditionRules.md)
+**Parent Topic:**[Extend SLA condition rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_ExtendSLAConditionRules.md)
 

@@ -39,7 +39,7 @@ Beginning with the Australia release, the Sitemap Generator configuration is ava
 
     2.  In the Sitemap Config Definition related list, double-click the **Type** field and select the **true** option from the list.
 
-    3.  Select the Save icon \(![Save icon](../image/save-km.png)\).
+    3.  Select the Save icon \(![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/save-km.png)\).
 
 4.  Select **Update**.
 
@@ -48,5 +48,5 @@ Beginning with the Australia release, the Sitemap Generator configuration is ava
 
 All active sitemaps regenerate once in a day and include content from any of their active sitemap definitions.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 

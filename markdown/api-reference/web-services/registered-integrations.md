@@ -22,8 +22,8 @@ Registering your integrations is key to effectively monitoring their API usage o
 -   **Basic Authentication** integrations: You can register or update both the **Integration Name** and the **Provider Name**.
 -   **OAuth** integrations: You can only register or update the **Provider Name**. The integration name for OAuth is automatically derived from the OAuth entity name.
 
--   **[Register Basic Authentication](../task/register-basic-authentication.md)**  
+-   **[Register Basic Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/register-basic-authentication.md)**  
 Register basic authentication for your inbound API integrations to effectively monitoring their API usage on the **Inbound API Usage Dashboard**.
 
-**Parent Topic:**[Monitor inbound API integration usage](inbound-api-integration-usage-dashboard.md)
+**Parent Topic:**[Monitor inbound API integration usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/inbound-api-integration-usage-dashboard.md)
 

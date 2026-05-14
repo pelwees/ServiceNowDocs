@@ -23,7 +23,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 This workflow describes how a client application \(back-end service or system integration\) authenticates directly with ServiceNow using its client credentials without user interaction. The application requests an access token using its client ID and client secret, which ServiceNow validates before issuing the token. The client then uses this token to access ServiceNow APIs. ServiceNow validates each request before returning the appropriate response.
 
-![Client credentials grant workflow](../../machine-identity/images/mic-client-credentials-workflow.png "Client credentials grant workflow")
+![Client credentials grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../machine-identity/images/mic-client-credentials-workflow.png "Client credentials grant workflow")
 
 ## Procedure
 

@@ -57,7 +57,7 @@ Application admin
 
 </td><td>
 
-Configures the workspace as per business requirements.For more information, see [Configure CSM Configurable Workspace](../task/configure-csm-workspace-fso-apps.md).
+Configures the workspace as per business requirements.For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../task/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Accessing the workspace
@@ -72,7 +72,7 @@ On the workspace landing page, get a quick overview of the cases and tasks that 
 
 The following is an example of a workspace landing page.
 
-![FSO workspace showing customer list with contact details and case summary cards displaying active cases and tasks.](../image/fso-workspace-landing-page.png "Example of an FSO landing page")
+![FSO workspace showing customer list with contact details and case summary cards displaying active cases and tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-workspace-landing-page.png "Example of an FSO landing page")
 
 ## List view
 
@@ -80,7 +80,7 @@ In the lists pane, you can quickly access cases and tasks by using the filtered 
 
 The following is an example of the workspace list view.
 
-![Customer Cases list view showing navigation panel with expandable sections and case records with details like number, service, consumer, and state.](../image/fso-workspace-list-view.png "Example of the list view in FSO workspace")
+![Customer Cases list view showing navigation panel with expandable sections and case records with details like number, service, consumer, and state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-workspace-list-view.png "Example of the list view in FSO workspace")
 
 ## Cases and tasks
 
@@ -91,7 +91,7 @@ In workspace, using the case playbook, you can review and work on your cases and
 
 The following is an example of a case playbook for a card dispute in the Financial Services Card Operations application.
 
-![Case playbook workspace showing the Resolve card disputes process with completed Select transaction step and case information panel.](../image/fso-workspace-case-playbook.png "Example of a card dispute case in the workspace")
+![Case playbook workspace showing the Resolve card disputes process with completed Select transaction step and case information panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-workspace-case-playbook.png "Example of a card dispute case in the workspace")
 
-**Parent Topic:**[Exploring Financial Services Operations](exploring-fso-apps.md)
+**Parent Topic:**[Exploring Financial Services Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-apps.md)
 

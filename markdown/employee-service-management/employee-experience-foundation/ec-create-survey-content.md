@@ -70,8 +70,8 @@ Option to indicate that the pulse content is active and available for use.
 
 8.  In the **Questions** related list:
 
-    -   To add a question to content, click **New**. For more information, see [Create a pulse question](ec-create-pulseq.md).
+    -   To add a question to content, click **New**. For more information, see [Create a pulse question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-pulseq.md).
     -   To add a question from Question Bank, click **From Question Bank**.
-    Add Content \(of type Pulse Content\) to a campaign in Content Experiences or schedule content in Content Publishing. For more information, see [Publishing content](../concept/ec-content-publishing-schedule.md).
+    Add Content \(of type Pulse Content\) to a campaign in Content Experiences or schedule content in Content Publishing. For more information, see [Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-content-publishing-schedule.md).
 
 

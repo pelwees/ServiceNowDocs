@@ -35,13 +35,13 @@ Preview a security incident and edit the mapping again as required to fix fields
 
 4.  From the Sample Notable Event IDs choice list, select an item.
 
-    ![Select event choice list expanded.](../image/new-images/splunk-es-preview.png)
+    ![Select event choice list expanded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-images/splunk-es-preview.png)
 
     The security incident is displayed. Do not change any information in the fields. This view is a read-only view, and a record of this security incident is not saved.
 
 5.  Review the field mapping of the notable event values on the security incident.
 
-    ![Error message on a security incident in the preview.](../image/new-images/preview-select-event.png)
+    ![Error message on a security incident in the preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-images/preview-select-event.png)
 
     The preceding image is an example of a preview with a mapping error. In this example, a field value from the notable event does not have an acceptable value for the reference field on the SIR incident form. An error message is displayed that indicates an input value was not found for **Priority** field. As a result, this mapped field value will not appear on the SIR security incident form without further modification.
 
@@ -53,7 +53,7 @@ Preview a security incident and edit the mapping again as required to fix fields
 
     The following figure is an example of the Incident Details tab on the bottom half of a SIR security incident after all error messages are resolved. For this example, the Description and Work notes fields were mapped, and these fields are populated with the values from the value pairs pulled from the Splunk Enterprise Security notable event samples. The first Work notes field has no value. This field was left blank on the mapping grid during the mapping step. The additional Work Note fields that have values were added to the mapping section.
 
-    ![Work note and Description fields on the security incident preview](../image/previewsplunk_es_worknote_security.png)
+    ![Work note and Description fields on the security incident preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/previewsplunk_es_worknote_security.png)
 
     **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
@@ -111,5 +111,5 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 </table>
 ## What to do next
 
-If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](splunk-event-ingest-schedule.md).
+If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-schedule.md).
 

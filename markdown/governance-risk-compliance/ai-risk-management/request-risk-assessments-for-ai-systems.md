@@ -103,7 +103,7 @@ Number of days within which the assessment should be completed after it’s init
 
 ## What to do next
 
-[Perform advanced risk assessment in the Risk Workspace](../../grc-workspace-risk/task/perform-ara-workspace.md)
+[Perform advanced risk assessment in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-workspace-risk/task/perform-ara-workspace.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

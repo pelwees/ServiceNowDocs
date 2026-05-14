@@ -24,7 +24,7 @@ CSDM Data Modeling helps Impact customers build a solid understanding of the Ser
 
 ## Prerequisites
 
-Customers are strongly encouraged to complete [Jumpstart Your CSDM: Foundation](jumpstart-csdm.md), [TuneUp Your CMDB](tuneup-your-cmdb.md), and [CSDM Maturity Assessment](csdm-maturity-assessment.md) prior to taking this accelerator to ensure foundational and configuration data population and an understanding of organizational maturity.
+Customers are strongly encouraged to complete [Jumpstart Your CSDM: Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-csdm.md), [TuneUp Your CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-your-cmdb.md), and [CSDM Maturity Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/csdm-maturity-assessment.md) prior to taking this accelerator to ensure foundational and configuration data population and an understanding of organizational maturity.
 
 ## What You Get
 

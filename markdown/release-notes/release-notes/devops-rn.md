@@ -71,5 +71,5 @@ Install DevOps Change Velocity by requesting it from the ServiceNow Store. Visit
     The ServiceNow® Governance, Risk, and Compliance Risk Management application helps you continuously monitor and identify high-impact risks, improve your risk-based decision-making, and reduce reaction time effectively. The application also provides structured workflows for the management of risk assessments, risk indicators, and risk issues.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

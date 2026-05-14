@@ -29,7 +29,7 @@ Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_polic
 
     The **Policies** panel displays a card for each policy that is mapped to the associated deployable.
 
-    ![Policies panel on the Validation results tab of the Snapshot form lists execution results.](../image/cdm-snapshot-policies-panel.png)
+    ![Policies panel on the Validation results tab of the Snapshot form lists execution results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-policies-panel.png)
 
 <table id="table_j2q_lj5_cqb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Each policy that has been executed for the deployable and its execution results 
 
 </td></tr></tbody>
 </table>    -   Select a card from the **Policies** panel to view the associated data in the **Failures and warnings** panel.
-    -   Select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for a policy and select an action, as follows:
+    -   Select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for a policy and select an action, as follows:
 
 <table id="table_nbn_hwk_gqb"><thead><tr><th>
 
@@ -76,7 +76,7 @@ Execution record
 
 </td><td>
 
-View execution information for this policy run. See [View the execution record for a policy run](cdm-execution-record-policy-view.md) for details.
+View execution information for this policy run. See [View the execution record for a policy run](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-execution-record-policy-view.md) for details.
 
 </td></tr><tr><td>
 

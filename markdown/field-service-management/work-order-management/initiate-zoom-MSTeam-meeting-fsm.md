@@ -39,7 +39,7 @@ On initiating the meeting, participants receive an email and SMS notification th
 
 5.  Initiate the meeting.
 
-    1.  Tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon and then select the call platform.
+    1.  Tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and then select the call platform.
 
         -   For a Zoom call, select **Make a Zoom Call**.
         -   For a Microsoft Teams meeting, select **Make a MS Teams Call**.
@@ -83,7 +83,7 @@ Customer
 
 </td><td>
 
-For Zoom calls, you can add a customer mentioned in the work order task.You must install the Customer Service with Field Service Management plugin to see the customer name on work order tasks. For more information, see [Integration with Customer Service Management](../concept/customer-service-integration.md).
+For Zoom calls, you can add a customer mentioned in the work order task.You must install the Customer Service with Field Service Management plugin to see the customer name on work order tasks. For more information, see [Integration with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/customer-service-integration.md).
 
 </td></tr></tbody>
 </table>    3.  After the participants list is finalized, tap **Submit** to initiate the conference call.

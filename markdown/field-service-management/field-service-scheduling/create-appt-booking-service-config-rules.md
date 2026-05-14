@@ -161,5 +161,5 @@ The service configuration rules are configured and provides varying duration of 
 
 ## What to do next
 
-Create an appointment booking advanced configuration for this service configuration rule. For more information, see [Create appointment booking advanced configuration](appintment-booking-day-level-config.md).
+Create an appointment booking advanced configuration for this service configuration rule. For more information, see [Create appointment booking advanced configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appintment-booking-day-level-config.md).
 

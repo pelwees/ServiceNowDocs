@@ -34,5 +34,5 @@ A moderation task is generated when a community user reports inappropriate conte
 4.  Select **Update**.
 
 
-**Parent Topic:**[Moderate a community](moderate-communities.md)
+**Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 

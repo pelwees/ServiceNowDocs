@@ -15,7 +15,7 @@ Input form sections are reusable components consisting of grouped inputs. You ca
 
 ## Before you begin
 
-You must create an input form screen that contains inputs before you create sections. For information about creating an input form screen and inputs, see [Configure an input form screen](parameter-screen-config.md) and [Configure input form screen inputs](param-screen-config-inputs.md).
+You must create an input form screen that contains inputs before you create sections. For information about creating an input form screen and inputs, see [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md) and [Configure input form screen inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/param-screen-config-inputs.md).
 
 Role required: admin
 
@@ -83,7 +83,7 @@ Role required: admin
 
 Your input form can contain any number of inputs and reusable sections within any number of pages.
 
-![Input form displaying a page containing inputs and a section.](../image/input-form-screen-sections.png)
+![Input form displaying a page containing inputs and a section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/input-form-screen-sections.png)
 
 ## What to do next
 

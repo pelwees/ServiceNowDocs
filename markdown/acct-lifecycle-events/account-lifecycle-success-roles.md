@@ -1599,5 +1599,5 @@ Granular role used for product capability.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customer Success Management reference](account-lifecycle-reference.md)
+</table>**Parent Topic:**[Customer Success Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-reference.md)
 

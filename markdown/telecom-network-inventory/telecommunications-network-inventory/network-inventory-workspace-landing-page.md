@@ -19,7 +19,7 @@ The landing page in the Network Inventory Workspace displays the list of your an
 
 The following image shows an example of the Network Inventory Workspace landing page.
 
-![Network Inventory Workspace landing page view of the current status of your assignments.](../image/network-inventory-workspace-landing-page-list.png "Landing page of Telecommunications Network Inventory Workspace")
+![Network Inventory Workspace landing page view of the current status of your assignments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/network-inventory-workspace-landing-page-list.png "Landing page of Telecommunications Network Inventory Workspace")
 
 ## Landing page widgets
 
@@ -40,5 +40,5 @@ On the landing page, do the following to view the change requests and change tas
 -   Select **Your work** to view your assignments.
 -   Select **Your team's work** to view your team's assignments.
 
-**Parent Topic:**[Network Inventory Workspace](exploring-network-inventory-workspace.md)
+**Parent Topic:**[Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 

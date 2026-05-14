@@ -19,7 +19,7 @@ As the base class for all workflow activities, this code always executes as part
 
 When developing your own workflow activities, create your script object by deriving from this class and overriding methods as necessary to get the functionality you want. Client code must override method onExecute\(\) to perform meaningful activity processing.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## WFActivityHandler - debug\(String msg, String args\)
 
@@ -99,7 +99,7 @@ String
 
 </td><td>
 
-Starting time for the task or approval in [GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#) format.
+Starting time for the task or approval in [GlideDateTime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDateTime/concept/c_GlideDateTimeAPI.md#) format.
 
 </td></tr><tr><td>
 

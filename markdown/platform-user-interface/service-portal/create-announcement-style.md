@@ -89,14 +89,14 @@ Text alignment. Options include:-   Left align
 
 ## Result
 
-By default, the announcement appears in both the portal banner and the Announcements widget, but only the banner uses your new display style. You can configure the widget to use the display style also. For more information, see the instance options in [Announcements widget](../concept/announcements-widget.md).
+By default, the announcement appears in both the portal banner and the Announcements widget, but only the banner uses your new display style. You can configure the widget to use the display style also. For more information, see the instance options in [Announcements widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/announcements-widget.md).
 
-**Parent Topic:**[Posting announcements to portal users](../concept/announcements.md)
+**Parent Topic:**[Posting announcements to portal users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/announcements.md)
 
 **Related topics**  
 
 
-[Create an announcement](create-announcement.md)
+[Create an announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md)
 
-[Create an announcement type](add-announcement-type.md)
+[Create an announcement type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-announcement-type.md)
 

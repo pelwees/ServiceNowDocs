@@ -45,7 +45,7 @@ The runtime APIs are the same APIs that are used in the runtime end user experie
 
     -   Purpose: Retrieves metrics on transactions. Metrics include views by user, session time by user, and stage time.
     -   Response: Summary metrics for the last 30 days or for a specified date range.
-    For further details about the Transaction Manager metrics API, see [Transaction Manager: Transaction metrics API](cpq-transaction-manager-metrics-api.md).
+    For further details about the Transaction Manager metrics API, see [Transaction Manager: Transaction metrics API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-transaction-manager-metrics-api.md).
 
 
 [Postman Collection](https://logikio.atlassian.net/wiki/spaces/CS/pages/2234351617/Txn+Mgr+-+Intro+to+Transaction+Manager+Runtime+API+Calls)

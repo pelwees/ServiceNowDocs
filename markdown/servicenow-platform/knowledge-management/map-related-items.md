@@ -38,14 +38,14 @@ To edit the article, you must have knowledge contributor access for the associat
     **Note:** Knowledge administrators can configure the number of catalog items shown in the Related Items section using the instance options.
 
 
-**Parent Topic:**[Creating and maintaining articles](../concept/creating-and-maintaining-articles.md)
+**Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/creating-and-maintaining-articles.md)
 
 **Related topics**  
 
 
-[Edit a knowledge article](edit-knowledge-article.md)
+[Edit a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md)
 
-[Service Catalog items](../../service-catalog-management/concept/c_IntroductionToCatalogItems.md)
+[Service Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../service-catalog-management/concept/c_IntroductionToCatalogItems.md)
 
-[Configure related catalog item widget instance options](configure-related-items-widget.md)
+[Configure related catalog item widget instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-related-items-widget.md)
 

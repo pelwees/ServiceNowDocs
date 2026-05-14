@@ -45,10 +45,10 @@ Use HR reports to improve overall efficiency and effectiveness. For example, you
 
 If you want to create additional HR reports, click **Create a report** above the Reports list. After you create reports, share them with the HR report group. Once on the Reports list, the group can view them.
 
--   **[Available HR reports](../reference/r_AvailableReports.md)**  
+-   **[Available HR reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/r_AvailableReports.md)**  
 Predefined HR reports are available in the **HR Case Management** &gt; **Reports** list.
 
-**Parent Topic:**[HR Dashboards &amp; Reports](../concept/c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRDashboardsReports.md)
 
 **Related topics**  
 

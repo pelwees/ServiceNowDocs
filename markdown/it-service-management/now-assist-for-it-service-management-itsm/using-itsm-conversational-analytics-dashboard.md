@@ -44,7 +44,7 @@ ITIL \(itil\) and the AI Engagement Viewer \(sn\_na\_analytics.ai\_engmt\_viewer
 The ITSM Virtual Agent analytics dashboard displays.
 
 
-![ITSM Virtual Agent analytics dashboard](../image/now-assist-itsm-va-itagent-dashboard.png)
+![ITSM Virtual Agent analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-va-itagent-dashboard.png)
 
 </td></tr><tr><td>
 
@@ -63,11 +63,11 @@ The Assistant Designer screen appears.
 The ITSM Virtual Agent analytics dashboard displays.
 
 
-![ITSM Virtual Agent analytics Assistant Designer](../image/now-assist-itsm-assistant-designer-analytics.png)
+![ITSM Virtual Agent analytics Assistant Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-assistant-designer-analytics.png)
 
 </td></tr></tbody>
-</table>-   **[ITSM Virtual Agent Analytics reference](../reference/now-assist-itsm-va-analytics-reference.md)**  
+</table>-   **[ITSM Virtual Agent Analytics reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-va-analytics-reference.md)**  
 As an admin, you can refer to the indicators, schedule jobs, and scripts used in the ITSM Virtual Agent analytics.
 
-**Parent Topic:**[Now Assist for IT Service Management \(ITSM\)](now-assist-itsm.md)
+**Parent Topic:**[Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
 

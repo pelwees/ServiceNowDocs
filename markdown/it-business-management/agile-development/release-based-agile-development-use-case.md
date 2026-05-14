@@ -28,5 +28,5 @@ The usual activities involved in a release-based agile development are:
     In Agile Development 2.0, navigate to **Agile Development** &gt; **Agile Board** &gt; **Sprint Planning**.
 
 
-**Parent Topic:**[Agile Development use cases](agile-workflow-use-cases.md)
+**Parent Topic:**[Agile Development use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-workflow-use-cases.md)
 

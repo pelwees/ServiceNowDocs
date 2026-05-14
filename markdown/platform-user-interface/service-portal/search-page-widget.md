@@ -15,9 +15,9 @@ breadcrumb: [Search widgets, Widget library, Using portal widgets, Configuring S
 
 The Search Page widget displays search results. The Faceted Search widget replaces the Search Page widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Search Page widget showing results for "Email](../image/WidgetSearchPage.png "Search Page widget")
+![Search Page widget showing results for "Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetSearchPage.png "Search Page widget")
 
-![Search page instance options with fields completed as follows: Show score = selected, Max results for All search=4, Max results for single search group=1](../image/SearchPageInstanceOptions.png "Search Page instance options")
+![Search page instance options with fields completed as follows: Show score = selected, Max results for All search=4, Max results for single search group=1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/SearchPageInstanceOptions.png "Search Page instance options")
 
 |Field|Description|
 |-----|-----------|
@@ -26,16 +26,16 @@ The Search Page widget displays search results. The Faceted Search widget replac
 |Max results for single search group|The maximum number of results that show for a single search group when you view that specific search group.|
 |Show Did You Mean|Displays suggestions when a search produces no results.|
 
-For more information on configuring search, see [Configuring search in a portal](search-service-portal.md).
+For more information on configuring search, see [Configuring search in a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-service-portal.md).
 
-**Parent Topic:**[Search widgets](search-widgets.md)
+**Parent Topic:**[Search widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

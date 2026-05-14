@@ -34,9 +34,9 @@ Package the blueprint as an update set. Then export the update set from its curr
 
 2.  Export the blueprint.
 
-    1.  Click the Export icon \(![Blueprint export icon](../image/export-resource-block.png)\) for the blueprint that you want to export.
+    1.  Click the Export icon \(![Blueprint export icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/export-resource-block.png)\) for the blueprint that you want to export.
 
-        ![Blueprint exporter window](../image/blueprint-exporter-madrid.png "Blueprint exporter window")
+        ![Blueprint exporter window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-exporter-madrid.png "Blueprint exporter window")
 
         The Blueprint Exporter window has a list of all the indirect dependencies \(Policy, MID Server Script Includes, MID Server Script Files, Script Includes, and Workflows\) for the blueprint. Objects such as policies, pools, MID scripts, script includes, and workflows are not directly a part of a blueprint, but a blueprint might depend on these objects to work correctly.
 
@@ -52,7 +52,7 @@ Package the blueprint as an update set. Then export the update set from its curr
 
         The Blueprint Exporter window opens with the **Success** check box selected in green indicating that the blueprint has been successfully exported along with all its dependencies. By default, all the files listed under Exported Update Set\(s\) get downloaded onto your system automatically. However, if the files are not automatically downloaded, follow these steps.
 
-        ![Blueprint Exporter success window](../image/blueprint-export-success.png)
+        ![Blueprint Exporter success window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-export-success.png)
 
         **Note:** The number of update sets created is based on the scope of records that are being exported. For example, assume the blueprint that you are exporting has 100 records in all: 60 records are in scope one, 20 records are in scope two, and the remaining 20 records are in scope three. In such a scenario, three update sets are created. One update set for each scope.
 

@@ -42,10 +42,10 @@ When you create a survey, the system creates a default category, using the name 
     The new category appears below the category that you selected to create it. You can click the **X** icon in a category header to delete a category that you added in error.
 
 
-**Parent Topic:**[Survey categories](../concept/c_SurveyCategory.md)
+**Parent Topic:**[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyCategory.md)
 
 **Related topics**  
 
 
-[Create a survey category in a survey](t_CreateASurveyCategory.md)
+[Create a survey category in a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyCategory.md)
 

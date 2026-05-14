@@ -27,13 +27,13 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing events**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing events**.
 3.  Open the sourcing event that is in Requires Decision state.
 
-    ![Award option for a pipeline project.](../image/pipeline-award-option.png)
+    ![Award option for a pipeline project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-option.png)
 
 4.  Select **Award**.
 
@@ -41,11 +41,11 @@ The sourcing event that you plan to work on, and all its associated negotiations
 
 5.  In the **Supplier** field, select a supplier, and then select **Next**.
 
-    ![Select a supplier.](../image/pipeline-award-supplier-select.png)
+    ![Select a supplier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-supplier-select.png)
 
 6.  Enter the spend and savings data in the **Final spend**, **Cost avoidance**, **Lost savings**, and **Other savings** fields.
 
-    ![Enter spend and savings data for the pipeline project.](../image/pipeline-award-supplier-financials.png)
+    ![Enter spend and savings data for the pipeline project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-award-supplier-financials.png)
 
     **Note:** The Review financials modal is displayed only if the sourcing event is associated with a pipeline project.
 
@@ -56,5 +56,5 @@ The sourcing event that you plan to work on, and all its associated negotiations
 7.  Select **Submit**.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-pipeline-sourcing-mgmt.md)
 

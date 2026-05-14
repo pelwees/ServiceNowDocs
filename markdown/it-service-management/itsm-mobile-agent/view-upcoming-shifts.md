@@ -31,7 +31,7 @@ Use the On-Call Scheduling applet to view your upcoming shifts and request time 
 
     All upcoming shifts for the current month are displayed. The shifts are grouped based on the type of events. One-day events are displayed at the top, followed by multi-day events and short-duration events that are sorted based on the time that the event was created.
 
-    ![Upcoming shifts.](../../../product/itsm-mobile-agent/image/Upcoming-shifts-itsm-mobile.png)
+    ![Upcoming shifts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../product/itsm-mobile-agent/image/Upcoming-shifts-itsm-mobile.png)
 
 3.  Tap a shift card to view the following shift details:
 

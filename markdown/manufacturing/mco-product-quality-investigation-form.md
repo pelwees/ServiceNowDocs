@@ -165,10 +165,10 @@ Report summary
 Enter the summary of the PQI report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Quality issue management form](mco-qim-form.md)
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[Create a product quality investigation](../task/mco-create-product-quality-investigation.md)
+[Create a product quality investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-create-product-quality-investigation.md)
 

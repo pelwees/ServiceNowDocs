@@ -65,7 +65,7 @@ The BCM admin contains the Approver Configurator admin role, but it doesn’t co
 
 For security reasons, the Approver Configurator admin has read access to the **Script** field on the Approval Rule form. If you have the Approver Configurator developer role in the GRC: Approver Configurator application, you’ve create and write access to the **Script** field on the Approval Rule form.
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](../../grc-common/reference/roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/reference/roles-installed-with-approver-configurator.md).
 
 
 </td><td>
@@ -390,7 +390,7 @@ Allows read access on all recovery events.
 </td></tr></tbody>
 </table>## BCM lite operator role
 
-For information on the BCM lite operator role, see [BCM lite operators](../concept/bcm-lite-operators.md).
+For information on the BCM lite operator role, see [BCM lite operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-lite-operators.md).
 
 ## Tables installed
 
@@ -925,9 +925,9 @@ Business Continuity Management – Planning
 </td></tr></tbody>
 </table>## Properties installed
 
-For properties installed with the Business Continuity Management application, see [Properties installed with BCM](properties-bcm.md).
+For properties installed with the Business Continuity Management application, see [Properties installed with BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/properties-bcm.md).
 
-**Parent Topic:**[BCM reference](bcm-reference.md)
+**Parent Topic:**[BCM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-reference.md)
 
 ## Script includes in Business Continuity Management
 

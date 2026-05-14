@@ -43,7 +43,7 @@ The number of retries permitted before removing all errored permission entries f
 
  -   Type: integer
 -   Default value: 5
--   Learn more: [Configure an external storage system for legal requests and legal matters](../task/integrate-legal-ext-storage.md)
+-   Learn more: [Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/integrate-legal-ext-storage.md)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ The amount of time the system waits in minutes before retrying to execute permis
 
  -   Type: integer
 -   Default value: 20
--   Learn more: [Configure an external storage system for legal requests and legal matters](../task/integrate-legal-ext-storage.md)
+-   Learn more: [Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/integrate-legal-ext-storage.md)
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ The number of permission records that can be included in single job execution.
 
  -   Type: integer
 -   Default value: 30
--   Learn more: [Configure an external storage system for legal requests and legal matters](../task/integrate-legal-ext-storage.md)
+-   Learn more: [Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/integrate-legal-ext-storage.md)
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ The maximum number of failed job execution calls permitted before the flow statu
 
  -   Type: integer
 -   Default value: 5
--   Learn more: [Configure an external storage system for legal requests and legal matters](../task/integrate-legal-ext-storage.md)
+-   Learn more: [Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/integrate-legal-ext-storage.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -129,5 +129,5 @@ The property allows the closure of a legal request even if it has open matters a
 -   Default value: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Request Management reference](legal-request-management-reference.md)
+</table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 

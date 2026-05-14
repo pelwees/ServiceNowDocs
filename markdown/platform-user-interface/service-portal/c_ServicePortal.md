@@ -23,27 +23,27 @@ Both beginner and expert developers can configure portals using Service Portal. 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how administrators, developers, and end users use portals built with Service Portal.](exploring-service-portal.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how administrators, developers, and end users use portals built with Service Portal.](exploring-service-portal.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your portal.](configuring-service-portal.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your portal.](configuring-service-portal.md)
 
 </td><td>
 
-[Develop widgets ![](../../../reuse/icons/brand-icons/bus-application-developer.svg)Develop custom widgets using AngularJS, Bootstrap, and the ServiceNow API.](widget-dev-guide.md)
+[Develop widgets ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-application-developer.svg)Develop custom widgets using AngularJS, Bootstrap, and the ServiceNow API.](widget-dev-guide.md)
 
 </td></tr><tr><td>
 
-[Improve SEO![](../../../reuse/icons/brand-icons/bus-discover.svg)Make public portal pages more findable by improving how external search engines index and rank pages.](seo-sp.md)
+[Improve SEO![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-discover.svg)Make public portal pages more findable by improving how external search engines index and rank pages.](seo-sp.md)
 
 </td><td>
 
-[Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Get insights to optimize your portal.](using-portal-analytics.md)
+[Analyze![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Get insights to optimize your portal.](using-portal-analytics.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, SCSS variables, and more.](reference-service-portal.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about properties, SCSS variables, and more.](reference-service-portal.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

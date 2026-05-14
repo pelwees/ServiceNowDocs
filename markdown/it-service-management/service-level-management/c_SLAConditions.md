@@ -86,5 +86,5 @@ Similarly, if your Pause condition is a subset of your Start condition, the SLA 
 
 In addition, if you create a SLA definition with a Start condition and a Pause condition that are mutually exclusive, your SLA will never pause but will always be canceled first. For example, for an SLA definition where the Start condition is **State is one of "New, Active"** and the Pause condition is **State is "On Hold"**, when the Task is updated to state **On Hold**, the start condition will no longer match and the task SLA will be canceled.
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 

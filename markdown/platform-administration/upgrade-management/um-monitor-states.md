@@ -19,13 +19,13 @@ When an upgrade is scheduled, the Upgrade Monitor displays information about the
 
 There is no upgrade that has been scheduled currently.
 
-![Image showing no scheduled upgrade over monitor view](../../upgrade-center/image/uc-monitor-no-upgrade1.png)
+![Image showing no scheduled upgrade over monitor view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-monitor-no-upgrade1.png)
 
 You can also schedule an upgrade by selecting **Schedule upgrade**. To check for an immediately available upgrade, select **Check for upgrade**. It also shows the current version of your upgrade and the date it was upgraded on.
 
 ## Upgrade scheduled
 
-There is an upgrade that has been scheduled to start at a given time.![Image showing a scheduled upgrade over monitor view](../../upgrade-center/image/uc-monitor-scheduled-upgrade.png)
+There is an upgrade that has been scheduled to start at a given time.![Image showing a scheduled upgrade over monitor view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-monitor-scheduled-upgrade.png)
 
 You can also reschedule the upgrade by selecting **Reschedule upgrade**. To check for an immediately available upgrade, select **Check for upgrade**. By selecting either **Reschedule upgrade** or **Schedule upgrade**, you will be directed to [HI Upgrade Wizard](https://support.servicenow.com/kb_view.do?sysparm_article=KB0792425).
 
@@ -35,7 +35,7 @@ If one or both of the triggers for upgrading the system \('Check distribution fo
 
 **Note:** If your instance is self-hosted \(not hosted by ServiceNow\) this message may not necessarily indicate a problem. If you have customized or disabled the upgrade job and want to keep that customization or disabled state, do not select the button to fix the upgrade issue.
 
-![Image showing the error message "Detected an issue with one or more upgrade jobs. Your next upgrade might not run. Click here to fix the upgrade jobs."](../../upgrade-center/image/uc-monitor-issue.png)
+![Image showing the error message "Detected an issue with one or more upgrade jobs. Your next upgrade might not run. Click here to fix the upgrade jobs."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-monitor-issue.png)
 
 To resolve the issues with the upgrade jobs, select the link in the message. This action reverts both upgrade triggers \('Check distribution for possible upgrade' and 'Check database for possible upgrade'\) to their base versions.
 

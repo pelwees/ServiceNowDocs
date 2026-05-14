@@ -26,5 +26,5 @@ For a user, access to Service Operations Workspace for ITSM is based on the foll
     -   Custom roles require updates to ACLs \(access control lists\) that restrict access to certain functionality.
 -   First audience that the user belongs to.
 
-![Flow chart for SOW access](../image/sow-access.png)
+![Flow chart for SOW access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-access.png)
 

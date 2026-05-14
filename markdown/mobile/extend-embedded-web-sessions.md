@@ -63,9 +63,9 @@ Application
 
 Application scope where the mobile property is applied.
 
- To select a different application scope, select the globe icon \(![Globe](../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**.
+ To select a different application scope, select the globe icon \(![Globe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) on the instance banner. Then select **Application scope: _application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Mobile app configuration for which you want to use the mobile property. This set
 
 **Note:** For the **extend\_web\_session** mobile property, which is turned on by default, you can only turn off the extended web session time for users with the mobile app configuration that you specify for this field. If you don’t specify a Mobile App Config, all end-user web sessions are extended in Washington DC family release versions and later.
 
- To enter a value, either start typing the configuration name or select the search icon \(![Magnifying glass](../image/search-icon.png)\). The search dialog box lists the configurations from which you can choose.
+ To enter a value, either start typing the configuration name or select the search icon \(![Magnifying glass](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-icon.png)\). The search dialog box lists the configurations from which you can choose.
 
  Select one of the following mobile app configs:
 
@@ -143,7 +143,7 @@ Mobile application to which you want to send the mobile property. This setting l
 
  **Note:** For the **extend\_web\_session** mobile property, which is turned on by default, you can only turn off the extended web session time for users with the mobile application that you specify for this field. If you don’t specify a Mobile Application, all end-user web sessions are extended in Washington DC family release versions and later.
 
- To enter a value, either start typing the application name or select the search icon \(![Magnifying glass](../image/search-icon.png)\). The search dialog box lists the applications from which you can choose.
+ To enter a value, either start typing the application name or select the search icon \(![Magnifying glass](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-icon.png)\). The search dialog box lists the applications from which you can choose.
 
  Select one of the following mobile applications:
 
@@ -159,5 +159,5 @@ Mobile application to which you want to send the mobile property. This setting l
 
 After updating this property, the end user must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md)
 

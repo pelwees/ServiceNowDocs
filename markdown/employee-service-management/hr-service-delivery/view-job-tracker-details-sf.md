@@ -52,18 +52,18 @@ Role required: sn\_hr\_sf.admin
     |Order|Order in which the item is executed as part of sync.|
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](using-hr-service-delivery-integration-with-success-factors.md)
+**Parent Topic:**[Using HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-service-delivery-integration-with-success-factors.md)
 
 **Related topics**  
 
 
-[View to dos](../task/view-to-dos-sf.md)
+[View to dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/view-to-dos-sf.md)
 
-[Use transform maps](../reference/use-transform-maps-sf.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/use-transform-maps-sf.md)
 
-[Field mappings](../reference/field-mappings-sf.md)
+[Field mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/field-mappings-sf.md)
 
-[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](na-va-sf.md)
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/na-va-sf.md)
 
-[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](conversational-agents-sf.md)
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/conversational-agents-sf.md)
 

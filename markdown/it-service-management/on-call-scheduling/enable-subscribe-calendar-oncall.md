@@ -40,10 +40,10 @@ The Subscription URL supports SSO authentication to view and download on-call ca
 
 4.  Select **Update**.
 
-5.  Select **Send Subscriptions** to send the calendar subscription URL to all members of the shift by email.![A preview of the email.](../image/subscriptiom-email-oncall.png)
+5.  Select **Send Subscriptions** to send the calendar subscription URL to all members of the shift by email.![A preview of the email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/subscriptiom-email-oncall.png)
 
-    Members of the shift will receive an email with the subscription link. Select the **Subscription link** and log in with SSO credentials to download the calendar or generate and copy the subscription URL.![The screen shows the option to download the schedule or to obtain a publicly accessible URL for subscribing to the schedule.](../image/oncall-calendar-subscription-page.png)
+    Members of the shift will receive an email with the subscription link. Select the **Subscription link** and log in with SSO credentials to download the calendar or generate and copy the subscription URL.![The screen shows the option to download the schedule or to obtain a publicly accessible URL for subscribing to the schedule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/oncall-calendar-subscription-page.png)
 
 
-**Parent Topic:**[Managing schedules and shifts](../../user-administration/concept/manage-schedules-and-shifts.md)
+**Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/manage-schedules-and-shifts.md)
 

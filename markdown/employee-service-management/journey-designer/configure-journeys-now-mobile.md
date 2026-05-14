@@ -21,9 +21,9 @@ Role required: sn\_jny.admin
 
 Plugins: Journey designer \(sn\_jny\), Journey Accelerator \(sn\_ja\), HR Service Delivery for mobile \(sn\_hr\_mobile\)
 
-Assign the Journey to the employee and publish the Journey. See [Create a journey](jny-dsgnr-create-journey.md)
+Assign the Journey to the employee and publish the Journey. See [Create a journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-create-journey.md)
 
-For more information on Journeys, see [Journey designer](../concept/jny-dsgnr-landing-page-1.md).
+For more information on Journeys, see [Journey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-landing-page-1.md).
 
 ## Procedure
 
@@ -33,8 +33,8 @@ For more information on Journeys, see [Journey designer](../concept/jny-dsgnr-la
 
 3.  Upload an image to appear at the top of the Journey when viewed on Now Mobile.
 
-    For an example of how a Journey looks on Now Mobile, see [Journeys on Now Mobile](../concept/journeys-mobile-now.md).
+    For an example of how a Journey looks on Now Mobile, see [Journeys on Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/journeys-mobile-now.md).
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-configuration.md)
 

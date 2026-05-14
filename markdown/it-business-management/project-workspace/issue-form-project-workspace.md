@@ -113,7 +113,7 @@ Brief description of the issue and its potential impact on the success of the pr
 
  As you start entering the title for your issue, related issues that potentially match your issue are displayed.
 
- Click the suggestion icon \(![Suggestion icon](../../planning-and-policy/image/suggestions-icon.png)\) to select from the list of predefined issue descriptions.
+ Click the suggestion icon \(![Suggestion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../planning-and-policy/image/suggestions-icon.png)\) to select from the list of predefined issue descriptions.
 
 </td></tr><tr><td>
 
@@ -132,5 +132,5 @@ Work notes
 Information to record and track the work accomplished for resolving the issue.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 

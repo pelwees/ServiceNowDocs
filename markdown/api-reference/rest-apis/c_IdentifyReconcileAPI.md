@@ -19,15 +19,15 @@ Users must have the itil or asset role to use this API.
 
 For more information on the IRE, see [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## Identification and Reconciliation - POST /now/identifyreconcile
 
 Inserts or updates configuration items \(CIs\) in the CMDB by applying identification and reconciliation rules to the specified payload \(request body\). Use this API instead of updating the CMDB directly.
 
-Use the [Identification and Reconciliation - POST /now/identifyreconcile/query](c_IdentifyReconcileAPI.md#) endpoint to simulate submission of a payload to this endpoint without committing changes to the database.
+Use the [Identification and Reconciliation - POST /now/identifyreconcile/query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint to simulate submission of a payload to this endpoint without committing changes to the database.
 
-Use the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](c_IdentifyReconcileAPI.md#) endpoint instead if you need to specify Enhanced IRE options. For more on Enhanced IRE options, see [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md).
+Use the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint instead if you need to specify Enhanced IRE options. For more on Enhanced IRE options, see [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md).
 
 ### URL format
 
@@ -35,7 +35,7 @@ Versioned URL: `/api/now/{api_version}/identifyreconcile`
 
 Default URL: `/api/now/identifyreconcile`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -632,7 +632,7 @@ Type of relationship existing between the parent and child items. This must be a
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -645,7 +645,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -1933,9 +1933,9 @@ The Linux server CI is identified via a Hardware Rule search for its name on the
 
 Inserts or updates configuration items \(CIs\) in the CMDB by applying identification and reconciliation rules to the specified payload \(request body\). Use this API instead of updating the CMDB directly.
 
-Use the [Identification and Reconciliation - POST /now/identifyreconcile/queryEnhanced](c_IdentifyReconcileAPI.md#) endpoint to simulate submission of a payload to this endpoint without committing changes to the database.
+Use the [Identification and Reconciliation - POST /now/identifyreconcile/queryEnhanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint to simulate submission of a payload to this endpoint without committing changes to the database.
 
-This method is similar to the [Identification and Reconciliation - POST /now/identifyreconcile](c_IdentifyReconcileAPI.md#) method, but adds the following functionality:
+This method is similar to the [Identification and Reconciliation - POST /now/identifyreconcile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) method, but adds the following functionality:
 
 -   Partial payloads
     -   In case of an item having a warning or error, indicates if an item operation is INSERT\_AS\_PARTIAL or INSERT\_INCOMPLETE.
@@ -1949,7 +1949,7 @@ Versioned URL: `/api/now/{api_version}/identifyreconcile/enhanced`
 
 Default URL: `/api/now/identifyreconcile/enhanced`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -2567,7 +2567,7 @@ Type of relationship existing between the parent and child items. This must be a
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -2580,7 +2580,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table><thead><tr><th>
 
@@ -3977,9 +3977,9 @@ The response shows that the computer CI is inserted, and displays a summary of o
 
 Determines the CMDB operation \(insert/update\) to perform with the specified payload \(request body\), without committing the operations in the database.
 
-Use this endpoint to simulate submission of a payload \(request body\) to the [Identification and Reconciliation - POST /now/identifyreconcile](c_IdentifyReconcileAPI.md#) endpoint.
+Use this endpoint to simulate submission of a payload \(request body\) to the [Identification and Reconciliation - POST /now/identifyreconcile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint.
 
-Use the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](c_IdentifyReconcileAPI.md#) endpoint instead if you need to specify Enhanced IRE options. For more on Enhanced IRE options, see [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md).
+Use the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint instead if you need to specify Enhanced IRE options. For more on Enhanced IRE options, see [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md).
 
 ### URL format
 
@@ -3987,7 +3987,7 @@ Versioned URL: `/api/now/{api_version}/identifyreconcile/query`
 
 Default URL: `/api/now/identifyreconcile/query`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -4584,7 +4584,7 @@ Type of relationship existing between the parent and child items. This must be a
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -4597,7 +4597,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|
@@ -5928,9 +5928,9 @@ The Linux server CI is identified via a Hardware Rule search for its name on the
 
 Determines the CMDB operation \(insert/update\) to perform with the specified payload \(request body\), without committing the operations in the database.
 
-Use this endpoint to simulate submission of a payload \(request body\) to the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](c_IdentifyReconcileAPI.md#) endpoint.
+Use this endpoint to simulate submission of a payload \(request body\) to the [Identification and Reconciliation - POST /now/identifyreconcile/enhanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) endpoint.
 
-This method is similar to the [Identification and Reconciliation - POST /now/identifyreconcile/query](c_IdentifyReconcileAPI.md#) method, but adds the following functionality:
+This method is similar to the [Identification and Reconciliation - POST /now/identifyreconcile/query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_IdentifyReconcileAPI.md#) method, but adds the following functionality:
 
 -   Partial payloads
     -   In case of an item having a warning or error, indicates if an item operation is INSERT\_AS\_PARTIAL or INSERT\_INCOMPLETE.
@@ -5944,7 +5944,7 @@ Versioned URL: `/api/now/{api_version}/identifyreconcile/queryEnhanced`
 
 Default URL: `/api/now/identifyreconcile/queryEnhanced`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -6562,7 +6562,7 @@ Type of relationship existing between the parent and child items. This must be a
 </td></tr></tbody>
 </table>### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Header|Description|
 |------|-----------|
@@ -6575,7 +6575,7 @@ The following request and response headers apply to this HTTP action only, or ap
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table><thead><tr><th>
 

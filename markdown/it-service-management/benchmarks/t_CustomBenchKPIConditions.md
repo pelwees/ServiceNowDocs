@@ -44,7 +44,7 @@ For example, link **Number of resolved incidents by first assigned group** to **
 
 1.  Navigate to **All** &gt; **Benchmarks** &gt; **Setup** and select a KPI to access the KPI conditions.
 
-    ![Number of high-priority incidents resolved](../image/BenchConditions.png)
+    ![Number of high-priority incidents resolved](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/BenchConditions.png)
 
 2.  Change the conditions, as appropriate.
 
@@ -1099,5 +1099,5 @@ Average Virtual Agent satisfaction score.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Benchmark KPIs](../concept/c_BenchKPIConfig.md)
+**Parent Topic:**[Benchmark KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchKPIConfig.md)
 

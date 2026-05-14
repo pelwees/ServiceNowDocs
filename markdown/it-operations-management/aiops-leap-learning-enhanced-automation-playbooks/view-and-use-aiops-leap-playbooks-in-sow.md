@@ -25,13 +25,13 @@ Role required: admin
 
 2.  Select the required automation opportunity.
 
-3.  [Generate LEAP playbooks](generate-playbooks.md).
+3.  [Generate LEAP playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/generate-playbooks.md).
 
 4.  Open the SOW interface using the Workspaces menu.
 
 5.  Select the required incident, and access the insights' panel.
 
-6.  Select the playbook icon ![playbook icon in SOW insight panel](../images/playbook-in-sow.png).
+6.  Select the playbook icon ![playbook icon in SOW insight panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/playbook-in-sow.png).
 
 7.  If a LEAP playbook is available for the selected incident, then it can be used to resolve the issue.
 

@@ -27,13 +27,13 @@ As a collaborator added to a request, you can access and work on the request jus
 
 1.  Assign a legal request to yourself or to someone in your assignment group.
 
-    For more information, see [Assign a legal request](../../legal-request-management/task/assign-legal-request-1.md)
+    For more information, see [Assign a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/assign-legal-request-1.md)
 
 2.  Start working on a legal request.
 
     1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-    2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+    2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
     3.  Select **Legal requests** option.
 
@@ -84,7 +84,7 @@ Steps
 
 5.  Reclassify the contract or supporting documents submitted for review.
 
-    For more information, see [Reclassify contract documents in third-party contract review request as a legal fulfiller](snlc-tpc-reclassify-doc.md) and [Modify supporting documents in third-party contract review request as a legal fulfiller](snlc-tpc-mod-supporting-doc.md).
+    For more information, see [Reclassify contract documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-reclassify-doc.md) and [Modify supporting documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-mod-supporting-doc.md).
 
 6.  If you have opened contract request from the **Legal requests** listing, select **Contract request** tab.
 
@@ -122,7 +122,7 @@ Steps
 
 10. If an approval is required from other stakeholders, send the document for ad hoc approval.
 
-    For more information, see [Initiate an ad hoc approval for a legal request or its attachment](../../legal-request-management/task/initiate-approval-legal-request.md).
+    For more information, see [Initiate an ad hoc approval for a legal request or its attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/initiate-approval-legal-request.md).
 
 11. Set up an email to stakeholders to have the completed contract document reviewed and the changes confirmed.
 
@@ -146,9 +146,9 @@ Steps
 
     7.  Either enter your own message in the email body or copy and paste the content from an email response template into the email body.
 
-        Using response templates, you can insert predefined content into the email body. Select the response template icon \(![Response template icon.](../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the email body.
+        Using response templates, you can insert predefined content into the email body. Select the response template icon \(![Response template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/response-template-email-icon.png)\) and find an appropriate response template based on the subject of your email. Copy and paste the template's content into the email body.
 
-        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](../../legal-request-management/task/create-lsd-response-template.md).
+        **Note:** Only response templates configured for the email channel are available to use. For more information, see [Response templates configured for email channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/create-lsd-response-template.md).
 
     8.  Either send the email immediately or indicate that it should be sent later.
 
@@ -220,21 +220,21 @@ Steps
 
 -   Signatories can review and sign or decline to sign the contract.
 
-    For more information, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md).
+    For more information, see [Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md).
 
 -   Check the Contract status in the request.
     -   If all signatories sign the contract document, the Contract status updates to Contract Signed. In the **Signatories** tab, the status of all signatories updates to Signed. You can access the legal contract repository record from the **Legal Contracts Repository** tab.
     -   If any signatory declines to sign the contract document, the Contract status updates to Signing declined. In the **Signatories** tab, the status of all signatories updates to Declined. If more changes are required in the contract document, update it and resend it to the signatories for their signature.
     -   After all the signatories have signed the document, an email is sent to the legal signatories with the finalized contract document attached.
     -   If the certificate of completion is enabled, a certificate will be issued with the timestamp details about each signatory's action during an electronic signature.
--   If the contract is signed by all signatories, you can close the request by selecting **Close Complete**. For more information, see [Close a legal request](../../legal-request-management/task/close-legal-request.md)
+-   If the contract is signed by all signatories, you can close the request by selecting **Close Complete**. For more information, see [Close a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/task/close-legal-request.md)
 
--   **[Reclassify contract documents in third-party contract review request as a legal fulfiller](snlc-tpc-reclassify-doc.md)**  
+-   **[Reclassify contract documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-reclassify-doc.md)**  
 As a legal fulfiller, reclassify the documents submitted in a third-party contract review request. For example, you need to change the contract document type from Non-disclosure Agreement to Partnership Agreement.
--   **[Modify supporting documents in third-party contract review request as a legal fulfiller](snlc-tpc-mod-supporting-doc.md)**  
+-   **[Modify supporting documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-mod-supporting-doc.md)**  
 As a legal fulfiller, add, remove, or reclassify supporting documents submitted in a third-party contract review request.
--   **[Cancel the wet signature process from the Employee Center](snlc-tpc-cancel-wet-signature.md)**  
+-   **[Cancel the wet signature process from the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-cancel-wet-signature.md)**  
 Cancel a wet signature process for a Non-disclosure agreement legal requests from the Employee Center.
 
-**Parent Topic:**[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+**Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-third-party-contract-1.md)
 

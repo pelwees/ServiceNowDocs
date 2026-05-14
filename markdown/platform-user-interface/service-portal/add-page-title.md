@@ -118,7 +118,7 @@ Field from the table defined in the **Table** field. This field is used to gener
 
     Variables with same name aren't supported and won't be created multiple times. Each variable should be unique.
 
-    ![A completed dynamic page title variables form that populates the page title with a user's title.](../image/dynamic-var.png)
+    ![A completed dynamic page title variables form that populates the page title with a user's title.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/dynamic-var.png)
 
     In this example, the value of the Title field in the User \[sys\_user\] table populates the page title. The `%title` variable must also be defined in the **Dynamic page title** field in the page record.
 
@@ -129,10 +129,10 @@ Field from the table defined in the **Table** field. This field is used to gener
 
 When the page loads, the record defined in the URL query parameter displays. The field defined in **Table field** determines the title of the page.
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/seo-sp.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md#)
 

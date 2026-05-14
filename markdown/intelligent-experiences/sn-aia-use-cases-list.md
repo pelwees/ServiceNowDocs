@@ -16,13 +16,13 @@ Agentic workflows are AI‑driven workflow orchestrations that use one or more A
 
 Unlike traditional workflows that follow a fixed, predefined path, agentic workflows are designed to handle routine but variable procedures, such as investigation, remediation, and analysis, where the exact steps may differ from case to case.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 ## Agentic workflows overview
 
-Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [Activate an agentic workflow template](../task/activate-aia-use-case.md) and [Duplicate an agentic workflow](../task/clone-aia-usecase.md).
+Agentic workflows use multiple AI agents to achieve specific outcomes. Different workflows offer different available tasks. Many agentic workflow templates are available for you to activate, duplicate, or customize. For more information, see [Activate an agentic workflow template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-aia-use-case.md) and [Duplicate an agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/clone-aia-usecase.md).
 
-For more information about the in-product agentic AI experience, see [In-product agentic AI](in-product-agentic-ai.md). You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](../task/channels-access-aw.md) step in the guided setup, and create a UI action.
+For more information about the in-product agentic AI experience, see [In-product agentic AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/in-product-agentic-ai.md). You can create UI actions for your agentic workflows in AI Agent Studio. Open the agentic workflow, navigate to the [Select channels and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/channels-access-aw.md) step in the guided setup, and create a UI action.
 
 ## What an agentic workflow does
 
@@ -394,20 +394,20 @@ Help manage public information requests
 
 </td></tr><tr><td>
 
-[Now Assist Platform](../reference/na-ai-agents.md)
+[Now Assist Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/na-ai-agents.md)
 
 </td><td>
 
--   [Analyze incident trends](incident-trends.md)
--   [Classify tasks](classify-tasks.md)
--   [Generate my work plan](generate-work-plan.md)
--   [Generate resolution plans](resolve-requests.md)
--   [Help optimize team productivity](help-optimize-productivity.md)
--   [Identify ways to improve services](service-improvement.md)
--   [Investigate IT problems](problem-investigation.md)
+-   [Analyze incident trends](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/incident-trends.md)
+-   [Classify tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/classify-tasks.md)
+-   [Generate my work plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generate-work-plan.md)
+-   [Generate resolution plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/resolve-requests.md)
+-   [Help optimize team productivity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/help-optimize-productivity.md)
+-   [Identify ways to improve services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/service-improvement.md)
+-   [Investigate IT problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/problem-investigation.md)
 -   [Notification agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-creation-agent.md)
--   [Process images for tasks](images-tasks.md)
--   [Suggest survey responses](survey-suggest.md)
+-   [Process images for tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/images-tasks.md)
+-   [Suggest survey responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/survey-suggest.md)
 
 </td></tr></tbody>
 </table>

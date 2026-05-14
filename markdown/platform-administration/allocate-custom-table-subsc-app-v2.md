@@ -27,7 +27,7 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 3.  Update your entitlements by mapping one or more custom tables to a recommended product or a product of your choice.
 
-    When possible, Subscription Management displays recommendations for product subscriptions with available custom table entitlements in the **Recommended Product** column. Subscription Management can't display product subscription recommendations for some unmapped custom tables, which therefore aren't shown in the **Unmapped custom applications** tab. For more information about mapping missing custom tables to product subscriptions, see [Map a missing custom table to a product subscription in Subscription Management](map-missing-custom-table-sub-mgt.md)
+    When possible, Subscription Management displays recommendations for product subscriptions with available custom table entitlements in the **Recommended Product** column. Subscription Management can't display product subscription recommendations for some unmapped custom tables, which therefore aren't shown in the **Unmapped custom applications** tab. For more information about mapping missing custom tables to product subscriptions, see [Map a missing custom table to a product subscription in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-table-sub-mgt.md)
 
 <table id="choicetable_iph_zpv_2yb"><thead><tr><th align="left" id="d160348e145">
 
@@ -66,5 +66,5 @@ Description
 
 One or more custom tables are mapped to a product subscription and your custom table entitlement count is updated. If you mapped a custom table to a subscription through the Custom Table Inventory form, Subscription Management is updated the next day.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/allocating-custom-tables-subscr-apps-v2.md)
 

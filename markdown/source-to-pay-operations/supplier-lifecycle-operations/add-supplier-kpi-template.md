@@ -30,7 +30,7 @@ The **Supplier** related tab for a KPI template displays the following informati
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPI Templates**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **KPI Templates**.
 
 3.  In the Name column, select the link to the KPI template.
 
@@ -47,7 +47,7 @@ The **Supplier** related tab for a KPI template displays the following informati
 
 ## What to do next
 
-[Run segmentation rule](run-segmentation-rule.md).
+[Run segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-segmentation-rule.md).
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configuring-supplier-performance-mgmt.md)
 

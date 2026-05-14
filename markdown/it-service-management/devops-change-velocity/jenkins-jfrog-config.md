@@ -29,7 +29,7 @@ Role required: admin role in Jenkins
 
     To be able to integrate JFrog with Jenkins, the build info must be published for JFrog along with the artifacts.
 
-    ![Enter JFrog instance details.](../image/jenkins-jfrog-config.png)
+    ![Enter JFrog instance details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jenkins-jfrog-config.png)
 
 3.  Use the following scripts to download or upload artifacts to Jenkins.
 
@@ -66,5 +66,5 @@ Role required: admin role in Jenkins
     ```
 
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](../concept/jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/jenkins-integration-dev-ops.md)
 

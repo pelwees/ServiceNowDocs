@@ -27,7 +27,7 @@ Hovering over the **Stage** field displays a pop-up window that shows the progre
 -   **Demand:** if an idea is promoted to a demand, the pop-up window displays the current state of the demand as well as the idea.
 -   **Project**, **Enhancement**, **Change**, or **Defect**: if a demand is accepted, the pop-up window displays the current state of the resulting project, enhancement, change, or defect in addition to the demand and idea.
 
-![Stage fields summary pop-up window.](../image/demand-stage-fields.png)
+![Stage fields summary pop-up window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/demand-stage-fields.png)
 
-**Parent Topic:**[Demand Management reference](../../service-portfolio-management2/concept/demand-management-reference.md)
+**Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../service-portfolio-management2/concept/demand-management-reference.md)
 

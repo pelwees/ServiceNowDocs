@@ -48,5 +48,5 @@ Role required: sn\_cm\_core.contract\_user
 
 The contract request is resubmitted and the state changes from Draft to Work in progress.
 
-**Parent Topic:**[Updating and synchronizing signatories](cncore-update-sync-signatories.md)
+**Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 

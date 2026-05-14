@@ -30,14 +30,14 @@ Role required: resource\_manager
 4.  Select **Reject**.
 
 
-**Parent Topic:**[Resource allocation](../reference/r_AllocatingResources.md)
+**Parent Topic:**[Resource allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_AllocatingResources.md)
 
 **Related topics**  
 
 
-[Create a resource role](create-resource-role.md)
+[Create a resource role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-resource-role.md)
 
-[User resources and group resources](../reference/r_UserResourcesAndGroupResources.md)
+[User resources and group resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/r_UserResourcesAndGroupResources.md)
 
-[Create allocations](t_AllocateWResAllocationsRelList.md)
+[Create allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AllocateWResAllocationsRelList.md)
 

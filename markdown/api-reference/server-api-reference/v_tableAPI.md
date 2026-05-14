@@ -17,9 +17,9 @@ The v\_table API provides methods to add rows to a remote table through a script
 
 This API requires the Remote Tables plugin \(com.glide.script.vtable\) to be activated. For additional information, see [Retrieving external data using remote tables and scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md).
 
-Use the [v\_query](../../v_query/concept/v_queryAPI.md#) scriptable object to query remote tables.
+Use the [v\_query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../v_query/concept/v_queryAPI.md#) scriptable object to query remote tables.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## v\_table - addRow\(Object row\)
 
@@ -30,7 +30,7 @@ See also:
 -   [Create a script definition for a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table-script.md)
 -   [Lookup remote information in the system of record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_table_lookup.md)
 -   [Retrieving specific records from a third-party source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-table-script-def-example2.md)
--   [v\_query API](../../v_query/concept/v_queryAPI.md#)
+-   [v\_query API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../v_query/concept/v_queryAPI.md#)
 
 <table id="table_udd_bdj_nlb" class="parameters"><thead><tr><th>
 
@@ -97,7 +97,7 @@ Flag that indicates whether the row was added to the remote table.Valid values:
 -   false: Row was not added.
 
 </td></tr></tbody>
-</table>The following example shows how to use the [RESTMessageV2](../../RESTMessageV2/concept/c_RESTMessageV2API.md#) API to create and execute the REST call to an external bank application. The script shows how to use the addRow\(\) method to store return results in a remote table.
+</table>The following example shows how to use the [RESTMessageV2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RESTMessageV2/concept/c_RESTMessageV2API.md#) API to create and execute the REST call to an external bank application. The script shows how to use the addRow\(\) method to store return results in a remote table.
 
 ```
 (function executeQuery (v_table, v_query) {

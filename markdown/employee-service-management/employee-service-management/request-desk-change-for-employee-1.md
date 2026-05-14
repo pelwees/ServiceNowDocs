@@ -216,20 +216,20 @@ If the state is set to Closed incomplete, it means that the move request could n
 
 ## What to do next
 
-To view and monitor move requests created by you on behalf of an employee or for yourself, see [View move requests](view-move-requests.md).
+To view and monitor move requests created by you on behalf of an employee or for yourself, see [View move requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/view-move-requests.md).
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../concept/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Raise a move request for a space change](request-desk-change.md)
+[Raise a move request for a space change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/request-desk-change.md)
 
-[Update a move request workplace service](update-move-request-workplace-service.md)
+[Update a move request workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/update-move-request-workplace-service.md)
 
-[Update a move-related workplace service record producer](view-move-request-record-producer.md)
+[Update a move-related workplace service record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/view-move-request-record-producer.md)
 
-[Create a move-related knowledge base article](create-move-related-kb-article.md)
+[Create a move-related knowledge base article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/create-move-related-kb-article.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../reference/review-conflicts.md)
 

@@ -17,7 +17,7 @@ Configure departments, locations, users, groups, and roles to establish the foun
 
 Manage and organize department details. On selecting Departments under Operational data, a list of existing departments shows up. You can modify an existing department by selecting it from the list. Select **Add a department** to individually add a new department.
 
-![Image showing departments](../image/ia-dpts.png)
+![Image showing departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-dpts.png)
 
 |Field|Description|
 |-----|-----------|
@@ -35,7 +35,7 @@ Select **Save** to save the recent department settings and redirect you to the l
 
 Store your address and contact details for all locations. On selecting Locations under Operational data, a list of existing locations shows up. You can modify an existing location by selecting it from the list. Select **Add a location** to individually add a new location.
 
-![Image showing locations](../image/ia-locs.png)
+![Image showing locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-locs.png)
 
 |Field|Description|
 |-----|-----------|
@@ -64,7 +64,7 @@ Add and manage users with job titles, then assign groups for simplified access c
 
 If you select the checkmark next to an existing user, the **Assign roles** option is enabled. The Assign roles &amp; users modal shows up on the right panel.
 
-![Image showing users](../image/ia-users.png)
+![Image showing users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-users.png)
 
 You also have an option of **Bulk upload** to add more than one user from an excel. If you select **Bulk upload** from the dropdown menu, you get the option of creating the Excel template and uploading the sheet where the user records are saved.
 
@@ -88,5 +88,5 @@ Define roles for users and groups to control access permissions, leveraging smar
 
 **Note:** You can't modify the details of any existing role nor can you create a new role.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

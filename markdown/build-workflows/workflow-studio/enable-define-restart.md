@@ -33,7 +33,7 @@ Role required: pd\_author
 
         The Playbooks builder displays.
 
-    3.  In the upper right-hand corner, open the **More actions menu**![More actions menu](../images/icon-horizontal-menu.png), and select **Properties**.
+    3.  In the upper right-hand corner, open the **More actions menu**![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-horizontal-menu.png), and select **Properties**.
 
         The **Additional Properties** modal displays.
 
@@ -53,7 +53,7 @@ Role required: pd\_author
 
     2.  Under **Restart rules**, select what you want the stage or activity to do when restarted.
 
-        ![Activity and stage restart rules in the side panel](../images/playbooks-restart-rules.png)
+        ![Activity and stage restart rules in the side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/playbooks-restart-rules.png)
 
 <table id="choicetable_kcx_5sn_tzb"><thead><tr><th align="left" id="d113661e202">
 
@@ -92,18 +92,18 @@ The stage or activity runs only during restarted runs. It never runs during an i
 
     -   Restart settings are reflected in both the Diagram view and Board view of the Workflow Studio Playbooks builder.
 
-        ![Run always icon on a stage in Diagram view](../images/run-always.png)
+        ![Run always icon on a stage in Diagram view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/run-always.png)
 
-        ![Skip on first run icon on an activity in board view](../images/skip-first-run-board.png)
+        ![Skip on first run icon on an activity in board view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/skip-first-run-board.png)
 
     -   Restart buttons are added to context menus in your playbook.
 
-        ![Restart stage button in context menu during runtime](../images/restart-stage-pe.png)
+        ![Restart stage button in context menu during runtime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/restart-stage-pe.png)
 
 3.  To test your playbook with the restart options, select **Test** in the upper right-hand corner and open the **Playbook preview**.
 
-    ![Restart playbook button in context menu in Playbook preview](../images/restart-playbook-pe.png)
+    ![Restart playbook button in context menu in Playbook preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/restart-playbook-pe.png)
 
 
-**Parent Topic:**[Enabling playbook restart](../concept/restart.md)
+**Parent Topic:**[Enabling playbook restart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/restart.md)
 

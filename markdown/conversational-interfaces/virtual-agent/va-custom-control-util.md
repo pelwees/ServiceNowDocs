@@ -17,7 +17,7 @@ Use the Custom Control utility in a Virtual Agent topic or topic block to refere
 
 ## Custom control utility properties
 
-Specify the properties of the custom input control or custom response control that you are adding to a topic or topic block. For more information about custom controls and their use, see [Customizing Virtual Agent with custom controls](../concept/custom-controls.md).
+Specify the properties of the custom input control or custom response control that you are adding to a topic or topic block. For more information about custom controls and their use, see [Customizing Virtual Agent with custom controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/custom-controls.md).
 
 **Note:** Custom controls do not work on Internet Explorer version 11.
 
@@ -53,7 +53,7 @@ Input mapping
 
 The variables to be used as input to the selected custom control. For example, the following image has example variables:
 
- ![Input mapping variables on this custom control include transaction date and time, customer name, and product issue.](../images/map-cc-input-values-topic-block.png)
+ ![Input mapping variables on this custom control include transaction date and time, customer name, and product issue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/map-cc-input-values-topic-block.png)
 
  The contents of this area change according to the custom control you selected. Options may include string input, referenced records, scripts, and so forth.
 
@@ -65,7 +65,7 @@ Output mapping
 
 The variables to be output by the selected custom control. For example, the following image has example variables that are enabled:
 
- ![Output mapping variables for this custom control include issue and username.](../images/cc-output-mapping-topic.png)
+ ![Output mapping variables for this custom control include issue and username.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/cc-output-mapping-topic.png)
 
  The contents of this area change according to the custom control you selected.
 
@@ -88,7 +88,7 @@ A no-code condition statement or low-code script that specifies a condition for 
 </td></tr></tbody>
 </table>## Example custom control utility
 
-![Custom control utility properties sheet for an input control.](../images/custom-control-utility-properties.png)
+![Custom control utility properties sheet for an input control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/custom-control-utility-properties.png)
 
-**Parent Topic:**[Assistant Designer utilities](va-utilities.md)
+**Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 

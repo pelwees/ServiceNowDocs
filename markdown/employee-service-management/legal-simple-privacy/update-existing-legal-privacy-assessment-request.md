@@ -61,9 +61,9 @@ Steps
 
 </td><td>
 
--   To upload a new document, select the add attachment icon \(![Add attachment icon.](../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
--   To rename an attached file, select the edit file name icon \(![Edit file name icon.](../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
--   To remove an attached file, select the delete icon \(![Delete icon.](../../legal-digital-forensics/image/delete-icon.png)\).
+-   To upload a new document, select the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
+-   To rename an attached file, select the edit file name icon \(![Edit file name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
+-   To remove an attached file, select the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../../legal-digital-forensics/image/delete-icon.png)\).
 
 
 </td></tr><tr><td id="d226378e205">
@@ -85,14 +85,14 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Approvals** tab appears only when the privacy assessment request or an attachment has approval records.
 
 
-**Parent Topic:**[Privacy assessment requests](../concept/privacy-assessment-requests.md)
+**Parent Topic:**[Privacy assessment requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/../concept/privacy-assessment-requests.md)
 
 **Related topics**  
 
 
-[Submit a privacy assessment request](submit-legal-privacy-assessment-request.md)
+[Submit a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/submit-legal-privacy-assessment-request.md)
 
-[Assign a privacy assessment request](assign-legal-privacy-assessment-request.md)
+[Assign a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/assign-legal-privacy-assessment-request.md)
 
-[Cancel a privacy assessment request](cancel-privacy-assessment-request.md)
+[Cancel a privacy assessment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/cancel-privacy-assessment-request.md)
 

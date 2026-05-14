@@ -30,7 +30,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
             You can test the alias using the ![](../images/browse.png) icon added to **Alias name**.
 
-            ![Create connection alias.](../images/connection-details.png)
+            ![Create connection alias.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../images/connection-details.png)
 
     -   Choose from existing alias
         1.  Select an existing alias.
@@ -49,7 +49,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
     4.  Select **Submit**.
 
-        ![HTTP connection details.](../images/httpconnection.png)
+        ![HTTP connection details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../images/httpconnection.png)
 
     5.  Close the pop-up.
 

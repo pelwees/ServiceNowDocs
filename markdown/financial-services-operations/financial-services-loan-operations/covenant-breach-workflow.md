@@ -28,7 +28,7 @@ An example of a covenant for personal loans could be a periodic submission of ho
 
 The following diagram shows how the application helps bank agents work on a covenant breach for a loan.
 
-![Workflow showing how a covenant breach is handled using the Loan Operations application. For the text description, refer to the workflow steps that follow.](../image/covenant-breach-workflow.png "Covenant Breach workflow")
+![Workflow showing how a covenant breach is handled using the Loan Operations application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/covenant-breach-workflow.png "Covenant Breach workflow")
 
 The following workflow routes the case and tasks for a covenant breach to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

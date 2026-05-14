@@ -23,11 +23,11 @@ You can install the Intent Discovery application \(sn\_nlu\_discovery\) if you h
     -   **Required ServiceNow plugins**
         -   **Predictive Intelligence \(com.glide.platform\_ml\)**
 
-            Enables various Predictive Intelligence and Machine Learning capabilities for training models. See [Install Predictive Intelligence](../../predictive-intelligence/task/install-predictive-intelligence.md#).
+            Enables various Predictive Intelligence and Machine Learning capabilities for training models. See [Install Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../../predictive-intelligence/task/install-predictive-intelligence.md#).
 
         -   **NLU Workbench - Core \(com.glide.nlu\)**
 
-            Adds NLU Model capabilities. See [Activate the NLU Workbench](activate-nlu-workbench.md).
+            Adds NLU Model capabilities. See [Activate the NLU Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/activate-nlu-workbench.md).
 
 
 Role required: admin
@@ -36,7 +36,7 @@ Role required: admin
 
 Tables are installed with Intent Discovery:
 
-For more information, see [Components installed with Intent Discovery](../reference/installed-with-intent-discovery.md).
+For more information, see [Components installed with Intent Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../reference/installed-with-intent-discovery.md).
 
 ## Procedure
 

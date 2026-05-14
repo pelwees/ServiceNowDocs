@@ -89,13 +89,13 @@ Do this
 
 ## What to do next
 
-[Configure container components for Work scheduler](work-sched-card-based-container.md)
+[Configure container components for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-card-based-container.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-itsm.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-workscheduler-card-wfo-itsm.md)
 
-**Previous topic:**[Define the workItem property in the Work scheduler page configuration](work-sched-create-page-properties.md)
+**Previous topic:**[Define the workItem property in the Work scheduler page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-create-page-properties.md)
 
-**Next topic:**[Configure container components for Work scheduler](work-sched-card-based-container.md)
+**Next topic:**[Configure container components for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-card-based-container.md)
 
 **Related topics**  
 

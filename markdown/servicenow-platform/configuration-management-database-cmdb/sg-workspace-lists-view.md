@@ -30,19 +30,19 @@ Initially, the default lists are:
 -   CMDB Groups:
 
     -   Source table: CMDB Groups \[cmdb\_group\]
-    -   More information: [CMDB groups](cmdb-groups.md#)
+    -   More information: [CMDB groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md#)
 -   CI Identifier:
 
     -   Source table: Identifiers \[cmdb\_identifier\]
-    -   More information: Identifiers in identification rule sets which are defined for different classes of CIs. For more information, see [Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)
+    -   More information: Identifiers in identification rule sets which are defined for different classes of CIs. For more information, see [Create a CI identification rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIIdentificationRule.md)
 -   Relationships:
 
     -   Source table: Cl Relationship \[cmdb\_rel\_ci\]
-    -   More information: [CI relationships in the CMDB](c_CIRelationships.md)
+    -   More information: [CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 -   Tags:
 
     -   Source table: Key Value \[cmdb\_key\_value\]
-    -   More information: To manage a tag, select a tag, and then in CI Form select Tags and in the Tags card select **Manage**. For more information, see [Manage CI details using CI Form in Service Graph Workspace](ci-form-sg-workspace.md)
+    -   More information: To manage a tag, select a tag, and then in CI Form select Tags and in the Tags card select **Manage**. For more information, see [Manage CI details using CI Form in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-form-sg-workspace.md)
 -   Switch Forwarding Rules:
 
     -   Source table: Switch Forwarding Rule \[dscy\_swtch\_fwd\_rule\]
@@ -68,5 +68,5 @@ Users with the sn\_cmdb\_editor or sn\_cmdb\_admin roles, can select **New** to 
 
 ## My lists
 
-Custom and shared lists where you can select **Create new list** to create a new custom list associated with the logged on user. For more information, see [Create a custom list in the Lists view in Service Graph Workspace](../task/sg-workspace-create-custom-list.md).
+Custom and shared lists where you can select **Create new list** to create a new custom list associated with the logged on user. For more information, see [Create a custom list in the Lists view in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/sg-workspace-create-custom-list.md).
 

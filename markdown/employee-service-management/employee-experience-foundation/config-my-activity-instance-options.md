@@ -31,7 +31,7 @@ Role required: sp\_admin or admin
 
 2.  Press and hold the control key, right-click the widget, and then select **Instance Options**.
 
-    ![instance options](../images/my-active-instance-opts.png "My items instance options")
+    ![instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/my-active-instance-opts.png "My items instance options")
 
 3.  Update the following options:
 
@@ -43,7 +43,7 @@ Role required: sp\_admin or admin
 
             **Note:** Ensure you mark the activity name such as **Tasks** as Primary = true and select **Single** from instance options.
 
-    ![My active items widget showing the summary view at the top and the list view at the bottom of the widget.](../images/my-active-items-widget.png "My active items widget items")
+    ![My active items widget showing the summary view at the top and the list view at the bottom of the widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/my-active-items-widget.png "My active items widget items")
 
 4.  Click **Save**.
 
@@ -57,5 +57,5 @@ Role required: sp\_admin or admin
 **Related topics**  
 
 
-[My active items widget configuration](../concept/my-activity-config.md)
+[My active items widget configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/my-activity-config.md)
 

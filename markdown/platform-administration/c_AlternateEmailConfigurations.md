@@ -22,26 +22,26 @@ Setting up your own email environment can be useful if you want to use existing 
 -   Use an OAuth 2.0-enabled SMTP server to send email from a third-party service.
 -   Use an OAuth 2.0-enabled IMAP server to receive email from a third-party service.
 
-The following procedures assume that you [enabled basic email properties](../task/t_ConfiguringStandardEmail.md).
+The following procedures assume that you [enabled basic email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ConfiguringStandardEmail.md).
 
--   **[Enable using your own SMTP server](../task/t_ConfAltEmailUsgOwnSMTP.md)**  
+-   **[Enable using your own SMTP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ConfAltEmailUsgOwnSMTP.md)**  
 Enable using your own SMTP server so that you can leverage the existing filtering, retention, or compliance aspects of your own SMTP server while also using the ServiceNow POP3 server.
--   **[Enable using your own POP3 server](../task/t_ConfAltEmailConfPOP3Server.md)**  
+-   **[Enable using your own POP3 server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ConfAltEmailConfPOP3Server.md)**  
 You can use your own POP3 server to store and receive email for the instance.
--   **[Enable using your own SMTP and POP3 servers](../task/t_ConfAltEmailConfServers.md)**  
+-   **[Enable using your own SMTP and POP3 servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ConfAltEmailConfServers.md)**  
 You can use your own SMTP and POP3 servers to send email from the instance and to store and receive email for the instance.
--   **[Email bounce management](../../notification/concept/email-bounce.md)**  
+-   **[Email bounce management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-bounce.md)**  
 Help prevent sending emails to addresses that are known to generate bounces by monitoring and filtering them out while sending emails.
--   **[OAuth email authentication](../../notification/concept/c_OAuthEmailAuthentication.md)**  
+-   **[OAuth email authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/c_OAuthEmailAuthentication.md)**  
 OAuth enables your instance to receive and send email through a third-party email account.
--   **[System address filters](../../notification/concept/system-address-filters.md)**  
+-   **[System address filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/system-address-filters.md)**  
 Prevent your system from communicating with untrusted domains and email addresses.
--   **[Read or send emails using Microsoft Graph](../../notification/concept/read-send-emails-ms-graph.md)**  
+-   **[Read or send emails using Microsoft Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/read-send-emails-ms-graph.md)**  
 Use Microsoft Graph endpoints to read or send emails from Microsoft Exchange Online.
--   **[Sending email using client credential flow](../../notification/concept/send-email-client-credential-flow.md)**  
+-   **[Sending email using client credential flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/send-email-client-credential-flow.md)**  
 Use the client credential flow to send emails from Microsoft Exchange Online.
--   **[Personal corporate mailbox](../../notification/concept/personal-corporate-mailbox.md)**  
+-   **[Personal corporate mailbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/personal-corporate-mailbox.md)**  
 Enables sales agents to integrate their personal corporate mail boxes to send and receive emails.
 
-**Parent Topic:**[Configure email administration](../../notification/concept/configuring-email-admin.md)
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/configuring-email-admin.md)
 

@@ -19,14 +19,14 @@ Create and manage workplace contracts from **Core UI**.
 
 To access Workplace Lease Administration, navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
-For information about installing Workplace Lease Administration, see [Activate Workplace Lease Administration](../task/install-lease-administration.md).
+For information about installing Workplace Lease Administration, see [Activate Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../task/install-lease-administration.md).
 
--   **[Create workplace contracts in Core UI](../task/create-lease-contracts.md)**  
+-   **[Create workplace contracts in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../task/create-lease-contracts.md)**  
 As a lease administrator or manager, you can create workplace contracts and also add assets, terms and conditions, contract locations, and documents to a contract.
--   **[Submit workplace contract for review in Core UI](../task/submit-lease-contract-review.md)**  
+-   **[Submit workplace contract for review in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../task/submit-lease-contract-review.md)**  
 You can send a contract that is in Draft state for approval.
--   **[Approve or reject a workplace contract in Core UI](../task/approve-lease-contract.md)**  
+-   **[Approve or reject a workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../task/approve-lease-contract.md)**  
 As a lease administrator or manager, you can approve or reject a workplace contract after it is submitted for review.
 
-**Parent Topic:**[Using Workplace Lease Administration](use-lease-administration.md)
+**Parent Topic:**[Using Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/use-lease-administration.md)
 

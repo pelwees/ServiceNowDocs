@@ -37,7 +37,7 @@ Description
 
 </td><td>
 
-Select the edit icon \(![Edit icon](../images/currency-edit.png)\) that appears next to the FX Currency field in a transaction record.
+Select the edit icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/currency-edit.png)\) that appears next to the FX Currency field in a transaction record.
 
 </td></tr><tr><td id="d67506e101">
 
@@ -82,7 +82,7 @@ Conversion Rate
 
 </td><td>
 
-Conversion rate used to calculate the reference currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md).
+Conversion rate used to calculate the reference currency value. It converts a session currency value, expressed in one currency, to another, and stores as a reference to a record in the Currency Conversion Rate \[fx\_conversion\_rate\] table. The conversation rate is based on the **Conversion Rate Table** and **Conversion Date Source** settings for the FX Currency field in the Rate tab of FX Currency Configuration. To learn more about these settings, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md).
 
  You change or select the conversion rate as needed.
 
@@ -94,7 +94,7 @@ Reference Amount
 
 Calculated reference currency amount. The ServiceNow AI Platform converts the currency value entered into the **Amount** field into a common reference currency. It uses the settings in the **Reference Currency Source** and **Reference Currency** fields in **System Localization** &gt; **FX Currency Configuration** to do so. You can't change the calculated reference amount.
 
- **Note:** To learn more about reference currencies, see [Set the reference currency](fx-currency-set-reference.md).
+ **Note:** To learn more about reference currencies, see [Set the reference currency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-set-reference.md).
 
 </td></tr><tr><td>
 
@@ -110,16 +110,16 @@ Three-letter ISO code that identifies the reference currency, for example, USD, 
 3.  Select **Save**.
 
 
-**Parent Topic:**[Setting up defaults required for FX Currency use](../concept/setting-up-defaults-fx-currency-use.md)
+**Parent Topic:**[Setting up defaults required for FX Currency use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/setting-up-defaults-fx-currency-use.md)
 
 **Related topics**  
 
 
-[Add conversion rates using a custom rate table](custom-rate-table.md)
+[Add conversion rates using a custom rate table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/custom-rate-table.md)
 
-[Configuring FX Currency global settings](fx-currency-configure.md)
+[Configuring FX Currency global settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md)
 
-[Add an FX Currency field to a table](add-fx-currency-field-table.md)
+[Add an FX Currency field to a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/add-fx-currency-field-table.md)
 
-[Configuring FX Currency field behavior](../concept/configure-fx-currency-field-behavior.md)
+[Configuring FX Currency field behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../concept/configure-fx-currency-field-behavior.md)
 

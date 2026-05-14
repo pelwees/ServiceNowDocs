@@ -15,7 +15,7 @@ Learn about the unified retail case and task data model which helps understand t
 
 ## Data model
 
-![Data model showing how unified cases and tasks interact.](../image/unified-data-model.png)
+![Data model showing how unified cases and tasks interact.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../image/unified-data-model.png)
 
-**Parent Topic:**[Retail reference](rahi-retail-operations-reference.md)
+**Parent Topic:**[Retail reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-reference.md)
 

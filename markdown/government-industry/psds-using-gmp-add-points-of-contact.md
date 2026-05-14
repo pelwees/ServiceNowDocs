@@ -19,7 +19,7 @@ Adding a person will create a resource assignment record where the resource \(us
 
 To ensure a user can be added as a point of contact, make sure the user has the **pps\_resource** role and an employee profile \(sn\_employee\_profile\) record. For information on how to create an employee profile, see.
 
-**Note:** Points of contact can only be added from the internal team list record. To add members to the internal team list record, see [Create a grant program using Grants Management program setup for Public Sector Digital Services](psds-gmp-using-set-up-grants-management-program.md).
+**Note:** Points of contact can only be added from the internal team list record. To add members to the internal team list record, see [Create a grant program using Grants Management program setup for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-set-up-grants-management-program.md).
 
 ## Before you begin
 

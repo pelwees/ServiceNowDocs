@@ -92,5 +92,5 @@ Install Portfolio Planning by requesting it from the ServiceNow Store. Visit the
     Prioritize, roadmap, and track work when using traditional, agile, or hybrid methodologies with ServiceNow® Strategic Planning. Align strategy to execution by defining and tracking goals across your organization.
 
 
-**Parent Topic:**[Strategic Portfolio Management release notes](it-business-management-rn-landing.md)
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-business-management-rn-landing.md)
 

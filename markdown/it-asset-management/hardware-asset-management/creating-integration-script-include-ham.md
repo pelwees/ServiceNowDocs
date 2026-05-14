@@ -52,9 +52,9 @@ Consider the following when you create the script include:
 
 ## ITAMShipmentIntegration script include sample codes
 
-![ITAMShipmentIntegration script include with ITAM processResponse function](../image/script-incl-sample-carrier.png "Sample ITAMShipmentIntegration script include with the default processResponse function provided by the IT Asset Management application")
+![ITAMShipmentIntegration script include with ITAM processResponse function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/script-incl-sample-carrier.png "Sample ITAMShipmentIntegration script include with the default processResponse function provided by the IT Asset Management application")
 
-![ITAMShipmentIntegration script include with custom processResponse function](../image/script-incl-custom-carrier.png "Sample ITAMShipmentIntegration script include with custom processResponse function")
+![ITAMShipmentIntegration script include with custom processResponse function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/script-incl-custom-carrier.png "Sample ITAMShipmentIntegration script include with custom processResponse function")
 
 ## fetchShipmentInfo function
 
@@ -75,26 +75,26 @@ The processResponse function receives the response from the carrier API and upda
 
 You can either use the default processResponse function or define a custom logic to update the shipment records.
 
-**Parent Topic:**[Track shipments using the integration framework](tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Connect your ServiceNow instance with a shipping carrier application](../task/associate-shipping-carrier-int-profile.md)
+[Connect your ServiceNow instance with a shipping carrier application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/associate-shipping-carrier-int-profile.md)
 
-[Remove a shipping carrier from an integration profile](../task/remove-shipping-carrier.md)
+[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/remove-shipping-carrier.md)
 
-[Create a carrier integration profile](../task/create-carrier-integration-profile.md)
+[Create a carrier integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-carrier-integration-profile.md)
 
-[View the carrier integration profile details](../task/view-integration-profiles.md)
+[View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-integration-profiles.md)
 
-[Test the integration with the carrier API](../task/test-carrier-api-integration.md)
+[Test the integration with the carrier API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/test-carrier-api-integration.md)
 
-[Create a shipping carrier record](../task/create-shipping-carrier.md)
+[Create a shipping carrier record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-shipping-carrier.md)
 
-[View hardware asset shipment details](../task/view-hardware-asset-shipments.md)
+[View hardware asset shipment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-hardware-asset-shipments.md)
 
-[Stale shipments](stale-shipments.md)
+[Stale shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/stale-shipments.md)
 
-[Track a hardware asset shipment](../task/track-hardware-asset-shipments.md)
+[Track a hardware asset shipment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-hardware-asset-shipments.md)
 

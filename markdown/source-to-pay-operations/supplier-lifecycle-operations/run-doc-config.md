@@ -56,27 +56,27 @@ Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration
 </td><td>
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Administration** &gt; **Document Configuration**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Administration** &gt; **Document Configuration**.
 
 
 </td></tr></tbody>
 </table>2.  Select the document configuration that you want to run.
 
-3.  Select **Execute Now**.![Selected button for running the document configuration manually.](../image/run-doc-config-manually.png)
+3.  Select **Execute Now**.![Selected button for running the document configuration manually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/run-doc-config-manually.png)
 
 
-**Parent Topic:**[Supplier Document Management](../concept/supp-doc-mgmt-overview.md)
+**Parent Topic:**[Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-doc-mgmt-overview.md)
 
 **Related topics**  
 
 
-[Create a supplier document configuration](create-doc-config.md)
+[Create a supplier document configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/upload-doc-about.md)
 
-[Configure document expiration monitoring attributes](configure-document-expiration-monitoring-attributes.md)
+[Configure document expiration monitoring attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-document-expiration-monitoring-attributes.md)
 
-[Create a supplier document configuration](create-doc-config.md)
+[Create a supplier document configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-doc-config.md)
 
-[Uploading supplier documents](../concept/upload-doc-about.md)
+[Uploading supplier documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/upload-doc-about.md)
 

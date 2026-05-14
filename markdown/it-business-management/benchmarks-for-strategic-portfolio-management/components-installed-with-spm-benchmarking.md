@@ -93,5 +93,5 @@ SPM Benchmark Data Collection
 Collects scores for indicators related to APW and PPM, as specified in the **Relative start** and **Relative end** fields. The collection time is for a month based on the GMT timezone.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SPM Benchmarks reference](benchmarks-reference.md)
+</table>**Parent Topic:**[SPM Benchmarks reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/benchmarks-reference.md)
 

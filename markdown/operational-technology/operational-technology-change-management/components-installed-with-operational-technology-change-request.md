@@ -65,7 +65,7 @@ Change Write user \[sn\_ot\_change\_write\]
 
 Can create, view, and edit OT change records.Can also be assigned IT change tasks, and can edit and close the IT change task they're assigned to.
 
-For more information, see [Managing change requests across sites](../concept/visibility-of-changes-across-sites.md).
+For more information, see [Managing change requests across sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/../concept/visibility-of-changes-across-sites.md).
 
 </td><td>
 
@@ -87,5 +87,5 @@ Can only view OT change records.
 -   cmdb\_ot\_isa\_viewer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Technology Change Management reference](oper-tech-change-management-reference.md)
+</table>**Parent Topic:**[Operational Technology Change Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/oper-tech-change-management-reference.md)
 

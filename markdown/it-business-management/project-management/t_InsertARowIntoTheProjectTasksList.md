@@ -30,5 +30,5 @@ Role required: it\_project\_manager
 4.  Open the new task and edit the record as required.
 
 
-**Parent Topic:**[Create a project task from a project](t_CreateATaskFromAProject.md)
+**Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 

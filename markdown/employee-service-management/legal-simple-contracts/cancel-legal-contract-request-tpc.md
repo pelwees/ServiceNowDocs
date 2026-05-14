@@ -40,5 +40,5 @@ Role required: sn\_lg\_ops.legal\_user
 -   The document status changes to Contract Voided.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the legal request has been canceled.
 
-**Parent Topic:**[Third-party contract review requests](../concept/legal-request-third-party-contract.md)
+**Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../concept/legal-request-third-party-contract.md)
 

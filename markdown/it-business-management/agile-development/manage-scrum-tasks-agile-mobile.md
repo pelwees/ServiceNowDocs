@@ -17,7 +17,7 @@ View, edit, and update the details of scrum tasks that were created for the stor
 
 On your mobile device, open the Mobile Agent app and navigate to Agile Development v2. Perform the following actions with the role of scrum\_product\_owner, scrum\_team\_member, or scrum\_master.
 
-**Parent Topic:**[Mobile experience for Agile Development 2.0](../concept/agile-2-mobile-app-overview.md)
+**Parent Topic:**[Mobile experience for Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/agile-2-mobile-app-overview.md)
 
 ## Tracking scrum tasks on Agile Development v2
 
@@ -64,7 +64,7 @@ Role required: scrum\_product\_owner, scrum\_team\_member, or scrum\_master
 
 2.  Tap which story you want to add a new scrum task to.
 
-3.  Tap the more options icon \(![More options on iOS](../../innovation-management/image/more-options-icon.png) on iOS\) or \(![More options on Android](../image/more-options-icon-android.png) on Android\) and tap **New Scrum Task**.
+3.  Tap the more options icon \(![More options on iOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../innovation-management/image/more-options-icon.png) on iOS\) or \(![More options on Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/more-options-icon-android.png) on Android\) and tap **New Scrum Task**.
 
 4.  On the form, fill in the fields.
 

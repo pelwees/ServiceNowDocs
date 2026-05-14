@@ -17,7 +17,7 @@ Link to any other item. You can use this base system widget as-is in your portal
 
 Configure Icon Link widgets to link to a specific URL, page within the portal, or a specific category in the knowledge base or the service catalog.
 
-![Icon Link widget](../image/WidgetIconLink.png "Icon Link widget")
+![Icon Link widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetIconLink.png "Icon Link widget")
 
 ## Instance options
 
@@ -94,14 +94,14 @@ The appearance of the link icon widget. Choose from:-   Top icon
 -   Color box
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Example widgets](sp-example-widgets.md)
+</table>**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

@@ -15,8 +15,8 @@ breadcrumb: [Predictive intelligence for Legal Service Delivery, Integration wit
 
 Reference topics provide additional information about components installed, the lists and forms that you use in Predictive Intelligence for Legal Service Delivery reference.
 
--   **[Components installed with Predictive Intelligence for Legal Service Delivery](../reference/lsd-components-installed-pi.md)**  
+-   **[Components installed with Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/lsd-components-installed-pi.md)**  
 Several types of components are installed with activation of the Predictive Intelligence for Legal Service Delivery application, including user roles.
 
-**Parent Topic:**[Predictive intelligence for Legal Service Delivery](lsd-predictive-intelligence-landing.md)
+**Parent Topic:**[Predictive intelligence for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-predictive-intelligence-landing.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Enable accessibility in Classic preference accessibility preference.
 
-![Enable accessibility in classic accessibility preference.](../image/coral-pref-classic.png)
+![Enable accessibility in classic accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-classic.png)
 
 The purpose of this preference is to improve accessibility in the Classic UI. The classic environment refers to working in lists of records and on record forms directly. You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI. Turn this preference on to unlock additional accessibility options in Core UI.
 

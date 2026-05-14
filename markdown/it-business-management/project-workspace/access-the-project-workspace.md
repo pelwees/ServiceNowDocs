@@ -29,12 +29,12 @@ Role required: it\_project\_user or it\_project\_manager
 
 2.  In the **My Projects Space** page, add filter criteria to display the required projects as cards.
 
-    **Note:** You can [configure](configure-project-card-parameters.md) the information which is displayed on a card.
+    **Note:** You can [configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-project-card-parameters.md) the information which is displayed on a card.
 
 3.  Click a project to open it in project workspace.
 
 4.  Click the required tab in project workspace to work in it.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/project-workspace-classic.md)
 

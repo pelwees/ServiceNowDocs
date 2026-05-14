@@ -188,13 +188,13 @@ The schedule view opens a time-line view displaying all the workplace locations 
 
     You can select the reservation to view details such as the reservation start and end time, duration, subtype, status, and services requested if there are any.
 
-    -   You can also view further details of the reservations on the side panel by selecting the Open side panel icon \(![Open side panel icon.](../images/evnt-plnnr-opensidepanelicon.png)\).
+    -   You can also view further details of the reservations on the side panel by selecting the Open side panel icon \(![Open side panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/evnt-plnnr-opensidepanelicon.png)\).
     -   To open the reservation and view it on the portal, you can select the **Open reservation** option. The reservation is displayed in Employee Center by default. If you want the reservation to open on a custom portal instead of Employee Center, you must perform the following actions:
         1.  Navigate to **System Definitions** &gt; **Script includes**.
         2.  Search and open **WPCoreUtils**.
         3.  In the **Script** field, override `getCommonPortalSuffix` function to get the common portal suffix.
         4.  Click **Update**.
-    -   You can also select the Show \(![Show icon.](../images/evnt-plnnr-showrsvdetails-icon.png)\) icon to get a detailed view of the reservation. The side panel displays the reservation-related details such as the location, start and end time, current state, synchronization state, reservation subject and services requested. As a reservation planner, you can also cancel the reservation using the **Cancel reservation** option.
+    -   You can also select the Show \(![Show icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/evnt-plnnr-showrsvdetails-icon.png)\) icon to get a detailed view of the reservation. The side panel displays the reservation-related details such as the location, start and end time, current state, synchronization state, reservation subject and services requested. As a reservation planner, you can also cancel the reservation using the **Cancel reservation** option.
     -   You can also move the reservation to another time or to another location by dragging the bar of the reservation.
 -   **Last updated sub source**
     -   When a reservation is updated from the Contextual side panel, the last updated sub source is updated as **Workplace Event Planner**.
@@ -244,40 +244,40 @@ From the reservation details page, you can also open the reservation to view it 
 
 As a reservation planner, you can cancel a reservation if necessary using the **Cancel reservation** option.
 
-**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+**Parent Topic:**[Workplace Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/workplace-central-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Central](components-installed-with-workplace-central.md)
+[Components installed with Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/components-installed-with-workplace-central.md)
 
-[Space Optimization - Key features and actions](space-optmization-features-and-actions-.md)
+[Space Optimization - Key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md)
 
-[Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md)
+[Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md)
 
-[Space request approvals, states, actions, and key features](space-request-states-and-view.md)
+[Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-request-states-and-view.md)
 
-[Move management key features and actions](move-mgmt-views-states-actions.md)
+[Move management key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)
 
-[Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md)
+[Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md)
 
-[Schedule Plan details form](schedule-plan-details-form.md)
+[Schedule Plan details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-plan-details-form.md)
 
-[Scenario details form](scenario-details-form.md)
+[Scenario details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-details-form.md)
 
-[Space Deployment Plan](space-deployment-plan.md)
+[Space Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)
 
-[User Deployment Plan](user-deployment-plan.md)
+[User Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)
 
-[Excel column lengths for move projects](move-excel-char-limit.md)
+[Excel column lengths for move projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-excel-char-limit.md)
 
-[Move conflicts for projects created via Excel upload](excel-upload-conflicts.md)
+[Move conflicts for projects created via Excel upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/excel-upload-conflicts.md)
 
-[Workplace Central troubleshooting](workplace-central-troubleshooting.md)
+[Workplace Central troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-troubleshooting.md)
 
-[Workplace Task form - Space Assignment task](workplace-task-space-assignment.md)
+[Workplace Task form - Space Assignment task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-task-space-assignment.md)
 
-[Neighborhood User Assignment Rule form](user-assignment-rule-form.md)
+[Neighborhood User Assignment Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-assignment-rule-form.md)
 
-[User Workplace Profile form](user-workplace-profile-form.md)
+[User Workplace Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md)
 

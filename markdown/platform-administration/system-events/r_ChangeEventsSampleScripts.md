@@ -60,5 +60,5 @@ if (current.start_date.changes() || current.end_date.changes() || current.assign
 }
 ```
 
-**Parent Topic:**[System events reference](system-events-reference.md)
+**Parent Topic:**[System events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-reference.md)
 

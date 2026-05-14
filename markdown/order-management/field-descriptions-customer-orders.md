@@ -13,7 +13,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 The Order details forms enable you to select, review, and modify captured customer or service orders.
 
-**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 ## Order details page - Customer Order fields
 
@@ -35,7 +35,7 @@ Number
 
 Unique system-assigned customer order number.
 
-**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [Order types in Sales Customer Relationship Management](../concept/som-order-types.md).
+**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [Order types in Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/som-order-types.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ State
 
 </td><td>
 
-Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [Customer Order form states](order-mgt-state-values.md#section-cust-order-state) and [Customer order states](order-mgt-state-values.md).
+Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [Customer Order form states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md#section-cust-order-state) and [Customer order states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md).
 
 </td></tr><tr><td>
 
@@ -357,7 +357,7 @@ Shows the number of months the subscription is valid based on the contract start
 </table>**Related topics**  
 
 
-[Add subscription pricing to an order](../task/add-subscription-pricing-to-an-order.md)
+[Add subscription pricing to an order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-subscription-pricing-to-an-order.md)
 
 ## Order details page - Address fields
 

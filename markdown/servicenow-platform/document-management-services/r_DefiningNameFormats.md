@@ -43,5 +43,5 @@ The following name formats are defined in the base system.
 |Development Sources|\(no separator\)|The format for the development and code sources type.|
 |Intranet Improvement|\(no separator\)|The format for documents that describe intranet use.|
 
-**Parent Topic:**[Defining Document Parameters](r_DefiningDocumentParameters.md)
+**Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 

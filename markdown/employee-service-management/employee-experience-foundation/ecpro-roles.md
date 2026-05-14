@@ -112,7 +112,7 @@ Not applicable
 </td></tr></tbody>
 </table>## Employee Profile
 
-For more information, see [Employee profile](employee-profile-portal.md)
+For more information, see [Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
 <table id="table_zs3_3n1_xcc"><thead><tr><th>
 
@@ -142,7 +142,7 @@ Configures employee profile
 </td></tr></tbody>
 </table>## Content Analytics
 
-For more information, see [Content Analytics](ecpro-content-automation-analytics.md)
+For more information, see [Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-analytics.md)
 
 <table id="table_c1c_qjk_rcc"><thead><tr><th>
 
@@ -185,7 +185,7 @@ pa\_viewer
 </td></tr></tbody>
 </table>## Content engagement
 
-For more information, see [Content engagement](ec-content-engagement.md)
+For more information, see [Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 <table id="table_s55_2kk_rcc"><thead><tr><th>
 
@@ -205,7 +205,7 @@ Content engagement admin\[sn\_ce.admin\]
 
 </td><td>
 
-Configures reaction icons for news articles[Content engagement](ec-content-engagement.md)
+Configures reaction icons for news articles[Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 </td><td>
 
@@ -226,7 +226,7 @@ None
 </td></tr></tbody>
 </table>## Content Experiences
 
-For more information, see [Creating campaigns](ecpro-campaigns.md)
+For more information, see [Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 
 <table id="table_wjk_xkk_rcc"><thead><tr><th>
 
@@ -282,7 +282,7 @@ sn\_cd.content\_approver
 </td></tr></tbody>
 </table>## Content Governance
 
-For more information, see [Managing content requests](ec-content-governance.md)
+For more information, see [Managing content requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-governance.md)
 
 <table id="table_l4p_wlk_rcc"><thead><tr><th>
 
@@ -323,7 +323,7 @@ None
 </td></tr></tbody>
 </table>## Content Publishing
 
-For more information, see [Creating employee communications](ec-publish-content.md)
+For more information, see [Creating employee communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-content.md)
 
 <table id="table_awp_fwk_rcc"><thead><tr><th>
 
@@ -343,8 +343,8 @@ Content Admin\[sn\_cd.content\_admin\]
 
 </td><td>
 
--   Define [Content Ownership](ecpro-content-restriction.md)
--   Connect Content Publishing with a [Video hosting integrations framework](content-providers.md)
+-   Define [Content Ownership](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-restriction.md)
+-   Connect Content Publishing with a [Video hosting integrations framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/content-providers.md)
 
 </td><td>
 
@@ -363,7 +363,7 @@ Content Manager\[sn\_cd.content\_manager\]
 
 </td><td>
 
-Create, edit and publish content in [Content Publishing](ec-publish-content.md)
+Create, edit and publish content in [Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-publish-content.md)
 
 </td><td>
 
@@ -405,7 +405,7 @@ Template Owner\[sn\_cd.content\_template\_owner \]
 
 </td><td>
 
-This role allows users to create [Content templates](ec-content-templates.md) for news article content creation and publishing.
+This role allows users to create [Content templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-templates.md) for news article content creation and publishing.
 
 </td><td>
 

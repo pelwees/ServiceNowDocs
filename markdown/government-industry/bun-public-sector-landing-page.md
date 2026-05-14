@@ -14,27 +14,27 @@ Extend beyond the packaged government case types, leveraging the government data
 
 <table id="table_qq4_trz_3tb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore how Public Sector Digital Services can help you with its key features and benefits.](exploring-public-sector-digital-services.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-explore.svg)Explore how Public Sector Digital Services can help you with its key features and benefits.](exploring-public-sector-digital-services.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Customize your implementation of Public Sector Digital Services to meet your specific needs.](configuring-public-sector-digital-services.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Customize your implementation of Public Sector Digital Services to meet your specific needs.](configuring-public-sector-digital-services.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend capabilities in Public Sector Digital Services by integrating with other applications.](integrate-psds-other-apps.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend capabilities in Public Sector Digital Services by integrating with other applications.](integrate-psds-other-apps.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how agents and constituents can use Public Sector Digital Services to create, route, and manage public service requests.](using-public-sector-digital-services.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how agents and constituents can use Public Sector Digital Services to create, route, and manage public service requests.](using-public-sector-digital-services.md)
 
 </td><td>
 
-[Analyze ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations to track key metrics and improve your service.](../../../use/application-content-packs/concept/psds-content-pack.md)
+[Analyze ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Access preconfigured dashboards with actionable data visualizations to track key metrics and improve your service.](../../../use/application-content-packs/concept/psds-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details on Public Sector components such as lists, tables, forms, rules, components, parameters, roles, and personas.](public-sector-digital-services-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-learn.svg)Get additional details on Public Sector components such as lists, tables, forms, rules, components, parameters, roles, and personas.](public-sector-digital-services-reference.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Extend beyond the packaged government case types, leveraging the government data
 
 </td><td>
 
-[Automate ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for PSDS to enhance user productivity and efficiency through proactive experiences using generative AI.](../reference/now-assist-for-psds.md)
+[Automate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use Now Assist for PSDS to enhance user productivity and efficiency through proactive experiences using generative AI.](../reference/now-assist-for-psds.md)
 
 </td><td>
 

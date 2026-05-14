@@ -55,7 +55,7 @@ This spoke was built for API version 2023-11-03, but may be compatible with late
     2.  Select the Add a role assignment and select the Storage Blob Data Owner role.
     3.  Assign access to the required Azure AD user, group, or service principle option. Select the email address of the Azure account and save the changes.
 
-        ![Add the Storage Blob Data Owner role](../image/azure-blob-role.png)
+        ![Add the Storage Blob Data Owner role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/azure-blob-role.png)
 
     For more information, see [Use the Azure portal to assign an Azure role for access to blob and queue data](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad-rbac-portal).
 
@@ -98,5 +98,5 @@ The Azure Blob Storage spoke provides actions to automate Azure Blob Storage tas
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the Microsoft Azure Blob Storage Spoke](../task/setup-blob-spoke.md#).
+For information about setting up the spoke, see [Set up the Microsoft Azure Blob Storage Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-blob-spoke.md#).
 

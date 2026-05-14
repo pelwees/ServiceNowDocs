@@ -19,7 +19,7 @@ Configure your Demand Management application to assess and promote demands to pr
 
 **Important:**
 
-Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](../../ppw-demand/concept/demand-workspace-ppw.md).
+Demands are available in the Next Experience for Demand Management. For more information, see [Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../ppw-demand/concept/demand-workspace-ppw.md).
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
@@ -28,10 +28,10 @@ If you have Portfolio Planning Workspace or Strategic Planning Workspace, you ca
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
 
--   **[Multicurrency in Demand Management](multicurrency-demand.md)**  
+-   **[Multicurrency in Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/multicurrency-demand.md)**  
 Manage and track the financials of your demands in the corporate currency, regional currency, or the same currency that you want to use for managing the project using the multicurrency feature. The corporate policy typically governs the choice of this preference.
--   **[Set up Demand Management](c_SettingUpDemandManagement.md)**  
+-   **[Set up Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_SettingUpDemandManagement.md)**  
 Perform these tasks to set up Demand Management.
 
-**Parent Topic:**[Demand Management](c_DemandManagement.md)
+**Parent Topic:**[Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)
 

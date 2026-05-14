@@ -27,7 +27,7 @@ Use the OAuth client credentials grant type for back-end services or automated i
 **Related topics**  
 
 
-[Client credentials grant workflow](client-credentials-grant-workflow.md)
+[Client credentials grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/client-credentials-grant-workflow.md)
 
-[Configure an OAuth Client credential grant](../../machine-identity/task/configure-an-oauth-client-credential-grant.md)
+[Configure an OAuth Client credential grant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../machine-identity/task/configure-an-oauth-client-credential-grant.md)
 

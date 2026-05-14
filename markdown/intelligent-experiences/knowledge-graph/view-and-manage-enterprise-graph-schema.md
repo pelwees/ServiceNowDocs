@@ -25,7 +25,7 @@ Role required: admin
 
     You are navigated to the Enterprise Graph start page.
 
-    ![Enterprise Graph start page](../Images/GG-landing.png)
+    ![Enterprise Graph start page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/GG-landing.png)
 
 2.  Do one of the following to go to the Enterprise Graph canvas:
 
@@ -33,13 +33,13 @@ Role required: admin
     -   Select **Open your last view**.
     -   Select **Start with user tables**.
     -   Select**Select multiple tables**.
-    ![Enterprise Graph canvas](../Images/EG-canvas.png)
+    ![Enterprise Graph canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/EG-canvas.png)
 
     The Enterprise graph schema​ opens in the Knowledge Graph canvas page.
 
 3.  You can select a tag from the drop-down next to Enterprise graph to see a specific tag.
 
-    ![Tags selection](../Images/contribution_EG.png)
+    ![Tags selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/contribution_EG.png)
 
 4.  From the toolbar, select **Nodes details** option to view details or add a synonym for the node.
 

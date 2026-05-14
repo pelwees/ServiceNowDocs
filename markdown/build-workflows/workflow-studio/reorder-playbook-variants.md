@@ -33,10 +33,10 @@ Playbook variants are evaluated from the top down at every level. The first vari
 
 4.  Drag and drop the variants to a new place within their level.
 
-    ![Changing the order of variants in the variant panel](../images/reorder-variant.gif)
+    ![Changing the order of variants in the variant panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/reorder-variant.gif)
 
     Variants cannot be moved to different levels. They can only be reordered at the sibling level.
 
 
-**Parent Topic:**[Playbook variants](../concept/playbook-variants.md)
+**Parent Topic:**[Playbook variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/playbook-variants.md)
 

@@ -33,7 +33,7 @@ The Operational Technology \(OT\) data model was created to enable management of
     -   An HMI CI with an OT Device detail record describing its “OT Device type” also as HMI.
     -   A computer CI with an OT Device detail record describing its “OT Device type” as HMI.
 
-![OT Device records include a record in the cmdb_ot_entity table.](../image/ot-asset-ci-class.png)
+![OT Device records include a record in the cmdb_ot_entity table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/ot-asset-ci-class.png)
 
 In this way, a list of HMIs can be derived and a list of all computers in an enterprise can also be derived.
 
@@ -48,11 +48,11 @@ You can use the added classes as any other CMDB class. Applications such as Disc
 
 ## Operational Technology \(OT\) schema structure​
 
-![Relationships and references in the OT schema.](../image/ClassOperationTechnology.png)
+![Relationships and references in the OT schema.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/ClassOperationTechnology.png)
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.69.0 adds the following classes for OT.
 
@@ -476,7 +476,7 @@ The ServiceNow AI Platform contains a predefined identification rule for the Ope
     -   If both Serial Number and Name are not available, and only MAC Address is available, use MAC Address as the name of the CI. Using the MAC Address as the name of the CI ensures that you don't create an empty CI.
 5.  Identifier entry that uses a product instance identifier \(PID\) on the CI.
 
-**Note:** To learn more, see [CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md).
+**Note:** To learn more, see [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_CMDBIdentifyandReconcile.md).
 
 **Reclassifying IT devices on your OT network**
 
@@ -1006,7 +1006,7 @@ Tips:
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-The [CMDB CI Class Models app](cmdb-ci-class-models.md) app adds class models that extend the CMDB class hierarchy, including:
+The [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md) app adds class models that extend the CMDB class hierarchy, including:
 
 -   Class descriptions
 -   Identification rules
@@ -1016,5 +1016,5 @@ The [CMDB CI Class Models app](cmdb-ci-class-models.md) app adds class models th
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_ConfigurationManagementDatabase.md)
 

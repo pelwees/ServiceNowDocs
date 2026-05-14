@@ -28,7 +28,7 @@ This example shows a poorly designed form.
 -   The form has no sections. Users need to scroll through the entire form to see all the fields.
 -   Similar fields are not grouped together. For example, Assignment group and Assigned to are on different sides of the form.
 
-    ![Poorly designed form](../image/bad-form.png)
+    ![Poorly designed form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/bad-form.png)
 
 
 This example shows a well-designed form.
@@ -36,7 +36,7 @@ This example shows a well-designed form.
 -   Fields are grouped together logically.
 -   The form has been broken into sections for easier viewing and data entry.
 
-    ![Well-designed form](../image/good-form.png)
+    ![Well-designed form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/good-form.png)
 
 
 ## Mobile
@@ -51,5 +51,5 @@ Self-paced training: [Mobile Applications](https://developer.servicenow.com/dev.
 
 Other resources: [Mobile Resources](https://community.servicenow.com/community?id=community_blog&sys_id=98855a4edba9fbc0fece0b55ca9619e0)
 
-**Parent Topic:**[Create design elements](create-design-elements.md)
+**Parent Topic:**[Create design elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-design-elements.md)
 

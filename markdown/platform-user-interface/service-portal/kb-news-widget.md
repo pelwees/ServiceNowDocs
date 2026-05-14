@@ -19,11 +19,11 @@ You can configure the KB News widget to display specific information by selectin
 
 **Note:** The KB News widget only displays the knowledge base articles a user has access to based on ACL rules.
 
-![KB News widget with announcements about service interruptions](../image/WidgetKBNews.png "KB News widget")
+![KB News widget with announcements about service interruptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetKBNews.png "KB News widget")
 
 ## Instance options
 
-![KB news widget instance options with four options listed](../image/IOKBNews.png "KB news widget instance options")
+![KB news widget instance options with four options listed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/IOKBNews.png "KB news widget instance options")
 
 <table id="table_rjn_sx4_j1b"><thead><tr><th>
 
@@ -66,14 +66,14 @@ KB category
 The knowledge base category determined by the kb\_category table. Only published articles display. For a news widget, select something like **Announcements** to show upcoming events.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Knowledge Management widgets](km-widgets.md)
+</table>**Parent Topic:**[Knowledge Management widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

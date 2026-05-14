@@ -23,14 +23,14 @@ Role required: ot\_progress\_scorecard\_viewer
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the **OT Progress Scorecard** \(![OT Progress Scorecard icon](../image/ot-progress-scorecard-icon.png)\) icon.
+2.  Select the **OT Progress Scorecard** \(![OT Progress Scorecard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ot-progress-scorecard-icon.png)\) icon.
 
-3.  Select the Ascending \(![Ascending icon](../image/ascending-button.png)\) or Descending \(![Descending icon](../image/descending-button.png)\) icon.
+3.  Select the Ascending \(![Ascending icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ascending-button.png)\) or Descending \(![Descending icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/descending-button.png)\) icon.
 
 
 ## Result
 
 The OT Progress Scorecard is now organized by ascending or descending order. If you log out, the sort configuration is saved for the next time you log in.
 
-**Parent Topic:**[Using the Industrial Workspace](../concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/using-industrial-workspace.md)
 

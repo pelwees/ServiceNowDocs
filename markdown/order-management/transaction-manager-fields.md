@@ -23,7 +23,7 @@ The selected level will ultimately impact the field’s availability for rules, 
 
 In the buyside screenshot below, the sections marked 1 are transaction-level fields; the fields in the section marked 2 are transaction line-level fields.
 
-![Transaction screen](../images/cpq-txn-mgr-fields.jpeg)
+![Transaction screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields.jpeg)
 
 ## Field types
 
@@ -50,7 +50,7 @@ Transaction level:
 -   Transaction information
 -   Account information
 
-For a complete list of transaction-level fields, see [Transaction Manager: Transaction-level system fields](transaction-manager-transaction-header-level-system-fields.md).
+For a complete list of transaction-level fields, see [Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md).
 
 Transaction line level:
 
@@ -60,7 +60,7 @@ Transaction line level:
 -   Product information
 -   Order information
 
-For a complete list of line-level fields, see [Transaction Manager: Line-level system fields](transaction-manager-line-level-system-fields.md).
+For a complete list of line-level fields, see [Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md).
 
 You can also add custom fields to a blueprint in Transaction Manager. Custom fields added via the Transaction Manager Admin UI are automatically associated with the blueprint. However, custom fields uploaded by using the Matrix Loader must be associated with the blueprint by means of the blueprint.yaml file. To do so, add a list to the blueprint.yaml file that details the field variable names to be associated with the blueprint.
 
@@ -99,11 +99,11 @@ To add a new field to the Transaction Manager blueprint, follow these steps:
 
 2.  Click **Associated Fields**.
 
-    ![Admin transaction](../images/cpq-txn-mgr-associated-fields.jpeg)
+    ![Admin transaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-associated-fields.jpeg)
 
 3.  Click **Create Field** to create a new field.
 
-    ![Utilities screen](../images/cpq-txn-mgr-create-field.jpeg)
+    ![Utilities screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-create-field.jpeg)
 
     The **New Field** dialog box opens.
 
@@ -111,12 +111,12 @@ To add a new field to the Transaction Manager blueprint, follow these steps:
 
     As the name is entered, it is mirrored in the **Variable Name** field. By default, the variable name is the same as the entered name, but in camel case with all spaces and special characters removed. For example, if you enter the name Customer Billing Address, the automatically entered variable name is customerBillingAddress. To create a custom variable name, click the pencil icon to the right of the variable name field and enter your own value.
 
-    ![New field screen](../images/cpq-txn-mgr-fields-select-level.jpeg)
+    ![New field screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-select-level.jpeg)
 
 5.  Select a level to choose whether the field is a transaction level field or a transaction line level field.
 6.  Choose the type of field you are creating from the five available field types.
 
-    ![Select data type screen](../images/cpq-txn-mgr-fields-select-type.jpeg)
+    ![Select data type screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-select-type.jpeg)
 
 7.  Click **Save**.
 
@@ -126,29 +126,29 @@ The field editor page opens. Select the desired options.
 
 The name and variable name appear at the top left of the field editor page. You can change the name, but the variable name is locked and can be changed only by deleting the field and re-adding it to the blueprint. Optionally, you can add a description of the field here. If the field is to be required on the buyside layout, toggle the **Required** switch.
 
-![Quote name](../images/cpq-txn-mgr-fields-quote-name.jpeg)
+![Quote name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-quote-name.jpeg)
 
 The **Default Access** field controls access to this field in the default view. **Editable** makes this field Read/Write accessible. If you select **No Access**, the field is hidden from view on the buyside layout and is not accessible via APIs.
 
-![Relationship access screen](../images/cpq-txn-mgr-fields-default-access.jpeg)
+![Relationship access screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-default-access.jpeg)
 
 You can enter a default value for the text field in the **Default Value** field.
 
-![Field description](../images/cpq-txn-mgr-text-default-value.jpeg)
+![Field description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-text-default-value.jpeg)
 
 The **Minimum Field Length** and **Maximum Field Length** values let you set the minimum and maximum number of characters that can be entered.
 
-![Rules](../images/cpq-txn-mgr-min-max-length.jpeg)
+![Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-min-max-length.jpeg)
 
 ## Number field options
 
 The name and variable name appear at the top left of the field editor page. You can change the name, but the variable name is locked and can be changed only by deleting the field and re-adding it to the blueprint. Optionally, you can add a description of the field here. If the field is to be required on the buyside layout, toggle the **Required** switch.
 
-![Number field options](../images/cpq-txn-mgr-txn-number.jpeg)
+![Number field options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-txn-number.jpeg)
 
 The **Default Access** field controls access to this field in the default view. **Editable** makes this field Read/Write accessible. If you select **No Access**, the field is hidden from view on the buyside layout and is not accessible via APIs.
 
-![Relationship access screen](../images/cpq-txn-mgr-fields-default-access.jpeg)
+![Relationship access screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-default-access.jpeg)
 
 Number fields can take one of three forms: number, currency, or percentage. Choose which form you want the field to take.
 
@@ -156,7 +156,7 @@ The **Unit Label** field lets you specify the unit label for the number field. I
 
 The **Minimum Value** and **Maximum Value** fields let you set the minimum and maximum allowable values for the field.
 
-![Number field options](../images/cpq-txn-mgr-number-field-options.jpeg)
+![Number field options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-number-field-options.jpeg)
 
 You can enter a default value for the number field in the **Default Value** field.
 
@@ -164,29 +164,29 @@ You can enter a default value for the number field in the **Default Value** fiel
 
 The name and variable name appear at the top left of the field editor page. You can change the name, but the variable name is locked and can be changed only by deleting the field and re-adding it to the blueprint. Optionally, you can add a description of the field here. If the field is to be required on the buyside layout, toggle the **Required** switch.
 
-![Boolean field options](../images/cpq-txn-mgr-boolean-field-options.jpeg)
+![Boolean field options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-boolean-field-options.jpeg)
 
 The **Default Access** field controls access to this field in the default view. **Editable** makes this field Read/Write accessible. If you select **No Access**, the field is hidden from view on the buyside layout and is not accessible via APIs.
 
-![Relationship access screen](../images/cpq-txn-mgr-fields-default-access.jpeg)
+![Relationship access screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-default-access.jpeg)
 
 You can set whether the Boolean field defaults to True by setting the **Default Checked** toggle. If the toggle is not set, the field defaults to False.
 
 In the **True Label** field, you can set the text value of the field when the Boolean value is True. For example, you can set the displayed value to “Yes” when the value is True. Similarly, the **False Label** field lets you set the text when the field value is False.
 
-![Boolean field options](../images/cpq-txn-mgr-boolean-true-label.jpeg)
+![Boolean field options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-boolean-true-label.jpeg)
 
-![Field label](../images/cpq-txn-mgr-boolean-false-label.jpeg)
+![Field label](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-boolean-false-label.jpeg)
 
 ## Picklist field options
 
 The name and variable name appear at the top left of the field editor page. You can change the name, but the variable name is locked and can be changed only by deleting the field and re-adding it to the blueprint. Optionally, you can add a description of the field here. If the field is to be required on the buyside layout, toggle the **Required** switch.
 
-![Field summary](../images/cpq-txn-mgr-picklist-field-options.jpeg)
+![Field summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-picklist-field-options.jpeg)
 
 The **Default Access** field controls access to this field in the default view. **Editable** makes this field Read/Write accessible. If you select **No Access**, the field is hidden from view on the buyside layout and is not accessible via APIs.
 
-![Relationships editable screen](../images/cpq-txn-mgr-fields-default-access.jpeg)
+![Relationships editable screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-default-access.jpeg)
 
 **Selection Type** defines the picklist as either single-select menu or multi-select.
 
@@ -194,11 +194,11 @@ The **Default Access** field controls access to this field in the default view. 
 
 The **+ Add Picklist Options** link allows you to add the first menu option to this picklist menu field.
 
-![Selection type screen](../images/cpq-txn-mgr-picklist-selection-type.jpeg)
+![Selection type screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-picklist-selection-type.jpeg)
 
 When adding a picklist option, consider the following field values:
 
-![Selection type screen](../images/cpq-txn-mgr-picklist-selection-type-values.jpeg)
+![Selection type screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-picklist-selection-type-values.jpeg)
 
 -   **Order**
 
@@ -231,30 +231,30 @@ Click **Save Option** to add the option to the list of options for the picklist 
 
 The name and variable name appear at the top left of the field editor page. You can change the name, but the variable name is locked and can be changed only by deleting the field and re-adding it to the blueprint. Optionally, you can add a description of the field here. If the field is to be required on the buyside layout, toggle the **Required** switch.
 
-![Field summary screen](../images/cpq-txn-mgr-date-time-options.jpeg)
+![Field summary screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-options.jpeg)
 
 The **Default Access** field controls access to this field in the default view. **Editable** makes this field Read/Write accessible. If you select **No Access**, the field is hidden from view on the buyside layout and is not accessible via APIs.
 
-![Relationship access screen](../images/cpq-txn-mgr-fields-default-access.jpeg)
+![Relationship access screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-fields-default-access.jpeg)
 
 The **Default Value** field lets you set the default date and time setting for the field. The value is converted to UTC in YYYY-MM-DDTHH:MM:SSZ format.
 
-![Date time fieldoptions](../images/cpq-txn-mgr-date-time-default-value.jpeg)
+![Date time fieldoptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-default-value.jpeg)
 
 The **Not Before** and **Not After** fields let you to set the minimum and maximum date and time values for the field.
 
-![Userinterface](../images/cpq-txn-mgr-date-time-not-before-after.jpeg)
+![Userinterface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-not-before-after.jpeg)
 
-For more information about the Date/Time field type, see [Transaction Manager: Date and time fields](transaction-manager-date-and-time-fields.md).
+For more information about the Date/Time field type, see [Transaction Manager: Date and time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md).
 
 **Related topics**  
 
 
-[Transaction Manager](transaction-manager.md)
+[Transaction Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager.md)
 
-[Transaction Manager: Transaction-level system fields](transaction-manager-transaction-header-level-system-fields.md)
+[Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md)
 
-[Transaction Manager: Line-level system fields](transaction-manager-line-level-system-fields.md)
+[Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md)
 
-[Transaction Manager: Date and time fields](transaction-manager-date-and-time-fields.md)
+[Transaction Manager: Date and time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-date-and-time-fields.md)
 

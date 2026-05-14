@@ -21,10 +21,10 @@ Demand actions are strategic decisions that you want to execute for an applicati
 |Description|Description of the action.|
 |Strategy|Plan to implement the action.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a demand action](../../task/eaw-task/eaw-add-edit-demand-action.md)
+[Add or edit a demand action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-demand-action.md)
 

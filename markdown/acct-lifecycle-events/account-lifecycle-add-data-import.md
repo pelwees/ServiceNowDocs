@@ -27,7 +27,7 @@ Add the data import task that you’ve configured to the **Account lifecycle onb
     -   Closed Conditions: Specify the conditions that must be met before the task moves into the Closed state.
     -   Onboarding Case: Select the Account Onboarding Case Record trigger to associate this record with the account onboarding case.
     -   Record View: The name of the Form View that is to be displayed in the Customer Success Management playbook. Enter `tech_pad_imp_task_view` here.
-    -   Responsibility Name: Select the ServiceNow Developer/Admin user role from the list. This role is assigned to the internal team members \(defined in the Assign internal team responsibilities task of the **Initiate** stage of the playbook. See [Set up the account onboarding playbook](account-lifecycle-use-playbook.md) for details\). Users with this role can perform the data import task.
+    -   Responsibility Name: Select the ServiceNow Developer/Admin user role from the list. This role is assigned to the internal team members \(defined in the Assign internal team responsibilities task of the **Initiate** stage of the playbook. See [Set up the account onboarding playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-playbook.md) for details\). Users with this role can perform the data import task.
 10. Select **Add Field** and enter data in the following fields from the Customer Success Management Import Task table.
 
     -   Source Table: Add the internal name of the staging table. For example, `sn_acct_lc_account_onb_import_locations`.
@@ -43,7 +43,7 @@ Add the data import task that you’ve configured to the **Account lifecycle onb
 
 11. Test the configuration and then select **Activate** to activate the playbook.
 
-After the data import task has been configured, the Customer Success Management playbook can be used to onboard customers. See [Set up the account onboarding playbook](account-lifecycle-use-playbook.md) for details.
+After the data import task has been configured, the Customer Success Management playbook can be used to onboard customers. See [Set up the account onboarding playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-playbook.md) for details.
 
-**Parent Topic:**[Data capture and validation](account-lifecycle-use-playbook-data-capture.md)
+**Parent Topic:**[Data capture and validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-playbook-data-capture.md)
 

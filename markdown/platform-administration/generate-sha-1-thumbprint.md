@@ -40,7 +40,7 @@ Role required: admin
 
 ## What to do next
 
-[Create an OAuth API script](create-oauth-api-script-cred-flow.md)
+[Create an OAuth API script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-oauth-api-script-cred-flow.md)
 
-**Parent Topic:**[Configure client credential flow for SMTP OAuth2 using certificate-based authentication](config-credential-flow-certificate.md)
+**Parent Topic:**[Configure client credential flow for SMTP OAuth2 using certificate-based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/config-credential-flow-certificate.md)
 

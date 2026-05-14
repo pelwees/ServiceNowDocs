@@ -48,10 +48,10 @@ There's no specific order in which you must view the reports, set filters, or cu
 
 The following example shows how the dashboard data is organized into sections, charts, filters, and graphs. The filters enable you to drill beyond a chart or a graph to view more detailed data.
 
-![Sample data of top 10 flow runs.](../images/fdih-dashboard-flow-usage-example.png "FDIH Dashboard showing sample flow usage")
+![Sample data of top 10 flow runs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/fdih-dashboard-flow-usage-example.png "FDIH Dashboard showing sample flow usage")
 
--   **[Get insights from the FDIH Dashboard](../task/get-insights-fdih-dashboard.md)**  
+-   **[Get insights from the FDIH Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/get-insights-fdih-dashboard.md)**  
 Use the FDIH Dashboard to get insights on flow executions and historical performance.
 
-**Parent Topic:**[Flow administration](flow-administration.md)
+**Parent Topic:**[Flow administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-administration.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_lc.catalog\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning internal content form](../reference/learning-internal-content-form.md).
+    For a description of the field values, see [Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-internal-content-form.md).
 
 4.  Click **Submit**.
 
@@ -36,20 +36,20 @@ Role required: sn\_lc.catalog\_manager
 
 Associate skills to learning content.
 
-**Parent Topic:**[Managing course and catalog content](manage-ln-content.md)
+**Parent Topic:**[Managing course and catalog content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
 **Related topics**  
 
 
-[Create a course catalog](create-course-catalog.md)
+[Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md)
 
-[Create a content collection](create-course-collection.md)
+[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-collection.md)
 
-[View external learning content](create-ln-extcnt.md)
+[View external learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-extcnt.md)
 
-[Create a learning library](create-ln-ctg.md)
+[Create a learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
 
-[Create a learning task](ln-task-le.md)
+[Create a learning task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-task-le.md)
 
-[Learning internal content form](../reference/learning-internal-content-form.md)
+[Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-internal-content-form.md)
 

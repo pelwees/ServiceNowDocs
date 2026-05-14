@@ -45,5 +45,5 @@ Reason for RMA request. -   Other
 -   Not as described
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md)
+</table>**Parent Topic:**[Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 

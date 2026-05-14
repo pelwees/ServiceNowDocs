@@ -50,7 +50,7 @@ Filtering helps you to isolate DLP incidents and to limit the number of DLP inci
 
     **Note:** If the validation is unsuccessful then an error message is displayed that the validation is failed and this happens when the filters are not properly entered as per the Symantec APIs.
 
-    ![Adding API based filters](../image/dlp-api-filters.png "Adding API Filters")
+    ![Adding API based filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-api-filters.png "Adding API Filters")
 
 4.  Select **Post Incident Ingestion Filter** checkbox to define the criteria that an incoming Symantec DLP incident must satisfy so that a DLP incident is created.
 
@@ -58,7 +58,7 @@ Filtering helps you to isolate DLP incidents and to limit the number of DLP inci
 
 5.  In the condition builder, set the filters in the **Filter Conditions** field.
 
-    ![DLP Symantec Filtering section](../../data-loss-prevention/image/dlp-symantec-filtering.gif)
+    ![DLP Symantec Filtering section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/dlp-symantec-filtering.gif)
 
 6.  To add more conditions, click  **AND**  or  **OR**.
 
@@ -69,5 +69,5 @@ Filtering helps you to isolate DLP incidents and to limit the number of DLP inci
 
 To configure the schedule, click **Continue**.
 
-**Parent Topic:**[Create a profile for Symantec DLP integration](create-profile-symantec-dlp.md)
+**Parent Topic:**[Create a profile for Symantec DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-symantec-dlp.md)
 

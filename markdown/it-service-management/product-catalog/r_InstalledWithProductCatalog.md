@@ -17,29 +17,29 @@ The following components are installed with the Product Catalog plugin.
 
 Demo data is available with the product catalog. The demo data provides various models, model categories, product catalog items, vendor catalog items, and vendors.
 
--   **[Tables installed with Product Catalog](r_TablesProductCatalog.md)**  
+-   **[Tables installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_TablesProductCatalog.md)**  
 Product Catalog plugin adds the following tables.
--   **[Roles installed with Product Catalog](r_RolesProductCatalog.md)**  
+-   **[Roles installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_RolesProductCatalog.md)**  
 Product Catalog plugin adds the following roles.
--   **[Script includes installed with Product Catalog](r_ScriptIncludesProductCatalog.md)**  
+-   **[Script includes installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_ScriptIncludesProductCatalog.md)**  
 Product Catalog plugin adds the following script include.
--   **[Client scripts installed with Product Catalog](r_ClientScriptsProductCatalog.md)**  
+-   **[Client scripts installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_ClientScriptsProductCatalog.md)**  
 Product Catalog plugin adds the following client script.
--   **[Business rules installed with Product Catalog](r_BusinessRulesProductCatalog.md)**  
+-   **[Business rules installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_BusinessRulesProductCatalog.md)**  
 Product Catalog plugin adds the following business rules.
 
-**Parent Topic:**[Product Catalog](../concept/c_ProductCatalog.md)
+**Parent Topic:**[Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ProductCatalog.md)
 
 **Related topics**  
 
 
-[Models](../concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_Models.md)
 
-[Vendor catalog items](../concept/c_ManageVendorCatalogItems.md)
+[Vendor catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ManageVendorCatalogItems.md)
 
-[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+[Product catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ManagingProductCatalogItems.md)
 
-[Model categories](../concept/c_ModelCategories.md)
+[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ModelCategories.md)
 
-[Domain separation and Product Catalog](../concept/domain-separation-product-catalog.md)
+[Domain separation and Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/domain-separation-product-catalog.md)
 

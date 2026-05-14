@@ -43,7 +43,7 @@ Role required: sp\_admin
 
     5.  Select **Instance** for the Portal Data List widget from Page Content.
 
-        ![Page content showing the Data List widget instance](../image/page-content-instance-cases-and-tasks.png)
+        ![Page content showing the Data List widget instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/page-content-instance-cases-and-tasks.png)
 
         The widget instance page opens.
 

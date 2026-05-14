@@ -17,7 +17,7 @@ Map the fields for each table map from Strategic Planning to Agile Development 2
 
 ## Before you begin
 
-Ensure that you have created a table map for an alignment integration record. For more information, see [Create a table map](create-custom-table-maps-for-custom-planning-items.md).
+Ensure that you have created a table map for an alignment integration record. For more information, see [Create a table map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-custom-table-maps-for-custom-planning-items.md).
 
 **Note:** If the execution field type is 'Reference' and the alignment field type is 'String', then the sync will not work.
 
@@ -33,7 +33,7 @@ Role required: sn\_align\_core.apw\_admin
 
 4.  Create a new field map by selecting **New** in the Field Maps tab.
 
-5.  In the [Field map form](../reference/field-map-form.md), fill in the fields.
+5.  In the [Field map form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/field-map-form.md), fill in the fields.
 
 6.  Click **Submit**.
 

@@ -29,7 +29,7 @@ This configuration enables parametrized data item support for the following targ
 
 When you complete this configuration, the parametrized screen is populated with query results based on inputs or variables from an input form screen. In this scenario, the inputs and variables of the input form screen are used as part of a data item's query condition.
 
-The parametrized data item screen isn’t supported [offline](../concept/mobile-offline-mode.md).
+The parametrized data item screen isn’t supported [offline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ The parametrized data item screen isn’t supported [offline](../concept/mobile-
 
     **Note:** The input form screen can contain only inputs, only variables, or both inputs and variables for use as part of the data item query condition.
 
-    For information about creating an input form screen, see [Configure an input form screen](parameter-screen-config.md).
+    For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 2.  Navigate to the target list, map, calendar, record, or custom map screen you want to use.
 
@@ -47,11 +47,11 @@ The parametrized data item screen isn’t supported [offline](../concept/mobile-
     2.  Select the list screen that you want to be parametrized.
     3.  In the **Input Form Screen** field, search for the input form screen that you created in Step 1.
     4.  Select **Update**.
-    ![Instance showing list screen being configured to use input form screen.](../image/paramtrized-data-item-input-form-screen.png)
+    ![Instance showing list screen being configured to use input form screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/paramtrized-data-item-input-form-screen.png)
 
 3.  Configure a parametrized data item in the sys\_sg\_data\_item table with a query condition that returns the relevant information to the target screen.
 
-    For information about configuring a parametrized data item, see [Configure a parametrized data item](sg-config-parametrized-data-item.md).
+    For information about configuring a parametrized data item, see [Configure a parametrized data item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md).
 
 4.  Navigate back to the target screen.
 
@@ -71,7 +71,7 @@ The parametrized data item screen isn’t supported [offline](../concept/mobile-
     |Input|Input label from the input form screen|
     |Data parameter|Data parameter from the target screen data item|
 
-    ![Instance screen showing input variable parameter mapping.](../image/paramtrized-data-item-input-form-screen2.png)
+    ![Instance screen showing input variable parameter mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/paramtrized-data-item-input-form-screen2.png)
 
 8.  Select **Update**.
 

@@ -20,7 +20,7 @@ Administrators manage web  embeddables  through a dedicated experience in th
 
 Web  embeddables  include  default  components that address common self-service use cases, including knowledge search, case creation and tracking, and service catalog browsing.  Organizations that need capabilities beyond the default  components can create custom components.  Custom components follow the same deployment model as  default  components and are managed within the same admin experience, allowing organizations to extend web  embeddables  without  maintaining  a separate integration layer.
 
-![End to end workflow for web embeddables](../image/we-end-to-end-workflow.png "High level end-to-end workflow of web  embeddables")
+![End to end workflow for web embeddables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-relationship-management/customer-relationship-management/../image/we-end-to-end-workflow.png "High level end-to-end workflow of web  embeddables")
 
 ## Web embeddables benefits
 

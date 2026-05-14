@@ -23,13 +23,13 @@ Role required: knowledge
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](create-knowledge-article.md) or [Edit a knowledge article](edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](edit-article-workspace-1.md).
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-workspace-1.md) or [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace-1.md).
 
 ## Procedure
 
 1.  In the Article body section, place the cursor where you want to insert the code snippet.
 
-2.  Click the insert/edit code sample icon \(![Insert/Edit code sample icon](../image/insert-code.png)\) on the HTML toolbar.
+2.  Click the insert/edit code sample icon \(![Insert/Edit code sample icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/insert-code.png)\) on the HTML toolbar.
 
 3.  In the Insert/Edit code sample dialog box, select a markup or programming language from the Language list.
 
@@ -39,6 +39,6 @@ You can also use the HTML editor when creating or editing a knowledge article us
 
 5.  Click **Ok**.
 
-6.  Edit the code by clicking the code snippet, and then clicking the insert/edit code sample icon \(![Insert/Edit code sample icon](../image/insert-code.png)\).
+6.  Edit the code by clicking the code snippet, and then clicking the insert/edit code sample icon \(![Insert/Edit code sample icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/insert-code.png)\).
 
 

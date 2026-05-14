@@ -25,7 +25,7 @@ Role required: wm\_agent or wm\_dispatcher
 
 ### About this task
 
-You can view a list of all actions taken when your device was offline and the time stamp for each action in the offline mode outbox. Generates flat data of agent schedules that are used in the mobile application for scheduled downloads of offline payloads. The administrator can also choose to download the cache automatically in the background by setting up the [system properties](../task/configure-field-service-mobile.md). This helps to at least give you one download of data at the beginning of the shift.
+You can view a list of all actions taken when your device was offline and the time stamp for each action in the offline mode outbox. Generates flat data of agent schedules that are used in the mobile application for scheduled downloads of offline payloads. The administrator can also choose to download the cache automatically in the background by setting up the [system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/configure-field-service-mobile.md). This helps to at least give you one download of data at the beginning of the shift.
 
 ### Procedure
 
@@ -130,41 +130,41 @@ Manage tasks, record time, track inventory, pause tasks, complete tasks, and vie
 With your Field Service instance on your mobile device in offline mode, you can:
 
 -   **Execute tasks assigned to you at the task location.**
-    -   Start working on tasks by [accepting or rejecting tasks assigned to you.](../task/accept-reject-task-on-mobile.md)
-    -   Record the time when you [start to travel to the task site or start the work on a task](../task/work-task-on-mobile.md).
+    -   Start working on tasks by [accepting or rejecting tasks assigned to you.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/accept-reject-task-on-mobile.md)
+    -   Record the time when you [start to travel to the task site or start the work on a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/work-task-on-mobile.md).
 -   **View knowledge articles**
-    -   When you want to find information on how a similar work order task has been performed [Access knowledge articles attached to your work order task](access-information-you-need-mobile.md#).
-    -   When you want to rate an article [Provide feedback for knowledge articles](access-information-you-need-mobile.md#).
+    -   When you want to find information on how a similar work order task has been performed [Access knowledge articles attached to your work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/access-information-you-need-mobile.md#).
+    -   When you want to rate an article [Provide feedback for knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/access-information-you-need-mobile.md#).
 -   **Track asset usage.**
     -   Tap **My Inventory** on your mobile app to view your inventory.
-    -   After you work on a task [record assets used for a task](../task/use-create-asset-mobile.md).
+    -   After you work on a task [record assets used for a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/use-create-asset-mobile.md).
 -   **Record an incidental expense.**
 
-    Record an incidental expense that occurred when you’re offline: [Record an incidental expense](../../planning-and-policy/task/t_RecordAnIncidentalExpense.md)
+    Record an incidental expense that occurred when you’re offline: [Record an incidental expense](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_RecordAnIncidentalExpense.md)
 
 -   **Create a work order task.**
 
-    Create, work on, and mark a task as closed complete while offline: [Create a work order task](../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
+    Create, work on, and mark a task as closed complete while offline: [Create a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_CreateAWorkOrderTask.md)
 
 -   **Pause work order tasks.**
 
-    When you want to take a break from the task activity [pause a work order task](close-wo-wot-mobile.md#).
+    When you want to take a break from the task activity [pause a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md#).
 
 -   **Create a part requirement.**
 
-    Create a new part requirement when offline: [Request inventory](request-inventory.md#)
+    Create a new part requirement when offline: [Request inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md#)
 
 -   **Complete work orders and work order tasks.**
-    -   After you complete the work on a task [close a work order task](close-wo-wot-mobile.md#).
-    -   When you finish all tasks related to a work order [complete the work order](close-wo-wot-mobile.md#).
+    -   After you complete the work on a task [close a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md#).
+    -   When you finish all tasks related to a work order [complete the work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md#).
 
 -   **Log incidentals.**
 
-    Report the expenses such as car rental cost, mileage, car rental cost, and vendor cost to execute the work order tasks by [logging incidentals](close-wo-wot-mobile.md#).
+    Report the expenses such as car rental cost, mileage, car rental cost, and vendor cost to execute the work order tasks by [logging incidentals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md#).
 
 -   **Complete questionnaire**
 
-    Take questionnaires when mobile is offline. For more information, see [Complete questionnaire](../task/complete-questionnaire-mobile-app.md).
+    Take questionnaires when mobile is offline. For more information, see [Complete questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/complete-questionnaire-mobile-app.md).
 
 
 You can close work order SLAs in offline mode. The Field Service mobile application records the device timestamp when the SLA was closed. After you connect your device online and synchronize the data, the SLA admin can repair the SLA to display the actual time the SLA was closed.

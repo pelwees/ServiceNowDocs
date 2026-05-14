@@ -17,8 +17,8 @@ Create a topic for sending and receiving test messages in the Hermes Kafka clust
 
 ## Before you begin
 
--   Secure your Kafka topics by generating a ServiceNow® instance-signed certificate and keystore. You must provide truststore and keystore details when you configure a producer to create a topic in Hermes. See [Set up a secure connection to the Hermes Messaging Service](set-up-secure-connection-to-hermes.md).
--   Download and install Apache Kafka. See [Prepare your Apache Kafka client environment](prepare-kafka-client-environment.md).
+-   Secure your Kafka topics by generating a ServiceNow® instance-signed certificate and keystore. You must provide truststore and keystore details when you configure a producer to create a topic in Hermes. See [Set up a secure connection to the Hermes Messaging Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/set-up-secure-connection-to-hermes.md).
+-   Download and install Apache Kafka. See [Prepare your Apache Kafka client environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/prepare-kafka-client-environment.md).
 
 Role required: admin
 
@@ -121,5 +121,5 @@ A test topic is created in the Hermes Kafka cluster.
 
 ## What to do next
 
-[Produce test messages to a Hermes topic using the Kafka client](produce-messages-hermes.md)
+[Produce test messages to a Hermes topic using the Kafka client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/produce-messages-hermes.md)
 

@@ -32,7 +32,7 @@ Generating a sample of a cluster filters the records for that cluster. Generatin
 
 3.  Under the **Cluster Summary** related list, select a cluster ID.
 
-4.  Select **Generate Cluster Sample**.![Cluster Summary page with the Generate Cluster Sample button.](../images/generate_cluster_sample_button.png)
+4.  Select **Generate Cluster Sample**.![Cluster Summary page with the Generate Cluster Sample button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/generate_cluster_sample_button.png)
 
 
 ## Result

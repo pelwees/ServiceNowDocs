@@ -63,11 +63,11 @@ Workspace used by your application
 </td></tr></tbody>
 </table>2.  In the **Contract Documents** tab, select **Create Revision**.
 
-    ![Create a contract revision in contract request](../image/cmpro-create-rev.png "Create revision")
+    ![Create a contract revision in contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-create-rev.png "Create revision")
 
 3.  In the **Create revision** window, upload the updated contract.
 
-    ![Attach document for contract revision](../image/cmpro-creare-rev-pop-up.png "Create revision pop-up window")
+    ![Attach document for contract revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-creare-rev-pop-up.png "Create revision pop-up window")
 
     1.  For non-self-served requests, select the contract type in the **Select contract type** field.
 
@@ -98,5 +98,5 @@ Workspace used by your application
 5.  Select **Save**.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

@@ -54,7 +54,7 @@ Use this option for long-running scripts, or if you do not know the expected exe
 Use this option to run the script immediately and display the results in a confirmation window.
 
 </td></tr></tbody>
-</table>    ![Successful fix script test](../image/FixScriptTest.png)
+</table>    ![Successful fix script test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FixScriptTest.png)
 
 5.  Review the results from the Progress Workers related list, and make any necessary changes.
 
@@ -64,6 +64,6 @@ Use this option to run the script immediately and display the results in a confi
 
     2.  Select the **Cancel job** related link.
 
-    ![Progress Workers results](../image/ProgressWorkers.png)
+    ![Progress Workers results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ProgressWorkers.png)
 
 

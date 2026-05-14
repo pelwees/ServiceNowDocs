@@ -53,5 +53,5 @@ Role required: sn\_sec\_tisc.analyst
 5.  Click **Save**.
 
 
-**Parent Topic:**[MITRE-ATT&amp;CK Repository](../concept/tisc-mitre-att-ck-framework-overview.md)
+**Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-mitre-att-ck-framework-overview.md)
 

@@ -36,12 +36,12 @@ Use **glide.enable.notify\_on\_task** property to enable Notify integration for 
     Any conference call records created from a task are associated with that task. You can view associated conference calls from the task record in the **Conference calls** related list. You may need to configure the form to add the related list.
 
 
-**Parent Topic:**[Using Notify with tasks](../concept/c_NotifyOnTask.md)
+**Parent Topic:**[Using Notify with tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyOnTask.md)
 
 **Related topics**  
 
 
-[Manage conference calls on task](manage-conf-call.md)
+[Manage conference calls on task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/manage-conf-call.md)
 
-[Send an SMS alert from a task](t_SendAnSMSFromATask.md)
+[Send an SMS alert from a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_SendAnSMSFromATask.md)
 

@@ -90,17 +90,17 @@ Option to select the state as optional. This field appears only when **As node**
 
 5.  To update the model state transition from the Model State Transitions related list, select it from the display name column in the GRC workflow states list.
 
-    ![State model.](../image/vul-state-model.png)
+    ![State model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-state-model.png)
 
 6.  To add the model state transition, select **New** on the Model State Transitions context menu.
 
     The Model State Transitions context menu is shown in the example.
 
-    ![Model State Transitions.](../image/op-vul-workflow-states.png)
+    ![Model State Transitions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-workflow-states.png)
 
     The Model State Transition New record is displayed.
 
-    ![Model State Transition record.](../image/model-state-transition-record.png)
+    ![Model State Transition record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/model-state-transition-record.png)
 
 7.  On the Model State Transition record form, fill in the fields.
 

@@ -39,13 +39,13 @@ You can move the story cards into different lanes or add new stories for the tea
 
     If you use triage board and add those records to your backlog, your board could have stories associated to the triaged records. When you move these stories to different lanes on the story board to update their state, the state of the associated story is updated but the state of the original triaged record remains the same. To change the state of the original record, open the story and switch to the original record tab.
 
-    ![Associated story for a defect added from triage board. The form shows two tabs, one for the original defect and another for the story created for this defect.](../../agile-development/image/defect-from-triage-board-to-backlog.png)
+    ![Associated story for a defect added from triage board. The form shows two tabs, one for the original defect and another for the story created for this defect.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/image/defect-from-triage-board-to-backlog.png)
 
-5.  Hide lanes that you do not want to be displayed by selecting **Hide Lane** from the vertical lane menu \(![Vertical lane menu icon.](../image/icon-agile-vertical-lane-menu.png)\).
+5.  Hide lanes that you do not want to be displayed by selecting **Hide Lane** from the vertical lane menu \(![Vertical lane menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/icon-agile-vertical-lane-menu.png)\).
 
 6.  Display any hidden lanes and change the board theme.
 
-    1.  Select **Configuration** \(![Configuration icon.](../image/icon-agile-board-config.png)\).
+    1.  Select **Configuration** \(![Configuration icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/icon-agile-board-config.png)\).
 
     2.  Select **Advanced Settings**.
 
@@ -61,8 +61,8 @@ You can move the story cards into different lanes or add new stories for the tea
 
     2.  On the form, fill in the fields and click **Submit**.
 
-        For field information, see [Create a story in Agile Development 2.0](../../agile-development/task/create-a-story.md).
+        For field information, see [Create a story in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/task/create-a-story.md).
 
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 

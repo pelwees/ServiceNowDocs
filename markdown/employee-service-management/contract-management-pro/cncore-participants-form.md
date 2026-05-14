@@ -161,5 +161,5 @@ Optional
 When enabled, a participant will be skipped if the participant user and participant email is not available. This check is done during runtime only and not while configuring the template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create and configure participants](../task/cncore-add-participants.md)
+</table>**Parent Topic:**[Create and configure participants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-add-participants.md)
 

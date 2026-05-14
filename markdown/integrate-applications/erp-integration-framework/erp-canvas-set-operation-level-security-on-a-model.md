@@ -22,17 +22,17 @@ In Zero Copy Connector for ERP \(Enterprise Resource Planning\), new permission 
 
 On a single model, different operations can have different permissions. For example, a financial data model can have some users with only read access to review data, but they can't update or create a financial record. For that same model, other users or groups can be given access to update and create financial records.
 
-![Manage model page with create, read, and update operations that have user or group roles assigned for security.](../image/erp-operation-security1.png)
+![Manage model page with create, read, and update operations that have user or group roles assigned for security.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-operation-security1.png)
 
 To help prevent disruptions, all existing model operations have been assigned the admin role and the erp\_user role by default.
 
 You can edit these permissions on the existing operations at any time to suit your needs. To change the permissions, select the edit \(pencil\) icon ![](../../../reuse/icons/product-icons/pencil-outline-24.svg) on the model operation card.
 
-![Manage model page with create, read, and update operations that have the admin and erp_user role assigned.](../image/erp-operation-security2.png)
+![Manage model page with create, read, and update operations that have the admin and erp_user role assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-operation-security2.png)
 
-To learn more about adding an operation, see [Add an operation to a model in Zero Copy Connector for ERP](../task/erpc-manage-models-read-op.md).
+To learn more about adding an operation, see [Add an operation to a model in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erpc-manage-models-read-op.md).
 
-To clone a model, you must have permissions to access the model operations. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](../task/erp-canvas-clone-data-model.md).
+To clone a model, you must have permissions to access the model operations. For more information, see [Clone an ERP model in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-clone-data-model.md).
 
-**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/work-with-erp-data-models.md)
 

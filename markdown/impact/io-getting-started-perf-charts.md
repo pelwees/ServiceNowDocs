@@ -23,7 +23,7 @@ Role required: admin
 
 2.  From the **Performance** menu, select the telemetry option to evaluate.
 
-    ![The Performance menu listing all of the telemetry charts available.](../image/io-perf-menu.png)
+    ![The Performance menu listing all of the telemetry charts available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-perf-menu.png)
 
 3.  Select the reporting options:
 
@@ -41,5 +41,5 @@ Role required: admin
     -   Download to PNG, SVG, or CSV files or view transactions on the instance.
     -   Change the report type.
 
-**Parent Topic:**[Performance](../concept/instance-observer-performance.md)
+**Parent Topic:**[Performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-performance.md)
 

@@ -21,5 +21,5 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-![Palo Alto Networks - Firewall workworkflow diagram](../image/PANFirewallWorkflow.png)
+![Palo Alto Networks - Firewall workworkflow diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/PANFirewallWorkflow.png)
 

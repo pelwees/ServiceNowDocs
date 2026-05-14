@@ -68,7 +68,7 @@ The **ALL** setting includes all required applications and capabilities. Alterna
 </td></tr></tbody>
 </table>## Using a proxy server
 
-You can use a proxy server for the Cloud Cost Management MID Server. See [Proxy server configuration for Cloud Cost Management MID Server](gcp-mid-proxy-cloudin.md).
+You can use a proxy server for the Cloud Cost Management MID Server. See [Proxy server configuration for Cloud Cost Management MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/gcp-mid-proxy-cloudin.md).
 
 **Related topics**  
 

@@ -25,57 +25,57 @@ At least one of the following properties or sets of properties must be provided:
 -   country
 -   latitude and longitude
 
--   **[Define Location](../task/define-location.md)**  
+-   **[Define Location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/define-location.md)**  
 Define a geographic location to provide more context to other SDOs.
 
-**Parent Topic:**[IoC Repository](ioc-repository.md)
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
 
-[Attack modes and methods](c_AttackModeMethod.md)
+[Attack modes and methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_AttackModeMethod.md)
 
-[Indicators of compromise](c_IoCs.md)
+[Indicators of compromise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
-[Observables](c_Observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_Observables.md)
 
-[Attack patterns](attack-patterns.md)
+[Attack patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/attack-patterns.md)
 
-[Campaigns](threat-intelligence-campaigns.md)
+[Campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-campaigns.md)
 
-[Course of actions](threat-intelligence-course-actions.md)
+[Course of actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-course-actions.md)
 
-[Identities](threat-intelligence-identities.md)
+[Identities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-identities.md)
 
-[Infrastructure](threat-intelligence-infrastructure.md)
+[Infrastructure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-infrastructure.md)
 
-[Intrusion set](threat-intelligence-intrusion-sets.md)
+[Intrusion set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-intrusion-sets.md)
 
-[Malware](threat-intelligence-malware.md)
+[Malware](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-malware.md)
 
-[Malware analysis](threat-intelligence-malware-analysis.md)
+[Malware analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-malware-analysis.md)
 
-[Observed data](threat-intelligence-observed-data.md)
+[Observed data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-observed-data.md)
 
-[Threat actors](threat-actors.md)
+[Threat actors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-actors.md)
 
-[Threat groupings](threat-groupings.md)
+[Threat groupings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-groupings.md)
 
-[Marking definitions](marking-definitions.md)
+[Marking definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/marking-definitions.md)
 
-[Threat notes](threat-intelligence-threat-notes.md)
+[Threat notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-threat-notes.md)
 
-[Threat opinions](threat-opinions.md)
+[Threat opinions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-opinions.md)
 
-[Threat reports](threat-reports.md)
+[Threat reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-reports.md)
 
-[Sightings](indicator-sightings.md)
+[Sightings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/indicator-sightings.md)
 
-[Tools](tools.md)
+[Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/tools.md)
 
-[Vulnerabilities](vulnerabilities.md)
+[Vulnerabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/vulnerabilities.md)
 
-[Relationships](stix-relationships.md)
+[Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/stix-relationships.md)
 
-[STIX Visualizer](stix-visualizer.md)
+[STIX Visualizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/stix-visualizer.md)
 

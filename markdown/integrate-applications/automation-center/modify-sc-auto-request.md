@@ -36,5 +36,5 @@ In this task, you can change the layout of the automation request form generated
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Automation Center](../concept/automation-center-setup.md)
+**Parent Topic:**[Configuring Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automation-center-setup.md)
 

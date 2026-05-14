@@ -21,7 +21,7 @@ The User-Agent value is "ServiceNow/1.0". To change this, add the glide.http.use
 
 This API runs in the `sn_ws` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## RESTMessageV2 - RESTMessageV2\(\)
 
@@ -41,7 +41,7 @@ var sm = new sn_ws.RESTMessageV2();
 
 Instantiates a RESTMessageV2 object using information from a REST message record.
 
-You must have a REST message record defined before you can use this constructor. For instructions, see [Create a REST message](../../../../../integrate/outbound-rest/task/t_ConfiguringARESTMessage.md).
+You must have a REST message record defined before you can use this constructor. For instructions, see [Create a REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../integrate/outbound-rest/task/t_ConfiguringARESTMessage.md).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -267,7 +267,7 @@ The response body does not need to be a binary file to be saved as an attachment
 
 Sets one or more URIs allowed to be redirected to. Controlling the allowed outbound URIs reduces security concerns and helps prevent URL redirect attacks that send users to malicious sites.
 
-For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#).
+For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -409,7 +409,7 @@ sm.setEccParameter("source","http://very.long.endpoint.url");
 
 Sets the endpoint for the REST message.
 
-By default, the REST message uses the endpoint specified in the REST message record. Use this method to override this default. You must call this method when using the [RESTMessageV2 - RESTMessageV2\(\)](c_RESTMessageV2API.md#) constructor with no parameters.
+By default, the REST message uses the endpoint specified in the REST message record. Use this method to override this default. You must call this method when using the [RESTMessageV2 - RESTMessageV2\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_RESTMessageV2API.md#) constructor with no parameters.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -428,7 +428,7 @@ sm.setEndpoint("http://web.service.endpoint");
 
 Sets the HTTP method this REST message performs, such as GET or PUT.
 
-You must set an HTTP method when using the [RESTMessageV2 - RESTMessageV2\(\)](c_RESTMessageV2API.md#) constructor with no parameters.
+You must set an HTTP method when using the [RESTMessageV2 - RESTMessageV2\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_RESTMessageV2API.md#) constructor with no parameters.
 
 <table id="table_vy2_525_jq" class="parameters"><thead><tr><th>
 

@@ -19,7 +19,7 @@ Automatically generate a set of ordered items as part of a wider process, withou
 
 For example, you can run an order guide to fulfill HR onboarding requests, passing parameters such as the new employee's position and department. The order guide then generates a set of requested items such as laptop and email account, based on those parameters.
 
-**Parent Topic:**[Order guides](c_ServiceCatalogOrderGuides.md)
+**Parent Topic:**[Order guides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md)
 
 **Related topics**  
 

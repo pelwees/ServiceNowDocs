@@ -29,7 +29,7 @@ Role required: admin
 
 5.  When prompted Enter a 6 digit PIN for your app.
 
-    ![App PIN.](../image/app-pin.png)
+    ![App PIN.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/app-pin.png)
 
 6.  When prompted, re-enter the same 6 digit PIN.
 
@@ -38,5 +38,5 @@ Role required: admin
 7.  Enable **Unlock with Fingerprint Sensor** to use your device's fingerprint biometric security instead of your PIN.
 
 
-**Parent Topic:**[App PIN settings for mobile](../concept/mobile-app-pin-settings.md)
+**Parent Topic:**[App PIN settings for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-app-pin-settings.md)
 

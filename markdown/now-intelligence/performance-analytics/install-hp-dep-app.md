@@ -31,7 +31,7 @@ The Homepage deprecation help tool is a store app. For more information about in
 
     You can search for the application by its name or ID. If you can’t find an application, you may have to request it from the ServiceNow Store.
 
-    ![Application Store search with search string 'deprecation' returning the Homepage deprecation help tool with its install button highlighted.](../image/hp-dep-tool-search.png)
+    ![Application Store search with search string 'deprecation' returning the Homepage deprecation help tool with its install button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hp-dep-tool-search.png)
 
 3.  Select the help tool's button to open the summary page for the application.
 

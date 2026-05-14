@@ -23,5 +23,5 @@ The Invoice case form includes tabs that store invoice case information that an 
 |Emails|Emails that are sent or received as part of resolving this case.|
 |Cases by same requester|Cases that are opened by the same requester.|
 
-**Parent Topic:**[Create New Invoice case form](create-new-ap-case-form.md)
+**Parent Topic:**[Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 

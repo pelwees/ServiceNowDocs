@@ -25,7 +25,7 @@ As a Major incident manager \(major\_incident\_manager\), you can do the followi
 
 ## Before you begin
 
-You must activate the Major Incident Management plugin in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](install-mim-sow.md).
+You must activate the Major Incident Management plugin in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Role required: admin
 

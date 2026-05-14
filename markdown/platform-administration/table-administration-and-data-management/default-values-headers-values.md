@@ -25,5 +25,5 @@ The following table describes the default values used if you do not use query pa
 |XLSX|**Use field label**|**Use display value**|
 |XML|N/A|**Use raw value**|
 
-**Parent Topic:**[Data export reference](data-export-reference.md)
+**Parent Topic:**[Data export reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/data-export-reference.md)
 

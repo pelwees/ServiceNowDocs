@@ -15,10 +15,10 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 The Inventory Model forms enable you to create, review, and modify the model details for equipment holders, equipment, interface cards, logical connections, physical connections, network interfaces, and network model relationships.
 
--   **[Inventory Model form - General](tni-model-form-general.md)**  
+-   **[Inventory Model form - General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-model-form-general.md)**  
 The General section in the Inventory Model form enables you to create, review, and modify the details of a model.
--   **[Inventory Model form - Information](tni-model-form-information.md)**  
+-   **[Inventory Model form - Information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-model-form-information.md)**  
 The Information section of the Inventory Model form enables you to create, review, and modify the network asset details of a model.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 

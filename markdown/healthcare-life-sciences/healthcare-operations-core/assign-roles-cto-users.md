@@ -31,7 +31,7 @@ You can assign roles to individual users or groups. When you apply roles to grou
 
 **Note:** This group doesn’t give them direct access to care team operations. They must still be associated with a healthcare organization as a member then assigned responsibilities.
 
-For instructions on assigning roles to groups, see [Create a group for all care team members in Healthcare Operations Core](hco-create-team-members-group.md)
+For instructions on assigning roles to groups, see [Create a group for all care team members in Healthcare Operations Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hco-create-team-members-group.md)
 
 <table id="table_w3v_gbg_d2c"><tbody><tr><td>
 

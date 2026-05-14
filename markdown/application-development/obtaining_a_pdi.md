@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-The first time you sign in to the Developer Site, you are given a PDI running the latest generally available release. You can use this PDI as long as you keep it active. If you want a PDI running an earlier release, [release your PDI](releasing_your_pdi.md) and request a new instance.
+The first time you sign in to the Developer Site, you are given a PDI running the latest generally available release. You can use this PDI as long as you keep it active. If you want a PDI running an earlier release, [release your PDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releasing_your_pdi.md) and request a new instance.
 
 If you do not have a PDI because you released your PDI or went longer than ten days without activity, can request a new instance.
 
@@ -31,16 +31,16 @@ If you do not have a PDI because you released your PDI or went longer than ten d
 
 3.  In the **Request an Instance** dialog, select a ServiceNow® release for the instance and click the **Request** button.
 
-    ![Page to request an instance](../image/request-instance-pdi.png)
+    ![Page to request an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/request-instance-pdi.png)
 
     -   PDIs are a limited resource. If no PDIs are available for the desired release, select the release card for the release and click the **Join Waitlist** button. You will be notified when a PDI becomes available.
-    -   To leave the waitlist, click the **Leave Waitlist** link in the header. You will lose your place in the waitlist if you leave and rejoin.![Join a waitlist page](../image/waitlist-pdi.png)
+    -   To leave the waitlist, click the **Leave Waitlist** link in the header. You will lose your place in the waitlist if you leave and rejoin.![Join a waitlist page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/waitlist-pdi.png)
 4.  When an instance is assigned to you, the **Your instance is ready!** dialog supplies your instance URL and password.
 
-    ![Your instance is ready confirmation page](../image/open-instance-pdi.png)
+    ![Your instance is ready confirmation page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/open-instance-pdi.png)
 
 5.  Click the **Open Instance** button to open the instance in a new browser tab.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

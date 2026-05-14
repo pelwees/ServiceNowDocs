@@ -23,7 +23,7 @@ Role required: none
 
 2.  In the Notification Channels section, select the channel row or the right arrow \(**&gt;**\) next to the channel name.
 
-3.  In the Edit Channel form, update the fields \(see [Create notification channels](create-channel.md) for descriptions of the form fields\).
+3.  In the Edit Channel form, update the fields \(see [Create notification channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-channel.md) for descriptions of the form fields\).
 
 4.  Select **Save**.
 
@@ -32,5 +32,5 @@ Role required: none
 
 The system updates and saves the channel information that you modified.
 
-**Parent Topic:**[Setting notification preferences in Core UI](../concept/user-notification-preferences.md)
+**Parent Topic:**[Setting notification preferences in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/user-notification-preferences.md)
 

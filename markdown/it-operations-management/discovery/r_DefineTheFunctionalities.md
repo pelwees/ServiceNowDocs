@@ -161,14 +161,14 @@ Be sure to enable the criteria by selecting this check box \(true\).
 </td></tr></tbody>
 </table>The completed criteria appear in the Discovery Functionality form for this behavior.
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
 
-[Create a Discovery behavior](../task/create-disco-behavior.md)
+[Create a Discovery behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/create-disco-behavior.md)
 
-[Set up a load balancing behavior](../task/t_SetUpLoadBalDiscoBehavr.md)
+[Set up a load balancing behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_SetUpLoadBalDiscoBehavr.md)
 
-[Discovery behavior example: access an ACL protected SNMP device](../task/t_AccessAnACLProtectedSNMPDevice.md)
+[Discovery behavior example: access an ACL protected SNMP device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_AccessAnACLProtectedSNMPDevice.md)
 

@@ -21,7 +21,7 @@ Role required: workspace\_user
 
 1.  Open a record in your instance.
 
-2.  From the Activity stream, select the filter icon \(![Filter icon](../image/filter-icon-new.png)\).
+2.  From the Activity stream, select the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/filter-icon-new.png)\).
 
 3.  Select the **Post Types** list, and select the values you want to filter.
 
@@ -37,7 +37,7 @@ Role required: workspace\_user
 
     The new filter set appears in the **Filter sets** list.
 
-8.  Select **Filter sets** and the edit icon \(![Pencil icon](../image/pencil-icon.png)\) for a filter set.
+8.  Select **Filter sets** and the edit icon \(![Pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pencil-icon.png)\) for a filter set.
 
     The Edit activity filter set dialog box opens.
 

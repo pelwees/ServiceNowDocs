@@ -17,7 +17,7 @@ You can use your own POP3 server to store and receive email for the instance.
 
 -   Role required: admin
 -   Email server required: POP3
--   [Basic email properties:](t_ConfiguringStandardEmail.md) enabled
+-   [Basic email properties:](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringStandardEmail.md) enabled
 
 ## Procedure
 
@@ -135,7 +135,7 @@ System Address Filter
 
 System address filter to apply to the email account. If left blank, the system uses the default system address filter for inbound or outbound email.
 
- For more information, see [System address filters](../../notification/concept/system-address-filters.md).
+ For more information, see [System address filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/system-address-filters.md).
 
 </td></tr><tr><td>
 
@@ -168,12 +168,12 @@ Option to create node logs for the raw data that is exchanged with the email ser
 
     If the email account is valid, the system returns a success message.
 
-    ![Example successful Completion code status for testing POP3 connection](../../notification/image/test-pop3-connection.png)
+    ![Example successful Completion code status for testing POP3 connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/test-pop3-connection.png)
 
 
 ## Example
 
-![Flow diagram that shows the steps that show how email is received on your POP3 server](../image/AlternateEmailConfigurationUsingYourOwnPOP3Server.png "Receiving email using your own POP3 server")
+![Flow diagram that shows the steps that show how email is received on your POP3 server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AlternateEmailConfigurationUsingYourOwnPOP3Server.png "Receiving email using your own POP3 server")
 
-**Parent Topic:**[Advanced email setup](../concept/c_AlternateEmailConfigurations.md)
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_AlternateEmailConfigurations.md)
 

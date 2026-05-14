@@ -15,12 +15,12 @@ A Technology Reference Model \(TRM\) category refers to a grouping of TRM softwa
 
 TRM categories provide a structured way to classify and manage both hardware products and software models across your organization.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all TRM categories](../../task/eaw-task/view-all-trm-categories.md)
+[View all TRM categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/view-all-trm-categories.md)
 
-[Add or edit a TRM category](../../task/eaw-task/eaw-create-new-trm-category.md)
+[Add or edit a TRM category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-new-trm-category.md)
 

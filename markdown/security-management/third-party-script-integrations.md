@@ -21,7 +21,7 @@ The API is solely used to add data that was gathered outside of our system. For 
 
 All operations within the API definitions use platform authentication provided by the [Scripted REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_CustomWebServices.md) operation feature. To access, navigate to **System Web Services** &gt; **Scripted Web Services** &gt; **Scripted REST APIs** and locate the **SecOps Integration Capabilities** API.
 
-![Scripted REST Service](../../../common/image/Scripted_REST_Service.png "Scripted REST Service")
+![Scripted REST Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../common/image/Scripted_REST_Service.png "Scripted REST Service")
 
 The user and the user’s domain are readily available within the context of the API. Records can be tied to a user, an audit path to be established, and domain separation accomplished. Also, since you are authenticated as a specific user, you can use [Using GlideRecordSecure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/p_GlideServerAPIs.md) to prevent any unauthorized access to data.
 
@@ -58,9 +58,9 @@ Using your third-party scripts, you can write to the Configuration Item Enrichme
 
 Sample request and responses for the CI enrichment use case are shown here.
 
-![CI Enrichment: Create –Request](../image/CreateRequestForCIEnrichment.png "Create-Request for CI enrichment")
+![CI Enrichment: Create –Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/CreateRequestForCIEnrichment.png "Create-Request for CI enrichment")
 
-![CI Enrichment: Create –Response](../image/CIEnrichmentCreateResponse.png "Create-Response for CI enrichment")
+![CI Enrichment: Create –Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/CIEnrichmentCreateResponse.png "Create-Response for CI enrichment")
 
 ## Observable enrichment use case
 
@@ -68,11 +68,11 @@ Using your third-party scripts, you can write to the Observable Enrichment Resul
 
 Sample request and responses for the observable enrichment use case are shown here.
 
-![Observable Enrichment: Create–Request](../image/ObservableEnrichmentCreateRequest.png "Create-Request for observable enrichment")
+![Observable Enrichment: Create–Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/ObservableEnrichmentCreateRequest.png "Create-Request for observable enrichment")
 
-![Observable Enrichment: Create Response](../image/ObservableEnrichmentCreateResponse.png "Create-Response for observable enrichment")
+![Observable Enrichment: Create Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/ObservableEnrichmentCreateResponse.png "Create-Response for observable enrichment")
 
-**Note:** In addition to enriching existing records, you can also use [Security Operations enrichment data mapping](enrichment-data-mapping.md) to add new records to tables by passing in an **enrichment\_mapping\_id** for an existing enrichment mapping and a corresponding **raw\_data** string that can be parsed by the mapping process.
+**Note:** In addition to enriching existing records, you can also use [Security Operations enrichment data mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md) to add new records to tables by passing in an **enrichment\_mapping\_id** for an existing enrichment mapping and a corresponding **raw\_data** string that can be parsed by the mapping process.
 
 ## Threat lookup use case
 
@@ -80,9 +80,9 @@ Using your third-party scripts, you can write to the Threat Lookup Result \[sn\_
 
 Sample request and responses for the threat lookup use case are shown here.
 
-![Create-Request for threat lookups](../image/ThreatLookupCreateRequest.png "Create-Request for threat lookups")
+![Create-Request for threat lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/ThreatLookupCreateRequest.png "Create-Request for threat lookups")
 
-![Create-Response for threat lookups](../image/ThreatLookupCreateResponse.png "Create-Response for threat lookups")
+![Create-Response for threat lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/ThreatLookupCreateResponse.png "Create-Response for threat lookups")
 
-**Parent Topic:**[Security Operations Integration Reference](../../secops-integration-reference/concept/secops-integ-ref.md)
+**Parent Topic:**[Security Operations Integration Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../secops-integration-reference/concept/secops-integ-ref.md)
 

@@ -26,7 +26,7 @@ Role required: none
 
 2.  Select the Create Incident with the **Now Assist** record producer.
 
-3.  In the **Please describe your issue below** field, enter the issue you'd like to resolve and click outside of the field to generate the results.![Find solutions or track an issue using Now Assist for ITSM](../image/itsm-now-assist-deflect-create-incidents.png)
+3.  In the **Please describe your issue below** field, enter the issue you'd like to resolve and click outside of the field to generate the results.![Find solutions or track an issue using Now Assist for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-deflect-create-incidents.png)
 
     Now Assist AI generates the results based on available knowledge articles and catalog items.
 
@@ -50,7 +50,7 @@ Do this
 
 Additional fields such as **Urgency** are added to the form.
 
-![Track an issue that's deflected using Now Assist for ITSM](../image/itsm-now-assist-deflect-track-incidents.png)
+![Track an issue that's deflected using Now Assist for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-deflect-track-incidents.png)
 
 2.  In the **Urgency** field, select the level of importance to address the issue.
 

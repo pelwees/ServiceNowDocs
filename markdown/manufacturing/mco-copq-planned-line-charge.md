@@ -25,15 +25,15 @@ Role required: admin
 
 3.  On the CoPQ Planned Line Charge form, fill in the fields.
 
-    For a description of the field values, see [CoPQ planned line charge form](../reference/mco-copq-planned-line-charge-form.md).
+    For a description of the field values, see [CoPQ planned line charge form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-copq-planned-line-charge-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Create a CoPQ financial request](mco-copq-financial-requests.md)
+**Parent Topic:**[Create a CoPQ financial request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-financial-requests.md)
 
 **Related topics**  
 
 
-[Create a CoPQ expense line](mco-copq-expense-line.md)
+[Create a CoPQ expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)
 

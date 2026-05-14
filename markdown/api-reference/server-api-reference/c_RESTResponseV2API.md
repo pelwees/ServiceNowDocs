@@ -21,7 +21,7 @@ You can use this API in scoped applications or within the global scope.
 
 This API runs in the `sn_ws` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## RESTResponseV2 - getAllHeaders\(\)
 
@@ -132,7 +132,7 @@ Gets the numeric error code if there was an error during the REST transaction.
 
 This error code is specific to the ServiceNow AI Platform, it is not an HTTP error code. Provide this error code if you require assistance from ServiceNow Customer Support.
 
-**Note:** To retrieve the contents of the actual error message, use the [getBody\(\)](c_RESTResponseV2API.md#) method.
+**Note:** To retrieve the contents of the actual error message, use the [getBody\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_RESTResponseV2API.md#) method.
 
 |Name|Type|Description|
 |----|----|-----------|

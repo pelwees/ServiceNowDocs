@@ -47,10 +47,10 @@ Open the alert, and either select the **Maintenance** check box and click **Upda
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[View alert information](t_EMViewAlert.md)
+**Parent Topic:**[View alert information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 
 **Related topics**  
 
 
-[Create maintenance rules](create-maintenance-rule.md)
+[Create maintenance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-maintenance-rule.md)
 

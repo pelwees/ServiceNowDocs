@@ -23,7 +23,7 @@ Role required: admin
 
 Additional resources are pre-defined. An additional resource is either a searchable source table with query conditions or a reference to a Predictive Intelligence Similarity solution definition.
 
-**Note:** You can only view the Predictive Intelligence resources if you are licensed for Predictive Intelligence and have activated [Predictive Intelligence for Contextual Search](../concept/predictive-intelligence-for-cxs.md).
+**Note:** You can only view the Predictive Intelligence resources if you are licensed for Predictive Intelligence and have activated [Predictive Intelligence for Contextual Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/predictive-intelligence-for-cxs.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ Additional resources are pre-defined. An additional resource is either a searcha
 
     For example, if you want to move additional resources whose type is **Predictive Intelligence Similarity**, then move **Similar Incidents**, **Similar Knowledge Articles**, **Similar Open Change Requests**, **Similar Open Incidents**, **Similar Open Problems**, and **Similar Resolved Incidents** from the **Collection** field to the **Additional Resource Configurations List** field.
 
-    ![Edit Members form showing Predictive Intelligence Similarity additional resources moved to Additional Resource Configurations List.](../image/predictive-intelli-similarity.png)
+    ![Edit Members form showing Predictive Intelligence Similarity additional resources moved to Additional Resource Configurations List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/predictive-intelli-similarity.png)
 
     **Note:** You can view the Predictive Intelligence sources only if you have license for Predictive Intelligence.
 
@@ -49,10 +49,10 @@ Additional resources are pre-defined. An additional resource is either a searcha
 
     The additional resources appear under **Additional Resource Configurations**.
 
-    ![Additional resources displayed in Additional Resource Configurations related list.](../image/predictive-intelli-similarity1.png)
+    ![Additional resources displayed in Additional Resource Configurations related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/predictive-intelli-similarity1.png)
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 
 **Related topics**  
 

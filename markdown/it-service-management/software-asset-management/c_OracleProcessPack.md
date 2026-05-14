@@ -23,45 +23,45 @@ Administrators can use this feature to perform the following functions.
 -   See the software packs that are currently in use.
 -   List which options are installed and in use.
 
--   **[Using software counters with the legacy Oracle Process Pack](c_CreatingAnOracleSoftwareCounter.md)**  
+-   **[Using software counters with the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_CreatingAnOracleSoftwareCounter.md)**  
 There are two distinct ways to count Oracle software through the legacy Oracle Process Pack. Be sure that your Oracle models are set up accurately.
--   **[Software models for the legacy Oracle Process Pack](c_CreatingOracleSoftwareModels.md)**  
+-   **[Software models for the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_CreatingOracleSoftwareModels.md)**  
 In order to count Oracle software licenses, you must create software models for your Oracle software.
--   **[Request the legacy Oracle Process Pack](../task/t_ActivateSWAssetMgmtOraclProcPac.md)**  
+-   **[Request the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ActivateSWAssetMgmtOraclProcPac.md)**  
 The legacy Software Asset Management - Oracle Process Pack \(com.snc.sam.oracle.pp\) plugin can no longer be activated upon request. If the legacy plugin has already been activated on your ServiceNow instance, you can continue to use the legacy Oracle Process Pack.
--   **[Installed with the legacy Oracle Process Pack](../reference/r_InstalledWithOracleProcessPack.md)**  
+-   **[Installed with the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../reference/r_InstalledWithOracleProcessPack.md)**  
 The following tables, fields, and license calculation types are installed with the legacy Oracle process pack.
--   **[Create an Oracle software license for the legacy Oracle Process Pack](../task/t_CreateAnOracleSoftwareLicense.md)**  
+-   **[Create an Oracle software license for the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_CreateAnOracleSoftwareLicense.md)**  
 To use the legacy Oracle process pack, you must create an Oracle software license.
--   **[Validate legacy Oracle Process Pack requirements for associating software installations with Oracle mappings](../task/t_ReqAssocSWInstToOrcleMapping.md)**  
+-   **[Validate legacy Oracle Process Pack requirements for associating software installations with Oracle mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ReqAssocSWInstToOrcleMapping.md)**  
 Meet the recommended requirements to ensure that you receive the highest quality results with Oracle mapping.
--   **[Run the Oracle software counter for the legacy Oracle Process Pack](../task/t_RunTheOracleSoftwareCounter.md)**  
+-   **[Run the Oracle software counter for the legacy Oracle Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_RunTheOracleSoftwareCounter.md)**  
 Running the Oracle software counter is a requirement to associate a software installation with an Oracle mapping.
 
-**Parent Topic:**[Legacy Software Asset Management plugin](c_SoftwareAssetManagement.md)
+**Parent Topic:**[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
 
 **Related topics**  
 
 
-[Legacy Software Asset Management plugin Overview module](c_SWAssetMgmtOverviewMod.md)
+[Legacy Software Asset Management plugin Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SWAssetMgmtOverviewMod.md)
 
-[Legacy Software Asset Management plugin setup process](c_SetupProcess.md)
+[Legacy Software Asset Management plugin setup process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SetupProcess.md)
 
-[Determine where software is installed using the legacy Software Asset Management plugin](c_DeterminWhereSWInstalled.md)
+[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)
 
-[Software licenses in the legacy Software Asset Management plugin](c_SoftwareLicenses.md)
+[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-[Manage software models using the legacy Software Asset Management plugin](../task/t_ManagingSoftwareModels.md)
+[Manage software models using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../task/t_ManagingSoftwareModels.md)
 
-[License calculations with the legacy Software Asset Management plugin](c_UseLicenseCalculations.md)
+[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)
 
-[Software discovery models in the legacy Software Asset Management plugin](c_UsingSoftwareDiscoveryModels.md)
+[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-[Legacy Software License Compliance Checker](c_SoftwareLicenseComplianceChecker.md)
+[Legacy Software License Compliance Checker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenseComplianceChecker.md)
 
-[Software license reconciliation counters for the legacy Software Asset Management plugin](c_UseCountersSWLicenseReconcil.md)
+[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-[Legacy IBM PVU Process Pack](c_IBMPVUProcessPack.md)
+[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_IBMPVUProcessPack.md)
 
-[Software contracts for the legacy Software Asset Management plugin](c_SoftwareContracts.md)
+[Software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareContracts.md)
 

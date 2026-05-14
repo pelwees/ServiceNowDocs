@@ -39,15 +39,15 @@ If your model is already published, you can publish it again. However, you must 
 
     **Note:** If the model hasn't been built or trained yet, the **Test and publish your model** phase is not available.
 
-    ![The Test and publish your model phase on the model's overview page.](../images/publish-nlu-model05.png)
+    ![The Test and publish your model phase on the model's overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/publish-nlu-model05.png)
 
 4.  On the **Test and publish your model** screen, select **Run new test** to assess the model using its default test set.
 
-    Testing can be skipped, but model performance may not be optimal. If testing is skipped, a confirmation message displays, asking if you want to continue without testing. For more information on testing, see [Test and publish your model](../concept/testing-your-model.md).
+    Testing can be skipped, but model performance may not be optimal. If testing is skipped, a confirmation message displays, asking if you want to continue without testing. For more information on testing, see [Test and publish your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/testing-your-model.md).
 
 5.  Click **Publish model**.
 
-    ![Publish model button](../images/publish-nlu-model07.png)
+    ![Publish model button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/publish-nlu-model07.png)
 
     **Note:** If the model hasn't been tested yet, the **Publish model** button is white. If the model has already been tested, the button is green. If the last trained model is already published, the **Publish model** button is unavailable. Return to **Build and train your model** to train again.
 

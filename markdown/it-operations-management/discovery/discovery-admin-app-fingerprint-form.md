@@ -84,5 +84,5 @@ The top 10 key words that provide more information about the process. Predictive
  This field is pre-populated and you can’t modify it.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Discovery Admin Workspace reference](r_discovery-admin-workspace-reference.md)
+</table>**Parent Topic:**[Discovery Admin Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)
 

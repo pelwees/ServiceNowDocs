@@ -18,7 +18,7 @@ Choose which large language model \(LLM\) to use with Amazon Bedrock for custom 
 
 ## Before you begin
 
-You must have the latest version of Generative AI Controller and the Amazon Bedrock spoke installed on your instance. You must also set up your API credentials. For more information, see [Configure API credentials for Amazon Bedrock](configure-api-credentials-for-amazon-bedrock.md).
+You must have the latest version of Generative AI Controller and the Amazon Bedrock spoke installed on your instance. You must also set up your API credentials. For more information, see [Configure API credentials for Amazon Bedrock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-api-credentials-for-amazon-bedrock.md).
 
 Role required: admin
 

@@ -21,17 +21,17 @@ Role required: sn\_apm.apm\_admin or business\_planner or pps\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Business Units**.
 
 
-**Parent Topic:**[Manage business units](../../concept/eaw-concept/eaw-manage-business-units.md)
+**Parent Topic:**[Manage business units](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-business-units.md)
 
 **Related topics**  
 
 
-[Add or edit a business unit](eaw-add-or-edit-a-business-unit.md)
+[Add or edit a business unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-or-edit-a-business-unit.md)
 

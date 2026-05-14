@@ -36,12 +36,12 @@ Role required: it\_project\_manager
 
 The resource assignments dates are synchronized with the project task dates.
 
-**Parent Topic:**[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 
 **Related topics**  
 
 
-[Resource assignments in Project Workspace](../concept/resource-assignments-pw.md)
+[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/resource-assignments-pw.md)
 
-[Project Workspace reference](../../project-workspace/reference/project-workspace-reference.md)
+[Project Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-workspace/reference/project-workspace-reference.md)
 

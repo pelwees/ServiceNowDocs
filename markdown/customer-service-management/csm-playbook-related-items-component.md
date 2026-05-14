@@ -15,7 +15,7 @@ The related items component provides access to the case-related lists.
 
 The related items component uses an expandable accordion format. Agents can expand the desired lists to see the related items. This component also displays an icon with the number of items in a list.
 
-![The playbook related items component in the contextual side panel uses an accordion format to expand and display related list items](../image/case-playbook-template-related-lists.png "Playbook related items component")
+![The playbook related items component in the contextual side panel uses an accordion format to expand and display related list items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/case-playbook-template-related-lists.png "Playbook related items component")
 
 Related lists include the following actions:
 

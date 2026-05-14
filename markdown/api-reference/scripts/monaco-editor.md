@@ -20,7 +20,7 @@ The code editor has these features for the supported language services and [Inli
 -   Syntax coloring, indentation, line numbers, and automatic creation of closing braces and quotes
 -   Auto-suggestions and auto-completions
 
-![Code editor in Workflow Studio](../image/monaco-editor.png "Code editor")
+![Code editor in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/monaco-editor.png "Code editor")
 
 ## Editing tips
 
@@ -30,5 +30,5 @@ The code editor has these features for the supported language services and [Inli
 -   To remove one tab from the start of a line of code, click in the line and press Shift+Tab.
 -   To declare variables, use the `var` keyword so that they remain within the proper JavaScript scope.
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../topic/c_Script.md)
 

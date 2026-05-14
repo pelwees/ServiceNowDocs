@@ -30,7 +30,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 2.  Select an action.
 
     -   Select **Discuss** to send a message to other users. The message is recorded in the **Activity** section of the **Details** tab.
-    -   Select **Create task** to create a task. See [Create a task for a third party or engagement](tprm-ws-task-create.md).
+    -   Select **Create task** to create a task. See [Create a task for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-task-create.md).
     -   Select **Save** to save any change you made to a value on any tab.
     -   Select **Delete** to delete the issue record.
 3.  Open the appropriate tab.
@@ -50,7 +50,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
             -   **Comments**: Comments about the third-party risk assessment are visible both to internal users and to third-party contacts.
     -   **Tasks tab for an issue**
 
-        The tab displays information for tabs that are associated with the issue. Select a task number to open the task in the task management page. Select **New** to create a task. See [Create a task for a third party or engagement](tprm-ws-task-create.md).
+        The tab displays information for tabs that are associated with the issue. Select a task number to open the task in the task management page. Select **New** to create a task. See [Create a task for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-task-create.md).
 
     -   **Questions tab for an issue**
 

@@ -25,7 +25,7 @@ The configured workflow automatically generates an underwriting task for an unde
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Commercial Underwriting Service Tasks**, open the task list.
 
@@ -44,5 +44,5 @@ The configured workflow automatically generates an underwriting task for an unde
 8.  Click **Update**.
 
 
-**Parent Topic:**[Work on a policy service case](work-commercial-policy-case.md)
+**Parent Topic:**[Work on a policy service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/work-commercial-policy-case.md)
 

@@ -85,10 +85,10 @@ The collector identifies: -   The associated column in an upstream view or table
 
 The collector supports username and password authentication to Redshift.
 
--   **[Prepare to run the Amazon Redshift collector](../task/prepare-to-run-amazon-redshift-collector.md)**  
+-   **[Prepare to run the Amazon Redshift collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-amazon-redshift-collector.md)**  
 Create a Redshift user and configure permissions before running the collector.
--   **[Create an Amazon Redshift metadata collector](../task/create-amazon-redshift-metadata-collector.md)**  
+-   **[Create an Amazon Redshift metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-amazon-redshift-metadata-collector.md)**  
 Create a collector to import metadata from Amazon Redshift.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

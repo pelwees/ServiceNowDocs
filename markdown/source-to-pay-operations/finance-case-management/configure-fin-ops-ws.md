@@ -19,10 +19,10 @@ Use UI Builder to configure the landing page, define different audiences for the
 
 For more information on how to configure using UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
-**Parent Topic:**[Configure Finance Operations Workspace](configuring-fin-ops-ws.md)
+**Parent Topic:**[Configure Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/configuring-fin-ops-ws.md)
 
 **Related topics**  
 
 
-[Configure knowledge bases from the Finance Operations Workspace](configure-kb-fin-ops-ws.md#)
+[Configure knowledge bases from the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/configure-kb-fin-ops-ws.md#)
 

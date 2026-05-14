@@ -25,7 +25,7 @@ You can select the Assessments list option in the Control attestations list of t
 
     The home page for the compliance manager is updated with the Attestations widget. The existing attestation widget has been renamed as Classic attestations that has the data of the completed attestations for the control when the attestation method was Classic attestation.
 
-    ![Compliance home page for the compliance manager.](../image/smart-assessments-comp-manager.png "Attestations widget in the compliance manager home page")
+    ![Compliance home page for the compliance manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/smart-assessments-comp-manager.png "Attestations widget in the compliance manager home page")
 
 -   **Compliance Home page for the compliance analyst**
 

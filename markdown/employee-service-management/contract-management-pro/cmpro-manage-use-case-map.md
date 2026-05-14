@@ -26,21 +26,21 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 2.  Navigate to **Employee** &gt; **CM Pro**.
 
-3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(![Options menu icon.](../image/cmpro-na-three-dot-icon.png)\).
+3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(![Options menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-three-dot-icon.png)\).
 
-    ![Active skills in Contract management pro.](../image/cmpro-na-active-skills.png "Active skills in Now Assist in Contract Management")
+    ![Active skills in Contract management pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-active-skills.png "Active skills in Now Assist in Contract Management")
 
 4.  In the skill guided setup, select **Use case mappings**.
 
-5.  Select the actions icon ![Actions icon.](../image/cmpro-na-three-dot-icon.png) on the use case mapping that you want to update, delete, or deactivate.
+5.  Select the actions icon ![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-three-dot-icon.png) on the use case mapping that you want to update, delete, or deactivate.
 
-    ![Actions available on use case mappings.](../image/cmpro-na-edit-usecase-map.png "Use case mappings page")
+    ![Actions available on use case mappings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-edit-usecase-map.png "Use case mappings page")
 
     -   **Edit**
 
         Update the mapped tables or conditions for the mapping.
 
-        For more information on mapping a use case, [Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md), [Map a use case for contract obligation extraction](cmpro-na-map-usecase-obext.md), and [Map a use case for contract analysis](cmpro-na-usecase-mappings-ca.md).
+        For more information on mapping a use case, [Map a use case for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-me.md), [Map a use case for contract obligation extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-usecase-obext.md), and [Map a use case for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-ca.md).
 
     -   **Deactivate**
 
@@ -57,20 +57,20 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 Now Assist uses the updated use case mapping for contract analysis or metadata extraction.
 
-**Parent Topic:**[Managing skills for Now Assist in Contract Management](../concept/cmpro-manage-na-skills.md)
+**Parent Topic:**[Managing skills for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-na-skills.md)
 
 **Related topics**  
 
 
-[Manage use cases for Now Assist in Contract Management](../concept/cmpro-manage-use-cases.md)
+[Manage use cases for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-use-cases.md)
 
-[Manage clause mappings for contract analysis](cmpro-manage-clause-mappings.md)
+[Manage clause mappings for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-clause-mappings.md)
 
-[Manage expected response mappings for contract analysis](cmpro-manage-expected-response.md)
+[Manage expected response mappings for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-expected-response.md)
 
-[Deactivate skills for Now Assist in Contract Management](cmpro-deactivate-na-skills.md)
+[Deactivate skills for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-deactivate-na-skills.md)
 
-[Map a use case for contract metadata extraction](cmpro-na-usecase-mappings-me.md)
+[Map a use case for contract metadata extraction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-me.md)
 
-[Map a use case for contract analysis](cmpro-na-usecase-mappings-ca.md)
+[Map a use case for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-ca.md)
 

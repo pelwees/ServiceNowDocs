@@ -21,7 +21,7 @@ To access the MFA Guided Setup, navigate to **All** &gt; **Adoption Services** &
 
 The Multi-factor Authentication guided setup opens in a new tab. Expand any category to view detailed status and related tasks on the page displayed.
 
-![MFA Guided Setup landing page](../images/mfa-guided-setup.png)
+![MFA Guided Setup landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-guided-setup.png)
 
 Complete the following task to become familiar with the MFA configurations:
 

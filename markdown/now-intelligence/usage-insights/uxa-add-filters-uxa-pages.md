@@ -50,5 +50,5 @@ The field you select is added as an optional filter for all Usage Insights pages
 
 **Note:** While the filter is visible immediately, it takes 24-48 hours to synchronize the data with the filter so that it is useful.
 
-**Parent Topic:**[Configuring Usage Insights](../content-framework/create/configuring-user-exp-analytics.md)
+**Parent Topic:**[Configuring Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/create/configuring-user-exp-analytics.md)
 

@@ -87,7 +87,7 @@ AI-Generated Playbooks
 
 </td><td>
 
-Now Assist can create playbooks automatically based on business process descriptions, eliminating the need to manually design multi-step guided workflows.For more information, see [Playbook generation](../../../administer/process-automation-designer/concept/playbook-assist-landing.md).
+Now Assist can create playbooks automatically based on business process descriptions, eliminating the need to manually design multi-step guided workflows.For more information, see [Playbook generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../administer/process-automation-designer/concept/playbook-assist-landing.md).
 
 </td></tr><tr><td>
 
@@ -122,5 +122,5 @@ Predictive Intelligence and AIOps
 Machine learning algorithms analyze patterns in the connected data to predict issues before they occur, automatically route work to the right teams, and proactively resolve incidents.For more information, see [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Overview of building apps in ServiceNow](overview-building-apps-in-servicenow.md)
+</table>**Parent Topic:**[Overview of building apps in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/overview-building-apps-in-servicenow.md)
 

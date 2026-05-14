@@ -42,10 +42,10 @@ For creating dashboards: analytics\_admin or analytics\_viewer.
     Currently, if you only have a channel-specific child role \(for example, portal\_analytics\_viewer\) but not analytics\_admin or analytics\_viewer, the Usage Insights data source doesn’t appear.
 
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/concept/using-uxa.md)
 
 **Related topics**  
 
 
-[Create a dashboard with the in-line editor](../../../use/dashboards/task/create-db-in-ac.md)
+[Create a dashboard with the in-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/dashboards/task/create-db-in-ac.md)
 

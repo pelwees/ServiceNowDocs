@@ -40,14 +40,14 @@ Role required: it\_portfolio\_manager
 
 The program budget for the selected year appears in the **Program Budget** related list. You can click the amounts in the list to revise them.
 
-**Parent Topic:**[Create a program to manage projects and demands](t_CreateAProgram.md)
+**Parent Topic:**[Create a program to manage projects and demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgram.md)
 
 **Related topics**  
 
 
-[Create a program task](t_CreateAProgramTask.md)
+[Create a program task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgramTask.md)
 
-[Create a program status report](create-program-status-report.md)
+[Create a program status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/create-program-status-report.md)
 
-[View program status reports](view-program-status-report.md)
+[View program status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/view-program-status-report.md)
 

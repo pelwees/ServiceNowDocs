@@ -27,12 +27,12 @@ KPI Details lets you answer questions such as:
 
 Learn how to use KPI Details to accomplish the following tasks:
 
--   [Review the overall health of an indicator](../reference/chart-options.md).
--   [Explore trends for any indicator](../reference/kpi-details-components.md).
--   [Review individual records corresponding to any date](show-compare-edit-records.md#).
--   Manage [Indicator targets and thresholds in KPI Details](kpi-details-targets.md) for your indicators.
+-   [Review the overall health of an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/chart-options.md).
+-   [Explore trends for any indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/kpi-details-components.md).
+-   [Review individual records corresponding to any date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/show-compare-edit-records.md#).
+-   Manage [Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md) for your indicators.
 
-Enhance KPI Details by configuring notifications of significant trends in [KPI Signals](process-behavior-charts-for-kpis.md).
+Enhance KPI Details by configuring notifications of significant trends in [KPI Signals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md).
 
 **Tip:** A free training for KPI Details is available from the [NOW Learning Center](https://nowlearning.service-now.com/lxp?id=overview&sys_id=5c6c5f8687963c14ed3b74c9cebb3514&type=course).
 
@@ -41,5 +41,5 @@ Enhance KPI Details by configuring notifications of significant trends in [KPI S
 **Related topics**  
 
 
-[Performance Analytics \(Indicator data sources\)](../../performance-analytics/concept/r_PALandingPage.md)
+[Performance Analytics \(Indicator data sources\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/r_PALandingPage.md)
 

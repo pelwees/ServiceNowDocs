@@ -15,11 +15,11 @@ Request a translation to send an email in the recipient’s preferred language.
 
 ## Before you begin
 
-An email notification must exist. For more information, see [Create an email notification](t_CreateANotification.md).
+An email notification must exist. For more information, see [Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
 You must activate the Glide Notification Translation \(com.glide.notification.translation\) plugin.
 
-The [Localization Framework settings](../../localization-framework/concept/localization-settings.md) should be configured to request the translation for the artifact configurations and add languages.
+The [Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../localization-framework/concept/localization-settings.md) should be configured to request the translation for the artifact configurations and add languages.
 
 Role required: admin
 
@@ -43,10 +43,10 @@ Notification recipients must be defined as active users in the User \[sys\_user\
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Static translation](../concept/static-translation.md)
+**Parent Topic:**[Static translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/static-translation.md)
 
 **Related topics**  
 
 
-[Enable static translation](enable-static-translation.md)
+[Enable static translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/enable-static-translation.md)
 

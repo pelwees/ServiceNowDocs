@@ -19,7 +19,7 @@ Track requests created by you or your team from directly within the Care Team Po
 
 Role required: sn\_hco.care\_team\_member or sn\_hco.care\_team\_manager
 
-![Track requests in the Care Team Portal.](../image/cto-hcls-track-requests.png)
+![Track requests in the Care Team Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/cto-hcls-track-requests.png)
 
 ## Procedure
 

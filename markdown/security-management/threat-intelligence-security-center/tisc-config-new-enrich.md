@@ -25,13 +25,13 @@ Role required: sn\_sec\_tisc.admin
 
 2.  Select the **Integrations** icon.
 
-    ![Configure new enrichment from All Integrations view](../image/enrich-all-integrations.png)In the **All Integrations** section, select the **Configure new enrichment** action.
+    ![Configure new enrichment from All Integrations view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-all-integrations.png)In the **All Integrations** section, select the **Configure new enrichment** action.
 
 3.  Choose an enrichment type from the Configure new enrichment dialog.
 
     The Configure new enrichment dialog displays three enrichment types: Observable Enrichment, Sighting Search, and Threat Lookup.
 
-    ![Configure the enrichment type](../image/enrich-popup-observables.png)
+    ![Configure the enrichment type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-popup-observables.png)
 
 4.  From the enrichment types, select your preferred option and select **Next**.
 
@@ -108,10 +108,10 @@ Unique description for the new enrichment integration.
     **Note:** You can also enable, disable, or delete an enrichment integration using the Actions menu on the integration tile.
 
 
-**Parent Topic:**[TISC Enrichment integrations](../concept/tisc-enrichment-integrations.md)
+**Parent Topic:**[TISC Enrichment integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-enrichment-integrations.md)
 
 **Related topics**  
 
 
-[TISC Security Tools integrations](../concept/tisc-edr-integrations.md)
+[TISC Security Tools integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-edr-integrations.md)
 

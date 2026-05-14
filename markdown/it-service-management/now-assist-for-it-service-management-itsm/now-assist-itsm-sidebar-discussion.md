@@ -43,9 +43,9 @@ Summarizing Sidebar chats integrated with Microsoft Teams is supported. For more
 
 2.  Choose an existing discussion, or start a new discussion.
 
-3.  Generate a summary of the Sidebar discussion during the conversation either by either entering `/Summarize` in the Active Sidebar discussion window, or by selecting the quick action icon ![Quick action icon.](../image/now-assist-sidebar-lightning-bolt-icon.png) and selecting **Summarize**.
+3.  Generate a summary of the Sidebar discussion during the conversation either by either entering `/Summarize` in the Active Sidebar discussion window, or by selecting the quick action icon ![Quick action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-sidebar-lightning-bolt-icon.png) and selecting **Summarize**.
 
-    ![Sidebar discussion summarization.](../image/now-assist-itsm-sidebar-discuss.png)
+    ![Sidebar discussion summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-sidebar-discuss.png)
 
     The Sidebar discussion summary appears in the Discussion that is summarized by the Now Assist modal.
 
@@ -76,7 +76,7 @@ Procedure
 
 </td><td>
 
-If you'd like to provide feedback, select either the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\), or the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\)
+If you'd like to provide feedback, select either the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-helpful.png)\), or the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-not-helpful.png)\)
 
  This feedback improves the generative AI model and can help to improve future versions of this skill.
 

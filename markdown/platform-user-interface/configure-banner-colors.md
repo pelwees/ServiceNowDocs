@@ -33,7 +33,7 @@ As a category, all banner illustrations share color hook mappings. As a result, 
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
@@ -47,17 +47,17 @@ As a category, all banner illustrations share color hook mappings. As a result, 
 
     The property panel opens automatically.
 
-    ![Image styles tab selected with banner illustrations listed on main stage and property panel opened.](../image/tb-banner-property-panel.png "Image styles tab with Banners selected")
+    ![Image styles tab selected with banner illustrations listed on main stage and property panel opened.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-banner-property-panel.png "Image styles tab with Banners selected")
 
 6.  From the property panel, select the **Colors** tab.
 
     **Note:** The number of leading or supporting colors differs depending on the illustration category. For example, banner illustrations have one leading color, while card illustrations have three leading colors. Leading colors are the main colors in the illustration and supporting colors are accents. They’re listed from most prominent to least.
 
-    ![Property panel with Colors tab selected.](../image/tb-property-panel-colors.png "Property panel Colors tab")
+    ![Property panel with Colors tab selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-property-panel-colors.png "Property panel Colors tab")
 
 7.  Select an image color to edit the color using the Color picker.
 
-    ![Color picker.](../image/tb-color-picker.png "Color picker")
+    ![Color picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-picker.png "Color picker")
 
     **Note:** By default, the My Colors tab shows all available colors for the illustration. You can also use the Custom tab to select a new color.
 
@@ -65,14 +65,14 @@ As a category, all banner illustrations share color hook mappings. As a result, 
 
     **Note:** After you have saved changes to any of the color hooks, a Remove override symbol appears. The Remove override symbol enables you to revert your color changes back to the original auto-generated colors.
 
-    ![Remove override symbol.](../image/tb-color-undo.png)
+    ![Remove override symbol.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-undo.png)
 
 
 ## Result
 
 The new colors are applied to all banner illustration types.
 
-If your theme is published, your banner illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your banner illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Banner illustrations in Theme Builder](../concept/banners-in-tb.md)
+**Parent Topic:**[Banner illustrations in Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/banners-in-tb.md)
 

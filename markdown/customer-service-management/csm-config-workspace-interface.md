@@ -13,7 +13,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 The CSM Configurable Workspace interface provides agents with the tools and information they need to resolve interactions and cases.
 
-![The CSM Configurable Workspace interface provides information such as record details, the activity stream, and tools in the contextual side panel such as recommended actions and templates.](../image/csm-config-workspace-interface.png "CSM Configurable Workspace interface")
+![The CSM Configurable Workspace interface provides information such as record details, the activity stream, and tools in the contextual side panel such as recommended actions and templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-workspace-interface.png "CSM Configurable Workspace interface")
 
 ## Multi-tab interface
 
@@ -41,14 +41,14 @@ Agents get a complete view of a customer's history, including interactions, prod
 
 In CSM Configurable Workspace, each case or interaction record includes information about the customer or consumer, the product or service, and a short description of the issue being addressed. It can also include information about the record priority, state, and agent assignment.
 
-Depending on the record page configuration, record details can be found in the Details tab or in a case or interaction details component. For example, the [Front-line case page](csm-front-line-case-page.md) includes a case details component with the following collapsible sections:
+Depending on the record page configuration, record details can be found in the Details tab or in a case or interaction details component. For example, the [Front-line case page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md) includes a case details component with the following collapsible sections:
 
 -   Case
 -   Notes
 -   Closure Information
 -   Related Records
 
-The [CSM default record page](csm-default-record-page.md) includes a Details tab as the first record sub-tab.
+The [CSM default record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md) includes a Details tab as the first record sub-tab.
 
 ## Contextual side panel
 
@@ -62,7 +62,7 @@ The contextual side panel component includes different tools that agents can use
 -   Email Templates
 -   Related Lists
 
-For more information, see [CSM Configurable Workspace contextual side panel components](csm-config-ws-side-panel-components.md).
+For more information, see [CSM Configurable Workspace contextual side panel components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-side-panel-components.md).
 
 ## Agent inbox
 

@@ -55,11 +55,11 @@ Self-serve with configurable Intake
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -71,11 +71,11 @@ Third party contracts
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Third party contracts with multiple documents
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ NOW Integrations \(Legal, Procurement, Sales\)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td rowspan="12">
 
@@ -123,7 +123,7 @@ PDF, HTML Templates
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
@@ -139,11 +139,11 @@ MS Word Templates
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ MS Word Add-in
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Clause Library for Contract Generation
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -187,11 +187,11 @@ Versions
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -207,7 +207,7 @@ Versions with multiple documents
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -219,11 +219,11 @@ External storage \(OneDrive and GoogleDrive\)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -235,11 +235,11 @@ Create contract record
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -255,7 +255,7 @@ Create contract record
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -271,7 +271,7 @@ Contract Workspace
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -287,7 +287,7 @@ Clause Library for Negotiation
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -303,7 +303,7 @@ Amendment workflow
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td rowspan="2">
 
@@ -319,11 +319,11 @@ Wet Signature
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -387,15 +387,15 @@ Document storage in ServiceNow
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -407,11 +407,11 @@ OneDrive, Google Drive storage integration
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -419,7 +419,7 @@ Contract Relationships \(parent/child\)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
@@ -427,7 +427,7 @@ Contract Relationships \(parent/child\)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -435,15 +435,15 @@ Contract Metadata
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td align="center">
 
@@ -459,7 +459,7 @@ Contract Metadata
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td rowspan="2">
 
@@ -471,15 +471,15 @@ Expiry / Renewal notifications
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -495,7 +495,7 @@ Expiry / Renewal notifications
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td rowspan="2">
 
@@ -511,11 +511,11 @@ Dashboard for Volume &amp; Work distribution
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -523,7 +523,7 @@ Dashboard for asset contract renewals
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
@@ -531,7 +531,7 @@ Dashboard for asset contract renewals
 
 </td><td>
 
-![Yes](../../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Migrating from Legal Simple Contracts to Contract Management Pro
@@ -545,42 +545,42 @@ For details, see the [Deprecation Process \[KB0867184\]](https://support.service
 
 You can migrate your data from Legal Simple Contracts to Contract Management Pro to start using the additional features available.
 
-For more information on migration, see [Migrating to Contract Management Pro for Legal Service Delivery](../../legal-simple-contracts/concept/migration-landing-page.md).
+For more information on migration, see [Migrating to Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-simple-contracts/concept/migration-landing-page.md).
 
 **Important:** The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to Contract Management Pro for Legal Service Delivery.
 
 Contract Management Pro for Legal Service Delivery is a licensed application that must be installed separately.
 
-**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-ref.md)
 
 **Related topics**  
 
 
-[Components installed with Contract Management Pro](cncore-comp-ccore.md)
+[Components installed with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-ccore.md)
 
-[Components installed with Contract Workspace](cncore-comp-contract-workspace.md)
+[Components installed with Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-contract-workspace.md)
 
-[Components installed with Analytics Pack for Contract Management Pro](cncore-comp-analytics-pack-cmpro.md)
+[Components installed with Analytics Pack for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-analytics-pack-cmpro.md)
 
-[Contract request State and Contract document status in Contract Management Pro](cncore-cr-state-status.md)
+[Contract request State and Contract document status in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cr-state-status.md)
 
-[Clause Variation form](cncore-cv-form.md)
+[Clause Variation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cv-form.md)
 
-[Contract Configuration form](cncore-contract-config-form.md)
+[Contract Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-config-form.md)
 
-[Properties installed to configure expiry notifications](cncore-properties-installed.md)
+[Properties installed to configure expiry notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties-installed.md)
 
-[Properties installed to configure contracts integrations](cncore-properties.md)
+[Properties installed to configure contracts integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties.md)
 
-[Expiring Contracts Condition form fields](cncore-email-notif-expcont-form.md)
+[Expiring Contracts Condition form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-email-notif-expcont-form.md)
 
-[Action assignment form](cmpro-actn-assignment-form.md)
+[Action assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-actn-assignment-form.md)
 
-[UFX Add on Event mapping form](cmpro-ufx-event-map-form.md)
+[UFX Add on Event mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-ufx-event-map-form.md)
 
-[Obligation form](cncore-obligation-form.md)
+[Obligation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-form.md)
 
-[Obligation Management notifications](cncore-ob-mgmt-notification.md)
+[Obligation Management notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/contract-management-pro-glossary.md#)
 

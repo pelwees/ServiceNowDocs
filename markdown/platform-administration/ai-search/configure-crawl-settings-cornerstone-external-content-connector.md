@@ -18,7 +18,7 @@ Specify the organization units you want your Cornerstone external content connec
 
 ## Before you begin
 
-A connector admin must have already created the Cornerstone external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Cornerstone external content connector](create-ext-cont-connector-cornerstone.md).
+A connector admin must have already created the Cornerstone external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Cornerstone external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-cornerstone.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -71,7 +71,7 @@ The Cornerstone external content connector is updated with your modified crawl s
 
 ## What to do next
 
-To retrieve content from your Cornerstone source system using your modified crawl settings, create and run a one-time content crawl for your Cornerstone external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Cornerstone source system using your modified crawl settings, create and run a one-time content crawl for your Cornerstone external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Cornerstone external content connector](../concept/cornerstone-external-content-connector.md)
+**Parent Topic:**[Cornerstone external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/cornerstone-external-content-connector.md)
 

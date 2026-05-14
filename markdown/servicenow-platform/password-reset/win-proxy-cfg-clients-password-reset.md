@@ -23,8 +23,8 @@ Role required: Windows system administrator
 
 If you choose not to use the method described in this topic, there are other methods to configure a proxy server:
 
--   Configure registry keys. See [Configure registry keys on your proxy server](win-proxy-registry-password-reset.md).
--   Configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](win-proxy-exception-password-reset.md).
+-   Configure registry keys. See [Configure registry keys on your proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-registry-password-reset.md).
+-   Configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-exception-password-reset.md).
 
 ## Procedure
 
@@ -49,5 +49,5 @@ If you choose not to use the method described in this topic, there are other met
 9.  Export the following registry key to all clients that use the Password Reset Windows Application:`HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings`
 
 
-**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](win-config-proxy-server-password-reset.md)
+**Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 

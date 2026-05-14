@@ -17,7 +17,7 @@ Send email directly from any record, such as an incident, change request, or pro
 
 You can use the email client either from a form or the record view in a workspace. To open the email client in a workspace or from a form, open a record and select the More options icon ![](../image/more-options-icon.png). Select **Email**
 
-![Email client](../image/email-client.png "Email client")
+![Email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/email-client.png "Email client")
 
 .
 
@@ -33,7 +33,7 @@ For more information on using the email client in a workspace, see Communicating
 
 The email client is activated with the Email Client plugin \(com.glide.email\_client\), which is active by default on the ServiceNow AI Platform.
 
-The email client is enabled by default on the incident table. To enable the email client for another table, add the **email\_client** dictionary attribute on the table's collection record. For more information, see [Enable the email client for a table](../task/enable-email-client.md).
+The email client is enabled by default on the incident table. To enable the email client for another table, add the **email\_client** dictionary attribute on the table's collection record. For more information, see [Enable the email client for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/enable-email-client.md).
 
 The email client is enabled by default on the change table.
 
@@ -41,12 +41,12 @@ Give users access to the email client by assigning them the email\_composer role
 
 ## More setup
 
-You can configure the email client by creating an Email Client Configuration \[sys\_email\_client\_configuration\] record. For more information, see [Email client configurations](email-client-configuration.md).
+You can configure the email client by creating an Email Client Configuration \[sys\_email\_client\_configuration\] record. For more information, see [Email client configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md).
 
 You can also create email client templates or quick messages to use predefined content in email client messages. For more information, see the following:
 
--   [Create an email client template](../task/t_CreateAnEmailClientTemplate.md#)
--   [Composing emails with quick messages](quick-message.md)
+-   [Create an email client template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateAnEmailClientTemplate.md#)
+-   [Composing emails with quick messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/quick-message.md)
 
-Optionally, you can give users the option to send email client messages as SMS text messages. For more information, see [Enable SMS delivery with the email client](../reference/r_EnableTheSMSDeliveryOption.md).
+Optionally, you can give users the option to send email client messages as SMS text messages. For more information, see [Enable SMS delivery with the email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_EnableTheSMSDeliveryOption.md).
 

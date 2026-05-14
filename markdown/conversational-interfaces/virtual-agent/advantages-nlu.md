@@ -43,11 +43,11 @@ Keyword matching has its limitations. For example, sometimes an apple is a piece
 
 Virtual Agent provides two kinds of natural language topic discovery. You can use both in your instance, but only one at a time in any given chat.
 
--   **[LLM topic discovery in Virtual Agent](va-llm.md)**
+-   **[LLM topic discovery in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-llm.md)**
 
     Use LLMs to discover topics and access generative AI capabilities without building complex models, intents, or entities.
 
--   **[Natural Language Understanding \(NLU\) topic discovery in Virtual Agent](va-NLU.md)**
+-   **[Natural Language Understanding \(NLU\) topic discovery in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-NLU.md)**
 
     Use ServiceNow NLU or a supported provider to discover topics.
 

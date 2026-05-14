@@ -19,19 +19,19 @@ Use ServiceNow® Instance Scan to interrogate your instance for configurations t
 
 <table id="table_wxs_hy2_lwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../common/image/icon-explore.png) Learn about Instance Scan records and components.](../concept/hs-getting-started.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../../../common/image/icon-explore.png) Learn about Instance Scan records and components.](../concept/hs-getting-started.md)
 
 </td><td>
 
-[Configure ![](../../../common/image/icon-configure.png) Execute scans to keep a track on the health of your instance.](../concept/hs-intro-scans.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../../../common/image/icon-configure.png) Execute scans to keep a track on the health of your instance.](../concept/hs-intro-scans.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../common/image/icon-use.png) Use Instance Scan dashboard for a system wide visual representation of the health of your instance.](../concept/hs-dashboard.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../../../common/image/icon-use.png) Use Instance Scan dashboard for a system wide visual representation of the health of your instance.](../concept/hs-dashboard.md)
 
 </td><td>
 
-[References ![](../../upgrade-center/image/uc-reference-icon.png) Learn additional information about Instance Scan.](hs-references.md)
+[References ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../../upgrade-center/image/uc-reference-icon.png) Learn additional information about Instance Scan.](hs-references.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

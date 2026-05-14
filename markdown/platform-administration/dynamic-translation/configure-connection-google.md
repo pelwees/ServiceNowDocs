@@ -63,9 +63,9 @@ API version that the related spokes are built for. The default value is `v3beta1
 </table>4.  Right-click the form header and click **Save**.
 
 
-**Parent Topic:**[Set up the Google Cloud Translator Service spoke](setup-google-translator.md)
+**Parent Topic:**[Set up the Google Cloud Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/setup-google-translator.md)
 
-**Previous topic:**[Configure the credential for the GoogleTranslation alias](configure-credential-google.md)
+**Previous topic:**[Configure the credential for the GoogleTranslation alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-credential-google.md)
 
-**Next topic:**[Microsoft Azure Translator Service spoke](../../dynamic-translation/concept/microsoft-translation-spoke.md)
+**Next topic:**[Microsoft Azure Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../dynamic-translation/concept/microsoft-translation-spoke.md)
 

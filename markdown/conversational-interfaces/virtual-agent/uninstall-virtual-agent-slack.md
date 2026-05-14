@@ -31,9 +31,9 @@ Roles required:
 
 3.  On the Channels and integration page, in the Slack tile, select **Manage**.
 
-4.  In the Manage Slack channel page, find the ServiceNow Virtual Agent integration to remove from your ServiceNow instance, select the manage bot icon ![Manage bot icon.](../images/manage-bot-icon.png), and select **Remove integration**.
+4.  In the Manage Slack channel page, find the ServiceNow Virtual Agent integration to remove from your ServiceNow instance, select the manage bot icon ![Manage bot icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-bot-icon.png), and select **Remove integration**.
 
-    ![Remove integration option with Now Virtual Agent.](../images/remove-snva-integration.png "Remove integration with ServiceNow Virtual Agent")
+    ![Remove integration option with Now Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/remove-snva-integration.png "Remove integration with ServiceNow Virtual Agent")
 
 5.  In the Remove integration confirmation message, select **Remove**.
 
@@ -43,12 +43,12 @@ Roles required:
 
 7.  Select **Revoke** in the 1 Authorized member pop-up.
 
-8.  Select **Revoke** in the confirmation message.![Revoke ServiceNow Virtual Agent integration with Slack.](../images/revoke-slack-snow-integ.png)
+8.  Select **Revoke** in the confirmation message.![Revoke ServiceNow Virtual Agent integration with Slack.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/revoke-slack-snow-integ.png)
 
     A message appears saying that **You have successfully removed an authorization for Now Virtual Agent**.
 
     ServiceNow Virtual Agent integration with Slack is removed from your ServiceNow instance.
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-slack.md)
 

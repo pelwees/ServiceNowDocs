@@ -65,7 +65,7 @@ Third-party risk area criteria
 
 The risk area criteria that applies to this engagement risk scoring rule.
 
- A third-party risk area criteria is a group of risk domains \(sometimes called risk areas in other platform features\) that applies to a particular type of third party. See [Define third-party risk area criteria](tprm-risk-domain-criteria-df.md) for details on how the criteria are defined.
+ A third-party risk area criteria is a group of risk domains \(sometimes called risk areas in other platform features\) that applies to a particular type of third party. See [Define third-party risk area criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-risk-domain-criteria-df.md) for details on how the criteria are defined.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Criteria for third-party risk assessments, engagements, and subsidiaries that ap
 
  Components are the entities for which you can assess risk \(for example, subsidiaries or engagements\). A component criteria is a group of components that should apply to a particular type of third party or engagement.
 
- See [Define component criteria](tprm-component-criteria-define.md).
+ See [Define component criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-component-criteria-define.md).
 
 </td></tr><tr><td>
 
@@ -104,6 +104,6 @@ Vendor filter
 Use the [condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md) to define the rules for selecting third parties. For example, you can filter on third parties with whom you do considerable business \(Size is $1,000,000\) or third parties within a specific category \(Category is software\).
 
 </td></tr></tbody>
-</table>    ![New third-party risk scoring rule.](../image/new-vendor-risk-scoring-rule.png)
+</table>    ![New third-party risk scoring rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/new-vendor-risk-scoring-rule.png)
 
 

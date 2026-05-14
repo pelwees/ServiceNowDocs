@@ -123,5 +123,5 @@ Property to enable live presence indicators of users on a Doc page.
 -   Role needed: sn\_docs.docs\_admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Collaborative Work Management reference](../concept/reference-cwm.md)
+</table>**Parent Topic:**[Collaborative Work Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/reference-cwm.md)
 

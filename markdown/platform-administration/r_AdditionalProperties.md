@@ -54,7 +54,7 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: false
 -   **__glide.email.append.timezone__**
 
-    Appends the user time zone to all date and time values in outbound email messages \(for example, 2018-07-02 04:01:14 PST\). The time zone does not show if the system property **glide.sys.time\_format** does not have a "z" value. For more information on configuring the time zone in email notifications, see [Time zone for email notifications](../../notification/concept/c_SpecifyingTheTimeZone.md).
+    Appends the user time zone to all date and time values in outbound email messages \(for example, 2018-07-02 04:01:14 PST\). The time zone does not show if the system property **glide.sys.time\_format** does not have a "z" value. For more information on configuring the time zone in email notifications, see [Time zone for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/c_SpecifyingTheTimeZone.md).
 
     -   Type: true \| false
     -   Default: false
@@ -424,16 +424,16 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Type: true \| false
     -   Default value: false
 
-**Parent Topic:**[Email properties](../concept/c_EmailProperties.md)
+**Parent Topic:**[Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Outbound email configuration](r_OutboundMailConfiguration.md)
+[Outbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_OutboundMailConfiguration.md)
 
-[Inbound email configuration](r_InboundMailConfiguration.md)
+[Inbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_InboundMailConfiguration.md)
 
-[Email image filtering properties](../../notification/concept/email-image-filters.md)
+[Email image filtering properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-image-filters.md)
 
-[Email digest properties](../../notification/concept/email-digest-properties.md)
+[Email digest properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-digest-properties.md)
 

@@ -19,7 +19,7 @@ Connect Google with the ServiceNow using the flow designer to synchronize reserv
 
 Ensure the following:
 
--   [Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md).
+-   [Authenticate Google for calendar synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-google-for-calendar-sync.md).
 -   Ensure that you have the Super admin role in Google.
 
 Role required: admin
@@ -46,8 +46,8 @@ Configure the Google connection and credential record. Perform steps in the flow
 
     -   **Connection URL**: Enter `https://www.googleapis.com`.
     -   **API Version**: Enter `v3`. The field is auto-filled.
-    -   **OAuth Client ID**: Enter the client ID that you copied while authenticating Google with ServiceNow in [Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md).
-    -   **OAuth Client Secret**: Enter the client secret that you copied while authenticating Google with ServiceNow in [Authenticate Google for calendar synchronization](authenticate-google-for-calendar-sync.md).
+    -   **OAuth Client ID**: Enter the client ID that you copied while authenticating Google with ServiceNow in [Authenticate Google for calendar synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-google-for-calendar-sync.md).
+    -   **OAuth Client Secret**: Enter the client secret that you copied while authenticating Google with ServiceNow in [Authenticate Google for calendar synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/authenticate-google-for-calendar-sync.md).
     -   **OAuth Redirect URL**: Enter `https://<instance-name>.service-now.com/oauth_redirect.do`
     -   **OAuth Authorization URL**: Enter `https://accounts.google.com/o/oauth2/v2/auth`
     -   **OAuth Token URL**: Enter `https://www.googleapis.com/oauth2/v4/token`
@@ -64,5 +64,5 @@ The Google connection and credential record is created. To view the connection a
 
 ## What to do next
 
-[Configure Google as calendar provider](configure-google-as-calendar-provider.md)
+[Configure Google as calendar provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-google-as-calendar-provider.md)
 

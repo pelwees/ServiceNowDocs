@@ -39,9 +39,9 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/configuring-problem-mgmt.md)
 
-**Previous topic:**[Define an assignment rule for problems](t_DefineAnAssignRuleForPRBs.md)
+**Previous topic:**[Define an assignment rule for problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/t_DefineAnAssignRuleForPRBs.md)
 
-**Next topic:**[Enable Problem Management models](enable-problem-mgmt-models.md)
+**Next topic:**[Enable Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/enable-problem-mgmt-models.md)
 

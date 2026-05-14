@@ -33,7 +33,7 @@ The synthetic monitoring tests can be run by an Agent Client Collector \(ACC\) d
 
 ## Synthetic monitoring customer-hosted workflow
 
-![Workflow between admin and operator](../image/MMASSET0020780_synthetic_monitoring_horizontal.png "Synthetic monitoring workflow")
+![Workflow between admin and operator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/MMASSET0020780_synthetic_monitoring_horizontal.png "Synthetic monitoring workflow")
 
 Admins, service owners, and NOC operators use synthetic monitoring in the following way:
 
@@ -70,7 +70,7 @@ View aggregate monitor information.View the synthetic monitoring home page where
 
 </td><td>
 
-[View aggregate information about the monitors](identifying-system-issues.md#section_yll_v5k_fdc).
+[View aggregate information about the monitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md#section_yll_v5k_fdc).
 
 </td><td>
 
@@ -87,7 +87,7 @@ Visualize synthetic test results.View the details page for a monitor where you c
 
 </td><td>
 
-[View a monitor and its tests](identifying-system-issues.md#section_yx4_2vk_fdc).
+[View a monitor and its tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md#section_yx4_2vk_fdc).
 
 </td><td>
 
@@ -99,7 +99,7 @@ Get real-time notifications for outages before they impact users.
 
 </td><td>
 
-[Optionally configure alerts when tests don't succeed.](configuring-synthetic-monitoring.md)
+[Optionally configure alerts when tests don't succeed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
 </td><td>
 
@@ -111,7 +111,7 @@ Share insights with stakeholders.
 
 </td><td>
 
-[View aggregate monitor information](view-aggregat-monitor-information.md).
+[View aggregate monitor information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/view-aggregat-monitor-information.md).
 
 </td><td>
 
@@ -123,7 +123,7 @@ Update monitors to match your business needs.
 
 </td><td>
 
-[Edit existing monitors, including deactivation](../task/manage-synthetic-monitors.md).
+[Edit existing monitors, including deactivation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../task/manage-synthetic-monitors.md).
 
 </td><td>
 
@@ -135,7 +135,7 @@ Embed monitor results in a Service Observability dashboard.
 
 </td><td>
 
-[Use synthetic monitoring with Service Observability](../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
+[Use synthetic monitoring with Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
 
 </td><td>
 
@@ -146,8 +146,8 @@ Service owner
 
 To learn more about configuring and using synthetic monitoring, see:
 
--   [Configuring synthetic monitoring](configuring-synthetic-monitoring.md)
--   [Identifying system issues with synthetic monitoring](identifying-system-issues.md)
--   [Synthetic monitoring reference](../reference/synthetic-monitoring-reference.md)
--   [Use synthetic monitoring with Service Observability](../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
+-   [Configuring synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
+-   [Identifying system issues with synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/identifying-system-issues.md)
+-   [Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../reference/synthetic-monitoring-reference.md)
+-   [Use synthetic monitoring with Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-observability/concept/use-synthetic-monitoring-with-service-observability.md)
 

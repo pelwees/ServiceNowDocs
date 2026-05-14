@@ -66,7 +66,7 @@ Document
 
 </td><td>
 
-Table associated with the profile.1.  Select the Search icon ![Search icon.](../../virtual-agent/images/icon-search.png).
+Table associated with the profile.1.  Select the Search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../virtual-agent/images/icon-search.png).
 2.  In the Select the document dialog box, specify the following information:
     -   **Table name**: Select **User \[sys\_user\]**.
     -   **Document**: Select the name of the user you created for the bot.
@@ -95,7 +95,7 @@ Text that describes the live profile.
 
 ## Result
 
-You can associate the bot profile with a new branding configuration. For details, see [Set up your Virtual Agent bot's branding](ac-configure-chat-branding.md).
+You can associate the bot profile with a new branding configuration. For details, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md).
 
-**Parent Topic:**[Branding your chat client](../concept/branding-chat-client.md)
+**Parent Topic:**[Branding your chat client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/branding-chat-client.md)
 

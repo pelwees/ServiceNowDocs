@@ -38,7 +38,7 @@ Role required: admin \(sb\_admin\)
     You see all identified issues categorized by priority: high, medium, and low. You can click an individual issue to view resolution details.
 
 
-**Parent Topic:**[Using Service Exchange for providers](../concept/service-bridge-v2-administer.md)
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/service-bridge-v2-administer.md)
 
 ## Modify the scan suite schedule as a provider
 
@@ -62,5 +62,5 @@ Role required: admin \(sb\_admin\)
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/se-se-center.md)
 

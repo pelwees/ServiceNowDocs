@@ -67,7 +67,7 @@ The rules that you create are bound by the following requirements which narrow t
 
 ## Hosting and containment rules model
 
-![Hosting and containment rules.](../image/MetadataRulesDiagram.png)
+![Hosting and containment rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MetadataRulesDiagram.png)
 
 Hosting rules that model the diagram:
 
@@ -91,8 +91,8 @@ Linux Hosted Computer
 
 The second metadata entry triggers the third requirement, which is satisfied \(it is a hosting rule, not a containment rule\).
 
--   **[Create dependent relationship rules](create-dependent-relationship.md#)**  
+-   **[Create dependent relationship rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-dependent-relationship.md#)**  
 Create hosting and containment rules \(dependent relationship rules\) for CI classes to help with correctly identifying dependent CIs during the business discovery process and service mapping. Discovery calls the identification API that applies dependent relationship rules.
 
-**Parent Topic:**[Configuring CMDB Identification and Reconciliation](configuring-ire.md)
+**Parent Topic:**[Configuring CMDB Identification and Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-ire.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Default lists** tab, navigate to **Matters** &gt; **All**
 
@@ -41,7 +41,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
     A legal hold notice opens in an editable format.
 
-    ![Legal hold notice template](../image/Customize-legal-hold-notice-template.png)
+    ![Legal hold notice template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../image/Customize-legal-hold-notice-template.png)
 
 8.  Customize the notice by substituting your organization's company name for placeholder text and adding any additional text you want to include.
 
@@ -64,5 +64,5 @@ A legal hold notice is issued to the custodian via email, with the fulfiller cop
 
 A copy of the legal hold notice sent to the custodian is attached under the **Artifacts** tab within the corresponding legal matter.
 
-**Parent Topic:**[Using Legal Hold Notification](../concept/use-lg-hold-notif.md)
+**Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/../concept/use-lg-hold-notif.md)
 

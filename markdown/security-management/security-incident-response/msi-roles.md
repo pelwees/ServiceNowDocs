@@ -80,14 +80,14 @@ sn\_msi.workspace\_responder
 -   Linking and unlinking additional records to Major Security Incidents from the workspace.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Major Security Incident Management](exploring-major-security-incident-management.md)
+</table>**Parent Topic:**[Exploring Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Major Security Incident Management](../concept/major-security-incident-management.md)
+[Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/major-security-incident-management.md)
 
-[Get started with MSIM](get-started-with-msim.md)
+[Get started with MSIM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-started-with-msim.md)
 
-[Checklist for MSIM setup](../../security-incident-response/reference/msim-checklist.md)
+[Checklist for MSIM setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/reference/msim-checklist.md)
 

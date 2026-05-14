@@ -35,9 +35,9 @@ If no match is found using the **Node** field, the system looks at the **Additio
 
 5.  In the **Field Name** and **Field Value** fields, enter the corresponding field name and specify the source field from which the value should be populated.
 
-    ![Manual attribute for an alert.](../image/em-ms-iis-webserver-attribute.png)
+    ![Manual attribute for an alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-ms-iis-webserver-attribute.png)
 
-    Use the add icon \(![Add icon](../image/em-add-icon.png)\) icon to add multiple fields as needed.
+    Use the add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-add-icon.png)\) icon to add multiple fields as needed.
 
 6.  Select **Save**.
 

@@ -15,21 +15,21 @@ breadcrumb: [Creating Visual Task Boards, Using Visual Task Boards, Visual Task 
 
 You can add a task to a flexible or guided task board.
 
--   **[Create a data driven Visual Task Board](../task/t_CreateAFlexibleOrGuidedBoard.md)**  
+-   **[Create a data driven Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_CreateAFlexibleOrGuidedBoard.md)**  
 You can create a flexible or guided data-driven Visual Task Board \(VTB\) for any table that extends Task, such as Incident or Change.
 
-**Parent Topic:**[Creating Visual Task Boards](c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_FreeformBoardTasks.md)
 
-[Add a task to a flexible or guided Visual Task Board](../task/t_AddATaskToAFlexibleOrGuidedBoard.md)
+[Add a task to a flexible or guided Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_AddATaskToAFlexibleOrGuidedBoard.md)
 
-[Add or modify Visual Task Board lanes](../task/t_AddOrModifyALane.md)
+[Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_AddOrModifyALane.md)
 
-[Add or remove a Visual Task Board member](../task/t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_AddOrRemoveATaskBoardMember.md)
 
-[Delete a Visual Task Board](../task/t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../task/t_DeleteATaskBoard.md)
 

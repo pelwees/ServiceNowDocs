@@ -31,7 +31,7 @@ The following change request details are displayed:
 -   plannedEndDate
 -   changeRequestURL
 
-![Change state in Azure DevOps pipeline console logs.](../image/ado-change-state-policy-conditions.png)
+![Change state in Azure DevOps pipeline console logs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-change-state-policy-conditions.png)
 
 **Note:** **changeState** is the state of the change request, and **status** is the status of the step execution.
 
@@ -77,9 +77,9 @@ The change policy input and decision conditions are stored in the Decisions \[sy
 
 If a change request does not get created due to any issue, then the reason for the failure and the state is also logged in the console.
 
-![Change failure reason in ADO pipeline console logs.](../image/ado-change-state-failed.png)
+![Change failure reason in ADO pipeline console logs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/ado-change-state-failed.png)
 
 **Note:** For Azure DevOps, if change receipt is enabled, the very first log may not be displayed onto the console. That is, when the change is created and is in the New state.
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 

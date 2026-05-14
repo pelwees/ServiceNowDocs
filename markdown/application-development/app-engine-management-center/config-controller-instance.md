@@ -27,9 +27,9 @@ Typically, your production instance should be identified as the controller insta
 
 1.  Navigate to **All** &gt; **App Engine** &gt; **Pipelines and Deployments** &gt; **Environments**.
 
-2.  When you are [configuring your pipeline environments](config-pipeline-environments.md), decide which instance you want to use as the controller, and select the **Is Controller?** check box for that instance.
+2.  When you are [configuring your pipeline environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/config-pipeline-environments.md), decide which instance you want to use as the controller, and select the **Is Controller?** check box for that instance.
 
-    ![Is Controller? field](../image/controller-instance-purple.png)
+    ![Is Controller? field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/controller-instance-purple.png)
 
 3.  Select **Save**.
 

@@ -29,5 +29,5 @@ This log provides the following information for all events that occur:
 |Processing time|Time taken to process this event, in milliseconds.|
 |Queue|Processor queue name.|
 
-**Parent Topic:**[System events reference](system-events-reference.md)
+**Parent Topic:**[System events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/system-events-reference.md)
 

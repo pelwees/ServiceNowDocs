@@ -21,9 +21,9 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  [Configure an HTML document template](configure-HTML-doc-template.md).
+1.  [Configure an HTML document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-HTML-doc-template.md).
 
-2.  [Create participants for an HTML document template](create-participants-html.md).
+2.  [Create participants for an HTML document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-participants-html.md).
 
 3.  Place the cursor in the desired location in the **Body** field.
 

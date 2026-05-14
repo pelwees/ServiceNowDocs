@@ -41,12 +41,12 @@ You can copy permissions from one source forum to multiple target forums.
 5.  Click **Save**.
 
 
-**Parent Topic:**[Create a forum permission](create-forum-permission.md)
+**Parent Topic:**[Create a forum permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md)
 
 **Related topics**  
 
 
-[Copy permissions from a parent forum](copy-permissions-from-parent-forum.md)
+[Copy permissions from a parent forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/copy-permissions-from-parent-forum.md)
 
-[Debug user permissions](debug-user-permissions.md)
+[Debug user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/debug-user-permissions.md)
 

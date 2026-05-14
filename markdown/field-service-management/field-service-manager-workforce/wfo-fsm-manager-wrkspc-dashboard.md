@@ -15,7 +15,7 @@ breadcrumb: [Workforce Optimization, Managing workforce, Use, Field Service Mana
 
 Monitor your teams' work and organizational performance using Workforce Optimization for Field Service. Stay on top of the status of the tasks your teams are working on at a given time.
 
-![Dashboard showing active agent statuses and work order tasks filtered by priority and status.](../../../product/field-service-management/image/Manager-wrkspc.png)
+![Dashboard showing active agent statuses and work order tasks filtered by priority and status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../../product/field-service-management/image/Manager-wrkspc.png)
 
 ## End user and roles
 

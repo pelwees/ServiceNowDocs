@@ -81,12 +81,12 @@ For example, the Reference link clicked event on a list component dispatches the
 
 When an event has no payload — such as the Button clicked event — parameters must be bound from state parameters or entered as static values.
 
-**Parent Topic:**[Exploring UI generation](exploring-ui-generation.md)
+**Parent Topic:**[Exploring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-ui-generation.md)
 
 **Related topics**  
 
 
-[Configure an event handler with Now Assist](../task/configure-an-event-handler-with-now-assist.md)
+[Configure an event handler with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/configure-an-event-handler-with-now-assist.md)
 
-[Use case: Configure an event handler with Now Assist](use-case-event-handler-generation.md)
+[Use case: Configure an event handler with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/use-case-event-handler-generation.md)
 

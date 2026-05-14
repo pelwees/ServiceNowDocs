@@ -15,15 +15,15 @@ Get the values of multiple shared parameters set up for multiple bot processes o
 
 ## Before you begin
 
-Set multiple shared parameters and associate multiple bot processes on the RPA Hub. For more information, see [Create a shared parameter in RPA Hub](../../rpa-hub/task/create-shared-parameter.md) and [Assign a bot process to a shared parameter in RPA Hub](../../rpa-hub/task/assign-botprocess-shared-parameter.md).
+Set multiple shared parameters and associate multiple bot processes on the RPA Hub. For more information, see [Create a shared parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/create-shared-parameter.md) and [Assign a bot process to a shared parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/assign-botprocess-shared-parameter.md).
 
-Assign the automation to the bot process by using the **Assign bot process** option in the **Design** tab of RPA Desktop Design Studio. For more information, see [Assign bot process to an automation project](assign-bot-process.md).
+Assign the automation to the bot process by using the **Assign bot process** option in the **Design** tab of RPA Desktop Design Studio. For more information, see [Assign bot process to an automation project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/assign-bot-process.md).
 
 Role required: none
 
 ## About this task
 
-You can configure the properties for the GetSharedParameters component. For more information about these properties, see [Properties of the shared parameters](../reference/properties-rpahub-shared-parameters.md).
+You can configure the properties for the GetSharedParameters component. For more information about these properties, see [Properties of the shared parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-rpahub-shared-parameters.md).
 
 ## Procedure
 
@@ -31,9 +31,9 @@ You can configure the properties for the GetSharedParameters component. For more
 
 2.  Drag the GetSharedParameters component to the Design surface.
 
-3.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
+3.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
-4.  Click the add key icon \(![Add key icon.](../image/add-image-icon.png)\).
+4.  Click the add key icon \(![Add key icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
 5.  Enter the shared parameter name.
 
@@ -111,5 +111,5 @@ Yes
 </table>10. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Shared Parameters](../concept/shared-parameters.md)
+**Parent Topic:**[Shared Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/shared-parameters.md)
 

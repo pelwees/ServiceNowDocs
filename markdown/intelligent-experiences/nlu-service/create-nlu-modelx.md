@@ -41,7 +41,7 @@ In this example procedure, you're building an NLU model to help Virtual Agent un
 
 6.  In the define details page, enter a unique **Name** and **Short description**.
 
-    ![Window for creating an NLU model from blank. Fill in the model details such as the language and purpose.](../images/create-model-x.png)
+    ![Window for creating an NLU model from blank. Fill in the model details such as the language and purpose.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-model-x.png)
 
     In this example scenario, you enter `HR Model for Virtual Agent` for the name and `Natural language for Human Resources user requests` for the description.
 
@@ -58,9 +58,9 @@ In this example procedure, you're building an NLU model to help Virtual Agent un
 
 ## What to do next
 
-![Model details page after creating a model from blank.](../images/create-nlu-model-blank03.png "Model details page")
+![Model details page after creating a model from blank.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-nlu-model-blank03.png "Model details page")
 
-Your new model contains no content. Select **Add content** to begin adding intents, entities, and vocabulary. For more information, see [Build and train your model](../concept/managing-model-content.md).
+Your new model contains no content. Select **Add content** to begin adding intents, entities, and vocabulary. For more information, see [Build and train your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/managing-model-content.md).
 
-Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](../concept/nlu-test-set-creation-management.md).
+Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/nlu-test-set-creation-management.md).
 

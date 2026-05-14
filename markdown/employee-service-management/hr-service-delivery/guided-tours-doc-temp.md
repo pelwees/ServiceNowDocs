@@ -35,9 +35,9 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 
     -   **HTML Document Template**
     -   **PDF Document Template**
-4.  Select the **Show help** icon \(![Show help icon](../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
+4.  Select the **Show help** icon \(![Show help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
 
-5.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
+5.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
 
 6.  Select **Take a Tour**​.
 
@@ -48,14 +48,14 @@ When you visit a page that has a guided tour for the first time, a welcome scree
 8.  Select **Done** after the tour is ended​.
 
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/understanding-doc-templates.md)
 
-[Using Document Templates: Custom use case](doc-temp-gen.md)
+[Using Document Templates: Custom use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/doc-temp-gen.md)
 
-[Working on a document task](work-doctemp-tasks.md)
+[Working on a document task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 

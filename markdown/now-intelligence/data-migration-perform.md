@@ -49,7 +49,7 @@ Reports associated with chart to chart drilldown are saved to the Visualization 
 
     The length of the migration process depends on the number of dashboards, reports, filters, and Performance Analytics widgets you have on your instance.
 
-    ![Window that indicates how many dashboards and reports will be migrated and estimate of how long the process takes.](../image/data-migration-confirmation.png)
+    ![Window that indicates how many dashboards and reports will be migrated and estimate of how long the process takes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-confirmation.png)
 
 4.  Select **Prevent users from creating Core UI analytics during migration**.
 
@@ -57,7 +57,7 @@ Reports associated with chart to chart drilldown are saved to the Visualization 
 
 5.  Select **Migrate** to start the migration process.
 
-6.  [Evaluate the results](data-migration-evaluate.md).
+6.  [Evaluate the results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 
 7.  Select **Activate** to complete the migration process.
 
@@ -68,9 +68,9 @@ Reports associated with chart to chart drilldown are saved to the Visualization 
 
 Your dashboards and other migrated content are now found under the library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library**.
 
-![Platform Analytics menu path](../image/data-mig-plat-admin-lib-menu-path.png)
+![Platform Analytics menu path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-plat-admin-lib-menu-path.png)
 
 ## What to do next
 
-[Evaluate full data migration](data-migration-evaluate.md)
+[Evaluate full data migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md)
 

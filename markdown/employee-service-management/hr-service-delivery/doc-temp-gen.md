@@ -55,23 +55,23 @@ Role required: admin
 4.  To view the document tasks that are associated to a record:
 
     1.  Open the record, for example, an incident record.
-    2.  Configure the related lists.![Configure Related Lists on a record](../image/config-rl.png)
+    2.  Configure the related lists.![Configure Related Lists on a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/config-rl.png)
 
-        A slushbucket opens. Add **Document Task -&gt; Parent** and **Save**.![Add document Tasks related list to an incident record](../image/config-rl2.png)
+        A slushbucket opens. Add **Document Task -&gt; Parent** and **Save**.![Add document Tasks related list to an incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/config-rl2.png)
 
         Document tasks associated to the record are displayed in **Document tasks** related list.
 
-        ![Document tasks related list appears on the record form](../image/doc-tasks-rl.png)
+        ![Document tasks related list appears on the record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/doc-tasks-rl.png)
 
 
-**Parent Topic:**[Using Document Templates](../concept/using-doc-templates.md)
+**Parent Topic:**[Using Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-doc-templates.md)
 
 **Related topics**  
 
 
-[Using Document Templates: HR Service Delivery](../concept/understanding-doc-templates.md)
+[Using Document Templates: HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/understanding-doc-templates.md)
 
-[Working on a document task](work-doctemp-tasks.md)
+[Working on a document task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 
-[Using Guided Tours in Document Templates](guided-tours-doc-temp.md)
+[Using Guided Tours in Document Templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/guided-tours-doc-temp.md)
 

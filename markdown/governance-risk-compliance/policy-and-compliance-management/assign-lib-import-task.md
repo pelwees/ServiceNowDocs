@@ -147,5 +147,5 @@ Provider import tasks that are related to the library import task. This task is 
 
 ## What to do next
 
-To learn how to approve the library import task that is assigned to the compliance managers assignment group, see [Approve the library import task](approve-lib-import-task.md).
+To learn how to approve the library import task that is assigned to the compliance managers assignment group, see [Approve the library import task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/approve-lib-import-task.md).
 

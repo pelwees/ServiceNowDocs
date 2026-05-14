@@ -17,7 +17,7 @@ Review the similarity examples and scores that the system provides during soluti
 
 ## Before you begin
 
-Train a similarity solution in a ServiceNow datacenter. For more information, see [Create an Event Management similarity solution](create-solution-similarity.md).
+Train a similarity solution in a ServiceNow datacenter. For more information, see [Create an Event Management similarity solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-solution-similarity.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -29,13 +29,13 @@ Adjust the current threshold to provide useful results. For example, a low simil
 
 1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
-2.  In the ML Solutions list, locate your solution and click the Information icon \(![Information icon](../image/info.png)\).
+2.  In the ML Solutions list, locate your solution and click the Information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/info.png)\).
 
 3.  Click **Open Record**.
 
 4.  Click the **Similarity Examples** related link.
 
-    ![Similarity example](../image/similarity-example.png)
+    ![Similarity example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/similarity-example.png)
 
 5.  Review the similarity examples and their threshold scores to determine the accuracy and coverage levels you want applied to your solution similarity results.
 
@@ -47,7 +47,7 @@ Adjust the current threshold to provide useful results. For example, a low simil
 
 7.  Navigate to **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
-8.  In the ML Solutions list, locate your solution and click the Reference icon \(![Reference icon](../image/reference-icon.png)\).
+8.  In the ML Solutions list, locate your solution and click the Reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/reference-icon.png)\).
 
 9.  Click **Open Record**.
 
@@ -60,5 +60,5 @@ Adjust the current threshold to provide useful results. For example, a low simil
     Your solution uses the new similarity threshold value. In the example, the solution returns similar results that have a score higher than 90.
 
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-similarity.md)
 

@@ -33,16 +33,16 @@ Role required: sn\_wsd\_core.workplace\_manager
 
         Do not select a site, campus, or other building that you set up in Workplace Core. Select a location from preexisting records.
 
-    2.  Click the preview icon \(![Preview icon](../image/icon-preview.png)\) next to the parent location.
+    2.  Click the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../image/icon-preview.png)\) next to the parent location.
 
     3.  Copy the latitude and longitude values from the preview window and paste them into the corresponding Campus form fields.
 
-        ![With a parent location selected, open the location preview and copy the latitude and longitude values to the campus record.](../image/swm-campus-copy-lat-long.png)
+        ![With a parent location selected, open the location preview and copy the latitude and longitude values to the campus record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../image/swm-campus-copy-lat-long.png)
 
     4.  Click **Update**.
 
 4.  Continue updating campus records until they all have a parent location and the corresponding latitude and longitude values.
 
 
-**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](../concept/configrng-safe-workplce-dshbrd.md)
+**Parent Topic:**[Create a campus to appear on the Safe Workplace Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/../concept/configrng-safe-workplce-dshbrd.md)
 

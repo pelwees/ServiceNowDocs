@@ -19,7 +19,7 @@ Configure a webhook to subscribe to your Plivo account with a ServiceNow callbac
 
 -   Request Integration Hub subscription.
 -   Activate the Plivo spoke.
--   [Set up the Plivo spoke](plivo-setup.md#)
+-   [Set up the Plivo spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/plivo-setup.md#)
 -   Role required: sn\_plivo\_spoke.Plivo\_Admin and decision\_table\_admin.
 
 ## Register a Plivo webhook in ServiceNow
@@ -78,7 +78,7 @@ Role required: sn\_plivo\_spoke.Plivo\_Admin and decision\_table\_admin
 
 ### Result
 
-The callback URL is added in your Plivo account. You can create routing policies and subflows as per your requirement. See [Create routing policy and customize webhook](setup-plivo-webhook.md#) for information regarding the creation of new routing policies and subflows.
+The callback URL is added in your Plivo account. You can create routing policies and subflows as per your requirement. See [Create routing policy and customize webhook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-plivo-webhook.md#) for information regarding the creation of new routing policies and subflows.
 
 ## Create routing policy and customize webhook
 
@@ -90,7 +90,7 @@ Role required: sn\_plivo\_spoke.Plivo\_Admin and decision\_table\_admin
 
 ### About this task
 
-Routing policy in the Plivo WebHook Routing Policy module triggers the subflows and notifies the ServiceNow instance when certain events occur in your Plivo account. See [Plivo Spoke](../concept/plivo-spoke.md) for information about the fields that the routing policy and subflows support.
+Routing policy in the Plivo WebHook Routing Policy module triggers the subflows and notifies the ServiceNow instance when certain events occur in your Plivo account. See [Plivo Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/plivo-spoke.md) for information about the fields that the routing policy and subflows support.
 
 ### Procedure
 
@@ -104,7 +104,7 @@ Routing policy in the Plivo WebHook Routing Policy module triggers the subflows 
 
 4.  Customize the subflow as per your requirement and publish it.
 
-    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [Plivo Spoke](../concept/plivo-spoke.md) for information about the supported fields.
+    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [Plivo Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/plivo-spoke.md) for information about the supported fields.
 
 5.  Navigate to **Plivo Spoke** &gt; **Plivo WebHook Routing Policy**.
 
@@ -134,7 +134,7 @@ Default answer
 
 </td><td>
 
-Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](../image/lookup-icon.png)\).
+Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/lookup-icon.png)\).
 2.  Select the required subflow from the Document list.
 
 **Note:** Ensure that the **Table name** is `Flow [sys_hub_flow]`.

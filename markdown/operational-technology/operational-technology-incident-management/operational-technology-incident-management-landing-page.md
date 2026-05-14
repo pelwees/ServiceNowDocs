@@ -17,19 +17,19 @@ Operational Technology Incident Management enables manufacturers to manage OT de
 
 <table id="table_e3m_qbq_3rb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Exploring Operational Technology Incident Management](exploring-operational-technology-incident-mgt.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../../reuse/icons/brand-icons/bus-explore.svg)Exploring Operational Technology Incident Management](exploring-operational-technology-incident-mgt.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-operational-technology-incident-mgt.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](configuring-operational-technology-incident-mgt.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../../reuse/icons/brand-icons/bus-management-console.svg)Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/oper-tech-incident-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about related information and applications](../reference/oper-tech-incident-management-reference.md)
 
 </td></tr></tbody>
 </table>

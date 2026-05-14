@@ -127,6 +127,6 @@ Brief description of the program.
 
 ## What to do next
 
--   [Assign teams to a scrum program](add-teams-to-scrum-program.md).
--   Click the **Scrum Program Board** related link to [plan your scrum program](plan-scrum-program.md).
+-   [Assign teams to a scrum program](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/add-teams-to-scrum-program.md).
+-   Click the **Scrum Program Board** related link to [plan your scrum program](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/plan-scrum-program.md).
 

@@ -52,6 +52,6 @@ Role required: major\_incident\_manager
 
 9.  To import messages, click **Import messages**.
 
-    For more information on how to import messages, see [import-messages-from-incident](import-messages-from-incident.md).
+    For more information on how to import messages, see [import-messages-from-incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/import-messages-from-incident.md).
 
 

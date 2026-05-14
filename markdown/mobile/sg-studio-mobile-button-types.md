@@ -19,41 +19,41 @@ Configure functions in Mobile App Builder to determine which actions users can p
 
 Actions
 
- Use action functions to change data, such as assigning a task to yourself or adding a comment to a record. Action functions require a write-back action item to operate. Configure your actions with input parameters to include user input in the changes you make. For more detail on this function type, see [Action functions](mobile-actions.md).
+ Use action functions to change data, such as assigning a task to yourself or adding a comment to a record. Action functions require a write-back action item to operate. Configure your actions with input parameters to include user input in the changes you make. For more detail on this function type, see [Action functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-actions.md).
 
 </td><td>
 
-![Action function.](../image/action-functions.png)
+![Action function.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/action-functions.png)
 
 </td></tr><tr><td>
 
 Navigations
 
- Use navigation functions to transition from your current screen to another screen or launcher screen. For example, opening a record from a list, or moving from an employee user profile screen to a manager user profile screen. For more detail on this function type, see [Navigation functions](mobile-nav-functions.md).
+ Use navigation functions to transition from your current screen to another screen or launcher screen. For example, opening a record from a list, or moving from an employee user profile screen to a manager user profile screen. For more detail on this function type, see [Navigation functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-nav-functions.md).
 
 </td><td>
 
-![Action function.](../image/navigation-function.png)
+![Action function.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/navigation-function.png)
 
 </td></tr><tr><td>
 
 Smart buttons
 
- Use smart button functions enable your users to take an action using the native capabilities of their mobile device. These buttons give your users quick access to phone, email, locations or navigate to a specific URL. For more detail on this function type, see [Smart button functions](sg-mobile-smart-button.md).
+ Use smart button functions enable your users to take an action using the native capabilities of their mobile device. These buttons give your users quick access to phone, email, locations or navigate to a specific URL. For more detail on this function type, see [Smart button functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-smart-button.md).
 
 </td><td>
 
-![Smart button functions.](../image/smart-button-function.png)
+![Smart button functions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/smart-button-function.png)
 
 </td></tr><tr><td>
 
 Predefined buttons
 
- Predefined button functions allow you to use prebuilt functions that don’t require any additional configuration. Choose from Cancel, Continue, and Log Out actions. For more detail on this function type, see  [Predefined button functions](predefined-button-functions.md).
+ Predefined button functions allow you to use prebuilt functions that don’t require any additional configuration. Choose from Cancel, Continue, and Log Out actions. For more detail on this function type, see  [Predefined button functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/predefined-button-functions.md).
 
 </td><td>
 
-![predefined button functions](../image/predefined-button-functions.png)
+![predefined button functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/predefined-button-functions.png)
 
 </td></tr></tbody>
 </table>## Function context
@@ -71,7 +71,7 @@ When you create an action, you must choose whether the function context is **rec
 
 ## Function locations
 
-For each function you create for an application, you must associate it with a specific location. You can associate most functions with a top menu, a swipe, or a specific field. For details on this configuration, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md)
+For each function you create for an application, you must associate it with a specific location. You can associate most functions with a top menu, a swipe, or a specific field. For details on this configuration, see [Associate a function with a location in the app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-studio-button-instances.md)
 
 ## Carried parameters
 

@@ -39,7 +39,7 @@ Next Experience landing pages provide the information you need to start working.
 
     **Note:** When you copy the URL information, replace any HTML entities with their decoded values. For example, replace the entity `%24` with `$`.
 
-    ![User Preference my_home_navigation_page form with a VTB URL segment in the Value field](../image/set-indiv-ui16-landing.png)
+    ![User Preference my_home_navigation_page form with a VTB URL segment in the Value field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/set-indiv-ui16-landing.png)
 
 6.  Select **Update**.
 
@@ -48,5 +48,5 @@ Next Experience landing pages provide the information you need to start working.
 
 The user sees the specified landing page when they log on to ServiceNow® or when they select the company logo.
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-landing-pages.md)
 

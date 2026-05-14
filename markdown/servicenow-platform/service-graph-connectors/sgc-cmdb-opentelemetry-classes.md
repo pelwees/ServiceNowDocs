@@ -256,7 +256,7 @@ The following attribute in the Server \[cmdb\_ci\_server\] table is populated by
 **Related topics**  
 
 
-[Kubernetes extension classes](../concept/cmdb-ci-class-models-kubernetes.md)
+[Kubernetes extension classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models-kubernetes.md)
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/c_CIRelationships.md)
 

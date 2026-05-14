@@ -36,7 +36,7 @@ As the conversation progresses, real-time analysis shows which agents and tools 
 
     -   **Left panel**: A drop down for testing mode with Voice and Chat options. Live transcription of the conversation along with the assistant greeting and input controls.
     -   **Right panel**: Assistant summary showing the assistant name, telephony provider \(if configured\), language, voice personality, and the Analysis tab.
-    ![Voice assistant testing window](../image/ai-voice-assistant-test-window.png "Voice assistant test window")
+    ![Voice assistant testing window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/ai-voice-assistant-test-window.png "Voice assistant test window")
 
 2.  Test your voice assistant.
 
@@ -50,7 +50,7 @@ As the conversation progresses, real-time analysis shows which agents and tools 
 
         The assistant processes your speech and responds with synthesized voice output. The conversation transcript appears in the left panel.
 
-        ![Voice assistant testing in Voice mode](../image/NAinVA-assistant-designer-analytics-voice-testing-voice-mode.png "Voice assistant testing in Voice mode")
+        ![Voice assistant testing in Voice mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-assistant-designer-analytics-voice-testing-voice-mode.png "Voice assistant testing in Voice mode")
 
     3.  Continue the conversation to test different scenarios and intents.
 
@@ -64,7 +64,7 @@ As the conversation progresses, real-time analysis shows which agents and tools 
 
         The assistant processes your text input and responds in the conversation panel.
 
-        ![Voice assistant testing in Chat mode](../image/NAinVA-assistant-designer-analytics-voice-testing-chat-mode.png "Voice assistant testing in Chat mode")
+        ![Voice assistant testing in Chat mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-assistant-designer-analytics-voice-testing-chat-mode.png "Voice assistant testing in Chat mode")
 
     3.  Continue the conversation to test different scenarios and intents.
 

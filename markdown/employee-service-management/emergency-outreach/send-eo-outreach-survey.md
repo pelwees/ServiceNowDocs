@@ -19,7 +19,7 @@ Use Emergency Outreach to send a workplace readiness survey. Review the survey r
 
 In order to send a survey, you must have the Employee Readiness Surveys application installed.
 
-Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](../../../administer/mobile-employee/concept/mobile-employee-experience.md).
+Employees must have the Now® Mobile app installed on their phones to receive mobile push notifications. For more information, see [Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../../administer/mobile-employee/concept/mobile-employee-experience.md).
 
 Role required: sn\_imt\_checkin.checkin\_admin or admin
 
@@ -147,7 +147,7 @@ Select the survey to use or keep the default **Employee workplace readiness surv
 
 </td><td>
 
-Click the lookup icon \(![Click icon to look up a notification](../../contact-tracing/image/icon-lookup.png)\) and select the notification to use.
+Click the lookup icon \(![Click icon to look up a notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../../contact-tracing/image/icon-lookup.png)\) and select the notification to use.
 
 </td></tr><tr><td id="d117192e418">
 
@@ -211,7 +211,7 @@ The check box is active if the ServiceNow NowMobile App Screens and Applet Launc
 
     If employees haven't responded yetand instances were successfully created for all users, click **Resend Notification**. The notification is sent again only to employees who have not yet responded.
 
-    ![View survey scorecard related link and the list of survey instances.](../image/survey-instances-list.png)
+    ![View survey scorecard related link and the list of survey instances.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../image/survey-instances-list.png)
 
     When an outreach is sent using a custom notification channel, a Delivery Logs related list appears in the outreach record. It lists successful and failed log records for the notification that you sent.
 
@@ -223,10 +223,10 @@ The check box is active if the ServiceNow NowMobile App Screens and Applet Launc
 
 14. To view the interactive scorecard showing all responses and the results, click the **View Survey Scorecard** related link.
 
-    ![Survey responses scorecard with charts.](../image/survey-response-scorecard.png)
+    ![Survey responses scorecard with charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../image/survey-response-scorecard.png)
 
     Click any area of a chart to see the corresponding records.
 
 
-**Parent Topic:**[Emergency Outreach](../concept/emergency-outreach.md)
+**Parent Topic:**[Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/../concept/emergency-outreach.md)
 

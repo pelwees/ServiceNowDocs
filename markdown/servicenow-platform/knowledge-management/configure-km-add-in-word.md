@@ -21,17 +21,17 @@ Complete the following tasks to use the Knowledge Management - Add-in for Micros
 
 ## Procedure
 
-1.  [Activate Knowledge Management - Add-in for Microsoft Word](activate-km-word-add-in.md).
+1.  [Activate Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-km-word-add-in.md).
 
-2.  [Deploy Knowledge Management - Add-in for Microsoft Word](deploy-km-word-manifest.md).
+2.  [Deploy Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/deploy-km-word-manifest.md).
 
-3.  [Configure the security for Knowledge Management add-in for Microsoft Word](configure-domain-km-word-add-in.md).
+3.  [Configure the security for Knowledge Management add-in for Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-domain-km-word-add-in.md).
 
-4.  [Enable downloading of the source Microsoft Word document for a knowledge article](enable-downloading-article-word-document.md).
+4.  [Enable downloading of the source Microsoft Word document for a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-downloading-article-word-document.md).
 
 
 **Related topics**  
 
 
-[Authoring a knowledge article in Microsoft Word](../concept/knowledge-article-authoring-word.md)
+[Authoring a knowledge article in Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-article-authoring-word.md)
 

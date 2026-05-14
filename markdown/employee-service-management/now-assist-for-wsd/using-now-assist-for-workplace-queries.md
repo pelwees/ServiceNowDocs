@@ -32,5 +32,5 @@ When you submit a query in the Now Assist panel, the system automatically determ
 3.  Enter your reservation-related query.
 
 
-**Parent Topic:**[Workplace advisor QnA agentic workflow](../concept/workplace-advisor-qna.md)
+**Parent Topic:**[Workplace advisor QnA agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../concept/workplace-advisor-qna.md)
 

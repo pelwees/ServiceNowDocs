@@ -36,5 +36,5 @@ By default, the activity stream displays currency and price fields converted int
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](../concept/configurations-for-legal-tracker-integration.md)
+**Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../concept/configurations-for-legal-tracker-integration.md)
 

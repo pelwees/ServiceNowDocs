@@ -45,16 +45,16 @@ Employees can access these knowledge articles from the Employee Center by naviga
 
 To view a list of all knowledge base articles in the Health and Safety Workspace,
 
-1.  Navigate to **Health and Safety Workspace** and select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+1.  Navigate to **Health and Safety Workspace** and select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-risk-management/image/icon-config.png)\).
 2.  In the **Configuration** tab, select **Knowledge**.
 
 **Note:** By default, the knowledge list in the Health and Safety Workspace is filtered by the `Knowledge base = Safety` filter. However, to view all articles from other knowledge bases, you can do the following:
 
--   Select the filter icon \(![filter icon](../../talent-acquisition/images/icon-filter.png)\) in the list and remove the `Knowledge base = Safety` filter.
+-   Select the filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../talent-acquisition/images/icon-filter.png)\) in the list and remove the `Knowledge base = Safety` filter.
 -   Additionally, to remove this default filter setting from the Knowledge list in the Health and Safety Workspace, remove it in the UIB related list configuration. For more information, see [Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/lists-configurable-workspace.md)
 
--   **[Create a Health and Safety knowledge article](../task/hs-create-safety-knowledge-article.md)**  
+-   **[Create a Health and Safety knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../task/hs-create-safety-knowledge-article.md)**  
 Create a safety-related knowledge article in the Health and Safety Workspace to share information across your organization.
 
-**Parent Topic:**[Using Health and Safety Core](using-hs-core.md)
+**Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 

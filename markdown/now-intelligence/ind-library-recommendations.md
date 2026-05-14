@@ -15,7 +15,7 @@ Analytics managers can view information about potentially problematic indicators
 
 ## Indicator recommendation panel
 
-![Indicator library showing recommendation panel.](../image/ind-lib-recommendation-panel.png)
+![Indicator library showing recommendation panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/ind-lib-recommendation-panel.png)
 
 Visible to roles: pa\_admin and higher.
 
@@ -27,5 +27,5 @@ The following types of recommendations are currently available:
 |----|-----------|
 |n Unused indicators|Number of indicators with inactive jobs, empty sources, or no recent views.|
 
-**Parent Topic:**[Platform Analytics library recommendations](../concept/pa-library-recommendations.md)
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/pa-library-recommendations.md)
 

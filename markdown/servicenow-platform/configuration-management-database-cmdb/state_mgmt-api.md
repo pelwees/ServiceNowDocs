@@ -71,5 +71,5 @@ output = SNC.StateManagementScriptableApi.addBulkCIAction(requestorId, sys_ids, 
 gs.print(output);
 ```
 
-**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](cmdb-ci-lifecycle-mgmt.md)
+**Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-ci-lifecycle-mgmt.md)
 

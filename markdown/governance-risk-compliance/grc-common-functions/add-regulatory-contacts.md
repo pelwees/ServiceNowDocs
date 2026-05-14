@@ -31,13 +31,13 @@ As a compliance\_case\_manager, you can map one contact or multiple contacts to 
 
 3.  On the Create New Regulatory Contact form, fill in the fields.
 
-    For a description of the fields, see [Create New Regulatory Contact form](create-new-regulatory-contact-form.md).
+    For a description of the fields, see [Create New Regulatory Contact form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-regulatory-contact-form.md).
 
 4.  Select **Save**.
 
 
--   **[Create New Regulatory Contact form](create-new-regulatory-contact-form.md)**  
+-   **[Create New Regulatory Contact form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-regulatory-contact-form.md)**  
 Use the Create New Regulatory Contact form in Compliance Workspace to create a regulatory contact to either a regulatory agency or a jurisdiction.
 
-**Parent Topic:**[Regulatory Agency Library](../../grc-rcm/concept/regulatory-agency-library-rcm.md)
+**Parent Topic:**[Regulatory Agency Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/regulatory-agency-library-rcm.md)
 

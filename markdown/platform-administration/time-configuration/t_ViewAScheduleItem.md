@@ -30,16 +30,16 @@ Role required: system\_scheduler\_admin
     Each schedule item appears on the table listing.
 
 
-**Parent Topic:**[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+**Parent Topic:**[Scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reference-pages/concept/c_ScheduledJobs.md)
 
 **Related topics**  
 
 
-[Scheduled jobs](../../reference-pages/concept/c_ScheduledJobs.md)
+[Scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../reference-pages/concept/c_ScheduledJobs.md)
 
-[Advanced options for scheduled jobs](advanced-options-for-scheduled-jobs.md)
+[Advanced options for scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/advanced-options-for-scheduled-jobs.md)
 
-[Create a scheduled job](t_CreateAScheduledJob.md)
+[Create a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAScheduledJob.md)
 
-[Enable run types for scheduled job child tables](customize-run-times-for-scheduled-jobs.md#)
+[Enable run types for scheduled job child tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/customize-run-times-for-scheduled-jobs.md#)
 

@@ -23,12 +23,12 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../images/list-icon.png)\) on the left.
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/list-icon.png)\) on the left.
 
 3.  Select **Monitor** &gt; **Action Logs**.
 
 4.  The logs of all executed actions is displayed.
 
 
-**Parent Topic:**[Manage actions](../concept/manage-actions.md)
+**Parent Topic:**[Manage actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/manage-actions.md)
 

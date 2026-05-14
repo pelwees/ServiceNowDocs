@@ -52,5 +52,5 @@ A request to this resource returns the following response.
  */
 ```
 
-**Parent Topic:**[Scripted REST API examples](../concept/c_ScriptedRESTAPIExamples.md)
+**Parent Topic:**[Scripted REST API examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/c_ScriptedRESTAPIExamples.md)
 

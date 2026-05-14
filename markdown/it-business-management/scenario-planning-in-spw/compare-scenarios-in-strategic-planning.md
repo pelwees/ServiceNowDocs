@@ -17,7 +17,7 @@ Compare scenarios side by side to confirm alignment with primary goals, evaluate
 
 ## Before you begin
 
-Verify that you have created one or more planning scenarios and selected planning items for execution. For more information, see [Create a scenario](create-a-scenario-in-strategic-planning.md).
+Verify that you have created one or more planning scenarios and selected planning items for execution. For more information, see [Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-scenario-in-strategic-planning.md).
 
 Role required:
 
@@ -46,7 +46,7 @@ Role required:
 
 6.  Compare different aspects of the scenarios such as Budget vs Target, Benefit, Budget distribution, trade offs, and alignment with primary goals.
 
-    ![Scenarios appear side by side on the Compare Scenario page](../image/compare-scenarios-in-spw.png)
+    ![Scenarios appear side by side on the Compare Scenario page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../image/compare-scenarios-in-spw.png)
 
     |Criteria|Description|
     |--------|-----------|
@@ -62,10 +62,10 @@ Role required:
     -   Better benefit from financial planning using the widgets, Budget vs Target to validate the allocated budget against the set targets, Benefit to identify scenario with better monetary benefit, and Budget Distribution to see the amount of budget allocated to the top four goals.
 7.  Select the **Approve Scenario** button relevant to a scenario to approve it.
 
-    For more information about approving existing scenarios in the Strategic Planning Workspace, see [Approve a scenario](approve-a-scenario-in-strategic-planning.md).
+    For more information about approving existing scenarios in the Strategic Planning Workspace, see [Approve a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/approve-a-scenario-in-strategic-planning.md).
 
 
 ## What to do next
 
-[Approve a scenario](approve-a-scenario-in-strategic-planning.md)
+[Approve a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/approve-a-scenario-in-strategic-planning.md)
 

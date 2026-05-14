@@ -27,11 +27,11 @@ Export models and templates is used when an admin or catalog manager needs to do
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to any model or inventory template.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to any model or inventory template.
 
 3.  Select a desired record.
 
-4.  Select **![Options icon](../../../common/image/icon-menu.png)** &gt; **Export**.
+4.  Select **![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../common/image/icon-menu.png)** &gt; **Export**.
 
 5.  On the Export window, select the desired file type to export the data.
 
@@ -52,14 +52,14 @@ Export models and templates is used when an admin or catalog manager needs to do
     When exporting a model or template with parent-child relationships, only the parent and its children are included. Siblings aren't be exported.
 
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/import-models-and-templates.md)
 
 **Related topics**  
 
 
-[Exporting hierarchy process via JSON](../concept/exporting-hierarchy-process-via-json.md)
+[Exporting hierarchy process via JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/exporting-hierarchy-process-via-json.md)
 
-[Exporting hierarchy via XML](../concept/exporting-hierarchy-process-via-xml.md)
+[Exporting hierarchy via XML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/exporting-hierarchy-process-via-xml.md)
 
-[Export hierarchy of models and templates as JSON](export-hierarchy-of-models-and-templates-as-json.md)
+[Export hierarchy of models and templates as JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-templates-as-json.md)
 

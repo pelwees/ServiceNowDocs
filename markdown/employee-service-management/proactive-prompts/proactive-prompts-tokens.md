@@ -44,18 +44,18 @@ When creating a signal, the message displayed to the user is written in the Sing
 |Script|Employee|receiving\_user, score, item\*|receiving\_user, item\_count\*|
 |Performance Analytics Indicator|Employee|receiving\_user, score, item\*|receiving\_user, item\_count\*|
 
-**Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)
+**Parent Topic:**[Reference for Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Proactive Prompts](proactive-prompts-components.md)
+[Components installed with Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-components.md)
 
-[Types of data sources in Proactive Prompts](proactive-prompts-data-source.md)
+[Types of data sources in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-data-source.md)
 
-[Actions and action groups in Proactive Prompts](proactive-prompts-actions.md)
+[Actions and action groups in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-actions.md)
 
-[Signal data source form](proactive-prompts-signal-datasource-form.md)
+[Signal data source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-datasource-form.md)
 
-[Signal configuration form](proactive-prompts-create-signal-form.md)
+[Signal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-create-signal-form.md)
 

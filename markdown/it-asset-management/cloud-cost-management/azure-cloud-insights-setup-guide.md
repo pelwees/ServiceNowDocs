@@ -70,17 +70,17 @@ For instructions, see:-   [Request as plugin](https://raw.githubusercontent.com/
 
 Here's an overview of your set up process. Detailed instructions appear in the table that follows.
 
-![Setup process for the Cloud Cost Management app](../image/setup-procedure-cloudin.png)
+![Setup process for the Cloud Cost Management app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/setup-procedure-cloudin.png)
 
 When you first open the app, the home page enables you set up a provider and to assign the insights\_owner role.
 
-![Initial home page of the Cloud Cost Management app](../image/cloud_insights_home.png)
+![Initial home page of the Cloud Cost Management app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/cloud_insights_home.png)
 
 After you set up a provider and assign the insights\_owner role, the page displays additional setup activities.
 
 **Note:** The Configure and Run Discovery card appears only if you use the Discovery application to discover cloud resources.
 
-![Home page after you set up a provider and assign insights_owner](../image/homepage-second-config.png)
+![Home page after you set up a provider and assign insights_owner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/homepage-second-config.png)
 
 -   When you select the **Set up and Run Discovery** button in the Configure and Run Discovery section, the Discover Schedules form opens.
 -   When you select the **Set up Billing Download** button in the Download Billing and Usage Data section, the Billing Download Jobs form opens.
@@ -112,7 +112,7 @@ You assign Cloud Cost Management roles to user groups and to individual users ba
 
 </td><td>
 
-[Cloud Cost Management roles](../reference/cloud-insights-roles.md)
+[Cloud Cost Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/cloud-insights-roles.md)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ To enable Discovery to communicate with your Microsoft Azure account, you specif
 
 </td><td>
 
-[Configuring access to CI data on your Microsoft Azure account](../reference/azure-midserver-config-cloudin.md)
+[Configuring access to CI data on your Microsoft Azure account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/azure-midserver-config-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ When you select the **Set up and Run Discovery** button on the Configure and Run
 
 </td><td>
 
-[Discovering your cloud resources for use](aws-discovery-cloudin.md)
+[Discovering your cloud resources for use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-discovery-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ When you select the **Set up Billing Download** button in the Download Billing a
 
 </td><td>
 
-[Set up access to Microsoft Azure billing and usage data](azure-billing-usage-data.md)
+[Set up access to Microsoft Azure billing and usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/azure-billing-usage-data.md)
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ When you select the **Set up Price Sheets Download** button in the Download Pric
 
 </td><td>
 
-[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](../task/azure-pricesht-sched-dwnld-cloudin.md)
+[Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/azure-pricesht-sched-dwnld-cloudin.md)
 
 </td></tr><tr><td>
 
@@ -182,10 +182,10 @@ When you select the **Set up Price Sheets Download** button in the Download Pric
 
 </td><td>
 
--   [Rightsizing resources](rs-cloudin.md)
--   [Unused resources](um-cloudin.md)
--   [Business hours](bh-cloudin.md)
--   [Unassigned resources](ur-cloudin.md#)
+-   [Rightsizing resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-cloudin.md)
+-   [Unused resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/um-cloudin.md)
+-   [Business hours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bh-cloudin.md)
+-   [Unassigned resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/ur-cloudin.md#)
 
 </td></tr></tbody>
 </table>

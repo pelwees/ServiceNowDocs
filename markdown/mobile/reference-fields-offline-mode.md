@@ -37,7 +37,7 @@ Role required: admin
 
 7.  In the Inputs area, select **New** and configure the input fields that your users use to enter information.
 
-    For an explanation of the fields, see [Configure input form screen inputs](param-screen-config-inputs.md).
+    For an explanation of the fields, see [Configure input form screen inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/param-screen-config-inputs.md).
 
 8.  In the Settings area, select the **Input type** for users to use within the input form screen.
 
@@ -47,13 +47,13 @@ Role required: admin
 
     The options available in these fields correspond to the selection made in the **Input type** field from the Input form.
 
-    **Note:** For a list of the attributes to use in offline mode, see [Reference field attributes for input form screens in offline mode](../reference/reference-fields-offline-attributes.md).
+    **Note:** For a list of the attributes to use in offline mode, see [Reference field attributes for input form screens in offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/reference-fields-offline-attributes.md).
 
 11. Select **Save**.
 
 
--   **[Reference field attributes for input form screens in offline mode](../reference/reference-fields-offline-attributes.md)**  
+-   **[Reference field attributes for input form screens in offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/reference-fields-offline-attributes.md)**  
 Configure the fields that you want to use and the data you want to display in offline mode by using various input attributes.
 
-**Parent Topic:**[Offline mode](../concept/mobile-offline-mode.md)
+**Parent Topic:**[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md)
 

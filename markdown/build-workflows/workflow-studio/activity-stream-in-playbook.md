@@ -21,17 +21,17 @@ Activities may contain a button, icon, or dropdown item to view a record’s act
 
 To open the activity stream within a playbook, click the **View activity** button or select **View History** from the drop-down list.
 
-![Playbook card displaying a view activity button](../image/view-activity-card.png "Activity stream button")
+![Playbook card displaying a view activity button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/view-activity-card.png "Activity stream button")
 
-![Playbook card displaying a view histroy dropdown](../image/playbook-view-history.png "Activity stream dropdown")
+![Playbook card displaying a view histroy dropdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-view-history.png "Activity stream dropdown")
 
 ## Activity stream modal
 
 You can see tabs for comments and work notes related to a parent or associated record. You can use the **Compose** text box to post new comments or work notes.
 
-![Activity steam modal displayed within playbook](../image/playbook-activity-stream-modal.png)
+![Activity steam modal displayed within playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-activity-stream-modal.png)
 
 You can view previous activity by scrolling down to the **Activity** section.
 
-**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-agents-and-fulfillers.md)
 

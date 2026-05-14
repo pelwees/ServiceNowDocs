@@ -100,5 +100,5 @@ Can Create, update, and close Store Operations case for the stores and associate
 |Supporting retail organization |Same as requesting retail organization |
 |Due Date |2 hours from now \(date/time\) |
 
-**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

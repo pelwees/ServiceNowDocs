@@ -32,7 +32,7 @@ You can view the following file types:
 
 Other document types, for example, .zip or .exe files, are automatically downloaded without requiring Document Viewer. Document viewer converts word documents and spreadsheets to pdf first in order to view them. This might take some time to render the file the first time.
 
-![Viewing a PDF file in Document Viewer](../image/DocViewerPDFView.png "PDF view in Document Viewer")
+![Viewing a PDF file in Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/DocViewerPDFView.png "PDF view in Document Viewer")
 
 **Note:**
 
@@ -42,19 +42,19 @@ The following table describes the icons used in Document Viewer.
 
 |Icon|Description|
 |----|-----------|
-|![Sidebar toggle icon to preview all the pages in the document](../image/IconDocViewerToggleSidebar.png)|Toggle the sidebar to see a preview of all the pages in the document.|
-|![Icon to download the attachment](../image/IconDocViewerDownloadAttch.png)|Download the attachment.|
-|![Page up or page down icons to scroll the page](../image/IconDocViewerPreviousPg.png)|Page up or down using the arrow buttons. You can also scroll or use your keyboard arrow keys.|
-|![Icon to rotate document page](../image/IconDocViewerClockwise.png)|Rotate the page to the right.|
-|![Icon to rotate page](../image/IconDocViewerUnClockwise.png)|Rotate the page to the left.|
-|![Icons to zoom in or zoom out of the document](../image/IconDocViewerMagnification.png)|Zoom in or out of the document.|
-|![Icon to increase the page display to full width](../image/IconDocViewerFitWidth.png)|Increase the page to the full width of Document Viewer.|
-|![Search bar with arrows to toggle to the next search result](../image/IconDocViewerSearch.png)|Search for keywords in the document. Use the arrows to toggle to the next search result.|
+|![Sidebar toggle icon to preview all the pages in the document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerToggleSidebar.png)|Toggle the sidebar to see a preview of all the pages in the document.|
+|![Icon to download the attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerDownloadAttch.png)|Download the attachment.|
+|![Page up or page down icons to scroll the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerPreviousPg.png)|Page up or down using the arrow buttons. You can also scroll or use your keyboard arrow keys.|
+|![Icon to rotate document page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerClockwise.png)|Rotate the page to the right.|
+|![Icon to rotate page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerUnClockwise.png)|Rotate the page to the left.|
+|![Icons to zoom in or zoom out of the document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerMagnification.png)|Zoom in or out of the document.|
+|![Icon to increase the page display to full width](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerFitWidth.png)|Increase the page to the full width of Document Viewer.|
+|![Search bar with arrows to toggle to the next search result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/IconDocViewerSearch.png)|Search for keywords in the document. Use the arrows to toggle to the next search result.|
 
 **Related topics**  
 
 
-[View attachments with Document Viewer](../task/view-attachment-doc-viewer.md)
+[View attachments with Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/view-attachment-doc-viewer.md)
 
-[Enable Document Viewer](../../../administer/form-administration/task/enable-document-viewer.md)
+[Enable Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../administer/form-administration/task/enable-document-viewer.md)
 

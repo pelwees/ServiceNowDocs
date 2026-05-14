@@ -95,5 +95,5 @@ A brief description of the calendar, its use case, and other details.
 
 ## What to do next
 
-Create entries for the newly created calendar. See [Create calendar entries for iterations in EAP](create-calendar-entries-in-eap.md).
+Create entries for the newly created calendar. See [Create calendar entries for iterations in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-calendar-entries-in-eap.md).
 

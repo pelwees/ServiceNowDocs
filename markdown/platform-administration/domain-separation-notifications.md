@@ -51,7 +51,7 @@ Domain separation is not supported in email accounts for these reasons:
 1.  Sending mail: There is only one SMTP sender per account. This prohibits providing domains for each account, and they are not configurable.
 2.  For receiving Inbound mail: You can set up multiple email accounts but cannot meaningfully set the domain of an inbound email action. Inbound Actions are processed in the domain of the user who sent the email. For example: User\_A in Domain A sends an email to a ServiceNow email account which executes the “Create an incident” inbound email action. The resulting new incident created by the inbound action is in Domain A.
 
-To learn more see [Inbound email actions](c_InboundEmailActions.md).
+To learn more see [Inbound email actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md).
 
 **Note:** If the number of email accounts exceeds 20, reception of email slows down.
 
@@ -61,32 +61,32 @@ If an instance is using the [Domain separation plugin](https://raw.githubusercon
 
 Solution: Set the \[sys\_overrides\] field on the notification that belongs to the domain so it overrides the setting on global. For more information, see [Delegated administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DelegatedAdministration.md).
 
-**Parent Topic:**[Email and SMS notifications](c_EmailNotifications.md)
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
 
-[Create notification categories](../task/create-notification-categories.md)
+[Create notification categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-notification-categories.md)
 
-[Create an email notification](../task/t_CreateANotification.md)
+[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateANotification.md)
 
-[Email notifications dashboard](email-notifications-dashboard.md)
+[Email notifications dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-notifications-dashboard.md)
 
-[Email diagnostics dashboard](email-diagnostics-dashboard.md)
+[Email diagnostics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-diagnostics-dashboard.md)
 
-[Email templates](c_EmailTemplates.md)
+[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-[Email layouts](email-layouts.md)
+[Email layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-layouts.md)
 
-[Email retention](email-retention.md)
+[Email retention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-[Watermarks on notification emails](c_WorkingWithWatermarks.md)
+[Watermarks on notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-[Parse an email thread](../task/parse-email.md)
+[Parse an email thread](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/parse-email.md)
 
-[Email digests](email-digests.md)
+[Email digests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-[Email FAQs and troubleshooting notification emails](troubleshooting-notification-emails.md)
+[Email FAQs and troubleshooting notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

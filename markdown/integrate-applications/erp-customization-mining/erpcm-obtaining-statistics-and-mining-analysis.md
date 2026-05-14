@@ -127,5 +127,5 @@ This tab contains system-wide information that is useful to view after importing
 |Users per module|Donut|Number of users for each module by number and percentage.|
 |Users of applications per module|Bar|Type of application users by module. User type is based on the number of different applications accessed. Users are defined as Light \(uses few apps\), Moderate \(uses multiple apps\), and Power \(uses the most apps\). Frequency of use isn't part of the calculation.|
 
-**Parent Topic:**[Finding and working with candidates to replatform](work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/work-with-candidates.md)
 

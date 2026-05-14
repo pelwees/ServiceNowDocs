@@ -123,7 +123,7 @@ Role required: discovery\_admin or admin
 
     All probe and sensor metrics data are read-only.
 
-    ![Individual probe and sensor metrics](../image/DiscoPerformanceMetricProbe.png)
+    ![Individual probe and sensor metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoPerformanceMetricProbe.png)
 
     The Probe and Sensor Metrics \(Individual\) form provides these fields:
 
@@ -157,7 +157,7 @@ Role required: discovery\_admin or admin
 
 2.  Sort the list by **Build/version**.
 
-    ![Filtering the list of performance data aggregated by build](../image/DiscoPerformanceBuildFilter.png)
+    ![Filtering the list of performance data aggregated by build](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoPerformanceBuildFilter.png)
 
 3.  Filter by a specific build to see the aggregated processing times for the probes and patterns that performed a Discovery on that build.
 
@@ -184,7 +184,7 @@ Role required: discovery\_admin or admin
 
 2.  Sort the list by **Discovery status** to see the aggregated processing times for the probes and patterns that ran during a specific Discovery.
 
-    ![Filtering the list of performance data aggregated by status](../image/DiscoPerformanceStatusFilter.png)
+    ![Filtering the list of performance data aggregated by status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoPerformanceStatusFilter.png)
 
 3.  Filter by a specific status to display metrics available for probes and patterns that ran in that status.
 
@@ -209,7 +209,7 @@ Role required: discovery\_admin or admin
 
 2.  Sort the list by **Target IP address**.
 
-    ![Filtering the list of performance data aggregated by target IP address](../image/DiscoPerformanceTargetFilter.png)
+    ![Filtering the list of performance data aggregated by target IP address](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoPerformanceTargetFilter.png)
 
 3.  Filter by a specific IP address to see the aggregated processing times for the probes and patterns that performed the Discovery of that IP address.
 
@@ -228,7 +228,7 @@ Discovery performance metrics can accumulate data for probes, patterns, and sens
 
 This is an example of an aggregation record for probe and sensor metrics. The metrics fields shown here are used for each aggregation.
 
-![Sample roll-up by Status form](../image/PerfFrameworkStatusRollup.png "Sample roll-up by Status form")
+![Sample roll-up by Status form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/PerfFrameworkStatusRollup.png "Sample roll-up by Status form")
 
 ### Performance Framework aggregated data
 

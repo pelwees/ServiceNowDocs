@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 The ServiceNow Discovery application uses the Cisco WAPs extension to find Wireless Access Points \(WAPs\) that are controlled by a Cisco network switch. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
-This extension extends the Network Switch discovery pattern. For more information, see [Network switch and router discovery](../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
+This extension extends the Network Switch discovery pattern. For more information, see [Network switch and router discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
 
 Discovery uses the Cisco WAPs extension to run horizontal discovery.
 
@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Prerequisites
 
-For prerequisites related to network switch discovery, see [Network switch and router discovery](../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
+For prerequisites related to network switch discovery, see [Network switch and router discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/r_DataCollDiscoNWRouteAndSwitch.md).
 
 In addition, these prerequisites must be in place for the Cisco WAPs extension:
 
@@ -52,7 +52,7 @@ The data discovered by the Cisco WAP extension includes the following tables and
 
 The Dependency Views map shows all discovered Cisco WAP CIs and the relationships between them.
 
-![CIs and connections on a Dependency Views map](../image/cisco-waps-dependency-view.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cisco-waps-dependency-view.png)
 
 ## CI relationships
 
@@ -62,5 +62,5 @@ These relationships are created to support Cisco WAPs discovery:
 |---|------------|---|
 |cmdb\_ci\_ip\_switch|Controller for :: Controlled by|cmdb\_ci\_wap\_network|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

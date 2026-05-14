@@ -16,7 +16,7 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 The Discovery Admin Workspace displays your port scanning information, IP address utilization, and Discovery schedules.
 
-![shazzam dashboard](../image/shazaam-insights-daw.png)
+![shazzam dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/shazaam-insights-daw.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -36,7 +36,7 @@ The Discovery Admin Workspace displays your port scanning information, IP addres
 
     Set the **glide.discovery.shazzaminsights** property to **True**.
 
-    Run a Discovery schedule. For more information, see: [Running discoveries in your network](running-discoveries.md).
+    Run a Discovery schedule. For more information, see: [Running discoveries in your network](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/running-discoveries.md).
 
 
 ## Access the Shazzam Insights dashboard

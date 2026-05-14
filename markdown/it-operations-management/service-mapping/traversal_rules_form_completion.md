@@ -95,5 +95,5 @@ Order
 Enter a number for the order. The system uses traversal rules for discovery in sequence from low order to high.**Note:** When configuring traversal rules with dependencies, verify that prerequisite rules are executed before dependent ones by assigning them a lower-order number.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+</table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 

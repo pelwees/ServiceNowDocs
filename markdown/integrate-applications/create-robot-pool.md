@@ -15,7 +15,7 @@ Create a robot pool in RPA Hub for an optimum utilization of robots to execute t
 
 ## Before you begin
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robot-pool-rpa.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
@@ -29,7 +29,7 @@ To add or remove robots from the pool that are associated with one or more publi
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Robot Pool**.
 
@@ -70,9 +70,9 @@ To add or remove robots from the pool that are associated with one or more publi
 
 ## What to do next
 
-Enable robot pool option for a bot process to map a bot process to the robot pool. For more information, see [Enable robot pool for a bot process in RPA Hub](enable-robot-pool.md).
+Enable robot pool option for a bot process to map a bot process to the robot pool. For more information, see [Enable robot pool for a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/enable-robot-pool.md).
 
-\(Optional\) Calculate the number of robots required to allocate those robots from the selected pool to execute the bot process. For more information, see [Calculate the number of robots in RPA Hub](calculate-robots.md).
+\(Optional\) Calculate the number of robots required to allocate those robots from the selected pool to execute the bot process. For more information, see [Calculate the number of robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/calculate-robots.md).
 
-**Parent Topic:**[Robot pool in RPA Hub](../concept/robot-pool-rpa.md)
+**Parent Topic:**[Robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robot-pool-rpa.md)
 

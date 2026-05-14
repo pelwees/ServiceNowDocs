@@ -17,19 +17,19 @@ Credentials and connection information are required to gain access to a computer
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Exploring](../../../common/image/icon-explore.png) Learn about Credentials.](../concept/credentials-connections-alias.md)
+[Explore ![Exploring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../common/image/icon-explore.png) Learn about Credentials.](../concept/credentials-connections-alias.md)
 
 </td><td>
 
-[Configure ![Configuring](../../../common/image/icon-set-up.png) Configure Credentials.](../task/t_CreateCredential.md)
+[Configure ![Configuring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../common/image/icon-set-up.png) Configure Credentials.](../task/t_CreateCredential.md)
 
 </td></tr><tr><td>
 
-[Reference ![Reference](../../../common/image/icon-reference.png) Get details about Credentials.](../concept/c_ExternalCredentialStorage.md)
+[Reference ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../common/image/icon-reference.png) Get details about Credentials.](../concept/c_ExternalCredentialStorage.md)
 
 </td><td>
 
-[Troubleshoot ![Advanced](../../../common/image/icon-workspace.png) Learn how to troubleshoot issues in connections and credentials.](r_CredentialTroubleshooting.md)
+[Troubleshoot ![Advanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../common/image/icon-workspace.png) Learn how to troubleshoot issues in connections and credentials.](r_CredentialTroubleshooting.md)
 
 </td></tr></tbody>
 </table>

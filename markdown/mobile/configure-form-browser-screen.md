@@ -37,7 +37,7 @@ Role required: admin
 
 7.  In the **Create a screen** dialog box, select **Mobile web**, and then select **Continue**.
 
-8.  Complete the mobile web screen form by using the instructions in [Configure a mobile web screen](sg-configure-url-screen.md).
+8.  Complete the mobile web screen form by using the instructions in [Configure a mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-url-screen.md).
 
 
 ## Result

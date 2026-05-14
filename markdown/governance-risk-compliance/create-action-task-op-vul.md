@@ -29,7 +29,7 @@ After completing the steps outlined in this section, the state of the Operationa
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [Create New Action task form](../reference/action-task-form.md).
+    For more information, see [Create New Action task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/action-task-form.md).
 
 4.  In the **Type** field, select **Assessment**.
 
@@ -55,11 +55,11 @@ After completing the steps outlined in this section, the state of the Operationa
 
     The action task is now assigned to the task owner. The example shows that the task is assigned to the user, Opres manager02.
 
-    ![Action task assigned.](../image/assigned-state-action-task.png)
+    ![Action task assigned.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assigned-state-action-task.png)
 
     An automated email notification as shown in the example is sent to the task owner to notify about the action task and review the task details.
 
-    ![Email notification.](../image/vul-email-action-task.png)
+    ![Email notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-email-action-task.png)
 
     The task owner logs in, reviews the assigned action task, and completes the next steps.
 
@@ -68,5 +68,5 @@ After completing the steps outlined in this section, the state of the Operationa
 
 The task owner then logs in, reviews the assigned action task, and creates an investigation-type action task if necessary, or directly requests for an approval for the assessment-type action task.
 
-For more information, see [Manage an investigation-type action task](update-state-of-action-task.md) and [Request an approval for the action task](request-approval-for-action-task.md).
+For more information, see [Manage an investigation-type action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-state-of-action-task.md) and [Request an approval for the action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-approval-for-action-task.md).
 

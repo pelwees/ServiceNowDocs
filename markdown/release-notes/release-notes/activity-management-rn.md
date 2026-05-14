@@ -85,5 +85,5 @@ Install CRM Outlook Add-in and CRM Touchpoints by requesting them from the Servi
     The  ServiceNow® Opportunity Management application enables your sales agents and account executives to analyze customer needs and generate product recommendations for potential customers. Create touchpoints on opportunity records to track sales activities such as demos, business value assessments, and stakeholder meetings as deals progress through the pipeline.
 
 
-**Parent Topic:**[Sales Customer Relationship Management release notes](sales-order-management-rn-landing.md)
+**Parent Topic:**[Sales Customer Relationship Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/sales-order-management-rn-landing.md)
 

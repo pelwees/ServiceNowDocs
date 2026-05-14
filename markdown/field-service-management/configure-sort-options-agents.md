@@ -92,6 +92,6 @@ Criteria to determine the agents that are displayed in the list.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    ![agent recommendation sort criteria form](../image/agent-sort-options.png)
+    ![agent recommendation sort criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/agent-sort-options.png)
 
 

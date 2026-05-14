@@ -29,7 +29,7 @@ Role required: atf\_test\_admin and atf\_test\_designer
 
     The system displays the Test Template form.
 
-3.  In the **Test Template** field, click the lock icon \(![Lock icon](../../../common/image/icon-lock.png)\).
+3.  In the **Test Template** field, click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../../../common/image/icon-lock.png)\).
 
     The Test Template field unlocks and expands to allow editing.
 
@@ -44,10 +44,10 @@ Role required: atf\_test\_admin and atf\_test\_designer
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Working with test step templates](../concept/atf-templates.md)
+**Parent Topic:**[Working with test step templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-templates.md)
 
 **Related topics**  
 
 
-[Add a predefined list of steps \(template\) to an automated test](atf-use-template.md)
+[Add a predefined list of steps \(template\) to an automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-use-template.md)
 

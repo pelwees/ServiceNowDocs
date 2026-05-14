@@ -23,6 +23,6 @@ Integrating Software Asset Management with external procurement applications hel
 
 ## Before you begin
 
--   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](../task/t_ActivateProcurement.md).
--   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](../task/install-proc-int.md).
+-   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/t_ActivateProcurement.md).
+-   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../task/install-proc-int.md).
 

@@ -73,7 +73,7 @@ Use cases:
     The domain specified for the current record drives the functionality of that record and reference fields.
 
 
-**Parent Topic:**[Continual Improvement Management overview](get-started-cim.md)
+**Parent Topic:**[Continual Improvement Management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/get-started-cim.md)
 
 **Related topics**  
 

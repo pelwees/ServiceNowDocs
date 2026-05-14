@@ -27,11 +27,11 @@ During checkout, asset managers interact with a user interface that is similar t
 
 ## Procedure
 
-1.  Complete steps 1 through 10 as described in [Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](spo-itam-submit-requests.md).
+1.  Complete steps 1 through 10 as described in [Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-submit-requests.md).
 
 2.  On the Select the preferred supplier for the following items page, select **Request items and checkout**.
 
-    ![Record producer where you enter the details for a product without contractual pricing.](../image/itam-spo-sourcing-flow.png)
+    ![Record producer where you enter the details for a product without contractual pricing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/itam-spo-sourcing-flow.png)
 
 3.  On the form, fill in the fields in these sections.
 
@@ -112,5 +112,5 @@ Select **+Add file** to add any attachments you would like to upload.
 
 The Procurement Specialist accesses the SR in the Source-to-Pay Workspace and initiates the sourcing process.
 
-**Parent Topic:**[Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](spo-itam-submit-requests.md)
+**Parent Topic:**[Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-submit-requests.md)
 

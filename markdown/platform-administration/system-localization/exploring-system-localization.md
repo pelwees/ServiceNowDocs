@@ -52,8 +52,8 @@ Display translations of base system UI string content.
 
 </td><td>
 
--   [Language internationalization support](c_LangInternationalizationSupport.md)
--   [Activate a language](../task/t_ActivateALanguage.md)
+-   [Language internationalization support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_LangInternationalizationSupport.md)
+-   [Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../task/t_ActivateALanguage.md)
 
 </td><td rowspan="3">
 
@@ -65,7 +65,7 @@ Display dates, times, and currencies in an instance based on users' locations.
 
 </td><td>
 
-[Configuring locales](c_DefineLocales.md#)
+[Configuring locales](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_DefineLocales.md#)
 
 </td></tr><tr><td>
 
@@ -73,16 +73,16 @@ Translate UI string content that you create or modify.
 
 </td><td>
 
-[Translating custom content](translating-applications.md)
+[Translating custom content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translating-applications.md)
 
 </td></tr></tbody>
 </table>## Related applications
 
--   **[Localization Framework](../../localization-framework/concept/localization-framework-landing.md)**
+-   **[Localization Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../../localization-framework/concept/localization-framework-landing.md)**
 
-    Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. Localization Framework also supports using [Dynamic Translation](../../dynamic-translation/concept/dynamic-translation-overview.md) for live translation of form fields, translating knowledge articles, and integrating with third-party translation services.
+    Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. Localization Framework also supports using [Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../../dynamic-translation/concept/dynamic-translation-overview.md) for live translation of form fields, translating knowledge articles, and integrating with third-party translation services.
 
--   **[Localization Workspace](../../localization-workspace/concept/localization-workspace.md)**
+-   **[Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../../localization-workspace/concept/localization-workspace.md)**
 
     Localization Workspace is a targeted translation management experience for content owners and translation fulfillers. With Localization Workspace you can manage and deliver multilingual content at scale.
 

@@ -17,7 +17,7 @@ Configure the trusting account whose resources need to be accessed, to rely on t
 
 -   Familiarize yourself with the Amazon documentation on [Creating a role to delegate permissions to an IAM user](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html).
 -   Decide which AWS account is going to be the trusted account. You use the trusted account to configure temporary credentials for Cloud Discovery using IAM roles. The trusted account that you use to access other accounts using IAM roles is referred to as an accessor account.
--   If you're setting up a trust chain where a member account trusts a management account, and the management account trusts an accessor account, verify that you've configured the member account to trust the management account. For more information, see [Configure access using temporary credentials for trusting AWS member accounts in management-accessor trust chain](configure-iam-role-aws-member.md).
+-   If you're setting up a trust chain where a member account trusts a management account, and the management account trusts an accessor account, verify that you've configured the member account to trust the management account. For more information, see [Configure access using temporary credentials for trusting AWS member accounts in management-accessor trust chain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/configure-iam-role-aws-member.md).
 -   Confirm that Discovery Admin Workspace is using at least version 1.10.0. The **Discovery** &gt; **Cloud Service Accounts** navigation module isn't available with earlier versions. To access **Cloud Service Accounts** with an earlier version, enter in the navigation filter: `cmdb_ci_cloud_service_account.list`.
 
 Role required:
@@ -29,7 +29,7 @@ Role required:
 
 During this configuration, you create an IAM role for the trusting account, and then configure the trusted service account for the trusting account at ServiceNow AI Platform. Finally, you associate the IAM role you created for the trusting account with the trusting account itself.
 
-![Set up the IAM role of the trusting AWS account to trust the user of the trusted AWS account for access](../image/aws-any-account-trusted-with-credentials.png "Setting up any AWS account to rely on a trusted account with AWS credentials")
+![Set up the IAM role of the trusting AWS account to trust the user of the trusted AWS account for access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aws-any-account-trusted-with-credentials.png "Setting up any AWS account to rely on a trusted account with AWS credentials")
 
 ## Procedure
 
@@ -49,7 +49,7 @@ During this configuration, you create an IAM role for the trusting account, and 
 
     5.  Set the **AWS** parameter to the full user ARN of the trusted \(accessor\) account.
 
-        ![Editing trust relationship for the trusting account.](../image/aws-edit-trust-relat-trusting-iam.png)
+        ![Editing trust relationship for the trusting account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/aws-edit-trust-relat-trusting-iam.png)
 
     6.  Verify that the **Action** value is set to **sts:AssumeRole**.
 
@@ -63,7 +63,7 @@ During this configuration, you create an IAM role for the trusting account, and 
 
     3.  On the form, fill in the fields.
 
-        For a description of the field values, see [Create AWS service accounts](create-aws-service-accounts.md).
+        For a description of the field values, see [Create AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
     4.  Select **Submit**.
 
@@ -77,7 +77,7 @@ During this configuration, you create an IAM role for the trusting account, and 
 
     4.  On the form, fill in the remaining fields.
 
-        For a description of the field values, see [Create AWS service accounts](create-aws-service-accounts.md).
+        For a description of the field values, see [Create AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
     5.  Select **Submit**.
 
@@ -167,5 +167,5 @@ Verify that ServiceNow applications can access the trusting service account usin
     -   If the connection is successful, a message displays indicating the account validation is successful.
     -   If the connection isn't successful, an error message displays indicating the cause of failure.
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/setup-aws-service-accounts.md)
 

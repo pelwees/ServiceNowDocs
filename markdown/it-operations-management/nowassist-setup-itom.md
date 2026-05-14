@@ -16,13 +16,13 @@ Now Assist setup for ITOM provides a guided experience to deploy AI-driven opera
 
 Now Assist setup for ITOM streamlines the deployment of AI-powered operations management through the Admin Home page. The IT Operations Management tile provides access to guided setup workflows that automatically install required applications and configure ITOM AIOps capabilities based on your entitlements.
 
-![Admin Home page showing the Manage your products section with cards for Core Business Suite, IT Operations Management, Customer Service Management, and Now Assist.](../image/nowassist-setup-admin-home-page.png)
+![Admin Home page showing the Manage your products section with cards for Core Business Suite, IT Operations Management, Customer Service Management, and Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/nowassist-setup-admin-home-page.png)
 
 The setup experience includes access to operational dashboards that display real-time metrics for monitoring your ITOM environment. Key indicators help track incident management, problem resolution, and overall system health as you implement AI-driven operations management.
 
-![Shared admin dashboard displaying operational metrics including open incidents, open request items, problems, compliance score, and customer actions.](../image/nowassist-setup-shared-admin-dashboard.png)
+![Shared admin dashboard displaying operational metrics including open incidents, open request items, problems, compliance score, and customer actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/nowassist-setup-shared-admin-dashboard.png)
 
 Instance information provides visibility into your ITOM setup progress, including installed applications, available entitlements, and Now Assist skill deployment status. This helps administrators track implementation milestones and verify that all required components are properly configured.
 
-![Instance information section showing upgrade status, entitled apps count, adoption blueprints, and Now Assist skill summary.](../image/nowassist-setup-instance-info.png)
+![Instance information section showing upgrade status, entitled apps count, adoption blueprints, and Now Assist skill summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/nowassist-setup-instance-info.png)
 

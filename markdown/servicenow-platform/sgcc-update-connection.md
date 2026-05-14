@@ -42,5 +42,5 @@ Role required: SGC-admin or admin
 
 ## What to do next
 
-If there are any errors and the Service Graph Connector diagnosis skill is enabled, you can diagnose the error using Now Assist. To learn more, see [Diagnose a processing error in SGC Central](sgcc-diagnose-proc-errors.md);
+If there are any errors and the Service Graph Connector diagnosis skill is enabled, you can diagnose the error using Now Assist. To learn more, see [Diagnose a processing error in SGC Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-diagnose-proc-errors.md);
 

@@ -15,7 +15,7 @@ breadcrumb: [Overview of the Finance Operations Workspace, Explore, Finance Case
 
 As a Finance Specialist \(sn\_fin\_ops.specialist\), view a summary of the important items, your performance, and recent activities on your cases.
 
-The landing page has the following components.![Finance Operations Workspace landing page.](../image/fin-ops-ws.png)
+The landing page has the following components.![Finance Operations Workspace landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-ws.png)
 
 |Component|Description|
 |---------|-----------|
@@ -29,5 +29,5 @@ The landing page has the following components.![Finance Operations Workspace lan
 |Recently updated cases|
 |My active cases|View up to five of your active cases. Select **View all** to view all your active cases. The finance cases open in the Finance Operations Workspace, while the other cases and tasks that you have access to open in the Source-to-Pay Workspace.|
 
-**Parent Topic:**[Explore the Finance Operations Workspace](fin-ops-workpace.md)
+**Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 

@@ -30,5 +30,5 @@ Custom apps support the following use cases:
 
 To install custom app functionality, contact your ServiceNow representative. This is a very manual process that needs to be discussed with ServiceNow before instance setup and configuration can be shared.
 
-**Parent Topic:**[Building and configuring in branded mobile apps](build-configure-branded.md)
+**Parent Topic:**[Building and configuring in branded mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/build-configure-branded.md)
 

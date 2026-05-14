@@ -47,7 +47,7 @@ Complete these steps from your Docusign account. See the [Docusign Developer Cen
 
 3.  Record the values of integrator key and secret key to register the app as a third-party OAuth provider on your ServiceNow instance.
 
-    You need these values when you [Register Docusign as OAuth Provider](setup-docusign-jwt.md#)
+    You need these values when you [Register Docusign as OAuth Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-jwt.md#)
 
 4.  Click **ADD RSA KEYPAIR** and record the **Keypair ID**, **Public Key**, and **Private Key**.
 
@@ -61,7 +61,7 @@ Complete these steps from your Docusign account. See the [Docusign Developer Cen
 
     4.  Under **Additional settings**, click **Add URI** and add the OAuth callback endpoint in this format: `https://<instance>.service-now.com/oauth_redirect.do`.
 
-        ![Add Redirect URI in Docusign account.](../image/docusign-add-redirect-uri.png)
+        ![Add Redirect URI in Docusign account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-add-redirect-uri.png)
 
 6.  Obtain the value of **Account Base URI** from the Docusign account.
 
@@ -69,7 +69,7 @@ Complete these steps from your Docusign account. See the [Docusign Developer Cen
 
     2.  Under **My Account Information**, you can find the value of the **Account Base URI**.
 
-        ![Account Base URI.](../image/docusign-acct-base-uri.png)
+        ![Account Base URI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-acct-base-uri.png)
 
     3.  Copy and record this value for later use.
 
@@ -90,7 +90,7 @@ Role required: admin
 
 3.  Paste the Private Key you had earlier generated from your Docusign integrator app.
 
-    For more information, see [Configure Docusign account](setup-docusign-jwt.md#).
+    For more information, see [Configure Docusign account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-jwt.md#).
 
     **Note:** Ensure that you include both beginning and ending of the private key.
 
@@ -157,7 +157,7 @@ Enable the JWT Bearer Grant token authentication by attaching a valid Java KeySt
     |Key store password|Enter a password associated with the certificate.|
     |Short description|Enter a summary about the certificate.|
 
-4.  Click the attachments icon \(![Attachments icon](../image/attachments-icon.png)\) and attach a JKS certificate.
+4.  Click the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach a JKS certificate.
 
 5.  Click **Validate Stores/Certificates**.
 
@@ -455,5 +455,5 @@ Connection URL
 
 ### What to do next
 
-Synchronize ServiceNow with Docusign to access Docusign accounts, templates, and envelopes from the Docusign spoke. See [Synchronize Docusign with ServiceNow](sync-docusign-servicenow.md).
+Synchronize ServiceNow with Docusign to access Docusign accounts, templates, and envelopes from the Docusign spoke. See [Synchronize Docusign with ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/sync-docusign-servicenow.md).
 

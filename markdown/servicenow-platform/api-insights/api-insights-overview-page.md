@@ -19,6 +19,6 @@ Depending on your role, the API Insights page on the Overview tab serves as a ce
 
 You can use the page to:
 
--   As CMDB administrators, you can administer data ingestion and align data model for your organization. See [Administering data ingestion and model alignment with API Insights](api-insights-overview-page-cmdb-admin.md).
--   As enterprise architects, you can monitor APIs while assessing overall data quality and identifying key issues like missing data elements. See [Monitoring APIs and assessing data quality with API Insights](api-insights-overview-page-architect.md).
+-   As CMDB administrators, you can administer data ingestion and align data model for your organization. See [Administering data ingestion and model alignment with API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-overview-page-cmdb-admin.md).
+-   As enterprise architects, you can monitor APIs while assessing overall data quality and identifying key issues like missing data elements. See [Monitoring APIs and assessing data quality with API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-overview-page-architect.md).
 

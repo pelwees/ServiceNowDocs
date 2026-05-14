@@ -45,5 +45,5 @@ At the end of the guided tour, select **Complete**.
 |Export snapshot|ERP Semantic Mining Configuration page|Navigate to ERP Semantic Mining and select the configuration icon.|
 |Import snapshot|ERP Semantic Mining Configuration page|Navigate to ERP Semantic Mining and select the Configuration icon.|
 
-**Parent Topic:**[Exploring ERP Semantic Mining](exploring-ecm.md)
+**Parent Topic:**[Exploring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/exploring-ecm.md)
 

@@ -17,7 +17,7 @@ Use Quick edit to make limited changes to a published template which has an asse
 
 ## Before you begin
 
--   To be able to use quick edit features, make sure that quick edit is enabled for the template’s category. For more information, refer to [Create an assessment template category](sae-asmnt-template-category-create.md).
+-   To be able to use quick edit features, make sure that quick edit is enabled for the template’s category. For more information, refer to [Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-category-create.md).
 -   Role required: sn\_smart\_asmt.template\_manager or sn\_smart\_asmt.assessment\_admin
 
 ## Procedure

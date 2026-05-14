@@ -27,7 +27,7 @@ This procedure references service definitions and products that are used in the 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from the case playbook or the Insurance claim adjuster tasks list.
 
@@ -60,7 +60,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>4.  Select the Agent assist icon \(![Graduation cap icon for Agent assist.](../../../common/image/Form_AgentAssistIcon.png)\) to use the feature.
+</table>4.  Select the Agent assist icon \(![Graduation cap icon for Agent assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../common/image/Form_AgentAssistIcon.png)\) to use the feature.
 
     For more information about Agent assist, see [Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md).
 

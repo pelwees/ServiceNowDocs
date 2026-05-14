@@ -17,7 +17,7 @@ Connect to your Harness instance using the DevOps Change Workspace playbook to d
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
 Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
@@ -49,8 +49,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\) from the primary navigation.
-2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](app-create-workspace.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\) from the primary navigation.
+2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  From the Connect to a tool modal, select the tool from the appropriate category. For example, if you want to connect to Harness as orchestration tool, you'd select Harness under the **Orchestration** category.
 
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\) from the primary navigation.
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\) from the primary navigation.
 2.  From the Capability list, select the appropriate category. For example, if you want to connect to Harness as orchestration tool, you'd select the **Orchestration** category.
 3.  Select **Connect a tool**.
 4.  On the  Connect to a tool  modal, select **Harness**.
@@ -72,7 +72,7 @@ Steps
 
 2.  In the **Tool name** field, enter a name for the tool.
 
-    ![Connect to Harness tool screen](../image/harness-workspace-01.png)
+    ![Connect to Harness tool screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-workspace-01.png)
 
 3.  Select **Next**.
 
@@ -92,7 +92,7 @@ Steps
 
     4.  Select **Connect**.
 
-        ![Connect to a tool - Enter instance details page](../image/harness-workspace-2.png)
+        ![Connect to a tool - Enter instance details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-workspace-2.png)
 
 5.  Specify the access for the tool.
 
@@ -113,7 +113,7 @@ Steps
     3.  Select **Assign**.
 6.  In the Configure webhooks manually screen, copy the ServiceNow instance connection details for Harness.
 
-    ![Configure webhooks manually screen](../image/harness-workspace-3.png)See [Configure webhooks in Harness manually](configure-webhooks-in-harness-manually.md) for more information.
+    ![Configure webhooks manually screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/harness-workspace-3.png)See [Configure webhooks in Harness manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-in-harness-manually.md) for more information.
 
 7.  Select the pipelines that you want to track and associate to the application, and select **Associate pipelines**.
 
@@ -138,7 +138,7 @@ Steps
 
 You’ve successfully onboarded your Harness tool to DevOps Change Velocity.
 
-**Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](update-third-party-tool-credentials-in-devops-change-velocity.md).
+**Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-third-party-tool-credentials-in-devops-change-velocity.md).
 
-**Parent Topic:**[Harness integration with DevOps Change Velocity](../concept/harness-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Harness integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/harness-integration-with-devops-change-velocity.md)
 

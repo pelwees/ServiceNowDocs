@@ -21,11 +21,11 @@ You must activate the localized plugins in your instance to use this feature. Fo
 
 For more information about language settings for an instance, see [Set default language for an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_GlobalLanguage.md) and [User specific language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_UserSpecificLanguage.md).
 
-For more information about creating campaigns, see [Create a Microsoft Teams campaign with content publishing](create-campaign-content-publishing-mt.md) and [Create Microsoft Teams campaigns with the Content Experience Builder](create-campaign-content-exp-builder-mt.md).
+For more information about creating campaigns, see [Create a Microsoft Teams campaign with content publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-content-publishing-mt.md) and [Create Microsoft Teams campaigns with the Content Experience Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-content-exp-builder-mt.md).
 
 For more information about scheduling and executing a job, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduledJobs.md).
 
-**Note:** The **Title**, **Subject**, and **Description** field labels in the Notification content form are translated. For more information, see [Create notification content for Microsoft Teams](../task/create-campaign-content-publish-teams-mt.md).
+**Note:** The **Title**, **Subject**, and **Description** field labels in the Notification content form are translated. For more information, see [Create notification content for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/create-campaign-content-publish-teams-mt.md).
 
-**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](create-campaign-content-publishing-mt.md)
+**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-content-publishing-mt.md)
 

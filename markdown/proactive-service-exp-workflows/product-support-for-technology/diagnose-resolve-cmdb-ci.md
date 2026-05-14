@@ -33,7 +33,7 @@ This task helps you to understand how to execute relevant preconfigured diagnost
 
 4.  Open a service that is in the New or Open state.
 
-    ![CMDB services.](../../tmt-spmc/image/diagnose-cmdb-case.png)
+    ![CMDB services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../../tmt-spmc/image/diagnose-cmdb-case.png)
 
 5.  Diagnose the service to identify the root-cause of the problem.
 
@@ -78,5 +78,5 @@ This task helps you to understand how to execute relevant preconfigured diagnost
 7.  View the service-related records in the **Related records** tab.
 
 
-**Parent Topic:**[Using Proactive Service Experience Workflows](../concept/use-assurance-workflows.md)
+**Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/use-assurance-workflows.md)
 

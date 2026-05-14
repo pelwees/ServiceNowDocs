@@ -23,13 +23,13 @@ Role required: sn\_ac.automation\_admin, sn\_ac.automation\_technical\_user
 
 1.  Navigate to **Workspaces** &gt; **Automation Center workspace**.
 
-2.  Select the list icon \(![list icon](../images/list-icon.png)\).
+2.  Select the list icon \(![list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/list-icon.png)\).
 
 3.  Open an automation request.
 
     Ensure that you have repeatable steps documented in the **Details Sequence of Steps** section of the form. This ensures that the agent can perform the tasks. If the steps are either missing or not appropriate, then an error message is displayed.
 
-    ![Details Sequence of Steps](../images/agent-detail.png)
+    ![Details Sequence of Steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/agent-detail.png)
 
 4.  Select **Create agent** from the options at the top.
 
@@ -37,7 +37,7 @@ Role required: sn\_ac.automation\_admin, sn\_ac.automation\_technical\_user
 
     The **Choose destination instance** dialog box is displayed.
 
-    ![Choose destination instance](../images/create-agent-1.png)
+    ![Choose destination instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/create-agent-1.png)
 
 5.  Choose an instance to create the agent in, and select **Continue**.
 
@@ -54,5 +54,5 @@ Role required: sn\_ac.automation\_admin, sn\_ac.automation\_technical\_user
     The agent is created for the automation request.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

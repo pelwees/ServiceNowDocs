@@ -23,7 +23,7 @@ Role required: sn\_model\_risk\_mgmt.task\_approver
 
     1.  Under My active items, select **GRC tasks**.
 
-    2.  Select **Approvals** from the My to-dos card.![GRC tasks page.](../image/grc-task-page-mrm.png)
+    2.  Select **Approvals** from the My to-dos card.![GRC tasks page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/grc-task-page-mrm.png)
 
     3.  To approve or reject model assessment tasks, select **Model assessment tasks** and open the task.
 
@@ -39,7 +39,7 @@ Role required: sn\_model\_risk\_mgmt.task\_approver
 
 3.  Select **Approve**.
 
-4.  To reject the task, select **Reject** and do the following:![Reject task dialog box.](../image/reject-task-mrm.png)
+4.  To reject the task, select **Reject** and do the following:![Reject task dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/reject-task-mrm.png)
 
     1.  Provide rejection comments.
 
@@ -48,5 +48,5 @@ Role required: sn\_model\_risk\_mgmt.task\_approver
         This action terminates the current workflow and initiates it again from the beginning.
 
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-mrm.md)
 

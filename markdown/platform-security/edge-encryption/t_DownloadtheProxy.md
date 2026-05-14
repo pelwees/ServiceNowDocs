@@ -33,7 +33,7 @@ Role required: security\_admin
 
     If manually installing the proxy server, select the OS version for your proxy server.
 
-    ![Edge Encryption proxy server download options](../images/edge-proxy-downloads.png)
+    ![Edge Encryption proxy server download options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/edge-proxy-downloads.png)
 
     **Note:** Because the proxy server requires at least 4 GB of memory to run, 32-bit JREs and 32-bit operating systems are no longer supported starting with the Washington DC release.
 
@@ -44,7 +44,7 @@ Role required: security\_admin
 
 ## What to do next
 
-After downloading the Edge Encryption installer, [Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md). If installing manually, [Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md).
+After downloading the Edge Encryption installer, [Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md). If installing manually, [Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md).
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_InstallEdgeEncryptionProxy.md)
 

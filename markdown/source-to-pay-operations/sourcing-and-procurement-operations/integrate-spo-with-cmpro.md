@@ -34,5 +34,5 @@ Role required: admin
     For more information on setting up Contract Management Pro, see [Add and configure contract request functionality into your workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-uptake-steps.md).
 
 
-**Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](../concept/integration-spo-cmpro.md)
+**Parent Topic:**[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-spo-cmpro.md)
 

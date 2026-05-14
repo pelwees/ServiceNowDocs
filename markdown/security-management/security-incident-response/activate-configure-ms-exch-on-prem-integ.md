@@ -21,7 +21,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation os complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configuration**.
 
@@ -29,7 +29,7 @@ Role required: sn\_si\_admin
 
 3.  Select **Configure**.
 
-    ![Microsoft Exchange On-Premises Configuration](../image/ms-exch-on-prem-config-new.png)
+    ![Microsoft Exchange On-Premises Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-exch-on-prem-config-new.png)
 
 4.  Fill in the fields, as needed.
 
@@ -57,11 +57,11 @@ Role required: sn\_si\_admin
     -   Select the respective MID server to add the capability.
     -   Click on the **Capabilities** related list and click **Edit**.
 
-        ![MID server capability](../image/mid-server-capability.png "MID server capability")
+        ![MID server capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mid-server-capability.png "MID server capability")
 
     -   Remove **All** and add **Microsoft Exchange Server for SecOps**.
 
-        ![Adding capability](../image/mid-server-capabilities.png)
+        ![Adding capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mid-server-capabilities.png)
 
     -   Select the **IP Ranges** from the **Related Lists** section and set the value to either **ALL** or any desired value.
     -   Select the **Supported Applications** from the **Related Lists** section and either set the value to ALL or Orchestration.

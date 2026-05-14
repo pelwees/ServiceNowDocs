@@ -48,7 +48,7 @@ Role required: evt\_mgmt\_admin
 
     The connector instance values are added to the form and the parameters that are relevant to the connector appear.
 
-    ![OMi Connector Instance Values section](../image/omi-connector-value.png)
+    ![OMi Connector Instance Values section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/omi-connector-value.png)
 
 4.  In the Connector Instance Values section, specify the OMi values.
 
@@ -96,5 +96,5 @@ Role required: evt\_mgmt\_admin
 8.  After a successful test, select the **Active** check box and then click **Update**.
 
 
-**Parent Topic:**[Configure a pull connector](t_EMConfigureConnectorInstance.md)
+**Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 

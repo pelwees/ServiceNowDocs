@@ -21,7 +21,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## About this task
 
-When you instantiate an equipment template, it creates the corresponding configuration item \(CI\) records in the equipment table. To learn more about the equipment tables, see [Equipment extension classes](../reference/equipment-extension-classes.md).
+When you instantiate an equipment template, it creates the corresponding configuration item \(CI\) records in the equipment table. To learn more about the equipment tables, see [Equipment extension classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/equipment-extension-classes.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ When you instantiate an equipment template, it creates the corresponding configu
 
 2.  Create a change request to instantiate an equipment record.
 
-    1.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **All Equipment**.
+    1.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **All Equipment**.
 
         **Note:** To create an equipments from the rack record, go to **Inventory** &gt; **Rack**and open the rack record. And then select **Create equipment** from more options menu.
 
@@ -39,7 +39,7 @@ When you instantiate an equipment template, it creates the corresponding configu
 
     4.  On the **Add equipment details** section, fill in the fields.
 
-        For a description of the field valuesTo learn more about the fields, see [Equipment form](../reference/equipment-form.md).
+        For a description of the field valuesTo learn more about the fields, see [Equipment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/equipment-form.md).
 
     5.  Select **Next**.
 
@@ -47,7 +47,7 @@ When you instantiate an equipment template, it creates the corresponding configu
 
     The equipment record is created.
 
-3.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
+3.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
 
 4.  Select the **New** button.
 
@@ -59,7 +59,7 @@ When you instantiate an equipment template, it creates the corresponding configu
 
 7.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/change_request_forms.md).
 
 8.  Select **Save**.
 
@@ -69,7 +69,7 @@ When you instantiate an equipment template, it creates the corresponding configu
 
 10. On the **Task Attribute** tab, fill in the fields.
 
-    For a description of the field values, see [Equipment task attribute form](../reference/equipment-task-attribute-form.md).
+    For a description of the field values, see [Equipment task attribute form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/equipment-task-attribute-form.md).
 
 11. Select **Submit**.
 
@@ -78,14 +78,14 @@ When you instantiate an equipment template, it creates the corresponding configu
 
 The equipment record is created along with the associated inventory records. These records are generated depending on the model relationship attached with the inventory model.
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Create an inventory template for a logical composite](../concept/creating-inventory-template-logical-composite.md)
+[Create an inventory template for a logical composite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-inventory-template-logical-composite.md)
 
-[Add an equipment or rack to logical composite](add-equipment-rack-logical-composite.md)
+[Add an equipment or rack to logical composite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-equipment-rack-logical-composite.md)
 
-[Remove an equipment or rack from logical composite](remove-equipment-rack-logical-composite.md)
+[Remove an equipment or rack from logical composite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remove-equipment-rack-logical-composite.md)
 

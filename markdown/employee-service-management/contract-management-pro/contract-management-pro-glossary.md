@@ -17,40 +17,40 @@ Learn about the terms and concepts used in Contract Management Pro.
 
 Glossary terms are grouped alphabetically.
 
-[A](contract-management-pro-glossary.md#) \| [C](contract-management-pro-glossary.md#) \| [E](contract-management-pro-glossary.md#) \| [M](contract-management-pro-glossary.md#) \| [N](contract-management-pro-glossary.md#) \| [O](contract-management-pro-glossary.md#) \| [R](contract-management-pro-glossary.md#) \| [S](contract-management-pro-glossary.md#) \| [T](contract-management-pro-glossary.md#) \| [W](contract-management-pro-glossary.md#)
+[A](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [E](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [M](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [N](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [O](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [R](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [S](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [T](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#) \| [W](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/contract-management-pro-glossary.md#)
 
-**Parent Topic:**[Contract Management Pro reference](cncore-ref.md)
+**Parent Topic:**[Contract Management Pro reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ref.md)
 
 **Related topics**  
 
 
-[Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md)
+[Components installed with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-ccore.md)
 
-[Components installed with Contract Workspace](../reference/cncore-comp-contract-workspace.md)
+[Components installed with Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-contract-workspace.md)
 
-[Components installed with Analytics Pack for Contract Management Pro](../reference/cncore-comp-analytics-pack-cmpro.md)
+[Components installed with Analytics Pack for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-analytics-pack-cmpro.md)
 
-[Contract request State and Contract document status in Contract Management Pro](../reference/cncore-cr-state-status.md)
+[Contract request State and Contract document status in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-cr-state-status.md)
 
-[Clause Variation form](../reference/cncore-cv-form.md)
+[Clause Variation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-cv-form.md)
 
-[Contract Configuration form](../reference/cncore-contract-config-form.md)
+[Contract Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-contract-config-form.md)
 
-[Properties installed to configure expiry notifications](../reference/cncore-properties-installed.md)
+[Properties installed to configure expiry notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-properties-installed.md)
 
-[Properties installed to configure contracts integrations](../reference/cncore-properties.md)
+[Properties installed to configure contracts integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-properties.md)
 
-[Expiring Contracts Condition form fields](../reference/cncore-email-notif-expcont-form.md)
+[Expiring Contracts Condition form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-email-notif-expcont-form.md)
 
-[Action assignment form](../reference/cmpro-actn-assignment-form.md)
+[Action assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-actn-assignment-form.md)
 
-[UFX Add on Event mapping form](../reference/cmpro-ufx-event-map-form.md)
+[UFX Add on Event mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-ufx-event-map-form.md)
 
-[Obligation form](../reference/cncore-obligation-form.md)
+[Obligation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-obligation-form.md)
 
-[Obligation Management notifications](../reference/cncore-ob-mgmt-notification.md)
+[Obligation Management notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-ob-mgmt-notification.md)
 
-[Contract Management solutions](../reference/cmpro-cml-feature-compare.md)
+[Contract Management solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cmpro-cml-feature-compare.md)
 
 ## A
 

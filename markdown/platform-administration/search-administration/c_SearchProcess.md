@@ -28,7 +28,7 @@ When a search is executed, the system equally divides all searchable documents a
 
 To maximize search efficiency, the system creates 10 query threads to simultaneously search each index shard.
 
-![The system divides all searchable documents among 10 index shards from Shard 0 to Shard 9.](../image/IndexShardDivsions.png "Divide documents among index shards")
+![The system divides all searchable documents among 10 index shards from Shard 0 to Shard 9.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/IndexShardDivsions.png "Divide documents among index shards")
 
 ## Phase 2: Search and filter shard documents
 
@@ -40,42 +40,42 @@ The query thread assigns each matching document a numeric value \(a document ID\
 
 ## Phase 3: Score shard documents
 
-The query thread [scores](c_DocumentScoring.md) each matching shard document.
+The query thread [scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md) each matching shard document.
 
-![The system creates 10 Query threads to search, filter, and score shard documents.](../image/IndexShardFilterAndIndex.png "Query threads search, filter, and score shard documents")
+![The system creates 10 Query threads to search, filter, and score shard documents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/IndexShardFilterAndIndex.png "Query threads search, filter, and score shard documents")
 
 ## Phase 4: Merge and sort shard document scores
 
 The system merges the document scores into a single index and sorts the documents from highest to lowest document score. The documents with the highest document score are most relevant to the search query.
 
-![Merge and sort shard document scores.](../image/IndexShardMerge.png "Merge and sort shard document scores")
+![Merge and sort shard document scores.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/IndexShardMerge.png "Merge and sort shard document scores")
 
-**Parent Topic:**[Zing text indexing and search engine](c_ZingTextSearch.md)
+**Parent Topic:**[Zing text indexing and search engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_ZingTextSearch.md)
 
 **Related topics**  
 
 
-[Features of Zing text indexing and search engine](../reference/features-zing.md)
+[Features of Zing text indexing and search engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/features-zing.md)
 
-[Available search options](c_IntroductionToSearching.md)
+[Available search options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_IntroductionToSearching.md)
 
-[Global search finds records from multiple tables](c_GlobalTextSearch.md)
+[Global search finds records from multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_GlobalTextSearch.md)
 
-[Zing filters search results with access controls](zing-filters-search-results.md)
+[Zing filters search results with access controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zing-filters-search-results.md)
 
-[Zing computes document scores using three components](c_DocumentScoring.md)
+[Zing computes document scores using three components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_DocumentScoring.md)
 
-[Zing indexes words](zing-indexes-words.md)
+[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zing-indexes-words.md)
 
-[Zing can include attachments in search results](c_SearchingForAttachments.md)
+[Zing can include attachments in search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_SearchingForAttachments.md)
 
-[Zing removes stop words from queries](stop-words-removed-from-queries.md)
+[Zing removes stop words from queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/stop-words-removed-from-queries.md)
 
-[Zing matches derived words with stemming](stemming-matches-derived-words.md)
+[Zing matches derived words with stemming](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/stemming-matches-derived-words.md)
 
-[Zing can expand search results with synonyms](search-synonyms-expand-results.md)
+[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-synonyms-expand-results.md)
 
-[Zing displays search suggestions as users enter search terms](search-suggestions-zing.md)
+[Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-suggestions-zing.md)
 
-[Installed with Zing](../reference/installed-with-zing.md)
+[Installed with Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/installed-with-zing.md)
 

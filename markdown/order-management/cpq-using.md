@@ -13,14 +13,14 @@ breadcrumb: [Configure, price, quote apps, Use, Sales Customer Relationship Mana
 
 Use ServiceNow CPQ to configure complex products, apply dynamic rules, and generate accurate quotes with speed and precision. You can understand how the CPQ experience works end-to-end—from guided configuration and real-time pricing to document generation and seamless integration with the rules engine.
 
--   **[Setting the number format of an editable field](formatted_numbers_display.md)**  
+-   **[Setting the number format of an editable field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/formatted_numbers_display.md)**  
 Learn how to create a user-editable field that maintains a specified format.
--   **[Document generation](generating_documents_with_logik_io_configuration_data.md)**  
+-   **[Document generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/generating_documents_with_logik_io_configuration_data.md)**  
 You can use third-party document generation software to output configuration data by pushing information from CPQ to Salesforce.
--   **[Use cases](use-cases.md)**  
+-   **[Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-cases.md)**  
 View a list of example use cases for CPQ.
--   **[Modify a product subscription with ramped pricing and quantities](cpq-modify-a-product-subscription-with-ramped-pricing-and-quantities.md)**  
+-   **[Modify a product subscription with ramped pricing and quantities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-modify-a-product-subscription-with-ramped-pricing-and-quantities.md)**  
 Add pricing or quantity ramps to quote line items to set incremental changes during the life of a contract.
 
-**Parent Topic:**[Using configure, price, quote applications](../../tmt-order-mgt/concept/using-cpq.md)
+**Parent Topic:**[Using configure, price, quote applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../tmt-order-mgt/concept/using-cpq.md)
 

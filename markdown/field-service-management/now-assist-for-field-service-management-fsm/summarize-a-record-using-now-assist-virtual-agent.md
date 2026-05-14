@@ -29,9 +29,9 @@ You can summarize a record by launching Ask Now Assist from the home screen and 
 
 2.  From quick actions, select **Ask Now Assist**.
 
-    For Android users, this icon appears as a plus symbol \(![plus icon](../image/mobile-plus-icon.png)\).
+    For Android users, this icon appears as a plus symbol \(![plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/mobile-plus-icon.png)\).
 
-    For iOS users this icon appears as an ellipsis symbol \(![ellipses icon](../image/ellipsis-icon.png)\)
+    For iOS users this icon appears as an ellipsis symbol \(![ellipses icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/ellipsis-icon.png)\)
 
 3.  In the Now Assist panel, type a "summarize a record" and follow the prompts.
 
@@ -42,7 +42,7 @@ You can summarize a record by launching Ask Now Assist from the home screen and 
 6.  Tap the plus icon to begin a new conversation.
 
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../concept/using-now-assist-fsm.md)
 
 ## Summarize a record directly from a work order task record using Now Assist in Virtual Agent
 

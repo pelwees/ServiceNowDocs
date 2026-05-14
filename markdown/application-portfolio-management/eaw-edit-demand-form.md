@@ -165,10 +165,10 @@ Impacted Business Applications
 One or more business applications to associate the demand with. You can select any business application in your enterprise, irrespective of it being related or not related to the capability that you’ve selected in the **Business Capabilities** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Edit a demand associated with a business application](../../task/eaw-task/eaw-edit-a-demand-associated-with-a-business-application.md)
+[Edit a demand associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-edit-a-demand-associated-with-a-business-application.md)
 

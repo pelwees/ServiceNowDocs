@@ -17,5 +17,5 @@ These diagrams show the relationships between the tables within the application 
 
 The following diagram shows the tables and their relationships within the Healthcare Operations for Healthcare IT  application.
 
-![CTO Data model diagram.](../image/cto-it-data-model-diagram.png)
+![CTO Data model diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-data-model-diagram.png)
 

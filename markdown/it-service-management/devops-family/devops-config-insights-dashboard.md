@@ -19,7 +19,7 @@ Use the DevOps Config Insights dashboard with Performance Analytics to quickly i
 
 Error thresholds are configurable and widgets are customizable \(you can rearrange or hide them\).
 
-You can filter results on applications, deployables, and by date.![DevOps Config Insights home](../image/devops-config-insights-home.png)
+You can filter results on applications, deployables, and by date.![DevOps Config Insights home](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-insights-home.png)
 
 <table id="table_jcx_kdg_wpb"><thead><tr><th>
 
@@ -70,13 +70,13 @@ Recommended actions for policies that have exceptions.
 </td></tr></tbody>
 </table>## DevOps Config Insights Open changesets
 
-![DevOps Config Insights Changesets](../image/devops-config-insights-changeset.png)
+![DevOps Config Insights Changesets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-insights-changeset.png)
 
 Review the changeset details and either make changes to the config data and commit the changeset, or discard the changeset altogether. You generally want this number to be 0 on the dashboard.
 
 ## DevOps Config Insights Failed snapshots
 
-![DevOps Config Insights snapshot](../image/devops-config-insights-snapshot.png)
+![DevOps Config Insights snapshot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-insights-snapshot.png)
 
 Investigate the snapshots and fix misconfigurations, or identify changes that need to be made to a policy. You generally want this number to be 0 on the dashboard.
 

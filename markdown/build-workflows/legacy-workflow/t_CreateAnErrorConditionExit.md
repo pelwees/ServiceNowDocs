@@ -33,8 +33,8 @@ An administrator can reroute the workflow when a script error occurs by creating
 
 6.  Connect the **Error** exit to another activity for handling the error state, such as **Notification** or **Log Message**.
 
-    ![Error handling exit](../image/ErrorHandlingExit2.png)
+    ![Error handling exit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/ErrorHandlingExit2.png)
 
 
-**Parent Topic:**[Workflow error handling](../concept/c_WorkflowErrorHandling.md)
+**Parent Topic:**[Workflow error handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../concept/c_WorkflowErrorHandling.md)
 

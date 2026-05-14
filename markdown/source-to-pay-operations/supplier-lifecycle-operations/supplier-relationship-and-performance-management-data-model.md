@@ -17,7 +17,7 @@ The following diagram shows the tables and their relationships that comprise the
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Relationship and Performance Management.
 
-![Supplier performance management data model](../image/performance-data-model.png "Supplier Relationship and Performance Management data model")
+![Supplier performance management data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/performance-data-model.png "Supplier Relationship and Performance Management data model")
 
-**Parent Topic:**[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
+**Parent Topic:**[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 

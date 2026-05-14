@@ -95,7 +95,7 @@ Description of the automation source.
 
 ## What to do next
 
-[Configure execution summary](create-exe-sum-config.md)
+[Configure execution summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-exe-sum-config.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-auto-sum-exe.md)
 

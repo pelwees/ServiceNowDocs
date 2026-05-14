@@ -49,7 +49,7 @@ You must configure two connections: Shodan and Shodan Exploit.
 
     4.  On the Shodan alias tile, select **View Details**.
 
-        ![View Details button on the Shodan alias tile.](../image/shodan-conn-template.png)
+        ![View Details button on the Shodan alias tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/shodan-conn-template.png)
 
     5.  Select **Configure**.
 
@@ -61,7 +61,7 @@ You must configure two connections: Shodan and Shodan Exploit.
         |Connection URL|URL to connect to Shodan. The default value is `https://api.shodan.io`|
         |Key|API key from your Shodan account.|
 
-        ![Shodan alias connection form.](../image/shodan-alias-conn-form.png)
+        ![Shodan alias connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/shodan-alias-conn-form.png)
 
     7.  Select **Create Connection**.
 
@@ -77,7 +77,7 @@ You must configure two connections: Shodan and Shodan Exploit.
 
     4.  On the Shodan Exploit alias tile, select **View Details**.
 
-        ![Connection template for Shodan Exploit.](../image/shodan-exploit-conn-template.png)
+        ![Connection template for Shodan Exploit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/shodan-exploit-conn-template.png)
 
     5.  Select **Configure**.
 
@@ -89,7 +89,7 @@ You must configure two connections: Shodan and Shodan Exploit.
         |Connection URL|URL to connect to Shodan. The default value is `https://api.shodan.io`|
         |Key|API key from your Shodan account.|
 
-        ![Shodan Exploit alias connection form.](../image/shodan-exploit-alias-conn-form.png)
+        ![Shodan Exploit alias connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/shodan-exploit-alias-conn-form.png)
 
     7.  Select **Create Connection**.
 

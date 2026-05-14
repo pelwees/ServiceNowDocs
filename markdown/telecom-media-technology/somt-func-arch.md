@@ -53,7 +53,7 @@ This phase covers the customer acquisition and order capture process:
 
 During this phase, Sales CRM for Telecommunications integrates with digital apps, self-care portals, account managers, product catalogs, and service feasibility systems.
 
-![Sales CRM for Telecommunications selling phase.](../image/somt-func-arch-1.jpg)
+![Sales CRM for Telecommunications selling phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/somt-func-arch-1.jpg)
 
 ## Fulfillment phase
 
@@ -65,7 +65,7 @@ After order submission, the next phase is the fulfillment process:
 
 During this phase, Sales CRM for Telecommunications coordinates with Field Service Management for Telecommunication, external inventory systems, and network activation platforms.
 
-![Sales CRM for Telecommunications fulfillment phase](../image/somt-func-arch-2.jpg)
+![Sales CRM for Telecommunications fulfillment phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/somt-func-arch-2.jpg)
 
 **Note:** Sales CRM for Telecommunications orchestrates the order management process and submits service orders to downstream activation systems but does not perform network activation or provisioning.
 

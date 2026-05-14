@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-Reduce maintenance overhead with the scheduled job or alternatively [Manage outdated connected content](may-manage-outdated-content-topics.md) manually.
+Reduce maintenance overhead with the scheduled job or alternatively [Manage outdated connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/may-manage-outdated-content-topics.md) manually.
 
 -   Run the cleanup at a regular interval with a scheduled job.
 -   Send email notifications to taxonomy admins about the cleanup.
@@ -44,11 +44,11 @@ Reduce maintenance overhead with the scheduled job or alternatively [Manage outd
 
 When the job is complete, the taxonomy admins receive the following email notification with the subject line **Cleanup of Outdated Connected Content** along with the details indicating the total items removed, if any.
 
-![Cleanup email notification](../images/outdated-cleanup-email.png "Email notification about cleanup of outdated content")
+![Cleanup email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outdated-cleanup-email.png "Email notification about cleanup of outdated content")
 
 When a category has outdated data, that data isn't associated with the topic.
 
 **Note:** When you delete, only the association with the topic and taxonomies is removed. The actual catalog item or the knowledge article is not deleted.
 
-**Parent Topic:**[Manage outdated connected content](may-manage-outdated-content-topics.md)
+**Parent Topic:**[Manage outdated connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/may-manage-outdated-content-topics.md)
 

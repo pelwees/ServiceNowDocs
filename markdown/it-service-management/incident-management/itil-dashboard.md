@@ -17,15 +17,15 @@ Use this dashboard to view, maintain, and track the tasks and incidents for oper
 
 **Important:**
 
-Starting in Xanadu release, the ITIL dashboard is deprecated. Users can use [IT Agent dashboard for Service Operations Workspace](../../../product/service-operations-workspace/concept/it-agent-dashboard-sow.md) to view, maintain, and track the tasks and incidents for operating the IT service desk.
+Starting in Xanadu release, the ITIL dashboard is deprecated. Users can use [IT Agent dashboard for Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../product/service-operations-workspace/concept/it-agent-dashboard-sow.md) to view, maintain, and track the tasks and incidents for operating the IT service desk.
 
-![ITIL Dashboard](../image/itil-dashboard-updated.png "ITIL Dashboard")
+![ITIL Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/itil-dashboard-updated.png "ITIL Dashboard")
 
 ## Access the ITIL dashboard
 
 To access the ITIL dashboard, navigate to **All** &gt; **Self-Service** &gt; **Dashboard**. On the Dashboards Overview, search for ITIL dashboard.
 
-![ITIL Dashboard Location](../image/itil-dashboard-location.png)
+![ITIL Dashboard Location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/itil-dashboard-location.png)
 
 ## End user and roles
 
@@ -40,14 +40,14 @@ The dashboard includes the following visualizations:
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Critical Tasks|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of open critical task records for which **Priority** is set to **1**.|
-|Unassigned Tasks|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of open tasks that are still not assigned.|
-|Tasks assigned to me|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of tasks assigned to the logged-user of the dashboard.|
-|Active Incidents older than 7 days|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of active incidents logged before seven days.|
-|Incident SLA Breached|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of incidents that exceed its SLA.|
-|Incident SLAs at Risk|Single score \(![Singe score icon](../../reporting/image/icon-single-score-report-p.png)\)|Total number of active incidents that have not yet exceeded an SLA but have elapsed 75% of the duration of the SLA.|
-|My Groups Work|List \(![List report icon](../../reporting/image/icon-list-report-p.png)\)|Outstanding work load \(tasks\) of the logged-in user's group.|
-|My Work|List \(![List report icon](../../reporting/image/icon-list-report-p.png)\)|The logged-in user's outstanding work load \(tasks\).|
+|Critical Tasks|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of open critical task records for which **Priority** is set to **1**.|
+|Unassigned Tasks|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of open tasks that are still not assigned.|
+|Tasks assigned to me|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of tasks assigned to the logged-user of the dashboard.|
+|Active Incidents older than 7 days|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of active incidents logged before seven days.|
+|Incident SLA Breached|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of incidents that exceed its SLA.|
+|Incident SLAs at Risk|Single score \(![Singe score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-single-score-report-p.png)\)|Total number of active incidents that have not yet exceeded an SLA but have elapsed 75% of the duration of the SLA.|
+|My Groups Work|List \(![List report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-list-report-p.png)\)|Outstanding work load \(tasks\) of the logged-in user's group.|
+|My Work|List \(![List report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../reporting/image/icon-list-report-p.png)\)|The logged-in user's outstanding work load \(tasks\).|
 
-**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](incident-content-pack.md)
+**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 

@@ -15,7 +15,7 @@ A guidance is an action that an agent can take or information that an agent can 
 
 Guidances appear as cards in the contextual side panel in a workspace. Agents can access these guidance cards by selecting the Recommended Actions icon in the contextual side panel. Agents can then perform the actions by selecting a button on a card.
 
-![Guidance cards recommending the agent to view and attach a knowledge article or attach and add the link in comment as primary action](../image/ra-attach-types.png "Recommended actions guidance cards")
+![Guidance cards recommending the agent to view and attach a knowledge article or attach and add the link in comment as primary action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-attach-types.png "Recommended actions guidance cards")
 
 Guidances include actions such as sharing a knowledge article, creating a case task or a work order, or copying the resolution notes from a similar case. For a detailed list of guidances, see the following table.
 
@@ -75,8 +75,8 @@ Default guidance for search results
 
 Default guidance that can be used for any search sources that don't have dedicated mapped guidances. For more information, see the following topics:
 
--   [Automatically map AI search results with guidance inputs](ra-configuring-ai-search-automatically.md)
--   [Default guidance for search results](ra-csm-guidances-default-guidance-search.md)
+-   [Automatically map AI search results with guidance inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search-automatically.md)
+-   [Default guidance for search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md)
 
 .
 
@@ -175,7 +175,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Attach and share article](ra-csm-guidances-attach-share-article.md)
+[Attach and share article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md)
 
 </td><td>
 
@@ -185,7 +185,7 @@ This guidance recommends knowledge articles to an agent who is working on a task
 
 </td></tr><tr><td>
 
-[Share KB in chat interactions](ra-csm-guidances-share-kb-chat.md)
+[Share KB in chat interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-share-kb-chat.md)
 
 </td><td>
 
@@ -198,10 +198,10 @@ Recommended Actions is a component that you can add to a record page in [UI Buil
 
 The Recommended Actions component includes two views: a preview view \(card view\) and a detail view \(full article view\). How these views are displayed is determined by the Recommended Actions configuration. For more information, see the following topics:
 
--   [Create a guidance in Recommended Actions](../task/ra-csm-guidances-create.md)
--   [Configure a guidance preview experience](../task/ra-csm-guidance-configure-preview.md)
--   [Customize a guidance preview experience in UI Builder](../task/customize-ra-preview-experience.md)
--   [Customize a guidance detail view in U Builder](../task/customize-ra-detail-experience.md)
+-   [Create a guidance in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/ra-csm-guidances-create.md)
+-   [Configure a guidance preview experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/ra-csm-guidance-configure-preview.md)
+-   [Customize a guidance preview experience in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/customize-ra-preview-experience.md)
+-   [Customize a guidance detail view in U Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/customize-ra-detail-experience.md)
 
 The Recommended Actions component includes **Recommended Action Specific Configuration** property. Users with the administrator role can use this property to configure the following settings:
 

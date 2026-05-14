@@ -65,7 +65,7 @@ Create a Connection record to your SCCM host machine. The SCCM spoke connection 
 ### Before you begin
 
 -   Request Integration Hub subscription
--   [Create Credential record for the SCCM spoke](set-up-sccm.md#)
+-   [Create Credential record for the SCCM spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-sccm.md#)
 -   Role required: admin
 
 ### Procedure

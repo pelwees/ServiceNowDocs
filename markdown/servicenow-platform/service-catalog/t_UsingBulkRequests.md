@@ -17,7 +17,7 @@ You can clone a request for up to 10 users on the notification list.
 
 ## Before you begin
 
-Your admin must enable cloning of requests before you can clone a request. For more information, see [Clone requests](t_EnablingBulkRequests.md).
+Your admin must enable cloning of requests before you can clone a request. For more information, see [Clone requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_EnablingBulkRequests.md).
 
 Role required: admin
 
@@ -31,10 +31,10 @@ When you clone a request that contains a multi-row variable set, the information
 
 2.  On the checkout page, enter the users for whom to copy the request, up to a maximum of 10, in the **Copy this Request for:** reference fields.
 
-    ![Cloning a request in the checkout page](../image/clone-request-checkout.png)
+    ![Cloning a request in the checkout page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/clone-request-checkout.png)
 
 3.  Click **Order Now**.
 
 
-**Parent Topic:**[Service Catalog for managers and end users](../concept/c_UsingTheServiceCatalog.md)
+**Parent Topic:**[Service Catalog for managers and end users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_UsingTheServiceCatalog.md)
 

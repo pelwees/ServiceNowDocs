@@ -33,7 +33,7 @@ To avoid creating duplicate services, do not create a new HR catalog item. Inste
 
     **Note:** To create a new record producer for the HR service, click the **Lookup** icon, and then click **New**.
 
-    ![Open the record producer for the HR service.](../image/record-producer-for-hr-service.png)
+    ![Open the record producer for the HR service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/record-producer-for-hr-service.png)
 
 4.  Fill in the fields on the form, as appropriate.
 
@@ -121,16 +121,16 @@ Expand help for all questions
 
     User criteria controls which employees can access and request the HR catalog item in the HR service catalog. To learn more about user criteria and how they are used to control access to HR catalog items, see [Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md).
 
-    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the HR criteria that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](configure-hr-service.md) for more information.
+    **Note:** User criteria applied to the HR catalog item is employee-facing only, and has no relation to the HR criteria that is used to control what HR services an HR agent can request for an employee from the **Create New Case** module. See [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md) for more information.
 
 8.  Click **Submit** or **Update** on the record producer form.
 
 9.  Click **Update** on the HR service form.
 
 
-**Parent Topic:**[HR service configuration](../concept/hr-service-configuration.md)
+**Parent Topic:**[HR service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-service-configuration.md)
 
-**Previous topic:**[Configure an HR case template](configure-hr-case-template.md)
+**Previous topic:**[Configure an HR case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-case-template.md)
 
-**Next topic:**[HR service catalog management](../concept/hr-service-catalog-management.md)
+**Next topic:**[HR service catalog management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-service-catalog-management.md)
 

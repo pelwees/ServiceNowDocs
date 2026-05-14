@@ -23,9 +23,9 @@ Configure the following before starting this task:
 -   Install the Agent Chat plugin \(com.glide.interaction.awa\).
 -   If you want to use the Profanity Filter, activate the Profanity Filter plugin \(sn\_va\_profanity\).
 -   In Advanced Work Assignment:
-    -   Configure [service channels](../../advanced-work-assignment/concept/awa-service-channels.md).
-    -   Define [work item queues](../../advanced-work-assignment/reference/awa-queues.md).
-    -   Set up [work assignments](../../advanced-work-assignment/concept/awa-assignment.md).
+    -   Configure [service channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../advanced-work-assignment/concept/awa-service-channels.md).
+    -   Define [work item queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../advanced-work-assignment/reference/awa-queues.md).
+    -   Set up [work assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../../advanced-work-assignment/concept/awa-assignment.md).
 -   [Update your Live Feed profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_UpdateYourProfile.md) to display agent names and avatars in the chat client.
 -   [Configure Agent Chat in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-va-in-sp.md)
 
@@ -192,7 +192,7 @@ Profanity detection
 
 </td><td>
 
-Select **View all** to display the Profanity Filter settings screen. This option only displays if the Profanity Filter plugin has been installed. For more information, see [Configuring the Profanity Filter settings](ac-configure-profanity-settings.md).
+Select **View all** to display the Profanity Filter settings screen. This option only displays if the Profanity Filter plugin has been installed. For more information, see [Configuring the Profanity Filter settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-profanity-settings.md).
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Select **View all** to display the Conversation History screen.
 
  Set maximum number of past conversation to display in the conversation window and apply filters to only show what is most relevant to agents based on channel type, assignment group, and more.
 
- For details on configuring the Conversation History options, see [Setting up conversation history](ac-configure-conversation-history.md).
+ For details on configuring the Conversation History options, see [Setting up conversation history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-conversation-history.md).
 
 </td></tr></tbody>
 </table><table id="table_c35_jd1_2yb"><thead><tr><th>
@@ -223,11 +223,11 @@ Quick action configurations
 
 Select **View all** to display the Quick Action Toolbar Controls screen.
 
- For details on configuring the toolbar controls, see [Setting up quick action toolbar controls](../concept/ci-quick-actions-overview.md#).
+ For details on configuring the toolbar controls, see [Setting up quick action toolbar controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../concept/ci-quick-actions-overview.md#).
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Agent Chat](../concept/ci-agent-chat-configuring.md)
+**Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../concept/ci-agent-chat-configuring.md)
 

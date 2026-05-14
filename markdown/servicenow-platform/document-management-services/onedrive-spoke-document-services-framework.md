@@ -453,5 +453,5 @@ Integration Hub uses aliases to manage connection and credential information. Us
 
 For information about setting up the spoke, see [Set up Microsoft OneDrive spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-msonedrive.md).
 
-**Parent Topic:**[Microsoft OneDrive integration with Document Services](one-drive-integration.md)
+**Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/one-drive-integration.md)
 

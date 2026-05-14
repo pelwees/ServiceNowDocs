@@ -19,14 +19,14 @@ This API provides methods that enable you to get dynamic schema values defined i
 
 See also:
 
--   [GlideDynamicAttribute - Global](../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#) — getNamespaceName\(\)
--   [GlideDynamicAttributeStore - Global](../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
+-   [GlideDynamicAttribute - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicAttribute/concept/GlideDynamicAttributeAPI.md#) — getNamespaceName\(\)
+-   [GlideDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDynamicAttributeStore/concept/GlideDynamicAttStoreAPI.md#)
     -   getDynamicNamespace\(\)
     -   setDynamicNamespace\(\)
--   [GlideElement - Global](../../GlideElement_global/concept/c_GlideElementAPI.md#) — getDynamicNamespace\(\)
--   [GlideElementDynamicAttributeStore - Global](../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#) — getDynamicNamespace\(\)
+-   [GlideElement - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElement_global/concept/c_GlideElementAPI.md#) — getDynamicNamespace\(\)
+-   [GlideElementDynamicAttributeStore - Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideElementDynamicAttributeStore/concept/GlideElementDynamicAttStoreAPI.md#) — getDynamicNamespace\(\)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideDynamicNamespace - getName\(\)
 

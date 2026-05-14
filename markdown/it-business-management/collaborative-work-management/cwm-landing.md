@@ -23,19 +23,19 @@ CWM enables planning tasks in detail, organizing unplanned work and its resource
 
 <table id="table_ww1_zz5_rzb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value of CWM](exploring-cwm.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value of CWM](exploring-cwm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up CWM](configuring-cwm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up CWM](configuring-cwm.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-community.svg)Start collaborating on work with CWM](cwm-spaces.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../../reuse/icons/brand-icons/bus-community.svg)Start collaborating on work with CWM](cwm-spaces.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about roles, tables, and system properties of CWM.](reference-cwm.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about roles, tables, and system properties of CWM.](reference-cwm.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

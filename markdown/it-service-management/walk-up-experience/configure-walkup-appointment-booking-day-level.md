@@ -149,5 +149,5 @@ Provides a preview of the appointment windows and times based on the selected st
 </table>7.  Select **Submit**.
 
 
-**Parent Topic:**[Create or modify a Walk-up Experience appointment booking service configuration](configure-walkup-appointments.md)
+**Parent Topic:**[Create or modify a Walk-up Experience appointment booking service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-walkup-appointments.md)
 

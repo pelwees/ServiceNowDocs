@@ -15,7 +15,7 @@ Allow users to switch between viewing assignment groups and territories within W
 
 ## Before you begin
 
-An administrator must [Configure Field Service Territory Planning](../concept/configuring-territory-planning-fsm.md).
+An administrator must [Configure Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/configuring-territory-planning-fsm.md).
 
 Role required: wm\_admin
 
@@ -44,9 +44,9 @@ Enable territory view by setting the technician visibility type to allow Workfor
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](../concept/configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/configuring-territory-planning-fsm.md)
 
-[Workforce system properties](../concept/workforce-system-properties.md)
+[Workforce system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/workforce-system-properties.md)
 
-[Managing agents and tasks from Workforce](../concept/using-manager-workforce.md)
+[Managing agents and tasks from Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../concept/using-manager-workforce.md)
 

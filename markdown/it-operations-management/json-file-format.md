@@ -45,5 +45,5 @@ The JSON file should contain an array of monitor objects, either directly or wra
 }
 ```
 
-**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

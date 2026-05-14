@@ -552,5 +552,5 @@ Product Visuals
 Stores visual asset records for products.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Product Catalog Management reference](product-catalog-management-reference.md)
+</table>**Parent Topic:**[Product Catalog Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product-catalog-management-reference.md)
 

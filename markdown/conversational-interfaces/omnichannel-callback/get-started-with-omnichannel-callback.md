@@ -34,7 +34,7 @@ Verify that the following applications or plugins are installed and activated fr
 -   com.glide.cs.custom.adapter
 -   com.snc.appointment\_booking
 
-For more information, see [Install Omnichannel Callback](../task/install-omnichannel-callback.md).
+For more information, see [Install Omnichannel Callback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback/../task/install-omnichannel-callback.md).
 
 </td></tr><tr><td>
 

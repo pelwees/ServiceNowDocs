@@ -37,7 +37,7 @@ Managed by
 
 </td><td>
 
-Name of the person who manages this network asset. Select the search icon \(![Search icon.](../image/search.png)\) and select a user from the listing.
+Name of the person who manages this network asset. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a user from the listing.
 
 </td></tr><tr><td>
 
@@ -143,10 +143,10 @@ Site
 Name of the network site or data center in which the process is instantiating the equipment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Create an equipment record by using design and assign](../task/create-equipment-record-design-and-assign.md)
+[Create an equipment record by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-equipment-record-design-and-assign.md)
 

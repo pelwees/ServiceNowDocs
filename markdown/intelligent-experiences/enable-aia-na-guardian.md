@@ -23,7 +23,7 @@ The Now Assist Guardian, which is a ServiceNow AI Platform capability in the Now
 
 For example, let's say that Now Assist Guardian detects an offensive message in the execution plan of an agentic workflow. When you try to trigger the plan or test it, Now Assist Guardian can step in to terminate the plan or test because it detected harmful content at the first step of the execution plan.
 
-![Offensive message is detected during the execution plan and the execution of the agentic workflow is terminated.](../image/aia-offnsv-msg-dtctn-exction-trmntn.png)
+![Offensive message is detected during the execution plan and the execution of the agentic workflow is terminated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-offnsv-msg-dtctn-exction-trmntn.png)
 
 For more information about the different guardrails, see Now Assist Guardian.
 
@@ -35,15 +35,15 @@ For more information about the different guardrails, see Now Assist Guardian.
 
         You’re directed to the Offensiveness page.
 
-        ![User being directed to the Offensiveness page when selecting the Settings in AI Agent Studio.](../image/aia-offensiveness-page-new.png)
+        ![User being directed to the Offensiveness page when selecting the Settings in AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-offensiveness-page-new.png)
 
     2.  Turn on the Offensiveness setting for AI agents by using the toggle button.
 
-        ![User turning on the Offensiveness setting for AI agents.](../image/aia-offensiveness-detection-enabled.png)
+        ![User turning on the Offensiveness setting for AI agents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-offensiveness-detection-enabled.png)
 
-    3.  Configure the detection impact by selecting the options icon \(![More options icon.](../image/options-icon.png)\) to enable the detection impact to use the following options:
+    3.  Configure the detection impact by selecting the options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/options-icon.png)\) to enable the detection impact to use the following options:
 
-        ![Options to enable detection impact.](../image/aia-offensiveness-options.png)
+        ![Options to enable detection impact.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-offensiveness-options.png)
 
         -   **Edit**: Choose the detection impact between logging or both blocking and logging.
 
@@ -62,7 +62,7 @@ For more information about the different guardrails, see Now Assist Guardian.
 
         You’re directed to the Now Assist Admin page to configure the Prompt Injection.
 
-        ![Prompt Injection page in AI Agent Studio.](../image/aia-prompt-injection-new.png)
+        ![Prompt Injection page in AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-prompt-injection-new.png)
 
         **Note:** For more information about configuring the Prompt Injection, see .
 

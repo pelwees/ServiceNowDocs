@@ -15,29 +15,29 @@ breadcrumb: [Product Catalog, Asset Management, IT Service Management]
 
 Product catalog items are hardware and software that you can track and offer in the service catalog.
 
-The product catalog is an extension of the [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md) that contains a list of available [Models](c_Models.md). Users with the catalog\_admin role can create, activate, and deactivate product catalog items.
+The product catalog is an extension of the [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md) that contains a list of available [Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md). Users with the catalog\_admin role can create, activate, and deactivate product catalog items.
 
--   **[Create a product catalog item](../task/t_CreateAProductCatalogItem.md)**  
+-   **[Create a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../task/t_CreateAProductCatalogItem.md)**  
 Create hardware and software product catalog items to include in the product catalog and the service catalog.
--   **[Activate a product catalog item](../task/t_ActivateAProductCatalogItem.md)**  
+-   **[Activate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../task/t_ActivateAProductCatalogItem.md)**  
 Activate a product catalog item to make it available in the product catalog and the service catalog.
--   **[Deactivate a product catalog item](../task/t_DeactivateAProductCatalogItem.md)**  
+-   **[Deactivate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../task/t_DeactivateAProductCatalogItem.md)**  
 Deactivate a product catalog item to remove it from the product catalog and the service catalog.
--   **[Import a Product Catalog item](../task/migrate-product-catalog-item.md)**  
+-   **[Import a Product Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../task/migrate-product-catalog-item.md)**  
 Import a hardware and software product catalog item from one ServiceNow instance to another ServiceNow instance to include it in the product catalog.
 
-**Parent Topic:**[Product Catalog](c_ProductCatalog.md)
+**Parent Topic:**[Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ProductCatalog.md)
 
 **Related topics**  
 
 
-[Components installed with Product Catalog](../reference/r_InstalledWithProductCatalog.md)
+[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../reference/r_InstalledWithProductCatalog.md)
 
-[Models](c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-[Vendor catalog items](c_ManageVendorCatalogItems.md)
+[Vendor catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ManageVendorCatalogItems.md)
 
-[Model categories](c_ModelCategories.md)
+[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ModelCategories.md)
 
-[Domain separation and Product Catalog](domain-separation-product-catalog.md)
+[Domain separation and Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/domain-separation-product-catalog.md)
 

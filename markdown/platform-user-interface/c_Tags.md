@@ -32,16 +32,16 @@ Conflicts can occur if multiple tags have the same name.
 -   If a private tag and a shared or global tag have the same name, the system appends **\[private\]** to the name of the private tag. For example, **Sample tag \[private\]**.
 -   There cannot be multiple shared or global tags with the same name. If a user attempts to create a shared or global tag with a name that is already in use, an error message appears and the system prevents the tag from being saved.
 
--   **[Administering tags](administering-tags.md#)**  
+-   **[Administering tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/administering-tags.md#)**  
 If you have an administrator role, you can configure and manage all tags, even tags created by other users. You can also configure notifications, auto-assignment, and Zing indexing for tags.
--   **[Configure Zing tag indexing for text search](../task/t_ConfZingTagIndexTextSearch.md)**  
+-   **[Configure Zing tag indexing for text search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_ConfZingTagIndexTextSearch.md)**  
 Zing text indexing is available for tags on records.
--   **[Assigning tags](c_TagAssignment.md#)**  
+-   **[Assigning tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_TagAssignment.md#)**  
 You can assign tags to records from the form or list view. You can also add tags to a homepage. Tags enable you to group and organize the items.
--   **[Editing tags](editing-tags.md#)**  
+-   **[Editing tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/editing-tags.md#)**  
 You can edit tags that you created from the list and form views, the **My Tags** module, and the Tagged Documents page. You can also merge tags from the **My Tags** module.
--   **[Using tags](using-tags.md#)**  
+-   **[Using tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/using-tags.md#)**  
 Use tags to filter records and view tagged documents. Remove a tag when it is no longer useful.
 
-**Parent Topic:**[Common UI elements](../topic/p_CommonUIElements.md)
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../topic/p_CommonUIElements.md)
 

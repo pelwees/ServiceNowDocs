@@ -17,19 +17,19 @@ Efficiently identify and resolve service problems experienced by the customers w
 
 <table id="table_t4g_gxx_tbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how service providers use CSPM](../concept/explore-spm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how service providers use CSPM](../concept/explore-spm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../concept/configuring-spm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation.](../concept/configuring-spm.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use CSPM as an agent to diagnose and resolve service problems.](../concept/using-spm.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use CSPM as an agent to diagnose and resolve service problems.](../concept/using-spm.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components installed with CSPM.](cspm-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components installed with CSPM.](cspm-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

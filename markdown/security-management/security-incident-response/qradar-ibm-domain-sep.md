@@ -39,7 +39,7 @@ Follow these steps to achieve domain separation:
 -   Replicate the IBM QRadar Process Polling Queue, the IBM QRadar Process Profiles, and the Offense Updates scheduled jobs for every domain.
 -   Change the **Run as** from the system user to the user with the `sn_si.admin` role in the respective domain and run the scheduled job.
 
-![IBM QRadar Process Polling Queue job](../image/ibm-qradar-domain-sep1.png)
+![IBM QRadar Process Polling Queue job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-domain-sep1.png)
 
 **Related topics**  
 

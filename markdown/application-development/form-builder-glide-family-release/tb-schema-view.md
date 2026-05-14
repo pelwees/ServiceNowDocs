@@ -17,11 +17,11 @@ Use **Schema** view in Table Builder to explore data relationships for your appl
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/fb-application-scope.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
     **Note:** Spreadsheet view displays by default.
 
-2.  Select **Schema** from the additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\) to access Schema view.
+2.  Select **Schema** from the additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\) to access Schema view.
 
 3.  Navigate through the schema diagram by dragging the canvas with your mouse.
 
@@ -41,9 +41,9 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 </td><td>
 
-Select the **Overview toggle** icon \(![Overview toggle icon.](../image/icn-us2-schemaview-overview.png)\) in the lower right corner to toggle the navigational overview controls on or off. This navigational control enables you to perform the following actions:-   When the schema diagram is zoomed in, you can drag the rectangle showing your view around by clicking and dragging it to focus it on the part of the diagram you want to review.
--   Select the **Zoom in** icon \(![Zoom in icon.](../image/icn-us2-schemaview-zin.png)\) to zoom in.
--   Select the **Zoom out** icon \( ![Zoom out icon.](../image/icn-us2-schemaview-zout.png)\) to zoom out.
+Select the **Overview toggle** icon \(![Overview toggle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-schemaview-overview.png)\) in the lower right corner to toggle the navigational overview controls on or off. This navigational control enables you to perform the following actions:-   When the schema diagram is zoomed in, you can drag the rectangle showing your view around by clicking and dragging it to focus it on the part of the diagram you want to review.
+-   Select the **Zoom in** icon \(![Zoom in icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-schemaview-zin.png)\) to zoom in.
+-   Select the **Zoom out** icon \( ![Zoom out icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-schemaview-zout.png)\) to zoom out.
 
 
 </td></tr><tr><td id="d235968e210">
@@ -108,7 +108,7 @@ Select **View legends** to view information for interpreting the displayed schem
 
 </td><td>
 
-Select the **Additional options** icon \(![Additional options icon.](../image/icn-us2-schemaview-addloption.png)\) for a table to control how fields in the selected table are displayed, grouped, and/or sorted similar to the top-level options described above.
+Select the **Additional options** icon \(![Additional options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-schemaview-addloption.png)\) for a table to control how fields in the selected table are displayed, grouped, and/or sorted similar to the top-level options described above.
 
 </td></tr><tr><td id="d235968e340">
 
@@ -116,9 +116,9 @@ Select the **Additional options** icon \(![Additional options icon.](../image/ic
 
 </td><td>
 
-Select the **View Table** icon \(![Navigate to Table Builder icon.](../image/icn-us2-schemaview-navtotb.png)\) to view the selected table in Table Builder.
+Select the **View Table** icon \(![Navigate to Table Builder icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-schemaview-navtotb.png)\) to view the selected table in Table Builder.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/table-builder.md)
 

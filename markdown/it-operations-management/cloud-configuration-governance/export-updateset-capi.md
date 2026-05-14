@@ -36,9 +36,9 @@ Package the cloud API as an update set. Then export the update set from its curr
 
 2.  Export the cloud API.
 
-    1.  Click the Export Cloud API icon \(![Export Cloud API icon](../image/export-resource-block.png)\) for the cloud API to export.
+    1.  Click the Export Cloud API icon \(![Export Cloud API icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/export-resource-block.png)\) for the cloud API to export.
 
-        ![Cloud API Exporter window](../image/capi-exporter.png "The Cloud API Exporter window")
+        ![Cloud API Exporter window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-exporter.png "The Cloud API Exporter window")
 
     2.  In the Cloud API Exporter window, click an object in the Type column.
 
@@ -52,7 +52,7 @@ Package the cloud API as an update set. Then export the update set from its curr
 
         The Cloud API Exporter window opens with the **Success** check box selected in green indicating that the cloud API has been successfully exported along with all its dependencies. By default, all the files listed under Exported Update Se\(t\)s get downloaded onto your system automatically.
 
-        ![Cloud API Exporter success window](../image/capi-export-success.png)
+        ![Cloud API Exporter success window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-export-success.png)
 
         **Note:** The number of update sets created is based on the scope of records that are being exported. For example, assume the cloud API that you are exporting has 100 records in all: 60 records are in scope one, 20 records are in scope two, and the remaining 20 records are in scope three. In such a scenario, three update sets are created. One update set for each scope.
 

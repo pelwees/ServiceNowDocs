@@ -17,7 +17,7 @@ View the details of a knowledge article in Agent Workspace.
 
 The knowledge article view page in Agent Workspace provides several details about a displayed article.
 
-![Knowledge article view page in Agent Workspace](../image/article-view-page-workspace.png "Sample knowledge article view page in Agent Workspace")
+![Knowledge article view page in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/article-view-page-workspace.png "Sample knowledge article view page in Agent Workspace")
 
 <table id="table_tjh_2r4_jjb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Number of views
 
 </td><td>
 
-Number of times the knowledge article was viewed in the past number of days set by your system administrator in the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](../reference/r_KnowledgeProperties.md#).
+Number of times the knowledge article was viewed in the past number of days set by your system administrator in the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#).
 
 </td></tr><tr><td>
 
@@ -130,11 +130,11 @@ List of article attachments. This field appears if the knowledge administrator h
 </table>**Related topics**  
 
 
-[View a knowledge article in Agent Workspace](../task/view-article-agent.md)
+[View a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/view-article-agent.md)
 
-[Create a knowledge article in Agent Workspace](../task/create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/create-article-workspace.md)
 
-[Edit a knowledge article in Agent Workspace](../task/edit-article-workspace.md)
+[Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/edit-article-workspace.md)
 
-[Publish a knowledge article in Agent Workspace](../task/publish-knowledge-article-workspace.md)
+[Publish a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/publish-knowledge-article-workspace.md)
 

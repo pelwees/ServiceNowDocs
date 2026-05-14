@@ -70,17 +70,17 @@ The conference call details of Microsoft Teams meetings are stored in the Notify
 </td></tr></tbody>
 </table>2.  Install the Field Service Management Virtual Conferencing Integration application.
 
-    For more information, see [Install Field Service Management Virtual Conferencing Integration](install-virtual-conferencing-fsm.md).
+    For more information, see [Install Field Service Management Virtual Conferencing Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/install-virtual-conferencing-fsm.md).
 
 3.  Add the **Conferences** related list to the work order task form.
 
     If the related list does not already appear, right-click the **Work Order Task** form header and select **Configure** &gt; **Related Lists**. Use the dual listbox to add the Conferences-&gt;Work Order Task related list.
 
-    **Note:** You must personalize the Conferences related list to get detailed information about the conference recordings for work order tasks. For more information, see [Customize the display of conference recording information](personalize-conference-list.md).
+    **Note:** You must personalize the Conferences related list to get detailed information about the conference recordings for work order tasks. For more information, see [Customize the display of conference recording information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/personalize-conference-list.md).
 
 
--   **[Customize the display of conference recording information](personalize-conference-list.md)**  
+-   **[Customize the display of conference recording information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/personalize-conference-list.md)**  
 Customize the Conferences related list to display specific information about conference recordings for work order tasks.
 
-**Parent Topic:**[Integration with Virtual Conferencing](../concept/virtual-conference-integration-fsm.md)
+**Parent Topic:**[Integration with Virtual Conferencing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../concept/virtual-conference-integration-fsm.md)
 

@@ -50,7 +50,7 @@ When you log out of the ServiceNow® instance, the message **Disconnected** appe
 
     The confirmation message appears in the browser extension: **Connected**.
 
-    ![The browser extension, installed and connected to a ServiceNow instance.](../../../administer/now-assist-web-agents/image/na-ai-wa-install-browser-extension-connectedZ.png "Connected browser extension")
+    ![The browser extension, installed and connected to a ServiceNow instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-install-browser-extension-connectedZ.png "Connected browser extension")
 
     Verify that you're connected to the ServiceNow® instance that has at least one AI agent that uses one or more adaptive desktop actions.
 
@@ -61,7 +61,7 @@ When you log out of the ServiceNow® instance, the message **Disconnected** appe
 
 ## What to do next
 
-After installing the browser extension, configure websites that AI agents can access for automating web tasks. For detailed instructions, see [Configure allowed websites for adaptive desktop actions](na-ai-wa-configure-allowed-websites.md).
+After installing the browser extension, configure websites that AI agents can access for automating web tasks. For detailed instructions, see [Configure allowed websites for adaptive desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-configure-allowed-websites.md).
 
-**Parent Topic:**[Configuration for adaptive path desktop actions](../concept/ad-adaptive-path-da.md)
+**Parent Topic:**[Configuration for adaptive path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/ad-adaptive-path-da.md)
 

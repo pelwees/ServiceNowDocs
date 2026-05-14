@@ -81,7 +81,7 @@ The Mastercard Spoke provides actions to simplify card dispute resolution. Avail
     |Look up Claim Details by Claim ID Request Builder|Retrieves and parses detailed information about a specific claim and its associated cases.|
     |Look up Claim Details by Claim ID Response Parser|
 
-    The following example illustrates the solution overview when it integrates with a Tokenization solution: ![Tokenization solution overview.](../image/spoke-mastercard-flow.jpg)
+    The following example illustrates the solution overview when it integrates with a Tokenization solution: ![Tokenization solution overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/spoke-mastercard-flow.jpg)
 
 -   **Actions with non-sensitive information** - You can directly invoke these Mastercom APIs from your ServiceNow instance.
 
@@ -265,5 +265,5 @@ Retrieves the status of the Mastercom API suite.
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up Mastercard spoke](../task/set-up-mastercard-spoke.md#)
+For information about setting up the spoke, see [Set up Mastercard spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/set-up-mastercard-spoke.md#)
 

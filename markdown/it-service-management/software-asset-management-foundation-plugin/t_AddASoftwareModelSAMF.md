@@ -57,7 +57,7 @@ Publisher
 
 Publisher of the software. You can use the lookup list provided.**Note:** Publisher is a reference to the company \[core\_company\]. Only companies you are using internally are shown.
 
- If the publisher and product do not exist, you can [Add a Software Asset Management Foundation plugin custom license metric](add-custom-license-metric-samf.md).
+ If the publisher and product do not exist, you can [Add a Software Asset Management Foundation plugin custom license metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/add-custom-license-metric-samf.md).
 
 </td></tr><tr><td>
 
@@ -345,15 +345,15 @@ Risk
 
 
 </td></tr></tbody>
-</table>    2.  [Create a SAM Foundation entitlement](t_AddASoftwareEntitlementSAMF.md).
+</table>    2.  [Create a SAM Foundation entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareEntitlementSAMF.md).
 
-    3.  [View Software Asset Management Foundation plugin software model results in classic](t_ViewSWModelResultsSAMF.md).
+    3.  [View Software Asset Management Foundation plugin software model results in classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_ViewSWModelResultsSAMF.md).
 
         The latest software model results are shown in the Software Model Results related list.
 
     4.  In the Metric Attributes related list, click a metric attribute to set the attribute value field \(see table for field descriptions\).
 
-        The Metric Attributes related list contains metric values set in [software entitlements](t_AddASoftwareEntitlementSAMF.md) and is used for reconciliation \(metric group, license metric, and software model combination\).
+        The Metric Attributes related list contains metric values set in [software entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareEntitlementSAMF.md) and is used for reconciliation \(metric group, license metric, and software model combination\).
 
 <table id="table_zql_nkm_11b"><thead><tr><th>
 
@@ -427,8 +427,8 @@ Attribute value is unlimited
 Check box for setting the attribute as unlimited.
 
 </td></tr></tbody>
-</table>    5.  [Create a vendor catalog item](../../product-catalog/task/t_CreateAVendorCatalogItem.md).
+</table>    5.  [Create a vendor catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../../product-catalog/task/t_CreateAVendorCatalogItem.md).
 
 
-**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](../concept/samf-plugin-configuration.md)
+**Parent Topic:**[Configuring the classic Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../concept/samf-plugin-configuration.md)
 

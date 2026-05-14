@@ -31,10 +31,10 @@ A virtual node is connected to other nodes with a virtual link. A virtual link d
 
 Also, when using the node menu option **Load More**, virtual grouping is not applied at the newly loaded level even the criteria for virtual grouping is met.
 
-![An expanded virtual group displays its nodes and its child nodes.](../image/VGCollapsedandExpanded.png "An expanded virtual group")
+![An expanded virtual group displays its nodes and its child nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/VGCollapsedandExpanded.png "An expanded virtual group")
 
 **Related topics**  
 
 
-[Properties for Dependency Views](../reference/properties-dependency-views.md)
+[Properties for Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../reference/properties-dependency-views.md)
 

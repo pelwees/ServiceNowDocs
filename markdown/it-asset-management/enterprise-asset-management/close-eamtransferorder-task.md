@@ -51,5 +51,5 @@ Closing a transfer order line task completes the task and creates the next task 
     Once you close the Delivered task, the transfer order line is completed.
 
 
-**Parent Topic:**[Create a transfer order in Enterprise Asset Workspace](create-eam-transferorder.md)
+**Parent Topic:**[Create a transfer order in Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-transferorder.md)
 

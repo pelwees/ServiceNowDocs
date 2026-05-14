@@ -83,7 +83,7 @@ MID Web Server Extension
 
 </td><td>
 
-Specify and then start the MID Web Server extension. The supported authentication methods are listed in the **Authentication Type** field of the MID Web Server extension. For information about how to configure a MID Web Server extension, see [Configure the MID Web Server](configure-mid-web-server-extension.md).
+Specify and then start the MID Web Server extension. The supported authentication methods are listed in the **Authentication Type** field of the MID Web Server extension. For information about how to configure a MID Web Server extension, see [Configure the MID Web Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md).
 
 </td></tr><tr><td>
 
@@ -225,11 +225,11 @@ curl --location -g --request POST 'http://{MID_Server_IP}:{MID_Web_Server_Port}/
 **Related topics**  
 
 
-[Configure the MID Web Server extension](configure-mid-web-server-extension.md)
+[Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md)
 
-[Event collection from BMC TrueSight](event-collection-BMCTrueSight.md)
+[Event collection from BMC TrueSight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-collection-BMCTrueSight.md)
 
-[Event collection from Microsoft Azure Monitor](event-collection-MicrosoftAzure.md)
+[Event collection from Microsoft Azure Monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-collection-MicrosoftAzure.md)
 
-[Event collection from Google Cloud Platform](event-collection-GCP.md)
+[Event collection from Google Cloud Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-collection-GCP.md)
 

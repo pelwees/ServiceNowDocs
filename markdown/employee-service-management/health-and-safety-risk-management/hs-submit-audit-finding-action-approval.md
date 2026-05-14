@@ -23,7 +23,7 @@ Before you can submit for approval, you must add at least one person to the **Pe
 -   **Actions approver** to approve audit actions
 -   **Audit approver** or **Results approver** to approve the safety audit
 
-For more information, see [Add people involved in a safety audit](hs-add-people-involved-safety-audit.md).
+For more information, see [Add people involved in a safety audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-add-people-involved-safety-audit.md).
 
 Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.safety\_audit\_writer
 
@@ -41,7 +41,7 @@ States of a record when submitted for approval:
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  In the **Audits** list, select **All**.
 
@@ -91,5 +91,5 @@ The approvers can respond to the submitted record from the Employee Center.
 -   When all approvers respond, the state of the submitted record updates to Approved or Rejected and the **Close audit** button appears for it.
 -   Select **Close audit** to complete and close the audit. If all objectives in this audit are complete, the audit moves to the Closed complete state.
 
-**Parent Topic:**[Create and manage a safety audit](hs-create-manage-safety-audit-workspace.md)
+**Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 

@@ -18,7 +18,7 @@ Update source table configurations so that you can customize the roadmap view in
 
 ## Before you begin
 
-[Install Portfolio Planning](install-portfolio-planning.md).
+[Install Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/install-portfolio-planning.md).
 
 Role required: sn\_roadmap\_plng.roadmap\_admin or sn\_align\_core.apw\_admin
 
@@ -34,10 +34,10 @@ For the source tables that you use to create your portfolio plans or free-form r
 
 3.  Edit the required fields.
 
-    For field information, see [Portfolio plan configuration form](../../alignment-planner-workspace/reference/portfolio-plan-configuration-form.md).
+    For field information, see [Portfolio plan configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/reference/portfolio-plan-configuration-form.md).
 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](../concept/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
+**Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
 

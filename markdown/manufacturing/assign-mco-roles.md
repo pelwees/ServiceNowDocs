@@ -27,5 +27,5 @@ Role required: admin or sn\_mfg\_cmn.manufacturing\_operations\_admin
 **Related topics**  
 
 
-[Explore Manufacturing Commercial Operations](manufacturing-explore.md)
+[Explore Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-explore.md)
 

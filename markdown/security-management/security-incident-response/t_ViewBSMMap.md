@@ -30,15 +30,15 @@ There are two methods you can use to view the BSM map for a CI:
 
 ## Procedure
 
-1.  From the Security Incident form, populate the **Configuration item** field, and click the BSM map icon \(![Show CI map](../image/ShowCIMap.png)\).
+1.  From the Security Incident form, populate the **Configuration item** field, and click the BSM map icon \(![Show CI map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ShowCIMap.png)\).
 
     The BSM map screen displays the map for the last incident you accessed in Incident Management or the last security incident you accessed in Security Incident Management.
 
-    ![BSM map](../image/BSMMap.png)
+    ![BSM map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/BSMMap.png)
 
 2.  Click the icons next to a configuration item to view different kinds of details about the resource \(server, desktop, or other CI\).
 
-    For example, click \(![Alert icon](../image/AlertIcon.png)\) to view alerts associated with the CI.
+    For example, click \(![Alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/AlertIcon.png)\) to view alerts associated with the CI.
 
     **Note:** To view a list of all the available icons, click **Filters** above the BSM map and expand **Filter Task Types**.
 

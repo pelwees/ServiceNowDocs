@@ -23,11 +23,11 @@ Action
 
 </th></tr></thead><tbody><tr><td>
 
-![TinyMCE v6.8.2 Table menu](../image/TinyMCEV6-tablemenu.png "Table menu")
+![TinyMCE v6.8.2 Table menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-tablemenu.png "Table menu")
 
 </td><td>
 
-Select the table icon \(![TinyMCE v6.8.3 Table](../image/TinyMCEV6-table_icon.png)\) to access the TinyMCE version 6.8.3 table menu. Use the table menu to:-   Insert or delete a table
+Select the table icon \(![TinyMCE v6.8.3 Table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-table_icon.png)\) to access the TinyMCE version 6.8.3 table menu. Use the table menu to:-   Insert or delete a table
 -   Modify table properties
 -   Add, move, or delete rows and columns
 -   Modify row and column properties
@@ -35,7 +35,7 @@ Select the table icon \(![TinyMCE v6.8.3 Table](../image/TinyMCEV6-table_icon.pn
 
 </td></tr><tr><td>
 
-![TinyMCE v6.8.2 Table insert grid](../image/TinyMCEV6-insert-table-grid.png "Table insert grid")
+![TinyMCE v6.8.2 Table insert grid](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-insert-table-grid.png "Table insert grid")
 
 </td><td>
 
@@ -45,7 +45,7 @@ To insert a table in the HTML field, select **Insert table** and highlight squar
 
 </td></tr><tr><td>
 
-![TinyMCE v6.8.2 Table of contents](../image/TinyMCEV6-tableofcontents_icon.png "Table of Contents")
+![TinyMCE v6.8.2 Table of contents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-tableofcontents_icon.png "Table of Contents")
 
 </td><td>
 
@@ -53,7 +53,7 @@ The Table of Contents plugin generates a basic table of contents \(ToC\) and ins
 
 </td></tr><tr><td>
 
-![TinyMCE v6.8.2 Table properties](../image/TinyMCEV6-tableprops.png "Table properties")
+![TinyMCE v6.8.2 Table properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-tableprops.png "Table properties")
 
 </td><td>
 
@@ -69,7 +69,7 @@ From the table menu, select the **Table properties** button to open the Table pr
 
 </td></tr><tr><td>
 
-![TinyMCE v6.8.2 Cell properties menu](../image/TinyMCEV6-cellprops.png "Cell properties")
+![TinyMCE v6.8.2 Cell properties menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-cellprops.png "Cell properties")
 
 </td><td>
 
@@ -84,7 +84,7 @@ With the cursor in the desired table cell, open the table menu and select **Cell
 
 </td></tr><tr><td>
 
-![TinyMCE v6.8.2 Row properties menu](../image/TinyMCEV6-rowprops.png "Row properties")
+![TinyMCE v6.8.2 Row properties menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV6-rowprops.png "Row properties")
 
 </td><td>
 

@@ -38,14 +38,14 @@ Due to the high level of traffic to the table, you cannot audit the Alert table 
 
 The `Event Management - auto close alerts` script runs automatically and repeatedly at the scheduled time and closes alerts that meet the specified conditions.
 
-**Parent Topic:**[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+**Parent Topic:**[Rotate event and alert table for cleanup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/rotate-tables-purge-data.md)
 
 **Related topics**  
 
 
-[Rotate event and alert table for cleanup](../concept/rotate-tables-purge-data.md)
+[Rotate event and alert table for cleanup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/rotate-tables-purge-data.md)
 
-[Modify event table rotation](event-table-rotation.md)
+[Modify event table rotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-table-rotation.md)
 
-[Purge impact status and alert history](t_EMConfigurePurge.md)
+[Purge impact status and alert history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigurePurge.md)
 

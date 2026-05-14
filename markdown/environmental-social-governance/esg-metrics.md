@@ -37,7 +37,7 @@ You want to measure the metrics for Scope 3 Emissions for the following categori
 
 On the other hand, the metrics for the purchased goods are collected automatically based on the specified conditions method, schedule, and core property in the metric definition. The metric collection process is illustrated in the following image.
 
-![Define a metric.](../image/define-a-metric.png "Define a metric")
+![Define a metric.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../image/define-a-metric.png "Define a metric")
 
 ## Metric data by entity
 

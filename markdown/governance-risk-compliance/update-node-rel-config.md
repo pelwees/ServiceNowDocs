@@ -25,25 +25,25 @@ Role required: sn\_oper\_res.admin
 
     The following example shows the Main node configurations available in the instance.
 
-    ![List.](../image/service-to-dep-from-list.png)
+    ![List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/service-to-dep-from-list.png)
 
 3.  To add a Node relationship configuration, select **New** in the Node relationship configurations related list.
 
     The Node relationship configuration form is displayed.
 
-    ![Record.](../image/node-rel-config-new-record.png)
+    ![Record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-config-new-record.png)
 
-    For description of the fields in the Node relationship configuration form, see [Node relationship configuration form](../reference/node-relationship-configuration-form.md).
+    For description of the fields in the Node relationship configuration form, see [Node relationship configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/node-relationship-configuration-form.md).
 
     You can set up these relationship registries by creating a Relationship Registry record in the Relationship Registries module. The Relationship Registry new record form is shown in the example.
 
-    ![Rel registry record.](../../grc-common/image/rela-registry-record-new.png)
+    ![Rel registry record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/image/rela-registry-record-new.png)
 
-    For the description of the fields in the Relationship registry form, see [Relationship registry record form](../reference/rel-registry-record-form.md).
+    For the description of the fields in the Relationship registry form, see [Relationship registry record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/rel-registry-record-form.md).
 
 4.  Select the table of your choice in the **Source table** field in the **Source** tab.
 
-    ![Source table.](../image/node-rel-src-table.png)
+    ![Source table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-src-table.png)
 
     By default, the system auto-selects the table listed in the Main configuration record, the Service \[cmdb\_ci\_service\] table in this example. You can choose the auto-suggested table or a different table as per your requirements.
 
@@ -53,13 +53,13 @@ Role required: sn\_oper\_res.admin
 
     1.  Select the **Search** icon and select the Relationship registry record from the available list.
 
-        ![Relationship tab.](../image/node-rel-conf-rel-tab.png)
+        ![Relationship tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-conf-rel-tab.png)
 
         Selecting the search icon shows the out-of-the-box Relationship registries that have Service as the source table. You can select a Relationship registry from the list.
 
     2.  To select a new registry record instead of choosing a record from the out-of-the-box list, select **New**.
 
-        ![New relationship registry.](../image/node-rel-conf-rel-tab-new.png)
+        ![New relationship registry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-conf-rel-tab-new.png)
 
         You can create a new registry record if the out-of-the-box options do not meet your needs.
 
@@ -87,17 +87,17 @@ Role required: sn\_oper\_res.admin
 
         The table name is populated in the **Relationship** field.
 
-        ![Table.](../image/rel-reg-table.png)
+        ![Table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rel-reg-table.png)
 
     7.  Select **Submit**.
 
         You have configured the Source table and Relationship registry.
 
-        ![Registry.](../image/rel-tab-rel-registry.png)
+        ![Registry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rel-tab-rel-registry.png)
 
         To select the target table, configure the Target section in the Node relationship configuration record in the next step.
 
-        ![Target fields.](../image/node-rel-target-fields.png)
+        ![Target fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-target-fields.png)
 
 6.  Configure the **Target** tab.
 
@@ -121,7 +121,7 @@ For non-m2m tables, in the **Target** tab, select **Sys ID** as the **Target ref
 
 This is valid for One-to-one and One-to-many types.
 
-![Target.](../image/node-rel-target.png)
+![Target.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-rel-target.png)
 
 </td></tr><tr><td id="d212464e373">
 
@@ -131,7 +131,7 @@ This is valid for One-to-one and One-to-many types.
 
 If the Relationship table is an m2m table, select **Sys ID** in the **Target reference field** and then in **Target table**, select the same table as the **Relationship table**.
 
-![One-to-many.](../image/one-to-many.png)For One-to-many, the relationship shows the list of tables that has source table as a reference field.
+![One-to-many.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/one-to-many.png)For One-to-many, the relationship shows the list of tables that has source table as a reference field.
 
 </td></tr><tr><td id="d212464e402">
 
@@ -139,7 +139,7 @@ If the Relationship table is an m2m table, select **Sys ID** in the **Target ref
 
 </td><td>
 
-For Many-to-many, the **Relationship** field shows the list of m2m tables in which the source table is referred. Notice that for Many-to-many, you have to select the field from the drop-down that you want as output. For example, \[cmdb\_rel\_ci\] table has **Parent** \(cmdb\_ci\) and **Child** \(cmdb\_ci\) fields. If you want to find the child service, you can select **Child**.![Many-to-many.](../image/many-to-many.png)
+For Many-to-many, the **Relationship** field shows the list of m2m tables in which the source table is referred. Notice that for Many-to-many, you have to select the field from the drop-down that you want as output. For example, \[cmdb\_rel\_ci\] table has **Parent** \(cmdb\_ci\) and **Child** \(cmdb\_ci\) fields. If you want to find the child service, you can select **Child**.![Many-to-many.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/many-to-many.png)
 
 </td></tr><tr><td id="d212464e431">
 
@@ -149,13 +149,13 @@ For Many-to-many, the **Relationship** field shows the list of m2m tables in whi
 
 For the Scripted relationship, you can select the record from sys\_relationship. You can define the relationship via script.
 
-![Script.](../image/scripted.png)![Updated script.](../image/scripted-2.png)As you can see, the **Applies to** table has to be as same as the **Table** field from the previous screen. Here the value in **Table** field is \[cmdb\_ci\_service\_business\] but in the **Relationship** field, it is \[cmdb\_ci\_service\]. This configuration works because the \[cmdb\_ci\_service\_business\] table extends to the \[cmdb\_ci\_service\] table.
+![Script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/scripted.png)![Updated script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/scripted-2.png)As you can see, the **Applies to** table has to be as same as the **Table** field from the previous screen. Here the value in **Table** field is \[cmdb\_ci\_service\_business\] but in the **Relationship** field, it is \[cmdb\_ci\_service\]. This configuration works because the \[cmdb\_ci\_service\_business\] table extends to the \[cmdb\_ci\_service\] table.
 
 </td></tr></tbody>
 </table>7.  Select **Submit**.
 
     The Node relationship configuration for the Main configuration record is now updated. The example shows the Node relationship configuration for the **Service to Dependencies** Main configuration record.
 
-    ![Services to Dependencies.](../image/ser-to-dep-main-node-config.png)
+    ![Services to Dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ser-to-dep-main-node-config.png)
 
 

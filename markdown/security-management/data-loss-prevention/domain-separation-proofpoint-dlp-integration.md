@@ -26,5 +26,5 @@ Follow these steps to achieve domain separation:
 -   Create a user with the required role in the respective domain.
 -   Perform the Proofpoint DLP integration procedures in the appropriate domain.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](dlp-incident-response-integration-proofpoint.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-proofpoint.md)
 

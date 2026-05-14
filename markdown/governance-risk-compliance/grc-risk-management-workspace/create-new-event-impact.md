@@ -137,7 +137,7 @@ Brief description of the impact.
 
 -   **Create or edit a new risk**
 
-    Creating or editing a new risk for an event is useful for future prediction of risks. The information obtained from the risks is useful for scoring and reporting. For more information, see [Create a risk manually](t_CreateRisk.md).
+    Creating or editing a new risk for an event is useful for future prediction of risks. The information obtained from the risks is useful for scoring and reporting. For more information, see [Create a risk manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_CreateRisk.md).
 
 -   **Link new control to risks**
 
@@ -145,8 +145,8 @@ Brief description of the impact.
 
     **Note:** Only those risks and controls that are tagged to the impacted entity can be related to this risk event.
 
-    For more information, see [Create a control](../../grc-policy-and-compliance/task/t_CreateAControl.md).
+    For more information, see [Create a control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-policy-and-compliance/task/t_CreateAControl.md).
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-risk-events.md)
 

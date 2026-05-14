@@ -28,5 +28,5 @@ Accept-Encoding: gzip
 
 ```
 
-**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SOAPWebService.md)
 

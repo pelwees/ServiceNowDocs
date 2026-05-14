@@ -66,7 +66,7 @@ Activate and configure all Now Assist for EA skills from the Now Assist Admin co
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -94,7 +94,7 @@ Configure skill availability conditions \(always available or custom conditions\
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -122,7 +122,7 @@ Configure role-based access to individual skills
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -150,7 +150,7 @@ Define and configure custom parameters for the business application insights pro
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -178,7 +178,7 @@ Activate and configure conversational experience skills for registering business
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -206,7 +206,7 @@ Configure Query Generation skills \(Analytics query generation and Analytics hid
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -238,7 +238,7 @@ Activate and configure AI Data Explorer skills \(Analytics exploration, Explorat
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -266,7 +266,7 @@ Configure AI Search for dashboard insight generation
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -331,7 +331,7 @@ Generate a Now Assist summary of an ADR document from the Artifact content tab
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -359,7 +359,7 @@ Elaborate selected text in an ADR document
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -387,7 +387,7 @@ Shorten selected text in an ADR document
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -415,7 +415,7 @@ Summarize selected text in an ADR document
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -443,7 +443,7 @@ Use the Refine button to further elaborate or shorten generated content
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -471,7 +471,7 @@ Insert generated content into the ADR record; copy generated summary text
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -503,7 +503,7 @@ Use the ADR summarization skill
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -560,7 +560,7 @@ Generate insights from the business application details page
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -588,7 +588,7 @@ Generate context-aware insights from the Business Portfolio page \(capability co
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -616,7 +616,7 @@ Generate context-aware insights from the Application Rationalization bubble char
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -644,7 +644,7 @@ Generate context-aware insights from the Application Rationalization list view \
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -672,7 +672,7 @@ View insights in a side panel wherever business application details are shown
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -700,7 +700,7 @@ Refresh generated insights after updating business application data
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -728,7 +728,7 @@ Provide thumbs up or thumbs down feedback on generated insights
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -789,11 +789,11 @@ Select two diagram versions to compare from the Compare versions pop-up window
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -817,11 +817,11 @@ View the AI-generated executive summary of changes between two diagram versions
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -845,11 +845,11 @@ View a breakdown of shapes, entities, and relationships that have been added, mo
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -873,11 +873,11 @@ View visual canvas highlights \(new shapes and lines in green, modified in yello
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -901,11 +901,11 @@ Change the diagram versions and regenerate the comparison summary
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -929,11 +929,11 @@ Refresh the summary after changing the primary diagram version
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -957,11 +957,11 @@ Copy the generated change summary; provide helpful or not helpful feedback
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -1018,7 +1018,7 @@ Elaborate or shorten text in the Description field of a business application
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -1046,7 +1046,7 @@ Elaborate or shorten text in the Description field of a business capability, bus
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -1074,7 +1074,7 @@ Generate reasoning content for the Reasoning field \(Planned Disposition section
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -1102,7 +1102,7 @@ Elaborate or shorten existing text in the Reasoning field
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
@@ -1163,15 +1163,15 @@ Use the Explore with AI icon on any supported dashboard widget to open the AI Da
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1191,15 +1191,15 @@ Ask natural language questions about data from a single dashboard widget
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1219,15 +1219,15 @@ Perform trend analysis queries \(for example, how application counts changed ove
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1247,15 +1247,15 @@ Perform comparative queries \(for example, application counts across different t
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1275,15 +1275,15 @@ Perform specific metric queries \(for example, which application family is most 
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1303,15 +1303,15 @@ Use Standard analysis or Extended analysis mode
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1331,15 +1331,15 @@ Add the widget data to an exploration for Now Assist to generate its own insight
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1359,15 +1359,15 @@ Define a goal to improve the quality of generated insights; ask follow-up questi
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1387,15 +1387,15 @@ Summarize generated insights; share, duplicate, or delete generated insights
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td align="center">
 
-![Yes](../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/eaw-image/icon-check-mark-green.png)
 
 </td><td>
 
@@ -1575,18 +1575,18 @@ Review and modify the auto-populated form fields before submission
 No role required.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)
+</table>**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../task/configure-now-assist-ea.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Enterprise Architecture \(EA\)](../task/configure-now-assist-ea.md)
+[Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../task/configure-now-assist-ea.md)
 
-[Configure AI Data Explorer and Query Generation skills](../task/configure-ai-data-explr-qry-genr-skills.md)
+[Configure AI Data Explorer and Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../task/configure-ai-data-explr-qry-genr-skills.md)
 
-[Now Assist for Enterprise Architecture \(EA\)](../concept/now-assist-ea.md)
+[Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/now-assist-ea.md)
 
-[Enterprise Architecture Workspace access roles](../../application-portfolio-management/reference/eaw-reference/eaw-access-roles.md)
+[Enterprise Architecture Workspace access roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/reference/eaw-reference/eaw-access-roles.md)
 
-[Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow](../concept/now-assist-aiagents-ea-diagramming-usecase.md)
+[Enterprise Architecture AI agent generate enterprise architecture diagram agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/now-assist-aiagents-ea-diagramming-usecase.md)
 

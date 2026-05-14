@@ -17,7 +17,7 @@ The Threat Intelligence Security Center objects home page consists of the follow
 
 Use or navigate to these following sections and learn more about each SDOs in detail.
 
-![TISC Objects home page view](../image/tisc-home-page-view.png)
+![TISC Objects home page view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-home-page-view.png)
 
 <table id="table_rdn_qc2_4yb"><thead><tr><th>
 
@@ -191,22 +191,22 @@ Use this search function to search for the source records across multiple source
 -   Once the records are filtered and listed, you can click on the list view which will take you to the respective record in a new tab.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat Intelligence Security Center Library](threat-intelligence-security-center-library.md)
+</table>**Parent Topic:**[Threat Intelligence Security Center Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/understanding-the-data-model.md)
 
-[TISC Library Repository](tisc-ioc.md)
+[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](../task/tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-delete-lib-records.md)
 
-[Export intelligence data](../task/tisc-export-observables.md)
+[Export intelligence data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-export-observables.md)
 
-[Confirm Potential Relationships from Related Records](../task/confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/confirm-potential-relationships.md)
 
-[Automated Correlation](automated-correlation-rules.md)
+[Automated Correlation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/automated-correlation-rules.md)
 

@@ -37,5 +37,5 @@ Get an overview of how you can add skills manually or the ones recommended using
 
 Workforce Optimization for ITSM Skill Recommendation
 
-For detailed instructions on setting up and using Coaching for Workforce Optimization for ITSM, see [Coaching](setup-coaching-configurable-workforce-optimization-itsm.md).
+For detailed instructions on setting up and using Coaching for Workforce Optimization for ITSM, see [Coaching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-coaching-configurable-workforce-optimization-itsm.md).
 

@@ -28,7 +28,7 @@ The following items are installed with the Sales Cart plugin \(sn\_sales\_cart\)
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Sales Cart](../reference/components-installed-with-sales-cart-plugin.md).
+For more information, see [Components installed with Sales Cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/components-installed-with-sales-cart-plugin.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Components installed with Sales Cart](../reference/co
 
 ## What to do next
 
-A sample logo is applied to the sales cart PDF by default. To customize and add your logo, see [Add a logo to the sales cart PDF](add-logo-sales-cart-pdf.md).
+A sample logo is applied to the sales cart PDF by default. To customize and add your logo, see [Add a logo to the sales cart PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/add-logo-sales-cart-pdf.md).
 

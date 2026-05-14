@@ -92,12 +92,12 @@ Location/jurisdiction
 Location where the event occurred. For example, office site, department area, or customer environment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Report a compliance case anonymously](../task/report-compliance-case-anonymously.md)
+</table>**Parent Topic:**[Report a compliance case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/report-compliance-case-anonymously.md)
 
 **Related topics**  
 
 
-[Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md)
+[Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../../grc-common/concept/grc-anonymous-reporting-center.md)
 
-[Report a compliance case anonymously](../task/report-compliance-case-anonymously.md)
+[Report a compliance case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/report-compliance-case-anonymously.md)
 

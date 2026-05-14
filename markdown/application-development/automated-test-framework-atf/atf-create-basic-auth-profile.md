@@ -44,5 +44,5 @@ The user name and password must be valid credentials on the instance where the t
 9.  Click **Submit**.
 
 
-**Parent Topic:**[Administering REST test step configurations](../concept/atf-administer-rest.md)
+**Parent Topic:**[Administering REST test step configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-administer-rest.md)
 

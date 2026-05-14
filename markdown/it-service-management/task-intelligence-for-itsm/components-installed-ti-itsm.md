@@ -229,5 +229,5 @@ Task Intelligence Admin Console \[com.sn\_ti\_admin\]
 Enables you to setup, manage, and monitor incident prediction models that help categorize incidents.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Task Intelligence for ITSM reference](task-intelligence-itsm-reference.md)
+</table>**Parent Topic:**[Task Intelligence for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/task-intelligence-itsm-reference.md)
 

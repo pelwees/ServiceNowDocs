@@ -70,7 +70,7 @@ Use this example to see demonstrations of these operations and steps.
 
 8.  Configure the action input with these values.
 
-    ![Create an action input that stores a role record.](../images/array-strings-config-inputs.png)
+    ![Create an action input that stores a role record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-inputs.png)
 
     |Field|Value|
     |-----|-----|
@@ -86,7 +86,7 @@ Use this example to see demonstrations of these operations and steps.
 
 11. Configure the step with these values.
 
-    ![Configure the Look Up Records step condition to use the role input variable.](../images/array-strings-config-look-up-records-step.png)
+    ![Configure the Look Up Records step condition to use the role input variable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-look-up-records-step.png)
 
 <table id="table_cvp_l5p_lhb"><thead><tr><th>
 
@@ -149,7 +149,7 @@ Max Results
 
 15. Configure the input variable with these values.
 
-    ![Configure the Script step input variable to use the User Role records data pill from the Look Up Records step.](../images/array-strings-config-script-step-input-variable.png)
+    ![Configure the Script step input variable to use the User Role records data pill from the Look Up Records step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-script-step-input-variable.png)
 
 <table id="table_uby_5zp_lhb"><thead><tr><th>
 
@@ -201,7 +201,7 @@ Value
 
 18. Configure the output variable with these values.
 
-    ![Create an array of strings called users. Within the array create a string variable called user.](../images/array-strings-config-script-step-output-variable.png)
+    ![Create an array of strings called users. Within the array create a string variable called user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-script-step-output-variable.png)
 
     |Label|Name|Type|Mandatory|
     |-----|----|----|---------|
@@ -219,7 +219,7 @@ Value
 
 22. Configure the Action Output with these values.
 
-    ![Create an action output called users to store an array of strings.](../images/array-strings-config-outputs.png)
+    ![Create an action output called users to store an array of strings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-outputs.png)
 
     |Label|Name|Type|Mandatory|
     |-----|----|----|---------|
@@ -239,7 +239,7 @@ Value
 
 26. For **users**, select **\[step-&gt;Script step-&gt;users\]**.
 
-    ![Configure the action output variable to use the users data pill from the Script step.](../images/array-strings-config-outputs-users.png)
+    ![Configure the action output variable to use the users data pill from the Script step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-config-outputs-users.png)
 
     **Note:** You can select the Script step **users** data pill from the data panel or from the Data Pill Picker button.
 
@@ -251,7 +251,7 @@ Value
 
 29. Enter the following test value:
 
-    ![Select the admin role to test your action.](../images/array-strings-test-action-role.png)
+    ![Select the admin role to test your action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-test-action-role.png)
 
     |Input|Value|
     |-----|-----|
@@ -267,7 +267,7 @@ Value
 
 32. Review the runtime value for the action Output data.
 
-    ![Execution details page listing three user names in the users array.](../images/array-strings-execution-details.png)
+    ![Execution details page listing three user names in the users array.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-execution-details.png)
 
     The system displays output data in JSON format.
 
@@ -293,5 +293,5 @@ You have a custom action that looks up the Users who have a given role and conve
 
 Customize this action to use your own logic.
 
-**Parent Topic:**[Script support for complex data](../concept/script-support-complex-data.md)
+**Parent Topic:**[Script support for complex data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/script-support-complex-data.md)
 

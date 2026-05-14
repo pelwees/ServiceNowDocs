@@ -23,7 +23,7 @@ Another example of a server-side suite is the Microsoft Core Infrastructure Serv
 
 For any software model, you can specify whether the model is a suite \(parent\) or a component \(child\). A software model can be a component in multiple suites. For example, Microsoft Word is a component in two suites: Microsoft Office Standard and Microsoft Office Professional. Although you can set a single software model as both a suite and a component, software isn’t typically sold as nested suites.
 
-Whenever a software model is automatically created as part of a scheduled job, its child components are automatically created and appear in the [Suite Components](../reference/software-model-fields.md#section_bdp_kmc_xhb) section.
+Whenever a software model is automatically created as part of a scheduled job, its child components are automatically created and appear in the [Suite Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_bdp_kmc_xhb) section.
 
 Use the **Inference percent** or **Inference number** and **Mandatory** fields when the suite parent isn’t defined in the install table.
 
@@ -54,5 +54,5 @@ Software Asset Management supports hybrid and subscription-based software suites
 -   If only the child component of a suite parent is subscription-based, then the instances of that child component aren’t inferred as part of the suite parent. You can determine your license compliance using the child component license.
 -   If both the suite parent and child components are subscription-based, then the instances of the child components are inferred as part of the suite parent. You can determine your license compliance using the suite parent license. For example, Microsoft 365 E5 is a subscription-based software suite that consists of the Office 365 E5, EMS E5, and Windows 10 subscription software. Because both the suite parent and child components are subscription-based, they’re reconciled against the Microsoft 365 E5 parent license.
 
-**Parent Topic:**[Software Asset Management software suites](software-suites.md)
+**Parent Topic:**[Software Asset Management software suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 

@@ -19,15 +19,15 @@ The Service Graph Workspace is an efficient, central, and modernized way for you
 
 <table id="table_vnd_cmf_3cc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the different views in Service Graph Workspace and how to use each to perform your assigned tasks.](exploring-sg-workspace.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the different views in Service Graph Workspace and how to use each to perform your assigned tasks.](exploring-sg-workspace.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Setup and configure Service Graph Workspace.](configuring-sg-workspace.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-sdlc.svg)Setup and configure Service Graph Workspace.](configuring-sg-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information about components such as properties, and class-specific criteria for the Cloud vs Non-cloud resources chart.](reference-sg-workspace.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-learn.svg)Additional information about components such as properties, and class-specific criteria for the Cloud vs Non-cloud resources chart.](reference-sg-workspace.md)
 
 </td></tr></tbody>
 </table>

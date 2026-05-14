@@ -19,15 +19,15 @@ When you purchase subscriptions in a bundle, you receive an equal number of subs
 
 **Note:** You can only purchase one bundle at a time.
 
-![Subscriptions window displaying subscriptions purchased by bundle.](../image/itom-license-summary-bundle-only.png "Subscriptions window displaying subscriptions purchased by bundle")
+![Subscriptions window displaying subscriptions purchased by bundle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-summary-bundle-only.png "Subscriptions window displaying subscriptions purchased by bundle")
 
 Bundle subscriptions are specific to certain applications. You cannot utilize bundle subscriptions for other applications, even if those applications are part of the same bundle. For instance, if you've purchased a bundle of 500 units covering ITOM Visibility and ITOM AIOps, and you've used all 500 ITOM Visibility subscription units, you cannot utilize the remaining ITOM AIOps subscription units for ITOM Visibility.
 
 The consumption level of the bundle is determined by the highest usage among the products included in the bundle.
 
-![Diagram displays automatic adjustment of bundle to actual consumption level.](../image/itom-license-bundle-only-diagram.png "Automatic adjustment of bundle to actual consumption level")
+![Diagram displays automatic adjustment of bundle to actual consumption level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-bundle-only-diagram.png "Automatic adjustment of bundle to actual consumption level")
 
 The Subscriptions window displays the actual number of consumed subscriptions under **Allocated**. The red color code indicates that the bundle is overdrawn.
 
-![Subscriptions window showing overdraft on subscriptions purchased by bundle.](../image/itom-license-summary-bundle-overdraft.png "Subscriptions window showing overdraft on subscriptions purchased by bundle")
+![Subscriptions window showing overdraft on subscriptions purchased by bundle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/itom-license-summary-bundle-overdraft.png "Subscriptions window showing overdraft on subscriptions purchased by bundle")
 

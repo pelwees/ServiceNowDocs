@@ -26,10 +26,10 @@ Learn about the fields on the Create new document template form of the Project W
 |Is dynamic|Option to insert dynamic project data in the status reports created using this template.|
 |Attachments|Attachments to the template.|
 
-**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
 **Related topics**  
 
 
-[Create a status report template in Project Workspace](../task/create-a-status-report-template-project-workspace.md)
+[Create a status report template in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../task/create-a-status-report-template-project-workspace.md)
 

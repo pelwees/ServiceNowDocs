@@ -56,7 +56,7 @@ The job is saved and the form displays options to schedule the job or execute it
 
 ## What to do next
 
-[Preview affected records for deletion](preview-affected-records-for-deletion.md).
+[Preview affected records for deletion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/preview-affected-records-for-deletion.md).
 
-**Parent Topic:**[Deleting records safely in Core UI](../concept/deleting-records-safely.md)
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/deleting-records-safely.md)
 

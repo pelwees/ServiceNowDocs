@@ -126,12 +126,12 @@ Percentage increase or decrease in the price of the renewed contract. A negative
 
 If you selected the **Save** option, ensure that you select **Renew** when you’re ready to submit the contract renewal for approval.
 
-**Parent Topic:**[Manage workplace contracts from Core UI](../concept/manage-contracts-from-core-ui.md)
+**Parent Topic:**[Manage workplace contracts from Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-core-ui.md)
 
 **Related topics**  
 
 
-[Adjust workplace contract in Core UI](adjust-lease-contract.md)
+[Adjust workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/adjust-lease-contract.md)
 
-[Cancel workplace contract in Core UI](cancel-lease-contract.md)
+[Cancel workplace contract in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/cancel-lease-contract.md)
 

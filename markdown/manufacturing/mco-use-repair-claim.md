@@ -15,16 +15,16 @@ The Agents workspace enables the OEMs to create, view, review, and approve the r
 
 |Tasks|Description|
 |-----|-----------|
-|[Create a repair claim](mco-create-repair-claim.md)|Create repair claim case.|
-|[View a repair claim case](../task/mco-view-repair-cc.md)|View the required repair claim cases.|
-|[Reviewing and approving repair claims](mco-approve-repair-claims.md)|Different types of approval.|
+|[Create a repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md)|Create repair claim case.|
+|[View a repair claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-view-repair-cc.md)|View the required repair claim cases.|
+|[Reviewing and approving repair claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-repair-claims.md)|Different types of approval.|
 
--   **[Create a repair claim](mco-create-repair-claim.md)**  
+-   **[Create a repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md)**  
 Create a repair claim for the products under warranty or recall.
--   **[View a repair claim case](../task/mco-view-repair-cc.md)**  
+-   **[View a repair claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-view-repair-cc.md)**  
 View the repair claim cases.
--   **[Reviewing and approving repair claims](mco-approve-repair-claims.md)**  
+-   **[Reviewing and approving repair claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-repair-claims.md)**  
 Agents portal or workspace enables you to review and approve the claims submitted by a dealer.
 
-**Parent Topic:**[Agent management](mco-agent-management.md)
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 

@@ -374,9 +374,9 @@ Define outsourcing criteria so that cases matching the criteria are visible to t
 **Related topics**  
 
 
-[Outsourced Service Provider agent tasks](osp-agent-tasks.md)
+[Outsourced Service Provider agent tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/osp-agent-tasks.md)
 
-[Outsourced Service Provider manager tasks](osp-manager-tasks.md)
+[Outsourced Service Provider manager tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/osp-manager-tasks.md)
 
 ## Configure the Performance Analytics for the Outsourced Customer Service
 
@@ -406,7 +406,7 @@ Role required: pa\_admin
 
     1.  Filter the indicator sources on the dashboard name.
 
-        This screenshot shows the indicator sources filtered on the Outsourced Service Provider dashboard from the Self-Service Analytics for CSM Platform Analytics Solution.![The Indicator source for Outsourced Service Provider dashboard.](../image/osp-indicator-dashboard.jpg)
+        This screenshot shows the indicator sources filtered on the Outsourced Service Provider dashboard from the Self-Service Analytics for CSM Platform Analytics Solution.![The Indicator source for Outsourced Service Provider dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/osp-indicator-dashboard.jpg)
 
     2.  Review the facts table, conditions, and frequency of the indicator sources compared to the data structure on your own instance.
 

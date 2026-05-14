@@ -45,7 +45,7 @@ When you select the **Action Payload Definition** in the field decorator, it act
 |searchFields|\["field":"consumer","name":"Consumer","filter":"LIKE","val":"","field":"name","name":"Name","filter":"LIKE","val":""\]|
 |listTitle|Select an account|
 
-![Example FSO Look Up Client action.](../image/fso-look-up-client-action.png)
+![Example FSO Look Up Client action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-look-up-client-action.png)
 
-**Parent Topic:**[Financial Services Remote Tables](financialservices-remote-tables.md)
+**Parent Topic:**[Financial Services Remote Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financialservices-remote-tables.md)
 

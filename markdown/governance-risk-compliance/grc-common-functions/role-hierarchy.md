@@ -30,7 +30,7 @@ The role hierarchy node map displays the child relationships of a user. If a use
 
 The following illustration shows a sample node map for user Cary Mccamey. Cary has the roles sn\_compliance\_ws.corporate\_compliance\_analyst, and sn\_compliance.manager. The sn\_compliance\_ws.corporate\_compliance\_analyst role contains the sn\_compliance.user and sn\_audit.user roles. Selecting the count on each node expands it further.
 
-![Role hierarchy of a sample user, Cary Maccamey](../image/role-hierarchy-nodemap.png)
+![Role hierarchy of a sample user, Cary Maccamey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/role-hierarchy-nodemap.png)
 
-**Parent Topic:**[GRC licensing summary dashboard](grc-licensing-summary-dashboard.md)
+**Parent Topic:**[GRC licensing summary dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-licensing-summary-dashboard.md)
 

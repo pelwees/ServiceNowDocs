@@ -24,5 +24,5 @@ You can choose to make the following task types available in your own organizati
 -   Mark When Complete: Enables agents to assign a task that contains fulfillment instructions as rich text descriptions. An employee can show that a task is complete by clicking the **Mark complete** button.
 -   URL: Enables you to specify a URL that will be displayed in the task assigned to the user.
 
-**Parent Topic:**[Exploring Universal Task](explore-universal-task.md)
+**Parent Topic:**[Exploring Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/explore-universal-task.md)
 

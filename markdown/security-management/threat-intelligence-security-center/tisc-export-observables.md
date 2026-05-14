@@ -40,7 +40,7 @@ Currently, the export functionality is limited to observables, indicators, and c
     -   If the selection exceeds 10,000 records, then an error message displays indicating that the maximum limit for the selected format type has been surpassed, and only the first 10,000 records will be exported.
     -   If the export format is CSV and the record limit is exceeded, an alert message is displayed indicating that the export is **in progress** state, along with a link to view the export status. You can click the link to view the status, and refresh the record. Once it moves to **processed** state you can download the attachment.
 
-        **Note:** When you export records in STIX 2.1 format Traffic Light Protocol \(TLP\) definitions applied to the intelligence object are included in the export as TLP 2.0 marking definition objects. For more information, see [Define Marking Definition](define-market-definition.md).
+        **Note:** When you export records in STIX 2.1 format Traffic Light Protocol \(TLP\) definitions applied to the intelligence object are included in the export as TLP 2.0 marking definition objects. For more information, see [Define Marking Definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-market-definition.md).
 
 5.  Select **Export**.
 
@@ -49,22 +49,22 @@ Currently, the export functionality is limited to observables, indicators, and c
     A confirmation message indicating that the export is successful and your download is complete displays.
 
 
-**Parent Topic:**[Threat Intelligence Security Center Library](../concept/threat-intelligence-security-center-library.md)
+**Parent Topic:**[Threat Intelligence Security Center Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/understanding-the-data-model.md)
 
-[TISC Library Objects form view](../concept/tisc-library-home-page-view.md)
+[TISC Library Objects form view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-library-home-page-view.md)
 
-[TISC Library Repository](../concept/tisc-ioc.md)
+[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-delete-lib-records.md)
 
-[Confirm Potential Relationships from Related Records](confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md)
 
-[Automated Correlation](../concept/automated-correlation-rules.md)
+[Automated Correlation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/automated-correlation-rules.md)
 

@@ -45,23 +45,23 @@ Role required: admin.
 
 -   **Assign knowledge roles to users and groups**
 
-    Determine which [Knowledge Management roles](r_KnowledgeRoles.md#) are appropriate for each user, and then [assign those roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md) .
+    Determine which [Knowledge Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeRoles.md#) are appropriate for each user, and then [assign those roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_AssignARoleToAUser.md) .
 
 -   **Create custom Knowledge workflows**
 
-    If the default [knowledge workflows](r_KnowledgeWorkflows.md#) for publishing and retiring knowledge articles are not appropriate for your knowledge bases, create custom [workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md) for those knowledge bases.
+    If the default [knowledge workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md#) for publishing and retiring knowledge articles are not appropriate for your knowledge bases, create custom [workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_WorkflowOverview.md) for those knowledge bases.
 
 -   **Configure Knowledge properties**
 
-    If the default [knowledge properties](r_KnowledgeProperties.md#) do not fulfill the requirements of users, reconfigure the properties as necessary.
+    If the default [knowledge properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md#) do not fulfill the requirements of users, reconfigure the properties as necessary.
 
 -   **Activate support for other languages besides English**
 
-    If languages other than English must be supported, activate the [Knowledge Management Internationalization](../concept/c_I18NKMInternational.md) plugins.
+    If languages other than English must be supported, activate the [Knowledge Management Internationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/c_I18NKMInternational.md) plugins.
 
 -   **Coordinate with knowledge managers for knowledge base setup**
 
-    Let knowledge managers and administrators know that they can start configuring their knowledge bases. For details, refer them to the [Knowledge base setup guide for knowledge admins and managers](set-up-knowledge-admin-user.md).
+    Let knowledge managers and administrators know that they can start configuring their knowledge bases. For details, refer them to the [Knowledge base setup guide for knowledge admins and managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/set-up-knowledge-admin-user.md).
 
 
 ## Next steps
@@ -74,5 +74,5 @@ Knowledge Management guided setup provides a sequence of tasks that help you con
 
 For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 

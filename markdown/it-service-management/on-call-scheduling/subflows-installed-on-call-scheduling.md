@@ -66,5 +66,5 @@ Starting from the Zurich release, the following subflows are available instead o
 
 **Note:** All the flows and channel information related to notifications channels including the primary, secondary channel, user preferences are placed inside the On-call Send Notifications subflow. This subflow is invoked to send notifications to the on-call members or user groups.
 
-**Parent Topic:**[On-Call Scheduling subflows](on-call-scheduling-subflows-overview.md)
+**Parent Topic:**[On-Call Scheduling subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/on-call-scheduling-subflows-overview.md)
 

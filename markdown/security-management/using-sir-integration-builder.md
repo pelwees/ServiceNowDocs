@@ -13,8 +13,8 @@ breadcrumb: [LLM-powered SIR integration builder, Security Operations]
 
 Add new integrations and use the existing integrations in SIR Workspace.
 
--   [Add a integration](../task/add-a-new-integration.md)
--   [Verify capabilities in ServiceNow Studio](../task/verify-capabilities.md)
--   [Use capabilities in SIR Workspace](../task/use-capabilities-sir-workspace.md)
--   [Edit an integration](edit-an-integration-sir.md)
+-   [Add a integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/add-a-new-integration.md)
+-   [Verify capabilities in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/verify-capabilities.md)
+-   [Use capabilities in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/use-capabilities-sir-workspace.md)
+-   [Edit an integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/edit-an-integration-sir.md)
 

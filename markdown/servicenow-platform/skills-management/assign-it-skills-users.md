@@ -67,5 +67,5 @@ The skill level for the skill is assigned to the user. You can also select an ex
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Assigning and Managing skills](../concept/manage-skills.md)
+**Parent Topic:**[Assigning and Managing skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../concept/manage-skills.md)
 

@@ -72,10 +72,10 @@ The collector authenticates using a Fivetran API key. The API key owner must hav
 
 See the [Fivetran role-based access control documentation](https://fivetran.com/docs/getting-started/fivetran-dashboard/account-management/role-based-access-control#rolesinourrbacmodel) for details on API keys and permissions.
 
--   **[Prepare to run the Fivetran collector](../task/prepare-to-run-fivetran-collector.md)**  
+-   **[Prepare to run the Fivetran collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-fivetran-collector.md)**  
 Create a Fivetran API key before running the collector.
--   **[Create a Fivetran metadata collector](../task/create-fivetran-metadata-collector.md)**  
+-   **[Create a Fivetran metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-fivetran-metadata-collector.md)**  
 Create a collector to import metadata from Fivetran.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

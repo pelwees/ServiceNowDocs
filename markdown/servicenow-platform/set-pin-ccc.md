@@ -17,7 +17,7 @@ If the **Require authentication** field is set to **true** for an operation hand
 
 **Important:** It is applicable for both ServiceNow Voice for ITSM and ServiceNow Voice for CSM applications.
 
-**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
 ## Reset the phone PIN for a caller
 

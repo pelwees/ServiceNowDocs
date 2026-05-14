@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields, see [Alert correlation rule form](../reference/alert-correlation-rule-form.md).
+    For information on the fields, see [Alert correlation rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/alert-correlation-rule-form.md).
 
 4.  Select **Submit**.
 

@@ -21,7 +21,7 @@ Role required: admin
 
 This task needs the following:
 
--   A JWT key created for Card Data Security. See [Set up a JWT key](set-up-a-jwt-key.md) for more information.
+-   A JWT key created for Card Data Security. See [Set up a JWT key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-key.md) for more information.
 -   The credentials JSON file obtained from the tokenizer service.
 
 ## Procedure
@@ -67,5 +67,5 @@ A JWT provider record is created with updated claim values.
 
 ## What to do next
 
-[Set up an OAuth Provider](set-up-an-oauth-provider.md).
+[Set up an OAuth Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-an-oauth-provider.md).
 

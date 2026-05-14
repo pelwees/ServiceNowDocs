@@ -43,8 +43,8 @@ Role required: sam\_user
 
 4.  Select **Save**.
 
-    The new consumption rule appears in the Consumption rules list view. You must [link this rule](link-consumption-rules.md) to one or many entitlements.
+    The new consumption rule appears in the Consumption rules list view. You must [link this rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/link-consumption-rules.md) to one or many entitlements.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

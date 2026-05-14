@@ -19,7 +19,7 @@ After vibe coding or developing an application with Build Agent or Now Assist fo
 
 If you're a developer who's new to vibe coding and AI-assisted development, ServiceNow Studio provides a more abstracted approach to code refinement compared to ServiceNow IDE.
 
-For documentation on using Build Agent in ServiceNow Studio, see [Build Agent in ServiceNow Studio](../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
+For documentation on using Build Agent in ServiceNow Studio, see [Build Agent in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/concept/build-agent-in-servicenow-studio.md).
 
 ## ServiceNow Studio workflow
 
@@ -54,5 +54,5 @@ To review and refine your vibe-coded app from Build Agent in ServiceNow Studio, 
 1.  ServiceNow IDE: Best for file‑centric, code‑heavy edits, rapid iteration, and pairing with the ServiceNow SDK for local dev/CI. Suitable for developers familiar with the ServiceNow AI Platform.
 2.  ServiceNow Studio: Best for metadata‑centric review \(tables, ACLs, roles\) and cross‑scope editing with a visual overview of app artifacts; keeps Now Assist in‑context for conversational adjustments. Suitable for developers with various levels of experience on the ServiceNow AI Platform.
 
-**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](vc-build-agent-landing.md)
+**Parent Topic:**[AI-assisted ServiceNow AI Platform development with Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-build-agent-landing.md)
 

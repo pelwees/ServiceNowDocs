@@ -23,7 +23,7 @@ Every time that you create a questionnaire, the system applies a default risk ra
 
 The following example shows the default risk ratings that are provided as part of the base system.
 
-![List of default risk ratings. For the text description, refer to the text that preceded this example.](../image/vendor-risk-rating-scale.png "Default risk rating scale")
+![List of default risk ratings. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vendor-risk-rating-scale.png "Default risk rating scale")
 
 ## Score calculation mechanism
 
@@ -31,23 +31,23 @@ The score calculation mechanism for each external assessment uses the ServiceNow
 
 -   Questions \(metrics\)
 
-    For more information on how to define a question, see [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
+    For more information on how to define a question, see [Define a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
 
 -   Metric scale definition
 
-    For more information on how to define the metric scale definition, see [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
+    For more information on how to define the metric scale definition, see [Define a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-questions-create.md).
 
 -   Categories
 
-    For more information on how to define a category, see [Set up and maintain a question bank](../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md).
+    For more information on how to define a category, see [Set up and maintain a question bank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md).
 
 -   Weights
 
-    For more information on how to define a weight, see [Define component criteria](../task/tprm-component-criteria-define.md).
+    For more information on how to define a weight, see [Define component criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-component-criteria-define.md).
 
 -   Risk rating scale
 
-    For more information on how to define a risk rating scale, see [Set up risk rating scales for scoring](../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md).
+    For more information on how to define a risk rating scale, see [Set up risk rating scales for scoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-risk-rating-scales-config.md).
 
 -   Business service rating scale
 
@@ -70,7 +70,7 @@ The score calculation mechanism for each external assessment uses the ServiceNow
 
 The following infographic shows the assessment rating calculation process.
 
-![Infographic that shows the calculation of the assessment rating. For the text description, refer to the list that follows.](../image/score-calculation-mechanism.png "Assessment rating calculation process")
+![Infographic that shows the calculation of the assessment rating. For the text description, refer to the list that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/score-calculation-mechanism.png "Assessment rating calculation process")
 
 1.  Each question on the questionnaire has these values calculated:
     1.  questionRatings: The rating for each question is calculated by the responses. For non-scored questions, the rating is determined by the metric scale definition and the values associated with the answers. For scored questions, `questionRating` is set to `0` or `1` depending on whether the correct answer is selected. The `questionRating` is not a value that is stored in a table.
@@ -92,7 +92,7 @@ Selecting the scored option \(**Scored** check box\) is optional. When the **Sco
 
 The system still calculates `questionPercentContribution` for scored questions based on the question weight within its category. The normalized value is then calculated using the standard normalization equation \(`questionNormalizedValue = 100 * questionRating * questionPercentContribution`\). As a result, a scored question contributes `0` when answered incorrectly, and contributes its weighted share of the maximum score \(100\) based on `questionPercentContribution` when answered correctly.
 
-The **Maximum normalization** input field applies only when the **Scored** check box is not selected, because it is used with the High/Low rating calculation. When the **Scored** check box is selected, the maximum normalization input does not affect scoring. For more information on questions and normalized scores, see [Set up and maintain a question bank](../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md), [Define a question](../../grc-vendor-risk-implementation/task/tprm-questions-create.md) and [Normalize the scores for metrics](../../grc-vendor-risk-implementation/concept/set-max-norm-input.md).
+The **Maximum normalization** input field applies only when the **Scored** check box is not selected, because it is used with the High/Low rating calculation. When the **Scored** check box is selected, the maximum normalization input does not affect scoring. For more information on questions and normalized scores, see [Set up and maintain a question bank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-question-bank-create.md), [Define a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-questions-create.md) and [Normalize the scores for metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/concept/set-max-norm-input.md).
 
 ## questionRating calculation
 
@@ -102,7 +102,7 @@ You can define the **Scale definition** for an individual assessment metric by s
 
 The following example shows how the metric scale definition field was defined in the Assessment Metric form.
 
-![Metric scale definition example. For the text description, refer to the text that follows.](../image/questionRating-assessment-rating.png "Metric scale definition example")
+![Metric scale definition example. For the text description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/questionRating-assessment-rating.png "Metric scale definition example")
 
 -   **High** means that large numerical values indicate a positive result. If the metric scale definition is high, the following equation is used:
 
@@ -115,7 +115,7 @@ The following example shows how the metric scale definition field was defined in
 
 The following example shows the question value field that is defined in the assessment instance question form.
 
-![Assessment question value field example. For the text description, refer to the text that follows.](../image/questionRating-assessment-instance-question.png "Assessment question value example")
+![Assessment question value field example. For the text description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/questionRating-assessment-instance-question.png "Assessment question value example")
 
 The **value** used in the equation is taken from the response to the question. The configuration of the metric defines the correct answer, which is the value, and the other values that are associated with the other incorrect or less desirable answers. The questionRating is not a value that is stored in a table.
 
@@ -137,7 +137,7 @@ The **Weight** is a numerical value that represents the metric importance that r
 
 The following example shows the question category and weight field that you can define in the assessment metric form.
 
-![Category and Weight field examples. For the text description, refer to the text that preceded this example.](../image/questionPercentContribution-assessment.png "Assessment question category and weight example")
+![Category and Weight field examples. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/questionPercentContribution-assessment.png "Assessment question category and weight example")
 
 ## questionNormalizedValue calculation
 
@@ -151,7 +151,7 @@ Each answer to every question \(assessment metric\) on the questionnaire has a *
 
 The following example shows a list of normalized values for an assessment group.
 
-![Assessment group normalized value list. For the text description, refer to the text that preceded this example.](../image/questionNormalizedValue-assessmentgroup.png "Normalized value list for an assessment group example")
+![Assessment group normalized value list. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/questionNormalizedValue-assessmentgroup.png "Normalized value list for an assessment group example")
 
 ## categoryRating calculation
 
@@ -167,7 +167,7 @@ The stated **Risk Rating** for each category is derived from the associated Risk
 
 The following example shows the list of category ratings and risk ratings for an assessment category.
 
-![Categories Rating and Risk rating list. For the text description, refer to the text that preceded this example.](../image/categoryRating-categories.png "Categories rating and risk rating list example")
+![Categories Rating and Risk rating list. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/categoryRating-categories.png "Categories rating and risk rating list example")
 
 ## categoryNormalizedValue calculation
 
@@ -181,7 +181,7 @@ This calculated normalized value performs a more meaningful comparison that is l
 
 The following example shows the list of normalized values for an assessment category.
 
-![Categories Normalized value list example. For the text description, refer to the text that preceded this example.](../image/categoryNormalizedValue-categories.png "Categories normalized value list example")
+![Categories Normalized value list example. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/categoryNormalizedValue-categories.png "Categories normalized value list example")
 
 ## questionnaireQuantitativeScore calculation
 
@@ -195,7 +195,7 @@ The output from the `questionnaireQuantitativeScore` equation is the sum of the 
 
 The following example shows a risk score for a questionnaire.
 
-![Questionnaire Risk Score example. For the text description, refer to the text that preceded this example.](../image/questionnaireQuantitativeScore-risk-score.png "Questionnaire record with risk score example")
+![Questionnaire Risk Score example. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/questionnaireQuantitativeScore-risk-score.png "Questionnaire record with risk score example")
 
 ## Qualitative score for documents
 
@@ -211,13 +211,13 @@ The document risk rating uses the scale that is shown in the following table.
 
 The following example shows a risk rating for a document request.
 
-![Document Requests Risk rating example. For the text description, refer to the text that preceded this example.](../image/document-requests.png "Document request risk rating example")
+![Document Requests Risk rating example. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/document-requests.png "Document request risk rating example")
 
 After the document is reviewed, it might be found to be deficient, so the Third-party risk assessor can override the default rating. The assessment retains the current **Risk Rating** and the **Original Risk Rating**. The stated **Risk Rating** for each category is derived from the associated Risk Rating Scale.
 
 The following example shows a categories related list that includes the original and current risk rating.
 
-![Categories related list showing the original and current risk rating example. For the text description, refer to the text that preceded this example.](../image/categories.png "Categories related list example")
+![Categories related list showing the original and current risk rating example. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/categories.png "Categories related list example")
 
 ## assessmentRating calculation
 
@@ -245,15 +245,15 @@ The final rating for the assessment is calculated by using this equation:
 
 The final rating is the overall assessment rating that considers the scores and ratings from all assessments conducted for a third-party or engagement. It’s calculated by taking the weighted average of the questionnaires and document requests within each risk area. This calculation process ensures that all relevant metrics, categories, and weights are taken into account based on how you defined these parameters and configurations. The calculation process and the factors involved can help you make informed decisions and take appropriate actions based on the final rating.
 
-**Note:** For information on verifying risk ratings and scoring calculations, see [Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md).
+**Note:** For information on verifying risk ratings and scoring calculations, see [Verifying scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-verif-q.md).
 
--   **[Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md)**  
+-   **[Verifying scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-verif-q.md)**  
 You can review scores and risk ratings in your questionnaires to help ensure the accuracy and consistency of risk scoring by verifying the correct application of weights, normalized values, scoring methods, and risk rating scales. Based on the different weights you assign, Third-party Risk Management aggregates these values and produces a composite score.
 
-**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
 **Related topics**  
 
 
-[Verifying scoring calculations using the classic assessment engine](tprm-verif-q.md)
+[Verifying scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-verif-q.md)
 

@@ -39,7 +39,7 @@ Only the owner of the board can create the sorting criteria, and add, edit, or d
 
     3.  Select **Add sort**, choose the conditions you want from the fields and then select **Create**.
 
-        ![Select Add Sort to create sorting options.](../image/datadrivenAddSort.png)
+        ![Select Add Sort to create sorting options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/datadrivenAddSort.png)
 
     4.  In the Add Sort window, choose your sorting order and then select **Save**.
 
@@ -51,12 +51,12 @@ Only the owner of the board can create the sorting criteria, and add, edit, or d
 
     2.  Create task cards for the board.
 
-    3.  Select the info icon \(![Info icon](../../collaboration/image/IconInfoTab.png)\).
+    3.  Select the info icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../collaboration/image/IconInfoTab.png)\).
 
-        The sorting criteria and filtering appear in the Info navigation pane. ![Sorting criteria displays in the navigation pane](../image/vtb-add-sort-criteria-displayed.png)
+        The sorting criteria and filtering appear in the Info navigation pane. ![Sorting criteria displays in the navigation pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/vtb-add-sort-criteria-displayed.png)
 
         You can edit your sorting criteria for both Freeform and Data Driven boards by selecting the **Edit Filter and Sort** button.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/configuring-vis-task-boards.md)
 

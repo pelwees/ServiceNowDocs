@@ -33,7 +33,7 @@ You can use this update set as a backup file for auditing purposes or to transfe
 
 5.  Fill in the fields, as appropriate \(see table\).
 
-    ![Publish to Update Set](../image/PublishToUpdateSet.png)
+    ![Publish to Update Set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/PublishToUpdateSet.png)
 
 <table id="table_cr1_2yy_sr"><thead><tr><th>
 
@@ -99,16 +99,16 @@ See [Import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/au
 8.  Run any fix scripts that are included in the application.
 
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_SharingApplications.md)
 
 **Related topics**  
 
 
-[Retrieve an update set](../../system-update-sets/task/t_RetrieveAnUpdateSet.md)
+[Retrieve an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../system-update-sets/task/t_RetrieveAnUpdateSet.md)
 
-[Save an update set as a local XML file](../../system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.md#)
+[Save an update set as a local XML file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../system-update-sets/task/t_SaveAnUpdateSetAsAnXMLFile.md#)
 
-[Run fix scripts](t_RunFixScripts.md)
+[Run fix scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/t_RunFixScripts.md)
 
-[Delegate development and deployment permissions to personnel](t_AddADeveloper.md)
+[Delegate development and deployment permissions to personnel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/t_AddADeveloper.md)
 

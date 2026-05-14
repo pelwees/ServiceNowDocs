@@ -58,12 +58,12 @@ The External user self-registration configuration must be enabled.
 
 Your self-registration is complete. You can now log in to the Supplier Collaboration Portal.
 
-**Parent Topic:**[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+**Parent Topic:**[Supplier contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-contact-self-reg.md)
 
 **Related topics**  
 
 
-[Using Supplier Collaboration Portal](../concept/use-supp-central.md)
+[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-central.md)
 
-[Supplier contact self-registration](../concept/supp-contact-self-reg.md)
+[Supplier contact self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-contact-self-reg.md)
 

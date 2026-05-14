@@ -15,7 +15,7 @@ Run the Robotic Process Automation \(RPA\) script on demand to validate and unlo
 
 ## Before you begin
 
-Familiarise with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](../concept/license-rpa-hub.md).
+Familiarise with license distribution in RPA Hub concepts. For more information, see [Robot license distribution in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/license-rpa-hub.md).
 
 To unlock the robots in a domain, ensure that the license entitlement and consumption is compliant.
 

@@ -43,7 +43,7 @@ Description
 
 </td><td>
 
-Select **New** and fill out the form. For more information, see [Define a question](tprm-questions-create.md).
+Select **New** and fill out the form. For more information, see [Define a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-questions-create.md).
 
 </td></tr><tr><td id="d76161e134">
 

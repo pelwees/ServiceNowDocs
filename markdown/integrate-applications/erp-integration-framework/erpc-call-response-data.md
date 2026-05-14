@@ -36,5 +36,5 @@ You can then add the **Response** data pill or any of the child **record** data 
 
 For example, you can generate a record for each response from the ERP system, making that data available for use on the ServiceNow AI Platform.
 
-**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/work-with-erp-data-models.md)
 

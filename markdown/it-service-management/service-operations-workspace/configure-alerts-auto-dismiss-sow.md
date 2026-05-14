@@ -159,12 +159,12 @@ Expand alert content by default
 Select the check box to automatically expand the alert content in the alert notification message.**Note:** By default, this check box is selected.
 
 </td></tr></tbody>
-</table>    ![Configure alerts settings](../image/sow-configure-alerts-ui-builder.png)
+</table>    ![Configure alerts settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-configure-alerts-ui-builder.png)
 
     **Note:** You can view the Configure alerts section only if you have updated UI Builder application to version 28.1 \(Zurich\).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-sow-to-improve-experience.md)
 

@@ -15,10 +15,10 @@ breadcrumb: [Managing enterprise asset move orders, Managing enterprise models a
 
 You can submit an enterprise asset move order through either the ServiceNow® Service Catalog or the Inventory view of the Enterprise Asset Workspace.
 
--   **[Submit an enterprise asset move order through the Service Catalog](../task/submit-enterprise-asset-move-order-service-catalog.md)**  
+-   **[Submit an enterprise asset move order through the Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/submit-enterprise-asset-move-order-service-catalog.md)**  
 Use the ServiceNow® Service Catalog to submit a move order so that you can move in-use or consumed enterprise assets between locations.
--   **[Submit an enterprise asset move order through the Asset operations view](../task/submit-enterprise-asset-move-order-inventory-view.md)**  
+-   **[Submit an enterprise asset move order through the Asset operations view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/submit-enterprise-asset-move-order-inventory-view.md)**  
 Use the Asset operations view of the Enterprise Asset Workspace to submit a move order so that you can move in-use or consumed enterprise assets between locations.
 
-**Parent Topic:**[Managing enterprise asset move orders](managing-enterprise-asset-move-orders.md)
+**Parent Topic:**[Managing enterprise asset move orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-move-orders.md)
 

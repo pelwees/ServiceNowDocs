@@ -29,7 +29,7 @@ The dashboard might not show all these reports. If you want to view a particular
 |Total Metrics by Metric Type|Assessment Metrics \[asmt\_metric\]\]|
 |Unanswered Questions by Assigned User|Assessment Instance Questions \[asmt\_assessment\_instance\_question\]|
 
-![Various assessment reports that appear on the Assessment Overview dashboard.](../images/AssessmentOverviewPage.png "Assessment Overview dashboard")
+![Various assessment reports that appear on the Assessment Overview dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/AssessmentOverviewPage.png "Assessment Overview dashboard")
 
-**Parent Topic:**[View a metric result](../task/t_ViewAMetricResult.md)
+**Parent Topic:**[View a metric result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAMetricResult.md)
 

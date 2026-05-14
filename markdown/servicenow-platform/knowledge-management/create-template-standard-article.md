@@ -74,5 +74,5 @@ var ArticleTemplateUtil = Class.create();
                  });
 ```
 
-**Parent Topic:**[Configure knowledge article templates](../concept/configure-knowledge-article-templates.md)
+**Parent Topic:**[Configure knowledge article templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configure-knowledge-article-templates.md)
 

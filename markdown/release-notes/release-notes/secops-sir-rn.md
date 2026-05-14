@@ -25,7 +25,7 @@ See [Security Incident Response](https://raw.githubusercontent.com/ServiceNow/Se
 
 ## New in the Australia release
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   **[ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md)**
 
@@ -140,5 +140,5 @@ Install Security Incident Response by requesting it from the ServiceNow Store. V
     The ServiceNow® Threat Intelligence application enables you to find indicators of compromise \(IoC\) and enrich security incidents with threat intelligence data.
 
 
-**Parent Topic:**[Security Operations release notes](security-operations-rn-landing.md)
+**Parent Topic:**[Security Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/security-operations-rn-landing.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Rack**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory** &gt; **Rack**.
 
 3.  Select a rack from the displayed list.
 
@@ -31,21 +31,21 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
     |Actions|Steps|
     |-------|-----|
-    |Edit rack|To learn more, see [Edit rack](edit-rack.md).|
-    |Edit cabinet|To learn more, see [Edit a cabinet](edit-a-cabinet.md).|
-    |Refresh rack equipment|Select refresh \(![Refresh icon](../../tmt-order-mgt/image/refresh-order-line-item-orchestration-plan-ui.png)\) icon to see updated equipment of the rack if any changes are performed.|
-    |Create equipment|Select **\(![Options icon](../image/options-icon.png)\)** &gt; **Create equipment**. In the displayed form, fill in the fields. To learn more, see [Create equipment from rack view](../reference/create-equipment-from-rack-view.md).|
+    |Edit rack|To learn more, see [Edit rack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-rack.md).|
+    |Edit cabinet|To learn more, see [Edit a cabinet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-cabinet.md).|
+    |Refresh rack equipment|Select refresh \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../tmt-order-mgt/image/refresh-order-line-item-orchestration-plan-ui.png)\) icon to see updated equipment of the rack if any changes are performed.|
+    |Create equipment|Select **\(![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\)** &gt; **Create equipment**. In the displayed form, fill in the fields. To learn more, see [Create equipment from rack view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/create-equipment-from-rack-view.md).|
     |Save|Save the rack or cabinet.|
-    |Add packs|Select the more options icon \(![More Options icon.](../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record. To learn more, see [Attribute pack for CI records](../concept/using-pack-table-ci-record.md).|
+    |Add packs|Select the more options icon \(![More Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) and then select **Add Packs** to capture the attributes for a configuration item \(CI\) record. To learn more, see [Attribute pack for CI records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-pack-table-ci-record.md).|
     |Calculate Capacity|Select and redirect to **Capacity Metrics** tab to see the updated capacity metrics.|
-    |Decommission|Select **\(![Options icon](../image/options-icon.png)\)** &gt; **Decommission** to decommission this rack. To learn more, see [Decommission an inventory record](decommision-an-inventory-record.md).|
-    |Delete|Select **\(![Options icon](../image/options-icon.png)\)** &gt; **Delete** to delete this rack or cabinet. On deleting this rack or cabinet, all related records are deleted.|
+    |Decommission|Select **\(![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\)** &gt; **Decommission** to decommission this rack. To learn more, see [Decommission an inventory record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/decommision-an-inventory-record.md).|
+    |Delete|Select **\(![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\)** &gt; **Delete** to delete this rack or cabinet. On deleting this rack or cabinet, all related records are deleted.|
 
 
-**Parent Topic:**[Create and maintain racks and cabinets](../concept/create-and-maintain-rack-and-cabinet.md)
+**Parent Topic:**[Create and maintain racks and cabinets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/create-and-maintain-rack-and-cabinet.md)
 
 **Related topics**  
 
 
-[Edit rack](edit-rack.md)
+[Edit rack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-rack.md)
 

@@ -27,7 +27,7 @@ When you send an emergency notification from the workspace, the action creates a
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  Click **Pending** state in the Crisis Events list.
 
@@ -188,7 +188,7 @@ Message sent through SMS.
 
     The **Summary** section displays the list of contacts and groups to whom the notification was sent and their responses. It also displays the number of contacts who could not be reached, the number of contacts who acknowledged the notification, and the number of pending acknowledgements. This information is retrieved from Everbridge and displayed on your workspace.
 
-    ![Summary of the notification sent to contacts.](../image/SummaryEmergNotif.png "Summary of the notification sent to contacts")
+    ![Summary of the notification sent to contacts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/SummaryEmergNotif.png "Summary of the notification sent to contacts")
 
     -   **Sent to**
 
@@ -218,7 +218,7 @@ Message sent through SMS.
 
         **Note:** You cannot delete a notification that is in **Attempting to send**, **In Progress** or **Completed** state.
 
-    2.  Click **Delete** in the more actions icon \(![More actions action for delete action.](../image/MoreActionsicon.png)\).
+    2.  Click **Delete** in the more actions icon \(![More actions action for delete action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/MoreActionsicon.png)\).
 
         **Note:** Now that the event is closed and the corresponding incident in Everbridge is also closed, you cannot create any more notifications for this event.
 

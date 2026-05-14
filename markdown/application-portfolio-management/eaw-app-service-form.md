@@ -71,10 +71,10 @@ An application service is a configuration item \(CI\) that represents the operat
 |Monitor|Option to select monitor.|
 |Can Print|Option to print the details.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit an application service in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-add-appl-service.md)
+[Add or edit an application service in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-appl-service.md)
 

@@ -17,7 +17,7 @@ Q&amp;A Genius Results display top search results extracted from HTML fields of 
 
 A snippet is a short, typically paragraph-length, section of text that contains useful and relevant information. A Genius Result answer's topic snippet indicates the subject for the answer, while the answer snippet provides details on that subject.
 
-![Q&A answer card for knowledge article with View Article action link.](../image/genius-result-q-a.png "Sample Q&A Genius Result answer card")
+![Q&A answer card for knowledge article with View Article action link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/genius-result-q-a.png "Sample Q&A Genius Result answer card")
 
 Select **View Article** to view the full Knowledge article.
 
@@ -93,7 +93,7 @@ AI Search uses a machine reading comprehension \(MRC\) model to validate extract
 
 When you enable factoid extraction for Q&amp;A Genius Results, the MRC model also finds the exact span of text within the extracted snippet that represents the answer to your question.
 
-You can't configure settings for MRC models or choose which model to use for Q&amp;A Genius Results. AI Search performs A/B testing with different search query parameter values to automatically select the best MRC model for you. For more details on this A/B testing process, see [Search query parameter evaluation framework](srch-qry-parm-eval-fw-ais.md#).
+You can't configure settings for MRC models or choose which model to use for Q&amp;A Genius Results. AI Search performs A/B testing with different search query parameter values to automatically select the best MRC model for you. For more details on this A/B testing process, see [Search query parameter evaluation framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/srch-qry-parm-eval-fw-ais.md#).
 
 ## Knowledge Management and Q&amp;A Genius Results
 
@@ -112,17 +112,17 @@ The following table describes interactions between Q&amp;A Genius Results and ot
 
 |Feature|Interaction with Q&amp;A Genius Results|
 |-------|---------------------------------------|
-|[Result improvement rules](result-improvement-rules-ais.md) with block actions|When computing Q&amp;A Genius Results for a search query, AI Search ignores blocked search results.|
-|[Stop words](stop-words-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search ignores stop words in the query.|
-|[Synonyms](synonyms-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search expands synonyms in the query.|
-|[Typo handling](typo-handling-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search corrects terms in the query.|
+|[Result improvement rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md) with block actions|When computing Q&amp;A Genius Results for a search query, AI Search ignores blocked search results.|
+|[Stop words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search ignores stop words in the query.|
+|[Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search expands synonyms in the query.|
+|[Typo handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/typo-handling-ais.md)|When computing Q&amp;A Genius Results for a search query, AI Search corrects terms in the query.|
 
--   **[Factoid extraction for Q&amp;A Genius Results](factoid-extraction-qa-grs-ais.md)**  
+-   **[Factoid extraction for Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/factoid-extraction-qa-grs-ais.md)**  
 Factoid extraction uses the machine reading comprehension \(MRC\) model to find the exact span of text within a longer extracted snippet that represents the answer to your question.
--   **[Set the factoid extraction mode for Q&amp;A Genius Results](../task/set-factoid-extraction-mode-qna-gr.md)**  
+-   **[Set the factoid extraction mode for Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/set-factoid-extraction-mode-qna-gr.md)**  
 Specify how you want factoid extraction to display and highlight answers for Q&amp;A Genius Results.
--   **[System properties for factoid extraction in Q&amp;A Genius Results](../reference/sys-props-factoid-extract-qna-gr.md)**  
+-   **[System properties for factoid extraction in Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/sys-props-factoid-extract-qna-gr.md)**  
 A system property determines how the system extracts factoids from knowledge articles when computing Q&amp;A Genius Results.
 
-**Parent Topic:**[Genius Result configurations in the base system](default-genius-result-configs-ais.md)
+**Parent Topic:**[Genius Result configurations in the base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/default-genius-result-configs-ais.md)
 

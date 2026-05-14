@@ -25,11 +25,11 @@ Role required: admin
 
 2.  Select the provider **VA Amazon Connect Adapter Provider**.
 
-    ![Connections table.](../images/provider-prop-01.png)
+    ![Connections table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/provider-prop-01.png)
 
 3.  In the Provider Channels form, select the **Provider Properties** tab.
 
-    ![Provider properties tab.](../images/provider-prop-02.png)
+    ![Provider properties tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/provider-prop-02.png)
 
 
 ## What to do next
@@ -119,5 +119,5 @@ support\_skill\_card
 Internal, do not change.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configure Conversational IVR with Amazon Connect](configure-va-ivr.md)
+</table>**Parent Topic:**[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-ivr.md)
 

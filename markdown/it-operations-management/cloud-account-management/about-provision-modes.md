@@ -24,5 +24,5 @@ Terraform templates are configuration files that specify the infrastructure reso
 
 An AWS or Azure admin creates the IAM user with the specified permissions, and the Cloud Account Management admin enters the credentials of the IAM user into the ServiceNow instance. No additional steps are required for users to access the cloud native interface.
 
-![Terraform and cloud native interface support in a Cloud Account Management instance](../image/terraform.png "Cloud Account Management provision modes")
+![Terraform and cloud native interface support in a Cloud Account Management instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/terraform.png "Cloud Account Management provision modes")
 

@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Linux user**
 
-    Provide the Linux operating system \(OS\) user with elevated rights for running the cat, ls, netstat, and stat commands. For more information, see [Service Mapping commands requiring a privileged user](../reference/r_CommandsnCredentials.md).
+    Provide the Linux operating system \(OS\) user with elevated rights for running the cat, ls, netstat, and stat commands. For more information, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/r_CommandsnCredentials.md).
 
     In addition, provide this Linux user with permissions to run the following commands on the OS user home folder:
 
@@ -157,5 +157,5 @@ The APIGee pattern does not create any CI relationships.
 
 The APIGee pattern identifies connections from the Apigee Edge to other CIs based on the URL you configure in the connection section of the pattern.
 
-**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

@@ -120,7 +120,7 @@ The name of the UI page from step 1 to show in the widget.
 
 ## What to do next
 
-[Edit a responsive dashboard](t_EditADashboard.md)
+[Edit a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md)
 
-**Parent Topic:**[Widgets](../concept/widgets.md)
+**Parent Topic:**[Widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/widgets.md)
 

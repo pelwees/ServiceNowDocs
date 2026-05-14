@@ -23,7 +23,7 @@ Role required: no role required
 
 1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
-2.  On the learning challenge widget, click the context ![context icon](../../../common/image/icon-menu.png) icon.
+2.  On the learning challenge widget, click the context ![context icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../common/image/icon-menu.png) icon.
 
     **Note:** You might see different labels on the widget depending on your current status on the challenge. If you have started the challenge, you will see Your current challenge.
 
@@ -36,5 +36,5 @@ Role required: no role required
 
 The current challenge will be completed, but you can always revisit it under the **Activity** tab.
 
-**Parent Topic:**[Create a Learning challenge](../concept/learning-challenge.md)
+**Parent Topic:**[Create a Learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../concept/learning-challenge.md)
 

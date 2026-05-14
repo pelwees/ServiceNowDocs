@@ -34,26 +34,26 @@ Role required: admin or domain\_admin
 
 A message that indicates the success or failure of the connection is displayed.
 
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/creating-integration-script-include-ham.md)
 
-[Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
+[Connect your ServiceNow instance with a shipping carrier application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-shipping-carrier-int-profile.md)
 
-[Remove a shipping carrier from an integration profile](remove-shipping-carrier.md)
+[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-shipping-carrier.md)
 
-[Create a carrier integration profile](create-carrier-integration-profile.md)
+[Create a carrier integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-carrier-integration-profile.md)
 
-[View the carrier integration profile details](view-integration-profiles.md)
+[View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-integration-profiles.md)
 
-[Create a shipping carrier record](create-shipping-carrier.md)
+[Create a shipping carrier record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-shipping-carrier.md)
 
-[View hardware asset shipment details](view-hardware-asset-shipments.md)
+[View hardware asset shipment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-hardware-asset-shipments.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/stale-shipments.md)
 
-[Track a hardware asset shipment](track-hardware-asset-shipments.md)
+[Track a hardware asset shipment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/track-hardware-asset-shipments.md)
 

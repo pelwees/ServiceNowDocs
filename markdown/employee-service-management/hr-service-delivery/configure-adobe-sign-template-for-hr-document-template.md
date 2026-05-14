@@ -42,9 +42,9 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
         -   Flow: Adobe Sign Integration Flow
     4.  Fill in the other fields on the form, as appropriate.
 
-        For further details on creating an HR service, see [Configure an HR service](configure-hr-service.md).
+        For further details on creating an HR service, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
-        **Note:** In the HR Service Additional Information related list, make sure that the **PDF Template** field is included so that it appears on the HR case form when a request for this service is made. See [Configure the HR case form for an HR service](configure-case-form-for-hr-service.md#) for more information.
+        **Note:** In the HR Service Additional Information related list, make sure that the **PDF Template** field is included so that it appears on the HR case form when a request for this service is made. See [Configure the HR case form for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-form-for-hr-service.md#) for more information.
 
     5.  Right-click the form header and click **Save**.
 
@@ -64,12 +64,12 @@ For signing an adhoc document \(HR PDF document template\) or an Adobe Sign temp
         -   For the Adobe Sign template, make sure to select an HR PDF document template with the **Template type** field set to `Adobe Sign Templates`.
     5.  Fill in the other fields on the form, as appropriate.
 
-        For further details on creating an HR case template, see [Configure an HR case template](configure-hr-case-template.md).
+        For further details on creating an HR case template, see [Configure an HR case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-case-template.md).
 
     6.  Click **Submit**.
 
     7.  On the HR service form, click **Update**.
 
 
-**Parent Topic:**[Integrating with the Adobe Sign service](../concept/integrating-with-adobe-sign-service.md)
+**Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrating-with-adobe-sign-service.md)
 

@@ -17,11 +17,11 @@ Use multiple  ServiceNow instances on a single mobile device, to quickly chang
 
 You can change ServiceNow instances in the following ways.
 
--   Tapping on the instances icon \(![Instances icon.](../image/instance-icon.png)\) in the header area of your mobile device.
+-   Tapping on the instances icon \(![Instances icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/instance-icon.png)\) in the header area of your mobile device.
 -   Accessing the Instances screen from the Settings page and selecting a different instance to work with.
 -   Tapping on a notification banner displayed at the top of your mobile screen, which includes a link. When you tap on the link, you're redirected to a different instance.
 
-![Instances screen with four instances listed.](../image/instance-multi.png "Instances screen showing instances with the number of unread notifications")
+![Instances screen with four instances listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/instance-multi.png "Instances screen showing instances with the number of unread notifications")
 
 **Note:** The displayed number of unread notifications applies to notifications from instances created in the Utah version and later.
 

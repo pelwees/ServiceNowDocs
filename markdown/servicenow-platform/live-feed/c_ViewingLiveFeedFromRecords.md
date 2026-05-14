@@ -19,7 +19,7 @@ The record feed appears in a pop-up window. The record feed also appears on the 
 
 To access a record feed from the form, do one of the following:
 
--   Click the **Show Live Feed** button ![Show Live Feed icon](../image/LiveCompanyFeed.png) in the form header. This displays the Live Feed pop-up.
+-   Click the **Show Live Feed** button ![Show Live Feed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../image/LiveCompanyFeed.png) in the form header. This displays the Live Feed pop-up.
 -   Right-click the form header and select **Show Live Feed**. This also displays the Live Feed pop-up.
 -   Scroll down to the activity formatter area on the form. Click one of the following tabs:
     -   **Live Feed**: click to show a text box to type in the feed.

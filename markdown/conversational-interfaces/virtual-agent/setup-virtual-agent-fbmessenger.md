@@ -134,5 +134,5 @@ Do not prompt users to link their account to their ServiceNow profile. Users can
 </table>    4.  Click **Update**.
 
 
-**Parent Topic:**[Legacy setup and configuration](../concept/legacy-va-fb-messenger-setup.md)
+**Parent Topic:**[Legacy setup and configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/legacy-va-fb-messenger-setup.md)
 

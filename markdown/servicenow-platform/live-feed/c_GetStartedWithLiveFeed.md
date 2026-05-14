@@ -25,23 +25,23 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 <table id="table_ev3_ndm_v4bxsku" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Live Feed concepts and features.](exploring-live-feed.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Live Feed concepts and features.](exploring-live-feed.md)
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg) Activate Live Feed on your instance.](../task/t_ActivateLiveFeed.md)
+[Activate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../reuse/icons/brand-icons/bus-manage.svg) Activate Live Feed on your instance.](../task/t_ActivateLiveFeed.md)
 
 </td><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Administer document feeds, record feeds, and notifications.](c_AdministerLiveFeed.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Administer document feeds, record feeds, and notifications.](c_AdministerLiveFeed.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-person.svg)Post in Live Feed and use feeds, teams, hashtags, and records.](c_UseLiveFeed.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../reuse/icons/brand-icons/bus-person.svg)Post in Live Feed and use feeds, teams, hashtags, and records.](c_UseLiveFeed.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components, such as tables, user roles, business rules, and script includes.](../reference/live-feed-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about domain separation and components, such as tables, user roles, business rules, and script includes.](../reference/live-feed-reference.md)
 
 </td><td>
 

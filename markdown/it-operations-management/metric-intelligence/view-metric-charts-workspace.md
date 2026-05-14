@@ -51,5 +51,5 @@ All metric charts that are configured for the CI associated with the alert, and 
     -   **Show legend**: Show chart legend.
 -   Click **Insights Explorer** to open the Insights Explorer in a new browser tab. That Insights Explorer opens with the current CI pre-selected and with the current time range settings in Agent Workspace.
 
-**Parent Topic:**[Optimizing Metric Intelligence](../../metric-intelligence/concept/optimizing-metric-intelligence.md)
+**Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../metric-intelligence/concept/optimizing-metric-intelligence.md)
 

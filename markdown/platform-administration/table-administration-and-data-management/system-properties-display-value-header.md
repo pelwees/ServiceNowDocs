@@ -112,7 +112,7 @@ XLSX
 
     **glide.export.csv.column\_header\_label** = **false** \(default\)
 
-    ![Example: glide.export.csv.raw.value = false and glide.export.csv.column_header_label = false](../image/csv-export-default.png)
+    ![Example: glide.export.csv.raw.value = false and glide.export.csv.column_header_label = false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/csv-export-default.png)
 
 -   **Example:**
 
@@ -120,7 +120,7 @@ XLSX
 
     **glide.export.csv.column\_header\_label** = **true**
 
-    ![Example: glide.export.csv.raw.value = true and glide.export.csv.column_header_label = true](../image/csv-export-true.png)
+    ![Example: glide.export.csv.raw.value = true and glide.export.csv.column_header_label = true](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/csv-export-true.png)
 
 
 ## Excel
@@ -131,7 +131,7 @@ XLSX
 
     **glide.export.excel.column\_header\_label** = **true** \(default\)
 
-    ![Example: glide.export.excel.display_value = true and glide.export.excel.column_header_label = true](../image/excel-export-default.png)
+    ![Example: glide.export.excel.display_value = true and glide.export.excel.column_header_label = true](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/excel-export-default.png)
 
 -   **Example:**
 
@@ -139,7 +139,7 @@ XLSX
 
     **glide.export.excel.column\_header\_label** = **false**
 
-    ![Example: glide.export.excel.display_value = false and glide.export.excel.column_header_label = false](../image/excel-export-false.png)
+    ![Example: glide.export.excel.display_value = false and glide.export.excel.column_header_label = false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/excel-export-false.png)
 
 
 ## JSON
@@ -148,13 +148,13 @@ XLSX
 
     **glide.json.return\_displayValue** = **false** \(default\)
 
-    ![Example: glide.json.return_displayValue = false](../image/json-export-default.png)
+    ![Example: glide.json.return_displayValue = false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/json-export-default.png)
 
 -   **Example:**
 
     **glide.json.return\_displayValue** = **true**
 
-    ![Example: glide.json.return_displayValue = true](../image/json-export-true.png)
+    ![Example: glide.json.return_displayValue = true](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/json-export-true.png)
 
 
 ## XLSX
@@ -165,7 +165,7 @@ XLSX
 
     **glide.export.xlsx.column\_header\_label** = **true** \(default\)
 
-    ![Example: glide.export.xlsx.display_value = true and glide.export.xlsx.column_header_label = true](../image/xlsx-export-default.png)
+    ![Example: glide.export.xlsx.display_value = true and glide.export.xlsx.column_header_label = true](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/xlsx-export-default.png)
 
 -   **Example:**
 
@@ -173,8 +173,8 @@ XLSX
 
     **glide.export.xlsx.column\_header\_label** = **false**
 
-    ![Example: glide.export.xlsx.display_value = false and glide.export.xlsx.column_header_label = false](../image/xlsx-export-false.png)
+    ![Example: glide.export.xlsx.display_value = false and glide.export.xlsx.column_header_label = false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/xlsx-export-false.png)
 
 
-**Parent Topic:**[Data export reference](../reference/data-export-reference.md)
+**Parent Topic:**[Data export reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/data-export-reference.md)
 

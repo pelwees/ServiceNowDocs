@@ -35,7 +35,7 @@ Role required: admin
 
 4.  Locate the record that contains the user criteria definition by using the menu panel, and then open the record.
 
-5.  Select the more button \(![Mobile App Builder more menu.](../image/mab-option-menu.png)\) and select the **Open in platform** option, to open the web-based UI.
+5.  Select the more button \(![Mobile App Builder more menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-option-menu.png)\) and select the **Open in platform** option, to open the web-based UI.
 
 6.  In the **User criteria mappings** area of the selected component, in the **Active** column select a user criteria whose active definition you want to change.
 
@@ -46,5 +46,5 @@ Role required: admin
 9.  Select and hold \(or right-click\) in the header and select **Save** from the menu.
 
 
-**Parent Topic:**[User criteria permissions in mobile apps](../concept/user-criteria-permissions.md)
+**Parent Topic:**[User criteria permissions in mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/user-criteria-permissions.md)
 

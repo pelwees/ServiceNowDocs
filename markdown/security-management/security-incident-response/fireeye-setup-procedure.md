@@ -102,7 +102,7 @@ An optional approval workflow is available for isolating host machines, restorin
 
 4.  Select **Submit**.
 
-    ![Group list](../image/fireeye-users.png)
+    ![Group list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-users.png)
 
     The new group is displayed in the Groups list. You have successfully created an approval group. Add users to your new group as required who can approve the requests submitted by the security analyst. A user inherits roles from all groups to which the user belongs. You can also assign roles directly to a user.
 

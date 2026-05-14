@@ -17,7 +17,7 @@ Access data virtually from an external source or a local table on your instance 
 
 A data fabric table is a virtual representation of data stored in another source, accessible within the ServiceNow AI Platform. It enables users to interact with data from another source as if it's stored locally, without duplicating the data.  Data stewards are responsible for creating and managing data fabric tables using the process shown in this infographic.
 
-![The data steward selects an established connection, creates a data fabric table, maps data from an external source, and updates the mapping as needed.](../../../administer/workflow-data-fabric/image/mmasset0020812-creating-data-fabric-tables-and-mapping-data-in-workflow-data-fabric-hub-landing.png "Creating and managing data fabric tables")
+![The data steward selects an established connection, creates a data fabric table, maps data from an external source, and updates the mapping as needed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/image/mmasset0020812-creating-data-fabric-tables-and-mapping-data-in-workflow-data-fabric-hub-landing.png "Creating and managing data fabric tables")
 
 ## Viewing data fabric tables
 
@@ -73,18 +73,18 @@ After a data fabric table is connected to a data source, each time the data fabr
 
 For additional data fabric table limitations, see [KB2017730](https://support.servicenow.com/kb?sys_kb_id=68859e2147a0ae5448cb2920326d43fc&id=kb_article_view).
 
--   **[Create a data fabric table](../task/create-data-fabric-table-zcc.md)**  
+-   **[Create a data fabric table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-data-fabric-table-zcc.md)**  
 Retrieve data from an internal or external source by creating a data fabric table.
--   **[Update data mapping in a data fabric table](../task/update-data-fabric-table-zcc.md)**  
+-   **[Update data mapping in a data fabric table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/update-data-fabric-table-zcc.md)**  
 Update the data mapping between a source table and a data fabric table.
--   **[Delete a data fabric table](../task/delete-data-fabric-table-zcc.md)**  
+-   **[Delete a data fabric table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/delete-data-fabric-table-zcc.md)**  
 Remove a data fabric table from your instance by deleting it.
--   **[View data fabric table records](../task/view-data-fabric-table-zcc.md)**  
+-   **[View data fabric table records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/view-data-fabric-table-zcc.md)**  
 View the records that are currently in a data fabric table.
--   **[Change the connection in a data fabric table](../task/change-source-data-fabric-table-zcc.md)**  
+-   **[Change the connection in a data fabric table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/change-source-data-fabric-table-zcc.md)**  
 Connect a data fabric table to a different data source.
--   **[Deploying a data fabric table from one instance to another](copying-data-fabric-table-zcc.md)**  
+-   **[Deploying a data fabric table from one instance to another](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/copying-data-fabric-table-zcc.md)**  
 Copy a data fabric table from one instance to another through an update set.
 
-**Parent Topic:**[Zero Copy Connectors](zero-copy-connectors.md)
+**Parent Topic:**[Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/zero-copy-connectors.md)
 

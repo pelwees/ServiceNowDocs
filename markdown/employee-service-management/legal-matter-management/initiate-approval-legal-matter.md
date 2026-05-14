@@ -40,7 +40,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal matter by selecting an option under **Matters**.
 
@@ -77,7 +77,7 @@ The state of the legal matter updates to Work in Progress.
 </td></tr></tbody>
 </table>4.  In the **Approvers** tab, click **Initiate Approval**.
 
-    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](../../legal-request-management/image/more-button-icon.png)\) and selecting **Initiate Approval**.
+    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/more-button-icon.png)\) and selecting **Initiate Approval**.
 
 5.  On the Initiate Approval dialog box, fill in the fields.
 
@@ -123,7 +123,7 @@ Select document
 
 Documents attached to the legal matter for which approval is required.This field appears only when **Document** is selected from **Approval for**.
 
-**Note:** The Document option in the list appears only when the [external storage option is enabled](../../legal-request-management/task/associate-categories-practice-area.md) on the intake form.
+**Note:** The Document option in the list appears only when the [external storage option is enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/task/associate-categories-practice-area.md) on the intake form.
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Assigned approvers are added in the **Approvers** tab based on the following con
 -   If you selected **User** in the **Approval by** field, an approval record is created for the selected user.
 -   If you selected **User group** in the **Approval by** field, an approval record for each user in the selected user group is created. Anyone from the group can approve.
 
-If the external storage option is enabled, document in a legal matter artifact are stored in the external storage systems. Based on the approval request, the document access to the approvers is at the matter, artifact, or document level. For more information on document access, see [Document access in a legal matter](../concept/document-access-legal-matter.md).
+If the external storage option is enabled, document in a legal matter artifact are stored in the external storage systems. Based on the approval request, the document access to the approvers is at the matter, artifact, or document level. For more information on document access, see [Document access in a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../concept/document-access-legal-matter.md).
 
 The assigned approvers get an email notification with a link to open the record for review and action.
 
@@ -179,10 +179,10 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 
 ## What to do next
 
-Approvers can review and [approve or reject the requested item](approve-reject-legal-matter-artif.md).
+Approvers can review and [approve or reject the requested item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/approve-reject-legal-matter-artif.md).
 
--   **[Cancel an ad hoc approval for a legal matter](cancel-approval-legal-matter.md)**  
+-   **[Cancel an ad hoc approval for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/cancel-approval-legal-matter.md)**  
 Cancel an ad hoc approval for a legal matter if it no longer requires any action.
 
-**Parent Topic:**[Work on a legal matter](work-on-legal-matter-1.md)
+**Parent Topic:**[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md)
 

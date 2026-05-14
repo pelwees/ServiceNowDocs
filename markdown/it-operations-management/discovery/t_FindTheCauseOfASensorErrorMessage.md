@@ -57,14 +57,14 @@ This process requires that you identify the following:
 8.  After determining the error details, you can fix the JavaScript file.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 
 
-[Find the cause of a "No Sensor Defined" error message](t_IdentifyCauseNoSenDefEM.md)
+[Find the cause of a "No Sensor Defined" error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_IdentifyCauseNoSenDefEM.md)
 
-[Fix the cause of a sensor error message](t_FixTheCauseOfASensorErrorMessage.md)
+[Fix the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FixTheCauseOfASensorErrorMessage.md)
 
-[Find the cause of a "Probe not found" error](t_FindTheCauseOfAProbeNotFoundError.md)
+[Find the cause of a "Probe not found" error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfAProbeNotFoundError.md)
 

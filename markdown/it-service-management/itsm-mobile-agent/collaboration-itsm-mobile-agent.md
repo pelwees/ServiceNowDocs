@@ -17,15 +17,15 @@ Collaboration services provide a way to communicate and collaborate in real time
 
 Install the Collaboration services \(sn\_tcm\_collab\_hook\), Notify \(com.snc.notify\), Notify connector for Microsoft Teams \(com.sn.ms\_teams\) applications in your instance to use collaboration services on ITSM Mobile Agent.
 
--   [Collaboration with incidents](collaboration-incident-itsm-mobile.md)
+-   [Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/collaboration-incident-itsm-mobile.md)
 
     Initiate and manage the collaboration for incident records from the ITSM Mobile Agent app.
 
--   [Collaboration with incident tasks](collaboration-inc-task-itsm-mobile.md)
+-   [Collaboration with incident tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/collaboration-inc-task-itsm-mobile.md)
 
     Initiate and manage the collaboration for incident task records from the ITSM Mobile Agent app.
 
--   [Collaboration with major incidents](collaboration-major-incident-itsm-mobile.md)
+-   [Collaboration with major incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/collaboration-major-incident-itsm-mobile.md)
 
     Initiate and manage the collaboration for major incident records from the ITSM Mobile Agent app.
 

@@ -138,7 +138,7 @@ Sync SIR work notes to XSIAM
 Option to sync Security Incident work notes to XSIAM incident comments. Work notes added to Security Incidents in ServiceNow® will appear as comments in the corresponding XSIAM incident.
 
 </td></tr></tbody>
-</table>    ![Automate incident updates and closures](../image/xsiam-additional-options.png)
+</table>    ![Automate incident updates and closures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/xsiam-additional-options.png)
 
 3.  Select **Finish**.
 

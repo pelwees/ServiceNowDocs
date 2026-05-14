@@ -19,7 +19,7 @@ Timelines display a linear calendar of activities, such as tasks and approvals, 
 
 **Note:** Workflow timelines reflect context history only and are not real-time gauges of workflow activity.
 
-**Parent Topic:**[Workflow administration](../../workflow/concept/c_WorkflowAdministration.md)
+**Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow/concept/c_WorkflowAdministration.md)
 
 ## Use a timeline
 
@@ -39,11 +39,11 @@ Collapse any part of the hierarchy in the activity pane and the timeline adjusts
 
     The timeline opens with all activities expanded and the view set to **Max**, which displays the entire timeline at the width of the pane. The title of the timeline is in the form Workflow context: &lt;context name&gt;, Requested Item: &lt;requested item number&gt;.
 
-    ![Workflow timeline iPhone](../image/WorkflowTimelineIPhone4.png)
+    ![Workflow timeline iPhone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineIPhone4.png)
 
 4.  Use the Range Selectors at the top of the timeline to change the perspective.
 
-    ![Timeline perspective bar](../image/TimelinePerspectiveBar.png)
+    ![Timeline perspective bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/TimelinePerspectiveBar.png)
 
     The increments go from one day to one year. To limit the timeline to an increment between the start date of the first span and the end date of the last span, click **Max**.
 
@@ -53,7 +53,7 @@ Collapse any part of the hierarchy in the activity pane and the timeline adjusts
 
 6.  Use the pink slider at the bottom of the timeline to change the perspective.
 
-    ![Workflow timeline slider](../image/WorkflowTimelineSlider.png)
+    ![Workflow timeline slider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineSlider.png)
 
     1.  Move the slider from right to left to view all the spans on a long timeline.
     2.  Adjust the end points of the slider to make arbitrary changes to the magnification.
@@ -64,23 +64,23 @@ Collapse any part of the hierarchy in the activity pane and the timeline adjusts
 
     Spans not visible in the activity tree are not shown in the timeline pane.
 
-    ![Workflow timeline collapsed](../image/WorkflowTimelineCollapsed.png)
+    ![Workflow timeline collapsed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineCollapsed.png)
 
 8.  Hover over an activity span to display a tooltip with information about the activity.
 
     This action highlights the activity in the activity pane.
 
-    ![Workflow timeline tooltip](../image/WorkflowTimelineTooltip.png)
+    ![Workflow timeline tooltip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineTooltip.png)
 
 9.  Hover over the transition between two activities to highlight the activity and the predecessor activity in the activity pane.
 
-    ![Workflow timeline transitions](../image/WorkflowTimelineTransitions.png)
+    ![Workflow timeline transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineTransitions.png)
 
 10. Double-click a span to display a history record for that activity.
 
     History records shows information such as the **State** and the starting and ending times.
 
-    ![Workflow timeline history popup](../image/WorkflowTimelineHistoryPopup.png)
+    ![Workflow timeline history popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelineHistoryPopup.png)
 
 
 ## Timeline for a selected activity
@@ -101,7 +101,7 @@ You can display a partial workflow timeline.
 
 5.  Collapse the tree to confine the view even further.
 
-    ![Partial workflow timeline](../image/WorkflowTimelinePartial.png)
+    ![Partial workflow timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowTimelinePartial.png)
 
 6.  To view a timeline displaying activities from different contexts:
 

@@ -47,7 +47,7 @@ Instructions
 
 </th></tr></thead><tbody><tr><td id="d353226e134">
 
-**Compose email using More actions icon![More actions icon](../image/now-assist-itsm-more-actions-icon.png)**
+**Compose email using More actions icon![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-more-actions-icon.png)**
 
 </td><td>
 
@@ -56,7 +56,7 @@ Instructions
 
 The Now Assist icon appears.
 
-3.  Select the Now Assist icon. ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png)
+3.  Select the Now Assist icon. ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)
 
 Now Assist creates an email response as a recommendation.
 
@@ -71,16 +71,16 @@ Get an email response as a recommendation for the agent to ask more questions or
 </td><td>
 
 1.  In the activity stream, select an existing email that you want to reply to.
-2.  Position your cursor within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png).
-3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png) to get an email response as a recommendation for the agent to ask more questions or sent notes to an end user.
+2.  Position your cursor within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png).
+3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png) to get an email response as a recommendation for the agent to ask more questions or sent notes to an end user.
 
 
 </td></tr></tbody>
-</table>3.  In the email message window, either type a response or leave it empty, and then select the Now Assist ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png)icon.
+</table>3.  In the email message window, either type a response or leave it empty, and then select the Now Assist ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png)icon.
 
-    ![Email response workspace screen with Now Assist option](../image/itsm-email-recommendation.png "Email response screen in Service Operations Workspace")
+    ![Email response workspace screen with Now Assist option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-email-recommendation.png "Email response screen in Service Operations Workspace")
 
-    ![Email response CoreUI screen with Now Assist option](../image/itsm-email-recommendation-coreui.png "Email response screen in Core UI")
+    ![Email response CoreUI screen with Now Assist option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-email-recommendation-coreui.png "Email response screen in Core UI")
 
 <table id="choicetable_e5x_3yv_bcc"><thead><tr><th align="left" id="d353226e290">
 

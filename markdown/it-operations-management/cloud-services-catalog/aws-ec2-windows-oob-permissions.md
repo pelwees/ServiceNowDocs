@@ -212,5 +212,5 @@ AWS EC2 Windows with security groups deprovision
 11. DescribeInstanceTypes
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Amazon Web Services EC2 Microsoft Windows Out Of Box Catalog items](aws-ec2-microsoft-windows-out-of-box-catalogs.md)
+</table>**Parent Topic:**[Amazon Web Services EC2 Microsoft Windows Out Of Box Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-ec2-microsoft-windows-out-of-box-catalogs.md)
 

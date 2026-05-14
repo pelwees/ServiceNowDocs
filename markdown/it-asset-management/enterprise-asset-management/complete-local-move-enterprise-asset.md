@@ -17,7 +17,7 @@ Perform all tasks that are required to move an enterprise asset without shipping
 
 ## Before you begin
 
-Before you can proceed with the local move, you must complete the Prepare task for the enterprise asset. See [Complete the Prepare task for a moving enterprise asset](complete-prepare-task-moving-enterprise-asset.md) for detailed instructions.
+Before you can proceed with the local move, you must complete the Prepare task for the enterprise asset. See [Complete the Prepare task for a moving enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-prepare-task-moving-enterprise-asset.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.enterprise\_admin, or enterprise\_asset\_technician
 
@@ -43,7 +43,7 @@ Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.enterprise\_admin, or
 
     1.  On the **Enterprise move tasks** tab, select the task number for the **Local move** task.
 
-        Alternatively, select the task number that is displayed in the **Current task** field of the enterprise move line record header.![Current task field.](../image/current-task-move-orders.png)
+        Alternatively, select the task number that is displayed in the **Current task** field of the enterprise move line record header.![Current task field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/current-task-move-orders.png)
 
         The Local move task opens.
 
@@ -82,5 +82,5 @@ The enterprise move line is automatically updated with a status of Completed.
 
 Move all remaining enterprise assets that are included in the move order. After all corresponding enterprise move lines reach a status of Completed, the move order is complete.
 
-**Parent Topic:**[Completing an enterprise asset move order](../concept/completing-enterprise-asset-move-order.md)
+**Parent Topic:**[Completing an enterprise asset move order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/completing-enterprise-asset-move-order.md)
 

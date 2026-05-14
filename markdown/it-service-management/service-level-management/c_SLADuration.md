@@ -45,5 +45,5 @@ When you define an SLA, you can select either a **user specified duration** or a
     If your task record has a target date and time field, you can create an SLA with a relative duration based on that field.
 
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 

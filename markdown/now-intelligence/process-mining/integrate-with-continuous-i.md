@@ -27,12 +27,12 @@ From Continual Improvement Management: Launch the Process Mining Analyst workben
 
 Integration with Continual Improvement Management doesn’t add any additional roles to the Process Mining roles. To enable Continual Improvement Management features, you must add the agent\_workspace\_user role to the users who need this capability.
 
-**Parent Topic:**[Integrating Process Mining](integrating-process-mining.md)
+**Parent Topic:**[Integrating Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrating-process-mining.md)
 
 **Related topics**  
 
 
-[Example of Continual Improvement Management using Process Mining](integrate-with-continuous-i.md#)
+[Example of Continual Improvement Management using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrate-with-continuous-i.md#)
 
 [Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 
@@ -70,7 +70,7 @@ Steps
 2.  On the **Continual Improvement Workbench** page header, select **Go to****Process Mining**.
 3.  Analyze the existing project or create a new Process Mining project definition for assessment.
 
-**Note:** For more information, refer to [Create a project or template using Project Builder](../task/define-workflow-model.md).
+**Note:** For more information, refer to [Create a project or template using Project Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/define-workflow-model.md).
 
 </td></tr><tr><td id="d103536e291">
 

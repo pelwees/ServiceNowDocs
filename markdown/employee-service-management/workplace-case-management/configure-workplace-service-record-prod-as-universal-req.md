@@ -21,7 +21,7 @@ Ensure that you have activated the Universal Request plugin.
 
 Ensure that you have the following:
 
--   A workplace service that is linked to a record producer. For more information, see [Configure a Record producer](wsd-create-record-producer.md).
+-   A workplace service that is linked to a record producer. For more information, see [Configure a Record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-create-record-producer.md).
 -   An active record producer.
 
 Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
@@ -47,14 +47,14 @@ The workplace service record producer is configured as a universal request.
 
 When an employee submits an inquiry using this workplace service, a universal request is created. The request is automatically assigned to the Workplace services assignment group.
 
-**Parent Topic:**[Workplace Service Delivery integration with Universal Request](../concept/wsd-intergration-with-universal-request.md)
+**Parent Topic:**[Workplace Service Delivery integration with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/wsd-intergration-with-universal-request.md)
 
 **Related topics**  
 
 
-[Create a workplace case from Universal Request](create-workplace-case-from-universal-req.md)
+[Create a workplace case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-case-from-universal-req.md)
 
-[Work on a workplace case from a Universal Request](work-on-workplace-case-of-universal-req.md)
+[Work on a workplace case from a Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/work-on-workplace-case-of-universal-req.md)
 
-[Transfer a workplace case created from a universal request](transfer-a-workplace-case-created-from-a-universal-request.md)
+[Transfer a workplace case created from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/transfer-a-workplace-case-created-from-a-universal-request.md)
 

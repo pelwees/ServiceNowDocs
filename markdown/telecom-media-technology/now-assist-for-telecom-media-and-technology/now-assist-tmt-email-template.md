@@ -31,7 +31,7 @@ To enable the email receiving, see [Inbound email configuration](https://raw.git
 
     The new Email must contain the following information:
 
-    ![touchpoint and meeting records.](../image/touchpoint-mail-example.png)
+    ![touchpoint and meeting records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/touchpoint-mail-example.png)
 
 <table id="table_ogx_wzn_hgc"><thead><tr><th>
 
@@ -102,5 +102,5 @@ For Touchpoints, the Email message must contain the required fields:
 -   If the validation passes, a record is created in the touchpoint and you receive a success email with the link to the created record.
 -   The emails are prepared and pushed to the outbound queue where they’re scheduled to be sent.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-spm-using.md)
 

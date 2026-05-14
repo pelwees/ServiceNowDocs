@@ -17,13 +17,13 @@ Now Assist answers your questions on CI classes and attributes to help you work 
 
 ## Before you begin
 
-To enable Now Assist to provide a detailed description, you must activate the External Content Connectors plugin, install the ServiceNow Product Documentation connector, and then crawl the product documentation. For configuration instructions, see [Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md).
+To enable Now Assist to provide a detailed description, you must activate the External Content Connectors plugin, install the ServiceNow Product Documentation connector, and then crawl the product documentation. For configuration instructions, see [Configure the CI form contextual help skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-form-sense-config.md).
 
 Role required: cmdb\_inst\_admin
 
 ## About this task
 
-This procedure describes how to dig deeply into the details of CI information on any form while creating, viewing, or updating a CI record. In addition, you can view the information while working in the Explore CI view, as described in [View CI details on the Explore CI view](na-cmdb-skill-ci-form-help-explore.md).
+This procedure describes how to dig deeply into the details of CI information on any form while creating, viewing, or updating a CI record. In addition, you can view the information while working in the Explore CI view, as described in [View CI details on the Explore CI view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-ci-form-help-explore.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ This procedure describes how to dig deeply into the details of CI information on
 
     Now Assist displays the description of the attribute. In this example, while creating a CI record, the user views the description of the **MAC Address** attribute.
 
-    ![Description of the CI attribute](../image/na-cmdb-ci-form-context-ex.png)
+    ![Description of the CI attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/na-cmdb-ci-form-context-ex.png)
 
 2.  Select **Ask a follow-up** to learn more about the attribute.
 
@@ -76,7 +76,7 @@ If you think that data might have changed after you viewed the response, select 
 **Related topics**  
 
 
-[View CI details on the Explore CI view](na-cmdb-skill-ci-form-help-explore.md)
+[View CI details on the Explore CI view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-ci-form-help-explore.md)
 
-[Configure the CI form contextual help skill](na-cmdb-skill-form-sense-config.md)
+[Configure the CI form contextual help skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-skill-form-sense-config.md)
 

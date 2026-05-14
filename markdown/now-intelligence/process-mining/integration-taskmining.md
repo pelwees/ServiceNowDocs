@@ -21,10 +21,10 @@ While working in the Analyst Workbench, a Process Mining analyst can select a pr
 
 The integration preserves traceability between process-level insights and task-level findings, avoiding fragmented analysis and reducing navigation between tools.
 
-![A task activity analysis in Task Mining.](../../task-mining/image/task-mining-task-activity.png)
+![A task activity analysis in Task Mining.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/image/task-mining-task-activity.png)
 
--   **[Create Task Mining project](create-task-mining-project.md)**  
+-   **[Create Task Mining project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-task-mining-project.md)**  
 Generate a Task Mining project analysis from the Process Mining Workspace by selecting a process flow node.
 
-**Parent Topic:**[Integrating Process Mining](integrating-process-mining.md)
+**Parent Topic:**[Integrating Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrating-process-mining.md)
 

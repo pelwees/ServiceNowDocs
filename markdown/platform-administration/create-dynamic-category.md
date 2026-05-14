@@ -43,11 +43,11 @@ Dynamic categories inherit the dynamic attributes of their extended hierarchy. F
 
 ## Create a dynamic category for capturing everything about electronics
 
-![A dynamic category for capturing everything about Electronics.](../image/dynamic-parent-category-example.png)
+![A dynamic category for capturing everything about Electronics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-parent-category-example.png)
 
 ## Create a dynamic category called Televisions that extends from the Electronics dynamic category
 
-![A dynamic category that extends from Electronics for capturing everything about televisions.](../image/dynamic-child-category-example.png)
+![A dynamic category that extends from Electronics for capturing everything about televisions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-child-category-example.png)
 
 ## What to do next
 

@@ -31,11 +31,11 @@ Consider a scenario where an SLA has a defined schedule of 9 am to 5 pm on weekd
 
 For example, if a task SLA starts at 2 pm on a weekday, its business elapsed time at 9 am on the next weekday is 3 hours while its actual elapsed time is 19 hours.
 
-![Actual elapsed time and business elapsed time within actual](../image/SLM_ElapsedTimes.png "Business elapsed time vs actual elapsed time")
+![Actual elapsed time and business elapsed time within actual](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLM_ElapsedTimes.png "Business elapsed time vs actual elapsed time")
 
 In addition, if a schedule defines an 8 hour working day, then 24 hours or one day in business elapsed time equates to 3 days in actual elapsed time.
 
-![24 by 7 actual elapsed time example](../image/ActualAndBusinessTimeExample2.png "Exampl of business and actual elapsed times - 24 X 7")
+![24 by 7 actual elapsed time example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/ActualAndBusinessTimeExample2.png "Exampl of business and actual elapsed times - 24 X 7")
 
 ## Example
 
@@ -48,5 +48,5 @@ If the current time is the following Monday at 9:30 am, then:
 
 Elapsed percentages are also similarly calculated. The actual elapsed percentage is over 750% while the business elapsed percentage is 19% on an 8 hour SLA.
 
-**Parent Topic:**[Service Level Agreement \(SLA\) processing](../concept/c_SLAProcessing.md)
+**Parent Topic:**[Service Level Agreement \(SLA\) processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_SLAProcessing.md)
 

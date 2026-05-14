@@ -39,7 +39,7 @@ The completed stories of the original feature move to a new feature whose state 
 
 4.  Select the **List** view.
 
-    ![SAFe program increment list view](../../benchmarks-for-spm/images/list-view.png)
+    ![SAFe program increment list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../benchmarks-for-spm/images/list-view.png)
 
 5.  From your current PI section, locate the SAFe feature that has incomplete stories and click its number to open its form.
 
@@ -59,5 +59,5 @@ The completed stories of the original feature move to a new feature whose state 
 
 Schedule the feature that has incomplete stories to your backlog or a new PI of your choice.
 
-**Parent Topic:**[Define a feature in SAFe](create-SAFefeature.md)
+**Parent Topic:**[Define a feature in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFefeature.md)
 

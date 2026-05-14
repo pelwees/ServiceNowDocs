@@ -34,7 +34,7 @@ The procedure in this section explains how to access the Source Type Properties 
 
 3.  Open the **Properties Statistics** related links tab.
 
-    ![The Source Type Properties Stats table.](../image/hla-properties-stats-table.png)
+    ![The Source Type Properties Stats table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-properties-stats-table.png)
 
     The **Source Type Properties Stats** table shows the properties of all the source types that are part of this source type structure.
 
@@ -121,8 +121,8 @@ Only for properties classified as METER: Sample unique values tracked by the sys
     -   For a GAUGE property: The average, minimum, and standard deviation from the expected numerical value.
 6.  Change classification settings on the **Key/Value Mapping** tab.
 
-    For more information, see [Refine the source type structure in Health Log Analytics](hla-source-type-structure-refine.md).
+    For more information, see [Refine the source type structure in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-type-structure-refine.md).
 
 
-**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](../concept/hla-data-input-setup-extra.md)
+**Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-setup-extra.md)
 

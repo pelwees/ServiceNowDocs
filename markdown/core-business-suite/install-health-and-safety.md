@@ -33,17 +33,17 @@ Role required: admin
 
 5.  Select **Apply default configurations**.
 
-    Applying default configurations sets the required default settings for the Health and Safety. For information about default configurations, see [Health and Safety default configurations](../concept/health-and-safety-default-configurations.md).
+    Applying default configurations sets the required default settings for the Health and Safety. For information about default configurations, see [Health and Safety default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/health-and-safety-default-configurations.md).
 
-    If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](reset-default-configurations.md).
+    If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/reset-default-configurations.md).
 
 
 ## Result
 
 The installed Health and Safety business unit appears in the ready to configure section.
 
--   **[Health and Safety default configurations](../concept/health-and-safety-default-configurations.md)**  
+-   **[Health and Safety default configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/health-and-safety-default-configurations.md)**  
 Details of the default configurations for Health and Safety.
 
-**Parent Topic:**[Install Core Business Suite applications](../concept/install-cbs-apps.md)
+**Parent Topic:**[Install Core Business Suite applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/install-cbs-apps.md)
 

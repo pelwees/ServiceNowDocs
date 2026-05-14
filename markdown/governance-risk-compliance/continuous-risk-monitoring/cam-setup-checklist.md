@@ -23,7 +23,7 @@ Role required: admin, sn\_irm\_cont\_auth.admin
 
 1.  Create and print a PDF of the checklist topic and check off tasks as you complete them.
 
-    To generate a PDF, select the **Save As PDF** icon \(![Save as PDF icon](../image/pdf-icon-new.png)\) at the top of this topic and select **Selected topic**.
+    To generate a PDF, select the **Save As PDF** icon \(![Save as PDF icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/pdf-icon-new.png)\) at the top of this topic and select **Selected topic**.
 
 <table id="table_lqq_1qt_rhb"><thead><tr><th>
 
@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![checkbox](../../grc-audit-implementation/image/checkbox.png)
+![checkbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../../grc-audit-implementation/image/checkbox.png)
 
 </td><td>
 
@@ -50,15 +50,15 @@ As a user with the System Administrator role, verify that you have the GRC core 
     -   GRC: Risk Management
     -   GRC: Audit Management
 4.  After the applications have been installed, install the Continuous Authorization and Monitoring core application.
- If any application is not visible in your instance, you can download it from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](../../grc-common/concept/grc-and-store.md).
+ If any application is not visible in your instance, you can download it from the ServiceNow Store. For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../../grc-common/concept/grc-and-store.md).
 
 </td></tr><tr><td>
 
-![checkbox](../../grc-audit-implementation/image/checkbox.png)
+![checkbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../../grc-audit-implementation/image/checkbox.png)
 
 </td><td>
 
-As a user with the CAM Administrator role, assigned users with the required roles as described in [Assign Continuous Authorization and Monitoring roles to users and groups](assign-cam-roles.md).
+As a user with the CAM Administrator role, assigned users with the required roles as described in [Assign Continuous Authorization and Monitoring roles to users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/assign-cam-roles.md).
 
 </td></tr></tbody>
 </table>

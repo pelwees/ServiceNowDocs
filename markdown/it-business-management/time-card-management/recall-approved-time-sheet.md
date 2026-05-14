@@ -21,7 +21,7 @@ Role required: timecard\_approver or timecard\_admin
 
 ## About this task
 
-The recall option is available only if the **Allow recall** option is selected on the associated [time sheet policy](create-time-sheet-policy.md).
+The recall option is available only if the **Allow recall** option is selected on the associated [time sheet policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-time-sheet-policy.md).
 
 ## Procedure
 
@@ -72,5 +72,5 @@ The time sheet must be within the recall period.
 -   Creates negative expense lines to zero out the corresponding expense lines created when the time sheet was approved.
 -   Returns the time sheet to its submitter for modifications.
 
-**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+**Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/time-sheets.md)
 

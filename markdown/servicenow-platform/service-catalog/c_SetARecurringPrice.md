@@ -40,5 +40,5 @@ For example, a subscription to a mobile phone contract could cost $500.00, with 
 3.  If a request record contains multiple items with the same recurring frequency, select the arrow next to the corresponding recurring prices record to view details.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogCustomization.md)
 

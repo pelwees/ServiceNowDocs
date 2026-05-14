@@ -56,5 +56,5 @@ Vendor Catalog Item \[pc\_vendor\_cat\_item\]
 Stores all vendor catalog item information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
+</table>**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 

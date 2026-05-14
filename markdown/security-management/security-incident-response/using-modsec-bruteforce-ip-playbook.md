@@ -28,7 +28,7 @@ Role required:
 
 2.  In Action 2, if the Source IP belongs to a customer or to the organization's internal IP address, perform the following steps:
 
-    ![Response tasks if the Source IP belongs to a customer or the organization's internal IP address.](../image/playbook-modsec-bruteforce-overview.png "ModSec Brute force by IP Burst playbook")
+    ![Response tasks if the Source IP belongs to a customer or the organization's internal IP address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-modsec-bruteforce-overview.png "ModSec Brute force by IP Burst playbook")
 
     1.  In Action 3, check whether there were any suspicious activities.
 
@@ -53,7 +53,7 @@ Role required:
 
 3.  If the Source IP doesn't belong to a customer or the organization's internal IP address, then in Action 11, raise an IT Support ticket to block the source IPs.
 
-    ![Response tasks if the Source IP doesn't belong to a customer or the organization's internal IP address.](../image/playbook-modsec-bruteforce-investigate.png "Using the ModSec Brute force by IP Burst playbook")
+    ![Response tasks if the Source IP doesn't belong to a customer or the organization's internal IP address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-modsec-bruteforce-investigate.png "Using the ModSec Brute force by IP Burst playbook")
 
 4.  In Action 12, reset the potentially compromised credentials.
 
@@ -66,5 +66,5 @@ Role required:
 8.  In Action 16, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](../concept/playbook-modsec-bruteforce-ip.md)
+**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-modsec-bruteforce-ip.md)
 

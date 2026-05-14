@@ -19,7 +19,7 @@ Set up the policy data for the Insurance claims application by importing the pol
 
 If you store your insurance policy data in an external system, you should bring in the latest insurance policies for all your customers from that system into your instance. Synchronize the latest insurance policies from the external system daily.
 
-The base system, by default, uses the latest insurance policy records that are available. It generates a policy snapshot using this data during the claim creation process. For more information, see [Policy snapshots in Insurance claims](policy-snapshots.md).
+The base system, by default, uses the latest insurance policy records that are available. It generates a policy snapshot using this data during the claim creation process. For more information, see [Policy snapshots in Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/policy-snapshots.md).
 
 You may bring in past policy coverages or any other past policy data if those policies apply on the incident date of a claim. If you want to create a claim against these policies, you must have the foundational claims data available to select the correct policy. For more information about the foundational claims data, see the next section.
 
@@ -45,25 +45,25 @@ If you already have an existing policy management system, you can use an API and
 
 For more information about the remote data options or how to set up a remote table integration, see the following topics in the Developer Guide:
 
--   [Remote Data Options for Remote Tables](../../../integrate/guides/FSO/concept/fso-int_guide-remote-data-options-for-remote-tables.md)
--   [Setting up a remote table integration](../../../integrate/guides/FSO/concept/setting-up-a-remote-table-integration.md)
+-   [Remote Data Options for Remote Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../integrate/guides/FSO/concept/fso-int_guide-remote-data-options-for-remote-tables.md)
+-   [Setting up a remote table integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../integrate/guides/FSO/concept/setting-up-a-remote-table-integration.md)
 
 ## Setting up the new policy data
 
 For more information about defining the product models for your insurance products, defining the coverage specifications and options, or creating tables to store your policies, see the following topics:
 
--   [Insurance product models](insurance-product-models.md): Define the product models to reflect your available insurance products.
--   [Coverage specification](coverage-specification.md): Define the coverage specifications for your products, such as what coverage is included and any available options.
--   [Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md): Create tables to store your personal and commercial policies.
+-   [Insurance product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-product-models.md): Define the product models to reflect your available insurance products.
+-   [Coverage specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md): Define the coverage specifications for your products, such as what coverage is included and any available options.
+-   [Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md): Create tables to store your personal and commercial policies.
 
 **Related topics**  
 
 
-[Insurance product models](insurance-product-models.md)
+[Insurance product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-product-models.md)
 
-[Coverage specification](coverage-specification.md)
+[Coverage specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md)
 
-[Setting up an insurance policy for Insurance claims](set-up-an-insurance-policy.md)
+[Setting up an insurance policy for Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-an-insurance-policy.md)
 
-[Policy snapshots in Insurance claims](policy-snapshots.md)
+[Policy snapshots in Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/policy-snapshots.md)
 

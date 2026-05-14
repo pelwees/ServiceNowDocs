@@ -68,7 +68,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
         Add multiple base input fields if more inputs are needed.
 
-        ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/choose-input-data.png)
+        ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/choose-input-data.png)
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -122,7 +122,7 @@ Description of the base input field value.
 
         You can also add the rule conditions to these additional related table and activity stream data sources.
 
-        ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/choosing-input.png)
+        ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/choosing-input.png)
 
         The following table lists the data sources that you can add to the input data.
 

@@ -53,12 +53,12 @@ Configuring AI Data Explorer and Query Generation skills enables you to use a co
     For information on how to configure AI Search, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
 
-**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md)
+**Parent Topic:**[Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/configure-now-assist-ea.md)
 
 **Related topics**  
 
 
-[Generate insights for Enterprise Architecture Workspace dashboard widgets](generate-insights-ea-dashboard.md)
+[Generate insights for Enterprise Architecture Workspace dashboard widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/generate-insights-ea-dashboard.md)
 
-[Explore the Enterprise Architecture Workspace dashboard](../../../use/dashboards/concept/eaw-workspace-dashboard.md)
+[Explore the Enterprise Architecture Workspace dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../use/dashboards/concept/eaw-workspace-dashboard.md)
 

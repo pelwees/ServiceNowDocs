@@ -17,11 +17,11 @@ Next Experience preferences let you personalize how the interface looks, behaves
 
 The Preference modal is divided into three parts: a search field, preference category panel, and a preferences panel that displays the associated preferences for each selected preference category. Once a preference category is selected you see all the preference toggles for that category listed in the Preferences panel.
 
-![Preference modal with search bar, preference categories and associated preferences for each category.](../image/next-experience-user-preferences.png "Preference modal")
+![Preference modal with search bar, preference categories and associated preferences for each category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-experience-user-preferences.png "Preference modal")
 
 As you enter text into the **Search** field, the Preferences panel dynamically updates to show relevant user preference toggles, organized by category. The search function uses a fuzzy search filter, which finds applicable results even with shortened text.
 
-![Preference modal with highlighted Search field and applicable search results.](../image/pol-pref-search-bar.png "Preference modal Search field")
+![Preference modal with highlighted Search field and applicable search results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-search-bar.png "Preference modal Search field")
 
 The following table shows how you can customize different preference types.
 
@@ -35,67 +35,67 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Display preference button.](../image/pol-pref-display.png)
+![Display preference button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-display.png)
 
 </td><td>
 
-[Configure Next Experience display preferences](../task/next-display-preferences.md): Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
+[Configure Next Experience display preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-display-preferences.md): Control how the Next Experience interface looks and behaves on screen, such as layout, visual density, and presentation options. These settings affect only the current user’s view.
 
 </td></tr><tr><td>
 
-![Accessibility preference button.](../image/pol-pref-accessibility.png)
+![Accessibility preference button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-accessibility.png)
 
 </td><td>
 
-[Configure Next Experience accessibility preferences](../task/next-experience-accessibility-preferences.md): Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
+[Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-experience-accessibility-preferences.md): Adjust the interface to support accessibility needs, such as keyboard navigation, contrast, or motion behavior, to make the UI easier to use for different abilities.
 
 </td></tr><tr><td>
 
-![Debugging button.](../image/pol-pref-debugging.png)
+![Debugging button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-debugging.png)
 
 </td><td>
 
-[Configure Next Experience debugging preferences](../task/next-experience-debugging-preferences.md): Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
+[Configure Next Experience debugging preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-experience-debugging-preferences.md): Debug your Next Experience instance to detect and remove the existing and potential errors in your Next Experience components and scripts.**Note:** The debugging preferences only appear for users with the admin role.
 
 </td></tr><tr><td>
 
-![Theme button.](../image/pol-pref-theme.png)
+![Theme button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-theme.png)
 
 </td><td>
 
-[Select a theme in Next Experience](../../../administer/navigation-and-ui/task/select-a-theme-in-next-experience.md): Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
+[Select a theme in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/select-a-theme-in-next-experience.md): Personalize your Next Experience instance by choosing from the multiple themes that are available to you.**Note:** The themes that appear in the Theme user preference are determined by the user access and admin customizations.
 
 </td></tr><tr><td>
 
-![Notifications preference button.](../image/pol-pref-notifications.png)
+![Notifications preference button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-notifications.png)
 
 </td><td>
 
-[Configure Next Experience notification preferences](../task/next-experience-notifications-preferences.md): Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
+[Configure Next Experience notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-experience-notifications-preferences.md): Control how and where you receive system and in‑product notifications, including banners, badges, and delivery channels such as email.
 
 </td></tr><tr><td>
 
-![Language & Region button.](../../../administer/navigation-and-ui/image/pol-pref-language-and-region.png)
+![Language & Region button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/image/pol-pref-language-and-region.png)
 
 </td><td>
 
-[Configure Next Experience language and region preferences](../task/next-experience-language-preferences.md): Define your language, time zone, and date and time formats.
+[Configure Next Experience language and region preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-experience-language-preferences.md): Define your language, time zone, and date and time formats.
 
 </td></tr><tr><td>
 
-![Workspace preference button.](../image/pol-pref-workspace.png)
+![Workspace preference button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-workspace.png)
 
 </td><td>
 
-[Configure Next Experience Workspace preferences](../task/next-experience-workspace-preferences.md): Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
+[Configure Next Experience Workspace preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/next-experience-workspace-preferences.md): Customize behavior within a specific workspace, such as layout or interaction settings**Note:** The workspace preferences appear only if you have access to Workspace and the workspace is in focus.
 
 </td></tr><tr><td>
 
-![User experience preference button.](../image/pol-pref-user-experience.png)
+![User experience preference button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-user-experience.png)
 
 </td><td>
 
-[Configure Next Experience user experience preferences](../../../administer/navigation-and-ui/task/configure-next-experience-user-experience.md): Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
+[Configure Next Experience user experience preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/task/configure-next-experience-user-experience.md): Manage high‑level Next Experience behaviors, such as enabling or disabling the experience, analytics collection, or selecting a start page, depending on your access.
 
 </td></tr></tbody>
 </table>

@@ -25,13 +25,13 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the My Promotion form, fill in the fields.
 
-    For a description of the field values, see [My promotions form](../reference/mco-my-promotions-form.md).
+    For a description of the field values, see [My promotions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-my-promotions-form.md).
 
 4.  Select **Save**.
 
 5.  Select **Create checklist**.
 
-    For further instruction, see [Create a checklist template](mco-create-checklist.md).
+    For further instruction, see [Create a checklist template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md).
 
 6.  Select **Publish**.
 
@@ -40,10 +40,10 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 7.  To reuse the sales promotion details, select **Copy**.
 
 
--   **[Create a checklist template](mco-create-checklist.md)**  
+-   **[Create a checklist template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)**  
 Agents workspace enables the manufacturer to create a checklist for verification.
--   **[Related list for my promotions](related-list-for-my-promotions.md)**  
+-   **[Related list for my promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/related-list-for-my-promotions.md)**  
 In the workspace, you can use the My promotions related list to track information that is related to the sales promotion claim and the product applicable.
 
-**Parent Topic:**[Sales promotion management](mco-sls-pro-mgmt.md)
+**Parent Topic:**[Sales promotion management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)
 

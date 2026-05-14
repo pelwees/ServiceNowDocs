@@ -31,11 +31,11 @@ Each record displays values such as solution name, version, training state, and 
 
 If you don't have any training jobs for a particular capability, the list doesn't display a group for that capability. For example, in this scenario, there is no group for regression because you don't have any regression solutions that you've submitted for training yet.
 
-![How to navigate to the MLTraining Jobs view.](../images/reviewing-ml-solutions-training-jobs1.png)
+![How to navigate to the MLTraining Jobs view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/reviewing-ml-solutions-training-jobs1.png)
 
 Select the Solution Name to see the details of the ML solution, as demonstrated in the images below.
 
-![Select the name of an ML solution to open its detailed record.](../images/reviewing-ml-solutions-training-jobs2.png)
+![Select the name of an ML solution to open its detailed record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/reviewing-ml-solutions-training-jobs2.png)
 
-![The ML solution form with details. The Solution Name highlighted here is the same as the one you selected in the previous image.](../images/reviewing-ml-solutions-training-jobs3.png)
+![The ML solution form with details. The Solution Name highlighted here is the same as the one you selected in the previous image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/reviewing-ml-solutions-training-jobs3.png)
 

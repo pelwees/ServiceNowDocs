@@ -27,11 +27,11 @@ Create a Site-specific Variable set to define query Variable values for use in A
 
 1.  Navigate to the Variable page in the Console.
 
-2.  Create a Variable as described in [Create a Variable set](create-variable-set.md).
+2.  Create a Variable as described in [Create a Variable set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/create-variable-set.md).
 
 3.  When you create the variable, select a Site to associate it.
 
-4.  Create an Auto Query as described in [Create an Auto Query](add-auto-query-console.md).
+4.  Create an Auto Query as described in [Create an Auto Query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/add-auto-query-console.md).
 
 5.  In the Filter section of the query, select the Sites filter.
 

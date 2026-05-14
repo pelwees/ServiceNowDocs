@@ -36,5 +36,5 @@ Role required: sn\_wfo\_cfg\_itsm.manager
     The quiz details page appears.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/workforce-learning-configurable-wfo-itsm.md)
 

@@ -15,7 +15,7 @@ Integrate CDS Visual or other third-party tools for technical visualization. Syn
 
 CPQ can be implemented to share field values with third-party visualization tools so that visualization is updated in real time as the user changes configuration inputs. This article discusses integrating the CDS Visual tool as an example. Depending on the CDS model setup, the visualization may render as CAD drawings, 2D images and 3D interactive images.
 
-![Product visual](../images/cpq-cds-visualization.png)
+![Product visual](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-cds-visualization.png)
 
 The integration between CPQ and CDS is accomplished in the Blueprint layout definition. The following layout CSV file contains a sample of how the CPQ administrator defines where the CDS visualization will be rendered. It also specifies the CDS environment and CPQ field data to be sent.
 
@@ -37,11 +37,11 @@ The integration between CPQ and CDS is accomplished in the Blueprint layout defi
 
 The layout can be updated directly in the layout editor. In the layout editor, create a new section named CDS in your CSV file using the fields highlighted in red below, and upload the new file to layout.
 
-![Technical Configuration Options](../images/cpq-cds-csv.png)
+![Technical Configuration Options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-cds-csv.png)
 
 From here, you can open the settings for this layout element, and configure the following fields using the CDS Properties JSON editor:
 
-![Menu](../images/cpq-cds-settings.png)
+![Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-cds-settings.png)
 
 These properties can be configured in this element. The following table provides the name and description for each element.
 

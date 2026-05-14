@@ -29,5 +29,5 @@ The Linux server supports the following authentication modes:
 |SSH passphrase|SSH passphrase of the Linux server on which Terraform is running.|
 |SSH private key|SSH private key of the Linux server on which Terraform is running.|
 
-**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](cpg-terraform-connector-reference.md)
+**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 

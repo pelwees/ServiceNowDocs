@@ -17,35 +17,35 @@ The ServiceNow® Legal Simple Compliance suite provides prebuilt legal workflows
 
 The Legal Simple Compliance includes the following applications:
 
--   [Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md): Manage disclosures related to gifts and entertainment when employees give or receive them from internal or external parties to ensure they are in accordance with company policies.
--   [Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md): Manage the disclosure, approval, and registry of conflicts of interest that might arise from employees having competing interests or loyalties.
--   [Legal Stock Preclearance](../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md): Manage stock preclearance requests in accordance with your company’s stock preclearance policy.
+-   [Gifts and Entertainment Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md): Manage disclosures related to gifts and entertainment when employees give or receive them from internal or external parties to ensure they are in accordance with company policies.
+-   [Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md): Manage the disclosure, approval, and registry of conflicts of interest that might arise from employees having competing interests or loyalties.
+-   [Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md): Manage stock preclearance requests in accordance with your company’s stock preclearance policy.
 
--   **[Install Legal Simple Compliance](../task/install-legal-simple-compliance.md)**  
+-   **[Install Legal Simple Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../task/install-legal-simple-compliance.md)**  
 Install the Legal Simple Compliance application to offer prebuilt workflows for various legal compliance needs. It enables you to manage legal compliance requests.
 
-**Parent Topic:**[Legal Service Delivery Practice Applications](../../legal-request-management/concept/lsd-practice-app-landing.md)
+**Parent Topic:**[Legal Service Delivery Practice Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-request-management/concept/lsd-practice-app-landing.md)
 
 **Related topics**  
 
 
-[Legal Content Review](../../legal-content-review/reference/legal-content-review.md)
+[Legal Content Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-content-review/reference/legal-content-review.md)
 
-[Legal Digital Forensics](../../legal-digital-forensics/reference/legal-digital-forensics-landing-page.md)
+[Legal Digital Forensics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-digital-forensics/reference/legal-digital-forensics-landing-page.md)
 
-[Legal Invention Disclosure](../../legal-invention-disclosure/reference/legal-invention-disclosure-landing.md)
+[Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-invention-disclosure/reference/legal-invention-disclosure-landing.md)
 
-[Legal Investigations](../../legal-investigations/reference/legal-investigations-landing-page.md)
+[Legal Investigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-investigations/reference/legal-investigations-landing-page.md)
 
-[Legal Simple Contracts](../../legal-simple-contracts/reference/legal-simple-contracts-landing-page.md)
+[Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-simple-contracts/reference/legal-simple-contracts-landing-page.md)
 
-[Legal Simple Privacy](../../legal-simple-privacy/concept/legal-simple-privacy-landing-page.md)
+[Legal Simple Privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-simple-privacy/concept/legal-simple-privacy-landing-page.md)
 
-[Gifts and Entertainment Compliance](../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
+[Gifts and Entertainment Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-gifts-entertainment/reference/lsd-ge-landing-page.md)
 
-[Legal Conflict of Interest](../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)
+[Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-conflict-of-interest/reference/legal-conflict-of-interest-landing-page.md)
 
-[Legal Stock Preclearance](../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md)
+[Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-stock-preclearance/reference/legal-stock-preclearance-landing-page.md)
 
-[Legal Hold Notification](../../legal-hold-notification/concept/lg-hold-notif-landing-page.md)
+[Legal Hold Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/../../legal-hold-notification/concept/lg-hold-notif-landing-page.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 4.  Perform one of the following actions before selecting an install base item on the Create Case form.
 
-    For a description of the field values, see [Case task form](../reference/csm-case-task-form.md).
+    For a description of the field values, see [Case task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-case-task-form.md).
 
     |Field|Action|
     |-----|------|
@@ -35,7 +35,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
     |**Consumer**|Select a consumer that has to be associated with the install base.|
     |**Install base**|Select an install base item to automatically fill in the relevant details from the install base form.|
 
-5.  Next to the **Install Base** field, select the search icon ![Search icon.](../image/search_icon.png), and then select the install bases from the pop-up window.
+5.  Next to the **Install Base** field, select the search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/search_icon.png), and then select the install bases from the pop-up window.
 
     The pop-up window displays only the list of install base items that are related to the selected account or consumer.
 

@@ -38,5 +38,5 @@ It isn’t recommended to change the system property to ignore or log as the rea
 
 ![](../image/read-acl-evaluation.png)
 
-**Parent Topic:**[Report\_view access control](report-view-access-control.md)
+**Parent Topic:**[Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md)
 

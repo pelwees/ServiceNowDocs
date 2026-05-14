@@ -29,7 +29,7 @@ Role required: sn\_si.analyst
 
 2.  Open the security incident that you want to resolve using the AI agent.
 
-3.  Select the Now Assist \(![Now Assist panel for AI agent icon.](../image/ai-icon-now-assist.png)\) icon.
+3.  Select the Now Assist \(![Now Assist panel for AI agent icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/ai-icon-now-assist.png)\) icon.
 
     The Resolve security incident agentic workflow is on-demand. You can enter a query in natural language to resolve a security incident by using this agentic workflow.
 
@@ -39,7 +39,7 @@ Role required: sn\_si.analyst
 
 5.  Select **Resolve security incident**.
 
-    ![Sample resolution plan for a security incident.](../image/ai-agent-resolution-plan.png)
+    ![Sample resolution plan for a security incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/ai-agent-resolution-plan.png)
 
     The AI agent analyzes the security incident and provides a summary of the incident and its current state. Additionally, by using the incident details, knowledge articles, and similar closed security incidents, the AI agent provides a resolution plan.
 
@@ -143,7 +143,7 @@ Close the security incident
 
 </td><td>
 
-The AI agent closes the incident. For more information, see [Close a security incident](close-sir-incident-aiagent.md).
+The AI agent closes the incident. For more information, see [Close a security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/close-sir-incident-aiagent.md).
 
 </td></tr></tbody>
 </table>

@@ -208,5 +208,5 @@ Subject: &lt;Incident \#&gt; - State changed
  URL to the incident
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+</table>**Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../concept/using-operational-technology-incident-mgt.md)
 

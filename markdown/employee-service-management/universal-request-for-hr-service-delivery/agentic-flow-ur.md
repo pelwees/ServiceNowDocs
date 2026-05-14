@@ -87,5 +87,5 @@ The AI agent decision log displays the AI agents that are working to predict the
 
 This is an example of how the Universal Request Router agentic workflow automatically predicts the department for the ticket, and creates a primary ticket for the identified department.![](../images/ur-predict.png)![](../images/ur-predict-service.png)
 
-**Parent Topic:**[Using agentic flows in Universal Request AI agent collection](ur-ai-agent-collection.md)
+**Parent Topic:**[Using agentic flows in Universal Request AI agent collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-ai-agent-collection.md)
 

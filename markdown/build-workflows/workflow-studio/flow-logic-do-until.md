@@ -44,50 +44,50 @@ This flow logic produces no outputs.
 
 In this example, the flow sends a daily email about the incident, until the incident is in a closed or canceled state. Inside the **Do the following** branch, there is a step for looking up the incident record.
 
-![Example Do the following until flow.](../images/do-until-example-1.png)
+![Example Do the following until flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/do-until-example-1.png)
 
 ## Execution details
 
-![Example execution details for a do until flow.](../images/ex-details-do-until.png "Execution details for Do the following until")
+![Example execution details for a do until flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/ex-details-do-until.png "Execution details for Do the following until")
 
 1.  The header shows the state, start time, and runtime for the flow logic.
 2.  This flow logic can run actions or subflows multiple times until it's condition is met. Use the arrow icons to select an iteration and its values.
 3.  The Actions section shows details on the actions, flows, or subflows that are run during this loop iteration.
 
-**Parent Topic:**[Workflow Studio flow logic](flow-logic.md)
+**Parent Topic:**[Workflow Studio flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic.md)
 
 **Related topics**  
 
 
-[Append to Flow Variables flow logic](../reference/append-to-flow-variables-flow-logic.md)
+[Append to Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/append-to-flow-variables-flow-logic.md)
 
-[Assign subflow outputs flow logic](flow-logic-assign-subflow-outputs.md)
+[Assign subflow outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-assign-subflow-outputs.md)
 
-[Call a workflow flow logic](flow-logic-call-workflow.md)
+[Call a workflow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-call-workflow.md)
 
-[Do the following in parallel flow logic](flow-logic-do-following-in-parallel.md)
+[Do the following in parallel flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-do-following-in-parallel.md)
 
-[Dynamic flows flow logic](flow-logic-dynamic-flow.md)
+[Dynamic flows flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-dynamic-flow.md)
 
-[End Flow flow logic](flow-logic-end-action.md)
+[End Flow flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-end-action.md)
 
-[Exit Loop flow logic](../reference/exit-loop-flow-logic.md)
+[Exit Loop flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/exit-loop-flow-logic.md)
 
-[For Each flow logic](flow-logic-for-each.md)
+[For Each flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-for-each.md)
 
-[Get Flow Outputs flow logic](../reference/get-flow-outputs-flow-logic.md)
+[Get Flow Outputs flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/get-flow-outputs-flow-logic.md)
 
-[Go back to flow logic](../reference/go-back-to-flow-logic.md)
+[Go back to flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/go-back-to-flow-logic.md)
 
-[If flow logic](flow-logic-if.md)
+[If flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-if.md)
 
-[Make a decision flow logic](flow-logic-make-decision.md)
+[Make a decision flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-make-decision.md)
 
-[Set Flow Variables flow logic](flow-logic-set-flow-variables.md)
+[Set Flow Variables flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-set-flow-variables.md)
 
-[Skip Iteration flow logic](../reference/skip-iteration-flow-logic.md)
+[Skip Iteration flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/skip-iteration-flow-logic.md)
 
-[Try flow logic](flow-logic-try.md)
+[Try flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-try.md)
 
-[Wait for a duration flow logic](flow-logic-wait-for-a-duration.md)
+[Wait for a duration flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-logic-wait-for-a-duration.md)
 

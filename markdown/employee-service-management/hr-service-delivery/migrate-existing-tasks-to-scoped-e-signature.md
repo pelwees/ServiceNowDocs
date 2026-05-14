@@ -31,7 +31,7 @@ The **Migrate HR e-signature tasks** scheduled job migrates existing HR task tem
 
 |Pre-migration|Post-migration|
 |-------------|--------------|
-|![Before migrating to new HR task type for e-signature](../image/e-signature-migrate-existing-task-types.png)|![After migrating to new HR task type for e-signature](../image/e-signature-migrate-new-task-type.png)|
+|![Before migrating to new HR task type for e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/e-signature-migrate-existing-task-types.png)|![After migrating to new HR task type for e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/e-signature-migrate-new-task-type.png)|
 
 The associated document and signature configurations are also migrated to new or existing e-signature templates. If an e-signature template for the applicable document and signature configuration already exists, then the existing e-signature template is used. Otherwise, a new e-signature template is created.
 

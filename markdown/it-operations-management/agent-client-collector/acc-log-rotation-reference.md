@@ -66,5 +66,5 @@ The log level to be measured by the logs. Available options are: **Panic, Fatal,
 The specified log level represents the lowest level of events displayed in the log. For example, a user who specifies **Error** sees all Error events, as well as Fatal and Panic events.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

@@ -33,29 +33,29 @@ This feature enables administrators to copy and paste search criteria from a Mic
 
     The choice list remains visible.
 
-    ![Comma-delimited filter](../image/CommaDelimitedFilter.png)
+    ![Comma-delimited filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CommaDelimitedFilter.png)
 
     Alternatively, for text or number fields, type your search options. Separate the options by commas or put each option on a separate line, and do not enclose the selections in brackets.
 
-    ![Incident field is one of list of incidents separated by next line](../image/MultipleStringValuesText.png)
+    ![Incident field is one of list of incidents separated by next line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/MultipleStringValuesText.png)
 
 3.  Click **Run** to filter the list.
 
     The filter conditions appear as a comma-delimited string at the top of the results list.
 
-    ![Comma-delimited filter string](../image/CommaDelimitedFilter2.png "Comma-delimited filter string")
+    ![Comma-delimited filter string](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/CommaDelimitedFilter2.png "Comma-delimited filter string")
 
 
-**Parent Topic:**[Filters](../concept/c_Filters.md)
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Filters.md)
 
 **Related topics**  
 
 
-[Create a filter in List](t_CreatingFilters.md)
+[Create a filter in List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md)
 
-[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)
+[Add related list conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists-v3/task/create-related-list-query.md)
 
-[OR conditions](../concept/c_UsingORConditions.md)
+[OR conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingORConditions.md)
 
-[Dynamic operators](../reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_UsingTheDynamicOperator.md)
 

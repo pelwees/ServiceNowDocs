@@ -178,7 +178,7 @@ Returns the output of the Append and AppendLine methods.
 
 ## Configure inputs for the parameters
 
-To enter inputs for parameters, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs for parameters, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
-**Parent Topic:**[StringBuilder](../concept/stringbuilder-connector.md)
+**Parent Topic:**[StringBuilder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/stringbuilder-connector.md)
 

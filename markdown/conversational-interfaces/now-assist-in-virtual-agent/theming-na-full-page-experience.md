@@ -23,7 +23,7 @@ The chat header logo is shared between standard and enhanced chat, and it’s de
 
 For the variables, `nass` refers to enhanced chat.
 
-For more information about enhanced chat, see [Enhanced chat](../concept/nava-enhanced-chat.md).
+For more information about enhanced chat, see [Enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/nava-enhanced-chat.md).
 
 <table id="table_ok3_wwm_bdc"><thead><tr><th>
 

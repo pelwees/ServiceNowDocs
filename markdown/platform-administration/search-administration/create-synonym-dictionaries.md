@@ -55,16 +55,16 @@ By default, the system provides a sample Zing synonym dictionary called **Exampl
     A message indicates that publication of your synonym dictionaries has been scheduled. Refresh the page to see whether publication is complete. The dictionary is published when its state changes from **Draft** to **Published**.
 
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-synonyms-expand-results.md)
 
 **Related topics**  
 
 
-[Enable search synonyms](enable-text-index-synonyms.md)
+[Enable search synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-text-index-synonyms.md)
 
-[Select synonym dictionaries for a table](select-synonym-dictionaries.md)
+[Select synonym dictionaries for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/select-synonym-dictionaries.md)
 
-[Disable synonyms for a table](disable-synonyms-for-a-table.md)
+[Disable synonyms for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/disable-synonyms-for-a-table.md)
 
-[Debug synonym searches](debug-synonym-searches.md)
+[Debug synonym searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/debug-synonym-searches.md)
 

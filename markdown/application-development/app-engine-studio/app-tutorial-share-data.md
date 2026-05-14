@@ -33,11 +33,11 @@ Phase 1
 
 </td><td align="justify">
 
-![Completed icon](../image/app-tutorial-progress-complete2.png)
+![Completed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-complete2.png)
 
 </td><td>
 
-[Create a data table](app-tutorial-create-table.md)
+[Create a data table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-table.md)
 
 </td></tr><tr><td>
 
@@ -45,11 +45,11 @@ Phase 2
 
 </td><td align="justify">
 
-![Completed icon](../image/app-tutorial-progress-complete2.png)
+![Completed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-complete2.png)
 
 </td><td>
 
-[Configure a data table](app-tutorial-configure-table.md)
+[Configure a data table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-table.md)
 
 </td></tr><tr><td>
 
@@ -57,11 +57,11 @@ Phase 3
 
 </td><td align="justify">
 
-![In progress icon](../image/app-tutorial-progress-wip.png)
+![In progress icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-wip.png)
 
 </td><td>
 
-[Share data between tables](app-tutorial-share-data.md)
+[Share data between tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-share-data.md)
 
 </td></tr></tbody>
 </table>Storing data in multiple tables enables you to keep your data organized and modular. When you want to share data between tables you can create reference fields, which pull records from one table into another without duplicating the data.
@@ -86,7 +86,7 @@ Fourth video in the app creation tutorial series.
 
 1.  Create a new table to store airport information.
 
-    In our tutorial, we create a new table from a spreadsheet that stores airport information. To follow along with the tutorial, [download the airport spreadsheet](https://downloads.docs.servicenow.com/resource/enus/tutorial/app-tutorial-airports.xlsx). Then use the procedures in [Import a spreadsheet](spreadsheet-importing-spreadsheet.md) and [Create new table from spreadsheet import](spreadsheet-create-new-table.md) to create a new table from the airport spreadsheet.
+    In our tutorial, we create a new table from a spreadsheet that stores airport information. To follow along with the tutorial, [download the airport spreadsheet](https://downloads.docs.servicenow.com/resource/enus/tutorial/app-tutorial-airports.xlsx). Then use the procedures in [Import a spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-importing-spreadsheet.md) and [Create new table from spreadsheet import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/spreadsheet-create-new-table.md) to create a new table from the airport spreadsheet.
 
 2.  Customize the table so that it displays the information that you want to reference.
 
@@ -94,7 +94,7 @@ Fourth video in the app creation tutorial series.
 
     2.  On the table landing page, select the More actions icon \(![](../../../administer/ui-builder/image/three-dot-icon.png)\) next to **Data** in the top ribbon, then select **Fields**.
 
-        ![Choose theFields data view to add and configure fields in your table.](../image/app-tutorial-connect-tables-data-fields.png)
+        ![Choose theFields data view to add and configure fields in your table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-connect-tables-data-fields.png)
 
     3.  On the **Fields** page, in the **Name** field, toggle on the **Display** switch \(![](../../../administer/form-builder/image/toggle-on.png)\) to enable other tables to reference airport names.
 
@@ -132,7 +132,7 @@ Fourth video in the app creation tutorial series.
 
         In our tutorial, the reference fields are labeled `Travel From` and `Travel To`.
 
-        ![You can search for fields to add to your table in the search bar in the Add form elements panel.](../image/app-tutorial-search-add-form-elements.png)
+        ![You can search for fields to add to your table in the search bar in the Add form elements panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-search-add-form-elements.png)
 
     3.  Drag the reference fields from the **Add form elements** panel to the **Default view** panel.
 
@@ -147,5 +147,5 @@ The data model for the employee travel request application is complete.
 
 ## What to do next
 
-Continue building the employee travel request application by proceeding to the next step in the app creation tutorial: [Creating user experiences](../concept/app-tutorial-experience-layer.md).
+Continue building the employee travel request application by proceeding to the next step in the app creation tutorial: [Creating user experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/app-tutorial-experience-layer.md).
 

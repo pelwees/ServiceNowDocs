@@ -38,7 +38,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Review tasks** &gt; **All**
 4.  Open the review task from the list
 
@@ -79,7 +79,7 @@ Steps
 </td></tr></tbody>
 </table>2.  Select **Cancel review**.
 
-    ![Cancel internal review task](../image/cmpro-internal-review-cancel.png)If you have selected **Cancel review** from the Reviews tab, select the review task to be canceled in the pop-up window.
+    ![Cancel internal review task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-internal-review-cancel.png)If you have selected **Cancel review** from the Reviews tab, select the review task to be canceled in the pop-up window.
 
 3.  In the Comments field, enter information for canceling the request
 
@@ -91,5 +91,5 @@ Steps
 -   The review task is canceled and the cancellation comments appear in the Additional Comments section of the contract request.
 -   When all the review tasks are cancelled or closed, the contract request State updates to Work in progress.
 
-**Parent Topic:**[Internal review overview](cncore-expert-review.md)
+**Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 

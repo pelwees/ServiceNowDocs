@@ -39,18 +39,18 @@ Both the Kafka Topics \[sys\_kafka\_topic\] table and the Kafka Namespaces \[sys
 
 All domain support features require the Domain Support - Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\) plugin.
 
-**Parent Topic:**[Hermes Messaging Service reference](../concept/hermes-messaging-service-reference.md)
+**Parent Topic:**[Hermes Messaging Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-reference.md)
 
 **Related topics**  
 
 
-[Hermes Messaging Service components](../concept/hermes-messaging-service-components.md)
+[Hermes Messaging Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-components.md)
 
-[Hermes Messaging Service security model](../concept/hermes-messaging-service-security-model.md)
+[Hermes Messaging Service security model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-security-model.md)
 
-[Hermes Messaging Service system properties](hermes-messaging-service-properties.md)
+[Hermes Messaging Service system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-properties.md)
 
-[Hermes Messaging Service roles](hermes-messaging-service-roles.md#)
+[Hermes Messaging Service roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-roles.md#)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

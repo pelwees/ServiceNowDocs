@@ -27,7 +27,7 @@ To request SDS in different languages, the plugin 3E spoke \(com.sn\_hs\_spoke\_
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  In the primary navigation, select **Environmental Management** \(![environmental management](../image/icon-hs-envt-mgmt.png)\) icon.
+2.  In the primary navigation, select **Environmental Management** \(![environmental management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/icon-hs-envt-mgmt.png)\) icon.
 
 3.  Select the **Chemicals** list and then select **All**.
 
@@ -46,5 +46,5 @@ To request SDS in different languages, the plugin 3E spoke \(com.sn\_hs\_spoke\_
 
 The SDS is requested from the service provider. The SDS request is displayed in the **Service provider requests** related list of the chemical record. The document is added to the **Documents** related list when the response is received from the service provider.
 
-**Parent Topic:**[Chemical management](../concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-using-chemical-management.md)
 

@@ -35,5 +35,5 @@ To ensure consistency, use the same language. If the user preference language in
     |**False**|The language displayed in Virtual Agent honors the user's preferred language that is set on the ServiceNow instance.|
 
 
-**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md)
+**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 

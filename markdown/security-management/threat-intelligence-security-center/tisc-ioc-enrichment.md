@@ -68,27 +68,27 @@ Automate enrichment of IOC’s triggers only when:
 
     1.  Add tag **Not Potential Threat &amp; Enriched** to indicate that it is not a threat.
 
-    ![Automated IOC Enrichment in TISC.](../image/tisc-automated-ioc-enrichment.png)
+    ![Automated IOC Enrichment in TISC.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-automated-ioc-enrichment.png)
 
 
-**Parent Topic:**[Working with automated flows](../concept/tisc-automated-flows.md)
+**Parent Topic:**[Working with automated flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-automated-flows.md)
 
 **Related topics**  
 
 
-[Automated sharing of high-risk IOC's with trusted partners](tisc-automated-sharing-flow.md)
+[Automated sharing of high-risk IOC's with trusted partners](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-sharing-flow.md)
 
-[Automatically add threat intelligence to a TAXII collection](tisc-taxii-automated-flow.md)
+[Automatically add threat intelligence to a TAXII collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-automated-flow.md)
 
-[Create vulnerability assessment for zero day](tisc-create-vul-assess.md)
+[Create vulnerability assessment for zero day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-vul-assess.md)
 
-[Analyze, assess, and disseminate observables](tisc-disseminate-observables.md)
+[Analyze, assess, and disseminate observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-disseminate-observables.md)
 
-[Analyze and assess threat IoC’s](tisc-analyze-ioc.md)
+[Analyze and assess threat IoC’s](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-analyze-ioc.md)
 
-[Vulnerability Management Support](tisc-vul-mgmt.md)
+[Vulnerability Management Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-mgmt.md)
 
-[Zero-day vulnerability tracking](tisc-zero-vul.md)
+[Zero-day vulnerability tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-zero-vul.md)
 
-[Automated flows tables](../concept/tisc-flows-tables.md)
+[Automated flows tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-flows-tables.md)
 

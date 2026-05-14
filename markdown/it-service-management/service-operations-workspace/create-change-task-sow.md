@@ -23,11 +23,11 @@ Role required: itil or admin
 
 1.  Open a change request.
 
-2.  On the change record page, Click the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Create Change Task**.
+2.  On the change record page, Click the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Create Change Task**.
 
 3.  In the Create Change task dialog box, select the task type.
 
-    By default, the following task types are available. To create additional task types, see [Create a task type for problem or change in Service Operations Workspace](create-task-type-sow.md).
+    By default, the following task types are available. To create additional task types, see [Create a task type for problem or change in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-task-type-sow.md).
 
     -   Planning
     -   Implementation
@@ -158,22 +158,22 @@ Date the change task is planned to be completed.If the task type is **Implementa
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 
 **Related topics**  
 
 
-[Create a change request in Service Operations Workspace](create-change-sow.md)
+[Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-sow.md)
 
-[Work on a change request in Service Operations Workspace](work-on-change-sow.md)
+[Work on a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 
-[Work on a change task in Service Operations Workspace](work-on-change-task-sow.md)
+[Work on a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-task-sow.md)
 
-[Create a Change Advisory Board \(CAB\) definition](cm-create-cab-definition-sow.md)
+[Create a Change Advisory Board \(CAB\) definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-definition-sow.md)
 
-[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 
-[Conduct a CAB meeting in the CAB workbench](cm-manage-cab-meeting-workbench-sow.md)
+[Conduct a CAB meeting in the CAB workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-manage-cab-meeting-workbench-sow.md)
 

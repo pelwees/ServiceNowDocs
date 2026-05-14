@@ -34,7 +34,7 @@ Role required: map admin, map editor, map editor limited
 
 2.  Additionally, if you have existing campuses, you can search for a campus on the Map Studio home page.
 
-    1.  Select the **Search** icon \(![search icon](../../workplace-case-mgmt/image/search-icon.png)\) to search for a campus that you want to update or switch to.
+    1.  Select the **Search** icon \(![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../workplace-case-mgmt/image/search-icon.png)\) to search for a campus that you want to update or switch to.
 
 3.  To create a campus, select the **Get Started** tab.
 
@@ -64,7 +64,7 @@ Role required: map admin, map editor, map editor limited
 
 10. In case, if you cannot find your newly created building on the map, you will see the following screen:
 
-    ![Building location shown on the map](../images/campus-creation1.png)
+    ![Building location shown on the map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/campus-creation1.png)
 
 11. Select **Continue**.
 
@@ -97,7 +97,7 @@ Role required: map admin, map editor, map editor limited
 
 19. Navigate to '**Manage Workplace** &gt; **Campus and buildings**.
 
-    It is important that your campus encompasses or its boundaries are well adjusted for all buildings. The boundaries are automatically adjusted. For more information, see [Working with boundary editor](working-with-boundary-editor.md).
+    It is important that your campus encompasses or its boundaries are well adjusted for all buildings. The boundaries are automatically adjusted. For more information, see [Working with boundary editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/working-with-boundary-editor.md).
 
     Your campus is configured.
 
@@ -107,7 +107,7 @@ Role required: map admin, map editor, map editor limited
 
 22. Locate your floor where you want to upload your CAD or raster file.
 
-    \(Optional\) At this stage, floor plans can be uploaded and imported as AutoCAD \(DXF/DWG\) or raster image file \(PNG\) sources or you can import the files after creating a campus. Ensure that you've reviewed the design guidelines before importing the sources to the Map Studio. For more information about how to import, see [Import CAD files to Map Studio](CAD-file-import.md) and [Import Raster files](import-raster-files.md).
+    \(Optional\) At this stage, floor plans can be uploaded and imported as AutoCAD \(DXF/DWG\) or raster image file \(PNG\) sources or you can import the files after creating a campus. Ensure that you've reviewed the design guidelines before importing the sources to the Map Studio. For more information about how to import, see [Import CAD files to Map Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/CAD-file-import.md) and [Import Raster files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-raster-files.md).
 
 23. After importing a CAD or raster file, select **Manage Workplace** and select **Overview**.
 
@@ -116,9 +116,9 @@ Role required: map admin, map editor, map editor limited
     Your map is configured and available on the Map Studio.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Previous topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Next topic:**[Working with boundary editor](working-with-boundary-editor.md)
+**Next topic:**[Working with boundary editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/working-with-boundary-editor.md)
 

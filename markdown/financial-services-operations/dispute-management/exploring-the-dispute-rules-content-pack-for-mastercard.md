@@ -30,5 +30,5 @@ Some of the key benefits of using Dispute Rules Content Pack for Mastercard are:
 -   Disputes are categorized for accurate processing.
 -   Chargeback eligibility is determined based on the Mastercard Chargeback rules.
 
-**Parent Topic:**[Dispute Rules Content Pack for Mastercard](dispute-rules-content-pack-for-mastercard-landing-page.md)
+**Parent Topic:**[Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-landing-page.md)
 

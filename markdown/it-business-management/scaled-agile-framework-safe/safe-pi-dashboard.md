@@ -15,9 +15,9 @@ breadcrumb: [Performance Analytics Content Pack for Essential SAFe, Scaled Agile
 
 The SAFe PI Dashboard allows you to track the progress of your features in the current program increment \(PI\).
 
-![SAFe PI Summary tab](../image/safe-PI-summary.png "PI Summary tab")
+![SAFe PI Summary tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-PI-summary.png "PI Summary tab")
 
-![SAFe PI Cycle time](../image/safe-PI-cycle-time.png "Cycle Time tab")
+![SAFe PI Cycle time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-PI-cycle-time.png "Cycle Time tab")
 
 The SAFe PI dashboard provides the following details:
 
@@ -102,7 +102,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   PI Cumulative Flow Diagram
 -   Story Cycle Time
 
-For more information, see [Using Solution Library for Essential SAFe dashboards](../reference/using-solution-library-for-essential-safe-dashboards.md).
+For more information, see [Using Solution Library for Essential SAFe dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_enf_b2k_k3b"><thead><tr><th>
 
@@ -235,10 +235,10 @@ Identify the time taken for each story in the PI to move from an in-progress sta
 
  If there are too many stories at any area of the chart and the bubbles appear crowded on the report, you can zoom in that particular area of the report for a clearer view.
 
- ![Cycle Time Zoom](../image/cycle-time-zoom.gif)
+ ![Cycle Time Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/cycle-time-zoom.gif)
 
 </td></tr></tbody>
-</table>You can customize the Burnup, Burndown, and Cumulative Flow Diagram reports. For more information, see [Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md).
+</table>You can customize the Burnup, Burndown, and Cumulative Flow Diagram reports. For more information, see [Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/customizing-safe-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
+**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 

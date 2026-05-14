@@ -53,5 +53,5 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
             **Note:** If the enterprise model already contains another calibration attribute with the same name, this attribute is cloned with a numeric suffix appended to the name.
 
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-models.md)
 

@@ -18,5 +18,5 @@ Enhance the quality and efficiency of your teams using smart scheduling, team st
 **Related topics**  
 
 
-[Configuring Workforce Optimization for Field Service](configuring-wfo-fsm.md)
+[Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/configuring-wfo-fsm.md)
 

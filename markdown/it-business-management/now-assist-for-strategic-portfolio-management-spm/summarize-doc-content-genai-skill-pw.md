@@ -20,7 +20,7 @@ Doc summarization and action skill
 
 ## Before you begin
 
-The Project doc generation and insights skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+The Project doc generation and insights skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles.
 
@@ -99,7 +99,7 @@ Procedure
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../images/icon-helpful-feedback.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-helpful-feedback.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d189446e254">
 
@@ -107,7 +107,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More information icon.](../images/icon-more-information-spm.png)\).
+If you want to check some details about the summary, select the more info icon \(![More information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-more-information-spm.png)\).
 
 </td></tr><tr><td id="d189446e269">
 
@@ -115,17 +115,17 @@ If you want to check some details about the summary, select the more info icon \
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../images/icon-copy-spm.png)\) to use the summary information for another purpose, such as pasting it into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-copy-spm.png)\) to use the summary information for another purpose, such as pasting it into an email.
 
 </td></tr></tbody>
 </table>    **Note:** Because the information in these fields is AI generated, it's a good idea to review the text and make sure it's accurate.
 
-    Only an administrator can activate the Now Assist skills. For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+    Only an administrator can activate the Now Assist skills. For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
     The Project doc generation and insights skill checks the doc content to determine if enough information is available to generate a summary. If there isn't enough content to summarize, you can add more content and retry.
 
     **Note:** The **Summarize** button is visible only if the Project doc generation and insights skill is active. If the selected text exceeds the token limit for Now Assist, this skill can't be executed. If there is more content to summarize, you can remove some content and retry.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

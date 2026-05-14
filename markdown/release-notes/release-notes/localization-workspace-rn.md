@@ -69,5 +69,5 @@ Install Localization Workspace by requesting it from the ServiceNow Store. See [
     Give your users specialized support with System Localization. Define locales and adjust localization settings to display specific time, date, and currency to users.
 
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

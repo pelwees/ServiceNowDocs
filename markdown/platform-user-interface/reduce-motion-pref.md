@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Reduce motion accessibility preference.
 
-![Reduce motion accessibility preference.](../image/coral-pref-reduce-motion.png)
+![Reduce motion accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-reduce-motion.png)
 
 The purpose of this preference is to minimize distractions and improve usability.
 

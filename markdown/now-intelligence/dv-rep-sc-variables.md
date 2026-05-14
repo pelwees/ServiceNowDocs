@@ -18,7 +18,7 @@ Reporting on variables can be helpful in determining if certain catalog items ar
 
 Additionally, you can create filters on the same variable. For example, if a specific mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/configure-data-visualizations.md)
 
 ## Use service catalog variables in data visualizations
 
@@ -68,7 +68,7 @@ Under **Group by**, select **+ Add**. Then select **Variables** at the bottom of
 
 </td><td>
 
-Under **Group by**, select **Add alternative group by**. Then select **Variables** at the bottom of the field list. A viewer can choose one of these variables at runtime, as described in [Select a group-by value in a data visualization as a viewer](../../performance-analytics/concept/select-group-runtime.md).
+Under **Group by**, select **Add alternative group by**. Then select **Variables** at the bottom of the field list. A viewer can choose one of these variables at runtime, as described in [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/select-group-runtime.md).
 
 </td></tr><tr><td id="d211462e223">
 
@@ -98,11 +98,11 @@ Under **Group by**, select **+Add** for Columns or Rows, then select **Variables
 
 Here you have opened the Edit data source page for a data visualization. No custom conditions have been defined for this data visualization, so you select **Add custom condition**.
 
-![The Add custom conditions link in the Edit data source page.](../image/edit-data-source-custom-conditions.png)
+![The Add custom conditions link in the Edit data source page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-data-source-custom-conditions.png)
 
 Next, you scroll down the Select field list to Variable, select that, and select a variable.
 
-![Selecting a variable for the custom filter.](../image/edit-data-source-variable-filter.png)
+![Selecting a variable for the custom filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/edit-data-source-variable-filter.png)
 
 Finally you select the operator and the value, such as Is \| A4, and select **Apply**.
 
@@ -110,7 +110,7 @@ Finally you select the operator and the value, such as Is \| A4, and select **Ap
 
 In this case, you have a horizontal bar visualization of data in the Requested Items table. In the Group by section, you edit the group by. You scroll to the bottom of the list of fields and replace the Active field with Variables, and select your variable.
 
-![Selecting a service catalog variable in a Group by field.](../image/sc-variable-dv-addl-groupby.png)
+![Selecting a service catalog variable in a Group by field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/sc-variable-dv-addl-groupby.png)
 
 If you want to add a service catalog variable as a row or column on a Pivot Table, the experience is almost identical.
 
@@ -118,5 +118,5 @@ If you want to add a service catalog variable as a row or column on a Pivot Tabl
 
 You want a different service catalog variable as an alternative group by. You select **Add alternative group by** and scroll to the bottom. You expand **Variables**, and the list changes to a selection of variables. Not all variables that were available as a group by are available as an alternative group by. Anyway, you select some variables and press **Apply all**.
 
-![Additional group by selector for service catalog variables.](../../par-for-workspace/image/additional-group-by-variables-dv.png)
+![Additional group by selector for service catalog variables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/additional-group-by-variables-dv.png)
 

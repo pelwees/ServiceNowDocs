@@ -79,12 +79,12 @@ Business Justification
 Business justification for the product request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit your TRM products](../../task/eaw-task/eaw-add-edit-my-trm-prod.md)
+[Add or edit your TRM products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-my-trm-prod.md)
 
-[Add a TRM product in Enterprise Architecture Workspace](../../task/eaw-task/eaw-create-trm-prod-lifecycle.md)
+[Add a TRM product in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-trm-prod-lifecycle.md)
 

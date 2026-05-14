@@ -31,7 +31,7 @@ Manually trigger flows or subflows in Oracle EBS \(Inbound\)
 
 3.  In the Integration Services list, select the subflows that you want to manually trigger.
 
-    ![Manually trigger flows or subflows in Oracle EBS (Inbound)](../../source-to-pay-operations/image/manual-trigger-flow-oracle.png "Manually trigger flows or subflows in Oracle EBS")
+    ![Manually trigger flows or subflows in Oracle EBS (Inbound)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/manual-trigger-flow-oracle.png "Manually trigger flows or subflows in Oracle EBS")
 
 4.  Select **Run job** to trigger the flow or subflow.
 
@@ -47,7 +47,7 @@ Manually trigger flows or subflows in Oracle EBS \(Inbound\)
 
     You can view the flows or subflows that you triggered.
 
-    ![View the list of Flows or subflows in Workflow Studio](../../source-to-pay-operations/image/manual-trigger-ws-oracle.png "Flows or subflows in Workflow Studio")
+    ![View the list of Flows or subflows in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/manual-trigger-ws-oracle.png "Flows or subflows in Workflow Studio")
 
 9.  You can use the trigger condition as a part of the base system to execute the flow or subflow.
 
@@ -56,12 +56,12 @@ Manually trigger flows or subflows in Oracle EBS \(Inbound\)
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use schedule flows in Oracle EBS](../concept/using-schedule-flows-oracle-ebs.md)
+**Parent Topic:**[Use schedule flows in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-schedule-flows-oracle-ebs.md)
 
 **Related topics**  
 
 
-[Use a flow or subflow in Oracle EBS \(Outbound\)](use-flow-or-subflow-oracle-ebs.md)
+[Use a flow or subflow in Oracle EBS \(Outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-oracle-ebs.md)
 
-[Copy a flow or subflow in Oracle EBS](copy-flow-or-subflow-oracle-ebs.md)
+[Copy a flow or subflow in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-oracle-ebs.md)
 

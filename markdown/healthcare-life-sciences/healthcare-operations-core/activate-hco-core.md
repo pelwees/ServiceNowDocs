@@ -29,7 +29,7 @@ The following items are installed with Healthcare and Life Sciences Service Mana
 -   ServiceNow Store applications
 -   Business rules
 
-For more information, see [Components installed with Healthcare Operations Core](../reference/hcls-cto-components_0.md).
+For more information, see [Components installed with Healthcare Operations Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../reference/hcls-cto-components_0.md).
 
 ## Procedure
 

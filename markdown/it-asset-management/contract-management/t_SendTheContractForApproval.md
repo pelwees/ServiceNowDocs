@@ -35,27 +35,27 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
     An email message is sent to the selected approver and the contract **Substate** changes to **Under Review**.
 
 
--   **[Approve or reject a contract](t_ApproveOrRejectAContract.md)**  
+-   **[Approve or reject a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ApproveOrRejectAContract.md)**  
 If you are the contract manager, you can approve or reject a contract.
--   **[View approval history on contracts](t_ObtainContractApproval.md)**  
+-   **[View approval history on contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ObtainContractApproval.md)**  
 You can view the approval history for a contract in the Approval History related list on the Contract form.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_Contracts.md)
 
 **Related topics**  
 
 
-[Create a contract](t_CreateAContract.md)
+[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateAContract.md)
 
-[Adjust a contract](t_AdjustAContract.md)
+[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_AdjustAContract.md)
 
-[Verify contract administrator assignment for notification](t_SendAContractNotification.md)
+[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_SendAContractNotification.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_TermsAndConditions.md)
 
-[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
-[Monitor a contract](t_MonitoringContracts.md)
+[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_MonitoringContracts.md)
 
-[Contract approval flow](../concept/contract-approval-workflow.md)
+[Contract approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/contract-approval-workflow.md)
 

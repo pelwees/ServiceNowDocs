@@ -15,7 +15,7 @@ Run the specified scheduled job to get new entities that may have been added in 
 
 ## Before you begin
 
-At least one [Workday report](activate-the-workday-reports.md) must be activated.
+At least one [Workday report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-the-workday-reports.md) must be activated.
 
 Role required: admin
 

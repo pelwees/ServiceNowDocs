@@ -21,7 +21,7 @@ Role required: sn\_shop.shopper
 
 ## About this task
 
-You can view and edit the **Watchlist** either from the **Reason for purchase** page or on the Purchase requisition under **My Purchases** in the Shopping hub. For more information, see [Activity stream](../concept/activity-stream.md). By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md).
+You can view and edit the **Watchlist** either from the **Reason for purchase** page or on the Purchase requisition under **My Purchases** in the Shopping hub. For more information, see [Activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/activity-stream.md). By default, you can add up to 20 users in the watchlist. You can modify this value by configuring the system properties. For more information, see [Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/installed-with-FSC.md).
 
 **Note:** This limit for the number of users on the watchlist is applicable only while making the purchase request. You can add more users to the watchlist after the purchase request is created. However, you can add more users only at the purchase requisitions page.
 
@@ -35,7 +35,7 @@ You can view and edit the **Watchlist** either from the **Reason for purchase** 
 
         This watchlist applies to the **Entire purchase**, and therefore the watchlist is also applicable to the entire purchase request.
 
-        ![Add users to the watchlist of the entire purchase](../image/spo-complete-checkout-watchlist2.png "Add users to the watchlist of the entire purchase")
+        ![Add users to the watchlist of the entire purchase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-complete-checkout-watchlist2.png "Add users to the watchlist of the entire purchase")
 
 2.  In the Reason for purchase page, if you're on the Apply to **Product** view, perform the following steps:
 
@@ -45,10 +45,10 @@ You can view and edit the **Watchlist** either from the **Reason for purchase** 
 
         The users on the watchlist for each product or item will be combined into one purchase request and then cascaded to the header level. You can verify this by checking the My purchases page.
 
-        ![Add users to the watchlist of the products](../image/spo-complete-checkout-watchlist.png "Add users to the watchlist of the products")
+        ![Add users to the watchlist of the products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-complete-checkout-watchlist.png "Add users to the watchlist of the products")
 
     3.  Similarly, you can add users to the watchlist of the purchase request of other products/items.
 
 
-**Parent Topic:**[Provide a reason for your purchase](provide-reason-for-purchase.md)
+**Parent Topic:**[Provide a reason for your purchase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/provide-reason-for-purchase.md)
 

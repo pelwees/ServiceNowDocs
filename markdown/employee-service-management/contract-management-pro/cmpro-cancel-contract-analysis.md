@@ -17,7 +17,7 @@ Cancel a Now Assist contract analysis when it’s no longer required due to a ch
 
 ## Before you begin
 
-You must have started the contract analysis with Now Assist. For more information, see [Analyze a contract document](cmpro-analyze-contract-doc.md).
+You must have started the contract analysis with Now Assist. For more information, see [Analyze a contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-analyze-contract-doc.md).
 
 Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller and sn\_lg\_cnt.contract\_fulfiller
 
@@ -44,7 +44,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Contract requests** &gt; **All**.
 4.  Select a contract request.
 
@@ -88,7 +88,7 @@ Steps
 
 </td><td>
 
-1.  Select the More Actions ![More actions icon](../../workplace-central/images/more-actions-move-schedule.png) icon.
+1.  Select the More Actions ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-central/images/more-actions-move-schedule.png) icon.
 2.  Select **Cancel request**
 3.  Confirm the cancellation by selecting **Cancel Request**.
 
@@ -104,5 +104,5 @@ The contract analysis is canceled.
 -   The contract request state is Work in progress.
 -   A cancellation email notification is sent to the contract fulfiller, group manager, and collaborator.
 
-**Parent Topic:**[Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md)
+**Parent Topic:**[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-NA-review-land.md)
 

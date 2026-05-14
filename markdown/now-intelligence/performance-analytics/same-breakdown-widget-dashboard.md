@@ -23,18 +23,18 @@ If you add a breakdown type widget with interactive breakdown selection to a das
 
 In the following animation, you have a breakdown widget on a breakdown dashboard. The widget has **Follow element** selected in its configuration. Both the dashboard and the widget are using elements of the Category breakdown. When you select elements on the dashboard, it has no effect on the widget. Then you select the Urgency breakdown on the widget. Now selecting elements on the dashboard does affect the widget. If you had changed the breakdown source on the dashboard instead of the breakdown on the widget, selecting elements on the dashboard also would have affected the widget.
 
-![A breakdown widget on a breakdown dashboard, first with the same breakdown selected, then with a different breakdown selected](../image/interactive-bkdown-widget-on-bkdown-dashboard.gif "Widget with interactive breakdown selection on a breakdown dashboard")
+![A breakdown widget on a breakdown dashboard, first with the same breakdown selected, then with a different breakdown selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/interactive-bkdown-widget-on-bkdown-dashboard.gif "Widget with interactive breakdown selection on a breakdown dashboard")
 
-**Parent Topic:**[Using breakdowns on dashboards](c_SpecialDashboards.md)
+**Parent Topic:**[Using breakdowns on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md)
 
 **Related topics**  
 
 
-[Add breakdown sources to a dashboard](../../dashboards/task/t_ExistingBreakdownDashboard.md)
+[Add breakdown sources to a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/task/t_ExistingBreakdownDashboard.md)
 
-[Configure widgets for breakdown dashboards](../task/set-up-widgets-for-breakdown-dashboards.md)
+[Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/set-up-widgets-for-breakdown-dashboards.md)
 
-[Showing multiple elements separately or aggregated](../../dashboards/concept/multi-element-select-indicator-views.md)
+[Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/concept/multi-element-select-indicator-views.md)
 
-[Showing breakdown relations on dashboards](c_ShowBkdwnRltnsWdgts.md)
+[Showing breakdown relations on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ShowBkdwnRltnsWdgts.md)
 

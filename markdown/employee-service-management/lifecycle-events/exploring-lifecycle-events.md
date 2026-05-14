@@ -74,7 +74,7 @@ sn\_hr\_le.admin or admin
 
 To learn more about configuring and using Lifecycle Events, see:
 
--   [Configuring Lifecycle Events](configuring-lifecycle-events.md)
--   [Using Lifecycle Events](using-lifecycle-events.md)
--   [Lifecycle Events reference](lifecycle-events-reference.md)
+-   [Configuring Lifecycle Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configuring-lifecycle-events.md)
+-   [Using Lifecycle Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/using-lifecycle-events.md)
+-   [Lifecycle Events reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/lifecycle-events-reference.md)
 

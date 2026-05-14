@@ -68,7 +68,7 @@ Attach one or more policies …
 
 </td><td>
 
-Select the appropriate policy. **Note:** The **AdministratorAccess** policy has the most powerful permission level, including permission to provision cloud resources. The policy enables the same access that would be granted to the instance if you were not using IAM and used your AWS account Access Key ID and Secret Access Key. You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. See [Control AWS access and permissions using policies](aws-create-user-policy-cloud-mgt.md) for details.
+Select the appropriate policy. **Note:** The **AdministratorAccess** policy has the most powerful permission level, including permission to provision cloud resources. The policy enables the same access that would be granted to the instance if you were not using IAM and used your AWS account Access Key ID and Secret Access Key. You might instead prefer to create a policy or combine multiple policies to grant the appropriate permission level. See [Control AWS access and permissions using policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md) for details.
 
 </td></tr></tbody>
 </table>    6.  On the Review page, verify your selections and then select **Create user**.
@@ -131,7 +131,7 @@ The **Secret access key** that you generated on the AWS Management Console, such
 
 ## What to do next
 
-Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](create-aws-service-accounts.md).
+Create an AWS service account on the ServiceNow AI Platform. For more information, see [Create AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/create-aws-service-accounts.md).
 
-**Parent Topic:**[Setting up AWS service accounts](../concept/setup-aws-service-accounts.md)
+**Parent Topic:**[Setting up AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/setup-aws-service-accounts.md)
 

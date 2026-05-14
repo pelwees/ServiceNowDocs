@@ -132,66 +132,66 @@ Highlights the most relevant content for the employee. It is based on popularity
 admin, sp\_admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Employee Center reference](../reference/emp-center-reference.md)
+</table>**Parent Topic:**[Employee Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/emp-center-reference.md)
 
 **Related topics**  
 
 
-[Activity Configuration form](../reference/ec-activity-configuration-form.md)
+[Activity Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-activity-configuration-form.md)
 
-[Activity Configuration Detail form](../reference/activity-configuration-detail-form.md)
+[Activity Configuration Detail form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/activity-configuration-detail-form.md)
 
-[Approvals experience reference](../reference/approval-hub-ootb.md)
+[Approvals experience reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/approval-hub-ootb.md)
 
-[Connected Content form](../reference/connected-content-form.md)
+[Connected Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/connected-content-form.md)
 
-[Default Employee Profile Header Configuration record](../reference/default-profile-header.md)
+[Default Employee Profile Header Configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/default-profile-header.md)
 
-[Employee Profile form](../reference/employee-profile-fieldconfig.md)
+[Employee Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/employee-profile-fieldconfig.md)
 
-[Employee Profile Header Configuration form](../reference/profile-header-config-form.md)
+[Employee Profile Header Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/profile-header-config-form.md)
 
-[Employee Profile portal configuration form](../reference/profile-portal-config-form.md)
+[Employee Profile portal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/profile-portal-config-form.md)
 
-[Employee Profile upgrade scenarios](../reference/emp-profile-upgrade.md)
+[Employee Profile upgrade scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/emp-profile-upgrade.md)
 
-[Enhanced Requests Experience forms](../reference/req-concept-ec.md)
+[Enhanced Requests Experience forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/req-concept-ec.md)
 
-[External Link form](../reference/external-link-form.md)
+[External Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/external-link-form.md)
 
-[Featured Content form](../reference/featured-content-form.md)
+[Featured Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/featured-content-form.md)
 
-[Footer form](../reference/ec-footer-form.md)
+[Footer form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-footer-form.md)
 
-[Footer Menus form](../reference/ec-footer-menus.md)
+[Footer Menus form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-footer-menus.md)
 
-[Guided Self-Service reference](../reference/gss-guided-self-service-reference-info.md)
+[Guided Self-Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/gss-guided-self-service-reference-info.md)
 
-[Menu Item form](../reference/menu-item-form.md)
+[Menu Item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/menu-item-form.md)
 
-[Overview section form](../reference/profile-overview-section-form.md)
+[Overview section form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/profile-overview-section-form.md)
 
-[Portal notification configuration form](../reference/portal-notif-config-form.md)
+[Portal notification configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/portal-notif-config-form.md)
 
-[Portal notification content form](../reference/notif-content-form.md)
+[Portal notification content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/notif-content-form.md)
 
-[Trigger conditions form](../reference/notif-trigger-form.md)
+[Trigger conditions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/notif-trigger-form.md)
 
-[Quick Link form](../reference/ec-quick-link-form.md)
+[Quick Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-quick-link-form.md)
 
-[Tab widget mapping form](../reference/tab-widget-mapping-form.md)
+[Tab widget mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/tab-widget-mapping-form.md)
 
-[Taxonomy form](../reference/taxonomy-form.md)
+[Taxonomy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/taxonomy-form.md)
 
-[Topic form](../reference/topic-form.md)
+[Topic form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/topic-form.md)
 
-[User Criteria form](../reference/ec-user-criteria-form.md)
+[User Criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-user-criteria-form.md)
 
-[User Criteria output](../reference/user-criteria-output.md)
+[User Criteria output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/user-criteria-output.md)
 
-[Schedule appointment form](../reference/schedule-appointment-form.md)
+[Schedule appointment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/schedule-appointment-form.md)
 
-[Location Consent form](../reference/location-consent-form.md)
+[Location Consent form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/location-consent-form.md)
 
-[Website configuration form](../reference/config-website-form.md)
+[Website configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/config-website-form.md)
 

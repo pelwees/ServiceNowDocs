@@ -25,7 +25,7 @@ You can define CSS in your portal at multiple levels.
 
     CSS defined in the Branding Editor Theme Colors tab. Changes made to the theme colors in the Branding Editor appear in the CSS variables field in the portal table \[sp\_portal\]. Customizing the theme colors overwrites the Bootstrap defaults.
 
-    ![Branding editor UI, showing the Quick Setup tab and Theme Preview.](../image/branding-theme-colors.png)
+    ![Branding editor UI, showing the Quick Setup tab and Theme Preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/branding-theme-colors.png)
 
 -   **Theme CSS**
 
@@ -58,18 +58,18 @@ You can define CSS in your portal at multiple levels.
 
 **Note:** In some cases, default styles for accessibility might overwrite the CSS defined for a portal.
 
-![Diagram showing Service Portal CSS overrides](../image/CSSHierarchyDiagram.png "Hierarchy of style application in the Service Portal")
+![Diagram showing Service Portal CSS overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/CSSHierarchyDiagram.png "Hierarchy of style application in the Service Portal")
 
--   **[Configure portal branding](c_BrandingEditor.md)**  
+-   **[Configure portal branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_BrandingEditor.md)**  
 Use Branding Editor to give your portal its own look and feel.
--   **[Activate La Jolla theme branding](../task/enable-la-jolla-brand-update.md)**  
+-   **[Activate La Jolla theme branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-la-jolla-brand-update.md)**  
 Activate the Service Portal La Jolla Brand to apply ServiceNow branding, which includes WCAG-AA compliance for contrast. This plugin is active by default on new instances, but admins must activate the plugin on instances upgraded from earlier versions.
--   **[Create a portal theme](c_CustomCSS.md)**  
+-   **[Create a portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)**  
 If you need more customizations than the Branding Editor can provide, you can create your own custom theme.
--   **[Enable text resize in your portal](../task/enable-text-resize.md#)**  
+-   **[Enable text resize in your portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-text-resize.md#)**  
 Enable text resize to increase the size of your text up to 200% through your browser settings.
--   **[Styling for right-to-left languages in portals](styling-right-to-left-languages.md)**  
+-   **[Styling for right-to-left languages in portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/styling-right-to-left-languages.md)**  
 Localizing a portal for right-to-left languages requires CSS that mirrors the direction of portal pages.
 
-**Parent Topic:**[Configuring Service Portal](configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 

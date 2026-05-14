@@ -26,7 +26,7 @@ Role required: admin
 
 Scheduled jobs and Store applications are installed with Recruitment workspace.
 
-For more information, see [Components installed with Recruitment workspace](../reference/installed-with-recruitment-w.md).
+For more information, see [Components installed with Recruitment workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../reference/installed-with-recruitment-w.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For more information, see [Components installed with Recruitment workspace](../r
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/config-recruitment.md)
 

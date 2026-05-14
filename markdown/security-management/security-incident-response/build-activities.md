@@ -29,31 +29,31 @@ Here’s the list of activity definitions that are a part of the base system:
 |Delete Email|Security Incident \[sn\_si\_incident\]|Delete emails|Enterprise Security Case Management PAD Commons|
 |Yes No Outcome|Task \[task\]|Expected outcome|Enterprise Security Case Management PAD Commons|
 
--   **[Example Activity Definition: Send email](../task/example-activity-definition-send-email.md)**  
+-   **[Example Activity Definition: Send email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/example-activity-definition-send-email.md)**  
 The following is an example of Send email activity definition.
--   **[Submit to CSF X Sandbox](../task/submit-to-csf-x-sandbox.md)**  
+-   **[Submit to CSF X Sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/submit-to-csf-x-sandbox.md)**  
 Submit to CSF X Sandbox is an example of an activity definition process.
 
-**Parent Topic:**[Using SIR Workspace](../../secops-analyst-workspace/reference/using-sir-workspace.md)
+**Parent Topic:**[Using SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/reference/using-sir-workspace.md)
 
 **Related topics**  
 
 
-[Working with Security Incident Records](../../secops-analyst-workspace/concept/using-analyst-workspace.md)
+[Working with Security Incident Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/using-analyst-workspace.md)
 
-[Security Incident Playbook](../../secops-analyst-workspace/concept/security-incident-playbook.md#)
+[Security Incident Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/security-incident-playbook.md#)
 
-[Prerequisites for the Playbooks](getting-started-with-processes.md)
+[Prerequisites for the Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/getting-started-with-processes.md)
 
-[Rebuilding existing playbooks in Workflow Studio](rebuilding-existing-playbooks-on-pad.md)
+[Rebuilding existing playbooks in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/rebuilding-existing-playbooks-on-pad.md)
 
-[Sample Playbooks for SIR Workspace](sir-workspace-playbooks.md)
+[Sample Playbooks for SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-playbooks.md)
 
-[Working with MSI Records](../../secops-analyst-workspace/concept/working-with-msi-records.md)
+[Working with MSI Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/working-with-msi-records.md)
 
-[Working with Form UI actions](../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
+[Working with Form UI actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/enable_workspace_form_ui_actions.md)
 
-[Security Incident Closure workflow](../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
+[Security Incident Closure workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/concept/security-incident-closure-workflow_0.md)
 
-[Handle security incidents using Advanced Work Assignment](../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
+[Handle security incidents using Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-analyst-workspace/task/handle-incidents-using-awa.md)
 

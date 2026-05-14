@@ -22,7 +22,7 @@ The following workspaces are included in Insurance claims:
 -   Claim Summary \(360\)
 -   Claim Workspace
 
-For more information about these workspaces, see [Insurance claims landing pages and workspaces](insurance-claims-flow-workspace.md).
+For more information about these workspaces, see [Insurance claims landing pages and workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-claims-flow-workspace.md).
 
 You can modify these workspaces in UI Builder. You can also customize the subpages in these workspaces by creating a variant. For more information about this customization, see [Create a page variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-variant.md).
 
@@ -108,7 +108,7 @@ All
 
 </td><td>
 
-Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+Other workspace-related configuration, like the changes that are related to a record, can be done through UI Builder. By default, Insurance claims uses the Record default configuration from the Customer Service Management \(CSM\) application.For more information, see [Workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../fso-common/task/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Adjuster
 
 This adjuster workspace UI Builder page has been set up in Insurance claims.If necessary, you can clone this workspace and modify it to be more specific to your particular line of business.
 
-For more information, see [Workspaces](../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md).
+For more information, see [Workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../fso-common/concept/fso-workspace.md) and [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../fso-common/task/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ For more information, see [UI Builder](https://raw.githubusercontent.com/Service
 
 To modify the conditions on the landing pages, navigate to **All** &gt; **Platform Analytics** &gt; **Dashboards**. Select the dashboards and edit them by using UI Builder.
 
-For more information on the included dashboards and their layouts, see [Insurance claims landing pages and workspaces](insurance-claims-flow-workspace.md).
+For more information on the included dashboards and their layouts, see [Insurance claims landing pages and workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-claims-flow-workspace.md).
 
 **Note:** The FNOL landing page is built into Financial Services Operations Core. Any changes to this page may impact other applications.
 

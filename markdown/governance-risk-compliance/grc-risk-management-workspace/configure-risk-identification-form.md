@@ -21,7 +21,7 @@ Make sure you have the following applications:
 
 -   Application Portfolio Management must be installed if you want the recommendation engine enabled and want to use the integration.
 -   Application Portfolio Management integration with Risk Management \(com.snc.apm\_risk\_assessment\) must be installed. This application is required only if you want to use the integration.
--   Smart Assessment Engine and GRC Common Workspace Elements must be installed to use the smart assessment questionnaire during the risk identification. For more information, see [Configuring Smart Assessment Engine](../../assessment-engine/concept/smart-assessment-engine-cf-config.md).
+-   Smart Assessment Engine and GRC Common Workspace Elements must be installed to use the smart assessment questionnaire during the risk identification. For more information, see [Configuring Smart Assessment Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../assessment-engine/concept/smart-assessment-engine-cf-config.md).
 
 Role required: sn\_risk.admin
 
@@ -135,7 +135,7 @@ Use smart assessment
 
 </td><td>
 
-Option enables the use of smart assessment templates. You can select a smart assessment template in the **Questionnaire** field.For more information on how to create a smart assessment template, see [Create a smart assessment template for risk identification](create-smart-assessment-template-for-risk-identification.md).
+Option enables the use of smart assessment templates. You can select a smart assessment template in the **Questionnaire** field.For more information on how to create a smart assessment template, see [Create a smart assessment template for risk identification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-smart-assessment-template-for-risk-identification.md).
 
 </td></tr><tr><td>
 
@@ -233,7 +233,7 @@ Recommendation engine algorithm
 
 Specify the recommendation engine. The choices are as follows:-   None
 -   Based on information object mapping
- For details on information objects, see [Information objects](../reference/information-objects.md).
+ For details on information objects, see [Information objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/information-objects.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -312,10 +312,10 @@ Option to select the RAM to perform inherent assessment. You can see the list of
 6.  Select **Publish** to publish the record.
 
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](../concept/risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-and-apm-better-together.md)
 
 **Related topics**  
 
 
-[Workflow of risk identification for business applications](../concept/workflow-risk-identification.md)
+[Workflow of risk identification for business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/workflow-risk-identification.md)
 

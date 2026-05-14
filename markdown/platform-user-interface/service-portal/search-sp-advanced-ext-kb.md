@@ -125,11 +125,11 @@ In this integration, you will:
 
 Test the external search in your portal. Results display under the name field value defined in step three.
 
-![An external search source in the search page](../image/external-search-source-result.png)
+![An external search source in the search page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/external-search-source-result.png)
 
 Each search result opens in the external site defined in the search page template.
 
-![A single search result from the external search source](../image/ext-knowledge-result.png)
+![A single search result from the external search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/ext-knowledge-result.png)
 
-**Parent Topic:**[Define a search source](add-table-search-source.md)
+**Parent Topic:**[Define a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 

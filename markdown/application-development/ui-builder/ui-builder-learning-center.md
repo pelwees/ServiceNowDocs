@@ -19,7 +19,7 @@ Explore the UI Builder Learning Center for articles, videos, courses, and guided
 
 Navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder** &gt; **Help**.
 
-![Ui Builder homepage with white arrow pointing to help option.](../image/guided-tour-in-uib2.png)
+![Ui Builder homepage with white arrow pointing to help option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/guided-tour-in-uib2.png)
 
 The Learning Center opens in an overlay.
 
@@ -32,5 +32,5 @@ Select a tile to open a resource. Resources are in the following locations:
 -   Courses: [https://learning.servicenow.com](https://learning.servicenow.com)
 -   Tours: embedded in your ServiceNow instance
 
-**Parent Topic:**[Navigate the UI Builder application](nav-uib.md)
+**Parent Topic:**[Navigate the UI Builder application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/nav-uib.md)
 

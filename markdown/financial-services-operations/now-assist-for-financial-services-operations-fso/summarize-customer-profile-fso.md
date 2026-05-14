@@ -25,7 +25,7 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 The Customer profile summarization skill provides a concise, comprehensive summary of a customer's status in the Customer 360 workspace as part of Agentic Contact Center for Banking.
 
-![Customer profile summary panel showing profile and status information.](../../fso-front-office-banking/images/agentic-contact-center-c360-context-summary.png)
+![Customer profile summary panel showing profile and status information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-front-office-banking/images/agentic-contact-center-c360-context-summary.png)
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Procedure
 
 </td><td>
 
-Select the refresh icon \(![Refresh icon.](../../fso-common/image/icon-refresh.png)\) to generate another customer summary.
+Select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-common/image/icon-refresh.png)\) to generate another customer summary.
 
 </td></tr><tr><td id="d43848e141">
 
@@ -59,7 +59,7 @@ Select the refresh icon \(![Refresh icon.](../../fso-common/image/icon-refresh.p
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../customer-service-management/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../customer-service-management/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d43848e164">
 
@@ -67,7 +67,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to review details about the summary, select the more info icon \(![More info icon.](../../customer-service-management/image/icon-more-info.png)\).
+If you want to review details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-more-info.png)\).
 
 </td></tr><tr><td id="d43848e179">
 
@@ -75,20 +75,20 @@ If you want to review details about the summary, select the more info icon \(![M
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../../customer-service-management/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../../customer-service-management/image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../customer-service-management/image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-Use an AI agent to engage in Q&amp;A, anticipate customer needs, and surface insights. For more information, see [Generate customer insights in the Customer 360 page](generate-customer-insights-customer-360-workspace.md).
+Use an AI agent to engage in Q&amp;A, anticipate customer needs, and surface insights. For more information, see [Generate customer insights in the Customer 360 page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/generate-customer-insights-customer-360-workspace.md).
 
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
 
 **Related topics**  
 
 
-[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
 
-[Configure customer profile summarization in Now Assist for FSO](configure-customer-profile-summarization-fso.md)
+[Configure customer profile summarization in Now Assist for FSO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-profile-summarization-fso.md)
 

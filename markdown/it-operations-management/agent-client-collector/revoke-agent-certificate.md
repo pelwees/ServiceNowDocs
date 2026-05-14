@@ -29,7 +29,7 @@ Role required: agent\_client\_collector\_admin
 
 4.  Select the reason for certificate revocation.
 
-    For a list and explanation of the available revocation reasons, see [Agent Client Collector certificate revocation reasons](../reference/certificate-revocation-reasons.md).
+    For a list and explanation of the available revocation reasons, see [Agent Client Collector certificate revocation reasons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/certificate-revocation-reasons.md).
 
 5.  Select **OK**.
 
@@ -40,10 +40,10 @@ Role required: agent\_client\_collector\_admin
 
 Communication between the agent and ITOM cloud services is stopped.
 
-**Parent Topic:**[Agent Client Collector certificates](../concept/acc-certificates.md)
+**Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-certificates.md)
 
 **Related topics**  
 
 
-[Add a self-signed certificate to your operating system's truststore](add-certificate-trust-store.md)
+[Add a self-signed certificate to your operating system's truststore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/add-certificate-trust-store.md)
 

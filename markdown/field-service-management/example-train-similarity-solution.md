@@ -23,7 +23,7 @@ Joy decides to implement Predictive Intelligence for Field Service Management to
 
 Now, Joy collaborates with the administrator to train the machine-learning solution provided in Predictive Intelligence for Field Service Management. This solution is designed to collect and compare existing records with new ones. Leveraging the predictive intelligence feature, the administrator trains the Similar Part Requirements similarity solution to automate the process of suggesting the similar necessary part requirements for work order tasks. This is achieved by comparing the part requirement record with the work order task record and providing relevant results.
 
-To train the solution, Joy enters the following values in the Similarity Definition form based on the instructions described for training the similarity solution. For more information, see [Train similarity solution to suggest similar parts for a work order task](example-train-similarity-solution.md#).
+To train the solution, Joy enters the following values in the Similarity Definition form based on the instructions described for training the similarity solution. For more information, see [Train similarity solution to suggest similar parts for a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/example-train-similarity-solution.md#).
 
 |Field|Value|
 |-----|-----|

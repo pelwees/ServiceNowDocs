@@ -23,5 +23,5 @@ Bringing your own large language model enables:
 -   Cost Control: Use existing contracts and optimize resource usage to avoid extra charges.
 -   Strategic Autonomy: Maintain vendor neutrality and avoid lock-in for future-proofing.
 
-**Parent Topic:**[Large language models on the ServiceNow AI Platform](exploring-large-language-models.md)
+**Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 

@@ -38,9 +38,9 @@ Configuring a portal header with a menu involves several steps.
 
 The main menu and header form a header menu when associated with a theme and a portal.
 
-![Gif showing how the header menu and the stock header combine to form the portal menu](../image/HeaderMenu.png)
+![Gif showing how the header menu and the stock header combine to form the portal menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/HeaderMenu.png)
 
-**Parent Topic:**[Create a portal](create-a-portal.md)
+**Parent Topic:**[Create a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md)
 
 ## Add a header or footer to a portal
 
@@ -238,7 +238,7 @@ Allow all users to select their language preferences by enabling the language se
 
 ### Before you begin
 
-Active the languages your portal users need and configure a portal header menu. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) and [Configure a portal header menu](configure-header-menu.md#).
+Active the languages your portal users need and configure a portal header menu. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) and [Configure a portal header menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-header-menu.md#).
 
 Role required: admin
 

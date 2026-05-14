@@ -31,7 +31,7 @@ Role required: virtual\_agent\_admin or admin
 
     The items that you defined for the chat experience, such as custom setup topics or promoted topics, run in the test window. The following example shows the custom greeting setup topic and promoted topics defined for the ESC portal.
 
-    ![Use the choose field list on the test chat window's Context tab to select the context. Specify the value in the value field.](../images/va-cce-esc.png)
+    ![Use the choose field list on the test chat window's Context tab to select the context. Specify the value in the value field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-cce-esc.png)
 
 5.  To specify a different context, do the following:
 
@@ -47,8 +47,8 @@ Role required: virtual\_agent\_admin or admin
 
     The items that you defined for the chat experience, such as custom setup topics or promoted topics, run in the test window.
 
-    ![Test window.](../images/va-cce-it-express.png)
+    ![Test window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-cce-it-express.png)
 
 
-**Parent Topic:**[Customizing a Virtual Agent chat experience](../concept/va-conversation-settings.md)
+**Parent Topic:**[Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-conversation-settings.md)
 

@@ -31,13 +31,13 @@ In this task, you create a UI interaction and define its behavior using the diag
 
 2.  From the UI Builder home page, select **Create** &gt; **UI interaction**.
 
-    ![Create drop-down menu with UI interaction selected.](../image/uib-create-interaction.png "Create UI interaction")
+    ![Create drop-down menu with UI interaction selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-create-interaction.png "Create UI interaction")
 
 3.  In the creation modal, enter a name for the interaction.
 
     For example, for a UI interaction to report a knowledge gap, you may enter `Report Knowledge Gap`. You can change the name in the UI interaction settings later.
 
-    ![UI interaction creation modal](../image/uib-create-interaction-modal.png "UI interaction creation modal")
+    ![UI interaction creation modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-create-interaction-modal.png "UI interaction creation modal")
 
 4.  Select an interaction Type.
 
@@ -49,7 +49,7 @@ In this task, you create a UI interaction and define its behavior using the diag
 
 6.  Select **Create**.
 
-    ![UI interaction editor.](../image/uib-ui-interaction-editor.png "UI interaction editor")
+    ![UI interaction editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-ui-interaction-editor.png "UI interaction editor")
 
     The diagram editor opens with a start and end node connected by an add icon ![](../../flow-designer/images/add-action-icon.png). The steps available in the toolbox depend on the interaction type that you selected.
 
@@ -57,7 +57,7 @@ In this task, you create a UI interaction and define its behavior using the diag
 
     1.  Select **+** to open the toolbox.
 
-        ![UI interaction editor with the step toolbox open.](../image/uib-ui-interaction-plus.png "UI interaction toolbox")
+        ![UI interaction editor with the step toolbox open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-ui-interaction-plus.png "UI interaction toolbox")
 
     2.  Browse the available steps by category, or search by name.
 
@@ -90,9 +90,9 @@ In this task, you create a UI interaction and define its behavior using the diag
 
 ## Result
 
-The UI interaction is created and ready to be attached to a component or page event. Once attached, it runs its configured steps whenever the specified event occurs. See [Trigger a UI interaction from a page event](trigger-ui-interaction-from-page-event.md).
+The UI interaction is created and ready to be attached to a component or page event. Once attached, it runs its configured steps whenever the specified event occurs. See [Trigger a UI interaction from a page event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/trigger-ui-interaction-from-page-event.md).
 
 To trigger this UI interaction from a form or list button using a declarative action, see [Trigger a UI interaction from a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md).
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/uib-ui-interactions.md)
 

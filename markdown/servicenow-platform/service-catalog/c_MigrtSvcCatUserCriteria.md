@@ -17,7 +17,7 @@ Service catalog user criteria records provide access control for service catalog
 
 You can migrate your access controls to use user criteria. The user criteria feature is automatically enabled for new instances. If you upgrade your instance, a script runs to determine current access control usage.
 
--   If your instance does not use [entitlement-based](c_LegcySrvcCatAccessCntrol.md) access controls, the user criteria feature is automatically enabled.
+-   If your instance does not use [entitlement-based](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_LegcySrvcCatAccessCntrol.md) access controls, the user criteria feature is automatically enabled.
 -   If your instance does use entitlements, the user criteria feature is not enabled. If you want to use user criteria, use the procedure described on this page to migrate your access controls from entitlements to user criteria.
 
 Migrate to user criteria to provide more reuse, control, and flexibility compared to entitlements.
@@ -28,7 +28,7 @@ For example, you can use a single criteria record to make multiple catalog items
 -   Belong to ACER
 -   Are in the Training department
 
-**Parent Topic:**[Set security for items and categories](c_ServiceCatalogAccessControls.md)
+**Parent Topic:**[Set security for items and categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md)
 
 ## Migrate to Service Catalog user criteria
 
@@ -54,13 +54,13 @@ Role required: admin
 
     Review your current entitlements and record your current design for access controls. Focus on identifying patterns where multiple items have the same combination of location, group, and so on. Each combination is a possible access control set.
 
-4.  [Create a user criteria record](../task/t_CreateAUserCriteriaRecord.md#) for each access control set that you identified from your inspection of the service catalog.
+4.  [Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_CreateAUserCriteriaRecord.md#) for each access control set that you identified from your inspection of the service catalog.
 
     You have a step with a list, note, and image.
 
-5.  [Apply these user criteria records](c_ServiceCatalogAccessControls.md) to the items and categories identified, replacing the equivalent entitlements.
+5.  [Apply these user criteria records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md) to the items and categories identified, replacing the equivalent entitlements.
 
-6.  Enable user criteria on your system by setting the [service catalog property](../reference/r_ServiceCatalogProperties.md) **Use "User Criteria" to define access to catalog items and categories** \(**glide.sc.use\_user\_criteria**\) to **true**.
+6.  Enable user criteria on your system by setting the [service catalog property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ServiceCatalogProperties.md) **Use "User Criteria" to define access to catalog items and categories** \(**glide.sc.use\_user\_criteria**\) to **true**.
 
     When this property is set to **true**, any remaining entitlements are no longer used.
 
@@ -75,11 +75,11 @@ Using entitlements, the following tables are loaded into memory and evaluated be
 
 For catalog items:
 
-![entitlements data structure - catalog items](../image/ServiceCatalogEntitlementsDataStructureCatItems.png "Entitlements Data Structure - Catalog Items")
+![entitlements data structure - catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogEntitlementsDataStructureCatItems.png "Entitlements Data Structure - Catalog Items")
 
 For categories:
 
-![entitlements data structure - categories](../image/ServiceCatalogEntitlementsDataStructureCategories.png "Entitlements Data Structure - Categories")
+![entitlements data structure - categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogEntitlementsDataStructureCategories.png "Entitlements Data Structure - Categories")
 
 The user criteria architecture collects all user attributes in the User Criteria \[user\_criteria\] table.
 
@@ -90,12 +90,12 @@ For catalog items:
 -   Catalog Item Available for \[sc\_cat\_item\_user\_criteria\_mtom\]
 -   Catalog Item Not Available for \[sc\_cat\_item\_user\_criteria\_no\_mtom\]
 
-![user criteria data structure - catalog items](../image/ServiceCatalogUserCriteriaCatItemMtom.png "User Criteria Data Structure - Catalog Items")
+![user criteria data structure - catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogUserCriteriaCatItemMtom.png "User Criteria Data Structure - Catalog Items")
 
 For categories:
 
 -   Category Available for \[sc\_category\_user\_criteria\_mtom\]
 -   Category Not Available for \[sc\_category\_user\_criteria\_no\_mtom\]
 
-![Screenshot for user criteria data structure - categories](../image/ServiceCatalogUserCriteriaCategoryMtom.png "User Criteria Data Structure - Categories")
+![Screenshot for user criteria data structure - categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogUserCriteriaCategoryMtom.png "User Criteria Data Structure - Categories")
 

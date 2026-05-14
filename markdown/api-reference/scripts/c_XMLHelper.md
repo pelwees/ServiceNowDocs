@@ -74,5 +74,5 @@ Output:
 *** Script: ***lastname:: Enderson
 ```
 
-**Parent Topic:**[XMLDocument script object](c_XMLDocumentScriptObject.md)
+**Parent Topic:**[XMLDocument script object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_XMLDocumentScriptObject.md)
 

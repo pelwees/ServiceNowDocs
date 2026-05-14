@@ -35,7 +35,7 @@ You can link an SCCM application to an existing software model or create a new m
 
 3.  To link to an existing model, click the magnifying glass icon in the **Model** field and select a model from the list.
 
-    ![SCCM application record](../images/SCCMApplicationRecord.png "SCCM application record")
+    ![SCCM application record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/SCCMApplicationRecord.png "SCCM application record")
 
 4.  To create a model, click **Create Software Model** under **Related Links**.
 
@@ -48,5 +48,5 @@ You can link an SCCM application to an existing software model or create a new m
         The view returns to the SCCM Applications form.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/configure-sccm-ihub.md)
 

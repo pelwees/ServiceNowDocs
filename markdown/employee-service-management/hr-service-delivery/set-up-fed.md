@@ -25,7 +25,7 @@ Role required: admin
 
 ### About this task
 
-Tables are installed with the plugin. For more information, see [Federal plugin](../concept/fed-view.md).
+Tables are installed with the plugin. For more information, see [Federal plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/fed-view.md).
 
 ### Procedure
 
@@ -64,7 +64,7 @@ Role required: admin
 
 6.  Select **Import** from the menu.
 
-    ![Import an excel template for Federal](../image/import-excel-fed.png)
+    ![Import an excel template for Federal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/import-excel-fed.png)
 
 7.  Select **Insert** or **Update** as the import type.
 

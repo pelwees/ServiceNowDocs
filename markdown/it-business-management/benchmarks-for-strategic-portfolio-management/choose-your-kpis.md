@@ -28,5 +28,5 @@ Role required: admin
 3.  Select the KPIs that you need for your organization.
 
 
-**Parent Topic:**[Customize the SPM Benchmarks KPIs](using-benchmarks.md)
+**Parent Topic:**[Customize the SPM Benchmarks KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/using-benchmarks.md)
 

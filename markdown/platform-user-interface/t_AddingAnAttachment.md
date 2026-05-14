@@ -31,7 +31,7 @@ The default maximum size limit for an attachment file that can be added to a rec
 
     For example, an incident record.
 
-2.  Click the attachments icon \(![Attachments icon](../image/UI14FormAttachments.png)\).
+2.  Click the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI14FormAttachments.png)\).
 
 3.  Click **Choose Files** or **Browse**, depending on your browser, and navigate to a file.
 
@@ -56,7 +56,7 @@ The default maximum size limit for an attachment file that can be added to a rec
 
         **Note:** The default setting for this property on an out-of-box instance is No \(unchecked\).
 
-    3.  For a file size error, see [Manage attachments](t_ManagingAttachments.md).
+    3.  For a file size error, see [Manage attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ManagingAttachments.md).
 
 7.  Close the pop-up window to return to the form.
 
@@ -65,10 +65,10 @@ The default maximum size limit for an attachment file that can be added to a rec
 
 Limit the users who can view attachments by applying ACL rules. For more information on ACL rules, see [Access control list rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md).
 
--   **[Manage attachments](t_ManagingAttachments.md)**  
+-   **[Manage attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ManagingAttachments.md)**  
 View, rename, and remove the attachments on a record and adjust the maximum allowable size of attachments.
--   **[Attach files with drag-and-drop](t_AttachingFilesWithDragAndDrop.md)**  
+-   **[Attach files with drag-and-drop](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_AttachingFilesWithDragAndDrop.md)**  
 You can drag files from your local computer into your browser window to attach them to the current record.
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingForms.md)
 

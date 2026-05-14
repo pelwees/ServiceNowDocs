@@ -157,7 +157,7 @@ The category that the supplier location belongs to. The choices are:-   Contract
 -   Service center
 
 </td></tr></tbody>
-</table>For more information, see [Supplier Lifecycle Operations data model](slo-data-model.md).
+</table>For more information, see [Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-data-model.md).
 
-**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
+**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-primary-data-tables.md)
 

@@ -137,7 +137,7 @@ Once a staff member is added to a business location, the following details can b
 **Related topics**  
 
 
-[Create cases for a business location in the Business Location Service Portal](report-cases-on-behalf-of-biz-location.md)
+[Create cases for a business location in the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/report-cases-on-behalf-of-biz-location.md)
 
-[Track cases on the Business Location Service Portal](../concept/track-cases-for-blsp-portal.md)
+[Track cases on the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/track-cases-for-blsp-portal.md)
 

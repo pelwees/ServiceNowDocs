@@ -17,7 +17,7 @@ While search results are aggregated within your instance, your users can also ut
 
 ## Before you begin
 
-Make sure the **Open search results in the original source system** import parameter for the [external knowledge source](define-an-external-knowledge-source.md) is set to **true**.
+Make sure the **Open search results in the original source system** import parameter for the [external knowledge source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/define-an-external-knowledge-source.md) is set to **true**.
 
 You can follow this procedure when you have a file as a knowledge article in Microsoft SharePoint, for example.
 
@@ -53,5 +53,5 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Integration with external knowledge sources](../concept/knowledge-external-content-integration.md)
+**Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-external-content-integration.md)
 

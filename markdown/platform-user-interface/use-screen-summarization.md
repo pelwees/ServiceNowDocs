@@ -27,7 +27,7 @@ Role required: workspace\_user
 
     The Screen Summarization modal opens.
 
-    ![Screen summarization modal](../image/modal-ai-screen-summarizer.png)
+    ![Screen summarization modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/modal-ai-screen-summarizer.png)
 
 3.  Choose between the following actions:
 
@@ -38,5 +38,5 @@ Role required: workspace\_user
 
 The Screen Summarization modal generates a summary and can read it aloud with a screen reader.
 
-![Screen Summarization summary](../image/modal-ai-screen-summarizer-2.png)
+![Screen Summarization summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/modal-ai-screen-summarizer-2.png)
 

@@ -44,5 +44,5 @@ If a condition column has an unsupported data type, you can still change the lab
 -   In an unsupported condition column, cells without values are inactive. Users must use decision rule view to enter a value.
 -   When a value is entered for an unsupported condition column, the resulting decision row will be an unsupported decision.
 
-**Parent Topic:**[Using decision tables](using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 

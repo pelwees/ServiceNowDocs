@@ -28,5 +28,5 @@ Role required: admin
 3.  On the deployment request, select **Cancel deployment**.
 
 
-**Parent Topic:**[Managing deployments using Pipelines and Deployments](../concept/manage-deployments-using-p-and-d-aemc.md)
+**Parent Topic:**[Managing deployments using Pipelines and Deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../concept/manage-deployments-using-p-and-d-aemc.md)
 

@@ -110,7 +110,7 @@ Compliance and financial risk
 Consolidates audit findings, risk indicators, and exception analysis for proactive governance.
 
 </td></tr></tbody>
-</table>![The visualizations on this tab address the question 'How is the organization’s financial health and performance across portfolios, investments, procurement, and risk?](../image/cfo-db-tab.png)
+</table>![The visualizations on this tab address the question 'How is the organization’s financial health and performance across portfolios, investments, procurement, and risk?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cfo-db-tab.png)
 
 ## CFO Dashboard overview
 

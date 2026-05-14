@@ -33,11 +33,11 @@ For example, to set up remote instances for Sub-Dev 1:
 
 4.  Define the remote instance, such as Dev-Parent, by completing the form \(see table\).
 
-    ![Remote Instance](../image/RemoteInstance.png)
+    ![Remote Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/RemoteInstance.png)
 
 5.  Click **Submit**.
 
-6.  Repeat [step 1](t_DefineARemoteInstance.md#step-1-add-exception) through [step 5](t_DefineARemoteInstance.md#step-5-submit) for each instance in the hierarchy that this instance needs to push and pull with \(for example, Sub-Dev 2 and Sub-Dev 3\).
+6.  Repeat [step 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_DefineARemoteInstance.md#step-1-add-exception) through [step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_DefineARemoteInstance.md#step-5-submit) for each instance in the hierarchy that this instance needs to push and pull with \(for example, Sub-Dev 2 and Sub-Dev 3\).
 
     |Field|Description|
     |-----|-----------|

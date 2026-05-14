@@ -54,7 +54,7 @@ In the Territory Geographies page, select **New**.
 </td><td>
 
 1.  Select **Create Territory**.
-2.  In the Geography field, select the New Geography for Territory icon \(![New Geography for Territory icon.](../image/EditWidgetButton.png)\).
+2.  In the Geography field, select the New Geography for Territory icon \(![New Geography for Territory icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../image/EditWidgetButton.png)\).
 
 
 </td></tr></tbody>
@@ -104,5 +104,5 @@ The composite geography encompasses all the latitude, longitude, and geo points 
 
 ## What to do next
 
-Link the geography to a territory. For more information, see [Create a Field Service territory](create-territories-territory-planning-console.md).
+Link the geography to a territory. For more information, see [Create a Field Service territory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-territories-territory-planning-console.md).
 

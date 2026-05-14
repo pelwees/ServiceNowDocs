@@ -27,7 +27,7 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
 
 2.  Select **Deal Registration** &gt; **Submitted** to see a list of submitted deals.
 
-    To learn how to create a deal and submit it, see [Register a deal on Partner portal](register-a-deal-partner-portal.md). The details in the deal registration form are auto-filled based on the selections made in the Partner portal by the B2B deal registration initiator \(sn\_prm\_dr.partner \_b2b\_deal\_reg\_initiator\), B2C deal registration initiator \(sn\_prm\_dr.partner \_b2c\_deal\_reg\_initiator\), deal registration initiator \(sn\_prm\_dr-partner\_deal\_reg\_initiator\), and deal registration manager \(sn\_prm\_dr.partner\_deal\_reg\_manager\).
+    To learn how to create a deal and submit it, see [Register a deal on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md). The details in the deal registration form are auto-filled based on the selections made in the Partner portal by the B2B deal registration initiator \(sn\_prm\_dr.partner \_b2b\_deal\_reg\_initiator\), B2C deal registration initiator \(sn\_prm\_dr.partner \_b2c\_deal\_reg\_initiator\), deal registration initiator \(sn\_prm\_dr-partner\_deal\_reg\_initiator\), and deal registration manager \(sn\_prm\_dr.partner\_deal\_reg\_manager\).
 
 3.  Perform one of the following actions based to update the status of the deal.
 
@@ -42,7 +42,7 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
 
         The deal registration is moved to the **Approvals** related list. The state of the deal registration changes to **Pending Approval** and an approval request is sent to the deal registration relationship contributor \(dn\_prm\_dr.enterprise\_deal\_reg\_rel\_contributor\) and the deal registration relationship manager \(sn\_prm\_dr.enterprise\_deal\_reg\_rel\_manager\) for the channel partner associated with the deal registration. After the deal registration is approved, the state changes to **Approved**.
 
-        ![Different states of a submitted deal registration record before it is converted to an opportunity.](../image/workspace-deal-reg.png)
+        ![Different states of a submitted deal registration record before it is converted to an opportunity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/workspace-deal-reg.png)
 
 4.  After a deal is approved, you can perform one of the following actions on the approved deal.
 
@@ -60,10 +60,10 @@ After a deal is created on the Partner portal and is in the **Submitted** state,
     All line items from the deal registration form are transferred to opportunity line items with the help of Primitives. To learn more about Primitives, see [LeadtoCashCore - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/LeadToCashCoreAPI.md).
 
 
-**Parent Topic:**[Partner Workspace](../concept/partner-workspace.md)
+**Parent Topic:**[Partner Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/partner-workspace.md)
 
 **Related topics**  
 
 
-[Register a deal on Partner portal](register-a-deal-partner-portal.md)
+[Register a deal on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md)
 

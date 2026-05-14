@@ -23,7 +23,7 @@ Role required: sn\_ins\_claim\_cml.fnol\_representative or sn\_ins\_claim\_cml.a
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Create a case from the commercial auto claim cases list or an interaction record.
 
@@ -76,5 +76,5 @@ A commercial claim case is created in the New state and the workflow is triggere
 
 ## What to do next
 
-As a claim processor, you can assign the case to yourself and start working on it. For more information, see [Process a commercial claim](manually_validate_claim.md).
+As a claim processor, you can assign the case to yourself and start working on it. For more information, see [Process a commercial claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/manually_validate_claim.md).
 

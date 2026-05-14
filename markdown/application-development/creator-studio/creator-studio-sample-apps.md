@@ -17,7 +17,7 @@ Creator Studio enables you to build apps where people can make requests.
 
 ## Service desk apps
 
-You can use Creator Studio to build service desk apps, which support departmental processes that occur on a routine basis. For more information on service desks, see [Service desks and Creator Studio](creator-studio-service-desk-about.md).
+You can use Creator Studio to build service desk apps, which support departmental processes that occur on a routine basis. For more information on service desks, see [Service desks and Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-service-desk-about.md).
 
 ## List of example apps
 

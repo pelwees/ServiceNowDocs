@@ -27,7 +27,7 @@ Role required: admin
 
 3.  In the External third-party provider section, select the provider you chose while creating the payload.
 
-    For more information, see [Create a payload for external third-party providers](create-payload-extrnl-provider.md)
+    For more information, see [Create a payload for external third-party providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/create-payload-extrnl-provider.md)
 
     If you need any additional information, add it in the `additionalParams` of the payload script, and select the added params from the **Document Fields to include** slush bucket.
 
@@ -44,5 +44,5 @@ Role required: admin
 
 ## What to do next
 
-You can perform a quick setup test using the demo data by connecting to your external provider. For more information, see [Define external routing test implementation](../concept/define-extrnl-routng-plugin.md).
+You can perform a quick setup test using the demo data by connecting to your external provider. For more information, see [Define external routing test implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../concept/define-extrnl-routng-plugin.md).
 

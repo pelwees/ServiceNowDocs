@@ -15,12 +15,12 @@ The Table connector enables you to perform various actions on a table of any kin
 
 You must first use and then expose the methods in the Table connector to use its methods.
 
--   To use the connector, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To expose the methods, see [Use connector method](../task/use-connector-method.md).
--   To use the methods, see [Use a component in RPA Desktop Design Studio](../task/configure-components.md).
+-   To use the connector, see [Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector.md).
+-   To expose the methods, see [Use connector method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector-method.md).
+-   To use the methods, see [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-components.md).
 
--   **[Table connector methods](../reference/connectors-table-methods.md)**  
+-   **[Table connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/connectors-table-methods.md)**  
 The Table connector provides multiple methods that perform various actions on tabular data as part of an automation Workflow in the RPA Desktop Design Studio. For example, tasks such as getting a table, getting a row data, and removing empty rows.
 
-**Parent Topic:**[Connectors](connectors.md)
+**Parent Topic:**[Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors.md)
 

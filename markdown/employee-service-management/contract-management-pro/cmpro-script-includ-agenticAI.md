@@ -35,7 +35,7 @@ When you duplicate the Manage contract repository agentic workflow and create a 
 
 4.  In the **Script** box, copy the `startAiAgentConversation()` method.
 
-    ![Script include for agentic workflow in CM Pro.](../image/cmpro-script-agentic-ai.png "Script include for agentic workflow")
+    ![Script include for agentic workflow in CM Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-script-agentic-ai.png "Script include for agentic workflow")
 
 5.  Navigate back to the Script Include table.
 
@@ -56,16 +56,16 @@ When you duplicate the Manage contract repository agentic workflow and create a 
 
 The customized Manage contract repository agentic workflow runs autonomously when all the trigger conditions are met.
 
-For more information, see [Manage contract repository agentic workflow](../concept/cmpro-na-reminder-agentic-wf.md).
+For more information, see [Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-na-reminder-agentic-wf.md).
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 
 
-[Activate business rules for the Manage contract repository agentic workflow](conf-repository-agentic-ai.md)
+[Activate business rules for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-repository-agentic-ai.md)
 
-[Set the default notice period for the Manage contract repository agentic workflow](conf-sys-prop-default-np.md)
+[Set the default notice period for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-sys-prop-default-np.md)
 
-[Enable notifications for AI extracted metadata and obligations](cmpro-na-me-agentic-ntf.md)
+[Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 

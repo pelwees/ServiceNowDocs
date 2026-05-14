@@ -129,25 +129,25 @@ Type a script to run after a successful insert action. This field is only visibl
 </table>4.  Click **Submit**.
 
 
--   **[Add incidents by same caller related list](t_ExampleIncidentsBySameCaller.md)**  
+-   **[Add incidents by same caller related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ExampleIncidentsBySameCaller.md)**  
 This example adds the existing relationship, Incidents by Same Caller, to incident forms.
--   **[Add transactions by user related list](t_ExampleTransactionsByUser.md)**  
+-   **[Add transactions by user related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ExampleTransactionsByUser.md)**  
 This example adds a relationship, Last 20 transactions, to the user form.
 
-**Parent Topic:**[Related lists](../../../use/using-forms/concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/concept/c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Select or create records in a related list](../../../use/using-forms/task/t_SelectRelatedRecords.md)
+[Select or create records in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_SelectRelatedRecords.md)
 
-[Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
+[Configure when a related list loads](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md)
 
-[Create a default filter for a related list](../../../use/using-forms/task/t_CreateADefaultFilter.md)
+[Create a default filter for a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_CreateADefaultFilter.md)
 
-[Configure the edit option](../../../use/using-forms/task/t_ConfigureTheEditOption.md)
+[Configure the edit option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_ConfigureTheEditOption.md)
 
-[Add fields to selections in a related list](t_AddingFieldsToARelatedList.md)
+[Add fields to selections in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingFieldsToARelatedList.md)
 
-[Create a default filter for list selector records](t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefaultRelatedRecSecFilter.md)
 

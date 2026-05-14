@@ -19,7 +19,7 @@ Block Request Category List classify observables in ServiceNow® based on the bl
 
 Role required: sn\_si.analyst
 
-**Note:** You must configure the CrowdStrike Falcon Insight configuration tile to use the Block Request Capability for CrowdStrike. For more information on how to configure the integration, see [Install and configure CrowdStrike Falcon Insight](install-and-configure-crowdstrike-falcon-insight.md)
+**Note:** You must configure the CrowdStrike Falcon Insight configuration tile to use the Block Request Capability for CrowdStrike. For more information on how to configure the integration, see [Install and configure CrowdStrike Falcon Insight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-crowdstrike-falcon-insight.md)
 
 ## About this task
 
@@ -47,7 +47,7 @@ The Block Request Category List includes two Hash Categories.
     2.  Select **Approvers for adding observable** from the search bar.
     3.  Select **Approvers for Removing Observable** from the search bar.
 
-        For a description of the field values, see [CrowdStrike Block Request Category List](../reference/block-req-category-list.md).
+        For a description of the field values, see [CrowdStrike Block Request Category List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/block-req-category-list.md).
 
 5.  Select **Update**.
 

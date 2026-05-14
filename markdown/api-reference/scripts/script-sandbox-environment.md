@@ -106,10 +106,10 @@ Not applicable: script includes run outside the sandbox in the application scope
 </td></tr></tbody>
 </table>For details about each evaluator, including JavaScript restrictions, see the following topics and the [Server-Side Sandbox Runtime Replacement \[KB2944435\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2944435) article on the Now Support Knowledge Base.
 
--   **[Guarded script evaluator](guarded-script.md)**  
+-   **[Guarded script evaluator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/guarded-script.md)**  
 The guarded script evaluator enhances instance security by supporting only a restricted scripting language and detecting or rejecting untrusted scripts that use unsupported JavaScript features.
--   **[Script sandbox evaluator](script-sandbox.md)**  
+-   **[Script sandbox evaluator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-sandbox.md)**  
 The script sandbox evaluator helps prevent executing untrusted scripts on an instance by limiting the APIs available to scripts.
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 

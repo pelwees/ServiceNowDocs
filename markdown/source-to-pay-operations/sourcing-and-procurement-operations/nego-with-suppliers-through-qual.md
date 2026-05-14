@@ -19,7 +19,7 @@ Work on a negotiation setup playbook to manage qualification work, and review th
 
 Role required: Sourcing manager
 
-Ensure that you’ve selected the appropriate sourcing approach. For details, see [Select a sourcing approach in playbook](select-sourcing-approach.md).
+Ensure that you’ve selected the appropriate sourcing approach. For details, see [Select a sourcing approach in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-sourcing-approach.md).
 
 ## Procedure
 
@@ -85,5 +85,5 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
 13. Manage qualification work, as described in steps 1 and 2.
 
 
-**Parent Topic:**[Sourcing intake guided experience with playbooks](../concept/sourcing-intake-guided-exp.md)
+**Parent Topic:**[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/sourcing-intake-guided-exp.md)
 

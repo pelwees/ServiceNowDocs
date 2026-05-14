@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Intake](pre-visit-playbook.md#section_r4f_qjv_2rb)
+[Intake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md#section_r4f_qjv_2rb)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Complete the initial procedure order review activities.
 
 </td></tr><tr><td>
 
-[Pre-authorizations](pre-visit-playbook.md#section_rwx_tjv_2rb)
+[Pre-authorizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md#section_rwx_tjv_2rb)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Capture pre-authorization details for follow-up and audit purposes.
 
 </td></tr><tr><td>
 
-[Schedule procedure](pre-visit-playbook.md#section_zzj_yjv_2rb)
+[Schedule procedure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md#section_zzj_yjv_2rb)
 
 </td><td>
 
@@ -59,14 +59,14 @@ Review appointments created for the procedure.
 
 </td></tr><tr><td>
 
-[Resolve and close](pre-visit-playbook.md#section_azx_gkv_2rb)
+[Resolve and close](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-playbook.md#section_azx_gkv_2rb)
 
 </td><td>
 
 Wait until all child activities are completed so that the procedure request is automatically closed.
 
 </td></tr></tbody>
-</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [Configure when to send the procedure consent form to a patient](../task/pre-visit-config-proc-consent-time.md).
+</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [Configure when to send the procedure consent form to a patient](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../task/pre-visit-config-proc-consent-time.md).
 
 ## Completing the initial review activities
 
@@ -93,7 +93,7 @@ In the **Pre-authorizations** stage of the playbook, complete the following acti
 
 In the **Schedule procedure** stage, complete the **Review appointments** activity.
 
-Only after the booked appointment details are entered by using the **Create appointment** UI action, the patient service representative can review the appointment details and mark the **Review appointments** activity of the **Schedule procedure** stage as complete in the Pre-Visit Management playbook. For more information, see [Managing appointment bookings for procedure requests](pre-visit-booking-appt.md#).
+Only after the booked appointment details are entered by using the **Create appointment** UI action, the patient service representative can review the appointment details and mark the **Review appointments** activity of the **Schedule procedure** stage as complete in the Pre-Visit Management playbook. For more information, see [Managing appointment bookings for procedure requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md#).
 
 **Note:** After the **Schedule procedure** stage is completed, the **Resolve and Close** stage is automatically run.
 

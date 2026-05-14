@@ -30,7 +30,7 @@ If the signatory information is missing, the contract request will be saved as a
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  Navigate to **Legal Requests**.
 
@@ -61,5 +61,5 @@ If the signatory information is missing, the contract request will be saved as a
 
 The contract request is resubmitted and the state changes from Draft to Work in progress.
 
-**Parent Topic:**[Updating and synchronizing signatories](snlc-update-sync-signatories.md)
+**Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)
 

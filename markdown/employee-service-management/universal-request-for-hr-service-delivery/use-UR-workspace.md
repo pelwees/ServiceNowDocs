@@ -23,7 +23,7 @@ You can start working on Universal Request in the Agent Workspaces from one of t
 
 For additional information on working within Agent Workspace, see Using workspace.
 
-**Parent Topic:**[Universal Request in Agent Workspaces](universal-request-workspace.md)
+**Parent Topic:**[Universal Request in Agent Workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-workspace.md)
 
 ## Create a universal request in Agent Workspace
 
@@ -241,7 +241,7 @@ Role required: sn\_uni\_req.routing\_agent or admin
 
 Consider the following scenario. An IT service desk agent with a routing agent role receives a phone call on a request and creates a new call record or an Interaction Record with the notes. After reviewing the record, the agent realizes that the request belongs to HR and not IT. In this case, the IT Agent can create a Universal Record from the interaction record and assign it to the HR assignment group.
 
-**Note:** Universal Request is not automatically created when a fulfiller creates a department ticket from an Interaction Record. You have to perform few manual steps to get this. For more information, see [Create universal request automatically for department tickets via other channels](../task/autocreate-ur-from-interactionrecord-WS.md).
+**Note:** Universal Request is not automatically created when a fulfiller creates a department ticket from an Interaction Record. You have to perform few manual steps to get this. For more information, see [Create universal request automatically for department tickets via other channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../task/autocreate-ur-from-interactionrecord-WS.md).
 
 ### Procedure
 
@@ -253,7 +253,7 @@ Consider the following scenario. An IT service desk agent with a routing agent r
 
 4.  Click the **Create UR** button
 
-    ![Create UR from an Interaction record](../images/create-ur-from-ir-aws.png)
+    ![Create UR from an Interaction record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/create-ur-from-ir-aws.png)
 
 5.  Click **Save**.
 
@@ -293,7 +293,7 @@ Find similar Universal Requests that are open and closed, Knowledge articles, Ca
 
 Role required: sn\_uni\_req.routing\_agent or admin
 
-![Agent Assist in UR](../images/agent-assist-ur.png)
+![Agent Assist in UR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/agent-assist-ur.png)
 
 ### Procedure
 
@@ -303,7 +303,7 @@ Role required: sn\_uni\_req.routing\_agent or admin
 
 3.  Click the universal request from the list or create a request.
 
-4.  In **Agent Assist**, click the settings icon \(![Agent Assist settings](../images/toggle-compose-setting.png)\) and select your resource from the list.
+4.  In **Agent Assist**, click the settings icon \(![Agent Assist settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/toggle-compose-setting.png)\) and select your resource from the list.
 
     -   Similar Closed Universal Request: To display all similar Universal Requests that are closed.
     -   Universal Request: To display all similar Universal Requests that are available.
@@ -320,7 +320,7 @@ You can transfer a primary ticket back to Universal Request, service set \(depar
 
 Role required: No specific role is required. Agents part of the assignment group or assigned-to agents on the primary ticket can perform this task.
 
-![Click to transfer the task](../images/route-to-ur-aws.png)
+![Click to transfer the task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/route-to-ur-aws.png)
 
 A routing agent can either resolve and close a primary ticket or transfer it to back to UR or another department for review and closure. When a primary task is transferred back to UR, the ticket is no longer a primary ticket and the primary ticket field of the universal request becomes empty.
 
@@ -337,9 +337,9 @@ When you transfer a ticket back to universal request, you can transfer it with o
     The request is not resolved or does not belong to the specific department, and is transferred back to UR.
 
 
-![Choose transfer reason](../images/route-dialog-aws.png)
+![Choose transfer reason](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/route-dialog-aws.png)
 
-Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](../reference/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../reference/ur-properties.md).
 
 ### Procedure
 
@@ -351,7 +351,7 @@ Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Reques
 
 4.  In the **Transfer Ticket** dialog, provide the following details.
 
-    **Note:** Based on your transfer type configuration, the given fields are displayed. For more information, see [Universal Request properties](../reference/ur-properties.md).
+    **Note:** Based on your transfer type configuration, the given fields are displayed. For more information, see [Universal Request properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../reference/ur-properties.md).
 
     -   **Department**: Select the department from the list.
     -   **Service**: Select the specific service of the chosen department.
@@ -363,7 +363,7 @@ Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Reques
 
 5.  Click **Transfer**.
 
-    The ticket is transferred based on the transfer and transfer type configuration. For more information, see [Transfer configuration](../task/configure-route-state.md).
+    The ticket is transferred based on the transfer and transfer type configuration. For more information, see [Transfer configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../task/configure-route-state.md).
 
 
 ## Restrict universal request access in Agent Workspace
@@ -384,7 +384,7 @@ Role required: routing agents, sn\_uni\_req.sensitiveinfo\_agent or service spec
 
 4.  On the form, click the **Restrict** button.
 
-    ![Restrict the universal request with sensitive data](../images/restrict-ur-aws.png)
+    ![Restrict the universal request with sensitive data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/restrict-ur-aws.png)
 
     The restricted fields are hidden, and the form is only for view purpose.
 
@@ -409,7 +409,7 @@ Role required: sn\_uni\_req.sensitiveinfo\_agent or service specific assignment 
 
 4.  On the form, click the **Unrestrict** button.
 
-    ![Unrestrict the universal request](../images/unrestrict-ur-aws.png)
+    ![Unrestrict the universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/unrestrict-ur-aws.png)
 
     The hidden restricted fields are now visible, and any agent can view the content.
 

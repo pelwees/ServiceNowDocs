@@ -37,24 +37,24 @@ Canceling a workflow attempts to stop the workflow gracefully by injecting a can
 
     A confirmation appears.
 
-    ![Cancel Confirmation](../image/CancelConfirmation.png)
+    ![Cancel Confirmation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/CancelConfirmation.png)
 
 5.  Click **OK**.
 
     The workflow engine attempts to cancel the workflow gracefully.
 
-    ![Wait for Cancel](../image/WaitForCancel.png)
+    ![Wait for Cancel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/WaitForCancel.png)
 
     If the workflow does not respond to the cancel command, the Force Cancel option appears.
 
-    ![Force Cancel](../image/ForceCancel.png)
+    ![Force Cancel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../image/ForceCancel.png)
 
 6.  Click **Force cancel** to interrupt the thread the workflow is actively executing or click **Continue waiting** to continue waiting for the workflow to cancel gracefully.
 
     **Warning:** Whenever possible, allow a workflow to cancel gracefully. Forcing a workflow to cancel can leave related workflows and scripts in an unresolved state. You can use an on-cancel script to clean up unresolved artifacts from a cancelled workflow.
 
 
-**Parent Topic:**[Administering workflow contexts](../reference/r_AdministeringWorkflowContexts.md)
+**Parent Topic:**[Administering workflow contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../reference/r_AdministeringWorkflowContexts.md)
 
 ## Cancel a workflow with the cancelContext\(context\) script
 

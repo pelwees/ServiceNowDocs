@@ -40,7 +40,7 @@ DevOps policies and rules for the success or failure of a pipeline may be define
 
 For a failed pipeline, DevOps users can access information about the failed build in their ServiceNow® instance to help them better understand the root cause and origin of the vulnerabilities.
 
-See [Uploading Software Bill of Materials files using a REST API](vr-sbom-preparing-upload.md) for more information about \(POST\) and \(GET\) parameters and URLs for the Upload and Status APIs.
+See [Uploading Software Bill of Materials files using a REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-preparing-upload.md) for more information about \(POST\) and \(GET\) parameters and URLs for the Upload and Status APIs.
 
 ## Domain Separation
 

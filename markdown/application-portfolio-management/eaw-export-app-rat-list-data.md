@@ -21,13 +21,13 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
-3.  Select the export icon \(![Export icon.](../../image/eaw-image/export-icon.png)\) on the Application Rationalization page.
+3.  Select the export icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/export-icon.png)\) on the Application Rationalization page.
 
 4.  From the File type drop-down on the Export window, select **Excel** or **CSV** to export the data to a Microsoft Excel or CSV file respectively.
 
-    ![Export pane on Application Rationalization List page highlighted.](../../image/eaw-image/export-pane.png)
+    ![Export pane on Application Rationalization List page highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/export-pane.png)
 
 5.  Select **Export**.
 
@@ -36,5 +36,5 @@ Role required: sn\_apm.apm\_user
 
 A file with the selected format is downloaded and saved in your local system.
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
 

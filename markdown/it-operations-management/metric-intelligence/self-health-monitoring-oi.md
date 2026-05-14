@@ -64,12 +64,12 @@ Monitor checks the following essential scheduled jobs, to detect if any is inact
 -   Metric Intelligence — Validate MID Distributed cluster
 
 </td></tr></tbody>
-</table>For more information about enabling or disabling an Metric Intelligence self-health monitor, see [Configure a self-health monitor](../task/configure-threshold-monitoring.md).
+</table>For more information about enabling or disabling an Metric Intelligence self-health monitor, see [Configure a self-health monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/configure-threshold-monitoring.md).
 
 **Related topics**  
 
 
-[Self-health monitors for Event Management](self-monitoring.md)
+[Self-health monitors for Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/self-monitoring.md)
 
-[Scheduled jobs installed with Metric Intelligence](../reference/installed-with-metrics.md)
+[Scheduled jobs installed with Metric Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../reference/installed-with-metrics.md)
 

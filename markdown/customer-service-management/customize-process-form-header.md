@@ -29,7 +29,7 @@ Overview information for a record is available in the page header.
 
 3.  Select a table from the UX Form Headers list.
 
-    You can also create a UX Form Header record. For more information, see [Set up a form header in CSM Configurable Workspace](config-csm-config-ws-form-header.md).
+    You can also create a UX Form Header record. For more information, see [Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-header.md).
 
 4.  Select the **Primary field** to display in the form header.
 
@@ -47,7 +47,7 @@ Overview information for a record is available in the page header.
 **Related topics**  
 
 
-[Set up a form header in CSM Configurable Workspace](config-csm-config-ws-form-header.md)
+[Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-header.md)
 
-[Display the form ribbon and form header secondary values in the Contextual side panel](config-csm-display-header-in-sidebar.md)
+[Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md)
 

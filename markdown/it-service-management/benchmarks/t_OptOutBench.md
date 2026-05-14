@@ -37,10 +37,10 @@ When you opt out of the Benchmarks forum, it means that you no longer have acces
 
     Otherwise, click **Cancel** to skip the survey.
 
-    ![Survey options](../image/BenchSurvey.png)
+    ![Survey options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/BenchSurvey.png)
 
     The opt-out confirmation is shown. You can opt back in at any time.
 
 
-**Parent Topic:**[Enable Benchmarks](t_EnableBench.md)
+**Parent Topic:**[Enable Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/t_EnableBench.md)
 

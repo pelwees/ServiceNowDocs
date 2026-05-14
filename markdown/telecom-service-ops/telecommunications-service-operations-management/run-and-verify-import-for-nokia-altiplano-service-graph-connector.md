@@ -29,7 +29,7 @@ You can either enable the import schedules to run automatically based on their d
 
 The following screenshot helps you understand the scheduled data import process and displays the executions in the form of import sets.
 
-![Scheduled data import screen of Nokia Altiplano bulk discovery and the list of executions.](../images/scheduled-data-import.png)
+![Scheduled data import screen of Nokia Altiplano bulk discovery and the list of executions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/scheduled-data-import.png)
 
 ## Procedure
 
@@ -70,12 +70,12 @@ Example: After executing the import schedule:
 -   If **Concurrent Import** option is enabled in the import schedule, you’ll see records in the **Concurrent Import Set** table instead of the standard Import Set table.
 -   Each concurrent job creates its own import set and log entry. The structure of the execution records remains the same.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](../concept/using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/using-tsom.md)
 
 **Related topics**  
 
 
-[Configure Nokia Altiplano service graph connector](../concept/configuring-service-graph-connector-nokia-altiplano.md)
+[Configure Nokia Altiplano service graph connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/configuring-service-graph-connector-nokia-altiplano.md)
 
-[Telecom Discovery via Nokia Altiplano](../concept/service-graph-connector-for-nokia-altiplano.md#)
+[Telecom Discovery via Nokia Altiplano](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/service-graph-connector-for-nokia-altiplano.md#)
 

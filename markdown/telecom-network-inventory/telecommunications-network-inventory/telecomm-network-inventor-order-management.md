@@ -56,10 +56,10 @@ To create a change request, an admin must perform the following tasks for an ord
 
     The states are New, Implement, Review, and Closed for the earlier change models. By default, all new change model states are set as New.
 
-3.  Create a decision entry in the decision table provided by the Telecommunications Network Inventory application. See [Order Management for Telecommunications integration](../task/decision_table_for_tni_omt_integration.md) to learn how to create an entry.
+3.  Create a decision entry in the decision table provided by the Telecommunications Network Inventory application. See [Order Management for Telecommunications integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/decision_table_for_tni_omt_integration.md) to learn how to create an entry.
 
 
-![TNI-OMT Integration for creating a change task. For the text description, refer to the workflow steps that follow.](../image/omt-tni-integration-flow.png)
+![TNI-OMT Integration for creating a change task. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/omt-tni-integration-flow.png)
 
 The workflow for creating a change task using TNI-OMT integration is as follows:
 
@@ -85,10 +85,10 @@ As a result, the Order Management for Telecommunications and Media application f
     -   In the Order Management for Telecommunications and Media application, the SD-WAN product has an Allocate and Install CPE task that triggers an equipment creation change request to the Telecommunications Network Inventory application.
     -   The Telecommunications Network Inventory application has demo data that you can use to create equipment, provision a link aggregation group \(LAG\), automate a Gigabyte Passive Optical Network \(GPON\) broadband, and fiber wise mobility infra as Telecommunications Network Inventory workflows.
 
-**Parent Topic:**[Integrating Telecommunications Network Inventory with other applications](integrating-telecommunications-network-inventory--applications.md)
+**Parent Topic:**[Integrating Telecommunications Network Inventory with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/integrating-telecommunications-network-inventory--applications.md)
 
 **Related topics**  
 
 
-[Telecommunications Network Inventory integration with Hardware Asset Management](integration-with-hardware-asset-management.md)
+[Telecommunications Network Inventory integration with Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/integration-with-hardware-asset-management.md)
 

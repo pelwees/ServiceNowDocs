@@ -17,7 +17,7 @@ The MIDServer script include provides methods to encapsulate the notion of a MID
 
 Use these methods in server scripts to manage a MID Server using Ajax.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## MIDServer - getByName\(String name\)
 

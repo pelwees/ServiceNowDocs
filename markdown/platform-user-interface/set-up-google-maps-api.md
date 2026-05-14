@@ -290,20 +290,20 @@ Maximum number of records in a table that can be processed using the scheduled j
     5.  Click **Save**.
 
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_MapPages.md)
 
 **Related topics**  
 
 
-[Create a map page](t_CreateAMapPage.md)
+[Create a map page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAMapPage.md)
 
-[Create a map page module](create-map-page-module.md)
+[Create a map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-map-page-module.md)
 
-[Create an advanced Map Page](create-advanced-map-page.md)
+[Create an advanced Map Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)
 
-[Set map application scope](set-map-application-scope.md)
+[Set map application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-map-application-scope.md)
 
-[Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
+[Create a smartphone map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/scripting-for-map-pages.md)
 

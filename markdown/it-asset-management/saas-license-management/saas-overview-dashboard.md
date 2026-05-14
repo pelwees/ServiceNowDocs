@@ -15,7 +15,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 Optimize how much your organization spends on SaaS and SSO licensing by analyzing the subscription usage, cost, and compliance of your SaaS applications and SSO providers using the SaaS Overview dashboard.
 
-**Important:** The SaaS Overview dashboard is available in both the Software Asset Management classic application and the Software Asset Workspace. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](../reference/saas-dashboard-workspace.md).
+**Important:** The SaaS Overview dashboard is available in both the Software Asset Management classic application and the Software Asset Workspace. This topic provides information on the SaaS Overview dashboard in the Software Asset Management classic application. For information on the SaaS Overview dashboard in the Software Asset Workspace, see [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reference/saas-dashboard-workspace.md).
 
 The Engineering License Overview dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
@@ -26,7 +26,7 @@ The SaaS Overview dashboard displays information about the usage, costs, and pot
 
 **Note:** To view your organization's software usage and compliance for Microsoft Office 365 and Adobe Cloud, navigate to **SaaS License** &gt; **Office 365 &amp; Adobe Cloud**.
 
-![SaaS Overview dashboard shows SaaS cost and usage.](../image/saas-license-dashboard.png "SaaS Overview dashboard")
+![SaaS Overview dashboard shows SaaS cost and usage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/saas-license-dashboard.png "SaaS Overview dashboard")
 
 <table id="table_r1f_s3d_4fb"><thead><tr><th>
 
@@ -121,42 +121,42 @@ Potential cost saved for each subscription profile if you reclaim unused subscri
  You can filter the data that is displayed on this report by selecting an option from the Breakdown list. To view the potential savings for both SaaS and SSO subscription profiles, select **All Subscriptions**. To view the potential savings for only SaaS subscription profiles, select **Subscriptions Excluding SSO**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SaaS License Management](sam-subscription-management.md)
+</table>**Parent Topic:**[SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-subscription-management.md)
 
 **Related topics**  
 
 
-[Request SaaS License Management](../task/request-saas-license-management.md)
+[Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md)
 
-[SaaS License Management setup for large companies](saas-setup-large-companies.md)
+[SaaS License Management setup for large companies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-setup-large-companies.md)
 
-[Integrate with SaaS applications](create-integration-profile.md)
+[Integrate with SaaS applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-profile.md)
 
-[Integrate with SSO providers](saas-sso-integration.md)
+[Integrate with SSO providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-sso-integration.md)
 
-[Playbook for SaaS integrations](playbook-saas-integrations.md)
+[Playbook for SaaS integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/playbook-saas-integrations.md)
 
-[Viewing your SaaS and SSO subscriptions](usage-summary-saas.md)
+[Viewing your SaaS and SSO subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/usage-summary-saas.md)
 
-[Review a software reclamation rule](../task/add-reclamation-rule-sub.md)
+[Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/add-reclamation-rule-sub.md)
 
-[Reclaiming user subscriptions](reclaiming-user-subscriptions-saas.md)
+[Reclaiming user subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaiming-user-subscriptions-saas.md)
 
-[Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md)
+[Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md)
 
-[Create a child alias to set up multiple Cisco Webex integration profiles](../task/create-child-alias-webex.md)
+[Create a child alias to set up multiple Cisco Webex integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-webex.md)
 
-[Create a child alias to set up multiple Confluence Cloud integration profiles](../task/create-child-alias-confluence.md)
+[Create a child alias to set up multiple Confluence Cloud integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-confluence.md)
 
-[Create a child alias to set up multiple Jira integration profiles](../task/create-child-alias-jira.md)
+[Create a child alias to set up multiple Jira integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-child-alias-jira.md)
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/map-user-data.md)
 
-[Disconnect SSO apps](../task/disconnect-azure-ad-apps.md)
+[Disconnect SSO apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/disconnect-azure-ad-apps.md)
 
-[Delete an integration profile](delete-saas-integration.md)
+[Delete an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/delete-saas-integration.md)
 
-[Subscription identifiers for SaaS and SSO applications](subscription-identifiers.md#)
+[Subscription identifiers for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-identifiers.md#)
 
-[Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#)
+[Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#)
 

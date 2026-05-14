@@ -28,5 +28,5 @@ A reference topic displaying the various states of a clone.
 |Rolling back|The clone is in the process of rolling back to a previous state.|
 |Rolled back|The clone request to roll back to a previous state is complete.|
 
-**Parent Topic:**[Instance Clone reference](instance-clone-reference.md)
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 

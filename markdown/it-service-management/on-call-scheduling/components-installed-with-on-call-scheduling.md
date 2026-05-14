@@ -15,10 +15,10 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 Several types of components are installed with activation of On-call scheduling, including tables and user roles.
 
--   **[Tables installed with On-Call Scheduling](../../on-call-scheduling/reference/tables-oob-oncall.md)**  
+-   **[Tables installed with On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../on-call-scheduling/reference/tables-oob-oncall.md)**  
 On-Call Scheduling adds the following tables.
--   **[Scheduled jobs installed with On-Call Scheduling](../../on-call-scheduling/reference/scheduled-jobs-oob-oncall.md)**  
+-   **[Scheduled jobs installed with On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../on-call-scheduling/reference/scheduled-jobs-oob-oncall.md)**  
 On-Call Scheduling includes scheduled jobs.
 
-**Parent Topic:**[Reference for on-call scheduling](reference-for-on-call-scheduling.md)
+**Parent Topic:**[Reference for on-call scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 

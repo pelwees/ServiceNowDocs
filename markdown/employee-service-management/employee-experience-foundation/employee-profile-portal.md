@@ -22,7 +22,7 @@ Download the latest version from ServiceNow Store to access the work-related emp
 
 **Note:** To manually approve the Requested restricted caller access \(RCA\), go to sys\_store\_app.list from navigator. Header has an error message with a link to the RCAs.
 
-![Requested restricted caller access for employee profile](../images/ec-rca-allow.png "Requested restricted caller access")
+![Requested restricted caller access for employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-rca-allow.png "Requested restricted caller access")
 
 You can allow the RCAs.
 
@@ -38,11 +38,11 @@ You can have a comprehensive view of the employee information to drive business 
 
 ## Configure employee profile
 
-As an admin, you can create an active employee definition and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](../task/config-employee-profile-widget.md).
+As an admin, you can create an active employee definition and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/config-employee-profile-widget.md).
 
 **Note:** Actions that require the **admin** role, can also be performed with the **sn\_employee.admin** role.
 
 ## Use employee profile
 
-As an employee, you can view, edit, and update the privacy preferences profile. See [View employee profile](update-employee-profile.md)
+As an employee, you can view, edit, and update the privacy preferences profile. See [View employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-employee-profile.md)
 

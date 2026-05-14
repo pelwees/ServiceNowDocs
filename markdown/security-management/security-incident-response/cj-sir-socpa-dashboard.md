@@ -19,9 +19,9 @@ The SOC manager can use the Performance Analytics dashboard to improve efficienc
 
 ## Analyst Efficiency tab
 
-![Performance Analytics SOC Efficiency dashboard: Analyst Efficiency tab](../image/cj-sir-soc-analyst.png)
+![Performance Analytics SOC Efficiency dashboard: Analyst Efficiency tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-soc-analyst.png)
 
-Click any of the indicators to drill down for further details. For example, click the indicator in the Average security incidents worked per analyst section. ![Analyst Efficiency: Overview](../image/cj-sir-soc-analyst-1.png)
+Click any of the indicators to drill down for further details. For example, click the indicator in the Average security incidents worked per analyst section. ![Analyst Efficiency: Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-soc-analyst-1.png)
 
 The graph shows that the number of open security incidents have increased from 0 in March to over 40 in May. Notice the data displayed in the header:
 
@@ -44,7 +44,7 @@ The graph shows that the number of open security incidents have increased from 0
 
 ## Detection and Response Effectiveness tab
 
-![Performance Analytics SOC Efficiency dashboard: Detection and Response Effectiveness tab](../image/cj-sir-soc-detect.png)
+![Performance Analytics SOC Efficiency dashboard: Detection and Response Effectiveness tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-soc-detect.png)
 
 <table id="table_hr2_cbs_vhb"><thead><tr><th>
 
@@ -121,7 +121,7 @@ The total number of closed security incidents in the specified period and the av
 </td></tr></tbody>
 </table>## Incident Risk Score Analysis tab
 
-![Performance Analytics dashboard: Incident Risk Score Analysis tab](../image/cj-sir-soc-riskscore.png)
+![Performance Analytics dashboard: Incident Risk Score Analysis tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-soc-riskscore.png)
 
 |Indicator|Description|
 |---------|-----------|
@@ -131,20 +131,20 @@ The total number of closed security incidents in the specified period and the av
 
 ## Security Incident Stage Analysis tab
 
-![Performance Analytics SOC dashboard: Security Incident Stage Analysis tab](../image/cj-sir-soc-stage.png)
+![Performance Analytics SOC dashboard: Security Incident Stage Analysis tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-soc-stage.png)
 
 You can see the number of open incidents on a specific day and the status \(analysis, draft, contain, eradicate, recover, or review\) of these incidents. On each stage, you can view average age, affected CIs, response tasks, and so on. Click on a link to view additional details or the breakdown of these incidents.
 
-**Parent Topic:**[Security Incident Response Platform Analytics Solutions](../../../use/dashboards/application-content-packs/security-incident-content-pack.md)
+**Parent Topic:**[Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/security-incident-content-pack.md)
 
 **Related topics**  
 
 
-[CISO dashboard](../../../use/dashboards/application-content-packs/ciso-dashboard.md)
+[CISO dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/ciso-dashboard.md)
 
-[Security Incident Management Premium dashboard](../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
+[Security Incident Management Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
 
-[Security Incident Management dashboard](../../../use/dashboards/application-content-packs/security-incident-mgmt-dashboard.md)
+[Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/security-incident-mgmt-dashboard.md)
 
-[Security Incident Explorer dashboard](../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
+[Security Incident Explorer dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
 

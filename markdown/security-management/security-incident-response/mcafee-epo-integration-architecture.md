@@ -29,7 +29,7 @@ The following terms are used throughout the installation and configuration docum
 
 -   **Plugin**
 
-    Plugins are software components that provide specific features and functionalities within your ServiceNow AI Platform instance. For more information on the installation and configuration of the integration plugins, see [Install the application and configure a server for the McAfee ePO integration](../task/mcaffe-epo-install.md).
+    Plugins are software components that provide specific features and functionalities within your ServiceNow AI Platform instance. For more information on the installation and configuration of the integration plugins, see [Install the application and configure a server for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/mcaffe-epo-install.md).
 
 -   **ePolicy Orchestrator \(McAfee ePO\)**
 
@@ -68,11 +68,11 @@ The following terms are used throughout the installation and configuration docum
 
 The following figure is an example of a customer environment. A ServiceNow AI Platform MID server is required so that your ServiceNow AI Platform instance can connect to a McAfee ePO server \(console\) via a ServiceNow extension plugin. After you are connected, you invoke capabilities from your ServiceNow AI Platform to initiate malware scans, isolate host machines and restore them to your network, retrieve last scan results, and gather system details on your assets. When these capabilities return results from your assets that match your search criteria, data is pulled via the MID server into your ServiceNow AI Platform instance. Data is displayed on the related lists of a ServiceNow AI Platform Security Incident Response \(SIR\) security incident. The following figure illustrates the data flow for one group of endpoints managed by one McAfee ePO console.
 
-![Configuration one.](../image/mcafee-canvas-1.png "Single endpoint configuration")
+![Configuration one.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-canvas-1.png "Single endpoint configuration")
 
 As shown in the following figure, this integration can support more than one McAfee ePO console. You can have one group of endpoints managed by one McAfee ePO console, and another group of endpoints managed by another McAfee ePO console. Data from multiple McAfee ePO consoles is pulled via a single MID server. However, you also may prefer to configure multiple MID servers if required by your organization.
 
-![Multiple configurations.](../image/mcafee-canvas-2.png "MID servers configuration")
+![Multiple configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-canvas-2.png "MID servers configuration")
 
 ## Workflows for the McAfee ePO integration
 
@@ -88,9 +88,9 @@ This integration includes the following workflows. These workflows are pre-confi
 
 The integration requires that the MID server communicates via HTTPS protocol connection to the McAfee ePO console.
 
-**Parent Topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[McAfee ePO integration](mcaffee-epo-overview-arch.md)
+**Previous topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-overview-arch.md)
 
-**Next topic:**[Checklist for the McAfee ePO integration](../task/mcafee-epo_checklist.md)
+**Next topic:**[Checklist for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/mcafee-epo_checklist.md)
 

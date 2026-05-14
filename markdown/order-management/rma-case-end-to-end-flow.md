@@ -52,11 +52,11 @@ Agent action:
 
 ## Related links
 
--   [Activate the Return Merchandise Authorization plugin](activate-return-merchandise-authorization-plugin.md)
--   [Return Merchandise Authorization Case Management](../reference/return-merchandise-authorization-case-management-reference.md)
+-   [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
+-   [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/return-merchandise-authorization-case-management-reference.md)
 
 **Related topics**  
 
 
-[Return Merchandise Authorization case user journey](rma-case-user-journey.md)
+[Return Merchandise Authorization case user journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rma-case-user-journey.md)
 

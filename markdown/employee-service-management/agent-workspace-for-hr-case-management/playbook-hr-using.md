@@ -19,7 +19,7 @@ Playbook shows as a tab on the HR Agent Workspace form after displaying an LE ca
 
 **Note:** The Playbook tab only appears after the HR case has moved to **Ready** or **Work in Progress**. This triggers the lifecycle event and data appears for all launched activities.
 
-![HR Service Delivery Playbook](../image/playbook-hr-playbook-tab.png)
+![HR Service Delivery Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-playbook-tab.png)
 
 Selecting the Playbook tab allows you to view and work all lifecycle event activities and their child tasks in a single pane.
 
@@ -31,7 +31,7 @@ Selecting the Playbook tab allows you to view and work all lifecycle event activ
 
 -   **Activity sets**
 
-    The list of lanes along with their status icon appear below the lifecycle event description.![HR Agent WS - Stage panel](../image/playbook-hr-le-column.png)
+    The list of lanes along with their status icon appear below the lifecycle event description.![HR Agent WS - Stage panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-le-column.png)
 
     Under the New Hire Onboarding \(Demo\) lifecycle event are five \(5\) activity sets:
 
@@ -44,7 +44,7 @@ Selecting the Playbook tab allows you to view and work all lifecycle event activ
 
     Click on an activity set to view the associated activities.
 
-    ![HR Agent WS - Activity stream](../image/playbook-hr-activity-stream.png)
+    ![HR Agent WS - Activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activity-stream.png)
 
 
 ## HR Playbook add a note or comment
@@ -63,31 +63,31 @@ Role required: sn\_hr\_le.case\_writer
 
 3.  Click an activity set.
 
-    ![HR Agent WS - Playbook activity sets](../image/playbook-hr-activity-sets.png)
+    ![HR Agent WS - Playbook activity sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activity-sets.png)
 
 4.  Click an activity within the opened activity set.
 
-    ![HR Agent WS - Playbook activities](../image/playbook-hr-activities.png)
+    ![HR Agent WS - Playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activities.png)
 
-5.  Click the **Add note or comment** icon ![HR Agent WS - Playbook add note or comment icon](../image/playbook-hr-comment-icon.png).
+5.  Click the **Add note or comment** icon ![HR Agent WS - Playbook add note or comment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-comment-icon.png).
 
-    ![HR Agent WS - Playbook click add note or comment](../image/playbook-hr-click-comment-icon.png)
+    ![HR Agent WS - Playbook click add note or comment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-click-comment-icon.png)
 
 6.  Select **Work notes \(Private\)** or **Comments**.
 
-    ![HR Agent WS - Playbook compose note or comment](../image/playbook-hr-compose-comment.png)
+    ![HR Agent WS - Playbook compose note or comment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-compose-comment.png)
 
 7.  Enter text and click **Post Work notes \(Private\)** or **Post Comments**.
 
-8.  Click the **Filter by** icon ![HR Agent WS - Playbook filter by icon](../image/playbook-hr-filter-icon.png) to filter by activities.
+8.  Click the **Filter by** icon ![HR Agent WS - Playbook filter by icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-filter-icon.png) to filter by activities.
 
-    ![HR Agent WS - Filter by](../image/playbook-hr-filter-by.png)
+    ![HR Agent WS - Filter by](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-filter-by.png)
 
 9.  Check the filters you want to show activities under.
 
 10. Click the More Options icon ![HR Agent WS - Playbook more options icon]().
 
-    ![HR Agent WS - Playbook more options filter](../image/playbook-hr-more-options.png)
+    ![HR Agent WS - Playbook more options filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-more-options.png)
 
 11. Select the filters you want to use to show activities by.
 
@@ -108,19 +108,19 @@ Role required: sn\_hr\_le.case\_writer
 
 3.  Click an activity set.
 
-    ![HR Agent WS - Playbook activity sets](../image/playbook-hr-activity-sets.png)
+    ![HR Agent WS - Playbook activity sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activity-sets.png)
 
 4.  Click an activity within the opened activity set.
 
-    ![HR Agent WS - Playbook activities](../image/playbook-hr-activities.png)
+    ![HR Agent WS - Playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activities.png)
 
-5.  Click the **Open task** icon ![HR Agent WS - Playbook open task icon](../image/playbook-hr-open-task-icon.png).
+5.  Click the **Open task** icon ![HR Agent WS - Playbook open task icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-open-task-icon.png).
 
-    ![HR Agent WS - Playbook open task](../image/playbook-hr-open-task.png)
+    ![HR Agent WS - Playbook open task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-open-task.png)
 
 6.  The details of a sub-case or task opens.
 
-    ![HR Agent WS - Playbook opened task](../image/playbook-hr-opened-task.png)
+    ![HR Agent WS - Playbook opened task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-opened-task.png)
 
 7.  You can make edits and click **Save**.
 
@@ -143,19 +143,19 @@ Role required: sn\_hr\_le.case\_writer
 
 3.  Click an activity set.
 
-    ![HR Agent WS - Playbook activity sets](../image/playbook-hr-activity-sets.png)
+    ![HR Agent WS - Playbook activity sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activity-sets.png)
 
 4.  Click an activity within the opened activity set.
 
-    ![HR Agent WS - Playbook activities](../image/playbook-hr-activities.png)
+    ![HR Agent WS - Playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activities.png)
 
 5.  Click the **See activity** button.
 
     **Note:** Only agents with access to the case card and not assigned to the case can see this button. The Assigned to agent does not see this button.
 
-    ![HR Agent WS - Playbook See activity button](../image/playbook-hr-see-activity.png)
+    ![HR Agent WS - Playbook See activity button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-see-activity.png)
 
-    Activities can have links to training, videos, or catalog items. The state of the activity also appears to the right.![HR Agent WS - Playbook activities link](../image/playbook-hr-catalog-link.png)
+    Activities can have links to training, videos, or catalog items. The state of the activity also appears to the right.![HR Agent WS - Playbook activities link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-catalog-link.png)
 
     **Note:** Clicking the Catalog Item link opens the general catalog page.
 
@@ -176,11 +176,11 @@ Role required: sn\_hr\_le.case\_writer
 
 3.  Click an activity set.
 
-    ![HR Agent WS - Playbook activity sets](../image/playbook-hr-activity-sets.png)
+    ![HR Agent WS - Playbook activity sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activity-sets.png)
 
 4.  Click an activity within the opened activity set.
 
-    ![HR Agent WS - Playbook activities](../image/playbook-hr-activities.png)
+    ![HR Agent WS - Playbook activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-activities.png)
 
 5.  Click **+Add File**.
 
@@ -195,7 +195,7 @@ You can cancel and revert work done in a lifecycle event case using the rescind 
 
 Role required: sn\_hr\_le.case\_writer
 
-For more information, see [Configure the rescind process for a lifecycle event](../task/configure-rescind-for-a-lifecycle-event.md).
+For more information, see [Configure the rescind process for a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-rescind-for-a-lifecycle-event.md).
 
 ### Procedure
 
@@ -205,7 +205,7 @@ For more information, see [Configure the rescind process for a lifecycle event](
 
 3.  Click **Rescind**.
 
-    ![HR Agent WS - Playbook rescind](../image/playbook-hr-rescind.png)
+    ![HR Agent WS - Playbook rescind](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-rescind.png)
 
 4.  Enter a reason for rescinding the case.
 
@@ -234,7 +234,7 @@ Role required: sn\_hr\_le.case\_writer
 
 4.  From any activity, when there is a **See email body** button, click it.
 
-    ![HR Playbook email notification](../image/playbook-hr-email-not.png)
+    ![HR Playbook email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-email-not.png)
 
 5.  Click the **X** at the top, right corner of the email to close it.
 

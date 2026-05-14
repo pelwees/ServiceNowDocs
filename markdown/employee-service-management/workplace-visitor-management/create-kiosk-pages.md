@@ -27,7 +27,7 @@ Role required: sn\_wsd\_visitor.admin
 
 3.  On the Kiosk Page Configuration form, fill in the fields.
 
-    For a description of the field values, see [Kiosk Page Configuration form](../reference/kiosk-page-config-form.md).
+    For a description of the field values, see [Kiosk Page Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/kiosk-page-config-form.md).
 
     **Important:** If the visitor policies for the acknowledgment page contain hyperlinks, visitors can use the links to leave the kiosk environment and they cannot return to the kiosk. The kiosk operator must reload the kiosk environment by using the kiosk URL.
 
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## What to do next
 
-Pages that have the Authentication or End page type can be further customized by using the related lists. For more information, see [Kiosk Page Customizations](../reference/kiosk-page-customizations.md).
+Pages that have the Authentication or End page type can be further customized by using the related lists. For more information, see [Kiosk Page Customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../reference/kiosk-page-customizations.md).
 
-**Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](../concept/config-visitor-for-kiosk.md)
+**Parent Topic:**[Configuring Workplace Visitor Management for Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/config-visitor-for-kiosk.md)
 

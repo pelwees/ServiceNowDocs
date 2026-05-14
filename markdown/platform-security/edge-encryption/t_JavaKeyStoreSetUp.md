@@ -33,17 +33,17 @@ The Edge Encryption proxy ships with the Java JCEKS KeyStore file named `keystor
 
     2.  Open the `edgeencryption.properties` file.
 
-    3.  Enter the properties for the [Java KeyStore](../reference/edge-encryption-proxy-server-properties.md).
+    3.  Enter the properties for the [Java KeyStore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../reference/edge-encryption-proxy-server-properties.md).
 
 2.  Save and close the `edgeencryption.properties` file.
 
 
 ## What to do next
 
-After setting up the Java KeyStore, [Create encryption keys using the Java KeyStore keytool](t_CreateEncryptionKeys.md).
+After setting up the Java KeyStore, [Create encryption keys using the Java KeyStore keytool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_CreateEncryptionKeys.md).
 
--   **[Create encryption keys using the Java KeyStore keytool](t_CreateEncryptionKeys.md)**  
+-   **[Create encryption keys using the Java KeyStore keytool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_CreateEncryptionKeys.md)**  
 You can use the keytool shipped with the encryption proxy distribution to create AES 128-bit and AES 256-bit encryption keys.
 
-**Parent Topic:**[Set up a keystore and encryption keys](set-up-keystore.md)
+**Parent Topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 

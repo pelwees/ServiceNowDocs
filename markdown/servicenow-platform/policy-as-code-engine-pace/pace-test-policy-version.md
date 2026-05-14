@@ -25,7 +25,7 @@ The Test Playground enables you to apply changes to the policy script, and see t
 
 ## Procedure
 
-1.  In the **Policy builder** tab, select the Test playground icon ![Test playground icon.](../image/pace-test-playground-icon.jpg) in the right-hand menu.
+1.  In the **Policy builder** tab, select the Test playground icon ![Test playground icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-test-playground-icon.jpg) in the right-hand menu.
 
 2.  In the Test parameters tab, fill in the forms as needed.
 
@@ -78,7 +78,7 @@ Verbose
 Option to make the test display in a verbose format.
 
 </td></tr></tbody>
-</table>    ![Test parameters tab.](../image/pace-test-paras-section-2.jpg)
+</table>    ![Test parameters tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-test-paras-section-2.jpg)
 
 3.  Under the **API parameters** and **Config parameters** tabs, select the variables you want to test with the policy version.
 
@@ -88,6 +88,6 @@ Option to make the test display in a verbose format.
 
     **Note:** A decision with Compliant with exception will not work with a custom decision.
 
-    ![Output tab.](../image/pace-output-tab-2.jpg)
+    ![Output tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-output-tab-2.jpg)
 
 

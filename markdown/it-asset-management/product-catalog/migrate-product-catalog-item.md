@@ -46,7 +46,7 @@ Description
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
 2.  Select the required hardware model name link.
-3.  On the hardware model form, select the ![Additional actions](../image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
+3.  On the hardware model form, select the ![Additional actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported hardware model XML file on your local system.
 
 
@@ -58,7 +58,7 @@ Description
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Software Models**.
 2.  Select the required software model name link.
-3.  On the software model form, select the ![Additional actions](../image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
+3.  On the software model form, select the ![Additional actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported software model XML file on your local system.
 
 
@@ -86,8 +86,8 @@ Description
 </td><td>
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
-2.  Hover over any column header in the Hardware Models list to display the Column Options ![Column options](../image/column-options.png) icon.
-3.  Select Column options ![Column options](../image/column-options.png)icon and then select **Import XML**.
+2.  Hover over any column header in the Hardware Models list to display the Column Options ![Column options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/column-options.png) icon.
+3.  Select Column options ![Column options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/column-options.png)icon and then select **Import XML**.
 4.  Select **Choose File** and select the hardware model record XML file saved previously in Step 1.
 5.  Select **Upload**.
 
@@ -99,8 +99,8 @@ Description
 </td><td>
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Software Models**.
-2.  Hover over any column header in the Software Models list to display the Column Options ![Column options](../image/column-options.png) icon.
-3.  Select Column options ![Column options](../image/column-options.png) icon and then select **Import XML**.
+2.  Hover over any column header in the Software Models list to display the Column Options ![Column options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/column-options.png) icon.
+3.  Select Column options ![Column options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../image/column-options.png) icon and then select **Import XML**.
 4.  Select **Choose File** and select the software model record XML file saved previously in Step 1.
 5.  Select **Upload**.
 
@@ -133,14 +133,14 @@ The catalog items are imported into the target ServiceNow instance.
 
 Navigate to the Hardware Models or Software Models page in the target ServiceNow instance, View the imported hardware or software model record, along with its catalog items that are published.
 
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 
 
-[Create a product catalog item](t_CreateAProductCatalogItem.md)
+[Create a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreateAProductCatalogItem.md)
 
-[Activate a product catalog item](t_ActivateAProductCatalogItem.md)
+[Activate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ActivateAProductCatalogItem.md)
 
-[Deactivate a product catalog item](t_DeactivateAProductCatalogItem.md)
+[Deactivate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_DeactivateAProductCatalogItem.md)
 

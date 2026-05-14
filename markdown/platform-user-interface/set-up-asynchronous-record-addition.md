@@ -21,7 +21,7 @@ Role required: admin
 
 When you select a large number of records to add to a related list, you can focus on other tasks while the records are added in the background.
 
-If background loading isn’t required for all modals, configure individual modals to load related list records in the background using declarative actions. For instructions, see [Configure background loading for a modal](set-up-asychronous-record-addition-declarative-actions.md).
+If background loading isn’t required for all modals, configure individual modals to load related list records in the background using declarative actions. For instructions, see [Configure background loading for a modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-asychronous-record-addition-declarative-actions.md).
 
 ## Procedure
 
@@ -52,13 +52,13 @@ If background loading isn’t required for all modals, configure individual moda
 
 When you select any number of records beyond the threshold, a notification informs you that the records will load in the background.
 
-![MRA notification 1](../image/y-mra-notification-1.png)
+![MRA notification 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-1.png)
 
 When you add the selected records, the modal closes, and a notification confirms that the records are loading in the background.
 
-![MRA notification 2](../image/y-mra-notification-2.png)
+![MRA notification 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-2.png)
 
 After the records are added, a notification informs you that the records were added successfully.
 
-![MRA notification 3](../image/y-mra-notification-3.png)
+![MRA notification 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-3.png)
 

@@ -80,5 +80,5 @@ Body of your message that includes any information, requests, or details you wan
 8.  Select **Send Email**.
 
 
-**Parent Topic:**[Using Compliance Case Management](../concept/use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../concept/use-compliance-case-management.md)
 

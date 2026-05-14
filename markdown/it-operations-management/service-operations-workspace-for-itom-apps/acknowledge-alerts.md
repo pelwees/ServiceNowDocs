@@ -53,9 +53,9 @@ Action
 
 You can select more than one alert row.
 
-**Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](../image/el-select-all.png)
+**Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-select-all.png)
 
-To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](../image/icon-chevron.png)\) at the beginning of the alert group row.
+To display the individual alerts inside a group, select the chevron icon \(![Chevron icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-chevron.png)\) at the beginning of the alert group row.
 
 2.  From the **Close** drop-down list at the top right of the alert list, select **Acknowledge**.
 
@@ -68,7 +68,7 @@ To display the individual alerts inside a group, select the chevron icon \(![Che
 
 1.  Select an alert group row check box.
 2.  In the **Alerts in group** tab, select an alert tile.
-3.  Select the more actions icon \(![More actions icon](../../event-management/image/more-actions-icon.png)\).
+3.  Select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/more-actions-icon.png)\).
 4.  Select **Acknowledge**.
 
 

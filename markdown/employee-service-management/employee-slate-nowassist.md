@@ -29,5 +29,5 @@ Now Assist in Employee Slate provides:
 **Related topics**  
 
 
-[Configure branding and theme](../task/eslate-config-admin-console.md)
+[Configure branding and theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/eslate-config-admin-console.md)
 

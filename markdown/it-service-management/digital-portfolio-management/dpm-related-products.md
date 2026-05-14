@@ -25,7 +25,7 @@ DPM has three main data sources:
 -   Needs attention attributes are from data brokers. For more information, see [KB1519343](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1519343).
 -   Performance Analytics indicators, data collection jobs, and key performance indicator \(KPI\) groups.
 
-For an overview on how DPM aligns with the Common Service Data Model \(CSDM\), see [Apply the CSDM guidelines to Digital Portfolio Management](dpm-csdm.md).
+For an overview on how DPM aligns with the Common Service Data Model \(CSDM\), see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md).
 
 To view details on the Digital Portfolio Management data sources including data elements, source tables, fields, and required plugins, see [KB1123710](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123710), and select the option to **Download the Data Sources Excel File**.
 
@@ -323,7 +323,7 @@ To see roadmap data:
 
  To see flow metrics and accelerate metrics:
 
- Enable DevOps for DPM \(see [Configure the Digital Portfolio Management experience](../task/dpm-configure-experience.md)\)
+ Enable DevOps for DPM \(see [Configure the Digital Portfolio Management experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-configure-experience.md)\)
 
 -   To see details in the DevOps Change Workspace, select **View DevOps Insights** from the Flow metrics section.
 -   To see details in the DevOps Change Workspace, select **View Accelerate metrics in DevOps** from the Accelerate metrics section.
@@ -539,15 +539,15 @@ View general information about the service instance.
 
 Strategic Planning \(formerly known as Alignment Planner Workspace\) is a pro version. Portfolio Planning is available for users with a Strategic Portfolio Management \(SPM\) standard license.
 
-![Plan data sources for services and service offerings.](../image/dpm-ref-plan.png)
+![Plan data sources for services and service offerings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-ref-plan.png)
 
 ## Build data sources for services and service offerings
 
-![Build data sources for services and service offerings.](../image/dpm-ref-build-projects.png)
+![Build data sources for services and service offerings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-ref-build-projects.png)
 
 ## Run data sources for services and service offerings
 
-![Run data sources for services and service offerings.](../image/dpm-ref-run.png)
+![Run data sources for services and service offerings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-ref-run.png)
 
-**Parent Topic:**[Digital Portfolio Management reference](dpm-reference-cfw.md)
+**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 

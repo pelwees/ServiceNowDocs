@@ -69,7 +69,7 @@ Category
 
 </td><td>
 
-Relevant category for the knowledge base article. Select an existing category, or select the add category icon \(![Add category icon.](../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) to add a new category.You can also select or add a subcategory.
+Relevant category for the knowledge base article. Select an existing category, or select the add category icon \(![Add category icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) to add a new category.You can also select or add a subcategory.
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ The knowledge base article is created.
 
 ## What to do next
 
-Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](publish-workplace-kb-article-wsd.md).
+Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/publish-workplace-kb-article-wsd.md).
 
-**Parent Topic:**[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+**Parent Topic:**[Workplace knowledge management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/workplace-knowledge-mgmt-wsd.md)
 

@@ -16,9 +16,9 @@ breadcrumb: [Using Firewall Audits and Reporting, Firewall Audits and Reporting,
 
 Use the Firewall Management Task Creation agentic workflow to request new firewall policies and rules from the Now Assist panel.
 
-![Firewall rule request workflow](../image/firewall-rule-request-ai-workflow.png "Firewall rule request workflow")
+![Firewall rule request workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/firewall-rule-request-ai-workflow.png "Firewall rule request workflow")
 
-**Parent Topic:**[Using Firewall Audits and Reporting](firewall-audit-report-use.md)
+**Parent Topic:**[Using Firewall Audits and Reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-use.md)
 
 ## Request firewall rules using agentic workflow
 
@@ -39,7 +39,7 @@ The agentic workflow reads your natural-language request, extracts the required 
 -   **Low:** The workflow creates the rule task and attaches the analysis.
 -   **Medium or High:** The workflow does not create the task. The workflow reports the violation in the chat and asks whether to proceed. If you confirm, the workflow creates the task and attaches the risk analysis.
 
-![Now Assist agentic workflow](../image/firewall-rule-request-now-assist.png "Now Assist agentic workflow")
+![Now Assist agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/firewall-rule-request-now-assist.png "Now Assist agentic workflow")
 
 ### Procedure
 

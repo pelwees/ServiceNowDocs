@@ -29,13 +29,13 @@ Role required: sn\_pace.code\_editor
 
 ## Procedure
 
-1.  In the **Policy builder** tab, select the version of the policy you want to add a new variable to, then the Data sources icon ![Data source icon](../image/pace-data-source-icon.jpg).
+1.  In the **Policy builder** tab, select the version of the policy you want to add a new variable to, then the Data sources icon ![Data source icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-data-source-icon.jpg).
 
 2.  Select the variable tab that you want to create a variable from then select **Add**.
 
-    ![Data source tab.](../image/pace-data-source-tab-3.jpg)
+    ![Data source tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-data-source-tab-3.jpg)
 
-    ![Create new API variable window.](../image/pace-create-new-variable-window-2.jpg)
+    ![Create new API variable window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-create-new-variable-window-2.jpg)
 
     A pop-up window appears titled with the variable you want to create.
 
@@ -86,7 +86,7 @@ Drop-down list of input types:-   Basic Date/Time
 -   String
 -   Sys ID \(GUID\)
 -   True/False
-Depending on the input you choose, the Advanced Options provides different fields for some inputs. For more information, see the [Data type descriptions](../reference/pace-data-type-descriptions.md) topic.
+Depending on the input you choose, the Advanced Options provides different fields for some inputs. For more information, see the [Data type descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../reference/pace-data-type-descriptions.md) topic.
 
 **Note:** The list only shows the most common used data types.
 
@@ -104,7 +104,7 @@ Description
 
 </td><td>
 
-Description of the variable.**Note:** When you add a description for a Config Parameter variable, it will show up under the tool tip icon ![Tool tip icon.](../image/pace-info-icon.jpg) in the Test Parameters tab.
+Description of the variable.**Note:** When you add a description for a Config Parameter variable, it will show up under the tool tip icon ![Tool tip icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-info-icon.jpg) in the Test Parameters tab.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ A match criteria for your record reference. Choices are as follows.-   Select fi
 -   Error on multiple
 When you create a Record Reference, it will query multiple answers. The match criteria enables you to filter out the match by selecting the first match or return an error if there are multiple answers.
 
-**Note:** This field will only show up in the Record Reference variable form with the qualifier condition fields. For more information about condition fields, see [Policy logic condition fields](../reference/pace-policy-logic-fields.md).
+**Note:** This field will only show up in the Record Reference variable form with the qualifier condition fields. For more information about condition fields, see [Policy logic condition fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../reference/pace-policy-logic-fields.md).
 
 </td></tr></tbody>
 </table>4.  Select **Save**.

@@ -17,19 +17,19 @@ Reference topics provide additional information about the Threat Intelligence Se
 
 |Reference|Reference link|
 |---------|--------------|
-|Domain Separation and Threat Intelligence Security Center|[Domain separation and Threat Intelligence Security Center](../task/tisc-domain-separation.md)|
-|Components installed with Threat Intelligence Security Center application|[Set Threat Intelligence Security Center properties](tisc-set-properties.md)|
+|Domain Separation and Threat Intelligence Security Center|[Domain separation and Threat Intelligence Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-domain-separation.md)|
+|Components installed with Threat Intelligence Security Center application|[Set Threat Intelligence Security Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-set-properties.md)|
 
 **Related topics**  
 
 
-[Explore](threat-intelligence-security-center-overview.md)
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-overview.md)
 
-[Configuring Threat Intelligence Security Center](../concept/tisc-configure.md)
+[Configuring Threat Intelligence Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-configure.md)
 
-[Integrate](../concept/integrating-threat-intelligence-security-center.md)
+[Integrate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/integrating-threat-intelligence-security-center.md)
 
-[Administer](tisc-data-administration.md)
+[Administer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-data-administration.md)
 
-[Using Threat Intelligence Security Center](using-tisc.md)
+[Using Threat Intelligence Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/using-tisc.md)
 

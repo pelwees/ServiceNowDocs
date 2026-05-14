@@ -47,10 +47,10 @@ The scheduled job **Process External Storage Permissions** runs at the defined i
 -   Ad hoc approvers lose document access after they approve or reject the requested item.
 -   Delegates lose access after the delegation period expires.
 
--   **[Request document access for a legal matter](../task/request-doc-access-legal-matter.md)**  
+-   **[Request document access for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../task/request-doc-access-legal-matter.md)**  
 Request access to documents attached to a legal matter that you do not currently have access to.
--   **[Remove document access of users in a legal matter](../task/remove-doc-access-legal-matter.md)**  
+-   **[Remove document access of users in a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../task/remove-doc-access-legal-matter.md)**  
 Remove existing users' access to documents attached to a legal matter's artifact when they are no longer required to view those documents.
 
-**Parent Topic:**[Create an artifact for a legal matter](../task/add-artifact-to-legal-matter.md)
+**Parent Topic:**[Create an artifact for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../task/add-artifact-to-legal-matter.md)
 

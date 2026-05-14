@@ -156,7 +156,7 @@ sn\_cm\_core.contract\_user
 </td></tr></tbody>
 </table>## Tables
 
-**Note:** In addition to the following tables, tables specific to practice areas are installed with Legal Request Management. For more information, see [Practice area tables for legal requests](../../legal-request-management/reference/legal-request-pa-tables.md).
+**Note:** In addition to the following tables, tables specific to practice areas are installed with Legal Request Management. For more information, see [Practice area tables for legal requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/reference/legal-request-pa-tables.md).
 
 <table id="table_k41_45f_5xb"><thead><tr><th>
 
@@ -327,10 +327,10 @@ Supporting File\[sn\_cm\_core\_supporting\_file\]
 Store details of supporting files attached to the third-party contract review request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro for Legal Service Delivery reference](../concept/snlc-ref-sn-legal-contracts.md)
+</table>**Parent Topic:**[Contract Management Pro for Legal Service Delivery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-ref-sn-legal-contracts.md)
 
 **Related topics**  
 
 
-[Third-party Contract Review form](snlc-tpc-intake-fields.md)
+[Third-party Contract Review form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-intake-fields.md)
 

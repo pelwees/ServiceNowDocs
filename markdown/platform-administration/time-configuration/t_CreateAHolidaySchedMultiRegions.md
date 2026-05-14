@@ -28,28 +28,28 @@ The following method supports multiple regions with the same work schedule \(for
     This method requires making &lt;number of schedules&gt; + 1 total schedules. If you make the regional holiday schedule a child schedule of the work hours schedule, you must create a separate work hours schedule for each region. The total number of schedules in this case is &lt;number of schedules&gt; x two schedules.
 
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_Holidays.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_ParentAndChildSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_FifthInstanceOfADayOfTheWeek.md)
 
-[Repeat a monthly schedule](t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_RepeatAMonthlySchedule.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_CreateCalendarsWithSchedulePages.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/domain-support-for-schedules.md)
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 

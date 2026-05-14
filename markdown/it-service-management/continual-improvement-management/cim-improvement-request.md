@@ -33,5 +33,5 @@ You can identify improvement opportunities based on feedback from cross-function
     |IT Service Management|Review ITSM regularly to identify improvement opportunities for what is not working well.|
 
 
-**Parent Topic:**[Continual Improvement Management](cim-landing-page.md)
+**Parent Topic:**[Continual Improvement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 

@@ -19,7 +19,7 @@ Use the Inventory availability report to determine suitable replacement options 
 
 The Inventory Availability Report is available only for hardware, consumable, and bundle assets that are in use, in maintenance, pending repair, or defective.
 
-Service locations and distribution channels should be configured for the stockroom. If the asset's location is a service location of a stockroom, it automatically becomes the local stockroom. A location can have multiple local stockrooms if it is serviced by more than one stockroom. For more details, see [Associate a stockroom with service locations](associate-stockroom-with-service-locations.md) and [Link stockrooms into a distribution channel](associate-stockroom-with-distribution-channels.md).
+Service locations and distribution channels should be configured for the stockroom. If the asset's location is a service location of a stockroom, it automatically becomes the local stockroom. A location can have multiple local stockrooms if it is serviced by more than one stockroom. For more details, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md) and [Link stockrooms into a distribution channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-distribution-channels.md).
 
 Role required: asset
 
@@ -105,5 +105,5 @@ Average time in days it has taken from ordering to receiving replacement assets 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](../concept/manage-stockroom-inventory-report-ham.md)
+**Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-stockroom-inventory-report-ham.md)
 

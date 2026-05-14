@@ -43,7 +43,7 @@ Role required: admin
     3.  On the Filter Condition Form, fill in the fields.
 
         1.  **Name**: Enter a title for the filter condition field.
-        2.  **Type**: Select the reference lookup icon \(![Reference lookup icon](../image/reference-lookup-icon.png)\) and select `Boolean` from the list.
+        2.  **Type**: Select the reference lookup icon \(![Reference lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) and select `Boolean` from the list.
         3.  **Label**: Enter a name for the Boolean filter displayed to the user.
     4.  Right-click in the header and select **Save**.
 

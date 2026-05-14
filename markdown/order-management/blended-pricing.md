@@ -55,6 +55,6 @@ In renewal pricing for contract consolidation, the pricing engine does the follo
 
 You can configure the following uplift features:
 
--   Uplift amounts: To control uplift amounts that are applied, use the Price Increase Defaulting Matrix. For details, see [Create a price increase adjustment](../task/create-price-increase-adjustment.md).
--   Uplift renewal multiplier: To set the uplift renewal multiplier, use the **renewal\_uplift\_term ** system property. For more information, see [Set term multiplier for contract renewal uplift](../task/set-renewal-term-multiplier.md).
+-   Uplift amounts: To control uplift amounts that are applied, use the Price Increase Defaulting Matrix. For details, see [Create a price increase adjustment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-price-increase-adjustment.md).
+-   Uplift renewal multiplier: To set the uplift renewal multiplier, use the **renewal\_uplift\_term ** system property. For more information, see [Set term multiplier for contract renewal uplift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/set-renewal-term-multiplier.md).
 

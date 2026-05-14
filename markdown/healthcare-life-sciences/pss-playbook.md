@@ -35,7 +35,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Intake](pss-playbook.md#section_o5n_czv_crb)
+[Intake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md#section_o5n_czv_crb)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Complete the initial enrollment application review activities.
 
 </td></tr><tr><td>
 
-[Benefit investigation](pss-playbook.md#section_qbd_tsx_crb)
+[Benefit investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md#section_qbd_tsx_crb)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Capture or review the benefits investigation preference opted by the patient and
 
 </td></tr><tr><td>
 
-[Prescription details](pss-playbook.md#section_scf_5xx_crb)
+[Prescription details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md#section_scf_5xx_crb)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Place a prescription order.
 
 </td></tr><tr><td>
 
-[Program services](pss-playbook.md#section_fz4_gzx_crb)
+[Program services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md#section_fz4_gzx_crb)
 
 </td><td>
 
@@ -69,14 +69,14 @@ Review and fulfill the program services that the patient has been enrolled into.
 
 </td></tr><tr><td>
 
-[Resolve and close](pss-playbook.md#section_efd_c1y_crb)
+[Resolve and close](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md#section_efd_c1y_crb)
 
 </td><td>
 
 Close the enrollment request.
 
 </td></tr></tbody>
-</table>**Note:** The state of the enrollment case progresses as you complete a stage in the playbook. For more information, see [Life cycle of an enrollment case](pss-enrollment-life-cycle.md).
+</table>**Note:** The state of the enrollment case progresses as you complete a stage in the playbook. For more information, see [Life cycle of an enrollment case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-enrollment-life-cycle.md).
 
 ## Completing the initial review activities
 
@@ -89,7 +89,7 @@ In the **Intake** stage of the playbook, complete the following activities:
 
 3.  **Review prescription**: Capture or review the prescription ordered for a patient. You can add a new prescription record to include the prescription details. If there is no prescription available to you, contact the prescriber to enter the prescription details.
 
-    To add a new prescription, click **Add new**, fill in the details of the prescription in the Medication Prescription form, and click **Save**. For more information, see [Medication Prescription form](../reference/hcls-med-prescription-form.md).
+    To add a new prescription, click **Add new**, fill in the details of the prescription in the Medication Prescription form, and click **Save**. For more information, see [Medication Prescription form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../reference/hcls-med-prescription-form.md).
 
     **Note:** If there is no medication product associated with the program, the **Review prescription** activity doesn't appear in the playbook.
 
@@ -102,7 +102,7 @@ In the **Benefit investigation** stage of the playbook, complete the following a
 
 1.  **Review patient preference**: Review the benefits investigation preference opted by the patient.
 2.  **Review specialty pharmacy details**: Review the specialty pharmacy details as provided by the patient. The **Review specialty pharmacy details** activity appears only when the patient has selected specialty pharmacy in the enrollment request form.
-3.  **Review pre-authorization**: Review and verify if pre-authorization is required for the program. If pre-authorization is required, click **Add new**, fill in the details of pre-authorization details provided by a payer organization in the Pre-authorization request form, and click **Save**. For more information, see [Pre-authorization request form](../reference/hcls-pre-auth-form.md).
+3.  **Review pre-authorization**: Review and verify if pre-authorization is required for the program. If pre-authorization is required, click **Add new**, fill in the details of pre-authorization details provided by a payer organization in the Pre-authorization request form, and click **Save**. For more information, see [Pre-authorization request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../reference/hcls-pre-auth-form.md).
 
     **Note:** If pre-authorization is not required for the medication prescription, you can skip this activity.
 

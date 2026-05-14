@@ -29,7 +29,7 @@ To define additional policy inputs, perform the following steps:
 
 2.  Create a change approval policy or open an existing policy.
 
-    For more information, see [Create change approval policy](create-change-policy.md)
+    For more information, see [Create change approval policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md)
 
 3.  In the **Policy inputs** tab, click **New** to create a record.
 
@@ -50,5 +50,5 @@ To define additional policy inputs, perform the following steps:
 
 After you create a policy input, reference it within a decision.
 
-**Parent Topic:**[Create change approval policies](create-change-policy.md)
+**Parent Topic:**[Create change approval policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md)
 

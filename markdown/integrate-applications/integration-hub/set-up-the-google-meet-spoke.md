@@ -35,7 +35,7 @@ Role required: admin
 
 2.  Select the project button.
 
-    ![Project button on Google Cloud console landing page.](../image/gmeet-spk-gconsole-new-proj.png)
+    ![Project button on Google Cloud console landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-gconsole-new-proj.png)
 
 3.  On the Select a project window, select **NEW PROJECT**.
 
@@ -49,7 +49,7 @@ Role required: admin
 
         Notifications show that the project is created.
 
-        ![Notification that the project is created.](../image/gmeet-spk-oauth-proj.png)
+        ![Notification that the project is created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-oauth-proj.png)
 
 5.  Select **SELECT PROJECT**.
 
@@ -65,11 +65,11 @@ Role required: admin
 
 11. Select the **CREDENTIALS** tab.
 
-    ![CREDENTIALS tab.](../image/gmeet-spk-creds-tab.png)
+    ![CREDENTIALS tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-creds-tab.png)
 
 12. Select **+ CREATE CREDENTIALS** and then select **OAuth client ID.**
 
-    ![OAuth Client ID option in the CREDENTIALS tab.](../image/gmeet-spk-create-creds.png)
+    ![OAuth Client ID option in the CREDENTIALS tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-create-creds.png)
 
 13. Select **CONFIGURE CONSENT SCREEN**.
 
@@ -87,7 +87,7 @@ Role required: admin
     |User support email|Option to provide the email ID that the users of the OAuth application can use to request support.|
     |Developer contact information|Option to provide the email ID of the developer of the OAuth application.|
 
-    ![OAuth consent screen.](../image/gmeet-spk-consent-form.png)
+    ![OAuth consent screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-consent-form.png)
 
 17. Select **SAVE AND CONTINUE**.
 
@@ -95,13 +95,13 @@ Role required: admin
 
 19. In the Filter field, enter the scope `meetings.space.created`, `openid`, and `meetings.space.readonly`, and then select the scope value.
 
-    ![OAuth scopes.](../image/gmeet-spk-scopes.png)
+    ![OAuth scopes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-scopes.png)
 
 20. Select **UPDATE**.
 
     The scopes appear under the Your non-sensitive scopes and Your sensitive scopes sections.
 
-    ![OAuth scopes appear.](../image/gmeet-spk-oauth-scopes.png)
+    ![OAuth scopes appear.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-oauth-scopes.png)
 
 21. Select **SAVE AND CONTINUE**.
 
@@ -121,7 +121,7 @@ Role required: admin
 
 29. Copy the client ID and client secret and store at secure place.
 
-    ![Client details.](../image/gmeet-spk-client-details.png)
+    ![Client details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-client-details.png)
 
 30. Select **OK**.
 
@@ -160,7 +160,7 @@ Role required: admin
     |Client Secret|OAuth client secret of the Google Meet OAuth app that you had created in the Google Cloud console.|
     |Redirect URL|OAuth redirect URL of your ServiceNow instance. Enter in this format `https://<your-instance-name>.service.now.com/oauth_redirect.do`.|
 
-    ![Create Connection form.](../image/gmeet-spk-conn-form.png)
+    ![Create Connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gmeet-spk-conn-form.png)
 
 8.  Select **Create and Get OAuth Token**.
 

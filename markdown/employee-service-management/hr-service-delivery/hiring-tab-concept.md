@@ -25,7 +25,7 @@ Hiring provides the hiring manager with:
 -   Reduced time to hire.
 -   Clear approval flow for a requisition.
 
-![Hiring manager's view of job requisition details in the Hiring tab within Manager Hub](../images/hiring-L.png "Hiring")
+![Hiring manager's view of job requisition details in the Hiring tab within Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/hiring-L.png "Hiring")
 
 Open a requisition, support a recruiter to create a job description, collaborate with the recruiters, and track the approval workflow, as a hiring manager, on the Hiring tab.
 

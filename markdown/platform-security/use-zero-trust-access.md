@@ -67,7 +67,7 @@ The following procedure explains an end-to-end configuration of session access c
 
     4.  Choose Action as **Limit To Roles**.
 
-        If the Policy is true, then only the selected roles and their associated child roles are available for the user when trying to log in to the instance.![Limited role.](../images/role-limited.png)
+        If the Policy is true, then only the selected roles and their associated child roles are available for the user when trying to log in to the instance.![Limited role.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/role-limited.png)
 
     5.  Select **Submit**.
 
@@ -77,7 +77,7 @@ The following procedure explains an end-to-end configuration of session access c
 
     After logging in, the user is displayed with the following error message on the platform in their profile section:
 
-    ![Error message after login.](../images/error-message-upon-login.png)
+    ![Error message after login.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/error-message-upon-login.png)
 
     The user can contact the administrators and provide the Correlation ID for investigation.
 

@@ -21,7 +21,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## About this task
 
-View the scenarios created in your workplace using the Space optimization module. The Space optimization module provides you with metrics for scenarios based on their current state. You get a list of total scenarios and of scenarios that were created based on buildings. At any time, you can monitor the status of a scenario by checking the Space optimization module. For more information about the Space optimization module, refer to [Space Optimization - Key features and actions](../reference/space-optmization-features-and-actions-.md).
+View the scenarios created in your workplace using the Space optimization module. The Space optimization module provides you with metrics for scenarios based on their current state. You get a list of total scenarios and of scenarios that were created based on buildings. At any time, you can monitor the status of a scenario by checking the Space optimization module. For more information about the Space optimization module, refer to [Space Optimization - Key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../reference/space-optmization-features-and-actions-.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ View the scenarios created in your workplace using the Space optimization module
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select **Space Optimization** icon \(![Space optimization.](../images/space-optimization-icon.png)\).
+2.  On the left pane, select **Space Optimization** icon \(![Space optimization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-optimization-icon.png)\).
 
     The Space optimization dashboard opens.
 
@@ -64,14 +64,14 @@ View the scenarios created in your workplace using the Space optimization module
         The **Buildings** tab opens.
 
 
-**Parent Topic:**[Manage Workplace Central](../concept/manage-workplace-central.md)
+**Parent Topic:**[Manage Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/manage-workplace-central.md)
 
 **Related topics**  
 
 
-[Approve a scenario](approve-a-scenario.md)
+[Approve a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/approve-a-scenario.md)
 
-[Raise a space assistance request](../../workplace-space-management/task/raise-a-space-recommendation-request.md)
+[Raise a space assistance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/raise-a-space-recommendation-request.md)
 
-[Approve a space assist request](approve-a-space-assist-request.md)
+[Approve a space assist request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/approve-a-space-assist-request.md)
 

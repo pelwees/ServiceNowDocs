@@ -47,12 +47,12 @@ You can access the change outage assistant AI agent in the Define key requiremen
 
     The agent executes the request for the workflow.
 
-    ![Create outages for a change request agentic workflow output in ServiceNowAI Agent Studio.](../image/now-assist-change-outage-agent-studio.png "Example of the create outages for a change request agentic workflow output in ServiceNowAI Agent Studio")
+    ![Create outages for a change request agentic workflow output in ServiceNowAI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-change-outage-agent-studio.png "Example of the create outages for a change request agentic workflow output in ServiceNowAI Agent Studio")
 
 4.  Access and use the create outages for a change request agentic workflow from the Now Assist panel.
 
     You can query in the Now Assist panel with the change request number. For the query instructions, read the steps specified in the **List of steps** field of the corresponding AI agent \(change outage assistant AI agent\).
 
-    ![Create outages for a change request agentic workflow output in the Now Assist panel.](../image/now-assist-change-outage-nap.png "Example of the create outages for a change request agentic workflow output in the Now Assist panel")
+    ![Create outages for a change request agentic workflow output in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-change-outage-nap.png "Example of the create outages for a change request agentic workflow output in the Now Assist panel")
 
 

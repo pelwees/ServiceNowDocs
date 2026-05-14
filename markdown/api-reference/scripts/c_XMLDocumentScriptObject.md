@@ -183,8 +183,8 @@ The resulting XML document looks like this
 </test>
 ```
 
--   **[XMLHelper](c_XMLHelper.md)**  
+-   **[XMLHelper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_XMLHelper.md)**  
 The XML helper script include makes it easy to parse XML in scripts.
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 

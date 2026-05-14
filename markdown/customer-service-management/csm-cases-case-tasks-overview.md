@@ -68,9 +68,9 @@ Information that is gathered as part of resolving a case can be included in the 
 </td></tr></tbody>
 </table>For more information about cases and case records, see the following topics:
 
--   [Create a customer service case](../task/t_CreateACaseFromCustServApp.md)
--   [Create a customer service case of a specific type](../task/create-case-of-specific-case-type.md)
--   [Customer service case form](../reference/r_CustomerServiceCaseForm.md)
+-   [Create a customer service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_CreateACaseFromCustServApp.md)
+-   [Create a customer service case of a specific type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-case-of-specific-case-type.md)
+-   [Customer service case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_CustomerServiceCaseForm.md)
 
 ## Case tasks
 
@@ -93,8 +93,8 @@ Depending on a user's assigned roles, case tasks appear in a number of different
 
 For more information about case tasks and case task records, see the following topics:
 
--   [Create a task for a customer service case](../task/create-task-for-cust-service-case.md)
--   [Case task form](../reference/csm-case-task-form.md)
+-   [Create a task for a customer service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-task-for-cust-service-case.md)
+-   [Case task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-case-task-form.md)
 
 ## Cases, case tasks and related parties
 
@@ -112,7 +112,7 @@ Users with the admin role can remove related parties from cases. When an admin a
 
 ## Case task integration with Service Definitions
 
-The [service definitions](csm-service-definitions.md) feature enables you to create connections between products, services, and case types.
+The [service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md) feature enables you to create connections between products, services, and case types.
 
 -   Agents can use configured service definitions to quickly create cases of the right type based on the selected product or service.
 -   Customers can use configured service definitions to quickly discover and request the services they need.

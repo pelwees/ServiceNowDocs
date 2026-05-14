@@ -28,7 +28,7 @@ By default, each process execution record contains the following information:
 |Name|Name of the playbook that triggered this process execution|
 |Created|Date and time when the playbook triggered|
 |Input Record|Table name and record number that triggered this process execution|
-|State|Current status of the overall process execution. For more information, see [Process execution states](process-executions.md#process-execution-states).|
+|State|Current status of the overall process execution. For more information, see [Process execution states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-executions.md#process-execution-states).|
 
 ## Process execution states
 

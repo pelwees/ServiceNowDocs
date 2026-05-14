@@ -75,15 +75,15 @@ As a release manager, you can use the onboarding tool to create and manage relea
 
 The following is an example of the workspace landing page for the Digital Product Release application.
 
-![The homepage of Digital Product Release Workspace.](../image/dpr-workspace-homepage.png "Example of the landing page of Digital Product Release Workspace")
+![The homepage of Digital Product Release Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-workspace-homepage.png "Example of the landing page of Digital Product Release Workspace")
 
 ## Release template Playbook
 
 In the workspace, you can use the Playbook to create release templates.
 
-The following is an example of a release template playbook. For more information, see [Create a release template](../task/dpr-create-release-template.md#).
+The following is an example of a release template playbook. For more information, see [Create a release template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-create-release-template.md#).
 
-![Release template Playbook in Digital Product Release Workspace.](../image/dpr-workspace-rls-template.png "Example of a release template playbook in the workspace")
+![Release template Playbook in Digital Product Release Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-workspace-rls-template.png "Example of a release template playbook in the workspace")
 
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 

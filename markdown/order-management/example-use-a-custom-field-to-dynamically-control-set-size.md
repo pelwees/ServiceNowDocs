@@ -17,7 +17,7 @@ This example demonstrates how to hide a standard field and replace it with a cus
 
 This article demonstrates how to hide the Size field \(shown below\) on a layout and replace it with a different field. A rule populates the value from the new field into the hidden field.
 
-![User interface](../images/cpq-layout-size.png)
+![User interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-size.png)
 
 ## Before you begin
 
@@ -27,15 +27,15 @@ Role required: Admin
 
 1.  In the layout wizard, turn off the Show Size Field setting.
 
-    ![Size settings](../images/cpq-layout-wizard-settings-show-size-field.png)
+    ![Size settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-wizard-settings-show-size-field.png)
 
-    Although the set size field still exists, it no longer appears in the layout. For more information about sets and layouts, see [Using sets in layouts](layouts-sets.md).
+    Although the set size field still exists, it no longer appears in the layout. For more information about sets and layouts, see [Using sets in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md).
 
 2.  Create your replacement number field and add it to the layout.
 
     You can change the display type as desired. In the example below, we created a number field using a slider.
 
-    ![User interface](../images/cpq-layout-new-number-field-with-slider.png)
+    ![User interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-new-number-field-with-slider.png)
 
     The final task is to create a rule to take the value from the new field and enter it into the \(hidden\) Size field.
 
@@ -52,7 +52,7 @@ Role required: Admin
     return cfg.numberOfHardDrives;
     ```
 
-    ![Determination action](../images/cpq-layout-determination-action.png)
+    ![Determination action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-determination-action.png)
 
 4.  Deploy and test your updated blueprint.
 

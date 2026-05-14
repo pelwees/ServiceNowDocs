@@ -19,7 +19,7 @@ All the Security Operations core applications and non-core third-party integrati
 
 The base system includes a series of "cards" for each of the integration implementations you can activate and use. Also, cards are displayed for any integrations posted on the ServiceNow Store that have dependencies on Security Operations plugins. The integration cards can be viewed by selecting **Security Operations** &gt; **Integration Configurations**.
 
-![Configuration tiles for integrations](../image/config_tiles.png)
+![Configuration tiles for integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/config_tiles.png)
 
 You can filter the visible integrations using the **Category** drop-down menu. The **Show Configurations** drop-down menu lets you see multiple instances of implementations that allow their creation.
 

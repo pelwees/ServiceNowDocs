@@ -89,9 +89,9 @@ Product list columns are driven by the layout CSV file using the `productlist` a
 **Related topics**  
 
 
-[Set up layouts](layout_csv_101.md)
+[Set up layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
 
-[Layout Wizard](layout_wizard.md)
+[Layout Wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_wizard.md)
 
-[Layout: a deeper dive](layout_deeper_dive.md)
+[Layout: a deeper dive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_deeper_dive.md)
 

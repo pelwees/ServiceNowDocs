@@ -22,7 +22,7 @@ See [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 ## Important information for upgrading Application Manager to Australia
 
-Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](../concept/rn-prepare-landing-page.md).
+Application Manager is active by default on instances on the Australia release. Upgrade your instance to Australia patch 4 or later to use the latest features. For information about upgrading your ServiceNow AI Platform instance, see [Prepare your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../concept/rn-prepare-landing-page.md).
 
 ## New in the Australia release
 
@@ -69,5 +69,5 @@ Application Manager is a ServiceNow AI Platform feature that is active by defaul
     The Application Manager helps verify that Now Assist applications that you install or update remain compatible with any other Now Assist applications on your ServiceNow AI Platform instance.
 
 
-**Parent Topic:**[ServiceNow AI Platform administration release notes](now-platform-admin-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform administration release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-admin-rn-landing.md)
 

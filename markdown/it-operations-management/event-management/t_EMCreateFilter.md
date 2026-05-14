@@ -35,7 +35,7 @@ While working in the Event Filter tab:
 
 **Note:** Event filters created on additional\_info fields only perform a string comparison and not a numeric comparison, even if the information entered into the value field appears as if it is numeric, as depicted in the following graphic:
 
-![Event filter string comparison](../image/event-rule-string-comparison.png)
+![Event filter string comparison](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-string-comparison.png)
 
 ## Procedure
 
@@ -45,7 +45,7 @@ While working in the Event Filter tab:
 
 3.  Click **Event Filter**.
 
-    ![Event Management filter](../image/event-rule-filter.png)
+    ![Event Management filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-filter.png)
 
 4.  To ignore events, select **Ignore events that match this filter**.
 
@@ -61,7 +61,7 @@ While working in the Event Filter tab:
 
 6.  You can add field names to the Event Rule Simple Field Black Lists \[em\_event\_rule\_black\_list\] table to either show or hide fields from the filter.
 
-    ![Event rule exclusion list](../image/event-rule-black-list.png)
+    ![Event rule exclusion list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-black-list.png)
 
     -   To remove fields from the filter and the right panel, add a new black list field with **Show in rule** not selected.
     -   To remove fields only from the filter and still enable it to appear in the right panel, add an exclusion list field with **Show in rule** selected.
@@ -70,24 +70,24 @@ While working in the Event Filter tab:
 
 ## Example
 
-Example showing filter conditions that are specified to run a rule when the metric name starts with the word "disk". For this example, any resource is acceptable, as long as it is not "cpu" and the node name is "MyServer". ![Event Management filter](../image/event-rule-filter-example.png)
+Example showing filter conditions that are specified to run a rule when the metric name starts with the word "disk". For this example, any resource is acceptable, as long as it is not "cpu" and the node name is "MyServer". ![Event Management filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-filter-example.png)
 
 Example to filter events using time conditions. In the **Select Field or add New** field, select `Time of event`.
 
 Specify the required time conditions, for example, anytime after yesterday.
 
-![Event rule time condition](../image/event-rule-time-condition.png)
+![Event rule time condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-time-condition.png)
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md)
 
 **Related topics**  
 
 
-[Create or edit an event rule](create-or-edit-event-rule.md)
+[Create or edit an event rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-or-edit-event-rule.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/event-input-information.md)
 
-[Configure an event rule to customize alert content](t_EMComposeOuput.md)
+[Configure an event rule to customize alert content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMComposeOuput.md)
 
-[Set a threshold to suppress alert generation](t_EMISetThresholdEvent.md)
+[Set a threshold to suppress alert generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMISetThresholdEvent.md)
 

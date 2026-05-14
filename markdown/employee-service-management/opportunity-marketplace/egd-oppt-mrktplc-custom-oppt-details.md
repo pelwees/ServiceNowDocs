@@ -50,5 +50,5 @@ Role required: admin
 
 The copied \(cloned\) opportunity details record is available to select by opportunity owners.
 
-**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](../concept/egd-oppt-mrktplc-custom-oppt-type.md)
+**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/../concept/egd-oppt-mrktplc-custom-oppt-type.md)
 

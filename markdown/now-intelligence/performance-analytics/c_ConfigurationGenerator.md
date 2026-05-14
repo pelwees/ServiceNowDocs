@@ -25,7 +25,7 @@ You can access the configuration generator by navigating to **Performance Analyt
 
 After generating a configuration for the selected table, you can view the created records using the **Go to the configuration record**, **Generated Indicators**, and **Generated Jobs** related links. You can modify the generated records as needed using standard Performance Analytics configuration options.
 
-**Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)
+**Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
 ## Activate the Performance Analytics configuration generator
 

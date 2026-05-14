@@ -26,12 +26,12 @@ Access Dynamic Translation spoke actions from Workflow Studio to detect and tran
 
 2.  Select the **Actions** tab.
 
-3.  In the **Application** column, select the more options icon \(![More actions icon.](../../task-table/image/MoreActionsIcon.png)\)and use the filter to search for Dynamic Translation.
+3.  In the **Application** column, select the more options icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../task-table/image/MoreActionsIcon.png)\)and use the filter to search for Dynamic Translation.
 
-    ![In Workflow Studio, the actions associated with the Dynamic Translation spoke are displayed.](../image/access-dt-spoke-actions1.png)
+    ![In Workflow Studio, the actions associated with the Dynamic Translation spoke are displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/access-dt-spoke-actions1.png)
 
     All the actions built in the Dynamic Translation spoke are displayed.
 
-    For more information, see [Actions in Dynamic Translation spoke](../reference/actions-dt-spoke.md).
+    For more information, see [Actions in Dynamic Translation spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../reference/actions-dt-spoke.md).
 
 

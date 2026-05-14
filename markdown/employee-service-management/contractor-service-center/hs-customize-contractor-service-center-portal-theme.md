@@ -41,7 +41,7 @@ Contractor Service Center application ships a default **CSC theme** that has the
 
     3.  Select **here** on the note to edit the record.
 
-    4.  Select the **Preview this record** icon \(![preview icon](../../safe-workplace-dashboard/image/icon-preview.png)\) for the **Theme** field and select **Open record**.
+    4.  Select the **Preview this record** icon \(![preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/../../safe-workplace-dashboard/image/icon-preview.png)\) for the **Theme** field and select **Open record**.
 
     5.  Select **here** on the note to edit the record.
 
@@ -54,5 +54,5 @@ Contractor Service Center application ships a default **CSC theme** that has the
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Contractor Service Center](../concept/hs-configure-contractor-service-center.md)
+**Parent Topic:**[Configuring Contractor Service Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/../concept/hs-configure-contractor-service-center.md)
 

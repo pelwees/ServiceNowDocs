@@ -132,14 +132,14 @@ Indicates that you want to write debug statements to the system log during the s
 </td></tr></tbody>
 </table>    **Note:** For more information on credentials and aliases, see [Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md).
 
-    For more information on domain separation, see [Domain Separation and HR Service Delivery](../concept/hr-domain-separation.md).
+    For more information on domain separation, see [Domain Separation and HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/hr-domain-separation.md).
 
 3.  Select **Save**, **Submit**, or **Update**.
 
     The Employee Document Import Sources and Employee Document Import Map tabs appear.
 
 
-**Parent Topic:**[Employee document management bulk imports](../concept/edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/edm-bulk-uploads.md)
 
 ## Create or edit import configuration
 
@@ -175,7 +175,7 @@ Configuration
 
 </td><td>
 
-The name of the employee document bulk import configuration. See [Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#).
+The name of the employee document bulk import configuration. See [Configuring employee document management bulk import with source document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-configuration.md#).
 
 </td></tr><tr><td>
 
@@ -266,7 +266,7 @@ Locates specific text found in the array of information returned from the source
 
         To find and extract the file name from the source repository, see this example:
 
-        ![Import Map — File name](../image/import-map-filename.png)
+        ![Import Map — File name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-filename.png)
 
         The import map is looking for a source element called fileName.
 
@@ -278,7 +278,7 @@ Locates specific text found in the array of information returned from the source
 
         From the file name, the employee name is extracted. Employee name is a requirement for Employee Document Management.
 
-        ![Import Map — Employee Name](../image/import-map-employee.png)
+        ![Import Map — Employee Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-employee.png)
 
         The import map is looking for a source element called fileName.
 
@@ -292,7 +292,7 @@ Locates specific text found in the array of information returned from the source
 
         From the file name, the document type is extracted. Document type is a requirement for Employee Document Management.
 
-        ![Import Map — docType](../image/import-map-doctype.png)
+        ![Import Map — docType](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-doctype.png)
 
         The import map is looking for a source element called fileName.
 
@@ -441,7 +441,7 @@ Configuration
 
 </td><td>
 
-A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#).
+A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-configuration.md#).
 
 </td></tr><tr><td>
 
@@ -531,7 +531,7 @@ Configuration
 
 </td><td>
 
-A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#).
+A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-configuration.md#).
 
 </td></tr><tr><td>
 
@@ -590,7 +590,7 @@ The subflow, flow action, workflow, or script that launches the source step base
 
 7.  Reload the form to see if the Stage import step completed.
 
-    The **Employee Document Staging** tab appears. You can view all source documents that are in the staging table and make corrections if necessary. See [Correcting employee documents in the staging table](edm-doc-staging.md).
+    The **Employee Document Staging** tab appears. You can view all source documents that are in the staging table and make corrections if necessary. See [Correcting employee documents in the staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-doc-staging.md).
 
 8.  Change staged documents that have a state of **Draft** to **Ready**.
 
@@ -633,7 +633,7 @@ Configuration
 
 </td><td>
 
-A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](edm-bulk-configuration.md#).
+A descriptive name that identifies your employee document bulk upload configuration. The name comes from the Employee Document Import Configuration. See [Configuring employee document management bulk import with source document repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-configuration.md#).
 
 </td></tr><tr><td>
 

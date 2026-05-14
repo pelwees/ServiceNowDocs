@@ -17,7 +17,7 @@ Use the Procurement view in the Hardware Asset Workspace to view and manage proc
 
 The Procurement view provides access to actions for managing your open requests, pending purchase orders and transfer orders, and requests that need manager approval.
 
-![Procurement view in the Hardware Asset Workspace](../image/procurement-view.png "Procurement view")
+![Procurement view in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/procurement-view.png "Procurement view")
 
 Select any widget or chart to view the details. You can also use **Location**, **Stockroom**, and **Domain** filters to narrow down your results.
 

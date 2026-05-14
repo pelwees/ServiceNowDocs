@@ -98,7 +98,7 @@ License metric
 
 </td><td>
 
-License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field. The default value for SaaS entitlements is **User Subscription**.For more information, see [Software license metrics](../concept/c_SAMLicenseMetrics.md).
+License metric for the license group that the software license is counted against when reconciliation is run. The options for license metric change based on the **Metric group** field. The default value for SaaS entitlements is **User Subscription**.For more information, see [Software license metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMLicenseMetrics.md).
 
  **Note:** Use the Envelopes license metric only for Docusign entitlements.
 
@@ -209,7 +209,7 @@ Unit cost
 
 </td><td>
 
-Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](../concept/c_SAMDashboard.md)
+Unit cost of the software. **Note:** Required for total cost and savings calculations on the [Software Asset Management dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMDashboard.md)
 
 </td></tr><tr><td>
 
@@ -228,5 +228,5 @@ Cost center
 Cost center financially responsible for the asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

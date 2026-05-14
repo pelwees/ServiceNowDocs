@@ -31,24 +31,24 @@ For more information on support levels, see [Application support for domain sepa
 
 To create or edit Purchase Orders \(POs\) or PO line items that distinguish the domain, customers must be working in the proper domain. When adjusting any configuration, you should be in the domain where you're doing the work. Use the domain picker to choose the correct domain to work in.
 
-**Parent Topic:**[Procurement](c_Procurement.md)
+**Parent Topic:**[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../reference/r_ProcurementRoles.md)
 
-[Procurement workflows](c_ProcurementWorkflows.md)
+[Procurement workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_ActivateProcurement.md)
 
-[Sourcing items in a service catalog request](c_SourcingRequestItems.md)
+[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_SourcingRequestItems.md)
 
-[Procurement purchase order management for assets](c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_UseProcurement.md)
 
-[Receive assets](c_ReceiveAssets.md)
+[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_ReceiveAssets.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

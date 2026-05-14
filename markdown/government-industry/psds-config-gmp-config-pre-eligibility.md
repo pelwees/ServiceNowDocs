@@ -78,7 +78,7 @@ To configure the Pre-Eligibility questions for a new Grant Program:
 
 ## Result
 
-![eligibility questions](../image/psds_grants_program_elig_q.png)
+![eligibility questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_grants_program_elig_q.png)
 
 When applicants proceed to answer eligibility questions, they are presented with the questionnaire that you have just created using the decision tree. Based on their responses:
 

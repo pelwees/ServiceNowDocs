@@ -27,7 +27,7 @@ Role required: sn\_spend\_psd.requestor
 
 3.  On the form, fill in the fields.
 
-    ![Create a procurement case.](../image/create_procurement_case.png)
+    ![Create a procurement case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_procurement_case.png)
 
     |Field|Description|
     |-----|-----------|
@@ -55,5 +55,5 @@ Role required: sn\_spend\_psd.requestor
 -   Track the progress of your request by monitoring the request fulfillment with the procurement organization.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-pcm.md)
 

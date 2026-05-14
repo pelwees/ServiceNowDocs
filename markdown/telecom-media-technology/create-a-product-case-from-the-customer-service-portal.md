@@ -31,7 +31,7 @@ Role required: sn\_sprb\_mgmt.customer
 
 5.  On the form, fill in the fields.
 
-    ![Service problem case from customer service portal.](../../tmt-spmc/image/create-service-problem-case-customerportal.png)
+    ![Service problem case from customer service portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-spmc/image/create-service-problem-case-customerportal.png)
 
     |Field|Description|
     |-----|-----------|

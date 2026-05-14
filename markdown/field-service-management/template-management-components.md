@@ -74,5 +74,5 @@ Restrict table map for model
 Prevents the user from creating a duplicate record of table mapping to the work order template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

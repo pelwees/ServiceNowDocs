@@ -25,7 +25,7 @@ You can deactivate or activate any policy at any time.
 
 For activated policies:
 
--   The policy must include a Current \(published\) version. For more information, see [Manage PaCE policy versions](../concept/pace-policy-versions.md).
+-   The policy must include a Current \(published\) version. For more information, see [Manage PaCE policy versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../concept/pace-policy-versions.md).
 -   The policy is auto-validated when you activate it \(if the policy has mapping inputs defined\). Validation verifies the validity of mapping inputs, and checks that all required inputs were set. For more information, see the Validate mapping inputs section.
 
 Deactivating a policy enables you to place the policy into a maintenance-like mode. You can make changes, safe in the knowledge that no one is using the policy. While deactivated, the policy mappings are kept, but the policy cannot be executed. After you are done with any changes, you can reactivate the policy and any existing mappings are reused.
@@ -40,7 +40,7 @@ Deactivating a policy enables you to place the policy into a maintenance-like mo
 
 2.  Select the check box next to the policy that you want to activate or deactivate.
 
-    **Note:** To activate a policy, its current state must be ![Policy Inactive state](../image/pace-inactive-icon.jpg). To deactivate a policy, its current state must be ![Policy Active state](../image/pace-active-icon.jpg). You can select multiple policies, as required.
+    **Note:** To activate a policy, its current state must be ![Policy Inactive state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-inactive-icon.jpg). To deactivate a policy, its current state must be ![Policy Active state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-active-icon.jpg). You can select multiple policies, as required.
 
 3.  Activate or deactivate the selected policy.
 

@@ -31,13 +31,13 @@ When the approval process is enabled, a Block List entry is not activated or dea
 
 2.  On the Block List Entry record, scroll to the **Approval Requests** section.
 
-    ![Approval requests](../image/approval-requests.png)
+    ![Approval requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/approval-requests.png)
 
 3.  In Approval requests, click an item in the **State** column to open it.
 
     The approval record is displayed.
 
-    ![Request approval](../image/request-being-approved.png)
+    ![Request approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/request-being-approved.png)
 
 4.  Choose one option for approving the Block List entry.
 
@@ -70,14 +70,14 @@ On the entry record, the Status field changes to Rejected, and the Active check 
 </td></tr></tbody>
 </table>    After you have approved the Block List entry and it is activated, the Check Point next-generation firewall retrieves the Block List entry after the next retrieval interval. After the entry is retrieved, the observable is blocked from that point forward. In the following figure, note that the Active check box is selected, the status is Added, and the work notes indicate that the request has been approved.
 
-    ![Deactivate entry](../image/deactivate-entry-redbox.png)
+    ![Deactivate entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/deactivate-entry-redbox.png)
 
     After the Block List entry is approved and activated, the security incident record is marked with a security tag. The tag is displayed at the top of the record.
 
-    ![URL tag displayed](../image/security-tag.png)
+    ![URL tag displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-tag.png)
 
     The security tag is also displayed on the observable record.
 
-    ![URL tag displayed in an observable](../image/security-tag-in-observ.png)
+    ![URL tag displayed in an observable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-tag-in-observ.png)
 
 

@@ -73,5 +73,5 @@ producer_name="byungidrparis1" remote="false" status="active" topic_name="559cd6
 |status|The replication set status.|
 |topic\_name|The topic name in the message queue for this replication set.|
 
-**Parent Topic:**[Resolving data replication errors in Instance Data Replication](common-issues-idr.md)
+**Parent Topic:**[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/common-issues-idr.md)
 

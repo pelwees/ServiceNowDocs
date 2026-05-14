@@ -64,7 +64,7 @@ This functionality applies to enterprise business application portfolios, enterp
 
 Even though the Needs attention panel categories differ for each portfolio and solution, the basic navigation is the same. All panels enable you to search, see a list of Needs attention cards, paginate through the cards, and drill down to a record from the card list.
 
-![Needs attention panel example.](../image/dpm-needs-attn-example-app-service.png "Needs attention panel example using an service instance")
+![Needs attention panel example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-needs-attn-example-app-service.png "Needs attention panel example using an service instance")
 
 -   Each Needs attention category includes a number that indicates the number of items in that category. If there are no Needs attention items in a category, then the number is zero \(0\).
 -   Select the forward arrow \(&gt;\) next to a number in the category to see a list of record cards that need attention. From the card list, you can select a card to access its record. You can also go back by selecting the Needs attention back arrow \(&lt;\).
@@ -86,11 +86,11 @@ Services and service offerings
 
 </td><td>
 
--   Needs attention icon \(![Needs attention icon](../../../administer/on-call-scheduling/image/icon-information.png)\) to show or hide the Needs attention panels. This toggle isn't on the DPM Workspace home page.
--   Contacts icon \(![Contacts icon.](../image/contacts.png)\) to view team members and the all the teams that support the service offering.
--   Knowledge articles icon\(![Knowledge articles icon.](../image/dpm-kb-icon.png)\) to search for related knowledge articles.
--   Attachments icon \(![Attachments icon.](../image/attachment.png)\) to view and add attachments to the record.
--   Catalog items icon \(![Catalog items icon.](../image/catalog-items.png)\) to search for catalog items on a service or service offering record.
+-   Needs attention icon \(![Needs attention icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../administer/on-call-scheduling/image/icon-information.png)\) to show or hide the Needs attention panels. This toggle isn't on the DPM Workspace home page.
+-   Contacts icon \(![Contacts icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/contacts.png)\) to view team members and the all the teams that support the service offering.
+-   Knowledge articles icon\(![Knowledge articles icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-kb-icon.png)\) to search for related knowledge articles.
+-   Attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/attachment.png)\) to view and add attachments to the record.
+-   Catalog items icon \(![Catalog items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/catalog-items.png)\) to search for catalog items on a service or service offering record.
 
 
 </td></tr><tr><td>
@@ -99,9 +99,9 @@ Business applications and service instances
 
 </td><td>
 
--   Needs attention icon \(![Needs attention icon](../../../administer/on-call-scheduling/image/icon-information.png)\) to show or hide the Needs attention panels. This toggle isn't on the DPM Workspace home page.
--   Contacts icon \(![Contacts icon.](../image/contacts.png)\) to view team members and all the teams that support the business application or the service instance.
--   Attachments icon \(![Attachments icon.](../image/attachment.png)\) to view and add attachments to the record.
+-   Needs attention icon \(![Needs attention icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../administer/on-call-scheduling/image/icon-information.png)\) to show or hide the Needs attention panels. This toggle isn't on the DPM Workspace home page.
+-   Contacts icon \(![Contacts icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/contacts.png)\) to view team members and all the teams that support the business application or the service instance.
+-   Attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/attachment.png)\) to view and add attachments to the record.
 
 
 </td></tr></tbody>
@@ -174,10 +174,10 @@ To see Risk data, you must have the Technology Portfolio Management plugin insta
 -   Software Asset Management \[com.snc.sams\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Work with solution data in Digital Portfolio Management](../reference/dpm-working-with.md)
+</table>**Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../reference/dpm-working-with.md)
 
 **Related topics**  
 
 
-[Configure Needs attention panels in Digital Portfolio Management](../task/dpm-configure-needs-attention.md)
+[Configure Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../task/dpm-configure-needs-attention.md)
 

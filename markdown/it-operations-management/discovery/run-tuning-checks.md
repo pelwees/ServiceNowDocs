@@ -46,5 +46,5 @@ The configured checks are listed under the following tabs:
 
     -   To understand the issue, select the **Show check description** link.
     -   To know more details on the issue, select the **Documentation on the check** link.
-    -   To view the definition page, select the **Check definition page** link. To edit a check, see [Edit an existing check](edit-an-existing-check.md).
+    -   To view the definition page, select the **Check definition page** link. To edit a check, see [Edit an existing check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/edit-an-existing-check.md).
 

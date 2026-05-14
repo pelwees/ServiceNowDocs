@@ -31,7 +31,7 @@ JFrog AppTrust is an application risk governance solution containing application
     -   Re-configuration of webhooks that are already existing.
     -   Association of ServiceNow business applications with JFrog AppTrust applications to configure new webhooks for projects.
     -   Enabling of change control for application promotion.
-    **Note:** For information on connecting a JFrog tool, see [Onboard JFrog to DevOps Change Velocity — Workspace](../task/devops-jfrog-connect-workspace.md).
+    **Note:** For information on connecting a JFrog tool, see [Onboard JFrog to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/devops-jfrog-connect-workspace.md).
 
 -   **Permission checks**
 
@@ -49,7 +49,7 @@ JFrog AppTrust is an application risk governance solution containing application
 
 -   **Configure webhooks at project level**
 
-    To configure new webhooks for a project, you must associate the ServiceNow business application with the JFrog AppTrust application. For more information, see [Associate business application](../task/associate-business-application.md).
+    To configure new webhooks for a project, you must associate the ServiceNow business application with the JFrog AppTrust application. For more information, see [Associate business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/associate-business-application.md).
 
 -   **Configure webhooks at tool level**
 
@@ -59,20 +59,20 @@ JFrog AppTrust is an application risk governance solution containing application
 
     Use the **Project** tab in the tool record to associate ServiceNow business applications with JFrog AppTrust applications. This association ensures that change requests created during promotions are linked to the correct business application in ServiceNow, enabling accurate tracking and governance.
 
-    To associate a business application, select a discovered project and map it to the appropriate ServiceNow business application. For detailed instructions, see [Associate business application](../task/associate-business-application.md).
+    To associate a business application, select a discovered project and map it to the appropriate ServiceNow business application. For detailed instructions, see [Associate business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/associate-business-application.md).
 
 
 ## Change creation
 
-When an application version is promoted to a new stage in JFrog, the integration with DevOps Change Velocity \(DCV\) automatically creates a change request in ServiceNow, populated with the required evidences.![ServiceNow Change request added in JFrog stage](../image/jfrog-lifecycle-change.png)
+When an application version is promoted to a new stage in JFrog, the integration with DevOps Change Velocity \(DCV\) automatically creates a change request in ServiceNow, populated with the required evidences.![ServiceNow Change request added in JFrog stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-lifecycle-change.png)
 
-In JFrog, change request creation can be enabled for a stage in the AppTrust Integrations page. ![Change request creation settings in JFrog](../image/jfrog-change-creation.png)
+In JFrog, change request creation can be enabled for a stage in the AppTrust Integrations page. ![Change request creation settings in JFrog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-change-creation.png)
 
 Once the change request is reviewed and approved in ServiceNow, the approval is passed back to JFrog, which then automatically promotes the application version to the new stage.
 
 ## Change policy
 
-You can add change approval policies to the model you created for JFrog change requests. For information on creating change approval policies, see [Creating change approval policies](../../change-management/concept/using-change-approval-policies-cf.md).
+You can add change approval policies to the model you created for JFrog change requests. For information on creating change approval policies, see [Creating change approval policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../change-management/concept/using-change-approval-policies-cf.md).
 
 In the change policy, to retrieve the evidence associated with a JFrog change request, you can use the JFrog Fetch evidences flow action. This flow action collects the relevant evidence data such as artifact promotion details from JFrog and attaches it to the corresponding change request. You can incorporate this flow action into your change policy's approval workflow to ensure that the required evidence is available before the change request is approved or moved forward.
 
@@ -88,8 +88,8 @@ ServiceNow supports digital signature verification to ensure the integrity and a
     2.  Look for the public key associated with your AppTrust configuration.
     3.  Export or copy the public key from this section.
 
--   **[Associate business application](../task/associate-business-application.md)**  
+-   **[Associate business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/associate-business-application.md)**  
 Associate a business application with a JFrog project in the JFrog tool record to create an AppTrust application in JFrog.
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 

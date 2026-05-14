@@ -15,7 +15,7 @@ A trigger condition tells the system who to send a designated assessment to and 
 
 With trigger conditions, assessment administrators can configure the system to generate assessments each time a specific action occurs, such as when an incident or change request closes. The trigger condition sends the assessment to specified users who are related to the triggering record, such as incident callers or change request assignees. You can choose to send the assessment every time the condition is met, or set a probability for the system to send the assessment at random when the condition is met.
 
-For a description of the field values in Trigger Condition form, see [Trigger Condition form for assessments](trigger-condition-form-for-assessment.md).
+For a description of the field values in Trigger Condition form, see [Trigger Condition form for assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/trigger-condition-form-for-assessment.md).
 
 <table id="table_znx_kb2_5s"><thead><tr><th>
 
@@ -119,5 +119,5 @@ Because two related fields were selected as part of the trigger condition, the a
 
 **Note:** Even though the trigger condition is set to be triggered every time the conditions are met, the **Repeat Interval** setting ensures that Boris does not receive another assessment if another vendor incident assigned to him closes within 30 days of the first one.
 
-**Parent Topic:**[Configure trigger conditions for an assessment](../task/t_CreateTriggerAssessment.md)
+**Parent Topic:**[Configure trigger conditions for an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateTriggerAssessment.md)
 

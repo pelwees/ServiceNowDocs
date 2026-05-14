@@ -57,15 +57,15 @@ Customer Service Management \(CSM\) enables you to do these tasks:
 
 <table id="table_nlp_srv_zqb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how managers use Workforce Optimization for Customer Service.](explore-configurable-wfo-cs.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how managers use Workforce Optimization for Customer Service.](explore-configurable-wfo-cs.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](setup-configurable-wfo-cs.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](setup-configurable-wfo-cs.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Schedule, coach and train your agents to work on customer cases.](use-configurable-wfo-cs.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Schedule, coach and train your agents to work on customer cases.](use-configurable-wfo-cs.md)
 
 </td></tr></tbody>
 </table>

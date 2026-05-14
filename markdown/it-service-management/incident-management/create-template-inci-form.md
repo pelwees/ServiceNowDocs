@@ -23,13 +23,13 @@ Role required: itil, sn\_incident\_write, or admin
 
 1.  Navigate to **All** &gt; **Incident** &gt; **Create New**.
 
-2.  Select the More options icon ![More options icon](../../change-management/image/more-options.png) and then select **Show/Hide Template Bar** to see the template bar.
+2.  Select the More options icon ![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../change-management/image/more-options.png) and then select **Show/Hide Template Bar** to see the template bar.
 
-    ![Toggle template bar](../image/toggle-template-bar.png)
+    ![Toggle template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/toggle-template-bar.png)
 
-3.  On the template bar, select the **Create New template** icon \(![Create New template icon](../image/add_icon.png)\).
+3.  On the template bar, select the **Create New template** icon \(![Create New template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/add_icon.png)\).
 
-    ![Click add to create template.](../image/create-template-inci-form.png)
+    ![Click add to create template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/create-template-inci-form.png)
 
 4.  On the form, fill in the fields.
 

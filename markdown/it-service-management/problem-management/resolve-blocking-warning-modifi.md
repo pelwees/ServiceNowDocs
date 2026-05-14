@@ -36,5 +36,5 @@ For more information about blocking, warning, and informational modifications an
 
 ## What to do next
 
-[Migrate active records](migrate-active-records.md).
+[Migrate active records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-active-records.md).
 

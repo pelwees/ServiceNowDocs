@@ -35,7 +35,7 @@ Role required: discovery\_admin
 
 5.  Select a time interval from the **Interval in minutes** drop-down list.
 
-    ![Interval in minutes drop-down list](../image/disco-op-monitor-interval.png)
+    ![Interval in minutes drop-down list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/disco-op-monitor-interval.png)
 
     **Warning:** Available intervals include 1, 15, 30, and 60 minutes. Although 1 minute appears in the list, it isn't a supported interval and may produce unreliable results.
 
@@ -51,9 +51,9 @@ Role required: discovery\_admin
 **Related topics**  
 
 
-[Discovery Operations Monitor dashboard](../concept/disco-operations-monitor.md)
+[Discovery Operations Monitor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/disco-operations-monitor.md)
 
-[Configure the date range for a Discovery Operations Monitor visualization](config-time-frame-disco-op-mon.md)
+[Configure the date range for a Discovery Operations Monitor visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-time-frame-disco-op-mon.md)
 
 [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 

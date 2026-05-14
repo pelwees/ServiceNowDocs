@@ -53,7 +53,7 @@ Reservation rules help allocate a specific percentage of capacity for different 
 **Related topics**  
 
 
-[Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md)
+[Configuring Dynamic Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/Configure-dynamic-scheduling.md)
 
-[Assigning work order tasks to agents using dynamic scheduling](using-dynamic-scheduling.md)
+[Assigning work order tasks to agents using dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/using-dynamic-scheduling.md)
 

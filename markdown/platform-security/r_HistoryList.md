@@ -13,11 +13,11 @@ breadcrumb: [Knowing about History sets, Auditing]
 
 The history list displays each change as its own row in the change list.
 
-![View History List](../image/ViewHistoryList.png "View History List")
+![View History List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/ViewHistoryList.png "View History List")
 
 Click on a row item to view additional details about the change.
 
-![View List Change record](../image/ViewListChange.png "View List Change")
+![View List Change record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/ViewListChange.png "View List Change")
 
 ## Requirements
 

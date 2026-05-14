@@ -19,7 +19,7 @@ Embed a playbook in ServiceNow® mobile by creating a screen in Mobile App Build
 
 Role required: admin
 
-If you haven't configured your playbook for ServiceNow® mobile in UI Builder yet, see [Configure a playbook for ServiceNow mobile](configure-playbook-mobile.md).
+If you haven't configured your playbook for ServiceNow® mobile in UI Builder yet, see [Configure a playbook for ServiceNow mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-playbook-mobile.md).
 
 ## Procedure
 
@@ -28,21 +28,21 @@ If you haven't configured your playbook for ServiceNow® mobile in UI Builder ye
 
 3.  Search for and select the scope of the application that you want to create a screen for.
 
-    ![The Mobile App Builder landing page](../image/mobile-app-builder-landing.png)
+    ![The Mobile App Builder landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/mobile-app-builder-landing.png)
 
 4.  Navigate to **Screens**.
 
-    ![Navigating to Screens](../image/mobile-app-builder-screens.png)
+    ![Navigating to Screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/mobile-app-builder-screens.png)
 
 5.  To create new screen, select **New**.
 
 6.  In the **Create a screen** modal, select **Mobile Web**.
 
-    ![Create a screen modal](../image/create-screen-mobile-web.png)
+    ![Create a screen modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/create-screen-mobile-web.png)
 
     The form for a new mobile web screen appears.
 
-    ![Form for a new mobile web screen](../image/new-mobile-web-screen.png)
+    ![Form for a new mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/new-mobile-web-screen.png)
 
 7.  Give your mobile web screen a name and description.
 
@@ -50,7 +50,7 @@ If you haven't configured your playbook for ServiceNow® mobile in UI Builder ye
 
 9.  Under **Screen Settings**, enter the URL of your mobile playbook.
 
-    ![Properties for the mobile web screen](../image/create-screen-mobile-web-form.png)
+    ![Properties for the mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/create-screen-mobile-web-form.png)
 
     **Important:** The **web\_controller\_spinner=on** parameter is important to include for proper loading behavior on mobile.
 
@@ -63,17 +63,17 @@ If you haven't configured your playbook for ServiceNow® mobile in UI Builder ye
     Your mobile web screen is configured for your playbook.
 
 12. Configure the Mobile Agent
-13. Navigate back to the scope level by selecting the home icon \(![Home icon that brings you back to the scope level](../image/home-icon-app-scope.png)\).
+13. Navigate back to the scope level by selecting the home icon \(![Home icon that brings you back to the scope level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/home-icon-app-scope.png)\).
 
 14. Select **Mobile app configs**.
 
-    ![Navigating to the Mobile Agent](../image/nav-to-mobile-agent.png)
+    ![Navigating to the Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/nav-to-mobile-agent.png)
 
 15. Select **Mobile Agent**.
 
 16. In the banner message at the top, select **Edit in original scope**.
 
-    ![Edit in original scope banner message](../image/edit-original-scope.png)
+    ![Edit in original scope banner message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/edit-original-scope.png)
 
 17. In the component tree, select the **Launcher screen** component.
 

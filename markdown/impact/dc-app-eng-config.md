@@ -25,6 +25,6 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
 2.  Enter the data point in the relevant month cell.
 
-    ![Example with Jul 2024 cell selected with an Indicator score of 5,000.](../image/dct_config_appeng.png)
+    ![Example with Jul 2024 cell selected with an Indicator score of 5,000.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/dct_config_appeng.png)
 
 

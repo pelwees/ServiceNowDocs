@@ -65,5 +65,5 @@ Update Record
 Update case record action to add the major case as the parent case to the current case.
 
 </td></tr></tbody>
-</table>![Subflow action that is configured to add the major case as a parent case to the current case.](../image/ex-ra-similar-major-case-subflow.png)
+</table>![Subflow action that is configured to add the major case as a parent case to the current case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-ra-similar-major-case-subflow.png)
 

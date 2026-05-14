@@ -41,8 +41,8 @@ Role required: wm\_dispatcher.
 
     -   Select **Save Filter** to name the filter and save it.
     -   Select **Apply** to run the filter. Select the filter again to clear the filter from Dispatcher Workspace.
-    -   Select the more actions icon ![more actions](../image/more_action_triangle.png), then **Update** to overwrite the filter if you were changing an existing filter. You can't update administrator-created filters.
-    -   Select the more actions icon ![more actions](../image/more_action_triangle.png), then **Save as new** to save a new filter if you were changing an existing filter.
+    -   Select the more actions icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_action_triangle.png), then **Update** to overwrite the filter if you were changing an existing filter. You can't update administrator-created filters.
+    -   Select the more actions icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_action_triangle.png), then **Save as new** to save a new filter if you were changing an existing filter.
     If you saved the filter, you can select the filter from the **Advanced filters** drop-down menu. **Filter resources** changes to **Temporary filter** when a filter is applied.
 
 

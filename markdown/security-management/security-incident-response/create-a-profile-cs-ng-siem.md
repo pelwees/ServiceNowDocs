@@ -95,5 +95,5 @@ Optional description of the profile.
 
 ## What to do next
 
-[Set correlation rules](select-correlation-rules-cs-ng-siem.md)
+[Set correlation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/select-correlation-rules-cs-ng-siem.md)
 

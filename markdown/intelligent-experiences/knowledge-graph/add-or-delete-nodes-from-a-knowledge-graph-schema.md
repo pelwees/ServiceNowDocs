@@ -35,7 +35,7 @@ Role required: kg\_admin
 
 4.  In the Add nodes to Knowledge graph schema​ window, enter or search for the nodes that you want to add to the Knowledge Graph schema.
 
-    ![Add nodes.](../Images/add-nodes.png)
+    ![Add nodes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/add-nodes.png)
 
     You can search and select the Workflow Data Fabric tables, if integrated.
 
@@ -49,6 +49,6 @@ Role required: kg\_admin
 
 8.  Select **Remove node** to delete a node from the schema.
 
-    ![Remove node](../Images/remove-node.png)
+    ![Remove node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/remove-node.png)
 
 

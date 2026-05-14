@@ -18,7 +18,7 @@ If the existing CAPI APIs do not integrate with the CAPI interface for a provide
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you are creating do not exist.
+-   Review [Default CAPI APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/default-apis.md) and make sure the provider and product that you are creating do not exist.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -124,9 +124,9 @@ Provide a description for this API.
 
 6.  To see the script include for a CAPI Method Mapper:
 
-    1.  Click the gear icon \(![Gear icon](../image/icon-gear-blue.png)\) on the **CAPI Method Mappers** related list, add the **Request Script** field to the **Selected** column, and then click **OK**.
+    1.  Click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-gear-blue.png)\) on the **CAPI Method Mappers** related list, add the **Request Script** field to the **Selected** column, and then click **OK**.
 
-        ![Add the Request Script field](../image/add-request-script.png)
+        ![Add the Request Script field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/add-request-script.png)
 
         The MID Server script includes now appear in the list of method mappers.
 
@@ -134,7 +134,7 @@ Provide a description for this API.
 
         In this example, the **CreateNode** operation uses the **azure-compute-1.0-CreateNode** script include.
 
-        ![CreateNode example](../image/capi-createnode-api-example.png)
+        ![CreateNode example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-createnode-api-example.png)
 
         That script include contains the following code:
 
@@ -171,7 +171,7 @@ Provide a description for this API.
 
         If you navigate to **Connections and Credentials** &gt; **Credentials** and open your AWS credential, you can right-click the **Access Key ID** field and see the name of the column in the Credentials table where the access key is stored. In this case, the access key is stored in the `access_key` column. So your Override value should be `$(CloudCredential.access_key)`.
 
-        ![An access key](../image/access-key-field.png)
+        ![An access key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/access-key-field.png)
 
 8.  If you need to create a configuration parameter to use in the API Config Override, follow this procedure:
 
@@ -247,7 +247,7 @@ Select the type of configuration:-   Header: Use this value to pass the override
 </td></tr></tbody>
 </table>9.  If necessary, modify the script includes that execute the operations against the cloud provider API:
 
-    1.  On the Cloud API form, in the CAPI Method Mappers related list, click the information icon \(![Information icon](../image/icon-information.png)\) next to the CAPI interface operation.
+    1.  On the Cloud API form, in the CAPI Method Mappers related list, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-information.png)\) next to the CAPI interface operation.
 
         Do not click the CAPI Interface Operation name itself.
 
@@ -288,7 +288,7 @@ You typically do not need to change this value.Change the **Supported in** versi
  
 
 </td></tr></tbody>
-</table>    4.  In the **Request Script** field, click the information icon \(![Info icon](../image/icon-information-other.png)\) next to the placeholder MID Server script include to modify it.
+</table>    4.  In the **Request Script** field, click the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-information-other.png)\) next to the placeholder MID Server script include to modify it.
 
     5.  On the script include form, create your script.
 
@@ -317,7 +317,7 @@ You typically do not need to change this value.Change the **Supported in** versi
 
         The overrides provided for this operation are what Azure needs to find the load balancers: the Client ID, Tenant ID, the Secret Key, and the Endpoint URL:
 
-        ![API Config Overrides](../image/capi-azure-lb-overrides-example.png)
+        ![API Config Overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-azure-lb-overrides-example.png)
 
         For the Google Cloud integration example, a MID Server JAR file is also needed.
 
@@ -326,5 +326,5 @@ You typically do not need to change this value.Change the **Supported in** versi
     7.  Modify the script include for each operation.
 
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-management-v2-landing-page.md)
 

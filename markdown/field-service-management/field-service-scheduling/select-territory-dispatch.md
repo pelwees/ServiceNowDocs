@@ -21,7 +21,7 @@ Role required: wm\_dispatcher
 
 ## About this task
 
-You must turn off **Enable single select groups / territories** in settings to select multiple territories. For more information, see [Enable Dispatcher Workspace settings](dispatcher-wrkspc-settings.md).
+You must turn off **Enable single select groups / territories** in settings to select multiple territories. For more information, see [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You must turn off **Enable single select groups / territories** in settings to s
 
 2.  Select Dispatcher Workspace.
 
-3.  Select **Territories** ![territory](../image/territory-group-select.png).
+3.  Select **Territories** ![territory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/territory-group-select.png).
 
 4.  Select the territories that you want to see.
 

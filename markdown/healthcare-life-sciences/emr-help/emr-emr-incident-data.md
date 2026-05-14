@@ -113,5 +113,5 @@ Workstation
 String
 
 </td></tr></tbody>
-</table>**Parent Topic:**[EMR Help data model tables](tables-installed-with-emr-help.md)
+</table>**Parent Topic:**[EMR Help data model tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/tables-installed-with-emr-help.md)
 

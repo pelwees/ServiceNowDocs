@@ -23,7 +23,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Coaching icon \(![Coaching icon](../image/coaching-icon-uib.png)\).
+2.  Select the Coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-icon-uib.png)\).
 
 3.  Select the **Assessments** tab.
 
@@ -36,7 +36,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
     |**A form**|Select **New**.|
     |**Survey Designer**|Select **Survey Designer**.|
 
-    **Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](../../cf-coaching/task/cf-create-survey-coaching-opportunity.md).
+    **Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../cf-coaching/task/cf-create-survey-coaching-opportunity.md).
 
 6.  Configure the survey based on your needs.
 
@@ -45,5 +45,5 @@ Role required: sn\_wfo\_cfg\_ws.manager
     **Note:** To share the survey with other managers, you must add managers of those teams as the owners of the survey.
 
 
-**Parent Topic:**[Surveys in Workforce Optimization for ITSM](../concept/surveys-wfo-itsm.md)
+**Parent Topic:**[Surveys in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/surveys-wfo-itsm.md)
 

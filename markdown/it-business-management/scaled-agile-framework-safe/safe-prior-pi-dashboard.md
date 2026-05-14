@@ -15,11 +15,11 @@ breadcrumb: [Performance Analytics Content Pack for Essential SAFe, Scaled Agile
 
 The SAFe Prior PI Dashboard provides data visualization on scope, actual burndown, and forecast trends of previous program increments \(PI\). Analyze the data and plan the work for upcoming PIs.
 
-![SAFe Prior PI dashboard widgets.](../image/safe-prior-sprint-widgets.png "SAFe Prior PI dashboard widgets")
+![SAFe Prior PI dashboard widgets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-sprint-widgets.png "SAFe Prior PI dashboard widgets")
 
-![SAFe Prior PI burnup report.](../image/safe-prior-pi-burndown.png "SAFe Prior PI burnup report")
+![SAFe Prior PI burnup report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-pi-burndown.png "SAFe Prior PI burnup report")
 
-![SAFe Prior PI burnup report.](../image/safe-prior-pi-burnup.png "SAFe Prior PI burnup report")
+![SAFe Prior PI burnup report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../image/safe-prior-pi-burnup.png "SAFe Prior PI burnup report")
 
 ## End user and roles
 
@@ -108,7 +108,7 @@ Bar chart![](../../reporting/image/inline-data-vis-96px-bar-vertical.png)
 View the velocity of the ART members for the previous PI and plan the workload for an upcoming PI.
 
 </td></tr></tbody>
-</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](../concept/customizing-safe-dashboard-reports.md).
+</table>You can customize the Burnup and Burndown reports. For more information, see [Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/customizing-safe-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](pa-content-pack-essential-safe.md)
+**Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 

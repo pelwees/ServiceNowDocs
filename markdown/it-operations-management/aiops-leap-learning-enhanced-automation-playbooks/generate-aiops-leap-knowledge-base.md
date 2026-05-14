@@ -37,7 +37,7 @@ LEAP automates the generation of knowledge base articles using the **Actions** o
 
     The page to create a knowledge base article appears.
 
-    Another option is to invoke the LEAP AI agent by selecting the Explore button ![Explore button](../images/explore-button.png) and creating knowledge base articles.
+    Another option is to invoke the LEAP AI agent by selecting the Explore button ![Explore button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/explore-button.png) and creating knowledge base articles.
 
 5.  Enter the details you want to enter in the knowledge base page and select **Save**.
 

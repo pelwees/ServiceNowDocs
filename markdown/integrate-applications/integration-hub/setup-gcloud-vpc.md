@@ -99,7 +99,7 @@ Create a credential record for the Google Cloud VPC Access application. The Goog
 
 ### Before you begin
 
--   [Register Google Cloud VPC Access as an OAuth provider](setup-gcloud-vpc.md#)
+-   [Register Google Cloud VPC Access as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcloud-vpc.md#)
 -   Role required: admin
 
 ### Procedure
@@ -122,7 +122,7 @@ Create a credential record for the Google Cloud VPC Access application. The Goog
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Cloud VPC Access default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcp\_vpca\_spoke.GoogleCloudVPCAccess** is selected.|
 
-    ![Credential record for the Google Cloud VPC Access spoke.](../image/gcloud-vpc-access.png)
+    ![Credential record for the Google Cloud VPC Access spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-vpc-access.png)
 
 6.  Right-click the form header and click **Save**.
 

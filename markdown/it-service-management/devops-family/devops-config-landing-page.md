@@ -29,27 +29,27 @@ DevOps Config overview
 
 <table id="table_kcg_td4_vtb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore](../../../common/image/icon-explore.png) Learn about how DevOps engineers and developers use DevOps Config.](devops-config-getting-started.md)
+[Explore ![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../common/image/icon-explore.png) Learn about how DevOps engineers and developers use DevOps Config.](devops-config-getting-started.md)
 
 </td><td>
 
-[Configure ![Configure](../../../common/image/icon-set-up.png) Plan and configure your implementation.](setting-up-devops-config-validation.md)
+[Configure ![Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../common/image/icon-set-up.png) Plan and configure your implementation.](setting-up-devops-config-validation.md)
 
 </td><td>
 
-[Integrate ![Integrate](../../../reuse/images/icon-integration.png) Extend DevOps Config capabilities by integrating your pipeline.](devops-config-integrations.md)
+[Integrate ![Integrate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../reuse/images/icon-integration.png) Extend DevOps Config capabilities by integrating your pipeline.](devops-config-integrations.md)
 
 </td></tr><tr><td>
 
-[Use ![Use](../../../common/image/icon-workspace.png) Use DevOps Config to validate and manage your configuration data.](devops-config-using.md)
+[Use ![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../common/image/icon-workspace.png) Use DevOps Config to validate and manage your configuration data.](devops-config-using.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Analytics and reporting](../../../reuse/images/icon-report.png) Coordinate work and improve processes with dashboards and reports.](devops-config-insights-dashboard.md)
+[Analytics and Reporting Solutions ![Analytics and reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../reuse/images/icon-report.png) Coordinate work and improve processes with dashboards and reports.](devops-config-insights-dashboard.md)
 
 </td><td>
 
-[Reference ![Reference](../../../common/image/icon-reference.png) Get details about supported configuration data, CDM APIs, and PaCE policies.](../reference/devops-config-reference.md)
+[Reference ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../../common/image/icon-reference.png) Get details about supported configuration data, CDM APIs, and PaCE policies.](../reference/devops-config-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -60,5 +60,5 @@ DevOps Config overview
 
 ## Related ServiceNow applications and features
 
-[DevOps Change Velocity](../../enterprise-dev-ops/concept/dev-ops-landing-page.md) application.
+[DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../enterprise-dev-ops/concept/dev-ops-landing-page.md) application.
 

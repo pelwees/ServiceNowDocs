@@ -43,7 +43,7 @@ You can now configure an allowlist of Fortinet ADOMs on each connector instance 
     |Matching|Exact string match against the name returned by the source system API|
     |Default|DVT- replace with a valid ADOM name|
 
-    ![Screenshot showing the adom field in the Connector Instance Values section with example configuration](../images/fortinet-allowlist.png)Fortinet
+    ![Screenshot showing the adom field in the Connector Instance Values section with example configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/fortinet-allowlist.png)Fortinet
 
 5.  Select **Update** to save.
 

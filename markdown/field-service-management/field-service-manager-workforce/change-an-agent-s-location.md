@@ -21,7 +21,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-You can move the map marker icons from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../concept/configuring-map-overlay.md#).
+You can move the map marker icons from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/configuring-map-overlay.md#).
 
 ## Procedure
 
@@ -45,11 +45,11 @@ Do the following
 
 -   Select the desired map marker icon on the map.
 -   The data item card appears in the contextual side panel.
--   Click the **More actions** icon \(![More actions icon.](../image/more_actions.png)\) and select **Edit location**.
+-   Click the **More actions** icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/more_actions.png)\) and select **Edit location**.
 
 **Note:**
 
-You can move the map marker icon from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](../concept/configuring-map-overlay.md#).
+You can move the map marker icon from the current location to the new location only when the `Enable location change on map` field is selected and a valid `Script` is provided while creating the marker layer overlays. For more information, see [Create a marker layer overlay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/configuring-map-overlay.md#).
 
 -   Drag and drop the map marker to the desired location or enter the address manually in the **New Location** field.
 
@@ -75,5 +75,5 @@ You can move the map marker icon from the current location to the new location o
 
 ## Result
 
-The following snapshots illustrate the process of changing data item locations when selecting a single map marker or a co-located map marker icon.![GIF displaying the process of changing the map overlay data item's location.](../image/csp.gif)
+The following snapshots illustrate the process of changing data item locations when selecting a single map marker or a co-located map marker icon.![GIF displaying the process of changing the map overlay data item's location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/csp.gif)
 

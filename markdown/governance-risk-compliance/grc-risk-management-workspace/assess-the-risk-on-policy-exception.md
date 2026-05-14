@@ -21,7 +21,7 @@ Role required: compliance manager
 
 ## About this task
 
-For more information, see [Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md).
+For more information, see [Manage policy exceptions and extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/manage-policy-exceptions.md).
 
 ## Procedure
 
@@ -148,5 +148,5 @@ Click the Task SLAs tab.
 </table>6.  Click **Update**.
 
 
-**Parent Topic:**[Assess risks](../../grc-risk/concept/assess-risk-old-way.md)
+**Parent Topic:**[Assess risks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/assess-risk-old-way.md)
 

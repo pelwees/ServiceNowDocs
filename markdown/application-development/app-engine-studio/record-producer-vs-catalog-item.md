@@ -128,11 +128,11 @@ Catalog items are typically built in a specific scope, and less flexible.
 For more information, see the following topics:
 
 -   Record producers:
-    -   [Add a record producer](../task/add-a-record-producer.md)
-    -   [Sample record producer](record-producers-example.md)
+    -   [Add a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/add-a-record-producer.md)
+    -   [Sample record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/record-producers-example.md)
 -   Standard catalog items:
-    -   [Add a standard catalog item](../task/add-standard-catalog-item.md)
-    -   [Sample standard catalog item](standard-catalog-item-examples.md)
+    -   [Add a standard catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../task/add-standard-catalog-item.md)
+    -   [Sample standard catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/standard-catalog-item-examples.md)
 
-**Parent Topic:**[Add an application experience](add-experience.md)
+**Parent Topic:**[Add an application experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/add-experience.md)
 

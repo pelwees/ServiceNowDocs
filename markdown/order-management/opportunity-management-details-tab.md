@@ -25,7 +25,7 @@ Role required: sales\_agent
 
 3.  Fill in the information on the Details tab.
 
-    For more information, see [Opportunity details form](../reference/opportunity-details-form-fields.md).
+    For more information, see [Opportunity details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/opportunity-details-form-fields.md).
 
 4.  Select **Save**.
 
@@ -34,5 +34,5 @@ Role required: sales\_agent
 
 Use the Product Catalog tab to add products to your opportunity.
 
-**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 

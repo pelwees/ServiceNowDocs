@@ -31,7 +31,7 @@ Role required: sn\_vulc.admin
 
         The new calculator is displayed on the Risk Calculator list.
 
-        ![New risk calculator form](../image/v11newcalc2.png)
+        ![New risk calculator form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11newcalc2.png)
 
     4.  In the list, click the new calculator to create the conditions under which the calculator runs and specify the fields and values you want displayed on test result records and remediation tasks.
 

@@ -35,7 +35,7 @@ Role required: sales\_agent
 
 </td><td>
 
-A document template is required to create a quote document PDF. A standardized template is included with the base system. Select the template that you want. See [Set up PDF document templates](quote-mgt-setup-pdf-document-templates.md) for more information about how to create customized templates.
+A document template is required to create a quote document PDF. A standardized template is included with the base system. Select the template that you want. See [Set up PDF document templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgt-setup-pdf-document-templates.md) for more information about how to create customized templates.
 
 </td></tr><tr><td id="d92790e121">
 
@@ -43,7 +43,7 @@ A document template is required to create a quote document PDF. A standardized t
 
 </td><td>
 
-Option that enables you to have the quote document signed by someone outside the organization. See [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md) for more details on how to set up external signers. When you select **Send for signature**, the external signer's email address is used to send an email through Docusign for review and electronic signature.
+Option that enables you to have the quote document signed by someone outside the organization. See [Set up PDF document signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgt-configure-pdf-document-signers.md) for more details on how to set up external signers. When you select **Send for signature**, the external signer's email address is used to send an email through Docusign for review and electronic signature.
 
 </td></tr><tr><td id="d92790e148">
 
@@ -53,7 +53,7 @@ Option that enables you to have the quote document signed by someone outside the
 
 Option that lets you select an internal signer for the quote. When you select **Send for signature**, the internal signer's email address is used to send an email using Docusign for review and signature.
 
-See [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md) for more details about how to set up an internal signer.
+See [Set up PDF document signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-mgt-configure-pdf-document-signers.md) for more details about how to set up an internal signer.
 
 </td></tr></tbody>
 </table>5.  Select **Save**.
@@ -78,5 +78,5 @@ See [Set up PDF document signers](quote-mgt-configure-pdf-document-signers.md) f
 9.  To view the generated PDF, select the PDF in the attachments window.![](../image/quote-attachment-window-pdf.png)
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

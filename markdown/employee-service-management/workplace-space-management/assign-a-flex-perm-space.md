@@ -19,7 +19,7 @@ Define if a space is flexible or permanent. On the Reservation portal, the avail
 
 Ensure the following:
 
--   The space is added in the application. Otherwise, refer to [Add a space using Workplace Space Management](add-a-space.md).
+-   The space is added in the application. Otherwise, refer to [Add a space using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md).
 -   The **Space type** field of the space is set to **Workspace/desk**.
 
 Role required: sn\_wsd\_spcmgmt.manager
@@ -59,38 +59,38 @@ You can specify if a desk or workspace is a permanent space or flexible. If you 
 
 The space is configured as flexible or permanent based on the assignment type that you selected.
 
-**Parent Topic:**[Managing workplace locations](../concept/Creating-workplace-location-records-using-spce-mgmt.md)
+**Parent Topic:**[Managing workplace locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/Creating-workplace-location-records-using-spce-mgmt.md)
 
 **Related topics**  
 
 
-[Add a campus](add-a-campus.md)
+[Add a campus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-campus.md)
 
-[Add a building using Workplace Space Management](add-new-building-1.md)
+[Add a building using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-new-building-1.md)
 
-[Add a floor using Workplace Space Management](add-a-floor-1.md)
+[Add a floor using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-floor-1.md)
 
-[Add an area using Workplace Space Management](add-an-area.md)
+[Add an area using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-an-area.md)
 
-[Add a room using Workplace Space Management](add-a-room.md)
+[Add a room using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-room.md)
 
-[Add a space using Workplace Space Management](add-a-space.md)
+[Add a space using Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md)
 
-[Allocate a cost center, department, or workplace entity](add-cost-center-department-floor.md)
+[Allocate a cost center, department, or workplace entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-cost-center-department-floor.md)
 
-[Update the measurement details of a workplace location](update-measurement-details-of-workplace-location.md)
+[Update the measurement details of a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/update-measurement-details-of-workplace-location.md)
 
-[Change the status of a workplace location](change-active-status-of-workplace-location.md)
+[Change the status of a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/change-active-status-of-workplace-location.md)
 
-[Configure a BOMA type](configure-a-boma-type.md)
+[Configure a BOMA type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-a-boma-type.md)
 
-[Map a space type with BOMA type](map-a-space-type-with-boma-type.md)
+[Map a space type with BOMA type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/map-a-space-type-with-boma-type.md)
 
-[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+[Create a Space Recommender rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 
-[Raise a space assistance request](raise-a-space-recommendation-request.md)
+[Raise a space assistance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/raise-a-space-recommendation-request.md)
 
-[Create a view-by configuration](create-view-by-config.md)
+[Create a view-by configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-view-by-config.md)
 
-[Reviewing allocation changes](../concept/reviewing-allocation-changes.md)
+[Reviewing allocation changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/reviewing-allocation-changes.md)
 

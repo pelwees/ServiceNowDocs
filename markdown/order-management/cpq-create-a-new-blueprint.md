@@ -19,15 +19,15 @@ Role required: Admin
 
 ## Procedure
 
-1.  In the CPQ Admin navigation pane, click **Blueprints**.![Blueprints in menu](../images/cpq-blueprints.png)
+1.  In the CPQ Admin navigation pane, click **Blueprints**.![Blueprints in menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints.png)
 
-2.  On the Blueprints page, click **New**.![New blueprint](../images/cpq-blueprints-new-button.png)
+2.  On the Blueprints page, click **New**.![New blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-blueprints-new-button.png)
 
 
 **Related topics**  
 
 
-[Export a blueprint](cpq-export-a-blueprint.md)
+[Export a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-export-a-blueprint.md)
 
-[Import a blueprint](cpq-import-a-blueprint.md)
+[Import a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-import-a-blueprint.md)
 

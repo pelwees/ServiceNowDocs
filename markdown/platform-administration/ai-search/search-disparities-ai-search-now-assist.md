@@ -18,11 +18,11 @@ The ServiceNow AI Platform® offers a variety of search tools, which may return 
 
 As an example of the same search returning different answers in different search tools, consider these results that might be displayed to a user searching for `what is my travel policy`:
 
-![Employee Center portal search results for travel policy search.](../image/travel-policy-search-ai-search-results.png "Search results from AI Search in Employee Center")
+![Employee Center portal search results for travel policy search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/travel-policy-search-ai-search-results.png "Search results from AI Search in Employee Center")
 
-![Now Assist Multi-Content Response Genius Result answer generated for travel policy search.](../image/travel-policy-search-now-assist-genius-result-answer.png "Genius Result answer from Now Assist Multi-Content Response Genius Result configuration")
+![Now Assist Multi-Content Response Genius Result answer generated for travel policy search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/travel-policy-search-now-assist-genius-result-answer.png "Genius Result answer from Now Assist Multi-Content Response Genius Result configuration")
 
-![Now Assist in Virtual Agent answer returned for travel policy question.](../image/travel-policy-search-now-assist-virtual-agent-answer.png "Chat answer from Now Assist in Virtual Agent")
+![Now Assist in Virtual Agent answer returned for travel policy question.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/travel-policy-search-now-assist-virtual-agent-answer.png "Chat answer from Now Assist in Virtual Agent")
 
 In this example, each search tool returns a different answer even though the user's search \(or question\) is the same in all three tools. This is expected behavior, since the search tools all handle searches differently.
 
@@ -64,30 +64,30 @@ The following table summarizes some of the key differences between AI Search, No
 |Now Assist Genius Results|Hybrid \(blend of keyword and semantic vector\) search|Query-based \(search field\)|Most relevant search results sent to LLM in a single prompt for answer generation|
 |Now Assist in Virtual Agent|Hybrid \(blend of keyword and semantic vector\) search|Conversation-based \(chat\)|Agentic AI which maintains conversational context when submitting prompts to LLM|
 
-**Parent Topic:**[Exploring AI Search](explore-ais.md)
+**Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
 **Related topics**  
 
 
-[Lemma and Unicode normalization](lemma-unicode-normalization-ais.md)
+[Lemma and Unicode normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/lemma-unicode-normalization-ais.md)
 
-[Synonyms](synonyms-ais.md)
+[Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)
 
-[Stop words](stop-words-ais.md)
+[Stop words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)
 
-[Typo handling](typo-handling-ais.md)
+[Typo handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/typo-handling-ais.md)
 
-[Machine learning relevancy in AI Search](machine-learning-relevancy-ais.md)
+[Machine learning relevancy in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/machine-learning-relevancy-ais.md)
 
-[Semantic vector search in AI Search](semantic-search-ais.md)
+[Semantic vector search in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/semantic-search-ais.md)
 
-[Hybrid search in AI Search](hybrid-search-ais.md)
+[Hybrid search in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/hybrid-search-ais.md)
 
-[Now Assist Multi-Content Response Genius Results](now-assist-multi-content-qna-genius-results.md)
+[Now Assist Multi-Content Response Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-multi-content-qna-genius-results.md)
 
-[Now Assist Q&amp;A Genius Results](now-assist-qna-genius-results.md)
+[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
-[Now Assist Actions Genius Results](now-assist-catalog-ordering-gr.md)
+[Now Assist Actions Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md)
 
 [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md)
 

@@ -65,6 +65,6 @@ SBOM Response
     -   Error - An error has occurred during processing.
     In addition to the status of your uploaded files, you can view lists of components you've ingested by selecting a BOM entity record.
 
-2.  Access more information about errors and upload status by selecting the gear icon ![Gear icon](../../../../reuse/icons/product-icons/gear-changes-outline-24.svg) and adding fields such as **Error category** and **Error detail**.
+2.  Access more information about errors and upload status by selecting the gear icon ![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sbom-core/../../../../reuse/icons/product-icons/gear-changes-outline-24.svg) and adding fields such as **Error category** and **Error detail**.
 
 

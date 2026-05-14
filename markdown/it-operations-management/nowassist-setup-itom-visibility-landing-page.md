@@ -19,11 +19,11 @@ Now Assist for Setup provides a centralized, guided installation experience for 
 
 <table id="table_vy3_4k4_p3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![Learn about the benefits of Now Assist for ITOM Visibility setup](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of Now Assist for ITOM Visibility setup](exploring-now-assist-for-itom-visibility-setup.md)
+[Explore![Learn about the benefits of Now Assist for ITOM Visibility setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of Now Assist for ITOM Visibility setup](exploring-now-assist-for-itom-visibility-setup.md)
 
 </td><td>
 
-[Configure![ITOM Configuration console for Discovery](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configuration console for ITOM Visibility](../concept/itom-conf-console.md)
+[Configure![ITOM Configuration console for Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configuration console for ITOM Visibility](../concept/itom-conf-console.md)
 
 </td><td>
 

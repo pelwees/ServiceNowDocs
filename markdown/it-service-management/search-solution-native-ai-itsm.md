@@ -27,7 +27,7 @@ Role required: none
 
 3.  Use the Now Assist conversational experience to explain your issue.
 
-    ![AI-native Employee portal conversation](../image/AINativeConversation.png)
+    ![AI-native Employee portal conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/AINativeConversation.png)
 
     Now Assist generates recommended solutions for your issue along with reference to content sources.
 
@@ -36,5 +36,5 @@ Role required: none
 5.  If the solutions aren’t relevant, proceed with incident creation or checking the request status.
 
 
-**Parent Topic:**[Employee experience in Simplified IT Service Management](../concept/employee-experience-native-ai-itsm.md)
+**Parent Topic:**[Employee experience in Simplified IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../concept/employee-experience-native-ai-itsm.md)
 

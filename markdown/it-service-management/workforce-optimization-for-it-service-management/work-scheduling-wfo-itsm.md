@@ -17,13 +17,13 @@ Manage the work of all your teams from a central location. You can get visibilit
 
 Here's an overview of Work scheduler.Work scheduler
 
-The image provides a high-level overview of Work scheduler.![Work scheduler](../image/work-scheduler.png)
+The image provides a high-level overview of Work scheduler.![Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/work-scheduler.png)
 
 As an admin, you can:
 
--   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [Set up a work configuration](../task/setup-work-scheduler.md).
--   Create work scheduler cards and configure them based on your needs. For more information, see [Create a Work scheduler card using the Next Experience UI Builder](../task/create-workscheduler-card-wfo-itsm.md).
--   Associate the work scheduler cards with work configurations. For more information, see [Associate a work scheduler card to the work configuration](../task/associate-card-config-wfo-itsm.md).
+-   Create work configurations that managers can view in their work queue. For information on setting up work configurations, see [Set up a work configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/setup-work-scheduler.md).
+-   Create work scheduler cards and configure them based on your needs. For more information, see [Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/create-workscheduler-card-wfo-itsm.md).
+-   Associate the work scheduler cards with work configurations. For more information, see [Associate a work scheduler card to the work configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/associate-card-config-wfo-itsm.md).
 
 As a manager, you can:
 
@@ -34,7 +34,7 @@ As a manager, you can:
 -   Assign work items based on skill recommendation.
 -   Assign work items based on your teams' shifts.
 
-For more information, see [Assign work based on your teams' skills and capacity](../task/track-tasks-teams-wfo-itsm.md).
+For more information, see [Assign work based on your teams' skills and capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/track-tasks-teams-wfo-itsm.md).
 
 ## Getting started with Work scheduler in Workforce Optimization for ITSM
 
@@ -42,8 +42,8 @@ Easily find the tasks that you must complete in the Scheduling module.
 
 |Benefit|Roles|Finding tasks to complete in Work scheduler|
 |-------|-----|-------------------------------------------|
-|Activate Work scheduler in Workforce Optimization for ITSM.|admin|[Activate Work scheduler](../task/activate-configurable-workforce-optimization-itsm.md)|
-|Refer to the components such as system properties used in Work scheduler.|[Any Work scheduler role](../reference/work-scheduler-wfo-itsm-reference.md)|[Understand components used in Work scheduler in Workforce Optimization for ITSM](../reference/work-scheduler-wfo-itsm-reference.md)|
-|Set up Work scheduler for the managers so that they can assign work items based on their teams' skills, availability, and capacity.|[Work scheduler admin](../reference/components-installed-workforce-optimization-itsm.md)|[Set up Work scheduler in Workforce Optimization for ITSM](setting-up-work-scheduler.md)|
-|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](../reference/components-installed-workforce-optimization-itsm.md)|[Use Work scheduler in Workforce Optimization for ITSM](work-scheduler-wfo-itsm.md)|
+|Activate Work scheduler in Workforce Optimization for ITSM.|admin|[Activate Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/activate-configurable-workforce-optimization-itsm.md)|
+|Refer to the components such as system properties used in Work scheduler.|[Any Work scheduler role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/work-scheduler-wfo-itsm-reference.md)|[Understand components used in Work scheduler in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/work-scheduler-wfo-itsm-reference.md)|
+|Set up Work scheduler for the managers so that they can assign work items based on their teams' skills, availability, and capacity.|[Work scheduler admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/components-installed-workforce-optimization-itsm.md)|[Set up Work scheduler in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setting-up-work-scheduler.md)|
+|Manage your teams' work assignments easily by customizing your work queue to display the most relevant work items.|[Work scheduler manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/components-installed-workforce-optimization-itsm.md)|[Use Work scheduler in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-scheduler-wfo-itsm.md)|
 

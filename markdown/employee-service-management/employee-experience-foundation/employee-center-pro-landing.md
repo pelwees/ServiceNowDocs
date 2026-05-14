@@ -19,19 +19,19 @@ Employee Center Pro expands the portal experience beyond service delivery with e
 
 <table id="table_b4h_hzv_sdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Employee Center Pro concepts and features.](emp-center-vs-ec-pro.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Employee Center Pro concepts and features.](emp-center-vs-ec-pro.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set-up the portal and Employee Center Pro features.](configuring-employee-center-pro.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set-up the portal and Employee Center Pro features.](configuring-employee-center-pro.md)
 
 </td></tr><tr><td>
 
-[Author and Manage![](../../../reuse/icons/brand-icons/bus-documentation.svg)Create employee communications and manage content requests.](manage-emp-center.md)
+[Author and Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-documentation.svg)Create employee communications and manage content requests.](manage-emp-center.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Employee Center Pro components such as fields, tables, and properties.](../reference/emp-center-pro-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Employee Center Pro components such as fields, tables, and properties.](../reference/emp-center-pro-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

@@ -44,7 +44,7 @@ For more information, see [Configure your Password Reset process](https://raw.gi
 
 Users can request to change their user password.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../reference/itsm-va-topic-blocks.md).
 
 Basic flow:
 
@@ -58,7 +58,7 @@ Basic flow:
 
 Users can request to reset their user password.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../reference/itsm-va-topic-blocks.md).
 
 Basic flow:
 
@@ -73,7 +73,7 @@ Basic flow:
 
 Users can request to verify their locked user account.
 
-This topic uses the Display Password Reset URLs [topic block](../reference/itsm-va-topic-blocks.md).
+This topic uses the Display Password Reset URLs [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../reference/itsm-va-topic-blocks.md).
 
 Basic flow:
 
@@ -81,5 +81,5 @@ Basic flow:
 2.  If the user successfully verifies their identity with the given inputs, Virtual Agent provides the verification information.
 3.  Once the user has been identified and verified, Virtual Agent unlocks the user's account.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 

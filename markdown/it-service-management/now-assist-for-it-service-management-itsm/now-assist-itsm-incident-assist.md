@@ -45,18 +45,18 @@ You can ask questions about an incident by using the Now Assist panel in Core UI
 
 1.  In Core UI or Service Operations Workspace for ITSM, open an incident that is assigned to you.
 
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png) to open the Now Assist panel.
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png) to open the Now Assist panel.
 
-    ![Incident assist panel in Service Operations Workspace.](../image/now-assist-itsm-inc-assist-pnl.png)
+    ![Incident assist panel in Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-assist-pnl.png)
 
 3.  In the Now Assist panel, either type in a question related to an incident assist topic, or select **Answer questions about an incident** and select an \[DEPRECATED\] Incident assist topic to ask about.
 
     **Note:** Incident assist uses index sources for which incidents, problems, and change requests are indexed. Similar resolved incidents are retrieved by comparing an incoming incident with past resolved incidents for smarter resolution. Similar past active incidents are displayed in the Now Assist panel and also in the Incident form via related search. For information on indexed sources, see [Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-managing-indexed-source.md).
 
-    ![Incident assist panel in Service Operations Workspace in an incident.](../image/now-assist-itsm-inc-assist-pan.png)
+    ![Incident assist panel in Service Operations Workspace in an incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-assist-pan.png)
 
     Information requested about the incident is shown.
 
-    ![Incident assist panel topic in Service Operations Workspace.](../image/now-assist-itsm-inc-assist-tpc.png)
+    ![Incident assist panel topic in Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-assist-tpc.png)
 
 

@@ -104,7 +104,7 @@ Script that you select from the MID Server Script Includes \[Discovery view\] ta
 
 
 </td></tr></tbody>
-</table>    ![Twitter authentication algorithm](../image/custom-authentication-algorithm.png)
+</table>    ![Twitter authentication algorithm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/custom-authentication-algorithm.png)
 
     Based on the selected scripts and authentication algorithm, the configured credentials is sent as outbound request from ServiceNow to the provider.
 
@@ -128,7 +128,7 @@ Script that you select from the MID Server Script Includes \[Discovery view\] ta
     -   Consumer secret
     -   Credential alias
     -   Authentication Algorithm
-    ![Twitter Credentials](../image/twitter-algorithm.png)
+    ![Twitter Credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/twitter-algorithm.png)
 
 8.  Click **Update**.
 
@@ -152,7 +152,7 @@ Input REST step with Twitter as follows:
 -   **HTTPS Method**: In this case it is POST method. Posting a tweet.
 -   **Query Parameters**: **Action** as **tweet**.
 
-![Post Tweet](../image/twitter-post.png)
+![Post Tweet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/twitter-post.png)
 
 You can test the action. The tweet is posted on the Twitter page.
 

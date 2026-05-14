@@ -17,7 +17,7 @@ Activate and set up the CrowdStrike Falcon X Sandbox to interface with your Serv
 
 ## Before you begin
 
--   Before you can use the CrowdStrike Falcon X Sandbox for Security Operations integration, you must download it from the [ServiceNow Store](../../../planning-and-policy/concept/secops-and-store.md).
+-   Before you can use the CrowdStrike Falcon X Sandbox for Security Operations integration, you must download it from the [ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../planning-and-policy/concept/secops-and-store.md).
 -   Review the following setup checklist and verify that you have completed all the tasks for a smooth CrowdStrike Falcon X Sandbox integration.
 
 Role required: admin, sn\_si.admin
@@ -69,7 +69,7 @@ This integration is supported on Paris and Orlando releases.
 7.  Security Operations Setup Assistant
 8.  Security Incident Response
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product](../../../security-incident-response/task/entitle-secops-product.md) or application and [Activate a ServiceNow Store application](../../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/entitle-secops-product.md) or application and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/activate-entitled-store-app.md).
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ This integration supports the Falcon Sandbox Private Cloud only.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  [Download the CrowdStrike Falcon Sandbox for Security Operations integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the CrowdStrike Falcon Sandbox for Security Operations integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation is complete, navigate to Security Operations &gt; Integrations &gt; Integration Configurations.
 
@@ -107,10 +107,10 @@ This integration supports the Falcon Sandbox Private Cloud only.
 
     After the sandbox is successfully validated and submitted, it is saved on the Security Integrations page as a tile. You can now view the Sandbox module in the application navigator.
 
-    ![Sandbox links in the application navigator.](../image/sandbox-links.png)
+    ![Sandbox links in the application navigator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sandbox-links.png)
 
 
 ## What to do next
 
-After you successfully complete the integration, the next step is to set up [Sandbox submission configurations](setup-sandbox-submission-configurations.md).
+After you successfully complete the integration, the next step is to set up [Sandbox submission configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-sandbox-submission-configurations.md).
 

@@ -73,5 +73,5 @@ Grants administrative rights to create, read, update, and delete \(CRUD\) all ap
 -   sn\_wfo.admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workforce Optimization for ITSM reference](workforce-optimization-itsm-reference.md)
+</table>**Parent Topic:**[Workforce Optimization for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-reference.md)
 

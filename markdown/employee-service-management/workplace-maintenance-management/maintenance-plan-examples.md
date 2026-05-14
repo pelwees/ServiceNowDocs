@@ -26,7 +26,7 @@ Schedule a printer ink cartridge replacement after printing a specified number o
 
 1.  Create a model-based maintenance plan for HP Printer Cartridge Replacement and publish the plan.
 
-    For more information, see [Create and publish maintenance plans](../task/create-publish-maintenance-plans.md).
+    For more information, see [Create and publish maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../task/create-publish-maintenance-plans.md).
 
 2.  Create a meter-based schedule:
     -   Name: Schedule name.
@@ -51,11 +51,11 @@ Schedule coffee beans refilling for coffee machines daily. Associate a schedule 
 
 The coffee beans are refilled daily based on the scheduling condition and template associated to this maintenance plan.
 
-For more information, see [Workplace planned maintenance scheduled job](sch-job-planned-nightly.md).
+For more information, see [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/sch-job-planned-nightly.md).
 
-**Parent Topic:**[Workplace Maintenance Management references](workplace-maintenance-mgmt-references.md)
+**Parent Topic:**[Workplace Maintenance Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-mgmt-references.md)
 
-**Previous topic:**[Workplace Maintenance Management references](workplace-maintenance-mgmt-references.md)
+**Previous topic:**[Workplace Maintenance Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/workplace-maintenance-mgmt-references.md)
 
-**Next topic:**[Components installed with Workplace Maintenance Management](../reference/components-installed-with-maintenance-mgmt.md)
+**Next topic:**[Components installed with Workplace Maintenance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../reference/components-installed-with-maintenance-mgmt.md)
 

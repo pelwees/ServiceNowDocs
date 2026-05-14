@@ -36,7 +36,7 @@ Case NACM Config is currently only available for resolution notes and activity r
 
 4.  Find the configuration name **Case NACM Config**.
 
-5.  Under Action, select the ![More actions](../image/csm-ws-dashboards-more-actions-icon.png)icon
+5.  Under Action, select the ![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/csm-ws-dashboards-more-actions-icon.png)icon
 
 6.  Select **Edit configuration**.
 

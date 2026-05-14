@@ -62,7 +62,7 @@ Client ID
 
 </td><td>
 
-Client ID of the Google Drive application that you registered in Google Workspace. You can find the Google Client ID in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](set-up-oauth-app-gsheets-api.md).
+Client ID of the Google Drive application that you registered in Google Workspace. You can find the Google Client ID in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-up-oauth-app-gsheets-api.md).
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Client Secret
 
 </td><td>
 
-Client secret that was generated when you registered the app in Google API Console.You can find the Google client secret in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](set-up-oauth-app-gsheets-api.md).
+Client secret that was generated when you registered the app in Google API Console.You can find the Google client secret in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-up-oauth-app-gsheets-api.md).
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Authorization URL
 
 </td><td>
 
-URL that the OAuth application at Google provides to seek authorization to access the Google resource server. The URL format that you enter includes the tenant ID of your app: `https://accounts.google.com/oauth2/v2.0/{API version}/authorize`.You can find the Authorization URL in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](set-up-oauth-app-gsheets-api.md).
+URL that the OAuth application at Google provides to seek authorization to access the Google resource server. The URL format that you enter includes the tenant ID of your app: `https://accounts.google.com/oauth2/v2.0/{API version}/authorize`.You can find the Authorization URL in the downloaded OAuth credentials JSON file. For more information, see [Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-up-oauth-app-gsheets-api.md).
 
 </td></tr><tr><td>
 
@@ -127,16 +127,16 @@ URL that is provided by the OAuth authorization server that enables a client app
 
 7.  In the OAuth Entity Scopes related list, enter `https://www.googleapis.com/auth/drive.file` in the **Name** and **OAuth scope** fields.
 
-    ![OAuth Entity Scopes related list displays the Name and OAuth scope fields to define the OAuth scope for this OAuth provider.](../image/oauth-entity-scopes.png)
+    ![OAuth Entity Scopes related list displays the Name and OAuth scope fields to define the OAuth scope for this OAuth provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/oauth-entity-scopes.png)
 
 8.  In the OAuth Entity Profiles related list, select **Sheets Integration default\_profile**.
 
 9.  In the OAuth Entity Profile Scopes related list, enter `https://www.googleapis.com/auth/drive.file` in the **OAuth Entity Scope** field.
 
-    ![OAuth Entity Profile Scopes related list displays the OAuth Entity scope field to define the OAuth scope that is associated with this profile.](../image/oauth-profile-scope.png)
+    ![OAuth Entity Profile Scopes related list displays the OAuth Entity scope field to define the OAuth scope that is associated with this profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/oauth-profile-scope.png)
 
 10. Select **Update**.
 
 
-**Parent Topic:**[Exporting your table records to Google Sheets](../concept/setup-gsheet-export.md)
+**Parent Topic:**[Exporting your table records to Google Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/setup-gsheet-export.md)
 

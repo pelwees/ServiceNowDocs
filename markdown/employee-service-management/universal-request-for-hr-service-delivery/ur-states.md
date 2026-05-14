@@ -77,7 +77,7 @@ Canceled
 The UR is canceled.**Note:** Requesters can cancel a UR only if there are no active or closed primary tickets attached to it. Also, the state of UR must be either **New** or **In Progress**.
 
 </td></tr></tbody>
-</table>![Sample: State reason for In Progress state](../images/ur-state-reasons.png)
+</table>![Sample: State reason for In Progress state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-state-reasons.png)
 
-**Parent Topic:**[Exploring Universal Request](explore-universal-request.md)
+**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 

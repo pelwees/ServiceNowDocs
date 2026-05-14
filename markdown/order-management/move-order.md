@@ -27,5 +27,5 @@ For all the product inventory records that are in **Activation pending** state a
 
 On successful completion of the order, the old inventory with state **Change pending** becomes **Inactive**. The new inventory with state **Activation pending** becomes **Active**.
 
-**Parent Topic:**[Managing post-fulfillment order changes](managing-orders.md)
+**Parent Topic:**[Managing post-fulfillment order changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 

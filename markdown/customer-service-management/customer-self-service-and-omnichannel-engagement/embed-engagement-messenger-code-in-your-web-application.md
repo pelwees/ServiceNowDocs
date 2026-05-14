@@ -17,7 +17,7 @@ Embed the source code of the messenger module that you configured in your websit
 
 ## Before you begin
 
--   [Activate an Engagement Messenger module](activate-engagement-messenger-module.md).
+-   [Activate an Engagement Messenger module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-engagement-messenger-module.md).
 -   Role required: sn\_csm\_ec.ec\_admin
 
 ## About this task
@@ -90,7 +90,7 @@ This function enables authenticated users to seamlessly log out from Engagement 
 
     For example, if your customer support portal is **https://www.example.com/support**, then update the code to **guestWalkupBaseUrl = https://www.example.com/support**
 
-    ![Configure Engagement Messenger module with the help of the highlighted steps. For the implementation, use the embed code to fix any unauthenticated user issues.](../image/em-embed-code-with-walk-up.png "Copy Engagement Messenger code")
+    ![Configure Engagement Messenger module with the help of the highlighted steps. For the implementation, use the embed code to fix any unauthenticated user issues.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-embed-code-with-walk-up.png "Copy Engagement Messenger code")
 
 9.  To modify the embed code to set the preferred language in which Engagement Messenger is displayed, do one of the following.
 
@@ -107,7 +107,7 @@ This function enables authenticated users to seamlessly log out from Engagement 
 
 11. Modify the embed code of Engagement Messenger to integrate Proactive Recommendations on a web page.
 
-    For more information on using Engagement Messenger to integrate Proactive Recommendations on a web page, see [Use Engagement Messenger embed Code to integrate proactive recommendations on a web page](em-contextual-help.md).
+    For more information on using Engagement Messenger to integrate Proactive Recommendations on a web page, see [Use Engagement Messenger embed Code to integrate proactive recommendations on a web page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/em-contextual-help.md).
 
 
 ## What to do next

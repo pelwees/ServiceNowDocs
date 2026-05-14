@@ -17,7 +17,7 @@ The dashboard uses visual representations to provide you with an overview of how
 
 The following example shows the Get an overview and See how your trained model is doing sections within the dashboard.
 
-![View the analytics dashboard and monitor machine learning models. For the text description, see the following sections.](../image/task-intelligence-analytics.png "Task Intelligence Analytics dashboard")
+![View the analytics dashboard and monitor machine learning models. For the text description, see the following sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/task-intelligence-analytics.png "Task Intelligence Analytics dashboard")
 
 ## Get an overview
 

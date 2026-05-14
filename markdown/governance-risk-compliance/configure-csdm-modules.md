@@ -43,7 +43,7 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     **Note:** You must have the itil user role to create a service. If you do not have the itil user role, the **New** button for creating a service is not displayed.
 
-    For a description of the field values on the Service form, see [Create New Service form](../../grc-operational-res-ws/reference/service-form-lists-ws-reference.md).
+    For a description of the field values on the Service form, see [Create New Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/reference/service-form-lists-ws-reference.md).
 
     The Create New Service form is displayed.
 
@@ -51,11 +51,11 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     A sample **Details** tab is shown in the following example.
 
-    ![Details tab in the Create New Service form.](../../grc-operational-res-ws/image/create-new-service-form-ws.png "Details tab in the Create New Service form")
+    ![Details tab in the Create New Service form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/create-new-service-form-ws.png "Details tab in the Create New Service form")
 
 4.  To save details of the service, select **Save**.
 
-    ![Sample form for a service.](../../grc-operational-res-ws/image/saved-service-form.png "Details of a service")
+    ![Sample form for a service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/saved-service-form.png "Details of a service")
 
     In releases prior to 20.x.x, a single level of hierarchy was supported, such as from a parent service to the child service, from the child service to the process, and from the process to a dependency. This hierarchy is supported for services for existing customers and it is displayed in the Services form, as shown in the example.
 
@@ -69,7 +69,7 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
         The service is added to Operational Resilience reporting as shown in the following example.
 
-        ![Service added to Operational Resilience reporting.](../../grc-operational-res-ws/image/ser-added-to-opres-reporting.png "Service added to Operational Resilience reporting")
+        ![Service added to Operational Resilience reporting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/ser-added-to-opres-reporting.png "Service added to Operational Resilience reporting")
 
         **Note:** After you’ve added the service to Operational Resilience reporting, the **Add to OpRes reporting** option isn’t displayed for the service anymore on the Service form.
 
@@ -83,7 +83,7 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
         You can add upstream or downstream entities to the entity record as shown in the example.
 
-        ![Upstream or downstream entities.](../image/hierachy-tab-add-ups-downs-ent.png)
+        ![Upstream or downstream entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/hierachy-tab-add-ups-downs-ent.png)
 
     3.  To save the upstream or downstream relationships, select **Save**.
 
@@ -91,7 +91,7 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     The infrastructure relationship of a service with its parent services and child services is displayed as shown in the following example.
 
-    ![Sample dependency view.](../../grc-operational-res-ws/image/sample-dependency-view.png "Sample dependency view")
+    ![Sample dependency view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/sample-dependency-view.png "Sample dependency view")
 
     You can view the dependencies in the desired map view such as the vertical, horizontal, radial, force, group, or details view.
 
@@ -99,12 +99,12 @@ When the **Compute Operational Resilience Compliance** scheduled job runs in the
 
     The relationship of a service with its related entities, such as the dependencies and red flags in a 360-degree view, is displayed as shown in the following example.
 
-    ![Relationship of a service with its related entities in a 360°-degree view.](../../grc-operational-res-ws/image/360-degree-view.png "Relationship of a service with its related entities in a 360-degree view")
+    ![Relationship of a service with its related entities in a 360°-degree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/360-degree-view.png "Relationship of a service with its related entities in a 360-degree view")
 
 9.  To save the details on the form, select **Save**.
 
     The Service form is displayed as shown in the following example.
 
-    ![Service form with the related tabs.](../../grc-operational-res-ws/image/sample-service-form.png "Service form with the related tabs")
+    ![Service form with the related tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/image/sample-service-form.png "Service form with the related tabs")
 
 

@@ -33,7 +33,7 @@ Role required: admin
 
         The following image is an example of a `custom_attribute` being added to the flattened asset.
 
-        ![A custom attribute added to the script include](../../sgc-ot-discovery/image/asset-extension-point-example-sgc-msi.jpg)
+        ![A custom attribute added to the script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/asset-extension-point-example-sgc-msi.jpg)
 
     5.  Once the script is complete, validate the data by running a test load of the Data Source.
 
@@ -71,7 +71,7 @@ Role required: admin
 
         The following image shows an example of an updated script.
 
-        ![Updated script include for the class calculator extension point](../../sgc-ot-discovery/image/class-calculator-example-sgc-msi.jpg)
+        ![Updated script include for the class calculator extension point](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/class-calculator-example-sgc-msi.jpg)
 
 3.  Set up a Configuration Item \(CI\) Naming Strategy extension point.
 

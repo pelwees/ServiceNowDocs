@@ -19,19 +19,19 @@ Workflow Studio playbooks streamline and standardize complex processes. Automate
 
 <table id="table_tbx_zny_hgc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about playbooks](../../process-automation-designer/concept/process-automation-designer.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about playbooks](../../process-automation-designer/concept/process-automation-designer.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure playbooks](../../process-automation-designer/concept/setting-up-process-automation-designer.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure playbooks](../../process-automation-designer/concept/setting-up-process-automation-designer.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use playbooks](../../workspace/concept/playbook-agents-and-fulfillers.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use playbooks](../../workspace/concept/playbook-agents-and-fulfillers.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details](../../process-automation-designer/reference/process-automation-designer-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-learn.svg)Get details](../../process-automation-designer/reference/process-automation-designer-reference.md)
 
 </td></tr></tbody>
 </table>

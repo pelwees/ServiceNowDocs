@@ -34,10 +34,10 @@ AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/Servic
 
 In the data access settings, you must also add the necessary roles to the FSO AI agents listed in the table earlier.
 
--   **[ACH dispute AI agents overview](ach-agentic-ai-workflow.md)**  
+-   **[ACH dispute AI agents overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/ach-agentic-ai-workflow.md)**  
 Agentic AI streamlines ACH dispute resolution by automating merchant analysis, Nacha eligibility checks, ACH dispute return recommendations, and communications with customers or ODFI \(Originating Depository Financial Institution\). This solution enhances efficiency, accuracy, and conformance, enabling financial institutions to resolve ACH disputes faster, reduce errors, and improve customer satisfaction.
--   **[Agentic Contact Center for Banking AI agents overview](agentic-contact-center-for-banking-agents-overview.md)**  
+-   **[Agentic Contact Center for Banking AI agents overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/agentic-contact-center-for-banking-agents-overview.md)**  
 Agentic Contact Center for Banking uses AI agents to enhance customer service by providing customer support representatives with intelligent assistance during interactions. The two key agents—Banking CSR Customer Insights and Banking CSR Support—help reduce handling time, enable proactive outreach, and deliver personalized customer experiences through AI-driven analysis and contextual insights.
 
-**Parent Topic:**[Agentic AI use cases for FSO](usecase-now-assist.md)
+**Parent Topic:**[Agentic AI use cases for FSO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/usecase-now-assist.md)
 

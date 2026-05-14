@@ -15,31 +15,31 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 Indicators are artifacts observed on a network or operating system that are likely to indicate an intrusion. Typical IoCs are virus signatures and IP addresses, MD5 hashes of malware files or URLs, or domain names.
 
--   **[Define an Indicator](../task/define-an-indicator.md)**  
+-   **[Define an Indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-an-indicator.md)**  
 Define an Indicator.
 
-**Parent Topic:**[TISC Library Repository](tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-[Threat Entities](tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-[Other Objects](tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-other-objects.md)
 
-[Vulnerability Artifacts](vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/vulnerability.md)
 
-[View RSS Feeds](../task/define-rss-feeds.md)
+[View RSS Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/define-rss-feeds.md)
 
-[Working with Reports in TISC](tisc-reports-lib-view.md)
+[Working with Reports in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](relationship-objects.md)
+[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-[Potential Relationships](potential-relationships.md)
+[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-[Vulnerability relationship mapping](tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-relationship-map.md)
 

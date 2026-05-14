@@ -33,8 +33,8 @@ Client Software Distribution \(CSD\) uses [Software Asset Management](https://ra
 
     This action runs the Revoke Client Software flow, which triggers the Revoke SCCM Application subflow that moves the user or device from the install collection to the uninstall collection. When SCCM performs an internal policy check and finds the user or device in the uninstall collection, SCCM removes the related software package from the client computer.
 
-    ![Revoking a software installation](../images/SCCMSoftwareInstallation.png)
+    ![Revoking a software installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/SCCMSoftwareInstallation.png)
 
 
-**Parent Topic:**[SCCM software revocation](../concept/sccm-revocation-ihub.md)
+**Parent Topic:**[SCCM software revocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/sccm-revocation-ihub.md)
 

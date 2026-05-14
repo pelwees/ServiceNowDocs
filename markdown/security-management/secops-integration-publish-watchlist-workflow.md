@@ -21,9 +21,9 @@ Role required: sn\_si.analyst
 
 This flow is visible and runs only when an integration is available. It is triggered from the **Observables** or **Associated Indicators** tab on a security incident.
 
-![Security Operations Integration - Publish to Watchlist capability flow](../image/publish-to-watchlist.png "Publish to Watchlist")
+![Security Operations Integration - Publish to Watchlist capability flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/publish-to-watchlist.png "Publish to Watchlist")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Publish to Watchlist capability](../../security-operations-common/concept/pubish-to-watchlist-capability.md)
+**Parent Topic:**[Security Operations Integration- Publish to Watchlist capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/pubish-to-watchlist-capability.md)
 

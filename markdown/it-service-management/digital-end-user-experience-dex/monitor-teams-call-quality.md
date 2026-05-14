@@ -19,8 +19,8 @@ Enable advanced monitoring of Microsoft Teams call quality with DEX for Microsof
 
 Role required: admin
 
--   Configure advanced monitoring for Microsoft Teams. For more details, see [Enable application monitoring](../../digital-end-user-experience/task/enable-app-monitor.md).
--   Set up DEX for Microsoft 365 application. For more information, see [Configuring DEX for Microsoft 365](../concept/configuring-dex-for-microsoft-365.md).
+-   Configure advanced monitoring for Microsoft Teams. For more details, see [Enable application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../digital-end-user-experience/task/enable-app-monitor.md).
+-   Set up DEX for Microsoft 365 application. For more information, see [Configuring DEX for Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/configuring-dex-for-microsoft-365.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ View detailed metrics for a user's Microsoft Teams calls, including call quality
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](../../digital-end-user-experience/image/icon-applications.png)\).
+2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../digital-end-user-experience/image/icon-applications.png)\).
 
 3.  Select **Teams**.
 

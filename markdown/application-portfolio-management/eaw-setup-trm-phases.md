@@ -15,15 +15,15 @@ A Technology Reference Model \(TRM\) phase represents the status of the applicat
 
 You can add a new TRM phase on edit an existing one.
 
--   **[Add or edit a TRM phase](../../task/eaw-task/eaw-create-trm-phase.md)**  
+-   **[Add or edit a TRM phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-trm-phase.md)**  
 Define your own TRM phase for the TRM products.
 
-**Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
+**Parent Topic:**[Configure EA Workspace using the Setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-config-eaw-using-setup-page.md)
 
 **Related topics**  
 
 
-[Manage TRM phases](eaw-configure-trm-phases.md)
+[Manage TRM phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-configure-trm-phases.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-trm.md)
 

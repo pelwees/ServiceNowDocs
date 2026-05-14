@@ -27,7 +27,7 @@ On upgrade to Quebec or later releases, all current user sets convert to groups.
 
 Admins and user\_admins create groups and add users in the **User Administration** application.
 
-To learn more about creating and editing groups, see [Creating groups](../../roles/concept/ua-creating-groups.md).
+To learn more about creating and editing groups, see [Creating groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../roles/concept/ua-creating-groups.md).
 
-**Parent Topic:**[Subscription Management reference](../reference/subscription-management-reference-v2.md)
+**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/subscription-management-reference-v2.md)
 

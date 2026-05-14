@@ -58,5 +58,5 @@ Role required: wm\_agent, wm\_dispatcher, fsm\_agent, or sn\_shop.shopper
 
 On the order confirmation screen, tap **Return to work order task** if you want to go back to the work order task details screen.
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with Field Service Management](../concept/integration-psm-fsm.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/integration-psm-fsm.md)
 

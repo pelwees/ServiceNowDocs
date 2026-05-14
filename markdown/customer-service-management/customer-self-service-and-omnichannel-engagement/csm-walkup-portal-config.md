@@ -40,7 +40,7 @@ There are several ways to configure the Walk-up service portal:
 
 4.  In the Service Portals list, click Walk-up or search for it in the list header search box.
 
-5.  Click the Form menu icon ![Form menu icon.](../../../common/image/Form_MenuIcon.png) and select **Configure** &gt; **Form Design**.
+5.  Click the Form menu icon ![Form menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../../../common/image/Form_MenuIcon.png) and select **Configure** &gt; **Form Design**.
 
     The form designer opens.
 

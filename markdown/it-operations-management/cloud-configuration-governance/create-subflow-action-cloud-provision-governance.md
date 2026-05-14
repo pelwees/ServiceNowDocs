@@ -44,7 +44,7 @@ The response action communicates to the Cloud Provisioning and Governance applic
 
     Create the following input variables: error, log, output, and correlation id.
 
-    ![Sample response action- Cloud Provisioning and Governance](../image/return-action-sample.png "Sample response action to Cloud Provisioning and Governance")
+    ![Sample response action- Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/return-action-sample.png "Sample response action to Cloud Provisioning and Governance")
 
 4.  Select and add a script action step to perform an operation on the action inputs.
 
@@ -68,7 +68,7 @@ The response action communicates to the Cloud Provisioning and Governance applic
 
     2.  Select **Action** &gt; **Cloud Management: Terraform Connector**, and select a default action.
 
-    ![Default actions- terraform Connector](../image/terraform-connector-default-actions.png)
+    ![Default actions- terraform Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/terraform-connector-default-actions.png)
 
     The action you created sends a response to the Cloud Provisioning and Governance application, updating the order with the status of the subflow's step.
 

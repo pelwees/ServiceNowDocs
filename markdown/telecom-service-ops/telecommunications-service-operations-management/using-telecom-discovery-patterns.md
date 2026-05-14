@@ -15,16 +15,16 @@ breadcrumb: [Use, Telecommunications Service Operations Management]
 
 Use Telecom Discovery patterns to identify and classify network functions \(xNFs\) from vendor devices such as Cisco, Juniper, routers, or switches. Leverage pattern-based discovery to map telecom resources into the CMDB.
 
--   **[Classify xNFs for Telecom Router Pattern](../task/classifying-xnfs-pattern-tsom-visibility.md)**  
+-   **[Classify xNFs for Telecom Router Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/classifying-xnfs-pattern-tsom-visibility.md)**  
 To access a full list of OIDs that will be classified.
--   **[Classify xNFs for Telecom Cisco 7613 Router Pattern](../task/classifying-xnfs-telecom-cisco.md)**  
+-   **[Classify xNFs for Telecom Cisco 7613 Router Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/classifying-xnfs-telecom-cisco.md)**  
 To access a full list of OIDs that will be classified.
--   **[Classify xNFs for Telecom Juniper MX SSH Router Pattern](../task/classifying-xnfs-juniper-router-pattern.md)**  
+-   **[Classify xNFs for Telecom Juniper MX SSH Router Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/classifying-xnfs-juniper-router-pattern.md)**  
 To access a full list of OIDs that will be classified.
--   **[Classify xNFs for Telecom Cisco Switch Pattern](../task/classifying-xnfs-cisco-switch-pattern.md)**  
+-   **[Classify xNFs for Telecom Cisco Switch Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/classifying-xnfs-cisco-switch-pattern.md)**  
 To access a full list of OIDs that will be classified.
--   **[Classify xNFs for Telecom Switch Pattern](../task/classifying-xnfs-pattern-switch-pattern.md)**  
+-   **[Classify xNFs for Telecom Switch Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/classifying-xnfs-pattern-switch-pattern.md)**  
 To access a full list of OIDs that will be classified.
 
-**Parent Topic:**[Using Telecommunications Service Operations Management](using-tsom.md)
+**Parent Topic:**[Using Telecommunications Service Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/using-tsom.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 The Kanban Team Dashboard in EAP provides the work item status and progress metrics for the Agile teams following the Kanban configuration in the Enterprise Agile Planning \(EAP\) workspace.
 
-![Kanban team dashboard in Enterprise Agile Planning Workspace.](../images/eap-dashboard-kanban-team.png)
+![Kanban team dashboard in Enterprise Agile Planning Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-dashboard-kanban-team.png)
 
 ## Required EAP roles
 
@@ -79,7 +79,7 @@ Total stories
 
 Single Score
 
-![Total stories.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total stories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -97,7 +97,7 @@ Total story points
 
 Single Score
 
-![Total story points.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total story points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Blocked stories
 
 Single Score
 
-![Blocked stories.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Blocked stories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Stories missing estimates
 
 Single Score
 
-![Stories missing estimates.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Stories missing estimates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -151,7 +151,7 @@ Stories by state
 
 Bar graph
 
-![Stories by state.](../../../use/reporting/image/inline-data-vis-bar-column.png)
+![Stories by state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-bar-column.png)
 
 </td><td>
 

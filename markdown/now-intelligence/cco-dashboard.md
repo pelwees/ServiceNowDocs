@@ -17,7 +17,7 @@ The CCO dashboard is a mission-critical workspace for monitoring and elevating c
 
 This dashboard presents a curated set of visualizations that reflect customer sentiment, proactive service maturity, digital self-solve performance, resolution speed, and escalation load. Indicators such as cSAT trends, impacted customers, self-service success rate, SLA performance, outage trends, and cases in the spotlight help leaders track experience trends over time, understand performance direction, and identify emerging customer risks before they escalate.
 
-![CCO Dashboard Outcome tab with Sentiment, Proactive, Self Service, Service Health, and Spotlight pillars, each containing KPIs and visualizations.](../image/cco-db-outcome-tab.png)
+![CCO Dashboard Outcome tab with Sentiment, Proactive, Self Service, Service Health, and Spotlight pillars, each containing KPIs and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cco-db-outcome-tab.png)
 
-![CCO Dashboard Operations tab with Throughput, Availability, Risk, and Performance pillars, each containing metrics and visualizations.](../image/cco-db-ops-tab.png)
+![CCO Dashboard Operations tab with Throughput, Availability, Risk, and Performance pillars, each containing metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cco-db-ops-tab.png)
 

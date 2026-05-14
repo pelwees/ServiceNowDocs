@@ -34,5 +34,5 @@ Ensure that you have installed Predictive Intelligence \(com.glide.platform\_ml\
     For more information about the Classification Definition form fields, see [Create and train classification solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md).
 
 
-**Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](lsd-PI-configure-landing.md)
+**Parent Topic:**[Configure Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-configure-landing.md)
 

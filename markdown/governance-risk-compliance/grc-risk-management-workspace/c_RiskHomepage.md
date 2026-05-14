@@ -37,5 +37,5 @@ The Risk Overview contains the following reports in the base system.
 |Inherent Risk Heatmap| | |
 |Residual Risk Heatmap| | |
 
-**Parent Topic:**[Using Risk Management](using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 

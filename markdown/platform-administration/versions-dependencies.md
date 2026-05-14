@@ -20,7 +20,7 @@ The ServiceNow Store supports up to two platform releases before the current pla
 
 However, it can't be guaranteed that new apps are compatible with any platform releases before the most current one. Available apps might, for example, be compatible with only Yokohama or with only Yokohama and Xanadu.
 
-If you find that your ServiceNow AI Platform release version is no longer supported in the ServiceNow Store, upgrade your instance to take advantage of recent features and improvements. For more information, see [Using ServiceNow AI Platform upgrade tools](../../general/concept/upgrade-now-platform.md).
+If you find that your ServiceNow AI Platform release version is no longer supported in the ServiceNow Store, upgrade your instance to take advantage of recent features and improvements. For more information, see [Using ServiceNow AI Platform upgrade tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../general/concept/upgrade-now-platform.md).
 
 ## Checking version compatibility
 
@@ -28,11 +28,11 @@ The app you want to procure must be compatible with your instance's platform rel
 
 Apps on the ServiceNow Store might be compatible with multiple ServiceNow AI Platform releases. Select **Version summary** from the navigation panel of the listing details or scroll to the version details section to determine platform release compatibility. You can select the platform release version that matches your instance by using the platform release drop-down menu.
 
-![Version details of an app listing details page, showing the options available in the platform release drop-down menu.](../image/store-version-compatibility.png "Platform release compatibility in an app listing details")
+![Version details of an app listing details page, showing the options available in the platform release drop-down menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/store-version-compatibility.png "Platform release compatibility in an app listing details")
 
 Some apps and integrations are available in more than one version. Each of these versions might be compatible with a different major platform release. Use the app version drop-down menu to view release notes and decide which version is right for your instance.
 
-![Version details of an app listing details page, showing the options available in the app version drop-down menu.](../image/store-other-app-versions.png "Accessing other app versions in app listing details")
+![Version details of an app listing details page, showing the options available in the app version drop-down menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/store-other-app-versions.png "Accessing other app versions in app listing details")
 
 ## About dependencies
 
@@ -46,7 +46,7 @@ Any app on the ServiceNow Store might have application dependencies or system pl
 
 -   **System plugin dependencies**
 
-    Must be activated on your instance before an app can be installed and can’t be obtained from the ServiceNow Store. Instead, plugins must be obtained through your ServiceNow license and version upgrades. For more information about plugins, see [ServiceNow plugins](../../plugins/concept/c_ServiceNowPlugins.md).
+    Must be activated on your instance before an app can be installed and can’t be obtained from the ServiceNow Store. Instead, plugins must be obtained through your ServiceNow license and version upgrades. For more information about plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../plugins/concept/c_ServiceNowPlugins.md).
 
 
 Each application dependency is listed with a symbol. The symbol indicates a category that describes how you can acquire the app dependency. App dependencies use the following categories.
@@ -67,7 +67,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Green check icon](../image/store-green-check.png)
+![Green check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/store-green-check.png)
 
 </td><td>
 
@@ -75,11 +75,11 @@ Application is available to install or update
 
 </td><td>
 
-This dependency is already entitled on your instance and is available to install through the Application Manager when you install the app that requires it. For more information about the Application Manager, see [Application Manager](../../application-manager/concept/application-manager.md).
+This dependency is already entitled on your instance and is available to install through the Application Manager when you install the app that requires it. For more information about the Application Manager, see [Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../application-manager/concept/application-manager.md).
 
 </td></tr><tr><td>
 
-![Red X icon](../image/store-red-x.png)
+![Red X icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/store-red-x.png)
 
 </td><td>
 
@@ -99,9 +99,9 @@ This app isn’t already entitled on your instance, and must be procured before 
 </td></tr></tbody>
 </table>## Unresolved dependencies in procured apps
 
-If you procured an app but it still can't be installed through the Application Manager, you might have unresolved dependencies. You can verify whether there are unresolved dependencies by logging in to the ServiceNow Store and returning to the app listing details. If an application dependency must be procured manually, a red x icon \(![Red X icon](../image/store-red-x.png)\) indicates that the app is unavailable to install in production.
+If you procured an app but it still can't be installed through the Application Manager, you might have unresolved dependencies. You can verify whether there are unresolved dependencies by logging in to the ServiceNow Store and returning to the app listing details. If an application dependency must be procured manually, a red x icon \(![Red X icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/store-red-x.png)\) indicates that the app is unavailable to install in production.
 
 The list of application dependencies contains links that direct you to the ServiceNow Store listing details for each app dependency. From the listing details, you can manually procure the required app.
 
-Plugin dependencies can't be resolved from the ServiceNow Store. For more information about managing plugins, see [ServiceNow plugins](../../plugins/concept/c_ServiceNowPlugins.md).
+Plugin dependencies can't be resolved from the ServiceNow Store. For more information about managing plugins, see [ServiceNow plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../plugins/concept/c_ServiceNowPlugins.md).
 

@@ -19,10 +19,10 @@ Schedule Optimization uses a dedicated service account `sharedservice.worker` to
 
 To add the role, navigate to **User Administration** &gt; **Users**, search by **User ID** for `sharedservice.worker`, and open the record. In the **Roles** related list, select **Edit** to add the roles required to grant read access to the fields and tables referenced in your task filter.
 
-**Parent Topic:**[Schedule Optimization components](schedule-optimization-components.md)
+**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 
 **Related topics**  
 
 
-[Create a scheduling attribute for Schedule Optimization](../task/configure-scheduling-attributes.md)
+[Create a scheduling attribute for Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/configure-scheduling-attributes.md)
 

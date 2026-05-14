@@ -29,7 +29,7 @@ Enable the project logging property in the Agile Jira Integration application.
 
 2.  Click the **Enable Integration Project Logging** check box.
 
-    ![Click the Yes|No check box to enable project logging.](../image/enable-logging-jira.png "Agile Jira Integration Properties")
+    ![Click the Yes|No check box to enable project logging.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../image/enable-logging-jira.png "Agile Jira Integration Properties")
 
 3.  Click **Save**.
 

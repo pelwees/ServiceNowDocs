@@ -17,7 +17,7 @@ View and manage procurement-related details such as procurement requests, purcha
 
 The Procurement view in the Enterprise Asset Workspace provides access to actions for managing your open requests, pending purchase orders and transfer orders, and requests that need manager approval.
 
-![Procurement view in the Enterprise Asset Workspace](../image/eam-procurement-view.png "Procurement view")
+![Procurement view in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eam-procurement-view.png "Procurement view")
 
 Select any widget or chart to view more specific details. You can also narrow down your results by using the **Location**, **Stockroom**, and **Domain** filters.
 

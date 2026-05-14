@@ -24,9 +24,9 @@ Email properties are available from either of these modules:
 
 ## Outbound S/MIME configuration
 
-For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](../task/upload-email-certificate.md) and [Upload a CA certificate](../task/upload-ca-certificate.md).
+For encryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-email-certificate.md) and [Upload a CA certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-ca-certificate.md).
 
-For signing, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](../task/import-smime-key-pair.md).
+For signing, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/import-smime-key-pair.md).
 
 <table id="table_uvv_2my_vtb"><thead><tr><th>
 
@@ -71,9 +71,9 @@ email.outbound.smime.encryption.algo
 </td></tr></tbody>
 </table>## Inbound S/MIME configuration
 
-For decryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](../task/upload-email-certificate.md) and [Upload a CA certificate](../task/upload-ca-certificate.md).
+For decryption, you must upload the email certificate for the recipients in PEM format and the CA certificates for the issuing authority. For more information, see [Upload an email certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-email-certificate.md) and [Upload a CA certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-ca-certificate.md).
 
-For signature verification, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](../task/import-smime-key-pair.md).
+For signature verification, you must upload the email account key pair in P12 format. For more information, see [Import an S/MIME key pair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/import-smime-key-pair.md).
 
 |Configuration|Related property|
 |-------------|----------------|
@@ -84,24 +84,24 @@ For signature verification, you must upload the email account key pair in P12 fo
 
 To digitally sign or encrypt your emails, go to **All** &gt; **Email** &gt; **Notifications**, select **New** and select the **Digitally sign your emails** check box for digitally signing emails and **Encrypt emails** check box for email encryptions.
 
-![Enable S/MIME for email notification form](../image/smime-email-form.png "Enable S/MIME for email notification form")
+![Enable S/MIME for email notification form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/smime-email-form.png "Enable S/MIME for email notification form")
 
-For more information, see [Create an email notification](../task/t_CreateANotification.md).
+For more information, see [Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateANotification.md).
 
 ## Enable S/MIME for email client
 
 In the compose email form, select the **Digitally sign your emails** check box for digitally signing emails and **Encrypt emails** check box for email encryptions.
 
-![Enable S/MIME for email client](../image/enable-smime-email.png "Enable S/MIME for email client")
+![Enable S/MIME for email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/enable-smime-email.png "Enable S/MIME for email client")
 
-**Parent Topic:**[Setting up S/MIME for email](smime-for-email-signing-and-encryption.md)
+**Parent Topic:**[Setting up S/MIME for email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
 
-[Import an S/MIME key pair](../task/import-smime-key-pair.md)
+[Import an S/MIME key pair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/import-smime-key-pair.md)
 
-[Upload a CA certificate](../task/upload-ca-certificate.md)
+[Upload a CA certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-ca-certificate.md)
 
-[Upload an email certificate](../task/upload-email-certificate.md)
+[Upload an email certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-email-certificate.md)
 

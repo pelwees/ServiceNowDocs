@@ -30,5 +30,5 @@ The **Support tools** tab provides tools to investigate and troubleshoot your in
 |Missing SNMP OID data|Checks for missing SNMP device OIDs from the SNMP data that cause the devices to be misclassified.|
 |SaCmdManager|Searches for information that might be needed when creating Discovery patterns.|
 
-**Parent Topic:**[Discovery Admin Workspace reference](r_discovery-admin-workspace-reference.md)
+**Parent Topic:**[Discovery Admin Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)
 

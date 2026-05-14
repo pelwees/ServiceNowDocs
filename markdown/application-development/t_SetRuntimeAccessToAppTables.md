@@ -49,5 +49,5 @@ displays applications downloaded on this instance.
 6.  Click **Update**.
 
 
-**Parent Topic:**[Runtime access to applications tables](../concept/c_RuntimeAccessToAppTables.md)
+**Parent Topic:**[Runtime access to applications tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_RuntimeAccessToAppTables.md)
 

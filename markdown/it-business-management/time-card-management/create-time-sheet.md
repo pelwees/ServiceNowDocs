@@ -72,7 +72,7 @@ Week starts on
 
 </td><td>
 
-Starting date of the week for which the time sheet is created.**Note:** The [time sheet policy](create-time-sheet-policy.md#time_sheet_policy_form) **Week starts on** controls the start day of the week.
+Starting date of the week for which the time sheet is created.**Note:** The [time sheet policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-time-sheet-policy.md#time_sheet_policy_form) **Week starts on** controls the start day of the week.
 
 </td></tr><tr><td>
 
@@ -120,12 +120,12 @@ Any additional information.
 
 ## What to do next
 
-Add time cards to the time sheet. You can use the related links and related list to add time cards. You can also add time cards using the [Time Sheet Portal](../concept/worker-portal.md).
+Add time cards to the time sheet. You can use the related links and related list to add time cards. You can also add time cards using the [Time Sheet Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/worker-portal.md).
 
 |Field|Description|
 |-----|-----------|
 |Generate Time Cards|Link to generate time cards for the assigned project tasks.|
-|Copy from previous time sheet|Link to open the **Copy Time Sheet** window for you to [copy the time cards](copy-time-sheet.md) from previous time sheets.|
+|Copy from previous time sheet|Link to open the **Copy Time Sheet** window for you to [copy the time cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/copy-time-sheet.md) from previous time sheets.|
 |Time Sheet Portal|Link to open the Time Sheet Portal to view and manage the time sheet.|
 
 <table id="table_p3s_zyz_2dc"><thead><tr><th>
@@ -145,5 +145,5 @@ Time Cards
 List of the time cards that are part of the time sheet. To create a time card, click **New**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Time Sheets](../concept/time-sheets.md)
+</table>**Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/time-sheets.md)
 

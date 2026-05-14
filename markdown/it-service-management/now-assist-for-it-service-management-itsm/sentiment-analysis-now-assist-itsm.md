@@ -40,7 +40,7 @@ Do this
 
 1.  Go to **All** &gt; **Incident** &gt; **All**.
 
-The incident list view appears.![Sentiment analysis Core UI list view](../image/now-assist-itsm-sentiment-trend-coreui-list.png)
+The incident list view appears.![Sentiment analysis Core UI list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-sentiment-trend-coreui-list.png)
 
 You can analyze the Sentiment and Sentiment trend for the incident list.
 
@@ -48,9 +48,9 @@ You can analyze the Sentiment and Sentiment trend for the incident list.
 
 The incident form view appears.
 
-3.  In the **Sentiment** field, select the information icon \(![Information icon](../../../administer/on-call-scheduling/image/icon-information.png)\) to see the reasons for the sentiment.
+3.  In the **Sentiment** field, select the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../administer/on-call-scheduling/image/icon-information.png)\) to see the reasons for the sentiment.
 
-![Sentiment analysis Core UI form view that displays the reasons for the sentiment](../image/now-assist-itsm-sentiment-trend-coreui-form.png)
+![Sentiment analysis Core UI form view that displays the reasons for the sentiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-sentiment-trend-coreui-form.png)
 
 **Note:** If the **Sentiment** field does not appear, you must configure the form layout. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) and add the **Sentiment** field.
 
@@ -61,18 +61,18 @@ The incident form view appears.
 </td><td>
 
 1.  Go to **Workspaces** &gt; **Service Operations Workspace**.
-2.  Select the list icon \(![List icon](../../../common/image/icon-list.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-list.png)\).
 3.  Go to **Incidents** &gt; **Open**.
 
-The Service Operations Workspace for ITSM list view appears.![Sentiment analysis incident list view](../image/now-assist-itsm-sentiment-trend-sow-list.png)
+The Service Operations Workspace for ITSM list view appears.![Sentiment analysis incident list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-sentiment-trend-sow-list.png)
 
 4.  Select an incident.
 
 The Service Operations Workspace for ITSM form view appears.
 
-5.  Select the information icon \(![Information icon](../../../administer/on-call-scheduling/image/icon-information.png)\) to see the reasons for the sentiment.
+5.  Select the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../administer/on-call-scheduling/image/icon-information.png)\) to see the reasons for the sentiment.
 
-![Sentiment analysis incident form view that displays the reasons for the sentiment](../image/now-assist-itsm-sentiment-trend-sow-form.png)
+![Sentiment analysis incident form view that displays the reasons for the sentiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-sentiment-trend-sow-form.png)
 
 **Note:** If the **Sentiment** field does not appear, you must configure the form layout. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) and add the **Sentiment** field.
 
@@ -82,6 +82,6 @@ The Service Operations Workspace for ITSM form view appears.
 3.  Manually refresh a sentiment.
 
     1.  In the Core UI or in Service Operations Workspace for ITSM, enter a comment in the Additional Comments field.
-    2.  In the Service Operations Workspace for ITSM interface, a red dot appears on the information icon \(![Information icon](../../../administer/on-call-scheduling/image/icon-information.png)\) next to the sentiment.
-    3.  Select the information icon \(![Information icon](../../../administer/on-call-scheduling/image/icon-information.png)\) and then select the refresh icon \(![Refresh icon](../../site-reliability-ops/image/icon-refresh.png)\) to see the updated sentiment and sentiment trend.
+    2.  In the Service Operations Workspace for ITSM interface, a red dot appears on the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../administer/on-call-scheduling/image/icon-information.png)\) next to the sentiment.
+    3.  Select the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../administer/on-call-scheduling/image/icon-information.png)\) and then select the refresh icon \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../site-reliability-ops/image/icon-refresh.png)\) to see the updated sentiment and sentiment trend.
 

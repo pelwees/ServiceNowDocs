@@ -91,7 +91,7 @@ Medium
 
 </td><td>
 
-Catalog items, record producers, order guidesFor a list of included generative, development, and summarization skills, see [AI-assisted app creation with Now Assist for Creator](vibe-code-now-assist-creator.md).
+Catalog items, record producers, order guidesFor a list of included generative, development, and summarization skills, see [AI-assisted app creation with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vibe-code-now-assist-creator.md).
 
 </td><td>
 

@@ -15,7 +15,7 @@ breadcrumb: [Use HAM advisor, CMDB success advisor, Configuration Management Dat
 
 The Remediation actions panel available for a chart in the CMDB success advisor dashboard for Hardware Asset Management \(HAM\) suggests targeted actions to improve the overall quality of your Configuration Management Database \(CMDB\).
 
-![Example actions in the remediation actions panel shown for virtual CIs with asset.](../image/cmdb-sa-ham-remediation-actions.png "Remediation actions panel")
+![Example actions in the remediation actions panel shown for virtual CIs with asset.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/cmdb-sa-ham-remediation-actions.png "Remediation actions panel")
 
 When remediation actions are available for a chart, the Remediation actions panel appears on the KPI Details page.
 

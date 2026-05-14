@@ -27,8 +27,8 @@ Role required: sn\_imt\_checkin.checkin\_admin or sn\_imt\_tracing.admin
 
     -   If employees have responded, the status is **Acknowledged**.
     -   If employees have not responded yet, the status is **Not Acknowledged**.
-    The **Notification count** field shows the number of times the notification is sent to the employees who have not yet responded. You can [send the notification](configure-outreach-notif-daily-log.md) again only to employees who have not yet responded.
+    The **Notification count** field shows the number of times the notification is sent to the employees who have not yet responded. You can [send the notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notif-daily-log.md) again only to employees who have not yet responded.
 
 
-**Parent Topic:**[Tracking employee contacts using daily logs](../concept/employee-daily-log.md)
+**Parent Topic:**[Tracking employee contacts using daily logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/employee-daily-log.md)
 

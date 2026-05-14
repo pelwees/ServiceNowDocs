@@ -23,5 +23,5 @@ The tutorial covers the following items:
 
 [The full lab is available on GitBook](https://app.gitbook.com/o/wXJhB7H8YqI7f2lOgBuI/s/8GSztRJHwYvNgG0Llnct/overview/lab-overview) \(you may be required to log in\).
 
-**Parent Topic:**[Exploring Build Agent](exploring-build-agent.md)
+**Parent Topic:**[Exploring Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-build-agent.md)
 

@@ -60,7 +60,7 @@ This approach enables CSPs to stay agile and reduce time to value when expanding
 **Related topics**  
 
 
-[Configure Telecom Visibility](../task/configuring-tsom-visibility.md)
+[Configure Telecom Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/configuring-tsom-visibility.md)
 
-[Use Telecom Discovery patterns](using-telecom-discovery-patterns.md)
+[Use Telecom Discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/using-telecom-discovery-patterns.md)
 

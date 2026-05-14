@@ -21,23 +21,23 @@ You can automatically create change requests from your Continuous Integration \(
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that DevOps Change offers](dev-ops-landing-page.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../../reuse/icons/brand-icons/bus-explore.svg) Learn the key features and business value that DevOps Change offers](dev-ops-landing-page.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up the core configuration](setting-up-devops-change-velocity.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up the core configuration](setting-up-devops-change-velocity.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate DevOps Change Velocity with your DevOps toolchain](integrating-devops-change-with-third-party-tools.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate DevOps Change Velocity with your DevOps toolchain](integrating-devops-change-with-third-party-tools.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-manage.svg)Use DevOps Change Velocity to automate change request creation in your pipeline](dev-ops-change-acceleration.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../../reuse/icons/brand-icons/bus-manage.svg)Use DevOps Change Velocity to automate change request creation in your pipeline](dev-ops-change-acceleration.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, form fields, and general guidelines](../reference/devops-change-velocity-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components, form fields, and general guidelines](../reference/devops-change-velocity-reference.md)
 
 </td><td>
 

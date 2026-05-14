@@ -53,7 +53,7 @@ To add the catalog item to the shopping cart, click **Add to Cart**.
 
 </td><td>
 
-To add the catalog item to the wish list, click the Add to Wish List icon \(![Icon to add to the wish list](../image/SPWishList.png)\).
+To add the catalog item to the wish list, click the Add to Wish List icon \(![Icon to add to the wish list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/SPWishList.png)\).
 
 </td></tr></tbody>
 </table>6.  Click **Order Now**.
@@ -71,5 +71,5 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(![Ic
     The corresponding request is displayed in the My Requests page with the request number, estimated delivery date for the order, price, and the order status.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-in-ec.md)
 

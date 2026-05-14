@@ -45,7 +45,7 @@ Role required: sn\_eam.enterprise\_admin
 
     2.  If you already haven't opted in to share the data with ServiceNow content service, select **opt-in** and refresh the Manage Enterprise Library page.
 
-        For details on opting-in, see [Opt-in to Enterprise Asset Management Content Service](optin-cs-eam.md).
+        For details on opting-in, see [Opt-in to Enterprise Asset Management Content Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/optin-cs-eam.md).
 
     3.  Select **Run Export**.
 

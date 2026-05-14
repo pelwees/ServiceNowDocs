@@ -23,7 +23,7 @@ Role required: itil, sn\_service\_desk\_agent
 
 1.  Open an incident.
 
-    For information about creating an incident in Service Operations Workspace, see [Create an incident in Service Operations Workspace](create-incident-sow.md).
+    For information about creating an incident in Service Operations Workspace, see [Create an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-incident-sow.md).
 
 2.  Perform any of the following actions on the incident record page.
 
@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-Select **Create change request**. See [Create a change request in Service Operations Workspace](create-change-sow.md).
+Select **Create change request**. See [Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-sow.md).
 
 </td></tr><tr><td id="d74516e99">
 
@@ -65,7 +65,7 @@ From the drop-down next to **Create outage**, select **Create outage**.
 
 </td><td>
 
-From the drop-down next to **Create problem**, select **Create problem**. See [Create a problem in Service Operations Workspace](create-problem-sow.md).
+From the drop-down next to **Create problem**, select **Create problem**. See [Create a problem in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-problem-sow.md).
 
 </td></tr><tr><td id="d74516e152">
 
@@ -73,7 +73,7 @@ From the drop-down next to **Create problem**, select **Create problem**. See [C
 
 </td><td>
 
-From the drop-down next to **Create request**, select **Create request**. See [Create a catalog request in Service Operations Workspace](create-catalog-request-sow.md).
+From the drop-down next to **Create request**, select **Create request**. See [Create a catalog request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-catalog-request-sow.md).
 
 </td></tr><tr><td id="d74516e180">
 
@@ -97,7 +97,7 @@ Select **Assign to me**.
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Book Walk-up Appointment**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Book Walk-up Appointment**.
 
 </td></tr><tr><td id="d74516e225">
 
@@ -105,7 +105,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Compose Email**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Compose Email**.
 
 </td></tr><tr><td id="d74516e246">
 
@@ -113,7 +113,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Copy URL**. You can then share the URL with other agents.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Copy URL**. You can then share the URL with other agents.
 
 </td></tr><tr><td id="d74516e268">
 
@@ -121,7 +121,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Copy Incident**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Copy Incident**.
 
 </td></tr><tr><td id="d74516e289">
 
@@ -129,7 +129,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Promote to Major Incident**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Promote to Major Incident**.
 
 </td></tr><tr><td id="d74516e310">
 
@@ -137,7 +137,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Propose Major Incident**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Propose Major Incident**.
 
 </td></tr><tr><td id="d74516e331">
 
@@ -145,7 +145,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Report Knowledge Gap** to create a Knowledge Feedback Task \(KFT\) record. When the record is created, the success message containing the link to the KFT record, is displayed. You can select the link to open the KFT record on a separate tab within the incident view. You can also view the KFT record from the Knowledge Gaps related list on the **Related records** tab. You can use the KFT record to create a knowledge article.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Report Knowledge Gap** to create a Knowledge Feedback Task \(KFT\) record. When the record is created, the success message containing the link to the KFT record, is displayed. You can select the link to open the KFT record on a separate tab within the incident view. You can also view the KFT record from the Knowledge Gaps related list on the **Related records** tab. You can use the KFT record to create a knowledge article.
 
 </td></tr><tr><td id="d74516e357">
 
@@ -153,7 +153,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-Select the **More actions** icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and then select **Delete**.
+Select the **More actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then select **Delete**.
 
 </td></tr><tr><td id="d74516e378">
 
@@ -161,7 +161,7 @@ Select the **More actions** icon \(![more actions icon](../../itsm-workspace/ima
 
 </td><td>
 
-From the contextual side panel, select the **Recommendations** icon \(![recommendations icon](../image/recommendation-icon.png)\). See [Recommendation Framework in Service Operations Workspace](../concept/recommendation-framework-sow.md).
+From the contextual side panel, select the **Recommendations** icon \(![recommendations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/recommendation-icon.png)\). See [Recommendation Framework in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/recommendation-framework-sow.md).
 
 </td></tr><tr><td id="d74516e404">
 
@@ -169,7 +169,7 @@ From the contextual side panel, select the **Recommendations** icon \(![recommen
 
 </td><td>
 
-From the contextual side panel, select the **Record Information** icon \(![record Information icon](../image/record-info-icon.png)\).Select the **Contact** option to view the caller information such as name, location \(address\), email id and so on.
+From the contextual side panel, select the **Record Information** icon \(![record Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/record-info-icon.png)\).Select the **Contact** option to view the caller information such as name, location \(address\), email id and so on.
 
  The following options are available based on the **Assignment group** and **Assigned to** fields of the incident.
 
@@ -186,7 +186,7 @@ If the logged-in user is a member of multiple assignment groups, the following s
 
     -   If the user is a member of that assignment group, the **Assigned to** field retains the logged-in user.
     -   If the user is not a member of that assignment group, the **Assigned to** field becomes empty.
-For more information, see [Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md).
+For more information, see [Viewing incident record information using the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/view-inc-record-info-contextual-sidepanel.md).
 
 </td></tr><tr><td id="d74516e495">
 
@@ -194,7 +194,7 @@ For more information, see [Viewing incident record information using the Context
 
 </td><td>
 
-1.  From the contextual side panel, select the **Agent assist** icon \(![agent assist icon](../image/agent-assist-icon.png)\).
+1.  From the contextual side panel, select the **Agent assist** icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/agent-assist-icon.png)\).
 2.  Search for a resource and perform the required action, for example, link the change to an incident.
 
 
@@ -204,7 +204,7 @@ For more information, see [Viewing incident record information using the Context
 
 </td><td>
 
-From the contextual side panel, select the **Experts on-call** icon \(![experts on-call icon](../image/experts-on-call.png)\). See [On-call support for an incident in Service Operations Workspace](../concept/on-call-sow.md#).
+From the contextual side panel, select the **Experts on-call** icon \(![experts on-call icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/experts-on-call.png)\). See [On-call support for an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/on-call-sow.md#).
 
 </td></tr><tr><td id="d74516e547">
 
@@ -212,7 +212,7 @@ From the contextual side panel, select the **Experts on-call** icon \(![experts 
 
 </td><td>
 
-From the contextual side panel, select the **On-call escalations** icon ![on-call escalations icon](../image/on-call-escalation.png)\). See [On-call support for an incident in Service Operations Workspace](../concept/on-call-sow.md#).
+From the contextual side panel, select the **On-call escalations** icon ![on-call escalations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/on-call-escalation.png)\). See [On-call support for an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/on-call-sow.md#).
 
 </td></tr><tr><td id="d74516e572">
 
@@ -220,7 +220,7 @@ From the contextual side panel, select the **On-call escalations** icon ![on-cal
 
 </td><td>
 
-From the contextual side panel, select the **Collaborate** icon \(![collaborate icon](../image/collaborate-sidebar.png)\). See [ServiceNow integrations with Microsoft Teams in Service Operations Workspace](../concept/msteams-sow.md).
+From the contextual side panel, select the **Collaborate** icon \(![collaborate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/collaborate-sidebar.png)\). See [ServiceNow integrations with Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/msteams-sow.md).
 
 </td></tr><tr><td id="d74516e609">
 
@@ -228,7 +228,7 @@ From the contextual side panel, select the **Collaborate** icon \(![collaborate 
 
 </td><td>
 
-From the contextual side panel, select the **Attachments** icon \(![attachments icon](../../itsm-workspace/image/attachment-icon.png)\).**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
+From the contextual side panel, select the **Attachments** icon \(![attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/attachment-icon.png)\).**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
 
 </td></tr><tr><td id="d74516e634">
 
@@ -244,7 +244,7 @@ From the contextual side panel, select the **Action library** \(![](../../digita
 
 </td><td>
 
-From the contextual side panel, select the **Templates** icon \(![templates icon](../image/template-icon.png)\) and create a template or reuse an existing one.
+From the contextual side panel, select the **Templates** icon \(![templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/template-icon.png)\) and create a template or reuse an existing one.
 
 </td></tr><tr><td id="d74516e674">
 
@@ -252,7 +252,7 @@ From the contextual side panel, select the **Templates** icon \(![templates icon
 
 </td><td>
 
-From the contextual side panel, select the **Playbook** icon \(![Playbook icon](../image/playbook_icon.png)\) to open the playbook and execute the remedial actions on a separate panel. For more information, see [Remedial actions using Playbook](../concept/remedial-actions-playbook.md).
+From the contextual side panel, select the **Playbook** icon \(![Playbook icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/playbook_icon.png)\) to open the playbook and execute the remedial actions on a separate panel. For more information, see [Remedial actions using Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/remedial-actions-playbook.md).
 
 </td></tr><tr><td id="d74516e699">
 
@@ -260,28 +260,28 @@ From the contextual side panel, select the **Playbook** icon \(![Playbook icon](
 
 </td><td>
 
-From the contextual side panel, select the **Response template** icon \(![Response template icon](../image/sow-response-template-icon.png)\) to open and use available the response message templates as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. Some of the response templates available in the base system include Need more information and Schedule meeting response templates. The response templates can be used with communication channels such as form channel, SMS and email. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
+From the contextual side panel, select the **Response template** icon \(![Response template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-response-template-icon.png)\) to open and use available the response message templates as reusable messages that you can copy and paste in the required areas such as email or chat for a quick response. To use the response template feature, the users must have the sn\_templated\_snip.template\_snippet\_reader role. Some of the response templates available in the base system include Need more information and Schedule meeting response templates. The response templates can be used with communication channels such as form channel, SMS and email. For more information on defining and configuring the response templates for incident tables in Service Operations Workspace, see [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/incident-sow.md)
 
 **Related topics**  
 
 
-[Create an incident in Service Operations Workspace](create-incident-sow.md)
+[Create an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-incident-sow.md)
 
-[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
+[View and update incident information on the Overview tab in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/view-inc-record-info-contextual-sidepanel.md)
 
-[Work on an incident list page in Service Operations Workspace](work-incident-list-page-sow.md)
+[Work on an incident list page in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-incident-list-page-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/remedial-actions-playbook.md)
 
-[Close resolved incident](close-resolved-incident-sow.md)
+[Close resolved incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/close-resolved-incident-sow.md)
 
-[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
+[Reopen an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-im-reference.md)
 

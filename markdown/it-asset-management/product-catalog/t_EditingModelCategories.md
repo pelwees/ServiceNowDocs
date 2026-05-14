@@ -32,16 +32,16 @@ Role required: model\_manager
 4.  Click **Update**.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ModelCategories.md)
 
 **Related topics**  
 
 
-[View model categories](t_ViewingModelCategories.md)
+[View model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewingModelCategories.md)
 
-[Create model categories](t_CreatingModelCategories.md)
+[Create model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingModelCategories.md)
 
-[Create assets manually](t_CreatingAssetsManually.md)
+[Create assets manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingAssetsManually.md)
 
-[Delete model categories](t_DeletingModelCategories.md)
+[Delete model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_DeletingModelCategories.md)
 

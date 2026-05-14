@@ -43,7 +43,7 @@ An automated manifest file generator on the new Microsoft Teams UI automatically
 
 3.  On the Channels and integrations page, in the Microsoft Teams tile, select **Manage**.
 
-4.  In the Self-configured bot section, select the **Manage Bot** icon ![Manage Bot icon.](../images/manage-bot-icon.png).
+4.  In the Self-configured bot section, select the **Manage Bot** icon ![Manage Bot icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-bot-icon.png).
 
     If you haven't enabled Message Extension and you are accessing it for the first time, you see a Turn on new feature alert message that informs you that the Message Extension feature for your Microsoft Teams integration is now available to be turned on.
 
@@ -153,9 +153,9 @@ Message Extension or Copilot
 
 </td><td>
 
-This section allows you to activate Message extension if your bot is set up for NLU/Keyword, or activate Copilot if your bot is set up for for LLM. \(For more information on activating LLM for your bot, see [Display your chat assistant on a portal, channel, or mobile app](../../now-assist-in-va/task/display-assistant-portal-channel.md).\)-   The Message extension check box appears if you configure your bot for NLU/Keyword. Message extension lets users search and share the results through the compose message area of the Microsoft Teams client.
+This section allows you to activate Message extension if your bot is set up for NLU/Keyword, or activate Copilot if your bot is set up for for LLM. \(For more information on activating LLM for your bot, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/task/display-assistant-portal-channel.md).\)-   The Message extension check box appears if you configure your bot for NLU/Keyword. Message extension lets users search and share the results through the compose message area of the Microsoft Teams client.
 
-If you're using this bot for Microsoft Copilot, then ensure that you enable **Message Extension**. ![Now Assist in Virtual Agent conversation with Microsoft Copilot displaying the Message Extension enabled.](../images/message-extension-teams.png)
+If you're using this bot for Microsoft Copilot, then ensure that you enable **Message Extension**. ![Now Assist in Virtual Agent conversation with Microsoft Copilot displaying the Message Extension enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/message-extension-teams.png)
 
 By enabling Message Extension for an app or bot, you will see the same app or bot in the message extension area while your conversation with the Now Assist using Microsoft Copilot.
 
@@ -163,7 +163,7 @@ By enabling Message Extension for an app or bot, you will see the same app or bo
 
 The Sample Prompts window appears when you select the Copilot check box. Enter your prompts to your bot here to have the LLM follow those instructions.
 
-![With LLM activated for your bot, Copilot replaces the Message extension option, and lets you enter prompts through a Sample Prompts window.](../images/configure-bot-copilot.png)
+![With LLM activated for your bot, Copilot replaces the Message extension option, and lets you enter prompts through a Sample Prompts window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/configure-bot-copilot.png)
 
 </td></tr></tbody>
 </table>    For more details about each field, refer to [Microsoft Teams documentation](https://learn.microsoft.com/en-us/microsoftteams/platform/resources/schema/manifest-schema).
@@ -185,7 +185,7 @@ The Sample Prompts window appears when you select the Copilot check box. Enter y
 
 ## What to do next
 
-[Upload the manifest package file to publish your bot](upload-package-file-msteams.md).
+[Upload the manifest package file to publish your bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/upload-package-file-msteams.md).
 
-**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](../concept/va-integ-teams-self-configured-bot.md)
+**Parent Topic:**[Integrating Virtual Agent with Microsoft Teams using the self-configured bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-teams-self-configured-bot.md)
 

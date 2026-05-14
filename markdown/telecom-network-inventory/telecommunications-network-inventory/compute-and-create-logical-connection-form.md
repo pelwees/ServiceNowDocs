@@ -128,5 +128,5 @@ Allowed physical connection model
 Filter that captures all the supported models for the physical connection.**Note:** The list of available physical connection model changes when the **Logical connection model** is selected from the **Model relationship** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[GPON Broadband Change model forms](gpon-broadband-change-model-forms.md)
+</table>**Parent Topic:**[GPON Broadband Change model forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-broadband-change-model-forms.md)
 

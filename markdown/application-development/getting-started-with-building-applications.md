@@ -17,12 +17,12 @@ Using the ServiceNow Creator Workflow products, you can create intuitive experie
 
 Use this document to discover how to:
 
--   [Find all ServiceNow developer products](../../applications/concept/dev-ex-overview.md)
--   [Understand low-code and pro-code development](low-vs-pro-code.md)
--   [Understand ServiceNow licenses](../reference/licensing.md)
--   [Get support as a developer](../../applications/reference/r_support-servicenow-developers.md)
--   [Understand the various ServiceNow user interfaces](../../applications/concept/understand-different-ui-experiences.md)
--   [Learn the basics of being a developer](software-dev-cycle.md)
+-   [Find all ServiceNow developer products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/dev-ex-overview.md)
+-   [Understand low-code and pro-code development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/low-vs-pro-code.md)
+-   [Understand ServiceNow licenses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/licensing.md)
+-   [Get support as a developer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/reference/r_support-servicenow-developers.md)
+-   [Understand the various ServiceNow user interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/understand-different-ui-experiences.md)
+-   [Learn the basics of being a developer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/software-dev-cycle.md)
 
 Please use the reader feedback feature to suggest additional topics.
 

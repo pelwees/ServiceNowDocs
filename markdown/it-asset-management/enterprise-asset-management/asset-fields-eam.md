@@ -250,7 +250,7 @@ RFID tag
 
 </td><td>
 
-Real-time radio-frequency identification \(RFID\) tag that is associated with the asset. See [Zebra MotionWorks RFID integration for Enterprise Asset Management](../concept/eam-zebra-rfid-integration.md) for more information on RFID tags.**Note:** If this asset is a child of another asset and does not contain its own RFID tag, the **RFID tag** field populates with the RFID tag of the parent asset. If you remove the parent asset, the **RFID tag** field is cleared for this asset.
+Real-time radio-frequency identification \(RFID\) tag that is associated with the asset. See [Zebra MotionWorks RFID integration for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/eam-zebra-rfid-integration.md) for more information on RFID tags.**Note:** If this asset is a child of another asset and does not contain its own RFID tag, the **RFID tag** field populates with the RFID tag of the parent asset. If you remove the parent asset, the **RFID tag** field is cleared for this asset.
 
 </td></tr><tr><td>
 
@@ -516,7 +516,7 @@ RFID tag
 
 </td><td>
 
-Real-time radio-frequency identification \(RFID\) tag that is associated with the asset. For more information on RFID tags, see [Zebra MotionWorks RFID integration for Enterprise Asset Management](../concept/eam-zebra-rfid-integration.md).
+Real-time radio-frequency identification \(RFID\) tag that is associated with the asset. For more information on RFID tags, see [Zebra MotionWorks RFID integration for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/eam-zebra-rfid-integration.md).
 
 </td></tr><tr><td>
 
@@ -654,7 +654,7 @@ Status
 
 Status of mapping RFID location data to the asset. If the data is successfully mapped to the asset, this field is set to **Matched**. If the data is not mapped to the asset, this field is set to **Unmatched**.**Important:** RFID location data can be mapped to the asset only if you select the **Active** option in the RFID form section.
 
- **Tip:** You can view and take action on the asset records that have an RFID **Status** of **Unmatched** by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise asset estate view. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](../concept/asset-estate-overview-eam.md).
+ **Tip:** You can view and take action on the asset records that have an RFID **Status** of **Unmatched** by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise asset estate view. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/asset-estate-overview-eam.md).
 
 </td></tr></tbody>
 </table><table id="table_ydm_ggh_nrb"><thead><tr><th>
@@ -680,48 +680,48 @@ Work notes are updated for the following cases: -   Updates to **Assigned To**, 
 |DaaS asset|Option that indicates if the given asset is a Device as a Service \(DaaS\) asset.|
 |DaaS account|DaaS account that the asset is leased to.|
 
-**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/domain-separation-eam.md)
 
-[Enterprise Asset Management roles](eam-roles.md)
+[Enterprise Asset Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-roles.md)
 
-[OT Asset Workspace roles](ot-workspace-roles.md)
+[OT Asset Workspace roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-workspace-roles.md)
 
-[Asset audit fields for enterprise assets](asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-audit-record-fields-eam.md)
 
-[Audit results](audit-results-eam.md)
+[Audit results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/audit-results-eam.md)
 
-[Enterprise model categories and corresponding classes](enterprise-model-categories.md)
+[Enterprise model categories and corresponding classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-categories.md)
 
-[Mandatory fields in the bulk import spreadsheets](mandatory-bulk-fields.md)
+[Mandatory fields in the bulk import spreadsheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/mandatory-bulk-fields.md)
 
-[Normalization status for enterprise models](norm-status-eam.md)
+[Normalization status for enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/norm-status-eam.md)
 
-[Model fields for Enterprise Asset Management](eam-model-fields.md)
+[Model fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-model-fields.md)
 
-[Contract fields for Enterprise Asset Management](contract-fields-eam.md)
+[Contract fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/contract-fields-eam.md)
 
-[Maintenance plan fields for Enterprise Asset Management](maintenance-plan-fields-eam.md)
+[Maintenance plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/maintenance-plan-fields-eam.md)
 
-[Maintenance schedule fields for Enterprise Asset Management](maintenance-schedule-fields-eam.md)
+[Maintenance schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/maintenance-schedule-fields-eam.md)
 
-[Work plan fields for Enterprise Asset Management](wp-fields-eam.md)
+[Work plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/wp-fields-eam.md)
 
-[Work plan schedule fields for Enterprise Asset Management](work-plan-schedule-fields-eam.md)
+[Work plan schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/work-plan-schedule-fields-eam.md)
 
-[Expense line fields for Enterprise Asset Management](expense-line-fields-eam.md)
+[Expense line fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/expense-line-fields-eam.md)
 
-[Fields inherited from a parent asset group to a sub group](subgroups-parent-fields-eam.md)
+[Fields inherited from a parent asset group to a sub group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/subgroups-parent-fields-eam.md)
 
-[Enterprise asset disposal order stages](eamasset-disposalorder-stages.md)
+[Enterprise asset disposal order stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eamasset-disposalorder-stages.md)
 
-[Terminology for linear assets](terms-eam.md)
+[Terminology for linear assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/terms-eam.md)
 
-[Scheduled jobs and tables installed with normalization of firmware models](firmware-tables-jobs-ot.md)
+[Scheduled jobs and tables installed with normalization of firmware models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/firmware-tables-jobs-ot.md)
 
-[Asset put away task fields](put-away-task-form-eam.md)
+[Asset put away task fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/put-away-task-form-eam.md)
 

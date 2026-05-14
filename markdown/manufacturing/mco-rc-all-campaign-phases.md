@@ -23,8 +23,8 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  Create a recall campaign phase by referring to [Create My campaign phases](mco-rc-my-campaign-phases.md).
+3.  Create a recall campaign phase by referring to [Create My campaign phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaign-phases.md).
 
 
-**Parent Topic:**[Recall management](mco-recall-management.md)
+**Parent Topic:**[Recall management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-management.md)
 

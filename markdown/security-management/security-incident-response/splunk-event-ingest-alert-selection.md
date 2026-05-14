@@ -45,7 +45,7 @@ View the available alerts in your ServiceNow AI Platform instance so you know wh
     |In the Alert List, double-click an Alert.|The **Selected** column is populated with your selection.|
     |In the Alert List, single-click an alarm rule.|The alarm is selected. With the arrow keys, move the selected alert from **Available** to **Selected**.|
 
-    ![Select an alert for a scheduled event profile.](../image/splunk-event-ingestion-alerts-selection.png)
+    ![Select an alert for a scheduled event profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-event-ingestion-alerts-selection.png)
 
 4.  Choose one option to continue.
 
@@ -95,5 +95,5 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 
 You have successfully selected an alert for a scheduled alert profile. The next step is map alert values to fields on a security incident.
 
-**Parent Topic:**[Create and name an event profile](splunk-event-ingest-create-profile.md)
+**Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile.md)
 

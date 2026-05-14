@@ -39,5 +39,5 @@ Role required: cmdb\_inst\_admin
 **Related topics**  
 
 
-[Identification and Reconciliation Engine \(IRE\)](../concept/ire.md)
+[Identification and Reconciliation Engine \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/../concept/ire.md)
 

@@ -17,7 +17,7 @@ Enable loading of the AI Search Analytics dashboard by configuring Service Porta
 
 ## Before you begin
 
-The Platform Analytics Solution for Advanced AI Search Management Tools must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](install-adv-ais-mgmt-tools.md).
+The Platform Analytics Solution for Advanced AI Search Management Tools must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-adv-ais-mgmt-tools.md).
 
 Role required: admin
 

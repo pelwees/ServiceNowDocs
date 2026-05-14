@@ -25,9 +25,9 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap the assignment group or territory that the agent you want to assign a task to is part of.
 
-3.  Tap the clipboard icon \(![clipboard](../image/manager-clipboard.png)\) next to an agent.
+3.  Tap the clipboard icon \(![clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/manager-clipboard.png)\) next to an agent.
 
-4.  Tap the more actions icon \(![more actions](../image/more-action-mobile-dark.png)\).
+4.  Tap the more actions icon \(![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/more-action-mobile-dark.png)\).
 
 5.  Tap **Create new work**.
 

@@ -15,11 +15,11 @@ You can install the Unattended Robot application in your Windows machine if you 
 
 ## Before you begin
 
-Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+Download and unzip the installation file for the Unattended Robot application. For more information, see [Download the RPA applications from RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/download-installer-rpa.md).
 
-![Download the Unattended Robot application from the RPA Downloads page.](../image/install-unattended-downloads-rpa.png "Download Unattended Robot application")
+![Download the Unattended Robot application from the RPA Downloads page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/install-unattended-downloads-rpa.png "Download Unattended Robot application")
 
-Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](../reference/requirements-unattended-robot.md).
+Ensure that you follow the hardware and software requirements. For more information, see [Requirements for Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/requirements-unattended-robot.md).
 
 Ensure that you meet the following set up requirements:
 
@@ -56,5 +56,5 @@ The installation of the Unattended Robot application is configured to function o
 
 ## What to do next
 
-Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](set-up-rpa-runtime.md).
+Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-runtime.md).
 

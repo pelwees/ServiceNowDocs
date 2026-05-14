@@ -50,5 +50,5 @@ Role required: admin
         The selected managers are granted access to the application.
 
 
-**Parent Topic:**[Admin Console in Workforce Optimization for ITSM](../concept/admin-console-wfo-itsm.md)
+**Parent Topic:**[Admin Console in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/admin-console-wfo-itsm.md)
 

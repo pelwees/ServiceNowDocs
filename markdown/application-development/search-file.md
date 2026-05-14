@@ -25,19 +25,19 @@ Role required: none
 
     You can also use a keyboard shortcut, Control+Shift+P in Windows or Command+Shift+P on MacOS, to open the command palette and choose **Now: Global Search** from the list.
 
-    ![Global Search File command](../image/vscode-globalsearch.png "Global File Search command")
+    ![Global Search File command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-globalsearch.png "Global File Search command")
 
 3.  Select the file group from the **Select File Group** list in the command palette on the top of the screen.
 
-    ![List of file groups](../image/vscode-filegroup.png "Select File Group list")
+    ![List of file groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-filegroup.png "Select File Group list")
 
 4.  Select the file type from the Select a File Type list in the command palette on the top of the screen.
 
-    ![Select a file type list](../image/vscode-filetype.png "Select a file type list")
+    ![Select a file type list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-filetype.png "Select a file type list")
 
 5.  Select files from the **Select files to download** list.
 
-    ![Select files to download list](../image/vscode-listoffiles.png "Select files to download list")
+    ![Select files to download list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-listoffiles.png "Select files to download list")
 
     You can select and download multiple files at a time.
 
@@ -51,13 +51,13 @@ Role required: none
 
     3.  Enter the number of records you want to see in the Fetch Records Max Limit settings.
 
-        ![Fetch Records Max Limit settings](../image/vs-code-file-search.png "Fetch Records Max Limit settings")
+        ![Fetch Records Max Limit settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vs-code-file-search.png "Fetch Records Max Limit settings")
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vs-code.md)
 
 **Related topics**  
 
 
-[Create a file in VS Code](vscode-create-file.md)
+[Create a file in VS Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vscode-create-file.md)
 

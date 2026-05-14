@@ -47,7 +47,7 @@ You can visualize the weekly trends using the widgets in the CISO dashboard. The
 
 3.  Select **CISO Dashboard** from the drop-down list.
 
-    ![CISO Overview dashboard](../image/ciso-dashboard-sir.png)
+    ![CISO Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ciso-dashboard-sir.png)
 
 4.  View the CISO dashboard for further action.
 

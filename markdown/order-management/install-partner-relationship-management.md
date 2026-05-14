@@ -80,12 +80,12 @@ Load the demo data after installing Partner Relationship Management.1.  Install 
 
 You have successfully installed the Partner Relationship Management application.
 
-**Parent Topic:**[Configure Partner Relationship Management](../concept/configure-partner-relationship-management.md)
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Roles and components of Partner Relationship Management](../concept/roles-and-components-of-partner-relationship-management.md)
+[Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/roles-and-components-of-partner-relationship-management.md)
 
-[Data model for Partner Relationship Management](../concept/data-model-for-partner-relationship-management.md)
+[Data model for Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/data-model-for-partner-relationship-management.md)
 

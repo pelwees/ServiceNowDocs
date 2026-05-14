@@ -29,7 +29,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
 3.  In the Integration Services list, select the subflows that you want to manually trigger.
 
-    ![Manually trigger flows or subflows in SAP (Inbound)](../../source-to-pay-operations/image/sap-integration-manual-trigger-flow.png "Manually trigger flows or subflows in SAP")
+    ![Manually trigger flows or subflows in SAP (Inbound)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-manual-trigger-flow.png "Manually trigger flows or subflows in SAP")
 
 4.  Select **Run job** to trigger the flow or subflow.
 
@@ -45,7 +45,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
     You can view the flows or subflows that you triggered.
 
-    ![View the list of Flows or subflows in Workflow Studio](../../source-to-pay-operations/image/sap-integration-manual-trigger-ws.png "Flows or subflows in Workflow Studio")
+    ![View the list of Flows or subflows in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-manual-trigger-ws.png "Flows or subflows in Workflow Studio")
 
 9.  You can use the trigger condition as a part of the base system to execute the flow or subflow.
 
@@ -54,18 +54,18 @@ Role required: sn\_fcms\_intg.integration\_user
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](../concept/configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for SAP](../concept/erp-source-configuration-sap.md)
+[ERP Source Configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/erp-source-configuration-sap.md)
 
-[Define ERP source configuration for SAP](define-erp-source-sap.md)
+[Define ERP source configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-sap.md)
 
-[Configure integration services for SAP](configure-service-maps-sap.md)
+[Configure integration services for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-sap.md)
 
-[Look up primary data in SAP](../concept/look-up-primary-data-sap.md)
+[Look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/look-up-primary-data-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/scheduled-jobs-to-primary-data-sap.md)
 

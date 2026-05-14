@@ -29,7 +29,7 @@ Activating the Now Assist Recommendations skill helps to search through all avai
 
 Access the Now Assist Recommendations skill from the Playbooks user interface.
 
-![Five sample playbook recommendations for a placeholder activity](../images/playbook-recommendations.png "Example Now Assist recommendations")
+![Five sample playbook recommendations for a placeholder activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/playbook-recommendations.png "Example Now Assist recommendations")
 
 The Now Assist Recommendations skill uses the name and description of the activity to generate one to five recommendations for the activity definition to use for a placeholder activity. If there are no recommendations listed, then no activity definitions are considered relevant to the activity name and description.
 
@@ -37,5 +37,5 @@ The Now Assist Recommendations skill uses the name and description of the activi
 
 This Generative AI large language model was pre-trained with internal ServiceNow playbooks to learn playbook creation patterns. The goal was to understand what playbook activities are most relevant for a certain position in a playbook given the trigger and previous activities.
 
-**Parent Topic:**[Playbook recommendations](playbook-recommendations-landing.md)
+**Parent Topic:**[Playbook recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/playbook-recommendations-landing.md)
 

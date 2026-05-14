@@ -25,7 +25,7 @@ All crews must have a leader. Dispatchers can assign a leader to a crew or use t
 
 If the dispatcher doesn’t assign the leader to a crew or indicate a required leader skill in the resource requirements, the skills included in the leader role are used to determine the crew leader. The skills are matched with the skills of the available agents.
 
-For more information on adding resource requirements to a task, see [Add resource requirements for a work order task](add-resource-requirement-wot.md).
+For more information on adding resource requirements to a task, see [Add resource requirements for a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/add-resource-requirement-wot.md).
 
 ## Procedure
 

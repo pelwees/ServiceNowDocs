@@ -37,9 +37,9 @@ Limits and behaviors \(visualization\):
 **Related topics**  
 
 
-[Integrating CPQ with visualization tools](logik-io-integration-wtih-visualization-tools.md)
+[Integrating CPQ with visualization tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik-io-integration-wtih-visualization-tools.md)
 
-[CPQ integration with Salesforce B2B Commerce](logik_io_integration_with_salesforce_b2b_commerce.md)
+[CPQ integration with Salesforce B2B Commerce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_io_integration_with_salesforce_b2b_commerce.md)
 
-[Request provisioning of an SFDC org with a CPQ environment](../task/cpq-request-provisioning-of-an-sfdc-org-with-a-servicenow-cpq-environment.md)
+[Request provisioning of an SFDC org with a CPQ environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-request-provisioning-of-an-sfdc-org-with-a-servicenow-cpq-environment.md)
 

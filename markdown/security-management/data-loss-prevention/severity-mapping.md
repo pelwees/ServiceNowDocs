@@ -41,8 +41,8 @@ DLP Severity mapping allows you to map the source severity with the DLP incident
 
 4.  Click **Submit**.
 
-    ![DLP Severity Mapping](../image/dlp-severity-mapping.png "Severity Mapping")
+    ![DLP Severity Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-severity-mapping.png "Severity Mapping")
 
 
-**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](../concept/symantec-dlp-integration.md)
+**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/symantec-dlp-integration.md)
 

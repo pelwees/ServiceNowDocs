@@ -25,16 +25,16 @@ Administrators must install the required applications, configure the agent in AI
 
 ## Procedure
 
-1.  [Install required applications for UI Builder Agent](configure-ui-builder-agent.md#)
+1.  [Install required applications for UI Builder Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#)
 
-2.  [Enable UI Builder Agent in AI Agent Studio](configure-ui-builder-agent.md#)
+2.  [Enable UI Builder Agent in AI Agent Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#)
 
-3.  [Enable the Now Assist panel](configure-ui-builder-agent.md#)
+3.  [Enable the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#)
 
-4.  [Activate the Now Assist Panel- Platform \(default\) assistant](configure-ui-builder-agent.md#)
+4.  [Activate the Now Assist Panel- Platform \(default\) assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#)
 
 
-**Parent Topic:**[Configuring UI generation](../concept/configuring-ui-generation.md)
+**Parent Topic:**[Configuring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/configuring-ui-generation.md)
 
 ## Install required applications for UI Builder Agent
 
@@ -85,7 +85,7 @@ Follow the UI Builder Agent setup wizard in AI Agent Studio to review and confir
 
 ### Before you begin
 
-Verify that you have installed all the required applications. See [Install required applications for UI Builder Agent](configure-ui-builder-agent.md#).
+Verify that you have installed all the required applications. See [Install required applications for UI Builder Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#).
 
 Role required: ui\_builder\_admin
 
@@ -230,7 +230,7 @@ The Now Assist Panel - Platform \(default\) assistant is the main system assista
 
 7.  Select **Activate**.
 
-    If you haven’t activated AI Search, an alert banner appears indicating that AI Search must be activated to turn on Now Assist in Virtual Agent. To activate AI Search, see [Activate AI search](configure-ui-builder-agent.md#).
+    If you haven’t activated AI Search, an alert banner appears indicating that AI Search must be activated to turn on Now Assist in Virtual Agent. To activate AI Search, see [Activate AI search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/configure-ui-builder-agent.md#).
 
     A success banner confirms that the Now Assist Panel- Platform \(default\) assistant is activated.
 

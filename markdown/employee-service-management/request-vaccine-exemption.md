@@ -43,5 +43,5 @@ Role required: none
 
 Your vaccine exemption request is submitted to your organization for an administrator or a managerto review.
 
-**Parent Topic:**[Vaccination Status](../concept/vaccination-status.md)
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/vaccination-status.md)
 

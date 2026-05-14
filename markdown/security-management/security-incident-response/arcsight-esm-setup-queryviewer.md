@@ -25,11 +25,11 @@ Role required: ArcSight Administrator
 
 2.  To create a new query, navigate to **File** &gt; **New** &gt; **Query**.
 
-    ![ArcSight ESM: Query Viewer Setup: Create](../image/sir-arcsight-query-viewer-setup2.png)
+    ![ArcSight ESM: Query Viewer Setup: Create](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup2.png)
 
 3.  Define conditions for the Query Viewer in the **Inspect/Edit** panel.
 
-    ![ArcSight ESM: Query Viewer Setup: Create: General](../image/sir-arcsight-query-viewer-setup3.png)
+    ![ArcSight ESM: Query Viewer Setup: Create: General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup3.png)
 
 <table id="choicetable_xs5_bvc_c5b"><thead><tr><th align="left" id="d208854e110">
 
@@ -82,7 +82,7 @@ The maximum number of events that can be ingested at a time. Specify a value tha
 </td></tr></tbody>
 </table>4.  Click on the **Fields** tab.
 
-    ![ArcSight ESM: Query Viewer Setup: Create: Fields](../image/sir-arcsight-query-viewer-setup4.png)
+    ![ArcSight ESM: Query Viewer Setup: Create: Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup4.png)
 
 5.  Select the fields that must be included during ingestion.
 
@@ -98,7 +98,7 @@ The maximum number of events that can be ingested at a time. Specify a value tha
 
     **Important:** Only correlation events will be retrieved; base events for correlations will not be retrieved.
 
-    ![ArcSight ESM: Query Viewer Setup: Select Type](../image/sir-arcsight-query-viewer-setup5.png)
+    ![ArcSight ESM: Query Viewer Setup: Select Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup5.png)
 
 10. Click **OK** to save the query.
 
@@ -106,7 +106,7 @@ The maximum number of events that can be ingested at a time. Specify a value tha
 
 11. Navigate to **File** &gt; **New** &gt; **Query Viewer**.
 
-    ![ArcSight ESM: Query Viewer Setup: Create Query Viewer](../image/sir-arcsight-query-viewer-setup6.png)
+    ![ArcSight ESM: Query Viewer Setup: Create Query Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup6.png)
 
     |Field Name|Description|
     |----------|-----------|
@@ -122,6 +122,6 @@ The maximum number of events that can be ingested at a time. Specify a value tha
 
 14. Click on the Query Viewer to see the data being ingested.
 
-    ![ArcSight ESM: Setup Query Viewer: Completed](../image/sir-arcsight-query-viewer-setup7.png)
+    ![ArcSight ESM: Setup Query Viewer: Completed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-query-viewer-setup7.png)
 
 

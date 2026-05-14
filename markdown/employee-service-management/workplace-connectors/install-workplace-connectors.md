@@ -62,9 +62,9 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configure Workplace Connectors](configure-workplace-connectors.md)
+**Parent Topic:**[Configure Workplace Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-workplace-connectors.md)
 
-**Previous topic:**[Configure Workplace Connectors](configure-workplace-connectors.md)
+**Previous topic:**[Configure Workplace Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-workplace-connectors.md)
 
-**Next topic:**[Configure sensor data providers](../task/providers-occupancy.md)
+**Next topic:**[Configure sensor data providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../task/providers-occupancy.md)
 

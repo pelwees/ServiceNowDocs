@@ -15,11 +15,11 @@ breadcrumb: [Explore, Enterprise Asset Management, IT Asset Management]
 
 The Enterprise Asset Management application supports enterprise model and asset classes that extend base classes within the Configuration Management Database \(CMDB\) class hierarchy. These extensions include class descriptions, identification rules, identifier entries, and dependent relationships.
 
-To access enterprise model and asset classes in the Enterprise Asset Management application, you must install the Expanded Model and Asset Classes application from the ServiceNow® Store. For more information on this application, see [Expanded Model and Asset Classes](enterprise-model-asset-classes-app.md).
+To access enterprise model and asset classes in the Enterprise Asset Management application, you must install the Expanded Model and Asset Classes application from the ServiceNow® Store. For more information on this application, see [Expanded Model and Asset Classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md).
 
 ## Supported enterprise model classes
 
-The Enterprise Asset Management application supports the Enterprise good model \[sn\_ent\_model\] class, Firmware model \[sn\_ent\_firmware\_model\] class, and Discovered firmware model \[sn\_ent\_discov\_firmware\_model\] class, which extend the base Product model \[cmdb\_model\] class. The Enterprise good model \[sn\_ent\_model\] class includes classifications for various enterprise model types, which are categorized into the following industry-based child classes:![Enterprise good model classes hierarchy.](../image/enterprise-model-classes-hierarchy.png)
+The Enterprise Asset Management application supports the Enterprise good model \[sn\_ent\_model\] class, Firmware model \[sn\_ent\_firmware\_model\] class, and Discovered firmware model \[sn\_ent\_discov\_firmware\_model\] class, which extend the base Product model \[cmdb\_model\] class. The Enterprise good model \[sn\_ent\_model\] class includes classifications for various enterprise model types, which are categorized into the following industry-based child classes:![Enterprise good model classes hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/enterprise-model-classes-hierarchy.png)
 
 <table id="table_o2v_sy5_25b"><thead><tr><th>
 
@@ -149,7 +149,7 @@ Reports in the Enterprise Asset Workspace that previously referred to the Classi
 
 ## Supported enterprise asset classes
 
-The Enterprise Asset Management application supports the Enterprise asset \[sn\_ent\_asset\] class, which extends the Base asset \[alm\_base\] class. The Enterprise asset \[sn\_ent\_asset\] class includes classifications for various enterprise asset types, which are categorized into the following industry-based child classes:![Enterprise asset classes hierarchy.](../image/enterprise-asset-classes-hierarchy.png)
+The Enterprise Asset Management application supports the Enterprise asset \[sn\_ent\_asset\] class, which extends the Base asset \[alm\_base\] class. The Enterprise asset \[sn\_ent\_asset\] class includes classifications for various enterprise asset types, which are categorized into the following industry-based child classes:![Enterprise asset classes hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/enterprise-asset-classes-hierarchy.png)
 
 <table id="table_kw5_dfv_25b"><thead><tr><th>
 

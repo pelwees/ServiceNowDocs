@@ -70,10 +70,10 @@ Child tasks are defined with the same relationships, each lasting for the same d
 4.  Select **Update**.
 
 
-**Parent Topic:**[Copy a project](t_CopyAProject.md)
+**Parent Topic:**[Copy a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyAProject.md)
 
 **Related topics**  
 
 
-[Copy a project](t_CopyAProject.md)
+[Copy a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyAProject.md)
 

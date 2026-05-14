@@ -435,12 +435,12 @@ Digital integration
 Digital integration associated with the demand.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring demands](../../concept/eaw-concept/eaw-demands.md)
+[Exploring demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-demands.md)
 
-[Add or edit a demand](../../task/eaw-task/eaw-create-demand-ba.md)
+[Add or edit a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-demand-ba.md)
 

@@ -17,7 +17,7 @@ CPQ administration APIs are useful to facilitate new product introduction, data 
 
 **Note:**
 
--   The release of admin API Keys has made this setup unnecessary and is now the recommended method of authentication of admin API calls. See [Intro to admin API keys](cpq-admin-api-keys.md).
+-   The release of admin API Keys has made this setup unnecessary and is now the recommended method of authentication of admin API calls. See [Intro to admin API keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md).
 -   The JWT method that was recommended before February 2025 has been deprecated by Salesforce. Instead, follow the updated steps in this article.
 
 The JWT can be used as a bearer token to authenticate CPQ administration APIs to manipulate managed tables, write rules, deploy blueprints, and more.
@@ -29,7 +29,7 @@ If youʼre updating an existing app, these instructions assume that youʼve crea
 1.  Go to Salesforce Setup, Apps → App Manager.
 2.  Create a new connected app, or update your existing JWT app to match the image below.
 
-    ![API settings](../images/cpq-apis-enable-oauth-settings.png)
+    ![API settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-enable-oauth-settings.png)
 
 3.  Click **Manage** in your JWT connected app.
 4.  Edit policies.
@@ -37,7 +37,7 @@ If youʼre updating an existing app, these instructions assume that youʼve crea
     -   There will be a second new section labeled JWT-Based Access Token Settings for Named Users. Check **Issue JSON Web Token \(JWT\)-based access tokens**, and select a default timeout.
     -   Click **Save**. Your policies should resemble the following:
 
-        ![OAuth Policies](../images/cpq-apis-policies.png)
+        ![OAuth Policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-policies.png)
 
 
 ## Generating the JWT

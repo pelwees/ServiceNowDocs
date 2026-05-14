@@ -29,7 +29,7 @@ Role required: none
 
 3.  On the Edit mentee preferences form, fill in the fields.
 
-    For a description of the field values, see [Edit mentee preferences form](../reference/edit-mentee-pref-form.md).
+    For a description of the field values, see [Edit mentee preferences form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/../reference/edit-mentee-pref-form.md).
 
 4.  Select **Save and close**.
 

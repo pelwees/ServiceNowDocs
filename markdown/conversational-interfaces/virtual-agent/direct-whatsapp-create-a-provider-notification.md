@@ -17,7 +17,7 @@ Execute the following steps to create a provider notification for Virtual Agent 
 
 ## Before you begin
 
-Enable the notifications for the WhatsApp channel. For more information, see [Enable WhatsApp channel notifications](enable-direct-whatsapp-channel-notifications.md).
+Enable the notifications for the WhatsApp channel. For more information, see [Enable WhatsApp channel notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-direct-whatsapp-channel-notifications.md).
 
 Role required: admin
 
@@ -195,7 +195,7 @@ Option to select when the recipients are from more than 2 tables. These are dyna
     All the validation messages given by different providers are retained. Warning messages of one provider isn’t overridden by warning messages of another provider.
 
 
-**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](../concept/messg-direct-whatsapp-using.md)
+**Parent Topic:**[Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/messg-direct-whatsapp-using.md)
 
 **Related topics**  
 

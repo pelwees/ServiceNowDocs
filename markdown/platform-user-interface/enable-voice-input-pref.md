@@ -15,7 +15,7 @@ Learn more about the Enable voice input for the Now Assist panel accessibility p
 
 **Note:** Voice input is automatically activated when the Now Assist panel is activated. As of the Zurich Patch 4 release, voice input is configured in the [Additional chat features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md) and not with this option.
 
-![Enable voice input for the Now Assist panel.](../image/pol-pref-voice-input.png)
+![Enable voice input for the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-voice-input.png)
 
 The purpose of this preference is to provide an alternative input method.
 
@@ -64,13 +64,13 @@ Deactivated
 
 The Now Assist panel includes a microphone button for voice input.
 
-![Ask Now Assist search bar with Voice input preference turned on and microphone displayed.](../image/a11y-pref-voice-input-on.png)
+![Ask Now Assist search bar with Voice input preference turned on and microphone displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-voice-input-on.png)
 
 </td><td>
 
 The microphone button isn’t available in the Now Assist panel.
 
-![Ask Now Assist search bar without microphone displayed.](../image/a11y-pref-voice-input-off.png)
+![Ask Now Assist search bar without microphone displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-voice-input-off.png)
 
 </td></tr></tbody>
 </table>

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Workspace, Source-to-Pay Operations, Finance and Supply 
 
 Configure knowledge bases so that guest users can read the created knowledge articles from the Source-to-Pay Workspace.
 
-**Parent Topic:**[Configure Source-to-Pay Workspace](../../accounts-payable-operations/concept/configuring-source-to-pay-ws.md)
+**Parent Topic:**[Configure Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../accounts-payable-operations/concept/configuring-source-to-pay-ws.md)
 
 ## Publish knowledge articles to enable guest users to read them from the Source-to-Pay Workspace
 
@@ -56,7 +56,7 @@ Role required: sn\_slm.manager, sn\_shop.procurement\_specialist\_manager, or ad
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../image/cases-list-icon.png)\) and
 
 3.  Navigate to **Lists** &gt; **Knowledge**, and then select one of the following:
 

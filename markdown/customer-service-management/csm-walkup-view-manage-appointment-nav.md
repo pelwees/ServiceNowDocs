@@ -33,7 +33,7 @@ Upcoming appointments also display with a small calendar icon next to the user n
 
 2.  Click an appointment number to view details, such as the requester name, the interaction number and description, and the appointment time.
 
-    1.  If desired, to preview the associated interaction details, click the preview record icon ![Record icon.](../../../common/image/Form_ReferenceLookupIcon.png) next to the appointment number.
+    1.  If desired, to preview the associated interaction details, click the preview record icon ![Record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/Form_ReferenceLookupIcon.png) next to the appointment number.
 
     2.  To begin working on the interaction, click **Accept appointment** on the **Walk-up Appointment** form.
 

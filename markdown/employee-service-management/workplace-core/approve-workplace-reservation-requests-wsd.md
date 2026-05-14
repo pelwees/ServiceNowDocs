@@ -17,7 +17,7 @@ Review employee area and space reservation requests in Workplace Core and approv
 
 ## Before you begin
 
-To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
+To approve or reject a workplace request using your mobile device, you must have the [Now® Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../../administer/mobile-employee/concept/mobile-employee-experience.md) app.
 
 Role required: approver\_user
 
@@ -41,7 +41,7 @@ Action
 
 In the Now Mobile app, open a task from the My Tasks section.
 
- ![Approver tasks](../../../reuse/workplace-safety-mgmt/images/my-tasks-manager-approver.jpg)
+ ![Approver tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../../reuse/workplace-safety-mgmt/images/my-tasks-manager-approver.jpg)
 
 </td></tr></tbody>
 </table>2.  Review the details of the request.
@@ -49,46 +49,46 @@ In the Now Mobile app, open a task from the My Tasks section.
 3.  Approve or reject the request by selecting **Approve** or **Reject**.
 
 
-**Parent Topic:**[Manage workplace safety activities](../concept/manage-wsd-activites.md)
+**Parent Topic:**[Manage workplace safety activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/manage-wsd-activites.md)
 
 **Related topics**  
 
 
-[Import your workspaces data from an Excel spreadsheet](import-excel-spreadsheet-workspace-data-wsd.md)
+[Import your workspaces data from an Excel spreadsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/import-excel-spreadsheet-workspace-data-wsd.md)
 
-[Add a space type configuration](add-space-type-configuration-wsd.md)
+[Add a space type configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-space-type-configuration-wsd.md)
 
-[Configure a workplace card](configure-workplace-card.md)
+[Configure a workplace card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-card.md)
 
-[Block a workplace location](block-workplace-location.md)
+[Block a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/block-workplace-location.md)
 
-[Configure Workplace entity and entity types](../concept/workplace-entity.md)
+[Configure Workplace entity and entity types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/workplace-entity.md)
 
-[Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
+[Managing Neighborhoods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../workplace-space-management/concept/neighborhoods.md)
 
-[Enable favorites option for Workplace Service Portal](confgure-favourites-option-for-ws-portal-wsd.md)
+[Enable favorites option for Workplace Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/confgure-favourites-option-for-ws-portal-wsd.md)
 
-[Create a workplace performer criteria](create-workplace-performer-criteria.md)
+[Create a workplace performer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md)
 
-[Mapping employees to their designated workspaces](../concept/mapping-employees-to-existing-work-locations-wsd.md)
+[Mapping employees to their designated workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/mapping-employees-to-existing-work-locations-wsd.md)
 
-[Assign the workplace user role to employees](assign-workplace-user-role-to-employees-of-a-location-wsd.md)
+[Assign the workplace user role to employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/assign-workplace-user-role-to-employees-of-a-location-wsd.md)
 
-[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+[Configuring shifts for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/configuring-shifts-for-your-workplace-wsd.md)
 
-[Managing workplace shifts that you own](../concept/managing-shifts-you-own-wsd.md)
+[Managing workplace shifts that you own](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-shifts-you-own-wsd.md)
 
-[Managing workplace reservations for employees](../concept/managing-workplace-reservations-wsd.md)
+[Managing workplace reservations for employees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-reservations-wsd.md)
 
-[Setting and tracking arrivals at the workplace](../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
+[Setting and tracking arrivals at the workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/scheduling-employees-arrival-to-the-workplace-wsd.md)
 
-[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 
-[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+[Workplace knowledge management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/workplace-knowledge-mgmt-wsd.md)
 
-[QR code management](../concept/qr-code-mgmt.md)
+[QR code management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/qr-code-mgmt.md)
 
-[Location migration](../concept/location-migration.md)
+[Location migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/location-migration.md)
 
-[View workplace service usage analytics with Usage Insights](../reference/appsee-intergration-wsd.md)
+[View workplace service usage analytics with Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../reference/appsee-intergration-wsd.md)
 

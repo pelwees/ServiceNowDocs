@@ -33,11 +33,11 @@ The message contains details about the breach to help team members learn about t
 
 The following image is a sample notification in Microsoft Teams. It shows an error budget policy violation for the Cart service and details about the SLO and error budget remaining.
 
-![Cart service has an error budget violation on its Cart service availability SLO.](../images/srm-msteams-notification2.png)
+![Cart service has an error budget violation on its Cart service availability SLO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../images/srm-msteams-notification2.png)
 
 ## Related documentation
 
-See [Create a notification destination in SRM](../task/create-notification-destination.md) and [Create SLOs, SLIs, and error budget policies](../task/sr-create-slo-sli.md).
+See [Create a notification destination in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../task/create-notification-destination.md) and [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../task/sr-create-slo-sli.md).
 
-**Parent Topic:**[SLO Management reference](service-level-objective-management-reference.md)
+**Parent Topic:**[SLO Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/service-level-objective-management-reference.md)
 

@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Open the screen record where you want to display your embedded list.
 
-5.  In the control panel, find the **Record screen segments** list and click **New**.![Related list segment on a record screen](../image/record-screen-seg-section.png)
+5.  In the control panel, find the **Record screen segments** list and click **New**.![Related list segment on a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/record-screen-seg-section.png)
 
 6.  Select **Record screen section** in the **Create a record screen segment** window.
 
@@ -112,7 +112,7 @@ Choose an icon for the related list.
 </td></tr></tbody>
 </table>11. In the **Related list mapping** section, click **New**.
 
-    In the next steps, you map a connection between this related list and the list screen that you created in the steps under [Create a list screen to use as a related list](sg-create-related-list-2.md).
+    In the next steps, you map a connection between this related list and the list screen that you created in the steps under [Create a list screen to use as a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-create-related-list-2.md).
 
 12. In the **Related list map** panel, select a relationship in the **Relationship** field.
 
@@ -129,11 +129,11 @@ Your screen displays a tab for your related list. Users tap this tab to see reco
 
 The number of related records shown in a selected destination screen can be less or equal to the counter number displayed in the related list. The lower number of records is due to additional conditions applied to the list.
 
-![Related list segment on a record screen](../image/form-related-list-segment.png)
+![Related list segment on a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/form-related-list-segment.png)
 
 ## Example
 
 Continuing the preceding example, the problem record screen must have a related list. In the **Related list maps** section, you select the **Incident-&gt;Problem** relationship. Under **Destination Screen**, you select the related incident list created in the previous steps. After logging out and back in again, you have a related list on your problem record screen, which displays a list of incidents related to that problem.
 
-![Related list pop-up showing relationship options](../image/create-related-list.png)
+![Related list pop-up showing relationship options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/create-related-list.png)
 

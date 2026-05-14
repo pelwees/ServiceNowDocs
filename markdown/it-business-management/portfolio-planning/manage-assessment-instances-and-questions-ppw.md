@@ -23,11 +23,11 @@ Role required: admin
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demands-ppw.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Assessment Instances**.![Use the Assessment Instances tab to add or edit assessment instances for a demand.](../../spw-demand/images/assessment-instances-demand.png)
+3.  Select **Assessment Instances**.![Use the Assessment Instances tab to add or edit assessment instances for a demand.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-demand/images/assessment-instances-demand.png)
 
     **Note:** If the **Assessment Instances** tab isn’t visible, select **More** and then select **Assessment Instances**.
 
@@ -37,7 +37,7 @@ Role required: admin
     -   To update the details of an assessment instance record, select the record.
 5.  On the assessment instance form, fill in the fields.
 
-    For a description of the field names, see [Assessment instance form](../reference/assessment-instance-form-ppw.md) form.
+    For a description of the field names, see [Assessment instance form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/assessment-instance-form-ppw.md) form.
 
 6.  Select **Save**.
 
@@ -47,7 +47,7 @@ Role required: admin
 
 9.  On the Create New Assessment Instance Question form, fill in the fields.
 
-    For a description of the field names, see [Create assessment instance question form](../reference/create-assessment-question-form-ppw.md).
+    For a description of the field names, see [Create assessment instance question form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/create-assessment-question-form-ppw.md).
 
 10. Select **Save**.
 

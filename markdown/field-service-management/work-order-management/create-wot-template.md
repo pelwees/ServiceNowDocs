@@ -46,5 +46,5 @@ A standalone task template is created and ready to be mapped it to any work orde
 
 ## What to do next
 
-After creating a standalone task template, map it to a work order template. This enables the work order template to create similar tasks for different work orders, if required. See [Enable a work order template to create relevant tasks for a work order](add-stand-alone-task-template-to-wo-template.md).
+After creating a standalone task template, map it to a work order template. This enables the work order template to create similar tasks for different work orders, if required. See [Enable a work order template to create relevant tasks for a work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-stand-alone-task-template-to-wo-template.md).
 

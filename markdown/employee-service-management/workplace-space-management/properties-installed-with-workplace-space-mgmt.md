@@ -38,12 +38,12 @@ This property enables you to specify the default measuring unit of an area.-   T
 -   Default value: **sq\_feet**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Space Management references](../concept/workplace-space-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Space Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../concept/workplace-space-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Space Management](components-installed-with-wsd-space-mgmt.md)
+[Components installed with Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/components-installed-with-wsd-space-mgmt.md)
 
-[View by Configuration form](view-by-configuration-form.md)
+[View by Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/view-by-configuration-form.md)
 

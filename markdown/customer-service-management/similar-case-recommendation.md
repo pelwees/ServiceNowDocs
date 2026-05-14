@@ -32,5 +32,5 @@ When using similarity models in the workspace, the agent can:
     -   Up to three similar open case cards \(customer-configurable\).
     -   Up to three similar resolved case cards \(customer-configurable\).
 
-For more info, see [View similar case recommendations](view-similar-case-recommendations.md)
+For more info, see [View similar case recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/view-similar-case-recommendations.md)
 

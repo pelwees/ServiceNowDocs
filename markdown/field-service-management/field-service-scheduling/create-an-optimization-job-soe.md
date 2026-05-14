@@ -23,7 +23,7 @@ Role required: wm\_admin
 
 This video demonstrates how to create a scope for Schedule Optimization 
 
-When the Territory Planning plugin is installed and the Territory Model is active, qualifiers are automatically set to territories and scopes for assignment groups are no longer possible. For more information, see [Territory-Based Optimization](territory-based-optimization.md).
+When the Territory Planning plugin is installed and the Territory Model is active, qualifiers are automatically set to territories and scopes for assignment groups are no longer possible. For more information, see [Territory-Based Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/territory-based-optimization.md).
 
 ## Procedure
 

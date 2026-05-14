@@ -71,5 +71,5 @@ Tagline for the user greeting on the header of the messenger home page.
  \[\[URL\|Display Text\]\] indicates format to define URL and display text. For example, `[[https://www.example.com|Example]]`
 
 </td></tr></tbody>
-</table>![Greeting feature widget screen with a user greeting, a list of featured articles, and a search bar to search for answers.](../image/em-greeting-feature-widget.png "Greeting feature widget")
+</table>![Greeting feature widget screen with a user greeting, a list of featured articles, and a search bar to search for answers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-greeting-feature-widget.png "Greeting feature widget")
 

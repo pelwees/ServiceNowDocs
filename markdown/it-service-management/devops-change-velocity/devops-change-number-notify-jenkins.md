@@ -21,11 +21,11 @@ Change requests that are created as part of Jenkins pipeline executions for both
 
 When you trigger a scripted Jenkins pipeline and a change request is created as part of the pipeline execution stage in ServiceNow DevOps, the change request number is notified to Jenkins. The change request number displays in the Jenkins pipeline job logs for scripted pipelines.
 
-![Change request number in Jenkins logs for scripted pipelines](../image/change-number-scripted-jenkins.png)
+![Change request number in Jenkins logs for scripted pipelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/change-number-scripted-jenkins.png)
 
 Upon triggering a free-style Jenkins pipeline, the change request that is created as part of the ServiceNow DevOps pipeline execution stage waits for the approval action to be performed on the change. The change request number and details display against the relevant build in the Jenkins console's **Build History** section.
 
-![Change request number in Jenkins Build History for free-style pipelines](../image/devops-change-freestyle-jenkins.png)
+![Change request number in Jenkins Build History for free-style pipelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-change-freestyle-jenkins.png)
 
 **Note:** After an approval or rejection action is performed on the change request in ServiceNow DevOps, the change request displays in the Jenkins pipeline build logs, similar to scripted pipelines.
 

@@ -28,5 +28,5 @@ Application TCO helps enterprise architects to evaluate the cost of business app
 |Source cost type|Select the cost type as defined in the source of the TCO. This field is editable only when a source is selected in the **Source** field.|
 |Short description|Description of the TCO.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

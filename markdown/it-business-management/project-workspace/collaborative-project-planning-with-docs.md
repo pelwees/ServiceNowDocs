@@ -23,13 +23,13 @@ Role required: it\_project\_user
 
 1.  Open a project in Project Workspace.
 
-    For more information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For more information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the docs page of the project by selecting **Docs** from the list.
 
 3.  From the Pages section, select **Create page** and then select **Create Page from template** if you want to add a template for your document.
 
-    ![Quick overview of Docs page in Project Workspace.](../image/docs-page-pw.png)
+    ![Quick overview of Docs page in Project Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/docs-page-pw.png)
 
 4.  You can perform these tasks under the **Docs** page:
 
@@ -41,5 +41,5 @@ Role required: it\_project\_user
     -   Select the more actions menu to delete, duplicate, or create child pages in the pages section.
     -   Apply rich text paragraph formatting, which includes headings, lists, alignment, and other styling options.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

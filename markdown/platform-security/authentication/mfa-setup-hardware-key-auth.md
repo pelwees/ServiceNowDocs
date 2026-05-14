@@ -29,11 +29,11 @@ Role required: none
 
 3.  Click **Register hardware security Key**.
 
-    ![MFA Authenticators](../images/mfa-authenticator.png)
+    ![MFA Authenticators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-authenticator.png)
 
 4.  Enter a nickname for your hardware key and click **Register**.
 
-    ![MFA - Hardware key setup](../images/mfa-hardware-key.png)
+    ![MFA - Hardware key setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-hardware-key.png)
 
 5.  When prompted, insert your hardware security key and activate it.
 

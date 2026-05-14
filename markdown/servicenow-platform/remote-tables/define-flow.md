@@ -64,5 +64,5 @@ Role required: admin
     3.  Select **Done** to create logs for the set condition.
 
 
-**Parent Topic:**[Create a flow definition for a remote table](create-remote-table-flow.md)
+**Parent Topic:**[Create a flow definition for a remote table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table-flow.md)
 

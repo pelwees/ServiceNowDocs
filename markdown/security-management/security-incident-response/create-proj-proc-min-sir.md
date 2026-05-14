@@ -25,7 +25,7 @@ Role required: sn\_process\_optimization\_analyst and sn\_si\_read
 
 2.  Select **Create New Project**.
 
-    The **Step objectives** page opens.![Create a process mining project](../image/create-proc-min-proj-sir.png)
+    The **Step objectives** page opens.![Create a process mining project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/create-proc-min-proj-sir.png)
 
 3.  Enter a process mining project name in **Name**.
 
@@ -39,9 +39,9 @@ Role required: sn\_process\_optimization\_analyst and sn\_si\_read
 
     The project dashboard appears with all the configured settings.
 
-8.  Select the edit \(![Edit icon](../image/icon-edit.png)\) icon corresponding to **Scope of the analysis** and configure the filters to set the number of records to mine.
+8.  Select the edit \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/icon-edit.png)\) icon corresponding to **Scope of the analysis** and configure the filters to set the number of records to mine.
 
-    ![Process mining filter settings](../image/proc-min-filter-sir.png)
+    ![Process mining filter settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/proc-min-filter-sir.png)
 
 9.  Select **Select improvement opportunities** and configure the improvements for your security incidents.
 

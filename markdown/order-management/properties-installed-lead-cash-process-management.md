@@ -34,7 +34,7 @@ sn\_l2c\_cockpit.node\_default\_levels
 -   Type: integer
 -   Default value: 3
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Customize hierarchical node map levels for Lead-to-Cash Process Management](../task/customize-node-map-levels.md)
+-   Learn more: [Customize hierarchical node map levels for Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/customize-node-map-levels.md)
 
 </td></tr><tr><td>
 
@@ -47,5 +47,5 @@ glide.ui.sn\_l2c\_cockpit\_sales\_process\_record\_activity.fields
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lead-to-Cash Process Management reference](lead-cash-process-management-reference.md)
+</table>**Parent Topic:**[Lead-to-Cash Process Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-cash-process-management-reference.md)
 

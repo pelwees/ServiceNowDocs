@@ -54,14 +54,14 @@ If a Workplace case has 'Enable user acceptance' set to True and no 'Acceptance 
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+</table>**Parent Topic:**[Workplace Case Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/workpalce-case-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Case Management](components-installed-with-workplace-case-mgmt.md)
+[Components installed with Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/components-installed-with-workplace-case-mgmt.md)
 
-[Workplace Service form](workplace-service-form.md)
+[Workplace Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-service-form.md)
 
-[Workplace Location Assignment service](location-assignment-service.md)
+[Workplace Location Assignment service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/location-assignment-service.md)
 

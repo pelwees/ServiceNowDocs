@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 
 Script Debugger is not a full application but rather, a feature in the Platform suite, meaning it works alongside other features, including domain separation.
 
-**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md)
 
 **Related topics**  
 

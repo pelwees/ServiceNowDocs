@@ -28,14 +28,14 @@ Role required: admin
     -   Incident
     -   Problem
     -   Change request
-    ![UI of the "Define the purpose" page](../image/TI_Define_the_purpose_page.png)
+    ![UI of the "Define the purpose" page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/TI_Define_the_purpose_page.png)
 
 3.  Select  **Save &amp; continue**.
 
 
 ## Result
 
-Now that the purpose of the model is defined, you can start training it. For more information, see [Train the similarity model](train-the-similarity-model.md).
+Now that the purpose of the model is defined, you can start training it. For more information, see [Train the similarity model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/train-the-similarity-model.md).
 
-**Parent Topic:**[Set up similar records prediction model](set-up-similar-records-prediction-model.md)
+**Parent Topic:**[Set up similar records prediction model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
 

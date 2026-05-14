@@ -89,7 +89,7 @@ Role required: admin
     |Connection Name|Name of the Roadmunk connection. This field populates automatically.|
     |Connection URL|URL for the connection. This field is automatically set to **https://app-gateway.roadmunk.com**, where **app** is the default geographic region \(North America\) in which the connection is being created. If you are creating the connection outside of the default **app** \(North America\) region, you can change the value of the region to either **eu** \(Europe\) or **apac** \(Asia-Pacific Region\).|
     |Credential Information|
-    |API Token|API access token that authorizes access to the Roadmunk GraphQL API. Enter the same API access token that you generated in [Generate a Roadmunk API access token](setup-roadmunk.md#).|
+    |API Token|API access token that authorizes access to the Roadmunk GraphQL API. Enter the same API access token that you generated in [Generate a Roadmunk API access token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-roadmunk.md#).|
 
 5.  Click **Create Connection**.
 

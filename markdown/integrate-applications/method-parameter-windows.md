@@ -23,7 +23,7 @@ Learn about the parameters of the Windows connector methods in RPA Desktop Desig
 
 ## Enter inputs for parameters
 
-To enter inputs, see [Configure port properties](../task/configure-input-port-properties.md).
+To enter inputs, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
-**Parent Topic:**[Windows connector](../concept/windows-connector.md)
+**Parent Topic:**[Windows connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/windows-connector.md)
 

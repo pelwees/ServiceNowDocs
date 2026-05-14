@@ -33,18 +33,18 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
 4.  On the Risk form, fill in the fields.
 
-    For a description of the field names, see [Risk form](../reference/risk-form.md).
+    For a description of the field names, see [Risk form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/risk-form.md).
 
 5.  Select **Submit**.
 
 
 ## What to do next
 
--   Convert an existing risk to an issue, decision, action, or request change and close the risk. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](convert-ridac-for-demand.md).
--   Associate the risk with existing issues so you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](reassociate-ridac-demand.md).
+-   Convert an existing risk to an issue, decision, action, or request change and close the risk. For more information, see [Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/convert-ridac-for-demand.md).
+-   Associate the risk with existing issues so you can track dependencies and recognize trends for the future. For more information, see [Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/reassociate-ridac-demand.md).
 
--   **[Configure a custom Risk rank and Risk value for a demand](risk-value-lookup.md)**  
+-   **[Configure a custom Risk rank and Risk value for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/risk-value-lookup.md)**  
 Configure custom risk rank and value scores \(such as High-Medium, Medium-Low, or Absolute-Low\) to rate the impact and probability factors for a risk.
 
-**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](../concept/ridac-entries-for-demand.md)
+**Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../concept/ridac-entries-for-demand.md)
 

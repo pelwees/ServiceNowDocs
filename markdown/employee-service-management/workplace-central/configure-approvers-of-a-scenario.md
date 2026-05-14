@@ -19,9 +19,9 @@ Configure approvers for scenarios that are sent for approval. Edit the scenario 
 
 You can either edit the default scenario approval definition, **Scenario Plan Approval**, that is provided the application or create a new approval definition.
 
-To create a new approval definition, refer to [Create an approval definition](../../workplace-service-delivery/task/create-approval-defintion.md).
+To create a new approval definition, refer to [Create an approval definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/task/create-approval-defintion.md).
 
-**Note:** To add an approver to the approval definition, the approver must be configured in the performer criteria. To do so, refer to [Create a workplace performer criteria](../../workplace-service-delivery/task/create-workplace-performer-criteria.md).
+**Note:** To add an approver to the approval definition, the approver must be configured in the performer criteria. To do so, refer to [Create a workplace performer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/task/create-workplace-performer-criteria.md).
 
 Role required: sn\_wsd\_core.admin
 
@@ -44,10 +44,10 @@ Role required: sn\_wsd\_core.admin
 
 The approver is configured to review the scenario.
 
-**Parent Topic:**[Configure Workplace Central](../concept/configure-workplace-central.md)
+**Parent Topic:**[Configure Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/configure-workplace-central.md)
 
 **Related topics**  
 
 
-[Install Workplace Central](install-workplace-central.md)
+[Install Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
 

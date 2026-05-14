@@ -22,9 +22,9 @@ Integration accounts with Web Service Access set to false displays the accounts 
 -   Any changes made to the record displayed on this page are immediately updated in the list, risk score resulting from those changes will be reflected the following day.
 -   Accounts that have the **Internal Integration User** field set to `true` in their `sys_user` record will not populate data in the Machine Identity Console.
 
-![Accounts with WSA set to false](../images/mic-wsa-false-overview.png)
+![Accounts with WSA set to false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-wsa-false-overview.png)
 
 You can select the machine identity name to know more about the account and the recommendation to maintain a good security posture for the account.
 
-![Recommendation for the accounts with WSA set to false](../images/mic-recommendation-was-false.png)
+![Recommendation for the accounts with WSA set to false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-recommendation-was-false.png)
 

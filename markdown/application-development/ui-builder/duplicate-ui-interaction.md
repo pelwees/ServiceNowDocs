@@ -35,7 +35,7 @@ If the UI interaction includes custom UI built with Component Builder, such as a
 
 3.  In the search field, enter the name of the interaction you want to edit.
 
-    ![UI interactions list with search field highlighted.](../image/uib-uii-search.png "UI interactions list")
+    ![UI interactions list with search field highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-search.png "UI interactions list")
 
 4.  Locate the UI interaction record that you want to duplicate.
 
@@ -43,11 +43,11 @@ If the UI interaction includes custom UI built with Component Builder, such as a
 
 6.  Select the **Settings** tab.
 
-    ![Settings tab.](../image/uib-uii-settings-tab.png)
+    ![Settings tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-settings-tab.png)
 
 7.  In the record header, select **Duplicate**.
 
-    ![Settings tab for demo interaction with Duplicate action highlighted.](../image/uib-uii-duplicate-demo.png)
+    ![Settings tab for demo interaction with Duplicate action highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-uii-duplicate-demo.png)
 
 8.  Update the Name and Description fields, as needed.
 
@@ -60,12 +60,12 @@ A new UI interaction record is created in your current application scope, ready 
 
 ## What to do next
 
-To modify the duplicated interaction, see [Edit an existing UI interaction](edit-ui-interaction.md).
+To modify the duplicated interaction, see [Edit an existing UI interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/edit-ui-interaction.md).
 
 To use your duplicated interaction, trigger it using one of these methods:
 
 -   From declarative action: Corresponding declarative actions are inactive by default and must be enabled to test.
--   From UI Builder page event. See [Trigger a UI interaction from a page event](trigger-ui-interaction-from-page-event.md).
+-   From UI Builder page event. See [Trigger a UI interaction from a page event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/trigger-ui-interaction-from-page-event.md).
 
-**Parent Topic:**[UI interactions](../concept/uib-ui-interactions.md)
+**Parent Topic:**[UI interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/uib-ui-interactions.md)
 

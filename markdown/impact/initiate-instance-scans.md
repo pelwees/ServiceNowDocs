@@ -29,6 +29,6 @@ Role required: Scan Engine Admin
 
 4.  To review the scan as it runs or after it is completed, open the **Scan Status** module.
 
-    See [View scan results for Scan Engine](viewing-scan-results-scan-engine.md) .
+    See [View scan results for Scan Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/viewing-scan-results-scan-engine.md) .
 
 

@@ -15,13 +15,13 @@ breadcrumb: [Workspace, Explore, Process Mining, Platform Analytics]
 
 From the projects landing page for Process Mining, you can access generated projects, business process insights, and Analyst workbench.
 
-The projects landing page shows project cards for projects that have been created by or shared with you for viewing. A project that has been created but not yet generated shows a warning icon ![warning icon](../image/warning-icon.png) next to its grayed out title. The warning indicates that the project isn’t available to view.
+The projects landing page shows project cards for projects that have been created by or shared with you for viewing. A project that has been created but not yet generated shows a warning icon ![warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/warning-icon.png) next to its grayed out title. The warning indicates that the project isn’t available to view.
 
-Some projects may be marked as Retricted. The owner and the users they explicitly share it with have access to the restricted projects. Administrators and power users don't have access to the mined data unless the project is shared with them. Only the owner can clear the **Restricted** field. When you are dealing with sensitive data and need to restrict access, you can use this option. For more information , see [Set objectives for Process Mining projects](../task/set-objectives.md).
+Some projects may be marked as Retricted. The owner and the users they explicitly share it with have access to the restricted projects. Administrators and power users don't have access to the mined data unless the project is shared with them. Only the owner can clear the **Restricted** field. When you are dealing with sensitive data and need to restrict access, you can use this option. For more information , see [Set objectives for Process Mining projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/set-objectives.md).
 
-![Restricted project on Projects landing page](../image/restricted-project.png)
+![Restricted project on Projects landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/restricted-project.png)
 
-![Projects landing page](../image/landing-page2.png "Projects landing page")
+![Projects landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/landing-page2.png "Projects landing page")
 
 Project cards show overview details of mined projects. You can filter them by table, created by, project, activity definition, name, or short description.
 
@@ -39,7 +39,7 @@ Project cards show overview details of mined projects. You can filter them by ta
 
 From a project card, relevant user roles can perform the following tasks by selecting a card's menu.
 
-![Project card menu](../image/project-card.png)
+![Project card menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/project-card.png)
 
 <table id="table_jc3_c3w_z4b"><thead><tr><th>
 
@@ -98,5 +98,5 @@ Delete
 Deletes a project.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining workspace](analyst-workbench-overview.md)
+</table>**Parent Topic:**[Process Mining workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-overview.md)
 

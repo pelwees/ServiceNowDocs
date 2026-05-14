@@ -27,7 +27,7 @@ Next Experience theming makes it easier than ever to present your unique company
 
 </td><td>
 
-![Unified theme in mobile and web interfaces](../image/next-exp-themeing-1.png)
+![Unified theme in mobile and web interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/next-exp-themeing-1.png)
 
 </td></tr></tbody>
 </table>## Use color variables to create consistent custom components
@@ -46,7 +46,7 @@ As an admin, you can take advantage of color variables, which replace hard-coded
 
 </td><td>
 
-![Unified theme in mobile and web interfaces](../image/next-exp-themeing-2.png)
+![Unified theme in mobile and web interfaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/next-exp-themeing-2.png)
 
 </td></tr></tbody>
 </table>## Upgrading to Next Experience theming
@@ -65,7 +65,7 @@ Whether your instance enables Next Experience theming depends on your existing c
 
     Existing customers upgrading to Utah and later releases have Next Experience active by default unless they have opted-out of Next Experience in a previous release. If you've opted out, you can enable Next Experience theming manually. For details see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 
-    **Note:** Existing customers upgrading to Zurich who use Polaris as their default Next Experience theme will retain Polaris as their mobile theme unless a different theme is selected. For configuration instruction to change the theme, see [Configure Next Experience theming for mobile](config-ne-theming.md).
+    **Note:** Existing customers upgrading to Zurich who use Polaris as their default Next Experience theme will retain Polaris as their mobile theme unless a different theme is selected. For configuration instruction to change the theme, see [Configure Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-ne-theming.md).
 
 -   **Existing customers with custom themes**
 

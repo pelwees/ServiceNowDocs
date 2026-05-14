@@ -40,5 +40,5 @@ Role required: sn\_acct\_lc.customer\_success\_agent
     -   Before you close an internal play, you must ensure that no associated child tasks are open. If an associated child task is still open, a warning message is displayed. You must first close or cancel the child tasks and then proceed with closing the internal play task.
     -   When you try to **Cancel** an internal play, you will see a confirmation message indicating that all child tasks will be canceled. Select **Yes** to continue and cancel the internal play.
 
-**Parent Topic:**[Create an internal play playbook](account-lifecycle-create-internal-play-playbook.md)
+**Parent Topic:**[Create an internal play playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-internal-play-playbook.md)
 

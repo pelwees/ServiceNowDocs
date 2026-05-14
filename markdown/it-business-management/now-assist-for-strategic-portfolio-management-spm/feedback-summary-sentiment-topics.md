@@ -22,7 +22,7 @@ Multi feedback summarization video.
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles and also add those custom roles to the In product role.
 
-The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+The Feedback or Multi feedback summarization skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 Role required: pf\_user
 
@@ -48,11 +48,11 @@ With the feedback or multi feedback summarization skill, you can get enough deta
 
     You can generate a summary of a single feedback record by using the feedback summarization skill. This image shows the AI-generated summary for a single feedback record.
 
-    ![AI-generated summary for a single feedback record using feedback summarization skill.](../images/single-feedback-summarization-screen.png)
+    ![AI-generated summary for a single feedback record using feedback summarization skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/single-feedback-summarization-screen.png)
 
     You can use the multi feedback summarization skill to generate summaries of one or multiple feedback records. For example, you can analyze the high-priority feedback, filter them, summarize the records, and gain insights into the requirements.
 
-    ![AI-generated summary for multiple feedback records using the multi feedback summarization skill.](../images/multi-feedback-summarization-example.png)
+    ![AI-generated summary for multiple feedback records using the multi feedback summarization skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/multi-feedback-summarization-example.png)
 
     **Note:** Because the information in these fields is automatically generated, it's a good idea to review the text and make sure it's accurate.
 
@@ -76,7 +76,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../images/icon-expand-spm.png)\) or the collapse card icon \(![Collapse card icon.](../images/icon-collapse-spm.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-expand-spm.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-collapse-spm.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d187107e204">
 
@@ -84,7 +84,7 @@ Select the expand card icon \(![Expand card icon.](../images/icon-expand-spm.png
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More information icon.](../images/icon-more-information-spm.png)\).
+If you want to check some details about the summary, select the more info icon \(![More information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-more-information-spm.png)\).
 
 </td></tr><tr><td id="d187107e219">
 
@@ -100,7 +100,7 @@ Select **View more** or **View less** to see more or less summary information.
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../images/icon-helpful-feedback.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-helpful-feedback.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d187107e258">
 
@@ -108,7 +108,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../images/icon-copy-spm.png)\) to use the feedback summary information for another purpose, such as pasting it into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-copy-spm.png)\) to use the feedback summary information for another purpose, such as pasting it into an email.
 
 </td></tr><tr><td id="d187107e273">
 
@@ -129,12 +129,12 @@ Select **Copy and create epic** to create a planning or non-planning item by usi
 </td></tr></tbody>
 </table>    **Note:** The feedback summarization or multi summarization skill checks the feedback records to determine if enough information is available to generate a summary. If there isn't enough feedback content to summarize, you can add more content and retry.
 
-    On the side panel, you can select the preview record icon \(![preview record icon.](../../../administer/task-table/image/preview-record-icon.png)\) to view the additional details or select preview generated summary icon \(![Preview generated summary icon.](../images/preview-generated-summary-icon.png)\) to view the summarization output.
+    On the side panel, you can select the preview record icon \(![preview record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../administer/task-table/image/preview-record-icon.png)\) to view the additional details or select preview generated summary icon \(![Preview generated summary icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/preview-generated-summary-icon.png)\) to view the summarization output.
 
 6.  Select **Copy and create epic** to copy the generated summary and create a planning item.
 
     Save time and streamline your work flow by linking the feedback with planning items, which eliminates the need to copy summaries. You can quickly create work items in Feedback and view them in the roadmap.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

@@ -23,13 +23,13 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\).
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\).
 
 3.  Select a release from the list to open.
 
 4.  On the Release form, select **Overview**.
 
-5.  Select the release action icon \(![Release action icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) and then select **Retarget release**.
+5.  Select the release action icon \(![Release action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../../site-reliability-ops/image/icon-actions-menu.png)\) and then select **Retarget release**.
 
     **Note:** Release readiness target and Release target are used interchangeably. Both terms refer to the same concept - release readiness target date.
 
@@ -39,7 +39,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 7.  You can also make the release as an out-of-band release by selecting **Out of band**.
 
-    This option depends on the system properties—**out\_of\_band\_release\_allowed** and **out\_of\_band\_release\_roles**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+    This option depends on the system properties—**out\_of\_band\_release\_allowed** and **out\_of\_band\_release\_roles**. For more information, see [Digital Product Release properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/digital-product-release-properties.md).
 
 8.  If you selected the out-of-band option, then select a release calendar from the **Release calendar** to tag the release and use its release target.
 
@@ -58,5 +58,5 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 Update the planned dates on the associated change requests manually because they are not automatically updated when you retarget the release.
 
-**Parent Topic:**[Manage releases for digital products and services](dpr-manage-releases.md)
+**Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 

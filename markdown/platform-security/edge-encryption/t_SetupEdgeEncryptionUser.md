@@ -28,5 +28,5 @@ Role required: admin
 2.  Assign the edge\_encryption role to the user.
 
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_InstallEdgeEncryptionProxy.md)
 

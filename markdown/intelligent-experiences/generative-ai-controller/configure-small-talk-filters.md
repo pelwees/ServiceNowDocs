@@ -45,7 +45,7 @@ When engaging with generative AI, many people send conversational messages that 
 
     Use a comma-separated list to select multiple values.
 
-    ![Small talk filter record for the Gratitude filter](../image/configure-small-talk-filters-record.png)
+    ![Small talk filter record for the Gratitude filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/configure-small-talk-filters-record.png)
 
 7.  Select **Save** to save any changes.
 
@@ -65,7 +65,7 @@ When engaging with generative AI, many people send conversational messages that 
 
         An example might be the "Thanks for your assistance with my task" sample filter for the Gratitude filter.
 
-        ![Small talk sample record for the Gratitude filter that says "Thanks for your assistance with my task"](../image/configure-small-talk-filters-sample-record.png)
+        ![Small talk sample record for the Gratitude filter that says "Thanks for your assistance with my task"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/configure-small-talk-filters-sample-record.png)
 
     5.  Select **Generate Samples** to create additional example statements to trigger the filter.
 

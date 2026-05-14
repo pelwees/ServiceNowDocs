@@ -85,7 +85,7 @@ Administrators can export all rule definitions from the CPQ environment to CSV f
 **Related topics**  
 
 
-[Configure the Matrix Loader](cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-[Matrix Loader: CSV rules upload](matrix_loader_csv_rules_upload.md)
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 

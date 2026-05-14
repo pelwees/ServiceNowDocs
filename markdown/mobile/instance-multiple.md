@@ -23,11 +23,11 @@ Role required: user
 
 1.  Access the instance by doing one of the following:
 
-    -   Tap on the instance icon \(![Instance icon.](../image/instance-icon.png)\), which displays in the header area of the mobile app. The icon displays when you have added two or more instances to the Instances screen.
-    -   Tap the Settings icon \(![Settings icon on the mobile device.](../image/settings-mobile-device.png)\), and then on the **Settings** page tap **Instances**.
+    -   Tap on the instance icon \(![Instance icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/instance-icon.png)\), which displays in the header area of the mobile app. The icon displays when you have added two or more instances to the Instances screen.
+    -   Tap the Settings icon \(![Settings icon on the mobile device.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/settings-mobile-device.png)\), and then on the **Settings** page tap **Instances**.
 2.  Choose whether to add, log in, log out, remove, or edit an instance.
 
-    **Note:** You can't rename or remove preconfigured instances. Preconfigured instances are defined by your administrator and are identified by the following icon \(![Preconfigured instance icon.](../image/preconfigured-instance-icon.png)\).
+    **Note:** You can't rename or remove preconfigured instances. Preconfigured instances are defined by your administrator and are identified by the following icon \(![Preconfigured instance icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/preconfigured-instance-icon.png)\).
 
 <table id="choicetable_i2c_cbg_fwb"><thead><tr><th align="left" id="d104023e107">
 
@@ -46,7 +46,7 @@ Procedure
 1.  Tap the top menu in the Instances page.
 2.  Tap **Add instance**.
 
-3.  Enter the instance name or scan the QR code. For more details, see [Add a ServiceNow instance to ServiceNow mobile apps](login-end-user.md).
+3.  Enter the instance name or scan the QR code. For more details, see [Add a ServiceNow instance to ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/login-end-user.md).
 4.  \(Optional\) Enter a nickname.
 5.  Tap **Save and log in**, to add your selected instance.
 6.  Enter your user name and password for this instance.

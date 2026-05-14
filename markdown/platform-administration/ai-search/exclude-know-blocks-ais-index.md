@@ -48,7 +48,7 @@ To learn more about creating and publishing knowledge blocks for reference in yo
 
 ## What to do next
 
-To make the new setting take effect, reindex the Knowledge Table indexed source. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
+To make the new setting take effect, reindex the Knowledge Table indexed source. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
-**Parent Topic:**[Indexed sources in AI Search](../concept/indexed-sources-ais.md)
+**Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/indexed-sources-ais.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin, admin
 
 3.  Complete the form using the fields in the table.
 
-    ![Provider information for Casper integration](../images/CasperProvider.png)
+    ![Provider information for Casper integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/CasperProvider.png)
 
     |Field|Description|
     |-----|-----------|
@@ -43,5 +43,5 @@ Role required: sn\_client\_sf\_dist.csd\_admin, admin
     |Revoke SCCM Application subflow|Subflow that revokes an installation from a provider server. This is the subflow you created with custom activities that tells the provider which application to remove from a device.|
 
 
-**Parent Topic:**[Client software distribution extension framework](../concept/csd-ext-framewrk.md)
+**Parent Topic:**[Client software distribution extension framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd-ext-framewrk.md)
 

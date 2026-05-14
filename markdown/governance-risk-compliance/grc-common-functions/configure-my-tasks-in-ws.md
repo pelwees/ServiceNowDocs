@@ -35,7 +35,7 @@ Navigate to the individual workspaces to view the tasks, items, and watchlist fo
     -   **All** &gt; **Risk** &gt; **Risk workspace**.
     -   **All** &gt; **Risk** &gt; **Risk Portal**.
     -   **All** &gt; **Vendor Management** &gt; **Workspace**.
-2.  To navigate to the Tasks page, select the tasks icon \(![tasks icon in workspace.](../image/tasks-icon-new.png)\).
+2.  To navigate to the Tasks page, select the tasks icon \(![tasks icon in workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/tasks-icon-new.png)\).
 
 3.  Navigate to the tab that you want to view, and monitor the tasks.
 
@@ -52,5 +52,5 @@ Navigate to the individual workspaces to view the tasks, items, and watchlist fo
     **Note:** When a user or user group does not have any pending or associated tasks, a message displays under the respective tab that `All your tasks are done`.
 
 
-**Parent Topic:**[My tasks in the workspace](../concept/configuration-of-tasks.md)
+**Parent Topic:**[My tasks in the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/configuration-of-tasks.md)
 

@@ -42,7 +42,7 @@ Role required: admin
 
 3.  Select the **Model providers** tab.
 
-    ![Model providers tab.](../images/llm-sel-model-provider-tab.png)
+    ![Model providers tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/llm-sel-model-provider-tab.png)
 
 4.  Select **Edit model provider**.
 
@@ -84,7 +84,7 @@ Configure a third-party LLM provider as the default LLM provider for creating a 
 
     **Note:** Currently, Azure OpenAI, Google Gemini, and Anthropic Claude on AWS LLMs are supported.
 
-    ![Configuring third-party LLMs for Now Assist for Creator](../images/na-creator-tpt-llms-config.png)
+    ![Configuring third-party LLMs for Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/na-creator-tpt-llms-config.png)
 
 
 ### Result

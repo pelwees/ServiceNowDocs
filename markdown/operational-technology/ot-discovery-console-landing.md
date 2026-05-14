@@ -21,30 +21,30 @@ Use the links to explore, configure, and learn more about the ServiceNow Discove
 
 Explore
 
-![](../images/BUS_64px_Explore_YG.png)[Explore the Discovery Console for OT](explore-ot-console.md)
+![](../images/BUS_64px_Explore_YG.png)[Explore the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/explore-ot-console.md)
 
 </td><td>
 
 Configure![](../images/BUS_64px_SDLC_YG.png)
 
- [Configure the Discovery Console for OT](../task/configure-ot-console-steps.md)
+ [Configure the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/configure-ot-console-steps.md)
 
 </td></tr><tr><td>
 
 Interact![](../images/BUS_64px_Manage_YG.png)
 
- [Use the Discovery Console for OT interactive configuration wizard](../task/console-onboarding-wizard.md)
+ [Use the Discovery Console for OT interactive configuration wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../task/console-onboarding-wizard.md)
 
 </td><td>
 
 Use![](../images/BUS_64px_Optimize-Manage_YG.png)
 
- [Use the Discovery Console for OT pages](../../operational-technology-discovery-deployment-guide/concept/using-discovery-console.md)
+ [Use the Discovery Console for OT pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/concept/using-discovery-console.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
 If you have any errors or difficulties while using the Operational Technology applications, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-If you have any errors or difficulties while using the Discovery Console for Operational Technology \(OT\), you can use [Download Console log files](download-console-log-files.md) to help you troubleshoot the problem.
+If you have any errors or difficulties while using the Discovery Console for Operational Technology \(OT\), you can use [Download Console log files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/download-console-log-files.md) to help you troubleshoot the problem.
 

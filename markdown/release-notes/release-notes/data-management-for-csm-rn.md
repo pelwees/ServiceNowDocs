@@ -171,7 +171,7 @@ Sales Customer Relationship Management is a ServiceNow AI Platform feature that 
 
 ## Browser requirements
 
-Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+Starting with the Australia release, data management for Customer Service Management doesn't support mobile devices and Internet Explorer. For more information, see [Browser support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../../administer/navigation-and-ui/reference/browser-support.md).
 
 ## Related ServiceNow applications and features
 
@@ -199,5 +199,5 @@ Starting with the Australia release, data management for Customer Service Manage
     The Sales Customer Relationship Management applications enable you to manage the product sales and order fulfillment life cycles in your organization. It includes pre-sales opportunities, sales quote generation, order capture, order fulfillment, and post-sales engagement.
 
 
-**Parent Topic:**[Customer Service Management release notes](customer-service-mgmt-rn-landing.md)
+**Parent Topic:**[Customer Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/customer-service-mgmt-rn-landing.md)
 

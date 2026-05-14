@@ -41,8 +41,8 @@ Role required: admin
 
     The input of the **hideContextualSidebar** property is JSON key value pair. You can add multiple json objects with different table and tab combinations to hide the contextual side panel for the table and tab combinations.
 
-    ![Hide contextual sidepanel UX property](../image/hide-contextual-sidepanel-ux-property-sow.png)
+    ![Hide contextual sidepanel UX property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/hide-contextual-sidepanel-ux-property-sow.png)
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-sow-to-improve-experience.md)
 

@@ -27,7 +27,7 @@ Role required: sp\_admin or admin
 
 3.  On the form, fill in the fields.
 
-    For more information on form fields and descriptions, see [Footer form](../reference/ec-footer-form.md).
+    For more information on form fields and descriptions, see [Footer form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-footer-form.md).
 
 4.  Click **Save** or **Submit**.
 
@@ -36,7 +36,7 @@ Role required: sp\_admin or admin
 
 If you click **Save**, the Employee Center Footer Menus section appears.
 
-To configure menus for the footer, see [Configure the footer menus](config-emp-center-footer-menus.md).
+To configure menus for the footer, see [Configure the footer menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-emp-center-footer-menus.md).
 
-**Parent Topic:**[Footer configuration](../concept/emp-center-footer-config.md)
+**Parent Topic:**[Footer configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-footer-config.md)
 

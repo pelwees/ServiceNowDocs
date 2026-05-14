@@ -29,13 +29,13 @@ In certain cases, if LogRhythm alarm values are mapped to the `Priority` and `Ca
 
 1.  With the mapping form displayed, in the SIR Incident Field Mapping section, click the bracket icon `[{}]` to open the script editor.
 
-    ![Bracket icon used to open the script editor.](../image/logrhythm-map-alarm.png)
+    ![Bracket icon used to open the script editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/logrhythm-map-alarm.png)
 
     The default values are included for the `Priority` and `Category` fields on the security incident. You can edit these values.
 
     For this example, in the open editor, verify that **Priority** is displayed in the **Destination Field** choice list, as shown in the following figure. Note that this field is the security incident priority, not the LogRhythm risk-based priority.
 
-    ![Script editor for the Priority field.](../image/lr-script-editor.png)
+    ![Script editor for the Priority field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr-script-editor.png)
 
     In certain instances, a script include may be appropriate for the `Priority` field. For a LogRhythm alarm, for example, a risk-based priority score is assigned a value between 0-100. However, in the ServiceNow AI Platform, the priority field on a security incident supports values between 1-5. As illustrated in the preceding figure, a script include translates the LogRhythm alarm field values to the appropriate values supported by the field on the security incident in the ServiceNow AI Platform.
 
@@ -49,23 +49,23 @@ In certain cases, if LogRhythm alarm values are mapped to the `Priority` and `Ca
 
     The following figure shows the script editor with `Category` selected in the Destination Field choice list.
 
-    ![Script editor for the Category field on the security incident.](../image/profiletranslationscript01__category_script.png)
+    ![Script editor for the Category field on the security incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profiletranslationscript01__category_script.png)
 
 4.  If you want to add a new field to the Field Translations list, follow these steps to add a new record.
 
-    1.  With the mapping form displayed, in the SIR Incident Field Mapping section, click the **Click here** link.![Click here link to script editor highlighted.](../image/profilemapping_script_click_link.png)
+    1.  With the mapping form displayed, in the SIR Incident Field Mapping section, click the **Click here** link.![Click here link to script editor highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profilemapping_script_click_link.png)
 
         The LogRhythm Field Translation list with the `priority` and `category` destination fields are displayed.
 
     2.  Click New.
 
-        ![New button highlighted on LogRhythm Field Translation list.](../image/lr_field_translation.png)
+        ![New button highlighted on LogRhythm Field Translation list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr_field_translation.png)
 
         A new record is displayed.
 
     3.  From the Destination Field choice list, select a destination field on the security incident that you want to display your scripted values.
 
-        ![Choice list on new record.](../image/lr-new_script_field.png)
+        ![Choice list on new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr-new_script_field.png)
 
     4.  Click **Submit**.
 
@@ -78,5 +78,5 @@ In certain cases, if LogRhythm alarm values are mapped to the `Priority` and `Ca
 5.  Close the table to return to the Mapping form.
 
 
-**Parent Topic:**[Additional configurations for the LogRhythm integration](configure-system-and-troubleshooting-properties.md)
+**Parent Topic:**[Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)
 

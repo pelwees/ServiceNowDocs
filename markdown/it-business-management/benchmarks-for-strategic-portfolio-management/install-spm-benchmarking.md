@@ -29,7 +29,7 @@ The following items are installed with SPM Benchmarks:
 -   Roles
 -   Scheduled jobs
 
-For more information, see [Components installed with SPM Benchmarking](../reference/components-installed-with-spm-benchmarking.md).
+For more information, see [Components installed with SPM Benchmarking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/../reference/components-installed-with-spm-benchmarking.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ For more information, see [Components installed with SPM Benchmarking](../refere
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configuring SPM Benchmarks](configuring-benchmarks.md)
+**Parent Topic:**[Configuring SPM Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/configuring-benchmarks.md)
 

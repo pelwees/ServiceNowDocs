@@ -22,15 +22,15 @@ To access the Discovery Admin Workspace Insights page, navigate to **Workspaces*
 
 You can access the following information through the Insights page:
 
--   [Discovery Operations Monitor dashboard](disco-operations-monitor.md)
--   [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../../service-mapping/reference/oracle-glas-discovery.md)
--   [Kubernetes Explorer](../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md)
--   [Nutanix Dashboard](../../service-mapping/reference/nutanix-pattern.md)
+-   [Discovery Operations Monitor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disco-operations-monitor.md)
+-   [Oracle Global License Advisory Services \(GLAS\) data collection using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/reference/oracle-glas-discovery.md)
+-   [Kubernetes Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/dashboards/application-content-packs/cloud-operations-workspace-kubernetes-dashboard.md)
+-   [Nutanix Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/reference/nutanix-pattern.md)
 -   [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerDashboard.md)
--   [Agent Health dashboard](../../service-operations-workspace-itom/concept/agent-health-dashboard.md)
--   [Missing compute resources from Discovery](../task/discover-missing-compute-resources.md)
--   [Shazzam Insights](shazzam-insights.md)
--   [Tag Governance Insights](tag-governance-insights-dashboard.md)
--   [Virtual Machine Explorer](vm-explorer.md)
--   [URL Discovery Insights dashboard](url-disco-insights.md)
+-   [Agent Health dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-operations-workspace-itom/concept/agent-health-dashboard.md)
+-   [Missing compute resources from Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/discover-missing-compute-resources.md)
+-   [Shazzam Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/shazzam-insights.md)
+-   [Tag Governance Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/tag-governance-insights-dashboard.md)
+-   [Virtual Machine Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vm-explorer.md)
+-   [URL Discovery Insights dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/url-disco-insights.md)
 

@@ -19,7 +19,7 @@ Admin can configure ServiceNow instance to require users who attempt to login to
 
 **Note:** MFA with Email is activated with the Integration - Multifactor Authentication \(`com.snc.integration.multifactor.authentication`\) plugin by default. You need to configure the policy inputs and conditions.
 
-![MFA-Email](../images/email-screen-mfa.png)
+![MFA-Email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/email-screen-mfa.png)
 
 When users attempt to login to ServiceNow, Email OTP is sent to the Email address associated. User's can enter the six-digit verification code that it sent to the email address and verify their identity.
 

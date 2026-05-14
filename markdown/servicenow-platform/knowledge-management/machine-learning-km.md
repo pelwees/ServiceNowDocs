@@ -21,8 +21,8 @@ Machine learning in Knowledge Management has the following benefits:
 -   Suggests related articles to help you solve an issue or resolve a question.
 -   Identifies knowledge gaps and improves content of your knowledge base using the Knowledge Demand Insights feature.
 
--   **[Predictive Intelligence for Knowledge Management](predictive-intelligence-for-km.md)**  
+-   **[Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/predictive-intelligence-for-km.md)**  
 The Predictive Intelligence for Knowledge Management capability uses machine-learning algorithms to provide various Knowledge Management capabilities, such as similar articles and knowledge demand insights.
 
-**Parent Topic:**[Knowledge Management](knowledge-management.md)
+**Parent Topic:**[Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 

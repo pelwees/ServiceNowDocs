@@ -25,7 +25,7 @@ Role required: email\_composer
 
 3.  Attach a file from your computer.
 
-    1.  Select Attach file icon \(![Attachment icon](../image/x-attachment-icon.png)\).
+    1.  Select Attach file icon \(![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-attachment-icon.png)\).
 
     2.  Select **From computer**.
 
@@ -37,7 +37,7 @@ Role required: email\_composer
 
 4.  Attach a file from the related record.
 
-    1.  Select the Attach file icon \(![Attachment icon](../image/x-attachment-icon.png)\) in the record.
+    1.  Select the Attach file icon \(![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-attachment-icon.png)\) in the record.
 
     2.  Select **From record**.
 
@@ -48,7 +48,7 @@ Role required: email\_composer
 
 ## What to do next
 
-Optionally, you can hide or show attachments in your email drafts by selecting **Hide attachments** when not hidden and **Show attachments** when hidden. You can also perform additional actions by selecting the menu icon \(![Menu icon](../image/menu-icon.png)\) next to each attached file:
+Optionally, you can hide or show attachments in your email drafts by selecting **Hide attachments** when not hidden and **Show attachments** when hidden. You can also perform additional actions by selecting the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/menu-icon.png)\) next to each attached file:
 
 -   **Download**: Download the file to your computer.
 -   **Rename**: Rename the attached file. Only the first 100 characters of a file name are displayed.

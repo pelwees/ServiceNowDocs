@@ -76,7 +76,7 @@ Table
 Major Security Incident \(sn\_msi\_incident\).
 
 </td></tr></tbody>
-</table>    ![Chat Team Configuration](../../security-incident-response/image/channel-templates-config.png)
+</table>    ![Chat Team Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/channel-templates-config.png)
 
 4.  Select **Submit**.
 
@@ -92,12 +92,12 @@ Major Security Incident \(sn\_msi\_incident\).
 
 9.  **Submit** the new chat channel configuration record.
 
-    ![Chat Channel Configuration](../../security-incident-response/image/chat-channel-config-new-record.png)
+    ![Chat Channel Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/chat-channel-config-new-record.png)
 
 
 ## Result
 
 The chat channel is now created and the users are assigned to those chat channel groups. You can view the collaboration chat activities both in Microsoft Teams and in the Collaboration activity stream of the MSIM Workspace with the organized chat channel hierarchy structure as configured in the Chat Channel provider configuration.
 
-**Parent Topic:**[Configure Microsoft Teams](../../security-incident-response/concept/chat-channel-provider-config.md)
+**Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/chat-channel-provider-config.md)
 

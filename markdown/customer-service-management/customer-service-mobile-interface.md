@@ -21,7 +21,7 @@ Activate the Customer Service Mobile plugin \(com.sn\_csm\_mobile\) to use the a
 
 For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
-![Customer service mobile launcher screen that displays the agent's cases needing attention and cases that are new, active, and active critical.](../image/csm-mobile-agent.png "Customer Service mobile application applet launcher for agent")
+![Customer service mobile launcher screen that displays the agent's cases needing attention and cases that are new, active, and active critical.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-mobile-agent.png "Customer Service mobile application applet launcher for agent")
 
 With the customer service agent role \(sn\_customerservice\_agent\), you can:
 
@@ -40,7 +40,7 @@ With the system administrator role, you can configure the Customer Service Manag
 -   Configure the functions associated with swipe actions and top menu actions.
 -   Configure and create push notifications.
 
-![Customer Service mobile launcher screen that displays the manager's cases that are new, active, and active critical, and also approvals needed for escalations and change requests.](../image/csm-mobile-manager.png "Customer Service mobile application applet launcher for manager")
+![Customer Service mobile launcher screen that displays the manager's cases that are new, active, and active critical, and also approvals needed for escalations and change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-mobile-manager.png "Customer Service mobile application applet launcher for manager")
 
 With the customer service manager role \(sn\_customerservice\_manager\) you can:
 
@@ -66,12 +66,12 @@ Once the Customer Service Management mobile application is activated and configu
 
 For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
--   **[CSM application overview](../reference/customer-service-mobile-overview.md)**  
+-   **[CSM application overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/customer-service-mobile-overview.md)**  
 Customer service agents and managers can use the applet launcher and applets in the Customer Service mobile application to view notifications and manage customer service cases.
--   **[Get started with the Customer Service mobile application](../task/install-customer-service-mobile-app.md)**  
+-   **[Get started with the Customer Service mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/install-customer-service-mobile-app.md)**  
 Use the ServiceNow Agent mobile app to access the Customer Service mobile application. Then log in to an instance as an agent or manager and work on your customer service cases.
 
-**Parent Topic:**[Customer Service Management](c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 

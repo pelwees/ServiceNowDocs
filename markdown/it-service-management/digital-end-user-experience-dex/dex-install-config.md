@@ -40,5 +40,5 @@ In the primary navigation pane, select the DEX Administration icon \(![](../imag
     Configure the DEX Self-service on your ServiceNow® instance.
 
 
-**Parent Topic:**[Digital End-User Experience](dex-landing.md)
+**Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 

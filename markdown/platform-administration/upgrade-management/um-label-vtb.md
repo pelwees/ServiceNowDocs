@@ -50,14 +50,14 @@ Role required: admin
 
     Enter the name of the label you want to create. You can also change the color of a label by clicking the color circle.
 
-    ![Image showing Add Label and color change in the VTB view](../../upgrade-center/image/uc-labels.png)
+    ![Image showing Add Label and color change in the VTB view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-labels.png)
 
     **Note:** The new labels and colors are saved only for the current visual task board and don't get rolled over to the next updated board. If you want the new label updates to show up in the next updated board, navigate to **Upgrade Center** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Center VTB Labels**. Set the colors as required and the updated colors start showing up from the next generated board.
 
 
 ## What to do next
 
-Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](../reference/um-history-task-form.md) for more information.
+Click on a skipped record in the VTB to update the task. See [Upgrade History Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../reference/um-history-task-form.md) for more information.
 
-**Parent Topic:**[Skipped Records visual task board \(VTB\)](../concept/um-vtb-history.md)
+**Parent Topic:**[Skipped Records visual task board \(VTB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-vtb-history.md)
 

@@ -23,11 +23,11 @@ Role required: workspace\_user
 
 1.  Open a workspace list in your instance.
 
-2.  From the list header, select the filter button \(![filter button](../../configurable-workspace/image/list-filter-button.png)\).
+2.  From the list header, select the filter button \(![filter button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/list-filter-button.png)\).
 
     A dialog box opens for generating filters.
 
-    ![AI filter assist dialog box](../../configurable-workspace/image/dialog-ai-filter-assist.png)
+    ![AI filter assist dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/dialog-ai-filter-assist.png)
 
 3.  Select one of the following options from the menu.
 
@@ -37,19 +37,19 @@ Role required: workspace\_user
 4.  Create a query with everyday language using one of the following options.
 
     -   Enter a query manually.
-    -   Select the microphone icon \(![microphone icon](../../configurable-workspace/image/icon-microphone.png)\) and speak a query out loud.
-5.  Select the submit icon \(![submit icon](../../configurable-workspace/image/icon-submit.png)\) to generate the filters.
+    -   Select the microphone icon \(![microphone icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/icon-microphone.png)\) and speak a query out loud.
+5.  Select the submit icon \(![submit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/icon-submit.png)\) to generate the filters.
 
     A dialog box opens to display the generated filters.
 
-    ![Generate filters dialog box](../../configurable-workspace/image/dialog-ai-filter-assist-2.png)
+    ![Generate filters dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/dialog-ai-filter-assist-2.png)
 
 6.  Review the generated filters and select one of the following options.
 
-    -   Select the edit icon \(![edit icon](../../configurable-workspace/image/icon-edit.png)\) to make changes to the generated filters.
+    -   Select the edit icon \(![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/icon-edit.png)\) to make changes to the generated filters.
     -   Select **Apply** to submit the filters.
-7.  Show the conditions panel by selecting the filter button drop-down arrow \(![filter button](../../configurable-workspace/image/list-filter-button.png)\) and **Advanced Filter**.
+7.  Show the conditions panel by selecting the filter button drop-down arrow \(![filter button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/list-filter-button.png)\) and **Advanced Filter**.
 
-8.  View a list of filters you generated recently by selecting the history icon \(![history icon](../../configurable-workspace/image/icon-history.png)\).
+8.  View a list of filters you generated recently by selecting the history icon \(![history icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/icon-history.png)\).
 
 

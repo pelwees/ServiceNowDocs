@@ -71,10 +71,10 @@ The options available for tailoring a catalog item to meet specific needs.
 
 Administrators and catalog administrators can further extend the service catalog to provide more powerful features, using specialized catalog items, configuration options, and scripting functions. For example, administrators can customize the checkout process used when ordering catalog items.
 
-**Parent Topic:**[Service catalog setup](../topic/p_ServiceCatalogs.md)
+**Parent Topic:**[Service catalog setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogs.md)
 
 **Related topics**  
 
 
-[Service Catalog terms and roles](../reference/r_ServiceCatalogManagementTermsandRoles.md#)
+[Service Catalog terms and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ServiceCatalogManagementTermsandRoles.md#)
 

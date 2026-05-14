@@ -28,9 +28,9 @@ Use the RPA Desktop Design Studio application to build and update automation wor
 
 To learn more about configuring and using RPA Desktop Design Studio, see:
 
--   [Configuring RPA Desktop Design Studio](rpa-studio-configure.md)
--   [Building automations](rpa-studio-build.md)
--   [Using automations](rpa-studio-use.md)
--   [Automation components](rpa-studio-automation-components.md)
--   [RPA Desktop Design Studio reference](../reference/rpa-studio-reference.md)
+-   [Configuring RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-studio-configure.md)
+-   [Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-studio-build.md)
+-   [Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-studio-use.md)
+-   [Automation components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-studio-automation-components.md)
+-   [RPA Desktop Design Studio reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/rpa-studio-reference.md)
 

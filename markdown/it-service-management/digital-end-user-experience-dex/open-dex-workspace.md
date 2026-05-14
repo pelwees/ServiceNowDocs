@@ -28,5 +28,5 @@ Role required: sn\_dex.user
 
 ## Result
 
-The home page icon \(![The Home icon that displays the home page.](../image/icon-home-selected.png)\) is selected by default. For more information, see [Landing page cards](../reference/dashboard-cards.md).
+The home page icon \(![The Home icon that displays the home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-home-selected.png)\) is selected by default. For more information, see [Landing page cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/dashboard-cards.md).
 

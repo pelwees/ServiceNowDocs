@@ -43,7 +43,7 @@ Recall campaign
 
 </td><td>
 
-Recall campaign details that are fetched from [Recall campaign form](mco-recall-campaign-form.md).
+Recall campaign details that are fetched from [Recall campaign form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-form.md).
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ Priority
 
 </td><td>
 
-Priority information that is fetched from [Recall campaign form](mco-recall-campaign-form.md).
+Priority information that is fetched from [Recall campaign form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-form.md).
 
 </td></tr><tr><td>
 
@@ -91,5 +91,5 @@ Description
 Any information that you want to update for next phases.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 

@@ -17,5 +17,5 @@ In Strategy and Goals, you start by creating a strategic plan that captures your
 
 The following illustration provides an example of a strategic plan, including its strategic priorities, goals, and targets.
 
-![Enterprise strategy map example.](../image/stratey-map-example.png)
+![Enterprise strategy map example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../image/stratey-map-example.png)
 

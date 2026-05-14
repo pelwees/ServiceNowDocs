@@ -26,9 +26,9 @@ An automated indicator uses an indicator source as its data set. The indicator s
 **Related topics**  
 
 
-[indicator \(KPI\)](performance-analytics-glossary.md#)
+[indicator \(KPI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
-[database view](performance-analytics-glossary.md#)
+[database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
 ## breakdown
 
@@ -37,9 +37,9 @@ A grouping or a filter of indicator scores that is based on a qualitative attrib
 **Related topics**  
 
 
-[breakdown element](performance-analytics-glossary.md#)
+[breakdown element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
-[indicator \(KPI\)](performance-analytics-glossary.md#)
+[indicator \(KPI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
 ## breakdown element
 
@@ -48,7 +48,7 @@ The values for a breakdown. For example, the Priority breakdown may have the ele
 **Related topics**  
 
 
-[breakdown](performance-analytics-glossary.md#)
+[breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
 ## breakdown mapping
 
@@ -61,11 +61,11 @@ A set of records from a table or database view that constitute the unique values
 **Related topics**  
 
 
-[breakdown](performance-analytics-glossary.md#)
+[breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
-[breakdown element](performance-analytics-glossary.md#)
+[breakdown element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
-[bucket group](performance-analytics-glossary.md#)
+[bucket group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md#)
 
 ## bucket group
 

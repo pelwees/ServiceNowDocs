@@ -45,7 +45,7 @@ Role required: Microsoft Azure application developer, Microsoft Azure tenant adm
 
     After you successfully register the application, you see the Overview page.
 
-    ![Application overview page on Azure.](../image/sentinel_app_overview.png)
+    ![Application overview page on Azure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sentinel_app_overview.png)
 
 6.  Navigate to **Manage** &gt; **Certificates &amp; secrets**.
 

@@ -17,7 +17,7 @@ After the ServiceNow AI Platform ingests the AWS Security Hub finding, a securit
 
 ## Work notes
 
-A work note is posted when an incident is aggregated and if you have configured the **Log work note for new finding** option in the [Define filter and aggregation criteria for AWS Security Hub findings ingestion](aws-security-hub-profile-filter-and-aggregation-criteria.md#).
+A work note is posted when an incident is aggregated and if you have configured the **Log work note for new finding** option in the [Define filter and aggregation criteria for AWS Security Hub findings ingestion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/aws-security-hub-profile-filter-and-aggregation-criteria.md#).
 
 You can also view the internal finding import record that contains the raw incident data.
 

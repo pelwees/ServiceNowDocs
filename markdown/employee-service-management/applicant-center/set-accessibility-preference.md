@@ -32,5 +32,5 @@ Users can tab through the platform UI without enabling accessibility. However, w
 3.  Turn on the Accessibility enabled toggle switch.
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../concept/use-applicant-center.md)
 

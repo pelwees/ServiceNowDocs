@@ -15,22 +15,22 @@ The Average Ratings view displays the weighted average rating for each survey qu
 
 Use this view to learn how individual questions affect the overall rating for the category. Select a survey category from the choice list to display the chart for that category.
 
-![Survey scorecard average ratings](../image/SurveyScorecardAverageRatings.png "Survey scorecard average ratings")
+![Survey scorecard average ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyScorecardAverageRatings.png "Survey scorecard average ratings")
 
 To view the effect of each question's ratings on the entire category's ratings, point to the colored bar. The pop-up box shows the percentage of the total ratings represented by each individual question's weighted average.
 
-![Average ratings detail](../image/SurveyScorecardRatingDetail.png "Average ratings detail")
+![Average ratings detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/SurveyScorecardRatingDetail.png "Average ratings detail")
 
-**Parent Topic:**[View a survey scorecard](../task/t_ViewAScorecard.md)
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAScorecard.md)
 
 **Related topics**  
 
 
-[Survey scorecard category results](r_SurveyScorecardCategoryResults.md)
+[Survey scorecard category results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardCategoryResults.md)
 
-[Survey scorecard question results](r_SurveyScorecardQuestionResults.md)
+[Survey scorecard question results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardQuestionResults.md)
 
-[Survey scorecard history](r_SurveyScorecardHistory.md)
+[Survey scorecard history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyScorecardHistory.md)
 
-[Export a survey scorecard as an image](../task/t_ExportAScorecardAsAnImage.md)
+[Export a survey scorecard as an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ExportAScorecardAsAnImage.md)
 

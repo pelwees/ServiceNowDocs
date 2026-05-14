@@ -21,23 +21,23 @@ Role required: certification\_admin
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![setup icon.](../../image/eaw-image/eaw-icon-setup.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![setup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-setup.png)\).
 
-3.  Select the expand row icon \(![expand row icon.](../../image/ExpandIcon.png)\) next to **Certification Policies**.
+3.  Select the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Certification Policies**.
 
 4.  Select **All**.
 
 
-**Parent Topic:**[Working with the Setup page](../../concept/eaw-concept/eaw-work-with-setup-page.md)
+**Parent Topic:**[Working with the Setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-setup-page.md)
 
 **Related topics**  
 
 
-[Manage certification policies](../../concept/eaw-concept/eaw-config-cert-schedules.md)
+[Manage certification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-config-cert-schedules.md)
 
-[Import certification schedules in to Data Manager](eaw-convert-cert-schedules-to-cert-policies.md)
+[Import certification schedules in to Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-convert-cert-schedules-to-cert-policies.md)
 
-[Publish a draft Data Manager policy](eaw-publish-a-draft-policy.md)
+[Publish a draft Data Manager policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-publish-a-draft-policy.md)
 
-[Add or edit a certification policy](eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-cert-schedules.md)
 

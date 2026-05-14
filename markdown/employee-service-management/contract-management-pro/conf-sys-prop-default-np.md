@@ -39,7 +39,7 @@ When the contract renewal notice period and termination of contract renewal noti
 
     The default value is **60**.
 
-    ![Default value for agentic AI notice period.](../image/cmpro-agentic-ai-dft-np.png "System property for default notice period")
+    ![Default value for agentic AI notice period.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-agentic-ai-dft-np.png "System property for default notice period")
 
 5.  Select **Update**.
 
@@ -48,14 +48,14 @@ When the contract renewal notice period and termination of contract renewal noti
 
 The Manage contract repository agentic workflow uses the set value as default notice period when the contract renewal notice period and termination of contract renewal notice period are not available in a contract.
 
-**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](../concept/cmpro-conf-agentic-workflow.md)
+**Parent Topic:**[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-conf-agentic-workflow.md)
 
 **Related topics**  
 
 
-[Activate business rules for the Manage contract repository agentic workflow](conf-repository-agentic-ai.md)
+[Activate business rules for the Manage contract repository agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/conf-repository-agentic-ai.md)
 
-[Update the contracts AI agents handler script include](cmpro-script-includ-agenticAI.md)
+[Update the contracts AI agents handler script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-script-includ-agenticAI.md)
 
-[Enable notifications for AI extracted metadata and obligations](cmpro-na-me-agentic-ntf.md)
+[Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-me-agentic-ntf.md)
 

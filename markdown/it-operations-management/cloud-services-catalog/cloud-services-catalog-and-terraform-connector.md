@@ -23,9 +23,9 @@ Key features of Terraform Connector:
     -   Google Cloud Provider
 -   Discover the Infrastructure as Code \(IaC\) templates to discover the IaC \(Terraform\) templates from the Terraform environment.
 -   Generate catalog items using the Terraform templates, utilizing them to provision resources across different cloud environments.
--   Utilize the multiple repositories structure support with the Terraform app. See [Use multiple repositories structure with Terraform Connector app](../../cloud-management-v2/task/use-multiple-repositories-structure-with-terraform-connector.md) to learn more.
+-   Utilize the multiple repositories structure support with the Terraform app. See [Use multiple repositories structure with Terraform Connector app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../../cloud-management-v2/task/use-multiple-repositories-structure-with-terraform-connector.md) to learn more.
 
-For more information on Terraform Connector, configuring the advanced features, and how to use it, visit [Exploring Cloud Services Catalog Terraform Connector](../../cloud-management-v2/concept/exploring-cpg-terraform-connector.md).
+For more information on Terraform Connector, configuring the advanced features, and how to use it, visit [Exploring Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../../cloud-management-v2/concept/exploring-cpg-terraform-connector.md).
 
-**Parent Topic:**[Cloud Services Catalog administration guide](cloud-services-catalog-administration-guide.md)
+**Parent Topic:**[Cloud Services Catalog administration guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/cloud-services-catalog-administration-guide.md)
 

@@ -31,8 +31,8 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 3.  Select **Security Operations Efficiency** from the drop down list.
 
-    ![Security Incident Management dashboard](../image/security-operations-efficiency-dashboard.png)
+    ![Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-operations-efficiency-dashboard.png)
 
-    View the Security Operations Efficiency dashboard for further action. For detailed information on Security Operations Efficiency dashboard, see [Security Operations Efficiency dashboard](../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
+    View the Security Operations Efficiency dashboard for further action. For detailed information on Security Operations Efficiency dashboard, see [Security Operations Efficiency dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
 
 

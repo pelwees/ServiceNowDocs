@@ -54,18 +54,18 @@ Specifies the image filtering behavior. **Note:** Regardless of the action you s
 -   Default value: AttachEmail
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email properties](../../reference-pages/concept/c_EmailProperties.md)
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/concept/c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Outbound email configuration](../../reference-pages/reference/r_OutboundMailConfiguration.md)
+[Outbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_OutboundMailConfiguration.md)
 
-[Inbound email configuration](../../reference-pages/reference/r_InboundMailConfiguration.md)
+[Inbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_InboundMailConfiguration.md)
 
-[Email digest properties](email-digest-properties.md)
+[Email digest properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/email-digest-properties.md)
 
-[Advanced email properties](../../reference-pages/reference/r_AdditionalProperties.md)
+[Advanced email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AdditionalProperties.md)
 
-[Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Add a system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#)
 

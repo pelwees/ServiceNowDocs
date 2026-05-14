@@ -21,9 +21,9 @@ Role required: none.
 
 ## Procedure
 
-1.  [Define a parent instance](t_SelectTheParentInstance.md).
+1.  [Define a parent instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_SelectTheParentInstance.md).
 
-2.  [Pull changes from the parent instance](t_PullAVersion.md).
+2.  [Pull changes from the parent instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_PullAVersion.md).
 
 3.  Navigate to **Team Development** &gt; **Team Dashboard**.
 
@@ -33,6 +33,6 @@ Role required: none.
 
     -   Click **Back Out All**.
     -   Right-click the local change you want to back out, and then click **Back Out**.
-    ![Local changes back out all](../image/LocalChangesBackOutAll.png)
+    ![Local changes back out all](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/LocalChangesBackOutAll.png)
 
 

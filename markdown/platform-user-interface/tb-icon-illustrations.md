@@ -19,7 +19,7 @@ Icons are simple visual symbols used to represent actions, statuses, and concept
 
 **Important:** Icon illustrations apply to Workspaces and are not supported in the Core UI.
 
-![Action icon with outline and fill variants.](../image/tb-icon-variants-illustration.png "Example of a default icon illustration")
+![Action icon with outline and fill variants.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-icon-variants-illustration.png "Example of a default icon illustration")
 
 ## How icons differ from other default illustrations
 
@@ -60,8 +60,8 @@ The size and format limitations for each of the four file sizes are as follows:
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[Override icon illustrations with custom images](../task/override-icon-with-custom-image.md)**  
+-   **[Override icon illustrations with custom images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/override-icon-with-custom-image.md)**  
 Modify or override the default icon illustrations with your own custom images to promote visual elements that reflect your company's branding. When you override an icon, Theme Builder updates the icon wherever it is used across the interface.
 
-**Parent Topic:**[Working with Image styles](working-with-image-styles.md)
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 

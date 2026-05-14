@@ -39,7 +39,7 @@ Role required: none
 
 8.  In the Relationship Types and Related Items section, select **Add Relationship Types** and add all the relationships from the list.
 
-    ![Connecting the Server and the Database nodes and adding relationship types.](../image/QuerySample.png)
+    ![Connecting the Server and the Database nodes and adding relationship types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/QuerySample.png)
 
     Settings in the Relationship Direction section reflect the parent-child direction in the relationship. If the Database class is the parent in the relationship, then the **Parent** and **Child** settings are switched.
 

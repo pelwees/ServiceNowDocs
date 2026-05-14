@@ -24,7 +24,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-**Note:** You can also use quotas to set per-user and total capacity limitations on resources. See [Quotas and resource order controls](../../cloud-management-v2/concept/quotas-1.md).
+**Note:** You can also use quotas to set per-user and total capacity limitations on resources. See [Quotas and resource order controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2/concept/quotas-1.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Role required: sn\_cmp.cloud\_admin
 
 4.  On the **Capacity Limits** tab, set the **Capacity Limit** values as needed.
 
-    ![Use the Capacity Limits tab to limit options like the number of CPUs](../image/capacity-limits-tab.png)
+    ![Use the Capacity Limits tab to limit options like the number of CPUs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capacity-limits-tab.png)
 
     |Value|Description|
     |-----|-----------|
@@ -54,5 +54,5 @@ Role required: sn\_cmp.cloud\_admin
 
 Click **Discover Now** to run Discovery on the logical datacenters.
 
-**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](../concept/cloud-mgt-general-setup-day-2.md)
+**Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-mgt-general-setup-day-2.md)
 

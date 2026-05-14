@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-    ![System applications](../image/system-apps.png)
+    ![System applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/system-apps.png)
 
 2.  Search for the application you want to update.
 

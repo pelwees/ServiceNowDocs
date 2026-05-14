@@ -67,7 +67,7 @@ Starting Page
 </td><td>
 
 Select the page that the tour starts on:-   If your tour type is Standard UI, your choices include pages that show lists and forms.
--   If your tour type is [Service Portal](../../service-portal/concept/c_ServicePortal.md), your choices include [Service Portal](../../service-portal/concept/c_ServicePortal.md) pages.
+-   If your tour type is [Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../service-portal/concept/c_ServicePortal.md), your choices include [Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../service-portal/concept/c_ServicePortal.md) pages.
 
 **Note:** In the base system, you can only launch tours from pages that use the SP Header Menu. Manually launched tours do not display on pages with custom header menus.
 
@@ -108,7 +108,7 @@ Select the roles that can access the guided tour and move them from the Availabl
 
     The Guided Tour Designer opens in draft status in a new tab or window.
 
-    ![Shows Guided Tour Designer in a new tab.](../image/create-guided-tour-madrid.png)
+    ![Shows Guided Tour Designer in a new tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/create-guided-tour-madrid.png)
 
 4.  Select **Create Introduction**.
 
@@ -124,17 +124,17 @@ Select the roles that can access the guided tour and move them from the Availabl
 
         The element is highlighted when the callout is positioned correctly. When you release the callout, it locks into the position.
 
-        ![Callout positioned correctly](../image/guided-tour-drop-callout.png)
+        ![Callout positioned correctly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-drop-callout.png)
 
     2.  Enter the instructions in the **Text** box.
 
-        ![Create Step Page](../image/gtd-createstep.png)
+        ![Create Step Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-createstep.png)
 
         You can change the direction of the callout by selecting the correct option under **Placement**. Only the placement options applicable to the selected element are enabled.
 
-    3.  [Select the trigger](../reference/guided-tour-triggers.md) from the **Choose action** list. Only triggers applicable to the selected element appears in the list.
+    3.  [Select the trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../reference/guided-tour-triggers.md) from the **Choose action** list. Only triggers applicable to the selected element appears in the list.
 
-        ![Callout trigger](../image/guided-tour-delegate-callout-london.png)
+        ![Callout trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-delegate-callout-london.png)
 
     4.  To format text, such as bold or italic, add HTML tags around the text.
 
@@ -146,11 +146,11 @@ Select the roles that can access the guided tour and move them from the Availabl
 
         The first Step label appears.
 
-        ![Tour first step callout label](../image/guided-tour-step1-label-london.png)
+        ![Tour first step callout label](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-step1-label-london.png)
 
         When your end users select the label, they see your first step instructions rendered as a message.
 
-        ![Tour first step label is rendered](../image/guided-tour-step1-rendered-london.png)
+        ![Tour first step label is rendered](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-step1-rendered-london.png)
 
 6.  Continue adding steps until you have completed the tour.
 
@@ -168,11 +168,11 @@ Select the roles that can access the guided tour and move them from the Availabl
 
 8.  Select **Preview** at any time to test your steps and make any final revisions to the tour.
 
-    Note the steps that aren’t working properly or that need correction. Edit the tour or the steps as described in [Edit Guided Tours](edit-guided-tour.md).
+    Note the steps that aren’t working properly or that need correction. Edit the tour or the steps as described in [Edit Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md).
 
 9.  To share your draft or published tour with your internal colleagues for review, do the following:
 
-    1.  Select the copy URL icon ![Copy URL icon](../../../reuse/icons/product-icons/link-outline-24.svg) to copy the tour URL.
+    1.  Select the copy URL icon ![Copy URL icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../reuse/icons/product-icons/link-outline-24.svg) to copy the tour URL.
 
     2.  Send the URL to reviewers.
 
@@ -186,5 +186,5 @@ The guided tour is created and listed in the Help Center. Each guided tour is al
 **Related topics**  
 
 
-[Exploring Guided Tours](../concept/exploring-guided-tours.md)
+[Exploring Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/exploring-guided-tours.md)
 

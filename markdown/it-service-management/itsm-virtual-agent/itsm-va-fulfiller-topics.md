@@ -30,7 +30,7 @@ For normal and emergency change requests, Virtual Agent prompts the user to ente
 
 For standard change requests, Virtual Agent sends a carousel link to a catalog of standard change items. After the user selects an item, Virtual Agent provides a link to open the associated category page to request the change.
 
-![Create Change Request topic.](../image/CreateChangeRequest.png)
+![Create Change Request topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/CreateChangeRequest.png)
 
 ## Create Problem
 
@@ -40,7 +40,7 @@ Users with the itil role can create problem records. Users provide a description
 
 Users with the itil role can check the next available change window for a configuration item. For example, you can determine the next available change window for a specific asset assigned to a user, regarding maintenance or black-out calendars. Users must enter the configuration item to check, such as `PROmonitor`, and then select a planned start and end date and time.
 
-![Identify Available Change Windows topic.](../image/IdentifyAvailableChangeWindows.png)
+![Identify Available Change Windows topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/IdentifyAvailableChangeWindows.png)
 
 ## Identify Scheduled Changes
 
@@ -50,7 +50,7 @@ Users with the itil role can find upcoming change requests for a specific config
 
 Users with the itil role can resolve an incident through support chat by providing a close code, for example, **Solved \(Permanently\)** or **Solved \(Workaround\)**, and resolution notes.
 
-![Resolve Incident topic.](../image/ResolveIncident.png)
+![Resolve Incident topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/ResolveIncident.png)
 
 ## Update Assigned Task
 
@@ -60,5 +60,5 @@ Users with the itil role can update comments or work notes in assigned tasks. Wh
 
 Users with the itil role can update the actual start and end time of a change, as well as move it to work in progress or closed states.
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

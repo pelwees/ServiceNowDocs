@@ -23,7 +23,7 @@ Once configured, live agents can interact with multiple AI agent conversations t
 
 Enable multiple conversations on a ServiceNow instance in the Messaging Channels \[sys\_cs\_channel.list\] table by setting the value of the **Supports Multiple Conversations** field on the Now Assist panel record to **true**. If you don’t see this field, make sure you are in the Global scope and are using the Default view. By saving the record and refreshing the instance, you can see the multiple active conversations features in the Now Assist panel.
 
-![Now Assist panel enabled to support multiple conversations.](../image/support-multipe-convstns.png)
+![Now Assist panel enabled to support multiple conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/support-multipe-convstns.png)
 
 ## Title for the conversation
 
@@ -31,9 +31,9 @@ With the multiple conversations feature enabled in the Now Assist panel, the fir
 
 ## Starting a new conversation
 
-Start a new conversation by selecting the plus icon \(![New Now Assist panel chat.](../image/new-nap-chat.png)\) and choosing a topic. See the conversation list by selecting the All chats icon \(![List of conversations.](../image/all-chats-nap.png)\), to see the Active chats and Closed chats.
+Start a new conversation by selecting the plus icon \(![New Now Assist panel chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/new-nap-chat.png)\) and choosing a topic. See the conversation list by selecting the All chats icon \(![List of conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/all-chats-nap.png)\), to see the Active chats and Closed chats.
 
 ## Unread chats on the conversation list
 
-See the batch count of the unread chats on the conversation list icon \(![Batch count on the conversations list representing the number of unread conversations.](../image/nap-all-chats-conv-list.png)\). For example, if number 6 appears on the All chats icon \(![Batch count on the conversations list representing the number of unread conversations.](../image/nap-all-chats-conv-list.png)\), that means there's six unread conversations on the Now Assist panel.
+See the batch count of the unread chats on the conversation list icon \(![Batch count on the conversations list representing the number of unread conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/nap-all-chats-conv-list.png)\). For example, if number 6 appears on the All chats icon \(![Batch count on the conversations list representing the number of unread conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/nap-all-chats-conv-list.png)\), that means there's six unread conversations on the Now Assist panel.
 

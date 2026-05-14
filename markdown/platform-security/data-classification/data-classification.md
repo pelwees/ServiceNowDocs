@@ -17,19 +17,19 @@ Group data by type, using pre-defined or user-defined data classifications. If y
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore Data Classification ![Exploring](../../../common/image/icon-explore.png) Learn about Data Classification.](exploring-data-classification.md)
+[Explore Data Classification ![Exploring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../../../common/image/icon-explore.png) Learn about Data Classification.](exploring-data-classification.md)
 
 </td><td>
 
-[Configure Data Classification ![Configuring](../../../common/image/icon-set-up.png) Create and configure your own data classes.](../task/create-data-classification-codes.md)
+[Configure Data Classification ![Configuring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../../../common/image/icon-set-up.png) Create and configure your own data classes.](../task/create-data-classification-codes.md)
 
 </td></tr><tr><td>
 
-[Reference for Data Classification ![Reference](../../../common/image/icon-reference.png) Learn how Data Classification works with demo data.](../task/install-data-classification-plugin-demo-data.md#)
+[Reference for Data Classification ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../../../common/image/icon-reference.png) Learn how Data Classification works with demo data.](../task/install-data-classification-plugin-demo-data.md#)
 
 </td><td>
 
-[Analyze Data Classifications ![Analyze](../../../common/image/icon-workspace.png) Learn how to analyze Data Classifications.](../task/analyze-data-classifications.md)
+[Analyze Data Classifications ![Analyze](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-classification/../../../common/image/icon-workspace.png) Learn how to analyze Data Classifications.](../task/analyze-data-classifications.md)
 
 </td></tr></tbody>
 </table>

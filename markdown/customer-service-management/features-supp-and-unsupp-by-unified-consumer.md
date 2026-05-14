@@ -202,9 +202,9 @@ Features
 </table>**Related topics**  
 
 
-[Configuring a user as a Unified Consumer](../concept/configuring-employee-as-a-consumer.md)
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configuring-employee-as-a-consumer.md)
 
-[Roles installed with Employee as a Consumer](roles-installed-with-employee-as-consumer.md)
+[Roles installed with Employee as a Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/roles-installed-with-employee-as-consumer.md)
 
-[Setting up a user as a Unified Consumer](../concept/setting-up-a-user.md)
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/setting-up-a-user.md)
 

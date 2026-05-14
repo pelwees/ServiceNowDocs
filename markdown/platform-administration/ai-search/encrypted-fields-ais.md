@@ -23,5 +23,5 @@ When dealing with an encrypted source record field, AI Search has the following 
 
 For detailed descriptions of the encryption options available for source records, see [Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md).
 
-**Parent Topic:**[Administering AI Search](administer-ais.md)
+**Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 

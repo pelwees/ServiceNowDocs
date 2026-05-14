@@ -23,7 +23,7 @@ Now Assist for CSM provides base system skills that can be tailored to meet spec
 -   Using Now Assist Admin console: Modify base system skills, input configurations, and display settings.
 -   Using Now Assist Skill Kit: Build and publish custom skills for advanced use cases by customizing inputs and prompts, and then publish it. You can also use the Now Assist Skill Kit to clone base system skills, as long as they are the latest versions created after the release of the Now Assist Skill Kit.
 
-![Flowchart showing process steps in Now Assist Admin console and Now Assist Skill Kit](../image/cloning-in-now-assist-for-csm.png)
+![Flowchart showing process steps in Now Assist Admin console and Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/cloning-in-now-assist-for-csm.png)
 
 ## Access and activate a skill in Now Assist Admin console
 
@@ -51,7 +51,7 @@ Now Assist for CSM provides base system skills that can be tailored to meet spec
     9.  Under each display type, open the chevron and specify user roles by entering role names in the User roles field.
     10. Review your choices and select **Activate** to complete the skill customization.
 
-        **Note:** For more information, see [Customize a case summarization skill in Now Assist for Customer Service Management \(CSM\)](../task/customize-a-now-assist-for-csm-skill.md).
+        **Note:** For more information, see [Customize a case summarization skill in Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../task/customize-a-now-assist-for-csm-skill.md).
 
 
 ## Access and clone base system skills with the Now Assist Skill Kit
@@ -61,7 +61,7 @@ Now Assist for CSM provides base system skills that can be tailored to meet spec
 
     **Note:** You need the sn\_skill\_builder.admin role to activate and customize the prompt in the Now Assist Skill Kit \(NASK\).
 
-3.  Create a [clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/clone-and-edit-servicenow-skill.md) for the selected skill by selecting the overflow icon ![More options](../image/OverflowIcon.png)
+3.  Create a [clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/clone-and-edit-servicenow-skill.md) for the selected skill by selecting the overflow icon ![More options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/OverflowIcon.png)
 4.  Enter a name, description and provider to clone the skill.
 5.  In the **Skill contents** pane, select the**Inputs** edit icon and add any inputs that you like to add to the prompt.
 6.  In the **Prompt** screen, select the edit icon and add the desired inputs to the prompt or [Create](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md) a new prompt.

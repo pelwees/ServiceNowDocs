@@ -28,18 +28,18 @@ Role required: it\_project\_manager
     The selected project opens in the project workbench under **Planning** tab in project workspace.
 
 
-**Parent Topic:**[Managing Project workbench](../concept/c_UsingProjectWorkbench.md)
+**Parent Topic:**[Managing Project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_UsingProjectWorkbench.md)
 
 **Related topics**  
 
 
-[Create a project task in the project workbench](t_CreateProjTaskProjWorkbench.md)
+[Create a project task in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateProjTaskProjWorkbench.md)
 
-[Manage project stories in the project workbench](t_ManageProjStoriesProjWorkbench.md)
+[Manage project stories in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ManageProjStoriesProjWorkbench.md)
 
-[Create a story in the project workbench](t_CreateAStoryInTheProjectWorkbench.md)
+[Create a story in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAStoryInTheProjectWorkbench.md)
 
-[Create a test case in the project workbench](t_CreateTestCaseProjWorkbench.md)
+[Create a test case in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTestCaseProjWorkbench.md)
 
-[Create a project task in the project workbench](t_CreateProjTaskProjWorkbench.md)
+[Create a project task in the project workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateProjTaskProjWorkbench.md)
 

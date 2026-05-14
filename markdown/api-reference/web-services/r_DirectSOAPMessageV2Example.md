@@ -43,5 +43,5 @@ gs.info("Response: " + responseBody);
 gs.info("HTTP Status: " + status);
 ```
 
-**Parent Topic:**[Scripting outbound SOAP](../../../../../integrate/outbound-soap/reference/r_ScriptingOutboundSOAP.md)
+**Parent Topic:**[Scripting outbound SOAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../../../integrate/outbound-soap/reference/r_ScriptingOutboundSOAP.md)
 

@@ -21,10 +21,10 @@ An inbound request transitions through a series of states as ServiceNow AI Platf
 |Error|An error occurred while creating the order. The inbound request exits the processing cycle.|
 |Pending|The inbound request is waiting for a condition to be met before processing can continue.|
 
-**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[Asynchronous order processing for large customer and consumer orders](../concept/asynchronous-order-processing.md)
+[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/asynchronous-order-processing.md)
 

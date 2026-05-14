@@ -41,7 +41,7 @@ Processor definitions are searched as licenses are counted. If a processor defin
 
 6.  For **License type**, select **Per Installation - IBM PVU**.
 
-    ![PVU software counter](../image/PVUSoftwareCounter.png)
+    ![PVU software counter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/PVUSoftwareCounter.png)
 
 7.  Add information to other fields as necessary.
 
@@ -49,12 +49,12 @@ Processor definitions are searched as licenses are counted. If a processor defin
 
 9.  Click **Count licenses**.
 
-    ![SAM software counter PVU results](../image/SAMSoftwareCounterPVUResults.png)
+    ![SAM software counter PVU results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMSoftwareCounterPVUResults.png)
 
 10. In the **Software Counter Results** list, drill down to obtain summary and detailed information.
 
-    ![SAM software counter PVU results](../image/SAMSoftwareCounterPVUResults2.png)
+    ![SAM software counter PVU results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMSoftwareCounterPVUResults2.png)
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_IBMPVUProcessPack.md)
 

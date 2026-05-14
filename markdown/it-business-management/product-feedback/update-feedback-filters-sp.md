@@ -25,7 +25,7 @@ Role required: pf\_user
 
 2.  Create a feedback filter.
 
-    For more information, see [Create feedback filters in Strategic Planning](create-feedback-filters.md).
+    For more information, see [Create feedback filters in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-feedback-filters.md).
 
 3.  From the feedback page, select the feedback filter card that you want to edit.
 
@@ -47,7 +47,7 @@ Action
 
 From the feedback page:
 
-1.  Select the Actions icon \(![Actions icon.](../../alignment-planner-workspace/images/icon-more-actions.png)\).
+1.  Select the Actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../alignment-planner-workspace/images/icon-more-actions.png)\).
 2.  Select **Edit** to update the feedback filter card.
 3.  Select **Confirm**.
 
@@ -60,7 +60,7 @@ From the feedback page:
 
 From the feedback page:
 
-1.  Select the Actions icon \(![Actions icon.](../../alignment-planner-workspace/images/icon-more-actions.png)\).
+1.  Select the Actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../alignment-planner-workspace/images/icon-more-actions.png)\).
 2.  Select **Delete** to delete the feedback filter card.
 3.  Select **Delete** to confirm your action.
 

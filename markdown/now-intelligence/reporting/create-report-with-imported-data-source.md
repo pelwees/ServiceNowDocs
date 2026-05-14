@@ -19,7 +19,7 @@ You can import Excel spreadsheets \(`.xlsx` files\) of data maintained outside o
 
 Role required: pa\_admin, report\_admin
 
-You must have the subscription version of Performance Analytics to create reports with imported data. See [Activate your Performance Analytics subscription](../../performance-analytics/concept/c_PremiumPerformanceAnalytics.md#).
+You must have the subscription version of Performance Analytics to create reports with imported data. See [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/concept/c_PremiumPerformanceAnalytics.md#).
 
 The following restrictions apply to imported data:
 
@@ -34,7 +34,7 @@ The following restrictions apply to imported data:
 -   The imported `.xlsx` file must have a specified expiration date.
 -   If the owner deletes the table after import, reports based on the imported table are also deleted.
 
-**Note:** Report\_view access control lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](../concept/report-view-access-control.md).
+**Note:** Report\_view access control lists \(ACLs\) have to be defined for users to view these reports. For more information, see [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-access-control.md).
 
 ## About this task
 
@@ -48,11 +48,11 @@ Importing report data in this way is useful when you have information that is ma
 
 3.  In the **Source type** list, select **External import**.
 
-    ![Source type menu, External import option selected](../image/source-type-ext-import.png)
+    ![Source type menu, External import option selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/source-type-ext-import.png)
 
     **Note:** The **External import** menu option is only available if the subscription for Performance Analytics is enabled.
 
-4.  Choose an existing imported report source, or select the **Upload** icon \(![Upload icon](../image/upload-icon.png)\) icon to import a file.
+4.  Choose an existing imported report source, or select the **Upload** icon \(![Upload icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/upload-icon.png)\) icon to import a file.
 
 5.  If you selected **Upload**, follow these steps:
 
@@ -62,7 +62,7 @@ Importing report data in this way is useful when you have information that is ma
 
         Note this name. You need it later to set the report\_view Access Control Lists \(ACLs\).
 
-        ![Importing the file 'asset inventory.xslt' as the new report source "External asset inventory."](../image/excel-file-upload.png)
+        ![Importing the file 'asset inventory.xslt' as the new report source "External asset inventory."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/excel-file-upload.png)
 
     3.  Set the expiration of the report source.
 
@@ -85,7 +85,7 @@ Importing report data in this way is useful when you have information that is ma
 
 7.  Complete report creation as normal.
 
-    For information on specific report types, see [Report types](../reference/report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](t_CreateYourOwnReport.md#).
+    For information on specific report types, see [Report types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/report-types-creation-details-rd.md). For general information about creating reports, see [Create a report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateYourOwnReport.md#).
 
 8.  Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
@@ -99,7 +99,7 @@ Importing report data in this way is useful when you have information that is ma
 
         For example, if you uploaded a file named 'External asset inventory,' you would search for `*external_asset` and find the table u\_rep\_snc\_global\_admin\_external\_asset\_inventory, reflecting that it was created in the global scope by an admin user.
 
-        ![The table that was created by the external file import, in the list of tables.](../image/aanbouw-table.png)
+        ![The table that was created by the external file import, in the list of tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/aanbouw-table.png)
 
     3.  Copy the table name.
 
@@ -107,7 +107,7 @@ Importing report data in this way is useful when you have information that is ma
 
         The admin role with the elevated security\_admin role is required. If you're not an admin, consider passing the table name to a ServiceNow AI Platform administrator along with a request for the desired roles to have report\_view read permission.
 
-    5.  Create report\_view ACLs for roles that you want to be able to read the report, as described in [Report\_view access control](../concept/report-view-access-control.md).
+    5.  Create report\_view ACLs for roles that you want to be able to read the report, as described in [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-access-control.md).
 
 
 ## Result
@@ -116,10 +116,10 @@ The report is created from the external source. On a dashboard, this report has 
 
 ## What to do next
 
-Share the report, as described in [Distribute reports](../concept/c_DistributeReports.md).
+Share the report, as described in [Distribute reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_DistributeReports.md).
 
--   **[Edit an imported data source](edit-config-external-data-source.md)**  
+-   **[Edit an imported data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/edit-config-external-data-source.md)**  
 You can edit imported Excel spreadsheets \(`.xlsx` files\) of data maintained outside of your instance.
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdvancedReporting.md)
 

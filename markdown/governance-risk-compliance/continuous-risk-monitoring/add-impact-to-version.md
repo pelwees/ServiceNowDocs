@@ -25,11 +25,11 @@ Role required: sn\_irm\_cont\_auth.admin
 
 2.  Select a Workflow Configuration.
 
-3.  To view the impact list, select the expand icon \(![impact expand icon](../image/WF-version-and-impact-icon.png)\) in the **Versions** tab.
+3.  To view the impact list, select the expand icon \(![impact expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-version-and-impact-icon.png)\) in the **Versions** tab.
 
 4.  Select **New** to add a new impact.
 
-    ![Adding impact to version.](../image/WF-version-and-impact4.png)
+    ![Adding impact to version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-version-and-impact4.png)
 
     **Impact New record** page displays.
 
@@ -52,5 +52,5 @@ The workflow impact is available for authorization packages. Baseline controls a
 
 ## What to do next
 
-[Add view rules to workflow](add-view-rules-to-workflow.md)
+[Add view rules to workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-view-rules-to-workflow.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics KPIs and dashboards, Platform Analytics ITSM Das
 
 Dashboard providing a view into process metrics related to Open and Closed incidents.
 
-![Incident management dashboard](../../image/incident-management.png)
+![Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../image/incident-management.png)
 
 |Data Visualization|Description|KPI \(Performance Analytics Indicator\)|
 |------------------|-----------|---------------------------------------|

@@ -25,31 +25,31 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Patient Support Services.](pss-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Patient Support Services.](pss-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](pss-config-app.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](pss-config-app.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Manage enrollment requests from the Workspace.](pss-using-workspace.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Manage enrollment requests from the Workspace.](pss-using-workspace.md)
 
 </td></tr><tr><td>
 
-[Complete ![](../../../reuse/icons/brand-icons/bus-checkmark-circle.svg) Complete your to-do items for enrollment requests.](pss-complete-to-do.md)
+[Complete ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-checkmark-circle.svg) Complete your to-do items for enrollment requests.](pss-complete-to-do.md)
 
 </td><td>
 
-[Training request appointments![](../../../reuse/icons/brand-icons/bus-calendar.svg) Book appointments for enrollment training requests.](pss-booking-appt-patient.md)
+[Training request appointments![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-calendar.svg) Book appointments for enrollment training requests.](pss-booking-appt-patient.md)
 
 </td><td>
 
-[Contribute![](../../../reuse/icons/brand-icons/bus-case.svg) Create enrollment cases as a contributor.](pss-create-case-contributor.md)
+[Contribute![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-case.svg) Create enrollment cases as a contributor.](pss-create-case-contributor.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pss-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pss-reference.md)
 
 </td><td>
 

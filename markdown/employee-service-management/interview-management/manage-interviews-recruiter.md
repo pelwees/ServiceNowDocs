@@ -93,7 +93,7 @@ From the **Feedback** tab, open the feedback record and select **Send reminder**
 
 </td><td>
 
-From the **Feedback** tab:-   To provide interview feedback, open the feedback record assigned to you and enter the details, and then select **Submit feedback**. For more information, see [Provide interview feedback](provide-interview-feedback-recruiter.md).
+From the **Feedback** tab:-   To provide interview feedback, open the feedback record assigned to you and enter the details, and then select **Submit feedback**. For more information, see [Provide interview feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/provide-interview-feedback-recruiter.md).
 -   To edit a feedback submitted by you, open the feedback record and then select **Edit feedback**.
 -   To indicate that an interview assigned to you didn't happen, open the feedback record and select **Interview incomplete** to enter the corresponding reason and comments.
 
@@ -112,7 +112,7 @@ From the **Feedback** tab:-   To provide interview feedback, open the feedback r
 3.  Select **Proceed**.
 4.  On the Reschedule interview form, fill in the fields.
 
-For a description of the field values, see [Schedule interview form](../reference/schedule-interview-form.md).
+For a description of the field values, see [Schedule interview form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../reference/schedule-interview-form.md).
 
  **Note:** The reschedule count of an interview, and the reason and notes entered during rescheduling are saved in the activity stream of the interview record.
 
@@ -142,5 +142,5 @@ From the Mark as complete list, select **Cancel interview**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Interview Management](../concept/using-interview-mgmnt.md)
+**Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../concept/using-interview-mgmnt.md)
 

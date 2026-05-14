@@ -66,5 +66,5 @@ Perform a manual upgrade of your existing Agent Client Collector version on a sy
         -   **Host data collection** = Collected
         -   **Version** = &lt;Relevant version number&gt;
 
-**Parent Topic:**[Agent Client Collector installation on a macOS system](../concept/acc-install-mac-os.md)
+**Parent Topic:**[Agent Client Collector installation on a macOS system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-install-mac-os.md)
 

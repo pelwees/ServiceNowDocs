@@ -27,18 +27,18 @@ Role required: admin
 
 2.  In the page header, right-click to display a menu and select **View** &gt; **Usage Insights**
 
-    ![How to view Usage Insights polices according to country.](../image/uxa-countries-view.png)
+    ![How to view Usage Insights polices according to country.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-countries-view.png)
 
     The selected view displays all countries and their allocated consent tracking policies.
 
 3.  Select the country name, whose consent tracking policy you want to update.
 
-4.  In the Analytics Consent Policy field within the Country page, select the search icon \(![Search icon.](../image/search-icon.png)\).
+4.  In the Analytics Consent Policy field within the Country page, select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/search-icon.png)\).
 
 5.  Select the new **Analytics Consent Policy**.
 
 6.  Select **Update**.
 
 
-**Parent Topic:**[Types of tracking consent policies in Usage Insights](../reference/uxa-tracking-types.md)
+**Parent Topic:**[Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../reference/uxa-tracking-types.md)
 

@@ -23,7 +23,7 @@ Role required: Notify admin
 
 1.  Navigate to **All** &gt; **Notify** &gt; **Microsoft Teams** &gt; **Properties**.
 
-    ![Notify connector for Microsoft Teams properties](../image/notify-ms-teams-properties02.png)
+    ![Notify connector for Microsoft Teams properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/notify-ms-teams-properties02.png)
 
 2.  On the form, fill the fields.
 
@@ -89,5 +89,5 @@ Option to provide the app Id of Meeting Extensibility app. Provide the Meeting E
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](../concept/config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/config-notify-ms-teams.md)
 

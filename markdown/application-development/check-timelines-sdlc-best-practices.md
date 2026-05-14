@@ -23,5 +23,5 @@ Engage your platform administrator early to confirm development timelines and fo
 
 Use source control for collaboration, avoid update sets for major changes, and document all approvals. Early engagement with admins helps prevent governance issues and accelerates delivery.
 
-**Parent Topic:**[Plan your app before you start building](plan-app-building.md)
+**Parent Topic:**[Plan your app before you start building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-app-building.md)
 

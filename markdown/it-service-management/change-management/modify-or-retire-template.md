@@ -17,7 +17,7 @@ Copy and modify change templates.
 
 ## Before you begin
 
-The change model you want to modify must have been created. For more information, see [Create a Change model](create-a-change-model.md).
+The change model you want to modify must have been created. For more information, see [Create a Change model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
 
 Role required: change\_manager
 
@@ -66,12 +66,12 @@ Select **Copy**.A template copy is created and the Previous template field displ
     After the modifications are approved, a new version of the change template is created. Change requests created from the modified change template reflects the modifications made.
 
 
-**Parent Topic:**[Create and propose a change template](create-change-template.md)
+**Parent Topic:**[Create and propose a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
 **Related topics**  
 
 
-[Create and propose a change template](create-change-template.md)
+[Create and propose a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-template.md)
 
-[Review a change template](review-change-template.md)
+[Review a change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/review-change-template.md)
 

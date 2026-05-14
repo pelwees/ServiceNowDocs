@@ -37,5 +37,5 @@ While SMS method is a convenient authentication method, there are several consid
 -   Reliant on mobile network availability.
 -   Not recommended as the sole authentication factor for high-risk or sensitive operations.
 
-SMS OTP can enhance overall security when used appropriately. For detailed configuration instructions, see [Multi-factor authentication Providers](multi-factor-authentication-providers.md).
+SMS OTP can enhance overall security when used appropriately. For detailed configuration instructions, see [Multi-factor authentication Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/multi-factor-authentication-providers.md).
 

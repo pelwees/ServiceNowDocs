@@ -27,7 +27,7 @@ Role required: admin or virtual\_agent\_admin
 
     2.  Set the **Active** property to **true** for the conversations you want to activate.
 
-        ![Activate system notifications for conversations.](../image/SystemNotifications.png)
+        ![Activate system notifications for conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/SystemNotifications.png)
 
 2.  Activate Workflow Studio flows for specific actionable notifications ITSM Virtual Agent conversations.
 
@@ -45,5 +45,5 @@ Role required: admin or virtual\_agent\_admin
 3.  [Enable notifications in Virtual Agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md)
 
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](../concept/setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/setting-up-itsm-va.md)
 

@@ -32,7 +32,7 @@ Role required:
 
 2.  Create an assessment template or open an existing assessment template that is in the Draft state.
 
-    For more information on creating a template, see [Create an assessment template](sae-asmnt-template-create.md).
+    For more information on creating a template, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
 3.  Select a question for which you want to configure an automatic response.
 
@@ -58,7 +58,7 @@ Role required:
     -   The first condition that meets the criteria triggers the default response. Priority is determined by the order of the conditions. For instance, if you have three conditions and the first one is true, the system doesn't check the remaining two.
 9.  In the **Default response is** field in the **If nothing matches** section, set the default response for situations where none of the condition sets meet the set criteria.
 
-    ![Screen of the Automate response pop-up window, which shows theIf section, Then section, and If nothing matches section.](../image/automate-response-add-condition.png)
+    ![Screen of the Automate response pop-up window, which shows theIf section, Then section, and If nothing matches section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/automate-response-add-condition.png)
 
 10. Create a script for a dynamic response by selecting the script icon ![](../image/script-icon.png).
 

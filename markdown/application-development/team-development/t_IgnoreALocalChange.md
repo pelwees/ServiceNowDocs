@@ -39,7 +39,7 @@ An ignored local change always points to the current version for the record. You
 
     For example, filter the list to show all changes in the Default Update Set.
 
-    ![Ignore changes default](../image/IgnoreChangesDefault.png)
+    ![Ignore changes default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/IgnoreChangesDefault.png)
 
 3.  Click **Ignore All**.
 
@@ -64,6 +64,6 @@ Select the check boxes beside the rows and select **Do Not Ignore** from the Act
 Select the check boxes beside the rows and select **Queue for Push** from the Actions choice list.
 
 </td></tr></tbody>
-</table>    ![The Ignored tab](../image/Ignored.png)
+</table>    ![The Ignored tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/Ignored.png)
 
 

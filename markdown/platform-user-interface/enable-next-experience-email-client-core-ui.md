@@ -25,7 +25,7 @@ The **glide.ui.load\_seismic\_email\_client** system property provides access to
 
 There's two places you can access the Next Experience email client from the Core UI.
 
--   Access the email client from the More Actions menu \(![More Actions icon](../image/x-more-actions-icon.png)\).
+-   Access the email client from the More Actions menu \(![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-more-actions-icon.png)\).
 -   Access the email client from an Activity stream email card by selecting **Reply**, **Reply All**, or **Forward**.
 
 The Next Experience email client provides these features in the Core UI.
@@ -53,5 +53,5 @@ These Core UI email client features aren’t available after enabling the Next E
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Forms in the classic environment](../../../use/using-forms/concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/concept/c_UsingForms.md)
 

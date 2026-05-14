@@ -18,8 +18,8 @@ A policy that is triggered by the on Lease end trigger can send a notification o
 ## Before you begin
 
 -   Role required: sn\_cmp.cloud\_governor or admin
--   Optional: [Create one or more cloud policy groups](create-cloud-policy-group-1.md).
--   [Configure a cloud policy rule](configure-cloud-policy-rule-1.md) and associated conditions.
+-   Optional: [Create one or more cloud policy groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy-group-1.md).
+-   [Configure a cloud policy rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-cloud-policy-rule-1.md) and associated conditions.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ A policy that is triggered by the on Lease end trigger can send a notification o
 
 4.  On the popup, click **Create** for the type of action to perform, enter a unique and meaningful **Action Name**, and then fill in the form for the action.
 
-    ![Create Action popup](../image/action-on-lease-end-cloud-mgt.png)
+    ![Create Action popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/action-on-lease-end-cloud-mgt.png)
 
     |Field|Description|
     |-----|-----------|

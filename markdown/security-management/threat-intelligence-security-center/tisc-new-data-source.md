@@ -31,7 +31,7 @@ Role required: sn\_sec\_tisc.admin
 
     The various feed types are displayed.
 
-    ![Select Feed Type dialog showing feed options with MISP selected.](../image/tisc-all-feeds-new-source.png)
+    ![Select Feed Type dialog showing feed options with MISP selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-all-feeds-new-source.png)
 
 5.  Select the required feed type.
 
@@ -186,7 +186,7 @@ Data Parsing Mechanism
 Data parsing mechanism. Available options:-   **Automated IoC Extraction**: This option is selected by default when configuring Text, CSV, or JSON feeds.
 -   **Custom Field Mapping**: Use this option to define how specific fields in your feed data should be mapped to observable attributes.
 
-Once selected, you can configure the mappings in the **Field Mapping** section. For more detailed information on the custom field mapping, see [Configure Custom Field Mapping](tisc-field-mapping.md).
+Once selected, you can configure the mappings in the **Field Mapping** section. For more detailed information on the custom field mapping, see [Configure Custom Field Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-field-mapping.md).
 
 </td></tr><tr><td>
 
@@ -338,8 +338,8 @@ Start date from which to fetch the data. Set this field to the time from which d
 
 14. Select **Integrations Run** section to verify the run details.
 
-    **Note:** This configuration procedure applies to all threat intelligence feed types except STIX TAXII. For more information on how STIX TAXII is configured, see [Configure a new TAXII Feed](tisc-configure-a-new-taxii-feed.md).
+    **Note:** This configuration procedure applies to all threat intelligence feed types except STIX TAXII. For more information on how STIX TAXII is configured, see [Configure a new TAXII Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-configure-a-new-taxii-feed.md).
 
 
-**Parent Topic:**[Threat Intelligence Feeds](../concept/threat-intelligence-feeds.md)
+**Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-intelligence-feeds.md)
 

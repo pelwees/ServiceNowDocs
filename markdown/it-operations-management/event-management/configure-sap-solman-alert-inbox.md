@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
     You must use simplified mode else the resulting web services is different with other modes and not compatible with the connector.
 
-    ![SOA Management page](../image/sap-soa-mgmt.png)
+    ![SOA Management page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-soa-mgmt.png)
 
 3.  Select **Search**.
 
@@ -38,7 +38,7 @@ Role required: evt\_mgmt\_admin
 
 ## What to do next
 
-View alerts generated in SAP Solution Manager to see any pressing issues, as described in [View alerts in the SAP Solution Manager inbox](sap-view-alerts.md).
+View alerts generated in SAP Solution Manager to see any pressing issues, as described in [View alerts in the SAP Solution Manager inbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-view-alerts.md).
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

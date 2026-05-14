@@ -23,7 +23,7 @@ As a business planner, you can do various tasks from the business planning porta
 
 **Note:** The role of a business planner involves only planning and managing the entities to achieve the business goal. It doesn't deal with the business applications or technologies that support the business.
 
-![Business planning home page for a business planner](../image/BusinessPlanningPortal.png "Business planning portal")
+![Business planning home page for a business planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../image/BusinessPlanningPortal.png "Business planning portal")
 
 The business planning portal helps the business planner to view and create goals, business unit, capabilities, and strategies.
 
@@ -35,13 +35,13 @@ The business planning portal helps the business planner to view and create goals
 
 -   **Strategies**
 
-    Displays the number of objectives that have been created. Click to view the list of strategic objectives that align with your business plans. Click to [create a business unit strategy](../task/create-a-business-unit-strategy.md) or an [enterprise strategy](../task/create-a-enterprise-strategy.md) to fulfill a new business plan. You can also assign strategies to a goal.
+    Displays the number of objectives that have been created. Click to view the list of strategic objectives that align with your business plans. Click to [create a business unit strategy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../task/create-a-business-unit-strategy.md) or an [enterprise strategy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../task/create-a-enterprise-strategy.md) to fulfill a new business plan. You can also assign strategies to a goal.
 
     -   Enterprise strategy is at a higher level and business unit strategies can be assigned at its child level.
     -   Business unit strategy is at a lower level and an enterprise strategy or a business unit strategy can be assigned as a parent strategy.
 -   **Business Units**
 
-    A business unit is a segment of an enterprise that represents a business function. View the existing number of business units in your organization. Click to [create a business unit](../task/t_CreateBusinessUnits.md) to define its functions.
+    A business unit is a segment of an enterprise that represents a business function. View the existing number of business units in your organization. Click to [create a business unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/../task/t_CreateBusinessUnits.md) to define its functions.
 
 -   **No. of goals**
 

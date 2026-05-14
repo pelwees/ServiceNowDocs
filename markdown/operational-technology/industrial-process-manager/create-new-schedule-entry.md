@@ -151,5 +151,5 @@ Repetition end date. If you leave this field empty, the schedule repeats indefin
 
 Your schedule entry is created, and now you can edit and update the entry as necessary.
 
-**Parent Topic:**[Managing an equipment model entity schedule](../concept/managing-equipment-entity-schedules.md)
+**Parent Topic:**[Managing an equipment model entity schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/managing-equipment-entity-schedules.md)
 

@@ -15,13 +15,13 @@ Grouping aggregates a list by a field and displays the record count per group. G
 
 For example, this picture shows active incidents grouped by caller.
 
-![List grouped by caller](../image/GroupList.png "List grouped by caller")
+![List grouped by caller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/GroupList.png "List grouped by caller")
 
 -   Groups are named for the values of the field selected for grouping. For example, if you group by the assigned user, each group is a user's name.
 -   The record count for each group appears next to the group name.
 -   The total number of items in the list \(all groups combined\) appears near the paging controls in the list. This total displays only when the list is grouped on a field.
 
-**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 ## Use a grouped list
 
@@ -39,7 +39,7 @@ Role required: none
     -   Right-click the column name and select **Group By**. To remove a grouping, select **Ungroup**.
     For example, this picture shows active incidents grouped by caller.
 
-    ![List grouped by caller.](../image/GroupList.png "Group by")
+    ![List grouped by caller.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/GroupList.png "Group by")
 
 2.  Use any of the following actions to expand the groups.
 
@@ -49,7 +49,7 @@ Role required: none
 
 </td><td>
 
-Click the arrow \(![Arrow icon](../image/Arrow.png)\) next to the group name.
+Click the arrow \(![Arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Arrow.png)\) next to the group name.
 
 </td></tr><tr><td id="d89055e197">
 

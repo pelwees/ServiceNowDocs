@@ -31,14 +31,14 @@ For example:
 9.  When TOL2 is received in stockroom B, the two keyboards move to **In stock** &gt; **Available** and are merged with the three keyboards that are also **In Stock** &gt; **Available** in B.
 10. At the end, stockroom B shows five keyboards are **In Stock** &gt; **Available**.
 
-**Parent Topic:**[Transfer order line asset tracking](r_TransferOrderLineAssetTracking.md)
+**Parent Topic:**[Transfer order line asset tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/r_TransferOrderLineAssetTracking.md)
 
 **Related topics**  
 
 
-[Delete a transfer order](../task/t_DeleteATransferOrder.md)
+[Delete a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrder.md)
 
-[Delete a transfer order line](../task/t_DeleteATransferOrderLine.md)
+[Delete a transfer order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_DeleteATransferOrderLine.md)
 
-[Return items received in a transfer order](../task/t_ReturnItemsRecInXferOrder.md)
+[Return items received in a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/t_ReturnItemsRecInXferOrder.md)
 

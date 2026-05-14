@@ -45,5 +45,5 @@ View the granular call quality metrics for on the **Details** page.
 |Camera|Indicates whether the camera was on or off during the call \(true or false\).|
 |Screenshare|Indicates whether screen sharing was active during the call \(true or false\).|
 
-**Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
+**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 

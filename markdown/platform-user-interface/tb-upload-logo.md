@@ -28,19 +28,19 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  From the Overview panel, navigate to the Logo section and select the upload icon ![](../../../reuse/icons/product-icons/upload-outline-24.svg) listed beside the **Logo** field.
 
     **Note:** You can also change the logo directly from the Imagery panel.
 
-    ![Global styles Imagery panel.](../image/tb-imagery-panel.png "Imagery panel")
+    ![Global styles Imagery panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-imagery-panel.png "Imagery panel")
 
     The Upload logo modal appears.
 
@@ -62,8 +62,8 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     If you delete your logo, the ServiceNow logo is used.
 
 
--   **[Resize a logo for your login screen](tb-resize-logo.md)**  
+-   **[Resize a logo for your login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-resize-logo.md)**  
 After you have uploaded a logo for your login screen, you can resize the logo by creating and setting a system property.
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)
 

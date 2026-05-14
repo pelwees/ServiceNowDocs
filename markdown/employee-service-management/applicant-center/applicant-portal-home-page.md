@@ -31,5 +31,5 @@ As an applicant, it lets you:
     **Note:** You receive a welcome email too on accepting a job offer.
 
 
-**Parent Topic:**[Using Applicant Center](use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 

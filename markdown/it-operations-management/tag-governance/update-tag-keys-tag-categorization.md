@@ -17,7 +17,7 @@ Add or delete tag keys to ensure that they align with your requirements for data
 
 ## Before you begin
 
-Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](../../service-mapping/task/install-service-mapping-plus.md).
+Verify that you have installed version 1.16.3 of Service Mapping Plus to access to the CI tag category and CI tag key tables. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/../../service-mapping/task/install-service-mapping-plus.md).
 
 Role required: tag\_governance\_admin
 
@@ -51,7 +51,7 @@ Steps
 
 1.  Double-click the empty row under **Tag key**, where you see **Insert a new row**.
 2.  In the field, add a key name.
-3.  Select the Save icon ![Check mark](../../cloud-management-v2/image/icon-check-mark.png).
+3.  Select the Save icon ![Check mark](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/../../cloud-management-v2/image/icon-check-mark.png).
 4.  Repeat the previous steps to add more tag keys.
 5.  Select **Update** to save your changes.
 

@@ -19,23 +19,23 @@ Your company asks employees to complete and return documents related to benefits
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Learn about how Employee Document Management works](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how Employee Document Management works](exploring-employee-document-management.md)
+[Explore ![Learn about how Employee Document Management works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how Employee Document Management works](exploring-employee-document-management.md)
 
 </td><td>
 
-[Configure ![Plan and configure your implementation](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation](configuring-employee-document-management.md)
+[Configure ![Plan and configure your implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation](configuring-employee-document-management.md)
 
 </td><td>
 
-[Use ![Learn how to manage employee documents](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to manage employee documents](using-employee-document-management.md)
+[Use ![Learn how to manage employee documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to manage employee documents](using-employee-document-management.md)
 
 </td></tr><tr><td>
 
-[Dashboard ![View statistics of your employee documents](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) View statistics of your employee documents](edm-dashboard.md#)
+[Dashboard ![View statistics of your employee documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) View statistics of your employee documents](edm-dashboard.md#)
 
 </td><td>
 
-[Reference ![More information on other properties of Employee Document Management](../../../reuse/icons/brand-icons/bus-learn.svg) More information on other properties of Employee Document Management](reference-employee-document-management.md)
+[Reference ![More information on other properties of Employee Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../../../reuse/icons/brand-icons/bus-learn.svg) More information on other properties of Employee Document Management](reference-employee-document-management.md)
 
 </td><td>
 

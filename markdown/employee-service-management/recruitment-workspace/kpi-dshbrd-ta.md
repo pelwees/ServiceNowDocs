@@ -28,7 +28,7 @@ The data visualization on the **Workload** tab is as follows:
 
 ## Dashboard data view
 
-![Data visualization displayed in the workload tab of the Talent Acquisition dashboard.](../images/ta-dashboard-workload.png "Workload tab view")
+![Data visualization displayed in the workload tab of the Talent Acquisition dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../images/ta-dashboard-workload.png "Workload tab view")
 
 |Card|Data type|Description|
 |----|---------|-----------|
@@ -53,7 +53,7 @@ Apart from the data cards, you can use the following filters to skim through the
 -   Employment Type
 -   Created Date
 
-![Data visualization displayed in the performance tab of the Talent Acquisition dashboard.](../images/ta-hdasboard-performance.png "Performance tab view")
+![Data visualization displayed in the performance tab of the Talent Acquisition dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../images/ta-hdasboard-performance.png "Performance tab view")
 
 |Card|Data type|Description|
 |----|---------|-----------|
@@ -66,5 +66,5 @@ Apart from the data cards, you can use the following filters to skim through the
 |Average time from application submission to hired|Number|Aggregated time that is spent from the submission of an application to hire.|
 |Application Time per State|Graph|Aggregated time an application remains in one state.|
 
-**Parent Topic:**[Recruitment Workspace reference](recruitment-workspace-reference.md)
+**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-reference.md)
 

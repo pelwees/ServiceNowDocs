@@ -29,7 +29,7 @@ Set up the Microsoft Azure Resource Management connection alias to do the action
 
 Role required: admin
 
--   To view the procedure to set up the Microsoft Azure Resource Management connection alias, see [Set up the Microsoft Azure Resource Management spoke](setup-res-mngmt.md#).
+-   To view the procedure to set up the Microsoft Azure Resource Management connection alias, see [Set up the Microsoft Azure Resource Management spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-res-mngmt.md#).
 
 ## Set up Microsoft Azure Notification Hub SAS connection alias
 
@@ -70,7 +70,7 @@ spoke.
     |Connection name|Name of the connection record.|
     |Credential name|Name of the credential that is used to access the Microsoft Azure Notification Hub SAS.|
     |Shared Access Key Name|Name of the shared access key to the Microsoft Azure Notification Hub SAS.|
-    |Shared Access Key|Shared access key to the Microsoft Azure Notification Hub SAS. Generate the key from the Microsoft Azure portal. To view the procedure, see [Generate shared access key for Microsoft Azure Notification Hub SAS](setup-azure-notif-hub.md#).|
+    |Shared Access Key|Shared access key to the Microsoft Azure Notification Hub SAS. Generate the key from the Microsoft Azure portal. To view the procedure, see [Generate shared access key for Microsoft Azure Notification Hub SAS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-azure-notif-hub.md#).|
 
 9.  Select **Create**.
 
@@ -99,7 +99,7 @@ Role required: admin.
 
 6.  Corresponding to the required policy, copy the string under the Connection String field.
 
-    ![Copy the string.](../image/copy-string.png)
+    ![Copy the string.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/copy-string.png)
 
 7.  From the string that you copied, copy the shared access key.
 
@@ -109,5 +109,5 @@ Role required: admin.
 **Related topics**  
 
 
-[Set up Microsoft Azure Notification Hub SAS connection alias](setup-azure-notif-hub.md#)
+[Set up Microsoft Azure Notification Hub SAS connection alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-azure-notif-hub.md#)
 

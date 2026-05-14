@@ -608,16 +608,16 @@ String
 Zip code or postal code where the supplier is located.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](../concept/slo-inbound-staging-tables.md)
+</table>**Parent Topic:**[Inbound staging tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/slo-inbound-staging-tables.md)
 
 **Related topics**  
 
 
-[Supplier Contact inbound staging table](slo-supp-contact-inbound-table.md)
+[Supplier Contact inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-contact-inbound-table.md)
 
-[Supplier Legal Entity mapping inbound staging table](slo-legal-entity-inbound-table.md)
+[Supplier Legal Entity mapping inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-legal-entity-inbound-table.md)
 
-[Supplier Location inbound staging table](slo-supp-location-inbound-table.md)
+[Supplier Location inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-location-inbound-table.md)
 
-[Supplier Payment inbound staging table](slo-supp-payment-inbound-table.md)
+[Supplier Payment inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-payment-inbound-table.md)
 

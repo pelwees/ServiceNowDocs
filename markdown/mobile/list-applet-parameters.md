@@ -17,5 +17,5 @@ Use parameters to pass information into a list screen. For example, a user views
 
 |Incidents grouped by Priority|Incident list with a high priority selected|
 |-----------------------------|-------------------------------------------|
-|![Grouped list applet with items from the incident table grouped by priority](../image/GroupedListApplet.png)|![Grouped list applet with records from a specific priority selected](../image/GroupedListApplet2.png)|
+|![Grouped list applet with items from the incident table grouped by priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GroupedListApplet.png)|![Grouped list applet with records from a specific priority selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GroupedListApplet2.png)|
 

@@ -23,11 +23,11 @@ Role required: facilities admin
 
 2.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_WorkbenchConfiguration.md).
 
-    ![Campus and floor selection](../image/CampusFloorSelection.png)
+    ![Campus and floor selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CampusFloorSelection.png)
 
-    By default, facilities administrators can see all requests for the selected level displayed in the right side pane. Red pins \(![red pin icon shows where facilities requests for floor plan.](../image/RequestPin.png)\) depict those requests on the floor plan.
+    By default, facilities administrators can see all requests for the selected level displayed in the right side pane. Red pins \(![red pin icon shows where facilities requests for floor plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/RequestPin.png)\) depict those requests on the floor plan.
 
 3.  Continue with one of the following options.
 
@@ -69,8 +69,8 @@ Select **Assigned to me** check box.
     |------|------|
     |**To see request details**|Click the request number.|
     |**To see tasks associated with a request**|Click the task number under the request.|
-    |**To see the location on the floor plan**|Click the pin \( ![Pin icon that shows a location on floor plan.](../image/PinIcon.png)\) icon.|
+    |**To see the location on the floor plan**|Click the pin \( ![Pin icon that shows a location on floor plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/PinIcon.png)\) icon.|
 
 
-**Parent Topic:**[Facilities Workbench](../concept/c_FacilitiesWorkbench.md)
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_FacilitiesWorkbench.md)
 

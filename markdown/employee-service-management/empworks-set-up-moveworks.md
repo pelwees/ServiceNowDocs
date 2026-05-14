@@ -30,11 +30,11 @@ Setup combines two streams of work. The first stream configures the Moveworks ch
 
 1.  Configure the Moveworks chat bot for Employee Slate.
 
-    For the procedure, see [Configure the Moveworks chat bot for Employee Slate](empworks-configure-moveworks-chatbot.md).
+    For the procedure, see [Configure the Moveworks chat bot for Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/empworks-configure-moveworks-chatbot.md).
 
 2.  Configure Employee Slate for Moveworks in the Product Configuration console.
 
-    For the procedure, see [Configure Employee Slate for Moveworks](empworks-configure-employee-slate-moveworks.md).
+    For the procedure, see [Configure Employee Slate for Moveworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/empworks-configure-employee-slate-moveworks.md).
 
 
 ## Result

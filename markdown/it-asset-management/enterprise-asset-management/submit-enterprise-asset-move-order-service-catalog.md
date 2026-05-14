@@ -105,5 +105,5 @@ Additional notes or instructions for the move order.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Submitting an enterprise asset move order](../concept/submitting-enterprise-asset-move-order.md)
+**Parent Topic:**[Submitting an enterprise asset move order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/submitting-enterprise-asset-move-order.md)
 

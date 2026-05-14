@@ -18,7 +18,7 @@ The Cloud Provisioning and Governance Cloud API \(CAPI\) offers many providers, 
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you want to create are not already provided.
+-   Review [Default CAPI APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/default-apis.md) and make sure the provider and product that you want to create are not already provided.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -31,7 +31,7 @@ This topic provides general instructions for extending an existing cloud provide
 
     `sn_capi_product.list`
 
-    ![Opening the list of CAPI products](../image/sn_capi_prouct.png)
+    ![Opening the list of CAPI products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/sn_capi_prouct.png)
 
 2.  Press `ENTER`.
 
@@ -45,7 +45,7 @@ This topic provides general instructions for extending an existing cloud provide
 
 5.  Find the product that you created, and then double-click the empty cell in the **Provider** column.
 
-    ![Double click the empty cell](../image/double-click-empty-cell.png)
+    ![Double click the empty cell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/double-click-empty-cell.png)
 
 6.  Add the correct provider.
 
@@ -59,7 +59,7 @@ This topic provides general instructions for extending an existing cloud provide
 
 10. Verify that your product is in the **Cloud Products** related list.
 
-11. Click the information icon \(![Information icon](../image/icon-information.png)\) for the cloud product, and then click **Open Record**.
+11. Click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-information.png)\) for the cloud product, and then click **Open Record**.
 
 12. In the Cloud Resource Types related list, click **New** and then fill in the form.
 
@@ -93,7 +93,7 @@ CI Class
 
 </td><td>
 
-A CMDB table you need to associate with the resource type. If you do not see the correct CMDB table, see [Create a CI class for a virtual cloud resource](create-a-ci-class-cloud.md) for instructions on how to create one.
+A CMDB table you need to associate with the resource type. If you do not see the correct CMDB table, see [Create a CI class for a virtual cloud resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-a-ci-class-cloud.md) for instructions on how to create one.
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Pattern
 
 </td><td>
 
-The pattern that is used to discover the resource type. Select from the [Discovery patterns](../../service-mapping/concept/c_MappingPatternsCustomization.md) lookup list or [create a new pattern](../../service-mapping/task/t_CreatePatternPatDef.md).
+The pattern that is used to discover the resource type. Select from the [Discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../service-mapping/concept/c_MappingPatternsCustomization.md) lookup list or [create a new pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../service-mapping/task/t_CreatePatternPatDef.md).
 
 </td></tr><tr><td>
 
@@ -112,14 +112,14 @@ Dependency Sequence
 The order in which resource type is provisioned or discovered. Specify the order based on inter-dependencies of resources. For example, if you have a network and a subnet that you want to discover or create, specify a higher order for network than subnet, so that discovery or creation of resources is performed logically and sequentially.
 
 </td></tr></tbody>
-</table>    ![A new resource type](../image/capi-resource-type.png)
+</table>    ![A new resource type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-resource-type.png)
 
 13. Click **Submit**.
 
 
 ## What to do next
 
-[Create a CI class for a virtual cloud resource](create-a-ci-class-cloud.md) if necessary, or [Create or extend a CAPI interface](create-interface.md)
+[Create a CI class for a virtual cloud resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-a-ci-class-cloud.md) if necessary, or [Create or extend a CAPI interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-interface.md)
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-management-v2-landing-page.md)
 

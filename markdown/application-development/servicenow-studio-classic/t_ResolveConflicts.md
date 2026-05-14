@@ -19,7 +19,7 @@ Application developers can choose which application file version to use when app
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 -   Role required: admin
 -   Link an application to source control
@@ -43,7 +43,7 @@ Conflicts occur when there are multiple change versions of the same application 
 
 </td><td>
 
-Apply or discard all stashed changes. Go to [Step 3](t_ResolveConflicts.md#SelectAction).
+Apply or discard all stashed changes. Go to [Step 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/t_ResolveConflicts.md#SelectAction).
 
 </td></tr><tr><td id="d65401e153">
 
@@ -51,7 +51,7 @@ Apply or discard all stashed changes. Go to [Step 3](t_ResolveConflicts.md#Selec
 
 </td><td>
 
-Individually select which changes to apply. Go to [Step 6](t_ResolveConflicts.md#Merge).
+Individually select which changes to apply. Go to [Step 6](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/t_ResolveConflicts.md#Merge).
 
 </td></tr></tbody>
 </table>3.  If you want to apply or discard all stashed changes, select an **Action**.
@@ -90,5 +90,5 @@ Applies the application file version from the most recent pull from the reposito
     The system applies the selected changes.
 
 
-**Parent Topic:**[Legacy - Source Control integration](../concept/c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_SourceControlIntegration.md)
 

@@ -40,5 +40,5 @@ You can apply filters on the time sheet lists to search for a specific time shee
 7.  Tap **Apply**.
 
 
-**Parent Topic:**[Create a time sheet from your mobile device](create-timesheet-mobile.md)
+**Parent Topic:**[Create a time sheet from your mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-timesheet-mobile.md)
 

@@ -109,5 +109,5 @@ Contact your ServiceNow account manager to install Developer Sandboxes.
     Integrate workflow authoring, configuring, and monitoring into a single-page experience.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

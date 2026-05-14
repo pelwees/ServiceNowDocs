@@ -23,7 +23,7 @@ Role required: user
 
 1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
-2.  Select the context menu icon ![Context menu icon.](../../../administer/tablet-mobile-ui/image/context-menu-icon.png) on any course that is displayed on the screen.
+2.  Select the context menu icon ![Context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../administer/tablet-mobile-ui/image/context-menu-icon.png) on any course that is displayed on the screen.
 
 3.  Select **Save to collection**.
 
@@ -39,25 +39,25 @@ Role required: user
 6.  Select **Save**.
 
 
--   **[Save courses to your personal collection](save-personal-collection.md)**  
+-   **[Save courses to your personal collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/save-personal-collection.md)**  
 Save courses of interest to your personal collection for easy access and to plan your learning.
 
-**Parent Topic:**[Using My Learning](manage-your-learning.md)
+**Parent Topic:**[Using My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md)
 
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/resume-course.md)
 
-[Create a Learning challenge](learning-challenge.md)
+[Create a Learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-challenge.md)
 
-[View recent activity](view-recent-activity-lxp.md)
+[View recent activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/assign-learning-lxp.md)
 
-[Manage Learning](manage-learning-achievements.md)
+[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 
-[Skill sensing for learning content](skill-sensing-for-learning-content.md)
+[Skill sensing for learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-for-learning-content.md)
 

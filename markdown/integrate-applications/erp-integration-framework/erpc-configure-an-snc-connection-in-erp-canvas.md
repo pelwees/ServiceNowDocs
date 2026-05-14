@@ -33,11 +33,11 @@ Confirm that you have the following:
 
 3.  In **Related Links**, select **Create New Connection &amp; Credential**.
 
-    ![Alias record with name, ID, and related link option highlighted.](../image/erpc-snc-connection1.png)
+    ![Alias record with name, ID, and related link option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-snc-connection1.png)
 
 4.  Complete the form.
 
-    For information about the fields, see [Configure the Zero Copy Connector for ERP credentials and connection](set-up-erp-integration-connection.md).
+    For information about the fields, see [Configure the Zero Copy Connector for ERP credentials and connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/set-up-erp-integration-connection.md).
 
 5.  Restart the MID Server to apply the changes.
 
@@ -51,7 +51,7 @@ Confirm that you have the following:
 
     3.  Hover over the **Name** column and select the filter icon.
 
-        ![Workflow Studio actions tab with name column filter icon highlighted.](../image/erpc-snc-connection2.png)
+        ![Workflow Studio actions tab with name column filter icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-snc-connection2.png)
 
     4.  Filter for **contains** and type `heartbeat`.
 
@@ -63,7 +63,7 @@ Confirm that you have the following:
 
     8.  Specify a **system** and then select **Run Test**.
 
-        ![Test action window with system field and run test button highlighted.](../image/erpc-snc-connection3.png)
+        ![Test action window with system field and run test button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-snc-connection3.png)
 
     9.  When the test is complete, select the link **Your test has finished running. View the Action execution details**.
 
@@ -77,5 +77,5 @@ Confirm that you have the following:
 -   Check the SNC PSE for validity and correct DN entries. For more information, see [Creating or Replacing a PSE](https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-US/59/6b653a0c52425fe10000000a114084/content.htm?no_cache=true) on the SAP help site.
 -   Confirm that the SAP clients are properly configured to use SNC. For more information, see [Configuring MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md).
 
-**Parent Topic:**[Use an SNC \(Secure Network Communication\) connection in Zero Copy Connector for ERP](../concept/erpc-use-an-snc-connection-in-erp-canvas.md)
+**Parent Topic:**[Use an SNC \(Secure Network Communication\) connection in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erpc-use-an-snc-connection-in-erp-canvas.md)
 

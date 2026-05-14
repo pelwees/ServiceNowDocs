@@ -78,8 +78,8 @@ The state and the Contract status of the contract request is Work in progress.
 
     Examples of reclassifying the contract or supporting documents are:
 
-    -   You can change the contract document type from a Non-disclosure Agreement to a Partnership Agreement. For more information, see [Reclassify contract documents in third-party contract request](cncore-nss-reclassify-doc.md).
-    -   You can change the supporting document to a contract document. For more information, see [Reclassify supporting documents in the contract request](cncore-nss-reclassify-supdoc.md).
+    -   You can change the contract document type from a Non-disclosure Agreement to a Partnership Agreement. For more information, see [Reclassify contract documents in third-party contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-nss-reclassify-doc.md).
+    -   You can change the supporting document to a contract document. For more information, see [Reclassify supporting documents in the contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-nss-reclassify-supdoc.md).
 6.  Open an existing revision of a contract document.
 
     -   For internal storage: Open the document revision record by navigating to the **Contract documents** tab and then selecting the name of the document.
@@ -88,19 +88,19 @@ The state and the Contract status of the contract request is Work in progress.
 
 8.  Create document revisions.
 
-    For more information, see [Create a document revision](cncore-create-doc-rev.md).
+    For more information, see [Create a document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
 
 9.  Analyze the contract documents to identify non-standard and missing clauses by using Now Assist in Contract Management.
 
-    For more information, see [Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md).
+    For more information, see [Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-NA-review-land.md).
 
 10. If an approval is required from other stakeholders, send the document for ad-hoc approval.
 
-    For more information, see [Initiate an ad hoc approval for a contract document revision](cmpro-initiate-approval-contract-request.md).
+    For more information, see [Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-initiate-approval-contract-request.md).
 
 11. Set up an email to stakeholders to have the completed contract document reviewed and the changes confirmed.
 
-    For more information, see [Send email to stakeholders](cncore-send-email.md).
+    For more information, see [Send email to stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-email.md).
 
 12. Add the internal or external signatories needed for e-signatures on the contract by navigating to the **Signatories** tab and then selecting **Add**.
 
@@ -166,7 +166,7 @@ Steps
 
 -   Signatories can sign or decline to sign the contract.
 
-    For more information, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md).
+    For more information, see [Signature workflow for a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-signature-workflow.md).
 
 -   Check the contract request state and the contract document status in the request:
     -   If all signatories sign the contract document, the contract document status updates to Contract signed. On the **Signatories** tab, the status of all signatories updates to Signed. You can access the contract repository record from the **Contracts Repository** tab.
@@ -174,5 +174,5 @@ Steps
     -   After all the signatories have signed the document, an email is sent to the signatories with the finalized contract document attached.
 -   If the contract is signed by all signatories, you can close the request by selecting **Close Complete**.
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-req-nss-contract-1.md)
 

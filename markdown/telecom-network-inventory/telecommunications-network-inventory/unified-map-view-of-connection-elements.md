@@ -25,14 +25,14 @@ A protection path of a logical connection refers to an alternative route in case
 
 The following example shows a network diagram in the Telecommunications Network Inventory application.
 
-![View of a network diagram with map pane, details pane, and zoom options.](../image/netwotk-diagram.png "Example for a network diagram")
+![View of a network diagram with map pane, details pane, and zoom options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/netwotk-diagram.png "Example for a network diagram")
 
 A network diagram contains two panels:
 
 -   The map pane shows the map for a selected logical connection, revision of the logical connection, and protection path.
 -   The details pane shows related information of the logical connection according to the current selections.
 
-To learn more about how to use the network diagram, see [Network diagram](using-network-diagram.md).
+To learn more about how to use the network diagram, see [Network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-diagram.md).
 
 ## Map pane
 
@@ -45,7 +45,7 @@ You can perform the following actions in the map pane:
 -   View the protection paths of the logical connection.
 -   Use the zoom controls to zoom in and out of the map.
 
-To learn more, see [View the details of a network diagram](../task/show-a-ci-related-details-network-diagram.md).
+To learn more, see [View the details of a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/show-a-ci-related-details-network-diagram.md).
 
 ## Details pane
 
@@ -53,8 +53,8 @@ The details pane shows the related information about the logical connection elem
 
 You can perform the following actions in the details pane:
 
--   Select the info icon \(![Info Icon.](../image/icon-info.png)\) to open the details pane.
--   Select more options icon \(![More Options Icon.](../image/icon-more-option.png)\) in the details pane and then select **View Details** to redirect to the corresponding CI form.
+-   Select the info icon \(![Info Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-info.png)\) to open the details pane.
+-   Select more options icon \(![More Options Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-more-option.png)\) in the details pane and then select **View Details** to redirect to the corresponding CI form.
 
 ## Access
 

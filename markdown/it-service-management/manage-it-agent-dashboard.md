@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select Dashboard icon \(![Dashboard icon](../image/dashboard-icon-sow.png)\).
+2.  Select Dashboard icon \(![Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/dashboard-icon-sow.png)\).
 
 3.  Select **Edit**.
 

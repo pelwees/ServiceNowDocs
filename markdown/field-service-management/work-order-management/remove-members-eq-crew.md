@@ -21,7 +21,7 @@ Remove members or equipment from your planned crew so they can be assigned to ot
 
 ### Before you begin
 
-To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 
@@ -31,7 +31,7 @@ Role required: wm\_agent and crew\_moderator
 
 2.  Select the crew or equipment that you want to remove.
 
-3.  Tap the **Remove** icon \(![Remove icon.](../image/trash-mobile-icon.png)\).
+3.  Tap the **Remove** icon \(![Remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/trash-mobile-icon.png)\).
 
 4.  Tap **Remove**.
 
@@ -42,7 +42,7 @@ Remove members or equipment from a task crew so they can be assigned to other cr
 
 ### Before you begin
 
-To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](../task/activate-equipment-scheduling.md).
+To remove equipment, administrators must activate the Field Service Resource Scheduling plugin \(com.snc.resource\_scheduling\). For more information, see [Activate Resource Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/activate-equipment-scheduling.md).
 
 Role required: wm\_agent and crew\_moderator
 
@@ -52,7 +52,7 @@ Role required: wm\_agent and crew\_moderator
 
 2.  Select the work order task where the task crew member or equipment is assigned.
 
-3.  Find the member or equipment that you want to remove, and tap the **Remove** icon \(![Remove icon.](../image/trash-mobile-icon.png)\).
+3.  Find the member or equipment that you want to remove, and tap the **Remove** icon \(![Remove icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/trash-mobile-icon.png)\).
 
     **Note:** If the task is in the Work in Progress state, **Remove** is replaced with **Release**.
 
@@ -65,7 +65,7 @@ Release task crew members from work order tasks that are in the Work in Progress
 
 ### Before you begin
 
-**Release** only shows if the work order task is in the Work in Progress state. If not, task crew members must be removed. For more information, see [Remove members or equipment from a task crew](remove-members-eq-crew.md#).
+**Release** only shows if the work order task is in the Work in Progress state. If not, task crew members must be removed. For more information, see [Remove members or equipment from a task crew](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/remove-members-eq-crew.md#).
 
 -   
 Role required: wm\_agent and crew\_moderator
@@ -76,7 +76,7 @@ Role required: wm\_agent and crew\_moderator
 
 2.  Select the work order task where the task crew member is assigned.
 
-3.  Find the task crew member that you want to release, and tap the **Edit** icon \(![Edit icon.](../image/edit-mobile-icon.png)\).
+3.  Find the task crew member that you want to release, and tap the **Edit** icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/edit-mobile-icon.png)\).
 
 4.  Tap **Release**.
 

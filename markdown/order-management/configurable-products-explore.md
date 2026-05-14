@@ -56,5 +56,5 @@ The setup process depends on your Managed Package version used for CPQ: Once con
 **Related topics**  
 
 
-[Setting up configurable products](configurable_products.md)
+[Setting up configurable products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configurable_products.md)
 

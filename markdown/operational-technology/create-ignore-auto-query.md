@@ -43,10 +43,10 @@ Role required: admin
 
 8.  To create the ignore list, select the Ignore Networks filter.
 
-    -   To ignore an IP Address Range, enter an IP Range in the IP Address Range section, and select the add icon ![Add IP](../image/add-ip-address.png).
+    -   To ignore an IP Address Range, enter an IP Range in the IP Address Range section, and select the add icon ![Add IP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/add-ip-address.png).
     -   To ignore one individual IP address, enter an IP address in the Ignore IP Address section.
-    -   To ignore multiple IP addresses, select the multiple selection icon ![Add Multiple IPs](../image/add-multiIP-icon.png) in the Ignore IP Address section, and use commas to separate the entries.
-    ![Displaying selections](../image/ignore-list.png)
+    -   To ignore multiple IP addresses, select the multiple selection icon ![Add Multiple IPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/add-multiIP-icon.png) in the Ignore IP Address section, and use commas to separate the entries.
+    ![Displaying selections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/ignore-list.png)
 
 9.  Select **Next**
 
@@ -61,7 +61,7 @@ Role required: admin
 
 13. In the **Confirmation** section, set the schedule, recursion, and duration.
 
-    ![Confirmation settings](../../../images/auto-query-confirmation.png)
+    ![Confirmation settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/auto-query-confirmation.png)
 
 14. Select the **Create Auto Query** button to create the Auto Query ignore list.
 
@@ -70,5 +70,5 @@ Role required: admin
 
 The Auto Query results are added to the Auto Query page. The **Ignored** column displays the number of IP addresses that were ignored.
 
-![Number of ignored IP addresses](../../../images/auto-query-ignore-columns.png)
+![Number of ignored IP addresses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/auto-query-ignore-columns.png)
 

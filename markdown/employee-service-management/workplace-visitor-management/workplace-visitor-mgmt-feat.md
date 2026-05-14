@@ -19,27 +19,27 @@ Welcome your guests and off-site employees with a smoother, more hassle-free exp
 
 <table id="table_s3z_wrb_qtb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Visitor Management concepts and features.](workplace-visitor-mgmt-ovw.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Visitor Management concepts and features.](workplace-visitor-mgmt-ovw.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application and setup the visitor-related settings.](configure-visitor-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application and setup the visitor-related settings.](configure-visitor-mgmt.md)
 
 </td><td>
 
-[Register ![Register](../../workplace-service-delivery/images/icon-request.png) Register visitors such as colleagues or external guests before their arrival.](registerring-a-visitor.md)
+[Register ![Register](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../workplace-service-delivery/images/icon-request.png) Register visitors such as colleagues or external guests before their arrival.](registerring-a-visitor.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage visitor registrations.](manage-visitor-registrations.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../reuse/icons/brand-icons/bus-headset.svg) Manage visitor registrations.](manage-visitor-registrations.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with dashboards and reports.](analytics-reporting-for-visitor-mgmt.md)
+[Analytics and Reporting Solutions ![Analytics and Reporting Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../reuse/icons/brand-icons/bus-elevate.svg) Coordinate work and improve processes with dashboards and reports.](analytics-reporting-for-visitor-mgmt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](workplace-visitor-mgmt-references.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](workplace-visitor-mgmt-references.md)
 
 </td></tr></tbody>
 </table>## Additional resources

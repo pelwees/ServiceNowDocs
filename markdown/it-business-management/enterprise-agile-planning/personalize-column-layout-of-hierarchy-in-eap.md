@@ -33,7 +33,7 @@ Column visibility, order, and width preferences are saved to your user profile a
 
 3.  Select the Personalize icon \(![](../images/eap-personalize-list.png)\).
 
-    ![Personalization options for the EAP Hierarchy tab.](../images/eap-hierarchy-personalize.png)
+    ![Personalization options for the EAP Hierarchy tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-hierarchy-personalize.png)
 
 4.  Choose the columns to be displayed in the Hierarchy tab and rearrange their order per your preference.
 
@@ -43,5 +43,5 @@ Column visibility, order, and width preferences are saved to your user profile a
 **Related topics**  
 
 
-[Work item hierarchy for EAP teams](../concept/eap-hierarchy-tab.md)
+[Work item hierarchy for EAP teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/eap-hierarchy-tab.md)
 

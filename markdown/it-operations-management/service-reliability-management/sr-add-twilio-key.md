@@ -44,9 +44,9 @@ You can adjust what gets sent from Twilio by editing the on-call workflow in the
 7.  Select **Connect** to activate the key or **Save** to save your changes without activating.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/configuring-service-reliability-management.md)
 
-**Previous topic:**[Configure fields for escalation triggers](srm-configure-trigger-fields.md)
+**Previous topic:**[Configure fields for escalation triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/srm-configure-trigger-fields.md)
 
-**Next topic:**[Install the Alert Automation application](sr-install-aa-store-app.md)
+**Next topic:**[Install the Alert Automation application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-install-aa-store-app.md)
 

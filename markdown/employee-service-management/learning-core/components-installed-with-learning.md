@@ -112,5 +112,5 @@ sn\_lep.achievement\_manager
 |Achievement rule item \[sn\_lep\_achievement\_rule\_item\]|Stores information of all the achievement rules on Learning.|
 |Achievement skill \[sn\_lep\_m2m\_achievement\_skill\]|Maps the achievements to the associated skill.|
 
-**Parent Topic:**[Learning reference](learning-experience-reference.md)
+**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 

@@ -35,7 +35,7 @@ When a friendly fraud task is identified, the Friendly fraud AI agent is display
 
     If friendly fraud is detected based on the defined rules, the **Detect friendly fraud** activity appears in the **Investigate** stage. The transaction details along with the evidence are displayed. When the AI agent is displayed, a notification appears in the Now Assist panel and an active chat is initiated.
 
-2.  Select the Now Assist panel icon \(![now assist panel icon](../../../common/image/icon-ai-sparkle.png)\) and open the active chat for the disputed transaction.
+2.  Select the Now Assist panel icon \(![now assist panel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../common/image/icon-ai-sparkle.png)\) and open the active chat for the disputed transaction.
 
     In the chat, the AI agent generates a recommendation for the dispute with a valid reason.
 
@@ -47,14 +47,14 @@ When a friendly fraud task is identified, the Friendly fraud AI agent is display
 
     You can continue working in the playbook activities as you interact with the AI agent.
 
-    For information about how to resolve friendly fraud, see [Detect friendly fraud](../../fso-card-operations/task/resolve-friendly-fraud.md) and [Manage customer communication](../../fso-card-operations/task/resolve-fraud-customer-communication.md).
+    For information about how to resolve friendly fraud, see [Detect friendly fraud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-card-operations/task/resolve-friendly-fraud.md) and [Manage customer communication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-card-operations/task/resolve-fraud-customer-communication.md).
 
-    ![The Review and assess disputed transaction playbook is used to review recommendations and interact with the friendly fraud AI agent through the Now Assist panel.](../image/friendly-fraud-ai.png)
+    ![The Review and assess disputed transaction playbook is used to review recommendations and interact with the friendly fraud AI agent through the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/friendly-fraud-ai.png)
 
 
 ## Result
 
 Based on the resolution steps that the dispute agent selects, the friendly fraud is resolved with the help of the Now Assist AI agent.
 
-**Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](../concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
+**Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../concept/using-ai-agent-use-cases-in-now-assist-for-fso.md)
 

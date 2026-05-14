@@ -132,7 +132,7 @@ The substate of the contract that is being renewed is set to **Renewal in proces
 
 ## What to do next
 
-If the parent contract doesn't have child contracts, select the [Build renewal task](fill-cont-renew-info.md).
+If the parent contract doesn't have child contracts, select the [Build renewal task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/fill-cont-renew-info.md).
 
-If the parent contract has child contracts, select the [Contract selection task](select-contract.md).
+If the parent contract has child contracts, select the [Contract selection task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-contract.md).
 

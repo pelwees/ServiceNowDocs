@@ -48,11 +48,11 @@ To populate the Client Software Distribution application with SCCM data:
 
     The system runs the Discover SCCM flow that retrieves the application, collection, and deployment data from the SCCM server.
 
-    ![Retrieving SCCM data with Discovery](../images/sccm-ihub.png)
+    ![Retrieving SCCM data with Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sccm-ihub.png)
 
 
--   **[SCCM server Discovery for client software distribution](../reference/sccm-server-disc-ihub.md)**  
+-   **[SCCM server Discovery for client software distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/sccm-server-disc-ihub.md)**  
 Discovery flow populates ServiceNow tables with collection, application, and deployment data retrieved from SCCM servers.
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/configure-sccm-ihub.md)
 

@@ -33,9 +33,9 @@ FAQ related to MFA types and why it’s important.
 
     User can perform either of the following MFA options.
 
-    ![MFA screen](../images/new-mfa.png)
+    ![MFA screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/new-mfa.png)
 
-    Refer the [Multi-factor authentication](mfa-landing.md) documentation for more information about MFA setup.
+    Refer the [Multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md) documentation for more information about MFA setup.
 
 4.  Can the SMS and Email OTP-based MFA limited to certain users?
 
@@ -47,6 +47,6 @@ FAQ related to MFA types and why it’s important.
 
 6.  As an end user how to set up MFA?
 
-    Refer the [Using Multi-factor authentication](mfa-use.md) documentation for more information about MFA setup.
+    Refer the [Using Multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-use.md) documentation for more information about MFA setup.
 
 

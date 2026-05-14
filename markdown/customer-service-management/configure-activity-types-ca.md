@@ -23,7 +23,7 @@ An activity type is an action that a contact or consumer performs. These actions
 
 Activity types are displayed in the Customer History view in Agent Workspace.
 
-![Agent Workspace displaying activity types in Customer History view. In this example, cases are highlighted on the Customer History tab.](../image/activity-type.png)
+![Agent Workspace displaying activity types in Customer History view. In this example, cases are highlighted on the Customer History tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/activity-type.png)
 
 ## Procedure
 

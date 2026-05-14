@@ -32,7 +32,7 @@ Configuration settings for shared presets are saved in the **Unified Map shared 
     4.  class profile \(Class profiles contain only layer settings and are defined in the **Node Map Profiles** related list.\)
 -   You can include a shared preset in a node map profile. Layer settings in the shared preset will override the layer settings defined in the class profile.
 -   A shared preset defined in a profile will be applied when the map opens. If the user has explicitly defined a shared preset or a user preset, then the preset takes precedence as outlined earlier.
--   An individual user can apply a shared preset and then save it as a user preset. For more information, see [Create or manage a user preset](unified-map-manage-preset-filter.md).
+-   An individual user can apply a shared preset and then save it as a user preset. For more information, see [Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md).
 -   Unused filter criteria in the current filter are saved with a preset.
 
 ## Procedure
@@ -50,7 +50,7 @@ Configuration settings for shared presets are saved in the **Unified Map shared 
 
 ## Result
 
-The new shared preset is listed in the **Unified map shared presets** related list on the Configuration Identifier form. In addition, shared presets used in a map profile are listed in the **Node Map Profiles** related list. For more information, see [How configuration settings for Unified Map are stored](../concept/unified-map-config-settings-viewing.md)
+The new shared preset is listed in the **Unified map shared presets** related list on the Configuration Identifier form. In addition, shared presets used in a map profile are listed in the **Node Map Profiles** related list. For more information, see [How configuration settings for Unified Map are stored](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/unified-map-config-settings-viewing.md)
 
 ## What to do next
 
@@ -75,14 +75,14 @@ The new shared preset is listed in the **Unified map shared presets** related li
     Select **Reset filter**.
 
 
-**Parent Topic:**[Configuring Unified Map — admin settings](../concept/administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/administer-unified-map.md)
 
 **Related topics**  
 
 
-[Use filters to specify which nodes should appear on a map](unified-map-configure-filters.md)
+[Use filters to specify which nodes should appear on a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-configure-filters.md)
 
-[Create or manage a user preset](unified-map-manage-preset-filter.md)
+[Create or manage a user preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md)
 
-[Create a class profile of visible layers for classes](unified-map-config-class-profile.md)
+[Create a class profile of visible layers for classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-config-class-profile.md)
 

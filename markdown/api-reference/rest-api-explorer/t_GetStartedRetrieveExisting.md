@@ -31,7 +31,7 @@ Use the REST API Explorer to send the following request:
 
 2.  Click **Retrieve records from a table \(GET\)**.
 
-    For more information about this API endpoint, see [Table - GET /now/table/\{tableName\}](../concept/c_TableAPI.md#).
+    For more information about this API endpoint, see [Table - GET /now/table/\{tableName\}](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/c_TableAPI.md#).
 
 3.  In the Path Parameters section, select the **Incident \(incident\)** table.
 
@@ -41,8 +41,8 @@ Use the REST API Explorer to send the following request:
 
     The response also indicates the **Status code** and **Execution time** \(in milliseconds\) of the request.
 
-    ![REST API Explorer GET response](../image/rest-api-exp-get-response.png)
+    ![REST API Explorer GET response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../image/rest-api-exp-get-response.png)
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/use-REST-API-Explorer.md)
 

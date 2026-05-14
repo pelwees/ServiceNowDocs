@@ -21,11 +21,11 @@ Additionally, you can use keywords or the first three letters of a record to fin
 
 For example, suppose you created a sourcing request \(SRC0000007\) to purchase a product. As the product progressed through the procurement process, the sourcing request converted into a purchase requisition \(PR0000002\), which then became a purchase order \(PO0001026\).
 
-![My purchases showing the progression of your purchases.](../image/sh-unified-request-tracking.png "Shopping Hub showing the progression of your purchases")
+![My purchases showing the progression of your purchases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-unified-request-tracking.png "Shopping Hub showing the progression of your purchases")
 
 Navigate to **ShoppingHub** &gt; **ShoppingHub Home** &gt; **My purchases**. In the search field, search for any of the records, SRC0000007, PR0000002, or PO0001026, to access complete details about your purchase.
 
 **Note:** The purchase card displays the timeline of all previously closed procurement records, providing the shopper with the necessary context to understand the purchase history.
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

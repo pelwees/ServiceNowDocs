@@ -49,5 +49,5 @@ Sample code for campus and map set properties.
 
 -   Other data provides the name and address of the campus and is used to create a location in the location table for the campus.
 
-**Parent Topic:**[Community file](r_CommunityFile.md)
+**Parent Topic:**[Community file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CommunityFile.md)
 

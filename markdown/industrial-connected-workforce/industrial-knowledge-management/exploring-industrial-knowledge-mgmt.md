@@ -25,5 +25,5 @@ Knowledge authors and knowledge managers can contribute to the knowledge base, w
 
 Knowledge articles can be linked to functional locations and equipment records. This association makes maintenance and troubleshooting guidance immediately accessible in the context of the asset that the operator is working on. You can manage these associations from the related lists on the knowledge article form.
 
-**Parent Topic:**[Industrial Knowledge Management](icw-knowledge-management-landing-page.md)
+**Parent Topic:**[Industrial Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/icw-knowledge-management-landing-page.md)
 

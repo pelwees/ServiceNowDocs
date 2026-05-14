@@ -75,7 +75,7 @@ Asynchronous Evaluation
 
 </td><td>
 
-When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](../concept/ra-csm-contexts.md#section-ra-async-eval).
+When selected, enables asynchronous mode of evaluating recommendations on the contextual side panel in the CSM Workspace. That is, this mode enables agents to work on the case or incident record while the recommendations load on the contextual side panel. For more information, see [Synchronous and asynchronous modes of evaluation for Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ra-csm-contexts.md#section-ra-async-eval).
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Search application configuration that specifies AI Search as the search engine a
 
 The **\[CSM AIS\] Configurable Workspace Search Config** search application configuration is provided with the CSM Configurable Workspace store application. To access this configuration, navigate to **AI Search** &gt; **Search Experience** &gt; **Search Applications**.
 
-For more information about AI search configurations, see [Configuring AI Search in Recommended Actions](../concept/ra-configuring-ai-search.md).
+For more information about AI search configurations, see [Configuring AI Search in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ra-configuring-ai-search.md).
 
 </td></tr><tr><td>
 
@@ -166,7 +166,7 @@ Top N results
 
 </td><td>
 
-Limits the number of search results displayed in the AI search tab of Recommended Actions to the top N results for improved precision and easier management. The number of results that appear is determined by the **Search Results Limit** value which can be updated by opening the Search Application in the [Search Application Configuration](ra-csm-contexts-create.md#entry-search-app-config).
+Limits the number of search results displayed in the AI search tab of Recommended Actions to the top N results for improved precision and easier management. The number of results that appear is determined by the **Search Results Limit** value which can be updated by opening the Search Application in the [Search Application Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md#entry-search-app-config).
 
 </td></tr></tbody>
 </table>4.  Select **Save**.
@@ -176,13 +176,13 @@ Limits the number of search results displayed in the AI search tab of Recommende
 
 ## What to do next
 
--   Configure context inputs. For more information, see [Create a context input in Recommended Actions](ra-csm-create-context-inputs.md).
--   Use the Rules related list to view or create rules for this context. For more information on how to create a rule, [Create a rule in Recommended Actions](ra-csm-rules-create.md).
--   Use the Recommendations related list to view the recommendations related to the context rules. You can only create a recommendation from within the rule. For more information on how to create a recommendation within a rule, see [Create a recommendation in Recommended Actions](ra-csm-recommendations-create.md).
+-   Configure context inputs. For more information, see [Create a context input in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-create-context-inputs.md).
+-   Use the Rules related list to view or create rules for this context. For more information on how to create a rule, [Create a rule in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md).
+-   Use the Recommendations related list to view the recommendations related to the context rules. You can only create a recommendation from within the rule. For more information on how to create a recommendation within a rule, see [Create a recommendation in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md).
 -   Use the Search result mapping related list to view or create mappings between AI search outputs and guidance inputs.
 
 **Related topics**  
 
 
-[Contexts in Recommended Actions](../concept/ra-csm-contexts.md)
+[Contexts in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ra-csm-contexts.md)
 

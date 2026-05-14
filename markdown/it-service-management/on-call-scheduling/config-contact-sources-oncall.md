@@ -94,5 +94,5 @@ Source
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Configure or update an On-Call schedule](create-update-schedule-oncall.md)
+**Parent Topic:**[Configure or update an On-Call schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-update-schedule-oncall.md)
 

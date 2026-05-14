@@ -29,7 +29,7 @@ This flow creates an invoice processing case, associates the invoice with that c
 
 2.  Search for and select the **Start Invoice Processing for Orphan Invoices** flow to open it.
 
-3.  Select the more actions icon \(![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+3.  Select the more actions icon \(![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
     The Create a copy of this flow dialog box is displayed.
 
@@ -48,5 +48,5 @@ This flow creates an invoice processing case, associates the invoice with that c
 9.  Select **Activate**.
 
 
-**Parent Topic:**[Start the processing for an invoice imported via integration with third-party applications](start-invoice-processing.md)
+**Parent Topic:**[Start the processing for an invoice imported via integration with third-party applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/start-invoice-processing.md)
 

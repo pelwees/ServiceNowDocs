@@ -25,14 +25,14 @@ View a list of compliance rules that the Code Quality Check feature follows if a
 |Pass|Error or Warning|Success|
 |Pass|No restriction|Success|
 
-**Parent Topic:**[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+**Parent Topic:**[Code quality check in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/code-quality-check-rpa.md)
 
 **Related topics**  
 
 
-[Publish a bot process in RPA Hub](../task/publish-bot-process.md)
+[Publish a bot process in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/publish-bot-process.md)
 
-[Code quality check compliance for RPA Desktop Design Studio](cqc-publish-studio.md)
+[Code quality check compliance for RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/cqc-publish-studio.md)
 
-[Code quality check in RPA Hub](../concept/code-quality-check-rpa.md)
+[Code quality check in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/code-quality-check-rpa.md)
 

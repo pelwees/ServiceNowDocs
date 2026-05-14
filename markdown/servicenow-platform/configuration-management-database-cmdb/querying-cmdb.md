@@ -33,7 +33,7 @@ For a webinar, see [CMDB Query Builder Queries and Reporting - Platform Analytic
 
 ## Intelligent Search for CMDB integration
 
-By default, [Intelligent Search for CMDB](intelligent-search-cmdb.md) functionality is integrated into the CMDB Query Builder. When opening the Query Builder, you can use the Intelligent Search search box which appears above the Query Builder canvas. Intelligent Search lets you use everyday natural language query \(NLQ\) to build a query. Intelligent Search parses, resolves any ambiguities in table names and relationship types, and then converts your search string into a valid query. The query appears fully constructed on the Query Builder canvas where you can run or continue and develop the query.
+By default, [Intelligent Search for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md) functionality is integrated into the CMDB Query Builder. When opening the Query Builder, you can use the Intelligent Search search box which appears above the Query Builder canvas. Intelligent Search lets you use everyday natural language query \(NLQ\) to build a query. Intelligent Search parses, resolves any ambiguities in table names and relationship types, and then converts your search string into a valid query. The query appears fully constructed on the Query Builder canvas where you can run or continue and develop the query.
 
 The integration of Intelligent Search for CMDB with the CMDB Query Builder is controlled by the system property **glide.cmdb.query.nlq.activated**, which is set to **true** by default. If you set the property to **false**, Intelligent Search for CMDB will not be available within the Query Builder.
 
@@ -51,13 +51,13 @@ There are several types of CMDB queries:
 
     A query type that queries the infrastructure for CI classes and the relationships and references that connect them. You can optionally add the context of non-CMDB tables to a CMDB query.
 
-    You can include [Service instances \(Application services\)](application-services.md) in a CMDB query, to find, for example:
+    You can include [Service instances \(Application services\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md) in a CMDB query, to find, for example:
 
     -   All critical application services in your database.
     -   All infrastructure in a particular application service.
     -   All incidents for a particular CI in an application service, or all incidents for all the CIs of an application service.
     -   All application services with a pattern of a service connected to a database, and where the database has incidents.
-    The list of available non-CMDB tables includes a subset of tables within the system, which have a reference to the Configuration Item \[cmdb\_ci\] class or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](../reference/cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
+    The list of available non-CMDB tables includes a subset of tables within the system, which have a reference to the Configuration Item \[cmdb\_ci\] class or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
 
 -   **Service Mapping Query**
 
@@ -71,5 +71,5 @@ There are several types of CMDB queries:
 **Related topics**  
 
 
-[CMDB groups](cmdb-groups.md#)
+[CMDB groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md#)
 

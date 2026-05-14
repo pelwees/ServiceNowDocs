@@ -43,7 +43,7 @@ Complete these steps from the [Google Cloud Platform](https://cloud.google.com/)
 
 6.  Enter the following **Authorized redirect URI**: `https://<instance>.service-now.com/oauth_redirect.do` and select **Create**.
 
-7.  Copy your client ID and client secret from the OAuth client window to a text file so that you can use them when you [Register Google Cloud Functions as an OAuth provider](gcloud-func-setup.md#).
+7.  Copy your client ID and client secret from the OAuth client window to a text file so that you can use them when you [Register Google Cloud Functions as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/gcloud-func-setup.md#).
 
     The client ID and secret can be accessed in the Google APIs &amp; Services interface. Select **Credentials** and select the OAuth 2.0 client ID name.
 
@@ -104,7 +104,7 @@ Role required: admin.
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Cloud Functions default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcp\_cf\_spoke.GoogleCloudFunctions** is selected.|
 
-    ![Credential record for Google Cloud Functional spoke.](../image/gcloud-func-cred.png)
+    ![Credential record for Google Cloud Functional spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-func-cred.png)
 
 6.  Right-click the form header and click **Save**.
 

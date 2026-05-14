@@ -95,5 +95,5 @@ Property value that controls how Virtual Agent API sends the synthesized text re
 </td></tr></tbody>
 </table>    3.  Click **Update**.
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-virtual-agent-api.md)
 

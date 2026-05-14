@@ -32,7 +32,7 @@ Role required:
 
     The Process step filter window is displayed.
 
-    ![Process step filter](../image/process-step-filter.png)
+    ![Process step filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/process-step-filter.png)
 
 4.  Set the filters.
 
@@ -69,17 +69,17 @@ Role required:
 
     7.  You can copy or paste a process step filter by selecting the **Copy** or **Paste** option from the list.
 
-        ![Copy or paste a filter](../image/copy-process-filter.png)
+        ![Copy or paste a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/copy-process-filter.png)
 
 5.  Select **Save as improvement opportunity** from the Actions list.
 
-    ![Save as improvement opportunity from Actions list](../image/action-save-as-impopp.png)
+    ![Save as improvement opportunity from Actions list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/action-save-as-impopp.png)
 
     The Save as improvement opportunity definition dialog box is displayed.
 
 6.  Fill the details on the Save as improvement opportunity definition dialog box.
 
-    ![Save as improvement opportunity dialog box](../image/save-impopp.png)
+    ![Save as improvement opportunity dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/save-impopp.png)
 
     **Note:** You can add this improvement opportunity either to the project, process configuration, or both. The **Apply to** field provides the options.
 
@@ -90,5 +90,5 @@ Role required:
     The improvement opportunity is created and added to your process configuration, project, or both according to your preference.
 
 
-**Parent Topic:**[Setting improvement opportunity for projects](../concept/project-imp-opp.md)
+**Parent Topic:**[Setting improvement opportunity for projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/project-imp-opp.md)
 

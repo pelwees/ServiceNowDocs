@@ -43,7 +43,7 @@ Role required: admin
 
 ## What to do next
 
-After establishing the connection, you can sync material topics from Socialsuite. For more information, see [Sync material topics from Socialsuite](sync-material-topics-from-socialsuite.md).
+After establishing the connection, you can sync material topics from Socialsuite. For more information, see [Sync material topics from Socialsuite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/sync-material-topics-from-socialsuite.md).
 
-**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](integrate-operational-sustainability-with-SocialSuite.md)
+**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-operational-sustainability-with-SocialSuite.md)
 

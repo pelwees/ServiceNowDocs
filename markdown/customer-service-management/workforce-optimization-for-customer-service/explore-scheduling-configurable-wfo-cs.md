@@ -34,7 +34,7 @@ Scheduling provides the following capabilities based on your role:
 
 The image below provides a high-level overview of the tasks schedulers and agents can perform on the calendar.
 
-![Infographic displaying the Schedule page, schedulers' actions, and agents' actions. For the text description, refer to information that follows.](../image/wfo_cs_scheduling_new.png)
+![Infographic displaying the Schedule page, schedulers' actions, and agents' actions. For the text description, refer to information that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/wfo_cs_scheduling_new.png)
 
 As a manager, you can:
 
@@ -59,7 +59,7 @@ As an agent, you can:
 **Related topics**  
 
 
-[Setting up Scheduling in Workforce Optimization for Customer Service](setup-scheduling-configurable-wfo-cs.md#)
+[Setting up Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-scheduling-configurable-wfo-cs.md#)
 
-[Schedule in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md)
+[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/scheduling-configurable-wfo-cs.md)
 

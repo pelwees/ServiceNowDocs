@@ -40,7 +40,7 @@ Preserve the calculated interval trigger. See the illustration.
 -   Clear the check box to restart the interval calculation when the work order is completed.
 
 </td></tr></tbody>
-</table>![Properties controlling trigger calculation](../image/property-preserve-calc.png)
+</table>![Properties controlling trigger calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../image/property-preserve-calc.png)
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../concept/c_MaintPlanMgmt.md)
 

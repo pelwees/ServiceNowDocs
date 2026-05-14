@@ -62,7 +62,7 @@ Perform one of the following actions:-   To record your travel start time using 
 **Note:**
 
     -   The **Sub state** and **Work agent status** are automatically updated as **On Route** to determine that you have started traveling to work on a task.
-    -   The **Start Travel** button transforms into**Check-In** before initiating check-in actions. The **Check-In** option is visible only when the `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](../../planning-and-policy/task/t_ConfigureFieldService.md).
+    -   The **Start Travel** button transforms into**Check-In** before initiating check-in actions. The **Check-In** option is visible only when the `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_ConfigureFieldService.md).
 
 
 </td></tr><tr><td id="d148864e213">
@@ -73,9 +73,9 @@ Perform one of the following actions:-   To record your travel start time using 
 
 Tap **Check-In** after reaching the destination.**Note:**
 
--   The system checks geofence boundary. If you are offline, the system can bypass geofence check with confirmation and sets the status as "Offline Mode. Geofence could not be validated". For more information on the check-in process, see [Onsite arrival and check-in](../reference/onsite-arrival-and-check-in.md).
+-   The system checks geofence boundary. If you are offline, the system can bypass geofence check with confirmation and sets the status as "Offline Mode. Geofence could not be validated". For more information on the check-in process, see [Onsite arrival and check-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/onsite-arrival-and-check-in.md).
 -   The substate **Onsite Arrival** is automatically set, indicating that you have reached your travel destination for the work order task.
--   A notification is sent to the customer, informing them that the agent has arrived on-site and is ready to begin the work. For more information, see [Customer notifications for work order tasks](../concept/Configuring-cust-exp.md#).
+-   A notification is sent to the customer, informing them that the agent has arrived on-site and is ready to begin the work. For more information, see [Customer notifications for work order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/Configuring-cust-exp.md#).
 
 
 </td></tr><tr><td id="d148864e254">
@@ -105,7 +105,7 @@ Perform one of the following actions:-   To record the work start time using the
 </td><td>
 
 1.  Open the task.
-2.  Tap the More actions ![More actions icon](../image/OverflowIcon.png)icon in the upper right hand corner, and tap **Edit task**.
+2.  Tap the More actions ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)icon in the upper right hand corner, and tap **Edit task**.
 3.  Tap the calendar icon next to either **Expected start** or **Estimated end**.
 
 **Note:** You cannot update the expected start time once a task is in the Work in Progress state.
@@ -132,7 +132,7 @@ The following fields are updated in the work order task:
 
 [Manage notifications from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-preference-settings.md)
 
-[Complete a questionnaire for a work order task](complete-questionnaire-mobile-app.md)
+[Complete a questionnaire for a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/complete-questionnaire-mobile-app.md)
 
-[Create a sales opportunity](create-opportunity.md)
+[Create a sales opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-opportunity.md)
 

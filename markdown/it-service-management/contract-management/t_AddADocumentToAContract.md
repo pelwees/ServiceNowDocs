@@ -31,24 +31,24 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 3.  Add a document to the contract.
 
     -   If you are using the core UI, use the following steps:
-        1.  Click the Manage Attachments ![Manage Attachments icon.](../../vendor-manager-workspace/image/attachments-icon.png)icon on the form header.
+        1.  Click the Manage Attachments ![Manage Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../vendor-manager-workspace/image/attachments-icon.png)icon on the form header.
 
         2.  In the Attachments dialog box, click **Choose file** to search for and select the document that you want to add to the contract.
 
     -   If you are using the Hardware Asset Workspaceor Enterprise Asset Workspace, use the following steps:
-        1.  Click the Attachment \(![Attachment icon](../../vendor-manager-workspace/image/attachments-icon.png)\) icon on the sidebar of the contract record.
+        1.  Click the Attachment \(![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../../vendor-manager-workspace/image/attachments-icon.png)\) icon on the sidebar of the contract record.
         2.  In the Attachments window, click **Select** to search for and select the document that you want to add to the contract.
 
-**Parent Topic:**[Create a contract](t_CreateAContract.md)
+**Parent Topic:**[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)
 
 **Related topics**  
 
 
-[Create a software maintenance contract example](t_UseCaseCreateSWMaintContract.md)
+[Create a software maintenance contract example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_UseCaseCreateSWMaintContract.md)
 
-[Add an asset to a contract](t_AddAnAssetToAContract.md)
+[Add an asset to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAnAssetToAContract.md)
 
-[Add a user to a contract](t_AddAUserToAContract.md)
+[Add a user to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAUserToAContract.md)
 
-[Add a configuration item to a contract](t_AddAConfigurationItemToAContract.md)
+[Add a configuration item to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAConfigurationItemToAContract.md)
 

@@ -19,7 +19,7 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Generate [assessable records](../concept/c_MetricTypesAndAssessableRecords.md) you want to evaluate.
+1.  Generate [assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MetricTypesAndAssessableRecords.md) you want to evaluate.
 
     For example, you might create a metric type called **Project** to assess project management records.
 
@@ -33,7 +33,7 @@ Role required: assessment\_admin or admin
 
     For example, you might select Project \[pm\_project\].
 
-    ![UI action table name](../images/UIActionTableName.png)
+    ![UI action table name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/UIActionTableName.png)
 
 6.  Do not edit the **Action name** field or the **Condition** script.
 
@@ -54,22 +54,22 @@ Role required: assessment\_admin or admin
 9.  Insert a new **View Scorecard** UI action record for each table where you want the related link to appear.
 
 
-**Parent Topic:**[View an assessment scorecard](t_ViewAnAssessmentScorecard.md)
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
 
-[Assessment scorecard averages](../reference/r_Averages.md)
+[Assessment scorecard averages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_Averages.md)
 
-[Assessment scorecard categories](../reference/r_Categories.md)
+[Assessment scorecard categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_Categories.md)
 
-[Assessment scorecard category metrics](../reference/r_CategoryMetrics.md)
+[Assessment scorecard category metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_CategoryMetrics.md)
 
-[Assessment scorecard head-to-head compare view](../reference/r_HeadToHeadCompare.md)
+[Assessment scorecard head-to-head compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_HeadToHeadCompare.md)
 
-[Assessment scorecard history](../reference/r_History.md)
+[Assessment scorecard history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_History.md)
 
-[Live feed view of assessable records](../reference/r_LiveFeed.md)
+[Live feed view of assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_LiveFeed.md)
 
-[Assessment scorecard ratings](../reference/r_Ratings.md)
+[Assessment scorecard ratings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_Ratings.md)
 

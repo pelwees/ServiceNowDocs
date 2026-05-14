@@ -84,7 +84,7 @@ Change Requests
 
 </td><td>
 
-List of the Change Request records. To learn more about the change requests, see [Create a change request from Network Inventory Workspace](../task/create_a_change_request_in_tni.md).**Note:** This tab is available only for the Network Site, Telco Equipment, and Physical Connections forms.
+List of the Change Request records. To learn more about the change requests, see [Create a change request from Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create_a_change_request_in_tni.md).**Note:** This tab is available only for the Network Site, Telco Equipment, and Physical Connections forms.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Number Elements
 
 </td><td>
 
-List of the number elements that are associated with your virtual local area network \(VLAN\) or link aggregation group \(LAG\). To learn more about the number elements fields, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).**Note:** This tab is available only for the Telco Equipment, Network Interface, Physical Connections, Logical Connections, and Inventory Number forms.
+List of the number elements that are associated with your virtual local area network \(VLAN\) or link aggregation group \(LAG\). To learn more about the number elements fields, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).**Note:** This tab is available only for the Telco Equipment, Network Interface, Physical Connections, Logical Connections, and Inventory Number forms.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Connection elements
 
 </td><td>
 
-List of the connection elements that are added for the logical connections. These elements should be the valid logical connections between the sites when the computation performs the path search. After creating a connection element, a relationship is created between the logical or physical connection and the next element under its default relationship type. To learn more about the connection element fields, see [Connection Element form](connection-element-form.md).
+List of the connection elements that are added for the logical connections. These elements should be the valid logical connections between the sites when the computation performs the path search. After creating a connection element, a relationship is created between the logical or physical connection and the next element under its default relationship type. To learn more about the connection element fields, see [Connection Element form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/connection-element-form.md).
 
  **Note:**
 
@@ -153,7 +153,7 @@ Inventory Numbers
 
 </td><td>
 
-List of the inventory numbers that are associated with your network inventory. To learn more about the number elements, see [Define your inventory numbering](../task/define-tni-inventory-numbers.md).**Note:** This tab is available only for the Inventory Number form.
+List of the inventory numbers that are associated with your network inventory. To learn more about the number elements, see [Define your inventory numbering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-inventory-numbers.md).**Note:** This tab is available only for the Inventory Number form.
 
 </td></tr><tr><td>
 
@@ -313,7 +313,7 @@ Packs
 
 </td><td>
 
-List of all added packs. To learn more, see [Attribute packs](../concept/telecommunication-network-inventory-pack.md).
+List of all added packs. To learn more, see [Attribute packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunication-network-inventory-pack.md).
 
 </td></tr><tr><td>
 
@@ -321,7 +321,7 @@ Capacity Metrics
 
 </td><td>
 
-List of capacity metric records that are associated with the network inventory record. To learn more see, [View a capacity metric](../task/modify-capacity-metric.md).**Note:** This tab is available only for equipment, rack, slot, cabinet, card and interface records.
+List of capacity metric records that are associated with the network inventory record. To learn more see, [View a capacity metric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/modify-capacity-metric.md).**Note:** This tab is available only for equipment, rack, slot, cabinet, card and interface records.
 
 </td></tr><tr><td>
 
@@ -364,10 +364,10 @@ Places
 List of place records.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Reviewing and updating your network inventory with the Network Inventory Workspace](../concept/tni-workspace.md)
+[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/tni-workspace.md)
 

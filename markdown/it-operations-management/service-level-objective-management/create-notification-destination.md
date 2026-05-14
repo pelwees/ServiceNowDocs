@@ -34,7 +34,7 @@ Create a notification destination to deliver messages to a specific Microsoft Te
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the primary navigation, select **Teams** \(![Teams icon](../../service-reliability/image/icon-sr-teams.png)\).
+2.  From the primary navigation, select **Teams** \(![Teams icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../service-reliability/image/icon-sr-teams.png)\).
 
 3.  On the Teams page, select the team you want to use the notification destination.
 
@@ -82,10 +82,10 @@ Display name of the notification destination.Teams see this name when adding not
 
 To use and learn more about notification destinations, visit the following pages:
 
--   [Create SLOs, SLIs, and error budget policies](sr-create-slo-sli.md)
--   [Notifications for breached error budgets](../reference/srm-notifications-messages.md)
+-   [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md)
+-   [Notifications for breached error budgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../reference/srm-notifications-messages.md)
 
 You can also edit and delete notification destinations from the SLO Notification destinations tab. Deleting a notification destination removes it from all error budget policies where it was previously used.
 
-**Parent Topic:**[Using SLO Management](using-service-level-objective-management.md)
+**Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 

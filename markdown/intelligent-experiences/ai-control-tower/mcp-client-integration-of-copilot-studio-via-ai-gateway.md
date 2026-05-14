@@ -50,5 +50,5 @@ A connection to the MCP server is set up via the AI Gateway.
 
 **Note:** The Client ID and Client secret are automatically generated and available in the MCP server record. These credentials are used to authenticate the client when connecting to the AI Gateway.
 
-To connect with Copilot Studio via AI Gateway, see [Connecting with Microsoft Copilot Studio Via AI Gateway](create-an-agent-in-copilot-studio-for-mcp-client-integration.md).
+To connect with Copilot Studio via AI Gateway, see [Connecting with Microsoft Copilot Studio Via AI Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-an-agent-in-copilot-studio-for-mcp-client-integration.md).
 

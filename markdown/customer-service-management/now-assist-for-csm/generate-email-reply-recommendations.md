@@ -54,8 +54,8 @@ Description
 </td><td>
 
 1.  Select **Compose email**.
-2.  Write six or more words and then select the words that you just wrote to see the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png)
-3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png) to generate a response.
+2.  Write six or more words and then select the words that you just wrote to see the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png)
+3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png) to generate a response.
 4.  Select **Refine** to shorten or elaborate the content.
 5.  Get a recommendation that is based on the existing context.
 
@@ -67,14 +67,14 @@ Description
 </td><td>
 
 1.  In the activity stream, select an existing email that you want to reply to.
-2.  Position your cursor within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png).
-3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png) to receive a recommendation that is based on the existing context.
+2.  Position your cursor within the email message window to see the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png).
+3.  Select the Now Assist icon ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png) to receive a recommendation that is based on the existing context.
 
 
 </td></tr></tbody>
-</table>3.  In the email message window, either type a response, or leave blank, and then select the Now Assist ![Sparkle icon for Now Assist.](../../../common/image/icon-ai-sparkle.png).
+</table>3.  In the email message window, either type a response, or leave blank, and then select the Now Assist ![Sparkle icon for Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png).
 
-    ![Generated email response.](../image/now-assist-email-reply-recommendation.png "Now Assist icon modal")
+    ![Generated email response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-email-reply-recommendation.png "Now Assist icon modal")
 
 <table id="choicetable_e5x_3yv_bcc"><thead><tr><th align="left" id="d182513e257">
 
@@ -125,5 +125,5 @@ Generates a recommended email response that is based on the context of the email
 6.  Select **Send Email** or discard the draft if you don’t like the recommendation.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 

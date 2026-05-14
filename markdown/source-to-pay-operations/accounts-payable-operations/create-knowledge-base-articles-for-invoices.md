@@ -57,32 +57,32 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 -   Track the progress of your article from **My Knowledge Articles**.
 -   Manage the article workflows, such as reviewing, publishing, updating, or retiring the article.
 
-**Parent Topic:**[Use Accounts Payable Operations](../concept/use-acc-pay-mgmt.md)
+**Parent Topic:**[Use Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-acc-pay-mgmt.md)
 
 **Related topics**  
 
 
-[Invoice case categories and subcategories](../concept/working-with-cases.md)
+[Invoice case categories and subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/working-with-cases.md)
 
-[Using Invoice Case Management](../concept/use-invoice-case-mgmt.md)
+[Using Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-invoice-case-mgmt.md)
 
-[Using Accounts Payable Invoice Processing](../concept/use-ap-invoice-processing.md)
+[Using Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/use-ap-invoice-processing.md)
 
-[Advanced Work Assignment in Accounts Payable Operations](../concept/advanced-work-assignment.md)
+[Advanced Work Assignment in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/advanced-work-assignment.md)
 
-[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
+[Configure Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-advanced-work-assignment-for-apo.md)
 
-[Using Advanced Work Assignment for Accounts Payable Operations](../concept/using-awa-for-apo.md)
+[Using Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-awa-for-apo.md)
 
-[Working with Advanced Work Assignment](working-with-advanved-work-assignment.md)
+[Working with Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-advanved-work-assignment.md)
 
-[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/interaction-record.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-apm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/email-composer-apm-workspace.md)
 
-[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+[Universal Request in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/universal-request-in-apo.md)
 
-[Playbook for updating the invoice primary data](../concept/playbooks.md)
+[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/playbooks.md)
 
-[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-supplier-collaboration-portal.md)
 

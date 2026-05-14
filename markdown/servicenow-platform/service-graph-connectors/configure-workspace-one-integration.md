@@ -21,15 +21,15 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 When using client credentials for authentication, obtain the OAuth credentials from your VMware Workspace ONE UEM administrator. Make a note of the following details:
 
@@ -134,7 +134,7 @@ Client ID
 
 </td><td>
 
-Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
+Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Client Secret
 
 </td><td>
 
-Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
+Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.
 
 </td></tr></tbody>
 </table>        3.  Select **Update**, and navigate back to the guided setup page.
@@ -153,7 +153,7 @@ Client secret of your VMware Workspace ONE UEM client application as noted in th
 
     2.  On the HTTP\(s\) Connection form, specify the host name of your VMware Workspace ONE UEM instance in the **Host** field.
 
-        **Note:** The HTTP connection is pre-configured to use the authentication credentials that were configured in steps [4](configure-workspace-one-integration.md#step_vdc_nfh_cgc) and [5](configure-workspace-one-integration.md#step_n4j_nfh_cgc).
+        **Note:** The HTTP connection is pre-configured to use the authentication credentials that were configured in steps [4](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#step_vdc_nfh_cgc) and [5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#step_n4j_nfh_cgc).
 
     3.  Select **Update**.
 
@@ -217,7 +217,7 @@ Client secret of your VMware Workspace ONE UEM client application as noted in th
 
     10. Select the Data Source \[sys\_data\_source\] table.
 
-    11. Repeat steps [9.d](configure-workspace-one-integration.md#substep_v4t_kfd_1gc) to [9.g](configure-workspace-one-integration.md#substep_mzy_kfd_1gc).
+    11. Repeat steps [9.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#substep_v4t_kfd_1gc) to [9.g](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#substep_mzy_kfd_1gc).
 
     12. Set the Update Data Source Access task to complete by selecting **Mark as Complete**.
 
@@ -324,8 +324,8 @@ Connection URL of your VMware Workspace ONE UEM controller.Use the format `https
 
                 |Field|Description|
                 |-----|-----------|
-                |OAuth Client ID|Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
-                |OAuth Client Secret|Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
+                |OAuth Client ID|Application \(client\) ID of your VMware Workspace ONE UEM client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
+                |OAuth Client Secret|Client secret of your VMware Workspace ONE UEM client application as noted in the [Before you begin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/configure-workspace-one-integration.md#prereq_np3_cv3_kqb) section.|
 
                 For information about how to get OAuth credentials, see the [VMware documentation site](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/services/UEM_ConsoleBasics/GUID-BF20C949-5065-4DCF-889D-1E0151016B5A.html).
 

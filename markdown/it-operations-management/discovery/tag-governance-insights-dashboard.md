@@ -29,5 +29,5 @@ Verify the following setup:
 
 To access the dashboard, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** &gt; **Tag Governance Insights**.
 
-For details about the dashboard, see the "Dashboard details" section in [View Tag Governance metrics](../../it-operations-management/concept/tag-governance-dashboard.md).
+For details about the dashboard, see the "Dashboard details" section in [View Tag Governance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/concept/tag-governance-dashboard.md).
 

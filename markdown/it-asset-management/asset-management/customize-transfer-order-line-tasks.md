@@ -19,19 +19,19 @@ When you add a line to a transfer order, a transfer order line task is automatic
 
 Template tasks help you progress through the various stages of the transfer order line. A template task defines the sequence of stages the line must pass through. The template tasks are based on model categories. For example, when you create a customized template task for the Application model category, whenever a transfer order line is created for the Application model category, the template tasks associated with the Application model category are used as transfer order line tasks.
 
--   **[Create a customized template task](../task/create-customized-template-task.md)**  
+-   **[Create a customized template task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/create-customized-template-task.md)**  
 Create customized template tasks to configure your specific task workflow for transfer order lines. Default template tasks are available with the Asset Management application. You can’t modify or delete a default template task.
--   **[Create a template subtask](../task/create-template-subtask.md)**  
+-   **[Create a template subtask](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../task/create-template-subtask.md)**  
 Create template subtasks to add granularity to the transfer order line tasks. For example, before preparing for shipment, for a computer, you may want to create sub tasks for imaging the computer or adding additional software.
 
-**Parent Topic:**[Manage transfer order](manage-transfer-orders.md)
+**Parent Topic:**[Manage transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-transfer-orders.md)
 
 **Related topics**  
 
 
-[Transfer order flow](transfer-order-flows.md)
+[Transfer order flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/transfer-order-flows.md)
 
-[Transfer order tasks](work-with-transfer-orders.md)
+[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/work-with-transfer-orders.md)
 
-[Transfer order line asset tracking](../reference/r_TransferOrderLineAssetTracking.md)
+[Transfer order line asset tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../reference/r_TransferOrderLineAssetTracking.md)
 

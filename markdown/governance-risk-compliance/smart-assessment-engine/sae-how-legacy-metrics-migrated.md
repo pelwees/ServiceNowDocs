@@ -106,5 +106,5 @@ This tables shows the mapping used to move the existing template definitions to 
 **Related topics**  
 
 
-[tables-installed-in-smart-assessment-engine.md](tables-installed-in-smart-assessment-engine.md)
+[tables-installed-in-smart-assessment-engine.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/tables-installed-in-smart-assessment-engine.md)
 

@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to the record \(example, an incident record\), the existing attachment are visible at the top.
 
-2.  Select the attachments icon \(![Attachments icon](../image/UI14FormAttachments.png)\) or the **Manage Attachments** link if files are already attached.
+2.  Select the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI14FormAttachments.png)\) or the **Manage Attachments** link if files are already attached.
 
     The number of attachments for a record is listed on the **Manage Attachments** link.
 
@@ -41,7 +41,7 @@ Role required: admin
 
 5.  To remove attachments, select the **Manage Attachments** link and complete the following steps.
 
-    1.  Select the attachments icon \(![Attachments icon](../image/UI14FormAttachments.png)\).
+    1.  Select the attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI14FormAttachments.png)\).
 
     2.  Select the check boxes next to the attachments.
 
@@ -64,5 +64,5 @@ Role required: admin
     3.  Select **Save**.
 
 
-**Parent Topic:**[Add and manage attachments](t_AddingAnAttachment.md)
+**Parent Topic:**[Add and manage attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)
 

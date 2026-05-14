@@ -145,11 +145,11 @@ Purge interval
 </table>**Related topics**  
 
 
-[Password Reset and Password Change reports and logs](c_MonitorPasswordResetActivity.md)
+[Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_MonitorPasswordResetActivity.md)
 
-[Unblock a Password Reset user](../task/t_UnblockAUser.md)
+[Unblock a Password Reset user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_UnblockAUser.md)
 
-[View user requests for password reset](../task/t_ResetARequest.md)
+[View user requests for password reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_ResetARequest.md)
 
-[Unblock a Password Reset user](../task/t_UnblockAUser.md)
+[Unblock a Password Reset user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_UnblockAUser.md)
 

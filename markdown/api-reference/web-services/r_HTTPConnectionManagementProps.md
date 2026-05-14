@@ -99,5 +99,5 @@ Switches connection pooling on and off. To disable the new behavior \(not recomm
 true
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage connection pooling](r_HTTPClientConnectionManagement.md)
+</table>**Parent Topic:**[Manage connection pooling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_HTTPClientConnectionManagement.md)
 

@@ -64,22 +64,22 @@ Madrid and later release requirements
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>## Procedure
 
-1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Security Operations** &gt; **Integrations** &gt; **Integrations Configurations** and locate the API tile.
 
 3.  Click **Configure**.
 
-    ![RISKIQ Configure button](../image/riskiq-tile.png)
+    ![RISKIQ Configure button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-tile.png)
 
 4.  In the RiskIQ Configuration dialog box that is displayed, enter the **Username** and **API key**.
 
-    ![Task: Enter the Username and API key.](../image/riskiq-configuration.png)
+    ![Task: Enter the Username and API key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-configuration.png)
 
 5.  Click **Submit**.
 
@@ -90,11 +90,11 @@ Madrid and later release requirements
 
 If an error message is displayed, the Username or API key may be invalid. Verify that your username and API key are correct:
 
-![Configuration error message](../image/riskiq-config-error.png "Troubleshooting")
+![Configuration error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-config-error.png "Troubleshooting")
 
-**Parent Topic:**[RISKIQ and WHOISIQ integration](../concept/riskiq-lookups.md)
+**Parent Topic:**[RISKIQ and WHOISIQ integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/riskiq-lookups.md)
 
-**Previous topic:**[Supported observables for RISKIQ and RISKIQ WHOISIQ](../reference/riskiq_supported_obsv.md)
+**Previous topic:**[Supported observables for RISKIQ and RISKIQ WHOISIQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/riskiq_supported_obsv.md)
 
-**Next topic:**[Verify expected results for RISKIQ SSL certificate lookups](verify-expected-rslts-for-riskiq.md)
+**Next topic:**[Verify expected results for RISKIQ SSL certificate lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-for-riskiq.md)
 

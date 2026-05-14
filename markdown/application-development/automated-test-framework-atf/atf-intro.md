@@ -147,12 +147,12 @@ The Automated Test Framework automatically tracks and deletes any data created b
 
 Test suites enable you to execute a batch of tests in a specified order. In addition, test suites can be hierarchical, with suites nested within other suites. You can associate test suites with schedules that determine when the system runs the test suites.
 
--   **[Build and run your first automated test](../task/atf-tut-build-first.md#)**  
+-   **[Build and run your first automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-tut-build-first.md#)**  
 Follow these step-by-step instructions to create and run your first automated test. This test creates a new user record.
--   **[Next steps with the Automated Test Framework](atf-next-step-concepts.md)**  
+-   **[Next steps with the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-next-step-concepts.md)**  
 After you feel comfortable creating and running simple tests, explore the more advanced features of the Automated Test Framework.
--   **[Domain separation and Automated Test Framework](domain-separation-auto-test-framework.md)**  
+-   **[Domain separation and Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/domain-separation-auto-test-framework.md)**  
 Domain separation is supported in the Automated Test Framework. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Exploring Automated Test Framework](automated-test-framework.md)
+**Parent Topic:**[Exploring Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/automated-test-framework.md)
 

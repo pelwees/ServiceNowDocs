@@ -33,15 +33,15 @@ For more information about the Card Base Header, see the [Components](https://ho
 
 3.  Configure the header component.
 
-    1.  In the **Config** tab, hover over the **Dropdowns** section and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+    1.  In the **Config** tab, hover over the **Dropdowns** section and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 
     2.  From the **Dropdowns** menu, select **@state.cardProps.dropdowns**.
 
-    3.  Hover over the **Heading** section and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+    3.  Hover over the **Heading** section and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 
     4.  From the **Heading** menu, select **@state.cardProps.heading**.
 
-    5.  Hover over the **Tagline** section and select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png).
+    5.  Hover over the **Tagline** section and select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png).
 
 4.  Add **Handle card action clicked** to the **Card header action clicked** event.
 
@@ -64,5 +64,5 @@ For more information about the Card Base Header, see the [Components](https://ho
 
 [Configure a display type component for a Work scheduler card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-stacked-component.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 

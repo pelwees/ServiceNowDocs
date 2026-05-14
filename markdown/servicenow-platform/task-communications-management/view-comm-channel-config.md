@@ -30,10 +30,10 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
     |Field|Description|
     |-----|-----------|
     |Type|\[Read only\] Mode of channel.|
-    |Configuration script|\[Read only\] Lookup icon \(![Lookup icon](../../proactive-triggers/image/look-up-icon.png)\) to select the script that defines the channel configuration.|
+    |Configuration script|\[Read only\] Lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../../proactive-triggers/image/look-up-icon.png)\) to select the script that defines the channel configuration.|
     |Active|\[Read only\] Option to define whether the communication channel is active or not.|
     |Classification|\[Read only\] Internally used to group the channels between conference or major incident management workbench.|
 
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../concept/working-with-tcm.md)
 

@@ -36,11 +36,11 @@ The following examples describe how you can use the Service Graph Connector for 
 
 ## Guided setup
 
-The guided setup for the Service Graph Connector for OpenTelemetry provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for OpenTelemetry](../task/sgc-config-opentelemetry-integ.md).
+The guided setup for the Service Graph Connector for OpenTelemetry provides an organized sequence of tasks to configure the integration on your instance. To access the guided setup, see [Configure Service Graph Connector for OpenTelemetry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../task/sgc-config-opentelemetry-integ.md).
 
 ## CMDB integrations dashboard
 
-The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](integration-commons-for-cmdb.md#section_fxg_lh4_blb).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integration-commons-for-cmdb.md#section_fxg_lh4_blb).
 
 ## Data mapping
 
@@ -88,31 +88,31 @@ OpenTelemetry Resources \[sn\_sg\_lightstep\_resources\]
 
 </td><td>
 
-[Calculated Application Service](../reference/sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
+[Calculated Application Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
 
- [Kubernetes Cluster](../reference/sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
+ [Kubernetes Cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
 
- [Kubernetes Deployment](../reference/sgc-cmdb-opentelemetry-classes.md#section_hyk_1hg_fxb)
+ [Kubernetes Deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_hyk_1hg_fxb)
 
- [Kubernetes Node](../reference/sgc-cmdb-opentelemetry-classes.md#section_vf1_dhg_fxb)
+ [Kubernetes Node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_vf1_dhg_fxb)
 
- [Kubernetes Pod](../reference/sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
+ [Kubernetes Pod](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
 
- [Kubernetes StatefulSet](../reference/sgc-cmdb-opentelemetry-classes.md#section_hg4_fl5_qxb)
+ [Kubernetes StatefulSet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_hg4_fl5_qxb)
 
- [Kubernetes ReplicaSet](../reference/sgc-cmdb-opentelemetry-classes.md#section_zdf_phg_fxb)
+ [Kubernetes ReplicaSet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_zdf_phg_fxb)
 
- [Kubernetes DaemonSet](../reference/sgc-cmdb-opentelemetry-classes.md#section_q2s_5hg_fxb)
+ [Kubernetes DaemonSet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_q2s_5hg_fxb)
 
- [Kubernetes Job](../reference/sgc-cmdb-opentelemetry-classes.md#section_u1r_gdb_rxb)
+ [Kubernetes Job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_u1r_gdb_rxb)
 
- [Kubernetes Cronjob](../reference/sgc-cmdb-opentelemetry-classes.md#section_jls_jcb_rxb)
+ [Kubernetes Cronjob](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_jls_jcb_rxb)
 
- [Kubernetes Namespace](../reference/sgc-cmdb-opentelemetry-classes.md#section_gz4_lhg_fxb)
+ [Kubernetes Namespace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_gz4_lhg_fxb)
 
- [Server](../reference/sgc-cmdb-opentelemetry-classes.md#section_y5x_yhg_fxb)
+ [Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_y5x_yhg_fxb)
 
- [Key Value](../reference/sgc-cmdb-opentelemetry-classes.md#section_hbk_fhg_fxb)
+ [Key Value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_hbk_fhg_fxb)
 
 </td></tr><tr><td>
 
@@ -132,9 +132,9 @@ OpenTelemetry K8s Pods \[sn\_sg\_lightstep\_pods\]
 
 </td><td>
 
-[Kubernetes Cluster](../reference/sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
+[Kubernetes Cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_xzj_khg_fxb)
 
- [Kubernetes Pod](../reference/sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
+ [Kubernetes Pod](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_rkm_1kg_fxb)
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ OpenTelemetry docker containers \[sn\_sg\_lightstep\_containers\]
 
 </td><td>
 
-[Docker Container](../reference/sgc-cmdb-opentelemetry-classes.md#section_vx1_thg_fxb)
+[Docker Container](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_vx1_thg_fxb)
 
 </td></tr><tr><td>
 
@@ -174,7 +174,7 @@ Opentelemetry container images \[sn\_sg\_lightstep\_container\_images\]
 
 </td><td>
 
-[Docker Image](../reference/sgc-cmdb-opentelemetry-classes.md#section_vyl_d3g_fxb)
+[Docker Image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_vyl_d3g_fxb)
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ OpenTelemetry K8s Services \[sn\_sg\_lightstep\_kubernetes\_services\]
 
 </td><td>
 
-[Kubernetes Service](../reference/sgc-cmdb-opentelemetry-classes.md#section_kgl_mhg_fxb)
+[Kubernetes Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_kgl_mhg_fxb)
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ OpenTelemetry Dependency Map
 
 Imports the dependency maps to get an aggregate view of the traced data.The data source also imports and loads any inferred services and their related services data in the Inferred service \[sn\_sg\_lightstep\_inferred\_service\] staging table.
 
-**Note:** You need to link the imported inferred services with a CI manually. See [Inferred service linking](sgc-cmdb-integration-opentelemetry.md#section_h12_fwb_sxb).
+**Note:** You need to link the imported inferred services with a CI manually. See [Inferred service linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-opentelemetry.md#section_h12_fwb_sxb).
 
 </td><td>
 
@@ -216,19 +216,19 @@ OpenTelemetry Dependency Map \[sn\_sg\_lightstep\_dependency\_map\]
 
 </td><td>
 
-[Calculated Application Service](../reference/sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
+[Calculated Application Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md#section_fr5_b3g_fxb)
 
 </td></tr></tbody>
-</table>For more information on where data is saved when pulling data from Cloud Observability, see [CMDB classes targeted in Service Graph Connector for OpenTelemetry](../reference/sgc-cmdb-opentelemetry-classes.md).
+</table>For more information on where data is saved when pulling data from Cloud Observability, see [CMDB classes targeted in Service Graph Connector for OpenTelemetry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/sgc-cmdb-opentelemetry-classes.md).
 
-You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integrationhub-etl.md) for more information.
 
 ## Inferred service linking
 
-The ServiceNow Cloud Observability application can infer the presence of an inferred service when the span calling the remote service has the necessary information. Service Graph Connector for OpenTelemetry provides the linking of inferred services and their related services with CIs in the CMDB. For more information, see [Linking inferred services with CIs](sgc-cmdb-opentelemetry-services.md#).
+The ServiceNow Cloud Observability application can infer the presence of an inferred service when the span calling the remote service has the necessary information. Service Graph Connector for OpenTelemetry provides the linking of inferred services and their related services with CIs in the CMDB. For more information, see [Linking inferred services with CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-opentelemetry-services.md#).
 
 **Related topics**  
 
 
-[Service Graph Connectors](cmdb-sgc-available.md)
+[Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 

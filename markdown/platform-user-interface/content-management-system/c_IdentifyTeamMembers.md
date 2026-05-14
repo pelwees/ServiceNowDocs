@@ -33,5 +33,5 @@ After you identify the project team members, establish who is responsible to com
 -   Set a page update schedule so owners do not overwrite each other.
 -   Formalize content management processes, including content review and page updates.
 
-**Parent Topic:**[Content Management design](c_ContentManagementPlanning.md)
+**Parent Topic:**[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 

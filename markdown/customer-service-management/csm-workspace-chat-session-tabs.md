@@ -49,7 +49,7 @@ This feature actively tracks the duration of a chat and alerts the agent when pr
 
 </td></tr><tr><td>
 
-[SLA threshold timers](csm-workspace-chat-session-tabs.md#section_u4x_lgx_s2c)
+[SLA threshold timers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md#section_u4x_lgx_s2c)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Virtual agent admins can configure a minimum of one and a maximum of three level
 
 </td></tr><tr><td>
 
-[Tab colors](csm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc)
+[Tab colors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md#section_rsb_4j2_fdc)
 
 </td><td>
 
@@ -69,7 +69,7 @@ Tab colors indicate the status of a chat with one or more unread messages.Inacti
 
 </td></tr><tr><td>
 
-[Unread message counters](csm-workspace-chat-session-tabs.md#section_zq4_1k2_fdc)
+[Unread message counters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md#section_zq4_1k2_fdc)
 
 </td><td>
 
@@ -138,7 +138,7 @@ This timer alerts the agent to a severe SLA breach by changing the color of an i
 **Note:** The length of time for the Level 3 timer must be greater than the Level 2 timer.
 
 </td></tr></tbody>
-</table>For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+</table>For more information, see [Configure chat session tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-workspace-chat-session-tabs-configure.md).
 
 ## Tab colors
 
@@ -151,7 +151,7 @@ Virtual agent admins can configure up to three SLA threshold levels for chat ses
 
 The background tab color changes when an inactive tab with unread messages reaches the first SLA threshold level. The tab maintains the current color until the timer reaches the next configured SLA threshold level.
 
-For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-workspace-chat-session-tabs-configure.md).
 
 ## Unread message counters
 
@@ -159,7 +159,7 @@ Each inactive tab includes a counter that displays the number of unread chat mes
 
 The counter uses a background color that is a darker shade of the configured tab color.
 
-![Unread message counters appear as a square on the tab that is a darker shade of the configured tab color. The number of unread messages appears in the square.](../image/chat-session-tabs-unread-message-counters.png "Chat session tab unread message counters")
+![Unread message counters appear as a square on the tab that is a darker shade of the configured tab color. The number of unread messages appears in the square.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-session-tabs-unread-message-counters.png "Chat session tab unread message counters")
 
 When a chat message is received, the counter updates to display the total number of unread messages. After selecting the tab, an agent can see the unread messages in the chat window.
 
@@ -220,5 +220,5 @@ Users with the Virtual agent admin role can enable the chat sessions tab feature
 
 When this feature is enabled, chat session tabs display colors to indicate the chat status. These colors are determined by SLA threshold timers that alert agents to impending SLA breaches.
 
-For more information, see [Configure chat session tabs](../task/csm-workspace-chat-session-tabs-configure.md).
+For more information, see [Configure chat session tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/csm-workspace-chat-session-tabs-configure.md).
 

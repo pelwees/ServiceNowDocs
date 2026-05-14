@@ -148,7 +148,7 @@ Update Defender incident comments with SIR work notes
 Option to update your SIR work notes in the Defender incident comments. The comment in Microsoft Defender appears with the prefix- Comment from ServiceNow.
 
 </td></tr></tbody>
-</table>    ![Options for automating incidents](../image/ms-def-additional-op.png)
+</table>    ![Options for automating incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-def-additional-op.png)
 
 3.  Select **Finish**.
 

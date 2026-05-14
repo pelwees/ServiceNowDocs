@@ -146,16 +146,16 @@ Specifies the number of entries from a journal field, such as Additional comment
 -   Learn More:Restrict the Number of Entries Sent in a Notification
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Email properties](../concept/c_EmailProperties.md)
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailProperties.md)
 
 **Related topics**  
 
 
-[Inbound email configuration](r_InboundMailConfiguration.md)
+[Inbound email configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_InboundMailConfiguration.md)
 
-[Email image filtering properties](../../notification/concept/email-image-filters.md)
+[Email image filtering properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-image-filters.md)
 
-[Email digest properties](../../notification/concept/email-digest-properties.md)
+[Email digest properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/email-digest-properties.md)
 
-[Advanced email properties](r_AdditionalProperties.md)
+[Advanced email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/r_AdditionalProperties.md)
 

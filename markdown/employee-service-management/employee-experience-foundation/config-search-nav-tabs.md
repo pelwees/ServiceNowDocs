@@ -46,5 +46,5 @@ The search navigation tabs help you to refine their search query results by sear
 
 ## Result
 
-The configured sources appear on AI search results in a tab. For more info on how tabs appear in AI search, see [Configure application visibility and access](applauncher-enable-availability.md).
+The configured sources appear on AI search results in a tab. For more info on how tabs appear in AI search, see [Configure application visibility and access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/applauncher-enable-availability.md).
 

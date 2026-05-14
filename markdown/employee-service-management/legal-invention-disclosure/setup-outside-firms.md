@@ -44,7 +44,7 @@ Role required: sn\_lg\_matter.matter\_config
 
 ## What to do next
 
-[Set up Outside Counsels for Legal Invention Disclosure](setup-outside-counsels.md)
+[Set up Outside Counsels for Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/setup-outside-counsels.md)
 
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/configure-legal-invention-disclosure.md)
 

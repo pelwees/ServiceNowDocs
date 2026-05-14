@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Risk assessment** list and then **All**.
 
@@ -33,11 +33,11 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
     Enter details such as who is at risk, who is responsible for controls, who reviews, and who approves this risk assessment.
 
-    For more information on risk field descriptions, see [Risk assessment form](../reference/hs-risk-assessment-form.md).
+    For more information on risk field descriptions, see [Risk assessment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../reference/hs-risk-assessment-form.md).
 
-6.  If necessary, attach an image about the risk using the add attachments icon \(![Add attachment icon.](../../ohs-incident-management/image/icon-add-attachment.png)\).
+6.  If necessary, attach an image about the risk using the add attachments icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/image/icon-add-attachment.png)\).
 
-7.  Research content related to the risk assessment by selecting the Agent assist icon \(![agent assist icon](../../../common/image/Form_AgentAssistIcon.png)\).
+7.  Research content related to the risk assessment by selecting the Agent assist icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../../common/image/Form_AgentAssistIcon.png)\).
 
     Agent assist searches the knowledge base using the text from the risk assessment's **Short description** field and shows relevant articles.
 
@@ -47,11 +47,11 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 9.  In the **Risk analyses** tab, add risk analysis records to evaluate the risk level of identified hazards.
 
-    For more information, see [Perform risk analysis for a safety risk assessment](hs-perform-risk-analysis-safety-risk-assessment.md) and [Create a risk analysis from a job](import-hazards-and-controls.md).
+    For more information, see [Perform risk analysis for a safety risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-risk-analysis-safety-risk-assessment.md) and [Create a risk analysis from a job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/import-hazards-and-controls.md).
 
 10. In the **Action schedules** tab, set up actions to address an identified risk or implement control measures necessary to improve workplace safety.
 
-    The action schedule creates actions in the **Risk actions** tab and auto-assigns them to individuals using the condition builder. For more information, see [Create a Health and Safety action schedule](../../ohs-incident-management/task/create-health-safety-action-schedule.md).
+    The action schedule creates actions in the **Risk actions** tab and auto-assigns them to individuals using the condition builder. For more information, see [Create a Health and Safety action schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/task/create-health-safety-action-schedule.md).
 
 11. In the **Details** tab, mark the risk assessment as complete when all associated risk analyses are finished.
 
@@ -69,5 +69,5 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 After the risk assessment is complete, assign a reviewer and approver for it, if necessary. Only a user with the Risk assessment approver \[sn\_hs\_rm.risk\_assessment\_approver\] role can be assigned as an approver.
 
-**Parent Topic:**[Safety risk assessment](../concept/hs-risk-assessment.md)
+**Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-risk-assessment.md)
 

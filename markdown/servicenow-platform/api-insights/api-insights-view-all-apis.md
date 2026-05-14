@@ -17,7 +17,7 @@ Manage and monitor all APIs within your organization by reviewing their life cyc
 
 The All APIs page in the API Insights workspace provides a comprehensive overview of all APIs within an organization ensuring that APIs are properly maintained and aligned with the organization's standards for interfaces, ownership, and product models.
 
-![All APIs page to view APIs within your organization.](../image/api-insights-all-apis-page.png "All APIs page")
+![All APIs page to view APIs within your organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-all-apis-page.png "All APIs page")
 
 ## Accessing and using the All APIs page
 
@@ -33,7 +33,7 @@ By default, the page displays the following data:
 
 -   **API data table**
 
-    Lists all APIs with detailed columns for the API name, the number of consumers, management platform, life cycle stage, version, and the number of API requests processed per minute for each API listed in the table. This table provides an overview of the APIs and their status within the organization. You can select an API from the **Name** column to view API details and request access to the API managed by your team. See [Request access to an API in API Insights](../task/api-insights-req-access.md).
+    Lists all APIs with detailed columns for the API name, the number of consumers, management platform, life cycle stage, version, and the number of API requests processed per minute for each API listed in the table. This table provides an overview of the APIs and their status within the organization. You can select an API from the **Name** column to view API details and request access to the API managed by your team. See [Request access to an API in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-req-access.md).
 
 -   **Available actions and filters in the API data table**
 
@@ -45,7 +45,7 @@ By default, the page displays the following data:
 
     -   **Refreshing the API data**
 
-        Manually populate the API data table on demand by selecting the refresh icon \(![Refresh icon.](../image/refresh-list.png)\).
+        Manually populate the API data table on demand by selecting the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/refresh-list.png)\).
 
     -   **Filtering APIs by platform and instance**
 
@@ -79,7 +79,7 @@ By default, the page displays the following data:
 
 -   **APIs missing data section**
 
-    Highlights the APIs missing key attributes like business context, ownership groups, product models, and design helping to identify issues in API governance. You can select the numeric value displayed in each card to identify and resolve issues with API data. See [Identifying and remediating missing API data in API Insights](api-insights-resolve-gaps.md#).
+    Highlights the APIs missing key attributes like business context, ownership groups, product models, and design helping to identify issues in API governance. You can select the numeric value displayed in each card to identify and resolve issues with API data. See [Identifying and remediating missing API data in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-resolve-gaps.md#).
 
 -   **Helpful resources**
 

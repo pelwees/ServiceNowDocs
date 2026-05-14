@@ -21,7 +21,7 @@ Role required: admin and notifications provider admin
 
 1.  Click Additional Recipients related list on the notification form to add new recipients.
 
-    **Note:** An error message about adding content to the notification shows up. See create common content and [create default content](create-default-content.md) to create content for a notification.
+    **Note:** An error message about adding content to the notification shows up. See create common content and [create default content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-default-content.md) to create content for a notification.
 
 2.  Click **New** in the Additional Recipients related list to add additional recipients.
 
@@ -93,5 +93,5 @@ Only one active record can be added for a particular recipient table. If you wan
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Create and update a provider notification for all users](noti-new-update-notification.md)
+**Parent Topic:**[Create and update a provider notification for all users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-new-update-notification.md)
 

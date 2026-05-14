@@ -26,7 +26,7 @@ When setting up the Insurance claims application, review the PolicySnapshotGener
 **Related topics**  
 
 
-[Insurance Claims Core tables](../../fso-common/reference/insurance-claims-core-tables.md)
+[Insurance Claims Core tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../fso-common/reference/insurance-claims-core-tables.md)
 
-[Insurance policies in Insurance claims](insurance-policies.md)
+[Insurance policies in Insurance claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-policies.md)
 

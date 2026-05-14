@@ -15,7 +15,7 @@ As an approver, you receive notifications informing you of approval requests for
 
 ## Approval workflow
 
-When a sales rep \(requester\) submits an approval request, the advanced approval engine creates one or more approval requests and routes them to the appropriate approvers. As an approver, you’re responsible for only the approval steps assigned to you. Approval actions taken by another approver do not give you access to approval steps assigned to other approvers. But you can track and review the approval process for the request using the [approval workflow interface](tracking-approval-status.md)approval workflow interface.
+When a sales rep \(requester\) submits an approval request, the advanced approval engine creates one or more approval requests and routes them to the appropriate approvers. As an approver, you’re responsible for only the approval steps assigned to you. Approval actions taken by another approver do not give you access to approval steps assigned to other approvers. But you can track and review the approval process for the request using the [approval workflow interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/tracking-approval-status.md)approval workflow interface.
 
 Review the following when you receive an approval request:
 
@@ -48,11 +48,11 @@ As an escalated assignee, you can approve or reject requests from different chan
 
 ## Adding ad-hoc approvers
 
-You can add one or more approvers or approval groups to a workflow, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For more information on adding an ad-hoc approver, see [Add approvers to an approval request](../task/add-approver.md).
+You can add one or more approvers or approval groups to a workflow, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For more information on adding an ad-hoc approver, see [Add approvers to an approval request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-approver.md).
 
 ## Delegating approvals
 
 If you need to be away from work for a specific time period and can't review your approval requests, you can delegate your approval responsibilities to another coworker if the delegation feature in Employee Workflows has been implemented by your admin. For more information on delegation, see [Granular Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation.md).
 
-**Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)
+**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 

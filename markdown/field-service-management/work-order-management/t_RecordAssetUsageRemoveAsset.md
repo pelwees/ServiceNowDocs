@@ -27,7 +27,7 @@ Role required: wm\_agent
 
 3.  In the Asset Usages related list, display the Asset Usage form by selecting **Remove Asset**.
 
-    ![remove asset button](../../field-service-management/image/remove-asset.png)
+    ![remove asset button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/remove-asset.png)
 
     The **Service order task** field displays the task number of the work order, and that the status of the asset is set to **Removed**.
 
@@ -41,7 +41,7 @@ Role required: wm\_agent
     -   If the model is non-consumable, select the asset that is listed in the **Asset** field.
 6.  In the **Drop off stockroom** field, select the drop-off location where you want to drop-off the asset.
 
-    To learn more about the drop-off list, see [Using drop off lists](../concept/c_UseDropOffLists.md).
+    To learn more about the drop-off list, see [Using drop off lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/c_UseDropOffLists.md).
 
 7.  In the **Removed part status** field, select the status of the part that you want to remove.
 

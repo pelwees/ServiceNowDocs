@@ -21,14 +21,14 @@ Workflow Studio is a ServiceNow AI Platform feature that enables you to automate
 
 You can preview Integration Hub on a Personal Development Instance \(PDI\).
 
--   **[Integration Hub usage and subscription](subscription-usage.md)**  
+-   **[Integration Hub usage and subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/subscription-usage.md)**  
 Choose a subscription package to build reusable integrations with third-party systems. Review the usage dashboard to determine the number of transactions used within your current subscription, and to view transaction details.
--   **[Integration Hub subscription notifications](../../integrationhub/concept/integrationhub-subscription-notifications.md)**  
+-   **[Integration Hub subscription notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/integrationhub-subscription-notifications.md)**  
 Integration Hub displays an information message whenever you use a spoke, protocol, entitlement, or feature that requires an Integration Hub subscription. You can use this information to identify possible gaps between your planned Integration Hub usage and your current subscription entitlements.
--   **[Request an Integration Hub plugin](../../integrationhub/tasks/request-integrationhub.md)**  
+-   **[Request an Integration Hub plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/tasks/request-integrationhub.md)**  
 Integration Hub plugins require a separate subscription and must be activated by ServiceNow personnel.
--   **[Integration Hub plugins](../../integrationhub/reference/ih-plugins.md)**  
+-   **[Integration Hub plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/reference/ih-plugins.md)**  
 Request Integration Hub plugins included in your subscription.
 
-**Parent Topic:**[Configuring Integration Hub](../../integrationhub/concept/configuring-integration-hub.md)
+**Parent Topic:**[Configuring Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/configuring-integration-hub.md)
 

@@ -30,5 +30,5 @@ Administrators can:
 **Related topics**  
 
 
-[Legacy - Add an application file to an application](../task/t_AddAnAppFileToAnApp.md)
+[Legacy - Add an application file to an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/t_AddAnAppFileToAnApp.md)
 

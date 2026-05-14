@@ -35,13 +35,13 @@ The call participants can include the following:
 
 2.  From the Major Security Incident list, select the major security incident that you're trying to resolve on the conference call.
 
-3.  Select the ![Conference call](../image/msim-conf-call-icon.png) icon on the right-context menu to view the details of the conference calls.
+3.  Select the ![Conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-call-icon.png) icon on the right-context menu to view the details of the conference calls.
 
     This includes details like conference bridge name, organizer name, date, time, duration of the call, active and inactive participants.
 
-4.  Select ![Meeting options](../image/msim-options.png) next to the active conference call and select the **Add Participants** option.
+4.  Select ![Meeting options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-options.png) next to the active conference call and select the **Add Participants** option.
 
-    ![Steps to add participants to a conference call](../image/msim-add-participants.png "Add participants to a conference call")
+    ![Steps to add participants to a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-add-participants.png "Add participants to a conference call")
 
 5.  You can use the search option to find and add the required participants or select the participants from the **Recommendations** list, which provides participant recommendations to add to the conference call.
 
@@ -52,20 +52,20 @@ The call participants can include the following:
 7.  Alternatively, you can add participants by selecting the **Copy invite** option on the Conference calls section on the right-context menu, and you can share with the required participants.
 
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](../concept/integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conference-calls.md)
 
 **Related topics**  
 
 
-[Start a conference call](start-conference-call.md)
+[Start a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/start-conference-call.md)
 
-[Mute participants in a conference call](mute-unmute-participants.md)
+[Mute participants in a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mute-unmute-participants.md)
 
-[View conference call details](view-conference-call-details.md)
+[View conference call details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-conference-call-details.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+[Integrate MSIM Conference Calls with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conf-calls-zoom.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](../concept/integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conf-calls-webex.md)
 

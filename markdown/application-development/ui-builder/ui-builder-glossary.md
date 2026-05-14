@@ -15,7 +15,7 @@ breadcrumb: [Exploring UI Builder, UI Builder, Builder library, Developing your 
 
 Learn about the terms and concepts used in UI Builder \(UIB\).
 
-**Parent Topic:**[Exploring UI Builder](create-custom-experience.md)
+**Parent Topic:**[Exploring UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-custom-experience.md)
 
 ## action
 

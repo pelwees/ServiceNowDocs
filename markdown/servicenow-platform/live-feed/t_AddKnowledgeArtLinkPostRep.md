@@ -28,5 +28,5 @@ Role required: none
 2.  When you are finished entering your message, click **Post** or **Reply**.
 
 
-**Parent Topic:**[Post content in Live Feed](../concept/c_PostContentInLiveFeed.md)
+**Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_PostContentInLiveFeed.md)
 

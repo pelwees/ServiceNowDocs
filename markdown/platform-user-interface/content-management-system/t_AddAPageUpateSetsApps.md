@@ -30,5 +30,5 @@ Role required: content\_admin or admin
     The page is added to the current application and to the current update set.
 
 
-**Parent Topic:**[Content pages in CMS](../concept/c_ContentPages.md)
+**Parent Topic:**[Content pages in CMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentPages.md)
 

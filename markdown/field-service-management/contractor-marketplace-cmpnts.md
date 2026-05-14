@@ -140,7 +140,7 @@ Function
 
 </th></tr></thead><tbody><tr><td>
 
-Marketplace tasksEnsure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](../task/activate-contractor-marketplace.md).
+Marketplace tasksEnsure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-contractor-marketplace.md).
 
 Demo data is provided with this plugin.
 
@@ -539,5 +539,5 @@ Field Service Marketplace adds the following script includes:
 |MarketplaceCoreConstants|Script Include to hold the constants for marketplace core plugin|
 |MarketplaceEntityValidatorPicker|Script include to choose the implementation of the MarketplaceEntityValidatorExtPoint|
 
-**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

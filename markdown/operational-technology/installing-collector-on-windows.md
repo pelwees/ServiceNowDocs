@@ -68,7 +68,7 @@ Role required: admin
 
     The ServiceNow OT Discovery Collector Installer window starts the installation.
 
-    ![OT Discovery Collector Installer window](../../ot-discovery-solution-install-deploy-guide/images/new-scout-installer-screen.png)
+    ![OT Discovery Collector Installer window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../ot-discovery-solution-install-deploy-guide/images/new-scout-installer-screen.png)
 
 16. Select the **View/accept EULA** button to accept the End User License Agreement \(EULA\).
 
@@ -88,7 +88,7 @@ Role required: admin
 
     When complete, the ServiceNow OT Discovery Collector Installer window displays `Installation Complete`.
 
-    ![Installation complete screen](../images/install-complete-collector.png)
+    ![Installation complete screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/install-complete-collector.png)
 
 21. Navigate to your local disk program files folder, so that you can see the `SNDiscoveryCollector` folder is present.
 

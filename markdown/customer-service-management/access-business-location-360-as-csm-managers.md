@@ -35,9 +35,9 @@ As a customer service manager \(sn\_customerservice\_manager\), you can view the
 **Related topics**  
 
 
-[Business Location 360 components](../concept/ui-components-under-business-location-360.md)
+[Business Location 360 components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/ui-components-under-business-location-360.md)
 
-[Access Business Location 360 as a customer service agent](access-business-location-360-as-agents.md)
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-agents.md)
 
-[Access Business Location 360 as a location service agent](access-bl-360-as-loc-serv-agent.md)
+[Access Business Location 360 as a location service agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/access-bl-360-as-loc-serv-agent.md)
 

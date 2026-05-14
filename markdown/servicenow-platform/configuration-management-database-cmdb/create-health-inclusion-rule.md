@@ -30,7 +30,7 @@ Evaluation for the required, orphan, recommended, duplicate and staleness health
 -   Applying a health inclusion rule to the duplicate metric, is supported only in the global domain.
 -   Due to performance issues, dot-walking in health inclusion rules for the duplicate metric is not supported.
 
-In addition to any health inclusion rules, [identification inclusion rules](create-id-inclusion-rule.md) also indirectly impact what appears in the CMDB Health Dashboard for duplicate CIs. The dashboard itself uses the identification engine \(IRE\) to identify duplicate CIs and therefore identification inclusion rules are applied.
+In addition to any health inclusion rules, [identification inclusion rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-id-inclusion-rule.md) also indirectly impact what appears in the CMDB Health Dashboard for duplicate CIs. The dashboard itself uses the identification engine \(IRE\) to identify duplicate CIs and therefore identification inclusion rules are applied.
 
 Inheritance of health inclusion rules:
 

@@ -27,7 +27,7 @@ Use the option to create a report source based on the conditions of an existing 
 
 For more tips on using report sources, see [How to save time with Report Sources](https://community.servicenow.com/community?id=community_article&sys_id=2aed2beddbd377404819fb243996193f).
 
-**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
 ## Create a report source
 
@@ -91,7 +91,7 @@ Filter
 
 Conditions for which table records to include in the report source. For example, to include open incidents, select **\[State\] \[is\] \[Active\]** for the Incident table.**Note:**
 
-Sorting on data fields is accessible from within reports for some report types. For information on how to access, search for the **Add Sort** field description in a [Report types](../reference/report-types-creation-details-rd.md) topic for the report type to sort the data on.
+Sorting on data fields is accessible from within reports for some report types. For information on how to access, search for the **Add Sort** field description in a [Report types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/report-types-creation-details-rd.md) topic for the report type to sort the data on.
 
 -   If the report source is used for a report that includes OR conditions, only records that match both the report and the report source conditions are included.
 -   If a report source specifies a [related list condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-related-list-query.md), a report that is based on the report source ignores any additional related list conditions specified from within the report.

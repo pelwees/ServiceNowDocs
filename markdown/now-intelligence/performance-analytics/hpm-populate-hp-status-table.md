@@ -29,7 +29,7 @@ The populate flow has a limit of 1000 sys\_portal\_pages per execution. You can 
 
 2.  Select the link labeled **Populate Homepage migration status table** to open the flow that populates the table.
 
-    ![Homepage deprecation dashboard with Populate homepage migration link outlined](../image/hpm-populate-hpm-status-link.png)
+    ![Homepage deprecation dashboard with Populate homepage migration link outlined](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hpm-populate-hpm-status-link.png)
 
 3.  In the Flow Designer, select the trigger to specify when you want the populate flow to run.
 
@@ -39,7 +39,7 @@ The populate flow has a limit of 1000 sys\_portal\_pages per execution. You can 
 
 5.  Select **Test** to run the flow.
 
-    ![Flow designer showing Homepage migration status table flow with the Test button outlined](../image/hpm-populate-fd.png)
+    ![Flow designer showing Homepage migration status table flow with the Test button outlined](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hpm-populate-fd.png)
 
 6.  Select **Run Test**.
 
@@ -48,5 +48,5 @@ The populate flow has a limit of 1000 sys\_portal\_pages per execution. You can 
 
 ## Result
 
-The Overview tab of the Homepage deprecation help tool is populated with the number of homepages not deprecated.![Homepage deprecation dashboard with four homepage single score reports showing nine not deprecated and zero converted, zero retired, zero restored](../image/hp-dep-overview1.png)
+The Overview tab of the Homepage deprecation help tool is populated with the number of homepages not deprecated.![Homepage deprecation dashboard with four homepage single score reports showing nine not deprecated and zero converted, zero retired, zero restored](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hp-dep-overview1.png)
 

@@ -25,43 +25,43 @@ Now Assist for HRSD integration with Enterprise Service Management Integrations 
 
 ## Set up
 
-Verify that the [configuration steps](../task/config-va-topics.md) are complete to use the Now Assist for HRSD Virtual Agent topics in Employee Center. For more details, see [Now Assist for HRSD Virtual Agent topics](now-assist-ohcm.md).
+Verify that the [configuration steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/config-va-topics.md) are complete to use the Now Assist for HRSD Virtual Agent topics in Employee Center. For more details, see [Now Assist for HRSD Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-ohcm.md).
 
--   **[Now Assist for HRSD Virtual Agent topics](now-assist-ohcm.md)**  
+-   **[Now Assist for HRSD Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-ohcm.md)**  
 Use the Now Assist Virtual Agent topics in Employee Center to place requests to the configured HCM system, for example, view details of your time-off balance.
 
-**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](use-now-assist-hr.md)
+**Parent Topic:**[Use Now Assist for HR Service Delivery \(HRSD\) in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/use-now-assist-hr.md)
 
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](../task/now-assist-hrsd-chat.md)
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/now-assist-hrsd-chat.md)
 
-[Summarize a Sidebar discussion by using Now Assist for HRSD](../task/sidebar-discussion-nahr.md)
+[Summarize a Sidebar discussion by using Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/sidebar-discussion-nahr.md)
 
-[Generate a chat reply recommendation by using Now Assist for HRSD](../task/chat-recommendations-nahr.md)
+[Generate a chat reply recommendation by using Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/chat-recommendations-nahr.md)
 
-[Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](../task/gen-kb-now-assisthr.md)
+[Generate a knowledge article from HR Agent Workspace with Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/gen-kb-now-assisthr.md)
 
-[Generate a knowledge article from multiple cases](../task/gen-kb-now-assisthr-multi-case.md)
+[Generate a knowledge article from multiple cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/gen-kb-now-assisthr-multi-case.md)
 
-[Generate an email reply recommendation using Now Assist for HRSD](../task/email-recommendation-nahr.md)
+[Generate an email reply recommendation using Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/email-recommendation-nahr.md)
 
-[Summarize an HR case using Now Assist for HRSD](../task/now-assist-hrsd-summarize-case.md)
+[Summarize an HR case using Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/now-assist-hrsd-summarize-case.md)
 
-[Generate resolution notes using Now Assist for HRSD](../task/now-assist-hrsd-res-note.md)
+[Generate resolution notes using Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/now-assist-hrsd-res-note.md)
 
-[View employee summary reports](../../td-leader-hub/task/employee-summary-lh.md)
+[View employee summary reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../td-leader-hub/task/employee-summary-lh.md)
 
-[Summarize actions while transferring an HR case](../task/tcase-now-assist-hr.md)
+[Summarize actions while transferring an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/tcase-now-assist-hr.md)
 
-[Use Knowledge Graph in Now Assist for HRSD](../task/na-kb-graph.md)
+[Use Knowledge Graph in Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/na-kb-graph.md)
 
-[Use Now Assist for HR - Galileo Inside to answer HR-related questions](../task/use-galileo-inside.md)
+[Use Now Assist for HR - Galileo Inside to answer HR-related questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/use-galileo-inside.md)
 
-[Use the Now Assist panel in HR Agent Workspace](../task/now-assist-panel-hr.md)
+[Use the Now Assist panel in HR Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/now-assist-panel-hr.md)
 
-[Submit an HR request with Gen AI Virtual Agent](../task/use-genai-hrsd.md)
+[Submit an HR request with Gen AI Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/use-genai-hrsd.md)
 
-[Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](../task/analyze-sentiments-now-assist.md)
+[Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/analyze-sentiments-now-assist.md)
 

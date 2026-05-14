@@ -95,7 +95,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select to only allow tokens to be used with APIs set to allow the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](../../../integrate/authentication/task/create-api-access-policy.md).Default: Unselected.
+Select to only allow tokens to be used with APIs set to allow the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../integrate/authentication/task/create-api-access-policy.md).Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Client Type
 Choose the client type, based on the type of your client. Options:-   **Iframe Embedded**
 -   **Integration as a User**
 -   **Integration as a Service**
-To know more, see [Configure client type for OAuth and SSO records](../../../integrate/authentication/concept/client-type.md).
+To know more, see [Configure client type for OAuth and SSO records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../integrate/authentication/concept/client-type.md).
 
 </td></tr></tbody>
 </table>3.  Click **Submit**.
@@ -154,5 +154,5 @@ To know more, see [Configure client type for OAuth and SSO records](../../../int
 
 ## Result
 
-The system creates a record in the Application Registries \[oauth\_entity\] table with of type OAuth Client. When the instance actually issues tokens and authorization codes, they are stored in the table. See [Manage OAuth tokens](t_ManageTokens.md) for more information.
+The system creates a record in the Application Registries \[oauth\_entity\] table with of type OAuth Client. When the instance actually issues tokens and authorization codes, they are stored in the table. See [Manage OAuth tokens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ManageTokens.md) for more information.
 

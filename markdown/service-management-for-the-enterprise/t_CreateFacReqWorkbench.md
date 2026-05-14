@@ -23,14 +23,14 @@ Role required: none
 
     |Choice|Action|
     |------|------|
-    |**To search for a space location**|[Find a space on the floor plan.](t_FindASpaceOrUser.md)|
+    |**To search for a space location**|[Find a space on the floor plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_FindASpaceOrUser.md)|
     |**If you know the space location**|Click the space on the floor plan.|
 
 2.  On the Spaces tab, under the room information details and **Related Links** section, click **Create Facilities Request**.
 
     **Note:** You can also right-click the space link and select **Create Facilities Request**.
 
-    ![Create a facilities request like trash removal.](../image/CreateFacReq.png)
+    ![Create a facilities request like trash removal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CreateFacReq.png)
 
     |Field|Description|
     |-----|-----------|
@@ -43,5 +43,5 @@ Role required: none
 3.  Click **Submit** and the **Floor Plan** form displays.
 
 
-**Parent Topic:**[Facilities Floor Plan](../concept/c_FacilitiesFloorPlan.md)
+**Parent Topic:**[Facilities Floor Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_FacilitiesFloorPlan.md)
 

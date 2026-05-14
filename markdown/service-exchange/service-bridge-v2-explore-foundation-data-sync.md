@@ -70,11 +70,11 @@ ABC company also needs visibility into XYZ to understand the consumption pattern
 **Related topics**  
 
 
-[Configuring outbound foundation data sync as providers](service-bridge-v2-using-foundation-data-sync.md)
+[Configuring outbound foundation data sync as providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync.md)
 
-[Configuring inbound foundation data sync as providers](service-bridge-v2-configure-inboun-fds-providers.md)
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-[Configuring inbound foundation data sync as a consumer](service-bridge-v2-using-foundation-data-sync-for-consumer.md)
+[Configuring inbound foundation data sync as a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync-for-consumer.md)
 
-[Configuring outbound foundation data sync as consumers](using-provider-bound-fds-consumer.md)
+[Configuring outbound foundation data sync as consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 

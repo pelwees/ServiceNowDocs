@@ -77,5 +77,5 @@ Information about the document template block.
 
 ## What to do next
 
-[Add block content in a document template block](create-doc-template-block-content.md).
+[Add block content in a document template block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-doc-template-block-content.md).
 

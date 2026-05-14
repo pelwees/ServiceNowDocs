@@ -17,9 +17,9 @@ Digital End-User Experience \(DEX\) Alerts provide details on the active alerts,
 
 On the Service Operations Workspace home page, Active alerts, Impacted devices, and Active devices are displayed. The Active alerts section displays the number of active alerts as of that selected time. Select the Active alerts section to view all the active alerts list.
 
-![Active alerts list](../image/active-alerts-list.png)
+![Active alerts list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/active-alerts-list.png)
 
-By selecting a specific alert, you can find the details of the alert in different tabs that are listed in the table. ![Active alert overview window](../image/active-alerts.png)
+By selecting a specific alert, you can find the details of the alert in different tabs that are listed in the table. ![Active alert overview window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/active-alerts.png)
 
 |Tab name|Description|
 |--------|-----------|
@@ -40,13 +40,13 @@ View alerts for both your device and its applications in the Alerts section of t
 -   It displays any impacted services caused due to the alert.
 -   The cause section displays the probable root cause and also shows the number of alerts created due to this cause.
 
-![Overview tab](../image/alert-overviewtab.png)
+![Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/alert-overviewtab.png)
 
 ## The Details tab
 
 Access the Details tab to learn more about the history of the alert, metric name, and other metrics.
 
-![Details tab](../image/alert-detailstab.png)
+![Details tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/alert-detailstab.png)
 
 ## Related records tab
 
@@ -54,7 +54,7 @@ Access the Details tab to learn more about the history of the alert, metric name
 -   To access the related lists information displayed on the impacted devices and impacted users tabs, install the latest version \(26.3.1\) of the Service Operations Workspace alert management plugin `(sn_sow_em)` store plugin.
 -   You can view the history of the bulk remedial action from the related records. All the remedial actions executed and their respective states are displayed.
 
-![Related records tab](../image/alert-relatedrectab.png)
+![Related records tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/alert-relatedrectab.png)
 
 ## Remediate issue on devices
 
@@ -63,5 +63,5 @@ Access the Details tab to learn more about the history of the alert, metric name
 -   Based on the device selected. If one device is selected, remedial actions applicable for a single device are displayed. If multiple devices are selected, it displays all the available remedial actions for bulk remediation.
 -   Enables you to execute a remedial action for a single device or multiple devices. To view the history of remedial action execution, access the related records tab \(remedial action history\).
 
-![Remediate issue on devices tab](../image/alert-ritab.png)
+![Remediate issue on devices tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/alert-ritab.png)
 

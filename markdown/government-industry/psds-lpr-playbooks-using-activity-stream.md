@@ -17,7 +17,7 @@ You can access the activity stream in the contextual side panel in CSM Configura
 
 You can use an activity stream to communicate with requesters and track information on a record. The activity stream updates when the current activity in the playbook is updated.
 
-You can access the activity stream by selecting the activity stream icon \(![Activity stream icon.](../image/contextual-side-panel-activity-stream.png)\) in the contextual side panel.
+You can access the activity stream by selecting the activity stream icon \(![Activity stream icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/contextual-side-panel-activity-stream.png)\) in the contextual side panel.
 
 ## Agent tasks in the activity stream
 
@@ -63,14 +63,14 @@ Filter or search posts
 
 </td><td>
 
-At the top of the Activity section, select the filter icon \(![Open filters icon.](../image/contextual-side-panel-filter-posts.png)\) to display the filter selections:
+At the top of the Activity section, select the filter icon \(![Open filters icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/contextual-side-panel-filter-posts.png)\) to display the filter selections:
 
 -   **Post types:** Select the types of posts to view, such as the work notes or attachments.
 -   **Field changes:** Select the fields that you want to view the posts for in only those fields.
 -   **Flagged:** Enable this button to view the posts that have been flagged as important.
 -   **Filter sets**: Select two or more filters in this list.
 
- Search all activity posts by selecting the search icon \(![Search bar icon.](../image/activity-stream-search-icon-psds.png)\).
+ Search all activity posts by selecting the search icon \(![Search bar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/activity-stream-search-icon-psds.png)\).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Sort posts
 
 </td><td>
 
-Sort the posts by the newest to the oldest or the oldest to the newest posts by selecting the sort icon \(![Sort icon.](../image/contextual-side-panel-sort-posts.png)\)
+Sort the posts by the newest to the oldest or the oldest to the newest posts by selecting the sort icon \(![Sort icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/contextual-side-panel-sort-posts.png)\)
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Expand and collapse posts
 
 </td><td>
 
-Expand and collapse posts by selecting the more options icon \(![More options icon.](../image/contextual-side-panel-more-options.png)\):-   **Expand all posts**: Expands the posts to view additional details.
+Expand and collapse posts by selecting the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/contextual-side-panel-more-options.png)\):-   **Expand all posts**: Expands the posts to view additional details.
 -   **Collapse all posts**: Returns the posts to their previous state.
 
 </td></tr></tbody>

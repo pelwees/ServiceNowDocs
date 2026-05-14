@@ -24,7 +24,7 @@ Role required: sn\_align\_core.apw\_user
 **Note:**
 
 -   You can edit dashboards that you own or those you’ve been granted permission to edit.
--   Only an administrator can edit the out-of-the-box dashboards, including the Product Idea Dashboard, Feedback Dashboard, Strategy Execution Dashboard, and Execution Dashboard. However, you can [duplicate an out-of-the-box dashboard](copy-dashboard-spw.md) and customize it as needed.
+-   Only an administrator can edit the out-of-the-box dashboards, including the Product Idea Dashboard, Feedback Dashboard, Strategy Execution Dashboard, and Execution Dashboard. However, you can [duplicate an out-of-the-box dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/copy-dashboard-spw.md) and customize it as needed.
 
 You can use the following elements to create or edit your dashboard.
 
@@ -38,7 +38,7 @@ You can use the following elements to create or edit your dashboard.
 |Process Mining - Map|Maps the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.|
 |Rich text|Holds text that you can format either as text or as html, including font selection, text size, highlighting, and hyperlinks. To edit HTML markup, open the HTML editor from the Configuration panel and select the Code tags &lt; &gt; icon.|
 
-![dashboard elements in strategic planning.](../Images/dashboard-elements-spw.png)
+![dashboard elements in strategic planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/dashboard-elements-spw.png)
 
 ## Procedure
 
@@ -48,7 +48,7 @@ You can use the following elements to create or edit your dashboard.
 
 2.  From the Change dashboard drop-down, select the dashboard you want to edit.
 
-    ![select a dashboard in strategic planning.](../Images/change-dashboard-drop-down.png)
+    ![select a dashboard in strategic planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/change-dashboard-drop-down.png)
 
     The selected dashboard appears.
 
@@ -118,13 +118,13 @@ The dashboard is updated with the latest changes.
 **Related topics**  
 
 
-[View a dashboard](view-dashboard-spw.md)
+[View a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/view-dashboard-spw.md)
 
-[Create a dashboard](create-dashboard-spw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-dashboard-spw.md)
 
-[Duplicate a dashboard](copy-dashboard-spw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/copy-dashboard-spw.md)
 
-[Share a dashboard](share-dashboard-spw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/share-dashboard-spw.md)
 
-[Add a Platform Analytics dashboard](add-platform-dashboard-to-spw.md)
+[Add a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 

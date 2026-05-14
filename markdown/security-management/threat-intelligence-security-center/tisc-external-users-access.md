@@ -23,5 +23,5 @@ Case tasks are assigned to the users with the external role even though they do 
 2.  The external user can only view the case tasks assigned to that specific user or the group\(s\) the user belongs to.
 3.  The external user should be able to reassign the task within the group the user belongs to.
 
-**Parent Topic:**[Enforced Restrictions for case\(s\)](tisc-enforced-restrictions.md)
+**Parent Topic:**[Enforced Restrictions for case\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enforced-restrictions.md)
 

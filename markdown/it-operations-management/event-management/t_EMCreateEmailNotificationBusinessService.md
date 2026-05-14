@@ -74,8 +74,8 @@ Configure an email notification to notify users when there is an application ser
 6.  Click **Submit**.
 
 
--   **[Configure contextual colors and icons](configure-contextual-colors-icons.md)**  
+-   **[Configure contextual colors and icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-contextual-colors-icons.md)**  
 Use the **Contextual colors and icons** form to configure color, text, and icons to have different default or custom contexts, identified by a context ID.
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/application-service-event-management.md)
 

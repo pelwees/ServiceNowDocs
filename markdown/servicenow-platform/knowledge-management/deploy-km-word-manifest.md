@@ -39,7 +39,7 @@ Role required: admin, sn\_outlook\_addin.outlook\_addin\_setup
 **Related topics**  
 
 
-[Import a Word document to a knowledge base](import-word-platform.md)
+[Import a Word document to a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/import-word-platform.md)
 
-[Import a Word document to a knowledge base using Knowledge Management v3](t_ImportADocument.md)
+[Import a Word document to a knowledge base using Knowledge Management v3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)
 

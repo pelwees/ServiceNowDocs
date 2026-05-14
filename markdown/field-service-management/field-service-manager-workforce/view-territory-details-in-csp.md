@@ -21,7 +21,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.fsm\_territory\_
 
 ## About this task
 
-The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [Configure territory fields to appear in Territory Planning console](configure-fields-to-appear-in-contextual-side-panel.md).
+The contextual side panel provides comprehensive details about territories, markers, shapes, and heatmaps. Administrators can configure the displayed fields to show precisely the information needed. For more information, see [Configure territory fields to appear in Territory Planning console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/configure-fields-to-appear-in-contextual-side-panel.md).
 
 In the contextual side panel:
 
@@ -54,7 +54,7 @@ Do the following
 </td><td>
 
 -   Select the map marker on the map. The contextual side panel in the map provides detailed information about the selected map marker.
--   You can customize the display using the Settings icon \(![Settings icon](../image/IconPersonalizeList.png)\).
+-   You can customize the display using the Settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/IconPersonalizeList.png)\).
 
 
 </td></tr><tr><td id="d150592e156">
@@ -64,7 +64,7 @@ Do the following
 </td><td>
 
 -   Select a territory card from the territories panel, then select its geographical area. The contextual side panel displays information about the selected territory and its KPIs.
--   You can customize the display using the Settings icon \(![Settings icon](../image/IconPersonalizeList.png)\).
+-   You can customize the display using the Settings icon \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/IconPersonalizeList.png)\).
 -   Additionally, access related data by selecting the **Related** tab in the contextual side panel.
 
 
@@ -72,5 +72,5 @@ Do the following
 </table>
 ## Result
 
-The following snapshot illustrates how you can view relevant territory information and its KPIs in the contextual side panel, helping you to efficiently manage your territories and resources. ![Snapshot displaying the San Diego territory details and Key Performance Indicators in the contextual side panel.](../image/territory-planning-csp.jpg)
+The following snapshot illustrates how you can view relevant territory information and its KPIs in the contextual side panel, helping you to efficiently manage your territories and resources. ![Snapshot displaying the San Diego territory details and Key Performance Indicators in the contextual side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/territory-planning-csp.jpg)
 

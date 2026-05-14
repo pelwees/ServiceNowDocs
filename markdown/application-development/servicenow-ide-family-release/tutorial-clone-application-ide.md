@@ -17,7 +17,7 @@ Clone the application from the remote repository to develop it on another instan
 
 ## Before you begin
 
-Complete [Tutorial part 4: Install and use a third-party library](tutorial-install-third-party-library-ide.md).
+Complete [Tutorial part 4: Install and use a third-party library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/tutorial-install-third-party-library-ide.md).
 
 Role required: admin
 
@@ -27,27 +27,27 @@ If you have access to another instance, you can install the application from the
 
 **Note:** The instance and your user on the instance must meet the same requirements mentioned at the beginning of this tutorial.
 
-Cloning is intended for developing an application on multiple non-production instances and managing it in a single repository. To publish an application and deploy it to a production instance, use the Application Repository. For more information, see [ServiceNow application repository](../../applications/concept/app-repo.md).
+Cloning is intended for developing an application on multiple non-production instances and managing it in a single repository. To publish an application and deploy it to a production instance, use the Application Repository. For more information, see [ServiceNow application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../../applications/concept/app-repo.md).
 
 ## Procedure
 
 1.  Push your changes to the remote repository.
 
-    1.  From the Activity Bar, select the Source Control view \(![Source Control](../image/servicenow-ide-source-control-icon.png)\).
+    1.  From the Activity Bar, select the Source Control view \(![Source Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-source-control-icon.png)\).
 
-    2.  From the Changes list, select the Stage All Tracked Changes icon \(![Stage all untracked changes](../image/servicenow-ide-stage-icon.png)\).
+    2.  From the Changes list, select the Stage All Tracked Changes icon \(![Stage all untracked changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-stage-icon.png)\).
 
-    3.  From the Untracked Changes list, select the Stage All Untracked Changes icon \(![Stage all untracked changes](../image/servicenow-ide-stage-icon.png)\).
+    3.  From the Untracked Changes list, select the Stage All Untracked Changes icon \(![Stage all untracked changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-stage-icon.png)\).
 
         All of your changes should be in the Staged Changes list.
 
     4.  In the message box, enter a commit message.
 
-    5.  Select the Commit icon \(![Stage all untracked changes](../image/servicenow-ide-commit-icon.png)\).
+    5.  Select the Commit icon \(![Stage all untracked changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-commit-icon.png)\).
 
-    6.  Select the More actions menu icon \(![More actions](../image/servicenow-ide-more-actions-icon.png)\) and select **Push**.
+    6.  Select the More actions menu icon \(![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-more-actions-icon.png)\) and select **Push**.
 
-        ![Push the staged changes to the remote repository.](../image/servicenow-ide-push-changes.png)
+        ![Push the staged changes to the remote repository.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-push-changes.png)
 
     All of your changes are available in the remote repository. You or other developers can clone the application onto another instance.
 
@@ -92,11 +92,11 @@ Cloning is intended for developing an application on multiple non-production ins
 
 The application is added to the instance with the files from the remote repository.
 
-![The Hello World application files cloned from the remote repository.](../image/servicenow-ide-cloned-app.png)
+![The Hello World application files cloned from the remote repository.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-cloned-app.png)
 
 ## What to do next
 
-Continue to [Tutorial part 6: Learn more about the ServiceNow IDE](../reference/tutorial-next-steps-ide.md).
+Continue to [Tutorial part 6: Learn more about the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../reference/tutorial-next-steps-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/getting-started-create-application-ide.md)
 

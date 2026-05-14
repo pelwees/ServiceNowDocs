@@ -105,5 +105,5 @@ Defaults to **-- None --** and can't be changed.
 
 Define a transform map for the new data source and run an import.
 
-**Parent Topic:**[Create a data source](../concept/c_CreateNewDataSource.md)
+**Parent Topic:**[Create a data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_CreateNewDataSource.md)
 

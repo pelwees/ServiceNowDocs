@@ -20,7 +20,7 @@ Customize how license expiration dates for Fortinet devices are stored on CIs by
 
 Role required: tsom\_visibility\_admin
 
-Service Graph Connector for Fortinet is installed. For instructions, see [Configure a Fortinet SD-WAN Service Graph Connector](../concept/configure-fortinet-service-graph-connector.md).
+Service Graph Connector for Fortinet is installed. For instructions, see [Configure a Fortinet SD-WAN Service Graph Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/configure-fortinet-service-graph-connector.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ By default, Fortinet SGC stores license expiration dates as separate CI attribut
 
 2.  Search for Fortinet in the **Extension Points** search box.
 
-3.  Select **sn\_gnc\_fortinet.FortinetCustomizedContractParsing** from the **API Name** search results list.![Scripted Extension Points page showing FortinetCustomizedContractParsing in the API Name list](../images/fortinet-extension-points.png)
+3.  Select **sn\_gnc\_fortinet.FortinetCustomizedContractParsing** from the **API Name** search results list.![Scripted Extension Points page showing FortinetCustomizedContractParsing in the API Name list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/fortinet-extension-points.png)
 
 4.  Select **Create implementation**, which is located under **Related Links**.
 
@@ -40,7 +40,7 @@ By default, Fortinet SGC stores license expiration dates as separate CI attribut
 
     The input is the contract items returned by the FortiManager API, which contains the license data for all devices. Your implementation should return the attributes you want to store on the CI.
 
-    ![Contract items parsing implementation interface](../images/contract-items-parsing.png)
+    ![Contract items parsing implementation interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/contract-items-parsing.png)
 
 6.  Set the **Order** field to a value less than `100`.
 

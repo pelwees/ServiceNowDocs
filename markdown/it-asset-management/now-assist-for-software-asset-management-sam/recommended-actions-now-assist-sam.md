@@ -44,7 +44,7 @@ When you run reconciliation with grouping, product summarization and recommended
     -   Configuration
     -   Maintenance
     -   Optimization
-    ![List of recommended actions for a product](../image/now-assist-sam-recommended-actions.png)
+    ![List of recommended actions for a product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-sam-recommended-actions.png)
 
     The compiled results can differ from product to product based on the current compliance level of a product.
 
@@ -92,5 +92,5 @@ If you found that the recommended actions was helpful, select the helpful icon. 
     Once you have dismissed all the actions, a message appears mentioning that all recommendations have been dismissed.
 
 
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../concept/using-now-assist-sam.md)
 

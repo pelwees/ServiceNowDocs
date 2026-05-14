@@ -109,7 +109,7 @@ Routing policies in the OneDrive Webhook Routing Policy module triggers the subf
 
 4.  Customize the subflow according to your requirement and publish it.
 
-    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [OneDrive spoke v1.6](../concept/onedrive-spoke.md) for information about the supported subflows.
+    See [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md) for more information about creating and using subflows, and [OneDrive spoke v1.6](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/onedrive-spoke.md) for information about the supported subflows.
 
 5.  Navigate to **Microsoft OneDrive Spoke** &gt; **OneDrive Webhook Routing Policy**.
 
@@ -139,7 +139,7 @@ Default answer
 
 </td><td>
 
-Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](../image/lookup-icon.png)\).
+Option to specify if this is the default answer. The default answer is applicable when the conditions are not met.1.  Click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/lookup-icon.png)\).
 2.  Select the required subflow from the Document list.
 
 **Note:** Ensure that the Table name is `Flow [sys_hub_flow]`.

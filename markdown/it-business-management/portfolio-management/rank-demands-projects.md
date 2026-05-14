@@ -208,5 +208,5 @@ If initial rank &lt; edited rank and there is a gap in rank sequence, then after
 -   Task\_4: 6
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create planning scenarios](create-scenarios.md)
+</table>**Parent Topic:**[Create planning scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)
 

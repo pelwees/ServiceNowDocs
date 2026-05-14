@@ -31,10 +31,10 @@ An **Activity Category** helps to identify what an activity is intended to do.
 
 3.  Complete the **Activity Categories** form.
 
-    Read details about the different fields in [Talent Activity Category reference](../reference/egd-activity-category-form.md).
+    Read details about the different fields in [Talent Activity Category reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/egd-activity-category-form.md).
 
 4.  Select **Submit**
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-administration.md)
 

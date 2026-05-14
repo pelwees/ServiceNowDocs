@@ -21,7 +21,7 @@ Role required: admin
 
 Lists are displayed in the Customer Information view in Agent Workspace.
 
-![Recent cases section displaying a list of recent cases and their details.](../image/customer-lists.jpg)
+![Recent cases section displaying a list of recent cases and their details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-lists.jpg)
 
 ## Procedure
 

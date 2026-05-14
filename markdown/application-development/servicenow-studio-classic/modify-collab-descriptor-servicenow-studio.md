@@ -29,7 +29,7 @@ Role required: admin or delegated\_developer
 
 3.  Access collaboration settings by selecting the more options icon ![](../image/sn-studio-more-options-icon.png) and selecting **Invite**.
 
-    ![Invite collaborators to work on your app using the more options menu on the app details page.](../image/sn-studio-collab-select-zs2.png)
+    ![Invite collaborators to work on your app using the more options menu on the app details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-collab-select-zs2.png)
 
 4.  Choose the new permission level for the user or group in the Collaborators section of the modal.
 
@@ -37,13 +37,13 @@ Role required: admin or delegated\_developer
 
     1.  Select **Customize permissions** for the user or group in the Collaborators section.
 
-        ![Option to customize collaboration permissions](../../creator-studio/image/cs-collab-custom-1.png "Customize collaboration permissions")
+        ![Option to customize collaboration permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../creator-studio/image/cs-collab-custom-1.png "Customize collaboration permissions")
 
     2.  Choose the permissions you want the group or user to have.
 
-        For more information on permissions and descriptions, see [Collaboration permissions for ServiceNow Studio](../reference/servicenow-studio-collab-permissions.md).
+        For more information on permissions and descriptions, see [Collaboration permissions for ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../reference/servicenow-studio-collab-permissions.md).
 
-        ![Select custom collaboration permissions](../../creator-studio/image/cs-collab-custom-2.png "Customize collaboration permissions")
+        ![Select custom collaboration permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../creator-studio/image/cs-collab-custom-2.png "Customize collaboration permissions")
 
     3.  Select **Save**.
 
@@ -54,7 +54,7 @@ Your changes are automatically saved when you close the Collaborate with others 
 
 ## What to do next
 
-Your App Engine admin must then approve the changes to collaborators. For more information, admins should see [Approve a collaboration request](../../creator-studio/task/approve-collaboration-request.md).
+Your App Engine admin must then approve the changes to collaborators. For more information, admins should see [Approve a collaboration request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../creator-studio/task/approve-collaboration-request.md).
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/manage-app-collab-servicenow-studio.md)
 

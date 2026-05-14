@@ -51,28 +51,28 @@ Access to Shopping Hub is controlled by the following predefined roles.
 |`sn_shop.shopper`|Can browse catalogs, manage carts, check out, track purchases, and complete workflow tasks.|
 |`sn_shop.shopping_hub_admin`|Can configure and manage Shopping Hub settings.|
 
-**Parent Topic:**[Explore Sourcing and Procurement Operations](exploring-spo.md)
+**Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
 **Related topics**  
 
 
-[My purchases on Shopping Hub](my-purchases.md)
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-purchases.md)
 
-[Shopping Hub Mobile](shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-mobile.md)
 
-[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
+[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 
-[Procurement Case Management](psd-overview.md)
+[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-[Source-to-Pay Workspace](procurement-specialist-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-specialist-workspace.md)
 
-[Spend and Savings Management](spo-spend-mgmt.md)
+[Spend and Savings Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
+[Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-[Understanding Punchout](punchout-overview.md)
+[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-[AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
+[AI Search for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ai-search-sourcing-procurement-operations.md)
 

@@ -35,7 +35,7 @@ The following example shows how an AI agent instruction can reference stored par
 
 Ensure that you use the exact names of the Parameter records. Parameter record names are case sensitive. For example, "UserName" and "username" are treated as different values.
 
-**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](ad-defined-path-da.md)
+**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ad-defined-path-da.md)
 
 ## Create Parameter records for SSH credentials
 

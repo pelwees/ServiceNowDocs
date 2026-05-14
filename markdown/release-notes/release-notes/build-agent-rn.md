@@ -122,7 +122,7 @@ See [Build Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/au
 
 Build Agent is a ServiceNow AI Platform feature that is active by default.
 
-**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [Now Assist for Creator release notes](now-assist-for-creator-rn.md).
+**Note:** Build Agent is dependent on Now Assist for Creator. For more information, see [Now Assist for Creator release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-assist-for-creator-rn.md).
 
 ## Related ServiceNow applications and features
 
@@ -143,5 +143,5 @@ Build Agent is a ServiceNow AI Platform feature that is active by default.
     Use vibe coding and ServiceNow agentic-assisted app building tools to describe your goals in natural language, and have the ServiceNow AI Platform generate full-stack applications, workflows, and integrations.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

@@ -38,7 +38,7 @@ Up to three levels of cascaded records are deleted when the job is executed. For
 
 ## What to do next
 
-[Schedule or execute a job to delete records](schedule-execute-job-delete-records.md)
+[Schedule or execute a job to delete records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/schedule-execute-job-delete-records.md)
 
-**Parent Topic:**[Deleting records safely in Core UI](../concept/deleting-records-safely.md)
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/deleting-records-safely.md)
 

@@ -19,7 +19,7 @@ Select an activity or connection on a route to display the metrics box. You can 
 
 **Note:** The **Show Records** link displays for a maximum of 100,000 records returned for an activity or connection. An administrator can add and the promin.show\_records.limit system property to change this limit. The sn\_process\_mining\_analyst role must have read access to the promin.show\_records.limit system property.​ For instructions on adding properties, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-![View records for an activity or connection](../image/view-records-node-arc.png)
+![View records for an activity or connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/view-records-node-arc.png)
 
-**Parent Topic:**[Viewing metrics and activity transitions](view-metrics.md)
+**Parent Topic:**[Viewing metrics and activity transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-metrics.md)
 

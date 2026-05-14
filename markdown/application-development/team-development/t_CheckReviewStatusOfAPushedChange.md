@@ -21,7 +21,7 @@ Role required: none.
 
 ## About this task
 
-If you configure the parent instance to send [notifications](../concept/c_CodeReviewNotifications.md), it sends the submitting developer a notification when the pushed changes are approved or rejected. Developers can also manually check the status of their pushed changes from the Pushes and Pulls module on the submitting instance.
+If you configure the parent instance to send [notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/c_CodeReviewNotifications.md), it sends the submitting developer a notification when the pushed changes are approved or rejected. Developers can also manually check the status of their pushed changes from the Pushes and Pulls module on the submitting instance.
 
 ## Procedure
 
@@ -41,6 +41,6 @@ If you configure the parent instance to send [notifications](../concept/c_CodeRe
     -   Who submitted a review decision.
     -   What the decision was: either approved or rejected
     -   What comments if any the reviewer provided.
-    ![Code review status](../image/CodeReviewStatus.png)
+    ![Code review status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/CodeReviewStatus.png)
 
 

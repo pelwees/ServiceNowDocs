@@ -47,5 +47,5 @@ The following data is collected in the GlassFish War \[cmdb\_ci\_appl\_glassfish
 |Name|name|
 |Class|class|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Software.md)
 

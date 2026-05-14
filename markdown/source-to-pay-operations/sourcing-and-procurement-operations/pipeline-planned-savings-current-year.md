@@ -90,5 +90,5 @@ The final aggregation sums the prorated values:
 |PIPE-202|$500,000.00|
 |**Total Planned Savings \(Current Year\)**|**$680,000.00**|
 
-**Parent Topic:**[Pipeline management tab](pipeline-mgmt-tab.md)
+**Parent Topic:**[Pipeline management tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pipeline-mgmt-tab.md)
 

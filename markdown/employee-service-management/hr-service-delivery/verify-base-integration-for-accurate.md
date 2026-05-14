@@ -71,9 +71,9 @@ Role required: sn\_hr\_integrations.admin
         |HR Integrations Background Check Staging \[sn\_hr\_integrations\_background\_check\_staging\]|HR Talent Management Case \[sn\_hr\_core\_case\_talent\_management\]|
 
 
-**Parent Topic:**[Integrating with the Accurate Background service](../concept/integrate-with-accurate-service.md)
+**Parent Topic:**[Integrating with the Accurate Background service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/integrate-with-accurate-service.md)
 
-**Previous topic:**[Provide source credentials for the Accurate service](hr-integrations-sources-accurate.md)
+**Previous topic:**[Provide source credentials for the Accurate service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-sources-accurate.md)
 
-**Next topic:**[Add background check packages for the Accurate service](background-check-package-for-accurate.md)
+**Next topic:**[Add background check packages for the Accurate service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/background-check-package-for-accurate.md)
 

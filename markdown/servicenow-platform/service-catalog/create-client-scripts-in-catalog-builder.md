@@ -41,10 +41,10 @@ Role required: admin and catalog\_builder\_developer
 
 10. Select **Add script**.
 
-    For more information about the fields in the Actions and Settings tabs, see [Catalog client script form](client-script-form.md).
+    For more information about the fields in the Actions and Settings tabs, see [Catalog client script form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/client-script-form.md).
 
 
-**Parent Topic:**[Edit a catalog item in Catalog Builder](edit-cat-item-cat-builder.md)
+**Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 
 **Related topics**  
 

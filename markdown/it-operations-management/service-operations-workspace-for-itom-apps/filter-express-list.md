@@ -19,15 +19,15 @@ The fields in the interactive Filters pane in Express List help you create diffe
 
 You can interactively view the result of adding or removing any of the fields. The numbers next to each attribute indicate the number of alerts that are returned.
 
-![Sample result of filtering choices on the alerts list.](../image/el-interactive.png)
+![Sample result of filtering choices on the alerts list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-interactive.png)
 
 Alternatively, you can turn on the **Use advanced filters** option to set complex filters using a condition builder. The and/or logic provides more flexibility in filtering the alerts.
 
 In the Filters pane, you can perform the following actions:
 
--   Filter by string, number, or date attributes. For more information, see [Filter the Express List display using attributes](../task/filter-attributes.md).
--   Add filters to or remove filters from the default filter list to focus on the applied filters. The most common filters are State, Priority, CI, and Impacted services. For more information, see [Filter the Express List display by adding or removing fields](../task/filter-express-list-fields.md)
--   Add or remove alert tags. Tags enable you to identify and group alerts easily without the need for discovery or accessing the CMDB. For more information, see [Categorize alerts displayed in Express List](../task/add-remove-tags-filter.md)
--   Display or hide alerts that match a selected alert. For more information, see [Filter out or show matching alerts](../task/filter-right-click-option.md).
--   Save, delete, assign as the default, or share the filter layout. For more information, see [Save a custom filter in Express List](../task/filter-saving-deleting-default.md).
+-   Filter by string, number, or date attributes. For more information, see [Filter the Express List display using attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/filter-attributes.md).
+-   Add filters to or remove filters from the default filter list to focus on the applied filters. The most common filters are State, Priority, CI, and Impacted services. For more information, see [Filter the Express List display by adding or removing fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/filter-express-list-fields.md)
+-   Add or remove alert tags. Tags enable you to identify and group alerts easily without the need for discovery or accessing the CMDB. For more information, see [Categorize alerts displayed in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/add-remove-tags-filter.md)
+-   Display or hide alerts that match a selected alert. For more information, see [Filter out or show matching alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/filter-right-click-option.md).
+-   Save, delete, assign as the default, or share the filter layout. For more information, see [Save a custom filter in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/filter-saving-deleting-default.md).
 

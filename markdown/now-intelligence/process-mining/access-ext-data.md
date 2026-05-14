@@ -30,5 +30,5 @@ Role required: admin
 3.  Select **Install**.
 
 
-**Parent Topic:**[Activating Process Mining](activating-process-mining.md)
+**Parent Topic:**[Activating Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activating-process-mining.md)
 

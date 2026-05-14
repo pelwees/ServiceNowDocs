@@ -32,5 +32,5 @@ Role required: sn\_esg.program\_manager
     A graph has been generated showing the data for each analysis record that you selected.
 
 
-**Parent Topic:**[Set up analysis contexts and analyses](../concept/set-up-scenarios.md)
+**Parent Topic:**[Set up analysis contexts and analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/set-up-scenarios.md)
 

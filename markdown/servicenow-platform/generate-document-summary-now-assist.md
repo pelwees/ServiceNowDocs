@@ -15,7 +15,7 @@ Generate a document summary to get quick insights into key information from docu
 
 ## Before you begin
 
-Configure the Smart documents skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](configure-skill-smart-documents.md).
+Configure the Smart documents skill. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-skill-smart-documents.md).
 
 Role required: sn\_nowassist\_admin.nsa\_admin
 
@@ -35,7 +35,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     This gives the option to generate document summary with extract key insights.
 
-5.  Copy the summary by selecting the copy icon ![copy icon.](../image/icon-copy.png).
+5.  Copy the summary by selecting the copy icon ![copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/icon-copy.png).
 
     The summary is copied and can easily be shared across emails, reports, or collaboration tools.
 

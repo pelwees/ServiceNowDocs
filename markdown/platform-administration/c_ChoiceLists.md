@@ -15,7 +15,7 @@ A choice list is a type of field that lets the user select from a pre-defined se
 
 Administrators can define the available choices and customize the behavior and appearance of choice lists.
 
-![Choice list with New selected](../image/IncidentStateChoiceList.png "Incident state choice list")
+![Choice list with New selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IncidentStateChoiceList.png "Incident state choice list")
 
 **Note:** Choice lists do not support a one to many relationship. Only one choice from a choice list can be selected at a time.
 

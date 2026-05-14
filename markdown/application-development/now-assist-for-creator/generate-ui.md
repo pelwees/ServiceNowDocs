@@ -17,7 +17,7 @@ Use Now Assist in UI Builder to generate a multi-page experience from a natural 
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](install-ui-generation.md) and [Grant UI Builder admin role](grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/install-ui-generation.md) and [Grant UI Builder admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/grant-ui-builder-admin-role.md).
 
 Role required: ui\_builder\_admin
 
@@ -29,7 +29,7 @@ You can access the experience generation feature from the UI Builder homepage. Y
 
 1.  In the application navigator, navigate to **All** &gt; **Now Experience Framework** &gt; **UI Builder**.
 
-    ![UI Builder Home page.](../image/ui-generation-landing.png "UI Builder Home page")
+    ![UI Builder Home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../image/ui-generation-landing.png "UI Builder Home page")
 
 2.  Select **Create** in the upper-right corner of the page.
 
@@ -41,7 +41,7 @@ You can access the experience generation feature from the UI Builder homepage. Y
 
     The Experience Generation interface opens. The interface is split into two panels: a left panel containing the **Now Assist directions** input field, and a right panel that displays guidance on what information to provide.
 
-    ![Create an experience form.](../image/ui-generation-create.png "Create an experience form")
+    ![Create an experience form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../image/ui-generation-create.png "Create an experience form")
 
 5.  In the **Now Assist directions** field, type a description of the experience you want to create.
 
@@ -72,14 +72,14 @@ You can access the experience generation feature from the UI Builder homepage. Y
 
 The experience preview appears in the right panel. It displays the proposed experience name, navigation type, page structure, chart parameters, and a live data sample from the identified ServiceNow table. The **Regenerate preview** and **Save and edit experience** buttons are set to active.
 
-**Parent Topic:**[Using UI generation](../concept/using-ui-generation.md)
+**Parent Topic:**[Using UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/using-ui-generation.md)
 
 **Related topics**  
 
 
-[Experience Generation](../concept/concept-experience-generation.md)
+[Experience Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/concept-experience-generation.md)
 
-[Use case: Create an AI-generated experience](../concept/use-case-experience-generation.md)
+[Use case: Create an AI-generated experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/use-case-experience-generation.md)
 
 ## Review and save an experience preview
 

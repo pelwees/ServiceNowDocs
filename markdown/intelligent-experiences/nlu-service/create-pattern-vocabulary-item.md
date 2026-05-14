@@ -27,7 +27,7 @@ Pattern vocabulary items use regular expressions \(regex\) to find variations of
 
 In this example scenario, you've created an NLU Virtual Agent model for requests related to authentication. To refer to multi-factor authentication, your users often use "MFA", "mfa", or "mfa authentication". You can provide a pattern to cover these variations. They are replaced with the matching synonym multi-factor authentication when predicting an intent.
 
-See [Using regular expressions in entities](../concept/using-regular-expressions-nlu.md) for further details on regular expressions.
+See [Using regular expressions in entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/using-regular-expressions-nlu.md) for further details on regular expressions.
 
 ## Procedure
 
@@ -41,7 +41,7 @@ See [Using regular expressions in entities](../concept/using-regular-expressions
 
 4.  Click **Add a vocabulary**.
 
-    ![Add a vocabulary button in the Vocabulary tab of the Manage your model content phase.](../images/create-pattern-vocabulary-item9.png)
+    ![Add a vocabulary button in the Vocabulary tab of the Manage your model content phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-pattern-vocabulary-item9.png)
 
 5.  In the **Type** field of the **Add a vocabulary** window, select **Pattern**.
 
@@ -49,7 +49,7 @@ See [Using regular expressions in entities](../concept/using-regular-expressions
 
     In this example, the regular expression covers several variations of "mfa authentication".
 
-    ![Add a pattern vocabulary item, and provide a synonym.](../images/create-pattern-vocabulary-item8.png)
+    ![Add a pattern vocabulary item, and provide a synonym.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/create-pattern-vocabulary-item8.png)
 
 7.  Click **Save**.
 
@@ -59,7 +59,7 @@ See [Using regular expressions in entities](../concept/using-regular-expressions
 **Related topics**  
 
 
-[NLU vocabulary](../concept/using-nlu-vocabulary.md)
+[NLU vocabulary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/using-nlu-vocabulary.md)
 
-[Using regular expressions in entities](../concept/using-regular-expressions-nlu.md)
+[Using regular expressions in entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../concept/using-regular-expressions-nlu.md)
 

@@ -24,7 +24,7 @@ Every candidate has an ERP module specified in the candidate details in ERP Sema
 
 **Note:**
 
-Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](../../erp-integration/concept/erp-canvas-work-with-systems.md).
+Admins must first configure the connection to the ERP system in Zero Copy Connector for ERP. For more information, see [Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../../erp-integration/concept/erp-canvas-work-with-systems.md).
 
 ## High and low scores for candidate potential
 
@@ -51,5 +51,5 @@ The candidate potential score is calculated using the following metrics:
 -   Unsupported table extensions: The number of custom app tables that are also suggested as model extensions.
 -   Model inaccuracy: The number of tables supported by relevant ERP models that aren’t used by custom apps, and are passed through a sigmoid function.
 
-**Parent Topic:**[Exploring ERP Semantic Mining](exploring-ecm.md)
+**Parent Topic:**[Exploring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/exploring-ecm.md)
 

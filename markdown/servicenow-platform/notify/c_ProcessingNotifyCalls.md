@@ -33,5 +33,5 @@ Notify processes incoming calls in the following way:
 12. The activity confirms that the associated notify\_wf\_activity record has completed, and changes the activity state to finished.
 13. The workflow transitions to the next activity.
 
-**Parent Topic:**[Notify voice and SMS capabilities](notify-voice-SMS-capabilities.md)
+**Parent Topic:**[Notify voice and SMS capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-voice-SMS-capabilities.md)
 

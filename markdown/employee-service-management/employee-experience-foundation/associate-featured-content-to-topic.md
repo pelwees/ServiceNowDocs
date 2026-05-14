@@ -27,11 +27,11 @@ Role required: admin
 
 3.  On the **Featured Content** tab, click **New**.
 
-    ![Associating topic to the related tabs](../images/associate-topics-tabs.png "Featured content tab")
+    ![Associating topic to the related tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/associate-topics-tabs.png "Featured content tab")
 
 4.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Featured Content form](../reference/featured-content-form.md).
+    For more information on the fields and description, see [Featured Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/featured-content-form.md).
 
     **Note:** You can't add a quick link as a featured item.
 

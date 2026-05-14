@@ -177,5 +177,5 @@ Percentage of cases that the simulation has predicted that match active intents 
     |Unmapped intents|Intent that was successfully predicted from the case description, but the intent itself hasn’t been added to the intent to topic map table in the configuration. To increase the coverage for those incidents, add those additional intents to the table.|
 
 
-**Parent Topic:**[Using Issue Auto Resolution](../concept/auto-resolution-va.md)
+**Parent Topic:**[Using Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/auto-resolution-va.md)
 

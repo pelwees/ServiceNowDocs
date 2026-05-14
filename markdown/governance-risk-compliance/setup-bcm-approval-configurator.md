@@ -83,5 +83,5 @@ Option to enable the approval configuration as active.
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-approval-configuration.md)
 

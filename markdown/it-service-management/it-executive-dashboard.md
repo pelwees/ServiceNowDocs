@@ -13,9 +13,9 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 See a high-level view across all of ITSM.
 
-IT executives can use the [ITSM Success Dashboards](../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for ITSM.
+IT executives can use the [ITSM Success Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for ITSM.
 
-![Animated tour of the tabs of the IT Executive dashboard](../image/itsm-it-executive.gif)
+![Animated tour of the tabs of the IT Executive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/itsm-it-executive.gif)
 
 ## End user and roles
 
@@ -148,5 +148,5 @@ The following indicators do not appear on the dashboard but are used in formulas
 -   Stage \(Requested Item\)
 -   State \(Change, Request, Problem\)
 
-**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](itsm-dashboards-content-pack.md)
+**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-dashboards-content-pack.md)
 

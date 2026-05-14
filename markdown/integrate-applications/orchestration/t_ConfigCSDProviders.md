@@ -29,7 +29,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin, admin
 
 3.  Complete the form using the fields in the table.
 
-    ![Provider information](../../../administer/integrationhub/images/sccm-provider-ihub.png)
+    ![Provider information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../../administer/integrationhub/images/sccm-provider-ihub.png)
 
 <table id="table_hsl_qkt_nv"><thead><tr><th>
 
@@ -113,5 +113,5 @@ Option to use Integration Hub flows for client software distribution. When this 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Client software distribution extension framework](../concept/c_CSDExtensionFramework.md)
+**Parent Topic:**[Client software distribution extension framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_CSDExtensionFramework.md)
 

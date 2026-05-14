@@ -21,9 +21,9 @@ To hide a form, you must be given permission to work on the app.
 
 ## About this task
 
-If a form hasn't been published yet, you can delete it instead of hiding it. See [Delete a form in Creator Studio](crs-delete-form.md) for details.
+If a form hasn't been published yet, you can delete it instead of hiding it. See [Delete a form in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/crs-delete-form.md) for details.
 
-You can hide only forms that have already been published. For more information, see [Deploying your Creator Studio app](../concept/creator-studio-publishing-apps.md).
+You can hide only forms that have already been published. For more information, see [Deploying your Creator Studio app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-publishing-apps.md).
 
 ## Procedure
 
@@ -35,17 +35,17 @@ You can hide only forms that have already been published. For more information, 
 
     If you have multiple forms, make sure to select the form you're hiding.
 
-    ![Select the appropriate form from the navigation panel](../image/crs-forms-select-multi.png "Select the form")
+    ![Select the appropriate form from the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-forms-select-multi.png "Select the form")
 
 4.  Select the More actions icon ![](../image/cs-more-actions-icon.png).
 
 5.  Select **Form settings**.
 
-    ![Menu option to edit form settings](../image/crs-form-settings-menu.png "Form settings menu option")
+    ![Menu option to edit form settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-form-settings-menu.png "Form settings menu option")
 
 6.  De-select the **Make form visible to others** option.
 
-    ![Option to hide a form](../image/cs-form-settings-hide.png "Form settings modal")
+    ![Option to hide a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-form-settings-hide.png "Form settings modal")
 
 7.  Select **Save**.
 
@@ -54,5 +54,5 @@ You can hide only forms that have already been published. For more information, 
 
 Your admin must re-deploy the app to hide the inactive form \(catalog item\) on the production instance.
 
-**Parent Topic:**[Deleting forms and questions in Creator Studio](../concept/creator-studio-delete-forms-questions.md)
+**Parent Topic:**[Deleting forms and questions in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-delete-forms-questions.md)
 

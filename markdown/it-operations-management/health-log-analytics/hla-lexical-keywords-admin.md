@@ -27,7 +27,7 @@ In log data, terms like "crash" or "failed" are called lexical keywords because 
 
 The application comes with many default global keywords. You can add, edit, and delete global keywords or phrases. These keywords apply to all source types.
 
-**Note:** To add a specified keyword that is associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](hla-source-types.md).
+**Note:** To add a specified keyword that is associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-types.md).
 
 ## Procedure
 
@@ -122,5 +122,5 @@ Source types that are not associated with the keyword. Health Log Analytics does
 **Related topics**  
 
 
-[View the lexical keywords that generate alerts in Health Log Analytics](../../health-log-analytics-operator/task/hla-op-lexical-keywords-manage.md)
+[View the lexical keywords that generate alerts in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../health-log-analytics-operator/task/hla-op-lexical-keywords-manage.md)
 

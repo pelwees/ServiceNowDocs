@@ -46,7 +46,7 @@ Role required: wm\_admin
 
 4.  Enter the **Country** name in the text field.
 
-5.  In the **Parent** field, click the Lookup using list icon \( ![Lookup icon.](../image/magnifying-glass.png)\) and select the parent location from the region list.
+5.  In the **Parent** field, click the Lookup using list icon \( ![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../image/magnifying-glass.png)\) and select the parent location from the region list.
 
 6.  Click **Submit**.
 

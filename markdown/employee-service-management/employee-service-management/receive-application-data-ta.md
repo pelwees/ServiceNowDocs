@@ -12,8 +12,8 @@ reading_time_minutes: 1
 
 Import the application and applicant details from your integrated ATS into the system for processing.
 
--   **[Create Integration Flow to pull data from ATS](create-integration-flow-applctn.md)**  
+-   **[Create Integration Flow to pull data from ATS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/create-integration-flow-applctn.md)**  
 Create the integration flow with your preferred ATS to pull in data.
 
-**Parent Topic:**[Integrate with your ATS](integrate-ats.md)
+**Parent Topic:**[Integrate with your ATS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/integrate-ats.md)
 

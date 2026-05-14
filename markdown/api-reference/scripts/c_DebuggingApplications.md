@@ -29,7 +29,7 @@ When multiple applications contribute to the debug output, the system adds a new
 
 ![](../image/DebuggingApplicationBusinessRules.png "Sample application debug output of business rules")
 
-**Parent Topic:**[Debugging scripts](script-debug-overview.md)
+**Parent Topic:**[Debugging scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debug-overview.md)
 
 ## Debugging scopes
 

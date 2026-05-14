@@ -47,5 +47,5 @@ To set a dictionary attribute to true, you must enter `attribute=true` in the **
     -   Target element: field
     -   Default value: false
 
-**Parent Topic:**[Configuring Edge Encryption](../concept/edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/edge-config.md)
 

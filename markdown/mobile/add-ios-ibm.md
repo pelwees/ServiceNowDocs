@@ -31,7 +31,7 @@ Role required: admin
 
 6.  Select the ServiceNow app from the results.
 
-    ![Select the app from the search results](../image/imb-6.png)
+    ![Select the app from the search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/imb-6.png)
 
 7.  In the Policies and Distribution tab, select the applicable policies.
 
@@ -51,5 +51,5 @@ Role required: admin
 
 After adding the ServiceNow app from the Apple store, it appears in the App Catalog application. Users can download the app to their iOS devices.
 
-**Parent Topic:**[IBM MaaS360 mobile device management \(MDM\)](../concept/IBM-MaaS360-mdm.md)
+**Parent Topic:**[IBM MaaS360 mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/IBM-MaaS360-mdm.md)
 

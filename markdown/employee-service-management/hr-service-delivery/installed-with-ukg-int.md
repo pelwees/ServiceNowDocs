@@ -70,5 +70,5 @@ Symbolic Period \[sn\_hr\_ukg\_symbolic\_period\]
 Stores symbolic periods with their associated IDs. Symbolic periods denote the time periods that are identifiable by the Ultimate Kronos Group application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference - HR Service Delivery with Ultimate Kronos Group](ref-hrsd-ukg.md)
+</table>**Parent Topic:**[Reference - HR Service Delivery with Ultimate Kronos Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ref-hrsd-ukg.md)
 

@@ -22,7 +22,7 @@ Now Assist for UI Builder is a powerful tool that can be used to enhance the way
 
 Now Assist for UI Builder enables you to leverage the generative and agentic AI capabilities of the ServiceNow AI Platform. You can configure the Now Assist panel to be accessible from any page within UI Builder.
 
-![Request to build a basic record page](../image/now-assist-page-build-demo.png "Request to build a basic record page")
+![Request to build a basic record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/now-assist-page-build-demo.png "Request to build a basic record page")
 
 **Note:** You must install the Now Assist for Creator plugin in the Now Assist Admin console to use the Now Assist panel. For more information, see [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md)
 
@@ -57,7 +57,7 @@ Now Assist Page Insights can extract information from pages, components, and dat
 -   `What components have theme overrides?`
 -   `Are there any unused client scripts?`
 
-**Parent Topic:**[Working in UI Builder](using-ui-builder.md)
+**Parent Topic:**[Working in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/using-ui-builder.md)
 
 ## Get help with the Now Assist panel in UI Builder
 
@@ -78,7 +78,7 @@ Responses and outputs from Now Assist can vary, even when the same prompt is use
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -92,7 +92,7 @@ Responses and outputs from Now Assist can vary, even when the same prompt is use
 
     Now Assist uses generative AI to provide immediate answers to your questions.
 
-    ![UI Builder editor with the Now Assist Now Assist panel open, showing a question and a response.](../image/uib-nap-result.png)
+    ![UI Builder editor with the Now Assist Now Assist panel open, showing a question and a response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-nap-result.png)
 
 7.  Continue the conversation with follow-up questions as needed.
 

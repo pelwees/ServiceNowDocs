@@ -27,11 +27,11 @@ The Move tab is only visible when the Facilities Move Management plugin \(com.sn
 
 2.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_WorkbenchConfiguration.md).
 
-    ![Campus and floor selection](../image/CampusFloorSelection.png)
+    ![Campus and floor selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CampusFloorSelection.png)
 
-    By default, facilities administrators can see all move requests for the selected level displayed in the right side pane. Yellow pins \(![move request icon](../image/MoveRequestPin.png)\) depict those request locations on the floor plan.
+    By default, facilities administrators can see all move requests for the selected level displayed in the right side pane. Yellow pins \(![move request icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/MoveRequestPin.png)\) depict those request locations on the floor plan.
 
 3.  Continue with one of the following options.
 
@@ -91,9 +91,9 @@ Click the move request number.
 
 </td><td>
 
-1.  Click the edit \(![edit icon](../image/EditIcon.png)\) icon beside the **From:** or **To:** field.
+1.  Click the edit \(![edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/EditIcon.png)\) icon beside the **From:** or **To:** field.
 2.  Click a space on the floor plan to change its location.
-3.  Click the save \(![save icon](../image/SaveIcon.png)\) icon.
+3.  Click the save \(![save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/SaveIcon.png)\) icon.
 
 
 </td></tr><tr><td id="d31100e250">
@@ -102,9 +102,9 @@ Click the move request number.
 
 </td><td>
 
-Click the pin \(![pin icon](../image/PinIcon.png)\) icon.
+Click the pin \(![pin icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/PinIcon.png)\) icon.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Facilities Workbench](../concept/c_FacilitiesWorkbench.md)
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_FacilitiesWorkbench.md)
 

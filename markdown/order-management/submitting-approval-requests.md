@@ -17,7 +17,7 @@ As a requester with the approval request writer role, when you submit your reque
 
 When a business item such as a customer quote is ready for approval, you can submit an approval request from the Sales Customer Relationship Management application for the entity, for example Quote Management. When you select the **Preview and Submit for approval** option, a preview of your request and the approval workflow opens. You can see the approval conditions that will be used to evaluate your request, the approval steps in the process, and the approvers who review your request. Select **Request Approval** to generate the request.
 
-![Approval request preview that shows approval steps and approvers in the Sales chain and the approval step and approvers for Finance](../image/approval-preview.png "Preview approval request")
+![Approval request preview that shows approval steps and approvers in the Sales chain and the approval step and approvers for Finance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/approval-preview.png "Preview approval request")
 
 ## Recalling approval requests
 
@@ -35,11 +35,11 @@ Once all required approval steps are approved, your business item, such as the q
 
 ## Adding ad-hoc approvers to an approval request
 
-As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [Add approvers to an approval request](../task/add-approver.md).
+As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [Add approvers to an approval request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-approver.md).
 
 ## Overriding an approval step
 
-There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [Override an approver](../task/override-approval-step.md).
+There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [Override an approver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/override-approval-step.md).
 
-**Parent Topic:**[Using Advanced Approval Management](using-advanced-approval-management.md)
+**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 

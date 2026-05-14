@@ -23,7 +23,7 @@ Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_polic
 
 ## Procedure
 
-1.  On the **Validation results** tab for a snapshot, select the more actions icon \(![More actions menu icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for a policy and select **Execution record**.
+1.  On the **Validation results** tab for a snapshot, select the more actions icon \(![More actions menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for a policy and select **Execution record**.
 
 <table id="table_dbd_mfl_gqb"><thead><tr><th>
 

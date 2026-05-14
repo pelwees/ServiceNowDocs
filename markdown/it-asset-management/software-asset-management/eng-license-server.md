@@ -19,5 +19,5 @@ You can view information about all the license management servers by navigating 
 
 Information such as the name of the server, the current status of the server, and the last connection time is displayed in the Engineering Application License Servers form layout.
 
-**Parent Topic:**[Software Asset Management administration](c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 

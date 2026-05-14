@@ -32,12 +32,12 @@ Role required: platform\_document\_management\_admin
 
 ## What to do next
 
-[Create a document template](add-list-entry-to-doc-list.md)
+[Create a document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/add-list-entry-to-doc-list.md)
 
-**Parent Topic:**[Document Management lists](../concept/doc-mgt-lists.md)
+**Parent Topic:**[Document Management lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-mgt-lists.md)
 
 **Related topics**  
 
 
-[Add a document template to a document list](add-list-entry-to-doc-list.md)
+[Add a document template to a document list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/add-list-entry-to-doc-list.md)
 

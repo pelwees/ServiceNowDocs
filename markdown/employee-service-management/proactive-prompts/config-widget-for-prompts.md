@@ -33,13 +33,13 @@ Role required: admin
 
 4.  In the Widgets tab, search for prompts and drag the prompts widget on to the Edit area.
 
-5.  Select the \(![Pencil icon](../../customer-service-management/image/icon-pencil-ac.png)\) edit icon on the top-right corner of the widget.
+5.  Select the \(![Pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../customer-service-management/image/icon-pencil-ac.png)\) edit icon on the top-right corner of the widget.
 
 6.  Edit the form.
 
     |Field|Description|
     |-----|-----------|
-    |Prompt categories|Categories to pull and add category-specific prompts on the prompt widget. For information on signal categories, see [Configure signal categories in Proactive Prompts](proactive-prompts-signal-catergories.md).|
+    |Prompt categories|Categories to pull and add category-specific prompts on the prompt widget. For information on signal categories, see [Configure signal categories in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-catergories.md).|
     |Persona|Persona to filter and display the prompts on the widget. The options are, Manager, or Employee.|
     |Title|Title to be displayed on the widget.|
     |Show Menu|Displays the Manage Preferences menu on the widget that enables you to turn on or off the display of the prompts individually.|

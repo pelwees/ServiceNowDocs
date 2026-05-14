@@ -29,7 +29,7 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** By default, the CrowdStrike feed is disabled. Edit the configurations to enable the feed.
 
-    ![CrowdStrike-Premium feed](../image/tisc-crowdstrike-premium-feed.png)
+    ![CrowdStrike-Premium feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-crowdstrike-premium-feed.png)
 
 4.  Navigate to the **Configuration Details** section.
 
@@ -44,7 +44,7 @@ Role required: sn\_sec\_tisc.admin
         -   Reports \(Falcon Intelligence\)
 6.  Navigate to **Additional Settings** to configure the filters that will be applied while ingesting indicators from CrowdStrike.
 
-    ![CrowdStrike additional settings tab](../image/tisc-crowdstrike-additional-settings.png)
+    ![CrowdStrike additional settings tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-crowdstrike-additional-settings.png)
 
     The **Additional Settings** tab is primarily used to configure the filters that control how data is ingested into the application.
 
@@ -52,7 +52,7 @@ Role required: sn\_sec\_tisc.admin
 
 7.  Select **Edit Settings**.
 
-    ![CrowdStrike additional settings tab - Edit](../image/tisc-crowdstrike-additional-settings-edit.png)
+    ![CrowdStrike additional settings tab - Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-crowdstrike-additional-settings-edit.png)
 
 8.  Select the required filters.
 
@@ -251,11 +251,11 @@ Enter a confidence value \(0–100\) for indicators with unverified malicious co
 
 12. Select **Duplicate** to duplicate the feed.
 
-    For more information, see [Duplicate threat intelligence feeds](tisc-duplicate-feeds.md).
+    For more information, see [Duplicate threat intelligence feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-duplicate-feeds.md).
 
 
--   **[System Properties for CrowdStrike](../concept/premium-threat-feed-system-properties.md)**  
+-   **[System Properties for CrowdStrike](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/premium-threat-feed-system-properties.md)**  
 The following details the system properties for CrowdStrike.
 
-**Parent Topic:**[View Custom Feed](view-oob-custom-feeds.md)
+**Parent Topic:**[View Custom Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-custom-feeds.md)
 

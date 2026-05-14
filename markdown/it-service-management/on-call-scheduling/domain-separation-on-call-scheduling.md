@@ -81,7 +81,7 @@ For the following On-Call Scheduling features, domain separation ensures that en
 -   Schedule reports
 -   Escalations
 
-**Parent Topic:**[Reference for on-call scheduling](reference-for-on-call-scheduling.md)
+**Parent Topic:**[Reference for on-call scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 
 **Related topics**  
 

@@ -74,7 +74,7 @@ Specify incident IDs separated by commas. You can ingest 5 incident IDs.
 </td></tr></tbody>
 </table>3.  To add fields to the default fields that are displayed on the security incident, do the following actions:
 
-    1.  Select ![Map another field button.](../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) in the SIR Incident Target Fields section.
+    1.  Select ![Map another field button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) in the SIR Incident Target Fields section.
 
         It shows a list of SIR fields, from which you can select a new field.
 
@@ -92,7 +92,7 @@ Specify incident IDs separated by commas. You can ingest 5 incident IDs.
         -   For any other fields, you must select the check box that corresponds to a field for any new or updated changes made in the Defender incident record within Defender. This will automatically replace the respective SIR incident data with the new incident data.
         **Important:** Due diligence is required to be done before selecting this functionality as overriding the existing data may result in unstable data for the analyst to work with and any other automation that is set even by the field values of security incident may also get affected. So, it’s important to do the due diligence before you select any override functionality.
 
-4.  To remove a field, use the ![Remove button](../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png) Remove item button next to the input expression field in the SIR Incident Target Fields section.
+4.  To remove a field, use the ![Remove button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png) Remove item button next to the input expression field in the SIR Incident Target Fields section.
 
 5.  To map a field value from the Incident and Event Fields section to a field on the SIR incident Target Fields section, use one of the following actions:
 
@@ -114,9 +114,9 @@ Specify incident IDs separated by commas. You can ingest 5 incident IDs.
 
 6.  To format a field translation for a new field from a Defender Incident to match a field value on a Security Incident, select the **Click here** link in the **SIR Incident Target Fields** header.
 
-7.  To modify the fields that support field translation, select the ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
+7.  To modify the fields that support field translation, select the ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
 
-    The fields that support field translation are **Affected user**, **Configuration Item**, and **Priority**. For example, select ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The Defender Field Translation script editor opens.
+    The fields that support field translation are **Affected user**, **Configuration Item**, and **Priority**. For example, select ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The Defender Field Translation script editor opens.
 
 8.  Enter any changes to the script and select **Update** to save the changes and return to the Mapping page.
 
@@ -132,12 +132,12 @@ Specify incident IDs separated by commas. You can ingest 5 incident IDs.
 
     You can use the same field values in the Incident Generation Conditions builder to define additional criteria that an incoming Incident must satisfy to create a security incident.
 
-    ![Map incident fields](../image/ms-def-mapping.png)
+    ![Map incident fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-def-mapping.png)
 
 10. Select **Continue**.
 
 
 ## What to do next
 
-[Define filter and aggregation criteria](ms-def-filtering-and-aggregation.md)
+[Define filter and aggregation criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-def-filtering-and-aggregation.md)
 

@@ -82,7 +82,7 @@ Type of test log: -   Step Result
 -   Client Log
 -   Client Error
 
- **Note:** If a Client Error, you can optionally add it as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, refer to [Allowed client errors](../concept/whitelisted-client-errors.md).
+ **Note:** If a Client Error, you can optionally add it as an ignored or warning entry in the Allowed Client Errors. Doing so prevents the allowed client errors from affecting ATF test executions when they recur in future test runs. For more details, refer to [Allowed client errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/whitelisted-client-errors.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Test Result
 
 </td><td>
 
-Reference to the test result associated with this step result. Click ![Reference field icon](../image/atf-test-results-item.png) to view detailed test result information.
+Reference to the test result associated with this step result. Click ![Reference field icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-test-results-item.png) to view detailed test result information.
 
 </td></tr><tr><td>
 
@@ -158,19 +158,19 @@ Allow listed client error
 
 </td><td>
 
-Reference to the Allowed Client Error record \(if any\). Click ![Reference field icon](../image/atf-test-results-item.png) to view the Allowed Client Error record for this client error.
+Reference to the Allowed Client Error record \(if any\). Click ![Reference field icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-test-results-item.png) to view the Allowed Client Error record for this client error.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Test results](../concept/atf-test-results-module.md)
+</table>**Parent Topic:**[Test results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-test-results-module.md)
 
 **Related topics**  
 
 
-[Test results record](atf-test-results-record.md)
+[Test results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-test-results-record.md)
 
-[Step results record](atf-step-result-record.md)
+[Step results record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-step-result-record.md)
 
-[Allow client errors from the test logs](../task/whitelist-errors-from-test-log-related-list.md)
+[Allow client errors from the test logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/whitelist-errors-from-test-log-related-list.md)
 
-[Allowed client errors](../concept/whitelisted-client-errors.md)
+[Allowed client errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/whitelisted-client-errors.md)
 

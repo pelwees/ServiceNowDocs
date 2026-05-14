@@ -23,7 +23,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -46,7 +46,7 @@ Create an exception task from the List page
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open tasks**.
 2.  Select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-apm-task-form.md).
 
 The **Type** field is set to **Case task** by default.
 
@@ -72,7 +72,7 @@ Create an exception task from an invoice exception
 2.  In the Number column, select the link to an invoice exception to open it.
 3.  Select the **Exception tasks** tab and then select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-apm-task-form.md).
 
 The **Parent case**, **Invoice exception**, and **Type** fields are auto-populated.
 
@@ -90,7 +90,7 @@ Create an exception task from an invoice processing case
 2.  In the Number column, select the link to an invoice processing case to open it.
 3.  Select the **Tasks** tab and then select **New**.
 
-The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](../reference/create-apm-task-form.md).
+The Create New Invoice task page is displayed. For a description of the field values, see [Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-apm-task-form.md).
 
 The Parent case field is auto-populated. The **Type** field is set to **Case task** by default.
 
@@ -109,7 +109,7 @@ The Parent case field is auto-populated. The **Type** field is set to **Case tas
 
 ## What to do next
 
-[Mark an exception task as complete from Employee Center](complete-exception-task-ec.md).
+[Mark an exception task as complete from Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/complete-exception-task-ec.md).
 
-**Parent Topic:**[Work on an invoice exception](work-invoice-exception-case.md)
+**Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 

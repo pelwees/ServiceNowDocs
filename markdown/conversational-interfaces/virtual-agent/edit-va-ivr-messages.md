@@ -33,12 +33,12 @@ Role required: admin
 
     Additionally, you can also select the **Manage** button in the VA Messages column against the identity provider.
 
-    ![Select Manage to edit your custom messages for the provider Channel identity.](../images/manage-ivr-mesgs.png "Manage custom messages for Conversational IVR")
+    ![Select Manage to edit your custom messages for the provider Channel identity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-ivr-mesgs.png "Manage custom messages for Conversational IVR")
 
 6.  On the Custom virtual agent messages page, select the custom message that you want to update.
 
 7.  Edit the **Value** for the message and click **Update**.
 
 
-**Parent Topic:**[Configure Conversational IVR with Amazon Connect](configure-va-ivr.md)
+**Parent Topic:**[Configure Conversational IVR with Amazon Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-ivr.md)
 

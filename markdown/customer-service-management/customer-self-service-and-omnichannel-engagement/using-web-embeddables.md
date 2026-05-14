@@ -35,5 +35,5 @@ You can configure and embed the following ServiceNow components on the third-par
 
 ## Web Embeddables end-to-end flow
 
-![Screenshot displaying steps to configure and embed a Web Embeddables component on an external site.](../image/we-end-to-end-workflow.svg)
+![Screenshot displaying steps to configure and embed a Web Embeddables component on an external site.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-end-to-end-workflow.svg)
 

@@ -21,7 +21,7 @@ When a time card for a project task is approved, an expense line is generated fo
 
 The timecard\_admin role enables users to approve, modify, and delete the time cards of other users.
 
-**Parent Topic:**[Time Card Management](time-card-management.md)
+**Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
 **Related topics**  
 

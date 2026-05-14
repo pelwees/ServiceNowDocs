@@ -44,5 +44,5 @@ Role required: sn\_communities.admin or sn\_communities.forum\_admin
     An email is generated and sent to the users in the list. The approval workflow set in the forum determines the approval of membership from an email invitation. You can view all email invitations in the forum on the **Forum Email Invites** related list.
 
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

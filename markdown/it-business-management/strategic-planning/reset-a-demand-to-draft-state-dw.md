@@ -27,11 +27,11 @@ A demand can be reset to Draft from the Completed, Approved, Screening, or Submi
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Reset to Draft**.![Use the Reset to Draft button to reset a demand to the Draft state.](../images/demands-reset-to-draft.png)
+3.  Select **Reset to Draft**.![Use the Reset to Draft button to reset a demand to the Draft state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demands-reset-to-draft.png)
 
     A confirmation message appears, if there are:
 

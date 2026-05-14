@@ -91,7 +91,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
     **Note:** You should export the My SN record rather than individually create it as the system IDs must match for a proper configuration.
 
-9.  Repeat steps 6 and 7 in [Configure the OAuth authentication method](configure-oauth-auth-method.md) for all additional instances that you want to configure with bidirectional communication, but designate a sub-production instance as the Provider, and the Production instance as the Consumer.
+9.  Repeat steps 6 and 7 in [Configure the OAuth authentication method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md) for all additional instances that you want to configure with bidirectional communication, but designate a sub-production instance as the Provider, and the Production instance as the Consumer.
 
     Information such as name and URL will be taken from the sub-production instance.
 

@@ -40,23 +40,23 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
     Assessment template categories determine which templates can be selected in BIA templates.
 
-    ![Categories.](../image/bia-sa-temp-categories.png)
+    ![Categories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-sa-temp-categories.png)
 
     1.  Verify that the out-of-the-box category is configured as "Business impact assessment."
 
         This category has the following configuration: Template category role: sn\_bcm.core\_viewer and Active: true.
 
-        ![Business impact assessment category.](../image/bia-sa-temp-categories-imp-asmt.png)
+        ![Business impact assessment category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-sa-temp-categories-imp-asmt.png)
 
         **Note:** Only templates assigned to the “Business impact assessment” category are displayed in the **Impact assessment templates** field when configuring a BIA template.
 
-        ![Impact assessment templates field.](../image/bia-sa-temp-categories-rpo-rto-templates.png)
+        ![Impact assessment templates field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-sa-temp-categories-rpo-rto-templates.png)
 
 2.  Select **New template** in the Assessment Workspace or open an existing template.
 
     When you select **New template**, the Create assessment template form, **General** tab, and **Questions** tab are displayed.
 
-    ![New template.](../image/bia-asmt-ws-general-tab.png)![General tab.](../image/bia-asmt-ws-general-tab.png)
+    ![New template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-general-tab.png)![General tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-general-tab.png)
 
     1.  To configure the **General** tab, fill in the fields in the Create assessment template form and select **Create**.
 
@@ -71,9 +71,9 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
         |Duration \(number of days\)|Assessment duration to be specified as needed.|
         |Assessment reader role|Role set to \(sn\_bcm.core\_viewer\).|
 
-        ![General tab settings.](../image/bia-asmt-ws-general-tab-settings.png)
+        ![General tab settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-general-tab-settings.png)
 
-        For more information on creating templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+        For more information on creating templates, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
     2.  To save your changes, select **Save**.
 
@@ -83,7 +83,7 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
     Questions gather the information needed to calculate RTO and RPO values automatically.
 
-    ![Data change frequency.](../image/bia-asmt-ws-questions-tab-2.png)![Data value.](../image/bia-asmt-ws-questions-tab.png)
+    ![Data change frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-questions-tab-2.png)![Data value.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-questions-tab.png)
 
     The following steps show examples for Data change frequency and Data value questions.
 
@@ -127,7 +127,7 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
     Automations define the rules that automatically calculate RTO and RPO based on the question responses.
 
-    ![Conditions.](../image/bia-asmt-ws-automations-tab-2-set-condi.png)
+    ![Conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-condi.png)
 
     The following steps show examples with conditions and actions.
 
@@ -137,11 +137,11 @@ The **Automations** tab only appears when the Impact Automation \(Post Assessmen
 
         According to your requirements, you can add an automation such as Recovery point objective as shown in the example.
 
-        ![Automations.](../image/bia-asmt-ws-automations-tab.png)
+        ![Automations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab.png)
 
         The table shows sample conditions and actions for Action set 1 and "High" data change frequency. Each automation consists of action sets with If-Then logic.
 
-        ![High frequency.](../image/bia-asmt-ws-automations-tab-2-set-condi-high.png)![Actions for high frequency.](../image/bia-asmt-ws-automations-tab-2-set-actions-high-imme.png)
+        ![High frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-condi-high.png)![Actions for high frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-actions-high-imme.png)
 
 <table id="table_j14_ddr_23c"><thead><tr><th>
 
@@ -180,7 +180,7 @@ Set recovery point objective: **Immediately**
 </td></tr></tbody>
 </table>        The table shows sample conditions and actions for Action set 2 and "Medium" data change frequency. Each automation consists of action sets with If-Then logic.
 
-        ![Medium frequency.](../image/bia-asmt-ws-automations-tab-2-set-condi-medium.png)![Actions for medium frequency.](../image/bia-asmt-ws-automations-tab-2-set-actions-medium-24hrs.png)
+        ![Medium frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-condi-medium.png)![Actions for medium frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-actions-medium-24hrs.png)
 
 <table id="table_yrj_g2r_23c"><thead><tr><th>
 
@@ -219,7 +219,7 @@ Set recovery point objective: **24 Hours**
 </td></tr></tbody>
 </table>        The table shows sample conditions and actions for Action set 3 and "Low" data change frequency. Each automation consists of action sets with If-Then logic.
 
-        ![Low frequency.](../image/bia-asmt-ws-automations-tab-2-set-condi-low.png)![Actions for low frequency.](../image/bia-asmt-ws-automations-tab-2-set-actions-low-one-week.png)
+        ![Low frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-condi-low.png)![Actions for low frequency.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-asmt-ws-automations-tab-2-set-actions-low-one-week.png)
 
 <table id="table_c4c_m2r_23c"><thead><tr><th>
 
@@ -284,15 +284,15 @@ Set recovery point objective: **1 week**
 
     1.  Search for the Set recovery point objective action type subflow in the Workflow Studio.
 
-        ![Subflow.](../image/bia-subflow-set-rpo.png)
+        ![Subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-subflow-set-rpo.png)
 
     2.  Verify that the Recovery timeframe and Impact analysis are selected as the subflow inputs.
 
-        ![Inputs.](../image/bia-subflow-set-rpo-update.png)
+        ![Inputs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-subflow-set-rpo-update.png)
 
     3.  Review the update action that sets the field value.
 
-        ![Action inputs.](../image/bia-subflow-set-rpo-update-2.png)
+        ![Action inputs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-subflow-set-rpo-update-2.png)
 
 6.  Link the assessment templates to the BIA templates.
 
@@ -306,13 +306,13 @@ Set recovery point objective: **1 week**
 
         The example shows a BIA template and its parameters.
 
-        ![Example.](../image/bia-templates-example.png)
+        ![Example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-templates-example.png)
 
         -   Name: BIA RTO/RPO
         -   Primary element assessed: Datacenters
         -   Assessment type: Smart assessment
         -   Impact assessment templates: Select “Recovery time objective assessment template”, select “Recovery point objective assessment template."
-        ![Templates.](../image/bia-templates-imp-asmt-templates.png)
+        ![Templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-templates-imp-asmt-templates.png)
 
     4.  Select **Update**.
 
@@ -320,7 +320,7 @@ Set recovery point objective: **1 week**
 
 7.  To create a BIA, select **New** in the Business Continuity Workspace.
 
-    For more information, see [Create a business impact analysis](create-bia-in-uib-ws.md).
+    For more information, see [Create a business impact analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bia-in-uib-ws.md).
 
 8.  Complete the BIA configuration and save the BIA.
 
@@ -346,5 +346,5 @@ Set recovery point objective: **1 week**
         3.  RTO and RPO fields are automatically populated on the impact analysis record.
         4.  Values appear in the Business Impact Analysis record.
 
-**Parent Topic:**[Setup for a business impact analysis](../concept/bcm-admin-tasks.md)
+**Parent Topic:**[Setup for a business impact analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-admin-tasks.md)
 

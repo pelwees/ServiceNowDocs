@@ -31,10 +31,10 @@ Role required: admin
 
     A script include is created where you can add your custom validation.
 
-4.  To add a custom validation, refer to the following validation scenario.![Validation scenario for creating custom validations.](../image/validation-scenario.png)
+4.  To add a custom validation, refer to the following validation scenario.![Validation scenario for creating custom validations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/validation-scenario.png)
 
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](../concept/configuring-service-graph-connector-for-excel.md)
+**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/configuring-service-graph-connector-for-excel.md)
 

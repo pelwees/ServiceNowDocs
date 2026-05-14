@@ -30,7 +30,7 @@ The system creates a solution version each time you train a solution definition.
 
 2.  In the list view of the ML Solutions table, find the row that you want to activate, then select the value in the first column to open the individual record.
 
-    You can also open the individual record by selecting the row's reference lookup icon ![Lookup icon](../../../common/image/Form_ReferenceLookupIcon.png), then selecting **Open Record**.
+    You can also open the individual record by selecting the row's reference lookup icon ![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../../../common/image/Form_ReferenceLookupIcon.png), then selecting **Open Record**.
 
 3.  In the solution record, select **Activate**.
 
@@ -39,7 +39,7 @@ The system creates a solution version each time you train a solution definition.
 
 ## What to do next
 
-For classification solutions, [review the trained solution precision and coverage statistics](review-solution-statistics.md). For similarity solutions, [review the similarity examples](review-similarity-examples.md).
+For classification solutions, [review the trained solution precision and coverage statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-solution-statistics.md). For similarity solutions, [review the similarity examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 
-**Parent Topic:**[Configure Predictive Intelligence](configure-predictive-intelligence.md)
+**Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 

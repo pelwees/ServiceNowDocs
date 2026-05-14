@@ -70,5 +70,5 @@ Exception rule approvals
  Approvers review and approve or reject exception rules that automatically apply exceptions to matching findings.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exception Management Overview](sem-exception-management-overview.md)
+</table>**Parent Topic:**[Exception Management Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-exception-management-overview.md)
 

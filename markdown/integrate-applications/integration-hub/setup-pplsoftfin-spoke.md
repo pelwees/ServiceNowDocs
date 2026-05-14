@@ -32,11 +32,11 @@ Integrate the Oracle Peoplesoft Financial and ServiceNow instances, and authenti
 
     3.  Navigate to **Copy Project** &gt; **From File** and select the project file.
 
-        ![Import the project file.](../image/pplsoft-import-project.png)
+        ![Import the project file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pplsoft-import-project.png)
 
     4.  Click **Copy** to copy the definition types.
 
-        ![Copy the definition types.](../image/pplsoft-copy-def-types.png)
+        ![Copy the definition types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pplsoft-copy-def-types.png)
 
     5.  Verify that the project has all the objects; Application packages, Records, Services, and Service Operations.
 
@@ -44,7 +44,7 @@ Integrate the Oracle Peoplesoft Financial and ServiceNow instances, and authenti
 
     7.  Select **Create Tables**, **Create Views**, and **Execute and build script** options.
 
-        ![Build project.](../image/pplsoft-build-project.png)
+        ![Build project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/pplsoft-build-project.png)
 
         The required tables are created in the target Oracle Peoplesoft Financial database.
 
@@ -56,7 +56,7 @@ Integrate the Oracle Peoplesoft Financial and ServiceNow instances, and authenti
 
     3.  In the Search Criteria, specify `sn_` for **Service Name** and click **Search**.
 
-        ![ServiceNow webservices.](../image/peoplesoft-webservices.png)
+        ![ServiceNow webservices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/peoplesoft-webservices.png)
 
     4.  Select the check box against the required web services and click **Next**.
 
@@ -111,13 +111,13 @@ Integrate the Oracle Peoplesoft Financial and ServiceNow instances, and authenti
 
     3.  Select **Service** option, specify the service name in **Service**, and click **Search**.
 
-        ![Permissions for the web services.](../image/peoplesoft-permission.png)
+        ![Permissions for the web services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/peoplesoft-permission.png)
 
     4.  Select the check box against the required web service and click **Set Security**.
 
     5.  In **Web Service Access**, provide access as per your requirement and click **Save**.
 
-        ![Provide the required access.](../image/peoplesoft-access.png)
+        ![Provide the required access.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/peoplesoft-access.png)
 
 4.  Using SQL Developer or Data Mover in Oracle Peoplesoft Application Designer, connect to the database and run these scripts to ensure that the journal entry, SN\_ACCT\_ENTRY is built.
 
@@ -177,11 +177,11 @@ Integrate the Oracle Peoplesoft Financial and ServiceNow instances, and authenti
 
         **Note:** Don't click **Add Connection**.
 
-        ![Oracle Peoplesoft spoke connection template alias](../image/orc-peoplesft-conn-template.png)
+        ![Oracle Peoplesoft spoke connection template alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/orc-peoplesft-conn-template.png)
 
     5.  Click **Configure**.
 
-        ![Oracle Peoplesoft spoke connection template configuration](../image/orc-pplesft-con-tempt-confg.png)
+        ![Oracle Peoplesoft spoke connection template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/orc-pplesft-con-tempt-confg.png)
 
     6.  On the **Configure Connection**, fill in the fields.
 

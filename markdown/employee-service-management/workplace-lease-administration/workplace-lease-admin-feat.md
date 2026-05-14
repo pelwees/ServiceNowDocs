@@ -19,23 +19,23 @@ The ServiceNow® Workplace Lease Administration enables you to create, manage an
 
 <table id="table_sbm_3nx_zvb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Lease Administration concepts and features](explore-lease-administration.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Lease Administration concepts and features](explore-lease-administration.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Workplace Lease Administration](config-lease-administration.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Workplace Lease Administration](config-lease-administration.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Lease Administration to add workplace contracts and track them](use-lease-administration.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Workplace Lease Administration to add workplace contracts and track them](use-lease-administration.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace contracts and renewals](manage-lease-contracts.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../../reuse/icons/brand-icons/bus-headset.svg) Manage workplace contracts and renewals](manage-lease-contracts.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties](workplace-lease-references.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties](workplace-lease-references.md)
 
 </td><td>
 

@@ -98,7 +98,7 @@ Option to indicate if resource, such as agent or equipment, is required for the 
 </td></tr></tbody>
 </table>4.  Select and hold \(or right-click\) the form header and select **Submit**.
 
-    ![new work type form](../image/new-work-type.png)
+    ![new work type form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/new-work-type.png)
 
 
 ## Result
@@ -108,5 +108,5 @@ The work type is created successfully.
 -   If you have selected the Needs crew option, the work type is created with the Crew Requirements related list record.
 -   If you have selected the Resource requirements option, the work type is created with the Resource Requirements related list record.
 
-For more information about adding the resource requirement, see [Add resource requirements for a work order task](add-resource-requirement-wot.md).
+For more information about adding the resource requirement, see [Add resource requirements for a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-resource-requirement-wot.md).
 

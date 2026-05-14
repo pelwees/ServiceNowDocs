@@ -38,7 +38,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Review tasks**
 4.  Select **All** or **Unassigned**.
 5.  Open the review task from the list
@@ -89,11 +89,11 @@ Steps
     -   External storage: Select the document link to open it.
 5.  If you need additional context to review the document, request more information.
 
-    1.  Select the More Actions icon \(![More Actions icon](../../human-resources/reference/images/more-icon.png)\).
+    1.  Select the More Actions icon \(![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../human-resources/reference/images/more-icon.png)\).
 
     2.  Select **Request information**.
 
-    3.  In the Comments field, enter the details about the information needed.![If you want additional information to review the contract document, submit a request for information](../image/cmpro-internal-review-request-info.png)
+    3.  In the Comments field, enter the details about the information needed.![If you want additional information to review the contract document, submit a request for information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-internal-review-request-info.png)
 
     4.  Select **Submit**.
 
@@ -151,5 +151,5 @@ The attach file option is not available as the contract document is directly edi
 
 After the completing the review task, the fulfiller will have to create a revision of the finalzed contract document.
 
-**Parent Topic:**[Internal review overview](cncore-expert-review.md)
+**Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 

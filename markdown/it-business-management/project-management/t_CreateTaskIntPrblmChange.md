@@ -32,5 +32,5 @@ Role required: it\_project\_manager
     The project task becomes a child task of the incident, problem, or change record.
 
 
-**Parent Topic:**[Create a project task from a project](t_CreateATaskFromAProject.md)
+**Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 

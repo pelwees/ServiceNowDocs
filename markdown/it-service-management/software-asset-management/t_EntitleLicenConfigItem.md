@@ -36,5 +36,5 @@ Role required: sam
 5.  Click **Update**.
 
 
-**Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](t_CreatSWLicenseEntitlemnt.md)
+**Parent Topic:**[Software license entitlements for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatSWLicenseEntitlemnt.md)
 

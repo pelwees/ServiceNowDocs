@@ -34,14 +34,14 @@ Mapping AWS shapes to ServiceNow CMDB and Common Service Data Model \(CSDM\) ens
 |API Gateway|Application Gateway CI|
 |Security Group / NACL|Security Policy CI|
 
-**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
+**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling.md)
 
 **Related topics**  
 
 
-[Amazon Web Services \(AWS\) shapes](../../reference/eaw-reference/eaw-modeling-aws-shapes.md)
+[Amazon Web Services \(AWS\) shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-aws-shapes.md)
 
-[Working with Amazon Web Services \(AWS\) shapes](eaw-work-with-aws-shapes.md)
+[Working with Amazon Web Services \(AWS\) shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-aws-shapes.md)
 
-[Create a diagram using AWS shapes](../../task/eaw-task/eaw-modeling-create-diagram-aws.md)
+[Create a diagram using AWS shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-create-diagram-aws.md)
 

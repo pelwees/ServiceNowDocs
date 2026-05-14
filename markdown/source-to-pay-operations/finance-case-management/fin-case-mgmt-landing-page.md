@@ -17,19 +17,19 @@ The ServiceNow® Finance Case Management application enables your employees and 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits and features of Finance Case Management.](explore-fin-case-mgmt.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits and features of Finance Case Management.](explore-fin-case-mgmt.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-fin-case-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-fin-case-mgmt.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Work on finance requests, and manage finance cases, tasks, knowledge articles, and interactions.](using-fin-case-mgmt.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Work on finance requests, and manage finance cases, tasks, knowledge articles, and interactions.](using-fin-case-mgmt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/fin-case-mgmt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/fin-case-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>## Next Experience themes
@@ -42,21 +42,21 @@ For more information on customizing coral theme, see [Working with themes in Nex
 
 Here is an example of the email notification template with coral theme:
 
-![Theme](../image/fin-ops-theme.png)
+![Theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-theme.png)
 
--   **[Explore Finance Case Management](explore-fin-case-mgmt.md)**  
+-   **[Explore Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/explore-fin-case-mgmt.md)**  
 Learn about the benefits and capabilities of Finance Case Management.
--   **[Configure Finance Case Management](config-fin-case-mgmt.md)**  
+-   **[Configure Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/config-fin-case-mgmt.md)**  
 Plan and configure your implementation for Finance Case Management.
--   **[UseFinance Case Management](using-fin-case-mgmt.md)**  
+-   **[UseFinance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt.md)**  
 Finance specialists can create, track, and resolve finance requests efficiently.
--   **[Finance Case Management Reference](../reference/fin-case-mgmt-reference.md)**  
+-   **[Finance Case Management Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../reference/fin-case-mgmt-reference.md)**  
 Reference topics provide additional information about the lists and forms that you use in Finance Case Management.
 
-**Parent Topic:**[Finance and Supply Chain applications](../../sourcing-procurement-operations/concept/fsc-common-apps-landing.md)
+**Parent Topic:**[Finance and Supply Chain applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../sourcing-procurement-operations/concept/fsc-common-apps-landing.md)
 
 **Related topics**  
 
 
-[Common applications in FSC](../../source-to-pay-operations/concept/fsc-common-apps.md)
+[Common applications in FSC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../../source-to-pay-operations/concept/fsc-common-apps.md)
 

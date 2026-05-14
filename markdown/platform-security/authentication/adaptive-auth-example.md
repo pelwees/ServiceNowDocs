@@ -15,7 +15,7 @@ breadcrumb: [Configure properties, Adaptive authentication, Authentication, Acce
 
 Use these example steps to configure adaptive authentication on an instance.
 
-To use this tutorial, you must have an instance with Adaptive Authentication activated. For details on this process, see [Activate adaptive authentication](../task/adaptive-authentication-plugin.md).
+To use this tutorial, you must have an instance with Adaptive Authentication activated. For details on this process, see [Activate adaptive authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../task/adaptive-authentication-plugin.md).
 
 The example guides you through creating a new policy and applying it to an instance. In this tutorial you will:
 
@@ -60,13 +60,13 @@ For details on user groups and how they are used in your instance, see [Explorin
 
 5.  In the **Groups for criteria** list, double-click **Insert a new row...**.
 
-6.  Enter the name of a user group, or click the reference icon \(![Reference icon](../images/search.png)\) to select a group from a list.
+6.  Enter the name of a user group, or click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/search.png)\) to select a group from a list.
 
-    If you want to create a new user group for your filter criteria, click the reference icon \(![Reference icon](../images/search.png)\), and then click the **New** button. For more details on creating user groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md).
+    If you want to create a new user group for your filter criteria, click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/search.png)\), and then click the **New** button. For more details on creating user groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateAGroup.md).
 
 7.  After you have added your user group, click **Submit** to save your criteria record.
 
-    ![Completed group filter criteria record.](../images/adaptive-auth-example-1.png)
+    ![Completed group filter criteria record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/adaptive-auth-example-1.png)
 
 
 ## Create a policy
@@ -99,7 +99,7 @@ Role required: adaptive\_auth\_admin
 
 7.  In the list collector, add the filter criteria created in the previous steps to your policy.
 
-    ![List collector with a selected filter criteria record](../images/policy_filter-add.png)
+    ![List collector with a selected filter criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/policy_filter-add.png)
 
 8.  Click **Save**.
 
@@ -115,7 +115,7 @@ Role required: adaptive\_auth\_admin
 
 12. In the **Condition** field, select the filter criteria you created in previous steps, then select **is**, and **true** to complete the condition.
 
-    ![Completed policy condition record](../images/policy-condition-complete.png)
+    ![Completed policy condition record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/policy-condition-complete.png)
 
 13. Click **Save**.
 

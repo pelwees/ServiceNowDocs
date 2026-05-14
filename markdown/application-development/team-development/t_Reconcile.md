@@ -41,12 +41,12 @@ A reconcile occurs automatically whenever you select a parent instance. You may 
 
     -   The On Remote and not Local related list shows the versions that are ready to pull from the parent.
     -   The On Local and not on Remote related list shows the local versions that are ready to queue or ignore.
-    ![Reconcile](../image/Reconcile.png)
+    ![Reconcile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/Reconcile.png)
 
 5.  Click **Team Dashboard**.
 
-6.  [Pull versions](t_PullAVersion.md) from the parent instance and then [resolve any collisions](t_ResolveACollision.md).
+6.  [Pull versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_PullAVersion.md) from the parent instance and then [resolve any collisions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_ResolveACollision.md).
 
-7.  Review the local changes list and [queue or ignore changes](t_QueueALocalChangeForAPush.md), as appropriate.
+7.  Review the local changes list and [queue or ignore changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_QueueALocalChangeForAPush.md), as appropriate.
 
 

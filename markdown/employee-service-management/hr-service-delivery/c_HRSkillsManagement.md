@@ -29,12 +29,12 @@ When an HR case is opened:
     **Note:** If an HR case is created without skills, it will be assigned to a user without skills.
 
 
--   **[Assign an HR skill to a group](../task/t_AssignHRSkillsToGroups.md)**  
+-   **[Assign an HR skill to a group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_AssignHRSkillsToGroups.md)**  
 When you assign skills to HR groups, all members of the group inherit the skills and any child skills.
--   **[Add or modify an HR skill](../task/t_CreateOrModifyHRSkills.md)**  
+-   **[Add or modify an HR skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_CreateOrModifyHRSkills.md)**  
 You can create HR skills and assign them to HR staff to assist with the auto-assignment of HR cases and tasks.
--   **[Assign an HR skill to a user](../task/t_AssignHRSkillsToUsers.md)**  
+-   **[Assign an HR skill to a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_AssignHRSkillsToUsers.md)**  
 You can assign skills to HR users to facilitate the auto-assignment of HR cases and tasks.
 
-**Parent Topic:**[Manage HR roles](c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md)
 

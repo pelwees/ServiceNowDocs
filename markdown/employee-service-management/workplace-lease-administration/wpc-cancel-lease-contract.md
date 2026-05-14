@@ -34,12 +34,12 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 The contract state changes to Canceled.
 
-**Parent Topic:**[Manage workplace contracts from Workplace Central](../concept/manage-contracts-from-wpc.md)
+**Parent Topic:**[Manage workplace contracts from Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/manage-contracts-from-wpc.md)
 
 **Related topics**  
 
 
-[Renew workplace contract in Workplace Central](wpc-renew-lease-workplace-contracts.md)
+[Renew workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-renew-lease-workplace-contracts.md)
 
-[Adjust workplace contract in Workplace Central](wpc-adjust-lease-contract.md)
+[Adjust workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-adjust-lease-contract.md)
 

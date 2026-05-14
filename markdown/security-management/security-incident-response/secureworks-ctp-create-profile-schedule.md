@@ -72,7 +72,7 @@ Initial ingestion timeIf you want to schedule the initial ingestion at a specifi
 
 
 </td></tr></tbody>
-</table>    ![Secureworks CTP: Create Profile: Schedule](../image/secureworks-create-profile-schedule.gif)
+</table>    ![Secureworks CTP: Create Profile: Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secureworks-create-profile-schedule.gif)
 
 3.  Click **Continue** to navigate to the Additional Options page.
 

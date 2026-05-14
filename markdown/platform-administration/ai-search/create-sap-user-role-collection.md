@@ -28,7 +28,7 @@ A SAP global account administrator must have created a subaccount in your SAP BT
 -   Cloud Foundry Environment
 -   Authorization and Trust Management Service
 
-If you don't already have a subaccount with these entitlements in your SAP BTP global account, perform the [Create a subaccount in the SAP Business Technology Platform \(BTP\)](create-subaccount-sap-btp.md) preliminary task before performing this task.
+If you don't already have a subaccount with these entitlements in your SAP BTP global account, perform the [Create a subaccount in the SAP Business Technology Platform \(BTP\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-subaccount-sap-btp.md) preliminary task before performing this task.
 
 Role required: none
 
@@ -100,5 +100,5 @@ The SAP DMS external content connector requires a user account with specific rol
     4.  Select **Assign Role Collection**.
 
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/sap-dms-external-content-connector.md)
 

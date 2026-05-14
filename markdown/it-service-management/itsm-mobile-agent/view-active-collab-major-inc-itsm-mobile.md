@@ -27,7 +27,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 3.  Tap **Active collaborations**.
 
-    ![Active collaborations in major incident tab.](../image/major-inc-active-collab.png)
+    ![Active collaborations in major incident tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/major-inc-active-collab.png)
 
 4.  Do one of the following:
 
@@ -36,11 +36,11 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
     |**Calls**|View the active calls collaboration.|
     |**Chats**|Tap **Chats** to view the active chat collaborations.|
 
-    ![Active collaborations in major incident tab.](../image/chat-major-inc-active-collab-itsm-mobile.png)
+    ![Active collaborations in major incident tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/chat-major-inc-active-collab-itsm-mobile.png)
 
 5.  Swipe and tap **View** to view the conversation in the respective application.
 
-    ![Active collaborations in major incident tab.](../image/chat-major-inc-active-collab-itsm-mobile.png)
+    ![Active collaborations in major incident tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/chat-major-inc-active-collab-itsm-mobile.png)
 
     Each collaboration displays:
 

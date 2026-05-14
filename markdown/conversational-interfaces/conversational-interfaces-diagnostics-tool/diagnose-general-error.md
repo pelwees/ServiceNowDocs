@@ -45,7 +45,7 @@ Use this task to resolve errors and find and change system property values.
 
     The Diagnostic Tool asks if you want to proceed with the diagnosis.
 
-    ![Virtual Agent chat window in Microsoft Teams, asking if you want to proceed with the diagnosis.](../image/ci-dt-microsoft-proceed-choices.png "Proceed or search again chat response")
+    ![Virtual Agent chat window in Microsoft Teams, asking if you want to proceed with the diagnosis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-microsoft-proceed-choices.png "Proceed or search again chat response")
 
 5.  Select **Yes** to continue.
 
@@ -55,9 +55,9 @@ Use this task to resolve errors and find and change system property values.
 
     When the diagnosis is complete, the Diagnostic Tool displays a recommended solution.
 
-    ![Virtual Agent chat window displaying a recommended solution: Please ensure that group name is the same as the tenant ID in the message_auth table.](../image/ci-dt-recommended-solution.png "Issue recommendation")
+    ![Virtual Agent chat window displaying a recommended solution: Please ensure that group name is the same as the tenant ID in the message_auth table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-recommended-solution.png "Issue recommendation")
 
-    ![Virtual Agent chat window displaying confirmation to proceed with workflow.](../image/ci-dt-proceed-with-topic-flow.png "Issue confirmation")
+    ![Virtual Agent chat window displaying confirmation to proceed with workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-proceed-with-topic-flow.png "Issue confirmation")
 
 7.  Select **Yes** to confirm, or select **No** to end the workflow.
 
@@ -75,10 +75,10 @@ Use this task to resolve errors and find and change system property values.
 
     -   Select **No** to confirm that the solution was helpful and to exit the workflow.
     -   You may see a link that you can use to download support data.
-    ![A link to download support data displays at the end of the workflow.](../image/ci-dt-download-support-data.png "Prompt to download support data")
+    ![A link to download support data displays at the end of the workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-download-support-data.png "Prompt to download support data")
 
 9.  Click the link to download support data.
 
 
-**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](../concept/using-ci-diagnostics-tool.md)
+**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../concept/using-ci-diagnostics-tool.md)
 

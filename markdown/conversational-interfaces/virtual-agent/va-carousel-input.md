@@ -62,7 +62,7 @@ Detail description
 
 Description of the information that you need from users. If the **Allow automatic slot filling** toggle is deactivated, you can create a dynamic detail description by selecting the Data Pill Picker icon ![](../images/variable-reference-picker.png) to define conditions, or select the Open Editor icon ![](../images/icon-script.png) to enter a script. If the **Allow automatic slot filling** toggle is activated, you can only enter a static description.
 
- ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](../images/LLM-input-discoverable-toggle.png)
+ ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/LLM-input-discoverable-toggle.png)
 
 </td></tr><tr><td>
 
@@ -139,11 +139,11 @@ Carousel prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Carousel user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-carousel-llm-3.png)
+![All basic Carousel user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-carousel-llm-3.png)
 
 </td><td>
 
-![An example chat in which the prompt asks, "Please select the image."](../images/va-carousel-native.png "Web UI carousel prompt")
+![An example chat in which the prompt asks, "Please select the image."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-carousel-native.png "Web UI carousel prompt")
 
 </td></tr></tbody>
 </table>## Carousel input control properties for NLU topic discovery
@@ -303,15 +303,15 @@ Carousel prompt
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-![Basic properties include the node name, prompt, NLU entity, script definition for carousel items, and a "no records" response message.](../images/va-carousel-properties.png)
+![Basic properties include the node name, prompt, NLU entity, script definition for carousel items, and a "no records" response message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-carousel-properties.png)
 
 </td><td>
 
-![Example chat in which the prompt asks, "Select an image."](../images/va-carousel-native.png "Web UI carousel prompt")
+![Example chat in which the prompt asks, "Select an image."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-carousel-native.png "Web UI carousel prompt")
 
 </td></tr><tr><td>
 
-![Example chat in which the prompt asks, "Please select one of the catalog items." The current selection shows an iMac computer.](../images/va-carousel-mobile.png "ServiceNow mobile carousel prompt")
+![Example chat in which the prompt asks, "Please select one of the catalog items." The current selection shows an iMac computer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-carousel-mobile.png "ServiceNow mobile carousel prompt")
 
 </td></tr></tbody>
 </table>## Example carousel item expression
@@ -566,5 +566,5 @@ Supported
 For screen devices, use touch scroll. For nonscreen devices, use voice pagination.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+</table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

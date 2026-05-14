@@ -17,23 +17,23 @@ The Segment Management plugin \(com.snc.segment\_mgmt\) provides a general frame
 
 |Task|Description|Role|
 |----|-----------|----|
-|[Install Segment Management](../task/install-segment-management.md)|Install the Segment Management application \(com.snc.segment\_mgmt\) from ServiceNow® Store.|admin|
-|[Data model for Segment Management](data-model-for-segment-management.md)|Add records in the segment \(sn\_seg\_segment\) table to create segments for specific customers.|sn\_seg.segment\_mgmt\_admin|
-|[Roles and components of Segment Management](roles-and-components-of-segment-management.md)|Set of functional roles to maintain and configure segment data.|admin|
+|[Install Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/install-segment-management.md)|Install the Segment Management application \(com.snc.segment\_mgmt\) from ServiceNow® Store.|admin|
+|[Data model for Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/data-model-for-segment-management.md)|Add records in the segment \(sn\_seg\_segment\) table to create segments for specific customers.|sn\_seg.segment\_mgmt\_admin|
+|[Roles and components of Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-segment-management.md)|Set of functional roles to maintain and configure segment data.|admin|
 
--   **[Install Segment Management](../task/install-segment-management.md)**  
+-   **[Install Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/install-segment-management.md)**  
 Install the Segment Management plugin \(com.snc.segment\_mgmt\), along with the demo data and installations that are related to ServiceNow® Store applications and plugins.
--   **[Data model for Segment Management](data-model-for-segment-management.md)**  
+-   **[Data model for Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/data-model-for-segment-management.md)**  
 The Segment Management data model provides a framework to map customers to specific segments to track partner progression toward the next tier.
--   **[Roles and components of Segment Management](roles-and-components-of-segment-management.md)**  
+-   **[Roles and components of Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-segment-management.md)**  
 The Segment Management application uses roles to provide access to information, identify internal and external users, maintain data security, and establish different types of relationships between segments and partners.
 
-**Parent Topic:**[Configure Partner Relationship Management](configure-partner-relationship-management.md)
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[Segment Management](segment-management.md)
+[Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/segment-management.md)
 
-[Install Segment Management](../task/install-segment-management.md)
+[Install Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/install-segment-management.md)
 

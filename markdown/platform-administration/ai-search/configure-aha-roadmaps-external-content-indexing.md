@@ -50,11 +50,11 @@ To allow the connector to access your Aha! Roadmaps content via the REST API, yo
 Provide the following items to your connector admin:
 
 -   The host URL for your Aha! Roadmaps instance. This is typically `https://<organization>.aha.io/`, where `<organization>` is the name of your organization.
--   The API key value that you copied in step [1.d](configure-aha-roadmaps-external-content-indexing.md#copy-api-key-step).
+-   The API key value that you copied in step [1.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-aha-roadmaps-external-content-indexing.md#copy-api-key-step).
 
 Your connector admin needs these items to configure a Aha! Roadmaps external content connector to retrieve Features, Goals, Ideas, Notes, and Releases and security principals from your Aha! Roadmaps source system.
 
-For details on creating and configuring a Aha! Roadmaps external content connector, see [Create an Aha! Roadmaps external content connector](create-ext-cont-connector-aha-roadmaps.md).
+For details on creating and configuring a Aha! Roadmaps external content connector, see [Create an Aha! Roadmaps external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-aha-roadmaps.md).
 
-**Parent Topic:**[Aha! Roadmaps external content connector](../concept/aha-roadmaps-external-content-connector.md)
+**Parent Topic:**[Aha! Roadmaps external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/aha-roadmaps-external-content-connector.md)
 

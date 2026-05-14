@@ -30,7 +30,7 @@ Users with the report\_admin role can report on service catalog variables. Add t
 
 For primary **Group by** and **Stack by**, these steps are intuitive.
 
-![Service catalog variable use in Group by and Stack by fields.](../image/VariableGroupByStackBy.png "Variable use in Group by and Stack by fields")
+![Service catalog variable use in Group by and Stack by fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/VariableGroupByStackBy.png "Variable use in Group by and Stack by fields")
 
 **Note:** List, Box, Trendbox, and Pivot reports cannot use service catalog variables as a primary or secondary **Group by**. Single Score, Calendar, Control, and Map reports do not support **Group by** on any fields. List reports can use service catalog variables as columns.
 
@@ -71,7 +71,7 @@ Click **Select columns** or **Select rows**, then select **Variables+** at the b
 
 
 </td></tr></tbody>
-</table>3.  Click the structure icon \(![Report structure icon](../image/Form_ShowReportStructureIcon.png)\) and then the plus sign that appears.
+</table>3.  Click the structure icon \(![Report structure icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/Form_ShowReportStructureIcon.png)\) and then the plus sign that appears.
 
     A list of service catalog items appears.
 
@@ -84,5 +84,5 @@ Click **Select columns** or **Select rows**, then select **Variables+** at the b
 6.  **Save** the report.
 
 
-**Parent Topic:**[Report on service catalog variables](../concept/rep-service-catalog-variables.md)
+**Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/rep-service-catalog-variables.md)
 

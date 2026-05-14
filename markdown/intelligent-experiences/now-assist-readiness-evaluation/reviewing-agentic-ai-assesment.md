@@ -18,13 +18,13 @@ This automated assessment process evaluates potential implementation impacts and
 
 Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the agentic AI assessment icon ![](../image/agentic-ai-icon.png) to review your agentic AI assessment.
 
-**Note:** Before viewing your agentic AI assessments, you must first have run the scheduled job to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md).
+**Note:** Before viewing your agentic AI assessments, you must first have run the scheduled job to get the assessment results. If you haven't run your scheduled jobs, you are prompted to do so on an individual job level. For more information on running scheduled jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../task/run-genai-agenticai-assessment-scheduled-job.md).
 
 The summary tab provides a consolidated summary of overall findings along with summarization and resolution notes for ITSM and CSM. The results shown are estimates. You should evaluate results provided by Now Assist Readiness Evaluation for accuracy and appropriateness for your use case.
 
 To better understand the estimated remediation effort, select the **Legends** button. The legend shows the estimated remediation effort using sizing verbiage and colors, along with an estimated timeline of remediation in development days. The legend also includes descriptions of the icons found next to the assessment questions.
 
-![Legends button displays estimated remediation efforts such as None, Small, Medium, Large, XL, or XXL, and also includes icon descriptions.](../image/legends.png "Example of Legends estimated remediation effort sizing")
+![Legends button displays estimated remediation efforts such as None, Small, Medium, Large, XL, or XXL, and also includes icon descriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../image/legends.png "Example of Legends estimated remediation effort sizing")
 
 After reviewing the summary, select the individual assessment tabs to review those specific assessments. The questions for each assessment differ. For example, the questions and answers on the **Agentic AI - ITSM** assessment are different than the questions and answers on the **Agentic AI - CSM** assessment.
 
@@ -47,7 +47,7 @@ You can select **Download Report** to export the entire agentic assessment repor
 
 **Note:** You don’t have to select **Download Report** to work directly with the problematic records or tables found in the assessment. Each assessment includes hyperlinks to the records or tables that need attention. Selecting a hyperlink opens the record or table in a separate browser tab.
 
-![The Agentic AI - ITSM assessment is shown and includes the relevant questions and records.](../image/nare-agentic-ai-assessment-itsm.png "Example of the Agentic AI - ITSM assessment")
+![The Agentic AI - ITSM assessment is shown and includes the relevant questions and records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../image/nare-agentic-ai-assessment-itsm.png "Example of the Agentic AI - ITSM assessment")
 
-After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](../task/run-genai-agenticai-assessment-scheduled-job.md).
+After reviewing the assessment and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve. For more information on rerunning a specific job or all jobs, see [Run the GenAI/AgenticAI Assessment scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../task/run-genai-agenticai-assessment-scheduled-job.md).
 

@@ -15,11 +15,11 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The scoped GlideDate class provides methods for performing operations on GlideDate objects, such as instantiating GlideDate objects or working with GlideDate fields.
 
-For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
+For guidance on date time input strings with a list of common format conflicts, refer to [Date and time format guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../script/glide-server-apis/topic/p_GlideServerAPIs.md#).
 
-See also [GlideDateTime - Scoped](../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#).
+See also [GlideDateTime - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideDateTimeScoped/concept/c_GlideDateTimeScoped.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped GlideDate - GlideDate\(\)
 
@@ -93,7 +93,7 @@ Output:
 
 Gets the date and time field value in the UTC time zone.
 
-See also: [getDisplayValueInternal\(\)](c_GlideDateScopedAPI.md#)
+See also: [getDisplayValueInternal\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideDateScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -178,7 +178,7 @@ Tuesday, January 27, 2026  //full
 
 Gets the date in the internal format \(yyyy-MM-dd\) and current user's timezone.
 
-See also [Scoped GlideDate - getDisplayValueInternal\(\)](c_GlideDateScopedAPI.md#)
+See also [Scoped GlideDate - getDisplayValueInternal\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideDateScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -445,7 +445,7 @@ String
 
 </td><td>
 
-Value to set for the date. The [getDisplayValueEx\(\)](c_GlideDateScopedAPI.md#) method returns dates in a valid format, or dates can be formatted as shown below.
+Value to set for the date. The [getDisplayValueEx\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideDateScopedAPI.md#) method returns dates in a valid format, or dates can be formatted as shown below.
 
 -   M/D/YY or D/M/YY depending on the current user's language. For example, 1/27/26 or 27/1/26.
 -   Abbreviated month, day, and year. For example, Jan 27, 2026.

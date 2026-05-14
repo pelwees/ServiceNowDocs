@@ -165,14 +165,14 @@ Navigate to **All** &gt; **Procurement** &gt; **Orders** &gt; **Purchase Orders*
     Different assets are created for each hardware item. If it’s a software asset, one single asset is created for each license if you don't split the rights. For consumables, if an asset exists, it’s updated, or else, new assets are created.
 
 
-**Parent Topic:**[Receive assets](../concept/c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAssets.md)
 
 **Related topics**  
 
 
-[Create a receiving slip](t_CreateAReceivingSlip.md)
+[Create a receiving slip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAReceivingSlip.md)
 
-[Create a receiving slip line](t_CreateAReceivingSlipLine.md)
+[Create a receiving slip line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAReceivingSlipLine.md)
 
-[Consumable assets](../concept/c_ReceiveAConsumableAsset.md)
+[Consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAConsumableAsset.md)
 

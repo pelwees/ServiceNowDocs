@@ -32,12 +32,12 @@ Be sure to install the exporter content pack for DevOps Config. Exporters in the
 -   Exporters in the content pack have the **Source** value of **ServiceNow**. You can duplicate, but cannot delete or modify content pack exporters.
 -   You can run only published exporters.
 -   For export, snapshots cannot exceed 10,000 config data items \(CDIs\) per deployable or 100,000 CDIs per application.
--   For information on creating a custom exporter, see [Create a custom exporter](cdm-exporter-create-custom.md).
--   Records of exporter executions are deleted after a period of three years. For instructions on changing the default time period, see [Set the purge period for records of exporter executions](cdm-export-record-purge.md).
+-   For information on creating a custom exporter, see [Create a custom exporter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-exporter-create-custom.md).
+-   Records of exporter executions are deleted after a period of three years. For instructions on changing the default time period, see [Set the purge period for records of exporter executions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-export-record-purge.md).
 
 ## Procedure
 
-1.  Select the admin icon \(![Admin icon.](../image/icon-admin-wrench.png)\) to open the **Administration** page.
+1.  Select the admin icon \(![Admin icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-admin-wrench.png)\) to open the **Administration** page.
 
 2.  On the **Exporters** tab, select the name of the exporter.
 

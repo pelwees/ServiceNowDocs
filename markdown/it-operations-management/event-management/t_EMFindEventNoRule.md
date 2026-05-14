@@ -29,12 +29,12 @@ This task describes how to find events that are not matched to rules.
 
 2.  Near the top of the form, click the link for events or grouped events that are not mapped to rules.
 
-    ![Example wording of the link: "You have 4 Events and 2 grouped events that are not mapped to rules.](../image/EventManagementEventRuleSimple.png)
+    ![Example wording of the link: "You have 4 Events and 2 grouped events that are not mapped to rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementEventRuleSimple.png)
 
 
 ## What to do next
 
 Create an event rule. For example, event rules are useful for managing events that occur regularly.
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md)
 

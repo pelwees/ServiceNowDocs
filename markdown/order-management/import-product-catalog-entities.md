@@ -63,6 +63,6 @@ You import certain product catalog entities to your target instance in the follo
 
 ## What to do next
 
--   [View export job status](view-export-job-status.md)
--   [View import job status](view-import-job-status.md)
+-   [View export job status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-export-job-status.md)
+-   [View import job status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-import-job-status.md)
 

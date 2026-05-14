@@ -19,7 +19,7 @@ The correlated task rule applies configurable conditions to fields in a selected
 
 Role required: orchestration\_manager
 
-Before starting this procedure, make sure you have created [labor rate cards](t_CreateOrchROILaborRateCard.md) and the appropriate [automation entry records](t_CreateOrchROIAutoEntryRecord.md) for the automated tasks you want to evaluate.
+Before starting this procedure, make sure you have created [labor rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateOrchROILaborRateCard.md) and the appropriate [automation entry records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateOrchROIAutoEntryRecord.md) for the automated tasks you want to evaluate.
 
 ## About this task
 
@@ -57,5 +57,5 @@ When a new employee opens an incident to request services or assets which are ty
 7.  To view the list of tasks that match this rule in the system, click **Correlated Tasks** under **Related Links** in this form
 
 
-**Parent Topic:**[Orchestration ROI](../concept/c_OrchestrationROI.md)
+**Parent Topic:**[Orchestration ROI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_OrchestrationROI.md)
 

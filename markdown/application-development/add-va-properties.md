@@ -80,12 +80,12 @@ Response data from the client to send to the server. Only use in components that
 </table>
 ## What to do next
 
-[Test a component for Virtual Agent](test-va-component.md).
+[Test a component for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-va-component.md).
 
-**Parent Topic:**[Develop a component for Virtual Agent](../concept/va-components.md)
+**Parent Topic:**[Develop a component for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/va-components.md)
 
 **Related topics**  
 
 
-[Create custom components using ServiceNow CLI](../concept/custom-components.md)
+[Create custom components using ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/custom-components.md)
 

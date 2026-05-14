@@ -24,5 +24,5 @@ Types of CMDB service classes that SRM supports:
 -   Calculated application services \(cmdb\_ci\_calculated\)
 -   Tag-based application services \(cmdb\_ci\_service\_by\_tags\)
 
-**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
+**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 

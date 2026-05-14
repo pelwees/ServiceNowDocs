@@ -17,31 +17,31 @@ Workflow Data Fabric Home provides a unified, guided experience for connecting, 
 
 You return to the home page by selecting the Home icon ![](../image/wdf-home-icon.png).
 
-From the Workflow Data Fabric Home landing page, use the Now Assist search field with the icon ![](../../now-assist-zero-copy-connector/images/now-assist-sparkle-icon-dark.png) for guidance on setting up integrations. Navigate straight to selected capabilities using the **Quick links**. For more information, see [Now Assist for Workflow Data Fabric \(WDF\)](now-assist-for-workflow-data-fabric-landing.md).
+From the Workflow Data Fabric Home landing page, use the Now Assist search field with the icon ![](../../now-assist-zero-copy-connector/images/now-assist-sparkle-icon-dark.png) for guidance on setting up integrations. Navigate straight to selected capabilities using the **Quick links**. For more information, see [Now Assist for Workflow Data Fabric \(WDF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-for-workflow-data-fabric-landing.md).
 
-![Screenshot showing the Workflow Data Fabric Home landing page with the Now Assist for WDF search field.](../image/wdf-home-ui.png)
+![Screenshot showing the Workflow Data Fabric Home landing page with the Now Assist for WDF search field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-home-ui.png)
 
 ## Data Catalog
 
 You access the Data Catalog by selecting the Data Catalog icon ![](../image/wdf-data-catalog-icon.png).
 
-Search an organized inventory of data assets within your organization that helps you discover the right data assets, understand what the data represents, and manage the data. The Data Catalog stores and manages metadata about data assets, such as definitions, structure, and naming conventions. Data assets can be tagged and classified to improve the discoverability and governance of data assets. For more information, see [Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md).
+Search an organized inventory of data assets within your organization that helps you discover the right data assets, understand what the data represents, and manage the data. The Data Catalog stores and manages metadata about data assets, such as definitions, structure, and naming conventions. Data assets can be tagged and classified to improve the discoverability and governance of data assets. For more information, see [Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/concept/data-catalog.md).
 
-![Screenshot showing the Data Catalog UI with filters open.](../image/wdf-data-catalog-ui.png)
+![Screenshot showing the Data Catalog UI with filters open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-data-catalog-ui.png)
 
 ## Connect Hub
 
 You access Connect Hub by selecting the Connect Hub icon ![](../image/wdf-connect-hub-icon.png).
 
-Discover, manage, and connect ServiceNow to external systems using Connect Hub. The unified interface eliminates the need to switch between multiple tools and interfaces, reducing knowledge silos and improving collaboration across teams working with different integrations types. Connect Hub provides consistent access to integration capabilities and shared resources. For more information, see [Connect to external systems](connecthub-connect-to-external-systems.md).
+Discover, manage, and connect ServiceNow to external systems using Connect Hub. The unified interface eliminates the need to switch between multiple tools and interfaces, reducing knowledge silos and improving collaboration across teams working with different integrations types. Connect Hub provides consistent access to integration capabilities and shared resources. For more information, see [Connect to external systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connecthub-connect-to-external-systems.md).
 
-![Screenshot showing the Connect Hub UI with Create drop-down menu open.](../image/wdf-connect-hub-ui.png)
+![Screenshot showing the Connect Hub UI with Create drop-down menu open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-connect-hub-ui.png)
 
 ## Data Workbench
 
 You access the Data Workbench by selecting the Data Workbench icon ![](../image/wdf-data-workbench-icon.png).
 
-Build, manage, and govern data products, data interfaces, and data fabric tables that power workflows, analytics, and AI agents. Connect to internal and external data sources, define stable data interfaces, apply governance, and prepare trusted data assets for use. For more information, see [Explore data products](../../../administer/data-products/concept/explore-data-products.md).
+Build, manage, and govern data products, data interfaces, and data fabric tables that power workflows, analytics, and AI agents. Connect to internal and external data sources, define stable data interfaces, apply governance, and prepare trusted data assets for use. For more information, see [Explore data products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/data-products/concept/explore-data-products.md).
 
-![Screenshot showing the Data Workbench user interface.](../image/wdf-workbench-ui.png)
+![Screenshot showing the Data Workbench user interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-workbench-ui.png)
 

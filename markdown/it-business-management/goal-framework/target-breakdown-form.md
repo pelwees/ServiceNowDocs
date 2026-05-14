@@ -28,5 +28,5 @@ The form is available when the Goal Framework for SPM application is installed.
 |Actual|Actual value for the target breakdown.|
 |Remark|Remark entered by the user for business justification when updating the actuals.|
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 

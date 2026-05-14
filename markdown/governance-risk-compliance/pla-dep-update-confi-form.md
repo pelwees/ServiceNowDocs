@@ -128,5 +128,5 @@ Users/groups in fields
 Option to select the users or groups who should receive a notification about the updates. For example, Plan owner and BCM lead are selected to receive the updates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Set up Planning dependency update configuration](../task/conf-plan-dep-update-confi-module.md)
+</table>**Parent Topic:**[Set up Planning dependency update configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/conf-plan-dep-update-confi-module.md)
 

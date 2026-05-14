@@ -44,8 +44,8 @@ The following informational notifications are included with ServiceNow for Micro
     -   Requested item
 4.  Click the notification to view the details.
 
-    ![Non-actionable notification](../images/non-action-notification-2.png)
+    ![Non-actionable notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/non-action-notification-2.png)
 
 
-**Parent Topic:**[Employee actions](../concept/employee-sn-ms-teams.md)
+**Parent Topic:**[Employee actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-sn-ms-teams.md)
 

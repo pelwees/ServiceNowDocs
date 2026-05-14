@@ -47,27 +47,27 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** Once the execution initiated or completed, a work notes is posted on the activity stream of the form view.
 
-    ![Enrichment actions](../image/tisc-observables-enrichments.png)
+    ![Enrichment actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-observables-enrichments.png)
 
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-case-task.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 
-[View Case Reports](view-case-reports.md)
+[View Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-case-reports.md)
 
-[Create a security incident from a TISC case](tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-si-case.md)
 
-[Upload Secure File Attachments](secure-file-attachments.md)
+[Upload Secure File Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/secure-file-attachments.md)
 

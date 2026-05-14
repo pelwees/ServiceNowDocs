@@ -108,12 +108,12 @@ PI Objectives
 List of all PI objectives of this ART. View, create, and update the PI objectives.This related list is visible in the SAFe view of the ART form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+</table>**Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/key-entities-SAFe.md)
 
 **Related topics**  
 
 
-[Define a feature in SAFe](create-SAFefeature.md)
+[Define a feature in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFefeature.md)
 
-[Define a program increment in SAFe](create-SAFeprogramincrement.md)
+[Define a program increment in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeprogramincrement.md)
 

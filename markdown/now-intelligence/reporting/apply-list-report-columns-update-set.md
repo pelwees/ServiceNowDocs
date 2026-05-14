@@ -22,5 +22,5 @@ Configured list report columns are not automatically applied to an instance when
 
 For information on adding customized configurations to an update set and applying them, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/system-update-sets.md).
 
-![UI Views report sys_id](../image/UIViewsReportViewRPTSysID.png)
+![UI Views report sys_id](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/UIViewsReportViewRPTSysID.png)
 

@@ -90,7 +90,7 @@ Specify a REST endpoint method. For example, GET.
 
 4.  Click **Analyze permissions**.
 
-    ![REST endpoint permissions](../images/view-permissions-for-a-role.png)
+    ![REST endpoint permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/view-permissions-for-a-role.png)
 
     The **Access results** for the **user\_admin** role is displayed.
 

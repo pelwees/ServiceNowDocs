@@ -29,7 +29,7 @@ The ServiceNow AI Platform calculates the read-only **Residual date** and **Resi
 
 When an asset is in the **In Use** state, the asset form populates a Deprecation effective date.
 
-For more information about fixed assets and depreciation, see [Using Depreciation with Fixed Assets](../concept/c_CreatingFixedAssets.md#).
+For more information about fixed assets and depreciation, see [Using Depreciation with Fixed Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_CreatingFixedAssets.md#).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For more information about fixed assets and depreciation, see [Using Depreciatio
 
 2.  Select an asset.
 
-3.  Fill in the **Depreciation**, **Depreciation effective date**, **Salvage Value**, and **Covered by fixed asset** fields as described in [Create assets](t_CreatingAssets.md).
+3.  Fill in the **Depreciation**, **Depreciation effective date**, **Salvage Value**, and **Covered by fixed asset** fields as described in [Create assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingAssets.md).
 
     Consider these points.
 
@@ -50,14 +50,14 @@ For more information about fixed assets and depreciation, see [Using Depreciatio
     The **Residual date**, **Residual value**, and **Depreciated amount** fields are automatically calculated.
 
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_AssetClasses.md)
 
 **Related topics**  
 
 
-[Create an asset class](t_CreateAnAssetClass.md)
+[Create an asset class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreateAnAssetClass.md)
 
-[Create license assets](t_CreatingLicenseAssets.md)
+[Create license assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingLicenseAssets.md)
 
-[Set asset states and substates](t_SettingAssetStatesAndSubstates.md)
+[Set asset states and substates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_SettingAssetStatesAndSubstates.md)
 

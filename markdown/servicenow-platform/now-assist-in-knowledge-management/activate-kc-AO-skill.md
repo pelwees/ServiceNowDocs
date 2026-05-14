@@ -32,10 +32,10 @@ Role required: admin
 
 The Article Optimization skill is activated.
 
-**Parent Topic:**[Configuring Article Optimization skill and prompts](configure-kc-AO-skill.md)
+**Parent Topic:**[Configuring Article Optimization skill and prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-kc-AO-skill.md)
 
 **Related topics**  
 
 
-[Configure custom AI-based Article Optimization scans](configure-custom-ai-based-AO-scans.md)
+[Configure custom AI-based Article Optimization scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-custom-ai-based-AO-scans.md)
 

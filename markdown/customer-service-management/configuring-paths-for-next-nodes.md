@@ -28,15 +28,15 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 When a customer answers that the amount is debited from the credit card, the path that leads to the Initiate transaction tracking guidance is taken.
 
-![Path configuration that includes path name, path priority, and condition for the path.](../image/ex-amt-debited-path.png)
+![Path configuration that includes path name, path priority, and condition for the path.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-amt-debited-path.png)
 
 ### Procedure
 
-1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](../image/icon-add-path.png)\) on the start node.
+1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-add-path.png)\) on the start node.
 
     A new path and a new node are added to the canvas.
 
-    ![New path and Add node for configuring the new path and node after a question node.](../image/ex-add-path.png)
+    ![New path and Add node for configuring the new path and node after a question node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-add-path.png)
 
 2.  Select the new path.
 
@@ -51,7 +51,7 @@ When a customer answers that the amount is debited from the credit card, the pat
 
 ### What to do next
 
-[Configure a guidance node](../task/configure-guidance-node-initiate-transaction-tracking.md) that allows agents to initiate the transaction tracking for a failed transaction.
+[Configure a guidance node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-guidance-node-initiate-transaction-tracking.md) that allows agents to initiate the transaction tracking for a failed transaction.
 
 ## Configure the path for the amount-not-debited condition
 
@@ -65,15 +65,15 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 When a customer answers that the amount isn’t debited from the credit card, the path that leads to the next question node is taken. The question node asks for failure codes that the user received.
 
-![Path configuration that includes path name, path priority, and condition for the path.](../image/ex-amt-not-debited-path.png)
+![Path configuration that includes path name, path priority, and condition for the path.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-amt-not-debited-path.png)
 
 ### Procedure
 
-1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](../image/icon-add-path.png)\) on the start node.
+1.  In Decision Tree Builder, select the Add path icon \(![Add path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-add-path.png)\) on the start node.
 
     A new path and a new node are added to the canvas.
 
-    ![New path and Add node for configuring the new path and node after a question node.](../image/ex-add-path.png)
+    ![New path and Add node for configuring the new path and node after a question node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-add-path.png)
 
 2.  Select the new path.
 
@@ -88,5 +88,5 @@ When a customer answers that the amount isn’t debited from the credit card, th
 
 ### What to do next
 
-[Configure a question node](../task/configure-question-node-to-ask-failure-codes.md) to ask for the failure codes that customer received after the failed transaction.
+[Configure a question node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-question-node-to-ask-failure-codes.md) to ask for the failure codes that customer received after the failed transaction.
 

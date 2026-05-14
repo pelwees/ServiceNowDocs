@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Test Management 2.0** &gt; **Settings** &gt; **Planning Console**.
 
-2.  Click the gear icon \(![Gear icon](../images/settings.png)\) at the top right corner of the page.
+2.  Click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/settings.png)\) at the top right corner of the page.
 
 3.  In the System Settings window:
 
@@ -42,5 +42,5 @@ Role required: admin
 
 After you create a column, associate the column to the required table.
 
-**Parent Topic:**[Test Board in Test Management 2.0](../concept/test-board.md)
+**Parent Topic:**[Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md)
 

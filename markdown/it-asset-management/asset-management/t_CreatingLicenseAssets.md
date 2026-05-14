@@ -29,17 +29,17 @@ Examples include a license to use a single copy of a desktop software program an
 
 2.  In the **Rights** field, type the number of entitlements to be granted by this license.
 
-3.  Complete the form as described in [Create assets](t_CreatingAssets.md).
+3.  Complete the form as described in [Create assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingAssets.md).
 
 
-**Parent Topic:**[Manage various assets through asset classes](../concept/c_AssetClasses.md)
+**Parent Topic:**[Manage various assets through asset classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/c_AssetClasses.md)
 
 **Related topics**  
 
 
-[Create an asset class](t_CreateAnAssetClass.md)
+[Create an asset class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreateAnAssetClass.md)
 
-[Set asset states and substates](t_SettingAssetStatesAndSubstates.md)
+[Set asset states and substates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_SettingAssetStatesAndSubstates.md)
 
-[Add depreciation to an asset](t_AddingDepreciationToAnAsset.md)
+[Add depreciation to an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_AddingDepreciationToAnAsset.md)
 

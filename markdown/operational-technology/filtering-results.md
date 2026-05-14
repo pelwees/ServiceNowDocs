@@ -17,7 +17,7 @@ The Results page provides a filter to find specific types of queries of informat
 
 Much like the Assets page, the Results page provides a filter to the left of the Results list. To open the Filter type list, select the plus sign ![](../images/filter-plus-icon.png) under the Filter header. This opens the drop-down selection field.
 
-![Drop-down selection field](../images/add-filter.png)
+![Drop-down selection field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/add-filter.png)
 
 The menu drops down and you can select from the following list.
 
@@ -32,11 +32,11 @@ The menu drops down and you can select from the following list.
 -   Scan Types
 -   Host Status
 
-![Selection list](../images/selection-list.png)
+![Selection list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/selection-list.png)
 
 If you select Operating System, for example, another drop-down menu opens with a list of possible OS.
 
-![Operating System type list](../images/type-list.png)
+![Operating System type list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/type-list.png)
 
 After you have made your selection, any query that matches the filter displays on the Result page.
 

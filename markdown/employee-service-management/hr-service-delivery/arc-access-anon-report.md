@@ -44,12 +44,12 @@ Role required: none
 9.  Select **Post**.
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/arc-use.md)
 
 **Related topics**  
 
 
-[Anonymously report misconduct](arc-create-anon-report.md)
+[Anonymously report misconduct](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-create-anon-report.md)
 
-[Anonymously report discrimination](arc-report-discrimination.md)
+[Anonymously report discrimination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-report-discrimination.md)
 

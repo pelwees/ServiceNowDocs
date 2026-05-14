@@ -21,7 +21,7 @@ The following diagram shows the tables and their relationships within the Incide
 
 The flexibility of the Incident Management platform provides you with a data model that you can extend and leverage to fit your needs.
 
-![Incident management data model](../image/incident-management-data-model.png)
+![Incident management data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-management-data-model.png)
 
-**Parent Topic:**[Reference section for Incident Management](reference-section-for-incident-management.md)
+**Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 

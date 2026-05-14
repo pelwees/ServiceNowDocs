@@ -26,5 +26,5 @@ Role required: it\_portfolio\_manager
     The PMO Dashboard is displayed.
 
 
-**Parent Topic:**[Portfolio Dashboard](../concept/c_PortfolioManagerDashboard.md)
+**Parent Topic:**[Portfolio Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/../concept/c_PortfolioManagerDashboard.md)
 

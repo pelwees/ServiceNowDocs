@@ -41,14 +41,14 @@ Role required: admin
 
 7.  On the Hardware Inventory Classes window, select the entity and required attributes from the list.
 
-    ![Add hardware inventory](../image/add-hardware-inventory.png)
+    ![Add hardware inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-hardware-inventory.png)
 
 8.  Click **OK**.
 
 
 ## Result
 
-The added hardware inventory is displayed in the CMPivot entity list to verify the required attributes. For more information on verifying the CMPivot entity and the required attributes, see [Verify a CMPivot entity](verify-cmpivot-entity.md).
+The added hardware inventory is displayed in the CMPivot entity list to verify the required attributes. For more information on verifying the CMPivot entity and the required attributes, see [Verify a CMPivot entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-cmpivot-entity.md).
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

@@ -80,5 +80,5 @@ During your call, you can toggle captions on or off to show or hide the live tra
 
 After your call ends, you will see the transcript immediately. This transcript is available for the current session only, so be sure to share or save it before closing if you need to keep it as it won't be saved in your recent conversations.
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

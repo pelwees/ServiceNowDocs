@@ -37,5 +37,5 @@ The following table lists the email notifications shipped with Universal Task. Y
 
 If you are an existing user of Universal Task on a release prior to San Diego, upgrade to Employee Center or Employee Center Pro or install the Employee Experience Foundation plugin from ServiceNow Store to start using these email notifications.
 
-**Parent Topic:**[Setting up and configuring Universal Task](set-up-universal-task.md)
+**Parent Topic:**[Setting up and configuring Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/set-up-universal-task.md)
 

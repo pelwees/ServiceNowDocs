@@ -39,19 +39,19 @@ Role required: flow\_designer and connection\_admin
 
 4.  Locate the **Jira Spoke** endpoint and click **View Details**.
 
-    ![Locate the Jira Spoke endpoint.](../image/jira-spk-endpoint.png)
+    ![Locate the Jira Spoke endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-endpoint.png)
 
 5.  For the **Jira External Trigger** end point, click **Configure**.
 
-    ![Configure the endpoint.](../image/jira-spk-endpoint-conf.png)
+    ![Configure the endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-endpoint-conf.png)
 
 6.  Select the user who can trigger the endpoint and click **Activate**.
 
-    ![Activate the endpoint.](../image/jira-spk-endpoint-activate.png)
+    ![Activate the endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-endpoint-activate.png)
 
 7.  Copy the generated endpoint URL.
 
-    ![Copy the generated endpoint URL.](../image/jira-spk-endpoint-generated.png)
+    ![Copy the generated endpoint URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-endpoint-generated.png)
 
 
 ## Add the endpoint URL in Jira
@@ -68,7 +68,7 @@ Role required: admin
 
 2.  Navigate to **JIRA SETTINGS** &gt; **System**.
 
-    ![Jira system settings.](../image/jira-spk-webhook.png)
+    ![Jira system settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-webhook.png)
 
 3.  Under **Advanced**, click **WebHooks**.
 
@@ -79,15 +79,15 @@ Role required: admin
     |Field|Description|
     |-----|-----------|
     |Name|Name to identify the webhook.|
-    |URL|Paste the generated endpoint URL that was generated after you [configured triggers in the ServiceNow instance](jira-ext-trigger.md#).|
+    |URL|Paste the generated endpoint URL that was generated after you [configured triggers in the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/jira-ext-trigger.md#).|
 
-    ![Add the endpoint URL.](../image/jira-spk-add-endpt-url.png)
+    ![Add the endpoint URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-add-endpt-url.png)
 
 6.  Select the supported events as per your requirement.
 
-    For the list of the supported events, see the [Spoke triggers](../concept/jira-spoke-v3-0-2.md#section_cpg_rpm_ccc) section.
+    For the list of the supported events, see the [Spoke triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/jira-spoke-v3-0-2.md#section_cpg_rpm_ccc) section.
 
-    ![Select the required events.](../image/jira-spk-events.png)
+    ![Select the required events.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jira-spk-events.png)
 
 7.  Click **Create**.
 

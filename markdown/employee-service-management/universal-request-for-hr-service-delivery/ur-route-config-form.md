@@ -103,5 +103,5 @@ Closed template
 Select the fields that you want to populate other than the state.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Request reference](ur-reference-topic.md)
+</table>**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
     The OAuth scope is the scope that you are granted by the provider. Typical scopes are read and write. Scopes can be any string that the provider specifies.
 
-    ![OAuth entity scopes embedded list](../image/OAuthEntityScope.png)
+    ![OAuth entity scopes embedded list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OAuthEntityScope.png)
 
 3.  Right-click the OAuth provider form header and select **Save**.
 
@@ -42,5 +42,5 @@ Role required: admin
     The scope is added to the profile.
 
 
-**Parent Topic:**[OAuth profiles and scopes](../concept/c_OAuthProviderAndScope.md)
+**Parent Topic:**[OAuth profiles and scopes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OAuthProviderAndScope.md)
 

@@ -25,13 +25,13 @@ This video shows an example of how to set up a 3x3 risk matrix and explains its 
 
 Risk matrix configuration video. Approximately one minutes thirty four seconds long. 
 
-The pre-defined risk matrixes can be used by safety team members to create and conduct risk assessments in the Health and Safety Workspace. The selected matrix is used by the risk assessment to evaluate the level of risk. For more information, see [Conduct a safety risk assessment](hs-conduct-risk-assessment.md).
+The pre-defined risk matrixes can be used by safety team members to create and conduct risk assessments in the Health and Safety Workspace. The selected matrix is used by the risk assessment to evaluate the level of risk. For more information, see [Conduct a safety risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-conduct-risk-assessment.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the configuration icon \(![Configuration icon](../image/icon-config.png)\).
+2.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-config.png)\).
 
 3.  In the **Configuration** tab, select **Risk matrices** and then **All**.
 
@@ -47,7 +47,7 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 
     3.  Configure your risk tolerance levels.​
 
-    For more information about field descriptions, see [Risk matrix form](../reference/hs-risk-matrix-form.md).
+    For more information about field descriptions, see [Risk matrix form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../reference/hs-risk-matrix-form.md).
 
 6.  In the **Risk matrix preview** section, preview a visual representation of the configured risk matrix.
 
@@ -63,7 +63,7 @@ The pre-defined risk matrixes can be used by safety team members to create and c
 
 ## 5\*5 risk matrix example
 
-![An example 5*5 risk matrix showing likelihood and severity values, risk tolerance levels, and the heatmap of the risk matrix.](../image/hs-risk-matrix-example.png)
+![An example 5*5 risk matrix showing likelihood and severity values, risk tolerance levels, and the heatmap of the risk matrix.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/hs-risk-matrix-example.png)
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-setting-up-risk-mgmt.md)
 

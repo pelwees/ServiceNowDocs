@@ -17,7 +17,7 @@ Manage space allocations in your workplace in the most efficient way using the S
 
 ## Overview of Scenario Planning
 
-The Workplace Central is like a central homepage where you can monitor all your workplace-related tasks. The Workplace Central provides you the Space optimization module that enables you to create scenarios using a stack plan and view the plan on the floor map. Using the Space optimization module, as a space planner you can perform several actions related to scenarios such as creating a scenario, monitoring the number of scenarios created and more. For more information about the Space optimization module, refer to [Space Optimization](space-optimization.md).
+The Workplace Central is like a central homepage where you can monitor all your workplace-related tasks. The Workplace Central provides you the Space optimization module that enables you to create scenarios using a stack plan and view the plan on the floor map. Using the Space optimization module, as a space planner you can perform several actions related to scenarios such as creating a scenario, monitoring the number of scenarios created and more. For more information about the Space optimization module, refer to [Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md).
 
 Space Optimization enables you to perform scenario planning using a stack plan and a floor map. Scenario planning enables you to create multiple versions of a building with different space allocations until you finalize the best plan. You can share a scenario between multiple stake holders and deploy the best plan to the production.
 
@@ -50,36 +50,36 @@ Using the Space optimization module you can create scenarios for a single buildi
     **Note:** Ensure that you have installed Indoor Mapping to visualize and reserve spaces using floor maps.
 
 
-**Parent Topic:**[Exploring Workplace Space Management](../../workplace-space-management/concept/explore_wsm.md)
+**Parent Topic:**[Exploring Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../workplace-space-management/concept/explore_wsm.md)
 
-**Parent Topic:**[Explore Workplace Central](workplace-central.md)
+**Parent Topic:**[Explore Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/workplace-central.md)
 
 **Related topics**  
 
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/schedule-planning.md)
 
-[Allocation - types, setting, and impact](../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md)
+[Allocation - types, setting, and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md)
 
-[Lists module](wsd-lists-module.md)
+[Lists module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/wsd-lists-module.md)
 
-[Workplace Analytics](workplace-analytics.md)
+[Workplace Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/workplace-analytics.md)
 
-[Space Planning](space-planning.md)
+[Space Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-planning.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/schedule-planning.md)
 
-[Space assistance](space-assistance.md)
+[Space assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-assistance.md)
 
-[Event Planner](event-planner.md)
+[Event Planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/event-planner.md)
 
-[Move Management](move-mgmt.md)
+[Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/move-mgmt.md)
 
-[Case management](case-management-workspace.md)
+[Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/case-management-workspace.md)
 
-[Kiosk Indoor Mapping](kiosk-indoor-mapping.md)
+[Kiosk Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/kiosk-indoor-mapping.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 ## Procedure
 
-1.  Navigate to **Lists** \(![List icon.](../image/list-view.png)\) in the Digital Factory Workspace.
+1.  Navigate to **Lists** \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/list-view.png)\) in the Digital Factory Workspace.
 
 2.  Select the task that you want to be the parent of the new action.
 
@@ -45,7 +45,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
     -   Parent \(not available on the form\)
 4.  On the Action form, fill in or change the values for the fields.
 
-    For a description of the field values, see [Action form](../reference/action-form.md).
+    For a description of the field values, see [Action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/action-form.md).
 
 5.  Select **Save**.
 
@@ -54,5 +54,5 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 The new action is displayed in the **Tasks** list of the parent task. The parent task cannot be closed until all child tasks in the **Tasks** list are closed.
 
-**Parent Topic:**[Action Management](../concept/industrial-action-management.md)
+**Parent Topic:**[Action Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/industrial-action-management.md)
 

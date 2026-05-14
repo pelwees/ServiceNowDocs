@@ -17,19 +17,19 @@ The ServiceNow® Performance Analyzer application enables you to access page loa
 
 <table id="table_vwr_y2s_4fc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Performance Analyzer concepts and features.](exploring-performance-analyzer.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/performance-analyzer/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Performance Analyzer concepts and features.](exploring-performance-analyzer.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Performance Analyzer environment and access.](configuring-performance-analyzer.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/performance-analyzer/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Performance Analyzer environment and access.](configuring-performance-analyzer.md)
 
 </td></tr><tr><td>
 
-[Test![](../../../reuse/icons/brand-icons/bus-it-leader.svg)Test application performance with Performance Analyzer.](using-performance-analyzer.md)
+[Test![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/performance-analyzer/../../../reuse/icons/brand-icons/bus-it-leader.svg)Test application performance with Performance Analyzer.](using-performance-analyzer.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Performance Analyzer.](../reference/performance-analyzer-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/performance-analyzer/../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Performance Analyzer.](../reference/performance-analyzer-reference.md)
 
 </td></tr></tbody>
 </table>

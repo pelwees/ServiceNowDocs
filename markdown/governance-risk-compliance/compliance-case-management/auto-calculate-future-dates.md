@@ -50,5 +50,5 @@ Apply rule-based conditions on a combination of agency, regulation or jurisdicti
     The pre-defined rule to automate due date calculations is saved. This pre-defined rule gets applied to all the compliance cases created from now on.
 
 
-**Parent Topic:**[Using Compliance Case Management](use-compliance-case-management.md)
+**Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 

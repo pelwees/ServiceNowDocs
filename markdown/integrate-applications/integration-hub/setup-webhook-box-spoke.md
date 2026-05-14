@@ -35,7 +35,7 @@ Role required: admin
 
 2.  Create an app according to your requirements.
 
-    For more information about app creation, see [Create an OAuth application](setup-box-spoke.md#).
+    For more information about app creation, see [Create an OAuth application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-box-spoke.md#).
 
 3.  Generate a primary Key and secondary Key for your app and record the values.
 
@@ -120,7 +120,7 @@ Select **add callback parameter** to configure any GET or POST methods
 
 6.  To create a V2 webhook, select **Create Webhook** and select **V2**.
 
-    **Note:** To create a V2 webhook, you must enable **Manage webhooks** in the **Configuration** settings. For more information, see [Create an OAuth application](setup-box-spoke.md#).
+    **Note:** To create a V2 webhook, you must enable **Manage webhooks** in the **Configuration** settings. For more information, see [Create an OAuth application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-box-spoke.md#).
 
     1.  For the URL Address, enter the endpoint URL of the ServiceNow instance in the following format: `https://<instance-name>.service-now.com/api/sn_box_spoke/box_spoke_webhook_endpoints/webhook_endpoint`.
 
@@ -187,7 +187,7 @@ Primary Key
 
 </td><td>
 
-The primary key that you generated in [Add an endpoint URL in a Box account](setup-webhook-box-spoke.md#)
+The primary key that you generated in [Add an endpoint URL in a Box account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhook-box-spoke.md#)
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Secondary Key
 
 </td><td>
 
-The secondary key that you generated in [Add an endpoint URL in a Box account](setup-webhook-box-spoke.md#)
+The secondary key that you generated in [Add an endpoint URL in a Box account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhook-box-spoke.md#)
 
 </td></tr><tr><td>
 

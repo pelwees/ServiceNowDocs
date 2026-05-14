@@ -44,7 +44,7 @@ Role required: evt\_mgmt\_admin
 
 The credential for use with the SolarWinds monitor connector is created.
 
-**Parent Topic:**[Configure event collection from SolarWinds monitor](t_EMConfigureSolarwindsConnectorJS.md)
+**Parent Topic:**[Configure event collection from SolarWinds monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSolarwindsConnectorJS.md)
 
 **Related topics**  
 

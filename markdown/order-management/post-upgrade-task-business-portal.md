@@ -15,7 +15,7 @@ Migrate draft proxy order carts to the new sales cart to avoid having your custo
 
 ## Before you begin
 
-Ensure that the Sales Cart application has been installed. For more information, see [Install Sales Cart](install-sales-cart-plugin.md).
+Ensure that the Sales Cart application has been installed. For more information, see [Install Sales Cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/install-sales-cart-plugin.md).
 
 Role required: admin
 

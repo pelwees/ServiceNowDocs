@@ -28,7 +28,7 @@ Key capabilities include:
 
 You can access the Telecom Customer 360 page from the CSM/FSM Configurable Workspace from an account, consumer, or contact table.
 
-![Telecom 360 view](../image/telcom-360-view.jpg)
+![Telecom 360 view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/telcom-360-view.jpg)
 
-To start using Telecommunications Customer 360, see [Telecommunications Customer 360 home page](c360-home-page.md).
+To start using Telecommunications Customer 360, see [Telecommunications Customer 360 home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md).
 

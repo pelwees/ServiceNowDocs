@@ -26,7 +26,7 @@ Enable this property if you are upgrading from Zurich or an earlier release. You
 -   ITSM Software Asset Management
 -   Hardware Asset Management
 
-**Parent Topic:**[Normalization data services](c_NormalizationOverview.md)
+**Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 
 ## Configure Normalization Data Services to create duplicate company name in extension table
 
@@ -62,7 +62,7 @@ Role required: nds\_admin
 
 5.  Add the **glide.cmdb.canonical.use\_base\_core\_company\_only** system property and set its value to **True**.
 
-    For more information, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For more information, see [Add a system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#).
 
 6.  Normalize data in the CMDB table.
 

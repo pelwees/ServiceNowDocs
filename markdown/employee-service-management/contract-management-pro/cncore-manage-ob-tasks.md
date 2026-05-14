@@ -59,7 +59,7 @@ Select the link in the notification email sent when an obligation task is assign
 **Note:** The sn\_cm\_workspace.contract\_workspace\_user role is required to access Legal Counsel Center.
 
  1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **My work**.
 4.  Select **Pending approvals**.
 5.  Select the obligation record that needs approval.
@@ -104,5 +104,5 @@ If the obligation task is approved, the assigned user is notified and the state 
 
 When the obligation task is rejected, the assigned user is notified and the state of the obligation task changes to Open.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-obligation-management.md)
 

@@ -34,7 +34,7 @@ The IDR Overall Monitoring dashboard monitors the following:
 -   Producer Seeding Requests Within Last 7 Days
 -   Consumer Seeding Requests Within Last 7 Days
 
-![IDR Monitoring dashboard.](../image/IDR-monitoring-dashboard.png "IDR overall monitoring dashboard")
+![IDR Monitoring dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/IDR-monitoring-dashboard.png "IDR overall monitoring dashboard")
 
 -   **Active Producer Replication Sets**
 
@@ -141,13 +141,13 @@ The IDR License and Usage SMv2 dashboard monitors the following:
 
     The number of messages each subscriber instance sent, by month.
 
-    ![Subscriber sent messages.](../image/messages-sent.png "Subscriber messages sent")
+    ![Subscriber sent messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/messages-sent.png "Subscriber messages sent")
 
 -   **Subscriber Received Messages**
 
     The number of messages each subscriber instance received, by month.
 
-    ![Subscriber received messages.](../image/subscriber-received-messages.png "Subscriber messages received")
+    ![Subscriber received messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/subscriber-received-messages.png "Subscriber messages received")
 
 -   **IDR License Details**
 
@@ -168,13 +168,13 @@ The IDR License and Usage SMv2 dashboard monitors the following:
 
     The number of messages sent, per license, monthly.
 
-    ![IDR messages sent.](../image/messages-sent.png "IDR messages sent")
+    ![IDR messages sent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/messages-sent.png "IDR messages sent")
 
 -   **IDR Messages Received**
 
     The number of messages received, per license, monthly.
 
-    ![IDR messages received.](../image/message-received.png "IDR messages received")
+    ![IDR messages received.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../image/message-received.png "IDR messages received")
 
 
 ## Scheduled Replication dashboard
@@ -213,22 +213,22 @@ Monitor the status of scheduled replication requests within a specific time peri
     A table showing the count for each status in the selected date range.
 
 
-**Parent Topic:**[Administering Instance Data Replication](administering-instance-data-replication.md)
+**Parent Topic:**[Administering Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/administering-instance-data-replication.md)
 
 **Related topics**  
 
 
-[Manage consumer access to replication data in Instance Data Replication](../task/approve-consumer.md)
+[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../task/approve-consumer.md)
 
-[Comparing replicated data between instances in Instance Data Replication](comparing-replicated-data.md)
+[Comparing replicated data between instances in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/comparing-replicated-data.md)
 
-[Deploying a replication configuration from one instance to another in Instance Data Replication](copying-replication-configuration.md)
+[Deploying a replication configuration from one instance to another in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/copying-replication-configuration.md)
 
-[Cloning options with Instance Data Replication](cloning-with-instance-data-replicaton.md)
+[Cloning options with Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/cloning-with-instance-data-replicaton.md)
 
-[Monitoring queues in Instance Data Replication](idr-queue-dashboard.md)
+[Monitoring queues in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/idr-queue-dashboard.md)
 
-[Avoiding insert and update errors in Instance Data Replication](preventing-insert-update-errors.md)
+[Avoiding insert and update errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preventing-insert-update-errors.md)
 
-[Resolving data replication errors in Instance Data Replication](../reference/common-issues-idr.md)
+[Resolving data replication errors in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/../reference/common-issues-idr.md)
 

@@ -21,19 +21,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and agents use Card Operations.](fso-card-operations.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how customers, branch workers, and agents use Card Operations.](fso-card-operations.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Card Operations.](../task/set-up-card-operations.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Card Operations.](../task/set-up-card-operations.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Submit and manage credit card related requests.](managing-credit-card-service-case-tasks.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Submit and manage credit card related requests.](managing-credit-card-service-case-tasks.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, properties, and plugins and store applications that are installed.](card-operations-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, properties, and plugins and store applications that are installed.](card-operations-reference.md)
 
 </td></tr></tbody>
 </table>

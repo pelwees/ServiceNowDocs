@@ -15,7 +15,7 @@ breadcrumb: [Change acceleration in GitLab, GitLab, Integrate, DevOps Change Vel
 
 GitLab Docker Image supports change creation in GitLab pipelines containing parallel jobs.
 
-**Note:** If your GitLab pipeline has parallel jobs, it is better to use the GitLab Docker Image, rather than **when:manual**. For detailed information about GitLab Docker Image, see [Implement custom actions for pipelines using a generic Docker container image](servicenow-custom-actions-for-gitlab.md).
+**Note:** If your GitLab pipeline has parallel jobs, it is better to use the GitLab Docker Image, rather than **when:manual**. For detailed information about GitLab Docker Image, see [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md).
 
 Sample yaml pipeline demonstrating parallel jobs:
 
@@ -80,5 +80,5 @@ Deploy App in Prod:
     - sndevopscli create change -p "{\"changeStepDetails\":{\"timeout\":3600,\"interval\":100},\"autoCloseChange\":true}"
 ```
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 

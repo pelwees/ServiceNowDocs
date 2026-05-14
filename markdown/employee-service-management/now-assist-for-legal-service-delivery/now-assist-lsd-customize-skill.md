@@ -34,7 +34,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 3.  Create a copy of the Now Assist for LSD feature summarization skill for customization.
 
-    1.  On the feature card that is associated with the skill that you would like to activate, select the More actions icon ![More actions icon](../image/more-actions-icon.png) and create a copy that you can customize by selecting **Make a copy**.
+    1.  On the feature card that is associated with the skill that you would like to activate, select the More actions icon ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/more-actions-icon.png) and create a copy that you can customize by selecting **Make a copy**.
 
     2.  On the confirmation pop-up, select **Make a copy**.
 
@@ -42,7 +42,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs for each skill, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](../concept/now-assist-lsd-skill-inputs.md).
+    For information about the inputs for each skill, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../concept/now-assist-lsd-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 
@@ -66,7 +66,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
         Add multiple base input fields, as necessary.
 
-        ![View of all the input tables and fields that are used to define the prompt that determines where to pull the data from](../image/lsd-na-skill-input-customize.png)
+        ![View of all the input tables and fields that are used to define the prompt that determines where to pull the data from](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-na-skill-input-customize.png)
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -129,7 +129,7 @@ Description of the base input field value.
 
     1.  Select a record in the Test response section, and test the prompt response output format by selecting **Run Test**.
 
-        ![Selection of new sections that can be included in the summary for each input template.](../image/lsd-na-skill-prompt-customize.png)
+        ![Selection of new sections that can be included in the summary for each input template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-na-skill-prompt-customize.png)
 
     2.  Select **Edit prompt in Now Assist Skill Kit** to edit the prompt.
 
@@ -196,6 +196,6 @@ Description of the base input field value.
 
 14. Configure the variables of the practice areas that you want to be considered as inputs for the legal request or matter summarization.
 
-    For more information, see [Configure variables for Now Assist summarization](configure-variables-for-now-assist-summarization.md).
+    For more information, see [Configure variables for Now Assist summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/configure-variables-for-now-assist-summarization.md).
 
 

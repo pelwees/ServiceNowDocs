@@ -27,7 +27,7 @@ Role required:
 ## About this task
 
 -   Follow this procedure to create a user preset that applies specified filter settings. Only you can apply your user presets to your personal view of the map.
--   In addition, admins can define shared presets that you and other users can access. For more information, see [Create or manage a shared preset](unified-map-manage-shared-preset.md).
+-   In addition, admins can define shared presets that you and other users can access. For more information, see [Create or manage a shared preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-shared-preset.md).
 
     When a user applies a shared preset or a user preset, all filter settings are overridden. Filter attributes from a shared preset or a user preset that do not apply to the current map are listed in the **Unused filter attributes** section of the filter panel. The order of filter-setting precedence from the various sources is as follows:
 
@@ -77,5 +77,5 @@ Role required:
 **Related topics**  
 
 
-[Use filters to specify which nodes should appear on a map](unified-map-configure-filters.md)
+[Use filters to specify which nodes should appear on a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-configure-filters.md)
 

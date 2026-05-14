@@ -17,7 +17,7 @@ The Manager Workspace landing page provides managers with real-time alerts and k
 
 The Manager Workspace landing page showcases the various available widgets.
 
-![manager dashboard with new widgets](../image/manager-workspace-landing-page.png "Manager dashboard landing page")
+![manager dashboard with new widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/manager-workspace-landing-page.png "Manager dashboard landing page")
 
 The landing page provides the real-time data of the current workload and the team performance.
 
@@ -66,9 +66,9 @@ The **AI Insights** tab introduces the following capabilities:
 **Related topics**  
 
 
-[Create Manager Workspace Landing Page](../task/create-configurable-csm-landing-page.md#)
+[Create Manager Workspace Landing Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/create-configurable-csm-landing-page.md#)
 
-[Use sentiment analysis dashboard](../../customer-service-management/concept/use-sentiment-analysis-dashboard.md)
+[Use sentiment analysis dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../customer-service-management/concept/use-sentiment-analysis-dashboard.md)
 
-[View trending topics dashboard](../../customer-service-management/concept/view-trending-topics-dashboard.md)
+[View trending topics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../customer-service-management/concept/view-trending-topics-dashboard.md)
 

@@ -107,5 +107,5 @@ Your request is submitted successfully.
 
 You can view and track the submitted requests by selecting **My Requests** on the global header navigation bar of the Employee Center portal.
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/audit-hardware-assets-attestation.md)
 

@@ -82,5 +82,5 @@ If your organization has processes to be run before or after the service fulfill
     4.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up the Catalog Builder](set-up-cat-builder.md)
+**Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 

@@ -33,7 +33,7 @@ Role required: analytics\_admin, mobile\_analytics\_admin, web\_analytics\_admin
 
 5.  Select **Update**.
 
-    ![Enable the Usage Insights application](../image/uxa-enable-application.png)
+    ![Enable the Usage Insights application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-enable-application.png)
 
     **Note:** ServiceNow collects basic usage data to improve products and services even when Usage Insights is inactive.
 
@@ -44,5 +44,5 @@ Assign a web\_analytics\_viewer or portal\_analytics\_viewer role to users to en
 
 [Track Usage Insights in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-sp-analytics-settings.md) to monitor key performance indicators with the Usage Insights application.
 
-**Parent Topic:**[Enable Usage Insights](enable-user-experience-analytics.md)
+**Parent Topic:**[Enable Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/enable-user-experience-analytics.md)
 

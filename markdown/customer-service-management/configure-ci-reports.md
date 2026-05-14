@@ -21,7 +21,7 @@ Role required: admin
 
 Reports are displayed in the Customer Information view in Agent Workspace.
 
-![Case overview displaying a circular graph that represents the overall progress of the case.](../image/customer-reports.jpg)
+![Case overview displaying a circular graph that represents the overall progress of the case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-reports.jpg)
 
 ## Procedure
 

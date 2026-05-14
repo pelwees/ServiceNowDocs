@@ -30,5 +30,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Email templates](../concept/c_EmailTemplates.md)
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_EmailTemplates.md)
 

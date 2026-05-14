@@ -54,5 +54,5 @@ Install Goal Framework by requesting it from the ServiceNow Store. Visit the [Se
     ServiceNow® Project Portfolio Management provides a simplified, team-oriented approach to managing project portfolios and IT development by combining several individual applications. In combination with the Goal Framework application, you can create a goal relationship with the Project and Demand work items and the Program strategic item.
 
 
-**Parent Topic:**[Strategic Portfolio Management release notes](it-business-management-rn-landing.md)
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-business-management-rn-landing.md)
 

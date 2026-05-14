@@ -38,6 +38,6 @@ Collected data is stored in the ServiceNow instance in either the CMDB \(Configu
 
 2.  On the Agent Client Collectors page, locate the **Host Data Collection** column for an agent.
 
-    A green Collected icon ![Collected icon](../image/collected-icon.png) indicates successful data collection for the specific agent.
+    A green Collected icon ![Collected icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/collected-icon.png) indicates successful data collection for the specific agent.
 
 

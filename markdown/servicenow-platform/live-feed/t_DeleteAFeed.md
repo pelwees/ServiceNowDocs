@@ -32,5 +32,5 @@ Role required: none
     The feed is deleted from Live Feed. Messages posted to a private feed are deleted. Messages posted to a public feed remain on the Company Feed without a feed link.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_UseFeedsInLiveFeed.md)
 

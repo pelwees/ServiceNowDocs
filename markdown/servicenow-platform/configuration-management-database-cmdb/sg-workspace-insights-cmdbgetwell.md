@@ -25,6 +25,6 @@ Role required: sn\_cmdb\_admin, asset, or itil\_admin
 
 For additional information, see:
 
--   [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md).
--   [CMDB Data Foundations dashboard](cmdb-data-foundations-dashboard.md).
+-   [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
+-   [CMDB Data Foundations dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-foundations-dashboard.md).
 

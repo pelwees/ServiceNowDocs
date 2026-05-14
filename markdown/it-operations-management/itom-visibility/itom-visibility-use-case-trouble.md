@@ -25,5 +25,5 @@ Here are alternative methods for defining application services:
 
 For more information about creating application services, see [Create an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
-**Parent Topic:**[ITOM Visibility and CSDM reference](itom-visibility-use-case-product-view.md)
+**Parent Topic:**[ITOM Visibility and CSDM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-use-case-product-view.md)
 

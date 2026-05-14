@@ -27,7 +27,7 @@ The event monitoring tool generates the values of the source and resource fields
 
 An event source may generate duplicate events with the same identifying information. For events with the same identifying information, Event Management uses the time interval between events to determine whether the events represent an existing issue or new issue.
 
-Additional fields should be included in the **Additional information** field of the event. Do not add additional fields to an event by adding a custom field to the event \[em\_event\] table. For more information about how to include additional fields in events, see [Custom alert fields](../concept/populate-custom-alert-fields.md).
+Additional fields should be included in the **Additional information** field of the event. Do not add additional fields to an event by adding a custom field to the event \[em\_event\] table. For more information about how to include additional fields in events, see [Custom alert fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/populate-custom-alert-fields.md).
 
 **Note:** Avoid writing business rules for event \[em\_event\] tables, as they can result in performance degradation.
 
@@ -203,7 +203,7 @@ A matching event rule or event field mapping
 
     For further ways to see which event rules were applied to the event, you can display the `Event rule` and `Processing Notes` fields in the Events list.
 
-    ![Optional event rule columns to show event rules](../image/event-rule-column.png)
+    ![Optional event rule columns to show event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-column.png)
 
 <table id="table_yjc_jtn_jcb"><thead><tr><th>
 
@@ -236,7 +236,7 @@ Information related to the binding to CI type and the event rules that were appl
 
         The event opens in the Event form.
 
-        ![Event Management manage event](../image/all-events-create-event-rule.png)
+        ![Event Management manage event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/all-events-create-event-rule.png)
 
     2.  Click **Create Event Rule**.
 

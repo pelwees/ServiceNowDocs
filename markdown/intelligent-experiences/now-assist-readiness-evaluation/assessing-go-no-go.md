@@ -22,7 +22,7 @@ An overall ready or action-required status is determined by percentage rules. A 
 
 The Now Assist Assessment Home Page tab details the Ready or Action Required for Now Assist agentic AI in ITSM and CSM.
 
-![Agentic AI Assessment Home Page tab showing a green Ready button for agentic AI in ITSM and yellow Action Required buttons for CSM and HRSD.](../image/nare-agentic-ai-assessment-home-page.png "Example of the Agentic AI Assessment Home Page")
+![Agentic AI Assessment Home Page tab showing a green Ready button for agentic AI in ITSM and yellow Action Required buttons for CSM and HRSD.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../image/nare-agentic-ai-assessment-home-page.png "Example of the Agentic AI Assessment Home Page")
 
 The Now Assist Assessment Home Page tab details the go or no-go status for Now Assist products and features, including:
 
@@ -32,7 +32,7 @@ The Now Assist Assessment Home Page tab details the go or no-go status for Now A
 -   for Now Assist for Customer Service Management \(CSM\)
 -   for Now Assist for HR Service Delivery \(HRSD\)
 
-![Now Assist Assessment Home Page tab showing Ready buttons and an Action Required button for supported Now Assist products.](../image/nare-home-na-assessment-home-page.png "Example of the Now Assist Assessment Home Page")
+![Now Assist Assessment Home Page tab showing Ready buttons and an Action Required button for supported Now Assist products.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../image/nare-home-na-assessment-home-page.png "Example of the Now Assist Assessment Home Page")
 
 Select the assessment feature's tile on the home page to be redirected to that assessment tab's report results.
 

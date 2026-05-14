@@ -203,10 +203,10 @@ Certified
 Option that designates if this network asset is certified.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inventory Model forms](tni-model-forms.md)
+</table>**Parent Topic:**[Inventory Model forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-model-forms.md)
 
 **Related topics**  
 
 
-[Create inventory models](../concept/creating-your-inventory-models.md)
+[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-your-inventory-models.md)
 

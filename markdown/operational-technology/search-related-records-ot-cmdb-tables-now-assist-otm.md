@@ -60,21 +60,21 @@ If there are less than five OT device records in the search results, then the ag
 
 Here are some examples of the form view.
 
-![Initiating the conversation in the Now Assist panel to search for OT network gear with a Purdue Level of 3](../image/search-ot-cmdb-initiate.png)
+![Initiating the conversation in the Now Assist panel to search for OT network gear with a Purdue Level of 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/search-ot-cmdb-initiate.png)
 
-![Conversation in the Now Assist panel to view the specified network gear in either a form or unified map.](../image/less-than-five-cmdb-search-results-form.png)
+![Conversation in the Now Assist panel to view the specified network gear in either a form or unified map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/less-than-five-cmdb-search-results-form.png)
 
-![Form view of the specified network gear accessible through a link in the Now Assist panel.](../image/cmdb-search-form-result.png)
+![Form view of the specified network gear accessible through a link in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/cmdb-search-form-result.png)
 
 Here are some examples of the unified map view.
 
-![Conversation in the Now Assist panel to view the specified OT control system in either a form or unified map.](../image/less-than-5-cmdb-search-results-map.png)
+![Conversation in the Now Assist panel to view the specified OT control system in either a form or unified map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/less-than-5-cmdb-search-results-map.png)
 
-![Unified map view of the specified OT control system accessible through a link in the Now Assist panel.](../image/cmdb-search-unified-map-result.png)
+![Unified map view of the specified OT control system accessible through a link in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/cmdb-search-unified-map-result.png)
 
 When more than five OT device records appear in the search results based on your search criteria, you can select the link in the Now Assist panel \(NAP\) to view them. Here's an example of the OT PLC search results.
 
-![Search results for OT PLCs are using the OT CMDB search function](../image/ot-cmdb-search.png)
+![Search results for OT PLCs are using the OT CMDB search function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/ot-cmdb-search.png)
 
-**Parent Topic:**[Using the OT Manager Foundation](../concept/using-now-assist-for-otm.md)
+**Parent Topic:**[Using the OT Manager Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/using-now-assist-for-otm.md)
 

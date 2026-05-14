@@ -35,9 +35,9 @@ Role required: agent\_workspace\_user
 
     **Note:** The Language list is populated based on the available translated versions of the article.
 
-5.  Copy the link to the knowledge article to your clipboard by clicking the more actions icon \(![More actions icon](../image/KnowledgeServicePortalOverflowIcon.png)\) and then clicking **Copy link**.
+5.  Copy the link to the knowledge article to your clipboard by clicking the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)\) and then clicking **Copy link**.
 
-6.  Download the article as a Microsoft Word document to your computer by selecting the more actions icon \(![More actions icon.](../image/KnowledgeServicePortalOverflowIcon.png)\) and then selecting **Download as Word**.
+6.  Download the article as a Microsoft Word document to your computer by selecting the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)\) and then selecting **Download as Word**.
 
     **Note:** This option appears only when the article was originally created using Microsoft Word and the administrator has enabled the **sn\_km\_word.glide.knowman.enable\_document\_download** property.
 
@@ -53,11 +53,11 @@ The selected version of the article opens in a knowledge article view page displ
 **Related topics**  
 
 
-[Viewing knowledge article details in Agent Workspace](../concept/knowledge-article-view-page-workspace.md)
+[Viewing knowledge article details in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-article-view-page-workspace.md)
 
-[Managing access to knowledge bases and knowledge articles](../concept/user-access-knowledge.md)
+[Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/user-access-knowledge.md)
 
-[Provide feedback for a knowledge article in Agent Workspace](respond-evaluate-articles-agent.md)
+[Provide feedback for a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/respond-evaluate-articles-agent.md)
 
-[Edit a knowledge article in Agent Workspace](edit-article-workspace.md)
+[Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace.md)
 

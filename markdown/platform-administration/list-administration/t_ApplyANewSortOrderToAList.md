@@ -23,10 +23,10 @@ Role required: none
 
 1.  Open the context menu from the list title and select **Sort by rank**.
 
-    ![Sort by rank](../image/SortByRank.png)
+    ![Sort by rank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/SortByRank.png)
 
 2.  To remove the ranking and return to the original order of the list, click the label in any column that contains data.
 
 
-**Parent Topic:**[Rank a list](t_RankingAList.md)
+**Parent Topic:**[Rank a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_RankingAList.md)
 

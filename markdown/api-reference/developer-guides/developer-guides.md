@@ -27,15 +27,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Alarm Management Open API Developer Guide](../telecom/concept/alarm-mgmt_dev-guide.md#)
+[Alarm Management Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/alarm-mgmt_dev-guide.md#)
 
 </td><td>
 
-Use the Alarm Management Open API to create and update data in the Events \[em\_event\] table. This developer guide provides information on how to extend the [Alarm Management Open API](../../inbound-rest/concept/alarm-open-api.md#) to make various customizations.
+Use the Alarm Management Open API to create and update data in the Events \[em\_event\] table. This developer guide provides information on how to extend the [Alarm Management Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../inbound-rest/concept/alarm-open-api.md#) to make various customizations.
 
 </td></tr><tr><td>
 
-[Event Notification Management Open API Developer Guide](../telecom/concept/event-mgmt-notif_dev-guide.md#)
+[Event Notification Management Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/event-mgmt-notif_dev-guide.md#)
 
 </td><td>
 
@@ -51,7 +51,7 @@ ServiceNow® Financial Services Operations \(FSO\) enables financial services in
 
 </td></tr><tr><td>
 
-[GlideGeoPoint Developer Guide](../GlideGeoPoint/concept/geopoint-dev-guide.md#)
+[GlideGeoPoint Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../GlideGeoPoint/concept/geopoint-dev-guide.md#)
 
 </td><td>
 
@@ -59,23 +59,23 @@ The GlideGeoPoint developer guide contains information about how to compute dist
 
 </td></tr><tr><td>
 
-[Product Order Open API Developer Guide](../telecom/concept/product-order_dev-guide.md#)
+[Product Order Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/product-order_dev-guide.md#)
 
 </td><td>
 
-Use the Product Order Open API to create, update, and retrieve product order information. This developer guide provides information on how to extend the [Product Order Open API](../../inbound-rest/concept/tmf622_product_ordering-api.md#) to make various customizations.
+Use the Product Order Open API to create, update, and retrieve product order information. This developer guide provides information on how to extend the [Product Order Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../inbound-rest/concept/tmf622_product_ordering-api.md#) to make various customizations.
 
 </td></tr><tr><td>
 
-[Resource Inventory Open API Developer Guide](../telecom/concept/resource-inventory-dev-guide.md#)
+[Resource Inventory Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/resource-inventory-dev-guide.md#)
 
 </td><td>
 
-Use the Resource Inventory Open API to create, retrieve, update, and delete resources such as interface cards, logical and physical connections, network sites, and more.This developer guide provides information on how to extend the [Resource Inventory Open API](../../inbound-rest/concept/resource-inventory-api.md#) to make various customizations.
+Use the Resource Inventory Open API to create, retrieve, update, and delete resources such as interface cards, logical and physical connections, network sites, and more.This developer guide provides information on how to extend the [Resource Inventory Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../inbound-rest/concept/resource-inventory-api.md#) to make various customizations.
 
 </td></tr><tr><td>
 
-[ScopedCacheManager API Developer Guide](../scopedcachemgr/concept/scoped-caches.md#)
+[ScopedCacheManager API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../scopedcachemgr/concept/scoped-caches.md#)
 
 </td><td>
 
@@ -83,19 +83,19 @@ Scoped caches allow customers to store custom data in memory for faster access, 
 
 </td></tr><tr><td>
 
-[Service Order Open API Developer Guide](../telecom/concept/service-order_dev-guide.md#)
+[Service Order Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/service-order_dev-guide.md#)
 
 </td><td>
 
-Use the Service Order Open API to create, update, and retrieve service order information. This developer guide provides information on how to extend the [Service Order Open API](../../inbound-rest/concept/service-order-open-api.md#) to make various customizations.
+Use the Service Order Open API to create, update, and retrieve service order information. This developer guide provides information on how to extend the [Service Order Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../inbound-rest/concept/service-order-open-api.md#) to make various customizations.
 
 </td></tr><tr><td>
 
-[Trouble Ticket Open API Developer Guide](../telecom/concept/trouble-ticket_dev-guide.md#)
+[Trouble Ticket Open API Developer Guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../telecom/concept/trouble-ticket_dev-guide.md#)
 
 </td><td>
 
-Use the Trouble Ticket Open API to manage ticket information between external ticketing systems and the ServiceNow AI Platform. This API creates, updates, and retrieves data from the Case \[sn\_customerservice\_case\] and Incident \[incident\] tables. This developer guide provides information on how to extend the [Trouble Ticket Open API](../../inbound-rest/concept/trouble-ticket-open-api.md#) to make various customizations.
+Use the Trouble Ticket Open API to manage ticket information between external ticketing systems and the ServiceNow AI Platform. This API creates, updates, and retrieves data from the Case \[sn\_customerservice\_case\] and Incident \[incident\] tables. This developer guide provides information on how to extend the [Trouble Ticket Open API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../inbound-rest/concept/trouble-ticket-open-api.md#) to make various customizations.
 
 </td></tr></tbody>
 </table>

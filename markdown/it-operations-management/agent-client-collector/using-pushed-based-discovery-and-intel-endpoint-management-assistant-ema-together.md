@@ -18,7 +18,7 @@ Agent Client Collector for Visibility - Content \(ACC-VC\) can collect data for 
 
 The Intel EMA application enables customers to configure access to the Intel Instance from their ServiceNow instance. For example, IT Support groups can open a remote console and perform some actions like power cycle from a ServiceNow incident.
 
-![ACC-VC can collect data for uses cases with the Intel vPro platform installed.](../image/intel_SN_platform.png "Intel + ServiceNow platform")
+![ACC-VC can collect data for uses cases with the Intel vPro platform installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/intel_SN_platform.png "Intel + ServiceNow platform")
 
-**Parent Topic:**[Agent Client Collector Discovery](acc-discovery.md)
+**Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 

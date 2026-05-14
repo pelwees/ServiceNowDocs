@@ -36,21 +36,21 @@ Role required: admin.
 
 ## Output of the sample Incident Metrics database view
 
-![Output of the sample Incident Metrics database view](../image/database-view-output.png)
+![Output of the sample Incident Metrics database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/database-view-output.png)
 
 ## What to do next
 
 To use the database view in a data visualization, select it from the data sources. Database views are listed under tables.
 
-![The Incident Metric database view selected for a visualization](../image/db-view-selection.png)
+![The Incident Metric database view selected for a visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/db-view-selection.png)
 
 You can create any visualization type using the database view. This example shows the database view visualized as vertical bar.
 
-![The incident metric database view visualized as a vertical bar grouped by escalation](../image/db-view-used-in-data-vis.png)
+![The incident metric database view visualized as a vertical bar grouped by escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/db-view-used-in-data-vis.png)
 
-**Parent Topic:**[Joining tables using database views](c_CreatingDatabaseViews.md)
+**Parent Topic:**[Joining tables using database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_CreatingDatabaseViews.md)
 
-**Previous topic:**[Configuring the number of records to return](../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
+**Previous topic:**[Configuring the number of records to return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
 
-**Next topic:**[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
+**Next topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 

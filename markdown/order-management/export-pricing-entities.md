@@ -56,5 +56,5 @@ Role required: sn\_csm\_pricing\_pricelist\_administrator
 
 ## What to do next
 
-[Import pricing entities](import-pricing-entities.md).
+[Import pricing entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/import-pricing-entities.md).
 

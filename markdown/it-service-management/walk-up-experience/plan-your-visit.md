@@ -42,7 +42,7 @@ Employee Center portal enables users to easily scale their service solutions acr
 
 6.  Select a reason for your visit.
 
-7.  Click the calendar icon \(![Calendar icon](../image/CalendarIcon.png)\) and select an available time slot.
+7.  Click the calendar icon \(![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/CalendarIcon.png)\) and select an available time slot.
 
 8.  Select the type of appointment.
 

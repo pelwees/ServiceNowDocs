@@ -27,7 +27,7 @@ Role required: sn\_align\_core.apw\_admin
 
 3.  Create a new table map by selecting **New** in the **Table maps** tab.
 
-4.  In the [Table map form](../reference/table-map-form-ppw.md), fill in the fields.
+4.  In the [Table map form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/table-map-form-ppw.md), fill in the fields.
 
 5.  Select **Submit**.
 
@@ -40,5 +40,5 @@ A new table map is created with your alignment and execution table configuration
 
 ## What to do next
 
-Create a business rule to support export of this new table map configuration to PPM. For more information, see [Create a business rule to apply a custom table map configuration](create-a-bussiness-rule-ppw.md).
+Create a business rule to support export of this new table map configuration to PPM. For more information, see [Create a business rule to apply a custom table map configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-a-bussiness-rule-ppw.md).
 

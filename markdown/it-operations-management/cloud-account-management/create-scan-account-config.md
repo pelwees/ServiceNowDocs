@@ -81,5 +81,5 @@ Information that can be recorded in work notes.
 
 ## What to do next
 
-[Review default Cloud Account Management certification policy](policy-setup.md)
+[Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 

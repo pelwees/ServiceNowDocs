@@ -25,7 +25,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 2.  Go to the **Talent pool** tab.
 
-3.  Select the filter icon ![Filter icon](../images/icon-filter.png) and select **Advanced view**.
+3.  Select the filter icon ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../images/icon-filter.png) and select **Advanced view**.
 
 4.  You can either filter the talent profiles by the applicant option or by user title option.
 
@@ -34,5 +34,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 5.  Select **Update** to set the filter conditions.
 
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-t-pool.md)
 

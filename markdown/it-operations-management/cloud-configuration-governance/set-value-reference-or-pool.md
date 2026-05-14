@@ -21,9 +21,9 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 Before you can follow this example, you should be familiar with creating blueprints and blueprint rules. See these resources:
 
--   [Cloud Provisioning Blueprints](../concept/blueprints.md)
--   [Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
--   [Configure a blueprint rule](configure-a-blueprint-rule.md#)
+-   [Cloud Provisioning Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/blueprints.md)
+-   [Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)
+-   [Configure a blueprint rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md#)
 
 ## About this task
 
@@ -43,11 +43,11 @@ The example in this topic sets the values in different ways:
 
     For this example, a blueprint with a virtual server on an AWS datacenter is used.
 
-    ![Virtual server on AWS](../image/blueprint-virtual-server-aws.png)
+    ![Virtual server on AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-virtual-server-aws.png)
 
 2.  On the blueprint form, click the **Catalog** tab, and then click the tile that represents the **Provision** operation.
 
-    ![Catalog item](../image/request-operation-catalog-item.png)
+    ![Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/request-operation-catalog-item.png)
 
 3.  Click the **General Info** variable set in the Variable Sets related list.
 
@@ -55,13 +55,13 @@ The example in this topic sets the values in different ways:
 
     Notice that the **Pool** field on the **Type Specifications** tab specifies the pool from which the values for the schedule profile are derived: ScheduleProfilePool.
 
-    The **ScheduleProfilePool** pool specifies the **All** filter, which returns the values in the Name field from the Schedule Profile \[sn\_cmp\_schedule\_profile\] table. These values are static text values, which means that you can specify the exact text value for the name of the schedule profile that you want to make the default. ![The ScheduleProfile pool](../image/schedule-profile-pool.png)
+    The **ScheduleProfilePool** pool specifies the **All** filter, which returns the values in the Name field from the Schedule Profile \[sn\_cmp\_schedule\_profile\] table. These values are static text values, which means that you can specify the exact text value for the name of the schedule profile that you want to make the default. ![The ScheduleProfile pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schedule-profile-pool.png)
 
 5.  On the **Default Value** tab of the ScheduleProfile property form, enter the text that matches the value in the Name field from the Schedule Profile \[sn\_cmp\_schedule\_profile\] table.
 
     In this example, that value is `8-5 weekdays`.
 
-    ![8-5 Weekdays](../image/schedule-profile-default-value.png)
+    ![8-5 Weekdays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schedule-profile-default-value.png)
 
 6.  Click **Update**.
 
@@ -69,7 +69,7 @@ The example in this topic sets the values in different ways:
 
     Notice that the **Reference** field on the **Type Specifications** tab specifies the Service \[cmdb\_ci\_service\] table, from which the values for the business service are derived.
 
-    ![The Business Service property](../image/business-service-property.png)
+    ![The Business Service property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/business-service-property.png)
 
     By default, to refer to a specific record in a table, you must know the Sys ID of the record.
 
@@ -83,7 +83,7 @@ The example in this topic sets the values in different ways:
 
         This example uses **Workday Enterprise Services**.
 
-        ![Copy the Sys ID](../image/copy-workday-sys-id.png)
+        ![Copy the Sys ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/copy-workday-sys-id.png)
 
 9.  On the **BusinessService** variable form, create a rule, action, and condition with these values:
 
@@ -134,18 +134,18 @@ The Sys ID of the business service that you copied.
 </td></tr></tbody>
 </table>        In this example, the business service is set to Workday Enterprise Services by default, which is represented in the system with the Sys ID that you already copied.
 
-        ![Business Service Rule with default value](../image/bp-set-business-service-action.png)
+        ![Business Service Rule with default value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/bp-set-business-service-action.png)
 
     6.  Click **Submit**.
 
 
 ## Result
 
-![Default values for schedule profile and business service](../image/cloud-management-v2-admin.png)
+![Default values for schedule profile and business service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/cloud-management-v2-admin.png)
 
 ## What to do next
 
 You can create a condition or multiple conditions that must be met before the system sets the default value for the business service. For example, you might want to change the default value of business service to Workday Enterprise Services only when the group that the user belongs to is the Workday Admins group.
 
-**Parent Topic:**[Cloud catalog form configuration examples](../concept/example-blueprint-rules.md)
+**Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/example-blueprint-rules.md)
 

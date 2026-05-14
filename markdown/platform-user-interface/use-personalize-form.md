@@ -25,13 +25,13 @@ Role required: workspace\_user
 
     The More form options list opens.
 
-    ![More form options personalize form.](../image/more-form-options-personalize-form.png)
+    ![More form options personalize form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/more-form-options-personalize-form.png)
 
 3.  Select **Personalize Form**.
 
     The Personalize Form dialog box opens.
 
-    ![Personalize form card.](../image/more-form-options-personalize-form-card.png)
+    ![Personalize form card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/more-form-options-personalize-form-card.png)
 
 4.  Select fields you want to view and deselect fields you don't want to view.
 

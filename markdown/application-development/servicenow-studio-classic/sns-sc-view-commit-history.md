@@ -17,7 +17,7 @@ View the commit history of apps linked to a source control repository in Service
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 Role required: admin
 
@@ -45,5 +45,5 @@ Role required: admin
 7.  Close the commit history window.
 
 
-**Parent Topic:**[Source control in ServiceNow Studio](../concept/source-control-in-servicenow-studio.md)
+**Parent Topic:**[Source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/source-control-in-servicenow-studio.md)
 

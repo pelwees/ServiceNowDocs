@@ -20,5 +20,5 @@ Additional approvers can be added by clicking the **Edit** button in the Approve
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../reference/r_Approvals.md)
 

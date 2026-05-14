@@ -31,13 +31,13 @@ Role required: sn\_model\_risk\_mgmt.model\_validator
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the Evidence request form, see [Request evidence form](../reference/request-evidence-form-mrm.md).
+    For a description of the field values on the Evidence request form, see [Request evidence form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/request-evidence-form-mrm.md).
 
 7.  Select **Request**.
 
 
--   **[Request evidence form](../reference/request-evidence-form-mrm.md)**  
+-   **[Request evidence form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/request-evidence-form-mrm.md)**  
 Use this form to electronically request the information needed from the model owner to perform model validation.
 
-**Parent Topic:**[Perform model validation](perform-model-risk-validation.md)
+**Parent Topic:**[Perform model validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-validation.md)
 

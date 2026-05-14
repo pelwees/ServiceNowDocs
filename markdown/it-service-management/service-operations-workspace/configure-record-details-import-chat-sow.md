@@ -23,9 +23,9 @@ Role required: admin
 
 When you view or import a Microsoft Teams chat conversation for a task record, the record details are displayed in the **Details** section of the **MS Teams Import** tab. These details are configured in the **Script** field of an implementation corresponding to the task record in the sn\_tcm\_collab\_hook.MSTeamsTaskInfoCardHandler extension point.
 
-For information about collaborating on a task record using Microsoft Teams chat, see [Collaborate on a task record using Microsoft Teams in Service Operations Workspace](start-msteams-chat-sow.md).
+For information about collaborating on a task record using Microsoft Teams chat, see [Collaborate on a task record using Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/start-msteams-chat-sow.md).
 
-![MS Teams Import tab.](../image/ms-teams-chat-page.png "MS Teams Import tab")
+![MS Teams Import tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/ms-teams-chat-page.png "MS Teams Import tab")
 
 ## Procedure
 
@@ -40,5 +40,5 @@ For information about collaborating on a task record using Microsoft Teams chat,
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](../concept/configuring-sow-to-improve-experience.md)
+**Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-sow-to-improve-experience.md)
 

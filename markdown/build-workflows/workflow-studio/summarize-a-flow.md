@@ -38,7 +38,7 @@ Turn on the flow summarization skill. See [Turn on the flow summarization skill]
 
 5.  From the Flow summary dialog box, select **Summarize**.
 
-    ![An example summary of the Change - Standard flow.](../images/flow-summary-03.png)
+    ![An example summary of the Change - Standard flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-summary-03.png)
 
 
 ## Result
@@ -49,5 +49,5 @@ Now Assist for Creator generates a summary of the flow. The flow summary also di
 
 You can regenerate the flow summary by selecting the **Refresh summary** icon next to the summary creation date.
 
-**Parent Topic:**[Building flows](../concept/flows.md)
+**Parent Topic:**[Building flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flows.md)
 

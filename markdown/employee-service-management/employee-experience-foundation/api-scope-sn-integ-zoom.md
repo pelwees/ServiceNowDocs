@@ -27,5 +27,5 @@ The list of the API permissions/scope requested by the ServiceNow Collaboration 
 |imchat:read:admin|View all users’ history and channels.|
 |imchat:bot|Enable chatbot within Zoom Chat Client.|
 
-**Parent Topic:**[Collaboration services for Zoom reference](reference-sn-zoom.md)
+**Parent Topic:**[Collaboration services for Zoom reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-zoom.md)
 

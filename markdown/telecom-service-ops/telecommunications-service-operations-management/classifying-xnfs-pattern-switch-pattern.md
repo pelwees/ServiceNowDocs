@@ -31,7 +31,7 @@ Classifier name: **Standard Network Switch**.
 
     **Note:**
 
-    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](../concept/telecom-discovery-using-telecommunication-discovery-pattern.md).
+    For more information on how to add additional OIDs to the classifier, see [Direct Discovery using Discovery Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/telecom-discovery-using-telecommunication-discovery-pattern.md).
 
     MiB Tables Used on an xNF:
 
@@ -41,5 +41,5 @@ Classifier name: **Standard Network Switch**.
     -   IfXMIB
     -   IpMIB
 
-**Parent Topic:**[Use Telecom Discovery patterns](../concept/using-telecom-discovery-patterns.md)
+**Parent Topic:**[Use Telecom Discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/using-telecom-discovery-patterns.md)
 

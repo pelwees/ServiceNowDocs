@@ -27,7 +27,7 @@ Update the table configuration to get the required search results.
 
 To create a table configuration, see [Configure table for a contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_DefineContextualSearchForForm.md).
 
-**Important:** Use this process if you're using a SOW version prior to 4.0. If you're using the version after 4.0, you can use **SOW Sidebar tabs top** Page collection to enable or disable the Agent Assist tab. For more information, see [Edit the table configuration for Agent Assist in Service Operations Workspace using the Standard Record Page](edit-the-table-configuration-for-agent-assist-in-service-operations-workspace-using-standard-record-page.md).
+**Important:** Use this process if you're using a SOW version prior to 4.0. If you're using the version after 4.0, you can use **SOW Sidebar tabs top** Page collection to enable or disable the Agent Assist tab. For more information, see [Edit the table configuration for Agent Assist in Service Operations Workspace using the Standard Record Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/edit-the-table-configuration-for-agent-assist-in-service-operations-workspace-using-standard-record-page.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ To create a table configuration, see [Configure table for a contextual search](h
 
 2.  In the search box, enter `sys_ux_screen_type.list` and press Enter.
 
-3.  Select the filter icon \(![Filter icon](../../configurable-workforce-optimization-itsm/image/show-filter-icon.png)\), enter **\[Name\] \[contains\] \[Agent Assist\]** and **\[Application\] \[is\] \[Service Operations Workspace\]**, and select **Run**.
+3.  Select the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/show-filter-icon.png)\), enter **\[Name\] \[contains\] \[Agent Assist\]** and **\[Application\] \[is\] \[Service Operations Workspace\]**, and select **Run**.
 
 4.  Search for name containing: **Agent Assist** and Application is the workspace name: **Service Operations Workspace**.
 
@@ -45,14 +45,14 @@ To create a table configuration, see [Configure table for a contextual search](h
 
 7.  To add the property and relevant sys ID of the table configuration in the **Macroponent Configuration**, do the following:
 
-    1.  Enter the new table name and the sys\_id of the required table configuration.![UX Screen form with callouts the additions to the Macroponent Configuration field](../image/screen_variant_srp.png)
+    1.  Enter the new table name and the sys\_id of the required table configuration.![UX Screen form with callouts the additions to the Macroponent Configuration field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/screen_variant_srp.png)
 
         **Note:** To copy the sys\_id, navigate to **Table Configuration** &gt; **Copy\_sysid**.
 
     2.  Select **Update**.
 
-        To enable or disable Agent Assist tab, see [Configure the Agent Assist tab in Service Operations Workspace](configure-the-agent-assist-tab-in-service-operations-workspace.md).
+        To enable or disable Agent Assist tab, see [Configure the Agent Assist tab in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-the-agent-assist-tab-in-service-operations-workspace.md).
 
 
-**Parent Topic:**[Configure the Agent Assist tab in Service Operations Workspace](configure-the-agent-assist-tab-in-service-operations-workspace.md)
+**Parent Topic:**[Configure the Agent Assist tab in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-the-agent-assist-tab-in-service-operations-workspace.md)
 

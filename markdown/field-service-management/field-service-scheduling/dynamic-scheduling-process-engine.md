@@ -54,10 +54,10 @@ The following are the key steps involved in the dynamic scheduling process:
 
 The following is the process flow diagram for Dynamic Scheduling.
 
-![Dynamic scheduling process flow](../image/dynamic-scheduling-process-engine-flow.png)
+![Dynamic scheduling process flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/dynamic-scheduling-process-engine-flow.png)
 
 **Related topics**  
 
 
-[Roles and personas required for Dynamic Scheduling](roles-and-personas-for-dynamic-scheduling.md)
+[Roles and personas required for Dynamic Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/roles-and-personas-for-dynamic-scheduling.md)
 

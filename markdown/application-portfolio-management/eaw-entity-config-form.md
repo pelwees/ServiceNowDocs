@@ -72,5 +72,5 @@ View
 Name of the form view for the entity. This is the view that opens in the side panel when an entity is opened in the Enterprise Modeling and Visualization diagram. For example, the views available for a business application are Default view, Business Application view, Business Applications view, Business Application ReadOnly view.**Note:** If this field is empty, the Default view gets applied for the entity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

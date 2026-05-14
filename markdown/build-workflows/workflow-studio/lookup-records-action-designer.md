@@ -60,7 +60,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Outputs
@@ -92,7 +92,7 @@ Use these general guidelines when working with the Look Up Records action.
 
 -   **Process records with For Each flow logic**
 
-    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](../concept/flow-logic-for-each.md). Alternatively, you can use a Script step to process a list of records within a custom action.
+    Use For Each flow logic to iterate through a list of records. For more information about using For Each flow logic, see [For Each flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-logic-for-each.md). Alternatively, you can use a Script step to process a list of records within a custom action.
 
 -   **Set Max Results to improve performance**
 
@@ -105,7 +105,7 @@ Use these general guidelines when working with the Look Up Records action.
 
 ## Example
 
-![Example Look Up Records step in an action.](../images/look-up-records-example.png)
+![Example Look Up Records step in an action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/look-up-records-example.png)
 
-**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

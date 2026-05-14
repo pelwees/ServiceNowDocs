@@ -60,14 +60,14 @@ Steps
 3.  Track the progress of your portfolio by reviewing the status of key parameters in the **Timeline View** tab.
 
     -   Details such as planned and actual costs, variance, planned and end dates, and priorities for the selected demands and projects.
-    -   Identify the projects that are dependent on each other by viewing external dependencies between projects in a portfolio. For more information, see [Review external dependencies between projects](sp-review-ext-dependencies-between-prj.md).
+    -   Identify the projects that are dependent on each other by viewing external dependencies between projects in a portfolio. For more information, see [Review external dependencies between projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/sp-review-ext-dependencies-between-prj.md).
     -   Track the current status of an individual project by viewing the latest project status report by selecting the **Status Report** option.
     -   Track the progress of project tasks in an individual project in your portfolio using the **Planning Console** option. This option is available in the context menu for a project.
 4.  Check status information such as the overall health, schedule, cost, resources, and scope of all selected projects in the portfolio in the **Project KPIs** tab.
 
     The most recent status report created for a project populates this information. Point to a status indicator to view comments entered by the project manager for that KPI.
 
-    **Note:** A grey X icon \(![No comments icon](../image/grey_icon.png)\) next to any project KPI indicates that the project manager has not entered any comments for that aspect in the status report.
+    **Note:** A grey X icon \(![No comments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/../image/grey_icon.png)\) next to any project KPI indicates that the project manager has not entered any comments for that aspect in the status report.
 
 5.  Review cost and resource-related information in the **Cost \(Budget vs. Actual\)** and **Resource \(Allocated vs. Actual\)** charts.
 
@@ -81,5 +81,5 @@ Steps
 6.  Track the risks, issues, decisions, actions, and the project change requests across all selected projects in the portfolio by going to the **Risks**, **Issues**, **Decisions**, **Actions**, and **Changes** tabs.
 
 
-**Parent Topic:**[Scenario Planning for PPM](../concept/portfolio-planning-overview.md)
+**Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/../concept/portfolio-planning-overview.md)
 

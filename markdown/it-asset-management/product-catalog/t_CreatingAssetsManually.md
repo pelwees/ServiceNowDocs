@@ -41,16 +41,16 @@ Follow these steps to create an asset manually.
     This action creates assets from all CIs deferred for verification in this model category. This option is only available for users with the admin role.
 
 
-**Parent Topic:**[Model categories](../concept/c_ModelCategories.md)
+**Parent Topic:**[Model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ModelCategories.md)
 
 **Related topics**  
 
 
-[View model categories](t_ViewingModelCategories.md)
+[View model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewingModelCategories.md)
 
-[Create model categories](t_CreatingModelCategories.md)
+[Create model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingModelCategories.md)
 
-[Edit model categories](t_EditingModelCategories.md)
+[Edit model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_EditingModelCategories.md)
 
-[Delete model categories](t_DeletingModelCategories.md)
+[Delete model categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_DeletingModelCategories.md)
 

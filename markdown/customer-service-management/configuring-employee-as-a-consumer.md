@@ -51,9 +51,9 @@ You can synchronize all types of user records by customizing the business rule. 
 **Related topics**  
 
 
-[Roles installed with Employee as a Consumer](../reference/roles-installed-with-employee-as-consumer.md)
+[Roles installed with Employee as a Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/roles-installed-with-employee-as-consumer.md)
 
-[Supported and unsupported roles and features](../reference/features-supp-and-unsupp-by-unified-consumer.md)
+[Supported and unsupported roles and features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/features-supp-and-unsupp-by-unified-consumer.md)
 
-[Setting up a user as a Unified Consumer](setting-up-a-user.md)
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-a-user.md)
 

@@ -18,17 +18,17 @@ Through Legal Service Delivery \(LSD\) and Contract Management Pro \(CM Pro\) of
 -   Legal Service Delivery provides a unified experience between the employees requesting legal support and the legal teams serving them.
 -   Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
 
-![Overview image of Legal and Contract Operations displaying the various components of Legal Service Delivery and Contract Management Pro.](../image/MMASSET0021500_LCO.png "Legal and Contract Operations")
+![Overview image of Legal and Contract Operations displaying the various components of Legal Service Delivery and Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/MMASSET0021500_LCO.png "Legal and Contract Operations")
 
 ## Get started
 
 <table id="table_dhh_5nz_sgc" class="nav-card presentation"><tbody><tr><td>
 
-[Contract Management Pro![](../../../reuse/icons/brand-icons/bus-contract.svg)Streamline your contract lifecycle with Contract Management Pro — bringing CLM capabilities, intelligent automation, and seamless integration into your workflow.](cncore-cmpro-landing-page.md)
+[Contract Management Pro![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-contract.svg)Streamline your contract lifecycle with Contract Management Pro — bringing CLM capabilities, intelligent automation, and seamless integration into your workflow.](cncore-cmpro-landing-page.md)
 
 </td><td>
 
-[Legal Service Delivery![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn how to automate or streamline routine legal requests to focus on higher value work.](../../legal-request-management/concept/legal-management-overview.md)
+[Legal Service Delivery![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Learn how to automate or streamline routine legal requests to focus on higher value work.](../../legal-request-management/concept/legal-management-overview.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

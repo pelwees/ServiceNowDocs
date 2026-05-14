@@ -33,7 +33,7 @@ Values in the user preference **my\_home\_navigation\_page** override the value 
 
     **Note:** When you copy the URL information, be sure to replace HTML entities with their decoded values. For example, replace the entity `%24` with `$`.
 
-    ![System Property glide.login.home form with a dashboard URL segment in the Value field](../image/set-ui16-landing.png)
+    ![System Property glide.login.home form with a dashboard URL segment in the Value field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/set-ui16-landing.png)
 
 3.  Select **Update**.
 
@@ -44,5 +44,5 @@ Values in the user preference **my\_home\_navigation\_page** override the value 
 
 When users log in, they see the selected landing page instead of the default.
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-landing-pages.md)
 

@@ -17,7 +17,7 @@ Add or remove application entitlements to limit which instances the application 
 
 ## Before you begin
 
-You can manage only the applications that you've published to the application repository. For more information, see [Publish an application to the application repository](t_PublishAppsToTheAppRepository.md).
+You can manage only the applications that you've published to the application repository. For more information, see [Publish an application to the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/t_PublishAppsToTheAppRepository.md).
 
 Role required: none
 

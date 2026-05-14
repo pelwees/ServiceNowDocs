@@ -36,5 +36,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring Risk Management](../concept/configure-risk-mgmt.md)
+**Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/configure-risk-mgmt.md)
 

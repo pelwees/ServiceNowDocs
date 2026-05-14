@@ -31,7 +31,7 @@ Add rows to the Product Order Fulfillment Policy decision table to specify which
 
     1.  Select **true** in the Move Operation column.
     2.  Select **Change** in the action column.
-    ![product order fulfillment policy.](../image/product-order-fulfillment-policy.png)
+    ![product order fulfillment policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/product-order-fulfillment-policy.png)
 
 4.  To trigger separate subflow for change and not move, do the following:
 
@@ -44,5 +44,5 @@ Add rows to the Product Order Fulfillment Policy decision table to specify which
 
 A list of subflows appear in the results section. These sub flows create the fulfillment tasks for an order line item during the fulfillment process. For more information, see [Decision Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/decision-builder-user-interface.md).
 
-**Parent Topic:**[Configuring Order Management](../concept/order-mgt-configuring.md)
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-configuring.md)
 

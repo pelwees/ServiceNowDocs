@@ -29,7 +29,7 @@ You can have multiple active API tokens at the same time and track the usage of 
 
 1.  In the Jenkins banner frame, select your user name to open the user menu.
 
-2.  Select **Security**. ![Security page for a Jenkins user](../image/jenkins-add-api-token.png)
+2.  Select **Security**. ![Security page for a Jenkins user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jenkins-add-api-token.png)
 
 3.  In the Security page, select **Add new Token**.
 

@@ -55,7 +55,7 @@ Duplication rule
 
 </td><td>
 
-Governs how to handle source records that would generate a duplicate record. For more information, see [Shared data transformation](../concept/shared-data-transformation.md).
+Governs how to handle source records that would generate a duplicate record. For more information, see [Shared data transformation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/shared-data-transformation.md).
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Description for the field map.
 
     **Field Mapping Fields** tab appears. This record defines what data is placed in the target field, in records created by this field transform.
 
-    ![Field Mapping form](../image/FieldMapping.png)
+    ![Field Mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/FieldMapping.png)
 
 5.  Select **New**.
 
@@ -228,5 +228,5 @@ Auto-populated with the source table.
 </table>7.  Click **Submit.**
 
 
-**Parent Topic:**[Security Operations field mapping](../concept/field-mapping.md)
+**Parent Topic:**[Security Operations field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/field-mapping.md)
 

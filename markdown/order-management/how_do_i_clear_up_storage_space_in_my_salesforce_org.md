@@ -21,7 +21,7 @@ One option is to remove records from the ConfigurationBOM table. For managed pac
 
 1.  Setup cog in SFDC → Developer Console → Debug \[Open Execute Anonymous Window\]
 
-    ![Menu](../images/cpq-using-apex-anonymous-window.png)
+    ![Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-using-apex-anonymous-window.png)
 
 2.  Paste and execute the following:
 

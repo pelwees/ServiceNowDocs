@@ -27,22 +27,22 @@ Sample use case: When a service provider \(SP\) uses chat to respond to a tenant
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Scaled Agile Framework \(SAFe\)](SAFeoverview.md)
+**Parent Topic:**[Scaled Agile Framework \(SAFe\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/SAFeoverview.md)
 
 **Related topics**  
 
 
-[Business stakeholder role for Essential SAFe and Portfolio SAFe](../reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
+[Business stakeholder role for Essential SAFe and Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/business-stakeholder-role-for-essential-safe-and-portfolio-safe.md)
 
-[Essential SAFe](essential-overview.md)
+[Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/essential-overview.md)
 
-[Portfolio SAFe](portfolio-overview.md)
+[Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-overview.md)
 
-[SAFe — Unified Backlog](../../safe-unified-backlog/concept/safeunified-backlog.md)
+[SAFe — Unified Backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../safe-unified-backlog/concept/safeunified-backlog.md)
 
-[Performance Analytics Content Pack for Essential SAFe](../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
+[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../../use/dashboards/application-content-packs/pa-content-pack-essential-safe.md)
 
-[Work Progress Status for SAFe](../../work-progress-status-safe/concept/work-progress-status-safe-overview.md)
+[Work Progress Status for SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../work-progress-status-safe/concept/work-progress-status-safe-overview.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

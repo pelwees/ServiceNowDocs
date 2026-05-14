@@ -73,10 +73,10 @@ Role required: ia\_admin or admin
 
 7.  Select **Run**.
 
-    ![Incident communication plan report](../image/IAReportResolved.png)
+    ![Incident communication plan report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../image/IAReportResolved.png)
 
     **Note:** You can also choose a graphical representation for the report or narrow down the result using the **Type** and **Configure** options.
 
 
-**Parent Topic:**[Managing Incident Communications](../concept/working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/working-with-inci-comm-mgmt.md)
 

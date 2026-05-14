@@ -31,7 +31,7 @@ After registering and logging in to the Consumer Service Portal, consumers can:
 
 Your consumer service portal activity usually begins on the consumer service portal homepage. If you are a logged in user, you see different information than non-logged in users. Your organization can customize the homepage.
 
-**Note:** A new consumer service portal experience is available on the Consumer Portal. For details, see [Using the Consumer Portal](use-consumer-portal.md).
+**Note:** A new consumer service portal experience is available on the Consumer Portal. For details, see [Using the Consumer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-consumer-portal.md).
 
 |UI component|Description|
 |------------|-----------|
@@ -64,5 +64,5 @@ To customize this portal, navigate to **Service Portal** &gt; **Portals** and cl
 **Related topics**  
 
 
-[Portal usage calculation](../reference/csm-portal-user-sessions-timeouts.md)
+[Portal usage calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-portal-user-sessions-timeouts.md)
 

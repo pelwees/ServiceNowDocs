@@ -19,23 +19,23 @@ The Document Management applications allows management of large numbers of docum
 
 <table id="table_r33_1hn_tyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Document Management](explore-doc-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Document Management](explore-doc-management.md)
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Document Management](../task/activate-doc-mgmt-plugin.md)
+[Activate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-manage.svg)Activate Document Management](../task/activate-doc-mgmt-plugin.md)
 
 </td><td>
 
-[Access![](../../../reuse/icons/brand-icons/bus-security.svg)Access Document Management](document-access-settings.md)
+[Access![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-security.svg)Access Document Management](document-access-settings.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Document Management](using-document-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Document Management](using-document-management.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference Document Management](reference-document-management.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../../reuse/icons/brand-icons/bus-learn.svg)Reference Document Management](reference-document-management.md)
 
 </td><td>
 

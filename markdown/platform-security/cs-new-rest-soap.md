@@ -60,5 +60,5 @@ Role required: security\_admin
         The update set is committed successfully.
 
 
-**Parent Topic:**[Sign the REST and SOAP messages in the production instance](cs-rest-soap.md)
+**Parent Topic:**[Sign the REST and SOAP messages in the production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-rest-soap.md)
 

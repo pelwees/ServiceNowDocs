@@ -40,8 +40,8 @@ Role required: admin or assessment\_admin
 7.  Click **Submit**.
 
 
--   **[Configure metric categories or metrics for a quiz using the question bank](configure-questionbank-quiz.md)**  
+-   **[Configure metric categories or metrics for a quiz using the question bank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-quiz.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a quiz.
 
-**Parent Topic:**[Using Quizzes](../concept/using-quizzes.md)
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/using-quizzes.md)
 

@@ -33,5 +33,5 @@ Role required: admin or both sn\_customerservice.proxy\_contact and sn\_customer
 **Related topics**  
 
 
-[Install the ServiceNow Add-in for Microsoft Outlook](install-servicenow-outlook.md)
+[Install the ServiceNow Add-in for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/install-servicenow-outlook.md)
 

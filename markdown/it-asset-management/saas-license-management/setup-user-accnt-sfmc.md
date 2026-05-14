@@ -98,7 +98,7 @@ Role required: admin
 **Related topics**  
 
 
-[Integrate Salesforce Marketing Cloud using basic authentication](integrate-sfmc-basicauth.md#)
+[Integrate Salesforce Marketing Cloud using basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#)
 
-[Integrate Salesforce Marketing Cloud using OAuth 2.0](integrate-sfmc-oauth.md#)
+[Integrate Salesforce Marketing Cloud using OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#)
 

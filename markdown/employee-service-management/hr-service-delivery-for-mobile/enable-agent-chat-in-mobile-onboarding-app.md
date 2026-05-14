@@ -21,8 +21,8 @@ Role required: sn\_hr\_le.admin
 
 Make sure that live and/or virtual chat are set up for use in the Employee Service Center.
 
--   [Employee live chat overview](../../employee-center/concept/employee-center-chat-configuration.md)
--   [Virtual Agent for HR Service Delivery](../concept/hr-virtual-agent-conversations.md#)
+-   [Employee live chat overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../../employee-center/concept/employee-center-chat-configuration.md)
+-   [Virtual Agent for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../concept/hr-virtual-agent-conversations.md#)
 
 Role required: sn\_hr\_le.admin
 
@@ -32,16 +32,16 @@ Role required: sn\_hr\_le.admin
 
 2.  Open the **Onboarding Homepage** record.
 
-    ![Open the record for the Mobile Onboarding app.](../image/mobile-onboarding-homepage-record.png)
+    ![Open the record for the Mobile Onboarding app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-homepage-record.png)
 
 3.  In the Body related list, under the Quick Actions Menu Maps section, open the **Chat** record.
 
-    ![Open the Chat record.](../image/mobile-onboarding-chat-record.png)
+    ![Open the Chat record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-chat-record.png)
 
 4.  Select the **Active** option to activate the quick action for use.
 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Administer Now Mobile](../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
+**Parent Topic:**[Administer Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
 

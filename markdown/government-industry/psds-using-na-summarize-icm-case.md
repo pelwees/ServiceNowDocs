@@ -46,7 +46,7 @@ Role required: admin
 
 2.  In the Case summary by Now Assist component, select **Summarize**.
 
-    ![AI-generated case summary for a case record.](../image/now_assist_psds_case_summary.png "Case record with case summary")
+    ![AI-generated case summary for a case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/now_assist_psds_case_summary.png "Case record with case summary")
 
 3.  When you're finished summarizing a case, you can add it to the case work notes, expand or collapse it, provide feedback, copy it, or view information about it.
 
@@ -75,7 +75,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d49570e224">
 
@@ -83,7 +83,7 @@ Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) o
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d49570e247">
 
@@ -91,7 +91,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d49570e263">
 
@@ -99,7 +99,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-cop
 
 </td><td>
 
-If you want to view more details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to view more details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

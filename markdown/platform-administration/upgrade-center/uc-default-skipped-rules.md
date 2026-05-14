@@ -35,18 +35,18 @@ The following is the list of tables from which if any skipped record is being ge
 
 The skipped records that are retained automatically by the default skipped rules are found in the Skipped Changes Reviewed related list.
 
-![Image showing retained skipped rules in the Skipped Changes Reviewed related list](../image/uc-default-skipped-rules.png)
+![Image showing retained skipped rules in the Skipped Changes Reviewed related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-default-skipped-rules.png)
 
 **Note:** You can also find a comment for each retained skipped records to show the related table it was generated from during the upgrade process.
 
-**Parent Topic:**[Upgrade Center references](../reference/uc-reference.md)
+**Parent Topic:**[Upgrade Center references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-reference.md)
 
 **Related topics**  
 
 
-[Upgrade Center properties](../reference/uc-properties.md)
+[Upgrade Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-properties.md)
 
-[Upgrade Center VTB Labels list](../reference/uc-vtb-labels-list.md)
+[Upgrade Center VTB Labels list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-vtb-labels-list.md)
 
-[Upgrade Center roles](../reference/uc-roles.md)
+[Upgrade Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-roles.md)
 

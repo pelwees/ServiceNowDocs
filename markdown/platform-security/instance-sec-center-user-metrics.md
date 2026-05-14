@@ -30,7 +30,7 @@ Indicates the number of users with the following high privilege role types:
 |ais\_high\_security\_admin|Elevated privilege role that enables a user to access High Security settings for AI Search. To learn more, see [Assign roles to AI Search administrators and users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/assign-ais-admin-role.md).|
 |password\_reset\_admin|Administrator role that enables a user to view the status of password reset activities, identify potential security threats, and monitor for compliance with password security policies. To learn more, see [Password Reset and Password Change reports and logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_MonitorPasswordResetActivity.md).|
 |script\_include\_admin|Administrator role that also has access to script includes.|
-|security\_admin|Elevated privilege role that enables a user to create and change access controls and High Security Settings. To learn more, see [Security\_admin role](security-admin-role.md)|
+|security\_admin|Elevated privilege role that enables a user to create and change access controls and High Security Settings. To learn more, see [Security\_admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-admin-role.md)|
 |user\_admin|Administrator role that can also manage users, roles, user groups, roles, and department assignments.|
 
 **Note:** To learn more about these administrative role types, see [Special administrative roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_SpecialAdministrativeRoles.md).
@@ -74,7 +74,7 @@ To view user detail for a specific event count \(for example, Impersonation\):
 -   Click the user count metric. The Security Dashboard Event Logs page lists event logs for that type of event.
 -   Click a user name to view more details about that event.
 
-**Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
 **Related topics**  
 

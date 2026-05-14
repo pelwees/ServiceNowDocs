@@ -27,7 +27,7 @@ Role required: sn\_msi.workspace\_manager
 
 3.  Select the **Start a conference call** action.
 
-4.  You can also start a conference call by selecting the ![Conference call](../image/msim-conf-call-icon.png) icon on the right-context menu and selecting the + icon.
+4.  You can also start a conference call by selecting the ![Conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-call-icon.png) icon on the right-context menu and selecting the + icon.
 
     The Start conference call pop-up appears.
 
@@ -35,7 +35,7 @@ Role required: sn\_msi.workspace\_manager
 
 6.  In the Title field, provide a title that describes the reason for the Microsoft Teams conference call.
 
-    ![Steps to start a conference call using Microsoft Teams](../image/msim-conf-calls-teams.png "Using the Conference Call Microsoft Teams integration")
+    ![Steps to start a conference call using Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-calls-teams.png "Using the Conference Call Microsoft Teams integration")
 
 7.  In the Add participants field, select the participants for the Microsoft Teams conference call.
 
@@ -57,12 +57,12 @@ Role required: sn\_msi.workspace\_manager
 
     The participants can use the link from the MSIM email notification or the notification from the Microsoft Teams app to join the call.
 
-    ![MSIM email notification for the Microsoft Teams conference call](../image/msim-conf-teams-email.png "Email notification")
+    ![MSIM email notification for the Microsoft Teams conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-teams-email.png "Email notification")
 
 11. Open the associated major security incident in the MSIM workspace to view the conference call details.
 
     When the final participant leaves the call, the conference call ends or select **End call** in the Conference call section to end the conference call.
 
 
-**Parent Topic:**[Integrate MSIM Conference Calls with Microsoft Teams](../concept/integrate-msim-conf-call-ms-teams.md)
+**Parent Topic:**[Integrate MSIM Conference Calls with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conf-call-ms-teams.md)
 

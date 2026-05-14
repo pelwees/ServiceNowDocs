@@ -21,10 +21,10 @@ Limitations to the data that is synchronized from Workday to ServiceNow.
     -   Under Employee Information: Leave status, Location type, Notice period, Probation end date, Probation period, Social Security number, and Business.
     -   Under Jobs: Location type and Work email.
 
-**Parent Topic:**[Reference - HR Service Delivery Integration with Workday](hrsd-int-workday-reference.md)
+**Parent Topic:**[Reference - HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-reference.md)
 
 **Related topics**  
 
 
-[Components installed with HR Service Delivery Integration with Workday](installed-with-wd.md)
+[Components installed with HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-wd.md)
 

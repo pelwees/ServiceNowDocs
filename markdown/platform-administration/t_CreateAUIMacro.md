@@ -31,7 +31,7 @@ Role required: ui\_macro\_admin
 
     **Note:** The UI Macro for the formatter represents a row in the UI. It must begin and end with `<TR></TR>` tags.
 
-    ![Formatter UI macro](../image/FormatterUIMacro.png)
+    ![Formatter UI macro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FormatterUIMacro.png)
 
     This Jelly script is reproduced below in plain text that you can copy into the Macro form as a basis for your macro script.
 
@@ -59,22 +59,22 @@ Role required: ui\_macro\_admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Formatters.md)
 
 **Related topics**  
 
 
-[Activity formatter](../concept/c_ActivityFormatter.md#)
+[Activity formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_ActivityFormatter.md#)
 
-[Create a formatter and add it to a form](t_CreateAFormatter.md)
+[Create a formatter and add it to a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md)
 
-[Process flow formatter](../reference/r_ProcessFlowFormatter.md#)
+[Process flow formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ProcessFlowFormatter.md#)
 
-[Parent breadcrumbs formatter](t_TaskParentBreadcrumbsFormatter.md#)
+[Parent breadcrumbs formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_TaskParentBreadcrumbsFormatter.md#)
 
-[Approval summarizer formatter](../../service-administration/reference/r_ApprovalSummarizerFormatter.md)
+[Approval summarizer formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../service-administration/reference/r_ApprovalSummarizerFormatter.md)
 
-[Limit the number of activity stream entries](limit-activity-stream-entries.md)
+[Limit the number of activity stream entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/limit-activity-stream-entries.md)
 
-[Override a formatter with macros](t_UIMacroOverride.md)
+[Override a formatter with macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_UIMacroOverride.md)
 

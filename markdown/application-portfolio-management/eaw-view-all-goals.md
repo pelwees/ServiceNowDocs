@@ -21,23 +21,23 @@ Role required: sn\_gf.goal\_user\_read
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Goals**.
 
 
-**Parent Topic:**[Manage goals](../../concept/eaw-concept/eaw-manage-goals.md)
+**Parent Topic:**[Manage goals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-goals.md)
 
 **Related topics**  
 
 
-[Add or edit a goal](eaw-add-or-edit-a-goal.md)
+[Add or edit a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-or-edit-a-goal.md)
 
-[Add a quantitative target to a goal](eaw-add-a-quantitative-target-to-a-goal.md)
+[Add a quantitative target to a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-a-quantitative-target-to-a-goal.md)
 
-[Add a qualitative target to a goal](eaw-add-a-qualitative-target-to-a-goal.md)
+[Add a qualitative target to a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-a-qualitative-target-to-a-goal.md)
 
-[Create a sub-goal](eaw-create-a-sub-goal.md)
+[Create a sub-goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-a-sub-goal.md)
 

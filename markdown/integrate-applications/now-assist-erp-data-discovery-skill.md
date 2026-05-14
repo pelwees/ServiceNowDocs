@@ -30,7 +30,7 @@ The sn\_erp\_integration.erp\_ai\_user role is required to work with generative 
 
 ## Prerequisites for using ERP data discovery
 
-Follow the instructions in [Configure Now Assist for Zero Copy Connector](../task/configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
+Follow the instructions in [Configure Now Assist for Zero Copy Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-now-assist-for-zero-copy-connectors.md) to install the plugin.
 
 ## Asking Now Assist for ERP data
 
@@ -38,17 +38,17 @@ Select the Now Assist icon \(![](../images/now-assist-sparkle-icon-dark.png)\) f
 
 Ask for information in plain language. For example, `Get all sales orders from SAP where sales organization is 1710`.
 
-![Now Assist panel with entered question highlighted.](../images/erp-data-discovery-skill1.png)
+![Now Assist panel with entered question highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-discovery-skill1.png)
 
 Now Assist responds with the table and filter condition it will use and asks for your confirmation. You select **Yes**.
 
-![Now Assist panel with information about the table and a confirmation option.](../images/erp-data-discovery-skill2.png)
+![Now Assist panel with information about the table and a confirmation option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-discovery-skill2.png)
 
 Now Assist provides the information you requested.
 
-![Now assist panel with information retrieved listed.](../images/erp-data-discovery-skill3.png)
+![Now assist panel with information retrieved listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-discovery-skill3.png)
 
-Your conversation is saved until you start a new chat. If the conversation ends unexpectedly, start a new chat by selecting the New chat icon \(![New chat icon.](../../../common/image/icon-zoom-in.png)\).
+Your conversation is saved until you start a new chat. If the conversation ends unexpectedly, start a new chat by selecting the New chat icon \(![New chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../common/image/icon-zoom-in.png)\).
 
 ## Additional example prompts
 

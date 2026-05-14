@@ -29,7 +29,7 @@ Role required: sn\_compliance.user, sn\_grc.business\_user, sn\_grc.business\_us
 
 4.  On the form, fill in the fields.
 
-    Complete the [Policy Exception form](create-policy-exception-employee-center.md). Specify what the policy exception is for and select appropriate policy, control objective, or issue. This question is for you to identify the appropriate source type.
+    Complete the [Policy Exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-policy-exception-employee-center.md). Specify what the policy exception is for and select appropriate policy, control objective, or issue. This question is for you to identify the appropriate source type.
 
     When you select a control objective, the **Impacted controls** tab appears, where you can select controls associated to the control objective. You can also search and select an entity.
 
@@ -44,5 +44,5 @@ Role required: sn\_compliance.user, sn\_grc.business\_user, sn\_grc.business\_us
     If you raise a policy exception from Service Portal and if verification rules are not configured, then the policy exception moves to the Analyze state. However, if verification rules are configured for the policy exception, then the policy exception moves to the New state and the verification approval process is triggered. As verification rules are configured the approver is required to verify the policy exception and approve it, only then the policy exception moves to Analyze state.
 
 
-**Parent Topic:**[Manage policy exceptions and extensions](../concept/manage-policy-exceptions.md)
+**Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/manage-policy-exceptions.md)
 

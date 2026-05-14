@@ -23,7 +23,7 @@ Role required: wm\_dispatcher
 
 1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
-2.  Select the **List** icon \(![List icon.](../../../administer/workspace/image/list-icon-black.png)\).
+2.  Select the **List** icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../../../administer/workspace/image/list-icon-black.png)\).
 
 3.  In the Lists panel, navigate to **Dispatching** &gt; **My Crews**
 

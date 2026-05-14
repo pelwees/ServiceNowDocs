@@ -29,11 +29,11 @@ Phase 1
 
 </td><td align="justify">
 
-![In progress icon](../image/app-tutorial-progress-wip.png)
+![In progress icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-wip.png)
 
 </td><td>
 
-[Build a decision table](app-tutorial-create-decision-table.md)
+[Build a decision table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-decision-table.md)
 
 </td></tr><tr><td>
 
@@ -41,11 +41,11 @@ Phase 2
 
 </td><td align="justify">
 
-![Not started icon](../image/app-tutorial-progress-not-started.png)
+![Not started icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-not-started.png)
 
 </td><td>
 
-[Create a flow](app-tutorial-create-a-flow.md#)
+[Create a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-a-flow.md#)
 
 </td></tr></tbody>
 </table>For more information about using decision tables, see [Create decision tables in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-table-in-decision-designer.md).
@@ -140,7 +140,7 @@ Video 6
 
     1.  Select in the empty box in the condition column.
 
-        ![You can select in the empty box in the condition column to create conditions.](../image/app-tutorial-condition-column-value.png)
+        ![You can select in the empty box in the condition column to create conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-condition-column-value.png)
 
     2.  Select **is**, then select **is one of** from the list.
 
@@ -216,7 +216,7 @@ Value
 
     1.  Select in the empty box in the result column.
 
-        ![Select in the empty box in the result column to define results.](../image/app-tutorial-result-column-value.png)
+        ![Select in the empty box in the result column to define results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-result-column-value.png)
 
     2.  In the empty field, enter the name of the regional head.
 
@@ -248,5 +248,5 @@ You have built a decision table for your application.
 
 ## What to do next
 
-Proceed to the next phase in adding logic and automation to the employee travel request application: [Create a flow](app-tutorial-create-a-flow.md#).
+Proceed to the next phase in adding logic and automation to the employee travel request application: [Create a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-a-flow.md#).
 

@@ -19,11 +19,11 @@ Use the Blackout and Maintenance windows to schedule a change. Blackout windows 
 
 Role required: itil\_admin or admin
 
-Ensure that the [Change Management - Collision Detector](t_ActivateConflictDetection.md) \(com.snc.change.collision\) plugin is activated.
+Ensure that the [Change Management - Collision Detector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateConflictDetection.md) \(com.snc.change.collision\) plugin is activated.
 
 ## About this task
 
-Conflict detection uses blackout and maintenance schedules to find potential scheduling conflicts for the configuration items \(CIs\) associated with a change request. When conflict detection runs, either automatically or by manual request, conflict detection determines if either type of defined schedule applies to the change request. If a potential conflict is identified, a warning message appears and conflicts are listed within the Conflict form section. View conflicts in the [Conflict calendar](../concept/change-conflict-calendar.md).
+Conflict detection uses blackout and maintenance schedules to find potential scheduling conflicts for the configuration items \(CIs\) associated with a change request. When conflict detection runs, either automatically or by manual request, conflict detection determines if either type of defined schedule applies to the change request. If a potential conflict is identified, a warning message appears and conflicts are listed within the Conflict form section. View conflicts in the [Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md).
 
 **Note:** To use the business service as the source for a blackout or maintenance schedule, the business service must be converted to an application service. For instructions, see [Convert business services to application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/convert-bus-to-app-svc-intro.md). For information about application services, see [Application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md).
 
@@ -144,23 +144,23 @@ A blackout or maintenance schedule is created.
 
 Associate the configuration item with the maintenance schedule that is used in the change request.
 
--   **[Assign a maintenance schedule to configuration items](use-maintenance-schedule-management.md)**  
+-   **[Assign a maintenance schedule to configuration items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/use-maintenance-schedule-management.md)**  
 You can review and determine the conflicts in a change schedule by assigning the maintenance schedules to configuration items \(CI\). After you assign a maintenance schedules to the CI, add the CI to the change request.
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ConflictDetection.md)
 
 **Related topics**  
 
 
-[Detect change conflicts](configure-conflict-properties.md#)
+[Detect change conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md#)
 
-[Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
+[Configure a change request to monitor outside maintenance schedule conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 
-[Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
+[Enable automatic change conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunAutomatedConflictDetection.md)
 
-[Detect conflicts manually and review conflict details](t_RunManualConflictDetection.md#)
+[Detect conflicts manually and review conflict details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md#)
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 

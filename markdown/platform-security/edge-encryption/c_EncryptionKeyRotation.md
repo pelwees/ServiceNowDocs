@@ -31,7 +31,7 @@ If you filter by any encrypted field when connected through the Edge proxy, all 
 
 If you sort by any encrypted field when connected through the Edge proxy, you see two groups of records with the same human readable text in the encrypted field.
 
-**Parent Topic:**[Configuring Edge Encryption](edge-config.md)
+**Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
 ## Schedule a single key rotation job
 
@@ -97,7 +97,7 @@ Process Historical Records
 
 Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. This field is read only and active.
 
- To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+ To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../time/concept/c_AuditedTables.md).
 
 </td></tr><tr><td>
 
@@ -191,7 +191,7 @@ Process Historical Records
 
 Select to process historical records in the Audit table if the field is audited. When encrypting historical records for a field in the Audit table, both new values and old values are encrypted. This field is read only and active.
 
- To learn more about audited fields, see [Auditing](../../time/concept/c_AuditedTables.md).
+ To learn more about audited fields, see [Auditing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../time/concept/c_AuditedTables.md).
 
 </td></tr><tr><td>
 

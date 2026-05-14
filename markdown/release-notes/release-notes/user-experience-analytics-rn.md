@@ -42,5 +42,5 @@ See [Usage Insights](https://www.servicenow.com/docs/bundle/australia-now-intell
 
 Usage Insights is a ServiceNow AI Platform feature that is active by default.
 
-**Parent Topic:**[Platform Analytics release notes](analytics-intel-report-rn-landing.md)
+**Parent Topic:**[Platform Analytics release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/analytics-intel-report-rn-landing.md)
 

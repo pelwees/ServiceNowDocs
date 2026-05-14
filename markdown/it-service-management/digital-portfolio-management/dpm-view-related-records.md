@@ -70,10 +70,10 @@ The relationships of business applications and service instances enable you to s
     After you select a numbered item on the card, another tab opens and displays all the service instances related to your selected criterion. For example, you could see all service instances related to incidents through affected CIs. In this example, you can drill down to see the source incident record.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
 **Related topics**  
 
 
-[Use the Admin Center in Digital Portfolio Management](dpm-admin-center.md)
+[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 

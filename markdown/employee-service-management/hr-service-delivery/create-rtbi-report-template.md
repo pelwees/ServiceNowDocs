@@ -19,7 +19,7 @@ Create a custom RTBI report template to use for the RTBI report displayed to the
 
 Role required: admin
 
-To use this template, you can create a new HR service, and record producer, then add the template in the Template field. For more information on configuring an HR service, see [Configure an HR service](configure-hr-service.md).
+To use this template, you can create a new HR service, and record producer, then add the template in the Template field. For more information on configuring an HR service, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
 Verify that the following HR services are active:
 

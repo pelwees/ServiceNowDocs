@@ -36,5 +36,5 @@ Role required: admin
     |Value|Integer value in seconds.|
 
 
-**Parent Topic:**[Configure mobile re-authentication system properties](../concept/mobile-reautentication-concept.md)
+**Parent Topic:**[Configure mobile re-authentication system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-reautentication-concept.md)
 

@@ -21,7 +21,7 @@ The OT Action-Oriented Landing Page helps users, such as OT engineers, view task
 
 The landing page provides a detailed and role-based view of the daily tasks and important actions. Each task in the **Important Action** section shows tasks sorted by their **Opened** date by default. If the task is critical, then it shows up in the **Important Action** section.
 
-To access the OT Action-Oriented Landing Page, navigate to **All** &gt; **Industrial Workspace**, select the Home \(![Home icon in the Industrial Workspace.](../image/home-icon.png)\) icon.
+To access the OT Action-Oriented Landing Page, navigate to **All** &gt; **Industrial Workspace**, select the Home \(![Home icon in the Industrial Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/home-icon.png)\) icon.
 
 ## Landing page contents
 
@@ -183,5 +183,5 @@ No IP address OT devices
 Number of OT devices in your OT network that aren't assigned an IP address.To view the list of OT device records without an IP address, select **All records**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the Industrial Workspace](exploring-industrial-workspace.md)
+</table>**Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 

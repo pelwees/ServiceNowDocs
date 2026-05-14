@@ -23,5 +23,5 @@ Administrators create activity types that are used by managers and employees.
 |**Order**|A numeric value used to determine the display order of activity types.|
 |**Value**|The value used to track the activity type.|
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-reference.md)
 

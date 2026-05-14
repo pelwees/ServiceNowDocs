@@ -54,5 +54,5 @@ Knowledge author
 Can contribute.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Knowledge Management reference](industrial-knowledge-mgmt-reference.md)
+</table>**Parent Topic:**[Industrial Knowledge Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-mgmt-reference.md)
 

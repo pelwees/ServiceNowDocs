@@ -21,27 +21,27 @@ Legal teams can collaborate in a centralized Legal Counsel Center to manage lega
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Request Management.](../concept/legal-request-management-overview.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, paralegal staff, and lawyers use Legal Request Management.](../concept/legal-request-management-overview.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up practice areas, intake forms, and other configurations.](../concept/legal-ops-administration.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up practice areas, intake forms, and other configurations.](../concept/legal-ops-administration.md)
 
 </td><td>
 
-[Request ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Submit and track legal requests.](../concept/submitting-legal-request.md)
+[Request ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Submit and track legal requests.](../concept/submitting-legal-request.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-project-manager.svg) Manage legal requests.](../concept/managing-legal-request.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-project-manager.svg) Manage legal requests.](../concept/managing-legal-request.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Coordinate work and improve processes with preconfigured dashboards.](../../../use/application-content-packs/concept/legalsd-content-pack.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-request-management-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](legal-request-management-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store

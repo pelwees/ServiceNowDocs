@@ -17,7 +17,7 @@ Link a feedback record or product idea record with a non-planning item. By doing
 
 ## Before you begin
 
-Ensure to [Configure non-planning items for feedback or product ideas records](config-items-sp.md).
+Ensure to [Configure non-planning items for feedback or product ideas records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/config-items-sp.md).
 
 Role required: pf\_user
 
@@ -37,7 +37,7 @@ You can associate single or multiple feedback records or product idea records wi
 
 4.  From the link product idea list, select the non-planning item.
 
-    ![This image displays feedback list from where you can select the items.](../image/feedback-list.png)
+    ![This image displays feedback list from where you can select the items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../image/feedback-list.png)
 
     The non-planning item is displayed in the link product idea list only if the item is configured. For example, if you have configured an incident, you can see the **Link incident** option in the list.
 

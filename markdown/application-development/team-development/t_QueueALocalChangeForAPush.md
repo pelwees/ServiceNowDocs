@@ -27,7 +27,7 @@ Role required: none
 
     For example, filter the list to show only the changes associated with a particular application.
 
-    ![Queue changes application](../image/QueueChangesApplication.png)
+    ![Queue changes application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/QueueChangesApplication.png)
 
 3.  Click **Queue All For Push**.
 
@@ -52,7 +52,7 @@ Select the check boxes beside the rows and select **Do Not Push** from the Actio
 Select the check boxes beside the rows and select **Ignore This Change** from the Actions choice list.
 
 </td></tr></tbody>
-</table>    ![Ready to push](../image/ReadytoPush.png)
+</table>    ![Ready to push](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/ReadytoPush.png)
 
     **Note:** For the Local Changes list, click **Reset Filter** to remove any filter conditions you added and see all the local changes that have not been queued or ignored.
 

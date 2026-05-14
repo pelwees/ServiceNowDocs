@@ -57,7 +57,7 @@ Role required: atf\_test\_admin, atf\_test\_designer, or admin
 
 ## What to do next
 
-[Add a parameter to a test step](add-parameterized-value-to-step.md)
+[Add a parameter to a test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/add-parameterized-value-to-step.md)
 
-**Parent Topic:**[Parameterized tests](../concept/parameterized-tests.md)
+**Parent Topic:**[Parameterized tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/parameterized-tests.md)
 

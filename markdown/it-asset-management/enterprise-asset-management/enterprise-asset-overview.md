@@ -20,9 +20,9 @@ Use the Enterprise asset overview dashboard to perform the following tasks:
 -   Identify and attend to critical action items that require your immediate attention such as entering missing manufacture data, model number, or asset tag information.
 -   Search for and track asset requests, transfer orders, stock orders, asset refresh requests, disposal orders, and Return Merchandise Authorization \(RMA\) orders.
 
-![Enterprise asset overview](../image/enterprise-overview.png "Enterprise asset overview")
+![Enterprise asset overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/enterprise-overview.png "Enterprise asset overview")
 
-To access detailed information and take relevant action, select the relevant widget. You can also narrow down your results by using the **Location**, **Stockroom**, **Model category**, and **Classification** filters. For detailed information on the Classification filter, see [Classification codes](classification-codes.md).
+To access detailed information and take relevant action, select the relevant widget. You can also narrow down your results by using the **Location**, **Stockroom**, **Model category**, and **Classification** filters. For detailed information on the Classification filter, see [Classification codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/classification-codes.md).
 
 |Widget|Description|
 |------|-----------|

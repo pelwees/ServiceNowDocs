@@ -83,5 +83,5 @@ Associated Observables
 Lists observables associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat notes](../concept/threat-intelligence-threat-notes.md)
+</table>**Parent Topic:**[Threat notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/threat-intelligence-threat-notes.md)
 

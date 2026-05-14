@@ -33,7 +33,7 @@ Using Demand Forecast, you can:
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \( ![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Click the Schedule icon \( ![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  Click the **Team Calendar** tab.
 
@@ -89,8 +89,8 @@ The Total coverage/demand row has indicators for the staff alignment.
  You can also view the coverage and demand for every hour for each group.
 
 </td></tr></tbody>
-</table>    The following image shows an example of the staffing alignment in a Week view. The misaligned staffing indicator in the pop-up window shows that the forecast manager has scheduled four agents for each shift but more agents are needed to cover the shifts.![Demand Forecast](../image/demand-forecast-rome.gif)
+</table>    The following image shows an example of the staffing alignment in a Week view. The misaligned staffing indicator in the pop-up window shows that the forecast manager has scheduled four agents for each shift but more agents are needed to cover the shifts.![Demand Forecast](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/demand-forecast-rome.gif)
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/scheduling-configurable-workforce-optimization-itsm.md)
 

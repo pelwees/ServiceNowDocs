@@ -27,7 +27,7 @@ SLA has default scheduled jobs to regularly refresh the time calculations on eac
 
 Scheduled job runs more frequently when the task SLA is closer to being breached.
 
-**Parent Topic:**[Service Level Management reference](service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
 **Related topics**  
 
@@ -36,5 +36,5 @@ Scheduled job runs more frequently when the task SLA is closer to being breached
 
 [Create a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAScheduledJob.md)
 
-[SLA engine properties](../task/t_ConfigureSLAProperties.md#)
+[SLA engine properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../task/t_ConfigureSLAProperties.md#)
 

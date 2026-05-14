@@ -18,7 +18,7 @@ Export the configuration of a Health Log Analytics data input with or without th
 
 ## Before you begin
 
-For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md).
+For an overview of this feature, see [Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-migration.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -34,11 +34,11 @@ Role required: evt\_mgmt\_admin
 
     1.  From the **Actions on selected rows** drop-down menu, choose **Export Data Input**.
 
-        ![Export Data Input option on the Actions on selected rows drop-down menu.](../image/hla-export-data-input1.png)
+        ![Export Data Input option on the Actions on selected rows drop-down menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-export-data-input1.png)
 
     2.  In the **Export Data Input** dialog, do one of the following:
 
-        ![Export Data Input dialog.](../image/hla-export-data-input2.png)
+        ![Export Data Input dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-export-data-input2.png)
 
         -   Leave the check box selected to include the source types that are associated with the data input in the update set.
 
@@ -58,7 +58,7 @@ Role required: evt\_mgmt\_admin
 
             When the box is clear, the update set will not include the source type-related tables.
 
-        **Note:** You can export source types separately. For more information, see [Export source types to an update set in Health Log Analytics](hla-source-types-migrate.md).
+        **Note:** You can export source types separately. For more information, see [Export source types to an update set in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-types-migrate.md).
 
     3.  Select **Continue**.
 
@@ -73,7 +73,7 @@ Role required: evt\_mgmt\_admin
 
 ## What to do next
 
-Import the update set to the required ServiceNow instance. For more information, see [Import a Health Log Analytics data input to a target instance](hla-data-input-import.md).
+Import the update set to the required ServiceNow instance. For more information, see [Import a Health Log Analytics data input to a target instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-import.md).
 
-**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](../concept/hla-data-input-migration.md)
+**Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-input-migration.md)
 

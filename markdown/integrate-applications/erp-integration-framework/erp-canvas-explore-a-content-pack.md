@@ -36,7 +36,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 5.  Review the model record for details including the short description, long text, and ERP module.
 
-    ![Content pack model record page.](../image/erpc-explore-descriptions.png)
+    ![Content pack model record page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-explore-descriptions.png)
 
 6.  Select the **Model entities** and **Entity fields** tabs to review the information.
 
@@ -48,7 +48,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
     3.  Select **Clone this model**.
 
-        ![Clone this model modal with new name added.](../image/erpc-cloned-content-pack-model.png)
+        ![Clone this model modal with new name added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-cloned-content-pack-model.png)
 
         Depending on the size of the model, the cloning process may take a few minutes. When the clone is complete, a success message in green is displayed.
 
@@ -68,33 +68,33 @@ Role required: sn\_erp\_integration.erp\_admin
 
 11. Select the **Read** tile to see that an appropriate entity has been added.
 
-    ![Manage model tab with manage entities page displayed.](../image/erpc-explore-read-tile.png)
+    ![Manage model tab with manage entities page displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-explore-read-tile.png)
 
 12. Select **Specify inputs** to see that a mapping has been done with typical input parameters.
 
-    ![Manage model tab with specify inputs page displayed.](../image/erpc-explore-read-input.png)
+    ![Manage model tab with specify inputs page displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-explore-read-input.png)
 
 13. Select **Choose output** to see that a mapping has been done for the field or general information to send back when calling the model.
 
-    ![Manage model tab with choose outputs page displayed.](../image/erpc-explore-read-output.png)
+    ![Manage model tab with choose outputs page displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-explore-read-output.png)
 
 14. Select the back button on your browser three times to return to the model manager page.
 
 15. Select the **Update** and **Create** tiles and repeat steps 12 through 14 for each tile to explore the predefined inputs and outputs.
 
-    ![Manage model tab with create and update operation tiles highlighted.](../image/erpc-explore-update-create-tiles.png)
+    ![Manage model tab with create and update operation tiles highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-explore-update-create-tiles.png)
 
 16. To see the process extensions in a content pack, navigate to **All** &gt; **Workflow Studio** and select **Subflows**.
 
-    ![Workflow Studio landing page with subflows option highlighted.](../image/erpc-process-extensions-explore1.png)
+    ![Workflow Studio landing page with subflows option highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-process-extensions-explore1.png)
 
 17. In the **Name** column, select the filter icon, set the filter to **starts with ERP DP**, and select **Apply**.
 
-    ![Filter expanded with conditions set to starts with ERP DP.](../image/erpc-process-extensions-explore2.png)
+    ![Filter expanded with conditions set to starts with ERP DP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-process-extensions-explore2.png)
 
 18. Select one of the material subflows, for example, **ERP DP: Material Update**.
 
-    ![List of subflows containing ERP DP in the name with ERP DP material update highlighted.](../image/erpc-process-extensions-explore3.png)
+    ![List of subflows containing ERP DP in the name with ERP DP material update highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-process-extensions-explore3.png)
 
 19. View the subflow actions.
 
@@ -102,7 +102,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 21. View the inputs and outputs the subflow contains.
 
-    ![ERP DP material update subflow inputs and outputs displayed.](../image/erpc-process-extensions-explore4.png)
+    ![ERP DP material update subflow inputs and outputs displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-process-extensions-explore4.png)
 
 22. Select the back button on your browser to return to the list of subflows.
 
@@ -111,7 +111,7 @@ Role required: sn\_erp\_integration.erp\_admin
 
 ## What to do next
 
-When you're ready to create an application with a content pack, see [Using Zero Copy Connector for ERP content packs](erp-canvas-using-content-packs.md).
+When you're ready to create an application with a content pack, see [Using Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-using-content-packs.md).
 
-**Parent Topic:**[Zero Copy Connector for ERP content packs](../concept/erp-canvas-content-packs.md)
+**Parent Topic:**[Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-content-packs.md)
 

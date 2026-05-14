@@ -19,31 +19,31 @@ This video provides a visual overview of Supplier Lifecycle Operations and its k
 
 Supplier Lifecycle Operations overview
 
-![Supplier Lifecycle Operations value proposition.](../image/supp-mgmt-value-proposition.png "Supplier Lifecycle Operations value proposition")
+![Supplier Lifecycle Operations value proposition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-mgmt-value-proposition.png "Supplier Lifecycle Operations value proposition")
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Now Assist for Supplier Lifecycle Operations \(SLO\)![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations \(SLO\)![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](now-assist-slo.md)
 
 </td><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how supplier managers and supplier contacts use Supplier Lifecycle Operations.](explore-supp-mgmt.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how supplier managers and supplier contacts use Supplier Lifecycle Operations.](explore-supp-mgmt.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-supp-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](config-supp-mgmt.md)
 
 </td></tr><tr><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend the capabilities of Supplier Lifecycle Operations by integrating with other applications.](integrate-slo.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend the capabilities of Supplier Lifecycle Operations by integrating with other applications.](integrate-slo.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Resolve supplier inquiries with self-service, compare suppliers, onboard suppliers, and manage supplier data.](use-supp-mgmt.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) Resolve supplier inquiries with self-service, compare suppliers, onboard suppliers, and manage supplier data.](use-supp-mgmt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/supp-mgmt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as fields, tables, and properties.](../reference/supp-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

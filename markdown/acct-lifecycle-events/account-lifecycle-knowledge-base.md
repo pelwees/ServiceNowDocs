@@ -29,5 +29,5 @@ Navigate to **All** &gt; **Knowledge** &gt; **Administration** &gt; **Knowledge 
 
 **Note:** All customers can view these knowledge base articles. If you want to restrict, access to an article, navigate to the article and in the Cannot Read field, select the user role who won’t be able to access the article.
 
-**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use.md)
 

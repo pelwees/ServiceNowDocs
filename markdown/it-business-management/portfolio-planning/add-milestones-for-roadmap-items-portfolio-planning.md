@@ -30,7 +30,7 @@ For free-form roadmaps, milestones are supported only if the source table is Pla
 
 You can’t add a project milestone from the roadmap view. Creating or updating project milestones may impact the associated project plans. So, it’s recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
-However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](../concept/portfolio-planning-integration-with-execution-applications.md).
+However, any existing milestones of the project are visible on the roadmap if you've integrated [Portfolio Planning with Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/portfolio-planning-integration-with-execution-applications.md).
 
 ## Procedure
 
@@ -71,13 +71,13 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     Alternatively, you can click **Full details** and select the Milestones tab from the full details page.
 
-4.  Select the Add milestone icon \(![Add milestone icon.](../../alignment-planner-workspace/images/icon-add.png)\).
+4.  Select the Add milestone icon \(![Add milestone icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-add.png)\).
 
     If the item doesn't have any milestones, select **New milestone**.
 
 5.  On the form, fill in the fields.
 
-    For field information, see [Planning item milestone form](../reference/planning-item-milestone-form-portfolio-planning.md).
+    For field information, see [Planning item milestone form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/planning-item-milestone-form-portfolio-planning.md).
 
 6.  Select **Save**.
 
@@ -90,7 +90,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 -   Milestones that you created are indicated on the roadmap item bars.
 
-    Here’s an image of a sample roadmap with the roadmap items indicating that they have milestones.![Planning item-level milestones.](../../spw-roadmap/images/roadmap-item-milestones.png)
+    Here’s an image of a sample roadmap with the roadmap items indicating that they have milestones.![Planning item-level milestones.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/roadmap-item-milestones.png)
 
 -   Pointing your cursor over these milestone indicators shows the details such as the milestone name, type, and due date.
 -   Clicking one of these indicators opens the Milestones tab of the Item details side panel. Here, you can see a list of all the milestones for this planning item.
@@ -99,12 +99,12 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 Learn more about managing milestones:
 
--   [Customizing milestone display on roadmap](../reference/customizing-milestone-display-roadmap-portfolio-planning.md)
--   [Item milestone errors in Portfolio Planning Workspace](../concept/error-state-for-planning-item-milestones-portfolio-planning.md)
--   [Update roadmap item milestones](update-roadmap-item-milestones-portfolio-planning-workspace.md)
+-   [Customizing milestone display on roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/customizing-milestone-display-roadmap-portfolio-planning.md)
+-   [Item milestone errors in Portfolio Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/error-state-for-planning-item-milestones-portfolio-planning.md)
+-   [Update roadmap item milestones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-roadmap-item-milestones-portfolio-planning-workspace.md)
 
--   **[Update roadmap item milestones](update-roadmap-item-milestones-portfolio-planning-workspace.md)**  
+-   **[Update roadmap item milestones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-roadmap-item-milestones-portfolio-planning-workspace.md)**  
 Update or delete the milestones that you added to your planning items \(such as demands, scrum epics, or programs\) so that they reflect any change of plans.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

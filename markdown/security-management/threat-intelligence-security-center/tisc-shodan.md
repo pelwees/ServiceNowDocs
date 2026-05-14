@@ -21,10 +21,10 @@ The Shodan integration performs enrichment on the following observables:
 -   URLs
 -   Domains
 
--   **[Configure and enable Shodan integration](shodan-integration.md)**  
+-   **[Configure and enable Shodan integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/shodan-integration.md)**  
 Before you use Shodan integration, you must download it from the ServiceNow Store.
 
-**Parent Topic:**[Configure Observable Enrichment](configure-observable-enrichment.md)
+**Parent Topic:**[Configure Observable Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-observable-enrichment.md)
 
-**Parent Topic:**[Observable Enrichment](../concept/tisc-observable-enrichment.md)
+**Parent Topic:**[Observable Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-observable-enrichment.md)
 

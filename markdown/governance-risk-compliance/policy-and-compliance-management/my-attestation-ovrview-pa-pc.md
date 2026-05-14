@@ -19,7 +19,7 @@ The Assessment Overview dashboard displays various assessment reports, such as A
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-![My attestation overview dashboard in the Next Experience UI Framework.](../image/my-attestation-ovrv-pa-db-pc.png "My Attestation Overview dashboard in the Next Experience UI Framework")
+![My attestation overview dashboard in the Next Experience UI Framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/my-attestation-ovrv-pa-db-pc.png "My Attestation Overview dashboard in the Next Experience UI Framework")
 
 ## Required ServiceNow AI Platform role
 
@@ -33,12 +33,12 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 
 |Title|Type|Description|
 |-----|----|-----------|
-|My Past Due Attestations|Bar chart![Column icon](../../performance-analytics/image/column-icon.png)|Total number of past due attestations assigned to you|
-|My Attestations|Bar chart![Column icon](../../performance-analytics/image/column-icon.png)|Total number of attestations assigned to you, broken down by state|
-|My Pending Attestations|List ![List icon3](../../performance-analytics/image/scorecard-icon.png)|A list of the pending attestations assigned to you|
+|My Past Due Attestations|Bar chart![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/column-icon.png)|Total number of past due attestations assigned to you|
+|My Attestations|Bar chart![Column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/column-icon.png)|Total number of attestations assigned to you, broken down by state|
+|My Pending Attestations|List ![List icon3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../performance-analytics/image/scorecard-icon.png)|A list of the pending attestations assigned to you|
 
--   **[GRC Attestation Overview dashboard](grc-control-attest-dashboard.md)**  
+-   **[GRC Attestation Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-control-attest-dashboard.md)**  
 The GRC Attestation Overview dashboard provides views attestations assigned to you, as well as pending and overdue attestations.
 
-**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](grc-policy-compliance-content-pack.md)
+**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 

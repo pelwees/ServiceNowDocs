@@ -18,7 +18,7 @@ Personalize the Hierarchy view in the Planning page of Portfolio Planning Worksp
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -36,11 +36,11 @@ Personalization preferences are saved as the portfolio plan's settings in Portfo
 
 3.  Personalize the timeline view and the columns on the grid view using the Personalize side panel.
 
-    1.  Select the Personalize icon \(![Personalize icon.](../../alignment-planner-workspace/images/icon-settings.png)\).
+    1.  Select the Personalize icon \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-settings.png)\).
 
         The personalize side panel opens.
 
-        ![Personalize settings in the Hierarchy view](../../spw-prioritization/images/hierarchy.png)
+        ![Personalize settings in the Hierarchy view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/hierarchy.png)
 
     2.  From the Timeline section, toggle the display of item names and dependency lines.
 
@@ -54,6 +54,6 @@ Personalization preferences are saved as the portfolio plan's settings in Portfo
 
     For example, you can sort the items by **Approved start date**.
 
-5.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](quick-fiters-prioitization-roadmap-ppw.md)
+5.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/quick-fiters-prioitization-roadmap-ppw.md)
 
 

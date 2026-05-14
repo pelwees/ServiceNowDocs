@@ -164,7 +164,7 @@ Point to the element, then select the information icon ![](../../grc-business-co
 **Related topics**  
 
 
-[Create a TPRM dashboard with the In-line editor](tprm-create-db.md)
+[Create a TPRM dashboard with the In-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-db.md)
 
-[Share a TPRM dashboard](tprm-share-db.md)
+[Share a TPRM dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-share-db.md)
 

@@ -100,11 +100,11 @@ Specify a field name to select from the list. This field can be used to analyze 
 
 4.  Click **Analyze permissions**.
 
-    ![Permission evaluation of Abel Tuter](../images/view-permissions-for-a-user.png)
+    ![Permission evaluation of Abel Tuter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/view-permissions-for-a-user.png)
 
     The system displays **Access results** for the **ITIL User**.
 
-    ![Permission results](../images/permissions-for-a-user.png)
+    ![Permission results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/permissions-for-a-user.png)
 
     The results can be read by referring to the Legends, access control list \(ACL\), IAccesshandler, and Data filters.
 
@@ -116,7 +116,7 @@ Specify a field name to select from the list. This field can be used to analyze 
 
 5.  Select read operation to know more about the Debug logs.
 
-    ![ACL Details](../images/acl-details-for-user.png)
+    ![ACL Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acl-details-for-user.png)
 
     The Debug logs page displayed the business rule and associated ACLs that are required to perform the **read** operation for the record.
 
@@ -126,12 +126,12 @@ Specify a field name to select from the list. This field can be used to analyze 
 
 6.  Select the Access Control that is Passed to see the details of the ACL.
 
-    ![Details of the Access Control for the selected ACL](../images/view-details-for-a-user.png)
+    ![Details of the Access Control for the selected ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/view-details-for-a-user.png)
 
     The system displays the Access Control details for the selected ACL.
 
     If a selected operation that has `Passed` contains a script, the Access Control page displays the associated script for the record.
 
-    ![Script Condition in Access Control](../images/script-for-a-user.png)
+    ![Script Condition in Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/script-for-a-user.png)
 
 

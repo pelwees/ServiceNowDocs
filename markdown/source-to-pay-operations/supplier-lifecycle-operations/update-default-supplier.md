@@ -29,7 +29,7 @@ Role required: sn\_slm.contact
 
 2.  In the portal header, select **Raise a request**.
 
-3.  Select the **Update default supplier** catalog item under the General category.![Update default supplier dialog box](../image/default-supplier.png)
+3.  Select the **Update default supplier** catalog item under the General category.![Update default supplier dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/default-supplier.png)
 
 4.  Select the supplier from the **Default supplier** drop-down list.
 
@@ -40,30 +40,30 @@ Role required: sn\_slm.contact
 
 The default supplier is updated.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
 **Related topics**  
 
 
-[Add or remove a supplier location using the supplier catalog](submit-add-remove-supploc.md)
+[Add or remove a supplier location using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-add-remove-supploc.md)
 
-[Add a supplier contact using the supplier catalog](enroll-contact-catalog.md)
+[Add a supplier contact using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enroll-contact-catalog.md)
 
-[Remove a supplier contact using the supplier catalog](remove-contact-catalog.md)
+[Remove a supplier contact using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-contact-catalog.md)
 
-[Ask a question using the supplier catalog](submit-question.md)
+[Ask a question using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-question.md)
 
-[Submit an idea using the supplier catalog](submit-idea.md)
+[Submit an idea using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-idea.md)
 
-[Submit an issue using the supplier catalog](submit-issue.md)
+[Submit an issue using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-issue.md)
 
-[Update banking details using the supplier catalog](update-supp-banking-info.md)
+[Update banking details using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-banking-info.md)
 
-[Update company profile using the supplier catalog](update-supp-profile.md)
+[Update company profile using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-profile.md)
 
-[Request elevated access](request-elevated-access.md)
+[Request elevated access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/request-elevated-access.md)
 
-[Request something else using the supplier catalog](submit-general-request.md)
+[Request something else using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 

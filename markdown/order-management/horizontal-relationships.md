@@ -21,5 +21,5 @@ The compatibility rules include the horizontal relationships between your produc
 
 Let's look at an example of a horizontal relationship, such as the relationship between the Voice over Internet Protocol \(VoIP\) and an internet service. VoIP requires an active internet connection but VoIP and an internet service are defined in a different product hierarchy. With a horizontal relationship, you can define a relationship between VoIP and an internet service in the product catalog to support the order creation process for VoIP and to fulfill the order.
 
-**Parent Topic:**[Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md)
+**Parent Topic:**[Order fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md)
 

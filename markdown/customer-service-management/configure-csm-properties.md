@@ -22,7 +22,7 @@ You can also access Customer Service Management properties using the system prop
 **Related topics**  
 
 
-[Properties installed with Customer Service Management](../reference/r_PropInstallWcustServ.md)
+[Properties installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_PropInstallWcustServ.md)
 
-[Components installed with additional plugins for Customer Service Management](../reference/inst-wi-cust-serv-addtl-plugins.md)
+[Components installed with additional plugins for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/inst-wi-cust-serv-addtl-plugins.md)
 

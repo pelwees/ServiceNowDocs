@@ -23,5 +23,5 @@ Sample format of the value should be:
 -   nic = nameRegex1, nameRegex2, nameRegex3
 -   ip\_addr = IPRegex1, IPRegex2
 
-**Parent Topic:**[Deploying Agent Client Collector on endpoints](acc-endpoint-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 

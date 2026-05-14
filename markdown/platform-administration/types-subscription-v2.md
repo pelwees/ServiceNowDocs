@@ -115,5 +115,5 @@ Automatically allocated by your instance
 Provides entitlements for an organization's number of active users regardless of their role assignments. An active user is any user whose record in the Users \[sys\_user\] table has a value in the **User ID** field and has the **Active** field set to true.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Subscription Management reference](subscription-management-reference-v2.md)
+</table>**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 

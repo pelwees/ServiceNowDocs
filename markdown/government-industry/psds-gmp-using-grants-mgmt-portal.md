@@ -24,7 +24,7 @@ Whether you're a business contact or a constituent, you can use the Grants Manag
 
 ## Workflow steps
 
-![Grants Management Portal catalog page](../image/psds_gmportal.png)
+![Grants Management Portal catalog page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_gmportal.png)
 
 Let's see how a constituent would apply for a grant from the Grants Management portal, which uses Playbooks for Portals. The constituent does the following actions:
 

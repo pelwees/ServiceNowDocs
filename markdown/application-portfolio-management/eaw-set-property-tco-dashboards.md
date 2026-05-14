@@ -29,17 +29,17 @@ Role required: admin
 
 4.  Select  **Update**.
 
-    The Portfolio TCO dashboard page shows the data according to the specified duration of the fiscal period. For more details, see [Explore the Enterprise Architecture Workspace dashboard](../../../../use/dashboards/concept/eaw-workspace-dashboard.md).
+    The Portfolio TCO dashboard page shows the data according to the specified duration of the fiscal period. For more details, see [Explore the Enterprise Architecture Workspace dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../../use/dashboards/concept/eaw-workspace-dashboard.md).
 
 
-**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-setup-app-tco.md)
+**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-app-tco.md)
 
 **Related topics**  
 
 
-[Create a source for an Application TCO](eaw-create-tco-source.md)
+[Create a source for an Application TCO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-tco-source.md)
 
-[Create a TCO source cost type](eaw-create-tco-source-cost-type.md)
+[Create a TCO source cost type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-tco-source-cost-type.md)
 
-[Create a cost type for Application TCO in Enterprise Architecture Workspace](eaw-create-tco-cost-type.md)
+[Create a cost type for Application TCO in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-tco-cost-type.md)
 

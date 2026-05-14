@@ -246,5 +246,5 @@ Facility Map Color\[fm\_map\_color\]
 Specifies map colors
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)
+</table>**Parent Topic:**[Installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacVisWorkbench.md)
 

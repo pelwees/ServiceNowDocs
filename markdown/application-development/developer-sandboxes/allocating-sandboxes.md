@@ -33,7 +33,7 @@ You can allocate a sandbox at the beginning of a story or during the project pla
 
 2.  Select **Allocate sandbox**.
 
-    ![Allocate sandbox button on the home dashboard](../image/dev-sbx-home-allocate-btn.png "Developer Sandboxes home")
+    ![Allocate sandbox button on the home dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../image/dev-sbx-home-allocate-btn.png "Developer Sandboxes home")
 
 3.  On the form, fill in the fields.
 
@@ -59,7 +59,7 @@ Sandbox template
 
 </td><td>
 
-Template selected for the sandbox.For information on configuring templates to generate reusable data, see [Using sandbox templates](create-sandbox-template.md).
+Template selected for the sandbox.For information on configuring templates to generate reusable data, see [Using sandbox templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/create-sandbox-template.md).
 
 </td></tr><tr><td>
 
@@ -70,11 +70,11 @@ Sandbox alias
 Name that's used in the unique URL for the sandbox.
 
 </td></tr></tbody>
-</table>    ![Fill in the Allocate Sandbox form](../image/dev-sbx-allocate-modal.png "Allocate Sandbox details")
+</table>    ![Fill in the Allocate Sandbox form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../image/dev-sbx-allocate-modal.png "Allocate Sandbox details")
 
 4.  Select **Allocate**.
 
-    ![Provisioned sandbox initializing](../image/dev-sbx-allocate-requested.png "Sandbox initializing after allocation")
+    ![Provisioned sandbox initializing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../image/dev-sbx-allocate-requested.png "Sandbox initializing after allocation")
 
 
 ## Result
@@ -85,5 +85,5 @@ Developer Sandboxes starts the process of provisioning the sandbox.
 
 Once allocated, developers can access their sandbox by pre-pending the **Sandbox alias** value to the instance name followed by `devsandboxes`. For example, `https://samsbox.[instance].devsandboxes.servicenow.com`.
 
-Sandbox users use the same login credentials for their sandbox as the base instance. If you use Single Sign-On \(SSO\) for login, when you enable it to connect to your account on the base instance, Developer Sandboxes authenticates using the same mechanism and credentials as the base instance. For information on enabling SSO, see [Installing Developer Sandboxes](../concept/dev-sbx-installing.md).
+Sandbox users use the same login credentials for their sandbox as the base instance. If you use Single Sign-On \(SSO\) for login, when you enable it to connect to your account on the base instance, Developer Sandboxes authenticates using the same mechanism and credentials as the base instance. For information on enabling SSO, see [Installing Developer Sandboxes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developer-sandboxes/../concept/dev-sbx-installing.md).
 

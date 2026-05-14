@@ -17,7 +17,7 @@ Create customized mentoring programs that can be adopted by a mentee.
 
 ## About this task
 
-Mentoring admins can create multiple mentoring programs. Employees and managers use the Employee Center portal to enroll as mentors or mentees. See, [Enroll as a mentor or mentee](enroll-mentoring.md).
+Mentoring admins can create multiple mentoring programs. Employees and managers use the Employee Center portal to enroll as mentors or mentees. See, [Enroll as a mentor or mentee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
 
 ## Before you begin
 

@@ -192,10 +192,10 @@ Make sure that the user has credentials for SNMPv3 unless read-only community st
 -   1.3.6.1.4.1.89.35.1.11.1
 -   1.3.6.1.4.1.89.35.1.40.52.1.1
 
-**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md)
+**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
 **Related topics**  
 
 
-[ITOM Content Service reference](../../discovery/reference/itom-content-service-classifiers.md)
+[ITOM Content Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/reference/itom-content-service-classifiers.md)
 

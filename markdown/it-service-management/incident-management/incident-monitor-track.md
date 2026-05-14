@@ -39,12 +39,12 @@ Complimentary Performance Analytics for Incident Management and aggregates data 
 
 A subscription to Performance Analytics also gives you access to In-form analytics. In-form analytics integrate performance insights into Incident records so that users can access important metrics in context and make better decisions.
 
--   **[Legacy: Incident Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/incident-content-pack.md)**  
+-   **[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../use/dashboards/application-content-packs/incident-content-pack.md)**  
 Platform Analytics Solutions and in-form analytics contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
--   **[Legacy: Incident SLA Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/incident-sla-content-pack.md)**  
+-   **[Legacy: Incident SLA Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../use/dashboards/application-content-packs/incident-sla-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
-**Parent Topic:**[Incident Management](c_IncidentManagement.md)
+**Parent Topic:**[Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md)
 
 **Related topics**  
 

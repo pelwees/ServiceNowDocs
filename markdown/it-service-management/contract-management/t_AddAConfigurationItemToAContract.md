@@ -36,16 +36,16 @@ Role required: admin or contract\_manager
 6.  Select **Save**.
 
 
-**Parent Topic:**[Create a contract](t_CreateAContract.md)
+**Parent Topic:**[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)
 
 **Related topics**  
 
 
-[Create a software maintenance contract example](t_UseCaseCreateSWMaintContract.md)
+[Create a software maintenance contract example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_UseCaseCreateSWMaintContract.md)
 
-[Add an asset to a contract](t_AddAnAssetToAContract.md)
+[Add an asset to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAnAssetToAContract.md)
 
-[Add a user to a contract](t_AddAUserToAContract.md)
+[Add a user to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddAUserToAContract.md)
 
-[Add a document to a contract](t_AddADocumentToAContract.md)
+[Add a document to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AddADocumentToAContract.md)
 

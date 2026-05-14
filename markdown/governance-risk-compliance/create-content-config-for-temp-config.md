@@ -27,7 +27,7 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
     The Content configurations new record and its related lists are displayed.
 
-    ![Content configurations new record.](../image/content-conf-new-record-filter-criteria.png)![Filter criteria.](../image/content-conf-new-record-filter-criteria.png)![Aggregation criteria.](../image/content-conf-sample-record-aggr-criteria.png)![Content block criteria.](../image/content-conf-sample-record-content-block-criteria.png)
+    ![Content configurations new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-conf-new-record-filter-criteria.png)![Filter criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-conf-new-record-filter-criteria.png)![Aggregation criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-conf-sample-record-aggr-criteria.png)![Content block criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-conf-sample-record-content-block-criteria.png)
 
 4.  On the form, fill in the fields.
 
@@ -61,10 +61,10 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
     The Content configurations related list is shown in the example.
 
-    ![Content configurations related list.](../image/content-config-rel-list-template-config.png)
+    ![Content configurations related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/content-config-rel-list-template-config.png)
 
 
 ## What to do next
 
-Create a scripted variable for the report. For more information, see [Define the scripted variables](create-scripted-vari-for-temp-config.md).
+Create a scripted variable for the report. For more information, see [Define the scripted variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-scripted-vari-for-temp-config.md).
 

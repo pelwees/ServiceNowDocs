@@ -17,7 +17,7 @@ The OnCallRotation script include provides methods to manage on-call schedules.
 
 For information, see [On-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## OnCallRotation - OnCallRotation\(\)
 
@@ -1133,7 +1133,7 @@ gdt
 
 </td><td>
 
-[GlideDateTime](../../GlideDateTime/concept/c_GlideDateTimeAPI.md#)
+[GlideDateTime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideDateTime/concept/c_GlideDateTimeAPI.md#)
 
 </td><td>
 
@@ -1189,7 +1189,7 @@ taskGR
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#)
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#)
 
 </td><td>
 

@@ -21,14 +21,14 @@ Each successful Billing download triggers budget refresh automatically. Budget r
 
 Budget Forecast jobs use the cost forecast data from the providers and follow this process:
 
-1.  Apply each budget plan to billing data. For more information about plans, see are described in [Create or update a budget policy](manage-cloud-budgets.md#).
+1.  Apply each budget plan to billing data. For more information about plans, see are described in [Create or update a budget policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-cloud-budgets.md#).
 2.  Update all Budget Forecast reports.
 3.  Repeat the process whenever billing data is updated or a user requests budget reanalysis.
 
-**Note:** If there’s a large number of users, the users may not load correctly or may fail to load to the [Budget view](budget-view-ws.md). See the Knowledge article for more information [KB0866547](https://support.servicenow.com/kb_view.do?sysparm_article=KB0866547).
+**Note:** If there’s a large number of users, the users may not load correctly or may fail to load to the [Budget view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/budget-view-ws.md). See the Knowledge article for more information [KB0866547](https://support.servicenow.com/kb_view.do?sysparm_article=KB0866547).
 
 **Related topics**  
 
 
-[Manage cloud budgets](manage-cloud-budgets.md#)
+[Manage cloud budgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-cloud-budgets.md#)
 

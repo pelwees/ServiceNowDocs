@@ -23,8 +23,8 @@ Canceling a life-cycle task is available only for tasks that are in the 'Not sta
 
 ## About this task
 
--   To review attestation tasks, see [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](review-data-manager-attes-task.md).
--   To review certification tasks, see [Review certification tasks](data-certific-review-tasks.md).
+-   To review attestation tasks, see [Review attestation tasks in CMDB Workspace or in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/review-data-manager-attes-task.md).
+-   To review certification tasks, see [Review certification tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md).
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Canceling a life-cycle task is available only for tasks that are in the 'Not sta
 
         You can only reject a task that is assigned to you.
 
-        After you reject a task, the **State** of the task is set to **Closed Canceled** and **Approval** is set to **Rejected**. Also, appropriate notifications are sent to members of the group specified in the **glide.cmdb.data\_manager.rejected.task.notification\_group** system property. For more information about how this property is used for notifications, see [Components related to CMDB Data Manager](../reference/components-cmdb-data-manager.md).
+        After you reject a task, the **State** of the task is set to **Closed Canceled** and **Approval** is set to **Rejected**. Also, appropriate notifications are sent to members of the group specified in the **glide.cmdb.data\_manager.rejected.task.notification\_group** system property. For more information about how this property is used for notifications, see [Components related to CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/components-cmdb-data-manager.md).
 
     4.  Select **Assign to me** or **Request reassignment** as appropriate.
 

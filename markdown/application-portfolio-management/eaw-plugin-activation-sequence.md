@@ -17,7 +17,7 @@ The following table provides the list of plugins for Enterprise Architecture Wor
 
 ## Enterprise Architecture Workspace application plugin list
 
-When you activate Enterprise Architecture Workspace \(`com.snc.apm_workspace`\), ServiceNow automatically activates several dependent plugins. These are listed as **Automatic** in the Activation column. The remaining plugins must be activated manually in the order shown in the [Enterprise Architecture Workspace plugin activation sequence](eaw-plugin-activation-sequence.md#install_sequence) section.
+When you activate Enterprise Architecture Workspace \(`com.snc.apm_workspace`\), ServiceNow automatically activates several dependent plugins. These are listed as **Automatic** in the Activation column. The remaining plugins must be activated manually in the order shown in the [Enterprise Architecture Workspace plugin activation sequence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-plugin-activation-sequence.md#install_sequence) section.
 
 **Tip:** The auto-activated plugin list may vary depending on your instance version. To confirm the exact dependencies for your version, check the Plugin Manager before activation.
 
@@ -651,5 +651,5 @@ If a feature is missing after activation, check whether a required plugin was in
 |Now Assist buttons not visible in workspace|Now Assist for EA was not active when EA Workspace was activated|Activate `sn_apm_gen_ai`, then reactivate `com.snc.apm_workspace`.|
 |Digital Integration entities missing in diagrams|Digital Integration Management was not active when Enterprise Modeling Common was activated|Activate `com.snc.apm_digital_integration`, then reactivate `com.snc.apm_modelling_tool_common`.|
 
-**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+**Parent Topic:**[Install Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/install-ea-workspace.md)
 

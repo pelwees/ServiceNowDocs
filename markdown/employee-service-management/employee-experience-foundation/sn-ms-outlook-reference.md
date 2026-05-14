@@ -15,10 +15,10 @@ breadcrumb: [ServiceNow for Microsoft Outlook, Unified Employee Experience, Empl
 
 Reference topics provide additional information about the lists and forms that you use to configure ServiceNow for Microsoft Outlook.
 
--   **[Properties installed with ServiceNow for Microsoft Outlook](properties-sn-ms-outlook.md)**  
+-   **[Properties installed with ServiceNow for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-sn-ms-outlook.md)**  
 The following properties are installed with the Outlook Actionable Messages plugin.
--   **[Outlook Actionable Messages compatibility for surveys](oam-survey-compatibility.md)**  
+-   **[Outlook Actionable Messages compatibility for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/oam-survey-compatibility.md)**  
 Survey definitions must be compatible with Outlook Actionable Messages \(OAM\) to display surveys in the Microsoft Outlook application.
 
-**Parent Topic:**[Unified Employee Experience](../../employee-center/concept/ec-and-ecpro-landing-page.md)
+**Parent Topic:**[Unified Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../employee-center/concept/ec-and-ecpro-landing-page.md)
 

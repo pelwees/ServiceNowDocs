@@ -19,15 +19,15 @@ Once a content request has been created, Content Governance provides the ability
 
 There are several ways for your employees to request content to be created:
 
--   **[Employee Center Pro](ec-content-gov-request.md#)**
+-   **[Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#)**
 
     Employees can use the Content Request catalog item from the Employee Center Pro. Your company decides where on the Employee Center Pro it appears. Any employee that has access to Employee Center Pro can request content.
 
--   **[Service Catalog](ec-content-gov-request.md#)**
+-   **[Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#)**
 
     Employees can request content from the Service Catalog similar to requesting content from the Employee Center Pro.
 
--   **[Content Request form](ec-content-gov-request.md#)**
+-   **[Content Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#)**
 
     Primarily used by the content team to create a content request when the original request was made verbally or through some other method. The **Content Request** form allows the content team to create the request, then track, review, approve, and publish the content that is created from the request.
 
@@ -40,7 +40,7 @@ Employees that have access to the Employee Center Pro can request content to be 
 
 Role required: none
 
-You can use unified taxonomy to link the request content to a topic so the request can be accessed from the Topic page. For more information, see [Unified Taxonomy for Employee Center](config-taxonomy.md).
+You can use unified taxonomy to link the request content to a topic so the request can be accessed from the Topic page. For more information, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-taxonomy.md).
 
 ### Procedure
 
@@ -112,7 +112,7 @@ The type of content you want communicated. The type of content depends on what t
 
 </td><td>
 
-Enter the topic page you want your content to appear in. This field only appears when you select **Topic Content Selection** from the **What type of content do you need for your communication** drop-down. For more information, see [Dynamic topic pages](dynamic-topic-page.md).
+Enter the topic page you want your content to appear in. This field only appears when you select **Topic Content Selection** from the **What type of content do you need for your communication** drop-down. For more information, see [Dynamic topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/dynamic-topic-page.md).
 
 </td></tr><tr><td id="d187552e372">
 
@@ -305,7 +305,7 @@ The language\(s\) you want your content to be created in and made available to y
 
 </td><td>
 
-Select the **Lock** ![Lock icon](../../human-resources/image/icon-hr-unlock-add-parties.png) icon. Next, select the Lookup using list ![Lookup using list icon](../../human-resources/image/magnify-glass-outline-icon.png) icon.
+Select the **Lock** ![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/image/icon-hr-unlock-add-parties.png) icon. Next, select the Lookup using list ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/image/magnify-glass-outline-icon.png) icon.
 
  Select people you want to review the content that is created from your request.
 
@@ -329,7 +329,7 @@ A URL link you want your audience to select if you are requesting to-do, survey,
 
 </td></tr><tr><td id="d187552e815">
 
-**![Manage Attachments icon](../../human-resources/image/attach-icon.png) Manage Attachments**
+**![Manage Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/image/attach-icon.png) Manage Attachments**
 
 </td><td>
 
@@ -338,7 +338,7 @@ Any files that you want to be included in the content you are requesting.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    A content request number \(CONREQ prefix and sequential number\) is generated on the **Content Request** form. For more information, see [Request content using the Content Request form](ec-content-gov-request.md#).
+    A content request number \(CONREQ prefix and sequential number\) is generated on the **Content Request** form. For more information, see [Request content using the Content Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#).
 
 
 ## Request content using the Content Request form
@@ -480,7 +480,7 @@ You can choose to make this information visible to the requester by checking the
 
 3.  Select **Save** or **Submit**.
 
-    If you select **Save**, your information is saved and the **Content Request** form remains visible and the **Content Request Items** related list appears. For more information, see [Edit a content request item](ec-content-gov-request.md#). If you select **Submit**, the record is saved and you are returned to the **Content Requests** list.
+    If you select **Save**, your information is saved and the **Content Request** form remains visible and the **Content Request Items** related list appears. For more information, see [Edit a content request item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#). If you select **Submit**, the record is saved and you are returned to the **Content Requests** list.
 
     -   **Discuss**
 
@@ -507,7 +507,7 @@ You can also access the **Content Request Item** form by selecting a content req
 
 2.  Select the content request that contains the content request item you want to edit.
 
-    For more information, see [Request content using the Content Request form](ec-content-gov-request.md#) or [Request content from the Employee Center Pro](ec-content-gov-request.md#).
+    For more information, see [Request content using the Content Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#) or [Request content from the Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md#).
 
 3.  Select the content request item from the **Content Request Items** related list.
 
@@ -545,9 +545,9 @@ A unique number that identifies the content request. This field pre-fills the co
 
 </td><td>
 
-The name of the content to fulfill the content request. Select the **Lookup using list** icon \(![Lookup using list icon](../../human-resources/image/magnify-glass-outline-icon.png) and select the content that was created to fulfill the content request. For more information on creating content, see [Portal content](ec-streamline-content.md).Once content is selected and you fill in the required fields, you can save the content request item and schedule the content to be published. The **Schedule Content** related list appears after saving the record.
+The name of the content to fulfill the content request. Select the **Lookup using list** icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../human-resources/image/magnify-glass-outline-icon.png) and select the content that was created to fulfill the content request. For more information on creating content, see [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).Once content is selected and you fill in the required fields, you can save the content request item and schedule the content to be published. The **Schedule Content** related list appears after saving the record.
 
- For more information, see [Publishing content](ec-content-publishing-schedule.md).
+ For more information, see [Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
 
 </td></tr><tr><td id="d187552e1441">
 
@@ -665,7 +665,7 @@ You can choose to make this information visible to the requester by checking the
 
 6.  To schedule content, select **New** from the **Schedule Content** related list.
 
-    For more information on scheduling content, see [Publishing content](ec-content-publishing-schedule.md).
+    For more information on scheduling content, see [Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
 
     -   **Approvers related list**
 
@@ -699,7 +699,7 @@ You can choose to make this information visible to the requester by checking the
 
         The **Create Content** button appears at the top of the **Content Request Item** form.
 
-        Selecting the **Create Content** button takes you to the **Content Library** form where you can select the type of content you want to create. For more information, see [Portal content](ec-streamline-content.md).
+        Selecting the **Create Content** button takes you to the **Content Library** form where you can select the type of content you want to create. For more information, see [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
     -   **Edit Content**
 
@@ -707,7 +707,7 @@ You can choose to make this information visible to the requester by checking the
 
         The **Edit Content** button appears when there is content associated with the content request item and the **State** is **Work in Progress**.
 
-        This takes you to the content form. For more information on editing content, see [Portal content](ec-streamline-content.md).
+        This takes you to the content form. For more information on editing content, see [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
     -   **Clone Content**
 
@@ -717,7 +717,7 @@ You can choose to make this information visible to the requester by checking the
 
         The **Clone Content** button appears when the **State** is **Work in Progress**.
 
-        Selecting the **Clone Content** button takes you to the content list where you can select content to clone. For more information on editing content, see [Portal content](ec-streamline-content.md).
+        Selecting the **Clone Content** button takes you to the content list where you can select content to clone. For more information on editing content, see [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
     -   **View Content**
 
@@ -728,7 +728,7 @@ You can choose to make this information visible to the requester by checking the
         -   Published
         **Note:** When the content request item is in the above states, associated content cannot be edited or cloned.
 
-        For more information, see [Publishing content](ec-content-publishing-schedule.md).
+        For more information, see [Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
 
     -   **Manage approvers**
 

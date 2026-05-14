@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.safety\_register\_manager
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the configuration icon \(![Configuration icon](../image/icon-config.png)\).
+2.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-config.png)\).
 
 3.  In the **Configuration** tab, select **Safety Registers** and then the required register.
 
@@ -49,7 +49,7 @@ Depending on the selected register type, the safety register is available in the
 
 ## What to do next
 
-Employees can access the attached safety register document, such as SDS, through the Employee Center. For more information, see [Access a safety register document in Employee center](hs-view-safety-register-docs-ec.md).
+Employees can access the attached safety register document, such as SDS, through the Employee Center. For more information, see [Access a safety register document in Employee center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-view-safety-register-docs-ec.md).
 
-**Parent Topic:**[Safety registers](../concept/hs-safety-registers.md)
+**Parent Topic:**[Safety registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-safety-registers.md)
 

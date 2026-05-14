@@ -23,7 +23,7 @@ Role required: None
 
 ## About this task
 
-To filter a dashboard on breakdown elements, such as priorities or categories, select the breakdown source and then select elements within that breakdown source. Reports and appropriately configured Performance Analytics widgets reflect the filter when it is applied. If you select multiple elements, Performance Analytics shows the values associated with those elements as an aggregation or as separated elements, depending on how each Performance Analytics widget is configured. For more information about configuring breakdown dashboards and their widgets, see [Using breakdowns on dashboards](../../performance-analytics/concept/c_SpecialDashboards.md).
+To filter a dashboard on breakdown elements, such as priorities or categories, select the breakdown source and then select elements within that breakdown source. Reports and appropriately configured Performance Analytics widgets reflect the filter when it is applied. If you select multiple elements, Performance Analytics shows the values associated with those elements as an aggregation or as separated elements, depending on how each Performance Analytics widget is configured. For more information about configuring breakdown dashboards and their widgets, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/concept/c_SpecialDashboards.md).
 
 For performance reasons, there is no option to select all breakdown elements.
 
@@ -37,11 +37,11 @@ For performance reasons, there is no option to select all breakdown elements.
 
 3.  Select a breakdown source from the list in the upper left.
 
-    ![Dashboard widget with breakdown source list open and the source Incident.Category highlighted.](../image/select-breakdown-source-mes.png)
+    ![Dashboard widget with breakdown source list open and the source Incident.Category highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/select-breakdown-source-mes.png)
 
-4.  In the Select Elements list, select the element or elements you want to filter on and click **Apply**.![Database, Hardware, Network, and Software breakdown elements selected on a breakdown dashboard, only the Selected elements are shown, and the sort order is A-Z](../../performance-analytics/image/breakdown-db-with-mes-2-ny-db.png)
+4.  In the Select Elements list, select the element or elements you want to filter on and click **Apply**.![Database, Hardware, Network, and Software breakdown elements selected on a breakdown dashboard, only the Selected elements are shown, and the sort order is A-Z](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/image/breakdown-db-with-mes-2-ny-db.png)
 
-    The widgets on the dashboard that can be filtered are filtered on the selected elements. Next to their titles, filtered widgets show a filter icon ![Green filter icon shown in widgets that are filtered](../image/green-filter-icon.png).
+    The widgets on the dashboard that can be filtered are filtered on the selected elements. Next to their titles, filtered widgets show a filter icon ![Green filter icon shown in widgets that are filtered](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/green-filter-icon.png).
 
     **Note:** If element security settings prevent you from seeing one or more selected elements, a warning appears.
 
@@ -57,7 +57,7 @@ For performance reasons, there is no option to select all breakdown elements.
 
     Access to the Analytics Hub requires the pa\_viewer role.
 
-    Targets, thresholds, and comments are not available when you navigate to the Analytics Hub from a widget with multiple breakdown elements selected in an aggregate view. The breakdown selector and search functionality are also unavailable. For more information about aggregate and separate views of multiple elements in a widget, see [Configure widgets for breakdown dashboards](../../performance-analytics/task/set-up-widgets-for-breakdown-dashboards.md).
+    Targets, thresholds, and comments are not available when you navigate to the Analytics Hub from a widget with multiple breakdown elements selected in an aggregate view. The breakdown selector and search functionality are also unavailable. For more information about aggregate and separate views of multiple elements in a widget, see [Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../performance-analytics/task/set-up-widgets-for-breakdown-dashboards.md).
 
 8.  Select **Clear all** to remove the selected elements and show the breakdown widget with all elements.
 

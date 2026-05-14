@@ -19,7 +19,7 @@ To access the new Outsourced Service Provider dashboard, navigate to **All** &gt
 
 However, existing customers on release versions prior to the Xanadu release can still view the old Outsourced Service Provider dashboard by navigating to **All** &gt; **Outsourced Customer Service** &gt; **Overview**.
 
-![Outsourced Service Provider dashboard displaying data for all the service providers. For more information about different metrics, refer to the Indicators section.](../image/ocs-dashboard.jpeg "Outsourced Service Provider dashboard")
+![Outsourced Service Provider dashboard displaying data for all the service providers. For more information about different metrics, refer to the Indicators section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ocs-dashboard.jpeg "Outsourced Service Provider dashboard")
 
 ## End user and roles
 
@@ -65,6 +65,6 @@ The Outsourced Service Provider dashboard utilizes the outsourced service provid
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Unassigned Open Cases|![Single score report](../../reporting/image/icon-single-score-report.png)|The number of cases that are in the open state and isn’t yet assigned to an OSP agent. In this report, for example, there are 42 cases that are yet to be assigned. The OSP manager views the number of such cases at a glance and assigns them.|
-|Active SLAs Breached|![Single score report.](../../reporting/image/icon-single-score-report.png)|This report shows all breached SLAs that are still active In this report, for example, there are 42 such active SLAs. The OSP manager views the number of breached SLAs at a glance, which helps in taking immediate action.|
+|Unassigned Open Cases|![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../reporting/image/icon-single-score-report.png)|The number of cases that are in the open state and isn’t yet assigned to an OSP agent. In this report, for example, there are 42 cases that are yet to be assigned. The OSP manager views the number of such cases at a glance and assigns them.|
+|Active SLAs Breached|![Single score report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../reporting/image/icon-single-score-report.png)|This report shows all breached SLAs that are still active In this report, for example, there are 42 such active SLAs. The OSP manager views the number of breached SLAs at a glance, which helps in taking immediate action.|
 

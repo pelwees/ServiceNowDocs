@@ -77,10 +77,10 @@ Activates the rule.
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Reconciliation rules](../reference/r_ReconciliationRulesPrinciples.md)
+**Parent Topic:**[Reconciliation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_ReconciliationRulesPrinciples.md)
 
 **Related topics**  
 
 
-[Create a CI reconciliation rule](../concept/create-reconciliation-rule.md#)
+[Create a CI reconciliation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/create-reconciliation-rule.md#)
 

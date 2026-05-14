@@ -13,5 +13,5 @@ breadcrumb: [Facilities move management, Facilities Service Management overview,
 
 The facilities staff adds templates to the facilities catalog, so users can select from subcategories for their request type.
 
-**Parent Topic:**[Facilities move management](c_FacMoveMgmt.md)
+**Parent Topic:**[Facilities move management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)
 

@@ -136,7 +136,7 @@ Tags that are associated with the policy.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mapping policies in DevOps Config](../../devops-config/concept/devops-config-mapping-policies.md)
+**Parent Topic:**[Mapping policies in DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../devops-config/concept/devops-config-mapping-policies.md)
 
 **Related topics**  
 

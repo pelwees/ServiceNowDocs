@@ -278,5 +278,5 @@ UI Builder
 The expanded drop-down menus for column properties can be ready by screen readers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Release notes summaries for Australia features](../release-notes-summaries.md)
+</table>**Parent Topic:**[Release notes summaries for Australia features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../release-notes-summaries.md)
 

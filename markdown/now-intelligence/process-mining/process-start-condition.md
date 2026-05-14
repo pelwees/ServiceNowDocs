@@ -85,7 +85,7 @@ The qualifier for the condition.-   is
 -   contains
 -   does not contain
 
-**Note:** When you select "is one of", you can select multiple values at once. Type the first two letters, and select the **Select all** icon to select all matching values.![Selecting multiple values for is one of predicate](../image/filter-isoneof.gif)
+**Note:** When you select "is one of", you can select multiple values at once. Type the first two letters, and select the **Select all** icon to select all matching values.![Selecting multiple values for is one of predicate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/filter-isoneof.gif)
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Field value
 
 </td><td>
 
-The value use along with the predicate to define this condition. If the field is a reference field, you can select values using the reference icon \(![Reference icon](../image/reference-icon.png)\).
+The value use along with the predicate to define this condition. If the field is a reference field, you can select values using the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/reference-icon.png)\).
 
 </td></tr><tr><td>
 
@@ -114,5 +114,5 @@ Contextual Condition
 Additional condition that must be true when the current condition is triggered. For example, you configure your condition to trigger when a record is in the New state. If you wanted to also specify that the **Priority** is high, you can do that using the **Contextual Condition** field.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process Mining reference](../concept/process-mining-reference.md)
+</table>**Parent Topic:**[Process Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/process-mining-reference.md)
 

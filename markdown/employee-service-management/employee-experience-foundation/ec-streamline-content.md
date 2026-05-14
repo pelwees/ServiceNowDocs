@@ -30,7 +30,7 @@ Example
 
 </th></tr></thead><tbody><tr><td>
 
-[Image-based link](../task/ec-content-library-portal-image.md)
+[Image-based link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-image.md)
 
 </td><td>
 
@@ -38,11 +38,11 @@ An picture or graphic that redirects employees to an internal or external web pa
 
 </td><td>
 
-![Image-based links](../images/ec-example-image-link.png)
+![Image-based links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-image-link.png)
 
 </td></tr><tr><td>
 
-[Banner](../task/ec-content-library-portal-banner.md)
+[Banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-banner.md)
 
 </td><td>
 
@@ -50,11 +50,11 @@ An image with text that appears at the top of the portal homepage.
 
 </td><td>
 
-![Banner appears at the top of the page](../images/ec-example-banner.png)
+![Banner appears at the top of the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-banner.png)
 
 </td></tr><tr><td>
 
-[Calendar](../task/ec-content-library-portal-calendar.md#)
+[Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-calendar.md#)
 
 </td><td>
 
@@ -62,11 +62,11 @@ Displays upcoming company holidays.**Note:** Employees can download content as a
 
 </td><td>
 
-![Events displayed in event widget](../images/ec-example-calendar.png)
+![Events displayed in event widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-calendar.png)
 
 </td></tr><tr><td>
 
-[Event](../task/ec-content-library-portal-events.md)
+[Event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-events.md)
 
 </td><td>
 
@@ -74,11 +74,11 @@ Provides employees with a quick view of upcoming company events.**Note:** Employ
 
 </td><td>
 
-![US holidays calendar](../images/ec-example-events.png)
+![US holidays calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-events.png)
 
 </td></tr><tr><td>
 
-[Rich text](../task/ec-content-library-portal-richtext.md)
+[Rich text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-richtext.md)
 
 </td><td>
 
@@ -86,11 +86,11 @@ Blocks of formatted text and images.
 
 </td><td>
 
-![Block of rich text](../images/ec-example-rich-text.png)
+![Block of rich text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-rich-text.png)
 
 </td></tr><tr><td>
 
-[Styled content](../task/ec-content-library-portal-styled.md)
+[Styled content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-styled.md)
 
 </td><td>
 
@@ -98,11 +98,11 @@ A banner, video, or block of rich text.
 
 </td><td>
 
-![Block of styled content](../images/ec-example-styled-content.png)
+![Block of styled content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-styled-content.png)
 
 </td></tr><tr><td>
 
-[URL](../task/ec-content-library-portal-url.md)
+[URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-url.md)
 
 </td><td>
 
@@ -110,11 +110,11 @@ A text-based link that redirects employees to an internal or external web page.
 
 </td><td>
 
-![URL links in widget](../images/ec-example-url.png)
+![URL links in widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-url.png)
 
 </td></tr><tr><td>
 
-[Video](../task/ec-content-library-portal-video.md)
+[Video](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ec-content-library-portal-video.md)
 
 </td><td>
 
@@ -122,13 +122,13 @@ Embed a video in the portal.
 
 </td><td>
 
-![YouTube video embedded in portal](../images/ec-example-video.png)
+![YouTube video embedded in portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-example-video.png)
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Publishing content](ec-content-publishing-schedule.md)
+[Publishing content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md)
 
-[Creating campaigns](ecpro-campaigns.md)
+[Creating campaigns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 

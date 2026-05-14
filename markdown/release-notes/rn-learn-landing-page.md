@@ -24,15 +24,15 @@ Before you upgrade, review release notes from your current version to the Austra
 
 <table id="table_qvn_nkz_smb" class="nav-card"><tbody><tr><td>
 
-[Upgrade from Zurich ![icon for the tile upgrade from n-1 to n](../image/n-1-upgrades.png) Release notes for upgrading from Zurich to the Australia release](rn-n-1-landing-page.md)
+[Upgrade from Zurich ![icon for the tile upgrade from n-1 to n](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/n-1-upgrades.png) Release notes for upgrading from Zurich to the Australia release](rn-n-1-landing-page.md)
 
 </td><td>
 
-[Upgrade from Yokohama ![icon for the tile upgrade from n-2 to n](../image/n-2-upgrades.png) Release notes for upgrading from Yokohama to the Australia release](rn-n-2-landing-page.md)
+[Upgrade from Yokohama ![icon for the tile upgrade from n-2 to n](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/n-2-upgrades.png) Release notes for upgrading from Yokohama to the Australia release](rn-n-2-landing-page.md)
 
 </td><td>
 
-[Upgrade from Xanadu ![icon for the tile upgrade from n-3 to n](../image/n-3-upgrades.png) Release notes for upgrading from Xanadu to the Australia release](rn-n-3-landing-page.md)
+[Upgrade from Xanadu ![icon for the tile upgrade from n-3 to n](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/n-3-upgrades.png) Release notes for upgrading from Xanadu to the Australia release](rn-n-3-landing-page.md)
 
 </td></tr></tbody>
 </table>

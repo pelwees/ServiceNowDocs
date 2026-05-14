@@ -33,7 +33,7 @@ Role required: admin, sp\_admin, or ESC admin
 
 6.  On the form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Activity Configuration Detail form](../reference/activity-configuration-detail-form.md).
+    For more information about the form fields and descriptions, see [Activity Configuration Detail form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/activity-configuration-detail-form.md).
 
 7.  Click **Submit**.
 

@@ -21,7 +21,7 @@ A flat network architecture is a network design that has all available Discovery
 
 You can have one or more sites that communicate with each other.
 
-![Flat network](../../operational-technology-discovery-deployment-guide/images/flat-network.png "Flat network")
+![Flat network](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/images/flat-network.png "Flat network")
 
 The Console, Sensors, and MID Server connect at Purdue level 3.5 and push data through the switches and the firewall to the ServiceNow instance for ingestion.
 
@@ -38,7 +38,7 @@ The following are the components in a flat network.
 
 A segmented site architecture is a network design that has the network split into multiple segments. Each segment contains its own Discovery Console for OT and multiples of the Discovery Sensor for OT and the Discover OT Collector. There is no communication between sites. Each of the segments could be considered a flat network.
 
-![Segmented site](../../operational-technology-discovery-deployment-guide/images/segmented-site.png "Segmented sites")
+![Segmented site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/images/segmented-site.png "Segmented sites")
 
 In this OT environment, the network is segmented into **three distinct zones** for operational clarity, security, and control:
 

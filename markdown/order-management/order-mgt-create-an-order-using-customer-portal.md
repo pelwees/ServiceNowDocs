@@ -21,7 +21,7 @@ Role required: sn\_customerservice.customer
 
 The following illustration describes the process to create orders from the Business Portal:
 
-![Infographic showing how customers can create orders from the Business Portal.](../image/som-self-service-order-checkout.svg "Self-service order checkout process")
+![Infographic showing how customers can create orders from the Business Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/som-self-service-order-checkout.svg "Self-service order checkout process")
 
 ## Procedure
 
@@ -91,7 +91,7 @@ The order is created and you're redirected to the Order details page. You can vi
 **Related topics**  
 
 
-[View an order on the Business Portal](order-mgt-view-order-using-customer-portal.md)
+[View an order on the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-view-order-using-customer-portal.md)
 
-[Modify terms and conditions for the sales cart](modify-terms-conditions-sales-cart.md)
+[Modify terms and conditions for the sales cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/modify-terms-conditions-sales-cart.md)
 

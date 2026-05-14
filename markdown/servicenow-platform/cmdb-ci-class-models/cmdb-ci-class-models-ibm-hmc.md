@@ -33,11 +33,11 @@ The IBM HMC extension classes support discovery of IBM virtualization technology
 
 ​
 
-![IBM HMC extension classes integrated with the CMDB class hierarchy.](../image/IBM-HMC-CI-Class-Model.png "IBM HMC extension classes integrated with the CMDB class hierarchy")
+![IBM HMC extension classes integrated with the CMDB class hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/IBM-HMC-CI-Class-Model.png "IBM HMC extension classes integrated with the CMDB class hierarchy")
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.3.0 adds the following classes for the IBM HMC.
 
@@ -164,5 +164,5 @@ The following class has no added columns: IBM Frame \[cmdb\_ci\_ibm\_frame\].
 **Related topics**  
 
 
-[CMDB schema model](c_ConfigurationManagementDatabase.md)
+[CMDB schema model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/c_ConfigurationManagementDatabase.md)
 

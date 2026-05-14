@@ -52,7 +52,7 @@ The following Data tables are data separated.
 -   sn\_uni\_task\_template
 -   sn\_uni\_task\_employee\_form
 
-**Parent Topic:**[Setting up and configuring Universal Task](set-up-universal-task.md)
+**Parent Topic:**[Setting up and configuring Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/set-up-universal-task.md)
 
 **Related topics**  
 

@@ -14,15 +14,15 @@ Get started using ServiceNow APIs with guides, resources, and reference document
 
 <table id="table_api_tiles" class="nav-card"><tbody><tr><td>
 
-[API implementation ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Set up Web Services to access ServiceNow APIs.](api-implementation.md)
+[API implementation ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Set up Web Services to access ServiceNow APIs.](api-implementation.md)
 
 </td><td>
 
-[API reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Find reference documentation for Client, Server, and REST APIs.](api-reference.md)
+[API reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-learn.svg) Find reference documentation for Client, Server, and REST APIs.](api-reference.md)
 
 </td><td>
 
-[Developer guides ![](../../../reuse/icons/brand-icons/bus-application-developer.svg) Explore program resources for learning, building, and developing.](../../../integrate/guides/concept/developer-guides.md)
+[Developer guides ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../reuse/icons/brand-icons/bus-application-developer.svg) Explore program resources for learning, building, and developing.](../../../integrate/guides/concept/developer-guides.md)
 
 </td></tr></tbody>
 </table>## API implementation

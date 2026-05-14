@@ -21,9 +21,9 @@ Role required: problem\_admin, problem\_coordinator, problem\_manager, or admin
 
 ## About this task
 
-Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the life cycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](act-pm-best-prac-madrid-state-mod.md).
+Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the life cycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
 
-![root cause analysis state](../image/pm-fix.png "Root cause analysis")
+![root cause analysis state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-fix.png "Root cause analysis")
 
 ## Procedure
 
@@ -45,7 +45,7 @@ Actions to be taken
 
 -   If you are the subject matter expert for this problem area, carry out the investigation and provide the cause notes and fix notes on this problem.
 -   If you are not the subject matter expert and you want help with the investigation, create a problem task of type root cause analysis and assign that to the relevant team. Once the subject matter expert has completed the problem task, then you can manually copy the cause notes and proposed fix from the problem task to this problem.
- For more information about creating a problem task, see [Create a problem task](create-problem-task.md).
+ For more information about creating a problem task, see [Create a problem task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-task.md).
 
 </td></tr><tr><td id="d214538e120">
 
@@ -81,5 +81,5 @@ Click **Re-analyze**. The problem opens for reanalysis and the state is changed 
 
 You can resolve and complete the problem. You can also create a change request to implement a fix for the problem.
 
-**Parent Topic:**[Managing Problems](../concept/problem-mgmt-lifecycle.md)
+**Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-lifecycle.md)
 

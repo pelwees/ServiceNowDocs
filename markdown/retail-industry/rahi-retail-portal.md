@@ -13,7 +13,7 @@ breadcrumb: [Explore, Retail]
 
 Retail portal provides an enhanced experience to use self-service tools, view cases, and gain visibility into metrics for your retail organizations.
 
-![Retail Portal landing page](../image/z-retail-portal.png)
+![Retail Portal landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../image/z-retail-portal.png)
 
 The Retail portal landing page provides the following information at a glance:
 
@@ -34,10 +34,10 @@ Retail portal provides a responsive portal experience that can be used by the te
 
 For information on using Retail portal, see the following topics:
 
--   [Add and configure the Retail KPI widget](../task/rahi-portal-configure-retail-kpi-widget.md)
--   [Create a store inquiry case from the Retail portal](rahi-retail-create-store-service-portal.md)
--   [Manage a store inquiry case from the Retail portal](rahi-retail-fulfill-retail-store-service-case.md)
--   [Track cases and tasks from the Retail portal](rahi-retail-navigating-retail.md)
+-   [Add and configure the Retail KPI widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../task/rahi-portal-configure-retail-kpi-widget.md)
+-   [Create a store inquiry case from the Retail portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-create-store-service-portal.md)
+-   [Manage a store inquiry case from the Retail portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-retail-store-service-case.md)
+-   [Track cases and tasks from the Retail portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-navigating-retail.md)
 
-**Parent Topic:**[Exploring Retail](rahi-retail-operations-explore.md)
+**Parent Topic:**[Exploring Retail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-operations-explore.md)
 

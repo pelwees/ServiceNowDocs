@@ -23,5 +23,5 @@ Navigate to **Password Reset** &gt; **Usage Overview** view the count of passwor
 
 **Note:** Admin must activate the Password Reset - Orchestration Add-on \(com.glideapp.password\_reset.addon.orchestration\) plugin to view the dashboard.
 
-**Parent Topic:**[Building integrations in Integration Hub](building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/building-integrations-ih.md)
 

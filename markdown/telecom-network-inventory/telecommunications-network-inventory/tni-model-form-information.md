@@ -137,7 +137,7 @@ Slot naming pattern
 
 </td><td>
 
-Name patterns that are used to define the names that are generated for the slots and interfaces that are on the equipment or card. Because these name patterns are at the model level, they’re applied by default to every template of that model. These name patterns are editable for the different instances of the same model. To learn more about the naming convention, see [Naming convention for associated templates](name-convention-templates.md).
+Name patterns that are used to define the names that are generated for the slots and interfaces that are on the equipment or card. Because these name patterns are at the model level, they’re applied by default to every template of that model. These name patterns are editable for the different instances of the same model. To learn more about the naming convention, see [Naming convention for associated templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/name-convention-templates.md).
 
  Although the names are generated automatically, you can manually edit the names of the templates.
 
@@ -157,7 +157,7 @@ Interface naming pattern
 
 </td><td>
 
-Name patterns that are used to define the names that are generated for the slot and Interfaces on the equipment or card. Because these name patterns are at the model level, they’re applied by default to every template of that model. These name patterns are editable for the different instances of the same model. To learn more about the naming convention, see [Naming convention for associated templates](name-convention-templates.md).
+Name patterns that are used to define the names that are generated for the slot and Interfaces on the equipment or card. Because these name patterns are at the model level, they’re applied by default to every template of that model. These name patterns are editable for the different instances of the same model. To learn more about the naming convention, see [Naming convention for associated templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/name-convention-templates.md).
 
  Although the names are generated automatically, you can manually edit the names of the templates.
 
@@ -356,7 +356,7 @@ Port bandwidth
 
 </td><td>
 
-Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](../image/search.png)\) and select a bandwidth.
+Measured bandwidth for the ports on this network interface. Select the search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a bandwidth.
 
  **Note:** This field is only applicable to the network interface models.
 
@@ -449,10 +449,10 @@ Select any one of the following type
 **Note:** This field is applicable only if the selected **Model categories** is **Equipment rack**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Inventory Model forms](tni-model-forms.md)
+</table>**Parent Topic:**[Inventory Model forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-model-forms.md)
 
 **Related topics**  
 
 
-[Create inventory models](../concept/creating-your-inventory-models.md)
+[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-your-inventory-models.md)
 

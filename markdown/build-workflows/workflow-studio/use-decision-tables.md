@@ -19,11 +19,11 @@ Although decision tables are built in Workflow Studio, the actual execution of t
 
 ## Decision tables in flows
 
-In Workflow Studio, decisions are executed as part of the **Make a decision** flow logic. For more information, see [Make a decision flow logic](../../flow-designer/concept/flow-logic-make-decision.md).
+In Workflow Studio, decisions are executed as part of the **Make a decision** flow logic. For more information, see [Make a decision flow logic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/concept/flow-logic-make-decision.md).
 
 ## Decision tables in APIs
 
 In scripts, decision tables are executed using API calls to the decision table with the GetDecision\(\) or GetDecisions\(\) methods from the DecisionTableAPI. For more information, see [DecisionTableAPI - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/DecisionTableAPI.md).
 
-**Parent Topic:**[Using decision tables](using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 

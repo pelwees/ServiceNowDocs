@@ -30,7 +30,7 @@ The Customer Service Agent dashboard includes the following end users and roles.
 |Content administrator: Can edit the dashboard and manage users, groups, and roles for the dashboard.|pa\_admin|
 |Content creator: Can view the dashboard.|pa\_viewer|
 
-![Tab displaying different report types from the Customer Service Agent dashboard. For the text description, refer to the Reports section.](../image/csm-agent-my-work.png "My Work tab")
+![Tab displaying different report types from the Customer Service Agent dashboard. For the text description, refer to the Reports section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-agent-my-work.png "My Work tab")
 
 ## Reports
 
@@ -93,7 +93,7 @@ My KBs Created
 List of all KB articles that I created.
 
 </td></tr></tbody>
-</table>![Customer Service Agent dashboard displaying overall organizational trends in various line graphs. For the text description, refer to the following Indicators table.](../image/csm-agent-org-trends.png "Organizational Trends tab")
+</table>![Customer Service Agent dashboard displaying overall organizational trends in various line graphs. For the text description, refer to the following Indicators table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/csm-agent-org-trends.png "Organizational Trends tab")
 
 ## Indicators
 
@@ -113,7 +113,7 @@ CSAT
 
 </td><td>
 
-Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](c_CustomerServiceSatisfactionSurvey.md).
+Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/c_CustomerServiceSatisfactionSurvey.md).
 
 </td></tr><tr><td>
 

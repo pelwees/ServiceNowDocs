@@ -41,12 +41,12 @@ Role required: sn\_icw.user
 
 The safety incidents list displays incidents based on your access permissions and selected filters.
 
-**Parent Topic:**[Using ICW Health and Safety Integration](../concept/using-icw-health-and-safety-integration.md)
+**Parent Topic:**[Using ICW Health and Safety Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/using-icw-health-and-safety-integration.md)
 
 **Related topics**  
 
 
-[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](../concept/icw-health-and-security-integraton.md)
+[Exploring Industrial Connected Workforce Integration with Health and Safety Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/icw-health-and-security-integraton.md)
 
-[Create a safety incident from an ICW task](icw-create-safety-incident-from-task.md)
+[Create a safety incident from an ICW task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-create-safety-incident-from-task.md)
 

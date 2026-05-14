@@ -17,16 +17,16 @@ Send notifications directly to recipients via the provider on supported channels
 
 <table id="table_hzz_s2r_bzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about provider notifications](../reference/exploring-provider-notification.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Explore and learn about provider notifications](../reference/exploring-provider-notification.md)
 
 </td><td>
 
-[Create![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create provider notifications](create-provider-notification-using.md)
+[Create![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Create provider notifications](create-provider-notification-using.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [Troubleshooting Notification emails](troubleshooting-notification-emails.md)
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

@@ -133,5 +133,5 @@ View or set the basic or mutual authentication needed for REST endpoints that re
     None.
 
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](../concept/atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-ref-overview.md)
 

@@ -38,7 +38,7 @@ By default, all incoming IP addresses are blocked for SQL API connections. You m
 
 3.  From the **Policy Inputs** tab, select **New**.
 
-    ![UI screen showing SQL API Authentication Policy.](../image/sql-api-auth-policy-new.png)
+    ![UI screen showing SQL API Authentication Policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-auth-policy-new.png)
 
 4.  A screen appears asking "What kind of Policy Input \(Filter Criteria\) do you want to create?" Select **IP Filter Criteria**.
 
@@ -46,7 +46,7 @@ By default, all incoming IP addresses are blocked for SQL API connections. You m
 
 6.  From the **IP Range** tab, double-click \(or use the keyboard shortcut\) **Insert a new row**.
 
-    ![UI screen example showing IP filter criteria.](../image/sql-api-IP-filter-criteria.png)
+    ![UI screen example showing IP filter criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-IP-filter-criteria.png)
 
 7.  Define the specific IP addresses or IP address ranges your ODBC/JDBC client machines that should be allowed to connect to your ServiceNow instance via the SQL API drivers.
 
@@ -62,7 +62,7 @@ By default, all incoming IP addresses are blocked for SQL API connections. You m
 
 11. Create a filter condition.
 
-    A filter condition is a logical combination of policy inputs \(filter criteria\) to evaluate authentication requests. For example, choose the name of the IP Filter Criteria created earlier and give a condition as shown in the following example diagram.![UI screen example showing how to create a filter condition.](../image/sql-api-policy-condition.png)
+    A filter condition is a logical combination of policy inputs \(filter criteria\) to evaluate authentication requests. For example, choose the name of the IP Filter Criteria created earlier and give a condition as shown in the following example diagram.![UI screen example showing how to create a filter condition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-policy-condition.png)
 
 12. Select **Submit**.
 
@@ -73,5 +73,5 @@ You have successfully configured IP filtering for SQL API access. Your ServiceNo
 
 Your Service Account can now connect to ServiceNow via ODBC or JDBC from the permitted client machines and query the tables for which both egress\_sql and read ACLs have been configured.
 
-**Parent Topic:**[Configure SQL API plugin on your ServiceNow instance](configure-sql-api-overview.md)
+**Parent Topic:**[Configure SQL API plugin on your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/configure-sql-api-overview.md)
 

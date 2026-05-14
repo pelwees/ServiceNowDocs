@@ -20,18 +20,18 @@ Use one of the following options to proceed:
 -   Print Filter Selection – Apply filters and select this option to create a workplace task with the consolidated report attached.
 -   Print Selected Records – Manually select one or more workplace cases and choose this option to view the consolidated report directly.
 
-**Parent Topic:**[Managing Workplace cases](manage-workplace-cases.md)
+**Parent Topic:**[Managing Workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/manage-workplace-cases.md)
 
 **Related topics**  
 
 
-[View and track workplace cases](../task/view-workplace-cases.md)
+[View and track workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/view-workplace-cases.md)
 
-[View emergency maintenance case details](../task/view-emergency-maint-case.md)
+[View emergency maintenance case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/view-emergency-maint-case.md)
 
-[View change event reservation case details](../task/view-case-change-event-reservation.md)
+[View change event reservation case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/view-case-change-event-reservation.md)
 
-[Print workplace cases](../task/print-workplace-cases.md)
+[Print workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/print-workplace-cases.md)
 
 ## Print filtered cases
 

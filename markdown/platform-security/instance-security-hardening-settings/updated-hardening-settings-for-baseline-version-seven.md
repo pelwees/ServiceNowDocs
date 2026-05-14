@@ -25,7 +25,7 @@ Updates
 
 </th></tr></thead><tbody><tr><td>
 
-[Enable relay state in SAML requests to prevent replay attacks](../reference/sc-enable-relay-state-in-saml-requests-to-prevent-replay-attacks.md)
+[Enable relay state in SAML requests to prevent replay attacks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-relay-state-in-saml-requests-to-prevent-replay-attacks.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ The relay state enabled by this system property helps protect your instance agai
 
 </td></tr><tr><td>
 
-[Disable local login for users with Single Sign-On \(SSO\) enabled](../reference/sc-disable-local-login-for-users-with-single-sign-on-sso-enabled.md)
+[Disable local login for users with Single Sign-On \(SSO\) enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-local-login-for-users-with-single-sign-on-sso-enabled.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Review Now Support Knowledge Base article KB1649420 for instructions on identify
 
 </td></tr><tr><td>
 
-[Disable legacy JQuery UI usage](../reference/sc-disable-legacy-jquery-ui-usage.md)
+[Disable legacy JQuery UI usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disable-legacy-jquery-ui-usage.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Fallback Value
 
 </td></tr><tr><td>
 
-[Enforce application specific ACLs only for application data](../reference/sc-enforce-application-specific-acls-only-for-application-data.md)
+[Enforce application specific ACLs only for application data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enforce-application-specific-acls-only-for-application-data.md)
 
 </td><td>
 
@@ -267,7 +267,7 @@ for (var i = 0; i < properties.length; i++) {
 
 </td></tr><tr><td>
 
-[Prevent impersonating user from viewing application data](../reference/sc-prevent-impersonating-user-from-viewing-application-data.md)
+[Prevent impersonating user from viewing application data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-prevent-impersonating-user-from-viewing-application-data.md)
 
 </td><td>
 
@@ -541,7 +541,7 @@ If glide.oauth.allow.parameters.in.post.body.only isn't set to the recommended v
 
 </td></tr><tr><td>
 
-[Enforce GroupBy ACLs](../reference/sc-enforce-groupby-acls.md)
+[Enforce GroupBy ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enforce-groupby-acls.md)
 
 </td><td>
 
@@ -575,7 +575,7 @@ ACLs on groupby columns will be enforced by default for tables.
 
 </td></tr><tr><td>
 
-[Require XMLdoc2 entity validation with allowlist](../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
+[Require XMLdoc2 entity validation with allowlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-xmldoc2-entity-validation-with-entity-expansion.md)
 
 </td><td>
 
@@ -703,7 +703,7 @@ By default, HTML can be rendered \(and is sanitized\) in form view. This same be
 
 </td></tr><tr><td>
 
-[Minimize reset password max SMS per day](../reference/sc-reset-password-max-sms-per-day.md)
+[Minimize reset password max SMS per day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-reset-password-max-sms-per-day.md)
 
 </td><td>
 
@@ -719,7 +719,7 @@ By default, HTML can be rendered \(and is sanitized\) in form view. This same be
 
 </td></tr><tr><td>
 
-[Disallow infected file download](../reference/sc-disallow-infected-files-download.md)
+[Disallow infected file download](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-disallow-infected-files-download.md)
 
 </td><td>
 
@@ -730,7 +730,7 @@ Out of box value
 
 </td></tr><tr><td>
 
-[Restrict unauthenticated access to attachments](../reference/sc-restrict-unauthenticated-access-attachments.md)
+[Restrict unauthenticated access to attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-restrict-unauthenticated-access-attachments.md)
 
 </td><td>
 
@@ -758,7 +758,7 @@ Restriction should be applied for unauthenticated users as some attachments migh
 
 </td></tr><tr><td>
 
-[Activate role based multi-factor authentication](../reference/sc-role-based-multi-factor-authentication.md)
+[Activate role based multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-role-based-multi-factor-authentication.md)
 
 </td><td>
 
@@ -860,7 +860,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](../reference/sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
+[Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-glide-authenticate-limit-concurrent-interactive-sessions.md)
 
 </td><td>
 
@@ -873,7 +873,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Limit maximum number of attachments in email](../reference/sc-limit-maximum-number-of-attachments-in-email.md)
+[Limit maximum number of attachments in email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-limit-maximum-number-of-attachments-in-email.md)
 
 </td><td>
 
@@ -889,7 +889,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 </td></tr><tr><td>
 
-[Enable protected tables plugin](../reference/sc-enable-protected-tables-plugin.md)
+[Enable protected tables plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-enable-protected-tables-plugin.md)
 
 </td><td>
 
@@ -962,7 +962,7 @@ Set the glide.processors.check\_access\_before\_process system property to true.
 
 </td></tr><tr><td>
 
-[Define active session timeout exception roles](../reference/sc-define-active-session-timeout-exception-roles.md)
+[Define active session timeout exception roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../reference/sc-define-active-session-timeout-exception-roles.md)
 
 </td><td>
 
@@ -1013,5 +1013,5 @@ Configure the glide.active.session.timeout.exception.roles property to roles whi
     -   \(New\) true,524288000
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Updated hardening settings](hardening-settings-updated.md)
+</table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 

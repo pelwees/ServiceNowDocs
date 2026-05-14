@@ -47,16 +47,16 @@ For example, a minor release might only have a few problems and enhancements whe
 
 While scoping the release, you can use the Release Hierarchy related list on the Release Form to view the release as a hierarchy.
 
--   **[Product hierarchy in Release Management](c_ProductHierarchy.md)**  
+-   **[Product hierarchy in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ProductHierarchy.md)**  
 A release can be an enterprise release, in which it is associated to all products or services or to more than one product. In either case, defining a product is not required.
--   **[Define a product in Release Management](../task/define-a-product.md)**  
+-   **[Define a product in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../task/define-a-product.md)**  
 Define a product in the Release Management application to facilitate managing a release process.
--   **[Define a release in Release Management](../task/t_DefineARelease.md)**  
+-   **[Define a release in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../task/t_DefineARelease.md)**  
 During the release planning process, release managers define the type of the release \(major, minor, and so on.\), schedule of the release \(planned start and end dates\), required phase, phase tasks, and the scope.
--   **[Define a release phase in Release Management](../task/t_DefineAReleasePhase.md)**  
+-   **[Define a release phase in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../task/t_DefineAReleasePhase.md)**  
 Define a release phase to represent the different stages of work required to complete your release.
--   **[Define scope of a release in Release Management](../task/t_ScopeARelease.md)**  
+-   **[Define scope of a release in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../task/t_ScopeARelease.md)**  
 Add projects, epics, stories, enhancements, and defects to define the scope of a release.
 
-**Parent Topic:**[Release Management](c_ITILReleaseManagement.md)
+**Parent Topic:**[Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 

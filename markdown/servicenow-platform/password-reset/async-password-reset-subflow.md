@@ -36,7 +36,7 @@ If a credential store processes a password reset request asynchronously, then to
 
 When this subflow is used, the input parameters are considered in this subflow to set the corresponding password reset status.
 
-![Update Password Reset Request Status subflow.](../image/update-password-reset-subflow.png "Update Password Reset Request Status subflow")
+![Update Password Reset Request Status subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/update-password-reset-subflow.png "Update Password Reset Request Status subflow")
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/customizing-password-reset.md)
 

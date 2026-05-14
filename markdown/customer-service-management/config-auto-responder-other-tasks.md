@@ -50,12 +50,12 @@ Perform the following tasks.
 
         For the table that you’re configuring, be sure to do the following:
 
-        -   Train the similarity solution for the table. For more information, see [Train the similarity solution for finding Auto-Responder notification content](train-sol-defn-auto-responder.md).
+        -   Train the similarity solution for the table. For more information, see [Train the similarity solution for finding Auto-Responder notification content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/train-sol-defn-auto-responder.md).
         -   Add the similarity solution in the Additional Resource Configurations tab on the Search Context form.
     3.  In the Email Conﬁgurations related list, link your task table configuration with the Notification \[sysevent\_email\_action\] table.
 
         -   To create another email configuration for a user field, select **New**.
-        -   To edit an existing email configuration, select the preview email configuration for email notification icon \(![Preview Email Configuration for email notification icon.](../image/preview.png)\), and then in the Email Configuration window, select **Open Record**.
+        -   To edit an existing email configuration, select the preview email configuration for email notification icon \(![Preview Email Configuration for email notification icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/preview.png)\), and then in the Email Configuration window, select **Open Record**.
     4.  On the Email Configuration form, verify the default field values for your task, or fill in the values for a custom configuration.
 
 <table id="table_i5s_5fq_xlb"><thead><tr><th>
@@ -101,10 +101,10 @@ Maximum number of resources you want to include in the Auto-Responder email noti
         -   For an existing configuration, select **Update**.
 3.  Enable contextual search results based on text searches in addition to search results based on Predictive Intelligence to be included in Auto-Responder notifications.
 
-    For more information, see [Enable text search recommendations in Auto-Responder notifications](enable-text-based-auto-responder.md).
+    For more information, see [Enable text search recommendations in Auto-Responder notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/enable-text-based-auto-responder.md).
 
 4.  Configure a custom portal and include advanced contextual search results in email notifications.
 
-    For more information, see [Include advanced contextual search results in Auto-Responder notifications](use-extension-point-auto-responder.md).
+    For more information, see [Include advanced contextual search results in Auto-Responder notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-extension-point-auto-responder.md).
 
 

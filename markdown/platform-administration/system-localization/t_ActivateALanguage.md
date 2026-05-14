@@ -47,7 +47,7 @@ The following plugins are currently available:
 -   I18N: Traditional Chinese Translations
 -   I18N: Turkish Translations
 
-In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides the elements necessary for localizing an instance without any language translation preloaded. This plugin is useful for localizing an instance to a language other than those listed above. For more information on using the I18N: Internationalization plugin to translate an instance into a custom language, see [Translating to an unsupported language](self-localize.md).
+In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides the elements necessary for localizing an instance without any language translation preloaded. This plugin is useful for localizing an instance to a language other than those listed above. For more information on using the I18N: Internationalization plugin to translate an instance into a custom language, see [Translating to an unsupported language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md).
 
 **Note:**
 
@@ -73,7 +73,7 @@ In addition, the I18N: Internationalization plugin \(com.glide.i18n\) provides t
 **Related topics**  
 
 
-[Languages table](../reference/r_LanguagesTable.md)
+[Languages table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_LanguagesTable.md)
 
-[Ensure that translated choices appear for applications added by plugins](activate-translated-choices-plugins.md)
+[Ensure that translated choices appear for applications added by plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/activate-translated-choices-plugins.md)
 

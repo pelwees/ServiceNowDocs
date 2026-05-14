@@ -21,7 +21,7 @@ Role required: inventory\_admin
 
 ## About this task
 
-**Note:** You can't exclude a stockroom that already has associated service locations. You must first remove the associated service locations and then exclude the stockroom from service locations. For more details, see [Remove service locations](remove-service-locations.md).
+**Note:** You can't exclude a stockroom that already has associated service locations. You must first remove the associated service locations and then exclude the stockroom from service locations. For more details, see [Remove service locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-service-locations.md).
 
 ## Procedure
 
@@ -41,5 +41,5 @@ Role required: inventory\_admin
 -   The stockroom isn't shown in the Stockrooms missing service locations important actions card even if the stockroom doesn't support service locations.
 -   The **Service location** tab doesn't show the **Add** option for adding service locations to the stockroom.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-your-stockrooms.md)
 

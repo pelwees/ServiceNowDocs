@@ -21,7 +21,7 @@ Role required: admin, mid\_server
 
 <table id="table_eyr_gs4_nhb"><tbody><tr><td>
 
-![Set up indicator for installation phase](../image/ProgressBarInstall.png)
+![Set up indicator for installation phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarInstall.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -60,7 +60,7 @@ You can install multiple MID Servers on a Linux or Windows host or on a virtual 
 
 6.  From the installer, click **Start MID Server**.
 
-    ![Installer screen](../image/MIDServerInstallerStartMIDServer.png)
+    ![Installer screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerInstallerStartMIDServer.png)
 
     The local host starts the MID Server.
 
@@ -81,7 +81,7 @@ You can install multiple MID Servers on a Linux or Windows host or on a virtual 
 
 ## What to do next
 
-All MID Server installation procedures are complete. Proceed to [configure your MID Server](../concept/c_MIDServerConfiguration.md).
+All MID Server installation procedures are complete. Proceed to [configure your MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md).
 
 ## Multiple MID Server deployments
 
@@ -127,5 +127,5 @@ When determining where to deploy MID Servers in a WAN, consider the bandwidth av
 
 In deployments where domain separation is enabled and domains are configured to form a hierarchy, place the MID Servers at the lowest domain level.
 
-![Deploying MID Servers with domain separation](../image/MIDServerDomainDeployment.png "Deploying MID Servers with domain separation")
+![Deploying MID Servers with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerDomainDeployment.png "Deploying MID Servers with domain separation")
 

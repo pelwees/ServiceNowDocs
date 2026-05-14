@@ -49,10 +49,10 @@ Role required:
 
 The Time Worked form is saved and the time card is added to the Time Worked tab of the task.
 
-**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](../concept/record-time-drop-receive.md)
+**Parent Topic:**[Record time worked on Drop off and Receive tasks for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-time-drop-receive.md)
 
 **Related topics**  
 
 
-[Pause a Drop off task or Receive task for enterprise assets](pause-dropoff-repair-eam.md)
+[Pause a Drop off task or Receive task for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pause-dropoff-repair-eam.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Configuration**.
 
-    ![Jira configuration in EAP.](../images/jira-int-eap-config.png)
+    ![Jira configuration in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-eap-config.png)
 
 3.  On the Jira configuration card, select **Edit**.
 
@@ -38,5 +38,5 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 ## What to do next
 
-[Define Agile structure in EAP for Jira Configuration](define-agile-structure-eap-teams-spw-jira-integrations.md).
+[Define Agile structure in EAP for Jira Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/define-agile-structure-eap-teams-spw-jira-integrations.md).
 

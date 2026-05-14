@@ -113,12 +113,12 @@ For each of the following scopes, select the **Enabled?** option and set the **M
 Provide the following items to your connector admin:
 
 -   The base URL for your Adobe Acrobat Sign instance. This URL is typically `https://<host>.<data-center>.adobesign.com/`, where `<host>` is `secure` or your organization name and `<data-center>` is the shard ID for your Adobe Acrobat Sign data center. For a list of Adobe Acrobat Sign data centers, see [https://helpx.adobe.com/sign/using/adobesign-data-centers.html](https://helpx.adobe.com/sign/using/adobesign-data-centers.html).
--   The API application ID that you copied in step [2.a](configure-adobe-acrobat-sign-external-content-indexing.md#copy-app-id-step).
--   The API application secret that you copied in step [2.d](configure-adobe-acrobat-sign-external-content-indexing.md#copy-app-secret-step).
+-   The API application ID that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-adobe-acrobat-sign-external-content-indexing.md#copy-app-id-step).
+-   The API application secret that you copied in step [2.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-adobe-acrobat-sign-external-content-indexing.md#copy-app-secret-step).
 
 Your connector admin needs these items to configure an Adobe Acrobat Sign external content connector to retrieve documents and security principals from your Adobe Acrobat Sign source system.
 
-For details on creating and configuring a Adobe Acrobat Sign external content connector, see [Create an Adobe Acrobat Sign external content connector](create-ext-cont-connector-adobe-acrobat-sign.md).
+For details on creating and configuring a Adobe Acrobat Sign external content connector, see [Create an Adobe Acrobat Sign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-adobe-acrobat-sign.md).
 
-**Parent Topic:**[Adobe Acrobat Sign external content connector](../concept/adobe-acrobat-sign-external-content-connector.md)
+**Parent Topic:**[Adobe Acrobat Sign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/adobe-acrobat-sign-external-content-connector.md)
 

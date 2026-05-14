@@ -32,8 +32,8 @@ Image/screenshot: Contextualize document UI action under an external document in
 
 To learn more about configuring and using AI Enhanced recommended actions for ICW, see:
 
--   [Configure AI Enhanced recommended actions for Industrial Connected Workforce](configure-ai-enhanced-ra-icw.md)
--   [Contextualize an external document for a Deviation in the Digital Factory Workspace](../task/use-ai-enhanced-ra-icw.md)
+-   [Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)
+-   [Contextualize an external document for a Deviation in the Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/../task/use-ai-enhanced-ra-icw.md)
 
-**Parent Topic:**[AI Enhanced recommended actions for Industrial Connected Workforce](../reference/ai-enhanced-ra-icw-landing.md)
+**Parent Topic:**[AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/../reference/ai-enhanced-ra-icw-landing.md)
 

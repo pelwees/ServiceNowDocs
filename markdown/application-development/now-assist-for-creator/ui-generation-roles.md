@@ -38,5 +38,5 @@ Create experiences using AI-powered UI generation.
     None
 
 
-**Parent Topic:**[UI generation reference](../concept/ui-generation-reference.md)
+**Parent Topic:**[UI generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/ui-generation-reference.md)
 

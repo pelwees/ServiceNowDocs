@@ -73,7 +73,7 @@ Priority group that indicates the order in which to resolve alerts. Choices are 
 -   **Moderate**
 -   **Low**
 
-The priority group value is more important than severity alone. For example, a high priority and low severity alert should be addressed before a low priority and high severity alert. For information on how priority is calculated, see [Alert priority](../../event-management/concept/alert-priority.md).
+The priority group value is more important than severity alone. For example, a high priority and low severity alert should be addressed before a low priority and high severity alert. For information on how priority is calculated, see [Alert priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../event-management/concept/alert-priority.md).
 
 </td></tr><tr><td>
 
@@ -126,5 +126,5 @@ Updated
 Most recent time when the alert information or state was updated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Information on the Overview tab for a Log Analytics group](hla-op-ovrvw-tab-log-anltcs-alerts.md)
+</table>**Parent Topic:**[Information on the Overview tab for a Log Analytics group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-ovrvw-tab-log-anltcs-alerts.md)
 

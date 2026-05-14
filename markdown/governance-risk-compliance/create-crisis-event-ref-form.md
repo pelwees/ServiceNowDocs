@@ -26,5 +26,5 @@ For description of the field values, see the table.
 |Assigned to|User or users from the Assignment group. If the **Assignment group** field is empty, then select any user.|
 |Description|Description of the event.|
 
-**Parent Topic:**[Start a crisis event](../task/start-crisis-event-in-uib-ws.md)
+**Parent Topic:**[Start a crisis event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/start-crisis-event-in-uib-ws.md)
 

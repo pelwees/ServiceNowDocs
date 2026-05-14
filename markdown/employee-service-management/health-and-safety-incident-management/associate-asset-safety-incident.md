@@ -23,13 +23,13 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 Add all the assets that are involved in an incident.
 
-**Note:** The assets can be associated only when the Expanded Model and Asset Classes \[sn\_ent\] application is installed. For more information, see [Additional features in Health and Safety](install-hs-incident-mgmt.md#table_ix1_bff_gxb)
+**Note:** The assets can be associated only when the Expanded Model and Asset Classes \[sn\_ent\] application is installed. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md#table_ix1_bff_gxb)
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Click the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
+2.  Click the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
 
 3.  In the **Safety Incidents** list, open a safety incident assigned to you to which you want to associate the asset.
 
@@ -60,5 +60,5 @@ The selected asset is listed in the Assets involved section of the activity. It 
 
 Add a root cause analysis to perform root cause analysis for this incident.
 
-**Parent Topic:**[Work on a safety incident](work-hs-incident-observation.md)
+**Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 

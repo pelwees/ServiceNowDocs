@@ -17,7 +17,7 @@ Learn how bank agents, using the Loan Rollover workflow, resolve a loan service 
 
 The following diagram shows how the application helps bank agents to resolve a Loan Rollover service request.
 
-![Workflow that shows how bank employees successfully roll over a loan.](../image/loan-rollover-workflow.png "Loan Rollover workflow")
+![Workflow that shows how bank employees successfully roll over a loan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/loan-rollover-workflow.png "Loan Rollover workflow")
 
 The following workflow routes the case and tasks for a Loan Rollover service request to agents in different departments. The agents log in to Workspace to work on the tasks in their queue.
 

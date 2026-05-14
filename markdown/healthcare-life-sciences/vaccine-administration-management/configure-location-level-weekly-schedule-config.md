@@ -29,7 +29,7 @@ Configure advanced appointment scheduling for a center. You can create appointme
 
 For each appointment configuration, you can create one or more vaccination schedules to configure the daily start and end time. You can configure the days that appointments can be booked, the inclusion of a daily break, and more. Appointment configurations apply for both self-scheduled and mass-booked appointments.
 
-**Important:** When you enable this feature, it replaces the default appointment scheduling configuration that is applied across all centers. For further information about the default configuration, see [Configure vaccine appointment scheduling](vaccine-appt-booking.md).
+**Important:** When you enable this feature, it replaces the default appointment scheduling configuration that is applied across all centers. For further information about the default configuration, see [Configure vaccine appointment scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-appt-booking.md).
 
 ## Procedure
 
@@ -37,9 +37,9 @@ For each appointment configuration, you can create one or more vaccination sched
 
 2.  Open a program record.
 
-3.  In the Center related list, click the preview icon \(![Preview icon.](../image/preview-icon.png)\) to open the program center record.
+3.  In the Center related list, click the preview icon \(![Preview icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/preview-icon.png)\) to open the program center record.
 
-4.  In the **Appointment configuration** field, click the lookup icon \(![Lookup icon.](../image/lookup-icon.png)\).
+4.  In the **Appointment configuration** field, click the lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/lookup-icon.png)\).
 
 5.  Click **New**.
 
@@ -232,10 +232,10 @@ Preview of the vaccination schedule.
 
 ## What to do next
 
-Once the configuration is finalized, changing some of the configuration values can have undesired side effects on both existing and future appointment scheduling. For details on how to handle advanced appointment scheduling configurations for a center, see [Guidance for configuring advanced appointment scheduling for a vaccination center](../reference/recommendation-on-vaccination-appointment-configuration.md).
+Once the configuration is finalized, changing some of the configuration values can have undesired side effects on both existing and future appointment scheduling. For details on how to handle advanced appointment scheduling configurations for a center, see [Guidance for configuring advanced appointment scheduling for a vaccination center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../reference/recommendation-on-vaccination-appointment-configuration.md).
 
--   **[Guidance for configuring advanced appointment scheduling for a vaccination center](../reference/recommendation-on-vaccination-appointment-configuration.md)**  
+-   **[Guidance for configuring advanced appointment scheduling for a vaccination center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../reference/recommendation-on-vaccination-appointment-configuration.md)**  
 Advanced appointment scheduling configuration enables administrators to configure appointment durations, daily schedule, holiday schedule, and so on. The configuration is used to identify the available slots as well as a location’s capacity for a given day. The configuration enables users to select appointment slots based on the parameters that you configure.
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/vaccine-mgmt-config.md)
 

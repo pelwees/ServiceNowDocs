@@ -26,7 +26,7 @@ For more information on support levels, see [Application support for domain sepa
 
 The Dispute Rules Content Pack for Nacha application provides dispute agents with a central reference for automated clearing house \(ACH\) return reason codes and the logic used to determine them, based on Nacha operating guidelines.
 
-**Parent Topic:**[Dispute Rules Content Pack for Nacha reference](dispute-rules-content-pack-nacha-reference.md)
+**Parent Topic:**[Dispute Rules Content Pack for Nacha reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-nacha-reference.md)
 
 **Related topics**  
 

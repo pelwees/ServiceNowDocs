@@ -65,5 +65,5 @@ You can add an asset to a pallet only under the following conditions:
 
 The assets are added to the **Assets** tab of the pallet asset record.
 
-**Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](create-pallet-asset-eam.md)
+**Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md)
 

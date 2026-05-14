@@ -52,12 +52,12 @@ After submitting the anonymous report, you’ll see a modal dialogue requesting 
 9.  Select **Post**.
 
 
-**Parent Topic:**[Managing an anonymous safety concern](../concept/managing_anonymous_safety_concern.md)
+**Parent Topic:**[Managing an anonymous safety concern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing_anonymous_safety_concern.md)
 
 **Related topics**  
 
 
-[Submit an anonymous safety concern](submit_anonymous_safety_concern.md)
+[Submit an anonymous safety concern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submit_anonymous_safety_concern.md)
 
-[Work on an anonymous safety concern](work-anonymous-safety-concern.md)
+[Work on an anonymous safety concern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-anonymous-safety-concern.md)
 

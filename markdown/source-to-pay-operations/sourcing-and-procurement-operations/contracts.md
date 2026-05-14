@@ -365,5 +365,5 @@ Specific legal information in the contract.
 
 Contract exception rules specify conditions in which a contract record is not created even if there is a corresponding contract type mapped to a model category. A procurement administrator​ can configure these rules from decision tables which are in the administration section of the Sourcing and Purchasing Automation module.
 
-**Parent Topic:**[Sourcing and Purchasing Automation](purchase-experience-workflow.md)
+**Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 

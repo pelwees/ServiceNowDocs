@@ -19,7 +19,7 @@ Format the work notes and add @mentions in the Activity tab on a standard ticket
 
 Role required: sp\_admin or admin
 
-You should add the **Activity** tab in the standard ticket configuration of a request type. For information on configuring tabs, see [Configure the standard ticket page](configure-st-page.md).
+You should add the **Activity** tab in the standard ticket configuration of a request type. For information on configuring tabs, see [Configure the standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md).
 
 ## Procedure
 
@@ -67,5 +67,5 @@ Option to enable mentioning the relevant people in work notes.**Note:** This opt
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Configure the standard ticket page](configure-st-page.md)
+**Parent Topic:**[Configure the standard ticket page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-st-page.md)
 

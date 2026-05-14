@@ -33,7 +33,7 @@ You can request for approval of a revision for contract documents from stakehold
 
 1.  Navigate to your workspace.
 
-2.  Click the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a request by selecting an option under **Contract Requests**.
 
@@ -70,7 +70,7 @@ The state of the request is Work in progress and the contract status is also wor
 </td></tr></tbody>
 </table>4.  In the **Approvers** tab, click **Initiate Approval**.
 
-    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](../../legal-request-management/image/more-button-icon.png)\) and selecting **Initiate Approval**.
+    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/more-button-icon.png)\) and selecting **Initiate Approval**.
 
 5.  On the Initiate Approval dialog box, fill in the fields.
 
@@ -148,12 +148,12 @@ Assigned approvers are added in the **Approvers** tab with other approval detail
 
 ## What to do next
 
-Approvers can view and [Approve or reject a contract document](cmpro-approve-reject-request-docs.md).
+Approvers can view and [Approve or reject a contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-approve-reject-request-docs.md).
 
--   **[Approve or reject a contract document](cmpro-approve-reject-request-docs.md)**  
+-   **[Approve or reject a contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-approve-reject-request-docs.md)**  
 Review a contract request or attachment and approve or reject it.
--   **[Cancel an ad hoc approval for a contract document revision](cmpro-cancel-approval-request.md)**  
+-   **[Cancel an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-cancel-approval-request.md)**  
 Cancel an ad hoc approval for a contract document revision if it no longer requires any action.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

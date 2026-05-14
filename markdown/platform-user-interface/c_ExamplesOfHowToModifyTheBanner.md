@@ -13,7 +13,7 @@ breadcrumb: [Create a company profile, User interface configuration, Working in 
 
 There are various ways that you can modify the banner on your instances.
 
-**Note:** From the San Diego release on, configure banner announcements instead of updating **glide.product.description**. For more information, see [Configure Next Experience banner announcements](next-experience-banner-announcements.md#).
+**Note:** From the San Diego release on, configure banner announcements instead of updating **glide.product.description**. For more information, see [Configure Next Experience banner announcements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-banner-announcements.md#).
 
 ## Label multiple instances differently
 
@@ -65,16 +65,16 @@ background-repeat: ${banner.background.repeat};}
 
 **Note:** The banner image and banner text associated with the primary company or specific companies may be used instead of the **glide.product.image** and **glide.product.description** properties to get the same effect.
 
-**Parent Topic:**[Create a company profile](../task/t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
-[Banner logo link](c_CustomizeTheBannerLogoLink.md)
+[Banner logo link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_CustomizeTheBannerLogoLink.md)
 
-[Customize the banner logo in Core UI](../task/t_CustomizeTheLogoInSysProps.md)
+[Customize the banner logo in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CustomizeTheLogoInSysProps.md)
 
-[Customize the favicon](../task/customize-favicon.md)
+[Customize the favicon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/customize-favicon.md)
 
-[Modify the banner](c_ModifyTheBanner.md)
+[Modify the banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_ModifyTheBanner.md)
 

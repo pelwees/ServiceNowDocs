@@ -52,7 +52,7 @@ Edit using one of the following ways:
 -   Select the item name to open the full details page.
  The full details page shows the item's related lists such as Milestones, Dependencies, and others.
 
- For field information, see [Planning item form](../../alignment-planner-workspace/reference/planning-item-form.md).
+ For field information, see [Planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/reference/planning-item-form.md).
 
 </td></tr><tr><td id="d200650e159">
 
@@ -70,7 +70,7 @@ In the Attachments section of the full details page, select **Browse** and uploa
 
 From the full details page:
 
-1.  Select the More Actions icon \(![More actions icon.](../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
+1.  Select the More Actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
 
 **Note:** You can't delete the project record from Portfolio Planning Workspace if it has associated execution item. To delete such projects, open the record in PPM Standard.
 

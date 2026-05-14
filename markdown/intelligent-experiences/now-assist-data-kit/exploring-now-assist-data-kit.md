@@ -30,7 +30,7 @@ If the base system Now Assist skills don't fit your needs, you can use Now Assis
 
 The following diagram shows the user journey for Now Assist Data Kit.
 
-![Now Assist Data kit workflow](../image/na-data-kit-infographic.png "User journey for Now Assist Data Kit")
+![Now Assist Data kit workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../image/na-data-kit-infographic.png "User journey for Now Assist Data Kit")
 
 1.  Create a skill in Now Assist Skill Kit
 2.  Create an evaluation dataset in Now Assist Data Kit
@@ -46,14 +46,14 @@ The following diagram shows the user journey for Now Assist Data Kit.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Addition of datasets to a data catalog.|[Add a dataset](../task/add-dataset.md)|AI developer|
-|Create smaller datasets from existing datasets.|[Create a derived dataset](../task/create-derived-dataset.md)|AI developer|
-|Merge multiple datasets and create a collection that can be used by Now Assist Skill Kit.|[Activate a skill](../../now-assist-skill-kit/task/activate-skill.md)|AI developer|
+|Addition of datasets to a data catalog.|[Add a dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../task/add-dataset.md)|AI developer|
+|Create smaller datasets from existing datasets.|[Create a derived dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../task/create-derived-dataset.md)|AI developer|
+|Merge multiple datasets and create a collection that can be used by Now Assist Skill Kit.|[Activate a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../../now-assist-skill-kit/task/activate-skill.md)|AI developer|
 
 ## What to explore next
 
 To learn more about configuring and using Now Assist Skill Kit, see:
 
--   [Configuring Now Assist Skill Kit](../../now-assist-skill-kit/concept/configuring-now-assist-skill-kit.md)
--   [Using Now Assist Skill Kit](../../now-assist-skill-kit/concept/using-now-assist-skill-kit.md)
+-   [Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../../now-assist-skill-kit/concept/configuring-now-assist-skill-kit.md)
+-   [Using Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/../../now-assist-skill-kit/concept/using-now-assist-skill-kit.md)
 

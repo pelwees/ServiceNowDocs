@@ -32,5 +32,5 @@ Role required: tm\_test\_manager or tm\_tester
 5.  Click **Update**.
 
 
-**Parent Topic:**[Assigning testers to test cases](../concept/assigning-testers-to-test-cases.md)
+**Parent Topic:**[Assigning testers to test cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/assigning-testers-to-test-cases.md)
 

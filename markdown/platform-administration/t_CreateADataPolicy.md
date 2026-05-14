@@ -39,13 +39,13 @@ Create data policies to enforce consistency. You can create data policies only f
 
 6.  Click **New** in the related list and create the record that identifies the field and the policy to apply.
 
-    ![Data policy action](../image/DataPolicyAction2.png)
+    ![Data policy action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/DataPolicyAction2.png)
 
     It is possible to have multiple rules on a single field, but it is not recommended.
 
 7.  Click **Submit**.
 
-    ![Data policy data](../image/DataPolicyData2.png)
+    ![Data policy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/DataPolicyData2.png)
 
 8.  Add more rules by repeating steps 6 and 7.
 

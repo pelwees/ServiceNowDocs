@@ -262,10 +262,10 @@ Reference to the \[cmdb\_ci\] table
 |Host CI|Reference to the \[cmdb\_ci\_computer\] table|
 |File information|Provides a reference to the \[cmdb\_file\_information\] table. Relevant only for file-based discovery \(FBD\); in pattern-based discovery, this field remains empty.|
 
-**Parent Topic:**[Agent Client Collector for Visibility - Content reference](../concept/agent-client-collector-for-visibility-references.md)
+**Parent Topic:**[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/agent-client-collector-for-visibility-references.md)
 
 **Related topics**  
 
 
-[Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](../task/acc-file-based-discovery.md)
+[Discover java installation data using Agent Client Collector for Visibility - Content file-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/acc-file-based-discovery.md)
 

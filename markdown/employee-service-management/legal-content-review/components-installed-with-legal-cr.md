@@ -56,5 +56,5 @@ Provides fulfiller access for working on assigned content review requests.
 sn\_lg\_ops.legal\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legal Content Review reference](legal-cr-reference.md)
+</table>**Parent Topic:**[Legal Content Review reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-cr-reference.md)
 

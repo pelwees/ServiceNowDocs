@@ -25,5 +25,5 @@ The following table lists the metrics that are gathered as output from Nginx che
 |nginx.writing \(featured metric\)|admin|count|Represents the current number of connections where the Nginx server is writing the response back to the client.|
 |nginx.waiting \(featured metric\)|admin|count|Number of idle client connections waiting for a request.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

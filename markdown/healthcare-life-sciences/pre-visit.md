@@ -29,7 +29,7 @@ The Pre-Visit Management application uses the data model provided by the Healthc
 
 ## Pre-Visit Management workflow
 
-![Workflow of the Pre-Visit Management application.](../image/hcls-previsit-workflow.png)
+![Workflow of the Pre-Visit Management application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-previsit-workflow.png)
 
 In the Pre-Visit Management workflow:
 
@@ -62,7 +62,7 @@ Improve the patient experience by enabling them to digitally complete all the to
 
 </td><td>
 
-[Completing to-do items from the patient portal](pre-visit-complete-to-do.md)
+[Completing to-do items from the patient portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-complete-to-do.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ Provide a guided experience for patient service representatives to complete proc
 
 </td><td>
 
-[Managing procedure requests in Workspace](pre-visit-using-workspace.md)
+[Managing procedure requests in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-using-workspace.md)
 
 </td><td>
 
@@ -86,12 +86,12 @@ Manage appointments for scheduling a procedure request within Workspace.
 
 </td><td>
 
-[Managing appointment bookings for procedure requests](pre-visit-booking-appt.md#)
+[Managing appointment bookings for procedure requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md#)
 
 </td><td>
 
 HCLS Agent
 
 </td></tr></tbody>
-</table>To get started with the Pre-Visit Management application, see [Configuring Pre-Visit Management](pre-visit-config-app.md).
+</table>To get started with the Pre-Visit Management application, see [Configuring Pre-Visit Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-app.md).
 

@@ -23,7 +23,7 @@ You can activate the Adaptive Authentication plugin \(com.snc.adaptive\_authenti
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin using the filter criteria and search bar.![Adaptive Authentication plugin](../images/adaptive-auth-plugin.png)
+2.  Find the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin using the filter criteria and search bar.![Adaptive Authentication plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/adaptive-auth-plugin.png)
 
     You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
@@ -38,5 +38,5 @@ You can activate the Adaptive Authentication plugin \(com.snc.adaptive\_authenti
 
 Configure your authentication policies to enforce contextual authentication controls on your instance.
 
-Once your policies are configured. Enable adaptive authentication using the **Enable Authentication Policy** policy. For details on adaptive authentication properties, see [Configure adaptive authentication properties](configure-adaptive-auth-properties.md).
+Once your policies are configured. Enable adaptive authentication using the **Enable Authentication Policy** policy. For details on adaptive authentication properties, see [Configure adaptive authentication properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-adaptive-auth-properties.md).
 

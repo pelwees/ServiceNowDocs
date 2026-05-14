@@ -32,5 +32,5 @@ Role required: sn\_skills\_int.emp
 4.  Select **Yes, delete skill** to delete the skill.
 
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

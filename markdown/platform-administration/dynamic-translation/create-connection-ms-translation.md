@@ -139,9 +139,9 @@ For information on supported regions, see the [Microsoft](https://docs.microsoft
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Microsoft Azure Translator Service spoke](../concept/microsoft-translation-spoke.md)
+**Parent Topic:**[Microsoft Azure Translator Service spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../concept/microsoft-translation-spoke.md)
 
-**Previous topic:**[Create a credential for the MicrosoftTranslation alias](create-credential-ms-translation.md)
+**Previous topic:**[Create a credential for the MicrosoftTranslation alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-credential-ms-translation.md)
 
-**Next topic:**[Activate the Microsoft translator configuration](activate-ms-translator-config.md)
+**Next topic:**[Activate the Microsoft translator configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-ms-translator-config.md)
 

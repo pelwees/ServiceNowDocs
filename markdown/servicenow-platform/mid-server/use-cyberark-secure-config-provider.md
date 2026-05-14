@@ -57,5 +57,5 @@ CyberArk is commonly used to secure credentials in its external vault. However, 
 5.  Restart the MID Server.
 
 
-**Parent Topic:**[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+**Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 

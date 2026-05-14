@@ -30,5 +30,5 @@ Role required: sales territory admin \(or a user with sales territory override r
 4.  Select **Save**.
 
 
-**Parent Topic:**[Using Sales Territory Management​](use-sales-territory-management.md)
+**Parent Topic:**[Using Sales Territory Management​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 

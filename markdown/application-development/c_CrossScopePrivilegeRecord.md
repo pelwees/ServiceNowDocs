@@ -41,5 +41,5 @@ During testing, application developers should run all of their application scrip
 
 **Note:** Table privilege granting is limited to, at most, the permissions set on the table object \(sys\_db\_object\) record. For example, granting a scope privilege to delete for table incident would not be allowed if the table object for incident did not allow Can delete scopes.
 
-**Parent Topic:**[Application design and runtime settings](r_ApplicationDesignAndRuntimeSettings.md)
+**Parent Topic:**[Application design and runtime settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/r_ApplicationDesignAndRuntimeSettings.md)
 

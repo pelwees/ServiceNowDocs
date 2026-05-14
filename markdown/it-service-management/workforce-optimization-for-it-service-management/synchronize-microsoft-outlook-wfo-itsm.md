@@ -21,8 +21,8 @@ When the two calendars are integrated, agents with the Shift Planning Agent \(sn
 
 **Note:** When you create events of type **Custom**, you must use extension points to synchronize the custom events in the two calendars.
 
--   **[Set up the Workforce Optimization for ITSM agent calendar integration with their Microsoft Outlook calendar](../task/setup-microsoft-calendar-integration-wfo-itsm.md)**  
+-   **[Set up the Workforce Optimization for ITSM agent calendar integration with their Microsoft Outlook calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/setup-microsoft-calendar-integration-wfo-itsm.md)**  
 Display the schedules, shifts, and events from the agent's calendar also in their Microsoft Outlook calendar when you synchronize both the calendars.
 
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-scheduling-configurable-workforce-optimization-itsm.md)
 

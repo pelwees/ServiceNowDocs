@@ -41,5 +41,5 @@ Role required: sn\_cli\_metadata.cli\_admin, sn\_cli\_metadata.cli\_user, or adm
 $ snc record delete --table incident --sysid 552c48888c033300964f4932b03eb092
 ```
 
-**Parent Topic:**[Perform record operations using ServiceNow CLI](manage-records.md)
+**Parent Topic:**[Perform record operations using ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/manage-records.md)
 

@@ -22,7 +22,7 @@ After you activate the Dynamic Translation plugin \(com.glide.dynamic\_translati
 -   Detect the language of the input text
 -   Translate user-entered text from a source language to a target language
 
-For information on activating this plugin, see [Activate Dynamic Translation](../task/activate-dynamic-translation.md).
+For information on activating this plugin, see [Activate Dynamic Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../task/activate-dynamic-translation.md).
 
 ## Default translation service providers for Dynamic Translation
 
@@ -41,5 +41,5 @@ By default, Dynamic Translation supports the following Microsoft and Google serv
 
 ## Using Dynamic Translation
 
-When your admin has configured Dynamic Translation, look for the translate icon \(![Translate icon.](../image/Translation.png)\) next to fields on forms and in workspaces.
+When your admin has configured Dynamic Translation, look for the translate icon \(![Translate icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../image/Translation.png)\) next to fields on forms and in workspaces.
 

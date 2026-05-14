@@ -81,7 +81,7 @@ Select **Approve**.
 
 When you select **Approve** in the Create New Impact analysis form, the state of the business impact analysis is updated to **Approved**. The **Overview** tab displays the progression of the states as shown in the example.
 
- ![BIA in the Approved state.](../image/bia-analysis-approved-overview-tab-states-progression.png)
+ ![BIA in the Approved state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-analysis-approved-overview-tab-states-progression.png)
 
  When the business impact analysis is in the **Approved** state, it is in the read-only format. You can only view the Recovery point objective assessment, Recovery time objective assessment, and Dependency assessment in the **Approved** state.
 
@@ -97,7 +97,7 @@ In the Create New Impact analysis form, select **Archive**.
 
 When you select **Archive** in the Create New Impact analysis form, the state of the business impact analysis is updated to **Archived** as shown in the example.
 
- ![Archived BIA.](../image/bia-archived.png)
+ ![Archived BIA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-archived.png)
 
  Starting with BCM release 9.0.x, you can revert an archived business impact analysis \(BIA\) to the **Draft** state by selecting the **Edit** button on the form.
 
@@ -107,7 +107,7 @@ When you select **Archive** in the Create New Impact analysis form, the state of
 
 Download the PDF of the business impact analysis for reference. The PDF attachment is available in the **Activity** panel on the **Details** tab.
 
-For information on generating the PDF of a business impact analysis, see [Generate BIA reports in PDF or Microsoft Word formats](../task/generate-pdf-for-bia.md).
+For information on generating the PDF of a business impact analysis, see [Generate BIA reports in PDF or Microsoft Word formats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/generate-pdf-for-bia.md).
 
 -   **Copy**
 
@@ -117,7 +117,7 @@ Save a copy of the PDF of the business impact analysis for future reference as a
 
 Visualize 360º representation of the business impact analysis such as its name, template used, dependencies, and BIA result.
 
-For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](../task/visualize-360-degree-view-for-bia.md).
+For information on how to view 360º relationships of a business impact analysis, see [Visualize 360° relationships for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/visualize-360-degree-view-for-bia.md).
 
 -   **Delete**
 
@@ -147,5 +147,5 @@ If you select **Reject** in the Create New Impact analysis form, the state of th
 </td></tr></tbody>
 </table>**Note:** A scheduled job runs weekly to move the expired business impact analyses to the **Archived** state.
 
-**Parent Topic:**[Structured workflows for BIAs](bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 

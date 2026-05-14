@@ -48,7 +48,7 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
     See [Create a Microsoft Entra application and service principal that can access resources](https://learn.microsoft.com/en-us/entra/identity-platform/howto-create-service-principal-portal) for instructions on registering and configuring an application.
 
-    ![Create an application.](../../integrationhub/images/ms-azure-ad-create-app.png)
+    ![Create an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/ms-azure-ad-create-app.png)
 
 4.  Click **Register**.
 
@@ -58,7 +58,7 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
     This value is required to register the app as a third-party OAuth provider on your ServiceNow instance.
 
-    ![Copy Directory ID.](../../integrationhub/images/ms-azure-ad-copy-dir-id.png)
+    ![Copy Directory ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/ms-azure-ad-copy-dir-id.png)
 
 6.  Click **Certificates &amp; secrets**.
 
@@ -70,15 +70,15 @@ Complete these steps from your Azure portal. See the [Microsoft identity platfor
 
     This value is required to register the app as a third-party OAuth provider on your ServiceNow instance.
 
-    ![Copy value of client secret.](../../integrationhub/images/ms-azure-ad-copy-sec.png)
+    ![Copy value of client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/ms-azure-ad-copy-sec.png)
 
 9.  Click **API permissions**.
 
 10. Click **Add a permission** to add the required permissions to access the APIs.
 
-    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](../concept/ms-entra-ent-mgmt-spk.md#section_d3k_1vt_33c).
+    For information about permissions needed to perform the required actions, see the Spoke actions section here: [Spoke actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/ms-entra-ent-mgmt-spk.md#section_d3k_1vt_33c).
 
-    ![Add API permissions.](../../integrationhub/images/ms-azure-ad-api-perm.png)
+    ![Add API permissions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/ms-azure-ad-api-perm.png)
 
 11. Grant admin consent to your application.
 
@@ -104,7 +104,7 @@ Role required: admin.
 4.  Locate the alias for **EntraEntitlementManagement** and click **View Details**.
 
     -   To configure the default connection and credential alias record that is shipped along with the Entra Entitlement Management spoke, click **View Details**.
-    -   To manage more than one Entra Entitlement Management spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Entra Entitlement Management spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
 5.  On the form, fill in these fields:

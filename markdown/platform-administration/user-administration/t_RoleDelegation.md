@@ -36,5 +36,5 @@ Delegators can assign roles that they inherit from a group. They can also assign
     A change request for the role delegator request is created and automatically approved.
 
 
-**Parent Topic:**[Delegating roles](../concept/c_DelegateRoles.md)
+**Parent Topic:**[Delegating roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../concept/c_DelegateRoles.md)
 

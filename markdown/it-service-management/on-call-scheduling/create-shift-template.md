@@ -47,5 +47,5 @@ Role required: rota\_admin
 
 The template is now available for you to choose when creating or updating a shift.
 
-**Parent Topic:**[Defining On-Call Scheduling escalation process](../../user-administration/concept/defining-escalation-process-and-template.md)
+**Parent Topic:**[Defining On-Call Scheduling escalation process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/defining-escalation-process-and-template.md)
 

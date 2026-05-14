@@ -19,5 +19,5 @@ Procurement plugin adds the following script include.
 |--------------|-----------|
 |ProcurementUtils|Provides utilities for Procurement.|
 
-**Parent Topic:**[Components installed with Procurement](r_InstalledWithProcurement.md)
+**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 

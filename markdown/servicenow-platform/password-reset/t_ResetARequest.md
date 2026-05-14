@@ -108,5 +108,5 @@ Total number of times the user has attempted to complete a password reset reques
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Reset a password or unlock a user account with service desk assistance](reset-password-for-user.md)
+**Parent Topic:**[Reset a password or unlock a user account with service desk assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/reset-password-for-user.md)
 

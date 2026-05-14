@@ -37,5 +37,5 @@ The administrator can change the **sn\_communities.enable\_topics** property so 
     -   Topic fields do not appear when creating, editing, or viewing content.
     -   Topics do not appear in the search results page.
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

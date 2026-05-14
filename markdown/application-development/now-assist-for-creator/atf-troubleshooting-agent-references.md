@@ -15,8 +15,8 @@ breadcrumb: [ATF troubleshooting agent, Use agentic AI, Now Assist for Creator, 
 
 The reference topics provide additional information about ATF troubleshooting agent.
 
--   **[ATF troubleshooting agent design considerations](atf-troubleshooting-agent-exceptions.md)**  
+-   **[ATF troubleshooting agent design considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/atf-troubleshooting-agent-exceptions.md)**  
 Leverage the full potential of ATF troubleshooting agent by following these design considerations.
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/atf-troubleshooting-agent-landing-page.md)
 

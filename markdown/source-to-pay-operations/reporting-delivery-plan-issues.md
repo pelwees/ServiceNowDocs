@@ -21,17 +21,17 @@ You can create a delivery plan change in one of the following ways:
 -   You can use **Raise a request** option from the Supplier Collaboration Portal header.
 -   You can use **Raise a request** option directly from a purchase order line in Supplier Collaboration Portal.
 
--   **[Raise a delivery plan change request](../task/raise-delivery-plan-chg-req.md)**  
+-   **[Raise a delivery plan change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/raise-delivery-plan-chg-req.md)**  
 Submit a request in the Supplier Collaboration Portal header to create a purchase order exception.
--   **[Submit a delivery plan change request from a purchase order line](../task/submit-del-plan-chg-from-po-line.md)**  
+-   **[Submit a delivery plan change request from a purchase order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/submit-del-plan-chg-from-po-line.md)**  
 Submit a delivery plan change request directly from a purchase order line in the Supplier Collaboration Portal.
 
-**Parent Topic:**[Use Purchase Order Management](use-purch-order-mgmt.md)
+**Parent Topic:**[Use Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
 
 **Related topics**  
 
 
-[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
+[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
-[Create purchase order exception from Universal Request](../task/create-po-exception-universal-req.md)
+[Create purchase order exception from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/create-po-exception-universal-req.md)
 

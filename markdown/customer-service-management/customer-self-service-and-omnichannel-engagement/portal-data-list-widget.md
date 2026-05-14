@@ -17,17 +17,17 @@ The Portal Data List widget displays data related to cases from selected case ta
 
 The list view displays a columnar list of cases and their information. You can also display the data list without the category on the left and pin the first column.
 
-![Portal Data List widget displaying different cases and their details in list format.](../image/portal-datalist-widget-list-view.png "Portal Data List widget list view")
+![Portal Data List widget displaying different cases and their details in list format.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-datalist-widget-list-view.png "Portal Data List widget list view")
 
 The card view displays case information in stacked cards.
 
-![Portal Data List widget displaying different cases and their details in card format.](../image/portal-datalist-widget-card-view.png "Portal Data List widget card view")
+![Portal Data List widget displaying different cases and their details in card format.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-datalist-widget-card-view.png "Portal Data List widget card view")
 
-![Data List widget displaying list of cases without categories.](../image/data-list-without-categories.png "Portal Data List widget without categories")
+![Data List widget displaying list of cases without categories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/data-list-without-categories.png "Portal Data List widget without categories")
 
 Each row in the widget represents a record. You can search, view, sort, and interact with the information presented.
 
-For more information about how to configure the instance options for the Portal Data List widget, see [Add and configure the Portal Data List widget](../task/config-data-list-widget-inst-optns.md).
+For more information about how to configure the instance options for the Portal Data List widget, see [Add and configure the Portal Data List widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-data-list-widget-inst-optns.md).
 
 The Data List portal widget can be used in the following scenarios:
 

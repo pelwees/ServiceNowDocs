@@ -25,7 +25,7 @@ Role required: sn\_customerservice\_manager
 
 1.  Open a customer service case.
 
-2.  Select the Find Agents icon \(![Find Agents icon.](../image/FindAgentsIcon.png)\) next to the **Assigned to** field to open the assignment workbench.
+2.  Select the Find Agents icon \(![Find Agents icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/FindAgentsIcon.png)\) next to the **Assigned to** field to open the assignment workbench.
 
     If the case has an **Assignment group**, the agents from that group are listed on the workbench. If the case doesn’t have an assigned group, no agents are displayed.
 
@@ -53,5 +53,5 @@ Role required: sn\_customerservice\_manager
 **Related topics**  
 
 
-[Assignment workbench overview](../concept/case-assignment-workbench.md)
+[Assignment workbench overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/case-assignment-workbench.md)
 

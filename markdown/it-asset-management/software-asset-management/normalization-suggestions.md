@@ -47,7 +47,7 @@ If you **Reject** the suggestion:
 |Field|Description|
 |-----|-----------|
 |Discovery model|Software discovery model that represents the installed software.|
-|Suggestion status|Suggested [status](c_SAMDiscovery.md) of the normalization process.|
+|Suggestion status|Suggested [status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md) of the normalization process.|
 |Discovered publisher|Discovered publisher of the software.|
 |Discovered product|Discovered name of the software.|
 |Discovered version|Discovered version of the software.|
@@ -65,5 +65,5 @@ If you **Reject** the suggestion:
 |Platform|Normalized platform of the software product.|
 |Language|Normalized language of the software product.|
 
-**Parent Topic:**[Software discovery and normalization](c_SAMDiscovery.md)
+**Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 

@@ -21,7 +21,7 @@ Legacy Application Manager is being deprecated. Starting with Australia patch 1,
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
-A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](../../../administer/application-manager/concept/application-manager.md).
+A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/application-manager/concept/application-manager.md).
 
 Role required: admin
 
@@ -31,7 +31,7 @@ Role required: admin
 
 2.  Search for the required plugin, application, or product.
 
-3.  Click the schedule installation icon \(![Schedule installation icon.](../image/schedule-installation-icon.png) \).
+3.  Click the schedule installation icon \(![Schedule installation icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-installation-icon.png) \).
 
     **Note:**
 
@@ -39,39 +39,39 @@ Role required: admin
     -   You can't schedule the installation of an in-development plugin.
 4.  Specify the time at which you want to schedule the installation.
 
-    ![Schedule the installation time.](../image/schedule-time.png)
+    ![Schedule the installation time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-time.png)
 
 5.  Click **Next**.
 
     **Note:** If another installation is scheduled at the same time, a message is displayed that the installation can't be scheduled at the mentioned time and auto-populates the next available slot.
 
-    ![Information message about the scheduled installation.](../image/schedule-message.png)
+    ![Information message about the scheduled installation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-message.png)
 
 6.  In the Schedule Activation window, choose the option to reschedule if the scheduled installation doesn't complete.
 
     The admin can choose to retry the installation once or exit the installation.
 
-    ![Reschedule options.](../image/schedule-option.png)
+    ![Reschedule options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-option.png)
 
     The installation is scheduled and a confirmation message is displayed.
 
 
 ## What to do next
 
-Click the schedule summary icon \(![Schedule summary icon.](../image/schedule-summ-icon.png) \) to view the installation status and schedule calendar.
+Click the schedule summary icon \(![Schedule summary icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-summ-icon.png) \) to view the installation status and schedule calendar.
 
-![Schedule summary.](../image/schedule-summary.png)
+![Schedule summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/schedule-summary.png)
 
 -   To view the status of the installation, click **View Status**.
     -   If the installation is successful, the details of the plugin, application, or product are displayed.
     -   If the installation fails, the reason for the failure is displayed along with other details.
 -   To reschedule or delete the scheduled installation, click **Reschedule** or **Delete** in the app tile.
 
-    ![Reschedule or delete the schedule installation.](../image/reschdule-delete.png)
+    ![Reschedule or delete the schedule installation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/reschdule-delete.png)
 
     **Note:** If you have scheduled the installation of a product, all apps in the product will also be scheduled for installation. However, you can't modify or delete the schedule of an individual app. You can only modify or delete the schedule of the product.
 
 -   To view the schedule of installations, click **Full schedule**. A calendar displays the details of the scheduled installations.
 
-**Parent Topic:**[Using Legacy Application Manager](using-legacy-application-manager.md)
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 

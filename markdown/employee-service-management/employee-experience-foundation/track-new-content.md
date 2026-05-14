@@ -25,12 +25,12 @@ You can make the topic pages include the most updated content available for the 
 -   Alternatively, you can also autosync the new content updates by enabling a **Taxonomy category content autosync** system property.
 -   The connected content types supported for the features are Knowledge Base articles and Service Catalog items.
 
-Connected content is available on the Browser Extension for Employee Center. For more information, see [Browser Extension for Employee Center](ecbe-intro.md).
+Connected content is available on the Browser Extension for Employee Center. For more information, see [Browser Extension for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecbe-intro.md).
 
--   **[Manage connected content from topic pages](../task/mnge-content-topics.md)**  
+-   **[Manage connected content from topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/mnge-content-topics.md)**  
 Link your desired categories to the topics and track the additions and removals to have easier management of unconnected content.
--   **[Manage outdated connected content](../task/may-manage-outdated-content-topics.md)**  
+-   **[Manage outdated connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/may-manage-outdated-content-topics.md)**  
 Improve performance by tracking and removing outdated content from connected content from a dedicated tab. .
 
-**Parent Topic:**[Setup Employee Center browse experience features](setup-browse-experience.md)
+**Parent Topic:**[Setup Employee Center browse experience features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-browse-experience.md)
 

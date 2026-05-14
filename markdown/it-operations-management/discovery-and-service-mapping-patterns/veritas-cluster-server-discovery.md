@@ -57,7 +57,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     2.  In the **UNIX Classification** list, click **Solaris** or **Linux**.
     3.  On the **Triggers probes** tab, check that the **HorizontalDiscoveryProbe-HorizontalPatt** probe is assigned to the **UNIX Cluster – VERITAS Cluster** pattern.
 
-        ![Probe triggering the pattern for Veritas Cluster Server discovery](../image/VeritasClusterServer-probe-triggers.png)
+        ![Probe triggering the pattern for Veritas Cluster Server discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/VeritasClusterServer-probe-triggers.png)
 
         **Note:** The discovery log shows the error for OS discovery step even if the discovery finished successfully.
 
@@ -105,7 +105,7 @@ You cannot customize the Unix Cluster – VERITAS Cluster pattern in the Debug m
 
 The graphic illustrates CIs that are part of Veritas Cluster Server discovery.
 
-![The Veritas Cluster Server components](../image/VeritasClusterServer-components.png)
+![The Veritas Cluster Server components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/VeritasClusterServer-components.png)
 
 ## CI relationships
 
@@ -124,5 +124,5 @@ The Unix Cluster – VERITAS Cluster pattern creates the following CI relationsh
 |Unix Cluster resource group \[cmdb\_ci\_unix\_cluster\_resource\_group \]|Contains: Contained by|The Node field on Unix Cluster Node \[cmdb\_ci\_unix\_cluster\_node\]|
 |Unix Cluster resource group \[cmdb\_ci\_unix\_cluster\_resource\_group \]|Contains: Contained by|Unix Cluster resource \[cmdb\_ci\_unix\_cluster\_resource\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

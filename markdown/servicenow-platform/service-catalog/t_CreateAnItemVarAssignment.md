@@ -55,5 +55,5 @@ The value for an item variable is determined in the following order:
 
 Set an item variable value to match an order guide variable value, or an order guide default value, using an item variable assignment.
 
-**Parent Topic:**[Create an order guide variable](../concept/c_CreateVariables.md)
+**Parent Topic:**[Create an order guide variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_CreateVariables.md)
 

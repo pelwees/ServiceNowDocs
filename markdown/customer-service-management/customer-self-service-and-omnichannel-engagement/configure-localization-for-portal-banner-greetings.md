@@ -33,7 +33,7 @@ The portal banner widget enables you to customize the heading text displayed to 
 
     3.  In **Heading**, enter the desired text.
 
-        For details on filling the Heading field, see [Portal Banner widget instance options form](../reference/banner-widget-inst-options.md).
+        For details on filling the Heading field, see [Portal Banner widget instance options form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/banner-widget-inst-options.md).
 
 2.  Create a translation record \(for localization\).
 

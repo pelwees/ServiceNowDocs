@@ -42,5 +42,5 @@ The system generates a copied template in the Draft state. When you open the tem
 **Related topics**  
 
 
-[Create an assessment template category](sae-asmnt-template-category-create.md)
+[Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-category-create.md)
 

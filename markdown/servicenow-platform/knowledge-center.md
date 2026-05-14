@@ -17,15 +17,15 @@ The ServiceNow® Knowledge Center \(KC\) is designed to simplify the discovery a
 
 <table id="table_ezm_mb2_bhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![explore](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about features in Knowledge Center helpful in managing your knowledge base.](exploring-knowledge-center.md)
+[Explore![explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about features in Knowledge Center helpful in managing your knowledge base.](exploring-knowledge-center.md)
 
 </td><td>
 
-[Configure![configure](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Center and related features.](configuring-knowledge-center.md)
+[Configure![configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Center and related features.](configuring-knowledge-center.md)
 
 </td><td>
 
-[Use](using-knowledge-center.md)![configure](../../../reuse/icons/brand-icons/bus-workflow.svg)Use Knowledge Center and related features.
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/using-knowledge-center.md)![configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../../reuse/icons/brand-icons/bus-workflow.svg)Use Knowledge Center and related features.
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -36,5 +36,5 @@ The ServiceNow® Knowledge Center \(KC\) is designed to simplify the discovery a
 **Related topics**  
 
 
-[Exploring Knowledge Center](exploring-knowledge-center.md)
+[Exploring Knowledge Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-knowledge-center.md)
 

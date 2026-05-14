@@ -32,18 +32,18 @@ Role required: ui\_action\_admin or admin
 5.  Repeat steps 1 – 4 for all Live Feed UI actions.
 
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_DocumentFeeds.md)
 
 **Related topics**  
 
 
-[Configure document feeds](t_ConfigureDocumentFeeds.md)
+[Configure document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_ConfigureFeedSecurity.md)
 
-[Disable a record feed](t_DisableARecordFeed.md)
+[Disable a record feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DisableARecordFeed.md)
 
-[Disable a document feed](t_DisableADocumentFeed.md)
+[Disable a document feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DisableADocumentFeed.md)
 
-[Business rule installed with Live Feed Document](../reference/r_InstalledComponents.md)
+[Business rule installed with Live Feed Document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_InstalledComponents.md)
 

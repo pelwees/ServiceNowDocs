@@ -24,11 +24,11 @@ Role required: An Impact role
 
 ## Procedure
 
-1.  [Install the Impact Store Application from the ServiceNow Store](../task/install-impact-innovation-lab.md).
+1.  [Install the Impact Store Application from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/install-impact-innovation-lab.md).
 
 2.  Log in to the Impact Store Application.
 
-3.  Navigate to **Guided Setup** &gt; **Register your instance** &gt; **Initiate connection to the Impact Delivery Instance**.![Initiate connection to the Impact Delivery Instance in Impact Guided Setup manual registration.](../image/manual-registration-gui.png)
+3.  Navigate to **Guided Setup** &gt; **Register your instance** &gt; **Initiate connection to the Impact Delivery Instance**.![Initiate connection to the Impact Delivery Instance in Impact Guided Setup manual registration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/manual-registration-gui.png)
 
     The login screen for IDI displays to enter IDI credentials.
 
@@ -92,7 +92,7 @@ Contact \(administrator who receives the email to complete setup\)
 
 
 </td></tr></tbody>
-</table>    ![Custom URL example in the Domain name table.](../image/custom-url.png)
+</table>    ![Custom URL example in the Domain name table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/custom-url.png)
 
 8.  Select **Initiate registration**.
 
@@ -101,11 +101,11 @@ Contact \(administrator who receives the email to complete setup\)
 
 ## What to do next
 
-The named contact administrator will [Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md).
+The named contact administrator will [Use manual registration to establish the connection to the provider instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/connect-instance-impact-store-app.md).
 
-**Parent Topic:**[Use manual registration to configure the Impact Store Application](use_manual_registration_configure_impact_store_application.md)
+**Parent Topic:**[Use manual registration to configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/use_manual_registration_configure_impact_store_application.md)
 
-**Previous topic:**[Use manual registration to configure the Impact Store Application](use_manual_registration_configure_impact_store_application.md)
+**Previous topic:**[Use manual registration to configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/use_manual_registration_configure_impact_store_application.md)
 
-**Next topic:**[Use manual registration to establish the connection to the provider instance](../task/connect-instance-impact-store-app.md)
+**Next topic:**[Use manual registration to establish the connection to the provider instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/connect-instance-impact-store-app.md)
 

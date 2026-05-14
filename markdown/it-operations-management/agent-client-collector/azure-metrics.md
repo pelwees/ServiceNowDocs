@@ -712,5 +712,5 @@ Transactions
 Number of requests made to a storage service or the specified API operation. Includes successful and failed requests, as well as requests which produced errors. Use the **ResponseType** dimension for the number of different types of responses.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

@@ -21,20 +21,20 @@ An assignment rule must also meet these additional criteria to run:
 -   The task record must be unassigned. The record cannot have an existing value for either the assigned\_to or assignment\_group fields. Assignment rules cannot overwrite existing assignments \(including assignments set by a default value or a previously run assignment rule\).
 -   The assignment rule is the first rule that matches the table and conditions. If more than one assignment rule matches the conditions, only the rule with the lowest order value runs.
 
-**Parent Topic:**[Defining assignment rules](c_DefineAssignmentRules.md)
+**Parent Topic:**[Defining assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Data lookup rules](c_DataLookupRules.md)
+[Data lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DataLookupRules.md)
 
-[Precedence between data lookup, assignment, and business rules](c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](c_WorkflowAssignments.md)
+[Workflow assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_WorkflowAssignments.md)
 
-[Baseline assignment rules example](../reference/r_BaselineAssignmentRulesExample.md)
+[Baseline assignment rules example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/r_BaselineAssignmentRulesExample.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_DataLookupRule.md)
 

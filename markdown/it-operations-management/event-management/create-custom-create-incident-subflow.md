@@ -46,13 +46,13 @@ Copy an existing subflow, and then customize it. Publish the custom subflow so t
 
     For example, in an alert management rule that has processed alerts, in the Alert Executions area, click the **Link to execution** of the required alert.
 
-    ![Link to execution](../image/link-to-execution.png)
+    ![Link to execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/link-to-execution.png)
 
     The Flow Designer opens. Click **Subflow Inputs and Outputs**. The input variable names of the subflow are displayed with their respective values.
 
-    ![Subflow variable values](../image/subflow-parameter-values.png)
+    ![Subflow variable values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/subflow-parameter-values.png)
 
-4.  In the subflow header, click more actions ![More actions](../image/more-actions-icon.png) and select **Copy subflow**.
+4.  In the subflow header, click more actions ![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/more-actions-icon.png) and select **Copy subflow**.
 
 5.  In the **New Subflow Name** field, enter the name of the new subflow.
 
@@ -66,13 +66,13 @@ Copy an existing subflow, and then customize it. Publish the custom subflow so t
 
     In the editor, you can delete subflow inputs or outputs, as required.
 
-8.  To delete an input, click ![Delete input icon](../image/delete-input-icon.png).
+8.  To delete an input, click ![Delete input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/delete-input-icon.png).
 
     Inputs are fixed and cannot be added to.
 
 9.  Create subflow outputs by defining the names and data types.
 
-    1.  Click ![Add new input icon](../image/add-input-icon.png) to add output.
+    1.  Click ![Add new input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/add-input-icon.png) to add output.
 
     2.  Define the name and the data type.
 
@@ -85,7 +85,7 @@ Copy an existing subflow, and then customize it. Publish the custom subflow so t
 
 Include the modified subflow in an alert management rule to resolve alerts according to your customized requirements.
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-management-rule.md)
 
 **Related topics**  
 

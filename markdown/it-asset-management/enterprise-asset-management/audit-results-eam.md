@@ -55,7 +55,7 @@ New
 
 </td><td>
 
-Number of assets that were scanned but don’t have a record in your ServiceNow instance.**Note:** If the audit record's **Scan method** is set to **Multi scan**, a new asset record is created using the provided Asset tag. The new asset record is created with unknown product model and unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record is created with unknown model category and unknown product model. Open the asset remediation task from the Hardware Asset Workspace and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an enterprise asset remediation task](../task/close-an-asset-remediation-task-eam.md).
+Number of assets that were scanned but don’t have a record in your ServiceNow instance.**Note:** If the audit record's **Scan method** is set to **Multi scan**, a new asset record is created using the provided Asset tag. The new asset record is created with unknown product model and unknown model category value. Additionally, an asset remediation task is also created to notify you that an asset record is created with unknown model category and unknown product model. Open the asset remediation task from the Hardware Asset Workspace and update the **Model category** and **Model** fields value for the asset. For more information, see [Close an enterprise asset remediation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/close-an-asset-remediation-task-eam.md).
 
 </td></tr><tr><td>
 
@@ -74,50 +74,50 @@ Found but not in audit scope
 The number of scanned assets that are not within the scope of the current audit record. For example, if the audit is created to scan assets located in Aisle and Space 001 of the stockroom, but an asset belonging to Aisle and Space 002 in the stockroom is scanned, that asset cannot be categorized as an unexpected asset for the stockroom. Since the asset is still an expected asset for the stockroom, it is categorized as found but not in audit scope asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Asset Management reference](../concept/reference-enterprise-asset-management.md)
+</table>**Parent Topic:**[Enterprise Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Domain separation and Enterprise Asset Management](../concept/domain-separation-eam.md)
+[Domain separation and Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/domain-separation-eam.md)
 
-[Enterprise Asset Management roles](eam-roles.md)
+[Enterprise Asset Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-roles.md)
 
-[OT Asset Workspace roles](ot-workspace-roles.md)
+[OT Asset Workspace roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-workspace-roles.md)
 
-[Asset fields for enterprise assets](asset-fields-eam.md)
+[Asset fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md)
 
-[Asset audit fields for enterprise assets](asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-audit-record-fields-eam.md)
 
-[Enterprise model categories and corresponding classes](enterprise-model-categories.md)
+[Enterprise model categories and corresponding classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-categories.md)
 
-[Mandatory fields in the bulk import spreadsheets](mandatory-bulk-fields.md)
+[Mandatory fields in the bulk import spreadsheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/mandatory-bulk-fields.md)
 
-[Normalization status for enterprise models](norm-status-eam.md)
+[Normalization status for enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/norm-status-eam.md)
 
-[Model fields for Enterprise Asset Management](eam-model-fields.md)
+[Model fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-model-fields.md)
 
-[Contract fields for Enterprise Asset Management](contract-fields-eam.md)
+[Contract fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/contract-fields-eam.md)
 
-[Maintenance plan fields for Enterprise Asset Management](maintenance-plan-fields-eam.md)
+[Maintenance plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/maintenance-plan-fields-eam.md)
 
-[Maintenance schedule fields for Enterprise Asset Management](maintenance-schedule-fields-eam.md)
+[Maintenance schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/maintenance-schedule-fields-eam.md)
 
-[Work plan fields for Enterprise Asset Management](wp-fields-eam.md)
+[Work plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/wp-fields-eam.md)
 
-[Work plan schedule fields for Enterprise Asset Management](work-plan-schedule-fields-eam.md)
+[Work plan schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/work-plan-schedule-fields-eam.md)
 
-[Expense line fields for Enterprise Asset Management](expense-line-fields-eam.md)
+[Expense line fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/expense-line-fields-eam.md)
 
-[Fields inherited from a parent asset group to a sub group](subgroups-parent-fields-eam.md)
+[Fields inherited from a parent asset group to a sub group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/subgroups-parent-fields-eam.md)
 
-[Enterprise asset disposal order stages](eamasset-disposalorder-stages.md)
+[Enterprise asset disposal order stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eamasset-disposalorder-stages.md)
 
-[Terminology for linear assets](terms-eam.md)
+[Terminology for linear assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/terms-eam.md)
 
-[Scheduled jobs and tables installed with normalization of firmware models](firmware-tables-jobs-ot.md)
+[Scheduled jobs and tables installed with normalization of firmware models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/firmware-tables-jobs-ot.md)
 
-[Asset put away task fields](put-away-task-form-eam.md)
+[Asset put away task fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/put-away-task-form-eam.md)
 
-[Asset audit fields for enterprise assets](asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-audit-record-fields-eam.md)
 

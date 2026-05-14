@@ -28,7 +28,7 @@ Ensure that you have created an OAuth application endpoint for the external clie
 -   If you want to create an OAuth application endpoint for external client applications to access the ServiceNow instance, see [Create an endpoint for clients to access the instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreateEndpointforExternalClients.md).
 -   If you want to create an OAuth JWT API endpoint for external clients to access the ServiceNow instance, see [Create an OAuth JWT API endpoint for external clients \(machine to machine integration\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-jwt-endpoint.md).
 
-**Parent Topic:**[Set up external trigger endpoints](set-up-external-webhook-endpoints.md)
+**Parent Topic:**[Set up external trigger endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-external-webhook-endpoints.md)
 
 ## Configure endpoint with OAuth 2.0 support
 
@@ -42,25 +42,25 @@ Role required: flow\_designer and connection\_admin
 
 1.  Under the Endpoints heading, select **Configure** for the connection to set up an endpoint with OAuth authentication support.
 
-    ![Configure button for OAuth authentication.](../images/oauth-endpoint-ext-trigger.png)
+    ![Configure button for OAuth authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger.png)
 
-2.  In the Configure endpoint form, click ![Select roles icon.](../images/select-roles-plus-icon.png) to add role in **Required roles**.
+2.  In the Configure endpoint form, click ![Select roles icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-roles-plus-icon.png) to add role in **Required roles**.
 
-    To select one or more roles, select ![Select roles icon.](../images/select-roles-drop-down.png) or enter the name of one or more roles.
+    To select one or more roles, select ![Select roles icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-roles-drop-down.png) or enter the name of one or more roles.
 
-    ![Add required roles.](../images/oauth-endpoint-ext-trigger-user.png)
+    ![Add required roles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-user.png)
 
 3.  Select the required application registry record.
 
 4.  To generate the endpoint, select **Activate**.
 
-    ![Activate the endpoint.](../images/oauth-endpoint-ext-trigger-2.png)
+    ![Activate the endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-2.png)
 
     The endpoint URL is generated in **URL**.
 
-    ![Copy the endpoint URL.](../images/oauth-endpoint-ext-trigger-URL.png)
+    ![Copy the endpoint URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-URL.png)
 
-5.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](../images/copy-endpoint-icon.png)\)
+5.  To copy the endpoint, select the copy endpoint icon \(![Copy endpoint icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/copy-endpoint-icon.png)\)
 
     **Tip:** Keep the endpoint at a secure place to use later at the third-party application webhook.
 
@@ -79,17 +79,17 @@ Role required: flow\_designer and connection\_admin
 
 2.  Click **Deactivate**.
 
-    ![Deactivate the required endpoint.](../images/oauth-endpoint-ext-trigger-deactivate.png)
+    ![Deactivate the required endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-deactivate.png)
 
 3.  To confirm deactivation, select **Deactivate**.
 
-    ![Confirm to deactivate the required endpoint.](../images/oauth-endpoint-ext-trigger-deactivate-conf.png)
+    ![Confirm to deactivate the required endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-deactivate-conf.png)
 
 4.  To activate again, on the connection record, select **Edit**.
 
 5.  Select **Activate**.
 
-    ![Activate the required endpoint.](../images/oauth-endpoint-ext-trigger-activate.png)
+    ![Activate the required endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-endpoint-ext-trigger-activate.png)
 
 
 ## Deconfigure endpoint with OAuth 2.0 support
@@ -104,13 +104,13 @@ Role required: flow\_designer and connection\_admin
 
 1.  Under the Endpoints heading, click the more options icon \(![](../images/oauth-more-options-icon.png)\).
 
-    ![Deconfigure the required endpoint.](../images/oauth-deconfigure.png)
+    ![Deconfigure the required endpoint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-deconfigure.png)
 
 2.  Click **Deconfigure**.
 
 3.  When prompted, confirm your choice to deconfigure.
 
-    ![Confirm to deconfigure.](../images/oauth-deconfigure-confirmation.png)
+    ![Confirm to deconfigure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/oauth-deconfigure-confirmation.png)
 
     The configuration for the endpoint is removed from the connection.
 

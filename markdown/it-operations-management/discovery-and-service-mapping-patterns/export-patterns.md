@@ -114,11 +114,11 @@ The update set is an XML file with the following name convention: sys\_remote\_u
 7.  If the discovery fails or the result is not as expected, restart the MID Server to make sure that the MID Server runs the latest set of patterns.
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Finalize a pattern](t_FinalizePatternPatDef.md)
+**Previous topic:**[Finalize a pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_FinalizePatternPatDef.md)
 
-**Next topic:**[Choose the pattern version](t_ChoosePatternVersionPatDef.md)
+**Next topic:**[Choose the pattern version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_ChoosePatternVersionPatDef.md)
 
 **Related topics**  
 

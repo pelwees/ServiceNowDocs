@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
-2.  Select the Show/hide filter \(![Show/hide filter icon in the table header.](../image/show-hide-filter-icon.png)\) icon.
+2.  Select the Show/hide filter \(![Show/hide filter icon in the table header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/show-hide-filter-icon.png)\) icon.
 
 3.  Add the following filter.
 
@@ -38,5 +38,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/modeling-ot-system.md)
 

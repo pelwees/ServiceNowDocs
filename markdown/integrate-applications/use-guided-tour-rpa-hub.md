@@ -38,9 +38,9 @@ In RPA Hub, guided tours are currently available for creating queues and configu
 
     For example, select **Build** &gt; **Queues** to use the guided tour for creating queues.
 
-3.  Select the **Show help** icon \(![Show help icon](../image/help-center-icon-rpa.png)\).
+3.  Select the **Show help** icon \(![Show help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/help-center-icon-rpa.png)\).
 
-4.  Select **Pin Help Center menu** icon ![Pin Help Center menu](../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
+4.  Select **Pin Help Center menu** icon ![Pin Help Center menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
 
 5.  Select **Take a Tour**​.
 

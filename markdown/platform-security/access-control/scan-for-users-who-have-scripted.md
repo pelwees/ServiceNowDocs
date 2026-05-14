@@ -20,7 +20,7 @@ Scan your instance to find users who have scripted within a specific time frame.
 
 Role required: security\_admin
 
-**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/t_ElevateToAPrivilegedRole.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Role required: security\_admin
     -   90 days
     -   120 days
     -   180 days
-    ![Scan for scripting users](../image/sgt-scan-scripting.png)
+    ![Scan for scripting users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/sgt-scan-scripting.png)
 
     The default value is **180 days**.
 
@@ -59,7 +59,7 @@ Role required: security\_admin
     |Created by|User who initiated the scan|
     |Action|Actions the scan took|
 
-    ![View scan](../image/sgt-view-scans.png)
+    ![View scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/sgt-view-scans.png)
 
 7.  Select the scan record to open the scan results page.
 
@@ -72,13 +72,13 @@ Role required: security\_admin
     -   Users that have scripted table — a detailed list of active scripters, showing each user's Name, Last scripted date, Title, and Department.
     **Note:** If the **Users that have scripted count** is zero and the table shows `No data to display`, no users in the ServiceNow AI Platform have scripted within the selected time period.
 
-    ![Scan results page](../image/sgt-view-scans-result.png)
+    ![Scan results page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/sgt-view-scans-result.png)
 
 8.  Review the results and identify users who require action.
 
 9.  To act on the results, select **Manage conditional script writers** on the scan results page.
 
-    The **Manage users in the conditional script writer group** opens, where you can review group membership and remove users who no longer require scripting access using the **Schedule removal** option. To learn more about how to schedule removal, see [Remove users from the Conditional Script Writer group](remove-conditional-script-writer-users.md).
+    The **Manage users in the conditional script writer group** opens, where you can review group membership and remove users who no longer require scripting access using the **Schedule removal** option. To learn more about how to schedule removal, see [Remove users from the Conditional Script Writer group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/remove-conditional-script-writer-users.md).
 
 
 ## Result

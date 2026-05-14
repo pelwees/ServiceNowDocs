@@ -23,7 +23,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 This procedure demonstrates how to assign account configuration using the assignment policy. For example, when the account creation request is approved and awaits for the provisioning configuration information, this automation is executed.
 
-![Approved CW request waiting for configuration assignment](../image/cam_config_list.png)
+![Approved CW request waiting for configuration assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cam_config_list.png)
 
 ## Procedure
 
@@ -35,7 +35,7 @@ This procedure demonstrates how to assign account configuration using the assign
 
 4.  Under the **Policy builder** tab, in the **If** condition block, make a note of the values that you're validating.
 
-    ![Customizing Configuration Assignment policy](../image/pace_config.png)
+    ![Customizing Configuration Assignment policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/pace_config.png)
 
     **Note:** In this section, you're validating:
 
@@ -51,11 +51,11 @@ This procedure demonstrates how to assign account configuration using the assign
 
     These field values are only used to identify the data collector.
 
-    ![Data collector dialog box](../image/add_data_collector1.png)
+    ![Data collector dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/add_data_collector1.png)
 
 9.  Under the **Inputs** tab, select **CW Application Configuration** and **CW Account Group** \(same as the AWS org unit that an admin selects on the account request screen\).
 
-    ![Data collector dialog box for inputs tab](../image/add_data_collector2.png)
+    ![Data collector dialog box for inputs tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/add_data_collector2.png)
 
     **Note:** The selected AWS org unit in the data collector should be part of the same Cloud Organization provided in the configuration.
 
@@ -65,7 +65,7 @@ This procedure demonstrates how to assign account configuration using the assign
 
 11. Select the output result as follows.
 
-    ![Then condition result](../image/pace_then_config.png)
+    ![Then condition result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/pace_then_config.png)
 
 12. To save the policy, select **Save**.
 

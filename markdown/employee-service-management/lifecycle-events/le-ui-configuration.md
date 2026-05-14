@@ -23,7 +23,7 @@ Role required: sn\_hr\_le.admin
 
 1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **LE UI Configuration**.
 
-    ![Lifecycle Event UI Configuration](../image/le-ui-config-brand2.png)
+    ![Lifecycle Event UI Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/le-ui-config-brand2.png)
 
 2.  To configure the activity type colors, enter the hex color or the name of the color you want.
 

@@ -25,7 +25,7 @@ Agents can do the following from the account hierarchy:
 
 To view the account hierarchy in CSM Configurable Workspace, navigate to an account record and select the Open Hierarchy \(![](../image/account-hierarchy-workspace-icon.png)\) icon on the **Account** field.
 
-![Parent view of the account hierarchy structure with information about the current account and options to update and delete the account details.](../image/csm-account-hierarchy-workspace.png "Account hierarchy (workspace)")
+![Parent view of the account hierarchy structure with information about the current account and options to update and delete the account details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-account-hierarchy-workspace.png "Account hierarchy (workspace)")
 
 Two different views of the account hierarchy are available.
 
@@ -36,7 +36,7 @@ Two different views of the account hierarchy are available.
 
 The account hierarchy is available in the Account Hierarchy section on the Account form.
 
-![Parent view of the account hierarchy structure with information about the current account and options to update and delete the account details.](../image/csm-account-hierarchy-platform.png "Account hierarchy (Core UI)")
+![Parent view of the account hierarchy structure with information about the current account and options to update and delete the account details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-account-hierarchy-platform.png "Account hierarchy (Core UI)")
 
 Two different views of the account hierarchy in the Core UI are available. In both views, the current account is highlighted in the account structure.
 

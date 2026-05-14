@@ -90,17 +90,17 @@ Configure and use Zoom as a conference provider from any of the task records.
 
 You must sign in to the browser in order to direct to the Zoom client. However, if you are not signed in, you must provide your registration details.
 
--   **[Set up Notify Zoom connector in Zoom](setup-notify-zoom-connector.md)**  
+-   **[Set up Notify Zoom connector in Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-notify-zoom-connector.md)**  
 Use the Notify Zoom connector to expand the Notify communication channel by managing and initiating a Zoom meeting directly from any task record such as an incident or a change.
--   **[Disable Zoom meeting password](disable-zoom-password.md)**  
+-   **[Disable Zoom meeting password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/disable-zoom-password.md)**  
 Disable Zoom meeting password so that you can join a Zoom meeting without any meeting password.
 
-**Parent Topic:**[Configuring Notify](../concept/configuring-notify.md)
+**Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/configuring-notify.md)
 
 **Related topics**  
 
 
-[Configure a provider in Notify](configure-providers-for-provider-selectors.md)
+[Configure a provider in Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-providers-for-provider-selectors.md)
 
-[Start a conference call](start-a-conference-call.md)
+[Start a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/start-a-conference-call.md)
 

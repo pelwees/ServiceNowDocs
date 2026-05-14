@@ -56,10 +56,10 @@ The **SIR Dashboards** icon displayed on the left side of the workspace home pag
 **Note:** Users with sn\_si.manager or sn\_si.admin access can edit the dashboards. The users must be within the same scope of the dashboards that the user is trying to make edits. For example, security analyst overview dashboard is available in the SIR workspace, then the user should also be in the same SIR workspace scope to make the edits to the dashboard.
 
 1.  Navigate to **Workspaces** &gt; **Security Incident Management Workspace**.
-2.  Click on the **SIR Dashboards** ![Dashboard icon](../image/dashboard.png)icon.
+2.  Click on the **SIR Dashboards** ![Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/dashboard.png)icon.
 3.  Select the desired Dashboard from the drop down list.
 
-    ![Selecting the Security Incident Explorer Dashboard.](../image/dashboard-drop-down.png)
+    ![Selecting the Security Incident Explorer Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/dashboard-drop-down.png)
 
 
 You can edit the dashboards, add new elements to the dashboards, and create your own dashboards. For more information on how to use dashboards, see [Working with responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md)

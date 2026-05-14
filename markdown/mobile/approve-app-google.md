@@ -25,8 +25,8 @@ Role required: none, however, you must either go to Google Play through the MDM,
 
 3.  Click **Approve**.
 
-    ![App in the Google Play store with the Approve button highlighted](../image/ApproveAndroidApp.png)
+    ![App in the Google Play store with the Approve button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/ApproveAndroidApp.png)
 
 
-**Parent Topic:**[Supported mobile device management vendors](../concept/mobile-vendors.md)
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-vendors.md)
 

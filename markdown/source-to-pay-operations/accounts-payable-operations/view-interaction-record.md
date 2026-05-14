@@ -23,7 +23,7 @@ Role required: Account Payable agent
 
 1.  Navigate to **All** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **Interactions** &gt;**All**.
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **Interactions** &gt;**All**.
 
 3.  View interactions in the desired category to associate a record with an invoice case.
 
@@ -42,5 +42,5 @@ Role required: Account Payable agent
     |Transcript|Text record of the conversation between an agent and the supplier|
 
 
-**Parent Topic:**[Interaction management in Accounts Payable Operations](../concept/interaction-record.md)
+**Parent Topic:**[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/interaction-record.md)
 

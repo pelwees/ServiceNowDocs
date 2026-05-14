@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by clicking the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by clicking the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Business Capabilities**.
 
@@ -43,39 +43,39 @@ Role required: sn\_apm.apm\_user
     -   To remove an existing architectural artifact, select the artifact and then select **Remove**.
 9.  Fill in the form fields.
 
-    For field information, see [Create new architectural artifact form](../../reference/eaw-reference/eaw-new-arch-artifact-form.md).
+    For field information, see [Create new architectural artifact form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-new-arch-artifact-form.md).
 
 10. Select **Save**.
 
 
-**Parent Topic:**[Manage business capabilities](../../concept/eaw-concept/eaw-manage-business-capabilities.md)
+**Parent Topic:**[Manage business capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-business-capabilities.md)
 
 **Related topics**  
 
 
-[View all business capabilities on the Portfolio page](eaw-view-all-capabilities-on-the-portfolio-page.md)
+[View all business capabilities on the Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-capabilities-on-the-portfolio-page.md)
 
-[Add or edit a business capability from the Portfolio page](eaw-add-capability.md)
+[Add or edit a business capability from the Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-capability.md)
 
-[Create a sub-capability from the Portfolio page](eaw-create-a-sub-capability-from-the-portfolio-page.md)
+[Create a sub-capability from the Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-a-sub-capability-from-the-portfolio-page.md)
 
-[Create diagram for a business capability form](../../reference/eaw-reference/eaw-create-diagram-bc.md)
+[Create diagram for a business capability form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-diagram-bc.md)
 
-[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](eaw-create-lucid-diagram-cap.md)
+[Create a Lucidchart diagram for a business capability in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-lucid-diagram-cap.md)
 
-[Add a business capability](../add-a-capability.md)
+[Add a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../add-a-capability.md)
 
-[Create a demand towards achievement of a capability](eaw-create-a-demand-towards-achievement-of-capability.md)
+[Create a demand towards achievement of a capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-a-demand-towards-achievement-of-capability.md)
 
-[Update the hierarchy of a business capability](../update-hierarchy.md)
+[Update the hierarchy of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../update-hierarchy.md)
 
-[Create a sub-capability](eaw-create-sub-capability.md)
+[Create a sub-capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-sub-capability.md)
 
-[Assign a business application](../assign-a-business-application.md)
+[Assign a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../assign-a-business-application.md)
 
-[Unassign a business application from a capability](unassign-a-business-application-from-a-capability.md)
+[Unassign a business application from a capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/unassign-a-business-application-from-a-capability.md)
 
-[Delete a capability from the hierarchy](../delete-a-capability.md)
+[Delete a capability from the hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../delete-a-capability.md)
 
-[View a roadmap of a business capability](eaw-view-roadmap-bc.md)
+[View a roadmap of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-roadmap-bc.md)
 

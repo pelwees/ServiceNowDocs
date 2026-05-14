@@ -51,15 +51,15 @@ A dynamic choice is added to the dynamic choice set.
 
 ## Add a dynamic choice to a dynamic choice set
 
-![Add a choice to the screen type choice set.](../image/dynamic-choice-example.png)
+![Add a choice to the screen type choice set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-choice-example.png)
 
 ## Define a specific choice in the Televisions category
 
-![Add a choice that's limited to a specific attribute in a specific category.](../image/dynamic-choice-limited-example.png)
+![Add a choice that's limited to a specific attribute in a specific category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-choice-limited-example.png)
 
 ## Choices defined in choice set
 
-![Choices in a choice set.](../image/dynamic-choice-set-choices-example.png)
+![Choices in a choice set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-choice-set-choices-example.png)
 
 ## What to do next
 

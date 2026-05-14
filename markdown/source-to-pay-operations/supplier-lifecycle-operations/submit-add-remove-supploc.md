@@ -63,7 +63,7 @@ Role required: sn\_slm.contact
 
 9.  On the Supplier Location form, fill in the fields.
 
-    For a description of the field values, see [Add New Location form](../reference/supplier-location-form.md).
+    For a description of the field values, see [Add New Location form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/supplier-location-form.md).
 
 10. Select **Submit**.
 
@@ -74,30 +74,30 @@ The application creates a case and assigns it to the supplier manager for review
 
 After the supplier manager approves the case, the supplier record is updated accordingly.
 
-**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+**Parent Topic:**[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 
 **Related topics**  
 
 
-[Add a supplier contact using the supplier catalog](enroll-contact-catalog.md)
+[Add a supplier contact using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enroll-contact-catalog.md)
 
-[Remove a supplier contact using the supplier catalog](remove-contact-catalog.md)
+[Remove a supplier contact using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-contact-catalog.md)
 
-[Ask a question using the supplier catalog](submit-question.md)
+[Ask a question using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-question.md)
 
-[Submit an idea using the supplier catalog](submit-idea.md)
+[Submit an idea using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-idea.md)
 
-[Submit an issue using the supplier catalog](submit-issue.md)
+[Submit an issue using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-issue.md)
 
-[Update banking details using the supplier catalog](update-supp-banking-info.md)
+[Update banking details using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-banking-info.md)
 
-[Update company profile using the supplier catalog](update-supp-profile.md)
+[Update company profile using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-profile.md)
 
-[Request elevated access](request-elevated-access.md)
+[Request elevated access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/request-elevated-access.md)
 
-[Update default supplier](update-default-supplier.md)
+[Update default supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-default-supplier.md)
 
-[Request something else using the supplier catalog](submit-general-request.md)
+[Request something else using the supplier catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-general-request.md)
 
-[Raising requests from the Supplier Collaboration Portal](../concept/supp-catalog-req.md)
+[Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-catalog-req.md)
 

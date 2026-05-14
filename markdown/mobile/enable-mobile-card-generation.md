@@ -41,5 +41,5 @@ The **Use Now Assist** option is now available in the web to mobile conversion f
 
 ## What to do next
 
-Use the web to mobile conversion skill in Mobile App Builder to generate a native mobile component. For more information, see [Web to mobile component conversion](web-mobile-component-conversion.md).
+Use the web to mobile conversion skill in Mobile App Builder to generate a native mobile component. For more information, see [Web to mobile component conversion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/web-mobile-component-conversion.md).
 

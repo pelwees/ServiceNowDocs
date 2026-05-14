@@ -29,8 +29,8 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 4.  In the **Allowed Domains** field, enter the SSO domain for your add-in.
 
-    ![Office Manifest form with the Login Page not Required field selected and an SSO domain URL added to the Allowed Domains field.](../images/sn-addin-ms365-sso.png)
+    ![Office Manifest form with the Login Page not Required field selected and an SSO domain URL added to the Allowed Domains field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-addin-ms365-sso.png)
 
 
-**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](../concept/configuring-sn-addin-for-ms365.md)
+**Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/configuring-sn-addin-for-ms365.md)
 

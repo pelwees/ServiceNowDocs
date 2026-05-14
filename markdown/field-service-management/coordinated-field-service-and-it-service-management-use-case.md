@@ -25,7 +25,7 @@ Field Service Management tracks parts used, expenses, and completion times on a 
 
 ## Field Service IT workflow diagram
 
-![Field Service Management IT workflow from opening an incident to analyzing the audit reports. For more text description, refer to the following table.](../image/FSM-it-workflow.png)
+![Field Service Management IT workflow from opening an incident to analyzing the audit reports. For more text description, refer to the following table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/FSM-it-workflow.png)
 
 ## IT Field Service workflow steps
 
@@ -40,5 +40,5 @@ The following table provides the steps for the IT Field Service workflow.
 |5. Complete work order|Once the technician completes the work, they document their work effort, make any notes, and close the work order. The store manager then digitally signs and confirms the work order is complete. This submission automatically updates the incident.|
 |6. Track and provide audit trail|A PDF summary of all the completed tasks, parts used and returned, incidental expenses, and time taken to do the work is automatically created and attached to the work order. All data is tracked in one single platform for future trend analysis, reports, and audits.|
 
-**Parent Topic:**[Field Service Management workflow examples](fsm-use-cases.md)
+**Parent Topic:**[Field Service Management workflow examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/fsm-use-cases.md)
 

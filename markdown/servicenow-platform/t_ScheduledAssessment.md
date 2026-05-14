@@ -19,27 +19,27 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Open the metric type you created for the [on-demand assessment](t_OnDemandAssessment.md) and set the **Schedule type** to **Scheduled**.
+1.  Open the metric type you created for the [on-demand assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_OnDemandAssessment.md) and set the **Schedule type** to **Scheduled**.
 
 2.  Make sure the categories and metrics you created for the on-demand assessment are correct.
 
-3.  Create [category users](../reference/r_CategoryUsersAndStakeholders.md) who have special knowledge of your categories.
+3.  Create [category users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_CategoryUsersAndStakeholders.md) who have special knowledge of your categories.
 
-4.  Create [stakeholders](../reference/r_CategoryUsersAndStakeholders.md) by associating category users to specific assessable records.
+4.  Create [stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_CategoryUsersAndStakeholders.md) by associating category users to specific assessable records.
 
-5.  [Set a schedule](t_SetAssesstGenerationSchedule.md) for automatic assessment generation or [generate the assessment manually](t_GenAVendorTypeAssmtManually.md).
+5.  [Set a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetAssesstGenerationSchedule.md) for automatic assessment generation or [generate the assessment manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenAVendorTypeAssmtManually.md).
 
     **Note:** This procedure must be done by a system administrator.
 
-6.  Configure [email notifications](../reference/r_AssessmentNotifications.md) to remind users of their assigned assessments and to report to managers when an employee misses an assessment deadline.
+6.  Configure [email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_AssessmentNotifications.md) to remind users of their assigned assessments and to report to managers when an employee misses an assessment deadline.
 
 7.  Analyze the assessment ratings in an assessment scorecard or decision matrix.
 
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[Assessments](../reference/r_Assessments.md)
+[Assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_Assessments.md)
 

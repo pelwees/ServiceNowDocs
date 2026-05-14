@@ -27,7 +27,7 @@ Review and update your hazard list regularly to verify its continued effectivene
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the configuration icon \(![Configuration icon](../image/icon-config.png)\).
+2.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-config.png)\).
 
 3.  In the **Configuration** tab, select **Hazards** and then **All**.
 
@@ -56,5 +56,5 @@ Review and update your hazard list regularly to verify its continued effectivene
     -   **Add hazards** window on a JSA form.
     -   **Hazard being assessed** field on the Hazard assessment form when conducting a risk assessment.
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-setting-up-risk-mgmt.md)
 

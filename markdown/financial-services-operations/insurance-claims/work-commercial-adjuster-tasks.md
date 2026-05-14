@@ -49,7 +49,7 @@ Select a task from the All open claims list.
 
 </td><td>
 
-1.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+1.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 2.  In the **Lists** tab, under **Commercial auto claim adjuster tasks**, select **All**.
 3.  In the list, select the task that you want to open.
 
@@ -173,7 +173,7 @@ Depending on the current stage of the case:
 **Related topics**  
 
 
-[Generate and view a claim's fraud score](view-claim-fraud-score.md)
+[Generate and view a claim's fraud score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/view-claim-fraud-score.md)
 
-[View a claim's summary](../concept/view-claim-summary.md)
+[View a claim's summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../concept/view-claim-summary.md)
 

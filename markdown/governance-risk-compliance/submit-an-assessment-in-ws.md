@@ -42,5 +42,5 @@ The state of the assessment is updated to **Pending response**. The assessor of 
 
 ## What to do next
 
-The assessor logs into the instance or selects the assessment link received in the notification, responds to the assessment, and submits the results. For more information, see [Submit the assessment](submit-an-importance-and-impact-tolerance-assessment-in-ws.md).
+The assessor logs into the instance or selects the assessment link received in the notification, responds to the assessment, and submits the results. For more information, see [Submit the assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-an-importance-and-impact-tolerance-assessment-in-ws.md).
 

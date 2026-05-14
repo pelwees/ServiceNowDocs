@@ -44,8 +44,8 @@ Set to numeric value to indicating the number of days before the procedure appoi
 -   Type: Integer
 -   Default value: 3
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [Configure when to send the procedure consent form to a patient](../task/pre-visit-config-proc-consent-time.md)
+-   Learn more: [Configure when to send the procedure consent form to a patient](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../task/pre-visit-config-proc-consent-time.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Pre-Visit Management reference](pre-visit-reference.md)
+</table>**Parent Topic:**[Pre-Visit Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-reference.md)
 

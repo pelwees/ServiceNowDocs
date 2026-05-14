@@ -33,7 +33,7 @@ The knowledge article view page provides several details about a displayed artic
 
 4.  On the work order task form, access the related articles in the **Details** screen in one of the following ways:
 
-    -   Tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon, and select **View knowledge**.
+    -   Tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon, and select **View knowledge**.
 
     -   Tap the **Related** tab and view the related knowledge articles.
 5.  Review the knowledge article.

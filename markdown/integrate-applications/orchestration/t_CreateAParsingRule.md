@@ -31,15 +31,15 @@ Roles required: activity\_admin, activity\_creator
 
 4.  Drag an output variable from the data structure builder into the **Variable name** field in the **Parsing rules** builder.
 
-    ![Mapping variables to parsing rules](../image/OutputsMappingVariable.png "Mapping variables to parsing rules")
+    ![Mapping variables to parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/OutputsMappingVariable.png "Mapping variables to parsing rules")
 
-    The parsing rules form appears for the selected variable. By default, the parsing type is set to **Direct**, which populates the variable with all the data from the selected payload, without parsing the contents. Each template has a specific default [parsing source](t_CreateAParsingRule.md#).
+    The parsing rules form appears for the selected variable. By default, the parsing type is set to **Direct**, which populates the variable with all the data from the selected payload, without parsing the contents. Each template has a specific default [parsing source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#).
 
 5.  Complete the form using the fields in the table.
 
     In this example, the parsing type selected is **XML**, which allows you to select specific parameters from the payload to parse.
 
-    ![Parsing rules form](../image/ActivityParsingRule.png)
+    ![Parsing rules form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ActivityParsingRule.png)
 
 <table id="table_yry_ptm_cr"><thead><tr><th>
 
@@ -55,7 +55,7 @@ Parsing source
 
 </td><td>
 
-Source of the data returned from the target host or endpoint. Each template opens to a specific, default payload. Available choices depend on the execution template selected for the activity. You can also use local variables as a parsing source if a parsing rule has previously been defined for them. For a list of the available payloads for each template, see [Activity designer parsing sources](t_CreateAParsingRule.md#).
+Source of the data returned from the target host or endpoint. Each template opens to a specific, default payload. Available choices depend on the execution template selected for the activity. You can also use local variables as a parsing source if a parsing rule has previously been defined for them. For a list of the available payloads for each template, see [Activity designer parsing sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#).
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ Displays the data returned from the source by the selected expression. This fiel
 9.  Click **Submit** to save the parsing rule for that variable.
 
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md)
 
 ## Activity designer parsing sources
 
@@ -257,7 +257,7 @@ To generate the sample data, the administrator must actually run the command on 
 
 2.  Click the **Inputs** tab, and note the **Command**.
 
-    ![Parsing rule PowerShell inputs command](../image/ParsingRulesPowershellCommand.png "Parsing rule PowerShell inputs command")
+    ![Parsing rule PowerShell inputs command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesPowershellCommand.png "Parsing rule PowerShell inputs command")
 
 3.  In a PowerShell console, run the **Command** on the host to extract the XML sample that contains the values you need.
 
@@ -271,36 +271,36 @@ To generate the sample data, the administrator must actually run the command on 
 
     In the following example, you would select **XML**.
 
-    ![Parsing rule raw payload data](../image/ParsingRulesSampleDataRaw.png)
+    ![Parsing rule raw payload data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesSampleDataRaw.png)
 
 7.  Click **Parse sample data**.
 
     The system displays the XML in the proper format, and it becomes clickable. In this view, the system can translate clicked data from the sample into an expression.
 
-    ![Parsing rule parsed payload data](../image/ParsingRulesSampleData.png)
+    ![Parsing rule parsed payload data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesSampleData.png)
 
 8.  To create the expression, click the elements in the data sample you want to map to the variable.
 
     Based on the sample data you clicked, the system creates two expressions.
 
-    ![Creating parsing rule expressions](../image/ParsingRulesCreateExpression.png)
+    ![Creating parsing rule expressions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesCreateExpression.png)
 
 9.  Select an expression from the list.
 
     The desired result is the IP address that has a **type** attribute of **ipv4**. The system populates the **Expression** field with this choice.
 
-    ![Selecting a parsing rule expression](../image/ParsingRulesSelectExpression.png)
+    ![Selecting a parsing rule expression](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesSelectExpression.png)
 
 10. Click **Test expression**.
 
     The system parses the payload using the selected expression and returns the requested data in the **Parsing result** field.
 
-    ![Testing a parsing rule expression](../image/ParsingRulesTestExpression.png)
+    ![Testing a parsing rule expression](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesTestExpression.png)
 
 11. Click **Submit**.
 
     The view returns to the **Outputs** tab of the activity designer. The new parsing rule is listed, and a blank row is available for another rule.
 
-    ![List of completed parsing rules](../image/ParsingRulesList.png)
+    ![List of completed parsing rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/ParsingRulesList.png)
 
 

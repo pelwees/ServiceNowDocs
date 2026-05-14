@@ -20,10 +20,10 @@ Learn about the fields of the General information form. Use this form to provide
 |Worknotes|Enter notes for your future reference.|
 |Policy type|Type of the policy. By default, this field is set to **Certification**.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Create a certification policy](../../task/eaw-task/eaw-create-policy.md)
+[Create a certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-policy.md)
 

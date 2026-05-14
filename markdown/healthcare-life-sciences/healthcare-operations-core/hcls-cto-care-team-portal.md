@@ -23,9 +23,9 @@ Pre-installed record producers for ancillary departments, depending on which add
 
 The Care Team Portal provides a responsive portal experience that can be used by clinicians in hospitals to report and track issues for support services departments. This experience can be used on a standalone portal or embedded in EMR systems.
 
-![Landing page for Care Team Portal.](../image/care-team-portal-overview.png)
+![Landing page for Care Team Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/care-team-portal-overview.png)
 
-The Care Team Portal can also be embedded within Epic, with access to all features available in the browser experience. For instructions, see [Embedding Care Team Portal in Epic Hyperspace via Hyperdrive](configure-care-team-portal.md).
+The Care Team Portal can also be embedded within Epic, with access to all features available in the browser experience. For instructions, see [Embedding Care Team Portal in Epic Hyperspace via Hyperdrive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/configure-care-team-portal.md).
 
 The following plugins provide preconfigured record producers for use with Care Team Portal:
 
@@ -34,7 +34,7 @@ The following plugins provide preconfigured record producers for use with Care T
 -   Care Team Operations for Facilities
 -   Care Team Operations for Environmental Services
 
-For information on the features available with the Care Team Portal, see [Navigate the Care Team Portal](hcls-cto-using-portal.md).
+For information on the features available with the Care Team Portal, see [Navigate the Care Team Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-using-portal.md).
 
 ## Accessing the Care Team Portal
 

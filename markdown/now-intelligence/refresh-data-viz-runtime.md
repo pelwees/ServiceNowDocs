@@ -15,9 +15,9 @@ A viewer of a data visualization can refresh that data visualization without ref
 
 You can refresh a visualization through the visualization's More actions menu.
 
-![Refresh option in the More options menu of a data visualization.](../image/refresh-viz.png)
+![Refresh option in the More options menu of a data visualization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/refresh-viz.png)
 
 **Note:** If the creator of a visualization has suppressed this option, you will not see Refresh under the More actions menu.
 
-**Parent Topic:**[View data visualizations](view-data-visualizations.md)
+**Parent Topic:**[View data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/view-data-visualizations.md)
 

@@ -171,10 +171,10 @@ The collector supports Oracle database version 19.0.0.0.
 
 The Oracle collector supports username/password authentication to Oracle.
 
--   **[Prepare to run the Oracle collector](../task/prepare-to-run-oracle-collector.md#)**  
+-   **[Prepare to run the Oracle collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-oracle-collector.md#)**  
 Set up database user permissions and configure advanced features before running the collector.
--   **[Create an Oracle metadata collector](../task/create-oracle-metadata-collector.md)**  
+-   **[Create an Oracle metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-oracle-metadata-collector.md)**  
 Create a collector to import metadata from Oracle.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

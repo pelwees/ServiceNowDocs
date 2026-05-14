@@ -23,11 +23,11 @@ Role required: user with access to the respective records
 
 1.  Navigate to an open ticket \(an incident, a change request, a request item, an HR case, or a catalog task\) in your ServiceNow instance.
 
-2.  Point to ![Field decorator](../images/field-decorator-a-ws.png) next to the **Opened for** field.
+2.  Point to ![Field decorator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/field-decorator-a-ws.png) next to the **Opened for** field.
 
     The chat is initiated with the user in **Microsoft Teams**.
 
-    ![Agnet Workspace User presence](../images/agent-workspace-start-chat-modal-user-presence.png)
+    ![Agnet Workspace User presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/agent-workspace-start-chat-modal-user-presence.png)
 
     When you start typing the names of the participants, the system displays their current status in Microsoft Teams. The status is also displayed against their name in the **Participants** field.
 
@@ -100,10 +100,10 @@ Option to choose the default chat client.
 
     The Microsoft Teams app displays the chat title and the opening message provided by the agent.
 
-    ![Chat conversation](../images/chat-conversation-ms-teams.png)
+    ![Chat conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-conversation-ms-teams.png)
 
     The system captures the work notes about the chat details.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat from Workspace](../concept/initiate-chat-agent-workspace.md)
+**Parent Topic:**[Request-based chat - Start and import chat from Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/initiate-chat-agent-workspace.md)
 

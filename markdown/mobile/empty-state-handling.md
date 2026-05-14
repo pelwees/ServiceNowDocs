@@ -23,16 +23,16 @@ The default empty state is triggered for all screens and segments without an ass
 
 <table id="table_shj_3dy_24b"><tbody><tr><td>
 
-![Default empty state.](../image/empty-state-default.png "Default empty state")
+![Default empty state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/empty-state-default.png "Default empty state")
 
 </td><td>
 
-![Configured empty state with an image, a line of text and two buttons.](../image/empty-state-real.png "Configured empty state")
+![Configured empty state with an image, a line of text and two buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/empty-state-real.png "Configured empty state")
 
 </td></tr></tbody>
 </table>## Empty state structure
 
 You can define up to one image element, two text elements, and three button elements within a single empty state display. The elements are displayed in the vertical alignment in the order image, text, and then button. The following graphic shows the element order with its corresponding element name. Unused elements are not displayed in the empty state.
 
-![Empty state with predefined system names used in configuration.](../image/empty-state-element-callout.png "Empty state with predefined system names used in configuration")
+![Empty state with predefined system names used in configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/empty-state-element-callout.png "Empty state with predefined system names used in configuration")
 

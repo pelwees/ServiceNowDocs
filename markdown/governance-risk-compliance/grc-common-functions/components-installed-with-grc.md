@@ -19,5 +19,5 @@ Reference topics provide additional information about components that are instal
 
 Demo data is available for this feature.
 
-**Parent Topic:**[Governance, Risk, and Compliance reference](../concept/grc-reference.md)
+**Parent Topic:**[Governance, Risk, and Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-reference.md)
 

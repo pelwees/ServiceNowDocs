@@ -21,11 +21,11 @@ Roles required:
 -   security\_admin
 -   codesigning\_admin
 
-    **Note:** The codesigning\_admin role can be assigned using the process detailed in [Assign the Code Signing Administrator Role](cse-assign-roles.md).
+    **Note:** The codesigning\_admin role can be assigned using the process detailed in [Assign the Code Signing Administrator Role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cse-assign-roles.md).
 
 -   sn\_kmf.cryptographic\_manager
 
-You also need the configuration file generated in the steps detailed in [Configure Code Signing Enterprise on your trusted instance](cse-turn-on-cse.md).
+You also need the configuration file generated in the steps detailed in [Configure Code Signing Enterprise on your trusted instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cse-turn-on-cse.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ You also need the configuration file generated in the steps detailed in [Configu
 7.  After resolving any conflicts, select **Commit Update Set Batch**.
 
 
-**Parent Topic:**[Configuring Code Signing](../concept/config-code-signing.md)
+**Parent Topic:**[Configuring Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/config-code-signing.md)
 

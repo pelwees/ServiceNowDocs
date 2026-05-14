@@ -19,7 +19,7 @@ Schedule the frequency for the data import to ensure that the automation data is
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
-Proceed from the **Define source** tab. For information on defining source, see [Define source for automation](define-source.md).
+Proceed from the **Define source** tab. For information on defining source, see [Define source for automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/define-source.md).
 
 ## Procedure
 
@@ -64,5 +64,5 @@ Proceed from the **Define source** tab. For information on defining source, see 
     The **Select spoke** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/configure-data-import.md)
 

@@ -51,7 +51,7 @@ Complete these steps from the [Google Cloud Platform](https://cloud.google.com/)
 
     The OAuth client window shows your client ID and client secret.
 
-8.  Copy these two values to a text file so that you can use them when you [Register Google Cloud Datastore as an OAuth provider](setup-gcloud-datastore.md#).
+8.  Copy these two values to a text file so that you can use them when you [Register Google Cloud Datastore as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gcloud-datastore.md#).
 
     The client ID and secret can always be accessed in the Google APIs &amp; Services interface. Click **Credentials** and select the OAuth 2.0 client ID name.
 
@@ -112,7 +112,7 @@ Role required: admin.
     |OAuth Entity Profile|Select the default OAuth entity profile, **Google Cloud Datastore default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcp\_cds\_spoke.GoogleCloudDatastore** is selected.|
 
-    ![Credential record for Google Cloud Datastore spoke.](../image/gcloud-datastore-cred.png)
+    ![Credential record for Google Cloud Datastore spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-datastore-cred.png)
 
 6.  Right-click the form header and click **Save**.
 

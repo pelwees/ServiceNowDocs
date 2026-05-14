@@ -94,10 +94,10 @@ No new tables are installed with Finance Case Management. However, the labels of
 |sn\_spend\_sdc\_service\_request\_line|Finance case lines|Represents individual items or components related to the finance case|
 |sn\_spend\_sdc\_service\_task|Finance task|Stores the finance tasks|
 
--   **[Application plugin installation sequence in Finance Case Management](app-plugin-install-seq-fin-ops.md)**  
+-   **[Application plugin installation sequence in Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/app-plugin-install-seq-fin-ops.md)**  
 View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in Finance Case Management.
--   **[Activate the Create Finance Inquiry for inbound email flow](../task/activate-fin-case-inquiry-flow.md)**  
+-   **[Activate the Create Finance Inquiry for inbound email flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../task/activate-fin-case-inquiry-flow.md)**  
 Activate the **Create Finance case on Inbound email inquiry** flow to create a finance inquiry case automatically based on the information in an inbound email.
 
-**Parent Topic:**[Install Finance Case Management](../task/install-fin-case-mgmt.md)
+**Parent Topic:**[Install Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../task/install-fin-case-mgmt.md)
 

@@ -37,7 +37,7 @@ Role required: admin
 
 5.  Select the type of agents that you're using and the type of setup \(Quick or Manual\).
 
-    ![Guided Setup page for specifying the type of agents for certain business areas and quick or manual setup.](../image/ci-guided-setup-custom.png)
+    ![Guided Setup page for specifying the type of agents for certain business areas and quick or manual setup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../image/ci-guided-setup-custom.png)
 
 6.  Select **Continue** and complete the subsequent setup tasks.
 

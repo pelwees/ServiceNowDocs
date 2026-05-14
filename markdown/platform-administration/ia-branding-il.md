@@ -13,7 +13,7 @@ breadcrumb: [Platform module configuration, Configure, Now Assist for Setup, Get
 
 Build the theme and experiences to reflect your brand's values.
 
-![Image showing the Branding page](../image/ia-branding.png)
+![Image showing the Branding page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-branding.png)
 
 You can see the following information on the Branding page:
 
@@ -23,5 +23,5 @@ You can see the following information on the Branding page:
 
 See [Branding and theming](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-branding-theming.md) for more information.
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Emergency Self Report, Emergency Response Management, Employee Serv
 
 To set up Emergency Self Report, install the application. Then configure user access, a dedicated knowledge base, and system properties.
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../concept/emergency-self-report.md)
 
 ## Install Emergency Self Report
 
@@ -241,7 +241,7 @@ sn\_imt\_quarantine.crisisSubmitMessage
 
 </td><td>
 
-Configure the message that is displayed to users after they submit a health status.![Sample information message.](../image/emergency-self-report-message-example.png "Example confirmation message")
+Configure the message that is displayed to users after they submit a health status.![Sample information message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../image/emergency-self-report-message-example.png "Example confirmation message")
 
 </td></tr><tr><td>
 
@@ -249,7 +249,7 @@ sn\_imt\_quarantine.openTasksInfoMessage
 
 </td><td>
 
-Configure a tooltip for managers who are viewing open tasks for their direct reports.![Message for My direct reports' open tasks.](../image/emergency-self-report-direct-report-msg.png "Example message for open tasks")
+Configure a tooltip for managers who are viewing open tasks for their direct reports.![Message for My direct reports' open tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../image/emergency-self-report-direct-report-msg.png "Example message for open tasks")
 
 </td></tr></tbody>
 </table>3.  Navigate to **Emergency Self Report** &gt; **Emergency Self Report Properties**, set the desired property values, and then click **Update**.

@@ -89,5 +89,5 @@ Total number of incorrect answers for each scored question. -   **Type**: Bar Ch
 -   **Table**: Metric Results \[asmt\_metric\_result\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Quizzes reference](../concept/quizzes-reference.md)
+</table>**Parent Topic:**[Quizzes reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/quizzes-reference.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_poem\_core.operational\_buyer
 
 4.  From the **Address exception** list, select **Assign task**.
 
-    ![Assigning a purchase order exception task](../image/pom-create-poe-task.png)
+    ![Assigning a purchase order exception task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-create-poe-task.png)
 
 5.  On the form, fill in the fields.
 
@@ -39,7 +39,7 @@ Role required: sn\_poem\_core.operational\_buyer
     |Priority|Urgency level assigned to the task.|
     |Short description|Short description of the task.|
 
-    ![Creating a new purchase order exception task and assigning to a collaborator](../image/pom-poe-create-task-modal.png)
+    ![Creating a new purchase order exception task and assigning to a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-poe-create-task-modal.png)
 
 6.  Select **Create**.
 
@@ -56,5 +56,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 The task is assigned to the assignee. You can't make any changes to the record until the assignee completes the task.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/resolving-purchase-order-exceptions.md)
 

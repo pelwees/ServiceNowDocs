@@ -27,5 +27,5 @@ The following points must be considered to enable Universal Task for the externa
     -   The **To-Do** tab of the Employee Service Center.
     -   The hrm\_todos\_page where the Universal Task is displayed.
 
-**Parent Topic:**[Using Universal Task](use-universal-task.md)
+**Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 

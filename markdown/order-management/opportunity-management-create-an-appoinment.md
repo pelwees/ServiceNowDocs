@@ -19,7 +19,7 @@ Role required: sales\_manager
 
 ## About this task
 
-You can create appointments only after creating an opportunity task. To create an opportunity task, see [Add opportunity tasks](opportunity-management-tasks-tab.md).
+You can create appointments only after creating an opportunity task. To create an opportunity task, see [Add opportunity tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md).
 
 ## Procedure
 
@@ -31,17 +31,17 @@ You can create appointments only after creating an opportunity task. To create a
 
 4.  On the Create New Appointment form, fill in the fields.
 
-    For more information, see [Create new appointment form](../reference/create-appointments-form.md).
+    For more information, see [Create new appointment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/create-appointments-form.md).
 
 5.  Select **Save**.
 
     The appointment is added to your opportunity task.
 
 
-**Parent Topic:**[Add opportunity tasks](opportunity-management-tasks-tab.md)
+**Parent Topic:**[Add opportunity tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md)
 
 **Related topics**  
 
 
-[Schedule an appointment from a touchpoint](../task/schedule-appointment-crm-touchpoint.md)
+[Schedule an appointment from a touchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/schedule-appointment-crm-touchpoint.md)
 

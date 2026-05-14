@@ -45,9 +45,9 @@ For example, you can define a choice set for colors, with red, blue, and green a
 
 ## Add choice set for screen types
 
-![Add a choice set for type of screens.](../image/dynamic-choice-set-example.png)
+![Add a choice set for type of screens.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/dynamic-choice-set-example.png)
 
 ## What to do next
 
-[Add choices to a dynamic choice set](add-choices-choice-set.md)
+[Add choices to a dynamic choice set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/add-choices-choice-set.md)
 

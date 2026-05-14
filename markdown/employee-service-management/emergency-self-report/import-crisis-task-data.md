@@ -35,7 +35,7 @@ The Bulk Import Crisis Task Data scheduled job is installed with the Emergency S
 
 4.  In the **Data Source** field, open the **Import Crisis Task Data** record.
 
-    1.  Click the attachments icon \(![Manage attachments icon.](../image/icon-manage-attachments.png)\).
+    1.  Click the attachments icon \(![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../image/icon-manage-attachments.png)\).
 
     2.  Click **Choose file** and select the source Excel file.
 
@@ -61,5 +61,5 @@ Records are imported to the Bulk Import Crisis Tasks table and copied to the Cri
 -   The user has an active case.
 -   The user is a duplicate.
 
-**Parent Topic:**[Emergency Self Report](../concept/emergency-self-report.md)
+**Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/../concept/emergency-self-report.md)
 

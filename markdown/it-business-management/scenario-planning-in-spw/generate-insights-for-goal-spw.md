@@ -29,7 +29,7 @@ The skill analyzes the real-time data — including check-in patterns, comments,
 
 **Note:** Only the owner or contributors of the goal can generate insights for the goal.
 
-![Generate goal insights in Strategic Planning Workspace using Goal insights skill.](../images/generate-goal-insights-goal-spw.gif)
+![Generate goal insights in Strategic Planning Workspace using Goal insights skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/generate-goal-insights-goal-spw.gif)
 
 ## Procedure
 

@@ -62,7 +62,7 @@ MCP Server URL
 The web address of your MCP Server.
 
 </td></tr></tbody>
-</table>    ![Adding an MCP Server in AI Agent Studio with OAuth 2.1.](../image/mcp-server-oauth.png)
+</table>    ![Adding an MCP Server in AI Agent Studio with OAuth 2.1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-oauth.png)
 
 4.  Select **Next**.
 
@@ -147,7 +147,7 @@ Token Revocation URL
 Web address to revoke the previously provided token.
 
 </td></tr></tbody>
-</table>    ![Dynamic client registration form with auto-populated data in the form fields.](../image/aouth-dynamic-client-registration.png)
+</table>    ![Dynamic client registration form with auto-populated data in the form fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aouth-dynamic-client-registration.png)
 
     The MCP Server with dynamic client registration is added as a simple connection and credential alias.
 
@@ -246,7 +246,7 @@ Token Revocation URL
 Web address to revoke the previously provided token.
 
 </td></tr></tbody>
-</table>    ![Manual client registration for an OAuth MCP Server.](../image/mcp-server-manual-registration.png)
+</table>    ![Manual client registration for an OAuth MCP Server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/mcp-server-manual-registration.png)
 
 7.  Select **Add**.
 

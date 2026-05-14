@@ -43,5 +43,5 @@ Role required: sn\_grc\_metric.admin
 
 The metric calendars with the frequencies annually, semi-annually, and quarterly are generated.
 
-**Parent Topic:**[Create fiscal calendars](enable-custom-fiscal-year.md)
+**Parent Topic:**[Create fiscal calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/enable-custom-fiscal-year.md)
 

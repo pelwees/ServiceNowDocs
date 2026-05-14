@@ -34,7 +34,7 @@ The Coach Dashboard lets you manage the details and effect your coaching has on 
 -   View the list of KPIs affected by your coaching.
 -   Verify the types of coaching opportunities that are being assigned to you \(last 6 months\).
 
-![CoachingDashboard](../../coaching/image/coaching-dashboard.png "Coach Dashboard")
+![CoachingDashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../coaching/image/coaching-dashboard.png "Coach Dashboard")
 
 <table id="table_jjb_gmd_gfb"><thead><tr><th>
 
@@ -106,8 +106,8 @@ My Coaching Opportunities - Last 6 months
 Coaching opportunities assigned to you in the past 6 months.
 
 </td></tr></tbody>
-</table>-   **[Assess a trainee](../task/cf-assess-trainee.md)**  
+</table>-   **[Assess a trainee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../task/cf-assess-trainee.md)**  
 Use a coaching assessment to review the work of a trainee and to provide training and feedback.
 
-**Parent Topic:**[Training agents using Coaching with Learning](cf-train-your-agents.md)
+**Parent Topic:**[Training agents using Coaching with Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-train-your-agents.md)
 

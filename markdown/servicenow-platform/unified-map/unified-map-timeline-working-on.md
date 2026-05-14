@@ -23,7 +23,7 @@ The timeline indicates related items like incidents, problems, and changes over 
 
 -   The map and the timeline are synchronized. The map shows the selected CI and its connections as they existed \(based on the creation date of nodes\) at the specified map time. The timeline displays markers \(B in the image\) to indicate related items that happened at or before map time.
 
-    ![The timeline indicates all related items for the CI within a time span that happened before the specified map time.](../image/um-timeline.png)
+    ![The timeline indicates all related items for the CI within a time span that happened before the specified map time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-timeline.png)
 
 -   You can also specify the overall time span \(C in the image\) of the timeline view.
 
@@ -123,5 +123,5 @@ Select an empty space on the map.
 </td></tr></tbody>
 </table>## Configuring general timeline properties
 
-Admins can configure some properties of the timeline that affect all users, such as which related item details appear on timelines. For more information, see [Configure how to display related items on the map](../task/unified-map-config-related-items.md).
+Admins can configure some properties of the timeline that affect all users, such as which related item details appear on timelines. For more information, see [Configure how to display related items on the map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/unified-map-config-related-items.md).
 

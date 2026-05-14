@@ -57,5 +57,5 @@ Right-click a record and select **Add to Visual Task Board**.
     The task appears in the first lane by default.
 
 
-**Parent Topic:**[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+**Parent Topic:**[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_FreeformBoardTasks.md)
 

@@ -33,7 +33,7 @@ Role required: admin
 
 5.  Copy the sys\_id, which is the value of the `aggregate_domain` element.
 
-    ![The XML of the transferred domain configuration, with the sys_id highlighted.](../image/aggregate-domain-sysid.png)
+    ![The XML of the transferred domain configuration, with the sys_id highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/aggregate-domain-sysid.png)
 
 6.  Navigate to **Domain Admin** &gt; **Domains**.
 
@@ -52,5 +52,5 @@ Role required: admin
 
 You can execute data collection jobs for the transferred domain.
 
-**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](../concept/pa-domain-separation-msp.md)
+**Parent Topic:**[Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/pa-domain-separation-msp.md)
 

@@ -13,7 +13,7 @@ breadcrumb: [Set the application scope, application resource, and event access, 
 
 Allow or deny access of all application resources in a source scope to all application resources in a target scope. This setting combination is a many-to-many relationship.
 
-![Restricted caller access scope to scope setting](../image/scope-to-scope.png)
+![Restricted caller access scope to scope setting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/scope-to-scope.png)
 
 Enter the following field settings for Scope-to-Scope restricted caller access.
 
@@ -25,5 +25,5 @@ Enter the following field settings for Scope-to-Scope restricted caller access.
 |Target Scope|Scope of the requested resource that contains the target application resources that the source application resource requests access to.|
 |Target Type|Type of requested resource. Select **Scope** to include all application resources in the target scope.|
 
-**Parent Topic:**[Set the application scope, application resource, and event access](../task/scope-resource-access.md)
+**Parent Topic:**[Set the application scope, application resource, and event access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/scope-resource-access.md)
 

@@ -58,15 +58,15 @@ From the Free-form Roadmaps tab, select a roadmap.
     -   When the dates of a project are changed along the roadmap, the changes are updated in the project record in the Project \[pm\_project\] table.
 3.  To reschedule the roadmap item, drag and drop the item to a timeline area of your choice.
 
-    ![Update planned dates of a roadmap item.](../images/update-roadmap-item.gif)
+    ![Update planned dates of a roadmap item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/update-roadmap-item.gif)
 
 
-**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](../concept/roadmaps-in-alignment-planner-workspace.md)
+**Parent Topic:**[Planning roadmaps in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/roadmaps-in-alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Add milestones for a roadmap](create-milestones-on-roadmap.md)
+[Add milestones for a roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-milestones-on-roadmap.md)
 
-[Add milestones for roadmap items](create-planning-item-milestones.md)
+[Add milestones for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-item-milestones.md)
 

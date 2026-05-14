@@ -295,10 +295,10 @@ Snowflake Streamlit App
 -   Owner
 
 </td></tr></tbody>
-</table>-   **[Prepare to run the Snowflake collector](../task/prepare-to-run-the-snowflake-collector.md)**  
+</table>-   **[Prepare to run the Snowflake collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-the-snowflake-collector.md)**  
 Set up authentication and grant role permissions to enable Snowflake metadata collection.
--   **[Create a Snowflake metadata collector](../task/create-snowflake-metadata-collector.md)**  
+-   **[Create a Snowflake metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-snowflake-metadata-collector.md)**  
 Create a collector to import metadata from Snowflake.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

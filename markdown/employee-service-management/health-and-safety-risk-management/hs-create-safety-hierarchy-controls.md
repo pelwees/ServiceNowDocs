@@ -54,7 +54,7 @@ Role required: sn\_hs\_rm.hierarchy\_of\_controls\_manager or sn\_hs\_rm.hierarc
 
 ## What to do next
 
-Associate related control measures with the category. For more information, see [Safety control measures](hs-define-controls.md).
+Associate related control measures with the category. For more information, see [Safety control measures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-define-controls.md).
 
-**Parent Topic:**[Setting up Health and Safety Risk Management](../concept/hs-setting-up-risk-mgmt.md)
+**Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-setting-up-risk-mgmt.md)
 

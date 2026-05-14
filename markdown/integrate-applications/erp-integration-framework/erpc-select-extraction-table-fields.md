@@ -18,7 +18,7 @@ Add or remove fields for an extraction table in Zero Copy Connector for ERP\(Ent
 
 ## Before you begin
 
-If you don't see the fields that you want to add to the extraction table, you must first add them to the model. For more information, see [Choose output parameters for a model](erp-canvas-manage-outputs.md).
+If you don't see the fields that you want to add to the extraction table, you must first add them to the model. For more information, see [Choose output parameters for a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-manage-outputs.md).
 
 Role required: sn\_erp\_integration.erp\_admin
 
@@ -43,5 +43,5 @@ Role required: sn\_erp\_integration.erp\_admin
 5.  Confirm that the fields appear correctly as columns on the extraction table by selecting the **Extraction table fields** tab.
 
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-extraction-tables.md)
 

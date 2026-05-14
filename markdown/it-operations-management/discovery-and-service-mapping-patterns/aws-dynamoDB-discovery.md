@@ -256,7 +256,7 @@ The choices are:-   Enabled
 </td></tr></tbody>
 </table>The graphic illustrates CIs that are part of DynamoDB discovery.
 
-![DynamoDB components](../image/DynamoDB-components.png "Dependency Views showing DynamoDB components")
+![DynamoDB components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/DynamoDB-components.png "Dependency Views showing DynamoDB components")
 
 ## CI relationships
 
@@ -313,10 +313,10 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+</table>**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 
 **Related topics**  
 
 
-[Define a Cloud REST Query for cloud computing devices](../task/cloud-rest-query-pattern.md)
+[Define a Cloud REST Query for cloud computing devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/cloud-rest-query-pattern.md)
 

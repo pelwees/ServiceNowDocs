@@ -39,10 +39,10 @@ Apart from Service Catalog, the following are the trigger types supported by ATF
 
 **Note:** For Service Catalog, only one flow is tied to a catalog item. But for the other trigger types, you can have multiple flows tied to a trigger type.
 
-**Parent Topic:**[Operating ATF Test Generator and Cloud Runner](atf-tg-cr-operate.md)
+**Parent Topic:**[Operating ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-operate.md)
 
 **Related topics**  
 
 
-[Generating the tests](../task/atf-tg-cr-generate-tests.md)
+[Generating the tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../task/atf-tg-cr-generate-tests.md)
 

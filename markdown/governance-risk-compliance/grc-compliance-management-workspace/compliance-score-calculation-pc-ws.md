@@ -24,7 +24,7 @@ Calculating the compliance score of an entity is based on the controls that are 
 Average of all direct controls of an entity
 ```
 
-![Compliance score calculation based on the direct controls.](../image/compliance-score-rollup-current.png)
+![Compliance score calculation based on the direct controls.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/compliance-score-rollup-current.png)
 
 ## Compliance score calculation rollup - existing logic
 
@@ -40,7 +40,7 @@ Compliance score of an entity can also be calculated based on its downstream ent
 Average [Average (downstream entities) + Average (direct controls)]
 ```
 
-![Compliance score calculation based on downstream entities and direct controls.](../image/compliance-score-rollup-new-logic.png)
+![Compliance score calculation based on downstream entities and direct controls.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/compliance-score-rollup-new-logic.png)
 
 ## Compliance score calculation rollup - new logic
 

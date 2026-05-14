@@ -21,7 +21,7 @@ The real and requested RCAs required for accessing document templates from a Hea
 
 When you install a Healthcare and Life Sciences Service Management application, the status of Real RCAs of the Document Templates application are set to **Requested**. For more information, see [Requested restricted caller access \(RCA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/requested-rca.md).
 
-To be able to use document templates in a Healthcare and Life Sciences Service Management application, as an administrator, you must set the status of Real RCAs of the Document Templates application to **Allowed**. For more information, see [Allow a restricted caller access privilege for document templates in Healthcare and Life Sciences Service Management Core](hcls-approving-rca.md#).
+To be able to use document templates in a Healthcare and Life Sciences Service Management application, as an administrator, you must set the status of Real RCAs of the Document Templates application to **Allowed**. For more information, see [Allow a restricted caller access privilege for document templates in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-approving-rca.md#).
 
 ## Allow a restricted caller access privilege for document templates in Healthcare and Life Sciences Service Management Core
 

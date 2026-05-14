@@ -28,7 +28,7 @@ Role required:
 
 2.  In Action 2, check whether the attempted access to the deactivated accounts were made by an active employee.
 
-    ![Response task to check whether the attempted access to the deactivated accounts were made by an active employee.](../image/playbook-attempted-access-deactivated-overview.png "Attempted Access to Deactivated Accounts playbook")
+    ![Response task to check whether the attempted access to the deactivated accounts were made by an active employee.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-attempted-access-deactivated-overview.png "Attempted Access to Deactivated Accounts playbook")
 
 3.  If the attempted access to the deactivated accounts were made by an active employee, perform the following steps:
 
@@ -62,7 +62,7 @@ Role required:
         3.  In Action 17, initiate a post incident review.
         In Action 18, after the post incident review, the flow ends.
 
-        ![Response tasks if the attempted access to the deactivated accounts were not made by an active employee](../image/playbook-attempted-access-deactivated-investigate.png "Using the Attempted Access to Deactivated Accounts playbook")
+        ![Response tasks if the attempted access to the deactivated accounts were not made by an active employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-attempted-access-deactivated-investigate.png "Using the Attempted Access to Deactivated Accounts playbook")
 
 5.  In Action 19, if the user exfiltrated any data, perform the following steps:
 
@@ -79,5 +79,5 @@ Role required:
     5.  In Action 24, complete the post-incident review before closing the task.
 
 
-**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](../concept/playbook-attempted-access-deactivated-accounts.md)
+**Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-attempted-access-deactivated-accounts.md)
 

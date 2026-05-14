@@ -27,9 +27,9 @@ Depending on the HR service you are using to request the e-signature, you may ne
 
 2.  On the HR case form, in the **PDF Template** field, select an HR document template.
 
-    **Note:** If the **PDF Template** field is not visible, make sure that the HR case form for the HR service you are using is configured to show that field. See [Configure the HR case form for an HR service](configure-case-form-for-hr-service.md#) for more information, and also [HR case form configuration examples](configure-case-form-for-hr-service.md#) for an e-signature-specific example.
+    **Note:** If the **PDF Template** field is not visible, make sure that the HR case form for the HR service you are using is configured to show that field. See [Configure the HR case form for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-form-for-hr-service.md#) for more information, and also [HR case form configuration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-case-form-for-hr-service.md#) for an e-signature-specific example.
 
-    ![On the HR case form, in the PDF Template field, select an HR document template.](../image/select-hr-doc-template-for-e-signature-case.png)
+    ![On the HR case form, in the PDF Template field, select an HR document template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/select-hr-doc-template-for-e-signature-case.png)
 
 3.  Assign the case to a user.
 

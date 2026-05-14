@@ -20,5 +20,5 @@ When amending a pre-existing subscription contract, you may want to capture data
 **Related topics**  
 
 
-[CPQ integration with Salesforce B2B Commerce](logik_io_integration_with_salesforce_b2b_commerce.md)
+[CPQ integration with Salesforce B2B Commerce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/logik_io_integration_with_salesforce_b2b_commerce.md)
 

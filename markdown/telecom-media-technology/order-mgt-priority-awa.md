@@ -17,7 +17,7 @@ Use AWA to automatically assign work items \(order tasks\) to your agents based 
 
 **Note:** All fulfillment agents must have the AWA agent \(awa\_agent\) role.
 
-![Infographic displaying the routing orders process using AWA. For the image description, refer to the text that follows.](../../tmt-order-mgt/image/order-mgt-awa.png)
+![Infographic displaying the routing orders process using AWA. For the image description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../../tmt-order-mgt/image/order-mgt-awa.png)
 
 The following configurations are required for AWA:
 

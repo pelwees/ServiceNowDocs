@@ -78,11 +78,11 @@ To allow the connector to access your source system via the API, you must genera
 Provide the following items to your connector admin:
 
 -   The URL for your Fluid Topics tenant.
--   The API key that you copied in step [3](configure-fluid-topics-external-content-indexing.md#copy-api-key-step).
+-   The API key that you copied in step [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-fluid-topics-external-content-indexing.md#copy-api-key-step).
 
 Your connector admin needs these items to configure a Fluid Topics external content connector to retrieve content and security principals from your Fluid Topics source system.
 
-For details on creating and configuring a Fluid Topics external content connector, see [Create a Fluid Topics external content connector](create-ext-cont-connector-fluid-topics.md).
+For details on creating and configuring a Fluid Topics external content connector, see [Create a Fluid Topics external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-fluid-topics.md).
 
-**Parent Topic:**[Fluid Topics external content connector](../concept/fluid-topics-external-content-connector.md)
+**Parent Topic:**[Fluid Topics external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/fluid-topics-external-content-connector.md)
 

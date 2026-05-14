@@ -121,14 +121,14 @@ Attachments
 File attachments for the fallout record. Select **Browse** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](../reference/order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[Managing order fallout](fallout-management-overview.md)
+[Managing order fallout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
-[Creating automated fallout records](creating-automated-manual-fallout-records.md)
+[Creating automated fallout records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating-automated-manual-fallout-records.md)
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 

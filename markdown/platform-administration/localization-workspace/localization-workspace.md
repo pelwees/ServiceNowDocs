@@ -19,19 +19,19 @@ Localization Workspace is a targeted translation management experience for conte
 
 <table id="table_dhl_fxf_r2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Localization Workspace](exploring-localization-workspace.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Localization Workspace](exploring-localization-workspace.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Localization Workspace](configuring-localization-workspace.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Localization Workspace](configuring-localization-workspace.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-global.svg) Learn how to use Localization Workspace to request translations.](requesting-translations-localization-workspace.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../../reuse/icons/brand-icons/bus-global.svg) Learn how to use Localization Workspace to request translations.](requesting-translations-localization-workspace.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Localization Workspace such as Domain Separation support and what types of content can be localized.](localization-workspace-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Localization Workspace such as Domain Separation support and what types of content can be localized.](localization-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

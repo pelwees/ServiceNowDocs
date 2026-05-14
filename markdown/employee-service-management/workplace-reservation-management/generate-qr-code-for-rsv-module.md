@@ -110,9 +110,9 @@ Filter conditions based on which the QR code must be generated.-   To add a cond
 
 The QR codes are generated. The QR codes are printed in a single PDF file with the specified file name. You will receive an email notification after the QR code generation is completed with the QR code details.
 
-After the QR code generation is completed, go to **Manage QR codes** to view the generated file. For more information, refer to [Manage QR codes](../../workplace-service-delivery/task/manage-qr-codes.md).
+After the QR code generation is completed, go to **Manage QR codes** to view the generated file. For more information, refer to [Manage QR codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-service-delivery/task/manage-qr-codes.md).
 
 Click **download** to download the PDF file.
 
-**Parent Topic:**[Configure a reservable module](config-reservable-module.md)
+**Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 

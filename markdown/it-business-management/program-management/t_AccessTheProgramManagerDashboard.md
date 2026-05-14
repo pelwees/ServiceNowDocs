@@ -26,5 +26,5 @@ Role required: it\_program\_manager
     The PMO Dashboard is displayed.
 
 
-**Parent Topic:**[Program Dashboard](../concept/c_ProgramManagerDashboard.md)
+**Parent Topic:**[Program Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/program-management/../concept/c_ProgramManagerDashboard.md)
 

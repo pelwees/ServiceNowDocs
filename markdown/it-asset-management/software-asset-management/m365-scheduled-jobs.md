@@ -22,10 +22,10 @@ Your Microsoft 365 integration profile is set to fetch subscription and usage in
 |3|SAM - Create New Reclamation Candidates for Office 365 Integration|Weekly|Generates removal candidates for Microsoft 365 and Office 365.|
 |4|SAM - Microsoft 365 Daily Job|Daily|Populates charts based on the data available in the subscription table and reclamation candidate table.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Integrating with Microsoft 365](../concept/integrate-with-microsoft.md)
+[Integrating with Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-microsoft.md)
 

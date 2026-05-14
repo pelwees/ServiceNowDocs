@@ -87,10 +87,10 @@ Description to help you distinguish this profile from other profiles.
 </table>4.  Click **Continue** and move to the Filtering section.
 
 
--   **[Define Filters to apply for the Incident creation](define-filters-incident-creation-netskope.md)**  
+-   **[Define Filters to apply for the Incident creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/define-filters-incident-creation-netskope.md)**  
 Define and set filter conditions to filter the incoming  Netskope DLP  incidents. Control which of these incidents should be created as DLP incidents on your ServiceNow instance.
--   **[Schedule the Netskope DLP incidents retrieval](schedule-netskope-dlp-alerts-retrieval.md)**  
+-   **[Schedule the Netskope DLP incidents retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/schedule-netskope-dlp-alerts-retrieval.md)**  
 Set a schedule to retrieve Netskope DLP incidents that match the criteria in the profile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-response-integration-netskope.md)
 

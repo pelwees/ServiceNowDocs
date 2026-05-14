@@ -28,7 +28,7 @@ The compliance analysts oversee specific areas of compliance including specific 
 
 The compliance analyst home page is designed to fulfil the above tasks of an analyst. Although the Home page is similar to the compliance manager home page, yet there are features that are unique to help the analysts perform their tasks.
 
-![Compliance analyst home page.](../image/ComplianceAnalystWSHomePage.png "Compliance analyst home page")
+![Compliance analyst home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/ComplianceAnalystWSHomePage.png "Compliance analyst home page")
 
 The compliance analyst Home page provides a personalized experience for a corporate compliance analyst to manage their work.
 

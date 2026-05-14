@@ -27,7 +27,7 @@ This procedure provides general steps to set up the Conversational Appointment B
 
 1.  Install the Conversational Appointment Booking application.
 
-    For more information, see [Install Conversational Appointment Booking](conv_appt_booking_install.md).
+    For more information, see [Install Conversational Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv_appt_booking_install.md).
 
 2.  Navigate to **Virtual Agent** &gt; **Designer**.
 
@@ -42,7 +42,7 @@ This procedure provides general steps to set up the Conversational Appointment B
 
     [duplicate the topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/duplicate-virtual-agent-topic.md).
 
-    **Note:** Translation for custom controls is currently unavailable. You can manually add the translation in the ServiceNow® Walk-up Experience appointment booking application. See [Walk-up Experience appointment booking configuration](../concept/csm-walkup-appt-booking-config.md) for more information.
+    **Note:** Translation for custom controls is currently unavailable. You can manually add the translation in the ServiceNow® Walk-up Experience appointment booking application. See [Walk-up Experience appointment booking configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../concept/csm-walkup-appt-booking-config.md) for more information.
 
 4.  Confirm that the **Appointment Booking** custom control is published.
 

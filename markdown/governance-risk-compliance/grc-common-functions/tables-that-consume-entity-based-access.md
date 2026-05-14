@@ -152,5 +152,5 @@ GRC Advanced Core
 sn\_grc\_advanced\_triage \(primary table\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Entity Based Access reference](entity-based-access-reference.md)
+</table>**Parent Topic:**[Entity Based Access reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access-reference.md)
 

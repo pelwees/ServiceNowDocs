@@ -27,22 +27,22 @@ Risk Workspace and Matrix report plugin should be installed to use the feature.
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the Entity risk profile matrix ![Matrix report icon.](../image/entity-risk-profile-matrix-icon-risk-ws.png) icon.
+2.  Select the Entity risk profile matrix ![Matrix report icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-risk-profile-matrix-icon-risk-ws.png) icon.
 
     For the landing page display type matrix configuration, you can view the Matrix report in the Risk Workspace.
 
-3.  Select the View related information ![View related information.](../../grc-workspace-audit/image/view-related-info-icon.png) icon next to the entity name to view the matrix report.
+3.  Select the View related information ![View related information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-audit/image/view-related-info-icon.png) icon next to the entity name to view the matrix report.
 
-    ![Matrix report on the landing page.](../image/entity-related-matrix-report-risk-ws.png)
+    ![Matrix report on the landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-related-matrix-report-risk-ws.png)
 
-4.  To view the matrix report on the entity record page, select the list ![List icon.](../../assessment-engine/image/list-icon.png).
+4.  To view the matrix report on the entity record page, select the list ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../assessment-engine/image/list-icon.png).
 
 5.  Open the entity record for which you want to view the matrix report and select the **Matrix report** related list.
 
-6.  Select the View related information ![View related information.](../../grc-workspace-audit/image/view-related-info-icon.png) icon next to the entity name to view the matrix report.
+6.  Select the View related information ![View related information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-audit/image/view-related-info-icon.png) icon next to the entity name to view the matrix report.
 
-    ![Matrix report on the record page.](../image/entity-related-matrix-report-record-risk-ws.png)
+    ![Matrix report on the record page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-related-matrix-report-record-risk-ws.png)
 
 
-**Parent Topic:**[Matrix report in Risk Workspace](../concept/matrix-report-in-risk-workspace.md)
+**Parent Topic:**[Matrix report in Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/matrix-report-in-risk-workspace.md)
 

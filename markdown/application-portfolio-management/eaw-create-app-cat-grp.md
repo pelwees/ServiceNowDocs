@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Category Groups**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Category Groups**.
 
 4.  Select **All**.
 
@@ -33,15 +33,15 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing application category group, select the application category group.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new application category group form](../../reference/eaw-reference/eaw-crate-new-application-category-group-form.md).
+    For field information, see [Create new application category group form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-crate-new-application-category-group-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure application category groups](../../concept/eaw-concept/eaw-setup-app-cat-groups.md)
+**Parent Topic:**[Configure application category groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-app-cat-groups.md)
 
 **Related topics**  
 
 
-[View all application category groups](eaw-view-all-application-category-groups.md)
+[View all application category groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-application-category-groups.md)
 

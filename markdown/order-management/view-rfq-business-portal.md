@@ -31,7 +31,7 @@ Role required: sn\_customerservice.customer
 
 6.  Check the status of your quote request in the **State** field in the RFQ header section.
 
-    For more information, see [Request for quote \(RFQ\) states](../reference/rfq-states.md).
+    For more information, see [Request for quote \(RFQ\) states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/rfq-states.md).
 
 7.  If the agent has converted the RFQ to a quote, a **View quote** button is available for you to view the quote details.
 
@@ -39,5 +39,5 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[View quotes from the Business Portal](view-quotes-business-portal.md)
+[View quotes from the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-quotes-business-portal.md)
 

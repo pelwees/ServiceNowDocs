@@ -205,7 +205,7 @@ Daily Health Verification Outreach
 
 5.  In the **Who will receive** tab, select the audience to whom the notification will be sent.
 
-    You can also select the target audience while configuring or sending the associated outreach notification. For more information, see [Send notifications for an emergency](send-eo-notification-outreach.md).
+    You can also select the target audience while configuring or sending the associated outreach notification. For more information, see [Send notifications for an emergency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-eo-notification-outreach.md).
 
 6.  In the **What it will contain** tab, enter the subject and text of the email message.
 

@@ -55,14 +55,14 @@ Up to five of the most popular knowledge articles.The Now Mobile app homepage in
 </table>    **Note:** Tap **See All** to view the complete list of articles within the selected section.
 
 
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/mobile-experience-for-km.md)
 
 **Related topics**  
 
 
-[Browse articles in the Now Mobile Information applet](browse-articles-now-mobile.md)
+[Browse articles in the Now Mobile Information applet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/browse-articles-now-mobile.md)
 
-[Search for an article in the Now Mobile Information applet](search-article-now-mobile.md)
+[Search for an article in the Now Mobile Information applet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/search-article-now-mobile.md)
 
-[Control access at the knowledge article level through user criteria](t_SelectUCArticle.md)
+[Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 

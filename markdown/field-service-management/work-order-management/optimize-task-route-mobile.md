@@ -42,7 +42,7 @@ Role required: wm\_agent or wm\_dispatcher
 
     |To|Do this|
     |---|-------|
-    |**Optimize the route for executing more than one task in a day**|Tap the More actions \(![More actionsicon](../image/OverflowIcon.png)\) icon and select **Optimize Today's Route**.|
+    |**Optimize the route for executing more than one task in a day**|Tap the More actions \(![More actionsicon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and select **Optimize Today's Route**.|
     |**Navigate to a task location**|Tap the directions icon and select the desired application to get directions to the task location.|
     |**View task details**|Select the task.|
     |**Toggle between map and list view**|Use the **Map** or **List** icons to toggle between map and list view.|

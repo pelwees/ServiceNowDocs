@@ -19,7 +19,7 @@ To view the Universal Request Overview dashboard, navigate to **Universal Reques
 
 ## Overview of universal requests
 
-![Universal Request overview dashboard for reporting](../images/ur-overview-dashboard.png)
+![Universal Request overview dashboard for reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-overview-dashboard.png)
 
 Select any indicator widget to view it's details in a list view.
 
@@ -54,5 +54,5 @@ The following roles can view the Universal Request overview dashboard:
 |Department Tickets per Universal Request|Bar|Task \[task\]|This report shows all the universal requests that were created in the last 3 months along with the associated department tickets. You can view the type of department ticket created by hovering over the bars. Also, you can view the list of all the department ticket clicking on the bars.|
 |Opened &amp; Closed Weekly|Spline|Universal Request \[universal\_request\]|This report shows the universal request that were opened and closed over the last 3 months, aggregated weekly.|
 
-**Parent Topic:**[Reporting solutions for Universal Request](reporting-soln-for-ur.md)
+**Parent Topic:**[Reporting solutions for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/reporting-soln-for-ur.md)
 

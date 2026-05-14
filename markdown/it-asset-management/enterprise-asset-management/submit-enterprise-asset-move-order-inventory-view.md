@@ -44,7 +44,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## What to do next
 
-Add enterprise assets to the move order. See [Add enterprise assets to a move order](add-enterprise-assets-move-order.md) for detailed instructions.
+Add enterprise assets to the move order. See [Add enterprise assets to a move order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-enterprise-assets-move-order.md) for detailed instructions.
 
-**Parent Topic:**[Submitting an enterprise asset move order](../concept/submitting-enterprise-asset-move-order.md)
+**Parent Topic:**[Submitting an enterprise asset move order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/submitting-enterprise-asset-move-order.md)
 

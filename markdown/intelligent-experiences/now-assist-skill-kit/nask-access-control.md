@@ -74,7 +74,7 @@ Select the roles that a user must have to execute the skill. **Note:** If you se
 
 3.  Add an ACL to a new skill.
 
-    1.  [Create a skill](create-new-skill.md).
+    1.  [Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md).
 
     2.  In the **Configure security controls** section, select an option for the access control list.
 
@@ -83,12 +83,12 @@ Select the roles that a user must have to execute the skill. **Note:** If you se
     4.  Continue creating the skill.
 
 
-**Parent Topic:**[Configuring Now Assist Skill Kit](../concept/configuring-now-assist-skill-kit.md)
+**Parent Topic:**[Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/configuring-now-assist-skill-kit.md)
 
 **Related topics**  
 
 
-[Configure a skill prompt](configure-skill-prompt.md)
+[Configure a skill prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-prompt.md)
 
-[Configure skill deployment settings](configure-skill-settings.md)
+[Configure skill deployment settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configure-skill-settings.md)
 

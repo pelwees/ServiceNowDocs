@@ -187,7 +187,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing system properties. [The advanced condition](../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to perform certain actions, like sending a notification based on the current email record, changing field values, or changing system properties. [The advanced condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
 The advanced condition script uses the following global variables:
 
@@ -202,15 +202,15 @@ The advanced condition script uses the following global variables:
 
 6.  Update the form using any of the available related lists.
 
-    See [Create and add additional recipients](noti-add-additional-recipients.md) and [Create and add assignment groups](create-add-assignment-group.md) for more information.
+    See [Create and add additional recipients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-add-additional-recipients.md) and [Create and add assignment groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-add-assignment-group.md) for more information.
 
     **Note:** All the validation messages given by different providers are retained. Warning messages of one provider isn’t overridden by warning messages of another provider.
 
 
--   **[Create and add additional recipients](noti-add-additional-recipients.md)**  
+-   **[Create and add additional recipients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-add-additional-recipients.md)**  
 Update the notifications form by adding additional recipients from the Additional Recipients related list to send notifications to.
--   **[Create and add assignment groups](create-add-assignment-group.md)**  
+-   **[Create and add assignment groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-add-assignment-group.md)**  
 Create and add assignment groups where you want users that are part of a group to be the recipients of the provider notification.
 
-**Parent Topic:**[Create provider notification](../concept/create-provider-notification-using.md)
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/create-provider-notification-using.md)
 

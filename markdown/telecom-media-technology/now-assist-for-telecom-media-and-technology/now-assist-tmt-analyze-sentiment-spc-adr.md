@@ -29,7 +29,7 @@ Role required: sn\_telco\_adr\_mgmt.manager
 
 4.  On the Lookup record history activity, under the Relevant record section, navigate to the complaint cases.
 
-5.  Select the information icon \(![More info icon.](../image/icon-more-info.png)\).
+5.  Select the information icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/icon-more-info.png)\).
 
     The Customer sentiment component appears and provides an explanation for why that sentiment was given.
 
@@ -53,15 +53,15 @@ Procedure
 
 </td><td>
 
--   If you think that the sentiment information was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\).
--   If you think that the sentiment information wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).
+-   If you think that the sentiment information was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/icon-helpful.png)\).
+-   If you think that the sentiment information wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/icon-not-helpful.png)\).
  This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated sentiment information and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-Complete the remaining steps to execute the ADR case record. To learn more, see [Create an Alternative Dispute Resolution case](create-adr-case-record.md).
+Complete the remaining steps to execute the ADR case record. To learn more, see [Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/create-adr-case-record.md).
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-spm-using.md)
 

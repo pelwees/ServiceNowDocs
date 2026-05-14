@@ -19,13 +19,13 @@ Understand how to set up Enterprise Service Management Integrations Framework to
 
 Role required: sn\_hr\_integr\_fw.admin
 
-To set up Enterprise Service Management Integrations Framework, you must first activate the Enterprise Service Management Integrations Framework application from ServiceNow Store. Next, you must [Configure Enterprise Service Management Integrations Framework](set-up-hr-integ.md).
+To set up Enterprise Service Management Integrations Framework, you must first activate the Enterprise Service Management Integrations Framework application from ServiceNow Store. Next, you must [Configure Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-hr-integ.md).
 
 ## Procedure
 
 1.  Create a source record by specifying the third-party application with which you want to integrate your ServiceNow application.
 
-    For more information, refer to [Create a source in Enterprise Service Management Integrations Framework](create-source-hrint.md).
+    For more information, refer to [Create a source in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-source-hrint.md).
 
 2.  Create an import set table.
 
@@ -37,11 +37,11 @@ To set up Enterprise Service Management Integrations Framework, you must first a
 
 4.  Create an integration service to connect with the third-party system.
 
-    For more information, refer to [Create an integration service in Enterprise Service Management Integrations Framework](create-hr-service-hrint.md).
+    For more information, refer to [Create an integration service in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-hr-service-hrint.md).
 
 5.  Create transformation maps.
 
-    For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](transform-maps-HR.md).
+    For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-HR.md).
 
     **Note:**
 

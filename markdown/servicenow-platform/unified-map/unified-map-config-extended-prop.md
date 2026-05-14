@@ -23,9 +23,9 @@ Role required: sn\_cmdb\_admin
 
 ## About this task
 
-In the base system, extended attributes are preconfigured for many common classes. You can modify the default settings and configure settings for additional classes. This example shows where base attributes \(A\) and extended attributes \(B\) appear in the Attributes panel. For more information on the Attributes panel, see [View the attributes of a CI or a relationship](unified-map-show-attributes.md)
+In the base system, extended attributes are preconfigured for many common classes. You can modify the default settings and configure settings for additional classes. This example shows where base attributes \(A\) and extended attributes \(B\) appear in the Attributes panel. For more information on the Attributes panel, see [View the attributes of a CI or a relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-show-attributes.md)
 
-![Attributes of the selected CI.](../image/um-attributes-panel-annotated.png)
+![Attributes of the selected CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-attributes-panel-annotated.png)
 
 These workspace-specific configuration settings affect all users of the CMDB Unified Map page. The settings do not affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
 
@@ -109,13 +109,13 @@ If selected, use the following process to determine which attributes to display.
 </td></tr></tbody>
 </table>3.  Select **Submit** or **Update**.
 
-    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](../concept/administer-unified-map.md).
+    The updated settings appear in the appropriate related list on the Configuration identifier form, as described in [Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/administer-unified-map.md).
 
 
-**Parent Topic:**[Configuring Unified Map — admin settings](../concept/administer-unified-map.md)
+**Parent Topic:**[Configuring Unified Map — admin settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/administer-unified-map.md)
 
 **Related topics**  
 
 
-[View the attributes of a CI or a relationship](unified-map-show-attributes.md)
+[View the attributes of a CI or a relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-show-attributes.md)
 

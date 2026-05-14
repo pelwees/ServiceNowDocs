@@ -33,7 +33,7 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 5.  Enter the body text in the Compose Email window.
 
-6.  Select the Attachment icon \(![Attachment icon.](../image/email-attachment.jpg)\) if you want to add an attachment to the email.
+6.  Select the Attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/email-attachment.jpg)\) if you want to add an attachment to the email.
 
 7.  Select **Send**.
 

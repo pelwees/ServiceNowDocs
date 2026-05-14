@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the Splunk Poller integration configuration forms for Health Log Analytics.
 
-For the Splunk Poller integration setup procedure, see [Set up a Splunk Poller integration for Health Log Analytics](../task/il-connector-hla-splunk-polling.md).
+For the Splunk Poller integration setup procedure, see [Set up a Splunk Poller integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-splunk-polling.md).
 
 <table id="table_fhy_yq1_m2c"><thead><tr><th>
 
@@ -143,5 +143,5 @@ The query Splunk uses to search your data. This field is required.For example, t
 |Max documents per query|The maximum number of documents retrieved each time log data is fetched from Splunk. Default: 10,000.|
 |Splunk Request Timeout \(seconds\)|The maximum time, in seconds, allowed for data retrieval before the request times out.|
 
-**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

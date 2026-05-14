@@ -19,7 +19,7 @@ After an availability commitment is added to a service offering or to an applica
 
 Service Portfolio Management runs a daily job to generate the commitment availability reports and uses the system time zone.
 
-For information on adding availability commitments, see [Add a commitment to a service offering](../task/define-SPM2-service-commitments.md).
+For information on adding availability commitments, see [Add a commitment to a service offering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../task/define-SPM2-service-commitments.md).
 
 ## Availability calculator
 
@@ -275,5 +275,5 @@ Basic formula: Total duration \(Commitment downtime\) divided by the number of o
 
 Starting with the Vancouver release, archival rules are activated by default. Service Portfolio Management uses a scheduled job called table cleaner to archive older records from tables in the instance to keep table sizes and query performance manageable. To ensure you get quicker data results, Service Portfolio Management uses the table cleaner job to archive availability data that is older than three years.
 
-**Parent Topic:**[Using Service Portfolio Management](SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 

@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin
     -   `BIA Workflow Configuration`
     -   `Crisis Workflow Configuration`
     -   `Exercise Workflow Configuration`
-    ![OOTB.](../image/approval-configurations-ootb.png)![BCP config.](../image/approval-config-bcp.png)
+    ![OOTB.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-configurations-ootb.png)![BCP config.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-config-bcp.png)
 
     You can update the existing BCP, BIA, Crisis, or Exercise configurations. Additionally, you can set up multiple levels of approval configurations for BCP, BIA, Crisis, or Exercise. The base system supports the Level 1 approval level by default.
 
@@ -39,24 +39,24 @@ Role required: sn\_bcm.admin
 
     1.  Select **New** in the related list of the BCP Workflow Configuration record.
 
-        The Approval level new record form is displayed.![Approval level record.](../image/approval-level-level-2-record.png)
+        The Approval level new record form is displayed.![Approval level record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-level-level-2-record.png)
 
     2.  In the form, enter the name for the approval level record such as Level 2 Managers, select the level such as level 2, and select **Submit**.
 
-        The newly created Approval level record such as Level 2 Managers record is displayed in the related list as shown in the example.![Approval level records.](../image/approval-level-records-level-2.png)
+        The newly created Approval level record such as Level 2 Managers record is displayed in the related list as shown in the example.![Approval level records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-level-records-level-2.png)
 
 3.  To configure an approval rule for the newly configured approval level record, select **New** in the Approval Rules related list of the approval level record and complete the steps.
 
     1.  Update the approval rule configuration for continuity plans by updating the filter condition and the approver type as shown in the example.
 
-        ![Rule for level 2.](../image/approval-rule-level-2-configuration.png)
+        ![Rule for level 2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-rule-level-2-configuration.png)
 
-        In the filter condition, you can select the source table on which rule the approval rule is evaluated. Optionally, you can apply additional condition on the source table. You can select a field to filter the source records based on the Applies to table of the approval configuration. You can configure for which records, level 1 should trigger level 2.For more information, see [Approval Rule New Record form](../../grc-common/reference/approval-rule-new-record-form.md).
+        In the filter condition, you can select the source table on which rule the approval rule is evaluated. Optionally, you can apply additional condition on the source table. You can select a field to filter the source records based on the Applies to table of the approval configuration. You can configure for which records, level 1 should trigger level 2.For more information, see [Approval Rule New Record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-common/reference/approval-rule-new-record-form.md).
 
     2.  Select **Submit**.
 
-    The approval rule is now configured for the approval level. When a business continuity plan is created in the BCM Configurable Workspace and later it is sent for a review and an approval, the multiple approval levels are displayed in the **Approval levels** tab of the business continuity plan as shown in the example.![Approval levels in the plan.](../image/approval-levels-tab-of-plan.png)
+    The approval rule is now configured for the approval level. When a business continuity plan is created in the BCM Configurable Workspace and later it is sent for a review and an approval, the multiple approval levels are displayed in the **Approval levels** tab of the business continuity plan as shown in the example.![Approval levels in the plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-levels-tab-of-plan.png)
 
 
-**Parent Topic:**[Approval configuration](../concept/bcm-approval-configuration.md)
+**Parent Topic:**[Approval configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcm-approval-configuration.md)
 

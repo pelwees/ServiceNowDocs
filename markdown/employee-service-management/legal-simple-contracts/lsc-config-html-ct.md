@@ -25,15 +25,15 @@ The following are the key features of using document template blocks in document
 -   Add multiple document template block contents to a document template block with defined conditions and execution order. An appropriate block content is picked up dynamically in the generated document based on these defined conditions and execution order.
 -   Add multiple document blocks in a document template.
 
--   **[Create a document block for legal contract templates](create-doc-template-block.md)**
+-   **[Create a document block for legal contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-doc-template-block.md)**
 
     Create document blocks that you can use in multiple document templates for legal contracts.
 
--   **[Add block content in a document template block](create-doc-template-block-content.md)**
+-   **[Add block content in a document template block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-doc-template-block-content.md)**
 
     Add one or more block contents in a document template block and define its condition and execution order.
 
--   **[Create a legal contract template of type HTML](create-legal-contract-template-html.md)**
+-   **[Create a legal contract template of type HTML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-legal-contract-template-html.md)**
 
     Create a document template of type HTML.
 

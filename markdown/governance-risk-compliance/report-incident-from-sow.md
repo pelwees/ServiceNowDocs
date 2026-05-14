@@ -30,7 +30,7 @@ Incident Management reporting workflow consists of the following steps:
 
 A critical incident is reported in the Service Operations Workspace and impacts related services as shown in the examples.
 
-![Incident reported.](../image/sow-ws.png)![Impacted related services.](../image/sow-rel-ser.png)
+![Incident reported.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sow-ws.png)![Impacted related services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sow-rel-ser.png)
 
 The incident triggers a Digital resilience incident reporting case in the Operational Resilience Workspace.
 
@@ -44,27 +44,27 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     As the assigned user, you can view details such as the case name, description, assigned user, analyst, status, original source record, and whether the incident is potentially reportable to regulatory authorities, as shown in the example.
 
-    ![Record.](../image/dri-incident-case.png)
+    ![Record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-incident-case.png)
 
     The source of the case is Incident Management.
 
-    ![IM.](../image/src-im.png)
+    ![IM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/src-im.png)
 
     The case is assigned to the Digital Resilience Incident Managers group.
 
     The action tasks and impacted areas related to the incident are copied in the case record.
 
-    ![Impacted areas.](../image/dri-imp-areas-case.png)
+    ![Impacted areas.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-imp-areas-case.png)
 
     An action task is automatically generated for the incident to help you determine if it must be reported to regulatory bodies. When you open the action task, you can view its name, description, type, and the associated assessment template. This template, created by the administrator, is already available in the Assessment Workspace, where you can view its sections and questions.
 
-    ![Action task.](../image/action-task.png)![Template.](../image/asmt-ws-template.png)
+    ![Action task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task.png)![Template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-ws-template.png)
 
     The assessment template is aligned with the Digital Operational Resilience classification for major Information and Communication Technology \(ICT\) incidents. The same assessment template is tagged in the reported incident as shown in the example.
 
-    ![Template in incident.](../image/asmt-temp-in-incident.png)![Questions.](../image/asmt-ws-q-temp.png)
+    ![Template in incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-temp-in-incident.png)![Questions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-ws-q-temp.png)
 
-    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    The analyst assigned to the case assesses the incident's impact on factors such as critical services, clients \(including financial counterparts and third parties\), data and data losses, reputation, service downtime, geographical spread, and economy. These sections in the template help you determine the impact of the incident and whether it should be reported to the regulators and responds to the questions in the questionnaire. For information on the assessment template, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
 3.  Select **Accept work**.
 
@@ -74,7 +74,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
 5.  To submit the response to the questionnaire as an analyst, verify the responses and select **Submit**.
 
-    ![Submit the answers.](../image/asmt-submit-action.png)
+    ![Submit the answers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-submit-action.png)
 
     A confirmation message is displayed that the answers are submitted successfully.
 
@@ -86,7 +86,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     As shown in the example, an action task is generated to collect the initial report that should be submitted to the regulator.
 
-    ![Action task.](../image/inci-action-task.png)
+    ![Action task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-action-task.png)
 
 8.  Navigate to the action task in the incident and assign it to themselves or another user in the Assignment section of the **Details** tab.
 
@@ -94,7 +94,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     The action task is assigned to the user and the Task owner field is locked on the form. The user can either reassign or complete the task. A due date is provided for the action task which is a 1-day time, 24 hours from when the incident got classified as major. Within the next 24 hours, this report must be submitted to the authorities.
 
-    ![Report.](../image/dri-ini-report.png)
+    ![Report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-ini-report.png)
 
 10. Navigate to the **Assessment** tab and respond to the assessment for the initial report.
 
@@ -104,7 +104,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     The date of detection and classification are pre-filled, and some fields are auto-populated. You can automate or manually configure the remaining responses. Once all answers are provided, generate an Excel sheet and submit it to regulatory authorities.
 
-    ![Report.](../image/ini-repo-asmt-action-task.png)
+    ![Report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ini-repo-asmt-action-task.png)
 
 11. To submit the assessment, select **Submit** and generate an Excel sheet.
 
@@ -120,7 +120,7 @@ The incident triggers a Digital resilience incident reporting case in the Operat
 
     The export functionality generates a Microsoft Excel sheet based on the reporting cases, which can be saved to your local hard drive and shared with regulatory authorities. You can download the DRI report as shown in the example.
 
-    ![Export.](../image/export.png)
+    ![Export.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/export.png)
 
     The Microsoft Excel report contains the Common details and Initial report tabs. All fields from the initial report are exported with their names as column headers.
 

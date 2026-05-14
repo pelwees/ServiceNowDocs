@@ -21,7 +21,7 @@ The dashboard shows you a near real-time window into the application's case reso
 
 The following example shows the viewing perspective of the dashboard.
 
-![Issue Auto Resolution for HR application's dashboard view.](../image/iar-hr-dashboard.png "Dashboard user interface")
+![Issue Auto Resolution for HR application's dashboard view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/iar-hr-dashboard.png "Dashboard user interface")
 
 ## Reports and indicators
 
@@ -190,7 +190,7 @@ Each dashboard report is related to a data source \(table or indicator\). Select
 
 The following example shows how selecting any data point on the dashboard gives you the complete list report.
 
-![Issue Auto Resolution for HR for detailed report view.](../image/list-report-iar-dashboard.png "Viewing list report")
+![Issue Auto Resolution for HR for detailed report view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/list-report-iar-dashboard.png "Viewing list report")
 
 ## Dashboard filters
 
@@ -198,5 +198,5 @@ Use the dashboard filter to get the results that are based on a selected date ra
 
 The following example shows what the date filter option looks like in the dashboard.
 
-![Issue Auto Resolution for HR dashboard date filter.](../image/iar-hr-dashboard-filter.png "Viewing date filters")
+![Issue Auto Resolution for HR dashboard date filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../image/iar-hr-dashboard-filter.png "Viewing date filters")
 

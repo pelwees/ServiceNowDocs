@@ -155,5 +155,5 @@ Users can view the quantitative risk appetite fields.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Advanced Risk](components-risk-advanced.md)
+</table>**Parent Topic:**[Components installed with Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/components-risk-advanced.md)
 

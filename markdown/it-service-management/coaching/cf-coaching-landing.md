@@ -21,27 +21,27 @@ Train your agents with internal and external learning content using Coaching wit
 
 <table id="table_rk1_zxg_scc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how coaches can use Coaching to train their teams](../concept/cf-exploring-coaching.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../reuse/icons/brand-icons/bus-explore.svg) Learn how coaches can use Coaching to train their teams](../concept/cf-exploring-coaching.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/ind-service-provider.svg)Set up Coaching to assess and train teams](../task/cf-request-coaching.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../reuse/icons/brand-icons/ind-service-provider.svg)Set up Coaching to assess and train teams](../task/cf-request-coaching.md)
 
 </td><td>
 
-[Configure![](../../../common/image/icon-configure.png)Use Coaching with other applications](../concept/cf-configuring-coaching.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../common/image/icon-configure.png)Use Coaching with other applications](../concept/cf-configuring-coaching.md)
 
 </td></tr><tr><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-3-person.svg) Train your agents using Coaching With Learning](../concept/cf-coaching-your-trainee.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../reuse/icons/brand-icons/bus-3-person.svg) Train your agents using Coaching With Learning](../concept/cf-coaching-your-trainee.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Coaching with other applications](cf-coaching-integration.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Coaching with other applications](cf-coaching-integration.md)
 
 </td><td>
 
-[Reference![](../../../common/image/icon-reference.png)Get details about Coaching components such as roles, tables, and system properties](cf-coaching-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/../../../common/image/icon-reference.png)Get details about Coaching components such as roles, tables, and system properties](cf-coaching-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

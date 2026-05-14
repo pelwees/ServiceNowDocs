@@ -22,14 +22,14 @@ Team-based integrations provides the following capabilities:
 -   Route alerts automatically to the appropriate team members responsible for the integrated systems based on integration ownership and configuration item \(CI\) ownership.
 -   Enable seamless integration and automation through the automatic assignment of alerts to appropriate team members based on integration ownership and configuration item \(CI\) ownership.
 
-Customize event rules, event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](../reference/team-based-integrations-properties.md).
+Customize event rules, event mapping, and the precedence of team rules for team-based integrations. For more information, see [Team-based integration properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/team-based-integrations-properties.md).
 
 **Related topics**  
 
 
-[Event rules](create-event-rules.md)
+[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md)
 
-[Event field mapping configuration](c_EMEventFieldMapping.md)
+[Event field mapping configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMEventFieldMapping.md)
 
-[Alert assignment groups for teams](alert-assignment-group.md)
+[Alert assignment groups for teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-assignment-group.md)
 

@@ -21,15 +21,15 @@ Choose one of these tiles to get started.
 
 <table id="table_iwv_lpv_klba" class="nav-card"><tbody><tr><td>
 
-[Explore![](../images/icon-explore-currency-admin.png)Learn about currency administration concepts and features.](explore-currency-admin.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/icon-explore-currency-admin.png)Learn about currency administration concepts and features.](explore-currency-admin.md)
 
 </td><td>
 
-[Configure![](../images/icon-configure-currency-admin.png)Configure defaults for standard currency and FX currency.](configure-currency-admin.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/icon-configure-currency-admin.png)Configure defaults for standard currency and FX currency.](configure-currency-admin.md)
 
 </td><td>
 
-[References![](../images/icon-currency-admin-references.png)Get details about currency administration properties.](../reference/currency-admin-references.md)
+[References![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/icon-currency-admin-references.png)Get details about currency administration properties.](../reference/currency-admin-references.md)
 
 </td></tr></tbody>
 </table>

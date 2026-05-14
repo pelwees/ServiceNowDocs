@@ -33,7 +33,7 @@ This procedure demonstrates how to approve or reject an account using the genera
 
 4.  Under the **Policy builder** tab, in the **If** condition block, make a note of the source fields against the highlighted values.
 
-    ![Customizing general approval policy](../image/pace_general_approval.png)
+    ![Customizing general approval policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/pace_general_approval.png)
 
     **Note:** In this section, you’re validating two conditions:
 

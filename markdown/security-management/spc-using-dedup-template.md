@@ -23,5 +23,5 @@ An example might be an asset that named by its IP address, `10.0.2.11`, that is 
 
 You can identify duplicate CIs by filtering on the Name column on the \[sn\_sec\_spc\_core\_asset\_cache\] table and noting which assets have the same name.
 
-If you identify duplicates, the [CI deduplication](spc-resolve-duplicate-cis.md) process incorporates a deduplication template that you must publish, a system property that you activate, and a scheduled job that removes duplicate CIs in the SPC Cached Assets \[sn\_sec\_spc\_core\_asset\_cache\] table. The process removes duplicates and preserves the master, or canonical, CI record that has the most related items.
+If you identify duplicates, the [CI deduplication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-resolve-duplicate-cis.md) process incorporates a deduplication template that you must publish, a system property that you activate, and a scheduled job that removes duplicate CIs in the SPC Cached Assets \[sn\_sec\_spc\_core\_asset\_cache\] table. The process removes duplicates and preserves the master, or canonical, CI record that has the most related items.
 

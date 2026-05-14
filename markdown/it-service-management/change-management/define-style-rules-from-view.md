@@ -25,7 +25,7 @@ Role required: sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_wr
 
 2.  Click a tile to view the Change Schedule page.
 
-3.  Click the style icon \(![change schedule style icon](../image/change-schedule-style-icon.png)\).
+3.  Click the style icon \(![change schedule style icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/change-schedule-style-icon.png)\).
 
 4.  Do any one of the following actions.
 
@@ -33,17 +33,17 @@ Role required: sn\_chg\_soc.change\_soc\_admin, sn\_change\_role, sn\_change\_wr
     |------|-----------|
     |**Create a new span style**|Click **Add Span Style**.|
     |**Edit the name of an existing span style**|Click the name of the span style that you want to edit.|
-    |**Edit all details of the span style**|Click ![change schedule span arrow](../image/change-schedule-span-arrow.png) that appears to the right of the span style name and edit style rule name, span color, and filtering, as required.|
+    |**Edit all details of the span style**|Click ![change schedule span arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/change-schedule-span-arrow.png) that appears to the right of the span style name and edit style rule name, span color, and filtering, as required.|
 
 5.  Click **Save**.
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/style-rules-definition.md)
 
 **Related topics**  
 
 
-[Define default style rules](def-stl-rules-from-stl-rules-table.md)
+[Define default style rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/def-stl-rules-from-stl-rules-table.md)
 
-[Define style rules from Change Schedule Definitions](def-stl-rules-from-chng-sch-def.md)
+[Define style rules from Change Schedule Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/def-stl-rules-from-chng-sch-def.md)
 

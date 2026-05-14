@@ -71,7 +71,7 @@ A tester is responsible for signing off on ATF test failures that occur to enabl
 
 The following workflow illustrates the sample pipeline workflow installed with ReleaseOps. Your pipeline manager can customize it as needed.
 
-![Flowchart showing the ReleaseOps assessment playbook workflow from start to deployment.](../image/releaseops-sample-pipeline-workflow-MMASSET0021906.png "ReleaseOps sample pipeline workflow")
+![Flowchart showing the ReleaseOps assessment playbook workflow from start to deployment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-sample-pipeline-workflow-MMASSET0021906.png "ReleaseOps sample pipeline workflow")
 
 In the traditional development to test to production workflow:
 
@@ -87,7 +87,7 @@ In the traditional development to test to production workflow:
 10. If there are any runbook tasks set to occur during the release playbook stage, progression pauses until the runbook tasks have been addressed.
 11. Once the runbook tasks have been addressed, all deployment requests in the **Ready for deployment** state move through the pipeline to production.
 
-![This infographic displays the sample release workflow.](../image/ro-workflow-2.png "ReleaseOps sample release workflow")
+![This infographic displays the sample release workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/ro-workflow-2.png "ReleaseOps sample release workflow")
 
 In the traditional release workflow:
 
@@ -102,22 +102,22 @@ In the traditional release workflow:
 
 |Benefit|Feature|Role|
 |-------|-------|----|
-|Define requirements for an application or update to get installed on a target instance.|[Pipelines in ReleaseOps](releaseops-pipeline-environments.md)|Pipeline Manager|
-|Deploy changes to a production or another target environment.|[Releases in ReleaseOps](releases-in-release-ops.md)|Release Manager|
-|Push application installations or update sets of work completed through the pipeline with deployment requests.|[Deployment requests in ReleaseOps](deployment-requests.md)|Developer|
-|Scan deployment requests for changes to the current state of the production instance or target instance with the deployment analyzer. Use those findings to determine your actions in the pipeline.|[Deployment analyzer in ReleaseOps](deployment-analyzer.md)|Developer|
-|Leverage Automated Test Framework \(ATF\) code coverage to improve the efficacy of ATF test suites.|[Deployment analyzer in ReleaseOps](deployment-analyzer.md)|Developer|
-|Add custom, flexible, and manual activities to your assessment and release playbooks, without having to adjust the structure of your playbooks each time.|[Runbook tasks in ReleaseOps](runbook-tasks.md)|Developer|
+|Define requirements for an application or update to get installed on a target instance.|[Pipelines in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/releaseops-pipeline-environments.md)|Pipeline Manager|
+|Deploy changes to a production or another target environment.|[Releases in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/releases-in-release-ops.md)|Release Manager|
+|Push application installations or update sets of work completed through the pipeline with deployment requests.|[Deployment requests in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/deployment-requests.md)|Developer|
+|Scan deployment requests for changes to the current state of the production instance or target instance with the deployment analyzer. Use those findings to determine your actions in the pipeline.|[Deployment analyzer in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/deployment-analyzer.md)|Developer|
+|Leverage Automated Test Framework \(ATF\) code coverage to improve the efficacy of ATF test suites.|[Deployment analyzer in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/deployment-analyzer.md)|Developer|
+|Add custom, flexible, and manual activities to your assessment and release playbooks, without having to adjust the structure of your playbooks each time.|[Runbook tasks in ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/runbook-tasks.md)|Developer|
 
 ## What to explore next
 
 To learn more about configuring and using ReleaseOps, see:
 
--   [Configuring ReleaseOps](configuring-releaseops.md)
--   [Using ReleaseOps to manage deployments](using-releaseops-to-manage-deployments.md)
--   [Promote an update set for deployment](../task/promote-update-set-for-deployment.md)
--   [Create a deployment request for a scheduled release](../task/create-a-new-deployment-request.md)
--   [Create a deployment request for an on-demand release](../task/create-a-deployment-request-for-on-demand-release.md)
--   [Attach an update set to an existing deployment request](../task/attach-an-update-set-to-existing-deployment-request.md)
--   [Create a release](../task/create-a-release.md)
+-   [Configuring ReleaseOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/configuring-releaseops.md)
+-   [Using ReleaseOps to manage deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/using-releaseops-to-manage-deployments.md)
+-   [Promote an update set for deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../task/promote-update-set-for-deployment.md)
+-   [Create a deployment request for a scheduled release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../task/create-a-new-deployment-request.md)
+-   [Create a deployment request for an on-demand release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../task/create-a-deployment-request-for-on-demand-release.md)
+-   [Attach an update set to an existing deployment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../task/attach-an-update-set-to-existing-deployment-request.md)
+-   [Create a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../task/create-a-release.md)
 

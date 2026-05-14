@@ -28,9 +28,9 @@ To debug a Spotlight group copying job, open the group copy log from the list an
 
 ## Group copy log with errors
 
-In this example, the Incident Spotlight group was copied for the Assignment Group breakdown elements Database, Field Services, Hardware, and US Presidents Group 1. However, after the copying job has completed, a notification shows that copying failed for three of those elements.![Notifications after a Spotlight group copying job, showing three failures and one success](../image/spotlight-copy-fail-note.png)
+In this example, the Incident Spotlight group was copied for the Assignment Group breakdown elements Database, Field Services, Hardware, and US Presidents Group 1. However, after the copying job has completed, a notification shows that copying failed for three of those elements.![Notifications after a Spotlight group copying job, showing three failures and one success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-copy-fail-note.png)
 
-Clicking **Check the logs for details** opens the Spotlight group copy log for this copying job. In this log, you can find the errors that caused each failure. In the following example, a business rule violation prevented the copy from being created. The error message instructs you to contact the System Administrator.![Spotlight group copy log showing one of three errors](../image/spotlight-group-copy-log.png)
+Clicking **Check the logs for details** opens the Spotlight group copy log for this copying job. In this log, you can find the errors that caused each failure. In the following example, a business rule violation prevented the copy from being created. The error message instructs you to contact the System Administrator.![Spotlight group copy log showing one of three errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-group-copy-log.png)
 
-**Parent Topic:**[Ranking records with Spotlight](spotlight.md)
+**Parent Topic:**[Ranking records with Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md)
 

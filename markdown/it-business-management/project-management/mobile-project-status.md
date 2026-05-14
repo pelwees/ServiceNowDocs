@@ -34,15 +34,15 @@ The Project Status mobile application runs on the ServiceNow® mobile platform. 
 **Related topics**  
 
 
-[Activate Mobile Project Status](../task/activate-ppm-mobile.md)
+[Activate Mobile Project Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/activate-ppm-mobile.md)
 
-[Get started with Project Status app](../task/getstarted-project-status-app-mobile.md)
+[Get started with Project Status app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/getstarted-project-status-app-mobile.md)
 
-[View project details on the mobile app](../task/view-project-details-mobile.md)
+[View project details on the mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/view-project-details-mobile.md)
 
-[View project status report](../task/view-project-status-mobile.md)
+[View project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/view-project-status-mobile.md)
 
-[Create RIDAC \(Risk, Issues, Decisions, Actions, and Request Changes\) records](../task/create-ridac-mobile.md)
+[Create RIDAC \(Risk, Issues, Decisions, Actions, and Request Changes\) records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/create-ridac-mobile.md)
 
-[Collaborate with project stakeholders](../task/collaborate-on-project-mobile.md)
+[Collaborate with project stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/collaborate-on-project-mobile.md)
 

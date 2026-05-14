@@ -158,5 +158,5 @@ The certification status of the account. The possible statuses are:
 -   Certified \(blue\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Account Management reference](cam-reference.md)
+</table>**Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 

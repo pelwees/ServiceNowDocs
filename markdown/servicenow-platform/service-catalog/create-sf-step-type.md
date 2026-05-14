@@ -60,7 +60,7 @@ Create a table by extending the Service Fulfillment Step \[sc\_service\_fulfillm
 Use the Service Fulfillment Step \[sc\_service\_fulfillment\_step\] base table. For example, a department head approval does not require any additional input from the catalog item owner and does not need a new table.
 
 </td></tr></tbody>
-</table>2.  Create a record producer to store the values provided by the catalog item owner to the data store \(base table or extended table\) of that step. For information about creating a record producer, see [Create a record producer](t_DefRecProdInSCat.md).
+</table>2.  Create a record producer to store the values provided by the catalog item owner to the data store \(base table or extended table\) of that step. For information about creating a record producer, see [Create a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefRecProdInSCat.md).
 
     **Note:**
 
@@ -174,7 +174,7 @@ Order of the step configuration.Based on the order of step configurations, the c
 
  The step type corresponding to the step configuration with the least order is displayed beside the list and step types for all other step configurations are included in the list based on their order.
 
- ![order of service fulfillment step types](../image/step-type-order.png "Order of service fulfillment step types")
+ ![order of service fulfillment step types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/step-type-order.png "Order of service fulfillment step types")
 
 </td></tr><tr><td>
 
@@ -224,5 +224,5 @@ Text that should be displayed for the corresponding service fulfillment step in 
 </table>    4.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up the Catalog Builder](set-up-cat-builder.md)
+**Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 

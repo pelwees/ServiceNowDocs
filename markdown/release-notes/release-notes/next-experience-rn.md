@@ -71,5 +71,5 @@ The Australia release doesn't support Internet Explorer 11. The iOS version of F
     Explore accessibility preferences with a guided tour that shows how to customize navigation, keyboard behavior, and visual themes in Next Experience.
 
 
-**Parent Topic:**[ServiceNow AI Platform user interface release notes](now-platform-ui-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform user interface release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-ui-rn-landing.md)
 

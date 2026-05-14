@@ -17,13 +17,13 @@ Create unique instances of widgets by configuring the options for each instance.
 
 ## Before you begin
 
-Create or edit a portal page and add widgets to it. You can also configure the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#).
+Create or edit a portal page and add widgets to it. You can also configure the existing widget instances on a base system page. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#).
 
 Role required: sp\_admin or admin
 
 ## About this task
 
-You can have several instances of the same widget on a page, and each instance of the widget you configure remains unique. For example, each instance of the [Cool Clock widget](cool-clock-widget.md) on a page could use a different time zone.
+You can have several instances of the same widget on a page, and each instance of the widget you configure remains unique. For example, each instance of the [Cool Clock widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/cool-clock-widget.md) on a page could use a different time zone.
 
 Adding a widget to a page creates a record on the Widget Instances \[sp\_instance\] table with the following information:
 
@@ -41,7 +41,7 @@ Adding a widget to a page creates a record on the Widget Instances \[sp\_instanc
 
 3.  Select the page with the widget instance\(s\) you want to configure.
 
-4.  In the Service Portal Designer, move to a widget instance and select the Edit icon \(![Edit icon](../image/WidgetEditIcon.png)\).
+4.  In the Service Portal Designer, move to a widget instance and select the Edit icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetEditIcon.png)\).
 
 5.  In the instance options window, complete the fields to configure the widget instance.
 
@@ -52,11 +52,11 @@ Adding a widget to a page creates a record on the Widget Instances \[sp\_instanc
 
 ## Configure widget instance options
 
-![Gif showing how to access widget instance options from the Service Portal Designer.](../image/WidgetInstanceOptions.gif)
+![Gif showing how to access widget instance options from the Service Portal Designer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetInstanceOptions.gif)
 
 ## What to do next
 
-Advanced users can define what options are available for a widget. For more information, see [Widget option schema](c_WidgetInstanceOptions.md#).
+Advanced users can define what options are available for a widget. For more information, see [Widget option schema](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_WidgetInstanceOptions.md#).
 
-**Parent Topic:**[Using portal widgets](service-portal-widgets.md)
+**Parent Topic:**[Using portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md)
 

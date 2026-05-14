@@ -29,7 +29,7 @@ The Invoice processing case for Invoice email is the only flow that is available
 
 2.  Search for and open the **Invoice processing case for Invoice email** flow.
 
-3.  Select the more actions icon \(![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
+3.  Select the more actions icon \(![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)\) in the top right and select **Copy flow**.
 
     The Create a copy of this flow dialog box is displayed.
 

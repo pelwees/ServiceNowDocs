@@ -27,7 +27,7 @@ Role required: sn\_prm.enterprise\_partner\_admin
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields in the channel partner details section, see [Channel partner table fields](../reference/channel-partner-table-fields.md).
+    To learn more about the fields in the channel partner details section, see [Channel partner table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/channel-partner-table-fields.md).
 
     |Field|Description|
     |-----|-----------|
@@ -42,10 +42,10 @@ Role required: sn\_prm.enterprise\_partner\_admin
 7.  Select **Save**.
 
 
--   **[View Channel Partner information on partner workspace](view-channel-partner-information-on-partner-workspace.md)**  
+-   **[View Channel Partner information on partner workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-channel-partner-information-on-partner-workspace.md)**  
 View consolidated channel partner information through the multiple tabs on workspace.
--   **[Register Partner Staff on workspace](register-partner-staff-on-workspace.md)**  
+-   **[Register Partner Staff on workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/register-partner-staff-on-workspace.md)**  
 Register a new partner member or transfer existing staff within a partner organization.
 
-**Parent Topic:**[Partner Workspace](../concept/partner-workspace.md)
+**Parent Topic:**[Partner Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/partner-workspace.md)
 

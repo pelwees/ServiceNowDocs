@@ -17,7 +17,7 @@ Create Outside Counsel records to enable outside counsels to work on a Legal Inv
 
 ## Before you begin
 
-An Outside Firm record must be active. For more information, see [Set up Outside Firms for Legal Invention Disclosure](setup-outside-firms.md).
+An Outside Firm record must be active. For more information, see [Set up Outside Firms for Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/setup-outside-firms.md).
 
 Role required: sn\_lg\_matter.matter\_config, sn\_lg\_matter.matter\_fulfiller
 
@@ -52,7 +52,7 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
 </td><td>
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Outside Counsel section of the **Lists** menu, select **All**.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Outside Counsel section of the **Lists** menu, select **All**.
 
 
 </td></tr></tbody>
@@ -72,5 +72,5 @@ Navigate to **All** &gt; **Legal Matter** &gt; **Outside Counsel Setup** &gt; **
     -   On the Outside Counsels New record form, select **Submit**.
     -   On the Create New Outside Counsel from the Legal Counsel Center, select **Save**.
 
-**Parent Topic:**[Configure Legal Invention Disclosure](../concept/configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/configure-legal-invention-disclosure.md)
 

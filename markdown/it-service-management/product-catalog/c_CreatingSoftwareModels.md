@@ -17,5 +17,5 @@ Software models are created as part of the asset management process. You can cre
 
 Software models are used in software counters. For more information about creating software model, see [Create software models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/record-terms-software-licenses.md).
 
-**Parent Topic:**[Models](c_Models.md)
+**Parent Topic:**[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 

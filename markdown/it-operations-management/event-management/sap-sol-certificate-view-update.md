@@ -33,10 +33,10 @@ Role required: evt\_mgmt\_admin
 
 6.  Navigate to **Administration** &gt; **ICM** &gt; **Exit Hard** &gt; **Global**.
 
-    ![SSL Client UI](../image/sap-solman-certificate-update.png)
+    ![SSL Client UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sap-solman-certificate-update.png)
 
     The ICM module restarts.
 
 
-**Parent Topic:**[SAP Solution Manager setup configurations](../concept/sap-solman-configurations.md)
+**Parent Topic:**[SAP Solution Manager setup configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-solman-configurations.md)
 

@@ -85,5 +85,5 @@ Demand record to which the improvement initiative is linked is added to the **So
     |Improvement Initiatives related list is added that contains the improvement initiative \(CIM\) record.|Survey definition \(Assessment Metric Type \[Survey view\]\) record is added to the **Source/Parent** field on the Details tab.|
 
 
-**Parent Topic:**[Continual Improvement Management reference](cim-reference.md)
+**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 

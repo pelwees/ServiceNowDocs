@@ -23,7 +23,7 @@ Role required: agent\_client\_collector\_admin
 
 You select a Published policy and then select the **Edit in Sandbox** option to enable editing of the policy. You edit the policy in the sandbox and then save, republish, or delete the policy, as needed. The following diagram illustrates the flow of editing a published policy:
 
-![Editing policy workflow](../image/ACC-Policy-Workflow.png)
+![Editing policy workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Policy-Workflow.png)
 
 ## Procedure
 
@@ -42,7 +42,7 @@ You select a Published policy and then select the **Edit in Sandbox** option to 
     -   When you select this option, the policy's check instances are also editable.
     -   Although the policy is in **Draft view**, its **Publish status** remains **Published**.
 
-        ![Policy draft view](../image/ACC-Policy-Draft-View.png)
+        ![Policy draft view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Policy-Draft-View.png)
 
     While editing the policy's fields, you can select the following options, as needed:
 

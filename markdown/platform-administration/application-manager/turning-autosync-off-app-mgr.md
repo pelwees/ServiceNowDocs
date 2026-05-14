@@ -19,5 +19,5 @@ Automatic syncing with the ServiceNow Store can be deactivated by taking the ins
 
 To take the instance offline, contact [Customer Service and Support](https://support.servicenow.com/now) and request that the `sn_appclient.app.install.offline` system property be set to `true`.
 
-**Parent Topic:**[Configuring Application Manager](configuring-app-manager.md)
+**Parent Topic:**[Configuring Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/configuring-app-manager.md)
 

@@ -61,6 +61,6 @@ Role required: sn\_hr\_integrations.admin
 
     4.  In the **Value** field, provide the login URL of the identity provider service you are using with the CIC Plus integration.
 
-        ![Provide the login URL of the identity provider service you are using with the CIC Plus integration.](../image/cic-plus-source-credentials-idp-url.png)
+        ![Provide the login URL of the identity provider service you are using with the CIC Plus integration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/cic-plus-source-credentials-idp-url.png)
 
 

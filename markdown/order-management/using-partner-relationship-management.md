@@ -22,7 +22,7 @@ As an Enterprise Partner Relationship manager or a channel partner you can use t
 
 ## Partner Portal
 
-![Interface of the partner portal](../image/partner-portal-ui.png)
+![Interface of the partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/partner-portal-ui.png)
 
 From the Partner Portal, you can use and access the following features.
 
@@ -40,7 +40,7 @@ Create
 
 </td><td>
 
-Allows channel partners to create deal registrations or cases.To learn more about creating deal registrations, see [Register a deal on Partner portal](../task/register-a-deal-partner-portal.md).
+Allows channel partners to create deal registrations or cases.To learn more about creating deal registrations, see [Register a deal on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/register-a-deal-partner-portal.md).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ General Inquiry
 
 </td><td>
 
-Raise concerns or queries with the enterprise.To learn more about general inquiry, see [Raise an inquiry on Partner Portal](../task/raise-an-inquiry-on-partner-portal.md).
+Raise concerns or queries with the enterprise.To learn more about general inquiry, see [Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/raise-an-inquiry-on-partner-portal.md).
 
 </td></tr><tr><td>
 
@@ -149,21 +149,21 @@ Search
 Search for support articles and other requests.Enter a search word or term and select **Search** to view the results.
 
 </td></tr></tbody>
-</table>-   **[Raise an inquiry on Partner Portal](../task/raise-an-inquiry-on-partner-portal.md)**  
+</table>-   **[Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/raise-an-inquiry-on-partner-portal.md)**  
 Raise a query or concern with the enterprise on the Partner Portal.
--   **[Register a member on Partner portal](../task/register-a-member-on-partner-portal.md)**  
+-   **[Register a member on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/register-a-member-on-partner-portal.md)**  
 Register a new partner member or transfer existing staff within a partner organization.
--   **[Register a deal on Partner portal](../task/register-a-deal-partner-portal.md)**  
+-   **[Register a deal on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/register-a-deal-partner-portal.md)**  
 Register a deal on the Partner portal to update its state and trigger the end-to-end life cycle of the deal.
--   **[View opportunity analytics on Partner portal](../task/view-opportunity-analytics-on-partner-portal.md)**  
+-   **[View opportunity analytics on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/view-opportunity-analytics-on-partner-portal.md)**  
 View detailed analytics related to all the opportunities associated to a channel partner on the Partner portal.
 
-**Parent Topic:**[Using Sales Customer Relationship Management applications](som-using.md)
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 
 **Related topics**  
 
 
-[Raise an inquiry on Partner Portal](../task/raise-an-inquiry-on-partner-portal.md)
+[Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/raise-an-inquiry-on-partner-portal.md)
 
-[Register a member on Partner portal](../task/register-a-member-on-partner-portal.md)
+[Register a member on Partner portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/register-a-member-on-partner-portal.md)
 

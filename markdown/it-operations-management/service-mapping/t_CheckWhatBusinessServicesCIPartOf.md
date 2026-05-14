@@ -31,7 +31,7 @@ While Service Mapping shows position of a CI in a particular application service
 
 2.  Click **Details**.
 
-    ![The Details button on the Dependency Views page.](../image/DependencyViewDetailsbutton.png)
+    ![The Details button on the Dependency Views page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/DependencyViewDetailsbutton.png)
 
 3.  Click the **Related Services** tab.
 
@@ -40,14 +40,14 @@ While Service Mapping shows position of a CI in a particular application service
 4.  To view the map of another application service containing this CI, click the relevant link.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 
 **Related topics**  
 
 
 [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md)
 
-[Application service maps in classic Service Mapping](../concept/c_UndestandMaps.md)
+[Application service maps in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_UndestandMaps.md)
 
 [Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/c_BusinesssServiceManagementMaps.md)
 

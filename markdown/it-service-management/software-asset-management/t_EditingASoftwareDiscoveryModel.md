@@ -33,8 +33,8 @@ None of the software discovery model records are approved when they are created.
 
 3.  Select **Approved**.
 
-    ![SAM approval](../image/SAMNormalization.png "SAM approval")
+    ![SAM approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMNormalization.png "SAM approval")
 
 
-**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](../concept/c_UsingSoftwareDiscoveryModels.md)
+**Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_UsingSoftwareDiscoveryModels.md)
 

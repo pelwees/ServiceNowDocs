@@ -27,7 +27,7 @@ From the Administration menu, the Template Configurations module displays docume
 
     Predefined Microsoft Word templates, available with the base version, are displayed in the Template Configurations module. The example shows a predefined DRI template.
 
-    ![Configuration.](../image/temp-config.png)
+    ![Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/temp-config.png)
 
 2.  To create a template, select **New** in the Template Configurations module.
 
@@ -78,7 +78,7 @@ Fields from which data must be displayed on the report. Move the required fields
 </td></tr></tbody>
 </table>    The example shows how the fields are used in a Microsoft Word document.
 
-    ![Data column.](../image/d19-data-rel-selection-in-word-doc.png)
+    ![Data column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/d19-data-rel-selection-in-word-doc.png)
 
 4.  Select **Submit**.
 

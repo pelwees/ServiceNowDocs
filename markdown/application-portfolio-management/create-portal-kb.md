@@ -21,5 +21,5 @@ Create a new portal knowledge base to associate a portal with a knowledge base s
 |Order|Specify the display order for the knowledge base in the portal.|
 |Portal|Select an existing portal to associate with the knowledge base.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

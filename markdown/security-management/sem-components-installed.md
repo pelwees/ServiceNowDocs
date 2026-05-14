@@ -24,10 +24,10 @@ The following applications install Security Exposure Management-specific compone
 
 USEM also depends on components provided by some existing security operations applications. For details of those existing components, see:
 
--   [Components installed with Vulnerability Response](../../vulnerability-response/reference/installed-with-vr.md)
--   [Components installed with Application Vulnerability Response](../../vulnerability-app-vuln-mgmt/reference/installed-with-avm.md)
--   [Components installed with Container Vulnerability Response](../../container-vulnerability-response/reference/installed-with-cvr-data.md#)
--   [Components installed with Configuration Compliance](../../vulnerability-config-compliance/reference/installed-with-config-compliance.md)
+-   [Components installed with Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/reference/installed-with-vr.md)
+-   [Components installed with Application Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-app-vuln-mgmt/reference/installed-with-avm.md)
+-   [Components installed with Container Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../container-vulnerability-response/reference/installed-with-cvr-data.md#)
+-   [Components installed with Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-config-compliance/reference/installed-with-config-compliance.md)
 
 To view the full list of installed components, use the Application Files table. For instructions, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -97,12 +97,12 @@ The following tables from the existing applications have been deprecated and hav
 |Associate existing Container VIs with Auto Exception Rule|
 |Check Container Vulnerable Item Deferment Expiration|
 
--   **[Security Exposure Management Workspace Roles](../reference/sem-new-roles-installed.md)**  
+-   **[Security Exposure Management Workspace Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/sem-new-roles-installed.md)**  
 List of roles installed with Security Exposure Management, defining user permissions and access for Security Exposure Management-related tasks.
--   **[Security Exposure Management Workspace Tables](../reference/sem-new-tables-installed.md)**  
+-   **[Security Exposure Management Workspace Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/sem-new-tables-installed.md)**  
 The following are the tables installed with Security Exposure Management. These tables store Security Exposure Management-related configuration, rules, findings, and other data required for exposure assessment, remediation, scoring, and exception management.
--   **[Security Exposure Management Workspace Scheduled Jobs](../reference/sem-new-scheduledjobs-installed.md)**  
+-   **[Security Exposure Management Workspace Scheduled Jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/sem-new-scheduledjobs-installed.md)**  
 The following are the scheduled jobs installed with Security Exposure Management. These jobs automate Security Exposure Management operations to ensure that exposure data is kept current and accurate.
 
-**Parent Topic:**[Unified Security Exposure Management reference](unified-security-exposure-management-reference.md)
+**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-reference.md)
 

@@ -28,5 +28,5 @@ Role required: admin
     **Note:** If the campus has any buildings defined for it, a warning box appears identifying those buildings. Delete the buildings before deleting the campus.
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

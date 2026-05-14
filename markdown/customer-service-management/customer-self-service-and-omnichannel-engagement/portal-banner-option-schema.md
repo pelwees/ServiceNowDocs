@@ -17,7 +17,7 @@ Add a widget for additional functionality to the Portal Banner widget and config
 
 ## Before you begin
 
-The UI Components for Customer Portals plugin must be installed. For more information, see [Activate the UI Components for Customer Portals plugin](activate-config-portal-widget.md).
+The UI Components for Customer Portals plugin must be installed. For more information, see [Activate the UI Components for Customer Portals plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-config-portal-widget.md).
 
 Role required: sp\_admin
 
@@ -45,7 +45,7 @@ Role required: sp\_admin
 
 10. In the **Widget Option Schema** field, modify the JSON code to update the configuration of the widget that you've added.
 
-    For more information on each JSON parameters of the Portal Quick Links widget, see [Portal Banner widget JSON parameters](../reference/r-port-banner-widget-json-schema.md).
+    For more information on each JSON parameters of the Portal Quick Links widget, see [Portal Banner widget JSON parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/r-port-banner-widget-json-schema.md).
 
 11. Select **Save**.
 

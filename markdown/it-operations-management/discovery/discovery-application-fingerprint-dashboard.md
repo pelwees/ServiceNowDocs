@@ -15,7 +15,7 @@ breadcrumb: [Discover applications based on fingerprints, Running discoveries in
 
 ITOM Visibility uses Predictive Intelligence to perform initial analysis of discovered processes and suggest applications that you might want to discover. When using this method, ITOM Visibility automatically creates a Configuration Management Database \(CMDB\) configuration item \(CI\) class, a classifier, or a pattern for the new application CI class. Use the Application Fingerprints dashboard to review suggested applications.
 
-![Application Fingerprints dashboards](../image/discovery-app-fingerprints-dashboard.png)
+![Application Fingerprints dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/discovery-app-fingerprints-dashboard.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -68,7 +68,7 @@ Top Suggestions
 
 </td><td>
 
-Pie Chart![Pie Chart icon](../../../reuse/reporting/image/pie-sm.svg)
+Pie Chart![Pie Chart icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/reporting/image/pie-sm.svg)
 
 </td><td>
 

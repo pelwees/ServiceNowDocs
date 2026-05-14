@@ -27,7 +27,7 @@ The following items are installed with CRM Touchpoints:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with CRM Touchpoints](../reference/components-installed-crm-touchpoints.md).
+For more information, see [Components installed with CRM Touchpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/components-installed-crm-touchpoints.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ For more information, see [Components installed with CRM Touchpoints](../referen
 
 ## What to do next
 
-[Create custom touchpoint types](create-custom-touchpoint-types.md)
+[Create custom touchpoint types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-custom-touchpoint-types.md)
 

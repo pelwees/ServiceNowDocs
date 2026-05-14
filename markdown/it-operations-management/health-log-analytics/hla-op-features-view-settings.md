@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     By default, the table shows the system features that administrators modify most commonly. To view the complete list of features, use the filtering options.
 
-    ![Features list of Log Analytics feature descriptions and settings.](../image/features-form.png)
+    ![Features list of Log Analytics feature descriptions and settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/features-form.png)
 
 2.  Ask your admin to activate or deactivate a feature by updating the **State** setting.
 

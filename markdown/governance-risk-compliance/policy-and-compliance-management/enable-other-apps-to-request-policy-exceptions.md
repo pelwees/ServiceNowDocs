@@ -81,7 +81,7 @@ Policy categories
 
 </td><td>
 
-Select one or more categories for filtering policies. For example, if you select the Vulnerability Response category, and are requesting an exception using that application, the list of all policies is filtered by that category, saving you time. For more information, see [Define policy categories](define-policy-categories.md).
+Select one or more categories for filtering policies. For example, if you select the Vulnerability Response category, and are requesting an exception using that application, the list of all policies is filtered by that category, saving you time. For more information, see [Define policy categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/define-policy-categories.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -189,15 +189,15 @@ Exception questionnaire
 
 </td><td>
 
-Select a questionnaire template to generate a questionnaire for the requested policy exception. For more information, see [Create an exception questionnaire](create-except-quest.md).
+Select a questionnaire template to generate a questionnaire for the requested policy exception. For more information, see [Create an exception questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-except-quest.md).
 
 </td></tr></tbody>
 </table>4.  Save the record.
 
     The Reason Choices related list appears.
 
-    **Note:** The Reason Choices are available to the person who requests a policy exception to explain the purpose of the request. So define reasons that apply to your specific situation. For more information, see [Define policy exception reason choices](define-reason-choices.md).
+    **Note:** The Reason Choices are available to the person who requests a policy exception to explain the purpose of the request. So define reasons that apply to your specific situation. For more information, see [Define policy exception reason choices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/define-reason-choices.md).
 
 
-**Parent Topic:**[Allow policy exception requests from other applications](../concept/allow-other-app-policy-except.md)
+**Parent Topic:**[Allow policy exception requests from other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/allow-other-app-policy-except.md)
 

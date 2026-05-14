@@ -19,7 +19,7 @@ The Workplace Calendar Synchronization application synchronizes reservation-rela
 
 **Note:** Workplace Calendar Synchronization Guided setup is available for system administrators and is provided out of the box with the application. The Guided setup can be accessed from **All** &gt; **Workplace Calendar Synchronization** &gt; **Administration** &gt; **Guided setup**.
 
-![Workplace Calendar Synchronization Guided Setup configuration steps.](../image/wsd-guided-tour-landing-page.png "Workplace Calendar Synchronization Guided Setup")
+![Workplace Calendar Synchronization Guided Setup configuration steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../image/wsd-guided-tour-landing-page.png "Workplace Calendar Synchronization Guided Setup")
 
 The Workplace Calendar Synchronization application supports the following calendar services:
 
@@ -38,7 +38,7 @@ As an admin, you can do the following:
 
 -   Configure connections with a calendar service.
 -   Configure workplace items that require synchronization when they’re reserved.
--   Monitor events and calendar events that are created in the applications. For information about how events work, refer to [Events in Workplace Calendar Synchronization](../reference/events-in-workplace-calendar-synchronization.md).
+-   Monitor events and calendar events that are created in the applications. For information about how events work, refer to [Events in Workplace Calendar Synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../reference/events-in-workplace-calendar-synchronization.md).
 -   For Google Calendar and Microsoft Exchange, receive calendar updates via synchronization deltas \(Sync deltas\). A Sync delta contains a token using which the application retrieves only the changes that happened since the last interval instead of displaying the complete calendar history of the workplace item.
 
     **Note:** If you’re using Microsoft Exchange Online, you cannot view synchronization deltas.
@@ -48,7 +48,7 @@ As an admin, you can do the following:
 
 You can create a connection with your calendar service by using the following configuration form:
 
-![Configuration form for the calendar provider.](../image/calendar-service-confg-form.png)
+![Configuration form for the calendar provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../image/calendar-service-confg-form.png)
 
 ## Create or update reservations
 
@@ -76,5 +76,5 @@ When you synchronize your calendar provider and Workplace Reservation Management
 -   Privacy of the reservation
 -   Invitees of the reservation
 
-**Parent Topic:**[Workplace Calendar Synchronization](workplace-calendar-sync-feat.md)
+**Parent Topic:**[Workplace Calendar Synchronization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/workplace-calendar-sync-feat.md)
 

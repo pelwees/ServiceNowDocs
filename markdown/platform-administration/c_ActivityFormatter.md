@@ -23,7 +23,7 @@ In Core UI, the activity formatter shows updates in real time so you can see the
 
 ![image.activity-formatter]
 
-**Parent Topic:**[Using formatters](c_Formatters.md)
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 ## Create an activity formatter
 
@@ -91,7 +91,7 @@ Role required: admin.
 
 Use live feed to interact with other users on a record by posting messages and adding attachments to the feed. Use the activity formatter to see an overall summary of activity for the record.
 
-![Live Feed/Activity toggle](../image/ActivityFormatterToggle.png "Live Feed/Activity toggle")
+![Live Feed/Activity toggle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ActivityFormatterToggle.png "Live Feed/Activity toggle")
 
 ### Procedure
 
@@ -114,11 +114,11 @@ Role required: personalize\_form and personalize\_list
 
 ### About this task
 
-![Customize the fields that appear in the activity filter](../image/customize-formatter-activities.png "Customize the fields that appear in the activity filter")
+![Customize the fields that appear in the activity filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/customize-formatter-activities.png "Customize the fields that appear in the activity filter")
 
 ### Procedure
 
-1.  Select the activity filter icon \(![Toggle activity filter icon](../image/Show_hide_activity_filters_UI15.png)\).
+1.  Select the activity filter icon \(![Toggle activity filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/Show_hide_activity_filters_UI15.png)\).
 
 2.  At the bottom of the list, select **Configure available fields**.
 
@@ -230,7 +230,7 @@ Role required: admin
 
 2.  Add the following system property.
 
-    For more information on adding a system property, see [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#).
+    For more information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#).
 
     |Field|Description|
     |-----|-----------|

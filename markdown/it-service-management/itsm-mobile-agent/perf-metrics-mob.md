@@ -19,7 +19,7 @@ As a group manager, with the My team dashboard, gain insights into the work of t
 
 Also view the graphical representation of the incidents raised in a week.
 
-![performance metrics mobile](../image/itsm-ma-performance-metric.png)
+![performance metrics mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/itsm-ma-performance-metric.png)
 
 **Note:**
 

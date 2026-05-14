@@ -48,5 +48,5 @@ Role required: sn\_prd\_pm.product\_catalog\_manager, sn\_prd\_pm.product\_catal
 
 ## What to do next
 
-[Build a needs decision tree](build-needs-decision-tree.md) using Decision Tree Builder.
+[Build a needs decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/build-needs-decision-tree.md) using Decision Tree Builder.
 

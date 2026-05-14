@@ -17,7 +17,7 @@ As a legal request fulfiller, add or delete documents in the legal request and m
 
 ## Before you begin
 
-Ensure you have installed and configured Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
+Ensure you have installed and configured Microsoft Outlook Add-In for Legal Service Delivery. For more information, see [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
 
 Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfiller
 
@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfille
 
 1.  Sign in to Microsoft Outlook Add-In for Legal Service Delivery.
 
-    For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-login.md).
+    For more information, see [Sign in to Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-login.md).
 
 2.  Add attachment to the legal request
 
@@ -35,9 +35,9 @@ Role required: sn\_lg\_ops.request\_fulfiller or sn\_lg\_matter.matter\_fulfille
 
         Legal request or matterdetails are displayed.
 
-    3.  Select Add attachments icon \(![Add attachments icon](../../ohs-incident-management/image/icon-add-attachment.png)\)
+    3.  Select Add attachments icon \(![Add attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../ohs-incident-management/image/icon-add-attachment.png)\)
 
-        For legal matter, select the artifact from the Artifact section and then select Add attachments icon \(![Add attachments icon](../../ohs-incident-management/image/icon-add-attachment.png)\)
+        For legal matter, select the artifact from the Artifact section and then select Add attachments icon \(![Add attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../ohs-incident-management/image/icon-add-attachment.png)\)
 
 <table id="choicetable_tly_21d_xbc"><thead><tr><th align="left" id="d679588e150">
 
@@ -77,14 +77,14 @@ Steps
 
         Legal request or matterdetails are displayed.
 
-    3.  Select Delete icon![Delete icon](../../legal-digital-forensics/image/delete-icon.png).
+    3.  Select Delete icon![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/delete-icon.png).
 
-        For legal matter, select the artifact from the Artifact section and then select Delete icon \(![Delete icon](../../legal-digital-forensics/image/delete-icon.png)\).
+        For legal matter, select the artifact from the Artifact section and then select Delete icon \(![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-digital-forensics/image/delete-icon.png)\).
 
     4.  Select **Ok** on the confirmation screen.
 
         The document is deleted from the legal request.
 
 
-**Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-use.md)
+**Parent Topic:**[Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 

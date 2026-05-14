@@ -122,7 +122,7 @@ Description of the variable set.
 
     1.  In the Variables related list, click **New**.
 
-    2.  Follow the steps listed in [Create variables for remote record producers in Service Exchange for Providers](service-bridge-v2-assign-variables-ser-defn.md) to create variables.
+    2.  Follow the steps listed in [Create variables for remote record producers in Service Exchange for Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-assign-variables-ser-defn.md) to create variables.
 
         **Note:** For a multi-row variable set:
 

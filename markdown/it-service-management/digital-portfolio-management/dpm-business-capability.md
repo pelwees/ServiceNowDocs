@@ -42,9 +42,9 @@ You can create a business capability by navigating to **All** &gt; **CSDM** &gt;
 
         |Field|Description|
         |-----|-----------|
-        |Parent|The business capability that is to be related to the service or business application. Use the search icon \(![Search icon.](../../site-reliability-ops/image/icon-search.png)\) to select the business capability.|
-        |Type|The type of CI relationship. Use the search icon \(![Search icon.](../../site-reliability-ops/image/icon-search.png)\) to select **Provided By:: Provides**.|
-        |Child|The service or business application to be related to the business capability. Use the search icon \(![Search icon.](../../site-reliability-ops/image/icon-search.png)\).|
+        |Parent|The business capability that is to be related to the service or business application. Use the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../site-reliability-ops/image/icon-search.png)\) to select the business capability.|
+        |Type|The type of CI relationship. Use the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../site-reliability-ops/image/icon-search.png)\) to select **Provided By:: Provides**.|
+        |Child|The service or business application to be related to the business capability. Use the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../site-reliability-ops/image/icon-search.png)\).|
 
     4.  **Submit**.
 
@@ -55,12 +55,12 @@ You can create a business capability by navigating to **All** &gt; **CSDM** &gt;
     -   On the business capability record, in the Related Items section.
     -   In the DPM Workspace, on the Info tab of a service or business application.
 
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-configure-cfw.md)
 
 **Related topics**  
 
 
-[View service and service offering details](../concept/dpm-service-details.md)
+[View service and service offering details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-service-details.md)
 
-[View business application details](../concept/dpm-business-apps-details.md)
+[View business application details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-business-apps-details.md)
 

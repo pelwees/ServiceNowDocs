@@ -19,7 +19,7 @@ Create an automation resource to associate a resource to an automation task. How
 
 **Note:** From the Washington DC release, this feature is deprecated.
 
-Create an automation task. For more information, see [Create an automation task](create-automation-task.md).
+Create an automation task. For more information, see [Create an automation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-task.md).
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
@@ -37,7 +37,7 @@ Automation resource types:
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Tasks**.
 
@@ -47,19 +47,19 @@ Automation resource types:
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values, see [Automation resource form](../reference/automation-resource-form.md).
+    For a description of the field values, see [Automation resource form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-resource-form.md).
 
 7.  Select **Save**.
 
 
 ## What to do next
 
-\(Optional\) Create an automation goal. For more information, see [Create an automation goal](create-automation-goal.md).
+\(Optional\) Create an automation goal. For more information, see [Create an automation goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-goal.md).
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 
 **Related topics**  
 
 
-[Automation resource form](../reference/automation-resource-form.md)
+[Automation resource form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-resource-form.md)
 

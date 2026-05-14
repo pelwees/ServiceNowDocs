@@ -17,15 +17,15 @@ Use the Maintenance Management dashboard to get an insight into maintenance case
 
 ## Prerequisites for accessing the View Maintenance Management dashboard
 
--   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](install-workplace-central.md)
--   Ensure that the Workplace Maintenance Management \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](../../workplace-maintenance-management/task/intall-workplace-maintenance-mgmt.md).
--   Create and publish a maintenance plan. For more information, see [Create and publish maintenance plans](../../workplace-maintenance-management/task/create-publish-maintenance-plans.md) and [Workplace maintenance cases](../../workplace-maintenance-management/task/create-maint-cases.md).
+-   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
+-   Ensure that the Workplace Maintenance Management \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-maintenance-management/task/intall-workplace-maintenance-mgmt.md).
+-   Create and publish a maintenance plan. For more information, see [Create and publish maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-maintenance-management/task/create-publish-maintenance-plans.md) and [Workplace maintenance cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-maintenance-management/task/create-maint-cases.md).
 
-    You can also create a maintenance plan record by using the Preventative Maintenance option on the Workplace central home page. Navigate to **All** &gt; **Workplace Central**. Select the Preventative Maintenance icon \(![Preventative Maintenance icon on the context side bar to create a maintenance plan.](../images/icon-preventative-maintenance.png)\) on the context side bar to create a maintenance plan.
+    You can also create a maintenance plan record by using the Preventative Maintenance option on the Workplace central home page. Navigate to **All** &gt; **Workplace Central**. Select the Preventative Maintenance icon \(![Preventative Maintenance icon on the context side bar to create a maintenance plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/icon-preventative-maintenance.png)\) on the context side bar to create a maintenance plan.
 
 -   Ensure that the plugin Performance Analytics \(com.snc.pa\) is installed and that you have the Performance Analytics premium entitlement. For more information, see 
 -   Ensure that the Workplace Central, Workplace Maintenance Management applications and all of their associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   Run the **Workplace Maintenance Case Historical Data Collection** job before viewing the dashboard for the first time. For more information, see [Run the scheduled job for the Maintenance Management dashboard](run-job-for-wmm-dashboard.md).
+-   Run the **Workplace Maintenance Case Historical Data Collection** job before viewing the dashboard for the first time. For more information, see [Run the scheduled job for the Maintenance Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/run-job-for-wmm-dashboard.md).
 
 ## Accessing the dashboard
 
@@ -36,7 +36,7 @@ To access the Maintenance Management dashboard, you must have the sn\_wsd\_maint
     -   **Workspaces** &gt; **Workplace Central**
 -   Select the **Maintenance Management** tab.
 
-![Workplace Analytics Maintenance Management dashboard](../images/wpa-maintenance-dashboard.png)
+![Workplace Analytics Maintenance Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wpa-maintenance-dashboard.png)
 
 ## Scorecards
 
@@ -168,19 +168,19 @@ Workplace.Maintenance.Case.Opened
 </td></tr></tbody>
 </table>You can also add new indicators. For more information on how to work with indicators, see [Configure Performance Analytics fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWidgetsAndDashboards.md).
 
--   **[Run the scheduled job for the Maintenance Management dashboard](run-job-for-wmm-dashboard.md)**  
+-   **[Run the scheduled job for the Maintenance Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/run-job-for-wmm-dashboard.md)**  
 As an admin, run the scheduled job **Workplace Maintenance Case Historical Data Collection** to collect data for the past year that is used by the Maintenance Management dashboard.
 
-**Parent Topic:**[Working with Workplace Analytics](../concept/working-with-workplace-analytics.md)
+**Parent Topic:**[Working with Workplace Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-workplace-analytics.md)
 
 **Related topics**  
 
 
-[View Space Optimization metrics](view-space-opt-analytics.md)
+[View Space Optimization metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-space-opt-analytics.md)
 
-[View Occupancy Dashboard](../../workplace-connectors/task/view-badging-tables.md)
+[View Occupancy Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-connectors/task/view-badging-tables.md)
 
-[View Lease Administration metrics](view-lease-admin-analytics.md)
+[View Lease Administration metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-lease-admin-analytics.md)
 
-[Manage Workplace Dashboards](workplace-dashboards-wsd-central.md)
+[Manage Workplace Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)
 

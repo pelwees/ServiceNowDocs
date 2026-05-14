@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Enable keyboard focus on text that displays tooltip accessibility preference.
 
-![Enable keyboard focus on text that displays a tooltip accessibility preference.](../image/coral-pref-truncated-text.png)
+![Enable keyboard focus on text that displays a tooltip accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-truncated-text.png)
 
 The purpose of this preference is to provide access to truncated text.
 

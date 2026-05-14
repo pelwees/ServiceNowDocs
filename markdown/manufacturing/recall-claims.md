@@ -25,10 +25,10 @@ A recall is a measure taken by the manufactures when they identify a safety issu
 
 A recall is initiated when a particular defect impacts a significant number of products. The following diagram shows the entities and their relationships within the recall claims application.
 
-![Decorative](../image/Data-model-recall-campaign.png "Recall claim data model")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Data-model-recall-campaign.png "Recall claim data model")
 
--   **[Recall campaign tables](recall-claims-table.md)**  
+-   **[Recall campaign tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/recall-claims-table.md)**  
 This section explains the recall campaign tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[Data model](data-model.md)
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 

@@ -29,11 +29,11 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 3.  Select the check box next to the alert number that you want to assign.
 
-    **Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](../image/el-select-all.png)
+    **Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-select-all.png)
 
 4.  Select the **Close** drop-down list.
 
-    ![Option to acknowledge the alert.](../image/el-close-menu.png)
+    ![Option to acknowledge the alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-close-menu.png)
 
 5.  Perform one of the following actions.
 

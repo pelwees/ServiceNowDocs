@@ -17,16 +17,16 @@ Edit a scenario using the floor map to add or remove allocations, or to assign u
 
 ## Before you begin
 
-Make sure that you have created a scenario, and it is in the Draft state. For more information, see [Create a scenario](create-a-scenario.md).
+Make sure that you have created a scenario, and it is in the Draft state. For more information, see [Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md).
 
 Make sure that you have selected Indoor Mapping as your map provider to view maps.
 
--   For more information about selecting a map provider, see [Customize the map properties](../../workplace-space-mapping/task/wsm-configure-map-properties.md).
--   For more information about indoor mapping, see [Indoor Mapping](../../wsd-indoor-mapping/reference/Indoor-mapping.md).
+-   For more information about selecting a map provider, see [Customize the map properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-mapping/task/wsm-configure-map-properties.md).
+-   For more information about indoor mapping, see [Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../wsd-indoor-mapping/reference/Indoor-mapping.md).
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/concept/reviewing-allocation-changes.md).
 
-![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
+![Space details panel displaying a warning about reviewing allocation changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-central-review-changes.png)
 
 Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reader \(read only; to view a scenario\)
 
@@ -66,7 +66,7 @@ Description
 
 </td><td>
 
-Use the zoom options \(![Zoom options.](../images/zoom-options.png)\) on the map.
+Use the zoom options \(![Zoom options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/zoom-options.png)\) on the map.
 
 </td></tr><tr><td id="d709477e241">
 
@@ -83,7 +83,7 @@ Select a building and floor from the **Building** and **Floor** list options.
 </td><td>
 
 1.  Select a floor on the map. Make sure that no spaces are selected.
-2.  On the Space details pane, select the copy link \(![Copy link icon](../images/copy-link-icon.png)\) icon.
+2.  On the Space details pane, select the copy link \(![Copy link icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/copy-link-icon.png)\) icon.
 
 A link to the floor is copied and can be shared with other space planners. Make sure that the space planner receiving the link can view or edit the scenario.
 
@@ -99,7 +99,7 @@ A link to the floor is copied and can be shared with other space planners. Make 
 
 </td><td>
 
-1.  On the Space details panel, select the filter icon \(![Filter icon.](../../../reuse/icons/product-icons/filter-outline-24.svg)\).
+1.  On the Space details panel, select the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../../reuse/icons/product-icons/filter-outline-24.svg)\).
 2.  On the Filter spaces pop-up, add conditions to select the spaces based on your requirement.
 
 For example, `Space type is Room`. For more information about conditions, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
@@ -231,12 +231,12 @@ The specified opacity value is set for the colored spaces.
     If **Neighborhood** is selected as the group by option, only assignments that have the **Neighborhood assignment** type are applicable. For any other group by option, assignments that have the **Location assignment** type are applicable.
 
 
-**Parent Topic:**[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+**Parent Topic:**[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
 **Related topics**  
 
 
-[Edit a scenario using the stack plan](edit-scenario-stack-plan.md)
+[Edit a scenario using the stack plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-scenario-stack-plan.md)
 
-[Edit user assignments of a neighborhood](add-or-edit-user-assignments-of-a-neighbourhood.md)
+[Edit user assignments of a neighborhood](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/add-or-edit-user-assignments-of-a-neighbourhood.md)
 

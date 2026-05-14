@@ -15,13 +15,13 @@ The Agent workspace enables the OEMs to create the promotion campaign for a spec
 
 |Tasks|Description|
 |-----|-----------|
-|[My promotions](mco-my-promotions.md)|Displays all the sales promotion claims that are assigned to the person logged in to the workspace.|
-|[View all promotions](../task/mco-all-promotions.md)|Displays all the sales promotion claims.|
+|[My promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions.md)|Displays all the sales promotion claims that are assigned to the person logged in to the workspace.|
+|[View all promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-all-promotions.md)|Displays all the sales promotion claims.|
 
--   **[My promotions](mco-my-promotions.md)**  
+-   **[My promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions.md)**  
 Agents workspace enables OEM to create the sales promotions campaigns. OEM agent can view all the sales promotion campaign created by them.
--   **[View all promotions](../task/mco-all-promotions.md)**  
+-   **[View all promotions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-all-promotions.md)**  
 As an OEM agent, view all the promotions that you created.
 
-**Parent Topic:**[Sales promotion](mco-sales-promotion.md)
+**Parent Topic:**[Sales promotion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion.md)
 

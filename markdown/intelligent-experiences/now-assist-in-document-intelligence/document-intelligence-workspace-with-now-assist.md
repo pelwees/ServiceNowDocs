@@ -36,7 +36,7 @@ The following illustration shows the Document Intelligence workspace. The worksp
 -   4 - Extraction reviewpanel
 -   5 - Table panel
 
-![Document Intelligence workspace screenshot.](../image/docintel-na-workspace.png "Document Intelligence workspace")
+![Document Intelligence workspace screenshot.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-workspace.png "Document Intelligence workspace")
 
 ## Thumbnail panel
 
@@ -48,13 +48,13 @@ The document image panel displays the page selected in the thumbnail panel.
 
 If Now Assist can detect the source of its prediction in the document, it will highlight it in the document image panel when you select a field to review.
 
-![Document panel showing a highlighted recommendation.](../image/docintel-bounding-box.png)
+![Document panel showing a highlighted recommendation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-bounding-box.png)
 
 ## Document controls
 
 When you are reviewing a document for extraction, you can use various controls to maximize the viewing area, zoom, or focus on the areas that you need.
 
-You can also extract information directly from the document image using the draw tool. For more details, see [Extract fields using the draw tool](use-draw-mode-to-extract-fields.md#).
+You can also extract information directly from the document image using the draw tool. For more details, see [Extract fields using the draw tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/use-draw-mode-to-extract-fields.md#).
 
 ## Extraction reviewpanel
 

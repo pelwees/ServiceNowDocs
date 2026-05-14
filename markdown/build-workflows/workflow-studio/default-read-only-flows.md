@@ -19,11 +19,11 @@ Open existing flows in a read-only state to protect them from accidental changes
 
 As of the Washington DC release, you must request to edit an existing flow before you can change it. If you don't have permission to edit a flow, the Edit flow button remains disabled.
 
-![Example flow displaying the Edit flow option.](../../workflow-studio/images/example-edit-flow-option.png "Edit flow option")
+![Example flow displaying the Edit flow option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/images/example-edit-flow-option.png "Edit flow option")
 
 When you request to edit a flow, Workflow Studio checks whether another person already has the flow open for edit. If the flow is available for editing, you open the flow in an editable state. If the flow is already being edited, you see a message displaying the name of the user editing the flow.
 
-![Unable to edit flow. Another user is currently editing the flow: Abel Tuter. You will be able to edit the flow once the other user has closed it.](../../workflow-studio/images/unable-to-edit-flow.png "Unable to edit flow message")
+![Unable to edit flow. Another user is currently editing the flow: Abel Tuter. You will be able to edit the flow once the other user has closed it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/images/unable-to-edit-flow.png "Unable to edit flow message")
 
 ## Stop editing a flow
 
@@ -36,7 +36,7 @@ Flows remain in an editable state until one of these events occur.
 
 When you're done editing a flow, you can make it read only so that other people can edit it. You can use the **Make flow read only** option to stop editing a flow.
 
-![More actions menu displaying the Make flow read only option.](../../workflow-studio/images/example-make-flow-read-only-option.png "Make flow read-only option")
+![More actions menu displaying the Make flow read only option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workflow-studio/images/example-make-flow-read-only-option.png "Make flow read-only option")
 
-**Parent Topic:**[Building flows](flows.md)
+**Parent Topic:**[Building flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flows.md)
 

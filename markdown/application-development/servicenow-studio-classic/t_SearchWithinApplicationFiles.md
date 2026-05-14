@@ -19,7 +19,7 @@ Studio allows application developers to search within application files for matc
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 Role required: admin
 
@@ -64,7 +64,7 @@ Windows: Control+Shift+F
 
 4.  In **Search term**, enter a search string.
 
-    ![Search term dialog](../image/CreateNowStudioSearch.png)
+    ![Search term dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateNowStudioSearch.png)
 
 5.  Select any additional search criteria.
 
@@ -91,12 +91,12 @@ Search for matches throughout the instance, not just within the current applicat
 
     The Studio conducts a case-insensitive search of the application files you selected. While the search is running, Studio displays a search progress indicator. You can click the cancel icon to stop the search. When the search is complete, the system opens a new tab in the content frame to display the search results by application file type. Each application file type displays the number of matching search results.
 
-    ![A sample search results tab displaying seven matches for the string SAMPLE in the current application.](../image/CreateNowStudioSearchResults.png)
+    ![A sample search results tab displaying seven matches for the string SAMPLE in the current application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateNowStudioSearchResults.png)
 
 7.  From the search results tab, expand an application file type and click a record name.
 
     Studio opens the application file record in a new tab in the content frame.
 
 
-**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+**Parent Topic:**[Legacy - ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_ServiceNowStudio.md)
 

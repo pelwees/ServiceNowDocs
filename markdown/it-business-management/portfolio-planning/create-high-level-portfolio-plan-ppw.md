@@ -43,7 +43,7 @@ In this task, select the Project Program lens, add conditions to filter the plan
 
         For example, you want to manage work for programs in your company. Select Programs as your high-level planning item. This enables you to plan for programs and review the work aligned to these programs.
 
-        ![High-level planning wizard.](../images/high-level-planning-ppw.png)
+        ![High-level planning wizard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/high-level-planning-ppw.png)
 
     2.  Add conditions to further filter the data of your planning items.
 
@@ -66,7 +66,7 @@ The portfolio plan is created and the page is refreshed to show the Planning pag
 
 ## What to do next
 
-Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](../concept/prioritizing-work-in-portfolio-planning-workspace.md).
+Analyze the backlog and prioritize work for your portfolio plan. See [Prioritizing portfolio plan work in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/prioritizing-work-in-portfolio-planning-workspace.md).
 
-**Parent Topic:**[Managing portfolio plans in Portfolio Planning](../concept/managing-portfolio-plans-in-portfolio-planning.md)
+**Parent Topic:**[Managing portfolio plans in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-portfolio-plans-in-portfolio-planning.md)
 

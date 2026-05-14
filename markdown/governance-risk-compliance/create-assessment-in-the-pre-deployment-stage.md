@@ -44,7 +44,7 @@ The Model Risk Coordinator \[sn\_model\_risk\_mgmt.risk\_coordinator\] can also 
 
 ## What to do next
 
-[Perform model risk assessment](perform-model-risk-assessment.md)
+[Perform model risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-assessment.md)
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-mrm.md)
 

@@ -20,7 +20,7 @@ You should have an empty state for the following situations:
 -   When a search for a term does not produce any results.
 -   When a search using a navigation tab does not produce any results.
 
-For more information, see [Configure an empty state](empty-state-default.md).
+For more information, see [Configure an empty state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/empty-state-default.md).
 
 Role required: admin
 
@@ -75,7 +75,7 @@ Role required: admin
     3.  Select **Save**.
     The mobile card with the image and static text might look like this:
 
-    ![Mobile Card Builder empty state template](../image/empty-state-in-mcb.png)
+    ![Mobile Card Builder empty state template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/empty-state-in-mcb.png)
 
 10. Select the **Action** placeholder on the card, which adds a button to the screen, and then perform the following configurations:
 

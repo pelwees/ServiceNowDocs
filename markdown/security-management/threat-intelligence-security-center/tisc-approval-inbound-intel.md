@@ -45,12 +45,12 @@ Role required: sn\_sec\_tisc.admin
     -   One or more assigned approvers review the changes made by the analyst and choose to either approve or reject the request.
     -   After a decision is made, an email notification is sent to email addresses as configured in the corresponding inbound intelligence sharing profile, indicating whether the record has been approved or rejected.
 
-**Parent Topic:**[Exploring Inbound Intel Sharing](../concept/tisc-inbound-intel-sharing.md)
+**Parent Topic:**[Exploring Inbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-inbound-intel-sharing.md)
 
 **Related topics**  
 
 
-[Configuring Inbound Intel Sharing Profiles](tisc-config-inbound-profile.md)
+[Configuring Inbound Intel Sharing Profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-profile.md)
 
-[Configuring Inbound Intel Sharing Groups](tisc-config-inbound-groups.md)
+[Configuring Inbound Intel Sharing Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-groups.md)
 

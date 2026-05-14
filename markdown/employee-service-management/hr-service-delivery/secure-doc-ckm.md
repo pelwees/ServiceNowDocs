@@ -93,5 +93,5 @@ To grant access to a document based on group permissions:1.  Click **More**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Work an HR case](t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 

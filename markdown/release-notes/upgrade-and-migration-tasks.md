@@ -15,7 +15,7 @@ In preparation for your upgrade, review the upgrade and migration tasks for vari
 
 ## Prepare your instance for a smoother upgrade
 
-![Pre-upgrade tasks, upgrade, post-upgrade tasks](../image/upgrade-migration-tasks.png)
+![Pre-upgrade tasks, upgrade, post-upgrade tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/upgrade-migration-tasks.png)
 
 Before you upgrade to Australia, review these pre- and post-upgrade tasks and complete the tasks as needed.
 
@@ -3062,7 +3062,7 @@ Enterprise Asset Management
 
 Starting with Zurich release, a new menu, Asset put away, has been added to the ServiceNow Agent app navigation bar. When upgrading to the Zurich release, a fix script identifies whether the ServiceNow Agent app navigation bar was customized and takes the necessary action.
 
--   If the navigation bar wasn’t customized before the upgrade, a new Asset put away icon \(![Asset put away icon](../../image/asset-putaway-icon-ma.png)\) is included in the navigation bar
+-   If the navigation bar wasn’t customized before the upgrade, a new Asset put away icon \(![Asset put away icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../../image/asset-putaway-icon-ma.png)\) is included in the navigation bar
 -   If the navigation bar was customized before the upgrade, two navigation bars appear: Customized old IT Asset Management and IT Asset Management. The new icon appears in the IT Asset Management navigation bar.
 
 </td><td>
@@ -3140,7 +3140,7 @@ Hardware Asset Management
         -   If the impacted workflows were customized before the upgrade, the Workflow Studio flows are installed but aren’t executed for any of the impacted flows post-upgrade. You can view and access the impacted workflows in the instance after the upgrade. However, the deprecated workflows are considered custom code and aren’t supported for maintenance.
 -   After upgrading to the Zurich release, if an approval history record exists for a contract that is no longer required, reject the record instead of deleting it. If the approval history record is deleted, Workflow Studio doesn’t support updating the contract’s **Substate** field value to display the correct state.
 -   Starting with Zurich release, a new menu, Asset put away, has been added to the ServiceNow Agent app navigation bar. When upgrading to the Zurich release, a fix script identifies whether the ServiceNow Agent app navigation bar was customized and takes the necessary action.
-    -   If the navigation bar wasn’t customized before the upgrade, a new Asset put away icon \(![Asset put away icon](../../image/asset-putaway-icon-ma.png)\) is included in the navigation bar
+    -   If the navigation bar wasn’t customized before the upgrade, a new Asset put away icon \(![Asset put away icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../../image/asset-putaway-icon-ma.png)\) is included in the navigation bar
     -   If the navigation bar was customized before the upgrade, two navigation bars appear: Customized old IT Asset Management and IT Asset Management. The new icon appears in the IT Asset Management navigation bar.
 -   A new role, sn\_itam\_recomm.recommendations\_read, helps ensure that only valid users can execute APIs related to the Important Actions menu in the Asset Workspace. The following roles, which have access to the Asset Workspace, now include the sn\_itam\_recomm.recommendations\_read role:
     -   procurement\_user

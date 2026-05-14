@@ -37,5 +37,5 @@ Role required: sn\_esg.program\_manager
 
 If the material topic is approved, its state changes to Monitor. If the topic is rejected, the state changes to Draft.
 
-**Parent Topic:**[Create a material topic](create-material-topics.md)
+**Parent Topic:**[Create a material topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-material-topics.md)
 

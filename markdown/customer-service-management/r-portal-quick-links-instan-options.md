@@ -90,7 +90,7 @@ The default display style is Thumbnail.
 </table>**Related topics**  
 
 
-[Portal Quick Links widget](../concept/portal-quick-links-widget.md)
+[Portal Quick Links widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/portal-quick-links-widget.md)
 
-[Add and configure the Portal Quick Links widget](../task/config-portal-quick-links-widget-inst-optns.md)
+[Add and configure the Portal Quick Links widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-portal-quick-links-widget-inst-optns.md)
 

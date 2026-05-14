@@ -30,5 +30,5 @@ Role required: notify\_admin
     The account is disconnected from the instance. The system clears the **Account SID** and **Auth Token** fields and deactivates the list of associated phone numbers.
 
 
-**Parent Topic:**[Configure Notify with Twilio](t_ConfigureNotifyWithTwilio.md)
+**Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 

@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  Create a copy of the ModSec Bruteforce by IP Burst playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, select the more actions menu icon \(![More actions menu](../image/more-action-menu.png)\) and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, select the more actions menu icon \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png)\) and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the ModSec Brute force by IP Burst playbook.](../image/playbook-modsec-bruteforce-overview.png "ModSec Brute force by IP Burst playbook")
+    ![Overview of the ModSec Brute force by IP Burst playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-modsec-bruteforce-overview.png "ModSec Brute force by IP Burst playbook")
 
 4.  Activate the playbooks.
 
@@ -48,8 +48,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     -   **Category** is **Unauthorized access**.
     -   **Subcategory** is **Brute force password cracking attempts**.
-    ![Trigger condition for ModSec Brute force by IP Burst playbook.](../image/playbook-modsec-bruteforce-trigger.png "ModSec Brute force by IP Burst playbook trigger condition")
+    ![Trigger condition for ModSec Brute force by IP Burst playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-modsec-bruteforce-trigger.png "ModSec Brute force by IP Burst playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](../concept/playbook-modsec-bruteforce-ip.md)
+**Parent Topic:**[Playbook for ModSec Brute force by IP Burst](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-modsec-bruteforce-ip.md)
 

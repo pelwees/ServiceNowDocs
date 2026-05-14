@@ -46,7 +46,7 @@ The default email content is:
 
     3.  Modify only the indicated portion of the script.
 
-    ![Text to edit in the enrollment reminder script](../image/enrollment_reminder-script.png)
+    ![Text to edit in the enrollment reminder script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/enrollment_reminder-script.png)
 
 3.  To create a custom email template:
 
@@ -55,5 +55,5 @@ The default email content is:
     2.  Navigate to **Password Reset** &gt; **Properties** and enter the template name in the **Email template for enrollment reminder emails** field.
 
 
-**Parent Topic:**[Send email to remind users to enroll for Password Reset](config-pwd-reset-enroll-reminder.md)
+**Parent Topic:**[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-reset-enroll-reminder.md)
 

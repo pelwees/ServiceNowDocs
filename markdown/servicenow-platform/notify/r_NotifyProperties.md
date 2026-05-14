@@ -104,5 +104,5 @@ sn\_major\_inc\_mgmt.notify\_webrtc\_number
 Specify a valid Notify Number with voice capability. This will enable a specific Major Incident Management integration with Notify which allows Workbench users to directly call people from the browser.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Notify](installed-with-notify2.md)
+</table>**Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 

@@ -56,14 +56,14 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 5.  Click **Submit** \(core UI\) or **Save** \(Hardware Asset Workspaceand Enterprise Asset Workspace\).
 
 
-**Parent Topic:**[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+**Parent Topic:**[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../reference/ContractRateCardForm.md)
 
-[Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
+[Generating expense lines based on assets or users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_GenExpnsLinOnAssetsUsers.md)
 
-[View contract expense lines](t_ViewingContractExpenseLines.md)
+[View contract expense lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ViewingContractExpenseLines.md)
 

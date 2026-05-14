@@ -19,23 +19,23 @@ Enable requesters to chat with Google chat or live agents using the Google chat 
 
 <table id="table_d1q_ncp_sfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Conversational Integration with Google chat](exploring-ci-google-chat.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Conversational Integration with Google chat](exploring-ci-google-chat.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Install Conversational integration with Google chat.](install-ci-google-chat.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-root-cause-issue-resolution.svg)Install Conversational integration with Google chat.](install-ci-google-chat.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure your Conversational Integration with Google chat.](../task/integrating-va-google-chat.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure your Conversational Integration with Google chat.](../task/integrating-va-google-chat.md)
 
 </td></tr></tbody>
-</table>-   **[Exploring Conversational Integration with Google chat](exploring-ci-google-chat.md)**  
+</table>-   **[Exploring Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-ci-google-chat.md)**  
 Use the Conversational Integration with Google chat application to connect your end users with Virtual Agent or live agents through your Google chat account.
--   **[Install Conversational Integration with Google chat](install-ci-google-chat.md)**  
+-   **[Install Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-ci-google-chat.md)**  
 Activate the necessary plugins and Now Assist in Virtual Agent for Google chat
--   **[Configuring your Conversational Integration with Google chat](configure-va-google-chat.md)**  
+-   **[Configuring your Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-google-chat.md)**  
 Integrate the Now Virtual Agent bot or self-configured bot with Google chat.
 
-**Parent Topic:**[Integrating Virtual Agent with messaging apps](va-integration-messaging-apps.md)
+**Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 

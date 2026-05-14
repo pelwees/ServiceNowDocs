@@ -31,7 +31,7 @@ Outdated content refers to obsolete, invalid, or stale content that is no longed
 -   Manage content integrity and improve system performance.
 -   Gain visibility and optimize content operations.
 
-![See how the outdated connected content tab and interface looks](../images/outdated-connected-content-ui.png "Outdated connected content tab and interface")
+![See how the outdated connected content tab and interface looks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outdated-connected-content-ui.png "Outdated connected content tab and interface")
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Outdated content refers to obsolete, invalid, or stale content that is no longed
 
 4.  Go to the **Outdated Connected Content** tab to use the default conditions.
 
-    ![Outdated connected content count and default filters](../images/outdated-connected-content.png "Outdated Connected Content conditions")
+    ![Outdated connected content count and default filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/outdated-connected-content.png "Outdated Connected Content conditions")
 
 5.  Customize the filter conditions to suit your requirements.
 
@@ -82,10 +82,10 @@ Review and delete outdated content across all topics and taxonomies with an auto
 
 **Note:** When you delete, only the association with the topic and taxonomies is removed. The actual catalog item or the knowledge article is not deleted.
 
-For more information, see [Run the scheduled job for outdated content](may-scheduled-job-content-outdated.md).
+For more information, see [Run the scheduled job for outdated content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/may-scheduled-job-content-outdated.md).
 
--   **[Run the scheduled job for outdated content](may-scheduled-job-content-outdated.md)**  
+-   **[Run the scheduled job for outdated content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/may-scheduled-job-content-outdated.md)**  
 Auto-delete the outdated content by marking the schedule job active. Once the schedule job is active, all the outdated content is removed automatically.
 
-**Parent Topic:**[Taxonomy and connected content](../concept/track-new-content.md)
+**Parent Topic:**[Taxonomy and connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/track-new-content.md)
 

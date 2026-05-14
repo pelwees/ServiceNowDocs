@@ -152,10 +152,10 @@ Specification
 Specification that is associated with an install base item. Option that helps in fulfilling orders to create an install base item and its hierarchy.**Note:** The **Specification** field appears only to CSM agents, managers, and contributor persona.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Create an install base item](../concept/mco-create-install-base-item.md)
+[Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-create-install-base-item.md)
 

@@ -53,7 +53,7 @@ Manufacturer
 
 </td><td>
 
-Name of the network asset's manufacturer. Select the search icon \(![Search icon.](../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](../task/add-company-designate-manufacturer-tni.md).
+Name of the network asset's manufacturer. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/add-company-designate-manufacturer-tni.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ Product Model
 
 </td><td>
 
-Product model, if any, that is associated with this network asset. Select the search icon \(![Search icon.](../image/search.png)\) and select a product model.
+Product model, if any, that is associated with this network asset. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a product model.
 
 </td></tr><tr><td>
 
@@ -136,5 +136,5 @@ Serial number
 Assigned serial number for this network asset.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+</table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 

@@ -113,5 +113,5 @@ Additional user roles that can view the results and access records associated wi
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Assess risks](../concept/assess-risk-old-way.md)
+**Parent Topic:**[Assess risks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/assess-risk-old-way.md)
 

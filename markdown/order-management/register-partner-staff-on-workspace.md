@@ -31,7 +31,7 @@ The Enterprise Partner Relationship Manager \[sn\_prm.enterprise\_partner\_rel\_
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields on the Register member form, see [Member registration form](../reference/member-registration-form.md).
+    To learn more about the fields on the Register member form, see [Member registration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/member-registration-form.md).
 
 5.  Upload a file or document in the **Add attachments** section.
 
@@ -40,5 +40,5 @@ The Enterprise Partner Relationship Manager \[sn\_prm.enterprise\_partner\_rel\_
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Create Channel Partner record](create-channel-partner-record.md)
+**Parent Topic:**[Create Channel Partner record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)
 

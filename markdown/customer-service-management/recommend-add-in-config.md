@@ -34,8 +34,8 @@ Role required: sn\_customerservice.contact\_manager and sn\_customerservice.prox
 
 5.  Install the ServiceNow Add-in for Microsoft Outlook add-in.
 
-    Follow the procedure in [Install the ServiceNow Add-in for Microsoft Outlook](install-servicenow-outlook.md).
+    Follow the procedure in [Install the ServiceNow Add-in for Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/install-servicenow-outlook.md).
 
-    The ServiceNow for CSM/ITSM icon appears in the header and users can view both the CSM and ITSM tasks through it. ![The ServiceNow for CSM/ITSM add-in icon to create incidents, VTB tasks, or contacts.](../image/outlook-itsm-csm-tasks.png)
+    The ServiceNow for CSM/ITSM icon appears in the header and users can view both the CSM and ITSM tasks through it. ![The ServiceNow for CSM/ITSM add-in icon to create incidents, VTB tasks, or contacts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/outlook-itsm-csm-tasks.png)
 
 

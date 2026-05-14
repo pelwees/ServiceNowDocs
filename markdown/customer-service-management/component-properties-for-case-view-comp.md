@@ -167,11 +167,11 @@ Option to show or hide error messages for the end user on the third-party websit
 </table>**Related topics**  
 
 
-[Configure the Case view component instance](../task/configure-case-view-component-on-instance.md)
+[Configure the Case view component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-case-view-component-on-instance.md)
 
-[Embed the Case view component instance on the third-party website](../task/embed-case-view-comp-on-third-party-website.md)
+[Embed the Case view component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-case-view-comp-on-third-party-website.md)
 
-[Event handler in the enhanced Case view component](we-case-view-event-handler.md)
+[Event handler in the enhanced Case view component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-view-event-handler.md)
 
-[Sample code to handle the Case view component](we-case-view-sample-code.md)
+[Sample code to handle the Case view component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-case-view-sample-code.md)
 

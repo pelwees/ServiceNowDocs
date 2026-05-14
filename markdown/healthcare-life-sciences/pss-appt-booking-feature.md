@@ -26,5 +26,5 @@ The appointment booking feature in the Patient Support Services application uses
 3.  The training task is automatically assigned to the Nurse Training Support assignment group and a nurse educator who is a member of the Nurse Training Support assignment group works on the task.
 4.  The nurse educator then conducts the training for the patient based on the scheduled appointment dates and updates the state of the training task in Workspace. The nurse educator can access the training checklist, complete the checklist during the training, and capture notes in the task.
 
-To get started on the appointment booking feature, see [Configuring an appointment booking setting for Patient Support Services](pss-appt-booking-setup.md#).
+To get started on the appointment booking feature, see [Configuring an appointment booking setting for Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-setup.md#).
 

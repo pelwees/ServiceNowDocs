@@ -22,7 +22,7 @@ Role required: sp\_admin, taxonomy\_manager, or taxonomy\_admin
 
 ## About this task
 
-You can associate quick links to topics in a taxonomy or to the Employee Center and Employee Center Pro home pages. For more information, see [EC Information architecture](../concept/ec-information-architecture.md).
+You can associate quick links to topics in a taxonomy or to the Employee Center and Employee Center Pro home pages. For more information, see [EC Information architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-information-architecture.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ You can associate quick links to topics in a taxonomy or to the Employee Center 
 
 3.  On the form, fill in the fields.
 
-    For more information about the form fields and descriptions, see [Quick Link form](../reference/ec-quick-link-form.md).
+    For more information about the form fields and descriptions, see [Quick Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/ec-quick-link-form.md).
 
 4.  Click **Save** or **Submit**.
 
@@ -43,30 +43,30 @@ You can associate quick links to topics in a taxonomy or to the Employee Center 
 
 If you click **Save**, the **Assigned Topics** and **Available For**tabs appear.
 
--   Assign topics to the quick links. For more information on assigning topics to a quick link, see [Assign topics to a quick link](assign-topics-to-quick-links.md).
--   Restrict access to quick links. For more information on restricting access to a quick link, see [Restrict access to a quick link](restrict-access-to-quick-links.md).
+-   Assign topics to the quick links. For more information on assigning topics to a quick link, see [Assign topics to a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/assign-topics-to-quick-links.md).
+-   Restrict access to quick links. For more information on restricting access to a quick link, see [Restrict access to a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/restrict-access-to-quick-links.md).
 
-Users with the sp\_admin role can add quick links to a home page using the quick links widget instance options. For more information, see [Modify the Quick links widget display](config-quick-links-widget.md).
+Users with the sp\_admin role can add quick links to a home page using the quick links widget instance options. For more information, see [Modify the Quick links widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-quick-links-widget.md).
 
 **Note:** The background image for quick link is now visible to external users.
 
--   **[Assign topics to a quick link](assign-topics-to-quick-links.md)**  
+-   **[Assign topics to a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/assign-topics-to-quick-links.md)**  
 After you create a quick link, you can assign topics to the quick link. The quick link content is then displayed in the assigned topic in the Employee Center and Employee Center Pro.
--   **[Restrict access to a quick link](restrict-access-to-quick-links.md)**  
+-   **[Restrict access to a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/restrict-access-to-quick-links.md)**  
 Restrict access to quick links by setting the user criteria, which allows access only to specific users, groups, roles, and more.
 
-**Parent Topic:**[Quick links](../concept/emp-center-quick-link-config.md)
+**Parent Topic:**[Quick links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-quick-link-config.md)
 
 **Related topics**  
 
 
-[Create an external link](create-external-links.md)
+[Create an external link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-external-links.md)
 
-[Modify the Quick links widget display](config-quick-links-widget.md)
+[Modify the Quick links widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-quick-links-widget.md)
 
-[Modify the Quick links widget display](config-quick-links-widget.md)
+[Modify the Quick links widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-quick-links-widget.md)
 
-[Create an external link](create-external-links.md)
+[Create an external link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-external-links.md)
 
-[Guided Self-Service in Employee Center](../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/gss-guided-self-service-overview.md)
 

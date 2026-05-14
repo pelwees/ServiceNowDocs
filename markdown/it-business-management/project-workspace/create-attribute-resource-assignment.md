@@ -21,7 +21,7 @@ Role required: pps\_admin or it\_project\_manager
 
 ## Procedure
 
-1.  [Create a planning attribute](../../project-management/task/configure-planning-attributes.md#).
+1.  [Create a planning attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/task/configure-planning-attributes.md#).
 
     **Note:** If the assignment is attribute-based, then the assignment is created in the Unassigned state. You should have the pps\_admin role to configure the planning attributes.
 
@@ -48,5 +48,5 @@ A resource assignment record for an attribute is created and auto-saved.
 
 **Note:** The **Primary group**, **Primary skill**, and **Primary role** attributes can be enabled for the Resource Management. You can create more attributes based on your requirement.
 
-**Parent Topic:**[Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)
+**Parent Topic:**[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md)
 

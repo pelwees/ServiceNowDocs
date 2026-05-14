@@ -64,13 +64,13 @@ Enter the **Name** and **Description**.
 
         You can view static and phase-specific note sections under **Notes**. Static notes display for the selected capability regardless of the phase in which they are added.
 
-        ![Select Notes to view the static and phase specific notes for a capability.](../image/capability-notes-pars.png)
+        ![Select Notes to view the static and phase specific notes for a capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/capability-notes-pars.png)
 
     2.  Select **Notes specific to this phase** to display additional information tailored for the capability and phase including prerequisites, features, training, and planned activities.
 
         You can find resources related to adopting the capability under **Related Resources**.
 
-        ![View notes specific to this phase.](../image/Pars-notes-specific-to-phase.png)
+        ![View notes specific to this phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/Pars-notes-specific-to-phase.png)
 
     3.  Select **Start an initiative** to create an initiative specific to this capability.
 
@@ -84,7 +84,7 @@ Enter the **Name** and **Description**.
 
     2.  To edit phase titles and descriptions, select **Edit titles/descriptions**.
 
-    ![Modify a phase using the ellipsis icon next to a capability.](../image/Pars-roadmap-Phase-options.png)
+    ![Modify a phase using the ellipsis icon next to a capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/Pars-roadmap-Phase-options.png)
 
 10. Select **Publish**.
 

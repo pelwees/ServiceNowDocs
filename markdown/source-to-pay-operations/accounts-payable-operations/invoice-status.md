@@ -90,7 +90,7 @@ Exceptions found
 
 </td><td>
 
-An invoice is updated with the status Exceptions found, when it finds any one or more of the exceptions that were defined in Accounts Payable Operations. For more information on exceptions, see [Invoice exceptions](../concept/work-with-invoice-exceptions.md).
+An invoice is updated with the status Exceptions found, when it finds any one or more of the exceptions that were defined in Accounts Payable Operations. For more information on exceptions, see [Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-invoice-exceptions.md).
 
 </td></tr><tr><td>
 
@@ -158,5 +158,5 @@ Paid
 After the invoice is posted to ERP and paid in the ERP, the payment is posted back to Accounts Payable Operations without integration error. Then, the invoice moves to **Paid** State.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create New Invoice case form](create-new-ap-case-form.md)
+</table>**Parent Topic:**[Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 

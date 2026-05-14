@@ -27,7 +27,7 @@ The ServiceNow AI Platform configuration tree shows your selected record as the 
 
 -   **Display indicators**
 
-    As you work on records, indicators display on the configuration tree. A red indicator \(![Red indicator in configuration tree](../image/mab-red-indicator.png)\) shows that there are required fields that must be populated, before saving your changes. An orange indicator \(![Orange indicator in configuration tree](../image/mab-orange-indicator.png)\) shows that records have been edited but not yet saved.
+    As you work on records, indicators display on the configuration tree. A red indicator \(![Red indicator in configuration tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-red-indicator.png)\) shows that there are required fields that must be populated, before saving your changes. An orange indicator \(![Orange indicator in configuration tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-orange-indicator.png)\) shows that records have been edited but not yet saved.
 
     **Note:** The red and orange indicators are displayed on the right side of the hierarchical tree. This means that for a hierarchical tree with many levels of child records, the indicators may not be immediately visible. Either use the horizontal and vertical scroll bars. Alternatively, use the resize panel controller, which exists between the ServiceNow AI Platform configuration tree panel and the configuration panel.
 
@@ -41,11 +41,11 @@ Resize panel controller
 
 </th></tr></thead><tbody><tr><td>
 
-![Configuration tree within the record screen.](../image/mab-config-tree.png)
+![Configuration tree within the record screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-config-tree.png)
 
 </td><td>
 
-![Panel controller for expanding and decreasing the size of configuration panel.](../image/mab-panel-controller.png)
+![Panel controller for expanding and decreasing the size of configuration panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-panel-controller.png)
 
 </td></tr></tbody>
 </table>

@@ -21,7 +21,7 @@ Role required: sp\_admin
 
 ## About this task
 
-Using the app launcher in Employee Center Pro, You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](../concept/web-application-employee-about.md).
+Using the app launcher in Employee Center Pro, You can provide one-click access to the applications and configure the instance options to control the appearance of the widget, such as the icon and description. For more information, see [App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/web-application-employee-about.md).
 
 ## Procedure
 
@@ -63,7 +63,7 @@ Card display view
 
 </td><td>
 
-Display view preference of the card. Either the app icon or the title is required with other options.![Web application instance options](../images/instance-option-webapp.png "Instance options for web applications")
+Display view preference of the card. Either the app icon or the title is required with other options.![Web application instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/instance-option-webapp.png "Instance options for web applications")
 
 -   Icon, Title, Description
 -   Icon, Title

@@ -41,12 +41,12 @@ Role required: admin
 
 The asset is excluded from using the licensed Hardware Asset Management features.
 
-**Parent Topic:**[Manage Hardware Asset Management subscriptions](../concept/managing-ham-subscriptions.md)
+**Parent Topic:**[Manage Hardware Asset Management subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/managing-ham-subscriptions.md)
 
 **Related topics**  
 
 
-[Opt-in or opt-out of HAM license resource categories](optin-optout-ham-license-resource-categories.md)
+[Opt-in or opt-out of HAM license resource categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/optin-optout-ham-license-resource-categories.md)
 
-[View the license report for the Hardware Asset Management application](view-license-report-ham.md)
+[View the license report for the Hardware Asset Management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-license-report-ham.md)
 

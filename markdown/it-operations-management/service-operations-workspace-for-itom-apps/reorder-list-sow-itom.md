@@ -23,18 +23,18 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select the **My Lists** tab.
 
-    ![Reorder lists](../image/sow-reorder-list.png)
+    ![Reorder lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-reorder-list.png)
 
 4.  Select the list you want to reorder.
 
 5.  Select **Reorder** to adjust the position of the list.
 
-    ![Reorder lists](../image/sow-reorder-list.png)
+    ![Reorder lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-reorder-list.png)
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

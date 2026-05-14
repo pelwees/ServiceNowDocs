@@ -24,5 +24,5 @@ For example, consider the parent-child relationships for a UI policy.
 -   UI policy actions have a parent UI policy and a grandparent application table.
 -   The UI policy actions and the UI policy are all descendants of the application table.
 
-![Relationships in a sample configuration record](../image/SampleConfigurationRecordRelationships.png "Sample configuration record relationships")
+![Relationships in a sample configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/SampleConfigurationRecordRelationships.png "Sample configuration record relationships")
 

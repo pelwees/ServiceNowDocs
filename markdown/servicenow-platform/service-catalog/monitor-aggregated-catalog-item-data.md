@@ -29,9 +29,9 @@ The Catalog item translation coverage graph is displayed only if you have enable
 |Catalog item fulfillment automation coverage|Vertical bar graph representing the count of fulfillment automation coverage of catalog items. It specifies whether items are fully automated, semi-automated, manual, unspecified, or empty.|
 |Catalog item translation coverage|Vertical bar graph representing the count of the translation status of catalog items. It specifies whether items are completely translated, partially translated, not translated, or in-progress.|
 
-![Service Catalog Overview dashboard](../image/sc-overview-dashboard.png)
+![Service Catalog Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/sc-overview-dashboard.png)
 
-**Parent Topic:**[Service Catalog items](../concept/c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_IntroductionToCatalogItems.md)
 
 **Related topics**  
 

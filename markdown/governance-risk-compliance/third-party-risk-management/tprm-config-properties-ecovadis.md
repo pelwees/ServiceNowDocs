@@ -17,7 +17,7 @@ You can optionally customize the default values of the sn\_ecovadis.token\_uri a
 
 ## Before you begin
 
-Create an EcoVadis connection and configuration. For more information, see [Create an EcoVadis connection and configuration](tprm-config-connection-ecovadis.md).
+Create an EcoVadis connection and configuration. For more information, see [Create an EcoVadis connection and configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-config-connection-ecovadis.md).
 
 Role required: admin
 
@@ -39,5 +39,5 @@ Role required: admin
     The Vendor Risk Management integration with EcoVadis application \[com.sn\_app\_grc\_ecovadis\] is updated and ready for use.
 
 
-**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](../concept/tprm-integrating-ecovadis.md)
+**Parent Topic:**[Integrating EcoVadis with Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-integrating-ecovadis.md)
 

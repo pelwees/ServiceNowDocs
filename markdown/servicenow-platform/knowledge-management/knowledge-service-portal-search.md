@@ -100,7 +100,7 @@ Use filter facets to refine your search results. The selections you make filter 
 -   Resource: lists the types of items available, such as knowledge articles
 -   Rating: lists article ratings from 0-5 stars \(clicking a rating displays articles that have the selected rating and higher\)
 -   Last Modified: lists selections based on the timing of knowledge item modifications such as Past Month or Past Week
--   View Count: lists the knowledge item view counts such as More Than 50 or Less Than 10. Set the number of days to consider when calculating view count using the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](../reference/r_KnowledgeProperties.md#).
+-   View Count: lists the knowledge item view counts such as More Than 50 or Less Than 10. Set the number of days to consider when calculating view count using the **glide.knowman.view\_age.days** property. For more information on this property, see [Knowledge portal properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#).
 
 </td></tr><tr><td>
 
@@ -124,5 +124,5 @@ Depending on the system setup, view additional search results using one of these
 
 The search functionality in Knowledge Management Service Portal pages uses the **Knowledge Base Search** search context to fetch results. As an administrator, you must not update the definition of this search context because it may impact the search behavior. For more information about contextual search, see [Contextual search concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/contextual-search-concepts.md).
 
-**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 

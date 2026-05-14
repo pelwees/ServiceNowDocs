@@ -107,7 +107,7 @@ Tables organize data into rows and columns for easy reference:-   Collection of 
 
 </td></tr><tr><td>
 
-[Workspace Builder](../../workspace-builder/concept/workspace-builder-landing.md)
+[Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../workspace-builder/concept/workspace-builder-landing.md)
 
 </td><td>
 
@@ -118,5 +118,5 @@ sys\_ux\_page\_registry
 A targeted experience for an application that includes data visualizations and other user experience components to allow a user to interact with an application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[App generation reference](../concept/sns-app-gen-reference-landing.md)
+</table>**Parent Topic:**[App generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../concept/sns-app-gen-reference-landing.md)
 

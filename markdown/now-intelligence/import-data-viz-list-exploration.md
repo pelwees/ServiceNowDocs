@@ -29,7 +29,7 @@ Add an existing visualization to highlight an insight, add context to your explo
 
 3.  Hide the explorations list.
 
-    ![The hide list button.](../image/nowass-explore-hide-list.png)
+    ![The hide list button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-explore-hide-list.png)
 
 4.  Open a new browser tab and navigate to the workspace page or dashboard that contains the desired data visualization or list, or to the data visualization library.
 
@@ -39,15 +39,15 @@ Add an existing visualization to highlight an insight, add context to your explo
 
     These filter values apply to the imported data visualization or list.
 
-6.  Locate, and if necessary open, the data visualization or list and select the Explore with AI icon ![Explore with AI icon](../image/analyze-ai-icon.png).
+6.  Locate, and if necessary open, the data visualization or list and select the Explore with AI icon ![Explore with AI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/analyze-ai-icon.png).
 
-    ![Data visualization tile with Explore with AI button highlighted.](../image/explore-icon-dv-tile.png)
+    ![Data visualization tile with Explore with AI button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/explore-icon-dv-tile.png)
 
-    **Note:** If the data visualization shows data from a protected scope that is not supported in Query Generation and AI Data Explorer, there is no Explore with AI icon. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](../concept/enable-aide-secure-scope-apps.md).
+    **Note:** If the data visualization shows data from a protected scope that is not supported in Query Generation and AI Data Explorer, there is no Explore with AI icon. For more information, see [Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/enable-aide-secure-scope-apps.md).
 
 7.  From the Explore options, select **Add to exploration**.
 
-    ![The Add to exploration option in the Explore dialog.](../image/explore-options-add2expl.png)
+    ![The Add to exploration option in the Explore dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/explore-options-add2expl.png)
 
     If the data visualization shows data from multiple protected scopes, there is no option to add the visualization to an exploration.
 
@@ -62,5 +62,5 @@ Add an existing visualization to highlight an insight, add context to your explo
 
 The exploration opens in a dialog in the tab that you are in. The list or data visualization is added to the end of the exploration. You can add more lists or data visualizations. When you select **Add to exploration**, the list or data visualization is automatically added to the open exploration.
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/use-now-assist-explorer.md)
 

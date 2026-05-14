@@ -23,9 +23,9 @@ As a onboarding agent \(sn\_acct\_lc\_agent\), you can use this page to quickly 
 
 For each of the cards, historical data trend for the last 3 months is also displayed.
 
-![Account Lifecycle Events - Onboarding page](../image/account-lifecycle-landing.png)
+![Account Lifecycle Events - Onboarding page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-landing.png)
 
 Select a score card to view a list of records that match the appropriate filter condition. You can drill down to the record page of the case, task, or risk signal to view additional details.
 
-**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use.md)
 

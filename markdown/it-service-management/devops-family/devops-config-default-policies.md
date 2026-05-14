@@ -22,15 +22,15 @@ Select a category to view the DevOps Config policies available within the catego
 
 <table id="table_rm3_3ch_wxb" class="nav-card"><tbody><tr><td>
 
-[Generic![](../image/devops-config-policy-compliance.png)](devops-config-gen-policies.md)
+[Generic![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-policy-compliance.png)](devops-config-gen-policies.md)
 
 </td><td>
 
-[Kubernetes![](../image/devops-config-kubernetes-logo.png)](devops-config-k8s-policies.md)
+[Kubernetes![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-kubernetes-logo.png)](devops-config-k8s-policies.md)
 
 </td></tr><tr><td>
 
-[Red Hat OpenShift![](../image/devops-config-redhat-logo.png)](devops-config-os-policies.md)
+[Red Hat OpenShift![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-redhat-logo.png)](devops-config-os-policies.md)
 
 </td><td>
 

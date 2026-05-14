@@ -73,7 +73,7 @@ Category
 
 </td><td>
 
-[Stored cryptography](sc-stored-cryptography.md)
+[Stored cryptography](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)
 
 </td></tr><tr><td>
 
@@ -91,8 +91,8 @@ References
 
 </td><td>
 
-[Password2 encryption with the Key Management Framework \(KMF\)](../../key-management-framework/concept/password-2way-encrypted-fields.md)
+[Password2 encryption with the Key Management Framework \(KMF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../key-management-framework/concept/password-2way-encrypted-fields.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Stored cryptography](sc-stored-cryptography.md)
+</table>**Parent Topic:**[Stored cryptography](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)
 

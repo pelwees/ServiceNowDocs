@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the List icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/lsd-lcc-list-icon.png)\).
 
 3.  Open the list of legal requests or legal matters.
 
@@ -102,5 +102,5 @@ Options for including additional comments and attachments from the legal ticket 
 -   The legal ticket is transferred to the selected department.
 -   The legal ticket no longer remains a primary ticket for the universal request.
 
-**Parent Topic:**[Universal Request for Legal Service Delivery](../concept/universal-requests-legal.md)
+**Parent Topic:**[Universal Request for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/universal-requests-legal.md)
 

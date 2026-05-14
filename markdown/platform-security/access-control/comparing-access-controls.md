@@ -31,7 +31,7 @@ The following procedure describes the steps for comparing the access control bet
 
 3.  Fill in the following fields:
 
-    ![Compare user access](../images/comparing-access-controls.png)
+    ![Compare user access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-access-controls.png)
 
 <table id="table_urw_xh5_szb"><thead><tr><th>
 
@@ -94,7 +94,7 @@ Specify a field name to select from the list.
 
     The **Compare &lt;user 1&gt; to &lt;user 2&gt;: access controls** results show the operation and the access evaluation status for the users. For example, Abel Tuter and ITIL User.
 
-    ![Compare user access results](../images/comparing-access-controls-results.png)
+    ![Compare user access results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-access-controls-results.png)
 
 5.  Click an **Operation** in the list for details about the permission evaluation and assigned roles.
 
@@ -102,17 +102,17 @@ Specify a field name to select from the list.
 
 6.  Select any of the **Access Control** to know more about the access.
 
-    ![ACL details](../images/comparing-access-controls-operation.png)
+    ![ACL details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-access-controls-operation.png)
 
     Access Control details are shown such as Roles, Security Attribute, Condition, and Script evaluation status.
 
-    ![ACL details](../images/comparing-access-controls-details.png)
+    ![ACL details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-access-controls-details.png)
 
 7.  Click **Show role Hierarchy** to show the current roles and groups both users are assigned to.
 
     Based on the **Role hierarchy**, you can assign the necessary role and group assignments to the user to have access to the resources \(table\).
 
-    ![Role or group details](../images/comparing-access-controls-role-details.png)
+    ![Role or group details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/comparing-access-controls-role-details.png)
 
     In the example, **Abel Tuter** doesn't have `itil` assigned.
 

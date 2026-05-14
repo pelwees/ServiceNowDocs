@@ -17,7 +17,7 @@ View the Reserved Instances \(RI\) report, implement recommendations, and config
 
 You can filter by payment option, term, and look back period to view specific results for the Reserved Instances report.
 
-![Reservation/Saving plans in Operations view.](../image/reservation-ws.png)
+![Reservation/Saving plans in Operations view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/reservation-ws.png)
 
 |Chart|Description|
 |-----|-----------|
@@ -79,9 +79,9 @@ Accept
 
 Google Cloud recommendations are updated periodically and might not show the latest suggestions until the console is manually refreshed. In contrast, Cloud Cost Management fetches recommendations via API, ensuring it has the most current data. This difference can sometimes cause Google Cloud RI recommendations in Cloud Cost Management to diverge from what's shown in the Google Cloud console. A manual refresh is required to see the latest recommendations.
 
-You can also [configure Reservation/Saving plans operations](reserve-plan-using.md#) by selecting **Settings**.
+You can also [configure Reservation/Saving plans operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/reserve-plan-using.md#) by selecting **Settings**.
 
-**Parent Topic:**[Using Cloud Cost Management](using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
 ## Configure Reservation/Saving plans operations
 

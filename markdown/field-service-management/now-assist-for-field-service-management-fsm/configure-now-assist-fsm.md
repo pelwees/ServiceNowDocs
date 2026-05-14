@@ -53,7 +53,7 @@ The ServiceNow® large language model \(Now LLM Service\) is currently the only 
 
 7.  Select the inputs or triggers for the selected skill.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](../concept/now-assist-fsm-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../concept/now-assist-fsm-skill-inputs.md).
 
 8.  After you've configured the inputs or triggers for the selected skill, select **Save and continue** to go to the next step.
 
@@ -77,7 +77,7 @@ The ServiceNow® large language model \(Now LLM Service\) is currently the only 
 
 14. Configure the Generate closure notes UI actions.
 
-    To complete activation for the work order task summarization skill, you must enable the Generate closure notes UI actions for the Close complete and Close incomplete states. For more information, see [Configure the Generate closure notes UI action](configure-close-ui-actions.md).
+    To complete activation for the work order task summarization skill, you must enable the Generate closure notes UI actions for the Close complete and Close incomplete states. For more information, see [Configure the Generate closure notes UI action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/configure-close-ui-actions.md).
 
 
 **Related topics**  

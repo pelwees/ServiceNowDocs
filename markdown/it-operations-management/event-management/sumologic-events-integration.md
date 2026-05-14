@@ -79,8 +79,8 @@ Configure the Event Management environment for the collection of events from Sum
     |ResolvedCritical/ResolvedWarning/ResolvedMissingData|Clear|
 
 
--   **[Integrate Sumo Logic with REST API key token](integrate-sumologic-api-key.md)**  
+-   **[Integrate Sumo Logic with REST API key token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/integrate-sumologic-api-key.md)**  
 Integrate using an API key to establish secure communication and automate data exchange via REST API. This simplifies integration, enabling seamless access to services and enhancing operational efficiency.
 
-**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 

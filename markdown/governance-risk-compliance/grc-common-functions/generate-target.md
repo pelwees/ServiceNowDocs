@@ -45,5 +45,5 @@ Role required: admin, sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.s
     3.  Confirm that the target appears in the list.
 
 
-**Parent Topic:**[Align and prioritize cybersecurity activities](../concept/align-prioritize-activities.md)
+**Parent Topic:**[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/align-prioritize-activities.md)
 

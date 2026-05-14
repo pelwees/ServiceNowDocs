@@ -142,5 +142,5 @@ ServiceNow Studio is a ServiceNow AI Platform feature that is active by default.
     Integrate workflow authoring, configuring, and monitoring into a single-page experience within ServiceNow Studio.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

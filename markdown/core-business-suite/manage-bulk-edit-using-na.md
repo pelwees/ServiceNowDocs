@@ -17,8 +17,8 @@ Edit records in bulk for Core Business Suite business units through the Now Assi
 
 Ensure that the following are activated:
 
--   AI search \([Activate AI Search](activate-ai-search.md)\)
--   Now Assist panel \([Activate Now Assist panel](enable-now-assist-panel.md)\)
+-   AI search \([Activate AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/activate-ai-search.md)\)
+-   Now Assist panel \([Activate Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/enable-now-assist-panel.md)\)
 
 Role required: admin, sn\_cbs.admin
 
@@ -78,5 +78,5 @@ Role required: admin, sn\_cbs.admin
 16. Refresh the Core Business Suite Configuration Console to verify that the records are updated successfully.
 
 
-**Parent Topic:**[Now Assist for Core Business Suite](../concept/now-assist-cbs.md)
+**Parent Topic:**[Now Assist for Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/now-assist-cbs.md)
 

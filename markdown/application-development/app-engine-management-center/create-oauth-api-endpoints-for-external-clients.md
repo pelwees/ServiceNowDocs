@@ -154,5 +154,5 @@ Redirect URLs
 
 ## What to do next
 
-Follow the steps in [Create third-party OAuth provider records](create-third-party-oauth-provider-records.md) on the specified instances.
+Follow the steps in [Create third-party OAuth provider records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/create-third-party-oauth-provider-records.md) on the specified instances.
 

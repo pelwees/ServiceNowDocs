@@ -30,7 +30,7 @@ Once the connection is activated and validated, an information message is displa
 
 2.  Select **Slack** to open the Slack chat provider configuration.
 
-    ![Slack Chat Provider Configuration](../image/msim-provider-config-slack.png "Slack Chat Provider Configuration")
+    ![Slack Chat Provider Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-provider-config-slack.png "Slack Chat Provider Configuration")
 
 3.  Select **Download Slack manifest** to download the `slack_manifest.json` file.
 
@@ -121,5 +121,5 @@ Once the connection is activated and validated, an information message is displa
     4.  Select **Save**.
 
 
-**Parent Topic:**[Configure Slack chat connector for major security incidents](../concept/configure-slack-chat-connector-msi.md)
+**Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-slack-chat-connector-msi.md)
 

@@ -17,7 +17,7 @@ Commit changes made in your application in ServiceNow Studio to a linked Git rep
 
 ## Before you begin
 
-[Link an app to source control in ServiceNow Studio](link-app-to-source-control.md)
+[Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md)
 
 Role required: admin
 
@@ -35,7 +35,7 @@ Role required: admin
 
 5.  Select the file changes you want to commit.
 
-    ![Select the changes you want to commit.](../image/sn-studio-commit-to-repo.png)
+    ![Select the changes you want to commit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-commit-to-repo.png)
 
 6.  To include untracked changes, select the **Include changes not tracked via the Customer Update \[sys\_update\_xml\] table** check box.
 
@@ -50,7 +50,7 @@ Role required: admin
 
     Commits always occur in **include\_untracked** mode in the following cases:
 
-    -   Linking to source control for the first time. For more information, see [Link an app to source control in ServiceNow Studio](link-app-to-source-control.md).
+    -   Linking to source control for the first time. For more information, see [Link an app to source control in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/link-app-to-source-control.md).
     -   Publishing an application that's linked to source control from ServiceNow Studio.
     -   Disabling selective commit mode.
 7.  Select **Continue**.
@@ -69,5 +69,5 @@ The following operations occur:
 
 **Note:** For list of known files that don’t have customer update records and are untracked, see [Customer Updates table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CustomerUpdatesTable.md).
 
-**Parent Topic:**[Work with changes in Git](../concept/sns-sc-work-with-changes-in-git.md)
+**Parent Topic:**[Work with changes in Git](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/sns-sc-work-with-changes-in-git.md)
 

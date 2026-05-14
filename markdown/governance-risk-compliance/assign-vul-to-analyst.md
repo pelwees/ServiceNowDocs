@@ -31,7 +31,7 @@ Administrators of the Operational Resilience Workspace can assign a reported vul
 
     Details on the form are shown in the example.
 
-    ![Details.](../image/op-vul-saved.png)
+    ![Details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/op-vul-saved.png)
 
 4.  Select **Save**.
 

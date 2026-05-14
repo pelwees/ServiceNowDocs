@@ -15,7 +15,7 @@ breadcrumb: [Release dashboards, Explore, Digital Product Release, IT Service Ma
 
 The Release Overview dashboard for a multi-product release provides an overview of all the information about every product release, which the product team can use to assess the release readiness.
 
-![Release dashboard provides high-level information for all the product releases in a multi-product release.](../image/dpr-release-dashboard-multi.png)
+![Release dashboard provides high-level information for all the product releases in a multi-product release.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-dashboard-multi.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -23,7 +23,7 @@ sn\_dpr\_model.product\_manager, sn\_dpr\_model.release\_admin, sn\_dpr\_model.r
 
 ## Access the Release Overview dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\) and then select a multi-product release from the Releases list. Select **All products** in the **View by** to view the Release dashboard.
+To open the dashboard, navigate to **Workspaces** &gt; **Digital Product Release Workspace**. Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\) and then select a multi-product release from the Releases list. Select **All products** in the **View by** to view the Release dashboard.
 
 ## Widgets
 
@@ -94,14 +94,14 @@ Enhancements
 Number of enhancements across all releases.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Product Release dashboards](dpr-dashboard-release.md)
+</table>**Parent Topic:**[Digital Product Release dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-dashboard-release.md)
 
 **Related topics**  
 
 
-[Release Overview dashboard](dpr-release-overview-dashboard.md)
+[Release Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-overview-dashboard.md)
 
-[Release Quality dashboard](dpr-release-quality-dashboard.md)
+[Release Quality dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-quality-dashboard.md)
 
-[Release Overview dashboard for a multi-product release](dpr-release-overview-dashboard-multi.md)
+[Release Overview dashboard for a multi-product release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-overview-dashboard-multi.md)
 

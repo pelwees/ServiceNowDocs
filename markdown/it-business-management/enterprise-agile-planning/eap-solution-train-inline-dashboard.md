@@ -15,9 +15,9 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 The Solution Train dashboard provides a snapshot of teams' work assignment status such as capabilities, work items, and team performance.
 
-![Solution train inline dashboard](../images/eap-solution-train-dashboard.png)
+![Solution train inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-solution-train-dashboard.png)
 
-You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](configuring-eap-dashboard.md).
+You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configuring-eap-dashboard.md).
 
 ## Required EAP roles
 
@@ -77,7 +77,7 @@ Capabilities by state
 
 Bar graph
 
-![Capabilities grouped by their current state.](../../../use/reporting/image/inline-data-vis-bar-column.png)
+![Capabilities grouped by their current state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-bar-column.png)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Work item distribution
 
 Donut
 
-![Distribution of work items.](../../../use/reporting/image/inline-data-vis-96px-donut.png)
+![Distribution of work items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-donut.png)
 
 </td><td>
 
@@ -117,7 +117,7 @@ Team performance
 
 List
 
-![Evaluating child teams progress.](../../../use/reporting/image/inline-data-vis-list.png)
+![Evaluating child teams progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-list.png)
 
 </td><td>
 
@@ -127,7 +127,7 @@ sn\_apw\_advanced\_eap\_iteration
 
 Evaluate child teams progress and help them enhance their performance.
 
- You can choose and rearrange the columns of the report by selecting the ![Rearrange the columns.](../../../reuse/icons/product-icons/gear-outline-24.svg) icon.
+ You can choose and rearrange the columns of the report by selecting the ![Rearrange the columns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/product-icons/gear-outline-24.svg) icon.
 
 </td></tr></tbody>
 </table>

@@ -33,8 +33,8 @@ Role required: sn\_hr\_wfo.admin
 
 6.  Create a course catalog.
 
-    For more information, see [Create a course catalog](create-course-catalog.md).
+    For more information, see [Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-course-catalog.md).
 
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/learning-wfo-hr.md)
 

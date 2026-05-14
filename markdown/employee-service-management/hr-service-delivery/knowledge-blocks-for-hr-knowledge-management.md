@@ -61,7 +61,7 @@ To use knowledge blocks in your application, you must [activate knowledge blocks
 
 **Note:** Activating knowledge blocks automatically activates Knowledge Management Advanced, which enables advanced features such as article versioning. Knowledge blocks can be used with or without the article versioning feature. To disable the feature, see [Disable the article versioning feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-disable-property.md).
 
-**Parent Topic:**[HR Knowledge Management](hr-knowledge-management.md)
+**Parent Topic:**[HR Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-knowledge-management.md)
 
 **Related topics**  
 

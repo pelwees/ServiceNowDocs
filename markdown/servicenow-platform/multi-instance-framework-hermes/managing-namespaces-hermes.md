@@ -27,7 +27,7 @@ A topic is assigned to a namespace based on the topic name's prefix. A scheduled
 
 This image shows an example of using the Kafka cluster name prefix to organize topics into different namespaces in ServiceNow.
 
-![Overview of how topic prefixes in Kafka are related to namespaces in ServiceNow.](../images/hermes-namespace-topic-structure.png "Kafka prefixes and topic namespaces")
+![Overview of how topic prefixes in Kafka are related to namespaces in ServiceNow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../images/hermes-namespace-topic-structure.png "Kafka prefixes and topic namespaces")
 
 In this example:
 
@@ -63,19 +63,19 @@ Plan how want to organize your namespaces and topics before you start creating t
     You can enforce tighter constraints on where topics are created by deleting the Default Namespace. For example, if you decide that all topics must have a prefix that matches a namespace, deleting the Default Namespace ensures that topics without a matching prefix aren't created.
 
 
-For details on using domain separation with namespaces in Hermes, see [Hermes Messaging Service domain separation](../reference/hermes-messaging-service-domain-separation.md).
+For details on using domain separation with namespaces in Hermes, see [Hermes Messaging Service domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../reference/hermes-messaging-service-domain-separation.md).
 
--   **[Create a namespace in Hermes](../task/create-namespace-hermes.md)**  
+-   **[Create a namespace in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/create-namespace-hermes.md)**  
 Organize your Kafka topics by creating a namespace.
--   **[Delete a namespace in Hermes](../task/delete-namespace-hermes.md)**  
+-   **[Delete a namespace in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../task/delete-namespace-hermes.md)**  
 Prevent topics from being added to a namespace by deleting the namespace in Hermes.
 
-**Parent Topic:**[Managing namespaces and topics in Hermes](managing-namespaces-topics-hermes.md)
+**Parent Topic:**[Managing namespaces and topics in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-namespaces-topics-hermes.md)
 
 **Related topics**  
 
 
-[Managing topics in Hermes](managing-topics-hermes.md)
+[Managing topics in Hermes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-topics-hermes.md)
 
-[Monitoring topics in the Hermes Kafka cluster](monitoring-topics-hermes-kafka-cluster.md)
+[Monitoring topics in the Hermes Kafka cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/monitoring-topics-hermes-kafka-cluster.md)
 

@@ -17,7 +17,7 @@ Create Knowledge Graph schemas to represent semantic relationships in your data.
 
 ## Before you begin
 
-See [Assign search sources to a chat assistant](add-info-sources-assistant.md).
+See [Assign search sources to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-info-sources-assistant.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -37,7 +37,7 @@ An empty Knowledge Graph page is shown if the Knowledge Graph app isn’t instal
 
 1.  If Knowledge Graph is turned on, select the Knowledge Graph schema to apply to the assistant.
 
-    ![Choose your Knowledge Graph](../image/NAinVA-kg-122025.png "Choose your Knowledge Graph")
+    ![Choose your Knowledge Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-kg-122025.png "Choose your Knowledge Graph")
 
     **Note:** During a platform upgrade, if you previously created an assistant and assigned a Knowledge Graph schema to the assistant, you may need to reassign the schema to the assistant as it may show as **None**.
 
@@ -51,16 +51,16 @@ An empty Knowledge Graph page is shown if the Knowledge Graph app isn’t instal
 
     For more information about Knowledge Graph tags, see [Tagging in Knowledge Graph Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/tagging-in-knowledge-graph.md).
 
-    ![Fields to add workspace tags.](../image/NAinVA-kg-workspace-tags2-122025.png "Select workspace tags")
+    ![Fields to add workspace tags.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-kg-workspace-tags2-122025.png "Select workspace tags")
 
 2.  Select**Manage tags** to open the tag list from the Knowledge Graph as a new browser tab.
 
-    ![Manage tags.](../image/NAinVA-kg-tags-122025.png "Manage")
+    ![Manage tags.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-kg-tags-122025.png "Manage")
 
 3.  Select **Manage Knowledge Graph** to open a new browser tab that directs you to the Knowledge Graph app.
 
 
 ## What to do next
 
-See [Add assets to a chat assistant](add-assets.md).
+See [Add assets to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-assets.md).
 

@@ -78,14 +78,14 @@ Queries about the type of instance the user is configured. **glide.upgrade.plan.
 You must configure the instance either as a builder or a consumer. You must build the upgrade plan on a builder instance and implement it on a consumer instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Upgrade Center references](uc-reference.md)
+</table>**Parent Topic:**[Upgrade Center references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
 
 **Related topics**  
 
 
-[Upgrade Center VTB Labels list](uc-vtb-labels-list.md)
+[Upgrade Center VTB Labels list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-vtb-labels-list.md)
 
-[Default skipped rules](../concept/uc-default-skipped-rules.md)
+[Default skipped rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-default-skipped-rules.md)
 
-[Upgrade Center roles](uc-roles.md)
+[Upgrade Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-roles.md)
 

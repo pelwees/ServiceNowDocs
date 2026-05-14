@@ -19,7 +19,7 @@ Set up Natural Language Understanding \(NLU\) for Sourcing and Procurement Opera
 
 Role required: admin, virtual\_agent\_admin
 
-You must have the following plugin installed on your instance: Natural Language Understanding Models for Sourcing and Procurement Operations. For information on how to install the plugin, follow this [procedure](install-virtual-agent-for-shoppinghub.md).
+You must have the following plugin installed on your instance: Natural Language Understanding Models for Sourcing and Procurement Operations. For information on how to install the plugin, follow this [procedure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-virtual-agent-for-shoppinghub.md).
 
 ## Procedure
 
@@ -76,5 +76,5 @@ You must have the following plugin installed on your instance: Natural Language 
     14. Save and publish the topic.
 
 
-**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](../concept/virtual-agent-for-psm.md)
+**Parent Topic:**[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/virtual-agent-for-psm.md)
 

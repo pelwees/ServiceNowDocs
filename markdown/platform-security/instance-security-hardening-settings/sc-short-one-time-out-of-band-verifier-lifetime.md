@@ -15,7 +15,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Manage the time duration for out-of-band verifiers.
 
-An out-of-band verifier is an alternative delivery method for one-time code situations. For example, resetting a multi-factor token. If this method is enabled by administrators in the [Multi-factor authentication](../../../integrate/authentication/concept/mfa-landing.md) plugin, a one-time code is delivered by email. Set one-time out-of-band verifiers to expire after 10 minutes to limit the validity window. A larger time window allows more time for the code to be compromised through illicit means such as phishing, social engineering, or shoulder-surfing attacks.
+An out-of-band verifier is an alternative delivery method for one-time code situations. For example, resetting a multi-factor token. If this method is enabled by administrators in the [Multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/concept/mfa-landing.md) plugin, a one-time code is delivered by email. Set one-time out-of-band verifiers to expire after 10 minutes to limit the validity window. A larger time window allows more time for the code to be compromised through illicit means such as phishing, social engineering, or shoulder-surfing attacks.
 
 ## More information
 
@@ -73,7 +73,7 @@ Category
 
 </td><td>
 
-[Authentication](sc-authentication.md)
+[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Dependencies and prerequisites
 
 </td><td>
 
-[Multi-factor authentication](../../../integrate/authentication/concept/mfa-landing.md)
+[Multi-factor authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/concept/mfa-landing.md)
 
 </td></tr><tr><td>
 
@@ -99,8 +99,8 @@ References
 
 </td><td>
 
-[Multi-factor Authentication criteria](../../../integrate/authentication/concept/multi-factor-authentication-criteria.md)
+[Multi-factor Authentication criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/concept/multi-factor-authentication-criteria.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Authentication](sc-authentication.md)
+</table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 

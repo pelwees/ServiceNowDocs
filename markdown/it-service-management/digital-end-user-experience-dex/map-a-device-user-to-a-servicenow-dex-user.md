@@ -47,5 +47,5 @@ Column `user_name` on the base system is used for mapping user records in the `s
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 

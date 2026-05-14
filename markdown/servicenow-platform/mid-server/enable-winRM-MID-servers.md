@@ -21,7 +21,7 @@ Role required: mid\_admin
 
 <table id="table_wyl_ys4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -45,5 +45,5 @@ Perform this procedure on each MID Server used by Service Mapping or Discovery.
     `winrm s winrm/config/client '@{TrustedHosts="serverA,serverB,serverC"}'`
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md)
 

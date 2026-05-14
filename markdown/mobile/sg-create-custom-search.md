@@ -36,12 +36,12 @@ Configuration for search consist of linking the following records:
     Search source \[sys\_search\_source\] records determine what tables on your instance are included in your searches.
 
 
-![Diagram showing relationship of records used in search.](../image/search-diagram.png "Records used in search")
+![Diagram showing relationship of records used in search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-diagram.png "Records used in search")
 
--   **[Create a search source](../task/sg-create-search-source.md)**  
+-   **[Create a search source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-create-search-source.md)**  
 Create a search source to define what records can be found in your search bar.
--   **[Create a search configuration](../task/sg-mobile-search-e2e.md)**  
+-   **[Create a search configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-mobile-search-e2e.md)**  
 Create a search configuration. This record connects your launcher screen with the other records used to configure search.
--   **[Add your search configuration to a launcher screen](../task/sg-mobile-search-alp-config.md)**  
+-   **[Add your search configuration to a launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-mobile-search-alp-config.md)**  
 Update your launcher screen to use your custom search configuration.
 

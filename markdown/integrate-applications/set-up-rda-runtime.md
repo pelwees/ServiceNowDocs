@@ -19,7 +19,7 @@ Setup of Attended Robot application
 
 ## Before you begin
 
-Install the Attended Robot. For more information, see [Install Attended Robot](install-rda-runtime.md).
+Install the Attended Robot. For more information, see [Install Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-rda-runtime.md).
 
 Role required: none
 
@@ -31,7 +31,7 @@ If the Attended Robot is launched when the RPA Desktop Design Studio is open in 
 
 ## Procedure
 
-1.  From your desktop, double-click the Attended Robot icon \(![Attended Robot icon.](../image/rda-robot-runtime-icon.png)\).
+1.  From your desktop, double-click the Attended Robot icon \(![Attended Robot icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rda-robot-runtime-icon.png)\).
 
 2.  In the Connection Manager dialog box, to add a new RPA Hub, select **Add New**.
 
@@ -116,5 +116,5 @@ Option to launch the login screen in the default browser.The Attended Robot is s
 
 ## What to do next
 
-Run an Attended Robot to execute the attended bot process. For more information, see [Run an automation using Attended Robot](run-rda-robot.md).
+Run an Attended Robot to execute the attended bot process. For more information, see [Run an automation using Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/run-rda-robot.md).
 

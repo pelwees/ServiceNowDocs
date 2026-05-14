@@ -119,7 +119,7 @@ Role required: admin.
 
 3.  Enter a unique name for the credential, for example, `GCPIAM Cred`.
 
-4.  Click the **OAuth Entity Profile** search icon \(![Search icon](../image/SearchIcon.png)\) and select the profile with the name of the OAuth application registry you created when you registered the Google Identity and Access service as an OAuth provider.
+4.  Click the **OAuth Entity Profile** search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/SearchIcon.png)\) and select the profile with the name of the OAuth application registry you created when you registered the Google Identity and Access service as an OAuth provider.
 
 5.  Click **Get Oauth Token**.
 

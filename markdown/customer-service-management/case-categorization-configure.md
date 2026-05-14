@@ -71,11 +71,11 @@ Set up and deploy at least one categorization model.
 
 </td><td>
 
-For details, see [Create a model to predict record fields](csm-task-intel-create-cat-solution.md).
+For details, see [Create a model to predict record fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-cat-solution.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[Record categorization](case-categorization-overview.md)
+[Record categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-overview.md)
 

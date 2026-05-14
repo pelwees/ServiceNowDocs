@@ -32,5 +32,5 @@ Role required: admin
 
 ## Result
 
-The Workplace Concierge is configured. Users with the `sn_wsd_core.workplace_user` role can add the email address to a calendar invite or email thread and use the Workplace Concierge to create visits and invite visitors. For more information about using Workplace Concierge, see [Use Workplace Concierge with email or calendar invite](use-concierge-email.md).
+The Workplace Concierge is configured. Users with the `sn_wsd_core.workplace_user` role can add the email address to a calendar invite or email thread and use the Workplace Concierge to create visits and invite visitors. For more information about using Workplace Concierge, see [Use Workplace Concierge with email or calendar invite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/use-concierge-email.md).
 

@@ -15,7 +15,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 Notify employees of pending tasks and incident alerts with notifications from ITSM Virtual Agent.
 
-You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](../task/setup-actionable-notifications.md).
+You must activate notifications in Workflow Studio in order to use them. For details, see [Set up actionable notifications for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../task/setup-actionable-notifications.md).
 
 ## Incident commented
 
@@ -25,7 +25,7 @@ If the end user selects **View Comments**, Virtual Agent displays the three most
 
 After viewing the most recent comments, the end user can choose to add their own comments and images.
 
-![Actionable notification for Incident commented.](../image/NewComment2.png)
+![Actionable notification for Incident commented.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/NewComment2.png)
 
 ## Incident on behalf of caller
 
@@ -35,7 +35,7 @@ If the end user selects **Add Comment**, Virtual Agent provides a URL to the inc
 
 If the end user selects **Resolve Incident**, Virtual Agent resolves the incident and provides the incident URL.
 
-![Incident on behalf of caller actionable notification.](../image/IncidentOpen1.png)
+![Incident on behalf of caller actionable notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/IncidentOpen1.png)
 
 ## Incident resolved
 
@@ -45,7 +45,7 @@ If the end user chooses to mark the incident unresolved, Virtual Agent offers to
 
 If the end user chooses to close the incident, Virtual Agent closes the incident and provides the incident URL.
 
-![Actionable notification for incident resolved.](../image/ResolveIncident1.png)
+![Actionable notification for incident resolved.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/ResolveIncident1.png)
 
 ## Incident Update
 
@@ -59,7 +59,7 @@ If the end user chooses to view the article, Virtual Agent displays a snippet an
 
 The end user can also give feedback and add comments to the incident​.
 
-![Knowledge Base article attached to incident notification.](../image/KB3.png)
+![Knowledge Base article attached to incident notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/KB3.png)
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](../concept/itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/itsm-actionable-notifications.md)
 

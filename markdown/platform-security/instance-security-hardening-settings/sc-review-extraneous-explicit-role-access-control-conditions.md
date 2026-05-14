@@ -21,5 +21,5 @@ For example, it would be unnecessary for both the snc\_internal and the admin ro
 
 **Important:** This hardening setting will be removed in the next Security Center v1.5 store patch release and future versions. An Instance Scan suite called "Explicit Roles ACL Config Check Suite" is available in the Washington release. We recommend that you review the findings of this new Instance Scan.
 
-**Parent Topic:**[Access control](sc-access-control.md)
+**Parent Topic:**[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 

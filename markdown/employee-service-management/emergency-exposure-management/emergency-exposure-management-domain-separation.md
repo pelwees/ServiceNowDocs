@@ -42,5 +42,5 @@ Some modules in the Emergency Exposure Management application are affected by do
     -   Captures the Outlook or Location responses and sends them back to the Diagnostic Request.
     -   Purely an admin function.
 
-**Parent Topic:**[Emergency Exposure Management](../concept/emergency-exposure-management.md)
+**Parent Topic:**[Emergency Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/../concept/emergency-exposure-management.md)
 

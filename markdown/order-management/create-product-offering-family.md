@@ -54,5 +54,5 @@ After you create product offering families, you assign a product offering to a p
 
 ## What to do next
 
-[Create product offerings](som-create-product-offering.md)
+[Create product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md)
 

@@ -66,5 +66,5 @@ Provides configurations to support automatic routing, queuing, and assignment of
 Advanced Work Assignment \(glide.awa\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Install Purchase Order Management](../task/install-purch-order-mgmt.md)
+</table>**Parent Topic:**[Install Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/install-purch-order-mgmt.md)
 

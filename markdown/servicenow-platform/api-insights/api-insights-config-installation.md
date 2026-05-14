@@ -17,11 +17,11 @@ As a user with the admin role, set up the API Insights workspace by installing t
 
 ## System administrator tasks overview
 
-1.  [Install API Insights](../task/api-insights-install.md).
+1.  [Install API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-install.md).
 
     Install the API Insights application \(sn\_api\_insights\_ws\).
 
-2.  [Assign roles for API Insights users](../task/api-insights-assign-roles.md)
+2.  [Assign roles for API Insights users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-assign-roles.md)
 
     Assign roles for using the API Insights workspace.
 

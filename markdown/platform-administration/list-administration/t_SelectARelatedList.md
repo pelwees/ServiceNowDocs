@@ -29,7 +29,7 @@ Role required: none
 
 2.  Select a list from the menu.
 
-    ![Select a different related list](../image/RelatedLists.png)
+    ![Select a different related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/RelatedLists.png)
 
     If the related list is empty, the hierarchical list indicates that there are no records to display.
 
@@ -37,7 +37,7 @@ Role required: none
 
 3.  To display column headers in the related list, click the show/hide headers icon in the upper right corner of the hierarchical list.
 
-    ![Enable a column header](../image/EnableAColumnHeader.png)
+    ![Enable a column header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/EnableAColumnHeader.png)
 
     The platform remembers this preference and opens all hierarchical lists with column headers enabled until the headers are hidden.
 

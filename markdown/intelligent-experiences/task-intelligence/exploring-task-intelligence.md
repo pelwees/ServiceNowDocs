@@ -26,7 +26,7 @@ With Task Intelligence, agents:
 -   Reduce  error  rates  and  drive down  costs
 -   Improve time to value with intuitive experiences
 
-![GIF of the Admin Console.](../images/setup-screen.png)
+![GIF of the Admin Console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../images/setup-screen.png)
 
 The Admin Console supports the following model types:
 

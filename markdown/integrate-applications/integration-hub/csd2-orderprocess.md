@@ -29,7 +29,7 @@ If the software catalog item is configured with **Access Type** as **Restricted*
 
 In this example, a user has logged into the service catalog to order Google Chrome for the assigned computer. User selects the machine from a list of devices and selects the date and time the lease should begin.
 
-![Ordering software as the logged in user.](../../integrationhub/images/CSDCatOrderLease2.png)
+![Ordering software as the logged in user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/CSDCatOrderLease2.png)
 
 ## Software ordered on behalf of another user
 
@@ -37,14 +37,14 @@ If the software catalog item is configured with **Access Type** as **Delegated**
 
 In this example, a manager is ordering Google Chrome for a contractor. The manager selects the contractor from the **User** field and then chooses a computer from the list of devices assigned to the contractor. This software has a Microsoft Endpoint Configuration Manager uninstall collection configured, which enables the manager to select an end date for the lease that coincides with the end of the user's contract. When the lease expires, Microsoft Endpoint Configuration Manager automatically uninstalls the software from the device.
 
-![Defining software lease window.](../../integrationhub/images/CSDCatOrderLease.png)
+![Defining software lease window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/images/CSDCatOrderLease.png)
 
 **Note:**
 
 -   For Jamf, the device must have its serial number populated in the device table.
 -   For Microsoft Endpoint Configuration Manager, the name must be populated.
 
-![Required fields.](../image/csd2-ordering.png)
+![Required fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/csd2-ordering.png)
 
-**Parent Topic:**[Client Software Distribution 2.0 application](../concept/csd-app-2.md)
+**Parent Topic:**[Client Software Distribution 2.0 application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/csd-app-2.md)
 

@@ -38,5 +38,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 **Related topics**  
 
 
-[Create a checklist template](mco-create-checklist.md)
+[Create a checklist template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)
 

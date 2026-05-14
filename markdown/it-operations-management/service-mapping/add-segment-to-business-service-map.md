@@ -47,13 +47,13 @@ If you use Event Management for service monitoring in your organization, depende
 
     4.  If the Host view is on, switch it off by clicking **More Options** and clicking the **Display in Host View** toggle.
 
-        ![Click the More Options menu on the Map page.](../image/MapMoreOptionsHostButton.png)
+        ![Click the More Options menu on the Map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapMoreOptionsHostButton.png)
 
 2.  Identify the segment of the map that you want to transfer.
 
 3.  Right-click the connection leading to the CI at the top of this segment.
 
-    ![Selecting the connector leading into the map segment.](../image/TransferSegment.png)
+    ![Selecting the connector leading into the map segment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/TransferSegment.png)
 
 4.  To transfer the segment into an existing application service map and connect to it:
 
@@ -65,7 +65,7 @@ If you use Event Management for service monitoring in your organization, depende
 
         The map displays the contained application service icon instead of the transferred segment. The application service map to which you transferred the segment, shows it under the newly added entry point. For example, the Tomcat application service map includes the Trade application service as its contained service. The Tomcat application service becomes dependent on the Trade service. The Trade application service map shows the segment transferred from the Tomcat application service.
 
-        ![The map displaying connection to an existing service instance.](../image/TransferSegmentExistingBSResult.png)
+        ![The map displaying connection to an existing service instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/TransferSegmentExistingBSResult.png)
 
 5.  To transfer the segment into a new service instance map and connect to it:
 
@@ -77,13 +77,13 @@ If you use Event Management for service monitoring in your organization, depende
         |-----|-----------|
         |Name|Enter the service instance name. This name must be unique. Use self-explanatory names such as `mailing service` or `printing service`.|
         |Group|\(Optional\) Restrict access to a service instance by adding it to an service instance group. Users must then have the service group role to access the service instance.|
-        |Criticality|\(Optional\) Select the option that reflects how important this service instance is to your organization operation. For more information about service instance criticality, see [Define criticality for application services](define-criticality-for-business-services.md).|
+        |Criticality|\(Optional\) Select the option that reflects how important this service instance is to your organization operation. For more information about service instance criticality, see [Define criticality for application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/define-criticality-for-business-services.md).|
 
     3.  Click **Create**.
 
         The map displays the contained application service icon instead of the transferred segment. The new application service appears in the list of application services and contains the transferred segment of the map. For example, the Tomcat application service includes the TP rooms service as its contained service. The Tomcat application service becomes a service dependent on the TP rooms service. The TP rooms application service map contains the segment transferred from the Tomcat application service.
 
-        ![The map displaying the new service instance as a contained service.](../image/TransferSegmentNewBSResult.png)
+        ![The map displaying the new service instance as a contained service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/TransferSegmentNewBSResult.png)
 
 
 ## What to do next
@@ -93,7 +93,7 @@ To revert this operation:
 1.  On the service instance map containing the connected service CI, click the connection leading to it.
 2.  In the Properties pane, note the URL attribute of the connection.
 
-    ![The Properties pane displaying the URL attribute of the connection.](../image/MapConnectedBSendPoint.png)
+    ![The Properties pane displaying the URL attribute of the connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapConnectedBSendPoint.png)
 
 3.  Double-click the connected service CI.
 
@@ -109,21 +109,21 @@ To revert this operation:
 
 7.  Navigate to the map that contained the connected service CI.
 
-    This map displays a boundary \(![Boundary icon](../image/MapBoundaryIcon.png)\) instead of the connected service CI.
+    This map displays a boundary \(![Boundary icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapBoundaryIcon.png)\) instead of the connected service CI.
 
 8.  Click the boundary CI and click **Unmark boundary**.
 
     The map is refreshed and displays the segment of the service instance.
 
 
-**Parent Topic:**[Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
+**Parent Topic:**[Fine-tune application services to implement owner requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-implement-business-service-maps.md)
 
 **Related topics**  
 
 
-[View dependent application services in classic Service Mapping](view-linked-services.md)
+[View dependent application services in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-linked-services.md)
 
-[View contained application services in classic Service Mapping](view-contained-services.md)
+[View contained application services in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/view-contained-services.md)
 
-[Control user access to application services](control-user-access-to-business-services.md)
+[Control user access to application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/control-user-access-to-business-services.md)
 

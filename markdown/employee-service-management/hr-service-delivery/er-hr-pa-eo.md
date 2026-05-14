@@ -15,7 +15,7 @@ breadcrumb: [Analytics and Reporting Solutions for Employee Relations, Employee 
 
 The Employee Relations Executive Overview dashboard provides you with high level data on Employee Relations cases and detailed information on the types of ER cases, locations, cases by HR service and department, and trends.
 
-![Employee Relations Executive Overview dashboard](../../../product/human-resources/image/hr-er-ov1.png)![Employee Relations Executive Overview dashboard](../../../product/human-resources/image/hr-er-ov2.png)
+![Employee Relations Executive Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../product/human-resources/image/hr-er-ov1.png)![Employee Relations Executive Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../product/human-resources/image/hr-er-ov2.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -160,7 +160,7 @@ Real-time Score
 
 </td><td>
 
-The number of ER cases that are classified as restricted. For more information, see [Employee Relations case restrictions](../../../product/human-resources/concept/hr-er-case-restriction.md).
+The number of ER cases that are classified as restricted. For more information, see [Employee Relations case restrictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../product/human-resources/concept/hr-er-case-restriction.md).
 
 </td></tr><tr><td>
 

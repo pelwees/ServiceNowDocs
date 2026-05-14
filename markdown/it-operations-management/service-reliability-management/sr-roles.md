@@ -106,5 +106,5 @@ Administrator \[admin\]
 -   Submit time off
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
+</table>**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 

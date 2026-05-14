@@ -77,5 +77,5 @@ PowerShell errors
 </table>**Related topics**  
 
 
-[File-based Discovery references](file-based-discovery-references.md)
+[File-based Discovery references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery-references.md)
 

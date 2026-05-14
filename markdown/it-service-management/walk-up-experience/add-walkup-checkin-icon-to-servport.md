@@ -25,7 +25,7 @@ Role required: sp\_admin or admin
 
 To replace the Get Help icon link with the Walk-up Check-in icon link on the Service Portal Home page, access Service Portal Designer. Alternatively, you can add a new container to the Service Portal for the Walk-up Check-in icon link, so that the Get Help icon link remains.
 
-![service portal with get help link](../image/ServicePortalGetHelp.png "Service Portal Home page with Get Help icon link")
+![service portal with get help link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/ServicePortalGetHelp.png "Service Portal Home page with Get Help icon link")
 
 ## Procedure
 
@@ -62,7 +62,7 @@ To replace the Get Help icon link with the Walk-up Check-in icon link on the Ser
 
     The Service Portal Home page opens in edit mode. The online Walk-up Check-in icon link with your selected glyph image and description displays in place of the former **Get Help** icon link.
 
-    ![service portal with walk-up check-in link](../image/ServicePortalWalkupCheckin.png "Service Portal Home page with Walk-up Check-in icon link")
+    ![service portal with walk-up check-in link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/ServicePortalWalkupCheckin.png "Service Portal Home page with Walk-up Check-in icon link")
 
 9.  Navigate to **Service Portal** &gt; **Service Portal Home** to verify and test the newly created Walk-up Check-in icon link.
 
@@ -71,5 +71,5 @@ To replace the Get Help icon link with the Walk-up Check-in icon link on the Ser
 11. Edit the container form fields with the same data and presentation information as detailed above in the form configuration input descriptions and follow the remaining relevant steps.
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-experience-configuration.md)
 

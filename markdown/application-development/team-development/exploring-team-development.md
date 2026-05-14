@@ -39,6 +39,6 @@ Developers with admin access to their development instance and the parent instan
 
 To learn more about configuring and using Team Development, see:
 
--   [Configuring Team Development](../task/configuring-team-development.md)
--   [Administer Team Development](../task/administer-team-development.md)
+-   [Configuring Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/configuring-team-development.md)
+-   [Administer Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../task/administer-team-development.md)
 

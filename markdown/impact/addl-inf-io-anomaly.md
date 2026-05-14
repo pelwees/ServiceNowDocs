@@ -344,14 +344,14 @@ Max
     -   Default chart metric values will not match with anomaly chart metric values for node-level metrics, because the default chart aggregates at the node level whereas the anomaly chart aggregates at the instance level. Note that the aggregation type \(Max\) remains the same across both charts for these metrics.
     -   Anomaly chart data is available for a maximum of 28 days from the current date.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
 
-[Instance Data Replication](instance-observer-metrics.md)
+[Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/instance-observer-metrics.md)
 
-[Instance Observer reports overview](i-o-reports.md)
+[Instance Observer reports overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/i-o-reports.md)
 
-[Feature availability based on package](io-feature-availability.md)
+[Feature availability based on package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-feature-availability.md)
 

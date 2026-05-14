@@ -21,7 +21,7 @@ Role required: sn\_hr\_sp.esc\_admin and sp\_admin
 
 ## About this task
 
-You can set up the favorite card details and use the default favorite icon ![default favorite icon default without selection](../images/myfav-no-selection.jpg) to bookmark content as your favorites. When your employees mark content as favorites, the favorite icon appearance changes to ![default favorite icon default with selection](../images/myfav-selection.jpg).
+You can set up the favorite card details and use the default favorite icon ![default favorite icon default without selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/myfav-no-selection.jpg) to bookmark content as your favorites. When your employees mark content as favorites, the favorite icon appearance changes to ![default favorite icon default with selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/myfav-selection.jpg).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Order
 
 </td><td>
 
-Order in which you want the favorites content to appear.**Note:** The order in the favorite content configuration table doesn’t determine the sequence in which content types appear on the navigation of the Browse favorites section of the ESC portal. See [Manage favorites](web-configure-favorites-employee.md).
+Order in which you want the favorites content to appear.**Note:** The order in the favorite content configuration table doesn’t determine the sequence in which content types appear on the navigation of the Browse favorites section of the ESC portal. See [Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ The favorites appears on the Employee Center and MESP portal.
 
 Here's a sample illustration of how the configuration looks on the **Favorites** and the message when a favorites is not available for your access.
 
-![Primary and secondary field to display for Favorites](../images/z-ec-favorites-card.png "Favorites card and access")
+![Primary and secondary field to display for Favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/z-ec-favorites-card.png "Favorites card and access")
 
-For more information on how Favorites appear, see [Manage favorites](web-configure-favorites-employee.md).
+For more information on how Favorites appear, see [Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md).
 

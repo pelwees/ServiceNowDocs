@@ -15,10 +15,10 @@ breadcrumb: [Collaboration workflow, Initiate chargeback, Processing a Visa disp
 
 List associated transactions identified by Visa after the chargeback creation. Review these transactions and associate them with the disputed transaction to help deflect and resolve the dispute in the next activity.
 
-![Displays the list of associated transactions.](../image/associated-transactions.png "View the associated transaction") ![]( "View the associated transaction")
+![Displays the list of associated transactions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/associated-transactions.png "View the associated transaction") ![]( "View the associated transaction")
 
 1.  View the associated transaction\(s\) and select them.
 2.  Select **Continue**.
 
-**Parent Topic:**[Collaboration dispute workflow](collaboration-dispute-workflow.md)
+**Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/collaboration-dispute-workflow.md)
 

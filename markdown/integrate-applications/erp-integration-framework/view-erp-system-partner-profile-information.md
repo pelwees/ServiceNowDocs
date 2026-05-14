@@ -34,20 +34,20 @@ Partner profiles are fetched from SAP during initial load. If any new profiles a
 
 4.  Check the **IDoc retrieval status** on the record.
 
-    ![Zero Copy Connector for ERP system record with IDOC retrieval status area highlighted.](../image/erp-system-partner-profile-tab2.png)
+    ![Zero Copy Connector for ERP system record with IDOC retrieval status area highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-system-partner-profile-tab2.png)
 
 5.  Select the **Partner profile** tab to view available profiles.
 
-    ![Zero Copy Connector for ERP system record with partner profile tab displayed.](../image/erp-system-partner-profile-tab.png)
+    ![Zero Copy Connector for ERP system record with partner profile tab displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-system-partner-profile-tab.png)
 
-    For column descriptions, see [Zero Copy Connector for ERP partner profile tab column descriptions](../reference/erp-partner-profile-tab-fields.md).
+    For column descriptions, see [Zero Copy Connector for ERP partner profile tab column descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-partner-profile-tab-fields.md).
 
 6.  Select a **Partner number** to view information about a specific profile.
 
-    ![Zero Copy Connector for ERP profile record for one individual profile.](../image/erp-system-partner-profile-tab3.png)
+    ![Zero Copy Connector for ERP profile record for one individual profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-system-partner-profile-tab3.png)
 
-    For field descriptions, see [Zero Copy Connector for ERP partner profile field descriptions](../reference/erp-partner-profile-fields.md).
+    For field descriptions, see [Zero Copy Connector for ERP partner profile field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-partner-profile-fields.md).
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-work-with-systems.md)
 

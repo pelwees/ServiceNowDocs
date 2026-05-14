@@ -75,5 +75,5 @@ By default, the information in this profile is used when you run a command that 
     The command creates a record in the instance specified in the default profile with the specified connection options.
 
 
-**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](configure-profile.md)
+**Parent Topic:**[Configuring and managing your ServiceNow CLI connection profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/configure-profile.md)
 

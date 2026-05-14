@@ -19,19 +19,19 @@ Efficiently supervise every single location of your organization by using the Se
 
 <table id="table_sdw_cwc_qtb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Space Management concepts and features](explore_wsm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Workplace Space Management concepts and features](explore_wsm.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and Configure Workplace Space Management](configure-space-management.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and Configure Workplace Space Management](configure-space-management.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage Workplace Space Management location records](Creating-workplace-location-records-using-spce-mgmt.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../../reuse/icons/brand-icons/bus-headset.svg) Manage Workplace Space Management location records](Creating-workplace-location-records-using-spce-mgmt.md)
 
 </td><td>
 
-[References ![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Workplace Space Management roles, properties, and components](workplace-space-mgmt-references.md) 
+[References ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Workplace Space Management roles, properties, and components](workplace-space-mgmt-references.md) 
 
 </td></tr></tbody>
 </table>## Additional resources

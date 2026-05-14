@@ -46,14 +46,14 @@ You can apply these steps to any report type as long as the report source has va
 
 6.  On the **Configure** tab, select **Variables** from the **Group by** or **Stack by** filters.
 
-    ![Configure tab > group by or stack by variables](../image/group-by-variables.png)
+    ![Configure tab > group by or stack by variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/group-by-variables.png)
 
 7.  Search for and select the variable associated with the item to group or stack by.
 
 8.  Continue to configure and style the report according to its report type.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/report-types-creation-details-rd.md).
 
 
-**Parent Topic:**[Report on service catalog variables](../concept/rep-service-catalog-variables.md)
+**Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/rep-service-catalog-variables.md)
 

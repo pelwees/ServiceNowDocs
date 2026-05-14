@@ -120,5 +120,5 @@ Localization is applicable to DEX in all languages supported by the ServiceNow A
     The ServiceNow ITSM Success Dashboard enables the leadership team and process owners to gain insights into the performance of their ServiceNow IT Service Management \(ITSM\) implementation using the KPIs defined in the ServiceNow AI Platform®.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

@@ -19,7 +19,7 @@ Encrypted responses from the instance are decrypted through the Edge Encryption 
 
 For a successful integration, the ODBC driver must trust the Edge Encryption proxy server certificate. If the Edge Encryption proxy server certificate is signed by a Certificate Authority trusted by the ODBC driver, the Edge Encryption proxy server is automatically trusted. However, if a Certificate Authority trusted by the ODBC driver has not signed the Edge Encryption proxy server certificate, you must import the self-signed certificate to the ODBC truststore.
 
-**Parent Topic:**[Data integration with Edge Encryption](data-integration.md)
+**Parent Topic:**[Data integration with Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/data-integration.md)
 
 ## Import a self-signed certificate to the ODBC truststore
 
@@ -48,7 +48,7 @@ edgeencryption.proxy.https.keystore.password = password
 edgeencryption.proxy.https.cert.alias = jetty
 ```
 
-For details on editing properties, see [Configure additional properties in the Edge Encryption properties file](../task/set-props.md)
+For details on editing properties, see [Configure additional properties in the Edge Encryption properties file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../task/set-props.md)
 
 ### Procedure
 
@@ -97,7 +97,7 @@ Role required: admin
 
 4.  Change the **Value** to the URL of your Edge Encryption proxy server, such as `https://<IP address>:<port>`
 
-    ![DataSourceIPProperties](../images/OBDCPropertyforEdge.png "DataSourceIPProperties")
+    ![DataSourceIPProperties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/OBDCPropertyforEdge.png "DataSourceIPProperties")
 
 5.  Click **OK**.
 

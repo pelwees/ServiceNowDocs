@@ -21,11 +21,11 @@ Instances of this class represent a CI \(both its base record and any related li
 
 This class acts as a container for simple classes acting as maps of property name/value pairs. This class contains three kinds of such maps.
 
--   A single map representing the base CI table entry \(such as one row cmdb\_ci\_linux\_server and its superclasses\). You can retrieve this map using the [CIData - getData\(\)](c_CIDataAPI.md#) method.
--   Arrays of maps representing the instances of related lists, with each array representing a single related list and each element of such an array representing a single row of that related list. These arrays can be retrieved with the [CIData - getRelatedList\(String table, String refField\)](c_CIDataAPI.md#) method.
--   Arrays of maps representing the instances of many-to-many tables, with each array representing a single many-to-many table and each element of such an array representing a single row of that many-to-many table. These arrays can be retrieved with the [CIData - getM2MTable\(String table, String refField\)](c_CIDataAPI.md#) method.
+-   A single map representing the base CI table entry \(such as one row cmdb\_ci\_linux\_server and its superclasses\). You can retrieve this map using the [CIData - getData\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CIDataAPI.md#) method.
+-   Arrays of maps representing the instances of related lists, with each array representing a single related list and each element of such an array representing a single row of that related list. These arrays can be retrieved with the [CIData - getRelatedList\(String table, String refField\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CIDataAPI.md#) method.
+-   Arrays of maps representing the instances of many-to-many tables, with each array representing a single many-to-many table and each element of such an array representing a single row of that many-to-many table. These arrays can be retrieved with the [CIData - getM2MTable\(String table, String refField\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_CIDataAPI.md#) method.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CIData - CIData\(String debugFlag\)
 

@@ -23,7 +23,7 @@ Role required: ia\_admin or admin
 
 1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Contact Administration** &gt; **Contact Responsibilities**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Click **New**.
 
@@ -41,16 +41,16 @@ Role required: ia\_admin or admin
     Contact responsibilities are defined.
 
 
-**Parent Topic:**[Incident Communications Management and Contacts](../concept/c_IncidentAlertContact.md)
+**Parent Topic:**[Incident Communications Management and Contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/c_IncidentAlertContact.md)
 
 **Related topics**  
 
 
-[Responsibilities for Incident Communication Plan](../reference/r_ResponsibilitiesForIncidentAlerts.md)
+[Responsibilities for Incident Communication Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../reference/r_ResponsibilitiesForIncidentAlerts.md)
 
-[Create a contact definition](t_CreateAContactDefinition.md)
+[Create a contact definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateAContactDefinition.md)
 
-[Create a default override](t_CreateADefaultOverride.md)
+[Create a default override](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateADefaultOverride.md)
 
-[Add a user as a contact](t_AddAContactManually.md)
+[Add a user as a contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_AddAContactManually.md)
 

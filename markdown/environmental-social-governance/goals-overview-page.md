@@ -25,7 +25,7 @@ The following sections are displayed on this page:
 
 The following image shows the overview page for a single goal.
 
-![Goal overview dashboard report.](../images/goals-overview-page.png "Goal overview page")
+![Goal overview dashboard report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/goals-overview-page.png "Goal overview page")
 
 ## Description
 
@@ -59,5 +59,5 @@ The risk and compliance posture sections only appears if you integrate with Inte
 
 In the Contextual side panel, you can view the main goal, the associated sub-goals, and their statuses.
 
-**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](../concept/esg-analytics-reporting.md)
+**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/esg-analytics-reporting.md)
 

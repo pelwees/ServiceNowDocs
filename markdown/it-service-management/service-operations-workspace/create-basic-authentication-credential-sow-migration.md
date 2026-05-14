@@ -34,5 +34,5 @@ This configuration must contain the credentials of the user who is logged in and
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../concept/migration-from-itsm-aw-sow.md)
+**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/migration-from-itsm-aw-sow.md)
 

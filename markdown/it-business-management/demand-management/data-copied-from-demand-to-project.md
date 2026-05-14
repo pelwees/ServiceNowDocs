@@ -122,5 +122,5 @@ Project Currency Financial
 If the multicurrency feature is active, the project financial fields are calculated according to the project currency and reference rate.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data migrated from demands to artifacts](data-copied-from-demands-to-artifacts.md)
+</table>**Parent Topic:**[Data migrated from demands to artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/data-copied-from-demands-to-artifacts.md)
 

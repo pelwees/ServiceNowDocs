@@ -17,5 +17,5 @@ Learn about the Process Mining skill available with Now Assist for Creator.
 
 With Process Mining, you can identify the work notes and generate insights about inefficiencies, challenges, and other reasons that cause reassignment of work. To learn more about Process Mining, see [Now Assist for Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/now-assist.md).
 
-**Parent Topic:**[Using generative AI with Now Assist for Creator](using-gen-ai-now-assist-for-creator.md)
+**Parent Topic:**[Using generative AI with Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/using-gen-ai-now-assist-for-creator.md)
 

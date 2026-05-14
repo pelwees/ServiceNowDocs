@@ -28,11 +28,11 @@ Role required:
 
 1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **IT Remediation Workspace**.
 
-2.  Select the List icon \(![List icon](../../secops-analyst-workspace/image/listview-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../secops-analyst-workspace/image/listview-icon.png)\).
 
     The List view displays.
 
-    -   Click a filtered list to view the total number of active remediation tasks or records assigned to you or your group. See [Use remediation task records in the IT Remediation Workspace](vr-ws-remed-task.md) for more information about what you can do from these records.
+    -   Click a filtered list to view the total number of active remediation tasks or records assigned to you or your group. See [Use remediation task records in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-remed-task.md) for more information about what you can do from these records.
     -   View the total number of VIs assigned to you or your groups that have solutions. Click the **Preferred solutions on VIs** card to display the list.
     -   See the vulnerable CIs assigned to you and your groups that have vulnerabilities on them on the **Vulnerable CIs** tab or on the Vulnerable CIs assigned to you and your group list on the List view.
 3.  Select the **My Lists** tab.
@@ -130,7 +130,7 @@ With a remediation task record displayed, click a related list item to open and 
 -   Change Requests - View the change requests associated with the record.
 -   Requested Approvals - View the requested approvals. If there are no change request approvals, this related list item is not displayed.
 -   State Change Approvals - View the false positive and exception requests associated with this record. If there are no requests, this related list item is not displayed.
- Opened records remain displayed as tabs until you close them. See [Use remediation task records in the IT Remediation Workspace](vr-ws-remed-task.md) for what you can do from the remediation task record.
+ Opened records remain displayed as tabs until you close them. See [Use remediation task records in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-remed-task.md) for what you can do from the remediation task record.
 
 </td></tr><tr><td id="d39814e385">
 
@@ -143,7 +143,7 @@ With a vulnerable item record displayed, click a related list item to open and v
 -   Detections - First found, last found, IP address, Port, Protocol and Proof information, if available.
 -   Impacted services - Business criticality, support group and service
 -   Remediation Tasks - The remediation tasks this VI is associated with.
- Opened VIT records remain displayed as tabs until you close them. See [Use remediation task records in the IT Remediation Workspace](vr-ws-remed-task.md) for what you can do from the remediation task record.
+ Opened VIT records remain displayed as tabs until you close them. See [Use remediation task records in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-remed-task.md) for what you can do from the remediation task record.
 
 </td></tr><tr><td id="d39814e426">
 

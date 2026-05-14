@@ -16,7 +16,7 @@ breadcrumb: [Explore, ServiceNow AI Lens, Enable AI experiences]
 
 Learn about the ServiceNow AI Lens desktop application landing page.
 
-![ServiceNow AI Lens landing page overview](../image/sn-lens-home-page-overview.png "ServiceNow AI Lens landing page")
+![ServiceNow AI Lens landing page overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/sn-lens-home-page-overview.png "ServiceNow AI Lens landing page")
 
 <table id="table_drt_5s5_xfc"><thead><tr><th>
 
@@ -81,7 +81,7 @@ Action card options
 -   Details - Shows Lens action details, such as Name, Description, Default additional directions, and Table.
 
 </td></tr></tbody>
-</table>![ServiceNow AI Lens preview page overview.](../image/lens-images-captured.png "ServiceNow AI Lens preview")
+</table>![ServiceNow AI Lens preview page overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-images-captured.png "ServiceNow AI Lens preview")
 
 |No.|Feature|Description|
 |---|-------|-----------|

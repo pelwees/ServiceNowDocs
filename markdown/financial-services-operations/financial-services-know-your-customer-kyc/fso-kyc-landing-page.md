@@ -23,19 +23,19 @@ This application is automatically installed when you install any of the followin
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the capabilities of Financial Services Know Your Customer.](fso-kyc-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-know-your-customer-kyc/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the capabilities of Financial Services Know Your Customer.](fso-kyc-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Know Your Customer.](../task/fso-kyc-configure.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-know-your-customer-kyc/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Know Your Customer.](../task/fso-kyc-configure.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete KYC tasks to evaluate applicant information.](../../fso-customer-lifecycle-operations/task/perform-due-diligence.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-know-your-customer-kyc/../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete KYC tasks to evaluate applicant information.](../../fso-customer-lifecycle-operations/task/perform-due-diligence.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components, such as roles and tables.](../reference/fso-kyc-installed-with.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-know-your-customer-kyc/../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components, such as roles and tables.](../reference/fso-kyc-installed-with.md)
 
 </td></tr></tbody>
 </table>

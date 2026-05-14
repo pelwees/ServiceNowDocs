@@ -119,7 +119,7 @@ Asset
 Asset that you are selecting for the inbound asset order line. Select an asset that meets the following criteria:-   Matches all criteria specified in the order line.
 -   The **DaaS asset** option is enabled in the corresponding asset record.
 -   An account is specified in the **DaaS account** field of the corresponding asset record.
-**Note:** For more information on the **DaaS asset** and **DaaS account** fields, see [Asset fields for enterprise assets](../reference/asset-fields-eam.md).
+**Note:** For more information on the **DaaS asset** and **DaaS account** fields, see [Asset fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/asset-fields-eam.md).
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Notes about that task that are visible to all users within your organization.
 
 ## What to do next
 
-The provider asset technician must complete the corresponding Asset pick task by picking the asset that you selected for the inbound asset order line. For detailed instructions, see [Complete the Asset pick task for a requested Device as a Service \(DaaS\) asset](pick-selected-daas-asset-inbound-asset-order.md).
+The provider asset technician must complete the corresponding Asset pick task by picking the asset that you selected for the inbound asset order line. For detailed instructions, see [Complete the Asset pick task for a requested Device as a Service \(DaaS\) asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/pick-selected-daas-asset-inbound-asset-order.md).
 
-**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](../concept/completing-inbound-asset-order-daas-assets.md)
+**Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/completing-inbound-asset-order-daas-assets.md)
 

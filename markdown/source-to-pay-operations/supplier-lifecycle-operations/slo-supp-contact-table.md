@@ -27,7 +27,7 @@ The Vendor Contact \[vm\_vdr\_contact\] table contains the following fields.
 |Email|Email|Email address of the vendor contact.|
 |Primary contact|Boolean|Indicates whether the vendor contact is a primary contact.|
 
-For more information, see [Supplier Lifecycle Operations data model](slo-data-model.md).
+For more information, see [Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-data-model.md).
 
-**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
+**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-primary-data-tables.md)
 

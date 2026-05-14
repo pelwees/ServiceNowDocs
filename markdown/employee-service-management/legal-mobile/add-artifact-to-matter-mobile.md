@@ -29,11 +29,11 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 2.  Tap an assigned matter to which you want to add an artifact.
 
-3.  Tap the actions icon \(![Actions icon.](../image/action-icon.png)\) and select the **Create Artifact** option.
+3.  Tap the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/action-icon.png)\) and select the **Create Artifact** option.
 
 4.  In the **Enter short description** field, enter a description for the artifact.
 
-5.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+5.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 
 ## Result
@@ -42,5 +42,5 @@ An artifact folder is created for the matter.
 
 ## What to do next
 
-[Attach the matter-related files to the folder](add-files-to-artifact-mobile.md).
+[Attach the matter-related files to the folder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/add-files-to-artifact-mobile.md).
 

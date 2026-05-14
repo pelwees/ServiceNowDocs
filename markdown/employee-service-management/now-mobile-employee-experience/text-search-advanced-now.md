@@ -22,7 +22,7 @@ AI Search uses user data sources \(people\), catalog items \(services\), and kno
 -   For more information on AI Search configuration, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md).
 -   For more information about Zing configuration, see [Global search for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md).
 
-**Note:** You cannot simultaneously use both AI Search and Zing search engines within the same search field. However, you can configure individual applet launchers to host a different search engine per applet. For more information, see [Add AI Search to a launcher screen](../task/aisearch-add-applet-launcher.md).
+**Note:** You cannot simultaneously use both AI Search and Zing search engines within the same search field. However, you can configure individual applet launchers to host a different search engine per applet. For more information, see [Add AI Search to a launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../task/aisearch-add-applet-launcher.md).
 
 AI Search offers the following features:
 
@@ -47,23 +47,23 @@ Knowledge category AI search
 
 </th></tr></thead><tbody><tr><td>
 
-![AI Search results from the services category.](../image/aisearch-catalog-callout-results.png "AI Search results from services category")
+![AI Search results from the services category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/aisearch-catalog-callout-results.png "AI Search results from services category")
 
 </td><td>
 
-![AI Search results from the people category.](../image/aisearch-people-results.png "AI Search results from people category")
+![AI Search results from the people category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/aisearch-people-results.png "AI Search results from people category")
 
 </td><td>
 
-![AI Search results from the knowledge category.](../image/aisearch-knowledge-results.png "AI Search results from knowledge category")
+![AI Search results from the knowledge category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/aisearch-knowledge-results.png "AI Search results from knowledge category")
 
 </td></tr></tbody>
-</table>-   **[Configure AI Search for mobile devices](../task/advanced-text-search-config-now.md)**  
+</table>-   **[Configure AI Search for mobile devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../task/advanced-text-search-config-now.md)**  
 Configure the Now Mobile search bar to use the AI Search search engine.
--   **[Customize AI Search results](../task/advanced-text-search-customize.md)**  
+-   **[Customize AI Search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../task/advanced-text-search-customize.md)**  
 Customize AI Search results to provide users with a tailored search experience.
--   **[Add AI Search to a launcher screen](../task/aisearch-add-applet-launcher.md)**  
+-   **[Add AI Search to a launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../task/aisearch-add-applet-launcher.md)**  
 Configure your launcher screen to use the AI Search search engine.
 
-**Parent Topic:**[Configuring Now Mobile](setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 

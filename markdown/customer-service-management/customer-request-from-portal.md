@@ -21,7 +21,7 @@ Role required: sn\_customerservice.customer\_admin, sn\_customerservice.partner,
 
 Customers and consumers can make requests from the Customer and Consumer Service Portals. Customer administrators, partners, and case managers can also make requests.
 
-**Note:** Creating a request from the Customer and Consumer Service Portals requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the system administrator [provide external customers with access to request records](csm-itsm-integration-view-request.md).
+**Note:** Creating a request from the Customer and Consumer Service Portals requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the system administrator [provide external customers with access to request records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-itsm-integration-view-request.md).
 
 ## Procedure
 

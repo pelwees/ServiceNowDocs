@@ -143,5 +143,5 @@ Ending date and time of the price list. Select the Calendar icon ![](../image/fi
 
 ## What to do next
 
-[Create a price list line](som-create-price-list-line.md) for the price list.
+[Create a price list line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-create-price-list-line.md) for the price list.
 

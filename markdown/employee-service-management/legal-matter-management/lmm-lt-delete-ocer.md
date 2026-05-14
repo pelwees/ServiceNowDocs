@@ -50,7 +50,7 @@ Action
 </td><td>
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  In the Lists tab, navigate to **Matters** &gt; **All**.
 4.  From the list, open a legal matter record.
 5.  Select the **Outside Counsels** tab.
@@ -115,5 +115,5 @@ Yes
 -   The matter created in Legal Tracker is not deleted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Engage with outside counsel](../../legal-matter-management/task/lmm-eng-outcounsel.md)
+</table>**Parent Topic:**[Engage with outside counsel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-matter-management/task/lmm-eng-outcounsel.md)
 

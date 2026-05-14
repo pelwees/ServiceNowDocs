@@ -43,7 +43,7 @@ Roles required:
 
     Enter the following information for your application:
 
-    ![Register an application](../../discovery/image/register-app-azure.png)
+    ![Register an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/image/register-app-azure.png)
 
     |Field|Description|
     |-----|-----------|
@@ -94,7 +94,7 @@ Expiration for the key.**Note:** Your organization may apply policies to restric
 
     1.  Paste the subscription ID into the text editor and label it **Subscription ID**.
 
-        The text file that you generate during this procedure might look something like this: ![Text file that temporarily holds Azure service principal credential values](../../discovery/image/azure-text-file.png)
+        The text file that you generate during this procedure might look something like this: ![Text file that temporarily holds Azure service principal credential values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/image/azure-text-file.png)
 
     2.  Navigate to the subscription and select **Access Control \(IAM\)** from the menu.
 
@@ -108,7 +108,7 @@ Expiration for the key.**Note:** Your organization may apply policies to restric
 
     5.  Select the name you created in step 2 in the **Select** field and click **Save**.
 
-        ![Add role assignment](../../discovery/image/add-role-assignment.png)
+        ![Add role assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/image/add-role-assignment.png)
 
 10. Perform the appropriate action.
 
@@ -151,7 +151,7 @@ Select **Client secret**.The **Secret key** field appears when you select **Clie
 </td></tr></tbody>
 </table>12. Copy and paste values from the temporary text file into the remaining fields.
 
-    ![Azure credentials](../../discovery/image/azure-copy-to-service-principal.png)
+    ![Azure credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/image/azure-copy-to-service-principal.png)
 
     |Credentials form field|Azure Service Principal value|
     |----------------------|-----------------------------|
@@ -174,5 +174,5 @@ Select **Client secret**.The **Secret key** field appears when you select **Clie
 
 ## What to do next
 
-Cloud Provisioning and Governance only: Create a record of the service principal credentials on the ServiceNow instance so that Cloud Provisioning and Governance processes can access Microsoft Azure data. See [Store the Azure service principal credentials in the instance](azure-create-creds-cloud-mgt-1.md).
+Cloud Provisioning and Governance only: Create a record of the service principal credentials on the ServiceNow instance so that Cloud Provisioning and Governance processes can access Microsoft Azure data. See [Store the Azure service principal credentials in the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-creds-cloud-mgt-1.md).
 

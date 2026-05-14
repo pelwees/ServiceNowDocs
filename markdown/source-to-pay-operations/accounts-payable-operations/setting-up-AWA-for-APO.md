@@ -27,5 +27,5 @@ Set up the following components for AWA in Accounts Payable Operations
 
 For more information about AWA components, refer [Exploring Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-overview.md).
 
-**Parent Topic:**[Advanced Work Assignment in Accounts Payable Operations](advanced-work-assignment.md)
+**Parent Topic:**[Advanced Work Assignment in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/advanced-work-assignment.md)
 

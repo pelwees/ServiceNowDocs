@@ -35,11 +35,11 @@ For more information, see [Contract analysis using Now Assist in Contract Manage
 
     **Note:** You can analyze only the contracts that are in Work in progress state.
 
-4.  If the contextual side panel isn’t open, select the Now Assist Contract Review by Now Assist icon \(![Contract Review by Now Assist icon](../image/cmpro-ai-sparkel-icon.png)\).
+4.  If the contextual side panel isn’t open, select the Now Assist Contract Review by Now Assist icon \(![Contract Review by Now Assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cmpro-ai-sparkel-icon.png)\).
 
     You can analyze contracts in the Now Assist contextual side panel as shown in the following example.
 
-    ![Analyze contracts with Now Assist contextual side panel](../image/cmpro-na-side-panel.png)
+    ![Analyze contracts with Now Assist contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cmpro-na-side-panel.png)
 
 5.  On the contract request page, select **Contract documents**.
 
@@ -81,9 +81,9 @@ Steps
 </td></tr></tbody>
 </table>    After you select **Analyze with Now Assist**, you might encounter Restricted Caller Access \(RCA\) approval messages as shown in the image.
 
-    ![RCA approvals for Now Assist in Contract Management.](../image/spo-cmro-rca-message.png)
+    ![RCA approvals for Now Assist in Contract Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-cmro-rca-message.png)
 
-    For more information about approving restricted caller access \(RCA\) privileges to allow cross-scope access to Now Assist in Contract Management, see [RCA approvals for Now Assist in Contract Management](approve-rca-contracts-spo.md).
+    For more information about approving restricted caller access \(RCA\) privileges to allow cross-scope access to Now Assist in Contract Management, see [RCA approvals for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approve-rca-contracts-spo.md).
 
 7.  Select **Analyze contract**.
 
@@ -105,15 +105,15 @@ Steps
     You can only view the suggestions in the contextual side panel. To act on a suggestion, open a .docx Microsoft Word document and use the Microsoft Word add-in for ServiceNow Contracts. For more information, see [Contract analysis states in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-states.md)
 
 
--   **[RCA approvals for Now Assist in Contract Management](approve-rca-contracts-spo.md)**  
+-   **[RCA approvals for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approve-rca-contracts-spo.md)**  
 Approve restricted caller access \(RCA\) privileges to allow cross-scope access to Now Assist in Contract Management.
 
-**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](../concept/use-now-assist-cmpro-spo.md)
+**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-now-assist-cmpro-spo.md)
 
 **Related topics**  
 
 
-[Enable Now Assist in Contract Management](activate-na-cmpro-spo.md)
+[Enable Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-na-cmpro-spo.md)
 
-[Start a metadata extraction for a contract from Source-to-Pay Workspace](extract-metadata-spo.md)
+[Start a metadata extraction for a contract from Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/extract-metadata-spo.md)
 

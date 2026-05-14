@@ -21,14 +21,14 @@ Role required: admin
 
 1.  Generate Databricks credentials.
 
-    For detailed instructions, see [Generate credentials](prepare-to-run-the-databricks-collector.md#).
+    For detailed instructions, see [Generate credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-the-databricks-collector.md#).
 
 2.  Configure permissions.
 
-    For detailed instructions, see [Configure permissions](prepare-to-run-the-databricks-collector.md#).
+    For detailed instructions, see [Configure permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/prepare-to-run-the-databricks-collector.md#).
 
 
-**Parent Topic:**[Databricks metadata collector](../concept/databricks-metadata-collector.md)
+**Parent Topic:**[Databricks metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/databricks-metadata-collector.md)
 
 ## Generate credentials
 

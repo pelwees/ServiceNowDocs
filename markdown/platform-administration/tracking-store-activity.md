@@ -61,5 +61,5 @@ ServiceNow Products
 A searchable list that provides details of all products that your organization has procured.
 
 </td></tr></tbody>
-</table>For more information about apps and products, see [Understanding plugins, apps, integrations, and products](plugins-apps-products-integrations.md#).
+</table>For more information about apps and products, see [Understanding plugins, apps, integrations, and products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/plugins-apps-products-integrations.md#).
 

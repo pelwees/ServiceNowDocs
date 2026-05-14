@@ -23,5 +23,5 @@ The event severity numbers correspond to actual severities on the Metric Anomaly
 |3|Minor|
 |4|Warning|
 
-**Parent Topic:**[Agent Client Collector Monitoring reference](acc-monitoring-reference.md)
+**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 

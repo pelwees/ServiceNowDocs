@@ -17,7 +17,7 @@ Starting with Release 20.1.x, the **Services overview** and **Business services 
 
 To show the **Business services overview** tab and hide the **Services overview** tab, UI Builder administrators can open the **Settings** tab in the UI Builder and choose **Hide tab** as shown in the example.
 
-![Hiding the Services overview tab.](../image/hide-services-overview-tab.png)
+![Hiding the Services overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/hide-services-overview-tab.png)
 
 Once the settings are saved, the **Business services overview** tab is displayed and the **Services overview** tab is hidden from the landing page.
 
@@ -25,7 +25,7 @@ Once the settings are saved, the **Business services overview** tab is displayed
 
 To show the **Services overview** tab and hide the **Business services overview** tab, UI Builder administrators can open the **Settings** tab in the UI Builder and deselect the **Active** flag \(mark it as inactive\) as shown in the example.
 
-![Hiding the Business services overview tab.](../image/hide-b-services-overview-tab.png)
+![Hiding the Business services overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/hide-b-services-overview-tab.png)
 
 Once the settings are saved, the **Services overview** tab is displayed and the **Business services overview** tab is hidden from the landing page.
 

@@ -26,7 +26,7 @@ Role required: it\_demand\_manager
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
@@ -36,7 +36,7 @@ Role required: it\_demand\_manager
 
 4.  Select the resource assignment record that you want to recalculate the costs for.
 
-5.  Select the More Actions option and select **Recalculate Resource Cost**.![Use the Recalculate Resource Cost button to recalculate the costs of a resource.](../images/recalculate-resource-cost-button.png)
+5.  Select the More Actions option and select **Recalculate Resource Cost**.![Use the Recalculate Resource Cost button to recalculate the costs of a resource.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/recalculate-resource-cost-button.png)
 
 6.  On the Recalculate Resource Cost form, fill in the fields.
 
@@ -67,7 +67,7 @@ End date of the time period for which the costs are recalculated.By default, the
 </td></tr></tbody>
 </table>7.  Select **OK**.
 
-    **Note:** Alternatively, you can recalculate the resource costs using the **Estimate resource requirements** playbook activity. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
+    **Note:** Alternatively, you can recalculate the resource costs using the **Estimate resource requirements** playbook activity. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
 
 
 ## Result
@@ -79,9 +79,9 @@ End date of the time period for which the costs are recalculated.By default, the
 **Related topics**  
 
 
-[Use Playbooks](use-playbooks-in-dw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demand-default-playbook-stages.md)
 
-[Create resource assignment form](../reference/create-resource-assignment-form-dw.md)
+[Create resource assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/create-resource-assignment-form-dw.md)
 

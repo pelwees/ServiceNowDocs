@@ -111,7 +111,7 @@ Filter condition
 
 </td><td>
 
-Specifies the fields, operators, and values that create the filter. The available fields are based on the selected table. The condition builder shows the number of records that match the conditions. Click the refresh icon ![Refresh conditions icon.](../image/RefreshConditions.png "Refresh Conditions")
+Specifies the fields, operators, and values that create the filter. The available fields are based on the selected table. The condition builder shows the number of records that match the conditions. Click the refresh icon ![Refresh conditions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/RefreshConditions.png "Refresh Conditions")
 
  to recalculate the number of matching records when you edit the conditions.
 

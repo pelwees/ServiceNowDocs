@@ -23,17 +23,17 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](../image/icon-service-dashboard.png).
+2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-service-dashboard.png).
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/task/add-impact-cal-services.md).
 
 3.  Select a service tile.
 
     A pop-up window displays the business criticality and severity of a service.
 
-    ![Application service tile with options to see service details and service map.](../image/sow-itom-service-app-tile-options.png)
+    ![Application service tile with options to see service details and service map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-itom-service-app-tile-options.png)
 
 4.  Select **Service Details**.
 
@@ -43,10 +43,10 @@ Role required: evt\_mgmt\_admin
 
 6.  From the left pane, select **Related Alerts**.
 
-    ![View primary alerts associated with the service.](../image/sow-related-alerts.png)
+    ![View primary alerts associated with the service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-related-alerts.png)
 
     View details about an alert by selecting its number in the **Number** column.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

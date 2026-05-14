@@ -75,7 +75,7 @@ This example shows how to create a ScriptableFlowRunner builder object and uses 
    
 ```
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## ScriptableFlowRunner - action\(String scopedActionName\)
 
@@ -83,8 +83,8 @@ Identifies the scope and name of the action to execute.
 
 See also:
 
--   [ScriptableFlowRunner - flow\(String scopedFlowName\)](ScriptableFlowRunnerScopedAPI.md#)
--   [ScriptableFlowRunner - subflow\(String scopedSubflowName\)](ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - flow\(String scopedFlowName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - subflow\(String scopedSubflowName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -92,7 +92,7 @@ See also:
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to create a ScriptableFlowRunner builder object and uses it to execute an approval action on a specific record. A ScriptableFlowRunnerResult object captures the execution arguments and action outputs.
 
@@ -143,7 +143,7 @@ This method adds a single input. To create an object and add multiple inputs, us
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example runs an action that takes a single input called `table_name`.
 
@@ -192,7 +192,7 @@ When a flow is triggered using quick\(\) along with the asUser\(\) method, user 
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to create a ScriptableFlowRunner builder object and uses it to execute an approval action on a specific record using asUser\(\) and quick\(\) methods. A ScriptableFlowRunnerResult object captures the execution arguments and action outputs.
 
@@ -235,7 +235,7 @@ To learn more about data stream actions, see [Data Stream actions and pagination
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to run a Data Stream action.
 
@@ -276,8 +276,8 @@ Identifies the scope and name of the flow to execute.
 
 See also:
 
--   [ScriptableFlowRunner - action\(String scopedActionName\)](ScriptableFlowRunnerScopedAPI.md#)
--   [ScriptableFlowRunner - subflow\(String scopedSubflowName\)](ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - action\(String scopedActionName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - subflow\(String scopedSubflowName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -285,7 +285,7 @@ See also:
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to run a flow that logs a message.
 
@@ -330,7 +330,7 @@ Runs the flow, subflow, or action asynchronously. Once the flow object starts ru
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 **Note:** As of the Xanadu release, running an action, flow, or subflow in the background using the quick\(\) method returns an execution ID as the ContextId value. The execution ID is not an actual context record as no records are inserted into the Flow Context \[sys\_flow\_context\] table. Rather the execution ID is used to track the asynchronous call.
 
@@ -388,7 +388,7 @@ Runs the flow, subflow, or action in the specified domain. Checks to ensure the 
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to create a ScriptableFlowRunner builder object and uses it to execute an approval action on a specific record. A ScriptableFlowRunnerResult object captures the execution arguments and action outputs.
 
@@ -438,7 +438,7 @@ Runs the flow, subflow, or action synchronously. Script execution pauses while t
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to create a ScriptableFlowRunner builder object and uses it to execute an approval action on a specific record. A ScriptableFlowRunnerResult object captures the execution arguments and action outputs.
 
@@ -507,7 +507,7 @@ Runs a flow, subflow, action, or Data Stream action from a server-side script sy
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 **Note:** As of the Xanadu release, running an action, flow, or subflow in the background using the quick\(\) method returns an execution ID as the ContextId value. The execution ID is not an actual context record as no records are inserted into the Flow Context \[sys\_flow\_context\] table. Rather the execution ID is used to track the asynchronous call.
 
@@ -603,8 +603,8 @@ Identifies the scope and name of the subflow to execute.
 
 See also:
 
--   [ScriptableFlowRunner - action\(String scopedActionName\)](ScriptableFlowRunnerScopedAPI.md#)
--   [ScriptableFlowRunner - flow\(String scopedFlowName\)](ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - action\(String scopedActionName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
+-   [ScriptableFlowRunner - flow\(String scopedFlowName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -612,7 +612,7 @@ See also:
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to run a subflow that logs a message.
 
@@ -659,7 +659,7 @@ Sets a timeout for a flow, subflow, or action execution.
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to run a flow and sets a timeout for two minutes.
 
@@ -782,7 +782,7 @@ To learn more about overriding a Connections and Credentials alias, see [Support
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to run a flow using a different alias than the default associated with the flow.
 
@@ -816,7 +816,7 @@ Adds a collection of inputs. If a name in one of the name-value pairs already ex
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 Creates an input object and passes the value to the withInputs\(\) method.
 
@@ -866,7 +866,7 @@ When a flow is triggered using quick\(\) along with the withRoles\(\) method, ro
 
 |Type|Description|
 |----|-----------|
-|[ScriptableFlowRunner - Scoped](ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
+|[ScriptableFlowRunner - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowRunnerScopedAPI.md#)|Builder object used to run a Workflow Studio action, flow, or subflow.|
 
 This example shows how to create a ScriptableFlowRunner builder object and uses it to execute an approval action on a specific record using withRoles\(\) and quick\(\) methods. A ScriptableFlowRunnerResult object captures the execution arguments and action outputs.
 

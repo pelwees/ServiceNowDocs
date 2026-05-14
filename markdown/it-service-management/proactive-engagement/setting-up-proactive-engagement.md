@@ -60,5 +60,5 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Proactive Engagement](configuring-proactive-engagement.md)
+**Parent Topic:**[Configuring Proactive Engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-proactive-engagement.md)
 

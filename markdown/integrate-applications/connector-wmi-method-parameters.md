@@ -34,7 +34,7 @@ The parameters for the Windows Management Instrumentation \(WMI\) connector meth
 
 ## Input parameter values
 
-To input the parameter values, see [Configure port properties](../task/configure-input-port-properties.md).
+To input the parameter values, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/itsm.md)
 

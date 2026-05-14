@@ -23,7 +23,7 @@ Role required: itil, sn\_service\_desk\_agent
 
 1.  Navigate to **All** &gt; **Service Operations Workspace**.
 
-2.  Select the **List** \(![List icon](../../digital-product-release/image/dpr-icon-list-view.png)\) menu.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../digital-product-release/image/dpr-icon-list-view.png)\) menu.
 
 3.  Under Incidents, select any of the following filter categories open the incident list.
 
@@ -80,7 +80,7 @@ Select the **More actions** icon \(![](../../digital-product-release/image/dpr-i
 
 </td><td>
 
-Select the **Edit** \(![Edit](../../configuration-data-management/image/icon-edit-pencil.png)\) icon to update the incident record from the list page. The incident form opens on the side panel with the following two tabs:
+Select the **Edit** \(![Edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configuration-data-management/image/icon-edit-pencil.png)\) icon to update the incident record from the list page. The incident form opens on the side panel with the following two tabs:
 
 -   Details: Includes all the incident record information such as short description, impact, assignment, cause and resolution.
 -   Activity: Includes all the incident record activity information.
@@ -108,7 +108,7 @@ Select **Export** to export the list of incidents in excel \(.csv\), pdf or html
 
 </td><td>
 
-Select the **Filter** \(![Filter](../../devops-config/image/pace-filter-icon.jpg)\) icon to filter the incident list based on specific conditions. You can set up these conditions to customize your filter. The animated number on the **Filter** \(![Filter](../../devops-config/image/pace-filter-icon.jpg)\) icon shows how many filters are currently applied to the incident list.
+Select the **Filter** \(![Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../devops-config/image/pace-filter-icon.jpg)\) icon to filter the incident list based on specific conditions. You can set up these conditions to customize your filter. The animated number on the **Filter** \(![Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../devops-config/image/pace-filter-icon.jpg)\) icon shows how many filters are currently applied to the incident list.
 
 </td></tr><tr><td id="d185379e311">
 
@@ -124,7 +124,7 @@ Select the **Refresh** \(![](../../digital-portfolio-management/image/refresh-li
 
 </td><td>
 
-Select the **Search** \(![Search](../../configurable-workforce-optimization-itsm/image/search_icon.png)\) icon to search an incident using any incident information as variable.
+Select the **Search** \(![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/search_icon.png)\) icon to search an incident using any incident information as variable.
 
 </td></tr><tr><td id="d185379e348">
 
@@ -132,7 +132,7 @@ Select the **Search** \(![Search](../../configurable-workforce-optimization-itsm
 
 </td><td>
 
-Select the **Edit column** \(![Edit column](../../itsm-workspace/image/toggle-compose-setting.png)\) icon to configure the view of the columns for the incident. The column represents the fields of the incident record. You can add or remove the columns from the incident list. An animated dot symbol on the **Edit column** option indicates whether the columns in the list are edited or personalized.
+Select the **Edit column** \(![Edit column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/toggle-compose-setting.png)\) icon to configure the view of the columns for the incident. The column represents the fields of the incident record. You can add or remove the columns from the incident list. An animated dot symbol on the **Edit column** option indicates whether the columns in the list are edited or personalized.
 
 </td></tr><tr><td id="d185379e375">
 
@@ -160,24 +160,24 @@ Select the **More actions** \(![](../../digital-product-release/image/dpr-icon-m
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/incident-sow.md)
 
 **Related topics**  
 
 
-[Create an incident in Service Operations Workspace](create-incident-sow.md)
+[Create an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-incident-sow.md)
 
-[View and update incident information on the Overview tab in SOW](view-update-inc-overview-tab.md)
+[View and update incident information on the Overview tab in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-update-inc-overview-tab.md)
 
-[Viewing incident record information using the Contextual side panel](../concept/view-inc-record-info-contextual-sidepanel.md)
+[Viewing incident record information using the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/view-inc-record-info-contextual-sidepanel.md)
 
-[Work on an incident record in Service Operations Workspace](work-on-incident-sow.md)
+[Work on an incident record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-incident-sow.md)
 
-[Remedial actions using Playbook](../concept/remedial-actions-playbook.md)
+[Remedial actions using Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/remedial-actions-playbook.md)
 
-[Close resolved incident](close-resolved-incident-sow.md)
+[Close resolved incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/close-resolved-incident-sow.md)
 
-[Reopen an incident in Service Operations Workspace](reopen-incident-sow.md)
+[Reopen an incident in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reopen-incident-sow.md)
 
-[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-im-reference.md)
 

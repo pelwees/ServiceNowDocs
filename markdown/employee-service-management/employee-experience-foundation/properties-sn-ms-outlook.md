@@ -44,5 +44,5 @@ Use this property to set the portal in which the survey opens if the questions e
 -   Default value: esc
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow for Microsoft Outlook reference](sn-ms-outlook-reference.md)
+</table>**Parent Topic:**[ServiceNow for Microsoft Outlook reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-outlook-reference.md)
 

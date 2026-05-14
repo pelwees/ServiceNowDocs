@@ -54,5 +54,5 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
     4.  Select OK.
 
 
-**Parent Topic:**[Create workplace contracts in Core UI](create-lease-contracts.md)
+**Parent Topic:**[Create workplace contracts in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/create-lease-contracts.md)
 

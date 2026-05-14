@@ -83,7 +83,7 @@ Stage
 
 The stage \(bundle\) of a lifecycle event case.Use this field to define what activity set in a lifecycle event case you want to add an ad hoc task to.
 
- For more information, see [Ad hoc cases and tasks for lifecycle event cases](../concept/le-ad-hoc-task.md#).
+ For more information, see [Ad hoc cases and tasks for lifecycle event cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/le-ad-hoc-task.md#).
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Reminder template
 
 </td><td colspan="2">
 
-Select the email template used for reminder notifications. Email templates are set up from **HR Administration** &gt; **Email Content**.Refer to [Add or modify email content for notifications](CreateModEmailTemplate.md).
+Select the email template used for reminder notifications. Email templates are set up from **HR Administration** &gt; **Email Content**.Refer to [Add or modify email content for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/CreateModEmailTemplate.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ HR Service
 
 </td><td>
 
-An HR service fulfills the HR task. In the **HR Service** field, select an HR service.**Note:** **Bulk Parent Case** does not appear as a selection because it is only used when creating a parent case for child bulk cases. Refer to [Create a bulk case request](t_CreateBulkCases.md).
+An HR service fulfills the HR task. In the **HR Service** field, select an HR service.**Note:** **Bulk Parent Case** does not appear as a selection because it is only used when creating a parent case for child bulk cases. Refer to [Create a bulk case request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateBulkCases.md).
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Collect Employee Input
 
 </td><td>
 
-Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](../concept/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -181,8 +181,8 @@ E-signature
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](../concept/hr-e-signature.md) for more information.
--   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. See [Select an HR document template for an e-signature task](select-hr-document-template-for-e-signature-task.md) for more information.
+-   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. See [HR e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-e-signature.md) for more information.
+-   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. See [Select an HR document template for an e-signature task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/select-hr-document-template-for-e-signature-task.md) for more information.
 
 
 </td></tr><tr><td>
@@ -191,7 +191,7 @@ Credential
 
 </td><td>
 
-Indicates that you want the user to acknowledge reading a document by logging in with their login credentials. The **Acknowledgment text** and **Acknowledgement document** fields appear. Using these fields shows a check box and text above the login credentials. In the Acknowledgement document field, select a document that the user is asked to read.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md) for more information.
+Indicates that you want the user to acknowledge reading a document by logging in with their login credentials. The **Acknowledgment text** and **Acknowledgement document** fields appear. Using these fields shows a check box and text above the login credentials. In the Acknowledgement document field, select a document that the user is asked to read.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/migrate-existing-tasks-to-scoped-e-signature.md) for more information.
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ E-Signature
 
 </td><td>
 
-Indicates that you want the user to provide an e-signature to acknowledge or validate a document. The **Acknowledgment text** and **Acknowledgement document** fields appear. Using these fields shows a check box and text above the e-signature.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md) for more information.
+Indicates that you want the user to provide an e-signature to acknowledge or validate a document. The **Acknowledgment text** and **Acknowledgement document** fields appear. Using these fields shows a check box and text above the e-signature.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/migrate-existing-tasks-to-scoped-e-signature.md) for more information.
 
 </td></tr><tr><td>
 
@@ -215,7 +215,7 @@ Sign Document
 
 </td><td>
 
-Requests the user to sign a document. An example is sending an education agreement to be signed for tuition reimbursement. The **Acknowledgment text** field appears. Using this field shows a check box and text above the signature.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](migrate-existing-tasks-to-scoped-e-signature.md) for more information.
+Requests the user to sign a document. An example is sending an education agreement to be signed for tuition reimbursement. The **Acknowledgment text** field appears. Using this field shows a check box and text above the signature.**Note:** This option is only available for existing customers that have not yet migrated to e-signature. See [Migrate existing HR task templates and open HR tasks to e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/migrate-existing-tasks-to-scoped-e-signature.md) for more information.
 
  After the user signs the document, the document is generated with the signature and attached to the task. The task is closed complete and the document is attached to the case.
 
@@ -225,7 +225,7 @@ Take Survey
 
 </td><td>
 
-In the **Survey** field, select a survey that the user is assigned to take.**Note:** For lifecycle event cases, this feature also works if the subject person or anyone that has access to the original lifecycle event case can answer the survey question. For more information, see [Triggering an activity from upstream activities](configure-hr-lifecycle-event-activity.md#).
+In the **Survey** field, select a survey that the user is assigned to take.**Note:** For lifecycle event cases, this feature also works if the subject person or anyone that has access to the original lifecycle event case can answer the survey question. For more information, see [Triggering an activity from upstream activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-lifecycle-event-activity.md#).
 
 </td></tr><tr><td>
 
@@ -503,8 +503,8 @@ Lists HR document acknowledgement types returned from an employee. You can filte
 7.  Click **Update**.
 
 
--   **[Create Office Space Request Task](HRTaskOfficeSpaceReq.md)**  
+-   **[Create Office Space Request Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRTaskOfficeSpaceReq.md)**  
 As part of the onboarding process, you can find and reserve an office space for a new hire.
 
-**Parent Topic:**[Work an HR case](t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 

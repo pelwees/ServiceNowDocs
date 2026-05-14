@@ -33,7 +33,7 @@ Role required: admin.
 
 4.  Click one of the plugins from the list to open the **System Upgrade Metrics** form view of that plugin.
 
-    The Plugin Files related list of all the loaded files for that plugin is displayed. ![Image showing the System Upgrade Metric form with the duration message and all loaded files](../image/uc-plugin-form-view.png)
+    The Plugin Files related list of all the loaded files for that plugin is displayed. ![Image showing the System Upgrade Metric form with the duration message and all loaded files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-plugin-form-view.png)
 
     **Note:** The total plugin load duration is not the sum of the load duration of all the loaded files for that plugin.
 

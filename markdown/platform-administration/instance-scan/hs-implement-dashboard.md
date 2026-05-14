@@ -17,7 +17,7 @@ Compare and analyze the results of the scans in your instance by representing it
 
 ## Before you begin
 
-You've created some checks to execute the full scan. See [Create a check](hs-create-health-check.md) and [Execute a full scan](hs-execute-full-scan.md) for more information.
+You've created some checks to execute the full scan. See [Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md) and [Execute a full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-full-scan.md) for more information.
 
 Role required: admin.
 
@@ -33,41 +33,41 @@ Role required: admin.
 
     A related list of findings related to only that scan is expanded.
 
-    ![Image showing the scan that generated unexpected results and its related list of findings](../image/hs-implement-dashboard.png)
+    ![Image showing the scan that generated unexpected results and its related list of findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-implement-dashboard.png)
 
 4.  Select the scan column directly from the dashboard to display the related list of checks.
 
-    ![Image showing how to select a particular scan result column](../image/hs-click.png)
+    ![Image showing how to select a particular scan result column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-click.png)
 
-    The related list of checks appears. The list also indicates the source that the finding has been retrieved from. ![Image showing checks for the selected health scan and the source of the problem](../image/hs-dashboard-related-list.png)
+    The related list of checks appears. The list also indicates the source that the finding has been retrieved from. ![Image showing checks for the selected health scan and the source of the problem](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-dashboard-related-list.png)
 
 
 ## Result
 
 A dashboard showing the results of scans is created.
 
-**Parent Topic:**[Using Instance Scan](../concept/hs-using-scans.md)
+**Parent Topic:**[Using Instance Scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-using-scans.md)
 
 **Related topics**  
 
 
-[Create a check](hs-create-health-check.md)
+[Create a check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-health-check.md)
 
-[Create a check suite](hc-create-check-suite.md)
+[Create a check suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-create-check-suite.md)
 
-[Executing a scan](../reference/hs-execute-scans.md)
+[Executing a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-execute-scans.md)
 
-[Schedule a full scan](hs-schedule-full-scan.md)
+[Schedule a full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-schedule-full-scan.md)
 
-[Schedule a suite scan](hc-schedule-suite-scan.md)
+[Schedule a suite scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-schedule-suite-scan.md)
 
-[Monitoring a scan](hs-progress-status-full-scan.md)
+[Monitoring a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-progress-status-full-scan.md)
 
-[Parallel scans](../concept/hs-parallel-scan.md)
+[Parallel scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-parallel-scan.md)
 
-[Reviewing of scans](../reference/hs-review-scans.md)
+[Reviewing of scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-review-scans.md)
 
-[Queue your scan](hs-queue-scan.md)
+[Queue your scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-queue-scan.md)
 
-[Cancel a scan](hs-cancel-scan.md)
+[Cancel a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-cancel-scan.md)
 

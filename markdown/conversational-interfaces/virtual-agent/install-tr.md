@@ -27,7 +27,7 @@ Role required: admin
 
     If an update is available, a notification displays on the Topic Recommendations page.
 
-    ![A notification that reads, "Topic Recommendations - New version available. Select the View update link to open the ServiceNow Store.](../images/tr-update-available.png)
+    ![A notification that reads, "Topic Recommendations - New version available. Select the View update link to open the ServiceNow Store.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-update-available.png)
 
 2.  Select **View update**.
 

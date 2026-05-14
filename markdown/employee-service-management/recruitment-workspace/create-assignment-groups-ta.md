@@ -27,5 +27,5 @@ Set up the assignment groups to view data on the recruitment dashboard in the Re
 
 For more information on setting up assignment groups, see [Configure assignment group types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ConfigGroupTypesForAssignGroups.md).
 
-**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 

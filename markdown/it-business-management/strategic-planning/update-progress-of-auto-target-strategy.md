@@ -76,21 +76,21 @@ The goal details page opens.
 </td></tr></tbody>
 </table>4.  On the Target form, select the **Update Actual value** related link.
 
-    For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    For a description of the field values, see [Target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-goals/reference/target-form-egm.md).
 
 
 **Related topics**  
 
 
-[Create a goal](create-goal-strategy.md)
+[Create a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-[Duplicate a goal or target](duplicate-goal-target-strategy.md)
+[Duplicate a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/duplicate-goal-target-strategy.md)
 
-[Align work with a goal or target](associate-work-with-goals-strategy.md)
+[Align work with a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/associate-work-with-goals-strategy.md)
 
-[Create a strategic plan](create-strategic-plan-strategy.md)
+[Create a strategic plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-plan-strategy.md)
 
-[Create a strategic priority](create-strategic-priority-strategy.md)
+[Create a strategic priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-priority-strategy.md)
 
-[Send a reminder for target actuals check in](send-reminder-target-checkin-strategy.md)
+[Send a reminder for target actuals check in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 

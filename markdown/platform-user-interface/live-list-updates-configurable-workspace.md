@@ -68,5 +68,5 @@ Use this procedure to enable the system property required to configure live upda
 
 ## What to do next
 
-Configure live updates for a page without affecting other lists in your workspace. For instructions, see [Configure live updates for a list page](live-list-updates-page-level.md).
+Configure live updates for a page without affecting other lists in your workspace. For instructions, see [Configure live updates for a list page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/live-list-updates-page-level.md).
 

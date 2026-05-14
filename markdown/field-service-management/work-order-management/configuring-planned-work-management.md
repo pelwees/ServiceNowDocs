@@ -19,23 +19,23 @@ Configure Planned Work Management to create and manage the planned work activiti
 
 The steps for setting up planned work management are:
 
-1.  [Install Planned Work Management](../task/Activate-planned-work-management.md)
+1.  [Install Planned Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../task/Activate-planned-work-management.md)
 
     Install the Planned Work Management application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.
 
-2.  \(Optional\) [Use extension point for planned work management](../reference/extention-point-template-management.md)
+2.  \(Optional\) [Use extension point for planned work management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/extention-point-template-management.md)
 
     Use extension points to build on the Field Service Management functionality without changing the application code.
 
-3.  [Configuring work plans](managing-work-plans.md)
+3.  [Configuring work plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/managing-work-plans.md)
 
     Create a work plan for a product model, or other criteria, such as location or asset. For example, you can set up the work schedule to specify that service is performed every six months for the first two years from the date of purchase, or after completing 10,000 miles, whichever comes first.
 
-4.  \(Optional\) [Configure schedule occurrence suppression](configure-suppression-of-schedule-occurrences.md)
+4.  \(Optional\) [Configure schedule occurrence suppression](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configure-suppression-of-schedule-occurrences.md)
 
     Suppress duplicate planned work tasks when different schedules overlap.
 
-5.  \(Optional\) [Configure work order grouping for a work plan](Group-work-orders.md)
+5.  \(Optional\) [Configure work order grouping for a work plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Group-work-orders.md)
 
     Group multiple work orders for a work plan into a single work order based on the defined criteria.
 
@@ -43,9 +43,9 @@ The steps for setting up planned work management are:
 **Related topics**  
 
 
-[Create a work order for the planned work](creating-work-orders-from-planned-work.md)
+[Create a work order for the planned work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/creating-work-orders-from-planned-work.md)
 
-[Work plan example](../reference/example-planned-work.md#)
+[Work plan example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/example-planned-work.md#)
 
-[Planned Work Management Home page](../../../use/dashboards/application-content-packs/pwm-dashboard.md)
+[Planned Work Management Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../../use/dashboards/application-content-packs/pwm-dashboard.md)
 

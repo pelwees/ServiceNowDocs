@@ -17,18 +17,18 @@ The RegressionSolutionVersion API is a scriptable object used in Predictive Inte
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-Use this API when working with solution versions based on [RegressionSolution API](../../RegressionSolution/concept/RegressionSolutionAPI.md#) objects in the [RegressionSolution store](../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#).
+Use this API when working with solution versions based on [RegressionSolution API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) objects in the [RegressionSolution store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolutionStore/concept/RegressionSolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
 Methods in this API are accessible using the following RegressionSolution methods:
 
--   [getActiveVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getAllVersions\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getLatestVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
--   [getVersion\(\)](../../RegressionSolution/concept/RegressionSolutionAPI.md#)
+-   [getActiveVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)
+-   [getAllVersions\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)
+-   [getLatestVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)
+-   [getVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## RegressionSolutionVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [RegressionSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) version details. Results vary by object property setup.```
 {
   "datasetProperties": {Object},
   "domainName": "String",
@@ -76,7 +76,7 @@ Contents of the Dataset and [RegressionSolution](../../RegressionSolution/concep
 
 </td><td>
 
-Lists the properties of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
+Lists the properties of the [DatasetDefinition\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object associated with the solution.
 
  ```
 {
@@ -158,7 +158,7 @@ Domain name associated with this dataset. See [Domain separation and Predictive 
 
 </td><td>
 
-Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](../../Encoder/concept/EncoderAPI.md#).Data type: Object.
+Encoder object assigned to this solution. See [Encoder - Encoder\(Object config\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#).Data type: Object.
 
 </td></tr><tr><td>
 
@@ -347,7 +347,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [RegressionSolution](../../RegressionSolution/concept/RegressionSolutionAPI.md#) object.```
+JavaScript object containing training status information for a [RegressionSolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../RegressionSolution/concept/RegressionSolutionAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -505,7 +505,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

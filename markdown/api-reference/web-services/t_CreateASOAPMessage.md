@@ -39,8 +39,8 @@ Role required: web\_service\_admin
 
     This image shows an example of a SOAP message that connects to a demo instance of ServiceNow.
 
-    ![Soap message demo 1](../image/SoapMessageDemoi1.png)
+    ![Soap message demo 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/SoapMessageDemoi1.png)
 
 
-**Parent Topic:**[SOAP message](../concept/c_SOAPMessage.md)
+**Parent Topic:**[SOAP message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPMessage.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_si.admin
 
 1.  Navigate to **All** &gt; **Playbook Experiences** &gt; **Actions** &gt; **Activity Actions**.
 
-    ![Creating an Activity Action](../image/activity-ctions.png)
+    ![Creating an Activity Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/activity-ctions.png)
 
 2.  Select **New**.
 
@@ -34,5 +34,5 @@ Role required: sn\_si.admin
     You can also override the existing activity experience type. For more information, see ServiceNow AI Platform documentation. No Playbook overrides are added in this example.
 
 
-**Parent Topic:**[Example Activity Definition: Send email](example-activity-definition-send-email.md)
+**Parent Topic:**[Example Activity Definition: Send email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-activity-definition-send-email.md)
 

@@ -41,18 +41,18 @@ You can restore a subflow when you want to set the current configuration to that
 
 7.  From the Flow History view, select **Restore**.
 
-    ![Flow history entry for 5th June, 5:14 AM with option to Restore](../images/subflow-history-restore-01.png)
+    ![Flow history entry for 5th June, 5:14 AM with option to Restore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-restore-01.png)
 
 8.  From the Restore confirmation dialog box, select **Restore**.
 
-    ![Restore past version dialog box. Proceeding will duplicate version "5th June, 5:14am" and make it the current version.](../images/subflow-history-restore-02.png)
+    ![Restore past version dialog box. Proceeding will duplicate version "5th June, 5:14am" and make it the current version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-restore-02.png)
 
 
 ## Result
 
-![The Flow history list has a new entry of type Restored.](../images/subflow-history-restore-03.png)
+![The Flow history list has a new entry of type Restored.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-restore-03.png)
 
 Workflow Studio displays the restored subflow configuration.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflow-history.md)
 

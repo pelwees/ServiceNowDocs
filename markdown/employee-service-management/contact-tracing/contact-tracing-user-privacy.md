@@ -35,11 +35,11 @@ Privacy consent requirements ensure that your users complete a privacy consent b
 
 As an admin, you must configure the following settings to use privacy consents with Contact Tracing:
 
-1.  [Modify or add a privacy consent template for Contact Tracing](../task/define-privacy-consent-template.md)
-2.  [Generate location-based privacy configurations for Contact Tracing](../task/generate-location-privacy-configuration.md)
-3.  [Create a custom Emergency Outreach notification channel](../task/create-additional-channel-notif.md)
-4.  [Configure an email notification for a privacy consent request](../task/configure-privacy-email.md)
-5.  [Configure an Emergency Outreach notification for Contact Tracing privacy consents](../task/configure-outreach-notif-privacy.md)
+1.  [Modify or add a privacy consent template for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/define-privacy-consent-template.md)
+2.  [Generate location-based privacy configurations for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/generate-location-privacy-configuration.md)
+3.  [Create a custom Emergency Outreach notification channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/create-additional-channel-notif.md)
+4.  [Configure an email notification for a privacy consent request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/configure-privacy-email.md)
+5.  [Configure an Emergency Outreach notification for Contact Tracing privacy consents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../task/configure-outreach-notif-privacy.md)
 
-**Parent Topic:**[Maintaining user data privacy in Contact Tracing](contact-tracing-user-privacy-options.md)
+**Parent Topic:**[Maintaining user data privacy in Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy-options.md)
 

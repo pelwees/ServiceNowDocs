@@ -18,7 +18,7 @@ Import a Schema from the Confluent Registry to enable your Stream Connect produc
 ## Before you begin
 
 -   Role required: kafka\_admin
--   This feature is part of schema management in Stream Connect. For more information, see [Schema management in Stream Connect](../concept/schema-management.md).
+-   This feature is part of schema management in Stream Connect. For more information, see [Schema management in Stream Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/schema-management.md).
 -   The ServiceNow Stream Connect Installer \[com.glide.hub.stream\_connect.installer\] plugin is required.
 -   To import a schema, you need to have a Connection and Credential alias to connect to your Confluent registry. Navigate to **All** &gt; **IntegrationHub** &gt; **Schema Management** &gt; **Configure Connection** to configure your alias. For instructions, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md).
 
@@ -26,7 +26,7 @@ Import a Schema from the Confluent Registry to enable your Stream Connect produc
 
 Stream Connect uses schemas to convert messages from plain text to an Avro format and back. Using an Avro format can reduce the size of the payload and simplify your integration to your local Kafka instance.
 
-This document shows you how to import a schema from the Confluent registry. You can also [Create a standalone schema in Stream Connect](create-standalone-schema.md).
+This document shows you how to import a schema from the Confluent registry. You can also [Create a standalone schema in Stream Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/create-standalone-schema.md).
 
 ## Procedure
 
@@ -51,5 +51,5 @@ Your schema is visible on the Stream Connect Schemas \[stream\_connect\_schema\]
 
 Use Stream Connect producers and consumers to send and receive messages in an Avro format.
 
-**Parent Topic:**[Schema management in Stream Connect](../concept/schema-management.md)
+**Parent Topic:**[Schema management in Stream Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/schema-management.md)
 

@@ -22,7 +22,7 @@ A CI is in maintenance when:
 -   A change request is scheduled for the CI.
 -   The **Install Status** field on the CI record is set to **In Maintenance**.
 
-**Note:** To customize how alerts work with CIs in maintenance, see [Create maintenance rules](../task/create-maintenance-rule.md).
+**Note:** To customize how alerts work with CIs in maintenance, see [Create maintenance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/create-maintenance-rule.md).
 
 <table><thead><tr><th>
 
@@ -34,7 +34,7 @@ Description and the optimal time to resolve the alert
 
 </th></tr></thead><tbody><tr><td>
 
-![Event Management impact](../image/EMImpactTreeCR.png "CI with an active change request")
+![Event Management impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMImpactTreeCR.png "CI with an active change request")
 
  If an active change request is scheduled for the CI or if the **Install Status** of the CI is **In Maintenance**, all alerts on the affected CI are excluded from impact calculation. The Alerts tab also temporarily hides all corresponding alerts. The impact tree shows the CI in green with a note of **\(In Maintenance\)**. The impact tree and the service map temporarily show CIs in green.
 
@@ -53,11 +53,11 @@ OR
 
 **Note:**
 
-The [**Maintenance**](../task/t_EMViewAlertmaintenance.md) check box for an alert is selected when the **Install Status** field on the CI record is **In Maintenance**. This **Maintenance** check box indicates that the alert must be hidden from the **Alerts** tab.
+The [**Maintenance**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMViewAlertmaintenance.md) check box for an alert is selected when the **Install Status** field on the CI record is **In Maintenance**. This **Maintenance** check box indicates that the alert must be hidden from the **Alerts** tab.
 
 </td></tr><tr><td>
 
-![Event Management map](../image/EMImpactTreeNoCR.png "CI with no active change request and not in maintenance")
+![Event Management map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMImpactTreeNoCR.png "CI with no active change request and not in maintenance")
 
  When there is no active change request for a CI and when the CI is not in maintenance, impact calculation resumes. The impact tree, the service map, and Alerts tab show the calculated impact severity for alerts.
 
@@ -70,7 +70,7 @@ An inactive change request has the following values: -   The **State** is **New*
 
 </td></tr><tr><td>
 
-![Event Management impact](../image/EMImpactTreeCR.png "CI with no active change request and in maintenance")
+![Event Management impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMImpactTreeCR.png "CI with no active change request and in maintenance")
 
  If no active change request is scheduled for the CI and if the **Install Status** of the CI is **In Maintenance**, all alerts on this CI are excluded from impact calculation. The impact tree shows the CI in green with a note of **\(In Maintenance\)**. The impact tree and the service map temporarily show CIs in green.
 
@@ -79,10 +79,10 @@ An inactive change request has the following values: -   The **State** is **New*
 All alerts on a CI with an inactive change request and **In Maintenance** has no impact calculation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
+</table>**Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
 **Related topics**  
 
 
-[Create maintenance rules](../task/create-maintenance-rule.md)
+[Create maintenance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/create-maintenance-rule.md)
 

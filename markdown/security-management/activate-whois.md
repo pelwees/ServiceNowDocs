@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation is complete, navigate to **Security Operations** &gt; **Integration Configuration**.
 

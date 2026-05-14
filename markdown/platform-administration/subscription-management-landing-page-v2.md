@@ -25,27 +25,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_st5_wvc_pwb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Subscription Management benefits and features.](../concept/exploring-subscription-management-v2.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Subscription Management benefits and features.](../concept/exploring-subscription-management-v2.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Subscription Management settings.](../concept/configuring-subscription-management-v2.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Subscription Management settings.](../concept/configuring-subscription-management-v2.md)
 
 </td><td>
 
-[Manage per-user subscriptions![](../../../reuse/icons/brand-icons/bus-3-person.svg)Allocate per-user subscriptions using recommended groups.](../concept/managing-user-subscriptions-v2.md)
+[Manage per-user subscriptions![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-3-person.svg)Allocate per-user subscriptions using recommended groups.](../concept/managing-user-subscriptions-v2.md)
 
 </td></tr><tr><td>
 
-[Map custom tables and applications![](../../../reuse/icons/brand-icons/bus-service-map.svg)Stay in compliance by mapping custom tables and applications to subscriptions.](../concept/allocating-custom-tables-subscr-apps-v2.md)
+[Map custom tables and applications![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-service-map.svg)Stay in compliance by mapping custom tables and applications to subscriptions.](../concept/allocating-custom-tables-subscr-apps-v2.md)
 
 </td><td>
 
-[Monitor capacity subscriptions![](../../../reuse/icons/brand-icons/bus-compliance.svg)Learn how capacity subscriptions are calculated on your instance.](../concept/monitoring-capacity-subscriptions.md)
+[Monitor capacity subscriptions![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-compliance.svg)Learn how capacity subscriptions are calculated on your instance.](../concept/monitoring-capacity-subscriptions.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about types of subscriptions, meters, and domain separation.](subscription-management-reference-v2.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about types of subscriptions, meters, and domain separation.](subscription-management-reference-v2.md)
 
 </td></tr></tbody>
 </table>

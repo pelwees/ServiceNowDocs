@@ -86,5 +86,5 @@ Comments
 Free-text field for notes or context about the configuration.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Account Management reference](../reference/cam-reference.md)
+</table>**Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../reference/cam-reference.md)
 

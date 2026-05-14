@@ -21,7 +21,7 @@ This framework enables for a selection of affected retail stores which are parti
 
 The retail multi-store case relies on the CSM table map entries created as part of the multi-case configuration in the new service definition that you create for creating multi-store cases.
 
-For information on the setup process, see [Configuring Retail Task Management](rahi-retail-task-management-configuring.md).
+For information on the setup process, see [Configuring Retail Task Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-configuring.md).
 
 ## Retail multi-store case process
 
@@ -29,11 +29,11 @@ Using Retail Task Management Core, you can create a multi-store case for their r
 
 Once the case is saved, the **Affected Retail Stores** tab appears where you can select the stores for which child cases should be created.
 
-![Add retail stores panel in a Retail multi-store case.](../image/rtmc-multi-store-screen.png)
+![Add retail stores panel in a Retail multi-store case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-multi-store-screen.png)
 
 After selecting the **Submitted case,**the parent multi-store case is saved and the child case creation process begins.
 
-![Case creation message.](../image/rtmc-multi-store-message.png)
+![Case creation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-multi-store-message.png)
 
-For more information on this process, see [Create multi-store cases in Retail Task Management Core](rahi-retail-create-multi-store.md).
+For more information on this process, see [Create multi-store cases in Retail Task Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-multi-store.md).
 

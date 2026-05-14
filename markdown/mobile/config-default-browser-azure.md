@@ -25,7 +25,7 @@ Role required: Microsoft Intune admin
 
 2.  In the menu on the left side of the screen, navigate to **Apps**.
 
-    ![Microsoft Endpoint Manager admin center menu showing the 'Apps' option.](../image/intune-mdm-config-select-apps.png)
+    ![Microsoft Endpoint Manager admin center menu showing the 'Apps' option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-select-apps.png)
 
 3.  In the menu on the left side of the screen, select **App configuration policies**.
 
@@ -33,7 +33,7 @@ Role required: Microsoft Intune admin
 
 5.  To the right of the **Settings** header, click **Edit**.
 
-    ![Microsoft Endpoint Manager admin center shwoing where you can edit the app config properties.](../image/intune-mdm-config-def-browser.png)
+    ![Microsoft Endpoint Manager admin center shwoing where you can edit the app config properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/intune-mdm-config-def-browser.png)
 
 6.  In the **General configuration settings** section, add the following **Name** and **Value** entries:
 
@@ -59,7 +59,7 @@ SNAuthenticationBrowseriOS
 
 </td><td>
 
-Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md)
+Enter the value for the browser to use for apps on iOS mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/appconfig.md)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ SNAuthenticationBrowserAndroid
 
 </td><td>
 
-Enter the value for the browser to use for apps on Android mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md)
+Enter the value for the browser to use for apps on Android mobile devices. For more information and a list of values, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/appconfig.md)
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ SNBlockInstanceCreate
 
 </td><td>
 
-Enter the value to prevent end users from creating connections to new instances for managed mobile apps. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+Enter the value to prevent end users from creating connections to new instances for managed mobile apps. For more information and a list of values, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/appconfig.md).
 
 </td></tr><tr><td>
 
@@ -83,13 +83,13 @@ SNBlockMultiInstance
 
 </td><td>
 
-Enter the value to prevent end users from logging in to multiple instances simultaneously. For more information and a list of values, see [AppConfig for Mobile Apps](../reference/appconfig.md).
+Enter the value to prevent end users from logging in to multiple instances simultaneously. For more information and a list of values, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/appconfig.md).
 
 </td></tr></tbody>
-</table>    ![Edit app configuration policy window in Microsoft Endpoint Manager admin center.](../image/azure-edit-policy.png)
+</table>    ![Edit app configuration policy window in Microsoft Endpoint Manager admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/azure-edit-policy.png)
 
 7.  Select **Review + save**
 
 
-**Parent Topic:**[Intune mobile device management \(MDM\)](../concept/intune-mdm.md)
+**Parent Topic:**[Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/intune-mdm.md)
 

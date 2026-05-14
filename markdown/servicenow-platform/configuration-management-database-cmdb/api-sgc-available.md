@@ -21,31 +21,31 @@ Select a technology to learn about the API Service Graph Connector available for
 
 <table id="table_t4z_2ww_3xb" class="nav-card"><tbody><tr><td>
 
-[![Apigee X logo.](../image/sgc-apigee.png)Apigee X](api-sgc-apigee-x.md)
+[![Apigee X logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-apigee.png)Apigee X](api-sgc-apigee-x.md)
 
 </td><td>
 
-[![AWS API Gateway logo.](../image/sgc-aws-api.png)AWS API Gateway](api-sgc-aws-gateway.md)
+[![AWS API Gateway logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-aws-api.png)AWS API Gateway](api-sgc-aws-gateway.md)
 
 </td><td>
 
-[![Azure API Management logo.](../image/sgc-azure-api.png)Azure API Management](api-sgc-azure-mgmt.md)
+[![Azure API Management logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-azure-api.png)Azure API Management](api-sgc-azure-mgmt.md)
 
 </td></tr><tr><td>
 
-[![Boomi Cloud API Management logo.](../image/sgc-boomi.png)Boomi Cloud API Management](api-sgc-boomi-cloud.md)
+[![Boomi Cloud API Management logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-boomi.png)Boomi Cloud API Management](api-sgc-boomi-cloud.md)
 
 </td><td>
 
-[![Kong Gateway logo.](../image/sgc-kong.png)Kong Gateway](api-sgc-kong-gateway.md)
+[![Kong Gateway logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-kong.png)Kong Gateway](api-sgc-kong-gateway.md)
 
 </td><td>
 
-[![Kong Konnect logo.](../image/sgc-kong.png)Kong Konnect](api-sgc-kong-konnect.md)
+[![Kong Konnect logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-kong.png)Kong Konnect](api-sgc-kong-konnect.md)
 
 </td></tr><tr><td>
 
-[![MuleSoft logo.](../image/sgc-mulesoft.png)MuleSoft](api-sgc-mulesoft.md)
+[![MuleSoft logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/sgc-mulesoft.png)MuleSoft](api-sgc-mulesoft.md)
 
 </td><td>
 

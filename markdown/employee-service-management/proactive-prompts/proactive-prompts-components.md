@@ -172,18 +172,18 @@ Prompt users\[sn\_pp\_prompt\_users\]
 Stores the record level information qualified for the prompt when the **Collect records** field is selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for Proactive Prompts](proactive-prompts-reference.md)
+</table>**Parent Topic:**[Reference for Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-reference.md)
 
 **Related topics**  
 
 
-[Tokens in Proactive Prompts](proactive-prompts-tokens.md)
+[Tokens in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-tokens.md)
 
-[Types of data sources in Proactive Prompts](proactive-prompts-data-source.md)
+[Types of data sources in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-data-source.md)
 
-[Actions and action groups in Proactive Prompts](proactive-prompts-actions.md)
+[Actions and action groups in Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-actions.md)
 
-[Signal data source form](proactive-prompts-signal-datasource-form.md)
+[Signal data source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-datasource-form.md)
 
-[Signal configuration form](proactive-prompts-create-signal-form.md)
+[Signal configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-create-signal-form.md)
 

@@ -15,13 +15,13 @@ There are two areas where you define the language for your ServiceNow mobile app
 
 **Note:** For the optimum user experience, the same language should be used for the instance and the ServiceNow mobile app language.
 
-For a list of supported languages, see [Localization on mobile devices](../concept/localization-mobile-device.md).
+For a list of supported languages, see [Localization on mobile devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/localization-mobile-device.md).
 
 ## Defining the ServiceNow instance language
 
 You can change the instance language by selecting the relevant language from the drop-down field in the mobile app login screen. If this field isn't displayed, this means that your instance has been preconfigured for a specific language and can't be changed.
 
-![ServiceNow mobile instance login screen with language selection.](../image/mobile-app-login-language.png)
+![ServiceNow mobile instance login screen with language selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-app-login-language.png)
 
 ## Defining the mobile app language
 
@@ -29,11 +29,11 @@ You can change the mobile app language in the ServiceNow mobile app itself. The 
 
 -   **__Changing the language in__ ServiceNow __mobile apps__ - iOS**
 
-    ![Selecting language from within iOS devices.](../image/lang-config-workflow-ios.png)
+    ![Selecting language from within iOS devices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lang-config-workflow-ios.png)
 
 -   **__Changing the language in__ ServiceNow __mobile apps__ - Android**
 
-    ![Selecting language from within Android devices.](../image/lang-config-workflow-android.png)
+    ![Selecting language from within Android devices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lang-config-workflow-android.png)
 
 
 ## Language page in your ServiceNow mobile apps
@@ -50,7 +50,7 @@ For both the iOS and Android workflows when changing the language for ServiceNow
 
 </td><td>
 
-![Language page options within ServiceNow mobile apps.](../image/lang-prefer-instance.png)
+![Language page options within ServiceNow mobile apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lang-prefer-instance.png)
 
 </td></tr></tbody>
 </table>

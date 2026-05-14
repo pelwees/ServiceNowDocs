@@ -17,10 +17,10 @@ Use the Space Optimization dashboard Workplace Analytics to analyze space capaci
 
 ## Prerequisites for accessing the Space Optimization dashboard
 
--   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](install-workplace-central.md)
--   Ensure that the Workplace Space Management \(sn\_wsd\_spcmgmt\) application is installed. For more information, see [Install Workplace Space Management](../../workplace-space-management/task/install-workplace-space-mgmt.md).
+-   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
+-   Ensure that the Workplace Space Management \(sn\_wsd\_spcmgmt\) application is installed. For more information, see [Install Workplace Space Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/install-workplace-space-mgmt.md).
 -   Ensure that the Workplace Central and Workplace Space Management applications and all of their associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   Run the scheduled job **Workplace Analytics Space Management report data generation** before viewing the Space Optimization dashboard for the first time. For more information, see [Run the scheduled job for the Space Optimization dashboard](run-job-space-opt-dashboard.md).
+-   Run the scheduled job **Workplace Analytics Space Management report data generation** before viewing the Space Optimization dashboard for the first time. For more information, see [Run the scheduled job for the Space Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/run-job-space-opt-dashboard.md).
 
 ## Accessing the dashboard
 
@@ -35,17 +35,17 @@ Access the dashboard using one of the following navigation paths:
 
 The following default reports show data for the past year only. You can adjust the data range by using the available filters for Date, Region, Site, Campus, Allocation, Workplace entity.
 
-Allocation type \[sn\_wsd\_core.ALLOCATION\_TYPE\] enables you to specify an allocation type based on space utilization.Only allocations that are active in the selected time frame are considered for the reports. For more information, see [Allocate a cost center, department, or workplace entity](../../workplace-space-management/task/add-cost-center-department-floor.md).
+Allocation type \[sn\_wsd\_core.ALLOCATION\_TYPE\] enables you to specify an allocation type based on space utilization.Only allocations that are active in the selected time frame are considered for the reports. For more information, see [Allocate a cost center, department, or workplace entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/add-cost-center-department-floor.md).
 
-![Filter data by Allocation type on the Space Optimization dashboard.](../images/wsd-space-optimize-dashboard-workplace-entity.png)
+![Filter data by Allocation type on the Space Optimization dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-space-optimize-dashboard-workplace-entity.png)
 
-For more information, see [Allocation - types, setting, and impact](../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md).
+For more information, see [Allocation - types, setting, and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/reference/setting-an-allocation-and-its-impact.md).
 
 The Space Optimization dashboard also enables you to visualize data based on the Entity type. Manage space allocations based on the workplace entity to ensure proper space utilization.
 
-![Space optimization dashboard showing headcount trends.](../images/wsd-space-optimization-dashboard.png)
+![Space optimization dashboard showing headcount trends.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-space-optimization-dashboard.png)
 
-For more information, see [Map designated workspaces to user profiles](../../workplace-service-delivery/task/map-employees-to-existing-workplace-locations-wsd.md).
+For more information, see [Map designated workspaces to user profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/task/map-employees-to-existing-workplace-locations-wsd.md).
 
 Capacity is calculated based on the following criteria:
 
@@ -64,7 +64,7 @@ Utilization is calculated using the following criteria:
 
     Benefits:
 
-    -   Select the more options icon \(![More options icon to refresh the report.](../images/dashboard-report-refresh-icon.png)\) to refresh the report.
+    -   Select the more options icon \(![More options icon to refresh the report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/dashboard-report-refresh-icon.png)\) to refresh the report.
     -   Insight into the space availability versus the occupancy trend.
     -   Enables you to reconfigure your space assignments and space optimization to achieve optimal resource utilization.
     -   A desk can be shared by multiple workplace entities.
@@ -79,7 +79,7 @@ Utilization is calculated using the following criteria:
 
     Benefits:
 
-    -   Select the more options icon \(![More options icon to refresh the report.](../images/dashboard-report-refresh-icon.png)\) to refresh the report.
+    -   Select the more options icon \(![More options icon to refresh the report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/dashboard-report-refresh-icon.png)\) to refresh the report.
     -   Insight into the space utilization for the days of the week.
     -   Enables you to prioritize resources according to the demand.
     -   Select a report facet and double-click to see the details.
@@ -92,11 +92,11 @@ Utilization is calculated using the following criteria:
 
     This report facet displays the average capacity and average utilization based on the workplace entity.
 
-    ![Space utilization by workplace entity metrics.](../images/wsd-space-ulitization-by-workplace-entity.png)
+    ![Space utilization by workplace entity metrics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-space-ulitization-by-workplace-entity.png)
 
     Benefits:
 
-    -   Select the more options icon \(![More options icon to refresh the report.](../images/dashboard-report-refresh-icon.png)\) to refresh the report.
+    -   Select the more options icon \(![More options icon to refresh the report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/dashboard-report-refresh-icon.png)\) to refresh the report.
     -   Select the **Allocation** tab in the Filter by options and allocate by different workplace entity.
     -   Select **Entity type** in the Filter by options and select a workplace entity to view the space utilization metrics for a selected entity.
     -   Compare the set of data for average capacity and average utilization for a workplace entity.
@@ -112,7 +112,7 @@ Utilization is calculated using the following criteria:
 
     Benefits:
 
-    -   Select the more options icon \(![More options icon to refresh the report.](../images/dashboard-report-refresh-icon.png)\) to refresh the report.
+    -   Select the more options icon \(![More options icon to refresh the report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/dashboard-report-refresh-icon.png)\) to refresh the report.
     -   Compare data for average capacity and average utilization for a space type.
     -   Add or remove space types to achieve the optimal space optimization.
     Calculation:
@@ -124,19 +124,19 @@ Utilization is calculated using the following criteria:
 
 You can customize the widgets to display relevant metrics by using the UI Builder. For more information, see [UI Builder tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/uib-tutorial.md).
 
--   **[Run the scheduled job for the Space Optimization dashboard](run-job-space-opt-dashboard.md)**  
+-   **[Run the scheduled job for the Space Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/run-job-space-opt-dashboard.md)**  
 As an admin, run the scheduled job **Workplace Analytics Space Management report data generation** to calculate capacity and utilization for all spaces.
 
-**Parent Topic:**[Working with Workplace Analytics](../concept/working-with-workplace-analytics.md)
+**Parent Topic:**[Working with Workplace Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-workplace-analytics.md)
 
 **Related topics**  
 
 
-[View Occupancy Dashboard](../../workplace-connectors/task/view-badging-tables.md)
+[View Occupancy Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-connectors/task/view-badging-tables.md)
 
-[View Lease Administration metrics](view-lease-admin-analytics.md)
+[View Lease Administration metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-lease-admin-analytics.md)
 
-[View Maintenance Management metrics](view-maintenence-mgmt-analytics.md)
+[View Maintenance Management metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-maintenence-mgmt-analytics.md)
 
-[Manage Workplace Dashboards](workplace-dashboards-wsd-central.md)
+[Manage Workplace Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-dashboards-wsd-central.md)
 

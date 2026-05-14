@@ -15,7 +15,7 @@ Edit an existing unattended robot in RPA Hub to modify a few details of the robo
 
 ## Before you begin
 
-Create an unattended robot. Ensure to select the **Robot Type** field as **Unattended**. For more information, see [Create an unattended robot in RPA Hub](create-unattended-robot.md).
+Create an unattended robot. Ensure to select the **Robot Type** field as **Unattended**. For more information, see [Create an unattended robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-unattended-robot.md).
 
 You cannot edit an attended robot.
 
@@ -29,7 +29,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Robots**.
 
@@ -152,7 +152,7 @@ Robot has executed executing the automation.
 
 </td><td>
 
-Attended user started the automation by selecting the run icon \(![Run icon.](../../rda-runtime/image/rda-runtime-icon-run.png)\) or desktop in desktop icon \(![Desktop In Desktop icon.](../../rda-runtime/image/rda-runtime-icon-run-desktop.png)\).
+Attended user started the automation by selecting the run icon \(![Run icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/image/rda-runtime-icon-run.png)\) or desktop in desktop icon \(![Desktop In Desktop icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rda-runtime/image/rda-runtime-icon-run-desktop.png)\).
 
 </td></tr><tr><td>
 

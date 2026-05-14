@@ -32,12 +32,12 @@ Role required: assessment\_admin or admin
     The system displays messages at the top of the form describing the actions taken.
 
 
-**Parent Topic:**[Assessment metric categories](../concept/c_AssessmentMetricCategories.md)
+**Parent Topic:**[Assessment metric categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetricCategories.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 
-[Create a category for assessable records](t_CreateACategoryAR.md)
+[Create a category for assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryAR.md)
 

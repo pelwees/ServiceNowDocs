@@ -25,31 +25,31 @@ If you want to define Server and Linux Server as distinct element definitions wi
 
 If you select the Servers asset type as shown in the example and select **Add**, the configuration shows all the servers including Solaris, ESX, Windows, and so on.
 
-![Server type.](../image/ele-def-server-type.png)
+![Server type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-server-type.png)
 
 If you define the server element as a generic bucket, you can select any of the server types as shown in the example. The Servers asset type has a Linux server as a child item. However, a separate asset type called as Linux server is available in the Asset types list.
 
-![Servers list.](../image/ele-def-servers-allocation.png)
+![Servers list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-servers-allocation.png)
 
 In the list, the asset types are calculated and shown as 2 Linux servers and 4 Servers where one item is a Linux server. It is possible that after the refresh or after reloading the assets, the asset types are recalculated and shown differently. For example, the system may show the asset types as 3 Linux servers and 3 Servers or 0 Linux servers and 6 Servers. The asset types are calculated differently because the element definition of Server also includes the Linux server.
 
 In such scenarios, configuring rules that overlap with other rules may lead to an error. As a workaround, the list items should be configured as mutually exclusive and the filter condition should be configured appropriately as shown in the examples.
 
-![Linux Server.](../image/ele-def-linux-server.png)
+![Linux Server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-linux-server.png)
 
 In this scenario, the Servers is the parent table and the Linux server is the child table. In the Servers table \(record\), configure a filter condition where the class is not Linux Server by choosing the **Class is not Linux Server** option.
 
-![Class is not Linux Server.](../image/ele-def-class-not-linux-server.png)![Server filter condition.](../image/ele-def-list-server-filter-condition.png)
+![Class is not Linux Server.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-class-not-linux-server.png)![Server filter condition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-list-server-filter-condition.png)
 
 It means that the Servers element definition includes all servers except the Linux server.
 
 Starting with the Xanadu release, the element definition filter for the Hardware element definition has been updated. You cannot add a Windows server asset or a Linux server asset under the Hardware element as shown in the example.
 
-![Hardware element definition.](../image/ele-def-hardware.png)
+![Hardware element definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-hardware.png)
 
 However, you can now add a Windows server asset in the Windows Server element definition or a Linux server asset in the Linux Server element definition as shown in the examples.
 
-![Linux server element definition.](../image/ele-def-linux-server-for-hardware.png)![Windows server element definition.](../image/ele-def-windows-server-for-hardware.png)
+![Linux server element definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-linux-server-for-hardware.png)![Windows server element definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/ele-def-windows-server-for-hardware.png)
 
 ## Procedure
 
@@ -59,19 +59,19 @@ However, you can now add a Windows server asset in the Windows Server element de
 
     The example shows the Element Definition record.
 
-    ![Element definition.](../image/element-definition-new-record.png)
+    ![Element definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/element-definition-new-record.png)
 
     **Note:** The filter condition in the Element definition is used to add specific configuration items \(CIs\) via the pop-up. The **Update dependencies** UI action also considers the element definition's filter and retrieves the related CIs of the configuration item listed in the **Applies to** field of the BIA. These relationships are retrieved from the CI Relationships table.
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Element definition record form](../reference/element-definition-record-form.md).
+    For more information on the fields in the form, see [Element definition record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/element-definition-record-form.md).
 
 4.  Select **Submit**.
 
 
--   **[Element definition record form](../reference/element-definition-record-form.md)**  
+-   **[Element definition record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/element-definition-record-form.md)**  
 Use the Element definition record form to configure a recovery tier with a set of business applications by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-bcmadmin-tasks.md)
 

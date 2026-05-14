@@ -29,7 +29,7 @@ Role required: admin
 
     The following example shows the Create New Connection &amp; Credential link that you select to set up a connection and credential record.
 
-    ![Smartsheet connection and credential record creation link.](../image/smartsheet-connection-cred1.png "Smartsheet connection and credential record creation link")
+    ![Smartsheet connection and credential record creation link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/smartsheet-connection-cred1.png "Smartsheet connection and credential record creation link")
 
 4.  On the form, fill in these fields.
 
@@ -68,7 +68,7 @@ API Key
 
 </td><td>
 
-Application Programming Interface \(API\) key that is generated on Smartsheet. **Note:** To learn how to generate the API key, see [Generate the Smartsheet Application Programming Interface \(API\) key](generate-smartsheet-api-key.md).
+Application Programming Interface \(API\) key that is generated on Smartsheet. **Note:** To learn how to generate the API key, see [Generate the Smartsheet Application Programming Interface \(API\) key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/generate-smartsheet-api-key.md).
 
 </td></tr></tbody>
 </table>5.  Select **Create**.
@@ -77,6 +77,6 @@ Application Programming Interface \(API\) key that is generated on Smartsheet. *
 
     The following example shows that a connection and credential record is created and available under the **Connections** tab.
 
-    ![Smartsheet connection and credential record created.](../image/smartsheet-connection-cred-created.png)
+    ![Smartsheet connection and credential record created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/smartsheet-connection-cred-created.png)
 
 

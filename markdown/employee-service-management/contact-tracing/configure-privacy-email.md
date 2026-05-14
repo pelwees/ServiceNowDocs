@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Review the existing **User Privacy Consent** email notification to familiarize yourself with the script and other settings.
 
-    ![The When to send tab in the User Privacy Consent notification.](../image/email-notif-privacy.png "User Privacy Consent base system notification")
+    ![The When to send tab in the User Privacy Consent notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/email-notif-privacy.png "User Privacy Consent base system notification")
 
 3.  Click **New**.
 
@@ -63,5 +63,5 @@ Role required: admin
 11. Click **Update**.
 
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-privacy-consent-settings.md)
 

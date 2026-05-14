@@ -21,7 +21,7 @@ Before enabling single-currency mode, set the system locale. To configure single
 -   **glide.i18n.single\_currency.code**: the three-letter ISO currency code
 -   **glide.system.locale**: the system locale
 
-**Note:** For detailed information about valid locale formats, see [Locale settings](locales.md).
+**Note:** For detailed information about valid locale formats, see [Locale settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/locales.md).
 
 Using the single-currency mode has the following limitations:
 
@@ -30,5 +30,5 @@ Using the single-currency mode has the following limitations:
 
 You can avoid the effects of rate conversions by setting the system locale and the reference currency to be the single currency.
 
-**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 

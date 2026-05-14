@@ -56,14 +56,14 @@ To avoid timing out for very large surveys, you can disable the transaction quot
 
 The **Migrate to Assessment** related link on the legacy survey record becomes unavailable after the migration. However, if you delete the record referenced in the **Assessment** field, the related link reappears and you can migrate the legacy survey again.
 
-**Parent Topic:**[Legacy survey migration](../concept/c_MigrateSurveys.md)
+**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MigrateSurveys.md)
 
 **Related topics**  
 
 
-[Survey question migration](../reference/r_SurveyQuestionMigration.md)
+[Survey question migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionMigration.md)
 
-[Migrated components](../reference/r_MigratedComponents.md)
+[Migrated components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_MigratedComponents.md)
 
-[Migrated question review](../reference/r_ReviewMigratedQuestions.md)
+[Migrated question review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_ReviewMigratedQuestions.md)
 

@@ -483,7 +483,7 @@ Enable flexible breaks
 
 </td><td>
 
-Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and Workforce Optimization for Field Service must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and Workforce Optimization for Field Service must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-wfo-fsm.md).
 
 </td><td>
 
@@ -576,5 +576,5 @@ Shift “A” and Shift “B” are assigned to different agents who complete ta
 **Note:** This constraint works with the **Maximize Efficient Assignments** objective to reward faster completions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Schedule Optimization components](schedule-optimization-components.md)
+</table>**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 

@@ -62,7 +62,7 @@ Select **Add another Sprint**.
 </table>
 ## What to do next
 
-[Plan work items into sprints in CWM](plan-work-items-into-sprints-in-cwm.md).
+[Plan work items into sprints in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/plan-work-items-into-sprints-in-cwm.md).
 
-**Parent Topic:**[Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md)
+**Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/agile-sprint-planning-in-cwm.md)
 

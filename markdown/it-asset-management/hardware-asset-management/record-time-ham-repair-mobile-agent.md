@@ -52,10 +52,10 @@ Role required: asset
 
 The Record time form is saved and the time card is added to the Time worked section of the Related tab.
 
-**Parent Topic:**[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+**Parent Topic:**[Record time worked on a hardware asset repair task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-time-worked-mobile-agent-app-con.md)
 
 **Related topics**  
 
 
-[Pause a hardware asset repair task using the Mobile Agent application](pause-repair-task-ham-mobile-agent.md)
+[Pause a hardware asset repair task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/pause-repair-task-ham-mobile-agent.md)
 

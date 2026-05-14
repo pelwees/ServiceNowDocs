@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-Build Agent is enabled by default to create apps with AI, for example in ServiceNow Studio. To use other Now Assist products, such as the app generation skill, disable Build Agent. For example, using the setting in your ServiceNow Studio preferences. For more information, see [Use the app generation skill to generate apps](../../now-assist-app-gen/task/sns-app-gen-use-app-gen-skill.md).
+Build Agent is enabled by default to create apps with AI, for example in ServiceNow Studio. To use other Now Assist products, such as the app generation skill, disable Build Agent. For example, using the setting in your ServiceNow Studio preferences. For more information, see [Use the app generation skill to generate apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../now-assist-app-gen/task/sns-app-gen-use-app-gen-skill.md).
 
 **Note:** The trial app was formerly called "Build Agent" and has been renamed to "Build Agent \(Trial\)."
 
@@ -43,17 +43,17 @@ Build Agent is enabled by default to create apps with AI, for example in Service
 
     2.  Go to the **Now Assist Skills** tab and select **Creator**.
 
-        ![Build Agent is listed as Now Assist for Creator skills.](../image/build-agent-enable.png)
+        ![Build Agent is listed as Now Assist for Creator skills.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/build-agent-enable.png)
 
     3.  Select **Turn on** to enable the skill.
 
     The skill is enabled for all users.
 
 
-**Parent Topic:**[Configure Build Agent](configure-build-agent.md)
+**Parent Topic:**[Configure Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/configure-build-agent.md)
 
 **Related topics**  
 
 
-[Install Now Assist for Creator](../../../administer/flow-designer/task/install-now-assist-for-creator.md)
+[Install Now Assist for Creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../administer/flow-designer/task/install-now-assist-for-creator.md)
 

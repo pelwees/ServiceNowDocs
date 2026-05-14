@@ -48,7 +48,7 @@ Sections
 
 Sections help you search for items by arranging them sequentially and in logical groups. By default, ServiceNow provides the My resources and Quick links sections.
 
- Desktop Assistant administrators can configure additional sections for the home page. For more information, see [Add a section in the Desktop Assistant home page](../task/add-home-page-section.md).
+ Desktop Assistant administrators can configure additional sections for the home page. For more information, see [Add a section in the Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/add-home-page-section.md).
 
 </td></tr><tr><td>
 
@@ -56,12 +56,12 @@ Cards
 
 </td><td>
 
-Desktop Assistant provides the following cards with the base system:-   Device health check: Monitor and self-resolve common device health issues. For more information, see [Check device health using Desktop Assistant](../task/check-your-device-s-health-using-desktop-assistant.md).
--   Network test: Run network diagnostic tests. For more information, see [Test network connectivity of your device](../task/test-internet-connection.md).
--   Employee Center: Access the Employee Center portal. For more information, see [Open Employee Center from Desktop Assistant](../task/open-employee-center.md).
--   Outages: View outages on Employee Center. For more information, see [View outages from Desktop Assistant](../task/open-outages.md).
+Desktop Assistant provides the following cards with the base system:-   Device health check: Monitor and self-resolve common device health issues. For more information, see [Check device health using Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/check-your-device-s-health-using-desktop-assistant.md).
+-   Network test: Run network diagnostic tests. For more information, see [Test network connectivity of your device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/test-internet-connection.md).
+-   Employee Center: Access the Employee Center portal. For more information, see [Open Employee Center from Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/open-employee-center.md).
+-   Outages: View outages on Employee Center. For more information, see [View outages from Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/open-outages.md).
 
-By default, the Device health check and Network test cards are mapped to the My resources section and the Employee Center and Outages cards are mapped to the Quick links section. Desktop Assistant administrators can map or remove cards from any section on the home page. For more information, see [Map a card to a section](../task/map-card-section.md) and [Delete a card from the Desktop Assistant home page](../task/delete-card.md).
+By default, the Device health check and Network test cards are mapped to the My resources section and the Employee Center and Outages cards are mapped to the Quick links section. Desktop Assistant administrators can map or remove cards from any section on the home page. For more information, see [Map a card to a section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/map-card-section.md) and [Delete a card from the Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/delete-card.md).
 
 </td></tr></tbody>
 </table>**Note:** If you experience issues with Desktop Assistant, troubleshoot them by accessing the logs at these locations:

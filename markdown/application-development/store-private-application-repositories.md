@@ -37,5 +37,5 @@ The Application Repository respects cross-scope access privileges, which means a
 
 This is a critical security control that helps prevent unauthorized modifications in production. Confirm that only authorized developers have the admin or application\_creator roles needed to publish to the Application Repository in development.
 
-**Parent Topic:**[Deployment](get-started-deployment.md)
+**Parent Topic:**[Deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/get-started-deployment.md)
 

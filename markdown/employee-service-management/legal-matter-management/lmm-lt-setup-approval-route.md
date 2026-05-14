@@ -47,5 +47,5 @@ As there is no scheduled job to pull the approval route details, you must manual
 5.  Select **Submit** to save the record.
 
 
-**Parent Topic:**[Configure data to enable matter creation in Legal Tracker](lmm-config-data-mtemplates.md)
+**Parent Topic:**[Configure data to enable matter creation in Legal Tracker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-config-data-mtemplates.md)
 

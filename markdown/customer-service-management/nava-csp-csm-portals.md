@@ -21,7 +21,7 @@ The key benefits of adopting Now Assist in Virtual Agent for your portals includ
 -   Improved self-service: It helps improve productivity and efficiency by providing faster answers and recommended actions.
 -   Enhanced search: Enhances search capabilities by guiding users through more refined, AI-driven searches, helping them locate the information they need with greater accuracy and efficiency. Users can also search for public content in the Now Assist in Virtual Agent and get the search results. The source of the search results are available as internal or external with the links to it.
 
-![A portal screen showing the Virtual Agent with Now Assist enabled, providing options for user support and information retrieval.](../image/VA-self-service-portal.png "Virtual Agent with Now Assist enabled in portal")
+![A portal screen showing the Virtual Agent with Now Assist enabled, providing options for user support and information retrieval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/VA-self-service-portal.png "Virtual Agent with Now Assist enabled in portal")
 
 ## Getting started with Now Assist in Virtual Agent in Customer and Consumer Service portals
 
@@ -37,9 +37,9 @@ Understand the Now Assist in Virtual Agent in Customer and Consumer Service Port
 **Related topics**  
 
 
-[Now Assist conversational experience in self-service portals](nass-portal.md)
+[Now Assist conversational experience in self-service portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/nass-portal.md)
 
-[Using Virtual Agent in Customer and Consumer Service Portals](va-csp-csm-portal.md)
+[Using Virtual Agent in Customer and Consumer Service Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/va-csp-csm-portal.md)
 
 [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md)
 

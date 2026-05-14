@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_admin
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![setup icon.](../../image/eaw-image/eaw-icon-setup.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![setup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-setup.png)\).
 
-3.  Select the expand row icon \(![expand row icon.](../../image/ExpandIcon.png)\) next to **Enterprise Modeling and Visualization**.
+3.  Select the expand row icon \(![expand row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Enterprise Modeling and Visualization**.
 
 4.  Select **Shape Libraries**.
 
@@ -31,21 +31,21 @@ Role required: sn\_apm.apm\_admin
 
 6.  On the Shape Library form, fill in the fields.
 
-    For field information, see [Shape library form](../../reference/eaw-reference/eaw-shape-library-form.md).
+    For field information, see [Shape library form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-shape-library-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-working-custom-shapes.md)
 
 **Related topics**  
 
 
-[Storing shapes or images to the database](eaw-modeling-store-image-databse.md)
+[Storing shapes or images to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-store-image-databse.md)
 
-[Create a diagram action for a custom shape](eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-action-custom-shape.md)
 
-[Add a shape library element for a custom shape](eaw-modeling-custom-shape-element.md)
+[Add a shape library element for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-custom-shape-element.md)
 
-[Custom shapes example](eaw-modeling-custom-shape-example.md)
+[Custom shapes example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-custom-shape-example.md)
 

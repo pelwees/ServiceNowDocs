@@ -27,7 +27,7 @@ Role required: project\_manager
 
 ## About this task
 
-This option recalculates the costs of all resource plans of the project at once. You can also open a resource plan from the **Resource Plans** related list to [recalculate the resource costs of an individual resource plan](../../resource-management/task/recalculate-resource-costs.md).
+This option recalculates the costs of all resource plans of the project at once. You can also open a resource plan from the **Resource Plans** related list to [recalculate the resource costs of an individual resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../resource-management/task/recalculate-resource-costs.md).
 
 ## Procedure
 
@@ -99,56 +99,56 @@ Option for including the planned cost of a Confirmed or Allocated plan.The optio
 -   Updates the recalculated resource costs on the respective cost fields on the resource plan form and the Resource Plans related list.
 -   Reflects the revised values on the respective cost fields of the project.
 
-**Parent Topic:**[Starting a project](t_CreateAProject.md)
+**Parent Topic:**[Starting a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
 **Related topics**  
 
 
-[Create a project task from a project](t_CreateATaskFromAProject.md)
+[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-[Create a parent-child relationship on the Project Task form](t_CreateParentChildRelationship.md)
+[Create a parent-child relationship on the Project Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateParentChildRelationship.md)
 
-[Create a monetary benefit plan for a project](create-project-benefit-plan.md)
+[Create a monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-project-benefit-plan.md)
 
-[Create a non-monetary benefit plan for a project](create-a-non-monetary-benefit-plan-for-a-project.md)
+[Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-[Associate monetary and non-monetary benefit plans](associate-monetary-and-non-monetary-benefit-plans-project.md)
+[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/associate-monetary-and-non-monetary-benefit-plans-project.md)
 
-[Create a project cost plan](t_CreateAProjectCostPlan.md)
+[Create a project cost plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md)
 
-[Create an expense line](t_CreateAExpenseLine.md)
+[Create an expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md)
 
-[Create and manage waterfall projects](../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
+[Create and manage waterfall projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite/concept/c_CreateAndManageWaterfallProjects.md)
 
-[Schedule a project from a start date](schedule-a-project-pm.md)
+[Schedule a project from a start date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/schedule-a-project-pm.md)
 
-[Apply or change a task constraint](change-task-constraint-project-management.md)
+[Apply or change a task constraint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/change-task-constraint-project-management.md)
 
-[Update a project](t_UpdateAProjectInProgress.md)
+[Update a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UpdateAProjectInProgress.md)
 
-[Copy a project](t_CopyAProject.md)
+[Copy a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyAProject.md)
 
-[Assign a project schedule](t_UseAProjectSchedule.md)
+[Assign a project schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UseAProjectSchedule.md)
 
-[Create baseline of a project](t_CreateAProjectBaseline.md)
+[Create baseline of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md)
 
-[Create a milestone](t_CreateMilestones.md)
+[Create a milestone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateMilestones.md)
 
-[Activate project task email notifications](t_ActivateProjTaskEmailNot.md)
+[Activate project task email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ActivateProjTaskEmailNot.md)
 
-[Change the planned start date of a project](change-planned-start-date-of-project.md)
+[Change the planned start date of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/change-planned-start-date-of-project.md)
 
-[Create a cost type definition](t_CreateAResourceTypeDefinition.md)
+[Create a cost type definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAResourceTypeDefinition.md)
 
-[Costing add-on in Project Management](../concept/c_ProjectManagementCostingAddOn.md)
+[Costing add-on in Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectManagementCostingAddOn.md)
 
-[Generate labor costs](gen-cost-pln-prj-wrkspc.md)
+[Generate labor costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/gen-cost-pln-prj-wrkspc.md)
 
-[Create a project status report](t_CreateAProjectStatusReport.md)
+[Create a project status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectStatusReport.md)
 
-[Allocate budget to a project](allocate-budget-to-project.md)
+[Allocate budget to a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/allocate-budget-to-project.md)
 
-[Migrate budget of active projects to Next Experience](fin-migrate-budget-project-ppm.md)
+[Migrate budget of active projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/fin-migrate-budget-project-ppm.md)
 
-[Migrate financial baselines of projects to Next Experience](migrate-fin-baselines-projects.md)
+[Migrate financial baselines of projects to Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/migrate-fin-baselines-projects.md)
 

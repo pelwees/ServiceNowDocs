@@ -84,13 +84,13 @@ Select how the user provides their answer. Options: -   **Text** \(user enters a
 
     1.  Option A: Input Type as **Text**.
 
-        ![Knowledge Based Question - Text](../images/kba-question-1.png "Knowledge Based Question - Text")
+        ![Knowledge Based Question - Text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-question-1.png "Knowledge Based Question - Text")
 
         **Note:** If Input Type is set to **Text**, no additional fields are required.
 
     2.  Input Type as **Voice**.
 
-    ![Knowledge Based Question - Text](../images/kba-question-2.png "Knowledge Based Question - Voice")
+    ![Knowledge Based Question - Text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-question-2.png "Knowledge Based Question - Voice")
 
     **Note:** The following fields available as a mandatory field when Input Type is set to **Voice**.
 
@@ -134,5 +134,5 @@ Specify a regular expression pattern to validate the spoken response against the
 
 You’re redirected to the Knowledge Based Questions list view. Verify if your question is successfully added.
 
-![Knowledge Based Question - list](../images/kba-question-3.png "Knowledge Based Questions - list")
+![Knowledge Based Question - list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-question-3.png "Knowledge Based Questions - list")
 

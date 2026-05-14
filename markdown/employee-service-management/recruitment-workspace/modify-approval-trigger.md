@@ -34,5 +34,5 @@ Role required: admin
     -   Preferred level of seniority
     -   Number of headcount
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/config-recruitment.md)
 

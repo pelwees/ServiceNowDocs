@@ -19,6 +19,6 @@ The API clustering recommendations feature analyzes unlinked API components and 
 
 As a CMDB administrator, you can:
 
--   [View API clustering recommendations](api-insights-view-cluster-recomm.md).
--   [Accept clustering recommendations](../task/api-insights-accept-cluster.md).
+-   [View API clustering recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-view-cluster-recomm.md).
+-   [Accept clustering recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-accept-cluster.md).
 

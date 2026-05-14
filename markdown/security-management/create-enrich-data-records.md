@@ -44,5 +44,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |result|GlideRecords created using the enrichmentUtils script.|
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 

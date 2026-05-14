@@ -21,7 +21,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can [create](t_CreateAProjectBaseline.md) multiple baselines at various stages of a project, for example, at the end of each phase or after every calendar month or quarter. Each baseline captures the financial data of the project at a particular moment, providing a basis from which you can identify and review the changes made to the project. Having multiple baselines and comparing them helps you track the performance of your projects.
+You can [create](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md) multiple baselines at various stages of a project, for example, at the end of each phase or after every calendar month or quarter. Each baseline captures the financial data of the project at a particular moment, providing a basis from which you can identify and review the changes made to the project. Having multiple baselines and comparing them helps you track the performance of your projects.
 
 ## Procedure
 
@@ -57,7 +57,7 @@ Steps
 2.  Open a project.
 3.  On the Project form, select the **Cost Plans** or **Benefit Plans** related list.
 4.  Select **Manage**.
-5.  On the **Financials** tab, select the baseline information icon \(![Baseline information icon](../../planning-and-policy/image/gannt_chart_icon.png)\) and then select **Compare Baselines**.
+5.  On the **Financials** tab, select the baseline information icon \(![Baseline information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/gannt_chart_icon.png)\) and then select **Compare Baselines**.
 
 
 </td></tr><tr><td id="d204586e198">
@@ -85,16 +85,16 @@ Steps
     -   The **Financial Baseline Summary** section displays four widgets: the first two widgets contain the financial data of the two baselines, the third widget contains their variance, and the fourth widget contains the actual costs to date of the project.
     -   The **Financial Baseline Details** section displays the cost plans and benefit plans of the two baselines in two different grids. Each plan type has two rows corresponding to each baseline data.
 
-        **Note:** Select the baseline legend icon \(![Baseline Legend info icon.](../../planning-and-policy/image/compare-baselines-legend-icon.png)\) to see the color code of rows representing each baseline.
+        **Note:** Select the baseline legend icon \(![Baseline Legend info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/compare-baselines-legend-icon.png)\) to see the color code of rows representing each baseline.
 
 4.  Review additional fields or reorganize the comparative data on the form.
 
-    -   To show or hide additional fields on the widgets in the **Financial Baseline Summary** section, select the configuration icon \(![Configuration icon](../../planning-and-policy/image/gannt_chart_icon.png)\) and select the field names.
+    -   To show or hide additional fields on the widgets in the **Financial Baseline Summary** section, select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/gannt_chart_icon.png)\) and select the field names.
 
         The selected field preferences are saved and are available when you reopen the Financial Baseline form. To reset to the default widget layout, select **Reset to defaults**.
 
     -   To view cost plan or benefit plan comparative data in yearly, quarterly, or monthly format, select the **Year** or **Quarter** or **Month** views respectively.
-    -   To toggle viewing the **Financial Baseline Summary** section, select the **Collapse** icon \(![Collapse icon](../../planning-and-policy/image/CollapseIcon.png)\) or **Expand** icon \(![Expand icon](../../application-portfolio-management/image/ExpandIcon.png)\).
+    -   To toggle viewing the **Financial Baseline Summary** section, select the **Collapse** icon \(![Collapse icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../planning-and-policy/image/CollapseIcon.png)\) or **Expand** icon \(![Expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../application-portfolio-management/image/ExpandIcon.png)\).
 
-**Parent Topic:**[Create baseline of a project](t_CreateAProjectBaseline.md)
+**Parent Topic:**[Create baseline of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md)
 

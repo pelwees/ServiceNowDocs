@@ -32,5 +32,5 @@ Role required: sn\_communities.community\_user
     -   A confirmation message indicating that the abuse report has been received and will be reviewed is displayed.
     -   A moderation task is created and assigned to a moderator for resolution.
 
-**Parent Topic:**[Use a community profile](community-profile.md)
+**Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 

@@ -29,7 +29,7 @@ Role required: sn.hcls\_admin or admin
 
 3.  In the Specification Characteristics related list, click **New**.
 
-4.  In the **Characteristic** field, click the lookup icon ![Lookup using list icon.](../image/lookup-using-list.png) and select a characteristic from the **Name** column of the Characteristics list.
+4.  In the **Characteristic** field, click the lookup icon ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/lookup-using-list.png) and select a characteristic from the **Name** column of the Characteristics list.
 
     By default, the application provides the following dosage characteristics for use a reference:
 
@@ -43,7 +43,7 @@ Role required: sn.hcls\_admin or admin
     -   Quantity \(per week supply\)
     To create a new characteristic, click **New** in the Characteristics list and fill in the characteristic details.
 
-5.  Add characteristic options for a characteristic of the Choice input type by clicking the lookup icon ![Lookup using list icon.](../image/lookup-using-list.png) in the **Characteristic Option** field and selecting a characteristic option from the **Option** column of the Characteristic Options list.
+5.  Add characteristic options for a characteristic of the Choice input type by clicking the lookup icon ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/lookup-using-list.png) in the **Characteristic Option** field and selecting a characteristic option from the **Option** column of the Characteristic Options list.
 
     To create a new characteristic option, click **New** in the Characteristic Options list and fill in the characteristic option details.
 

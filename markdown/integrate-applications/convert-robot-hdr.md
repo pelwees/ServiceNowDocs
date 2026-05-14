@@ -17,7 +17,7 @@ Run multiple unattended automations simultaneously on a single machine by batch 
 
 You must do this task in the classic environment.
 
-Familiarise yourself with the high density robot concept in RPA Hub. For more information, see [High density robots in RPA Hub](../concept/high-density-robots-rpa-hub.md).
+Familiarise yourself with the high density robot concept in RPA Hub. For more information, see [High density robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/high-density-robots-rpa-hub.md).
 
 Only the unattended robots that are in **New** or **Disconnected** states and are not associated with any robot pool can be converted to high density robots.
 
@@ -35,7 +35,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 3.  From the **Actions on selected rows** drop-down menu, select **Convert to High density robots**.
 
-    ![Convert to High density robots option in the Actions on selected rows drop-down menu.](../image/convert-hdr.png)
+    ![Convert to High density robots option in the Actions on selected rows drop-down menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/convert-hdr.png)
 
 4.  In the **Machine Name** field, enter the computer name of the physical or virtual machine that supports multiple user sessions and on which the Unattended Robot application is installed.
 

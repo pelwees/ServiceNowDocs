@@ -13,9 +13,9 @@ breadcrumb: [Legacy: Performance Analytics ITSM Dashboards, Platform Analytics I
 
 Follow the daily and weekly progress of incidents, problems, and requests for your assignment groups.
 
-IT managers can use the [ITSM Success Dashboards](../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for their assignment groups.
+IT managers can use the [ITSM Success Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../../../product/itsm-success-dashboard/concept/explore-success-dashboard-indicators.md) to view the metrics for their assignment groups.
 
-![Animated tour of the tabs of the IT Manager dashboard](../image/itsm-it-manager.gif)
+![Animated tour of the tabs of the IT Manager dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/itsm-it-manager.gif)
 
 ## End user and roles
 
@@ -298,5 +298,5 @@ The following indicators do not appear on the dashboard but are used in formulas
 -   SLA Definition
 -   State \(Change, Request, Problem\)
 
-**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](itsm-dashboards-content-pack.md)
+**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-dashboards-content-pack.md)
 

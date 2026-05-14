@@ -60,20 +60,20 @@ Role required: admin
     ```
 
 
-**Parent Topic:**[Creating Platform Analytics pages in your own workspace](../../performance-analytics/concept/adding-analytics-center-to-ws.md)
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a Platform Analytics workspace from App Engine Studio](../../performance-analytics/concept/create-analytics-ws-aes.md)
+[Create a Platform Analytics workspace from App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/create-analytics-ws-aes.md)
 
-[Add Platform Analytics pages to a configurable workspace](../../performance-analytics/task/add-analytics-center-to-experience.md#)
+[Add Platform Analytics pages to a configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/add-analytics-center-to-experience.md#)
 
-[Add a dashboard to a Dashboards page](../../performance-analytics/task/add-dashboard-to-workspace.md)
+[Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/add-dashboard-to-workspace.md)
 
-[Configure custom redirection from a dashboard component](../../performance-analytics/task/config-custom-redirection-from-db.md)
+[Configure custom redirection from a dashboard component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/config-custom-redirection-from-db.md)
 
-[Dashboard URL parameter delegation](../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
+[Dashboard URL parameter delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/concept/dashboard-url-parameter-delegation.md#)
 
-[Configure dashboard data broker](../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
+[Configure dashboard data broker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../build/component-uib-setup/task/configure-dashboard-data-broker.md)
 

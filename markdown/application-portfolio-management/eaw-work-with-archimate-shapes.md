@@ -13,8 +13,8 @@ breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterp
 
 ArchiMate® shapes are the industry-standard elements used by enterprise architects to create diagrams that represent relationship across different domains of an enterprise. These shapes are used to model business, application, motivation, physical, strategy, and technology layers.
 
--   **[Create diagram using ArchiMate shapes and add relationships](../../task/eaw-task/eaw-modeling-create-diagram-archimate.md)**  
+-   **[Create diagram using ArchiMate shapes and add relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-create-diagram-archimate.md)**  
 Use the industry standard ArchiMate shapes to create modeling diagrams for your enterprise in the Enterprise Architecture Workspace.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-ent-model-and-visual.md)
 

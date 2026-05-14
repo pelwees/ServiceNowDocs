@@ -26,14 +26,14 @@ The Universal Request \(UR\) is a task that can be created from any of the follo
 
 The following diagram shows a high-level overview of the Universal Request data model.
 
-![Universal Request data model](../images/ur-datamodel.png)
+![Universal Request data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/ur-datamodel.png)
 
 The Universal Request data model uses a combination of tables to store data:
 
 -   ServiceNow AI Platform tables
 -   Tables included with Universal Request
 
-For information, see the list of [Universal Request plugins](ur-plugins.md).
+For information, see the list of [Universal Request plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-plugins.md).
 
 The Task \[task\] table is modified to include the following fields:
 
@@ -94,7 +94,7 @@ Current state of the Universal Request. A UR can be in any of the following stat
 -   Awaiting Response from user
 -   Closed
 
- For more information on the UR states, see [Universal Request states and reasons](ur-states.md).
+ For more information on the UR states, see [Universal Request states and reasons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-states.md).
 
 </td></tr><tr><td>
 
@@ -144,5 +144,5 @@ For a Universal Request that is created for the first time, no primary tickets e
 
 When a record producer is configured to automatically create a Universal Request, then the UR becomes the parent record. And, when a department ticket is created, then that record becomes the primary ticket and remains until it is transferred back to the UR, to another department, or service.
 
-**Parent Topic:**[Exploring Universal Request](explore-universal-request.md)
+**Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 

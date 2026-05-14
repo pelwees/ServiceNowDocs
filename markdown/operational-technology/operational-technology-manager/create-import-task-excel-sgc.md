@@ -27,7 +27,7 @@ Create an import task in the Industrial Workspace
 
 ## Procedure
 
-1.  In the Industrial Workspace, select the **List** \(![List icon](../../../common/image/icon-list.png)\) icon.
+1.  In the Industrial Workspace, select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
 
 2.  Under the OT Excel SGC - Import Task module, select one of the available lists.
 
@@ -45,7 +45,7 @@ Create an import task in the Industrial Workspace
 
 9.  Fill in the template as needed with your OT device data.
 
-    For more information about how to fill out the spreadsheet, see [Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md).
+    For more information about how to fill out the spreadsheet, see [Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md).
 
 10. From the **Attachments** panel, delete the original template by selecting the **Actions** ![](../../mftg-manufacturing-ot-knowledge/image/more-actions-vertical.png) icon next to the **sg\_ot\_excel\_staging.xlsx** and clicking **Delete**.
 
@@ -72,10 +72,10 @@ After the import process is complete and the Microsoft Excel spreadsheet has bee
 
 ## What to do next
 
-After the import process is complete, you can validate the imported staging records. For more information, see [Validate imported staging records](run-validations.md).
+After the import process is complete, you can validate the imported staging records. For more information, see [Validate imported staging records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/run-validations.md).
 
--   **[Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md)**  
+-   **[Prepare your Pre-import OT Worksheet Entry Review tool for Service Graph Connector import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/preparing-your-pre-import-ot-worksheet-entry-review-tool-for-sgc-import.md)**  
 Prepare your spreadsheet by positioning your existing data in the correct columns is crucial to the success of your upload.
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/use-excel-sgc-through-import-tasks.md)
 

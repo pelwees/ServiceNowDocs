@@ -57,5 +57,5 @@ The following topics describe how to use Now Assist Analytics and the AI Agent A
     Track AI agent use and efficiency gain on your instance. The dashboard reveals trends in how AI agents are used to improve time to resolution and the number of tasks closed.
 
 
-**Parent Topic:**[Agentic AI security and governance](now-assist-security.md)
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 

@@ -17,7 +17,7 @@ Execute a scheduled UI test suite immediately using a script without having to w
 
 ## Before you begin
 
-You've created and scheduled the test suites that you want to run. See [Create an automated test suite](../task/atf-create-suite.md) and [Schedule an automated test suite](../task/atf-sched-suite-steps.md), for more information.
+You've created and scheduled the test suites that you want to run. See [Create an automated test suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-create-suite.md) and [Schedule an automated test suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-sched-suite-steps.md), for more information.
 
 Role required: atf\_test\_admin or atf\_test\_designer
 
@@ -38,5 +38,5 @@ The following steps might not be in line with your software configurations.
     **Note:** The `start()` method returns `sys_progress_worker.sys_id` of the progress worker.
 
 
-**Parent Topic:**[Building and running automated test suites](atf-suites-overview.md)
+**Parent Topic:**[Building and running automated test suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-suites-overview.md)
 

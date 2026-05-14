@@ -25,7 +25,7 @@ If you are on Vancouver or Washington DC, you can view the dashboard in the Next
 
 To open the dashboard, navigate to **All** &gt; **Risk** &gt; **Analytics Overview**.
 
-![Risk Overview dashboard in the Next Experience](../image/risk-overview-dashboard-nextgen-coral.jpg "Risk Overview dashboard in the Next Experience")
+![Risk Overview dashboard in the Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-overview-dashboard-nextgen-coral.jpg "Risk Overview dashboard in the Next Experience")
 
 ## End users
 
@@ -61,5 +61,5 @@ To open the dashboard, navigate to **All** &gt; **Risk** &gt; **Analytics Overvi
 |Very Low Inherent Risk|Displays the number \(count\) of very low inherent risks.|
 |Very Low Residual Risk|Displays the number of very low residual risks.|
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 

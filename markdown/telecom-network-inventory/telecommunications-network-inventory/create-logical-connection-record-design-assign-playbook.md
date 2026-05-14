@@ -31,7 +31,7 @@ After you complete each activity, the network diagram updates and displays the d
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the design and assign icon \(![Design and Assign Icon](../image/icon-design-assign.png)\).
+2.  Select the design and assign icon \(![Design and Assign Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-design-assign.png)\).
 
     The Design and Assign home page is displayed.
 
@@ -423,10 +423,10 @@ Free-form operation note text for this network asset. For example, `Check diesel
 
 The change tasks are created and executed for each activity. The logical connection record is created with the associated Configuration items \(CI\).
 
-**Parent Topic:**[Design and Assign function](../concept/using-playbooks-design-assign-inventory-record.md)
+**Parent Topic:**[Design and Assign function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-playbooks-design-assign-inventory-record.md)
 
 **Related topics**  
 
 
-[Logical connections](../concept/design-logical-connection-design-assign-playbook.md)
+[Logical connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/design-logical-connection-design-assign-playbook.md)
 

@@ -27,7 +27,7 @@ Let us consider an example where you want to create a template to log an inciden
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Templates**.
 
-    You can also [Create a template from the incident form](create-template-inci-form.md).
+    You can also [Create a template from the incident form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-template-inci-form.md).
 
 2.  Complete the steps in [Create a template using the Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md) using the following information:
 
@@ -41,19 +41,19 @@ Let us consider an example where you want to create a template to log an inciden
         -   **\[Description\]: \[The user was denied access to the Bond Trading application\]**
         -   **\[Impact\]: \[2 - Medium\]**
         -   **\[Urgency\]: \[3 - Low\]**
-    ![Incident template to log incident when access is denied to the Bond Trading application](../image/incident-template.png)
+    ![Incident template to log incident when access is denied to the Bond Trading application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-template.png)
 
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Incident templates and record producers](../concept/incident-templates-record-producers.md)
+**Parent Topic:**[Incident templates and record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-templates-record-producers.md)
 
 **Related topics**  
 
 
-[Create a module that uses incident template](t_UseATemplateFromAModule.md)
+[Create a module that uses incident template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_UseATemplateFromAModule.md)
 
-[Create a record producer to log incidents](t_CreateARecordProducer.md)
+[Create a record producer to log incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateARecordProducer.md)
 
-[Create a record producer using a template](t_CreateRecProducWithTempl.md)
+[Create a record producer using a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/t_CreateRecProducWithTempl.md)
 

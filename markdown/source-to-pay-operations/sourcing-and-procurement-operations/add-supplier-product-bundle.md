@@ -37,7 +37,7 @@ You can add a supplier product bundle and choose to publish it on the Shopping H
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Add a supplier product](add-supplier-product.md).
+    For more information, see [Add a supplier product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md).
 
     **Note:** For creating a product bundle, enter the product model of type bundle in the **Product model** field.
 
@@ -59,5 +59,5 @@ You can add a supplier product bundle and choose to publish it on the Shopping H
 
 Use the related lists of the supplier product form to view the pricing, purchase order lines, product visuals, and ledger assignment rules that are associated with this supplier product bundle.
 
-**Parent Topic:**[Setting up your product catalog](create-product-catalogue.md)
+**Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 

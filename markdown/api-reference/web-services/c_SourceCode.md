@@ -80,5 +80,5 @@ namespace ExampleWebServiceForWiki
 
 ```
 
-**Parent Topic:**[Call a web service in visual studio .NET](c_CallAWebServiceInVisualStudioNET.md)
+**Parent Topic:**[Call a web service in visual studio .NET](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_CallAWebServiceInVisualStudioNET.md)
 

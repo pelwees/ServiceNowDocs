@@ -145,5 +145,5 @@ The following integration tables are used:
 |Third party tool name|String|Name of the third-party tool.|
 |Third party tool RFx URL|String|Event URL of the third-party tool.|
 
-**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
+**Parent Topic:**[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 

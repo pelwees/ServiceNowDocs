@@ -46,7 +46,7 @@ There is no **Domain** column in TPRM application tables.
 
 All TPRM tables support data-level domain separation with sys\_domain and sys\_domain\_path columns.
 
-**Parent Topic:**[Third-party Risk Management reference](tprm-reference.md)
+**Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
 **Related topics**  
 

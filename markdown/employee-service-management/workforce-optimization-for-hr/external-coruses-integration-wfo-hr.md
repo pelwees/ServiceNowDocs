@@ -38,8 +38,8 @@ Role required: sn\_hr\_wfo.admin
     You can review and learn the external course.
 
 
--   **[Assign a course item to agents](assign-learning-course-wfo-hr.md)**  
+-   **[Assign a course item to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/assign-learning-course-wfo-hr.md)**  
 Assign a course item to one or more agents and add a due date for them to complete the course.
 
-**Parent Topic:**[Learning in Workforce Optimization for HR](../concept/learning-wfo-hr.md)
+**Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/learning-wfo-hr.md)
 

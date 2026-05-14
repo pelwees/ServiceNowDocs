@@ -46,7 +46,7 @@ The following are the key features of Docs:
 
 With the feature of real-time collaboration, edit a doc page concurrently with multiple other editors. Colored cursors denote the current location of each editor on the page. You can choose to show or hide these live presence indicators based on your preference while working on or reviewing the content of the page.
 
-![Docs real-time collaboration.](../../collab-work-mgmt/images/cwm-docs-rtc.png)
+![Docs real-time collaboration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../collab-work-mgmt/images/cwm-docs-rtc.png)
 
 **Note:** Huge number of users editing the same block of content simultaneously might result in issues with application performance.
 
@@ -58,11 +58,11 @@ For example, if you add a reference to a Project record, the reference shows the
 
 A hover popover displays the details of the mentioned record, providing quick access to additional information without leaving the current context.
 
-![Dynamic linking a project record in SPW Docs.](../../collab-work-mgmt/images/cwm-docs-dynamic-record.png)
+![Dynamic linking a project record in SPW Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../collab-work-mgmt/images/cwm-docs-dynamic-record.png)
 
 Dynamic linking also enables adding references to a particular field of a record, such as Assigned to of a Project record.
 
-![Dynamic linking the Assigned to field of a project record in SPW Docs.](../../collab-work-mgmt/images/cwm-docs-dynamic-field.png)
+![Dynamic linking the Assigned to field of a project record in SPW Docs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../collab-work-mgmt/images/cwm-docs-dynamic-field.png)
 
 You can add references from any ServiceNow table you have access to, with no setup or configuration needed.
 

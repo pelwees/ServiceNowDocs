@@ -19,7 +19,7 @@ Localization Framework enables the translation of emails \(notification, templat
 
 The extension of the Localization Framework capabilities to email enables you to do the following tasks:
 
--   Select multiple languages from the available languages in the instance to configure settings with the email notifications, email template and email layout artifacts. To configure localization settings, see [Localization Framework settings](localization-settings.md).
+-   Select multiple languages from the available languages in the instance to configure settings with the email notifications, email template and email layout artifacts. To configure localization settings, see [Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
 -   Create LRITMs by requesting translations into one or more languages.
 -   Translate the content of the email notification directly using the edit translations option.
 -   Read, edit, and machine translate the content. You can also send the content to TMS or via email. You can export and import the content of the email notification.
@@ -28,7 +28,7 @@ The extension of the Localization Framework capabilities to email enables you to
 
 -   Approve and publish the translated content.
 
-For more information about localizing email notification, see [Email notification localization](../../notification/concept/static-translation.md).
+For more information about localizing email notification, see [Email notification localization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../notification/concept/static-translation.md).
 
-**Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
+**Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 

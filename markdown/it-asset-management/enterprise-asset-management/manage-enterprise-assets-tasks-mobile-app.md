@@ -41,8 +41,8 @@ Create and lookup enterprise asset
 
 </td><td>
 
--   [Create an enterprise asset in the Mobile Agent application](../task/create-enterprise-asset-mobile-agent-app.md)
--   [Look up enterprise assets using the Mobile Agent application](../task/lookup-enterprise-assets-mobile-agent-app.md)
+-   [Create an enterprise asset in the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-enterprise-asset-mobile-agent-app.md)
+-   [Look up enterprise assets using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/lookup-enterprise-assets-mobile-agent-app.md)
 
 </td></tr><tr><td>
 
@@ -54,8 +54,8 @@ Scan enterprise assets for stockroom and location inventory audits
 
 </td><td>
 
--   [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](../task/scan-assets-agent-app-eam.md)
--   [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
+-   [Complete a single scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/scan-assets-agent-app-eam.md)
+-   [Complete multi scan enterprise asset inventory audit using the ServiceNow Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/complete-multi-scan-inventory-audit-using-mobile-app-eam.md)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Verify and depart your enterprise assets as part of the disposal process
 
 </td><td>
 
-[Verify and depart your enterprise assets for disposal using the Mobile Agent application](../task/dispose-enterprise-assets-mobile-agent-app.md)
+[Verify and depart your enterprise assets for disposal using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/dispose-enterprise-assets-mobile-agent-app.md)
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ Manage your work order tasks and asset tasks
 
 </td><td>
 
-[Manage an Enterprise Asset Management task using the Mobile Agent application](../task/work-order-mobile-agent-eam.md)
+[Manage an Enterprise Asset Management task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/work-order-mobile-agent-eam.md)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Manage the repair of your enterprise assets
 
 </td><td>
 
-[Manage enterprise asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-eam.md)
+[Manage enterprise asset repair tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-orders-mobile-agent-eam.md)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Manage the asset pick tasks assigned to you.
 
 </td><td>
 
-[Manage enterprise asset pick tasks using the Mobile Agent application](manage-asset-pick-task-eam-mobile-app.md)
+[Manage enterprise asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-asset-pick-task-eam-mobile-app.md)
 
 </td></tr></tbody>
 </table>

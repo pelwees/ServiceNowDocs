@@ -27,20 +27,20 @@ The database view can show the start date, due date, expiry date, and completed 
 
 **Note:** Any change or update to survey configuration or metadata \(For example, addition or deletion of a new metric or category\) might affect the database view. In such cases, an event \(survey.results\_view.updated\) is generated so that users can take necessary actions to synchronize the data.
 
-**Parent Topic:**[Survey responses and results](c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View results for all surveys](../task/t_ViewResultsForAllSurveys.md)
+[View results for all surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewResultsForAllSurveys.md)
 
-[View the results for a survey](../task/t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](../task/t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_ExportAQuizScorecard.md)
 
-[Request translations for surveys](../task/request-translations-for-surveys.md)
+[Request translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/request-translations-for-surveys.md)
 
-[Edit translations for surveys](../task/edit-translations-for-surveys.md)
+[Edit translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/edit-translations-for-surveys.md)
 

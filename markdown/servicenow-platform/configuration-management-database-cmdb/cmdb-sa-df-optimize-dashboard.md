@@ -25,13 +25,13 @@ Control which principal classes are included in your Data Foundations advisor da
 
 For guidance on choosing the right classes, see the [Guidance on designating principal classes in the CMDB \[KB2707240\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB2707240) article in the Now Support Knowledge Base.
 
-**Note:** Principal classes that are currently in use by CMDB success advisor for HAM can't be edited here. To edit those classes in Data Foundations, you must first remove them from the HAM advisor. See [Manage HAM advisor scope in CMDB success advisor](cmdb-sa-ham-optimize-dashboard.md).
+**Note:** Principal classes that are currently in use by CMDB success advisor for HAM can't be edited here. To edit those classes in Data Foundations, you must first remove them from the HAM advisor. See [Manage HAM advisor scope in CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-optimize-dashboard.md).
 
 ## Procedure
 
 1.  On the CMDB success advisor landing page, select **Edit principal classes** within the Data Foundations card.
 
-    See [Viewing the CMDB success advisor landing page](../concept/cmdb-sa-landing-page.md).
+    See [Viewing the CMDB success advisor landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-sa-landing-page.md).
 
 2.  In the Edit principal classes dialog box, add or remove CI classes to update your principal class selection.
 

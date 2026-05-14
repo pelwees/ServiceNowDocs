@@ -13,7 +13,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 Customize the CPQ UI header to reflect your brand with logos, text, and background styles. Configure header elements and buttons—such as Cancel, Reset, Return, and Switch Layout—through the layout CSV file to create a branded, user-friendly configuration experience.
 
-![Logo](../images/cpq-layout-logik-header.png)
+![Logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header.png)
 
 The CPQ header lets you brand the configuration page with a logo. Essential buttons and actions are also customizable. CSV layout upload supports these features.
 
@@ -23,13 +23,13 @@ The header accommodates text, a logo, or both. If using text, the logo must be r
 
 If you want to remove or replace the blue Salesforce-like background frame, use the backgroundStyle control.
 
-![Logo](../images/cpq-layout-logik-header-1.png)
+![Logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-1.png)
 
-![Logo](../images/cpq-layout-logik-header-2.png)
+![Logo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-2.png)
 
 All header elements are defined in a header row component, in the values column. Logically, the header component is the first informational row in your CSV file, with the header values definition in cell I2. The following screenshot shows a spreadsheet that is not yet exported to a file.
 
-![CSV file](../images/cpq-layout-logik-header-csv-1.png)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-csv-1.png)
 
 The header value contains instructions for several header elements, so here's a breakdown of common content in that cell:
 
@@ -186,15 +186,15 @@ If multiple layouts are defined for this Blueprint, displays the next layout.
 </td></tr></tbody>
 </table>By default, Cancel, Return/Quote, and Switch Layout buttons display. Cancel and Reset allow the administrator to set a confirmation parameter. When true, a popup requires end users to confirm their intentions, as follows.
 
-![Cancel screen](../images/cpq-layout-logik-header-cancel.png)
+![Cancel screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-cancel.png)
 
 All header elements are defined in a header row component, in the values column. Here is a screenshot of the spreadsheet before it is exported in CSV format:
 
-![CSV file](../images/cpq-layout-logik-header-csv-2.png)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-csv-2.png)
 
 The header value contains instructions for several elements. In the graphic below, the parameters relevant to each button definition are separated by green dashed lines:
 
-![Script](../images/cpq-layout-logik-header-dashed-lines.png)
+![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-logik-header-dashed-lines.png)
 
 To copy this text to your local clipboard for editing, use the code block in the Branding Options section above.
 
@@ -204,5 +204,5 @@ CPQ Admin -&gt; Blueprints -&gt; \[click appropriate blueprint\] -&gt; Layouts t
 
 ## Currency display
 
-You also use the values column of the header row component of the CSV layout upload file to configure how currency displays in the Shopping Cart. For more information, see [Customizing the currency display in the shopping cart](layout_how_do_i_customize_currency_display_in_shopping_cart.md).
+You also use the values column of the header row component of the CSV layout upload file to configure how currency displays in the Shopping Cart. For more information, see [Customizing the currency display in the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_currency_display_in_shopping_cart.md).
 

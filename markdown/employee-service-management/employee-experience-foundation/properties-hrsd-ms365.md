@@ -71,5 +71,5 @@ List of HR Case table fields that are displayed as recommended participants for 
 -   Default value: opened\_for,subject\_person,collaborators
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](reference-sn-teams.md)
+</table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 

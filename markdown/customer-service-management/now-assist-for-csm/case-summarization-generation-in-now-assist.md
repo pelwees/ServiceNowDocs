@@ -149,5 +149,5 @@ Activity is listed as 'Email.'
 **Related topics**  
 
 
-[Summarize a call by using Now Assist for Customer Service Management \(CSM\)](summarize-a-call-by-using-now-assist-for-customer-service-management-csm.md)
+[Summarize a call by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/summarize-a-call-by-using-now-assist-for-customer-service-management-csm.md)
 

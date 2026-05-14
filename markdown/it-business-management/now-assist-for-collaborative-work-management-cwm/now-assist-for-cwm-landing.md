@@ -19,19 +19,19 @@ The Now Assist for CWM application uses generative AI skills to improve time to 
 
 <table id="table_np5_rf3_y2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and key benefits](exploring-now-asssist-for-cwm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and key benefits](exploring-now-asssist-for-cwm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the implementation](../task/configure-now-assist-for-collaborative-work-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the implementation](../task/configure-now-assist-for-collaborative-work-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-community.svg)Start using generative AI capabilities in CWM](../task/using-now-assist-for-cwm.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../../reuse/icons/brand-icons/bus-community.svg)Start using generative AI capabilities in CWM](../task/using-now-assist-for-cwm.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about roles, tables, and system properties](now-assist-for-cwm-reference.md#)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about roles, tables, and system properties](now-assist-for-cwm-reference.md#)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).

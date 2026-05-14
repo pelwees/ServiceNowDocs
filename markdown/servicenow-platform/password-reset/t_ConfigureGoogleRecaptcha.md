@@ -73,32 +73,32 @@ Set to the secret that Google provided.Type: password2
 
 Select reCAPTCHA v2, **I'm not a robot** option. \(reCAPTCHA v3 is not currently supported\).
 
-![Google Captcha](../image/pw-reset-captcha-dialog.png)
+![Google Captcha](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/pw-reset-captcha-dialog.png)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configure your Password Reset process](t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../reference/pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/c_CredentialStores.md)
 
-[Password Reset verifications](../concept/c_PWRVerifications.md)
+[Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-user-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/t_LockoutForFailedLogins.md)
 

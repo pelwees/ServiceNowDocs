@@ -55,7 +55,7 @@ DBView Referenced ACL Table
 
 </td><td>
 
-When this column is populated, the report is affected because of an ACL on one of the tables that the [database view](../../performance-analytics/concept/performance-analytics-glossary.md#) is based on.Sometimes an affected report is based on a database view with an ACL. In this case, the name of the database view appears below the name of the table in the Table column.
+When this column is populated, the report is affected because of an ACL on one of the tables that the [database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/concept/performance-analytics-glossary.md#) is based on.Sometimes an affected report is based on a database view with an ACL. In this case, the name of the database view appears below the name of the table in the Table column.
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Dot Walk Fields
 
 </td><td>
 
-When this column is populated, the report is affected because of an ACL on an extended table. For more information, see [Report on extended tables](t_AccessFieldExtendedTable.md#).
+When this column is populated, the report is affected because of an ACL on an extended table. For more information, see [Report on extended tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_AccessFieldExtendedTable.md#).
 
 </td></tr><tr><td>
 
@@ -186,8 +186,8 @@ Column ACLs link
 Click the link to view the column ACLs that apply to the impacted report. The **Role** field in the list shows the required roles. A user must have one of the roles to view reports based on the column.
 
 </td></tr></tbody>
-</table>2.  Address the affected reports and users as described in [Manage Report ACL assessments](view-report-acl-remediation.md#).
+</table>2.  Address the affected reports and users as described in [Manage Report ACL assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/view-report-acl-remediation.md#).
 
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-acl-dashboard.md)
 

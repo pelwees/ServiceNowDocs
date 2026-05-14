@@ -52,5 +52,5 @@ As a case task owner, you can also accept the task, start working on it, and the
 7.  Select **Reassign**.
 
 
-**Parent Topic:**[Work on a case task](accept-a-case-task.md)
+**Parent Topic:**[Work on a case task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/accept-a-case-task.md)
 

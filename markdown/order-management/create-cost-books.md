@@ -131,5 +131,5 @@ Ending date and time of the cost book. After the ending time, the cost book is n
 
 ## What to do next
 
-[Create a cost book line](create-cost-book-lines.md).
+[Create a cost book line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-cost-book-lines.md).
 

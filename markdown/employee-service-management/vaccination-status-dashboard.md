@@ -15,7 +15,7 @@ Use the Vaccination Status dashboard to review reports that can provide insight 
 
 To access the Vaccination Status dashboard, navigate to **Self-Service** &gt; **Dashboards**.
 
-![Vaccination Status dashboard](../image/vaccination-status-dashboard.png)
+![Vaccination Status dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/vaccination-status-dashboard.png)
 
 ## End user and goals
 
@@ -82,7 +82,7 @@ Vaccine Approvals
 
 </td><td>
 
-Pie breakdown ![Pie breakdown icon](../../performance-analytics/image/pie-breakdown-wthoutlabel.png)
+Pie breakdown ![Pie breakdown icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../performance-analytics/image/pie-breakdown-wthoutlabel.png)
 
 </td><td>
 
@@ -96,7 +96,7 @@ A breakdown of vaccine approvals by type:-   The number of vaccine responses tha
 
 </td><td>
 
-Single score ![Single-score icon](../../performance-analytics/image/single-score.png)
+Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -108,7 +108,7 @@ Vaccine Responses \(Monthly\)
 
 </td><td>
 
-Stacked bar chart![Stacked bar chart icon](../image/stacked-bar-chart.png)
+Stacked bar chart![Stacked bar chart icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/stacked-bar-chart.png)
 
 </td><td>
 
@@ -120,12 +120,12 @@ Employee Vaccination Status Rate \(Monthly\)
 
 </td><td>
 
-Line![Line icon](../../performance-analytics/image/line-icon.png)
+Line![Line icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../performance-analytics/image/line-icon.png)
 
 </td><td>
 
 Indicates the number of people fully vaccinated. The rate is determined by the number of users in your organization with their vaccination profile COVID-19 completed status marked as true.**Note:** A historical data collection job, **Generate vaccine history records**, runs daily to ensure that the report chart is up-to-date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Vaccination Status](../../../product/vaccination-status/concept/vaccination-status.md)
+</table>**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../product/vaccination-status/concept/vaccination-status.md)
 

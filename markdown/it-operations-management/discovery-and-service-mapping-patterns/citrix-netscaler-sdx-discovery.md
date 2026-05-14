@@ -66,7 +66,7 @@ Discovery populates the data in the CMDB when running the Citrix NetScaler SDX p
 
 On the Dependency Views map you can see all discovered Citrix NetScaler SDX resources in your organization, and the relationships between them.
 
-![Citrix NetScaler SDX dependency](../image/citrix-netscaler-dependency.jpg)
+![Citrix NetScaler SDX dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/citrix-netscaler-dependency.jpg)
 
 ## CI relationships
 
@@ -76,5 +76,5 @@ These relationships are created to support Citrix NetScaler SDX discovery:
 |---|------------|---|
 |Citrix Netscaler \[cmdb\_ci\_lb\_netscaler\]|Registered on::Has registered|Citrix NetScaler SDX \[cmdb\_ci\_citrix\_netscaler\_sdx\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

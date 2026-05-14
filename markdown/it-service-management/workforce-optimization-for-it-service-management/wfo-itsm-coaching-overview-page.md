@@ -15,14 +15,14 @@ breadcrumb: [Training your teams, Coaching, Workforce Optimization for ITSM, IT 
 
 Monitor the progress of assessments and track learning tasks that are overdue. You can also add a coaching quality indicator to monitor trends. Analyze which skills have been assigned the most to your team recently and which top skills are in demand.
 
-![Coaching Overview](../../../product/configurable-workforce-optimization-itsm/image/coaching-overview.png)
+![Coaching Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/image/coaching-overview.png)
 
 ## Access the Coaching Overview page
 
 To open the dashboard:
 
 -   Navigate to, **Workspaces** &gt; **Manager Workspace**.
--   Select the Coaching icon ![Coaching icon](../../../product/configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
+-   Select the Coaching icon ![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/image/coaching-icon-uib.png).
 -   Select the **Overview** tab.
 
 ## End user and roles
@@ -79,7 +79,7 @@ Assessments
 
 </td><td>
 
-Donut chart ![Donut chart](../../../product/configurable-workforce-optimization-itsm/image/donut-chart-icon.png)
+Donut chart ![Donut chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/image/donut-chart-icon.png)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Average quality
 
 </td><td>
 
-Line chart ![Line chart](../../../reuse/reporting/image/line-trend.svg)
+Line chart ![Line chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -103,12 +103,12 @@ Skill demand trend
 
 </td><td>
 
-Bar chart ![Bar chart](../../../reuse/reporting/image/bar-trend-sm.svg)
+Bar chart ![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../reuse/reporting/image/bar-trend-sm.svg)
 
 </td><td>
 
 Trend for the top five skills that are in demand.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](../../../product/configurable-workforce-optimization-itsm/concept/coaching-configurable-wfo-itsm.md)
+</table>**Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/concept/coaching-configurable-wfo-itsm.md)
 

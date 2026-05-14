@@ -42,5 +42,5 @@ A consumer offering request is created, and the state changes to Work in Progres
 
 ## What to do next
 
-[Validate the subscription](service-bridge-v2-validate-fds-subscription.md) to start receiving foundation data.
+[Validate the subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-validate-fds-subscription.md) to start receiving foundation data.
 

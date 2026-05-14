@@ -21,11 +21,11 @@ Role required: workspace\_user
 
 1.  Open a record in your instance.
 
-2.  From the Activity stream, select the search icon \(![Icon search.](../image/IconSearch.png)\).
+2.  From the Activity stream, select the search icon \(![Icon search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconSearch.png)\).
 
 3.  In the **Search Activity Stream** field, enter keywords to find results.
 
-    ![Search Activity Stream field](../image/activity-stream-search.png)
+    ![Search Activity Stream field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/activity-stream-search.png)
 
     **Note:**
 

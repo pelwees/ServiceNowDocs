@@ -52,7 +52,7 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 5.  Select the **Date Range**, and **Get Snapshot**.
 
-    ![Job details highlighting overdue pending and top 2K jobs.](../image/io-job-overdue-pending.png)
+    ![Job details highlighting overdue pending and top 2K jobs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-job-overdue-pending.png)
 
 6.  Select a point in the chart of the **Job Overdue \(Pending\)** section to get a continuous, minute-level view of how long pending jobs have been overdue across your instance.
 
@@ -60,13 +60,13 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 7.  Scroll down to the **Top 2K Pending Jobs** table to view the listing of specific jobs that are most overdue from their scheduled time, along with their priority, job ID, and approximate overdue duration.
 
-8.  To set filter conditions on the job name, job ID, or priority, select ![menu icon.](../../../common/image/icon_menu3lines.png)
+8.  To set filter conditions on the job name, job ID, or priority, select ![menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../common/image/icon_menu3lines.png)
 
     For example, you can enter **discovery** to filter all jobs that have **discovery** in their name.
 
-    ![Sorting and filtering pending jobs.](../image/io-job-overdue-priority.png)
+    ![Sorting and filtering pending jobs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-job-overdue-priority.png)
 
-9.  To sort the jobs by their priority level, select ![sort icon.](../../../reuse/icons/product-icons/sort-descending-outline-24.svg)
+9.  To sort the jobs by their priority level, select ![sort icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/sort-descending-outline-24.svg)
 
     For instances running thousands of jobs, analyzing job by job isn't practical. You can switch to **Priority** view, grouping jobs by their assigned priority level. This sorting helps you to categorize and act on jobs in bulk. For example, address all mid-server discovery jobs \(priority 110\) or test jobs \(priority 100\) in bulk, rather than managing them individually.
 
@@ -75,7 +75,7 @@ Beyond pending jobs, this telemetry not only helps you to know how long a job ta
 
 ## What to do next
 
-You can also set alert card for pending jobs. For more information, see [Configure long pending jobs alert by job priority](io-long-pending-jobs.md).
+You can also set alert card for pending jobs. For more information, see [Configure long pending jobs alert by job priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-long-pending-jobs.md).
 
-**Parent Topic:**[Performance](../concept/instance-observer-performance.md)
+**Parent Topic:**[Performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-performance.md)
 

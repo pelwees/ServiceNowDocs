@@ -116,5 +116,5 @@ None.
 
 ### Special considerations
 
-**Note:** For more information about the Data Classification admin role, see [Installing Data Classification plugin demo data](../task/install-data-classification-plugin-demo-data.md#).
+**Note:** For more information about the Data Classification admin role, see [Installing Data Classification plugin demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../task/install-data-classification-plugin-demo-data.md#).
 

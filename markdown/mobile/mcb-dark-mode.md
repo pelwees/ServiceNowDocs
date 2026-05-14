@@ -19,11 +19,11 @@ Light and dark modes are user interface themes that adjust color schemes to opti
 
 **Note:** The option to toggle between light and dark mode will only appear if your instance has both light and dark modes configured.
 
-![the mobile app builder screens category page in light mode](../image/builder-light-mode.png "Light mode")
+![the mobile app builder screens category page in light mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/builder-light-mode.png "Light mode")
 
 Light mode is characterized by a light background with dark text and elements, this mode is the traditional default for most apps, offering high readability in well-lit environments.
 
-![the mobile app builder screens category page in dark mode](../image/builder-dark-mode.png "Dark mode")
+![the mobile app builder screens category page in dark mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/builder-dark-mode.png "Dark mode")
 
 Dark mode inverts the typical color palette, featuring a dark background with lighter text and interface elements, which reduces glare and is easier on the eyes, especially in low-light settings.
 
@@ -33,5 +33,5 @@ To toggle between light and dark modes, select the theme changer button \(![](..
 
 **Note:** Switching to dark mode on Mobile App Builder will automatically change Mobile Card Mode to dark mode and vice-versa.
 
-![display mode picker with light and dark options displayed](../image/builder-dark-mode-picker.png "Appearance picker")
+![display mode picker with light and dark options displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/builder-dark-mode-picker.png "Appearance picker")
 

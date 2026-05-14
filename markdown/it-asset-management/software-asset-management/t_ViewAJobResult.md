@@ -49,5 +49,5 @@ All Software Asset Management scheduled jobs are listed in the **System Definiti
     |Updated|Date and time job was updated.|
 
 
-**Parent Topic:**[View normalization suggestions in Software Asset Management classic](view-norm-suggestions-sam.md)
+**Parent Topic:**[View normalization suggestions in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-norm-suggestions-sam.md)
 

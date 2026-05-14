@@ -25,7 +25,7 @@ Role required: discovery\_admin
 
 2.  Fill in the fields.
 
-    For more information, see [Cloud Service Account form](../../it-operations-management/task/create-aws-service-accounts.md#table_f5b_r22_kkb).
+    For more information, see [Cloud Service Account form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../it-operations-management/task/create-aws-service-accounts.md#table_f5b_r22_kkb).
 
 3.  Select **Submit**.
 

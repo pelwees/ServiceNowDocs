@@ -29,21 +29,21 @@ Role required: sn\_fcms\_intg.admin
 
 4.  Select **Run job** to trigger the flow or subflow.
 
-    ![Select and run the subflows](../../source-to-pay-operations/image/sap-ariba-run-job.png "Run subflows in SAP Ariba")
+    ![Select and run the subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-ariba-run-job.png "Run subflows in SAP Ariba")
 
 5.  Navigate to **All** &gt; **Process Automation** &gt; **Workflow Studio**.
 
 6.  From the Workflow Studio home page, select the **Operations** tab and then select **Flows** tab.
 
-    ![List of executed flows in SAP Ariba](../../source-to-pay-operations/image/sap-ariba-flow-execution.png "Flow execution in SAP Ariba")
+    ![List of executed flows in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-ariba-flow-execution.png "Flow execution in SAP Ariba")
 
     The list of flow executions appear. You can look up the status of the flows or subflows that you triggered. If there were any errors during execution, you can view them under the processing message column.
 
 7.  Navigate back to the **Homepage** tab, and select **Flows** or **Subflows**.
 
-8.  Select the More icon ![More icon](../../sourcing-procurement-operations/image/more_vertical_icon.png) corresponding to the flow, subflow, or application name, use the filter condition, and select **Apply**.
+8.  Select the More icon ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../sourcing-procurement-operations/image/more_vertical_icon.png) corresponding to the flow, subflow, or application name, use the filter condition, and select **Apply**.
 
-    ![Filter the subflows](../../source-to-pay-operations/image/sap-ariba-filter-flow.png "Filter flow, subflow, or application")
+    ![Filter the subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-ariba-filter-flow.png "Filter flow, subflow, or application")
 
     You can view the flows or subflows that you triggered.
 
@@ -54,12 +54,12 @@ Role required: sn\_fcms\_intg.admin
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use flows in SAP Ariba](../concept/use-flows-sap-ariba.md)
+**Parent Topic:**[Use flows in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/use-flows-sap-ariba.md)
 
 **Related topics**  
 
 
-[Use a flow or subflow in SAP Ariba \(Outbound\)](use-subflow-sap-ariba.md)
+[Use a flow or subflow in SAP Ariba \(Outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-subflow-sap-ariba.md)
 
-[Copy a flow or subflow in SAP Ariba](copy-subflow-sap-ariba.md)
+[Copy a flow or subflow in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-subflow-sap-ariba.md)
 

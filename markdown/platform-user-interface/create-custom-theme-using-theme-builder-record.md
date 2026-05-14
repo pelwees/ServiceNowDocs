@@ -15,7 +15,7 @@ Create a custom theme in the Next Experience more efficiently using a published 
 
 ## Before you begin
 
-In order to clone a Theme Builder theme, the theme must be published. For information on publishing your Theme Builder theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+In order to clone a Theme Builder theme, the theme must be published. For information on publishing your Theme Builder theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
 Role required: admin
 
@@ -43,7 +43,7 @@ To avoid your work from being overwritten, your new cloned theme isn’t editabl
 
         This action creates a copy of the style record and redirects the information to the new style record.
 
-        ![Cloned Mobile Colors style record with Insert and Stay option selected.](../image/next-exp-insert-and-stay.png "Cloned Mobile Colors style record")
+        ![Cloned Mobile Colors style record with Insert and Stay option selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-insert-and-stay.png "Cloned Mobile Colors style record")
 
     4.  Close the open tab.
 
@@ -61,7 +61,7 @@ To avoid your work from being overwritten, your new cloned theme isn’t editabl
 
         Your new UX theme record appears. The style records within this theme are empty and this behavior is expected.
 
-        ![Newly created UX Theme record.](../image/next-exp-cloned-theme-record.png "Newly created UX Theme record")
+        ![Newly created UX Theme record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-cloned-theme-record.png "Newly created UX Theme record")
 
 5.  Add the newly created style records to your theme.
 
@@ -73,7 +73,7 @@ To avoid your work from being overwritten, your new cloned theme isn’t editabl
 
     4.  Double-click under the Type column to expose the drop-down list and select **Core**.
 
-        ![Style Type drop-down list with Core option selected.](../image/next-exp-type-column.png "Style Type drop-down list")
+        ![Style Type drop-down list with Core option selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-type-column.png "Style Type drop-down list")
 
     5.  Save your selection by selecting the green checkmark.
 
@@ -85,14 +85,14 @@ To avoid your work from being overwritten, your new cloned theme isn’t editabl
 
         If the changes haven't been saved, green bars are displayed next to the style records that you have added.
 
-        ![UX Theme record before the record is saved.](../image/next-exp-custom-theme-green.png "UX Theme record before the record is saved")
+        ![UX Theme record before the record is saved.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-custom-theme-green.png "UX Theme record before the record is saved")
 
 6.  Publish your custom theme.
 
-    To publish your custom theme, see [Publish multiple themes in Next Experience](configure-presentation-order-of-themes.md).
+    To publish your custom theme, see [Publish multiple themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md).
 
     Now that your custom theme is published, you’re ready to customize your theme. For a step-by-step tutorial for editing your UX Style color record, see Exercise 3, Activity 2 and 3 of the [Next Experience Workshop](https://servicenownextexperience.github.io/labs/CCL1319-K24-Theming-Lab/ex3/activity-2) in the ServiceNow Community.
 
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

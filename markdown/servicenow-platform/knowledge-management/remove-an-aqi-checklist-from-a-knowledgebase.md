@@ -32,5 +32,5 @@ Role required: knowledge\_admin or admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-article-quality-index.md)
 

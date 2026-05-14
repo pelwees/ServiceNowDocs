@@ -65,5 +65,5 @@ This geography when associated with a territory displays the territory informati
 
 ## What to do next
 
-Link the geography to a territory. For more information, see [Create a Field Service territory](create-territories-territory-planning-console.md).
+Link the geography to a territory. For more information, see [Create a Field Service territory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-territories-territory-planning-console.md).
 

@@ -47,7 +47,7 @@ Role required: sn\_devops.admin or sn\_devops.tool\_owner
 
 ## What to do next
 
-[Configure Veracode scans on your pipeline](configure-veracode-scans-on-your-pipeline.md)
+[Configure Veracode scans on your pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-veracode-scans-on-your-pipeline.md)
 
-**Parent Topic:**[Veracode integration with DevOps Change Velocity](../concept/veracode-integration-with-devops-change-velocity.md)
+**Parent Topic:**[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/veracode-integration-with-devops-change-velocity.md)
 

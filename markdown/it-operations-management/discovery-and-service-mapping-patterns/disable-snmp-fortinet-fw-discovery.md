@@ -34,10 +34,10 @@ Role required: discovery\_admin
 
 ## What to do next
 
-Create an alias and add it to an API key credential. For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](create-alias-api-key-cred-fortinet.md).
+Create an alias and add it to an API key credential. For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-alias-api-key-cred-fortinet.md).
 
 **Related topics**  
 
 
-[Fortinet firewall and FortiGate VDOM REST-based discovery](../reference/fortinet-fw-vdoms-rest-discovery.md)
+[Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/fortinet-fw-vdoms-rest-discovery.md)
 

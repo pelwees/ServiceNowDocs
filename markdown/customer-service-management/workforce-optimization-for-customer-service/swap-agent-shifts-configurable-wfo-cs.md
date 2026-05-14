@@ -23,11 +23,11 @@ Role required: sn\_shift\_planning.admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\).
 
 3.  In the **Team Calendar** tab, navigate and point to the shift for the agent that you want to swap with another agent in day, week or month views.
 
-4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon.](../image/shift_swap_icon.png)\).
+4.  In the shift pop-up window, click the Shift Swap icon \(![Shift Swap icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/shift_swap_icon.png)\).
 
 5.  In the **Requested Shift** section, click the **Agent** field and select the agent who can work on that shift.
 
@@ -36,5 +36,5 @@ Role required: sn\_shift\_planning.admin
     The team calendar displays the updated schedule.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

@@ -2462,8 +2462,8 @@ Sets value on typeahead input and dispatches associated events
 N/A
 
 </td></tr></tbody>
-</table>-   **[Configurable workspace components examples](../concept/atf-conf-ws-comp-examples.md)**  
+</table>-   **[Configurable workspace components examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-conf-ws-comp-examples.md)**  
 To grasp how to interact with configurable workspace components, review these examples.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](../concept/atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-ref-overview.md)
 

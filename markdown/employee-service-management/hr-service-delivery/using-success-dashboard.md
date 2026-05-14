@@ -25,7 +25,7 @@ View and monitor the HR Success Dashboard indicators to measure the performance 
 
 Access the aggregated KPI data in the HR Success Dashboard indicators. By navigating to **All&gt;** &gt; **Success Dashboard** &gt; **Success Dashboard** if you have the sn\_sd.success\_dashboard\_admin, sn\_sd.success\_dashboard\_read, or sn\_sd.success\_dashboard\_details\_read role.
 
-![Success Dashboard indicators overview page.](../image/dashboard-perf-oview.png "HR Success Dashboard indicators")
+![Success Dashboard indicators overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dashboard-perf-oview.png "HR Success Dashboard indicators")
 
 You can monitor the data in **Monthly**, **Quarterly**, or **Yearly** time aggregations.
 
@@ -35,7 +35,7 @@ You can monitor the data in **Monthly**, **Quarterly**, or **Yearly** time aggre
 
 Once the time aggregation is set, all the score-cards show the data for that period.
 
-For more information on the dashboard components, see [HR Success Dashboard indicators components](sdb-dasboard-overview.md).
+For more information on the dashboard components, see [HR Success Dashboard indicators components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sdb-dasboard-overview.md).
 
-For more information on the KPI definitions and formulas, see [HR Success Dashboard indicators KPI definitions and formulas](sd-formulae.md).
+For more information on the KPI definitions and formulas, see [HR Success Dashboard indicators KPI definitions and formulas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sd-formulae.md).
 

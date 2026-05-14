@@ -54,7 +54,7 @@ Install Agentic Contact Center for Banking by requesting it from ServiceNow Stor
 
 ## Additional requirements
 
-This application is dependent on Now Assist for Financial Services Operations \(FSO\). For more information, see [Now Assist for Financial Services Operations \(FSO\) release notes](now-assist-for-financial-services-operations-rn.md).
+This application is dependent on Now Assist for Financial Services Operations \(FSO\). For more information, see [Now Assist for Financial Services Operations \(FSO\) release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-assist-for-financial-services-operations-rn.md).
 
 ## Related ServiceNow applications and features
 
@@ -67,5 +67,5 @@ This application is dependent on Now Assist for Financial Services Operations \(
     Continue servicing your customer's dispute case using FSO Dispute Management. You can initiate, investigate, and resolve dispute cases for both personal and commercial customers.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

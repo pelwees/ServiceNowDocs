@@ -37,7 +37,7 @@ The following data is collected in the ActiveMatrix Business Works `[cmdb_ci_app
 
 By default, Discovery uses the **Enterprise Message Service** pattern to discover Tibco Enterprise Message Service.
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -59,7 +59,7 @@ For a list of privileged commands that you need for Discovery and Service Mappin
 
 Service Mapping can discover application services that contain Tibco ActiveMatrix BusinessWorks \(including BusinessWorks Process\), Tibco Enterprise Message Service \(EMS\), Tibco Enterprise Message Service \(EMS\) Queue.
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](../task/t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/t_DefineNewBusinessService.md)
 
 ## Map application services containing Tibco BusinessWorks and EMS
 
@@ -114,11 +114,11 @@ Role required: service\_mapping\_admin
 
     2.  Review the application service map and make sure that the service layout is as in the following examples.
 
-        ![Check the result of mapping an application service containing Tibco components.](../image/TIBCO-components.png)
+        ![Check the result of mapping an application service containing Tibco components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/TIBCO-components.png)
 
     In addition, verify that the BusinessWorks CIs are inclusions each of which contain a BusinesWorks process. Also, verify that the EMS CIs are inclusions containing EMS Queues.
 
-    ![Check inclusions for Tibco applications.](../image/TIBCO-components-inclusions.png)
+    ![Check inclusions for Tibco applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/TIBCO-components-inclusions.png)
 
 
 If the mapping result is not as you expected, perform basic troubleshooting.
@@ -145,7 +145,7 @@ Service Mapping failed to run the `TibcoFilesParser.ksh` command.
 
 </td><td>
 
-Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](../reference/r_NonSudoCommands.md).
+Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/r_NonSudoCommands.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Service Mapping failed to run the `tibemsadmin` command.
 
 </td><td>
 
-Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](../reference/r_NonSudoCommands.md).
+Make sure that you provided a user with elevated rights as described in [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/r_NonSudoCommands.md).
 
 </td></tr></tbody>
 </table>

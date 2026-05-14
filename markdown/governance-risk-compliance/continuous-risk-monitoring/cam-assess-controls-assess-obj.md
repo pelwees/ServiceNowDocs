@@ -37,7 +37,7 @@ Assessment procedure plans are generated for the test plan of a control based on
 
     The Control test section includes **Operational assessment procedures**, **Examine**, **Interview**, and **Test** field descriptions. The Examine, Interview, and Test descriptions are drawn from the NIST guideline and are added to the Test template form. You can update the field descriptions in the Test plan form.
 
-    ![Control test tab of test plan showing the NIST guideline descriptions.](../image/cam-test-plans-control-test-tab.png "Control test tab of test plan")
+    ![Control test tab of test plan showing the NIST guideline descriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-test-plans-control-test-tab.png "Control test tab of test plan")
 
 4.  To update the descriptions, select the field, update the text, and then select **Update**.
 
@@ -49,10 +49,10 @@ Assessment procedure plans are generated for the test plan of a control based on
 
     In the Assessment procedure plan form, you can view the identifier of the assessment procedure plan, the name of the test plan, and the assessment objective. An assessment objective is the guideline as to how to assess the control. If necessary, update the objective.
 
-    ![Assessment procedure plans to test a control.](../image/cam-test-plans.png "Assessment procedure plans")
+    ![Assessment procedure plans to test a control.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-test-plans.png "Assessment procedure plans")
 
 8.  To view the control tests that are generated to assess the control, navigate to the Controls tests related list of the Engagement form.
 
-    See [RMF steps 4, 5, and 6 - Assess, authorize, and monitor](assess-control-effectiveness.md).
+    See [RMF steps 4, 5, and 6 - Assess, authorize, and monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/assess-control-effectiveness.md).
 
 

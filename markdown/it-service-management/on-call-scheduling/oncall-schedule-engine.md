@@ -28,5 +28,5 @@ The new On-call schedule engine is more efficient with the following enhanced fe
 -   For existing shifts, you can go to the shift record page and manually migrate using the **Migrate Now** option.
 -   To migrate all the existing shifts in bulk, run **On-Call Upgrade shifts to 2024 schedule engine** schedule job.
 
-**Parent Topic:**[Exploring On-Call Scheduling](exploring-on-call-scheduling.md)
+**Parent Topic:**[Exploring On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/exploring-on-call-scheduling.md)
 

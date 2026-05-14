@@ -43,7 +43,7 @@ By default, the script include in this business rule contains the sys\_id of the
 
     2.  In the script, update the value for **usecaseId** with the sys\_id of the customized agentic workflow.
 
-        ![Update the usecaseId with the sys_id of the customized agentic workflow.](../image/lsd-agentic-add-sys-id.png)
+        ![Update the usecaseId with the sys_id of the customized agentic workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-agentic-add-sys-id.png)
 
         To get the sys\_id of a customized use case, navigate to the use cases list, right-click the customized use case record, and select  **Copy sys\_id**.
 

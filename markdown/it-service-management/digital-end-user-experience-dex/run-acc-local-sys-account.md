@@ -27,8 +27,8 @@ Role required: sn\_dex.admin
 
 3.  Select **Local System account** and select **OK**.
 
-    ![The Agent Client Collector Properties window from which you can select the local system account to log on.](../image/playbook-local-sys-account.png "Agent Client Collector Properties window")
+    ![The Agent Client Collector Properties window from which you can select the local system account to log on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/playbook-local-sys-account.png "Agent Client Collector Properties window")
 
 
-**Parent Topic:**[Install ACC for DEX on Windows](install-acc-for-dex-windows.md)
+**Parent Topic:**[Install ACC for DEX on Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-acc-for-dex-windows.md)
 

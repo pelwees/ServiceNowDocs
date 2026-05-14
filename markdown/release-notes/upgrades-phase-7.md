@@ -19,7 +19,7 @@ Role required: admin.
 
 ## About this task
 
-![Upgrade progress bar](../image/progress-bar-phase-7.png)
+![Upgrade progress bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/progress-bar-phase-7.png)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: admin.
 
     6.  In the **Actions** menu, click **Upgrade Instance**.
 
-        The **Upgrade an Instance** Service Catalog item opens up. It is prepopulated with the instance name and available versions to which you can upgrade or patch the instance.![Upgrade an instance dialog](../image/upgrades-dashboard.png)
+        The **Upgrade an Instance** Service Catalog item opens up. It is prepopulated with the instance name and available versions to which you can upgrade or patch the instance.![Upgrade an instance dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/upgrades-dashboard.png)
 
     7.  To specify a date and time for the upgrade or patch, click the calendar icon next to the **Start Date and Time** field.
 
@@ -55,7 +55,7 @@ Role required: admin.
 
         If the version does require an entitlement, this screen appears:
 
-        ![Requires entitlement approval message](../image/upgrades-schedule-with-ent.png)
+        ![Requires entitlement approval message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/upgrades-schedule-with-ent.png)
 
     2.  Click the calendar icon and specify a date and time at least three days in the future.
 

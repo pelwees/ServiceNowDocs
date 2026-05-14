@@ -61,7 +61,7 @@ Step
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 2.  Open the project to which you want to apply project template.
 3.  In the Project form, select the **Planning Console** related link.
-4.  In the Planning Console, select the more actions icon \(![More actions icon](../image/elipsis_icon.png)\) and select **Apply Template** option.
+4.  In the Planning Console, select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/elipsis_icon.png)\) and select **Apply Template** option.
 
 
 </td></tr></tbody>
@@ -74,18 +74,18 @@ Step
     Tasks from the template are added at the end of the last task.
 
 
-**Parent Topic:**[Applying templates to projects](../concept/c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplates.md)
 
 **Related topics**  
 
 
-[Create a project template](t_ViewAProjectTemplateForm.md)
+[Create a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ViewAProjectTemplateForm.md)
 
-[Add an attachment to a project template](t_AddAnAttachmentToAProjectTemplate.md)
+[Add an attachment to a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_AddAnAttachmentToAProjectTemplate.md)
 
-[Apply a template on the Project form](t_ApplyATemplateFromTheProjectForm.md)
+[Apply a template on the Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ApplyATemplateFromTheProjectForm.md)
 
-[Apply template to a blank project in project workspace](t_ApplyTempProjWorkbench.md)
+[Apply template to a blank project in project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ApplyTempProjWorkbench.md)
 
-[Project template configuration](../concept/c_ProjectTemplateConfiguration.md)
+[Project template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectTemplateConfiguration.md)
 

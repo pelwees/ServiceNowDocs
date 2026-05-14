@@ -26,5 +26,5 @@ The transaction code abbreviations that you can use in the SAP interface when wo
 |MAI\_TOOLS|Displays the alarm tool.|
 |SE16|Displays the interface debugging table \(ZSNOW\).|
 
-**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](../concept/sap-manager-connector.md)
+**Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/sap-manager-connector.md)
 

@@ -52,19 +52,19 @@ Only the default field values are migrated. The custom field values aren't migra
 
 ## Restructured RPA Hub tables \(Tokyo and earlier releases\)
 
-For Tokyo and earlier releases, you must restructure the RPA Hub tables before migration. For more information, see [Restructuring RPA Hub tables](restructured-rpa-hub-tables-utah.md).
+For Tokyo and earlier releases, you must restructure the RPA Hub tables before migration. For more information, see [Restructuring RPA Hub tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/restructured-rpa-hub-tables-utah.md).
 
--   **[Mark the bot process as ready for migration in RPA Hub](../task/mark-bot-process-ready-for-migration.md)**  
+-   **[Mark the bot process as ready for migration in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/mark-bot-process-ready-for-migration.md)**  
 Mark the bot process as ready for migration in RPA Hub so that the bot process configuration and associated assets can be migrated to another environment. With this feature, you can create an automation and test it in a lower environment and then migrate it to a higher or production environment.
--   **[Migrate the bot process configuration to another environment in RPA Hub](../task/migrate-bot-process.md)**  
+-   **[Migrate the bot process configuration to another environment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/migrate-bot-process.md)**  
 Migrate the bot process configuration and associated assets to another environment in RPA Hub. With this feature, you can create an automation and test it in a lower environment and then migrate it to a higher or production environment.
 
-**Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)
+**Parent Topic:**[Migrating data in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/migrating-data-rpa-hub.md)
 
 **Related topics**  
 
 
-[Mark the bot process as ready for migration in RPA Hub](../task/mark-bot-process-ready-for-migration.md)
+[Mark the bot process as ready for migration in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/mark-bot-process-ready-for-migration.md)
 
-[Migrate the bot process configuration to another environment in RPA Hub](../task/migrate-bot-process.md)
+[Migrate the bot process configuration to another environment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/migrate-bot-process.md)
 

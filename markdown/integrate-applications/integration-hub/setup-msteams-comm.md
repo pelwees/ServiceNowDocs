@@ -213,7 +213,7 @@ You can manage the permissions required by the app and bot to perform required a
 
 2.  Navigate to **Azure Services** &gt; **Azure Active Directory** &gt; **Manage** &gt; **App registrations**.
 
-3.  Search and open the bot created in step 3 in the section [Create an app in Microsoft Teams to enable making calls](setup-msteams-comm.md#) by name or by Application \(client\) ID.
+3.  Search and open the bot created in step 3 in the section [Create an app in Microsoft Teams to enable making calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-msteams-comm.md#) by name or by Application \(client\) ID.
 
 4.  Navigate to **Manage** &gt; **API Permissions** &gt; **Add a permission** &gt; **Microsoft Graph** and select **Application Permissions**.
 

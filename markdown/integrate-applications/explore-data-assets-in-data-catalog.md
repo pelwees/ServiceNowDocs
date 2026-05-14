@@ -19,7 +19,7 @@ Role required: WDF Consumer \(wdf\_consumer\)
 
 ## About this task
 
-Discover data assets using search or browsing. Search looks across asset names, descriptions, tags, and other metadata fields. Browse lets you explore assets by source system, domain, or collection without specific search terms. ![View of data assets in the data catalog](../image/data-catalog-home.png)
+Discover data assets using search or browsing. Search looks across asset names, descriptions, tags, and other metadata fields. Browse lets you explore assets by source system, domain, or collection without specific search terms. ![View of data assets in the data catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/data-catalog-home.png)
 
 ## Procedure
 
@@ -62,5 +62,5 @@ Discover data assets using search or browsing. Search looks across asset names, 
     -   Search looks across multiple fields including names, descriptions, and business context
     -   Results display with key information including asset type, source system, and description
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/find-access-data-assets-dc.md)
 

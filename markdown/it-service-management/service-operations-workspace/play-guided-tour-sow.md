@@ -34,22 +34,22 @@ Role required: admin
 5.  Select **Take a tour**.
 
 
-**Parent Topic:**[Operating IT services in your organization](../concept/enhancing-services-operations-in-organization.md)
+**Parent Topic:**[Operating IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/enhancing-services-operations-in-organization.md)
 
 **Related topics**  
 
 
-[Add a user-specific quick link on the ITSM landing page](add-quick-link.md)
+[Add a user-specific quick link on the ITSM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/add-quick-link.md)
 
-[Create a list in Service Operations Workspace](create-list-sow.md)
+[Create a list in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-list-sow.md)
 
-[Live Agent chat in Service Operations Workspace](../concept/configure-liveagent-sow.md)
+[Live Agent chat in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configure-liveagent-sow.md)
 
-[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
-[Incident Management in Service Operations Workspace](../concept/incident-sow.md)
+[Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/incident-sow.md)
 
-[Request Management in Service Operations Workspace](../concept/request-sow.md)
+[Request Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/request-sow.md)
 
-[Change Management in Service Operations Workspace](../concept/change-sow.md)
+[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 

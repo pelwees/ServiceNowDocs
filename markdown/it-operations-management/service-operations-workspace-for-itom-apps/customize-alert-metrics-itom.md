@@ -20,7 +20,7 @@ View the metrics for an alert and adjust the time range to see the trends for ei
 
 Ensure you have the Metric Intelligence \(sn\_metrics\_ng\) plugin installed.
 
-Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](configure-alert-metrics-itom.md).
+Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-alert-metrics-itom.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -28,7 +28,7 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the navigation bar, select the List icon: ![List icon](../image/list-icon-sow-itom.png).
+2.  From the navigation bar, select the List icon: ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/list-icon-sow-itom.png).
 
 3.  Select **Lists** &gt; **Alerts** &gt; **All Alerts**.
 
@@ -40,11 +40,11 @@ Role required: evt\_mgmt\_admin
 
 5.  Select the **Metrics** tab.
 
-    ![Metrics tab](../image/metrics-tab.png "Metrics tab")
+    ![Metrics tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/metrics-tab.png "Metrics tab")
 
 6.  In the fields above the metric charts, configure the time range for the alert's metrics.
 
-    ![Metrics time range](../image/sow-time-range.png)
+    ![Metrics time range](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-time-range.png)
 
     To customize the metrics display, configure the following properties on the **System Properties** &gt; **All Properties** page:
 
@@ -68,12 +68,12 @@ Role required: evt\_mgmt\_admin
 
     2.  Under the Impact section, on the **Configuration item** card, select the link to the CI that appears under the **Name** field.
 
-        ![Link to CI.](../image/sow-impact-section-metrics.png)
+        ![Link to CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-impact-section-metrics.png)
 
     3.  Select the **Metrics** tab.
 
     4.  Select **Save**.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

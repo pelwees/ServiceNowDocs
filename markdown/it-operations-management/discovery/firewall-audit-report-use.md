@@ -15,10 +15,10 @@ breadcrumb: [Firewall Audits and Reporting, ITOM Visibility, IT Operations Manag
 
 Firewall Audits and Reporting is a powerful application for requesting new firewall rules, streamlining the management of IP addresses.
 
--   **[Firewall rule requests](firewall-requests.md#)**  
+-   **[Firewall rule requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-requests.md#)**  
 Use Service Catalog to request new firewall policies and rules.
--   **[Firewall rule requests using agentic workflows](firewall-rule-requests-ai-workflow.md#)**  
+-   **[Firewall rule requests using agentic workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-rule-requests-ai-workflow.md#)**  
 Use the Firewall Management Task Creation agentic workflow to request new firewall policies and rules from the Now Assist panel.
 
-**Parent Topic:**[Firewall Audits and Reporting](../reference/firewall-audit-reporting.md)
+**Parent Topic:**[Firewall Audits and Reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/firewall-audit-reporting.md)
 

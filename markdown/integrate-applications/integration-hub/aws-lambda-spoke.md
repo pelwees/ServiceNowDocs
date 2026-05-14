@@ -36,7 +36,7 @@ If you’re having trouble installing the app, ensure that these dependent plugi
 -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
--   [AWS IAM Spoke](aws-iam-spoke-1.md) \(sn\_aws\_iam\_spoke\)
+-   [AWS IAM Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/aws-iam-spoke-1.md) \(sn\_aws\_iam\_spoke\)
 
 **Note:** Some of these plugins are licensable features and require an appropriate license if used outside the spoke implementation. For information on licenses, contact your account manager.
 
@@ -80,5 +80,5 @@ The AWS Lambda spoke provides actions to automate AWS Lambda tasks when events o
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the AWS Lambda spoke](../task/setup-aws-lambda.md#).
+For information about setting up the spoke, see [Set up the AWS Lambda spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-aws-lambda.md#).
 

@@ -51,12 +51,12 @@ Role required: sn\_hr\_workday.admin
     |Import Set|Name of the import set that is pulled.|
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday](../concept/config-hrsd-int-workday.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-hrsd-int-workday.md)
 
 **Related topics**  
 
 
-[Use transform maps](../reference/transform-maps-w.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/transform-maps-w.md)
 
-[View tasks from Workday](view-to-dos-wd.md)
+[View tasks from Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/view-to-dos-wd.md)
 

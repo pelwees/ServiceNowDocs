@@ -172,12 +172,12 @@ Choose variable declaration based on scope and mutability requirements. Use `con
 
 Excessive table queries can impact performance. Minimize queries by fetching necessary data once and storing it in variables.
 
-To learn about general guideliines for using the `lookup` function, see [Minimizing table queries](table_queries.md).
+To learn about general guideliines for using the `lookup` function, see [Minimizing table queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/table_queries.md).
 
 **Related topics**  
 
 
-[Create scripts](scripting.md)
+[Create scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/scripting.md)
 
-[CPQ scripting language reference](cpq-logik-io-scripting-language-reference.md)
+[CPQ scripting language reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-logik-io-scripting-language-reference.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Deployment process, Explore, App Engine Management Center, Governin
 
 As you manage requests for app deployment in App Engine Management Center \(AEMC\), use this workflow to understand how app deployments move through your pipelines in version 24.1.2, released in November 2023.
 
-![Infographic depicting a standard Pipelines and Deployments workflow. For a text description, refer to the workflow steps that follow.](../image/pipelines-flow-vs2.png "Pipelines and Deployments workflow")
+![Infographic depicting a standard Pipelines and Deployments workflow. For a text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/pipelines-flow-vs2.png "Pipelines and Deployments workflow")
 
 In this workflow:
 

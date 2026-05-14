@@ -30,5 +30,5 @@ Role required: sn\_compliance\_admin or sn\_compliance\_manager
 4.  Click **Update**.
 
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../reference/r_PoliciesAndProcedures.md)
 

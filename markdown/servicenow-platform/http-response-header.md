@@ -22,7 +22,7 @@ When configuring response headers, you must look at the definition for the HTTP 
 -   For example, you configure an HTTP header for a specific page or all the pages with a Content-Security-Policy: frame-ancestors 'self' https://www.servicenow.com.
 -   When you invoke the page in a browser such as Chrome, you can review it in the Response Headers section of Chrome Developer Tools.
 
-    ![HTTP header with Content-Security-Policy: frame-ancestors 'self'](../image/CSP-frame-ancestors-Response-Header.png)
+    ![HTTP header with Content-Security-Policy: frame-ancestors 'self'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/CSP-frame-ancestors-Response-Header.png)
 
 
 To learn more about how browsers handle a page with frame-ancestors, see [https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors).

@@ -32,5 +32,5 @@ The Inbound invoice payment details needed for a supplier to complete the transa
 |ERP Source|The available ERP|String|
 |Currency|Standard of amount exchangedin Currency Code ISO 4217 format \(USD, GBP, INR, etc\)|String|
 
-**Parent Topic:**[Inbound Invoice Fields](inbound-invoice-fields.md)
+**Parent Topic:**[Inbound Invoice Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-fields.md)
 

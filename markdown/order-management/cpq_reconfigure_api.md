@@ -23,7 +23,7 @@ The Runtime Configuration URL must also be set in the Admin Custom Settings page
 
 In Salesforce Setup, go to Security, and then to Remote Site Settings. Add a new remote site with your CPQ domain as the URL.
 
-![Remote sites list](../images/cpq-salesforce-remote-site-settings.png)
+![Remote sites list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-salesforce-remote-site-settings.png)
 
 **Important:** This API relies on **uniqueIdentifier** to match child lines. If you don't have unique **uniqueIdentifier** values for products, child lines may update incorrectly.
 

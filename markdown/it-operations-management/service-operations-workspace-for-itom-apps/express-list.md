@@ -19,7 +19,7 @@ Introduction to the Event Management Express List
 
 The Express List pane sortable alert list reduces the number of clicks necessary to access alert information. Selecting the check box of an alert opens a preview panel where you can view data that helps for prioritization, impact realization, and root cause analysis. You can easily modify the Express List pane to narrow down the display by using a provided fields list, displaying additional alert information, and filtering out or showing matching alerts. You can also modify the displayed time range.
 
-The following image shows a sample Express List pane.![Express List display](../../event-management/image/express-list-main-page.png)
+The following image shows a sample Express List pane.![Express List display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list-main-page.png)
 
 ## Express List benefits
 
@@ -49,7 +49,7 @@ The **Info** tab on the preview panel displays the following information for a s
 -   Last Updated
 -   Impacted services
 
-    For more information, see [View data on impacted services on the preview panel in Express List](../task/el-impacted-services-data.md).
+    For more information, see [View data on impacted services on the preview panel in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/el-impacted-services-data.md).
 
 -   Additional info
 -   Custom field
@@ -69,7 +69,7 @@ Each tile displays the following alert information:
 
 ## Customizing the alert display time range
 
-You can determine the time range of the displayed alerts. The default time range is the last 24 hours. The list continues to update with new alerts until you select the pause icon \(![Pause icon.](../image/pause-el.png)\). Selecting the current range setting in the upper right displays a dialog box with date and time range options:
+You can determine the time range of the displayed alerts. The default time range is the last 24 hours. The list continues to update with new alerts until you select the pause icon \(![Pause icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/pause-el.png)\). Selecting the current range setting in the upper right displays a dialog box with date and time range options:
 
 -   All time - The last 90 days
 -   Last 24 hours
@@ -90,5 +90,5 @@ Default time ranges can be defined by your administrator using the system proper
 **Related topics**  
 
 
-[Roles used by Express List](../reference/roles-used-by-express-list.md)
+[Roles used by Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../reference/roles-used-by-express-list.md)
 

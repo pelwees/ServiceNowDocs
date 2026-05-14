@@ -107,18 +107,18 @@ Manager
     The contextual side panel doesn’t appear when the corresponding conversation is defined as a mentoring conversation.
 
 
-**Parent Topic:**[Explore Career Conversations application](egd-explore-activities.md)
+**Parent Topic:**[Explore Career Conversations application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-explore-activities.md)
 
 **Related topics**  
 
 
-[Create a growth conversation in Career Conversations](../task/egd-create-growth-conversation.md)
+[Create a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../task/egd-create-growth-conversation.md)
 
-[Schedule a growth conversation in Career Conversations](../task/egd-act-schd-growth-conversation.md)
+[Schedule a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../task/egd-act-schd-growth-conversation.md)
 
-[Update a growth conversation in Career Conversations](../task/egd-act-update-growth-conversation.md)
+[Update a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../task/egd-act-update-growth-conversation.md)
 
-[Schedule a growth plan check-in conversation](../task/egd-act-schd-gp-check-in-convo.md)
+[Schedule a growth plan check-in conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../task/egd-act-schd-gp-check-in-convo.md)
 
-[Schedule a mentoring conversation in Career Conversations](../task/egd-act-schd-mentor-conversation.md)
+[Schedule a mentoring conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../task/egd-act-schd-mentor-conversation.md)
 

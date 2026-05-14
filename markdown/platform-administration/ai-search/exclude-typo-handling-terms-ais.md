@@ -33,7 +33,7 @@ Role required: ais\_admin
 
 5.  On the Dictionary Term form, fill in the fields.
 
-    For a description of the field values, see [Dictionary Term form](../reference/dictionary-term-form-ais.md).
+    For a description of the field values, see [Dictionary Term form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/dictionary-term-form-ais.md).
 
 6.  Select **Submit**.
 
@@ -48,7 +48,7 @@ Role required: ais\_admin
 
 ## What to do next
 
-To make updated typo handling settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](publish-search-profile-ais.md).
+To make updated typo handling settings take effect, publish the search profile that you edited. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
-**Parent Topic:**[Typo handling](../concept/typo-handling-ais.md)
+**Parent Topic:**[Typo handling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/typo-handling-ais.md)
 

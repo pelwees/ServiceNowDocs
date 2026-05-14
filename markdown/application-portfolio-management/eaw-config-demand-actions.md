@@ -13,12 +13,12 @@ breadcrumb: [Exploring the Setup page in the Enterprise Architecture Workspace, 
 
 Demand actions are strategic decisions that you want to execute for an application. Enterprise Architecture Workspace provides preconfigured actions that help you enhance the capability of the applications. You can add new demand actions as per your requirements.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all demand-actions](../../task/eaw-task/eaw-view-demand-actions.md)
+[View all demand-actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-demand-actions.md)
 
-[Add or edit a demand action](../../task/eaw-task/eaw-add-edit-demand-action.md)
+[Add or edit a demand action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-demand-action.md)
 

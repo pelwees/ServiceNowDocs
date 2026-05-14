@@ -26,6 +26,6 @@ Unopened non-responsive dashboards have empty canvas pages. This issue affects s
 
 2.  Open each of the problematic non-responsive dashboards.
 
-3.  [Perform full data migration](data-migration-perform.md) to migrate these dashboards to Platform Analytics experience.
+3.  [Perform full data migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-perform.md) to migrate these dashboards to Platform Analytics experience.
 
 

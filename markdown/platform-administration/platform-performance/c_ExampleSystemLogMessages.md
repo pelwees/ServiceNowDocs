@@ -41,5 +41,5 @@ An example of system log messages for transactions.
     ```
 
 
-**Parent Topic:**[Platform performance reference](platform-performance-references.md)
+**Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 

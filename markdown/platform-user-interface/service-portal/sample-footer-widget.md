@@ -15,20 +15,20 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 The Sample Footer widget is an example of a footer you can use in your portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Unlike other widgets in Service Portal, you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](../task/configure-header-menu.md#).
+Unlike other widgets in Service Portal, you add a footer to your portal by configuring it in the Theme form. For more information on adding a footer to a portal, see [Add a header or footer to a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/configure-header-menu.md#).
 
 ## Instance options
 
 The Sample footer widget does not include instance options.
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

@@ -59,7 +59,7 @@ Type
 
 The type of Security Attribute. -   compound
 
-**Note:** For further information about Compound Security Attributes see [Compound Security Attributes](../concept/compound-security-attributes.md#)
+**Note:** For further information about Compound Security Attributes see [Compound Security Attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../concept/compound-security-attributes.md#)
 
 -   integer
 -   list

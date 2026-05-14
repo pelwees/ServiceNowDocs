@@ -29,5 +29,5 @@ To access the Audit Results, navigate **All** &gt; **System Security** &gt; **Id
 |Changed for user|Name of the user when the audit was performed.|
 |Created|The time and date the audit was performed.|
 
-![Audit Results](../images/audit-results.png)
+![Audit Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/audit-results.png)
 

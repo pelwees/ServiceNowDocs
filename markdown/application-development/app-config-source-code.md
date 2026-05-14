@@ -71,7 +71,7 @@ The items in another application scope on which your application depends. You mu
 }
 ```
 
-For more information, see [Download ServiceNow Fluent application dependencies](../concept/downloading-dependencies-now-sdk.md#).
+For more information, see [Download ServiceNow Fluent application dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/downloading-dependencies-now-sdk.md#).
 
 </td></tr><tr><td>
 
@@ -131,7 +131,7 @@ Object
 
 </td><td>
 
-A map of the module source files to their equivalent output files for if you use a custom transpilation step before building the application. For more information, see [Using TypeScript in JavaScript modules with the ServiceNow SDK](../concept/using-typescript.md#).**Warning:** You can't use this parameter and the `tsconfigPath` parameter. Configuring both results in an error.
+A map of the module source files to their equivalent output files for if you use a custom transpilation step before building the application. For more information, see [Using TypeScript in JavaScript modules with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/using-typescript.md#).**Warning:** You can't use this parameter and the `tsconfigPath` parameter. Configuring both results in an error.
 
 </td></tr><tr><td>
 
@@ -371,5 +371,5 @@ Default: `.`
 **Related topics**  
 
 
-[Application access settings](../../applications/concept/c_ApplicationAccessSettings.md)
+[Application access settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/c_ApplicationAccessSettings.md)
 

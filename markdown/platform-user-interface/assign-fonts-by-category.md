@@ -21,7 +21,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 ## About this task
 
-Font assignments at the category level override broader defaults. Font size is managed separately in the **Sizes** tab and isn’t changed when assigning fonts by category. For information on editing font size, see [Edit font size](edit-font-size.md).
+Font assignments at the category level override broader defaults. Font size is managed separately in the **Sizes** tab and isn’t changed when assigning fonts by category. For information on editing font size, see [Edit font size](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-font-size.md).
 
 **Note:** Changing the font at the category level does not affect individual components that have their own font settings.
 
@@ -33,19 +33,19 @@ Font assignments at the category level override broader defaults. Font size is m
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  From the Global styles Overview panel, navigate to Typography and select the **Fonts** tab.
 
     Typography is split into Fonts and Sizes, with font assignments managed in the **Fonts** tab.
 
-    ![Typography with Fonts selected.](../image/tb-typography-panel-fonts.png "Global styles Typography")
+    ![Typography with Fonts selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-typography-panel-fonts.png "Global styles Typography")
 
 5.  Expand a component category.
 
@@ -53,7 +53,7 @@ Font assignments at the category level override broader defaults. Font size is m
 
 6.  For the selected category, choose a font family.
 
-    Select from available platform fonts or previously uploaded custom fonts. You can also [Upload a custom font to your theme](upload-custom-font.md) directly from the font selector.
+    Select from available platform fonts or previously uploaded custom fonts. You can also [Upload a custom font to your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md) directly from the font selector.
 
 7.  Select **Save**.
 
@@ -72,7 +72,7 @@ Font assignments at the category level override broader defaults. Font size is m
 
 Theme Builder automatically saves your theme record.
 
-If your theme is published, your font edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your font edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)
 

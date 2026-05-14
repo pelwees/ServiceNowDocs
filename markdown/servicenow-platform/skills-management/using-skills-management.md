@@ -19,11 +19,11 @@ The Skills Management dashboard provides comprehensive reports on skill competen
 
 You can access the dashboard by navigating to **Skills** &gt; **Dashboard**.
 
-![Skills Matrix](../images/SkillDashboard_skill_matrix.png "Overview and Skill Matrix tab")
+![Skills Matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../images/SkillDashboard_skill_matrix.png "Overview and Skill Matrix tab")
 
 You can filter these reports based on the skill category and view reports for each category.
 
-![Skill Taxonomy](../images/SkillManagement_skill_taxonomy.png "Skill Taxonomy")
+![Skill Taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../images/SkillManagement_skill_taxonomy.png "Skill Taxonomy")
 
 ## End user and roles
 
@@ -74,7 +74,7 @@ Skills Matrix
 
 </td><td>
 
-![Multi-level pivot table representing skills matrix](../../../use/reporting/image/inline-data-vis-96px-pivot-table.png) Multi-level pivot table
+![Multi-level pivot table representing skills matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-pivot-table.png) Multi-level pivot table
 
 </td><td>
 
@@ -87,7 +87,7 @@ Top 10 skills used in the last six months
 
 </td><td>
 
-![Bar chart representing top 10 skills used in the last six months](../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
+![Bar chart representing top 10 skills used in the last six months](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
 
 </td><td>
 
@@ -99,7 +99,7 @@ Tasks associated with skills
 
 </td><td>
 
-![Bar chart representing number of tasks with skills assigned to them](../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
+![Bar chart representing number of tasks with skills assigned to them](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
 
 </td><td>
 
@@ -111,7 +111,7 @@ Users with Skills
 
 </td><td>
 
-![Bar chart representing users with skills](../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
+![Bar chart representing users with skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
 
 </td><td>
 
@@ -123,7 +123,7 @@ Skills in Category
 
 </td><td>
 
-![Bar chart representing the total number of skills in a selected category](../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
+![Bar chart representing the total number of skills in a selected category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-bar-column.png) Bar chart
 
 </td><td>
 
@@ -135,7 +135,7 @@ List of user skills
 
 </td><td>
 
-![Number of users available for each skill](../../../use/reporting/image/inline-data-vis-96px-list.png)List of skills with total count of users for each skill
+![Number of users available for each skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../../../use/reporting/image/inline-data-vis-96px-list.png)List of skills with total count of users for each skill
 
 </td><td>
 

@@ -130,5 +130,5 @@ Notes about the task that are visible to all users within your organization.
 
 ## What to do next
 
-[Assess the RMA asset](assess-rma.md).
+[Assess the RMA asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/assess-rma.md).
 

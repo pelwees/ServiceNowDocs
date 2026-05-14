@@ -35,12 +35,12 @@ Role required: admin
     |Default value|250|
 
 
-**Parent Topic:**[Using formatters](../concept/c_Formatters.md)
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Formatters.md)
 
 **Related topics**  
 
 
-[Create a UI macro for a formatter](t_CreateAUIMacro.md)
+[Create a UI macro for a formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUIMacro.md)
 
-[Create a formatter and add it to a form](t_CreateAFormatter.md)
+[Create a formatter and add it to a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAFormatter.md)
 

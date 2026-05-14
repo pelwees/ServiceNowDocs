@@ -26,21 +26,21 @@ Lookup functions that reference a column in their SELECT clause can benefit from
 
 These features can be added to a column by editing the table schema. \(The schema editor opens automatically when you create a new table.\)
 
-![Tables list](../images/cpq-tables-edit-schema.png)
+![Tables list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-edit-schema.png)
 
-![Edit table schema screen](../images/cpq-tables-edit-table-schema.png)
+![Edit table schema screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-edit-table-schema.png)
 
 Because all natural keys are also indexed, checking the column does not allow the user to also check the Indexed column.
 
-![Column details](../images/cpq-tables-column-options.png)
+![Column details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-column-options.png)
 
 When the Natural Key column is checked, a keys icon displays in the table.
 
-![Enrichment test](../images/cpq-tables-keys-icon.png)
+![Enrichment test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-keys-icon.png)
 
 Another icon indicates which columns are indexed.
 
-![columns list](../images/cpq-tables-indexed-column-icon.png)
+![columns list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-tables-indexed-column-icon.png)
 
 Since natural keys act as unique identifiers in the table, internal validation makes sure that each column in the table is unique.
 
@@ -59,7 +59,7 @@ Some factors associated with natural keys and Indexes might hamper table import.
 **Related topics**  
 
 
-[Minimizing table queries](table_queries.md)
+[Minimizing table queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/table_queries.md)
 
-[The lookup function: commands and syntax](cpq-the-lookup-function-commands-and-syntax.md)
+[The lookup function: commands and syntax](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-the-lookup-function-commands-and-syntax.md)
 

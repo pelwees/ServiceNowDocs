@@ -104,5 +104,5 @@ Agents in the middle or back office of financial institutions who work with loan
 -   Document agents
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Loan Operations](loan-ops-landing-page.md)
+</table>**Parent Topic:**[Financial Services Loan Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/loan-ops-landing-page.md)
 

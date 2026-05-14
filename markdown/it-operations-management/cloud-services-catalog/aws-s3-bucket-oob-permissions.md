@@ -71,5 +71,5 @@ AWS S3 Bucket deprovision
 7.  GetBucketReplication DescribeTable
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Amazon Web Services S3 Bucket Out Of Box Catalog items](aws-s3-bucket-out-of-box-catalogs.md)
+</table>**Parent Topic:**[Amazon Web Services S3 Bucket Out Of Box Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/aws-s3-bucket-out-of-box-catalogs.md)
 

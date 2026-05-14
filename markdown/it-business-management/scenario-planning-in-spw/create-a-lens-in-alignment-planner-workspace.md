@@ -31,17 +31,17 @@ Create a lens record and add the type of items \(Project, Demand, and others\) t
 
 3.  On the form, fill in the fields.
 
-    For field information, see [Lens form](../reference/lens-form-alignment-planner-workspace.md).
+    For field information, see [Lens form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/lens-form-alignment-planner-workspace.md).
 
 4.  Select **Submit**.
 
 
 ## What to do next
 
-[Add or modify lens structure in Strategic Planning](define-lens-structure-in-alignment-planner-workspace.md).
+[Add or modify lens structure in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/define-lens-structure-in-alignment-planner-workspace.md).
 
 **Related topics**  
 
 
-[Lenses in Strategic Planning](../concept/lens-alignment-planner-workspace.md)
+[Lenses in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/lens-alignment-planner-workspace.md)
 

@@ -29,11 +29,11 @@ If a project is already created from a demand, its reference is removed from the
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Delete** from the More Actions option.![Use the Delete button to delete a demand.](../images/demand-delete.png)
+3.  Select **Delete** from the More Actions option.![Use the Delete button to delete a demand.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-delete.png)
 
 4.  Select **OK** to delete the demand.
 

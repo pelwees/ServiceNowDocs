@@ -15,7 +15,7 @@ breadcrumb: [Configure, Card Data Security, Dispute Management, Banking applicat
 
 The Card Data Security container enables secure handling of Payment Card Information \(PCI\) card data within Financial Services Operations card dispute workflows through integration with a tokenizer service. This allows users to work with sensitive card information without exposing PCI data directly.
 
-**Note:** Card Data Security container requires context-aware authorization to function correctly. See [Set up OAuth for Card Data Security](set-up-oauth-for-card-data-security.md) for more information.
+**Note:** Card Data Security container requires context-aware authorization to function correctly. See [Set up OAuth for Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-oauth-for-card-data-security.md) for more information.
 
 ## Key capabilities
 
@@ -37,9 +37,9 @@ In the dispute workspace, the value is the payment card's tokenized PAN from the
 
 **Note:** The tokenized PAN value from the tokenizer service is stored in the payment card record's PAN field. When you select the show icon, the card number reveal component detokenizes and displays the original PAN. When you select the hide icon, it restores the redacted value.
 
-![Dispute Workspace showing Card details section with masked card number field.](../image/card-data-security-card-details.png "Card number reveal component in Dispute Workspace")
+![Dispute Workspace showing Card details section with masked card number field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-card-details.png "Card number reveal component in Dispute Workspace")
 
-![Transaction details form showing card number reveal component in card details section.](../image/card-data-security-card-details-txn.png "Card number reveal component in Transaction record")
+![Transaction details form showing card number reveal component in card details section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/card-data-security-card-details-txn.png "Card number reveal component in Transaction record")
 
 This component is a UI Builder page collection called **FSO Card Number Reveal Viewport Pages**.
 

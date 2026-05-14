@@ -25,7 +25,7 @@ Role required: sn\_rvw\_feedback.respondent
 
 2.  Open the Feedback that you want to respond.
 
-3.  To respond to the feedback from the record side panel, select the list ![side panel list icon.](../image/side-panel-list-icon.jpg) icon on the record and do the following:
+3.  To respond to the feedback from the record side panel, select the list ![side panel list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/side-panel-list-icon.jpg) icon on the record and do the following:
 
     1.  Provide comments or explanations regarding the feedback submitted in the **Response** field.
 
@@ -62,5 +62,5 @@ Role required: sn\_rvw\_feedback.respondent
     You must close all the open items to send the feedback to the reviewer.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
 

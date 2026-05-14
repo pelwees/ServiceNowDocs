@@ -37,15 +37,15 @@ Hardware asset Inventory Management
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -53,15 +53,15 @@ Estimate hardware asset energy consumption and emissions
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -69,15 +69,15 @@ Hardware asset Lifecycle Tracking
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -85,15 +85,15 @@ Report reduction in e-Waste
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -101,15 +101,15 @@ Increase the proportion of Energy Star-certified assets within the portfolio
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -117,15 +117,15 @@ Track data center energy consumption, carbon, and renewables
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -133,15 +133,15 @@ Monitor PUE, WUE and CUE from each location for targeted improvement
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -149,15 +149,15 @@ Track all relevant Sustainable IT metrics at a glance
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Workflow for using Hardware Asset Management and Sustainable IT
@@ -195,5 +195,5 @@ Get started with Sustainable IT by completing these tasks:
 4.  [Manually set up entities for Sustainable IT data centers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-entities-for-sustainable-it.md).
 5.  [Configure Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-sustainable-it.md).
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

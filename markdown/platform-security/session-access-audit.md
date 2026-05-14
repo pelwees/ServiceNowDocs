@@ -19,7 +19,7 @@ The Session Access audit displays audit information as follows:
 
 **Note:** Use the `glide.authenticate.session_access.log_audit_event` property to populate the audit information.
 
-![Session Access Audits](../images/session-access-audit.png)
+![Session Access Audits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/session-access-audit.png)
 
 |Field|Description|
 |-----|-----------|

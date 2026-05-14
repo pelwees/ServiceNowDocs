@@ -43,7 +43,7 @@ The script include **OutlookMappingConfig** available in the base system support
 
     4.  Replace the object key with the copied sys\_id.
 
-        ![Defining the email mapping with the intake forms in the script include.](../image/defining-email-mapping-with-intake-forms.jpg)
+        ![Defining the email mapping with the intake forms in the script include.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/defining-email-mapping-with-intake-forms.jpg)
 
 4.  In the copied mapping object, specify the key-value pairs using the variables from the intake form.
 
@@ -95,5 +95,5 @@ description: "body"
 </table>5.  After defining the object, select **Update**.
 
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/lsd-outlook-addin-configure.md)
 

@@ -56,5 +56,5 @@ The following sections appear in the summary that is generated:
 4.  Review the summary to acquire pertinent information about your employee's journey.
 
 
-**Parent Topic:**[Activate the Journey Summarization for Managers skill](activate-jny-summarization.md)
+**Parent Topic:**[Activate the Journey Summarization for Managers skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/activate-jny-summarization.md)
 

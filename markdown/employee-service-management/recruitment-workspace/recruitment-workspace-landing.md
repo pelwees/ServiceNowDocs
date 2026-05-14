@@ -19,19 +19,19 @@ The Recruitment workspace centralizes job requisition tracking, boosts hiring ef
 
 <table id="table_esf_kyb_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Recruitment workspace](exploring-recruitment-workspace.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Recruitment workspace](exploring-recruitment-workspace.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Recruitment workspace application](config-recruitment.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure the Recruitment workspace application](config-recruitment.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-project-manager.svg)Learn how to use Recruitment workspace](use-recruit-workspace.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../../../reuse/icons/brand-icons/bus-project-manager.svg)Learn how to use Recruitment workspace](use-recruit-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Recruitment workspace](recruitment-workspace-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../../../reuse/icons/brand-icons/bus-learn.svg)Important reference information about Recruitment workspace](recruitment-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

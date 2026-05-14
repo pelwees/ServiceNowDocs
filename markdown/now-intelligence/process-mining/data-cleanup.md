@@ -15,7 +15,7 @@ breadcrumb: [Configure, Process Mining, Platform Analytics]
 
 The Process Mining properties page provides configuration options for Process Mining.
 
-**Parent Topic:**[Configuring Process Mining](setting-up-process-mining.md)
+**Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-up-process-mining.md)
 
 ## Data cleanup properties
 
@@ -63,7 +63,7 @@ Set the number of days post retirement after which the projects will be cleaned 
 </table>**Related topics**  
 
 
-[Example of an indicator using Process Mining](integrate-pa.md#)
+[Example of an indicator using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrate-pa.md#)
 
 ## Schedule job for version cleanup
 
@@ -256,7 +256,7 @@ Minimum number of eligible work notes **promin.work\_notes.min\_eligible\_record
 
 </td><td>
 
-Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when creating process configuration \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](../task/investigative-features.md).
+Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when creating process configuration \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/investigative-features.md).
 
  -   Type: integer
 -   Default value: 25

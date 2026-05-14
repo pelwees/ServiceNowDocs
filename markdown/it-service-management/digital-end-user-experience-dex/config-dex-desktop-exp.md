@@ -19,13 +19,13 @@ Set up Desktop Assistant to give end users quick access to self-service and diag
 
 You must have the Desktop Assistant administrator role \[sn\_dex\_desktop.admin\] role to configure Desktop Assistant.
 
-1.  [Download and install Desktop Assistant](../task/download-desktop-experience.md).
-2.  [Configure Open Authorization details](../task/configure-oauth-details.md).
-3.  [Customize Desktop Assistant home page](../task/change-home-page-title.md).
-4.  [Enable or disable notifications](../task/enable-notification.md).
-5.  [Enable Virtual Agent or chat](../task/enable-va-chat.md).
-6.  [Map a card to a section](../task/map-card-section.md) or [Delete a card from the Desktop Assistant home page](../task/delete-card.md).
-7.  [Add a section in the Desktop Assistant home page](../task/add-home-page-section.md) or [Delete a section from the Desktop Assistant home page](../task/delete-home-page-section.md).
+1.  [Download and install Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/download-desktop-experience.md).
+2.  [Configure Open Authorization details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/configure-oauth-details.md).
+3.  [Customize Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/change-home-page-title.md).
+4.  [Enable or disable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/enable-notification.md).
+5.  [Enable Virtual Agent or chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/enable-va-chat.md).
+6.  [Map a card to a section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/map-card-section.md) or [Delete a card from the Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/delete-card.md).
+7.  [Add a section in the Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/add-home-page-section.md) or [Delete a section from the Desktop Assistant home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/delete-home-page-section.md).
 
 **Note:** If you experience issues with Desktop Assistant, troubleshoot them by accessing the logs at these locations:
 

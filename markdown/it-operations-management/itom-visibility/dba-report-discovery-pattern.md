@@ -112,7 +112,7 @@ Discovery credentials should have read access to: -   Run `â€œlsnrctl servicesâ€
 </td></tr></tbody>
 </table>-   **Verify that a Discovery schedule is configured**
 
-    For more information, see [create a discovery schedule](running-discoveries.md)
+    For more information, see [create a discovery schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/running-discoveries.md)
 
 
 ## Data collected by the extension section of the Apache Cassandra pattern
@@ -683,5 +683,5 @@ Oracle Top 10 Queries
 -   ci
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Database discovery](database-discovery.md)
+</table>**Parent Topic:**[Database discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/database-discovery.md)
 

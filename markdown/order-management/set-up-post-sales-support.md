@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create a characteristic](../reference/create-entitlement-template-characteristic.md)
+[Create a characteristic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/create-entitlement-template-characteristic.md)
 
 </td><td>
 

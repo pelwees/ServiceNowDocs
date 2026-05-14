@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Generate onboarding ramp-up plan](onboarding-ramp-up-plan-agentic-wf.md)
+[Generate onboarding ramp-up plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/onboarding-ramp-up-plan-agentic-wf.md)
 
 </td><td>
 
@@ -64,5 +64,5 @@ For more information about duplicating an agentic workflow and activating the re
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-**Parent Topic:**[Using Journey designer](using-jny-dsnr.md)
+**Parent Topic:**[Using Journey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/using-jny-dsnr.md)
 

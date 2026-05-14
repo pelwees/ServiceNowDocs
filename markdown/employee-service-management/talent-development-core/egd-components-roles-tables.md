@@ -61,5 +61,5 @@ Hiring Core provides a repository where you can store information that you’ve 
 
 **Note:** You can use the record tables according to your requirement.
 
-**Parent Topic:**[Talent Development Core application reference](../concept/egd-reference.md)
+**Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-reference.md)
 

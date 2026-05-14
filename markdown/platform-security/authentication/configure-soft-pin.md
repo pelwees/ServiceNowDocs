@@ -27,15 +27,15 @@ Role required: none
 
     -   **Service Portal**: Go to your **User Profile** and select **Enroll Soft PIN**.
 
-        ![Soft PIN on the Service Portal](../images/softpin-3.png "Soft PIN on Service Portal")
+        ![Soft PIN on the Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/softpin-3.png "Soft PIN on Service Portal")
 
     -   **Platform UI**: Go to your **User Profile** and select **Enroll Soft PIN** under Related Links.
 
-        ![Soft PIN on the Platform UI](../images/softpin-1.png "Soft PIN on Platform UI")
+        ![Soft PIN on the Platform UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/softpin-1.png "Soft PIN on Platform UI")
 
     -   **Navigation menu**: Select **All** &gt; **Authentication Factors** &gt; **Soft PIN** &gt; **Enroll**.
 
-        ![Soft PIN on the Navigation menu](../images/softpin-2.png "Soft PIN on Navigation menu")
+        ![Soft PIN on the Navigation menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/softpin-2.png "Soft PIN on Navigation menu")
 
 2.  Create a PIN that meets these requirements:
 
@@ -45,7 +45,7 @@ Role required: none
     -   No single digit must be repeated more than twice consecutively
     -   Don’t use ascending or descending numeric sequences longer than two digits
     -   Can’t reuse any of your previous five PINs
-    ![Soft PIN Enrollment](../images/configure-soft-pin.png "Soft PIN Enrollment")
+    ![Soft PIN Enrollment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/configure-soft-pin.png "Soft PIN Enrollment")
 
 3.  Select **Submit**.
 

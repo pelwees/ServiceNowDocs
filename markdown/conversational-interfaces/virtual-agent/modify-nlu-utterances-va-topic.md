@@ -46,7 +46,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## What to do next
 
-After making changes, you can [train, test, and publish the model](train-test-publish-nlu-model-vad.md) from this tab.
+After making changes, you can [train, test, and publish the model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/train-test-publish-nlu-model-vad.md) from this tab.
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

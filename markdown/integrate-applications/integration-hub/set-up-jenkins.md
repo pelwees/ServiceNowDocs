@@ -41,12 +41,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the Jenkins v2 spoke, click **View Details**.
 
-        ![Connection template for Jenkins V2](../image/jenkins-v2-conn-template.png)
+        ![Connection template for Jenkins V2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jenkins-v2-conn-template.png)
 
-    -   To manage more than oneJenkins v2 spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than oneJenkins v2 spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Jenkins v2 connection configuration](../image/jenkins-v2-conn-config.png)
+    ![Jenkins v2 connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jenkins-v2-conn-config.png)
 
 5.  On the Connection form, fill in the fields.
 
@@ -57,7 +57,7 @@ Role required: admin
     |User name|User name of your Jenkins account.|
     |Password|API token of your Jenkins account.|
 
-    ![Configure connection for the Jenkins v2 spoke.](../image/jenkinsv2-conf-template.png)
+    ![Configure connection for the Jenkins v2 spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/jenkinsv2-conf-template.png)
 
 6.  Click **Create Connection**.
 

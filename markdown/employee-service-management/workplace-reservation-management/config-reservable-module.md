@@ -34,7 +34,7 @@ Ensure that you have the following details:
 -   Data of workspaces that can be marked as available.
 -   Configure approvers/performer criteria
 
-See [Create records for your workplace data](../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md) to add workplace data.
+See [Create records for your workplace data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-service-delivery/task/create-records-of-workplace-data-wsd.md) to add workplace data.
 
 Role required: sn\_wsd\_rsv.admin
 
@@ -63,7 +63,7 @@ A Reservable module groups similar types of workplace items. Employees can view 
 
     On the form, fill in the fields.
 
-    ![Reseravable Table Configuration form.](../image/Reservable-module-table.png)
+    ![Reseravable Table Configuration form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/Reservable-module-table.png)
 
 <table id="table_zkf_5wr_wfc"><thead><tr><th>
 
@@ -146,7 +146,7 @@ Reservable quantity for workplace spaces. The **Reservable Quantity** field dete
 
     On the form, fill in the fields.
 
-    ![Reservable Module Configuration form showing properties.](../image/reservable-module-configuration.png)
+    ![Reservable Module Configuration form showing properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/reservable-module-configuration.png)
 
 <table id="table_imf_bxr_wfc"><thead><tr><th>
 
@@ -190,7 +190,7 @@ Option to specify in which reservations the module must be available.-   **Advan
 -   **Quick reservation**: Select this option to make the module available in the Reservation widget on the Workplace Service Portal homepage.
 -   **Workplace Experience**: Option to display workplace option on Workplace Service Delivery for Mobile.
 
-**Note:** The Workplace experience" is available in the Desks Reservable module level by default. If the **All day** Reservable Module checkbox is not selected, the **Workplace Experience** option is not available in **Available-In** option. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from the Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes." For more information, see [Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md).
+**Note:** The Workplace experience" is available in the Desks Reservable module level by default. If the **All day** Reservable Module checkbox is not selected, the **Workplace Experience** option is not available in **Available-In** option. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from the Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes." For more information, see [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../wsd-for-mobile/task/manage-schedule-emp-center.md).
 
 </td></tr><tr><td>
 
@@ -208,7 +208,7 @@ Enable allocation duration check
 
 Option to display spaces in the search results based on the start and end dates of the allocation. This field appears only when the **Require allocation check** field is selected.For recurring reservations, the allocation duration is only checked for the first occurrence.
 
-Time-bound allocations follow only the start date and end date of the allocation, which are set in the system time zone. For more information, see [Allocate a cost center, department, or workplace entity](../../workplace-space-management/task/add-cost-center-department-floor.md).
+Time-bound allocations follow only the start date and end date of the allocation, which are set in the system time zone. For more information, see [Allocate a cost center, department, or workplace entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-space-management/task/add-cost-center-department-floor.md).
 
 **Note:**
 
@@ -238,7 +238,7 @@ Enable browse by neighborhood
 
 </td><td>
 
-Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](create-neighborhood-reservations.md).This option is also available on the Now Mobile app.
+Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).This option is also available on the Now Mobile app.
 
 </td></tr><tr><td>
 
@@ -267,7 +267,7 @@ Apply to shift
 
 </td><td>
 
-Option to enable shift-based reservation on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md) and [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md).
+Option to enable shift-based reservation on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md) and [Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md).
 
 </td></tr><tr><td>
 
@@ -346,7 +346,7 @@ For example: **Browse all**,**Browse an area**, **Browse by neighborhood**.
 
 When editing a reservation, the context \(path\) is defaulted to **Browse all**. Employees can change the selected space or date and time of the reservation.
 
- For more information, see [Create a reservation](create-reservation-request-1.md).
+ For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
  **Note:** This option is not available on the Now Mobile app.
 
@@ -364,7 +364,7 @@ Allow Multiple Building Reservations
 
 </td><td>
 
-Option to add multiple buildings and select spaces from the buildings in a single reservation. The buildings can belong to different regions or locations and can be from different time zones. **Note:** Adding multiple buildings to a reservation is available only on the Workplace Service Portal. Recurring reservations are not supported for multi-building reservations. For more information, see [Create multi-building reservations](create-multi-building-reservation.md).
+Option to add multiple buildings and select spaces from the buildings in a single reservation. The buildings can belong to different regions or locations and can be from different time zones. **Note:** Adding multiple buildings to a reservation is available only on the Workplace Service Portal. Recurring reservations are not supported for multi-building reservations. For more information, see [Create multi-building reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md).
 
 </td></tr><tr><td>
 
@@ -390,7 +390,7 @@ Option to enforce employees to make **All day** reservation. This option depends
 
  **Note:** When **Require all day reservation** is selected, employees while making or updating the reservation will find the **All day** option on the Reservation portal enabled by default.
 
-Employees can modify the Start date but not the time on the reservation portal. For more information, see [Create a reservation](create-reservation-request-1.md)
+Employees can modify the Start date but not the time on the reservation portal. For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md)
 
  **Warning:** From Workplace Reservation Management version , the **Allow all day reservation** and **Require all day reservation** fields are merged under the **All day** field as **Enabled** and **Required** respectively.
 
@@ -403,11 +403,11 @@ All day
 Option to enable workplace users to reserve a Reservable Modile Configuration for an entire day. For example, Desk Reservable Module Configuration.-   **Disabled**: The All day option will be disabled and is not displayed on the Reservation portal.
 -   **Enabled**: The **All day** option is available and employees can reserve a space for a day.
 
-This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](../reference/properties-installed-with-wsd-reservation-mgmt.md).
+This configuration is dependent on the \(sn\_wsd\_rsv.day\_start\) and \(sn\_wsd\_rsv.day\_end\) reservation property. For more information, see [Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/properties-installed-with-wsd-reservation-mgmt.md).
 
 -   **Default**: The **All day** option is available and selected by default. However, the employees can deselect or change the timings if they want.
 -   **Required**: The **All day** option is displayed as selected and cannot be changed. The **All day** field is set as mandatory.
--   **Note:** If the **All Day** check box is not selected, **Workplace Experience** option is inactive in the **Available in** Reservable Module Configuration. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes". For more information, see [Create a reservation for a day in Workplace](../../wsd-for-mobile/task/manage-schedule-emp-center.md).
+-   **Note:** If the **All Day** check box is not selected, **Workplace Experience** option is inactive in the **Available in** Reservable Module Configuration. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes". For more information, see [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../wsd-for-mobile/task/manage-schedule-emp-center.md).
 
 **Warning:** From Workplace Reservation Management version , the **Allow all day reservation** and **Require all day reservation** fields are merged under the **All day** field as **Enabled** and **Required** respectively.
 
@@ -417,7 +417,7 @@ Max days in future
 
 </td><td>
 
-Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, users cannot select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the maximum number of the days in the future up to which the reservable module can be reserved. For example, if you set the max number of days in future to **90**, employees can make future reservations on this module only up to 90 days in advance. If this option is enabled, users cannot select a date beyond the specified value in **Max days in future** while making a reservation. For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
 On Now Mobile app, if you try to select a date too far in the future than what is specified in the **Max days in future**, no results are returned.
 
@@ -454,7 +454,7 @@ Resolving a conflict uses one of the following proximity calculations:
     -   same capacity
     -   more capacity
     -   less capacity
-For more information, see [Create a reservation](create-reservation-request-1.md) and [Auto-resolve recurring reservations](recurring-reservations.md).
+For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md) and [Auto-resolve recurring reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/recurring-reservations.md).
 
 </td></tr><tr><td>
 
@@ -486,7 +486,7 @@ Max days for multi-day
 
 </td><td>
 
-Option to make a multi-day reservation. Employees can reserve an available space covering or spanning multiple days. For example, 5 days or more. For more information, see [Create a multi-day reservation](create-multi-day-reservation.md).Default value for this Reservable Module property is 1. To make a single day reservation, set the value to 1. Value 0 \(zero\) is not allowed.
+Option to make a multi-day reservation. Employees can reserve an available space covering or spanning multiple days. For example, 5 days or more. For more information, see [Create a multi-day reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md).Default value for this Reservable Module property is 1. To make a single day reservation, set the value to 1. Value 0 \(zero\) is not allowed.
 
 When the **Max days for multi-day** value is more than 1, the **All day** option is disabled on the Reservation portal while making a reservation.
 
@@ -506,7 +506,7 @@ Max number of days for browse near a person
 
 </td><td>
 
-Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Admins can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](create-reservation-request-1.md).
+Option to specify the number of days employees can reserve a space near a colleague. Admins can configure the maximum number of days an employee would like to reserve a space near a colleague using this property.Default value is 7. Admins can change this value to more than 7 days and enable employees to select the max number of days they would like to book a seat near a team member or a colleague. For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
 **Note:** This field is displayed only when the **Enable browse near a person** Reservable module property is enabled on the Reservable Module.
 
@@ -533,7 +533,7 @@ Option to specify the maximum limit of search results when an employee searches 
 
     On the form, fill in the fields.
 
-    ![Reservable Module Widget Configuration properties.](../image/rsv-module-allow-attendees-search.png)
+    ![Reservable Module Widget Configuration properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/rsv-module-allow-attendees-search.png)
 
 <table id="table_rkb_rxr_wfc"><thead><tr><th>
 
@@ -573,7 +573,7 @@ Warn employee about presence exception
 
 </td><td>
 
-Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](../../workplace-concierge/concept/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md) is installed.
+Option to warn employees if their presence is set to remote on the date of the reservation. The warning is displayed based on the [presence routine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-concierge/concept/explore-workplace-concierge.md#section_nz5_lxh_tzb) of the employee. This option is available if [Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../workplace-concierge/concept/workplace-concierge-feat.md) is installed.
 
 </td></tr><tr><td>
 
@@ -585,7 +585,7 @@ Option to add meeting attendees and search for their availability on the Make a 
 
 The ability to search and add colleagues or attendees based on their availability is supported only for Microsoft Exchange Online.
 
-**Note:** Colleagues can be added on the reservation portal search page. The application retrieves their availability to add them as reservation attendees. Guests can be added on the reservation details page after you've selected a space. For more information, see [Add invitees as collaborators and create a reservation](add-colleagues-rsv-search.md).
+**Note:** Colleagues can be added on the reservation portal search page. The application retrieves their availability to add them as reservation attendees. Guests can be added on the reservation details page after you've selected a space. For more information, see [Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md).
 
 </td></tr><tr><td>
 
@@ -633,7 +633,7 @@ Option to add notes to a meeting and attach images while making a reservation. T
 
 For Now Mobile app, the message is displayed on the summary page but employees cannot add or edit a message.
 
-For more information, see [Create a reservation](create-reservation-request-1.md).
+For more information, see [Create a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-reservation-request-1.md).
 
 .
 
@@ -643,7 +643,7 @@ Additional details record producer
 
 </td><td>
 
-Option to link to the record producer that you have configured with additional fields. You can display additional fields on the reservation form. For more information, refer to [Configure reservable module with additional details](configure-reservable-module-with-custom-fields.md).
+Option to link to the record producer that you have configured with additional fields. You can display additional fields on the reservation form. For more information, refer to [Configure reservable module with additional details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-module-with-custom-fields.md).
 
 </td></tr><tr><td>
 
@@ -669,59 +669,59 @@ Option to specify what status must the reservation show on the employee's calend
 
 The Reservable module configuration is added to the application. The reservable items are available to employees based on the filter conditions and properties that are configured. The filter conditions can be applied in the Reservable Table Configuration for a location.
 
--   **[Configure a reservable module to group spaces in an area](config-rsv-mod-for-neighspace.md)**  
+-   **[Configure a reservable module to group spaces in an area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-rsv-mod-for-neighspace.md)**  
 Create a reservable module to group spaces in an area. Enable employees to reserve a space in an area.
--   **[Add workplace locations to a reservable module](add-allowed-buildings-to-reservable-module.md)**  
+-   **[Add workplace locations to a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-allowed-buildings-to-reservable-module.md)**  
 Configure workplace locations that must be available to users for reservation when they select a reservable module. Restrict the usage of a workplace by adding only those workplaces that are can be reserved.
--   **[Generate and print a QR code for a reservable module](generate-qr-code-for-rsv-module.md)**  
+-   **[Generate and print a QR code for a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-qr-code-for-rsv-module.md)**  
 Generate and print a QR code for an entire reservable module. Place the QR codes at reservable workplace locations so that employees can scan the code, make a reservation, or perform reservation-related actions.
--   **[Create a record producer to add additional details](create-a-record-producer-to-add-additional-fields.md)**  
+-   **[Create a record producer to add additional details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-record-producer-to-add-additional-fields.md)**  
 Configure a record producer with additional details and add it to the reservable module. The fields configured for additional details will be displayed to the employee when they make a reservation.
--   **[Configure reservable module with additional details](configure-reservable-module-with-custom-fields.md)**  
+-   **[Configure reservable module with additional details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-module-with-custom-fields.md)**  
 The application enables you configure a reservable module with additional details based on your organization's requirements.
 
-**Parent Topic:**[Configure Workplace Reservation Management portal](../concept/wsd-reservation-setup.md)
+**Parent Topic:**[Configure Workplace Reservation Management portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/wsd-reservation-setup.md)
 
 **Related topics**  
 
 
-[Install Workplace Reservation Management](install-wsd-reservation-mgmt.md)
+[Install Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/install-wsd-reservation-mgmt.md)
 
-[Add a workplace space for reservation](add-reservable-items.md)
+[Add a workplace space for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-items.md)
 
-[Add a workplace room for reservation](add-workplace-rooms.md)
+[Add a workplace room for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-workplace-rooms.md)
 
-[Assign spaces to an area](add-neighbourhood-spaces-to-an-area.md)
+[Assign spaces to an area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-neighbourhood-spaces-to-an-area.md)
 
-[Create a standard service](add-standard-services.md)
+[Create a standard service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)
 
-[Create a flexible service](add-flexible-service.md)
+[Create a flexible service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-flexible-service.md)
 
-[Create a workplace service to provide an extra service for a reservation](create-workplace-service-to-provide-extra-service.md)
+[Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md)
 
-[Create a reservable view](create-a-reservable-view.md)
+[Create a reservable view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-reservable-view.md)
 
-[Create a user criteria record](create-user-criteria.md)
+[Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-user-criteria.md)
 
-[Configure a reservable purpose](configure-reservable-purpose.md)
+[Configure a reservable purpose](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-purpose.md)
 
-[Create a quick reservation time slot](add-reservable-time-slots.md)
+[Create a quick reservation time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-time-slots.md)
 
-[Configure virtual meeting providers](configure-virtual-meeting-providers.md)
+[Configure virtual meeting providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-virtual-meeting-providers.md)
 
-[Configure Microsoft Teams as virtual meeting provider](configure-msteams-as-virtual-meeting-provider.md)
+[Configure Microsoft Teams as virtual meeting provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-msteams-as-virtual-meeting-provider.md)
 
-[Connect Workplace Reservation Management with Microsoft Teams](connect-rsv-mgmt-with-teams.md)
+[Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mgmt-with-teams.md)
 
-[Connect Workplace Reservation Management with Zoom](connect-rsv-mtm-with-zoom.md)
+[Connect Workplace Reservation Management with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mtm-with-zoom.md)
 
-[Display permanent seat assignments on floor maps](display-permanent-seats-on-maps.md)
+[Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/display-permanent-seats-on-maps.md)
 
-[Display name of the person reserving a space](displayname-person-booking-rsv.md)
+[Display name of the person reserving a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/displayname-person-booking-rsv.md)
 
-[Manage check-in and check-out reservations](../concept/check-in-check-out-process.md)
+[Manage check-in and check-out reservations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/check-in-check-out-process.md)
 
-[Configure automatic check-in for reserved spaces](../concept/configure-rsv-check-in.md)
+[Configure automatic check-in for reserved spaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/configure-rsv-check-in.md)
 
-[Configure reservation multi-day settings in Reservable Module](../concept/rsv-config-rsv-mod-value.md)
+[Configure reservation multi-day settings in Reservable Module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/rsv-config-rsv-mod-value.md)
 

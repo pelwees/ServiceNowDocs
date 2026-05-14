@@ -46,16 +46,16 @@ Like any other CI type, an entry point contains several important definitions th
 5.  Define the parameters for the new entry point type as described in [Create a CI class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIType.md).
 
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Create CI types for Service Mapping and Discovery](t_CreateCITypeForSM.md)
+**Previous topic:**[Create CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md)
 
-**Next topic:**[Create or customize patterns](t_CreatePatternPatDef.md)
+**Next topic:**[Create or customize patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md)
 
 **Related topics**  
 
 
-[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_DefineNewBusinessService.md)
 
-[Create CI types for Service Mapping and Discovery](t_CreateCITypeForSM.md)
+[Create CI types for Service Mapping and Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md)
 

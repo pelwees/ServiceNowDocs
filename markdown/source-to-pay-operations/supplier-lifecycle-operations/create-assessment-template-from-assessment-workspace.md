@@ -44,5 +44,5 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 Configure the user criteria to restrict the reassignment of assessments from one contact to another within the organization.
 
-**Parent Topic:**[Configure smart assessments](configure-smart-assessments.md)
+**Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 

@@ -52,21 +52,21 @@ Video on how to create an app
 
 1.  Go to **All** &gt; **App Engine** &gt; **Creator Studio**.
 
-    ![Select the All menu and search for Creator Studio](../image/crs-all-menu-callouts.png "Start Creator Studio")
+    ![Select the All menu and search for Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-all-menu-callouts.png "Start Creator Studio")
 
 2.  Select the **Create app** button.
 
-    ![Select the Create app button](../image/crs-tutorial-create-app-button.png "Create app button")
+    ![Select the Create app button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-create-app-button.png "Create app button")
 
-    -   If you're a system administrator, you can read more about this topic in [Application collaboration](../../applications/concept/application-collaboration.md).
-    -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](../task/creator-studio-request-app-added.md).
+    -   If you're a system administrator, you can read more about this topic in [Application collaboration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../../applications/concept/application-collaboration.md).
+    -   If you want to know how to request an admin to create the app for you, check out [Ask an admin to create an app for you in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/creator-studio-request-app-added.md).
 3.  Select the type of app you want to build, such as **Service Desk**.
 
     Service Desk apps enable users to submit requests, report issues, and access support related to services within your company.
 
     **Note:** Your admin may have hidden this page.
 
-    ![Within the Creator Studio interface, select the "Service Desk" app option. This type of app is designed to streamline the management of incoming requests or support tickets.](../image/crs-interstitial-sd.png "Select the app type")
+    ![Within the Creator Studio interface, select the "Service Desk" app option. This type of app is designed to streamline the management of incoming requests or support tickets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-interstitial-sd.png "Select the app type")
 
 4.  Select the **Continue** button.
 
@@ -77,7 +77,7 @@ Video on how to create an app
     |Name|`Gift Card Request`|
     |Description|`Request an internal or third party gift card for employee recognition.`|
 
-    ![Enter app name and description](../image/crs-tutorial-create-app-nav.png "Add Gift card request app basic details")
+    ![Enter app name and description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-create-app-nav.png "Add Gift card request app basic details")
 
 6.  Select the **Create app** button.
 
@@ -100,11 +100,11 @@ Role required: Creator Studio User
 
     You can select **+Add form** in either the navigation panel or the app canvas.
 
-    ![Select + Add form to start adding a form](../image/crs-add-form-nav.png "Start adding a form")
+    ![Select + Add form to start adding a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-add-form-nav.png "Start adding a form")
 
 2.  Verify on the template page that the **Creator Studio Default Template** is selected.
 
-    ![Select the default template and then select Apply](../image/crs-tutorial-template-select.png "Select the template")
+    ![Select the default template and then select Apply](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-template-select.png "Select the template")
 
 3.  Select the **Apply template and continue** button.
 
@@ -135,7 +135,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
     |Short description|`Request an internal or third party gift card for employee recognition.`|
     |Long description|`Looking for a great way to recognize your colleagues? Use this form to request a gift card to our internal company store or to a third party store of your choice!`|
 
-    ![Form name, short and long descriptions](../image/crs-tutorial-add-form-info-nav.png "Enter form details")
+    ![Form name, short and long descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-add-form-info-nav.png "Enter form details")
 
     **Note:** This page enables you to specify details for your first form. You can also edit the form details, such as name and description, from inside the app after the form is generated.
 
@@ -147,7 +147,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
 
     You can use any image that you like.
 
-    ![Select the image icon to upload an image](../image/crs-tut-add-image.png "Add an image")
+    ![Select the image icon to upload an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-add-image.png "Add an image")
 
     1.  Select the add image icon ![](../image/crs-tut-add-image-icon.png).
 
@@ -166,7 +166,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
         |Show question on form|Select this option|
         |Mark as required|Select this option|
 
-        ![Specify values to create the first question, and then save](../image/crs-tut-question1.png "Add the first question")
+        ![Specify values to create the first question, and then save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-question1.png "Add the first question")
 
     3.  Select the **Save** button.
 
@@ -183,7 +183,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
         |Show question on form|Select this option|
         |Mark as required|Select this option|
 
-        ![Specify values to create the second question, and then save](../image/crs-tut-question2.png "Add the second question")
+        ![Specify values to create the second question, and then save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-question2.png "Add the second question")
 
     3.  Select the **Save** button.
 
@@ -200,7 +200,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
         |Show question on form|Select this option|
         |Source table|`User (sys_user)`|
 
-        ![Specify values to create the third question, and then save](../image/crs-tut-question3.png "Add the third question")
+        ![Specify values to create the third question, and then save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-question3.png "Add the third question")
 
     3.  Select the **Save** button.
 
@@ -216,7 +216,7 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
         |Content type|Leave as **Multi-line text**|
         |Show question on form|Select this option|
 
-        ![Specify values to create the fourth question, and then save](../image/crs-tut-question4.png "Add the fourth question")
+        ![Specify values to create the fourth question, and then save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-question4.png "Add the fourth question")
 
     3.  Select the **Save** button.
 
@@ -226,45 +226,45 @@ You can also use Now Assist for Creator on the **Build with Now Assist** tab to 
 
     **Note:** The published form appears only on the non-production instance where you're developing your app. You must request that your admin deploy the app to production for the form to appear in the catalog on the production instance.
 
-    ![Select the Mark as ready button](../image/crs-tut-mark-ready.png "Mark a form as ready")
+    ![Select the Mark as ready button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-mark-ready.png "Mark a form as ready")
 
 10. Specify where users can access the form in the Service Catalog and Employee Center.
 
     1.  Select the **Edit location setting** button.
 
-        ![Warning to edit location](../image/crs-tutorial-location-form1.png "Edit location settings warning")
+        ![Warning to edit location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-location-form1.png "Edit location settings warning")
 
     2.  Select the **Edit** button to add the form to a Service Catalog topic.
 
-        ![Edit the categories](../image/crs-tut-catgory-select.png "Form settings modal")
+        ![Edit the categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-catgory-select.png "Form settings modal")
 
     3.  Select the catalog that represents the business area the app will use.
 
         For example, you can expand the **Service Catalog** and then select the **Can we help you?** category.
 
-        ![Select where the form will appear](../image/crs-tut-catalog-select-cat.png "Form settings modal catalogs")
+        ![Select where the form will appear](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-catalog-select-cat.png "Form settings modal catalogs")
 
     4.  Select the **Apply** button to save your changes.
 
     5.  Select the **Edit** button to add the form to an Employee Center topic.
 
-        ![Select Employee Center topics](../image/crs-tutorial-location-form2.png "Select topics in the Employee Center topic")
+        ![Select Employee Center topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-location-form2.png "Select topics in the Employee Center topic")
 
     6.  Choose the section of the Employee Center where the form will live.
 
-        ![Select where the topic will live](../image/crs-tutorial-location-form3.png "Select the Employee Center topic")
+        ![Select where the topic will live](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-location-form3.png "Select the Employee Center topic")
 
 11. Select the **Apply** button.
 
 12. Select the **Save all settings** button to save your changes.
 
-    ![Save all settings on the location](../image/crs-tutorial-location-form4.png "Save all location settings")
+    ![Save all settings on the location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-location-form4.png "Save all location settings")
 
 13. See how the form will look by selecting the **Preview** button.
 
     You can see a preview of the how the current version of the form will appear in various experiences by selecting **Portal** \(such as Employee Portal\), **Now Mobile**, or **Virtual Agent**. You can fill in the form when previewing, but selecting the **Submit** button doesn't generate a task record.
 
-    ![Preview how a form looks on mobile](../image/crs-preview-mobile.png "Preview a form")
+    ![Preview how a form looks on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-preview-mobile.png "Preview a form")
 
 
 ## Tutorial part 4:Add an automated playbook
@@ -279,7 +279,7 @@ Role required: Creator Studio User
 
 1.  Select **+ Add automation** for the Gift card request form.
 
-    ![Select + Add automation under the form](../image/crs-tut-add-auto-link.png "Select to add an automation")
+    ![Select + Add automation under the form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-add-auto-link.png "Select to add an automation")
 
 2.  Enter the following values in the Create a playbook modal:
 
@@ -290,7 +290,7 @@ Role required: Creator Studio User
     |Form|Make sure the name of the form that you created \(**Gift card request**\) is selected.|
     |Trigger|Leave the trigger as **Form submitted**.|
 
-    ![Enter details for the playbook](../image/crs-tut-playbook-details.png "Enter playbook details")
+    ![Enter details for the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-details.png "Enter playbook details")
 
 3.  Select the **Create** button.
 
@@ -298,15 +298,15 @@ Role required: Creator Studio User
 
     1.  Select the add icon \(![](../image/cs-add-icon.png)\).
 
-        ![Select the plus sign to add an activity](../image/crs-tut-playbook-plus.png "Add manager approval activity: Step 1")
+        ![Select the plus sign to add an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-plus.png "Add manager approval activity: Step 1")
 
     2.  Select the Add an activity icon ![](../image/cs-add-activity-icon.png).
 
-        ![Select the square to add an activity](../image/crs-tut-playbook-step2.png "Add manager approval activity: Step 2")
+        ![Select the square to add an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step2.png "Add manager approval activity: Step 2")
 
     3.  Select the **Request approval** activity.
 
-        ![Select to add a Request approval activity](../image/crs-tut-playbook-step3-zs2.png "Add manager approval activity: Step 3")
+        ![Select to add a Request approval activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step3-zs2.png "Add manager approval activity: Step 3")
 
         The Request approval properties panel appears, where you can define the activity.
 
@@ -319,7 +319,7 @@ Role required: Creator Studio User
         |Approval type|Leave as **Anyone approves**.|
         |Conditions|Select **When playbook starts**.|
 
-        ![Enter details to define the activity](../image/crs-tut-playbook-step4.png "Request manager approval details")
+        ![Enter details to define the activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step4.png "Request manager approval details")
 
     5.  Select **Save and close**.
 
@@ -327,15 +327,15 @@ Role required: Creator Studio User
 
     1.  Select the add icon ![](../image/cs-add-icon.png).
 
-        ![Select the plus sign to add an activity](../image/crs-tut-playbook-step5.png "Add finance approval activity: Step 1")
+        ![Select the plus sign to add an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step5.png "Add finance approval activity: Step 1")
 
     2.  Select the add an activity icon ![](../image/cs-add-activity-icon.png).
 
-        ![Select the square to add an activity](../image/crs-tut-playbook-step6.png "Add finance approval activity: Step 2")
+        ![Select the square to add an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step6.png "Add finance approval activity: Step 2")
 
     3.  Select the **Request approval** activity.
 
-        ![Select to add a Request approval activity](../image/crs-tut-playbook-step7.png "Add finance approval activity: Step 3")
+        ![Select to add a Request approval activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step7.png "Add finance approval activity: Step 3")
 
         The Request approval properties panel appears, where you can define the activity.
 
@@ -349,13 +349,13 @@ Role required: Creator Studio User
         |Approval type|Leave as **Anyone approves**.|
         |Conditions|Leave as **After specific activity** with **Request manager approval** selected.|
 
-        ![Enter details to define the activity](../image/crs-tut-playbook-step8.png "Request finance approval details")
+        ![Enter details to define the activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step8.png "Request finance approval details")
 
     5.  Select **Save and close**.
 
 6.  Activate the playbook so that it can run when the form is submitted by selecting the **Activate** button.
 
-    ![Select the Activate button](../image/crs-tut-playbook-step9.png "Activate the playbook")
+    ![Select the Activate button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-playbook-step9.png "Activate the playbook")
 
 
 ### Result
@@ -374,25 +374,25 @@ Role required: Creator Studio User
 
 1.  Select the **List configurations** section in the navigation panel.
 
-    ![Select List configurations](../image/crs-tut-lists-step1.png "List configurations in the navigation panel")
+    ![Select List configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-lists-step1.png "List configurations in the navigation panel")
 
 2.  Add the assignment group to the workspace.
 
     1.  Select the **Manage columns** link in the Filtered list details panel.
 
-        ![Select to manage columns](../image/crs-tut-lists-step2.png "Manage columns link")
+        ![Select to manage columns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-lists-step2.png "Manage columns link")
 
     2.  Search for `Assignment group` in the Available columns.
 
     3.  Select the **Assignment group**.
 
-        ![Add a column and select Apply](../image/crs-tutorial-form-sub-select-col.png "Manage the columns to add a column")
+        ![Add a column and select Apply](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-form-sub-select-col.png "Manage the columns to add a column")
 
     4.  Select the **Apply** button.
 
     5.  Select the **Save** button in the Filtered list details panel.
 
-        ![Select Save to save changes](../image/crs-tut-lists-step3.png "Save changes to workspace configuration")
+        ![Select Save to save changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-lists-step3.png "Save changes to workspace configuration")
 
 
 ### Result
@@ -415,11 +415,11 @@ Role required: Creator Studio User
 
     1.  Select the **Gift card request** form from the navigation panel.
 
-        ![Select Gift card request form in navigation panel](../image/crs-tut-submit-step1.png "Select the form to test it")
+        ![Select Gift card request form in navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-submit-step1.png "Select the form to test it")
 
     2.  Select the **Try it** button.
 
-        ![Select Try it](../image/crs-tut-submit-step2.png "Try it button")
+        ![Select Try it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-submit-step2.png "Try it button")
 
     3.  Complete the form by entering the following values for each field.
 
@@ -430,7 +430,7 @@ Role required: Creator Studio User
         |Recipient|Choose a recipient from the list of people.|
         |Justification|`Onboarding a cool new person for our team!`|
 
-        ![Enter responses onto the form](../image/crs-tut-submit-step3.png "Test the form")
+        ![Enter responses onto the form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-submit-step3.png "Test the form")
 
     4.  Select the **Submit** button when you're done.
 
@@ -438,15 +438,15 @@ Role required: Creator Studio User
 
     The record that your submitted form creates appears in Creator Studio. You can view the results of the playbooks and interact with the record to see how it appears in the Request App Workspace.
 
-    ![Submitted record in Creator Studio](../image/crs-tut-submit-step4.png "View the submitted record")
+    ![Submitted record in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-submit-step4.png "View the submitted record")
 
 2.  Select the **Submit for review** button.
 
-    ![Select the submit for review button](../image/crs-tut-submit-step5.png "Submit an app for review")
+    ![Select the submit for review button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-submit-step5.png "Submit an app for review")
 
 3.  Select **Continue** on the Submit app for review modal.
 
-    ![Initial submit for review modal](../image/crs-tutorial-sub-review1.png "Start the submit for review process")
+    ![Initial submit for review modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-sub-review1.png "Start the submit for review process")
 
 4.  Check the form to be reviewed for deployment in the Review request forms modal.
 
@@ -456,7 +456,7 @@ Role required: Creator Studio User
 
     3.  Select **Continue**.
 
-    ![Review the form to be deployed with the app](../image/crs-tutorial-sub-review2.png "Check the form to be deployed")
+    ![Review the form to be deployed with the app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-sub-review2.png "Check the form to be deployed")
 
 5.  Check the form to be reviewed for deployment in the Review playbooks modal.
 
@@ -466,11 +466,11 @@ Role required: Creator Studio User
 
     3.  Select **Continue**.
 
-    ![Review the playbook to be deployed with the app](../image/crs-tutorial-sub-review3.png "Check the playbook to be deployed")
+    ![Review the playbook to be deployed with the app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-sub-review3.png "Check the playbook to be deployed")
 
 6.  Confirm that the information in the Review versioning modal is correct, and add the **Release notes**.
 
-    ![Add release notes and submit for review](../image/crs-tutorial-sub-review-4.png "Check and update release version and submit for review")
+    ![Add release notes and submit for review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-sub-review-4.png "Check and update release version and submit for review")
 
 7.  Select **Submit for review**.
 
@@ -479,7 +479,7 @@ Role required: Creator Studio User
 
 Congratulations, you have created your gift card request app! Now your admin must review and deploy it.
 
-![Confirmation message modal](../image/crs-tutorial-sub-review-5.png "Confirmation of review submission")
+![Confirmation message modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-sub-review-5.png "Confirmation of review submission")
 
 ## Tutorial part 7:Admin deploys the app
 
@@ -499,15 +499,15 @@ Role required: admin
 
 3.  Select the number **1** in the Pending requests to complete section.
 
-    ![Select the 1](../image/crs-tutorial-deploy1.png "Apps ready for deployment")
+    ![Select the 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy1.png "Apps ready for deployment")
 
 4.  Open the deployment record by selecting its **Number**.
 
-    ![Select the Number](../image/crs-tutorial-deploy2.png "List of apps to deploy")
+    ![Select the Number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy2.png "List of apps to deploy")
 
 5.  Select the **Approve** button.
 
-    ![Select Approve](../image/crs-tutorial-deploy4.png "Approve button for deployment")
+    ![Select Approve](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy4.png "Approve button for deployment")
 
 6.  Select **Save**.
 
@@ -515,18 +515,18 @@ Role required: admin
 
 8.  Select the **Approve and deploy app** button.
 
-    ![Select Approve and deploy](../image/crs-tutorial-deploy5.png "Approve and deploy button for deployment")
+    ![Select Approve and deploy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy5.png "Approve and deploy button for deployment")
 
 9.  Select the **Deploy** button.
 
-    ![Select Deploy](../image/crs-tutorial-deploy6.png "Deploy the app")
+    ![Select Deploy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy6.png "Deploy the app")
 
 
 ### Result
 
 The app has been deployed to production. Select **Show more** in the activity section if you want to view details for the app.
 
-![Select Show more](../image/crs-tutorial-deploy7.png "Verify the deployment details")
+![Select Show more](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-deploy7.png "Verify the deployment details")
 
 You can end the admin impersonation now.
 
@@ -542,19 +542,19 @@ Role required: ServiceNow AI Platform user
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-    ![Use the All menu to open Employee Center](../image/crs-tutorial-view-app1.png "Open Employee Center")
+    ![Use the All menu to open Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-view-app1.png "Open Employee Center")
 
 2.  Search for `Gift card request` in the search bar.
 
-    ![Enter "gift card request" in the search bar](../image/crs-tutorial-view-app2.png "Search for the Gift card request app")
+    ![Enter "gift card request" in the search bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-view-app2.png "Search for the Gift card request app")
 
 3.  Select the **Gift card request** app that appears in the search results.
 
-    ![Select the app to open it](../image/crs-tutorial-view-app3.png "Open the app")
+    ![Select the app to open it](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-view-app3.png "Open the app")
 
 4.  Fill out the gift card request form to request a gift card.
 
-    ![Fill out the app's form](../image/crs-tutorial-view-app4.png "Request a gift card")
+    ![Fill out the app's form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-view-app4.png "Request a gift card")
 
 5.  Select the **Submit** button.
 
@@ -571,13 +571,13 @@ Role required: admin or the app's agent role, for example, x\_snc\_app\_name.age
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Request App Workspace**.
 
-    ![Use the All menu to open the workspace](../image/crs-tutorial-workspace1.png "Open the Request App Workspace")
+    ![Use the All menu to open the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tutorial-workspace1.png "Open the Request App Workspace")
 
 2.  Find the gift card request that you submitted and select its **Number** to open it.
 
 3.  View the gift card request details.
 
-    ![Gift card request details](../image/crs-tut-workspace2.png "Gift card request details")
+    ![Gift card request details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-tut-workspace2.png "Gift card request details")
 
 
 ### Result

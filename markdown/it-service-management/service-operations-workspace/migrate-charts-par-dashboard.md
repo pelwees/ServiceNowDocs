@@ -35,7 +35,7 @@ Role required: admin
 
 4.  Select **Preview migration** to preview the chart that will be migrated.
 
-    ![Preview migration button on the Configurable chart migration](../image/sow-ac-charts-migration.png)
+    ![Preview migration button on the Configurable chart migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-ac-charts-migration.png)
 
     The preview of the dashboard containing the customized charts opens in a new tab. Once you preview the dashboard, the label is updated from **Not previewed** to **Previewed**.
 
@@ -48,5 +48,5 @@ Role required: admin
     **Note:** You can perform the migration only once.
 
 
-**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](../concept/admin-center-sow.md)
+**Parent Topic:**[Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/admin-center-sow.md)
 

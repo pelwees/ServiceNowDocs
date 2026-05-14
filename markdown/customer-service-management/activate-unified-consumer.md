@@ -50,5 +50,5 @@ To enable access to sys\_users \(internal users\), add the sys\_user to the user
 
 ## What to do next
 
-Add a user to your instance. For more information, see [Creating and associating a Unified Consumer user to a consumer record](../concept/associating-users-to-a-consumer-record.md#).
+Add a user to your instance. For more information, see [Creating and associating a Unified Consumer user to a consumer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/associating-users-to-a-consumer-record.md#).
 

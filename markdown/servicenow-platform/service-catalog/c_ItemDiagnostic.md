@@ -107,11 +107,11 @@ Checks if the item has the following variable types:-   Macro
 -   Macro with label
 -   UI Page
 
- For information on the variable availability across various channels, see [Variable support in various channels](../reference/variables-availability.md).
+ For information on the variable availability across various channels, see [Variable support in various channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/variables-availability.md).
 
 </td></tr></tbody>
-</table>-   **[Run the Item Diagnostic Results report](../task/run-item-diag-results.md)**  
+</table>-   **[Run the Item Diagnostic Results report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/run-item-diag-results.md)**  
 Identify the catalog items that are not designed per ServiceNow recommended practices to run your catalog efficiently.
 
-**Parent Topic:**[Debugging Service Catalog](debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 

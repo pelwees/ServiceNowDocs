@@ -21,7 +21,7 @@ Role required: admin or evam\_admin
 
 ## About this task
 
-The view template is referenced from the Entity View Action Mapper \(EVAM\) view configuration record. For more information, see [Define an EVAM configuration bundle](define-view-configuration-bundle.md).
+The view template is referenced from the Entity View Action Mapper \(EVAM\) view configuration record. For more information, see [Define an EVAM configuration bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-view-configuration-bundle.md).
 
 ## Procedure
 

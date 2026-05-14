@@ -226,7 +226,7 @@ You've added a bundle and all its components, presets, and controller to your ne
 
 If the width of the bundle container is set to the min-width of the component, set the **min-width** of the container to **100%**.
 
-![Sizing settings under the bundle container Styles tab](../images/troubleshooting-custom-layout-bundle-1.png)
+![Sizing settings under the bundle container Styles tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/troubleshooting-custom-layout-bundle-1.png)
 
 ## What to do next
 

@@ -25,9 +25,9 @@ admin
 
 To open the dashboard for OTM, navigate to **All** &gt; **OTM License** &gt; **OTM Licensing Dashboard**.
 
-![OTM Licensing Dashboard with Visibility tab selected](../image/otm-licensing-visibility-tab.png "OTM Licensing dashboard - Visibility")
+![OTM Licensing Dashboard with Visibility tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/otm-licensing-visibility-tab.png "OTM Licensing dashboard - Visibility")
 
-![Licensing Dashboard with Foundation tab selected](../image/otm-licensing-foundation.png "OTM Licensing dashboard - Foundation")
+![Licensing Dashboard with Foundation tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/otm-licensing-foundation.png "OTM Licensing dashboard - Foundation")
 
 ## Use cases
 
@@ -78,5 +78,5 @@ Hover over the vertical bar in the Subscription units area for the desired day t
 The third area shows which version of the OTM Licensing is used on the instance every day. It helps explaining spikes in count every time the new version is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[OTM SU Licensing References](otm-su-licensing-references.md)
+</table>**Parent Topic:**[OTM SU Licensing References](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/otm-su-licensing-references.md)
 

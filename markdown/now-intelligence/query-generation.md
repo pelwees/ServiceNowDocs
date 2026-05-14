@@ -17,15 +17,15 @@ Query Generation is a shared backend that Now Assist in Platform Analytics appli
 
 <table id="table_ihh_5k3_1gc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explanation of what Query Generation is](exploring-query-generation.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Explanation of what Query Generation is](exploring-query-generation.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enabling Query Generation and adding or removing support for specific facts tables](configuring-query-generation.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Enabling Query Generation and adding or removing support for specific facts tables](configuring-query-generation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Guide to tables in Query Generation](query-generation-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Guide to tables in Query Generation](query-generation-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

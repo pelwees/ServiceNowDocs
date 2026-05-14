@@ -128,5 +128,5 @@ Available if the Cost type is Software, Hardware, or Other Capex or Opex.Select 
 Model name of a hardware expenditure to expense the cost plan.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 

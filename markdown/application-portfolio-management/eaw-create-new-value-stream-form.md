@@ -18,12 +18,12 @@ Create a new value stream to visualize the flow of a process from start to finis
 |Name|Name of the value stream.|
 |Value stream category|The category with which the values stream is associated with.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-value-streams.md)
 
-[Add or edit a value stream](../../task/eaw-task/eaw-add-or-edit-a-value-stream.md)
+[Add or edit a value stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-value-stream.md)
 

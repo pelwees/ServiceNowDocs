@@ -31,8 +31,8 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
     The scheduling preferences shared by the applicant are displayed.
 
-    **Note:** You can only view the scheduling preferences if the applicants have shared the details after you have requested for it. For more information, see [Request applicant to share scheduling preferences](request-applicant-availability.md).
+    **Note:** You can only view the scheduling preferences if the applicants have shared the details after you have requested for it. For more information, see [Request applicant to share scheduling preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/request-applicant-availability.md).
 
 
-**Parent Topic:**[Using Interview Management](../concept/using-interview-mgmnt.md)
+**Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../concept/using-interview-mgmnt.md)
 

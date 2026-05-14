@@ -17,7 +17,7 @@ Create a custom field map configuration to map a field in an Agile Development 2
 
 ## Before you begin
 
--   [Discover and import Azure DevOps projects](discover-import-azure-projects.md).
+-   [Discover and import Azure DevOps projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/discover-import-azure-projects.md).
 -   Role required: sn\_ado\_int.user
 
 ## About this task
@@ -71,7 +71,7 @@ Lookup Column Name
 
 This field is required when you select a reference field as the internal field.
 
- For more information, see [Configuring a reference field in Azure DevOps](custom-field-map-config-azure-agile.md#).
+ For more information, see [Configuring a reference field in Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/custom-field-map-config-azure-agile.md#).
 
 </td></tr><tr><td>
 
@@ -110,7 +110,7 @@ Display name of the field in Azure DevOps.
 
 **Important:** If your custom map configuration is invalid or if the required fields are not mapped for that work item, the export and import action does not work.
 
-**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](../reference/customizing-map-config-agile-azure.md)
+**Parent Topic:**[Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../reference/customizing-map-config-agile-azure.md)
 
 ## Configuring a reference field in Azure DevOps
 

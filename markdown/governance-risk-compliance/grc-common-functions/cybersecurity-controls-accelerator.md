@@ -19,7 +19,7 @@ CIS Control adoption is further enhanced by targeting the leading cybersecurity 
 
 The Cybersecurity Controls Accelerator contains the CIS Controls version 7.1 authority document, 191 associated CIS citations, and 191 CIS control objectives that are related to the citations.
 
-The [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\), which must also be downloaded to use the Cybersecurity Controls Accelerator, includes 171 \(26 basic\) predefined indicator templates that are mapped to the CIS Controls. These indicator templates provide automated control validation and continuous monitoring.
+The [Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\), which must also be downloaded to use the Cybersecurity Controls Accelerator, includes 171 \(26 basic\) predefined indicator templates that are mapped to the CIS Controls. These indicator templates provide automated control validation and continuous monitoring.
 
 ## Support for CIS Controls ™ v8
 
@@ -29,7 +29,7 @@ Beginning with the Australia release, Cybersecurity Controls Accelerator support
 
 Beginning with the Australia release, Cybersecurity Controls Accelerator supports the Cloud Security Alliance Cloud Controls Matrix \(CSA CCM v4.0\) content such as Authority Document, Citations, and Control Objectives.
 
-**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](../../grc-common/reference/grc-use-case-accelerators.md)
+**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/reference/grc-use-case-accelerators.md)
 
 ## Download the Cybersecurity Controls Accelerator
 
@@ -47,7 +47,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](../../grc-common/task/download-grc-first-time.md).
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/task/download-grc-first-time.md).
 
 
 ## Monitoring cybersecurity controls
@@ -112,9 +112,9 @@ Indicator Templates
 The **Indicator Templates** module provides a list of predefined indicator templates that are mapped to the CIS Controls. The indicator templates automate control validation and provide continuous monitoring.Indicator Template Reference to Content \[sn\_grc\_m2m\_ind\_temp\_cont\]
 
 </td></tr></tbody>
-</table>As previously mentioned, the [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\) is a dependant application when you download the Cybersecurity Controls Accelerator application. The [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application provides predefined indicator templates that are mapped to the CIS Controls.
+</table>As previously mentioned, the [Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application \(com.sn\_grc\_infosec\) is a dependant application when you download the Cybersecurity Controls Accelerator application. The [Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) application provides predefined indicator templates that are mapped to the CIS Controls.
 
-**Note:** Should you decide not to implement the Cybersecurity Controls Accelerator application, you can still use the [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) to validate compliance with CIS and ISO 27002 via the Unified Compliance Framework \(UCF\) from the Policy and Compliance Management application. For more information, see [Technology Controls Monitoring Accelerator](../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md).
+**Note:** Should you decide not to implement the Cybersecurity Controls Accelerator application, you can still use the [Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md) to validate compliance with CIS and ISO 27002 via the Unified Compliance Framework \(UCF\) from the Policy and Compliance Management application. For more information, see [Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-tech-controls-monitoring-accel/concept/tech-controls-monitoring-accel.md).
 
 ## UCF controls mapped to indicator templates
 
@@ -155,23 +155,23 @@ The 171 indicator templates are mapped to the 171 CIS control objectives provide
 
 Control objectives that are downloaded from UCF have UCF as the source, as shown below.
 
-![Control objective obtained from UCF](../image/ucf-control-objective.png "UCF control objective")
+![Control objective obtained from UCF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/ucf-control-objective.png "UCF control objective")
 
 If you click the **Citations** related list, you can see that two citations are present: one obtained from CIS and one from ISO 27001 authority documents from UCF.
 
-![Citations included in a UCF control objective](../image/ucf-control-objective-citations.png "Citations included in UCF control objective")
+![Citations included in a UCF control objective](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/ucf-control-objective-citations.png "Citations included in UCF control objective")
 
 These citations allow you to use the CIS controls downloaded from UCF, instead of the CIS Controls included with the Cybersecurity Controls Accelerator application while still associating the controls with the indicator templates provided.
 
 If you want to associate this UCF control objective to similar indicator templates, you can click the **Indicator Templates** related list and then click the **Suggested** button.
 
-![Indicator Templates related list](../image/ucf-control-objective-suggested.png "Indicator Templates related list")
+![Indicator Templates related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/ucf-control-objective-suggested.png "Indicator Templates related list")
 
 A list of indicator templates that may apply to the selected control objective are shown.
 
-![Suggested indicator templates](../image/suggested-indicator-templates.png "Suggested indicator templates")
+![Suggested indicator templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/suggested-indicator-templates.png "Suggested indicator templates")
 
 Select the indicator templates you want to map to the UCF control objective and click **Add**.
 
-![Mapping an indicator template to a UCF control objective](../image/suggested-indicator-templates-add.png "Mapping an indicator template to a UCF control objective")
+![Mapping an indicator template to a UCF control objective](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/suggested-indicator-templates-add.png "Mapping an indicator template to a UCF control objective")
 

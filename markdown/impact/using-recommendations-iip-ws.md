@@ -25,7 +25,7 @@ Role required: All Impact roles
 
 2.  Select **View full list** in the **Recommended next steps** section.
 
-    ![View the full list of recommendations.](../image/recommendation-list-imp-ws.png)
+    ![View the full list of recommendations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/recommendation-list-imp-ws.png)
 
     The first section on the top, below the **Recommendations list** banner, has three different tiles, namely New, Accepted, and Hidden that act as filters.
 
@@ -45,20 +45,20 @@ Role required: All Impact roles
 
     -   **Recently completed**
 
-        Displays recommendations that you completed recently. You can choose to like or dislike a recommendation by selecting the ![Thumbs up icon.](../../../reuse/icons/product-icons/thumbs-up-outline-24.svg) or ![Thumbs down icon.](../../../reuse/icons/product-icons/thumbs-down-outline-24.svg)
+        Displays recommendations that you completed recently. You can choose to like or dislike a recommendation by selecting the ![Thumbs up icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/thumbs-up-outline-24.svg) or ![Thumbs down icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/thumbs-down-outline-24.svg)
 
-6.  To provide a reason for disliking the recommendation, select ![Thumbs down icon.](../../../reuse/icons/product-icons/thumbs-down-fill-24.svg) and click the reason from the list.
+6.  To provide a reason for disliking the recommendation, select ![Thumbs down icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/thumbs-down-fill-24.svg) and click the reason from the list.
 
 7.  Select **Dismiss** if you want to hide the **Recently completed** widget altogether, and display the **Squad recommended** widget in its stead.
 
 8.  Enter a key word or a phrase in the **Search by recommendation name** field that filters the recommendations that you are looking for from the full list.
 
-9.  To apply filter options and narrow down your search results by different criteria, select ![Filter recommendations icon.](../../../reuse/icons/product-icons/filter-fill-24.svg)
+9.  To apply filter options and narrow down your search results by different criteria, select ![Filter recommendations icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/filter-fill-24.svg)
 
 10. Select **View Details** to view more details for a selected recommendation.
 
 
 ## What to do next
 
-For more information on a given recommendation, see [Manage Recommendation details in Impact Store](recommendation-details-page-in-impact-store.md).
+For more information on a given recommendation, see [Manage Recommendation details in Impact Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/recommendation-details-page-in-impact-store.md).
 

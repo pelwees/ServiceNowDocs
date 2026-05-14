@@ -17,7 +17,7 @@ Configure the Now Mobile search bar to use the AI Search search engine.
 
 ## Before you begin
 
-To enable the AI Search capability to search for people and customers, ensure that you have the Employee Center Pro plugin \[com.snc.employee\_center\_pro\] installed. For more information, see [Install Employee Center Pro](../../../product/employee-center/task/install-ec-pro.md). You must purchase a subscription before activating the plugin. For more details, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
+To enable the AI Search capability to search for people and customers, ensure that you have the Employee Center Pro plugin \[com.snc.employee\_center\_pro\] installed. For more information, see [Install Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../../product/employee-center/task/install-ec-pro.md). You must purchase a subscription before activating the plugin. For more details, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 Make sure you are working in a scoped application where you can add new item configurations.
 
@@ -33,15 +33,15 @@ Role required: admin
 
     3.  Select **click here** at the top of the page to edit the record.
 
-    4.  Select the reference lookup icon \(![Information icon.](../../tablet-mobile-ui/image/gac-info-icon.png)\) in the **Search Application Configuration** field, and select **Open Record** to open the Search Context Configuration form.
+    4.  Select the reference lookup icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/gac-info-icon.png)\) in the **Search Application Configuration** field, and select **Open Record** to open the Search Context Configuration form.
 
     5.  Select AI Search in the **Search Engine** field.
 
-    6.  Select the information icon \(![Information icon.](../../tablet-mobile-ui/image/gac-info-icon.png)\) in the **Search Profile** field and select the NowMobile Default Search profile.
+    6.  Select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/gac-info-icon.png)\) in the **Search Profile** field and select the NowMobile Default Search profile.
 
     7.  Select **Yes** in the confirmation message.
 
-    8.  Select the form header \(![Form header icon.](../../tablet-mobile-ui/image/context-menu-icon.png)\) and select **Save**.
+    8.  Select the form header \(![Form header icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/context-menu-icon.png)\) and select **Save**.
 
 2.  Remove the item configuration, Catalog Item Main item.
 
@@ -49,7 +49,7 @@ Role required: admin
 
     2.  Select the record **Homepage Search - Catalog, Knowledge, People**.
 
-    3.  In the **Catalog Item Main Item** row, right-click the information icon \(![Information icon.](../../tablet-mobile-ui/image/gac-info-icon.png)\) and select **Open Link in New Tab**.
+    3.  In the **Catalog Item Main Item** row, right-click the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/gac-info-icon.png)\) and select **Open Link in New Tab**.
 
     4.  Select **Delete** in the top-right of the page and select **Delete** in the subsequent confirmation message.
 
@@ -57,7 +57,7 @@ Role required: admin
 
     1.  Select **New**.
 
-    2.  Select the reference lookup icon \(![Reference lookup icon.](../../tablet-mobile-ui/image/reference-lookup-icon.png)\) in the **Item Configuration** field.
+    2.  Select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/reference-lookup-icon.png)\) in the **Item Configuration** field.
 
     3.  In the Item Configuration form search bar, search for `Catalog Item Search Result Main Item` and then select the entry
 
@@ -75,7 +75,7 @@ Role required: admin
 
     1.  Select **New**.
 
-    2.  Select the reference lookup icon \(![Reference lookup icon.](../../tablet-mobile-ui/image/reference-lookup-icon.png)\) in the **Item Configuration** field.
+    2.  Select the reference lookup icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/reference-lookup-icon.png)\) in the **Item Configuration** field.
 
     3.  In the Item Configuration form search bar, search for `Knowledge AIS Search Main Item` and then select the entry.
 
@@ -87,18 +87,18 @@ Role required: admin
 
     2.  In the Name search bar, search for `People Search Main Item`.
 
-    3.  Select the information icon \(![Information icon.](../../tablet-mobile-ui/image/gac-info-icon.png)\) next to People Search Main Item and select Open Record.
+    3.  Select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/gac-info-icon.png)\) next to People Search Main Item and select Open Record.
 
     4.  In the Item Configuration form, select **Use card**.
 
-    5.  Select the menu icon \(![Form context menu icon.](../../tablet-mobile-ui/image/context-menu-icon.png)\) and select **Save**.
+    5.  Select the menu icon \(![Form context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/context-menu-icon.png)\) and select **Save**.
 
 
 ## Result
 
 The Global Search Configuration page should contain the items shown in the following figure.
 
-![Global search item configuration page with all listed items after successful configuration.](../../tablet-mobile-ui/image/ais-search-final-config-screen.jpg)
+![Global search item configuration page with all listed items after successful configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../../tablet-mobile-ui/image/ais-search-final-config-screen.jpg)
 
-**Parent Topic:**[AI Search in mobile](../concept/text-search-advanced-now.md)
+**Parent Topic:**[AI Search in mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../concept/text-search-advanced-now.md)
 

@@ -30,5 +30,5 @@ Role required: admin or flow\_designer and any roles required to view the data t
     The Flows table opens and displays all record-based flows that have been activated to run on the specified table.
 
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

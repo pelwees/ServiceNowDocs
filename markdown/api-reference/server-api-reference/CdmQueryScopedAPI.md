@@ -23,23 +23,23 @@ Method types:
 
 -   entry method: This method specifies the entry node. CdmQuery limits its query to the entry node and its descendant nodes. Specifying the entry node is mandatory.
 
-    [CdmQuery - snapshotId\(String snapshotSysID\)](CdmQueryScopedAPI.md#)
+    [CdmQuery - snapshotId\(String snapshotSysID\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
 
 -   query method: This method executes the specified query.
 
-    [CdmQuery - query\(\)](CdmQueryScopedAPI.md#)
+    [CdmQuery - query\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
 
 -   result methods: These methods return a specific set of results data.
-    -   [CdmQuery - forEach\(Function function\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - getTree\(Boolean simpleTree, Boolean prettify\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - getValue\(String fieldName\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - next\(\)](CdmQueryScopedAPI.md#)
+    -   [CdmQuery - forEach\(Function function\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - getTree\(Boolean simpleTree, Boolean prettify\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - getValue\(String fieldName\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - next\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
 -   setting methods: These methods modify the behavior of CdmQuery\(\).
-    -   [CdmQuery - decryptPassword\(Boolean decrypt\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - followIncludes\(Boolean followIncludes\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - includeFileMetadata\(\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - substituteVariable\(Boolean substitute\)](CdmQueryScopedAPI.md#)
-    -   [CdmQuery - useCache\(Boolean useCache\)](CdmQueryScopedAPI.md#)
+    -   [CdmQuery - decryptPassword\(Boolean decrypt\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - followIncludes\(Boolean followIncludes\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - includeFileMetadata\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - substituteVariable\(Boolean substitute\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
+    -   [CdmQuery - useCache\(Boolean useCache\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#)
 
 The snapshotId\(\) and query\(\) methods are mandatory. You must add filter and setting methods before the query\(\) method, but after the snapshotId\(\) method. The order in which you add filter and setting methods is not important, unless they are conflicting, in which case the latest relevant method prevails. You must add any result methods, such as getTree\(\) to fetch the result, after the query\(\) method.
 
@@ -56,7 +56,7 @@ var primarySnapshot = new sn_cdm.CdmQuery()
 
 This API runs in the `sn_cdm` namespace and you must have the sn\_cdm.cdm\_viewer or sn\_cdm.cdm\_secrets roles to access its various methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CdmQuery - CdmQuery\(\)
 
@@ -1050,7 +1050,7 @@ Return values:
 
 Enables you to specify whether to fetch the file metadata information for file nodes. The file metadata contains attachment\_id, file\_name, content\_type, and checksum.
 
-**Note:** Metadata is only returned for non-simple trees. For additional information on this type of data return, see [CdmQuery - getTree\(Boolean simpleTree, Boolean prettify\)](CdmQueryScopedAPI.md#).
+**Note:** Metadata is only returned for non-simple trees. For additional information on this type of data return, see [CdmQuery - getTree\(Boolean simpleTree, Boolean prettify\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|

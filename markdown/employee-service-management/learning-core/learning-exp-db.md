@@ -15,7 +15,7 @@ breadcrumb: [Learning Core, HR Service Delivery, Employee Service Management]
 
 Learning Experience Dashboard provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.
 
-![Provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.](learning-exp-db.png "Learning Experience Dashboard")
+![Provides a consolidated report on courses in each repository, catalogs with courses, and learning tasks status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-exp-db.png "Learning Experience Dashboard")
 
 ## Learning Repository widget
 

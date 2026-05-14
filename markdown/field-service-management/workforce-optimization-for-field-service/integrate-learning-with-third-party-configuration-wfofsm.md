@@ -17,7 +17,7 @@ Connect your ServiceNow instance with third-party learning sites to pull learnin
 
 ## Before you begin
 
-**Important:** The Coaching with Learning application is available with the Workforce Optimization for Field Service \(sn\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](activate-wfo-fsm.md).
+**Important:** The Coaching with Learning application is available with the Workforce Optimization for Field Service \(sn\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 Role required: learning\_admin
 

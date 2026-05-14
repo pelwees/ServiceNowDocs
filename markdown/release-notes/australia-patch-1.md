@@ -17,7 +17,7 @@ The Australia Patch 1 release contains important problem fixes.
     -   Build date: 03-31-2026\_1137
     -   Build tag: glide-australia-02-11-2026\_\_patch1-03-23-2026
 
-**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](../upgrades/reference/upgrade.md).
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../upgrades/reference/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -29,7 +29,7 @@ For a downloadable, sortable version of the fixed problems in this release, clic
 
 Australia Patch 1 includes 372 problem fixes in various categories. The chart below shows the top 10 problem categories included in this patch.
 
-![Fixed issues grouped by problem categories bar chart](../image/prb-chart-ap1.png "Top 10 problem categories")
+![Fixed issues grouped by problem categories bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/prb-chart-ap1.png "Top 10 problem categories")
 
 ## Security-related fixes
 
@@ -167,9 +167,9 @@ Australia Patch 1 includes fixes for security-related problems that affected cer
 
     This section lists the minimum supported versions for ServiceNow server releases, client drivers \(ODBC and JDBC\), and Java Development Kit required for SQL API.
 
--   **[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)**
+-   **[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../now-assist/now-assist-rn-landing.md)**
 
-    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md).
+    For Now Assist new features and changes, see [Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../now-assist/now-assist-rn-landing.md).
 
 -   **[Route SQL API calls to Read Replica](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/routing-sql-api-calls-to-read-replica.md)**
 
@@ -7180,5 +7180,5 @@ Unless any exceptions are noted, you can safely upgrade to this release version 
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[Available patches and hotfixes](../available-versions.md)
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../available-versions.md)
 

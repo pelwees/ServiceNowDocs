@@ -42,5 +42,5 @@ Task Outage\[task\_outage\]
 A many-to-many table that stores references to the Task \[task\] and Outage \[cmdb\_ci\_outage\] tables.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activate Task-Outage Relationship](../task/activate-task-outage.md)
+</table>**Parent Topic:**[Activate Task-Outage Relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-outage/../task/activate-task-outage.md)
 

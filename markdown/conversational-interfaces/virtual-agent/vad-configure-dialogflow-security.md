@@ -95,9 +95,9 @@ Role required: admin
 
     4.  In the Standard Claims related list, enter the email address for your Google Dialogflow agent service account as the **Claim Value** for the **iss** entry.
 
-        ![The Google DialogFlow JWT Provider configuration form displays the Signing Configuration and the iss record. The iss claim value is the agent service account email address.](../images/ggl-df-jwt-provider-config.png)
+        ![The Google DialogFlow JWT Provider configuration form displays the Signing Configuration and the iss record. The iss claim value is the agent service account email address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-df-jwt-provider-config.png)
 
-        For more information, refer to [Create a service account and private key in Google Dialogflow ES](vad-create-srvc-acct-key-dialogflow.md).
+        For more information, refer to [Create a service account and private key in Google Dialogflow ES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-create-srvc-acct-key-dialogflow.md).
 
     5.  Select **Update**.
 
@@ -129,18 +129,18 @@ Role required: admin
 
         The default value is **prod**.
 
-        ![The EnvID column is highlighted in the list with a default value of prod.](../images/ggl-es-nlu-prediction-credentials.png)
+        ![The EnvID column is highlighted in the list with a default value of prod.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-es-nlu-prediction-credentials.png)
 
     5.  Select **Update**.
 
 8.  Specify Google Dialogflow ES as your NLU provider in Virtual Agent.
 
-    For more information, see [Configure Natural Language Understanding in Virtual Agent](configure-nlu-settings.md).
+    For more information, see [Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-nlu-settings.md).
 
 
-**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](../concept/configure-dialogflow-es-integration.md)
+**Parent Topic:**[Configure Google Dialogflow ES as the NLU provider for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-dialogflow-es-integration.md)
 
-**Previous topic:**[Create a service account and private key in Google Dialogflow ES](vad-create-srvc-acct-key-dialogflow.md)
+**Previous topic:**[Create a service account and private key in Google Dialogflow ES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-create-srvc-acct-key-dialogflow.md)
 
-**Next topic:**[Activate the Google Dialogflow ES service and enable it in your instance](activate-ggl-df-es-service.md)
+**Next topic:**[Activate the Google Dialogflow ES service and enable it in your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-ggl-df-es-service.md)
 

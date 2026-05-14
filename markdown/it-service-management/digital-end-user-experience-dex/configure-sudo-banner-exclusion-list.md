@@ -36,5 +36,5 @@ Role required: admin
     **Note:** The following two commands apply to Windows only: `Agent User` and `IsLocalSystem`.
 
 
-**Parent Topic:**[Sudo banner validation](sudo-banner-validation.md)
+**Parent Topic:**[Sudo banner validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/sudo-banner-validation.md)
 

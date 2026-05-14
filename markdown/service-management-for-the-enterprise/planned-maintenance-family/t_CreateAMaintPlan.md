@@ -89,7 +89,7 @@ Apply to new matching records
 
 </td><td>
 
-Select the check box to ensure that the schedules defined for this maintenance plan are applied to all records that have been added to the specified table since the last time the plan was executed, and that meet the conditions entered in the **Filter condition**. For more information, see [Associate a maintenance plan to filtered records](t_AssocMaintPlanToFilterRec.md).
+Select the check box to ensure that the schedules defined for this maintenance plan are applied to all records that have been added to the specified table since the last time the plan was executed, and that meet the conditions entered in the **Filter condition**. For more information, see [Associate a maintenance plan to filtered records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/t_AssocMaintPlanToFilterRec.md).
 
 </td></tr><tr><td>
 
@@ -103,12 +103,12 @@ Specify what to do when a maintenance plan runs on a record that is already unde
 
 
 </td></tr></tbody>
-</table>    The maintenance plan is now ready for you to [Configure a maintenance schedule](t_DefineAMaintSched.md).
+</table>    The maintenance plan is now ready for you to [Configure a maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/t_DefineAMaintSched.md).
 
     **Note:** You can [configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add **Asset**, **CI**, and **User** reference fields. These fields are appropriately pre-filled in the associated table and can be useful for generating reports. When a configuration item is selected for the maintenance plan and it is associated with an asset, the **Asset** field is pre-populated with that CI.
 
     **Note:** After you define a maintenance plan and create maintenance schedules for the plan, you cannot change the **Type**, **Model**, and **Table** fields, or the **Filter conditions**. Changes could potentially cause conflicts. If you need to make changes to those fields, first delete the maintenance schedules, then recreate the schedules with the desired settings.
 
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../concept/c_MaintPlanMgmt.md)
 

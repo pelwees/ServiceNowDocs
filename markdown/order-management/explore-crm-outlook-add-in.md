@@ -29,7 +29,7 @@ The CRM Outlook Add-in application packages the ServiceNow CRM for Outlook add-i
 
 The following workflow illustration shows how a sales representative captures an inbound inquiry using the CRM Outlook Add-in.
 
-![Infographic showing how sales representatives use the CRM Outlook add-in to search CRM records, associate emails, and create new leads or contacts. For details, refer to the following description.](../image/crm-outlook-add-in.svg "Capturing email interactions with CRM Outlook Add-in")
+![Infographic showing how sales representatives use the CRM Outlook add-in to search CRM records, associate emails, and create new leads or contacts. For details, refer to the following description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/crm-outlook-add-in.svg "Capturing email interactions with CRM Outlook Add-in")
 
 1.  As an admin, install the CRM Outlook Add-in.
 2.  Deploy the ServiceNow CRM for Outlook add-in using the manifest file.
@@ -44,16 +44,16 @@ The following workflow illustration shows how a sales representative captures an
 
 |Benefits|Feature|Users|
 |--------|-------|-----|
-|Locate CRM records such as leads, opportunities, accounts, or contacts, and link emails without leaving Outlook.|[Associate an email with an existing CRM record](../task/associate-email-crm-outlook.md)|Sales representative, Sales manager|
-|Capture new prospects immediately from inbound inquiries with auto-populated sender information and associate emails in a single action.|[Create a CRM record from Microsoft Outlook](../task/create-crm-entity-outlook.md)|Sales representative|
-|Promote emails from the Staged Email \[sys\_email\_staging\] table to the Email \[sys\_email\] table, making them visible to agents in the workspace.|[Make emails associated through the CRM Outlook Add-in visible to agents](../task/promote-crm-outlook-emails.md)|CRM administrator|
-|View associated emails from the CRM entity records.|[Track emails linked from Microsoft Outlook](../task/view-associated-emails-crm.md)|CRM administrator|
+|Locate CRM records such as leads, opportunities, accounts, or contacts, and link emails without leaving Outlook.|[Associate an email with an existing CRM record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/associate-email-crm-outlook.md)|Sales representative, Sales manager|
+|Capture new prospects immediately from inbound inquiries with auto-populated sender information and associate emails in a single action.|[Create a CRM record from Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-crm-entity-outlook.md)|Sales representative|
+|Promote emails from the Staged Email \[sys\_email\_staging\] table to the Email \[sys\_email\] table, making them visible to agents in the workspace.|[Make emails associated through the CRM Outlook Add-in visible to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/promote-crm-outlook-emails.md)|CRM administrator|
+|View associated emails from the CRM entity records.|[Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/view-associated-emails-crm.md)|CRM administrator|
 
 ## Related links
 
 To learn more about configuring and using CRM Outlook Add-in, see:
 
--   [Configuring Activity Management](configuring-activity-management.md)
--   [Using Activity Management](using-activity-management.md)
--   [Activity Management reference](activity-management-reference.md)
+-   [Configuring Activity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-activity-management.md)
+-   [Using Activity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
+-   [Activity Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 

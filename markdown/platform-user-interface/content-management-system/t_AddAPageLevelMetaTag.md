@@ -38,5 +38,5 @@ If an individual page has a specific tag with the same name as the site, the pag
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Content Management meta tags](../concept/c_ContentManagementMetaTags.md)
+**Parent Topic:**[Content Management meta tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentManagementMetaTags.md)
 

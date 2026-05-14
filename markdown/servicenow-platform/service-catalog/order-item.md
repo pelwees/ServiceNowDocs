@@ -57,29 +57,29 @@ Role required: none
 
     2.  To view field changes and comments about your request, use the **Updates** tab.
 
-    3.  Tap ![Plus icon](../image/more-items.png) to add comments and work notes, or to attach a file.
+    3.  Tap ![Plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/more-items.png) to add comments and work notes, or to attach a file.
 
     **Note:** When you add comments for a resolved incident, you can reopen it.
 
-    ![More options menu item](../image/requested-item-menu-options.png)
+    ![More options menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/requested-item-menu-options.png)
 
 
-**Parent Topic:**[Request experience in Now Mobile](../../../product/service-catalog-management/concept/now-mobile-catalog.md)
+**Parent Topic:**[Request experience in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/concept/now-mobile-catalog.md)
 
 **Related topics**  
 
 
-[Configure catalogs](configure-catalog.md)
+[Configure catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-catalog.md)
 
-[Browse catalog items using the catalog hierarchy](../../../product/service-catalog-management/task/now-mob-browse-cat-item-catalog.md)
+[Browse catalog items using the catalog hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/task/now-mob-browse-cat-item-catalog.md)
 
-[Create a quick action in your mobile applications](sc-quick-action.md)
+[Create a quick action in your mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/sc-quick-action.md)
 
-[Enable notifications in Now Mobile](../../../product/service-catalog-management/task/enable-notification-mobile.md)
+[Enable notifications in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/task/enable-notification-mobile.md)
 
-[Enable the cart in Now Mobile](../../../product/service-catalog-management/task/enable-cart-mobile.md)
+[Enable the cart in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/task/enable-cart-mobile.md)
 
-[Edit the label of Submit button for a record producer](../../../product/service-catalog-management/task/edit-recprdcr-submit-label.md)
+[Edit the label of Submit button for a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/task/edit-recprdcr-submit-label.md)
 
-[Configure Now Mobile properties](../../../product/service-catalog-management/task/config-now-mob-properties.md)
+[Configure Now Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../../../product/service-catalog-management/task/config-now-mob-properties.md)
 

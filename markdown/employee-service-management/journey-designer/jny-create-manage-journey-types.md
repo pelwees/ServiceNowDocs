@@ -34,10 +34,10 @@ Role required: sn\_jny.admin or admin
     -   View for manager
     -   View for employee
     -   View for mentor
-    See [Create and configure Journey designer headers](jny-dsgnr-header-configuration.md) to customize headers for a plan.
+    See [Create and configure Journey designer headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-header-configuration.md) to customize headers for a plan.
 
 5.  After you have selected any header configuration you want to change, select **Submit**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-configuration.md)
 

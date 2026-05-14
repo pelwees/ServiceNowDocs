@@ -26,14 +26,14 @@ Use this form to create a new record in HR Service Delivery Integration with Wor
 |File retrieval method|The method in which the date uploaded must be retrieved.|
 |CSV delimiter|Labels assigned to delimit the data being uploaded.|
 
-**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](reference-workday-learning-intg.md)
+**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-workday-learning-intg.md)
 
 **Related topics**  
 
 
-[Components installed with workday learning](components-installed-with-workday-learning.md)
+[Components installed with workday learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/components-installed-with-workday-learning.md)
 
-[Workday learning todos staging form](wdl-todos-form.md)
+[Workday learning todos staging form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-todos-form.md)
 
-[Workday learning user course activity staging form](wdl-user-course-activity-form.md)
+[Workday learning user course activity staging form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-user-course-activity-form.md)
 

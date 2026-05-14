@@ -21,11 +21,11 @@ This video shows you how to create a data integration.
 
 ## Before you begin
 
--   You must have an existing table in your application. For more information, see [Create a blank table](use-existing-table.md).
+-   You must have an existing table in your application. For more information, see [Create a blank table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/use-existing-table.md).
 
     **Note:** Currently, Excel files are the only accepted data format users can upload.
 
--   Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer. For more information, see [Delegate developers using AES](../concept/aes-app-dev-workflow.md).
+-   Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ This video shows you how to create a data integration.
 
 2.  From the My Apps page, open your application.
 
-3.  Next to the Data heading, select the Add icon \(![Add icon](../image/plus-icon.png)\).
+3.  Next to the Data heading, select the Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/plus-icon.png)\).
 
 4.  Select **Create a data integration**.
 
@@ -58,7 +58,7 @@ This video shows you how to create a data integration.
 
         -   To configure an Excel spreadsheet, specify which sheet to use and which row number to use for the header. Only one sheet and one header can be specified.
         -   To configure a CSV file, select the delimiter.
-        -   To configure a data stream action, enter any required inputs. This section only appears if the Data Stream action has inputs to enter. Data Stream actions with inputs have unique inputs, so the fields in this section depend on which Data Stream action is selected and its configuration. Any default values already configured by the spoke inputs are pre-filled. You can view the details of the Data Stream action by clicking the information icon \(![Information icon](../../../administer/integrationhub/images/info-icon.png)\) next to it. Clicking the icon opens the Data Stream action's configuration.
+        -   To configure a data stream action, enter any required inputs. This section only appears if the Data Stream action has inputs to enter. Data Stream actions with inputs have unique inputs, so the fields in this section depend on which Data Stream action is selected and its configuration. Any default values already configured by the spoke inputs are pre-filled. You can view the details of the Data Stream action by clicking the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/integrationhub/images/info-icon.png)\) next to it. Clicking the icon opens the Data Stream action's configuration.
 7.  Select the **Save** button.
 
 8.  Choose your target table and configure import options
@@ -82,14 +82,14 @@ This video shows you how to create a data integration.
 
         You can add multiple target tables to your integration. Repeat steps 4a through 4c for each target table you want to add.
 
-        Tables are listed in the order they're added. You can change the order by using the drag icon ![drag icon](../image/drag-icon.png)to the left of each table card to drag the card to a different position. The order of the table cards determines the order in which data is transformed into the target tables at runtime.
+        Tables are listed in the order they're added. You can change the order by using the drag icon ![drag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/drag-icon.png)to the left of each table card to drag the card to a different position. The order of the table cards determines the order in which data is transformed into the target tables at runtime.
 
         **Note:** You can't select the same table more than once, and you can't select an extended table or parent table of a table already in the integration.
 
 11. Map import fields to your target table
 12. Map the fields in your import to the target table by performing the following actions.
 
-    ![Map data to the target table](../image/map-target.png "Mapping data to the target table")
+    ![Map data to the target table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/map-target.png "Mapping data to the target table")
 
     1.  On the Source to target table data mapping page, select the button with the target table you want to map to.
 
@@ -110,9 +110,9 @@ This video shows you how to create a data integration.
 
     3.  Map data by dragging data pills from the source to the **Value** column on the target table.
 
-        You can also map data by using the pill picker \(![Pill picker icon](../../../administer/integrationhub/images/pill-picker-green.png)\) on the right side of the target table. You can enter more than one value in the Value column, you can also enter text.
+        You can also map data by using the pill picker \(![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/integrationhub/images/pill-picker-green.png)\) on the right side of the target table. You can enter more than one value in the Value column, you can also enter text.
 
-        After you map a source field to a target field, a small check mark icon \(![check mark icon](../../../administer/form-builder/image/check-mark-icon.png)\) appears next to the source field name. If you move your cursor to the check mark, the tooltip lists the target fields that source field has been mapped to, up to five fields.
+        After you map a source field to a target field, a small check mark icon \(![check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/image/check-mark-icon.png)\) appears next to the source field name. If you move your cursor to the check mark, the tooltip lists the target fields that source field has been mapped to, up to five fields.
 
     4.  Use the **Match** toggle switch to specify fields where the system should check for matching data and, if found, update existing records instead of creating new ones.
 
@@ -122,7 +122,7 @@ This video shows you how to create a data integration.
         -   If the **Match** toggle switch for the **Order number** field is off, the system doesn't check for matching data. If the source data has a record with the same order number, the system creates a new record in the target table. In this case, the target table will have two records, both with an order number of 743.
     5.  For choice and reference fields, specify the column to map data to.
 
-        1.  Select the gear icon \(![Gear icon](../../../administer/ui-builder/image/gear-icon.png)\).
+        1.  Select the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/ui-builder/image/gear-icon.png)\).
         2.  In **Field**, select the column to map to.
         3.  In **If no matching record exists then do the following**, specify what to do if that column isn't available.
             -   **Create a new choice/record**: Creates the choice or record in the target table.
@@ -135,7 +135,7 @@ This video shows you how to create a data integration.
 
         **Note:** Not all the transform functions available while creating flows and subflows are available in Integration Hub - Import.
 
-        1.  Select the transform function icon \(![Transform function icon](../../../administer/integrationhub/images/transform-function-icon.png)\).
+        1.  Select the transform function icon \(![Transform function icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/integrationhub/images/transform-function-icon.png)\).
         2.  Select a transform function from the menu, then select **OK**.
         3.  To apply additional transform functions, select **Add a new transform**. Transform functions are applied in the order they're selected.
         4.  After you've added all your transform functions, select **Done**.
@@ -153,5 +153,5 @@ This video shows you how to create a data integration.
 17. If you added new columns during the import and want them to display on the target table, select **Personalize list** to edit the columns that display.
 
 
-**Parent Topic:**[Create a data model for your application](../concept/add-data.md)
+**Parent Topic:**[Create a data model for your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-data.md)
 

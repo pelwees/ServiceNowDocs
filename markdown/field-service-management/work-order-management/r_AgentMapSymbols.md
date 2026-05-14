@@ -19,11 +19,11 @@ Task icons are color coded and display automatic sequence numbers indicating the
 
 |Icon|Title|Description|
 |----|-----|-----------|
-|![Agent map marker.](../image/Person2.png)|Agent|Your current location on the map.|
-|![Blue map marker.](../image/TaskBlue.png)|Assigned|Assigned tasks that have not yet been accepted.|
-|![Green map marker.](../image/TaskGreen.png)|Accepted|Tasks that have been accepted or tasks that are in progress.|
-|![Red map marker.](../image/TaskRed.png)|Unassigned|Unassigned tasks that are awaiting dispatch. These tasks are available for an agent to accept to fill gaps in a schedule.|
-|![Red marker.](../image/MultiTask.png)|Multiple tasks|Multiple tasks clustered by proximity. the ServiceNow system gathers tasks together by proximity into a cluster as you increase the altitude of the map view. Counters in the cluster icon indicate the number of tasks rolled up as the perspective changes.|
+|![Agent map marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/Person2.png)|Agent|Your current location on the map.|
+|![Blue map marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/TaskBlue.png)|Assigned|Assigned tasks that have not yet been accepted.|
+|![Green map marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/TaskGreen.png)|Accepted|Tasks that have been accepted or tasks that are in progress.|
+|![Red map marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/TaskRed.png)|Unassigned|Unassigned tasks that are awaiting dispatch. These tasks are available for an agent to accept to fill gaps in a schedule.|
+|![Red marker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/MultiTask.png)|Multiple tasks|Multiple tasks clustered by proximity. the ServiceNow system gathers tasks together by proximity into a cluster as you increase the altitude of the map view. Counters in the cluster icon indicate the number of tasks rolled up as the perspective changes.|
 
-![Agent map showing location and status of tasks. Additionally, the Edit tab is open to display date, assigned, and unassigned filters.](../image/WMAgentMap1.png "Agent map")
+![Agent map showing location and status of tasks. Additionally, the Edit tab is open to display date, assigned, and unassigned filters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/WMAgentMap1.png "Agent map")
 

@@ -20,14 +20,14 @@ Planned Maintenance uses maintenance plans to trigger the creation of work order
 -   A specified time interval. For example, after a number of months since the previous maintenance was performed
 -   Meters or usage. For example, after a specified number of pages are printed or a specified number of miles are driven.
 
--   **[Activate Planned Maintenance](../task/t_ActivatePlanMaint.md)**  
+-   **[Activate Planned Maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../task/t_ActivatePlanMaint.md)**  
 The SM **Planned Maintenance** plugin is available as a separate subscription.
--   **[Managing maintenance plans](c_MaintPlanMgmt.md)**  
+-   **[Managing maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)**  
 Planned Maintenance allows you to create, maintain, and schedule maintenance for equipment that requires regular maintenance.
--   **[Maintenance plan examples](../reference/r_MaintPlanExamples.md#)**  
+-   **[Maintenance plan examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../reference/r_MaintPlanExamples.md#)**  
 You can define maintenance plans using model-based, meter-based, or duration-based selection criteria.
--   **[Domain separation and Planned Maintenance](domain-separation-planned-maintenance.md)**  
+-   **[Domain separation and Planned Maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/domain-separation-planned-maintenance.md)**  
 Domain separation is supported in Planned Maintenance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[Service Management](../../it-services/concept/c_ServiceManagement.md)
+**Parent Topic:**[Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../../it-services/concept/c_ServiceManagement.md)
 

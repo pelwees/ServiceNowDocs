@@ -26,7 +26,7 @@ Role required: sn\_customerservice\_agent
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon_eaai_new.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon_eaai_new.png)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -36,11 +36,11 @@ Role required: sn\_customerservice\_agent
 
     The **To** and **Subject** fields are auto-populated with the relevant details.
 
-6.  Select the Pop out in modeless window icon \( ![Pop out in modeless window](../image/Pop-out_icon_eaai.png)\) to compose your email in a separate dialog.
+6.  Select the Pop out in modeless window icon \( ![Pop out in modeless window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Pop-out_icon_eaai.png)\) to compose your email in a separate dialog.
 
 7.  Enter the email content.
 
-    **Note:** Selecting the More Actions icon \(![More Actions icon](../image/More_icon_eaai_new.png)\) in the Email section displays the email activity history, enabling you to view past emails related to the email interaction. Additionally, you can share links to public articles in the email message.
+    **Note:** Selecting the More Actions icon \(![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/More_icon_eaai_new.png)\) in the Email section displays the email activity history, enabling you to view past emails related to the email interaction. Additionally, you can share links to public articles in the email message.
 
 8.  Select **Send Email**.
 
@@ -59,19 +59,19 @@ Role required: sn\_customerservice\_agent with the sn\_templated\_snip.template\
 
 ### About this task
 
-The contextual side panel provides access to response templates that can help you efficiently compose an email response. Selecting the Response Template icon \(![Response template icon](../image/response-template-icon.png)\) shows reusable messages that you can copy and paste into emails.
+The contextual side panel provides access to response templates that can help you efficiently compose an email response. Selecting the Response Template icon \(![Response template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/response-template-icon.png)\) shows reusable messages that you can copy and paste into emails.
 
 ### Procedure
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon_eaai_new.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon_eaai_new.png)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
 4.  Open an email interaction.
 
-5.  In the contextual side panel, select the Response Template icon \(![Response Template icon](../image/Response_template_icon_eaai_new.png)\).
+5.  In the contextual side panel, select the Response Template icon \(![Response Template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Response_template_icon_eaai_new.png)\).
 
 6.  In the Response Templates side panel, search for a template.
 
@@ -96,7 +96,7 @@ The work note is visible exclusively to the agent and remains private from the c
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon_eaai_new.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon_eaai_new.png)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -104,7 +104,7 @@ The work note is visible exclusively to the agent and remains private from the c
 
 5.  In the Compose section, select **Work notes**.
 
-6.  Select the Pop out in modeless window icon \( ![Pop out in modeless window](../image/Pop-out_icon_eaai.png)\) to compose worknote in a separate dialog.
+6.  Select the Pop out in modeless window icon \( ![Pop out in modeless window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Pop-out_icon_eaai.png)\) to compose worknote in a separate dialog.
 
 7.  Enter the relevant content.
 

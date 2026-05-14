@@ -20,22 +20,22 @@ The Import error \[sn\_spend\_intg\_import\_error\] staging table temporarily st
 |Error message|String|A message that describes the error encountered.|
 |Outbound status|Reference|Indicates the status of outgoing transactions.|
 
-**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](../concept/inbound-staging-tables-for-apo.md)
+**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/inbound-staging-tables-for-apo.md)
 
 **Related topics**  
 
 
-[Invoice import inbound staging table](../../source-to-pay-integrations/reference/inbound-invoice-import-staging-table.md)
+[Invoice import inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-integrations/reference/inbound-invoice-import-staging-table.md)
 
-[Invoice line import inbound staging table](../../source-to-pay-integrations/reference/inbound-invoice-line-staging-table.md)
+[Invoice line import inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-integrations/reference/inbound-invoice-line-staging-table.md)
 
-[Invoice payment detail import inbound table](invoice-payment-detail-staging-table.md)
+[Invoice payment detail import inbound table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/invoice-payment-detail-staging-table.md)
 
-[Organization tax details inbound staging table](../../source-to-pay-integrations/reference/slo-org-tax-details-inbound-table.md)
+[Organization tax details inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-integrations/reference/slo-org-tax-details-inbound-table.md)
 
-[Invoice tax line staging table](../../source-to-pay-operations/reference/inbound-invoice-tax-line-staging-table-apo.md)
+[Invoice tax line staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/reference/inbound-invoice-tax-line-staging-table-apo.md)
 
-[Invoice staging table](invoice-staging-table.md)
+[Invoice staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/invoice-staging-table.md)
 
-[Invoice line stage table](invoice-line-staging-table.md)
+[Invoice line stage table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/invoice-line-staging-table.md)
 

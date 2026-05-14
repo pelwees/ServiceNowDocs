@@ -114,7 +114,7 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ## Example
 
-![Example Look Up Record action in a flow.](../images/flow-example-look-up-record.png)
+![Example Look Up Record action in a flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-example-look-up-record.png)
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

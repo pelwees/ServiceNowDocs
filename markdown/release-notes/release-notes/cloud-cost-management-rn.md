@@ -77,5 +77,5 @@ Install Cloud Cost Management by requesting it from the ServiceNow Store. Visit 
     The ServiceNow® Software Asset Management application enables you to track, evaluate, and manage software licenses, software compliance, and software optimization. You can reclaim unused software rights, purchase new software rights, and manage allocations for entitlements.
 
 
-**Parent Topic:**[IT Asset Management release notes](it-asset-management-rn-landing.md)
+**Parent Topic:**[IT Asset Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-asset-management-rn-landing.md)
 

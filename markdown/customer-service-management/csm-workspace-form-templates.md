@@ -41,7 +41,7 @@ Within each list of templates, users can do the following:
 -   Search for templates by entering a keyword in the search box.
 -   Sort the available templates, either last used or alphabetically, by making a selection from the drop-down menu.
 
-![CSM Configurable Workspace templates tab in the contextual side panel displays available templates to the user](../image/csm-form-templates-template-tab.png "Templates tab with template cards")
+![CSM Configurable Workspace templates tab in the contextual side panel displays available templates to the user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-form-templates-template-tab.png "Templates tab with template cards")
 
 ## Template cards
 
@@ -60,7 +60,7 @@ The template form is used to create and edit templates. This form includes two c
 -   **Details**: Includes information about the template, such as the template name and the table that the template applies to.
 -   **Template**: Includes the selected fields and the configured values for those fields which are applied to a record.
 
-![Create New Template form with the Details section collapsed. The Templates section includes a numbered row for each field and value added to the template.](../image/csm-form-templates-create-new.png "Template form")
+![Create New Template form with the Details section collapsed. The Templates section includes a numbered row for each field and value added to the template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-form-templates-create-new.png "Template form")
 
 The Template section includes a row for each field that has been added to the template. These rows are numbered for readability and easy reference. The fields and configured values in each row are also labeled for readability.
 
@@ -93,7 +93,7 @@ Template-level conditions control which cases show your template in the Template
 
 Templates that do not meet the conditions do not appear in Templates list. The template only appears for records matching these conditions. Start with template-level conditions before adding field-level conditions, and document complex conditions in the template description.
 
-![set conditions dialog](../image/csm-form-templates-set-conditions.png "Set conditions dialog box")
+![set conditions dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-form-templates-set-conditions.png "Set conditions dialog box")
 
 ## Field-level conditions
 
@@ -125,7 +125,7 @@ Email templates let users add pre-written email content to a template. When the 
 
 Save the template. When you apply the template, the email draft appears with variables resolved. The system creates the email as a draft only and does not automatically send. If you reapply the template, the system replaces the existing email draft. When previewing a template, you can view both dynamic placeholders \(*$variable*\) and their resolved values. Review the email, make any necessary edits, and select **Send**.
 
-![email variable picker](../image/csm-form-template-email-variable-picker.png "Email variable picker")
+![email variable picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-form-template-email-variable-picker.png "Email variable picker")
 
 Example: A "Password Reset" template with email content displays as "Dear Sarah Johnson, we received your password reset request for case CS0012345.
 
@@ -147,7 +147,7 @@ Example: A case has **Account = XYZ** **and** **State = Open**. The template "St
 
 ## Adding comments, work notes, and email with templates
 
-You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the activity stream. Selecting a template displays a modeless dialog with the template content. For more information, see [Modeless dialogs](csm-front-line-case-page-modeless-dialogs.md#section_gzj_wlb_s2c).
+You can create and use form templates that add content to the **Additional comments** and **Work notes** fields on a case or interaction and then post that content to the activity stream. Selecting a template displays a modeless dialog with the template content. For more information, see [Modeless dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md#section_gzj_wlb_s2c).
 
 **Using template email content:** When a template is applied that includes email content, an email draft appears in the Email tab. Select the **Email** tab to view the draft. The **To**, **Cc**, and **Subject** fields are populated based on case information. Review the email, make any edits if needed, and select **Send**.
 

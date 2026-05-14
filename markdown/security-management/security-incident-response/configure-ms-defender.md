@@ -91,5 +91,5 @@ Client secret of your registered application in the Microsoft portal.
 
 ## What to do next
 
-[Create an incident profile](ms-defender-profile.md)
+[Create an incident profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-defender-profile.md)
 

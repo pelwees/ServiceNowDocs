@@ -45,6 +45,6 @@ Role required: none
 
 7.  Find a mentor of your choice and select **Connect**.
 
-    For more information, see [Request a connection](request-connection-mentoring.md)
+    For more information, see [Request a connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/request-connection-mentoring.md)
 
 

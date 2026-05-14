@@ -125,7 +125,7 @@ View Rules
 
 Rules to define the form view of the vulnerabilities in the Operational Resilience Workspace. Specifying the rules helps you to define the view you want to use for the vulnerabilities and control how the vulnerability form appears. For example, Default view or Workspace view.
 
-![View rules.](../image/view-rules.png)
+![View rules.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/view-rules.png)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Rules to assign the tasks to users and groups by default.
 
 In the Applies to related list, you can select a table and specify the conditions that must be met before the task is assigned to the user or group. The rule is applied only if the task is not already assigned to another user or group. In the Script related list, you can use a script to further customize the assignment rule.
 
-![Assignment rule.](../image/assignment-rules.png)
+![Assignment rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/assignment-rules.png)
 
 </td></tr><tr><td>
 

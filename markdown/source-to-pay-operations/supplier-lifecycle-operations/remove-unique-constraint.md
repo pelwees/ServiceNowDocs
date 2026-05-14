@@ -44,12 +44,12 @@ Role required: admin
     **Note:** If you are still unable to invite a supplier contact with duplicate domain, or if the onboarding playbook is stuck while waiting to send out an email to the supplier contact, follow the troubleshooting steps in the KB article [KB1709872](https://support.servicenow.com/kb?sys_kb_id=43cccf6483ca9a10cdbbc430feaad3d4&id=kb_article_view).
 
 
-**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
+**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md)
 
 **Related topics**  
 
 
-[Run the fix script to enable M2M mapping](run-fix-script.md)
+[Run the fix script to enable M2M mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script.md)
 
-[Verify version record](verify-version-record.md)
+[Verify version record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/verify-version-record.md)
 

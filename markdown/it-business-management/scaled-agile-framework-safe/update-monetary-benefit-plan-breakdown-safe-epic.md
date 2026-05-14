@@ -25,7 +25,7 @@ Role required: safe\_product\_owner, safe\_scrum\_master, or safe\_admin
 
 2.  Open the required epic.
 
-3.  Click the hamburger icon \(![Hamburger icon](../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
+3.  Click the hamburger icon \(![Hamburger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../agile-development/image/hamburger-icon.png)\) and navigate to **View** &gt; **Benefit**.
 
 4.  Click the Monetary Benefit Plans related list.
 
@@ -129,5 +129,5 @@ First date of the fiscal period corresponding to the benefit plan breakdown.
 </table>9.  Click **Update**.
 
 
-**Parent Topic:**[Create a monetary benefit plan for an epic](create-monetary-benefit-plan-safe-epic.md)
+**Parent Topic:**[Create a monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-monetary-benefit-plan-safe-epic.md)
 

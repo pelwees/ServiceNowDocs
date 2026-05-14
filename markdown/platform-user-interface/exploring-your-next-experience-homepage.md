@@ -30,5 +30,5 @@ Landing pages may include the following items based on your role and tasks:
 -   Your open requests
 -   More resources to identify useful features
 
-![Example Next Experience landing page.](../image/polaris_landing_page_no_callouts_1-2_updated.svg)
+![Example Next Experience landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris_landing_page_no_callouts_1-2_updated.svg)
 

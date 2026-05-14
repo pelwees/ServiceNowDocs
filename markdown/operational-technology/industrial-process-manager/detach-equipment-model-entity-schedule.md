@@ -36,5 +36,5 @@ Role required: sn\_isa\_schedule\_admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[Associate a schedule with an equipment model entity](associate-schedules-with-equipment-model-entity.md)
+**Parent Topic:**[Associate a schedule with an equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/associate-schedules-with-equipment-model-entity.md)
 

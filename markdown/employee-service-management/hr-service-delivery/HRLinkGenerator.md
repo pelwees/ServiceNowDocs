@@ -30,8 +30,8 @@ The process for creating a link for a form is:
 -   Create a record for the deep link name, website name, link type, and script in **Define Link Parameters** \(Link Generator Services\).
 -   Map information like the button name, button location type, form \(table\), Location \(field\), and Deep link name in **Define Button** \(Link Generator Mappings\).
 
--   **[Add or modify an HR deep link](../task/CreateModLink.md)**  
+-   **[Add or modify an HR deep link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/CreateModLink.md)**  
 Use the **Define Link** \(Link Generator Sources\) to create a record for the target website name and URL.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

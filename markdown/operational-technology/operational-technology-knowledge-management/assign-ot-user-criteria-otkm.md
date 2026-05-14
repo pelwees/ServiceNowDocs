@@ -46,5 +46,5 @@ You can assign user criteria to an OT knowledge base to control read or contribu
 4.  On the knowledge base form, select **Update**.
 
 
-**Parent Topic:**[Configuring Operational Technology Knowledge Management](../concept/configuring-operational-technology-knowledge-management.md)
+**Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/../concept/configuring-operational-technology-knowledge-management.md)
 

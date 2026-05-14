@@ -27,7 +27,7 @@ The **Check exceptions** option is available for all invoices that are in **Exce
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Navigate to **Lists** &gt; **Primary Data** &gt; **Invoices**.
 
@@ -41,7 +41,7 @@ The **Check exceptions** option is available for all invoices that are in **Exce
 
 6.  On the invoice processing case form, select **Check exceptions**.
 
-    ![Check exceptions](../image/apo-check-exception.png)
+    ![Check exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-check-exception.png)
 
 7.  Select **Yes**.
 
@@ -50,22 +50,22 @@ The **Check exceptions** option is available for all invoices that are in **Exce
     -   If no exceptions are found on the invoice, the status of the invoice changes to No exceptions found.
     -   If exceptions are found on the invoice, the status of the invoice remains as Exceptions found.
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/aps-manual-tasks.md)
 
 **Related topics**  
 
 
-[View the invoice processing case associated with an invoice](view-invoice-case.md)
+[View the invoice processing case associated with an invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/view-invoice-case.md)
 
-[Review an invoice in Document Intelligence](review-invoice-docintel.md)
+[Review an invoice in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/review-invoice-docintel.md)
 
-[Enter the missing required invoice information and submit an invoice](enter-missing-docintel.md)
+[Enter the missing required invoice information and submit an invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/enter-missing-docintel.md)
 
-[Confirm whether an invoice is a duplicate](confirm-duplicate-invoice.md)
+[Confirm whether an invoice is a duplicate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/confirm-duplicate-invoice.md)
 
-[Convert invoice type](convert-invoice-case.md)
+[Convert invoice type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/convert-invoice-case.md)
 
-[Reset an invoice to the Received status](reset-invoice-to-received.md)
+[Reset an invoice to the Received status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/reset-invoice-to-received.md)
 
-[Start the processing for an invoice imported via integration with third-party applications](start-invoice-processing.md)
+[Start the processing for an invoice imported via integration with third-party applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/start-invoice-processing.md)
 

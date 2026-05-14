@@ -17,7 +17,7 @@ Edit a planned monetary benefit plan to revise the benefits, dates, offset, and 
 
 ## Before you begin
 
--   [Create monetary benefit plans for your projects in Project Workspace](fin-manage-monetary-benefit-plans-pws.md)
+-   [Create monetary benefit plans for your projects in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-monetary-benefit-plans-pws.md)
 -   Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
@@ -58,5 +58,5 @@ Procedure
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create monetary benefit plans for your projects in Project Workspace](fin-manage-monetary-benefit-plans-pws.md)
+**Parent Topic:**[Create monetary benefit plans for your projects in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-monetary-benefit-plans-pws.md)
 

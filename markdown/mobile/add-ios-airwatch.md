@@ -49,7 +49,7 @@ Role required: admin
     |Value type|String|
     |Configuration value|`https://<instance name>.service-now.com/`|
 
-    ![Application Configuration page for Workspace ONE UEM](../image/AWiOSAppConfig.png "App Workspace ONE UEM configuration")
+    ![Application Configuration page for Workspace ONE UEM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/AWiOSAppConfig.png "App Workspace ONE UEM configuration")
 
 13. Click **Add**.
 
@@ -62,5 +62,5 @@ Role required: admin
 
 After adding the app to Workspace ONE UEM, it appears in the **Apps &amp; Books** &gt; **Applications** &gt; **Native** &gt; **Public** section of the Workspace ONE UEM portal. Mobile users can download the app from the Workspace ON UEM App Catalog app.
 
-**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](../concept/airwatch-mdm.md)
+**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/airwatch-mdm.md)
 

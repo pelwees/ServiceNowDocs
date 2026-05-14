@@ -35,5 +35,5 @@ After the plugin is installed, Field Service Management application is integrate
 **Related topics**  
 
 
-[Create a work order](mco-create-work-order.md)
+[Create a work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-work-order.md)
 

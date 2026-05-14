@@ -43,7 +43,7 @@ Triggering Get File Profile and create a FireEye HX capability profile with **Ge
 
     **Note:** The Get File profile is now triggered manually.
 
-    ![Get File related list](../image/get-file-related-list.png)
+    ![Get File related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/get-file-related-list.png)
 
     **To review a downloaded file acquisition:**
 
@@ -63,10 +63,10 @@ Triggering Get File Profile and create a FireEye HX capability profile with **Ge
             -   It is recommended that the file retrieved is added as an observable manually, so that it can be tracked as an evidence against the security incident. This will also help view the files in future, when password is forgotten or changed.
             -   The maximum file size supported for Get File action is 1024 MB, and this value can be configured by changing **com.glide.attachment.max\_size**, and the default timeout is 60 minutes that can be configured from the FireEye HX Default Settings page.
 
-                ![Get File update and delete options. Attachments rename and download options.](../image/get-file.png)
+                ![Get File update and delete options. Attachments rename and download options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/get-file.png)
 
             -   Get File can also be triggered from configuration item related list.
 
-                ![Get File update and delete options. Attachments rename and download options.](../image/get-file-related-list-01.png)
+                ![Get File update and delete options. Attachments rename and download options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/get-file-related-list-01.png)
 
 

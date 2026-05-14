@@ -21,7 +21,7 @@ The DevOps Insights Summary dashboard enables an overview of key metrics across 
 
 **Summary reports**
 
-![DevOps Insights Summary dashboard.](../image/devops-insights-summary-tab.png)
+![DevOps Insights Summary dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-summary-tab.png)
 
 <table id="table_n1m_h5d_ytb"><thead><tr><th>
 
@@ -116,7 +116,7 @@ The DevOps Insights Flow metrics reports help you visualize how work is moving t
 
 **Flow metrics reports**
 
-![DevOps Insights Flow metrics dashboard](../image/devops-insights-flow-metrics-tab.png)
+![DevOps Insights Flow metrics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-flow-metrics-tab.png)
 
 <table id="table_jsc_zth_ytb"><thead><tr><th>
 
@@ -233,7 +233,7 @@ The DevOps Insights Change acceleration tab displays change acceleration metrics
 
 **Change acceleration reports**
 
-![DevOps Insights Change acceleration dashboard](../image/devops-insights-change-accel-tab.png)
+![DevOps Insights Change acceleration dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-change-accel-tab.png)
 
 Change requests that are part of step executions qualify as DevOps change requests.
 
@@ -298,7 +298,7 @@ Number of DevOps changes that are pending approval by date range.
 
  By default, change requests in the New or Assess state are considered awaiting approval.
 
- To specify the states that are considered awaiting approval, update the **Change Request Awaiting States** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+ To specify the states that are considered awaiting approval, update the **Change Request Awaiting States** property setting. For details, see [DevOps Insights properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/devops-insights-workspace-properties.md).
 
 </td><td>
 
@@ -342,7 +342,7 @@ Net amount saved per month by automating DevOps changes.
 
  When a change is automated, a developer doesn’t have to manually fill out the change request and associate each work item, code commits, test results and other evidence and artifacts to the change. After this activity is automated, hours that would have been spent on filling out the change, searching, tracking down and attaching items from other tools to a change, will now be saved. More work items require a relatively increasing number of hours to associate them manually. Therefore, higher numbers of work items should result in more hours saved after the change is automated. Change acceleration savings are calculated by multiplying the hours saved by the average hourly developer cost.
 
- To change the default value of the average hourly developer cost, update the **Average Hourly developer Cost** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+ To change the default value of the average hourly developer cost, update the **Average Hourly developer Cost** property setting. For details, see [DevOps Insights properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/devops-insights-workspace-properties.md).
 
 </td><td>
 
@@ -354,7 +354,7 @@ Developer hours saved
 
 </td><td>
 
-Number of developer hours saved per month by automating DevOps changes.To change the default value of 1 \(one\) hour per developer, update the **X hours per Developer time** property setting. For details, see [DevOps Insights properties](../reference/devops-insights-workspace-properties.md).
+Number of developer hours saved per month by automating DevOps changes.To change the default value of 1 \(one\) hour per developer, update the **X hours per Developer time** property setting. For details, see [DevOps Insights properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/devops-insights-workspace-properties.md).
 
 </td><td>
 
@@ -367,7 +367,7 @@ The DevOps Insights Accelerate metrics are four key DevOps metrics that measure 
 
 **Accelerate metrics reports**
 
-![DevOps Insights Accelerate metrics dashboard](../image/devops-insights-accel-metrics-tab.png)
+![DevOps Insights Accelerate metrics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-accel-metrics-tab.png)
 
 <table id="table_vrs_p5h_ytb"><thead><tr><th>
 
@@ -566,7 +566,7 @@ The DevOps Insights Quality metrics dashboard enables a quick glance at data fro
 
 **Quality metrics reports**
 
-![DevOps Insights Quality metrics dashboard](../image/devops-insights-qual-metrics-tab.png)
+![DevOps Insights Quality metrics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-qual-metrics-tab.png)
 
 <table id="table_fvw_v5h_ytb"><thead><tr><th>
 
@@ -643,7 +643,7 @@ Development metrics focus on commit data that provides insights into how active 
 
 **Development reports**
 
-![DevOps Insights Development dashboard](../image/devops-insights-development-tab.png)
+![DevOps Insights Development dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-development-tab.png)
 
 <table id="table_pk3_z5h_ytb"><thead><tr><th>
 
@@ -732,7 +732,7 @@ Operational metrics reflect on the stability of your applications to enable you 
 
 **Operational stability reports**
 
-![DevOps Insights Operational stability dashboard](../image/devops-insights-op-stability-tab.png)
+![DevOps Insights Operational stability dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-insights-op-stability-tab.png)
 
 <table id="table_olv_qvh_ytb"><thead><tr><th>
 

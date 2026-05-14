@@ -34,23 +34,23 @@ Font faces are applied individually to components, as needed. Theme Builder does
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  Under **Manage custom fonts**, locate and expand the font family where you want to add a font face.
 
     **Note:** You can also add the font face directly from the Typography panel.
 
-    ![Global styles Typography panel.](../image/tb-typography-icon.png "Global styles Topography panel")
+    ![Global styles Typography panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-typography-icon.png "Global styles Topography panel")
 
 5.  From the **Add font face** field, select the Plus sign.
 
-    ![Add font face field with Plus sign highlighted.](../image/tb-plus-icon.png "Add font face")
+    ![Add font face field with Plus sign highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-plus-icon.png "Add font face")
 
     The Add font face modal appears.
 
@@ -69,7 +69,7 @@ Font faces are applied individually to components, as needed. Theme Builder does
 
 ## Result
 
-Now that you have added a font face, [you can apply it to individual components for more precise styling](tb-edit-components.md). For information on deleting a font family or font face, see [Delete a custom font from your theme](delete-custom-font.md).
+Now that you have added a font face, [you can apply it to individual components for more precise styling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-components.md). For information on deleting a font family or font face, see [Delete a custom font from your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/delete-custom-font.md).
 
-**Parent Topic:**[Upload a custom font to your theme](upload-custom-font.md)
+**Parent Topic:**[Upload a custom font to your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md)
 

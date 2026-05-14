@@ -32,7 +32,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer
 
 The third party or engagement must have completed prior assessments, and reviewers must have previously created issues from those assessments. The recommendation skill uses these historical issues and their associated questions and responses as reference data. TPR Assessors generate issue recommendations. TP Reviewers can review, accept, or dismiss the generated recommendations.
 
-For more information on activating the recommendation for TPRM issues skill, refer to [Activate TPRM issue recommendation skill](tprm-recommend-an-issue.md).
+For more information on activating the recommendation for TPRM issues skill, refer to [Activate TPRM issue recommendation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-recommend-an-issue.md).
 
 **Note:** If you want generated issues to be created using historical data for individual third parties or engagements, a team member with the administrator role needs to navigate to **All** &gt; **System Properties** &gt; **All** select `sn_tprm_genai.same_vendor_required` and set the property to true.
 
@@ -61,10 +61,10 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 
 ## What to do next
 
-Create issues based on generated issue recommendations or dismiss the issue recommendations. For more information, see [Create or dismiss issues using recommendations](manage-recommendation-issue.md).
+Create issues based on generated issue recommendations or dismiss the issue recommendations. For more information, see [Create or dismiss issues using recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/manage-recommendation-issue.md).
 
--   **[Create or dismiss issues using recommendations](manage-recommendation-issue.md)**  
+-   **[Create or dismiss issues using recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/manage-recommendation-issue.md)**  
 Accept recommendations to create issues based on historical assessment data, or dismiss recommendations that aren’t relevant. Accepting or dismissing issue recommendations helps reviewers efficiently act on AI‑predicted findings while retaining control over which issues are created.
 
-**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](../concept/using-now-assist-for-tprm.md)
+**Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/using-now-assist-for-tprm.md)
 

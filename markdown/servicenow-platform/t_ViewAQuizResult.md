@@ -25,20 +25,20 @@ Quiz results are stored in the Metric Result \[asmt\_metric\_result\] table and 
 
 1.  Navigate to **All** &gt; **Quizzes** &gt; **Quiz Results**.
 
-    ![Quiz results](../images/QuizResults.png)
+    ![Quiz results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizResults.png)
 
 
--   **[View a quiz designer scorecard](t_ViewAQuizDesignerScorecard.md)**  
+-   **[View a quiz designer scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)**  
 The quiz scorecard opens in the Category Results view.
--   **[Modify the weight of a category](t_ViewAQuizCategoryResult.md)**  
+-   **[Modify the weight of a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizCategoryResult.md)**  
 View category results stored in the Assessment Category Result \[asmt\_category\_result\] table, which display the overall ratings for each category based on the weighted value for each scored question, and edit the default Weight value.
 
-**Parent Topic:**[Quiz designer](../concept/c_QuizDesigner.md)
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
-[Publish a quiz](t_PublishaQuiz.md)
+[Publish a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishaQuiz.md)
 

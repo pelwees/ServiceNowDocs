@@ -39,7 +39,7 @@ The dashboard that you configure should be available to all users.
 
 7.  Select **Submit**.
 
-8.  Select the 3-dot menu \(![3-dot menu icon](../../../common/image/Form_MenuIcon.png)\) and choose **Insert and Stay**.
+8.  Select the 3-dot menu \(![3-dot menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../common/image/Form_MenuIcon.png)\) and choose **Insert and Stay**.
 
     This action duplicates the user preference so that you can specify another user this dashboard will be home for. You can also specify a different sys\_ID on the duplicated record.
 

@@ -17,7 +17,7 @@ Request a background check for an employee through a third-party background chec
 
 ## Before you begin
 
-An HR integrations administrator must have set up the integration between HR Service Delivery and the third-party background check system before requests can be made. See [HR Integrations](../concept/scoped-hr-third-party-integrations.md) for more information.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the third-party background check system before requests can be made. See [HR Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/scoped-hr-third-party-integrations.md) for more information.
 
 Role required: sn\_hr\_core.case\_writer
 
@@ -33,17 +33,17 @@ Role required: sn\_hr\_core.case\_writer
     -   Request Background Check by Accurate
     -   Request Background Check by Sterling
     -   &lt;Name of HR service for a custom background check system integration&gt;
-    ![Select the employee you are creating the background check request case for.](../image/request-background-check-1.png)
+    ![Select the employee you are creating the background check request case for.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/request-background-check-1.png)
 
 4.  Fill in the other fields on the form, as appropriate.
 
-    For further details on the form fields, see [Create an HR case](search-hr-case.md).
+    For further details on the form fields, see [Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md).
 
 5.  Click **Create Case**.
 
 6.  In the **Background check package** field, select the background check package you want to use for the case.
 
-    ![Select the background check package you want to use for the case.](../image/request-background-check-2.png)
+    ![Select the background check package you want to use for the case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/request-background-check-2.png)
 
 7.  Click **Ready for Work** to send the background check request to the appropriate third-party background check provider.
 
@@ -56,5 +56,5 @@ As the background check application progresses, the status is updated in the **B
 
 To view the background check details, navigate to the **Background Check Details** related list.
 
-**Parent Topic:**[Create an HR case](search-hr-case.md)
+**Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 

@@ -19,7 +19,7 @@ To view all the details of the registered device with the instance, navigate to 
 
 Use the filter to identify the device. Click the **AppID** field to know more about the registered device.
 
-![Device App Registration Details](../images/device-app-registration-details.png)
+![Device App Registration Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/device-app-registration-details.png)
 
 The following details are displayed for the device:
 
@@ -34,5 +34,5 @@ The following details are displayed for the device:
     -   OS Version
     -   Device Model
 
-![Device App Registration Detail](../images/device-app-registration-details-device.png)
+![Device App Registration Detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/device-app-registration-details-device.png)
 

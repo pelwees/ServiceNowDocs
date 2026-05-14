@@ -23,8 +23,8 @@ Use the diagnostics Feature form to create a new diagnostic feature for a resour
 |Roles|Move desired roles to the Selected list. The users with the selected roles can access the diagnostic feature.|
 |Description|Details of the diagnostic feature. The description is displayed in the application to which the diagnostic feature belongs. It enables the user to understand the diagnostic scans executed in the feature.|
 
--   **[Diagnostics Inputs form](diag-input-field.md)**  
+-   **[Diagnostics Inputs form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/diag-input-field.md)**  
 Use the Diagnostics Inputs form fields to specify a filter condition for a user.
 
-**Parent Topic:**[Resource Management reference](../task/rsrc-mgmt-reference.md)
+**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../task/rsrc-mgmt-reference.md)
 

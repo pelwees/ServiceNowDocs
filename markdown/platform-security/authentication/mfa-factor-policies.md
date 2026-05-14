@@ -19,9 +19,9 @@ MFA factor policies are a critical component of an organization's security postu
 
 Implementing MFA factor policies is essential for enhancing the security of your organization's systems and data. These policies provide an additional layer of protection against cyberthreats, making it more difficult for attackers to gain unauthorized access.
 
-![MFA context - Factor Policy homepage](../images/mfa-factor-policy.png)
+![MFA context - Factor Policy homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-factor-policy.png)
 
-To use the MFA factor policies you have to configure the policy inputs and policy conditions along with an MFA Context. To know more, see [Multi-factor Authentication context](mfa-auth-context.md).
+To use the MFA factor policies you have to configure the policy inputs and policy conditions along with an MFA Context. To know more, see [Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 
 Following are the MFA factor policies available in ServiceNow that enables you to specify the types of authentication factors that are permitted or required:
 
@@ -34,11 +34,11 @@ To get the most out of MFA factor policies, you need to understand how to config
 **Related topics**  
 
 
-[Multi-factor Authentication context](mfa-auth-context.md)
+[Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md)
 
-[FIDO2 as an MFA factor](mfa-with-fido.md)
+[FIDO2 as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-fido.md)
 
-[SMS as an MFA factor](mfa-with-sms.md)
+[SMS as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-sms.md)
 
-[Email as an MFA factor](mfa-with-email.md)
+[Email as an MFA factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md)
 

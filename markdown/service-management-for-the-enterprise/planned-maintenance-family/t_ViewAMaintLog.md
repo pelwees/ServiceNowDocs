@@ -32,5 +32,5 @@ Role required: SM admin
     Related lists display maintenance plans, maintenance plan records for the CI, and service orders.
 
 
-**Parent Topic:**[Managing maintenance plans](../concept/c_MaintPlanMgmt.md)
+**Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/../concept/c_MaintPlanMgmt.md)
 

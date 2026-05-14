@@ -90,10 +90,10 @@ The bad prompt is incomplete for the following reasons:-   Catalog Item entity h
 -   Missing $ sign in price
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Test generation references](tg-reference.md)
+</table>**Parent Topic:**[Test generation references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-reference.md)
 
 **Related topics**  
 
 
-[Test generation design considerations](tg-summary.md)
+[Test generation design considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-summary.md)
 

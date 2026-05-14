@@ -38,8 +38,8 @@ Role required: sn\_risk.admin.
 
 6.  In the Filter Widget search field, type `Virtual Agent Service Portal Widget`, drag the widget, and drop it anywhere on the screen.
 
-    You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon.](../../grc-policy-and-compliance/image/chat_icon.png)
+    You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-policy-and-compliance/image/chat_icon.png)
 
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-risk-events.md)
 

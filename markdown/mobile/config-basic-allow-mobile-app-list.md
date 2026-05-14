@@ -27,7 +27,7 @@ To support your organization's authentication policies, you can configure a list
 
 2.  Make sure you are in the global application scope.
 
-    To check if you are in the global application scope, select the globe icon \(![Globe icon.](../image/globe-icon.png)\) in the banner. The application scope that you are in is displayed.
+    To check if you are in the global application scope, select the globe icon \(![Globe icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) in the banner. The application scope that you are in is displayed.
 
     If you aren't in the global application scope, then select **Application Scope** &gt; **Global**.
 
@@ -49,7 +49,7 @@ To support your organization's authentication policies, you can configure a list
     com.servicenow.intune.requestor,com.servicenow.requestor.mam.intune
     ```
 
-    For a list of iOS Bundle IDs and Android Package IDs, see [Bundle and Package IDs for ServiceNow mobile apps](../reference/sg-mobile-package-ids.md).
+    For a list of iOS Bundle IDs and Android Package IDs, see [Bundle and Package IDs for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-mobile-package-ids.md).
 
 8.  Select **Submit**.
 

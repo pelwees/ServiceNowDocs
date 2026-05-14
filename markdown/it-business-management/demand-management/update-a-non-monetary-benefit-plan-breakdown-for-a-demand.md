@@ -35,10 +35,10 @@ Role required: it\_demand\_manager
 
 7.  On the Non-monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
-    For a detailed description of the field names, see [Non-monetary Benefit Plan Breakdown form](../reference/non-monetary-benefit-plan-breakdown-form.md).
+    For a detailed description of the field names, see [Non-monetary Benefit Plan Breakdown form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/non-monetary-benefit-plan-breakdown-form.md).
 
 8.  Select **Update**.
 
 
-**Parent Topic:**[Create a non-monetary benefit plan for a demand](create-a-non-monetary-benefit-plan-for-a-demand.md)
+**Parent Topic:**[Create a non-monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-a-non-monetary-benefit-plan-for-a-demand.md)
 

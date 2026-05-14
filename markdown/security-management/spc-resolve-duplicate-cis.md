@@ -25,7 +25,7 @@ Roles required: sn\_cmdb\_user for access to the CMDB Workspace and sn\_sec\_spc
 
     This is a configurable value on the property that specifies whether all configuration items listed in your CMDB or Asset Cache table have unique names.
 
-    See [Resolving duplicate configuration items in Security Posture Control](spc-using-dedup-template.md) for more information about how to identify duplicate CIs.
+    See [Resolving duplicate configuration items in Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-using-dedup-template.md) for more information about how to identify duplicate CIs.
 
 3.  Select the record to open it and set the Value field to **true**.
 

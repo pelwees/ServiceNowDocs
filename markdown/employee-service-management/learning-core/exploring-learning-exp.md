@@ -21,23 +21,23 @@ Learning includes the following key features:
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Detailed information on Learning](exploring-learning.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-explore.svg)Detailed information on Learning](exploring-learning.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started](configuring-learning.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started](configuring-learning.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-task-list.svg)Learn how to manage and use Learning experience](manage-your-learning.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-task-list.svg)Learn how to manage and use Learning experience](manage-your-learning.md)
 
 </td></tr><tr><td>
 
-[Reports![](../../../reuse/icons/brand-icons/bus-chart-down-with-arrow.svg)Measure the success of learning content through targeted reports](reporting-solutions-learning.md)
+[Reports![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-chart-down-with-arrow.svg)Measure the success of learning content through targeted reports](reporting-solutions-learning.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user roles, tables, and default configurations in Learning](../reference/learning-experience-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about user roles, tables, and default configurations in Learning](../reference/learning-experience-reference.md)
 
 </td><td>
 

@@ -36,5 +36,5 @@ After you install Now Assist for HR Service Delivery \(HRSD\), you might encount
 5.  Click **Run Script** to allow all the requested RCAs.
 
 
-**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
+**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 

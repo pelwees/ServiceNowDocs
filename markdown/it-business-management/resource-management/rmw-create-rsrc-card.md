@@ -23,9 +23,9 @@ Role required: resource\_user, resource\_manager, it\_project\_manager
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu.
 
-3.  Select the **New Resource Card** button \(![New Resource Card button.](../images/rmw-new-resource-card-button.png)\).
+3.  Select the **New Resource Card** button \(![New Resource Card button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-new-resource-card-button.png)\).
 
 4.  Enter the following details.
 
@@ -88,26 +88,26 @@ Enter a description explaining your resource card view.
 
     The default condition is set to show all active users.
 
-    **Tip:** Save a filter condition using the **Save filter** option \(![Save filter button.](../images/rmw-save-filter.png)\) and name the filter to easily identify it later. Next time you create a resource card, you can select one of your saved filters from the **Use existing filter** list and customize it further.
+    **Tip:** Save a filter condition using the **Save filter** option \(![Save filter button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-save-filter.png)\) and name the filter to easily identify it later. Next time you create a resource card, you can select one of your saved filters from the **Use existing filter** list and customize it further.
 
 7.  Select **Confirm**.
 
-    ![GIF showing how to enter name and select the date range to create a resource card.](../images/rmw-create-resource-card-gif.gif)
+    ![GIF showing how to enter name and select the date range to create a resource card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-create-resource-card-gif.gif)
 
-    **Note:** You can edit the card details and filter condition using the edit icon \(![Right inclined pencil icon representing edit functionality.](../images/rmw-edit-icon.png)\) on the resource board.
+    **Note:** You can edit the card details and filter condition using the edit icon \(![Right inclined pencil icon representing edit functionality.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-edit-icon.png)\) on the resource board.
 
 
 ## Result
 
 A resource board view with the list of resources matching the filter condition with their work allocations, projects they're working on, and the assignment status is displayed.
 
-![Resource Portfolio view depicting resource allocations in various states.](../images/rmw-rsrc-portfolio-view-top-tray.png)
+![Resource Portfolio view depicting resource allocations in various states.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-rsrc-portfolio-view-top-tray.png)
 
 ## What to do next
 
 Enable the **Unassigned tasks** toggle and build a filter condition to view unassigned tasks in the Unassigned tasks bottom tray.
 
-For more information on how to filter and view unassigned work, and handle resource assignments, see [Assign and approve unassigned work using Resource Management Workspace](allocate-resources-rmw.md).
+For more information on how to filter and view unassigned work, and handle resource assignments, see [Assign and approve unassigned work using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-rmw.md).
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

@@ -50,7 +50,7 @@ Keeping the goals in mind, a major incident management process can be broadly cl
 
 A major incident progresses through different states during its life cycle. The following diagram illustrates the different states involved in a major incident management:
 
-![Major incident management state flow](../image/mim-process-flow.png "Major Incident Management state flow")
+![Major incident management state flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/mim-process-flow.png "Major Incident Management state flow")
 
-**Parent Topic:**[Managing major incidents](major-incident-management.md)
+**Parent Topic:**[Managing major incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
 

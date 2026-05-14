@@ -18,7 +18,7 @@ To view this page, follow these steps:
 1.  Navigate to the `Success blueprint` tab on the Engagement page.
 2.  Select the **View initiative roadmap** option. You can see a visual representation of the success initiatives and the outcomes based on the Due date.
 
-    ![Success initiative roadmap](../image/customer-success-init-roadmap.png)
+    ![Success initiative roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-init-roadmap.png)
 
 
 The list of outcomes is displayed in the left panel. Select an outcome from the list to view the initiatives associated with it. You can hover over an initiative to see a quick snapshot. You can customize the roadmap view:
@@ -36,5 +36,5 @@ The list of outcomes is displayed in the left panel. Select an outcome from the 
 
 **Note:** By default, you can view the roadmap for a ten year period. You can modify this value in the sn\_acct\_lc.RoadmapTimelineYears.list property.
 
-**Parent Topic:**[Create a success blueprint](../task/account-lifecycle-create-blueprint.md)
+**Parent Topic:**[Create a success blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-blueprint.md)
 

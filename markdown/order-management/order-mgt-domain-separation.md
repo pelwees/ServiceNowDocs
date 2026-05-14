@@ -54,14 +54,14 @@ If customer or service orders have an account name, an administrator can identif
 
 If fulfillment agents or managers are assigned to a domain, an administrator can assign them to work on customer orders, service orders, and order tasks for a specific domain \(account\).
 
-**Parent Topic:**[Order Management reference](../reference/order-mgt-reference.md)
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[Using Order Management](using-order-management.md)
+[Using Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-[Configuring Order Management](order-mgt-configuring.md)
+[Configuring Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[Managing service orders](managing-service-orders.md)
+[Managing service orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/managing-service-orders.md)
 

@@ -48,7 +48,7 @@ Use the certificate generated during the Mastercard account configuration to sig
     |Active|Option to make the client certificate active.|
     |Short description|Short description of the user client certificate.|
 
-4.  Select the manage attachments icon \(![Manage attachments icon.](../image/attachments-icon.png)\) and attach a Mastercard certificate.
+4.  Select the manage attachments icon \(![Manage attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/attachments-icon.png)\) and attach a Mastercard certificate.
 
 5.  Select **Validate Stores/Certificates** to validate the certificate.
 

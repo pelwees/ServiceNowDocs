@@ -121,11 +121,11 @@ Equipment instance is created. If active and available, you can assign the insta
 **Related topics**  
 
 
-[Create an equipment category](create-an-equipment-category.md)
+[Create an equipment category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/create-an-equipment-category.md)
 
-[Scheduling and assigning equipment to tasks and crews](../concept/assign-equipment-to-wot.md)
+[Scheduling and assigning equipment to tasks and crews](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/../concept/assign-equipment-to-wot.md)
 
-[Assign equipment to a planned crew](add-equipment-to-a-planned-crew.md#)
+[Assign equipment to a planned crew](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/add-equipment-to-a-planned-crew.md#)
 
-[Equipment on ServiceNow Agent](../concept/update-equipment-statuses-with-the-now-mobile-agent-application.md#)
+[Equipment on ServiceNow Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/../concept/update-equipment-statuses-with-the-now-mobile-agent-application.md#)
 

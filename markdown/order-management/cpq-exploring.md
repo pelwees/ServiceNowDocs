@@ -52,11 +52,11 @@ Designed to support a broad set of users, each playing a critical role in config
 **Related topics**  
 
 
-[Configuring CPQ with basic and advanced features](cpq-configuring.md)
+[Configuring CPQ with basic and advanced features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-configuring.md)
 
-[Integrating CPQ](integrations.md)
+[Integrating CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/integrations.md)
 
-[Using CPQ](cpq-using.md)
+[Using CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
-[CPQ reference](../reference/servicenow-cpq-reference.md)
+[CPQ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/servicenow-cpq-reference.md)
 

@@ -43,7 +43,7 @@ When the Domain Support — Domain Extension Installer \(com.glide.domain.msp\_e
 
     The default interval is one hour.
 
-    ![Self-health repeat interval](../image/self-health-repeat-interval.png)
+    ![Self-health repeat interval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/self-health-repeat-interval.png)
 
 5.  Select **Update**.
 
@@ -55,12 +55,12 @@ Further configuration is required for CI creation, receipt of events, and alert 
 1.  Navigate to **System Properties** **All Properties**.
 2.  Locate and select the **evt\_mgmt.domain\_self\_monitoring** property.
 
-    ![Domain property sys_id value](../image/domain-sysid-value.png)
+    ![Domain property sys_id value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/domain-sysid-value.png)
 
 3.  In the **Value** field, specify the `sys_id` of the domain.
 4.  Select **Update**.
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/self-monitoring.md)
 
 **Related topics**  
 

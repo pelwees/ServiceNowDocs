@@ -32,7 +32,7 @@ Role required: \(per product\)
     -   **Audit** &gt; **Issues** &gt; **Create New**.
 2.  On the form, locate the **Parent** field.
 
-3.  Click the bulb icon \(![bulb icon](../../grc-policy-and-compliance/image/bulb.png)\) and select **Issues with existing parent** from the **Group with** drop-down list.
+3.  Click the bulb icon \(![bulb icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-and-compliance/image/bulb.png)\) and select **Issues with existing parent** from the **Group with** drop-down list.
 
 4.  Click the **Similar issue** you want to group with the current issue.
 

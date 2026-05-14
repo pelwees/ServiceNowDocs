@@ -15,18 +15,18 @@ Configure a runtime client. Doing so creates a token that you can use to authent
 
 Runtime clients can be set up that provide a token for authentication of runtime calls when launching CPQ outside of the regular workflow. For example, CPQ may be started through a quote in Salesforce when embedding CPQ in a Visualforce page, Lightning web component, or HTML page.
 
-**Note:** This authentication can be used only by end users launching a CPQ configuration in runtime. To authenticate admin calls, users should leverage admin API keys. For a more complete discussion of admin API keys, see [Intro to admin API keys](cpq-admin-api-keys.md).
+**Note:** This authentication can be used only by end users launching a CPQ configuration in runtime. To authenticate admin calls, users should leverage admin API keys. For a more complete discussion of admin API keys, see [Intro to admin API keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-admin-api-keys.md).
 
 ## Create a runtime client
 
-![runtime clients user interface](../images/cpq-runtime-client.png)
+![runtime clients user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client.png)
 
 1.  Navigate to the Utilities tab of the left hand navigation pane, and click **Runtime Clients**.
 2.  Click **New** in the upper right corner.
 
 ## Configure the new client
 
-![Add a runtime client interface](../images/cpq-runtime-client-add.png)
+![Add a runtime client interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client-add.png)
 
 1.  Create a name for your runtime client.
 2.  Setting the User ID will attach it to any calls authenticated by this runtime client. This may be useful for tracking the origin of the calls.
@@ -40,10 +40,10 @@ Runtime clients can be set up that provide a token for authentication of runtime
 
 When the runtime client has been created, click into it and copy the token:
 
-![Edit runtime client](../images/cpq-runtime-client-edit.png)
+![Edit runtime client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-runtime-client-edit.png)
 
 **Related topics**  
 
 
-[Use case: Embed CPQ UI in a Salesforce VisualForce page](use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
+[Use case: Embed CPQ UI in a Salesforce VisualForce page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_salesforce_visualforce_page.md)
 

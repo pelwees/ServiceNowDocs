@@ -94,7 +94,7 @@ Enter URL
 Webhook URL as configured on your third-party \(external\) application.For more information, see [Create a scripted REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 
 </td></tr></tbody>
-</table>    ![Create a webhook integration for a third-party application.](../image/io-webhook-third-party-integ.png)
+</table>    ![Create a webhook integration for a third-party application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-webhook-third-party-integ.png)
 
 5.  Select **Test Integration** to validate your configuration and verify if you can successfully send the payload to the configured application.
 
@@ -117,7 +117,7 @@ Webhook URL as configured on your third-party \(external\) application.For more 
 
 8.  To configure a notification rule for the third-party integration and send alerts to third-party applications, select the **Notification Rules** tab.
 
-    1.  Select ![ellipsis icon.](../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) for the notification rule, and select the **Edit** option.
+    1.  Select ![ellipsis icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) for the notification rule, and select the **Edit** option.
 
     2.  Enter a name for the rule in the **Name** field of the Edit Rule pop-up.
 
@@ -145,7 +145,7 @@ Webhook URL as configured on your third-party \(external\) application.For more 
 
         If the alert had failed, then you will see that the **Alert Type** is in red, which means it has failed. On selecting the failed **Self-Service** alert icon you will see the message **Third Party Integration – Failed**.
 
-10. To view, edit, or delete the URL in the Edit Integration pop-up, navigate back to **Alerts** &gt; **Configure Notifications** and select ![ellipsis icon.](../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) for the integration.
+10. To view, edit, or delete the URL in the Edit Integration pop-up, navigate back to **Alerts** &gt; **Configure Notifications** and select ![ellipsis icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) for the integration.
 
     You can update the integration settings by selecting the **Edit** option. The **Delete** option remains inactive if the integration is associated with at least one notification rule.
 
@@ -166,8 +166,8 @@ Webhook URL as configured on your third-party \(external\) application.For more 
         You can view the integration failures as alerts in three places:
 
         1.  As **Alert Type** in **Alert** &gt; **Alert Console**
-        2.  As Notifications from ![bell icon](../image/io-bell-icon.png). Select **View Notification History** and filter with `Integration Failed`.
+        2.  As Notifications from ![bell icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-bell-icon.png). Select **View Notification History** and filter with `Integration Failed`.
         3.  As an email notification with the integration name, error number, and the message.
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts-intro.md)
 

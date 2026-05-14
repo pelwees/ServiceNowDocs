@@ -42,5 +42,5 @@ ServiceNow supports table extension where child tables inherit all fields and fu
 
 Example: The Incident, Problem, and Change tables all extend the Task table, inheriting fields like assignment, state, and priority while adding their own specific fields.
 
-**Parent Topic:**[Build your first application](build-your-first-app.md)
+**Parent Topic:**[Build your first application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-your-first-app.md)
 

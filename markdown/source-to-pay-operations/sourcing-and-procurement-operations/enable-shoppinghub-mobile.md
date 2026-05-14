@@ -34,5 +34,5 @@ Role required: admin
 
 [Log in to an instance with a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/login-end-user.md)
 
-**Parent Topic:**[Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
+**Parent Topic:**[Install ShoppingHub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-shoppinghub-mobile.md)
 

@@ -23,7 +23,7 @@ If you have the sn\_oper\_res.manager role, you can create a scenario analysis. 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace**, select the list icon ![List icon.](../../grc-cam-workspace/image/ws-list-icon.png)\) and then navigate to **All scenario analysis**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace**, select the list icon ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-cam-workspace/image/ws-list-icon.png)\) and then navigate to **All scenario analysis**.
 
 2.  To create a scenario analysis, select **New**.
 
@@ -43,11 +43,11 @@ If you have the sn\_oper\_res.manager role, you can create a scenario analysis. 
 
     The logged-in user is automatically assigned as the owner of the analysis.
 
-    For the descriptions of the field values on the User New record form, see [Create New Scenario analysis form](../reference/scenario-analyses-reference-in-ws.md).
+    For the descriptions of the field values on the User New record form, see [Create New Scenario analysis form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/scenario-analyses-reference-in-ws.md).
 
     A sample scenario analysis form is shown in the following example.
 
-    ![Sample scenario analysis form.](../image/sce-analysis-form-in-ws.png "Sample scenario analysis form")
+    ![Sample scenario analysis form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sce-analysis-form-in-ws.png "Sample scenario analysis form")
 
 7.  To start a Sidebar discussion on the scenario analysis, select **More actions** and select **Discuss**.
 
@@ -68,9 +68,9 @@ The scenario analysis is saved and its state is updated to **Draft**.
 
 The following example shows that on the **Details** tab, you can see the details about the scenario analysis, its important dates, and assignees.
 
-![Details tab on the scenario analysis form.](../image/updated-scenario-analysis-form.png "Details tab on the scenario analysis form")
+![Details tab on the scenario analysis form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/updated-scenario-analysis-form.png "Details tab on the scenario analysis form")
 
 ## What to do next
 
-Add the scenario events, scope, assets, and participants to the analysis. You must associate at least one scope to begin the analysis. For more information on adding a scope and dependencies, see [Associate a scope and define the dependencies](add-service-event-participant-to-analysis-in-ws.md).
+Add the scenario events, scope, assets, and participants to the analysis. You must associate at least one scope to begin the analysis. For more information on adding a scope and dependencies, see [Associate a scope and define the dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-service-event-participant-to-analysis-in-ws.md).
 

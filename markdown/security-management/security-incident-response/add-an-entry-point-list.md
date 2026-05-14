@@ -25,13 +25,13 @@ Role required: admin
 
     The **Entry Point Lists Configs** page is displayed.
 
-    ![Entry points list configs page](../image/entry-points.png)
+    ![Entry points list configs page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/entry-points.png)
 
 2.  Click **Edit Investigation View** button to add an entry point list to the investigation screen.
 
     The **Configuring related lists on Security Incident form** is displayed.
 
-    ![Edit investigation related lists](../image/edit-investigation-related-lists-view.png)
+    ![Edit investigation related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/edit-investigation-related-lists-view.png)
 
 3.  Add or remove the entry point list from the slush bucket view.
 
@@ -42,5 +42,5 @@ Role required: admin
     The order in which the entry point lists is displayed on the investigation canvas is determined by the order in the slush bucket selected view.
 
 
-**Parent Topic:**[Configure SI design time investigation](../concept/configure-investigation-canvas-records.md)
+**Parent Topic:**[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-investigation-canvas-records.md)
 

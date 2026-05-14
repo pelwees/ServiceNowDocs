@@ -17,7 +17,7 @@ Establish a strict mode connection and credential alias for Microsoft Exchange O
 
 ## Before you begin
 
-[Connect Microsoft Exchange On-Premises MID server with ServiceNow](connect-onprem-mid-server-with-servicenow-strict-mode.md)
+[Connect Microsoft Exchange On-Premises MID server with ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/connect-onprem-mid-server-with-servicenow-strict-mode.md)
 
 Role required: admin
 
@@ -58,5 +58,5 @@ The Connection and Credentials alias is created.
 
 ## What to do next
 
-[Configure Microsoft Exchange On-Premises as calendar provider in strict mode](configure-exchange-onprem-calendarprovider-strict-mode.md)
+[Configure Microsoft Exchange On-Premises as calendar provider in strict mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-exchange-onprem-calendarprovider-strict-mode.md)
 

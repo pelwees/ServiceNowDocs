@@ -33,7 +33,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Project Workspace** and [Create a project](create-project-from-project-workspace.md).
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and [Create a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-project-from-project-workspace.md).
 
 2.  Use an existing playbook or create a new one.
 
@@ -51,7 +51,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
     For more information on how to use playbooks, see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-experience-admins.md).
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 
 **Related topics**  
 
@@ -60,7 +60,7 @@ You can view the **Playbook** menu only if a playbook is active and the project 
 
 [Playbooks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer-reference.md)
 
-[Playbooks configuration](../concept/configure-playbooks-pw.md)
+[Playbooks configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/configure-playbooks-pw.md)
 
-[Playbooks in Project Workspace](../concept/playbooks-in-pw.md)
+[Playbooks in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/playbooks-in-pw.md)
 

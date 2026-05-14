@@ -19,25 +19,25 @@ Cloud Account Management brings together ServiceNow cloud solutions in a unified
 
 The Cloud Account Management feature automates the management process for AWS accounts and Azure subscription creation. Key benefits include automating account management, streamlining approval workflows, reducing provisioning time, and enhancing security with automated certifications.
 
-![Cloud Account Management workflow](../image/CAM-overview.png "Cloud Account Management workflow")
+![Cloud Account Management workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/CAM-overview.png "Cloud Account Management workflow")
 
 ## Get Started
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)](exploring-cam.md)Learn about Cloud Account Management concepts and features.
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/brand-icons/bus-explore.svg)](exploring-cam.md)Learn about Cloud Account Management concepts and features.
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](configuring-cam.md)Configure environment and user access.
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)](configuring-cam.md)Configure environment and user access.
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)](using-cam.md)Become familiar with workflow to create and manage cloud accounts.
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)](using-cam.md)Become familiar with workflow to create and manage cloud accounts.
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)](../reference/cam-reference.md)Get details about components like fields, tables, and properties.
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/brand-icons/bus-whitepaper.svg)](../reference/cam-reference.md)Get details about components like fields, tables, and properties.
 
 </td></tr></tbody>
 </table>

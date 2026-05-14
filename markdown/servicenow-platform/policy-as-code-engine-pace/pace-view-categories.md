@@ -29,7 +29,7 @@ Role required: sn\_pace.execution\_reader
 
     The policies associated with the selected category are displayed.
 
-    ![Associated policies.](../image/pace-categories-policies-2.jpg)
+    ![Associated policies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-categories-policies-2.jpg)
 
 4.  Click a policy name to view the policy and its settings.
 

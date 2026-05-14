@@ -31,7 +31,7 @@ Role required: Terraform admin or DevOps team member
 
 5.  Select the link **Register a new OAuth Application**.
 
-    ![Terraform CVS provider registration form](../image/register-oauth.png)
+    ![Terraform CVS provider registration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/register-oauth.png)
 
 6.  Select **Register application**.
 
@@ -41,7 +41,7 @@ Role required: Terraform admin or DevOps team member
 
 9.  Go back to the Terraform console where the **Add a VCS provider** page is open and paste both Client ID and Client Secret.
 
-    ![Terraform VCS provider page](../image/terraform-vcs-form.png)
+    ![Terraform VCS provider page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/terraform-vcs-form.png)
 
 10. Select **Connect and continue**.
 
@@ -58,16 +58,16 @@ Role required: Terraform admin or DevOps team member
 
 Make a note of the OAuth Token ID and share it with the ServiceNow admin.
 
-![GitHub OAuth Token ID](../image/git-oauth-token.png)
+![GitHub OAuth Token ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/git-oauth-token.png)
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 
 
-[Publish Terraform templates](publish-terraform-templates.md)
+[Publish Terraform templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/publish-terraform-templates.md)
 
-[Create a Terraform organization for Cloud Account Management in Cloud Workspace](integrate-terraform-and-git.md)
+[Create a Terraform organization for Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-and-git.md)
 
-[Create Terraform API token](set-up-administrator-api-key.md)
+[Create Terraform API token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-administrator-api-key.md)
 

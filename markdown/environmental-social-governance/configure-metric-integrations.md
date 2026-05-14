@@ -44,5 +44,5 @@ The ServiceNow AI Platform provides a pre-configured integration to import data 
 4.  Select **Update**.
 
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](../../esg-management-reporting/concept/integrate-esg-with-watershed.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../esg-management-reporting/concept/integrate-esg-with-watershed.md)
 

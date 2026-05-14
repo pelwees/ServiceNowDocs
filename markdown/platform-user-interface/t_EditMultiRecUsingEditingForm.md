@@ -47,12 +47,12 @@ Depending on your ACL settings, some of these options might not be available eve
 </table>2.  Enter appropriate values in any of the fields and select **Update** to save your changes in all selected records.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_MethodsForListEdits.md)
 
 **Related topics**  
 
 
-[Use the list editor](t_UseTheListEditor.md)
+[Use the list editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseTheListEditor.md)
 
-[Edit multiple records in a list using the list editor](t_EditMultRecUsingListEditor.md)
+[Edit multiple records in a list using the list editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditMultRecUsingListEditor.md)
 

@@ -33,21 +33,21 @@ The risk reduction for a CVE and TPE is enabled by default.
     -   **TPEs** from the TPEs list.
 2.  Select **Disable risk reduction**.
 
-    The remediation owner can’t request risk reduction for the host vulnerable items related to this CVE or TPE. In other words, the [Request for Risk Reduction](../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-rr.md#entry-risk-reduction) check box doesn’t appear when the **Reason** is selected as `Mitigating Control in Place` on the Request Exception modal.
+    The remediation owner can’t request risk reduction for the host vulnerable items related to this CVE or TPE. In other words, the [Request for Risk Reduction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-rr.md#entry-risk-reduction) check box doesn’t appear when the **Reason** is selected as `Mitigating Control in Place` on the Request Exception modal.
 
 3.  To enable the risk reduction requests for host vulnerable items, select **Enable risk reduction**.
 
 
-**Parent Topic:**[Add a compensating control to the library](sem-create-compensatory-control.md)
+**Parent Topic:**[Add a compensating control to the library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-compensatory-control.md)
 
 **Related topics**  
 
 
-[Understanding compensating controls for risk reduction](../../vr-vulnerability-manager-workspace/concept/compensating-controls-overview.md)
+[Understanding compensating controls for risk reduction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-vulnerability-manager-workspace/concept/compensating-controls-overview.md)
 
-[Add a compensating control to the library](../../vr-vulnerability-manager-workspace/task/create-compensatory-control.md)
+[Add a compensating control to the library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-vulnerability-manager-workspace/task/create-compensatory-control.md)
 
-[Associate compensating controls with CVEs or TPEs for risk reduction requests](../../vr-vulnerability-manager-workspace/task/associate-controls-cve-risk-reduction.md)
+[Associate compensating controls with CVEs or TPEs for risk reduction requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-vulnerability-manager-workspace/task/associate-controls-cve-risk-reduction.md)
 
-[Impact of the compensating controls on risk score and expiration date](../../vr-vulnerability-manager-workspace/concept/requesting-approving-risk-reduction.md)
+[Impact of the compensating controls on risk score and expiration date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vr-vulnerability-manager-workspace/concept/requesting-approving-risk-reduction.md)
 

@@ -27,7 +27,7 @@ The manager can review schedules by performing the following steps from one cent
 4.  Publish the schedule.
 5.  Approve teams' requests.
 
-Agents make requests to change the schedule or take time off. For more information, refer to [Track and manage your team schedule](../task/track-manage-teams-schedule-configurable-wfo.md).
+Agents make requests to change the schedule or take time off. For more information, refer to [Track and manage your team schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/track-manage-teams-schedule-configurable-wfo.md).
 
 Get an overview of how to you can create shift plans and assign agents to the shifts using the schedule plan. For more information, refer to [Create Shift Plans](https://www.youtube.com/watch?v=lwnnKvaJiAY&t=139s) on YouTube.
 
@@ -35,5 +35,5 @@ Get an overview of how you can monitor shifts and schedule for your entire team 
 
 Get an overview of how agents use the workspace to manage their schedule. For more information, refer to [Agent Schedule](https://www.youtube.com/watch?v=H17cbdqTkpM) on YouTube.
 
-For detailed information on creating and managing schedules using Workforce Optimization for Customer Service, refer to [Scheduling in Workforce Optimization for Customer Service](scheduling-configurable-wfo-cs.md).
+For detailed information on creating and managing schedules using Workforce Optimization for Customer Service, refer to [Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/scheduling-configurable-wfo-cs.md).
 

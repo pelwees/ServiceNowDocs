@@ -34,15 +34,15 @@ Role required: admin
 
 2.  In the Build Agent chat panel, select the Settings icon ![](../image/ba-settings-icon.png).
 
-    ![Build Agent panel showing greeting message and the Settings button](../image/ba-settings-panel-1.png "Build Agent panel with Settings icon")
+    ![Build Agent panel showing greeting message and the Settings button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-settings-panel-1.png "Build Agent panel with Settings icon")
 
 3.  Select the **Enable MCP servers** toggle.
 
-    ![Settings panel showing behavior and features configuration options with toggle switches](../image/ba-settings-panel-2.png "Enable MCP servers setting")
+    ![Settings panel showing behavior and features configuration options with toggle switches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-settings-panel-2.png "Enable MCP servers setting")
 
 4.  Select the MCP servers icon ![](../image/ba-mcp-settings-icon.png) that appears after you enable MCP servers.
 
-    ![Settings panel with the MCP settings button highlighted](../image/ba-mcp-settings-1.png "MCP settings icon")
+    ![Settings panel with the MCP settings button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-mcp-settings-1.png "MCP settings icon")
 
 5.  Select the **Connect** button for the MCP server you want to connect to.
 
@@ -50,7 +50,7 @@ Role required: admin
 
     The list of available MCP servers is inherited from the instance's registry.
 
-    ![MCP settings showing MCP servers listed and a Connect button](../image/ba-mcp-list-1.png "Connect an MCP server")
+    ![MCP settings showing MCP servers listed and a Connect button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ba-mcp-list-1.png "Connect an MCP server")
 
 6.  Select **Allow** in the confirmation dialog.
 
@@ -59,5 +59,5 @@ Role required: admin
 
 After Build Agent authenticates the connection, you can chat with it to ask questions related to the MCP server.
 
-**Parent Topic:**[Configure Build Agent](configure-build-agent.md)
+**Parent Topic:**[Configure Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/configure-build-agent.md)
 

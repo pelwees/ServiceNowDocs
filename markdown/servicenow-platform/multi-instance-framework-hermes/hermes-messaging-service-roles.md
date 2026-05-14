@@ -17,18 +17,18 @@ Hermes Messaging Service is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Hermes Messaging Service reference](../concept/hermes-messaging-service-reference.md)
+**Parent Topic:**[Hermes Messaging Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-reference.md)
 
 **Related topics**  
 
 
-[Hermes Messaging Service components](../concept/hermes-messaging-service-components.md)
+[Hermes Messaging Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-components.md)
 
-[Hermes Messaging Service security model](../concept/hermes-messaging-service-security-model.md)
+[Hermes Messaging Service security model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-security-model.md)
 
-[Hermes Messaging Service system properties](hermes-messaging-service-properties.md)
+[Hermes Messaging Service system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-properties.md)
 
-[Hermes Messaging Service domain separation](hermes-messaging-service-domain-separation.md)
+[Hermes Messaging Service domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-domain-separation.md)
 
 ## Hermes Messaging Service viewer \[hermes\_viewer\]
 

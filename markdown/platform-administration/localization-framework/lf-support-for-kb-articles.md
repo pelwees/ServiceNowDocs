@@ -19,7 +19,7 @@ Localization Framework enables the translation of Knowledge Base \(KB\) articles
 
 The extension of the Localization Framework capabilities to KB articles enables you to do the following tasks:
 
--   Select multiple languages from the available languages in the instance to configure settings with the knowledge base artifact. To configure localization settings, see [Localization Framework settings](localization-settings.md).
+-   Select multiple languages from the available languages in the instance to configure settings with the knowledge base artifact. To configure localization settings, see [Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
 -   Create LRITMs by requesting translations into one or more languages.
 -   Translate the content of the KB articles directly using the request translations option.
 -   Read, edit, and machine translate the content. You can also send the content to TMS or via email. You can export and import the content of the KB articles.
@@ -31,5 +31,5 @@ The extension of the Localization Framework capabilities to KB articles enables 
 
 For more information on translating the KB articles, see [Knowledge base article localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translation-management.md).
 
-**Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
+**Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 

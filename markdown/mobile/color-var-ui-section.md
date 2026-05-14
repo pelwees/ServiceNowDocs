@@ -26,13 +26,13 @@ Icon UI sections have a **Color** section with two fields to control the foregro
 -   Icon section destination function \[sys\_sg\_navigation\_section\_destination\_button\]
 -   Icon section destination screen \[sys\_sg\_navigation\_section\_destination\_screen\]
 
- For details on creating these actions, see [Configure an icon UI section](../task/sg-ui-section-config-navig.md).
+ For details on creating these actions, see [Configure an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-ui-section-config-navig.md).
 
  You can define any color variable from the UX Theme Properties \[sys\_ux\_theme\_property\] table. For a list available variables see the color design guide below.
 
 </td><td>
 
-![Color variable used in an icon UI section](../image/color-var-example-2.png)
+![Color variable used in an icon UI section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-2.png)
 
 </td></tr></tbody>
 </table>## Mobile icon UI section color guide
@@ -72,11 +72,11 @@ Primary
 
 </td><td>
 
-![Primary icon color](../image/icon-colors/icon-color-primary.png)
+![Primary icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-primary.png)
 
 </td><td>
 
-![Primary icon example](../image/icon-colors/icon-example-primary.png)
+![Primary icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-primary.png)
 
 </td><td>
 
@@ -95,11 +95,11 @@ Critical
 
 </td><td>
 
-![Critical icon color](../image/icon-colors/icon-color-alert.png)
+![Critical icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-alert.png)
 
 </td><td>
 
-![Critical icon example](../image/icon-colors/icon-example-critical.png)
+![Critical icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-critical.png)
 
 </td><td>
 
@@ -118,11 +118,11 @@ High
 
 </td><td>
 
-![High icon color](../image/icon-colors/icon-color-high.png)
+![High icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-high.png)
 
 </td><td>
 
-![High icon example](../image/icon-colors/icon-example-high.png)
+![High icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-high.png)
 
 </td><td>
 
@@ -141,11 +141,11 @@ Warning
 
 </td><td>
 
-![Warning icon color](../image/icon-colors/icon-color-warning.png)
+![Warning icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-warning.png)
 
 </td><td>
 
-![Warning icon example](../image/icon-colors/icon-example-warning.png)
+![Warning icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-warning.png)
 
 </td><td>
 
@@ -164,11 +164,11 @@ Moderate
 
 </td><td>
 
-![Moderate icon color](../image/icon-colors/icon-color-moderate.png)
+![Moderate icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-moderate.png)
 
 </td><td>
 
-![Moderate icon example](../image/icon-colors/icon-example-moderate.png)
+![Moderate icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-moderate.png)
 
 </td><td>
 
@@ -187,11 +187,11 @@ Info
 
 </td><td>
 
-![Info icon color](../image/icon-colors/icon-color-info.png)
+![Info icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-info.png)
 
 </td><td>
 
-![Info icon example](../image/icon-colors/icon-example-info.png)
+![Info icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-info.png)
 
 </td><td>
 
@@ -210,11 +210,11 @@ Positive
 
 </td><td>
 
-![Positive icon color](../image/icon-colors/icon-color-positive.png)
+![Positive icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-positive.png)
 
 </td><td>
 
-![Positive icon example](../image/icon-colors/icon-example-positive.png)
+![Positive icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-positive.png)
 
 </td><td>
 
@@ -233,11 +233,11 @@ Low
 
 </td><td>
 
-![Low icon color](../image/icon-colors/icon-color-low.png)
+![Low icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-low.png)
 
 </td><td>
 
-![Low icon example](../image/icon-colors/icon-example-low.png)
+![Low icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-low.png)
 
 </td><td>
 
@@ -275,11 +275,11 @@ Blue
 
 </td><td>
 
-![Blue icon color](../image/icon-colors/icon-color-blue.png)
+![Blue icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-blue.png)
 
 </td><td>
 
-![Blue icon example](../image/icon-colors/icon-example-blue.png)
+![Blue icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-blue.png)
 
 </td><td>
 
@@ -294,7 +294,7 @@ Brown
 
 </td><td>
 
-![Brown icon color](../image/icon-colors/icon-color-brown.png)
+![Brown icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-brown.png)
 
 </td><td>
 
@@ -313,11 +313,11 @@ Gray
 
 </td><td>
 
-![Gray icon color](../image/icon-colors/icon-color-gray.png)
+![Gray icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-gray.png)
 
 </td><td>
 
-![Gray icon example](../image/icon-colors/icon-example-gray.png)
+![Gray icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-gray.png)
 
 </td><td>
 
@@ -332,11 +332,11 @@ Green
 
 </td><td>
 
-![Green icon color](../image/icon-colors/icon-color-green.png)
+![Green icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-green.png)
 
 </td><td>
 
-![Green icon example](../image/icon-colors/icon-example-green.png)
+![Green icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-green.png)
 
 </td><td>
 
@@ -351,11 +351,11 @@ Green-Yellow
 
 </td><td>
 
-![Green-yellow icon color](../image/icon-colors/icon-color-green-yellow.png)
+![Green-yellow icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-green-yellow.png)
 
 </td><td>
 
-![Green-yellow icon example](../image/icon-colors/icon-example-green-yellow.png)
+![Green-yellow icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-green-yellow.png)
 
 </td><td>
 
@@ -370,11 +370,11 @@ Magenta
 
 </td><td>
 
-![Magenta icon color](../image/icon-colors/icon-color-magenta.png)
+![Magenta icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-magenta.png)
 
 </td><td>
 
-![Magenta icon example](../image/icon-colors/icon-example-magenta.png)
+![Magenta icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-magenta.png)
 
 </td><td>
 
@@ -389,11 +389,11 @@ Orange
 
 </td><td>
 
-![Orange icon color](../image/icon-colors/icon-color-orange.png)
+![Orange icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-orange.png)
 
 </td><td>
 
-![Orange icon example](../image/icon-colors/icon-example-orange.png)
+![Orange icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-orange.png)
 
 </td><td>
 
@@ -408,11 +408,11 @@ Pink
 
 </td><td>
 
-![Pink icon color](../image/icon-colors/icon-color-pink.png)
+![Pink icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-pink.png)
 
 </td><td>
 
-![Pink icon example](../image/icon-colors/icon-example-pink.png)
+![Pink icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-pink.png)
 
 </td><td>
 
@@ -427,11 +427,11 @@ Purple
 
 </td><td>
 
-![Purple icon color](../image/icon-colors/icon-color-purple.png)
+![Purple icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-purple.png)
 
 </td><td>
 
-![Purple icon example](../image/icon-colors/icon-example-purple.png)
+![Purple icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-purple.png)
 
 </td><td>
 
@@ -446,11 +446,11 @@ Teal
 
 </td><td>
 
-![Teal icon color](../image/icon-colors/icon-color-teal.png)
+![Teal icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-teal.png)
 
 </td><td>
 
-![Teal icon example](../image/icon-colors/icon-example-teal.png)
+![Teal icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-teal.png)
 
 </td><td>
 
@@ -465,11 +465,11 @@ Yellow
 
 </td><td>
 
-![Yellow icon color](../image/icon-colors/icon-color-yellow.png)
+![Yellow icon color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-color-yellow.png)
 
 </td><td>
 
-![Yellow icon example](../image/icon-colors/icon-example-yellow.png)
+![Yellow icon example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/icon-colors/icon-example-yellow.png)
 
 </td><td>
 

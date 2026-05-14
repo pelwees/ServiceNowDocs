@@ -14,10 +14,10 @@ breadcrumb: [Core Business Suite]
 
 The reference topics provide details of the properties, forms, lists, roles, tables, and widgets you want to configure to use the CBS application.
 
--   **[Components installed with Core Business Suite](comp-inst-with-cbs.md)**  
+-   **[Components installed with Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/comp-inst-with-cbs.md)**  
 Various components are installed with Core Business Suite.
--   **[Help topics instance options](helpt-instance-form.md)**  
+-   **[Help topics instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/helpt-instance-form.md)**  
 The details provide the field and its descriptions of the widget instance options.
 
-**Parent Topic:**[Core Business Suite](../concept/cbs-landing.md)
+**Parent Topic:**[Core Business Suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../concept/cbs-landing.md)
 

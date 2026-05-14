@@ -120,12 +120,12 @@ Role required: admin
 
     -   To configure the default connection and credential alias record that is shipped along with the Cisco Webex Meetings spoke, click **View Details**.
 
-        ![Click View Details to configure the default connection and credential alias record.](../image/cisco-webex-meetings-conf1.png)
+        ![Click View Details to configure the default connection and credential alias record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cisco-webex-meetings-conf1.png)
 
-    -   To manage more than one Cisco Webex Meetings spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Cisco Webex Meetings spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![Click Configure if you are configuring the spoke for the first time.](../image/cisco-webex-meetings-conf2.png)
+    ![Click Configure if you are configuring the spoke for the first time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cisco-webex-meetings-conf2.png)
 
 5.  On the form, fill in the fields.
 
@@ -139,7 +139,7 @@ Role required: admin
     |OAuth Client Secret|Client Secret you created during the Webex app configuration.|
     |OAuth Redirect URL|`https://<instance-name>.service-now.com/oauth_redirect.do`, where *instance-name* is the name of your ServiceNow instance.|
 
-    ![Configure a connection for the Cisco Webex Meetings spoke.](../image/cisco-webex-meetings-conf3.png)
+    ![Configure a connection for the Cisco Webex Meetings spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cisco-webex-meetings-conf3.png)
 
 6.  Click **Configure and Get OAuth Token**.
 

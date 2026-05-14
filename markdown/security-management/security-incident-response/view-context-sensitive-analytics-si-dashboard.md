@@ -27,7 +27,7 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 3.  Select **Context Sensitive Analytics – SI** from the drop down list.
 
-    ![Context Sensitive Analytics - SI](../image/context-sensitive-analytics-si.png)
+    ![Context Sensitive Analytics - SI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/context-sensitive-analytics-si.png)
 
 4.  View the Context Sensitive Analytics – SI dashboard for further action.
 

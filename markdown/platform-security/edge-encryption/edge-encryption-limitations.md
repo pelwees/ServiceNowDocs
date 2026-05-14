@@ -76,9 +76,9 @@ For more information, see [Field types](https://raw.githubusercontent.com/Servic
     -   **before or on**
 -   **Date and Date/Time pickers**
 
-    For Date fields, use the date picker to specify the date: ![Date picker](../../encryption/image/date-picker.png)
+    For Date fields, use the date picker to specify the date: ![Date picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../encryption/image/date-picker.png)
 
-    For Date/Time fields, use the date and time picker to specify the date and time:![Date/Time picker](../../encryption/image/date-time-picker.png)
+    For Date/Time fields, use the date and time picker to specify the date and time:![Date/Time picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../../encryption/image/date-time-picker.png)
 
 -   **List condition filters**
 
@@ -124,5 +124,5 @@ Impact of using Edge Encryption on the instance:
 -   Edge Encryption can’t be used with Data Archiving.
 -   Edge Encryption proxies cannot encrypt requests that use the batch REST request API. If you are using Edge Encryption proxies, disable REST batching by setting the `glide.uxf.disable_rest_batching` system property to true.
 
-**Parent Topic:**[Planning for Edge Encryption](../concept/c_EdgeEncryptionPlanning.md)
+**Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_EdgeEncryptionPlanning.md)
 

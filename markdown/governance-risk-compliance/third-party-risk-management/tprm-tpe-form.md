@@ -92,7 +92,7 @@ First name, Last name, Contact department, Contact title, Contact phone, and Con
 
 Standard contact information for the person at the third-party organization who acts as the primary third-party contact.
 
- For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](../../grc-vendor-risk-implementation/reference/tprm-roles.md).
+ For a description of the responsibilities of the third-party contact role, see [Roles in Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/reference/tprm-roles.md).
 
 </td></tr><tr><td>
 
@@ -108,17 +108,17 @@ Latitude and Longitude
 
 </td><td>
 
-Values that are used to mark the location on the Risk concentration map. For more information, see [TPRM Risk concentration map](../concept/tprm-ws-risk-concentration-map.md).
+Values that are used to mark the location on the Risk concentration map. For more information, see [TPRM Risk concentration map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-ws-risk-concentration-map.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Third-party \(external\) risk assessment management](tprm-ws-dd-mgt-pg-extrnl-assessment.md)
+</table>**Parent Topic:**[Third-party \(external\) risk assessment management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-dd-mgt-pg-extrnl-assessment.md)
 
 **Related topics**  
 
 
-[Monitoring third-party elements](../../grc-vendor-risk/concept/tprm-monitor-tp-elements.md)
+[Monitoring third-party elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/tprm-monitor-tp-elements.md)
 
-[Create a third-party element record](../../grc-vendor-risk/task/tprm-tp-element-create.md)
+[Create a third-party element record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-tp-element-create.md)
 
-[Add a third-party element record to an engagement](../../grc-vendor-risk/task/tprm-tp-element-engagement.md)
+[Add a third-party element record to an engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/task/tprm-tp-element-engagement.md)
 

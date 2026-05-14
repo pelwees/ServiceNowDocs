@@ -28,7 +28,7 @@ Applications in the global scope are eligible for upload to the application repo
 **Related topics**  
 
 
-[Publish an application to the application repository](../task/t_PublishAppsToTheAppRepository.md)
+[Publish an application to the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/t_PublishAppsToTheAppRepository.md)
 
-[Publish an application to the ServiceNow Store](../task/t_PublishAppsToTheServiceNowStore.md)
+[Publish an application to the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/t_PublishAppsToTheServiceNowStore.md)
 

@@ -27,11 +27,11 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 3.  Select the **Analyst workbench** tab.
 
-4.  Select Model Options \(![Model options icon](../image/model-options-icon.png)\) from the right bar.
+4.  Select Model Options \(![Model options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/model-options-icon.png)\) from the right bar.
 
 5.  From the **Views** area, select **All** or any one of the activity definitions.
 
-    ![Views](../image/perspective.png)
+    ![Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/perspective.png)
 
 6.  Select **View result** after the scheduled task is complete.
 
@@ -40,5 +40,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 The graph will display all data for the selected activity definition.
 
-**Parent Topic:**[Analyzing and getting process insights](../concept/analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/analyze-get-process-insights.md)
 

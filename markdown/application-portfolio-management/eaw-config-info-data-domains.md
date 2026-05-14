@@ -15,12 +15,12 @@ A data domain is a collection of information objects. ServiceNow® Discovery fin
 
 Information data domains enable you to define how data is captured, stored, shared, and governed across the enterprise.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View information data domains](../../task/eaw-task/eaw-view-info-data-domains.md)
+[View information data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-info-data-domains.md)
 
-[Add or edit an information data domain](../../task/eaw-task/eaw-add-edit-info-data-domain.md)
+[Add or edit an information data domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-edit-info-data-domain.md)
 

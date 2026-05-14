@@ -91,8 +91,8 @@ Downgrade Rights
 
 </td><td>
 
-The concept of downgrading licenses is built into the Software Asset Management plugin feature. Downgrade rights is the process of having acquired the rights to the latest version of software but using the rights to license earlier versions of the same software. For more information, see [Downgrade Rights](downgrade-rights.md).
+The concept of downgrading licenses is built into the Software Asset Management plugin feature. Downgrade rights is the process of having acquired the rights to the latest version of software but using the rights to license earlier versions of the same software. For more information, see [Downgrade Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/downgrade-rights.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+</table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

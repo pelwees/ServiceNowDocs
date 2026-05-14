@@ -17,11 +17,11 @@ As an enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgm
 
 ## Enterprise architect administrator tasks overview
 
-1.  [Configure flow for automating API actions](api-insights-workflow.md).
+1.  [Configure flow for automating API actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-workflow.md).
 
     Configure workflows for automating API actions within API Insights.
 
-2.  [Configure settings to manage APIs in API Insights](../task/api-insights-config-settings.md).
+2.  [Configure settings to manage APIs in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../task/api-insights-config-settings.md).
 
     Configure settings to manage APIs, including API creation tools, relationship models, ownership groups, and automated workflows, to streamline API governance and operational processes.
 

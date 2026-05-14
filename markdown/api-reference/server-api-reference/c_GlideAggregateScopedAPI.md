@@ -21,7 +21,7 @@ When you use GlideAggregate methods on currency or price fields, you are working
 
 **Note:** When using an on-premise system, the database server time zone must be set to GMT/UTC for this class to work properly.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped GlideAggregate - GlideAggregate\(String tableName\)
 
@@ -295,7 +295,7 @@ var count = new GlideAggregate('incident');
 
 Adds a trend for a specified field. Use a trend to show patterns over a period of time.
 
-**Note:** To control whether to group **dayofweek** results by year, use [Scoped GlideAggregate - setIntervalYearIncluded\(Boolean b\)](c_GlideAggregateScopedAPI.md#).
+**Note:** To control whether to group **dayofweek** results by year, use [Scoped GlideAggregate - setIntervalYearIncluded\(Boolean b\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideAggregateScopedAPI.md#).
 
 <table id="table_tlk_cdk_ws" class="parameters"><thead><tr><th>
 
@@ -1096,7 +1096,7 @@ Category software 11
 
 Sets whether to group results by year for day-of-week trends. These trends are created using the addTrend\(\) method with the **dayofweek** time interval.
 
-Dependency: [Scoped GlideAggregate - addTrend\('&lt;fieldName&gt;', 'dayofweek'\)](c_GlideAggregateScopedAPI.md#).
+Dependency: [Scoped GlideAggregate - addTrend\('&lt;fieldName&gt;', 'dayofweek'\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideAggregateScopedAPI.md#).
 
 <table class="parameters"><thead><tr><th>
 

@@ -23,7 +23,7 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/task/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
@@ -94,7 +94,7 @@ Selective Replace with X
 
 </td><td>
 
-Transforms String data and selectively replaces sensitive characters with the letter X.**Note:** Default technique for data patterns in [Exploring Data Discovery \(Classic\)](../../security/concept/data-discovery.md).
+Transforms String data and selectively replaces sensitive characters with the letter X.**Note:** Default technique for data patterns in [Exploring Data Discovery \(Classic\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/concept/data-discovery.md).
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Data pattern anonymization
 
 </td><td>
 
-Only anonymizes discovered data patterns within unstructured data fields while keeping underlying context intact. **Note:** Settings for this technique reference data pattern anonymization technique settings in [Exploring Data Discovery \(Classic\)](../../security/concept/data-discovery.md).
+Only anonymizes discovered data patterns within unstructured data fields while keeping underlying context intact. **Note:** Settings for this technique reference data pattern anonymization technique settings in [Exploring Data Discovery \(Classic\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/concept/data-discovery.md).
 
 </td></tr></tbody>
 </table>4.  Select **Add custom technique**, if not using a pre-defined technique.
@@ -141,5 +141,5 @@ Only anonymizes discovered data patterns within unstructured data fields while k
 
 ## What to do next
 
-See [Create anonymization policies](dps-create-anonymization-policies.md) to configure an anonymization policy to specify which techniques are used when anonymizing your data.
+See [Create anonymization policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-policies.md) to configure an anonymization policy to specify which techniques are used when anonymizing your data.
 

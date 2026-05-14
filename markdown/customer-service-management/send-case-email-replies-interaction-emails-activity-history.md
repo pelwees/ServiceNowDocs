@@ -41,5 +41,5 @@ The get\_activity\_of\_case\_and\_related\_interaction\_for\_email script retrie
 **Related topics**  
 
 
-[Enable agents to respond to customers with email activity history](enable-agent-respond-customer-email-activity-history.md)
+[Enable agents to respond to customers with email activity history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/enable-agent-respond-customer-email-activity-history.md)
 

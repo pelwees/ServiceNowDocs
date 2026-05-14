@@ -15,7 +15,7 @@ breadcrumb: [Configure, Workforce Optimization for Customer Service, Customer Se
 
 Manage events using the team calendar. Create different types of event categories. Use scripted extension points to customize event types.
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-configurable-wfo-cs.md)
 
 ## Configure event categories for Manager Workspace
 
@@ -208,11 +208,11 @@ The threshold settings for adherence and conformance indicate how many minutes e
 **Related topics**  
 
 
-[Scheduling in Workforce Optimization for Customer Service](explore-scheduling-configurable-wfo-cs.md)
+[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/explore-scheduling-configurable-wfo-cs.md)
 
-[Monitor schedule adherence of your agents](../task/view-schedule-adherence-configurable-wfo.md)
+[Monitor schedule adherence of your agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/view-schedule-adherence-configurable-wfo.md)
 
-[Analyze adherence and conformance from the time worked summary](../task/analyze-time-worked-summary-configurable-wfo-cs.md)
+[Analyze adherence and conformance from the time worked summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../task/analyze-time-worked-summary-configurable-wfo-cs.md)
 
 ## Modify schedule adherence and conformance formulas by using extension points
 
@@ -238,7 +238,7 @@ Use the **sn\_shift\_planning.ScheduleAdherenceExtPt** extension point and creat
 
 5.  Modify the formulas for calculating the schedule adherence and conformance in the `getAdherencePercentage` and `getConformancePercentage` methods.
 
-    ![Scripted extension point displaying the getAdherencePercentage and getConformancePercentage sections.](../image/extension_script_adherence.png)
+    ![Scripted extension point displaying the getAdherencePercentage and getConformancePercentage sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/extension_script_adherence.png)
 
 6.  Click **Update**.
 

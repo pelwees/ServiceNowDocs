@@ -29,7 +29,7 @@ Role required: Platform Owner, Impact Admin
 
     All capabilities for the selected workflow and product are displayed in a table with color-coded status indicators.
 
-    ![Shows all of the available capabilities for your instance.](../image/cap-map2.png)
+    ![Shows all of the available capabilities for your instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/cap-map2.png)
 
 4.  Update the status for one or more capabilities.
 
@@ -44,7 +44,7 @@ Role required: Platform Owner, Impact Admin
 
     1.  Update a single status: Select a status from the color-coded status indicator on the application tile and select a status from the drop-down.
 
-        ![Shows changing the capability status for a single application.](../image/single-status-update-capmap.png)
+        ![Shows changing the capability status for a single application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/single-status-update-capmap.png)
 
     2.  Bulk update: Select the check box for multiple capabilities, then select a status from the **Change Status** button.
 
@@ -55,7 +55,7 @@ Role required: Platform Owner, Impact Admin
 5.  **Hide and Unhide capabilities.**
 6.  Hide a capability from the capabilities map in an instance.
 
-    When you set the capabilities map **Show hidden** filter to **No**, hidden applications are not visible in the list of applications.![Shows the Show hidden drop-down set to No, to not display hidden capabilities.](../image/show-hidden-no-capmap.png)
+    When you set the capabilities map **Show hidden** filter to **No**, hidden applications are not visible in the list of applications.![Shows the Show hidden drop-down set to No, to not display hidden capabilities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/show-hidden-no-capmap.png)
 
     1.  Hide a single capability: Select the check box next to the capability, then select the **Hide** button.
 
@@ -69,7 +69,7 @@ Role required: Platform Owner, Impact Admin
 
     1.  Set the **Show hidden** capabilities filter to **Yes**.
 
-        ![Shows the capabilities filter with the Show Hidden value set to Yes.](../image/cap-show-hidden.png)
+        ![Shows the capabilities filter with the Show Hidden value set to Yes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/cap-show-hidden.png)
 
         The hidden capabilities tiles are displayed in the list of applications.
 

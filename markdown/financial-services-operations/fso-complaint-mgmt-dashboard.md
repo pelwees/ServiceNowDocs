@@ -24,7 +24,7 @@ For any time that you specify, you can view the details for the closed cases tha
 
 ## Access the Financial Services Complaint Management dashboard
 
-To access the Financial Services Complaint Management dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Financial Services Complaint Management dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **All** &gt; **Complaint Management** &gt; **Analytics**.
 
@@ -131,7 +131,7 @@ Closed Cases – Top 10 Complaint Categories
 
 </td><td>
 
-Horizontal Bar ![Horizontal bar graph icon.](../../performance-analytics/image/horizontal-bar.png)
+Horizontal Bar ![Horizontal bar graph icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../performance-analytics/image/horizontal-bar.png)
 
 </td><td>
 
@@ -152,5 +152,5 @@ The following table shows the available filters in the Financial Services Compla
 |Complaint Category|Choice|Shows all the active complaint categories for the Complaint service \[sn\_bom\_compl\_service\] table.|
 |Complaint Type|Choice|Shows all the active complaint types for the Complaint service \[sn\_bom\_compl\_service\] table.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

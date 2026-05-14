@@ -93,5 +93,5 @@ Name of the remediation catalog item that can be used to raise a remediation req
 
 ## What to do next
 
-Run the remediation action to fix the identified violation. For more information, see [Run remediation](ccg-run-remediation.md).
+Run the remediation action to fix the identified violation. For more information, see [Run remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-run-remediation.md).
 

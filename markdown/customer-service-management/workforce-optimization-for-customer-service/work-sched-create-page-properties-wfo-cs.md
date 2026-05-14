@@ -37,7 +37,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
     The **workItem** property is created.
 
-8.  Hover over the **workItem** property and select the Dynamic data binding icon \(![Dynamic data binding icon](../image/dynamic-data-binding-icon.png)\).
+8.  Hover over the **workItem** property and select the Dynamic data binding icon \(![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png)\).
 
 9.  In the **workItem** field, type **@state.workItem**.
 
@@ -50,5 +50,5 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 [Define event mappings for Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-event-mapping.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 

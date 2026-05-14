@@ -44,5 +44,5 @@ Role required: sn\_si.analyst
 10. If any of the shared observables contain sightings, the sightings are also shared and can be viewed by selecting the **Sightings** tab.
 
 
-**Parent Topic:**[View Sightings Search Results](view-sightings-search-results.md)
+**Parent Topic:**[View Sightings Search Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)
 

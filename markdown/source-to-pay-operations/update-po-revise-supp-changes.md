@@ -28,15 +28,15 @@ Role required: sn\_poem\_core.operational\_buyer
 
 4.  From the **Address exception** list, select **Update impacted order**.
 
-    ![Update an impacted purchase order to address the exception](../image/pom-update-impacted-order.png)
+    ![Update an impacted purchase order to address the exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-update-impacted-order.png)
 
 5.  Select **Edit order**.
 
-    ![Edit the order to revise the supplier's changes](../image/pom-update-order-edits.png)
+    ![Edit the order to revise the supplier's changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-update-order-edits.png)
 
 6.  In the Quick edit window, update the purchased quantity or requested delivery date, or both.
 
-    ![Revise the quantity or delivery date or both](../image/pom-update-order-quickedits.png)
+    ![Revise the quantity or delivery date or both](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-update-order-quickedits.png)
 
 7.  Select **Save edit**.
 
@@ -49,5 +49,5 @@ Role required: sn\_poem\_core.operational\_buyer
 
 A purchase requisition of type Revision is created with your updates and is assigned to a reviewer for further action.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/resolving-purchase-order-exceptions.md)
 

@@ -128,7 +128,7 @@ This field is visible and set to true only when the integration profile is publi
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-5.  Select the Preview icon ![Preview icon](../../software-asset-management2/image/preview-icon.png) next to the Connection &amp; Credentials field.
+5.  Select the Preview icon ![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../../software-asset-management2/image/preview-icon.png) next to the Connection &amp; Credentials field.
 
     You get redirected to the Connection &amp; Credential Aliases form.
 
@@ -240,5 +240,5 @@ Verify if the scheduled job **ITAM - Sync Coupa purchase orders** has run succes
 
 Create software requisitions directly on Coupa through the ServiceNow Procurement application to purchase software.
 
-If you want to delete the Coupa integration profile, see [Deleting an external procurement application integration profile](../concept/delete-ext-profile.md).
+If you want to delete the Coupa integration profile, see [Deleting an external procurement application integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/delete-ext-profile.md).
 

@@ -73,5 +73,5 @@ This property sets the maximum number of rows allowed when bulk importing data i
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Working on the Redaction Library](tisc-redaction-library.md)
+**Parent Topic:**[Working on the Redaction Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-redaction-library.md)
 

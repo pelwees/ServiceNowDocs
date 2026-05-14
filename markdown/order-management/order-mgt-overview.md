@@ -14,19 +14,19 @@ Learn how you can use the ServiceNow® Sales Customer Relationship Management \(
 
 <table id="table_qq4_trz_3tb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how you can use the Sales CRM applications.](som-exploring.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn how you can use the Sales CRM applications.](som-exploring.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your Sales CRM implementation.](som-configuring.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your Sales CRM implementation.](som-configuring.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the Sales CRM applications as an agent.](som-using.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the Sales CRM applications as an agent.](som-using.md)
 
 </td></tr><tr><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend capabilities in Sales CRM by integrating with other applications.](order-mgt-integrating.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend capabilities in Sales CRM by integrating with other applications.](order-mgt-integrating.md)
 
 </td><td>
 
@@ -34,19 +34,19 @@ Learn how you can use the ServiceNow® Sales Customer Relationship Management \(
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](../reference/order-mgt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as fields, tables, and properties.](../reference/order-mgt-reference.md)
 
 </td></tr><tr><td>
 
-[Now Assist for SFA ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Enhance agent productivity and efficiency for lead-to-opportunity motions through conversation and proactive experiences using Now Assist.](../../now-assist-som/concept/now-assist-for-sales-and-order-management-som.md)
+[Now Assist for SFA ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Enhance agent productivity and efficiency for lead-to-opportunity motions through conversation and proactive experiences using Now Assist.](../../now-assist-som/concept/now-assist-for-sales-and-order-management-som.md)
 
 </td><td>
 
-[Now Assist for CPQ ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Move deals forward faster with AI‑powered assistance that helps you review and refine quotes.](../../now-assist-cpq/concept/now-assist-for-cpq-landing.md)
+[Now Assist for CPQ ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Move deals forward faster with AI‑powered assistance that helps you review and refine quotes.](../../now-assist-cpq/concept/now-assist-for-cpq-landing.md)
 
 </td><td>
 
-[Now Assist for Order Management ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Improve user experience for customers and agents with AI‑powered assistance that streamlines order and invoice operations.](../../now-assist-order-mgmt/concept/now-assist-order-management.md)
+[Now Assist for Order Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) Improve user experience for customers and agents with AI‑powered assistance that streamlines order and invoice operations.](../../now-assist-order-mgmt/concept/now-assist-order-management.md)
 
 </td></tr></tbody>
 </table>## Additional resources

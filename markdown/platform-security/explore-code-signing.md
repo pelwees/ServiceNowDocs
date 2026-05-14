@@ -25,7 +25,7 @@ Code Signing declares the intent behind the operation being performed and valida
 
 </td><td>
 
-![Code signing process diagram](../image/codesign-diagram-1.png)
+![Code signing process diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/codesign-diagram-1.png)
 
 </td></tr></tbody>
 </table>Code Signing uses a secure Circle of Trust \(COT\) between your trusted and protected instances to help ensure that only authorized, secure trusted instances can access the Code Signing feature.
@@ -78,7 +78,7 @@ All the metadata tables with valid configurations are signed at build time using
 
     **Note:** With the Australia release, script includes and business rule records are signed using the new "Wild Card Purpose". This replaces the previously empty purpose value. This change eliminates import warnings and manual intervention when handling large numbers of such records. You cannot create or update a signature configuration with the wild card purpose because it is already predefined. This value is reserved for script includes and business rules only, not for other tables. Attempts to use it elsewhere result in an error.
 
-    ![Signature Configuration record for an update set.](../../key-management-framework/image/kmf-signature-config.png "KMF signature record for update set")
+    ![Signature Configuration record for an update set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/kmf-signature-config.png "KMF signature record for update set")
 
 -   **Mass sign records**
 
@@ -88,8 +88,8 @@ All the metadata tables with valid configurations are signed at build time using
 
     This job signs all the attachment records that are attached to a table that matches a specified signature configuration​.
 
-    ![Encryption job to mass sign records.](../../key-management-framework/image/encryption-job.png "Code signing job to mass sign records")
+    ![Encryption job to mass sign records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../key-management-framework/image/encryption-job.png "Code signing job to mass sign records")
 
 
-**Parent Topic:**[Code Signing](code-signing-landing.md)
+**Parent Topic:**[Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 

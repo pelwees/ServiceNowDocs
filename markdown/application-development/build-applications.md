@@ -16,27 +16,27 @@ Learn how to become an application developer using ServiceNow AI Platform low-co
 
 <table id="table_dzv_wmz_bvb" class="nav-card"><tbody><tr><td>
 
-[Learning about creating applications ![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn basic information about application development.](getting-started-with-building-applications.md)
+[Learning about creating applications ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-learn.svg) Learn basic information about application development.](getting-started-with-building-applications.md)
 
 </td><td>
 
-[Phase 1: Planning your application ![](../../../reuse/icons/brand-icons/bus-task-list.svg) Plan how your application will work.](planning-applications.md)
+[Phase 1: Planning your application ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-task-list.svg) Plan how your application will work.](planning-applications.md)
 
 </td><td>
 
-[Phase 2: Developing your application ![](../../../reuse/icons/brand-icons/bus-application-development.svg) Add components and content to your application.](developing-applications.md)
+[Phase 2: Developing your application ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-application-development.svg) Add components and content to your application.](developing-applications.md)
 
 </td></tr><tr><td>
 
-[Phase 3: Testing and debugging your application ![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) Verify that the application meets your business requirements.](testing-and-debugging-applications.md)
+[Phase 3: Testing and debugging your application ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) Verify that the application meets your business requirements.](testing-and-debugging-applications.md)
 
 </td><td>
 
-[Phase 4: Deploying your application ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Deploy your application to your production environment.](deploying-applications.md)
+[Phase 4: Deploying your application ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-rocketship.svg) Deploy your application to your production environment.](deploying-applications.md)
 
 </td><td>
 
-[Phase 5: Maintaining your application ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Review the status of your application and make changes as needed.](maintaining-applications.md)
+[Phase 5: Maintaining your application ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Review the status of your application and make changes as needed.](maintaining-applications.md)
 
 </td></tr></tbody>
 </table>## What's new
@@ -45,17 +45,17 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
 
 ## App development phases
 
--   **![](../../../reuse/icons/brand-icons/bus-learn.svg) [Learning about creating applications](getting-started-with-building-applications.md)**
+-   **![](../../../reuse/icons/brand-icons/bus-learn.svg) [Learning about creating applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/getting-started-with-building-applications.md)**
 
     Decide whether you want to build a new application or extend an existing application. Check the ServiceNow Store and the ServiceNow Community for existing solutions.
 
     Before building your first application, you may want to learn some basic information about application development. This phase is optional, and you can complete it at any time while you work on other phases.
 
     -   How [ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-platform/now-platform-landing.md) is made up of tables and records. Learn how to convert a spreadsheet into record data.
-    -   How to [Get a development instance](../task/get-dev-instance.md) to practice creating applications.
-    -   How to find out [Licensing](../reference/licensing.md) for which application features require a subscription.
-    -   How to contact [Support for developers](../../applications/reference/r_support-servicenow-developers.md) to ask questions about application development.
--   **![](../../../reuse/icons/brand-icons/bus-task-list.svg) [Phase 1: Planning your application](planning-applications.md)**
+    -   How to [Get a development instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../task/get-dev-instance.md) to practice creating applications.
+    -   How to find out [Licensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/licensing.md) for which application features require a subscription.
+    -   How to contact [Support for developers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/reference/r_support-servicenow-developers.md) to ask questions about application development.
+-   **![](../../../reuse/icons/brand-icons/bus-task-list.svg) [Phase 1: Planning your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/planning-applications.md)**
 
     The application development process starts with planning. Consider how the application will work, who will use it, and how it will improve your users' experience. Your application plan should answer the following questions:
 
@@ -69,7 +69,7 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
     -   What UI experience does the application use?
     -   Is there an existing application available on the ServiceNow Store or the ServiceNow Community that you can use or extend?
     -   What subscriptions does your application require?
--   **![](../../../reuse/icons/brand-icons/bus-application-development.svg) [Phase 2: Developing your application](developing-applications.md)**
+-   **![](../../../reuse/icons/brand-icons/bus-application-development.svg) [Phase 2: Developing your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developing-applications.md)**
 
     During the development phase, you add the components and content of your application. Most applications consist of the following:
 
@@ -91,34 +91,34 @@ Build apps smarter and deliver them faster with the new ServiceNow Studio. Servi
 
     Choose a builder that matches the type of user experience that your application provides.
 
-    -   See [Build apps using App Engine Studio](../../app-engine-studio/concept/aes-overview.md) to learn about low-code development.
+    -   See [Build apps using App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../app-engine-studio/concept/aes-overview.md) to learn about low-code development.
     -   See [Build workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-workflows.md) to learn about creating automation with Workflow Studio or Playbooks.
-    -   See [Builder library](builder-library-table.md) to learn about specialized application resources.
--   **![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) [Phase 3: Testing and debugging your application](testing-and-debugging-applications.md)**
+    -   See [Builder library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/builder-library-table.md) to learn about specialized application resources.
+-   **![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg) [Phase 3: Testing and debugging your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/testing-and-debugging-applications.md)**
 
     Verify that the application meets your business requirements. Your testing should cover the following elements:
 
     -   Record operations, such as create, read, update, and delete.
     -   User interface elements, such as views and UI policies.
     -   Runtime operations, such as business rules and event script actions.
--   **![](../../../reuse/icons/brand-icons/bus-rocketship.svg) [Phase 4: Deploying your application](deploying-applications.md)**
+-   **![](../../../reuse/icons/brand-icons/bus-rocketship.svg) [Phase 4: Deploying your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/deploying-applications.md)**
 
     After successfully testing an application, deploy it to your production environment with your builder tool.
 
-    -   See [Managing app development using the App Engine Management Center](../../app-engine-management-center/concept/managing-app-development-using-aemc.md) to learn about the App Engine Management Center
-    -   See [ServiceNow application repository](../../applications/concept/app-repo.md) to learn about the Application Repository.
-    -   See [System update sets](../../system-update-sets/concept/system-update-sets.md) to learn about classic deployment using update sets.
--   **![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) [Phase 5: Maintaining your application](maintaining-applications.md)**
+    -   See [Managing app development using the App Engine Management Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../app-engine-management-center/concept/managing-app-development-using-aemc.md) to learn about the App Engine Management Center
+    -   See [ServiceNow application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/app-repo.md) to learn about the Application Repository.
+    -   See [System update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../system-update-sets/concept/system-update-sets.md) to learn about classic deployment using update sets.
+-   **![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) [Phase 5: Maintaining your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/maintaining-applications.md)**
 
     Use your Phase 2 builder tool to update and modify your application. Use your Phase 3 testing tool to verify that your application still functions properly.
 
 
 ## Applications and features
 
--   [Learning about developing on the ServiceNow AI Platform](getting-started-with-building-applications.md)
--   [Planning your application](planning-applications.md)
--   [Developing your application](developing-applications.md)
--   [Testing and debugging applications](testing-and-debugging-applications.md)
--   [Deploying applications](deploying-applications.md)
--   [Maintaining your application](maintaining-applications.md)
+-   [Learning about developing on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/getting-started-with-building-applications.md)
+-   [Planning your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/planning-applications.md)
+-   [Developing your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/developing-applications.md)
+-   [Testing and debugging applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/testing-and-debugging-applications.md)
+-   [Deploying applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/deploying-applications.md)
+-   [Maintaining your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/maintaining-applications.md)
 

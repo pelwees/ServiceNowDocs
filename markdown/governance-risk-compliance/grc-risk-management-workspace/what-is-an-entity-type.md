@@ -21,12 +21,12 @@ For example, an organization can have multiple departments, such as finance, HR,
 
 Grouping entities also helps in rolling up and aggregating the risk scores after risk assessments are performed. To understand how grouping entities contribute to rolling up the risk scores, consider the following example. Assume that there's a banking organization called Acer Finance. Acer Finance has two business lines: Banking and Retail. The Banking division has further subdivisions such as Commercial Banking and Private Banking. The risk assessments are generally performed at the bottom-most level. In this example, the assessment is performed at the Commercial Banking and Private Banking levels. The reporting, however, is done at the top-most level. This means that the risk assessment scores of Commercial Banking and Private Banking will roll up and aggregate at the Banking level. Similarly, the scores of the Banking and Investment will roll up to the Acer Finance organization level.
 
-![Graphical representation of the given example](../image/entity-types-in-grc.png "Graphical representation of the example")
+![Graphical representation of the given example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-types-in-grc.png "Graphical representation of the example")
 
-**Parent Topic:**[Exploring the entities](manage-entities.md)
+**Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage-entities.md)
 
 **Related topics**  
 
 
-[Entity classes in GRC](entity-class.md)
+[Entity classes in GRC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/entity-class.md)
 

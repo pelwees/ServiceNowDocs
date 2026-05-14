@@ -27,7 +27,7 @@ Analyze the service issue in an incident, problem, or change record. Generate a 
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List Icon.](../../../common/image/icon-list.png)\)
+2.  Select the list icon \(![List Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../../../common/image/icon-list.png)\)
 
 3.  Navigate to **All** &gt; **Incidents** &gt; **All**.
 
@@ -87,10 +87,10 @@ A proactive case record is created and appears in the Affected customers section
 
 A proactive case record is created and appears in the Affected customers section.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/enhance-customer-impact-visibility-psew-process.md)
 

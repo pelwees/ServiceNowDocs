@@ -21,7 +21,7 @@ Role required: sn\_pace.code\_editor
 
 ## About this task
 
-**Important:** For further information about testing your policy script, see [Use the Test Playground for PaCE policies](../concept/pace-use-test-playground.md).
+**Important:** For further information about testing your policy script, see [Use the Test Playground for PaCE policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../concept/pace-use-test-playground.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: sn\_pace.code\_editor
 
     The following image shows a sample policy script.
 
-    ![Policy script.](../image/pace-policy-script-2.jpg)
+    ![Policy script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-policy-script-2.jpg)
 
     **Note:** The script is editable for policy versions in Draft state only. For policy versions in Current or Archived state, the script is read-only.
 

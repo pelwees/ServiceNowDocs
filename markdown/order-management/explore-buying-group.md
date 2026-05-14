@@ -40,6 +40,6 @@ Buying Groups represent the set of stakeholders involved in a B2B purchase decis
 
 The following topics provide more information about configuring and using Buying Group:
 
--   [Configuring Buying Group](configure-buying-group.md)
--   [Using Buying Group](using-buying-group.md)
+-   [Configuring Buying Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-buying-group.md)
+-   [Using Buying Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 

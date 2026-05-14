@@ -46,7 +46,7 @@ The group membership precedence only applies to items where the item did not pas
 
 The **Result** value determines the state. We ignore remediation tasks in the **Closed-Fixed** and **Closed-Canceled** state. The item state is computed from the states of all other remediation tasks it belongs to or is set to **Open**, if no other group exists for the item.
 
-![Remediation task order of precedence](../image/OrderOfPrecedence.png)
+![Remediation task order of precedence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/OrderOfPrecedence.png)
 
 ## Remediation Tasks creation
 

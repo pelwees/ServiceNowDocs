@@ -23,11 +23,11 @@ Role required: admin
 
 1.  Select the Map Configuration tab to display the Map configuration page.
 
-    **Note:** if the floor plan isn’t positioned on the map, georeference isn’t set \(![Georeference not set warning alert.](../images/wsd-warning-icon.png)\) alert is shown.
+    **Note:** if the floor plan isn’t positioned on the map, georeference isn’t set \(![Georeference not set warning alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-warning-icon.png)\) alert is shown.
 
 2.  Select Georeference, then select **Edit**.
 
-    ![Georeference and position your floor plan configuration page.](../images/wsd-georeference-option.png)
+    ![Georeference and position your floor plan configuration page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-georeference-option.png)
 
 3.  Move around the pins to position your floor plan on the map.
 
@@ -36,9 +36,9 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Parent Topic:**[Configure CAD objects using the Map Configuration tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/manage-cad-map-config.md)
 
-**Previous topic:**[Configure CAD objects using the Map Configuration tab](../concept/manage-cad-map-config.md)
+**Previous topic:**[Configure CAD objects using the Map Configuration tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/manage-cad-map-config.md)
 
-**Next topic:**[Configure layers](wsd-edit-layers.md)
+**Next topic:**[Configure layers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/wsd-edit-layers.md)
 

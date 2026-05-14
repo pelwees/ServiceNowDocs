@@ -35,16 +35,16 @@ Customer access management:
 
 |Task|Description|
 |----|-----------|
-|[Customer access management tables and plugins](../reference/csm-cust-access-mgmt-tables.md).|Add new tables or modify existing tables to enable customer access management.|
-|[Install roles with customer access management](../reference/r_rolesinstalledwithcustaccessmgmt.md).|Use different predefined functional and granular roles to establish relationships between users and entities.|
-|[Create a responsibility definition](../task/t_CreateAResponsibilityDefinition.md)|Define a role or responsibility that can support your organization and users in the Customer Service Management \(CSM\) application.|
-|[Configure access through the responsibility access configuration](../task/declarative-resposibility-framework.md)|Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the Customer Service Management \(CSM\) application.|
-|[Create related party configurations](../task/adding-related-party-config-to-case.md).|Link related party entity responsibilities to responsibility definitions by adding related party configurations to a case.|
+|[Customer access management tables and plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-cust-access-mgmt-tables.md).|Add new tables or modify existing tables to enable customer access management.|
+|[Install roles with customer access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_rolesinstalledwithcustaccessmgmt.md).|Use different predefined functional and granular roles to establish relationships between users and entities.|
+|[Create a responsibility definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_CreateAResponsibilityDefinition.md)|Define a role or responsibility that can support your organization and users in the Customer Service Management \(CSM\) application.|
+|[Configure access through the responsibility access configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/declarative-resposibility-framework.md)|Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the Customer Service Management \(CSM\) application.|
+|[Create related party configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/adding-related-party-config-to-case.md).|Link related party entity responsibilities to responsibility definitions by adding related party configurations to a case.|
 
 **Related topics**  
 
 
-[Data management for Customer Service Management](csm-data-management.md)
+[Data management for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-management.md)
 
-[Using customer access management](using-cam.md)
+[Using customer access management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-cam.md)
 

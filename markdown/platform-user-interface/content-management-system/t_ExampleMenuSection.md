@@ -50,5 +50,5 @@ For example, link behavior determines which page opens when the link is clicked 
     3.  Browse the catalog items.
 
 
-**Parent Topic:**[Example menu items and content links](../concept/c_NavigationMenusAndContentLinks.md)
+**Parent Topic:**[Example menu items and content links](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_NavigationMenusAndContentLinks.md)
 

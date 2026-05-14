@@ -154,5 +154,5 @@ Contains the templates which are used while sending a Notify SMS.
 </td></tr></tbody>
 </table>![](../image/ModelDiagram.png "Notify call sequence")
 
-**Parent Topic:**[Components installed with Notify](installed-with-notify2.md)
+**Parent Topic:**[Components installed with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-notify2.md)
 

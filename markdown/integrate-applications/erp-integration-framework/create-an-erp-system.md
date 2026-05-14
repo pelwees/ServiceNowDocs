@@ -36,18 +36,18 @@ Zero Copy Connector for ERP supports connecting to multiple systems.
 
 4.  On the form, fill in the fields.
 
-    ![new ERP system form.](../image/erpc-system-new-ys2.png)
+    ![new ERP system form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-system-new-ys2.png)
 
     **Note:** To use the HTTP connection option, you must have an SAP system that is enabled to make an OData connection.
 
-    For a description of the field values, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP new system field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-create-new-system-descriptions.md).
 
 5.  Select **Save**.
 
 
 ## Result
 
-After you create a system, you can view heartbeat and retrieval status on the ERP systems list page. For more information, see [View a list of Zero Copy Connector for ERP systems](view-and-monitor-erp-systems-health.md).
+After you create a system, you can view heartbeat and retrieval status on the ERP systems list page. For more information, see [View a list of Zero Copy Connector for ERP systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/view-and-monitor-erp-systems-health.md).
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-work-with-systems.md)
 

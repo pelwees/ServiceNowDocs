@@ -24,10 +24,10 @@ Role required: assessment\_admin or admin
 2.  When you are satisfied with the quiz, click **Save and Publish** or **Publish** to distribute it.
 
 
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 

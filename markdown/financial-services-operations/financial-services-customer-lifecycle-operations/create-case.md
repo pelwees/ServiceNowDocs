@@ -26,7 +26,7 @@ Role required:
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the upper right-hand corner, click **New**.
 
@@ -51,5 +51,5 @@ A Customer Lifecycle Operations case is created and assigned to an available age
 
 ## What to do next
 
-Continue to [Add contacts](create-contact.md).
+Continue to [Add contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/create-contact.md).
 

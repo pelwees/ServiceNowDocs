@@ -27,10 +27,10 @@ Role required: evt\_mgmt\_admin
 
 2.  Locate and select the **Event Management - Insert Health Monitor** job.
 
-    ![Event Management - Insert Health Monitor job script execution page](../image/EM-Insert-Health-monitor-job.png)
+    ![Event Management - Insert Health Monitor job script execution page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EM-Insert-Health-monitor-job.png)
 
 3.  Modify the scripts indicated in the **Run this script** field to determine what the scripts are to monitor.
 
 
-**Parent Topic:**[Self-health monitors for Event Management](../concept/self-monitoring.md)
+**Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/self-monitoring.md)
 

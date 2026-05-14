@@ -81,5 +81,5 @@ A new activity for an approval must be created so it can use the corresponding c
 -   **Activity** field set to **Approval**.
 -   **Configuration Type** field set to **Flow \(Template\)**.
 
-For more information about the Lifecycle Events activity creation process, see [Configure a lifecycle event activity](configure-hr-lifecycle-event-activity.md#).
+For more information about the Lifecycle Events activity creation process, see [Configure a lifecycle event activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity.md#).
 

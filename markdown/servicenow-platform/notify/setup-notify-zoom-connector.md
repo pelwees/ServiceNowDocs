@@ -50,10 +50,10 @@ Role required: notify\_setup\_admin, Zoom admin
 
 Configure Notify with the verification token from Zoom.
 
-**Parent Topic:**[Configure Notify Zoom connector in Notify](configure-notify-zoom-connector.md)
+**Parent Topic:**[Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md)
 
 **Related topics**  
 
 
-[Configure Notify Zoom connector in Notify](configure-notify-zoom-connector.md)
+[Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md)
 

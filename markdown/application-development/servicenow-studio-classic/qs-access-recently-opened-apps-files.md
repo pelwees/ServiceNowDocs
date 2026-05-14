@@ -41,12 +41,12 @@ Steps
 
 1.  Under **Recently opened files** or **Recently opened apps**, locate the app or file card you want to open.
 
-![Recently opened files and apps on the ServiceNow Studio home page.](../image/sn-studio-recently-opened.png)
+![Recently opened files and apps on the ServiceNow Studio home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-recently-opened.png)
 
 2.  Select anywhere in the card to open the app or file in a new tab in ServiceNow Studio.
 3.  To view a complete list of recently opened apps or files, select **View all** next to the appropriate category, then select the app or file in the **Label** column to open it.
 
-![On the Recents tab, select an app or file under the Label column to open it.](../image/sn-studio-recents-label-column.png)
+![On the Recents tab, select an app or file under the Label column to open it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-recents-label-column.png)
 
 </td></tr><tr><td id="d139093e182">
 
@@ -54,10 +54,10 @@ Steps
 
 </td><td>
 
-1.  In the Navigator panel, select the Recent icon ![Recent icon](../image/sn-studio-recents-icon.png) to view all recently opened apps and files.
+1.  In the Navigator panel, select the Recent icon ![Recent icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-recents-icon.png) to view all recently opened apps and files.
 2.  Select the app or file to open it in a new integrated tab.
 
-![The Navigator panel is open to the Recent tab, which displays recently opened apps and files.](../image/sn-studio-nav-panel-recent.png)
+![The Navigator panel is open to the Recent tab, which displays recently opened apps and files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-nav-panel-recent.png)
 
 3.  To view a complete list of recently opened apps and files, select **Open list**, then select the app or file in the **Label** column to open it.
 

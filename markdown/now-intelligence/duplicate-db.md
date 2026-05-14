@@ -32,11 +32,11 @@ When you duplicate a dashboard, you copy all settings and details of the origina
 
 3.  If you are in a different application scope than the dashboard, use the application picker to select the correct scope.
 
-    ![Application scope picker](../../par-for-workspace/image/app-scope-picker.png)
+    ![Application scope picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/app-scope-picker.png)
 
-4.  Open the More actions menu \(![More actions menu icon](../../dashboards/image/icon-vert-3dot-p.png)\) and select **Duplicate**.
+4.  Open the More actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/icon-vert-3dot-p.png)\) and select **Duplicate**.
 
-    ![Duplicate context action](../../par-for-workspace/image/db-duplicate.png)
+    ![Duplicate context action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-duplicate.png)
 
 5.  Give the duplicate a unique name and select **Duplicate**.
 
@@ -65,9 +65,9 @@ Role required: At least one role, as well as edit rights to the dashboard.
 
 3.  If you are in a different application scope than the dashboard, use the application picker to select the correct scope.
 
-    ![Application scope picker](../../par-for-workspace/image/app-scope-picker.png)
+    ![Application scope picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/app-scope-picker.png)
 
-4.  Select the **Edit** button \(![Edit button](../../dashboards/image/edit-button.png)\) to put the dashboard into edit mode.
+4.  Select the **Edit** button \(![Edit button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/edit-button.png)\) to put the dashboard into edit mode.
 
     If you don’t see the **Edit** button, either you don’t have permission to edit the dashboard, or it is in edit lock.
 
@@ -75,9 +75,9 @@ Role required: At least one role, as well as edit rights to the dashboard.
 
     This link is next to the dashboard's title.
 
-6.  Open the More actions menu \(![More actions menu icon](../../dashboards/image/icon-vert-3dot-p.png)\) on the original tab and select **Duplicate**.
+6.  Open the More actions menu \(![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/icon-vert-3dot-p.png)\) on the original tab and select **Duplicate**.
 
-    The copy of the tab has the default name **New Tab**. Select the pencil icon \(![Edit icon](../../dashboards/image/icon-pencil-ac.png)\) to rename the tab.
+    The copy of the tab has the default name **New Tab**. Select the pencil icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/icon-pencil-ac.png)\) to rename the tab.
 
 7.  Give the duplicate a unique name.
 

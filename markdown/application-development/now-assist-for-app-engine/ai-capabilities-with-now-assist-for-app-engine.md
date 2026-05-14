@@ -22,7 +22,7 @@ There are several types of AI capabilities that you can add to custom applicatio
 -   AI agents
 -   Agentic workflows
 
-The following sections describe what each capability is and how you can use it to enhance a custom application. To learn about which AI capability might be best for your custom application use case, see [Choosing the right AI capability](choosing-the-right-ai-capability.md).
+The following sections describe what each capability is and how you can use it to enhance a custom application. To learn about which AI capability might be best for your custom application use case, see [Choosing the right AI capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/choosing-the-right-ai-capability.md).
 
 ## Skills
 
@@ -94,7 +94,7 @@ Can be designed to work within custom apps during the creation process, when you
 </td></tr></tbody>
 </table>## Now Assist for App Engine custom app record summarization skill
 
-Starting with version 28.2.4 of Now Assist for App Engine, you can also use the custom app record summarization skill, which is a template skill available with Now Assist for App Engine. The skill enables you to generate AI summaries of records within custom apps and tables. You can configure the skill to summarize the tables and fields that you need, and you can choose how your app users interact with the skill through in-product UI or conversation in the Now Assist panel. For more information about the custom app record summarization skill, see [Custom app record summarization skill](custom-app-record-summarization-na-for-app-engine.md).
+Starting with version 28.2.4 of Now Assist for App Engine, you can also use the custom app record summarization skill, which is a template skill available with Now Assist for App Engine. The skill enables you to generate AI summaries of records within custom apps and tables. You can configure the skill to summarize the tables and fields that you need, and you can choose how your app users interact with the skill through in-product UI or conversation in the Now Assist panel. For more information about the custom app record summarization skill, see [Custom app record summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/custom-app-record-summarization-na-for-app-engine.md).
 
 ## AI agents
 

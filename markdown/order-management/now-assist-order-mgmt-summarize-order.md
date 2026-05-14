@@ -28,7 +28,7 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.order\_fulfilme
 
 3.  In the Customer Order summary by Now Assist, select **Summarize**.
 
-    ![Customer order summary.](../../tmt-order-mgt/image/na-om-summarize-order.png)
+    ![Customer order summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../tmt-order-mgt/image/na-om-summarize-order.png)
 
     The Customer Order summary by Now Assist appears above the activity stream. The component is collapsed by default and expands to display the summary. For longer summaries that don't fit in the window, select **View more** and use the scroll bar to view the rest of the content.
 
@@ -89,5 +89,5 @@ If you want to check details about the summary, select the more info icon ![](..
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-order-management-using.md)
 

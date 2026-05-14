@@ -19,7 +19,7 @@ Role required: admin.
 
 ## About this task
 
-![Upgrade progress bar](../image/progress-bar-phase-5.png)
+![Upgrade progress bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/progress-bar-phase-5.png)
 
 This instance naming convention assumes that you have three ServiceNow instances. If you have three instances, upgrade your instances in this order:
 

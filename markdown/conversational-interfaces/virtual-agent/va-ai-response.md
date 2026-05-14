@@ -62,7 +62,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 </td></tr></tbody>
 </table>## Example Text bot response control
 
-![Basic properties include the node name and how you want the LLM to respond. Advanced options include Hide this node.](../images/va-ai-response-llm-properties.png)
+![Basic properties include the node name and how you want the LLM to respond. Advanced options include Hide this node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-ai-response-llm-properties.png)
 
-**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

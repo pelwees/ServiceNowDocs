@@ -44,5 +44,5 @@ Hard links cannot be converted to soft links if they meet the following conditio
 
 Soft links can be converted to hard links only if the source node has at least one hard-linked record.
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 

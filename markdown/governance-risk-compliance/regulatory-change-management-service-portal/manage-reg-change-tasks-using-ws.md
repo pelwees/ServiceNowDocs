@@ -250,15 +250,15 @@ Attachments related to the task.
 
 8.  Select **Respond**.
 
-    The **Respond** action triggers the impact radius calculation in the background. For information on impact radius calculation, see [Impact radius for regulatory alerts of type regulatory event](../../grc-rcm/concept/impact-calculation-approval.md). The regulatory change task is updated with the **Responded** state.
+    The **Respond** action triggers the impact radius calculation in the background. For information on impact radius calculation, see [Impact radius for regulatory alerts of type regulatory event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm/concept/impact-calculation-approval.md). The regulatory change task is updated with the **Responded** state.
 
 9.  Add an action task if necessary.
 
-    See [Create a new action task for the alert](create-action-task-using-ws.md) for creating an action task.
+    See [Create a new action task for the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md) for creating an action task.
 
 10. Add issues if necessary.
 
-    See [Create or add an issue related to a regulatory task](create-an-issue-reg-change-comp-ws.md) for more information.
+    See [Create or add an issue related to a regulatory task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-an-issue-reg-change-comp-ws.md) for more information.
 
 11. After creating necessary action tasks and issues, select **Request Approval**.
 
@@ -271,5 +271,5 @@ Verify that the regulatory change task is updated with the **Responded** state a
 
 ## What to do next
 
-[Create a new action task for the alert](create-action-task-using-ws.md)
+[Create a new action task for the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md)
 

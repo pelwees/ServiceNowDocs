@@ -19,13 +19,13 @@ Test multiple Natural Language Understanding \(NLU\) models against a large set 
 
 Use Multi-model Batch Testing to create and upload test sets comprised of utterances and their expected intents. You can then run tests against your NLU models.
 
-Multi-model Batch Testing works with models for all supported NLU languages. See [NLU language support](nlu-language-support.md).
+Multi-model Batch Testing works with models for all supported NLU languages. See [NLU language support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-language-support.md).
 
 ## Installation
 
 Multi-model Batch Testing is part of the NLU Workbench - Advanced Features app available on the ServiceNow® Store.
 
-To use Multi-model Batch Testing, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](../task/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](../task/activate-nlu-workbench.md).
+To use Multi-model Batch Testing, ensure that the NLU Workbench - Advanced Features \(com.snc.nlu.workbench.advanced\) plugin is active on your instance. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/install-nlu-workbench-adv-features.md) and [Activate the NLU Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/activate-nlu-workbench.md).
 
 ## Test sets
 
@@ -37,9 +37,9 @@ By including these types of utterances, the test better assesses the model's abi
 
 **Note:** Certain test utterances are skipped during the test if their expected intent does not match any intents in the models.
 
-To create a test set, see [Create a test set](../task/import-batch-test-set.md).
+To create a test set, see [Create a test set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/import-batch-test-set.md).
 
-After you have a test set, you can test trained NLU models. To begin testing, see [Run a multi-model batch test](../task/run-batch-test.md).
+After you have a test set, you can test trained NLU models. To begin testing, see [Run a multi-model batch test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/run-batch-test.md).
 
 After running a test, your results appear on the **Test results** page.
 
@@ -47,7 +47,7 @@ After running a test, your results appear on the **Test results** page.
 
 The **Test results** page lists your completed and in-progress tests. At a glance, the results page shows the models tested against, the number of utterances, and prediction percentages.
 
-![Multi-model Batch Testing page with completed tests.](../images/batch-testing-nlu01.png)
+![Multi-model Batch Testing page with completed tests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/batch-testing-nlu01.png)
 
 To see the details of a test result, click the name of the test set.
 
@@ -59,5 +59,5 @@ The **Detailed results** tab lists information about each utterance that was tes
 
 You can also export the test results to a CSV file by clicking **Export**. The file includes the same columns as the detailed results page.
 
-For more information on understanding your test results, see [Test and publish your model](testing-your-model.md).
+For more information on understanding your test results, see [Test and publish your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md).
 

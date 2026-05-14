@@ -23,11 +23,11 @@ Role required: admin
 
     The email notifications originate from ServiceNow and the subject is `New Alert`.
 
-    ![Shows a sample email with a threshold alert.](../image/io-alert-notification-email.png)
+    ![Shows a sample email with a threshold alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-alert-notification-email.png)
 
 2.  Select the alert banner to be directed to the threshold chart in Instance Observer.
 
-    ![Shows a threshold chart in Instance Observer with an explanation of the threshold alert when hovering over an alert indicator.](../image/io-threshold-chart.png)
+    ![Shows a threshold chart in Instance Observer with an explanation of the threshold alert when hovering over an alert indicator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-threshold-chart.png)
 
 3.  Hover over an alert icon for general information about the anomaly.
 
@@ -35,23 +35,23 @@ Role required: admin
 
 5.  Select an entry to view the Summary of the root cause and metrics charts of where a potential issue may exist.
 
-    -   ![Shows the RCC summary report.](../image/io-RCC-report.png "Summary of the root cause correlation chart")
+    -   ![Shows the RCC summary report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-RCC-report.png "Summary of the root cause correlation chart")
 
-    -   ![Shows the metrics charts.](../image/io-metrics-charts.png "Metrics charts")
+    -   ![Shows the metrics charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-metrics-charts.png "Metrics charts")
 
     -   The available menu options vary based on the type of root cause correlation.
 6.  Sort the table by Created Date/Time to view the most recent entries chronologically.
 
 7.  Drill into the impacted node to the affected job.
 
-    ![Shows the jobs for impacted nodes for the alert threshold notification.](../image/io-impacted-job.png)
+    ![Shows the jobs for impacted nodes for the alert threshold notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-impacted-job.png)
 
 8.  Select the job to open the job details with granular transaction and log information.
 
-    ![Shows the selected job details expanded with transaction and log information.](../image/io-job-details.png)
+    ![Shows the selected job details expanded with transaction and log information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-job-details.png)
 
 9.  For further investigation, select **Create a Case** and submit the captured summary information.
 
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts-intro.md)
 

@@ -86,7 +86,7 @@ Active
 Select to set the configuration active.
 
 </td></tr></tbody>
-</table>    ![Knowledge Based Question Service Mapping](../images/configure-kba-question-answer-service.png "Knowledge Based Question Service Mapping")
+</table>    ![Knowledge Based Question Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/configure-kba-question-answer-service.png "Knowledge Based Question Service Mapping")
 
 4.  Select **Submit**.
 
@@ -95,5 +95,5 @@ Select to set the configuration active.
 
 You’re redirected to the Knowledge Based Question Service Mappings list view. Verify if your mapping is successfully added.
 
-![Knowledge Based Question Service Mapping - Result](../images/configure-kba-question-answer-service-result.png "Knowledge Based Question Service Mappings - list")
+![Knowledge Based Question Service Mapping - Result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/configure-kba-question-answer-service-result.png "Knowledge Based Question Service Mappings - list")
 

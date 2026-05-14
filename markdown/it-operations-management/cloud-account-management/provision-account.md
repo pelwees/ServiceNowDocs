@@ -17,7 +17,7 @@ Provision a cloud account as an admin through Cloud Workspace.
 
 ## Before you begin
 
-Confirm that the cloud context has been configured. For more information, see [Creating configurations](../concept/cam-config.md).
+Confirm that the cloud context has been configured. For more information, see [Creating configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/cam-config.md).
 
 Discovery must have been performed on the cloud admin portal.
 
@@ -64,7 +64,7 @@ Select an existing account from the drop-down list.
 
 </td><td>
 
-1.  Select the Create new billing account icon \(![Create new billing account icon](../../../reuse/icons/product-icons/plus-outline-24.svg)\).
+1.  Select the Create new billing account icon \(![Create new billing account icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/product-icons/plus-outline-24.svg)\).
 2.  Select **Single account**.
 3.  In the **Account name** field, enter the account name.
 4.  In the **Display name** field, enter the display name.
@@ -77,7 +77,7 @@ Select an existing account from the drop-down list.
 
 </td><td>
 
-1.  Select the Create new billing account icon \(![Create new billing account icon](../../../reuse/icons/product-icons/plus-outline-24.svg)\).
+1.  Select the Create new billing account icon \(![Create new billing account icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/product-icons/plus-outline-24.svg)\).
 2.  Select **Bulk upload**.
 3.  Search for and select the Tenant name.
 4.  Below the **Enter API response** field, select the link [Azure playground](https://learn.microsoft.com/en-us/rest/api/billing/billing-accounts/list?view=rest-billing-2024-04-01&tabs=HTTP#code-try-0).
@@ -114,7 +114,7 @@ Select an existing account.
 
 </td><td>
 
-1.  Select the Create new enrollment account icon \(![Create new enrollment account icon](../../../reuse/icons/product-icons/plus-outline-24.svg)\).
+1.  Select the Create new enrollment account icon \(![Create new enrollment account icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/product-icons/plus-outline-24.svg)\).
 2.  Select **Single account**.
 3.  In the **Account name** field, enter the account name.
 4.  In the **Display name** field, enter the display name.
@@ -128,7 +128,7 @@ Select an existing account.
 
 </td><td>
 
-1.  Select the Create new enrollment account icon \(![Create new enrollment account icon](../../../reuse/icons/product-icons/plus-outline-24.svg)\).
+1.  Select the Create new enrollment account icon \(![Create new enrollment account icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../../reuse/icons/product-icons/plus-outline-24.svg)\).
 2.  Select **Bulk upload**.
 3.  Search for and select the Tenant name.
 4.  Below the **Enter API response** field, select the link [Azure playground](https://learn.microsoft.com/en-us/rest/api/billing/enrollment-accounts/list-by-billing-account?view=rest-billing-2024-04-01&tabs=HTTP#code-try-0).

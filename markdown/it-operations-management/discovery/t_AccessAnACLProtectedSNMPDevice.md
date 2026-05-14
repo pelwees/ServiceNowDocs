@@ -39,11 +39,11 @@ A specific type of Access Control List \(ACL\) on an SNMP device can prevent Dis
 
         This action saves the record and creates the Discovery Functionality related list in the form.
 
-    3.  To complete this behavior \(as shown in [Figure 1](t_AccessAnACLProtectedSNMPDevice.md#f_DiscoveryBehaviorRecordACL)\) we must create functionalities using the MID Servers we installed for that purpose.
+    3.  To complete this behavior \(as shown in [Figure 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_AccessAnACLProtectedSNMPDevice.md#f_DiscoveryBehaviorRecordACL)\) we must create functionalities using the MID Servers we installed for that purpose.
 
         For the functionality that scans for the WMI protocol, we must define criteria that specify the Windows domain and MID Server being used. Because this Discovery is being performed on one Windows domain, we can configure a functionality for WMI and SSH \(**All except SNMP**\) using the same MID Server.
 
-    ![Discovery behaviors](../image/DiscoveryBehaviorRecordACL.png "Completed Discovery Behavior")
+    ![Discovery behaviors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryBehaviorRecordACL.png "Completed Discovery Behavior")
 
 4.  Define the functionalities.
 
@@ -63,7 +63,7 @@ A specific type of Access Control List \(ACL\) on an SNMP device can prevent Dis
         |Active|Make sure this check box is selected to enable this behavior.|
         |Match criteria|Leave the default criteria of Any. Criteria are not used for SNMP functionalities.|
 
-        ![Scan for SNMP Only](../image/DiscoveryFunctionalitySNMPOnly.png "Scan for SNMP Only")
+        ![Scan for SNMP Only](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryFunctionalitySNMPOnly.png "Scan for SNMP Only")
 
     3.  **Note:** In the second functionality, Discovery will scan our domain for WMI and SSH protocols. Because WMI is one of the protocols, the MID Server for this functionality must be installed on a Windows machine and must have criteria.
 
@@ -77,7 +77,7 @@ A specific type of Access Control List \(ACL\) on an SNMP device can prevent Dis
         |Active|Make sure this check box is selected to enable this behavior.|
         |Match criteria|Change the criteria to All.|
 
-        ![Scan for All Except SNMP](../image/DiscoveryFunctionalityAllExceptSNMP.png "Scan for All Except SNMP")
+        ![Scan for All Except SNMP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryFunctionalityAllExceptSNMP.png "Scan for All Except SNMP")
 
     4.  **Note:** Functionalities that scan for WMI require criteria to identify the domain and the MID Server. In our example, we will create two criteria for this functionality.
 
@@ -132,7 +132,7 @@ Be sure to enable the criteria by selecting this check box \(**true**\).
 </td></tr></tbody>
 </table>        The completed criteria appear as follows in the Discovery Functionality form for this behavior.
 
-        ![Functionality Criteria for a WMI Scan](../image/WMICriteria.png "Functionality Criteria for a WMI Scan")
+        ![Functionality Criteria for a WMI Scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/WMICriteria.png "Functionality Criteria for a WMI Scan")
 
 5.  Create the schedule.
 
@@ -154,17 +154,17 @@ Be sure to enable the criteria by selecting this check box \(**true**\).
 
     7.  Save the record.
 
-    ![Schedule Record](../image/DiscoveryBehaviorScheduleACL.png "Discovery Schedule Record")
+    ![Schedule Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryBehaviorScheduleACL.png "Discovery Schedule Record")
 
 
-**Parent Topic:**[Discovery behaviors](../concept/c_DiscoveryBehaviors.md)
+**Parent Topic:**[Discovery behaviors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryBehaviors.md)
 
 **Related topics**  
 
 
-[Create a Discovery behavior](create-disco-behavior.md)
+[Create a Discovery behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-disco-behavior.md)
 
-[Set up a load balancing behavior](t_SetUpLoadBalDiscoBehavr.md)
+[Set up a load balancing behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetUpLoadBalDiscoBehavr.md)
 
-[Examples of Discovery behavior functionalities](../reference/r_DefineTheFunctionalities.md)
+[Examples of Discovery behavior functionalities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DefineTheFunctionalities.md)
 

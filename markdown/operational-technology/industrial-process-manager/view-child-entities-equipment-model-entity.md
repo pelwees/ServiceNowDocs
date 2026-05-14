@@ -21,7 +21,7 @@ Role required: cmdb\_ot\_isa\_editor, cmdb\_ot\_isa\_admin.
 
 ## About this task
 
-You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin role is assigned to you. However, you can only access those sites that an administrator has granted access to, if the cmdb\_ot\_isa\_editor role is assigned to you. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](create-user-criteria-for-equipment-model-entity-site-users.md).
+You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin role is assigned to you. However, you can only access those sites that an administrator has granted access to, if the cmdb\_ot\_isa\_editor role is assigned to you. To learn more about granting site access, see [Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin 
 
 4.  To create a child entity, select the **Create new entity** button and fill in the details in the Create new entity form.
 
-    To learn more, see [Create an entity for a new equipment model](create-entity-new-equipment-model.md).
+    To learn more, see [Create an entity for a new equipment model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-entity-new-equipment-model.md).
 
 5.  To view the child entities for the equipment model entity, select **Child Entities**.
 
@@ -47,5 +47,5 @@ You can view equipment model entities for any site, if the cmdb\_ot\_isa\_admin 
     -   In the Equipment Model menu of the Industrial Workspace, the hierarchy of an equipment model entity is based on the Processing Order value assigned to the child entities.
     -   In the OT Risk Management tab, all equipment model entities are in sequence according to the Processing Order value assigned to the child entities.
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

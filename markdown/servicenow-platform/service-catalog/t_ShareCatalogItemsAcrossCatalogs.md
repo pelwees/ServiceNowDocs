@@ -36,5 +36,5 @@ To share a catalog item across several catalogs:
     The shared item then appears in the Catalog Items related list for each catalog selected.
 
 
-**Parent Topic:**[Add a catalog item](t_AssignItemToAddlCatalogsCategory.md)
+**Parent Topic:**[Add a catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AssignItemToAddlCatalogsCategory.md)
 

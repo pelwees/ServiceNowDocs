@@ -59,10 +59,10 @@ Select one of the following:-   APW Default
 -   Default
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Create workspace view rules for new planning item forms in Strategic Planning](../task/create-workspace-view-rules-for-planning-item-tables.md)
+[Create workspace view rules for new planning item forms in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/create-workspace-view-rules-for-planning-item-tables.md)
 

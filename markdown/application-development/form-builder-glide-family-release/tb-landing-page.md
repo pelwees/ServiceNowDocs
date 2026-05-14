@@ -23,15 +23,15 @@ The Table Builder for App Engine application has been combined with the standalo
 
 <table id="table_bxf_yg5_jsb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Table Builder concepts and features.](exploring-fb.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Table Builder concepts and features.](exploring-fb.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-workflow.svg) Manage tables, forms, and related policies and rules using Table Builder.](using-fb.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../reuse/icons/brand-icons/bus-workflow.svg) Manage tables, forms, and related policies and rules using Table Builder.](using-fb.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Table Builder components like field properties and properties for policies and rules.](fb-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Table Builder components like field properties and properties for policies and rules.](fb-reference.md)
 
 </td></tr></tbody>
 </table>## Get help with Table Builder

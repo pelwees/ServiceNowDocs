@@ -347,5 +347,5 @@ Domain id
 Domain to which the deal registration belongs
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 

@@ -57,7 +57,7 @@ Create a success blueprint template with predefined success objectives and outco
     -   Select **Cancel** to cancel a success outcome template that hasn’t been approved. You see a message indicating that all associated tasks will be canceled and any progress is lost. Select **Yes** if you no longer want to use this template.
 12. After you have created and published all the success outcome templates, select **Request for approval**.
 
-    ![Success Objective Template](../image/account-lifecycle-success-obj-temp.png)
+    ![Success Objective Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-success-obj-temp.png)
 
     **Note:**
 
@@ -77,7 +77,7 @@ To approve a success blueprint template request, follow these steps:
 2.  Navigate to **All** &gt; **Customer Success** &gt; **Success Objective Templates**.
 3.  Open the template with the `Waiting for approval` State.
 
-    ![Success Objective Template - Approve](../image/account-lifecycle-success-obj-temp-appr.png)
+    ![Success Objective Template - Approve](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-success-obj-temp-appr.png)
 
 4.  Select **Approve** to approve the template. The State is changed to `Approved`.
 
@@ -100,12 +100,12 @@ To configure the success initiatives decision table, follow these steps:
 2.  Select the **Success Initiative Blueprints** decision table.
 3.  In the Success initiative creation subflow column, add multiple subflows for the Success outcome template.
 
-    ![Success Initiative Blueprints.](../image/ale-success-initiative-blueprints.png)
+    ![Success Initiative Blueprints.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/ale-success-initiative-blueprints.png)
 
 4.  Select **Save**.
 
--   **[Create a success blueprint](account-lifecycle-create-blueprint.md)**  
+-   **[Create a success blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-blueprint.md)**  
 Use this option to create a success blueprint to add success objectives and outcomes for the engagement.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-config-cust-success.md)
 

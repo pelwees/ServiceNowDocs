@@ -51,11 +51,11 @@ Steps
 2.  In the Variables form, complete any of the following actions:
 
     -   To modify the request details, update fields as needed.
-    -   To add custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](submit-legal-dft-request.md#).
+    -   To add custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/submit-legal-dft-request.md#).
     -   To remove all custodial data, click **Remove All**.
-    -   To add non-custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](submit-legal-dft-request.md#).
+    -   To add non-custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/submit-legal-dft-request.md#).
     -   To remove all non-custodial data, click **Remove All**.
-    -   To add multiple custodial or non-custodial data from a file in one go, click **Upload**. For more information, see [Add custodial and non-custodial data from a file](submit-legal-dft-request.md#).
+    -   To add multiple custodial or non-custodial data from a file in one go, click **Upload**. For more information, see [Add custodial and non-custodial data from a file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/submit-legal-dft-request.md#).
 .
 
 3.  Click **Save**.
@@ -92,9 +92,9 @@ Steps
 
 </td><td>
 
--   To upload a new document, select the add attachment icon \(![Add attachment icon.](../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
--   To rename an attached file, select the edit file name icon \(![Edit file name icon.](../image/rename-icon.png)\) and update the file name.
--   To remove an attached file, select the delete icon \(![Delete icon.](../image/delete-icon.png)\).
+-   To upload a new document, select the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
+-   To rename an attached file, select the edit file name icon \(![Edit file name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/rename-icon.png)\) and update the file name.
+-   To remove an attached file, select the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/delete-icon.png)\).
 
 
 </td></tr><tr><td id="d231145e304">
@@ -111,10 +111,10 @@ A link to the document is listed in the **External URL** column of the documents
 
 
 </td></tr></tbody>
-</table>8.  In the **Custodial Data** tab, view the existing custodians added to the request or export to a file by clicking the more options icon \(![More options icon.](../../wsd-for-mobile/images/more-options-icon.png)\).
+</table>8.  In the **Custodial Data** tab, view the existing custodians added to the request or export to a file by clicking the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../wsd-for-mobile/images/more-options-icon.png)\).
 
-9.  In the **Non-Custodial Data** tab, view the existing non-custodial data added to the request or export to a file by clicking the more options icon \(![More options icon.](../../wsd-for-mobile/images/more-options-icon.png)\).
+9.  In the **Non-Custodial Data** tab, view the existing non-custodial data added to the request or export to a file by clicking the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../wsd-for-mobile/images/more-options-icon.png)\).
 
 
-**Parent Topic:**[Submitting digital forensics requests](../concept/submitting-legal-dft-request.md)
+**Parent Topic:**[Submitting digital forensics requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/submitting-legal-dft-request.md)
 

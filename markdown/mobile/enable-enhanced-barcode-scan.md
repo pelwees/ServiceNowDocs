@@ -89,9 +89,9 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**.
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -190,5 +190,5 @@ Mobile application to which you want to send the mobile property. This setting l
 -   To confirm that the properties have been added, make sure they appear in the Mobile Properties list after you select **Submit**.
 -   End users must pull to refresh and get the latest feature configurations.
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md)
 

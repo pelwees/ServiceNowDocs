@@ -19,6 +19,6 @@ To fetch all the attributes from an IdP through the SAML and OIDC response, you 
 
 For more information see the following topics:
 
--   [Identity Provider attributes for Security Assertion Markup Language](idp-attributes-saml.md)
--   [Identity Provider attributes for OpenID Connect](idp-attributes-oidc.md)
+-   [Identity Provider attributes for Security Assertion Markup Language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/idp-attributes-saml.md)
+-   [Identity Provider attributes for OpenID Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/idp-attributes-oidc.md)
 

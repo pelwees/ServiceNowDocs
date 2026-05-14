@@ -17,7 +17,7 @@ Individual life claims contain personal or sensitive data fields that may requir
 
 ## Overview of encrypting data in Individual Life Claims
 
-The Individual Life Claims data model enables you to record the details for individual benefits claims. Individual Life Claims includes a death benefit claim workflow that covers the entire claim life cycle, from the first-notice-of-loss \(FNOL\) to the case closure. For more information, see [Individual Life Claims workflows](individual-life-claims-workflows.md).
+The Individual Life Claims data model enables you to record the details for individual benefits claims. Individual Life Claims includes a death benefit claim workflow that covers the entire claim life cycle, from the first-notice-of-loss \(FNOL\) to the case closure. For more information, see [Individual Life Claims workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/individual-life-claims-workflows.md).
 
 You may choose to encrypt fields that contain sensitive data by using Column Level Encryption.
 
@@ -39,5 +39,5 @@ The following table lists some fields that can contain sensitive data.
 
 Fields in Individual Life Claims can be encrypted by using Field Encryption. For more information, see [Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md).
 
-**Parent Topic:**[Setting up Individual Life Claims](setting-up-individual-life-claims.md)
+**Parent Topic:**[Setting up Individual Life Claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/setting-up-individual-life-claims.md)
 

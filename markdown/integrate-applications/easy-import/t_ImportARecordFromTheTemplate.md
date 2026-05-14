@@ -30,7 +30,7 @@ Role required: admin.
     |**List v2**|Right-click the column heading and select **Import**|
     |**List v3**|Open the list title menu and select **Import**.|
 
-    ![Import template insert or update records](../image/ImportTemplateInsertOrUpdateRecords.png)
+    ![Import template insert or update records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../image/ImportTemplateInsertOrUpdateRecords.png)
 
 3.  From Insert or update, select the import type.
 
@@ -43,5 +43,5 @@ Role required: admin.
     If the template passes validation and the imported preview matches your expectations, click **Complete Import** to import records into the current table. If the template fails validation, review the errors. Click **Ignore Errors and Complete Import** to continue the import by skipping any bad data cells.
 
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../concept/c_EasyImport.md)
 

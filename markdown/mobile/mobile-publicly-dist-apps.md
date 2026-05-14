@@ -25,7 +25,7 @@ The ServiceNow® branding program complies with the suggested practices from App
 
 The following image summarizes the workflow. It usually takes about 1 week to build the iOS app for public distribution.
 
-![Public publishing process for iOS branded apps.](../image/mobile-ios-public-brand-app-process.png "iOS branded app publishing process for public distribution")
+![Public publishing process for iOS branded apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-ios-public-brand-app-process.png "iOS branded app publishing process for public distribution")
 
 ## Android branded apps for public distribution
 
@@ -33,7 +33,7 @@ The ServiceNow branding program also complies with the suggested practices from 
 
 The following image summarizes the workflow. It usually takes about a week or less to build the Android branded application. Sometimes it might take only a few hours.
 
-![Public publishing process for Android branded apps.](../image/mobile-android-public-brand-app-proc.png "Android branded app publishing process for public distribution")
+![Public publishing process for Android branded apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-android-public-brand-app-proc.png "Android branded app publishing process for public distribution")
 
-**Parent Topic:**[Distributing your mobile app](mobile-distribution.md)
+**Parent Topic:**[Distributing your mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-distribution.md)
 

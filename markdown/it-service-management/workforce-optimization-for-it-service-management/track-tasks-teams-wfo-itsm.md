@@ -17,7 +17,7 @@ Plan your teams' work and assign work items such as incidents, problems, change 
 
 ## Before you begin
 
-**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for ITSM reference](../reference/work-scheduler-wfo-itsm-reference.md).
+**Note:** Your administrator must add sys ids for event categories that you want to display in the calendar to the **sn\_wfo\_work\_sched.shift\_data\_categories** system property. For more information, see [Work Scheduler components in Workforce Optimization for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/work-scheduler-wfo-itsm-reference.md).
 
 Role required: sn\_wfo\_work\_sched.manager
 
@@ -37,8 +37,8 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 2.  Select the **Work Scheduler** icon.
 
     -   You can view the work shifts of all of your agents for all teams you manage. When you select the shift, the pop-up displays the shift details such as the shift time span and agent break times.
-    -   In the contextual side panel, select the Filter icon \( ![Filter icon](../../service-operations-workspace/image/filter-icon.png)\) and then select any filter, add the desired criteria, and select **Apply** to narrow down the display of the team members in the calendar. You can filter based on your team's assignment group, skills, location, schedule plan, or shift plan.
-3.  If you don’t have any queue configurations in the Work scheduler, select the queue settings icon \(![Queue filter icon](../image/queuefilter.png)\) and then enable up to five work item types.
+    -   In the contextual side panel, select the Filter icon \( ![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../service-operations-workspace/image/filter-icon.png)\) and then select any filter, add the desired criteria, and select **Apply** to narrow down the display of the team members in the calendar. You can filter based on your team's assignment group, skills, location, schedule plan, or shift plan.
+3.  If you don’t have any queue configurations in the Work scheduler, select the queue settings icon \(![Queue filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/queuefilter.png)\) and then enable up to five work item types.
 
     The application creates a queue configuration and corresponding filters for each enabled work item type.
 
@@ -84,7 +84,7 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
         -   **WFO - Mandatory skills**— If the task has mandatory and optional skills associated with it, the work scheduler displays agents who have all of the mandatory skills first and then the agents who have the optional skills.
         -   **WFO - Optional skills**— If the task only has optional skills associated with it, then the list displays the agents with the optional skills.
         -   **WFO- Timezone overlap**—The delta between the task time zone and the user's time zone. For example, if the user is located in the Pacific time zone and if the task location is in the Eastern time zone, then it will display as **+3**; if the task location is Hawaii, then it will display as **-3**.
-        To add your own matching rule, see [Create a criteria for a matching rule in Work scheduler](assignment-rules-work-scheduler-wfo-itsm.md).
+        To add your own matching rule, see [Create a criteria for a matching rule in Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/assignment-rules-work-scheduler-wfo-itsm.md).
 
         All of these criteria are based on the **More is better** ranking method where a higher value is better. For example, when the WFO-Mandatory skills criteria is enabled, team members that have more skills that are mandatory to work on the work item will be ranked higher.
 
@@ -110,8 +110,8 @@ Analyze the tasks that your agents are assigned to and their actual shift plans.
 
     The image below is a representation of the Work scheduler screen.
 
-    ![Work Scheduler screen](../image/work-scheduler-ui.png)
+    ![Work Scheduler screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/work-scheduler-ui.png)
 
 
-**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](../concept/work-scheduler-wfo-itsm.md)
+**Parent Topic:**[Assigning work using Work Scheduler in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/work-scheduler-wfo-itsm.md)
 

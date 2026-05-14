@@ -43,5 +43,5 @@ This section includes the Customer Success Management tables.
 |Applicable team members|Associates team members with an engagement.|
 |Applicable customer team|Associate a customer team with an engagement.|
 
-**Parent Topic:**[Customer Success Management reference](account-lifecycle-reference.md)
+**Parent Topic:**[Customer Success Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-reference.md)
 

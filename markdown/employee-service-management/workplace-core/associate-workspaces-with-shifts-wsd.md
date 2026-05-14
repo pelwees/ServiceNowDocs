@@ -17,7 +17,7 @@ Associate work areas and spaces with a shift in Workplace Core so that they are 
 
 ## Before you begin
 
--   [Define shifts for your workplace](create-shifts-wsd.md).
+-   [Define shifts for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-shifts-wsd.md).
 -   Ensure you have the data for the workplaces to be made available for this shift.
 -   Ensure that the glide.ui.list.allow\_extended\_fields system property is set to **true** so that the filter criteria is displayed appropriately when you're adding areas or spaces.
 
@@ -38,7 +38,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 ## What to do next
 
-[Create workplace reservations for an employee](reserve-workspaces-for-employees-wsd.md).
+[Create workplace reservations for an employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-workspaces-for-employees-wsd.md).
 
-**Parent Topic:**[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+**Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/configuring-shifts-for-your-workplace-wsd.md)
 

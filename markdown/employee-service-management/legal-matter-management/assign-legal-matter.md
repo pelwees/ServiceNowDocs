@@ -27,7 +27,7 @@ During the creation of a legal matter either directly or by promoting a legal re
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **Legal Matters**, click **Unassigned**.
 
@@ -51,7 +51,7 @@ The legal matter is assigned to the selected member of the user group. The state
 
 ## What to do next
 
-The assigned member can start [working on the legal matter](work-on-legal-matter-1.md).
+The assigned member can start [working on the legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/work-on-legal-matter-1.md).
 
-**Parent Topic:**[Using Legal Matter Management](lmm-use-landing.md)
+**Parent Topic:**[Using Legal Matter Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-use-landing.md)
 

@@ -19,8 +19,8 @@ As a product owner or a team lead, these indicators help you understand if your 
 
 **Note:** You must enter a value for the **Planned end date** field for an Agile Development 2.0 epic for these work progress status indicators to populate.
 
--   **[Reviewing progress status for Agile Development 2.0 epics](review-work-progress-status-in-agile-2.0.md)**  
+-   **[Reviewing progress status for Agile Development 2.0 epics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/review-work-progress-status-in-agile-2.0.md)**  
 Understand if your work would be completed by the planned end dates by reviewing progress status of your Agile Development 2.0 epics.
 
-**Parent Topic:**[Agile Development](../../agile-development/concept/agile-development.md)
+**Parent Topic:**[Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/agile-development.md)
 

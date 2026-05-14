@@ -36,12 +36,12 @@ Available as an Workflow Studio action step. Users with the action\_designer rol
 
     Data type: **Choice**
 
-    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](../concept/action-error-evaluation.md).
+    Option to continue running the next step or go to error evaluation. To use the step status code or message for a custom action error condition, see [Action error evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/action-error-evaluation.md).
 
 
 ## Example
 
-![Example Delete Multiple Records step.](../images/delete-multiple-records-action-designer.png)
+![Example Delete Multiple Records step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/delete-multiple-records-action-designer.png)
 
 **Note:** The example is for illustration purposes only.
 
@@ -97,5 +97,5 @@ The completion status of the step as a numeric value.-   0 \(success\)
 Choice
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow Studio steps](../concept/steps.md)
+</table>**Parent Topic:**[Workflow Studio steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/steps.md)
 

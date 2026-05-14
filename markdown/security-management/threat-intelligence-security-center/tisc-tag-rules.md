@@ -291,7 +291,7 @@ If this check box isn't selected, spaces are preserved and treated as part of th
         -   Applied tags
         -   Applied taxonomy values
 
-            ![TISC Tagging Rules - Activity Stream](../image/tisc-tag-rule-activity-stream.png)
+            ![TISC Tagging Rules - Activity Stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-tag-rule-activity-stream.png)
 
 
 If multiple rules are triggered, each rule appears as a separate row. When multiple tags and taxonomies values are applied by a single rule, they are listed as comma-separated values with tags and taxonomies separately applied by each tagging rule. When multiple tagging rules utilize the same tags or taxonomies values, the application ensures that duplicate tags and taxonomies are automatically managed. This prevents the same tag or taxonomy from being applied more than once to an RSS Feed record.

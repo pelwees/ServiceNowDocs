@@ -43,5 +43,5 @@ else
     result = hasMonetary ? monetaryBenefitSum : nonMonetaryBenefitSum;
 ```
 
-**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 

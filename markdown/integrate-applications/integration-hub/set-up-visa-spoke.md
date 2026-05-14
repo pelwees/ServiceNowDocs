@@ -83,8 +83,8 @@ You can create a custom HTTPS protocol profile to specify the credentials and ce
 ### Before you begin
 
 -   Role required: admin
--   [Upload client certificate to your instance](set-up-visa-spoke.md#) to authenticate the client certificate of the instance.
--   [Upload a trusted server certificate](set-up-visa-spoke.md#) to authenticate the server certificate of the web service provider.
+-   [Upload client certificate to your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-visa-spoke.md#) to authenticate the client certificate of the instance.
+-   [Upload a trusted server certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-visa-spoke.md#) to authenticate the server certificate of the web service provider.
 
 ### Procedure
 

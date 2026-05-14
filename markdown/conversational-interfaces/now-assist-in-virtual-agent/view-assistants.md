@@ -18,7 +18,7 @@ View and manage all existing chat and voice assistants on your instance.
 
 ## Before you begin
 
-See [Configuring assistants overview](configure-now-assist-va.md).
+See [Configuring assistants overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 To view the **Assistants** tab in Assistant Designer, verify that the Now Assist for Platform plugin is installed. The plugin comes with Now Assist products such as Now Assist for ITSM, Now Assist for CSM, and others.
 
@@ -42,7 +42,7 @@ Role required: virtual\_agent\_admin or admin
 
 By default, chat assistants and voice assistants are shown as cards. Voice assistants show a voice label and icon on the card. Voice assistants can only be edited. They can’t be tested in Assistant Designer at the moment.
 
-![View chat and voice assistants in card view.](../image/NAinVA-employee-slate-052026.png "Assistant card view")
+![View chat and voice assistants in card view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-employee-slate-052026.png "Assistant card view")
 
 Assistants are shown in card view and in map view.
 
@@ -64,7 +64,7 @@ Assistants are shown in card view and in map view.
         -   **Update set: Default \[Global\]** determines where updates are made on the instance are saved.
     -   For more information on domain separation, see [Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md) and [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md).
 
-Select the **View as cards** drop-down menu to toggle to the map view. The linkage between primary and secondary assistants is shown. For general information about primary and secondary assistants, see [LLM assistants](../concept/llm-assistants.md).
+Select the **View as cards** drop-down menu to toggle to the map view. The linkage between primary and secondary assistants is shown. For general information about primary and secondary assistants, see [LLM assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/llm-assistants.md).
 
 -   In the map view, primary assistants on the top row show secondary assistants that are linked to them.
 -   Green indicates that the assistant is turned on. Gray indicates that the assistant is turned off.
@@ -73,7 +73,7 @@ The side panel shows where you left off, recent activity, and resources. The lin
 
 To change the LLM provider for all assistants on the instance, select **Customize** &gt; **Edit provider for a skill group** &gt; **AI agents**.
 
-![Select LLM provider from a drop-down list.](../image/NAinVA-LLM-provider.png "Change LLM provider for an assistant")
+![Select LLM provider from a drop-down list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-LLM-provider.png "Change LLM provider for an assistant")
 
 ## Procedure
 
@@ -81,40 +81,40 @@ To change the LLM provider for all assistants on the instance, select **Customiz
 
     The new assistant is a Now Assist in Virtual Agent assistant.
 
-    ![Create a chat or voice assistant.](../image/NAinVA-create-assistant-122025.png "Create an assistant")
+    ![Create a chat or voice assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-create-assistant-122025.png "Create an assistant")
 
     The assistant creation flow launches where you can choose between a chat-based assistant or a voice-based assistant.
 
-    ![Select a chat or voice assistant.](../image/NAinVA-select-assistant-122025.png "Select a chat or voice assistant")
+    ![Select a chat or voice assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-select-assistant-122025.png "Select a chat or voice assistant")
 
     Follow the procedures to set up your chat assistant or voice assistant.
 
 2.  To set up your chat assistant, see:
 
-3.  1.  [Create a chat assistant](create-assistant.md).
-2.  [Use agentic support for a chat assistant](use-agentic-support.md).
-3.  [Assign search sources to a chat assistant](add-info-sources-assistant.md).
-4.  [Add a Knowledge Graph schema to a chat assistant](add-kg-schema-assistant.md).
-5.  [Add assets to a chat assistant](add-assets.md).
-6.  [Display your chat assistant on a portal, channel, or mobile app](display-assistant-portal-channel.md).
-7.  For Now Assist panel assistants, see [Display your assistant on Platform or ServiceNow Studio](display-nap-assistant.md).
-8.  [Brand an assistant](brand-assistant.md).
-9.  [Enable additional chat features](additional-chat-features.md).
-10. [Manage an assistant chat experience](manage-assistant-chat-experience.md).
-11. [Review chat assistant settings](review-assistant-settings.md).
-12. [Test a chat assistant](test-assistant.md).
-13. [Edit a chat assistant](edit-assistant.md).
-14. [Manage response feedback](manage-sentiment-survey.md).
-4.  To set up your voice assistant, see [Create a voice assistant](configure-voice-assistants.md).
+3.  1.  [Create a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/create-assistant.md).
+2.  [Use agentic support for a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/use-agentic-support.md).
+3.  [Assign search sources to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-info-sources-assistant.md).
+4.  [Add a Knowledge Graph schema to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-kg-schema-assistant.md).
+5.  [Add assets to a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/add-assets.md).
+6.  [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md).
+7.  For Now Assist panel assistants, see [Display your assistant on Platform or ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-nap-assistant.md).
+8.  [Brand an assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
+9.  [Enable additional chat features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/additional-chat-features.md).
+10. [Manage an assistant chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-assistant-chat-experience.md).
+11. [Review chat assistant settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/review-assistant-settings.md).
+12. [Test a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/test-assistant.md).
+13. [Edit a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/edit-assistant.md).
+14. [Manage response feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/manage-sentiment-survey.md).
+4.  To set up your voice assistant, see [Create a voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-voice-assistants.md).
 
-    To test your voice assistant, see [Test a voice assistant](test-a-voice-assistant.md).
+    To test your voice assistant, see [Test a voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/test-a-voice-assistant.md).
 
 5.  Select the ellipsis to activate, deactivate, or delete an assistant.
 
 
 ## What to do next
 
-For chat assistants, see [Create a chat assistant](create-assistant.md).
+For chat assistants, see [Create a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/create-assistant.md).
 
-For voice assistants, see [Create a voice assistant](configure-voice-assistants.md).
+For voice assistants, see [Create a voice assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-voice-assistants.md).
 

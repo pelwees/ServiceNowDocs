@@ -24,7 +24,7 @@ This task explains how to configure the frequency for assessment and validation 
 
 **Note:** Models with customized frequencies at the model risk record level aren’t affected.
 
-To manually schedule assessment and validation tasks from the model risk record, refer to [Schedule assessment and validation tasks](schedule-assessment-and-validation-tasks.md).
+To manually schedule assessment and validation tasks from the model risk record, refer to [Schedule assessment and validation tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/schedule-assessment-and-validation-tasks.md).
 
 ## Procedure
 

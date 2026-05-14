@@ -17,7 +17,7 @@ Create your notification for Microsoft Teams.
 
 ## Before you begin
 
-Make sure you configured your SN platform for MS Teams. For more info, [Configure for MS Teams Integration](cim-ms-teams-integration.md).
+Make sure you configured your SN platform for MS Teams. For more info, [Configure for MS Teams Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cim-ms-teams-integration.md).
 
 Role required: pki\_admin or admin
 

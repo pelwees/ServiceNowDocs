@@ -17,9 +17,9 @@ View average age and number of reassignments and breakdown incidents in the New,
 
 **Important:**
 
-Starting in Xanadu release, the Open Incident State Monitor dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the average age and number of reassignments and breakdown incidents in the New, In Progress, and On Hold states.
+Starting in Xanadu release, the Open Incident State Monitor dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/performance-analytics/incident.md) to view the average age and number of reassignments and breakdown incidents in the New, In Progress, and On Hold states.
 
-![Open Incident State Monitor workbench widget](../image/open-incident-state-monitor.png "Open Incident State Monitor")
+![Open Incident State Monitor workbench widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/open-incident-state-monitor.png "Open Incident State Monitor")
 
 ## End user and roles
 
@@ -64,5 +64,5 @@ The following indicators are not shown directly on the dashboard but are used in
 -   Assignment Group
 -   State
 
-**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](incident-content-pack.md)
+**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 

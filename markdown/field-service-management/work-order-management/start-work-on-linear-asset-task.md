@@ -42,13 +42,13 @@ Role required: wm\_agent
 
 7.  Open the asset page and review the asset details by tapping the selected segment.
 
-8.  View the linear asset segment on the map by tapping the Google Maps launcher icon \(![Google Maps launcher icon](../image/mab-icon-launch-weblink-sol.png)\) in the Start location field.
+8.  View the linear asset segment on the map by tapping the Google Maps launcher icon \(![Google Maps launcher icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/mab-icon-launch-weblink-sol.png)\) in the Start location field.
 
     The map launches and the linear asset location is displayed. The linear segment is highlighted in dark blue color for better identification.
 
 9.  Provide additional information about the affected linear asset by tapping **Take questionnaire**.
 
-    For more information, see [Complete a questionnaire for a work order task](complete-questionnaire-mobile-app.md).
+    For more information, see [Complete a questionnaire for a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/complete-questionnaire-mobile-app.md).
 
 10. If you identify an issue for a linear asset when inspecting a segment, create a new work order.
 

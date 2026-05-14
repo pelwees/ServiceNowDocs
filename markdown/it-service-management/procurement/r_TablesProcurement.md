@@ -56,5 +56,5 @@ Receiving Slip Line \[proc\_rec\_slip\_item\]
 Stores receiving information for items ordered on a specific purchase order line, such as the items ordered, quantity ordered, and who ordered them.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Procurement](r_InstalledWithProcurement.md)
+</table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 

@@ -50,5 +50,5 @@ The default ServiceNow Spotlight criteria are given in the following tables.
 |3-ess critical|80|
 |4-not critical|20|
 
-**Parent Topic:**[Working with ServiceNow Spotlight feature](spotlight-ac.md)
+**Parent Topic:**[Working with ServiceNow Spotlight feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/spotlight-ac.md)
 

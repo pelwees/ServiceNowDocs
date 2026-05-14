@@ -33,22 +33,22 @@ To grant the admin role to a user, the granting user must also have the admin ro
 -   To grant the security\_admin role to a user, the granting user must also have the admin role and must elevate to the security\_admin role before granting the security\_admin role to other users. A user with only the admin role cannot grant the security\_admin role to other users.
 -   A user without the security\_admin role cannot add a user to a group that contains the security\_admin role.
 
-**Warning:** The use of elevated privilege on an admin role is not supported. Instead, require admins to manually elevate, see [Force administrators to manually elevate](../task/t_ForceAdmManElev.md)
+**Warning:** The use of elevated privilege on an admin role is not supported. Instead, require admins to manually elevate, see [Force administrators to manually elevate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ForceAdmManElev.md)
 
 ## The security\_admin role
 
-In the base system, the security\_admin role is the only role that has elevated privileges. This role is automatically assigned to the user who is the default System Administrator \(admin\) user. It provides access to [ACLs](../../contextual-security/concept/access-control-rules.md) and [High Security Settings](c_HighSecuritySettings.md).
+In the base system, the security\_admin role is the only role that has elevated privileges. This role is automatically assigned to the user who is the default System Administrator \(admin\) user. It provides access to [ACLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../contextual-security/concept/access-control-rules.md) and [High Security Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md).
 
-![The list of roles assigned to the System Administrator user](../image/elevated-privilege-role.png "Roles assigned to the System Administrator (admin) user")
+![The list of roles assigned to the System Administrator user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/elevated-privilege-role.png "Roles assigned to the System Administrator (admin) user")
 
 **Note:** To see this role, you must actually elevate to the security\_admin role first. If you are logged in as the System Administrator \(admin\) user only, you cannot see the security\_admin record in the list of roles.
 
--   **[Security\_admin role](security-admin-role.md)**  
+-   **[Security\_admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-admin-role.md)**  
 The security\_admin role is an elevated privilege role provided with High Security Settings that lets users create and change access controls and change High Security Settings.
--   **[Elevate to a privileged role](../task/t_ElevateToAPrivilegedRole.md)**  
+-   **[Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ElevateToAPrivilegedRole.md)**  
 The base system admin can elevate to a privileged role to have access to the features of High Security Settings.
--   **[Force administrators to manually elevate](../task/t_ForceAdmManElev.md)**  
+-   **[Force administrators to manually elevate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ForceAdmManElev.md)**  
 A property is available to force all users with the administrator role to manually select the role that they want to elevate to.
 
-**Parent Topic:**[Security Roles](security-roles.md)
+**Parent Topic:**[Security Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-roles.md)
 

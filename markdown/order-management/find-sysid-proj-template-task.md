@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select the record for the project template task to be verified.
 
-    ![Project template task record to be verified](../image/proj-template-task-decision-table.png)
+    ![Project template task record to be verified](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/proj-template-task-decision-table.png)
 
     For example, in the Project Template Task record for Product Order for SD-WAN Security, which belongs to the SD-WAN Package project template, the sys\_id is 183910354fcd2110c5ff2624b2ce0b49.
 
@@ -35,7 +35,7 @@ Role required: admin
 
     3.  In the record for the project template task, select the **Answer** column.
 
-    ![List of decision tables for project oversight](../image/sys-decision-question-table.png)
+    ![List of decision tables for project oversight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/sys-decision-question-table.png)
 
     The resulting record for the **Answer** field opens.
 
@@ -43,12 +43,12 @@ Role required: admin
 
 5.  Review the XML and locate the sys\_id value in the file.
 
-    ![XML that shows the sys_id value of the project template task](../image/proj-task-template-xml-value.png)
+    ![XML that shows the sys_id value of the project template task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/proj-task-template-xml-value.png)
 
     The sys\_id value should match the sys\_id of the project template task determined in Step 1. If the sys\_id doesn't match, proceed to the next step.
 
 6.  In the Decision Table Multiple Result record, select the **u\_project\_template\_task** and check the XML view of another project template task to verify the sys\_id of the project task template.
 
-    ![Pop-up list of Project Template Tasks to verify](../image/verify-xml-u-project-template.png)
+    ![Pop-up list of Project Template Tasks to verify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/verify-xml-u-project-template.png)
 
 

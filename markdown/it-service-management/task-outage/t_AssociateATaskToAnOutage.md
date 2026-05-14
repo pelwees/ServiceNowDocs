@@ -40,5 +40,5 @@ The administrator must configure the Outage form to include the Tasks related li
 5.  Click **Save**.
 
 
-**Parent Topic:**[Task Outage](../concept/task-outage.md)
+**Parent Topic:**[Task Outage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-outage/../concept/task-outage.md)
 

@@ -46,5 +46,5 @@ The flows are built using ServiceNow Workflow Studio, so make sure you’re fami
 6.  If not already active, click **Activate** to enable the flow.
 
 
-**Parent Topic:**[Configure Gifts and Entertainment Compliance](../concept/lsd-ge-administration.md)
+**Parent Topic:**[Configure Gifts and Entertainment Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../concept/lsd-ge-administration.md)
 

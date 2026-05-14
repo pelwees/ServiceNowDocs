@@ -19,7 +19,7 @@ Sets allow the administrator to identify a number of fields in a group. Once ass
 
 In this set, three fields \(Sandwich Choice, Side Choice, and Drink Choice\) are defined in a set; the set is repeated three times:
 
-![Configure sets](../images/cpq-sets-example-set.png)
+![Configure sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-example-set.png)
 
 ## Display types
 
@@ -27,22 +27,22 @@ Sets can be displayed in several ways.
 
 -   As table rows:
 
-    ![Display types](../images/cpq-sets-display-type-table-rows.png)
+    ![Display types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-display-type-table-rows.png)
 
 -   As table columns:
 
-    ![Display types](../images/cpq-sets-display-type-table-columns.png)
+    ![Display types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-display-type-table-columns.png)
 
 -   As list rows:
 
-    ![Display types](../images/cpq-sets-display-type-list-rows.png)
+    ![Display types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-display-type-list-rows.png)
 
 -   As a set repeater:
 
-    ![Display types](../images/cpq-sets-display-type-set-repeater.png)
+    ![Display types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-display-type-set-repeater.png)
 
 
-You can manage sets by using the Layout Wizard. For more information about sets and layouts, see [Using sets in layouts](layouts-sets.md).
+You can manage sets by using the Layout Wizard. For more information about sets and layouts, see [Using sets in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md).
 
 ## Adding and removing set rows
 
@@ -50,38 +50,38 @@ In the end-user UI, the user has four ways to increment or decrement set records
 
 -   To add a record to the bottom of the set, click the green plus in the upper right corner.
 
-    ![Adding and removing set rows](../images/cpq-sets-add-set.png)
+    ![Adding and removing set rows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-add-set.png)
 
 -   To add or remove records from the bottom of the set, edit the Size field and click **Change Size**.
 
-    ![Adding and removing set rows](../images/cpq-sets-change-size.png)
+    ![Adding and removing set rows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-change-size.png)
 
 -   To insert a record between two existing records, hold the cursor between them in the Index column.
 
-    ![Adding and removing set rows](../images/cpq-sets-insert-record.png)
+    ![Adding and removing set rows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-insert-record.png)
 
 -   To add records relative to the current record or to delete a record, use the menu in the Index column.
 
-    ![Adding and removing set rows](../images/cpq-sets-add-or-delete-set.png)
+    ![Adding and removing set rows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-add-or-delete-set.png)
 
-    For more information about managing sets, see [Using sets in layouts](layouts-sets.md) and [How sets interact with the rest of a blueprint](how_sets_interact_with_the_rest_of_the_blueprint.md).
+    For more information about managing sets, see [Using sets in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md) and [How sets interact with the rest of a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/how_sets_interact_with_the_rest_of_the_blueprint.md).
 
 
 ## Creating a set
 
 Sets can be added in the same two areas you would create fields: the blueprint to which to add the set, and the fields administration tab.
 
-![Creating a set](../images/cpq-sets-blueprint.png)
+![Creating a set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-blueprint.png)
 
-![Creating a set](../images/cpq-sets-field-admin-tab.png)
+![Creating a set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-field-admin-tab.png)
 
 Select the set field type from among the list of options:
 
-![Creating a set](../images/cpq-sets-new-field.png)
+![Creating a set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-new-field.png)
 
 Give your new set a name and choose from the size types.
 
-![New field](../images/cpq-sets-new-field-size-type.png)
+![New field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-sets-new-field-size-type.png)
 
 The size type cannot be changed after the set is saved. Therefore, keep the following in mind:
 
@@ -90,7 +90,7 @@ The size type cannot be changed after the set is saved. Therefore, keep the foll
 
     -   Option Value: The value of each option in the set, represented as a read-only text field.
     -   Select Option: Tracks whether each option of the picklist is selected.
-    -       For more information, see [Creating an associated picklist set](creating_an_associated_picklist_set.md).
+    -       For more information, see [Creating an associated picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating_an_associated_picklist_set.md).
 
 
 The next screen is the set screen, where the admin can add fields to the set, enforce distinct values, and create aggregates.
@@ -101,12 +101,12 @@ Any field in the set can have the “Distinct Values” option enabled. When thi
 
 When you create an aggregate for a field in the set, options include Average, Count, Maximum, Minimum, and Sum. For example, a sum aggregate on a number field called Quantity might store the sum of all Quantity field values in the set. Aggregates function as a field external to the set and can be used in global rules.
 
-For more information on set aggregates, see [Creating set aggregates](creating_set_aggregates.md).
+For more information on set aggregates, see [Creating set aggregates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating_set_aggregates.md).
 
-When using sets in a configuration, it’s important to understand the scope of fields in the set and what can and cannot be accomplished when creating rules. See [How sets interact with the rest of a blueprint](how_sets_interact_with_the_rest_of_the_blueprint.md).
+When using sets in a configuration, it’s important to understand the scope of fields in the set and what can and cannot be accomplished when creating rules. See [How sets interact with the rest of a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/how_sets_interact_with_the_rest_of_the_blueprint.md).
 
 **Related topics**  
 
 
-[Using sets in layouts](layouts-sets.md)
+[Using sets in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md)
 

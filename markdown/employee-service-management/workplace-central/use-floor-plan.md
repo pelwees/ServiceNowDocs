@@ -17,9 +17,9 @@ Use the floor plan to manage space and user assignments in your workplace.
 
 ## Before you begin
 
-Make sure that you have installed Workplace Core. For more information, see [Install Workplace Core](../../workplace-service-delivery/task/install-workplace-service-delivery.md)
+Make sure that you have installed Workplace Core. For more information, see [Install Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/task/install-workplace-service-delivery.md)
 
-For the Floor plan, make sure that you have configured the map in Indoor Mapping. For more information about configuring an indoor map, see [Configure Indoor Mapping](../../wsd-indoor-mapping/concept/configure-ind-mapping.md).
+For the Floor plan, make sure that you have configured the map in Indoor Mapping. For more information about configuring an indoor map, see [Configure Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../wsd-indoor-mapping/concept/configure-ind-mapping.md).
 
 Role required: sn\_wsd\_core.workplace\_manager
 
@@ -70,7 +70,7 @@ Steps
 
 </td><td>
 
-Use the zoom options \(![Zoom options.](../images/zoom-options.png)\) on the map.
+Use the zoom options \(![Zoom options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/zoom-options.png)\) on the map.
 
 </td></tr><tr><td id="d487623e207">
 
@@ -91,8 +91,8 @@ Select a building and floor from the **Building** and **Floor** list options.
 
 For more information, see either of the following topics:
 
-    -   [Edit user assignments on the floor plan](edit-user-assignments-floor-plan.md)
-    -   [Edit space allocations on the floor plan](edit-space-allocations-floor-plan.md)
+    -   [Edit user assignments on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-user-assignments-floor-plan.md)
+    -   [Edit space allocations on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-space-allocations-floor-plan.md)
 
 
 </td></tr><tr><td id="d487623e260">
@@ -163,7 +163,7 @@ For example, `Workplace profile is Active`. For more information about condition
 
 </td><td>
 
-1.  On the map, select the settings icon \(![Map settings icon.](../images/map-settings-icon.png)\).
+1.  On the map, select the settings icon \(![Map settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/map-settings-icon.png)\).
 2.  Turn on the **Assigned to** option to display user assignments on the map.
 
 This option is switched on by default.
@@ -180,7 +180,7 @@ This option is switched on by default.
 
 </td><td>
 
-1.  On the map, select the settings icon \(![Map settings icon.](../images/map-settings-icon.png)\).
+1.  On the map, select the settings icon \(![Map settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/map-settings-icon.png)\).
 2.  Turn on the **Show base map** option, then select **Apply**.
 
 The map displays spaces as defined in the Map Studio.
@@ -193,13 +193,13 @@ The map displays spaces as defined in the Map Studio.
 
 ## What to do next
 
--   [Edit space allocations on the floor plan](edit-space-allocations-floor-plan.md)
--   [Edit user assignments on the floor plan](edit-user-assignments-floor-plan.md)
+-   [Edit space allocations on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-space-allocations-floor-plan.md)
+-   [Edit user assignments on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-user-assignments-floor-plan.md)
 
--   **[Edit user assignments on the floor plan](edit-user-assignments-floor-plan.md)**  
+-   **[Edit user assignments on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-user-assignments-floor-plan.md)**  
 Use the floor plan to edit location or neighborhood assignments for the users.
--   **[Edit space allocations on the floor plan](edit-space-allocations-floor-plan.md)**  
+-   **[Edit space allocations on the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-space-allocations-floor-plan.md)**  
 Use the floor plan to edit space or neighborhood allocations.
 
-**Parent Topic:**[Working with Space Planning](../concept/working-with-space-planning.md)
+**Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-space-planning.md)
 

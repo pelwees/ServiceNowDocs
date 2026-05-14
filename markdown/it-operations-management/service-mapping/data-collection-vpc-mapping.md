@@ -21,17 +21,17 @@ Service Mapping discovery based on VPC Flow logs has the following flow:
 
 1.  Amazon EC2 instances collect their individual logs into log streams and forward them to the central flow log group.
 
-    ![Amazon EC2 instances collect their individual logs](../image/VPCFlowSetup1.png "Amazon EC2 instances collect their individual logs")
+    ![Amazon EC2 instances collect their individual logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/VPCFlowSetup1.png "Amazon EC2 instances collect their individual logs")
 
 2.  The ServiceNow connector triggers MID Server to collect the data from the flow log and processes it.
 3.  The MID Server places the processed information onto the ECC queue.
 
-    ![MID Server collects the data from the flow log and places it onto the ECC queue.](../image/VPCFlowSetup2.png "MID Server collects the data from the flow log and places it onto the ECC queue")
+    ![MID Server collects the data from the flow log and places it onto the ECC queue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/VPCFlowSetup2.png "MID Server collects the data from the flow log and places it onto the ECC queue")
 
 4.  A sensor retrieves the processes data from the ECC queue and writes it into the Flow Connection \[sa\_flow\_connection\] table.
 5.  Whenever Service Mapping checks the ECC queue and receives information on a discovered CI, it checks these tables for any data on outbound connections related to the CI: the cmdb\_tcp and sa\_flow\_connection tables. If these two tables contain unique data that patterns did not discover, Service Mapping enriches the information about the CI connections and adds them to the map.
 
-    ![The collected data is written into the sa_flow_connection table from which Service Mapping collects the data.](../image/VPCFlowSetup3.png "Collected data is written into the sa_flow_connection table from which Service Mapping collects the data")
+    ![The collected data is written into the sa_flow_connection table from which Service Mapping collects the data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/VPCFlowSetup3.png "Collected data is written into the sa_flow_connection table from which Service Mapping collects the data")
 
 
 In deployments with multiple flow log groups, configure a dedicated connector that works with one MID Server for every flow log group. Multiple flow log groups my use the same AWS credentials.
@@ -41,5 +41,5 @@ In deployments with multiple flow log groups, configure a dedicated connector th
 
 [https://support.servicenow.com/kb\_view.do?sysparm\_article=KB0597467](https://support.servicenow.com/kb_view.do?sysparm_article=KB0597467)
 
-[Traffic-based discovery in Service Mapping](traffic-based-discovery.md)
+[Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md)
 

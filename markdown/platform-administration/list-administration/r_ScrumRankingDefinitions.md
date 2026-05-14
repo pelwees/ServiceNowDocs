@@ -25,12 +25,12 @@ Users can rank stories in the scrum planning board by priority. Story lists rank
 
 Story points for each story are listed in a ranked view, which is useful for prioritizing stories.
 
-![Ranking story points](../image/RankingStoryPoints.png "Ranking story points")
+![Ranking story points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../image/RankingStoryPoints.png "Ranking story points")
 
--   **[Rank stories in a related list](../task/t_RankingStories.md)**  
+-   **[Rank stories in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/../task/t_RankingStories.md)**  
 The Context Ranking feature enables all scrum users to manually sort a related list of stories by priority.
 
-**Parent Topic:**[Context ranking](r_ContextRanking.md)
+**Parent Topic:**[Context ranking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_ContextRanking.md)
 
 **Related topics**  
 

@@ -25,7 +25,7 @@ Role required: sn\_shop.procurement\_specialist
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Pipeline projects**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Pipeline projects**.
@@ -37,7 +37,7 @@ Role required: sn\_shop.procurement\_specialist
 
     The Close pipeline project dialog box is displayed.
 
-    ![Close pipeline project.](../image/pipeline-close.png)
+    ![Close pipeline project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-close.png)
 
     The **Hard savings** field is auto-populated and displays the cumulative savings from all sourcing events associated with the pipeline project. This value is calculated by summing the Negotiated savings from all closed purchase requisition lines \(PRLs\) within the sourcing events.
 
@@ -52,5 +52,5 @@ Role required: sn\_shop.procurement\_specialist
     The pipeline project moves to the Closed Complete state.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-pipeline-sourcing-mgmt.md)
 

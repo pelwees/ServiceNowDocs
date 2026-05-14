@@ -23,7 +23,7 @@ Role required: sn\_apm.apm\_user
 
 2.  Open the Portfolio List view by selecting the Portfolio icon \(![](../../image/eaw-image/eaw-portfolio-icon-polaris.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Business Applications**.
 
@@ -35,25 +35,25 @@ Role required: sn\_apm.apm\_user
 
 8.  In the **Create New Product Capability** page, fill in the form fields.
 
-    For field information, see [Create new product capability form](../../reference/eaw-reference/eaw-create-new-product-capability-form.md).
+    For field information, see [Create new product capability form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-product-capability-form.md).
 
 9.  Select **Save**.
 
 
 ## Result
 
-The product capability is added to the business application. Also, the associated **Product Capability Maps** and **Capability Relationship Maps** tabs are displayed for the product capability. ![Product Capability Maps and Capability Relationship maps available as related list to the product capability.](../../image/eaw-image/product-capability-assoc-related-list.png)
+The product capability is added to the business application. Also, the associated **Product Capability Maps** and **Capability Relationship Maps** tabs are displayed for the product capability. ![Product Capability Maps and Capability Relationship maps available as related list to the product capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/product-capability-assoc-related-list.png)
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
 
-[View product capabilities associated with a business application](eaw-view-product-capabilities-associated-with-ba.md)
+[View product capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-product-capabilities-associated-with-ba.md)
 
-[Add an existing product capability to a business application](add-existing-product-capability-to-ba.md)
+[Add an existing product capability to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/add-existing-product-capability-to-ba.md)
 
-[Remove product capabilities associated with a business application](eaw-remove-product-capabilities-associated-with-ba.md)
+[Remove product capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-remove-product-capabilities-associated-with-ba.md)
 

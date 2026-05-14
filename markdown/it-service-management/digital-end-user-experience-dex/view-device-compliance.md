@@ -25,10 +25,10 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Insights icon \(![Insights icon](../image/icon-insights.png)\).
+2.  In the primary navigation pane, select the Insights icon \(![Insights icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-insights.png)\).
 
 3.  Select **System compliance**.
 
-    For more information about the system compliance metrics, see [DEX Insights reports](../reference/insights-reports.md).
+    For more information about the system compliance metrics, see [DEX Insights reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/insights-reports.md).
 
 

@@ -25,7 +25,7 @@ This procedure outlines how a trusted client application obtains an access token
 
 The user logs in through the app, which sends both its own credentials and the user's to ServiceNow. ServiceNow validates the credentials and issues an access token that the app uses to call APIs.
 
-![Resource owner password credential grant workflow](../images/mic-jwt-grant-workflow.png "Resource owner password credential grant workflow")
+![Resource owner password credential grant workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mic-jwt-grant-workflow.png "Resource owner password credential grant workflow")
 
 ## Procedure
 

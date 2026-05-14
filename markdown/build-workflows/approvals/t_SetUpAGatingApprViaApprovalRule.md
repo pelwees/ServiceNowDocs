@@ -15,7 +15,7 @@ breadcrumb: [Gating approvals, Approval rules, Classic approvals, Build workflow
 
 You can set up a gating approval via an approval rule.
 
-**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../../flow-designer/reference/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Click **New**.
 
-    ![Approval rule](../image/ApprovalRule.png)
+    ![Approval rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/ApprovalRule.png)
 
 <table id="table_n5t_lpl_sr"><thead><tr><th>
 

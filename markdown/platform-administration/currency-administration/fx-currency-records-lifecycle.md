@@ -38,10 +38,10 @@ When creating history lines for a user, the audited string is formatted, using t
 -   Start span-End span, as expressed in the conversion rate record in the System Rate \[fx\_system\_rate\] table. For example, `2019-12-03 17:00:00-3000-01-01 23:59:59`.
 -   Name of the conversion rate table. For example, `fx_system_rate`.
 
-**Parent Topic:**[Currency administration references](currency-admin-references.md)
+**Parent Topic:**[Currency administration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-admin-references.md)
 
 **Related topics**  
 
 
-[Dot-walkable Currency Instance fields](fx-currency-dot-walkable-fields.md)
+[Dot-walkable Currency Instance fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-dot-walkable-fields.md)
 

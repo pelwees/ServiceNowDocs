@@ -21,7 +21,7 @@ Role required: ais\_admin
 
 ## About this task
 
-You must have already created a synonym dictionary. For information on creating synonym dictionaries, see [Create a synonym dictionary linked to a search profile](create-synonym-dict-ais.md).
+You must have already created a synonym dictionary. For information on creating synonym dictionaries, see [Create a synonym dictionary linked to a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-dict-ais.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ You must have already created a synonym dictionary. For information on creating 
 
 4.  On the Dictionary Term form, fill in the fields.
 
-    For a description of the field values, see [Dictionary Term form](../reference/dictionary-term-form-ais.md).
+    For a description of the field values, see [Dictionary Term form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/dictionary-term-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -52,5 +52,5 @@ This example shows a synonym defining `vacation`, `holiday`, `PTO`, and the phra
 
 ![The AI Search Dictionary Term new record form in Synonym view shows Term set to vacation and Payload set to ["holiday","pto","time off"].](../image/synonym-example-vacation.png)
 
-**Parent Topic:**[Synonyms](../concept/synonyms-ais.md)
+**Parent Topic:**[Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/synonyms-ais.md)
 

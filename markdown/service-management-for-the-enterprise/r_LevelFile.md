@@ -89,8 +89,8 @@ The main component of the level file is an array of features, and looks like:
     -   If any default icons are assigned to a space
     -   If any default colors are assigned to the map
 
--   **[Valid classes](r_ValidClasses.md)**  
+-   **[Valid classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ValidClasses.md)**  
 There are certain classes and class types that are valid for the level geometry file.
 
-**Parent Topic:**[GeoJSON map files](r_GeoJSONMapFiles.md)
+**Parent Topic:**[GeoJSON map files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_GeoJSONMapFiles.md)
 

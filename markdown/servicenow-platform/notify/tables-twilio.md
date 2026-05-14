@@ -56,5 +56,5 @@ Extends the basic auth credentials. The Account SID and Auth token are stored in
 Stores the history of callback test runs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Twilio Direct driver](installed-with-twilio.md)
+</table>**Parent Topic:**[Components installed with Twilio Direct driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/installed-with-twilio.md)
 

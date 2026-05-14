@@ -37,7 +37,7 @@ Create a test, add steps to the test, and create and maintain different versions
 
 5.  To link an existing test to a story instead of creating a new one, open the story record from the sprint list and locate the **Tests** related list to add the pre-existing test.
 
-    To create a standalone test to link later, see [Create a test in Test Management 2.0](create-test2.md).
+    To create a standalone test to link later, see [Create a test in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md).
 
 6.  In the form, fill in the fields:
 
@@ -106,7 +106,7 @@ Run
 
 </td><td>
 
-Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run your tests from the List view](run-test-plan-within-agile2.md).
+Button used to run steps, which is displayed only when the test is in the **Ready** state. See [Run your tests from the List view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-test-plan-within-agile2.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Button used to delete the test version.
 
 </td></tr><tr><td>
 
-Change step order \(![Change step order icon](../../sdlc-scrum/image/draganddropicon.png)\)
+Change step order \(![Change step order icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../../sdlc-scrum/image/draganddropicon.png)\)
 
 </td><td>
 
@@ -158,7 +158,7 @@ Check box used to mark a test step for verification.
 
 </td></tr><tr><td>
 
-Delete a test step \(![Delete a test step icon](../images/deleteteststep.png)\)
+Delete a test step \(![Delete a test step icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/deleteteststep.png)\)
 
 </td><td>
 
@@ -178,10 +178,10 @@ View information in the following related lists:
 
 Tests created through this workflow are automatically linked to the story. To confirm the link, open the story record and locate the **Tests** related list, which displays all tests associated with that story.
 
-**Parent Topic:**[Sprint testing](../concept/sprint-testing.md)
+**Parent Topic:**[Sprint testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/sprint-testing.md)
 
 **Related topics**  
 
 
-[Run your tests from the List view](run-test-plan-within-agile2.md)
+[Run your tests from the List view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-test-plan-within-agile2.md)
 

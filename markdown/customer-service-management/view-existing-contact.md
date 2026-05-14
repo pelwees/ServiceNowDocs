@@ -27,6 +27,6 @@ Role required: sn\_customerservice.contact\_manager, sn\_customerservice.proxy\_
 
     **Note:** If the contact details are not available, the `No contact was found` message is displayed.
 
-3.  If you want to perform other contact tasks, access the contact information in the CSM portal page by clicking the Pop-out icon \(![Pop-out icon](../image/pop-out-icon.png)\).
+3.  If you want to perform other contact tasks, access the contact information in the CSM portal page by clicking the Pop-out icon \(![Pop-out icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/pop-out-icon.png)\).
 
 

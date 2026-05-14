@@ -19,9 +19,9 @@ The subflows provided with the base system appear in the Remediation Subflows ar
 
 Navigate to **Event Management** &gt; **Rules** &gt; **Alert Management Rules** and click **New**. Click the **Actions** tab. In the Remediation Subflows area, double-click the **Insert a new row** field.
 
-![Specify subflow](../image/new-subflow.png)
+![Specify subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/new-subflow.png)
 
-Click the search icon ![Search icon](../image/LookupUsingList.png) to add subflows. The list of subflows that are provided with the base system appears.
+Click the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/LookupUsingList.png) to add subflows. The list of subflows that are provided with the base system appears.
 
 <table id="table_ffj_gwd_b2b"><thead><tr><th>
 
@@ -145,13 +145,13 @@ This subflow applies the alert template.This subflow is provided for instances t
 
 </td></tr></tbody>
 </table>1.  Select the subflow that you need.
-2.  To customize a subflow, see [Create a custom subflow for alerts](../task/create-custom-create-incident-subflow.md). This topic also describes the input parameters in a subflow.
+2.  To customize a subflow, see [Create a custom subflow for alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/create-custom-create-incident-subflow.md). This topic also describes the input parameters in a subflow.
 3.  To specify when the workflow must be executed, double-click the cell under **Execution**.
 
-    ![Subflow execution](../image/subflow-execution.png)
+    ![Subflow execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/subflow-execution.png)
 
     .
 
 
-**Parent Topic:**[Alert management rules for resolving alerts](../concept/alert-management-rule.md)
+**Parent Topic:**[Alert management rules for resolving alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-management-rule.md)
 

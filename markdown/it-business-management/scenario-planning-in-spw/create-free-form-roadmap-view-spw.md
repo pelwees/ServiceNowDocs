@@ -35,7 +35,7 @@ You can create up to three private views and up to 10 shared \(public\) views pe
 
     The **Save as new view** option appears on the free-form roadmap header.
 
-    ![shared view in strategic planning.](../images/create-free-form-roadmap-view-spw.gif)
+    ![shared view in strategic planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/create-free-form-roadmap-view-spw.gif)
 
 4.  From the free-form roadmap header, select **Save as new view**.
 
@@ -56,8 +56,8 @@ The shared view for the free-form roadmap is created and will be visible to all 
 
 ## What to do next
 
--   Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. See [Share a free-form roadmap with stakeholders](share-a-roadmap-with-stakeholders.md).
--   Edit a free-form roadmap view to make any changes to the existing view. See [Edit a free-form roadmap view](edit-free-form-roadmap-view-spw.md).
+-   Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. See [Share a free-form roadmap with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-a-roadmap-with-stakeholders.md).
+-   Edit a free-form roadmap view to make any changes to the existing view. See [Edit a free-form roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/edit-free-form-roadmap-view-spw.md).
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-spw.md)
+**Parent Topic:**[Managing free-form roadmap views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/managing-free-form-roadmap-views-spw.md)
 

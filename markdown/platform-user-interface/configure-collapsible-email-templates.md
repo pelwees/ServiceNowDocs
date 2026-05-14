@@ -23,7 +23,7 @@ Role required: email\_client\_admin
 
 2.  From the Email Client Templates list, select an email template or create a new one.
 
-    For instructions on creating an email template, see [Configure an email template](configure-email-templates.md).
+    For instructions on creating an email template, see [Configure an email template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-email-templates.md).
 
 3.  Select the **Content** tab.
 
@@ -50,5 +50,5 @@ The email template's content is hidden behind an ellipsis.
 
 **Note:** Once you expand collapsed content by selecting the ellipsis, it's not possible to collapse the content again.
 
-![Collapsed content behind and ellipsis](../image/y-email-collapse-content.png)
+![Collapsed content behind and ellipsis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-email-collapse-content.png)
 

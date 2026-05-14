@@ -25,11 +25,11 @@ Runs commands and block of scripts on local or remote computers and gets the out
 
 -   **Input**
 
-    [Command \(String\)](parameters-powershell-connectors.md#parameter-powershell-method-commandstring)
+    [Command \(String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-method-commandstring)
 
 -   **Output**
 
-    [Return](parameters-powershell-connectors.md#parameter-powershell-method-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-method-output-return)
 
 
 ## InvokeScript
@@ -40,11 +40,11 @@ Runs a script on local or remote computers and gets the output.
 
 -   **Input**
 
-    [Script](parameters-powershell-connectors.md#parameter-powershell-input-script)
+    [Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-input-script)
 
 -   **Output**
 
-    [Return](parameters-powershell-connectors.md#parameter-powershell-output-return)
+    [Return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-output-return)
 
 
 ## PSObjectToString
@@ -53,7 +53,7 @@ Accepts PowerShell objects from other methods or components and converts them to
 
 -   **Inputs**
 
-    [PSObject](parameters-powershell-connectors.md#parameter-powershell-input-psobject)
+    [PSObject](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-input-psobject)
 
 
 ## GetValuesByProperty
@@ -62,11 +62,11 @@ Accepts a PowerShell object and gets the values of the various properties.
 
 -   **Inputs**
 
-    [PSObject](parameters-powershell-connectors.md#parameter-powershell-input-psobject)
+    [PSObject](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#parameter-powershell-input-psobject)
 
 -   **Output**
 
-    [Return \(String\)](parameters-powershell-connectors.md#PSOBjectToString-output-return)
+    [Return \(String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#PSOBjectToString-output-return)
 
 
 ## Disconnect
@@ -79,12 +79,12 @@ Accepts a PowerShell object and returns the object as a string.
 
 -   **Input**
 
-    [PSObject](parameters-powershell-connectors.md#Serialize-input-PSObject)
+    [PSObject](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#Serialize-input-PSObject)
 
 -   **Output**
 
-    [Return \(String\)](parameters-powershell-connectors.md#Serialize-output-Return)
+    [Return \(String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/parameters-powershell-connectors.md#Serialize-output-Return)
 
 
-**Parent Topic:**[ITSM connector](../concept/itsm.md)
+**Parent Topic:**[ITSM connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/itsm.md)
 

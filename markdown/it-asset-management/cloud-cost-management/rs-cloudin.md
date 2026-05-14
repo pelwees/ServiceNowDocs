@@ -17,13 +17,13 @@ The Rightsizing feature analyzes resource usage to recommend better sizes for re
 
 ## How Rightsizing works
 
-![Flow of the Rightsizing process](../image/rs-process-flow-diagram.png)
+![Flow of the Rightsizing process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/rs-process-flow-diagram.png)
 
 The system updates Rightsizing recommendations each time that billing and usage data are updated.
 
 Follow this process to define a Rightsizing job:
 
-1.  On the Rightsizing recommendations page, select the resources to rightsize based on your analysis of the recommendations. For more information, see [Resize resources with Rightsizing](resize-res-ci.md).
+1.  On the Rightsizing recommendations page, select the resources to rightsize based on your analysis of the recommendations. For more information, see [Resize resources with Rightsizing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/resize-res-ci.md).
 2.  Add the resources to a Rightsizing job. The job can be a new or an already-defined one.
 3.  Specify the date and time for the job to run.
 4.  Specify the type of approval required for the Rightsizing action.
@@ -36,7 +36,7 @@ Follow this process to define a Rightsizing job:
 
 When you save the job, the system immediately generates the change requests. Later, at the scheduled time, the system runs the job. The job performs the following operations:
 
--   For each approved change, resize the resource. For a resource in the ON state, stop the resource, resize it, and then restart it. If the attempt to resize fails, perform a rollback. For more information, see [AWS only – Rollback on failed Rightsizing attempts](rs-rollback-cloudin.md).
+-   For each approved change, resize the resource. For a resource in the ON state, stop the resource, resize it, and then restart it. If the attempt to resize fails, perform a rollback. For more information, see [AWS only – Rollback on failed Rightsizing attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-rollback-cloudin.md).
 -   Update the Rightsizing reports with new recommendations and with approved, successful, pending, rejected, and failed changes.
 
 For pending, rejected, and failed change requests, you can reschedule the resources into another job.
@@ -47,9 +47,9 @@ For pending, rejected, and failed change requests, you can reschedule the resour
 
 Cloud Cost Management uses a process that is optimized for each provider.
 
--   [Rightsizing analysis for AWS](../reference/aws-how-rs-works-cloudin.md)
--   [Rightsizing analysis for Microsoft Azure](../reference/azure-how-rs-works-cloudin.md)
--   [Rightsizing analysis for Google Cloud](../reference/gcp-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/aws-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/azure-how-rs-works-cloudin.md)
+-   [Rightsizing analysis for Google Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/gcp-how-rs-works-cloudin.md)
 
 ## Recommendations
 

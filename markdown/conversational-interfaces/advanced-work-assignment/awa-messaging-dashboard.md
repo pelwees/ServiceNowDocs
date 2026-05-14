@@ -15,9 +15,9 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor Conversation \[interaction\] work items so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../application-content-packs/concept/awa-content-pack.md).
 
-![The dashboard displays indicators and reports to track agent messaging with customers.](../../../administer/advanced-work-assignment/image/AWAMessaging-update.png "AWA dashboard for Messaging")
+![The dashboard displays indicators and reports to track agent messaging with customers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/AWAMessaging-update.png "AWA dashboard for Messaging")
 
 ## End users and roles
 
@@ -60,7 +60,7 @@ Active Conversations
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Unassigned Conversations
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -84,7 +84,7 @@ In Progress Conversations
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Average Wait Time - Last 24 Hours
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -108,7 +108,7 @@ Consumer Average Response Time - Past Month
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -120,7 +120,7 @@ Time To First Response - Last 24 Hours
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -132,7 +132,7 @@ Customer Satisfaction - Past Month
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -144,7 +144,7 @@ Service Level
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -178,7 +178,7 @@ Average Handling Time - Last 24 Hours
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -190,7 +190,7 @@ Agent Average Response Time - Last 24 Hours
 
 </td><td>
 
-Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)
+Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 

@@ -25,9 +25,9 @@ Add the Automation plan, Activity experience and submit. Once submitted, edit th
 
 The Automation Plan associates the backend action/subflow built using the flow designer. This example uses the **Submit to Sandbox - ESCM Activity** sub-flow.
 
-![Activity definitions](../image/sandbox.png)
+![Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sandbox.png)
 
-![Activity Definition - Submit to CSF Sandbox](../image/sandbox-auto-plan.png)
+![Activity Definition - Submit to CSF Sandbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sandbox-auto-plan.png)
 
 This sub-flow enables submitting the malicious observables to sandbox. It has all the input fields and output fields defined.
 
@@ -92,5 +92,5 @@ To add a new action to the activity card, you need to create a new record in the
 
 No Playbook overrides for this example.
 
-**Parent Topic:**[Activity Definitions](../concept/build-activities.md)
+**Parent Topic:**[Activity Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/build-activities.md)
 

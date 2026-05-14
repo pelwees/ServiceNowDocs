@@ -40,5 +40,5 @@ Role required: admin
     All notifications for that event originate from the specified email address and go out in the language of the recipient.
 
 
-**Parent Topic:**[Create an email notification](t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 

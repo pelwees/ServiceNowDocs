@@ -19,7 +19,7 @@ In the Google Cloud Console, enable the Google Sheets API to authenticate the re
 
 **Note:** OAuth enables you to grant access to your data and files to third parties without sharing usernames or passwords.
 
-Before you can do the integration, you must set up the OAuth application so that you can authenticate the requests from your ServiceNow instance. For more information on how to do the setup, see [Set up the OAuth application on the Google Sheets API](../task/set-up-oauth-app-gsheets-api.md) at [https://console.developers.google.com/](https://console.developers.google.com/).
+Before you can do the integration, you must set up the OAuth application so that you can authenticate the requests from your ServiceNow instance. For more information on how to do the setup, see [Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/set-up-oauth-app-gsheets-api.md) at [https://console.developers.google.com/](https://console.developers.google.com/).
 
 Next, you register the Google Drive application in your ServiceNow instance to enable OAuth authorization for exporting your table records directly to Google Sheets.
 
@@ -29,29 +29,29 @@ Then, you configure the connection and credential aliases to authenticate the in
 
 The connection and credentials record contains the information that the Google Sheets API needs to authenticate the requests from your ServiceNow instance. It includes the user credentials and connection type, which are required for your instance to communicate with Google Cloud.
 
--   **[Set up the OAuth application on the Google Sheets API](../task/set-up-oauth-app-gsheets-api.md)**  
+-   **[Set up the OAuth application on the Google Sheets API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/set-up-oauth-app-gsheets-api.md)**  
 Set up the OAuth application on the Google Sheets API so that you can authenticate requests from your ServiceNow instance to access Google Sheets.
--   **[Create an application registry for Google Sheets on a ServiceNow instance](../task/configure-app-registry-gsheets.md)**  
+-   **[Create an application registry for Google Sheets on a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/configure-app-registry-gsheets.md)**  
 Register the Google Drive application in your ServiceNow instance to enable OAuth authorization for exporting table records directly to Google Sheets.
--   **[Configure ServiceNow connection and credential aliases for Google sheets](../task/config-connect-credentials-aliases-for-gsheets.md)**  
+-   **[Configure ServiceNow connection and credential aliases for Google sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/config-connect-credentials-aliases-for-gsheets.md)**  
 Configure connection and credential aliases to authenticate an integration between your ServiceNow instance and Google Drive.
 
-**Parent Topic:**[Exporting data](c_ExportData.md)
+**Parent Topic:**[Exporting data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md)
 
 **Related topics**  
 
 
-[Export data from a record](../task/export-form-data.md)
+[Export data from a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/export-form-data.md)
 
-[Export data from a list](../task/export-list-data.md)
+[Export data from a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/export-list-data.md)
 
-[Export directly from a URL](../task/t_ExportDirectlyFromTheURL.md)
+[Export directly from a URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_ExportDirectlyFromTheURL.md)
 
-[Exporting and importing data via XML](../../development-best-practices/concept/c_ExportAndImportXMLFiles.md)
+[Exporting and importing data via XML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../development-best-practices/concept/c_ExportAndImportXMLFiles.md)
 
-[Exporting currency fields to Excel](c_ExportingCurrencyFields.md)
+[Exporting currency fields to Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportingCurrencyFields.md)
 
-[Enable export debug logging](c_EnableExportDebugLogging.md)
+[Enable export debug logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_EnableExportDebugLogging.md)
 
-[Data export reference](../reference/data-export-reference.md)
+[Data export reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../reference/data-export-reference.md)
 

@@ -19,5 +19,5 @@ Learn about the various parameters of the XmlTemplate connector methods in RPA D
 |Status|Boolean response to whether the template was loaded correctly.|Not applicable|
 |Template|Template name as configured in the XmlTemplate connector.|Yes|
 
-**Parent Topic:**[Data Modellers](../concept/data-modellers.md)
+**Parent Topic:**[Data Modellers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/data-modellers.md)
 

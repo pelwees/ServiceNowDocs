@@ -74,5 +74,5 @@ IT Service Management is available as a ServiceNow Store application.
     Unifies IT, HR, Finance, Procurement, Legal, and Workplace services on one AI platform, delivering a simplified and unified implementation, service delivery, and requester experience for mid-size companies.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

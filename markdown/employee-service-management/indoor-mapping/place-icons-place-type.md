@@ -148,8 +148,8 @@ Option to activate or deactivate or turn off the place types on maps.Turning off
 
 10. Select a campus and select **Manage places** to add and edit places.
 
-    For more information, see [Manage places](manage-buildings.md) and [Edit with view editor](edit-with-view-editor.md).
+    For more information, see [Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md) and [Edit with view editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md).
 
 
-**Parent Topic:**[Manage places](manage-buildings.md)
+**Parent Topic:**[Manage places](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md)
 

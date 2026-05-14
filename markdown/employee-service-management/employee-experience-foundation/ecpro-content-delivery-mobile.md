@@ -37,12 +37,12 @@ Mobile content displays in a carousel section on the Now Mobile app to users tha
     For each content type, follow the applicable task.
 
 
--   **[For mobile banner](ecpro-mobile-content-for-mobile-banner.md)**  
+-   **[For mobile banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-mobile-content-for-mobile-banner.md)**  
 Configure content for a mobile banner.
--   **[For mobile text card](ecpro-mobile-content-for-mobile-text-card.md)**  
+-   **[For mobile text card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-mobile-content-for-mobile-text-card.md)**  
 Configure content for a mobile text card.
--   **[For mobile video](ecpro-mobile-content-for-mobile-video.md)**  
+-   **[For mobile video](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-mobile-content-for-mobile-video.md)**  
 Configure content for a mobile video.
 
-**Parent Topic:**[Configuring Employee Center for mobile](../concept/ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-mobile-configrations.md)
 

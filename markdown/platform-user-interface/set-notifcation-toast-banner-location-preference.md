@@ -19,7 +19,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In your instance, select the **User Menu** ![Next experience user menu.](../../../get-started/servicenow-overview/image/pol-user-menu.png).
+1.  In your instance, select the **User Menu** ![Next experience user menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-user-menu.png).
 
 2.  From the user menu list, select **Preferences**.
 
@@ -27,7 +27,7 @@ Role required: admin
 
 4.  Select the **Next Experience** tab.
 
-    ![Next Experience notification preferences](../image/tb-next-exp-notifs.png "Next Experience notification preferences")
+    ![Next Experience notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-next-exp-notifs.png "Next Experience notification preferences")
 
 5.  In **Notification toast banner location**, choose your preferred location for banners:
 
@@ -38,5 +38,5 @@ Role required: admin
     **Note:** The default location is in the top right of your instance. If the banner doesn't appear in the expected location, try refreshing your browser.
 
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

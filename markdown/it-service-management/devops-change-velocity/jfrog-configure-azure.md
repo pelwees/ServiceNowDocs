@@ -22,7 +22,7 @@ The following settings are required in your Azure DevOps instance:
 3.  Select **New service connection**, search and select the installed **JFrog Artifactory** plugin, and select **Next**.
 4.  Enter your JFrog instance details and create a service connection for JFrog.
 
-    ![New JFrog Artifactory service connection.](../image/jfrog-config-azure-01.png)
+    ![New JFrog Artifactory service connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-config-azure-01.png)
 
     **Note:** The **Username** and **Password** fields must contain the credentials to your JFrog instance entered in the **Server URL** field.
 
@@ -40,7 +40,7 @@ To upload artifacts:
     3.  Select the **Collect build info** check box.
     4.  The **Build number** field should contain the **BuildId** parameter.
     5.  Select **Add**.
-    ![Artifactory Generic Upload task.](../image/jfrog-config-azure-02.png)
+    ![Artifactory Generic Upload task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-config-azure-02.png)
 
 4.  Add the task **Artifactory Publish Build Info** for publishing build info.
 5.  For the **Artifactory Publish Build Info** task:
@@ -48,7 +48,7 @@ To upload artifacts:
     1.  Select the service connection you created for JFrog.
     2.  The **Build number** field should contain the **BuildId** parameter.
     3.  Select **Add**.
-    ![Artifactory Publish Build Info task.](../image/jfrog-config-azure-03.png)
+    ![Artifactory Publish Build Info task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-config-azure-03.png)
 
 
 **Sample pipeline to upload artifacts from Azure DevOps to JFrog**
@@ -155,5 +155,5 @@ stages:
             buildNumber: '$(Build.BuildId)'
 ```
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-jfrog-integration.md)
 

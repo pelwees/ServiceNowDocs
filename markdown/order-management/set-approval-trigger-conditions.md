@@ -82,5 +82,5 @@ Conditions are based on attributes for a Sales Customer Relationship Management 
 
 ## What to do next
 
-[Create approval rules](create-approval-rules.md).
+[Create approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md).
 

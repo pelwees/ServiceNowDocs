@@ -27,17 +27,17 @@ By default, the SLAConditionBase is used for the SLA condition rules. This can b
 
 1.  Navigate to **All** &gt; **Service Level Management** &gt; **SLA Properties**.
 
-2.  Change the value of the **com.snc.sla.default\_conditionclass** [SLA property](t_ConfigureSLAProperties.md#) to the new condition rule name:
+2.  Change the value of the **com.snc.sla.default\_conditionclass** [SLA property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ConfigureSLAProperties.md#) to the new condition rule name:
 
-    ![SLAConditions Property](../image/SLAConditionsProperty.png)
+    ![SLAConditions Property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLAConditionsProperty.png)
 
     **Note:** This is the default condition rule, if no condition rule is specified on an SLA definition.
 
 
-**Parent Topic:**[Extend SLA condition rules](../concept/c_ExtendSLAConditionRules.md)
+**Parent Topic:**[Extend SLA condition rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_ExtendSLAConditionRules.md)
 
 **Related topics**  
 
 
-[SLA condition rules](../concept/c_SLAConditionRules.md)
+[SLA condition rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_SLAConditionRules.md)
 

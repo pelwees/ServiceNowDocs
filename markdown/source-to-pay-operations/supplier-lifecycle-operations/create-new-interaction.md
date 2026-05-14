@@ -23,7 +23,7 @@ Role required: sn\_slm.owner
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) to open the List page.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) to open the List page.
 
 3.  Navigate to **All work** &gt; **Interactions**
 
@@ -102,19 +102,19 @@ Work notes
 Additional information or comments added to the interaction.
 
 </td></tr></tbody>
-</table>6.  Select **Save**.![Selected button to save the Interaction form.](../image/create-interaction.png)
+</table>6.  Select **Save**.![Selected button to save the Interaction form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/create-interaction.png)
 
 
 ## Result
 
 The interaction record is created and linked to an existing supplier case or task, which needs a supplier manager's involvement for investigation.
 
-**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+**Parent Topic:**[Interaction Management in Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/interaction-mgmt-supplier-mgr-ws.md)
 
 **Related topics**  
 
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/interaction-mgmt-supplier-mgr-ws.md)
 
-[Associate an interaction record to a supplier case](associate-interaction-supplier-case.md)
+[Associate an interaction record to a supplier case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/associate-interaction-supplier-case.md)
 

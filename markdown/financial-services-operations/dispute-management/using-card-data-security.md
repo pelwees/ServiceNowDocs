@@ -18,11 +18,11 @@ With Card Data Security installed and configured, dispute agents can reveal mask
 
 ## Overview of tasks in Card Data Security
 
--   [Reveal a PAN in the workspace using Card Data Security](../task/reveal-a-pan-using-card-data-security.md)
+-   [Reveal a PAN in the workspace using Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../task/reveal-a-pan-using-card-data-security.md)
 
     Use the Card Data Security component to mask and reveal a PAN in the disputes workflow.
 
--   [Manage attachments in Card Data Security](manage-attachments-in-card-data-security.md)
+-   [Manage attachments in Card Data Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md)
 
     Learn how attachments in the contextual side panel are handled in Card Data Security.
 

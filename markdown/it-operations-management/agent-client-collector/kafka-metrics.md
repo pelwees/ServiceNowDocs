@@ -44,5 +44,5 @@ The following table lists the metrics that are gathered as output from Kafka che
 |Kafka.Zookeeper.pending\_syncs| | |Number of pending syncs from followers.|
 |Kafka.Zookeeper.followers| | |Number of active followers.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

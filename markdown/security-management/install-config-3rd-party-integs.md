@@ -23,7 +23,7 @@ Role required: sn\_sec\_cmn.admin
 
     The available security integrations appear as a series of cards, similar to the following group of cards. You can point to any card to get a description of the integration.
 
-    ![Sample third-party integrations](../image/tiles.png)
+    ![Sample third-party integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/tiles.png)
 
 2.  To install the plugin for a given integration, select **Install Plugin**.
 
@@ -35,17 +35,17 @@ Role required: sn\_sec\_cmn.admin
 
 3.  Select **Configure**.
 
-    **Note:** If you are configuring the Qualys Vulnerability Integration, see [Installation of Vulnerability Response and supported applications](../../vulnerability-response/concept/cj-vr-setup.md).
+    **Note:** If you are configuring the Qualys Vulnerability Integration, see [Installation of Vulnerability Response and supported applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/cj-vr-setup.md).
 
 4.  Enter the **API Key**.
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Security Operations Integration Configurations](../concept/third-party-integrations.md)
+**Parent Topic:**[Security Operations Integration Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/third-party-integrations.md)
 
 **Related topics**  
 
 
-[Create an integration](../../security-operations-integrations/task/create-integrations.md)
+[Create an integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-integrations/task/create-integrations.md)
 

@@ -32,5 +32,5 @@ Roles required: admin and security\_admin.
 
 The ACL Assessment for Reports assesses the `false` reports the next time you run the assessment.
 
-**Parent Topic:**[ACL Assessment for Reports](../concept/report-view-acl-dashboard.md)
+**Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/report-view-acl-dashboard.md)
 

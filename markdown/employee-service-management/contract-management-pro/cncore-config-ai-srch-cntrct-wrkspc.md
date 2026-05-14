@@ -38,13 +38,13 @@ For more information on the AI Search application, and how to use most effective
 
 3.  Select **View experience settings**.
 
-    ![Configure experience setting for Contract workspace in UI builder.](../image/cmpro-contract-wsp-settings.png "UI builder Contract workspace experience settings")
+    ![Configure experience setting for Contract workspace in UI builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-contract-wsp-settings.png "UI builder Contract workspace experience settings")
 
 4.  In the Global search section, in the **Search source** drop-down list, select **Contract Workspace AI Search**.
 
 5.  Select **Save**.
 
-    ![Configure Ai search as the sairch engine in contract workspace](../image/cmpro-contract-wsp-aisearch-settings.png "Configure global search")
+    ![Configure Ai search as the sairch engine in contract workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-contract-wsp-aisearch-settings.png "Configure global search")
 
 6.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 

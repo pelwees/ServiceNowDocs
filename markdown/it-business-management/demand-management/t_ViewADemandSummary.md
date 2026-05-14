@@ -25,7 +25,7 @@ Role required: it\_demand\_manager
 
     A bubble summary window also shows the demand name and the risk, value, and size data. Hovering over the bubble also highlights the corresponding demand row in the list view. Hovering over a demand in the list view highlights the corresponding bubble in the bubble chart.
 
-    ![Hover over bubble view with bubble information such as risk and size values.](../image/demand-bubble-chart-view.png "Bubble Summary Window")
+    ![Hover over bubble view with bubble information such as risk and size values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../image/demand-bubble-chart-view.png "Bubble Summary Window")
 
     **Note:** When hovering over a bubble, scroll down in the list view to see the corresponding highlighted demand row. If necessary, adjust the height of the list view or the bubble chart.
 
@@ -39,5 +39,5 @@ Role required: it\_demand\_manager
     -   Several bubbles intersect and overlap.
     -   A bubble is only partially visible on the edge of the bubble chart.
 
-**Parent Topic:**[View demands](t_ViewDemands.md)
+**Parent Topic:**[View demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_ViewDemands.md)
 

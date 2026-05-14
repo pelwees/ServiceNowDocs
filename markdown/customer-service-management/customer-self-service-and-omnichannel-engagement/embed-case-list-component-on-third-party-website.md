@@ -17,7 +17,7 @@ Embed the global code and component code of the Case list component instance tha
 
 ## Before you begin
 
-You must configure the Case list component in your instance. For more information, [Configure the Case list component instance](configure-case-list-component-on-instance.md).
+You must configure the Case list component in your instance. For more information, [Configure the Case list component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-case-list-component-on-instance.md).
 
 Role required: None
 

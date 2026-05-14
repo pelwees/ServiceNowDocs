@@ -39,7 +39,7 @@ Role required: sn\_si.admin
 
 5.  Click **Submit**.
 
-    ![Install the application and configure a source for the integration](../image/ms_defender_tile.png "Install and configure the application")
+    ![Install the application and configure a source for the integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms_defender_tile.png "Install and configure the application")
 
 
 ## Result

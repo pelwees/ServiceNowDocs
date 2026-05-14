@@ -17,7 +17,7 @@ Your conversations may need to branch depending on end user input or choices. Us
 
 ## Before you begin
 
-For more information about the Decision utility, see [Decision utility](../reference/va-decision.md).
+For more information about the Decision utility, see [Decision utility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-decision.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -73,5 +73,5 @@ Expression logic to specify a condition for following this branch in the convers
 8.  When you're finished with the topic, click **Save** in the topic header bar.
 
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

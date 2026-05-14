@@ -29,14 +29,14 @@ Role required: none
 
     1.  Open the Edge browser.
 
-    2.  On the top-right corner, click the three dots icon \(![Three-dots-icon.](../image/three-dots.png)\).
+    2.  On the top-right corner, click the three dots icon \(![Three-dots-icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/three-dots.png)\).
 
     3.  Click **Extensions**.
 
     4.  In the Extensions pop-up window, click **Manage extensions**.
 
-    5.  Make sure that the ServiceNow, Inc. RPA Edge extension slider is enabled.![Edge-extension-slider.](../image/edge-slider.png)
+    5.  Make sure that the ServiceNow, Inc. RPA Edge extension slider is enabled.![Edge-extension-slider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/edge-slider.png)
 
 
-**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+**Parent Topic:**[Chromium connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/chrome-connector.md)
 

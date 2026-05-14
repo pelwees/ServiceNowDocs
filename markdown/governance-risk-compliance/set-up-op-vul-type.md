@@ -29,9 +29,9 @@ Administrators of Operational Resilience can create only one Vulnerability Type 
 
     The Vulnerability Type record form is shown in the example.
 
-    ![Vulnerability Type record.](../image/vul-type.png)![Assessment.](../image/vul-type-asmt-config.png)![Template.](../image/vul-type-temp-config.png)
+    ![Vulnerability Type record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-type.png)![Assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-type-asmt-config.png)![Template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-type-temp-config.png)
 
-    For more information on the fields, see [Vulnerability Type form](../reference/vul-type-form.md).
+    For more information on the fields, see [Vulnerability Type form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/vul-type-form.md).
 
 3.  Select the Smart Assessment template for the vulnerability type.
 

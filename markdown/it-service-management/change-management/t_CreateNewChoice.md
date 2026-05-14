@@ -39,16 +39,16 @@ Role required: admin
 
 4.  Use the up and down arrows to move the new state between **Implement** and **Review** states.
 
-    ![Complete field placement](../image/NewStateTutNewChoice2.png)
+    ![Complete field placement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/NewStateTutNewChoice2.png)
 
 5.  Click **Save**.
 
     The new choice is created and the **Change Request** form reopens.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Previous topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Next topic:**[Create a custom field](t_CreateCustomField.md)
+**Next topic:**[Create a custom field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateCustomField.md)
 

@@ -15,13 +15,13 @@ Enable robot pool for a bot process in RPA Hub to effectively allocate robots fo
 
 ## Before you begin
 
-Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+Familiarize yourself with robot pool concepts. For more information, see [Robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robot-pool-rpa.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md).
 
-Create a robot pool. For more information, see [Create a robot pool in RPA Hub](create-robot-pool.md).
+Create a robot pool. For more information, see [Create a robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-robot-pool.md).
 
-Associate a queue to the bot process. For more information, see [c to the bot process from the related list](associate-queue-botprocess.md).
+Associate a queue to the bot process. For more information, see [c to the bot process from the related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/associate-queue-botprocess.md).
 
 If an RPA developer and RPA support user are a part of the Managed by Group, then they can view and edit these fields.
 
@@ -33,7 +33,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager or sn\_rpa\_fdn.rpa\_admin
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Bot Process**.
 
@@ -57,7 +57,7 @@ Enable Robot Pool
 
 Option to enable the robot pool for the bot process.On enabling this option, the **Assign Robots** tab on the bot process is hidden.
 
-For more information about robot pool, see [Robot pool in RPA Hub](../concept/robot-pool-rpa.md).
+For more information about robot pool, see [Robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robot-pool-rpa.md).
 
 </td></tr><tr><td>
 
@@ -111,5 +111,5 @@ Robots are allocated to distribute the workload, based on the percentage you sel
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Robot pool in RPA Hub](../concept/robot-pool-rpa.md)
+**Parent Topic:**[Robot pool in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/robot-pool-rpa.md)
 

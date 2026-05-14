@@ -60,29 +60,29 @@ Third-party assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment\_review
 View assigned questionnaire responses in the Third-party Insights and TPRM Custom Analytics dashboard.
 
 </td></tr></tbody>
-</table>**Note:** All roles can create and customize personal dashboards, add data visualizations, and share their dashboards with others as viewers or editors. If you have the admin role, you must be in the same application scope as the dashboard and then you can delete any dashboard. For more information, see [Delete a TPRM dashboard](../task/tprm-delete-db.md).
+</table>**Note:** All roles can create and customize personal dashboards, add data visualizations, and share their dashboards with others as viewers or editors. If you have the admin role, you must be in the same application scope as the dashboard and then you can delete any dashboard. For more information, see [Delete a TPRM dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-delete-db.md).
 
 ## Third-party insights dashboard
 
 This dashboard is a versatile, blank template that includes instructions to help you customize it to your specific needs. You can add various elements such as data visualizations, bar charts, trend analyses, and score reports to create custom sections and data visualizations. TPR managers, TPR assessors, and third-party assessment reviewers can view this dashboard, while TPR managers have the additional ability to edit and share it.
 
-![Accessing the Third-party insights dashboard. For the text description, refer to the text that preceded this example.](../image/tprm-tpi-dashboard.png "Viewing the Third-party insights dashboard")
+![Accessing the Third-party insights dashboard. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-tpi-dashboard.png "Viewing the Third-party insights dashboard")
 
 ## TPRM custom analytics dashboard
 
 This dashboard is pre-configured with a default list showing all active questionnaire instances relevant to your role. The list has customizable columns, enabling you to filter and group data according to your preferences. TPR managers have full edit access to this dashboard, while TPR assessors and third-party assessment reviewers have read access only. This dashboard serves as a centralized hub for efficiently tracking and comparing assessment responses, making it easier for you to manage assessments.
 
-![Accessing the TPRM custom analytics dashboard. For the text description, refer to the text that preceded this example.](../image/tprm-ca-dashboard.png "Viewing the TPRM custom analytics dashboard")
+![Accessing the TPRM custom analytics dashboard. For the text description, refer to the text that preceded this example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ca-dashboard.png "Viewing the TPRM custom analytics dashboard")
 
 To learn more about creating and using TPRM dashboards, see:
 
--   [Create a TPRM dashboard with the In-line editor](../task/tprm-create-db.md)
--   [Edit TPRM dashboard details](../task/edit-tprm-db-details.md)
--   [Edit TPRM dashboards](../task/edit-tprm-db.md)
--   [Edit TPRM dashboard elements](../task/tprm-edit-db-elements.md)
--   [Share a TPRM dashboard](../task/tprm-share-db.md)
--   [Delete a TPRM dashboard](../task/tprm-delete-db.md)
--   [TPRM Dashboards page](../../grc-workspace-vrm/concept/tprm-ws-dd-dashboards.md)
+-   [Create a TPRM dashboard with the In-line editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-create-db.md)
+-   [Edit TPRM dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/edit-tprm-db-details.md)
+-   [Edit TPRM dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/edit-tprm-db.md)
+-   [Edit TPRM dashboard elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-edit-db-elements.md)
+-   [Share a TPRM dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-share-db.md)
+-   [Delete a TPRM dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-delete-db.md)
+-   [TPRM Dashboards page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-workspace-vrm/concept/tprm-ws-dd-dashboards.md)
 
 For more information on dashboards, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 

@@ -17,9 +17,9 @@ The NowAnalyticsSDK interface provides functions that enable you to configure an
 
 |Name|Type|Description|
 |----|----|-----------|
-|configuration|[NowServiceConfiguration](../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
+|configuration|[NowServiceConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowServiceConfiguration/concept/NowServiceConfigurationAndroidAPI.md)|Configuration to associate with the service.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 
 ## NowAnalyticsSDK - addEvent\(eventName: String\)
 
@@ -438,7 +438,7 @@ NowAnalyticsSDK.getAnalyticsService().setUserId("John Doe")
 
 Sets multiple properties with the specified values for the current user. Properties can be anything that you want to track on the dashboard for a user.
 
-To set the current user, call the [NowAnalyticsSDK - setUserId\(userId: String\)](NowAnalyticsAndroidInterface.md#) function.
+To set the current user, call the [NowAnalyticsSDK - setUserId\(userId: String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsAndroidInterface.md#) function.
 
 <table id="table_wqc_g5j_5pb" class="parameters"><thead><tr><th>
 
@@ -493,7 +493,7 @@ NowAnalyticsSDK.getAnalyticsService().setUserProperties(
 
 Sets the specified property with the specified value for the current user. Properties can be anything that you want to track on the dashboard for a user.
 
-To set the current user, call the [NowAnalyticsSDK - setUserId\(userId: String\)](NowAnalyticsAndroidInterface.md#) function.
+To set the current user, call the [NowAnalyticsSDK - setUserId\(userId: String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowAnalyticsAndroidInterface.md#) function.
 
 <table id="table_fzh_fvj_5pb" class="parameters"><thead><tr><th>
 

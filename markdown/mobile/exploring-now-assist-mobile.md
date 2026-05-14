@@ -25,15 +25,15 @@ The following generative AI capabilities are available for mobile:
 
 The Now Assist for Mobile application includes the generative AI skills and features that enable users to generate resolution notes.
 
-![a generated closure note is presented to the user](../image/resolution-notes.png "Resolution notes generation")
+![a generated closure note is presented to the user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/resolution-notes.png "Resolution notes generation")
 
 With Now Assist on mobile devices, agents can generate resolution notes that summarize work orders instead of writing them out manually. Agents can change the notes before they save them to the work order record.
 
-![the user's question of "what is spam" is answered with a knowledge article on spam](../image/na-answer.png "Answer generation in Virtual Agent")
+![the user's question of "what is spam" is answered with a knowledge article on spam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-answer.png "Answer generation in Virtual Agent")
 
 With Now Assist in Virtual Agent, users can enjoy a better experience that combines AI Search and chat. These skills can help resolve issues faster in Virtual Agent and lower the need for a live agent.
 
-![the query of "get a new phone" is answered with a generated answer and links to sources](../image/na-mobile-search.png "AI-powered search")
+![the query of "get a new phone" is answered with a generated answer and links to sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-mobile-search.png "AI-powered search")
 
 Now Assist in AI Search on Mobile combines the power of search with the Now LLM Service generative AI model to give you AI-generated or AI-chosen answers relevant to your question.
 

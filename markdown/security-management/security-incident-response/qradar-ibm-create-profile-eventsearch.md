@@ -29,7 +29,7 @@ Click the list in the IBM QRadar Rules List field. A list of active IBM QRadar r
 
 **Rules with the same name**: In the ServiceNow AI Platform instance, a list of active or enabled rules are displayed. If you modify an active or enabled System rule in IBM QRadar, a new Override rule is created. This results in two rules being displayed with the same name in the ServiceNow AI Platform. When this scenario occurs, select both the rules to ingest and create security incidents.
 
-The following figure is an example of a completed form:![IBM QRadar: Create Profile: Select Rules](../image/ibm-qradar-rules-selection.png)
+The following figure is an example of a completed form:![IBM QRadar: Create Profile: Select Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-rules-selection.png)
 
 Click **Continue** to proceed to the next step in the wizard.
 

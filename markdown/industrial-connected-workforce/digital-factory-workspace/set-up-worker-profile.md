@@ -39,8 +39,8 @@ The sn\_icw\_worker\_profile table contains the link between a user and a functi
 
 5.  Select **Submit**.
 
-    ![New record page for worker profile](../../icw-industrial-connected-workforce/image/worker-profile.png)
+    ![New record page for worker profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../../icw-industrial-connected-workforce/image/worker-profile.png)
 
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/setting-up-prerequisites-digital-factory-workspace.md)
 

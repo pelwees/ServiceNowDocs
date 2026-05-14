@@ -17,11 +17,11 @@ You can select the Main node configuration table and set up the element type as 
 
 In the Main node configuration source list view, you can review the available source configurations as shown in the example.
 
-![List view.](../image/main-node-config-source-list-view.png)
+![List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/main-node-config-source-list-view.png)
 
 You can create a Main node configuration source configuration as shown in the example.
 
-![Form.](../image/main-node-config-source-form.png)
+![Form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/main-node-config-source-form.png)
 
-**Parent Topic:**[Nexus map configurations](nexus-map-configuration.md)
+**Parent Topic:**[Nexus map configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/nexus-map-configuration.md)
 

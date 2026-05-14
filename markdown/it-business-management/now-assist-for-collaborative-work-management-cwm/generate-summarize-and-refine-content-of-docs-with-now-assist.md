@@ -31,7 +31,7 @@ You can interact with Now Assist directly in your Doc to create new content, add
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
-    ![Spaces menu in CWM.](../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
+    ![Spaces menu in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
 
 3.  From your Doc, open the page you want to work with and use Now Assist for any of your use cases.
 
@@ -73,7 +73,7 @@ Some examples are:
 
     -   If you have a list of stakeholders, you can ask **Elaborate on the scope of these roles.**
     -   **Rewrite this in a casual tone.**
-![Now Assist inline prompt for selected content on the page.](../images/na-inline-open-text.png)
+![Now Assist inline prompt for selected content on the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../images/na-inline-open-text.png)
 
 </td></tr><tr><td id="d291337e234">
 
@@ -90,7 +90,7 @@ Some examples are:
     2.  **Write a 3-paragraph blog post explaining why \[industry trend\] is changing how businesses operate.**
     3.  **Generate an outline for the Instagram campaign tasks for a Hackathon initiative.**
 
-![Creating first draft for a page using Now Assist.](../images/na-blank-page-nacm.png)
+![Creating first draft for a page using Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../images/na-blank-page-nacm.png)
 
 </td></tr><tr><td id="d291337e281">
 
@@ -100,7 +100,7 @@ Some examples are:
 
 Whether the content in the Doc is added manually or generated using Now Assist, you can ask questions to find anything in the page's context.For example, if you have a project charter document, you can try asking **What is the total budget of this project and which part is the most expensive?**
 
-![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](../images/cwm-nacm-ask-questions.png)
+![Ask questions in the context of the document. Here, user asks questions on project budget, in the context of a Project Charter document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../images/cwm-nacm-ask-questions.png)
 
 </td></tr></tbody>
 </table>    Now Assist analyzes the text and generates an output in a separate pop-up.

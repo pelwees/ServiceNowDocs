@@ -25,7 +25,7 @@ Role required: wm\_dispatcher
 
 2.  Select **Dispatcher workspace**.
 
-3.  Select the Filter icon \(![filter icon](../image/filter-right-side.png)\).
+3.  Select the Filter icon \(![filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/filter-right-side.png)\).
 
 4.  Determine the information that you want to display.
 

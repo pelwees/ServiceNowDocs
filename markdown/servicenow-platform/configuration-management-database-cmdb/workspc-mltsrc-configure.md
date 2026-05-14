@@ -17,11 +17,11 @@ Configure CMDB 360 settings to determine how your CMDB 360 data is analyzed and 
 
 ## About this task
 
-For detailed information about CMDB 360-related components, such as system properties, scheduled jobs, and tables, see [Components installed with CMDB Workspace](../reference/installed-with-cmdb-workspace.md) or [Components installed with Service Graph Workspace](../reference/installed-with-sg-workspace.md).
+For detailed information about CMDB 360-related components, such as system properties, scheduled jobs, and tables, see [Components installed with CMDB Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/installed-with-cmdb-workspace.md) or [Components installed with Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/installed-with-sg-workspace.md).
 
 ## Before you begin
 
-To access the CMDB 360 dashboard in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](../concept/sg-workspace.md).
+To access the CMDB 360 dashboard in Service Graph Workspace, you must first switch from CMDB Workspace to Service Graph Workspace. For more information, see [Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/sg-workspace.md).
 
 Role required: cmdb\_ms\_admin
 

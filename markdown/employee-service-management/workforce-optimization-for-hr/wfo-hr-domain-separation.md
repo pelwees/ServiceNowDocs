@@ -35,20 +35,20 @@ The goal of Workforce Optimization for Customer Service is to simplify the daily
 
 Domain separation is supported.
 
-**Parent Topic:**[Configuring Workforce Optimization for HR](configure-wfo-hr.md)
+**Parent Topic:**[Configuring Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-wfo-hr.md)
 
 **Related topics**  
 
 
-[Activate Workforce Optimization for HR](activate-wfo-hr.md)
+[Activate Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/activate-wfo-hr.md)
 
-[Setting up Scheduling for Workforce Optimization for HR](../task/setup-scheduling-wfo-hr.md)
+[Setting up Scheduling for Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../task/setup-scheduling-wfo-hr.md)
 
-[Setting up Teams in Workforce Optimization for HR](../task/setup-team-workforce-wfo-hr.md)
+[Setting up Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../task/setup-team-workforce-wfo-hr.md)
 
-[Setting up Coaching in Workforce Optimization for HR](setup-coaching-wfo-hr.md)
+[Setting up Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-coaching-wfo-hr.md)
 
-[Setting up Demand Forecast in Workforce Optimization for HR](setup-demand-forecast-wfo-hr.md)
+[Setting up Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-demand-forecast-wfo-hr.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

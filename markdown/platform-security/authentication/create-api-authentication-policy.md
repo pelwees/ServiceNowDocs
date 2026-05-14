@@ -39,7 +39,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
     You can also create a new Policy Input. For more information, see [Create policy inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-policy-input.md).
 
-6.  Move one or more filter criteria from the Collections list to the Policy Inputs List.![Adding one or more filter criteria to an authentication policy.](../images/authentication-filter-criteria.png)
+6.  Move one or more filter criteria from the Collections list to the Policy Inputs List.![Adding one or more filter criteria to an authentication policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/authentication-filter-criteria.png)
 
 7.  Select **Save**.
 
@@ -54,7 +54,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
     |Application|Scope of the application.|
     |Condition|One or more conditions that are combined with **OR** filter.|
 
-    ![Example policy condition with multiple criteria.](../images/policy-conditions-authentication.png)
+    ![Example policy condition with multiple criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/policy-conditions-authentication.png)
 
 10. Select **Submit**.
 

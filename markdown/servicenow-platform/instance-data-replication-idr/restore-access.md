@@ -38,5 +38,5 @@ When the producer replication set administrator generates a new encryption key, 
 5.  To get the latest data in the producer replication set, on the **Inbound Entries** tab, select all the tables and click **Activate**.
 
 
-**Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](approve-consumer.md)
+**Parent Topic:**[Manage consumer access to replication data in Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/approve-consumer.md)
 

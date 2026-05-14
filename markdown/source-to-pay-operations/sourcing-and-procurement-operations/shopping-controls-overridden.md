@@ -23,5 +23,5 @@ Scenario 1: A shopping control exists, according to which you, from the marketin
 
 Scenario 2: A shopping control exists, according to which you, from the marketing department, cannot view and shop any supplier product in the IT hardware category. An employee credit for hardware refresh is created for you. This allows you to search, browse, and shop MacBook product models, which comes under the laptop category, whose parent category is IT hardware. However, you are not able to view any other products within the laptop or IT hardware categories because the credit does not allow you access to the other products in this category.
 
-**Parent Topic:**[Using Shopping Hub](use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 

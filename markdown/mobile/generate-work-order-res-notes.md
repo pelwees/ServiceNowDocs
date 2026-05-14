@@ -18,5 +18,5 @@ Agents can generate resolution notes for work order tasks that are assigned to t
 
 For more information on how to generate work resolution notes, see [Generate work order task closure summaries in ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/generate-close-now-assist-fsm.md).
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

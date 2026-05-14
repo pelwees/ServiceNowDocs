@@ -19,7 +19,7 @@ Create and manage major incidents in Service Operations Workspace.
 
 Introduction to Major Incident Management 
 
-![Major incident record](../image/mim_sow_record_page_new.png.png "Major incident record")
+![Major incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mim_sow_record_page_new.png.png "Major incident record")
 
 A major incident \(MI\) is created when an issue occurs that results in significant disruption to the business and demands a response beyond the normal incident management process.
 
@@ -54,39 +54,39 @@ When responding to a major incident, some crucial actions include the following:
 
 You must define the communication plans that are associated with a major incident based on pre-defined conditions. Incident communication plans and related communication tasks are created for a major incident based on the communication plan definitions. Afterwards, tasks get executed as defined in the associated incident communication.
 
--   **[Major Incident Management process in Service Operations Workspace](mim-process-sow.md)**  
+-   **[Major Incident Management process in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/mim-process-sow.md)**  
 A major incident has a high impact and urgency that affects a large number of users and deprives the business of one or more crucial services. Given the urgency of the situation, a well-coordinated response process is required to accelerate the resolution and minimize the business impact.
--   **[Managing a major incident record](managing-major-incident-sow.md)**  
+-   **[Managing a major incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-major-incident-sow.md)**  
 Manage a major incident record with a playbook or the various tabs on the major incident record page.
 
-**Parent Topic:**[Managing IT services in your organization](managing-services-operations-in-organization.md)
+**Parent Topic:**[Managing IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-services-operations-in-organization.md)
 
 **Related topics**  
 
 
-[Knowledge Management in Service Operations Workspace](knowledge-articles-sow.md)
+[Knowledge Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/knowledge-articles-sow.md)
 
-[On-Call Scheduling in Service Operations Workspace](on-call-scheduling-in-sow.md)
+[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)
 
-[Problem Management in Service Operations Workspace](problem-sow.md)
+[Problem Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-sow.md)
 
-[Recommendation Framework in Service Operations Workspace](recommendation-framework-sow.md)
+[Recommendation Framework in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommendation-framework-sow.md)
 
-[Recommended Actions for ITSM in Service Operations Workspace](recommended-actions-for-itsm-in-service-operations-workspace.md)
+[Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md)
 
-[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](msteams-sow.md)
+[ServiceNow integrations with Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/msteams-sow.md)
 
-[Service Level Management in Service Operations Workspace](slm-sow.md#)
+[Service Level Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/slm-sow.md#)
 
-[Walk-up Experience management in Service Operations Workspace](walkup-sow.md)
+[Walk-up Experience management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/walkup-sow.md)
 
-[Collaboration in Service Operations Workspace](collaboration-sow.md)
+[Collaboration in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaboration-sow.md)
 
-[Computer Telephony Integration in Service Operations Workspace](configure-cti-sow.md)
+[Computer Telephony Integration in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-cti-sow.md)
 
-[Universal Request in Service Operations Workspace](using-ur-sow.md)
+[Universal Request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/using-ur-sow.md)
 
-[Universal Task in Service Operations Workspace](using-ut-sow.md)
+[Universal Task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/using-ut-sow.md)
 
-[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](resetting-password-pr-sow.md)
+[Resetting password using Service-desk assisted Password Reset in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/resetting-password-pr-sow.md)
 

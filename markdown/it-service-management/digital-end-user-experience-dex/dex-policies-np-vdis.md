@@ -93,5 +93,5 @@ DEX provides the following policies for non-persistent VDI devices.
 |os.win.check-system-metrics-historical|Collects all historical metrics.|5 mins|Historical|memory\_details, io\_usage\_write, io\_usage\_read, cpu\_usage|
 |os.win.check-system-metrics-latest|Collects all latest metrics.|24 hours|Latest|cpu\_usage|
 
-**Parent Topic:**[DEX Content Playbook reference](dex-content-playbook-reference.md)
+**Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 

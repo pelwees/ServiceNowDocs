@@ -21,19 +21,19 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the Compose Email page by selecting the More actions icon \(![More actions icon](../image/x-more-actions-icon.png)\) and **Compose Email**.
+2.  Open the Compose Email page by selecting the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-more-actions-icon.png)\) and **Compose Email**.
 
 3.  Apply a response template from the Agent Assist panel.
 
-    1.  From the Agent Assist panel, select the Response Templates icon \(![Response Templates icon](../image/xs2-response-templates-icon.png)\).
+    1.  From the Agent Assist panel, select the Response Templates icon \(![Response Templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-response-templates-icon.png)\).
 
         A list of response templates opens in the Agent Assist panel.
 
-        ![Response Templates list](../image/xs2-response-templates-tab.png)
+        ![Response Templates list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-response-templates-tab.png)
 
         **Note:** Find the response template you need by using the search bar in the Response Templates list.
 
-    2.  Copy a response template without viewing its full contents by selecting the More actions icon \(![More actions icon](../image/menu-icon.png)\) and selecting **Copy to Clipboard**.
+    2.  Copy a response template without viewing its full contents by selecting the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/menu-icon.png)\) and selecting **Copy to Clipboard**.
 
     3.  Copy a response template after viewing its full contents by selecting a template from the list and selecting **Copy to Clipboard**.
 
@@ -41,11 +41,11 @@ Role required: email\_composer
 
 4.  Apply a response template from the email footer.
 
-    1.  From the email footer, select the Apply templates icon \(![Apply templates icon](../image/x-apply-templates-icon.png)\).
+    1.  From the email footer, select the Apply templates icon \(![Apply templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-apply-templates-icon.png)\).
 
         A modal opens with different types of templates.
 
-        ![Apply templates modal](../image/xs2-email-templates-tab.png)
+        ![Apply templates modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-email-templates-tab.png)
 
     2.  Select the **Response templates** tab.
 
@@ -57,6 +57,6 @@ Role required: email\_composer
 
 5.  Apply a response template with a keyboard shortcut.
 
-    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](add-response-templates-shortcut.md).
+    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-response-templates-shortcut.md).
 
 

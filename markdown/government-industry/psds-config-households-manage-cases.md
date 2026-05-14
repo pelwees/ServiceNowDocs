@@ -66,7 +66,7 @@ Select a household in the **Household** field. -   If the household only has onl
 
 
 </td></tr></tbody>
-</table>5.  Fill in the remaining fields on the [Case](../reference/government-service-case-form.md#) form.
+</table>5.  Fill in the remaining fields on the [Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/government-service-case-form.md#) form.
 
 6.  If desired, add other members of the household to the watch list.
 

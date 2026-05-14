@@ -25,7 +25,7 @@ Role required: admin
 
     If the upgrade plan has been implemented on the ongoing upgrade, the Review upgrade plan link shows up on the Target version card.
 
-    See Upgrade Plan background operations section in [Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md) for more information.
+    See Upgrade Plan background operations section in [Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-upgrade-plans-tool.md) for more information.
 
 2.  Check on the date and time of the implemented upgrade plan in the Upgrade duration card once the upgrade completes.
 
@@ -40,22 +40,22 @@ Role required: admin
 
 4.  Click **Review upgrade plan** on the Upgrade duration card if you want to check the summary of your upgrade plan history.
 
-    ![Upgrade Plan History screen.](../../upgrade-center/image/uc-upgrade-plan-history.png)
+    ![Upgrade Plan History screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-upgrade-plan-history.png)
 
 
--   **[Review skipped records with upgrade plan](um-review-skipped-records-upgrade-plan.md)**  
+-   **[Review skipped records with upgrade plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-skipped-records-upgrade-plan.md)**  
 Review the skipped records after the completion of the upgrade.
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-upgrade-plans-tool.md)
 
 **Related topics**  
 
 
-[Building your Upgrade Plan](um-building-upgrade-plan.md)
+[Building your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-building-upgrade-plan.md)
 
-[Refreshing your Upgrade Plan](um-refreshing-upgrade-plan.md)
+[Refreshing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-refreshing-upgrade-plan.md)
 
-[Installing your Upgrade Plan](um-installing-upgrade-plan.md)
+[Installing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-installing-upgrade-plan.md)
 
-[Prepare to upgrade with Upgrade Plan](um-prepare-upgrade-plan.md)
+[Prepare to upgrade with Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-prepare-upgrade-plan.md)
 

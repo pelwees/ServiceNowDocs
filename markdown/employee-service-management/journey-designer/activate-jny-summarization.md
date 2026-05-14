@@ -48,8 +48,8 @@ Role required: \[sn\_jny.admin\], \[sn\_nowassist\_admin.nsa\_admin\]
     A dialog box displays the following message: `Journey Summarization for Managers is now active for HRSD!`
 
 
--   **[Summarize a journey with Now Assist for HR Service Delivery \(HRSD\)](summarize-jny.md)**  
+-   **[Summarize a journey with Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/summarize-jny.md)**  
 Managers can instantly summarize the information that appears on the Journey detail page to acquire an overview of an employee's journey. This summary also reflects the blockers that are impeding the journey's progress and the steps required to resume the journey's progress.
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-working-with-journeys.md)
 

@@ -27,7 +27,7 @@ An incident record can accommodate only one work order at a time. You can create
 
 1.  Log in to the CSM Configurable Workspace.
 
-2.  Click the **List** icon \(![List icon.](../../../administer/workspace/image/list-icon-black.png)\).
+2.  Click the **List** icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../../../administer/workspace/image/list-icon-black.png)\).
 
 3.  In the Lists panel, navigate to **Incident** &gt; **All**
 
@@ -40,5 +40,5 @@ An incident record can accommodate only one work order at a time. You can create
 
 A work order is created successfully from the incident.
 
-**Parent Topic:**[Integration with Incident Management](../concept/incident-for-fsm.md)
+**Parent Topic:**[Integration with Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../concept/incident-for-fsm.md)
 

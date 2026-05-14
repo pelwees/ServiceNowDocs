@@ -17,5 +17,5 @@ Use the Contract management view in the Asset Workspace to view and manage detai
 
 The Contract management view includes important actions for managing your contract, contract expenditure by type and vendor, and the list of expiring contracts.
 
-![Contract management view in Asset Workspace](../../hardware-asset-management/image/asset-wrkspc-contractmgmt.png "Contract management view")
+![Contract management view in Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/image/asset-wrkspc-contractmgmt.png "Contract management view")
 

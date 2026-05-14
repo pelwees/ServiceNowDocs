@@ -15,7 +15,7 @@ breadcrumb: [DocIntel forms, Reference, Document Intelligence, Enable AI experie
 
 The Check box list form enables you to define a check box list for extraction.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../concept/docintel-nowassist-landing.md).
 
 The Check box list form includes the following fields.
 
@@ -85,7 +85,7 @@ Select target field
 
 Field on the target table that you want to align this field with.
 
- This field is used for integration with other applications. See [Integrate with a custom application or workflow](../task/configure-integration-setup.md).
+ This field is used for integration with other applications. See [Integrate with a custom application or workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../task/configure-integration-setup.md).
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Option to make a field required.
 
  Required fields can’t be left unreviewed.
 
- Required fields affect how document tasks are processed in the Fully automated extraction mode. For more information, see [Configure data extraction modes](../task/configure-data-extraction-modes.md).
+ Required fields affect how document tasks are processed in the Fully automated extraction mode. For more information, see [Configure data extraction modes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../task/configure-data-extraction-modes.md).
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ New check box
 
 Option to add a check box to the list.
 
- Use the reorder icon \(![Reorder icon.](../image/icon-docintel-drag.png)\) to reorder a check box in the list.
+ Use the reorder icon \(![Reorder icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/icon-docintel-drag.png)\) to reorder a check box in the list.
 
 </td></tr><tr><td>
 
@@ -118,5 +118,5 @@ Create multiple check box lists
 Option to keep the pop-up window displayed on the screen. Enable this option if you're adding more than one check box list to the use case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Document Intelligence forms](document-intelligence-forms.md)
+</table>**Parent Topic:**[Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-forms.md)
 

@@ -79,7 +79,7 @@ Accelerate and simplify setup of your AI solutions in a unified experience. The 
 
 </td><td>
 
-[Now Assist Center workspace](now-assist-center-workspace.md)
+[Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 
 </td><td>
 
@@ -91,7 +91,7 @@ Easy-to-use conversational interface to perform common admin tasks, from basic s
 
 </td><td>
 
-[Now Assist Panel in Now Assist Center](using-now-assist-panel-now-assist-center.md)
+[Now Assist Panel in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-panel-now-assist-center.md)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Get started right away with guided quick-start use cases that appear as actionab
 
 </td><td>
 
-[Actionable use cases](now-assist-center-actionable-use-cases.md)
+[Actionable use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-actionable-use-cases.md)
 
 </td><td>
 
@@ -115,7 +115,7 @@ Quickly discover automation opportunities for your instance. AI Agent Advisor an
 
 </td><td>
 
-[Automation discovery with AI Agent Advisor](now-assist-center-using-ai-agent-advisor.md)
+[Automation discovery with AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md)
 
 </td><td>
 
@@ -127,7 +127,7 @@ Matches identified automation opportunities to existing AI agents on the platfor
 
 </td><td>
 
-[AI agent matching and automated deployment](../task/activate-automation-opportunity-now-assist-center.md)
+[AI agent matching and automated deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-automation-opportunity-now-assist-center.md)
 
 </td><td>
 
@@ -141,7 +141,7 @@ Provides centralized access to the broader Now Assist and AI ecosystem within a 
 
 </td><td>
 
-[Now Assist integrations](now-assist-center-using-other-applications.md)
+[Now Assist integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-other-applications.md)
 
 </td><td>
 
@@ -153,19 +153,19 @@ View performance and usage statistics for your AI implementation.
 
 </td><td>
 
-[AI adoption metrics](now-assist-center-monitoring.md)
+[AI adoption metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-monitoring.md)
 
 </td><td>
 
 Now Assist administrator
 
 </td></tr></tbody>
-</table>-   **[Now Assist Center workspace](now-assist-center-workspace.md)**  
+</table>-   **[Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)**  
 Use the Now Assist Center workspace to set up, monitor, and manage your Now Assist solutions.
--   **[AI Agent Advisor in Now Assist Center](now-assist-center-ai-agent-advisor.md)**  
+-   **[AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-ai-agent-advisor.md)**  
 AI Agent Advisor automatically discovers automation opportunities in your instance based on actual operational data and helps you to deploy AI agents to implement them.
--   **[Supporting information for Now Assist Center](supporting-information-now-assist-center.md)**  
+-   **[Supporting information for Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/supporting-information-now-assist-center.md)**  
 Get a quick overview of the important information that is related to the Now Assist Center application.
 
-**Parent Topic:**[Now Assist Center](now-assist-center-landing-page.md)
+**Parent Topic:**[Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-landing-page.md)
 

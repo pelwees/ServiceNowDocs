@@ -17,7 +17,7 @@ Create matching rules to specify which tasks and technicians to include in prior
 
 ## Before you begin
 
-[Set up prioritized intraday optimization with matching rules](set-up-prioritized-intraday-optimization-with-matching-rules.md)
+[Set up prioritized intraday optimization with matching rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/set-up-prioritized-intraday-optimization-with-matching-rules.md)
 
 Role required: wm\_admin
 
@@ -108,7 +108,7 @@ The matching rule is added to the configuration and executes when the specified 
 **Related topics**  
 
 
-[Optimizing technician schedules at set intervals throughout the day](optimize-your-schedules-intraday.md)
+[Optimizing technician schedules at set intervals throughout the day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/optimize-your-schedules-intraday.md)
 
-[Optimizing technician schedules in response to urgent events](triggering-optimization-on-task-or-agent-availability-change.md)
+[Optimizing technician schedules in response to urgent events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/triggering-optimization-on-task-or-agent-availability-change.md)
 

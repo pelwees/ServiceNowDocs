@@ -34,7 +34,7 @@ The NLQ Genius Result answer card shows different results depending on how many 
 
     When your search only matches one table, the answer card's preview list displays up to five records from that table. To see more records from the table, select **View full table**.
 
-    ![NLQ Genius Result answer card showing preview records from a single table that matched your query, with answer type, View full table link, About link, and thumbs-up and thumbs-down feedback links.](../image/genius-result-nlq-one-table.png)
+    ![NLQ Genius Result answer card showing preview records from a single table that matched your query, with answer type, View full table link, About link, and thumbs-up and thumbs-down feedback links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/genius-result-nlq-one-table.png)
 
 -   **Search matches multiple tables**
 
@@ -42,7 +42,7 @@ The NLQ Genius Result answer card shows different results depending on how many 
 
     The preview list displays up to five records from the selected table. To see more records from the table, select **View full table**.
 
-    ![NLQ Genius Result answer card showing pills for multiple tables that matched your search, along with preview records from selected pill.](../image/genius-result-nlq-multiple-tables.png)
+    ![NLQ Genius Result answer card showing pills for multiple tables that matched your search, along with preview records from selected pill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/genius-result-nlq-multiple-tables.png)
 
 -   **Multiple search terms match CMDB tables**
 
@@ -50,7 +50,7 @@ The NLQ Genius Result answer card shows different results depending on how many 
 
     The preview list displays records from a CMDB workspace smart search for the selected tables, including their connecting relationships. To see more records from the chosen tables, select **View full table**.
 
-    ![NLQ Genius Result answer card showing drop-down lists for multiple search terms that matched CMDB tables, along with joined preview records from selected tables.](../image/genius-result-nlq-cmdb-multi-match.png)
+    ![NLQ Genius Result answer card showing drop-down lists for multiple search terms that matched CMDB tables, along with joined preview records from selected tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/genius-result-nlq-cmdb-multi-match.png)
 
 
 ## Viewing full tables
@@ -60,7 +60,7 @@ When you select **View full table** in an NLQ Genius Result answer card, the act
 -   If the table was found by an Analytics Overview table query, the system displays it in list view.
 -   If the table was found by a CMDB table query, the system displays it in the [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md).
 
-Search administrators can customize these actions. For more information, see the [Configure navigation actions for NLQ Genius Result answer cards](../task/configure-nav-action-nlq-grs.md) section.
+Search administrators can customize these actions. For more information, see the [Configure navigation actions for NLQ Genius Result answer cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-nav-action-nlq-grs.md) section.
 
 ## Review feedback
 
@@ -83,12 +83,12 @@ NLQ Genius Results don't support the following table query options:
 -   Trend and single score visualizations
 -   Keywords that return results in non-list formats, such as `total`, `count`, or `average`
 
--   **[Display NLQ Genius Result answers in Service Portal search applications](../task/display-nlq-gr-service-portal-apps.md)**  
+-   **[Display NLQ Genius Result answers in Service Portal search applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/display-nlq-gr-service-portal-apps.md)**  
 Configure the system to display search result preview lists for NLQ Genius Result answers in Service Portal search applications.
--   **[Configure navigation actions for NLQ Genius Result answer cards](../task/configure-nav-action-nlq-grs.md)**  
+-   **[Configure navigation actions for NLQ Genius Result answer cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-nav-action-nlq-grs.md)**  
 Configure the navigation actions that trigger when a user selects **View full table** on an NLQ Genius Result action card. Each navigation action includes a redirection payload and can optionally include filters for a table's name, the NLQ source that returned the table, or the search profile used by the search application.
--   **[System properties for NLQ Genius Results](../reference/sys-properties-nlq-gr.md)**  
+-   **[System properties for NLQ Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/sys-properties-nlq-gr.md)**  
 A system property determines whether the system displays search result preview lists for NLQ Genius Result answers in Service Portal search applications.
 
-**Parent Topic:**[Genius Result configurations in the base system](default-genius-result-configs-ais.md)
+**Parent Topic:**[Genius Result configurations in the base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/default-genius-result-configs-ais.md)
 

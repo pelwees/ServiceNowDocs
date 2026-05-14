@@ -15,7 +15,7 @@ Clone an existing policy and add conditions to it to create your own custom poli
 
 ## Before you begin
 
-You can clone policies to create your own custom policies. You can clone a policy or create a child policy using any policy as a base to help you extend the existing policies without having to enter in the conditions again. All the conditions in the base policy are also inherited in the child policy. See [Clone a policy or create a child policy in Security Posture Control](spc-clone-policy.md) for more information.
+You can clone policies to create your own custom policies. You can clone a policy or create a child policy using any policy as a base to help you extend the existing policies without having to enter in the conditions again. All the conditions in the base policy are also inherited in the child policy. See [Clone a policy or create a child policy in Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-clone-policy.md) for more information.
 
 You can clone any policies that are included with the application but policy matches are not reflected as key insights on the dashboard on the Home landing page. Only key insights for policies that are included with the application are displayed on the Home landing page.
 
@@ -72,13 +72,13 @@ Select this option if you want to create a new policy using the current policy a
 
 6.  For a cloned policy, edit the conditions.
 
-    For more information about the Asset-connection-entity relationships in the condition builder, see [Policies for Security Posture Control](../concept/spc-policies-overview.md). For more information about the decorators in the condition builder, see [Creating your own policies in the Security Posture Control application](spc-creating-policies.md).
+    For more information about the Asset-connection-entity relationships in the condition builder, see [Policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/spc-policies-overview.md). For more information about the decorators in the condition builder, see [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-creating-policies.md).
 
 7.  Edit and Save your policy with **Save changes**.
 
     Your policy is displayed on the All list in the List module in the workspace.
 
-8.  To activate a policy, follow the steps described in [Create and activate custom policies for Security Posture Control](spc-create-policy.md).
+8.  To activate a policy, follow the steps described in [Create and activate custom policies for Security Posture Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/spc-create-policy.md).
 
 9.  Select Delete policy to delete a policy.
 

@@ -23,7 +23,7 @@ Role required: wm\_dispatcher
 
 1.  Navigate to **All** &gt; **CSM/ FSM Configurable Workspace**.
 
-2.  Select the **List** ![List](../image/coral-list-icon.png) icon.
+2.  Select the **List** ![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/coral-list-icon.png) icon.
 
 3.  Select the list that contains the tasks you want to flag or unflag.
 
@@ -34,7 +34,7 @@ Role required: wm\_dispatcher
     |Action|Selection|
     |------|---------|
     |**Flag tasks**|Select **Flag Tasks**.|
-    |**Unflag tasks**|Select **More actions ![more actions](../image/more-actions-coral.png)** &gt; **Unflag Tasks**|
+    |**Unflag tasks**|Select **More actions ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more-actions-coral.png)** &gt; **Unflag Tasks**|
 
     The tasks appear as flagged or unflagged in both the list and Dispatcher Workspace.
 

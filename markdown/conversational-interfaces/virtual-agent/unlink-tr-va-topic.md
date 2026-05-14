@@ -26,15 +26,15 @@ You can either add a recommendation as a new topic or link it to an existing top
 
 The following example shows the difference between a linked recommendation and an added recommendation.
 
-![A linked card reads, "Linked to topic on May 5, 2021. An added card reads, "Added on Mar 13, 2021."](../images/tr-linked-topic-card-example.png "Example of linked and added cards in the Topic Recommendations page")
+![A linked card reads, "Linked to topic on May 5, 2021. An added card reads, "Added on Mar 13, 2021."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-linked-topic-card-example.png "Example of linked and added cards in the Topic Recommendations page")
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
-2.  Select the info icon ![Info icon.](../images/icon-info-blue.png) to open the overlay card for a linked topic.
+2.  Select the info icon ![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-info-blue.png) to open the overlay card for a linked topic.
 
-    ![Key details from ITSM Issue - Software - Files - PDF.](../images/tr-unlink-topic.png)
+    ![Key details from ITSM Issue - Software - Files - PDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/tr-unlink-topic.png)
 
 3.  Select **Unlink**.
 

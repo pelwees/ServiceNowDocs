@@ -52,5 +52,5 @@ Status of the import set job:-   **Pending** if import processing has not starte
 </table>3.  Select a parent import set job to review the **Type** and **State** of each of its child import set jobs.
 
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_ImportDataUsingImportSets.md)
 

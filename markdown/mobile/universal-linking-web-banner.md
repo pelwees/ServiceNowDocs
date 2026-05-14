@@ -86,7 +86,7 @@ Mobile app
 
 ServiceNow mobile app the link opens in. Options are `Agent`, `Onboarding`, or `Request` \(Now Mobile\).
 
-**Note:** The selection here overrides the selection made in the **Mobile app** field listed in the topic [Mapping specific mobile screens for universal linking](universal-linking-screen-mapping.md).
+**Note:** The selection here overrides the selection made in the **Mobile app** field listed in the topic [Mapping specific mobile screens for universal linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/universal-linking-screen-mapping.md).
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Use the mobile screen builder script block to define the screen type to build an
 
 ## What to do next
 
-After defining when banners appear and the screen and content the user views, consider enhancing the experience by associating the screen to a preconfigured table. See, [Mapping specific mobile screens for universal linking](universal-linking-screen-mapping.md).
+After defining when banners appear and the screen and content the user views, consider enhancing the experience by associating the screen to a preconfigured table. See, [Mapping specific mobile screens for universal linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/universal-linking-screen-mapping.md).
 
-**Parent Topic:**[Mobile universal linking for supported URLs](../concept/universal-linking-support-urls.md)
+**Parent Topic:**[Mobile universal linking for supported URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/universal-linking-support-urls.md)
 

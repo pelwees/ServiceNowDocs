@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The following procedure works best for translating values for individual fields, such as those added with a customization. To translate large numbers of field values, use the procedure described in [Export and edit translation records](t_TranslateTheInterface.md#).
+The following procedure works best for translating values for individual fields, such as those added with a customization. To translate large numbers of field values, use the procedure described in [Export and edit translation records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateTheInterface.md#).
 
 ## Procedure
 
@@ -31,12 +31,12 @@ The following procedure works best for translating values for individual fields,
 
 3.  Update the field value with the text translated into the target language \(Spanish\).
 
-    ![Translation field values.](../image/TranslationFieldValues.png)
+    ![Translation field values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/TranslationFieldValues.png)
 
 4.  Select **Update**.
 
-    This creates a new record in the Translated Name / Field \[sys\_translated\] table for the selected language or updates the existing record if a translation already exists. For more information about this table, see [Translated Name / Field table](../reference/r_TranslatedNameFieldTable.md).
+    This creates a new record in the Translated Name / Field \[sys\_translated\] table for the selected language or updates the existing record if a translation already exists. For more information about this table, see [Translated Name / Field table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_TranslatedNameFieldTable.md).
 
-    ![New record added to the Translated Name / Fields table for the field value translated into Spanish.](../image/translated-field-value.png "Translated field")
+    ![New record added to the Translated Name / Fields table for the field value translated into Spanish.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../image/translated-field-value.png "Translated field")
 
 

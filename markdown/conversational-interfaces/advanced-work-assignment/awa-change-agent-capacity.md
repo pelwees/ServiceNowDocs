@@ -80,5 +80,5 @@ Agents to which this override applies. Move the agent names from the **Available
 
 ## What to do next
 
-If you’re configuring a service channel, you can [create or change an inbox layout](awa-modify-inbox-layout.md) for the channel.
+If you’re configuring a service channel, you can [create or change an inbox layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-modify-inbox-layout.md) for the channel.
 

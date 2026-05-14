@@ -18,7 +18,7 @@ Add target languages to a translation request in Localization Workspace.
 ## Before you begin
 
 -   Ensure that the languages you intend to add to your translation request have been installed on your instance.
--   Ensure that the language providers that you intend to use have been configured. See [Configure a language provider](lw-configure-translation-provider.md).
+-   Ensure that the language providers that you intend to use have been configured. See [Configure a language provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-configure-translation-provider.md).
 -   Role required: localization\_requestor.
 
 ## About this task
@@ -33,13 +33,13 @@ The following procedure covers step one of four steps in the Translation Request
 
 1.  Navigate to **All** &gt; **Localization Workspace** &gt; **Home**.
 
-2.  Select **Request Translation** to open the wizard.![The Translation request wizard window, open to step one for language selection. In this example, selecting a language group has auto-populated three language rows.](../image/lw-request-translations-langs1.png)
+2.  Select **Request Translation** to open the wizard.![The Translation request wizard window, open to step one for language selection. In this example, selecting a language group has auto-populated three language rows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-langs1.png)
 
     The **Translation request** wizard opens at the first step, **Languages**.
 
 3.  In the **Short Description** field, enter a name for the translation request.
 
-    The Short Description is displayed in the **My Requests** list on the Home screen, so you can find and monitor your request later. For information see [Localization Workspace Home and translation job status](../concept/lw-status-synchronization.md).
+    The Short Description is displayed in the **My Requests** list on the Home screen, so you can find and monitor your request later. For information see [Localization Workspace Home and translation job status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/lw-status-synchronization.md).
 
 4.  Select target languages or language groups according to the following guidance.
 

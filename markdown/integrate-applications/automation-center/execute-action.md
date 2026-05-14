@@ -25,7 +25,7 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
     The Automation Center dashboard is displayed.
 
-2.  Select the Action Center icon \(![Action Center icon](../images/action-center-icon.png)\) on the left.![Action Center](../images/action-center-page.png)
+2.  Select the Action Center icon \(![Action Center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/action-center-icon.png)\) on the left.![Action Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/action-center-page.png)
 
     -   In the **Recents** section, all actions that have been executed are displayed.
     -   You can view all the actions that have been executed by selecting the **View list** button in the **Recents** section.
@@ -39,5 +39,5 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
     The action is run and displayed in the **Recents** section.
 
 
-**Parent Topic:**[Working with actions](../concept/actions.md)
+**Parent Topic:**[Working with actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/actions.md)
 

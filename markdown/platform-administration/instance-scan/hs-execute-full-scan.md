@@ -29,11 +29,11 @@ Role required: admin
 
     The progress tracker shows the status of the scan.
 
-    ![Image showing full scan progress tracker](../image/hs-progress-worker.png)
+    ![Image showing full scan progress tracker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-progress-worker.png)
 
-    **Note:** You can now execute multiple full scans simultaneously if you have enabled glide.scan.parallel\_scan\_enabled system property. You can also set the maximum number of scans that can run concurrently by setting the value for glide.scan.max\_parallel\_scans property. See [Instance Scan properties](../reference/hs-sys-properties.md) for more information.
+    **Note:** You can now execute multiple full scans simultaneously if you have enabled glide.scan.parallel\_scan\_enabled system property. You can also set the maximum number of scans that can run concurrently by setting the value for glide.scan.max\_parallel\_scans property. See [Instance Scan properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-sys-properties.md) for more information.
 
-    ![Image showing parallel scan in full scan](../image/hs-full-scan-queue-parallel.png)
+    ![Image showing parallel scan in full scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-full-scan-queue-parallel.png)
 
     Select View queued requests link to see all the queued requests on the Scan Queue Operations page.
 
@@ -54,16 +54,16 @@ Role required: admin
 
 A scan of the whole instance is executed.
 
-**Parent Topic:**[Executing a scan](../reference/hs-execute-scans.md)
+**Parent Topic:**[Executing a scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-execute-scans.md)
 
 **Related topics**  
 
 
-[Execute a point scan](hs-execute-point-scan.md)
+[Execute a point scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-point-scan.md)
 
-[Execute a test scan](hs-execute-test-scan.md)
+[Execute a test scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-execute-test-scan.md)
 
-[Execute a suite scan](hc-execute-suite-scan.md)
+[Execute a suite scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-execute-suite-scan.md)
 
-[Execute a reactive scan](hs-reactive-scan.md)
+[Execute a reactive scan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-reactive-scan.md)
 

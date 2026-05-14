@@ -17,35 +17,35 @@ The ServiceNow® Policy and Compliance Management product provides a centralized
 
 <table id="table_udy_skn_ntb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore key features and benefits of Policy and Compliance Management](../concept/policy-compliance.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-explore.svg) Explore key features and benefits of Policy and Compliance Management](../concept/policy-compliance.md)
 
 </td><td>
 
-[Implement![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Implement setup steps for the GRC: Policy and Compliance Management application](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md)
+[Implement![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Implement setup steps for the GRC: Policy and Compliance Management application](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md)
 
 </td><td>
 
-[Install ![](../../../reuse/icons/brand-icons/bus-profile.svg) Install components for Policy and Compliance Management](r_InstallWPolAndCompl.md#)
+[Install ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-profile.svg) Install components for Policy and Compliance Management](r_InstallWPolAndCompl.md#)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the Compliance Workspace for compliance tasks](../../grc-workspace-compliance/concept/work-in-compliance-ws.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use the Compliance Workspace for compliance tasks](../../grc-workspace-compliance/concept/work-in-compliance-ws.md)
 
 </td><td>
 
-[Build ![](../../../reuse/icons/brand-icons/bus-2-buildings.svg) Author and redline policy documents in Compliance Workspace](../concept/policy-authoring-redlining.md)
+[Build ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-2-buildings.svg) Author and redline policy documents in Compliance Workspace](../concept/policy-authoring-redlining.md)
 
 </td><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-manage.svg) Manage mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-manage.svg) Manage mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
 
 </td></tr><tr><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate with UCF Common Controls Hub to manage compliance frameworks](../../grc-ucf-import/concept/c_UCF.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Integrate with UCF Common Controls Hub to manage compliance frameworks](../../grc-ucf-import/concept/c_UCF.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Analytics and reporting solutions for compliance records](../../../use/dashboards/application-content-packs/grc-policy-compliance-content-pack.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../../reuse/icons/brand-icons/bus-actionable-analytics.svg) Analytics and reporting solutions for compliance records](../../../use/dashboards/application-content-packs/grc-policy-compliance-content-pack.md)
 
 </td><td>
 

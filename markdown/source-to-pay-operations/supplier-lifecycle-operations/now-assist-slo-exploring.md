@@ -29,7 +29,7 @@ Now Assist for Supplier Lifecycle Operations \(SLO\) includes the following capa
 -   Sentiment Analysis helps reduce escalated cases by providing agents with the current sentiment on a case, based on interactions and the latest trends. It also offers insights into why the sentiment is what it is today.
 -   Email response generation generates contextually relevant email responses by analyzing case and task details.
 
-![Now Assist skills for Supplier Lifecycle Operations](../image/now-assist-slo-skills.png "Now Assist skills for SLO")
+![Now Assist skills for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/now-assist-slo-skills.png "Now Assist skills for SLO")
 
 **Note:**
 
@@ -45,37 +45,37 @@ The Now Assist for SLO application includes generative AI skills and features th
 
     Fulfillers can customize prompt configuration and prompt optimization using the preprocessor in the Now Assist Skill kit \(NASK\). The skill supports multiple models such as OpenAI, Claude, Gemini, Now LLM. To customize the prompt instructions, sn\_skill\_builder\_admin role is mandatory.
 
-    For more information about how to summarize a case, see [Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](../task/now-assist-slo-summarize-case.md).
+    For more information about how to summarize a case, see [Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/now-assist-slo-summarize-case.md).
 
 -   **Supplier performance summarization**
 
     Provides supplier managers the complete KPI performance summary including overall performance scores, trends, and action items.
 
-    For more information about how to summarize a supplier's performance, see [Summarize supplier performance in Source-to-Pay Workspace](../task/summarize-supp-perf.md).
+    For more information about how to summarize a supplier's performance, see [Summarize supplier performance in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/summarize-supp-perf.md).
 
 -   **Sentiment Analysis for supplier case**
 
-    The Sentiment Analysis skill analyzes requester's responses and determines the overall sentiment associated with a supplier case. The sentiment and sentiment trend generated helps you gauge the urgency of a supplier case by indicating whether the requester's tone is improving, worsening, or remaining consistent over time. For more information, see [Analyze sentiments in supplier cases](../task/slo-analyze-sentiments.md).
+    The Sentiment Analysis skill analyzes requester's responses and determines the overall sentiment associated with a supplier case. The sentiment and sentiment trend generated helps you gauge the urgency of a supplier case by indicating whether the requester's tone is improving, worsening, or remaining consistent over time. For more information, see [Analyze sentiments in supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/slo-analyze-sentiments.md).
 
 -   **Email response for supplier case**
 
-    The Email response for supplier case skill generates contextually relevant email responses by analyzing case details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles. Use this skill to draft, adjust the tone, shorten, or elaborate email responses, reducing the time spent on manual email composition. You can also use predefined templates to maintain consistency in your email responses. For more information, see [Generate an email response for supplier cases](../task/generate-email-response-for-supplier-case.md).
+    The Email response for supplier case skill generates contextually relevant email responses by analyzing case details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles. Use this skill to draft, adjust the tone, shorten, or elaborate email responses, reducing the time spent on manual email composition. You can also use predefined templates to maintain consistency in your email responses. For more information, see [Generate an email response for supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/generate-email-response-for-supplier-case.md).
 
 -   **Email response for supplier task**
 
-    The Email response for supplier task skill generates contextually relevant email responses by analyzing task details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles. Use this skill to draft, adjust the tone, shorten, or elaborate email responses, reducing the time spent on manual email composition. You can also use predefined templates to maintain consistency in your email responses. For more information, see [Generate an email response for supplier tasks](../task/generate-email-response-for-supplier-tasks.md).
+    The Email response for supplier task skill generates contextually relevant email responses by analyzing task details such as case type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles. Use this skill to draft, adjust the tone, shorten, or elaborate email responses, reducing the time spent on manual email composition. You can also use predefined templates to maintain consistency in your email responses. For more information, see [Generate an email response for supplier tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/generate-email-response-for-supplier-tasks.md).
 
 
-To learn how to configure Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md).
+To learn how to configure Now Assist for SLO, see [Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/now-assist-slo-configuring.md).
 
-To learn more about how to use Now Assist for SLO, see [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md).
+To learn more about how to use Now Assist for SLO, see [Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md).
 
 **Related topics**  
 
 
-[Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-supporting-info.md)
+[Supporting information for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-supporting-info.md)
 
-[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](../task/now-assist-slo-configuring.md)
+[Configure Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/now-assist-slo-configuring.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-using.md)
 

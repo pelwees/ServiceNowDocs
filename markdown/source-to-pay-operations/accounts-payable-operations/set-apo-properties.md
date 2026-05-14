@@ -19,7 +19,7 @@ Use the APO properties form to set the parameters that control the invoice line 
 
 Role required: admin
 
-![APO properties page](../image/apo-properties.png)
+![APO properties page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-properties.png)
 
 ## Procedure
 
@@ -35,6 +35,6 @@ Role required: admin
 
 4.  Select **Save**.
 
-    The changes to the application scope are saved. For more information on the form view options available for admin, AP admin and integrator roles, see [Accounts Payable Operations properties](../reference/acc-pay-properties.md).
+    The changes to the application scope are saved. For more information on the form view options available for admin, AP admin and integrator roles, see [Accounts Payable Operations properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/acc-pay-properties.md).
 
 

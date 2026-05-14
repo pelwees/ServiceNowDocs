@@ -29,11 +29,11 @@ The CI placement type table for Google Cloud \[sn\_cld\_intg\_gcp\_ci\_placement
 
 1.  Go to the CI placement type table and select **New**.
 
-    ![List of class types in the Core CI placement type table](../image/gcp-ci-type.png "Google Cloud class types in the Core CI placement type table [sn_cld_intg_core_ci_placement_type]")
+    ![List of class types in the Core CI placement type table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/gcp-ci-type.png "Google Cloud class types in the Core CI placement type table [sn_cld_intg_core_ci_placement_type]")
 
 2.  Fill in the form.
 
-    ![Example class type definition.](../image/aws-class-type-defintion.png)
+    ![Example class type definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/aws-class-type-defintion.png)
 
 <table id="table_vgv_w4k_gtb"><thead><tr><th>
 
@@ -80,6 +80,6 @@ Parameter values in the billing node table that uniquely define the CI type.
 </td></tr></tbody>
 </table>3.  After you add a class type, you must reimport billing and usage data to ensure that CIs are correctly placed into the new type.
 
-    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Google Cloud services](../reference/gcp-supported-ci-class-types.md).
+    **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Google Cloud services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../reference/gcp-supported-ci-class-types.md).
 
 

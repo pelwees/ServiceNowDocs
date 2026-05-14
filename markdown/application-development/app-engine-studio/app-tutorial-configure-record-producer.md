@@ -29,11 +29,11 @@ Phase 1
 
 </td><td align="justify">
 
-![Completed icon](../image/app-tutorial-progress-complete2.png)
+![Completed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-complete2.png)
 
 </td><td>
 
-[Add a record producer](app-tutorial-add-record-producer.md)
+[Add a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-add-record-producer.md)
 
 </td></tr><tr><td>
 
@@ -41,14 +41,14 @@ Phase 2
 
 </td><td align="justify">
 
-![In progress icon](../image/app-tutorial-progress-wip.png)
+![In progress icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-wip.png)
 
 </td><td>
 
-[Configure a record producer](app-tutorial-configure-record-producer.md)
+[Configure a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-record-producer.md)
 
 </td></tr></tbody>
-</table>This procedure covers the second part of the task demonstrated in the tutorial video. The first part of the procedure is outlined in the previous topic [Add a record producer](app-tutorial-add-record-producer.md).
+</table>This procedure covers the second part of the task demonstrated in the tutorial video. The first part of the procedure is outlined in the previous topic [Add a record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-add-record-producer.md).
 
 Follow along to configure the record producer for the employee travel request application.
 
@@ -73,7 +73,7 @@ Create a record producer
     -   To open a record producer that you have created, select **Edit record producer**.
     When your record producer is open, it appears in the canvas space.
 
-    ![Your record producer is open in the canvas space.](../image/app-tutorial-record-producer-open.png)
+    ![Your record producer is open in the canvas space.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-record-producer-open.png)
 
 2.  Edit or add details about the record producer in the **Item name** or **Short description** fields.
 
@@ -91,7 +91,7 @@ Create a record producer
 
 6.  In the **Catalogs** card, select **Browse**.
 
-7.  From the **Available options** list, select **Service Catalog** and use the move icon \(![Move icon](../image/app-tutorial-move-right-icon.png)\) to add it to the **Selected catalogs** list.
+7.  From the **Available options** list, select **Service Catalog** and use the move icon \(![Move icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-move-right-icon.png)\) to add it to the **Selected catalogs** list.
 
 8.  Select **Save selections**.
 
@@ -99,7 +99,7 @@ Create a record producer
 
 10. Create containers, or sections, for the form questions.
 
-    1.  Select the arrow icon \(![Arrow icon](../image/app-tutorial-dropdown-arrow-icon.png)\) in the **Insert new question** button to expand the menu of available question types.
+    1.  Select the arrow icon \(![Arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-dropdown-arrow-icon.png)\) in the **Insert new question** button to expand the menu of available question types.
 
     2.  Select **Single column container** from the list.
 
@@ -200,8 +200,8 @@ Create a record producer
 
     In our tutorial, we don’t grant or deny access to any users or groups.
 
-    -   To make the form available to specific users or groups, select **Browse** in the **Available for** card, then search for the users or groups that you want to grant access to. Move the users or groups from the **Available options** list to the **User criteria granted access** list using the move icon \(![Move icon](../image/app-tutorial-move-right-icon.png)\).
-    -   To make the form unavailable for certain users or groups, select **Browse** in the **Unavailable for** card, then search for the users or groups that you want to deny access to. Move the users or groups from the **Available options** list to the **User criteria denied access** list using the move icon \(![Move icon](../image/app-tutorial-move-right-icon.png)\).
+    -   To make the form available to specific users or groups, select **Browse** in the **Available for** card, then search for the users or groups that you want to grant access to. Move the users or groups from the **Available options** list to the **User criteria granted access** list using the move icon \(![Move icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-move-right-icon.png)\).
+    -   To make the form unavailable for certain users or groups, select **Browse** in the **Unavailable for** card, then search for the users or groups that you want to deny access to. Move the users or groups from the **Available options** list to the **User criteria denied access** list using the move icon \(![Move icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-move-right-icon.png)\).
 18. Select **Continue to review and submit** to review and finalize your form.
 
 19. Select **Submit**.
@@ -213,5 +213,5 @@ Your record producer is configured and ready for testing.
 
 ## What to do next
 
-Continue building the employee travel request application by proceeding to the next step: [Adding logic and automation](../concept/app-tutorial-logic-automation-layer.md).
+Continue building the employee travel request application by proceeding to the next step: [Adding logic and automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/app-tutorial-logic-automation-layer.md).
 

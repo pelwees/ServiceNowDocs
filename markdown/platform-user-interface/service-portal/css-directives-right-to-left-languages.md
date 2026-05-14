@@ -41,5 +41,5 @@ transform: rotate(45deg) translateY(5px) #{"/*rtl:ignore*/"};
 }
 ```
 
-**Parent Topic:**[Styling for right-to-left languages in portals](styling-right-to-left-languages.md)
+**Parent Topic:**[Styling for right-to-left languages in portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/styling-right-to-left-languages.md)
 

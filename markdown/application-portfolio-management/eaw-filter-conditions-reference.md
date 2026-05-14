@@ -55,5 +55,5 @@ When multiple sort fields are defined, records are sorted using the fields in th
 |Ascending|Displays records from lowest to highest value, such as A to Z.|
 |Descending|Displays records from highest to lowest value, such as Z to A.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

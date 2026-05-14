@@ -33,7 +33,7 @@ A transfer order can contain one or more transfer order lines. Under a single tr
 
 3.  On the Create transfer order line form, fill in the fields.
 
-    For a description of the field values, see [Transfer order line fields](../reference/create-transfer-order-line-fields.md).
+    For a description of the field values, see [Transfer order line fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../reference/create-transfer-order-line-fields.md).
 
 4.  If the model is a consumable, specify a quantity in **Quantity Requested**.
 
@@ -52,12 +52,12 @@ A transfer order line is created along with a transfer order line task.
 
 Close the transfer order line task to complete the task.
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/work-with-transfer-orders.md)
 
 **Related topics**  
 
 
-[Create a transfer order](create-a-transfer-order.md)
+[Create a transfer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-a-transfer-order.md)
 
-[Close transfer order line task](move-transfer-order-line-through-stages.md)
+[Close transfer order line task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/move-transfer-order-line-through-stages.md)
 

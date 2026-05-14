@@ -32,14 +32,14 @@ When you aggregate by **Average** or **Sum** on an FX currency field, you choose
 
     Calculate values based on currency values entered by the user.
 
-    **Note:** If you select this option, you may experience situations where amounts entered in different currencies can't be properly aggregated. For example, if there are currency amounts in US Dollars, Yen, and Euros. It is only possible to aggregate values on one currency at a time. If you aggregate records in different currencies, this error displays: 'Cannot generate the report. There are mismatched currency codes.' See [Mismatched currency example](fx-currency-values-reporting.md#).
+    **Note:** If you select this option, you may experience situations where amounts entered in different currencies can't be properly aggregated. For example, if there are currency amounts in US Dollars, Yen, and Euros. It is only possible to aggregate values on one currency at a time. If you aggregate records in different currencies, this error displays: 'Cannot generate the report. There are mismatched currency codes.' See [Mismatched currency example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/fx-currency-values-reporting.md#).
 
 -   **Reference values**
 
     Calculates the values based on the reference currency.
 
 
-**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
 ## Report on FX currency fields
 
@@ -59,7 +59,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 3.  On the **Type** tab, choose the visualization type that you want to use.
 
-    See [Report types](../reference/report-types-creation-details-rd.md).
+    See [Report types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../reference/report-types-creation-details-rd.md).
 
 4.  On the **Configure** tab, choose how you want to group, stack, and aggregate the report.
 
@@ -72,7 +72,7 @@ When you report on FX Currency tables, some combinations of group and aggregatio
 
 The source of this report has costs in euros, Japanese yen, and British pounds. This visualization aggregates costs by count distinct, meaning that each individual value gets its own segment.
 
-![FX currency example with count distinct aggregation](../image/fx-currency-count-distinct.png)
+![FX currency example with count distinct aggregation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/fx-currency-count-distinct.png)
 
 When you try to aggregate costs in multiple currencies by sum or average, there are several possible outcomes.
 

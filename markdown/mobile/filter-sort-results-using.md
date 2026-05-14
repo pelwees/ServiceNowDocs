@@ -19,7 +19,7 @@ Role required: user
 
 ## Procedure
 
-1.  Tap the filter icon \(![Filter icon](../image/filter-icon.png)\) to filter your records.
+1.  Tap the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/filter-icon.png)\) to filter your records.
 
 2.  Apply filtering and sorting options to your list by performing the following actions.
 
@@ -31,7 +31,7 @@ Select the category or categories you want to filter. Your administrator decides
 
 </td><td>
 
-![Mobile filter categories.](../image/mobile-filters-1.png)
+![Mobile filter categories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filters-1.png)
 
 </td></tr><tr><td>
 
@@ -39,17 +39,17 @@ Select **Sort by** to display a list of options by which you sort your filtered 
 
 </td><td>
 
-![Mobile filter sorting options.](../image/mobile-filters-sort-by.png)
+![Mobile filter sorting options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filters-sort-by.png)
 
 </td></tr><tr><td>
 
-Select how you want to view your filtered results. Your administrator sets the default value. After you make your selection:-   Tap the back button \(![Back button to return to the previous screen.](../image/back-button.png)\) to return to the filtering options.
+Select how you want to view your filtered results. Your administrator sets the default value. After you make your selection:-   Tap the back button \(![Back button to return to the previous screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/back-button.png)\) to return to the filtering options.
 -   Tap **Apply** to apply your filtering and sorting selections.
 
 
 </td><td>
 
-![Mobile filter sorting option menu.](../image/mobile-filter-sort-menu.png)
+![Mobile filter sorting option menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filter-sort-menu.png)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ For date fields, tap the date field to display a calendar interface. The followi
 
 </td><td>
 
-![Date selection interface for a mobile filter.](../image/mobile-filters-3.png)
+![Date selection interface for a mobile filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filters-3.png)
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ For fields where you must select a value rather than enter a value, the availabl
 
 </td><td>
 
-![Check box options for filters.](../image/mobile-filters-4.png)
+![Check box options for filters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filters-4.png)
 
 </td></tr><tr><td>
 
@@ -78,9 +78,9 @@ Select **Apply**, after you define your filtering and sorting options.
 
 </td><td>
 
-![Filter with selected conditions](../image/mobile-filters-5.png)
+![Filter with selected conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filters-5.png)
 
 </td></tr></tbody>
-</table>3.  Bookmark your filter and sorting selections for easy access. See, [Mobile saved views](../concept/saved-views-mobile.md).
+</table>3.  Bookmark your filter and sorting selections for easy access. See, [Mobile saved views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/saved-views-mobile.md).
 
 

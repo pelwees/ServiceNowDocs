@@ -34,5 +34,5 @@ By default, all inbound SOAP traffic must be signed. Administrators may want to 
 4.  Click **Update**.
 
 
-**Parent Topic:**[SOAP web service](../concept/c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_SOAPWebService.md)
 

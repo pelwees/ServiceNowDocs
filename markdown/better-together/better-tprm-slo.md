@@ -37,15 +37,15 @@ Supplier onboarding
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -53,15 +53,15 @@ Information and data management
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -69,15 +69,15 @@ Case and dispute management
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -85,15 +85,15 @@ Risk onboarding
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -101,15 +101,15 @@ Third-party risk due diligence, external and internal risk assessment
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -117,15 +117,15 @@ Risk intelligence
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -133,15 +133,15 @@ Risk scoring and monitoring
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -149,15 +149,15 @@ Risk executive dashboard
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Workflow of Risk Assessments Integration for Supplier Lifecycle Operations
@@ -169,7 +169,7 @@ Use Supplier Lifecycle Operations and Third-party Risk Management together for t
 
 The following figure shows an example workflow of how a supplier manager and a third-party risk \(TPR\) assessor can use the applications together to evaluate supplier risk.
 
-![SLO and TPRM risk assessment flow](../image/supp-onboarding-dd.png "The Supplier Lifecycle Operations and Third-party Risk Management workflow")
+![SLO and TPRM risk assessment flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../image/supp-onboarding-dd.png "The Supplier Lifecycle Operations and Third-party Risk Management workflow")
 
 In this workflow:
 
@@ -216,5 +216,5 @@ Get started with Risk Assessments Integration for Supplier Lifecycle Operations 
 11. The supplier manager closes the due diligence request \(case\).
 12. As a supplier manager, you can use the risk assessment result data in combination with any other data to determine whether to continue or cancel the onboarding process.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

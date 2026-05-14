@@ -86,5 +86,5 @@ This option is available only when **Type** is **Portfolio** or **Program**.
 </table>**Related topics**  
 
 
-[Create an investment board](../task/create-an-investment-report.md)
+[Create an investment board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/create-an-investment-report.md)
 

@@ -40,7 +40,7 @@ However, catalogs that are cluttered, inconsistent, or overly complex make it di
 
     Identify catalog items with fewer than 15 variables. \(Items with more than 15 variables are better suited to be submitted as pop-up links to forms.\)
 
-    **Note:** Conversational catalog items require Now Assist in Virtual Agent. For details, see [Now Assist in Virtual Agent readiness on the ServiceNow AI Platform](sn-ai-impl-nava.md).
+    **Note:** Conversational catalog items require Now Assist in Virtual Agent. For details, see [Now Assist in Virtual Agent readiness on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-ai-impl-nava.md).
 
     Why? These are easier to convert and provide quick AI wins.
 

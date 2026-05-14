@@ -74,18 +74,18 @@ Steps
 </table>
 ## What to do next
 
-1.  [Create or manage an information object within a processing activity](create-manage-io-on-pa.md).
-2.  [Add key stakeholders and send privacy assessments](add-stakeholders-to-a-pa.md).
-3.  [Add impacted areas to a case](add-impacted-areas.md).
-4.  [Add related areas to a case](add-related-areas.md).
-5.  [Add causes and consequences to a case](add-causes-consequences.md).
-6.  [Add regulations to a case](add-regulations.md).
-7.  [Add issues to a case](add-issues.md).
+1.  [Create or manage an information object within a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-manage-io-on-pa.md).
+2.  [Add key stakeholders and send privacy assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-stakeholders-to-a-pa.md).
+3.  [Add impacted areas to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-impacted-areas.md).
+4.  [Add related areas to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-related-areas.md).
+5.  [Add causes and consequences to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-causes-consequences.md).
+6.  [Add regulations to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-regulations.md).
+7.  [Add issues to a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-issues.md).
 
--   **[Reassign an assessment type case task](reassign-a-case-task.md)**  
+-   **[Reassign an assessment type case task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/reassign-a-case-task.md)**  
 Reassign an **Assessment type** case task to another user. A case analyst or a case task owner can reassign a task to another case task owner, if required.
--   **[Review and close a case task](review-a-case-task.md)**  
+-   **[Review and close a case task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/review-a-case-task.md)**  
 Review a case task after a case task owner provides their responses and observations for the case.
 
-**Parent Topic:**[Case task workflow](../concept/case-task-workflow.md)
+**Parent Topic:**[Case task workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/case-task-workflow.md)
 

@@ -30,5 +30,5 @@ Role required: sn\_esg\_msoff\_intg.admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[Set up Microsoft 365 reporting configuration](configure-o365-reporting-configs.md)
+**Parent Topic:**[Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md)
 

@@ -33,7 +33,7 @@ Pulling retrieves all versions for changes made by users that have not already b
 
     The Push and Pull Versions related list for the Push or Pull form shows the customized records for which versions were retrieved and indicates if any pull exceptions exist.
 
-    ![Pull history](../image/PullHistory.png)
+    ![Pull history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/PullHistory.png)
 
 4.  Resolve any collisions.
 

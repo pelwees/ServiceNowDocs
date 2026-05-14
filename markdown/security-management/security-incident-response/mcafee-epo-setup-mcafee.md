@@ -37,27 +37,27 @@ The following steps show you how to install the extension plugin, create a secur
 
     1.  Log in to your McAfee ePO console with your McAfee user name and password.
 
-        ![McAfee ePO console login dialog.](../image/mcafee-extension_install_1.png)
+        ![McAfee ePO console login dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-extension_install_1.png)
 
 2.  If the page shown in the following figure is not displayed, in the top left of banner of the home page, click the menu icon to display it.
 
-    ![Menu icon McAfee in McAfee ePO.](../image/mcafee-extension-install_3.png)
+    ![Menu icon McAfee in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-extension-install_3.png)
 
 3.  In the Software section, click the **Extensions** link.
 
-    ![Extensions software option highlighted in McAfee ePO.](../image/mcafee-extension_install_2.png)
+    ![Extensions software option highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-extension_install_2.png)
 
 4.  On the Extensions page that is displayed, click **Install Extension**.
 
-    ![Install Extension button highlighted in McAfee ePO.](../image/mcafee_extension_install_btn.png)
+    ![Install Extension button highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_extension_install_btn.png)
 
 5.  In the Install Extension dialog, click **Choose File**, navigate to the `Servicenow.zip` file on your system, and click **OK** to download it.
 
-    ![Install Extension dialog in McAfee ePO.](../image/mcafee-extension_install_4.png)
+    ![Install Extension dialog in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-extension_install_4.png)
 
     After the download is completed, the Software Extensions page is displayed with the ServiceNow Extension plugin listed.
 
-    ![Extensions page in McAfee ePO.](../image/mcafee_extension_install_5.png)
+    ![Extensions page in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_extension_install_5.png)
 
     You have successfully installed the ServiceNow plugin Extension on your McAfee ePO console.
 
@@ -65,37 +65,37 @@ The following steps show you how to install the extension plugin, create a secur
 
     1.  Navigate to the home page and click the **Tag Catalog** link.
 
-        ![Tag Catalog highlighted in McAfee ePO.](../image/mcafee_tag_creation_1.png)
+        ![Tag Catalog highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_1.png)
 
     2.  On the Tag Catalog page that is displayed, click **New Tag**.
 
-        ![New Tag button highlighted in McAfee ePO.](../image/mcafee_tag_creation_2.png)
+        ![New Tag button highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_2.png)
 
     3.  With the Description step selected in the progress bar that is displayed, enter a name and description for the tag.
 
         For this example, a tag with a name and description for the Initiate Malware Scan capability is displayed. This tag name is what is matched and referenced in your ServiceNow AI Platform instance.
 
-        ![Description field of the Tag Catalog.](../image/mcafee_tag_creation_3.png)
+        ![Description field of the Tag Catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_3.png)
 
     4.  To advance to the Criteria step, click **Criteria** in the progress bar.
 
         The messages that are displayed indicate that no actions are currently assigned to this tag, and that the tag can only be applied manually.
 
-        ![Message displayed that ServiceNow tag is required in McAfee ePO.](../image/mcafee_tag_creation_4.png)
+        ![Message displayed that ServiceNow tag is required in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_4.png)
 
     5.  Click **Evaluation** in the progress bar to continue.
 
-        ![Evaluation tab of Tag Catalog.](../image/mcafee_tag_creation_5.png)
+        ![Evaluation tab of Tag Catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_5.png)
 
     6.  With the Tag Catalog page of the Evaluation step displayed, leave the settings on this page in their defaults, and, in the progress bar, click **Preview**.
 
-        ![Message displayed that ServiceNow tag is required in McAfee ePO.](../image/mcafee-tag_creation_6.png)
+        ![Message displayed that ServiceNow tag is required in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-tag_creation_6.png)
 
     7.  With the Preview page displayed, in the lower right of the page, click **Save** to save the record.
 
         The new tag is displayed in the Tag catalog as shown in the following figure.
 
-        ![Tag Catalog with ServiceNow tag for initiate malware scan highlighted in McAfee ePO.](../image/mcafee_tag_creation_7.png)
+        ![Tag Catalog with ServiceNow tag for initiate malware scan highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_creation_7.png)
 
 7.  Create a security tag for the host isolation action by repeating the previous steps.
 
@@ -105,23 +105,23 @@ The following steps show you how to install the extension plugin, create a secur
 
     1.  Navigate to the home page and in the Policy section, click the **Client Task Assignments** link.
 
-        ![Client Task Assignments highlighted in McAfee ePO.](../image/mcafee_tag_action_1.png)
+        ![Client Task Assignments highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_1.png)
 
     2.  In the System Tree page that is displayed, at the bottom of the page, expand the **Actions** menu and select **New Client Task Assignment**.
 
-        ![Choice list expanded with New Client Task Assignment highlighted in McAfee ePO.](../image/mcafee_tag_action_2.5.png)
+        ![Choice list expanded with New Client Task Assignment highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_2.5.png)
 
     3.  On the page that is displayed, navigate to **Endpoint Security Threat Prevention** &gt; **Policy Based On-Demand Scan** &gt; **On-Demand Scan - Full Scan** by selecting the path as shown in the following figure.
 
-        ![System Tree with On-Demand Scan highlighted in McAfee ePO.](../image/mcafee_tag_action_no_tag_assigned.png)
+        ![System Tree with On-Demand Scan highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_no_tag_assigned.png)
 
     4.  In the Tags section, under the radio button and next to `Has any of these tags:`, click the **edit** link to edit the criteria for the tag.
 
-        ![Edit link highlighted in System Tree for On-Demand Scan in McAfee ePO.](../image/tag_action_no_tag_assigned1.png)
+        ![Edit link highlighted in System Tree for On-Demand Scan in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/tag_action_no_tag_assigned1.png)
 
     5.  In the dialog that is displayed, select the Initiate Malware Scan ServiceNow tag that you created in the preceding steps and click **OK**.
 
-        ![ServiceNow initiate malware scan tag selected and highlighted in McAfee ePO.](../image/mcafee_tag_action_assignment_dialog.png)
+        ![ServiceNow initiate malware scan tag selected and highlighted in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_assignment_dialog.png)
 
         The ServiceNow Initiate Malware Scan tag you created is assigned to the On-Demand Scan action.
 
@@ -129,22 +129,22 @@ The following steps show you how to install the extension plugin, create a secur
 
         In the Tags section, under the radio button and next to `Has any of these tags:`, the Initiate Malware Scan tag is displayed.
 
-        ![Send this task to only computers which have the following criteria option selected in McAfee ePO.](../image/mcafee_tag_action_tag_selected.png)
+        ![Send this task to only computers which have the following criteria option selected in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_tag_selected.png)
 
     7.  Click **Save**.
 
         On the System Tree page, the task is displayed on the Assigned Client Tasks list \(tab\).
 
-        ![On-Demand scan highlighted in System Tree in McAfee ePO.](../image/mcafee_tag_action_4.png)
+        ![On-Demand scan highlighted in System Tree in McAfee ePO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee_tag_action_4.png)
 
     8.  If you have not assigned an action to the Isolate Host action, repeat the previous steps to assign it.
 
     You have successfully installed the extension plugin, created security tags, and assigned tasks to your tags. You have completed the setup for the integration in your McAfee ePO console. The next step is to configure a server in your ServiceNow AI Platform instance.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](../reference/mcaffee-epo-setup-now.md)
+**Previous topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/mcaffee-epo-setup-now.md)
 
-**Next topic:**[Install the application and configure a server for the McAfee ePO integration](mcaffe-epo-install.md)
+**Next topic:**[Install the application and configure a server for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffe-epo-install.md)
 

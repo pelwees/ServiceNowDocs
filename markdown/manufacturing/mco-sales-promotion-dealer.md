@@ -15,6 +15,6 @@ The dealer portal enables the dealers to view the sales promotions campaign crea
 
 |Task|Description|
 |----|-----------|
-|[Submit a sales promotion claim](../task/mco-sales-promotion-single-claim.md)|Submit a single sales promotion claim case.|
-|[Upload a bulk sales promotion claim](../task/mco-sales-promotion-bulk-upload.md)|Bulk upload the sales promotion claims.|
+|[Submit a sales promotion claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-sales-promotion-single-claim.md)|Submit a single sales promotion claim case.|
+|[Upload a bulk sales promotion claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-sales-promotion-bulk-upload.md)|Bulk upload the sales promotion claims.|
 

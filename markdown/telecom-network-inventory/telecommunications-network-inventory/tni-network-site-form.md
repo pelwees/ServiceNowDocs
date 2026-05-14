@@ -49,7 +49,7 @@ Location
 
 </td><td>
 
-Geographic location of the network site. Select the search icon \(![Search icon.](../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](../task/define-tni-locations.md).
+Geographic location of the network site. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a location from the Location hierarchy. To learn more about the Location hierarchy, see [6910616cfeec459a9e107f2dc838f3f3b508f6ea.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-locations.md).
 
 </td></tr><tr><td>
 
@@ -84,12 +84,12 @@ Subcategory
 Subcategory of the site.
 
 </td></tr></tbody>
-</table>**Note:** To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](commonly-used-tni-identification-fields.md).
+</table>**Note:** To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](../task/define-tni-sites.md)
+[153f0911a5303dc2d91ba071cdb03271e0039fd3.dita](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-sites.md)
 

@@ -36,5 +36,5 @@ Role required: sn\_hr\_core.admin
 4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[HR service categorization](../concept/hr-service-categorization.md)
+**Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-service-categorization.md)
 

@@ -30,7 +30,7 @@ Before you get started with Performance Analytics, understand how the data flows
 
 5.  Multiple Performance Analytics widgets are presented in a single Dashboard view, allowing stakeholders to view all relevant business process information in a single place.
 
-![Diagram showing the flow of data in Performance Analytics, from generation to consumption](../image/pa-data-flow.png "Data flow in Performance Analytics")
+![Diagram showing the flow of data in Performance Analytics, from generation to consumption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/pa-data-flow.png "Data flow in Performance Analytics")
 
-**Parent Topic:**[Implement Performance Analytics](implementing-pa.md)
+**Parent Topic:**[Implement Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)
 

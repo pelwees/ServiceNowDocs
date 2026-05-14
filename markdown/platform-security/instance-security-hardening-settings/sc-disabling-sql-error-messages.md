@@ -25,7 +25,7 @@ Ensure that the **glide.db.loguser** system property is set to **false**.
 |---------|-----------|
 |Property name|**glide.db.loguser**|
 |Configuration type|System Properties \(/sys\_properties\_list.do\)|
-|Category|[Error handling and logging](sc-error-handling-logging.md)|
+|Category|[Error handling and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)|
 |Purpose|To disable SQL error messages from displaying within the browser.|
 |Type|Boolean|
 |Recommended value|false|
@@ -98,7 +98,7 @@ Category
 
 </td><td>
 
-[Error handling and logging](sc-error-handling-logging.md)
+[Error handling and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
 </td></tr><tr><td>
 
@@ -127,5 +127,5 @@ Dependencies and prerequisites
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Error handling and logging](sc-error-handling-logging.md)
+</table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 

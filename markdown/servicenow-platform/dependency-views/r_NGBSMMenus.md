@@ -15,7 +15,7 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 Dependency Views maps contain the following menus and controls.
 
-![Use the various menus and controls to filter, display or hide, and place nodes on the map.](../image/DependencyViewsMapMenusControls.png "Dependency Views map")
+![Use the various menus and controls to filter, display or hide, and place nodes on the map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/DependencyViewsMapMenusControls.png "Dependency Views map")
 
 ## Map options
 
@@ -23,7 +23,7 @@ The following options are available across the top of the map.
 
 <table id="table_t5r_jcx_dr"><tbody><tr><td>
 
-![Dependency Views map context menu.](../image/MenuIcon.png)
+![Dependency Views map context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/MenuIcon.png)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Next to the menu icon is the name of the current root node \(CI\) of the map.
 
 </td></tr><tr><td>
 
-![Search field on a Dependency Views map.](../image/SearchButton.png)
+![Search field on a Dependency Views map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/SearchButton.png)
 
 </td><td>
 
@@ -106,7 +106,7 @@ Set filters for the map.
 
 </td></tr><tr><td>
 
-![Navigation Tools.](../image/NavigationTool.png)
+![Navigation Tools.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/NavigationTool.png)
 
 </td><td>
 

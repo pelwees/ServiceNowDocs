@@ -25,19 +25,19 @@ The following tasks show how ServiceNow can be set up to use JWTs for OAuth 2.0 
 
 ## Procedure
 
-1.  [Upload Java Key Store certificate](JWT-Bearer-token-support.md#)
+1.  [Upload Java Key Store certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md#)
 
     Attach a JKS certificate to your instance to use to enable the JWT client authentication.
 
-2.  [Configure a JWT signing key](JWT-Bearer-token-support.md#)
+2.  [Configure a JWT signing key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md#)
 
     Create a JWT signing key to assign to your Java KeyStore \(JKS\) certificate.
 
-3.  [Create a JWT provider with a JWT signing key](JWT-Bearer-token-support.md#)
+3.  [Create a JWT provider with a JWT signing key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/JWT-Bearer-token-support.md#)
 
     Add a JWT provider to your ServiceNow instance.
 
-4.  [Connect to a third-party OAuth provider](connect-3rd-party-oauth-provider.md)
+4.  [Connect to a third-party OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/connect-3rd-party-oauth-provider.md)
 
     Create a third-party OAuth provider with a JWT Bearer as the default grant type in the ServiceNow Application Registry.
 

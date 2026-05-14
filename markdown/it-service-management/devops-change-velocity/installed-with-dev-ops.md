@@ -676,5 +676,5 @@ Work Item
  Extends table Base Planning Item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DevOps Change Velocity reference](devops-change-velocity-reference.md)
+</table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 

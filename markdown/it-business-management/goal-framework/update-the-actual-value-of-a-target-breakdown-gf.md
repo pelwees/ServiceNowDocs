@@ -59,19 +59,19 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Target form, update the **Actual** field and add a business justification in the **Remark** field.
 
-    For field information, see [Target Breakdown form](../reference/target-breakdown-form.md).
+    For field information, see [Target Breakdown form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/target-breakdown-form.md).
 
 3.  Select **Update**.
 
 
 ## Result
 
-After the **Actual** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [Progress value calculation](../concept/progress-value-calculation.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](../concept/target-breakdowns-gf.md).
+After the **Actual** field is updated, the progress value for the target and its goal is auto-updated. For information on how the progress value is calculated, see [Progress value calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/progress-value-calculation.md). For information on how the actual value of the target breakdown is rolled up to its target, see [Target breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/target-breakdowns-gf.md).
 
 **Related topics**  
 
 
-[Update the progress of a manual target](update-progress-of-target.md)
+[Update the progress of a manual target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-progress-of-target.md)
 
-[Update the progress of a target using Goal Framework for SPM](update-progress-of-target-agf.md)
+[Update the progress of a target using Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-progress-of-target-agf.md)
 

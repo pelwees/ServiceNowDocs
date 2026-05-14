@@ -149,7 +149,7 @@ Classification Criteria
 
 </td><td>
 
-Criteria formed from specific parameters and the values that they must contain to match devices that Discovery finds in the network with CIs in the CMDB. For a detailed discussion of these parameters, see [Discovery classification parameters](../reference/classification-parameters.md).
+Criteria formed from specific parameters and the values that they must contain to match devices that Discovery finds in the network with CIs in the CMDB. For a detailed discussion of these parameters, see [Discovery classification parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/classification-parameters.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Triggers probes
 
 </td><td>
 
-Exploration probes that Discovery launches to gather detailed information about a CI that it has classified in the network. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](../reference/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column.
+Exploration probes that Discovery launches to gather detailed information about a CI that it has classified in the network. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column.
 
 **Warning:** Do not specify your pattern in **Probe** column. Choose the Horizontal Pattern probe, which launches the specified pattern.
 
@@ -178,8 +178,8 @@ Versions
 Lists versions of this classifier. A new version is created whenever you modify the classifier record. To revert to a previous version, open that record and select **Revert to this version** under **Related Links**.
 
 </td></tr></tbody>
-</table>    This example shows a completed CI classification form with the Horizontal Pattern probe defined. For instruction on creating probes, see [Discovery probes and sensors](../concept/c_DiscoveryProbesAndSensors.md). Probes that are defined are launched when the device is properly classified, unless Discovery is configured to stop after classification.
+</table>    This example shows a completed CI classification form with the Horizontal Pattern probe defined. For instruction on creating probes, see [Discovery probes and sensors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryProbesAndSensors.md). Probes that are defined are launched when the device is properly classified, unless Discovery is configured to stop after classification.
 
-    ![Discovery classification form](../image/DiscoveryClassificationForm.png "Discovery classification form")
+    ![Discovery classification form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/DiscoveryClassificationForm.png "Discovery classification form")
 
 

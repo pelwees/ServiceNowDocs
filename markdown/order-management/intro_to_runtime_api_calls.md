@@ -23,7 +23,7 @@ All API calls follow this base URL format: `https://<yourTenant>.<sector>.logik.
 
 If you are a Salesforce user, you can find your tenant URL by clicking **Setup** in your Salesforce account. In the Quick Find box, search for or click **Custom Settings**, and then click **Manage**. Your tenant URL will be displayed.
 
-![Runtime API Calls](../images/cpq-apis-runtime-configuration-url.png)
+![Runtime API Calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-runtime-configuration-url.png)
 
 All runtime API calls require bearer token authentication using a unique token that is available in the runtime client. They also require that the origin URL configured in the runtime client appears in the request header.
 
@@ -34,11 +34,11 @@ Key: Origin
 Value: <yourOrigin>
 ```
 
-![Runtime API Calls](../images/cpq-apis-runtime-origin.png)
+![Runtime API Calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-runtime-origin.png)
 
 In the Authorization tab of Postman or your API tool, select **Bearer Token**, and then input the unique token you copied from CPQ Admin.
 
-![Runtime API Calls](../images/cpq-apis-runtime-bearer-token.png)
+![Runtime API Calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-apis-runtime-bearer-token.png)
 
 **Note:** The token in the image is a dummy value that does not correspond to any actual environment. It appears only for illustrative purposes.
 

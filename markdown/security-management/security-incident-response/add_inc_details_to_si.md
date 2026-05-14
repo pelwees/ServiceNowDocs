@@ -73,7 +73,7 @@ Work notes list
 
 </td><td>
 
-Click the lock icon \(![Lock](../../security-operations-common/common/images/lock.png)\) to add users who are notified when new work notes are added. After the field is unlocked, options are available for adding or removing multiple users or entering user email addresses. When you have completed your entries, click the lock icon to lock the field.
+Click the lock icon \(![Lock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/common/images/lock.png)\) to add users who are notified when new work notes are added. After the field is unlocked, options are available for adding or removing multiple users or entering user email addresses. When you have completed your entries, click the lock icon to lock the field.
 
 </td></tr><tr><td>
 
@@ -107,24 +107,24 @@ Activity
 
 Displays information manually entered in Work notes, and all dynamically updated task activity \(actions, comments, work notes, and so on\) on related records for this security incident. Work notes appear with a yellow color band.
 
-![Manually-entered work note](../image/manual-work-note.png)
+![Manually-entered work note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/manual-work-note.png)
 
  Automatically generated notes appear with a gray color band.
 
-![Automatically-generated work note](../image/auto-work-note.png)
+![Automatically-generated work note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/auto-work-note.png)
 
 </td></tr></tbody>
-</table>4.  You can limit the types of information displayed in the **Activity** field by clicking the filter \(![Filter](../image/filter-icon.png)\) icon.
+</table>4.  You can limit the types of information displayed in the **Activity** field by clicking the filter \(![Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/filter-icon.png)\) icon.
 
-    ![Filter activities](../image/filter.png)
+    ![Filter activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/filter.png)
 
     **Note:** The **Automation activity** check box allows you to include any enrichment performed by this security incident, including workflow activities, risk score updates, and so forth.
 
 5.  Click any of the following tabs to further update the security incident:
 
-    -   [Related Records](add-rel-recs-to-si.md)
-    -   [Post Incident Review](../concept/c_PostIncidentReview.md)
-    -   [Closure Information](add-closure-info-to-si.md)
+    -   [Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-rel-recs-to-si.md)
+    -   [Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/c_PostIncidentReview.md)
+    -   [Closure Information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add-closure-info-to-si.md)
 6.  When you have completed your entries, click **Submit**.
 
 

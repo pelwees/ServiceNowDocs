@@ -38,11 +38,11 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
     The Scheduled Data Import form is displayed.
 
-    ![Scheduled Data Import form.](../image/sch-data-import-form.png)
+    ![Scheduled Data Import form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sch-data-import-form.png)
 
 3.  On the form, fill in the fields.
 
-    For more information on the Scheduled Data Imports form, see [Scheduled Data Imports form](../reference/scheduled-data-imports-form.md).
+    For more information on the Scheduled Data Imports form, see [Scheduled Data Imports form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/scheduled-data-imports-form.md).
 
 4.  Select **Submit**.
 
@@ -56,7 +56,7 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
     The example shows a scheduled data import record where GDAC Feeds is the data source.
 
-    ![Sample scheduled data import record.](../image/sample-sch-import-record.png)
+    ![Sample scheduled data import record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sample-sch-import-record.png)
 
 6.  To delete an existing data import record, select **Delete**.
 
@@ -67,8 +67,8 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 The data import record is displayed in the **Scheduled Data Imports** record page.
 
--   **[Scheduled Data Imports form](../reference/scheduled-data-imports-form.md)**  
+-   **[Scheduled Data Imports form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/scheduled-data-imports-form.md)**  
 Use the Scheduled Data Imports form in the BCM Configurable Workspace to add details about a Scheduled data imports record.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/crisis-map-admin-tasks.md)
 

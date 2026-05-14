@@ -13,7 +13,7 @@ breadcrumb: [Configure a field editor for the HTML field, Reference, Field admin
 
 You can configure the TinyMCE HTML editor for a specific table by configuring the dictionary attributes.
 
-For information on configuring the toolbar, see [Change the TinyMCE default toolbar](tinymce.md#). For information on configuring specific plugins, see [Change TinyMCE plugins for a specific table](tinymce.md#). For information on configuring the default height of an HTML field, see [Change the default height of an HTML field](tinymce.md#). For information on configuring the default font size in an HTML field, see [Change the default font size of an HTML field](tinymce.md#). For information on configuring the menu bar on the TinyMCE HTML editor, see [Configure the menu bar on the TinyMCE HTML editor](tinymce.md#).
+For information on configuring the toolbar, see [Change the TinyMCE default toolbar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md#). For information on configuring specific plugins, see [Change TinyMCE plugins for a specific table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md#). For information on configuring the default height of an HTML field, see [Change the default height of an HTML field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md#). For information on configuring the default font size in an HTML field, see [Change the default font size of an HTML field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md#). For information on configuring the menu bar on the TinyMCE HTML editor, see [Configure the menu bar on the TinyMCE HTML editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md#).
 
 ## Change the TinyMCE default toolbar
 
@@ -194,13 +194,13 @@ After you set the dictionary attribute, use code view to manually enter deprecat
 
 2.  Right-click the HTML field label and select **Configure dictionary**.
 
-    ![Configure dictionary](../../form-administration/image/HTMLConfigureDictionary.png)
+    ![Configure dictionary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/image/HTMLConfigureDictionary.png)
 
 3.  In the **Attributes** field, enter `tinymce_allow_all=true`, separated by a comma if needed.
 
     Dictionary entry attributes can only be added to when the dictionary entry form is in advanced view, as they are not shown in default view.
 
-    ![Updated attribute field](../../form-administration/image/TinyMCEAllowAll.png)
+    ![Updated attribute field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/image/TinyMCEAllowAll.png)
 
     If other attributes are already listed, use a comma as a separator.
 
@@ -221,13 +221,13 @@ Role required: personalize\_dictionary or admin
 
 2.  Right-click the HTML field label and select **Configure dictionary**.
 
-    ![Configure dictionary](../../form-administration/image/HTMLConfigureDictionary.png)
+    ![Configure dictionary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/image/HTMLConfigureDictionary.png)
 
 3.  In the **Attributes** field, enter `tinymce_allow_script_urls=true`, separated by a comma if needed.
 
     Dictionary entry attributes can only be added to when the dictionary entry form is in advanced view, as they are not shown in default view.
 
-    ![Dictionary entry in Advanced view](../../form-administration/image/TinyMCEAllowAll.png)
+    ![Dictionary entry in Advanced view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/image/TinyMCEAllowAll.png)
 
     If other attributes are already listed, use a comma as a separator.
 

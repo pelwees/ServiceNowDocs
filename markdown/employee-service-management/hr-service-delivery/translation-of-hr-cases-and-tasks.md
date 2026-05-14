@@ -15,7 +15,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 Enable translations on HR case and task templates so that employees can view the short descriptions and descriptions of their HR cases and tasks in their preferred language.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
 ## Configure the global descriptions for translations for an HR template
 
@@ -37,8 +37,8 @@ Role required: admin
 
     For details on how to how to configure an HR case or task template, see:
 
-    -   [Configure an HR case template](../task/configure-hr-case-template.md)
-    -   [Configure an HR task template](../task/configure-hr-task-template.md)
+    -   [Configure an HR case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-case-template.md)
+    -   [Configure an HR task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-task-template.md)
 4.  To enable translations, make sure that the **Use global descriptions for translations** field is selected.
 
     When selected, the **Global short description** and **Global description** fields display.

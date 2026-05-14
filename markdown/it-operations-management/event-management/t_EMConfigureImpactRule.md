@@ -70,7 +70,7 @@ Name
 
 The name of the impact rule.-   **Application Cluster Member**: Determines how application cluster members affect the overall impact of the cluster. For example, if a three-member cluster requires **90% Influence** to set the severity for the entire cluster to **Major**, each member has **30% Influence** \(90% divided by 3\). The severity of the entire cluster can only change to **Major** when all three members have a severity of **Major**.
 
-**Note:** To configure a manual cluster, see [Configure a manual cluster](configure-manual-cluster.md)
+**Note:** To configure a manual cluster, see [Configure a manual cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-manual-cluster.md)
 
 -   **Application Impact**: Determines how impact is applied to a specific CI, the overall application service, or parent/child entities within an application service. For the Application Impact rule, you can choose from the following Impact options: **Application Service** or **Parent**.
     -   If no CI is selected, the alert rule applies to the entire application service.

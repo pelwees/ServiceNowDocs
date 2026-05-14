@@ -29,7 +29,7 @@ Expense lines on a demand record track the costs incurred during the demand eval
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
@@ -43,7 +43,7 @@ Expense lines on a demand record track the costs incurred during the demand eval
     -   To update the details of an existing expense line, select the record.
 5.  On the Create New Expense Line form, fill in the fields.
 
-    For a description of the field names, see [Create expense line form](../reference/expense-line-form-dw.md).
+    For a description of the field names, see [Create expense line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/expense-line-form-dw.md).
 
 6.  Select **Save**.
 

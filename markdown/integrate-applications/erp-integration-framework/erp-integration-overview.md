@@ -22,37 +22,37 @@ Legacy systems of record, such as SAP, can have old, complex custom code and dat
 
 The replatforming of legacy code enables innovation on top of the system of record without knowledge of the legacy system. Administrators and developers are then relieved of time-consuming efforts to create database views or endpoints in the system of record and can work on other projects, such as migration.
 
-![Infographic that visually shows querying SAP and identifying data models to simplify ERP.](../image/erpc-landing-page-infographic.png)
+![Infographic that visually shows querying SAP and identifying data models to simplify ERP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-landing-page-infographic.png)
 
 Use models as the foundation for ERP apps. These models include ERP system data in remote tables and extraction tables. The models enable you to perform read, update, and create operations on the ERP system. After you create models, you can use the extracted and transformed data to build apps that access the models. For example, use ServiceNow Studio or Creator Studio to build apps, or use the ERP data in flows within Workflow Studio.
 
-Zero Copy Connector for ERP content packs are sets of predefined models and process extensions that are useful examples for developers with little or no SAP domain knowledge. Content packs accelerate the work so that building uses cases involving SAP data becomes a faster process that more developers can accomplish. For more information, see [Zero Copy Connector for ERP content packs](erp-canvas-content-packs.md).
+Zero Copy Connector for ERP content packs are sets of predefined models and process extensions that are useful examples for developers with little or no SAP domain knowledge. Content packs accelerate the work so that building uses cases involving SAP data becomes a faster process that more developers can accomplish. For more information, see [Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-content-packs.md).
 
 **Note:** For information about new and updated features in the Australia release, see [Zero Copy Connector for ERP release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/zero-copy-connector-for-erp-rn.md).
 
 <table id="table_iwv_lpv_klb1" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Zero Copy Connector for ERP concepts and features.](exploring-erp-integration.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Zero Copy Connector for ERP concepts and features.](exploring-erp-integration.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Install and configure Zero Copy Connector for ERP remote tables and connections.](erp-integration-configuration-overview.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Install and configure Zero Copy Connector for ERP remote tables and connections.](erp-integration-configuration-overview.md)
 
 </td></tr><tr><td>
 
-[Use Zero Copy Connector for ERP![](../../../reuse/icons/brand-icons/bus-application-development.svg) Use Zero Copy Connector for ERP to build models and work with ERP data.](work-with-erp-systems-connections-and-remote-tables.md)
+[Use Zero Copy Connector for ERP![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-application-development.svg) Use Zero Copy Connector for ERP to build models and work with ERP data.](work-with-erp-systems-connections-and-remote-tables.md)
 
 </td><td>
 
-[Use Zero Copy Connector for ERP content packs![](../../../reuse/icons/brand-icons/bus-fast-forward.svg) Use Zero Copy Connector for ERP content packs to build ERP models faster.](erp-canvas-content-packs.md)
+[Use Zero Copy Connector for ERP content packs![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-fast-forward.svg) Use Zero Copy Connector for ERP content packs to build ERP models faster.](erp-canvas-content-packs.md)
 
 </td></tr><tr><td>
 
-[Use Zero Copy Connector AI agent collection![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use agentic workflows in Now Assist for Zero Copy Connector](../../now-assist-zero-copy-connector/concept/now-assist-for-zero-copy-connector-for-erp.md)
+[Use Zero Copy Connector AI agent collection![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg)Use agentic workflows in Now Assist for Zero Copy Connector](../../now-assist-zero-copy-connector/concept/now-assist-for-zero-copy-connector-for-erp.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about Zero Copy Connector for ERP components, such tables, and terminology.](../reference/erp-integration-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../../reuse/icons/brand-icons/bus-rocketship.svg) Get details about Zero Copy Connector for ERP components, such tables, and terminology.](../reference/erp-integration-reference.md)
 
 </td></tr></tbody>
 </table>## Learning resources for Zero Copy Connector for ERP

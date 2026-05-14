@@ -19,7 +19,7 @@ Studio allows application developers to add new application files by type.
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 This procedure requires creating a scoped application.
 
@@ -62,7 +62,7 @@ Windows: Control+Shift+C
 </td></tr></tbody>
 </table>    Studio opens the Create New Application File pop-up window.
 
-    ![The Create New Application File pop-up window contains three elements: filter application file types, a list of application file types, and a content frame.](../image/CreateNewApplicationFile.png)
+    ![The Create New Application File pop-up window contains three elements: filter application file types, a list of application file types, and a content frame.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/CreateNewApplicationFile.png)
 
     **Note:** Not all application file types will display in Studio. Some types of application files needs to created outside Studio, such as dashboards, even though they extend sys\_metadata table.
 
@@ -96,10 +96,10 @@ From the left pane, select a category name.
 
 Enter the necessary fields for the particular application file type you selected.
 
-**Parent Topic:**[Legacy - ServiceNow Studio](../concept/c_ServiceNowStudio.md)
+**Parent Topic:**[Legacy - ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_ServiceNowStudio.md)
 
 **Related topics**  
 
 
-[Application files](../concept/c_ApplicationFiles.md)
+[Application files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/c_ApplicationFiles.md)
 

@@ -17,23 +17,23 @@ The Data Catalog module within the Workflow Data Fabric application helps you di
 
 <table id="table_nm4_3dn_yhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the data catalog](explore-data-catalog.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the data catalog](explore-data-catalog.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](../../../build/workflow-data-fabric/concept/configure-data-catalog.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your implementation](../../../build/workflow-data-fabric/concept/configure-data-catalog.md)
 
 </td><td>
 
-[Configure metadata collectors![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create and run metadata collectors](configure-metadata-collectors-dc.md)
+[Configure metadata collectors![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create and run metadata collectors](configure-metadata-collectors-dc.md)
 
 </td></tr><tr><td>
 
-[Find and access data assets![](../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn about data assets](manage-data-catalog.md)
+[Find and access data assets![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-case-and-knowledge-management.svg)Learn about data assets](manage-data-catalog.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about data catalog key terms and roles.](../reference/data-catalog-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about data catalog key terms and roles.](../reference/data-catalog-reference.md)
 
 </td><td>
 

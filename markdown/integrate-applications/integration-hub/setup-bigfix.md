@@ -39,11 +39,11 @@ Complete these steps from your BigFix Inventory environment. For more informatio
 
 1.  Log in to your BigFix Inventory portal.
 
-2.  On the Overview page, select the Profile icon \(![Profile icon.](../image/bigfix-inventory-spoke-profile-icon.png)\).![BigFix Inventory portal Overview page.](../image/bigfix-inventory-spoke-overview-page.png)
+2.  On the Overview page, select the Profile icon \(![Profile icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-inventory-spoke-profile-icon.png)\).![BigFix Inventory portal Overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-inventory-spoke-overview-page.png)
 
 3.  Select Profile.
 
-4.  On the Edit User page, select the Show token link in the API Token field.![Show token link in the API Token field.](../image/bigfix-inventory-spoke-api-token-link.png)
+4.  On the Edit User page, select the Show token link in the API Token field.![Show token link in the API Token field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-inventory-spoke-api-token-link.png)
 
 5.  Copy the API token and store at a secure place.
 
@@ -51,21 +51,21 @@ Complete these steps from your BigFix Inventory environment. For more informatio
 
 7.  Configure the mail settings.
 
-    ![Mail settings.](../image/bigfix-mailsettings.png)
+    ![Mail settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-mailsettings.png)
 
 8.  Schedule exports of the required reports.
 
     1.  Navigate to the required report under **Reports**, for example, **Computers**.
 
-        ![BigFix reports.](../image/bigfix-report.png)
+        ![BigFix reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-report.png)
 
     2.  Select **Schedule Export**.
 
-        ![Schedule export.](../image/bigfix-comp-rep.png)
+        ![Schedule export.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-comp-rep.png)
 
     3.  On the form, specify the ServiceNow instance email address to which the report must be sent and the frequency and time at which the report must be emailed.
 
-        ![Schedule Export configurations.](../image/bigfix-scheduleexp.png)
+        ![Schedule Export configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/bigfix-scheduleexp.png)
 
     4.  Save the configurations.
 
@@ -98,7 +98,7 @@ Role required: admin
     |-----|-----------|
     |Connection Name|Name of the connection established with the BigFix Inventory instance. The first connection's default name is automatically assigned to match the name specified in the Connections and Credentials form on the Connection &amp; Credential Aliases page. To provide your custom name, create a connection record by selecting **Add Connection**.|
     |Connection URL|The URL your ServiceNow instance uses to connect to the BigFix Inventory instance.|
-    |API Key|The key that your ServiceNow instance requires to access the BigFix Inventory instance. Enter the API key that you had generated in the BigFix Inventory portal. To learn how to generate an API key, see [Generate an API key](setup-bigfix.md#).|
+    |API Key|The key that your ServiceNow instance requires to access the BigFix Inventory instance. Enter the API key that you had generated in the BigFix Inventory portal. To learn how to generate an API key, see [Generate an API key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-bigfix.md#).|
 
 8.  Select **Configure Connection**.
 

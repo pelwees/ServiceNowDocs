@@ -27,7 +27,7 @@ The deal registration line table contains line items linked to a deal registrati
 
 2.  Select **New** to create a deal registration.
 
-    To learn how to create a deal registration, see [Configure Deal Registration table](configure-deal-registration-table.md).
+    To learn how to create a deal registration, see [Configure Deal Registration table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-deal-registration-table.md).
 
 3.  Select **Deal Registration Lines** from the related list to create a deal registration line item.
 
@@ -37,10 +37,10 @@ The deal registration line table contains line items linked to a deal registrati
 
 5.  On the form, fill in the fields.
 
-    To learn about the fields on the form, see [Deal registration line table fields](../reference/deal-registration-line-table-fields.md).
+    To learn about the fields on the form, see [Deal registration line table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/deal-registration-line-table-fields.md).
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Deal Registration table](configure-deal-registration-table.md)
+**Parent Topic:**[Configure Deal Registration table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-deal-registration-table.md)
 

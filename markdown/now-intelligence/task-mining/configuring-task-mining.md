@@ -21,36 +21,36 @@ These configuration tasks must be performed on each instance being used. After i
 
 **Warning:** Do not modify default excluding filters.
 
--   **[Install Task Mining](../task/install-task-mining.md)**
+-   **[Install Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/install-task-mining.md)**
 
     Install the Task Mining application \(sn\_tm\_core\) if you have the admin role.
 
--   **[Adjust Task Mining agent parameters](../task/set-system-parameters.md)**
+-   **[Adjust Task Mining agent parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/set-system-parameters.md)**
 
     Modify system-level Task Mining agent and system records.
 
--   **[Define Task Mining anonymization](../task/define-anonymization.md)**
+-   **[Define Task Mining anonymization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/define-anonymization.md)**
 
     Replace personally identifiable information with alias data to protect sensitive user information.
 
--   **[Customize Task Mining notifications for workstation users](../task/define-workstation-user-notifications.md)**
+-   **[Customize Task Mining notifications for workstation users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/define-workstation-user-notifications.md)**
 
     Use Task Mining notifications to notify workstation users that their work is being monitored, request consent, and inform them if they have any actions to take.
 
--   **[Modify the Task Mining data retention period](../task/define-data-retention.md)**
+-   **[Modify the Task Mining data retention period](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/define-data-retention.md)**
 
     Modify the default retention configuration rules to delete data automatically.
 
--   **[Avoid capturing and displaying application details](../task/replace-application-details.md)**
+-   **[Avoid capturing and displaying application details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/replace-application-details.md)**
 
     Prevent the Task Mining agent from collecting application details but still collect timestamps by replacing application details that match event filters.
 
--   **[Assign roles for Task Mining users](../task/assign-users.md)**
+-   **[Assign roles for Task Mining users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../task/assign-users.md)**
 
     Assign roles to control access to features, capabilities, and data in the Task Mining application.
 
 
 ## Task Mining agent installation
 
-The Task Mining agent is a service installed on workstations that logs certain events from desktop applications after a data request is submitted by a Task Mining analyst or power user and approved by a manager. For more information, see [Install the Task Mining agent](install-agent.md).
+The Task Mining agent is a service installed on workstations that logs certain events from desktop applications after a data request is submitted by a Task Mining analyst or power user and approved by a manager. For more information, see [Install the Task Mining agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/install-agent.md).
 

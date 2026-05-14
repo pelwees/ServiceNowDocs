@@ -15,7 +15,7 @@ Browse the catalog and create a request for an item or a service from the Consum
 
 ## Before you begin
 
-**Note:** Creating a request from the Consumer Portal requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the administrator to [provide external customers with access to request records](csm-itsm-integration-view-request.md).
+**Note:** Creating a request from the Consumer Portal requires activation of the Customer Service with Request Management plugin \(com.sn\_cs\_sm\_request\). It also requires that the administrator to [provide external customers with access to request records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-itsm-integration-view-request.md).
 
 Role required: sn\_customerservice.case\_authorized\_consumer or sn\_customerservice.consumer
 

@@ -19,7 +19,7 @@ Add one or more audiences to your page or page variant.
 
 Role required: admin
 
-The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to configure access for users based on role, department, group, location, or company. See [Enable the user criteria property](enable-user-criteria-property.md), for more information.
+The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to configure access for users based on role, department, group, location, or company. See [Enable the user criteria property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/enable-user-criteria-property.md), for more information.
 
 ## Procedure
 
@@ -33,15 +33,15 @@ The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to
 
 5.  In the page variant settings window, select **Edit all audiences**.
 
-    ![Arrow pointing to edit all audiences link to add or edit audiences.](../image/audience-edit-all.png)
+    ![Arrow pointing to edit all audiences link to add or edit audiences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/audience-edit-all.png)
 
 6.  Click **+ Add**.
 
-    ![Arrow pointing at the add audience button.](../image/audience-add-link.png)
+    ![Arrow pointing at the add audience button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/audience-add-link.png)
 
 7.  Select an audience in the audience field.
 
-    ![Audience field expanded to show list of available audiences.](../image/audience-select.png)
+    ![Audience field expanded to show list of available audiences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/audience-select.png)
 
     **Note:** If an audience you need is not listed, you can choose the **Open audiences in platform** link to create one.
 
@@ -55,13 +55,13 @@ The **glide.ux.user\_criteria\_enabled** property needs to be set to **true** to
 
     The audience displays in the **Audiences** list.
 
-    ![Specified audiences displayed in the audiences list.](../image/audience-result.png)
+    ![Specified audiences displayed in the audiences list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/audience-result.png)
 
 11. Select **Done**.
 
 
--   **[Enable the user criteria property](enable-user-criteria-property.md)**  
+-   **[Enable the user criteria property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/enable-user-criteria-property.md)**  
 Enable the user criteria property to configure access for users based on role, department, group, location, or company in UI Builder.
 
-**Parent Topic:**[Manage UI Builder pages and page variants](../concept/work-pages.md)
+**Parent Topic:**[Manage UI Builder pages and page variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-pages.md)
 

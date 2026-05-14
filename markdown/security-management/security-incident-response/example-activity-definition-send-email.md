@@ -67,19 +67,19 @@ In this example, Flow data table is used to capture the run time data. The run t
 
 1.  Navigate to the left pane and enter **sys\_flow\_data\_definition.list**. It displays the list of definitions created for the flow data table.
 
-    ![This is an associate record](../image/data-def.png "Associate record")
+    ![This is an associate record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/data-def.png "Associate record")
 
 2.  Open **Email - SCM Def** to view the definition related to this example.
 
-    ![Email - SCM Def](../image/email-scm-def.png "Email - SCM Def")
+    ![Email - SCM Def](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/email-scm-def.png "Email - SCM Def")
 
     This flow data definition must be used by the subflow or the action that is associated with this activity definition \(Refer automation plan\) to capture the run time data.
 
-    ![Automation Plan](../image/activity-send-email.png "Activity Definitions")
+    ![Automation Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/activity-send-email.png "Activity Definitions")
 
 3.  In this example, open the subflow: **Send Email - ESCM Activity**. Under **Create Flow Data** step, the flow data definition you created is mapped against the **Definition** field. This flow data record is used across the subflow. In this example, the activity card status \(experience status\) is captured in the flow data table.
 
-    ![Create Flow Data](../image/crete-flow-data.png "Send Email - ESCM Activity")
+    ![Create Flow Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/crete-flow-data.png "Send Email - ESCM Activity")
 
 
 **Note:** If you want to capture the runtime data in a different table record other than flow data table, say for example in a response task. You can select the associated table as Response task table. The associated record should be set to response task record created by the subflow.
@@ -90,30 +90,30 @@ For example, if you would want to map the response task status to the activity c
 
 1.  Navigate to **All** &gt; **Playbook Experiences**.
 
-    ![Playbook Experiences](../image/playbook-exp.png "Playbook experiences")
+    ![Playbook Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-exp.png "Playbook experiences")
 
 2.  Open **SIR Playbook experience**.
 3.  Open **Status Mapping** related list.
 
-    ![SIR Playbook experience](../image/status-mapp.png "Playbook experience")
+    ![SIR Playbook experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/status-mapp.png "Playbook experience")
 
 4.  Enter the **Response Task** against Experience Status Table field.
 5.  Enter the **State** against Experience Status field.
 
-    ![Playbook experience Status Mapping](../image/new-status-mapp.png "Experience Status")
+    ![Playbook experience Status Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-status-mapp.png "Experience Status")
 
 6.  Click **Submit**. The record is created.
 
-    ![Experience Status to Activity State](../image/status-mapping.png "Playbook Experience Status Mapping")
+    ![Experience Status to Activity State](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/status-mapping.png "Playbook Experience Status Mapping")
 
 7.  Under Experience Status to Activity State, map the states of response task to activity card status.
 8.  The left side shows the states of the Response Task, and the right side shows the activity card status.
 
-    ![Playbook Experience Status to Activity State Map](../image/status-map.png "Playbook Experience Status Mapping")
+    ![Playbook Experience Status to Activity State Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/status-map.png "Playbook Experience Status Mapping")
 
 9.  The mapping can be bi-directional. Under Activity State to Experience related list as well, map the statuses correctly. This step is the reverse of the previous step. In this case, the left side shows the activity card status, and the right side shows the response task status.
 
-    ![Playbook Experience Activity State to Experience Status Map](../image/status-map-new-rcord.png "Playbook Experience Status Mapping")
+    ![Playbook Experience Activity State to Experience Status Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/status-map-new-rcord.png "Playbook Experience Status Mapping")
 
 
 ## Details
@@ -131,7 +131,7 @@ For example, if you would want to map the response task status to the activity c
 
     Footer is a text in a gray area of the card footer. You can add any meaningful information to shown.
 
-    ![Activity Definition - Send Email page](../image/details.png "Activity Definition - Send Email")
+    ![Activity Definition - Send Email page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/details.png "Activity Definition - Send Email")
 
 
 ## Form
@@ -141,7 +141,7 @@ For example, if you would want to map the response task status to the activity c
 
 This example uses collect\_data view to show the fields that must be presented to the user to enter inputs. Collect\_data view is a platform provided view corresponding to flow data table. Alternatively, you could leave Form View as empty, and select Vars from the list of values available against Form Fields. \(click the lock icon to open the list of available values\).
 
-![Form](../image/form.png "Form view")
+![Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/form.png "Form view")
 
 ## Attachments
 
@@ -153,7 +153,7 @@ In this example:
 1.  Attachment Source - Drop down. What attachments to show on the card: Those attached to the Parent Record, the Associated Record, or none.
 2.  Attachment Read only - True or False. Prevent the user from renaming or deleting the existing attachments.
 
-![Activity Definition - Send Email page](../image/attach.png "Activity Definition - Send Email")
+![Activity Definition - Send Email page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/attach.png "Activity Definition - Send Email")
 
 ## Features
 
@@ -168,7 +168,7 @@ Show SLA: True / False. Renders an SLA timer in the header of the card for the A
 1.  Show Checklist  - True or False. Renders any checklist that is attached to the Associated Record. The checklist is editable and changes are saved without requiring a Declarative Action.
 2.  Is Automated - True or False. If true, then the  **tagline**  and  **icon**  will be overridden with the text **Automated Task** and an automated icon.
 
-![Activity Definition - Send Email Form page](../image/feaures.png "Activity Definition - Send Email Form")
+![Activity Definition - Send Email Form page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/feaures.png "Activity Definition - Send Email Form")
 
 ## Playbook Actions in Activity Definition
 
@@ -176,14 +176,14 @@ This section has the actions that will be rendered on the activity card. This ex
 
 To add a new action to the activity card, you must create a record in the **Playbook Actions** related list present at the bottom of the page.
 
-![Playbook Actions](../image/actions.png "Playbook Actions")
+![Playbook Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/actions.png "Playbook Actions")
 
 1.  Click **New**.
 2.  Select existing activity action against Action Assignment field.
 3.  Select **SIR Playbook Experience** against Playbook Experience field.
 
--   **[Create an Activity Action](steps-to-create-an-activity-action.md)**  
+-   **[Create an Activity Action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/steps-to-create-an-activity-action.md)**  
 Following is procedure to create an activity action.
 
-**Parent Topic:**[Activity Definitions](../concept/build-activities.md)
+**Parent Topic:**[Activity Definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/build-activities.md)
 

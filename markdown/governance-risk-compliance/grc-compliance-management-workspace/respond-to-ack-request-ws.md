@@ -50,7 +50,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst
 
     -   **Request Exception**
 
-        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](request-policy-exception-ws.md).
+        If, for any reason, you do not want to respond, and the request is configured in such a way that you can opt out, click [**Request Exception**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/request-policy-exception-ws.md).
 
     -   **Exempt**
 

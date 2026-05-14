@@ -31,7 +31,7 @@ Role required: admin
 
     **Note:** You must select the AES product, not the application.
 
-    ![App Engine Studio card highlighted in the Application Manager interface.](../image/aes-activate-plugin-as1.png)
+    ![App Engine Studio card highlighted in the Application Manager interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-activate-plugin-as1.png)
 
 3.  On the App Engine Studio product page, select **Install**.
 
@@ -50,5 +50,5 @@ Role required: admin
 
 App Engine Studio is installed on your instance.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-installation-store.md)
 

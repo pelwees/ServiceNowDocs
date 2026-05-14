@@ -33,13 +33,13 @@ The **Order** column is hidden in the base system.
 
     **Note:** The **Value** setting remain the same for each answer option after reorganization.
 
-    ![Quiz answer order](../images/Quiz_Answer_Order.png)
+    ![Quiz answer order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/Quiz_Answer_Order.png)
 
 
-**Parent Topic:**[Create an assessment metric for a category](t_CreateAMetric.md)
+**Parent Topic:**[Create an assessment metric for a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetric.md)
 
 **Related topics**  
 
 
-[Assessment metrics](../concept/c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentMetrics.md)
 

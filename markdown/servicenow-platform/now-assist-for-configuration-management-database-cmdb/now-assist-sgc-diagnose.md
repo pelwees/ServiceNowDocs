@@ -17,7 +17,7 @@ To reduce debugging and resolution time and effort, the Service Graph Connector 
 
 ## Before you begin
 
-Enable the Service Graph Connector diagnosis skill as described in [Configure the Service Graph Connector diagnosis skill](now-assist-cmdb-config-sgc-diagnose.md).
+Enable the Service Graph Connector diagnosis skill as described in [Configure the Service Graph Connector diagnosis skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-config-sgc-diagnose.md).
 
 Role required: cmdb\_inst\_admin and now\_assist\_panel\_user
 
@@ -33,7 +33,7 @@ When a Now Assist skill is enabled, the Now Assist icon ![](../../../administer/
 
 2.  Select the Now Assist icon ![](../image/now-assist-sgc-ai.png) to open the Now Assist panel and then select or enter **Diagnose a Service Graph Connector**.
 
-    ![Diagnose a Service Graph Connector in the Now Assist panel.](../image/now-assist-sgc-diagnose.png)
+    ![Diagnose a Service Graph Connector in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose.png)
 
 3.  Begin the diagnostic process by entering the connector name, specific data source, or import-set number of a Service Graph Connector.
 
@@ -57,7 +57,7 @@ Service Graph Connector name to diagnose.The Now Assist for SGC displays the con
 
 After you enter a connector name, you can select a data source that is associated with the connector, followed by a failed import set that is associated with the data source. Based on the inputs, the latest failed import set number is displayed. Alternatively, you can select to view other failed import sets, if available. If no failed import sets are available, you can enter a different connector name, data source, or import set number.
 
-![Diagnosing a failed import set with a connector name.](../image/now-assist-sgc-diagnose-connector.png)
+![Diagnosing a failed import set with a connector name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-connector.png)
 
 </td></tr><tr><td id="d202481e251">
 
@@ -67,7 +67,7 @@ After you enter a connector name, you can select a data source that is associate
 
 Data source name for a connector to diagnose. For example, `SG-Infoblox IP Address`.After entering a data source that is associated with a connector, you can select a failed import set that is associated with the data source. Based on the inputs, the import set number that was last processed with errors is displayed. Alternatively, you can choose to view other failed import sets. If no failed import sets are available, you can select a different data source for the connector.
 
-![Diagnosing a failed import set with a data source name.](../image/now-assist-sgc-diagnose-data-source.png)
+![Diagnosing a failed import set with a data source name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-data-source.png)
 
 </td></tr><tr><td id="d202481e271">
 
@@ -75,18 +75,18 @@ Data source name for a connector to diagnose. For example, `SG-Infoblox IP Addre
 
 </td><td>
 
-Import set number to diagnose. For example, `CISET0010075`.![Diagnosing a failed import set with the import set number.](../image/now-assist-sgc-diagnose-import-set.png)
+Import set number to diagnose. For example, `CISET0010075`.![Diagnosing a failed import set with the import set number.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-import-set.png)
 
 After entering an import set number, you can view the error summary that is associated with that import set. If the import set was processed without errors, a message indicating no errors is displayed.
 
 </td></tr></tbody>
 </table>4.  Analyze other issues for the import set or other import set failures for the selected data source.
 
-    ![Diagnosing other issues for the import set or other import set failures for the selected data source.](../image/now-assist-sgc-diagnose-more.png)
+    ![Diagnosing other issues for the import set or other import set failures for the selected data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-more.png)
 
 5.  If no other import set issues are observed within a data source, analyze a different data source for the connector.
 
-    ![Diagnosing a different data source.](../image/now-assist-sgc-diagnose-connector-other.png)
+    ![Diagnosing a different data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-connector-other.png)
 
 
 ## Result
@@ -95,9 +95,9 @@ Now Assist triggers the diagnosis process for the failed import sets. The Now As
 
 For issues related to Identification and Reconciliation engine \(IRE\), the panel provides a detailed summary of errors, including import errors, flow errors, partial payloads, and incomplete payloads.
 
-![Failed import set diagnosis result.](../image/now-assist-sgc-diagnose-result.png "Diagnosis results for the failed import set with processing errors")
+![Failed import set diagnosis result.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-result.png "Diagnosis results for the failed import set with processing errors")
 
-![Import set diagnosis result with IRE issues.](../image/now-assist-sgc-diagnose-result-ire.png "Diagnosis results for the failed import set with IRE issues")
+![Import set diagnosis result with IRE issues.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../image/now-assist-sgc-diagnose-result-ire.png "Diagnosis results for the failed import set with IRE issues")
 
 **Tip:** To restart the conversation, select the reset icon \(![](../image/now-assist-reset-icon.png)\). If you reset the conversation, the existing messages are deleted, and a new conversation is started. You won't be able to access the previous messages after you reset the conversation. To learn more about how to use the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
@@ -133,7 +133,7 @@ Select the copy to clipboard icon ![](../image/icon-clipboard.png) to use the co
 </table>**Related topics**  
 
 
-[CMDB Workspace store app](../concept/cmdb-workspace.md)
+[CMDB Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/cmdb-workspace.md)
 
-[Service Graph Workspace store app](../concept/sg-workspace.md)
+[Service Graph Workspace store app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/sg-workspace.md)
 

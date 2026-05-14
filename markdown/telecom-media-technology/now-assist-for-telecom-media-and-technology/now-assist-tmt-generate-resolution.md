@@ -37,7 +37,7 @@ You can also generate resolution information on demand from the Now Assist panel
 
 4.  Navigate to the Resolution notes field in the resolve activity.
 
-    ![Generate resolution notes.](../image/resolution-notes-spmc.png)
+    ![Generate resolution notes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/resolution-notes-spmc.png)
 
 5.  Select the Now Assist icon ![](../../../common/image/icon-ai-sparkle.png).
 
@@ -62,5 +62,5 @@ You can also generate resolution information on demand from the Now Assist panel
 -   The case moves to the Resolved state.
 -   The resolution is proposed to the customer.
 
-**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-spm-using.md)
+**Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-spm-using.md)
 

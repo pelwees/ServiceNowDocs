@@ -15,7 +15,7 @@ You can setup the additional configurations to active Customer Service Managemen
 
 |List|Description|
 |----|-----------|
-|[Install Customer Service Management for Manufacturing Commercial Operations](../task/mco-install-cust-ser-mgmt.md)|Customer Service Management capabilities for Manufacturing Commercial Operations are automatically installed with the MCO plugins.|
-|[Install Order Management for Manufacturing Commercial Operations](../task/mco-install-som.md)|Order Management capabilities for Manufacturing Commercial Operations are automatically installed with MCO plugins.|
-|[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](../task/mco-install-configure-sb-providers.md)|Service Exchange capabilities for Manufacturing Commercial Operations are automatically installed with MCO plugins.|
+|[Install Customer Service Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-cust-ser-mgmt.md)|Customer Service Management capabilities for Manufacturing Commercial Operations are automatically installed with the MCO plugins.|
+|[Install Order Management for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-som.md)|Order Management capabilities for Manufacturing Commercial Operations are automatically installed with MCO plugins.|
+|[Install Service Bridge for Providers and Consumers for Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-install-configure-sb-providers.md)|Service Exchange capabilities for Manufacturing Commercial Operations are automatically installed with MCO plugins.|
 

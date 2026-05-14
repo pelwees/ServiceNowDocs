@@ -44,7 +44,7 @@ Organizing insights into these five pillars promotes CIO focus on both operation
 
 ## Value
 
-![The visualizations on this tab address the question 'Are we hitting our value creation targets?'](../image/cio-db-value-tab.png)
+![The visualizations on this tab address the question 'Are we hitting our value creation targets?'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cio-db-value-tab.png)
 
 -   **Purpose**
 
@@ -65,7 +65,7 @@ Organizing insights into these five pillars promotes CIO focus on both operation
 
 ## Operations
 
-![The visualizations on this tab address the question 'How is the infrastructure's and operation's health?'](../image/cio-db-ops-tab.png)
+![The visualizations on this tab address the question 'How is the infrastructure's and operation's health?'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cio-db-ops-tab.png)
 
 -   **Purpose**
 
@@ -89,7 +89,7 @@ Organizing insights into these five pillars promotes CIO focus on both operation
 
 ## Security
 
-![The visualizations on this tab address the question 'Are we better protected today vs yesterday?'](../image/cio-db-security-tab.png)
+![The visualizations on this tab address the question 'Are we better protected today vs yesterday?'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cio-db-security-tab.png)
 
 -   **Purpose**
 
@@ -108,7 +108,7 @@ Organizing insights into these five pillars promotes CIO focus on both operation
 
 ## Execution
 
-![The visualizations on this tab address the question 'Which projects/programs are at risk and why?'](../image/cio-db-execution-tab.png)
+![The visualizations on this tab address the question 'Which projects/programs are at risk and why?'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cio-db-execution-tab.png)
 
 -   **Purpose**
 
@@ -130,7 +130,7 @@ Organizing insights into these five pillars promotes CIO focus on both operation
 
 ## Experience
 
-![The CIO dashboard's Experience tab addresses the question 'Are employees getting self-served and satisfied?'](../image/cio-db-experience-tab.png)
+![The CIO dashboard's Experience tab addresses the question 'Are employees getting self-served and satisfied?'](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cio-db-experience-tab.png)
 
 -   **Purpose**
 

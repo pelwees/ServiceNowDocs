@@ -23,15 +23,15 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 
 1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands**.
 
-    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](../reference/demands-list-view.md).![All Demands home page.](../images/all-demands-home-page.png)
+    Demands on the **All Demands** home page are displayed in a list view. For more information, see [Demands list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demands-list-view.md).![All Demands home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/all-demands-home-page.png)
 
 2.  Select a demand to open it.
 
     -   If a playbook is available for the demand, the **Playbook** page is displayed.
     -   If there are no playbooks associated with the demand, the **Details** page is displayed.
-    If you select the short description of a demand, it opens the demand details in a side panel, enabling you to edit them. For more information, see [Update the demand details](update-the-demand-details-from-dw.md).
+    If you select the short description of a demand, it opens the demand details in a side panel, enabling you to edit them. For more information, see [Update the demand details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/update-the-demand-details-from-dw.md).
 
-3.  Select **Personalize fields** from More Actions to customize the **All Demands** page view.![The Personalize fields option under More Actions allows you to customize your list view.](../images/personalize-fields-demands-list.png)
+3.  Select **Personalize fields** from More Actions to customize the **All Demands** page view.![The Personalize fields option under More Actions allows you to customize your list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/personalize-fields-demands-list.png)
 
     |Action|Description|
     |------|-----------|
@@ -46,5 +46,5 @@ Role required: it\_demand\_user, it\_demand\_manager, sn\_ppm\_read, demand\_app
 **Related topics**  
 
 
-[Demands list view](../reference/demands-list-view.md)
+[Demands list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/demands-list-view.md)
 

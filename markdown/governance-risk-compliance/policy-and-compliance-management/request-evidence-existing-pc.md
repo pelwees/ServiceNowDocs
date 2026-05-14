@@ -43,7 +43,7 @@ The logged in user must also have access to the engagement for which evidence re
 
 6.  To view existing requests, click **View** in the message.
 
-    ![Add existing evidence.](../image/RequestEvidenceViewMessage.png "Add existing evidence")
+    ![Add existing evidence.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/RequestEvidenceViewMessage.png "Add existing evidence")
 
     **Note:** If there is no existing evidence, then the message does not appear in the Request Evidence pop-up.
 

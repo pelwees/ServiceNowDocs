@@ -26,5 +26,5 @@ Role required: approver\_user
 2.  Select **Click here to approve** to approve the document version or select **Click here to reject** to reject the document version.
 
 
-**Parent Topic:**[Document approval and publish process](../concept/document-review-approval.md)
+**Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/document-review-approval.md)
 

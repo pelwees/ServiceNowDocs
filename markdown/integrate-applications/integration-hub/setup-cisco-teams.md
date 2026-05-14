@@ -185,7 +185,7 @@ Option to use mutual authentication for token request and revocation. This optio
 
 ### What to do next
 
-Ensure that the OAuth entity profile has these permissions:![OAuth entity profile scopes.](../image/cisco-teams-entity-profiles.png)
+Ensure that the OAuth entity profile has these permissions:![OAuth entity profile scopes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cisco-teams-entity-profiles.png)
 
 ## Create a OAuth credential record for the Cisco Webex Teams Spoke
 
@@ -235,13 +235,13 @@ Role required: admin.
 
 2.  Open the **CiscoWebexTeams** record.
 
-    ![Cisco Teams Webex connection and credential alias](../image/cisco_webex_teams_conn-credential.png)
+    ![Cisco Teams Webex connection and credential alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cisco_webex_teams_conn-credential.png)
 
     The **CiscoWebexTeams** Connection &amp; Credential Aliases display.
 
 3.  Click **New** under **Connections** tab.
 
-    ![New connection and credentials for Cisco Webex Teams](../image/new_connection_credential_cisco_webex_teams.png)
+    ![New connection and credentials for Cisco Webex Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/new_connection_credential_cisco_webex_teams.png)
 
 4.  On the form, fill these values.
 
@@ -282,7 +282,7 @@ Option to provide the connection URL.
  Provide the value as https://webexapis.com
 
 </td></tr></tbody>
-</table>    ![Connection record for Cisco Webex Teams](../image/connection_record_cisco_webex_teams.png)
+</table>    ![Connection record for Cisco Webex Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/connection_record_cisco_webex_teams.png)
 
 5.  Right-click the form header and click **Submit**.
 

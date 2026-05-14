@@ -15,11 +15,11 @@ breadcrumb: [Assistant Designer interface reference, Virtual Agent reference, Vi
 
 Use the **Languages** tab to view the topic's translation status for languages that have been activated in Virtual Agent. If NLU is enabled on your instance, you can also view model mappings for each language.
 
-Some features on the Languages tab require the appropriate localization roles. For more information, see [Localization roles for Virtual Agent](localization-roles-va.md#).
+Some features on the Languages tab require the appropriate localization roles. For more information, see [Localization roles for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localization-roles-va.md#).
 
 ## Translations tab
 
-![View the status and request translations. Some features vary with the localization role.](../images/vad-languages-translations-tab.png "Example Translations tab")
+![View the status and request translations. Some features vary with the localization role.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/vad-languages-translations-tab.png "Example Translations tab")
 
 <table id="table_p3m_3vw_wqb"><thead><tr><th>
 
@@ -37,7 +37,7 @@ Language
 
 List of available languages in Virtual Agent.
 
- Only installed languages are displayed \(the language plugins are activated\). If a language appears as unavailable, it means the language plugin is installed, but it has not been activated in Virtual Agent settings or in the Localization Framework. For more information, see [Configure Natural Language Understanding in Virtual Agent](../task/configure-nlu-settings.md) and [Languages table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_LanguagesTable.md).
+ Only installed languages are displayed \(the language plugins are activated\). If a language appears as unavailable, it means the language plugin is installed, but it has not been activated in Virtual Agent settings or in the Localization Framework. For more information, see [Configure Natural Language Understanding in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-nlu-settings.md) and [Languages table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_LanguagesTable.md).
 
 </td></tr><tr><td>
 
@@ -84,9 +84,9 @@ Click the link to test the topic in a particular language.
 
 If you've enabled NLU on your instance, you can view or modify the topic mappings on this tab. You can also map your entities and test the translated topic here.
 
-**Note:** Unless you're using legacy, single-language models, all secondary languages in a topic must be mapped to the same model group. In most cases, changing the mapping for one secondary language will change the mappings for all secondary languages in the topic. For more information, see [NLU model mapping in Virtual Agent Designer](../concept/nlu-model-binding-vad.md).
+**Note:** Unless you're using legacy, single-language models, all secondary languages in a topic must be mapped to the same model group. In most cases, changing the mapping for one secondary language will change the mappings for all secondary languages in the topic. For more information, see [NLU model mapping in Virtual Agent Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/nlu-model-binding-vad.md).
 
-![View NLU bindings and entity mapping.](../images/vad-languages-nlu-mapping-tab.png "Example NLU language mapping tab")
+![View NLU bindings and entity mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/vad-languages-nlu-mapping-tab.png "Example NLU language mapping tab")
 
-**Parent Topic:**[Assistant Designer interface reference](../concept/vad-reference.md)
+**Parent Topic:**[Assistant Designer interface reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/vad-reference.md)
 

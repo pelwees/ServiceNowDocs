@@ -20,7 +20,7 @@ Before Washington DC release, invoice and invoice line tables were standalone ta
 -   The invoice table \[sn\_shop\_invoice\] extends the base invoice table \[sn\_fin\_base\_invoice\].
 -   The invoice line table \[sn\_shop\_invoice\_line\] extends the base invoice line table \[sn\_fin\_base\_invoice\_line\].
 
-![Invoice table structure explaining the invoice table and invoice table line extending to base tables.](../image/invoice-reparenting.png "Invoice Table structure")
+![Invoice table structure explaining the invoice table and invoice table line extending to base tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/invoice-reparenting.png "Invoice Table structure")
 
 After you upgrade from Washington DC to Australia release, verify that your existing invoice and invoice line data has been migrated correctly. If you notice that your invoice and invoice line tables didn’t migrate properly, use the [Now Support Portal](https://support.servicenow.com/now) to raise a case with the Technical Support team.
 

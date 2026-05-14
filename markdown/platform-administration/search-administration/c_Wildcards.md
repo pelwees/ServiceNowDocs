@@ -24,7 +24,7 @@ The following searches support Zing wildcard characters.
 
 -   [Search a list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SearchAList.md)
 
-    **Note:** To perform a wildcard text search of a list, you must select **for text** as the search field. If you select a list field instead of **for text**, wildcard characters in search terms will be interpreted as [list search wildcards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SearchAList.md) \(for non-reference fields\) or as [auto-complete wildcards](../../field-administration/concept/c_AutoCompleteForReferenceFields.md#) \(for reference fields\).
+    **Note:** To perform a wildcard text search of a list, you must select **for text** as the search field. If you select a list field instead of **for text**, wildcard characters in search terms will be interpreted as [list search wildcards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SearchAList.md) \(for non-reference fields\) or as [auto-complete wildcards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../field-administration/concept/c_AutoCompleteForReferenceFields.md#) \(for reference fields\).
 
 
 To perform a single-character wildcard search, use the percent sign \(`%`\) character. This wildcard finds words that contain any one character in place of the percent-sign-character. For example, to find words such as **text** or **test**, search for `te%t`.
@@ -33,7 +33,7 @@ To perform a multiple-character wildcard search, use the asterisk \(`*`\) charac
 
 You can use wildcard characters anywhere in a search string, and can include multiple wildcards in the same word. For example, to find words including **affordable**, **effort**, and **offering**, search for `%ff%r*`.
 
-If a wildcard search returns too many hits, the system displays a message asking you to refine the search. Administrators can [set a global text search property](../task/set-global-text-search-properties.md) to change the limit for wildcard search results.
+If a wildcard search returns too many hits, the system displays a message asking you to refine the search. Administrators can [set a global text search property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/set-global-text-search-properties.md) to change the limit for wildcard search results.
 
 **Note:** Wildcard text searches are only effective with multiple character words. A wildcard within a sequence of pictogram characters returns too many options for an efficient search. Wildcards are best used with letter-based words.
 
@@ -41,18 +41,18 @@ If a wildcard search returns too many hits, the system displays a message asking
 
 Zing doesn't expand the `%` and `*` wildcard characters when looking for synonyms that match your search term. These characters are treated as literal characters when finding matching synonyms. As an example, if you search for `issu*`, Zing doesn't find synonyms for `issue`, but it does find synonyms for `issu*`.
 
-**Parent Topic:**[Available search options](c_IntroductionToSearching.md)
+**Parent Topic:**[Available search options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_IntroductionToSearching.md)
 
 **Related topics**  
 
 
-[List search finds records from the current table](c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_TextSearchesInRecordLists.md)
 
-[Boolean operators allow conditional search results](c_BooleanOperators.md)
+[Boolean operators allow conditional search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_BooleanOperators.md)
 
-[Quotation marks allow exact phrase searches](c_PhraseSearches.md)
+[Quotation marks allow exact phrase searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_PhraseSearches.md)
 
-[Enable or disable the Zing junk filter](../task/t_DisableTheJunkFilter.md)
+[Enable or disable the Zing junk filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_DisableTheJunkFilter.md)
 
-[Debug Zing](../task/t_DebugZing.md)
+[Debug Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_DebugZing.md)
 

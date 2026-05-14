@@ -41,7 +41,7 @@ If the caller's problem was fixed or resolved, use the **Close Complete** option
 
 5.  Click **Close Complete**.
 
-    ![close complete button](../../field-service-management/image/close-complete.png)
+    ![close complete button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../field-service-management/image/close-complete.png)
 
     -   The status of all unused parts automatically changes to **In-Stock**.
     -   The state of the parent work order automatically changes to **Closed - Complete** if all work order tasks on the work order have a state of **Closed - Complete** or **Canceled**.

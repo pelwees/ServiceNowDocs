@@ -21,7 +21,7 @@ Tab-through provides the following options:
 
 -   Use skip links to shift focus to different parts of the page without tabbing through every element.
 -   On edit pages such as forms, the keyboard focus starts at the first editable field on the page.
--   If the **glide.ui.focus\_first\_element** user preference is enabled, page focus starts at the first input field at the top of the page content section. In a table, this field is usually the search option. In a form, the field is the first input field in the form. For more information about disabling initial field focus to improve accessibility, see [Turn off first field focus](c_SetUpSect508ComplianceFeature.md#).
+-   If the **glide.ui.focus\_first\_element** user preference is enabled, page focus starts at the first input field at the top of the page content section. In a table, this field is usually the search option. In a form, the field is the first input field in the form. For more information about disabling initial field focus to improve accessibility, see [Turn off first field focus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md#).
 -   Use tab-through and arrow keys to move items around in a slushbucket.
 -   When focused on tabs, use right/left arrow keys to switch tabs.
 -   Arrows keys work within menus to navigate between entries.
@@ -35,7 +35,7 @@ Tab-through provides the following options:
 -   In the application navigator when accessibility is enabled, tabbing moves you through each element for every module, including the **Edit application/module** and **Add to favorites** icons. Use the arrow keys to move through the application navigator without focusing on these additional elements.
 -   If accessibility mode is enabled, a help icon appears with the HTML field. The help icon indicates how to access and escape the HTML field toolbar.
 
-**Parent Topic:**[User interface configuration](../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../core-configuration/concept/p_NavigationAndUIConfiguration.md)
 
 ## Use skip links
 
@@ -49,7 +49,7 @@ Role required: none
 
 The user interface includes skip links to the navigation menu, and the main content pane. If accessibility is not enabled, users can also use skip links to activate accessibility.
 
-![Skip link for the navigator](../image/SkipLink.png "Skip link")
+![Skip link for the navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/SkipLink.png "Skip link")
 
 -   **Enable Accessibility**: Enables accessibility. This skip link only appears if the user has not yet enabled accessibility. Pressing enter prompts you to reload the page with accessibility mode enabled.
 -   **Skip to navigator**: Skips to the navigation filter in the application navigator.
@@ -79,7 +79,7 @@ In Service Portal, you can apply the Stock — High Contrast theme to a portal f
 
 View charts and graphs that rely heavily on color with patterns in addition to colors. Navigate to **System settings** &gt; **General**, then select **Data visualization patterns enabled**.
 
-![Two graphs, one in the standard mode which relies only on color, and an overlay of the second graph with patterns.](../image/AccessibilityEnabledStyleEx.png "Accessibility enabled graph")
+![Two graphs, one in the standard mode which relies only on color, and an overlay of the second graph with patterns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/AccessibilityEnabledStyleEx.png "Accessibility enabled graph")
 
 ## Screen reader accessibility
 
@@ -133,7 +133,7 @@ Role required: none
 
 4.  Press the Tab key to navigate through the card until the Open Card Details button appears.
 
-    ![Task board card with the View Card Details button enabled and highlighted](../image/viewcarddetails.png "Card details")
+    ![Task board card with the View Card Details button enabled and highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/viewcarddetails.png "Card details")
 
 5.  Press **Enter** to open the card.
 

@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The following screenshot can help you to replace the default source with your connector's data source.![Specify basic details user interface displaying the selection of data source to replace the default data source](../images/replace-datasource.png)
+The following screenshot can help you to replace the default source with your connector's data source.![Specify basic details user interface displaying the selection of data source to replace the default data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/replace-datasource.png)
 
 ## Procedure
 
@@ -39,5 +39,5 @@ The following screenshot can help you to replace the default source with your co
 **Related topics**  
 
 
-[Deploy a new service graph connector with existing ETL](deploy-a-new-service-graph-connector-with-duplicated-etl.md)
+[Deploy a new service graph connector with existing ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/deploy-a-new-service-graph-connector-with-duplicated-etl.md)
 

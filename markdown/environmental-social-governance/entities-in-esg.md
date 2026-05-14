@@ -39,23 +39,23 @@ For Product, its attributes are product ID, name, cost, and currency. In the Pro
 
 Entities and entity types can have a one-to-many relationship. For example, an entity called Hope can have an entity type called Person and an entity type called Organization.
 
--   **[Create an entity](../task/create-entity.md)**  
+-   **[Create an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/create-entity.md)**  
 Create an entity and measure its performance against the goals. Defining an entity ensures that the entity owners are also identified. After an entity is defined, Operational Sustainability Management goals are applied to the entity.
--   **[Update an entity](../task/update-an-entity.md)**  
+-   **[Update an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/update-an-entity.md)**  
 Update the details of an existing entity.
--   **[Create an entity type](../task/create-entity-type.md)**  
+-   **[Create an entity type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/create-entity-type.md)**  
 Create an entity type for the entities in your system. Entity types enable you to find and create entities that have the same attributes and that match a set of filter conditions.
--   **[Update an entity type](../task/update-entity-type.md)**  
+-   **[Update an entity type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/update-entity-type.md)**  
 Update an existing entity type to add entity filters, policies, and control objectives.
--   **[Create an entity class](../task/create-entity-class.md)**  
+-   **[Create an entity class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/create-entity-class.md)**  
 Create an entity class that is to be associated with an entity. Define the parent class, root entity, and tier for an entity class.
--   **[Update an entity class](../task/update-entity-class.md)**  
+-   **[Update an entity class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/update-entity-class.md)**  
 Update an existing entity class that is associated with an entity. Entity classes are used to add the conceptual information about an entity or tag the entity.
 
-**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](configuring-esg.md)
+**Parent Topic:**[Configure Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-esg.md)
 
 **Related topics**  
 
 
-[Create an entity](../task/create-entity.md)
+[Create an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../task/create-entity.md)
 

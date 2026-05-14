@@ -33,7 +33,7 @@ If you select **Unassign**, you are prompted that all the associated test result
 
 Any records that you update with either the UI button or manually, are displayed on the Unassigned module under Configuration Compliance.
 
-For the steps to reassign records using the **Unassigned** UI action, see [Remove assignments from remediation tasks for you or your groups](../task/cc-unassign-trg.md).
+For the steps to reassign records using the **Unassigned** UI action, see [Remove assignments from remediation tasks for you or your groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../task/cc-unassign-trg.md).
 
 ## System property and notifications
 
@@ -56,7 +56,7 @@ The **Reassignment count for assignment rules** scheduled job runs daily and pos
 
 The job also counts any records that are manually unassigned. Both the manual counts and the counts that are gathered by this feature are posted on the Vulnerability Assignment Rules list in two columns: **Reassignment count - manual items** and **Reassignment count - unassigned items**.
 
-![Reassignment count for an assignment rule for remediation task.](../image/cc-unassigned-count.png)
+![Reassignment count for an assignment rule for remediation task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/cc-unassigned-count.png)
 
 1.  As a vulnerability administrator, you can view these counts by navigating to **Configuration Compliance** &gt; **Administration** &gt; **Assignment Rules**.
 2.  Select the gear icon in the upper right of the list and select the **Reassignment count - manual items**, and **Reassignment count - unassigned items** for display.

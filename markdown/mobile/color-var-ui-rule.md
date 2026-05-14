@@ -24,11 +24,11 @@ Use the following color variables in the **Value** field of your UI rules with t
 
  `{“BackgroundColorVariable”: “--now-color-secondary-3", “BackgroundColor”: “#3f2c11”}`
 
- For details on creating these UI rule actions, see [Create a mobile UI rule action](../task/create-mobile-ui-rule-action.md).
+ For details on creating these UI rule actions, see [Create a mobile UI rule action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/create-mobile-ui-rule-action.md).
 
 </td><td>
 
-![Color variable used in a ui action](../image/color-var-example-1.png)
+![Color variable used in a ui action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/color-var-example-1.png)
 
 </td></tr></tbody>
 </table>## Mobile UI rule color guide
@@ -62,7 +62,7 @@ Critical
 
 </td><td>
 
-![Critical alert color scheme](../image/alert-color-palette-critical.png)
+![Critical alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-critical.png)
 
 </td><td>
 
@@ -81,7 +81,7 @@ High
 
 </td><td>
 
-![High alert color scheme](../image/alert-color-palette-high.png)
+![High alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-high.png)
 
 </td><td>
 
@@ -100,7 +100,7 @@ Warning
 
 </td><td>
 
-![Warning alert color scheme](../image/alert-color-palette-warning.png)
+![Warning alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-warning.png)
 
 </td><td>
 
@@ -119,7 +119,7 @@ Moderate
 
 </td><td>
 
-![Moderate alert color scheme](../image/alert-color-palette-moderate.png)
+![Moderate alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-moderate.png)
 
 </td><td>
 
@@ -138,7 +138,7 @@ Info
 
 </td><td>
 
-![Info alert color scheme](../image/alert-color-palette-info.png)
+![Info alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-info.png)
 
 </td><td>
 
@@ -157,7 +157,7 @@ Positive
 
 </td><td>
 
-![Positive alert color scheme](../image/alert-color-palette-positive.png)
+![Positive alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-positive.png)
 
 </td><td>
 
@@ -176,7 +176,7 @@ Low
 
 </td><td>
 
-![Low alert color scheme](../image/alert-color-palette-low.png)
+![Low alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-low.png)
 
 </td><td>
 
@@ -195,7 +195,7 @@ Disabled
 
 </td><td>
 
-![Disabled alert color scheme](../image/alert-color-palette-disabled.png)
+![Disabled alert color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-disabled.png)
 
 </td><td>
 
@@ -214,7 +214,7 @@ Critical \(Alternate\)
 
 </td><td>
 
-![Critical alert color scheme alternate](../image/alert-color-palette-critical2.png)
+![Critical alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-critical2.png)
 
 </td><td>
 
@@ -233,7 +233,7 @@ High \(Alternate\)
 
 </td><td>
 
-![High alert color scheme alternate](../image/alert-color-palette-high2.png)
+![High alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-high2.png)
 
 </td><td>
 
@@ -252,7 +252,7 @@ Warning \(Alternate\)
 
 </td><td>
 
-![Warning alert color scheme alternate](../image/alert-color-palette-warning2.png)
+![Warning alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-warning2.png)
 
 </td><td>
 
@@ -271,7 +271,7 @@ Moderate \(Alternate\)
 
 </td><td>
 
-![Moderate alert color scheme alternate](../image/alert-color-palette-moderate2.png)
+![Moderate alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-moderate2.png)
 
 </td><td>
 
@@ -290,7 +290,7 @@ Info \(Alternate\)
 
 </td><td>
 
-![Info alert color scheme alternate](../image/alert-color-palette-info2.png)
+![Info alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-info2.png)
 
 </td><td>
 
@@ -309,7 +309,7 @@ Positive \(Alternate\)
 
 </td><td>
 
-![Positive alert color scheme alternate](../image/alert-color-palette-positive2.png)
+![Positive alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-positive2.png)
 
 </td><td>
 
@@ -328,7 +328,7 @@ Low \(Alternate\)
 
 </td><td>
 
-![Low alert color scheme alternate](../image/alert-color-palette-low2.png)
+![Low alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-low2.png)
 
 </td><td>
 
@@ -347,7 +347,7 @@ Disabled \(Alternate\)
 
 </td><td>
 
-![Disabled alert color scheme alternate](../image/alert-color-palette-disabled2.png)
+![Disabled alert color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-color-palette-disabled2.png)
 
 </td><td>
 
@@ -379,7 +379,7 @@ Blue
 
 </td><td>
 
-![Blue grouped color scheme](../image/grouped-color-palette-blue.png)
+![Blue grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-blue.png)
 
 </td><td>
 
@@ -394,7 +394,7 @@ Brown
 
 </td><td>
 
-![Brown grouped color scheme](../image/grouped-color-palette-brown.png)
+![Brown grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-brown.png)
 
 </td><td>
 
@@ -409,7 +409,7 @@ Gray
 
 </td><td>
 
-![Gray grouped color scheme](../image/grouped-color-palette-gray.png)
+![Gray grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-gray.png)
 
 </td><td>
 
@@ -424,7 +424,7 @@ Green
 
 </td><td>
 
-![Green grouped color scheme](../image/grouped-color-palette-green.png)
+![Green grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-green.png)
 
 </td><td>
 
@@ -439,7 +439,7 @@ Green-Yellow
 
 </td><td>
 
-![Green-yellow grouped color scheme](../image/grouped-color-palette-green-yellow.png)
+![Green-yellow grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-green-yellow.png)
 
 </td><td>
 
@@ -454,7 +454,7 @@ Magenta
 
 </td><td>
 
-![Magenta grouped color scheme](../image/grouped-color-palette-magenta.png)
+![Magenta grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-magenta.png)
 
 </td><td>
 
@@ -469,7 +469,7 @@ Orange
 
 </td><td>
 
-![Orange grouped color scheme](../image/grouped-color-palette-orange.png)
+![Orange grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-orange.png)
 
 </td><td>
 
@@ -484,7 +484,7 @@ Pink
 
 </td><td>
 
-![Pink grouped color scheme](../image/grouped-color-palette-pink.png)
+![Pink grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-pink.png)
 
 </td><td>
 
@@ -499,7 +499,7 @@ Purple
 
 </td><td>
 
-![Purple grouped color scheme](../image/grouped-color-palette-purple.png)
+![Purple grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-purple.png)
 
 </td><td>
 
@@ -514,7 +514,7 @@ Teal
 
 </td><td>
 
-![Teal grouped color scheme](../image/grouped-color-palette-teal.png)
+![Teal grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-teal.png)
 
 </td><td>
 
@@ -529,7 +529,7 @@ Yellow
 
 </td><td>
 
-![Yellow grouped color scheme](../image/grouped-color-palette-yellow.png)
+![Yellow grouped color scheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-yellow.png)
 
 </td><td>
 
@@ -544,7 +544,7 @@ Blue \(Alternate\)
 
 </td><td>
 
-![Blue grouped color scheme alternate](../image/grouped-color-palette-blue2.png)
+![Blue grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-blue2.png)
 
 </td><td>
 
@@ -559,7 +559,7 @@ Brown \(Alternate\)
 
 </td><td>
 
-![Brown grouped color scheme alternate](../image/grouped-color-palette-brown2.png)
+![Brown grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-brown2.png)
 
 </td><td>
 
@@ -574,7 +574,7 @@ Gray \(Alternate\)
 
 </td><td>
 
-![Gray grouped color scheme alternate](../image/grouped-color-palette-gray2.png)
+![Gray grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-gray2.png)
 
 </td><td>
 
@@ -589,7 +589,7 @@ Green \(Alternate\)
 
 </td><td>
 
-![Green grouped color scheme alternate](../image/grouped-color-palette-green2.png)
+![Green grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-green2.png)
 
 </td><td>
 
@@ -604,7 +604,7 @@ Green-Yellow \(Alternate\)
 
 </td><td>
 
-![Green-yellow grouped color scheme alternate](../image/grouped-color-palette-green-yellow2.png)
+![Green-yellow grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-green-yellow2.png)
 
 </td><td>
 
@@ -619,7 +619,7 @@ Magenta \(Alternate\)
 
 </td><td>
 
-![Magenta grouped color scheme alternate](../image/grouped-color-palette-magenta2.png)
+![Magenta grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-magenta2.png)
 
 </td><td>
 
@@ -634,7 +634,7 @@ Orange \(Alternate\)
 
 </td><td>
 
-![Orange grouped color scheme alternate](../image/grouped-color-palette-orange2.png)
+![Orange grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-orange2.png)
 
 </td><td>
 
@@ -649,7 +649,7 @@ Pink \(Alternate\)
 
 </td><td>
 
-![Pink grouped color scheme alternate](../image/grouped-color-palette-pink2.png)
+![Pink grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-pink2.png)
 
 </td><td>
 
@@ -664,7 +664,7 @@ Purple \(Alternate\)
 
 </td><td>
 
-![Purple grouped color scheme alternate](../image/grouped-color-palette-purple2.png)
+![Purple grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-purple2.png)
 
 </td><td>
 
@@ -679,7 +679,7 @@ Teal \(Alternate\)
 
 </td><td>
 
-![Teal grouped color scheme alternate](../image/grouped-color-palette-teal2.png)
+![Teal grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-teal2.png)
 
 </td><td>
 
@@ -694,7 +694,7 @@ Yellow \(Alternate\)
 
 </td><td>
 
-![Yellow grouped color scheme alternate](../image/grouped-color-palette-yellow2.png)
+![Yellow grouped color scheme alternate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/grouped-color-palette-yellow2.png)
 
 </td><td>
 

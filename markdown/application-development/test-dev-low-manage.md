@@ -15,27 +15,27 @@ Manage your ServiceNow apps.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Customize my apps ![Customize my apps.](../image/icon-erp.png) Customize your apps on the ServiceNow platform.](test-dev-low-manage-cust.md)
+[Customize my apps ![Customize my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-erp.png) Customize your apps on the ServiceNow platform.](test-dev-low-manage-cust.md)
 
 </td><td>
 
-[Automate my apps ![Automate my apps.](../image/icon-app-journey.png) Automate your ServiceNow applications.](test-dev-low-manage-auto.md)
+[Automate my apps ![Automate my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-app-journey.png) Automate your ServiceNow applications.](test-dev-low-manage-auto.md)
 
 </td><td>
 
-[Secure my apps ![Secure my apps.](../image/icon-security.png) Secure your ServiceNow applications.](test-dev-low-manage-secure.md)
+[Secure my apps ![Secure my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-security.png) Secure your ServiceNow applications.](test-dev-low-manage-secure.md)
 
 </td></tr><tr><td>
 
-[Test my apps ![Test my apps.](../image/icon-atf.png) Test your apps on the ServiceNow platform.](test-dev-low-manage-test.md)
+[Test my apps ![Test my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-atf.png) Test your apps on the ServiceNow platform.](test-dev-low-manage-test.md)
 
 </td><td>
 
-[Deploy my apps ![Deploy my apps.](../image/icon-submit.png) Deploy your apps with the ServiceNow platform.](test-dev-low-manage-deploy.md)
+[Deploy my apps ![Deploy my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-submit.png) Deploy your apps with the ServiceNow platform.](test-dev-low-manage-deploy.md)
 
 </td><td>
 
-[Maintain my apps ![Maintain my apps.](../image/icon-workspace-builder.png) Maintain your apps on the ServiceNow platform.](test-dev-low-manage-maintain.md)
+[Maintain my apps ![Maintain my apps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/icon-workspace-builder.png) Maintain your apps on the ServiceNow platform.](test-dev-low-manage-maintain.md)
 
 </td></tr></tbody>
 </table>

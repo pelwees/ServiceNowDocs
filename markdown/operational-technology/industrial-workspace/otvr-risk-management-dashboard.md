@@ -39,5 +39,5 @@ You can use the Site list to search for and select the site that you want to vie
 
 Select the **OT Vulnerability Risk** from the Select Risk Type list to view the rolled up risk score and the VITs for the selected sites.
 
-**Parent Topic:**[Dashboard Library in the Industrial Workspace](dashboard-library-industrial-workspace.md)
+**Parent Topic:**[Dashboard Library in the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/dashboard-library-industrial-workspace.md)
 

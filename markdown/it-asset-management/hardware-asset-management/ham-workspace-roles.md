@@ -131,5 +131,5 @@ sam
 Access to Software Asset Management features included with Asset Management. Different roles such as sam\_admin, sam\_user, and sam\_developer are required to use the Software Asset Management application.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hardware Asset Management reference](../concept/reference-hardware-asset-management.md)
+</table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/reference-hardware-asset-management.md)
 

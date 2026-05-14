@@ -135,5 +135,5 @@ Text verification
 Enter the CAPTCHA verification code on the screen.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Report an AI case anonymously](../task/report-ai-case-anon.md)
+</table>**Parent Topic:**[Report an AI case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/report-ai-case-anon.md)
 

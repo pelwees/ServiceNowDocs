@@ -13,7 +13,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 Use Decision Builder to change the state mappings for cases and incidents in Care Team Operations for Healthcare IT.
 
-![HCIT state sync map](../image/cto-it-state-sync-1.png)
+![HCIT state sync map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-state-sync-1.png)
 
 The HCIT case state sync map displays all current mappings between Healthcare IT case and incident states.
 

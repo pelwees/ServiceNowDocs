@@ -18,7 +18,7 @@ Understand the context of a security incident with the Security Incident summari
 
 ## Before you begin
 
-You can summarize a security incident in the legacy Core UI \(UI16\) and in the Security Incident Response Workspace. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](../reference/input-triggers-now-assist-security-incident.md).
+You can summarize a security incident in the legacy Core UI \(UI16\) and in the Security Incident Response Workspace. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../reference/input-triggers-now-assist-security-incident.md).
 
 Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
@@ -54,7 +54,7 @@ Description
 
 </td><td>
 
-Select the information icon \(![Information icon](../image/na-sir-info-icon.png)\) next to the Security Incident summarized by Now Assist.
+Select the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/na-sir-info-icon.png)\) next to the Security Incident summarized by Now Assist.
 
 </td></tr><tr><td id="d219345e210">
 
@@ -73,7 +73,7 @@ Select the information icon \(![Information icon](../image/na-sir-info-icon.png)
 
 </td><td>
 
-Select the expand icon \(![Expand icon.](../image/icon-expand.png)\) or collapse icon \(![Collapse icon.](../image/icon-collapse.png)\) next to **Share to work notes** to expand or collapse the summary.
+Select the expand icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-expand.png)\) or collapse icon \(![Collapse icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-collapse.png)\) next to **Share to work notes** to expand or collapse the summary.
 
 </td></tr><tr><td id="d219345e261">
 
@@ -81,7 +81,7 @@ Select the expand icon \(![Expand icon.](../image/icon-expand.png)\) or collapse
 
 </td><td>
 
-Select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\) if the summary wasn't helpful. **Note:** Feedback improves the generative AI model and can help to improve future versions of this skill.
+Select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-helpful.png)\) for positive feedback. Select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-not-helpful.png)\) if the summary wasn't helpful. **Note:** Feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d219345e285">
 
@@ -89,7 +89,7 @@ Select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\) for posi
 
 </td><td>
 
-Select the copy icon \(![Copy icon.](../image/icon-copy.png)\) to copy the summary to the clipboard.
+Select the copy icon \(![Copy icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-copy.png)\) to copy the summary to the clipboard.
 
 </td></tr></tbody>
 </table>

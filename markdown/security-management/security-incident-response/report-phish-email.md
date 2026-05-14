@@ -23,13 +23,13 @@ Role required: sn\_si.analyst
 
 1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
-2.  Click the list \(![list icon](../image/listview-icon.png)\) icon.
+2.  Click the list \(![list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/listview-icon.png)\) icon.
 
 3.  Go to **User Reported Phishing Emails** &gt; **All**.
 
     The user reported phishing emails list is displayed.
 
-    ![Phishing email list](../image/phish-email-list.png)
+    ![Phishing email list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/phish-email-list.png)
 
 4.  Click **Report Phish Email** button.
 
@@ -46,24 +46,24 @@ Role required: sn\_si.analyst
     The phishing email to log a security incident is created.
 
 
-**Parent Topic:**[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+**Parent Topic:**[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/setting-up-list-view-in-analyst-workspace.md)
 
 **Related topics**  
 
 
-[Personalize a list](../concept/personalize-a-list.md)
+[Personalize a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/personalize-a-list.md)
 
-[Apply quick filters on Security Incidents and Response Tasks lists](../concept/use-quick-filters-for-security-incidents.md)
+[Apply quick filters on Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/use-quick-filters-for-security-incidents.md)
 
-[Assign Security Incidents](../concept/assign-security-incident.md)
+[Assign Security Incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/assign-security-incident.md)
 
-[Close multiple security incidents](close-multiple-incidents-sir.md)
+[Close multiple security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/close-multiple-incidents-sir.md)
 
-[Assign Response Tasks](assign_response_tasks.md)
+[Assign Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/assign_response_tasks.md)
 
-[Working with quick filters](../concept/configure-quick-filters.md)
+[Working with quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/configure-quick-filters.md)
 
-[Export Security Incidents or Response Tasks](../concept/export-security-incidents-or-response-tasks.md)
+[Export Security Incidents or Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/export-security-incidents-or-response-tasks.md)
 
-[Manage Shift Handover records](../concept/manage-shift-handover-records.md)
+[Manage Shift Handover records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-shift-handover-records.md)
 

@@ -27,18 +27,18 @@ When you select which theme record is active for the instance, any associated va
 
 2.  Select **Preferences**.
 
-    ![User menu with Preferences selected.](../image/next-exp-coral-user-menu-pref.png "Preferences")
+    ![User menu with Preferences selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-coral-user-menu-pref.png "Preferences")
 
 3.  Select the **Theme** tile.
 
-    ![Theme preference with Polaris and Coral themes displayed.](../image/next-exp-coral-polaris.png "Next Experience themes")
+    ![Theme preference with Polaris and Coral themes displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-coral-polaris.png "Next Experience themes")
 
     **Note:** The theme images that are displayed depend on the theme record that you selected for the instance. Your users can select the variant or alternate color palette that are attached to that theme record they want to use for their own work environment.
 
     Each theme card displays the core theme and all variants or alternative color palettes that are associated with that core theme. Hover over the circles beneath the core theme to view a preview of the variant or alternate color palette.
 
-    Your users can select the [variant or alternate color palette](../reference/difference-themes-variants.md) that they want to adopt for their instance.
+    Your users can select the [variant or alternate color palette](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/difference-themes-variants.md) that they want to adopt for their instance.
 
 
-**Parent Topic:**[Working with the dark theme](../concept/tb-working-in-dark-theme.md)
+**Parent Topic:**[Working with the dark theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tb-working-in-dark-theme.md)
 

@@ -22,9 +22,9 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 Generative AI output is probabilistic, which means that the same input can produce different outputs. Some of the AI generated content may be offensive, which includes toxic, sexist, or other harmful language. Now Assist Guardian detects offensive content in both inputs and outputs, and logs the event when it is detected. You can also configure it to block offensive material so that users see a standard error message instead of the generated response.
 
-**Note:** Offensiveness detection applies only to specific Now Assist skills and workflows. It is not available for all Now Assist applications. For more information about the list of skills that support offensiveness detection, see [Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md).
+**Note:** Offensiveness detection applies only to specific Now Assist skills and workflows. It is not available for all Now Assist applications. For more information about the list of skills that support offensiveness detection, see [Now Assist Guardian](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-assist-platform/concept/now-assist-guardian.md).
 
-You can export logs for review. For more information, see [Export Now Assist Guardian logs](export-now-assist-guardian-logs.md).
+You can export logs for review. For more information, see [Export Now Assist Guardian logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/export-now-assist-guardian-logs.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ You can export logs for review. For more information, see [Export Now Assist Gua
 
     -   To record the events when offensive content is detected while keeping the content visible to the user, select **Log the output**. The offensive content is still shown to the user.
     -   To record the event and prevents the content from being shown to the user, select **Block the response and log the output**. The user sees a standard error message instead.
-    ![Offensiveness guardrail for with the "Log the output" action and "Low" severity level selected.](../image/na-guardian-activate-offensiveness.png)
+    ![Offensiveness guardrail for with the "Log the output" action and "Low" severity level selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/na-guardian-activate-offensiveness.png)
 
 6.  In the **Select content severity level to check for offensiveness** section, select one of the following options.
 
@@ -66,5 +66,5 @@ To change the detection impact for an active workflow, select more options \(![i
 
 To deactivate offensiveness protection for a workflow, select more options \(![image.more-options-menu-item]\) icon in the list of active workflows and then select **Deactivate**.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-assist-platform/concept/now-assist-guardian.md)
 

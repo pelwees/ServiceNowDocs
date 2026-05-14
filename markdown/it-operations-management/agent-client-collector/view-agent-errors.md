@@ -23,7 +23,7 @@ Role required: agent\_client\_collector\_admin
 
 1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agent Issues**.
 
-    The **ACC Error Messages** page appears and lists the agents containing errors.![ACC Error Messages page](../image/acc-error-messages.png)
+    The **ACC Error Messages** page appears and lists the agents containing errors.![ACC Error Messages page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-error-messages.png)
 
     The following columns display the indicated information about the errors.
 
@@ -119,11 +119,11 @@ A reference to the **ecc\_queue** record that was processed and triggered the er
 </table>    **Note:**
 
     -   Not all columns are visible by default on the page.
-    -   Select the info icon \(![Info icon](../../event-management/image/info.png)\) next to an error to view a pop-up window with full information about the error.
+    -   Select the info icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../event-management/image/info.png)\) next to an error to view a pop-up window with full information about the error.
 
-        ![ACC Error Message popup window](../image/acc-error-message-popup.png "ACC Error Message pop-up window")
+        ![ACC Error Message popup window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-error-message-popup.png "ACC Error Message pop-up window")
 
-        The info icon is visible when hovering under the search icon \(![Search icon](../../cloud-management-v2/image/search-icon-magnifyingGlass.png)\) next to the error entry.
+        The info icon is visible when hovering under the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../cloud-management-v2/image/search-icon-magnifyingGlass.png)\) next to the error entry.
 
 2.  To view errors for a specific agent:
 

@@ -25,7 +25,7 @@ Role required: admin
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Click the search icon \(![Search](../../../common/image/List_SearchIcon.png)\) in the middle of the screen to search for the application collaboration application.
+2.  Click the search icon \(![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../common/image/List_SearchIcon.png)\) in the middle of the screen to search for the application collaboration application.
 
 3.  Click **Install**.
 

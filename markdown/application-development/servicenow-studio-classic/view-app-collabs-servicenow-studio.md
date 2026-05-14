@@ -29,20 +29,20 @@ Role required: admin or delegated\_developer
 
 3.  Access collaboration settings by selecting the more options icon ![](../image/sn-studio-more-options-icon.png) and selecting **Invite**.
 
-    ![Invite collaborators to work on your app using the more options menu on the app details page.](../image/sn-studio-collab-select-zs2.png)
+    ![Invite collaborators to work on your app using the more options menu on the app details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-collab-select-zs2.png)
 
 4.  Review the collaborators' names, groups, and descriptors on the Collaborate with others modal.
 
-    ![View pending and approved collaborators for an app](../image/sn-studio-collab-modal.png "View collaborators")
+    ![View pending and approved collaborators for an app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-collab-modal.png "View collaborators")
 
 
 ## Result
 
 You can take additional actions when viewing collaborators. For more information, see the following topics:
 
--   [Add collaborators to an app in ServiceNow Studio](add-collabs-app-servicenow-studio.md)
--   [Modify or customize collaboration permissions for a user or group in ServiceNow Studio](modify-collab-descriptor-servicenow-studio.md)
--   [Remove collaborators from an app in ServiceNow Studio](remove-collaborators-servicenow-studio.md)
+-   [Add collaborators to an app in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/add-collabs-app-servicenow-studio.md)
+-   [Modify or customize collaboration permissions for a user or group in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/modify-collab-descriptor-servicenow-studio.md)
+-   [Remove collaborators from an app in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/remove-collaborators-servicenow-studio.md)
 
-**Parent Topic:**[Collaborating on apps using ServiceNow Studio](../concept/manage-app-collab-servicenow-studio.md)
+**Parent Topic:**[Collaborating on apps using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/manage-app-collab-servicenow-studio.md)
 

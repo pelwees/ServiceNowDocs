@@ -34,10 +34,10 @@ Configuring list definitions requires a knowledge of Apache Jelly.
 3.  Complete the List Definition form.
 
 
-**Parent Topic:**[Customize the list block](t_DefineTheListBlock.md)
+**Parent Topic:**[Customize the list block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_DefineTheListBlock.md)
 
 **Related topics**  
 
 
-[Content Management and the Apache Jelly engine](../reference/r_ContentManagementAndJelly.md)
+[Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_ContentManagementAndJelly.md)
 

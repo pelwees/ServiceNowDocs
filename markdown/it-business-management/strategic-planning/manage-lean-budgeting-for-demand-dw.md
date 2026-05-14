@@ -17,7 +17,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 ## Before you begin
 
--   Lean budgeting is enabled. For more information, see [Enable lean budgeting for demands](enable-lean-budgeting-for-demands-dw.md).
+-   Lean budgeting is enabled. For more information, see [Enable lean budgeting for demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/enable-lean-budgeting-for-demands-dw.md).
 -   Role required: sn\_invst\_pln.sn\_spm\_funding\_user
 
     Any user role with this specific role attached can add or manage the investment budgets.
@@ -27,7 +27,7 @@ Allocate budget for demands at each fiscal period instead of the entire fiscal y
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 

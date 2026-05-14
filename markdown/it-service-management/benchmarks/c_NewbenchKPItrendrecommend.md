@@ -19,7 +19,7 @@ The KPI Performance Trends chart section is shown only for users with the Benchm
 
 ## KPI Performance Trends chart
 
-![KPI Performance Trends](../image/BenchTrend2.png "6-month monthly data mapped against global data")
+![KPI Performance Trends](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../image/BenchTrend2.png "6-month monthly data mapped against global data")
 
 Your 6-month monthly data is mapped against global data, and your percentile rank indicating your standing within the participating peer group is shown.
 

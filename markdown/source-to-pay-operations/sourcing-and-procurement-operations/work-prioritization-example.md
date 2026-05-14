@@ -80,5 +80,5 @@ After the rules are configured in the table, the system re-evaluates the case th
 
 This means work prioritization does not require all rules to be in place before the feature is active. Records created before rules are configured accumulate at Planning priority and are re-evaluated naturally as they are updated.
 
-**Parent Topic:**[Work prioritization](work-prioritization.md)
+**Parent Topic:**[Work prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-prioritization.md)
 

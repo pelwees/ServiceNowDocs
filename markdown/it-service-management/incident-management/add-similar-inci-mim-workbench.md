@@ -25,16 +25,16 @@ Role required: itil, major\_incident\_manager, communication\_manager, incident\
 
 ## Procedure
 
-1.  Navigate to [Major incident workbench](../concept/major-incident-workbench.md).
+1.  Navigate to [Major incident workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/major-incident-workbench.md).
 
 2.  Select the **Summary** tab.
 
-3.  In the Child Incidents section, select ![MIM ellipses](../image/mim-ellipses.png) and then select **Find Similar**.
+3.  In the Child Incidents section, select ![MIM ellipses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/mim-ellipses.png) and then select **Find Similar**.
 
 4.  From the Add Similar Incidents dialog box, select the similar incidents that you want to relate to the major incident and then select **Add Selected**.
 
     The similar child incidents appear under the Child Incidents section.
 
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/major-incident-workbench.md)
 

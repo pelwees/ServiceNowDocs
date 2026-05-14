@@ -25,9 +25,9 @@ Each subscription page includes the following sections.
 -   Stream Connect logs
 -   Kafka consumer statistics
 
-To view a subscription record, navigate to **IntegrationHub** &gt; **Stream Connect** &gt; **Subscriptions**. Select the info icon \(![info icon](../images/info-icon.png)\) for the subscription you want to view, then select **Open Record**.
+To view a subscription record, navigate to **IntegrationHub** &gt; **Stream Connect** &gt; **Subscriptions**. Select the info icon \(![info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/info-icon.png)\) for the subscription you want to view, then select **Open Record**.
 
-![The Kafka subscription page with subscription details, metrics, and information on partition groups, consumer logs, and consumer statistics.](../images/kafka-subscription-statistics.png "Sample subscription page for a Kafka consumer")
+![The Kafka subscription page with subscription details, metrics, and information on partition groups, consumer logs, and consumer statistics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/kafka-subscription-statistics.png "Sample subscription page for a Kafka consumer")
 
 ## Kafka subscription
 
@@ -244,7 +244,7 @@ Average number of records remaining to be processed in the partition group.
 </td></tr></tbody>
 </table>## Stream Connect logs
 
-The Stream Connect Logs tab displays the log entries for the associated consumer. Each log entry shows when it was created; its level, message, and source; and links to any related Alert or Subscription records. Stream Connect logs are stored in the Stream Connect Logs \[sys\_consumer\_log\] table. This table also includes logging for [producers.](producer-statistics.md)
+The Stream Connect Logs tab displays the log entries for the associated consumer. Each log entry shows when it was created; its level, message, and source; and links to any related Alert or Subscription records. Stream Connect logs are stored in the Stream Connect Logs \[sys\_consumer\_log\] table. This table also includes logging for [producers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/producer-statistics.md)
 
 You can enable more detailed logging in the Stream Connect logs by [adding the system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) **glide.ih.kafka.stream\_connect.debug** and setting it to **true**. To avoid filling up the logs, this property is automatically disabled after 24 hours. If you need detailed logging for longer than 24 hours, you can re-enable the property manually.
 
@@ -370,5 +370,5 @@ Name of the underlying consumer table. One of the following:-   Kafka Stream \[s
 -   Kafka Flow Trigger \[sys\_kafka\_flow\_trigger\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md)
+</table>**Parent Topic:**[Using Stream Connect for Apache Kafka](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/stream-connect-apache-kafka.md)
 

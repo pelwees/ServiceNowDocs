@@ -19,19 +19,19 @@ You can now view important log entries in the BOQ form. When you go to the BOQ t
 
 The following are some of the examples for log entries in the BOQ form for test execution.
 
--   Successful test run![Image showing successful test run](../image/atf-tg-cr-successful-run-boq.png)
+-   Successful test run![Image showing successful test run](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-tg-cr-successful-run-boq.png)
 
-    **Note:** Select See generated tests related link to view the automated tests. The list of generated tests shows up and is not editable. You can also view the state and the reasons of failure of the tests on the list. The See generated tests related link is visible for all the log entries in the BOQ form examples. ![Generated Tests list.](../image/atf-tg-cr-generated-tests.png)
+    **Note:** Select See generated tests related link to view the automated tests. The list of generated tests shows up and is not editable. You can also view the state and the reasons of failure of the tests on the list. The See generated tests related link is visible for all the log entries in the BOQ form examples. ![Generated Tests list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-tg-cr-generated-tests.png)
 
--   Test run got cancelled by user via root tracker![Image showing canceled test run](../image/atf-app-test-run-canceled.png)
--   If BOQ and BOS can be reached on an instance, but login is redirected.![Image showing login redirected case](../image/atf-app-login-redirected.png)
+-   Test run got cancelled by user via root tracker![Image showing canceled test run](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-test-run-canceled.png)
+-   If BOQ and BOS can be reached on an instance, but login is redirected.![Image showing login redirected case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-login-redirected.png)
 
     **Note:** This might happen when the ADCv2 load balancer of the instance is misconfigured and you have a customization that redirects traffic via a client side script.
 
     \(the ADCv2 load balancer of the instance is misconfigured, the customer has a customization that redirects traffic via a client side script, etc…\)
 
--   If you have deleted an API key before the job is sent to BOS/BOQ![Image showing API key deleted case](../image/atf-app-api-key-deleted.png)
--   If the BOS is unable to login to an instance due to some client side script, API key being deleted after request has been sent to BOS/BOQ, etc.![Image showing unable to login case](../image/atf-app-unable-login.png)
+-   If you have deleted an API key before the job is sent to BOS/BOQ![Image showing API key deleted case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-api-key-deleted.png)
+-   If the BOS is unable to login to an instance due to some client side script, API key being deleted after request has been sent to BOS/BOQ, etc.![Image showing unable to login case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/atf-app-unable-login.png)
 
-**Parent Topic:**[ATF Test Generator and Cloud Runner reference](atf-tg-cr-ref.md)
+**Parent Topic:**[ATF Test Generator and Cloud Runner reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-ref.md)
 

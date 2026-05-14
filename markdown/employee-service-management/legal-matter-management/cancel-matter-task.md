@@ -25,7 +25,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  In the Legal Counsel Center tab, select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  In the Legal Counsel Center tab, select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, under **Legal Matters**, click **Assigned to Me**.
 
@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_user
 
 The matter task is cancelled and its state updates to Cancelled.
 
-**Parent Topic:**[Create a task for a legal matter](add-tasks-to-legal-matter.md)
+**Parent Topic:**[Create a task for a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-tasks-to-legal-matter.md)
 

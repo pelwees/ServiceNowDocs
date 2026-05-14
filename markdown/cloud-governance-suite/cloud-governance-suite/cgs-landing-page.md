@@ -18,25 +18,25 @@ Cloud Workspace provides a centralized, consistent experience for managing all S
 
 Key feature in Cloud Workspace is Cloud Account Management \(CAM\), which is available through the ITOM Cloud Accelerate offering. CAM focuses on automating the entire cloud account life cycle—from requesting and provisioning new cloud accounts to managing their governance, suspension, reactivation, and certification.
 
-![Cloud Governance Suite architectural overview](../image/cgs-overview.png "Cloud Governance Suite overview")
+![Cloud Governance Suite architectural overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-governance-suite/cloud-governance-suite/../image/cgs-overview.png "Cloud Governance Suite overview")
 
 ## Get Started
 
 <table id="table_kqk_ttx_r5b" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/exploring-cam.md)Learn about Cloud Account Management concepts and features.
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-governance-suite/cloud-governance-suite/../../../reuse/icons/brand-icons/bus-explore.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/exploring-cam.md)Learn about Cloud Account Management concepts and features.
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configuring-cam.md)Configure environment and user access.
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-governance-suite/cloud-governance-suite/../../../reuse/icons/brand-icons/bus-sdlc.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configuring-cam.md)Configure environment and user access.
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/using-cam.md)Become familiar with workflow to create and manage cloud accounts.
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-governance-suite/cloud-governance-suite/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/using-cam.md)Become familiar with workflow to create and manage cloud accounts.
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)Get details about components like fields, tables, and properties.
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/cloud-governance-suite/cloud-governance-suite/../../../reuse/icons/brand-icons/bus-whitepaper.svg)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)Get details about components like fields, tables, and properties.
 
 </td></tr></tbody>
 </table>

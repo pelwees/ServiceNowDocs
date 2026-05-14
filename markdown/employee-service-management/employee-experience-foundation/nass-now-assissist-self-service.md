@@ -25,7 +25,7 @@ You can see a new theme that is visually-engaging, effective, and user-friendly 
 
 This theme provides a more functional and clean design that is visually appealing to users. This theme aligns with the new sets components, a new color scheme, logo update, and CSS variable adjustments.
 
-![EC Home page and nava enhanced chat](../images/nass-owassist-ec-homepage.png "Employee Center theme")
+![EC Home page and nava enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/nass-owassist-ec-homepage.png "Employee Center theme")
 
 ## Enhanced header
 

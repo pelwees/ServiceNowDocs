@@ -52,7 +52,7 @@ You can create a processing activity, privacy case, or an issue using the **Crea
 
 The following image shows the Privacy cases dashboard.
 
-![Privacy cases tab on the privacy management home page.](../image/privacy-cases-tab.png "Privacy cases dashboard")
+![Privacy cases tab on the privacy management home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/privacy-cases-tab.png "Privacy cases dashboard")
 
-**Parent Topic:**[Privacy Workspace for the privacy manager](privacy-mgmt-ws-privacy-compliance-manager.md)
+**Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 

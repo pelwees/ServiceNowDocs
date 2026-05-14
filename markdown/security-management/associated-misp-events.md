@@ -62,26 +62,26 @@ Automatic Event Creation Profile
 Event creation profile that is used to create the automatic event.Click the profile to view the Automatic MISP Event Creation Profile.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+</table>**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/install-and-configure-misp.md)
 
-[Review the MISP integration settings](../task/review-the-misp-integration-settings.md)
+[Review the MISP integration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](../task/configure-sightings-search.md)
+[Configure MISP sighting searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-sightings-search.md)
 
-[Configure how an automatic event is created](../task/configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-event-data.md)
 
-[MISP user information](misp-user-information.md)
+[MISP user information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/misp-user-information.md)
 
-[Domain separation and MISP](domain-separation-and-misp.md)
+[Domain separation and MISP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/domain-separation-and-misp.md)
 
-[Troubleshooting MISP integration](troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/troubleshooting-misp-integration.md)
 

@@ -26,5 +26,5 @@ The HR team can analyze and understand the key metrics such as, call deflections
 
 Also, process owners can view the records that contribute to these insights, do a deep dive analysis, and drive improvement plans.
 
-![HR Success Dashboard Overview landing page](../image/dashboard-perf-oview.png "HR Success Dashboard Overview")
+![HR Success Dashboard Overview landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/dashboard-perf-oview.png "HR Success Dashboard Overview")
 

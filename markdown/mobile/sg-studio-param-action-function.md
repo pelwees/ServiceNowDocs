@@ -33,7 +33,7 @@ The UI parameter fields don’t appear on the action function unless you’ve as
 
 3.  Select **Functions** in the menu, and then select **New**.
 
-    Complete the action function fields as needed. For more information on completing the fields for the action function, see [Configure an action function](sg-studio-config-action-function.md).
+    Complete the action function fields as needed. For more information on completing the fields for the action function, see [Configure an action function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 4.  Scroll down to the UI Parameters section of the form, select **New**, and complete the fields as needed.
 
@@ -159,7 +159,7 @@ Provides a search bar so that users can search in a list. Select a reference fie
 
     -   **QR/Barcode**
 
-Provides the option to search by QRC or barcode. Learn more about this feature in [Mobile barcode scanning](../concept/sg-mobile-scanning.md).
+Provides the option to search by QRC or barcode. Learn more about this feature in [Mobile barcode scanning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-mobile-scanning.md).
 
 -   **Auto fill options**
     -   **GPS Location**
@@ -226,5 +226,5 @@ The field used from the source field table.
 
 ## What to do next
 
-Associate the function with a specific screen. For more information on how to associate the action, see [Associate a function with a location in the app](../reference/sg-studio-button-instances.md).
+Associate the function with a specific screen. For more information on how to associate the action, see [Associate a function with a location in the app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/sg-studio-button-instances.md).
 

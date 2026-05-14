@@ -66,5 +66,5 @@ A knowledge base article undergoes the following workflow when it is created:
 
 The knowledge base article is modified with the changes.
 
-**Parent Topic:**[Workplace knowledge management](../concept/workplace-knowledge-mgmt-wsd.md)
+**Parent Topic:**[Workplace knowledge management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/workplace-knowledge-mgmt-wsd.md)
 

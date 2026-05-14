@@ -34,7 +34,7 @@ Role required: admin
 
 The email entry field is hidden. Users can select users from the reference field to add to the watchlist.
 
-**Parent Topic:**[Configure email notifications for watch lists](t_ConfigNotifications4WatchLists.md)
+**Parent Topic:**[Configure email notifications for watch lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigNotifications4WatchLists.md)
 
 **Related topics**  
 

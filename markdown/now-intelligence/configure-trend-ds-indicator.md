@@ -19,15 +19,15 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 ## About this task
 
-**Important:** Only native Data snapshots indicators have this feature. Classic indicators, including ones with Data snapshots enabled, have a time aggregation instead. For more information, see [Select time aggregation in KPI Details](select-time-series-aggregation.md).
+**Important:** Only native Data snapshots indicators have this feature. Classic indicators, including ones with Data snapshots enabled, have a time aggregation instead. For more information, see [Select time aggregation in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-time-series-aggregation.md).
 
 ## Procedure
 
-1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](../../performance-analytics/task/view-kpi-details.md).
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/view-kpi-details.md).
 
 2.  Expand the Trend by menu, which has a label matching the currently selected aggregation period.
 
-    ![The control for expanding the trend by menu](../image/kpid-open-trend-by.png)
+    ![The control for expanding the trend by menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpid-open-trend-by.png)
 
 3.  Note the read-only **Date field**.
 
@@ -50,24 +50,24 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 7.  Press **Apply**.
 
 
-**Parent Topic:**[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/kpi-details-components.md)
 
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/show-compare-edit-records.md#)
 
-[Chart options in KPI Details](../reference/chart-options.md)
+[Chart options in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/chart-options.md)
 
-[Select time aggregation in KPI Details](select-time-series-aggregation.md)
+[Select time aggregation in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-time-series-aggregation.md)
 
-[Configure display properties for a Data snapshots indicator](configure-display-properties-ds-indicator.md)
+[Configure display properties for a Data snapshots indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-display-properties-ds-indicator.md)
 
-[Filter indicator scores by breakdown elements in KPI Details](apply-brkdowns-element-kpi-details.md#)
+[Filter indicator scores by breakdown elements in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/apply-brkdowns-element-kpi-details.md#)
 
-[Filter native Data snapshots indicator scores in KPI Details](filter-data-snapshots-indicator-scores.md)
+[Filter native Data snapshots indicator scores in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/filter-data-snapshots-indicator-scores.md)
 
-[Access indicator record or scoresheet from KPI Details](access-indicator-record-scoresheet.md)
+[Access indicator record or scoresheet from KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/access-indicator-record-scoresheet.md)
 

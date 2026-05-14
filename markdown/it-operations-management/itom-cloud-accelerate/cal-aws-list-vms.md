@@ -94,5 +94,5 @@ You can use these outputs as inputs for other actions.
     A complex object containing information about the VMs hosted on the specified logical datacenter.
 
 
-**Parent Topic:**[Cloud Action Library reference](cloud-action-library-reference.md)
+**Parent Topic:**[Cloud Action Library reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-action-library-reference.md)
 

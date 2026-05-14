@@ -39,17 +39,17 @@ The methods in the connectors interact at different levels in the applications.
 
 To access the various methods, you must first configure the connectors.
 
--   [Configure the Chromium connector](../task/configure-chrome-connector.md)
--   [Configure the Internet Explorer connector](../task/configure-internet-explorer-connector.md)
--   [Configure the Java connector](../task/configure-java-connector.md)
--   [Configure the Terminal connector](configure-terminal-connector.md)
--   [Configure Windows connector](../task/configure-windows-connector.md)
+-   [Configure the Chromium connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-chrome-connector.md)
+-   [Configure the Internet Explorer connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-internet-explorer-connector.md)
+-   [Configure the Java connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-java-connector.md)
+-   [Configure the Terminal connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-terminal-connector.md)
+-   [Configure Windows connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-windows-connector.md)
 
 ## Expose the methods at different levels
 
 After configuration, you can expose the methods at different levels. The methods appear in the Object Explorer pane.
 
-![Methods at all levels.](../image/methods-all-levels.png)
+![Methods at all levels.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/methods-all-levels.png)
 
-**Parent Topic:**[Use a connector in RPA Desktop Design Studio](../task/use-connector.md)
+**Parent Topic:**[Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector.md)
 

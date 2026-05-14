@@ -37,7 +37,7 @@ Role required: admin
 
 8.  Select **Submit**.
 
-    ![User preference form with description, name, type, and value filled in. User field is blank.](../../dashboards/image/user-pref-all-homepages-db.png)
+    ![User preference form with description, name, type, and value filled in. User field is blank.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/user-pref-all-homepages-db.png)
 
 
 ## Result
@@ -46,5 +46,5 @@ All users see the last dashboard that they visited when they log in to ServiceNo
 
 ## What to do next
 
-[Set a specific dashboard as home for all users](../../dashboards/task/set-specific-db-as-home-for-all-users.md)
+[Set a specific dashboard as home for all users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/set-specific-db-as-home-for-all-users.md)
 

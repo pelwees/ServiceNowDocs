@@ -28,7 +28,7 @@ Role required: workspace\_admin or ui\_builder\_admin​
 3.  In the **Config** tab, set the interaction and aria properties.
 
     -   From the **Interaction** menu, select **Click**.
-    -   In the Accessibility section, select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png)
+    -   In the Accessibility section, select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/dynamic-data-binding-icon.png)
     -   From the **ARIA Properties** list, select **@state.cardProps.aria**.
 4.  Select the **Events** tab.
 
@@ -47,11 +47,11 @@ Role required: workspace\_admin or ui\_builder\_admin​
 
 ## What to do next
 
-[Configure a Work scheduler card heading component](work-sched-card-based-header.md)
+[Configure a Work scheduler card heading component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-card-based-header.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-itsm.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-workscheduler-card-wfo-itsm.md)
 
-**Previous topic:**[Define event mappings for Work scheduler](work-sched-event-mapping.md)
+**Previous topic:**[Define event mappings for Work scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-event-mapping.md)
 
-**Next topic:**[Configure a Work scheduler card heading component](work-sched-card-based-header.md)
+**Next topic:**[Configure a Work scheduler card heading component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-card-based-header.md)
 

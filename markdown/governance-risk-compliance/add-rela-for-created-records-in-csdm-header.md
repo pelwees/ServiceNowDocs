@@ -23,12 +23,12 @@ Role required: sn\_oper\_res.manager
 
     The Main node configurations that are provided with the base system are displayed.
 
-    ![Main node configurations.](../image/main-node-configs.png)
+    ![Main node configurations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/main-node-configs.png)
 
 2.  Verify that and CI and non-CI relationships are configured in CMDB, Main node configurations and node relationship configurations are set up, and entities are generated in Operational Resilience.
 
 
 ## What to do next
 
-To fetch the dependencies, execute the scheduled job. For more information, see [Execute the scheduled jobs](execute-sch-jobs.md).
+To fetch the dependencies, execute the scheduled job. For more information, see [Execute the scheduled jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/execute-sch-jobs.md).
 

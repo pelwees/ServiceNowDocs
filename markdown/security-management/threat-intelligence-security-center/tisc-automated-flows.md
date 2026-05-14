@@ -34,22 +34,22 @@ Create flows that run with TISC roles. In TISC the flows are created for the fol
 |Check if IP address is in CIDR range|Checking if an IP address in inside a CIDR range.|
 |Check if IP address is in range|Checking if an IP address is in between from and to range.|
 
--   **[Automated IOC Enrichment](../task/tisc-ioc-enrichment.md)**  
+-   **[Automated IOC Enrichment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-ioc-enrichment.md)**  
 Learn how to automate enrichment of IOC’s using flows when they match a certain criterion.
--   **[Automated sharing of high-risk IOC's with trusted partners](../task/tisc-automated-sharing-flow.md)**  
+-   **[Automated sharing of high-risk IOC's with trusted partners](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-automated-sharing-flow.md)**  
 Learn how to automate sharing of high-risk IOC's with trusted partners.
--   **[Automatically add threat intelligence to a TAXII collection](../task/tisc-taxii-automated-flow.md)**  
+-   **[Automatically add threat intelligence to a TAXII collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-taxii-automated-flow.md)**  
 Learn how to automatically add threat intelligence to a TAXII server collection.
--   **[Create vulnerability assessment for zero day](../task/tisc-create-vul-assess.md)**  
+-   **[Create vulnerability assessment for zero day](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-vul-assess.md)**  
 Create a vulnerability assessment to evaluate and document security risks from zero day vulnerabilities in your environment. Use this when you want to assess the potential impact of newly discovered vulnerabilities that lack available patches.
--   **[Analyze, assess, and disseminate observables](../task/tisc-disseminate-observables.md)**  
+-   **[Analyze, assess, and disseminate observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-disseminate-observables.md)**  
 Learn how to analyze and disseminate observables which are related to threat.
--   **[Analyze and assess threat IoC’s](../task/tisc-analyze-ioc.md)**  
+-   **[Analyze and assess threat IoC’s](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-analyze-ioc.md)**  
 Learn how to analyze an IOC’s which are a threat and notifying the security incident team.
--   **[Vulnerability Management Support](../task/tisc-vul-mgmt.md)**  
+-   **[Vulnerability Management Support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-vul-mgmt.md)**  
 Learn how a new vulnerability is created in TISC with a related vulnerability in VR.
--   **[Zero-day vulnerability tracking](../task/tisc-zero-vul.md)**  
+-   **[Zero-day vulnerability tracking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-zero-vul.md)**  
 Learn how to analyze RSS Feeds coming into the system.
--   **[Automated flows tables](tisc-flows-tables.md)**  
+-   **[Automated flows tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-flows-tables.md)**  
 The following tables helps you to understand the relationship tables between entities and enrichment tables that are used in automated flows.
 

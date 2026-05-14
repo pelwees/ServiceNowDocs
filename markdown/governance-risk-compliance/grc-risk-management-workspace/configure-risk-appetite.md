@@ -75,5 +75,5 @@ Notification email scheduler to send an automated email notification to the risk
 </table>3.  Select **Save**.
 
 
-**Parent Topic:**[Risk appetite setup](../concept/risk-appetite-setup.md)
+**Parent Topic:**[Risk appetite setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-appetite-setup.md)
 

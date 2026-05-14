@@ -72,16 +72,16 @@ Unmatched Affected Users
 View or add the users who are affected by a security incident but cannot be matched to existing user records in the Users \[sys\_user\] table.
 
 </td></tr></tbody>
-</table>    **Note:** If the [Security Operations Integration - Get Running Processes](../../security-operations-common/concept/get-running-processes-capability.md) integration capability is active, and you add a CI to a security incident, the [Get Running Processes](../../security-operations-integrations/concept/secops-integration-get-running-processes-workflow.md) workflow runs and retrieves a list of running processes on the CI.
+</table>    **Note:** If the [Security Operations Integration - Get Running Processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/concept/get-running-processes-capability.md) integration capability is active, and you add a CI to a security incident, the [Get Running Processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-integrations/concept/secops-integration-get-running-processes-workflow.md) workflow runs and retrieves a list of running processes on the CI.
 
-    If the [Security Operations Integration - Isolate Host](../../security-operations-common/concept/isolate-host-capability.md) integration capability is active, you can select one or more CIs and restrict their system connections to other devices. To do this, select the check boxes for the CIs and select **Isolate Host** from the **Actions on selected rows** choice list.
+    If the [Security Operations Integration - Isolate Host](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/concept/isolate-host-capability.md) integration capability is active, you can select one or more CIs and restrict their system connections to other devices. To do this, select the check boxes for the CIs and select **Isolate Host** from the **Actions on selected rows** choice list.
 
 6.  Selected any of the following related links to further update the security incident:
 
-    -   [Show Related Items](show-related-items-for-si.md)
-    -   [Show IoC](show-ioc-info-for-si.md)
-    -   [Show Enrichment Data](show-enrich-data-for-si.md)
-    -   [Show Response Tasks](show-response-tasks-for-si.md)
+    -   [Show Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-related-items-for-si.md)
+    -   [Show IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-ioc-info-for-si.md)
+    -   [Show Enrichment Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-enrich-data-for-si.md)
+    -   [Show Response Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 7.  When you have completed your entries, select **Save**.
 
 

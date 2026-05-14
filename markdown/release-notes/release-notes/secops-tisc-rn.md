@@ -153,5 +153,5 @@ Install Threat Intelligence Security Center by requesting it from the [ServiceNo
     The Security Support Common plugin is activated when any of the plugins for the main Security Operations applications \(Security Incident Response, Vulnerability Response, Threat Intelligence, or Configuration Compliance\) are activated.
 
 
-**Parent Topic:**[Security Operations release notes](security-operations-rn-landing.md)
+**Parent Topic:**[Security Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/security-operations-rn-landing.md)
 

@@ -111,13 +111,13 @@ The function that the field performs.The format for functions starts with `glide
 
 In this example, a new Function field, CallerDesc, is added to the Incident Metric database view. The field concatenates the caller name, a hyphen, and the short description.
 
-![Function field on the Incident Metric database view](../../../administer/table-administration/image/FunctionFieldDatabaseView.png)
+![Function field on the Incident Metric database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../administer/table-administration/image/FunctionFieldDatabaseView.png)
 
 The variable prefix `inc` is included because the function field is defined on the Incident Metric database view and not on a physical table. The prefix is necessary to distinguish which short\_description and caller\_id columns to use from the tables that are part of the database view.
 
 ## What to do next
 
-[Display function results in a database view](display-function-results-in-a-database-view.md)
+[Display function results in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/display-function-results-in-a-database-view.md)
 
-**Parent Topic:**[Displaying function results in a database view](displaying-function-results-in-a-database-view.md)
+**Parent Topic:**[Displaying function results in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/displaying-function-results-in-a-database-view.md)
 

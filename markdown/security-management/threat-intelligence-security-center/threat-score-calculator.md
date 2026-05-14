@@ -175,8 +175,8 @@ Use this option to add, edit, or remove, and enable and disable criteria that co
 
     For your reference, below is the screenshot that shows you the threat score background job configuration process.
 
-    ![Background job configuration for a threat scoring rule](../image/tisc-threat-score-vr-background-job-schedule.png)
+    ![Background job configuration for a threat scoring rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-threat-score-vr-background-job-schedule.png)
 
 
-**Parent Topic:**[Custom Threat Score Calculator in TISC](../concept/using-custom-threat-score-calculator.md)
+**Parent Topic:**[Custom Threat Score Calculator in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/using-custom-threat-score-calculator.md)
 

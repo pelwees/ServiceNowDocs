@@ -43,7 +43,7 @@ When a case is created for a household or a consumer, the **Contract** field on 
 
 5.  Fill in the remaining fields on the Contract form.
 
-    For more information, see [Create service contracts](create-csm-service-contracts.md).
+    For more information, see [Create service contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-contracts.md).
 
 6.  Select **Submit**.
 

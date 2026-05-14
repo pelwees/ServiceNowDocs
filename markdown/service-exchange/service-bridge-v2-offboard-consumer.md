@@ -67,5 +67,5 @@ The following tables are deleted:
     -   sn\_sb\_pro\_provider\_task
     -   sn\_sb\_pro\_remote\_task
 
-**Parent Topic:**[Register a Service Exchange consumer](service-bridge-v2-onboarding.md)
+**Parent Topic:**[Register a Service Exchange consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-onboarding.md)
 

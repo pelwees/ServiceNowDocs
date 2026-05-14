@@ -17,29 +17,29 @@ Use Supplier Payment Optimization for identifying, prioritizing, and tracking su
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
--   **[Add propensity score for a supplier](../task/add-propensity-score.md)**  
+-   **[Add propensity score for a supplier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/add-propensity-score.md)**  
 The propensity score is used to identify the likelihood of a supplier to accept credit card payments. The supplier managers can manually update the propensity score for suppliers from the Source-to-Pay Workspace.
--   **[Create a case for supplier credit card enablement](../task/create-credit-card-enblmnt-case.md)**  
+-   **[Create a case for supplier credit card enablement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-credit-card-enblmnt-case.md)**  
 Create a supplier case to request for the credit card information from a supplier.
--   **[Supplier credit card enablement playbook](credit-card-enblmnt-playbook.md)**  
+-   **[Supplier credit card enablement playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/credit-card-enblmnt-playbook.md)**  
 Source-to-Pay Workspace includes a playbook to complete the supplier cases for initiating credit card acceptance requests.
--   **[Estimate savings using the saving estimator tool](../task/estimate-savings.md)**  
+-   **[Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/estimate-savings.md)**  
 The saving estimator tool is used to calculate potential savings from credit card payments. The tool uses default values and allows users to modify billing cycles and other parameters to create new estimates.
--   **[View the Payment Optimization dashboard](../task/view-payment-opt-db.md)**  
+-   **[View the Payment Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/view-payment-opt-db.md)**  
 The Payment optimization dashboard provides an overview of the total spend and potential savings for all suppliers.
 
-**Parent Topic:**[Use Supplier Lifecycle Operations](use-supp-mgmt.md)
+**Parent Topic:**[Use Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Using Source-to-Pay Workspace](use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
-[Using Supplier Collaboration Portal](use-supp-central.md)
+[Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-central.md)
 
-[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md)
 
-[View the Payment Optimization dashboard](../task/view-payment-opt-db.md)
+[View the Payment Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/view-payment-opt-db.md)
 
-[Estimate savings using the saving estimator tool](../task/estimate-savings.md)
+[Estimate savings using the saving estimator tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/estimate-savings.md)
 

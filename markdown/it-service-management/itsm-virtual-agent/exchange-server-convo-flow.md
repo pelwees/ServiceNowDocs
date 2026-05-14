@@ -38,7 +38,7 @@ Basic flow:
 3.  User selects the desired meeting or can choose to cancel all meetings during the specified duration.
 4.  Virtual Agent cancels the meetings, sends an email to all attendees, and updates the calendar.
 
-![Manage Meetings EXS topic - Canceling a meeting.](../image/CancelEXS2.png)
+![Manage Meetings EXS topic - Canceling a meeting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/CancelEXS2.png)
 
 ## Manage Meetings EXS: Reschedule a meeting
 
@@ -54,7 +54,7 @@ Basic flow:
 
 Virtual Agent reschedules the meeting, emails the attendees, and updates the calendar.
 
-![Manage Meetings EXS topic - Rescheduling a meeting.](../image/RescheduleEXS2.png)
+![Manage Meetings EXS topic - Rescheduling a meeting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/RescheduleEXS2.png)
 
 ## Manage Meetings EXS: Schedule a meeting
 
@@ -69,7 +69,7 @@ Basic flow:
 5.  User confirms that Virtual Agent should schedule the meeting.
 6.  Once the user confirms, Virtual Agent sends the email invitations and schedules the meeting.
 
-![Manage Meetings EXS topic - Scheduling a meeting.](../image/scheduleEXS3.png)
+![Manage Meetings EXS topic - Scheduling a meeting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/scheduleEXS3.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

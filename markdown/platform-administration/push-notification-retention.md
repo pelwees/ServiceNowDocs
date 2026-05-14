@@ -44,29 +44,29 @@ If you are already using another method for managing push notification records, 
 
 **Note:** For assistance replacing your existing record management implementation with push notification retention, contact your professional services or sales representative.
 
--   **[Activate the Push Retention plugin](../task/activate-push-retention-plugin.md)**  
+-   **[Activate the Push Retention plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/activate-push-retention-plugin.md)**  
 The Push Retention plugin \(com.glide.push\_retention\) provides the retention policy for push notifications, so that you can specify when the system archives and destroys push notification records.
--   **[Archive push notifications manually](../task/archive-push-notification-manually.md)**  
+-   **[Archive push notifications manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/archive-push-notification-manually.md)**  
 You can manually archive push notifications on demand instead of waiting for the instance to archive them based on a scheduled job.
 
-**Parent Topic:**[Push notifications](c_PushNotifications.md)
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
 
-[Push notification system](../reference/r_PushMessageArchitecture.md)
+[Push notification system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_PushMessageArchitecture.md)
 
-[Activate push notifications](../task/t_ActivatePushNotifications.md)
+[Activate push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ActivatePushNotifications.md)
 
-[Enable push notifications for logged-out users](../task/enable-notifications-logged-out-users.md)
+[Enable push notifications for logged-out users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/enable-notifications-logged-out-users.md)
 
-[Installed with push notifications](../reference/r_InstalledWithPushNotifications.md#)
+[Installed with push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_InstalledWithPushNotifications.md#)
 
-[Push notification properties](../reference/r_PushNotificationProperties.md)
+[Push notification properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_PushNotificationProperties.md)
 
-[Push notification setup with the ServiceNow mobile app](../reference/r_PushNotificationSetupSN.md)
+[Push notification setup with the ServiceNow mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_PushNotificationSetupSN.md)
 
-[Push notification setup with a custom push application for ServiceNow mobile apps](../reference/r_PushNotificationSetupCustom.md)
+[Push notification setup with a custom push application for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_PushNotificationSetupCustom.md)
 
-[Requeue failed push notification messages](../task/t_HandlingFailedPushMessages.md)
+[Requeue failed push notification messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_HandlingFailedPushMessages.md)
 

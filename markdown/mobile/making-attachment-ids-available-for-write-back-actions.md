@@ -32,5 +32,5 @@ Role required: admin
 6.  Select **Submit** to save your progress.
 
 
-**Parent Topic:**[Configure a Lens launcher button](configure-lens-launcher-button.md)
+**Parent Topic:**[Configure a Lens launcher button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-lens-launcher-button.md)
 

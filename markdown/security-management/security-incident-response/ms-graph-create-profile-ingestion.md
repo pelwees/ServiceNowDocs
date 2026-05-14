@@ -33,7 +33,7 @@ Role required: sn\_si.admin
 
     The sample alert field values are populated on the left side of the form when sample alerts are ingested by the profile. These are the alerts that you map to the SIR security incident fields. The alert fields and values results are displayed as individual tabs.
 
-    ![Microsoft Graph Security API: ingest alerts](../image/ms-graph-create-profile-2.png)
+    ![Microsoft Graph Security API: ingest alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-2.png)
 
 
 ## What to do next

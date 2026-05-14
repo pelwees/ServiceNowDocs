@@ -27,10 +27,10 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 2.  Select the **Financials** tab.
 
-3.  Select **Generate labor costs** \(![Generate labor costs button.](../../spw-financials/images/financials-gen-labor-costs.png)\).
+3.  Select **Generate labor costs** \(![Generate labor costs button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/financials-gen-labor-costs.png)\).
 
 4.  Select **Generate** on the Generate labor costs confirmation window.
 
-    **Note:** Alternatively, you can [activate a scheduled job](../../spw-financials/task/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
+    **Note:** Alternatively, you can [activate a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/labor-cost-scheduler-job-spw.md) to automatically create baselines at the required cadence.
 
 

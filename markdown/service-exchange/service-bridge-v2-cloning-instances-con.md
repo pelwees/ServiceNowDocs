@@ -49,7 +49,7 @@ After you clone your Service Exchange, the inbound and outbound connections move
 **Related topics**  
 
 
-[Reestablish connection after a clone for a provider](service-bridge-v2-cloning-instances.md)
+[Reestablish connection after a clone for a provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning-instances.md)
 
-[List of preservers and exclusions tables for cloning](../reference/service-bridge-v2-cloning.md)
+[List of preservers and exclusions tables for cloning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../reference/service-bridge-v2-cloning.md)
 

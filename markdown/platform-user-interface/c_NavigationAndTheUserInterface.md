@@ -18,11 +18,11 @@ Click any of the tiles below to learn more about the variety of customizations, 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure UIs and Portals ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build user interfaces and create custom user experiences with this versatile suite of tools.](../../general/concept/configure-uis-and-portals.md)
+[Configure UIs and Portals ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Build user interfaces and create custom user experiences with this versatile suite of tools.](../../general/concept/configure-uis-and-portals.md)
 
 </td><td>
 
-[Provide user assistance ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Give users assistance on the ServiceNow AI Platform with knowledge articles, step-by-step tutorials, and more.](../../../build/adoption-services/concept/adoption-services.md)
+[Provide user assistance ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-documentation.svg) Give users assistance on the ServiceNow AI Platform with knowledge articles, step-by-step tutorials, and more.](../../../build/adoption-services/concept/adoption-services.md)
 
 </td></tr></tbody>
 </table>## Configure UIs and portals
@@ -37,39 +37,39 @@ Inform, educate, and assist your users with a full set of guidance and knowledge
 
 Access workspaces, Core UI, applications, history, and favorites through the single pane Next Experience UI.
 
-For highlights, see the [Next Experience UI landing page](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md).
+For highlights, see the [Next Experience UI landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/concept/next-experience-landing-page.md).
 
 ## Provide just the data that you need
 
-![Image showing a Next Experience landing page.](../image/pol-admin-landing-page.png)
+![Image showing a Next Experience landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-admin-landing-page.png)
 
 Access the data that you need and get to work immediately. Next Experience landing pages are personalized according to user and role.
 
 ## Access your instance in single pane
 
-![Image showing the Next Experience Unified Navigation.](../../../get-started/servicenow-overview/image/pol-global-header.png)
+![Image showing the Next Experience Unified Navigation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-global-header.png)
 
 Navigate to modules in your instance without opening multiple windows. Favorite the modules, explore modules you visited, and search your instance. Receive web and email notifications in one location too.
 
 ## Personalize your user interface
 
-![Screen shot of the Next Experience preferences showing the preference category tiles display, notifications, accessibility, and Workspace.](../../../get-started/servicenow-overview/image/pol-pref-sans-preftext.png "Next Experience preferences")
+![Screen shot of the Next Experience preferences showing the preference category tiles display, notifications, accessibility, and Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-pref-sans-preftext.png "Next Experience preferences")
 
 You can customize the UI to determine the information that you want to see, that's accessible, and in the format that works for you.
 
 ## Improve agent efficiency with Workspace
 
-![Screen shot of Workspace user interface](../../../get-started/servicenow-overview/image/pol-workspace.png "Workspace user interface")
+![Screen shot of Workspace user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-workspace.png "Workspace user interface")
 
 Solve issues faster with a workspace that is built to facilitate resolutions. Agents get full context and AI-assisted recommendations in a single view to resolve issues quickly. Agents can communicate with customers from the same interface while reviewing issues.
 
 ## Applications and features
 
--   [Next Experience UI](../../../get-started/servicenow-overview/concept/next-experience-landing-page.md)
--   [Workspace UI](../../configurable-workspace/concept/workspace-landing-page.md)
--   [Working in Core UI](../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
--   [Content Management System \(CMS\)](../../content-management/concept/c_ContentManagementSystem.md)
--   [Service Portal](../../../build/service-portal/concept/c_ServicePortal.md)
--   [Adoption services](../../../build/adoption-services/concept/adoption-services.md)
--   [Visual Task Boards \(VTB\)](../../../use/visual-task-boards/concept/c_VisualTaskBoards.md)
+-   [Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/concept/next-experience-landing-page.md)
+-   [Workspace UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/concept/workspace-landing-page.md)
+-   [Working in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/concept/working-in-ui16-and-ui15.md)
+-   [Content Management System \(CMS\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../content-management/concept/c_ContentManagementSystem.md)
+-   [Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../build/service-portal/concept/c_ServicePortal.md)
+-   [Adoption services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../build/adoption-services/concept/adoption-services.md)
+-   [Visual Task Boards \(VTB\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/visual-task-boards/concept/c_VisualTaskBoards.md)
 

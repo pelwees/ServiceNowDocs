@@ -97,47 +97,47 @@ This formula ensures:
 
 Since the three confidence scores always sum to 1, this formula generates a consistent value in the range of -1 to 1, representing the full mix of sentiment information from the Azure API.
 
--   **[Configure a sentiment connector](../task/configure-sentiment-connector.md)**  
+-   **[Configure a sentiment connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/configure-sentiment-connector.md)**  
 Specify the service URL and other configuration information for third party APIs that are used for sentiment analysis.
--   **[Sentiment analysis property](../reference/sentiment-analysis-properties.md)**  
+-   **[Sentiment analysis property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/sentiment-analysis-properties.md)**  
 You can use the sentiment analysis property to customize the **Sentiment Analysis** module.
--   **[Sentiment analysis results](../reference/sentiment-analysis-results.md)**  
+-   **[Sentiment analysis results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/sentiment-analysis-results.md)**  
 The sentiment analysis results view contains a bar chart that displays the percentage of positive, negative, and neutral results, along with the instance count for each category.
 
-**Parent Topic:**[Survey administration](../reference/r_SurveyAdminTasks.md)
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
 
-[View survey reports](../task/view-survey-overview.md)
+[View survey reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/view-survey-overview.md)
 
-[Survey designer](c_SurveyDesigner.md)
+[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewSurveyInstance.md)
 
-[Survey users and groups](c_SurveyUsersAndGroups.md)
+[Survey users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
-[Copy a survey](../task/copy-survey.md)
+[Copy a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/copy-survey.md)
 
-[Publish a survey](../task/t_PublishASurvey.md)
+[Publish a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_PublishASurvey.md)
 
-[Customize the appearance of a survey](../task/t_CustomizingAppearance.md)
+[Customize the appearance of a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CustomizingAppearance.md)
 
-[Survey definitions](c_SurveyDefinitions.md)
+[Survey definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md)
 
-[Create a survey designer template question](../task/t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateASurveyDesignerTemplateQ.md)
 
-[Survey questions](c_SurveyQuestion.md)
+[Survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestion.md)
 
-[Survey trigger conditions](c_TriggerConditions.md)
+[Survey trigger conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-[Survey distribution](c_SurveyDistribution.md)
+[Survey distribution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
-[Outlook Actionable Messages](../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
+[Outlook Actionable Messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../outlook-actionable-messages/concept/outlook-actionable-messages.md)
 
-[Surveys in Service Portal and the Now Mobile app](c_SurveyServicePortal.md)
+[Surveys in Service Portal and the Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyServicePortal.md)
 
-[Surveys in ITSM Virtual Agent](survey-virtual-agent.md)
+[Surveys in ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-virtual-agent.md)
 
-[Legacy survey migration](c_MigrateSurveys.md)
+[Legacy survey migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md)
 

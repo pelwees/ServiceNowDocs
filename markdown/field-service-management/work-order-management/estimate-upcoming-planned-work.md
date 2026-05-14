@@ -32,9 +32,9 @@ This provides long-term visibility into upcoming work and supports proactive pla
 
 The timing of work order generation is controlled using Lead Time and Days in Future to Generate Work Orders. For each schedule occurrence, the system checks whether the current date \(the day on which the job runs\) is later than or same as the date calculated by the formula `Requested Due By date – Lead Time – Days in Future`. When this condition is satisfied, the work order is automatically generated. This ensures that work orders are created neither too early nor too late, and become available at the right time for planning and execution.
 
-**Note:** The nightly job can be customized. For more information, see [Run a scheduled job to execute a planned work schedule](run-schedule-job-planned-work.md).
+**Note:** The nightly job can be customized. For more information, see [Run a scheduled job to execute a planned work schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/run-schedule-job-planned-work.md).
 
-You can also create planned work orders through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then click the List icon \(![List icon.](../image/ListIcon.png)\).
+You can also create planned work orders through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then click the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/ListIcon.png)\).
 
 ## Procedure
 

@@ -42,7 +42,7 @@ The Product Configuration console organizes the configuration work into modules 
 
 4.  In the **Appearance** module, set the branding and theming for the experience.
 
-    ![Configure branding and theme](../images/es-admin-console.png "Admin console configuration")
+    ![Configure branding and theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-admin-console.png "Admin console configuration")
 
     Set the portal name, the URL suffix, the light and dark mode logos, the favicon, and the primary, accent, and neutral palette colors. Preview the experience in desktop, mobile, light mode, and dark mode, then save and mark the module as configured.
 
@@ -50,23 +50,23 @@ The Product Configuration console organizes the configuration work into modules 
 
     1.  In the **Internal sources** module, configure the internal search sources for the experience.
 
-        The internal sources list shows the default sources. Edit the conditions on an existing source, add an existing source that isn't yet linked to the search profile, or create a new internal source. Add, exclude, and map the fields per your requirements. For more information, see [Add internal search sources](eslate-add-internal-search.md).
+        The internal sources list shows the default sources. Edit the conditions on an existing source, add an existing source that isn't yet linked to the search profile, or create a new internal source. Add, exclude, and map the fields per your requirements. For more information, see [Add internal search sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-add-internal-search.md).
 
     2.  In the **External sources** module, configure the external search sources for the experience.
 
         By default, the external sources aren't added. You can add an existing source that isn't yet linked to the search profile, or create a new external source by following on-screen instructions.
 
-        For more information, see [Add external search sources](eslate-add-external-search.md).
+        For more information, see [Add external search sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-add-external-search.md).
 
 6.  In the **Conversational Assistant** module, configure the chat header and the chat logo.
 
     You can go with one of the two options:
 
-    ![conversational chat assistant now assist](../images/es-admin-now-assistant-config.png "Conversational assistant: Now Assist")
+    ![conversational chat assistant now assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-admin-now-assistant-config.png "Conversational assistant: Now Assist")
 
     The module also offers a redirection to the Now Assist Assistant Designer admin console to configure advanced assistant behavior or
 
-    ![conversational chat assistant now assist](../images/es-mw-conversational-chat-selection.png "Conversational assistant: Moveworks")
+    ![conversational chat assistant now assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-mw-conversational-chat-selection.png "Conversational assistant: Moveworks")
 
 7.  In the **Canvas Configuration** module, configure the default canvas view and the widget library.
 

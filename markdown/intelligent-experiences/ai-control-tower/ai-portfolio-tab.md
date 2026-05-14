@@ -46,5 +46,5 @@ The AI assets list includes the following columns:
 
 The following image displays the AI portfolio tab as it appears to a workspace user.
 
-![AI portfolio tab in AI Control Tower for workspace users.](../image/aict-ai-portfolio.png "AI portfolio tab in the AI Control Tower home page")
+![AI portfolio tab in AI Control Tower for workspace users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-ai-portfolio.png "AI portfolio tab in the AI Control Tower home page")
 

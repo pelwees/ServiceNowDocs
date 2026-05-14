@@ -114,5 +114,5 @@ View
 View to determine which columns are displayed in the list in the workspace.**Note:** If you select a view, the **Columns** field is inactive.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add lists under the Universal Task list categories](../task/add-universal-task-lists-under-list-categories.md)
+</table>**Parent Topic:**[Add lists under the Universal Task list categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../task/add-universal-task-lists-under-list-categories.md)
 

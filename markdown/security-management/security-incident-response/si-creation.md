@@ -29,7 +29,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Manually created from the Security Incident list](../task/t_ManuallyCreateSecurityIncident.md)
+[Manually created from the Security Incident list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_ManuallyCreateSecurityIncident.md)
 
 </td><td>
 
@@ -37,7 +37,7 @@ On the Security Incident list, select **New** to create a new security incident.
 
 </td></tr><tr><td>
 
-[Manually created from the Security Incident Catalog](../task/manual-si-creation-catalog.md)
+[Manually created from the Security Incident Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/manual-si-creation-catalog.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ On the Incident form in incident management, select **Create Security Incident**
 
 </td></tr><tr><td>
 
-[Manually converted from a security request](../task/t_CreateSecurityIncidentRequest.md)
+[Manually converted from a security request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_CreateSecurityIncidentRequest.md)
 
 </td><td>
 
@@ -61,7 +61,7 @@ On the Security Request form, select **Convert to Security Incident** to create 
 
 </td></tr><tr><td>
 
-[Manually created from an Event Management alert](../task/manually-create-si-from-em-alert.md)
+[Manually created from an Event Management alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/manually-create-si-from-em-alert.md)
 
 </td><td>
 
@@ -90,5 +90,5 @@ Generally, security administrators are responsible for setting up alert rules to
 
 |Method|Description|
 |------|-----------|
-|[Automatically created using alert rules](c_ScIncdUseAlrts.md)|Security incidents can be created based on alert rules defined in the [Event management in your data center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md) application.|
+|[Automatically created using alert rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ScIncdUseAlrts.md)|Security incidents can be created based on alert rules defined in the [Event management in your data center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md) application.|
 

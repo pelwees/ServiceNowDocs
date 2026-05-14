@@ -35,7 +35,7 @@ Role required: pki\_admin or admin
 
 3.  Unlock the **Issued Certificate** field.
 
-4.  Select the Lookup using list icon \(![Lookup using list icon](../../itom-cloud-accelerate/image/lookup-using-list.png)\) and select the certificate you want to revoke.
+4.  Select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../itom-cloud-accelerate/image/lookup-using-list.png)\) and select the certificate you want to revoke.
 
     You can select more than one certificate.
 

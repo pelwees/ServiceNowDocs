@@ -83,5 +83,5 @@ See how employees use the progress of knowledge articles. Navigate to **Usage In
 
 See the analytics about usage, technical, geographic, events, retention, and more. Navigate to **Usage Insights &gt; Analytics** for more information. You can see the reports for various timelines such as daily, weekly, monthly.
 
-**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](integrate-hr-platform-apps.md)
+**Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 

@@ -37,7 +37,7 @@ This task is applicable for product order, services, and resources.
 
 4.  In the **Product Orders** tab, open the product order record.
 
-    ![product order.](../image/diagnose-product-order.png)
+    ![product order.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/diagnose-product-order.png)
 
 5.  Review and verify the domain order.
 

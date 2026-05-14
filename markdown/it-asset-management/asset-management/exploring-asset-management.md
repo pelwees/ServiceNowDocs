@@ -29,11 +29,11 @@ The Asset Workspace is a unified medium with multiple views that help you manage
 
 The Asset Workspace contains the following views:
 
--   [Hardware asset overview](hardware-asset-overview-am.md)
--   [Inventory view](inventory-view-am.md)
--   [Asset estate view](asset-estate-view-am.md)
--   [Model management view](model-management-view-am.md)
--   [Contract management view](contract-mgmt-view-am.md)
+-   [Hardware asset overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/hardware-asset-overview-am.md)
+-   [Inventory view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/inventory-view-am.md)
+-   [Asset estate view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/asset-estate-view-am.md)
+-   [Model management view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/model-management-view-am.md)
+-   [Contract management view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/contract-mgmt-view-am.md)
 
 If you’re upgrading to the Vancouver release, you must activate the Asset Management Workspace \(sn\_itam\_workspace\) plugin to use the Asset Workspace.
 

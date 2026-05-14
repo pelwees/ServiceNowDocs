@@ -105,7 +105,7 @@ Workflow state of the issue. This field is automatically set to **Review**. The 
 -   **Closed Complete**
 -   **Closed Incomplete**
 
- For more information on Issue management workflow and life cycle, see [View AI assets by life-cycle stage](view-ai-assets-lifecycle-stage.md).
+ For more information on Issue management workflow and life cycle, see [View AI assets by life-cycle stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/view-ai-assets-lifecycle-stage.md).
 
 </td></tr><tr><td>
 

@@ -17,7 +17,7 @@ The Certificate tab is for generating or uploading the Discovery Console for OT 
 
 In the Certificate tab of the Settings page, generating the certificate enables the initial start up of the Console.
 
-![Console Certificate](../images/console-certificate.png)
+![Console Certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/console-certificate.png)
 
 .
 

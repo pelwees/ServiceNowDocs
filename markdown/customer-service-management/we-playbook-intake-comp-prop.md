@@ -177,11 +177,11 @@ Option to hide the error messages from end user when the component fails to load
 </table>**Related topics**  
 
 
-[Configure the Playbook intake component instance](../task/config-playbook-intake-comp.md)
+[Configure the Playbook intake component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-playbook-intake-comp.md)
 
-[Embed the Playbook intake component instance on the third-party website](../task/embed-playbook-intake-comp.md)
+[Embed the Playbook intake component instance on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/embed-playbook-intake-comp.md)
 
-[Event handler in the Playbook intake component](we-playbook-intake-event-handler.md)
+[Event handler in the Playbook intake component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-event-handler.md)
 
-[Sample code for the Playbook intake component](we-playbook-intake-sample-code.md)
+[Sample code for the Playbook intake component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-playbook-intake-sample-code.md)
 

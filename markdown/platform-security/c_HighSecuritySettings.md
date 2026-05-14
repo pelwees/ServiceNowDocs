@@ -14,15 +14,15 @@ High Security Settings refer to several security options available in your insta
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore High Security setting![Explore](../../../common/image/icon-explore.png)](exploring-high-security-settings.md)
+[Explore High Security setting![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-explore.png)](exploring-high-security-settings.md)
 
- [Learn the features and business values of High Security Settings.](exploring-high-security-settings.md)
+ [Learn the features and business values of High Security Settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/exploring-high-security-settings.md)
 
 </td><td>
 
-[Activate High Security Settings![Activate High Security Settings](../../../common/image/icon-workspace.png)](../task/t_ActivateHighSecuritySettings.md)
+[Activate High Security Settings![Activate High Security Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../common/image/icon-workspace.png)](../task/t_ActivateHighSecuritySettings.md)
 
- [Activate the High Security Settings.](../task/t_ActivateHighSecuritySettings.md)
+ [Activate the High Security Settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ActivateHighSecuritySettings.md)
 
 </td></tr></tbody>
 </table>

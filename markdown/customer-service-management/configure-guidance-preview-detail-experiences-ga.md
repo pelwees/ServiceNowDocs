@@ -40,8 +40,8 @@ The detail information appears in playbooks, or in a contextual side panel or in
 
 ## What to do next
 
--   [Customize a guidance preview experience in the UI Builder](customize-ra-preview-experience.md)
--   [Customize a guidance detail experience in the UI Builder](customize-ra-detail-experience.md)
+-   [Customize a guidance preview experience in the UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-preview-experience.md)
+-   [Customize a guidance detail experience in the UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-detail-experience.md)
 
 The process for configuring a guidance is the same in the Guided Decisions Experience application and the Recommended Actions for Service application.
 

@@ -29,11 +29,11 @@ Once you activate the profile, based on the configured trigger conditions you ca
 
 3.  Provide the filter conditions as given in the capability profile to trigger the respective profile.
 
-    ![Security Incident Analysis state](../image/fireeye-security-incidents.png)
+    ![Security Incident Analysis state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-security-incidents.png)
 
 4.  Click **Save**.
 
-    ![Security Incident work notes](../image/fireeye-security-incidents-worknotes.png)
+    ![Security Incident work notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-security-incidents-worknotes.png)
 
 5.  Review the work notes and activities section.
 
@@ -45,6 +45,6 @@ Once you activate the profile, based on the configured trigger conditions you ca
 
     For example, Host Details.
 
-    ![Host Details tab selected](../image/fireeye-related-lists.png)
+    ![Host Details tab selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-related-lists.png)
 
 

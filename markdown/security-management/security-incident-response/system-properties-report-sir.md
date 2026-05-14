@@ -26,5 +26,5 @@ The system properties for Security Incident Response reports are explained below
 |sn\_si.sn\_si\_incident.defang\_record\_list\_urls|Control whether the URLs from list are defanged or not.|False|
 |sn\_si.sn\_si\_incident.reporting\_dot\_walk\_tables|List of tables available for dot-walking in reports.|\(JSON object\)|
 
-**Parent Topic:**[Configure report templates in Security Incident Response](daily-status-sir.md)
+**Parent Topic:**[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 

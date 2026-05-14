@@ -34,7 +34,7 @@ The following items are installed with Field Service Territory Planning:
 -   Properties
 -   Query rules
 
-For more information, see [Field Service Territory Planning components](../reference/territory-planning-components-fsm.md#).
+For more information, see [Field Service Territory Planning components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../reference/territory-planning-components-fsm.md#).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Field Service Territory Planning components](../refer
 
 The Field Service Territory Planning plugin when activated successfully adds the default territory model, Field\_Service\_Territories to the Field Service configurations, inside the Add-ons tab.
 
-**Note:** You must activate the **Field\_Service\_Territories** model after setting up your territories to schedule work order tasks based on territories. For more information, see [Enable the Field Service territory model](enable-territory-model.md).
+**Note:** You must activate the **Field\_Service\_Territories** model after setting up your territories to schedule work order tasks based on territories. For more information, see [Enable the Field Service territory model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/enable-territory-model.md).
 

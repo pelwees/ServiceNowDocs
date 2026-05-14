@@ -30,15 +30,15 @@ You can create a work order from the following integrated record types:
 
 -   **Incident**
 
-    Use Field Service in Incident Management to create work orders from incidents. For more information, see [Integration with Incident Management](incident-for-fsm.md).
+    Use Field Service in Incident Management to create work orders from incidents. For more information, see [Integration with Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/incident-for-fsm.md).
 
 -   **Change**
 
-    Use Field Service in Change Management to create work orders from change requests while on a live call or chat with the customer. For more information, see [Integration with Change Management](change-for-fsm.md).
+    Use Field Service in Change Management to create work orders from change requests while on a live call or chat with the customer. For more information, see [Integration with Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/change-for-fsm.md).
 
 -   **Project task**
 
-    Use Field Service in Project Portfolio Management to create work orders from project tasks. For more information, see [Integration with Project Portfolio Management](project-management-integration.md).
+    Use Field Service in Project Portfolio Management to create work orders from project tasks. For more information, see [Integration with Project Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/project-management-integration.md).
 
 -   **Service requests**
 
@@ -48,7 +48,7 @@ You can create a work order from the following integrated record types:
 **Related topics**  
 
 
-[Configuring work order templates](../../it-services/concept/c_WorkOrderTemplates.md)
+[Configuring work order templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../it-services/concept/c_WorkOrderTemplates.md)
 
-[Prepare work orders](preparing-work-orders.md)
+[Prepare work orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/preparing-work-orders.md)
 

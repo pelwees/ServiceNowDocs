@@ -23,12 +23,12 @@ Role required: sn\_pace.execution\_reader
 
 1.  In the **Policy builder** tab, click the policy version you want to review/evaluate.
 
-2.  Select the Test playground icon ![Test playground icon.](../image/pace-test-playground-icon.jpg).
+2.  Select the Test playground icon ![Test playground icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-test-playground-icon.jpg).
 
 3.  Click the **Logs** tab to view the execution logs generated.
 
-    ![Logs tab.](../image/pace-logs-tab-2.jpg)
+    ![Logs tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-logs-tab-2.jpg)
 
-    The displayed logs include all execution data generated during the evaluation. To filter logs, select the filter icon ![Filter icon.](../image/pace-filter-icon.jpg) .
+    The displayed logs include all execution data generated during the evaluation. To filter logs, select the filter icon ![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-filter-icon.jpg) .
 
 

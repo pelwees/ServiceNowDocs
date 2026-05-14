@@ -84,5 +84,5 @@ Deleting a record does not change records that reference the record.
 **Related topics**  
 
 
-[Modify dictionary entries](../../data-dictionary-tables/task/t_ModifyADictionaryEntryFromAForm.md)
+[Modify dictionary entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../data-dictionary-tables/task/t_ModifyADictionaryEntryFromAForm.md)
 

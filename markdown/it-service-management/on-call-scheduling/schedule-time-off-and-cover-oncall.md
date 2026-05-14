@@ -29,7 +29,7 @@ Role required: itil
 
 3.  Click **Schedule Time Off** and fill in the form.
 
-    ![Schedule time off form](../image/OC_SchedTimeOff.png)
+    ![Schedule time off form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/OC_SchedTimeOff.png)
 
     |Field|Description|
     |-----|-----------|
@@ -44,5 +44,5 @@ Role required: itil
     The time off is tentatively scheduled in your On-Call calendar.
 
 
-**Parent Topic:**[Viewing schedules and request time-off](../../user-administration/concept/viewing-schedules-and-escalation.md)
+**Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../../user-administration/concept/viewing-schedules-and-escalation.md)
 

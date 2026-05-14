@@ -33,7 +33,7 @@ Role required: admin
 
 4.  Click the name of the profile you created and then fill in the form fields.
 
-    ![OAuth entity profile](../image/OAuthEntityProfile.png)
+    ![OAuth entity profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OAuthEntityProfile.png)
 
 <table id="table_khq_dxq_rs"><thead><tr><th>
 
@@ -91,11 +91,11 @@ OAuth Entity Profile Scopes
 
 </td><td>
 
-[Specify the OAuth entity scope](t_SpecifyAnOAuthScope.md).
+[Specify the OAuth entity scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_SpecifyAnOAuthScope.md).
 
 </td></tr></tbody>
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[OAuth profiles and scopes](../concept/c_OAuthProviderAndScope.md)
+**Parent Topic:**[OAuth profiles and scopes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OAuthProviderAndScope.md)
 

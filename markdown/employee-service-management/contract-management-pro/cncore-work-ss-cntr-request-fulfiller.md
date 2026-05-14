@@ -57,7 +57,7 @@ The **Perpetual** check box is available in contract requests that are initiated
 
 </td><td>
 
-Create a version of the contract document. Using this option discards the changes made in the previous version of the document. For more information, see [Regenerate contract document after modifying request](cncore-regen-contract-doc.md).
+Create a version of the contract document. Using this option discards the changes made in the previous version of the document. For more information, see [Regenerate contract document after modifying request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-regen-contract-doc.md).
 
 </td></tr><tr><td id="d695545e152">
 
@@ -67,7 +67,7 @@ Create a version of the contract document. Using this option discards the change
 
 </td><td>
 
-Create a version of the contract document while retaining the changes made in the previous version. For more information, see [Create an updated contract document revision after modifying a self-served contract request \(starting Contract Management Pro 1.2.1\)](cncore-sync-document.md).
+Create a version of the contract document while retaining the changes made in the previous version. For more information, see [Create an updated contract document revision after modifying a self-served contract request \(starting Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-document.md).
 
 </td></tr><tr><td id="d695545e173">
 
@@ -75,7 +75,7 @@ Create a version of the contract document while retaining the changes made in th
 
 </td><td>
 
-Create a document revision. For more information, see [Create a document revision](cncore-create-doc-rev.md).
+Create a document revision. For more information, see [Create a document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md).
 
 </td></tr><tr><td id="d695545e190">
 
@@ -83,7 +83,7 @@ Create a document revision. For more information, see [Create a document revisio
 
 </td><td>
 
-Add signatories. For more information, see [Add signatories in self-served contract request](cncore-update-sign-ss-cmr.md).
+Add signatories. For more information, see [Add signatories in self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sign-ss-cmr.md).
 
 </td></tr><tr><td id="d695545e208">
 
@@ -93,7 +93,7 @@ Add signatories. For more information, see [Add signatories in self-served contr
 
 </td><td>
 
-Update the contract document with the latest signatory details. For more information, see [Updating and synchronizing signatories](cncore-update-sync-signatories.md).
+Update the contract document with the latest signatory details. For more information, see [Updating and synchronizing signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md).
 
 </td></tr><tr><td id="d695545e229">
 
@@ -101,7 +101,7 @@ Update the contract document with the latest signatory details. For more informa
 
 </td><td>
 
-Initiate ad hoc approvals. For more information, see [Initiate an ad hoc approval for a contract document revision](cmpro-initiate-approval-contract-request.md).
+Initiate ad hoc approvals. For more information, see [Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-initiate-approval-contract-request.md).
 
 </td></tr><tr><td id="d695545e245">
 
@@ -109,7 +109,7 @@ Initiate ad hoc approvals. For more information, see [Initiate an ad hoc approva
 
 </td><td>
 
-Communicate with stakeholders via email. For more information, see [Send email to stakeholders](cncore-send-email.md)
+Communicate with stakeholders via email. For more information, see [Send email to stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-email.md)
 
 </td></tr><tr><td id="d695545e260">
 
@@ -117,7 +117,7 @@ Communicate with stakeholders via email. For more information, see [Send email t
 
 </td><td>
 
-Use Now Assist to analyze the contract documents to identify the non-standard and missing clauses. For more information, see [Contract analysis using Now Assist in Contract Management](../concept/cncore-NA-review-land.md).
+Use Now Assist to analyze the contract documents to identify the non-standard and missing clauses. For more information, see [Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-NA-review-land.md).
 
 </td></tr><tr><td id="d695545e289">
 
@@ -125,7 +125,7 @@ Use Now Assist to analyze the contract documents to identify the non-standard an
 
 </td><td>
 
-Send the document for a signature. For more information, see [Signature workflow for a contract request](../concept/cncore-signature-workflow.md).
+Send the document for a signature. For more information, see [Signature workflow for a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-signature-workflow.md).
 
 </td></tr><tr><td id="d695545e307">
 
@@ -139,5 +139,5 @@ Cancel a request:-   On the contract request page, from the Actions menu, select
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-request-ss-contract-1.md)
 

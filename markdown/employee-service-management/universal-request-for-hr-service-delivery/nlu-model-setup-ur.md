@@ -32,5 +32,5 @@ To use the Universal Request topic for your chatbot conversations, select and en
 4.  Select **Save**.
 
 
-**Parent Topic:**[Set up Virtual Agent for Universal Request](ur-virtual-agent-setup.md)
+**Parent Topic:**[Set up Virtual Agent for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-virtual-agent-setup.md)
 

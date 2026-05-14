@@ -28,13 +28,13 @@ The interaction must be in a closed complete state before it can be linked to an
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
 4.  Open an email interaction.
 
-5.  From the top section, select the More Actions icon \(![More Actions icon](../image/Ellipses-icon.jpg)\).
+5.  From the top section, select the More Actions icon \(![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Ellipses-icon.jpg)\).
 
 6.  Select **Associate Record**.
 
@@ -42,7 +42,7 @@ The interaction must be in a closed complete state before it can be linked to an
 
 7.  Select the case number from the Task drop-down list.
 
-    You can select the search icon \(![Search icon](../image/Sort_icon_eaaI.jpg)\) to view additional information about the task.
+    You can select the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Sort_icon_eaaI.jpg)\) to view additional information about the task.
 
 8.  Select **Save**.
 

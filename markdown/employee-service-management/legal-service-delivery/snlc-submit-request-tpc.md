@@ -58,7 +58,7 @@ Action
 </td></tr></tbody>
 </table>2.  On the form, fill in the fields.
 
-    For a description of the field values, see [Third-party Contract Review form](../reference/snlc-tpc-intake-fields.md)
+    For a description of the field values, see [Third-party Contract Review form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/snlc-tpc-intake-fields.md)
 
 3.  Add single or multiple contract and supporting documents to be reviewed by the legal department.
 
@@ -135,18 +135,18 @@ In the **Document type** list, select **Supporting Documents**.
 
 -   A legal request for reviewing the attached third-party contracts and any supporting documents is created in the New state.
 -   The contract documents and supporting documents are available in the respective tabs, and the contract status is New.
--   For a custom record producer, if no documents are attached, the legal request is created in the Draft state. You must upload the documents and resubmit the contract request. For more information, see [Resubmit third-party contract request](snlc-multiple-doc-tpc.md).
+-   For a custom record producer, if no documents are attached, the legal request is created in the Draft state. You must upload the documents and resubmit the contract request. For more information, see [Resubmit third-party contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-multiple-doc-tpc.md).
 
-For more information on how to view and track the legal request, see [View and track third-party contract review request as a legal user](snlc-tpc-view-request.md).
+For more information on how to view and track the legal request, see [View and track third-party contract review request as a legal user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-view-request.md).
 
 ## What to do next
 
-As a member of the legal department contract support team, work on the request to review the contract and get it signed. For more information, see [Work on a third-party contract review request](snlc-work-tpc-review-request.md)
+As a member of the legal department contract support team, work on the request to review the contract and get it signed. For more information, see [Work on a third-party contract review request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 
 .
 
--   **[Resubmit third-party contract request](snlc-multiple-doc-tpc.md)**  
+-   **[Resubmit third-party contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-multiple-doc-tpc.md)**  
 As a legal user, resubmit contract request in draft state.
 
-**Parent Topic:**[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+**Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-third-party-contract-1.md)
 

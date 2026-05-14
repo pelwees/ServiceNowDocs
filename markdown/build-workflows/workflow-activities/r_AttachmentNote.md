@@ -72,5 +72,5 @@ Attachment Data
 The content of the .txt file attachment. It can be in plain text or use variables to extract specific data from a table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Task workflow activities](r_TaskActivities.md)
+</table>**Parent Topic:**[Task workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/r_TaskActivities.md)
 

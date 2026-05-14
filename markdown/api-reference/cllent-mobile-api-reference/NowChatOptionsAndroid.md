@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowChatConfiguration class enables you to configure options on a chat session, such as showing a prompt before closing a chat window, disabling features while using chat, applying different conversation options when using chat, and configuring UI components in NowChat.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 
 ## NowChatConfiguration - NowChatConfiguration\(closePrompt: ClosePrompt? = null, disabledFeatures: List&lt;Feature&gt;? = null, conversationOptions: List&lt;ConversationOption&gt;? = null, uiConfiguration: UIConfiguration? = null\)
 
@@ -39,11 +39,11 @@ closePrompt
 
 </td><td>
 
-[ClosePrompt](NowChatOptionsAndroid.md#) object
+[ClosePrompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#) object
 
 </td><td>
 
-Prompt to display before closing the associated chat window.Call the [NowChatConfiguration.ClosePrompt\(\)](NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
+Prompt to display before closing the associated chat window.Call the [NowChatConfiguration.ClosePrompt\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
 
 For example:
 
@@ -113,7 +113,7 @@ uiConfiguration
 
 </td><td>
 
-[UIConfiguration?](NowChatOptionsAndroid.md#)
+[UIConfiguration?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#)
 
 </td><td>
 
@@ -138,7 +138,7 @@ To use the default configuration, pass null.
 </td></tr></tbody>
 </table>|Type|Description|
 |----|-----------|
-|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatService - start\(activity: Activity, themeColors: NowChatTheme = object: NowChatTheme\{\}, contextData: Map&lt;String, Any&gt; = mapOf\(\), chatConfiguration: NowChatConfiguration? = null\)](../../NowChatService/concept/NowChatServiceAndroidAPI.md#) method.|
+|NowChatConfiguration|Returns a NowChatConfiguration object that you can pass when calling the [NowChatService - start\(activity: Activity, themeColors: NowChatTheme = object: NowChatTheme\{\}, contextData: Map&lt;String, Any&gt; = mapOf\(\), chatConfiguration: NowChatConfiguration? = null\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowChatService/concept/NowChatServiceAndroidAPI.md#) method.|
 
 The following code example shows how to call this method.
 
@@ -403,11 +403,11 @@ closeButton
 
 </td><td>
 
-[CloseButton?](NowChatOptionsAndroid.md#)
+[CloseButton?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#)
 
 </td><td>
 
-Configuration for the `CloseButton` that appears on the NowChat toolbar and is used for back navigation.Call the [NowChatConfiguration - CloseButton\(icon: Drawable?\)](NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
+Configuration for the `CloseButton` that appears on the NowChat toolbar and is used for back navigation.Call the [NowChatConfiguration - CloseButton\(icon: Drawable?\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
 
 For example:
 
@@ -426,11 +426,11 @@ attachmentUploadButton
 
 </td><td>
 
-[AttachmentUploadButton?](NowChatOptionsAndroid.md#)
+[AttachmentUploadButton?](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#)
 
 </td><td>
 
-Configuration for the `AttachmentUploadButton` that is shown next to the text input while talking with a live agent.Call the [NowChatConfiguration - AttachmentUploadButton\(isVisible: Boolean = true\)](NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
+Configuration for the `AttachmentUploadButton` that is shown next to the text input while talking with a live agent.Call the [NowChatConfiguration - AttachmentUploadButton\(isVisible: Boolean = true\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatOptionsAndroid.md#) subclass to define the value of this parameter.
 
 For example:
 

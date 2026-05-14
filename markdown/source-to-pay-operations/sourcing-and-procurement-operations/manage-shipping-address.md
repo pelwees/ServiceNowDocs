@@ -36,14 +36,14 @@ Role required: admin
     Once you select valid countries, employees can view and select the list of delivery locations associated with the valid countries in **ShoppingHub**.
 
 
-**Parent Topic:**[Add office locations](create-office-locations.md)
+**Parent Topic:**[Add office locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-office-locations.md)
 
 **Related topics**  
 
 
-[Valid countries for delivery](../concept/valid-countries.md)
+[Valid countries for delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/valid-countries.md)
 
-[Delivery location options](../reference/delivery-location-details.md)
+[Delivery location options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/delivery-location-details.md)
 
-[Select a delivery location](select-delivery-location.md)
+[Select a delivery location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-delivery-location.md)
 

@@ -23,7 +23,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 ## Procedure
 
-1.  Click the List icon \(![List icon.](../image/ListIcon.png)\)
+1.  Click the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/../image/ListIcon.png)\)
 
 2.  Navigate to **Work Orders** &gt; **Created by me**.
 

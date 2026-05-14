@@ -29,7 +29,7 @@ Each HR Center of Excellence is an extension of the HR Case \[sn\_hr\_core\_case
 
 **Note:** The benefits, compensation, corporate communications, and global mobility COEs are inactive by default.
 
-![HR COE data model showing the hierarchical structure of Centers of Excellence](../image/hr-coe-data-model.png)
+![HR COE data model showing the hierarchical structure of Centers of Excellence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-coe-data-model.png)
 
 ## Data model hierarchy
 
@@ -41,13 +41,13 @@ Each COE is organized by HR topic category and detail, which defines the first- 
 
 This structure enables you to categorize HR services by functional area, and you can configure the categorization structure and the individual HR services to meet your organization's needs.
 
-![HR COE data model components showing the relationship between COEs, topic categories, topic details, and services](../image/hr-coe-data-model-components.png)
+![HR COE data model components showing the relationship between COEs, topic categories, topic details, and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-coe-data-model-components.png)
 
 ## HR service categorization setup
 
 Before configuring individual HR services, review and set up the categorization structure for them. This foundational step ensures that your services are properly organized within the COE framework.
 
-**Note:** For a list of base system COEs and how to enable or disable them, see [Enable or disable an HR Center of Excellence \(COE\)](../task/configure-hr-center-of-excellence-coe.md).
+**Note:** For a list of base system COEs and how to enable or disable them, see [Enable or disable an HR Center of Excellence \(COE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-hr-center-of-excellence-coe.md).
 
 ## Roles
 
@@ -56,8 +56,8 @@ The following roles can create and configure COEs:
 -   System administrator \(admin\).
 -   Lifecycle event administrator \(sn\_hr\_le.admin\) with the Delegated Developer \(delegated\_developer\) role.
 
--   **[HR service categorization](hr-service-categorization.md)**  
+-   **[HR service categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)**  
 HR services are categorized under one of the HR Centers of Excellence \(COEs\), which are part of a data model that organizes HR data, services, and processes by functional discipline.
 
-**Parent Topic:**[HR services](hr-service-administration.md)
+**Parent Topic:**[HR services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md)
 

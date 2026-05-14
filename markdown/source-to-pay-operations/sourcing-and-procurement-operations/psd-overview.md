@@ -48,55 +48,55 @@ You can configure the following roles and tasks:
 -   sn\_spend\_psd.procurement\_task\_owner: Access and complete task assignments to fulfill the requests.
 -   sn\_spend\_psd.requestor: Create procurement cases.
 
--   **[Procurement case types](procurement-case-types.md)**  
+-   **[Procurement case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-case-types.md)**  
 Procurement case types classify and route procurement work items to the appropriate team, and can block order or sourcing processing until the required review or action is complete.
--   **[Work prioritization](../reference/work-prioritization.md)**  
+-   **[Work prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/work-prioritization.md)**  
 Work prioritization automatically assigns a priority level to purchase requisitions, sourcing requests, and procurement cases so that procurement specialists can work the most urgent items first.
--   **[Supplier qualification](../reference/supplier-qualification.md)**  
+-   **[Supplier qualification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/supplier-qualification.md)**  
 As a procurement specialist or Procurement Case Management \(PCM\) agent, you would want to engage with suppliers who are qualified to fulfill your organization's purchasing needs.
--   **[Process Automation Designer flows for playbook](process-automation-designer-flows-psm.md)**  
+-   **[Process Automation Designer flows for playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md)**  
 The Source-to-Pay Workspace helps you automate the entire process, right from tracking the requests, fulfillment, and to order revision flows.
--   **[Email notifications from Playbook](../reference/email-notifications-workspace.md)**  
+-   **[Email notifications from Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/email-notifications-workspace.md)**  
 Several email notifications are triggered from Playbook. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including purchase revisions.
--   **[Email composer with quick messages and response templates in Source-to-Pay Workspace](email-composer-with-quick-messages-and-response-templates-psm.md)**  
+-   **[Email composer with quick messages and response templates in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-composer-with-quick-messages-and-response-templates-psm.md)**  
 Insert predefined content into the message body of emails that you send from the email client in Source-to-Pay Workspace.
--   **[Agent assist in Source-to-Pay Workspace](agent-assist-procurement-workspace.md)**  
+-   **[Agent assist in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agent-assist-procurement-workspace.md)**  
 Agent assist in Source-to-Pay Workspace automatically displays relevant search results based on the search text, which is defaulted with the short description of the procurement case you’re working on. You can edit the search text as required. These search results help you to work on the record.
--   **[Interaction Management in Source-to-Pay Workspace](interaction-management-in-procurement-operations-workspace.md)**  
+-   **[Interaction Management in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/interaction-management-in-procurement-operations-workspace.md)**  
 Interactions are a centralized location for all communication channels available in Source-to-Pay Workspace. Interaction Management involves managing procurement related queries from different sources such as an email, chat, message, or SMS.
--   **[Procurement Case Management Dashboard](procurement-service-delivery-dashboard.md)**  
+-   **[Procurement Case Management Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-service-delivery-dashboard.md)**  
 The Procurement Case Management Dashboard helps you to track, analyze, and manage your procurement services.
 
-**Parent Topic:**[Explore Sourcing and Procurement Operations](exploring-spo.md)
+**Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
 **Related topics**  
 
 
-[Shopping Hub](shopping-hub-overview.md)
+[Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-[My purchases on Shopping Hub](my-purchases.md)
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-purchases.md)
 
-[Shopping Hub Mobile](shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-mobile.md)
 
-[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
+[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 
-[Source-to-Pay Workspace](procurement-specialist-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-specialist-workspace.md)
 
-[Spend and Savings Management](spo-spend-mgmt.md)
+[Spend and Savings Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
+[Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-[Understanding Punchout](punchout-overview.md)
+[Understanding Punchout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-[AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
+[AI Search for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ai-search-sourcing-procurement-operations.md)
 
-[Procurement Case Management Dashboard](procurement-service-delivery-dashboard.md)
+[Procurement Case Management Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-service-delivery-dashboard.md)
 
-[Using Procurement Case Management](using-pcm.md)
+[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/application-plugin-list.md)
 

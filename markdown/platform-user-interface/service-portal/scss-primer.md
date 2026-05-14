@@ -15,7 +15,7 @@ breadcrumb: [Service Portal reference, Service Portal, Configure UIs and portals
 
 SCSS is a subset of the Syntactically Awesome StyleSheets \(Sass\) specification and is an extension of CSS. Every valid CSS style sheet is valid SCSS.
 
-**Parent Topic:**[Service Portal reference](reference-service-portal.md)
+**Parent Topic:**[Service Portal reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reference-service-portal.md)
 
 ## SCSS variables
 

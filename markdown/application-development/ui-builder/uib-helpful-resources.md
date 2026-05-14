@@ -27,7 +27,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     [Next Experience Academy UI Builder](https://www.youtube.com/watch?v=LoPLYSLVquM)
 
--   **![Components documentation](../../../reuse/icons/brand-icons/bus-start-developing.svg)Component Documentation**
+-   **![Components documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../../../reuse/icons/brand-icons/bus-start-developing.svg)Component Documentation**
 
     [Components documentation](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades)
 
@@ -39,7 +39,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     [You and I Builder Bytes!](https://www.servicenow.com/community/next-experience-articles/you-and-i-builder-bytes-article-hub/ta-p/3241157)
 
--   **![ServiceNow Developer site](../../../reuse/icons/brand-icons/bus-application-developer.svg) Development information**
+-   **![ServiceNow Developer site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../../../reuse/icons/brand-icons/bus-application-developer.svg) Development information**
 
     [ServiceNow Developer site](https://developer.servicenow.com/)
 
@@ -54,5 +54,5 @@ Some ServiceNow resources that can provide you with helpful information are:
     [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 
 
-**Parent Topic:**[Exploring UI Builder](create-custom-experience.md)
+**Parent Topic:**[Exploring UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-custom-experience.md)
 

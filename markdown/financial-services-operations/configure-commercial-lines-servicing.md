@@ -15,7 +15,7 @@ Review the components that are installed with the Commercial Lines Servicing app
 
 ## Before you begin
 
-Make sure that the Commercial Lines Servicing application is installed. For more information, see [Install Personal Lines Servicing](install-ins-policy-ops.md).
+Make sure that the Commercial Lines Servicing application is installed. For more information, see [Install Personal Lines Servicing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/install-ins-policy-ops.md).
 
 Role required: sn\_ins\_policy\_b2b.admin or admin
 
@@ -23,7 +23,7 @@ Role required: sn\_ins\_policy\_b2b.admin or admin
 
 1.  Import your financial accounts, financial products, financial institutions, and transactions data into ServiceNow tables.
 
-    For more information, see [Import your financial data using import sets](../../fso-common/task/import-financial-accounts-products-institutions.md).
+    For more information, see [Import your financial data using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/import-financial-accounts-products-institutions.md).
 
 2.  Review the installed components and modify them or add new ones as applicable.
 
@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-[Configure service definitions](../../fso-common/task/configure-service-definitions.md) to enable unique flows and views for policy service case and task. You should configure service definitions for:-   Commercial Lines Servicing
+[Configure service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-service-definitions.md) to enable unique flows and views for policy service case and task. You should configure service definitions for:-   Commercial Lines Servicing
 -   Commercial Lines Underwriting
 
 
@@ -51,7 +51,7 @@ Description
 
 </td><td>
 
-[Create or modify record producers](../../fso-common/task/create-modify-record-producers-fso-apps.md) to define request forms.
+[Create or modify record producers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/create-modify-record-producers-fso-apps.md) to define request forms.
 
 </td></tr><tr><td id="d35666e188">
 
@@ -59,7 +59,7 @@ Description
 
 </td><td>
 
-[Create flows](../../fso-common/task/configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
+[Create flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
 
 </td></tr><tr><td id="d35666e210">
 
@@ -67,7 +67,7 @@ Description
 
 </td><td>
 
-[Edit or create a new playbook](../../fso-common/task/configure-playbooks-fso-apps.md) using Playbooks.
+[Edit or create a new playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-playbooks-fso-apps.md) using Playbooks.
 
 </td></tr><tr><td id="d35666e232">
 
@@ -75,7 +75,7 @@ Description
 
 </td><td>
 
-[Configure CSM Configurable Workspace](../../fso-common/task/configure-csm-workspace-fso-apps.md) to enable requesters, contributors, and processors to interact with customers, and create and work on cases.
+[Configure CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-csm-workspace-fso-apps.md) to enable requesters, contributors, and processors to interact with customers, and create and work on cases.
 
 </td></tr><tr><td id="d35666e259">
 
@@ -83,7 +83,7 @@ Description
 
 </td><td>
 
-[Modify interceptors and workspace record type selectors](../../fso-common/concept/configure-request-types-fso.md) to configure policy request types.
+[Modify interceptors and workspace record type selectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/configure-request-types-fso.md) to configure policy request types.
 
 </td></tr><tr><td id="d35666e278">
 
@@ -91,7 +91,7 @@ Description
 
 </td><td>
 
-[Configure user groups](../../fso-common/task/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.
+[Configure user groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.
 
 </td></tr><tr><td id="d35666e297">
 
@@ -99,7 +99,7 @@ Description
 
 </td><td>
 
-[Configure assignment rules](../../fso-common/task/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
+[Configure assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
 
 </td></tr><tr><td id="d35666e314">
 
@@ -107,7 +107,7 @@ Description
 
 </td><td>
 
-[Configure the installed SLAs](../../fso-common/task/configure-sla-definitions-fso-cases.md) to configure SLA timings for policy service cases and tasks.
+[Configure the installed SLAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/task/configure-sla-definitions-fso-cases.md) to configure SLA timings for policy service cases and tasks.
 
 </td></tr><tr><td id="d35666e333">
 
@@ -115,9 +115,9 @@ Description
 
 </td><td>
 
-[Configure Document Processor](../../fso-common/concept/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
+[Configure Document Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Commercial Lines Servicing](../concept/fso-ins-commercial-policy-ops-landing-page.md)
+**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/fso-ins-commercial-policy-ops-landing-page.md)
 

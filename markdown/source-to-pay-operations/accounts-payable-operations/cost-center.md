@@ -30,5 +30,5 @@ For more information on cost centers and how it is referenced within financial s
 |Manager|String|A reference to the user who manages the cost center.|
 |Parent|String|A reference to the parent cost center in the hierarchical structure of cost centers.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

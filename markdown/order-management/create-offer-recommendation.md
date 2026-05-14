@@ -88,6 +88,6 @@ Brief description of the offering recommendation.
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-    The product recommendation card for the product is displayed to your agents when they're updating a quote that has the source product offering for this recommendation. For more information on how sales agents use product offering recommendations, see [Get additional product offering recommendations for quotes](quote-get-product-offer.md).
+    The product recommendation card for the product is displayed to your agents when they're updating a quote that has the source product offering for this recommendation. For more information on how sales agents use product offering recommendations, see [Get additional product offering recommendations for quotes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-get-product-offer.md).
 
 

@@ -36,7 +36,7 @@ Note the following requirements to use Virtual Agent with SMS:
 
 -   The Emergency Outreach application.
 
-    For details, see [Install Emergency Outreach](../../business-continuity/task/install-emergency-outreach.md#).
+    For details, see [Install Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../business-continuity/task/install-emergency-outreach.md#).
 
 -   The Virtual Agent plugin \(com.glide.cs.chatbot\).
 
@@ -49,10 +49,10 @@ Note the following requirements for users to complete Exposure Case Task Surveys
 
 -   Your organization must install and set up Virtual Agent for use with SMS.
 -   To receive SMS messages for Contact Tracing, users must have a mobile phone number listed on their user record \[sys\_user\]. Mobile numbers must be in E.164 format, for example, `+18585551212`.
--   Privacy consent for Contact Tracing must be configured before users can reply to SMS messages. For instructions and more information, see [Setting up data privacy consent settings for Contact Tracing](set-up-privacy-consent-settings.md).
+-   Privacy consent for Contact Tracing must be configured before users can reply to SMS messages. For instructions and more information, see [Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-privacy-consent-settings.md).
 -   Users must agree to the privacy consent before they can respond to the survey.
 
-**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
 ## Send Exposure Case Task Surveys automatically via SMS
 
@@ -60,7 +60,7 @@ As an administrator, you can configure Contact Tracing to enable Exposure Case T
 
 ### Before you begin
 
-Ensure that the installation and setup requirements to enable Virtual Agent conversations for Contact Tracing are met. For more information, see [Virtual Agent conversations for Contact Tracing](contact-tracing-va-sms.md#).
+Ensure that the installation and setup requirements to enable Virtual Agent conversations for Contact Tracing are met. For more information, see [Virtual Agent conversations for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-va-sms.md#).
 
 Role required: admin
 

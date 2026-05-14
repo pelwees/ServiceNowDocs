@@ -17,7 +17,7 @@ You can view the Operational Technology \(OT\) applications that you have instal
 
 If you're assigned the cmdb\_ot\_viewer or cmdb\_ot\_isa\_viewer role, you can view the OT applications that you have installed on your instance by navigating to **All** &gt; **Industrial Workspace Admin** &gt; **About Industrial Workspace**.
 
-The Installed applications table contains the application name, scope, version, and install date for each application installed and available on your instance. The following image shows an example of the table. ![Installed application table where you can view the OT applications installed on your instance](../image/installed-applications-table.png)
+The Installed applications table contains the application name, scope, version, and install date for each application installed and available on your instance. The following image shows an example of the table. ![Installed application table where you can view the OT applications installed on your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/installed-applications-table.png)
 
-**Parent Topic:**[Exploring the Operational Technology Manager](exploring-operational-technology-manager.md)
+**Parent Topic:**[Exploring the Operational Technology Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/exploring-operational-technology-manager.md)
 

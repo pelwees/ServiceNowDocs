@@ -86,7 +86,7 @@ Essential tips to remember when using the Format Text Component to avoid the fol
     -   `{{` represents a literal `{`
     -   `}}` represents a literal `}`
 
-You can configure the properties for the Format Text component. For more information about these properties, see [Properties of the General components](../reference/Properties-general-components.md).
+You can configure the properties for the Format Text component. For more information about these properties, see [Properties of the General components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/Properties-general-components.md).
 
 ## Procedure
 
@@ -96,15 +96,15 @@ You can configure the properties for the Format Text component. For more informa
 
 3.  To set the text placeholder variable, do the following steps.
 
-    1.  Click the add variable icon \(![Add variable icon.](../image/add-image-icon.png)\).
+    1.  Click the add variable icon \(![Add variable icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
         A Data In port is added for each variable you add.
 
-    2.  To configure the variable value, see [Configure port properties](configure-input-port-properties.md).
+    2.  To configure the variable value, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
     3.  Repeat the steps to add more variables and values.
 
-4.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
+4.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
 5.  Insert the text in the TEXT FORMAT EDITOR.
 
@@ -182,5 +182,5 @@ No. Connecting the port is optional.
 </table>10. To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[General](../concept/general-component.md)
+**Parent Topic:**[General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/general-component.md)
 

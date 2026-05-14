@@ -15,11 +15,11 @@ Sets the values of the associated **Table** fields mapped to the process field p
 
 ## Before you begin
 
-If you are running an automation from RPA Desktop Design Studio, then assign the automation to the bot process by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio. In the **Bot Process** field, ensure to select an attended bot process that is enabled with Embedded Task Automation. In the **Attended Config** field, ensure to select an associated attended configuration. In the **Record Context** field, ensure to enter the Sys ID or URL of the ServiceNow form record. For more information, see [Assign bot process to an automation project](assign-bot-process.md).
+If you are running an automation from RPA Desktop Design Studio, then assign the automation to the bot process by using the **Assign bot process** option from the **Design** tab of RPA Desktop Design Studio. In the **Bot Process** field, ensure to select an attended bot process that is enabled with Embedded Task Automation. In the **Attended Config** field, ensure to select an associated attended configuration. In the **Record Context** field, ensure to enter the Sys ID or URL of the ServiceNow form record. For more information, see [Assign bot process to an automation project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/assign-bot-process.md).
 
-Create process field parameters as part of a bot process on the RPA Hub. See [Create a process field parameter in RPA Hub](../../rpa-hub/task/create-process-field-param-rpa.md).
+Create process field parameters as part of a bot process on the RPA Hub. See [Create a process field parameter in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/create-process-field-param-rpa.md).
 
-Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+Ensure you are familiar with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/concept/embedded-task-auto-rpa.md).
 
 Role required:
 
@@ -28,9 +28,9 @@ Role required:
 
 ## About this task
 
-You can configure the properties for the SetProcessFieldParameters component. For more information about these properties, see [Properties of the Forms components](../reference/sn-forms-properties.md).
+You can configure the properties for the SetProcessFieldParameters component. For more information about these properties, see [Properties of the Forms components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/sn-forms-properties.md).
 
-Let's consider an employee badge creation use case. The following steps provide guidance of how to use the SetProcessFieldParameters component in this use case. For more information about the use case, see [Embedded Task Automation \(ETA\) in RPA Hub](../../rpa-hub/concept/embedded-task-auto-rpa.md).
+Let's consider an employee badge creation use case. The following steps provide guidance of how to use the SetProcessFieldParameters component in this use case. For more information about the use case, see [Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/concept/embedded-task-auto-rpa.md).
 
 ## Procedure
 
@@ -38,15 +38,15 @@ Let's consider an employee badge creation use case. The following steps provide 
 
 2.  Drag the SetProcessFieldParameters component to the Design surface.
 
-3.  Click the component settings icon \(![Component settings icon.](../image/component-settings-icon.png)\).
+3.  Click the component settings icon \(![Component settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 
-4.  Click the add key icon \(![Add key icon.](../image/add-image-icon.png)\).
+4.  Click the add key icon \(![Add key icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
 5.  Enter the name of one of the process field parameters.
 
     For example, BadgeID, RequestState.
 
-    ![Enter process field parameters.](../image/set-process-field-param-config-studio.png "Example of the Process Field Parameters Configuration")
+    ![Enter process field parameters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/set-process-field-param-config-studio.png "Example of the Process Field Parameters Configuration")
 
     A Data In port is created.
 
@@ -70,5 +70,5 @@ Let's consider an employee badge creation use case. The following steps provide 
 10. To test the component, right-click the title bar of the component and select **Run From Here**.
 
 
-**Parent Topic:**[Forms](../concept/forms_sn_rpa_studio.md)
+**Parent Topic:**[Forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/forms_sn_rpa_studio.md)
 

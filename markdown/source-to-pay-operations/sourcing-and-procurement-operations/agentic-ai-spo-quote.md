@@ -24,21 +24,21 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** in your ServiceNow instance.
 
-2.  Select the Now Assist chat icon \(![Now Assist icon.](../image/agentic-ai-now-assist-icon.png)\) in the Employee Center interface.
+2.  Select the Now Assist chat icon \(![Now Assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-now-assist-icon.png)\) in the Employee Center interface.
 
 3.  Enter details about the product that you want to purchase in the chat interface.
 
-    ![Procurement product recommendation AI agent starts.](../image/agentic-ai-quote-step3.png)
+    ![Procurement product recommendation AI agent starts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step3.png)
 
     Now Assist analyzes your request and presents product recommendations through the Procurement product recommendation AI agent.
 
 4.  Select **Yes** to proceed with uploading a quote.
 
-    ![Upload a quote.](../image/agentic-ai-quote-step4.png)
+    ![Upload a quote.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step4.png)
 
 5.  Select **Click here to upload a file** to choose your quote from your device.
 
-    ![Select a file to upload a vendor quote.](../image/agentic-ai-quote-step5.png)
+    ![Select a file to upload a vendor quote.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step5.png)
 
     **Note:** Ensure that the file is in PDF, PNG, or JPEG format and doesn’t exceed 1 MB.
 
@@ -46,7 +46,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 7.  Enter additional details, such as the reason for purchase, expected delivery date, and service period.
 
-    ![Provide additional details to create a purchase request.](../image/agentic-ai-quote-step7.png)
+    ![Provide additional details to create a purchase request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step7.png)
 
 8.  Verify the quote file name.
 
@@ -54,7 +54,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 9.  Select the link to open the extracted quote it in a new tab.
 
-    ![Open the extracted quote in a new tab.](../image/agentic-ai-quote-step9.png)
+    ![Open the extracted quote in a new tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step9.png)
 
 10. Verify that all information was extracted correctly and select **Submit**.
 
@@ -62,10 +62,10 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 12. Select **Yes** to confirm you have submitted the extracted quote.
 
-    ![New purchase requisition is created.](../image/agentic-ai-quote-step12.png)
+    ![New purchase requisition is created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-ai-quote-step12.png)
 
     Your purchase requisition has been created and submitted for approval.
 
 
-**Parent Topic:**[Submit a purchase request using the Now Assist AI agent](request-product-ai-agents.md)
+**Parent Topic:**[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)
 

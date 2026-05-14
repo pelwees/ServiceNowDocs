@@ -200,13 +200,13 @@ Name of the trusted account.Configure this field only for accounts that don't us
 
     1.  If you don't want to use the OrganizationAccountAccessRole to access the member account, Configure trusting account for Cloud Action Library.
 
-        For more information, see [Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](configure-trusting-account-for-ccg.md).
+        For more information, see [Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/configure-trusting-account-for-ccg.md).
 
-    2.  Repeat step [6.a](set-up-cloud-action-library-for-aws.md#create-trusting-acc-for-management-acc) for each member account that needs to be scanned through the management account without using the OrganizationAccountAccessRole.
+    2.  Repeat step [6.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-aws.md#create-trusting-acc-for-management-acc) for each member account that needs to be scanned through the management account without using the OrganizationAccountAccessRole.
 
     3.  If you want to use the OrganizationAccountAccessRole to access the member account, create an assume role configuration for the management account.
 
-        For more information, see [Create an assume role configuration](../../it-operations-management/task/create-assume-role-config.md).
+        For more information, see [Create an assume role configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../../it-operations-management/task/create-assume-role-config.md).
 
 7.  To use a trusted account to scan the trusting account, configure trusting account for Cloud Action Library.
 
@@ -214,10 +214,10 @@ Name of the trusted account.Configure this field only for accounts that don't us
 
     1.  Configure trusting account for Cloud Configuration Governance.
 
-        For more information, see [Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](configure-trusting-account-for-ccg.md).
+        For more information, see [Configure the trusting account for Cloud Configuration Governance and Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/configure-trusting-account-for-ccg.md).
 
-    2.  Repeat step [7.a](set-up-cloud-action-library-for-aws.md#cuoss-assume-use-case-substep) for each trusting account that needs to be scanned through the trusted account.
+    2.  Repeat step [7.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-aws.md#cuoss-assume-use-case-substep) for each trusting account that needs to be scanned through the trusted account.
 
 
-**Parent Topic:**[Exploring Cloud Action Library](../concept/exploring-cloud-actions-library.md)
+**Parent Topic:**[Exploring Cloud Action Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../concept/exploring-cloud-actions-library.md)
 

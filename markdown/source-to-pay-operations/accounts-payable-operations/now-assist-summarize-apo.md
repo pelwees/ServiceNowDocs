@@ -30,7 +30,7 @@ You can use these record summarization skills in either Core UI or Source-to-Pay
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Generate a summary for either an invoice case record or an inquiry case record.
 
@@ -67,7 +67,7 @@ Procedure
 </td></tr></tbody>
 </table>4.  On the **Cases** tab, in the Record summary section, select **Summarize**.
 
-    ![Summarize option that appears at the top of the record in Source-to-Pay Workspace.](../../source-to-pay-operations/image/record-summarization-apo.png)
+    ![Summarize option that appears at the top of the record in Source-to-Pay Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../source-to-pay-operations/image/record-summarization-apo.png)
 
     When you opt to summarize an invoice case, you see the following message: "Now Assist is summarizing your invoice case."
 
@@ -75,7 +75,7 @@ Procedure
 
 5.  Review the summary details.
 
-    ![Summarized invoice case.](../../source-to-pay-operations/image/record-summarization-case-apo.png)
+    ![Summarized invoice case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../source-to-pay-operations/image/record-summarization-case-apo.png)
 
     A concise summary of the record, including the overview, actions completed, and next steps are displayed. The information that is displayed is based on the type of the record.
 
@@ -100,7 +100,7 @@ Procedure
 
 1.  Select **Share to work notes**.
 2.  In the Share to work notes dialog box, edit the summary.
-3.  Select **Save to work notes**.![Save to work notes dialog box.](../image/sharetoworknotes-apo.png)
+3.  Select **Save to work notes**.![Save to work notes dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/sharetoworknotes-apo.png)
 
 
 </td></tr><tr><td id="d84616e305">
@@ -109,7 +109,7 @@ Procedure
 
 </td><td>
 
-Select the expanded card icon \(![Expand card icon.](../../sourcing-procurement-operations/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../../sourcing-procurement-operations/image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expanded card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d84616e326">
 
@@ -117,7 +117,7 @@ Select the expanded card icon \(![Expand card icon.](../../sourcing-procurement-
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../sourcing-procurement-operations/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../sourcing-procurement-operations/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
 
 </td></tr><tr><td id="d84616e349">
 
@@ -125,7 +125,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../../supplier-lifecycle-operations/image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d84616e365">
 
@@ -133,7 +133,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../../supplier-li
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../../sourcing-procurement-operations/image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

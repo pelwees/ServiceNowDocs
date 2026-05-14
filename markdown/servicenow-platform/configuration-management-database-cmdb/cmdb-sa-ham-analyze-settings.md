@@ -26,13 +26,13 @@ The CMDB success advisor for HAM evaluates your current configuration across key
 
 Settings are categorized as `Ideal` or `Requires attention`, enabling you to prioritize actions and maintain a healthy CMDB for HAM.
 
-For a quick reference to validate CMDB settings for HAM, see [Settings checklist for HAM in CMDB success advisor](cmdb-sa-ham-analyze-settings.md#).
+For a quick reference to validate CMDB settings for HAM, see [Settings checklist for HAM in CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-analyze-settings.md#).
 
 ## Access settings
 
-Navigate to the CMDB success advisor landing page and for the HAM card, select **View insights**. Select the **Settings** tab to access settings-related details. For more information, see [Access CMDB success advisor](../task/cmdb-sa-access.md).
+Navigate to the CMDB success advisor landing page and for the HAM card, select **View insights**. Select the **Settings** tab to access settings-related details. For more information, see [Access CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/cmdb-sa-access.md).
 
-**Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](cmdb-sa-ham-config-settings.md).
+**Note:** The CMDB success advisor for HAM dashboard is available only after the setup process is complete. For more information, see [Set up CMDB success advisor for HAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-config-settings.md).
 
 ## Required roles
 
@@ -66,7 +66,7 @@ CMDB administrator
 </td></tr></tbody>
 </table>## Settings features
 
-The **Settings** tab in the CMDB success advisor for HAM provides visibility into key configuration areas that promote accurate synchronization between hardware assets and CIs. These settings include business rules, field mappings, model categories, and Data Manager policies that support automated life cycle management and data integrity. To maintain CMDB data accuracy and HAM integration, regularly review and validate these settings. For more information, see [CMDB and HAM settings assessed in the CMDB success advisor](cmdb-sa-ham-analyze-settings.md#).
+The **Settings** tab in the CMDB success advisor for HAM provides visibility into key configuration areas that promote accurate synchronization between hardware assets and CIs. These settings include business rules, field mappings, model categories, and Data Manager policies that support automated life cycle management and data integrity. To maintain CMDB data accuracy and HAM integration, regularly review and validate these settings. For more information, see [CMDB and HAM settings assessed in the CMDB success advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-ham-analyze-settings.md#).
 
 ## Evaluate CMDB settings for HAM
 
@@ -151,7 +151,7 @@ Opens the New policy form to create a policy for a CI class. The **Create policy
 **Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/concept/administer-data-manager.md)
 
 [Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 
@@ -268,7 +268,7 @@ Marks CIs as retired when no longer in use.
 </table>**Related topics**  
 
 
-[Administer CMDB Data Manager](../../configuration-management/concept/administer-data-manager.md)
+[Administer CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/concept/administer-data-manager.md)
 
 ## Settings checklist for HAM in CMDB success advisor
 

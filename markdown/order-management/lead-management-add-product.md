@@ -44,7 +44,7 @@ You can use the Catalog tab to search for and select product offerings from cata
 
 ## What to do next
 
-[Add line items to a lead](lead-management-use-line-items-tab.md).
+[Add line items to a lead](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-use-line-items-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md)
 

@@ -29,13 +29,13 @@ All data imported from UCF Authority Documents is read-only and must be protecte
 
 2.  Click the **UCF** configuration.
 
-3.  [Configure the UCF integration using the UCF Common Controls Hub](configure-UCF-integration.md), if necessary.
+3.  [Configure the UCF integration using the UCF Common Controls Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/configure-UCF-integration.md), if necessary.
 
 4.  Click **Import Shared List**.
 
     A progress bar shows the progress of downloading and importing the documents.
 
-    ![Download complete shown](../image/ucf-download-complete.png)
+    ![Download complete shown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/ucf-download-complete.png)
 
     You may encounter any of the following errors:
 
@@ -97,7 +97,7 @@ If the selected UCF Shared List that you are downloading does not include all th
 </td></tr></tbody>
 </table>5.  Click **Review Changed Records** to review the list of changed records.
 
-    ![List of changed records](../image/ucf-review-records.png)
+    ![List of changed records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/ucf-review-records.png)
 
     Authority documents in the UCF content are organized and mapped to their proper citations, which in turn are mapped to a common set of controls. The terminology between UCF and the GRC applications differs slightly as explained in the following table.
 
@@ -108,5 +108,5 @@ If the selected UCF Shared List that you are downloading does not include all th
     |Control|Control objective|
 
 
-**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](../concept/c_UCF.md)
+**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/c_UCF.md)
 

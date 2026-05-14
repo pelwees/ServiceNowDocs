@@ -27,7 +27,7 @@ Role required: sn\_erp\_integration.erp\_admin, sn\_erp\_mining.erp\_admin
 
 For more information on using Guided Setup, see [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-Alternatively, you can configure ERP Semantic Mining without Guided Setup. For more information, see [Configure a new ERP Semantic Mining connection](set-up-erp-customization-mining.md).
+Alternatively, you can configure ERP Semantic Mining without Guided Setup. For more information, see [Configure a new ERP Semantic Mining connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/set-up-erp-customization-mining.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Alternatively, you can configure ERP Semantic Mining without Guided Setup. For m
     2.  Select **Validate the connection status**, follow the steps, and select **Continue**.
 
 
-**Parent Topic:**[Configuring ERP Semantic Mining](../concept/configuring-ecm.md)
+**Parent Topic:**[Configuring ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../concept/configuring-ecm.md)
 

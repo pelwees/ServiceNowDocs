@@ -40,5 +40,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-As the next step, request analysis approval. For more information, see [Submit the scenario analysis and receive an approval](request-plan-approval-for-scenario-analysis.md).
+As the next step, request analysis approval. For more information, see [Submit the scenario analysis and receive an approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-plan-approval-for-scenario-analysis.md).
 

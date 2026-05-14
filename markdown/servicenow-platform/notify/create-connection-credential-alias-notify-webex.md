@@ -69,5 +69,5 @@ Option to provide the connection URL.
 </table>5.  Right-click the form header and click **Submit**.
 
 
-**Parent Topic:**[Configure Notify Cisco Webex Connector](../concept/setup-cisco-webex-notify.md)
+**Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/setup-cisco-webex-notify.md)
 

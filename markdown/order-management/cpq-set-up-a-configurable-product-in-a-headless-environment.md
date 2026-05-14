@@ -21,7 +21,7 @@ Role required: Admin
 
 In headless use cases, the configurable product is the link between the blueprint that you have created in CPQ and the configuration that launches for end users when they select the product. A Products tab appears in the Utilities section of the CPQ navigation pane.
 
-![menu](../images/cpq-products-tab.png)
+![menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-products-tab.png)
 
 ## Procedure
 
@@ -29,7 +29,7 @@ In headless use cases, the configurable product is the link between the blueprin
 
 2.  Upload a CSV file with the following headers and the appropriate information for your product.
 
-    ![CSV file for configurable products](../images/cpq-configurable-product-csv.png)
+    ![CSV file for configurable products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-configurable-product-csv.png)
 
     If "configurable" is set to TRUE, the configurable product is automatically created in the CPQ environment.
 

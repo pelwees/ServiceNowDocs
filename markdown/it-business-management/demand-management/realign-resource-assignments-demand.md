@@ -17,7 +17,7 @@ Planning and execution of your roadmap involves change in priority or timelines 
 
 ## Before you begin
 
-[Migrate resource plans to resource assignments](../../resource-management/task/migrate-rsrc-plan-rsrc-asgnmnt.md)
+[Migrate resource plans to resource assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../../resource-management/task/migrate-rsrc-plan-rsrc-asgnmnt.md)
 
 Role required: it\_demand\_manager
 
@@ -38,5 +38,5 @@ Role required: it\_demand\_manager
 
 In the Resource assignments related list, you can see the Start date of the resource assignments aligned with the demand start dates.
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

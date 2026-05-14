@@ -23,7 +23,7 @@ Role required: admin or dashboard\_admin.
 
     **Important:** When set to true, this property disables the creation of new homepages and sets the default start page or landing page to Dashboards. Menu items and URLs that open homepages will continue to point to those homepages. Otherwise, homepages are unavailable and should be migrated using this tool.
 
-2.  [Populate the homepage migration status table](hpm-populate-hp-status-table.md).
+2.  [Populate the homepage migration status table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-populate-hp-status-table.md).
 
 **Note:**
 
@@ -39,7 +39,7 @@ To configure the time limit to respond to a retirement request, edit the system 
 
 3.  From the **Actions on selected rows** menu, select `Retire`.
 
-    ![Homepage migration status table with three homepages selected and the Actions on selected rows menu open with Retire option highlighted](../image/hp-migration-status-retire.png)
+    ![Homepage migration status table with three homepages selected and the Actions on selected rows menu open with Retire option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hp-migration-status-retire.png)
 
     -   If the homepage is a Global homepage, meaning one with no specified owner, it is retired and the task state is set to **Closed complete** immediately.
     -   If there is no response from the owner of a personal homepage within the time limit, the homepage is retired and the task state is set to **Closed complete**.
@@ -57,5 +57,5 @@ Changes are made on the homepage migration status table.
 
 ## What to do next
 
-[Restore a homepage](hpm-restore-homepages.md)
+[Restore a homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-restore-homepages.md)
 

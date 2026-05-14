@@ -25,7 +25,7 @@ Continuous monitoring is a pro-active security management approach. Customers mo
 4.  If the configuration test scan results of the configuration tests indicate a failure, then the control is non-compliant and an issue is automatically generated.
 5.  If the next scan result of the configuration test indicates that the failure has been remediated, then the control is compliant and the issue is automatically closed.
 
-**Parent Topic:**[Policy and Compliance Management](r_PolicyComplianceMgmt.md)
+**Parent Topic:**[Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 
 ## Map control objective or controls to configuration tests
 

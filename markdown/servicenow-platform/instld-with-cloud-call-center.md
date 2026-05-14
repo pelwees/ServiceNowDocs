@@ -124,7 +124,7 @@ authenticate
 
 </td><td>
 
-Authenticates a user based on the PIN. For information on PIN configuration, see [Configuring a phone PIN](../concept/set-pin-ccc.md#).
+Authenticates a user based on the PIN. For information on PIN configuration, see [Configuring a phone PIN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/set-pin-ccc.md#).
 
 </td></tr><tr><td>
 
@@ -135,5 +135,5 @@ fetchVoiceInteraction
 Fetches interaction and processes createConversation flag for creating conversation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow Voice reference](ccc-reference.md)
+</table>**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 

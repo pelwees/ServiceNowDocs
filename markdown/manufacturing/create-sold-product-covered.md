@@ -68,7 +68,7 @@ The related install base item.**Note:**
 
 -   The list of sold products is filtered based on the account related to the contract or entitlement.
 -   If an install base item is added, the **Sold Product** field is automatically removed.
--   If an install base item isn't listed, you can add it. Select **New** in the Install Base Item window. For more information, see [Create an install base item](mco-create-install-base-item.md).
+-   If an install base item isn't listed, you can add it. Select **New** in the Install Base Item window. For more information, see [Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md).
 
 
 </td></tr><tr><td>

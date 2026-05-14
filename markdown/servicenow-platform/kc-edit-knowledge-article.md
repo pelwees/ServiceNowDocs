@@ -35,7 +35,7 @@ Generate and edit knowledge articles in the Knowledge Center from a task using A
 
 6.  Start by entering the **Knowledge base**, **Short description** \(title\), and other details in the metadata pane of the article form.
 
-    ![Article editor page.](../image/Using-article-editor.jpeg)
+    ![Article editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Using-article-editor.jpeg)
 
 7.  As you create the article in the main article editor space, drag **Components**, such as columns and text section, into the article area from the **Blocks** pane.
 
@@ -49,7 +49,7 @@ Generate and edit knowledge articles in the Knowledge Center from a task using A
 
 11. Select and format inline text such as headings, lists, fonts, and hyperlinks, with the floating formatting toolbar.
 
-    ![Settings and formatting tools in article editor.](../image/Settings-and-Formatting.jpeg)
+    ![Settings and formatting tools in article editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/Settings-and-Formatting.jpeg)
 
 12. Upload images and re-size, rotate, or flip using the image-editing tools.
 
@@ -61,7 +61,7 @@ Generate and edit knowledge articles in the Knowledge Center from a task using A
 **Related topics**  
 
 
-[Configure skill for Now Assist context menu](../../knowledge-management/task/Now-Assist-configuring-context-menu-skill.md)
+[Configure skill for Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../knowledge-management/task/Now-Assist-configuring-context-menu-skill.md)
 
-[Generate and edit articles using Now Assist in the Knowledge Center article editor](../../knowledge-management/task/kc-article-editor.md)
+[Generate and edit articles using Now Assist in the Knowledge Center article editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../knowledge-management/task/kc-article-editor.md)
 

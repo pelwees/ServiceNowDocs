@@ -19,10 +19,10 @@ After a security incident has been created, there are numerous types of informat
 
 This section describes the following:
 
--   [Create an inbound request](../task/t_CreateSecurityIncidentRequest.md)
--   [Manage observables](sec-inc-observables.md)
--   [Manage lookups and scans](c_Scans.md)
--   [Calculate the severity of a security incident](../task/calculate-si-severity.md)
--   [Manage post incident activities](c_PostIncidentReview.md)
--   [Close security incidents](../task/t_ClosingSecIncidents.md)
+-   [Create an inbound request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_CreateSecurityIncidentRequest.md)
+-   [Manage observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sec-inc-observables.md)
+-   [Manage lookups and scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_Scans.md)
+-   [Calculate the severity of a security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/calculate-si-severity.md)
+-   [Manage post incident activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_PostIncidentReview.md)
+-   [Close security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_ClosingSecIncidents.md)
 

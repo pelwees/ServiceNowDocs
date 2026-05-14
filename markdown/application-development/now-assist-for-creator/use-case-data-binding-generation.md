@@ -29,7 +29,7 @@ With Data binding generation, the developer describes what they need in plain la
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](../task/install-ui-generation.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/install-ui-generation.md) and [Grant UI Builder admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/grant-ui-builder-admin-role.md).
 
 ## Configuration steps
 
@@ -59,14 +59,14 @@ Perform the following steps to use Data binding generation:
 
 The developer sets up a dynamic binding quickly, without referring to the documentation. This eliminates syntax errors, enabling the developer to focus on experience design rather than writing formulas.
 
-**Parent Topic:**[UI Generation use cases](../task/ui-generation-use-cases.md)
+**Parent Topic:**[UI Generation use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/ui-generation-use-cases.md)
 
 **Related topics**  
 
 
-[Data binding generation](concept-data-binding-generation.md)
+[Data binding generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/concept-data-binding-generation.md)
 
-[Generate a data binding and formula](../task/generate-data-bindings-and-formulas.md)
+[Generate a data binding and formula](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-data-bindings-and-formulas.md)
 
-[Natural language synonyms for formula operators](../reference/natural-language-synonyms-for-formula-operators.md)
+[Natural language synonyms for formula operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/natural-language-synonyms-for-formula-operators.md)
 

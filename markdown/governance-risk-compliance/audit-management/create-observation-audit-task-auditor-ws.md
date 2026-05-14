@@ -27,7 +27,7 @@ Creating an observation also helps enforce adherence to requirements, thereby ad
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Click the tasks icon \(![Tasks icon.](../image/TasksIcon.jpg)\).
+2.  Click the tasks icon \(![Tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/TasksIcon.jpg)\).
 
     The workspace opens listing **All** tasks in the **My pending tasks** tab. You can view **All – Audit tasks** assigned to you.
 
@@ -39,7 +39,7 @@ Creating an observation also helps enforce adherence to requirements, thereby ad
 
 5.  Click **New**.
 
-6.  Enter the details in the [Create New Observation](create-observation-audit-ws.md#create-observation-auditor-audit-ws) form.
+6.  Enter the details in the [Create New Observation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-observation-audit-ws.md#create-observation-auditor-audit-ws) form.
 
 7.  Click **Save**.
 

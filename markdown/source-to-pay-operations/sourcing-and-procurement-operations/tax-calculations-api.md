@@ -36,5 +36,5 @@ A staging table is also created that includes the following output parameters fo
 -   Tax type/description
 -   Tax percentage
 
-**Parent Topic:**[Tax calculations](tax-calculations.md)
+**Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/tax-calculations.md)
 

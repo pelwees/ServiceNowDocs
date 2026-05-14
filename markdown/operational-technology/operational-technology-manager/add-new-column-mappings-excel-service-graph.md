@@ -44,7 +44,7 @@ Roles required:
 
     Make sure that there’s a comma \(,\) added at the end of the line above the new line. In this example, a comma is added after the "custom\_fields": "custom\_fields" line.
 
-    ![Updated ETL column name with SGOTAssetImportExcelConstants.](../image/custom-field-new.png)
+    ![Updated ETL column name with SGOTAssetImportExcelConstants.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/custom-field-new.png)
 
 7.  Select **Update** to save your changes.
 
@@ -56,11 +56,11 @@ Roles required:
 
 11. From the ETL Transform Map Assistant, in the Specify Basic Details section of the guided setup, select **Import Source Data and Provide Basic Details**.
 
-    ![Select step 1: Provide basic information for the ETL Transform Map.](../image/step-1-provide-basic-info-etl-transform.png)
+    ![Select step 1: Provide basic information for the ETL Transform Map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/step-1-provide-basic-info-etl-transform.png)
 
 12. In the **Sample Import Set** field, select **Auto-pull a new import set**.
 
-    ![Sample Import Set field, select Auto-pull a new import set.](../image/sample-import-set-auto-pull-new-set.png)
+    ![Sample Import Set field, select Auto-pull a new import set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/sample-import-set-auto-pull-new-set.png)
 
 13. Select **Save**.
 
@@ -86,29 +86,29 @@ Roles required:
 
     2.  For the Hardware 1 class, select **Edit Mapping**.
 
-        ![Select CMDB Classes to Map Source Data](../image/select-cmdb-clasess-map-source-data.png)
+        ![Select CMDB Classes to Map Source Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/select-cmdb-clasess-map-source-data.png)
 
 19. In the Add Attribute dialog box that appears, from the **Attribute** list, select **Comments**.
 
-    ![Map Hardware 1 class - Add Attribute dialog box.](../image/map-hardware-add-attribute-dialog.png)
+    ![Map Hardware 1 class - Add Attribute dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/map-hardware-add-attribute-dialog.png)
 
 20. Select **Save**.
 
     A new field named “Comments” is displayed.
 
-    ![New comments field added.](../image/map-hardware-1-new-comments-field.png)
+    ![New comments field added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/map-hardware-1-new-comments-field.png)
 
 21. From the Data pane, drag the data pill to the Comments **Source Column** field.
 
-    You can also select the source column icon \( ![Source column icon.](../image/source-column-icon.png) \) to select the data-mapping field for it.
+    You can also select the source column icon \( ![Source column icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/source-column-icon.png) \) to select the data-mapping field for it.
 
     The Source Column includes the data pill.
 
-    ![Source Column field filled with a data pill.](../image/map-cmdb-1.png)
+    ![Source Column field filled with a data pill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/map-cmdb-1.png)
 
 22. Navigate back to the **CMDB Classes to Map Source Data** of the Map Data to CMDB and Add Relationships section in the ETL Transform Map Assistant page.
 
-    ![Navigate back to the CMDB Classes to Map Source Data page.](../image/map-hardware-navigate-back-cmdb-classes.png)
+    ![Navigate back to the CMDB Classes to Map Source Data page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/map-hardware-navigate-back-cmdb-classes.png)
 
 23. Select **Mark as Complete**.
 
@@ -118,7 +118,7 @@ Roles required:
 
     2.  In the Preview Sample Integration Results and Schedule Import section of the guided setup, select **Test and Rollback Integration Results**.
 
-        ![ETL Transform Map Assistant - Test and Rollback Integration Results.](../image/etl-test-rollback.png)
+        ![ETL Transform Map Assistant - Test and Rollback Integration Results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../image/etl-test-rollback.png)
 
     3.  Select **Run Integration**.
 
@@ -133,5 +133,5 @@ Roles required:
     The new column field mapping is successfully added and verified.
 
 
-**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](../concept/configuring-service-graph-connector-for-excel.md)
+**Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/configuring-service-graph-connector-for-excel.md)
 

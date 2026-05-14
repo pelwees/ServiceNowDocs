@@ -26,21 +26,21 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 2.  Navigate to **Employee** &gt; **CM Pro**.
 
-3.  On the **Contract analysis** tile, select **Edit** in the options menu \(![Options menu icon.](../image/cmpro-na-three-dot-icon.png)\).
+3.  On the **Contract analysis** tile, select **Edit** in the options menu \(![Options menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-three-dot-icon.png)\).
 
-    ![Active skills in Contract management pro.](../image/cmpro-na-active-skills.png "Active skills in Now Assist in Contract Management")
+    ![Active skills in Contract management pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-active-skills.png "Active skills in Now Assist in Contract Management")
 
 4.  In the skill guided setup, select **Clause mappings**.
 
-5.  Select the actions icon ![Actions icon](../image/cmpro-na-three-dot-icon.png) on the clause mapping that you want to update, delete, or deactivate.
+5.  Select the actions icon ![Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-three-dot-icon.png) on the clause mapping that you want to update, delete, or deactivate.
 
-    ![Actions available on clause mappings for contract analysis.](../image/cmpro-na-edit-clause-map.png "Clause mappings page")
+    ![Actions available on clause mappings for contract analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-na-edit-clause-map.png "Clause mappings page")
 
     -   **Edit**
 
         Update the field group to clause mappings for a use case.
 
-        For more information on clause mapping, see [Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md).
+        For more information on clause mapping, see [Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md).
 
     -   **Deactivate**
 
@@ -57,18 +57,18 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 Now Assist uses the updated clause mappings to display suggestions for non-standard or missing clauses in a contract document.
 
-**Parent Topic:**[Managing skills for Now Assist in Contract Management](../concept/cmpro-manage-na-skills.md)
+**Parent Topic:**[Managing skills for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-na-skills.md)
 
 **Related topics**  
 
 
-[Manage use cases for Now Assist in Contract Management](../concept/cmpro-manage-use-cases.md)
+[Manage use cases for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-use-cases.md)
 
-[Manage use case mappings for Now Assist in Contract Management](cmpro-manage-use-case-map.md)
+[Manage use case mappings for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-use-case-map.md)
 
-[Manage expected response mappings for contract analysis](cmpro-manage-expected-response.md)
+[Manage expected response mappings for contract analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-expected-response.md)
 
-[Deactivate skills for Now Assist in Contract Management](cmpro-deactivate-na-skills.md)
+[Deactivate skills for Now Assist in Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-deactivate-na-skills.md)
 
-[Map a field group to a clause](cmpro-na-map-fieldgrp-clause.md)
+[Map a field group to a clause](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-map-fieldgrp-clause.md)
 

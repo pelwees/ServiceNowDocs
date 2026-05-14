@@ -35,7 +35,7 @@ User criteria required: Taxonomy Manager.
     -   Catalog item Categories
 5.  In the corresponding collection list window, do one of the following actions:
 
-    -   Select a category and then click the right arrow icon \(![Right-arrow icon.](../images/right-arrow-icon.png)\) icon.
+    -   Select a category and then click the right arrow icon \(![Right-arrow icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/right-arrow-icon.png)\) icon.
     -   Double-click a category.
     **Note:** In the Collection list, you can search for knowledge or catalog categories by entering the category name or by using wild cards \(\*\).
 
@@ -48,12 +48,12 @@ User criteria required: Taxonomy Manager.
 
 ## What to do next
 
-For more information, see [Taxonomy and connected content](../concept/track-new-content.md).
+For more information, see [Taxonomy and connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/track-new-content.md).
 
 **Related topics**  
 
 
-[Taxonomy and connected content](../concept/track-new-content.md)
+[Taxonomy and connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/track-new-content.md)
 
 [Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md)
 

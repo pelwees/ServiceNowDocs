@@ -37,7 +37,7 @@ The OSCAL SSP import is a synchronous process.
 
 1.  Navigate to **Workspaces** &gt; **CAM Workspace**.
 
-2.  In the CAM Workspace, select the OSCAL import landing page icon \(![OSCAL import](../image/cam-oscal-import-icon.png)\).
+2.  In the CAM Workspace, select the OSCAL import landing page icon \(![OSCAL import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-icon.png)\).
 
 3.  Select **New Import** from the **All OSCAL imports** landing page.
 
@@ -49,7 +49,7 @@ The OSCAL SSP import is a synchronous process.
 
     You can list the users you want to be notified once the OSCAL import is complete. The recipient receives an email notification on the import status.
 
-    ![OSCAL import SSP details tab.](../image/cam-oscal-import-ssp1.png)
+    ![OSCAL import SSP details tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp1.png)
 
 7.  Select **Next** to continue to the next step in the OSCAL import process.
 
@@ -59,7 +59,7 @@ The OSCAL SSP import is a synchronous process.
 
     Assign users to specific roles for the imported files. These users will retain their roles throughout each step in the authorization package.
 
-    ![User information for OSCAL import SSP.](../image/cam-oscal-import-ssp3.png)
+    ![User information for OSCAL import SSP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp3.png)
 
 9.  Select **Next** to continue to the next step in the OSCAL import process.
 
@@ -71,16 +71,16 @@ The OSCAL SSP import is a synchronous process.
 
     -   **Catalog**: Contains the details of the control objectives and its related objects.
     -   **Profile**: Contains a baseline of selected controls from one or more control catalogs.
-    -   **Catalog Overlay**: Contains information regarding overlay policies and its control objectives and behavior of the overlay. This behavior depends on the addition or subtraction in which the overlay is included in the Authorization Package. For more information, see [Apply overlays to the baseline controls](apply-overlay-to-baseline.md). You can also upload multiple overlay files.
+    -   **Catalog Overlay**: Contains information regarding overlay policies and its control objectives and behavior of the overlay. This behavior depends on the addition or subtraction in which the overlay is included in the Authorization Package. For more information, see [Apply overlays to the baseline controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/apply-overlay-to-baseline.md). You can also upload multiple overlay files.
     -   **SSP**: Contains the details of the authorization boundary, authorization package, system elements, information types, controls, common controls, inherit, hybrid controls, and others.
     -   **Data flow diagram**, **Boundary diagram**, and **Network diagram**: These diagrams are attached to the authorization boundary.
 11. Select **Add file** to attach the Overlay file.
 
-    You can also upload multiple overlay files.![Attach OSCAL SSP files.](../image/cam-oscal-import-ssp4.png)
+    You can also upload multiple overlay files.![Attach OSCAL SSP files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp4.png)
 
 12. Select **Next** to verify the files you uploaded.
 
-    **Preview and Override** tab displays.![OSCAL SSP import.](../image/cam-oscal-import-ssp5.png)
+    **Preview and Override** tab displays.![OSCAL SSP import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp5.png)
 
 13. In the **Preview and Override** tab, review the details that are to be created, skipped, or overridden and then perform one of the following:
 
@@ -97,7 +97,7 @@ The OSCAL SSP import is a synchronous process.
 
         3.  Select the reference from the list that you want to override.
 
-            ![Overriding skipped files.](../image/cam-oscal-import-ssp6.png)
+            ![Overriding skipped files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp6.png)
 
         4.  Select **Override** to override one or more selected references.
 
@@ -110,7 +110,7 @@ The OSCAL SSP import is a synchronous process.
 
             **Note:** If it is in the **Overridden** state, you can only skip it.
 
-        3.  Select the reference from the list that you want to skip.![Skipping overridden files.](../image/cam-oscal-import-ssp7.png)
+        3.  Select the reference from the list that you want to skip.![Skipping overridden files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp7.png)
         4.  Select **Skip** to override one or more selected references.
 
             The selected reference is flagged as skip and the **Will be skipped** count is increased in the preview list.
@@ -123,10 +123,10 @@ The OSCAL SSP import is a synchronous process.
 
 15. If an error occurs during the import process, review the error message displayed in the pop-up and take the necessary corrective action.
 
-    You can also select the attachments or roles and responsibilities action icon \(![Restart attachments or roles and responsibilities.](../image/cam-oscal-import-attachments-icon.png)\) on the **Attachments** and **Roles and Responsibilities** tab to select **Restart Stage** to restart the particular stage.![Restarting attachment stage.](../image/cam-oscal-import-ssp8.png)
+    You can also select the attachments or roles and responsibilities action icon \(![Restart attachments or roles and responsibilities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-attachments-icon.png)\) on the **Attachments** and **Roles and Responsibilities** tab to select **Restart Stage** to restart the particular stage.![Restarting attachment stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-ssp8.png)
 
-    **Note:** You can also select the playbook action icon \(![Restart playbook icon](../image/cam-oscal-import-action-icon.png)\) to select **Restart Playbook** to restart the playbook.
+    **Note:** You can also select the playbook action icon \(![Restart playbook icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-oscal-import-action-icon.png)\) to select **Restart Playbook** to restart the playbook.
 
 
-**Parent Topic:**[Import in OSCAL format](../concept/import-oscal.md)
+**Parent Topic:**[Import in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../concept/import-oscal.md)
 

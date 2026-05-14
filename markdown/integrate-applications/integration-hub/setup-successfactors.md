@@ -25,7 +25,7 @@ Integrate the ServiceNow instance with your SuccessFactors instance using OAuth 
     -   **com.glide.transform.json.max-partial-length**: The maximum value is, `65536`.
 -   Role required: admin.
 
-**Note:** This procedure is applicable if you are setting up the SuccessFactors spoke v4.10.1 for the first time. If you are using an earlier version of the SuccessFactors spoke, see [Migrate to SuccessFactors spoke v4.10.1](migrate-successfactors.md) for the migration procedure.
+**Note:** This procedure is applicable if you are setting up the SuccessFactors spoke v4.10.1 for the first time. If you are using an earlier version of the SuccessFactors spoke, see [Migrate to SuccessFactors spoke v4.10.1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/migrate-successfactors.md) for the migration procedure.
 
 For more information about setting up the spoke, see [SAP SuccessFactors Spoke - OAuth Setup &amp; Migration - Pre-Tokyo, Tokyo and beyond](https://www.servicenow.com/community/knowledge-managers/sap-successfactors-spoke-oauth-setup-amp-migration-pre-tokyo/ta-p/2468046) in [ServiceNow Community](https://www.servicenow.com/community/).
 
@@ -61,7 +61,7 @@ Enable client certificate authentication for the outbound communication by gener
 
 4.  Click **Register Client Application**.
 
-    ![Register a client application.](../image/sapsf-oauth-app.png)
+    ![Register a client application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-oauth-app.png)
 
 5.  Provide the required details on the form.
 
@@ -88,7 +88,7 @@ Role required: admin
 
     For instructions to upload the JKS certificate, see [Upload a certificate to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md) .
 
-    ![Upload JKS certificate.](../image/sapsf-cert.png)
+    ![Upload JKS certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-cert.png)
 
 
 ## Register SuccessFactors as an OAuth provider
@@ -164,7 +164,7 @@ Token URL
 SuccessFactors OAuth server endpoint URL that includes the Company ID in this format: `https://<SuccessFactors_Instance_Name>/oauth/token?company_id=<Company_ID>`. For example, `https://example.successfactors.eu/oauth/token?company_id=SFCPART123456`.
 
 </td></tr></tbody>
-</table>    ![Application registry record.](../image/sapsf-app-reg.png)
+</table>    ![Application registry record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-app-reg.png)
 
 4.  Click **Submit**.
 
@@ -195,7 +195,7 @@ Role required: admin
         |Audience|Intended audience for the assertion. Enter the value, `www.successfactors.com`.|
         |Recipient|Intended recipient for the assertion. Enter URL in this format, `https://<SuccessFactors-Instance-Name>/oauth/token`.|
 
-        ![SAML2 assertion producer record.](../image/successfactors-saml2-assertion-prod.png)
+        ![SAML2 assertion producer record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/successfactors-saml2-assertion-prod.png)
 
     4.  Right-click the form header and click **Save**.
 
@@ -208,9 +208,9 @@ Role required: admin
         |Name|Unique name to identify the SAML2 assertion keystore record. For example, `sap_successfactor`.|
         |Signing Key Alias|Alias of key entry stored in the Keystore used to sign the assertion. For example, `1`.|
         |Signing Key Password|Password of the key entry stored in the keystore used to sign the assertion.|
-        |Signing Keystore|Required X.509 certificate record. Select the X.509 certificate record that you had earlier created. For more information, see [Upload the JKS certificate in your ServiceNow instance](setup-successfactors.md#).|
+        |Signing Keystore|Required X.509 certificate record. Select the X.509 certificate record that you had earlier created. For more information, see [Upload the JKS certificate in your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).|
 
-        ![SAML2 assertion keystore record.](../image/sapsf-assertion-ks.png)
+        ![SAML2 assertion keystore record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-assertion-ks.png)
 
     7.  Click **Submit**.
 
@@ -230,7 +230,7 @@ Role required: admin
         |Type|Type of the **Value** field. Select **String**.|
         |Value|API key generated after the OAuth client application is created in SuccessFactors.|
 
-        ![SAML2 assertion attribute record.](../image/sapsf-assertion-attribute.png)
+        ![SAML2 assertion attribute record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-assertion-attribute.png)
 
     12. Click **Submit**.
 
@@ -240,7 +240,7 @@ Role required: admin
 
     2.  Open the application registry record that you had created.
 
-        For example, **SuccessFactors OAuth Reg**. For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](setup-successfactors.md#).
+        For example, **SuccessFactors OAuth Reg**. For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).
 
     3.  Under the **OAuth Entity Profiles** tab, open the default OAuth entity profile record.
 
@@ -250,7 +250,7 @@ Role required: admin
 
         For example, **Successfactor SAML OAuth**.
 
-        ![OAuth entiy profile record.](../image/sapsf-assertion-oauth.png)
+        ![OAuth entiy profile record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-assertion-oauth.png)
 
     5.  Click **Update**.
 
@@ -299,7 +299,7 @@ OAuth Entity Profile
 
 </td><td>
 
-OAuth entity profile record that is associated with the OAuth application registry you had created. For example, `Successfactor SAML default_profile`.For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](setup-successfactors.md#).
+OAuth entity profile record that is associated with the OAuth application registry you had created. For example, `Successfactor SAML default_profile`.For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).
 
 </td></tr><tr><td>
 
@@ -318,7 +318,7 @@ Order
 Order to apply this credential. For example, enter `100`.
 
 </td></tr></tbody>
-</table>    ![OData credential record.](../image/sapsf-odata-cred.png)
+</table>    ![OData credential record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-odata-cred.png)
 
 5.  Click **Submit**.
 
@@ -371,7 +371,7 @@ OAuth Entity Profile
 
 </td><td>
 
-OAuth entity profile record associated with the OAuth application registry you had created. For example, `Successfactor SAML default_profile`.For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](setup-successfactors.md#).
+OAuth entity profile record associated with the OAuth application registry you had created. For example, `Successfactor SAML default_profile`.For more information about creating the application registry, see [Register SuccessFactors as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).
 
 </td></tr><tr><td>
 
@@ -390,7 +390,7 @@ Order
 Order to apply this credential. For example, enter `100`.
 
 </td></tr></tbody>
-</table>    ![SOAP credential record.](../image/sapsf-soap-cred.png)
+</table>    ![SOAP credential record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-soap-cred.png)
 
 5.  Click **Submit**.
 
@@ -462,7 +462,7 @@ Active
 Option to actively use the connection record.
 
 </td></tr></tbody>
-</table>    ![OData connection record.](../image/sapsf-odata-conn.png)
+</table>    ![OData connection record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-odata-conn.png)
 
 5.  Click **Submit**.
 
@@ -541,7 +541,7 @@ Option to actively use the connection record.
     |Company Id|Immutable Company ID of your SuccessFactors instance.|
     |Flow Timeout \(seconds\)|Maximum time in seconds up to which data can be received from SuccessFactors during the flow execution. If the time taken to retrieve data from SuccessFactors exceeds the timeout duration, the flow or subflow is cancelled. Default value is, `30`.|
 
-    ![SOAP connection record.](../image/sapsf-soap-conn.png)
+    ![SOAP connection record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/sapsf-soap-conn.png)
 
 6.  Click **Submit**.
 

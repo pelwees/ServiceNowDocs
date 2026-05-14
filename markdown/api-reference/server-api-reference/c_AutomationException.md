@@ -17,7 +17,7 @@ The AutomationException script include provides generic exception wrapping for a
 
 Include this in automation code to implement error handling.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## AutomationException - getMessage\(\)
 

@@ -88,5 +88,5 @@ Install Industrial Process Manager by requesting it from the ServiceNow Store. V
     The ServiceNow Operational Technology Manager enables you to aggregate OT device data from multiple sources so that you can build the foundational data relationships used in the Industrial solution.
 
 
-**Parent Topic:**[Operational Technology release notes](operational-technology-rn-landing.md)
+**Parent Topic:**[Operational Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/operational-technology-rn-landing.md)
 

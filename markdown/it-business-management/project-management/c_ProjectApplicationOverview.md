@@ -21,19 +21,19 @@ Introduction to Project and Program Management including the purpose of Project 
 
 <table id="table_cbf_kzj_pbc"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Project Management](c_ProjectApplicationOverview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the features and business value of Project Management](c_ProjectApplicationOverview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration](configuring-project-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration](configuring-project-management.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Manage projects with Project Management](using-project-management.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Manage projects with Project Management](using-project-management.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Management](../reference/project-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Project Management](../reference/project-management-reference.md)
 
 </td></tr></tbody>
 </table>

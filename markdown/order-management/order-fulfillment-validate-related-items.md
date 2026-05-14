@@ -71,7 +71,7 @@ The ServiceNow AI Platform displays a message that confirms whether the order in
 
 ## What to do next
 
-[Approve orders in Order Management](som-om-approve-product-order.md)
+[Approve orders in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-om-approve-product-order.md)
 
 **Note:** Upon approving for the change and disconnect type of order requests with horizontal relationships, the ServiceNow system analyzes its impact on the product inventory relationships and displays a message if it invalidates the existing relationships due to the impact of the requested change by the customer.
 

@@ -126,7 +126,7 @@ The Catalog Order Guide page that opens when the catalog order guide is accessed
 </table>**Related topics**  
 
 
-[Portal Browse Taxonomy widget](../concept/browse-taxo-widget.md)
+[Portal Browse Taxonomy widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/browse-taxo-widget.md)
 
-[Add and configure the Portal Browse Taxonomy widget](../task/config-portal-browse-taxo-widget.md)
+[Add and configure the Portal Browse Taxonomy widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-portal-browse-taxo-widget.md)
 

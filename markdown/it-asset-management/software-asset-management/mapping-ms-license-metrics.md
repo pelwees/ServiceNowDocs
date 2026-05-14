@@ -621,8 +621,8 @@ Per Core
 
 Same as above.**Note:** If you are already using SQL Server Enterprise edition with \(Server/CAL\) server licenses with software assurance, continue to use the Server+CAL licensing model. Use license metric as Server \(per Server\) for Server Licensing and User/Device CAL for CAL licensing. The new purchases for SQL Server Enterprise will be based only on the Per Core licensing model.
 
-For more information about licenses required for Server + CAL licensing model, see [Licensing support for Microsoft SQL Server enterprise on Server+ CAL](../concept/microsoft-sql-server-enterprise-edition-licensing-modal.md).
+For more information about licenses required for Server + CAL licensing model, see [Licensing support for Microsoft SQL Server enterprise on Server+ CAL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/microsoft-sql-server-enterprise-edition-licensing-modal.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

@@ -25,13 +25,13 @@ Role required: sn\_dex.user
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](../image/icon-applications.png)\).
+2.  In the primary navigation pane, select the Applications icon \(![The Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-applications.png)\).
 
 3.  Select a web application name.
 
 4.  Select **Performance** under **Application metrics**.
 
-    You can view information on the users, sessions, response time, page load time, and availability. For more information on the metrics, see [Web application — Performance page](../reference/web-app-health-form.md).
+    You can view information on the users, sessions, response time, page load time, and availability. For more information on the metrics, see [Web application — Performance page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/web-app-health-form.md).
 
     **Note:** If you set up a page-level monitoring for specific application pages, you can see the collected metrics in the Metrics analyzer. Select one or more pages under **Pages** and narrow down your data by location, OS, or date range.
 

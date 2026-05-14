@@ -17,7 +17,7 @@ Release a scope from the application repository so that the scope can be used to
 
 ## Before you begin
 
-You can release an application scope only if the scope isn't being used by any application. If your scope is being used by an application, follow the steps in [Delete an application from the application repository](delete-custom-app.md) before releasing the scope.
+You can release an application scope only if the scope isn't being used by any application. If your scope is being used by an application, follow the steps in [Delete an application from the application repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/delete-custom-app.md) before releasing the scope.
 
 Role required: Primary customer admin of the account
 
@@ -35,6 +35,6 @@ The application repository stores the scopes of all your custom applications. Yo
 
 4.  Open the Scopes tab.
 
-5.  Next to the scope listing, click the trash icon \(![Trash icon](../../app-engine-studio/image/trash-icon.png)\).
+5.  Next to the scope listing, click the trash icon \(![Trash icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/application-repository-self-hosted/../../app-engine-studio/image/trash-icon.png)\).
 
 

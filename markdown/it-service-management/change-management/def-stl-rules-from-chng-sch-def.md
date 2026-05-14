@@ -103,12 +103,12 @@ Color of the schedule span displayed for each record on the timeline that matche
     **Note:** Style rules that you create from a change schedule definition take precedence over the style rules that exist in the base style rule table \[chg\_soc\_style\_rule\].
 
 
-**Parent Topic:**[Style rules definition](../concept/style-rules-definition.md)
+**Parent Topic:**[Style rules definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/style-rules-definition.md)
 
 **Related topics**  
 
 
-[Define default style rules](def-stl-rules-from-stl-rules-table.md)
+[Define default style rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/def-stl-rules-from-stl-rules-table.md)
 
-[Define style rules from Change Schedules View](define-style-rules-from-view.md)
+[Define style rules from Change Schedules View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/define-style-rules-from-view.md)
 

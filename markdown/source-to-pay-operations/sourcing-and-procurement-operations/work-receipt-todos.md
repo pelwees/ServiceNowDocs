@@ -65,5 +65,5 @@ Confirms receipt of all the orders. On the **Confirm you received everything** w
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Shopper to-dos](../reference/shopper-todos.md)
+**Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/shopper-todos.md)
 

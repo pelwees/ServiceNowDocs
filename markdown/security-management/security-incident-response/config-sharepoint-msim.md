@@ -40,7 +40,7 @@ Role required: admin
 
     -   Certificate \(Applications Permissions\)
 
-        ![SharePoint setup for certificate](../image/sharepoint-setup-msim.png)
+        ![SharePoint setup for certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sharepoint-setup-msim.png)
 
         |Field|Description|
         |-----|-----------|
@@ -54,7 +54,7 @@ Role required: admin
 
     -   Client Secret \(Applications Permissions\)
 
-        ![SharePoint setup for client secret](../image/sharepoint-setup-clientsecret.png)
+        ![SharePoint setup for client secret](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sharepoint-setup-clientsecret.png)
 
         |Field|Description|
         |-----|-----------|
@@ -73,5 +73,5 @@ Role required: admin
     A successful message appears and the connection is established.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](../concept/integrate-msim-sharepoint.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-sharepoint.md)
 

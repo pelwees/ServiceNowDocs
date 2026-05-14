@@ -55,7 +55,7 @@ Role required: sp\_admin
 
 ## What to do next
 
-Open the Performance details window to view how long the custom widget takes to load data: [View widget performance metrics](view-widget-performance-metrics.md)
+Open the Performance details window to view how long the custom widget takes to load data: [View widget performance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-widget-performance-metrics.md)
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/improve-manage.md)
 

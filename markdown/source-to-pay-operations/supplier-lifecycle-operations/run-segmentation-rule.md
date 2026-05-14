@@ -23,11 +23,11 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**.
 
 3.  In the Name column, select the link to the segmentation rule.
 
-4.  Select **Execute**.![Selected Execute button for running a segmentation rule.](../image/run-segmentation-rule.png)
+4.  Select **Execute**.![Selected Execute button for running a segmentation rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/run-segmentation-rule.png)
 
 
 ## Result
@@ -40,20 +40,20 @@ Running the segmentation rule does the following:
 
 **Note:** If the number of suppliers to be processed in the segmentation rule is too large, it may lead to a risk of a timeout.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
-[Complete a KPI collection task from the Source-to-Pay Workspace](complete-kpi-task-spw.md)
+[Complete a KPI collection task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-spw.md)
 
-[Complete a KPI collection task from the Supplier Collaboration Portal](complete-kpi-task-scp.md)
+[Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md)
 
-[View KPI data from the List page of the Source-to-Pay Workspace](view-kpi-data-slo.md)
+[View KPI data from the List page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-kpi-data-slo.md)
 
-[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](kpi-mgmt-tab-supplier.md)
+[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md)
 
-[View supplier performance dashboard](view-supplier-performance-dashboard.md)
+[View supplier performance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 

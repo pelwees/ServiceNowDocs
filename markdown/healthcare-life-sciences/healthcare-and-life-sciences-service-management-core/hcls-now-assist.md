@@ -31,7 +31,7 @@ Now Assist can be configured for any type of HCLS case.
 
 ## Using case summarization in HCLS
 
-![The Now Assist panel in Workspace prior to generating a summary.](../image/hcls-case-summarizartion-option.png)
+![The Now Assist panel in Workspace prior to generating a summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-case-summarizartion-option.png)
 
 The case summary panel is displayed on the Overview tab.
 
@@ -42,7 +42,7 @@ Click Summarize to generate a summary based on the following field inputs:
 -   Work notes
 -   Additional comments
 
-![The Now Assist case summarization summary panel after generating a summary.](../image/hcls-case-summarization-complete.png)
+![The Now Assist case summarization summary panel after generating a summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-case-summarization-complete.png)
 
 The summary displays in the case summary panel once generated. Users can give feedback and share the summary to their work notes.
 

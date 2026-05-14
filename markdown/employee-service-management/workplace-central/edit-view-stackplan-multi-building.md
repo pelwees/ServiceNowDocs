@@ -17,11 +17,11 @@ Edit a scenario using the stack plan to allocate spaces to departments, cost cen
 
 ## Before you begin
 
-Ensure that you have created a scenario, and it is in the Draft state. For more information, see [Create a scenario](create-a-scenario.md).
+Ensure that you have created a scenario, and it is in the Draft state. For more information, see [Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md).
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/concept/reviewing-allocation-changes.md).
 
-![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
+![Space details panel displaying a warning about reviewing allocation changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-central-review-changes.png)
 
 Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reader \(read only; to view a scenario\)
 
@@ -43,7 +43,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 
     The **Group by** option is automatically filled based on the Allocation type \[**sn\_wsd\_core.ALLOCATION\_TYPE**\] system property.
 
-4.  Select the Accordion panel icon \(![Accordion icon for a building to show or hide floors within a building.](../images/wsd-building-accordion-icon.png)\) for the building that you want to edit.
+4.  Select the Accordion panel icon \(![Accordion icon for a building to show or hide floors within a building.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-building-accordion-icon.png)\) for the building that you want to edit.
 
     You can expand an accordion to display the floors of a building. If your scenario contains multiple buildings, the accordion of the last building is expanded by default.
 
@@ -66,7 +66,7 @@ Steps
 
 </td><td>
 
-Use the zoom options \(![Zoom options.](../images/zoom-options.png)\) on the stack plan.
+Use the zoom options \(![Zoom options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/zoom-options.png)\) on the stack plan.
 
 </td></tr><tr><td id="d164667e219">
 
@@ -121,12 +121,12 @@ This step is applicable if the Group by option is Workplace Entity.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+**Parent Topic:**[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
 **Related topics**  
 
 
-[Edit a scenario using the floor map](edit-scenario-floor-map.md)
+[Edit a scenario using the floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-scenario-floor-map.md)
 
-[Edit user assignments of a neighborhood](add-or-edit-user-assignments-of-a-neighbourhood.md)
+[Edit user assignments of a neighborhood](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/add-or-edit-user-assignments-of-a-neighbourhood.md)
 

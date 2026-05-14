@@ -23,13 +23,13 @@ Role required: itil or admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the **List** \(![List icon](../image/list-icon-new.png)\) icon.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/list-icon-new.png)\) icon.
 
 3.  Select **Interactions** &gt; **Open**.
 
 4.  Select the interaction record.
 
-5.  Select the **Collaborate** icon \(![Collaborate icon](../image/collab-icon-02.png)\) from the contextual side panel.
+5.  Select the **Collaborate** icon \(![Collaborate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/collab-icon-02.png)\) from the contextual side panel.
 
 6.  Select **Start Microsoft Teams chat**.
 
@@ -49,7 +49,7 @@ Role required: itil or admin
 
         -   A chat conversation is initiated in Microsoft Teams.
         -   All automatic chats are automatically imported to the **Collaborate** panel.
-9.  To view a chat conversation, click the more options icon \(![more options icon](../image/more-options-card.png)\) on the chat and select **View chat**.
+9.  To view a chat conversation, click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) on the chat and select **View chat**.
 
 10. To import a chat conversation, perform one of the following actions.
 
@@ -78,21 +78,21 @@ Description
 
 </td><td>
 
-1.  From the conversation that you are a member of, click the more options icon \(![more options icon](../image/more-options-card.png)\) and select **View chat**.
-2.  Click the filter chat messages icon \(![filter chat messages icon](../image/filter-icon.png)\) and select the type of messages you want to view.
+1.  From the conversation that you are a member of, click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) and select **View chat**.
+2.  Click the filter chat messages icon \(![filter chat messages icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/filter-icon.png)\) and select the type of messages you want to view.
 3.  Select the required messages and click **Import**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
 **Related topics**  
 
 
-[Create an interaction in Service Operations Workspace](create-interaction-sow.md)
+[Create an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-interaction-sow.md)
 
-[Work on an interaction in Service Operations Workspace](work-on-interaction-sow.md)
+[Work on an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-interaction-sow.md)
 
-[Associate an interaction with a task record](associate-interaction-record-sow.md)
+[Associate an interaction with a task record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/associate-interaction-record-sow.md)
 

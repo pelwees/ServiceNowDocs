@@ -15,7 +15,7 @@ breadcrumb: [Employee Readiness Surveys, Safe Workplace, Health and Safety, Empl
 
 The administrator can add or modify Employee Readiness Surveys notifications. Users with the sn\_imt\_checkin.checkin\_admin or survey\_admin role can view the base system survey and copy it to make changes, or add a new survey.
 
-**Parent Topic:**[Employee Readiness Surveys](../concept/employee-readiness-surveys.md)
+**Parent Topic:**[Employee Readiness Surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-readiness-surveys.md)
 
 ## Modify the Employee Readiness Surveys notification
 
@@ -35,7 +35,7 @@ Role required: admin
 
     The **Survey** field appears and the entry in the **Notification** field changes to **Outreach Surveys**.
 
-3.  Select the preview icon \(![Preview icon](../../safe-workplace-dashboard/image/icon-preview.png)\) beside the **Notification** field, and then select **Open record**.
+3.  Select the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../safe-workplace-dashboard/image/icon-preview.png)\) beside the **Notification** field, and then select **Open record**.
 
 4.  In the Notification form for this Outreach Surveys notification, modify the details as needed.
 
@@ -64,7 +64,7 @@ Role required: admin
 
 2.  Review the existing **Outreach Surveys** email notification to familiarize yourself with the scripts and other settings.
 
-    ![Displays the When to send tab in the Outreach Survey notification.](../image/ers-when-send-notif.png "Outreach Surveys base system notification")
+    ![Displays the When to send tab in the Outreach Survey notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/ers-when-send-notif.png "Outreach Surveys base system notification")
 
 3.  Select **New**.
 

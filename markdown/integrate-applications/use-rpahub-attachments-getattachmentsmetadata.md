@@ -23,7 +23,7 @@ Role required: none
 
 The maximum size of the attachments is 1024 MB.
 
-You can configure the properties for the GetAttachmentsMetadata component. For more information about these properties, see [Properties of the Attachment components](../reference/properties-attachment-components.md).
+You can configure the properties for the GetAttachmentsMetadata component. For more information about these properties, see [Properties of the Attachment components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/properties-attachment-components.md).
 
 ## Procedure
 
@@ -31,7 +31,7 @@ You can configure the properties for the GetAttachmentsMetadata component. For m
 
 2.  Drag the GetAttachmentsMetadata component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the GetAttachmentsMetadata component to the corresponding ports of the other components.
 
@@ -108,5 +108,5 @@ Object
 </table>5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Attachments](../concept/attachments.md)
+**Parent Topic:**[Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/attachments.md)
 

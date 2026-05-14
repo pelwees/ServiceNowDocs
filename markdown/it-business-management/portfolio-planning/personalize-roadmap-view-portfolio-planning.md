@@ -59,19 +59,19 @@ From the Free-form Roadmaps tab, select a roadmap.
 </td></tr></tbody>
 </table>2.  Modify the scale of the timeline of your roadmap.
 
-    Select the time scale icon \(![Time scale icon.](../../alignment-planner-workspace/images/timescale-icon.png)\) and choose **Month**, **Quarter**, or **Year**.
+    Select the time scale icon \(![Time scale icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/timescale-icon.png)\) and choose **Month**, **Quarter**, or **Year**.
 
     **Note:** The timescale view that you choose is saved in the roadmap preferences.
 
 3.  Use the side panel to personalize how your roadmap looks like.
 
-    1.  From the side bar, select the Personalize icon \(![Personalize icon.](../../alignment-planner-workspace/images/personalize-icon.png)\).
+    1.  From the side bar, select the Personalize icon \(![Personalize icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/personalize-icon.png)\).
 
     2.  Group and color your roadmap items by the available attributes.
 
         You can group the roadmap items by up to two attributes and color-code them by one attribute.
 
-        You can work with your admin to add other attributes for the Group by, Color by, and Metrics fields. See [Customize the planning item display preferences for Prioritization and Roadmap in Portfolio Planning Workspace](update-source-table-preferences-roadmap-portfolio-planning.md).
+        You can work with your admin to add other attributes for the Group by, Color by, and Metrics fields. See [Customize the planning item display preferences for Prioritization and Roadmap in Portfolio Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-source-table-preferences-roadmap-portfolio-planning.md).
 
     3.  Enable visibility of owners of the roadmap items by using the **Owner** toggle.
 
@@ -79,15 +79,15 @@ From the Free-form Roadmaps tab, select a roadmap.
 
         You can add up to three metrics.
 
-        ![Sample metrics on roadmap items.](../../spw-roadmap/images/metrics-fields-on-roadmap.png)
+        ![Sample metrics on roadmap items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/metrics-fields-on-roadmap.png)
 
     5.  If your roadmap items \(such as projects, epics, or demands\) have milestones, adjust how they’re displayed using the toggles in the Milestones section.
 
-        For more information, see [Customizing milestone display on roadmap](../reference/customizing-milestone-display-roadmap-portfolio-planning.md).
+        For more information, see [Customizing milestone display on roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/customizing-milestone-display-roadmap-portfolio-planning.md).
 
     6.  If your roadmap items have dependencies, adjust how they’re displayed using the toggles in the Dependencies section.
 
-        For more information, see [Customizing roadmap item dependency display](../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md).
+        For more information, see [Customizing roadmap item dependency display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md).
 
     7.  Identify the current date on your timeline using the current date indicator.
 
@@ -95,7 +95,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 4.  Filter the data shown on the roadmap by applying conditions to the planning items.
 
-    1.  From the sidebar, select the Filter roadmap items icon \(![Filter roadmap items icon.](../../alignment-planner-workspace/images/icon-filter-roadmap.png)\).
+    1.  From the sidebar, select the Filter roadmap items icon \(![Filter roadmap items icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-filter-roadmap.png)\).
 
         The side panel opens to show the currently applied filters in the Filter overview.
 
@@ -105,21 +105,21 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     3.  Select **Apply**.
 
-5.  Quickly enable or disable the display of dependency lines between the roadmap items using the Display dependency lines icon \(![Display dependency lines icon.](../../alignment-planner-workspace/images/icon-dependency-lines.png)\).
+5.  Quickly enable or disable the display of dependency lines between the roadmap items using the Display dependency lines icon \(![Display dependency lines icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-dependency-lines.png)\).
 
 6.  Zoom in, zoom out, and reset the zoom of your roadmap view by using the zoom options.
 
-    ![Roadmap zoom options.](../../spw-roadmap/images/roadmap-zoom-options.png)
+    ![Roadmap zoom options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/roadmap-zoom-options.png)
 
     **Note:** The zoom level that you choose isn’t saved as the roadmap preferences.
 
-7.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](quick-fiters-prioitization-roadmap-ppw.md)
+7.  [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/quick-fiters-prioitization-roadmap-ppw.md)
 
 
--   **[Customizing milestone display on roadmap](../reference/customizing-milestone-display-roadmap-portfolio-planning.md)**  
+-   **[Customizing milestone display on roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/customizing-milestone-display-roadmap-portfolio-planning.md)**  
 Easily track the milestones of your roadmap timeline or its planning items by choosing how the milestones are displayed on the roadmap view.
--   **[Customizing roadmap item dependency display](../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md)**  
+-   **[Customizing roadmap item dependency display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/customizing-roadmap-item-dependency-display-portfolio-planning.md)**  
 Improve the efficiency of identifying the relationships between your planning items by choosing how the dependencies are displayed on the roadmap view.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

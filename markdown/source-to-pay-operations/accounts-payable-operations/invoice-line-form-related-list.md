@@ -21,5 +21,5 @@ The Invoice line form includes tabs that store invoice line information that an 
 |Exceptions|A list of exceptions on the invoice line.|
 |Receipts|Goods receipts for the purchase order line corresponding to the invoice line. This tab is shown only for the invoice of type **PO Invoice**.|
 
-**Parent Topic:**[Create New Invoice Line form](create-invoice-line-form.md)
+**Parent Topic:**[Create New Invoice Line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 

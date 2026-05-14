@@ -30,7 +30,7 @@ Role required: wm\_basic
 
 3.  In the **Show resources by** field, select **Assignment group** or **Territory**.
 
-    If **Territory** isn’t listed in the **Show resources by** field, have your administrator verify that [Field Service Territory Planning](../concept/configuring-territory-planning-fsm.md) is properly configured.
+    If **Territory** isn’t listed in the **Show resources by** field, have your administrator verify that [Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/configuring-territory-planning-fsm.md) is properly configured.
 
 4.  Select **Save**.
 
@@ -38,9 +38,9 @@ Role required: wm\_basic
 **Related topics**  
 
 
-[Configuring Field Service Territory Planning](../concept/configuring-territory-planning-fsm.md)
+[Configuring Field Service Territory Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/configuring-territory-planning-fsm.md)
 
-[Workforce system properties](../concept/workforce-system-properties.md)
+[Workforce system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/workforce-system-properties.md)
 
-[Configure territory view to allow users to see other members' schedules](enable-territory-view.md)
+[Configure territory view to allow users to see other members' schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/enable-territory-view.md)
 

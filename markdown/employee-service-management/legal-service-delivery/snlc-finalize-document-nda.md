@@ -23,7 +23,7 @@ Role required: sn\_cm\_core.contract \_fulfiller and sn\_lg\_cnt.contract\_fulfi
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  Select **Legal Requests**.
 
@@ -61,7 +61,7 @@ Steps
 1.  Select **Preview document**.
 2.  In the drop-down list, select the contract type.
 3.  Select **Preview**.
-4.  Select the Download icon \(![Download icon](../../contract-mgmt-pro/image/cncore-int-storage-dwnld.png)\).
+4.  Select the Download icon \(![Download icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cncore-int-storage-dwnld.png)\).
 5.  Edit the downloaded document.
 
 
@@ -110,7 +110,7 @@ The document is automatically saved in the external storage.
         -   **External Storage**- In the Document field, select the document. This option is displayed only if external storage is configured.
 10. Get approval of the updated document from stakeholders.
 
-    For more information, see [Initiate an ad hoc approval for a contract document revision](snlc-initiate-approval-cr.md).
+    For more information, see [Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-initiate-approval-cr.md).
 
 11. Return the contract document to the change requester.
 
@@ -123,5 +123,5 @@ The document is automatically saved in the external storage.
 
 The document is sent back to the user and the Contract status updates to Document ready to indicate that the contract document has been updated according to the change request.
 
-**Parent Topic:**[Reviewing and finalizing a self-served contract document](snlc-review-finalize-contract.md)
+**Parent Topic:**[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)
 

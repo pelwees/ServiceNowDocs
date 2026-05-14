@@ -65,7 +65,7 @@ Steps
 1.  Right-click the connector leading to the CI you want to remove.
 2.  Select **Mark boundary**.
 
-The CI is marked as boundary on the map \(![The boundary icon](../image/MapBoundaryIcon.png)\).
+The CI is marked as boundary on the map \(![The boundary icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapBoundaryIcon.png)\).
 
  **Note:** Ensure that you are looking at the map in Edit view.
 
@@ -81,7 +81,7 @@ The CI is marked as boundary on the map \(![The boundary icon](../image/MapBound
 
 2.  Select **Show traffic based connections**.
 
-The Traffic Based Connections List opens. See [Traffic-based connections list](../reference/traffic-based-connections-list.md).
+The Traffic Based Connections List opens. See [Traffic-based connections list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/traffic-based-connections-list.md).
 
 3.  In the **Traffic Based Connections List**, identify the connection used to discover the unwanted CI.
 4.  Select `Remove` from the **User decision** field for this connection.
@@ -94,14 +94,14 @@ The Traffic Based Connections List opens. See [Traffic-based connections list](.
 
 </td><td>
 
-Perform the procedure described in [Add or remove CIs for single application services using connection suggestions](add-remove-ci-connections-services.md).
+Perform the procedure described in [Add or remove CIs for single application services using connection suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/add-remove-ci-connections-services.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Fine-tune application services to implement owner requests](review-implement-business-service-maps.md)
+**Parent Topic:**[Fine-tune application services to implement owner requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/review-implement-business-service-maps.md)
 
 **Related topics**  
 
 
-[Enable traffic-based discovery for CI types or specific CIs](t_CreateATrafficBasedDiscoveryRule.md)
+[Enable traffic-based discovery for CI types or specific CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateATrafficBasedDiscoveryRule.md)
 

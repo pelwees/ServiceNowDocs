@@ -23,9 +23,9 @@ DevOps Config investigation with config data
 
 Use root cause analysis of configuration-related outages or alerts to quickly identify and resolve unintended config data changes, also known as configuration "drift." Compare current and past versions of intended config data changes attached to change requests, and roll back to the desired state when needed.
 
-For more information, see [Investigate an alert that involves a change to config data](../../configuration-data-management/task/cdm-d2a-investigate-cfg-changes.md).
+For more information, see [Investigate an alert that involves a change to config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../configuration-data-management/task/cdm-d2a-investigate-cfg-changes.md).
 
-![DevOps Config Use Cases for applications and Infrastructure as Code](../image/devops-config-explore.png)
+![DevOps Config Use Cases for applications and Infrastructure as Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-explore.png)
 
 ## Manage your configuration data
 
@@ -65,14 +65,14 @@ Validation before deployment occurs by executing policies on the configuration d
     Since the tool integrates with the existing toolset, there's no change to the way work is done and there are no new tools to learn. Changes made to configuration data are validated in the background, and when the outcome is reported, action can be taken.
 
 
--   **[DevOps Config and DevOps Change Velocity](devops-config-devops-change.md)**  
+-   **[DevOps Config and DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-devops-change.md)**  
 DevOps Change Velocity collects data from all of your DevOps tools, providing visibility across the entire lifecycle of deployment, while DevOps Config manages and validates your DevOps configuration data.
--   **[Using an app in DevOps Config](devops-config-app.md)**  
+-   **[Using an app in DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-app.md)**  
 When you create an app in DevOps Config, not only is it the container for the config data of the application, but the application model you choose links DevOps Config with other ServiceNow products, including DevOps Change Velocity.
--   **[DevOps Config powered by CDM and PaCE](devops-config-capabilities.md)**  
+-   **[DevOps Config powered by CDM and PaCE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-capabilities.md)**  
 DevOps Config uses Configuration Data Management and Policy as Code Engine platform capabilities to manage configuration data and policies.
--   **[DevOps Config terms](../reference/devops-config-terms.md)**  
+-   **[DevOps Config terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/devops-config-terms.md)**  
 These are some of the common DevOps Config terms.
 
-**Parent Topic:**[DevOps Config](devops-config-landing-page.md)
+**Parent Topic:**[DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-landing-page.md)
 

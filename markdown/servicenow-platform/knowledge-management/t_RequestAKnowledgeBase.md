@@ -42,14 +42,14 @@ You are notified when the request is approved or rejected. If the request is app
 
 Knowledge bases created through this request process are inactive by default, so you must activate the knowledge base to make it available for users.
 
-**Parent Topic:**[Using Knowledge Management](../concept/using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/using-knowledge-management.md)
 
 **Related topics**  
 
 
-[Assign a knowledge base manager](t_AssignAKnowledgeBaseManager.md)
+[Assign a knowledge base manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_AssignAKnowledgeBaseManager.md)
 
-[Add a knowledge article to featured content](t_PinAnArticle.md)
+[Add a knowledge article to featured content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_PinAnArticle.md)
 
-[Create a knowledge article](create-knowledge-article.md)
+[Create a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md)
 

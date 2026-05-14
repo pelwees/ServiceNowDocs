@@ -36,5 +36,5 @@ The following are additional configuration settings:
     -   **Run Antivirus Scan Timeout \(in minutes\):** Indicates the execution threshold for the Run Antivirus Scan capability.
     -   **Stop and Quarantine File Timeout \(in minutes\):** Indicates the execution threshold for the Stop and Quarantine File capability.
 
-![Additional configuration settings after you complete the installation](../image/ms_defender_default_settings.png "Default Settings")
+![Additional configuration settings after you complete the installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms_defender_default_settings.png "Default Settings")
 

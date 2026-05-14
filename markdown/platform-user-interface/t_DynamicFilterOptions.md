@@ -21,7 +21,7 @@ Role required: admin
 
 This task describes how to create a new dynamic filter option and an associated [script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ScriptIncludes.md).
 
-Dynamic filter options "objectize" script includes/JavaScript, enabling them to be reused in multiple [condition builders](../../common-ui-elements/concept/c_ConditionBuilder.md) and dynamic [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md). This type of filter enables you to modify a script once and have the changes automatically take effect everywhere the dynamic filter option is used.
+Dynamic filter options "objectize" script includes/JavaScript, enabling them to be reused in multiple [condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../common-ui-elements/concept/c_ConditionBuilder.md) and dynamic [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md). This type of filter enables you to modify a script once and have the changes automatically take effect everywhere the dynamic filter option is used.
 
 When defining a dynamic filter, you can:
 
@@ -29,11 +29,11 @@ When defining a dynamic filter, you can:
 -   use an existing dynamic filter option \(OOB or custom\)
 -   create a new dynamic filter option and script include/JavaScript
 
-All condition builder dynamic filters use the **is \(dynamic\)** operator and call a dynamic filter option. In the following example, the pre-existing dynamic filter option **Me** is being used. For a list of available pre-existing condition builder dynamic filter options, see [Dynamic operators](../reference/r_UsingTheDynamicOperator.md).
+All condition builder dynamic filters use the **is \(dynamic\)** operator and call a dynamic filter option. In the following example, the pre-existing dynamic filter option **Me** is being used. For a list of available pre-existing condition builder dynamic filter options, see [Dynamic operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_UsingTheDynamicOperator.md).
 
 **Note:** Dynamic filters are supported in scoped applications, but they are not supported in UI policy conditions.
 
-![Dynamic operands](../image/DynamicOperands.png "Dynamic operands")
+![Dynamic operands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/DynamicOperands.png "Dynamic operands")
 
 ## Procedure
 
@@ -64,14 +64,14 @@ All condition builder dynamic filters use the **is \(dynamic\)** operator and ca
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Filter admin functions](../concept/filter-admin-functions.md)
+**Parent Topic:**[Filter admin functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/filter-admin-functions.md)
 
 **Related topics**  
 
 
-[Create and edit filters](t_EditingSavedFilters.md)
+[Create and edit filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditingSavedFilters.md)
 
-[Delete filters](t_DeletingFilters.md)
+[Delete filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_DeletingFilters.md)
 
-[Create scripted filters](t_ScriptedFilters.md)
+[Create scripted filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ScriptedFilters.md)
 

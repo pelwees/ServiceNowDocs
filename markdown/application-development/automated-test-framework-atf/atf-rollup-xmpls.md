@@ -19,13 +19,13 @@ Examples of relationship terms and how aggregated results roll up for test suite
 
 The base test suite is the top-level test suite in the hierarchy. For example, if you are viewing the test suite results record for \(A\) Test Suite 1.3.1, the **base test suite result** field links to the test suite results record for \(B\) Test Suite 1.
 
-![Example: Base test suite result](../image/test-suite-hierarchy_base.png)
+![Example: Base test suite result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/test-suite-hierarchy_base.png)
 
 ## Example: Parent test suite results
 
 The parent test suite is the test suite immediately above the one you are currently viewing. For example, ff you are viewing the test suite results record for \(A\) Test Suite 1.3.1, the **parent** field links to the test suite results record for \(B\) Test Suite 1.3.
 
-![Example: Parent test suite results](../image/test-suite-hierarchy-parent.png)
+![Example: Parent test suite results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/test-suite-hierarchy-parent.png)
 
 ## Rolled up counts for test suites results
 
@@ -35,13 +35,13 @@ For example, if you are viewing the test suite results record for \(A\) Test Sui
 
 If you are viewing the test suite results record for \(B\) Test Suite 1.3.1, the **Rolled up test success count** field shows the total number of successes counting results from all the tests represented by boxes labeled B.
 
-![Rolled up counts for test suites results](../image/test-suite-rollup-success.png)
+![Rolled up counts for test suites results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/test-suite-rollup-success.png)
 
 ## Child Test Suites Results
 
 If you are viewing the test suite results record for \(A\) Test Suite 1, the **Child Test Suites Results** related list shows result records for Test Suite 1.3 \(B\).
 
-![Rolled up counts for test suites results](../image/test-suite-hierarchy-child.png)
+![Rolled up counts for test suites results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/test-suite-hierarchy-child.png)
 
 ## All Test Suites Results
 
@@ -49,7 +49,7 @@ If you are viewing the test suite results record for \(A\) Test Suite 1, the **A
 
 If you are viewing the test suite results record for \(B\) Test Suite 1.3, the **All Suites Results** related list shows result records for all Test Suite 1.3.1 only \(represented by the box labeled B\)
 
-![Child Test Suites Results](../image/test-suite-hierarchy-all-suites.png)
+![Child Test Suites Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/test-suite-hierarchy-all-suites.png)
 
-**Parent Topic:**[Suite results](../concept/suite-results-module.md)
+**Parent Topic:**[Suite results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/suite-results-module.md)
 

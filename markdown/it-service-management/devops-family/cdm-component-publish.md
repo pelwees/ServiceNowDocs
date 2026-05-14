@@ -31,7 +31,7 @@ When a version is unpublished, it means that the component and its version can n
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Click the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\) in the left navigation pane to open the **Component libraries** list tab.
+2.  Click the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\) in the left navigation pane to open the **Component libraries** list tab.
 
 3.  Select a component library from the **Component libraries** list tab.
 
@@ -63,7 +63,7 @@ Select an unpublished version from the list and select **Publish**.If there’s 
 
 </td><td>
 
-Select a published version from the list, select the ![Down arrow button.](../image/icon-down-arrow-button.png), and then select **Unpublish**.The selected version of the component is unpublished and the **Published** value updates to **false**.
+Select a published version from the list, select the ![Down arrow button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-down-arrow-button.png), and then select **Unpublish**.The selected version of the component is unpublished and the **Published** value updates to **false**.
 
 </td></tr></tbody>
 </table>

@@ -30,9 +30,9 @@ Configure a process to be able to generate a cluster analysis.
 
 2.  Open the process configuration for which you want to configure the cluster analysis.
 
-    Alternately, you can also choose to create a new process configuration by selecting **New**. For more information, see [Create process configuration using Classic view](create-process-config.md).
+    Alternately, you can also choose to create a new process configuration by selecting **New**. For more information, see [Create process configuration using Classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-process-config.md).
 
-    ![Configuring cluster analysis](../image/config-cluster-analysis.png)
+    ![Configuring cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/config-cluster-analysis.png)
 
 3.  In the **Cluster Analysis** tab, select the search icon from the **Clustering solution definition** field.
 
@@ -47,7 +47,7 @@ Configure a process to be able to generate a cluster analysis.
 
 ## What to do next
 
-[Perform a cluster analysis](request-cluster-analysis.md)
+[Perform a cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/request-cluster-analysis.md)
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/cluster-analysis.md)
 

@@ -36,13 +36,13 @@ Deleting an NLU model removes the model and its contents, including its default 
 
 3.  On the far right column of the model list, select the more the **More options** menu for the model you want to delete.
 
-    ![The More options menu in the model list](../images/delete-nlu-model02.png)
+    ![The More options menu in the model list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/delete-nlu-model02.png)
 
 4.  Select the option to **Delete this model**.
 
 5.  Select the check box to acknowledge that all references to this model will be deleted.
 
-    ![Confirmation popup for Delete model](../images/delete-nlu-model03.png)
+    ![Confirmation popup for Delete model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/delete-nlu-model03.png)
 
 6.  Select **Delete model**.
 

@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-\(![Application server icon.](../image/EventManagementAppSvrIcon.png)\)
+\(![Application server icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementAppSvrIcon.png)\)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Represents applications such as Microsoft IIS or SQL servers.
 
 </td></tr><tr><td>
 
-\(![Call server icon.](../image/EventManagementCallCntrIcon.png)\)
+\(![Call server icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementCallCntrIcon.png)\)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Represents physical and VM computers and servers.
 
 </td></tr><tr><td>
 
-\(![Entry point icon.](../image/EventManagementEntryPtIcon.png)\)
+\(![Entry point icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementEntryPtIcon.png)\)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Represents the network starting point. For example, Layer 3 devices appear towar
 
 </td></tr><tr><td>
 
-\(![Redundancy box icon.](../image/EM_RedundancyArrowIcon.png)\)
+\(![Redundancy box icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EM_RedundancyArrowIcon.png)\)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Shows the number of redundant CIs.
 
 </td></tr><tr><td>
 
-\(![Load balancer icon.](../image/EventManagementLBIcon.png)\)
+\(![Load balancer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementLBIcon.png)\)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Shows the workload between machines.
 
 </td></tr><tr><td>
 
-\(![Gray connector icon.](../image/EventManagementArrow.png)\)
+\(![Gray connector icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementArrow.png)\)
 
 </td><td>
 
@@ -86,7 +86,7 @@ The gray connector shows a relationship between CIs.
 
 </td></tr><tr><td>
 
-\(![CI with no active alerts box icon.](../image/EventManagementUnselectBoxNoSeverityIcon.png)\)
+\(![CI with no active alerts box icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementUnselectBoxNoSeverityIcon.png)\)
 
 </td><td>
 
@@ -94,7 +94,7 @@ Each CI with no active alerts box represents a network CI. A gray box represents
 
 </td></tr><tr><td>
 
-\(![Redundancy box icon.](../image/EMRedundancyBoxIcon.png)\)
+\(![Redundancy box icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMRedundancyBoxIcon.png)\)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Hides multiple CIs that are designated as redundant.
 
 </td></tr><tr><td>
 
-\(![Box with orange severity color icon.](../image/EventManagementUnselectBoxIcon.png)\)
+\(![Box with orange severity color icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementUnselectBoxIcon.png)\)
 
 </td><td>
 
@@ -115,7 +115,7 @@ An impacted CI displays the color that represents the severity of the alert asso
 
 </td></tr><tr><td>
 
-\(![Storage icon.](../image/EventManagementStorageIcon.png)\)
+\(![Storage icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementStorageIcon.png)\)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Represents a fiber channel, hard drives, or other data storage devices.
 
 </td></tr><tr><td>
 
-\(![Web server icon.](../image/EventManagementWebSvcIcon.png)\)
+\(![Web server icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementWebSvcIcon.png)\)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Represents related web services for the network such as NGINX or JBoss web serve
 **Related topics**  
 
 
-[Alert impact calculation](c_EMImpactCalculation.md)
+[Alert impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMImpactCalculation.md)
 
-[View an alert impact on CIs in a service map](../task/t_EMViewTopology.md)
+[View an alert impact on CIs in a service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/t_EMViewTopology.md)
 

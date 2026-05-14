@@ -339,7 +339,7 @@ A new connection appears in the list of observability data sources. You use this
 
 ## What to do next
 
-Map your connection to the services that you want to monitor in Service Observability. See [Create and manage data mappings](create-and-manage-observability-data-mappings.md).
+Map your connection to the services that you want to monitor in Service Observability. See [Create and manage data mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/create-and-manage-observability-data-mappings.md).
 
-**Parent Topic:**[Configuring Service Observability](../concept/configuring-service-observability.md)
+**Parent Topic:**[Configuring Service Observability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/../concept/configuring-service-observability.md)
 

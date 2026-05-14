@@ -35,7 +35,7 @@ Role required: sn\_sec\_tisc.analyst
 
     The Edit Timeline Event\(s\) dialog box displays.
 
-    ![Edit timeline event](../image/tisc-add-timeline-event01.png)![Add events to the timeline](../image/tisc-add-timeline-event.png)
+    ![Edit timeline event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-add-timeline-event01.png)![Add events to the timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-add-timeline-event.png)
 
 7.  Select **Add Event** to add the custom timeline event.
 
@@ -45,8 +45,8 @@ Role required: sn\_sec\_tisc.analyst
 
     The event will be linked to the selected object and also include its timestamp. The visual presentation of the event including the icon and its color reflects the configuration defined during the setup.
 
-    For information on how the timeline events are configured, see [Configure Custom Event Types for Timeline](tisc-config-timeline.md).
+    For information on how the timeline events are configured, see [Configure Custom Event Types for Timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-timeline.md).
 
 
-**Parent Topic:**[Using Timeline in Investigation Canvas](tisc-timeline-events.md)
+**Parent Topic:**[Using Timeline in Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-timeline-events.md)
 

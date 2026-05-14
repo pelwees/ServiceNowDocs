@@ -25,7 +25,7 @@ By duplicating a dashboard, you can modify or upgrade one copy without affecting
 
 **Note:** Duplicating a dashboard does not duplicate the widgets displayed on the dashboard. You can rearrange or remove widgets from one copy of the dashboard without affecting the other. However, modifying a widget record affects both the original dashboard and the duplicate.
 
-To copy a dashboard that is not part of an Platform Analytics Solution, see [Manage responsive dashboards](manage-responsive-dashboards.md#).
+To copy a dashboard that is not part of an Platform Analytics Solution, see [Manage responsive dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/manage-responsive-dashboards.md#).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ To copy a dashboard that is not part of an Platform Analytics Solution, see [Man
 
 3.  On the Solutions form, click the **Duplicate Dashboard** icon \(![](../image/icon-duplicate-dashboard.png)\).
 
-    ![Section of Solutions form with Duplicate dashboard icon highlighted](../image/dupl-solution-db.png)
+    ![Section of Solutions form with Duplicate dashboard icon highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/dupl-solution-db.png)
 
 4.  Confirm that you want to duplicate the dashboard.
 
@@ -44,5 +44,5 @@ To copy a dashboard that is not part of an Platform Analytics Solution, see [Man
 
 A copy of the dashboard with the name Copy of \(original dashboard name\) is created. You can view it in the Dashboards Overview.
 
-**Parent Topic:**[Install a dashboard](install-content.md)
+**Parent Topic:**[Install a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content.md)
 

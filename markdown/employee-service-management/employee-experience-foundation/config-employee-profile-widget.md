@@ -35,7 +35,7 @@ The Employee Profile overview widget displays useful information about an employ
 
 3.  On the Overview Section form, fill in the fields.
 
-    For a description of the field values, see [Overview section form](../reference/profile-overview-section-form.md).
+    For a description of the field values, see [Overview section form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/profile-overview-section-form.md).
 
 4.  Select **Save**.
 
@@ -62,7 +62,7 @@ The Employee Profile overview widget displays useful information about an employ
     -   User Criteria: Provide the access only to specific users, groups, and roles with the user criteria. The field is visible to the users based on:
         -   Available For: User group for whom the field is visible. Define and select the user group based on your business needs.
         -   Not Available For: User group for whom the field isn’t visible. Define and select the user group based on your business needs.
-    Values that are defined in the Not Available For group take precedence over values defined in the Available For group. If both values aren’t defined, the field is visible to all users. For more information on field visibility based on user criteria, see [User Criteria output](../reference/user-criteria-output.md).
+    Values that are defined in the Not Available For group take precedence over values defined in the Available For group. If both values aren’t defined, the field is visible to all users. For more information on field visibility based on user criteria, see [User Criteria output](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/user-criteria-output.md).
 
     **Note:** Use the user criteria cautiously because the profile page load time can take longer based on your criteria.
 
@@ -89,7 +89,7 @@ You can edit or remove the banner by navigating to **All** &gt; **Employee Profi
 **Related topics**  
 
 
-[Modify the employee profile widget display](config-employee-profile-instance-options.md)
+[Modify the employee profile widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-employee-profile-instance-options.md)
 
-[Employee profile](../concept/employee-profile-portal.md)
+[Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-profile-portal.md)
 

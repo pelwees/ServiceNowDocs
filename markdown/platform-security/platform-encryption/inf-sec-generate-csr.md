@@ -19,9 +19,9 @@ Use the Generate Certificate Signing \(CSR\) page to create a certificate signin
 
 Role required: admin
 
-The Infrastructure Security \(com.glide.infrastructure\_security\) plugin must be installed to perform these steps. See[Infrastructure Security](../concept/infrastructure-security.md) for details on this plugin.
+The Infrastructure Security \(com.glide.infrastructure\_security\) plugin must be installed to perform these steps. See[Infrastructure Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/infrastructure-security.md) for details on this plugin.
 
-For information on using custom URLs with ServiceNow, see [Set a custom URL as the instance URL](../../../integrate/authentication/task/configure-custom-url.md).
+For information on using custom URLs with ServiceNow, see [Set a custom URL as the instance URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../../integrate/authentication/task/configure-custom-url.md).
 
 ## Procedure
 
@@ -45,10 +45,10 @@ For information on using custom URLs with ServiceNow, see [Set a custom URL as t
 
     After selecting **Submit**, your instance will generate the certificate signing request. The request appears in the **Generated CSR** field.
 
-    ![Generate CSR page with a completed request](../image/generate-csr.png)
+    ![Generate CSR page with a completed request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/generate-csr.png)
 
 5.  Copy the contents of the **Generated CSR** field.
 
 
-**Parent Topic:**[Infrastructure Security](../concept/infrastructure-security.md)
+**Parent Topic:**[Infrastructure Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../concept/infrastructure-security.md)
 

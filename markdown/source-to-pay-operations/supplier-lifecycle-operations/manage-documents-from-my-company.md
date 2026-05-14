@@ -21,7 +21,7 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-Access to the Documents widget on the My Company page is controlled by the user criteria admins set on the Manage access tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](create-doc-config.md).
+Access to the Documents widget on the My Company page is controlled by the user criteria admins set on the Manage access tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-doc-config.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Access to the Documents widget on the My Company page is controlled by the user 
 
 4.  Go to the Documents widget.
 
-    You can now upload, download, maintain versions, and manage permissions for documents as follows.![Documents widget on the My Company page](../image/doc-widget-my-company.png)
+    You can now upload, download, maintain versions, and manage permissions for documents as follows.![Documents widget on the My Company page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/doc-widget-my-company.png)
 
 <table id="table_lyz_h4m_l3c"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Update an already uploaded document
 To update an existing document:
 
  1.  Select the document.
-2.  Select the three vertical dots icon \(![Three vertical dots icon.](../image/upload-doc.png)\) on the selected document tile and then select **Update**.
+2.  Select the three vertical dots icon \(![Three vertical dots icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/upload-doc.png)\) on the selected document tile and then select **Update**.
 3.  Upload the updated document in the Attachments section.
 
 
@@ -91,11 +91,11 @@ Download a document
 To download a document:
 
 1.  Select the document.
-2.  Select the three vertical dots icon \(![Three vertical dots icon.](../image/upload-doc.png)\) on the selected document tile.
+2.  Select the three vertical dots icon \(![Three vertical dots icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/upload-doc.png)\) on the selected document tile.
 3.  Select **Download**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 

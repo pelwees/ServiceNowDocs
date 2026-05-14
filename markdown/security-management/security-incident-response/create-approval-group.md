@@ -19,7 +19,7 @@ Create an approval group for the CrowdStrike Falcon Insight for Security Operati
 
 You can't reassign the approval authority to a group, unless an approval group is available in your instance.
 
-**Note:** The approvals option in the [profile configuration](configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md) appears only for Isolate Host and Remove Host Isolation capabilities.
+**Note:** The approvals option in the [profile configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md) appears only for Isolate Host and Remove Host Isolation capabilities.
 
 Role required: admin
 
@@ -52,5 +52,5 @@ Role required: admin
 
 ## What to do next
 
-The next step is to [install and configure](install-and-configure-crowdstrike-falcon-insight.md) the CrowdStrike Falcon Insight application from the ServiceNow Store.
+The next step is to [install and configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-crowdstrike-falcon-insight.md) the CrowdStrike Falcon Insight application from the ServiceNow Store.
 

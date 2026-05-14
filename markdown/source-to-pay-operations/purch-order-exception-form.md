@@ -145,15 +145,15 @@ Unit price
 Price per unit of the item.
 
 </td></tr></tbody>
-</table>-   **[Purchase order exception form tabs](purch-order-exception-form-tabs.md)**  
+</table>-   **[Purchase order exception form tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form-tabs.md)**  
 The Purchase order exception form includes tabs that store exception information, which an Operational Buyer can use to perform related tasks.
 
-**Parent Topic:**[Purchase Order Management reference](purchase-order-mgmt-reference.md)
+**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
 
-[Delivery plan change form](create-delivery-plan-change.md)
+[Delivery plan change form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-delivery-plan-change.md)
 
-[Create new purchase order exception form](create-new-poe-form.md)
+[Create new purchase order exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-new-poe-form.md)
 

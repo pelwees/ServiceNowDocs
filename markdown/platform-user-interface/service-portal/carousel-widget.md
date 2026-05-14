@@ -17,21 +17,21 @@ Showcase specific items in your catalog using a scrolling list of images in the 
 
 Use the carousel widget to showcase items on your portal page. For example, display items available in a service catalog at the top of the service catalog page.
 
-![Carousel widget](../image/WidgetCarousel.png "Carousel widget")
+![Carousel widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetCarousel.png "Carousel widget")
 
 **Note:** For Employee Center Pro, use Content Experiences widget to showcase actionable communications content on your employee portal. .
 
--   **[Add slides to the carousel widget](../task/add-slides-carousel-widget.md)**  
+-   **[Add slides to the carousel widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/add-slides-carousel-widget.md)**  
 Use the related lists for an instance of the carousel widget to add images for the carousel widget to scroll through.
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

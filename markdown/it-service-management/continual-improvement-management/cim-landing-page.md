@@ -23,11 +23,11 @@ An improvement initiative consists of:
 
 ## Continual Improvement Management concepts
 
--   [Continual Improvement Management overview](get-started-cim.md)
--   [Install Continual Improvement Management](../task/request-cim.md)
--   [Identifying improvement opportunities](cim-improvement-request.md)
--   [Managing improvements](cim-improvement-initiative-mgmt.md)
--   [Domain separation and Continual Improvement Management](cim-domain-separation.md)
+-   [Continual Improvement Management overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/get-started-cim.md)
+-   [Install Continual Improvement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/../task/request-cim.md)
+-   [Identifying improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-improvement-request.md)
+-   [Managing improvements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-improvement-initiative-mgmt.md)
+-   [Domain separation and Continual Improvement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-domain-separation.md)
 
 ## Get help from ServiceNow resources
 

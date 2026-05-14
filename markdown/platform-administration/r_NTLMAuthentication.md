@@ -93,5 +93,5 @@ Specify the domain used to authenticate the proxy server with NTLM authenticatio
 DOMAIN
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Web proxy](../concept/c_WebProxy.md)
+</table>**Parent Topic:**[Web proxy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_WebProxy.md)
 

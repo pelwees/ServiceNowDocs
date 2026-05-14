@@ -18,27 +18,27 @@ Use the User Criteria form field information when creating a new user criteria r
 |Field|Description|
 |-----|-----------|
 |Name|Name of the user criteria.|
-|Users|Users who can access the reservable modules when you apply the user criteria. Click the unlock users icon \(![unlock users icon](../image/unlock-icon.png)\) to select users. Click the add me icon \(![Add me icon](../image/add-me-icon.png)\) to add yourself as a user.|
-|Groups|Groups who can access the reservable modules when you apply the user criteria. Click the unlock groups icon \(![Unlock groups icon](../image/unlock-icon.png)\) to select the groups.|
-|Roles|Roles who can access the reservable modules when you apply the user criteria. Click the unlock roles icon \(![Unlock roles icon](../image/unlock-icon.png)\) to select the groups.|
+|Users|Users who can access the reservable modules when you apply the user criteria. Click the unlock users icon \(![unlock users icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select users. Click the add me icon \(![Add me icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-me-icon.png)\) to add yourself as a user.|
+|Groups|Groups who can access the reservable modules when you apply the user criteria. Click the unlock groups icon \(![Unlock groups icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select the groups.|
+|Roles|Roles who can access the reservable modules when you apply the user criteria. Click the unlock roles icon \(![Unlock roles icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select the groups.|
 |Advanced|Option to create a script for the user criteria.|
 |Application|This field is automatically set to `Workplace Reservation Management`.|
 |Active|Option to make the user criteria available.|
-|Companies|Companies who can access the reservable modules when you apply the user criteria. Click the inlock companies icon \(![Unlock companies icon](../image/unlock-icon.png)\) to select the companies.|
-|Location|Locations which can access reservable modules when you apply the user criteria. Click the unlock locations icon \(![Unlock locations icon](../image/unlock-icon.png)\) to select the locations.|
-|Departments|Departments who can access reservable modules when you apply the user criteria. Click the unlock departments icon \(![Unlock departments icon](../image/unlock-icon.png)\) to select the departments.|
+|Companies|Companies who can access the reservable modules when you apply the user criteria. Click the inlock companies icon \(![Unlock companies icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select the companies.|
+|Location|Locations which can access reservable modules when you apply the user criteria. Click the unlock locations icon \(![Unlock locations icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select the locations.|
+|Departments|Departments who can access reservable modules when you apply the user criteria. Click the unlock departments icon \(![Unlock departments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/unlock-icon.png)\) to select the departments.|
 |Match All|Option to make every condition required when the user criteria is applied. The conditions are set in the previous fields, such as **Location**, **Department**, and so on|
 
-**Parent Topic:**[Workplace Reservation Management - Field descriptions](../concept/workplace-reservation-management-field-descriptions.md)
+**Parent Topic:**[Workplace Reservation Management - Field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../concept/workplace-reservation-management-field-descriptions.md)
 
 **Related topics**  
 
 
-[Space form](space-new-record-form.md)
+[Space form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/space-new-record-form.md)
 
-[Add a room form](add-room-form.md)
+[Add a room form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-room-form.md)
 
-[Create a user criteria record](../task/create-user-criteria.md)
+[Create a user criteria record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/create-user-criteria.md)
 
-[Apply user criteria on a reservable module](../task/apply-user-crit-resvbl-module.md)
+[Apply user criteria on a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../task/apply-user-crit-resvbl-module.md)
 

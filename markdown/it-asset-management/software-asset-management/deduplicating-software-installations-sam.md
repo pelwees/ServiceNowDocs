@@ -21,5 +21,5 @@ By default, the Software Asset Management application prioritizes IBM software i
 
 The **SAM - Deduplicate Install Table** scheduled job ensures that only one software installation record is marked as active and included in reconciliation.
 
-**Parent Topic:**[Software discovery and normalization](c_SAMDiscovery.md)
+**Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 

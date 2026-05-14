@@ -25,19 +25,19 @@ Overview of Visual Task Boards
 
 <table id="table_alg_xvl_3xb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Visual Task Boards concepts and features.](exploring-vis-task-boards.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Visual Task Boards concepts and features.](exploring-vis-task-boards.md)
 
 </td><td>
 
-[Activate![](../../../reuse/icons/brand-icons/bus-manage.svg)Activate Visual Task Boards.](../task/t_ActivateVisualTaskBoards.md)
+[Activate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../reuse/icons/brand-icons/bus-manage.svg)Activate Visual Task Boards.](../task/t_ActivateVisualTaskBoards.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-app-creator.svg)Create, modify, delete, view, share, and customize Virtual Task Boards.](working-in-vtb.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../reuse/icons/brand-icons/bus-app-creator.svg)Create, modify, delete, view, share, and customize Virtual Task Boards.](working-in-vtb.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)See details about domain separation, supported browsers, and components that are installed with Virtual Task Boards.](vis-task-boards-ref.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../reuse/icons/brand-icons/bus-learn.svg)See details about domain separation, supported browsers, and components that are installed with Virtual Task Boards.](vis-task-boards-ref.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

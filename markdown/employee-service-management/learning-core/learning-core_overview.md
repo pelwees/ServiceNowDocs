@@ -17,33 +17,33 @@ The ServiceNow Learning Core application enables you to build a learning content
 
 Learning Core provides the base set of tables, content, learning bases, roles, and access configuration that are used in the Learning Posts application and other coaching applications. Learning Core can be activated only as a dependent plugin.
 
-Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal, and Saba learning systems. Activate only the learning system that you to plan use. For more information, see [Integrate Learning Core with third-party learning management systems](../task/setup-learning-third-party-1.md).
+Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal, and Saba learning systems. Activate only the learning system that you to plan use. For more information, see [Integrate Learning Core with third-party learning management systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/setup-learning-third-party-1.md).
 
 ## Get started
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore.](../../../common/image/icon-explore.png) Learn about how Learning Core works.](learning-core.md)
+[Explore ![Explore.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../common/image/icon-explore.png) Learn about how Learning Core works.](learning-core.md)
 
 </td><td>
 
-[Configure ![Configure.](../../../reuse/icons/brand-icons/bus-explore.svg) Plan and configure your implementation.](../task/setup-learning-third-party-1.md)
+[Configure ![Configure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-explore.svg) Plan and configure your implementation.](../task/setup-learning-third-party-1.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Integrating with third-party learning management systems.](../task/setup-learning-third-party-1.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-sdlc.svg) Integrating with third-party learning management systems.](../task/setup-learning-third-party-1.md)
 
 </td></tr><tr><td>
 
-[Use ![Use.](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Create, curate, and manage learning content](../task/manage-ln-content.md)
+[Use ![Use.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Create, curate, and manage learning content](../task/manage-ln-content.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![Reporting.](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Consolidate reports in each repository, course catalogs, and learning tasks.](../task/ln-administration.md)
+[Analytics and Reporting Solutions ![Reporting.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Consolidate reports in each repository, course catalogs, and learning tasks.](../task/ln-administration.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) More information on other components installed with Learning Core.](../reference/learning-core-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../../reuse/icons/brand-icons/bus-learn.svg) More information on other components installed with Learning Core.](../reference/learning-core-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

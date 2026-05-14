@@ -40,5 +40,5 @@ Role required: admin
 5.  Select **Install**.
 
 
-**Parent Topic:**[Dispute Content Pack for US Regulations](../concept/dispute-content-pack-for-us-regulation-landing-page.md)
+**Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../concept/dispute-content-pack-for-us-regulation-landing-page.md)
 

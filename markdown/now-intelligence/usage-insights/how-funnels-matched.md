@@ -43,5 +43,5 @@ Usage Insights shows all sessions that progress through the funnel for the selec
 
 When filtering by application versions, the analysis shows only the users who performed their first action from the selected version.
 
-**Parent Topic:**[Funnel reports in Usage Insights](funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/funnel-reports-uxa.md)
 

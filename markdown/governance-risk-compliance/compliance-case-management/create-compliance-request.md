@@ -23,7 +23,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst and sn\_complia
 
 1.  Navigate to **All** &gt; **Compliance Workspace**.
 
-2.  Select the Compliance case management icon \(![Electronic signature](../../grc-workspace-vrm/image/icon-tprm-ws-risk-activity.png)\).
+2.  Select the Compliance case management icon \(![Electronic signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../../grc-workspace-vrm/image/icon-tprm-ws-risk-activity.png)\).
 
 3.  On the Compliance Case Management landing page, select **Create**.
 
@@ -31,13 +31,13 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst and sn\_complia
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values on the Create a Compliance Case form, see [Compliance request form](../reference/compliance-request-form.md).
+    For a description of the field values on the Create a Compliance Case form, see [Compliance request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/compliance-request-form.md).
 
 6.  Select **Save**.
 
 
--   **[Compliance request form](../reference/compliance-request-form.md)**  
+-   **[Compliance request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/compliance-request-form.md)**  
 Use the Create new compliance request form in the GRC: Compliance Case Management application to raise a compliance request.
 
-**Parent Topic:**[Raising a compliance request in GRC: Compliance Case Management](../concept/raising-compliance-request.md)
+**Parent Topic:**[Raising a compliance request in GRC: Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../concept/raising-compliance-request.md)
 

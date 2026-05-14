@@ -29,15 +29,15 @@ The report helps to analyze relationships between different objects such as asse
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the matrix report icon \(![Matrix report icon.](../image/matrix-report-icon.png)\) and click the matrix report that you configured.
+2.  Select the matrix report icon \(![Matrix report icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/matrix-report-icon.png)\) and click the matrix report that you configured.
 
 3.  For the landing page display type matrix configuration, you can view the Matrix report in the Audit Workspace.
 
-4.  Select the view related information icon \(![View related information.](../image/view-related-info-icon.png)\) to get a complete tabular view of the matrix report.
+4.  Select the view related information icon \(![View related information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/view-related-info-icon.png)\) to get a complete tabular view of the matrix report.
 
     The source record details are displayed on the left pane for the top two orders. The target table fields that you configured are displayed as column heads on the right pane.
 
-    ![Landing page display type of the Risk and Control Matrix report in the Audit Workspace.](../image/matrix-report-audit-workspace.png)
+    ![Landing page display type of the Risk and Control Matrix report in the Audit Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/matrix-report-audit-workspace.png)
 
     Since risk is the base source table, all the risk-related fields are displayed on the left pane. Level 0 is the risk, which is the default base table. All the data that are fetched from the risk record are Level 1.
 
@@ -45,7 +45,7 @@ The report helps to analyze relationships between different objects such as asse
 
     For the record page display type matrix configuration, you can view the matrix report in the List view of the Audit Workspace.
 
-5.  Select the list icon \(![List icon](../image/ListsIcon.jpg)\) of the Audit Workspace.
+5.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\) of the Audit Workspace.
 
 6.  Select any record from the configured table of the Matrix report configuration.
 
@@ -57,6 +57,6 @@ The report helps to analyze relationships between different objects such as asse
 
 8.  Select the **Matrix report** tab to view the report in the record page.
 
-    ![Record page display type of Risk and Control Matrix report in the List view of the Audit Workspace.](../image/matrix-report-record-audit-ws.png)
+    ![Record page display type of Risk and Control Matrix report in the List view of the Audit Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/matrix-report-record-audit-ws.png)
 
 

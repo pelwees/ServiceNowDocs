@@ -26,12 +26,12 @@ You can access the Optimization and savings dashboard by navigating to **Softwar
 
 View the licensing optimizations for a publisher by selecting the publisher from the **Publisher** drop-down list.
 
--   [Publisher optimizations for SAP](pub-opt-sap.md)
--   [Publisher optimizations for Red Hat](pub-opt-redhat.md)
--   [Publisher optimizations for Microsoft](pub-opt-microsoft.md)
--   [Publisher optimizations for Adobe](pub-opt-adobe.md)
+-   [Publisher optimizations for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-sap.md)
+-   [Publisher optimizations for Red Hat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-redhat.md)
+-   [Publisher optimizations for Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-microsoft.md)
+-   [Publisher optimizations for Adobe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/pub-opt-adobe.md)
 
-![Optimization and savings dashboard in Software Asset Workspace.](../image/optimizations-savings-dboard.png "Optimization and savings dashboard")
+![Optimization and savings dashboard in Software Asset Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/optimizations-savings-dboard.png "Optimization and savings dashboard")
 
 <table id="table_xvt_zjm_qpb"><thead><tr><th>
 

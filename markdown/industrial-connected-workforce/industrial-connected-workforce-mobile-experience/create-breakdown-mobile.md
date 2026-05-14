@@ -25,17 +25,17 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 2.  From the Actions menu, select **New breakdown**.
 
-    ![New breakdown menu option](../image/actions-icw-mobile.png)
+    ![New breakdown menu option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/actions-icw-mobile.png)
 
 3.  On the Breakdown form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../reference/deviation-form-mobile.md).
 
 4.  Select **Next**.
 
 5.  On the Deviation form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form-mobile.md).
+    For a description of the field values, see [Deviation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../reference/deviation-form-mobile.md).
 
 6.  Select **Next**.
 
@@ -54,5 +54,5 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 The breakdown is created and displayed in the list of industrial tasks. You can choose to initiate a breakdown analysis from the newly created breakdown.
 
-**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](../concept/using-icw-mobile-experience.md)
+**Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/using-icw-mobile-experience.md)
 

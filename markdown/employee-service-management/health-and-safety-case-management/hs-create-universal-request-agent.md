@@ -27,13 +27,13 @@ Agents that are part of the Health and Safety routing group can initiate and man
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  In the primary navigation, select **Cases** icon \(![Health and safety cases icon.](../image/icon-hs-cases.png)\)
+2.  In the primary navigation, select **Cases** icon \(![Health and safety cases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../image/icon-hs-cases.png)\)
 
 3.  Select **Universal Requests** and then select **All**.
 
 4.  Select **New** to open the universal request form.
 
-    On the Universal Request form, fill in the details. For more information see, [Universal Request form](../../universal-request/reference/new-ur-record-form.md)
+    On the Universal Request form, fill in the details. For more information see, [Universal Request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../universal-request/reference/new-ur-record-form.md)
 
 5.  Select **Submit**.
 
@@ -49,7 +49,7 @@ The agent can perform the following from the new Universal Request record:
 -   Select the **Assign to me** button to assign the Universal Request to self. The **Assigned to** field of the Universal Request gets updated with the agents name.
 -   Select the **Restrict** button to mark a Universal Request as restricted when you identify that the request contains sensitive information. This option can be selected on the universal record or the Health and Safety record to mark the health and safety case \(primary ticket\) as restricted.
 
-    For detailed information on Universal Request security capabilities, see [Universal Request sensitive information security](../../universal-request/concept/universal-request-security.md#).
+    For detailed information on Universal Request security capabilities, see [Universal Request sensitive information security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../universal-request/concept/universal-request-security.md#).
 
--   Use the More actions ![more actions icon](../../human-resources/image/agent-workspace-more-ui-actions-icon.jpg) icon and select **Create Health and Safety Case**.
+-   Use the More actions ![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../human-resources/image/agent-workspace-more-ui-actions-icon.jpg) icon and select **Create Health and Safety Case**.
 

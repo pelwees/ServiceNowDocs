@@ -23,16 +23,16 @@ Learn which types of encryption are supported for training Predictive Intelligen
 |Edge Encryption|No|None.|
 |FDE \(Full Disc Encryption\)|Yes|None.|
 
-**Parent Topic:**[Predictive Intelligence references](reference-predictive-intelligence.md)
+**Parent Topic:**[Predictive Intelligence references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/reference-predictive-intelligence.md)
 
 **Related topics**  
 
 
-[Domain separation and Predictive Intelligence](../concept/domain-separation-predictive-intelligence.md)
+[Domain separation and Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/domain-separation-predictive-intelligence.md)
 
-[Predictive Intelligence language support](../concept/predictive-intelligence-localization.md)
+[Predictive Intelligence language support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/predictive-intelligence-localization.md)
 
-[Predictive Intelligence properties](predictive-intelligence-properties.md)
+[Predictive Intelligence properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-properties.md)
 
-[Predictive Intelligence roles](predictive-intelligence-roles.md#)
+[Predictive Intelligence roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-roles.md#)
 

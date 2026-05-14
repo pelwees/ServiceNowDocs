@@ -23,7 +23,7 @@ Role required: sn\_hr\_core\_admin
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![HR Workspace Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![HR Workspace Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Select **Bulk case requests**.
 
@@ -129,6 +129,6 @@ Conditions based on the User \[sys\_user\] table.
 
     The **Bulk Case Request** form is displayed with the user segment group you created.
 
-    **Note:** You can still review and edit your user segment group. For more information, see [Review users in a user segment group](manage-group-aws.md).
+    **Note:** You can still review and edit your user segment group. For more information, see [Review users in a user segment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/manage-group-aws.md).
 
 

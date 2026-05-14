@@ -109,5 +109,5 @@ Install Collaborative Work Management by requesting it from the ServiceNow Store
     Prioritize, roadmap, and track work when using traditional, Agile, or hybrid methodologies with the ServiceNow® Strategic Planning application. Align strategy to execution by defining and tracking goals across your organization. Strategic Planning is available with an SPM Professional license.
 
 
-**Parent Topic:**[Strategic Portfolio Management release notes](it-business-management-rn-landing.md)
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-business-management-rn-landing.md)
 

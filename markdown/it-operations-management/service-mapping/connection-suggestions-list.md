@@ -45,7 +45,7 @@ Target Host
 
 </td><td>
 
-The host of the CI that is the connection target.If the [**VIP**](connection-suggestions-list.md#VIP-connect-suggest) column shows **true**, the target host is a load balancer member. When you select such a target host, the system adds the load balancer and all its members as CIs in the application service.
+The host of the CI that is the connection target.If the [**VIP**](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/connection-suggestions-list.md#VIP-connect-suggest) column shows **true**, the target host is a load balancer member. When you select such a target host, the system adds the load balancer and all its members as CIs in the application service.
 
 </td></tr><tr><td>
 
@@ -76,9 +76,9 @@ The confidence level indicates the likelihood of this connection being part of t
 -   **Low** - Commonly a connection to an application deployed on numerous servers in the organization, typically for monitoring purposes, such as Tivoli Enterprise Monitoring Agents or MID Server.
 -   **Very low** - Commonly a connection to a central application used by the entire organization, for example, Microsoft Active Directory or Okta.
 
-If the confidence level appears as **N/A**, wait until the application fingerprints training is complete. See the [Application fingerprint training status report](readiness-dashboard-ml.md).
+If the confidence level appears as **N/A**, wait until the application fingerprints training is complete. See the [Application fingerprint training status report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md).
 
- Confidence level is available only if fingerprint based discovery is enabled. See [Discover applications based on fingerprints](../../discovery/task/discover-application-based-process.md) for more information.
+ Confidence level is available only if fingerprint based discovery is enabled. See [Discover applications based on fingerprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../discovery/task/discover-application-based-process.md) for more information.
 
 </td></tr><tr><td>
 
@@ -126,14 +126,14 @@ Updated
 The timestamp of when this connection last changed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+</table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
 **Related topics**  
 
 
-[Discovery based on Predictive Intelligence](../concept/predictive-intelligence-discovery.md)
+[Discovery based on Predictive Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/predictive-intelligence-discovery.md)
 
-[Add or remove CIs for single application services using connection suggestions](../task/add-remove-ci-connections-services.md)
+[Add or remove CIs for single application services using connection suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/add-remove-ci-connections-services.md)
 
-[Add or remove CIs for multiple application services using connection suggestions](../task/manipulate-connections-suggestions-in-bulk.md)
+[Add or remove CIs for multiple application services using connection suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/manipulate-connections-suggestions-in-bulk.md)
 

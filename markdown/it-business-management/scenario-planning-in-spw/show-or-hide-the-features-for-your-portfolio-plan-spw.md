@@ -19,11 +19,11 @@ As a portfolio manager, show or hide the features \(for example, Goals, Scoring,
 
 Hiding features for your portfolio plan helps you share only the data that matters to your stakeholders and restrict access to the other data in your portfolio plan.
 
-**Note:** When you [share a portfolio plan with your stake holder](share-portfolio-plan-alignment-planner-workspace.md) providing view access and hiding a feature \(for example, Scoring\), the viewer can only view the enabled features and can't see the hidden feature \(Scoring\) in the shared portfolio plan. However, when you share a portfolio plan providing edit access, the editor can enable or hide the features as required and can view and edit any data in the shared portfolio plan.
+**Note:** When you [share a portfolio plan with your stake holder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-portfolio-plan-alignment-planner-workspace.md) providing view access and hiding a feature \(for example, Scoring\), the viewer can only view the enabled features and can't see the hidden feature \(Scoring\) in the shared portfolio plan. However, when you share a portfolio plan providing edit access, the editor can enable or hide the features as required and can view and edit any data in the shared portfolio plan.
 
 ## Before you begin
 
-[Create a portfolio plan](create-portfolio-plans-in-alignment-planner-workspace.md).
+[Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-portfolio-plans-in-alignment-planner-workspace.md).
 
 Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
@@ -37,15 +37,15 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 4.  On the Show/hide modules window, select the modules and features that you want to show and deselect the modules and features that you want to hide.
 
-    ![Show or hide modules in Strategic Planning.](../images/show-hide-modules-spw.gif)
+    ![Show or hide modules in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/show-hide-modules-spw.gif)
 
 5.  Select **Apply changes**.
 
 
-**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
+**Parent Topic:**[Managing portfolio plans in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/managing-portfolio-plans-in-alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Share a portfolio plan with stakeholders](share-portfolio-plan-alignment-planner-workspace.md)
+[Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/share-portfolio-plan-alignment-planner-workspace.md)
 

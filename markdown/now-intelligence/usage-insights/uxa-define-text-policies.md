@@ -34,5 +34,5 @@ Role required: admin
 5.  In the message area, enter your updated text and select **Update**.
 
 
-**Parent Topic:**[How users consent to tracking in Usage Insights](user-exp-analytics-user-set.md)
+**Parent Topic:**[How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md)
 

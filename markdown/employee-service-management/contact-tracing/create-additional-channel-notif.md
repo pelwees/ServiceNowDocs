@@ -31,7 +31,7 @@ For example, if your company's IT network group has a Slack channel that they mo
 
 2.  Click **New**.
 
-    ![New channel record with the script option selected and a default script.](../image/outreach-notif-channel-privacy.png)
+    ![New channel record with the script option selected and a default script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/outreach-notif-channel-privacy.png)
 
 3.  Enter the name of your notification channel.
 
@@ -112,11 +112,11 @@ For example, if your company's IT network group has a Slack channel that they mo
 
 When a notification is sent using a custom notification channel, a Delivery Logs related list appears in the Outreach message.
 
-![Delivery logs related list showing a failed log status.](../../business-continuity/image/outreach-delivery-log-list.png "Delivery logs related list")
+![Delivery logs related list showing a failed log status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../business-continuity/image/outreach-delivery-log-list.png "Delivery logs related list")
 
 1.  Test the notification channel for an outreach message.
 2.  Open any failed channel record to review the error messages and fix errors that caused the notification to fail.
 3.  Continue testing the notification channel until the channel no longer fails.
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-privacy-consent-settings.md)
 

@@ -28,16 +28,16 @@ Role required: admin or survey\_admin
 4.  Click **Save**.
 
 
-**Parent Topic:**[Survey users and groups](../concept/c_SurveyUsersAndGroups.md)
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
 
-[Create a survey user group](t_CreatingSurveyUserGroups.md)
+[Create a survey user group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreatingSurveyUserGroups.md)
 
-[Designate a survey user](t_SurveyDefinitionForm.md)
+[Designate a survey user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SurveyDefinitionForm.md)
 
-[Designate or remove multiple survey users at one time](t_SurveyCategoryForm.md)
+[Designate or remove multiple survey users at one time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SurveyCategoryForm.md)
 
-[Allow recipients to retake a survey](t_AllowRecipientsToRetakeASurvey.md)
+[Allow recipients to retake a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_AllowRecipientsToRetakeASurvey.md)
 

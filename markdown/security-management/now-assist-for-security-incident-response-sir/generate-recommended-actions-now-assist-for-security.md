@@ -33,7 +33,7 @@ Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
 2.  Select the **Recommended Actions** icon in the contextual sidebar.
 
-    ![Recommended actions button selected in the contextual sidebar](../image/contextual-sidebar-genai.png)
+    ![Recommended actions button selected in the contextual sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/contextual-sidebar-genai.png)
 
 3.  Select **Get recommendations**.
 

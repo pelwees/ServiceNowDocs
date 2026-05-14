@@ -19,7 +19,7 @@ The License usage view lets your organizations license usage trends and helps fo
 
 You can access the License usage view by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **License usage**.
 
-![License usage view](../image/license-usage-samf.png "License usage")
+![License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../image/license-usage-samf.png "License usage")
 
 Use the License usage view to:
 
@@ -29,8 +29,8 @@ Use the License usage view to:
 -   be informed about the last reconciliation run.
 -   view and export reports.
 
--   **[Run Software Asset Management Foundation plugin software reconciliation in workspace](../task/run-samf-software-recon-workspace.md)**  
+-   **[Run Software Asset Management Foundation plugin software reconciliation in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../task/run-samf-software-recon-workspace.md)**  
 Reconciliation is run as a scheduled job \(default is weekly\), but you can also run reconciliation manually to reconcile software products in the Software Asset Workspace environment on-demand.
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](using-samf-workspace.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-workspace.md)
 

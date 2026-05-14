@@ -27,7 +27,7 @@ Values that you enter in the Cloud Service Account &gt; AWS Org Assume Role Para
 
 1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Organization Access Parameters** &gt; **AWS Org Assume Role Parameters**.
 
-    ![AWS Org Assume Role Parameters module](../image/AWSOrgAssumeRoleModule.png)
+    ![AWS Org Assume Role Parameters module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/AWSOrgAssumeRoleModule.png)
 
 2.  Click **New** and then complete the form using these parameters:
 
@@ -53,7 +53,7 @@ Role session name \[role\_session\_name\]
 
 </td><td>
 
-Name for the session using the temporary security credentials that may help in distinguishing use of a role by a principal or purpose. This session name is visible in the AWS Cloud Trail logs. See [Cloud API Trail](../concept/cloud-api-trail.md#) and the [AWS documentation](https://aws.amazon.com/documentation/) on AWS Cloud Trail for details.Default: master\_account\_id\_\_&lt;management account ID number&gt; An example of this is: `master_account_id__321003876149`.
+Name for the session using the temporary security credentials that may help in distinguishing use of a role by a principal or purpose. This session name is visible in the AWS Cloud Trail logs. See [Cloud API Trail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-api-trail.md#) and the [AWS documentation](https://aws.amazon.com/documentation/) on AWS Cloud Trail for details.Default: master\_account\_id\_\_&lt;management account ID number&gt; An example of this is: `master_account_id__321003876149`.
 
 </td></tr><tr><td>
 

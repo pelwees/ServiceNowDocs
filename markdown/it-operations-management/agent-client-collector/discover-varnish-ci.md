@@ -37,7 +37,7 @@ Role required: discovery\_admin
 
     Discovery locates an application CI for the varnishstat entry. The CI appears on the Application Fingerprints dashboard in the **Created Applications** section.
 
-    ![Created Applications section of Application Fingerprints Dashboard](../image/app-fingerprints-dash.png "Created applications section of Application Fingerprints dashboard")
+    ![Created Applications section of Application Fingerprints Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/app-fingerprints-dash.png "Created applications section of Application Fingerprints dashboard")
 
 6.  Run basic Discovery on the host machine.
 
@@ -48,5 +48,5 @@ The varnishstat CI is discovered and a record is created in the u\_cmdb\_ci\_var
 
 The Varnish policies and checks are available to run.
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-shared-deployment.md)
 

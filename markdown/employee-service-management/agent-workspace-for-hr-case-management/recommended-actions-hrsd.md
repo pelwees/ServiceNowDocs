@@ -19,7 +19,7 @@ The Recommended Actions for HRSD provides real‑time, actionable guidance and r
 
 <table id="table_xsq_trc_b3c1" class="nav-card presentation"><tbody><tr><td>
 
-[Explore](explore-recommended-actions-hrsd.md)
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/explore-recommended-actions-hrsd.md)
 
  ![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
@@ -27,7 +27,7 @@ The Recommended Actions for HRSD provides real‑time, actionable guidance and r
 
 </td><td>
 
-[Configure](configure-recommended-actions-hrsd.md)
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configure-recommended-actions-hrsd.md)
 
  ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
@@ -35,7 +35,7 @@ The Recommended Actions for HRSD provides real‑time, actionable guidance and r
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-task-list.svg)](../task/guided-decision-tree-aws.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../reuse/icons/brand-icons/bus-task-list.svg)](../task/guided-decision-tree-aws.md)
 
  Use Recommended Actions for HRSD to help HR agents speed up case resolution.
 

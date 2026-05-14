@@ -31,7 +31,7 @@ Using JavaScript along with a script includes, you can show different values tha
 
 The following image shows that the **Assigned to** field has been added to the pop over window to indicate who the work order task is assigned to.
 
-![Modified pop over with the Assigned to field added](../image/modified_popover.png)
+![Modified pop over with the Assigned to field added](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/modified_popover.png)
 
 ## Procedure
 

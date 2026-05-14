@@ -17,18 +17,18 @@ The SimilaritySolutionVersion API is a scriptable object used in Predictive Inte
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-This API is used is used for working with solution versions based on [SimilaritySolution API](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) objects in the [SimilaritySolution store](../../SimilaritySolutionStore/concept/SimilaritySolutionStoreAPI.md#).
+This API is used is used for working with solution versions based on [SimilaritySolution API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) objects in the [SimilaritySolution store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolutionStore/concept/SimilaritySolutionStoreAPI.md#).
 
 The system creates a solution version each time you train a solution definition. Most versions are created during scheduled solution training.
 
 Methods in this API are accessible using the following SimilaritySolution methods:
 
--   [getActiveVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getAllVersions\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getLatestVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
--   [getVersion\(\)](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [getActiveVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [getAllVersions\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [getLatestVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
+-   [getVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SimilaritySolutionVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) version details. Results vary by object property setup.```
+Contents of the Dataset and [SimilaritySolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) version details. Results vary by object property setup.```
 {
   "domainName": "String",
   "isActive": "String",
@@ -111,7 +111,7 @@ Identifies the prediction task. ```
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set. ```
+Details of the [DatasetDefinition\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used as the lookup set. ```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -225,7 +225,7 @@ Optional. Preset list of strings that the system automatically generates based o
 
 </td><td>
 
-Details of the [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**. ```
+Details of the [DatasetDefinition\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) object used to retrieve similarities between results searched in this model and results found in the **lookupDataset**. ```
 {
   "encodedQuery": "String",
   "fieldDetails": [Array],
@@ -432,7 +432,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for a [SimilaritySolution](../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object.```
+JavaScript object containing training status information for a [SimilaritySolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SimilaritySolution/concept/SimilaritySolutionAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",
@@ -590,7 +590,7 @@ Object
 
 </td><td>
 
-[GlideRecord](../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideRecord/concept/c_GlideRecordAPI.md#) or array of JSON objects containing field names and values as key-value pairs.
 
 </td></tr><tr><td>
 

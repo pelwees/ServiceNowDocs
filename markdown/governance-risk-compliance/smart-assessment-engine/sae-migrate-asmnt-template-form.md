@@ -17,7 +17,7 @@ You can view the data that was migrated from the metric type to the Smart Assess
 
 ## Tracking assessment template migration
 
-After you have filled out the Assessment template migration form and started the migration process, you can view the progress and confirm if it completed successfully or if there were any errors. For more information on the migration process, see [Creating an assessment template from legacy assessment metric types](../concept/sae-asmnt-template-migrating.md), [Migrate a legacy metric type to an assessment template](../task/sae-asmnt-tmplt-migrate-metrics-to.md), and [How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md).
+After you have filled out the Assessment template migration form and started the migration process, you can view the progress and confirm if it completed successfully or if there were any errors. For more information on the migration process, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/sae-asmnt-template-migrating.md), [Migrate a legacy metric type to an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../task/sae-asmnt-tmplt-migrate-metrics-to.md), and [How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-how-legacy-metrics-migrated.md).
 
 ## Viewing the migration results
 
@@ -197,5 +197,5 @@ Description of an error that occurred during the unsuccessful migration.
 </table>**Related topics**  
 
 
-[How legacy metric types are migrated to sections in templates](sae-how-legacy-metrics-migrated.md)
+[How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-how-legacy-metrics-migrated.md)
 

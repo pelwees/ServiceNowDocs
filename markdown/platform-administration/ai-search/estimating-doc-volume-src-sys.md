@@ -16,12 +16,12 @@ breadcrumb: [Explore, External Content Connectors, ServiceNow Store applications
 
 Source system tools allow you to estimate the number of documents available for retrieval by external content connectors. By estimating the available document count for a source system, you can determine whether you need to apply crawl scope restrictions when configuring an external content connector for that source system.
 
-**Parent Topic:**[Exploring External Content Connectors](exploring-ext-cont-connectors.md)
+**Parent Topic:**[Exploring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/exploring-ext-cont-connectors.md)
 
 **Related topics**  
 
 
-[Estimate document volume for Atlassian Confluence Cloud](../task/estimate-doc-volume-acc.md)
+[Estimate document volume for Atlassian Confluence Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/estimate-doc-volume-acc.md)
 
-[Estimate document volume for Microsoft SharePoint Online](../task/estimate-doc-volume-mspo.md)
+[Estimate document volume for Microsoft SharePoint Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/estimate-doc-volume-mspo.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Predefined colors in reports, Advanced Core UI reporting topics, Re
 
 Chart colors assign a consistent color to a grouping or stacking value in reports. The color stays the same across reports regardless of the order of the values.
 
-**Note:** This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Colors in data visualizations](../../performance-analytics/concept/colors-dv.md#).
+**Note:** This topic refers to Reporting in the Core UI. If your instance is migrated to Platform Analytics experience, see [Colors in data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/concept/colors-dv.md#).
 
 ## Using chart colors in a report
 
@@ -43,9 +43,9 @@ Any other report that uses chart colors and that shows the same data category re
 
 In the following example, you see two reports on incidents that are grouped by the same field, Priority. Both reports use the chart colors, as set in the Style tab of the Report Designer. The same values of Priority have the same color despite being in a different order.
 
-![Two reports grouped by the same field and using chart colors.](../image/reports-chart-colors-priority.png)
+![Two reports grouped by the same field and using chart colors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/reports-chart-colors-priority.png)
 
-**Parent Topic:**[Predefined colors in reports](colors-reports.md)
+**Parent Topic:**[Predefined colors in reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md)
 
 ## Define colors for data categories
 
@@ -61,7 +61,7 @@ Role required: report\_admin.
 
 2.  Click **New**.
 
-    ![New chart colors form](../image/new-chart-colors-form.png "New Chart Colors form")
+    ![New chart colors form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/new-chart-colors-form.png "New Chart Colors form")
 
 3.  Fill in the fields, as appropriate.
 
@@ -99,9 +99,9 @@ The value of the element for which the specified color applies. The value is cas
 
  The following example shows how the values of the state element on Choice \[sys\_choice\] records match the values of the state element on Chart Color \[sys\_report\_chart\_color\] records.
 
- ![Chart color choice type example - part 2](../image/chart-color-choice-type-ex-pt2.png)
+ ![Chart color choice type example - part 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/chart-color-choice-type-ex-pt2.png)
 
- ![Chart color choice type example - part 1](../image/chart-color-choice-type-ex-pt1.png)
+ ![Chart color choice type example - part 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/chart-color-choice-type-ex-pt1.png)
 
  To understand the various ways to get a record's sys\_id, see [The unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md).
 
@@ -111,7 +111,7 @@ Color name
 
 </td><td>
 
-Color selected from the Color Definitions \[sys\_report\_color\] table. If you select a color definition, it overrides the color specified in the **Color** field. For more information about color definitions, see [Define system colors for analytics](../task/t_DefiningSystemColors.md).
+Color selected from the Color Definitions \[sys\_report\_color\] table. If you select a color definition, it overrides the color specified in the **Color** field. For more information about color definitions, see [Define system colors for analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../task/t_DefiningSystemColors.md).
 
 </td></tr><tr id="row_p3b_vfw_1z"><td>
 

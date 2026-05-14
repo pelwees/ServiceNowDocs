@@ -39,20 +39,20 @@ Getting started with Event Management
 
 3.  On the **Alert Query** form, fill in the fields.
 
-    For a description of the field values, see [Alert Query form](../reference/alert-query-form.md)
+    For a description of the field values, see [Alert Query form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/alert-query-form.md)
 
     **Note:** In the **Filter** field:
 
     -   When defining an alert query filter, include only fields that appear in the Alert Histories \[em\_alert\_history\] table. Impact calculation is based on Alert History data and fields such as Overall Event Count, Priority, and Priority group are not copied to the Alert Histories \[em\_alert\_history\] table.
-    -   Do not specify a dynamic time condition. For example, in the filter, do not specify `Created` condition of `Last 45 minutes` because impact calculation is triggered by a change of alert or alert query. However, for the dynamic time condition, none of these conditions have changed. ![Do not specify a dynamic time condition](../image/dynamic-time-condition.png)
+    -   Do not specify a dynamic time condition. For example, in the filter, do not specify `Created` condition of `Last 45 minutes` because impact calculation is triggered by a change of alert or alert query. However, for the dynamic time condition, none of these conditions have changed. ![Do not specify a dynamic time condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/dynamic-time-condition.png)
     -   Some filters may slow down impact calculation. To solve this problem, adjust your alert query by adding an appropriate index, as described in [Index suggestions for slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/index-suggestions.md).
 4.  Select **Update**.
 
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/application-service-event-management.md)
 
 **Related topics**  
 
 
-[Create alert group manually](t_SAAddAlertCorrelatedAlertGrp.md)
+[Create alert group manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_SAAddAlertCorrelatedAlertGrp.md)
 

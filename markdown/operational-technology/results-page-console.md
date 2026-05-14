@@ -15,7 +15,7 @@ The Results page provides the results from your queries in the Discovery Console
 
 The Results page contains a list with all the scan results in the system. Each scan is displayed along with the associated Device, IP Address, Network Zone, Scan Type, Asset Type, Asset OS Details, Started On, and Log. The following image shows an example of the Results page.
 
-![Results page](../images/results-page.png)
+![Results page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/results-page.png)
 
 To access the Results page, navigate to **Assets &gt; Results**.
 
@@ -25,9 +25,9 @@ To find a specific scan, you can enter text into the Search bar on the top of th
 
 Use the filter panel to select which queries display in the results list. To filter the scan results, select the Add Filter icon ![](../../msi-console/image/add-filter-msi-console.png) in the filter panel. Put your cursor in the filter field and select a filter from the pop-up menu.
 
-![Filter panel](../images/filter-on-result-page.png)
+![Filter panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/filter-on-result-page.png)
 
-See [Filter results](filtering-results.md) for more information.
+See [Filter results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/filtering-results.md) for more information.
 
 ## Viewing results
 
@@ -50,7 +50,7 @@ On the Results page, you can view details of a result by selecting column entrie
 
 The Results page **Action** button lets you export the scan results. You can **Export Results** in JSON format or **Export RAW** in XML format.
 
-![Results page Action button](../../msi-console/image/results-export-raw.png)
+![Results page Action button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/results-export-raw.png)
 
 The RAW data format is useful for debugging and verification.
 

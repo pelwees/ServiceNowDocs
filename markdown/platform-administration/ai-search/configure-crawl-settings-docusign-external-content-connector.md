@@ -18,7 +18,7 @@ Define inclusion or exclusion filters to control which agreements you want your 
 
 ## Before you begin
 
-A connector admin must have already created the Docusign external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Docusign external content connector](create-ext-cont-connector-docusign.md).
+A connector admin must have already created the Docusign external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Docusign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-docusign.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -87,7 +87,7 @@ The Docusign external content connector is updated with your modified crawl sett
 
 ## What to do next
 
-To retrieve content from your Docusign source system using your modified crawl settings, create and run a one-time content crawl for your Docusign external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Docusign source system using your modified crawl settings, create and run a one-time content crawl for your Docusign external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Docusign external content connector](../concept/docusign-external-content-connector.md)
+**Parent Topic:**[Docusign external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/docusign-external-content-connector.md)
 

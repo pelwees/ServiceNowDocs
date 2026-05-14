@@ -45,7 +45,7 @@ After you've created both the connection record and the credential record, you c
 
 ## What to do next
 
-[Configure a Kafka connection](configure-kafka-connection.md).
+[Configure a Kafka connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configure-kafka-connection.md).
 
-**Parent Topic:**[Stream Connect Message Replication](../concept/stream-connect-message-replication.md)
+**Parent Topic:**[Stream Connect Message Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/stream-connect-message-replication.md)
 

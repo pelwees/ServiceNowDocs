@@ -21,12 +21,12 @@ These rules apply to state flow work notes:
 -   For a state flow with a Starting state and an Ending state, the work note is added only when the task transitions from that starting state to that ending state.
 -   If two state flows with work notes have the same Ending state, but only one has a Starting state, the system adds the work notes from the state flow with the starting state. This better matches the state flow work note to the more important transition between specific starting and ending states.
 
-**Parent Topic:**[Use state flows](c_UseStateFlows.md)
+**Parent Topic:**[Use state flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
 **Related topics**  
 
 
-[Use state flows](c_UseStateFlows.md)
+[Use state flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
-[Create a state flow](../task/t_CreateAStateFlow.md)
+[Create a state flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_CreateAStateFlow.md)
 

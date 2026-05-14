@@ -63,7 +63,7 @@ Create a Connection record to your Microsoft Active Directory host machine. The 
 ### Before you begin
 
 -   Request Integration Hub subscription
--   [Create Credential record for the Microsoft AD spoke](set-up-ad.md#)
+-   [Create Credential record for the Microsoft AD spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ad.md#)
 -   Role required: admin
 
 ### Procedure
@@ -72,9 +72,9 @@ Create a Connection record to your Microsoft Active Directory host machine. The 
 
 2.  Click **Connections**.
 
-3.  On the **AD** card, click **View Details**.![Microsoft AD connection card.](../image/click-AD-spoke-card.png)
+3.  On the **AD** card, click **View Details**.![Microsoft AD connection card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/click-AD-spoke-card.png)
 
-4.  Click **Configure**.![Configure button to configure Microsoft AD alias connection record.](../image/click-AD-alias-connection.png)
+4.  Click **Configure**.![Configure button to configure Microsoft AD alias connection record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/click-AD-alias-connection.png)
 
 5.  Enter these values.
 

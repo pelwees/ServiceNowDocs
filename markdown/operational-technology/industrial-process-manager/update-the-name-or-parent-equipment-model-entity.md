@@ -23,7 +23,7 @@ Role required: cmdb\_ot\_isa\_editor
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the equipment model \(![Equipment model button in the Industrial Workspace.](../image/equip-model-manager-button.png)\) button.
+2.  Select the equipment model \(![Equipment model button in the Industrial Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/equip-model-manager-button.png)\) button.
 
     Alternatively, you can navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
 
@@ -38,5 +38,5 @@ Role required: cmdb\_ot\_isa\_editor
 
 When you update the **Entity name** or **Parent** fields, the fields are also updated in the tree component in the Equipment Model Manager and the site filter on the Operational Technology \(OT\) landing page in the Industrial Workspace.
 
-**Parent Topic:**[Review and update the equipment model details](equipment-model-workspace.md)
+**Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 

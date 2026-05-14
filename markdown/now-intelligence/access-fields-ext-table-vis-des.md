@@ -28,7 +28,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 2.  Select **Create data visualization**.
 
-3.  Create any of the data visualizations listed under [Creating data visualizations](../concept/creating-data-visualizations.md), selecting a table data source.
+3.  Create any of the data visualizations listed under [Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/creating-data-visualizations.md), selecting a table data source.
 
 4.  Open one of the following sections of the configuration tab, depending on the visualization type:
 
@@ -43,11 +43,11 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 6.  Under Field, navigate to the desired reference field.
 
-    Reference fields have an Expand arrow ![Expand icon for data visualizations](../../par-for-workspace/image/icon-dv-expand.png).
+    Reference fields have an Expand arrow ![Expand icon for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-dv-expand.png).
 
 7.  Select the Expand arrow to show a list of fields in the table that the reference field points to.
 
-    ![Dot-walking to the Incident.Category field.](../image/dv-ext-tables-choose-field.png)
+    ![Dot-walking to the Incident.Category field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-ext-tables-choose-field.png)
 
 8.  Select a field, or continue to dot walk across reference fields until you find the desired field.
 
@@ -59,15 +59,15 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 In this example, you create a simple list of data from the Task table and include fields from the Indicator \[indicator\] and Problem \[problem\] tables, which extend Task.
 
 1.  You navigate to the Data Visualizations list in the Platform Analytics library and select **New**.
-2.  In the **Visualization type** field, you select Simple list \(![simple list icon](../image/inline-data-vis-list.png)\).
+2.  In the **Visualization type** field, you select Simple list \(![simple list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-list.png)\).
 3.  In the Configuration tab, you keep the default Task \[task\] table.
 
-    ![Report on extended tables in Visualization Designer, Configuration panel, with visualization name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task](../image/report-ext-tables-data-vis-des.png)
+    ![Report on extended tables in Visualization Designer, Configuration panel, with visualization name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/report-ext-tables-data-vis-des.png)
 
 4.  In the Columns field, you select **+Add** and scroll down to Incident.
-5.  Next to Incident, you see an Expand arrow ![Expand icon for data visualizations](../../par-for-workspace/image/icon-dv-expand.png) that indicates you can dot-walk. So you click that arrow, and scroll down through the fields on the Incident table until you reach the Category field, which you select.
+5.  Next to Incident, you see an Expand arrow ![Expand icon for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-dv-expand.png) that indicates you can dot-walk. So you click that arrow, and scroll down through the fields on the Incident table until you reach the Category field, which you select.
 
-    ![Dot-walking to the Incident.Category field.](../image/dv-ext-tables-choose-field.png)
+    ![Dot-walking to the Incident.Category field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-ext-tables-choose-field.png)
 
 6.  You repeat this process to add the Problem.Related incident field.
 7.  Add the Number, State, Assigned to, and Short Description fields, and move them into the order you want.
@@ -79,9 +79,9 @@ In this example, you create a simple list of data from the Task table and includ
 
 The final visualization shows either Incident.Category values, Problem.Related Incidents values, or both.
 
-![Data visualization showing Incident.Category data.](../image/dv-extended-table-category.png "Active Incidents and Problems data visualization showing Incident.Category content")
+![Data visualization showing Incident.Category data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-extended-table-category.png "Active Incidents and Problems data visualization showing Incident.Category content")
 
-![Data visualization showing Problem.Related incident data.](../image/dv-extended-table-rel-incidents.png "Active Incidents and Problems data visualization showing Related incident.Problem content")
+![Data visualization showing Problem.Related incident data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-extended-table-rel-incidents.png "Active Incidents and Problems data visualization showing Related incident.Problem content")
 
-**Parent Topic:**[Dot-walking from reference fields in a data visualization](ext-table-fields-dot-walk-vis-des.md)
+**Parent Topic:**[Dot-walking from reference fields in a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/ext-table-fields-dot-walk-vis-des.md)
 

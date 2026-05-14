@@ -19,7 +19,7 @@ In Healthcare Operations Core, healthcare organizations typically exist in a mul
 
 The Healthcare Operations app menu shows one example of what this structure might look like within your healthcare organization.
 
-![Healthcare Organizations app menu in Healthcare Operations Core.](../image/hcso-healthcare-org-menu.png)
+![Healthcare Organizations app menu in Healthcare Operations Core.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/hcso-healthcare-org-menu.png)
 
 Healthcare organizations use the child organization-related list to display their direct child organizations.
 

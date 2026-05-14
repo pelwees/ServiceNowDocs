@@ -18,7 +18,7 @@ You can create a new CAPI interface or extend an existing one by adding new oper
 ## Before you begin
 
 -   Role required: admin
--   Review [Default CAPI APIs](../reference/default-apis.md) and make sure the provider and product that you want to create do not exist.
+-   Review [Default CAPI APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/default-apis.md) and make sure the provider and product that you want to create do not exist.
 -   Familiarize yourself with the cloud provider API so that you know how to create REST calls to the provider. If you are not familiar with the headers, authentication requirements, endpoint, and data that you can pass into the provider API, you cannot build your own CAPI components.
 
 ## About this task
@@ -35,7 +35,7 @@ Usually, you can use the default interfaces that are provided in the Cloud Provi
 
     This example shows an interface for Azure storage:
 
-    ![Azure storage interface](../image/capi-azure-storage-interface.png)
+    ![Azure storage interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-azure-storage-interface.png)
 
 4.  In the CAPI Interface Operations related list, click **New**.
 
@@ -45,7 +45,7 @@ Usually, you can use the default interfaces that are provided in the Cloud Provi
 
     For example, you can create an operation called **CreateContainer** that corresponds to the Create Container operation in Azure.
 
-    ![Create Container](../image/capi-create-container.png)
+    ![Create Container](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-create-container.png)
 
 6.  Right-click the header and select **Save**.
 
@@ -55,7 +55,7 @@ Usually, you can use the default interfaces that are provided in the Cloud Provi
 
     If you do not know the parameters, the operation fails. In the Azure storage example, the **CreateContainer** operation must have the name of the container that is referred to here as **ContainerName**.
 
-    ![Container name](../image/capi-containername.png)
+    ![Container name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/capi-containername.png)
 
 9.  Click **Submit**.
 
@@ -64,7 +64,7 @@ Usually, you can use the default interfaces that are provided in the Cloud Provi
 
 ## What to do next
 
-[Create a CAPI API](create-api.md)
+[Create a CAPI API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-api.md)
 
-**Parent Topic:**[Cloud Provisioning and Governance](../concept/cloud-management-v2-landing-page.md)
+**Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/cloud-management-v2-landing-page.md)
 

@@ -33,7 +33,7 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     The example shows the 360° view of a business continuity plan and its details.
 
-    ![360° view for a BCP.](../image/360-bcp.png)
+    ![360° view for a BCP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bcp.png)
 
     -   **Name**: Name of the business continuity plan such as Customer Support Continuity Plan. You can select the business continuity plan to view its details.
     -   **BCM lead**: Assigned BCM lead for the business continuity plan.
@@ -42,10 +42,10 @@ The configurations for the 360° view are stored in **360° View Configurations*
     -   **Include**: Entities that are associated with the business continuity plan such as **Loss scenario**, **Documentation**, and **Recovery tasks** as shown in the example.
     The example shows the 360° relationship view for the Customer Support Continuity Plan and its related entities. When you select the **Loss scenario** capsule in the 360° view, the details of the associated loss scenarios for the Customer Support Continuity Plan are displayed in the Loss scenario panel on the right.
 
-    ![360-view-for-a-loss-scenario.](../image/360-bcp-loss-scenario.png)
+    ![360-view-for-a-loss-scenario.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-bcp-loss-scenario.png)
 
 4.  To navigate to the plan again, select the plan or list view in the breadcrumb navigation.
 
 
-**Parent Topic:**[Structured workflows for BCPs](../concept/bcp-tasks-performed-by-bcp-owner.md)
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-tasks-performed-by-bcp-owner.md)
 

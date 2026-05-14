@@ -25,7 +25,7 @@ Some aspects of the upgraded ServiceNow Studio behave differently than legacy St
 
 The **Can Edit Application in Studio** option on each app record does not apply to the new ServiceNow Studio.
 
-![The Can Edit Application in Studio option on each app record does not apply to the new ServiceNow Studio.](../image/sn-studio-can-edit-studio.png)
+![The Can Edit Application in Studio option on each app record does not apply to the new ServiceNow Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-can-edit-studio.png)
 
 ## Using ServiceNow Studio with Guided Application Creator \(GAC\) roles
 

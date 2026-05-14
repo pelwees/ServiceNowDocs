@@ -38,5 +38,5 @@ An API Key is created in the n8n environment.
 
 ## What to do next
 
-[Create an AI connection for n8n](create-a-ai-connection-for-n8n.md)
+[Create an AI connection for n8n](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-ai-connection-for-n8n.md)
 

@@ -23,14 +23,14 @@ Specify recipients for an email. If you select scheduled email, also specify the
 
 **Note:** If you select **Download** and the export takes longer than 10 seconds, you receive the export as an email attachment instead of a download. Thus the export completes asynchronously, freeing up the Now Assist panel.
 
-**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](../task/export-db-dv-now-assist-panel.md)
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
 
-[Supported export output types](nowass-supported-export-output.md)
+[Supported export output types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-supported-export-output.md)
 
-[Limitations for exporting dashboards and visualizations](limitations-exporting-db-dv.md)
+[Limitations for exporting dashboards and visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/limitations-exporting-db-dv.md)
 
-[Export guidelines and examples](nowass-export-guidelines-examples.md)
+[Export guidelines and examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-guidelines-examples.md)
 

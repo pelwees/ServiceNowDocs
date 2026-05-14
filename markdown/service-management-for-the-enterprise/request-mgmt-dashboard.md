@@ -17,7 +17,7 @@ Track the progress of new requests through the time they are worked on until the
 
 Starting in Xanadu release, the Request Management Platform Analytics Solutions dashboards are deprecated. Users can use the [Request dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/request.md) to view the actionable data visualizations that help in improving the business processes and practices.
 
-![Animated tour of the tabs of the Request Management - Requests dashboard](../image/request-mgmt-requests.gif)
+![Animated tour of the tabs of the Request Management - Requests dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/request-mgmt-requests.gif)
 
 ## End user and roles
 
@@ -92,5 +92,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Priority
 -   State
 
-**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

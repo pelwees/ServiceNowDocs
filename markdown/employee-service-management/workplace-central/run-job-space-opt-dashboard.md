@@ -32,5 +32,5 @@ This job should be run before viewing the dashboard for the first time. The job 
 3.  Select **Execute Now** to run the job.
 
 
-**Parent Topic:**[View Space Optimization metrics](view-space-opt-analytics.md)
+**Parent Topic:**[View Space Optimization metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-space-opt-analytics.md)
 

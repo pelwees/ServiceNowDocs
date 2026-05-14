@@ -25,7 +25,7 @@ Security teams can leverage XSIAM's detection capabilities alongside ServiceNowÂ
 
 See the following graphic to learn how Cortex XSIAM integrates with the ServiceNow AI Platform Security Operations applications.
 
-![Pan XSIAM process overview](../image/pan-xsiam.png)
+![Pan XSIAM process overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/pan-xsiam.png)
 
 ## Key Features
 

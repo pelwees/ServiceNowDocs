@@ -21,9 +21,9 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 ## About this task
 
-When you're editing a component in Theme Builder, you may encounter a warning symbol \(![Accessibility error](../image/tb-accessibility-icon.png)\), which indicates that the component doesn't comply with the Web Content Accessibility Guidelines \(WCAG\) 2.1 for color contrast. The WCAG 2.1 contrast ratio that Theme Builder targets for content and UI variables is 3:1. This ratio determines the contrasts between brighter and darker screen colors and how they relate to the user interface. The first digit shows the level of bright colors, and the second digit shows the relative level of dark colors. The 3:1 threshold provides optimal visibility to visually challenged users. For more information, see the [W3C Recommendation site for WCAG 2.1](https://www.w3.org/TR/WCAG21/).
+When you're editing a component in Theme Builder, you may encounter a warning symbol \(![Accessibility error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility-icon.png)\), which indicates that the component doesn't comply with the Web Content Accessibility Guidelines \(WCAG\) 2.1 for color contrast. The WCAG 2.1 contrast ratio that Theme Builder targets for content and UI variables is 3:1. This ratio determines the contrasts between brighter and darker screen colors and how they relate to the user interface. The first digit shows the level of bright colors, and the second digit shows the relative level of dark colors. The 3:1 threshold provides optimal visibility to visually challenged users. For more information, see the [W3C Recommendation site for WCAG 2.1](https://www.w3.org/TR/WCAG21/).
 
-The total number of accessibility violations are indicated on the red numbered badge \(![Accessibility inspector numbered badge.](../image/tb-a11y-inspector-badge.png)\) alongside the Accessibility inspector panel.
+The total number of accessibility violations are indicated on the red numbered badge \(![Accessibility inspector numbered badge.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-a11y-inspector-badge.png)\) alongside the Accessibility inspector panel.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Description
 </td><td>
 
 1.  Select the Accessibility inspector icon ![](../image/tb-accessibility-inspector-icon.png) to display a list of components with accessibility errors. A red badge displays the number of accessibility issues within your theme.
-2.  Select the Accessibility warning ![Accessibility warning.](../image/tb-accessibility-icon.png) symbol to view a description of the warning for the component state you want to improve.
+2.  Select the Accessibility warning ![Accessibility warning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility-icon.png) symbol to view a description of the warning for the component state you want to improve.
 3.  Select the pencil icon ![](../../workspace/image/pencil-icon.png)next to the component state that you want to improve.
 
 **Note:** The Component Editor page appears and the configurable style panel displays the editable hooks available for the selected component.
@@ -57,15 +57,15 @@ Description
 
 1.  Select the **Editing** tab.
 
-![Component styles Editing tab.](../image/tb-editing-tab.png)
+![Component styles Editing tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editing-tab.png)
 
 2.  Select a component that displays the accessibility warning symbol.
 
-![Accessibility warning](../image/tb-accessibility.png)
+![Accessibility warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility.png)
 
 3.  From the configurable style panel, select the accessibility warning symbol to view a description of the warning.
 
-![Description of accessibility warning.](../image/tb-accessibility-warning.png)
+![Description of accessibility warning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility-warning.png)
 
 4.  As indicated in the warning message, you can select the pencil icon ![](../../workspace/image/pencil-icon.png) to improve the contrast issue.
 
@@ -74,7 +74,7 @@ Description
 </td></tr></tbody>
 </table>2.  Select the accessibility warning symbol in the Component Editor to obtain more information for fixing the issue.
 
-    ![Accessibility warning](../image/tb-accessibility-warning-text.png)
+    ![Accessibility warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-accessibility-warning-text.png)
 
 3.  Select from the link in the warning to fix the contrast issue.
 
@@ -84,7 +84,7 @@ Description
 
 4.  Select the undo symbol to revert your changes back to the original color, if needed.
 
-    ![Undo color changes](../image/tb-color-undo.png)
+    ![Undo color changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-color-undo.png)
 
 5.  When you complete your changes and the accessibility warning symbol is no longer visible, select **Save changes**.
 

@@ -50,23 +50,23 @@ CAM OSCAL supports the following models:
     According to NIST, OSCAL SSP model enables a system owner to express the system implementation of an information system within the context of a specific baseline or OSCAL profile. Or, it represents a description of the control implementation of an information system.
 
     -   Authorization boundary: An authorization boundary defines the scope of a particular system that can be continuously managed and monitored using the CAM application.
-    -   Authorization package: Created for the purpose of processing the assets or systems through the seven steps mandated by the RMF. For more information, see [NIST RMF process overview](../../grc-nist-rmf/concept/nist-rmf-process.md).
+    -   Authorization package: Created for the purpose of processing the assets or systems through the seven steps mandated by the RMF. For more information, see [NIST RMF process overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-nist-rmf/concept/nist-rmf-process.md).
     -   Information type: Information type defines the impact level of the package, which is based on the criticality of the information system defined in the Categorize step.
     -   Control: When control objectives move to Implementation state, they become controls.
     -   Control requirement: When control objectives move to Implementation state, they become controls. Correspondingly, the control objective requirements convert to control requirement.
     -   Inherited Control: Controls that are entirely inherited from parent authorization package. Then, it means that all the control requirements of each such control are also inherited completely.
     -   Hybrid Control: These are partially inherited from the parent authorization package.
 
--   **[Export in OSCAL format](oscal-support-cam.md)**  
+-   **[Export in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-support-cam.md)**  
 CAM supports the Open Security Controls Assessment Language \(OSCAL\) used by the National Institute of Standards and Technology \(NIST\) that provides control-related information in standardized machine-readable formats. CAM supports Catalog, Profile, SSP, and Assessment Plan \(AP\) models.
--   **[Import in OSCAL format](import-oscal.md)**  
+-   **[Import in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal.md)**  
 The CAM OSCAL import offers a playbook-style experience designed to streamline the integration of security control data.
--   **[OSCAL Assessment Plan export and import](../../grc-cam/concept/oscal-assessment-plan-import-export.md)**  
+-   **[OSCAL Assessment Plan export and import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-cam/concept/oscal-assessment-plan-import-export.md)**  
 The OSCAL Assessment Plan \(AP\) model enables you to import testing plans from external tools and export engagement data for auditors and authorizers.
--   **[OSCAL Assessment Plan field mapping](../../grc-cam/concept/oscal-ap-field-mapping.md)**  
+-   **[OSCAL Assessment Plan field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-cam/concept/oscal-ap-field-mapping.md)**  
 CAM exports engagement and control test data to OSCAL Assessment Plan format using the following field mappings.
--   **[OSCAL namespace](oscal-namespace.md)**  
+-   **[OSCAL namespace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/oscal-namespace.md)**  
 To include CAM specific information, custom properties with a unique namespace are used to add impact and tailor the content as needed.
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 

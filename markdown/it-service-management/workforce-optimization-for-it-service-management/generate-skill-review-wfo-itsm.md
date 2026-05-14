@@ -25,7 +25,7 @@ Role required: sn\_wfo\_skillreview.manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Coaching icon \(![Coaching icon](../image/coaching-icon-uib.png)\).
+2.  Select the Coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-icon-uib.png)\).
 
 3.  Select the **Skills** tab.
 
@@ -87,5 +87,5 @@ Skills to review
     The agent will receive a notification to review the request.
 
 
-**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](../concept/skills-management-wfo-itsm.md)
+**Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/skills-management-wfo-itsm.md)
 

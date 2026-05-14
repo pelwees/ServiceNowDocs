@@ -28,7 +28,7 @@ The geo map \(outdoor map\) geographically displays the network sites and datace
 
 The following example shows the geo map layout in the Telecommunications Network Inventory application.
 
-![View of a Geo map layout.](../image/network-site-map.png "Geo map layout")
+![View of a Geo map layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/network-site-map.png "Geo map layout")
 
 <table id="table_crd_4hd_ndc"><thead><tr><th>
 
@@ -104,7 +104,7 @@ Map pane
 
 </td><td>
 
-The map pane displays the network site and datacenter with a location icon \(![Location Icon](../image/icon-location.png)\). You can zoom in or out of the map using the plus \(+\) or minus \(-\) buttons. When you zoom out, the sites that are closely situated near each other geographically, appear as cluster icon \(![Cluster Icon](../image/icon-cluster.png)\) on the map pane. The number that is next to a cluster indicates the number of sites in that cluster. If a same location has multiple sites, it shows as a location cluster icon \(![Location Cluster Icon](../image/icon-location-cluster.png)\). The location icon with red color \(![Red Location Icon](../image/icon-location-red.png)\) indicates that the site exceeds the capacity threshold. By default the map pane shows all the sites that are exceeded the capacity threshold. The `sn_ni_adv.threshold_capacity_site_usage` system property maintains the value of the threshold of site capacity usage in percentage.
+The map pane displays the network site and datacenter with a location icon \(![Location Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-location.png)\). You can zoom in or out of the map using the plus \(+\) or minus \(-\) buttons. When you zoom out, the sites that are closely situated near each other geographically, appear as cluster icon \(![Cluster Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-cluster.png)\) on the map pane. The number that is next to a cluster indicates the number of sites in that cluster. If a same location has multiple sites, it shows as a location cluster icon \(![Location Cluster Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-location-cluster.png)\). The location icon with red color \(![Red Location Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-location-red.png)\) indicates that the site exceeds the capacity threshold. By default the map pane shows all the sites that are exceeded the capacity threshold. The `sn_ni_adv.threshold_capacity_site_usage` system property maintains the value of the threshold of site capacity usage in percentage.
 
  You can view the following information with the map pane:
 
@@ -124,7 +124,7 @@ Details pane
 
 </td><td>
 
-The details pane shows the related information about a network site or datacenter that you’re selected in the map pane. You can select the info icon \( ![Info Icon](../image/icon-info.png)\) to view the details pane. If a location has multiple sites, the details pane shows the related information about all the sites. You can also view the available capacity of the site in the details pane.
+The details pane shows the related information about a network site or datacenter that you’re selected in the map pane. You can select the info icon \( ![Info Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-info.png)\) to view the details pane. If a location has multiple sites, the details pane shows the related information about all the sites. You can also view the available capacity of the site in the details pane.
 
 </td></tr><tr><td>
 
@@ -144,13 +144,13 @@ Use the search box to select a site to view its location and details. You can se
 You can access the geo map in the Telecommunications Network Inventory workspace as follows:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
-2.  Select the blue hub icon \(![Blue Hub Icon.](../image/icon-blue-hub.png)\) to open the Network visualization window.
+2.  Select the blue hub icon \(![Blue Hub Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-blue-hub.png)\) to open the Network visualization window.
 3.  Select **Geo map** tab.
 
-To learn more about how to use the geo map, see [View details of the geo map](../task/view-details-network-site-map.md).
+To learn more about how to use the geo map, see [View details of the geo map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/view-details-network-site-map.md).
 
 **Related topics**  
 
 
-[Geo map](using-network-site-map.md)
+[Geo map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-site-map.md)
 

@@ -21,17 +21,17 @@ When filters are applied on the widgets, the bottom half of the overview page is
 
 For example, on the **Priority** widget if you want to select all the critical incidents or response tasks then click on the **Critical** segment \(example screen shot below\) of the widget and those incidents or response task which are critical gets displayed in the list or card view.
 
-![Critical incidents](../image/critical-incidents.png "Overview section")
+![Critical incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/critical-incidents.png "Overview section")
 
 You can assign or reassign the security incidents or response tasks directly from this view by clicking on the ellipse icon and select the **Assign** \(option in card view\) or directly the **Assign** button \(option in list view\) accordingly to assign an incident.
 
-![Card view and Reassign](../image/card-view-example.png "Card view and Reassign example")
+![Card view and Reassign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/card-view-example.png "Card view and Reassign example")
 
-![workspace list view](../image/workspace-list-view.png "Assign incident")
+![workspace list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/workspace-list-view.png "Assign incident")
 
 Here is an example of the list view. The user can assign incidents from the list view as well.
 
-![assign incidents](../image/assign-dialogue-box.png "Assign incident")
+![assign incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/assign-dialogue-box.png "Assign incident")
 
 **Add** or modify the assignee details such as Assignment group and Assigned to, add worknotes, if required.
 
@@ -41,20 +41,20 @@ The user can delete security incidents from this view. Click the **Delete** butt
 
 The user can export the list content as well. Click the **Export** button to export the list in the desired format.
 
-**Parent Topic:**[Exploring SIR Workspace](exploring-security-incident-response-workspace.md)
+**Parent Topic:**[Exploring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[SIR Workspace plugins](components-installed-with-analyst-workspace.md)
+[SIR Workspace plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/components-installed-with-analyst-workspace.md)
 
-[SIR Workspace features](key-features.md)
+[SIR Workspace features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/key-features.md)
 
-[Upcoming section](../task/upcoming-section.md)
+[Upcoming section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/upcoming-section.md)
 
-[Quick links section](../concept/quick-links.md)
+[Quick links section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/quick-links.md)
 
-[Shift Handover Records section](../concept/shift-handover-records-section.md)
+[Shift Handover Records section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/shift-handover-records-section.md)
 
-[List view in SIR Workspace](../concept/setting-up-list-view-in-analyst-workspace.md)
+[List view in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/setting-up-list-view-in-analyst-workspace.md)
 

@@ -13,19 +13,19 @@ breadcrumb: [KPI Details, Platform Analytics experience, Platform Analytics]
 
 View system properties associated with KPI Details. See also how UUIDs are formed.
 
--   **[KPI Details Performance Analytics properties](../reference/kpi-details-pa-properties.md)**  
+-   **[KPI Details Performance Analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/kpi-details-pa-properties.md)**  
 KPI Details supports several Performance Analytics properties. These system properties control the behavior of Performance Analytics elements in the context of KPI Details.
--   **[KPI Details UUIDs](kpi-details-uuids.md)**  
+-   **[KPI Details UUIDs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-uuids.md)**  
 Every combination of breakdowns, elements, a time series aggregation, and a domain that you specify for an indicator has a unique identifier \(UUID\). To understand how the KPI Details and KPI Signals applications work, you should understand how these UUIDs are constructed.
 
-**Parent Topic:**[KPI Details](kpi-details.md)
+**Parent Topic:**[KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md)
 
 **Related topics**  
 
 
-[Exploring KPI Details](exploring-kpi-details.md)
+[Exploring KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/exploring-kpi-details.md)
 
-[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+[Examining indicators with KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/kpi-details-components.md)
 
-[Indicator targets and thresholds in KPI Details](kpi-details-targets.md)
+[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md)
 

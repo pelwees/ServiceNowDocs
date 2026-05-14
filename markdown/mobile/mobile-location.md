@@ -42,7 +42,7 @@ Depending on the administrator's configuration, one of the following location tr
 
 </td><td>
 
-![Settings page to enable location tracking on your app.](../image/location-tracking-enable.png "Enable location tracking on your app")
+![Settings page to enable location tracking on your app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/location-tracking-enable.png "Enable location tracking on your app")
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Tap the **Manual tracking** option in the Location tracking screen. You have the
 
 </td><td>
 
-![Location tracking manual configuration option.](../image/location-tracking-manual.png "Location tracking manual configuration")
+![Location tracking manual configuration option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/location-tracking-manual.png "Location tracking manual configuration")
 
 </td></tr><tr><td>
 
@@ -68,9 +68,9 @@ Action-based location tracking starts and stops when you tap on the correspondin
 
 </td><td>
 
-![Location tracking action-based tracking option.](../image/location-tracking-action.png "Location tracking action-based option")
+![Location tracking action-based tracking option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/location-tracking-action.png "Location tracking action-based option")
 
- ![Start and Stop buttons used in action-based location tracking.](../image/location-tracking-start-stop.png "Start and Stop buttons used in action-based location tracking")
+ ![Start and Stop buttons used in action-based location tracking.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/location-tracking-start-stop.png "Start and Stop buttons used in action-based location tracking")
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ If your administrator has enabled both options, you can select the tracking opti
 
 </td><td>
 
-![Location tracking screen with both options available.](../image/location-tracking-both.png "Location tracking screen with both options available")
+![Location tracking screen with both options available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/location-tracking-both.png "Location tracking screen with both options available")
 
 </td></tr></tbody>
 </table>## Location tracking behavior in defined situations

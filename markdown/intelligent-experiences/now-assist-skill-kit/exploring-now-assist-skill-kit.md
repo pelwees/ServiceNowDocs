@@ -36,7 +36,7 @@ You must also assign the sn\_skill\_builder.admin role to anyone who uses Now As
 
 The following diagram shows the user journey for Now Assist Skill Kit.
 
-![Define your LLM provider, then develop custom skills by specifying input sources and configuring the prompt. Test with data from your instance, and then deploy your new skill.](../image/nask-user-journey.png "User journey for Now Assist Skill Kit")
+![Define your LLM provider, then develop custom skills by specifying input sources and configuring the prompt. Test with data from your instance, and then deploy your new skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-user-journey.png "User journey for Now Assist Skill Kit")
 
 1.  Define the provider
 
@@ -61,14 +61,14 @@ Now Assist Skill Kit enables you to design your own custom generative AI functio
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create custom solutions by building a custom skill or workflow.|[Create a skill](../task/create-new-skill.md)|AI developer|
-|Create and edit prompts for skills and configure where you want to bring in data from to augment your prompt.|[Create a prompt](../task/create-prompt-template.md)|AI developer|
-|Test and iterate on your skill before activating it.|[Test a prompt](../task/test-prompt-template.md)|AI developer|
+|Create custom solutions by building a custom skill or workflow.|[Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/create-new-skill.md)|AI developer|
+|Create and edit prompts for skills and configure where you want to bring in data from to augment your prompt.|[Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/create-prompt-template.md)|AI developer|
+|Test and iterate on your skill before activating it.|[Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/test-prompt-template.md)|AI developer|
 
 ## What to explore next
 
 To learn more about configuring and using Now Assist Skill Kit, see:
 
--   [Configuring Now Assist Skill Kit](configuring-now-assist-skill-kit.md)
--   [Using Now Assist Skill Kit](using-now-assist-skill-kit.md)
+-   [Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configuring-now-assist-skill-kit.md)
+-   [Using Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/using-now-assist-skill-kit.md)
 

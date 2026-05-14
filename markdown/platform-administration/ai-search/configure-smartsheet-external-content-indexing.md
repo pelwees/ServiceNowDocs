@@ -61,12 +61,12 @@ To allow the connector to access your Smartsheet source system via the Smartshee
 
 Provide the following items to your connector admin:
 
--   The URL for your Smartsheet domain that you recorded in step [1](configure-smartsheet-external-content-indexing.md#record-smartsheet-domain-url-step).
--   The API key value that you copied in step [2.e](configure-smartsheet-external-content-indexing.md#copy-api-key-value-step).
+-   The URL for your Smartsheet domain that you recorded in step [1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-smartsheet-external-content-indexing.md#record-smartsheet-domain-url-step).
+-   The API key value that you copied in step [2.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-smartsheet-external-content-indexing.md#copy-api-key-value-step).
 
 Your connector admin needs these items to configure a Smartsheet external content connector to retrieve sheets and security principals from your Smartsheet source system.
 
-For details on creating and configuring a Smartsheet external content connector, see [Create a Smartsheet external content connector](create-ext-cont-connector-smartsheet.md).
+For details on creating and configuring a Smartsheet external content connector, see [Create a Smartsheet external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-smartsheet.md).
 
-**Parent Topic:**[Smartsheet external content connector](../concept/smartsheet-external-content-connector.md)
+**Parent Topic:**[Smartsheet external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/smartsheet-external-content-connector.md)
 

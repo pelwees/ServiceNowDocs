@@ -15,12 +15,12 @@ breadcrumb: [An app's table, Administer, Creator Studio, Building no-code applic
 
 Admins can change the associated table for an app built in Creator Studio. That is, you can change the table that the app saves its requests to.
 
-View the current table for the app by selecting the **Data management** tab in the App settings. For more information, see [Edit an app's settings in Creator Studio](../task/creator-studio-edit-app-settings.md).
+View the current table for the app by selecting the **Data management** tab in the App settings. For more information, see [Edit an app's settings in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/creator-studio-edit-app-settings.md).
 
 **Note:** There are two ways to change an app's associated table:
 
--   You can use Guided Setup, which is an easier, more streamlined process. For more information, see [Configure the table for Creator Studio apps](../task/config-creator-studio-guided-setup.md#).
--   You can update several tables on the ServiceNow AI Platform. For more information, see [Change a Creator Studio app's table](../task/creator-studio-change-app-table.md).
+-   You can use Guided Setup, which is an easier, more streamlined process. For more information, see [Configure the table for Creator Studio apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/config-creator-studio-guided-setup.md#).
+-   You can update several tables on the ServiceNow AI Platform. For more information, see [Change a Creator Studio app's table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../task/creator-studio-change-app-table.md).
 
 ## Reasons to change the table for an app
 
@@ -88,5 +88,5 @@ Workspace list configurations
 If you change the table after a user created a filtered list, the filtered list retains the original table.If multiple filtered lists use different tables, users will get errors based on those discrepancies. For example, they can't manage columns for a table that they don't have edit access to.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering an app's associated table](creator-studio-admin-app-table.md)
+</table>**Parent Topic:**[Administering an app's associated table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-admin-app-table.md)
 

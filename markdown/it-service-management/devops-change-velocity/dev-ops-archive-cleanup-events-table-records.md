@@ -62,5 +62,5 @@ Events in states **processed** and **ignored** are backed up and copied to the p
 -   Two weeks have passed since the scheduled job is active.
 -   The processed inbound event table has event data older than 7 weeks.
 
-**Parent Topic:**[Managing DevOps Change Velocity](using-devops-change-velocity.md)
+**Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 

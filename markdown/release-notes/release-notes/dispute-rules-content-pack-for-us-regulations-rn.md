@@ -44,5 +44,5 @@ Install Dispute Content Pack for US Regulations by requesting it from the Servic
     Integrate with the ServiceNow® Financial Services Card Operations application to improve the efficiency and compliance of card operations in financial institutions.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

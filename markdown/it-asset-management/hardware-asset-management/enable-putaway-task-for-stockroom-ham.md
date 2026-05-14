@@ -36,5 +36,5 @@ Role required: inventory\_user
 
 You can perform asset put away for in stock assets in the stockroom.
 
-**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+**Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 

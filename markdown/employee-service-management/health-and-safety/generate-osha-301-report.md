@@ -30,7 +30,7 @@ Role required: sn\_ohs\_im.compliance\_manager
 
     The Health and Safety Workspace opens in a new tab of the browser window.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
 
 3.  Open the injury an illness report from a safety incident or from the injury and illness list.
 
@@ -69,7 +69,7 @@ Steps
 </td></tr></tbody>
 </table>4.  Review the injury and illness report and select the **Recordable** option.
 
-    For more information, see [Injury and illness fields](../reference/hs-injury-illness-form.md).
+    For more information, see [Injury and illness fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../reference/hs-injury-illness-form.md).
 
 5.  Select **Generate OSHA 301 form**.
 
@@ -83,5 +83,5 @@ Steps
 -   The OSHA 301 form is generated using the saved template for OSHA 301 form and is available in the **Attachments** section of the incident.
 -   The OSHA 301 template is automatically filled with the information available in the injury and illness report.
 
-**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](../concept/generating-osha-forms.md)
+**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/generating-osha-forms.md)
 

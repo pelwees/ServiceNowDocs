@@ -17,7 +17,7 @@ Configure a record producer with additional details and add it to the reservable
 
 ## Before you begin
 
-Before you configure the record producer, refer to [Additional details record producer - Mapping Variable types and limitations](../reference/custom-fields-record-producer-mapping-variable-type-conditions.md).
+Before you configure the record producer, refer to [Additional details record producer - Mapping Variable types and limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../reference/custom-fields-record-producer-mapping-variable-type-conditions.md).
 
 **Note:** The record producer is only used to retrieve data related to the additional fields.
 
@@ -70,11 +70,11 @@ Create a record producer with additional details and link it with the reservable
 
 Record producer form of 'Related Information':
 
-![Record producer form of 'Related Information'.](../image/additionaldetails-recordproducer.png)
+![Record producer form of 'Related Information'.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/additionaldetails-recordproducer.png)
 
 Reservation portal - Reservation form with the 'Related Information' section:
 
-![Reservation portal - Reservation form with the 'Related Information' section.](../image/additionaldetails-rsvportal.png)
+![Reservation portal - Reservation form with the 'Related Information' section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/additionaldetails-rsvportal.png)
 
 ## Procedure
 
@@ -160,7 +160,7 @@ The record producer is created with the additional details.
 
 ## What to do next
 
-[Create a record producer to add additional details](create-a-record-producer-to-add-additional-fields.md)
+[Create a record producer to add additional details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-record-producer-to-add-additional-fields.md)
 
-**Parent Topic:**[Configure a reservable module](config-reservable-module.md)
+**Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 

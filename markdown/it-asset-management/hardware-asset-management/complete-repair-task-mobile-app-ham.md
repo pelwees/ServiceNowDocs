@@ -39,8 +39,8 @@ You can close any task that belongs to the following task types:
 
 4.  Filter or sort the task view.
 
-    -   To filter your tasks, tap the Filter icon \(![Filter icon](../../enterprise-asset-management/image/filter-mobile-task-eam.png)\) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
-    -   To sort your tasks, tap the Filter icon \(![Filter icon](../../enterprise-asset-management/image/filter-mobile-task-eam.png)\), tap **Sort by**, and select the fields to sort your tasks.
+    -   To filter your tasks, tap the Filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/filter-mobile-task-eam.png)\) and enter the values to use as a filter in the **Due Date**, **Asset**, **Location**, or **Priority** fields.
+    -   To sort your tasks, tap the Filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../enterprise-asset-management/image/filter-mobile-task-eam.png)\), tap **Sort by**, and select the fields to sort your tasks.
 5.  Tap the repair task that you want to close.
 
 6.  On the **Details** tab of the repair task, tap **Close** .
@@ -97,14 +97,14 @@ In the **Evaluation result** field, select any of the following:-   **Redeployab
 
 The state of the repair task changes to Closed Complete.
 
-**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](../concept/repair-orders-mobile-agent-ham.md)
+**Parent Topic:**[Manage hardware asset repair tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/repair-orders-mobile-agent-ham.md)
 
 **Related topics**  
 
 
-[View your hardware asset repair tasks using the Mobile Agent application](view-ham-repair-tasks-using-mobile-agent.md)
+[View your hardware asset repair tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-ham-repair-tasks-using-mobile-agent.md)
 
-[Start working on a hardware asset repair task using the Mobile Agent application](start-work-repair-task-mobile-ham.md)
+[Start working on a hardware asset repair task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/start-work-repair-task-mobile-ham.md)
 
-[Record time worked on a hardware asset repair task using the Mobile Agent application](../concept/record-time-worked-mobile-agent-app-con.md)
+[Record time worked on a hardware asset repair task using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/record-time-worked-mobile-agent-app-con.md)
 

@@ -27,18 +27,18 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     The Alert form opens.
 
-    ![The Alert form from All Alerts list in Event Management.](../image/event-alert-record.png)
+    ![The Alert form from All Alerts list in Event Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/event-alert-record.png)
 
 3.  Select **Quick Response**.
 
     The **Quick Response** menu opens.
 
-    ![Event management alert record quick response menu.](../image/event-alert-response-dependency.png)
+    ![Event management alert record quick response menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/event-alert-response-dependency.png)
 
 4.  Under **Launch Application**, select **Dependency View**.
 
     The map opens in Service Operations Workspace.
 
 
-**Parent Topic:**[Dependency View maps](../concept/dependency-maps.md)
+**Parent Topic:**[Dependency View maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/dependency-maps.md)
 

@@ -36,5 +36,5 @@ An administrator may need to configure the form to show all the fields listed in
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Creating users, companies, and departments](../../roles/concept/using-user-administration.md)
+**Parent Topic:**[Creating users, companies, and departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../roles/concept/using-user-administration.md)
 

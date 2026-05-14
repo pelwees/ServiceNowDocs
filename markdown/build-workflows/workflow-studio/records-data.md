@@ -37,9 +37,9 @@ The records data type is supported in script by the GlideRecord class, which can
 
 ## Output of a Look Up Records action
 
-![Execution details for a Look Up Records action](../images/example-look-up-records-action-execution-details.png)
+![Execution details for a Look Up Records action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-look-up-records-action-execution-details.png)
 
 The Look Up Records action uses the Records data type to store its results. In this example, the action looked up Configuration Item records assigned to the requester of a change request. Each configuration item record is a reference by its Sys ID. The flow execution details shows the configuration item display value, which in this case is the name.
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

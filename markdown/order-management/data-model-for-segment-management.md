@@ -131,16 +131,16 @@ Domain to which the segment belongs.
 
 Perform the following configuration tasks to set up the data model tables to establish an association between segment management and Partner Relationship Management.
 
--   [Configure Program Segment Mapping](../task/configure-program-segment-mapping.md)
--   [Configure Program Segment Criteria](../task/configure-program-segment-criteria.md)
--   [Configure Program Criteria](../task/configure-program-criteria.md)
+-   [Configure Program Segment Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-program-segment-mapping.md)
+-   [Configure Program Segment Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-program-segment-criteria.md)
+-   [Configure Program Criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-program-criteria.md)
 
-**Parent Topic:**[Configure Segment Management](configure-segment-management.md)
+**Parent Topic:**[Configure Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-segment-management.md)
 
 **Related topics**  
 
 
-[Install Segment Management](../task/install-segment-management.md)
+[Install Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/install-segment-management.md)
 
-[Roles and components of Segment Management](roles-and-components-of-segment-management.md)
+[Roles and components of Segment Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-segment-management.md)
 

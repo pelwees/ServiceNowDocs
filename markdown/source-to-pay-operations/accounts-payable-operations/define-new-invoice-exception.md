@@ -29,7 +29,7 @@ Role required: sn\_ap\_apm.admin
 
 3.  On the Invoice exception definition form, fill in the fields.
 
-    For a description of the field values, see [Invoice exception definition form](../reference/invoice-exception-definition-form.md). Example: Missing business owner or legal entity.
+    For a description of the field values, see [Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/invoice-exception-definition-form.md). Example: Missing business owner or legal entity.
 
 4.  Select **Active**.
 
@@ -41,7 +41,7 @@ Role required: sn\_ap\_apm.admin
 
 8.  Configure the subflow that you want to choose from the drop-down list.
 
-    For more information on sub flows, see [Create subflow in workflow studio](create-subflow-in-workflow-studio.md).
+    For more information on sub flows, see [Create subflow in workflow studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-subflow-in-workflow-studio.md).
 
 9.  Select **Save**.
 
@@ -62,8 +62,8 @@ Role required: sn\_ap\_apm.admin
     The exception is raised and resolved successfully.
 
 
--   **[Create subflow in workflow studio](create-subflow-in-workflow-studio.md)**  
+-   **[Create subflow in workflow studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-subflow-in-workflow-studio.md)**  
 Use subflows to configure conditions that are applied on the invoice and raise an exception.
 
-**Parent Topic:**[Invoice exceptions](../concept/work-with-invoice-exceptions.md)
+**Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-invoice-exceptions.md)
 

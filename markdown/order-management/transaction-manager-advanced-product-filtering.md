@@ -98,7 +98,7 @@ First, define a managed table. Follow these steps:
     The system syncs the updated data every 15 minutes, making the latest information available during product filtering.
 
 
-![Tables list](../images/cpq-txn-mgr-adv-product-filtering-1.png)
+![Tables list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-adv-product-filtering-1.png)
 
 Next, create a product filter rule.
 
@@ -121,9 +121,9 @@ Next, create a product filter rule.
 
 **Note:** Any change made to an existing rule must be redeployed for it to take effect.
 
-![Product filter rules](../images/cpq-txn-mgr-adv-product-filtering-2.png)
+![Product filter rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-adv-product-filtering-2.png)
 
-![Product pricing screen](../images/cpq-txn-mgr-adv-product-filtering-3.png)
+![Product pricing screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-adv-product-filtering-3.png)
 
 To test the filter in a transaction, start a transaction in the Transaction Manager, and the proceed to the product selection stage.
 

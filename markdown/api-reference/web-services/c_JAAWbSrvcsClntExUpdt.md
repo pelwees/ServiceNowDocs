@@ -77,5 +77,5 @@ package com.service_now.www ;
  }
 ```
 
-**Parent Topic:**[Java Apache Axis2 web services client examples](c_JAAWbSrvcsClntEx.md)
+**Parent Topic:**[Java Apache Axis2 web services client examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_JAAWbSrvcsClntEx.md)
 

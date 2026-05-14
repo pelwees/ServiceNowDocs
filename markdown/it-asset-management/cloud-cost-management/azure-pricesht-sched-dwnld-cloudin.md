@@ -150,7 +150,7 @@ Details for the execution that is currently running.
 **Related topics**  
 
 
-[Rightsizing resources](../concept/rs-cloudin.md)
+[Rightsizing resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/rs-cloudin.md)
 
-[Specify rate discounts to enable accurate pricing for Rightsizing recommendations](discounts-specify-cloudin.md)
+[Specify rate discounts to enable accurate pricing for Rightsizing recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/discounts-specify-cloudin.md)
 

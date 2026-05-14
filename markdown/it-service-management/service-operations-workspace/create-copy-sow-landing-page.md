@@ -25,9 +25,9 @@ Role required: admin or ui\_builder\_admin
 
 2.  From the **Experiences** list, select **Service Operations Workspace**.
 
-3.  Under **Pages and Variants** section, under **Home**, point to **Service desk landing page SNC**, and select ![options icon](../image/options-variant.png).
+3.  Under **Pages and Variants** section, under **Home**, point to **Service desk landing page SNC**, and select ![options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/options-variant.png).
 
-4.  Select **Duplicate variant** ![Duplicate icon](../image/duplicate-variant.png).
+4.  Select **Duplicate variant** ![Duplicate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/duplicate-variant.png).
 
     -   A copy of the Service Operations Workspace landing page, along with its subpages, is created under the **Variants** section.
     -   The copy of the landing page is created in the scope of the current logged-in user.
@@ -36,12 +36,12 @@ Role required: admin or ui\_builder\_admin
     For information about components, see [Work with components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md).
 
 
-**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](../concept/customize-sow-landing-page.md)
+**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/customize-sow-landing-page.md)
 
 **Related topics**  
 
 
-[Customize Service Operations Workspace landing page](configure-service-operations-workspace-landing-page.md)
+[Customize Service Operations Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-service-operations-workspace-landing-page.md)
 
-[Customize the incident record page](../concept/customize-the-incident-record-page.md#)
+[Customize the incident record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/customize-the-incident-record-page.md#)
 

@@ -27,11 +27,11 @@ Role required: impersonator
 
     -   In Next Experience:
 
-        ![Impersonate user dialog box in Next Experience.](../image/impersonation-3.png)
+        ![Impersonate user dialog box in Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/impersonation-3.png)
 
     -   In Core UI:
 
-        ![Impersonate User in Core UI](../image/imperson-CoreUI.png)
+        ![Impersonate User in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/imperson-CoreUI.png)
 
     The Impersonate user dialog box displays.
 
@@ -39,11 +39,11 @@ Role required: impersonator
 
     -   In Next Experience:
 
-        ![Impersonate user dialog box in Next Experience.](../image/impersonation-4.png)
+        ![Impersonate user dialog box in Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/impersonation-4.png)
 
     -   In Core UI:
 
-        ![Impersonate User dialog box in Core UI](../image/impersonate-user-CoreUI.png)
+        ![Impersonate User dialog box in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../image/impersonate-user-CoreUI.png)
 
 4.  Select **Impersonate User**.
 
@@ -54,5 +54,5 @@ Role required: impersonator
     **Note:** In some cases, impersonating a user might cause an issue that makes it difficult to switch back. If you’re presented with a broken page while impersonating a user in a test environment, you may need to force a logout. To do so, navigate to http://&lt;instance name&gt;.service-now.com/logout.do and log back in.
 
 
-**Parent Topic:**[Impersonating users](../concept/c_ImpersonateAUser.md)
+**Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../concept/c_ImpersonateAUser.md)
 

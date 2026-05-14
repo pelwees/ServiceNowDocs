@@ -15,11 +15,11 @@ The Chromium connector methods do different tasks on the applications, screens, 
 
 ## Chromium connector method levels
 
-[Application level methods](connectors-chrome-methods.md#chrome-screen-level-methods)
+[Application level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-chrome-methods.md#chrome-screen-level-methods)
 
-[Screen level methods](connectors-chrome-methods.md#chrome-screen-level-methods)
+[Screen level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-chrome-methods.md#chrome-screen-level-methods)
 
-[Element level methods](connectors-chrome-methods.md#chrome-element-level-methods)
+[Element level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-chrome-methods.md#chrome-element-level-methods)
 
 ## Application level methods
 
@@ -27,7 +27,7 @@ The Chromium connector methods do different tasks on the applications, screens, 
 
 Launches the web page based on the URL specified.
 
-To provide inputs, see [Configure port properties](../task/configure-input-port-properties.md)
+To provide inputs, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md)
 
 |Parameter|Description|Data Port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -41,11 +41,11 @@ Sets a delay before the specified screens load.
 
 To specify the screen, do the following steps:
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  On the CHOOSE SCREENS window, select the required screen.
 3.  Click **OK**.
 
-To provide inputs to the fields, see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 |Parameter|Description|Data Port type|Data type|Default value|Mandatory?|Notes|
 |---------|-----------|--------------|---------|-------------|----------|-----|
@@ -72,7 +72,7 @@ Returns the values of the specified fields or elements. For example, it can retu
 
 To specify the fields, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  In the CHOOSE FORM ELEMENTS window, select the required fields.
 3.  Click **OK**.
 
@@ -124,7 +124,7 @@ Returns the URL of the web page that was captured.
 
 Returns the value within an XML node from the specified XML path.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 |Parameter|Description|Data Port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -135,7 +135,7 @@ To provide inputs to the fields see [Configure port properties](../task/configur
 
 Returns the Boolean value based on whether the screen is rendered successfully on the web application.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 |Parameter|Description|Data Port type|Data type|Default type|Mandatory?|Notes|
 |---------|-----------|--------------|---------|------------|----------|-----|
@@ -152,7 +152,7 @@ Performs a click operation on the element.
 
 Sets the focus on the element.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 |Parameter|Description|Data Port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -203,7 +203,7 @@ Returns the Boolean status of whether the captured element has loaded.
 
 Automate entering password securely in the password field of a web-based application, for example securely enter password in the password field of a login form.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 <table id="table_jrs_nts_vzb"><thead><tr><th>
 
@@ -294,7 +294,7 @@ Yes
 
 Passes shortcut keys to the captured element.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 |Parameter|Description|Data Port type|Data type|Default value|Mandatory?|
 |---------|-----------|--------------|---------|-------------|----------|
@@ -316,9 +316,9 @@ Simulates keystrokes on web pages and windows.
 
 -   **Inputs**
 
-    [ClearExistingValue](../reuse/element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
+    [ClearExistingValue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
 
-    [TypeDelay](../reuse/element-level-method-parameters.md#parameters-common-input-typedelay)
+    [TypeDelay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameters-common-input-typedelay)
 
 
 ## SimulateMouseEvent
@@ -327,7 +327,7 @@ Simulates the mouse event you specify on an element on a web-based application. 
 
 **Important:** To simulate a mouse event on an element, it must already have that specific event defined in the web page HTML. For example, to simulate the `contextmenu` event on an element, the element must already have the `contextmenu` event defined in the HTML.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md)
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md)
 
 <table id="table_kqf_hxc_xzb"><thead><tr><th>
 
@@ -427,7 +427,7 @@ The method supports these mouse button actions.-   left
 
 Simulates the HTML event that you specify on a Google Chrome page or an element on the page.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md)
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md)
 
 <table id="table_zlh_5kw_rzb"><thead><tr><th>
 
@@ -491,5 +491,5 @@ None
 Yes
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Chromium connector](../concept/chrome-connector.md)
+</table>**Parent Topic:**[Chromium connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/chrome-connector.md)
 

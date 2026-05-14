@@ -218,5 +218,5 @@ Investigative case task parent table. Non-specific to PSDS ICM.
 N/A
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Investigative Case Management Data Model](psds-data-model-icm.md)
+</table>**Parent Topic:**[Investigative Case Management Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-icm.md)
 

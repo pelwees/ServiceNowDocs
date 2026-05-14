@@ -27,13 +27,13 @@ Role required: admin
 
 3.  Select the More actions icon ![](../../integrationhub/images/more-actions-menu-icon.png).
 
-    ![Screenshot showing the More actions menu and the Edit option.](../image/tm-edit-project.png)
+    ![Screenshot showing the More actions menu and the Edit option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-edit-project.png)
 
 4.  Select **Edit**.
 
 5.  Navigate to the project settings you want to modify using the navigation.
 
-    ![Screenshot showing the navigation menu in a project.](../image/tm-edit-nav.png)
+    ![Screenshot showing the navigation menu in a project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-edit-nav.png)
 
 6.  Navigate to the **Summary** page when ready and select **Update project**.
 
@@ -41,9 +41,9 @@ Role required: admin
 **Related topics**  
 
 
-[Create a Task Mining project](create-task-mining-projects.md)
+[Create a Task Mining project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/create-task-mining-projects.md)
 
-[Define user actions for task logging](mine-data.md)
+[Define user actions for task logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mine-data.md)
 
-[Add workstation users to a Task Mining project](add-users-to-task-mining-project.md)
+[Add workstation users to a Task Mining project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/add-users-to-task-mining-project.md)
 

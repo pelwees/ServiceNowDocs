@@ -50,7 +50,7 @@ These challenges led to data governance risks, reduced customer trust, and incre
 -   Internal and external users are assigned to their respective locations with appropriate personas \(for example, manager, employee, relationship manager\).
 -   Customers and accounts are registered in the system and linked to a responsible employee.
 
-![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a financial organization.](../image/smf-fso-usecase.png "Business location and access hierarchy in a financial institution")
+![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a financial organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/smf-fso-usecase.png "Business location and access hierarchy in a financial institution")
 
 **Resolution workflow/ Solution implementation**:
 
@@ -130,7 +130,7 @@ These challenges led to compliance risks, reduced patient trust, and increased m
 -   Internal and external users are assigned to their respective locations with appropriate personas \(for example, administrator, clinician, researcher, relationship manager\).
 -   Patients and healthcare accounts are registered in the system and linked to a responsible employee.
 
-![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a healthcare organization.](../image/smf-hcls-usecase.png "Business location and access hierarchy in Healthcare and Life Sciences")
+![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a healthcare organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/smf-hcls-usecase.png "Business location and access hierarchy in Healthcare and Life Sciences")
 
 **Resolution workflow/ Solution implementation**:
 
@@ -201,7 +201,7 @@ These challenges led to data inconsistencies, compliance risks, and service inef
 -   Relationship managers: Primary contacts for assigned households.
 -   Citizens: Household members, including head of household and authorized representatives.
 
-![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a public sector organization.](../image/smf-psds-usecase.png "Business location and access hierarchy in Healthcare and Life Sciences")
+![Hierarchical diagram of internal and external business locations showing role-based relationships and data access in a public sector organization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/smf-psds-usecase.png "Business location and access hierarchy in Healthcare and Life Sciences")
 
 **Resolution workflow/ Solution implementation**:
 

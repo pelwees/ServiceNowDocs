@@ -114,7 +114,7 @@ Two
 The approval flow for risk reduction is same as the exception approvals \(deferrals\).
 
 </td></tr></tbody>
-</table>See [Vulnerability Response personas and granular roles](../../vulnerability-response/concept/vr-persona-overview.md#) and [Assign the Vulnerability Response persona roles using Setup Assistant](../../vulnerability-response/task/vr-assign-personas_SA.md) for more information about assigning persona roles to users and users to groups.
+</table>See [Vulnerability Response personas and granular roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/concept/vr-persona-overview.md#) and [Assign the Vulnerability Response persona roles using Setup Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/task/vr-assign-personas_SA.md) for more information about assigning persona roles to users and users to groups.
 
 **Note:**
 
@@ -127,7 +127,7 @@ The approval flow for risk reduction is same as the exception approvals \(deferr
 
     If an approver doesn’t have access to the workspace, approvals can be processed at **Vulnerability Response** &gt; **My Approvals** in the classic environment.
 
-2.  Select the List view icon \(![LIst view icon.](../../vulnerability-response/image/icon-polaris-list-workspace.png)\).
+2.  Select the List view icon \(![LIst view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/icon-polaris-list-workspace.png)\).
 
     The List page is displayed.
 
@@ -173,5 +173,5 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/using-unified-security-exposure-management.md)
 

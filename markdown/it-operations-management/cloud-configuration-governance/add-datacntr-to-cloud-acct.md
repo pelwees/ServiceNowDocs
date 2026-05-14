@@ -27,7 +27,7 @@ Role required: sn\_cmp.cloud\_admin
 
 3.  Click the **Datacenters** tab and then select the **Service Account** that holds the credentials that enable access to the provider account that includes the datacenter to add.
 
-    ![Add a datacenter](../image/add-datacenter-to-srvc-acct.png)
+    ![Add a datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/add-datacenter-to-srvc-acct.png)
 
     When you select the service account, the list of discovered datacenters for the service account appears.
 
@@ -42,5 +42,5 @@ Role required: sn\_cmp.cloud\_admin
 
 The datacenters are added to the cloud account and appear on the **Datacenters** tab. When Discovery runs, the resources in the datacenter appear on the Resources tab.
 
-![New datacenter on the cloud account](../image/new-datacenter-on-cloud-acct.png "New datacenter on the cloud account")
+![New datacenter on the cloud account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/new-datacenter-on-cloud-acct.png "New datacenter on the cloud account")
 

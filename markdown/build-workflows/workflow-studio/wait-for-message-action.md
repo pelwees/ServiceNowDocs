@@ -78,21 +78,21 @@ Use these general guidelines when creating flows that wait for a message.
 
 ## Wait for message to run Go back to flow logic
 
-![Execution details of the Wait for Message action in the Waiting state. The other steps of the flow are in the Not Run state.](../images/example-wait-for-message-01.png)
+![Execution details of the Wait for Message action in the Waiting state. The other steps of the flow are in the Not Run state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-wait-for-message-01.png)
 
 In this example flow, the approval state determines whether to run the Wait for Message action. If the approval state is skipped or rejected, the flow waits for a message from the sendMessage\(\) API before continuing. You could use this logic to fix a rejected approval request and resubmit it for approval.
 
 In this example, Fred Luddy rejected the approval and requested more information. To resume the flow, someone has to address Fred's comments, and then run the sendMessage\(\) API to send the proper message `Resume Flow`.
 
-![Execution details of the Wait for Message action in the Completed state. The payload has a runtime value of Resubmitted for approval.](../images/example-wait-for-message-03.png)
+![Execution details of the Wait for Message action in the Completed state. The payload has a runtime value of Resubmitted for approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-wait-for-message-03.png)
 
 After fixing the change request, someone ran the sendMessage\(\) API to send the message `Resume Flow` and also send the flow a Payload value of `Resubmitted for approval`. For more information about the sendMessage\(\) API, see [FlowAPI - sendMessage\(String contextSysID, String message, String payload\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/ScriptableFlowAPI.md).
 
 Since the API message value matched the conditions of the Wait for Message action, the flow resumed running. In this case, the flow used a Go back to flow logic block to rerun the Ask for Approval action.
 
-![Example activity stream of a change record with the text Resubmitted for approval.](../images/example-payload-wait-for-message.png)
+![Example activity stream of a change record with the text Resubmitted for approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-payload-wait-for-message.png)
 
 Here is the activity log of the change request. The payload value `Resubmitted for approval` was added to the **Additional comments** field.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

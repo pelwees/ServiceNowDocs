@@ -28,7 +28,7 @@ Role required: adaptive\_auth\_admin
     -   Email Provider Configuration
     -   Twilio Provider Configuration
     -   Infobip Provider Configuration.
-    ![MFA Providers](../images/mfa-provider.png)
+    ![MFA Providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-provider.png)
 
 2.  To create a new provider, click **New**.
 

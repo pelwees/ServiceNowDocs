@@ -47,7 +47,7 @@ Role required: password\_reset\_admin or admin
 
     **Note:** Do not edit or delete the Category declaration.
 
-    ![New extension script](../image/NewExtensionScript.png)
+    ![New extension script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/NewExtensionScript.png)
 
 6.  Click **Update**.
 

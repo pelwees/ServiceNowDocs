@@ -24,5 +24,5 @@ Use this table to see how the due date for a task is calculated based on its pri
 |5 - Within 30 days|Add 30 days to the current date|
 |6 - Unplanned|None|
 
-**Parent Topic:**[Digital Factory Workspace reference](digital-factory-workspace-reference.md)
+**Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 

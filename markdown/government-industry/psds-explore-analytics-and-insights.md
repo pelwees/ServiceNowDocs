@@ -19,7 +19,7 @@ By using the preconfigured Performance Analytics dashboards, you can provide you
 
 The following example shows a Performance Analytics dashboard with citizen service trends and how efficient government cases were handled that month.
 
-![Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.](../image/constituent-service-overview-dboard-new.png "Public Sector Digital Services Constituent Services dashboard")
+![Constituent Services Overview tab that displays indicators and reports for constituent cases represented by various graphs and tiles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/constituent-service-overview-dboard-new.png "Public Sector Digital Services Constituent Services dashboard")
 
-To learn more about the Performance Analytics solutions, see [Analytics and Reporting Solutions for Public Sector Digital Services](../../../use/application-content-packs/concept/psds-content-pack.md).
+To learn more about the Performance Analytics solutions, see [Analytics and Reporting Solutions for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../use/application-content-packs/concept/psds-content-pack.md).
 

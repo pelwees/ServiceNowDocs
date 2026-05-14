@@ -53,5 +53,5 @@ Role required: evt\_mgmt\_admin
     The integration tile is available in the **Installed integrations** tab on the Integrations Launchpad
 
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](../concept/hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-implement.md)
 

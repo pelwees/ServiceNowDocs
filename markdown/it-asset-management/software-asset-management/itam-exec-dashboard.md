@@ -19,7 +19,7 @@ To access the Asset Management Executive dashboard, you must either have the Sof
 
 To view the Asset Management Executive dashboard, navigate to **Asset Executive Workspace** &gt; **Asset Management Executive Dashboard**. A user with the role of sn\_itam\_common.asset\_exec can access the dashboard.
 
-![Asset Management Executive Dashboard.](../image/itam-exec-dboard.png "Asset Management Executive Dashboard")
+![Asset Management Executive Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/itam-exec-dboard.png "Asset Management Executive Dashboard")
 
 You can filter the results in the dashboard by product, domain, or by both product and domain. If you filter by domain, the filter gets applied to all the widgets. If you filter by product, since some widgets are specific to certain products, the filter is not applied to all the widgets.
 
@@ -299,5 +299,5 @@ Number of hardware models that are reaching their end of life in the next 90 day
 Not applicable.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+</table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

@@ -90,5 +90,5 @@ If you accepted any recommendations, confirm the creation of your issues by navi
 
 **Note:** Dismissed issues and created issues reappear if when you select **Generate predicted issues** again.
 
-**Parent Topic:**[Generate issue recommendations for TPRM](create-recommendation-tprm-issue.md)
+**Parent Topic:**[Generate issue recommendations for TPRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md)
 

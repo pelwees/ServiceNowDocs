@@ -24,7 +24,7 @@ Domain separation is supported in Credentials and Connections. Domain separation
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
-For more information on support levels, see [Application support for domain separation](../../../administer/company-and-domain-separation/reference/domain-separated-apps.md).
+For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../administer/company-and-domain-separation/reference/domain-separated-apps.md).
 
 ## Overview
 
@@ -38,10 +38,10 @@ Credentials access resources outside of the instance, and are used by the [Disco
 
 Connections access a target host using a JMS, JDBC, or HTTP\(s\) connection. You can specify global or a specific domain to which the connection belongs.
 
-**Parent Topic:**[Explore credentials, connections, and aliases](credentials-connections-alias.md)
+**Parent Topic:**[Explore credentials, connections, and aliases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md)
 
 **Related topics**  
 
 
-[Domain separation for service providers](../../../administer/company-and-domain-separation/reference/domain-sep-landing-page.md)
+[Domain separation for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../administer/company-and-domain-separation/reference/domain-sep-landing-page.md)
 

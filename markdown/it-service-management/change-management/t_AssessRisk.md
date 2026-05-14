@@ -42,17 +42,17 @@ The **Risk Assessment** related link is available only when the change request m
 
     After submitting the risk assessment, click the **Risk Calculation** related link to calculate the risk. The result of risk assessment, risk calculation, and the value that appears in the **Risk** field of the change request form appears.
 
-    ![risk calculation results](../image/RSKASS4.png "Risk calculation results")
+    ![risk calculation results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/RSKASS4.png "Risk calculation results")
 
     Users with survey\_admin or survey\_reader role can navigate to **Legacy Surveys** &gt; **Survey Responses** and filter by **Instance**. Survey instances are individual assessments distinguished by the date and time when they are taken.
 
 
-**Parent Topic:**[Risk assessment](../concept/c_RskAsmtCalc.md)
+**Parent Topic:**[Risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_RskAsmtCalc.md)
 
 **Related topics**  
 
 
-[Define risk assessments](t_DefineARiskAssessment.md)
+[Define risk assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_DefineARiskAssessment.md)
 
-[Risk assessment](../concept/c_RskAsmtCalc.md)
+[Risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_RskAsmtCalc.md)
 

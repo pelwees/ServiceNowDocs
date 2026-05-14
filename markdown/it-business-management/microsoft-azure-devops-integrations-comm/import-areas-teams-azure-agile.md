@@ -17,7 +17,7 @@ Import areas, teams, and iterations of your Azure DevOps projects. These details
 
 ## Before you begin
 
--   [Discover and import Azure DevOps projects](discover-import-azure-projects.md).
+-   [Discover and import Azure DevOps projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/discover-import-azure-projects.md).
 -   Role required: sn\_ado\_int.user
 
 ## Procedure
@@ -37,9 +37,9 @@ Import areas, teams, and iterations of your Azure DevOps projects. These details
 
 ## What to do next
 
-[Setting up import and export between Azure DevOps and Agile Development 2.0](set-up-import-export-azure-agile.md#)
+[Setting up import and export between Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/set-up-import-export-azure-agile.md#)
 
 .
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../concept/setting-up-agile-azure-integration.md)
 

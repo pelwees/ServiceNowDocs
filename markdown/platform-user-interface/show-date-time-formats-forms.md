@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Show date and time formats on forms accessibility preference.
 
-![Show date and time formats on forms accessibility preference.](../image/coral-pref-date-time.png)
+![Show date and time formats on forms accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-date-time.png)
 
 The purpose of this preference is to provide clear and consistent date and time information.
 
@@ -64,13 +64,13 @@ Deactivated
 
 Date and time fields display the format in parentheses. For example, Date \(YYYY-MM-DD\).
 
-![Due date form field with Show date and time formats on forms preference turned on.](../image/a11y-pref-date-time-off.png)
+![Due date form field with Show date and time formats on forms preference turned on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-date-time-off.png)
 
 </td><td>
 
 Date and time fields do not display the format.
 
-![Due date form field with Show date and time formats on forms preference turned off.](../image/a11y-pref-date-time-on.png)
+![Due date form field with Show date and time formats on forms preference turned off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-date-time-on.png)
 
 </td></tr></tbody>
 </table>

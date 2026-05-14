@@ -21,7 +21,7 @@ Role required: pki\_admin or discovery\_admin
 
 ## About this task
 
-In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specific API elements. The user added to the instance credentials needs permissions for these queries. For more information on the Certificate Authorities \(CA\) pattern and the associated API elements, see [Certificate authorities pattern API elements and permissions](../reference/ca-api-permission.md).
+In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specific API elements. The user added to the instance credentials needs permissions for these queries. For more information on the Certificate Authorities \(CA\) pattern and the associated API elements, see [Certificate authorities pattern API elements and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/ca-api-permission.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ In Certificate discovery, the Certificate Authorities \(CA\) pattern uses specif
 
 3.  Create a Discovery schedule with the following fields.
 
-    For more information on setting up your Discovery schedules, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+    For more information on setting up your Discovery schedules, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#).
 
     1.  Select **Discovery**: **Certificates**.
 

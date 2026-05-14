@@ -27,19 +27,19 @@ The following steps are only necessary if you are using the BlackBerry Access br
 
 2.  In the menu bar to the left, click **Apps**.
 
-    ![BlackBerry UEM menu bar](../image/BB-EUM-menu.png)
+    ![BlackBerry UEM menu bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-EUM-menu.png)
 
     You see a list of available apps tied to your BlackBerry UEM.
 
 3.  In the search bar above the list of apps, type `BlackBerry Access`.
 
-    ![BlackBerry UEM available apps list](../image/BB-UEM-3.png)
+    ![BlackBerry UEM available apps list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-UEM-3.png)
 
 4.  Click **BlackBerry Access** to open the app.
 
 5.  When the app opens, click on the blue text labeled **App Config With Default Values** to create the app configuration for this app.
 
-    ![BlackBerry UEM app settings screen](../image/BB-UEM-app-config.png)
+    ![BlackBerry UEM app settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-UEM-app-config.png)
 
 6.  Enable **Allow external apps** to open HTTP/HTTPS URLs through BlackBerry Access.
 
@@ -54,5 +54,5 @@ The following steps are only necessary if you are using the BlackBerry Access br
 9.  Click **Save**.
 
 
-**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](../concept/blackberry-uem.md)
+**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/blackberry-uem.md)
 

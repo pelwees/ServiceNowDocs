@@ -13,7 +13,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 Use Decision Builder to change the state mappings for cases and work orders in Care Team Operations for Biomed .
 
-![Healthcare biomed case state sync map.](../image/cto-biomed-case-tstate.png)
+![Healthcare biomed case state sync map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-biomed-case-tstate.png)
 
 The Healthcare Biomed case state sync map displays all current mappings between Healthcare Biomed case and work order states.
 

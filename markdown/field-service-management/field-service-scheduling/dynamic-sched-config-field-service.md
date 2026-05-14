@@ -36,5 +36,5 @@ Tasks are assigned automatically based on the dynamic scheduling configuration.
 
 ## What to do next
 
-Review system properties and components installed with Dynamic Scheduling. For more information, see [Dynamic scheduling system properties](../reference/dynamic-sched-system-properties.md).
+Review system properties and components installed with Dynamic Scheduling. For more information, see [Dynamic scheduling system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/dynamic-sched-system-properties.md).
 

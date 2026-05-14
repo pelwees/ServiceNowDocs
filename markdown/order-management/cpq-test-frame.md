@@ -31,7 +31,7 @@ Typically, the value of `{sector}` is `test` for sandbox or `prod` for productio
 
 The testFrame HTML provides easy inputs to a variety of parameters that can be sent to the CPQ configurator.
 
-![Test frame](../images/cpq-test-frame.png)
+![Test frame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-test-frame.png)
 
 1.  Product ID: Product ID of the configurable product to load
 2.  Pricebook ID: Salesforce Pricebook ID
@@ -55,11 +55,11 @@ The testFrame HTML provides easy inputs to a variety of parameters that can be s
 
 ## test frame page
 
-![Example for test frame](../images/cpq-test-frame-example.png)
+![Example for test frame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-test-frame-example.png)
 
 -   URL to access the test frame page
 -   Parameter inputs
 -   Configuration iframe
 
-For more information, see [Use case: Embed CPQ UI in an HTML page](use_case_embed_logik_io_ui_in_an_html_page.md).
+For more information, see [Use case: Embed CPQ UI in an HTML page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use_case_embed_logik_io_ui_in_an_html_page.md).
 

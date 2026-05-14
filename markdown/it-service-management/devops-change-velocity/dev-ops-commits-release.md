@@ -605,5 +605,5 @@ Continuing with the use case:
 -   The number of commits shown in the change request will be the same as the number in the tool.
 -   To have other step types, like Test or Deploy, use the same commit logic as Prod Deploy, update the **Controls whether other Step types should follow the same logic as Prod Deploy to determine commits for a Change** \[**sn\_devops.commit\_rel\_change\_step\_type**\] property. Specify which step types \(such as Deploy and Test\) should use the same commit logic as Prod Deploy as the property value. If these are set up, the Prod Deploy commit process will also apply to their relationship scripts.
 
-**Parent Topic:**[Artifacts and packages](using-dev-ops-release-change.md)
+**Parent Topic:**[Artifacts and packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md)
 

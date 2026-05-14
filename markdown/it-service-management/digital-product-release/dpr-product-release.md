@@ -78,11 +78,11 @@ The following system properties control the initiation of automated actions duri
 -   sn\_dpr.auto\_transition\_release\_to\_review
 -   sn\_dpr.auto\_transition\_release\_to\_completed
 
-For more information about these properties, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+For more information about these properties, see [Digital Product Release properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/digital-product-release-properties.md).
 
 ## Single product or service release
 
-A single product or service release enables you to release one product or service at a time. This release approach can be useful for smaller or less complicated products or services, as it makes the release process more focused and easier to manage. For more information, see [Work on a timeline-oriented release for a single product or service](../task/dpr-work-release.md#) and [Work on a stage-oriented release for a single product or service](../task/dpr-work-stage-release.md#).
+A single product or service release enables you to release one product or service at a time. This release approach can be useful for smaller or less complicated products or services, as it makes the release process more focused and easier to manage. For more information, see [Work on a timeline-oriented release for a single product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-work-release.md#) and [Work on a stage-oriented release for a single product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-work-stage-release.md#).
 
 ## Multi-product release
 
@@ -90,7 +90,7 @@ A multi-product release enables you to release different products at the same ti
 
 This release approach differs from release bundles, where you monitor the progress of multiple releases together but manage them independently.
 
-For more information, see [Work on a timeline-oriented release for multiple products](../task/dpr-work-release-timeline-multi.md) and [Work on a stage-oriented release for multiple products](../task/dpr-work-release-stage-multi.md).
+For more information, see [Work on a timeline-oriented release for multiple products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-work-release-timeline-multi.md) and [Work on a stage-oriented release for multiple products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-work-release-stage-multi.md).
 
 -   **Adding or removing a product from a multi-product release**
 
@@ -121,19 +121,19 @@ For more information, see [Work on a timeline-oriented release for multiple prod
     -   **Compliant with exception**: The policy failed but an approved exception is in place.
     The policy run status for all primary and included products is aggregated to determine the overall policy status of the main release. The aggregation follows a priority hierarchy where a non-compliant status in any product results in an overall non-compliant status for the release.
 
-    For more information, see [Policy status aggregation in a multi-product release](../reference/dpr-policy-status-aggregation.md).
+    For more information, see [Policy status aggregation in a multi-product release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/dpr-policy-status-aggregation.md).
 
 
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
 **Related topics**  
 
 
-[Create a release for a product or service](../task/dpr-create-release.md)
+[Create a release for a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../task/dpr-create-release.md)
 
-[Managing timeline-oriented releases](dpr-working-timeline-release.md)
+[Managing timeline-oriented releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-working-timeline-release.md)
 
-[Managing stage-oriented releases](dpr-working-stage-release.md)
+[Managing stage-oriented releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-working-stage-release.md)
 
-[Managing multiple releases through release bundles](dpr-release-bundle.md)
+[Managing multiple releases through release bundles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-bundle.md)
 

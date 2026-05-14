@@ -24,5 +24,5 @@ While you're creating a compatibility rule, you can establish the horizontal rel
 
 Before you can capture a new customer order that has a horizontal relationship, you must configure the compatibility rules by defining the source and target specifications.
 
-**Parent Topic:**[Configuring Order Management](order-mgt-configuring.md)
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 

@@ -48,7 +48,7 @@ Repeat these steps for each data type to ensure consistency across all categorie
 
 3.  On the form, select **Download** as the request type and fill in the remaining fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
 
 4.  Select **Save**.
 
@@ -74,7 +74,7 @@ Repeat these steps for each data type to ensure consistency across all categorie
 
 9.  On the form, select **Upload** as the request type and fill in the remaining fields.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
 
     **Note:** Only DORA administrators can view the **Upload** option and perform this task.
 
@@ -95,5 +95,5 @@ Repeat these steps for each data type to ensure consistency across all categorie
     The updated records are uploaded in bulk from the Digital resilience third-party registers.
 
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

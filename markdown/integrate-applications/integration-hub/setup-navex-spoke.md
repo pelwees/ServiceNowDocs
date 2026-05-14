@@ -64,7 +64,7 @@ Role required: admin
 
 2.  Open the following records and create connections for each of the record.
 
-    For each connection, you must also [Create basic auth credentials](setup-navex-spoke.md#).
+    For each connection, you must also [Create basic auth credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-navex-spoke.md#).
 
     -   NavexConnection for Attachment
     -   NavexConnection for Case Management

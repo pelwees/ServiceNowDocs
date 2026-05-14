@@ -43,5 +43,5 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 9.  Select an attachment to preview it.
 
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-lead-cash-process-management.md)
 

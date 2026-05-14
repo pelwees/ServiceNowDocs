@@ -25,7 +25,7 @@ The third-party client application requests tokens directly from your identity p
 
 **Note:** ServiceNow validates the token using the public key configured during setup and grants access to the requested APIs. Ensure that the token is in JSON Web Token \(JWT\) format.
 
-![User Account Workflow](../images/mic-third-party-user-account.png "User Account Workflow")
+![User Account Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mic-third-party-user-account.png "User Account Workflow")
 
 ## Procedure
 

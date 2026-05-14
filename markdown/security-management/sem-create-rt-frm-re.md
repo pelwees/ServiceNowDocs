@@ -53,5 +53,5 @@ For version 18.0 of Vulnerability Response, you cannot create a Remediation Task
 10. The new remediation task is displayed with the active records you selected.
 
 
-**Parent Topic:**[Use Remediation Effort records](sem-ws-remed-eff-rcd.md)
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 

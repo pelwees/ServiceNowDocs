@@ -19,7 +19,7 @@ Role required: clone\_admin
 
 ## About this task
 
-Instead of manually cloning instances, you can schedule cloning that happens automatically. You create a cloning schedule in the same interface that you use to [create a clone](t_StartAClone.md#).
+Instead of manually cloning instances, you can schedule cloning that happens automatically. You create a cloning schedule in the same interface that you use to [create a clone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_StartAClone.md#).
 
 **Note:** The system limits the number of future clones you can schedule at once. The following are the maximum allowed scheduled clones by frequency:
 
@@ -37,7 +37,7 @@ Instead of manually cloning instances, you can schedule cloning that happens aut
 
 4.  Select the calendar icon \(![](../image/clone-calendar.png)\).
 
-5.  Select a time slot for your instance to be cloned.![The clone start time calendar.](../image/clone-schedule-calendar.png)
+5.  Select a time slot for your instance to be cloned.![The clone start time calendar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/clone-schedule-calendar.png)
 
 6.  Select **Schedule**.
 

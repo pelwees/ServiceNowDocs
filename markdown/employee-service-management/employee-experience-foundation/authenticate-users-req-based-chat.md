@@ -61,5 +61,5 @@ Role required: Microsoft Azure admin
     **Note:** Users must log in to their Microsoft Azure active directory account to fetch a token with the added permissions.
 
 
-**Parent Topic:**[Register and configure the Request-based chat application on the Microsoft Azure portal](register-app-req-based-chats.md)
+**Parent Topic:**[Register and configure the Request-based chat application on the Microsoft Azure portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/register-app-req-based-chats.md)
 

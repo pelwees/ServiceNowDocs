@@ -43,5 +43,5 @@ The proxy moves from **Unauthenticated** to **Pending** to **Authenticated**. Th
 
 **Note:** If you stop and restart the proxy, the proxy remains **Authenticated** and restarts successfully.
 
-**Parent Topic:**[Installing Edge Encryption](../concept/c_InstallEdgeEncryptionProxy.md)
+**Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_InstallEdgeEncryptionProxy.md)
 

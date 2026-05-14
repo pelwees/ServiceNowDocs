@@ -15,7 +15,7 @@ Use permission sets to control access to sequence records such as sequence tasks
 
 ## Before you begin
 
-Delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](grant-delegated-developer-permissions.md).
+Delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 **Note:** Runtime permissions are available only with at least Playbooks version 28.1 on the Zurich release. For more information, see [Playbook release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/process-automation-designer-rn.md).
 
@@ -57,5 +57,5 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 12. Select **Save and close**.
 
 
-**Parent Topic:**[Create a customer engagement sequence](create-customer-engagement-sequence.md)
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 

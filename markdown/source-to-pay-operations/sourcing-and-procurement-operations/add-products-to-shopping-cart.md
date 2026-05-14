@@ -25,16 +25,16 @@ Role required: sn\_shop.shopper
 
 2.  Browse for the required goods or services from the **Categories** or the **Suppliers** list on the Shopping Hub homepage.
 
-    When placing an order for services, you can enter quantities with up to four decimal places. For more information, see [Order a product](order-a-product.md)
+    When placing an order for services, you can enter quantities with up to four decimal places. For more information, see [Order a product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md)
 
 3.  Select **Add to cart**.
 
-    ![Adding a product or service to the shopping cart.](../image/spo-add-to-cart-shoppinghub.png)
+    ![Adding a product or service to the shopping cart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-add-to-cart-shoppinghub.png)
 
 
 ## What to do next
 
-When you are done adding products to your cart, you can review your shopping cart and proceed to final checkout. For more information, see [Review your shopping cart](review-shopping-cart.md).
+When you are done adding products to your cart, you can review your shopping cart and proceed to final checkout. For more information, see [Review your shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-shopping-cart.md).
 
-**Parent Topic:**[Shopping cart](../concept/shopping-cart.md)
+**Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shopping-cart.md)
 

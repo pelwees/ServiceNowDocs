@@ -124,12 +124,12 @@ Notes to capture the updates and discussions on the strategic program as the wor
 |Actual opEx|Actual value of operational expenditure for this strategic program.|
 |Planned ROI|Planned return of investment for this strategic program.|
 
-**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Create planning items from the roadmap view](../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
+[Create planning items from the roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-new-items-from-a-roadmap.md)
 
-[Add planning items to Prioritization](../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
+[Add planning items to Prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-prioritization/task/add-new-items-to-backlog-alignment-planner-workspace.md)
 

@@ -27,7 +27,7 @@ To set up integration on AWS, you must procure a phone number and an AWS SNS top
 
 This further enables IAM users to call the AWS End User Messaging APIs to send outbound SMS/MMS. You can also set up the S3 bucket to send media files to customers and store outbound media files.
 
-![Overview of the setup and integration of SMS with AWS End User Messaging](../images/sms-aws-setup.png)
+![Overview of the setup and integration of SMS with AWS End User Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sms-aws-setup.png)
 
 ## Procedure
 
@@ -52,5 +52,5 @@ This further enables IAM users to call the AWS End User Messaging APIs to send o
     The CloudFormation template creates an IAM user with permissions required to call the End User Messaging APIs, that enable outbound SMS and uploading media files to an S3 bucket. You must create an access key for the IAM user. The access key ID and secret access key are required during the setup on the ServiceNow platform. To learn how to create an access key for an IAM user, see [documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html)
 
 
-**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](../concept/configure-ci-sms-with-aws.md)
+**Parent Topic:**[Configuring Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-ci-sms-with-aws.md)
 

@@ -37,7 +37,7 @@ Role required: sn\_ti\_write
 
     Entries can be of any Observable Type. Accepted formats are: comma, new line, tab, or pipe separators.
 
-    ![Add multiple observables comma delimited list example](../image/AddMultipleObservables.png)
+    ![Add multiple observables comma delimited list example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/AddMultipleObservables.png)
 
     **Note:** When you add an observable to the security incident, the system checks for any other configuration items or users associated with it. The **Related Configuration Items** and **Related Users** related list tabs are updated accordingly.
 

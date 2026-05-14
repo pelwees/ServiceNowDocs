@@ -17,11 +17,11 @@ Increase the credit limit for a customer to the approved credit limit that was s
 
 ## Before you begin
 
-[Retrieve a credit assessment and evaluate the risks for a customer](retrieve-credit-assessment-evaluate-risk.md).
+[Retrieve a credit assessment and evaluate the risks for a customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/retrieve-credit-assessment-evaluate-risk.md).
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -31,7 +31,7 @@ This credit card task is automatically created when the credit assessment task h
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from a credit card service case or from the Credit Card Task list.
 
@@ -86,5 +86,5 @@ Steps
 
 ## What to do next
 
-If the associated case is for a temporary increase in the credit limit, work on the new case to [revert the credit limit](reset-credit-limit.md) to the original limit on the end date.
+If the associated case is for a temporary increase in the credit limit, work on the new case to [revert the credit limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/reset-credit-limit.md) to the original limit on the end date.
 

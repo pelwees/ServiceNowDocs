@@ -61,7 +61,7 @@ Tool Password / Access Token
 
 </td><td>
 
-Split password or access token. For information on creating a Split token, see [Enable integration with ServiceNow DevOps in Split tool](enable-integration-servicenow-devops-split.md).
+Split password or access token. For information on creating a Split token, see [Enable integration with ServiceNow DevOps in Split tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/enable-integration-servicenow-devops-split.md).
 
 </td></tr></tbody>
 </table>        **MID Server** is optional. Select MID Server for an on-premises tool that is attached to a MID Server. Application is automatically set to DevOps and capability is set to REST.
@@ -85,20 +85,20 @@ Split password or access token. For information on creating a Split token, see [
 
     The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
-4.  Discover workspaces, environments, segments, and feature flags from the connected Split tool by selecting **Discover**.![Discover workspaces, environments, segments, feature flags from Split](../image/split-discover.png)
+4.  Discover workspaces, environments, segments, and feature flags from the connected Split tool by selecting **Discover**.![Discover workspaces, environments, segments, feature flags from Split](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/split-discover.png)
 
 5.  Automatically configure the webhook URL in Split tool by selecting **Configure**.
 
-    ServiceNow Integration will be activated on Split. Webhooks are auto-configured and notifications are sent from Split tool to DevOps.![Split connection configured in ServiceNow DevOps](../image/split-configure.png)
+    ServiceNow Integration will be activated on Split. Webhooks are auto-configured and notifications are sent from Split tool to DevOps.![Split connection configured in ServiceNow DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/split-configure.png)
 
 
 ## Example
 
 The following example specifies how changes made in the Split tool are notified to ServiceNow DevOps through the webhook.
 
--   Inbound events are created in ServiceNow for status \(Requested, Approved, Rejected or Withdrawn\) of the event.![Inbound events for Split created in ServiceNow](../image/split-inbound-event.png)
--   Feature Flag requests \(**DevOps &gt; Feature Flag &gt; Feature Flag Requests**\) are created or updated based on the status.![Feature flag requests for Split created in ServiceNow](../image/split-feature-flag-requests.png)
--   A change request is created for every Feature Flag request, and work notes on the change request is updated with basic change details on the feature flag.![Change request created for feature flag request](../image/split-change-request.png)
+-   Inbound events are created in ServiceNow for status \(Requested, Approved, Rejected or Withdrawn\) of the event.![Inbound events for Split created in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/split-inbound-event.png)
+-   Feature Flag requests \(**DevOps &gt; Feature Flag &gt; Feature Flag Requests**\) are created or updated based on the status.![Feature flag requests for Split created in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/split-feature-flag-requests.png)
+-   A change request is created for every Feature Flag request, and work notes on the change request is updated with basic change details on the feature flag.![Change request created for feature flag request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/split-change-request.png)
 
-**Parent Topic:**[Split.io integration with DevOps Change Velocity](../concept/split-integration-devops-classic.md)
+**Parent Topic:**[Split.io integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/split-integration-devops-classic.md)
 

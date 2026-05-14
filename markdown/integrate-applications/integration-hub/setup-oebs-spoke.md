@@ -38,7 +38,7 @@ Role required: admin
 
 3.  In SQL Developer or an SQL client, compile all the PKB and PLS files in the APPS schema.
 
-    ![Compile the PLS and PKB files.](../image/oebs-compile.png)
+    ![Compile the PLS and PKB files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-compile.png)
 
 4.  In Oracle EBS server, deploy the Oracle EBS REST API.
 
@@ -62,7 +62,7 @@ Role required: admin
 
         2.  If you aren't generating .ildt file for the XXSN\_CREATE\_PO\_PKG.pls file, replace `po` and `$PO_TOP` with required `Top`.
         3.  If you aren't generating .ildt file for the XXSN\_CREATE\_PO\_PKG.pls file, replace `XXSN_CREATE_PO_PKG.pls` with the required package name.
-        ![Uploaded package name](../image/oebs-package-name.png)
+        ![Uploaded package name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-package-name.png)
 
     3.  Upload the generated iLDT file to Integration repository by executing this command:
 
@@ -72,21 +72,21 @@ Role required: admin
 
         **Note:** Replace `XXSN_CREATE_PO_PKG_` with the required package name.
 
-        ![Package name](../image/oebs-pkg-name.png)
+        ![Package name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-pkg-name.png)
 
     4.  Log in to your Oracle E-Business Suite instance as system administrator.
 
     5.  Switch to the **Integrated SOA Gateway** responsibility and select **Integration Repository**.
 
-        ![Select Integration Repository.](../image/oebs-integration-repo.png)
+        ![Select Integration Repository.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-integration-repo.png)
 
     6.  Search for the web service with the internal name, `XXSN_CREATE_PO_PKG`.
 
-        ![Search with the internal name of web service.](../image/oebs-search-int-name.png)
+        ![Search with the internal name of web service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-search-int-name.png)
 
     7.  Click the link in the search result to access the list of available metods in the interface package.
 
-        ![PLSQL interface.](../image/oebs-plsql-interface.png)
+        ![PLSQL interface.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-plsql-interface.png)
 
         **Note:** In the PL/SQL interface type, both SOAP and REST web services are available. However, this procedure focuses on the REST web service.
 
@@ -96,13 +96,13 @@ Role required: admin
         2.  Click **Deploy**.
     9.  View the Create PO method by clicking the **REST Web Service** tab.
 
-        ![Deploy the services.](../image/oebs-ret-emp-num.png)
+        ![Deploy the services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-ret-emp-num.png)
 
-        ![Deploy the services.](../image/oebs-ret-emp-num2.png)
+        ![Deploy the services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-ret-emp-num2.png)
 
     10. Enter the unique service alias name, select the **Create PO** method, and click **Deploy**.
 
-        ![Deployment confirmation,](../image/oebs-conf-msg.png)
+        ![Deployment confirmation,](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-conf-msg.png)
 
         A confirmation message is displayed that the service is successfully deployed.
 
@@ -114,17 +114,17 @@ Role required: admin
 
     13. Select a grantee type, enter the user name to whom you want to give the grant access to use the web service, and click **Create Grant**.
 
-        ![Grant access to use the web service.](../image/oebs-give-grant.png)
+        ![Grant access to use the web service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-give-grant.png)
 
         A confirmation message is displayed mentioning that the grant has been successfully created.
 
-        ![Confirmation message.](../image/oebs-grant-conf.png)
+        ![Confirmation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-grant-conf.png)
 
         **Note:** To revoke grant, click **Revoke Grants** in the **Grants** tab and select the required users.
 
     14. Perform the above steps for all the required actions and ensure that you use the same names \(associated with the respective action\) as mentioned in the Resource Path column of the following table:
 
-        ![Action names.](../image/action-alias-oebs.png)
+        ![Action names.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/action-alias-oebs.png)
 
     15. Restart the server and using PuTTY, perform these steps up on logging in to the Oracle EBS server.
 
@@ -218,13 +218,13 @@ Role required: admin
         -   `$GL_TOP/patch/115/sql/`
         **Note:** Ensure that you replace the `$GL_TOP` with the `$TOP` variable for the module the package belongs to. For the correct `$TOP` variable per module, see the module package reference table in the previous step.
 
-        ![Upload the .pls file to the Oracle EBS application server directories.](../image/oebs-upload-pls-19c.jpg)
+        ![Upload the .pls file to the Oracle EBS application server directories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-upload-pls-19c.jpg)
 
     2.  Grant `777` permissions to the uploaded `.pls` file.
 
         In your SFTP client, right-click the `.pls` file, click **Properties**, and set the **Octal** permission value to `0777`.
 
-        ![Properties dialog showing Octal permission set to 0777 for the .pls file.](../image/oebs-file-permissions-19c.jpg)
+        ![Properties dialog showing Octal permission set to 0777 for the .pls file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-file-permissions-19c.jpg)
 
         **Note:** 777 permissions are required for the Integration Repository parser to process the file. Without this step, the command in the next substep fails.
 
@@ -238,7 +238,7 @@ Role required: admin
 
         2.  If you aren't generating the .ildt file for the `xxsn_gl_integration_pkg.pls` file, replace `gl` and `$GL_TOP` with the product code and `$TOP` variable for the required module. For the correct values per module, see the module package reference table in the previous step.
         3.  If you aren't generating the .ildt file for the `xxsn_gl_integration_pkg.pls` file, replace `xxsn_gl_integration_pkg.pls` with the required package name.
-        ![PuTTY terminal showing irep_parser.pl output ending with Done all files.](../image/oebs-irep-parser-output-19c.jpg)
+        ![PuTTY terminal showing irep_parser.pl output ending with Done all files.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-irep-parser-output-19c.jpg)
 
     4.  Upload the generated iLDT file to Integration repository by executing this command:
 
@@ -248,27 +248,27 @@ Role required: admin
 
         **Note:** Replace `xxsn_gl_integration_pkg_` with the required package name.
 
-        ![PuTTY terminal showing FNDLOAD command with log filename and report filename output.](../image/oebs-fndload-output-19c.jpg)
+        ![PuTTY terminal showing FNDLOAD command with log filename and report filename output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-fndload-output-19c.jpg)
 
     5.  Log in to your Oracle E-Business Suite instance as system administrator.
 
     6.  Switch to the **Integrated SOA Gateway** responsibility and select **Integration Repository**.
 
-        ![Oracle EBS Home page with Integrated SOA Gateway highlighted in the navigation menu.](../image/oebs-isg-home-19c.jpg)
+        ![Oracle EBS Home page with Integrated SOA Gateway highlighted in the navigation menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-isg-home-19c.jpg)
 
 
 
-        ![Integration Repository welcome page with Search button highlighted.](../image/oebs-integration-repo-search-19c.jpg)
+        ![Integration Repository welcome page with Search button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-integration-repo-search-19c.jpg)
 
     7.  Search for the web service with the internal name, `xxsn_gl_integration_pkg`.
 
-        ![Integration Repository search page with xxsn_gl_integration_pkg entered in the Internal Name field.](../image/oebs-search-int-name-19c.jpg)
+        ![Integration Repository search page with xxsn_gl_integration_pkg entered in the Internal Name field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-search-int-name-19c.jpg)
 
-        ![Search results showing Oracle General Ledger Service Now Integration Service link.](../image/oebs-search-result-19c.jpg)
+        ![Search results showing Oracle General Ledger Service Now Integration Service link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-search-result-19c.jpg)
 
     8.  Click the link in the search result to access the list of available methods in the interface package.
 
-        ![PLSQL Interface page for Oracle General Ledger Service Now Integration Service showing Overview, REST Web Service, and Grants tabs.](../image/oebs-plsql-interface-19c.jpg)
+        ![PLSQL Interface page for Oracle General Ledger Service Now Integration Service showing Overview, REST Web Service, and Grants tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-plsql-interface-19c.jpg)
 
         **Note:** In the PL/SQL interface type, both SOAP and REST web services are available. However, this procedure focuses on the REST web service.
 
@@ -281,11 +281,11 @@ Role required: admin
         2.  Click **Deploy**.
     10. View the General Ledger Integration service method by clicking the **REST Web Service** tab.
 
-        ![REST Web Service tab showing Service Alias field with xxsn_gl_integration_pkg entered, all service operations listed with GET and POST checkboxes, and the Deploy button.](../image/oebs-rest-ws-tab-19c.jpg)
+        ![REST Web Service tab showing Service Alias field with xxsn_gl_integration_pkg entered, all service operations listed with GET and POST checkboxes, and the Deploy button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-rest-ws-tab-19c.jpg)
 
     11. Enter the unique service alias name, select the required method, and click **Deploy**.
 
-        ![Confirmation banner showing the web service for Oracle General Ledger Service Now Integration Service was successfully deployed.](../image/oebs-deploy-conf-19c.jpg)
+        ![Confirmation banner showing the web service for Oracle General Ledger Service Now Integration Service was successfully deployed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-deploy-conf-19c.jpg)
 
         A confirmation message is displayed that the service is successfully deployed.
 
@@ -293,13 +293,13 @@ Role required: admin
 
     13. Open the **Grants** tab, select the required method, and click **Create Grant**.
 
-        ![Grants tab showing all service methods selected and the Create Grant button.](../image/oebs-grants-tab-19c.jpg)
+        ![Grants tab showing all service methods selected and the Create Grant button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-grants-tab-19c.jpg)
 
-        ![Create Grants page showing selected methods and Grantee Type set to All Users.](../image/oebs-create-grant-form-19c.jpg)
+        ![Create Grants page showing selected methods and Grantee Type set to All Users.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-create-grant-form-19c.jpg)
 
     14. Select a grantee type, enter the user name to whom you want to give the grant access to use the web service, and click **Create Grant**.
 
-        ![Confirmation banner showing that the grant was created successfully for all service operations.](../image/oebs-grant-conf-19c.jpg)
+        ![Confirmation banner showing that the grant was created successfully for all service operations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-grant-conf-19c.jpg)
 
         A confirmation message is displayed mentioning that the grant has been successfully created.
 
@@ -314,11 +314,11 @@ Role required: admin
         3.  Execute the command, `./adadminsrvctl.sh start`.
         4.  Enter the WebLogic password and EBS password.
         5.  To check the status, execute the command, `./adadminsrvctl.sh status`.
-        ![PuTTY terminal showing adadminsrvctl.sh stop command completing with exit status 0.](../image/oebs-wls-stop-19c.jpg)
+        ![PuTTY terminal showing adadminsrvctl.sh stop command completing with exit status 0.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-wls-stop-19c.jpg)
 
-        ![PuTTY terminal showing adadminsrvctl.sh start command output.](../image/oebs-wls-start-19c.jpg)
+        ![PuTTY terminal showing adadminsrvctl.sh start command output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-wls-start-19c.jpg)
 
-        ![PuTTY terminal showing adadminsrvctl.sh status output confirming the AdminServer is running.](../image/oebs-wls-status-19c.jpg)
+        ![PuTTY terminal showing adadminsrvctl.sh status output confirming the AdminServer is running.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oebs-wls-status-19c.jpg)
 
 6.  Create a credential record for the Oracle EBS spoke.
 

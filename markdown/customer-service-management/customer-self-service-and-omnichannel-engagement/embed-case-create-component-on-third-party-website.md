@@ -17,7 +17,7 @@ Embed the global code and component code of the Case create component instance t
 
 ## Before you begin
 
-You must configure the Case create component instance. For information, see [Configure the Case create component instance](config-case-create-component-on-instance.md).
+You must configure the Case create component instance. For information, see [Configure the Case create component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-case-create-component-on-instance.md).
 
 Role required: None
 

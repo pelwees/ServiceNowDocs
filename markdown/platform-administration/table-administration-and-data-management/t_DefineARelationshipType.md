@@ -17,7 +17,7 @@ Create type codes that define the relationship between parent and child tasks.
 
 ## Before you begin
 
-Activate the Many to Many Task Relations plugin \(com.snc.task\_relations\) first. See [Request many to many task relations](t_RequestManyToManyTaskRelations.md).
+Activate the Many to Many Task Relations plugin \(com.snc.task\_relations\) first. See [Request many to many task relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_RequestManyToManyTaskRelations.md).
 
 Role required: admin
 
@@ -32,5 +32,5 @@ Role required: admin
     The Name field automatically populates with the Parent and Child descriptors.
 
 
-**Parent Topic:**[Creating many-to-many task relations](../concept/c_ManyToManyTaskRelations.md)
+**Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_ManyToManyTaskRelations.md)
 

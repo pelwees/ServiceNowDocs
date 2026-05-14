@@ -44,10 +44,10 @@ Add a risk event consequence to the consequence library to help with risk analys
 
 The risk event consequence is added to the library.
 
-**Parent Topic:**[Use Risk Events](../concept/use-risk-events.md)
+**Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/use-risk-events.md)
 
 **Related topics**  
 
 
-[Add a risk event cause to the cause library](add-cause.md)
+[Add a risk event cause to the cause library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-cause.md)
 

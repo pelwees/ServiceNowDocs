@@ -43,8 +43,8 @@ A virtual agent chatbot enables customers to request an exception. The chatbot a
 
 6.  In the Filter Widget search field, type `Virtual Agent Service Portal Widget` and drag and drop the widget anywhere on the screen.
 
-    You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon](../image/chat_icon.png)
+    You can see the chat icon at the bottom-right of the screen.![Virtual agent chat icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/chat_icon.png)
 
 
-**Parent Topic:**[Policy and Compliance Management enhancement steps](../../grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.md)
+**Parent Topic:**[Policy and Compliance Management enhancement steps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-compliance-implementation/concept/policy-compliance-optional-steps.md)
 

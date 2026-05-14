@@ -19,12 +19,12 @@ The Service Portal API defines custom widgets \[sp\_widget\] for portal pages.
 
 For general information about portals, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## SPWidget object
 
@@ -54,7 +54,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Script
 
 A client-side script that defines the AngularJS controller. This property supports inline JavaScript or a reference to another file in the application that contains a script. Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -123,7 +123,7 @@ Script
 
 A server-side script that sets the initial widget state, sends data to the widget's client script using the `data` object, or runs server-side queries. This property supports inline JavaScript or a reference to another file in the application that contains a script. Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -156,7 +156,7 @@ String
 
 The body HTML code that defines what is rendered when the page is shown. It can contain either static XHTML, dynamically generated content defined as Jelly, or call script includes and UI Macros. This property supports a reference to another file in the application that contains HTML or inline HTML.Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide inline HTML, use string literals or template literals for multiple lines of code: `'HTML' or `HTML``.
 
 Default:
@@ -177,7 +177,7 @@ String
 
 The CSS or SCSS that defines the widget style. This property supports a reference to another file in the application that contains CSS or inline CSS. Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide inline CSS, use string literals or template literals for multiple lines of code: `'CSS' or `CSS``.
 
 </td></tr><tr><td>
@@ -204,7 +204,7 @@ String or Object
 
 Data that demonstrates the widget functionality. This property supports inline strings, a reference to another file in the application that contains JSON, or inline JSON serializable objects.Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide inline JSON, use an object with key and value pairs: `{ key: value }`.
 
 </td></tr><tr><td>
@@ -229,7 +229,7 @@ Reference
 
 </td><td>
 
-The variable identifier of the Service Portal documentation \[sp\_documentation\] that provides additional information about the widget and its purpose. To define Service Portal documentation, see [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier of the Service Portal documentation \[sp\_documentation\] that provides additional information about the widget and its purpose. To define Service Portal documentation, see [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -284,7 +284,7 @@ Script
 
 A link function that uses AngularJS to directly manipulate the DOM. This property supports inline JavaScript or a reference to another file in the application that contains a script.Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -303,7 +303,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or names of roles that can access the widget. For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or names of roles that can access the widget. For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -383,7 +383,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of SPWidgetDependency objects or names or sys\_ids of dependencies for the widget. For more information, see [SPWidgetDependency object](fluent-service-portal-api.md#).
+A list of variable identifiers of SPWidgetDependency objects or names or sys\_ids of dependencies for the widget. For more information, see [SPWidgetDependency object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-portal-api.md#).
 
 </td></tr><tr><td>
 
@@ -395,7 +395,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of SPAngularProvider objects or names or sys\_ids of Angular providers for the widget. For more information, see [SPAngularProvider object](fluent-service-portal-api.md#).
+A list of variable identifiers of SPAngularProvider objects or names or sys\_ids of Angular providers for the widget. For more information, see [SPAngularProvider object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-portal-api.md#).
 
 </td></tr><tr><td>
 
@@ -507,7 +507,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -533,7 +533,7 @@ Script
 
 A client-side script to reuse in widgets.This property supports inline JavaScript or a reference to another file in the application that contains a script. Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 </td></tr><tr><td>
@@ -631,7 +631,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -684,7 +684,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of CssInclude objects or sys\_ids of CSS includes and their order. For more information, see [CssInclude object](fluent-service-portal-api.md#).```javascript
+A list of variable identifiers of CssInclude objects or sys\_ids of CSS includes and their order. For more information, see [CssInclude object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-portal-api.md#).```javascript
 cssIncludes: [
   {
     order: Number,
@@ -704,7 +704,7 @@ Array
 
 </td><td>
 
-A list variable identifiers of JsInclude objects or sys\_ids of JS includes and their order. For more information, see [JsInclude object](fluent-service-portal-api.md#).```javascript
+A list variable identifiers of JsInclude objects or sys\_ids of JS includes and their order. For more information, see [JsInclude object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-portal-api.md#).```javascript
 jsIncludes: [
   {
     order: Number,
@@ -808,7 +808,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -935,7 +935,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 

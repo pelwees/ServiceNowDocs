@@ -24,7 +24,7 @@ Role required: sn\_cm\_obligation.obligation\_fulfiller
 
 ## About this task
 
-Recurring obligation tasks are automatically created from the obligation record. You can also add ad hoc obligation tasks that are performed only once or at irregular intervals. For more information about creating adhoc obligation task, see [Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md).
+Recurring obligation tasks are automatically created from the obligation record. You can also add ad hoc obligation tasks that are performed only once or at irregular intervals. For more information about creating adhoc obligation task, see [Create an ad hoc obligation task in Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-adhoc-obligation-task-sam.md).
 
 ## Procedure
 
@@ -57,16 +57,16 @@ View the obligation record by navigating to any of the following paths:
 -   Navigate to the **Obligations** tab within the software contract record.
 -   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Obligations**.
 
-**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](../concept/manage-obligation-tasks-software-asset-workspace.md)
+**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-obligation-tasks-software-asset-workspace.md)
 
 **Related topics**  
 
 
-[Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md)
+[Create an ad hoc obligation task in Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-adhoc-obligation-task-sam.md)
 
-[Manage obligation tasks in the Software Asset Workspace](../concept/manage-obligation-tasks-software-asset-workspace.md)
+[Manage obligation tasks in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-obligation-tasks-software-asset-workspace.md)
 
-[Use Software Asset Management with Contract Management Pro](../concept/sam-integration-cmpro.md)
+[Use Software Asset Management with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sam-integration-cmpro.md)
 
-[Create an ad hoc obligation task in Software Asset Workspace](create-adhoc-obligation-task-sam.md)
+[Create an ad hoc obligation task in Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-adhoc-obligation-task-sam.md)
 

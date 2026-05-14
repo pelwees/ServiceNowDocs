@@ -27,7 +27,7 @@ You can create a post case review document for a resolved major case if the **sn
 
 1.  Open a major case in the **Resolved** state.
 
-2.  Complete steps 2 through 7 in the [Create a post case review](create-case-review-document.md) topic.
+2.  Complete steps 2 through 7 in the [Create a post case review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-document.md) topic.
 
 3.  Select one of the following options.
 

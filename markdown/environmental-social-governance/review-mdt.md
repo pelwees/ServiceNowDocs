@@ -25,7 +25,7 @@ If you have been assigned as an approver as part of a metric definition record, 
 
 1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace**.
 
-2.  Select the Metric data table icon \(![Metric tasks icon.](../../esg-management-reporting/images/metric-tasks.png)\).
+2.  Select the Metric data table icon \(![Metric tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../../esg-management-reporting/images/metric-tasks.png)\).
 
 3.  Review the metric data tasks and perform one of the following actions.
 
@@ -63,5 +63,5 @@ Action
 4.  Select the check boxes that you want and then select **Reject** or **Approve**.
 
 
-**Parent Topic:**[Using GRC: Metrics to provide data](../concept/using-grc-metrics.md)
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/using-grc-metrics.md)
 

@@ -17,5 +17,5 @@ Creator Studio is available in light and dark mode.
 
 You can choose light or dark via **User menu** &gt; **Preferences** while in Creator Studio.
 
-![Select light or dark mode in preferences](../image/crs-dark-mode.png "Light and dark mode within Creator Studio")
+![Select light or dark mode in preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-dark-mode.png "Light and dark mode within Creator Studio")
 

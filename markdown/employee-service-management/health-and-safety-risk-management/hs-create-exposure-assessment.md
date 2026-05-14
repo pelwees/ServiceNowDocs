@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk management icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Exposure types** list and open the exposure type to create the assessment for.
 
@@ -44,7 +44,7 @@ An exposure assessment record for each selected location appears in the **Exposu
 
 ## What to do next
 
-In the **Exposure assessments** tab, perform assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](hs-perform-exposure-assessment.md).
+In the **Exposure assessments** tab, perform assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-exposure-assessment.md).
 
-**Parent Topic:**[Safety exposure management](../concept/hs-safety-exposures.md)
+**Parent Topic:**[Safety exposure management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-safety-exposures.md)
 

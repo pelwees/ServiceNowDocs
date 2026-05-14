@@ -33,10 +33,10 @@ Configure your instance to send an email notification when a user mentions a con
 
 5.  Select **Update**.
 
-6.  Select the Settings icon \(![Settings icon.](../image/GearIcon.png)\) and select the **Notifications** tab.
+6.  Select the Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GearIcon.png)\) and select the **Notifications** tab.
 
 7.  Verify that **Allow Notifications** is enabled.
 
 
-**Parent Topic:**[Configure notifications for mobile activity stream mentions](../concept/notification-activity-stream.md)
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/notification-activity-stream.md)
 

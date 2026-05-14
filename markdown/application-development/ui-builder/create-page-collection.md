@@ -53,7 +53,7 @@ App shell UI
 
 </td><td>
 
-Type of app shell UI that you want to use with the page collection. The app shell is the wrapper of the page contents, which is similar to the functionality of a web page. The app shell can show things like the logo of your company, user preferences, and the search icon. For more information, see [Define UI experiences using app shells](../concept/app-shells-uibuilder.md).
+Type of app shell UI that you want to use with the page collection. The app shell is the wrapper of the page contents, which is similar to the functionality of a web page. The app shell can show things like the logo of your company, user preferences, and the search icon. For more information, see [Define UI experiences using app shells](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/app-shells-uibuilder.md).
 
 </td></tr><tr><td>
 
@@ -93,7 +93,7 @@ Short description to help find your page collection. Write a description that he
 
 10. Specify a path for your page in the **Path** field. UI Builder generates a default path based on the name that you provided in the previous step.
 
-    **Note:** The application scope defaults to the scope that the user is in. For more information about the application scope, see [Learn about security and roles](security-roles.md).
+    **Note:** The application scope defaults to the scope that the user is in. For more information about the application scope, see [Learn about security and roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/security-roles.md).
 
 11. Click **Continue**.
 
@@ -105,12 +105,12 @@ Short description to help find your page collection. Write a description that he
 
 14. Select the **Build responsive** option \(default\) for greater control of how the page appears at different screen form factors or select **Build without responsive** for automatic adjustment.
 
-    ![Step showing responsive authoring and reflow options when creating a page from scratch.](../image/responsive-author-create-page.png)
+    ![Step showing responsive authoring and reflow options when creating a page from scratch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/responsive-author-create-page.png)
 
-    For more information, see [Responsive authoring](../concept/responsive-authoring.md).
+    For more information, see [Responsive authoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/responsive-authoring.md).
 
 15. Add more pages to your page collection.
 
 
-**Parent Topic:**[Page collections](../concept/page-collections.md)
+**Parent Topic:**[Page collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/page-collections.md)
 

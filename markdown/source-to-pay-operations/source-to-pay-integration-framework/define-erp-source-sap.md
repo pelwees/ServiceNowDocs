@@ -55,7 +55,7 @@ Each ERP instance requires a unique ERP source configuration. Therefore, 10 ERP 
         |Active|Option to activate the ERP source.|
         |Amount Precisions|Amount precision of the ERP source. For example, 2.|
 
-        ![Define a new ERP source configuration for S4 HANA OData](../../source-to-pay-operations/image/sap-integration-new-erp-source.png "Define a new ERP source configuration for S4 HANA OData")
+        ![Define a new ERP source configuration for S4 HANA OData](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-new-erp-source.png "Define a new ERP source configuration for S4 HANA OData")
 
     3.  Select **Submit**.
 
@@ -71,18 +71,18 @@ By default, the SAP base system provides 14 integration services. For other SAP 
 -   To modify each integration service, you can open the integration service and select **here** to. You can define element level mapping between SAP table fields and payload elements.
 -   Map the users and corresponding ERP User IDs by accessing the ERP User Mappings related list.
 
-**Parent Topic:**[Configure the Source-to-Pay integration with SAP](../concept/configuring-source-to-pay-sap-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/configuring-source-to-pay-sap-integration.md)
 
 **Related topics**  
 
 
-[ERP Source Configuration for SAP](../concept/erp-source-configuration-sap.md)
+[ERP Source Configuration for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/erp-source-configuration-sap.md)
 
-[Configure integration services for SAP](configure-service-maps-sap.md)
+[Configure integration services for SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-sap.md)
 
-[Look up primary data in SAP](../concept/look-up-primary-data-sap.md)
+[Look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/look-up-primary-data-sap.md)
 
-[Manually execute flows or subflows in SAP \(Inbound\)](manually-trigger-subflows-sap.md)
+[Manually execute flows or subflows in SAP \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-sap.md)
 
-[Scheduled jobs to look up primary data in SAP](../concept/scheduled-jobs-to-primary-data-sap.md)
+[Scheduled jobs to look up primary data in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/scheduled-jobs-to-primary-data-sap.md)
 

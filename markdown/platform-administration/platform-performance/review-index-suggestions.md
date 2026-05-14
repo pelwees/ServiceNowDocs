@@ -31,7 +31,7 @@ Access index suggestions from the Application Navigator or the Performance homep
 
 3.  Review the index suggestion for the selected table.
 
-    For a description of the field values in the index suggestion, see [Index suggestion form fields](../reference/index-suggestion-fields.md).
+    For a description of the field values in the index suggestion, see [Index suggestion form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../reference/index-suggestion-fields.md).
 
 4.  Choose the next processing step for the index suggestion.
 
@@ -41,7 +41,7 @@ Access index suggestions from the Application Navigator or the Performance homep
 
 </td><td>
 
-Downloads the index suggestion as an .xml file, which can be [exported to a non-production instance for testing and evaluation](export-index-suggestion.md).
+Downloads the index suggestion as an .xml file, which can be [exported to a non-production instance for testing and evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/export-index-suggestion.md).
 
 </td></tr><tr><td id="d179414e132">
 
@@ -57,9 +57,9 @@ Changes the index suggestion state to ignore, which indicates the index suggesti
 
 </td><td>
 
-Opens the Schedule Index Creation window to [schedule an index suggestion for creation](create-index-slowquery.md).
+Opens the Schedule Index Creation window to [schedule an index suggestion for creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/create-index-slowquery.md).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Resolving slow queries](../concept/resolving-slow-queries.md)
+**Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/../concept/resolving-slow-queries.md)
 

@@ -17,7 +17,7 @@ A release can be an enterprise release, in which it is associated to all product
 
 If a product has releases defined, the **Product Hierarchy** related link displays the hierarchy of releases, phases, and phase tasks associated with the product.
 
-![Product hierarchy in Release Management](../image/product-hierarchy.png)
+![Product hierarchy in Release Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/../image/product-hierarchy.png)
 
-**Parent Topic:**[Using Release Management v2](c_Release.md)
+**Parent Topic:**[Using Release Management v2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_Release.md)
 

@@ -24,27 +24,27 @@ Learn more about Knowledge Graph and how it can help fit your specific business 
 
 <table id="table_ktz_stq_fcc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Graph](exploring-knowledge-graph.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Graph](exploring-knowledge-graph.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Graph](../Task/configuring-knowledge-graph.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Knowledge Graph](../Task/configuring-knowledge-graph.md)
 
 </td><td>
 
-[Use Knowledge Graph![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create and edit Knowledge Graph schema](../Task/using-knowledge-graph-designer.md)
+[Use Knowledge Graph![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Create and edit Knowledge Graph schema](../Task/using-knowledge-graph-designer.md)
 
 </td></tr><tr><td>
 
-[Using Enterprise Graph![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn about the Enterprise Graph schema.](../Task/global-graph-schema.md)
+[Using Enterprise Graph![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Learn about the Enterprise Graph schema.](../Task/global-graph-schema.md)
 
 </td><td>
 
-[Natural Language queries in Knowledge Graph![](../../../reuse/icons/brand-icons/bus-datasheet.svg)View example use cases of natural language queries in Knowledge graph.](natural-language-queries-example-usecases.md)
+[Natural Language queries in Knowledge Graph![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-datasheet.svg)View example use cases of natural language queries in Knowledge graph.](natural-language-queries-example-usecases.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure Knowledge Graph](../Reference/reference-for-knowledge-graph.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure Knowledge Graph](../Reference/reference-for-knowledge-graph.md)
 
 </td></tr></tbody>
 </table>

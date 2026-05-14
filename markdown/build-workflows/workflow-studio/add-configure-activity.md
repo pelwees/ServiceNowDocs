@@ -19,7 +19,7 @@ Add and configure an activity in your playbook.
 
 Role required: playbook.admin or pd\_author
 
-Review [Stages and activities](../concept/process-automation-designer-lanes-activities.md).
+Review [Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-lanes-activities.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Steps
 </td><td>
 
 1.  Select the **+** icon in the first stage.
-2.  In the mini-picker, select the square icon ![Square activity icon in Diagram view mini-picker.](../images/diagram-activity-icon.png) to add an activity.
+2.  In the mini-picker, select the square icon ![Square activity icon in Diagram view mini-picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/diagram-activity-icon.png) to add an activity.
 3.  In the activity picker, search for an activity to add.
 
 **Note:** Select the application first, and then the activity from the resulting list.
@@ -90,7 +90,7 @@ Choose when you want your activity to start running. Options include:-   **When 
 
 
 </td></tr></tbody>
-</table>    1.  **Show additional options** the activity for [even more granular control](../reference/advanced-instruction-activity.md).
+</table>    1.  **Show additional options** the activity for [even more granular control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/advanced-instruction-activity.md).
 
         **Warning:** Changing the advanced property fields of an activity can potentially break your automation. Make sure you understand how the playbook and its activities flow before you make changes.
 
@@ -116,7 +116,7 @@ After the activity starts, the activity runs only if specific conditions are met
 
 </td><td>
 
-Specify a duration of time to wait before running an activity whose start rule and conditions have been met. For more information, see [Start with delay input properties](../reference/start-with-delay-properties.md).
+Specify a duration of time to wait before running an activity whose start rule and conditions have been met. For more information, see [Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md).
 
 </td></tr><tr><td id="d178173e310">
 
@@ -127,7 +127,7 @@ Specify a duration of time to wait before running an activity whose start rule a
 Choose what this activity does when a playbook is restarted:-   **Skip on restart**: Skip this activity when the run is due to a restart.
 -   **Run always**: Always run this activity, including first runs.
 -   **Skip on first run**: Skip this activity during the first run.
-For more information, see [Configure restart for Playbooks](enable-define-restart.md).
+For more information, see [Configure restart for Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/enable-define-restart.md).
 
 </td></tr></tbody>
 </table>3.  Open the **Automation** tab.
@@ -148,7 +148,7 @@ For more information, see [Configure restart for Playbooks](enable-define-restar
 
 4.  Under the **Inputs** section, define the values of the activity's inputs.
 
-    Configure inputs with a hardcoded value, or by [dot-walking to a data pill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md) \(![Data pill picker icon](../images/data-pill-picker-icon.png)\) to use data from previous activities, the playbook trigger, from the playbook parent table, or from the playbook inputs.
+    Configure inputs with a hardcoded value, or by [dot-walking to a data pill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md) \(![Data pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/data-pill-picker-icon.png)\) to use data from previous activities, the playbook trigger, from the playbook parent table, or from the playbook inputs.
 
     **Tip:** You can use both text and multiple pills in any other rich text or HTML input fields.
 
@@ -156,11 +156,11 @@ For more information, see [Configure restart for Playbooks](enable-define-restar
 
     Depending on the UI Layout associated with the activity, different sections and fields appear under the activity definition's Activity Experience. These sections and fields let you set up the activity data that renders during the runtime Playbook Experience.
 
-    **Note:** All UI Layouts, except for Record generator, display an Associated Record section. For information on how to set up or edit the Associated Record section in an activity definition, see [Create an activity definition](create-activity-definition.md).
+    **Note:** All UI Layouts, except for Record generator, display an Associated Record section. For information on how to set up or edit the Associated Record section in an activity definition, see [Create an activity definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-activity-definition.md).
 
 6.  Specify if an AI Agent performs the activity, and how.
 
-    To learn more, see [Configuring Agentic Playbooks](configure-agentic-playbooks.md).
+    To learn more, see [Configuring Agentic Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-agentic-playbooks.md).
 
 7.  Click **Save and close** to save the details of your activity.
 
@@ -242,32 +242,32 @@ Optionally, set the activity's experience type, which helps to define how the ac
 
 Set up the Playbook Experience for you agents and fulfillers.
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](add-configure-stage.md)
+[Add and configure a stage in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md)
 
-[Use AI agent as an activity](ai-agent-as-activity.md)
+[Use AI agent as an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/ai-agent-as-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/optional-activities.md#)
 
-[Decision activities](create-a-decision-activity.md)
+[Decision activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-a-decision-activity.md)
 
-[Decision stages](create-decision-stage.md)
+[Decision stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/questionnaire-activity.md)
 
-[Parallel branches](create-parallel-activity.md)
+[Parallel branches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-activity-state-mapping.md)
 

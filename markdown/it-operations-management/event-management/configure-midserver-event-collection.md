@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-The MID Web Server extension enables external clients to push metric data and events to the MID Server. See [Configure the MID Web Server extension](configure-mid-web-server-extension.md). Use the MID WebService Event Collector to enable a URL method to push event messages to the MID Server. See [Configure the MID WebService Event Collector Context](configure-em-context-extension.md).
+The MID Web Server extension enables external clients to push metric data and events to the MID Server. See [Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md). Use the MID WebService Event Collector to enable a URL method to push event messages to the MID Server. See [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md).
 
 Configure a MID Server with either **EventManagement** or **All** in the Supported Applications List.
 
@@ -52,14 +52,14 @@ To ensure uninterrupted services, consider also configuring a failover MID Serve
 
 ## What to do next
 
-Configure the MID WebService Event Collector to enable a URL method to push event messages to the MID Server. For more information, see [Configure the MID WebService Event Collector Context](configure-em-context-extension.md).
+Configure the MID WebService Event Collector to enable a URL method to push event messages to the MID Server. For more information, see [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md).
 
 **Related topics**  
 
 
-[Configure key-based MID Web Server authentication](configure-mid-web-server-extension-metric-data.md)
+[Configure key-based MID Web Server authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension-metric-data.md)
 
-[Configure the MID Web Server extension](configure-mid-web-server-extension.md)
+[Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md)
 
-[Configure the MID WebService Event Collector Context](configure-em-context-extension.md)
+[Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md)
 

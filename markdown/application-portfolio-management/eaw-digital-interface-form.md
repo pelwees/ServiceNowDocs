@@ -218,10 +218,10 @@ You can use the system-provided authentication types or add yours.
 |-----|-----------|
 |Work notes|Comments about the interface.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a digital interface in the EA Workspace](../../task/eaw-task/eaw-create-digital-interface.md)
+[Add or edit a digital interface in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-digital-interface.md)
 

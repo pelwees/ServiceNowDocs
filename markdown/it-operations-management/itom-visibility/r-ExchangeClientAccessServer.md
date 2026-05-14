@@ -33,5 +33,5 @@ The following data is collected on the Exchange Client Access Server `[cmdb_ci_e
 |Installation directory|install\_directory|
 |Type|type|
 
-**Parent Topic:**[Software discovery](../concept/c_Software.md)
+**Parent Topic:**[Software discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Software.md)
 

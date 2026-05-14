@@ -27,7 +27,7 @@ Role required: sales\_manager
 
 4.  On the Opportunity Task form, fill in the fields.
 
-    For more information, see [Create new opportunity task form](../reference/create-opportunity-task-form.md).
+    For more information, see [Create new opportunity task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/create-opportunity-task-form.md).
 
 5.  Select **Save**.
 
@@ -36,15 +36,15 @@ Role required: sales\_manager
 
 ## What to do next
 
-You can create appointments in your opportunity tasks. To learn more, see [Create an appointment from Opportunity Management](opportunity-management-create-an-appoinment.md).
+You can create appointments in your opportunity tasks. To learn more, see [Create an appointment from Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md).
 
--   **[Create an appointment from Opportunity Management](opportunity-management-create-an-appoinment.md)**  
+-   **[Create an appointment from Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md)**  
 Create appointments with the required stakeholders to move the business discussion forward for your opportunity.
 
-**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[Create a related task from a touchpoint](../task/create-touchpoint-related-tasks.md)
+[Create a related task from a touchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-touchpoint-related-tasks.md)
 

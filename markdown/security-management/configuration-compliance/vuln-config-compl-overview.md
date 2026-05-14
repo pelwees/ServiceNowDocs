@@ -27,14 +27,14 @@ In each chart, you can point to any part of a chart \(bar, pie, data point\) to 
 
 **Note:**
 
--   Dashboards on the Configuration Compliance homepage are available only when the Performance Analytics for Configuration Compliance application is activated. For steps to activate this application, see [Activate Performance Analytics for Configuration Compliance](../../../use/application-content-packs/concept/configuration-compliance-install.md).
+-   Dashboards on the Configuration Compliance homepage are available only when the Performance Analytics for Configuration Compliance application is activated. For steps to activate this application, see [Activate Performance Analytics for Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../use/application-content-packs/concept/configuration-compliance-install.md).
 -   Anyone with the sn\_vulc.read role can view the dashboard. Anyone in the sn\_vulc.write or sn\_vulc.admin role can create and edit a dashboard. Only sn\_vulc.admin can delete a dashboard.
 
 
 
-![v10.3 Configuration Compliance report - top](../image/v11ccdashboard-2.png)
+![v10.3 Configuration Compliance report - top](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11ccdashboard-2.png)
 
-![v10.3 Configuration Compliance report - Bottom](../image/v11ccdashboard-1.png "Configuration Compliance report")
+![v10.3 Configuration Compliance report - Bottom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11ccdashboard-1.png "Configuration Compliance report")
 
 |Name|Visual|Description|
 |----|------|-----------|

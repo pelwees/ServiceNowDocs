@@ -91,11 +91,11 @@ Option to show or hide the **Recently requested by you** quick action.
 </table>**Related topics**  
 
 
-[Configure the Catalog browse component instance](../task/we-config-catalog-browse-comp.md)
+[Configure the Catalog browse component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/we-config-catalog-browse-comp.md)
 
-[Embed the Catalog browse component on the third-party website](../task/we-embed-catalog-browse-on-third-party-web.md)
+[Embed the Catalog browse component on the third-party website](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/we-embed-catalog-browse-on-third-party-web.md)
 
-[Event handlers in the Catalog browse component](we-event-handlers-catalog-browse.md)
+[Event handlers in the Catalog browse component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-event-handlers-catalog-browse.md)
 
-[Sample code for the Catalog browse component](we-catalog-browse-samp-code.md)
+[Sample code for the Catalog browse component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-browse-samp-code.md)
 

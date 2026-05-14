@@ -57,10 +57,10 @@ ProductList.extended = {“SBQQ__Description__c”: “Text Description”}
 
 To add custom ProductList attributes to a layout, use `extended.{attributename}` in the value column:
 
-![CSV file](../images/cpq-product-list-custom-attributes.png)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-list-custom-attributes.png)
 
 **Related topics**  
 
 
-[Using ProductList.extended to populate the Quote Line record](reverse_twin_productlist_extended_data_to_quoteline.md)
+[Using ProductList.extended to populate the Quote Line record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reverse_twin_productlist_extended_data_to_quoteline.md)
 

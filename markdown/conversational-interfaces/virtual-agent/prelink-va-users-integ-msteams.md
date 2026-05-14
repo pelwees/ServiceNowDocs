@@ -23,7 +23,7 @@ To install the app otherwise, use the following directions.
 
 To install the app otherwise, use the following directions.
 
--   [Install Conversational Integration with Microsoft Teams](teams-install.md), with the **Automatically Link ServiceNow user profiles** option enabled.
+-   [Install Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md), with the **Automatically Link ServiceNow user profiles** option enabled.
 -   [Set up Microsoft Teams Graph spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-msteams.md).
 -   [Set up Microsoft Active Directory spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-ad.md).
 
@@ -65,7 +65,7 @@ Batch pre-linking happens automatically via the **MS Teams Daily Pre Install Job
 
 ## What to do next
 
-You can also customize the auto-linking process for Conversational Integration with Microsoft Teams. For more information, see [Customize auto-linking for Conversational Integration with Microsoft Teams](customize-autolink-msteams.md).
+You can also customize the auto-linking process for Conversational Integration with Microsoft Teams. For more information, see [Customize auto-linking for Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/customize-autolink-msteams.md).
 
-**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md)
+**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 

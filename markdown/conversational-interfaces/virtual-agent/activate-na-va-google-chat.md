@@ -20,7 +20,7 @@ Add Now Assist in Virtual Agent to your Google chat bot.
 
 Role required: admin or virtual\_agent\_admin
 
-Create a self-configured bot for Google chat. For more information, see [Integrate Virtual Agent with Google chat using the self-configured bot](installing-ci-google-chat.md).
+Create a self-configured bot for Google chat. For more information, see [Integrate Virtual Agent with Google chat using the self-configured bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/installing-ci-google-chat.md).
 
 **Note:** Ensure you've updated the version of your Google chat app in the **Version** field.
 
@@ -53,7 +53,7 @@ Create a self-configured bot for Google chat. For more information, see [Integra
 
 ## What to do next
 
-Upload the manifest to Google chat to make your bot experience available in the Microsoft global apps store, which will also activate the Custom Engine Agent \(CEA\) in Google chat. For more information, see [Upload the manifest package file to publish your bot](upload-package-file-msteams.md).
+Upload the manifest to Google chat to make your bot experience available in the Microsoft global apps store, which will also activate the Custom Engine Agent \(CEA\) in Google chat. For more information, see [Upload the manifest package file to publish your bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/upload-package-file-msteams.md).
 
-**Parent Topic:**[Install Conversational Integration with Google chat](../concept/install-ci-google-chat.md)
+**Parent Topic:**[Install Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/install-ci-google-chat.md)
 

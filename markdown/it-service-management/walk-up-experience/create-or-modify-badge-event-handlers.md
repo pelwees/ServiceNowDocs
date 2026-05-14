@@ -47,14 +47,14 @@ The code entered in the **Script** field of the Badge Event Handler form is exec
 
 5.  Enter code after `// your code goes here` in the **Script** field.
 
-    ![Badge event handlers script](../image/BadgeEventHandlers.png)
+    ![Badge event handlers script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/BadgeEventHandlers.png)
 
-    ![Badge event handler code](../image/BadgeEventHandlerCode.png)
+    ![Badge event handler code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/BadgeEventHandlerCode.png)
 
     **Note:** The **Application** field is set to **Global** until you enter the code specifying Walk-up Experience application in the **Script** field and save or submit the record.
 
 6.  Click **Submit** to create the record.
 
 
-**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](../concept/walkup-badge-read-integ-config.md)
+**Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-badge-read-integ-config.md)
 

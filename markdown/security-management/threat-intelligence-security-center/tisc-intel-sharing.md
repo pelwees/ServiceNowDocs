@@ -17,7 +17,7 @@ Threat Intelligence external sharing in TISC outlines the guidelines and functio
 
 ## External Sharing of Threat Intelligence with Threat Intelligence Security Center \(TISC\)
 
-![TISC - Threat Intelligence Sharing (external)](../image/tisc-intel-sharing-external.png)
+![TISC - Threat Intelligence Sharing (external)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-intel-sharing-external.png)
 
 ## Key features of external sharing of threat intelligence with TISC
 
@@ -29,10 +29,10 @@ Threat Intelligence external sharing in TISC outlines the guidelines and functio
 -   **TISC to TISC Exchange**: Mechanisms for efficient, bi-directional intelligence exchange between Threat Intelligence Security Center \(TISC\) instances.
 -   **User and Group Management for TAXII**: Defines TAXII users and groups by managing their access to collections, and maintaining secure data exchange protocols.
 
--   **[Exploring Outbound Intel Sharing](tisc-outbound-intel-sharing.md)**  
+-   **[Exploring Outbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-intel-sharing.md)**  
 Using Outbound Sharing intelligence, you can define and share what threat intelligence entities and attributes, exclusion rules, profiles and groups, and approval rules that can be shared externally and internally.
--   **[Exploring Inbound Intel Sharing](tisc-inbound-intel-sharing.md)**  
+-   **[Exploring Inbound Intel Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-inbound-intel-sharing.md)**  
 Inbound intelligence sharing in TISC allows you to create profiles of external systems or devices that can submit intelligence to it.
--   **[Exploring TAXII Outbound Server](tisc-taxii-outbound-server.md)**  
+-   **[Exploring TAXII Outbound Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-outbound-server.md)**  
 TAXII collections are logical groupings of threat intelligence data.
 

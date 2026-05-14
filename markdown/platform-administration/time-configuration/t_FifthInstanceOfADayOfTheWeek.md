@@ -36,7 +36,7 @@ Use the **glide.schedules.fifth** system property to control how a schedule entr
 
 3.  Verify that the **Value** is set to **last**.
 
-4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](t_DefineASchedule.md), and click **Submit**.
+4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md), and click **Submit**.
 
 5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following parameters:
 
@@ -69,30 +69,30 @@ Use the **glide.schedules.fifth** system property to control how a schedule entr
     -   No meeting \(December 2012 skipped because it does not have five Thursdays\)
     -   January 31, 2013 \(Fifth Thursday of the month\)
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_Holidays.md)
 
-[Create a holiday schedule for multiple regions](t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_ParentAndChildSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-[Repeat a monthly schedule](t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_RepeatAMonthlySchedule.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_CreateCalendarsWithSchedulePages.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/domain-support-for-schedules.md)
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-[Repeat a monthly schedule](t_RepeatAMonthlySchedule.md)
+[Repeat a monthly schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_RepeatAMonthlySchedule.md)
 

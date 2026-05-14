@@ -55,14 +55,14 @@ The following domain-separated fields are supported:
     Enables child domain state records to override parent domain states.
 
 
-**Parent Topic:**[Now Assist Center reference](now-assist-center-reference.md)
+**Parent Topic:**[Now Assist Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Now Assist Center](components-installed-with-now-assist-center.md)
+[Components installed with Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/components-installed-with-now-assist-center.md)
 
-[Now Assist Center glossary](../concept/now-assist-center-glossary.md#)
+[Now Assist Center glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-glossary.md#)
 
-[Now Assist Center roles](now-assist-center-roles.md#)
+[Now Assist Center roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-roles.md#)
 

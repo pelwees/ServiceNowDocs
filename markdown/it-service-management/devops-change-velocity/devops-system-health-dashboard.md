@@ -26,7 +26,7 @@ Use the System Health dashboard to track the health, event status, and connectiv
 -   Scores aren’t real-time. For example, if the chart displays that two events are in the waiting state, the events could have already moved to the completed state.
 -   Because the scores are fetched from formula indicators, you can’t drill down to the records in the KPI page.
 
-![DevOps System Health Dashboard](../image/devops-system-health-dashboard.png "DevOps System Health Dashboard")
+![DevOps System Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/devops-system-health-dashboard.png "DevOps System Health Dashboard")
 
 ## Events
 
@@ -161,7 +161,7 @@ The Tool connectivity status report displays the connectivity status with detail
 
 To see the report, from the DevOps Change Workspace, navigate to **Administration** &gt; **System health** &gt; **Tool connectivity**.
 
-![Tool connectivity list.](../image/system-health-tool-conn.png)
+![Tool connectivity list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/system-health-tool-conn.png)
 
 ## System health email notifications
 
@@ -182,7 +182,7 @@ Use the **Preview Notification** option to check your notification.
 
 For example, you can see which users will or will not receive the notification, along with what instance details and period for which the notification is sent.
 
-![Preview for System health notification email](../image/system-health-email-notification-preview.png)
+![Preview for System health notification email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/system-health-email-notification-preview.png)
 
-**Parent Topic:**[DevOps Change Velocity reference](../reference/devops-change-velocity-reference.md)
+**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/devops-change-velocity-reference.md)
 

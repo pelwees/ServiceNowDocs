@@ -88,7 +88,7 @@ This report provides users with the ability to create a report on the database g
 
 **Note:** If shards are not configured, then the chart for database size will not display any shards database. The table growth is sorted in descending order by the highest table size.
 
-For more information on reports, see [Instance performance telemetry reports](instance-observer-reporting.md).
+For more information on reports, see [Instance performance telemetry reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/instance-observer-reporting.md).
 
 ## URL for graphs
 
@@ -97,14 +97,14 @@ For more information on reports, see [Instance performance telemetry reports](in
 -   IO is supported on Google Chrome and Mozilla Firefox and the links are valid on these browsers. You must log in to the respective browser to view the shared URL.
 -   There is a limitation with sharing the URL for Triage — both the sender and recipient must have the same instance enabled in their accounts.
 
-**Parent Topic:**[Overview of Instance Observer metrics](../concept/instance-observer-ovr-metric.md)
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
 
-[Instance Data Replication](instance-observer-metrics.md)
+[Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/instance-observer-metrics.md)
 
-[Anomaly insights](addl-inf-io-anomaly.md)
+[Anomaly insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/addl-inf-io-anomaly.md)
 
-[Feature availability based on package](io-feature-availability.md)
+[Feature availability based on package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-feature-availability.md)
 

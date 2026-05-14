@@ -17,7 +17,7 @@ Ensure that translated choices appear for applications by activating translated 
 
 ## Before you begin
 
-You must have activated a language and then activated a plugin that includes the corresponding English choice records. For more information, see [Activate a language](t_ActivateALanguage.md) and [Activate a plugin](../../plugins/task/t_ActivateAPlugin.md).
+You must have activated a language and then activated a plugin that includes the corresponding English choice records. For more information, see [Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) and [Activate a plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../../plugins/task/t_ActivateAPlugin.md).
 
 Role required: admin
 
@@ -47,7 +47,7 @@ Translations for all choices with corresponding English choice records appear fo
 **Related topics**  
 
 
-[Choice table](../reference/r_ChoicesTable.md)
+[Choice table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_ChoicesTable.md)
 
-[Languages table](../reference/r_LanguagesTable.md)
+[Languages table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_LanguagesTable.md)
 

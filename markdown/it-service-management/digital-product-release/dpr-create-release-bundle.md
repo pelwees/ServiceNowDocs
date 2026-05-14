@@ -23,7 +23,7 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\), and then select **Bundles**.
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\), and then select **Bundles**.
 
 3.  Select **New**.
 
@@ -38,10 +38,10 @@ Role required: sn\_dpr\_model.release\_coordinator, sn\_dpr\_model.product\_mana
     -   To add releases to the bundle, select them from the list, and select **Add**.
     -   To add releases to the bundle later, select **Skip**.
 
-**Parent Topic:**[Managing multiple releases through release bundles](../concept/dpr-release-bundle.md)
+**Parent Topic:**[Managing multiple releases through release bundles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-release-bundle.md)
 
 **Related topics**  
 
 
-[Track multiple releases from a release bundle](dpr-track-release-bundle.md)
+[Track multiple releases from a release bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-track-release-bundle.md)
 

@@ -32,9 +32,9 @@ Each automation opportunity includes a set of recommended resolution steps that 
 
     The Resolution Steps tab opens showing the opportunity details. The page displays summary information for the opportunity, a **Resolution Steps** tab with editable implementation steps, and an **Example Records** tab with example records from the data source.
 
-    ![Resolution Steps tab showing the opportunity details.](../image/now-assist-center-agent-advisor-opportunity-detail-2.png "Opportunity details page")
+    ![Resolution Steps tab showing the opportunity details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-opportunity-detail-2.png "Opportunity details page")
 
-    For more information on finding an automation opportunity, see [View your automation opportunities](now-assist-center-view-automation-opportunities.md).
+    For more information on finding an automation opportunity, see [View your automation opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md).
 
 3.  Select the **Example Records** tab to review records from the source table.
 
@@ -70,7 +70,7 @@ Edit a step
 
 </td><td>
 
-1.  Select the **Edit** icon \(![Edit icon.](../image/icon-now-assist-center-edit.png)\).
+1.  Select the **Edit** icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-edit.png)\).
 2.  Change the text as needed and select **Save**.
 
 
@@ -90,7 +90,7 @@ Reorder steps
 
 </td><td>
 
-Select the **Up** icon \(![Up icon.](../image/icon-now-assist-center-up.png)\) or **Down** icon \(![Down icon.](../image/icon-now-assist-center-down.png)\) to move the step in the list.
+Select the **Up** icon \(![Up icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-up.png)\) or **Down** icon \(![Down icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-down.png)\) to move the step in the list.
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Select **Expand all** to see the available assets for each step.
 
     The Continue building AI agent box opens.
 
-    ![Continue building AI agent box showing steps for building an agent.](../image/now-assist-center-agent-advisor-build-agent.png "Continue building AI agent box")
+    ![Continue building AI agent box showing steps for building an agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-agent-advisor-build-agent.png "Continue building AI agent box")
 
 7.  Select **Continue in AI Agent Studio**.
 
@@ -125,13 +125,13 @@ Select **Expand all** to see the available assets for each step.
 
     The resolution steps are mapped to the set of instructions and added as tools for the new AI agent.
 
-    For more information, see [Create an AI agent](../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
+    For more information, see [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-ai-agents/task/configure-next-best-action-agent.md).
 
 
-**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](../concept/now-assist-center-using-ai-agent-advisor.md)
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 
 
-[View your automation opportunities](now-assist-center-view-automation-opportunities.md)
+[View your automation opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md)
 

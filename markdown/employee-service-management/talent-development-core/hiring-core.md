@@ -35,5 +35,5 @@ Hiring Core provides a repository where you can store information that you’ve 
 
 **Note:** You can use the record tables according to your requirement.
 
-**Parent Topic:**[Skills Foundation Reference](../concept/skills-intelligence-reference.md)
+**Parent Topic:**[Skills Foundation Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/skills-intelligence-reference.md)
 

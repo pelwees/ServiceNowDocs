@@ -19,27 +19,27 @@ The ServiceNow® Knowledge Management \(KM\) application enables the sharing of 
 
 <table id="table_sl1_z2h_1xb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Management](../topic/exploring-knowledge-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Knowledge Management](../topic/exploring-knowledge-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Knowledge Management implementation](configuring-knowledge-management.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Plan and configure your Knowledge Management implementation](configuring-knowledge-management.md)
 
 </td><td>
 
-[Use Knowledge Management ![](../../../reuse/icons/brand-icons/bus-person.svg) Search and find information on self-help, troubleshooting, and task resolution](using-knowledge-management.md)
+[Use Knowledge Management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/icons/brand-icons/bus-person.svg) Search and find information on self-help, troubleshooting, and task resolution](using-knowledge-management.md)
 
 </td></tr><tr><td>
 
-[Create and maintain articles![](../../../reuse/icons/brand-icons/bus-manage.svg)Create and maintain articles in the knowledge base](creating-and-maintaining-articles.md)
+[Create and maintain articles![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/icons/brand-icons/bus-manage.svg)Create and maintain articles in the knowledge base](creating-and-maintaining-articles.md)
 
 </td><td>
 
-[Knowledge Management Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure and administer Knowledge Management](../reference/knowledge-management-reference.md)
+[Knowledge Management Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/icons/brand-icons/bus-learn.svg)Additional information to configure and administer Knowledge Management](../reference/knowledge-management-reference.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions](analytics-and-reporting-solutions-for-knowlege-management.md)![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Platform Analytics Solutions and Demand Insights dashboards to improve your business processes and practices
+[Analytics and Reporting Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analytics-and-reporting-solutions-for-knowlege-management.md)![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Platform Analytics Solutions and Demand Insights dashboards to improve your business processes and practices
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

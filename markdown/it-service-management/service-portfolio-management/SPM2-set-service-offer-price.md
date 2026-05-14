@@ -23,5 +23,5 @@ To set a service offering price, navigate to **Service Portfolio Management** &g
 
 A Service Offering **Cost unit** is a unit of measurement of the service offering. For example, let's say your service is Microsoft Suite. The cost unit would be the number of users. It could also be the API calls. A cost model that's **Per unit** refers to the price per unit. In this case, it would be the price per Microsoft Suite user or API call. The **Estimated Spend** for the **Per unit** cost model is determined by the price per unit and units per period. A cost model that's **Fixed** refers to a predetermined and agreed-upon total cost. For example, you set a specific price for your Microsoft Suite service and stick to it. The cost unit is still the same \(users or API calls\), but the **Estimated Spend** is determined by the agreed-upon price.
 
-**Parent Topic:**[Service offerings in Service Portfolio Management](SPM2-service-offerings.md)
+**Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 

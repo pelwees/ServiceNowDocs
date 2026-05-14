@@ -31,8 +31,8 @@ Role required: wm\_agent and crew\_moderator
 
 3.  Choose from the following:
 
-    -   To edit an assignee, tap the **Edit** icon \(![Edit icon.](../image/edit-mobile-icon.png)\) by the selected assignee.
-    -   To edit the crew, tap the **More actions** icon \(![More actions icon.](../image/more-actions-mobile-icon.png)\).
+    -   To edit an assignee, tap the **Edit** icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/edit-mobile-icon.png)\) by the selected assignee.
+    -   To edit the crew, tap the **More actions** icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/more-actions-mobile-icon.png)\).
 4.  Edit the details on the form.
 
 5.  Tap **Update**.
@@ -52,7 +52,7 @@ Role required: wm\_agent and crew\_moderator
 
 2.  Select a work order task.
 
-3.  Tap the **Edit** icon \(![Edit icon.](../image/edit-mobile-icon.png)\) by the selected assignee.
+3.  Tap the **Edit** icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/edit-mobile-icon.png)\) by the selected assignee.
 
 4.  Edit the details on the form.
 

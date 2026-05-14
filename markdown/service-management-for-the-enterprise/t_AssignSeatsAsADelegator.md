@@ -27,9 +27,9 @@ Role required: admin
 
     The users with pending destinations are listed.
 
-    ![In this figure, the users requiring seats are shown in the Pending Destination section of the Moves tab.](../image/PendingSeats.png "Users pending destinations")
+    ![In this figure, the users requiring seats are shown in the Pending Destination section of the Moves tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/PendingSeats.png "Users pending destinations")
 
-4.  Click the ![chair icon](../image/ChairIcon.png) icon beside a name and click a destination space on the map.
+4.  Click the ![chair icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/ChairIcon.png) icon beside a name and click a destination space on the map.
 
     The user and location are added to the Assigned destination link.
 
@@ -37,8 +37,8 @@ Role required: admin
 
     You are finished assigning spaces when all users in the Pending destination list have been moved into the Assigned destination list.
 
-    ![In this figure, the users have all been moved to the Assigned destination section of the Moves tab.](../image/UsersAssigned.png "Users assigned spaces")
+    ![In this figure, the users have all been moved to the Assigned destination section of the Moves tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/UsersAssigned.png "Users assigned spaces")
 
 
-**Parent Topic:**[Enterprise move scenarios](../reference/r_EnterMoveScenarios.md)
+**Parent Topic:**[Enterprise move scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_EnterMoveScenarios.md)
 

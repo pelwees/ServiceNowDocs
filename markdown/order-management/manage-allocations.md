@@ -19,12 +19,12 @@ For clear visibility into who contributed to each sale, supporting collaboration
 -   Add allocations: Add sales credit allocations to recognize individual or team contributions.
 -   Split allocations: Split sales credit across multiple team members for accurate revenue attribution.
 
--   **[View allocations for an opportunity](../task/view-allocations.md)**  
+-   **[View allocations for an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/view-allocations.md)**  
 View allocation details and distributed amounts for an opportunity.
--   **[Add or edit opportunity allocations](../task/add-or-edit-opportunity-allocations.md)**  
+-   **[Add or edit opportunity allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-or-edit-opportunity-allocations.md)**  
 Use the allocations configurator to add new allocation rows, edit existing ones, or split an allocation across multiple contributors.
--   **[Split opportunity allocation](../task/split-an-opportunity-allocation.md)**  
+-   **[Split opportunity allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/split-an-opportunity-allocation.md)**  
 Split an allocation row to divide its credit between two contributors while keeping, for example, the same product family and effective date.
 
-**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 

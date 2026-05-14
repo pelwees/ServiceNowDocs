@@ -33,13 +33,13 @@ Field Service Crew Operations provides easier assignment of multiple agents to t
 **Related topics**  
 
 
-[Activate Field Service Crew Operations](../task/activate-fsm-crew-scheduling.md)
+[Activate Field Service Crew Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-fsm-crew-scheduling.md)
 
-[Field Service Crew Operations components](../reference/crew-scheduling-components.md)
+[Field Service Crew Operations components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../reference/crew-scheduling-components.md)
 
-[Configuring Field Service Crew Operations](configuring-crew-operations.md)
+[Configuring Field Service Crew Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-crew-operations.md)
 
-[Add crews to a territory](../task/add-crews-to-a-territory.md)
+[Add crews to a territory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/add-crews-to-a-territory.md)
 
-[Using Field Service Crew operations](Using-crew-operations-fsm.md)
+[Using Field Service Crew operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/Using-crew-operations-fsm.md)
 

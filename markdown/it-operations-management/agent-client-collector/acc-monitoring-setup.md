@@ -34,5 +34,5 @@ The MID Server is configured to support both the Agent Client Collector and Metr
 
 **Note:** You are prompted to enter a port number only on initial ACC Monitoring setup.
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-configuring-with-mid.md)
 

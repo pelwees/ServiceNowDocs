@@ -17,5 +17,5 @@ The CDO dashboard serves as a central command interface for monitoring end-to-en
 
 This dashboard visualizes key indicators such as Monthly Active Users \(MAU\), CSAT responses, platform consumption by application, automation rates, SLA attainment, cost savings, and spend distribution. These insights enable CDOs and digital leaders to identify adoption trends, track digital enablement outcomes, highlight where engagement gaps exist, and ensure that enterprise platforms are driving measurable productivity and efficiency gains.
 
-![CDO Dashboard with Sentiment, Usage, Operations, Transformation, and Outcome pillars, each containing key metrics and visualizations.](../image/cdo-db-tab.png)
+![CDO Dashboard with Sentiment, Usage, Operations, Transformation, and Outcome pillars, each containing key metrics and visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cdo-db-tab.png)
 

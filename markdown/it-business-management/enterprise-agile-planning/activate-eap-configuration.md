@@ -27,7 +27,7 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Configuration**.
 
-    ![EAP Settings menu.](../images/eap-activate-config.png)
+    ![EAP Settings menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-activate-config.png)
 
 3.  Select **Edit** from one of the available configurations.
 
@@ -38,5 +38,5 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 ## What to do next
 
-Add teams to your configuration. See [Define agile structure in EAP](define-agile-structure-in-eap.md).
+Add teams to your configuration. See [Define agile structure in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/define-agile-structure-in-eap.md).
 

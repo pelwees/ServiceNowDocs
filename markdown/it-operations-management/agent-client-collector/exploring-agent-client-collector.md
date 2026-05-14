@@ -23,7 +23,7 @@ The Agent Client Collector Framework enables organizations to monitor and manage
 
 The following illustration describes the layout and data flow within the Agent Client Collector Framework application.
 
-![ACC-F Infographic](../image/acc-framework-infographic.png "Collecting and distributing data with ACC-F")
+![ACC-F Infographic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-framework-infographic.png "Collecting and distributing data with ACC-F")
 
 1.  Agent Installation: The agent is installed on infrastructure components, such as servers, devices, and network equipment. These agents are responsible for executing system commands and gathering performance data from the host machine. ACC-F is deployed on the customer's ServiceNow® instance.
 2.  Data collection: The agent runs predefined scripts or queries \(checks\) on the infrastructure components to collect various system metrics and events. This includes performance data such as CPU usage, memory utilization, disk space, and network activity. The agent also collects error logs and system alerts.
@@ -38,9 +38,9 @@ Agent Client Collector Framework provides data to other Agent Client Collector c
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Monitor your system’s health, performance, and availability through automated collection of events and metrics, leveraging automated configurations.|[Agent Client Collector Monitoring](acc-monitoring-landing-page.md)|NOC User, Event Management administrator|
-|Track server inventory, software installations and usage continuously with non-admin access and minimal network communication.|[How Agent Client Collector for Visibility - Content works](how-acc-v-works.md)|CMDB/Discovery administrator|
+|Monitor your system’s health, performance, and availability through automated collection of events and metrics, leveraging automated configurations.|[Agent Client Collector Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-landing-page.md)|NOC User, Event Management administrator|
+|Track server inventory, software installations and usage continuously with non-admin access and minimal network communication.|[How Agent Client Collector for Visibility - Content works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/how-acc-v-works.md)|CMDB/Discovery administrator|
 |Gather detailed inventory data of devices not connected to your network or running in isolated environments \(air-gapped\).|[Agent Client Collector Framework Air Gapped Configuration Item Management Solution](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585753)|CMDB/Discovery administrator|
-|Minimize triage time of incidents by direct access of live device details and interactions to remediate.|[View live CI data with Agent Client Collector](../task/acc-live-ci-view.md)|ITSM user|
-|Stream log data into your instance to predict problems and solve them before they happen, to minimize user impact.|[Agent Client Collector Log Analytics](acc-log-analytics.md)|Agent Client Collector administrator|
+|Minimize triage time of incidents by direct access of live device details and interactions to remediate.|[View live CI data with Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../task/acc-live-ci-view.md)|ITSM user|
+|Stream log data into your instance to predict problems and solve them before they happen, to minimize user impact.|[Agent Client Collector Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md)|Agent Client Collector administrator|
 

@@ -23,12 +23,12 @@ Role required: Any role to open an exploration that has been shared with you. no
 
 2.  Expand the All explorations list.
 
-    ![The Show explorations list button.](../image/nowass-expl-show-explorations.png)
+    ![The Show explorations list button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-show-explorations.png)
 
 3.  Search the name of the exploration or browse the list.
 
 4.  Select the exploration name to open it.
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/use-now-assist-explorer.md)
 

@@ -35,7 +35,7 @@ After you activate the profile, based on the configured trigger conditions you c
 
 5.  To validate the work notes and activities section, view and check the records that are tagged with the profile initiated, profile completed, or profile failed tags.
 
-    ![Validate the work notes and activities](../image/review_activities.png "Work notes and activities")
+    ![Validate the work notes and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/review_activities.png "Work notes and activities")
 
 6.  To validate all the data in the related lists, click **Show All Related Lists**.
 

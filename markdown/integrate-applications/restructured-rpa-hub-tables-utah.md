@@ -19,13 +19,13 @@ If you are upgrading from Tokyo or older to Australia, the bot process definitio
 
 The following diagram shows the tables of RPA Hub before restructuring.
 
-![RPA Hub tables before restructuring.](../image/bot-process-restructure-before.png "RPA Hub tables before restructuring")
+![RPA Hub tables before restructuring.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/bot-process-restructure-before.png "RPA Hub tables before restructuring")
 
 The following diagram shows the tables of RPA Hub after restructuring.
 
-![RPA Hub tables after restructuring.](../image/bot-process-config-restructure.png "RPA Hub tables after restructuring")
+![RPA Hub tables after restructuring.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/bot-process-config-restructure.png "RPA Hub tables after restructuring")
 
 For detailed information about the script that restructures the tables during an upgrade, see the [Restructuring RPA Hub tables to sys\_metadata in Utah](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1223629) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[Migrating data in RPA Hub](migrating-data-rpa-hub.md)
+**Parent Topic:**[Migrating data in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/migrating-data-rpa-hub.md)
 

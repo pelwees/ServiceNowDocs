@@ -92,7 +92,7 @@ User-friendly name for identifying the attribute. The default name populated is 
 
 ## What to do next
 
-[Create rate lines to define the hourly rates for resources.](create-rate-line.md)
+[Create rate lines to define the hourly rates for resources.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/create-rate-line.md)
 
-**Parent Topic:**[Rate Models](../concept/rate-model.md)
+**Parent Topic:**[Rate Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/rate-model/../concept/rate-model.md)
 

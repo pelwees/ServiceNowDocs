@@ -50,7 +50,7 @@ When a proxy is configured on the MID Server, all container image scanning goes 
 
 ## What to do next
 
-Scan the container images. For more information, see [Scan container images](container-image-task.md).
+Scan the container images. For more information, see [Scan container images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-task.md).
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/container-image-concept.md)
 

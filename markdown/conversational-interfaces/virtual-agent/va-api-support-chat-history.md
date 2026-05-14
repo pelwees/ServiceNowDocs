@@ -68,8 +68,8 @@ Enter an explanation for this property: `The custom adapter property to display 
 </table>5.  Click **Submit**.
 
 
--   **[Setting logo for the primary bot in Virtual Agent API](va-api-support-set-logo.md)**  
+-   **[Setting logo for the primary bot in Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-api-support-set-logo.md)**  
 You can customize your agent chat interface by setting a logo for the primary bot that appears in the chat history.
 
-**Parent Topic:**[Using Virtual Agent API](../concept/use-virtual-agent-api.md)
+**Parent Topic:**[Using Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/use-virtual-agent-api.md)
 

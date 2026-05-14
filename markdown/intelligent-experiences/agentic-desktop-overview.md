@@ -24,7 +24,7 @@ You don’t open the Execution workspace directly. It launches automatically whe
 
 The home page provides an intuitive interface to help you quickly create, track, and manage your desktop actions. You can easily find and manage your existing desktop actions and monitor their status.
 
-![AI Desktop Actions home page with Create desktop action UI action, search and filter options, and cards of existing desktop actions.](../image/home-page-actions-ad.png "AI Desktop Actions home page")
+![AI Desktop Actions home page with Create desktop action UI action, search and filter options, and cards of existing desktop actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/home-page-actions-ad.png "AI Desktop Actions home page")
 
 When you log in to AI Desktop Actions, the home page is the first screen you see. The home page lets you interact with various functionalities.
 
@@ -63,7 +63,7 @@ When you log in to AI Desktop Actions, the home page is the first screen you see
 
 The Design workspace provides a no-code environment for creating, managing, and testing your desktop actions. You can either auto-capture or manually record a series of steps you perform on your computer, such as clicking buttons, entering text, selecting from drop-down, or interacting with different applications. You can then save this sequence as a reusable desktop action.
 
-![AI Desktop Actions Design tab that shows interface elements like Design, Details tabs, Screens and steps panel, and a captured currency converter screen with numbered annotations.](../image/design-tab-overview-ad.png "Design tab")
+![AI Desktop Actions Design tab that shows interface elements like Design, Details tabs, Screens and steps panel, and a captured currency converter screen with numbered annotations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/design-tab-overview-ad.png "Design tab")
 
 <table id="table_dqh_1bz_ghc"><thead><tr><th>
 
@@ -241,15 +241,15 @@ Screen capture options
 </table>**Related topics**  
 
 
-[Defined path desktop actions in AI Desktop Actions](desktop-actions-designer-workspace-ad.md)
+[Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions-designer-workspace-ad.md)
 
-[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](../task/auto-create-desktop-action-ad.md)
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/auto-create-desktop-action-ad.md)
 
-[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](../task/manual-create-desktop-action-ad.md)
+[Automate repetitive tasks by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/manual-create-desktop-action-ad.md)
 
-[Example: Automate badge request management using AI Desktop Actions](example-badging-magmt-concept-ad.md#)
+[Example: Automate badge request management using AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/example-badging-magmt-concept-ad.md#)
 
-[Example: Automate shipping management tasks using AI Desktop Actions](example-shipping-magmt-concept-ad.md#)
+[Example: Automate shipping management tasks using AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/example-shipping-magmt-concept-ad.md#)
 
-[Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md)
+[Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/screen-anchor-and-action-properties-ad.md)
 

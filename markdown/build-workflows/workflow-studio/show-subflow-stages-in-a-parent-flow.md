@@ -17,7 +17,7 @@ Show subflow stages as part of the execution details of a parent flow.
 
 ## Before you begin
 
-This task assumes that you are familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](../concept/flow-designer-stages.md).
+This task assumes that you are familiar with flow and subflow stages, stage fields, and stage sets. For more information about stages, see [Flow and subflow stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-designer-stages.md).
 
 Role required: flow\_designer or admin
 
@@ -25,7 +25,7 @@ Role required: flow\_designer or admin
 
 1.  Create a subflow that contains one or more stages.
 
-    For more information about creating a subflow, see [Create a subflow in Workflow Studio](create-subflow.md). For more information about adding stages to a subflow, see [Configure stages and add them to a flow](add-stages.md).
+    For more information about creating a subflow, see [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md). For more information about adding stages to a subflow, see [Configure stages and add them to a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-stages.md).
 
 2.  Create or open the parent flow that will call the subflow.
 
@@ -37,7 +37,7 @@ Role required: flow\_designer or admin
 
 4.  Select the **Show Subflow Stages** option.
 
-    ![Example Fulfillment Subflow configured to show subflow stages.](../images/example-subflow-stages-01-parent-flow.png)
+    ![Example Fulfillment Subflow configured to show subflow stages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-subflow-stages-01-parent-flow.png)
 
 5.  Configure any required subflow inputs.
 
@@ -48,5 +48,5 @@ Role required: flow\_designer or admin
     For example, add the Manager Approval and Completed stages to the parent flow.
 
 
-**Parent Topic:**[Flow and subflow stages](../concept/flow-designer-stages.md)
+**Parent Topic:**[Flow and subflow stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-designer-stages.md)
 

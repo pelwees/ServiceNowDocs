@@ -60,5 +60,5 @@ Links are rendered with an added parameter providing the sys\_id of the requeste
 12. Click **Update**.
 
 
-**Parent Topic:**[Service Catalog items](../concept/c_IntroductionToCatalogItems.md)
+**Parent Topic:**[Service Catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_IntroductionToCatalogItems.md)
 

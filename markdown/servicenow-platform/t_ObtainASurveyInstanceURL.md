@@ -36,14 +36,14 @@ The survey instance URL is available on the survey instance record.
 5.  Distribute the URL to the assigned user.
 
 
-**Parent Topic:**[Survey URLs](../concept/c_SurveyURLs.md)
+**Parent Topic:**[Survey URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyURLs.md)
 
 **Related topics**  
 
 
-[Obtain and distribute a general survey URL](t_ObtainAGeneralSurveyURL.md)
+[Obtain and distribute a general survey URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ObtainAGeneralSurveyURL.md)
 
-[Deactivate auto-notification for surveys](t_DeactivateAutoNotifyForSurveys.md)
+[Deactivate auto-notification for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_DeactivateAutoNotifyForSurveys.md)
 
-[Test a survey URL](t_TestTheSurveyURL.md)
+[Test a survey URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_TestTheSurveyURL.md)
 

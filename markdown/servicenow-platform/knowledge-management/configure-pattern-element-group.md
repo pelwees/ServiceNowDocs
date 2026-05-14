@@ -17,7 +17,7 @@ Define a logical combination of two pattern elements, pattern element group, or 
 
 ## Before you begin
 
-[Configure pattern elements for Self-Service Analytics](configure-pattern-element.md).
+[Configure pattern elements for Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-pattern-element.md).
 
 Role required: sn\_ssa\_core.self\_service\_manager
 
@@ -124,7 +124,7 @@ Maximum occurrence of the result of the logical combination of the first and sec
 
 ## What to do next
 
-[Configure activity patterns for Self-Service Analytics](configure-activity-pattern.md).
+[Configure activity patterns for Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-activity-pattern.md).
 
-**Parent Topic:**[Configure Self-Service Analytics](config-ssa.md)
+**Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 

@@ -21,8 +21,8 @@ As a DEX administrator, you can control the sudo banner configuration for macOS.
 
 **Note:** Updating exclusion list doesn't change configured sudo permissions on the end-user device.
 
--   **[Configure sudo banner exclusion list](configure-sudo-banner-exclusion-list.md)**  
+-   **[Configure sudo banner exclusion list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/configure-sudo-banner-exclusion-list.md)**  
 Add the appropriate commands to the sudo banner exclusion list so the system doesn't flag it.
 
-**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 

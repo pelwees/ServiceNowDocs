@@ -20,7 +20,7 @@ This feature simplifies the process of looking up and verifying contact or consu
 
 **Note:** If this information has already been verified, such as through a customer portal login or authentication by Virtual Agent or by an IVR, the **Verified** check box on the interaction record is checked.
 
-Agents can access the search window on the interaction record by selecting the Verify Contact icon \(![Verify contact icon.](../image/config-ws-lookup-verify-contact.png)\) or the Verify Consumer icon \(![Verify consumer icon.](../image/config-ws-lookup-verify-consumer.png)\) in the contextual side panel.
+Agents can access the search window on the interaction record by selecting the Verify Contact icon \(![Verify contact icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-contact.png)\) or the Verify Consumer icon \(![Verify consumer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-consumer.png)\) in the contextual side panel.
 
 Agents can perform a type-ahead search across multiple configurable fields such as name, phone number, email address, and record number. From the search results list, agents can select a result to display detailed information for the contact or consumer in a verification card. Once verified, the system adds the information to the interaction record and checks the **Verified** check box.
 
@@ -72,5 +72,5 @@ The lookup and verify feature uses the following tables:
 **Related topics**  
 
 
-[Look up and verify a contact or consumer](../task/lookup-verify-contact-consumer.md)
+[Look up and verify a contact or consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/lookup-verify-contact-consumer.md)
 

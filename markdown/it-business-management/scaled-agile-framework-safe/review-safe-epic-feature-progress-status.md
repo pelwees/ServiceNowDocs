@@ -25,7 +25,7 @@ The Status column of the list shows a Green, Yellow, or Red indicator for each r
 
 The estimated completion date displays a date with the likelihood of the epic's or feature's completion.
 
-![A screenshot showing the progress status indicators of SAFe epics](../images/epics-progress-status.png "SAFe epic progress status")
+![A screenshot showing the progress status indicators of SAFe epics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../images/epics-progress-status.png "SAFe epic progress status")
 
 The [\[SAFe\] daily data collection job](../../../use/dashboards/task/enable-safe-daily-data-collection-job.md) helps generate the burnup report for your epics and features. Using the data generated for these epic burnup reports, an estimated completion date is determined. You can see that this date is the intersection of Completed and Scope forecast series in the respective burnup reports.
 
@@ -40,12 +40,12 @@ The color of the progress status indicator is determined using the following con
 -   Yellow: Estimated completion date is beyond the planned end date by a deviation of 1% to 14%.
 -   Red: Estimated completion date is beyond the planned end date by a deviation of 15% or more.
 
-**Parent Topic:**[Work Progress Status for SAFe](work-progress-status-safe-overview.md)
+**Parent Topic:**[Work Progress Status for SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/work-progress-status-safe-overview.md)
 
 **Related topics**  
 
 
-[SAFe Feature Dashboard](../../../use/dashboards/application-content-packs/safe-feature-dashboard.md)
+[SAFe Feature Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../../use/dashboards/application-content-packs/safe-feature-dashboard.md)
 
-[SAFe Epic Dashboard](../../../use/dashboards/application-content-packs/safe-epic-dashboard.md)
+[SAFe Epic Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../../../use/dashboards/application-content-packs/safe-epic-dashboard.md)
 

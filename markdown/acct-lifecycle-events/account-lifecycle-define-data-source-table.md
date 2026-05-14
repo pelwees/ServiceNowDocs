@@ -15,14 +15,14 @@ Use the **Table** data source to retrieve data from internal ServiceNow tables o
 
 ## Before you begin
 
--   At least one context must be defined for each **Table** type data source with a valid mapping to the source reference table. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+-   At least one context must be defined for each **Table** type data source with a valid mapping to the source reference table. See [Configure the Context Engine Mapper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-context-engine-mapper.md) for details.
 -   Role required: sn\_acct\_lc.customer\_success\_application\_admin
 
 ## About this task
 
 By defining a **Table** data source, you can:
 
--   Retrieve data from internal and external tables \(See [Define a Workflow Data Fabric table data source](account-lifecycle-define-data-source-data-fabric-table.md) for details\).
+-   Retrieve data from internal and external tables \(See [Define a Workflow Data Fabric table data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-define-data-source-data-fabric-table.md) for details\).
 -   Map Source IDs \(for example, User, Asset, Transaction\) to business entities such as Sold Products, Capabilities.
 -   Use conditions such as Start and End dates to analyze trend data.
 
@@ -34,7 +34,7 @@ By defining a **Table** data source, you can:
 
 3.  On the Data Source form, enter a name for the data source and fill in the following fields.
 
-    See [Define the data source](../concept/account-lifecycle-define-data-source.md) for details on how to create a data source.
+    See [Define the data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-data-source.md) for details on how to create a data source.
 
 <table id="table_lt1_jy4_3hc"><thead><tr><th>
 
@@ -83,7 +83,7 @@ Source table
 
 </td><td>
 
-Select the table from which data is to be retrieved.**Note:** For external tables, see [Define a Workflow Data Fabric table data source](account-lifecycle-define-data-source-data-fabric-table.md)
+Select the table from which data is to be retrieved.**Note:** For external tables, see [Define a Workflow Data Fabric table data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-define-data-source-data-fabric-table.md)
 
 </td></tr><tr><td>
 
@@ -159,5 +159,5 @@ A few examples on how to configure the data source are given below:
 
 ## What to do next
 
-After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](../concept/account-lifecycle-define-context-engine-mapper.md) for details.
+After defining the data source, the next step is to configure the context engine mapper. See [Configure the Context Engine Mapper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-define-context-engine-mapper.md) for details.
 

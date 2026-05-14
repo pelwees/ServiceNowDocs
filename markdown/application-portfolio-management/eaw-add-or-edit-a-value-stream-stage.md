@@ -23,9 +23,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Business Architecture**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Business Architecture**.
 
 4.  Select **Value Stream Stages**.
 
@@ -35,15 +35,15 @@ Role required: sn\_apm.apm\_user
     -   To update details of an existing value stream stage, select the value stream stage.
 6.  On the form, fill in the fields.
 
-    For field information, see [Create new value stream stage form](../../reference/eaw-reference/eaw-create-new-value-stream-stage-form.md).
+    For field information, see [Create new value stream stage form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-create-new-value-stream-stage-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage value stream stages](../../concept/eaw-concept/eaw-manage-value-stream-stages.md)
+**Parent Topic:**[Manage value stream stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-value-stream-stages.md)
 
 **Related topics**  
 
 
-[View value stream stage details](eaw-view-all-value-stream-stages.md)
+[View value stream stage details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-value-stream-stages.md)
 

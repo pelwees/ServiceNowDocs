@@ -25,12 +25,12 @@ Role required: sn\_hr\_le.admin
 
 2.  Click **Clone Lifecycle Event** to clone the lifecycle event and all of its associated activity sets and activities.
 
-    ![Click Clone Lifecycle Event to begin the cloning process.](../image/lifecycle-event-clone-brand2.png)
+    ![Click Clone Lifecycle Event to begin the cloning process.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../image/lifecycle-event-clone-brand2.png)
 
     Once complete, a message that the lifecycle event was successfully cloned appears.
 
 
 ## What to do next
 
-After cloning a lifecycle event, you can filter lifecyle event activities. See, [Filter lifecycle event activities](filter-lifecycle-event-activities.md)
+After cloning a lifecycle event, you can filter lifecyle event activities. See, [Filter lifecycle event activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/filter-lifecycle-event-activities.md)
 

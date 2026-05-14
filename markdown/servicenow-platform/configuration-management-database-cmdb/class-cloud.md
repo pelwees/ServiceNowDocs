@@ -15,13 +15,13 @@ breadcrumb: [CMDB schema model, Explore, Configuration Management Database \(CMD
 
 Description, identification rule, and other important schema structures for the CMDB cloud classes.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/cmdb-tables-details.md).
 
-![AWS/Azure/OpenStack class model.](../image/CloudAWS_Azure_OpenStack.png "AWS/Azure/OpenStack class model​")
+![AWS/Azure/OpenStack class model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/CloudAWS_Azure_OpenStack.png "AWS/Azure/OpenStack class model​")
 
-![IBM Datacenter Cloud Schema model.](../image/IBMDatacenterCloudSchemamodel.png "IBM Datacenter Cloud Schema model")
+![IBM Datacenter Cloud Schema model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/IBMDatacenterCloudSchemamodel.png "IBM Datacenter Cloud Schema model")
 
-![Google Datacenter Schema Model.](../image/GoogleDatacenterModel.png "Google Datacenter Schema Model")
+![Google Datacenter Schema Model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/GoogleDatacenterModel.png "Google Datacenter Schema Model")
 
 ## Cloud schema description
 
@@ -54,5 +54,5 @@ The base system contains pre-defined identification rules for cloud schema class
     -   Object ID: Unique ID of the account where applicable.
     -   Account ID: The unique Account ID that encompasses the different cloud resources. Account ID is generally more applicable than Object ID.
 
-For more information, see [CMDB Identification and Reconciliation \(IRE\)](c_CMDBIdentifyandReconcile.md).
+For more information, see [CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md).
 

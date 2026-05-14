@@ -63,5 +63,5 @@ To create a time card
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

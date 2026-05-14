@@ -50,9 +50,9 @@ You must obtain the server certificate and matching private key before adding it
     **Note:** During a restart, the proxy server is offline for a short time. The amount of time is determined by your environment and how long it takes to stop and restart the proxy service.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-**Previous topic:**[Create and configure the RSA key pair for the digital signature](t_SetUpAKeyPair.md)
+**Previous topic:**[Create and configure the RSA key pair for the digital signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpAKeyPair.md)
 
-**Next topic:**[Set up a keystore and encryption keys](set-up-keystore.md)
+**Next topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 

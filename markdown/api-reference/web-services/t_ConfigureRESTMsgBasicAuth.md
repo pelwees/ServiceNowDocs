@@ -42,8 +42,8 @@ Role required: web\_service\_admin
 
 Test the REST message to ensure you receive the expected response. You can optionally specify different authentication settings for each HTTP method related to this REST message, overriding the parent REST message settings.
 
--   **[Create a basic auth profile](t_CreateABasicAuthProfile.md)**  
+-   **[Create a basic auth profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_CreateABasicAuthProfile.md)**  
 Create a basic auth profile to specify basic authentication credentials for one or more REST messages.
 
-**Parent Topic:**[Outbound REST authentication](../concept/c_OutboundRESTAuth.md)
+**Parent Topic:**[Outbound REST authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OutboundRESTAuth.md)
 

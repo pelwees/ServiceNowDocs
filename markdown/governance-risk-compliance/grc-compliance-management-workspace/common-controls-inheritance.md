@@ -21,13 +21,13 @@ With the Entity form, you can see the common controls that the current entity or
 
 You can also see the common controls that the current entity relies on by using the **Show directly related inherited controls** button and the **Show all inherited controls** button. These buttons display the common controls that the downstream entities are reliant on.
 
-To learn more about the common controls, see [Common controls in risk management](../../grc-workspace-risk/concept/shared-common-controls-in-risk-management.md).
+To learn more about the common controls, see [Common controls in risk management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-workspace-risk/concept/shared-common-controls-in-risk-management.md).
 
 The Downstream Controls related list also displays the common controls that the current entity or its downstream entities use to implement the common controls. By using the Function column in the form, you can differentiate between the standard and common controls. The following example shows the downstream inherited controls.
 
 **Note:** You can add or remove the reliant entity association with the common controls in Workspaces only.
 
-![Downstream Inherited Controls](../image/common-control-inheritance.png "Downstream inherited controls")
+![Downstream Inherited Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/common-control-inheritance.png "Downstream inherited controls")
 
 In the downstream inherited controls related list, you can see the information about the control, entity, and its reliant entity. The control is implemented by the entity that is listed. The same control is inherited by the reliant entity.
 
@@ -37,5 +37,5 @@ The 360-degree view of the entity shows the controls and the inherited controls.
 
 The following example shows that the 360-degree view of the Enterprise Services entity has two inherited controls.
 
-![Inherited Controls in a 360-degree view.](../image/360-degree-view-inherited-control.png "Inherited Controls in a 360-degree view")
+![Inherited Controls in a 360-degree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/360-degree-view-inherited-control.png "Inherited Controls in a 360-degree view")
 

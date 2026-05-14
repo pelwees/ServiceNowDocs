@@ -112,7 +112,7 @@ Not applicable
 </td></tr></tbody>
 </table>## Employee Profile
 
-For more information, see [Employee profile](employee-profile-portal.md)
+For more information, see [Employee profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
 <table id="table_zs3_3n1_xcc"><thead><tr><th>
 

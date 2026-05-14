@@ -28,7 +28,7 @@ Use system properties to configure Usage Insights for Service Portal.
     -   Type: string
     -   Default value: none
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sp-analytics.md)
 
 **Related topics**  
 

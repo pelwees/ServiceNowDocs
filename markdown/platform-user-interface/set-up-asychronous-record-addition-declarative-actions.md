@@ -78,13 +78,13 @@ Declarative actions take higher precedence than system properties.
 
 When you select any number of records beyond the threshold, a notification informs you that the records will load in the background.
 
-![MRA notification 1](../image/y-mra-notification-1.png)
+![MRA notification 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-1.png)
 
 When you add the selected records, the modal closes, and a notification confirms that the records are loading in the background.
 
-![MRA notification 2](../image/y-mra-notification-2.png)
+![MRA notification 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-2.png)
 
 After the records are added, a notification informs you that the records were added successfully.
 
-![MRA notification 3](../image/y-mra-notification-3.png)
+![MRA notification 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-mra-notification-3.png)
 

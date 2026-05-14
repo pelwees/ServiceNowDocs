@@ -44,7 +44,7 @@ The Integration Commons for CMDB application provides a dashboard with a central
 **Related topics**  
 
 
-[Configure Cisco Meraki Service Graph Connector](configuring-cisco-meraki-service-graph-connector.md)
+[Configure Cisco Meraki Service Graph Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configuring-cisco-meraki-service-graph-connector.md)
 
-[Run and verify an import schedule for Cisco Meraki SGC](../task/run-and-verify-import-for-cisco-meraki-sd-wan-service-graph-connector.md)
+[Run and verify an import schedule for Cisco Meraki SGC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../task/run-and-verify-import-for-cisco-meraki-sd-wan-service-graph-connector.md)
 

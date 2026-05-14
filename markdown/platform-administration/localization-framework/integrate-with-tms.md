@@ -257,10 +257,10 @@ String
 </td></tr></tbody>
 </table>2.  Create and configure a custom translation management system and activate it.
 
-    See [Create a custom translation management system](create-custom-tms.md).
+    See [Create a custom translation management system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-custom-tms.md).
 
     **Note:** Localization Framework depends on Integration Hub to build integrations with third-party systems.
 
 
-**Parent Topic:**[Translation Management System configurations](../concept/tms-configuration.md)
+**Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/tms-configuration.md)
 

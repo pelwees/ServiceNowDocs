@@ -39,12 +39,12 @@ Role required: admin
 
     Select the pencil icon to edit the Variable. The Edit Variable window opens.
 
-    ![Edit variable window](../../../images/edit-variable-window-2.png)
+    ![Edit variable window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/edit-variable-window-2.png)
 
 6.  To hide the value of a Variable, slide the toggle next to Encrypted.
 
     **Note:** Encrypted Variable values in Variable Sets are obscured. Encrypted values display as dots when set to encrypted.
 
-    ![Encrypted value](../../../images/password-dots.png)
+    ![Encrypted value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/password-dots.png)
 
 

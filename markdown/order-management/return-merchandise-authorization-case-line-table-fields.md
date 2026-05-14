@@ -118,5 +118,5 @@ Location of repair. Options are:-   Onsite
 -   Off-site
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Return Merchandise Authorization Case Management](return-merchandise-authorization-case-management-reference.md)
+</table>**Parent Topic:**[Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 

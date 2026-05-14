@@ -122,5 +122,5 @@ cmdb\_ot\_viewer
 The Industrial Workspace List Page rule takes users with the roles described in the rule directly to the Industrial Workspace Lists when they log in.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
+</table>**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 

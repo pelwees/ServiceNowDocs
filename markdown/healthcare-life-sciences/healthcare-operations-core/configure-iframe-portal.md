@@ -38,5 +38,5 @@ Role required: admin
 
 ## Result
 
-![Proper domain indication on iFrame configuration for Epic.](../image/configureiframe.png)
+![Proper domain indication on iFrame configuration for Epic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/../image/configureiframe.png)
 

@@ -45,7 +45,7 @@ Role required: admin
 
     The following figure shows example settings for the Daily Health Verification base system notification.
 
-    ![The When to send tab in the Daily Health Verification notification.](../image/daily-health-verif-when-send-notif.png)
+    ![The When to send tab in the Daily Health Verification notification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/daily-health-verif-when-send-notif.png)
 
 6.  On the Who will receive tab, open **Users/Groups in fields** and select **Assigned to**.
 
@@ -60,5 +60,5 @@ Role required: admin
 11. Select **Update**.
 
 
-**Parent Topic:**[Employee Health Screening](../../employee-health-screening/concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../employee-health-screening/concept/employee-health-screening.md)
 

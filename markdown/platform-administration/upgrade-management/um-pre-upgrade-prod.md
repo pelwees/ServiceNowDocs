@@ -146,7 +146,7 @@ Role required: admin
 
         **Note:** This step is completed within the Review predicted skipped records step.
 
-        ![Screenshot showing skipped record rules editor in a prod instance](../image/um-skipped-record-rules-prod.png)
+        ![Screenshot showing skipped record rules editor in a prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-skipped-record-rules-prod.png)
 
         The skipped records matching the set conditions in the skipped record rules editor, perform the previously selected actions. Select **View latest upgrade history** to determine the actions and conditions to be set depending on the previous upgrades.
 
@@ -166,5 +166,5 @@ Role required: admin
     -   Ensure to review and update the list of skipped records after the upgrade.
     -   Once done with the reviewing of the skipped records, complete the next activities required in the pre-upgrade process.
 
-**Parent Topic:**[Access guided upgrade on a production instance](um-guided-tour-implement-prod.md)
+**Parent Topic:**[Access guided upgrade on a production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement-prod.md)
 

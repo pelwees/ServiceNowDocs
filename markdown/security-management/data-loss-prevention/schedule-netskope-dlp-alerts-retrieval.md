@@ -121,5 +121,5 @@ Date from when data is fetched from Netskope.**Note:** At most the last 30 days 
 
 After the successful creation activation of the profile, incidents will be fetched periodically as per the configuration set in the profile. The incidents will be added into the DLP incidents table.
 
-**Parent Topic:**[Create a Profile for Netskope DLP integration](create-profile-netskope-dlp-integration.md)
+**Parent Topic:**[Create a Profile for Netskope DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-netskope-dlp-integration.md)
 

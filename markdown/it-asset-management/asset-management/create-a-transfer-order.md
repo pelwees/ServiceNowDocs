@@ -44,10 +44,10 @@ Transfer order record is created.
 
 Create transfer order lines to specify the items that the transfer order comprises of.
 
-**Parent Topic:**[Transfer order tasks](../concept/work-with-transfer-orders.md)
+**Parent Topic:**[Transfer order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../concept/work-with-transfer-orders.md)
 
 **Related topics**  
 
 
-[Create transfer order line](create-transfer-order-line.md)
+[Create transfer order line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-transfer-order-line.md)
 

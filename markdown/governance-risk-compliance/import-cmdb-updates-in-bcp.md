@@ -29,7 +29,7 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
 
     The Plan dependency delta snapshot is displayed.
 
-    ![Plan snapshot record.](../image/plan-snapshot.png)
+    ![Plan snapshot record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plan-snapshot.png)
 
     The BCM application stores one active snapshot for the BCP at a time. The snapshots that are in the **Completed** state and that have not been updated in the past six months are removed from the application automatically.
 
@@ -42,5 +42,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The plan owners and BCM lead can update the planning dependencies by saving the changes to the plan.
 
 
-**Parent Topic:**[Scheduling auto-update of related assets](../concept/import-cmdb-updates-in-plans.md)
+**Parent Topic:**[Scheduling auto-update of related assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/import-cmdb-updates-in-plans.md)
 

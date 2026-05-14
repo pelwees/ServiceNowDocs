@@ -17,6 +17,6 @@ Enhance efficiency and performance through feedback and analytics.
 
 |Feature|Description|
 |-------|-----------|
-|[Content Analytics](ecpro-content-automation-analytics.md)|Monitor and measure the impact of your content using Content Analytics.|
-|[Integrated experience and service feedback](ex-fdback-ovrvw.md)|Experience and service feedback enables you to gather quick feedback from your users on their user experiences and their service experiences.|
+|[Content Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-analytics.md)|Monitor and measure the impact of your content using Content Analytics.|
+|[Integrated experience and service feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdback-ovrvw.md)|Experience and service feedback enables you to gather quick feedback from your users on their user experiences and their service experiences.|
 

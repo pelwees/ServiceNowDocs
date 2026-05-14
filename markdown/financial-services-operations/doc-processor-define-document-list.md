@@ -38,7 +38,7 @@ Role required: sn\_doc\_processor.admin
 
 ## What to do next
 
-[Create document list item definitions for a document list definition](doc-processor-associate-document-list-items-to-category.md)
+[Create document list item definitions for a document list definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-associate-document-list-items-to-category.md)
 
-**Parent Topic:**[Configuring Financial Services Operations Document Processor](../concept/configuring-fso-document-processor.md)
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/configuring-fso-document-processor.md)
 

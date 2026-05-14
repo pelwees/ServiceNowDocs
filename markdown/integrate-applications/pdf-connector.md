@@ -20,11 +20,11 @@ The PDF connector is available as a plugin by default in RPA Desktop Design Stud
 -   RPA Desktop Design Studio still supports automation projects that are designed by using the older PDF methods in **Utilities** from Toolbox.
 -   You can't manipulate e-signed PDFs such as performing merge and split. This action corrupts the PDF files.
 
--   To use a connector in RPA Desktop Design Studio, see [Use a connector in RPA Desktop Design Studio](../task/use-connector.md).
--   To understand the various methods in the PDF connector, see [PDF connector methods](pdf-connector-methods.md).
+-   To use a connector in RPA Desktop Design Studio, see [Use a connector in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/use-connector.md).
+-   To understand the various methods in the PDF connector, see [PDF connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/pdf-connector-methods.md).
 
--   **[PDF connector methods](pdf-connector-methods.md)**  
+-   **[PDF connector methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/pdf-connector-methods.md)**  
 Accelerate PDF processing for your document automation by using the various methods of PDF connector in RPA Desktop Design Studio.
 
-**Parent Topic:**[Connectors](connectors.md)
+**Parent Topic:**[Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors.md)
 

@@ -20,7 +20,7 @@ Optimize a GRC issue resolution plan by using the Optimize GRC issue resolution 
 
 Role required: sn\_grc\_genai.issue\_user or sn\_irm\_gen\_ai.user
 
-Activate the Issue Summarization skill. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](activate-na-skills-in-irm.md).
+Activate the Issue Summarization skill. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-na-skills-in-irm.md).
 
 ## About this task
 
@@ -34,7 +34,7 @@ To modify the Optimize GRC issue resolution workflow [duplicate it](https://www.
 
 2.  Open the issue that you want to resolve by using the agentic workflow.
 
-3.  Select the Now Assist \(![Now Assist panel icon.](../image/nap-icon.png)\) icon.
+3.  Select the Now Assist \(![Now Assist panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/nap-icon.png)\) icon.
 
     The Now Assist panel is displayed.
 
@@ -78,7 +78,7 @@ If you accept the action plan, the Now Assist virtual agent can suggest remediat
 
 
 </td></tr></tbody>
-</table>    ![Now Assist panel for issue resolution.](../image/nap-issue-resolution.png)
+</table>    ![Now Assist panel for issue resolution.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/nap-issue-resolution.png)
 
     In the Now Assist panel, the agent receives a notification when the interaction is generated, enabling your users to follow the on-screen instructions and complete the task.
 

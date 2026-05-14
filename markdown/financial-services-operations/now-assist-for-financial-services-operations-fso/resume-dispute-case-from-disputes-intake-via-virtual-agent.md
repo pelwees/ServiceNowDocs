@@ -27,7 +27,7 @@ When a customer initiates a dispute intake by selecting **Report a dispute** in 
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![Lists icon.](../../../use/reporting/image/inline-data-vis-list.png)\).
+2.  Select the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../../use/reporting/image/inline-data-vis-list.png)\).
 
 3.  Open a card disputes service case.
 
@@ -54,19 +54,19 @@ Review the disputed transaction details.
 Select the card account and disputed transactions.
 
 </td></tr></tbody>
-</table>    ![Finish the card dispute record created by the customer's incomplete Virtual Agent chat from the Resume dispute case activity.](../image/disputes-va-resume-case.png)
+</table>    ![Finish the card dispute record created by the customer's incomplete Virtual Agent chat from the Resume dispute case activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-resume-case.png)
 
 6.  Complete the remaining activities in the **Initiate** lane.
 
 7.  At the Submit dispute activity, select **Submit**.
 
 
-**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](submit-dispute-case-disputes-intake-via-virtual-agent.md)
+**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/submit-dispute-case-disputes-intake-via-virtual-agent.md)
 
 **Related topics**  
 
 
-[Overview of the Dispute Management workflow](../../fso-card-operations/concept/dispute-management-workflows.md)
+[Overview of the Dispute Management workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-card-operations/concept/dispute-management-workflows.md)
 
-[Create a case with Disputes intake via Virtual Agent](../../fso-card-operations/concept/create-a-case-with-virtual-agent.md)
+[Create a case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-card-operations/concept/create-a-case-with-virtual-agent.md)
 

@@ -42,13 +42,13 @@ The layout of the home page may vary, depending on which features you've install
 
     **Note:** Only users with the sys\_admin role can install a plugin from the Advanced Work Assignment home page. For example, if a user with the awa\_admin role tried to install the Advanced Work Assignment plugin, they're prompted to contact their administrator for installation. After the Advanced Work Assignment plugin is installed, all AWA home page options are available in the application navigator for users with the admin and awa\_admin roles.
 
-    ![Install AWA from the Advanced Work Assignment home page](../image/awa-home-install-awa-plugin.png)
+    ![Install AWA from the Advanced Work Assignment home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-install-awa-plugin.png)
 
 -   **Get targeted routing capabilities**
 
     Activate org-specific AWA plugins through the **Get plugin** button to route work items to the right agents for ServiceNow® IT Service Management \(ITSM\), ServiceNow® Customer Service Management, and ServiceNow® HR Service Delivery \(HRSD\) plugins. These plugins enable org-specific service channels in AWA including configured data and demo data.
 
-    ![Get targeted routing capabilities three plugin options](../image/awa-home-get-targeted-routing-capabilities.png)
+    ![Get targeted routing capabilities three plugin options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-get-targeted-routing-capabilities.png)
 
 -   **Get the most popular plugins**
 
@@ -57,7 +57,7 @@ The layout of the home page may vary, depending on which features you've install
     -   Agent Chat: The Agent Chat plugin enables the Chat service channel in AWA and chat monitoring in Agent Workspace.
     -   Walk-up Experience: The Walk-up Experience plugin activates the walk-up contact service channel for pre-built technology lounges.
     -   Performance Analytics: The Performance Analytics plugin activates the Performance Analytics Content Pack for AWA.
-    ![Get the most popular plugins after installing targeted routing capabilities plugins](../image/awa-home-get-popular-plugins.png)
+    ![Get the most popular plugins after installing targeted routing capabilities plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-get-popular-plugins.png)
 
 -   **Watch and learn**
 
@@ -82,9 +82,9 @@ Follow the order of the guided configuration setup to establish your AWA setting
 
 |Card|Feature|Description|
 |----|-------|-----------|
-|![Set up service channels in the AWA home page](../image/awa-home-create-service-channels.png)|[Create Service Channels](../task/awa-create-service-channel.md)|Give customer support by automatically routing incoming work to agents through service channels. Service channels assign a specific type and scope of work to agents.|
-|![Set up queues in the AWA home page](../image/awa-home-configure-work-item-queues.png)|[Configure work item queues](../task/awa-create-queue.md)|Determine routing conditions and destinations for queues.|
-|![Set up assignment rules in the AWA home page](../image/awa-home-add-assignment-rules.png)|[Add assignment rules](../task/awa-create-assignment-rule.md)|Establish assignment criteria to agents who either have gone the longest without being assigned a work item, have the most work availability, or have the needed skills.|
+|![Set up service channels in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-create-service-channels.png)|[Create Service Channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-create-service-channel.md)|Give customer support by automatically routing incoming work to agents through service channels. Service channels assign a specific type and scope of work to agents.|
+|![Set up queues in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-configure-work-item-queues.png)|[Configure work item queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-create-queue.md)|Determine routing conditions and destinations for queues.|
+|![Set up assignment rules in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-add-assignment-rules.png)|[Add assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-create-assignment-rule.md)|Establish assignment criteria to agents who either have gone the longest without being assigned a work item, have the most work availability, or have the needed skills.|
 
 ## Configuring additional and advanced AWA settings
 
@@ -104,11 +104,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Set up presence states in the AWA home page](../image/awa-home-customize-presence-states.png)
+![Set up presence states in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-customize-presence-states.png)
 
 </td><td>
 
-[Customize presence states](../task/awa-configure-agent-presence.md)
+[Customize presence states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-configure-agent-presence.md)
 
 </td><td>
 
@@ -116,11 +116,11 @@ Configure availability states that agents use to indicate whether they can recei
 
 </td></tr><tr><td>
 
-![Set up reject reasons in the AWA home page](../image/awa-home-configure-reject-reasons.png)
+![Set up reject reasons in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-configure-reject-reasons.png)
 
 </td><td>
 
-[Configure reasons for rejections](../task/awa-configure-reject-reasons.md)
+[Configure reasons for rejections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-configure-reject-reasons.md)
 
 </td><td>
 
@@ -128,11 +128,11 @@ Define the reasons that agents can use to decline work assignments that they rec
 
 </td></tr><tr><td>
 
-![Set up universal capacity in the AWA home page](../image/awa-home-determine-agent-capacity.png)
+![Set up universal capacity in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-determine-agent-capacity.png)
 
 </td><td>
 
-[Determine agent capacity](../task/awa-universal-capacity.md)
+[Determine agent capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-universal-capacity.md)
 
 </td><td>
 
@@ -142,11 +142,11 @@ Configure your team's maximum universal capacity to prevent an agent from being 
 
 Select **See More** to view this card.
 
- ![Set up groups in the AWA home page](../image/awa-home-define-assignment-group.png)
+ ![Set up groups in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-define-assignment-group.png)
 
 </td><td>
 
-[Define assignment groups](../task/awa-groups.md)
+[Define assignment groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-groups.md)
 
 </td><td>
 
@@ -169,11 +169,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Set up Agent Affinity in the AWA home page](../image/awa-home-advanced-agent-affinity.png)
+![Set up Agent Affinity in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-advanced-agent-affinity.png)
 
 </td><td>
 
-[Set up Agent Affinity](../task/awa-configure-agent-affinity.md)
+[Set up Agent Affinity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-configure-agent-affinity.md)
 
 </td><td>
 
@@ -181,11 +181,11 @@ Install the Agent Affinity plugin for this card to conditionally appear. Create 
 
 </td></tr><tr><td>
 
-![Set up Shift-based Assignment in the AWA home page](../image/awa-home-advanced-shift-based-assignment.png)
+![Set up Shift-based Assignment in the AWA home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-home-advanced-shift-based-assignment.png)
 
 </td><td>
 
-[Set up shift-based assignment](../task/awa-create-assignment-rule.md)
+[Set up shift-based assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../task/awa-create-assignment-rule.md)
 
 </td><td>
 

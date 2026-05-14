@@ -27,17 +27,17 @@ Role required: none
 
     The number of selected rows that you’re editing is indicated. If any rows can’t be edited due to security constraints, that is indicated.
 
-    ![Selected fields](../image/MultipleSelect.png "Selected fields are highlighted in blue")
+    ![Selected fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/MultipleSelect.png "Selected fields are highlighted in blue")
 
 3.  Enter the appropriate values and select **Save**.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_MethodsForListEdits.md)
 
 **Related topics**  
 
 
-[Use the list editor](t_UseTheListEditor.md)
+[Use the list editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseTheListEditor.md)
 
-[Edit multiple records in a list using an editing form](t_EditMultiRecUsingEditingForm.md)
+[Edit multiple records in a list using an editing form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditMultiRecUsingEditingForm.md)
 

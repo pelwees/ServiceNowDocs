@@ -25,9 +25,9 @@ Role required: sn\_hr\_core.case\_writer
 
 2.  Find the case you for which you want to add a reminder.
 
-    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](../concept/agent-ws-hr-case-mgmt-use.md).
+    For more information on finding an HR case, see [Using Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/agent-ws-hr-case-mgmt-use.md).
 
-3.  Select the ![More icon](../reference/images/EllipsisIcon.png) more icon.
+3.  Select the ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/EllipsisIcon.png) more icon.
 
 4.  Select **Set reminder**.
 
@@ -47,6 +47,6 @@ Role required: sn\_hr\_core.case\_writer
 
     **Note:**
 
-    -   When alert is activated, a number appears inside the Notifications icon \(![Notifications icon](../image/notification-icon.png)\) and the notifications message scrolls across the screen to remind you.
+    -   When alert is activated, a number appears inside the Notifications icon \(![Notifications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/notification-icon.png)\) and the notifications message scrolls across the screen to remind you.
     -   Reminder notifications appear only to the user who has set the reminders.
 

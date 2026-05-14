@@ -22,7 +22,7 @@ The following scheduled on-demand scripts have been added:
 -   **Product and spend category prediction for purchase line**: Updates the spend and product category fields on PRLs imported through integration from third-party systems.
 -   **Product and spend category prediction for purchase order line**: Updates the spend and product category fields on POLs imported through integration from third-party systems.
 
-After the PRLs and POLs are imported into your instance, open the appropriate scheduled on-demand script and select **Execute Now** to run the script and update the spend and product category fields.![Scheduled Script Execution page showing the product and spend category prediction script with Execute Now button.](../image/prl-on-demand.png)
+After the PRLs and POLs are imported into your instance, open the appropriate scheduled on-demand script and select **Execute Now** to run the script and update the spend and product category fields.![Scheduled Script Execution page showing the product and spend category prediction script with Execute Now button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/prl-on-demand.png)
 
 ## How product and spend category updates work for imported PRLs and POLs
 
@@ -32,5 +32,5 @@ After the PRLs and POLs are imported into your instance, open the appropriate sc
 -   Jobs resume from where the previous run ended.
 -   POLs linked to PRLs inherit the spend category from the associated PRLs, while standalone POLs receive AI-predicted categories.
 
-**Parent Topic:**[Automatically assign categories during SR and PR creation](automatically-assign-categories.md)
+**Parent Topic:**[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)
 

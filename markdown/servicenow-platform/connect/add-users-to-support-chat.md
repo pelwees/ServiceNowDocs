@@ -25,7 +25,7 @@ Role required: none
 
 1.  Open a group or record conversation in the Connect workspace.
 
-2.  In the conversation tools to the right of the conversation pane, click the member list tab \(![Member list tab](../image/IconMemberList.png)\).
+2.  In the conversation tools to the right of the conversation pane, click the member list tab \(![Member list tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMemberList.png)\).
 
 3.  Do one of the following actions.
 

@@ -23,12 +23,12 @@ The following relationships define the value stream stage model in Enterprise Ar
 
 In the Hire to Retire value stream, onboarding of new employees is a value stream stage.
 
-**Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
+**Parent Topic:**[Exploring the business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View value stream stage details](../../task/eaw-task/eaw-view-all-value-stream-stages.md)
+[View value stream stage details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-value-stream-stages.md)
 
-[Add or edit a value stream stage](../../task/eaw-task/eaw-add-or-edit-a-value-stream-stage.md)
+[Add or edit a value stream stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-value-stream-stage.md)
 

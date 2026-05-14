@@ -38,7 +38,7 @@ Pool-Filter, Resource profile, Billing, Quota, Permissions, IPAM, Budget, and No
 
 While domain separation provides multi-tenancy support, multi-tenancy is still contained within a single instance. Some global properties, data, and processes are shared across all domains. The following image illustrates domain separation hierarchy for unrestricted and restricted use cases.
 
-![Service provider hierarchy](../image/bp-cm-ds-hierarchy.png)
+![Service provider hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/bp-cm-ds-hierarchy.png)
 
 Perform the following tasks to set up your domain-separated instance:
 
@@ -104,7 +104,7 @@ Perform the following tasks to set up your domain-separated instance:
 
 ## Next Steps
 
-For more information on onboarding customers or companies in a domain-separated instance for Cloud Provisioning and Governance services, see [On-board a Company](cust-onboard-dom-sep-sp.md).
+For more information on onboarding customers or companies in a domain-separated instance for Cloud Provisioning and Governance services, see [On-board a Company](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cust-onboard-dom-sep-sp.md).
 
 **Related topics**  
 

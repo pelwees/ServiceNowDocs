@@ -27,12 +27,12 @@ Role required: admin or delegated\_developer
 
 3.  Select **App details** to open the app in the canvas.
 
-4.  Select the more options icon ![More options icon](../image/sn-studio-more-options-icon.png), and select **Delete**.
+4.  Select the more options icon ![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-more-options-icon.png), and select **Delete**.
 
 5.  On the Permanently delete this app? modal, enter `Delete`.
 
 6.  Select **Close**.
 
 
-**Parent Topic:**[Working with applications in ServiceNow Studio](../concept/working-with-apps-in-servicenow-studio.md)
+**Parent Topic:**[Working with applications in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/working-with-apps-in-servicenow-studio.md)
 

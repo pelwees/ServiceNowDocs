@@ -33,7 +33,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Checkbox.](../../vulnerability-response/image/checkbox.png)
+![Checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/checkbox.png)
 
 </td><td>
 
@@ -42,13 +42,13 @@ As a user with the admin role, verify that you have the Security Incident Respon
  1.  To verify the core application is installed on your instance, navigate to **Plugins** and search for Security Incident Response.
 2.  If the Security Incident Response core application is not already installed, click **Install** to install it.
 
- For more information about installing the Security Incident Response core application, see [Install and configure Security Incident Response](install-and-configure-sir.md).
+ For more information about installing the Security Incident Response core application, see [Install and configure Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-sir.md).
 
- If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../../planning-and-policy/concept/secops-and-store.md).
+ If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [Security Operations and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../planning-and-policy/concept/secops-and-store.md).
 
 </td></tr><tr><td>
 
-![Checkbox.](../../vulnerability-response/image/checkbox.png)
+![Checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/checkbox.png)
 
 </td><td>
 
@@ -64,11 +64,11 @@ As a user with the admin role, verify that you have the Security Incident Respon
 2.  Search for the plugin IDs \(com.glide.sg and com.glide.sg.agent\_native\_client\).
 3.  If they are not activated, activate these plugins. These plugins are required for the Security Incident Response Mobile app.
 
- For more information about installing applications and entitlements to applications, see [Security Operations and the ServiceNow Store](../../planning-and-policy/concept/secops-and-store.md).
+ For more information about installing applications and entitlements to applications, see [Security Operations and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../planning-and-policy/concept/secops-and-store.md).
 
 </td></tr><tr><td>
 
-![Checkbox.](../../vulnerability-response/image/checkbox.png)
+![Checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/checkbox.png)
 
 </td><td>
 
@@ -80,23 +80,23 @@ As a user with the ServiceNow AI Platform admin role, verify that you have assig
 
  **Note:** If you have a large number of users for the mobile application, you alternatively can assign the sn\_si.analyst role to a group. Each user you add to the group inherits this role.
 
- For more information about security analysts, see [Assigning security analysts](../reference/r_AgentAssignment.md#).
+ For more information about security analysts, see [Assigning security analysts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/r_AgentAssignment.md#).
 
  For more information on users and assigning roles to users and groups, see [User administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_UserAdministration.md).
 
 </td></tr><tr><td>
 
-![Checkbox.](../../vulnerability-response/image/checkbox.png)
+![Checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/checkbox.png)
 
 </td><td>
 
 As a user with the sn\_si.analyst role, download the most current ServiceNow® Agent app on your mobile device.The most current version of the Agent app is available on the Apple iOS App Store and the Google Play Store.
 
- ![ServiceNow Agent app.](../../../common/image/mobile-vr-agent_app-8182.png)
+ ![ServiceNow Agent app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../common/image/mobile-vr-agent_app-8182.png)
 
 </td></tr><tr><td>
 
-![Checkbox.](../../vulnerability-response/image/checkbox.png)
+![Checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/checkbox.png)
 
 </td><td>
 

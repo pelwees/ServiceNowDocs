@@ -23,12 +23,12 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Select the hide sections icon \(![Hide sections icon.](../../image/icon-hide-sections.png)\) to open the Personalize Page window.
+2.  Select the hide sections icon \(![Hide sections icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/icon-hide-sections.png)\) to open the Personalize Page window.
 
 3.  Use the toggle switches next to the relevant section names to conceal or display a particular section from the home page.
 
 4.  Select **Apply**.
 
 
-**Parent Topic:**[Configuring Enterprise Architecture Workspace](../../concept/eaw-concept/configure-eaw.md)
+**Parent Topic:**[Configuring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/configure-eaw.md)
 

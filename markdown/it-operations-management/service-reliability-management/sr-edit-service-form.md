@@ -17,7 +17,7 @@ Edit an existing service owned by your team.
 
 ## Service Details form
 
-For more information, see [Edit service details in SRM](../task/sr-edit-service.md).
+For more information, see [Edit service details in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-edit-service.md).
 
 <table id="id_yty_w2n_zyb"><thead><tr><th>
 
@@ -179,5 +179,5 @@ Support by
 SRM team managing the service. Add by search or edit using the text editor.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Reliability Management reference](service-reliability-management-reference.md)
+</table>**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 

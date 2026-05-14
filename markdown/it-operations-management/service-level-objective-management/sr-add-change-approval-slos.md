@@ -64,5 +64,5 @@ For more advanced setups, use Flow Designer to customize the SLOs and services i
 3.  Customize the **Action Inputs** section.
 4.  Select **Done** to implement your changes.
 
-**Parent Topic:**[Using SLO Management](../../slo-management/task/using-service-level-objective-management.md)
+**Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/../../slo-management/task/using-service-level-objective-management.md)
 

@@ -88,15 +88,15 @@ Detailed location information on where the discrimination occurred, such as the 
 
 10. Save a PDF copy of your report, which contains the report key and report number necessary to access report updates, progress, or comments, by selecting the **Download report copy** link.
 
-    **Note:** Only HR agents and admins that have access to the Anonymous Report Center and can access reports. For more details, see [Access an anonymous report](arc-access-anon-report.md).
+    **Note:** Only HR agents and admins that have access to the Anonymous Report Center and can access reports. For more details, see [Access an anonymous report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md).
 
 
-**Parent Topic:**[Using the Anonymous Report Center](../concept/arc-use.md)
+**Parent Topic:**[Using the Anonymous Report Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/arc-use.md)
 
 **Related topics**  
 
 
-[Anonymously report misconduct](arc-create-anon-report.md)
+[Anonymously report misconduct](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-create-anon-report.md)
 
-[Access an anonymous report](arc-access-anon-report.md)
+[Access an anonymous report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-access-anon-report.md)
 

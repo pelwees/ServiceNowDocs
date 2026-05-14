@@ -24,5 +24,5 @@ The modeling configuration form helps you to configure UI options for Enterprise
 |Users|Select individual users to provide access to the configuration.|
 |Groups|Select groups to provide access to the configuration.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 

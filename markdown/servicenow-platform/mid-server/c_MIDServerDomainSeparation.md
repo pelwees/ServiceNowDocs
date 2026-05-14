@@ -17,7 +17,7 @@ Use the MID Server user role to configure MID Servers to access separate domains
 
 <table id="table_qxn_nt4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>The records that can be read, updated, or created by a MID Server are determined by the credentials configured for that MID Server in the `config.xml` file. These are the user credentials that a MID Server uses to access the instance and specify which domain's records that MID Server can access.
@@ -30,7 +30,7 @@ You can create versions of these specific MID Server policy records that only a 
 
 **Note:** Attachments on MIB or JAR file records might not appear as they did in a non-domain separated environment. The attachments do not appear because the **Attachments** \[sys\_attachment\] table is data separated. When data is separated between domains, a record in a child domain cannot access records in a parent domain.
 
-**Parent Topic:**[Configuring MID Servers](c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md)
 
 ## Set up domain separation for MID servers
 
@@ -42,11 +42,11 @@ Role required: agent\_admin or admin
 
 ### Procedure
 
-1.  [Configure a MID Server user](../task/t_SetupMIDServerRole.md#) within a specified domain with the proper **mid\_server** role.
+1.  [Configure a MID Server user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_SetupMIDServerRole.md#) within a specified domain with the proper **mid\_server** role.
 
 2.  Specify this user within the MID Server **config.xml** file.
 
-    When you set the [MID Server user credentials](mid-server-install-prereqs.md#) in the `config.xml` file, make sure they are in the proper domain.
+    When you set the [MID Server user credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md#) in the `config.xml` file, make sure they are in the proper domain.
 
 
 ### What to do next

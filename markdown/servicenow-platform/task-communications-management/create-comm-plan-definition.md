@@ -47,12 +47,12 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
 Define a communication task for the plan.
 
--   **[Define a communication task](create-comm-task-definition.md)**  
+-   **[Define a communication task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-task-definition.md)**  
 Define a communication task for a communication plan. When a plan gets attached to a table, the tasks related to the plan need to be executed to resolve the issue. You can associate multiple tasks with a communication plan.
--   **[Define a communication channel](create-comm-channel-definition.md)**  
+-   **[Define a communication channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-channel-definition.md)**  
 Define a communication channel for each communication task to determine which mode of communication to use for the task when a plan is attached to a table.
--   **[Define a communication contact](create-comm-contact-definition.md)**  
+-   **[Define a communication contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-contact-definition.md)**  
 Define the recipients of a particular plan to determine the target audience involved in each communication task and the responsibilities the recipients are expected to handle. A notification for a task is sent to all individuals specified for that task.
 
-**Parent Topic:**[Working with Task Communications Management](../concept/working-with-tcm.md)
+**Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../concept/working-with-tcm.md)
 

@@ -34,8 +34,8 @@ Specific business rules calculate the **Resolve time** field when the record is 
     ```
 
 
--   **[Display resolve time as a duration](../task/t_DisplayResolveTimeAsADuration.md)**  
+-   **[Display resolve time as a duration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../task/t_DisplayResolveTimeAsADuration.md)**  
 You can display the resolve time as a human-readable duration rather than an integer representing a duration in seconds.
 
-**Parent Topic:**[Task fields for measuring work time](c_TaskFieldsForMeasuringWorkTime.md)
+**Parent Topic:**[Task fields for measuring work time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TaskFieldsForMeasuringWorkTime.md)
 

@@ -25,12 +25,12 @@ Administrators must understand the parent-child relationships between Task table
 
 ## Procedure
 
-1.  From the parent Task table template, [configure the form layout](../concept/configure-form-layout.md#) to add these fields.
+1.  From the parent Task table template, [configure the form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/configure-form-layout.md#) to add these fields.
 
     -   **Next Related Child Template**
     -   **Next Related Template**
     -   **Link element**
-2.  [Create a template](t_CreateATemplateUsingTheTmplForm.md) for the parent Task table.
+2.  [Create a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md) for the parent Task table.
 
     For example, create this template for the Change table.
 
@@ -78,7 +78,7 @@ Template
 
 
 </td></tr></tbody>
-</table>3.  [Create a template](t_CreateATemplateUsingTheTmplForm.md) for the first related task.
+</table>3.  [Create a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md) for the first related task.
 
     For example, create this template for the Change Task table.
 
@@ -133,7 +133,7 @@ Link element
 Change request
 
 </td></tr></tbody>
-</table>4.  [Create a template](t_CreateATemplateUsingTheTmplForm.md) for each additional related task.
+</table>4.  [Create a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md) for each additional related task.
 
     For example, create one additional template for the Change Task table.
 
@@ -192,37 +192,37 @@ Change request
 
     For example, in the Add server to network template, select `Order server` in the **Next Related Child Template** field.
 
-    ![Example for parent task template.](../image/ParentTaskTemplateExample.png)
+    ![Example for parent task template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ParentTaskTemplateExample.png)
 
 6.  For each child related task, set **Next Related Template** to the next related task template.
 
     For example, in the Order server template, select `Install server on network` in the **Next Related Template** field.
 
-    ![Example for child task template.](../image/ChildTaskTemplateExample.png)
+    ![Example for child task template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ChildTaskTemplateExample.png)
 
     **Note:** The last related task template does not have a value for **Next Related Template**. For example, the **Install server on network** template does not have a value in **Next Related Template**.
 
 
 ## What to do next
 
-[Create a module](t_CreateAModuleForATemplate.md) for the parent Task table template so that child templates can be applied to related task records. For example, create a module for **Add server to network**.
+[Create a module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md) for the parent Task table template so that child templates can be applied to related task records. For example, create a module for **Add server to network**.
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATemplateUsingTheTmplForm.md)
 
-[Create a template by saving a form](t_SaveAFormAsATemplateInUI16OrUI15.md)
+[Create a template by saving a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_SaveAFormAsATemplateInUI16OrUI15.md)
 
-[Schedule record creation from a template](t_ScheduleATemplate.md)
+[Schedule record creation from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleATemplate.md)
 
-[Create a module for a template](t_CreateAModuleForATemplate.md)
+[Create a module for a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/template-bar.md)
 
-[Toggle the template bar](t_ToggleTheTemplateBar.md)
+[Toggle the template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ToggleTheTemplateBar.md)
 
-[Scripted templates](../reference/r_ScriptedTemplates.md)
+[Scripted templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_ScriptedTemplates.md)
 

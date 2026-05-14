@@ -17,7 +17,7 @@ View and analyze the resource capacity for your portfolio to plan and re-forecas
 
 ## Before you begin
 
-Generate resource capacity using [Generate resource capacity](manage-rsrc-cap-pp.md).
+Generate resource capacity using [Generate resource capacity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/manage-rsrc-cap-pp.md).
 
 Role required: sn\_align\_ws.spw\_capacity\_user
 
@@ -33,13 +33,13 @@ Role required: sn\_align\_ws.spw\_capacity\_user
 
     If you select Group, all the available groups from the resource assignments of the prioritized planning items are automatically displayed in the Auto-select option. You can add or remove the suggestions to view the resource capacity using the Manual-select option.
 
-    **Tip:** You can always redefine and change the resource criteria to view custom results using the **Resource criteria** \(![Resource criteria button.](../../spw-capacity-planning/images/cp-resource-criteria-button.png)\) button.
+    **Tip:** You can always redefine and change the resource criteria to view custom results using the **Resource criteria** \(![Resource criteria button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-resource-criteria-button.png)\) button.
 
-    ![Resource criteria screen in Capacity Planning.](../../spw-capacity-planning/images/cp-select-resource-criteria.png)
+    ![Resource criteria screen in Capacity Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-select-resource-criteria.png)
 
 5.  Select **Submit**.
 
-    ![Capacity planning screen.](../../spw-capacity-planning/images/cp-capacity-planning-screen.png)
+    ![Capacity planning screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-capacity-planning/images/cp-capacity-planning-screen.png)
 
 
 ## Result

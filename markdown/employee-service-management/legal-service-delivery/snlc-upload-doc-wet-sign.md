@@ -29,7 +29,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller and sn\_cm\_core.contract\_fulfil
 
 1.  Navigate to **All** &gt; **Legal request** &gt; **Legal Counsel Center**.
 
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, navigate to **Legal Requests** or **Contract Requests**.
 
@@ -43,7 +43,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller and sn\_cm\_core.contract\_fulfil
 
     2.  Select the contract document and select **Open**.
 
-        ![Attach wet signed contract document when one of the signatories decides to do a wet signature instead of electronic signature](../../contract-mgmt-pro/image/cmpro-mixedsig-attachfile.png "Attach wet signed contract document for upload")
+        ![Attach wet signed contract document when one of the signatories decides to do a wet signature instead of electronic signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cmpro-mixedsig-attachfile.png "Attach wet signed contract document for upload")
 
         The contract document is attached.
 
@@ -55,13 +55,13 @@ Role required: sn\_lg\_cnt.contract\_fulfiller and sn\_cm\_core.contract\_fulfil
 
     2.  Select **Next**.
 
-        ![Select signatories who have already signed the contract document.](../../contract-mgmt-pro/image/cmpro-mixedsig-selectsig.png "Select signatories")
+        ![Select signatories who have already signed the contract document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cmpro-mixedsig-selectsig.png "Select signatories")
 
 8.  Review and upload the contract document.
 
     -   Upload the signed contract document - If all signatories have signed the contract document, select **Upload** to upload the document.
     -   Send the uploaded document to the next signatories - If some of the signatures are pending, select **Upload and send for signature** to upload and send the document to the pending signatories.
-    ![Send the contract document to signatories who still need to sign it.](../../contract-mgmt-pro/image/cmpro-mixedsig-sendsig.png "Send for signature")
+    ![Send the contract document to signatories who still need to sign it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cmpro-mixedsig-sendsig.png "Send for signature")
 
 
 ## Result
@@ -74,5 +74,5 @@ For Non-disclosure agreement legal requests, the state of the request updates to
 
 For Third-party contract review requests, the state of the request and the contract status updates to **Contract signed**. To close the contract request, select **Close complete**.
 
-**Parent Topic:**[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md)
 

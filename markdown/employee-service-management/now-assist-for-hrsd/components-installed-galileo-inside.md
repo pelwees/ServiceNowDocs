@@ -61,5 +61,5 @@ Retrieves data from the Josh Bersin company. The admin first manually executes t
  Subsequently, the system runs the scheduled job monthly to retrieve new data.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference for Now Assist for HR Service Delivery \(HRSD\)](reference-now-assist-hrsd.md)
+</table>**Parent Topic:**[Reference for Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/reference-now-assist-hrsd.md)
 

@@ -35,7 +35,7 @@ Role required: pa\_admin or admin
 **Related topics**  
 
 
-[Control ability to view breakdown elements](t_ControlAccessToABreakdown.md#)
+[Control ability to view breakdown elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToABreakdown.md#)
 
-[Share a responsive dashboard](../../dashboards/task/t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/task/t_ControlAccessToADashboard.md)
 

@@ -58,7 +58,7 @@ vaInputs.myvar == "expected value"
 
 Evaluates whether `myvar` matches an expected value. **Note:** Values for user input variables are assigned using user input controls. These values can’t be changed in your scripts.
 
- -   The Australia release supports additional data types. For more information, see [Input data types in Virtual Agent topics](../reference/va-data-types.md).
+ -   The Australia release supports additional data types. For more information, see [Input data types in Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-data-types.md).
 -   By default, the user variable is available and is a reference to the sys\_user record for the user.
 
 
@@ -80,7 +80,7 @@ Returns the display value if the stored value is not a ServiceNow record. For va
 
  The following example shows the label and choice values for a user input. In this case, `myVar.getValue()` would return a value of 10, 20, or 30, while `myVar.getDisplayValue()` would return Apple, Orange, or Pear.
 
- ![Label fields include Apple, Orange, and Pear for the choices. The values for each are 10, 20, and 30.](../images/va-value-vs-display.ong.png "Example choice list")
+ ![Label fields include Apple, Orange, and Pear for the choices. The values for each are 10, 20, and 30.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-value-vs-display.ong.png "Example choice list")
 
 </td></tr><tr><td>
 
@@ -114,13 +114,13 @@ Removes the value of input variables that the NLU prediction service slot-filled
 
 You can define script variables for information that is not stored in ServiceNow tables but that can be used to share that information elsewhere in a topic. Script variables are similar to workflow scratchpad variables that store primitives such as integers, Boolean values, or strings. A string value can be either a static or dynamic scripted value. Use the Variables sidebar to define script variables for a topic in Assistant Designer.
 
-![Sidebar in theAssistant Designer canvas for manually adding script variables that are used in topic scripts.](../images/ScriptVariablesExample.png "Variables sidebar")
+![Sidebar in theAssistant Designer canvas for manually adding script variables that are used in topic scripts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ScriptVariablesExample.png "Variables sidebar")
 
 **Note:** Script variables are intended for use by topic authors with advanced scripting skills.
 
 The variable syntax is `vaVars.myvar`, where `myvar` is the name that you assign to the variable. For example, you can assign a value to the variable using `vaVars.myvar = value;`. Unlike user input variables, script variables can be assigned values in a script.
 
-For information about defining a script variable in a topic, see [Define script variables for a topic](../task/define-script-variables-topic.md).
+For information about defining a script variable in a topic, see [Define script variables for a topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/define-script-variables-topic.md).
 
 ## Context variables
 
@@ -140,11 +140,11 @@ A number of Live Agent variables are available for use in topic scripts. These v
 -   *search\_text*
 -   *short\_description*
 
-The variable syntax is `vaContext.LiveAgent_myvar`, where `myvar` is one of the available [live agent context variables](../reference/live-agent-chat-context-vars.md). Access the variable using `vaContext.LiveAgent_myvar = value;`.
+The variable syntax is `vaContext.LiveAgent_myvar`, where `myvar` is one of the available [live agent context variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/live-agent-chat-context-vars.md). Access the variable using `vaContext.LiveAgent_myvar = value;`.
 
 To use Live Agent variables in topic scripts, open the topic in Assistant Designer. On the **Properties** tab, select the pencil icon next to **Live Agent Variables** to add them to the topic.
 
-For information about live agent context variables that are included with Virtual Agent, see [Live agent chat context variables](../reference/live-agent-chat-context-vars.md).
+For information about live agent context variables that are included with Virtual Agent, see [Live agent chat context variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/live-agent-chat-context-vars.md).
 
 |Method|Description|
 |------|-----------|
@@ -203,7 +203,7 @@ vaSystem.connectToAgent\(\)
 
 </td><td>
 
-Connects the customer to a live agent. For more information on this method, see [Transferring Virtual Agent conversations to a live agent](transfer-to-live-agent.md).
+Connects the customer to a live agent. For more information on this method, see [Transferring Virtual Agent conversations to a live agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/transfer-to-live-agent.md).
 
 </td></tr><tr><td>
 
@@ -394,20 +394,20 @@ sn\_cs.VASystemObject.getTranscriptById\(&lt;conversation sysId&gt;\)
 Gets the transcript for the current Virtual Agent conversation.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Virtual Agent technical reference](va-advanced-technical-reference.md)
+</table>**Parent Topic:**[Virtual Agent technical reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-advanced-technical-reference.md)
 
 **Related topics**  
 
 
-[Domain separation and Virtual Agent](domain-separation-virtual-agent.md)
+[Domain separation and Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/domain-separation-virtual-agent.md)
 
-[Virtual Agent interaction records](va-interactions.md)
+[Virtual Agent interaction records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-interactions.md)
 
-[Input data types in Virtual Agent topics](../reference/va-data-types.md)
+[Input data types in Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-data-types.md)
 
-[NLU system entities](../reference/nlu-system-entities.md)
+[NLU system entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/nlu-system-entities.md)
 
-[Virtual Agent URL parameters](../reference/va-sysparm.md)
+[Virtual Agent URL parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-sysparm.md)
 
-[Latency feedback in Virtual Agent](../reference/latency-feedback.md)
+[Latency feedback in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/latency-feedback.md)
 

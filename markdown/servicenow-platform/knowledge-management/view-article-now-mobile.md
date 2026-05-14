@@ -65,12 +65,12 @@ Files attached to an article. This section appears only when the attachments are
 3.  Respond to and evaluate the article.
 
 
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/mobile-experience-for-km.md)
 
 **Related topics**  
 
 
-[Provide feedback for a knowledge article in the Now Mobile Information applet](respond-evaluate-articles.md)
+[Provide feedback for a knowledge article in the Now Mobile Information applet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/respond-evaluate-articles.md)
 
-[Control access at the knowledge article level through user criteria](t_SelectUCArticle.md)
+[Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 

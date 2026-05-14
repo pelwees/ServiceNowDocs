@@ -33,34 +33,34 @@ To test the connection, run the ODBC Administrator program.
 
 3.  Click **Configure**.
 
-    ![ServiceNow system data source](../image/ServiceNowDataSource.png)
+    ![ServiceNow system data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ServiceNowDataSource.png)
 
 4.  Click **Test Connect** in the ODBC driver Setup dialog box.
 
-    ![Test data source connection](../image/TestConnect.png)
+    ![Test data source connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/TestConnect.png)
 
 5.  Enter the login credentials.
 
     These are the usual ServiceNow base system login credentials for the ODBC user you created.
 
-    ![Log on to data source](../image/DataSourceLogOn.png)
+    ![Log on to data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/DataSourceLogOn.png)
 
 6.  Click **OK** to log in to the data source.
 
 7.  Click **OK** again when the success message appears.
 
 
--   **[Generate logs for debugging](t_GenerateDebugLogs.md)**  
+-   **[Generate logs for debugging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_GenerateDebugLogs.md)**  
 If you experience unexpected behavior when using the ODBC driver, you can enable debug logging and generate debug logs to help identify the issue.
--   **[Test a query](t_TestingAQuery.md)**  
+-   **[Test a query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_TestingAQuery.md)**  
 To verify that the user has the appropriate permissions to send requests to the instance using ODBC, run a query using Interactive SQL.
--   **[ODBC troubleshooting](../reference/odbc-troubleshooting.md)**  
+-   **[ODBC troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/odbc-troubleshooting.md)**  
 Review these troubleshooting resources to resolve issues with the ODBC driver.
 
-**Parent Topic:**[Create data sources from other apps using ODBC driver](../concept/c_ODBCDriver.md)
+**Parent Topic:**[Create data sources from other apps using ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_ODBCDriver.md)
 
 **Related topics**  
 
 
-[Configure the ODBC driver](t_ConfigureTheODBCDriver.md)
+[Configure the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfigureTheODBCDriver.md)
 

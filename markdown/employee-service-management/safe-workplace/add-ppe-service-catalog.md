@@ -42,11 +42,11 @@ Role required: catalog\_admin
 
 ## What to do next
 
-Add the Personal Protective Equipment \(PPE\) category to your service catalog so employees can see the items. To add the category, navigate to **Self-Service** &gt; **Service Catalog** and click the plus icon \(![plus icon](../image/plus-icon.png)\) in the upper right.
+Add the Personal Protective Equipment \(PPE\) category to your service catalog so employees can see the items. To add the category, navigate to **Self-Service** &gt; **Service Catalog** and click the plus icon \(![plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/plus-icon.png)\) in the upper right.
 
-**Parent Topic:**[Set up Workplace PPE Inventory Management](set-up-ppe.md)
+**Parent Topic:**[Set up Workplace PPE Inventory Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/set-up-ppe.md)
 
-**Previous topic:**[Create models for PPE items](create-ppe-model.md)
+**Previous topic:**[Create models for PPE items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-ppe-model.md)
 
-**Next topic:**[Add PPE stock](add-ppe-stock.md)
+**Next topic:**[Add PPE stock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-ppe-stock.md)
 

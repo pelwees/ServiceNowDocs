@@ -17,28 +17,28 @@ Global search filters and groups matching results by table. You can configure se
 
 The configuration settings for table-based filtering and grouping of global search results differ by UI, as described in the following sections.
 
-**Parent Topic:**[Global search finds records from multiple tables](c_GlobalTextSearch.md)
+**Parent Topic:**[Global search finds records from multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_GlobalTextSearch.md)
 
 **Related topics**  
 
 
-[Global search displays a page of matching results](global-search-polaris-ui.md#)
+[Global search displays a page of matching results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/global-search-polaris-ui.md#)
 
-[Text search views control format of global search results for tables](text-search-view-formats-results.md)
+[Text search views control format of global search results for tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/text-search-view-formats-results.md)
 
-[Global search displays exact matching records](exact-matches-global-search.md#)
+[Global search displays exact matching records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/exact-matches-global-search.md#)
 
-[Global search displays your most recent search queries and results in Next Experience UI](global-search-recent-queries-results.md)
+[Global search displays your most recent search queries and results in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/global-search-recent-queries-results.md)
 
-[Set global text search properties](../task/set-global-text-search-properties.md)
+[Set global text search properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/set-global-text-search-properties.md)
 
-[Set the preview limit for global or workspace search in Next Experience UI](../task/set-app-preview-limit-polaris-ui.md)
+[Set the preview limit for global or workspace search in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/set-app-preview-limit-polaris-ui.md)
 
-[Hide per-table search result counts in Next Experience UI](../task/hide-result-counts-polaris-ui.md)
+[Hide per-table search result counts in Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/hide-result-counts-polaris-ui.md)
 
-[Add a workspace application to the Unified Navigation search context menu](../task/add-app-search-context-polaris-ui.md)
+[Add a workspace application to the Unified Navigation search context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/add-app-search-context-polaris-ui.md)
 
-[Global text search suggestions](../reference/r_GlobalTextSearchSuggestions.md)
+[Global text search suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_GlobalTextSearchSuggestions.md)
 
 ## Search sources filter global search results by table in Next Experience UI
 
@@ -67,7 +67,7 @@ When Next Experience UI is activated, the following search sources are defined f
 |People &amp; Places - Companies|Company \[core\_company\]|
 |Knowledge &amp; Catalog - Catalog Items|Catalog Item \[sc\_cat\_item\]|
 
-**Note:** Search sources only affect filtering of global search results in Next Experience UI. In Core UI, global text search filters results based on settings defined in text search groups. For details on these settings, see [Search groups filter global text search results by table in Core UI](search-settings-filter-group-table.md#).
+**Note:** Search sources only affect filtering of global search results in Next Experience UI. In Core UI, global text search filters results based on settings defined in text search groups. For details on these settings, see [Search groups filter global text search results by table in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
 ### Add a search source for Next Experience UI
 
@@ -77,15 +77,15 @@ Add a new search source to make a table searchable by global search or workspace
 
 You must be using Next Experience UI.
 
-**Note:** You can configure tables for global text search in Core UI by adding new text search groups. For more details, see [Add a search group for Core UI](search-settings-filter-group-table.md#).
+**Note:** You can configure tables for global text search in Core UI by adding new text search groups. For more details, see [Add a search group for Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
-The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#).
+The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#).
 
 Role required: search\_application\_admin or workspace\_admin
 
 #### About this task
 
-A search source defines a table that is searchable by global or workspace search in Next Experience UI. Define new search sources to add to the default set of tables configured for global search or your workspace search. For the list of global search sources included in the base system, see [Default global search sources for Next Experience UI](search-settings-filter-group-table.md#).
+A search source defines a table that is searchable by global or workspace search in Next Experience UI. Define new search sources to add to the default set of tables configured for global search or your workspace search. For the list of global search sources included in the base system, see [Default global search sources for Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
 #### Procedure
 
@@ -200,7 +200,7 @@ For exact match searches, the system only returns records from the Task \(task\)
 
 **Note:** The system filters global search results to display only knowledge articles that are in the same language as the preferred language setting.
 
-![Search results showing Tasks search group name and Incidents table name.](../image/ExampleGlobalSearchResults.png "Example global text search results")
+![Search results showing Tasks search group name and Incidents table name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/ExampleGlobalSearchResults.png "Example global text search results")
 
 ### Options for administrators
 
@@ -259,7 +259,7 @@ Knowledge &amp; Catalog
 -   Catalog Item \[sc\_cat\_item\]
 
 </td></tr></tbody>
-</table>**Note:** Text search groups only affect filtering of global text search results in Core UI and UI15. In Next Experience UI, global search filters results based on search sources linked to the **Now Experience Search Configuration** record in the Search Application Configuration \[sys\_search\_context\_config\] table. For details on the search sources included in the base system, see [Default global search sources for Next Experience UI](search-settings-filter-group-table.md#).
+</table>**Note:** Text search groups only affect filtering of global text search results in Core UI and UI15. In Next Experience UI, global search filters results based on search sources linked to the **Now Experience Search Configuration** record in the Search Application Configuration \[sys\_search\_context\_config\] table. For details on the search sources included in the base system, see [Default global search sources for Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
 ### Add a search group for Core UI
 
@@ -269,9 +269,9 @@ Add a new text search group to filter global text search results by table in Cor
 
 You must be using Core UI.
 
-**Note:** You can configure tables for global search in Next Experience UI by adding new search sources. For more details, see [Add a search source for Next Experience UI](search-settings-filter-group-table.md#).
+**Note:** You can configure tables for global search in Next Experience UI by adding new search sources. For more details, see [Add a search source for Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
-The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#).
+The tables you want to include in the search group must have text indexing enabled. To enable text indexing for a table, see [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#).
 
 Role required: text\_search\_admin
 
@@ -279,7 +279,7 @@ Role required: text\_search\_admin
 
 A text search group defines a set of tables to use as filters for global text search results in Core UI. Define new search groups to add to the default set of text search groups configured for global text search.
 
-For the list of text search groups included in the base system, see [Default global text search groups for Core UI](search-settings-filter-group-table.md#).
+For the list of text search groups included in the base system, see [Default global text search groups for Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-settings-filter-group-table.md#).
 
 #### Procedure
 
@@ -329,7 +329,7 @@ Table
 
 </td><td>
 
-Select the table to include in the search group.**Note:** You can select any table not excluded by [the **glide.ui.no\_text\_search** system property](../task/set-global-text-search-properties.md), but global search only displays search results for tables that have text indexing enabled.
+Select the table to include in the search group.**Note:** You can select any table not excluded by [the **glide.ui.no\_text\_search** system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/set-global-text-search-properties.md), but global search only displays search results for tables that have text indexing enabled.
 
 </td></tr><tr><td>
 

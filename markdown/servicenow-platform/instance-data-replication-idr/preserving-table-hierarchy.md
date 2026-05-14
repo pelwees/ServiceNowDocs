@@ -59,5 +59,5 @@ Before you create a replication set, determine if the table that you want to rep
     In this strategy, when you replicate the Task table, all replicated records have a value of task in the sys\_class\_name column, and no columns belonging to the child tables are replicated.
 
 
-**Parent Topic:**[Configuring Instance Data Replication](configuring-instance-data-replication.md)
+**Parent Topic:**[Configuring Instance Data Replication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configuring-instance-data-replication.md)
 

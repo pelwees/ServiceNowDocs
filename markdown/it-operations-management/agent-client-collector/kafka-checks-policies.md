@@ -293,5 +293,5 @@ hostname.Kafka.Zookeeper.outstanding\_requests 2.000 1648183249
  hostname.Kafka.Zookeeper.open\_file\_descriptor\_count 124.000 1648183249
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

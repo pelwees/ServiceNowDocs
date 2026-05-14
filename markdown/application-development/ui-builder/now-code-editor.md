@@ -56,7 +56,7 @@ Highlights the syntax of the code.
 
 </td></tr><tr><td>
 
-Check syntax ![syntax check icon](../image/nce_syntax_check.png)
+Check syntax ![syntax check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_syntax_check.png)
 
 </td><td>
 
@@ -83,7 +83,7 @@ You can also enable or turn off **Syntax highlighting** from the **Settings** me
 
 </td></tr><tr><td>
 
-Toggle comments ![toggle comments icon](../image/nce_toggle_comments.png)
+Toggle comments ![toggle comments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_toggle_comments.png)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Displays a list of available commands for the common operations. You can execute
 
 </td></tr><tr><td>
 
-Expand editor ![expand editor icon](../image/nce_exp_editor.png) or collapse editor ![collapse editor icon](../image/nce_coll_editor.png)
+Expand editor ![expand editor icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_exp_editor.png) or collapse editor ![collapse editor icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_coll_editor.png)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Expands or collapses the editor.Keyboard shortcut
 </td></tr></tbody>
 </table>## Debugging
 
-To launch Script Debugger, click the Script Debugger icon ![Script Debugger icon](../image/nce_script_debugger.png) in the toolbar.
+To launch Script Debugger, click the Script Debugger icon ![Script Debugger icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_script_debugger.png) in the toolbar.
 
 **Note:** You can add a breakpoint, conditional breakpoint, or logpoint, only when debugging is enabled and selected language is JavaScript.
 
@@ -176,7 +176,7 @@ Compare text in Diff mode
 
 </td><td>
 
-Use the side-by-side view icon ![now code editor side by side view](../image/nce_side_by_side_view.png) and inline view icon ![Now code editor inline view](../image/nce_inline_view.png) to toggle between views.
+Use the side-by-side view icon ![now code editor side by side view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_side_by_side_view.png) and inline view icon ![Now code editor inline view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/nce_inline_view.png) to toggle between views.
 
 </td></tr></tbody>
 </table>## Code editor macros
@@ -264,5 +264,5 @@ Use the side-by-side view icon ![now code editor side by side view](../image/nce
         ```
 
 
-**Parent Topic:**[Advanced UI Builder](../../ui-builder/concept/advanced-uib.md)
+**Parent Topic:**[Advanced UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../../ui-builder/concept/advanced-uib.md)
 

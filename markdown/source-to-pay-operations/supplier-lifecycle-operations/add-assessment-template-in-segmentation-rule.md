@@ -25,11 +25,11 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 2.  Create a segmentation rule.
 
-    For more information, see [Create segmentation rule](../task/create-segmentation-rule-slo.md).
+    For more information, see [Create segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/create-segmentation-rule-slo.md).
 
 3.  Select **Assessment templates** and **New** to map an assessment template with this segmentation rule.
 
-    ![Creating assessment template from segmentation rule](../image/slo-seg-rule-assmnt-temp.png)
+    ![Creating assessment template from segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-seg-rule-assmnt-temp.png)
 
 4.  Fill in the details in the new segmentation rule assessment template form.
 
@@ -47,5 +47,5 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 Trigger assessments from the segmentation rule assessment mapping templates.
 
-**Parent Topic:**[Configure smart assessments](configure-smart-assessments.md)
+**Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 

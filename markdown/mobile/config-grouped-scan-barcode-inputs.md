@@ -15,15 +15,15 @@ Configure input form screens that support grouped scans. Grouped scans enable yo
 
 ## Before you begin
 
-You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](parameter-screen-config.md).
+You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## About this task
 
-Grouped scan barcode inputs are supported for scripted writeback actions that are used in action items only. For information about action items, see [Configure an action item](sg-studio-create-action-item.md).
+Grouped scan barcode inputs are supported for scripted writeback actions that are used in action items only. For information about action items, see [Configure an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
-Grouped scan barcode inputs are available [offline](../concept/mobile-offline-mode.md) and [Mobile UI rules](../concept/mobile-ui-rules.md) apply to them.
+Grouped scan barcode inputs are available [offline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md) and [Mobile UI rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-ui-rules.md) apply to them.
 
 ## Procedure
 

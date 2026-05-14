@@ -42,11 +42,11 @@ When adding an entity to a model operation in Zero Copy Connector for ERP \(Ente
 
     Read the **AI suggestions** for the relevant data sources \(for example, table, BAPI, OData, RFC\) available. Select the plus icon \(![](../image/erp-plus-icon.png)\) next to any option for more information.
 
-    ![Entity suggestions listed based on text entered to describe the needed entity.](../../now-assist-zero-copy-connector/images/erp-entity-ask-ai1.png)
+    ![Entity suggestions listed based on text entered to describe the needed entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../now-assist-zero-copy-connector/images/erp-entity-ask-ai1.png)
 
     A separate list shows any already installed models that contain the suggested entities. For example, after entering `Show list of all change documents that are in progress`, several installed models were listed. Select the plus icon \(![](../image/erp-plus-icon.png)\) next to any model for more information.
 
-    ![Entity suggestions with separate highlighted list of installed models.](../../now-assist-zero-copy-connector/images/erp-entity-ask-ai2.png)
+    ![Entity suggestions with separate highlighted list of installed models.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../now-assist-zero-copy-connector/images/erp-entity-ask-ai2.png)
 
     If there are any relevant data products, they are listed with a link to the ServiceNow Store page for more information about purchasing and installing.
 
@@ -54,8 +54,8 @@ When adding an entity to a model operation in Zero Copy Connector for ERP \(Ente
 
     At any time, select a **Previous AI response** to see the suggestions again.
 
-    ![Entity suggestions with previous AI responses list highlighted.](../../now-assist-zero-copy-connector/images/erp-entity-ask-ai3.png)
+    ![Entity suggestions with previous AI responses list highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../../now-assist-zero-copy-connector/images/erp-entity-ask-ai3.png)
 
 
-**Parent Topic:**[Add an entity to a model](../concept/add-an-entity-to-model.md)
+**Parent Topic:**[Add an entity to a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/add-an-entity-to-model.md)
 

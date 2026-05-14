@@ -36,7 +36,7 @@ Role required: sn\_walkup.walkup\_admin or admin
 
 4.  In the Service Portals list, select **Walk-up**.
 
-5.  Click the form menu icon ![form menu icon](../../../common/image/Form_MenuIcon.png) and select **Configure** &gt; **Form Design**.
+5.  Click the form menu icon ![form menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../common/image/Form_MenuIcon.png) and select **Configure** &gt; **Form Design**.
 
 6.  In the form designer header drop-down list, select or search for any of the configurable walk-up forms to customize your portal appearance.
 
@@ -76,5 +76,5 @@ Order in which reasons for a visit should be prioritized at a walk-up location.
 </table>    You can modify the form content to meet your portal requirements. For more details, refer to [Form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/basic-form-administration.md) .
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-experience-configuration.md)
 

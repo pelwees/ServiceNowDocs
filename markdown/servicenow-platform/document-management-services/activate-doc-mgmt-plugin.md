@@ -26,7 +26,7 @@ The following items are installed with Document Management:
 -   Roles
 -   Tables
 
-For more information, see[Components installed with Document Management](../reference/installed-with-doc-mgmt.md).
+For more information, see[Components installed with Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/installed-with-doc-mgmt.md).
 
 ## Procedure
 

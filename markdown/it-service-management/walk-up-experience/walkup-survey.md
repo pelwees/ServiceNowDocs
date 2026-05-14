@@ -19,7 +19,7 @@ Two base-system predefined Walk-up Experience surveys are provided:
 
 -   **Walk-up CSAT survey**: On-site one-click sentiment-analysis survey where the requester can quickly rate the service based on a 1 to 3 scale, where 1 is a negative experience and 3 is a positive experience. The survey uses an image scale of three faces with different sentiments \(sad, neutral, and smiling\).
 
-    ![walk-up sentiment survey with faces](../image/WalkupSentimentSurveyFaces.png "Walk-up survey")
+    ![walk-up sentiment survey with faces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../image/WalkupSentimentSurveyFaces.png "Walk-up survey")
 
 -   **Walk-up Experience Satisfaction Survey**: A survey link is sent via email when walk-up interactions are closed. It uses sentiment analysis for the overall experience, wait-time experience, agent experience, agent professionalism, and additional comments. This survey is based on a 1 to 5 numeric rating scale, where 1 is very unsatisfied and 5 is very satisfied.
 
@@ -27,8 +27,8 @@ Walk-up administrators and managers can modify these surveys and the associated 
 
 For more information about working with surveys, sentiment analysis, trigger conditions, and survey questions, see [Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md).
 
--   **[Create or modify a Walk-up Experience customer satisfaction survey](../task/configure-walkup-csat-survey.md)**  
+-   **[Create or modify a Walk-up Experience customer satisfaction survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../task/configure-walkup-csat-survey.md)**  
 Improve your **Walk-up Experience** operations and customer service by using surveys and monitoring survey results. Walk-up surveys capture important information from users about the interaction experience provided to them at the venue.
 
-**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 

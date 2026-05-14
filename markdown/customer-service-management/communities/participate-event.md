@@ -120,5 +120,5 @@ Click **Report content** to report inappropriate content in the event.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Community events](community-events.md)
+**Parent Topic:**[Community events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-events.md)
 

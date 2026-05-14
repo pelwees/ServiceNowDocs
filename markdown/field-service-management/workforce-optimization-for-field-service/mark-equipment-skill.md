@@ -29,7 +29,7 @@ Role required: wm\_admin
 
 4.  Under **Collection**, search for and select Equipment Skills.
 
-5.  Select the Add \(![add](../image/add-greater.png)\) icon.
+5.  Select the Add \(![add](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../image/add-greater.png)\) icon.
 
 6.  Select **Save**.
 

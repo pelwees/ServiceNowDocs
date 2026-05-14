@@ -114,5 +114,5 @@ Name of the legal request field to include in the semantic index.Select the **sh
 
 The description, short description, and legal category fields are indexed for the semantic search.
 
-![Add the description, short description, and legal category field for the semantic search.](../image/adding-fields-semantic-index-record.png "Add fields to the semantic index")
+![Add the description, short description, and legal category field for the semantic search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/adding-fields-semantic-index-record.png "Add fields to the semantic index")
 

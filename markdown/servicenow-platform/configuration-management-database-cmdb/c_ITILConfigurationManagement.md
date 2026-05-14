@@ -23,55 +23,55 @@ Use core features such as CMDB Health, CMDB Identification and Reconciliation, a
 
 <table id="table_msx_fnh_j1c" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Overview of CMDB and its predefined tables and key classes.](cnfig-mgmt-and-cmdb.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-explore.svg)Overview of CMDB and its predefined tables and key classes.](cnfig-mgmt-and-cmdb.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Populate the CMDB.](c_OptionsToPopulateCMDB.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-sdlc.svg)Populate the CMDB.](c_OptionsToPopulateCMDB.md)
 
 </td><td>
 
-[CMDB Workspace![](../../../reuse/icons/brand-icons/bus-peer-benchmarks.svg)Manage CMDB health through dashboards.](cmdb-workspace.md)
+[CMDB Workspace![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-peer-benchmarks.svg)Manage CMDB health through dashboards.](cmdb-workspace.md)
 
 </td></tr><tr><td>
 
-[CI Class Manager![](../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg)View, create, or edit basic class definitions and class settings for identification and Reconciliation, and CMDB Health.](../reference/ci-class-manager-landing-page.md)
+[CI Class Manager![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-automated-testing-framework.svg)View, create, or edit basic class definitions and class settings for identification and Reconciliation, and CMDB Health.](../reference/ci-class-manager-landing-page.md)
 
 </td><td>
 
-[CMDB 360![](../../../reuse/icons/brand-icons/bus-project.svg)Track and manage how multiple sources populate the same CI attributes.](multisource-cmdb.md)
+[CMDB 360![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-project.svg)Track and manage how multiple sources populate the same CI attributes.](multisource-cmdb.md)
 
 </td><td>
 
-[CMDB Data Manager![](../../../reuse/icons/brand-icons/bus-workflow.svg)Perform bulk management of CI life cycle operations such as deletion, archival, and attestation.](cmdb-data-management.md)
+[CMDB Data Manager![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-workflow.svg)Perform bulk management of CI life cycle operations such as deletion, archival, and attestation.](cmdb-data-management.md)
 
 </td></tr><tr><td>
 
-[Duplicate CIs![](../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Remediate single or bulk de-duplication tasks.](de-duplication-tasks.md)
+[Duplicate CIs![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Remediate single or bulk de-duplication tasks.](de-duplication-tasks.md)
 
 </td><td>
 
-[CIs attestation![](../../../reuse/icons/brand-icons/bus-manage.svg)](attesting-cis.md)Verify the existence of actual IT infrastructure and applications, systematically and in bulk.
+[CIs attestation![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-manage.svg)](attesting-cis.md)Verify the existence of actual IT infrastructure and applications, systematically and in bulk.
 
 </td><td>
 
-[Data Certification![](../../../reuse/icons/brand-icons/bus-get-certified.svg)Validate all your data in the CMDB on a regular schedule or on-demand, in CMDB and non-CMDB tables.](../../data-certification/concept/c_DataCertification.md)
+[Data Certification![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-get-certified.svg)Validate all your data in the CMDB on a regular schedule or on-demand, in CMDB and non-CMDB tables.](../../data-certification/concept/c_DataCertification.md)
 
 </td></tr><tr><td>
 
-[CMDB Query Builder![](../../../reuse/icons/brand-icons/bus-find-an-app.svg)](querying-cmdb.md)Build complex infrastructure and service queries.
+[CMDB Query Builder![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-find-an-app.svg)](querying-cmdb.md)Build complex infrastructure and service queries.
 
 </td><td>
 
-[Unified Map![](../../../reuse/icons/brand-icons/bus-service-map.svg)View a hierarchical map of CIs and the relationships between them.](cmdb-workspace-unified-map.md)
+[Unified Map![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-service-map.svg)View a hierarchical map of CIs and the relationships between them.](cmdb-workspace-unified-map.md)
 
 </td><td>
 
-[CMDB Health![](../../../reuse/icons/brand-icons/bus-management-console.svg)Monitor and maintain CMDB health: duplicate CIs, required CI fields, and audits.](c_CMDBHealth.md)
+[CMDB Health![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-management-console.svg)Monitor and maintain CMDB health: duplicate CIs, required CI fields, and audits.](c_CMDBHealth.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/cmdb-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-learn.svg)](../reference/cmdb-reference.md)Reference topics provide detailed descriptions of tables, properties, forms, and roles.
 
 </td><td>
 

@@ -36,5 +36,5 @@ You can do the following on the history tab:
 
 -   Click a data point \(represents specific date or time\) on the scatter plot to display the data of all the CI metrics on the Metrics snapshot section along with the date and time.
 
-**Parent Topic:**[Features of the Investigation tab](features-of-investigation-tab.md)
+**Parent Topic:**[Features of the Investigation tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/features-of-investigation-tab.md)
 

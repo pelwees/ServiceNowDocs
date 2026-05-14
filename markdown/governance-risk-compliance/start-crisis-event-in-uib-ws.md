@@ -29,11 +29,11 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
     **Note:** For a crisis event, the event type is **Actual**.
 
-    For more information on the fields, see [Create Crisis Event form](../reference/create-crisis-event-ref-form.md).
+    For more information on the fields, see [Create Crisis Event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-crisis-event-ref-form.md).
 
     A crisis event is created in the **Pending** state as shown in the example.
 
-    ![Details of the crisis event.](../image/crisis-event-pending-state.png)
+    ![Details of the crisis event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/crisis-event-pending-state.png)
 
     The state and details of the crisis event are displayed in the tabs:
 
@@ -58,8 +58,8 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
     The crisis event is saved in the **Pending** state and it is displayed in the Crisis events list view of the record.
 
 
--   **[Create Crisis Event form](../reference/create-crisis-event-ref-form.md)**  
+-   **[Create Crisis Event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-crisis-event-ref-form.md)**  
 Use the Create Crisis Event form in BCM UIB Workspace to add details about a crisis event.
 
-**Parent Topic:**[Structured workflows for crisis events](../concept/perform-tasks-to-manage-crisis-events.md)
+**Parent Topic:**[Structured workflows for crisis events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/perform-tasks-to-manage-crisis-events.md)
 

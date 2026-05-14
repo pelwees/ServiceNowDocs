@@ -26,7 +26,7 @@ The following two plugins enable you to use the full functionality of Service Po
 
 The Service Portfolio Management Foundation plugin automatically activates the Service Portfolio Management Core plugin. Each plugin independently installs a set of roles and tables.
 
-If you install Service Builder from the ServiceNow Store, its plugin \[com.snc.service\_builder\] automatically installs. Service Builder uses the same role set as Service Portfolio Management. See [Service Builder](../../service-builder/concept/service-builder.md) for more information.
+If you install Service Builder from the ServiceNow Store, its plugin \[com.snc.service\_builder\] automatically installs. Service Builder uses the same role set as Service Portfolio Management. See [Service Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../../service-builder/concept/service-builder.md) for more information.
 
 ## Service Portfolio Management Core roles and tables
 
@@ -190,7 +190,7 @@ Used to create or modify a service portfolio.
 
 Used to define the order of a taxonomy layer associated with a service portfolio.
 
-**Note:** Use this table with the legacy portfolio structure. The standard portfolio structure doesn’t have taxonomy layers. For more information, see [Service Portfolio Management portfolios](../concept/SPM2-service-portfolios.md).
+**Note:** Use this table with the legacy portfolio structure. The standard portfolio structure doesn’t have taxonomy layers. For more information, see [Service Portfolio Management portfolios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-service-portfolios.md).
 
 </td></tr><tr><td>
 
@@ -313,5 +313,5 @@ service\_out\_scope
 Used to create and define services Out of Scope and specify the scope parameters.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Portfolio Management reference](SPM2-reference.md)
+</table>**Parent Topic:**[Service Portfolio Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-reference.md)
 

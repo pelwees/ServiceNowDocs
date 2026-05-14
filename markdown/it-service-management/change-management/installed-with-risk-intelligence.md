@@ -52,5 +52,5 @@ Risk Intelligence Properties\[chg\_ml\_prop\_risk\]
 Properties used to configure the Risk Intelligence feature.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request Change Management - Risk Assessment](../task/request-cm-risk-assessment.md)
+</table>**Parent Topic:**[Request Change Management - Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/request-cm-risk-assessment.md)
 

@@ -42,5 +42,5 @@ The following table lists the metrics that are gathered as output from RabbitMQ 
 |rabbitmq.queue.\{\{QueueName\}\}.messages|Queue Name|count|Provides queue specific metrics on the total messages in the given queue.|
 |rabbitmq.queue.\{\{QueueName\}\}.drain\_time|Queue Name|count|Provides queue specific metrics on the message drain time for the given queue.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

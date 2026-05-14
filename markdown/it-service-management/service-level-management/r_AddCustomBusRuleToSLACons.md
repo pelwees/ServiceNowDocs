@@ -25,7 +25,7 @@ You can add custom fields to the task SLA table and write business rules to popu
 
     Avoid writing a business rule on the task SLA table that updates the parent task directly. Doing so causes recursive processing of the business rules. This is represented in the diagram.
 
-    ![Diagram of a recursive business rule](../image/SLARecursive.png "Recursive business rule")
+    ![Diagram of a recursive business rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLARecursive.png "Recursive business rule")
 
 -   Business rule that updates the default fields on a task SLA.
 
@@ -34,5 +34,5 @@ You can add custom fields to the task SLA table and write business rules to popu
     -   Fields being ignored, overwritten, or both the next time the SLA is calculated.
     -   Incorrect calculations of other values on the task SLA.
 
-**Parent Topic:**[Using Service Level Management](../concept/using-service-level-management.md)
+**Parent Topic:**[Using Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/using-service-level-management.md)
 

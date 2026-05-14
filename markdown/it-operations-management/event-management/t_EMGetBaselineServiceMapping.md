@@ -30,12 +30,12 @@ In Event Management, Service Mapping relationships appear on alerts. You can vie
     Service Mapping, which is closely related to Event Management, provides tools to discover the relationships between network, hardware, software, storage, and other devices.
 
 
-**Parent Topic:**[Application services in Event Management](../concept/application-service-event-management.md)
+**Parent Topic:**[Application services in Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/application-service-event-management.md)
 
 **Related topics**  
 
 
-[Service Mapping](../../service-mapping/reference/c_ServiceMappingOverview.md)
+[Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-mapping/reference/c_ServiceMappingOverview.md)
 
-[Request Service Mapping](../../service-mapping/task/t_ActivateServiceMappingPlugin.md)
+[Request Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-mapping/task/t_ActivateServiceMappingPlugin.md)
 

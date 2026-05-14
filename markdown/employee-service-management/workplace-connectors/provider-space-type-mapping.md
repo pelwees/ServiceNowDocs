@@ -34,9 +34,9 @@ Role required: admin
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-occupancy-connectors.md)
 
-**Previous topic:**[Provider Connector Configuration](provider-connector-config-occupancy.md)
+**Previous topic:**[Provider Connector Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-connector-config-occupancy.md)
 
-**Next topic:**[Configure Provider Space Mapping for occupancy data](provider-space-mappings-occupancy.md)
+**Next topic:**[Configure Provider Space Mapping for occupancy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-space-mappings-occupancy.md)
 

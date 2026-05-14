@@ -25,13 +25,13 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 2.  Select a purchase requisition or order and select **Edit** from the **More options** icon.
 
-    ![Editing a purchase order](../image/spo-edit-purchase-order.png)
+    ![Editing a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-edit-purchase-order.png)
 
     The Edit a purchase page is displayed with the available purchase lines.
 
 3.  Select **Add** to add a new line.
 
-    ![Adding a new line in a purchase order](../image/spo-edit-a-purchase-from-my-purchases.png)
+    ![Adding a new line in a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-edit-a-purchase-from-my-purchases.png)
 
 4.  On the form, fill in the fields.
 
@@ -39,7 +39,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
     -   **Browse catalog**
 
-        ![Selecting a supplier product from an existing system catalog when adding a new purchase line.](../image/spo-add-purchase-browse-catalog.png)
+        ![Selecting a supplier product from an existing system catalog when adding a new purchase line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-add-purchase-browse-catalog.png)
 
 <table id="table_dlt_c4s_hsb"><thead><tr><th>
 
@@ -149,7 +149,7 @@ Enter your comments on the purchase.
 </td></tr></tbody>
 </table>    -   **Submit a quote**
 
-        ![Requesting for a new supplier product when adding a new purchase line.](../image/spo-add-purchase-submit-quote.png)
+        ![Requesting for a new supplier product when adding a new purchase line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-add-purchase-submit-quote.png)
 
 <table id="table_gs5_ksy_msb"><thead><tr><th>
 
@@ -338,5 +338,5 @@ Enter additional comments if any.
     A confirmation message screen appears.
 
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 

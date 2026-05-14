@@ -27,7 +27,7 @@ Role required: admin
 
 2.  In the applet launchers \[sys\_sg\_applet\_launcher\] table, open the applet launcher record that you would like to add the catalog item to.
 
-    For example, open the Homepage record to add the catalog item under the ![Plus icon](../image/more-items.png) icon on the home page.
+    For example, open the Homepage record to add the catalog item under the ![Plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/more-items.png) icon on the home page.
 
 3.  Select the **Body** tab.
 
@@ -45,9 +45,9 @@ Role required: admin
 
 ## Result
 
-Your users can open the quick action by selecting the ![Plus icon](../image/more-items.png) icon on the applet launcher page.
+Your users can open the quick action by selecting the ![Plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/more-items.png) icon on the applet launcher page.
 
-**Parent Topic:**[Configuring Now Mobile](../concept/setup-mobile-employee.md)
+**Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../concept/setup-mobile-employee.md)
 
 ## Create a quick action in your mobile applications
 
@@ -290,5 +290,5 @@ Number that indicates the order that the functions are listed. If there are mult
 
 ### Result
 
-Your users can open the quick action by selecting the ![Plus icon](../image/more-items.png) icon on the applet launcher page.
+Your users can open the quick action by selecting the ![Plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/../image/more-items.png) icon on the applet launcher page.
 

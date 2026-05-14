@@ -25,11 +25,11 @@ Role required: email\_composer
 
 3.  Add recipients to the desired email fields by copying and pasting email addresses or entering recipients' email addresses manually.
 
-    Email recipients consist of individual pill icons \(![Pill icon](../image/pill-icon.png)\).
+    Email recipients consist of individual pill icons \(![Pill icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pill-icon.png)\).
 
-    When you enter an invalid email address, an exclamation icon \(![Invalid email icon](../../../release-notes/image/icon-invalid-email.png)\) appears within the email address' pill and the **Send email** button is inactive.
+    When you enter an invalid email address, an exclamation icon \(![Invalid email icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../release-notes/image/icon-invalid-email.png)\) appears within the email address' pill and the **Send email** button is inactive.
 
-    When you enter a blocked email address, a blocked icon \(![Blocked email icon](../../../release-notes/image/icon-blocked-email.png)\) appears within the email address' pill and the **Send email** button is inactive.
+    When you enter a blocked email address, a blocked icon \(![Blocked email icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../release-notes/image/icon-blocked-email.png)\) appears within the email address' pill and the **Send email** button is inactive.
 
 4.  Move a recipient to a different field by dragging the pill icon.
 
@@ -37,10 +37,10 @@ Role required: email\_composer
 
     You can edit a recipient's email address by selecting **Edit**, copy and paste recipients with **Copy** and **Cut**, and remove recipients with **Remove**.
 
-    ![Options for editing recipients](../image/x-move-recipients.png)
+    ![Options for editing recipients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-move-recipients.png)
 
 6.  To select multiple recipients, use keyboard and mouse device shortcuts.
 
-    For reference, see [Keyboard and mouse device shortcuts for adding recipients to email fields](../reference/keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md).
+    For reference, see [Keyboard and mouse device shortcuts for adding recipients to email fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md).
 
 

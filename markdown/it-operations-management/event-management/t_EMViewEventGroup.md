@@ -35,8 +35,8 @@ Events are grouped according to their source and description.
 
 4.  To change the pattern of an event, double-click the pattern, make your changes, and then click **Update**.
 
-    ![Event Groups](../image/EventManagementGroups.png)
+    ![Event Groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementGroups.png)
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md)
 

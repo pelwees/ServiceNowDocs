@@ -21,7 +21,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation is complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configuration**.
 
@@ -29,7 +29,7 @@ Role required: sn\_si\_admin
 
 3.  In the McAfee ESM - Incident Enrichment card, click **New**.
 
-    ![McAfee ESM configuration](../image/intel-config.png)
+    ![McAfee ESM configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/intel-config.png)
 
 4.  Fill in the fields, as needed.
 
@@ -103,7 +103,7 @@ Include raw data samples in search results
 
 </td><td>
 
-Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](../../../security-incident-response/reference/installed-with-sir.md).
+Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the **number of rows of raw data** property in [Security Incident Response properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/reference/installed-with-sir.md).
 
 </td></tr><tr><td>
 

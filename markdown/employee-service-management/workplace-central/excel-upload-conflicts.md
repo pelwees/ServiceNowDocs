@@ -111,7 +111,7 @@ Allocation Mismatch
 
 </td><td>
 
-The user's allocation doesn't match the allocation of the selected destination.For more information about allocations, see [Allocate a cost center, department, or workplace entity](../../workplace-space-management/task/add-cost-center-department-floor.md).
+The user's allocation doesn't match the allocation of the selected destination.For more information about allocations, see [Allocate a cost center, department, or workplace entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/add-cost-center-department-floor.md).
 
 </td></tr><tr><td>
 
@@ -119,7 +119,7 @@ Flexible Destination
 
 </td><td>
 
-The selected destination is a flexible or shared location, not a fixed assignment.For more information about flexible and permanent spaces, see [Configure a workspace or desk as flexible or permanent](../../workplace-space-management/task/assign-a-flex-perm-space.md).
+The selected destination is a flexible or shared location, not a fixed assignment.For more information about flexible and permanent spaces, see [Configure a workspace or desk as flexible or permanent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/assign-a-flex-perm-space.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Capacity Exceeded
 
 </td><td>
 
-The selected destination exceeds its capacity when the move is completed.For more information about defining the capacity of a location, see [Define the capacity of workplace areas](../../workplace-service-delivery/task/define-capacity-of-workplace-areas-wsd.md).
+The selected destination exceeds its capacity when the move is completed.For more information about defining the capacity of a location, see [Define the capacity of workplace areas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/task/define-capacity-of-workplace-areas-wsd.md).
 
 </td></tr><tr><td>
 
@@ -138,40 +138,40 @@ Duplicate destination location
 If the uploaded Excel sheet has the same location listed in two different rows, this conflict will occur.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workplace Central reference](../concept/workplace-central-references.md)
+</table>**Parent Topic:**[Workplace Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/workplace-central-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Central](components-installed-with-workplace-central.md)
+[Components installed with Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/components-installed-with-workplace-central.md)
 
-[Space Optimization - Key features and actions](space-optmization-features-and-actions-.md)
+[Space Optimization - Key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md)
 
-[Workplace Central Event planner](event-planner-key-features-actions-views.md)
+[Workplace Central Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner-key-features-actions-views.md)
 
-[Scenario and Building - Views, states, settings, and key features](scenario-planning-views-actions-keyfeatures-.md)
+[Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md)
 
-[Space request approvals, states, actions, and key features](space-request-states-and-view.md)
+[Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-request-states-and-view.md)
 
-[Move management key features and actions](move-mgmt-views-states-actions.md)
+[Move management key features and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)
 
-[Case Management - Key features, Actions &amp; Case details](case-management-key-features-actions-case-details.md)
+[Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md)
 
-[Schedule Plan details form](schedule-plan-details-form.md)
+[Schedule Plan details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-plan-details-form.md)
 
-[Scenario details form](scenario-details-form.md)
+[Scenario details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-details-form.md)
 
-[Space Deployment Plan](space-deployment-plan.md)
+[Space Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)
 
-[User Deployment Plan](user-deployment-plan.md)
+[User Deployment Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)
 
-[Excel column lengths for move projects](move-excel-char-limit.md)
+[Excel column lengths for move projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-excel-char-limit.md)
 
-[Workplace Central troubleshooting](workplace-central-troubleshooting.md)
+[Workplace Central troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-troubleshooting.md)
 
-[Workplace Task form - Space Assignment task](workplace-task-space-assignment.md)
+[Workplace Task form - Space Assignment task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-task-space-assignment.md)
 
-[Neighborhood User Assignment Rule form](user-assignment-rule-form.md)
+[Neighborhood User Assignment Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-assignment-rule-form.md)
 
-[User Workplace Profile form](user-workplace-profile-form.md)
+[User Workplace Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md)
 

@@ -472,5 +472,5 @@ Registration Request\[sn\_customerservice\_registration\]
 Checks if the registration is valid based on the user’s email address. If the user exists in the system or a request has already been submitted and is in the pending state, the registration request is not allowed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Customer Service Management](r_InstalledWithCustomerService.md)
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 

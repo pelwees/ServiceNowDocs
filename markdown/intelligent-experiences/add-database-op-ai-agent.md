@@ -69,7 +69,7 @@ Inputs
 -   **Description**: Description of the input to give the LLM context.
 -   **Value override**: Value for the input. If you leave it blank, generative AI fills in the value for you.
 
-**Note:** If the agent uses multiple tools, you can choose to use another tool's output as an input value override. Select the data picker icon \(![Data picker icon.](../image/data-picker-icon.png)\) to review the available options.
+**Note:** If the agent uses multiple tools, you can choose to use another tool's output as an input value override. Select the data picker icon \(![Data picker icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/data-picker-icon.png)\) to review the available options.
 
 </td></tr><tr><td>
 

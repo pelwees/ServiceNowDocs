@@ -40,7 +40,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
         You can choose to make a copy of the skill before activating it.
 
-    3.  Select the more actions icon ![More actions icon.](../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
+    3.  Select the more actions icon ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
 
         The copy that you make is listed in the Active skills section.
 
@@ -52,7 +52,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
 5.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
     1.  Enter a name and description for the skill.
 
@@ -70,7 +70,7 @@ From the Now Assist Admin console, you can select the input tables, related list
 
         Add multiple base input fields if more inputs are needed.
 
-        ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-itsm-input1.png)
+        ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-input1.png)
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -122,7 +122,7 @@ Description of the base input field value.
 
         You can also add the rule conditions to these additional related table and activity stream data sources.
 
-        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-itsm-input2.png)
+        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-input2.png)
 
         The following table lists the data sources you can add to the input data.
 
@@ -161,7 +161,7 @@ Activity: Attachment
 
 </td><td>
 
-Summarizes attachments in the Incident summarization skill record using Document Intelligence. For supported types, see [Customize a Now Assist for IT Service Management \(ITSM\) Incident Summarization skill](cust-now-assist-itsm-record-summ-skill.md).
+Summarizes attachments in the Incident summarization skill record using Document Intelligence. For supported types, see [Customize a Now Assist for IT Service Management \(ITSM\) Incident Summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/cust-now-assist-itsm-record-summ-skill.md).
 
 </td></tr></tbody>
 </table>    4.  Select **Save and continue** to go to the next step.
@@ -178,7 +178,7 @@ Summarizes attachments in the Incident summarization skill record using Document
 
         2.  In the Change Overview Containers list, select the state that you've added or modified.
         3.  Add the GenAI Summary Card to the Change Overview Cards related list.
-        ![GenAI Summary Card in the Change Overview Cards related list](../image/now-assist-itsm-change-overview-container.png)
+        ![GenAI Summary Card in the Change Overview Cards related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-change-overview-container.png)
 
         For more information, see the KB article on [Handling custom state choices for the Change request summarization skill](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2027162).
 
@@ -197,7 +197,7 @@ Summarizes attachments in the Incident summarization skill record using Document
     -   Domain separation is not supported for the Suggested steps generation skill.
     To broaden the criteria:
 
-    1.  In the **Choose input** screen, select **Edit conditions**.![Suggested steps edit conditions screen](../image/now-assist-itsm-suggested-steps-edit-conditions.png)
+    1.  In the **Choose input** screen, select **Edit conditions**.![Suggested steps edit conditions screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-suggested-steps-edit-conditions.png)
 
         Select **Switch scope** if you’re unable to edit the conditions.
 
@@ -279,13 +279,13 @@ Closed
 
     3.  Select the incident record in the Test response section, and test the prompt response output format by selecting **Run Test**.
 
-        ![Customize prompt screen that shows the input template states and the Edit prompt button to modify prompts in the Now Assist skill kit.](../image/now-assist-itsm-cust-prompt.png)
+        ![Customize prompt screen that shows the input template states and the Edit prompt button to modify prompts in the Now Assist skill kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-cust-prompt.png)
 
         The prompt response is shown. You can make changes to the incident state selections and retest as needed.
 
     4.  Select **Edit prompt in Now Assist Skill Kit** to make necessary changes to the prompt in the Now Assist Skill Kit.
 
-        ![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](../image/now-assist-itsm-edit-prompt.png)
+        ![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-edit-prompt.png)
 
     5.  Select **Save and continue** to go to the next step.
 
@@ -335,7 +335,7 @@ Closed
 
     The **Define access** screen defines the roles required to execute a skill. The script include, **NowAssistitsmGenAIUtilsSNC,** contains functions related to multiple skills. The itil or sn\_incident\_read roles that are set in the Access Control List \(ACL\) for this client-callable script include and are necessary to call any function in it.
 
-    ![Roles required for skills](../image/now-assist-itsm-skill-required-role.png)
+    ![Roles required for skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-skill-required-role.png)
 
 13. Review and activate.
 

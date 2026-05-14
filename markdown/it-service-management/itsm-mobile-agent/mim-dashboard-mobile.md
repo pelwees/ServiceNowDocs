@@ -17,7 +17,7 @@ Review major incident information at a glance on your mobile.
 
 The dashboard in the Major incidents application provides the information about the count of major incidents, mean time to identify an incident as a major incident and mean time to resolve.
 
-![MIM dashboard](../image/itsm-ma-major-incident.png)
+![MIM dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/itsm-ma-major-incident.png)
 
 Tap on any of the areas to open a detailed graphical representation of the associated information. You can also scroll left or right on the screen to view information pertaining to a different day or a week.
 

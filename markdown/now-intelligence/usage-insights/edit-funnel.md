@@ -27,14 +27,14 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 3.  Select **Analysis** &gt; **Conversion funnel**.
 
-4.  Select the Actions menu ![Actions menu icon](../../integrationhub/images/more-actions-menu-icon.png) of the funnel you want to edit and choose **Edit**.
+4.  Select the Actions menu ![Actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../integrationhub/images/more-actions-menu-icon.png) of the funnel you want to edit and choose **Edit**.
 
-    ![Conversion funnel module with Actions menu and Edit option highlighted](../../../use/par-for-workspace/image/uxa-funnel-edit.png)
+    ![Conversion funnel module with Actions menu and Edit option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-funnel-edit.png)
 
 5.  Change the funnel name or description, and edit or add steps as applicable.
 
 6.  Select **Save** to update the funnel configuration.
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/funnel-reports-uxa.md)
 

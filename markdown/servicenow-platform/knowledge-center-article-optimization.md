@@ -15,7 +15,7 @@ Article Optimization is an automated system designed to improve the quality and 
 
 The Article Optimization tool scans your knowledge articles and provides instant, actionable feedback. This feature enables you to quickly address issues, resulting in high-quality content that is more accessible and easily discoverable. By streamlining improvements, the tool helps verify that your articles meet accessibility and searchability standards, saving time and enhancing the user experience.
 
-**Note:** Your administrator or manager can configure the Article Optimization features to enable and customize a range of operations. For more information, see [Configuring custom script based Article Optimization scans](../task/configure-custom-script-based-AO-scan.md).
+**Note:** Your administrator or manager can configure the Article Optimization features to enable and customize a range of operations. For more information, see [Configuring custom script based Article Optimization scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/configure-custom-script-based-AO-scan.md).
 
 The Article Optimization tool performs the following operations:
 

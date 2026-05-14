@@ -25,14 +25,14 @@ Useful for browsing shape libraries or searching for specific elements. When you
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Create a diagram or open an existing diagram.
 
 4.  Select the **Toggle shape library** icon on the diagram page to show or hide the panel.
 
-    ![Show or hide the shapes panel](../../image/eaw-image/modeling/modeling-show-hide-shapes-panel.gif)
+    ![Show or hide the shapes panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/modeling-show-hide-shapes-panel.gif)
 
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 

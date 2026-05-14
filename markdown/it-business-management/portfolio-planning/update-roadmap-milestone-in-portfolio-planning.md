@@ -18,7 +18,7 @@ Update or delete the milestones that you added to your portfolio plan or free-fo
 
 ## Before you begin
 
-[Add milestones for roadmap](add-milestones-for-roadmap-portfolio-planning.md).
+[Add milestones for roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-milestones-for-roadmap-portfolio-planning.md).
 
 Role required: sn\_align\_core.apw\_user
 
@@ -55,7 +55,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 </td></tr></tbody>
 </table>2.  To reschedule a milestone, you can drag and drop it at a timeline area of your choice.
 
-    ![GIF showing the drag and drop of a milestone in the milestone bar.](../../spw-roadmap/images/reschedule-milestone.gif)
+    ![GIF showing the drag and drop of a milestone in the milestone bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/reschedule-milestone.gif)
 
     If you want to update other details or delete the milestone, proceed with the following steps.
 
@@ -67,12 +67,12 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     -   To update, edit the field details and click **Save**.
 
-        For information on the form fields, see [Roadmap configuration form](../reference/roadmap-configuration-form.md).
+        For information on the form fields, see [Roadmap configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/roadmap-configuration-form.md).
 
     -   To delete the milestone, click **Delete.**
 
         Select **OK** to confirm.
 
 
-**Parent Topic:**[Add milestones for roadmap](add-milestones-for-roadmap-portfolio-planning.md)
+**Parent Topic:**[Add milestones for roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-milestones-for-roadmap-portfolio-planning.md)
 

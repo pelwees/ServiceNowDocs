@@ -21,7 +21,7 @@ Role required: sn\_lg\_stock\_cp.stock\_config
 
 ## About this task
 
-A trading holiday might impact the stock preclearance approval validity period based on the **Exclude trading holidays** field's setting in the trading window. For more information, see [Set up a trading window](set-up-trading-window.md).
+A trading holiday might impact the stock preclearance approval validity period based on the **Exclude trading holidays** field's setting in the trading window. For more information, see [Set up a trading window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/set-up-trading-window.md).
 
 ## Procedure
 
@@ -45,5 +45,5 @@ A trading holiday might impact the stock preclearance approval validity period b
 7.  Click **Submit**.
 
 
-**Parent Topic:**[Configure Legal Stock Preclearance](../concept/legal-stock-pre-administration.md)
+**Parent Topic:**[Configure Legal Stock Preclearance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/../concept/legal-stock-pre-administration.md)
 

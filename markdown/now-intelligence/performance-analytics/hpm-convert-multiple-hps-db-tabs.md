@@ -31,7 +31,7 @@ Role required: admin or dashboard\_admin.
 
 3.  From the **Actions on selected rows** menu, select `Convert to tabs`.
 
-    ![Homepage migration status table with two homepages selected and the Actions on selected rows menu open with Convert to tabs option highlighted](../image/hp-migration-status-convert-2.png)
+    ![Homepage migration status table with two homepages selected and the Actions on selected rows menu open with Convert to tabs option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hp-migration-status-convert-2.png)
 
 4.  Select an existing dashboard or set the title for a new dashboard.
 
@@ -49,7 +49,7 @@ Users no longer have access to converted homepages. They can find the dashboard 
 -   Entries in the State column for the converted dashboards are changed to Closed complete.
 -   Entries in the Decision column are changed to Converted.
 
-![Results of the conversion of two homepages to dashboards in the Homepage migration status table](../image/hp-migration-status-converted.png)
+![Results of the conversion of two homepages to dashboards in the Homepage migration status table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/hp-migration-status-converted.png)
 
 ## What to do next
 
@@ -57,5 +57,5 @@ Update menus that point to the converted homepages to point to the new dashboard
 
 Navigate to **All** &gt; **Self Service** &gt; **Dashboards**. Open the **All** tab to see the tiles for the converted dashboards.
 
-[Retire a homepage](hpm-retire-homepages.md).
+[Retire a homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/hpm-retire-homepages.md).
 

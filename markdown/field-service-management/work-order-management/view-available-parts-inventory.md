@@ -99,7 +99,7 @@ Do this
 
 </td><td>
 
-For more information, see [Perform asset audit for personal stockrooms](perform-asset-audit.md).
+For more information, see [Perform asset audit for personal stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/perform-asset-audit.md).
 
 </td></tr></tbody>
 </table>
@@ -109,5 +109,5 @@ The stockroom locations' information appear in the form of interactive map and c
 
 ## What to do next
 
-[Request inventory](../concept/request-inventory.md#)
+[Request inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/request-inventory.md#)
 

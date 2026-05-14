@@ -29,9 +29,9 @@ QA verification
 
 Implements a self-service Password Reset model with questions that are included with the base system or custom questions that the admin defines. While enrolling for the process, the user decides which questions to provide answers for. Questions are presented in the language that the user requested during login.When a user requests a password reset, the system poses a specified number of the questions that the user selected during enrollment. The user must answer all questions correctly to verify their identity.
 
-![QA verification on the Verify page.](../image/verify-enduser-page.png "QA verification on the Verify page")
+![QA verification on the Verify page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/verify-enduser-page.png "QA verification on the Verify page")
 
- For information on the user enrollment experience, see [Enroll for the Password Reset program using questions and answers](../task/t_EnrollUsingASecurityQuestion.md).
+ For information on the user enrollment experience, see [Enroll for the Password Reset program using questions and answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_EnrollUsingASecurityQuestion.md).
 
  This verification is based on the **Security Questions** verification type.
 
@@ -43,7 +43,7 @@ Email verification
 
 This verification relies on auto-generated code numbers. You typically implement email verification as a self-service Password Reset model.When a user requests a password reset, the system sends a verification code to an email address that the user authorized during enrollment. To verify identity, the user then submits the code on the Password Reset Verify page.
 
-For information on the user enrollment experience, see [Enroll for the Password Reset program using emailed codes](../task/enroll-email-verification.md).
+For information on the user enrollment experience, see [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/enroll-email-verification.md).
 
 The Password Reset Windows Application supports email verification.
 
@@ -61,7 +61,7 @@ Implements a self-service or service desk-assisted Password Reset model that rel
 
 You can use the ServiceNow Notify feature to send the codes.
 
-For information on the user enrollment experience, see [Enroll for the Password Reset program using SMS codes](../task/t_EnrollUsingSMS.md).
+For information on the user enrollment experience, see [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_EnrollUsingSMS.md).
 
 This verification is based on the **SMS Code** verification type.
 
@@ -79,7 +79,7 @@ Authenticator verification
 
 Password Reset model that relies on auto-generated code numbers. Users typically implement authenticator verification as a self-service Password Reset model.When a user requests a password reset, the user reads a code from the authenticator app on a device that the user has paired. To verify identity, the user then submits the code on the Password Reset Verify page.
 
- For information on the user enrollment experience, see [Enroll for the Password Reset program using an authenticator](../task/authenticator-app-verification.md).
+ For information on the user enrollment experience, see [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/authenticator-app-verification.md).
 
  The Password Reset Windows Application supports Google Authenticator verification.
 
@@ -112,39 +112,39 @@ Soft PIN Verification
 Implements a self-service Password Reset model that relies on a Soft PIN that's a six-digit number. Users can enroll for the Soft PIN verification for a process and reset the Soft PIN. ServiceNow® Virtual Agent supports the Soft PIN verification method.
 
 </td></tr></tbody>
-</table>-   **[Personal data identification types and confirmation type verifications](c_PersonalDataAndPDConfirmVerifs.md)**  
+</table>-   **[Personal data identification types and confirmation type verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PersonalDataAndPDConfirmVerifs.md)**  
 Personal data verifications allow users to verify their identity by providing answers to questions that are generated from personal information stored in the User table `[sys_user]`.
--   **[SMS Code Verification type for Password Reset](c_SMSCodeTypeVerifications.md)**  
+-   **[SMS Code Verification type for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_SMSCodeTypeVerifications.md)**  
 Using the Simple Message Service \(SMS\) Code Verification type, a user can verify identity with the help of any SMS-enabled device, like a cell phone that accepts text messages. When a user requests password reset, the system sends a numerical code to the device and the user then enters the code on the Password Reset Verification page.
--   **[Specify the number of required security questions](../task/t_SecurityQuestionTypeVerif.md)**  
+-   **[Specify the number of required security questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_SecurityQuestionTypeVerif.md)**  
 When designing a Security Questions verification for Password Reset, you can specify the number of questions to display when users enroll. You can also specify the number to display when a user is verifying identity while resetting the password.
 
-**Parent Topic:**[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../reference/pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](c_CredentialStores.md)
+[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-user-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/t_LockoutForFailedLogins.md)
 
-[Configure Google reCAPTCHA for the password reset process](../task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_ConfigureGoogleRecaptcha.md)
 
-[Create a custom Password Reset verification](../task/t_CreatePWRVerFromVerType.md)
+[Create a custom Password Reset verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreatePWRVerFromVerType.md)
 
-[Create a Password Reset verification from an existing verification](../task/t_CreatePWRVerFromBaseVer.md)
+[Create a Password Reset verification from an existing verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreatePWRVerFromBaseVer.md)
 

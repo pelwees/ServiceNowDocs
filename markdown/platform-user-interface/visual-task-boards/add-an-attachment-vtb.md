@@ -23,16 +23,16 @@ Role required: none
 
 Adding an attachment to a task card also adds the attachment to the underlying task record.
 
-![Add attachment window open in task card](../image/add-attachment-vtb.png "Add attachment")
+![Add attachment window open in task card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/add-attachment-vtb.png "Add attachment")
 
 ## Procedure
 
 1.  Click a card.
 
-2.  Click the attachment tab \(![Attachment icon](../image/icon-add-attachment.png)\).
+2.  Click the attachment tab \(![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/icon-add-attachment.png)\).
 
 3.  Click **Add Attachment** and select a file to add as an attachment.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

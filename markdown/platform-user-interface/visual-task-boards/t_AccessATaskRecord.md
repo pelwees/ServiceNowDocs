@@ -34,5 +34,5 @@ Access a task record using one of the following options.
     2.  Click the record number in the header.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

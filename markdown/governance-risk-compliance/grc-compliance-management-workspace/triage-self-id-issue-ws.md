@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-Your employees and business users within your company can self-identify an issue and submit it via the ServiceNow® Service Portal. Following submission, a triage issue is automatically created. For more information, see [Report self-identified issues via the Service Portal](../../grc-policy-and-compliance/task/create-self-identified-issues.md).
+Your employees and business users within your company can self-identify an issue and submit it via the ServiceNow® Service Portal. Following submission, a triage issue is automatically created. For more information, see [Report self-identified issues via the Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-and-compliance/task/create-self-identified-issues.md).
 
 The assigned triage teams identify whether the self-identified issues are actual reported issues, risk events, or observations to be tracked and possibly closed out as noise.
 

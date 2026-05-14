@@ -50,12 +50,12 @@ Role required: admin or it\_project\_manager
     You can switch from the week view to the month view based on your requirement.
 
 
-**Parent Topic:**[Create resource assignments using Project Workspace](create-resource-assignment-prj-wksp.md)
+**Parent Topic:**[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md)
 
 **Related topics**  
 
 
-[Update resource assignment from Project Workspace](update-resource-assignment-pw.md)
+[Update resource assignment from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/update-resource-assignment-pw.md)
 
-[Extend a resource assignment](extend-resource-assignment-pw.md)
+[Extend a resource assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/extend-resource-assignment-pw.md)
 

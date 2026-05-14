@@ -17,13 +17,13 @@ Track the progress of your stories in the current sprint and forecast sprint com
 
 Navigate to **All** &gt; **Agile Development** &gt; **Dashboards** and select **Agile 2.0 Sprint Dashboard**.
 
-![Agile sprint dashboard widgets.](../image/agile-sprint-widgets.png "Agile sprint dashboard widgets")
+![Agile sprint dashboard widgets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-sprint-widgets.png "Agile sprint dashboard widgets")
 
-![Agile sprint dashboard burndown report.](../image/agile-sp-burndown.png "Agile sprint dashboard burndown report")
+![Agile sprint dashboard burndown report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-sp-burndown.png "Agile sprint dashboard burndown report")
 
-![Agile Sprint dashboard burnup report.](../image/agile-sprint-burnup.png "Agile sprint dashboard burnup visualization")
+![Agile Sprint dashboard burnup report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-sprint-burnup.png "Agile sprint dashboard burnup visualization")
 
-![Agile sprint dashboard cumulative flow diagram.](../image/agile-sprint-cfd.png "Agile sprint dashboard cumulative flow diagram")
+![Agile sprint dashboard cumulative flow diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../image/agile-sprint-cfd.png "Agile sprint dashboard cumulative flow diagram")
 
 The Agile 2.0 Sprint Dashboard provides the following insights:
 
@@ -134,7 +134,7 @@ If you are upgrading from version 1.0.2 or earlier of Performance Analytics Cont
 -   Sprint Burnup
 -   Sprint Cumulative Flow Diagram
 
-For more information, see [Upgrading the layout of Agile 2.0 dashboards](../reference/using-solution-library-for-agile-2.0-dashboards.md).
+For more information, see [Upgrading the layout of Agile 2.0 dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../reference/using-solution-library-for-agile-2.0-dashboards.md).
 
 **Note:** For all reports shown in the Sprint dashboard, the planned end date of the Sprints is used as a filter. Completed Sprints appear in the chart only if their Planned end date is less than or equal to the current date.
 
@@ -214,7 +214,7 @@ Monitor the progress of all the stories of your sprint between its actual start 
  **Note:** Stories in Ready and Cancelled states are not included in this report.
 
 </td></tr></tbody>
-</table>You can customize the Burnup, Burndown, and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](../concept/customizing-dashboard-reports.md).
+</table>You can customize the Burnup, Burndown, and Cumulative Flow Diagram reports. For more information, see [Customizing Agile 2.0 dashboard reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/customizing-dashboard-reports.md).
 
-**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](pa-content-pack-for-agile-2.0.md)
+**Parent Topic:**[Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/pa-content-pack-for-agile-2.0.md)
 

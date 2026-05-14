@@ -31,7 +31,7 @@ Role required: sn\_sprb\_mgmt\_admin
 
 3.  On the form, fill in the fields.
 
-    ![knowledge graph schema.](../image/create-knowledge-graph-schema.png)
+    ![knowledge graph schema.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/create-knowledge-graph-schema.png)
 
     |Field|Description|
     |-----|-----------|
@@ -54,13 +54,13 @@ Role required: sn\_sprb\_mgmt\_admin
     -   Node details
     -   Columns that can be queried
     -   Related nodes
-    ![service summary graph.](../image/now-assist-tmt-service-summary-graph.png)
+    ![service summary graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/now-assist-tmt-service-summary-graph.png)
 
 7.  In the Node details section, you can edit the following fields.
 
     -   Node type
     -   Node Description
-    ![service summary graph.](../image/summary-graph-node-details.png)
+    ![service summary graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/summary-graph-node-details.png)
 
     To manage the nodes in the Knowledge Graph schema, see [Manage nodes in a Knowledge Graph schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/add-or-delete-nodes-from-a-knowledge-graph-schema.md).
 
@@ -73,5 +73,5 @@ Role required: sn\_sprb\_mgmt\_admin
     To edit the Knowledge Graph schema, see [Edit a Knowledge Graph schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/editing-a-knowledge-graph-schema.md).
 
 
-**Parent Topic:**[Generate service summary for a product inventory using Now Assist for Telecommunications, Media and Technology \(TMT\)](now-assist-tmt-summarize-knowledge-graph.md)
+**Parent Topic:**[Generate service summary for a product inventory using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-summarize-knowledge-graph.md)
 

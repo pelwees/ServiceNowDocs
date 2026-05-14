@@ -38,5 +38,5 @@ Community users must have permission to view events \(**Event Read**\).
 3.  Click an event to perform tasks related to the event.
 
 
-**Parent Topic:**[Community events](community-events.md)
+**Parent Topic:**[Community events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-events.md)
 

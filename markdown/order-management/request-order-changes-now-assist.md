@@ -22,7 +22,7 @@ The following applications must be installed and configured on your ServiceNow i
 -   Now Assist for Order Management \(sn\_now\_assist\_om\)
 -   Order Case Self Service \(sn\_ord\_case\_ss\)
 
-A working Available-to-Promise \(ATP\) API call must be configured to query your external inventory systems. For more information, see [Configure ATP API for the manage order operations agent](create-atp-api-call.md).
+A working Available-to-Promise \(ATP\) API call must be configured to query your external inventory systems. For more information, see [Configure ATP API for the manage order operations agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-atp-api-call.md).
 
 Role required: sn\_customerservice.customer
 
@@ -62,10 +62,10 @@ When you submit a request through the Virtual Assistant, the AI agent performs t
     The AI agent creates an order case with a system-generated number starting with the prefix ORDCS. It also provides the order case link that you can select to view the order case details on the Business Portal.
 
 
-**Parent Topic:**[Using Now Assist for Order Management](../concept/now-assist-order-management-using.md)
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/now-assist-order-management-using.md)
 
 **Related topics**  
 
 
-[Configure Now Assist for Sales Force Automation \(SFA\)](../../now-assist-som/task/configure-now-assist-som.md)
+[Configure Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../now-assist-som/task/configure-now-assist-som.md)
 

@@ -23,7 +23,7 @@ Role required: Account Payable Specialist
 
 1.  Navigate to **All** &gt; **Source-to-Pay Workspace** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Navigate to **Lists** &gt; **My work** &gt; **My open invoice processing cases** and open an invoice processing case.
 
@@ -33,9 +33,9 @@ Role required: Account Payable Specialist
 
 4.  Select **View invoice processing case**.
 
-5.  Select **More Actions** ![more actions](../image/more-actions.png)&gt;**Change invoice type**.
+5.  Select **More Actions** ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/more-actions.png)&gt;**Change invoice type**.
 
-    You can choose to convert invoice types to:![Change invoice type](../image/change-invoice-type.png)
+    You can choose to convert invoice types to:![Change invoice type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/change-invoice-type.png)
 
     -   PO to Non-PO invoice and vice versa
     -   Credit memo invoice to PO invoice, Non-PO invoice and vice versa
@@ -48,22 +48,22 @@ Role required: Account Payable Specialist
     The status of the invoice changes to **Draft**. The invoice is reprocessed and re-validated.
 
 
-**Parent Topic:**[Accounts Payable Specialist manual tasks](../concept/aps-manual-tasks.md)
+**Parent Topic:**[Accounts Payable Specialist manual tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/aps-manual-tasks.md)
 
 **Related topics**  
 
 
-[View the invoice processing case associated with an invoice](view-invoice-case.md)
+[View the invoice processing case associated with an invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/view-invoice-case.md)
 
-[Review an invoice in Document Intelligence](review-invoice-docintel.md)
+[Review an invoice in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/review-invoice-docintel.md)
 
-[Enter the missing required invoice information and submit an invoice](enter-missing-docintel.md)
+[Enter the missing required invoice information and submit an invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/enter-missing-docintel.md)
 
-[Confirm whether an invoice is a duplicate](confirm-duplicate-invoice.md)
+[Confirm whether an invoice is a duplicate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/confirm-duplicate-invoice.md)
 
-[Reset an invoice to the Received status](reset-invoice-to-received.md)
+[Reset an invoice to the Received status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/reset-invoice-to-received.md)
 
-[Check for invoice exceptions on a single invoice](identify-exceptions-manually.md)
+[Check for invoice exceptions on a single invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/identify-exceptions-manually.md)
 
-[Start the processing for an invoice imported via integration with third-party applications](start-invoice-processing.md)
+[Start the processing for an invoice imported via integration with third-party applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/start-invoice-processing.md)
 

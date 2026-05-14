@@ -19,40 +19,40 @@ This video provides you with an overview of Benchmarks.Benchmarks Overview
 
 <table id="simpletable_mdx_bnb_5bc" class="simpletableBody"><tbody><tr><td>
 
-Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)
+Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../../../reuse/icons/brand-icons/bus-explore.svg)
 
- -   [Benchmarks overview](../concept/c_BenchOverview.md)
--   [Benchmark KPIs](../concept/c_BenchKPIConfig.md)
--   [Domain separation and Benchmarks](../concept/domain-separation-benchmarks.md)
+ -   [Benchmarks overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchOverview.md)
+-   [Benchmark KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchKPIConfig.md)
+-   [Domain separation and Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/domain-separation-benchmarks.md)
 
 </td><td>
 
-**Set up**![Set up](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+**Set up**![Set up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
- -   [Enable Benchmarks](../task/t_EnableBench.md)
--   [Configure KPI participation](../task/t_EnableABenchKPI.md)
+ -   [Enable Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../task/t_EnableBench.md)
+-   [Configure KPI participation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../task/t_EnableABenchKPI.md)
 
 </td><td>
 
 **Administer**
 
- -   [Link or customize a benchmark KPI](../task/t_CustomBenchKPIConditions.md)
--   [Drill down within benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIIndScore.md)
+ -   [Link or customize a benchmark KPI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../task/t_CustomBenchKPIConditions.md)
+-   [Drill down within benchmark KPI data \(deprecated\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../task/t_ViewBenchKPIIndScore.md)
 
 </td></tr><tr><td>
 
-Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)
+Use ![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)
 
- -   [Deprecated Benchmarks dashboard](../concept/c_BenchDashboard.md)
--   [View benchmark KPI data \(deprecated\)](../task/t_ViewBenchKPIData.md)
--   [Benchmarks KPI performance trend and recommendations \(deprecated\)](../concept/bench-kpi-trend-recommend.md)
--   [ITSM dashboards](../concept/c_BenchDashboard.md)
+ -   [Deprecated Benchmarks dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchDashboard.md)
+-   [View benchmark KPI data \(deprecated\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../task/t_ViewBenchKPIData.md)
+-   [Benchmarks KPI performance trend and recommendations \(deprecated\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/bench-kpi-trend-recommend.md)
+-   [ITSM dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchDashboard.md)
 
 </td><td>
 
-**Troubleshoot and get help** ![Troubleshoot](../../../reuse/icons/brand-icons/bus-learn.svg)
+**Troubleshoot and get help** ![Troubleshoot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../../../reuse/icons/brand-icons/bus-learn.svg)
 
- -   [Troubleshooting Benchmarks errors](../concept/c_BenchTroubleshooting.md)
+ -   [Troubleshooting Benchmarks errors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/benchmarks/../concept/c_BenchTroubleshooting.md)
 -   [Ask or answer questions in the Benchmarks forum](https://community.servicenow.com/community/it-service-management?tagSet=2287)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)

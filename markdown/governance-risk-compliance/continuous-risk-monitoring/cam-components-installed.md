@@ -15,7 +15,7 @@ breadcrumb: [CAM reference, Continuous Authorization and Monitoring, Governance,
 
 Activating the GRC: CAM plugin adds or modifies several tables, user roles, and other components.
 
-**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+**Parent Topic:**[CAM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../concept/reference-grc-cam.md)
 
 ## Continuous Authorization and Monitoring system properties
 
@@ -23,7 +23,7 @@ Default properties are set with activation of CAM plug-in.
 
 To configure the CAM system properties, navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **System Properties**.
 
-![ATO Artifacts System Properties.](../../grc-cam-workspace/image/cam-ato-artifacts-system-properties.png)
+![ATO Artifacts System Properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../../grc-cam-workspace/image/cam-ato-artifacts-system-properties.png)
 
 ### Report template configuration properties
 
@@ -156,7 +156,7 @@ Specifies the type of template to be used for Executive Summary report. By defau
 
 -   **Days before Next Authorization to create engagement**: Enter the days in the field to automatically create the next engagement in the authorization package. The days entered in this field are subtracted from the next authorization date to determine the next engagement date, which is recorded in the authorization package.
 
-    For more information, see [View package details in CAM Workspace](../../grc-cam-workspace/task/auth-package-overview-ws.md).
+    For more information, see [View package details in CAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../../grc-cam-workspace/task/auth-package-overview-ws.md).
 
 -   **Homepage Title**: You can customize the homepage title using this field. Enter your organization-specific terminology. The default value is Continuous Authorization Monitoring. The homepage title updates immediately after saving.
 -   **Days before next authorization to set boundary to re-authorize**: You can configure authorization period in this field. Specify how many days before the authorization due date the system should display a re-authorization warning.

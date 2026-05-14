@@ -37,5 +37,5 @@ Consider these points while implementing the CSDM framework.
 
 For additional information about Enterprise Architecture, see [APM: Application Inventory - Most common questions.](https://www.servicenow.com/community/apm-forum/apm-application-inventory-most-common-questions/m-p/1034443#M202)
 
-**Parent Topic:**[Enterprise Architecture \(EA\) and the CSDM framework](apm-use-case-product-view.md)
+**Parent Topic:**[Enterprise Architecture \(EA\) and the CSDM framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/apm-use-case-product-view.md)
 

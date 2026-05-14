@@ -30,11 +30,11 @@ Choose one of these tiles to get started.
 
 <table id="table_nxz_wtc_hgc" class="nav-card"><tbody><tr><td>
 
-[Employee support![](../../../reuse/icons/brand-icons/bus-webinar.svg)Learn more about the applications and features available in CBS to enable employee support system in your organization.](exploring-emp-home.md)
+[Employee support![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../../../reuse/icons/brand-icons/bus-webinar.svg)Learn more about the applications and features available in CBS to enable employee support system in your organization.](exploring-emp-home.md)
 
 </td><td>
 
-[Supplier support![](../../../reuse/icons/brand-icons/bus-webinar.svg)Learn more about the applications and features available in CBS to enable supplier support system in your organization.](exploring-supplr-home.md)
+[Supplier support![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/core-business-suite/../../../reuse/icons/brand-icons/bus-webinar.svg)Learn more about the applications and features available in CBS to enable supplier support system in your organization.](exploring-supplr-home.md)
 
 </td></tr></tbody>
 </table>

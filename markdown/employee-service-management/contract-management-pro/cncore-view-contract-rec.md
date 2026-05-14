@@ -38,12 +38,12 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
     2.  In the **Contract History** related list, select a date in the **Contract Starts** column to view the earlier version.
 
 
-**Parent Topic:**[Manage contract records](cncore-manage-cont-records.md)
+**Parent Topic:**[Manage contract records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-cont-records.md)
 
 **Related topics**  
 
 
-[Modify a contract record](cncore-modify-contract-rec.md)
+[Modify a contract record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-modify-contract-rec.md)
 
-[Configure fields in contract template to display correct sys\_id value in contract documents](cncore-addin-adv-script.md)
+[Configure fields in contract template to display correct sys\_id value in contract documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-adv-script.md)
 

@@ -37,7 +37,7 @@ Role required: sn\_query\_gen.admin or higher
 
 5.  Select whether to enable semantic generation for the table.
 
-    By default, semantic generation is enabled. For more information, see [Enable semantic generation for tables in the semantic layer](enable-semantics-generation.md).
+    By default, semantic generation is enabled. For more information, see [Enable semantic generation for tables in the semantic layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/enable-semantics-generation.md).
 
 6.  Select whether to include the hierarchy of child tables.
 
@@ -56,30 +56,30 @@ If you have users who need to explore and discuss data relating to asset contrac
 
 1.  First, you open the Semantic Table Configuration list \[sn\_query\_gen\_table\_config\_list\] and press the **New** button.
 
-    ![Semantic Table Generation list showing where to open it in Navigator and the New button.](../image/qgen-stg-list.png)
+    ![Semantic Table Generation list showing where to open it in Navigator and the New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-stg-list.png)
 
 2.  Now you are in the form for creating a new Semantic Table Configuration record. You search for the Contract \[ast\_contract\] table and select it.
 
-    ![Selecting the Contract table in a new Semantic Table Configuration record.](../image/qgen-stc-new-table.png)
+    ![Selecting the Contract table in a new Semantic Table Configuration record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-stc-new-table.png)
 
 3.  You want to enable semantic generation on the entire Contract table hierarchy, so you leave the **Enable Semantic Generation** and **Include Child Hierarchy** checkboxes selected and press **Submit**.
 
-    ![The completed new record form for adding the Contract table to Semantic Table Configuration, ready to be submitted.](../image/qgen-new-form-filled.png)
+    ![The completed new record form for adding the Contract table to Semantic Table Configuration, ready to be submitted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-new-form-filled.png)
 
 4.  You see that the Contract \[ast\_contract\] table has been added to the Semantic Table Configurations table, and that semantic generation is enabled on its hierarchy.
 
-    ![The Semantic Table Configurations list showing the newly added ast_contract table.](../image/qgen-ast-contract-added-stc.png)
+    ![The Semantic Table Configurations list showing the newly added ast_contract table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-ast-contract-added-stc.png)
 
 5.  When you open the Entities list \[sn\_query\_gen\_entity\_list\], you see that the Contract table and all its children are represented by Entity records, and all the records are active.
 
-    ![Entities added for the Contract table hierarchy.](../image/qgen-contract-entities.png)
+    ![Entities added for the Contract table hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-contract-entities.png)
 
 6.  Looking in the Dimensions list \[sn\_query\_gen\_dimension\_list\], you see that many columns of the Contract table are represented, and you are confident that you have successfully added the table hierarchy to the semantic layer.
 
-    ![Dimensions added for the Contract table.](../image/qgen-contract-dimensions.png)
+    ![Dimensions added for the Contract table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/qgen-contract-dimensions.png)
 
 
-**Parent Topic:**[Configuring Query Generation](../concept/configuring-query-generation.md)
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configuring-query-generation.md)
 
 ## Add a batch of tables to the semantic layer
 
@@ -99,13 +99,13 @@ Role required: admin, now\_assist\_explorer\_admin, sn\_query\_gen.admin
 
 3.  Select the checkboxes for the desired tables or database views.
 
-    ![Selected tables from a list.](../image/selected-tables.png)
+    ![Selected tables from a list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/selected-tables.png)
 
 4.  Expand **Actions on selected rows...**
 
 5.  Select **Enable for Query Generation**.
 
-    ![The Enable Query Generation action on a list of tables.](../image/querygen-enable-action-tables.png)
+    ![The Enable Query Generation action on a list of tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/querygen-enable-action-tables.png)
 
     When successful, a banner says `Selected tables have been successfully added to Query Generation semantic layer. View`.
 

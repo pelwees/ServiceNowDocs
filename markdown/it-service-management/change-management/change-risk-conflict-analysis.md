@@ -17,12 +17,12 @@ After you create a change request, you can assess and analyze the risk and impac
 
 Analyze the risk of change and review detected conflicts in the following ways.
 
--   **[Risk conditions and calculation](change-risk-assess-detect-conflict.md)**  
+-   **[Risk conditions and calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-risk-assess-detect-conflict.md)**  
 Change Management features provide ways to calculate and assess the risk of change requests, and to identify and resolve conflicts.
--   **[Risk assessment](c_RskAsmtCalc.md)**  
+-   **[Risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_RskAsmtCalc.md)**  
 There are two methods to calculate the risk of a change. The Best Practice - Change Risk Calculator is activated in the base system by default. Change Management - Risk Assessment is optional.
--   **[Migrate to legacy change risk assessments](../task/legacy-change-risk-assessment-migration.md)**  
+-   **[Migrate to legacy change risk assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../task/legacy-change-risk-assessment-migration.md)**  
 Users can migrate legacy change risk assessments to versions compatible with the new Change Risk Assessment table schema and logic.
 
-**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 

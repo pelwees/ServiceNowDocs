@@ -62,12 +62,12 @@ Similar to creating a category tag, you can create alternative types to define c
 
 The widget instance associated with the type displays any announcements tagged with the same type.
 
-**Parent Topic:**[Posting announcements to portal users](../concept/announcements.md)
+**Parent Topic:**[Posting announcements to portal users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/announcements.md)
 
 **Related topics**  
 
 
-[Create an announcement](create-announcement.md)
+[Create an announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement.md)
 
-[Create an announcement display style](create-announcement-style.md)
+[Create an announcement display style](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-announcement-style.md)
 

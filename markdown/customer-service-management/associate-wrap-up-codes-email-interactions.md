@@ -15,7 +15,7 @@ Associate wrap-up codes with the email interaction wrap-up configuration so that
 
 ## Before you begin
 
-A wrap-up code must be created. See [Configure wrap-up codes for email interactions](configure-wrap-up-codes-email-interactions-eaai.md).
+A wrap-up code must be created. See [Configure wrap-up codes for email interactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-wrap-up-codes-email-interactions-eaai.md).
 
 Role required: admin
 

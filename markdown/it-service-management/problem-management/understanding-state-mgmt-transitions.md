@@ -21,11 +21,11 @@ Problem Management has one single goal: Identifying and resolving the underlying
 
 The Problem Management process has many states, and each is vitally important to the success of the process and the quality of service delivered. The different states can be represented in a diagram as follows:
 
-![Diagram describing how a problem transitions from one state to another state.](../image/pm-state-transitions.png "Problem Management state transitions")
+![Diagram describing how a problem transitions from one state to another state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/pm-state-transitions.png "Problem Management state transitions")
 
 **Note:**
 
-You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](problem-mgmt-models.md).
+You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
 
-**Parent Topic:**[Problem Management process](c_ProblemManagementProcess.md)
+**Parent Topic:**[Problem Management process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagementProcess.md)
 

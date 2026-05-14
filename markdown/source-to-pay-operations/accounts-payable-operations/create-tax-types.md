@@ -23,7 +23,7 @@ Role required: Tax manager
 
 1.  Navigate to **All** &gt; **Finance Common** &gt; **Tax types**.
 
-    ![Navigate to Finance Common and Tax Types](../image/apo-create-tax-type.png)
+    ![Navigate to Finance Common and Tax Types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-create-tax-type.png)
 
 2.  Select **New** on the tax type page.
 
@@ -86,5 +86,5 @@ State to make the tax type available.
 
 The tax type details are added.
 
-**Parent Topic:**[Tax calculations](../concept/tax-calculations-in-apo.md)
+**Parent Topic:**[Tax calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tax-calculations-in-apo.md)
 

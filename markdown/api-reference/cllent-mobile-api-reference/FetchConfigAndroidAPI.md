@@ -15,16 +15,16 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The FetchConfiguration class provides the ability to define the configuration for fetching records from the associatedServiceNow table.
 
-This class only contains a single function \(constructor\), [FetchConfiguration\(\)](FetchConfigAndroidAPI.md#).
+This class only contains a single function \(constructor\), [FetchConfiguration\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/FetchConfigAndroidAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
-|filter|[Filter](../../Filter/concept/FilterAndroidAPI.md#)|Query to use to filter the return results.|
+|filter|[Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../Filter/concept/FilterAndroidAPI.md#)|Query to use to filter the return results.|
 |limit|Integer|Number of records per page/response to return.|
 |queryParams|QueryParams|Iterable structure that contains name-value pairs of request query parameters.|
-|readConfiguration|[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)|Configuration for the fields to return in the response.|
+|readConfiguration|[FieldReadConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)|Configuration for the fields to return in the response.|
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 
 ## FetchConfiguration - FetchConfiguration\(filter: Filter? = null, limit: Int? = null, readConfiguration: FieldReadConfiguration? = null\)
 
@@ -48,7 +48,7 @@ filter
 
 </td><td>
 
-[Filter](../../Filter/concept/FilterAndroidAPI.md#)
+[Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../Filter/concept/FilterAndroidAPI.md#)
 
 </td><td>
 
@@ -72,7 +72,7 @@ readConfiguration
 
 </td><td>
 
-[FieldReadConfiguration](../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)
+[FieldReadConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../FieldReadConfiguration/concept/FieldReadConfigAndroidAPI.md#)
 
 </td><td>
 

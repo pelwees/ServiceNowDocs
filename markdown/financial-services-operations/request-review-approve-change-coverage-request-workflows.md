@@ -15,7 +15,7 @@ Learn how agents, using the change coverage limits workflows, resolve service re
 
 The following diagram shows how the application helps agents resolve a change policy coverage request.
 
-![Workflow showing how a policy change coverage request is resolved using the Personal Lines Servicing application. For the text description, refer to the workflow steps that follow.](../image/change-coverage-workflow.png "Change coverage workflow example")
+![Workflow showing how a policy change coverage request is resolved using the Personal Lines Servicing application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/change-coverage-workflow.png "Change coverage workflow example")
 
 The insurance policy admin can review and customize this predefined flow based on the business needs of your organization.
 
@@ -48,5 +48,5 @@ The following workflow routes the case and tasks for changing coverage for a pol
 
 The case is complete, and the state and stage of the case are set to Closed Complete.
 
-**Parent Topic:**[Using Personal Lines Servicing](using-financial-services-insurance-policy-operations.md)
+**Parent Topic:**[Using Personal Lines Servicing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/using-financial-services-insurance-policy-operations.md)
 

@@ -29,7 +29,7 @@ Select the category for gifts or entertainment
 
 </td><td>
 
-Category of the transaction.**Note:** You can customize the options by adding subcategory. For more information, see [Add a subcategory for the intake form](../../legal-request-management/task/add-subcategories-intakeform.md).
+Category of the transaction.**Note:** You can customize the options by adding subcategory. For more information, see [Add a subcategory for the intake form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../legal-request-management/task/add-subcategories-intakeform.md).
 
 </td></tr><tr><td>
 
@@ -130,5 +130,5 @@ Affiliated with a state-owned enterprise \(such as a public-funded university or
 Indicates whether the company involved is state-owned.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Gifts and Entertainment Compliance reference](lsd-ge-reference.md)
+</table>**Parent Topic:**[Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 

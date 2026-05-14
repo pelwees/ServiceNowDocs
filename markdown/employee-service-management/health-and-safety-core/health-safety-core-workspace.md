@@ -93,11 +93,11 @@ On the workspace landing page, the Health and Safety dashboard gives a quick ove
 
 The following is an example of the workspace landing page for the Health and Safety Core where the Health and Safety Incident Management application is installed.
 
-![health and safety core landing page](../image/health-safety-core-landing.png "Example of the landing page for Health and Safety Workspace")
+![health and safety core landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../image/health-safety-core-landing.png "Example of the landing page for Health and Safety Workspace")
 
 ## Primary navigation
 
-The primary navigation displays icons for the installed Health and Safety applications. Clicking on these icons takes you to the list view for each application. For example, if you have the Health and Safety risk management application installed, then you can view the risk related records by clicking the **Risk management** icon ![Risk assessment icon](../../hs-risk-management/image/icon-risk-assessment.png).
+The primary navigation displays icons for the installed Health and Safety applications. Clicking on these icons takes you to the list view for each application. For example, if you have the Health and Safety risk management application installed, then you can view the risk related records by clicking the **Risk management** icon ![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-risk-management/image/icon-risk-assessment.png).
 
-![health and safety core list view](../image/health-safety-core-list-view.png "Example of list view for health and safety risk management")
+![health and safety core list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../image/health-safety-core-list-view.png "Example of list view for health and safety risk management")
 

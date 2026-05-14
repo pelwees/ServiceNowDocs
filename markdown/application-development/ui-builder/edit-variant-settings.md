@@ -73,7 +73,7 @@ Conditions
 
 </td><td>
 
-Set the rules for when your pages are shown. For more information, see [Control the conditions for a page variant](control-conditions-for-your-variant.md).
+Set the rules for when your pages are shown. For more information, see [Control the conditions for a page variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/control-conditions-for-your-variant.md).
 
 </td></tr><tr><td>
 
@@ -81,13 +81,13 @@ Audiences
 
 </td><td>
 
-Add or remove audiences for the page variant. For more information, see [Learn about audiences](../concept/add-audiences.md).
+Add or remove audiences for the page variant. For more information, see [Learn about audiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/add-audiences.md).
 
 </td></tr></tbody>
-</table>    ![Edit page variant settings screen.](../image/variant-edit-settings-screen.png)
+</table>    ![Edit page variant settings screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/variant-edit-settings-screen.png)
 
 6.  Click **Save**.
 
 
-**Parent Topic:**[Create a page variant](create-variant.md)
+**Parent Topic:**[Create a page variant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-variant.md)
 

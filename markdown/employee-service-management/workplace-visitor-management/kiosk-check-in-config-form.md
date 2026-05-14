@@ -20,7 +20,7 @@ Use the Kiosk Check-in Flow Configuration form to create a check-in flow for the
 |Name|Name of the check-in flow configuration.|
 |Authentication page configuration|Page configuration that contains the check-in authentication.|
 |Self-registration page configuration|Page configuration that contains the self-registration flow.|
-|Acknowledgment page configuration|Page configuration that contains the check-in policies for the visitor to acknowledge. For more information about policies, see [Create a visitor policy](../task/create-visitor-policy.md).|
+|Acknowledgment page configuration|Page configuration that contains the check-in policies for the visitor to acknowledge. For more information about policies, see [Create a visitor policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/create-visitor-policy.md).|
 |Picture page configuration|Page configuration that uses the camera to take a picture of the visitor.|
 |Summary page configuration|Page configuration that contains the summary of the visit.|
 |End page configuration|Page configuration that displays the next steps for the visitor to follow.|
@@ -35,24 +35,24 @@ Use the Kiosk Check-in Flow Configuration form to create a check-in flow for the
 |Authentication fails, self-registration is configured, and the visitor opts out of self-registration|**Authentication page** &gt; **Authentication error** &gt; **Self-registration page** &gt; **Kiosk home page**|
 |Authentication fails, self-registration is configured, and the visitor opts to self-register|**Authentication page** &gt; **Authentication error** &gt; **Self-registration page** &gt; **Picture Page** &gt; **Acknowledgement page** &gt; **End page** &gt; **Kiosk home page**|
 
-**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+**Parent Topic:**[Workplace Visitor Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Visitor Management](components-installed-with-workplace-visitor-mgmt.md)
+[Components installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/components-installed-with-workplace-visitor-mgmt.md)
 
-[Properties installed with Workplace Visitor Management](properties-installed-with-workplace-visitor-mgmt.md)
+[Properties installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/properties-installed-with-workplace-visitor-mgmt.md)
 
-[Kiosk Check-out Flow Configuration form](kiosk-check-out-config-form.md)
+[Kiosk Check-out Flow Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-check-out-config-form.md)
 
-[Kiosk Page Configuration form](kiosk-page-config-form.md)
+[Kiosk Page Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-config-form.md)
 
-[Kiosk Page Customizations](kiosk-page-customizations.md)
+[Kiosk Page Customizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-customizations.md)
 
-[Location Policy form](location-policy-form.md)
+[Location Policy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/location-policy-form.md)
 
-[New visit form](new-visit-form.md)
+[New visit form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/new-visit-form.md)
 
-[Additional requirement form](additional-req-form.md)
+[Additional requirement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/additional-req-form.md)
 

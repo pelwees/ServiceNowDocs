@@ -36,11 +36,11 @@ Historical jobs also collect snapshots of the existing data. Performance Analyti
 
 2.  Select a historical data collection job, such as \[PA Change\] Historic Data Collection, or create a new historic data collection job.
 
-3.  If you are creating or editing the historic data collection job, follow the procedure in [Create or schedule a data collection job](t_CreatASchedDataCollJob.md).
+3.  If you are creating or editing the historic data collection job, follow the procedure in [Create or schedule a data collection job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreatASchedDataCollJob.md).
 
     **Important:** For a historical data collection job, set **Run** to On demand. Do not run historical data collection jobs on a fixed schedule.
 
-4.  In the job indicators, exclude any breakdowns that are based on fields whose value is likely to change during the historical collection period, as described in [Configure a job indicator](configure-job-indicator.md).
+4.  In the job indicators, exclude any breakdowns that are based on fields whose value is likely to change during the historical collection period, as described in [Configure a job indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/configure-job-indicator.md).
 
     For example, in the provided \[PA Incident SLA\] Historic Data Collection job, the job indicator 'Number of open and overdue incidents' excludes the Assignment Group and the State breakdowns. The value of both of these breakdowns could change over the data collection period, making the results meaningless.
 
@@ -51,5 +51,5 @@ Historical jobs also collect snapshots of the existing data. Performance Analyti
 
 After collecting historical data, use a scheduled data collection job to collect new scores regularly.
 
-**Parent Topic:**[Collecting indicator scores](../concept/c_ClctData.md)
+**Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_ClctData.md)
 

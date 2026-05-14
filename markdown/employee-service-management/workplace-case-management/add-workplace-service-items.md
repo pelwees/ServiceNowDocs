@@ -37,7 +37,7 @@ Add a workplace item to make it available for employees to order when they make 
 -   Specify if you want to enable employees to specify their required quantity or capacity.
 -   Configure the locations where the workplace service item shall be available.
 
-Example: Workplace service items added with 'Request Furniture' workplace service:![Workplace service items added with 'Request Furniture' workplace service.](../image/wcasemgmt-workplceserviceservice-itemsl.png)
+Example: Workplace service items added with 'Request Furniture' workplace service:![Workplace service items added with 'Request Furniture' workplace service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../image/wcasemgmt-workplceserviceservice-itemsl.png)
 
 ## Procedure
 
@@ -100,7 +100,7 @@ Default template
 
 </td><td>
 
-The default task template to fulfill the task. For more information, refer to [Create a Workplace task template](wsd-task-template.md). This field appears only if **Task** is selected from the **Item type**.
+The default task template to fulfill the task. For more information, refer to [Create a Workplace task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-task-template.md). This field appears only if **Task** is selected from the **Item type**.
 
 </td></tr><tr><td>
 
@@ -236,5 +236,5 @@ The employee is informed if there are one or more services in the lead time whil
 
 ## What to do next
 
-Specify the workplace locations where the workplace service item is available for ordering. For more information, see [Make a workplace service item available to a workplace location](add-workplace-service-item-to-workplace-locs.md).
+Specify the workplace locations where the workplace service item is available for ordering. For more information, see [Make a workplace service item available to a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-workplace-service-item-to-workplace-locs.md).
 

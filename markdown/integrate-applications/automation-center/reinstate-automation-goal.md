@@ -17,7 +17,7 @@ Reinstate an already achieved automation goal to restore and alter the scope of 
 
 ## Before you begin
 
-Create an automation goal. For more information, see [Create an automation goal](create-automation-goal.md).
+Create an automation goal. For more information, see [Create an automation goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-goal.md).
 
 Verify that the state of the automation goal is **Achieved**.
 
@@ -27,7 +27,7 @@ Role required: sn\_ac.automation\_business\_user
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Administration**, select **Automation Goals**.
 
@@ -42,5 +42,5 @@ Role required: sn\_ac.automation\_business\_user
 7.  Select **Save**.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

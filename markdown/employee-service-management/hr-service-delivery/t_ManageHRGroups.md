@@ -61,7 +61,7 @@ Type
 
 Use to define a category a group belongs to. A group can be associated with one group type \(narrow scope\) or multiple group types \(expanded scope\). This allows you to ensure qualified agents are assigned to complex cases or you have adequate coverage for less complex cases.
 
- Click the **Unlock Type** ![Unlock Type icon](../image/icon-hr-unlock-add-parties.png) icon. Then click the **Lookup using list** ![Lookup using list icon](../image/magnifying-glass.png) icon and add **human\_resources**.
+ Click the **Unlock Type** ![Unlock Type icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/icon-hr-unlock-add-parties.png) icon. Then click the **Lookup using list** ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png) icon and add **human\_resources**.
 
 </td></tr><tr><td>
 
@@ -150,11 +150,11 @@ Activities
 
 This field only appears for the Lifecycle Events application. The HR Service Activities the group manages. The HR Service Activities are part of the Activity Set and together make up a Lifecycle Event. Only members of this group can update this HR Service Activity.
 
-Refer to [Configure a lifecycle event activity](configure-hr-lifecycle-event-activity.md#).
+Refer to [Configure a lifecycle event activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-lifecycle-event-activity.md#).
 
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Manage HR roles](../concept/c_ManageRoles.md)
+**Parent Topic:**[Manage HR roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManageRoles.md)
 

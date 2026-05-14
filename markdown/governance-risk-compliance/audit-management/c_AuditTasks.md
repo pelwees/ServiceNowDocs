@@ -17,7 +17,7 @@ Audit tasks are completed throughout an engagement and provide documented eviden
 
 When audit tasks are created or reassigned, a notification is sent to the assigned user. A notification is also sent when the task reaches 75% of its planned duration.
 
-For information, see [Audit task management in Audit Workspace](../../grc-workspace-audit/concept/audit-task-mangmt-ws.md)
+For information, see [Audit task management in Audit Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-workspace-audit/concept/audit-task-mangmt-ws.md)
 
-**Parent Topic:**[Manage engagements](c_Engagements.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_Engagements.md)
 

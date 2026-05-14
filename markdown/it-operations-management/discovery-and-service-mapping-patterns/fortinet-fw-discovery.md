@@ -17,13 +17,13 @@ The Discovery and Service Mapping Patterns application uses the Next Generation 
 
 The Next Generation Fortinet Network Firewall pattern uses a set of SNMP calls to find the Fortinet firewalls. Discovery uses the pattern to run horizontal discovery.
 
-**Note:** Only the REST-based Fortinet firewall discovery method finds FortiGate VDOMs. The SNMP-based Fortinet firewall discovery method doesn't discover them. For information on REST-based Fortinet firewall and FortiGate Virtual Domains \(VDOMs\) discovery, see [Fortinet firewall and FortiGate VDOM REST-based discovery](fortinet-fw-vdoms-rest-discovery.md).
+**Note:** Only the REST-based Fortinet firewall discovery method finds FortiGate VDOMs. The SNMP-based Fortinet firewall discovery method doesn't discover them. For information on REST-based Fortinet firewall and FortiGate Virtual Domains \(VDOMs\) discovery, see [Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/fortinet-fw-vdoms-rest-discovery.md).
 
 ## Request apps on the Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Fortinet firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about Fortinet firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ To learn about Fortinet firewalls and their versions that you can discover, refe
     -   Class: Fortinet Firewall Device
 -   **Run a horizontal discovery**
 
-    For more information, see [Running discoveries in your network](../../discovery/concept/running-discoveries.md).
+    For more information, see [Running discoveries in your network](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/running-discoveries.md).
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -98,7 +98,7 @@ Discovery populates the data in the CMDB when running the Next Generation Fortin
 
 This Dependency Views map on the Fortinet Firewall Device CI shows the Fortinet Firewall Cluster to which it belongs.
 
-![CIs and connections on a Dependency Views map](../image/fortinet-fw-dependency-views.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/fortinet-fw-dependency-views.png)
 
 ## CI relationships
 
@@ -118,5 +118,5 @@ These relationships are created to support Fortinet firewall discovery.
 |Router Interface \[dscy\_router\_interface\]|References|Fortinet Firewall Device \[cmdb\_ci\_firewall\_device\_fortinet\]|
 |Serial Number \[cmdb\_serial\_number\]|References|Fortinet Firewall Device \[cmdb\_ci\_firewall\_device\_fortinet\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

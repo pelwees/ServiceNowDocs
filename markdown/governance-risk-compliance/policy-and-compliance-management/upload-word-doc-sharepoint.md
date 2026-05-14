@@ -19,13 +19,13 @@ Upload a Microsoft Word document that exists in your local machine to Microsoft 
 
 Role required: sn\_compliance\_ws.corporate\_compliance\_analyst; mp\_document\_user
 
-**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to the cloud. For more information, see [Pre-requisites to enable policy redlining feature](../../grc-policy-and-compliance/concept/pre-req-policy-redlining.md).
+**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to the cloud. For more information, see [Pre-requisites to enable policy redlining feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-and-compliance/concept/pre-req-policy-redlining.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  In the Compliance Workspace, select the ![List icon](../../grc-cam-workspace/image/ws-list-icon.png) icon.
+2.  In the Compliance Workspace, select the ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-cam-workspace/image/ws-list-icon.png) icon.
 
 3.  Navigate to **Compliance library** &gt; **My policies**.
 

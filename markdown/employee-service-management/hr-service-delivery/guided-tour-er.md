@@ -25,19 +25,19 @@ Guided tours help train and onboard users within the workspace. Each tour is des
 
 When you visit a page that has a guided tour for the first time, a welcome screen appears. You can choose to either begin the tour or skip the tour. The tour can be revisited from the Help Center menu.
 
-Guided tours in Employee Relations are only available in report misconduct cases. The tour is inactive by default. To enable the guided tour, see [Enable guided tours in Employee Relations](activate-guided-tours.md).
+Guided tours in Employee Relations are only available in report misconduct cases. The tour is inactive by default. To enable the guided tour, see [Enable guided tours in Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-guided-tours.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
-2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Select an ER case.
 
-4.  Select the **Show help** icon \(![Show help icon](../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
+4.  Select the **Show help** icon \(![Show help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
 
-5.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
+5.  Select the **Pin Help Center menu** icon ![Pin Help Center menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/pol-nav-pin.png) to pin the Help Center side panel on the page.
 
 6.  Select **Take a Tour**​.
 

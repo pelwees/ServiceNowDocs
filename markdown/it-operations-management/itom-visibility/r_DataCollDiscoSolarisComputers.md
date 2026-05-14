@@ -40,7 +40,7 @@ Solaris - ADM probe requires installing the LSOF command.
 
 Configure [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_SSHCredentialsForm.md) for the systems you want to discover.
 
-For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 ## Classifier, probes, and pattern
 
@@ -84,7 +84,7 @@ Solaris Server
 
 ^This probe remains active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -137,7 +137,7 @@ Discovery maps the relationships between global and local Solaris zones upon det
 
 In the following example, a Solaris global zone contains two local zones: zone01 and zone02. Each local zone is represented by a physical Solaris CI record and a Virtual Machine Instance record. Each of the local zones is tied to a Zone Server, demonstrating how virtualization relates to the global zone \(mmp1\).
 
-![Solaris zone relationship map](../image/SolarisZoneMap.png "Solaris zone relationship map")
+![Solaris zone relationship map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/SolarisZoneMap.png "Solaris zone relationship map")
 
 The TCP connection and process information for local zone servers must be collected by running commands on their parent global zone. The relationship path between the local and global zone physical machines must be established before TCP connection and process information for local zone servers can be collected.
 
@@ -165,11 +165,11 @@ Subsequent discoveries of the global zone refresh the TCP connection and process
 
 When the system discovers a global zone, the Solaris - Zones &amp; ADM Launcher probe triggers the Solaris - ADM probe to explore the global zone and each local zone found. Because the Solaris - ADM probe must run on the global zone to detect TCP connection and process information from its local zones, you might see multiple ECC queue records that appear identical.
 
-![ECC queue entries for a zone Discovery](../image/ZoneECCQueue.png "ECC queue entries for a zone Discovery")
+![ECC queue entries for a zone Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/ZoneECCQueue.png "ECC queue entries for a zone Discovery")
 
 Upon examining the payload, however, you will see that each probe is actually targeting a different zone CI to filter on and update.
 
-![Local zone payload](../image/Zone01DiscoveryPayload.png "Local zone payload")
+![Local zone payload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/Zone01DiscoveryPayload.png "Local zone payload")
 
 |Label|Table Name|Field Name|Source|
 |-----|----------|----------|------|
@@ -182,5 +182,5 @@ Upon examining the payload, however, you will see that each probe is actually ta
 
 **Note:** cmdb\_ci\_solaris\_instance extends cmdb\_ci\_vm\_instance.
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Computers.md)
 

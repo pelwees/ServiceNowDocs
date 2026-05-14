@@ -162,12 +162,12 @@ Microsoft Partner Agreement \(MPA\)
 </table>
 ## What to do next
 
-[Create a record of Microsoft Azure credentials in Cloud Cost Management](create-azure-credential-record-ccm.md)
+[Create a record of Microsoft Azure credentials in Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/create-azure-credential-record-ccm.md)
 
 **Related topics**  
 
 
-[Add the Enrollment Reader role to the Microsoft Azure service principal](add-enrollment-reader-ms-azure.md)
+[Add the Enrollment Reader role to the Microsoft Azure service principal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/add-enrollment-reader-ms-azure.md)
 
-[Add the Billing Profile Reader role to the Microsoft Azure service principal](add-billing-profile-reader-azure.md)
+[Add the Billing Profile Reader role to the Microsoft Azure service principal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/add-billing-profile-reader-azure.md)
 

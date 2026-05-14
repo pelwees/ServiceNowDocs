@@ -33,7 +33,7 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 4.  Modify the contract end date.
 
-    1.  In the **End date** field, select the Show End date calendar icon \(![Show Start date calendar icon](../image/lsd-cont-rec-calendar.png)\).
+    1.  In the **End date** field, select the Show End date calendar icon \(![Show Start date calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-cont-rec-calendar.png)\).
 
     2.  In the calendar pop-up, select a date.
 
@@ -41,25 +41,25 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 5.  Modify the parent contract.
 
-    1.  In the **Parent contract** field, select the Search for Record icon \(![Search for Record icon](../image/lsd-cont-rec-search.png)\).
+    1.  In the **Parent contract** field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-cont-rec-search.png)\).
 
     2.  In the Parent contract pop-up list, select a contract record to assign as the parent contract.
 
 6.  Change the contract model.
 
-    1.  In the **Contract model** field, select the Search for Record icon \(![Search for Record icon](../image/lsd-cont-rec-search.png)\).
+    1.  In the **Contract model** field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-cont-rec-search.png)\).
 
     2.  In the Contract model pop-up list, select the model.
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Manage contract records](cncore-manage-cont-records.md)
+**Parent Topic:**[Manage contract records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-manage-cont-records.md)
 
 **Related topics**  
 
 
-[View a contract record](cncore-view-contract-rec.md)
+[View a contract record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-view-contract-rec.md)
 
-[Configure fields in contract template to display correct sys\_id value in contract documents](cncore-addin-adv-script.md)
+[Configure fields in contract template to display correct sys\_id value in contract documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-adv-script.md)
 

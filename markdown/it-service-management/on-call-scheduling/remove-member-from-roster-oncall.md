@@ -25,7 +25,7 @@ Role required: rota\_manager, rota\_admin, or admin
 
 2.  Open the required shift form.
 
-3.  In the Rosters related list, click the information icon \( ![Information icon.](../image/icon-information.png) \) for the roster from which you want to remove a member.
+3.  In the Rosters related list, click the information icon \( ![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/icon-information.png) \) for the roster from which you want to remove a member.
 
 4.  Click **Open Record**.
 
@@ -93,10 +93,10 @@ Name of the shift.
 </table>7.  Click **Submit**.
 
 
-**Parent Topic:**[Managing roster members](../concept/managing-roster-members.md)
+**Parent Topic:**[Managing roster members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/managing-roster-members.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/roles-assigning-oncall.md)
 

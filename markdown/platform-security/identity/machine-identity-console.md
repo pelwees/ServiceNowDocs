@@ -19,19 +19,19 @@ Machine identities are digital identities that interact with systems and data. T
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-machine-identity-console.md)
+[Explore![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-machine-identity-console.md)
 
- [Learn the features and business value of Machine Identity Console.](explore-machine-identity-console.md)
-
-</td><td>
-
-[Activate![Activate](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-machine-identity-console.md)
-
- [Understand how to Activate Machine Identity Console.](../task/activate-machine-identity-console.md)
+ [Learn the features and business value of Machine Identity Console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/explore-machine-identity-console.md)
 
 </td><td>
 
-Configure![Set](../../../reuse/icons/brand-icons/bus-sdlc.svg)
+[Activate![Activate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)](../task/activate-machine-identity-console.md)
+
+ [Understand how to Activate Machine Identity Console.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../task/activate-machine-identity-console.md)
+
+</td><td>
+
+Configure![Set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
  Configure Inbound integrations using the Machine Identity Console.
 

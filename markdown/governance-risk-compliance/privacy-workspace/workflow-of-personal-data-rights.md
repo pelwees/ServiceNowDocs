@@ -29,5 +29,5 @@ The detailed workflow is explained as follows:
 **Related topics**  
 
 
-[Using Personal Data Rights](using-personal-data-right.md)
+[Using Personal Data Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-personal-data-right.md)
 

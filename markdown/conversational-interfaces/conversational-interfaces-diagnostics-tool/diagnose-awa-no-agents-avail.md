@@ -41,7 +41,7 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 
     The Diagnostic Tool asks if you want to proceed with the diagnosis.
 
-    ![Virtual Agent chat window displaying question to user in Microsoft Teams asking to proceed with the diagnosis.](../image/ci-dt-microsoft-proceed-choices.png "Proceed or search again chat response") ![]( "Proceed or search again chat response")
+    ![Virtual Agent chat window displaying question to user in Microsoft Teams asking to proceed with the diagnosis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-microsoft-proceed-choices.png "Proceed or search again chat response") ![]( "Proceed or search again chat response")
 
 5.  Select **Yes** to continue.
 
@@ -51,9 +51,9 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 
     When the diagnosis is complete, the Diagnostic Tool displays a recommended solution.
 
-    ![Virtual Agent chat window displaying recommended solution.](../image/ci-dt-recommended-solution.png "Issue recommendation")
+    ![Virtual Agent chat window displaying recommended solution.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-recommended-solution.png "Issue recommendation")
 
-    ![Virtual Agent chat window displaying confirmation to proceed with workflow.](../image/ci-dt-proceed-with-topic-flow.png "Issue confirmation")
+    ![Virtual Agent chat window displaying confirmation to proceed with workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-proceed-with-topic-flow.png "Issue confirmation")
 
 7.  Select **Yes** to confirm, or select **No** to end the workflow.
 
@@ -71,10 +71,10 @@ Solve issues with your AWA configuration. For example, you can solve issues such
 
     -   Select **No** to confirm that the solution was helpful and to exit the workflow.
     -   You may see a link that you can use to download support data.
-    ![A link to download support data displays at the end of the workflow.](../image/ci-dt-download-support-data.png "Prompt to download support data")
+    ![A link to download support data displays at the end of the workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../image/ci-dt-download-support-data.png "Prompt to download support data")
 
 9.  Click the link to download support data.
 
 
-**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](../concept/using-ci-diagnostics-tool.md)
+**Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/../concept/using-ci-diagnostics-tool.md)
 

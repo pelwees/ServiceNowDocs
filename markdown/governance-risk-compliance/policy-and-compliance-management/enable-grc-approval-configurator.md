@@ -28,5 +28,5 @@ Role required: sn\_compliance.manager
 3.  Select **Save**.
 
 
-**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](../concept/grc-approval-configurator-for-policy-extension-and-exception.md)
+**Parent Topic:**[GRC Approval Configurator for approving policy exceptions and extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/grc-approval-configurator-for-policy-extension-and-exception.md)
 

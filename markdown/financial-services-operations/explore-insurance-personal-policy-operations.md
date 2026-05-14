@@ -87,5 +87,5 @@ Processors in the middle or back office of financial institutions who work with 
 -   Insurance underwriters
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Personal Lines Servicing](fso-ins-personal-policy-ops-landing-page.md)
+</table>**Parent Topic:**[Personal Lines Servicing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-personal-policy-ops-landing-page.md)
 

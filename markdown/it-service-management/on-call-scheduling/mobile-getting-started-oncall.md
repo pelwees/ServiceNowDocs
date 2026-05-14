@@ -47,5 +47,5 @@ Tap the QR icon \(Scan a QR code\), and then scan the QR code that was provided 
 </table>3.  Tap **Login**.
 
 
-**Parent Topic:**[Mobile experience for On-Call Scheduling](../concept/mobile-experience-ocs.md)
+**Parent Topic:**[Mobile experience for On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/mobile-experience-ocs.md)
 

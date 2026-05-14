@@ -28,7 +28,7 @@ Role required: admin
 
 The recommendation skill helps third-party risk assessors quickly identify issues by generating AI-driven suggestions based on the content of assessment responses. Recommendations simplify the process of associating issues and creating tasks, and are accessible when an external assessment questionnaire has received responses.
 
-To generate meaningful recommendations, data must be available from completed prior assessments and previously created issues. The recommendation skill uses these historical issues, along with their associated questions and responses, as reference data. After recommendations are generated, you can accept or dismiss them individually. For more information, see [Generate issue recommendations for TPRM](create-recommendation-tprm-issue.md).
+To generate meaningful recommendations, data must be available from completed prior assessments and previously created issues. The recommendation skill uses these historical issues, along with their associated questions and responses, as reference data. After recommendations are generated, you can accept or dismiss them individually. For more information, see [Generate issue recommendations for TPRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md).
 
 **Note:** If you want generated issues to be created using historical data for individual third party, you need to navigate to **All** &gt; **System Properties** &gt; **All** select `sn_tprm_genai.same_vendor_required` and set the property to true.
 
@@ -89,5 +89,5 @@ sn\_tprm\_genai.nowassist\_user
 
 ## What to do next
 
-You can now use the recommendation for TPRM issues skill. You can generate issue recommendations for questionnaires that are part of an external assessment with responses received. For more information, see [Generate issue recommendations for TPRM](create-recommendation-tprm-issue.md).
+You can now use the recommendation for TPRM issues skill. You can generate issue recommendations for questionnaires that are part of an external assessment with responses received. For more information, see [Generate issue recommendations for TPRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md).
 

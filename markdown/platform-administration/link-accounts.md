@@ -27,7 +27,7 @@ Role required: none
 
     The bot then presents a link to authenticate.
 
-    ![An authentication message displayed in Teams.](../../virtual-agent/images/va-teamsauthprompt.png "Authentication message")
+    ![An authentication message displayed in Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../virtual-agent/images/va-teamsauthprompt.png "Authentication message")
 
 4.  Click the **Connect to ServiceNow** link.
 
@@ -35,14 +35,14 @@ Role required: none
 
 5.  Click **Confirm** to link the accounts.
 
-    ![A confirmation prompt to allow a link between ServiceNow and Slack or Teams](../../virtual-agent/images/va-link-confirm-prompt.png)
+    ![A confirmation prompt to allow a link between ServiceNow and Slack or Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../virtual-agent/images/va-link-confirm-prompt.png)
 
 6.  After confirmation, you are directed to the instance user record.
 
     A confirmation message is displayed at the top of the screen.
 
-    ![The link confirmation message shown on the user record.](../../virtual-agent/images/va-link-confirm-success.png)
+    ![The link confirmation message shown on the user record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../virtual-agent/images/va-link-confirm-success.png)
 
 
-**Parent Topic:**[Notifications in messaging applications](../concept/messaging-integration.md)
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/messaging-integration.md)
 

@@ -17,7 +17,7 @@ For example, use a percent complete field to set the completion percentage for a
 
 Administrators can also configure views that compare actual progress with a target value to determine if goals are being met and then apply color to provide visual alerts where progress does not meet expectations.
 
-![A field labeled "% complete" with a value of 75.00.](../image/PercentComplete.png "Form view of a percent complete field")
+![A field labeled "% complete" with a value of 75.00.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PercentComplete.png "Form view of a percent complete field")
 
 ![List view of the Feature Tasks [feature_task] table demonstrating progress bars in the % complete column.](../image/PercentComplete3.png "List view of a percent complete field")
 

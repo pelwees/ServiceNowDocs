@@ -19,13 +19,13 @@ Report only on the licensable software products that are part of the current imp
 
 To be able to publish your software products, enable either the **com.snc.samp.manage.published.products** system property or the **com.snc.samp.manage.published.products** application property on your ServiceNow instance.
 
-**Note:** The application property is domain-specific and available only on a ServiceNow instance that has domain separation activated for Software Asset Management. For more information, see [Domain separation and Software Asset Management](../concept/domain-separation-software-asset-management.md) and [Set the domain-specific property to publish your software products](set-domain-specific-publish.md).
+**Note:** The application property is domain-specific and available only on a ServiceNow instance that has domain separation activated for Software Asset Management. For more information, see [Domain separation and Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/domain-separation-software-asset-management.md) and [Set the domain-specific property to publish your software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/set-domain-specific-publish.md).
 
 Role required: sam\_admin
 
 ## About this task
 
-**Note:** To view accurate data on the reports, you must [run software reconciliation](run-recon-workspace.md) whenever the following occur:
+**Note:** To view accurate data on the reports, you must [run software reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md) whenever the following occur:
 
 -   The system property **com.snc.samp.manage.published.products** is updated.
 -   The software products are published or removed from the list of published software.
@@ -52,12 +52,12 @@ Role required: sam\_admin
 -   The software products are added to the Published products list that is grouped by the publisher.
 -   After you publish the products and run software reconciliation, you can view reports specific to only those published products in the License usage view and Software asset overview.
 
-**Parent Topic:**[Manage phase-wise Software Asset Management implementation](../concept/manage-phasewise-imp-of-sam.md)
+**Parent Topic:**[Manage phase-wise Software Asset Management implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-phasewise-imp-of-sam.md)
 
 **Related topics**  
 
 
-[Set the domain-specific property to publish your software products](set-domain-specific-publish.md)
+[Set the domain-specific property to publish your software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/set-domain-specific-publish.md)
 
-[Remove published software products](remove-published-products.md)
+[Remove published software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/remove-published-products.md)
 

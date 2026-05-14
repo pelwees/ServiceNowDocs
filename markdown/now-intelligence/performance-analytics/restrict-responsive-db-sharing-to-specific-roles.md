@@ -21,7 +21,7 @@ Role required: admin.
 
 ## About this task
 
-Configure a dashboard property to specify a comma-separated list of roles that can share their own dashboards. Users with these roles can see the **Share** icon \(![Sharing icon](../image/SharingIcon.png)\) on responsive dashboards.
+Configure a dashboard property to specify a comma-separated list of roles that can share their own dashboards. Users with these roles can see the **Share** icon \(![Sharing icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/SharingIcon.png)\) on responsive dashboards.
 
 ## Procedure
 
@@ -42,10 +42,10 @@ Users with the specified roles can see the **Share** panel when they view a dash
 
 ## What to do next
 
-To apply security rules to what is visible in the **Share** panel, select the box labeled **Apply security rules to the list of users, user groups, and roles that are visible when sharing dashboards**. For more information, see [Restrict responsive dashboard sharing with security rules](restrict-responsive-db-sharing-w-security-rule.md).
+To apply security rules to what is visible in the **Share** panel, select the box labeled **Apply security rules to the list of users, user groups, and roles that are visible when sharing dashboards**. For more information, see [Restrict responsive dashboard sharing with security rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/restrict-responsive-db-sharing-w-security-rule.md).
 
 **Related topics**  
 
 
-[Share a responsive dashboard](t_ControlAccessToADashboard.md)
+[Share a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 

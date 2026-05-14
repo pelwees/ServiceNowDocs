@@ -31,7 +31,7 @@ To add processes to the filter, you must setup configurations using the Running 
 
     The form and descriptions are explained below.
 
-    ![Running process filters form](../image/running_process_filter_record.png)
+    ![Running process filters form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/running_process_filter_record.png)
 
 <table id="table_rxm_mty_rxb"><thead><tr><th>
 
@@ -117,14 +117,14 @@ OOB filters
 
 </td><td>
 
-There are Linux and Windows filters to choose from. See [Out-of-the-box process filters](out-of-the-box-process-filters.md) for more details.
+There are Linux and Windows filters to choose from. See [Out-of-the-box process filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/out-of-the-box-process-filters.md) for more details.
 
 </td></tr></tbody>
 </table>3.  Enter the details and select **Submit**.
 
 
--   **[Out-of-the-box process filters](out-of-the-box-process-filters.md)**  
+-   **[Out-of-the-box process filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/out-of-the-box-process-filters.md)**  
 There are a variety of Linux and Windows out-of-the-box running process filters that are turned on and used for filtering processes.
 
-**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 You can also use these artifacts as a reference material to solve similar requests in future.
 
-If the [external storage option](associate-categories-practice-area.md) is enabled, you can manage document access for users to see these attachments. For more information, see [Document access in a legal request](../concept/document-access-legal-request.md#).
+If the [external storage option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) is enabled, you can manage document access for users to see these attachments. For more information, see [Document access in a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/document-access-legal-request.md#).
 
 If the Privileged and Confidential status is enabled on a legal request, you can change the permission of attached documents from the Privileged Document Access tab.
 
@@ -31,7 +31,7 @@ If the Privileged and Confidential status is enabled on a legal request, you can
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal request by selecting an option under **Legal Requests**.
 
@@ -82,15 +82,15 @@ Steps
 
 </td><td>
 
-The attachment icon ![Attachment icon.](../image/add-attachment-icon.png) appears in the Counsel Assist side bar when the external storage option is not enabled.
+The attachment icon ![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/add-attachment-icon.png) appears in the Counsel Assist side bar when the external storage option is not enabled.
 
  1.  In the Counsel Assist sidebar, select the attachment icon.
 2.  In the **Attachments** pane, add, rename, or remove attachments.
-    -   To upload a document, select the **Browse** button or the add attachment icon \(![Add attachment icon.](../../ppe-inventory-management/image/plus-icon.png)\) and select a file.
+    -   To upload a document, select the **Browse** button or the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../ppe-inventory-management/image/plus-icon.png)\) and select a file.
 
-**Note:** The **Browse** button is available when the legal request has no attachments else the add attachment icon ![Add attachment icon.](../../ppe-inventory-management/image/plus-icon.png) is available.
+**Note:** The **Browse** button is available when the legal request has no attachments else the add attachment icon ![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../ppe-inventory-management/image/plus-icon.png) is available.
 
-    -   To rename an attached file, select the actions icon \(![Actions icon.](../image/more-actions-icon.png)\), select **Rename** and update the file name.
+    -   To rename an attached file, select the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/more-actions-icon.png)\), select **Rename** and update the file name.
     -   To delete an attached file, select the actions icon, select **Remove**.
     -   To download an attached file, select the actions icon, select **Download**.
 
@@ -114,7 +114,7 @@ In the **Documents** tab, a link to the document is listed in the **External URL
 
     1.  In the **Documents** tab, select a document from the list that you want to delete.
     2.  Select **Delete**.
-Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal request](../concept/document-access-legal-request.md#).
+Access to these documents to various users is controlled in multiple ways. For more information on managing document access, see [Document access in a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/document-access-legal-request.md#).
 
 </td></tr><tr><td id="d78477e348">
 
@@ -135,8 +135,8 @@ Change permissions for documents.1.  In the **Privileged Document Access** tab, 
 
 </td></tr></tbody>
 </table>
--   **[Document access in a legal request](../concept/document-access-legal-request.md#)**  
+-   **[Document access in a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/document-access-legal-request.md#)**  
 Documents attached to legal requests are uploaded to the configured external storage system when the external storage option is enabled on the legal request intake form. The access of these documents to various personas is controlled in real time, via a scheduled job, or on-demand.
 
-**Parent Topic:**[Work on a legal request](work-on-legal-request.md)
+**Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 

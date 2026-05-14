@@ -33,7 +33,7 @@ A configurable product offering, also called a complex product offering, has mul
         -   To copy an offering, navigate to **Offerings** &gt; **Product Offerings**, select the offering to be copied, and select **Copy**.
     3.  In the Details tab, fill in the fields to create a configurable product or modify the copy to create a product.
 
-        **Note:** For details on creating a product offering, see [Create product offerings](som-create-product-offering.md). To identify the offering as a configurable product, select the **Configurable** option in the form, even if there are no characteristics or relationships defined. Selecting the **Configurable** option indicates that the product offering is to be configured using the CPQ Configurator.
+        **Note:** For details on creating a product offering, see [Create product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md). To identify the offering as a configurable product, select the **Configurable** option in the form, even if there are no characteristics or relationships defined. Selecting the **Configurable** option indicates that the product offering is to be configured using the CPQ Configurator.
 
     4.  Select **Save**.
 

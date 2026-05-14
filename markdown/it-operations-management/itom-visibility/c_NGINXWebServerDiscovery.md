@@ -53,7 +53,7 @@ The following probes require execute privileges to run commands:
 |Nginx – Version|nginx|
 |Nginx – Get Configuration|echo, sed, httpd, cut, grep, egrep \(within the Bourne shell script\)|
 
-**Note:** The Nginx pattern performs top-down discovery on both Windows and Linux servers. For information on prerequisites for top-down discovery for NGINX web servers, see [Prerequisites for performing top-down discovery using Service Mapping](../../service-mapping/reference/prerequisites-service-mapping.md).
+**Note:** The Nginx pattern performs top-down discovery on both Windows and Linux servers. For information on prerequisites for top-down discovery for NGINX web servers, see [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/reference/prerequisites-service-mapping.md).
 
 ## Probes and Sensors
 
@@ -102,5 +102,5 @@ In the table \[cmdb\_rel\_ci\] the following relationships are populated:
 -   The records in the cmdb\_ci\_pool table are members of the cmdb\_ci\_pool\_member table.
 -   The records in the cmdb\_ci\_pool\_member table are members of cmdb\_ci\_pool table.
 
-**Parent Topic:**[Software discovery](c_Software.md)
+**Parent Topic:**[Software discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 

@@ -463,5 +463,5 @@ Determines how many alert notifications are generated. This is always set to **G
  Default: Global
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Stream Connect alerting](../concept/stream-connect-alert.md)
+</table>**Parent Topic:**[Stream Connect alerting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/stream-connect-alert.md)
 

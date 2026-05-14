@@ -15,7 +15,7 @@ breadcrumb: [Explore, Policy and Compliance Management, Governance, Risk, and Co
 
 The structural overview of Policy and Compliance Management enables you to understand how the different modules that make up the Policy and Compliance Management application of ServiceNow integrate and interact with one another.
 
-![Infographic for structural process flow of the modules in Policy and Compliance. For text description refer to the steps in the process flow.](../image/p-c-process-flow-comp-updte-ovrv.png "Structural overview of the modules in Policy and Compliance")
+![Infographic for structural process flow of the modules in Policy and Compliance. For text description refer to the steps in the process flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/p-c-process-flow-comp-updte-ovrv.png "Structural overview of the modules in Policy and Compliance")
 
 -   **Authority document**
 

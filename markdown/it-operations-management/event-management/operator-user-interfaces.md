@@ -23,11 +23,11 @@ Lesson 1
 
 </td><td align="justify">
 
-![Overview icon](../image/progress-complete2.png)
+![Overview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[An overview of events and alerts](operator-events-alerts.md)
+[An overview of events and alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-events-alerts.md)
 
 </td></tr><tr><td>
 
@@ -35,11 +35,11 @@ Lesson 2
 
 </td><td align="justify">
 
-![Overview BS icon](../image/progress-complete2.png)
+![Overview BS icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-complete2.png)
 
 </td><td>
 
-[An overview of application services](operator-application-services.md)
+[An overview of application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-application-services.md)
 
 </td></tr><tr><td>
 
@@ -47,7 +47,7 @@ Lesson 3
 
 </td><td align="justify">
 
-![Operators icon](../image/progress-wip.png)
+![Operators icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-wip.png)
 
 </td><td>
 
@@ -59,18 +59,18 @@ Lesson 4
 
 </td><td align="justify">
 
-![Operators do icon](../image/progress-not-started.png)
+![Operators do icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/progress-not-started.png)
 
 </td><td>
 
-[What operators do](operator-process.md)
+[What operators do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)
 
 </td></tr></tbody>
 </table>## The Service Operations Workspace dashboard
 
 Your main area of work is the Service Operations Workspace dashboard, which provides a view that focuses on how alerts relate to application services. From here, you can drill into each application services to see the affected CIs and get an understanding of the overall impact of whatever caused the alert. To open the dashboard, navigate to **Event Management** &gt; **Service Operations Workspace**.
 
-![Service Operations Workspace dashboard overview](../image/operator-workspace-dashboard.png "Service Operations Workspace")
+![Service Operations Workspace dashboard overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-workspace-dashboard.png "Service Operations Workspace")
 
 The main sections of the dashboard are:
 
@@ -82,7 +82,7 @@ The main sections of the dashboard are:
 
 Click a severity level to show or hide application services based on the alerts associated with them.
 
- ![Severity slider](../image/severity-breakdown.png)
+ ![Severity slider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/severity-breakdown.png)
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Use the **Group** and **Segment** controls to organize the view.
 
  **Note:** Your administrator assigns an application the criticality and cost value to your application services.
 
-![Prioritize by](../image/group-and-segment-controls.png "Group and Segment filters")
+![Prioritize by](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/group-and-segment-controls.png "Group and Segment filters")
 
 </td></tr></tbody>
 </table>-   **Application services**
@@ -101,24 +101,24 @@ Use the **Group** and **Segment** controls to organize the view.
 
 Click a tile to show a summary of alerts associated with the application service. Click to view details or the service map.
 
- ![Alerts for an application service](../image/dashboard-alert-summary-popup.png)
+ ![Alerts for an application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/dashboard-alert-summary-popup.png)
 
 </td></tr></tbody>
 </table>-   **Alerts**
 
-    Click the List icon \(![List icon](../../event-management/image/list-icon.png)\). On the Lists tab, click the kind of alert to view.
+    Click the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../event-management/image/list-icon.png)\). On the Lists tab, click the kind of alert to view.
 
 <table id="table_zkt_jlr_hdb"><tbody><tr><td>
 
 You can filter or sort the list to find an alert. Sort by any alert details, such as the **Priority**, which considers multiple factors for how serious the alert is, or the **Severity**, which is value provided by the event monitoring tool.
 
- ![Sort icon](../image/sort-by-severity.png)
+ ![Sort icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/sort-by-severity.png)
 
 </td></tr><tr><td>
 
 Open any alert by clicking the number.
 
- ![Alert number icon](../image/operator-dashboard-click-alert.png)
+ ![Alert number icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-click-alert.png)
 
 </td></tr></tbody>
 </table>    You will learn about what each of the columns means for an alert later on when you analyze an alert.
@@ -130,7 +130,7 @@ Double-click the name of an application service tile to open one of the applicat
 
 -   **For a manual or standard application service, this view appears:**
 
-    ![An application service](../image/operator-manual-service-dashboard.png)
+    ![An application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-manual-service-dashboard.png)
 
     The application service map that you were introduced to in a previous lesson appears in the main panel. This is what you can do from this view:
 
@@ -138,19 +138,19 @@ Double-click the name of an application service tile to open one of the applicat
 
 Click any of the CIs to see the alerts only for that CI and to display the details about that CI in the **Properties** pane.
 
- ![Click CI to see alerts](../image/operator-dashboard-click-ci.png)
+ ![Click CI to see alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-click-ci.png)
 
 </td></tr><tr><td>
 
 Click **Impact Tree** to see the state of all the CIs and how they affect each other when receiving an alert. You will learn more about the impact tree later on in the tutorial.
 
- ![Impact tree](../image/operator-dashboard-impact.png)
+ ![Impact tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-impact.png)
 
 </td></tr><tr><td>
 
 Open any alert from the **Alerts** list at the bottom by clicking the number.
 
- ![Alert number icon](../image/operator-dashboard-click-alert.png)
+ ![Alert number icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-click-alert.png)
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Open any alert from the **Alerts** list at the bottom by clicking the number.
 </td></tr></tbody>
 </table>-   **For a technical application service, this view appears:**
 
-    ![Technical service](../image/operator-technical-service-dashboard.png)
+    ![Technical service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-technical-service-dashboard.png)
 
     This is what you can do from this view:
 
@@ -167,19 +167,19 @@ Open any alert from the **Alerts** list at the bottom by clicking the number.
 
 Click any CI to view details about it.
 
- ![Click a database](../image/operator-technical-service-dashboard-db.png)
+ ![Click a database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-technical-service-dashboard-db.png)
 
 </td></tr><tr><td>
 
 Open any alert from the **Alerts** list at the bottom by clicking the number.
 
- ![Alert number icon](../image/operator-dashboard-click-alert.png)
+ ![Alert number icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/operator-dashboard-click-alert.png)
 
 </td></tr></tbody>
 </table>
 ## Continue the tutorial
 
-Proceed to the next lesson: [What Event Management operators do](operator-process.md).
+Proceed to the next lesson: [What Event Management operators do](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md).
 
-**Parent Topic:**[Event Management Operator Tutorial](operator-guide-em.md)
+**Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 

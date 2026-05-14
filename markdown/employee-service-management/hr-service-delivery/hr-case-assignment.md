@@ -20,10 +20,10 @@ Assignment and matching rules and AWA use the platform Skill Management applicat
 -   Assignment and matching rules associate skills using HR case templates.
 -   AWA uses skill determination rules.
 
--   **[Advanced Work Assignment \(AWA\) for HR Service Delivery](hr-awa.md)**  
+-   **[Advanced Work Assignment \(AWA\) for HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-awa.md)**  
 Use the ServiceNow Advanced Work Assignment for HR Service Delivery feature to automatically assign HR cases to agents based on availability, capacity, and skills.
--   **[Assignment and matching rules in HR](c_UseAssignmentRules-1.md)**  
+-   **[Assignment and matching rules in HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_UseAssignmentRules-1.md)**  
 The base system uses the automatic case assignment feature to assign an HR case to an agent. It attempts to assign an agent with the least number of cases assigned, has the skills required by the case, and matches the location of the subject person.
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 

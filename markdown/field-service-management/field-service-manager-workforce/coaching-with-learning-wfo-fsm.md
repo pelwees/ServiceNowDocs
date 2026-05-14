@@ -15,7 +15,7 @@ breadcrumb: [Coaching, Workforce Optimization, Managing workforce, Use, Field Se
 
 Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content in catalogs. Assign learning tasks and track completion.
 
-**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** Coaching with Learning is available when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/activate-wfo-fsm.md).
 
 ## Create a learning library
 
@@ -29,7 +29,7 @@ Role required: sn\_lc.catalog\_manager
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
 
 3.  Click the **Learning** tab.
 
@@ -82,13 +82,13 @@ Role required: sn\_lc.task\_creator
 
 ### About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Field Service components](../reference/components-wfo-fsm.md).
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../reference/components-wfo-fsm.md).
 
 ### Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching icon \(![Coaching icon](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
+2.  Click the Coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
 
 3.  Click **Learning Tasks** and select **All Tasks**.
 
@@ -156,7 +156,7 @@ Role required: sn\_lc.content\_creator
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching icon \(![Coaching icon](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
+2.  Click the Coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
 
 3.  Click **Learning Courses** and select **Internal Courses**.
 
@@ -265,7 +265,7 @@ Role required: sn\_lc.learning\_admin
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching icon \(![Coaching icon](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
+2.  Click the Coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\).
 
 3.  Click the **Learning** tab.
 

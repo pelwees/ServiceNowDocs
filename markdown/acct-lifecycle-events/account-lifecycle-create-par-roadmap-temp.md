@@ -94,7 +94,7 @@ Enter a description of the template's purpose and the adoption approach it repre
 
     All items appear in the Unmapped lane.
 
-    ![Product adoption roadmap template](../image/product-adopt-road-temp.jpg)
+    ![Product adoption roadmap template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/product-adopt-road-temp.jpg)
 
 5.  To organize the items, follow these steps:
 
@@ -114,12 +114,12 @@ Enter a description of the template's purpose and the adoption approach it repre
 
 The template is created with items organized into lanes. When you create a roadmap from this template, the items are already arranged according to the template's organization, eliminating the need to organize them from scratch. You can customize the roadmap for your specific needs while maintaining the template's structure.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-config-cust-success.md)
 
 **Related topics**  
 
 
-[View a product adoption roadmap](../concept/account-lifecycle-view-par-roadmap.md)
+[View a product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-view-par-roadmap.md)
 
-[Product adoption roadmap](../concept/account-lifecycle-par-roadmap.md)
+[Product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-par-roadmap.md)
 

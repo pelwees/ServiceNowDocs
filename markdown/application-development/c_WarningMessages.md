@@ -13,7 +13,7 @@ breadcrumb: [Lists and forms in scoped applications, Contextual development envi
 
 The platform displays a message if you attempt to edit a Store Application record when you're in a different application scope.
 
-![If you're not in the scope for a store application, a message appears with options to edit the record or switch scope.](../image/ApplicationContextWarningMessage.png "Application context edit message")
+![If you're not in the scope for a store application, a message appears with options to edit the record or switch scope.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ApplicationContextWarningMessage.png "Application context edit message")
 
 This message can be used to:
 
@@ -25,7 +25,7 @@ This message can be used to:
 
 The system also displays a message when a user attempts to configure a list or form layout while working from another application scope.
 
-![If you want to edit a list or form layout from a different scope, a message appears with some options for editing.](../image/FormLayoutContextWarnings.png "Application context edit message for form layout or design")
+![If you want to edit a list or form layout from a different scope, a message appears with some options for editing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FormLayoutContextWarnings.png "Application context edit message for form layout or design")
 
 The message provides a list of valid options:
 

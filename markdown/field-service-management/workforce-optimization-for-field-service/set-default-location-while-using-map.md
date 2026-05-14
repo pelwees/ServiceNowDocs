@@ -17,7 +17,7 @@ Set the initial default location for a service location on a map.
 
 ## Before you begin
 
-The **Using map** validation option must be set before you can configure the initial default location on a map. See [Set the default validation option for service locations](set-default-validation-option-for-service-locations.md).
+The **Using map** validation option must be set before you can configure the initial default location on a map. See [Set the default validation option for service locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/set-default-validation-option-for-service-locations.md).
 
 Role required: admin
 

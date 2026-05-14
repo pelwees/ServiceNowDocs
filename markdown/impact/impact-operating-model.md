@@ -21,14 +21,14 @@ Delivered by your Impact Squad, our unique operating model includes a fit-for-pu
 
     The Impact program is comprised of two phases, Foundations and Steady State. Foundations kicks off the experience and defines the value baseline, and the Steady State cadence keeps you on track with your Impact plan and associated business goals.
 
-    -   **[Impact Foundations](foundations.md)**
+    -   **[Impact Foundations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/foundations.md)**
 
         Connects vision to action by baselining your current state and giving you a tailored plan to quicken your time to value. Foundations lays the groundwork for every action you take on the platform.
 
-    -   **[Impact Steady State](impact-steady-state.md)**
+    -   **[Impact Steady State](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-steady-state.md)**
 
         Impact's standard initiatives are executed in consistent, timely intervals to keep you on pace.
 
-    ServiceNow Impact packages comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see [Impact packages](../reference/impact-packages.md).
+    ServiceNow Impact packages comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see [Impact packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/impact-packages.md).
 
 

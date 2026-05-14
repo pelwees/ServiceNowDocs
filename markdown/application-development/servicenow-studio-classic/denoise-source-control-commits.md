@@ -17,7 +17,7 @@ As a source control developer, you can merge the Git branches, without getting n
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 ## Overview of de-noising
 
@@ -121,5 +121,5 @@ The following fields are the system-generated values that the admin sees:
 
 The sys\_id field for tables are saved in the corresponding “dictionary/&lt;tablename&gt;.xml” so that they are not regenerated during the installation in the instance, other than when tables are created. The result is that the noise is reduced from all the XML files that reference the sys\_id of the table or represent the sys\_db\_object record for this table.
 
-**Parent Topic:**[Legacy - Source Control integration](c_SourceControlIntegration.md)
+**Parent Topic:**[Legacy - Source Control integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/c_SourceControlIntegration.md)
 

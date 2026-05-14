@@ -23,7 +23,7 @@ ServiceNow DevOps supports processing parallel and nested stages in Jenkins pipe
 
 **Important:** Support for parallel and nested stages is restricted to scripted pipelines in Jenkins. Freestyle pipelines continue to appear in a sequential or serial manner in the DevOps pipeline UI, even if parallel and nested stages are part of freestyle pipelines in Jenkins.
 
-![Jenkins pipeline with nested or parallel stages](../image/jenkins-nested-pipeline.png "Jenkins pipeline with nested or parallel stages")
+![Jenkins pipeline with nested or parallel stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jenkins-nested-pipeline.png "Jenkins pipeline with nested or parallel stages")
 
 Sample pipeline with nested or parallel stages
 

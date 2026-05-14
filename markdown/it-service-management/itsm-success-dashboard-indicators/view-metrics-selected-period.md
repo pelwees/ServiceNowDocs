@@ -27,7 +27,7 @@ Role required: user
 
 3.  Select **Show calendar**.
 
-    ![View the Show calendar option on the success dashboard page](../image/show-calendar-option.png)
+    ![View the Show calendar option on the success dashboard page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/show-calendar-option.png)
 
 4.  Select the year, and the month.
 
@@ -38,5 +38,5 @@ Role required: user
     The values of all the KPIs including the contributing KPIs for the selected criteria is displayed on the dashboard. The data is refreshed for each selected criteria.
 
 
-**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](../concept/measuring-performance-success-dashboard.md)
+**Parent Topic:**[Maximise the benefits of using the ITSM Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/measuring-performance-success-dashboard.md)
 

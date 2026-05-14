@@ -38,8 +38,8 @@ Role required: sn\_sd.success\_dashboard\_admin
 7.  Right-click on the header and select **Save**.
 
 
--   **[Configure the knowledge base for ITSM Success Dashboard indicators](configure-knowledge-sdb.md)**  
+-   **[Configure the knowledge base for ITSM Success Dashboard indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-knowledge-sdb.md)**  
 Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in ITSM Success Dashboard indicators.
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/admin-console-sd.md)
 

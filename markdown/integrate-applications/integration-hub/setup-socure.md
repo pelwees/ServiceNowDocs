@@ -30,13 +30,13 @@ Integrate the ServiceNow instance and Socure account using an API key to authent
 
     2.  Search for the **My IP Information** service catalog item.
 
-        ![Search for the service catalog item.](../image/socure-ip-instance.png)
+        ![Search for the service catalog item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/socure-ip-instance.png)
 
     3.  Click the service catalog item.
 
     4.  Provide your instance name in **Select the instance**.
 
-        ![Provide the instance name.](../image/socure-ip-instance-num.png)
+        ![Provide the instance name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/socure-ip-instance-num.png)
 
     5.  Click **Submit**.
 
@@ -44,7 +44,7 @@ Integrate the ServiceNow instance and Socure account using an API key to authent
 
     6.  Copy and record the IP addresses for later use.
 
-        ![Copy the IP addresses.](../image/snow-ip-addresses.png)
+        ![Copy the IP addresses.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/snow-ip-addresses.png)
 
 2.  Obtain the value of token from your Socure admin account.
 

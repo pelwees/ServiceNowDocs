@@ -77,5 +77,5 @@ The **Policy Input** and **Policy Conditions** tabs display the inputs and condi
 
 **Note:** Policy conditions can be created from here, but as a good practice it is recommended to add new policy conditions from policy page.
 
-![Account Recovery Context](../image/account-recovery.png)
+![Account Recovery Context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/account-recovery.png)
 

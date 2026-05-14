@@ -21,14 +21,14 @@ Configure web services within ServiceNow.
 
     This module displays the system properties that are specific to web services within your instance. For security reasons, you will want to make sure that you require basic authorization for incoming SOAP requests. This ensures that only authenticated users will be able to make any web services calls, whether it be via web service import sets or inserting/deleting/querying via direct web services.
 
-    ![Web services properties top](../image/WebServicesPropertiesTop.png)
+    ![Web services properties top](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/WebServicesPropertiesTop.png)
 
 2.  This next step is very important if you are using .NET as a client to connect to ServiceNow. You must set the **elementFormDefault** property to false.
 
     This property defines how the WSDLs are qualified. Of course, if you do not consume our WSDL and just create the XML manually, then this property is irrelevant.
 
-    ![Element form default property](../image/ElementFormDefaultProperty.png)
+    ![Element form default property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ElementFormDefaultProperty.png)
 
 
-**Parent Topic:**[Web services C Sharp .NET end to end tutorial](../concept/c_CSharpNETEndEnd.md)
+**Parent Topic:**[Web services C Sharp .NET end to end tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_CSharpNETEndEnd.md)
 

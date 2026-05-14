@@ -25,7 +25,7 @@ After you configure Discovery to use gMSA, password management for that account 
 -   The gMSA user doesn't need to be member of a domain admin group.
 -   The gMSA user used as the MID Server service account doesn't need to be on the local admin group of the MID Server.
 
-**Parent Topic:**[Advanced Discovery configuration](c_DiscoveryExtendedCapabilities.md)
+**Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
 ## Configure gMSA for Discovery
 

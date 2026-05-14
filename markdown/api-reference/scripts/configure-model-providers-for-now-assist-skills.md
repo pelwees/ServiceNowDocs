@@ -19,7 +19,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 AI stewards can enable or disable AI model providers in the AI Control Tower. Administrators set the default AI model providers for Now Assist skills in your instance through the Now Assist Admin console. As a user, you can override the instance default AI model provider and select a different model provider for Now Assist for Code skills in the script editor.
 
-**Parent Topic:**[Configuring Now Assist for Code](../concept/configuring-now-assist-code.md)
+**Parent Topic:**[Configuring Now Assist for Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/configuring-now-assist-code.md)
 
 ## Set default AI model providers for your instance
 
@@ -39,7 +39,7 @@ Set the default AI model providers for Now Assist skills in your instance throug
 
 2.  Go to the **Manage model providers** tab and select **Model Providers**.
 
-    ![Manage model providers](../image/now-assist-code-manage-model-provider.png)
+    ![Manage model providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-manage-model-provider.png)
 
 3.  Change the model provider by selecting **Edit LLM Provider**.
 
@@ -62,7 +62,7 @@ Description
 1.  In the Edit model provider Window, set the edit scope to **Instance**.
 2.  From the Default model provider list, select a model provider.
 3.  Select **Save and activate**.
- ![Select a model provider for all the skill groups and skills in the instance.](../image/now-assist-code-llm-instance.png)
+ ![Select a model provider for all the skill groups and skills in the instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-llm-instance.png)
 
 </td></tr><tr><td id="d723657e255">
 
@@ -76,7 +76,7 @@ Description
     2.  From the Default LLM provider list, select a model provider.
     3.  Select **Save and activate**
 
-![Select model provider for a skill group.](../image/now-assist-code-llm-customize-skill-group.png)
+![Select model provider for a skill group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-llm-customize-skill-group.png)
 
 </td></tr><tr><td id="d723657e308">
 
@@ -92,7 +92,7 @@ Description
     3.  Select **Save and activate**.
 **Note:** You can select a different model provider for each skill.
 
-![Select model provider for specific skills.](../image/now-assist-code-llm-customize-skill.png)
+![Select model provider for specific skills.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-llm-customize-skill.png)
 
 </td></tr></tbody>
 </table>
@@ -124,7 +124,7 @@ AI stewards can enable or disable AI model providers in the AI Control Tower. Ad
 
 3.  Select a model provider.
 
-    ![From the list of AI Providers, select a model provider.](../image/now-assist-code-settings.png)
+    ![From the list of AI Providers, select a model provider.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/now-assist-code-settings.png)
 
 
 ### Result

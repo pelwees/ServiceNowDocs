@@ -47,7 +47,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 4.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](../concept/now-assist-skill-inputs.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../concept/now-assist-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 
@@ -65,9 +65,9 @@ From the Now Assist Admin console, you can select the input table, related recor
 
         Add multiple base input fields, as necessary.
 
-        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](../image/customize-now-assist-tmt.png "View input step")
+        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-now-assist-tmt.png "View input step")
 
-        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](../image/customize-service-problem-case.png "View input step")
+        ![View of all the input tables and fields that are used to define the prompt that will determine where to pull the data from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-service-problem-case.png "View input step")
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -128,9 +128,9 @@ Description of the base input field value.
 
     3.  Select a case record in the Test response section, and test the prompt response output format by selecting **Run Test**.
 
-        ![Selection of new sections that can be included in the summary for each input template.](../image/customize-prompt-now-assist-tmt.png "Customize prompt step")
+        ![Selection of new sections that can be included in the summary for each input template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-prompt-now-assist-tmt.png "Customize prompt step")
 
-        ![Selection of new sections that can be included in the summary for each input template.](../image/customize-prompt-service-problem-case.png "Customize prompt step")
+        ![Selection of new sections that can be included in the summary for each input template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-prompt-service-problem-case.png "Customize prompt step")
 
     4.  Select **Save and continue** to go to the next step.
 
@@ -138,11 +138,11 @@ Description of the base input field value.
 
     Review the prompt for each input template.
 
-    ![customize prompt output.](../image/customize-prompt-customer-service-skill.png)
+    ![customize prompt output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-prompt-customer-service-skill.png)
 
     1.  Select **Edit prompt in Now Assist Skill Kit** to visit Now Assist Skill Kit.
 
-        ![edit prompt.](../image/edit-prompt-now-assist-skill-kit.png)
+        ![edit prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/edit-prompt-now-assist-skill-kit.png)
 
     2.  Select **Go to Now Assist Skill Kit** to review and modify the prompt.
 
@@ -150,11 +150,11 @@ Description of the base input field value.
 
     Review the prompt for each input template.
 
-    ![customize prompt output.](../image/customize-prompt-risk-signals.png)
+    ![customize prompt output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/customize-prompt-risk-signals.png)
 
     1.  Select **Edit prompt in Now Assist Skill Kit** to visit Now Assist Skill Kit.
 
-        ![edit prompt.](../image/edit-prompt-risk-signals.png)
+        ![edit prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/edit-prompt-risk-signals.png)
 
     2.  Select **Go to Now Assist Skill Kit** to review and modify the prompt.
 

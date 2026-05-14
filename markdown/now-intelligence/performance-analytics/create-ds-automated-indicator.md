@@ -20,9 +20,9 @@ To analyze the performance of a business process that is recorded in a ServiceNo
 Determine whether your use case meets the following requirements:
 
 -   Your license enables you to create indicators.
--   You have Data snapshots enabled on your instance. For more information, see [Activate Data snapshots](activate-unlimited-breakdowns.md#).
--   You have a suitable Data snapshots source. For more information, see [Data snapshots sources and collection](../reference/tables-unlimited-breakdowns.md).
--   You don’t need to apply a scripted breakdown, such as an Age bucket group, or a scripted aggregate to the indicator. If you need such a breakdown or aggregate, create a classic indicator instead. For more information, see [Create an automated indicator](t_CreateAnAutomatedIndicator.md#).
+-   You have Data snapshots enabled on your instance. For more information, see [Activate Data snapshots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/activate-unlimited-breakdowns.md#).
+-   You have a suitable Data snapshots source. For more information, see [Data snapshots sources and collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../reference/tables-unlimited-breakdowns.md).
+-   You don’t need to apply a scripted breakdown, such as an Age bucket group, or a scripted aggregate to the indicator. If you need such a breakdown or aggregate, create a classic indicator instead. For more information, see [Create an automated indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAnAutomatedIndicator.md#).
 
 Role required: pa\_power\_user or higher
 
@@ -34,11 +34,11 @@ Role required: pa\_power\_user or higher
 
 2.  Follow one of these procedures to start creating a Data snapshots automated indicator:
 
-    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](create-indicator-from-library.md).
+    -   Create an indicator from the Indicator library, as described in [Create an indicator from the library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-indicator-from-library.md).
     -   Navigate to **All** &gt; **Data Snapshots** &gt; **Indicators** &gt; **Automated Indicators - Data Snapshots** and select **New**.
 3.  If you selected **Create indicator** from the indicator library, select the Automated indicator type and Data snapshots source type.
 
-    ![Create new indicator page opened from indicator library.](../image/create-new-indicator-page.png)
+    ![Create new indicator page opened from indicator library.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/create-new-indicator-page.png)
 
 4.  If the **Name** and **Description** fields are empty, give the indicator a meaningful name and description.
 
@@ -50,9 +50,9 @@ Role required: pa\_power\_user or higher
 
 6.  In the **Source** field, select from the existing Data snapshots sources.
 
-    If there are no sources, or none of the sources are suitable, select **New**. Follow the procedure in [Create a Data snapshots source](create-ds-source.md).
+    If there are no sources, or none of the sources are suitable, select **New**. Follow the procedure in [Create a Data snapshots source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-ds-source.md).
 
-    ![Data snapshots list for the Sources field on the Data snapshots Indicator form, showing New button.](../image/ds-sources-for-indicator.png)
+    ![Data snapshots list for the Sources field on the Data snapshots Indicator form, showing New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ds-sources-for-indicator.png)
 
     When you select a source, the fact table field is automatically populated and read-only. The available calendars are populated, and if the source supports only one calendar, this field is read-only.
 
@@ -136,7 +136,7 @@ Conditions to apply to fields on the Data snapshots source so as to filter which
 
 Here you have an automated Data snapshots indicator built on a source with a daily frequency.
 
-![A simple record of a Data snapshots indicator built from scratch.](../image/ds-ind-record-simple.png)
+![A simple record of a Data snapshots indicator built from scratch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ds-ind-record-simple.png)
 
 Note the following points:
 
@@ -151,7 +151,7 @@ Note the following points:
 
 Here you have an indicator whose source is based on an intraday calendar. Intraday indicators can be created only from sources where the Data frequency is All Activity.
 
-![Indicator record with a calendar frequency based on factory shifts.](../image/ds-ind-record-intraday.png)
+![Indicator record with a calendar frequency based on factory shifts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ds-ind-record-intraday.png)
 
 Note the following points:
 
@@ -163,11 +163,11 @@ Note the following points:
 
 In the Intraday indicator example, you had an indicator that used the Actual shift field for trending. The resulting scores are the number of Industrial Guided Tasks \(IGT\) that are created on each shift.
 
-![KPI Details showing IGT tasks created by shift.](../image/ds-trendby-on.png)
+![KPI Details showing IGT tasks created by shift.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ds-trendby-on.png)
 
 If no Trend by field is selected, the data doesn’t show IGT tasks created by each shift. Instead, the data shows the cumulative number of IGT tasks created over the chart time period.
 
-![KPI Details showing cumulative IGT tasks created.](../image/ds-trendby-off.png)
+![KPI Details showing cumulative IGT tasks created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ds-trendby-off.png)
 
-**Parent Topic:**[Data snapshots and multiple breakdowns](../concept/multi-level-breakdowns.md)
+**Parent Topic:**[Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/multi-level-breakdowns.md)
 

@@ -24,7 +24,7 @@ Subscription required: Integration Hub Enterprise pack
 
 2.  Select **Create New** &gt; **Flow**.
 
-    ![Create Flow button.](../images/create-flow.png)
+    ![Create Flow button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/create-flow.png)
 
 3.  Fill out the **Flow properties** form.
 
@@ -103,15 +103,15 @@ Roles that the flow runs with. This option is only available when **Run as** is 
 
     2.  Under the INSTALLED SPOKES heading, select a spoke from the Trigger list.
 
-        ![Select spoke.](../images/select-spoke.png)
+        ![Select spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-spoke.png)
 
     3.  Select the predefined external trigger definition.
 
-        ![External trigger definition.](../images/select-external-trigger-definition.png)
+        ![External trigger definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/select-external-trigger-definition.png)
 
     4.  To define the conditions for the flow to execute, in the Condition 1 field, drag the appropriate data pill and enter the value.
 
-        ![Datapill use.](../images/datapill-flow.png)
+        ![Datapill use.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/datapill-flow.png)
 
     5.  To define an extra condition, select **OR** or **AND**.
 
@@ -125,7 +125,7 @@ Roles that the flow runs with. This option is only available when **Run as** is 
 
 6.  Set up the actions from the Action Picker.
 
-    1.  Under ACTIONS, select ![Action Picker icon.](../images/action-designer.png).
+    1.  Under ACTIONS, select ![Action Picker icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/action-designer.png).
 
     2.  Select **Action**.
 
@@ -140,5 +140,5 @@ Roles that the flow runs with. This option is only available when **Run as** is 
     You've set up the flow.
 
 
-**Parent Topic:**[Conditional and event-driven inbound integration](../concept/conditional-and-event-driven-inbound-integration.md)
+**Parent Topic:**[Conditional and event-driven inbound integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/conditional-and-event-driven-inbound-integration.md)
 

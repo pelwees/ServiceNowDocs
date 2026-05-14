@@ -31,7 +31,7 @@ If your use case meets the criteria for a multiple visualization data resource, 
 
 ### Before you begin
 
-Review the use case for a single data resource for multiple visualizations in [Local data instances for multiple data visualizations](local-data-instance-multi-viz.md#).
+Review the use case for a single data resource for multiple visualizations in [Local data instances for multiple data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/local-data-instance-multi-viz.md#).
 
 Role required: ui\_builder\_admin, admin
 
@@ -49,13 +49,13 @@ Role required: ui\_builder\_admin, admin
 
 3.  In the Data and scripts drawer, under Data resources, select **+ Add data resource**.
 
-    ![Add data resource link when there are no data resources yet.](../../par-for-workspace/image/add-data-resource.png)
+    ![Add data resource link when there are no data resources yet.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/add-data-resource.png)
 
 4.  In the Select a data resource window, search for `Data visualization`.
 
     You get a selection of the data resources you can use.
 
-    ![Selection of Data Visualization API data resources, including the one for multiple data visualizations.](../../par-for-workspace/image/dv-multiviz-data-resource.png)
+    ![Selection of Data Visualization API data resources, including the one for multiple data visualizations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-multiviz-data-resource.png)
 
 5.  Select "Data Visualization API for multiple data visualizations."
 
@@ -148,7 +148,7 @@ Each visualization also has a **configurations** property, containing only a **d
 
 The final configuration of the data resource looks like this:
 
-![Complete configuration of dashboard data broker.](../../par-for-workspace/image/db-data-res-mult-viz-config.png)
+![Complete configuration of dashboard data broker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/db-data-res-mult-viz-config.png)
 
 Lastly, for each data visualization, you bind the following script to the data field. You use the arbitrary **visualizationId** value you gave each visualization as the `vizId` value in the script for that visualization.
 

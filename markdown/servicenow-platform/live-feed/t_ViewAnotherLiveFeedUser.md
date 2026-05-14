@@ -34,5 +34,5 @@ Admins can change the amount of information that is displayed for users with dif
     Use the tabs to view different types of information about the user.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedUIOverview.md)
 

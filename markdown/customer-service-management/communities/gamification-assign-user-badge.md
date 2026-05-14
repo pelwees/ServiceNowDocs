@@ -38,5 +38,5 @@ A badge can be awarded to a user only once. If a badge is removed from a user, i
     The badge is assigned to the user and it appears on the community portal.
 
 
-**Parent Topic:**[Moderate gamification](../concept/communities-gamification-moderate.md)
+**Parent Topic:**[Moderate gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-moderate.md)
 

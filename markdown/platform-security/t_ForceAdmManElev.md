@@ -34,12 +34,12 @@ Role required: security\_admin
 
 When the user logs in, they are presented with a dialog window to select the role to which they can elevate.
 
-**Parent Topic:**[Elevated privilege roles](../concept/c_ElevatedPrivilege.md)
+**Parent Topic:**[Elevated privilege roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_ElevatedPrivilege.md)
 
 **Related topics**  
 
 
-[Security\_admin role](../concept/security-admin-role.md)
+[Security\_admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/security-admin-role.md)
 
-[Elevate to a privileged role](t_ElevateToAPrivilegedRole.md)
+[Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md)
 

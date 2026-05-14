@@ -25,15 +25,15 @@ Role required: sn\_bcm.admin
 
     Microsoft Word template form is displayed.
 
-    ![Microsoft Word templates form.](../image/word-temp-new-record.png)
+    ![Microsoft Word templates form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/word-temp-new-record.png)
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Word template form](../reference/word-template-form.md).
+    For more information on the fields, see [Word template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/word-template-form.md).
 
     Microsoft Word templates provided with an instance have two categories: BCM and BIA Smart Assessment.
 
-    ![Microsoft Word templates.](../image/temp-two-categories.png)
+    ![Microsoft Word templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/temp-two-categories.png)
 
     **Note:** Verify that you’re updating Microsoft Word template with the BCM category.
 
@@ -41,7 +41,7 @@ Role required: sn\_bcm.admin
 
     The Edit Microsoft Word template window is displayed with a message: `The templates cannot be used for report generation while in an editing state. Are you sure you want to edit?`
 
-    ![Edit a template.](../image/edit-word-temp.png)
+    ![Edit a template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edit-word-temp.png)
 
 5.  Select **OK**.
 
@@ -63,7 +63,7 @@ Role required: sn\_bcm.admin
 
     The process to update a pre-defined template is shown in the example.
 
-    ![Update the template.](../image/update-word-temp.png)
+    ![Update the template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/update-word-temp.png)
 
 7.  To delete the template, select the **Delete** in the record.
 

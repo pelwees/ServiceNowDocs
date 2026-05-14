@@ -68,7 +68,7 @@ Description
 5.  View the new change request record created using the selected template by selecting **Continue**.
  **Note:** When you select an existing template, information in the predefined fields will be populated. Template fields are either read-only or mandatory depending on the template field policies configured while creating the template.
 
-For more information on change templates, see [Create and propose a change template in Service Operations Workspace](create-change-template-sow.md).
+For more information on change templates, see [Create and propose a change template in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-template-sow.md).
 
 </td></tr><tr><td id="d170931e165">
 
@@ -148,7 +148,7 @@ DevOps or DevOps Simplified
 Change model used for DevOps change requests.To use the DevOps models, you must activate the DevOps Change Velocity application.
 
 </td></tr></tbody>
-</table>    For more information, see [Change models](../../change-management/concept/change-models.md).
+</table>    For more information, see [Change models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/concept/change-models.md).
 
     **Note:** When you create a change request from an interaction, only pre-approved change types are available.
 
@@ -294,7 +294,7 @@ Information about how to resolve the change or steps taken to resolve it, if app
 
 7.  Schedule the implementation for the change and view conflicts detected.
 
-    **Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](../../change-management/task/t_RunManualConflictDetection.md#)
+    **Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/task/t_RunManualConflictDetection.md#)
 
     1.  Select **Set schedule**.
 
@@ -382,24 +382,24 @@ Last checked
 Date when the conflict detection process was last run.
 
 </td></tr></tbody>
-</table>        For more information, see [Conflict detection](../../change-management/concept/c_ConflictDetection.md).
+</table>        For more information, see [Conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/concept/c_ConflictDetection.md).
 
         **Note:** You can also run the conflict detection process manually by selecting **Check conflicts**.
 
     4.  Reschedule your current change request if there is any conflict.
 
         1.  Navigate to the **Schedule** page.
-        2.  Select the edit icon ![pencil icon](../../configuration-data-management/image/icon-edit-pencil.png) in the **Current** card.
+        2.  Select the edit icon ![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configuration-data-management/image/icon-edit-pencil.png) in the **Current** card.
         3.  Select the new planned start and end dates.
         Alternatively, you can reschedule the implementation of the change to the next time and date there is no conflict by selecting **Schedule** in the **Next conflict-free** card.
 
-        ![Change schedule Next conflict free card](../image/change-schedule.png)
+        ![Change schedule Next conflict free card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/change-schedule.png)
 
 8.  Select **Add data** in the **DevOps data** section to add DevOps data to the change request.
 
     **Note:** You must have the sn\_devops.viewer role to add DevOps data to a change request or view DevOps data in an already created change record.
 
-    1.  Specify the following values on the **Select associations** step: ![Select DevOps data type and its associations step](../image/select-assoc-sow.png)
+    1.  Specify the following values on the **Select associations** step: ![Select DevOps data type and its associations step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/select-assoc-sow.png)
 
 <table id="table_ss2_yzz_vbc"><thead><tr><th>
 
@@ -436,7 +436,7 @@ The specific data to associate with the change request. You can select multiple 
  You can search for build numbers by the branch name as well.
 
 </td></tr></tbody>
-</table>    2.  Select **Next** to open the **Review data** step. ![Review DevOps data step](../image/review-data-sow.png)
+</table>    2.  Select **Next** to open the **Review data** step. ![Review DevOps data step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/review-data-sow.png)
 
     3.  Navigate the tabs to verify that the associated data is mapped accurately.
 
@@ -466,11 +466,11 @@ The specific data to associate with the change request. You can select multiple 
 
 10. Select **New** in **Change task** section.
 
-    For more information to create a change task, refer [Create a change task in Service Operations Workspace](create-change-task-sow.md).
+    For more information to create a change task, refer [Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md).
 
 11. Associate the change with a product or service release.
 
-    This option is available only if you have the Digital Product Release v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](../../digital-product-release/concept/dpr-sow-integration-cr.md).
+    This option is available only if you have the Digital Product Release v2.4 installed. For more information, see [Associating change requests with releases in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../digital-product-release/concept/dpr-sow-integration-cr.md).
 
     1.  Select **Assign** in the **Related release** card on the contextual side panel.
 
@@ -505,32 +505,32 @@ The specific data to associate with the change request. You can select multiple 
     -   Assess state: Group level approval for a normal change request. Approval records are automatically generated based on the  Change approval policies. You can conduct peer and technical reviews of the proposed change.
     -   Authorize state: Approval required by the business stakeholders, or by the Change Advisory Board.
     -   Scheduled state: Pre-approved standard changes.
-    **Note:** To mail the change record, select the more options icon \(![More options icon.](../../change-management/image/more-options.png)\) in the content frame and select **Email**. Both the user who requested the change and the user who is assigned to the change are automatically populated in the list of recipients.
+    **Note:** To mail the change record, select the more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/image/more-options.png)\) in the content frame and select **Email**. Both the user who requested the change and the user who is assigned to the change are automatically populated in the list of recipients.
 
     To view the calendar, select **View Calendar** in the title bar of the Change Request form.
 
 14. Select **Save**.
 
 
--   **[Create and propose a change template in Service Operations Workspace](create-change-template-sow.md)**  
+-   **[Create and propose a change template in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-template-sow.md)**  
 Create, customize, and then propose a change template aligned to a change model.
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 
 **Related topics**  
 
 
-[Work on a change request in Service Operations Workspace](work-on-change-sow.md)
+[Work on a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 
-[Create a change task in Service Operations Workspace](create-change-task-sow.md)
+[Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md)
 
-[Work on a change task in Service Operations Workspace](work-on-change-task-sow.md)
+[Work on a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-task-sow.md)
 
-[Create a Change Advisory Board \(CAB\) definition](cm-create-cab-definition-sow.md)
+[Create a Change Advisory Board \(CAB\) definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-definition-sow.md)
 
-[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 
-[Conduct a CAB meeting in the CAB workbench](cm-manage-cab-meeting-workbench-sow.md)
+[Conduct a CAB meeting in the CAB workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-manage-cab-meeting-workbench-sow.md)
 

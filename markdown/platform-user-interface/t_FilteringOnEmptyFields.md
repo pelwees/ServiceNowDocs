@@ -30,12 +30,12 @@ For example, when viewing all records that are assigned to the Hardware group, t
 4.  Run the filter.
 
 
-**Parent Topic:**[Condition builder](../concept/c_ConditionBuilder.md)
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_ConditionBuilder.md)
 
 **Related topics**  
 
 
-[Values for date/time fields](../concept/c_ValuesForDateTimeFields.md#)
+[Values for date/time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_ValuesForDateTimeFields.md#)
 
-[Comparing field values](../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
+[Comparing field values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/reference/r_ComparingFieldValues.md)
 

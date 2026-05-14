@@ -15,13 +15,13 @@ breadcrumb: [Monitor connections, Manage API data connections, API Insights, Con
 
 You can explore available options for onboarding and maintaining API data using Service Graph Connectors within API Insights.
 
-Service Graph Connectors are integrations that facilitate data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](../../configuration-management/concept/cmdb-sgc-intro.md) and [API Service Graph Connectors](../../configuration-management/concept/api-sgc-available.md).
+Service Graph Connectors are integrations that facilitate data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/concept/cmdb-sgc-intro.md) and [API Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../../configuration-management/concept/api-sgc-available.md).
 
 Options for maintaining Service Graph Connectors for importing API data within API Insights include:
 
--   [Update an installed Service Graph Connector in API Insights](api-insights-explore-connectors.md#).
--   [Install a Service Graph Connector with an available entitlement in API Insights](api-insights-explore-connectors.md#).
--   [Install a Service Graph Connector from ServiceNow Store within API Insights](api-insights-explore-connectors.md#).
+-   [Update an installed Service Graph Connector in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-explore-connectors.md#).
+-   [Install a Service Graph Connector with an available entitlement in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-explore-connectors.md#).
+-   [Install a Service Graph Connector from ServiceNow Store within API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-explore-connectors.md#).
 
 ## Update an installed Service Graph Connector in API Insights
 

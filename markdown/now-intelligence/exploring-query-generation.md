@@ -17,11 +17,11 @@ Query Generation is an AI-powered service that translates user questions into an
 
 Query Generation relies on a semantic data layer to generate queries. The semantic data layer is a flat representation of tables and table columns that the Query Generator uses to find the actual facts tables and columns related to a user utterance. Specifically, facts tables are represented by Entity records and their columns by Dimension records.
 
-Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [Add a table to the semantic data layer](../task/add-table-semantic-layer.md#).
+Not all facts tables are included in Query Generation, as this would overload an instance. To see which facts tables are included, open the Semantic Tables Configurations list \[sn\_query\_gen\_table\_config\_list\], and note which tables are present and have Enable Semantic Generation = true. You can add more tables to the list, but be careful of possible performance impacts. For more information, see [Add a table to the semantic data layer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/add-table-semantic-layer.md#).
 
 ## How Query Generation works
 
-![The Query Generation process for producing an executable query.](../image/querygen-overview-diagram.png)
+![The Query Generation process for producing an executable query.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/querygen-overview-diagram.png)
 
 Before Query Generation can call the LLM, it has to filter the instance schema down to only the relevant entities and dimensions needed to answer the user's question. This filtration serves two critical purposes:
 
@@ -41,6 +41,6 @@ Query Generation uses a semantic filter to narrow the entities \(facts tables\) 
 
 To learn more about configuring and using Query Generation, see:
 
--   [Configuring Query Generation](configuring-query-generation.md)
--   [Query Generation reference](query-generation-reference.md)
+-   [Configuring Query Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
+-   [Query Generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 

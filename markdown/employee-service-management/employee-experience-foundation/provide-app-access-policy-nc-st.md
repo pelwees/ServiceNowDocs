@@ -54,15 +54,15 @@ Role required: Microsoft Teams admin
         connect-microsoftteams
         ```
 
-        ![PowerShell connect Teams command](../../meeting-extensibility/image/powershell-connect-teams-command.png)
+        ![PowerShell connect Teams command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-connect-teams-command.png)
 
         Upon successful connection, a confirmation message is displayed in the browser.
 
-        ![Authentication message in browser](../../meeting-extensibility/image/authentication-message-browser.png)
+        ![Authentication message in browser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/authentication-message-browser.png)
 
         PowerShell will also display the tenant details.
 
-        ![Powershell confirmation](../../meeting-extensibility/image/powershell-confirmation.png)
+        ![Powershell confirmation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-confirmation.png)
 
 4.  Run the command below to create a new Application Access Policy in PowerShell.
 
@@ -81,11 +81,11 @@ Role required: Microsoft Teams admin
     For Example: New-CsApplicationAccessPolicy -Identity "OnlineMeetingsAccessPolicy" -AppIds "aaaaaaaa-1234-er4r-8dc9-123456789012" -Description "Grant OnlineMeeting Application Permission"
     ```
 
-    ![App access policy in Powershell](../../meeting-extensibility/image/app-access-policy.png)
+    ![App access policy in Powershell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/app-access-policy.png)
 
     Upon successfully creating the policy, the details are displayed in PowerShell.
 
-    ![App access policy success message in Powershell](../../meeting-extensibility/image/powershell-app-access-success.png)
+    ![App access policy success message in Powershell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-app-access-success.png)
 
 5.  Run the user permission policy in PowerShell.
 
@@ -110,8 +110,8 @@ Role required: Microsoft Teams admin
         
         ```
 
-        ![User permissions](../../meeting-extensibility/image/powershell-user-permissions.png)
+        ![User permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-user-permissions.png)
 
 
-**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md)
+**Parent Topic:**[Integrating Notify connector self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-notify-ms-teams-single-tenant.md)
 

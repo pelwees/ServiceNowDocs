@@ -46,9 +46,9 @@ Role required: admin
     Dependent plugins and applications are listed.
 
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/configure-wsd-mobile.md)
 
-**Previous topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Previous topic:**[Configure Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/configure-wsd-mobile.md)
 
-**Next topic:**[Mobile Wayfinding Administration](../concept/mobile-wayfinding.md)
+**Next topic:**[Mobile Wayfinding Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/mobile-wayfinding.md)
 

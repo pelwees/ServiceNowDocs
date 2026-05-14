@@ -51,5 +51,5 @@ Removes the stashed changes.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Stash changes](../concept/stash-changes.md)
+**Parent Topic:**[Stash changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/stash-changes.md)
 

@@ -113,7 +113,7 @@ Renter the password to confirm it.
 
 </td><td>
 
-Client ID of the app created on the ServiceNow Server. For information on how to get the Client ID, see [Configure Application Registry on the ServiceNow instance](configure-application-registry-splunk.md)
+Client ID of the app created on the ServiceNow Server. For information on how to get the Client ID, see [Configure Application Registry on the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-application-registry-splunk.md)
 
 </td></tr><tr><td id="d484122e279">
 
@@ -121,7 +121,7 @@ Client ID of the app created on the ServiceNow Server. For information on how to
 
 </td><td>
 
-Client Secret of the app created on the ServiceNow Server. For information on how to get the Client Secret, see [Configure Application Registry on the ServiceNow instance](configure-application-registry-splunk.md)
+Client Secret of the app created on the ServiceNow Server. For information on how to get the Client Secret, see [Configure Application Registry on the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-application-registry-splunk.md)
 
 </td></tr><tr><td id="d484122e297">
 
@@ -218,12 +218,12 @@ Select one of the following APIs:-   Table API
 
 
 </td></tr></tbody>
-</table>    ![ServiceNow Security Operations Integration set up on Splunk](../image/splunk-es-config.gif)
+</table>    ![ServiceNow Security Operations Integration set up on Splunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-es-config.gif)
 
 6.  Select **Save**.
 
 
 ## What to do next
 
-[Using ServiceNow Security Operations Integration add-on](using-sn-secops-int-addon.md)
+[Using ServiceNow Security Operations Integration add-on](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-sn-secops-int-addon.md)
 

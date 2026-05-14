@@ -110,5 +110,5 @@ Explains what the specified command does.
 </table>2.  Restart the agent for the configuration settings to be entered into the `acc.yml` file.
 
 
-**Parent Topic:**[Configuring MID-less Agent Client Collector](../concept/acc-configuring-without-mid.md)
+**Parent Topic:**[Configuring MID-less Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-configuring-without-mid.md)
 

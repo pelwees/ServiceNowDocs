@@ -13,7 +13,7 @@ breadcrumb: [Using Usage Insights, Usage Insights, Platform Analytics]
 
 # Exporting data
 
-You can export data records to CSV format. Exporting user and session lists, and other analytics data to CSV is available wherever you see the download icon \(![CSV export download icon.](../image/csv-download.png)\).
+You can export data records to CSV format. Exporting user and session lists, and other analytics data to CSV is available wherever you see the download icon \(![CSV export download icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/csv-download.png)\).
 
 -   **Note:** When you download raw data, keep in mind that the internal schema structure that Usage Insights uses can vary between product versions.
 
@@ -22,9 +22,9 @@ You can export data records to CSV format. Exporting user and session lists, and
 
 The Overview, Retention, Users, Sessions, Events, and Pages modules all contain visualizations with exportable data. Export of data from tables is limited to 10,000 records.
 
-Select the \(![CSV export download icon.](../image/csv-download.png)\) to begin automatic export of the data. The download location is specified in your browser settings.
+Select the \(![CSV export download icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/csv-download.png)\) to begin automatic export of the data. The download location is specified in your browser settings.
 
-![Page with visualizations that can be exported to CSV](../image/uxa-csv-export.png)
+![Page with visualizations that can be exported to CSV](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-csv-export.png)
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/concept/using-uxa.md)
 

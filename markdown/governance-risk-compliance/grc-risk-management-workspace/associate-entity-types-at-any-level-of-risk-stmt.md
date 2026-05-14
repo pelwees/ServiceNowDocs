@@ -19,7 +19,7 @@ All organizations maintain a standardized risk taxonomy. This taxonomy is organi
 
 The following figure shows the risk statement form where users can associate entities to create risks.
 
-![Form where the users can associate entities to risk statements at 0 level](../image/associate-entities-to-rs.png "Associate entities to risk statements at any level")
+![Form where the users can associate entities to risk statements at 0 level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/associate-entities-to-rs.png "Associate entities to risk statements at any level")
 
-**Parent Topic:**[Risk hierarchy and scoring](../reference/risk-hierarchy-scoring.md)
+**Parent Topic:**[Risk hierarchy and scoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../reference/risk-hierarchy-scoring.md)
 

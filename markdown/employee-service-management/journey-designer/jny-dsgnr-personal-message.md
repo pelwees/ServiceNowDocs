@@ -21,7 +21,7 @@ Role required: Managers and mentors with **Can add personalized message** permis
 
 ## About this task
 
-The personalized message feature requires that the **Can add personalized message** is enabled for journey owners or mentors. This permission is set for each journey configuration. See, [Update users' permissions for journeys](jny-dsgnr-update-user-permissions.md).
+The personalized message feature requires that the **Can add personalized message** is enabled for journey owners or mentors. This permission is set for each journey configuration. See, [Update users' permissions for journeys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-update-user-permissions.md).
 
 The **Send a note** button is only visible in published journeys.
 
@@ -42,10 +42,10 @@ The **Send a note** button is only visible in published journeys.
     An email is sent to the email address that is in the HR profile.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-working-with-journeys.md)
 
 **Related topics**  
 
 
-[Journey designer user permissions reference](../reference/jny-dsgnr-user-permission-ref.md)
+[Journey designer user permissions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../reference/jny-dsgnr-user-permission-ref.md)
 

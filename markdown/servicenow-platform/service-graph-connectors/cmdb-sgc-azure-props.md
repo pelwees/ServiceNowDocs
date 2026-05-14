@@ -48,7 +48,7 @@ This property is used to filter Azure Databricks CIs using the Vendor tag provid
 
 Starting with the Service Graph Connector for Microsoft Azure 1.14.0 version, all Azure Databricks CIs that have the value of the Vendor tag set to `Databricks` are filtered out from discovery during a full data load.
 
-During delta loads, set the value of the **insert\_short\_lived\_vms** custom system property to `false` to filter Azure Databricks CIs that are marked as retired during discovery \(see [Custom system properties](cmdb-sgc-azure-props.md#section_rrf_frg_23c)\). Additionally, for each Hardware connection, set the **filter\_databricks** connection property to `true`.
+During delta loads, set the value of the **insert\_short\_lived\_vms** custom system property to `false` to filter Azure Databricks CIs that are marked as retired during discovery \(see [Custom system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-azure-props.md#section_rrf_frg_23c)\). Additionally, for each Hardware connection, set the **filter\_databricks** connection property to `true`.
 
 -   Type: true \| false
 -   Default value: false
@@ -182,7 +182,7 @@ Set the partition size for Azure full data pull. This property determines the nu
 
 **Note:** If no value is specified, the property value is determined based on the number of active threads in the instance.
 
-See [Set partition size for parallel loading-enabled Azure accounts](../task/sgc-azure-partition-size-prop.md).
+See [Set partition size for parallel loading-enabled Azure accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../task/sgc-azure-partition-size-prop.md).
 
 </td></tr><tr><td>
 
@@ -214,7 +214,7 @@ Set the property to `false` to deactivate delta synchronization.-   Type: true \
 -   Default value: `false`
 -   Location: System Property \[sys\_properties\] table
 
-See [Configuring data synchronization in Service Graph Connector for Microsoft Azure](../concept/sgc-cmdb-azure-data-sync.md#).
+See [Configuring data synchronization in Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-cmdb-azure-data-sync.md#).
 
 </td></tr><tr><td>
 
@@ -383,9 +383,9 @@ Set the value to `true` to add new resource types to the Service Graph Resource 
 </td></tr></tbody>
 </table>## Related content
 
-[Data mapping for Service Graph Connector for Microsoft Azure](cmdb-data-mapping-azure.md)
+[Data mapping for Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-data-mapping-azure.md)
 
-[CMDB classes targeted in Service Graph Connector for Microsoft Azure](cmdb-azure-classes.md)
+[CMDB classes targeted in Service Graph Connector for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-azure-classes.md)
 
-**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](../concept/sgc-azure-reference.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-azure-reference.md)
 

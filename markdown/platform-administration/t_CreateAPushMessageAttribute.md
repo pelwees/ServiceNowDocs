@@ -15,10 +15,10 @@ Push message attribute definitions allow you to create reusable properties for p
 
 ## Before you begin
 
-1.  [Activate push notifications](t_ActivatePushNotifications.md)
-2.  \(iOS only\) [Upload a push certificate to your instance](upload-push-cert.md)
-3.  [Create a push application record for your custom app](t_CreateAMobileApplication.md)
-4.  [Create push message content](t_CreateAMobileMessageLayout.md)
+1.  [Activate push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md)
+2.  \(iOS only\) [Upload a push certificate to your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upload-push-cert.md)
+3.  [Create a push application record for your custom app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileApplication.md)
+4.  [Create push message content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileMessageLayout.md)
 
 Role required: admin or push\_admin
 
@@ -28,7 +28,7 @@ Role required: admin or push\_admin
 
 Use an attribute definition to specify a default push action script or string that you can then use in the push message content.
 
-You can override these attributes by creating any [push message attribute values](t_CreateAPushMessageAttributeValue.md).
+You can override these attributes by creating any [push message attribute values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 
 ## Procedure
 
@@ -88,5 +88,5 @@ Specify an arbitrary string value to be placed in the attribute that is used by 
 </table>
 ## What to do next
 
-If you want to override default attribute definitions, see [Create an attribute value or action for a push message](t_CreateAPushMessageAttributeValue.md).
+If you want to override default attribute definitions, see [Create an attribute value or action for a push message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 

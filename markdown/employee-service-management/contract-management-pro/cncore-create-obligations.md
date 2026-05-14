@@ -18,7 +18,7 @@ Create obligation records for signed contracts in Obligation Management to fulfi
 
 ## About this task
 
-**Note:** For more information about adding obligation tasks that are performed only once or at irregular intervals, see [Create an ad hoc obligation task](cncore-adhoc-ob-task.md).
+**Note:** For more information about adding obligation tasks that are performed only once or at irregular intervals, see [Create an ad hoc obligation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-adhoc-ob-task.md).
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Contract Workspace**.
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  Select **Executed Contracts**.
 4.  Select **All**.
 5.  Select an active contract repository record.
@@ -74,13 +74,13 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For more information, see [Obligation form](../reference/cncore-obligation-form.md).
+    For more information, see [Obligation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-obligation-form.md).
 
 5.  Select **Save**.
 
 
--   **[Create an ad hoc obligation task](cncore-adhoc-ob-task.md)**  
+-   **[Create an ad hoc obligation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-adhoc-ob-task.md)**  
 Create an obligation task required only once or at irregular intervals to track and fulfill an obligation specified in a contract.
 
-**Parent Topic:**[Obligation Management](../concept/cncore-obligation-management.md)
+**Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-obligation-management.md)
 

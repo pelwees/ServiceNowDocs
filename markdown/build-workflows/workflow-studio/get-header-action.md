@@ -55,11 +55,11 @@ Header from the email record. Upon completion of the action, the header value is
 
 In the following example, a process owner adds the Get Email Header action under an inbound email trigger. In the **Email Record** field, the user selects to get an email header from the email that triggered the flow. In the **Target Header** field, the user selects to get the X-ServiceNow-Source header from the email.
 
-![Get Email Header action example](../images/get-email-header-example-configuration.png)
+![Get Email Header action example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/get-email-header-example-configuration.png)
 
 Testing the flow with a sample email record produces the header value as a data pill.
 
-![Sample header value with a unique notification ID.](../images/get-email-header-example-execution-details.png)
+![Sample header value with a unique notification ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/get-email-header-example-execution-details.png)
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

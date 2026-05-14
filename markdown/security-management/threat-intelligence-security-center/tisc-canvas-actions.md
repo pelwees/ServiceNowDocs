@@ -23,7 +23,7 @@ Investigation canvas includes:
 4.  Edge actions
 5.  Toolbar actions
 
-![TISC Investigation canvas view.](../image/tisc-investigation-canvas-view.png "Investigation Canvas")
+![TISC Investigation canvas view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-investigation-canvas-view.png "Investigation Canvas")
 
 |Action|Operation|
 |------|---------|
@@ -248,9 +248,9 @@ This option provides you a visual representation of the nodes and entities curre
 The following illustrates the legends for node, link, and entity representations:
 
 </td></tr></tbody>
-</table>![node and link representation](../image/tisc-nodes-legend.png "Node and Link representation")
+</table>![node and link representation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-nodes-legend.png "Node and Link representation")
 
-![Entities representation](../image/tisc-entities-legend.png "Entities representation")
+![Entities representation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-entities-legend.png "Entities representation")
 
 ## Grouping or Ungrouping records from Investigation Canvas
 
@@ -321,5 +321,5 @@ Other Actions
 Actions such as removing a node or modifying edges follow all grouping rules and behaviors.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Working with Investigation Canvas](tisc-investigation-canvases.md)
+</table>**Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-investigation-canvases.md)
 

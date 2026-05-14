@@ -32,20 +32,20 @@ Role required: localization\_requestor
     Localization requested items are created for the selected surveys in all the selected languages. A success message with a link to the list of requested surveys is displayed. You can click the link to see the list.
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View results for all surveys](t_ViewResultsForAllSurveys.md)
+[View results for all surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForAllSurveys.md)
 
-[View the results for a survey](t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_ExportAQuizScorecard.md)
 
-[Edit translations for surveys](edit-translations-for-surveys.md)
+[Edit translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/survey-result-database-view.md)
 

@@ -37,7 +37,7 @@ Care Team Operations for Healthcare IT provides care teams with a streamlined pl
 
 ## Care Team Operations for Healthcare IT workflow
 
-![Care Team Operations for IT workflow.](../image/cto-it-workflow.png)
+![Care Team Operations for IT workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-workflow.png)
 
 1.  An administrator configures the Care Team Operations for Healthcare IT application.
 2.  A care team member detects an EMR or other IT issue and reports it using the Care Team Portal.
@@ -47,16 +47,16 @@ Care Team Operations for Healthcare IT provides care teams with a streamlined pl
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate healthcare operations by enabling IT support request creation and fulfillment.|[Healthcare IT case overview](hcl-cto-it-case.md)|Admin|
-|Receive visibility to all IT service requests created by your teams.|[Creating service requests in Care Team Operations for Healthcare IT](requesting-cto-it.md)|Care Team|
-|Use Workspace to fulfill IT service requests.|[Fulfilling service requests in Care Team Operations for Healthcare IT](fulfilling-cto-it.md)|Agent|
+|Automate healthcare operations by enabling IT support request creation and fulfillment.|[Healthcare IT case overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcl-cto-it-case.md)|Admin|
+|Receive visibility to all IT service requests created by your teams.|[Creating service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-it.md)|Care Team|
+|Use Workspace to fulfill IT service requests.|[Fulfilling service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/fulfilling-cto-it.md)|Agent|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Operations for Healthcare IT, see:
 
--   [Configuring Care Team Operations for Healthcare IT](configuring-cto-it.md)
--   [Creating service requests in Care Team Operations for Healthcare IT](requesting-cto-it.md)
--   [Fulfilling service requests in Care Team Operations for Healthcare IT](fulfilling-cto-it.md)
--   [Care Team Operations for Healthcare IT reference](cto-it-reference.md)
+-   [Configuring Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configuring-cto-it.md)
+-   [Creating service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-it.md)
+-   [Fulfilling service requests in Care Team Operations for Healthcare IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/fulfilling-cto-it.md)
+-   [Care Team Operations for Healthcare IT reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-it-reference.md)
 

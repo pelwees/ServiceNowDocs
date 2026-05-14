@@ -26,5 +26,5 @@ Follow these steps to achieve domain separation:
 -   Create a user with the required role in the respective domain.
 -   Perform the Netskope DLP integration procedures in the appropriate domain.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-netskope.md)
 

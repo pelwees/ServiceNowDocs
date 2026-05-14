@@ -25,10 +25,10 @@ The Performance Domain \[sn\_kpi\_domain\] table contains the following fields.
 |Description|String|Brief description of the KPI performance domain.|
 |Active|Boolean|Indicates whether the KPI performance domain record is active. This option is enabled by default.|
 
-**Parent Topic:**[Primary data tables for Supplier Relationship and Performance Management \(SRPM\)](primary-data-tables-srpm.md)
+**Parent Topic:**[Primary data tables for Supplier Relationship and Performance Management \(SRPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-data-tables-srpm.md)
 
 **Related topics**  
 
 
-[Create KPI performance domains](create-kpi-domain.md)
+[Create KPI performance domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-domain.md)
 

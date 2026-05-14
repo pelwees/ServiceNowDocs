@@ -26,7 +26,7 @@ Role required: admin or sn\_nowassist\_admin.nsa\_admin
 
 **Important:** After installing Now Assist for IRM, all Now Assist for IRM skills and agentic workflows are activated by default.
 
-Recommendation skills help regulatory analysts quickly identify impacted areas by generating AI-driven suggestions based on the content of a regulatory alert. These skills can be configured to be available at all times or conditionally triggered depending on the alert’s status. They’re typically accessible when the alert is in any state except Closed or Cancelled. To generate meaningful recommendations, the LLM analyzes defined data sources and input fields. After recommendations are generated, you can accept or dismiss them individually, with accepted recommendations helping to streamline impact analysis and improve compliance accuracy. For more information, see [Recommendation contexts and templates](../../grc-rcm/concept/recommendation-contexts.md).
+Recommendation skills help regulatory analysts quickly identify impacted areas by generating AI-driven suggestions based on the content of a regulatory alert. These skills can be configured to be available at all times or conditionally triggered depending on the alert’s status. They’re typically accessible when the alert is in any state except Closed or Cancelled. To generate meaningful recommendations, the LLM analyzes defined data sources and input fields. After recommendations are generated, you can accept or dismiss them individually, with accepted recommendations helping to streamline impact analysis and improve compliance accuracy. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/concept/recommendation-contexts.md).
 
 ## Procedure
 
@@ -163,5 +163,5 @@ A user with the role you specify can access this skill. **Note:** For recommenda
 
 ## What to do next
 
-You can now use a recommendation skills for regulatory alerts. You can generate recommendations for any regulatory alert that is not in the Closed or Cancelled state. For more information, see [Generate recommendations for a regulatory alert](create-recommendation-reg-alert.md).
+You can now use a recommendation skills for regulatory alerts. You can generate recommendations for any regulatory alert that is not in the Closed or Cancelled state. For more information, see [Generate recommendations for a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md).
 

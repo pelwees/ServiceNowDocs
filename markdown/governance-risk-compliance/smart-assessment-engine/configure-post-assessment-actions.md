@@ -18,7 +18,7 @@ The post-assessment actions feature in Smart Assessment Engine enables you to au
 ## Before you begin
 
 -   A subflow must be available and mapped to the assessment template category for which you want to configure post-assessment actions. For more information about how to create and build subflows, refer to [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md) and [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/subflows.md).
--   To make actions available in post-assessment workflows, link the subflow to the appropriate template category. For more information, refer to [Link subflow to template category](link-subflow-to-action-set.md).
+-   To make actions available in post-assessment workflows, link the subflow to the appropriate template category. For more information, refer to [Link subflow to template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/link-subflow-to-action-set.md).
 -   The Reusable Impact Framework plugin \(sn\_impact\_fwk\) and Post Assessment Actions for Smart Assessments plugin \(sn\_smart\_imp\_auto\) must be installed.
 
 Role required: sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_manager and sn\_smart\_imp\_auto.automation\_creator
@@ -78,7 +78,7 @@ Select **Add a standalone action set**.
 
     Based on the selected action type, new fields appear requiring additional details.
 
-    The options displayed in the **Action type** field are subflows linked to the chosen template's categories. For more information on automated actions, see [Post-assessment automations](../concept/impact-automation.md).
+    The options displayed in the **Action type** field are subflows linked to the chosen template's categories. For more information on automated actions, see [Post-assessment automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../concept/impact-automation.md).
 
     **Note:** Responses from dropdown, check box, radio, and attachment question types cannot be passed as action parameters because they are not supported.
 

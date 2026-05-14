@@ -28,7 +28,7 @@ Available agentic workflows
 
 </th></tr></thead><tbody><tr><td>
 
-[IT Service Management application](now-assist-using-agentic-workflows-in-itsm.md)
+[IT Service Management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-using-agentic-workflows-in-itsm.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Triage and categorize ITSM incidents
 
 </td></tr><tr><td>
 
-[Change management application](../../change-management/concept/now-assist-itsm-agentic-ai-in-change.md)
+[Change management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../change-management/concept/now-assist-itsm-agentic-ai-in-change.md)
 
 </td><td>
 
@@ -70,7 +70,7 @@ Assess conflicts for a change request
 
 </td></tr><tr><td>
 
-[Digital End-User Experience \(DEX\) application](itsm-dex-ai-agents.md)
+[Digital End-User Experience \(DEX\) application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/itsm-dex-ai-agents.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ DEX issue diagnosis and resolution agentic workflow
 
 </td></tr><tr><td>
 
-[Incident Management application](using-agentic-ai-workflow-im.md)
+[Incident Management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/using-agentic-ai-workflow-im.md)
 
 </td><td>
 

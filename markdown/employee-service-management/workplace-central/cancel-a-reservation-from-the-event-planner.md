@@ -29,7 +29,7 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
     The Workplace Analytics dashboard opens.
 
-2.  Select the **Event planner** icon from the menu \(![Event planner icon.](../images/event-planner-icon.png)\).
+2.  Select the **Event planner** icon from the menu \(![Event planner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/event-planner-icon.png)\).
 
     The Event Planner dashboard opens.
 
@@ -60,5 +60,5 @@ Role required: sn\_wsd\_rsv.reservation\_planner
 
 The reservation is canceled. The cancellation notes are automatically generated.
 
-**Parent Topic:**[Working with Event planner](../concept/working-with-event-planner.md)
+**Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-event-planner.md)
 

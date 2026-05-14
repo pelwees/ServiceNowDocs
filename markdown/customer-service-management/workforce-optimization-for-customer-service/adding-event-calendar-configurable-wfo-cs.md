@@ -21,13 +21,13 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can create custom event types and add or remove the desired fields. For more information, see [Create event types to display them on the team calendar](../concept/setup-scheduling-configurable-wfo-cs.md#).
+You can create custom event types and add or remove the desired fields. For more information, see [Create event types to display them on the team calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/setup-scheduling-configurable-wfo-cs.md#).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\).
 
 3.  Click the **Team Calendar** tab.
 
@@ -85,5 +85,5 @@ In the **Attendees** field, start typing the name of each of the attendees for t
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

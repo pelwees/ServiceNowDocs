@@ -111,5 +111,5 @@ Option to edit the display and color settings of the widget report.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Journey designer dashboards and reports](../reference/jny-report-dashboards.md)
+**Parent Topic:**[Journey designer dashboards and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../reference/jny-report-dashboards.md)
 

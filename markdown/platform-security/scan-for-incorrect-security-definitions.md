@@ -17,7 +17,7 @@ Run the Auditor to scan your instance and find incorrect security definitions. I
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md).
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/concept/instance-security-center-to-security-center-migration.md).
 
 The Auditor performs a “full-body” assessment of your instance health that analyzes your system configuration. For security scans, it compares your current security configuration to best practice definitions, and to security property compliance values.
 
@@ -34,24 +34,24 @@ From an instance security standpoint, it provides insights and recommendations i
 3.  To review the detail for a specific scan result, double-click the result number. This information includes its status, scan type, execution time, and error messages.
 4.  Each of the Auditor findings contains resolution details, and a URL to product content about how to address them. Follow the documented guidelines to resolve the issues in each of the findings.
 
-**Parent Topic:**[Instance Security Center](instance-security-center.md)
+**Parent Topic:**[Instance Security Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
 **Related topics**  
 
 
-[Instance Security Center to ServiceNow Security Center migration](../../security-center/concept/instance-security-center-to-security-center-migration.md)
+[Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/concept/instance-security-center-to-security-center-migration.md)
 
-[Monitor security events](instance-sec-center-event-ribbon.md)
+[Monitor security events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md)
 
-[Check the daily compliance score and configure security property settings](instance-sec-center-hardening.md)
+[Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md)
 
-[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
+[Monitor instance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
-[Activate the ISC Virtual Agent interface](../task/activating-virtual-agent-interface.md)
+[Activate the ISC Virtual Agent interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/activating-virtual-agent-interface.md)
 
-[Hardening settings](../../security-center/reference/security-hardening-settings.md)
+[Hardening settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/security-hardening-settings.md)
 
-[Enable High Security Plugin](../../security-center/reference/sc-high-security-plugin.md)
+[Enable High Security Plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security-center/reference/sc-high-security-plugin.md)
 
-[Access Control List Rules](../../contextual-security/concept/access-control-rules.md)
+[Access Control List Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../contextual-security/concept/access-control-rules.md)
 

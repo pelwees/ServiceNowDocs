@@ -91,5 +91,5 @@ Option to add default users for adding to a call.
 </table>5.  Select **Save** to save the conference call configuration.
 
 
-**Parent Topic:**[Security Incident Response conference call integration](../concept/sir-conf-call-capability.md)
+**Parent Topic:**[Security Incident Response conference call integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sir-conf-call-capability.md)
 

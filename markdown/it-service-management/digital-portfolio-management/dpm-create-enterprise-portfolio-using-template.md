@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Digital Portfolio Management**.
 
-2.  Select the enterprise portfolios icon \(![Enterprise portfolios icon.](../image/enterprise-portfolio-icon-purple.png)\).
+2.  Select the enterprise portfolios icon \(![Enterprise portfolios icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/enterprise-portfolio-icon-purple.png)\).
 
 3.  Select **Create enterprise portfolio**.
 
@@ -134,14 +134,14 @@ Individuals or groups that have an interest in the enterprise portfolio.
 
 7.  Add KPI groups.
 
-    For more information on KPI groups, see [Create KPI groups and mappings in Digital Portfolio Management](dpm-create-kpi-groups.md).
+    For more information on KPI groups, see [Create KPI groups and mappings in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-create-kpi-groups.md).
 
 8.  Select **Add taxonomy node**.
 
 9.  In the dialog box, select an existing taxonomy node or create one.
 
-    You can add a parent, child, sibling, or duplicate node. For more information on enterprise taxonomy nodes, see Table 2 in [Navigate portfolio types in Digital Portfolio Management](../concept/dpm-navigating-enterprise-portfolios.md).
+    You can add a parent, child, sibling, or duplicate node. For more information on enterprise taxonomy nodes, see Table 2 in [Navigate portfolio types in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-navigating-enterprise-portfolios.md).
 
 
-**Parent Topic:**[Enterprise portfolios](../concept/dpm-enterprise-portfolios.md)
+**Parent Topic:**[Enterprise portfolios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-enterprise-portfolios.md)
 

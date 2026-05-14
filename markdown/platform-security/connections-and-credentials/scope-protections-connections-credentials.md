@@ -17,14 +17,14 @@ You can classify certain types of Connection &amp; Credential records as belongi
 
 An **Application** field is available in the Connection \[sys\_connection\] and Discovery Credentials \[discovery\_credentials\] tables for associating these types of records to specific scopes. It is not visible on UI forms in Australia, but you can easily add it to them. To learn more about these record types, and adding the field to their UI forms, see:
 
--   [Get started with connections](../reference/connection-information.md)
--   [Get started with credentials](../reference/credentials-getting-started.md)
--   [Credential aliases for Discovery](discovery-credential-alias.md#)
+-   [Get started with connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../reference/connection-information.md)
+-   [Get started with credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../reference/credentials-getting-started.md)
+-   [Credential aliases for Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/discovery-credential-alias.md#)
 -   [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
 Restricting the use of a Connection &amp; Credentials record to a specific scope is important for managing applications that require enforced security. These applications include HR Service Delivery or Security Operations Connection &amp; Credentials records created in scoped administered applications are not visible to admin users. Associating a Connection &amp; Credentials record to a specific application scope affords the following protections:
 
--   Applies Access Control List rules \(ACLs\) to restricted scopes. To learn more about scoped ACLs, see [Access control list rules](../../../administer/contextual-security/concept/access-control-rules.md).
+-   Applies Access Control List rules \(ACLs\) to restricted scopes. To learn more about scoped ACLs, see [Access control list rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../../../administer/contextual-security/concept/access-control-rules.md).
 
     **Note:** Some applications using scope administration and enforced security may require additional setup. To learn more, see [Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md)
 
@@ -34,5 +34,5 @@ You can customize and grant access to query-restricted records by using Restrict
 
 **Note:** Scope protections are only enabled for specific secured scopes to avoid confusion when setting up new records. If someone makes a connection in their scoped application scope, it doesn't have automatic scope restriction.
 
-**Parent Topic:**[Explore credentials, connections, and aliases](credentials-connections-alias.md)
+**Parent Topic:**[Explore credentials, connections, and aliases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md)
 

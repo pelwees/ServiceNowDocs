@@ -13,7 +13,7 @@ breadcrumb: [Exploring GRC: Metrics, GRC: Metrics, Operational Sustainability Ma
 
 The metric data table enables data collection for metrics across the organization using an easy-to-use interface like a spreadsheet with multiple filters and a task management workflow.
 
-As a data owner, you can access the metric data table by navigating to All &gt; Operational Sustainability Management &gt; Operational Sustainability Workspace, and then selecting the Metric tasks icon \(![](../../esg-management-reporting/images/metric-tasks.png)\) from the side panel. You can then complete the tasks assigned to you. The following image shows the metric data table interface. ![Metric data table displaying all open tasks and filters.](../image/metric-data-table.jpg)
+As a data owner, you can access the metric data table by navigating to All &gt; Operational Sustainability Management &gt; Operational Sustainability Workspace, and then selecting the Metric tasks icon \(![](../../esg-management-reporting/images/metric-tasks.png)\) from the side panel. You can then complete the tasks assigned to you. The following image shows the metric data table interface. ![Metric data table displaying all open tasks and filters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../image/metric-data-table.jpg)
 
 The metric data table offers the following benefits:
 

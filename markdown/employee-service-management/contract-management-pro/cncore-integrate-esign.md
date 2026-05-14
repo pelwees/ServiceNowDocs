@@ -44,7 +44,7 @@ Role required: sn\_cm\_core.contract\_config
     -   To modify an existing external app configuration, open the external app configuration from the list.
 3.  On the Contract Integration Type page, click the **Electronic Signature** link.
 
-    ![Electronic signature form](../image/cmpro-electronic-signature.png "E-signature configuration form")
+    ![Electronic signature form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-electronic-signature.png "E-signature configuration form")
 
 4.  On the form, fill in the fields.
 
@@ -158,12 +158,12 @@ The conﬁguration for the electronic signature is ready to be used for signing 
 
 **Note:** \(Optional\) You can view, edit, and delete the record.
 
-For information on configuring external storage, see [Configure an external storage system](cncore-integrate-ext-storage.md).
+For information on configuring external storage, see [Configure an external storage system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-ext-storage.md).
 
-**Parent Topic:**[Configuring external applications for Contract Management Pro](../concept/cncore-set-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-set-ext-app-config.md)
 
 **Related topics**  
 
 
-[Configure an external storage system](cncore-integrate-ext-storage.md)
+[Configure an external storage system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-ext-storage.md)
 

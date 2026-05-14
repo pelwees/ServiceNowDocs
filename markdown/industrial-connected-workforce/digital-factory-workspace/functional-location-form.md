@@ -147,5 +147,5 @@ Managed By Group
 Name of the assigned group that owns and is responsible for managing this functional location.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Factory Workspace reference](digital-factory-workspace-reference.md)
+</table>**Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 

@@ -19,15 +19,15 @@ Help popups give the user more information about a field in a layout. They resem
 -   Tool tips display only plain text, whereas help popups can include hyperlinks, lists, italics, bold text, newlines, images, and dynamic text
 -   Tool tips appear on hover, whereas help popup icons must be clicked to display messages
 
-**Note:** To learn how to display a message that appears as the result of a message rule, see [Change how messages are displayed to the end user](can_i_change_how_messages_are_displayed_to_the_end_user.md).
+**Note:** To learn how to display a message that appears as the result of a message rule, see [Change how messages are displayed to the end user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/can_i_change_how_messages_are_displayed_to_the_end_user.md).
 
 ## Popup appearance
 
 The image below shows a popup message that appears when the user clicks its help icon. To illustrate dynamic text in a help popup, the second image shows additional text that appears as the result of a selected picklist option.
 
-![Help message popup](../images/cpq-help-message-popups-1.png)
+![Help message popup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-help-message-popups-1.png)
 
-![Help message popup showing dynamic text](../images/cpq-help-message-popups-2.png)
+![Help message popup showing dynamic text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-help-message-popups-2.png)
 
 To implement a message popup, add a column header called "help" in cell K1 of your CSV layout.
 
@@ -37,9 +37,9 @@ For a tier, columnset, or field, the format for a help popup is as follows:
 {"content":"<help body>","heading":"<help heading>","trigger":{"type":"icon","url":"<image.url>”,“label”: “<Label>”}}
 ```
 
-To assign the popup a button instead of an icon, use "type":"button". The button resembles the following: ![Keyboard icon](../images/cpq-help-message-popup-button.png)
+To assign the popup a button instead of an icon, use "type":"button". The button resembles the following: ![Keyboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-help-message-popup-button.png)
 
-If you don't specify an image URL, a question mark will appear: ![Question mark icon](../images/cpq-help-message-popup-default-icon.png)
+If you don't specify an image URL, a question mark will appear: ![Question mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-help-message-popup-default-icon.png)
 
 If you don't specify a label, the default value is "Help."
 
@@ -173,7 +173,7 @@ Image \(GIF\)
 
 </td><td>
 
-`![alt text](image url \"title text\")`
+`![alt text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/image url \"title text\")`
 
 </td><td>
 

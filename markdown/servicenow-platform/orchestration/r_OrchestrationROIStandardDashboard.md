@@ -19,7 +19,7 @@ The dashboard of standard ROI reports provides summaries, estimated costs, and c
 
 The Summary tab contains four reports on automation categories.
 
-![What the ROI summary report may look like.](../image/ROISummaryReportSample.png "ROI summary report sample")
+![What the ROI summary report may look like.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ROISummaryReportSample.png "ROI summary report sample")
 
 <table id="table_bdv_jjs_zs"><thead><tr><th>
 
@@ -70,7 +70,7 @@ Amount of savings from automated tasks over time, based on the calculated durati
 
 The Estimated Costs tab contains eight reports on estimated time and expense for automations.
 
-![ROI estimated time and expense report](../image/ROIEstimatedReportsSample1.png "ROI estimated time and expense report samples") ![ROI estimated reports sample](../image/ROIEstimatedReportsSample2.png "ROI estimated time and expense report samples")
+![ROI estimated time and expense report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ROIEstimatedReportsSample1.png "ROI estimated time and expense report samples") ![ROI estimated reports sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ROIEstimatedReportsSample2.png "ROI estimated time and expense report samples")
 
 <table id="table_c3m_r1t_zs"><thead><tr><th>
 
@@ -163,7 +163,7 @@ Total predicted annual expense for all manual tasks by category, using the estim
 
 The Costs from Correlated Tasks tab contains eight reports on time and expense for automations based on actual calculations.
 
-![ROI calculated time and expense report sample](../image/ROICalculatedReportsSample1.png "ROI calculated time and expense report samples") ![Projected monthly expense by category sample](../image/ROICalculatedReportsSample2.png "ROI calculated time and expense report samples")
+![ROI calculated time and expense report sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ROICalculatedReportsSample1.png "ROI calculated time and expense report samples") ![Projected monthly expense by category sample](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/ROICalculatedReportsSample2.png "ROI calculated time and expense report samples")
 
 <table id="table_dt3_dpt_zs"><thead><tr><th>
 
@@ -252,7 +252,7 @@ Total projected annual expense for all manual tasks by category using the calcul
 -   **Table**: Expense and Savings \[run\_rate\_predicted\_savings\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Orchestration ROI reports](../concept/c_OrchestrationROIDashboards.md)
+</table>**Parent Topic:**[Orchestration ROI reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../concept/c_OrchestrationROIDashboards.md)
 
 ## Schedule Orchestration ROI calculations for standard reports
 

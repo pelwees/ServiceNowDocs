@@ -23,7 +23,7 @@ After you've reviewed your evaluation results, you can archive your evaluation o
 
 You can export the evaluation results as a report. The report is formatted as a .csv file that includes the individual sys\_ids of the execution records and the metric scores for each.
 
-For more information on AI agent usage and other analytics, you can review the [AI Agent Analytics dashboard](ai-agent-dashboard.md) in the AI Agent Studio.
+For more information on AI agent usage and other analytics, you can review the [AI Agent Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-dashboard.md) in the AI Agent Studio.
 
 ## Evaluation results overview
 

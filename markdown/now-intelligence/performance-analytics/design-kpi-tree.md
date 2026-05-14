@@ -33,8 +33,8 @@ A KPI tree contains the following hierarchically related artifacts:
 The KPI tree has a header and a footer with the following drag-and-drop icons:
 
 -   Artifacts, on the left of the footer
--   Breakdown definitions, on the right of the header \(See [Group data by breakdown definitions](../task/add-breakdowns-project.md#)\)
--   Personas, on the left of the header \(See [Add personas to a project](../task/add-personas-project.md)\)
+-   Breakdown definitions, on the right of the header \(See [Group data by breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/add-breakdowns-project.md#)\)
+-   Personas, on the left of the header \(See [Add personas to a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/add-personas-project.md)\)
 
 ## Filtering
 
@@ -50,13 +50,13 @@ All filter functions can be used with each other.
 
 When working with large KPI trees, you can close those parts of the tree that you are not currently working with. To collapse part of a tree, click the minus - icon on an artifact that has child artifacts. Collapsed nodes appear as a shadow under the top-level node. To expand collapsed nodes, click the plus + icon.
 
-![Collapse node icon with two levels of subnodes](../image/kpi-composer-collapse-nodes.png) ![](../image/kpi-composer-collapsed-nodes.png)
+![Collapse node icon with two levels of subnodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-composer-collapse-nodes.png) ![](../image/kpi-composer-collapsed-nodes.png)
 
 When a filter or a search matches a collapsed, hidden artifact, the tree does not expand. Instead, the "shadow" turns white although the top-level element remains grey.
 
-![Collapsed nodes that do and do not match a filter](../image/kpi-composer-filter-collapsed-node.png)
+![Collapsed nodes that do and do not match a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-composer-filter-collapsed-node.png)
 
-**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](designing-pa-solution.md)
+**Parent Topic:**[Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 
 ## Add artifacts to a KPI tree
 
@@ -74,7 +74,7 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 2.  Locate the KPI tree artifacts at the bottom of the screen.
 
-    ![Draggable icons for each KPI Composer tree artifact](../image/kpi-comp-tree-elements.png)
+    ![Draggable icons for each KPI Composer tree artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-tree-elements.png)
 
 3.  Drag a Business Goal icon to the top of your project.
 
@@ -94,9 +94,9 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
     2.  Drag an appropriate library element into your KPI tree.
 
-        ![Library Elements list.](../image/kpi-comp-library-elements.png)
+        ![Library Elements list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-library-elements.png)
 
-    For more information, see [Cross-project library elements](cross-project-artifact-libraries.md).
+    For more information, see [Cross-project library elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/cross-project-artifact-libraries.md).
 
 
 ### What to do next
@@ -165,7 +165,7 @@ Adds this artifact and any child artifacts in the KPI tree to a multi-project, r
 
 </td><td>
 
-For more information, see [Cross-project library elements](cross-project-artifact-libraries.md).
+For more information, see [Cross-project library elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/cross-project-artifact-libraries.md).
 
 </td></tr><tr><td>
 
@@ -179,7 +179,7 @@ Specify any of the following details:-   Knowledge articles that contain further
 
 </td><td>
 
-This short animation shows a knowledge article being added to an artifact.![Adding a KB article to an artifact](../image/kpi-comp-add-kb.gif)
+This short animation shows a knowledge article being added to an artifact.![Adding a KB article to an artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-add-kb.gif)
 
 </td></tr><tr><td>
 
@@ -187,11 +187,11 @@ Persona![](../image/kpi-comp-persona-icon.png)
 
 </td><td>
 
-The personas currently linked to the project. In the artifact properties, you can only add and remove personas to the artifact. For information about adding personas to the project, see [Add personas to a project](../task/add-personas-project.md).
+The personas currently linked to the project. In the artifact properties, you can only add and remove personas to the artifact. For information about adding personas to the project, see [Add personas to a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/add-personas-project.md).
 
 </td><td>
 
-In this image, the Agent and CIO personas are linked to the project. The CIO persona is linked to the artifact and the Agent persona is not.![Personas available to an artifact in a project](../image/kpi-comp-element-personas.png)
+In this image, the Agent and CIO personas are linked to the project. The CIO persona is linked to the artifact and the Agent persona is not.![Personas available to an artifact in a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-element-personas.png)
 
 </td></tr><tr><td>
 
@@ -199,11 +199,11 @@ Group by![](../image/kpi-comp-bkdown-icon.png)
 
 </td><td>
 
-Group the data associated with an artifact by one or more of the breakdown definitions selected for the project. For information about adding breakdown definitions to the project, see [Group data by breakdown definitions](../task/add-breakdowns-project.md#).
+Group the data associated with an artifact by one or more of the breakdown definitions selected for the project. For information about adding breakdown definitions to the project, see [Group data by breakdown definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/add-breakdowns-project.md#).
 
 </td><td>
 
-In this image, the Assignment Group, Impact, and Priority breakdown definitions are available for the artifact. The data in the artifact is grouped by only Assignment Group.![Grouping the data of an artifact by 'Group by' terms](../image/kpi-comp-add-bkdowns.png)
+In this image, the Assignment Group, Impact, and Priority breakdown definitions are available for the artifact. The data in the artifact is grouped by only Assignment Group.![Grouping the data of an artifact by 'Group by' terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-add-bkdowns.png)
 
 </td></tr></tbody>
 </table>

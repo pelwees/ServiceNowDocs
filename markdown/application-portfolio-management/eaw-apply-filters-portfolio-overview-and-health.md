@@ -21,11 +21,11 @@ Role required: sn\_apm.apm\_read
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  In the Portfolio Overview and Health section, select the Portfolio overview and health filters icon \(![Portfolio overview and health filters icon.](../../image/icon-filter.png)\).
+2.  In the Portfolio Overview and Health section, select the Portfolio overview and health filters icon \(![Portfolio overview and health filters icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/icon-filter.png)\).
 
     The Portfolio overview and health filter pop-up window appears.
 
-    ![Portfolio overview and health filter pop-up window.](../../image/eaw-image/portfolio-overview-health-filter.png)
+    ![Portfolio overview and health filter pop-up window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/portfolio-overview-health-filter.png)
 
 3.  Depending on the data you want to filter for, select the **Business applications** or the **Business capabilities** tab.
 
@@ -35,7 +35,7 @@ Role required: sn\_apm.apm\_read
 
     You can add multiple conditions.
 
-    ![Portfolio overview and health filter pop-up window with field drop-down displayed.](../../image/eaw-image/portfolio-overview-health-filter-dropdown.png)
+    ![Portfolio overview and health filter pop-up window with field drop-down displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/portfolio-overview-health-filter-dropdown.png)
 
 5.  Select **Update**.
 
@@ -44,10 +44,10 @@ Role required: sn\_apm.apm\_read
     **Note:** You can also clear all applied filters by selecting the **Clear all filters** button.
 
 
-**Parent Topic:**[Working with Enterprise Architecture workspace home page](../../concept/eaw-concept/eaw-work-with-ea-workspace-homepage.md)
+**Parent Topic:**[Working with Enterprise Architecture workspace home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ea-workspace-homepage.md)
 
 **Related topics**  
 
 
-[Enterprise Architecture Workspace Overview](../../reference/eaw-reference/eaw-overview.md)
+[Enterprise Architecture Workspace Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-overview.md)
 

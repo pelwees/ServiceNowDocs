@@ -26,7 +26,7 @@ Role required: sn\_smart\_asmt.template\_manager or sn\_smart\_asmt.assessment\_
     |Option|Description|
     |------|-----------|
     |**Existing template**|On the Assessment Workspace landing page, select an existing template.|
-    |**New template**|Create a template as described in [Add instructions and questions to an assessment template](sae-asmnt-template-populate.md).|
+    |**New template**|Create a template as described in [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-populate.md).|
 
 2.  On the **Questions** tab for the template, select the section that you want to add the question to and then select **Add question**.
 
@@ -58,7 +58,7 @@ If the assessor must answer the question to submit the assessment, select **Requ
 
 </td><td>
 
-A setting on any question type that lets template builders control when a question is shown or hidden to respondents, based on conditions tied to other questions' answers. This Option is in the configuration options menu \(![Additional attributes menu icon.](../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
+A setting on any question type that lets template builders control when a question is shown or hidden to respondents, based on conditions tied to other questions' answers. This Option is in the configuration options menu \(![Additional attributes menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
 
  Select this attribute if the question appears to the assessor only if the response to a different question meets the conditions that you specify.
 
@@ -72,7 +72,7 @@ A setting on any question type that lets template builders control when a questi
 
 </td><td>
 
-A setting that lets template builders request additional text comments \(justification\) from respondents for a given question, either always or based on conditions. This Option is in the configuration options menu \(![Additional attributes menu icon.](../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
+A setting that lets template builders request additional text comments \(justification\) from respondents for a given question, either always or based on conditions. This Option is in the configuration options menu \(![Additional attributes menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
 
  Enable the assessor to supply the additional text information that justifies a response. This option is useful when you expect that some responses will be nonstandard.
 
@@ -84,7 +84,7 @@ A setting that lets template builders request additional text comments \(justifi
 
 </td><td>
 
-A setting that lets template builders request file attachments \(evidence\) from respondents for a given question, either always or based on conditions. This Option is in the configuration options menu \(![Additional attributes menu icon.](../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
+A setting that lets template builders request file attachments \(evidence\) from respondents for a given question, either always or based on conditions. This Option is in the configuration options menu \(![Additional attributes menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../../grc-business-continuity-management/image/AlertMenuIcon.png)\).
 
 Request the attachments for the specific responses. You can specify that the attachments are: -   Required
 -   Optional
@@ -105,7 +105,7 @@ Enter the descriptive text that follows the question when the assessor accesses 
 
  A confirmation box displays the text as an assessor sees it. Update the text by selecting **Edit**.
 
- ![Confirmation of the description text. You can update the text.](../image/sae-q-description-confirmation.png)
+ ![Confirmation of the description text. You can update the text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/sae-q-description-confirmation.png)
 
 </td></tr><tr><td id="d390477e299">
 
@@ -115,7 +115,7 @@ Enter the descriptive text that follows the question when the assessor accesses 
 
 Enter the content that explains how best to answer the question. Add the formatted text, table, images, links, and attachments. The **Attach image** option enables you to attach descriptive images in the guidance section of the assessment questions. This means that template managers can include helpful visuals to assist respondents, making the instructions clearer and easier to understand. You can include one image per question, with mandatory alt text. The content appears in a pop-up window when the assessor accesses the question.A confirmation box displays the list of items that are provided to an assessor. Update the content by selecting **Edit**.
 
-![Confirmation of the guidance content. You can update the content.](../image/sae-q-guidance-confirmation.png)
+![Confirmation of the guidance content. You can update the content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/../image/sae-q-guidance-confirmation.png)
 
 </td></tr></tbody>
 </table>6.  Select **Save**.

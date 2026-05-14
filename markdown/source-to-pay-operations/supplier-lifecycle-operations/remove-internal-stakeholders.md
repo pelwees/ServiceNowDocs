@@ -37,7 +37,7 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 6.  Select **Remove**.
 
-    ![Selected button to remove internal stakeholder.](../image/remove-internal-stakeholder.png)
+    ![Selected button to remove internal stakeholder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/remove-internal-stakeholder.png)
 
 7.  In the Remove internal stakeholders dialog box, select **Remove**.
 
@@ -46,5 +46,5 @@ Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
 Selected stakeholders are removed from the list of internal stakeholders.
 
-**Parent Topic:**[Manage internal stakeholders](manage-internal-stakeholders.md)
+**Parent Topic:**[Manage internal stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/manage-internal-stakeholders.md)
 

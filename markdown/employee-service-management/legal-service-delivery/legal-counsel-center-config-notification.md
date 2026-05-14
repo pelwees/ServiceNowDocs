@@ -17,7 +17,7 @@ Legal Counsel Center notifications enable users to subscribe to items that inter
 
 Legal Counsel Center provides notifications for legal matters and for legal requests.
 
-For information about how to enable or disable notifications, see [Enable or disable notifications](../task/enable-disable-notification.md).
+For information about how to enable or disable notifications, see [Enable or disable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../task/enable-disable-notification.md).
 
 ## Legal Requests notifications
 
@@ -59,5 +59,5 @@ The default state of all Legal Matters notifications is Enabled.
 |Adhoc Approval Approve|Assigned to and event creator if assigned to|$\{Request\} is approved|
 |Adhoc Approval Reject|Assigned to and event creator if assigned to|$\{Request\} is rejected|
 
-**Parent Topic:**[Legal Counsel Center reference](legal-counsel-center-ws-reference.md)
+**Parent Topic:**[Legal Counsel Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-ws-reference.md)
 

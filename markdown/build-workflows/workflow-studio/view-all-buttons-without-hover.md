@@ -24,7 +24,7 @@ Role required: none
 
 When you hover over or select an element in the playbook diagram, buttons such as Edit, Delete, and others become visible. You can configure the user preferences to make the buttons visible by default, without hover or select.
 
-![Buttons show up in playbook elements when you hover.](../images/a11y-buttons-without-hover.png)
+![Buttons show up in playbook elements when you hover.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/a11y-buttons-without-hover.png)
 
 ## Procedure
 
@@ -35,5 +35,5 @@ When you hover over or select an element in the playbook diagram, buttons such a
     To learn more about how you can make the UI most accessible for you, see [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md)
 
 
-**Parent Topic:**[Configuring Playbooks](../concept/setting-up-process-automation-designer.md)
+**Parent Topic:**[Configuring Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/setting-up-process-automation-designer.md)
 

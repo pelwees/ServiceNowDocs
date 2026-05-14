@@ -39,7 +39,7 @@ You define the domain-separated environment when you configure your data inputs.
 
 Service Observability manages all aspects of the data, such as the data mappings and the data displayed on dashboards. When a property is changed, the new value affects new sources only in the specific domain.
 
-**Parent Topic:**[Service Observability reference](service-observability-reference.md)
+**Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
 **Related topics**  
 

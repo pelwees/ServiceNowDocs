@@ -31,10 +31,10 @@ Role required: admin
 
 5.  Toggle on **Source Control**, and then select **Save**.
 
-    ![Source Control](../image/delegated-dev-source-control.png "Source Control")
+    ![Source Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/../image/delegated-dev-source-control.png "Source Control")
 
 6.  The delegated developer can now access the Source Control menu options.
 
-    For more information on source control options, see [Legacy - Available source control operations](../reference/r_AvailableSourceControlOperations.md).
+    For more information on source control options, see [Legacy - Available source control operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/../reference/r_AvailableSourceControlOperations.md).
 
 

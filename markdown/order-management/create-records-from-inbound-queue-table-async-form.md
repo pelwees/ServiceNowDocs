@@ -120,10 +120,10 @@ Time zone
 Time zone in which you're operating your business.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 **Related topics**  
 
 
-[Configure a scheduled job for asynchronous order creation](../task/running-scheduled-job.md)
+[Configure a scheduled job for asynchronous order creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/running-scheduled-job.md)
 

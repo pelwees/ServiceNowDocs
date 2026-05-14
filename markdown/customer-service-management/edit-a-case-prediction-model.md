@@ -56,5 +56,5 @@ You have two options for editing your model: view the current training results o
 
 ## What to do next
 
-See how to [Export a model](export-a-task-intelligence-model.md)
+See how to [Export a model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/export-a-task-intelligence-model.md)
 

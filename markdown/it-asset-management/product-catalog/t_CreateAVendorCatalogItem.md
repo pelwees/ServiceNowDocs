@@ -32,7 +32,7 @@ Role required: model\_manager
     |Name|The name of the item is built from information in the **Product Model**, **Vendor**, and **Product ID** fields.|
     |Vendor|The supplier that provides the item.|
     |Product model|The specific version or configuration of the item.|
-    |Out of stock|The option that indicates whether the item is unavailable for order. This field is important if you are [sourcing request items](../../procurement/concept/c_SourcingRequestItems.md). Clear this check box if the item is available to order.|
+    |Out of stock|The option that indicates whether the item is unavailable for order. This field is important if you are [sourcing request items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../../procurement/concept/c_SourcingRequestItems.md). Clear this check box if the item is available to order.|
     |Product ID|The item identification number assigned by your organization.|
     |List price|The price at which the item retails, excluding vendor discounts.|
     |Vendor price|The price at which the item is available in the vendor catalog. If the vendor offers a discount, the vendor price reflects the discounted price.|
@@ -50,21 +50,21 @@ Role required: model\_manager
 4.  Click **Submit**.
 
 
--   **[Link an item to the hardware catalog](t_LinkAnItemToTheHardwareCatalog.md)**  
+-   **[Link an item to the hardware catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_LinkAnItemToTheHardwareCatalog.md)**  
 After you create a vendor catalog item, link the item to the hardware catalog for viewing.
--   **[Link an item to the software catalog](t_LinkAnItemToTheSoftwareCatalog.md)**  
+-   **[Link an item to the software catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_LinkAnItemToTheSoftwareCatalog.md)**  
 After you create a vendor catalog item, link the item to the software catalog for viewing.
--   **[Publish an item to the hardware catalog](t_PublishAnItemToTheHardwareCatalog.md)**  
+-   **[Publish an item to the hardware catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_PublishAnItemToTheHardwareCatalog.md)**  
 After you create a hardware item for the vendor catalog, publish it to the hardware catalog for viewing. The hardware catalog is a section within the service catalog.
--   **[Publish an item to the software catalog](t_PublishAnItemToTheSoftwareCatalog.md)**  
+-   **[Publish an item to the software catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_PublishAnItemToTheSoftwareCatalog.md)**  
 After you create a software item for the vendor catalog, publish it to the software catalog for viewing. The software catalog is a section within the service catalog.
 
-**Parent Topic:**[Vendor catalog items](../concept/c_ManageVendorCatalogItems.md)
+**Parent Topic:**[Vendor catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_ManageVendorCatalogItems.md)
 
 **Related topics**  
 
 
-[Synchronize information](../concept/c_SynchronizeInformation.md)
+[Synchronize information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_SynchronizeInformation.md)
 
-[View a vendor list](t_ViewAVendorList.md)
+[View a vendor list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_ViewAVendorList.md)
 

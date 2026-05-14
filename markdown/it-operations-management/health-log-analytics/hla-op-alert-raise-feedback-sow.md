@@ -29,7 +29,7 @@ Selecting the Raise feedback option raises the threshold for generating alerts w
 
 1.  In the Service Operations Workspace, open a Log Analytics alert and then select **Apply ML feedback** &gt; **Raise**.
 
-    ![Raise feedback option.](../image/hla-raise-feedback.png)
+    ![Raise feedback option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-raise-feedback.png)
 
 2.  Confirm the action in the dialog box.
 
@@ -44,5 +44,5 @@ Selecting the Raise feedback option raises the threshold for generating alerts w
     2.  Confirm the action in the dialog box.
 
 
-**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](../concept/hla-op-alert-significance.md)
+**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-op-alert-significance.md)
 

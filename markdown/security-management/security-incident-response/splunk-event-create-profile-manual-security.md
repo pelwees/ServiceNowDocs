@@ -33,7 +33,7 @@ Role required: sn\_si.ingestion\_profile\_admin
 
         Refer to the following figures and tables for more information about the available mapping options in the Mapping Options choice list.
 
-        ![Splunk: manual event forwarding](../image/splunk-manualevent1-security.png)
+        ![Splunk: manual event forwarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-manualevent1-security.png)
 
 <table id="table_psp_nxq_chb"><thead><tr><th>
 
@@ -112,7 +112,7 @@ Text to help you distinguish this profile from other profiles.
 
         For a profile with an existing field mapping, refer to the following figure and table for more information.
 
-        ![Manual: existing profile](../image/copy_mapping_security.png)
+        ![Manual: existing profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/copy_mapping_security.png)
 
 <table id="table_epm_wqf_dhb"><thead><tr><th>
 

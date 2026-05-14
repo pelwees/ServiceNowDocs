@@ -25,7 +25,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
 3.  Open the Legal Invention Disclosure request.
 
@@ -44,7 +44,7 @@ If an optional reward to the inventor at the Proceed with application stage has 
 
 ## What to do next
 
-Once you have associated the outside counsel to a legal matter send an email with the matter details to the outside counsel. For more information, see [Provide Legal Invention Disclosure request information to an outside counsel](idf-provide-info-outside-counsel.md).
+Once you have associated the outside counsel to a legal matter send an email with the matter details to the outside counsel. For more information, see [Provide Legal Invention Disclosure request information to an outside counsel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/idf-provide-info-outside-counsel.md).
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/use-legal-invention-disclosure.md)
 

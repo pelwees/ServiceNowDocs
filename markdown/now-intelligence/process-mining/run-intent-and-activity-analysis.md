@@ -35,13 +35,13 @@ You can run an intent and activity analysis from Analyst workbench or Opportunit
 
     A window is displayed with all the details.
 
-    ![Iintent and activity analysis](../image/intent-activity.png)
+    ![Iintent and activity analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/intent-activity.png)
 
 4.  From the **Investigate** section, select **Intent and activity analysis**.
 
     Alternately, select an improvement opportunity and then select **Intent and activity analysis** from the **Investigate** section.
 
-    ![Intent and activity analysis from Opportunity details tab](../image/intent-ana-imp-opp.png)
+    ![Intent and activity analysis from Opportunity details tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/intent-ana-imp-opp.png)
 
     A scheduled task starts.
 
@@ -49,10 +49,10 @@ You can run an intent and activity analysis from Analyst workbench or Opportunit
 
     The result is displayed.
 
-    ![Intent and activity analysis result](../image/intent-activity-ana-result.png)
+    ![Intent and activity analysis result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/intent-activity-ana-result.png)
 
     Use the thumbs up and thumbs down icons to provide feedback for the result that you have received.
 
 
-**Parent Topic:**[Using Now Assist for Process Mining](../concept/use-na-process-mining.md)
+**Parent Topic:**[Using Now Assist for Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-na-process-mining.md)
 

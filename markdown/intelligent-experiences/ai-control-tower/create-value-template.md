@@ -27,11 +27,11 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
 3.  In the **Value template** tab, select **Add template**.
 
-    ![Value template tab in AI Control Tower.](../image/aict-add-value-template.png "Value template tab")
+    ![Value template tab in AI Control Tower.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-add-value-template.png "Value template tab")
 
 4.  On the Add value template form, fill in the fields.
 
-    For a description of the field values, see [Add value template form](../reference/add-value-template-form.md).
+    For a description of the field values, see [Add value template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../reference/add-value-template-form.md).
 
 5.  Select **Save as draft**.
 

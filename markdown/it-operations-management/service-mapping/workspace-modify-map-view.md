@@ -47,7 +47,7 @@ The service instance map in the Event Management view reflects the severity stat
 
 5.  Click the **Open Map Display Settings** button.
 
-    ![The Open Map Display Settings button](../image/ws-map-display-settings.png)
+    ![The Open Map Display Settings button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ws-map-display-settings.png)
 
 6.  Select the relevant option:
 
@@ -117,13 +117,13 @@ The service instance map shows topology cycles.
 
 The map displays a service instance as a tree.
 
- ![Map showing an application service in the spanning tree view.](../image/ws-map-spanning-tree-enabled.png)
+ ![Map showing an application service in the spanning tree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ws-map-spanning-tree-enabled.png)
 
 </td><td>
 
 The map reflects the actual structure of a service instance.
 
- ![Map showing an application service not in the spanning tree view.](../image/ws-map-spanning-tree-disabled.png)
+ ![Map showing an application service not in the spanning tree view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ws-map-spanning-tree-disabled.png)
 
 </td></tr><tr><td>
 
@@ -171,5 +171,5 @@ No map indicators appear next to the application service name.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](../concept/service-analysis-maintenance-legacy-workspace.md)
+**Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/service-analysis-maintenance-legacy-workspace.md)
 

@@ -45,5 +45,5 @@ The output variables contain data that can be used in subsequent activities.
 |status\_code|Determines if the request was successful. If not, displays an HTTP error code and message.|
 |output|API variables|
 
-**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](../concept/secops-integration-cb-get-running-processes-workflow.md)
+**Parent Topic:**[Security Operations Carbon Black Integration - Get Running Processes Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/secops-integration-cb-get-running-processes-workflow.md)
 

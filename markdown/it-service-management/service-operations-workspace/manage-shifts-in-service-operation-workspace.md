@@ -31,7 +31,7 @@ Role required: rota\_manager, rota\_admin
 
 3.  Click **Approve** or **Reject** and confirm the same when prompted.
 
-4.  For gaps or conflicts, select the shift card and click ![More](../../service-reliability/image/icon-sr-more-actions-vertical.png) icon or right-click a shift card.
+4.  For gaps or conflicts, select the shift card and click ![More](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png) icon or right-click a shift card.
 
 5.  Click **Provide coverage** to replace a member of the shift.
 
@@ -40,7 +40,7 @@ Role required: rota\_manager, rota\_admin
     -   Member: name of the member
     -   Start
     -   End
-    ![Provide coverage](../image/provice_coverage_sow.png)
+    ![Provide coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/provice_coverage_sow.png)
 
 6.  Click **Schedule extra time** to work for extended hours and provide the following details:
 
@@ -48,10 +48,10 @@ Role required: rota\_manager, rota\_admin
     -   End
     Click **Schedule extra time**.
 
-    ![schedule extra time](../image/schedule_extra_time_sow.png)
+    ![schedule extra time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/schedule_extra_time_sow.png)
 
 7.  Right-click a shift card and click **Delete absence** to remove the approved absence request from the calendar.
 
 
-**Parent Topic:**[Scheduling in service operation workspace](scheduling-in-service-operation-workspace.md)
+**Parent Topic:**[Scheduling in service operation workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/scheduling-in-service-operation-workspace.md)
 

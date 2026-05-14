@@ -27,14 +27,14 @@ Role required: admin
 
 3.  [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the appropriate **Available** or **Not available** lists.
 
-    ![access control](../image/AccessControl.png "Access Control")
+    ![access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/AccessControl.png "Access Control")
 
 4.  Add the companies, departments, groups, users, or locations to the appropriate list.
 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Legacy service catalog access controls](../concept/c_LegcySrvcCatAccessCntrol.md)
+**Parent Topic:**[Legacy service catalog access controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_LegcySrvcCatAccessCntrol.md)
 
 ## Restrict access by role
 
@@ -58,7 +58,7 @@ Administrators can grant or deny access to a service catalog item or category ba
 
     You can, if needed, [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) or change to **Default View** to see the **Roles** field.
 
-    ![roles granted](../image/RolesGranted.png "Roles Granted")
+    ![roles granted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/RolesGranted.png "Roles Granted")
 
 
 ## Restrict access by a script
@@ -77,7 +77,7 @@ Role required: admin
 
 3.  [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the **Entitlement Script** field.
 
-    ![entitlement script](../image/EntitlementScript.png "Entitlement Script")
+    ![entitlement script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/EntitlementScript.png "Entitlement Script")
 
 4.  In the **Entitlement Script** field, enter the access control script.
 

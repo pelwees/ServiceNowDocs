@@ -93,5 +93,5 @@ The image file for the badge. Click to add the icon, choose the desired image fi
     The newly created badge appears on the Gamification Badges list.
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-administer.md)
 

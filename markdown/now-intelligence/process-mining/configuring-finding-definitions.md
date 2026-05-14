@@ -28,7 +28,7 @@ Rule-based improvement opportunities are created where you can change the table 
 
 Automated improvement opportunities are simpler to create. The process is short and can be completed in a few steps.
 
-For more information on creating finding definitions, see [Setting improvement opportunities](working-with-imp-opp.md).
+For more information on creating finding definitions, see [Setting improvement opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/working-with-imp-opp.md).
 
-**Parent Topic:**[Create a project using Classic view](../task/create-proj.md)
+**Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../task/create-proj.md)
 

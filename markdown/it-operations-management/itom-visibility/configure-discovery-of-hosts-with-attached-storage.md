@@ -15,10 +15,10 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 Discovery can find information about UNIX, Linux, and Windows hosts with attached storage.
 
--   **[Configure Discovery for UNIX or Linux hosts with attached storage](../task/t_ConfigureDiscoveryUNIXLinuxHosts.md)**  
+-   **[Configure Discovery for UNIX or Linux hosts with attached storage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/t_ConfigureDiscoveryUNIXLinuxHosts.md)**  
 Discovery can find information about a UNIX or Linux host and attached storage.
--   **[Configure Discovery for Windows hosts with attached storage](../task/t_ConfigureDiscoveryWindowsHosts.md)**  
+-   **[Configure Discovery for Windows hosts with attached storage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../task/t_ConfigureDiscoveryWindowsHosts.md)**  
 Discovery can find information about a Windows host and attached storage.
 
-**Parent Topic:**[Storage discovery](c_Storage.md)
+**Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 

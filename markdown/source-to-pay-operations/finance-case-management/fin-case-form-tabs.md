@@ -15,7 +15,7 @@ breadcrumb: [Create a finance case form, Reference, Finance Case Management, Fin
 
 The Finance case form includes tabs that store finance case information that a finance specialist can use to perform related tasks.
 
-![Tabs on the Finance Case form](../image/fin-ops-case-form-tab.png)
+![Tabs on the Finance Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-case-form-tab.png)
 
 <table id="table_op1_2ml_w2c"><thead><tr><th>
 
@@ -85,5 +85,5 @@ Cases by same requester
 Cases that are opened by the same requester.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create a finance case form](create-fin-inquiry-form.md)
+</table>**Parent Topic:**[Create a finance case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/create-fin-inquiry-form.md)
 

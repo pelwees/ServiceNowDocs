@@ -35,7 +35,7 @@ Role required: sn\_hr\_er.case\_writer
 
     1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-    2.  Select the **Lists** icon \(![Lists icon](../image/agent-ws-hr-list-icon.png)\).
+    2.  Select the **Lists** icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/agent-ws-hr-list-icon.png)\).
 
     3.  In the ER category, select an ER case.
 
@@ -100,7 +100,7 @@ The name of the involved party.Only appears when you check the **Not in system**
 </td></tr></tbody>
 </table>4.  Click **Submit** or **Save**.
 
-    -   If you select **Save**, the **Interviews** and **Corrective Actions** tabs appear. For more information, see [Schedule an interview in Employee Relations using the legacy UI](hr-er-interview.md).
+    -   If you select **Save**, the **Interviews** and **Corrective Actions** tabs appear. For more information, see [Schedule an interview in Employee Relations using the legacy UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-interview.md).
     -   Use the **Corrective Actions** tab to create and associate a corrective action record with an involved party.
     -   If an allegation record is created, the Subject of Allegation is auto-populated from the Involved Parties record of type **Subject of Allegation**, provided that only one subject of allegation exists.
 

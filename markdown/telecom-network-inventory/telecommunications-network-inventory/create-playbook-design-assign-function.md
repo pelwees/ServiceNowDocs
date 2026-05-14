@@ -17,12 +17,12 @@ Create a playbook for the Design and Assign function in the Workflow Studio. You
 
 ## Before you begin
 
--   [Create a Change Model](create-change-model-design-assign-playbook.md).
--   [Create record producers.](create-record-producer-design-assign-playbook.md)
--   [Add input variables to the record producer](create-variables-record-producer-design-assign-playbook.md).
--   [Add variable set to the record producer](add-variable-set-record-producer-design-assign-playbook.md).
--   [Create subflows](create-subflow-design-assign-playbook.md).
--   [Create request definitions](create-request-definition-design-assign-function.md).
+-   [Create a Change Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-change-model-design-assign-playbook.md).
+-   [Create record producers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-record-producer-design-assign-playbook.md)
+-   [Add input variables to the record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-variables-record-producer-design-assign-playbook.md).
+-   [Add variable set to the record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-variable-set-record-producer-design-assign-playbook.md).
+-   [Create subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-subflow-design-assign-playbook.md).
+-   [Create request definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-request-definition-design-assign-function.md).
 
 You create and configure the playbook in the Workflow Studio to fulfill a service request from the customer. Following are the configuration steps.
 
@@ -54,7 +54,7 @@ Role required: admin, playbook.admin
 
     To learn more, see [Add and configure a trigger in a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-trigger.md).
 
-    1.  Select the more options icon \(![More Options Icon](../../tmt-order-mgt/image/more-options.png) and select **Properties**.
+    1.  Select the more options icon \(![More Options Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../tmt-order-mgt/image/more-options.png) and select **Properties**.
 
     2.  On the **Schedule** tab, fill in the fields.
 
@@ -137,7 +137,7 @@ This activity is used to review and submit a design and assign request. It autom
 
     6.  Under the Inputs section, define the values of the activity's inputs.
 
-        Configure inputs with a hard-coded value, or by selecting the data pill picker icon \(![Data Pill Picker Icon](../image/data-pill-picker-icon-01.png)\) to use data from previous activities or the playbook trigger.
+        Configure inputs with a hard-coded value, or by selecting the data pill picker icon \(![Data Pill Picker Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/data-pill-picker-icon-01.png)\) to use data from previous activities or the playbook trigger.
 
     7.  Open the **UI Layout** tab and fill in the fields.
 
@@ -158,14 +158,14 @@ When your playbook's trigger conditions are met, your playbook runs.
 
 ## What to do next
 
-Update the system property to add the playbook in the Design and Assign home page. To learn more, see [Update system property to configure the Design and Assign home page](update-system-property-configure-design-assign-home-page.md).
+Update the system property to add the playbook in the Design and Assign home page. To learn more, see [Update system property to configure the Design and Assign home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update-system-property-configure-design-assign-home-page.md).
 
-**Parent Topic:**[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+**Parent Topic:**[Configuring Design and Assign function for your network services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-playbooks-design-assign-function.md)
 
 **Related topics**  
 
 
-[Configuring Design and Assign function for your network services](../concept/configure-playbooks-design-assign-function.md)
+[Configuring Design and Assign function for your network services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-playbooks-design-assign-function.md)
 
-[Configure a Design and Assign function example](../concept/configure-design-assign-playbook-use-case.md)
+[Configure a Design and Assign function example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-design-assign-playbook-use-case.md)
 

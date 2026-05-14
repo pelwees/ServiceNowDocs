@@ -31,7 +31,7 @@ If you decide to modify the flow, deactivate the original flow and make a copy. 
 
 1.  Navigate to **All** &gt; **Process Automation** &gt; **Flow designer**.
 
-2.  Select More actions ![more actions icon](../../human-resources/image/agent-workspace-more-ui-actions-icon.jpg)icon, then select **Copy flow**.
+2.  Select More actions ![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../human-resources/image/agent-workspace-more-ui-actions-icon.jpg)icon, then select **Copy flow**.
 
 3.  Enter a name for the new flow.
 
@@ -44,8 +44,8 @@ If you decide to modify the flow, deactivate the original flow and make a copy. 
 7.  Select **Save** and then select **Activate**.
 
 
--   **[Configure the chemical request approver based on location](hs-configure-approver-by-location.md)**  
+-   **[Configure the chemical request approver based on location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-approver-by-location.md)**  
 Configure approvers according to the location name entered on the request form. Multiple approvers can be associated with a single location.
 
-**Parent Topic:**[Setting up Health and Safety Environmental Management](../concept/hs-setting-up-environmental-management.md)
+**Parent Topic:**[Setting up Health and Safety Environmental Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-setting-up-environmental-management.md)
 

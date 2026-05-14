@@ -29,22 +29,22 @@ You select the incorrect alert in a pattern to exclude the entire pattern to whi
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Reporting** &gt; **Learned Patterns**.
 
-    ![Exclude pattern navigation](../image/em-exclude-pattern-nav.png)
+    ![Exclude pattern navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-exclude-pattern-nav.png)
 
 2.  On the Learned Patterns page, expand the anomalous pattern.
 
-    ![Expanded patterns](../image/em-expanded-patterns.png)
+    ![Expanded patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-expanded-patterns.png)
 
 3.  Select the pattern name to open it for exclusion.
 
 4.  On the SA Alert Aggregation Learned Pattern page, select **Exclude**.
 
-    ![Option to exclude the selected pattern](../image/em-pattern-exclude.png)
+    ![Option to exclude the selected pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-pattern-exclude.png)
 
 
 ## Result
 
 The entire pattern is removed from the Learned Patterns report and listed on the Excluded Patterns page, located at **Event Management** &gt; **Administration** &gt; **Excluded patterns**.
 
-If the pattern includes other alerts, you can restore it by reclaiming those alerts as a learned pattern. For further details, see [Restore excluded patterns](restore-excluded-patterns.md).
+If the pattern includes other alerts, you can restore it by reclaiming those alerts as a learned pattern. For further details, see [Restore excluded patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/restore-excluded-patterns.md).
 

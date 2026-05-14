@@ -29,8 +29,8 @@ From Quebec, Key Management Framework enables you to manage keys used for Passwo
 
 -   **Verify Password2 is included in XML records**
 
-    View the XML records in the ServiceNow AI Platform instance, and verify that the encryption looks similar to this example:![Password2 encryption](../image/password2-encryption-patterns.jpg)
+    View the XML records in the ServiceNow AI Platform instance, and verify that the encryption looks similar to this example:![Password2 encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/password2-encryption-patterns.jpg)
 
 
-**Parent Topic:**[Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)
+**Parent Topic:**[Configuring Pattern Designer and related applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/configuring-pattern-designer-plugins.md)
 

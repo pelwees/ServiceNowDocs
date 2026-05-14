@@ -27,6 +27,6 @@ Role required: admin
 
 -   Configure the Source system \[sn\_hcls\_source\_system\] table to receive data from an external Redox healthcare system by using the Redox Inbound Integration application.
 
-    For more information, see [Configure an external Redox healthcare system as a source system for a custom integration](hcls-config-source-system.md).
+    For more information, see [Configure an external Redox healthcare system as a source system for a custom integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-config-source-system.md).
 
 

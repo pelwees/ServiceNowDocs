@@ -25,9 +25,9 @@ Requirement: [Microsoft AD spoke](https://raw.githubusercontent.com/ServiceNow/S
 
 Group owners can add themselves or other users to a Microsoft Active Directory Group distribution list by providing the group name and the email address or username of one or more users to add.
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-![Add User to AD Group topic.](../image/AddADUser2.png)
+![Add User to AD Group topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/AddADUser2.png)
 
 ## Create AD Distribution Group
 
@@ -39,25 +39,25 @@ Users can create a Microsoft Active Directory distribution list by providing the
 
 The current user is automatically added as the group owner. Distribution lists are always public.
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-![Create AD Distribution Group topic.](../image/CreateADGroup2.png)
+![Create AD Distribution Group topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/CreateADGroup2.png)
 
 ## Remove User from AD Group
 
 Users can remove themselves from a Microsoft Active Directory Group distribution list. Group owners can remove other users from a group. Provide the group name and username or email addresses to remove.
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-![Remove User from AD Group topic.](../image/RemoveADUser2.png)
+![Remove User from AD Group topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/RemoveADUser2.png)
 
 ## Show My AD Group Membership
 
 Group members can see a list of the Microsoft Active Directory distribution lists of which they are currently a member or manager.​
 
-This topic uses the Create Incident [topic block](itsm-va-topic-blocks.md).
+This topic uses the Create Incident [topic block](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md).
 
-![Show my AD Group Membership topic.](../image/ShowADGroup2.png)
+![Show my AD Group Membership topic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/ShowADGroup2.png)
 
-**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](../concept/using-itsm-va.md)
+**Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../concept/using-itsm-va.md)
 

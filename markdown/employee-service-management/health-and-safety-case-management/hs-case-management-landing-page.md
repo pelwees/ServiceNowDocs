@@ -19,23 +19,23 @@ The ServiceNow® Health and Safety Case Management application provides capabili
 
 <table id="table_emw_cqr_ybc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how workers, line managers, and safety personnel use Health and Safety Case Management.](../concept/hs-exploring-case-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how workers, line managers, and safety personnel use Health and Safety Case Management.](../concept/hs-exploring-case-management.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Health and Safety Case Management.](../../hs-risk-management/concept/hs-setting-up-risk-mgmt.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Health and Safety Case Management.](../../hs-risk-management/concept/hs-setting-up-risk-mgmt.md)
 
 </td><td>
 
-[Ask Safety question![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Submit health and safety related questions to safety team.](../task/hs-ask-health-safety-question.md)
+[Ask Safety question![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Submit health and safety related questions to safety team.](../task/hs-ask-health-safety-question.md)
 
 </td></tr><tr><td>
 
-[Resolve cases![](../../../reuse/icons/brand-icons/bus-compliance.svg)Manage Health and Safety cases.](../task/hs-work-health-safety-case.md)
+[Resolve cases![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/brand-icons/bus-compliance.svg)Manage Health and Safety cases.](../task/hs-work-health-safety-case.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, and store applications that are installed.](../concept/hs-case-management-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as roles, tables, and store applications that are installed.](../concept/hs-case-management-reference.md)
 
 </td><td>
 

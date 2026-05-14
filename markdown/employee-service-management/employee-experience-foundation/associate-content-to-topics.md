@@ -25,16 +25,16 @@ Role required: admin
 
 2.  Click **New**.
 
-    ![Associating topic to the related tabs](../images/associate-topics-tabs.png "Connected content tab")
+    ![Associating topic to the related tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/associate-topics-tabs.png "Connected content tab")
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields and description, see [Connected Content form](../reference/connected-content-form.md).
+    For more information on the fields and description, see [Connected Content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/connected-content-form.md).
 
 4.  Click **Submit**.
 
 
 ## What to do next
 
-For more information, see [Taxonomy and connected content](../concept/track-new-content.md).
+For more information, see [Taxonomy and connected content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/track-new-content.md).
 

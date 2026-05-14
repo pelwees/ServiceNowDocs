@@ -39,7 +39,7 @@ Direct usage of the `admin` role for feature administration resulted in:
 
 ## Standard role pattern
 
-![Role patter.](../../image/eaw-image/role-pattern.png)
+![Role patter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/role-pattern.png)
 
 -   `<feature>_admin` – Full administrative control for a specific feature or capability
 -   `<feature>_read` – Read‑only access for operational or reporting use
@@ -51,5 +51,5 @@ Direct usage of the `admin` role for feature administration resulted in:
 -   `sn_apm.apm_read` – Read‑only access to Enterprise Architecture data
 -   `sn_apm.apm_user` – Standard Enterprise Architecture user access
 
-**Parent Topic:**[Install Enterprise Architecture Workspace](../../task/install-ea-workspace.md)
+**Parent Topic:**[Install Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/install-ea-workspace.md)
 

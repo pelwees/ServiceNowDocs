@@ -22,10 +22,10 @@ Gamification includes two pre-configured tracks:
 
 While the application is configured to accumulate points by tracks, gamification does not currently display tracks in the community portal.
 
-**Parent Topic:**[Gamification components](gamification-components.md)
+**Parent Topic:**[Gamification components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components.md)
 
 **Related topics**  
 
 
-[Create a gamification track](../task/gamification-create-track.md)
+[Create a gamification track](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../task/gamification-create-track.md)
 

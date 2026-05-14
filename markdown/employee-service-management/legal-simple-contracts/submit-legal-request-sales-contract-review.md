@@ -119,7 +119,7 @@ Additional information
 Additional information about the sales contract.
 
 </td></tr></tbody>
-</table>3.  Click the add attachments icon \(![Add attachments icon](../../legal-request-management/image/add-attachment-icon.png)\) to upload an attachment to the request.
+</table>3.  Click the add attachments icon \(![Add attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-request-management/image/add-attachment-icon.png)\) to upload an attachment to the request.
 
 4.  Click **Submit**.
 
@@ -134,5 +134,5 @@ Additional information about the sales contract.
 
 The legal request is created and assigned to the legal sales contract group.
 
-**Parent Topic:**[Sales contract review requests](../concept/legal-request-sales-contracts.md)
+**Parent Topic:**[Sales contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../concept/legal-request-sales-contracts.md)
 

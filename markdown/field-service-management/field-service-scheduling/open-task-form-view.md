@@ -29,7 +29,7 @@ When you open multiple tasks, Dispatcher Workspace displays today's date, not th
 
 1.  Navigate to **All** &gt; **CSM/ FSM Configurable Workspace**.
 
-2.  Select the **List** ![List](../image/coral-list-icon.png) icon.
+2.  Select the **List** ![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/coral-list-icon.png) icon.
 
 3.  Select **Work Order Tasks** &gt; **My Work Order Tasks**.
 
@@ -37,6 +37,6 @@ When you open multiple tasks, Dispatcher Workspace displays today's date, not th
 
 5.  Select **Open in Dispatcher Workspace** from the **More Actions** menu.
 
-    ![opening a task from the work order task form](../image/open-from-form.png)
+    ![opening a task from the work order task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/open-from-form.png)
 
 

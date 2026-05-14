@@ -69,12 +69,12 @@ Use an HTTP protocol analyzer to inspect the request. Useful tools include:
     -   The URL parameters
     -   The POST parameters, if any
     -   The format of the request body, if included
-    ![Example](../images/client-request.png)
+    ![Example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/client-request.png)
 
 
 ## Result
 
-Inspecting the request provides an understanding of the fields you need to filter for and iterate over in your encryption rule. To understand the fields in the request object, see [request](../concept/c_requestAPI.md#).
+Inspecting the request provides an understanding of the fields you need to filter for and iterate over in your encryption rule. To understand the fields in the request object, see [request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_requestAPI.md#).
 
-**Parent Topic:**[Define a custom encryption rule](../concept/c_EncryptionRules.md)
+**Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../concept/c_EncryptionRules.md)
 

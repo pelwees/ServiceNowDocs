@@ -40,5 +40,5 @@ You must have agreed to a user privacy consent in order to be able to report you
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Health and Safety Testing](../concept/health-safety-testing.md)
+**Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/../concept/health-safety-testing.md)
 

@@ -17,7 +17,7 @@ Create a test with the details of an existing test.
 
 ## Before you begin
 
--   [Create a test](t_CreateATest.md).
+-   [Create a test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateATest.md).
 -   Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
@@ -30,12 +30,12 @@ Create a test with the details of an existing test.
 
 4.  Click the **Create Duplicate** related link.
 
-    A new test is created with details from the old test and the test form is opened.![New test duplicated from an existing test.](../image/new-duplicate-test.png)
+    A new test is created with details from the old test and the test form is opened.![New test duplicated from an existing test.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../image/new-duplicate-test.png)
 
 5.  Make any necessary changes to details of the new test.
 
 6.  Click **Update**.
 
 
-**Parent Topic:**[Tests](../concept/c_Tests.md)
+**Parent Topic:**[Tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_Tests.md)
 

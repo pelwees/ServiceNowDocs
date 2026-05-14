@@ -21,7 +21,7 @@ An XML string has a tree structure, and the parts of the structure are called no
 
 **Note:** This API works for scoped or global applications.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped XMLDocument2 - XMLDocument2\(\)
 
@@ -209,7 +209,7 @@ However, it does not support the following xPath expressions with predicates:
 "/store/resources/resource[@type='bookstore']/book[position()>2]" 
 ```
 
-To work around this, use xPath without predicates, such as `"/store/resources/resource[@type='bookstore']/book")` and then filter the nodes in the script using the getFirstNode\(\) and [getNextNode\(\)](c_XMLDocument2ScopedAPI.md#) methods.
+To work around this, use xPath without predicates, such as `"/store/resources/resource[@type='bookstore']/book")` and then filter the nodes in the script using the getFirstNode\(\) and [getNextNode\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_XMLDocument2ScopedAPI.md#) methods.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -281,7 +281,7 @@ another
 
 Gets the node specified in the xPath.
 
-**Note:** This method is intended for use with small documents since it parses the entire document to match the xPath expression. If the document is too large, an out of memory error may occur. For large documents, use the [getFirstNode\(String xPath\)](c_XMLDocument2ScopedAPI.md#) and [getNextNode\(Object current\)](c_XMLDocument2ScopedAPI.md#) methods, which are designed to stream through the document without parsing the entire document.
+**Note:** This method is intended for use with small documents since it parses the entire document to match the xPath expression. If the document is too large, an out of memory error may occur. For large documents, use the [getFirstNode\(String xPath\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_XMLDocument2ScopedAPI.md#) and [getNextNode\(Object current\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_XMLDocument2ScopedAPI.md#) methods, which are designed to stream through the document without parsing the entire document.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -432,9 +432,9 @@ xmlDoc.setCurrentElement(rootNode);
 
 Sets whether nodes are treated as CDATA or regular text after parsing. CDATA reporting is deactivated by default.
 
-This method must be called with [Scoped XMLDocument2 - parseXML\(String xmlDoc\)](c_XMLDocument2ScopedAPI.md#).
+This method must be called with [Scoped XMLDocument2 - parseXML\(String xmlDoc\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_XMLDocument2ScopedAPI.md#).
 
-See also: [Scoped XMLNode - isCDATANode\(\)](../../XMLNodeScopedAPI/concept/c_XMLNodeScopedAPI.md#).
+See also: [Scoped XMLNode - isCDATANode\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../XMLNodeScopedAPI/concept/c_XMLNodeScopedAPI.md#).
 
 <table id="table_bk3_rjy_3x" class="parameters"><thead><tr><th>
 

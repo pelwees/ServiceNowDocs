@@ -17,10 +17,10 @@ Timelines display a linear calendar of tasks, such as incidents and change reque
 
 A span represents each task on the timeline, which is displayed as a horizontal bar and may have distinctive color coding. Each span has a label and can have tooltip text containing additional information about the task. You can also change the perspective of the calendar for a more granular view of the data.
 
--   **[Changes in perspective](c_ChangingPerspective.md)**  
+-   **[Changes in perspective](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ChangingPerspective.md)**  
 Use the range selectors at the top of the timeline to change the perspective.
--   **[Managing spans](manage-spans.md)**  
+-   **[Managing spans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/manage-spans.md)**  
 You can view span details, focus and zoom spans, and edit spans.
 
-**Parent Topic:**[Timeline pages](../../../administer/time/concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../../administer/time/concept/c_TimelinePages.md)
 

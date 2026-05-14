@@ -28,7 +28,7 @@ Create a CI/CD variable for the following 3 parameters:
 -   **JFROG\_USER**
 -   **JFROG\_PASSWORD**
 
-![Set the parameters.](../image/jfrog-sample-gitlab-01.png)
+![Set the parameters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jfrog-sample-gitlab-01.png)
 
 ## Sample pipeline to upload artifacts from GitLab to JFrog
 
@@ -97,5 +97,5 @@ download:
   - jfrog config add artifactory-server --artifactory-url=${JFROG_ARTIFACTORY_URL} --user=${JFROG_ARTIFACTORY_USERNAME} --password=${JFROG_ARTIFACTORY_PASSWORD}
 ```
 
-**Parent Topic:**[JFrog integration with DevOps Change Velocity](../concept/devops-jfrog-integration.md)
+**Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-jfrog-integration.md)
 

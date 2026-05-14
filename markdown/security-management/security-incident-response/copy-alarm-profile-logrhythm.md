@@ -29,20 +29,20 @@ If you copy a profile, the profile name is initially modified to avoid duplicate
 
     In the list that is displayed, note the `Active` column indicates if the profile is active \(`true`\).
 
-    ![Alarm profile before copying.](../image/profilecopy01__list_view.png)
+    ![Alarm profile before copying.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profilecopy01__list_view.png)
 
 2.  In the field to the left of the **Name** column, select the name of the record.
 
 3.  From the **Actions on selected rows** choice list, select **Copy**.
 
-    ![Task: Select copy from the choice list.](../image/profilecopy02__selected_profile_with_action_menu.png)
+    ![Task: Select copy from the choice list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/profilecopy02__selected_profile_with_action_menu.png)
 
     In the **Alarm Profiles** list, both the copy and the original profile are displayed. Although the original record is active, the copy is inactive at this point \(`false`\). After you have configured it, you activate this copied profile.
 
-    ![Alarm profile copy complete.](../image/6-1lr-profilecopy03__copy_complete.png)
+    ![Alarm profile copy complete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/6-1lr-profilecopy03__copy_complete.png)
 
     You can edit values of the copied profile and rename it so alarm rules you pull apply to the new profile. You are prompted to activate the new profile once the configuration steps are completed.
 
 
-**Parent Topic:**[Additional configurations for the LogRhythm integration](configure-system-and-troubleshooting-properties.md)
+**Parent Topic:**[Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)
 

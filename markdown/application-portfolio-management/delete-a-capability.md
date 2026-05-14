@@ -21,29 +21,29 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Business Capability Hierarchy page by clicking the Business Portfolio icon \(![Business Portfolio icon](../image/business-portfolio-icon.png)\).
+2.  Open the Business Capability Hierarchy page by clicking the Business Portfolio icon \(![Business Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/business-portfolio-icon.png)\).
 
 3.  Right-click the hierarchy ID of a capability that you want delete, then select **Delete**
 
 4.  Confirm the deletion.
 
 
-**Parent Topic:**[Working with the business portfolio module](../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
+**Parent Topic:**[Working with the business portfolio module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/eaw-concept/eaw-work-with-business-portfolio-mod.md)
 
 **Related topics**  
 
 
-[Assign a business application](assign-a-business-application.md)
+[Assign a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/assign-a-business-application.md)
 
-[Unassign a business application from a capability](eaw-task/unassign-a-business-application-from-a-capability.md)
+[Unassign a business application from a capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-task/unassign-a-business-application-from-a-capability.md)
 
-[Update the hierarchy of a business capability](update-hierarchy.md)
+[Update the hierarchy of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/update-hierarchy.md)
 
-[View a roadmap of a business capability](eaw-task/eaw-view-roadmap-bc.md)
+[View a roadmap of a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-task/eaw-view-roadmap-bc.md)
 
-[Create a sub-capability](eaw-task/eaw-create-sub-capability.md)
+[Create a sub-capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-task/eaw-create-sub-capability.md)
 
-[Add a business capability](add-a-capability.md)
+[Add a business capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/add-a-capability.md)
 
-[Create a demand towards achievement of a capability](eaw-task/eaw-create-a-demand-towards-achievement-of-capability.md)
+[Create a demand towards achievement of a capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-task/eaw-create-a-demand-towards-achievement-of-capability.md)
 

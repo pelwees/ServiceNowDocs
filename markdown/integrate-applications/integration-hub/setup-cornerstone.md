@@ -35,13 +35,13 @@ Role required: admin
 
 2.  Navigate to **Admin** &gt; **Tools**.
 
-    ![Navigate to Admin > Tools .](../image/cornerstone-app.png)
+    ![Navigate to Admin > Tools .](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cornerstone-app.png)
 
 3.  Click **EDGE**.
 
 4.  Click **API Management** under **Develop**.
 
-    ![Access API Management.](../image/cornerstone-app-1.png)
+    ![Access API Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cornerstone-app-1.png)
 
     The API Management window is displayed in a new browser tab.
 
@@ -58,7 +58,7 @@ Role required: admin
 
 8.  Select the scopes as per your requirement.
 
-    ![Select the required scopes.](../image/cornerstone-app-2.png)
+    ![Select the required scopes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/cornerstone-app-2.png)
 
 9.  Click **Register Application**.
 

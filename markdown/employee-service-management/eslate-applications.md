@@ -16,7 +16,7 @@ Employees can discover, access, and manage all their business applications from 
 
 The featured apps serves as a central hub where employees can discover, access, and manage all their work applications from a single location. This streamlined approach eliminates the need to remember multiple URLs or navigate through various portals to access different business applications.
 
-![featured applications](../images/es-featured-applications.png "Featured applications")
+![featured applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/es-featured-applications.png "Featured applications")
 
 ## Key capabilities
 

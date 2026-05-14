@@ -38,7 +38,7 @@ Prior to the Yokohama release, the Regulatory Change Management users had the op
 -   Risk framework
 -   Risk
 
-**Note:** Impacted areas can be added to regulatory alerts that are of type regulatory event. For more information, see [Add impacted areas manually to a regulatory alert](../../now-assist-irm/task/add-impacted-area-reg-alert.md)
+**Note:** Impacted areas can be added to regulatory alerts that are of type regulatory event. For more information, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../now-assist-irm/task/add-impacted-area-reg-alert.md)
 
 ## Impact radius calculation
 
@@ -48,5 +48,5 @@ When you add impacted areas to regulatory alerts of type regulatory event, assig
 
 The Compliance Workspace is updated to display the regulatory changes by impacted areas. The following figure displays the regulatory changes section under the Tracking widget.
 
-![The figure shows the link to the Regulatory change management dashboard and the regulatory change tasks.](../../grc-rcm-workspace/image/compliance-workspace-reg-changes.png "Regulatory changes on the Compliance workspace")
+![The figure shows the link to the Regulatory change management dashboard and the regulatory change tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm-workspace/image/compliance-workspace-reg-changes.png "Regulatory changes on the Compliance workspace")
 

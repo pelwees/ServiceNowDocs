@@ -34,7 +34,7 @@ Role required:
 
 5.  From the Subflow summary dialog box, select **Summarize**.
 
-    ![An example summary of the Change - Implementation tasks subflow.](../images/subflow-summary-03.png)
+    ![An example summary of the Change - Implementation tasks subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-summary-03.png)
 
 
 ## Result
@@ -43,9 +43,9 @@ Now Assist for Creator generates a summary of the subflow. The subflow summary a
 
 ## What to do next
 
-![Refresh summary option on the Subflow summary dialog box](../images/subflow-summary-04.png)
+![Refresh summary option on the Subflow summary dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-summary-04.png)
 
 You can regenerate the subflow summary by selecting the **Refresh summary** icon next to the summary creation date.
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

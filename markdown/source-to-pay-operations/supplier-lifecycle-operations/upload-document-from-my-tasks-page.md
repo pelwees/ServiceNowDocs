@@ -33,10 +33,10 @@ Role required: sn\_slm.contact
 
 5.  In the Attachments section, upload your document.
 
-    ![Attachments section for uploading documents](../image/doc-upload-my-tasks.png)
+    ![Attachments section for uploading documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/doc-upload-my-tasks.png)
 
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](upload-doc-portal.md)
+**Parent Topic:**[Manage documents from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-portal.md)
 

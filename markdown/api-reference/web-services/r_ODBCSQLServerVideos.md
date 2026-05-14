@@ -23,5 +23,5 @@ Configuring Microsoft SQL Linked Server with the ODBC driver
 
 Troubleshooting Microsoft SQL Linked Server permissions
 
-**Parent Topic:**[ODBC driver in SQL Server](../concept/c_ODBCDrvrSQL20082012.md)
+**Parent Topic:**[ODBC driver in SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_ODBCDrvrSQL20082012.md)
 

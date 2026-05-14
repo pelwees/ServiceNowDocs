@@ -17,7 +17,7 @@ A certification task represents the work of verifying and certifying the data as
 
 ## Before you begin
 
-Make sure that the admin has reviewed the Cloud Account Management default policy. Optionally, the admin can customize or add new policies based on the organization requirement. For more information, see [Review default Cloud Account Management certification policy](policy-setup.md). The ITOM Cloud Account Management Certifier Group must contain at least one user.
+Make sure that the admin has reviewed the Cloud Account Management default policy. Optionally, the admin can customize or add new policies based on the organization requirement. For more information, see [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md). The ITOM Cloud Account Management Certifier Group must contain at least one user.
 
 **Note:** Cloud Account Management admin can add users to the Cloud Account Management Certifier Group by navigating to **All** &gt; **Account Certification** &gt; **ITOM CAM Certifier Group** &gt; **Group Members**.
 
@@ -37,7 +37,7 @@ Role required: sn\_itom\_cam.cw\_certifier
 
 4.  Select the records that you want to conclude the review for in the Review not completed tab, and then select **Certify** or **Fail**.
 
-    ![Pending Cloud Account Management certification list](../image/cam-certification.png "Cloud Account Management certification review")
+    ![Pending Cloud Account Management certification list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/cam-certification.png "Cloud Account Management certification review")
 
     **Note:** If you select **Fail**, the task is moved to the registry and Cloud Account Management admin will take the next action. You can also reassign the ownership of a task.
 

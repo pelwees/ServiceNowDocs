@@ -17,7 +17,7 @@ Revert the normalization of firmware models in the OT Asset Workspace.
 
 ## Before you begin
 
-**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 

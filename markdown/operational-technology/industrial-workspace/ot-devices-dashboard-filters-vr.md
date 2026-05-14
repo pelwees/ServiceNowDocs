@@ -32,8 +32,8 @@ The site filter lets you do the following actions:
     **Note:** If there's no site assigned to an OT device, the filter shows **No site assigned**. To have the correct sites shown on the dashboard, you must assign a site to the device and then assign a business unit to that site.
 
 
--   **[Use the site filter](../task/use-business-unit-and-site-filters.md)**  
+-   **[Use the site filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../task/use-business-unit-and-site-filters.md)**  
 Use the site in the Operational Technology \(OT\) Visibility dashboard, the Operational Technology Vulnerability Response \(PA\) dashboard, and the OT Vulnerability Risk Rollup dashboard to filter the data by the selected site or sites.
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../operational-technology-management/concept/using-industrial-workspace.md)
 

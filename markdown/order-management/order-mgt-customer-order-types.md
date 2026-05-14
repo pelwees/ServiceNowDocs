@@ -80,7 +80,7 @@ Order line items with No change action are included in the order for information
 **Related topics**  
 
 
-[Suspend and resume products and services](order-mgt-suspend-resume-action.md)
+[Suspend and resume products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-suspend-resume-action.md)
 
-[Managing post-fulfillment order changes](managing-orders.md)
+[Managing post-fulfillment order changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 

@@ -21,11 +21,11 @@ Confirm that the DEX plugin \(sn\_dex\) is installed.
 
 To add an application to be monitored, verify you have completed the following tasks:
 
--   [Create an ACC registration key](setup-acc.md)
+-   [Create an ACC registration key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/setup-acc.md)
 -   Install ACC:
-    -   [Install ACC for DEX on Windows](install-acc-for-dex-windows.md)
-    -   [Install ACC for DEX on macOS](install-acc-for-dex-macos.md)
--   [Enable DEX browser extension](enable-dex-browser-extension.md)
+    -   [Install ACC for DEX on Windows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-acc-for-dex-windows.md)
+    -   [Install ACC for DEX on macOS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-acc-for-dex-macos.md)
+-   [Enable DEX browser extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-dex-browser-extension.md)
 
 Role required: sn\_dex.admin
 
@@ -43,9 +43,9 @@ Role required: sn\_dex.admin
 
 5.  On the form, fill in the fields.
 
-    For more information on each field, see [New web or installed application form](../reference/admin-new-app-form.md).
+    For more information on each field, see [New web or installed application form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/admin-new-app-form.md).
 
-6.  Move the monitoring toggle switch \(![Use the toggle switch to activate monitoring for the application.](../image/icon-toggle-button-enabled.png)\) to turn on the reporting.
+6.  Move the monitoring toggle switch \(![Use the toggle switch to activate monitoring for the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-toggle-button-enabled.png)\) to turn on the reporting.
 
 7.  Select **Save**.
 
@@ -54,5 +54,5 @@ Role required: sn\_dex.admin
 
 The application is added to the list of monitored applications.
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-application-monitoring.md)
 

@@ -27,39 +27,39 @@ Role required: survey\_creator, survey\_admin, or admin
 
 4.  On the Survey Designer Configuration form, fill in the fields.
 
-    For a description of the field values, see [Survey Designer Configuration form](../reference/survey-design-config-form.md).
+    For a description of the field values, see [Survey Designer Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/survey-design-config-form.md).
 
 5.  Select the **Availability** tab and complete the form.
 
 
-**Parent Topic:**[Survey designer](../concept/c_SurveyDesigner.md)
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesigner.md)
 
 **Related topics**  
 
 
-[Survey designer elements](../concept/c_SurveyDesignerElements.md)
+[Survey designer elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyDesignerElements.md)
 
-[Survey categories](../concept/c_SurveyCategory.md)
+[Survey categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyCategory.md)
 
-[Create a question in the survey designer](t_CreateQuestSurveyDesigr.md)
+[Create a question in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateQuestSurveyDesigr.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Create custom metric type](create-custom-templates-questions.md)
+[Create custom metric type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/create-custom-templates-questions.md)
 
-[Edit a survey in the survey designer](t_EditASurveyInTheSurveyDesigner.md)
+[Edit a survey in the survey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditASurveyInTheSurveyDesigner.md)
 
-[Configure category weights for a survey](t_ConfigCatWeightsForSurvey.md)
+[Configure category weights for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigCatWeightsForSurvey.md)
 
-[View a survey scorecard](t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[Create a survey designer template question](t_CreateASurveyDesignerTemplateQ.md)
+[Create a survey designer template question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyDesignerTemplateQ.md)
 
-[Select recipients for a survey in the Survey Designer](t_SelRecipsForASurveyInDesigner.md)
+[Select recipients for a survey in the Survey Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelRecipsForASurveyInDesigner.md)
 
-[Publish a survey in the Survey Designer](t_PublishASurveyInSurveyDesigner.md)
+[Publish a survey in the Survey Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurveyInSurveyDesigner.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
 
-[Create an assessment signature](../../assessments/task/t_CreateAnAssessmentSignature.md)
+[Create an assessment signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_CreateAnAssessmentSignature.md)
 

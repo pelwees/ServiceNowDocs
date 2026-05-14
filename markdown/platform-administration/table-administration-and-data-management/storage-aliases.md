@@ -55,7 +55,7 @@ A storage alias is created for every field on a table within an instance. Famili
     Specifies the logical class that each element links to on the physical Task \[task\] table. The Table element holds the table\_name value which is the class discriminator.
 
 
-![Elements with storage alias a_ref_2 on the Task table.](../image/storage-aliases.png "Storage column aliases")
+![Elements with storage alias a_ref_2 on the Task table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/storage-aliases.png "Storage column aliases")
 
 In this example, the storage alias for the cab\_delegate element is a\_ref\_2 and the physical storage table where the data is stored is task. The example depicts 10 logical elements in different logical classes on the Task \[table\] that all link to the same alias a\_ref\_2 on the physical Task \[task\] table.
 
@@ -93,5 +93,5 @@ Storage aliases serve multiple purposes.
 -   Only sibling elements can share a physical column. For example, a reference field on the Change Request \[change\_request\] table and a reference field on the Incident \[incident\] table and can both map to the same physical column.
 -   Fields created directly on the Task \[task\] table \(where sys\_class\_name is 'task'\) can't be glommed.
 
-**Parent Topic:**[Exploring ServiceNow AI Platform tables](exploring-table-administration.md)
+**Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 

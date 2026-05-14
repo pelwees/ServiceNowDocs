@@ -19,5 +19,5 @@ An agent is useful in discovering software deployed on end user machines such as
 
 You can download the Agent Client Collector application from the ServiceNow Store.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

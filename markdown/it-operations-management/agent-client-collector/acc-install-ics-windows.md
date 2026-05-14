@@ -19,7 +19,7 @@ Install MID-less Agent Client Collector on a Windows machine to enable sending d
 
 -   Install the ITOM Cloud Services Core \(sn\_itom\_cloud\_svc\) plugin.
 -   Onboard your instance to use ITOM Cloud Services. For details, contact Customer Support.
--   Configure an agent registration key. For details, see [Configure an agent registration key](agent-registration-key-configuration.md).
+-   Configure an agent registration key. For details, see [Configure an agent registration key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-registration-key-configuration.md).
 -   Role required: agent\_client\_collector\_admin
 
 ## About this task
@@ -39,8 +39,8 @@ For details on sending data through the cloud in a MID-less deployment, see [DEX
     msiexec /i <msi_file_path> /quiet /qn /norestart CONNECT_WITHOUT_MID="true" ACC_CNC="<gateway_endpoint>" REGISTRATION_KEY="<registration_key>" INSTANCE_URL="https://<instance_url>"
     ```
 
-    For details on the parameter values in the command, see [Agent Client Collector MID-less installation command parameters](../reference/acc-ics-command-params.md).
+    For details on the parameter values in the command, see [Agent Client Collector MID-less installation command parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/acc-ics-command-params.md).
 
 
-**Parent Topic:**[Installing MID-less Agent Client Collector](../concept/acc-itom-cloud-services.md)
+**Parent Topic:**[Installing MID-less Agent Client Collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-itom-cloud-services.md)
 

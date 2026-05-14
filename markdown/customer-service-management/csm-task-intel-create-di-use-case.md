@@ -33,7 +33,7 @@ Create a use case that identifies the information to extract from email and case
 
     -   Activate Task Intelligence for Customer Service \(com.snc.csm\_ml\_task\).
     -   Activate Document Intelligence Admin \(com.snc.docintel\_admin\).
-    For more information, see [Configure Document Intelligence for Customer Service](csm-doc-intel-configuring-.md).
+    For more information, see [Configure Document Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-doc-intel-configuring-.md).
 
 
 ## Access the DocIntel Admin experience
@@ -43,7 +43,7 @@ Create a use case that identifies the information to extract from email and case
 
 ## Create a use case
 
-Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [Use Cases list](csm-document-intelligence.md#section_cyk_n1r_fwb) in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
+Create a use case to identify a document or set of documents to be processed together in Document Intelligence. With Document Intelligence for Customer Service, the [Use Cases list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-document-intelligence.md#section_cyk_n1r_fwb) in the DocIntel Admin experience uses a default filter with an OR condition to show use cases for:
 
 -   Application = Task Intelligence for Customer service -or-
 -   MLUC ID = MLUC CSM-00003
@@ -267,13 +267,13 @@ The extraction mode determines how the Document Intelligence workspace handles t
 3.  Select **Extraction Mode**.
 4.  To use the Recommendation mode, enable **Mode 1: Recommendation**.
 
-    ![DocIntel Admin Recommendation data extraction mode](../image/doc-intel-admin-extraction-mode-1.png)
+    ![DocIntel Admin Recommendation data extraction mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/doc-intel-admin-extraction-mode-1.png)
 
 5.  To use the Autofill mode, enable **Mode 2: Autofill**.
 
     1.  Enter a percentage value in the **Set the Autofill Threshold** field.
     2.  Enter a percentage value in the **Set the Warning Threshold** field.
-    ![DocIntel Admin Autofill data extraction mode](../image/doc-intel-admin-extraction-mode-2.png)
+    ![DocIntel Admin Autofill data extraction mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/doc-intel-admin-extraction-mode-2.png)
 
 
 ## Configure the agent verification setting
@@ -283,7 +283,7 @@ By default, agents review and verify the fields with values that are extracted f
 1.  In the left column of the Settings page, expand the Use Cases list and select a use case.
 2.  Select **Agent Verification**.
 
-    ![DocIntel Admin agent verification mode for a use case](../image/doc-intel-admin-agent-verification.png)
+    ![DocIntel Admin agent verification mode for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/doc-intel-admin-agent-verification.png)
 
 3.  If desired, enable **Straight Through Processing**.
 4.  Enter a percentage value in the **Set Straight Through Processing Threshold** field.

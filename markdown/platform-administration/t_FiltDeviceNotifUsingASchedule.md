@@ -34,5 +34,5 @@ Notifications that are triggered outside of the scheduled days and times for the
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create a notification filter](t_NotificationFilters.md)
+**Parent Topic:**[Create a notification filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_NotificationFilters.md)
 

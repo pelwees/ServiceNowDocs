@@ -41,7 +41,7 @@ What happens after auto-reclamation?
 
 </th></tr></thead><tbody><tr><td>
 
-[Adobe Cloud](../concept/adobe-cloud-integration.md)
+[Adobe Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/adobe-cloud-integration.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ NA
 
 </td></tr><tr><td>
 
-[Adobe Workfront](../concept/integrate-with-workfront.md#)
+[Adobe Workfront](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-workfront.md#)
 
 </td><td>
 
@@ -82,7 +82,7 @@ Removes the user's access to the Workfront application. The user is no longer al
 
 </td></tr><tr><td>
 
-[Aha!](../concept/integrate-with-aha.md#)
+[Aha!](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-aha.md#)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Deactivates the account. The user can’t log in to the Aha! portal.
 
 </td></tr><tr><td>
 
-[Asana](../concept/integrate-with-asana.md#)
+[Asana](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-asana.md#)
 
 </td><td>
 
@@ -121,7 +121,7 @@ Deletes the user account. The user can no longer access Asana projects or worksp
 
 </td></tr><tr><td>
 
-[Box](../concept/integrate-with-box.md#)
+[Box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-box.md#)
 
 </td><td>
 
@@ -138,7 +138,7 @@ Deletes the user account. All files are moved into a folder in the Box admin acc
 
 </td></tr><tr><td>
 
-[Calendly](../concept/integrate-with-calendly.md#)
+[Calendly](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-calendly.md#)
 
 </td><td>
 
@@ -154,7 +154,7 @@ Removes the account from your organization.
 
 </td></tr><tr><td>
 
-[Confluence Cloud](../concept/integrate-with-confluence-cloud.md#)
+[Confluence Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-confluence-cloud.md#)
 
 </td><td>
 
@@ -170,7 +170,7 @@ Removes the user from all associated Confluence groups. The user can no longer a
 
 </td></tr><tr><td>
 
-[Docusign Account level](../concept/integrate-with-docusign-account.md#)
+[Docusign Account level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-docusign-account.md#)
 
 </td><td>
 
@@ -186,7 +186,7 @@ Deletes the account. Docusign admin can access user's files via the Docusign adm
 
 </td></tr><tr><td>
 
-[Docusign Organization level](../concept/integrate-with-docusign-org.md#)
+[Docusign Organization level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-docusign-org.md#)
 
 </td><td>
 
@@ -202,7 +202,7 @@ NA
 
 </td></tr><tr><td>
 
-[Dropbox](../concept/integrate-with-dropbox.md#)
+[Dropbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-dropbox.md#)
 
 </td><td>
 
@@ -219,7 +219,7 @@ Deletes the account. All files are moved into a folder \(named after deleted use
 
 </td></tr><tr><td>
 
-[Google Workspace](../concept/integrate-with-gsuite.md#)
+[Google Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-gsuite.md#)
 
 </td><td>
 
@@ -242,7 +242,7 @@ Deletes the account. All files are moved from Google Drive into a folder \(named
 
 </td></tr><tr><td>
 
-[GitHub](../concept/integrate-with-github.md)
+[GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-github.md)
 
 </td><td>
 
@@ -279,7 +279,7 @@ Removes the account from all enterprise organizations. Restoring membership with
 
 </td></tr><tr><td>
 
-[GoTo](../concept/integrate-with-goto.md#)
+[GoTo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-goto.md#)
 
 </td><td>
 
@@ -306,7 +306,7 @@ Reclaiming a product license from a GoTo user account removes the user's access 
 
 </td></tr><tr><td>
 
-[Jira Software](../concept/integrate-with-jira.md)
+[Jira Software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-jira.md)
 
 </td><td>
 
@@ -332,7 +332,7 @@ Removes the user from all associated Jira groups. The user can no longer access 
 
 </td></tr><tr><td>
 
-[Looker](../concept/integrate-with-looker.md#)
+[Looker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-looker.md#)
 
 </td><td>
 
@@ -348,7 +348,7 @@ Removes the user's access to Looker, preventing sign-in. Usage history and perso
 
 </td></tr><tr><td>
 
-[Microsoft 365](../concept/integrate-with-microsoft.md)
+[Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-microsoft.md)
 
 </td><td>
 
@@ -364,7 +364,7 @@ Removes the user's access to the application, associated plans, and services. If
 
 </td></tr><tr><td>
 
-[Microsoft Dynamics 365 and Power Apps](../concept/integrating-with-microsoft365.md#)
+[Microsoft Dynamics 365 and Power Apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrating-with-microsoft365.md#)
 
 </td><td>
 
@@ -408,7 +408,7 @@ NA
 
 </td></tr><tr><td>
 
-[Miro](../concept/integrate-with-miro-enterprise.md#)
+[Miro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-miro-enterprise.md#)
 
 </td><td>
 
@@ -424,7 +424,7 @@ Removes user's access to Miro, preventing sign-in.
 
 </td></tr><tr><td>
 
-[monday.com](../concept/integrate-with-monday.md#)
+[monday.com](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-monday.md#)
 
 </td><td>
 
@@ -442,7 +442,7 @@ NA
 
 </td></tr><tr><td>
 
-[PagerDuty](../concept/integrate-with-pagerduty.md#)
+[PagerDuty](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-pagerduty.md#)
 
 </td><td>
 
@@ -458,7 +458,7 @@ Deletes the account.
 
 </td></tr><tr><td>
 
-[Rally](../concept/integrate-with-rally.md#)
+[Rally](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-rally.md#)
 
 </td><td>
 
@@ -475,7 +475,7 @@ Removes the user's access to Rally, preventing sign-in.
 
 </td></tr><tr><td>
 
-[Roadmunk](../concept/integrate-with-roadmunk.md#)
+[Roadmunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-roadmunk.md#)
 
 </td><td>
 
@@ -494,8 +494,8 @@ NA
 
 </td></tr><tr><td>
 
--   [Salesforce CRM](../concept/integrate-with-salesforce-crm.md#)
--   [Salesforce Marketing Cloud](../concept/integrate-with-salesforce-marketing-cloud.md)
+-   [Salesforce CRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-salesforce-crm.md#)
+-   [Salesforce Marketing Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-salesforce-marketing-cloud.md)
 
 </td><td>
 
@@ -511,7 +511,7 @@ Deactivates the user.
 
 </td></tr><tr><td>
 
-[SAP Ariba](../concept/integrate-with-ariba.md#)
+[SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-ariba.md#)
 
 </td><td>
 
@@ -527,7 +527,7 @@ NA
 
 </td></tr><tr><td>
 
-[SAP SuccessFactors](../concept/integrate-with-successfactors.md#)
+[SAP SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-successfactors.md#)
 
 </td><td>
 
@@ -543,7 +543,7 @@ Deactivates the account.
 
 </td></tr><tr><td>
 
-[SAP S/4HANA](../concept/integrate-with-hana.md#)
+[SAP S/4HANA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-hana.md#)
 
 </td><td>
 
@@ -559,7 +559,7 @@ NA
 
 </td></tr><tr><td>
 
-[Slack Enterprise](../concept/integrate-with-slack.md#)
+[Slack Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-slack.md#)
 
 </td><td>
 
@@ -575,7 +575,7 @@ Deactivates the user. Messages and files are saved, but the user is removed from
 
 </td></tr><tr><td>
 
-[SmartRecruiters](../concept/integrate-with-smartrecruiters.md#)
+[SmartRecruiters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-smartrecruiters.md#)
 
 </td><td>
 
@@ -591,7 +591,7 @@ Removes access to the application. For example, you might want to reclaim the ac
 
 </td></tr><tr><td>
 
-[Smartsheet](../concept/integrate-with-smartsheet.md#)
+[Smartsheet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-smartsheet.md#)
 
 </td><td>
 
@@ -607,7 +607,7 @@ Removes the user from your organization account, downgrading them to a free coll
 
 </td></tr><tr><td>
 
-[Single Sign-on \(SSO\) subscriptions](../concept/saas-sso-integration.md)
+[Single Sign-on \(SSO\) subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/saas-sso-integration.md)
 
 </td><td>
 
@@ -623,7 +623,7 @@ Depends on the specific application's integration and configuration.
 
 </td></tr><tr><td>
 
-[SurveyMonkey](../concept/integrate-with-surveymonkey.md#)
+[SurveyMonkey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-surveymonkey.md#)
 
 </td><td>
 
@@ -650,7 +650,7 @@ NA
 
 </td></tr><tr><td>
 
-[Tableau Cloud](../concept/integrate-with-tableau-cloud.md#)
+[Tableau Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-tableau-cloud.md#)
 
 </td><td>
 
@@ -666,7 +666,7 @@ Removes the user from a site only if they don't own content. If they own content
 
 </td></tr><tr><td>
 
-[Trello](../concept/integrate-with-trello.md#)
+[Trello](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-trello.md#)
 
 </td><td>
 
@@ -682,7 +682,7 @@ Removes user's access to enterprise content or features. You can log in but can'
 
 </td></tr><tr><td>
 
-[Webex](../concept/integrate-with-webex-apps.md#)
+[Webex](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-webex-apps.md#)
 
 </td><td>
 
@@ -717,7 +717,7 @@ Removes the user's access to the specific product. The user can still access oth
 
 </td></tr><tr><td>
 
-[Workplace from Facebook](../concept/integrate-with-workplace.md#)
+[Workplace from Facebook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-workplace.md#)
 
 </td><td>
 
@@ -738,7 +738,7 @@ Removes the user's access to Workplace. Account is deactivated, preventing login
 
 </td></tr><tr><td>
 
-[Zendesk](../concept/integrate-with-zendesk.md#)
+[Zendesk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-zendesk.md#)
 
 </td><td>
 
@@ -754,7 +754,7 @@ Removes user's access to the Zendesk application, preventing sign-in.
 
 </td></tr><tr><td>
 
-[Zoom](../concept/integrate-with-zoom.md#)
+[Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/integrate-with-zoom.md#)
 
 </td><td>
 
@@ -770,5 +770,5 @@ Yes
 Downgrades the account to Zoom Basic. All cloud-recorded meetings are deleted, but the locally saved recordings aren't affected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

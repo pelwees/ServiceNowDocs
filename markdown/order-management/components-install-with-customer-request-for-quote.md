@@ -119,5 +119,5 @@ The following applications are installed as dependencies with the Customer Reque
 -   Agent Workspace \(com.agent\_workspace\)
 -   Playbooks for CSM \(com.sn\_csm\_playbook\)
 
-**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](som-business-portal-reference.md)
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 

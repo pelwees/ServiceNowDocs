@@ -424,10 +424,10 @@ Supported data sources for cross-system lineage:
 -   BigQuery
 -   Redshift
 
--   **[Prepare to run the Tableau collector](../task/prepare-to-run-tableau-collector.md#)**  
+-   **[Prepare to run the Tableau collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-tableau-collector.md#)**  
 Set up API access, authentication, and permissions before running the collector.
--   **[Create a Tableau metadata collector](../task/create-tableau-metadata-collector.md)**  
+-   **[Create a Tableau metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-tableau-metadata-collector.md)**  
 Create a collector to import metadata from Tableau.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

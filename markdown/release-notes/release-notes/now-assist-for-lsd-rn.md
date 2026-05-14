@@ -40,7 +40,7 @@ Install Now Assist for Legal Service Delivery \(LSD\) by requesting it from the 
 
 ## Browser requirements
 
-To see the list of supported browsers for Now Assist for Legal Service Delivery \(LSD\), see [Browser support](../../administer/navigation-and-ui/reference/browser-support.md).
+To see the list of supported browsers for Now Assist for Legal Service Delivery \(LSD\), see [Browser support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../../administer/navigation-and-ui/reference/browser-support.md).
 
 ## Related ServiceNow applications and features
 
@@ -61,7 +61,7 @@ To see the list of supported browsers for Now Assist for Legal Service Delivery 
     Use Now Assist products to provide generative AI skills to meet the needs of users in different workflows. These AI skills include case or incident summarization, chat summarization, resolution notes generation, and code generation.
 
 
-**Parent Topic:**[Legal Service Delivery release notes](lsd-rn-landing-page.md)
+**Parent Topic:**[Legal Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/lsd-rn-landing-page.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../now-assist/now-assist-rn-landing.md)
 

@@ -84,9 +84,9 @@ Option for enabling this feature for users who sign in to the website that hosts
 **Note:** Engagement Messenger honors access permissions defined for the portal page or catalog item. If the users do not have access, the feature card will not appear on the messenger.
 
 </td></tr></tbody>
-</table>![Configurable cards displaying a list of features you can customize. In this example, the portal page displays an image as a card on the Engagement Messenger home page.](../image/em-config-card-portal-image.png "Use an image in a card")
+</table>![Configurable cards displaying a list of features you can customize. In this example, the portal page displays an image as a card on the Engagement Messenger home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-config-card-portal-image.png "Use an image in a card")
 
-![Configurable cards displaying a list of features you can customize. In this example, the portal page displays a title and subtitle as a card on the Engagement Messenger home page.](../image/em-config-portal-title-subtitle.png "Use title and subtitle in a card")
+![Configurable cards displaying a list of features you can customize. In this example, the portal page displays a title and subtitle as a card on the Engagement Messenger home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-config-portal-title-subtitle.png "Use title and subtitle in a card")
 
 <table id="table_bds_3xm_wsb"><thead><tr><th>
 
@@ -137,7 +137,7 @@ Enable for authenticated users
 Option for enabling this feature for users who sign in to the website that hosts the messenger.
 
 </td></tr></tbody>
-</table>![Configurable cards displaying a list of features you can customize. In this example, embedded links are added to the Engagement Messenger home page.](../image/em-config-cards-links.png "Featured links")
+</table>![Configurable cards displaying a list of features you can customize. In this example, embedded links are added to the Engagement Messenger home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-config-cards-links.png "Featured links")
 
 <table id="table_jnv_wxm_wsb"><thead><tr><th>
 
@@ -259,7 +259,7 @@ Condition that restricts the records that appear in a list in the messenger.
 **Note:** Engagement Messenger honors Access Control rules \(ACLs\) defined for any tables in your ServiceNow instance. If users don’t have access, the feature card doesn't appear on the messenger.
 
 </td></tr></tbody>
-</table>![Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as link using Mobile phones card.](../image/em-config-cards-data-table-1.png "Record displays as a link")
+</table>![Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as link using Mobile phones card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-config-cards-data-table-1.png "Record displays as a link")
 
-![Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as card using Mobile phones card.](../image/em-config-cards-data-table-2.png "Record displays as a card")
+![Configurable cards displaying a list of features you can customize. In this example, you can use multiple form fields to create and show record as card using Mobile phones card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-config-cards-data-table-2.png "Record displays as a card")
 

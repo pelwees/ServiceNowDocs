@@ -17,7 +17,7 @@ Update the default Scripted Extension Point or create a scripted extension point
 
 ## Before you begin
 
-[Associate the EAP read-only role to the dashboard](add-the-eap-read-only-role-to-the-dashboard.md).
+[Associate the EAP read-only role to the dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/add-the-eap-read-only-role-to-the-dashboard.md).
 
 Role required: sn\_apw\_advanced.eap\_admin
 

@@ -108,12 +108,12 @@ Can specify dashboard details, including exposing the dashboard in other experie
 Same as dashboards created inline.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Technical dashboards](../concept/technical-dashboards.md)
+</table>**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/technical-dashboards.md)
 
 **Related topics**  
 
 
-[Create a filter on a technical dashboard in UI Builder](../../par-for-workspace/task/add-filter-tech-dashboard.md)
+[Create a filter on a technical dashboard in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/task/add-filter-tech-dashboard.md)
 
-[Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md)
+[Chart interactions in a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/dv-chart-interactions.md)
 

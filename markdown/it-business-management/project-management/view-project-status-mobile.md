@@ -25,19 +25,19 @@ Role required: portfolio\_manager or project\_manager or program\_manager
 
 2.  Open a project for which you want to view the project status report using one of the following options.
 
-    -   Tap **My Projects** \(![View my projects.](../image/my-projects-mobile.png)\) applet to view your projects.
-    -   Tap on the **Search Projects** \(![Search projects](../image/search-proj-mobile.png)\) applet to find a specific project.
+    -   Tap **My Projects** \(![View my projects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/my-projects-mobile.png)\) applet to view your projects.
+    -   Tap on the **Search Projects** \(![Search projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/search-proj-mobile.png)\) applet to find a specific project.
     -   In the **Critical Projects** or the **Project in Red** lists, tap on a project.
 3.  Tap the project card to view its status report.
 
     -   The **Status** tab displays the summary of project such as overall health of the project, executive summary, achievements, and key activities planned for the project.
     -   The **Details** tab displays status and details of information related to schedule, scope, cost, and resources for the project.
 
-        ![Project status view in mobile.](../image/view-project-details.gif)
+        ![Project status view in mobile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/view-project-details.gif)
 
 
 **Related topics**  
 
 
-[Manage status of your projects using Project Status application](../concept/mobile-project-status.md)
+[Manage status of your projects using Project Status application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/mobile-project-status.md)
 

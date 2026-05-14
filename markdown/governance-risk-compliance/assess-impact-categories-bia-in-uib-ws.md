@@ -34,15 +34,15 @@ Beginning with the Xanadu release, these new columns are added to the BIA depend
 
 3.  To assess different types of business impact categories on the business process, select the **Recovery time objective assessment** tab.
 
-    A sample questionnaire for the Recovery time objective assessment \(RTO assessment\) is shown in the example.![RTO assessment questionnaire.](../image/rto-assessment.png)You must configure all impact categories in the Recovery time objective assessment. A business process draws a set of impact categories, by default, from the template that you have used for the business impact analysis. For more information, see: [Review an impact category and assess its downtime](review-impact-category-bia.md).
+    A sample questionnaire for the Recovery time objective assessment \(RTO assessment\) is shown in the example.![RTO assessment questionnaire.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-assessment.png)You must configure all impact categories in the Recovery time objective assessment. A business process draws a set of impact categories, by default, from the template that you have used for the business impact analysis. For more information, see: [Review an impact category and assess its downtime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/review-impact-category-bia.md).
 
 4.  Respond to the questions in the Recovery time objective assessment questionnaire and select **Next**.
 
-    For information on recovery time objective and calculation of recovery time objective, see [RTO, RPO, and recovery tiers](../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](../concept/rto-rpo-calculation.md).
+    For information on recovery time objective and calculation of recovery time objective, see [RTO, RPO, and recovery tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/rto-rpo-calculation.md).
 
 5.  To answer questions related to the data component of the asset, select the **Recovery point objective assessment** tab.
 
-    A sample assessment questionnaire for the Recovery point objective assessment \(RPO assessment\) is shown in the example. ![RPO assessment questionnaire.](../image/rpo-assessment.png)You must configure all impact categories in the Recovery point objective assessment. For more information, see [Assess RPO impact of technology assets on the business](RPO-asset-impact-assessment.md). For information on recovery point objective and calculation of recovery point objective, see [RTO, RPO, and recovery tiers](../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](../concept/rto-rpo-calculation.md).
+    A sample assessment questionnaire for the Recovery point objective assessment \(RPO assessment\) is shown in the example. ![RPO assessment questionnaire.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rpo-assessment.png)You must configure all impact categories in the Recovery point objective assessment. For more information, see [Assess RPO impact of technology assets on the business](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/RPO-asset-impact-assessment.md). For information on recovery point objective and calculation of recovery point objective, see [RTO, RPO, and recovery tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/rto-rpo-recovery-tiers.md) and [Calculating RTO and RPO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/rto-rpo-calculation.md).
 
 6.  Respond to the questions in the Recovery point objective assessment and select **Next**.
 
@@ -50,7 +50,7 @@ Beginning with the Xanadu release, these new columns are added to the BIA depend
 
 7.  To assess the dependencies and identify the items within each dependency that your business process depends on, select the **Dependency Assessment** tab.
 
-    You can select the dependency in the Dependency panel to view the group and items that belong to that group. For example, if the group is **Locations**, you can select one or more locations and assess the dependencies associated with them. A sample Dependency assessment is shown in the example. ![Dependency assessment.](../image/dependency-assessment.png)
+    You can select the dependency in the Dependency panel to view the group and items that belong to that group. For example, if the group is **Locations**, you can select one or more locations and assess the dependencies associated with them. A sample Dependency assessment is shown in the example. ![Dependency assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dependency-assessment.png)
 
 8.  To add an item to a dependency group, select one of the options.
 
@@ -68,7 +68,7 @@ Description
 
 </td><td>
 
-Add an item from all the records. The relationship source is BCM. All items from the respective table, irrespective of its relationship in the CMDB are displayed. When you select **Add**, the filter for selecting the dependencies is displayed as shown in the example:![Dependencies selection.](../image/add-dependencies-filter-assessment.png)
+Add an item from all the records. The relationship source is BCM. All items from the respective table, irrespective of its relationship in the CMDB are displayed. When you select **Add**, the filter for selecting the dependencies is displayed as shown in the example:![Dependencies selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-dependencies-filter-assessment.png)
 
  To update the selected dependency item, you can add details and select **Update**.
 
@@ -77,7 +77,7 @@ Add an item from all the records. The relationship source is BCM. All items from
 -   **Required Data Backup**
 -   **Description of Use**
 -   **Additional details - Comment**
- A sample assessment is shown in the example.![Update the dependencies.](../image/update-dependencies.png)
+ A sample assessment is shown in the example.![Update the dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/update-dependencies.png)
 
 </td></tr><tr><td id="d56983e331">
 
@@ -89,7 +89,7 @@ Add dependencies for which the relationships are identified in CMDB.
 
 **Note:** Both the **Add** and **Add first level CMDB dependencies** UI actions mark the dependency source as Manual because inserting the dependency is a manual action. The CMDB source is used only when dependencies are automatically inserted by the application through the **Update dependencies** action. The **Add first level CMDB dependencies** UI action streamlines the manual addition of dependencies by pre-filtering the list to show only CMDB relationships, rather than displaying all CI items within an element definition.
 
- A sample assessment is shown in the example.![Add first level CMDB dependencies.](../image/first-level-of-dependencies.png)
+ A sample assessment is shown in the example.![Add first level CMDB dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/first-level-of-dependencies.png)
 
 </td></tr><tr><td id="d56983e376">
 
@@ -105,7 +105,7 @@ Import all CMDB relationships manually in the respective categories that are def
 
 </td><td>
 
-If you have one dependency in the **Pending** state, you can update its RTO by updating the inline value in the **Required Recovery Timeframe** field as shown in the example.![Updating RTO for one dependency at a time.](../image/req-recovery-timeframe-inline.png)
+If you have one dependency in the **Pending** state, you can update its RTO by updating the inline value in the **Required Recovery Timeframe** field as shown in the example.![Updating RTO for one dependency at a time.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/req-recovery-timeframe-inline.png)
 
 </td></tr><tr><td id="d56983e416">
 
@@ -115,17 +115,17 @@ If you have one dependency in the **Pending** state, you can update its RTO by u
 
 Similarly, you can update the RTO for multiple dependencies as shown in the step-by-step examples:
 
- 1.  Select multiple dependencies.![Multiple dependencies.](../image/edit-all-dependencies-at-once.png)
-2.  Select **Edit**. The Edit items Dependency panel is displayed.![Edit items dependencies window.](../image/select-multiple-dependencies-and-edit-rto.png)
-3.  Update the RTO for multiple dependencies in the **Required recovery Timeframe** field.![Update the RTO for multiple dependencies.](../image/update-rto-for-multiple-dependencies.png)
+ 1.  Select multiple dependencies.![Multiple dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edit-all-dependencies-at-once.png)
+2.  Select **Edit**. The Edit items Dependency panel is displayed.![Edit items dependencies window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/select-multiple-dependencies-and-edit-rto.png)
+3.  Update the RTO for multiple dependencies in the **Required recovery Timeframe** field.![Update the RTO for multiple dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/update-rto-for-multiple-dependencies.png)
 
 RTO is updated for multiple dependencies and the dependency assessment is marked as Complete.
 
-![RTO is updated for multiple dependencies.](../image/deleting-one-rto-value.png)
+![RTO is updated for multiple dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/deleting-one-rto-value.png)
 
 If you edit the RTO for one dependency, the dependency assessment moves to the **Pending** state.
 
-![Delete one RTO.](../image/deleting-one-rto-value.png)![Dependency-assessment-in-pending-state.](../image/one-rto-empty-dep-assessment-pending.png)
+![Delete one RTO.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/deleting-one-rto-value.png)![Dependency-assessment-in-pending-state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/one-rto-empty-dep-assessment-pending.png)
 
  When you have updated the RTO value for all entries in the **Required Recovery Timeframe** field, then that particular category of dependency is marked as Complete by the application.
 
@@ -143,14 +143,14 @@ If the administrator has set the **Required Recovery Timeframe** field in the de
 
 This is the final step. You must complete all the pending assessments before selecting **Complete**. Selecting **Complete** marks all the assessments in the business impact analysis as Complete.
 
- **Note:** After selecting **Complete**, if you see the message that the dependency groups are in the **Not started** state, you must complete the procedures explained in this table for single and multiple dependencies. Selecting **Confirm** in the message window marks all dependency groups as Complete without actually completing them. ![Confirmation of dependencies.](../image/dependencies-selection-confirmation.png)
+ **Note:** After selecting **Complete**, if you see the message that the dependency groups are in the **Not started** state, you must complete the procedures explained in this table for single and multiple dependencies. Selecting **Confirm** in the message window marks all dependency groups as Complete without actually completing them. ![Confirmation of dependencies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dependencies-selection-confirmation.png)
 
 </td></tr></tbody>
 </table>    You can prioritize your business continuity and recovery plans based on the criticality of the assets that your business process uses.
 
     The completed assessments are shown in the example. The state of each assessment is marked as Complete and it is highlighted in Green. You can open the completed assessments and view their details for reference at any time.
 
-    ![Completed assessment.](../image/rto-assessment-completed.png)
+    ![Completed assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/rto-assessment-completed.png)
 
 9.  Select **Submit for review**.
 
@@ -160,7 +160,7 @@ This is the final step. You must complete all the pending assessments before sel
 
 10. Review the assessments in the business impact analysis if you are the BIA owner or BCM lead.
 
-    ![Generate the BIA PDF.](../image/bia-pdf-generate-pdf.png)
+    ![Generate the BIA PDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-pdf-generate-pdf.png)
 
 11. Select **Submit for approval**.
 
@@ -174,7 +174,7 @@ This is the final step. You must complete all the pending assessments before sel
 
     A message appears that the PDF has been generated.
 
-    ![Information message that includes a link to download a PDF](../image/PDFDownload.png "PDF download")
+    ![Information message that includes a link to download a PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/PDFDownload.png "PDF download")
 
     Select the link in the message to download the PDF.
 
@@ -203,5 +203,5 @@ This is the final step. You must complete all the pending assessments before sel
         **Note:** You can delete a BIA \(and its related tables\) that is in the **Draft** state. BCM planner and program manager can delete a BIA that is in the **In Review** and **Returned** states, whereas a BCM admin can delete a BIA irrespective of its state.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bia-tasks-performed-by-bia-owner.md)
 

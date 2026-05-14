@@ -23,7 +23,7 @@ Role required: sam
 
 For example, in the IBM PVU Table there is one line with processor name POWER5 QCM and in IBM PVU mappings there is a line representing POWER5 QCM.
 
-![PVU mappings list](../image/PVUMappingsList.png "PVU mappings list")
+![PVU mappings list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/PVUMappingsList.png "PVU mappings list")
 
 ## Procedure
 
@@ -31,7 +31,7 @@ For example, in the IBM PVU Table there is one line with processor name POWER5 Q
 
 2.  Click a **Short Description** for detailed information about the mapping.
 
-    ![SAM PVU mapping](../image/SAMPVUMapping.png)
+    ![SAM PVU mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMPVUMapping.png)
 
     The fields are for information only and cannot be edited.
 
@@ -46,5 +46,5 @@ For example, in the IBM PVU Table there is one line with processor name POWER5 Q
     |Rule publication date|Date published by IBM on the PVU Rules table.|
 
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_IBMPVUProcessPack.md)
 

@@ -25,7 +25,7 @@ Available as an Workflow Studio action step. Users with the action\_designer rol
 
 ## Payload size limit
 
-At runtime, JSON parser step supports payloads up to 10 MB. For larger payloads, create a Data Stream action. For more information on Data Stream actions, see [Data Stream actions and pagination](../../integrationhub/concept/data-stream-actions.md).
+At runtime, JSON parser step supports payloads up to 10 MB. For larger payloads, create a Data Stream action. For more information on Data Stream actions, see [Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/data-stream-actions.md).
 
 ## Fields
 
@@ -43,7 +43,7 @@ Source
 
 </td><td>
 
-In the **Source data** field, select or drag a data pill that contains the source JSON payload. For example, a REST step **Response Body** data pill. At runtime, values from the data source populate the complex object output.Under **Source data** and in the scripting window, enter an example payload to generate your complex object. For example, if parsing the response from a [REST step](rest-request-action-designer.md) that returns a list of users, enter the expected JSON object for a single user. You can create any example JSON payload with the following limitations:
+In the **Source data** field, select or drag a data pill that contains the source JSON payload. For example, a REST step **Response Body** data pill. At runtime, values from the data source populate the complex object output.Under **Source data** and in the scripting window, enter an example payload to generate your complex object. For example, if parsing the response from a [REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/rest-request-action-designer.md) that returns a list of users, enter the expected JSON object for a single user. You can create any example JSON payload with the following limitations:
 
  -   Multidimensional arrays are not supported.
 -   Hyphens, periods, spaces, double colons, and the @ symbol in JSON keys are not supported.
@@ -82,13 +82,13 @@ View or edit the JSON payload's output structure. Create a structured output by 
 
 -   **Type**: Data type, which must be String, Object, Array.String, or Array.Object. The top-level element must be an Object.
 -   **Mandatory**: Toggle to make the element required. This only applies to elements of type String.
--   **Add child item**: Select the add child item icon \(![Add child item icon](../images/plus-icon-gray.png)\) to add a nested child element.
+-   **Add child item**: Select the add child item icon \(![Add child item icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/plus-icon-gray.png)\) to add a nested child element.
 
  Elements of type Object contain the **Save as Template** advanced option, which allows you to save your object's structure as a complex object template. You can then use this template to define the schema of an Object output for your action.
 
  For elements of type String, you can also add a max length, hint, and default value as advanced options.
 
- In the Target header, select **Exit Edit Mode** when you're done making changes to your output's structure. You can then select the toggle advanced inputs icon \(![Toggle advanced inputs icon](../images/toggle-advanced-inputs-icon.png)\) to view the **JSONPath** option.
+ In the Target header, select **Exit Edit Mode** when you're done making changes to your output's structure. You can then select the toggle advanced inputs icon \(![Toggle advanced inputs icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/toggle-advanced-inputs-icon.png)\) to view the **JSONPath** option.
 
  The JSONPath is the path to the element. Modify the JSONPath to change how your source data elements map to elements in your output. If manually adding elements, you can copy the JSONPath from a node in your example payload and paste it under an element's advanced options.
 
@@ -97,9 +97,9 @@ View or edit the JSON payload's output structure. Create a structured output by 
 
 This example tracks newly created problems from a production instance as defects in a test instance. First, create a new action named **Parse Problems from Production**. Add a REST step to retrieve a list of problems from the production instance. Then, add the JSON parser step to parse the REST step's **Response Body** and provide a complex object output that represents the Problem \[problem\] table's schema. Finally, create an action output of type Object named **Problems from Production**. Drop the **root** data pill from the JSON parser step into this output's value field.
 
-![The JSON parser step structures a complex object output that represents Problem records.](../images/json-parser-step-example-01.png "Parse Problems from Production action") ![The action's output is then mapped to the JSON parser step's complex object output.](../images/json-parser-step-example-02.png "Parse Problems from Production action")
+![The JSON parser step structures a complex object output that represents Problem records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/json-parser-step-example-01.png "Parse Problems from Production action") ![The action's output is then mapped to the JSON parser step's complex object output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/json-parser-step-example-02.png "Parse Problems from Production action")
 
 Next, create a new flow named **Sync New Problems**, which is triggered daily at midnight. The first action in the flow is the **Parse Problems from Production** action. Then, add a **For Each** flow logic block and drop the **Problems from Production** &gt; **response** data pill into the **Item** field. Within the **For Each** block, add an **If** flow logic block that checks if each problem's state is new, then creates a defect record in the test instance whose assignment group and short description is mapped to each new problem from the production instance.
 
-![The flow creates a new defect in our test instance for each new problem in our production instance.](../images/json-parser-step-example-03.png "Sync New Problems flow")
+![The flow creates a new defect in our test instance for each new problem in our production instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/json-parser-step-example-03.png "Sync New Problems flow")
 

@@ -52,13 +52,13 @@ You also create new calculators directly from these groups.
 
 5.  Right-click **Save** in the form header or click **Submit**.
 
-    The new calculator group is displayed on in the group list with the other calculators. Click the name of new calculator group to open the record. See [Create, edit, and reapply risk calculators for Configuration Compliance](v11reapplycalc.md) for more information about setting conditions and displayed values and reapplying calculators.
+    The new calculator group is displayed on in the group list with the other calculators. Click the name of new calculator group to open the record. See [Create, edit, and reapply risk calculators for Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/v11reapplycalc.md) for more information about setting conditions and displayed values and reapplying calculators.
 
-    ![Newly added risk calculator called My risk calculator highlighted](../image/v11Newcalc.png)
+    ![Newly added risk calculator called My risk calculator highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11Newcalc.png)
 
     The **Security Calculators** related list is displayed.
 
-    ![Risk score calculator group](../image/CalculatorGroup.png)
+    ![Risk score calculator group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/CalculatorGroup.png)
 
 6.  Click **New** to add calculators along with their conditions to the group.
 

@@ -24,5 +24,5 @@ The following sections are displayed in the overview page of a breach assessment
 
 An image of the overview page is displayed as follows.
 
-![Summary of a breach assessment on the overview tab.](../image/overview-breach-asmt.png "Overview page of a breach assessment")
+![Summary of a breach assessment on the overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/overview-breach-asmt.png "Overview page of a breach assessment")
 

@@ -29,7 +29,7 @@ With this procedure, you can also create cases for internal claims.
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Claims**, click **All** and then click **New**.
 
@@ -39,7 +39,7 @@ With this procedure, you can also create cases for internal claims.
 
 6.  On the form, fill in the required fields and any other information that is related to the claim that you've received from the sender bank.
 
-    For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+    For information on the Claim form field descriptions, see [Field descriptions for a claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../reference/claim-form-fields.md).
 
 7.  Click **Save**.
 
@@ -50,8 +50,8 @@ A case is created for the claim in the New state. The case is then assigned to a
 
 ## What to do next
 
--   As a claim agent, you can assign the case to yourself and start working on it. For more information, see [Work on a claim with an internal refund](work-claim-with-internal-refund.md).
--   You can also assign the case to any other claim agent. For more information, see [Assign a payment claim](assign-payment-claim.md).
+-   As a claim agent, you can assign the case to yourself and start working on it. For more information, see [Work on a claim with an internal refund](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-with-internal-refund.md).
+-   You can also assign the case to any other claim agent. For more information, see [Assign a payment claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/assign-payment-claim.md).
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../concept/managing-payment-claims.md)
 

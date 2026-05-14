@@ -43,7 +43,7 @@ Administrators can control user access by specifying who can and can’t use the
 
 2.  Click **New**.
 
-3.  Configure the **Application** form as explained in [Register custom web applications with app launcher](web-applications-custom.md).
+3.  Configure the **Application** form as explained in [Register custom web applications with app launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-applications-custom.md).
 
 4.  Configure the user access control options for application visibility and access.
 
@@ -64,10 +64,10 @@ When an application is configured **Available for** a user, the search results s
 
 **Note:** When you mark an application as **Not Available for** a user, the application tab on the search results indicates the count. However, the user can’t see or navigate to the application due to user permissions.
 
-For more information on Application security directive changes, see [App Launcher](../concept/web-application-employee-about.md)
+For more information on Application security directive changes, see [App Launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/web-application-employee-about.md)
 
 **Related topics**  
 
 
-[Manage favorites](web-configure-favorites-employee.md)
+[Manage favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md)
 

@@ -111,5 +111,5 @@ Install Industrial Connected Workforce Mobile Experience as part of the ICW Foun
     Industrial Guided Tasks provides structured, step‑by‑step workflows for industrial activities. These guided tasks integrate directly into the ICW Mobile experience for seamless execution on handheld devices.
 
 
-**Parent Topic:**[Industrial Connected Workforce release notes](industrial-connected-workforce-rn-landing.md)
+**Parent Topic:**[Industrial Connected Workforce release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/industrial-connected-workforce-rn-landing.md)
 

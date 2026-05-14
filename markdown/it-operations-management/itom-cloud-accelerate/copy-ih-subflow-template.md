@@ -29,7 +29,7 @@ Role required: sn\_itom\_ccg.governor
 
 3.  In the Name column, search for the required subflow template, and then open it.
 
-4.  Select the more actions icon \( ![More actions icon.](../image/icon-ih-sub-flow-more-actions.png) \) icon, and then select **Copy subflow** from the menu.
+4.  Select the more actions icon \( ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../image/icon-ih-sub-flow-more-actions.png) \) icon, and then select **Copy subflow** from the menu.
 
 5.  In the **New subflow name** field, enter a unique and descriptive name for the copied subflow.
 

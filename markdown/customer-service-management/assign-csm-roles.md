@@ -19,9 +19,9 @@ Role required: import\_admin, user\_admin, and sn\_crm\_foundation\_admin
 
 Before you can assign roles to your users, make sure that these users have already been configured.
 
--   [Configure users and groups](configure-csm-users-groups.md)
--   [Configure accounts and contacts](configure-csm-accounts-contacts.md)
--   [Configure consumers](configure-csm-consumers.md)
+-   [Configure users and groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-users-groups.md)
+-   [Configure accounts and contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-accounts-contacts.md)
+-   [Configure consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-consumers.md)
 
 ## About this task
 
@@ -81,5 +81,5 @@ External Roles
 **Related topics**  
 
 
-[Roles installed with Customer Service Management](../reference/r_RolesInstalledWithCustomerService.md)
+[Roles installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_RolesInstalledWithCustomerService.md)
 

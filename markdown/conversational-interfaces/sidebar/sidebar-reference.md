@@ -15,5 +15,5 @@ breadcrumb: [Sidebar, Conversational Interfaces]
 
 Read information about how Sidebar works with domain separation.
 
-[Domain separation and Sidebar](../concept/sidebar-domain-separation.md)
+[Domain separation and Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../concept/sidebar-domain-separation.md)
 

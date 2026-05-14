@@ -19,11 +19,11 @@ Role required: sn\_bcm.admin
 
 ## About this task
 
-For information on setting up the phases, see [Set up the phases](set-up-phases.md).
+For information on setting up the phases, see [Set up the phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-phases.md).
 
-For information and steps on mapping recovery tasks to phases, see [Mapping recovery tasks to phases](../concept/mapping-recovery-tasks-to-phases.md) and [Add recovery tasks](add-a-recovery-task.md).
+For information and steps on mapping recovery tasks to phases, see [Mapping recovery tasks to phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/mapping-recovery-tasks-to-phases.md) and [Add recovery tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md).
 
-For information on mapping event tasks to phases, see [Mapping event tasks to phases](../concept/mapping-event-tasks-to-phases.md) and [Mapping event tasks to phases](../concept/mapping-event-tasks-to-phases.md).
+For information on mapping event tasks to phases, see [Mapping event tasks to phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/mapping-event-tasks-to-phases.md) and [Mapping event tasks to phases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/mapping-event-tasks-to-phases.md).
 
 ## Procedure
 
@@ -37,21 +37,21 @@ For information on mapping event tasks to phases, see [Mapping event tasks to ph
     -   Return to normal
     -   Return to normal validation
     -   Post-incident review
-    ![Seed data.](../image/phases-seed-data.png)
+    ![Seed data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/phases-seed-data.png)
 
 2.  Select **New**.
 
     The Phase form is shown in the example.
 
-    ![New phase.](../image/new-phase.png)
+    ![New phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-phase.png)
 
 3.  On the form, fill in the fields.
 
-    For the description of the fields, see [Phase form](../reference/phase-form.md).
+    For the description of the fields, see [Phase form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/phase-form.md).
 
     A sample configuration of the phase is shown where the name of the phase is phase10, its order is 80, and the phase is active.
 
-    ![Preparation phase.](../image/preparation-phase.png)
+    ![Preparation phase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/preparation-phase.png)
 
     The order field is automatically populated with the next available number. For example, if the previous maximum order was 70, the new order will be 80. You can, however, manually adjust this order using inline editing if required, ensuring that the order remains unique across all phases.
 
@@ -59,7 +59,7 @@ For information on mapping event tasks to phases, see [Mapping event tasks to ph
 
     The error messages are shown in the example.
 
-    ![Error messages.](../image/phase-error-msgs.png)
+    ![Error messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/phase-error-msgs.png)
 
     To prevent permanent deletion, the form does not include a delete button. Instead, you can soft-delete phases by clearing the Active flag, which removes them from active use in recovery and event tasks. This approach verifies that phases are not permanently lost and can be managed effectively.
 

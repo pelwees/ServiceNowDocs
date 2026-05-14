@@ -25,7 +25,7 @@ Role required: sn\_bcm.program\_manager
 
 3.  On the form, fill in the fields.
 
-    For more information on the Alert Rules form, see [Alert Rules form](../reference/alert-rules-form.md).
+    For more information on the Alert Rules form, see [Alert Rules form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/alert-rules-form.md).
 
 4.  Add the name, description, order, and category for the alert rule.
 
@@ -35,13 +35,13 @@ Role required: sn\_bcm.program\_manager
 
     The example shows an alert rule for a specific category and severity.
 
-    ![Category and severity.](../image/alert-rule-example.png)
+    ![Category and severity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/alert-rule-example.png)
 
 6.  In the **Dismiss Condition** tab, define the conditions for the alert rule.
 
     You can dismiss conditions when a feed is deleted or resources are not impacted. The example shows how to dismiss a condition in an alert rule.
 
-    ![Dismiss a condition.](../image/alert-rule-dismiss.png)
+    ![Dismiss a condition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/alert-rule-dismiss.png)
 
 7.  Select **Submit**.
 
@@ -50,8 +50,8 @@ Role required: sn\_bcm.program\_manager
 
 The alert rule is displayed in the **Alert Rules** record page.
 
--   **[Alert Rules form](../reference/alert-rules-form.md)**  
+-   **[Alert Rules form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/alert-rules-form.md)**  
 Use the Alert Rules form in BCM UIB Workspace to add details about the alert rules.
 
-**Parent Topic:**[Setup for Crisis map](../concept/crisis-map-admin-tasks.md)
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/crisis-map-admin-tasks.md)
 

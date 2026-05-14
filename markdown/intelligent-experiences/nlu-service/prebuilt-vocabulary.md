@@ -19,14 +19,14 @@ Your Natural Language Understanding models contain pre-built vocabulary settings
 
 For example, for one of your example utterances, you enter `I need to order a Mac`. When the system recognizes a pre-built vocabulary item, the term has a blue line under it.
 
-![Example utterance showing how pre-built vocabulary appears with a blue line underneath the word.](../images/using-nlu-vocabulary-parent-topic1.png "Utterance tab of the Intent details page")
+![Example utterance showing how pre-built vocabulary appears with a blue line underneath the word.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/using-nlu-vocabulary-parent-topic1.png "Utterance tab of the Intent details page")
 
 When you click the word, a window appears with two options to choose for the word:
 
 -   A pre-built suggested definition for the word
 -   An option to add a synonym
 
-![Example utterance showing the options users can choose to define the pre-built vocabulary: by choosing the system recommendation or by entering a synonym for the word.](../images/using-nlu-vocabulary-parent-topic2.png) ![]()
+![Example utterance showing the options users can choose to define the pre-built vocabulary: by choosing the system recommendation or by entering a synonym for the word.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/using-nlu-vocabulary-parent-topic2.png) ![]()
 
 If you select the first option and click **Confirm**, the system uses the pre-built suggested definition and the blue line disappears.
 

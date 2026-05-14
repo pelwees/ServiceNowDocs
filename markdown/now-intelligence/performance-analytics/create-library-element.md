@@ -35,13 +35,13 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
     In this example, you want to reuse the "Improve Customer Service Quality" critical success factor. You want to use it with its two child measurements "% of incidents resolved on time" and "% of major incident first call resolution."
 
-    ![Artifacts in a KPI tree that you want to reuse in multiple projects.](../image/kpi-comp-block-reuse.png)
+    ![Artifacts in a KPI tree that you want to reuse in multiple projects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-block-reuse.png)
 
 3.  In the properties window of the artifact, select **Add this element to the library**.
 
     In this example, you have opened the properties of the "Improve Customer Service Quality" artifact and are about to click **Add this element to the library**.
 
-    ![Properties window for an artifact showing the Add this element to the library link.](../image/kpi-comp-add-element-library.png)
+    ![Properties window for an artifact showing the Add this element to the library link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-add-element-library.png)
 
 
 ## Result
@@ -52,7 +52,7 @@ The selected artifact and its descendants are converted to a library element. A 
 
 This example shows the library element that results from the procedure steps. The root artifact is "Improve Customer Service Quality." The library element consists of it and the two measurements "% of incidents resolved on time" and "% of major incident first call resolution".
 
-![The library element from the example steps in the procedure.](../image/kpi-comp-library-element.png)
+![The library element from the example steps in the procedure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/kpi-comp-library-element.png)
 
 ## What to do next
 
@@ -60,5 +60,5 @@ A library element starts out as Personal in scope. Only the user who created it 
 
 You cannot edit a library element from inside a project.
 
-**Parent Topic:**[Cross-project library elements](../concept/cross-project-artifact-libraries.md)
+**Parent Topic:**[Cross-project library elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/cross-project-artifact-libraries.md)
 

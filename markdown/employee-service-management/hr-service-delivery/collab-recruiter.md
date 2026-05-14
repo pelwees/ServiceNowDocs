@@ -34,5 +34,5 @@ Role required: sn\_ta\_hiring\_core.hiring\_manager
 
 The recruiter receives an email notification with the details of the comment.
 
-**Parent Topic:**[Using Hiring](../concept/use-hiring.md)
+**Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/use-hiring.md)
 

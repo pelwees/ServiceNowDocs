@@ -31,7 +31,7 @@ The following example procedure shows the alert binding configuration for a swit
 
 2.  Select **New**.
 
-    ![List of event rules](../image/ci-device-map-event-rule.png)
+    ![List of event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-map-event-rule.png)
 
 3.  Select the **Binding** tab.
 
@@ -43,19 +43,19 @@ The following example procedure shows the alert binding configuration for a swit
 
     The **CI type** determines the specific CMDB table where the system searches for the matching CI.
 
-    ![Binding and CI type](../image/ci-device-map-binding-type.png)
+    ![Binding and CI type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-map-binding-type.png)
 
 7.  Navigate to **All** and search `em_binding_device_map.list`.
 
     The Binding Device Maps page opens. Here the column values **From ci type** is mapped to **To ci type** using the **Mapped column**. For example,**cmdb\_ci\_ip\_switch** is mapped to the Switchport \[dscy\_switchport\] table using the reference field **cmdb\_ci**.
 
-    ![Binding device maps](../image/ci-device-binding-map.png)
+    ![Binding device maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-binding-map.png)
 
 8.  Navigate to **All** and search `switches` and select **Configuration** &gt; **Network** &gt; **Switches**.
 
     The IP Switches page opens.
 
-    ![IP switches page](../image/ci-device-map-ip-switches.png)
+    ![IP switches page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-map-ip-switches.png)
 
 9.  Select **IP-Switch-1** to view the details page.
 
@@ -65,10 +65,10 @@ The following example procedure shows the alert binding configuration for a swit
 
 12. Select the event with **Node** value as **IP-Switch-1**.
 
-    ![Additional information field of the event](../image/ci-device-map-addi-info.png)
+    ![Additional information field of the event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-map-addi-info.png)
 
     In the following image, you can see the processing notes indicating that the binding has occurred between the alert and the matching device.
 
-    ![Processing Notes of the event](../image/ci-device-map-processing-notes.png)
+    ![Processing Notes of the event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-device-map-processing-notes.png)
 
 

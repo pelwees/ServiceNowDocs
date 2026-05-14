@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Search and select the quick start tests you want to run.
 
-    For information on available quick start tests, see [Quick start tests for Employee Center](../../../administer/atf-quick-start-tests/reference/quick-start-tests-employee-center.md).
+    For information on available quick start tests, see [Quick start tests for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../administer/atf-quick-start-tests/reference/quick-start-tests-employee-center.md).
 
 3.  Click **Run Test**.
 

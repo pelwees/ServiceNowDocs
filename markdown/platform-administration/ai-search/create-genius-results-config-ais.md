@@ -29,7 +29,7 @@ Role required: ais\_admin
 
 4.  On the AI Search Genius Result Configuration form, fill in the fields.
 
-    For a description of the field values, see [AI Search Genius Result Configuration form](../reference/genius-result-cfg-form-ais.md).
+    For a description of the field values, see [AI Search Genius Result Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/genius-result-cfg-form-ais.md).
 
 5.  Select **Submit**.
 
@@ -42,7 +42,7 @@ Role required: ais\_admin
 
 Changes to Genius Result configurations take effect in search as soon as you save them. You don't need to publish the linked search profile to make the new configuration take effect.
 
-If you selected an **NLU** trigger condition, you must link an NLU model and its intents to your Genius Result configuration. For instructions, see [Link an NLU model and intents to a Genius Result configuration](link-nlu-model-genius-result-ais.md).
+If you selected an **NLU** trigger condition, you must link an NLU model and its intents to your Genius Result configuration. For instructions, see [Link an NLU model and intents to a Genius Result configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-nlu-model-genius-result-ais.md).
 
-**Parent Topic:**[Genius Results](../concept/genius-results-ais.md)
+**Parent Topic:**[Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/genius-results-ais.md)
 

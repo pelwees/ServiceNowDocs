@@ -46,5 +46,5 @@ In this sample payload, you are passing the information of the installed softwar
 |display name|Word|The display name for this entry in the table.|
 |name|SAMILMT8|Unique identifier of the CI.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

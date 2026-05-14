@@ -21,11 +21,11 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales promotion**.
 
-    **Note:** To create and navigate to the Review &amp; approve form, see [Create a sales promotion claim case](mco-create-sls-pro-claim-case.md).
+    **Note:** To create and navigate to the Review &amp; approve form, see [Create a sales promotion claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sls-pro-claim-case.md).
 
 2.  Select **Review &amp; approve** from **Activities**.
 
-3.  Select **![Check](../../../reuse/icons/product-icons/check-outline-24.svg)**
+3.  Select **![Check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../../../reuse/icons/product-icons/check-outline-24.svg)**
 
 4.  Add **Notes**.
 
@@ -36,5 +36,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 6.  View the sales promotion claim summary details by selecting **Claim Summary**
 
 
-**Parent Topic:**[Reviewing and approving the sales promotion claims](../concept/mco-approve-sales-promotion-claims.md)
+**Parent Topic:**[Reviewing and approving the sales promotion claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-approve-sales-promotion-claims.md)
 

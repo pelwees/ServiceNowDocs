@@ -32,7 +32,7 @@ The system places the following limits on the count of config data items \(CDIs\
 -   An application can contain a maximum total of 100,000 CDIs.
 -   Any single deployable can contain a maximum of 10,000 CDIs.
 
-See [CDM system properties](../reference/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
+See [CDM system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-system-properties.md) for information on configuring the **sn\_cdm.max\_allowed\_cdi\_per\_application** and **sn\_cdm.max\_allowed\_cdi\_per\_deployable** property settings.
 
 ## Procedure
 
@@ -98,11 +98,11 @@ Option to ensure that only snapshots that pass validation can be exported.
 
     The system generates the deployable and displays it in the list on the **Settings** tab for the application.
 
-    ![Deployables for various environments](../image/cdm-deployables-list-for-app.png)
+    ![Deployables for various environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-deployables-list-for-app.png)
 
 5.  Follow this procedure to add a collection to one or multiple deployables:
 
-    1.  For the collection node in the tree, select the menu icon \(![Menu icon.](../../site-reliability-ops/image/icon-actions-menu.png)and select **Include in deployables**.
+    1.  For the collection node in the tree, select the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)and select **Include in deployables**.
 
     2.  Select all deployables in which to include the collection and then select **Include**.
 
@@ -114,7 +114,7 @@ Option to ensure that only snapshots that pass validation can be exported.
 
 6.  Add CDI settings to the deployable that will override or overlay settings in components or collections.
 
-    For more information, see [Define or update a component](cdm-component-define.md), [Define or update a collection in an application](cdm-collection-define.md), or [Create or update a variable CDI](cdm-variables-crud.md).
+    For more information, see [Define or update a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-define.md), [Define or update a collection in an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-collection-define.md), or [Create or update a variable CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md).
 
 7.  Select **Save** to save the changes in the changeset and ready the changes in the changeset to be committed.
 
@@ -145,20 +145,20 @@ Option to ensure that only snapshots that pass validation can be exported.
 
 ## What to do next
 
-[Map policies to the deployable](cdm-deployable-map-policy-to.md)
+[Map policies to the deployable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-deployable-map-policy-to.md)
 
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-editing-config-data-changesets.md)
 
-[Define or update a component](cdm-component-define.md)
+[Define or update a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-define.md)
 
-[Define or update a collection in an application](cdm-collection-define.md)
+[Define or update a collection in an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-collection-define.md)
 
-[Create or update a variable CDI](cdm-variables-crud.md)
+[Create or update a variable CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-secrets-managing.md)
 

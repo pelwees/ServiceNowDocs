@@ -77,25 +77,25 @@ The portal homepage opens.
 
 5.  You can also add a co-worker as your collaborator and view on what days they’re present in the office.
 
-    For more information, refer to [Add a collaborator](add-a-collaborator.md).
+    For more information, refer to [Add a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/add-a-collaborator.md).
 
 
 ## Result
 
-You have set your in-office days. At any time, you can modify your selection, for more information, refer to [Update your in-office days](update-your-in-office-days.md).
+You have set your in-office days. At any time, you can modify your selection, for more information, refer to [Update your in-office days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/update-your-in-office-days.md).
 
-**Parent Topic:**[Set Employee Presence](../concept/use-workplace-concierge.md)
+**Parent Topic:**[Set Employee Presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/use-workplace-concierge.md)
 
 **Related topics**  
 
 
-[Add a collaborator](add-a-collaborator.md)
+[Add a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/add-a-collaborator.md)
 
-[Update your in-office days](update-your-in-office-days.md)
+[Update your in-office days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/update-your-in-office-days.md)
 
-[Remove a collaborator](remove-a-collaborator.md)
+[Remove a collaborator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/remove-a-collaborator.md)
 
-[Update your in-office days as exceptions](update-in-office-days-exceptions.md)
+[Update your in-office days as exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/update-in-office-days-exceptions.md)
 
-[Managing presence privacy settings](../concept/manage-presence-privacy-settings.md#)
+[Managing presence privacy settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/../concept/manage-presence-privacy-settings.md#)
 

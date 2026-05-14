@@ -136,7 +136,7 @@ Skip reprompting
 
 </td><td>
 
-No-code condition statement or low-code script that specifies a condition for letting users skip reprompting in the conversation. When a preceding node is revisited through a topic loopback or [Dialog Act](../concept/c_dialog-acts.md), the Virtual Agent bypasses this node and automatically retain its original value.
+No-code condition statement or low-code script that specifies a condition for letting users skip reprompting in the conversation. When a preceding node is revisited through a topic loopback or [Dialog Act](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/c_dialog-acts.md), the Virtual Agent bypasses this node and automatically retain its original value.
 
 </td></tr></tbody>
 </table>## Example Secure Text user input control
@@ -151,11 +151,11 @@ Input prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![Secure Text user input basic properties include node name, prompt, input format, hash function, and encryption salt. Advanced options include Default value, Confirmation message, and Hide or skip this node.](../images/va-secure-text-input.png "Secure Text input control basic properties")
+![Secure Text user input basic properties include node name, prompt, input format, hash function, and encryption salt. Advanced options include Default value, Confirmation message, and Hide or skip this node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-secure-text-input.png "Secure Text input control basic properties")
 
 </td><td>
 
-![Secure Text input shown in the web client. The text reads, “What is your first and last name?” and the user response is automatically hidden.](../images/va-secure-text-input-web.png "Web UI Secure Text user input prompt")
+![Secure Text input shown in the web client. The text reads, “What is your first and last name?” and the user response is automatically hidden.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-secure-text-input-web.png "Web UI Secure Text user input prompt")
 
 </td></tr></tbody>
 </table>## Channel support
@@ -177,5 +177,5 @@ Input prompt
 |Apple Messages for Business|Supported|None.|
 |Alexa \(Voice\)|Supported|For screen devices, character limits may apply. For more information, see the [Alexa developer documentation](https://developer.amazon.com/en-US/docs/alexa/custom-skills/display-interface-reference.html).|
 
-**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

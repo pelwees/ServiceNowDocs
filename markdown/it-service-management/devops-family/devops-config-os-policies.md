@@ -24,7 +24,7 @@ You can use or customize these default DevOps Config policies to validate that y
 
 <table id="table_gsp_4vm_nzb"><tbody><tr><td>
 
-[A](devops-config-os-policies.md#a) \| [B](devops-config-os-policies.md#b) \| [C](devops-config-os-policies.md#c) \| [H](devops-config-os-policies.md#h) \| [N](devops-config-os-policies.md#n) \| [R](devops-config-os-policies.md#r) \| [S](devops-config-os-policies.md#s) \| [T](devops-config-os-policies.md#t)
+[A](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#a) \| [B](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#b) \| [C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#c) \| [H](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#h) \| [N](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#n) \| [R](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#r) \| [S](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#s) \| [T](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-os-policies.md#t)
 
 </td></tr></tbody>
 </table>## Audit Log Maximum Backup Is Set \(openshift\_audit\_log\_maxbackup\_is\_set\)

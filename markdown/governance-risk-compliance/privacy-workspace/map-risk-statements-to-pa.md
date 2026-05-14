@@ -86,5 +86,5 @@ To create and apply risk statements for a response, perform the following steps.
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Create a privacy assessment](create-assessment-template.md)
+**Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 

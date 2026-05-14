@@ -31,7 +31,7 @@ Using the NotifyOnTaskClient API you can:
 
 The Notify \(com.snc.notify\) plugin requires a separate subscription. For additional information on activating the Notify plugin, see [Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## NotifyOnTaskClient - addParticipants\(Object data\)
 
@@ -690,7 +690,7 @@ function endConferenceCall() {
 
 Returns a JSON data template to use with the doConferenceAction\(\) method. Using this template automatically structures the data object so that you don't have to manually create it.
 
-Call this method prior to calling the doConferenceAction\(\) method. For the desired conference call action, set the desired parameters within the template, and then pass the template in the doConferenceAction\(\) call. For additional information on the valid parameters for each action, see [doConferenceAction\(\)](NotifyOnTaskClient.md#).
+Call this method prior to calling the doConferenceAction\(\) method. For the desired conference call action, set the desired parameters within the template, and then pass the template in the doConferenceAction\(\) call. For additional information on the valid parameters for each action, see [doConferenceAction\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/NotifyOnTaskClient.md#).
 
 **Note:** This is a helper method. You can also manually construct this object and pass it into the doConferenceAction\(\) method and have the same outcome.
 

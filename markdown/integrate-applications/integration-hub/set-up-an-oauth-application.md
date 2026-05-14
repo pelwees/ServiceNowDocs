@@ -27,17 +27,17 @@ Access to the Asana developer's console.
 
 2.  Under My apps, select **Create new app**.
 
-    ![Create new app button.](../image/asana-spoke-create-oauth-app.png)
+    ![Create new app button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/asana-spoke-create-oauth-app.png)
 
 3.  Enter a name of the app.
 
-    You can change the app name as many times as needed. To change the name, go to the Basic information tab on the left panel.![App name field.](../image/asana-spoke-name-ouath-app.png)
+    You can change the app name as many times as needed. To change the name, go to the Basic information tab on the left panel.![App name field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/asana-spoke-name-ouath-app.png)
 
 4.  From the Client ID and Client secret fields, copy the respective values and store them securely.
 
 5.  Under the Redirect URLs heading, select **Add redirect URL**.
 
-    ![Add Redirect URL button.](../image/asana-spoke-add-redirect-url.png)
+    ![Add Redirect URL button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/asana-spoke-add-redirect-url.png)
 
 6.  Enter the redirect URL in the format `https://<your instance name>.service-now.com/oauth_redirect.do`.
 

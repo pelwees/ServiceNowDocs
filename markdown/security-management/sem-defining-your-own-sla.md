@@ -88,7 +88,7 @@ Recalculate from risk change date and set to earliest target date only when risk
 If the risk increases: Compares the existing RT date and the recalculated RT date and applies the earliest date. If the risk decreases: Applies Field change time + Target \(days\) without comparison.
 
 </td></tr></tbody>
-</table>For configuration steps, see [Recalculate a remediation target date](sem-configure-remediation-target-rules.md#).
+</table>For configuration steps, see [Recalculate a remediation target date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-target-rules.md#).
 
 ## Deactivating or deleting remediation target rules
 
@@ -137,10 +137,10 @@ When you modify a remediation target rule, use the **Reapply** button on the Rem
 -   If the **Evaluate remediation targets** job is running, you can’t initiate a reapply process. However, if a reapply process is already running and the scheduled job is triggered, they run in parallel.
 -   As a vulnerability admin or analyst, you can obtain the latest remediation target date for selected findings in the Security Exposure Management Workspace. This method is more efficient than running the remediation target rules for all findings in the classic UI, which can be time-consuming.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[Configuring remediation target rules](sem-configure-remediation-target-rules.md#)
+[Configuring remediation target rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-remediation-target-rules.md#)
 

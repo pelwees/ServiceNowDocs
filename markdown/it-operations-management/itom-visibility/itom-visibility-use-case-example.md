@@ -40,23 +40,23 @@ You can create application services manually, using an API, or by having Service
 
 Service Mapping automates a critical aspect of CSDM with a consistent, automated approach to connect the logical layer of the CSDM model to the physical model CIs in the CMDB. This approach lets you more effectively manage your business applications. The approach also enables you to automate modeling of your business applications for impact assessment and analysis. For impact assessments and analysis, you can use a number of ServiceNow products including Change Management, Incident Management, or the CMDB Query Builder.
 
-![Application Services flow.](../../csdm-implementation/image/itom-visibility-flow.png "Application Services flow")
+![Application Services flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../csdm-implementation/image/itom-visibility-flow.png "Application Services flow")
 
 ## Application services view in Operator Workspace
 
 You can specify a life-cycle status for an application service. Application services with an Operational life-cycle status can be used on service maps for the relevant workflows, such as Artificial Intelligence for IT Operations \(AIOPs\) workflows.
 
-![Life-cycle status for application services.](../../csdm-implementation/image/lifecycle-status-app-svcs.png)
+![Life-cycle status for application services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../csdm-implementation/image/lifecycle-status-app-svcs.png)
 
 You can view information about the services, such as the criticality, in the Operator Workspace.
 
-![Operator Workspace.](../../csdm-implementation/image/operator-workspace.png "Operator Workspace")
+![Operator Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../csdm-implementation/image/operator-workspace.png "Operator Workspace")
 
 The Service Map tab displays a visual representation of the service.
 
-![Service map diagram.](../../csdm-implementation/image/service-map-diagram.png "Service map diagram")
+![Service map diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../csdm-implementation/image/service-map-diagram.png "Service map diagram")
 
-**Parent Topic:**[ITOM Visibility and CSDM reference](itom-visibility-use-case-product-view.md)
+**Parent Topic:**[ITOM Visibility and CSDM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-use-case-product-view.md)
 
 **Related topics**  
 

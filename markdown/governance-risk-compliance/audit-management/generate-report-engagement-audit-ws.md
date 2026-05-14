@@ -27,7 +27,7 @@ You can generate a report for engagements that are in the **Awaiting approval**,
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+2.  Select the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
 
 3.  Select **All engagements** or **My engagements** in the Execution list.
 

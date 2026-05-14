@@ -15,7 +15,7 @@ breadcrumb: [Landing pages, Advanced configurations, Workforce Optimization for 
 
 Stay on top of the status of incidents your teams are working on at a given time. Monitor training that's overdue and how many assessments are open and require approval. Analyze your teams' work and SLA status for the desired time period.
 
-![Workforce Optimzation Landing Page](../../../product/configurable-workforce-optimization-itsm/image/workforce-optimization-landing-page.jpg "Workforce Optimization for ITSM landing page")
+![Workforce Optimzation Landing Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/image/workforce-optimization-landing-page.jpg "Workforce Optimization for ITSM landing page")
 
 ## End user and roles
 
@@ -78,11 +78,11 @@ Select a visualization to view details.
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Open P1 Incidents|Single score![Single score](../../reporting/image/icon-single-score-report.png)|Number of open incidents with top priority.|
-|Incidents not updated in 24 hours|Single score![Single score](../../reporting/image/icon-single-score-report.png)|Number of incidents that have not been updated in the last 24 hours.|
-|Incident SLAs Breached|Single score![Single score](../../reporting/image/icon-single-score-report.png)|Number of incidents with SLAs that have been breached.|
-|Incident SLAs at Risk|Single score![Single score](../../reporting/image/icon-single-score-report.png)|Number of incidents with SLAs that are at risk.|
-|Escalations|Single score![Single score](../../reporting/image/icon-single-score-report.png)| |
+|Open P1 Incidents|Single score![Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../reporting/image/icon-single-score-report.png)|Number of open incidents with top priority.|
+|Incidents not updated in 24 hours|Single score![Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../reporting/image/icon-single-score-report.png)|Number of incidents that have not been updated in the last 24 hours.|
+|Incident SLAs Breached|Single score![Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../reporting/image/icon-single-score-report.png)|Number of incidents with SLAs that have been breached.|
+|Incident SLAs at Risk|Single score![Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../reporting/image/icon-single-score-report.png)|Number of incidents with SLAs that are at risk.|
+|Escalations|Single score![Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../reporting/image/icon-single-score-report.png)| |
 
-**Parent Topic:**[Workforce Optimization for ITSM landing pages](../../../product/configurable-workforce-optimization-itsm/concept/configurable-wfo-itsm-landing-pages.md)
+**Parent Topic:**[Workforce Optimization for ITSM landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../../product/configurable-workforce-optimization-itsm/concept/configurable-wfo-itsm-landing-pages.md)
 

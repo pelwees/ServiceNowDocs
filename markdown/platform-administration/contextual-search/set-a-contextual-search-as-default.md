@@ -29,8 +29,8 @@ Role required: admin
 
 3.  Select **Set As Default**.
 
-    ![Search Context form showing Set As Default button.](../image/set-as-default.png)
+    ![Search Context form showing Set As Default button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/set-as-default.png)
 
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

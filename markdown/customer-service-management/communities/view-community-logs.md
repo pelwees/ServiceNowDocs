@@ -31,48 +31,48 @@ Role required: sn\_communities.admin
     |View Log|View who has viewed what and where in the community.|
 
 
-**Parent Topic:**[Configuring communities](../reference/configure-communities.md)
+**Parent Topic:**[Configuring communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../reference/configure-communities.md)
 
 **Related topics**  
 
 
-[Community content types](../concept/c_communities-content-types.md)
+[Community content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-content-types.md)
 
-[Community feedback types](../concept/feedback-types.md)
+[Community feedback types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/feedback-types.md)
 
-[Community access types](../concept/access-types.md)
+[Community access types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/access-types.md)
 
-[Platform Analytics Solutions for Communities](../../../use/dashboards/application-content-packs/communities-content-pack.md)
+[Platform Analytics Solutions for Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../use/dashboards/application-content-packs/communities-content-pack.md)
 
-[Migrate Social Q&amp;A data to Communities](migrate-socialqa.md)
+[Migrate Social Q&amp;A data to Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/migrate-socialqa.md)
 
-[View community feedback and bookmarks tables](view-feedback-bookmark-tables.md)
+[View community feedback and bookmarks tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/view-feedback-bookmark-tables.md)
 
-[Create a case from a discussion](../concept/case-management-integration.md)
+[Create a case from a discussion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/case-management-integration.md)
 
-[Enable knowledge harvesting](../concept/communities-km-integration-configure.md)
+[Enable knowledge harvesting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-km-integration-configure.md)
 
-[Activate Communities plugins](activate-communities.md)
+[Activate Communities plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/activate-communities.md)
 
-[Community setup guide for admins](../reference/r_setup-communities-admin.md)
+[Community setup guide for admins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../reference/r_setup-communities-admin.md)
 
-[Configure community content types](enable-content-types-for-community.md)
+[Configure community content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/enable-content-types-for-community.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../customer-service-management/task/create-video-configuration.md)
 
-[Configure community forums](configure-forums-topics.md)
+[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
-[Forum and user permissions management](../concept/communities-permissions.md)
+[Forum and user permissions management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-permissions.md)
 
-[Configure the community profile](configure-community-profile.md)
+[Configure the community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-community-profile.md)
 
-[Create community Terms and Conditions](create-terms-conditions.md)
+[Create community Terms and Conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-terms-conditions.md)
 
-[Enable users to self-register to a community](../concept/configure-registration.md)
+[Enable users to self-register to a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/configure-registration.md)
 
-[Moderate a community](moderate-communities.md)
+[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 
-[Administer gamification](../concept/communities-gamification-administer.md)
+[Administer gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-administer.md)
 
-[Community Service Portal](../concept/community-service-portal.md)
+[Community Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/community-service-portal.md)
 

@@ -44,5 +44,5 @@ Assignment rules automatically assign tasks to users and groups when the conditi
 **Related topics**  
 
 
-[Routing and assigning customer service cases](../concept/c_CaseRouting.md)
+[Routing and assigning customer service cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/c_CaseRouting.md)
 

@@ -36,20 +36,20 @@ To install Supplier Relationship and Performance Management, the following plugi
     -   Supplier Operations \(com.snc.sn\_so\)
     -   Gantt Component for ServiceNow \(com.servicenow\_now\_gantt\)
 
-To enable the Automated KPIs feature after an upgrade, run the fix scripts **KPI - Dec 25 records script** and **KPI - Dec 25 data records script**. For more information, see [Run fix scripts to enable Automated KPI collection](../task/run-fixscript-automated-kpis.md).
+To enable the Automated KPIs feature after an upgrade, run the fix scripts **KPI - Dec 25 records script** and **KPI - Dec 25 data records script**. For more information, see [Run fix scripts to enable Automated KPI collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/run-fixscript-automated-kpis.md).
 
-For more information about configuring Supplier Relationship and Performance Management, see [Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md).
+For more information about configuring Supplier Relationship and Performance Management, see [Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md).
 
-For more information about using Supplier Relationship and Performance Management, see [Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md).
+For more information about using Supplier Relationship and Performance Management, see [Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md).
 
-For more information about Supplier Relationship and Performance Management data model and primary tables, see [Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md).
+For more information about Supplier Relationship and Performance Management data model and primary tables, see [Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md).
 
 **Related topics**  
 
 
-[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md)
 
-[Using Supplier Relationship and Performance Management](using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md)
 
-[Supplier Relationship and Performance Management reference](supplier-relationship-and-performance-management-reference.md)
+[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 

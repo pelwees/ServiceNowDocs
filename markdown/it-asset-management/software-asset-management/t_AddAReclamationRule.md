@@ -23,7 +23,7 @@ Role required: sam\_admin
 
 If you select the **Notify user** option in the reclamation rule, then the user has a chance to respond with approval during the process of reclamation. If no response is received during a specified period, the software rights are automatically reclaimed. If the user still wants to keep the software installation, it becomes the responsibility of the manager to approve or decline the removal.
 
-For information on creating a reclamation rule for SCCM products, see [Create a reclamation rule to import Microsoft SCCM usage data](create-reclamation-rule-sccm.md).
+For information on creating a reclamation rule for SCCM products, see [Create a reclamation rule to import Microsoft SCCM usage data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-reclamation-rule-sccm.md).
 
 ## Procedure
 
@@ -207,7 +207,7 @@ Amount of time to keep unused software before it’s reclaimed.-   One Month Ago
 
     After the reclamation rule is created, add software products to the reclamation rule. You can also add a custom software product.
 
-    Additionally, you can specify filter conditions on software products that are suite parents. For details on adding a custom software product, see [Add a custom software product in Software Asset Management classic](t_AddACustomProduct.md). For details on filter conditions, refer to [Software reclamation rules](../concept/sw-reclamation-rules.md).
+    Additionally, you can specify filter conditions on software products that are suite parents. For details on adding a custom software product, see [Add a custom software product in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddACustomProduct.md). For details on filter conditions, refer to [Software reclamation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sw-reclamation-rules.md).
 
 5.  Select **Edit** in the Software Products related list to add software products.
 

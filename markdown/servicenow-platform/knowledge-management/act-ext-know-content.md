@@ -25,13 +25,13 @@ The following plugins are automatically activated when the Knowledge Management 
 
 -   Centralized Connection and Credentials plugin \(com.snc.core.automation.connection\_credential\)
 -   Knowledge Management V3 plugin \(com.snc.knowledge3\)
--   [Knowledge Management Advanced Installer plugin](activate-knowledge-advanced-plugin.md) \(com.snc.knowledge\_advanced.installer\)
+-   [Knowledge Management Advanced Installer plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-knowledge-advanced-plugin.md) \(com.snc.knowledge\_advanced.installer\)
 
 The **Knowledge** &gt; **Administration** module displays the **External Knowledge Sources** and **External Knowledge Jobs** sub-modules when the Knowledge Management - External Content Integration plugin is activated.
 
 **Note:**
 
-Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](../concept/knowledge-service-portal-pages.md).
+Starting with the Washington DC release, the Knowledge Management v3 homepage \(com.snc.knowledge3\) is being prepared for deprecation in the future Y release. It is replaced by the Knowledge Management Service Portal \(com.snc.knowledge\_serviceportal\), which is active by default for customers on Madrid and later releases. For more information about the new experience, see [Knowledge Management Service Portal homepage features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-pages.md).
 
 ## Procedure
 
@@ -48,5 +48,5 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Integration with external knowledge sources](../concept/knowledge-external-content-integration.md)
+**Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-external-content-integration.md)
 

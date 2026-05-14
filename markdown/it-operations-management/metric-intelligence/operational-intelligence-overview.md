@@ -21,7 +21,7 @@ Metric data is collected by various data sources such as SCOM, SolarWinds monito
 
 Metric Intelligence uses historical metric data to build statistical models. These models facilitate projection of expected metric values along with upper and lower bounds. Metric Intelligence then uses these projections to detect statistical outliers and to calculate anomaly scores. Anomalies are scored on a range of 0-10. High anomaly scores for CI metrics can indicate that a CI is at risk of causing a service outage.
 
-After processing, the [Insights Explorer](../task/view-metrics-explorer.md) shows metric statistics and charts, and the [Anomaly Map](../task/view-metrics-anomaly-alerts.md) shows correlated scores for CIs with the highest anomaly scores, across a timeline.
+After processing, the [Insights Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/view-metrics-explorer.md) shows metric statistics and charts, and the [Anomaly Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/view-metrics-anomaly-alerts.md) shows correlated scores for CIs with the highest anomaly scores, across a timeline.
 
 You may want to disable anomaly detection during system maintenance, as anomalies may be irrelevant when detected while maintenance is in progress. To do so, set the **mid.mi.anomaly\_detection.disable** property to **true**.
 
@@ -66,41 +66,41 @@ The following statistical models and classifiers are used in anomaly detection:
 
         Data with a pattern that repeats itself over weekly intervals \(seasonal model\).
 
-        Requires a minimum of 15 days of data in the series, as set by the [weekly\_model\_min\_days](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 15 days of data in the series, as set by the [weekly\_model\_min\_days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Weekly classifier](../image/WeeklyDataModel.png)
+        ![Weekly classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/WeeklyDataModel.png)
 
     -   **Daily**
 
         Data with a pattern that repeats itself over a daily interval \(seasonal model\).
 
-        Requires a minimum of 3 days of data in the series, as set by the [daily\_model\_min\_days](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 3 days of data in the series, as set by the [daily\_model\_min\_days](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Daily classifier](../image/DailyDataModel.png)
+        ![Daily classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/DailyDataModel.png)
 
     -   **Trendy**
 
         Data that has a linear trend with some slope and with some noise.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Trendy classifier](../image/TrendyDataModel.png)
+        ![Trendy classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/TrendyDataModel.png)
 
     -   **Noisy**
 
         Typical noisy data that is a basic pattern classification in a data model. The pattern cannot be identified with a specific trend or seasonality.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Noisy classifier](../image/NoisyDataModel.png)
+        ![Noisy classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/NoisyDataModel.png)
 
     -   **Positive clipped noisy**
 
         Similar to the noisy classifier other than the lower bound that is fixed on 0.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Positive clipped noisy classifier](../image/PositiveClippedNoisyDataModel.png)
+        ![Positive clipped noisy classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/PositiveClippedNoisyDataModel.png)
 
     -   **Centered noisy**
 
@@ -108,9 +108,9 @@ The following statistical models and classifiers are used in anomaly detection:
 
         Requires that the number of data points in the series is zero.
 
-        ![Centered noisy classifier](../image/CenteredNoisyDataModel.png)
+        ![Centered noisy classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/CenteredNoisyDataModel.png)
 
-        To retrieve alerts for metrics with this model, create metric rules for static bounds definitions. For details, see [Create metric rules](../../agent-client-collector/task/create-metric-rules.md).
+        To retrieve alerts for metrics with this model, create metric rules for static bounds definitions. For details, see [Create metric rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../agent-client-collector/task/create-metric-rules.md).
 
     -   **Skewed noisy**
 
@@ -118,9 +118,9 @@ The following statistical models and classifiers are used in anomaly detection:
 
         Requires a minimum of one data point in the series.
 
-        ![Skewed noisy classifier](../image/SkewedNoisyDataModel.png)
+        ![Skewed noisy classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/SkewedNoisyDataModel.png)
 
-        To retrieve alerts for metrics with this model, create metric rules for static bounds definitions. For details, see [Create metric rules](../../agent-client-collector/task/create-metric-rules.md).
+        To retrieve alerts for metrics with this model, create metric rules for static bounds definitions. For details, see [Create metric rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../../agent-client-collector/task/create-metric-rules.md).
 
     -   **Skewed noisy - Generalized Extreme Value \(GEV\) Distribution**
 
@@ -130,23 +130,23 @@ The following statistical models and classifiers are used in anomaly detection:
 
         Data pattern similar to the trendy classifier but with a monotonous increase and without noise. For this classifier, there is no data model and no anomaly detection.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Diagram of the Accumulator classifier.](../image/AccumulatorDataModel.png)
+        ![Diagram of the Accumulator classifier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/AccumulatorDataModel.png)
 
     -   **Near Constant**
 
         Nearly constant data, in which most values are a specific constant value. For this classifier, there is no data model and no anomaly detection.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Diagram of the Near Constant classifier.](../image/NearConstantDataModel.png)
+        ![Diagram of the Near Constant classifier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/NearConstantDataModel.png)
 
     -   **Detected Constant**
 
         Enables checking near-constant metrics for anomalies. To do so, you must move the metrics to the detected-constant model, via a system token. To add tokens to the token list and enable more metrics to be measured for anomalies, contact customer support.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
         Enabled when the `metric_name_analysis.add_detected_constant_candidate` system property is set to **true**. To overwrite the value of this property for a specific metric type, update the **Detected Constant Candidate** field in the Metric Types table by doing the following:
 
@@ -190,15 +190,15 @@ The metric is not considered for the detected constant model.
 
         Data pattern in which all values are one of a relatively small number of values. For example, values are always 100 or 99.9. For this classifier, there is no data model and no anomaly detection.
 
-        Requires a minimum of 400 data points in the series, calculated as 10 times the value of the [multinomial\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 400 data points in the series, calculated as 10 times the value of the [multinomial\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Multinomial classifier](../image/MultinomialDataModel.png)
+        ![Multinomial classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/MultinomialDataModel.png)
 
     -   **Corrupt**
 
         Data has insufficient data points to identify a pattern. For this classifier, there is no data model and no anomaly detection.
 
-        Requires that the number of data points in the series is less than the value of the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting \(30 by default\).
+        Requires that the number of data points in the series is less than the value of the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting \(30 by default\).
 
 -   **Kalman Filter statistical model**
 
@@ -208,9 +208,9 @@ The metric is not considered for the detected constant model.
 
         When incoming data clusters around a new value according to the current control bounds, the Learner adjusts the data model to accommodate a permanent change. This clustering is detected as a new value in the data model so that most incoming data is again within the control bounds rather than anomalous. Such change detection is useful when for example, cores or memory are added to a server, which impact the baselines.
 
-        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 30 data points in the series, as set by the [corrupt\_data\_count\_threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Diagram of the Kalman Filter Local Level classifier.](../image/KalmanFilterLocalLevelDataModel.png)
+        ![Diagram of the Kalman Filter Local Level classifier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/KalmanFilterLocalLevelDataModel.png)
 
     -   **Unrecognized**
 
@@ -224,9 +224,9 @@ The metric is not considered for the detected constant model.
 
         Data that is not time-dependent meaning that there is no significant shift in parameters such as mean and variance when shifting data in time.
 
-        Requires a minimum of 5000 data points in the series, as set by the [snpm\_minimum\_data\_count](../task/create-config-overriding-rule.md) configuration setting.
+        Requires a minimum of 5000 data points in the series, as set by the [snpm\_minimum\_data\_count](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../task/create-config-overriding-rule.md) configuration setting.
 
-        ![Diagram of the Non-Parametric Stationary classifier.](../image/NonParametricStationaryDataModel.png)
+        ![Diagram of the Non-Parametric Stationary classifier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/../image/NonParametricStationaryDataModel.png)
 
     -   **Unrecognized**
 

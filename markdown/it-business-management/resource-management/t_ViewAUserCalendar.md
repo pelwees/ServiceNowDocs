@@ -47,16 +47,16 @@ Select a User record to open the User form, and then select the **View Calendar*
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[My Calendar](../concept/c_MyCalendar.md)
+**Parent Topic:**[My Calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_MyCalendar.md)
 
 **Related topics**  
 
 
-[Add events to your calendar](t_AddEventsToYourCalendar.md)
+[Add events to your calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AddEventsToYourCalendar.md)
 
-[Create repeatable events](t_CreateRepeatableEvents.md)
+[Create repeatable events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateRepeatableEvents.md)
 
-[Add events to a user calendar](t_AddEventsToAUserCalendar.md)
+[Add events to a user calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AddEventsToAUserCalendar.md)
 
-[Delete events](t_DeleteEvents.md)
+[Delete events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_DeleteEvents.md)
 

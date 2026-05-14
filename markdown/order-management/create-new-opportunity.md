@@ -129,7 +129,7 @@ An external organization involved in selling, influencing, or supporting an oppo
 
 ## What to do next
 
-Start adding more information to your opportunity. To learn more, see [Add and view the details of an opportunity](opportunity-management-details-tab.md).
+Start adding more information to your opportunity. To learn more, see [Add and view the details of an opportunity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md).
 
-**Parent Topic:**[Using Opportunity Management](opportunity-mgmt-using.md)
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 

@@ -21,12 +21,12 @@ You can use this API in scoped applications or within the global scope. This API
 
 See also:
 
--   [Direct SOAPMessageV2 example](../reference/r_DirectSOAPMessageV2Example.md)
--   [Recordless SOAPMessageV2 example](../reference/r_RecordlessSOAPMessageV2Example.md)
--   [Asynchronous SOAPMessageV2 example](../reference/r_AsyncronousSOAPMessageV2Example.md)
--   [SOAPMessageV2 MID server example](../reference/r_SOAPMessageV2MIDServerExample.md)
+-   [Direct SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../reference/r_DirectSOAPMessageV2Example.md)
+-   [Recordless SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../reference/r_RecordlessSOAPMessageV2Example.md)
+-   [Asynchronous SOAPMessageV2 example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../reference/r_AsyncronousSOAPMessageV2Example.md)
+-   [SOAPMessageV2 MID server example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../reference/r_SOAPMessageV2MIDServerExample.md)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SOAPMessageV2 - SOAPMessageV2\(\)
 
@@ -75,7 +75,7 @@ Things to consider when using this method:
 
 |Type|Description|
 |----|-----------|
-|[SOAPResponseV2](../../SOAPResponseV2/concept/c_SOAPResponseV2API.md#)|Response returned by the SOAP provider.|
+|[SOAPResponseV2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../SOAPResponseV2/concept/c_SOAPResponseV2API.md#)|Response returned by the SOAP provider.|
 
 ```
 var sm = new sn_ws.SOAPMessageV2("StockQuote","GetQuote"); //Might throw exception if message doesn't exist or not visible due to scope.
@@ -137,7 +137,7 @@ var endpoint = sm.getEndpoint();
 
 Returns the content of the SOAP message body.
 
-**Note:** Before calling the getRequestBody\(\) method, you must call the [execute\(\)](c_SOAPMessageV2API.md#) method to obtain the response object.
+**Note:** Before calling the getRequestBody\(\) method, you must call the [execute\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_SOAPMessageV2API.md#) method to obtain the response object.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -195,7 +195,7 @@ var requestHeaders = sm.getRequestHeaders();
 
 Sets one or more URIs allowed to be redirected to. Controlling the allowed outbound URIs reduces security concerns and helps prevent URL redirect attacks that send users to malicious sites.
 
-For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#).
+For a more comprehensive means of redirecting URIs, see [UriMatcher - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../UriMatcherScoped/concept/UriMatcherScopedAPI.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -288,7 +288,7 @@ sm.setEccParameter("source","http://very.long.endpoint");
 
 Sets the endpoint for the SOAP message.
 
-By default, the SOAP message uses the endpoint specified in the SOAP message record. Use this method to override the default. You must call this method when using the [SOAPMessageV2\(\)](c_SOAPMessageV2API.md#) constructor with no parameters.
+By default, the SOAP message uses the endpoint specified in the SOAP message record. Use this method to override the default. You must call this method when using the [SOAPMessageV2\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_SOAPMessageV2API.md#) constructor with no parameters.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -517,7 +517,7 @@ sm.setRequestHeader("Accept","Application/json");
 
 Defines the SOAP action this SOAP message performs.
 
-The WSDL for your web service provider lists SOAP actions you can perform. You must call this method when using the [SOAPMessageV2\(\)](c_SOAPMessageV2API.md#) constructor with no parameters.
+The WSDL for your web service provider lists SOAP actions you can perform. You must call this method when using the [SOAPMessageV2\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_SOAPMessageV2API.md#) constructor with no parameters.
 
 |Name|Type|Description|
 |----|----|-----------|

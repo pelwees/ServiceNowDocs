@@ -51,14 +51,14 @@ Role required:
 
 6.  Select the sourcing task and select **Source Request**.
 
-    ![Source request](../image/consumestock.png)
+    ![Source request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../image/consumestock.png)
 
     The Sourcing form shows the following hardware sourcing request details:
 
     -   **Total requested**- Quantity of the hardware requested.
     -   **Requested for**- Name of the person for whom the hardware is requested.
     -   Location- Place where the hardware should be deployed.
-    If the Source Request functionality or button isn't functioning as expected, confirm that the catalog task has both the **Parent** and **Request** fields populated. For more information, see [View and edit a catalog task](t_ViewAndEditACatalogTask.md). The Request ID, which is required for the Source Request page to function correctly is derived from the Parent field of the catalog task. If the Parent field is missing and the catalog task was created using Flow Designer, refer to the relevant [Set Parent field when creating Catalog Task from Flow Designer](https://support.servicenow.com/kb?sys_kb_id=1df9d8bc93a82ad07c79b36d6cba1058&id=kb_article_view) for further details.
+    If the Source Request functionality or button isn't functioning as expected, confirm that the catalog task has both the **Parent** and **Request** fields populated. For more information, see [View and edit a catalog task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ViewAndEditACatalogTask.md). The Request ID, which is required for the Source Request page to function correctly is derived from the Parent field of the catalog task. If the Parent field is missing and the catalog task was created using Flow Designer, refer to the relevant [Set Parent field when creating Catalog Task from Flow Designer](https://support.servicenow.com/kb?sys_kb_id=1df9d8bc93a82ad07c79b36d6cba1058&id=kb_article_view) for further details.
 
 7.  Select **Consume** to source the available stock from the local stockroom and from the stockroom that supports your location.
 
@@ -93,14 +93,14 @@ Role required:
     -   For hardware assets: Assets are auto-assigned to sourcing tasks but you can change an asset by selecting the **Asset** list. After you’re done, select **Close Task**.
     -   For consumable assets: The model for the asset appears on the form layout instead of the asset. Select **Close Task** or **Consume and Close**. If you select **Consume and Close**, the reserved asset is automatically picked up and assigned to the user. If you select **Close Task**, you must go to the Consumable form layout and assign an asset to the user manually.
 
-**Parent Topic:**[Sourcing items in a service catalog request](../concept/c_SourcingRequestItems.md)
+**Parent Topic:**[Sourcing items in a service catalog request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_SourcingRequestItems.md)
 
 **Related topics**  
 
 
-[Create a purchase order from a request](t_CreatingPurchOrderFromRequest.md)
+[Create a purchase order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingPurchOrderFromRequest.md)
 
-[Create a transfer order from a request](t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreatingTransferOrderFromReq.md)
 
-[Add an assignment from a request](t_AddingAssignmentsFromReq.md)
+[Add an assignment from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_AddingAssignmentsFromReq.md)
 

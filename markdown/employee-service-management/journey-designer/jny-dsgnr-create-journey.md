@@ -54,7 +54,7 @@ Journey owners and mentors with permission can edit existing journeys.
 -   Drag stages and tasks within a journey to change the order.
 -   Add a mentor.
 -   Publish the journey.
--   [Add recommended learning and quick links.](jny-dsgnr-config-reco-lrnng.md)
+-   [Add recommended learning and quick links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-config-reco-lrnng.md)
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-working-with-journeys.md)
 

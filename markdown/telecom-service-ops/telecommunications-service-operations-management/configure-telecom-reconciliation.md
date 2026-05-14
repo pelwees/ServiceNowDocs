@@ -46,13 +46,13 @@ Plugin dependencies - Ensure the following plugins are installed and activated:
 **Related topics**  
 
 
-[Discrepancy identification – types of discrepancies](../concept/discrepancy-identification-types-of-discrepancies.md)
+[Discrepancy identification – types of discrepancies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/discrepancy-identification-types-of-discrepancies.md)
 
-[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](../concept/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
+[System components installed with Telecom Discrepancy Identification &amp; Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/system-properties-affecting-telecom-discrepancy-identification-reconciliation.md)
 
-[Telecom Discrepancy Identification and Reconciliation](../concept/exploring-telecom-reconciliation.md)
+[Telecom Discrepancy Identification and Reconciliation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/exploring-telecom-reconciliation.md)
 
-[Run Telecom Discrepancy audit](run-audits.md#)
+[Run Telecom Discrepancy audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/run-audits.md#)
 
-[Control CI attribute updates using Reconciliation rules](control-ci-attribute-updates-using-reconciliation-rules.md)
+[Control CI attribute updates using Reconciliation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/control-ci-attribute-updates-using-reconciliation-rules.md)
 

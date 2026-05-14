@@ -21,7 +21,7 @@ Role required: admin, sn\_customerservice\_manager, sn\_customerservice.svc\_loc
 
 You can associate customers \(accounts, consumers, and households\) and business locations \(both internal and external\) by using the organization criteria \[service\_organization\_criteria\] table. This association helps your organization to gain access to all customers and business locations associated with a service organization.
 
-For more information about defining organization criteria, see [Create the criteria for a service organization](create-service-organization-criteria.md).
+For more information about defining organization criteria, see [Create the criteria for a service organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-service-organization-criteria.md).
 
 ## Procedure
 

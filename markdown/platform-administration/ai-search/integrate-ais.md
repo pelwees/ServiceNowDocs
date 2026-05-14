@@ -42,10 +42,10 @@ For details on EVAM definitions, configurations, templates, and configuration bu
 
 AI Search Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related search results within a record producer. You can use AI Search Assist instead of Contextual Search.
 
-For more details on the AI Search Assist widget, see [AI Search Assist record producer integration for Service Portal](ai-search-assist.md).
+For more details on the AI Search Assist widget, see [AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md).
 
--   **[AI Search Assist record producer integration for Service Portal](ai-search-assist.md)**  
+-   **[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md)**  
 AI Search Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related Catalog Item and knowledge article search results within a record producer. You can use AI Search Assist instead of Contextual Search.
 
-**Parent Topic:**[AI Search](overview-ais.md)
+**Parent Topic:**[AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 

@@ -17,7 +17,7 @@ Access Mobile Agent on your mobile device to manage change tasks.
 
 ## Before you begin
 
-Download ServiceNow Agent on an iOS platform from the Apple App Store or on an Android platform from Google Play Store. For more information, see [Download the Mobile Agent mobile application](configure-servicenow-agent.md).
+Download ServiceNow Agent on an iOS platform from the Apple App Store or on an Android platform from Google Play Store. For more information, see [Download the Mobile Agent mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-servicenow-agent.md).
 
 Role required: itil or sn\_change\_write
 
@@ -32,12 +32,12 @@ Role required: itil or sn\_change\_write
 3.  Tap **Change tasks** to get started with managing your change tasks.
 
 
--   **[View change tasks](mobile-view-changetask.md)**  
+-   **[View change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-view-changetask.md)**  
 You can view the state, risk, and the schedule of the change tasks in the Mobile Agent mobile application.
--   **[Add comments to your change tasks](mobile-add-comment-changetask.md)**  
+-   **[Add comments to your change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-add-comment-changetask.md)**  
 You can add comments to a change task from the Mobile Agent mobile application. For example, to add an insight about the change task or a discussion regarding the change task.
--   **[Resolve or close a change task](mobile-resolve-changetask.md)**  
+-   **[Resolve or close a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-resolve-changetask.md)**  
 When you implement the change task, you can close the task from the Mobile Agent mobile application.
 
-**Parent Topic:**[Mobile experience for Change Management](../concept/mobile-experience-cm.md)
+**Parent Topic:**[Mobile experience for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/mobile-experience-cm.md)
 

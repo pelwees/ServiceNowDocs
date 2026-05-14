@@ -21,7 +21,7 @@ Role required: inventory\_user \(read\) or inventory\_admin
 
 ## About this task
 
-The Shipment list shows all the shipment records initiated by the shipment tasks of various flows. For details, see [Task closures that create shipment records](../reference/shipment-record-sources.md).
+The Shipment list shows all the shipment records initiated by the shipment tasks of various flows. For details, see [Task closures that create shipment records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../reference/shipment-record-sources.md).
 
 A shipment record is created automatically whenever a shipment task of a flow or process is closed.
 
@@ -179,26 +179,26 @@ Option that indicates whether the shipment record is stale. This option is read-
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Track shipments using the integration framework](../concept/tracking-shipments-using-integration-framework.md)
+**Parent Topic:**[Track shipments using the integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/tracking-shipments-using-integration-framework.md)
 
 **Related topics**  
 
 
-[Creating an integration script include for third-party carrier applications](../concept/creating-integration-script-include-ham.md)
+[Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/creating-integration-script-include-ham.md)
 
-[Connect your ServiceNow instance with a shipping carrier application](associate-shipping-carrier-int-profile.md)
+[Connect your ServiceNow instance with a shipping carrier application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-shipping-carrier-int-profile.md)
 
-[Remove a shipping carrier from an integration profile](remove-shipping-carrier.md)
+[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-shipping-carrier.md)
 
-[Create a carrier integration profile](create-carrier-integration-profile.md)
+[Create a carrier integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-carrier-integration-profile.md)
 
-[View the carrier integration profile details](view-integration-profiles.md)
+[View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-integration-profiles.md)
 
-[Test the integration with the carrier API](test-carrier-api-integration.md)
+[Test the integration with the carrier API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/test-carrier-api-integration.md)
 
-[Create a shipping carrier record](create-shipping-carrier.md)
+[Create a shipping carrier record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-shipping-carrier.md)
 
-[Stale shipments](../concept/stale-shipments.md)
+[Stale shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/stale-shipments.md)
 
-[Track a hardware asset shipment](track-hardware-asset-shipments.md)
+[Track a hardware asset shipment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/track-hardware-asset-shipments.md)
 

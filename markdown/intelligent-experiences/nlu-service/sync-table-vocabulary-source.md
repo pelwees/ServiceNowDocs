@@ -24,7 +24,7 @@ Synchronize your table vocabulary sources to obtain the latest changes to the Se
 
 When you reference a vocabulary source in an utterance, it pulls the values at the time the model is trained. However, if the table values change over time, the model still references the values from the last training session.
 
-You can select a schedule to automatically refresh the vocabulary values used by NLU. This schedule can be edited later. For more information, see [Create a table vocabulary source](create-table-lookup-source.md).
+You can select a schedule to automatically refresh the vocabulary values used by NLU. This schedule can be edited later. For more information, see [Create a table vocabulary source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-table-lookup-source.md).
 
 You can also manually sync a table vocabulary source, such as before model training.
 
@@ -38,7 +38,7 @@ In the following example scenario, you're manually syncing the @AccessRoles voca
 
 2.  In the ServiceNow Tables tab, point just to the right of the **Refresh** column to invoke the **Sync lookup** icon.
 
-    ![ServiceNow Tables tab of the Vocabulary Sources screen. Pointing to the refresh column invokes the sync lookup button.](../images/nlu-models5.png)
+    ![ServiceNow Tables tab of the Vocabulary Sources screen. Pointing to the refresh column invokes the sync lookup button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/nlu-models5.png)
 
 3.  Select **Sync**.
 
@@ -49,18 +49,18 @@ In the following example scenario, you're manually syncing the @AccessRoles voca
 
 The syncing operation can take some time, depending on the source table size.
 
-![ServiceNow Tables tab of the Vocabulary Sources page. The Current status column shows the progress or condition of the synchronization job.](../images/nlu-models6.png "ServiceNow Tables tab of the Vocabulary Sources page")
+![ServiceNow Tables tab of the Vocabulary Sources page. The Current status column shows the progress or condition of the synchronization job.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/nlu-models6.png "ServiceNow Tables tab of the Vocabulary Sources page")
 
 The values in the Last refresh and Current status columns reflect the current status of the vocabulary source.
 
-![ServiceNow Tables tab of the Vocabulary Sources page. The Last refresh and Current status columns provide synchronization information.](../images/nlu-models7.png "ServiceNow Tables tab of the Vocabulary Sources page")
+![ServiceNow Tables tab of the Vocabulary Sources page. The Last refresh and Current status columns provide synchronization information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/nlu-models7.png "ServiceNow Tables tab of the Vocabulary Sources page")
 
-Proceed to train your model. For more information on model training, see [Train and try your NLU model](test-train-nlu-model.md).
+Proceed to train your model. For more information on model training, see [Train and try your NLU model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-train-nlu-model.md).
 
 For information about errors when syncing a table vocabulary source, see article [KB1588239](https://support.servicenow.com/kb_view.do?sysparm_article=KB1588239) in the Now Support Knowledge Base.
 
 **Related topics**  
 
 
-[Create a table vocabulary source](create-table-lookup-source.md)
+[Create a table vocabulary source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-table-lookup-source.md)
 

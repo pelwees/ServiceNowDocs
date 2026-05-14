@@ -124,11 +124,11 @@ Resolution
 Delete the child or related CI \(Configuration Item\) to delete the parent CI.1.  Click the related or the child CI under **Related Templates**.
 2.  Click **Delete**.
 
-However, an Admin can always customize the deletion action. To learn more, see [Customizing deletion action](../task/customizing-deletion-action.md).
+However, an Admin can always customize the deletion action. To learn more, see [Customizing deletion action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/customizing-deletion-action.md).
 
 </td></tr></tbody>
-</table>-   **[Customizing deletion action](../task/customizing-deletion-action.md)**  
+</table>-   **[Customizing deletion action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/customizing-deletion-action.md)**  
 Customizing deletion action enables you to create your own process of the deletion.
 
-**Parent Topic:**[Using Telecommunications Network Inventory](using-telecom-network-inventory.md)
+**Parent Topic:**[Using Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-telecom-network-inventory.md)
 

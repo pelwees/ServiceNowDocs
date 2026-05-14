@@ -131,7 +131,7 @@ Option to mark the application as featured. Use the **Featured** option to promo
 </td></tr></tbody>
 </table>    Applications are fetched. You can proceed to associate topics suitable for the application.
 
-3.  Assign the topics to applications by following the steps from [Assign topics to web applications](web-applications-topic-assignment.md).
+3.  Assign the topics to applications by following the steps from [Assign topics to web applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-applications-topic-assignment.md).
 
 
 ## Result

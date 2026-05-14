@@ -21,7 +21,7 @@ Role required: none
 
 ## Procedure
 
-1.  From the task board tools, click the menu icon \(![Menu icon](../image/BoardConfigurationMenuIcon.png)\).
+1.  From the task board tools, click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardConfigurationMenuIcon.png)\).
 
 2.  Click **Advanced Settings**.
 
@@ -29,7 +29,7 @@ Role required: none
 
     The selected theme is applied to the background of the board, lane header, add card button, quick filter, tab header, quick panel, and board header. It also appears as the color for the board on the My Task Boards page. This setting applies only to the boards of the user.
 
-    ![Visual Task Board color palette](../image/colorpalette.png "Visual Task Board color palette")
+    ![Visual Task Board color palette](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/colorpalette.png "Visual Task Board color palette")
 
 4.  In the Quick Panel section, toggle the options to customize the quick panel.
 
@@ -80,7 +80,7 @@ Label name that appears beside the colored icon for that label in the quick pane
 </td></tr></tbody>
 </table>    When all these options are enabled, a quick panel resembles the following illustration.
 
-    ![Sample quick panel](../image/QuickpanelVTB.png)
+    ![Sample quick panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/QuickpanelVTB.png)
 
 5.  In the Card Configuration section, toggle the options to customize the appearance and information of cards.
 
@@ -132,12 +132,12 @@ SLA status indicators appear on cards and alerts appear when one or more card ha
     This setting is a user preference.
 
 
-**Parent Topic:**[Customizing and configuring Visual Task Boards](../concept/configuring-vis-task-boards.md)
+**Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/configuring-vis-task-boards.md)
 
 **Related topics**  
 
 
-[Visual Task Board tools](../reference/task-board-tools.md)
+[Visual Task Board tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/task-board-tools.md)
 
-[Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrRemoveATaskBoardMember.md)
 

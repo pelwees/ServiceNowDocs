@@ -42,12 +42,12 @@ Solution training involves these steps.
 
     The system shows a Training Progress pop-up window.
 
-    ![Solution training progress pop-up window showing that training succeeded.](../images/solution-training-progress.png)
+    ![Solution training progress pop-up window showing that training succeeded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/solution-training-progress.png)
 
 
 ## What to do next
 
-For classification solutions, see [Review classification solution statistics](review-solution-statistics.md).
+For classification solutions, see [Review classification solution statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-solution-statistics.md).
 
-For similarity solutions, see [Review similarity solution examples and scores](review-similarity-examples.md).
+For similarity solutions, see [Review similarity solution examples and scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 

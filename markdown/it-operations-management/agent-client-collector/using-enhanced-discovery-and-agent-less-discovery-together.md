@@ -49,5 +49,5 @@ Enables cleanup for software’s name and version. If set to **true**, it remove
  **Note:** Once the property is set to **false**, to disable the cleanup, duplicate records are generated for a given software. Name and Version are the primary identifiers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Discovery](acc-discovery.md)
+</table>**Parent Topic:**[Agent Client Collector Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-discovery.md)
 

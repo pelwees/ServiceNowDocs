@@ -36,7 +36,7 @@ This task topic follows the demand AI playbook. It’s a standard playbook compr
 -   Approve and finalize demand
 -   Complete demand
 
-![Demand default playbook stages.](../images/ppw-ai-checkpoint-playbook-stage.png)
+![Demand default playbook stages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/ppw-ai-checkpoint-playbook-stage.png)
 
 **Note:** The AI checkpoint stage is available if the AI Control Tower plugin is installed and the investment type of the demand is set to artificial intelligence.
 
@@ -50,7 +50,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
 2.  Open an existing demand or create a demand.
 
-    For more information on creating demands, refer to [Create a demand](create-a-demand-ppw.md).
+    For more information on creating demands, refer to [Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-a-demand-ppw.md).
 
 3.  Use the default playbook or create or customize one.
 
@@ -61,7 +61,7 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
             **Note:** The default playbook is a stage-gate playbook, that is, a stage is unlocked only when its prior stages are marked as completed or skipped.
 
-        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md).
+        3.  Complete the activities within each stage. For more information, see [Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-default-playbook-stages-activities-ppw.md).
         4.  For each activity, perform one of the following actions:
             -   Select **Mark Complete** to mark the activity as done and move to the next activity.
             -   Select **Save** to save your progress without completing the activity.
@@ -83,9 +83,9 @@ Each stage consists of activities, action items, or steps that guide the demand 
 
 [Playbooks reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer-reference.md)
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace-ppw.md)
+[Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/playbooks-in-demand-workspace-ppw.md)
 
-[Create and customize playbooks](create-and-customize-playbooks-ppw.md)
+[Create and customize playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-and-customize-playbooks-ppw.md)
 
-[Demand default playbook stages and activities](../reference/demand-default-playbook-stages-activities-ppw.md)
+[Demand default playbook stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-default-playbook-stages-activities-ppw.md)
 

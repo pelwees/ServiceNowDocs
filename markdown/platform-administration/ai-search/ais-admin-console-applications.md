@@ -16,11 +16,11 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Service
 
 The AI Search Admin console Applications page is where you monitor all the applications which use AI Search, as well as create and adjust AI Search configurations.
 
-![AI Search Admin console Applications page with 5 callouts highlighted. For a text description, see the table that follows.](../image/ais-admin-02.png "AI Search Admin console Applications")
+![AI Search Admin console Applications page with 5 callouts highlighted. For a text description, see the table that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02.png "AI Search Admin console Applications")
 
 Each application is represented by a card on the Applications page. Each card shows the AI Search status of the application, its name, and the date when it was last modified or if its configuration isn’t started yet. Selecting a card takes you to the application's Configuration view.
 
-![Application cards showing AI Search in use, Ready to turn on, andConfiguration needed status messages.](../image/ais-admin-02a.png "AI Search Admin console Applications cards")
+![Application cards showing AI Search in use, Ready to turn on, andConfiguration needed status messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02a.png "AI Search Admin console Applications cards")
 
 <table id="table_lyh_wwg_rhb"><thead><tr><th>
 
@@ -89,7 +89,7 @@ Frequently asked questions related to AI Search.
 
 When you select an application's card in the Applications page, the application's configuration data appears. In the Configuration view, you can turn AI Search on and off for the application, choose and test search profiles and application configurations before publishing, and publish profiles. Select **Search Profile** or **Search Application Configuration** to view profile summaries. You can also select an individual option from the sidebar or its matching card on the main view to display it in detail.
 
-![AI Search Admin console Employee Center application configuration summary view. The application's Current Status and Search Profile sections respectively show the AI Search and profile publication status.](../image/ais-admin-02b.png "AI Search Admin console Applications")
+![AI Search Admin console Employee Center application configuration summary view. The application's Current Status and Search Profile sections respectively show the AI Search and profile publication status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02b.png "AI Search Admin console Applications")
 
 **Note:** The Applications view varies if you select a Search Profile with Genius Results activated. For more information, see Genius Results in [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md)
 
@@ -279,9 +279,9 @@ Option to select a different Search Application Configuration.
 </td></tr></tbody>
 </table>## Search Profile
 
-The Search Profile view is where you review and publish your search profile. You get a summary view from the Search Profile tab, and you select each of the four subsections to review them before publishing. For more information on creating and publishing a search profile, see [Create a search profile](../task/create-search-profile-ais.md) and [Publish an AI Search search profile](../task/publish-search-profile-ais.md).
+The Search Profile view is where you review and publish your search profile. You get a summary view from the Search Profile tab, and you select each of the four subsections to review them before publishing. For more information on creating and publishing a search profile, see [Create a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-search-profile-ais.md) and [Publish an AI Search search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/publish-search-profile-ais.md).
 
-![AI Search Admin console Search Profile summary view.](../image/ais-admin-02c.png "Search Profile view")
+![AI Search Admin console Search Profile summary view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02c.png "Search Profile view")
 
 |Field|Description|
 |-----|-----------|
@@ -290,49 +290,49 @@ The Search Profile view is where you review and publish your search profile. You
 |Test|Button to test your search profile.|
 |Publish profile|Button to publish your search profile.|
 
-You use Search Sources to make your searchable content available in search experiences. For more information, see [Search sources in AI Search](../concept/search-sources-ais.md) and [Create a search source for AI Search](../task/create-search-source-ais.md).
+You use Search Sources to make your searchable content available in search experiences. For more information, see [Search sources in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/search-sources-ais.md) and [Create a search source for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-search-source-ais.md).
 
-![AI Search Admin console Search Sources view.](../image/ais-admin-02d.png "Search Sources")
+![AI Search Admin console Search Sources view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02d.png "Search Sources")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of search sources.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of search sources.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a Search Source.|
 |Link|Button to select a Search Source to add to the list.|
 |Unlink|Button to unlink a Search Source from the list. Select one or more Search Sources from the list before selecting **Unlink**.|
 
-Dictionaries are an optional part of your search profile that guide your searches with synonyms, stop words, and spell checking options. For more information on synonyms, see [Synonyms](../concept/synonyms-ais.md), [Create synonyms](../task/create-synonym-ais.md), and [Create a synonym dictionary linked to a search profile](../task/create-synonym-dict-ais.md). For more information on stop words, see [Stop words](../concept/stop-words-ais.md), [Create stop words](../task/create-stop-word-ais.md), and [Create a stop word dictionary linked to a search profile](../task/create-stop-word-dict-ais.md).
+Dictionaries are an optional part of your search profile that guide your searches with synonyms, stop words, and spell checking options. For more information on synonyms, see [Synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/synonyms-ais.md), [Create synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-synonym-ais.md), and [Create a synonym dictionary linked to a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-synonym-dict-ais.md). For more information on stop words, see [Stop words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/stop-words-ais.md), [Create stop words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-stop-word-ais.md), and [Create a stop word dictionary linked to a search profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-stop-word-dict-ais.md).
 
-![AI Search Admin console Dictionaries view.](../image/ais-admin-02e.png "Dictionaries view")
+![AI Search Admin console Dictionaries view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02e.png "Dictionaries view")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of Dictionaries.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of Dictionaries.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a Dictionary.|
 |Link|Button to select a Dictionary to add to the list.|
 |Unlink|Button to unlink a Dictionary from the list. Select one or more Dictionaries from the list before selecting **Unlink**.|
 
-Result improvement rules are an optional part of the search profile that boost, block, or improve search results based on various trigger conditions. For more information, see [Result improvement rules](../concept/result-improvement-rules-ais.md) and [Create a result improvement rule](../task/create-result-improve-rule-ais.md).
+Result improvement rules are an optional part of the search profile that boost, block, or improve search results based on various trigger conditions. For more information, see [Result improvement rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/result-improvement-rules-ais.md) and [Create a result improvement rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-result-improve-rule-ais.md).
 
-![AI Search Admin console Result Improvement rules view.](../image/ais-admin-02f.png "Result Improvement rules")
+![AI Search Admin console Result Improvement rules view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02f.png "Result Improvement rules")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of result improvement rules.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of result improvement rules.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a result improvement rule.|
 |Link|Button to select a result improvement rule to add to the list.|
 |Unlink|Button to unlink a Result improvement rule from the list. Select one or more result improvement rules from the list before selecting **Unlink**.|
-|Mirrored Result Improvement rules \(advanced\)|List of result improvement rules mirrored from another Search Profile. Use the search window to find one or more Result Improvement rule, and select **Save**. For more information, see [Share result improvement rules between search profiles](../task/mirror-result-improvement-rules.md).|
+|Mirrored Result Improvement rules \(advanced\)|List of result improvement rules mirrored from another Search Profile. Use the search window to find one or more Result Improvement rule, and select **Save**. For more information, see [Share result improvement rules between search profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/mirror-result-improvement-rules.md).|
 
-Genius Results are an optional part of your Search Profile that displays the best results for search queries. You can view Genius Results configuration in basic and advanced configuration. For more information, see [Genius Results](../concept/genius-results-ais.md) and [Create a Genius Result configuration](../task/create-genius-results-config-ais.md).
+Genius Results are an optional part of your Search Profile that displays the best results for search queries. You can view Genius Results configuration in basic and advanced configuration. For more information, see [Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/genius-results-ais.md) and [Create a Genius Result configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-genius-results-config-ais.md).
 
-![AI Search Admin Console Genius Results view in basic configuration.](../image/ais-admin-02g1.png)
+![AI Search Admin Console Genius Results view in basic configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02g1.png)
 
 <table id="table_a5g_scn_bcc"><thead><tr><th>
 
@@ -387,85 +387,85 @@ NLQ
 Toggle to use natural language processing to show information from tables, including non-indexed tables, that match a search query.
 
 </td></tr></tbody>
-</table>![AI Search Admin console Genius Results view in advanced configuration.](../image/ais-admin-02g2.png)
+</table>![AI Search Admin console Genius Results view in advanced configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02g2.png)
 
 |Field|Description|
 |-----|-----------|
 |Use basic configuration|Select to switch to basic configuration.|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of Genius Results.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of Genius Results.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a Genius Result.|
 |Link|Button to select a Genius Result to add to the list.|
 |Unlink|Button to unlink a Genius Result from the list. Select one or more Genius Results from the list before selecting **Unlink**.|
 
 ## Search Application Configuration
 
-The Search Application Configuration view is where you review how your Search Application is set up. You get a summary view from the Search Application Configuration tab, and you select each of the five subsections to review them in detail. For more information, see [Search application configurations](../concept/defining-search-app-cfgs-ais.md) and [Create a search application configuration for AI Search](../task/create-search-app-config-ais.md).
+The Search Application Configuration view is where you review how your Search Application is set up. You get a summary view from the Search Application Configuration tab, and you select each of the five subsections to review them in detail. For more information, see [Search application configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/defining-search-app-cfgs-ais.md) and [Create a search application configuration for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-search-app-config-ais.md).
 
-![AI Search Admin console Search Application summary view.](../image/ais-admin-02h.png "Search Application Configuration view")
+![AI Search Admin console Search Application summary view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02h.png "Search Application Configuration view")
 
 |Field|Description|
 |-----|-----------|
 |Rename|Button to rename your search profile.|
 |Use different configuration|Button to select a different Search application configuration.|
 
-Auto-complete Suggestions are an optional part of your search application configuration to display intelligent suggestions in your search application's input field. For more information, see [Auto-complete suggestions in AI Search applications](../concept/auto-complete-ais.md#).
+Auto-complete Suggestions are an optional part of your search application configuration to display intelligent suggestions in your search application's input field. For more information, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/auto-complete-ais.md#).
 
-![AI Search Admin console Auto-complete suggestions view.](../image/ais-admin-02i.png "Auto-complete suggestions")
+![AI Search Admin console Auto-complete suggestions view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02i.png "Auto-complete suggestions")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of auto-complete suggestions.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of auto-complete suggestions.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a auto-complete suggestion.|
 |Link|Button to select an auto-complete suggestion to add to the list.|
 |Unlink|Button to unlink a auto-complete suggestion from the list. Select one or more auto-complete suggestions from the list before selecting **Unlink**.|
 
-Navigation tabs are an optional part of your search application configuration that refine your search query results by search source. For more information, see [Configure source facet buckets in an AI Search application configuration](../task/config-nav-tabs-ais.md).
+Navigation tabs are an optional part of your search application configuration that refine your search query results by search source. For more information, see [Configure source facet buckets in an AI Search application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/config-nav-tabs-ais.md).
 
-![AI Search Admin console Navigation tabs view.](../image/ais-admin-02j.png "Navigation tabs")
-
-|Field|Description|
-|-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of Navigation tabs.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
-
-Sort options are an optional part of your search application configuration that refine your search query results by search source. For more information, see [Configure source facet buckets in an AI Search application configuration](../task/config-nav-tabs-ais.md).
-
-![AI Search Admin console Sort options view.](../image/ais-admin-02k.png "Sort Options")
+![AI Search Admin console Navigation tabs view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02j.png "Navigation tabs")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of Sort options.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of Navigation tabs.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+
+Sort options are an optional part of your search application configuration that refine your search query results by search source. For more information, see [Configure source facet buckets in an AI Search application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/config-nav-tabs-ais.md).
+
+![AI Search Admin console Sort options view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02k.png "Sort Options")
+
+|Field|Description|
+|-----|-----------|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of Sort options.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a Sort option.|
 |Delete|Button to delete Sort options. Select one or more Sort options before selecting **Delete**.|
 
-Facet filters are an optional part of your search application configuration that refine searches by dynamically generating categories from your search results. For more information, see [Create a facet in an AI Search application configuration](../task/create-facet-ais.md).
+Facet filters are an optional part of your search application configuration that refine searches by dynamically generating categories from your search results. For more information, see [Create a facet in an AI Search application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-facet-ais.md).
 
-![AI Search Admin console Facet Filters view.](../image/ais-admin-02l.png "Facet Filters")
+![AI Search Admin console Facet Filters view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02l.png "Facet Filters")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of Facet Filters.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of Facet Filters.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a Facet Filter.|
 |Delete|Button to delete Facet Filters. Select one or more Facet Filters before selecting **Delete**.|
 
 Result-card interfaces are an optional part of your search application configuration that provides a standardized display of search results in cards and lists. For more information, see [Exploring Entity View Action Mapper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/exploring-entity-view-action-mapper.md) and [Create an EVAM definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/entity-view-action-mapper-evam/define-composite-dataset.md).
 
-![AI Search Admin console Result-card interface view.](../image/ais-admin-02m.png "Result-card interfaces")
+![AI Search Admin console Result-card interface view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-02m.png "Result-card interfaces")
 
 |Field|Description|
 |-----|-----------|
-|Refresh list ![Refresh list icon.](../image/refresh-list-icon.png)|Button to refresh list of result-card interfaces.|
-|List Actions ![List actions icon.](../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
-|Show/Hide Filter panel ![Filter panel icon.](../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
+|Refresh list ![Refresh list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/refresh-list-icon.png)|Button to refresh list of result-card interfaces.|
+|List Actions ![List actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/list-actions-icon.png)|Button to open list actions. Select **Edit columns** to add or remove columns from the table. Select **Reset widths** if you have adjusted any column widths.|
+|Show/Hide Filter panel ![Filter panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/filter-panel-icon.png)|Button to open filter conditions panel. Select the clear input icon \(![Clear input icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/icon-clear-input.png)\) next to any defined conditions to remove them. Select **Restore defaults** to reset default filters, or **Advanced view** to define filter conditions. For more information, see [Set filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-conditions.md).|
 |New|Button to create a result-card interface.|
 |Link|Button to select a result-card interface to add to the list.|
 |Unlink|Button to unlink a result-card interface from the list. Select one or more Navigation tabs from the list before selecting **Unlink**.|

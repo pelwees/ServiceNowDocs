@@ -107,5 +107,5 @@ Process Mining is available by default. For details, see [Activating Process Min
     Task Mining enables process owners to collect and analyze workstation activities to understand how tasks are performed, identify inefficiencies, and make data-driven decisions.
 
 
-**Parent Topic:**[Platform Analytics release notes](../analytics-intelligence-reporting/analytics-intel-report-rn-landing.md)
+**Parent Topic:**[Platform Analytics release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../analytics-intelligence-reporting/analytics-intel-report-rn-landing.md)
 

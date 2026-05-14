@@ -29,7 +29,7 @@ You can view skills for all users grouped by assignment group and the overall sk
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Coaching \(![Coaching icon.](../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
+2.  Click the Coaching \(![Coaching icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/coaching-new.png)\) icon.
 
 3.  Click the **Skills** tab.
 
@@ -76,7 +76,7 @@ The skill gets automatically added to the agent.
     2.  In the **Details** tab, review the request for skill approval, the sample case resolutions that were used to predict the skill, and the activity stream.
     -   To approve a skill, click **Approve**. The skill is added to the agent and the lowest level for the skill is automatically associated with the added skill. The state for the request changes to **Approved** and the skill is added to the agent.
     -   To reject a skill, click **Reject**. The state for the request changes to **Rejected**. Predictive Intelligence does not recommend the skill for the user again and the field changes to **Add**.
-    -   Click the More Options \(![More options icon.](../../workforce-optimization-for-customer-service-configurable/image/ellipsis-new.png)\) icon and select **Save**.
+    -   Click the More Options \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/ellipsis-new.png)\) icon and select **Save**.
     The application assigns the skill to the user. If the assigned skill does not have a skill level, the application adds the basic skill level to the user.
 
 

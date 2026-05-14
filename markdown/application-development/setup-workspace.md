@@ -15,7 +15,7 @@ Using the ServiceNow Extensions for VS Code, create a project work folder to use
 
 ## Before you begin
 
-[Activate the workspace](activate-servicenow-ext.md) to access the functionalities of ServiceNow Extensions for VS Code. Role required: admin
+[Activate the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/activate-servicenow-ext.md) to access the functionalities of ServiceNow Extensions for VS Code. Role required: admin
 
 ## Procedure
 
@@ -23,7 +23,7 @@ Using the ServiceNow Extensions for VS Code, create a project work folder to use
 
     You can also use a keyboard shortcut, Control+Shift+P on Windows or Command+Shift+P on MacOS, to open the command palette and choose **Now: Setup Now Workspace** from the list.
 
-    ![Setup Now workspace command](../image/vscode-setupworkspacenow.png "Setup Now Workspace command")
+    ![Setup Now workspace command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-setupworkspacenow.png "Setup Now Workspace command")
 
 2.  Do any of the following actions.
 
@@ -62,7 +62,7 @@ Description
 
 ## What to do next
 
-[Create a project](create-project.md) in your workspace. You can create multiple projects of different project types within a workspace.
+[Create a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/create-project.md) in your workspace. You can create multiple projects of different project types within a workspace.
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vs-code.md)
 

@@ -98,5 +98,5 @@ True/False
 Determines whether the deal registration is applicable to all programs or not
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 

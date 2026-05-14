@@ -40,5 +40,5 @@ Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_
 
 The assets no longer appear on the **Assets** tab.
 
-**Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](create-pallet-asset-eam.md)
+**Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md)
 

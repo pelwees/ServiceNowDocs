@@ -34,22 +34,22 @@ Now Assist in Document Intelligence skills are turned on by default. The skills 
 
     -   The skill was previously turned on, and then turned off again.
     -   An admin has adjusted roles for the skill.
-    For more information, see [Now Assist skills, agents, and agentic workflows on by default](../../now-assist-skills/concept/now-assist-skills-on-by-default.md).
+    For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-skills/concept/now-assist-skills-on-by-default.md).
 
 
 Before activating a document intelligence skill in Now Assist, the following applications and their respective plugins must be installed.
 
 -   Now Assist
 
-    For more information, see [Install Now Assist plugins](../../now-assist-admin/task/install-now-assist-feature-plugins.md).
+    For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-admin/task/install-now-assist-feature-plugins.md).
 
 -   Document Intelligence
 
-    For more information, see [Install Document Intelligence](install-document-intelligence.md).
+    For more information, see [Install Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/install-document-intelligence.md).
 
 -   Now Assist in Document Intelligence
 
-    For more information, see [Install Now Assist plugins](../../now-assist-admin/task/install-now-assist-feature-plugins.md).
+    For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-admin/task/install-now-assist-feature-plugins.md).
 
 
 Role required: admin
@@ -68,13 +68,13 @@ This task doesn’t apply to the Multimodal chat skill. The multimodal chat skil
 
 3.  In thelist of Platform skills, select **Activate skill** for the document intelligenceskill that you want to activate.
 
-    For more information on document intelligence skills, see [Exploring Now Assist in Document Intelligence](../concept/docintel-exploring-now-assist.md).
+    For more information on document intelligence skills, see [Exploring Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/docintel-exploring-now-assist.md).
 
     The guided use case setup opens.
 
 4.  Create a use case.
 
-    1.  To create a new use case, follow the steps in [Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md).
+    1.  To create a new use case, follow the steps in [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
 
     2.  Select **Save and continue**.
 
@@ -84,7 +84,7 @@ This task doesn’t apply to the Multimodal chat skill. The multimodal chat skil
 
         An ACL enables you to restrict who is able to access and execute the skill to only users with the correct role.
 
-        1.  Select the **Edit** icon \(![Edit icon.](../image/icon-docintel-edit.png)\) for **Roles**.
+        1.  Select the **Edit** icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/icon-docintel-edit.png)\) for **Roles**.
         2.  Select an option.
 
 <table id="table_vbc_vcf_hhc"><thead><tr><th>
@@ -130,22 +130,22 @@ Select the roles that a user must have to execute the skill.
 
 The skill is active and available to the selected user roles.
 
-**Parent Topic:**[Configuring Now Assist in Document Intelligence](../concept/docintel-configuring-now-assist.md)
+**Parent Topic:**[Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/docintel-configuring-now-assist.md)
 
 **Related topics**  
 
 
-[Set up a use case for Now Assist in Document Intelligence](set-up-use-case-for-now-assist-document-intelligence.md)
+[Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md)
 
-[Turn on Full automation mode for a use case](turn-on-full-automation-for-document-extraction-na.md)
+[Turn on Full automation mode for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/turn-on-full-automation-for-document-extraction-na.md)
 
-[Change the language models for a use case](change-llm-for-use-case.md)
+[Change the language models for a use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/change-llm-for-use-case.md)
 
-[Edit a use case in Now Assist in Document Intelligence](edit-now-assist-document-intelligence-use-case.md)
+[Edit a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/edit-now-assist-document-intelligence-use-case.md)
 
-[Make a copy of a use case in Now Assist in Document Intelligence](make-copy-of-now-assist-document-intelligence-use-case.md)
+[Make a copy of a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/make-copy-of-now-assist-document-intelligence-use-case.md)
 
-[Deactivate a use case in Now Assist in Document Intelligence](deactivate-now-assist-document-intelligence-use-case.md)
+[Deactivate a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/deactivate-now-assist-document-intelligence-use-case.md)
 
-[Delete a use case in Now Assist in Document Intelligence](delete-now-assist-document-intelligence-use-case.md)
+[Delete a use case in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/delete-now-assist-document-intelligence-use-case.md)
 

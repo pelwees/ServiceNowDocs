@@ -48,9 +48,9 @@ The different UI Builder Component names for Trending topics dashboard are OOB T
 **Related topics**  
 
 
-[Add a new filter](add-a-new-filter.md)
+[Add a new filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/add-a-new-filter.md)
 
-[Change graph visualization](change-graph-visualization.md)
+[Change graph visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/change-graph-visualization.md)
 
-[Configure trending topics dashboard](configure-trending-topics-dashboard.md)
+[Configure trending topics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-trending-topics-dashboard.md)
 

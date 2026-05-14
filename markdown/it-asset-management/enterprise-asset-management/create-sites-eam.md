@@ -21,7 +21,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## About this task
 
-For detailed information on what sites are and how are they used in asset groups, see [Asset groups in Enterprise Asset Management](../concept/asset-groups-eam.md).
+For detailed information on what sites are and how are they used in asset groups, see [Asset groups in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/asset-groups-eam.md).
 
 ## Procedure
 

@@ -23,7 +23,7 @@ Role required: inventory\_admin
 
 **Note:**
 
-You can't add service locations to a stockroom that is excluded from providing location coverage. For more details, see [Exclude a stockroom from service locations](exclude-stockroom-from-service-locations.md).
+You can't add service locations to a stockroom that is excluded from providing location coverage. For more details, see [Exclude a stockroom from service locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exclude-stockroom-from-service-locations.md).
 
 ## Procedure
 
@@ -48,16 +48,16 @@ You can't add service locations to a stockroom that is excluded from providing l
 
 The selected locations are added to the list shown in the **Service locations** tab.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-your-stockrooms.md)
 
 **Related topics**  
 
 
-[Source requests from local stockrooms](../../procurement/task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../procurement/task/consume-local-asset-stock.md)
 
-[Request a loaner asset](loaner-asset-request.md)
+[Request a loaner asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/loaner-asset-request.md)
 
-[Create a transfer order from a request](../../procurement/task/t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../procurement/task/t_CreatingTransferOrderFromReq.md)
 
-[Asset life-cycle automation](../concept/asset-lifecycle-automation.md)
+[Asset life-cycle automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/asset-lifecycle-automation.md)
 

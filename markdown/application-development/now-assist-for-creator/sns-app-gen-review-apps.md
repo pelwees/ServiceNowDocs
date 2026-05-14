@@ -32,21 +32,21 @@ Role required: now\_assist\_panel\_user
 
 1.  Navigate to **App Engine** &gt; **ServiceNow Studio**.
 
-    To learn more about the ServiceNow Studio home page, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+    To learn more about the ServiceNow Studio home page, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 2.  Select the Now Assist icon.
 
-    ![Now Assist highlighted in banner.](../images/app-generation-task-initiation-xsr2.png)
+    ![Now Assist highlighted in banner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-task-initiation-xsr2.png)
 
 3.  In the Now Assist panel, select **Update an app**.
 
-    ![Now Assist panel with update an app button highlighted.](../images/app-generation-task-update-app.png)
+    ![Now Assist panel with update an app button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-task-update-app.png)
 
 4.  Select the app to edit.
 
     The apps available for editing in the Now Assist panel are custom applications you have created or to which you have access. If the application list is long, use the search box to find a specific application.
 
-    If you have the delegated\_developer or now\_assist\_panel\_user roles but do not see the app you need, contact your App Engine admin. Ask the admin to add you to the app as a delegated developer. For more information, see [Delegated development and deployment](../../applications/concept/c_DelegatedDevelopment.md).
+    If you have the delegated\_developer or now\_assist\_panel\_user roles but do not see the app you need, contact your App Engine admin. Ask the admin to add you to the app as a delegated developer. For more information, see [Delegated development and deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../applications/concept/c_DelegatedDevelopment.md).
 
     To edit an application with the app generation skill, your scope must match the app scope. If your scope does not match, the app generation skill changes your scope to the app scope automatically.
 
@@ -82,7 +82,7 @@ Role required: now\_assist\_panel\_user
 
         **Note:** If the Now Assist panel is covering information, select the Now Assist icon ![](../../app-engine-studio/image/now-assist-sparkle-icon-dark.png) to close the panel. Select the icon again to reopen the panel and continue the conversation.
 
-        ![ServiceNow Studio tab showing table details.](../images/app-generation-review-table-x2.png)
+        ![ServiceNow Studio tab showing table details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-table-x2.png)
 
     2.  Confirm that the table is accurate and captures the correct data.
 
@@ -100,7 +100,7 @@ Role required: now\_assist\_panel\_user
 
         The ACL record opens in a new tab.
 
-        ![ServiceNow Studio tab showing access control details.](../images/app-generation-review-acl-xsr2.png)
+        ![ServiceNow Studio tab showing access control details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-acl-xsr2.png)
 
     2.  Verify that the created ACL is accurate and requires the correct role or roles.
 
@@ -112,7 +112,7 @@ Role required: now\_assist\_panel\_user
 
         The role record opens in a new tab.
 
-        ![ServiceNow Studio tab showing role details.](../images/app-generation-review-role-xsr2.png)
+        ![ServiceNow Studio tab showing role details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-role-xsr2.png)
 
     2.  Verify that the created role and its assigned permissions accurately represent the users of your application.
 
@@ -136,13 +136,13 @@ Role required: now\_assist\_panel\_user
 
     1.  On the **Application Files** tab, in the **Display name** column, select the entry with a **Class** of **UX Application**.
 
-        ![Application Files tab with workspace UX application entry highlighted.](../images/app-generation-review-workspace1.png)
+        ![Application Files tab with workspace UX application entry highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-workspace1.png)
 
         The workspace opens in UI Builder in a new tab.
 
     2.  On the UI Builder tab, select **Home** to preview the workspace landing page.
 
-        ![UI Builder workspace experience page with home page highlighted.](../images/app-generation-review-workspace2.png)
+        ![UI Builder workspace experience page with home page highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-workspace2.png)
 
     3.  Review the workspace and, after confirming that you're in the correct application scope, modify the workspace if necessary.
 
@@ -150,7 +150,7 @@ Role required: now\_assist\_panel\_user
 
         To see the workspace from an end-user perspective, select **Preview**.
 
-        For more information about UI Builder, see [UI Builder](../../../administer/ui-builder/concept/ui-builder-overview.md).
+        For more information about UI Builder, see [UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../../administer/ui-builder/concept/ui-builder-overview.md).
 
     4.  Close the UI Builder tab.
 
@@ -158,11 +158,11 @@ Role required: now\_assist\_panel\_user
 
     1.  On the **Application Files** tab, in the **Display name** column, select the flow entry with a **Class** of **Flow**.
 
-        ![Application Files tab with flow entry highlighted.](../images/app-generation-review-flow1.png)
+        ![Application Files tab with flow entry highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-flow1.png)
 
         The flow opens in Workflow Studio in a new tab.
 
-        ![Workflow Studio tab with flow triggers and actions displayed.](../images/app-generation-review-flow2.png)
+        ![Workflow Studio tab with flow triggers and actions displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/app-generation-review-flow2.png)
 
     2.  Review the flow and modify it if necessary.
 
@@ -175,7 +175,7 @@ Role required: now\_assist\_panel\_user
 
 ## What to do next
 
-Continue opening, verifying, and modifying items in the application files list as needed. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Continue opening, verifying, and modifying items in the application files list as needed. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
-**Parent Topic:**[Generate apps in ServiceNow Studio](sns-app-gen-using-landing.md)
+**Parent Topic:**[Generate apps in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/sns-app-gen-using-landing.md)
 

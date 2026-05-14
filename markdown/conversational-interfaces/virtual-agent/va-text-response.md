@@ -20,7 +20,7 @@ Use the Text bot response control in a Virtual Agent topic to display a bot resp
 
 Use the Text response properties panel to design bot responses to the user.
 
-![Bot text response properties.](../images/bot-text-response.png)
+![Bot text response properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/bot-text-response.png)
 
 <table id="table_gzl_msz_hdb"><thead><tr><th>
 
@@ -52,15 +52,15 @@ The Text bot response to the user. The response can be one of the following:-   
 
 You can format the text messages using the text editor controls. For example, you can use the icons on the **Response Message** field to bold or italicize the text, as well as include links, bulleted lists, numbered lists, and emojis.
 
-![Text bot response message options: Open an incident in the Support Portal, or call for immediate assistance.](../images/rich-text-response-message-options.png)
+![Text bot response message options: Open an incident in the Support Portal, or call for immediate assistance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/rich-text-response-message-options.png)
 
 You can also include an input variable, such as a temporary password, in the response message.
 
-![Temporary password text response message.](../images/temp-password-text-bot.png)
+![Temporary password text response message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/temp-password-text-bot.png)
 
 To include a link, do one of the following:
 
--   Select the link icon: ![Link icon.](../images/link-icon.png).
+-   Select the link icon: ![Link icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/link-icon.png).
 -   Add your response message. Select the text to use as a link, and then select the link icon.
 
 Fill in the fields in the Confirmation window. Enter the text to use as the link, and then enter the URL in the Link field.
@@ -73,7 +73,7 @@ Add alternate message
 
 </td><td>
 
-Add one or more alternate response messages for the user. Virtual Agent randomly chooses one of your responses for each conversation.![Three defined alternate response messages: "User, sounds great," "Excellent choice," and "Let's proceed with Chosen Option, then."](../images/rich-text-response-multiple-message-options.png)
+Add one or more alternate response messages for the user. Virtual Agent randomly chooses one of your responses for each conversation.![Three defined alternate response messages: "User, sounds great," "Excellent choice," and "Let's proceed with Chosen Option, then."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/rich-text-response-multiple-message-options.png)
 
 </td></tr></tbody>
 </table><table id="table_vfq_y2s_z2c"><tbody><tr><td class="sub-head" colspan="2">
@@ -178,12 +178,12 @@ Text bot response output
 
 </th></tr></thead><tbody><tr><td>
 
-![Basic properties include the node name and a rich text response message area.](../images/va-rich-text-bot-properties.png "Text bot response control basic properties")
+![Basic properties include the node name and a rich text response message area.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-rich-text-bot-properties.png "Text bot response control basic properties")
 
 </td><td>
 
-![Text response with emojis that reads, "We could not find any assets currently assigned to you." A phone number, additional steps, and a link are included.](../images/rich-text-example-web-ui.png "Web UI Text bot response output")
+![Text response with emojis that reads, "We could not find any assets currently assigned to you." A phone number, additional steps, and a link are included.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/rich-text-example-web-ui.png "Web UI Text bot response output")
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer bot responses](va-bot-responses.md)
+</table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 

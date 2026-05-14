@@ -58,5 +58,5 @@ The recommendation policy is created successfully. The policy has the Filtering 
 
 ## What to do next
 
-You can customize optional filter constraints and ranking criteria. For more information, see [Create a filter constraint or a ranking criteria for a task recommendation policy](create-filtering-constraint.md).
+You can customize optional filter constraints and ranking criteria. For more information, see [Create a filter constraint or a ranking criteria for a task recommendation policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-filtering-constraint.md).
 

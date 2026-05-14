@@ -17,15 +17,15 @@ On the **Processing** tab of the card disputes playbook, all disputed transactio
 
 After a dispute case is submitted, the system generates a playbook for each disputed transaction. Each transaction dispute playbook contains the **Investigate** and **Chargeback** stages. As the dispute proceeds, the appropriate stage is updated respectively. To open a transaction level playbook, select the Transaction ID.
 
--   **[Investigate stage](investigate-stage.md)**  
+-   **[Investigate stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-stage.md)**  
 The **Investigate** stage of the card dispute playbook, perform tasks such as issuing provisional credit, reviewing participating merchant alerts, and investigating the transaction.
--   **[Chargeback stage](chargeback-stage.md)**  
+-   **[Chargeback stage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage.md)**  
 This stage enables you to report fraud, initiate chargeback, associate dispute transactions, and review merchant representment evidence, create and review pre-arbitration, and case filing. Visa transactions comprises of two workflows for pre-arbitration and arbitration: collaboration workflow and allocation workflow.
 
-**Parent Topic:**[Managing disputes integrated with Visa](work-on-a-dispute-case-integrated-with-visa.md)
+**Parent Topic:**[Managing disputes integrated with Visa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-on-a-dispute-case-integrated-with-visa.md)
 
 **Related topics**  
 
 
-[Summarize a dispute or claims case with case summarization](../../fso-common/task/summarize-case-using-now-assist-fso.md)
+[Summarize a dispute or claims case with case summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-common/task/summarize-case-using-now-assist-fso.md)
 

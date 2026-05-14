@@ -23,23 +23,23 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Enterprise Architecture Workspace Dashboard page by selecting the application dashboard icon \(![Application dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-icon.png)\).
+2.  Open the Enterprise Architecture Workspace Dashboard page by selecting the application dashboard icon \(![Application dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-dashboard-icon.png)\).
 
-3.  Open the Application Assessments dashboard page after selecting the change dashboard icon \(![Change dashboard icon.](../../../product/application-portfolio-management/image/eaw-image/change-dashboard-icon.png)\) and then select **Application Assessments**.
+3.  Open the Application Assessments dashboard page after selecting the change dashboard icon \(![Change dashboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/change-dashboard-icon.png)\) and then select **Application Assessments**.
 
-    ![Enterprise Architecture Dashboard page with the change dashboard icon highlighted.](../../../product/application-portfolio-management/image/eaw-image/eaw-change-dashboard-icon.png)
+    ![Enterprise Architecture Dashboard page with the change dashboard icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-change-dashboard-icon.png)
 
 4.  Filter the data in the spline charts by selecting options from the **Application category**, **Business process**, and **Business unit** lists.
 
     **Note:** By default, scores for all applications are displayed in the widgets. You can select an application name to hide their score.
 
 
-**Parent Topic:**[Working with Dashboards](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
+**Parent Topic:**[Working with Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-dashboards.md)
 
 **Related topics**  
 
 
-[Explore the Application Assessments dashboard](../concept/eaw-working-with-the-applications-assessment-dashboard.md)
+[Explore the Application Assessments dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/eaw-working-with-the-applications-assessment-dashboard.md)
 
-[Monitor performance in Application 360 dashboard](eaw-monitor-performance-in-application-360-dashboard.md)
+[Monitor performance in Application 360 dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-monitor-performance-in-application-360-dashboard.md)
 

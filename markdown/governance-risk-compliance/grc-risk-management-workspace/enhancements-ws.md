@@ -21,7 +21,7 @@ The new workspace offers the following views for the users.
 
 -   **List view**
 
-    The list view shows a simplified list of all the modules. You can access the list view by clicking the List icon \(![List view icon.](../image/list-icon-risk-workspace.png)\).
+    The list view shows a simplified list of all the modules. You can access the list view by clicking the List icon \(![List view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-risk-workspace.png)\).
 
 -   **Record view**
 
@@ -36,24 +36,24 @@ The new workspace offers the following views for the users.
 
 -   **Contextual side panel for records**
 
-    The Contextual side panel of a record provides detailed related information for the records. For example, for a risk, you can see the parent and child hierarchy. You can display and close the Contextual side panel by clicking the reference icon \(![Contextual side panel icon.](../image/information-icon-latest.png)\).
+    The Contextual side panel of a record provides detailed related information for the records. For example, for a risk, you can see the parent and child hierarchy. You can display and close the Contextual side panel by clicking the reference icon \(![Contextual side panel icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/information-icon-latest.png)\).
 
 -   **Tasks**
 
-    Tasks is a centralized task inbox that shows your tasks and your group's tasks. You can access your tasks by clicking the Tasks icon \(![Tasks icon.](../../assessment-engine/image/task-icon.png) \).
+    Tasks is a centralized task inbox that shows your tasks and your group's tasks. You can access your tasks by clicking the Tasks icon \(![Tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../assessment-engine/image/task-icon.png) \).
 
 -   **360° relationship view**
 
-    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and entity types. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+    The 360º view feature enables you to view the relationships between a selected record and related objects, such as controls, risks, and entity types. The 360º view also enables you to interact with all records displayed. For more information, refer to [360° Relationship Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
 
 -   **Breadcrumb navigation**
 
-    The breadcrumb style navigation provides a browser path to navigate a hierarchy of linked pages with related content. The breadcrumb style navigation provides a digital trail from the user's starting point to the current content, with the ability to navigate to each link.​ For more information, refer to [Breadcrumb navigation](../../grc-common/concept/breadcrumb-navigation.md)
+    The breadcrumb style navigation provides a browser path to navigate a hierarchy of linked pages with related content. The breadcrumb style navigation provides a digital trail from the user's starting point to the current content, with the ability to navigate to each link.​ For more information, refer to [Breadcrumb navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/concept/breadcrumb-navigation.md)
 
 -   **Consolidated issues page**
 
-    The comprehensive issue management page shows you a detailed status of your issues. For example, you can see overdue issues, issues approaching the overdue date, issues by priority and so on. You can also see the issues assigned to you and your group. This feature makes issue tracking easy. You can access your issues by clicking the Issue landing page icon \(![Issue landing page icon.](../image/issue-landing-page.jpg) \). For more information, refer to [Issue management in the Risk Workspace](issues-in-ws.md).
+    The comprehensive issue management page shows you a detailed status of your issues. For example, you can see overdue issues, issues approaching the overdue date, issues by priority and so on. You can also see the issues assigned to you and your group. This feature makes issue tracking easy. You can access your issues by clicking the Issue landing page icon \(![Issue landing page icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/issue-landing-page.jpg) \). For more information, refer to [Issue management in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/issues-in-ws.md).
 
 
-**Parent Topic:**[GRC Risk Workspace](risk-workspace.md)
+**Parent Topic:**[GRC Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md)
 

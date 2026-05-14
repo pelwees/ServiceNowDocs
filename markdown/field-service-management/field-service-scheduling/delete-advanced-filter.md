@@ -29,7 +29,7 @@ Role required: wm\_dispatcher
 
 4.  Select the filter that you want to delete.
 
-5.  Select the ellipses icon ![three dot ellipses](../image/three_dot_square.png).
+5.  Select the ellipses icon ![three dot ellipses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/three_dot_square.png).
 
 6.  Select **Delete**.
 

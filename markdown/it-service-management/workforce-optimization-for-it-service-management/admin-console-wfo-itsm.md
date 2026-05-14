@@ -17,7 +17,7 @@ Use a guided approach to simplify the setup and configuration of groups within W
 
 Starting with the Australia release, Admin Console in Workforce Optimization for ITSM is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Configure access to each application within Workforce Optimization for ITSM tailored to your organizational needs. The foundation on which Workforce Optimization for ITSM operates is to organize all teams into assignment groups. For more information, see [Configuring groups in Workforce Optimization for ITSM](configuring-groups-wfo-itsm.md).
+Configure access to each application within Workforce Optimization for ITSM tailored to your organizational needs. The foundation on which Workforce Optimization for ITSM operates is to organize all teams into assignment groups. For more information, see [Configuring groups in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configuring-groups-wfo-itsm.md).
 
 The Admin Console walks the admins through a step-by-step process of configuring Workforce Optimization for ITSM.
 
@@ -39,10 +39,10 @@ Using the Admin Console, admins can:
     Provide agents and managers access for each application within Workforce Optimization for ITSM.
 
 
--   **[Define groups as WFO assignment groups in the Admin Console in Workforce Optimization for ITSM](../task/manage-assignment-groups-admin-console-wfo-itsm.md)**  
+-   **[Define groups as WFO assignment groups in the Admin Console in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/manage-assignment-groups-admin-console-wfo-itsm.md)**  
 Identify existing groups relevant to WFO and add them to the Admin Console so that you can configure them easily based on your organization's needs.
--   **[Define access to each application in the Admin Console in Workforce Optimization for ITSM](../task/define-application-access-admin-console-wfo-itsm.md)**  
+-   **[Define access to each application in the Admin Console in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../task/define-application-access-admin-console-wfo-itsm.md)**  
 Configure assignment group access to each application in Workforce Optimization for ITSM based on your organizational needs.
 
-**Parent Topic:**[Getting started with Workforce Optimization for ITSM](getting-started-workforce-optimization-itsm.md)
+**Parent Topic:**[Getting started with Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/getting-started-workforce-optimization-itsm.md)
 

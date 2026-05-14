@@ -40,7 +40,7 @@ When you add a technology management service to SRM, you also add its offerings.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
-2.  Select the Services icon ![Services page icon](../image/icon-sr-services.png) and then select **Add**.
+2.  Select the Services icon ![Services page icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-services.png) and then select **Add**.
 
 3.  In the Add services for your teams modal, you can either create a service or add existing services.
 
@@ -59,7 +59,7 @@ Steps
 </td><td>
 
 1.  Select **Create a new service**.
-2.  Fill in the fields. For field descriptions, see [Add service form](../reference/sr-add-service-form.md).
+2.  Fill in the fields. For field descriptions, see [Add service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/sr-add-service-form.md).
 3.  Select **Next**.
 
 
@@ -82,7 +82,7 @@ Steps
     |Option|Steps|
     |------|-----|
     |**Select an existing team**|Enter your team's name in the search box.|
-    |**Create a team**|Select **Create a team**. For more information about creating teams, see [Add an SRM team](sr-create-team.md).|
+    |**Create a team**|Select **Create a team**. For more information about creating teams, see [Add an SRM team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-team.md).|
 
 5.  Select **Add service**.
 
@@ -93,9 +93,9 @@ Steps
 
 ## What to do next
 
-Ifan offering doesn't have a support group, assign it to a support group before setting up SLOs. For how to assign support groups, see [Edit service details in SRM](sr-edit-service.md).
+Ifan offering doesn't have a support group, assign it to a support group before setting up SLOs. For how to assign support groups, see [Edit service details in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-edit-service.md).
 
 You can also add integrations to your service to start monitoring its health.
 
-**Parent Topic:**[Working with SRM services](../concept/sr-work-services.md)
+**Parent Topic:**[Working with SRM services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-work-services.md)
 

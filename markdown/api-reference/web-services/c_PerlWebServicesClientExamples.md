@@ -244,5 +244,5 @@ sub print_fault {my($result)=@_;
   if($result->fault){print"faultcode=".$result->fault->{'faultcode'}."\n";print"faultstring=".$result->fault->{'faultstring'}."\n";print"detail=".$result->fault->{'detail'}."\n";}}
 ```
 
-**Parent Topic:**[Inbound web service examples](c_InboundWebServiceExamples.md)
+**Parent Topic:**[Inbound web service examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_InboundWebServiceExamples.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_dpm.dpm\_admin
 
 Configurable Needs attention panels and its attributes table were introduced in the Utah Store release, November 2023. The following are general guidelines but for more Admin configuration steps, see [KB1519343](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1519343).
 
-Default thresholds apply to the DPM Workspace homepage. Solutions use the default attributes and thresholds from the attributes table until users decide to personalize their DPM Workspace homepage experience. See [Personalize the Digital Portfolio Management Workspace home page](dpm-personalize-homepage.md).
+Default thresholds apply to the DPM Workspace homepage. Solutions use the default attributes and thresholds from the attributes table until users decide to personalize their DPM Workspace homepage experience. See [Personalize the Digital Portfolio Management Workspace home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-personalize-homepage.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Default thresholds apply to the DPM Workspace homepage. Solutions use the defaul
 
     **Note:** To see Critical problems in the Needs attention panel, you must be using the DPM August 2024 release or a later release.
 
-2.  Use the Personalize List icon \(![Personalize List icon.](../../../common/image/gear.png)\) to add the following column fields to the table.
+2.  Use the Personalize List icon \(![Personalize List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../../../common/image/gear.png)\) to add the following column fields to the table.
 
     -   Name
     -   Description
@@ -90,10 +90,10 @@ Change the number from the default threshold to the threshold that you want to s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Configuring Digital Portfolio Management](../concept/dpm-configure-cfw.md)
+**Parent Topic:**[Configuring Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-configure-cfw.md)
 
 **Related topics**  
 
 
-[Work with Needs attention panels in Digital Portfolio Management](../concept/dpm-needs-attn-panels.md)
+[Work with Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-needs-attn-panels.md)
 

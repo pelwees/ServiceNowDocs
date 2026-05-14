@@ -66,5 +66,5 @@ ETL
 Common term that is used for taking data from a source system, transforming it, and then uploading it to a target system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Industrial Process Manager](exploring-manufacturing-process-mgr.md)
+</table>**Parent Topic:**[Exploring Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/exploring-manufacturing-process-mgr.md)
 

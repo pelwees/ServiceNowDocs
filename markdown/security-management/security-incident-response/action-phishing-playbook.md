@@ -21,21 +21,21 @@ This page describes the Action Designer page for the Get Observables from Task s
 
 This section shows details on how the action was created including the incident id, the type of observable \(hash or IP\) and observable finding \(malicious emails only\).
 
-![Automated phishing playbook flow: action designer inputs](../image/cj-sir-flow-phishing-action5-1.png)
+![Automated phishing playbook flow: action designer inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-flow-phishing-action5-1.png)
 
 ## Get M2M Records
 
 This section shows the conditions that have been defined to search for observables in a specified table.
 
-![Automated phishing playbook flow: action designer get records](../image/cj-sir-flow-phishing-action5-2.png)
+![Automated phishing playbook flow: action designer get records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-flow-phishing-action5-2.png)
 
 ## Get Observables
 
 This section shows the script used to retrieve observables based on the specified filter conditions. Finally, the observables meeting this criteria and the count is displayed.
 
-![Automated phishing playbook flow: action designer get observables](../image/cj-sir-flow-phishing-action5-3.png)
+![Automated phishing playbook flow: action designer get observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/cj-sir-flow-phishing-action5-3.png)
 
 **Note:** All actions defined in this flow are reusable and can be modified according to your requirements.
 
-**Parent Topic:**[Run the automated phishing response playbook flow](../task/run-phishing-playbook.md)
+**Parent Topic:**[Run the automated phishing response playbook flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/run-phishing-playbook.md)
 

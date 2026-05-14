@@ -20,7 +20,7 @@ As an enterprise architect, use the interactive filters to generate different gr
 |Enterprise Architecture Analyst- Create, configure, and share dashboards|sn\_apm.apm\_analyst|
 |Enterprise Architecture User- View dashboard|sn\_apm.apm\_user|
 
-![The Enterprise Architecture Dashboard page displaying the multiple tabs and their respective widgets.](../../../product/application-portfolio-management/image/eaw-image/eaw-tabbed-dashboard-washington.gif "Enterprise Architecture Dashboard page")
+![The Enterprise Architecture Dashboard page displaying the multiple tabs and their respective widgets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/eaw-image/eaw-tabbed-dashboard-washington.gif "Enterprise Architecture Dashboard page")
 
 ## Data visualizations
 
@@ -48,7 +48,7 @@ Business applications by platform
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Business application by install type
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Business application by application family
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Business application by user base
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Business applications by technology stack
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Business applications by application category
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Business application by lifecycle stage
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -132,7 +132,7 @@ Business application by lifecycle stage status
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Digital interfaces by business applications
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Business capabilities with low scores
 
 </td><td>
 
-Bar graph ![Column chart.](../../reporting/image/inline-data-vis-bar-column.png)
+Bar graph ![Column chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-column.png)
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ TRM products by TRM phase
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Approved software counts by TRM category
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -192,7 +192,7 @@ Top 10 business applications with highest TRM technical debt
 
 </td><td>
 
-Bar graph ![Column chart.](../../reporting/image/inline-data-vis-bar-column.png)
+Bar graph ![Column chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-column.png)
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ Top 10 business applications with normalized TPM risk
 
 </td><td>
 
-Column chart ![Column chart.](../../reporting/image/inline-data-vis-bar-column.png)
+Column chart ![Column chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-column.png)
 
 </td></tr><tr><td>
 
@@ -216,7 +216,7 @@ Business applications by data classification
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
@@ -228,11 +228,11 @@ Information objects by data domain
 
 </td><td>
 
-Pie chart ![Pie chart.](../../reporting/image/inline-data-vis-pie.png)
+Pie chart ![Pie chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-pie.png)
 
 </td></tr><tr><td>
 
-Portfolio TCO**Note:** For information on TCO, see [Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-manage-application-tco.md) and [Working with application Total Cost of Ownership \(TCO\)](../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-tco.md).
+Portfolio TCO**Note:** For information on TCO, see [Exploring total cost of ownership \(TCO\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-manage-application-tco.md) and [Working with application Total Cost of Ownership \(TCO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-work-with-tco.md).
 
 </td><td>
 
@@ -240,7 +240,7 @@ Business application TCO for FY:Q \(Current quarter\)
 
 </td><td>
 
-Summary ![Summary.](../../reporting/image/inline-data-vis-single-score.png)
+Summary ![Summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-single-score.png)
 
 </td></tr><tr><td>
 
@@ -252,7 +252,7 @@ Business application TCO for FY:Q \(Previous quarter\)
 
 </td><td>
 
-Summary ![Summary.](../../reporting/image/inline-data-vis-single-score.png)
+Summary ![Summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-single-score.png)
 
 </td></tr><tr><td>
 
@@ -264,7 +264,7 @@ Business application TCO trend for year
 
 </td><td>
 
-Line graph ![Line graph.](../../reporting/image/inline-data-vis-line.png)
+Line graph ![Line graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-line.png)
 
 </td></tr><tr><td>
 
@@ -276,7 +276,7 @@ Business application TCO by application category
 
 </td><td>
 
-Column chart ![Column chart.](../../reporting/image/inline-data-vis-bar-column.png)
+Column chart ![Column chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-column.png)
 
 </td></tr><tr><td>
 
@@ -288,7 +288,7 @@ Business application TCO by application planned disposition for FY:Q \(Current q
 
 </td><td>
 
-Horizontal bar graph ![Horizontal bar graph.](../../reporting/image/inline-data-vis-bar-horizontal.png)
+Horizontal bar graph ![Horizontal bar graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-horizontal.png)
 
 </td></tr><tr><td>
 
@@ -300,7 +300,7 @@ Business applications by TCO score
 
 </td><td>
 
-Column chart ![Column chart.](../../reporting/image/inline-data-vis-bar-column.png)The X-axis denotes the TCO scores while the Y-axis denotes the number of business applications.
+Column chart ![Column chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-bar-column.png)The X-axis denotes the TCO scores while the Y-axis denotes the number of business applications.
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Business application TCO by cost type and planned disposition for FY:Q \(Current
 
 </td><td>
 
-Heat map![Heat map.](../../reporting/image/inline-data-vis-heatmap.png)
+Heat map![Heat map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-heatmap.png)
 
 </td></tr><tr><td>
 
@@ -324,7 +324,7 @@ Top 10 business applications with the highest cost for FY:Q \(Current quarter\)
 
 </td><td>
 
-List![List.](../../reporting/image/inline-data-vis-list.png)
+List![List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reporting/image/inline-data-vis-list.png)
 
 </td></tr></tbody>
 </table>**Note:**
@@ -337,7 +337,7 @@ If both the Technology Portfolio Management \(sn\_apm\_tpm\) and Enterprise Arch
 
     The currency type is determined based on the geographical location from where you’ve logged in. For example, if the system detects that you’ve logged in to the EA workspace from the USA, the default currency displayed will be USD.
 
--   The duration of a fiscal period displayed on the widgets is determined from the **com.glide.fiscal\_calendar.fiscal.unit** property. To set the fiscal period duration, see [Set the duration of a fiscal period property for TCO dashboards](../../../product/application-portfolio-management/task/eaw-task/eaw-set-property-tco-dashboards.md).
+-   The duration of a fiscal period displayed on the widgets is determined from the **com.glide.fiscal\_calendar.fiscal.unit** property. To set the fiscal period duration, see [Set the duration of a fiscal period property for TCO dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/task/eaw-task/eaw-set-property-tco-dashboards.md).
 
 You can hover over or select the visualizations to see more data.
 
@@ -351,14 +351,14 @@ Use the following filters to narrow down the results in the dashboard page:
 -   IT Application Owner
 -   Capability Owner
 
-You can manually refresh the dashboard by using the refresh icon \(![Refresh icon.](../../../product/application-portfolio-management/image/icon-refresh.png)\).
+You can manually refresh the dashboard by using the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/image/icon-refresh.png)\).
 
-**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
+**Parent Topic:**[Exploring dashboards in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/application-portfolio-management/concept/eaw-concept/eaw-exploring-dashboards-in-ea-workspace.md)
 
 **Related topics**  
 
 
-[Configure AI Data Explorer and Query Generation skills](../../../product/now-assist-ea/task/configure-ai-data-explr-qry-genr-skills.md)
+[Configure AI Data Explorer and Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/now-assist-ea/task/configure-ai-data-explr-qry-genr-skills.md)
 
-[Generate insights for Enterprise Architecture Workspace dashboard widgets](../../../product/now-assist-ea/task/generate-insights-ea-dashboard.md)
+[Generate insights for Enterprise Architecture Workspace dashboard widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../product/now-assist-ea/task/generate-insights-ea-dashboard.md)
 

@@ -29,11 +29,11 @@ The **Compose SMS** option is only enabled for active chat interactions. For mor
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
-2.  Select the ![List icon](../reference/images/IconList.png) HR case list icon and navigate to **Interactions** &gt; **Assigned to me**.
+2.  Select the ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/IconList.png) HR case list icon and navigate to **Interactions** &gt; **Assigned to me**.
 
 3.  Select an active chat interaction for which you would like to respond to the recipient via an SMS message.
 
-4.  In the chat interaction modal, click the ![more options menu item](../../../common/image/icon-ellipses.png) more options icon and select **Compose SMS** to initiate an SMS conversation with the recipient.
+4.  In the chat interaction modal, click the ![more options menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../common/image/icon-ellipses.png) more options icon and select **Compose SMS** to initiate an SMS conversation with the recipient.
 
     The **Send via SMS** modal launches with **Send from** and **Send to** fields.
 
@@ -51,7 +51,7 @@ The **Compose SMS** option is only enabled for active chat interactions. For mor
 
 6.  Compose the SMS message, add an attachment if necessary, and send to the employee.
 
-    You can also select the ![HR Agent Workspace - Quick action icon](../reference/images/quick-action-icon.png) quick action icon, or enter a back slash \(/\) in the chat area, to use quick actions for SMS messaging. See [Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-exploring.md) for more information.
+    You can also select the ![HR Agent Workspace - Quick action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/quick-action-icon.png) quick action icon, or enter a back slash \(/\) in the chat area, to use quick actions for SMS messaging. See [Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-exploring.md) for more information.
 
     You will receive a confirmation when the SMS message is sent. Click the confirmation to view the interaction details,if desired.
 

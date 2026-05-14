@@ -21,7 +21,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If you have not installed the IBM QRadar application from the ServiceNow Store for the integration, see [Install a Security Operations integration](../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the IBM QRadar application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the IBM QRadar tile.
 
@@ -116,7 +116,7 @@ Default is disabled. If this option is enabled, you must specify a MID Applicati
 Specify a MID Server Application that is set up in your environment. If you do not have a Mid Server Application configured,you must create a new MID Server application for this integration. **Note:** The MID Server Application can be configured only by users with system administrator role.
 
 </td></tr></tbody>
-</table>    ![Minimum User Roles](../image/ibm-qradar-min-roles.png "Minimum User Roles")
+</table>    ![Minimum User Roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-min-roles.png "Minimum User Roles")
 
     To create a new MID Server Application, follow these steps:
 
@@ -124,12 +124,12 @@ Specify a MID Server Application that is set up in your environment. If you do n
     -   Enter a name for the MID Server Application and select a MID Server to be used as the default.
     -   Deselect the Included in application ALL check box and click **Save**.
 
-        ![IBM QRadar: Configure MID server](../image/ibm-qradar-config-midserver.png)
+        ![IBM QRadar: Configure MID server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-config-midserver.png)
 
     -   Click **Edit**. In the **Edit Members** page, select all available MID Servers, move them to the MID Servers List, and click **Save**. Depending on the availability, one of the MID Servers configured with the MID Server Application will be used.
 6.  Enter the configuration details and specify the MID Server Application you have created.
 
-    ![IBM QRadar: configuration tile](../image/ibm-qradar-config-tile.png)
+    ![IBM QRadar: configuration tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-config-tile.png)
 
     The source that you configure on the **IBM QRadar Offense Ingestion Configuration** form can be reused for multiple ServiceNow AI Platform profiles as long as each profile ingests offenses.
 

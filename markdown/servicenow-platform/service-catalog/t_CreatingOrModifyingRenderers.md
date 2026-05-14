@@ -81,7 +81,7 @@ Render title
 Appears for category renderers. A check box to display the category title bar on the catalog homepage.**Note:** The **admin** and **catalog\_admin** roles can view the **Render title** even when the check box is not selected.
 
 </td></tr></tbody>
-</table>    ![Screenshot for catalog renderers](../image/ServiceCatalogRenderers.png "Service Catalog Renderers")
+</table>    ![Screenshot for catalog renderers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogRenderers.png "Service Catalog Renderers")
 
 6.  Click **Submit**.
 
@@ -90,7 +90,7 @@ Appears for category renderers. A check box to display the category title bar on
     This new renderer is added to the list of available choices when applying a renderer.
 
 
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ManagingTheHomepageForACatalog.md)
 
 ## Select a renderer for a catalog
 

@@ -184,5 +184,5 @@ Can create, read, write, and delete room records.
 none
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installed with Facilities Service Management](r_InstallWFacServMgmnt.md)
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 

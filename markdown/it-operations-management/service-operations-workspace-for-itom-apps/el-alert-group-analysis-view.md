@@ -18,8 +18,8 @@ View an alert group analysis created by Now Assist using generative AI. The anal
 
 ## Before you begin
 
--   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](../../now-assist-setup-itom/task/install-now-assist-itom.md).
--   View important information about the Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](../../now-assist-itom/concept/now-assist-itom.md).
+-   Install the ITOM plugin in the Now Assist feature. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../now-assist-setup-itom/task/install-now-assist-itom.md).
+-   View important information about the Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../now-assist-itom/concept/now-assist-itom.md).
 
 **Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
@@ -29,9 +29,9 @@ Role required: evt\_mgmt\_operator
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the navigation bar, select the Express List icon \(![Express List icon.](../../event-management/image/express-list1.png)\).
+2.  In the navigation bar, select the Express List icon \(![Express List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list1.png)\).
 
-3.  In the Active alerts list, select the information icon \(![Information icon.](../../event-management/image/info.png)\) next to an alert group to display the preview panel.
+3.  In the Active alerts list, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/info.png)\) next to an alert group to display the preview panel.
 
 4.  On the preview panel **Info** tab, select **Analyze** in Alert analysis by Now Assist.
 
@@ -49,7 +49,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Copy to clipboard icon.](../image/icon-copy-to-clipboard.png)
+![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-copy-to-clipboard.png)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Copy the content of the alert analysis to the clipboard.
 
 </td></tr><tr><td>
 
-![Refresh icon.](../image/icon-refresh-alert-summary.png)
+![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-refresh-alert-summary.png)
 
 </td><td>
 
@@ -65,10 +65,10 @@ Refresh the alert analysis.**Note:** Refreshing regenerates the results. Past re
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/el-alert-group-analysis.md)
 
 **Related topics**  
 
 
-[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+[Viewing an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/el-alert-group-analysis.md)
 

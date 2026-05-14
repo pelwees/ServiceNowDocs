@@ -66,11 +66,11 @@ To allow the connector to access your monday.com source system via the monday.co
 Provide the following items to your connector admin:
 
 -   The URL for the monday.com API endpoint. This is typically `https://api.monday.com/v2`. To find the current API endpoint URL, see [https://developer.monday.com/api-reference/docs/introduction-to-graphql](https://developer.monday.com/api-reference/docs/introduction-to-graphql).
--   The API token that you copied in step [2.c](configure-monday-com-external-content-indexing.md#copy-admin-api-token-step) or step [3.e](configure-monday-com-external-content-indexing.md#copy-api-access-api-token-step).
+-   The API token that you copied in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-monday-com-external-content-indexing.md#copy-admin-api-token-step) or step [3.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-monday-com-external-content-indexing.md#copy-api-access-api-token-step).
 
 Your connector admin needs these items to configure a monday.com external content connector to retrieve searchable content and metadata from workspaces, boards, board items, workdocs, and security principals found in your monday.com source system.
 
-For details on creating and configuring a monday.com external content connector, see [Create a monday.com external content connector](create-ext-cont-connector-monday-com.md).
+For details on creating and configuring a monday.com external content connector, see [Create a monday.com external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-monday-com.md).
 
-**Parent Topic:**[monday.com external content connector](../concept/monday-com-external-content-connector.md)
+**Parent Topic:**[monday.com external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/monday-com-external-content-connector.md)
 

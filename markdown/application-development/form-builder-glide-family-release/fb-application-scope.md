@@ -21,5 +21,5 @@ Changing the scope in Table Builder also changes the scope in the ServiceNow AI 
 
 When you are creating a form, you must be aware of the scope that you are working in. Choose the correct application scope for a table, form, or policy. The **Select scope** list is near the **Select Domain** list. The scope defaults to the scope that the user is in within the ServiceNow AI Platform®. If your users change to a different scope while in a page, they are notified that they are in a different application scope from the one that the form was created in.
 
-**Parent Topic:**[Exploring Table Builder](exploring-fb.md)
+**Parent Topic:**[Exploring Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/exploring-fb.md)
 

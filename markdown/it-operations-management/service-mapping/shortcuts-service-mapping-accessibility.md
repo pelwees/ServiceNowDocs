@@ -27,5 +27,5 @@ When the whole map is selected, the information message at the top of the window
 |In the timeline, you can edit the time inside the current time selection.|Number \(1-9\)|
 |Move through UI elements in the service instance map window.|Tab|
 
-**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 

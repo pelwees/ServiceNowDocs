@@ -25,16 +25,16 @@ When a subscription renews, a new product SKU might be added to your account. Th
 
 1.  Before the renewal date, monitor the subscription end dates and document the current list of custom application and custom table mappings.
 
-    See [Viewing product subscription details in Subscription Management](../concept/subscription-details-v2.md).
+    See [Viewing product subscription details in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/subscription-details-v2.md).
 
 2.  After the renewal date, map the documented tables and applications to the renewed subscription in Subscription Management.
 
-    See [Map a custom application to a product subscription in Subscription Management](map-custom-applications-v2.md) and [Map custom tables to a product subscription in Subscription Management](allocate-custom-table-subsc-app-v2.md).
+    See [Map a custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/map-custom-applications-v2.md) and [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md).
 
 
 ## What to do next
 
 Continue to monitor subscription renewal dates to ensure that your mappings are accurate throughout each renewal.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/allocating-custom-tables-subscr-apps-v2.md)
 

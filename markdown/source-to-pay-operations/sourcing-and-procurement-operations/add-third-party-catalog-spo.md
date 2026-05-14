@@ -36,7 +36,7 @@ An Excel template is created with the required columns for adding the third-part
 
 ## What to do next
 
-After adding the required data to the Excel file, upload it to store the data in the Third-party Catalog \(sn\_spend\_intg\_third\_party\_catalog\) table. For more information, see [Configure punchout for third-party site purchases](configure-supplier-punchout.md).
+After adding the required data to the Excel file, upload it to store the data in the Third-party Catalog \(sn\_spend\_intg\_third\_party\_catalog\) table. For more information, see [Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-supplier-punchout.md).
 
-**Parent Topic:**[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
+**Parent Topic:**[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-supplier-punchout.md)
 

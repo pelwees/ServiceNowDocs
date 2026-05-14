@@ -44,5 +44,5 @@ A theme named **Administration Theme - Charcoal** is included as an example of C
 3.  Review the code.
 
 
-**Parent Topic:**[Content Management meta tags](../concept/c_ContentManagementMetaTags.md)
+**Parent Topic:**[Content Management meta tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentManagementMetaTags.md)
 

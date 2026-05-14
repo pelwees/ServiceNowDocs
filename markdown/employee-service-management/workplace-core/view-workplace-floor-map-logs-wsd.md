@@ -30,10 +30,10 @@ Role required: sn\_wsd\_core.workplace\_manager
 3.  Select the **Floor** link to view the floor record.
 
 
-**Parent Topic:**[Analytics and reporting solutions for Workplace Core](../concept/analytics-reporting-for-wsd.md)
+**Parent Topic:**[Analytics and reporting solutions for Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/analytics-reporting-for-wsd.md)
 
 **Related topics**  
 
 
-[Workplace dashboards](../../../use/dashboards/concept/wsd-workplace-dashboards.md)
+[Workplace dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../../use/dashboards/concept/wsd-workplace-dashboards.md)
 

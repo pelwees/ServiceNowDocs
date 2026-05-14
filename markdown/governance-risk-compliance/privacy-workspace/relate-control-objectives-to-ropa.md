@@ -88,5 +88,5 @@ To create and apply controls for a response, perform the following steps.1.  In 
 
 The control objectives are related to the processing activity.
 
-**Parent Topic:**[Create a privacy assessment](create-assessment-template.md)
+**Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 

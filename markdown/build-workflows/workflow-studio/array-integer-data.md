@@ -42,7 +42,7 @@ Store a sequence of numeric integer data in an array.
 
 You can use an array of integers to store the output of a script method call. For example, the Fetch Document Approval Sequence action uses a script step to generate an approval sequence data pill. The script output variable stores the sequence of approvers as an array of integers.
 
-![Script step that defines an output variable named Approver Sequence with the data type of Array.Integer](../images/example-script-output-array-integers.png "Script output of Fetch Document Approval Sequence action")
+![Script step that defines an output variable named Approver Sequence with the data type of Array.Integer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-script-output-array-integers.png "Script output of Fetch Document Approval Sequence action")
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

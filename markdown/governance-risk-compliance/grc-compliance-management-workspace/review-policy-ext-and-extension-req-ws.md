@@ -23,7 +23,7 @@ Role required: sn\_compliance.manager
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  In the Compliance Workspace, select the ![List icon](../../grc-cam-workspace/image/ws-list-icon.png) icon.
+2.  In the Compliance Workspace, select the ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-cam-workspace/image/ws-list-icon.png) icon.
 
 3.  Select **All policy exceptions** in the Policy exceptions list.
 

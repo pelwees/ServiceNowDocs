@@ -19,7 +19,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf\_admin and security\_ad
 
 ## About this task
 
-This procedure describes options that are available with Column Level Encryption with the base system and additional configuration options that become available with Column Level Encryption Enterprise functionality. Column Level Encryption Enterprise functionality is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Column Level Encryption Enterprise](../../now-platform-encryption/task/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
+This procedure describes options that are available with Column Level Encryption with the base system and additional configuration options that become available with Column Level Encryption Enterprise functionality. Column Level Encryption Enterprise functionality is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/reference/encryption-sku.md) for supported features and options available with each offering. See [Activate Column Level Encryption Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-platform-encryption/task/activate-platform-encryption-2.md) for more information on obtaining Column Level Encryption Enterprise.
 
 A cryptographic specification will be created by the system when you create a cryptographic module for Column Level Encryption Enterprise.
 
@@ -33,7 +33,7 @@ A cryptographic specification will be created by the system when you create a cr
 
 3.  Select the crypto specification from the table to open the Algorithm Definition.
 
-    For Column Level Encryption Enterprise see [Configure advanced algorithms for Column Level Encryption Enterprise](adv-algorithm-cleent-2.md).
+    For Column Level Encryption Enterprise see [Configure advanced algorithms for Column Level Encryption Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/adv-algorithm-cleent-2.md).
 
 4.  Click **Next** to access the Key Lifecycle.
 
@@ -42,8 +42,8 @@ A cryptographic specification will be created by the system when you create a cr
 
 Perform one of the following operations:
 
--   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
--   Click **Next** to create a cryptographic key. For details on this process, see [Generate a ServiceNow cryptographic key](generate_sn_key.md).
+-   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
+-   Click **Next** to create a cryptographic key. For details on this process, see [Generate a ServiceNow cryptographic key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/generate_sn_key.md).
 
-**Parent Topic:**[Using Column Level Encryption](../../encryption/concept/using-column-level-encryption-2.md)
+**Parent Topic:**[Using Column Level Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/using-column-level-encryption-2.md)
 

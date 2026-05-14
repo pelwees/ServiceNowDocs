@@ -17,9 +17,9 @@ Use the Now Mobile app to view the hardware and software assets that are assigne
 
 In the Now Mobile app, you can view a list of both installed software and subscription software by navigating to **My Items** &gt; **My Assets** &gt; **Software**. You can find information on when you last used a piece of software. If some software is installed on more than one device, you can also view all the devices. The Now Mobile app gets the list of assets from the Software Subscription, Rights used by, and Rights needed by tables.
 
-![Surrender a licensed software using the Now Mobile app.](../image/now-mobile-software.png "Viewing assets on the Now Mobile app")
+![Surrender a licensed software using the Now Mobile app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/now-mobile-software.png "Viewing assets on the Now Mobile app")
 
 Tap any of your assets to view its details such as its business cost, its last activity, and other information. If you want to surrender the asset, tap **I don't need this anymore**. A removal candidate is generated so that the software asset manager can review and approve the removal request.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

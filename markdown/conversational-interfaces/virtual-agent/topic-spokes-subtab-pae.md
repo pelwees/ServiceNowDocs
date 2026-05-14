@@ -17,7 +17,7 @@ Use the Spokes indicators to view details such as spoke usage, spoke actions, an
 
 In Virtual Agent, conversations contain topics, topics contain spokes, and spokes contain spoke actions or subflows. The **Spokes** indicators show which spokes, actions, and subflows were used and how often.
 
-![Conversational Analytics dashboard with global spoke usage, actions, subflows, and topics indicators.](../images/dashboard-spoke-used-2-pae.png)
+![Conversational Analytics dashboard with global spoke usage, actions, subflows, and topics indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/dashboard-spoke-used-2-pae.png)
 
 ## Spokes tab
 
@@ -28,5 +28,5 @@ The Spokes tab contains the following indicators.
 -   **Subflows**—Subflows indicator shows which subflows were executed for the selected spoke.
 -   **Topics**—Topics indicator shows which topics executed the selected spoke. The horizontal axis shows the topics that triggered the spoke. The vertical axis shows the number of times the spoke was triggered in a topic.
 
-**Parent Topic:**[Topics tab](topics-tab-pae.md)
+**Parent Topic:**[Topics tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topics-tab-pae.md)
 

@@ -25,7 +25,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessment\_reviewer
 -   If you’re the document creator, you also have write access regardless of your role.
 -   If you aren’t the creator and don’t have the TPR Assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] role you only have read access to the document.
 
-For more information on setting document permissions, see [Define document sharing permissions](tprm-doc-share-permissions.md).
+For more information on setting document permissions, see [Define document sharing permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-doc-share-permissions.md).
 
 ## About this task
 
@@ -39,7 +39,7 @@ The document management system in TPRM enables you to create, version, and refer
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create new document form](../reference/tprm-create-new-document-form.md).
+    For descriptions of all these fields, see [Create new document form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-document-form.md).
 
 4.  Select **Submit** to save the document record.
 
@@ -48,7 +48,7 @@ The document management system in TPRM enables you to create, version, and refer
 
 After submitting the document record, complete the following tasks to finalize the document setup:
 
--   Add a version by uploading a document file. Only one attachment is allowed per version. For more information, see [Create a document version](tprm-create-document-version.md).
--   Define who can view, edit, or manage the document using the sharing permissions field. For more information, see [Define document sharing permissions](tprm-doc-share-permissions.md).
--   Link reference records by associating the document with relevant records such as assessments, engagements, issues, or tasks to enable roll-up and traceability. For more information, see [Link documents to a TPRM record](tprm-link-document.md).
+-   Add a version by uploading a document file. Only one attachment is allowed per version. For more information, see [Create a document version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-document-version.md).
+-   Define who can view, edit, or manage the document using the sharing permissions field. For more information, see [Define document sharing permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-doc-share-permissions.md).
+-   Link reference records by associating the document with relevant records such as assessments, engagements, issues, or tasks to enable roll-up and traceability. For more information, see [Link documents to a TPRM record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-link-document.md).
 

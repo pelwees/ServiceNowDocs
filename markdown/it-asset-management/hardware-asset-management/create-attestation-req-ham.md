@@ -144,7 +144,7 @@ Comments related to asset attestation.
 
 ## What to do next
 
-[View open asset attestations in the Hardware Asset Workspace](view-open-asset-attest-ham.md).
+[View open asset attestations in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-asset-attest-ham.md).
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/audit-hardware-assets-attestation.md)
 

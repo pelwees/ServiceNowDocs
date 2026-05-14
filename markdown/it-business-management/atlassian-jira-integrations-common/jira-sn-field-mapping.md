@@ -47,5 +47,5 @@ The following table lists the default field map configuration for a Story and Ep
 |Summary|Short Description|
 |Assignee|Assigned to|
 
-You can add or update the configuration for field, table, and choice maps of your projects between Jira and Agile Development 2.0 according to your organizational preferences. For details, see [Customizing map configuration for your Jira projects](custom-map-configuration.md).
+You can add or update the configuration for field, table, and choice maps of your projects between Jira and Agile Development 2.0 according to your organizational preferences. For details, see [Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md).
 

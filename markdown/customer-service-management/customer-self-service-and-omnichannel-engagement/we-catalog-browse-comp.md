@@ -17,5 +17,5 @@ Catalog browse component enables you to browse and search catalog items from dif
 
 You can search for specific items using keywords, and access dynamic content like playbooks. It also offers quick links to recently requested and popular items for quick navigation. As an administrator, you can configure the behavior and appearance such as hiding prices or navigation panels to customize the experience to specific needs.
 
-![Catalog browse component displaying catalog item based on the selection made in the Browse by catalog and Browse by categories options.](../image/we-catalog-browse-comp-catalog.png "Catalog browse component")
+![Catalog browse component displaying catalog item based on the selection made in the Browse by catalog and Browse by categories options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-catalog-browse-comp-catalog.png "Catalog browse component")
 

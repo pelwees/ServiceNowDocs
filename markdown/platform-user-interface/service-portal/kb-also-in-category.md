@@ -17,24 +17,24 @@ List of articles also included within a particular category. You can use this ba
 
 The information that appears in the KB also in Category widget is determined by the knowledge article child categories. For more information, see [Define a knowledge article category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_DefineAKnowledgeCategory.md).
 
-![Knowledge Base also in Category widget](../image/WidgetKBAlsoInCategory.png "KB also in Category widget")
+![Knowledge Base also in Category widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetKBAlsoInCategory.png "KB also in Category widget")
 
 ## Instance options
 
-![KB also in Category widget with one instance option to change the bootstrap widget color](../image/InstanceOptionsKBAlsoIn.png "KB also in Category instance options")
+![KB also in Category widget with one instance option to change the bootstrap widget color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/InstanceOptionsKBAlsoIn.png "KB also in Category instance options")
 
 |Field|Description|
 |-----|-----------|
 |Bootstrap color|Color scheme for the widget. The default colors are defined by the portal theme, but if you want the instance to have a specific color, select the option from the list.|
 
-**Parent Topic:**[Knowledge Management widgets](km-widgets.md)
+**Parent Topic:**[Knowledge Management widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/km-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

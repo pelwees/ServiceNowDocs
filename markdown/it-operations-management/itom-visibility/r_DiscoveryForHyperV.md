@@ -49,7 +49,7 @@ There are 2 types of Hyper-V:
 
 Discovery supports identifying and mapping both types of Hyper-V environments. However, the CMDB data models differ between the two deployment types.
 
-![Key differences between Windows Server with Hyper-V role and Hyper-V Server using a VM with Windows OS example](../../service-mapping/image/MMASSET0020901-hyper-v-data-model-horizontal.png "Example of Windows Server with Hyper-V role vs. Hyper-V Server (VM shown with Windows OS)")
+![Key differences between Windows Server with Hyper-V role and Hyper-V Server using a VM with Windows OS example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/image/MMASSET0020901-hyper-v-data-model-horizontal.png "Example of Windows Server with Hyper-V role vs. Hyper-V Server (VM shown with Windows OS)")
 
 <table id="table_jqg_nht_qdc"><thead><tr><th>
 
@@ -158,7 +158,7 @@ The parent Windows Servers table reflects the physical cores, while the Hyper-V 
 </td></tr></tbody>
 </table>## Credentials
 
-Configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) with Domain administrator rights. You should also [Enable PowerShell](r_PowerShellForDiscovery.md) for the MID Server used to discover Hyper-V servers and instances.
+Configure [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_WindowsCredentialsForm.md) with Domain administrator rights. You should also [Enable PowerShell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_PowerShellForDiscovery.md) for the MID Server used to discover Hyper-V servers and instances.
 
 ## Classifier, probes, and pattern
 
@@ -187,7 +187,7 @@ Hyper-V ServerThe classification applies to standalone Hyper-V servers only \(se
 -   Hyper-V - Resource Pools\*
 -   Hyper-V - Virtual Machines\*
 -   Hyper-V - Virtual Networks\*
--   Several other [Windows probes](r_DataCollDiscoWindowsComputers.md) also run, such as Windows - Identity, Windows - software, and so on.\*
+-   Several other [Windows probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md) also run, such as Windows - Identity, Windows - software, and so on.\*
 
 </td><td>
 
@@ -198,7 +198,7 @@ Hyper-V Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -501,7 +501,7 @@ Contains data about various objects associated with a Hyper-V server, such as pa
 |Windows Servers \[cmdb\_ci\_win\_server\]|Instantiates::Instantiated by|Hyper-V Virtual Machine Instance \[cmdb\_ci\_hyper\_v\_instance\]|
 |Windows Servers \[cmdb\_ci\_win\_server\]|Virtualized by::Virtualizes|Hyper-V Server \[cmdb\_ci\_hyper\_v\_server\]|
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Computers.md)
 
 ## Clone Hyper-V virtual machines
 

@@ -13,16 +13,16 @@ breadcrumb: [Manage store plans, Retail]
 
 Use Retail Mobile to review, track, and complete In-store operations cases and tasks generated from store plans.
 
--   **[View your assigned In-store operations cases and tasks in Retail Mobile](rahi-retail-view-in-store-cases-tasks.md)**  
+-   **[View your assigned In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-view-in-store-cases-tasks.md)**  
 Review all of your assigned In-store operations cases and tasks within Retail Mobile.
--   **[Filter your In-store operations cases and tasks in Retail Mobile](rahi-retail-filter-cases-tasks.md)**  
+-   **[Filter your In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-filter-cases-tasks.md)**  
 Use the filter within Retail Mobile to limit displayed cases or tasks based on specified keywords.
--   **[Work on an In-store operations case](rahi-retail-work-in-store-operations-case-mobile.md)**  
+-   **[Work on an In-store operations case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-work-in-store-operations-case-mobile.md)**  
 Work on an In-store operations case using Retail Mobile.
--   **[Work on an In-store operations task in Retail Mobile](../task/rahi-retail-in-store-task-mobile.md)**  
+-   **[Work on an In-store operations task in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../task/rahi-retail-in-store-task-mobile.md)**  
 Complete individual work items tied to a store case using Retail Mobile.
--   **[Search for assigned cases and tasks using AI Search in Retail Mobile](../task/rahi-retail-mobile-search-ai.md)**  
+-   **[Search for assigned cases and tasks using AI Search in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/../task/rahi-retail-mobile-search-ai.md)**  
 Use the Search function in Retail Mobile to find cases or tasks based on relevant keywords or descriptions.
 
-**Parent Topic:**[Manage store plans](rahi-retail-manage-store-plans.md)
+**Parent Topic:**[Manage store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 

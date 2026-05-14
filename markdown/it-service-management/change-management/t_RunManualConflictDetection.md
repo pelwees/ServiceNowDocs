@@ -23,9 +23,9 @@ Before you can run conflict detection for a change request, the following inform
 -   The planned start date, provided in the **Planned start date** field.
 -   The planned end date, in the **Planned end date** field.
 
-**Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](t_RunManualConflictDetection.md#)
+**Note:** The conflict detection feature is unavailable if the **Exclude from conflict detection** check box in the Change Request form is selected. For more information, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunManualConflictDetection.md#)
 
-For information about running conflict detection automatically, see [Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md).
+For information about running conflict detection automatically, see [Enable automatic change conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunAutomatedConflictDetection.md).
 
 Prior to running conflict detection, consider the following scenarios:
 
@@ -131,20 +131,20 @@ Issue that caused the conflict. The available types are:
 
 Resolve any conflicts and reschedule the change.
 
-**Parent Topic:**[Conflict detection](../concept/c_ConflictDetection.md)
+**Parent Topic:**[Conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ConflictDetection.md)
 
 **Related topics**  
 
 
-[Detect change conflicts](configure-conflict-properties.md#)
+[Detect change conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md#)
 
-[Create blackout and maintenance schedules in Change Management](t_CreateBlkoutMaintSched.md)
+[Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)
 
-[Configure a change request to monitor outside maintenance schedule conflicts](monitor-maintenance-schedule.md)
+[Configure a change request to monitor outside maintenance schedule conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/monitor-maintenance-schedule.md)
 
-[Conflict calendar](../concept/change-conflict-calendar.md)
+[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 
-[Enable automatic change conflict detection](t_RunAutomatedConflictDetection.md)
+[Enable automatic change conflict detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RunAutomatedConflictDetection.md)
 
 ## Cancel conflict detection manually
 

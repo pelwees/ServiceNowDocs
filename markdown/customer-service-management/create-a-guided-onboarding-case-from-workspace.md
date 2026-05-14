@@ -35,7 +35,7 @@ Let's see how an agent creates a case from Playbooks for Portals. The agent does
 
 The following diagram shows how an agent creates a case.
 
-![Steps that an agent follows in creating a case. Refer to the workflow steps that preceded this diagram.](../image/playbook-agent-create-case.png "Agent creates a case")
+![Steps that an agent follows in creating a case. Refer to the workflow steps that preceded this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/playbook-agent-create-case.png "Agent creates a case")
 
 ## Processing a case
 
@@ -49,12 +49,12 @@ Let's see how an agent processes a case from Playbooks for Portals. The agent do
 
 The following diagram shows how an agent processes a case.
 
-![Steps that an agent follows in processing a case. Refer to the workflow steps that preceded this diagram.](../image/Playbook-agent-process-case.png "Agent processes a case")
+![Steps that an agent follows in processing a case. Refer to the workflow steps that preceded this diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Playbook-agent-process-case.png "Agent processes a case")
 
 **Related topics**  
 
 
-[Create an onboarding request from the service catalog](../task/create-an-onboarding-request-from-catalog.md)
+[Create an onboarding request from the service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-an-onboarding-request-from-catalog.md)
 
-[Creating an onboarding case with Playbooks for Portals](create-an-onboarding-case-with-portal-playbook.md)
+[Creating an onboarding case with Playbooks for Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-case-with-portal-playbook.md)
 

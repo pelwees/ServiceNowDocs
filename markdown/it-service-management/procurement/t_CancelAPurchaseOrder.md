@@ -34,5 +34,5 @@ Purchase order line items can also be canceled from a purchase order.
     All associated purchase order line items that have not been received are canceled. Any assets created for the purchase order are deleted.
 
 
-**Parent Topic:**[Create a purchase order](t_CreateAPurchaseOrder.md)
+**Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md)
 

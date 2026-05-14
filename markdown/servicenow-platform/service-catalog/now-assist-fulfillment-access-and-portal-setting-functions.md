@@ -49,5 +49,5 @@ If you request updates to multiple fields and some are locked by a template whil
 
 **Note:** User criteria records define groups of users based on conditions such as role, department, or location. These records manage who can view or request a catalog item.
 
-**Parent Topic:**[Catalog item generation reference](catalog-item-generation-reference.md)
+**Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 

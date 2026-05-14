@@ -34,13 +34,13 @@ This task is explained using stories in an Agile Release Train \(ART\) as an exa
 
 3.  Identify stories that have dependencies, and use the interactive functionality of the Planning board to draw dependency lines between them.
 
-    1.  On the dependent story card, click the Add dependency line icon \(![Add dependency line icon.](../images/eap-dependency-add-icon.png)\).
+    1.  On the dependent story card, click the Add dependency line icon \(![Add dependency line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-dependency-add-icon.png)\).
 
         A dotted dependency line appears.
 
     2.  Select the prerequisite story card to finish drawing the dependency line.
 
-    ![Draw dependency lines between stories on the Planning Board in EAP.](../images/eap-create-dependency.gif)
+    ![Draw dependency lines between stories on the Planning Board in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-create-dependency.gif)
 
     The dependencies are added to the work items on the board.
 
@@ -56,12 +56,12 @@ This task is explained using stories in an Agile Release Train \(ART\) as an exa
 
     3.  From the Sys class name column, select **Story Dependencies**.
 
-        ![Dependencies related lists for a work item.](../images/eap-delete-dependency-1.png)
+        ![Dependencies related lists for a work item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-delete-dependency-1.png)
 
-    4.  From the dependency item header, select the More Actions icon \(![More Actions icon.](../images/eap-more-actions-icon.png)\) and select **Delete**.
+    4.  From the dependency item header, select the More Actions icon \(![More Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-more-actions-icon.png)\) and select **Delete**.
 
     5.  Select **OK** to confirm deleting the dependency.
 
 
-**Parent Topic:**[Work item dependencies in EAP](../concept/work-item-dependencies-in-eap.md)
+**Parent Topic:**[Work item dependencies in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/work-item-dependencies-in-eap.md)
 

@@ -21,17 +21,17 @@ Role required: sn\_hr\_core.case\_writer
 
 ## About this task
 
-Unlike working notes, which are accessible to all agents assigned to a case, personal notes provide a secure way to document sensitive information that shouldn't be shared with the broader team. For example, when managing Employee Relations cases, agents can use personal notes to document confidential details.![Personal notes](../image/personal-notes-aws.png)
+Unlike working notes, which are accessible to all agents assigned to a case, personal notes provide a secure way to document sensitive information that shouldn't be shared with the broader team. For example, when managing Employee Relations cases, agents can use personal notes to document confidential details.![Personal notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/personal-notes-aws.png)
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Select the **Lists** icon \(![HR Workspace Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Select the **Lists** icon \(![HR Workspace Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Select an HR case.
 
-4.  In the Contextual Side Panel, select the **Personal Notes** icon\( ![Personal notes](../image/personal-notes.png)\).
+4.  In the Contextual Side Panel, select the **Personal Notes** icon\( ![Personal notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/personal-notes.png)\).
 
     The case must be in ready, work in progress, or awaiting acceptance state.
 

@@ -13,13 +13,13 @@ breadcrumb: [Components, Record pages and page templates, CSM Configurable Works
 
 Use the Collaborate component in CSM Configurable Workspace to communicate with stakeholders and gather information for case resolution.
 
-![The collaboration component displays the available configured services when an agent initiates a new conversation.](../image/csm-config-ws-collaboration-component.png "Collaborate component with multiple configured communication services")
+![The collaboration component displays the available configured services when an agent initiates a new conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-ws-collaboration-component.png "Collaborate component with multiple configured communication services")
 
 Customer service agents can use the Collaborate component to initiate chats and calls with other agents, requestors, and subject matter experts.
 
 The Collaborate component requires configured integrations with communication services such as Microsoft Teams, Slack, and Zoom. When no integrations have been configured, agents can use the Collaborate component to start Sidebar discussions.
 
-The Collaborate component is available as the last tab in the contextual side panel in CSM Configurable Workspace. The Collaborate component is available on all CSM Configurable Workspace [record pages](csm-config-ws-pages-templates.md) where the table is set to one of the following:
+The Collaborate component is available as the last tab in the contextual side panel in CSM Configurable Workspace. The Collaborate component is available on all CSM Configurable Workspace [record pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-pages-templates.md) where the table is set to one of the following:
 
 -   Interaction \[interaction\]
 -   A child of the Task \[task\] table, such as the Case table \[sn\_customerservice\_case\]

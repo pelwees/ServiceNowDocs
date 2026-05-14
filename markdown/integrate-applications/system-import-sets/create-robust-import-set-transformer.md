@@ -18,8 +18,8 @@ Define how information is sent from the source table to target tables via a Robu
 ## Before you begin
 
 -   Role required: import\_transformer
--   [Create an ETL definition](create-etl-definitions.md).
--   [Create a robust transform definition](create-robust-transform-definitions.md).
+-   [Create an ETL definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-etl-definitions.md).
+-   [Create a robust transform definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-transform-definitions.md).
 
 ## Procedure
 
@@ -59,7 +59,7 @@ Robust transform engine
 
 </td><td>
 
-Enables you to select an ETL definition or CMDB definition. For procedures to define an RTE, see [Create robust transform definitions](create-robust-transform-definitions.md).
+Enables you to select an ETL definition or CMDB definition. For procedures to define an RTE, see [Create robust transform definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-transform-definitions.md).
 
 </td></tr><tr><td>
 

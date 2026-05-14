@@ -25,7 +25,7 @@ Mapping the states of the requested item to the universal request state ensures 
 
 For example, consider a universal request has a requested item as a primary ticket. When the state of the request changes from **Open** to **Work in Progress**, the universal request state changes from **New** to **In Progress**.
 
-![Requested item state mapping.](../images/req-mgmt-state-maping.jpg)
+![Requested item state mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../images/req-mgmt-state-maping.jpg)
 
 The following table lists the default state mapping of requested item state with UR states.
 
@@ -56,5 +56,5 @@ If you change the state of the request to Close Incomplete, Closed Skipped, or C
     For more information, see [State mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-state-mapping-form.md).
 
 
-**Parent Topic:**[Request Management integration with Universal Request](../concept/request-mgmt-integration-ur.md)
+**Parent Topic:**[Request Management integration with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/request-management/../concept/request-mgmt-integration-ur.md)
 

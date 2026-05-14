@@ -21,19 +21,19 @@ Performance Analytics tools including KPI Composer, KPI Details, and Spotlight, 
 
 <table id="table_iwv_lpv_klba" class="nav-card"><tbody><tr><td>
 
-[Explore Performance Analytics ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Performance Analytics concepts and features such as indicators, breakdowns, and data collection.](c_GetStartedwithPA.md)
+[Explore Performance Analytics ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Performance Analytics concepts and features such as indicators, breakdowns, and data collection.](c_GetStartedwithPA.md)
 
 </td><td>
 
-[Configure Performance Analytics fundamentals ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn how to design your Performance Analytics solution, configure indicators and breakdowns and apply aggregations.](c_PAWidgetsAndDashboards.md)
+[Configure Performance Analytics fundamentals ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../reuse/icons/brand-icons/bus-sdlc.svg) Learn how to design your Performance Analytics solution, configure indicators and breakdowns and apply aggregations.](c_PAWidgetsAndDashboards.md)
 
 </td></tr><tr><td>
 
-[Configure advanced Performance Analytics ![](../../../reuse/icons/brand-icons/bus-customize.svg) Delve into advanced features such as Spotlight, diagnostics, and logging.](c_PADataArchitecture.md)
+[Configure advanced Performance Analytics ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../reuse/icons/brand-icons/bus-customize.svg) Delve into advanced features such as Spotlight, diagnostics, and logging.](c_PADataArchitecture.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles, system properties, and a glossary of terms](performance-analytics-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../../reuse/icons/brand-icons/bus-learn.svg)Roles, system properties, and a glossary of terms](performance-analytics-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

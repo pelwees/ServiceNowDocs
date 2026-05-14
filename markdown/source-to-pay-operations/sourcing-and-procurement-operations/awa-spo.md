@@ -19,7 +19,7 @@ Advanced Work Assignment for Source-to-Pay Operations pushes work to qualified a
 
 ## Prerequisites for installing Advanced Work Assignment for Source-to-Pay Operations
 
-Before you install Advanced Work Assignment for Source-to-Pay Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](../../supplier-lifecycle-operations/task/load-demo-agent-chat.md).
+Before you install Advanced Work Assignment for Source-to-Pay Operations, ensure that you activate the Agent Chat application and load the demo data during installation. For more information, see [Activate Agent Chat and load demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/task/load-demo-agent-chat.md).
 
 ## Required plugins
 
@@ -28,35 +28,35 @@ Install the Advanced Work Assignment for Source-to-Pay Operations \(sn\_spend\_a
 -   Advanced Work Assignment \(com.glide.awa\)
 -   Agent Chat \(com.glide.interaction.awa\)
 
--   **[Setting up Advanced Work Assignment for Source-to-Pay Operations](awa-spo-setup.md)**  
+-   **[Setting up Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/awa-spo-setup.md)**  
 Plan and configure your implementation of Advanced Work Assignment for Source-to-Pay Operations.
--   **[Using Advanced Work Assignment for Source-to-Pay Operations](using-awa-spo.md)**  
+-   **[Using Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-awa-spo.md)**  
 Enables shoppers or requesters to interact with agents to resolve their issues and get answers to their questions.
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md)
 
 **Related topics**  
 
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 
-[Configure punchout for third-party site purchases](../task/configure-supplier-punchout.md)
+[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/configure-supplier-punchout.md)
 
-[Configuring work prioritization](configuring-work-prioritization.md)
+[Configuring work prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-work-prioritization.md)
 
-[Add a new button in Shopping Hub](../task/add-new-button-shoppinghub.md)
+[Add a new button in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/add-new-button-shoppinghub.md)
 
-[Customize your top suppliers on Shopping Hub](../task/customize-top-suppliers.md)
+[Customize your top suppliers on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/customize-top-suppliers.md)
 
-[Configure conditions for merging purchase requisitions](../task/config-pr-merge.md)
+[Configure conditions for merging purchase requisitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/service-portal-configuration-for-shoppinghub.md)
 
-[Install ShoppingHub Mobile](../task/install-shoppinghub-mobile.md)
+[Install ShoppingHub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/install-shoppinghub-mobile.md)
 
-[Install Sourcing and Procurement Operations](../task/activate-finance-spend-central.md)
+[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-finance-spend-central.md)
 
-[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)
+[Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/application-plugin-list.md)
 

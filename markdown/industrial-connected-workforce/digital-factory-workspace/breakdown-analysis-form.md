@@ -39,5 +39,5 @@ The following table describes the fields for the Breakdown analysis form. Most q
 |Have all questions been answered accurately?|Option to verify completeness and correctness of the form.|
 |Was standard maintenance procedure updated?|Option to indicate if maintenance protocols were revised after the breakdown.|
 
-**Parent Topic:**[Digital Factory Workspace reference](digital-factory-workspace-reference.md)
+**Parent Topic:**[Digital Factory Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 

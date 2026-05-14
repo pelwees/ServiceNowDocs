@@ -66,8 +66,8 @@ Role required: sn\_hr\_core.admin
 17. Select **Review and activate** to examine changes, then select **Activate**.
 
 
--   **[Extend table support for resolution notes generation](table-support-resolution-notes.md)**  
+-   **[Extend table support for resolution notes generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/table-support-resolution-notes.md)**  
 Extend table support for the resolution notes generation skill to include additional data sources.
 
-**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md)
+**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 

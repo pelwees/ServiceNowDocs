@@ -77,7 +77,7 @@ Role required: admin
 
     -   Upgrade store applications: List of applications that have been selected in the pre-upgrade stage and have updated versions available.
 
-        ![Screenshot showing app updates](../image/um-store-app-upgrades.png)
+        ![Screenshot showing app updates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-store-app-upgrades.png)
 
         -   Application: Name of the application
         -   Upgrade version: Selected version of the application to which you want to upgrade. This was selected before upgrade starts in preview apps page
@@ -96,7 +96,7 @@ Role required: admin
 
     In order to conduct post-testing, the selected ATF tests are executed to ensure system functionality and integrity of the existing features.
 
-    ![Screenshot showing the post testing scenario](../image/um-post-testing.png)
+    ![Screenshot showing the post testing scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-post-testing.png)
 
     You can review the following information in this step:
 
@@ -117,7 +117,7 @@ Role required: admin
 
     In this step, you can see the currently selected upgrade plan. You then prepare the update set and export it to the next production or non-production instance. This task is used to ensure that all necessary modifications are applied to the next production or non-production instance.
 
-    ![Screenshot showing next environment](../image/um-next-environment.png)
+    ![Screenshot showing next environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../image/um-next-environment.png)
 
     You can see the following information in this task:
 
@@ -130,12 +130,12 @@ Role required: admin
 5.  Select **Mark as complete** to complete the sub-production tasks in a non-production instance.
 
 
-**Parent Topic:**[Access guided upgrade on a non-production instance](um-guided-tour-implement.md)
+**Parent Topic:**[Access guided upgrade on a non-production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement.md)
 
 **Related topics**  
 
 
-[Implement pre-upgrade activities on a non-prod instance](um-pre-upgrade-activities.md)
+[Implement pre-upgrade activities on a non-prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-pre-upgrade-activities.md)
 
-[Implement instance upgrade activities on a sub-prod instance](um-implement-instance-upgrade.md)
+[Implement instance upgrade activities on a sub-prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-implement-instance-upgrade.md)
 

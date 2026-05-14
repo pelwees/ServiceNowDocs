@@ -22,7 +22,7 @@ The automation priority is calculated by combining the following key factors:
 
 The priority for an automation opportunity is determined using the following chart.
 
-![automation opportunity priorities](../images/projected-cost-time-savings.png "Automation opportunity priority")
+![automation opportunity priorities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/projected-cost-time-savings.png "Automation opportunity priority")
 
 The key factors are evaluated for each group of related incidents, called  automation opportunities, and the results help teams focus on high-value areas.
 

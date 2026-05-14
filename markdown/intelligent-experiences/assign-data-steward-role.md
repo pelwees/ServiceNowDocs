@@ -32,7 +32,7 @@ The following steps explain how to assign a role to a specific user. Another opt
 
 2.  In the Roles related list, select **Edit**.
 
-3.  In the collection of roles, select the sn\_generative\_ai.data\_steward role, and then select the **Add** \(![Button with a chevron](../../now-assist-platform/images/collection-add-icon.png)\) icon.
+3.  In the collection of roles, select the sn\_generative\_ai.data\_steward role, and then select the **Add** \(![Button with a chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/images/collection-add-icon.png)\) icon.
 
 4.  Select **Save**.
 
@@ -41,5 +41,5 @@ The following steps explain how to assign a role to a specific user. Another opt
 
 Once the data steward has the correct role, they can review the data sharing information on the Now Assist Admin console in the **Settings** tab under **Data privacy and sharing** &gt; **Data sharing**.
 
-**Parent Topic:**[Data sharing and processes](../concept/now-assist-data-sharing-and-processes.md)
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-data-sharing-and-processes.md)
 

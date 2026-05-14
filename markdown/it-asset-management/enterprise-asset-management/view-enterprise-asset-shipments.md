@@ -56,5 +56,5 @@ You can view and add shipments for your transfer orders, purchase orders, move o
     3.  Select **Save**.
 
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-shipments-eam.md)
 

@@ -25,23 +25,23 @@ Role required: sn\_irm\_cont\_auth.system\_owner or sn\_irm\_cont\_auth.admin
 
 1.  Navigate to **All** &gt; **Continuous Authorization &amp; Monitoring** &gt; **All Authorization Packages**.
 
-    ![Authorization packages](../image/cam-auth-packages.png)
+    ![Authorization packages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-auth-packages.png)
 
 2.  Select **New** and then fill in the form.
 
-    The settings are described in [Fields on the Authorization Package form](../reference/cam-form-authorization-package.md).
+    The settings are described in [Fields on the Authorization Package form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../reference/cam-form-authorization-package.md).
 
-    ![Authorization package - new](../image/cam-auth-packages-new.png)
+    ![Authorization package - new](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-auth-packages-new.png)
 
 3.  Select the **Roles and Responsibilities** tab and specify the responsibilities of various stakeholders during the review and approval process.
 
-    The settings are described in [Roles and Responsibilities](../reference/cam-form-authorization-package.md#section_xml_sf4_qfc).
+    The settings are described in [Roles and Responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../reference/cam-form-authorization-package.md#section_xml_sf4_qfc).
 
 4.  Select the **PTA/PIA** tab and perform the Privacy Threshold Analysis by answering the questions.
 
     The PTA identifies whether various types of the Personal Identifiable Information \(PII\) exist in the systems being authorized.
 
-    ![Privacy Threshold Analysis/Privacy Impact Assessment](../image/pta-pia.png)
+    ![Privacy Threshold Analysis/Privacy Impact Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/pta-pia.png)
 
 5.  If you answered **No** to all of the questions, you are not required to take a Privacy Impact Analysis and can select **Submit**.
 
@@ -61,8 +61,8 @@ Role required: sn\_irm\_cont\_auth.system\_owner or sn\_irm\_cont\_auth.admin
 
 8.  Select **Proceed to Next Step** to transition the package to the next step.
 
-    The authorization package is transitioned to categorize step.![Authorization Package proceed to next step.](../image/cam-auth-packages-next-step.png)
+    The authorization package is transitioned to categorize step.![Authorization Package proceed to next step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-auth-packages-next-step.png)
 
 
-**Parent Topic:**[RMF step 0 - Prepare the authorization package](../concept/prepare-auth-pkg.md)
+**Parent Topic:**[RMF step 0 - Prepare the authorization package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../concept/prepare-auth-pkg.md)
 

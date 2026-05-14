@@ -17,9 +17,9 @@ The OnCallContactPreferenceUtil script include provides methods for handling con
 
 For contact preference configuration, see [Configure contact preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-my-contact-prefs-oncall.md).
 
-This script include supports the [OnCallRotation](../../OnCallRotation/concept/c_OnCallRotationAPI.md#) script include.
+This script include supports the [OnCallRotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../OnCallRotation/concept/c_OnCallRotationAPI.md#) script include.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## OnCallContactPreferenceUtil - OnCallContactPreferenceUtil\(\)
 
@@ -55,7 +55,7 @@ Object
 
 </td><td>
 
-Mandatory. Escalatee object returned by the [getEscalationPlan\(\)](../../OnCallRotation/concept/c_OnCallRotationAPI.md#) method.
+Mandatory. Escalatee object returned by the [getEscalationPlan\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../OnCallRotation/concept/c_OnCallRotationAPI.md#) method.
 
 </td></tr><tr><td>
 

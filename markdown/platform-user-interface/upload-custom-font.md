@@ -36,21 +36,21 @@ Upload only one font family at a time. Theme Builder does not yet support variab
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  From the Overview panel, navigate to the Typography section and select **Add custom font family**.
 
-    ![Overview panel Topography section with Add custom font family selected.](../image/tb-overview-add-custom-font.png "Overview panel Typography section")
+    ![Overview panel Topography section with Add custom font family selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-overview-add-custom-font.png "Overview panel Typography section")
 
     **Note:** You can also upload a font directly from the Typography panel.
 
-    ![Global styles Typography tab.](../image/tb-typography-panel.png "Typography tab")
+    ![Global styles Typography tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-typography-panel.png "Typography tab")
 
     The Add custom font family modal appears.
 
@@ -62,19 +62,19 @@ Upload only one font family at a time. Theme Builder does not yet support variab
 
     -   Under 2 MB
     -   WOFF, TTF, or ZIP format
-    ![Add custom font family modal with Browse selected.](../image/tb-custom-font-modal-browse.png "Add custom font family modal with size and format limitations")
+    ![Add custom font family modal with Browse selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-custom-font-modal-browse.png "Add custom font family modal with size and format limitations")
 
 6.  Use the arrow within the modal to view any font faces you have uploaded with your custom font family.
 
     **Note:** Font faces can be applied individually to components, while the font family is applied globally.
 
-    ![Add custom font family modal preview pane with one font face displayed and arrow to view additional font faces highlighted.](../image/tb-custom-font-family-modal-arrow.png "Add custom font family modal preview pane")
+    ![Add custom font family modal preview pane with one font face displayed and arrow to view additional font faces highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-custom-font-family-modal-arrow.png "Add custom font family modal preview pane")
 
 7.  Select **Save**.
 
     Your new font family appears in the Typography section under **Manage custom fonts**, along with the associated font faces.
 
-    ![Typography section with new custom font family and font faces listed.](../image/tb-typography-font-family.png "Typography section with Custom font family listed")
+    ![Typography section with new custom font family and font faces listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-typography-font-family.png "Typography section with Custom font family listed")
 
 8.  Preview how your selected font family or font face appears using any of the following options.
 
@@ -83,12 +83,12 @@ Upload only one font family at a time. Theme Builder does not yet support variab
 
 ## Result
 
-Once you have uploaded your custom font, you can select it as your default font and apply it to your theme. For information, see [Edit your default font](edit-font.md). The most recently added font family appears at the bottom of the **Manage custom fonts** list.
+Once you have uploaded your custom font, you can select it as your default font and apply it to your theme. For information, see [Edit your default font](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-font.md). The most recently added font family appears at the bottom of the **Manage custom fonts** list.
 
--   **[Add a font face](add-font-face.md)**  
+-   **[Add a font face](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-font-face.md)**  
 Add a new style such as bold or italic to your custom font family in Theme Builder.
--   **[Delete a custom font from your theme](delete-custom-font.md)**  
+-   **[Delete a custom font from your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/delete-custom-font.md)**  
 Delete and remove a custom font family or font face you no longer need from your Theme Builder theme.
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)
 

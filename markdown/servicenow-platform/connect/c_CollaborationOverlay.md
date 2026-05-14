@@ -15,15 +15,15 @@ breadcrumb: [Connect interface, Connect, ServiceNow AI Platform Additional Capab
 
 The Connect overlay appears over the standard user interface. It consists of the Connect sidebar, which is the primary interface for Connect Chat and Connect Support, and any Connect mini windows that are open. Each mini window contains a header, a conversation area, and a message field.
 
-![Connect overlay](../image/ConnectOverlay.png "Connect overlay")
+![Connect overlay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectOverlay.png "Connect overlay")
 
-**Note:** An administrator can [disable](../task/t_DisableTheCollaborationOverlay.md) the Connect overlay so users can only use the Connect workspace, a full-screen interface with additional Connect tools.
+**Note:** An administrator can [disable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../task/t_DisableTheCollaborationOverlay.md) the Connect overlay so users can only use the Connect workspace, a full-screen interface with additional Connect tools.
 
 ## Connect sidebar
 
 The Connect sidebar is the primary interface for Connect Chat and Connect Support. It lists your conversations and provides access to create conversations.
 
-The sidebar is collapsed by default. Click the toggle Connect sidebar icon \(![Toggle Connect sidebar icon](../image/IconUI16ToggleConnectSidebar.png)\) in the banner frame to expand or collapse the sidebar, which appears on the right edge of the interface.
+The sidebar is collapsed by default. Click the toggle Connect sidebar icon \(![Toggle Connect sidebar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconUI16ToggleConnectSidebar.png)\) in the banner frame to expand or collapse the sidebar, which appears on the right edge of the interface.
 
 ### Connect Chat
 
@@ -31,7 +31,7 @@ The chat view of the sidebar is available to all users. If Connect Support is en
 
 The chat view of the sidebar lists all your current Connect Chat conversations. It also contains a filter tool and a button to create conversations.
 
-![The chat tab of the Connect sidebar displays the Connect Chat view](../image/ConnectSidebarChatTab.png "Chat view of the Connect sidebar")
+![The chat tab of the Connect sidebar displays the Connect Chat view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSidebarChatTab.png "Chat view of the Connect sidebar")
 
 If you have unread messages in a conversation, a number appears by the conversation in the sidebar. Point to a conversation and click the **x** icon to remove the conversation from the sidebar.
 
@@ -41,7 +41,7 @@ The support view of the sidebar is available when Connect Support is activated. 
 
 The support view displays **Queues** to which you belong. It also displays your open support conversations under **Cases**.
 
-![The support tab of the Connect sidebar displays the Connect Support view](../image/ConnectSidebarSupportTab.png "Support view of the Connect sidebar")
+![The support tab of the Connect sidebar displays the Connect Support view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSidebarSupportTab.png "Support view of the Connect sidebar")
 
 If you have unread messages in a conversation, a number appears by the conversation in the sidebar.
 
@@ -55,12 +55,12 @@ Several icons appear in the mini window header and by the message field.
 
 |Icon|Name|Description|
 |----|----|-----------|
-|![Add user icon](../image/IconAddUser.png)|Add user|Add a user to the conversation. This icon is visible for group and record conversations only. Administrators can enable this icon for Connect Support conversations.|
-|![View document icon](../image/IconViewDocument.png)|View document|View the record associated with the conversation. This icon is visible for record and support conversations only.|
-|![New window icon](../image/IconNewWindow.png)|New window|Open the conversation in the Connect workspace, a full-screen window with additional Connect tools.|
-|![Collapse/Expand window icon](../image/IconCollapseExpandWindow.png)|Collapse/Expand conversation|Hide or show the conversation. Alternatively, click anywhere in the mini window header to the left of the icons.|
-|![Close window icon](../image/IconCloseWindow.png)|Close window|Close the mini window. The conversation remains in the Connect sidebar and the history is preserved when you reopen the conversation. You can also close a mini window by pressing the Escape key.|
-|![Connect action menu icon](../image/IconMenu.png)|Connect actions|Open the Connect actions menu, which contains options like **Transfer** and **Create Incident**. This icon is visible only when Connect actions are available for the conversation. By default, this icon is visible for support conversations only. Administrators can add options to this menu by creating [Connect actions](../task/t_AdministerConnectActions.md).|
-|![Message type icon](../image/IconMessageType.png)|Message type|Choose whether messages are added to the associated record as comments or work notes. This icon is visible only for record and support conversations.|
-|![Attach file icon](../image/IconAttach.png)|Attach file|Attach and send a file. Select one or more files and click Open. You can also add an attachment by dragging and dropping it directly in the conversation.|
+|![Add user icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconAddUser.png)|Add user|Add a user to the conversation. This icon is visible for group and record conversations only. Administrators can enable this icon for Connect Support conversations.|
+|![View document icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconViewDocument.png)|View document|View the record associated with the conversation. This icon is visible for record and support conversations only.|
+|![New window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconNewWindow.png)|New window|Open the conversation in the Connect workspace, a full-screen window with additional Connect tools.|
+|![Collapse/Expand window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconCollapseExpandWindow.png)|Collapse/Expand conversation|Hide or show the conversation. Alternatively, click anywhere in the mini window header to the left of the icons.|
+|![Close window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconCloseWindow.png)|Close window|Close the mini window. The conversation remains in the Connect sidebar and the history is preserved when you reopen the conversation. You can also close a mini window by pressing the Escape key.|
+|![Connect action menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMenu.png)|Connect actions|Open the Connect actions menu, which contains options like **Transfer** and **Create Incident**. This icon is visible only when Connect actions are available for the conversation. By default, this icon is visible for support conversations only. Administrators can add options to this menu by creating [Connect actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../task/t_AdministerConnectActions.md).|
+|![Message type icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMessageType.png)|Message type|Choose whether messages are added to the associated record as comments or work notes. This icon is visible only for record and support conversations.|
+|![Attach file icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconAttach.png)|Attach file|Attach and send a file. Select one or more files and click Open. You can also add an attachment by dragging and dropping it directly in the conversation.|
 

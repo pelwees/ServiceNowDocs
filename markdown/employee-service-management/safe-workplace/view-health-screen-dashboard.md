@@ -25,10 +25,10 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
 
     The Employee Health Screen Overview dashboard opens in a new browser tab.
 
-    ![Overview dashboard displays numbers of screenings performed, with breakdowns of employees denied access and the reasons for denial.](../image/health-entry-dashboard.png)
+    ![Overview dashboard displays numbers of screenings performed, with breakdowns of employees denied access and the reasons for denial.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/health-entry-dashboard.png)
 
     Click any area of a chart to see the corresponding records.
 
 
-**Parent Topic:**[Employee Health Screening](../concept/employee-health-screening.md)
+**Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/employee-health-screening.md)
 

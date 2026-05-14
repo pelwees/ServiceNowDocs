@@ -25,7 +25,7 @@ Use the CMDB Data Foundations dashboard to monitor foundational key health-relat
 
 ## Overview of CMDB Data Foundations dashboard
 
-![CMDB Data Foundations dashboard with compliant and non-compliant CIs.](../image/CMDB-DataFoundations-Xanadu.png)
+![CMDB Data Foundations dashboard with compliant and non-compliant CIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/CMDB-DataFoundations-Xanadu.png)
 
 The CMDB Data Foundations dashboard provides four tabs, each grouping a distinctive set of CMDB metrics:
 
@@ -64,7 +64,7 @@ Most metrics are associated with [Performance Analytics \(PA\) widgets](https://
 On the Analytics Hub page:
 
 -   Click the **Breakdowns** context menu to see any available breakdowns.
--   Ensure that the **Real-time** \(![Real-time](../image/RealTimeFoundationsDashboard.png)\) option is selected and then click **Show Records** to see a list view of the respective CIs.
+-   Ensure that the **Real-time** \(![Real-time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/RealTimeFoundationsDashboard.png)\) option is selected and then click **Show Records** to see a list view of the respective CIs.
 
 ## Best Practices metrics
 
@@ -101,7 +101,7 @@ The **Best Practices** tab contains the following metrics:
     -   **Aggregate limit**: 30 \(% of CIs in the metric\)
     -   **Fail count threshold**: 3
     -   **Runtime threshold**: 3,600
-    For more information about these columns, see Performance management in [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md).
+    For more information about these columns, see Performance management in [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 
 -   **Services with Owners**
 
@@ -203,7 +203,7 @@ The **Data Management Practices** tab contains the following metrics:
 
     -   **Fail count threshold**: 3
     -   **Runtime threshold**: 72,000 \(Daily limit of total runtime of all **CMDB Get Well CIs Processed Via IRE Metric Batch Collection** job runs\)
-    For this metric, there is no trigger for automatically setting the metric score to 0. For more information about these columns, see 'Performance management' in [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md).
+    For this metric, there is no trigger for automatically setting the metric score to 0. For more information about these columns, see 'Performance management' in [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 
 -   **CIs with Names**
 
@@ -234,7 +234,7 @@ The **Data Management Practices** tab contains the following metrics:
     -   **Aggregate limit**: 1,000
     -   **Fail count threshold**: 3
     -   **Runtime threshold**: 3,600
-    For more information about these columns, see Performance management in [Monitor health in CSDM and CMDB Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md).
+    For more information about these columns, see Performance management in [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 
 -   **Handled Duplicate CIs**
 
@@ -244,7 +244,7 @@ The **Data Management Practices** tab contains the following metrics:
     -   Status = installed
     -   Operational status = operational
     -   Duplicate\_of in not empty
-    Non-compliant CIs are counted as those CIs that satisfy all conditions. Non-compliant CIs are those Hardware \[cmdb\_ci\_hardware\] or Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] duplicate CIs that were not remediated. For more information, see [Duplicate CIs remediation](de-duplication-tasks.md).
+    Non-compliant CIs are counted as those CIs that satisfy all conditions. Non-compliant CIs are those Hardware \[cmdb\_ci\_hardware\] or Virtual Machine Instance \[cmdb\_ci\_vm\_instance\] duplicate CIs that were not remediated. For more information, see [Duplicate CIs remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md).
 
     The percentage score for this metric is calculated as follows:
 

@@ -17,17 +17,17 @@ To view this page, follow these steps:
 
 1.  Login as a user with the `sn_acct_lc.customer_success_agent` role.
 2.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workpace** and select the **List** icon.
-3.  Navigate to **Customer Success** &gt; **All Engagements** and select **Number** column to open the engagement record. You can also navigate to this page from the [Success portfolio dashboard](account-lifecycle-success-landing.md).
+3.  Navigate to **Customer Success** &gt; **All Engagements** and select **Number** column to open the engagement record. You can also navigate to this page from the [Success portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-landing.md).
 
 The following options are available:
 
 -   Discuss: Select **Discuss** to start a sidebar discussion about this engagement. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this engagement. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the **Activity stream**.
 -   Refresh Health: Select this option to update the health score for this engagement.
--   Create success play: See [Create a success play](../task/account-lifecycle-create-success-play.md)
--   Internal play: See [Create an internal play playbook](../task/account-lifecycle-create-internal-play-playbook.md).
--   Risk signal: See [Create a risk signal](../task/account-lifecycle-create-risk-signal.md).
--   Success case: See [Create a customer play](../task/account-lifecycle-create-success-case-playbook.md).
--   Touchpoint: See [Create a touchpoint](../task/account-lifecycle-create-touchpoint.md).
+-   Create success play: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-success-play.md)
+-   Internal play: See [Create an internal play playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-internal-play-playbook.md).
+-   Risk signal: See [Create a risk signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-risk-signal.md).
+-   Success case: See [Create a customer play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-success-case-playbook.md).
+-   Touchpoint: See [Create a touchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-touchpoint.md).
 
 The Engagement record page contains the following tabs:
 
@@ -38,7 +38,7 @@ The Engagement record page contains the following tabs:
 -   **Renewal and expansion**
 -   **Engagement hierarchy**
 
-![Engagement page.](../image/customer-success-engagement-related-item.png)
+![Engagement page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-engagement-related-item.png)
 
 ## Overview \(engagement\)
 
@@ -65,13 +65,13 @@ This tab provides a high-level overview of the engagement. It includes the follo
 
 In this tab, you can see the current health score and the health of the engagement over the last 12 weeks. This helps identify gaps and issues that need attention. Select **Refresh Health** to view the updated health score.
 
-![Engagement health score.](../image/account-lifecycle-engagement-health.png)
+![Engagement health score.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-engagement-health.png)
 
-In the Indicators section, you see the metrics used to calculate the health score for this engagement. See [Calculate the engagement health score](../task/account-lifecycle-setup-health-defn.md). For each metric, you’ll the target score, weight, and gap percentage. Select the **Sort by** option to sort the metrics listed by score, weight, and gap.
+In the Indicators section, you see the metrics used to calculate the health score for this engagement. See [Calculate the engagement health score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-health-defn.md). For each metric, you’ll the target score, weight, and gap percentage. Select the **Sort by** option to sort the metrics listed by score, weight, and gap.
 
 ## Success blueprint
 
-In this tab, you can view the success objectives associated with this engagement. You can view the high-level details of each success objective including Due date, Start date, Key contact, Assigned to, and Products. If the success blueprint hasn’t been defined, select **Create success blueprint**. See [Create a success blueprint](../task/account-lifecycle-create-blueprint.md) for instructions on creating a success blueprint. You can do the following:
+In this tab, you can view the success objectives associated with this engagement. You can view the high-level details of each success objective including Due date, Start date, Key contact, Assigned to, and Products. If the success blueprint hasn’t been defined, select **Create success blueprint**. See [Create a success blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-blueprint.md) for instructions on creating a success blueprint. You can do the following:
 
 -   Sort by: You can sort the list by Due date of the objectives.
 -   View by State: Select one of the states from the drop-down list. This can be:
@@ -81,20 +81,20 @@ In this tab, you can view the success objectives associated with this engagement
     -   Closed
     -   New
     -   Canceled
--   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the [Success objective record page](account-lifecycle-view-success-object.md).
+-   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the [Success objective record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-view-success-object.md).
 -   View initiative roadmap: Select this link to view the success initiative roadmap, which the engagement details including the current health, stage, and the next renewal date for the engagement.
 
-![success blueprint.](../image/customer-success-blueprint.png)
+![success blueprint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-blueprint.png)
 
 ## Product adoption
 
-In this tab, you can view the product adoption score for all applicable sold products associated with this engagement. The adoption score is determined using the calculated metrics that have been configured for the sold products. See [Define a calculated metric data source](../task/account-lifecycle-define-data-source-calculate.md) for more details.
+In this tab, you can view the product adoption score for all applicable sold products associated with this engagement. The adoption score is determined using the calculated metrics that have been configured for the sold products. See [Define a calculated metric data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-define-data-source-calculate.md) for more details.
 
 The following details are included:
 
 -   The chart displays product adoption scores across the past 12 weeks, broken down by week. By hovering over data points, you can view the quantity of products sold within each adoption category \(Low, Medium, High, and None\) for any given week.
 -   The pie chart shows a snapshot of current adoption score distribution as of today's date. Select Total products to drill down to view the Product Usage list. You can drill down to a specific product usage record.
--   Sold products: The list of sold products associated with this engagement is displayed. Select ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) to drill down to the [Product usage record](account-lifecycle-prod-cap-usage.md) page.
+-   Sold products: The list of sold products associated with this engagement is displayed. Select ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) to drill down to the [Product usage record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-prod-cap-usage.md) page.
     -   View by: You can filter the list displayed by:
         -   All
         -   Activated
@@ -107,16 +107,16 @@ The following details are included:
         -   Business criticality
         -   Activation status
 -   Product adoption roadmaps: The list of product adoption roadmaps that have been created for this engagement. You can do the following:
-    -   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the Product adoption roadmap page. See [View a product adoption roadmap](account-lifecycle-view-par-roadmap.md) for details.
-    -   Select **New product adoption roadmap** to create roadmap. See [Create a product adoption roadmap](../task/account-lifecycle-create-par-roadmap.md) for details.
+    -   Select the ![](../../../reuse/icons/product-icons/open-link-right-outline-24.svg) icon to drill down to the Product adoption roadmap page. See [View a product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-view-par-roadmap.md) for details.
+    -   Select **New product adoption roadmap** to create roadmap. See [Create a product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-par-roadmap.md) for details.
 
 ## Renewal and expansion
 
-In this tab, you can view a list of all active contracts associated with this engagement. You can view the high-level details of each contract and select the link to drill down to the Contract page. ![renewal expansion.](../image/customer-success-renewal-expansion.png)
+In this tab, you can view a list of all active contracts associated with this engagement. You can view the high-level details of each contract and select the link to drill down to the Contract page. ![renewal expansion.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-renewal-expansion.png)
 
 ## Engagement hierarchy
 
-![engagement hierarchy.](../image/engagement-hierarchy-overview.png)
+![engagement hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/engagement-hierarchy-overview.png)
 
 This tab provides an overview of customer's engagement health. This tab is a conditional tab by default isn’t visible. To view this tab, one child engagement must be available in the related engagement. It includes the following details:
 
@@ -131,7 +131,7 @@ Any hierarchy that forms a cycle isn’t a valid hierarchy.
 
 The customer timeline tracks and shows all the related activities of the engagement record. To support the application 23 activities are shipped out of box in the engagement record.
 
-![customer timeline.](../image/customer-timeline-engagement.png)
+![customer timeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-timeline-engagement.png)
 
 To configure the activities in the engagement record, see [Configure activity types for the Customer History view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-activity-types-ca.md).
 
@@ -229,10 +229,10 @@ The Record Information tab shows overview of the engagement record.
 The Customer timeline tab shows visual display of the Engagement records activities.
 
 </td></tr></tbody>
-</table>-   **[Success objective record page](account-lifecycle-view-success-object.md)**  
+</table>-   **[Success objective record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-view-success-object.md)**  
 This page provides a detailed view of the success objective and its related outcomes and initiatives as defined in the success blueprint.
--   **[Primary success outcome record page](account-lifecycle-view-sucess-outcome.md)**  
+-   **[Primary success outcome record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-view-sucess-outcome.md)**  
 A primary success outcome refers to the result or goal that is used to measure the achievement of a success objective.
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

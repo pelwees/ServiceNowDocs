@@ -39,5 +39,5 @@ Role required: Facilities\_admin \(create\), Facilities\_staff \(view\)
 5.  Click **Add**.
 
 
-**Parent Topic:**[Schedule blackout periods](../concept/c_ScheduleBlackout.md)
+**Parent Topic:**[Schedule blackout periods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_ScheduleBlackout.md)
 

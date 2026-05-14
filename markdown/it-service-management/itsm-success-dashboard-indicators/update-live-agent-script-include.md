@@ -57,8 +57,8 @@ The SSADeflectionHelper script overrides the check interaction function and help
         var interactionConditions = 'virtual_agent!=true^ORstateINon_hold,closed_abandoned^ORsys_created_by=system^ORopened_for.web_service_access_only!=false^opened_for.web_service_access_onlyISNOTEMPTY^ORopened_for.internal_integration_user!=false^opened_for.internal_integration_userISNOTEMPTY^assigned_to!=' + vaUser + '^ORassigned_to=NULL';
         ```
 
-    ![Live agent script include](../image/liveagent-script-include.png)
+    ![Live agent script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../image/liveagent-script-include.png)
 
 
-**Parent Topic:**[ITSM Success Dashboard Admin console](../concept/admin-console-sd.md)
+**Parent Topic:**[ITSM Success Dashboard Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/admin-console-sd.md)
 

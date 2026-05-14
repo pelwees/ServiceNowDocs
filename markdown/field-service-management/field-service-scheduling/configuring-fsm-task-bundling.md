@@ -19,13 +19,13 @@ Field Service Task Bundling enables dispatchers to create, assign, and manage wo
 
 ## Dynamic task bundling
 
-Admins can configure dynamic bundling policies and rules to bundle work order tasks automatically. For more information, see [Dynamic task bundling](dynamic-task-bundling.md).
+Admins can configure dynamic bundling policies and rules to bundle work order tasks automatically. For more information, see [Dynamic task bundling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-task-bundling.md).
 
 ## Activation
 
-For information about activating the Field Service Task Bundling plugin \(com.snc.fsm\_task\_bundle\), see [Activate Field Service Task Bundling](../task/activate-work-order-task-bundling.md).
+For information about activating the Field Service Task Bundling plugin \(com.snc.fsm\_task\_bundle\), see [Activate Field Service Task Bundling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/activate-work-order-task-bundling.md).
 
 ## Components
 
-For a detailed list of components added by Field Service Task Bundling, see [Field Service Task Bundling components](../reference/task-bundling-components.md).
+For a detailed list of components added by Field Service Task Bundling, see [Field Service Task Bundling components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/task-bundling-components.md).
 

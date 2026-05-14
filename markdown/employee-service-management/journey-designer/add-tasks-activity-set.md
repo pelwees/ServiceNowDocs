@@ -17,7 +17,7 @@ Add tasks to a Lifecycle Events activity set to personalize an employee’s jour
 
 ## Before you begin
 
-An administrator must enable team tasks before you can add tasks to an activity set from the Journey detail page. For more information about enabling this feature, see [Enable team tasks](enable-team-tasks.md).
+An administrator must enable team tasks before you can add tasks to an activity set from the Journey detail page. For more information about enabling this feature, see [Enable team tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/enable-team-tasks.md).
 
 Role required: manager \[sn\_jny.reader or sn\_jny.writer\]
 
@@ -132,5 +132,5 @@ Check box to specify whether the task is optional.
 8.  In the topic header widget, select **Republish** to publish the task and make it visible to the employee.
 
 
-**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](../concept/jny-working-with-journeys.md)
+**Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-working-with-journeys.md)
 

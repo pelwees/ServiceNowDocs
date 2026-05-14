@@ -27,14 +27,14 @@ The recommendations are provided as tiles on a panel on each library page. Visib
 
 The following pages describe the existing library recommendation types and the underlying artifacts.
 
--   **[Dashboard library recommendations](../reference/dashboard-library-recommendations.md)**  
+-   **[Dashboard library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/dashboard-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic dashboards.
--   **[Data visualization library recommendations](../reference/data-viz-library-recommendations.md)**  
+-   **[Data visualization library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-viz-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic data visualizations.
--   **[Indicator library recommendations](../reference/ind-library-recommendations.md)**  
+-   **[Indicator library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/ind-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic indicators.
--   **[Installed jobs, tables, and properties for Platform Analytics library recommendations](../reference/installed-tables-jobs-and-properties.md)**  
+-   **[Installed jobs, tables, and properties for Platform Analytics library recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/installed-tables-jobs-and-properties.md)**  
 Several types of components are installed with activation of the  plugin, including tables, properties, and scheduled jobs.
 
-**Parent Topic:**[Platform Analytics experience](par-workspace.md)
+**Parent Topic:**[Platform Analytics experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md)
 

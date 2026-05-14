@@ -41,7 +41,7 @@ Role required: sn\_communities.community\_user
 
 5.  If required, you can add a video to your reply.
 
-    1.  Click the **Insert Video** button \(![Insert video.](../images/insert-video-button.png)\)
+    1.  Click the **Insert Video** button \(![Insert video.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../images/insert-video-button.png)\)
 
     2.  Enter the video URL.
 
@@ -85,5 +85,5 @@ Role required: sn\_communities.community\_user
     If an accepted solution has infected attachments, an email notification is sent to the author, admins, and or moderators who must unmark the answer as the accepted solution. Author of the answer gets a notification to update the post.
 
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 

@@ -36,9 +36,9 @@ Package the resource block as an update set. Then export the update set from its
 
 2.  Export the resource block.
 
-    1.  Click the Export Resource block icon \(![Export resource block icon](../image/export-resource-block.png)\) for the resource block to export.
+    1.  Click the Export Resource block icon \(![Export resource block icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/export-resource-block.png)\) for the resource block to export.
 
-        ![Resource block exporter window](../image/export-resource-block-aws.png "Resource block exporter window")
+        ![Resource block exporter window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/export-resource-block-aws.png "Resource block exporter window")
 
     1.  In the Resource Block Exporter window, click an object in the Type column.
 
@@ -54,7 +54,7 @@ Package the resource block as an update set. Then export the update set from its
 
         The Resource Block Exporter window opens with the **Success** check box selected in green indicating that the resource block has been successfully exported along with all its dependencies. By default, all the files listed under Exported Update Set\(s\) get downloaded onto your system automatically.
 
-        ![Resource Block Exporter window](../image/resourceblock-export-success.png)
+        ![Resource Block Exporter window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/resourceblock-export-success.png)
 
         **Note:** The number of update sets created is based on the scope of records that are being exported. For example, assume the resource block that you are exporting has 100 records in all: 60 records are in scope one, 20 records are in scope two, and the remaining 20 records are in scope three. In such a scenario, three update sets are created. One update set for each scope.
 

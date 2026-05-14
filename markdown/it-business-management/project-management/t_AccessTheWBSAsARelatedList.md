@@ -21,7 +21,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can view the full WBS list by navigating to a Project form and selecting the **Planning Console** related link. See [Planning console tasks](../reference/r_PlanningConsoleTasks.md) for a list of the things you can do with the WBS on the planning console.
+You can view the full WBS list by navigating to a Project form and selecting the **Planning Console** related link. See [Planning console tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/r_PlanningConsoleTasks.md) for a list of the things you can do with the WBS on the planning console.
 
 You can also view the WBS as a related list on the Project or Project Task form.
 
@@ -33,15 +33,15 @@ You can also view the WBS as a related list on the Project or Project Task form.
 
     **WBS List** appears as a related list.
 
-3.  On the WBS, select the arrow icon \(![expand row icon](../image/WBSArrowIcon.png)\) to expand a task and view child tasks.
+3.  On the WBS, select the arrow icon \(![expand row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/WBSArrowIcon.png)\) to expand a task and view child tasks.
 
-    ![screenshot for Demo Project WBS](../image/DemoProjectWBS.png "Demo Project WBS")
+    ![screenshot for Demo Project WBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/DemoProjectWBS.png "Demo Project WBS")
 
 
-**Parent Topic:**[Using Work breakdown structure \(WBS\) - Legacy](../concept/c_WorkBreakdownStructure.md)
+**Parent Topic:**[Using Work breakdown structure \(WBS\) - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_WorkBreakdownStructure.md)
 
 **Related topics**  
 
 
-[Using Work breakdown structure \(WBS\) - Legacy](../concept/c_WorkBreakdownStructure.md)
+[Using Work breakdown structure \(WBS\) - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_WorkBreakdownStructure.md)
 

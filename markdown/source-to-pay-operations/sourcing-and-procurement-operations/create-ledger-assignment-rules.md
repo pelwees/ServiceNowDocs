@@ -159,5 +159,5 @@ Ledger account to post the purchase expenses of this product after the purchase 
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Ledger assignment rules](../concept/ledger-assignment-rules.md)
+**Parent Topic:**[Ledger assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/ledger-assignment-rules.md)
 

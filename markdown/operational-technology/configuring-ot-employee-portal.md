@@ -26,12 +26,12 @@ Configure the Employee Center for Operational Technology \(OT\) so that you and 
 
     Install and configure the Operational Technology Incident Management application needed to use the **Report an incident** request.
 
-    For more information about installing and configuring the application, see [Configuring Operational Technology Incident Management](../../mftg-manufacturing-ot-service-mgt/concept/configuring-operational-technology-incident-mgt.md).
+    For more information about installing and configuring the application, see [Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../mftg-manufacturing-ot-service-mgt/concept/configuring-operational-technology-incident-mgt.md).
 
 3.  Add more connected content to the Employee Center for OT.
 
     You can optionally add content to the Industrial services topic page as needed for your organization. For more information about how to add content in the Employee Center, see [Add menu items to primary navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-menu-items.md).
 
 
-**Parent Topic:**[Employee Center for OT](ot-employee-portal-landing.md)
+**Parent Topic:**[Employee Center for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-employee-portal-landing.md)
 

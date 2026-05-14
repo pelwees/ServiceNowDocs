@@ -19,7 +19,7 @@ Role required: import\_admin, sn\_crm\_foundation\_admin, and csm\_guided\_setup
 
 ## About this task
 
-After importing customer account data, you must also [set the account code system property](../reference/set-csm-account-code-property.md).
+After importing customer account data, you must also [set the account code system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/set-csm-account-code-property.md).
 
 ## Procedure
 

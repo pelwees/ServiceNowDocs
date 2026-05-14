@@ -31,7 +31,7 @@ The Patient Support Services application uses the data model provided by the Hea
 
 ## Patient Support Services workflow
 
-![Workflow of the Patient Support Services application.](../image/hcls-pss-workflow.png)
+![Workflow of the Patient Support Services application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hcls-pss-workflow.png)
 
 In the Patient Support Services workflow:
 
@@ -63,7 +63,7 @@ Manage enrollment requests and complete to-do items, such as training tasks.
 
 </td><td>
 
-[Manage enrollment requests in Workspace](pss-using-workspace.md)
+[Manage enrollment requests in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-using-workspace.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Book appointments for support programs and complete to-do items assigned to you 
 
 </td><td>
 
-[Complete to-do items for Patient Support Services](pss-complete-to-do.md)
+[Complete to-do items for Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-complete-to-do.md)
 
 </td><td>
 
@@ -87,12 +87,12 @@ Book appointments for enrollment training requests.
 
 </td><td>
 
-[Booking appointments for Patient Support Services](pss-booking-appt-patient.md)
+[Booking appointments for Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-booking-appt-patient.md)
 
 </td><td>
 
 Care Coordinator
 
 </td></tr></tbody>
-</table>To get started with the Patient Support Services application, see [Configuring Patient Support Services](pss-config-app.md).
+</table>To get started with the Patient Support Services application, see [Configuring Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-app.md).
 

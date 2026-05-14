@@ -17,5 +17,5 @@ Agent Client Collector provides policies for URL Monitoring. Polices come with e
 
 URL Monitoring uses the HTTP Entry Point default policies. For details, see [HTTP default checks and policies](http-default-checks-policies.md).
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

@@ -35,11 +35,11 @@ Role required: admin
 
 ## Result
 
-When message preview is activated, and the chat window is minimized, the end user sees a message preview badge icon ![Message preview badge icon.](../image/message-preview-icon-web-client.png) in the minimized chat window. The message preview badge icon lets the user know that there are new or unread messages, and how many. In this example, the end user has one new or unread message.
+When message preview is activated, and the chat window is minimized, the end user sees a message preview badge icon ![Message preview badge icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../image/message-preview-icon-web-client.png) in the minimized chat window. The message preview badge icon lets the user know that there are new or unread messages, and how many. In this example, the end user has one new or unread message.
 
 A message preview pane shows the first new or unread message next to the badge icon. The message is based the conversation. For example, if the user needed help with using the laptop, the message preview pane could be similar to the following image.
 
-![Message preview pane with number of unread messages displaying next to preview badge icon.](../image/message-preview-icon-text.png)
+![Message preview pane with number of unread messages displaying next to preview badge icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../image/message-preview-icon-text.png)
 
 The end user can either:
 
@@ -48,5 +48,5 @@ The end user can either:
 
 The badge icon appears only when there are new or unread messages. The badge icon is updated every 10 seconds, and displays the first new or unread message.
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/ci-configuring-chat-features.md)
 

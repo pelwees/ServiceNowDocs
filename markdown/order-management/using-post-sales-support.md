@@ -15,7 +15,7 @@ Learn how consumers, managers, agents, and administrators use the Customer Contr
 
 Customer contracts, customer contract lines, and entitlements can be created in the following ways:
 
--   Via workflows: You can create customer contracts, customer contract lines, and entitlements by using the contracts and entitlements workflow. For more information, see [Creating contracts and entitlements using workflows](create-cont-ent-workflows-csm.md).
+-   Via workflows: You can create customer contracts, customer contract lines, and entitlements by using the contracts and entitlements workflow. For more information, see [Creating contracts and entitlements using workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     **Note:** When a customer contract line or entitlement is created via the Sales Customer Relationship Management workflow, the account/consumer/household details are copied from the sold product and it inherits the state of the sold product. Further, when the state of the contract line changes, the same state is synced back to the parent sold product.
 
@@ -26,14 +26,14 @@ Customer contracts, customer contract lines, and entitlements can be created in 
 You can perform the following features using Customer Contracts and Entitlements Workflows:
 
 -   Standard renewals: A standard renewal occurs when a contract is renewed on schedule. The system creates a new contract with the existing contract lines, entitlements, and child records, with the new term starting immediately after the original contract ends. There is no pricing adjustments that are needed beyond the agreed renewal terms.
--   Non-standard renewals: A non-standard renewal occurs when a contract is renewed outside of the renewal cycle. This covers three scenarios: an early renewal, a late renewal, and a short-term renewal. For more info, see [Renew a customer contract line](../task/cce-renew-service-contract-line.md).
--   Consolidation of Contracts: You can merge multiple contracts for the same account into a single contract. Use contract consolidation during renewal to align contract terms and combine subscriptions into one contract. For more info, see [Renew a customer contract line](../task/cce-renew-service-contract-line.md).
+-   Non-standard renewals: A non-standard renewal occurs when a contract is renewed outside of the renewal cycle. This covers three scenarios: an early renewal, a late renewal, and a short-term renewal. For more info, see [Renew a customer contract line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cce-renew-service-contract-line.md).
+-   Consolidation of Contracts: You can merge multiple contracts for the same account into a single contract. Use contract consolidation during renewal to align contract terms and combine subscriptions into one contract. For more info, see [Renew a customer contract line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cce-renew-service-contract-line.md).
 -   Upsell or Downsell: You can add or reduce the quantity to an existing contract during its term.
 
--   **[Add a sold product or install base item to a customer contract](../task/add-products-service-contract.md)**  
+-   **[Add a sold product or install base item to a customer contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/add-products-service-contract.md)**  
 Add the sold products or the install base items covered to customer contracts, contract lines, or entitlements.
--   **[Record the usage on the entitlement](../task/record-usage-entitlement.md)**  
+-   **[Record the usage on the entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/record-usage-entitlement.md)**  
 Record the consumption or usages made out of the total characteristic quantities allotted for an entitlement.
 
-**Parent Topic:**[Using configure, price, quote applications](../../tmt-order-mgt/concept/using-cpq.md)
+**Parent Topic:**[Using configure, price, quote applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../../tmt-order-mgt/concept/using-cpq.md)
 

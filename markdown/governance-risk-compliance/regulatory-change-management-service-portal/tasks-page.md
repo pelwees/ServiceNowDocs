@@ -72,5 +72,5 @@ The Tasks page helps you manage duties efficiently, ensuring proactive complianc
 
 The following image shows the Tasks page in the Compliance Workspace.
 
-![Tasks page in the Compliance workspace.](../image/rcm-tasks-page-compliance-ws.png "Tasks page")
+![Tasks page in the Compliance workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/rcm-tasks-page-compliance-ws.png "Tasks page")
 

@@ -33,10 +33,10 @@ Role required: sn\_hr\_le\_ent.admin
 
     **Note:** The default value is the sys id of the **Assign business roles to new hire** catalog item that is included as part of the demo data for the lifecycle event for new hire onboarding.
 
-    ![Add the sys id of the catalog item that will be used to assign business roles as part of a lifecycle event.](../image/business-roles-system-property.png)
+    ![Add the sys id of the catalog item that will be used to assign business roles as part of a lifecycle event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../image/business-roles-system-property.png)
 
 4.  Click **Update**.
 
 
-**Parent Topic:**[Business roles](../concept/business-roles.md)
+**Parent Topic:**[Business roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../concept/business-roles.md)
 

@@ -21,7 +21,7 @@ Roles required:
 
 ## About this task
 
-If the CI changes after reapplying the CI lookup rules, the discovered items are updated with the new CI and test results. For more information, see [CI changes for discovered items for Configuration Compliance](../concept/reapply-discovered-items-ci-changes-cc.md).
+If the CI changes after reapplying the CI lookup rules, the discovered items are updated with the new CI and test results. For more information, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/reapply-discovered-items-ci-changes-cc.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ If the CI changes after reapplying the CI lookup rules, the discovered items are
 
 2.  Select the required discovered items and click **Action on selected rows**.
 
-    ![Reapply CI lookup rules on DIs](../image/reapply-action-di-cc.png)
+    ![Reapply CI lookup rules on DIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/reapply-action-di-cc.png)
 
 3.  Select **Reapply CI lookup rules** from the list.
 

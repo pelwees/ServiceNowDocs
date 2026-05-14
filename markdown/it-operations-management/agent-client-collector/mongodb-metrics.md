@@ -110,5 +110,5 @@ The following table lists the metrics that are gathered as output from MongoDB c
 |mongodb.opcountersRepl.query \(featured metric\)| |count|Total number of replicated queries since the mongod instance last started.|
 |mongodb.opcountersRepl.update| |count|Total number of replicated update operations since the mongod instance last started.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

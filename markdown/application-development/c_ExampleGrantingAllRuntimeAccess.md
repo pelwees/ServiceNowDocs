@@ -24,11 +24,11 @@ Granting access requires setting the following values in the table record.
 |**Can delete**|Enabled|
 |**Allow access to this table via web services**|Enabled|
 
-![Granting other application scopes all runtime access permissions](../image/GrantingAllRuntimeAccess.png "Granting other application scopes all runtime access permissions")
+![Granting other application scopes all runtime access permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/GrantingAllRuntimeAccess.png "Granting other application scopes all runtime access permissions")
 
 The following diagram illustrates the effect of granting access to application tables from API calls and web services in other application scopes.
 
-![Granted access to application tables](../image/EffectsOfGrantAllRuntimeAccess.png "Granted access to application tables")
+![Granted access to application tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/EffectsOfGrantAllRuntimeAccess.png "Granted access to application tables")
 
-**Parent Topic:**[Runtime access to applications tables](c_RuntimeAccessToAppTables.md)
+**Parent Topic:**[Runtime access to applications tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_RuntimeAccessToAppTables.md)
 

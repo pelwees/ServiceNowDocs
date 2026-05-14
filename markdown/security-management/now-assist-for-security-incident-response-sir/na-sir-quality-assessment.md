@@ -18,5 +18,5 @@ Use generative AI to create a quality assessment report of a security incident. 
 
 Use the Security Incident Quality Assessment skill to generate an assessment report of a security incident based on the predefined rules. The quality assessment rules are written in natural language and consider the context within a security incident in the Security Incident Response Workspace.
 
-Security Incident Quality Assessment report in Now Assist for Security Incident Response. ![Security Incident Quality Analysis report.](../image/na-quality-report.png)
+Security Incident Quality Assessment report in Now Assist for Security Incident Response. ![Security Incident Quality Analysis report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/na-quality-report.png)
 

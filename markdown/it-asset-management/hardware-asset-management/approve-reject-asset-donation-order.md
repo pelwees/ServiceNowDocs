@@ -36,14 +36,14 @@ Role required: asset
         The **State** of the order changes to **Rejected**.
 
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 
 
-[Create an Asset Donation Order](create-asset-donation-order.md)
+[Create an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-donation-order.md)
 
-[Process an Asset Donation Order](process-asset-donation-order.md)
+[Process an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-asset-donation-order.md)
 
-[Add a charity organization for donating assets](add-charity-org.md)
+[Add a charity organization for donating assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-charity-org.md)
 

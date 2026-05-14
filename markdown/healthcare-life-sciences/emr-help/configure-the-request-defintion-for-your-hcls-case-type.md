@@ -44,5 +44,5 @@ You have configured the HCLS Case request definition to support your healthcare 
 
 ## What to do next
 
-[Configure the healthcare record page to support your custom healthcare case type](configure-the-workspace-healthcare-page.md).
+[Configure the healthcare record page to support your custom healthcare case type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-workspace-healthcare-page.md).
 

@@ -34,16 +34,16 @@ By default, text searches don't use text index synonyms.
 
 Text searches use active synonym dictionaries to expand keyword searches.
 
-**Parent Topic:**[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+**Parent Topic:**[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-synonyms-expand-results.md)
 
 **Related topics**  
 
 
-[Create synonym dictionaries](create-synonym-dictionaries.md)
+[Create synonym dictionaries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-synonym-dictionaries.md)
 
-[Select synonym dictionaries for a table](select-synonym-dictionaries.md)
+[Select synonym dictionaries for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/select-synonym-dictionaries.md)
 
-[Disable synonyms for a table](disable-synonyms-for-a-table.md)
+[Disable synonyms for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/disable-synonyms-for-a-table.md)
 
-[Debug synonym searches](debug-synonym-searches.md)
+[Debug synonym searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/debug-synonym-searches.md)
 

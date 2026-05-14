@@ -32,25 +32,25 @@ Time to complete this task: 5-10 minutes.
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-P-C-app.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-login-P-C-app.md).
 
 2.  With the Policy and Compliance landing screen displayed, tap **Policy Exceptions**.
 
     If you navigate away from the GRC Mobile application after you have logged in, tap the Now Agent app at any time to return to the last screen you had displayed.
 
-    ![Policy Exceptions applet highlighted.](../image/mobile_Policy_and_Compliance_overview-app_rd.png)
+    ![Policy Exceptions applet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile_Policy_and_Compliance_overview-app_rd.png)
 
     The Policy Exceptions screen is displayed with a list of records.
 
-    ![Policy Exceptions list.](../image/mobile-exception-list.jpg)
+    ![Policy Exceptions list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-exception-list.jpg)
 
-3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](mobile-pc-set-filters.md) to search for records that match specific search criteria.
+3.  If you want to reduce the number of records that are displayed on the screen, see [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-pc-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
 4.  To edit, approve or reject, or request more information about a policy exception directly from the list of records displayed on the screen, swipe left on a record to open the menu.
 
-    ![Policy Exception swipe action.](../image/mobile-policy-exception-swip.png)
+    ![Policy Exception swipe action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-policy-exception-swip.png)
 
 5.  On the menu that is displayed, choose one from the following table to continue.
 
@@ -64,13 +64,13 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d282031e187">
 
-**Tap the menu icon \(![Swipe menu icon.](../../grc-common/image/mobile-top-menu-rotated.png)\)**
+**Tap the menu icon \(![Swipe menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu-rotated.png)\)**
 
 </td><td>
 
 From the fields that are displayed, choose one to continue.-   Tap **Request more information**.
 
-In the Additional comments field, enter a comment to the user who requested the policy exception request. Your request is sent to the originator of the exception request and the extension number is included with your comment. Tap the send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to submit your request.
+In the Additional comments field, enter a comment to the user who requested the policy exception request. Your request is sent to the originator of the exception request and the extension number is included with your comment. Tap the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to submit your request.
 
 After your request is sent, the option to request more information is no longer available from the menu until the requester provides the information and requests approval once again. If available, tap the **Activity Stream** tab on the policy exception record and refer to the work notes for the audit trail.
 
@@ -78,7 +78,7 @@ After your request is sent, the option to request more information is no longer 
 
 **Note:** Only users from your approval group are available for the Approver field.
 
-Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 -   Cancel the operation and return to the exception record list.
 
@@ -89,7 +89,7 @@ Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_d
 
 </td><td>
 
-In the Additional comments field, enter comments. Comments are optional for approvals. Tap the calendar icon to edit the Valid to date. Tap **OK** followed by the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+In the Additional comments field, enter comments. Comments are optional for approvals. Tap the calendar icon to edit the Valid to date. Tap **OK** followed by the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr><tr><td id="d282031e272">
 
@@ -97,12 +97,12 @@ In the Additional comments field, enter comments. Comments are optional for appr
 
 </td><td>
 
-In the Additional comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+In the Additional comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr></tbody>
 </table>6.  To approve or reject a policy exception extension request directly from the list of records displayed on the Policy Exceptions screen after you have requested more information, swipe left on a record to open the menu.
 
-    ![Swipe menu on exception extension request.](../image/mobile-policy-ext-except-menu.png)
+    ![Swipe menu on exception extension request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-policy-ext-except-menu.png)
 
 7.  On the menu for policy extension that is displayed, choose one to continue.
 
@@ -120,7 +120,7 @@ Description
 
 </td><td>
 
-In the Additional comments field, enter comments. Comments are optional for approvals.In the Requested extension field, tap the calendar icon to edit the date. Tap **OK** followed by the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+In the Additional comments field, enter comments. Comments are optional for approvals.In the Requested extension field, tap the calendar icon to edit the date. Tap **OK** followed by the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr><tr><td id="d282031e351">
 
@@ -128,14 +128,14 @@ In the Additional comments field, enter comments. Comments are optional for appr
 
 </td><td>
 
-In the Additional comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+In the Additional comments field, enter comments. Comments are required for rejections. Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr></tbody>
 </table>8.  Alternatively, with the Policy Exceptions screen displayed, tap a record on the list to open it and review more details.
 
     With the fields on the record displayed, choose one in the following table to continue.
 
-    ![Policy Exception record details.](../image/mobile-exception-record.png)
+    ![Policy Exception record details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-exception-record.png)
 
 <table id="choicetable_zfb_gdt_xhb"><thead><tr><th align="left" id="d282031e393">
 
@@ -157,7 +157,7 @@ If displayed, tap the **Policy** field to display a list of policies and tap an 
 
 Tap the **Control Objective** field to display a list of control objectives. Tap an item on the list to open the record.
 
--   At the top right of the screen, tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit it and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
+-   At the top right of the screen, tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit it and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
 
 
 </td></tr><tr><td id="d282031e437">
@@ -166,8 +166,8 @@ Tap the **Control Objective** field to display a list of control objectives. Tap
 
 </td><td>
 
-With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon ![Plus icon.](../../grc-common/image/mobile_instances_plus.png) to add a work note or attach a file.
--   At the top right of the screen, tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
+With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon ![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_plus.png) to add a work note or attach a file.
+-   At the top right of the screen, tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
 
 
 </td></tr><tr><td id="d282031e467">
@@ -180,7 +180,7 @@ With the Related lists tab selected, follow these steps.
 
  1.  Tap **Impacted Controls** to view the items on the Impacted Controls related list.
 2.  On the list that is displayed, tap an item to open the record and view more details.
- At the top right of the screen, tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
+ At the top right of the screen, tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu.png)\). Approve or reject the pending policy exception request, or edit and request more information. Follow the steps described in the preceding table. If the extension request menu is displayed, follow the steps described in the preceding table to approve or reject the extension request.
 
 </td></tr><tr><td id="d282031e500">
 
@@ -197,5 +197,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Policy and Compl
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/mobile-policy_compliance-ovrvw.md)
 

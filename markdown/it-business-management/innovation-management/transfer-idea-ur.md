@@ -39,7 +39,7 @@ When an idea is transferred to another department, the idea is closed and a new 
 
 2.  Select the title of an idea to view its details.
 
-3.  Select the more options icon \(![More options icon](../image/more-options-icon.png)\), and then select the **Open in platform** option to open the idea in the form view.
+3.  Select the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../image/more-options-icon.png)\), and then select the **Open in platform** option to open the idea in the form view.
 
 4.  Select **Transfer**.
 
@@ -62,5 +62,5 @@ When an idea is transferred to another department, the idea is closed and a new 
 
 The idea is transferred to the selected department. The **Primary Ticket** field of the parent universal request is updated with the INC, HRC, or custom task number created as a result of the transfer.
 
-**Parent Topic:**[Integrating Innovation Management with Universal Request](../concept/universal-req-idea-mgmt.md)
+**Parent Topic:**[Integrating Innovation Management with Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../concept/universal-req-idea-mgmt.md)
 

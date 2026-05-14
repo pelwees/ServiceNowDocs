@@ -14,12 +14,12 @@ The ServiceNow® Intelligence for Customer Service Management \(CSM\) applicatio
 
 ## Intelligence for CSM highlights for the Australia release
 
-[Australia Patch 2](../quality/australia-patch-2.md)
+[Australia Patch 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-2.md)
 
 -   Automatically evaluate post-interaction customer conversations using AI models that score against a configurable quality rubric, eliminating manual effort.
 -   Receive intelligent email reply recommendations on extended table record pages in Now Assist for CSM, helping agents respond faster with less manual effort.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 -   Availability of filter controls in Now Assist Guardian for Now Assist for CSM.
 -   Availability of AI Workflow tab in Core UI.
@@ -127,7 +127,7 @@ ServiceNow workspaces don’t support mobile devices, Internet Explorer, or Micr
 
     Provide the service and support that your external customers need with Customer Service Management.
 
--   **[Now Assist for CSM](../analytics-intelligence-reporting/now-assist-rn.md)**
+-   **[Now Assist for CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../analytics-intelligence-reporting/now-assist-rn.md)**
 
     Summarize customer chat conversations on interactions, summarize case details, and generate case resolution notes with the ServiceNow® Now Assist for CSM application.
 
@@ -140,5 +140,5 @@ ServiceNow workspaces don’t support mobile devices, Internet Explorer, or Micr
     Improve processes across the platform, such as automatically populating fields when a case is created, categorizing and routing work, and suggesting case resolutions through Predictive Intelligence AI.
 
 
-**Parent Topic:**[Customer Service Management release notes](customer-service-mgmt-rn-landing.md)
+**Parent Topic:**[Customer Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/customer-service-mgmt-rn-landing.md)
 

@@ -45,5 +45,5 @@ Each task requires the moderator to approve or reject the reported item. If the 
     **Note:** You can review the outcome of existing and past moderation tasks by navigating to **Community** &gt; **Moderation** &gt; **Moderation Outcomes**. Click a task to view the details of the moderation task.
 
 
-**Parent Topic:**[Moderate a community](moderate-communities.md)
+**Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 

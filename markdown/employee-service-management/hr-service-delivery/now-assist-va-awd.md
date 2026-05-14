@@ -19,7 +19,7 @@ You can use the Now Assist Virtual Agent topics in Employee Center to place requ
 
 To access and use the Virtual Agent topics, verify the following:
 
--   [Configure Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](../task/config-awd-va.md).
+-   [Configure Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/config-awd-va.md).
 -   Have one of the following roles: admin, sn\_hr\_sp.hrsp\_alumni, sn\_hr\_sp.hrsp\_contingent, sn\_hr\_sp.hrsp\_employee, sn\_hr\_sp.hrsp\_contractor, or sn\_hr\_sp.admin
 
 ## Available Spoke Subflows for Virtual Agent topics for HR Service Delivery Advanced Integration with Workday
@@ -173,7 +173,7 @@ Workday HR - Lookup Worker Profile
 
 The Lookup Worker Profile Virtual Agent topic enables you to view the profile of a coworker. From Employee Center, open a chat window and type in key words, for example, worker profile. After you have specified the details of coworkers, worker profile details of one or more users are displayed.
 
-![Lookup Profile 1](../image/awd-lookup-1.png) ![Lookup Profile 2](../image/awd-lookup-2.png)
+![Lookup Profile 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-lookup-1.png) ![Lookup Profile 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-lookup-2.png)
 
 ## Update Personal Details
 
@@ -189,44 +189,44 @@ You can update personal details in Virtual Agent using one of the following topi
 
 The Get User Paychecks Virtual Agent topic enables you to view your payslip details. From Employee Center, open a chat window and type in key words, for example, get payslips. After you provide the required details such as start date and end date, your payslip summary, in the form of pay period, gross pay, deductions, and net pay are displayed. A detailed breakdown of deductions is also displayed.
 
-![User Paychecks](../image/awd-paycheck.png)
+![User Paychecks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-paycheck.png)
 
 ## Get Total Rewards
 
 The Get Total Rewards Virtual Agent topic enables you to view your rewards. From Employee Center, open a chat window and type in key words, for example, rewards.
 
-![Total Rewards](../image/awd-total-rewards.png)
+![Total Rewards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-total-rewards.png)
 
 ## Get Time Off Balance
 
 The Get Time Off Balance Virtual Agent topic enables you to view your leave balance. From Employee Center, open a chat window and type in key words, for example, leave balance.
 
-![TimeOff Balance](../image/awd-timeoff-balance.png)
+![TimeOff Balance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-timeoff-balance.png)
 
 ## Request Time Off
 
 The Request Timeoff Virtual Agent topic enables you to apply for leaves. From Employee Center, open a chat window and type in key words, for example, request time off. After you have specified required details such as start date and end date, the time off request is sent to the Workday system.
 
-![TimeOff 1](../image/awd-request-timeoff1.png) ![TimeOff 2](../image/awd-request-timeoff2.png)
+![TimeOff 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-request-timeoff1.png) ![TimeOff 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-request-timeoff2.png)
 
 ## Get Holiday Calendar
 
 The Get Holiday Calendar Virtual Agent topic enables you to view your holiday calendar. From Employee Center, open a chat window and type in key words, for example, holiday calendar. After specifying the calendar year, the holiday calendar appears in the chat.
 
-![Holiday Calendar 1](../image/awd-calendar1.png) ![Holiday Calendar 2](../image/awd-calendar2.png)
+![Holiday Calendar 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-calendar1.png) ![Holiday Calendar 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/awd-calendar2.png)
 
-**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](using-hr-service-delivery-advanced-integration-with-workday.md)
+**Parent Topic:**[Using HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-hr-service-delivery-advanced-integration-with-workday.md)
 
 **Related topics**  
 
 
-[Time off request to Workday](w-timeoff.md)
+[Time off request to Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-timeoff.md)
 
-[Change legal name through Virtual Agent](../task/change-legal-na-awd.md)
+[Change legal name through Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/change-legal-na-awd.md)
 
-[Publish the VA topic template for legal name change](../task/nlu-awd.md)
+[Publish the VA topic template for legal name change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/nlu-awd.md)
 
-[Report an issue with your payslip](../task/payslips-awd.md)
+[Report an issue with your payslip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/payslips-awd.md)
 
-[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](conversational-agents-wd.md)
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/conversational-agents-wd.md)
 

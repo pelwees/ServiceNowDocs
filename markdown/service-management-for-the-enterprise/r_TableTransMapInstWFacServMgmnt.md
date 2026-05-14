@@ -20,5 +20,5 @@ Facilities Service Management adds the following table transform maps.
 |Facilities level transform map|Helps the user quickly populate floor \(level\) data.|
 |Facilities transform map|Helps the user quickly populate space data, including associated users.|
 
-**Parent Topic:**[Installed with Facilities Service Management](r_InstallWFacServMgmnt.md)
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 

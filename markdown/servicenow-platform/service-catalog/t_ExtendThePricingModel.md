@@ -26,5 +26,5 @@ Role required: admin
 2.  Edit the CatalogPriceCalculator script to customize the item price and the CatalogRecurringPriceCalculator script to customize the recurring price.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogCustomization.md)
 

@@ -30,23 +30,23 @@ The **Security Incident Response - Create Lookup Request for IoC Changes** workf
 The Flow Designer actions include:
 
 -   Audit Log Enrichment
--   [Create IoC Lookup Request activity](../reference/r_CreateMalwareScanRequest.md)
+-   [Create IoC Lookup Request activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/r_CreateMalwareScanRequest.md)
 
-![Security Incident Response - Create Lookup Request for IoC Changes workflow diagram](../image/ScanRequest4IoChangesWorkflow.png "IoC Changes workflow")
+![Security Incident Response - Create Lookup Request for IoC Changes workflow diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ScanRequest4IoChangesWorkflow.png "IoC Changes workflow")
 
--   **[Create IoC Lookup Request activity](../reference/r_CreateMalwareScanRequest.md)**  
+-   **[Create IoC Lookup Request activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/r_CreateMalwareScanRequest.md)**  
 The **Create IoC Lookup Request** activity can be used with any workflow to create a malware lookup request for added or modified IoC fields.
 
-**Parent Topic:**[Security Incident Response Orchestration workflows and activities](../concept/sec-inc-resp-orchestration-workflows.md)
+**Parent Topic:**[Security Incident Response Orchestration workflows and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/sec-inc-resp-orchestration-workflows.md)
 
 **Related topics**  
 
 
-[Security Incident Response- Get Network Statistics flow](obtain-network-statistics-workflow.md)
+[Security Incident Response- Get Network Statistics flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/obtain-network-statistics-workflow.md)
 
-[Security Incident Response - Get Running Services workflow](get-running-services-workflow.md)
+[Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-workflow.md)
 
-[Run procdump flow](../concept/invoke_procdump.md)
+[Run procdump flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/invoke_procdump.md)
 
-[Security Incident - Evaluate response task outcome workflow](si-evaluate-response-task-outcome-workflow.md)
+[Security Incident - Evaluate response task outcome workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-evaluate-response-task-outcome-workflow.md)
 

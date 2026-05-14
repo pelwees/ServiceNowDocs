@@ -22,7 +22,7 @@ The analyze Service Observability dashboard skill uses generative AI to summariz
 
 When you ask the skill to analyze a dashboard, it generates an optimized version of the Service Observability charts on the dashboard and then analyzes the data, taking the time period shown into account. It then reports any insights it finds.
 
-![The skill found two insights on the Service dashboard](../image/so_NADashboard.png)
+![The skill found two insights on the Service dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../image/so_NADashboard.png)
 
 The skill's results remain available for an hour and don't automatically refresh. You need to rerun the skill to view a new analysis.
 
@@ -34,7 +34,7 @@ Note the following:
 
 ## Before you begin
 
-You need to manually activate this skill before it can be used. See [Activate the analyze Service Observability dashboard skill](../task/activate-the-analyze-service-observability-dashboard-skill.md) for more information.
+You need to manually activate this skill before it can be used. See [Activate the analyze Service Observability dashboard skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../task/activate-the-analyze-service-observability-dashboard-skill.md) for more information.
 
 Role required: admin, operator
 
@@ -50,7 +50,7 @@ Role required: admin, operator
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../../service-observability/reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/../../service-observability/reference/chart-error-states.md).
 
 2.  To the right of the dashboard name, select **Analyze dashboard**.
 
@@ -70,5 +70,5 @@ Role required: admin, operator
     **Note:** Select the **Copy** icon to copy the analysis, for example to paste it into work notes for an incident or alert.
 
 
-**Parent Topic:**[Use generative AI in Now Assist for ITOM](now-assist-itom-use.md)
+**Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 

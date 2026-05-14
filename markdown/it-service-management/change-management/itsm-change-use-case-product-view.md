@@ -91,16 +91,16 @@ References the Group attribute.**Note:** You can populate the Group attribute by
 </td></tr></tbody>
 </table>## For more information
 
-For additional details on Change Management, see [Change Management](c_ITILChangeManagement.md).
+For additional details on Change Management, see [Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md).
 
 [See the video: How Change Management leverages the CSDM](https://www.youtube.com/watch?v=3iCxTeU4ZTA&list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK&index=43)
 
--   **[Change Management and CSDM tables](../reference/itsm-change-use-case.md)**  
+-   **[Change Management and CSDM tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../reference/itsm-change-use-case.md)**  
 Change Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Change Management.
--   **[Change Management use case](itsm-change-use-case-example.md)**  
+-   **[Change Management use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/itsm-change-use-case-example.md)**  
 For ITSM, specifically incident and change, identifying the location of critical data can help reduce mean time to resolve incidents and eliminate outages caused by change.
--   **[Change Management considerations](itsm-change-use-case-trouble.md)**  
+-   **[Change Management considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/itsm-change-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.
 
-**Parent Topic:**[Configuring Change Management](configure-change-management.md)
+**Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 

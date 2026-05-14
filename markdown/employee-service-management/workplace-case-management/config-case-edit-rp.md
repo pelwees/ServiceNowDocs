@@ -21,9 +21,9 @@ To configure the edit functionality of a record producer, follow the steps in th
 
 ## Creating a record producer
 
-You must first create a record producer on the Workplace Case or Workplace Case Extension tables, then map it to the **Record Producer** field of a Workplace Service. For more information about creating a record producer, see [Configure a Record producer](../task/wsd-create-record-producer.md).
+You must first create a record producer on the Workplace Case or Workplace Case Extension tables, then map it to the **Record Producer** field of a Workplace Service. For more information about creating a record producer, see [Configure a Record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-create-record-producer.md).
 
-If you want to integrate the record producer with Workplace Reservation Management, see [Configuring a record producer for reservation](config-reservation-rp.md).
+If you want to integrate the record producer with Workplace Reservation Management, see [Configuring a record producer for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/config-reservation-rp.md).
 
 ## Enabling the edit functionality
 
@@ -31,7 +31,7 @@ You can enable the button by selecting `Case` or `Case and Reservation` in the *
 
 When the **Allow request modifications** option is enabled on a workplace service, users see the **Edit request** action in the request summary page for all the record producers associated with that service.
 
-For more information about the fields of a workplace service, see [Workplace Service form](../reference/workplace-service-form.md).
+For more information about the fields of a workplace service, see [Workplace Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../reference/workplace-service-form.md).
 
 ## Redirecting to the Case Editor page
 
@@ -81,40 +81,40 @@ After making their changes, users can save the updated case, which makes the fol
     -   For both item and space selection in the request, use the `Workplace Service widget Variable set`.
     -   For only space selection, use the `Multilevel space picker widget variable set`.
 
-**Parent Topic:**[Configuring Workplace Case Management](workplace-case-mgmt-setup.md)
+**Parent Topic:**[Configuring Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Install Workplace Case Management](../task/install-workplace-case-mgmt.md)
+[Install Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/install-workplace-case-mgmt.md)
 
-[Create a Workplace case template](../task/wsd-case-template.md)
+[Create a Workplace case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-case-template.md)
 
-[Create a Workplace task template](../task/wsd-task-template.md)
+[Create a Workplace task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-task-template.md)
 
-[Smart Assessment for Workplace Case and Task](../task/smart-assessment-for-workplace-case-and-task.md)
+[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/smart-assessment-for-workplace-case-and-task.md)
 
-[Automating seat assignment for new hires](auto-assign-new-hires.md)
+[Automating seat assignment for new hires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/auto-assign-new-hires.md)
 
-[Configure Approval options](../task/config-approval-optns.md)
+[Configure Approval options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/config-approval-optns.md)
 
-[Configure a Record producer](../task/wsd-create-record-producer.md)
+[Configure a Record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/wsd-create-record-producer.md)
 
-[Configuring a record producer for reservation](config-reservation-rp.md)
+[Configuring a record producer for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/config-reservation-rp.md)
 
-[Create an SLA Definition](../task/create-sla-defn-case-mgmt.md)
+[Create an SLA Definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/create-sla-defn-case-mgmt.md)
 
-[Create a Workplace service](../task/create-workplace-service.md)
+[Create a Workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/create-workplace-service.md)
 
-[Add a workplace service item to a workplace service](../task/add-workplace-service-items.md)
+[Add a workplace service item to a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/add-workplace-service-items.md)
 
-[Create a workplace template configuration](../task/create-workplace-template-confguration.md)
+[Create a workplace template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/create-workplace-template-confguration.md)
 
-[Create a workplace field mapping](../task/create-workplace-field-mapping.md)
+[Create a workplace field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/create-workplace-field-mapping.md)
 
-[Configure an escalation rule](../task/configure-escalation-rule.md)
+[Configure an escalation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/configure-escalation-rule.md)
 
-[Add Fulfillment instructions](../task/add-fulfillment-instructions.md)
+[Add Fulfillment instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/add-fulfillment-instructions.md)
 
-[Group similar workplace cases under a parent case](../task/group-similar-workplace-cases.md)
+[Group similar workplace cases under a parent case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../task/group-similar-workplace-cases.md)
 

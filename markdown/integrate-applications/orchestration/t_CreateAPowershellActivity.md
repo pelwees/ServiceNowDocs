@@ -25,15 +25,15 @@ ServiceNow supports PowerShell 3.0 to 5.1.
 
 ## Procedure
 
-1.  Create a [custom activity](create-custom-activities.md).
+1.  Create a [custom activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md).
 
     This action creates a custom activity using a template.
 
-2.  After setting up [general properties](../reference/General-Flds-Templates.md) and [creating input variables](CreateInputVariables.md#), configure the PowerShell Execution Command.
+2.  After setting up [general properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/General-Flds-Templates.md) and [creating input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#), configure the PowerShell Execution Command.
 
 <table id="choicetable_asj_mzp_vz"><tbody><tr><td id="d594192e116">
 
-**[Map the input variables](CreateInputVariables.md#)**
+**[Map the input variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#)**
 
 </td><td>
 
@@ -106,20 +106,20 @@ Credential tag this activity must use to run PowerShell commands on the host. If
 MID Server to use for querying PowerShell, by capabilities. By default, the system selects a PowerShell MID Server.
 
 </td></tr></tbody>
-</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](automap-output-variable-inputs.md).
+</table>    **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/automap-output-variable-inputs.md).
 
 
 ## What to do next
 
-Finish creating your PowerShell activity by [creating output variables](t_CreateAnOutputVariable.md#), [creating a parsing rule](t_CreateAParsingRule.md#), or [Conditions](../reference/conditions.md). Refer to the [create custom activities](create-custom-activities.md) topic to know your template options.
+Finish creating your PowerShell activity by [creating output variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAnOutputVariable.md#), [creating a parsing rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/t_CreateAParsingRule.md#), or [Conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/conditions.md). Refer to the [create custom activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/create-custom-activities.md) topic to know your template options.
 
-**Parent Topic:**[Orchestration custom activity templates](../concept/c_ActivityDesignerComponents.md)
+**Parent Topic:**[Orchestration custom activity templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_ActivityDesignerComponents.md)
 
 ## PowerShell template execution parameters
 
 You use execution parameters to create the input process script in the **Pre Processing** form of the activity designer.
 
-For descriptions of the Powershell command fields, see the table in [Configure the PowerShell execution command](CreateInputVariables.md#).
+For descriptions of the Powershell command fields, see the table in [Configure the PowerShell execution command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/CreateInputVariables.md#).
 
 **Note:** You must use the `executionParam.` prefix with all variables in this table.
 

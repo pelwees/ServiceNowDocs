@@ -68,5 +68,5 @@ The privacy statement content from the updated template is copied into the **Pri
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Setting up privacy consent settings](../concept/set-up-privacy-consent-common.md)
+**Parent Topic:**[Setting up privacy consent settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/set-up-privacy-consent-common.md)
 

@@ -19,7 +19,7 @@ MID Servers support all SNMP protocol versions by default. You can set a MID Ser
 
 For SNMP credentials information, see [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_SNMPCredentials.md).
 
-SNMP probe parameters can be used while discovering an SNMP device. See [SNMP probe parameters](../reference/r_SNMPProbeParameters.md) for more information.
+SNMP probe parameters can be used while discovering an SNMP device. See [SNMP probe parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_SNMPProbeParameters.md) for more information.
 
 ## Add an SNMPv3 user credential in Discovery
 
@@ -43,7 +43,7 @@ A MID Server parameter is also available to control SNMP versions. See [MID Serv
 
 4.  Fill in the form, using the fields in the table.
 
-    ![SNMPv3 credentials form](../image/SNMPv3UserCredentials.png "SNMPv3 credentials form")
+    ![SNMPv3 credentials form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/SNMPv3UserCredentials.png "SNMPv3 credentials form")
 
 <table id="table_zxd_wc1_djb"><thead><tr><th>
 

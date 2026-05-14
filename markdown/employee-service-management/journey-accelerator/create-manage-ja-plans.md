@@ -36,7 +36,7 @@ Managers select a plan type when they are configuring a specific plan. As an adm
     -   View for manager
     -   View for employee
     -   View for mentor
-    See, [Customize and manage Journey Accelerator plan headers](create-manage-plan-headers.md) to customize headers for a plan.
+    See, [Customize and manage Journey Accelerator plan headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-manage-plan-headers.md) to customize headers for a plan.
 
 4.  Click the search icon next to a role to change the header configuration for that role.
 

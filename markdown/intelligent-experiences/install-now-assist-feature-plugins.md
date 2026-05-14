@@ -24,11 +24,11 @@ Follow these instructions to get started with Now Assist Admin:
 2.  Activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin.
 3.  Install additional plugins, from the Now Assist Admin console.
 4.  The Now Assist Admin console guides your implementation, starting with installation.
-5.  Check out the [Now Assist Journey Checklist for more information.](../../now-assist-platform/concept/configuring-now-assist.md)
+5.  Check out the [Now Assist Journey Checklist for more information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/configuring-now-assist.md)
 
 ## About this task
 
-Then, activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin. to install additional plugins, you must first activate any Now Assist plugin from the ServiceNow StoreThe Now Assist Admin console can guide your implementation, starting with installation. Check out the [Now Assist Journey Checklist for more information.](../../now-assist-platform/concept/configuring-now-assist.md)
+Then, activate any Now Assist plugin from the ServiceNow Store to access Now Assist Admin. to install additional plugins, you must first activate any Now Assist plugin from the ServiceNow StoreThe Now Assist Admin console can guide your implementation, starting with installation. Check out the [Now Assist Journey Checklist for more information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/configuring-now-assist.md)
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Then, activate any Now Assist plugin from the ServiceNow Store to access Now Ass
 
     Plugins appear as cards. Review all Now Assist plugins on the **Available for you** tab. Plugins that you have already installed appear on the **Installed** tab.
 
-    ![Example plugin card reads "Now Assist for Creator: Helping creators build with the power of Generative AI." Select Get plugins on the card to install it.](../image/config-now-assist-plugin-card.png)
+    ![Example plugin card reads "Now Assist for Creator: Helping creators build with the power of Generative AI." Select Get plugins on the card to install it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/config-now-assist-plugin-card.png)
 
 3.  Select **Get plugins** on the card for the plugin that you want to install.
 
@@ -65,7 +65,7 @@ If you encounter issues installing or updating applications, see this [knowledge
 
 ## What to do next
 
-[Activate the Now Assist panel standard chat](activate-now-assist-panel.md) or [Activate a Now Assist skill](configure-a-now-assist-skill.md)
+[Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md) or [Activate a Now Assist skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)
 
-**Parent Topic:**[Configuring Now Assist Admin features](../concept/configuring-na-landing.md)
+**Parent Topic:**[Configuring Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/configuring-na-landing.md)
 

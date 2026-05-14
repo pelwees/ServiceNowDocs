@@ -39,20 +39,20 @@ Annotations are only visible from the sidebar History view.
 
 7.  From More actions menu, select **Add annotation**.
 
-    ![Add annotation menu item](../images/subflow-history-add-annotation-01.png)
+    ![Add annotation menu item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-add-annotation-01.png)
 
 8.  In the text box, enter the text of the annotation.
 
-    ![Sample annotation reading Wait 3 days then close incident](../images/subflow-history-add-annotation-02.png)
+    ![Sample annotation reading Wait 3 days then close incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-add-annotation-02.png)
 
 9.  Press Enter to save the annotation.
 
-    ![Subflow's flow history entry with annotation](../images/subflow-history-add-annotation-03.png)
+    ![Subflow's flow history entry with annotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/subflow-history-add-annotation-03.png)
 
 
 ## What to do next
 
 You can change the annotation using the **Modify annotation** option.
 
-**Parent Topic:**[Subflow history](../concept/subflow-history.md)
+**Parent Topic:**[Subflow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflow-history.md)
 

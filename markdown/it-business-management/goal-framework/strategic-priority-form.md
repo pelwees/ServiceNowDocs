@@ -106,10 +106,10 @@ Description
 A detailed description of the strategic priority.You can refine strategic priority description using the Refine records skill, if the Now Assist for SPM application is installed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](goal-framework-reference.md)
+</table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 
 **Related topics**  
 
 
-[Enterprise strategy example](../concept/enterprise-goal-example-strategy-gf.md)
+[Enterprise strategy example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/enterprise-goal-example-strategy-gf.md)
 

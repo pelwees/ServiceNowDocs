@@ -42,7 +42,7 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 ## What to do next
 
-Create corresponding inbound asset order lines for the DaaS assets that you want to provide to your customers through the inbound asset order. For detailed instructions, see [Create an inbound asset order line for a requested Device as a Service \(DaaS\) asset](create-inbound-asset-order-line-daas-asset.md).
+Create corresponding inbound asset order lines for the DaaS assets that you want to provide to your customers through the inbound asset order. For detailed instructions, see [Create an inbound asset order line for a requested Device as a Service \(DaaS\) asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-inbound-asset-order-line-daas-asset.md).
 
-**Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](../concept/managing-inbound-asset-orders-daas-assets.md)
+**Parent Topic:**[Managing inbound asset orders for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-inbound-asset-orders-daas-assets.md)
 

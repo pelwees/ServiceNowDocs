@@ -25,15 +25,15 @@ You must first schedule a mass key rotation job or a single key rotation job to 
 
 If using SafeNet versioned keys, the Change Default Keys section of the Encryption Key Configuration form includes new fields for the **Key version** of the default 128-bit and 256-bit keys. **Key version** fields are grayed out and cannot be edited.
 
-![Change default keys, Key version](../images/safenet-key-versioning.png)
+![Change default keys, Key version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/safenet-key-versioning.png)
 
-For procedures, see [Configure encryption keys on the instance](../task/t_RotateEncryptionKeys.md).
+For procedures, see [Configure encryption keys on the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../task/t_RotateEncryptionKeys.md).
 
 ## Versioned keys
 
 If using SafeNet versioned keys, when you navigate to **Edge Encryption Configuration** &gt; **Encryption Key Configuration** &gt; **All Keys**, versioned keys include the **Key version**.
 
-![Versioned keys, Key version](../images/versioned-keys.png)
+![Versioned keys, Key version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../images/versioned-keys.png)
 
 A version number does not appear for the initial entries you make in the Change Default Keys section of the Encryption Key Configuration form. When the proxy server requests a key from SafeNet, the system adds a new line for the alias and adds the **Key version**.
 
@@ -44,5 +44,5 @@ In the above example, **AES128key** is listed three times:
 -   The third listing, with **2** in the **Key version** column, is the second version of the key returned from SafeNet.
 -   As other versions of the key are returned from SafeNet, new lines are added to record the **Key version** now in use.
 
-**Parent Topic:**[Key management for Edge Encryption](c_EncryptionKeyManagement.md)
+**Parent Topic:**[Key management for Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionKeyManagement.md)
 

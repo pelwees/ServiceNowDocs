@@ -27,7 +27,7 @@ The SAML IdP must support and honor the forceAuthn attribute in SAML assertion r
 
 1.  Activate or upgrade to SAML 2.0 with the [Activate Multi-Provider SSO plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ActivateMultipleProviderSSO.md).
 
-2.  Activate the [Approval with E-Signature plugin](activate-approval-esignature.md).
+2.  Activate the [Approval with E-Signature plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/activate-approval-esignature.md).
 
 3.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers** and verify your 2.0 SAML IdP configuration Advanced tab shows the **Force AuthnRequest** attribute checked.
 
@@ -76,7 +76,7 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 When a user approves a request using eSignature, a dialog opens and a user can enter credentials. This setting controls the height of that dialog box. The default is 300.
 
 </td></tr></tbody>
-</table>    ![eSignature Approval Tab](../image/esignature_approval_tab.png)
+</table>    ![eSignature Approval Tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/esignature_approval_tab.png)
 
 5.  Select the **Generate Metadata** button underneath the tabs to regenerate the service provider metadata.
 

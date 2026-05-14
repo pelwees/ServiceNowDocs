@@ -17,7 +17,7 @@ Understand what the Engagement Messenger application can provide to your custome
 
 After you create and configure the Engagement Messenger module, you can customize it for your customers. For example, you can change the display order of any of these features on the home page of the messenger. Also, you can enable or disable any of these features to suit your customer's needs.
 
-![Engagement messenger application showing all options for a customer to interact with a company. Refer to the following list for all available options.](../image/em-home-page-v3.png "Engagement Messenger features")
+![Engagement messenger application showing all options for a customer to interact with a company. Refer to the following list for all available options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-home-page-v3.png "Engagement Messenger features")
 
 -   **Greeting**
 
@@ -45,7 +45,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     -   You must configure AI Search in your ServiceNow instance and then enable Typeahead Search and AI Search Assist widgets so that the unauthenticated users can use the AI search feature from Engagement Messenger.
 
-        For more information on enabling Typeahead Search and AI Search Assist widgets for Engagement Messenger, see [Enabling AI search in the Customer and Consumer Service Portals for unauthenticated users](../task/configure_search_csp_guestuser.md).
+        For more information on enabling Typeahead Search and AI Search Assist widgets for Engagement Messenger, see [Enabling AI search in the Customer and Consumer Service Portals for unauthenticated users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/configure_search_csp_guestuser.md).
 
         For more information of AI Search configuration, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md).
 
@@ -55,7 +55,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     By using the Cases widget on the messenger, your customers can submit a case to request help with something or to report an issue. Submitted cases can be assigned to a customer service agent and tracked to a resolution.
 
-    ![Case management chat windows that customers can see on the customer portal. For the text description, refer to the text that follows.](../image/em-case-flow.png "Case management")
+    ![Case management chat windows that customers can see on the customer portal. For the text description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-case-flow.png "Case management")
 
     Whenever your customers return to the customer portal and log in, they are notified of any updates to the cases that they created. They can also view the details of all the cases and requests that they have previously submitted and track their status.
 
@@ -67,7 +67,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     Whenever your customers return to the customer portal and log in, they are notified of any updates to the requests that they have previously submitted.
 
-    ![Catalog view with the Request things you need feature highlighted.](../image/catalog-feature.png "Catalog feature")
+    ![Catalog view with the Request things you need feature highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/catalog-feature.png "Catalog feature")
 
 -   **Field service management**
 
@@ -75,7 +75,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
     All technician requests are stored as work orders in your ServiceNow instance so that they can be tracked to completion.
 
-    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [Field service feature configuration](../reference/field-service-feature-configuration.md).
+    The Work Order will have the location where the customer has raised a request. Geo-location services must be enabled for the technicians so that customers can track the live location and know the estimated time of arrival \(ETA\) of their technician. For more information, see [Field service feature configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../reference/field-service-feature-configuration.md).
 
     **Note:**
 
@@ -104,7 +104,7 @@ After you create and configure the Engagement Messenger module, you can customiz
 
         Customers can use the Chat widget on the messenger to interact with a virtual or live customer support agents in your organization. This way, your customers can get immediate responses to their queries or issues.
 
-        ![Chat window showing a customer's dissatisfied response to a field service agent's suggested steps to resolve an issue.](../image/em-chat-live-agent.png "Live agent chat")
+        ![Chat window showing a customer's dissatisfied response to a field service agent's suggested steps to resolve an issue.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-chat-live-agent.png "Live agent chat")
 
         Engagement Messenger also provides contextual chat functionality. From any case details page, your customers can directly start a chat that opens with the context of that specific case.
 
@@ -123,7 +123,7 @@ After you create and configure the Engagement Messenger module, you can customiz
         -   Once you select an assistant navigate to the **Display experience** tab to configure the Engagement Messenger module. In the **Portals** tab, select the Engagement Messenger module from the **Add portal** list and select the **Standard chat** as the experience. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/display-assistant-portal-channel.md).
         **Note:** Each assistant comes with its own search configuration. For a smooth experience, if the assistant appears on a portal or mobile app that already has AI search configured, consider duplicating that setup to maintain consistency.
 
-        ![Engagement Messenger displaying a conversational interface with Now Assist in Virtual Agent enabled.](../image/nava_in_em.png)
+        ![Engagement Messenger displaying a conversational interface with Now Assist in Virtual Agent enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/nava_in_em.png)
 
     -   **Asynchronous chat**
 
@@ -135,13 +135,13 @@ After you create and configure the Engagement Messenger module, you can customiz
 
             -   Enable preview to see previews of unread chat message text, tables, links, HTML content, cases, knowledge cards, and images shared by the support agent without opening a message. The complete HTML content or video, and multiple unread messages, can be seen only when the user accesses the message.
             -   Asynchronous chat supports emojis sent by an agent in the message preview for a more interactive conversation. For more information on how to use emojis in Agent chat, see [Using emojis in Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-using.md).
-            ![Unread message previews shared by support agents. For the text description, refer to the preceding text in the Message preview section.](../image/async-preview.png "Previews")
+            ![Unread message previews shared by support agents. For the text description, refer to the preceding text in the Message preview section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/async-preview.png "Previews")
 
         -   **Offline message support**
 
             Offline chat support enables users to view messages sent by the support agent while they were offline. The chat widget notification shows the total number of unread messages in real-time when the user revisits the website.
 
-            ![Pop-up window displaying the number of messages received when the user was offline.](../image/async-notif.png "Offline message support")
+            ![Pop-up window displaying the number of messages received when the user was offline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/async-notif.png "Offline message support")
 
         -   **Chat messages history**
 
@@ -157,19 +157,19 @@ After you create and configure the Engagement Messenger module, you can customiz
 
         Allows you to embed any portal page or catalog item on Engagement Messenger. The embedded page opens within the messenger when the user selects the feature card.
 
-        ![Portal configuration showing feature cards including a clickable image as a display card, and title and subtitle text as a display card.](../image/em-portal.png "Portal configuration")
+        ![Portal configuration showing feature cards including a clickable image as a display card, and title and subtitle text as a display card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-portal.png "Portal configuration")
 
     -   **Featured links**
 
         Enables you to add a list of links to website on Engagement Messenger. The link opens in a new browser tab when accessed using the feature card on messenger's home page.
 
-        ![Featured links shown as Top Links in a display card.](../image/em-links.png "Featured links")
+        ![Featured links shown as Top Links in a display card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-links.png "Featured links")
 
     -   **Data from any table feature card**
 
         The feature card enables you to embed data from any table on Engagement Messenger. The added records appear as a card with a title or links on a messenger's home page.
 
-        ![Engagement messenger view of open orders and their details, displayed in a table record view or list view when accessed through Card or Links.](../image/em-data-from-table.png "Data from any table")
+        ![Engagement messenger view of open orders and their details, displayed in a table record view or list view when accessed through Card or Links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-data-from-table.png "Data from any table")
 
 -   **Proactive updates and reminders**
 
@@ -182,18 +182,18 @@ After you create and configure the Engagement Messenger module, you can customiz
     According to the configuration of Engagement Messenger behavior, the count of the updates is displayed on the messenger widget on your customer support webpage. If the customer navigates away from your website, the count of updates is also displayed on the browser tab.
 
 
-To learn how to start configuring Engagement Messenger for your third-party website, see [Set up Engagement Messenger](setting-up-engagement-messenger.md).
+To learn how to start configuring Engagement Messenger for your third-party website, see [Set up Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/setting-up-engagement-messenger.md).
 
 **Related topics**  
 
 
 [Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-[Case management for Customer Service Management](csm-case-management.md)
+[Case management for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-case-management.md)
 
 [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
 
-[Using Walk-up Experience](use-walkup-experiencce.md)
+[Using Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/use-walkup-experiencce.md)
 
 [Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management.md)
 

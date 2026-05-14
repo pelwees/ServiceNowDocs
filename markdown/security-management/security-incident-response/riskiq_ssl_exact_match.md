@@ -26,7 +26,7 @@ The following example shows a valid issuer of an SSL certificate from an exact m
 
 1.  In the security incident record, click the **SSL Certificates** tab.
 
-    ![SSL Certificates tab on the Security Incident record.](../image/riskiq-ssl-cert-callout.png "SSL Certificates tab")
+    ![SSL Certificates tab on the Security Incident record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-ssl-cert-callout.png "SSL Certificates tab")
 
     Information about the certificate issuer’s name, the issuer's organization, and who the certificate is issued to \(Organization\) is displayed along with other data.
 
@@ -37,7 +37,7 @@ The following example shows a valid issuer of an SSL certificate from an exact m
 2.  Click the second item in the **Issuer name**column, which is \(**R3**\) to open the entry record. Alternatively, click the information icon next to the item followed by **Open record**.
 3.  Select the **Raw Data** tab.
 
-    ![Raw data tab.](../image/riskiq-valid-ssl.png "Raw Data tab")
+    ![Raw data tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-valid-ssl.png "Raw Data tab")
 
     The SSL Certificate Entry record includes the observable in the **Raw Data** tab under the **Entity name** column, as well as other data.
 
@@ -50,14 +50,14 @@ The following example shows results for a self-signed SSL certificate from the l
 
 1.  Navigate back to the security incident record. In the **Issuer Name** column, click the other item \(**mail.dgtnetworks.com**\).
 
-    ![SSL Certificate Results tab.](../image/riskiq-ssl-cert-callout1.png "SSL Certificates tab")
+    ![SSL Certificate Results tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-ssl-cert-callout1.png "SSL Certificates tab")
 
 2.  On the open record, select the **Raw Data** tab.
 
-    ![SSL Raw Data tab.](../image/riskiq-selfsigned-ssl.png "Raw Data tab")
+    ![SSL Raw Data tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/riskiq-selfsigned-ssl.png "Raw Data tab")
 
     The **Category** column indicates the `Issuer` \(`mail.dgtnetworks.com` and `dgtsbs.DGTNetworks.local`\) are not trusted public certificate authorities. Also note the `Issuer` and `Subject` are the same entity \(`dgtsbs.DGTNetworks.local`\), and each contains the name of the observable \(`dgtsbs`\). This certificate is possibly a self-signed certificate. Self-signed certificates may warrant further investigation, as these certificates are not issued by a known certificate authority.
 
 
-**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](../task/verify-expected-rslts-for-riskiq.md)
+**Parent Topic:**[Verify expected results for RISKIQ SSL certificate lookups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/verify-expected-rslts-for-riskiq.md)
 

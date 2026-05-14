@@ -19,7 +19,7 @@ Configure an anonymization policy to specify which techniques are used when anon
 
 The data privacy configuration defines tables, `sys_user` and other, and columns to the de-identified, depending on the use case and specifies parameterized types of the techniques to be used while de-identifying data.
 
-**Note:** To complete a privacy configuration, you must first configure a data privacy technique configuration. See [Create anonymization techniques](dps-create-anonymization-techniques.md) for more information.
+**Note:** To complete a privacy configuration, you must first configure a data privacy technique configuration. See [Create anonymization techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) for more information.
 
 Role required: data\_privacy\_admin and admin
 
@@ -27,7 +27,7 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [Elevate to a privileged role](../../security/task/t_ElevateToAPrivilegedRole.md).
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../../security/task/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
@@ -44,7 +44,7 @@ Role required: data\_privacy\_admin and admin
     |Catalog variable|Anonymize sensitive data stored in catalog item variables and form fields.|
     |Real time data|Anonymize real time entries for a set of columns.|
 
-    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](../concept/dps-data-classification.md).
+    Data privacy policies can only apply to classified data, for more information on data classification, see [Data classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../concept/dps-data-classification.md).
 
 5.  Select **Create**.
 

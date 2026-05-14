@@ -35,16 +35,16 @@ The PDF of an application service map shows the name of the application service 
 
 2.  Select the **Additional actions** menu.
 
-    ![Select the Additional actions menu on the Map page.](../image/MapAdditionalActionsButton.png)
+    ![Select the Additional actions menu on the Map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapAdditionalActionsButton.png)
 
 3.  Click the button next to the **Export to PDF**option.
 
-    ![Export an application service to PDF](../image/MapExportPDF.png)
+    ![Export an application service to PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/MapExportPDF.png)
 
 4.  When the PDF is ready, click the **Download PDF** button in the Export Map into PDF Format dialog box.
 
     The PDF appears in the downloads folder on your computer.
 
 
-**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
+**Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_SvcPlanningAndAnalysisUsingMaps.md)
 

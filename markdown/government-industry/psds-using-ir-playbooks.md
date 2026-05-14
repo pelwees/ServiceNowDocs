@@ -50,7 +50,7 @@ The process-based playbook layout shows the following features:
 
 -   Related records in the contextual side panel supported by the dynamic related records component.
 
-![Playbook layout, shown in process-based experience view. For the text description, refer to the table in Playbook components.](../image/information-request-process-based-layout.png.png "Playbook layout with the Process-based experience view")
+![Playbook layout, shown in process-based experience view. For the text description, refer to the table in Playbook components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/information-request-process-based-layout.png.png "Playbook layout with the Process-based experience view")
 
 The following table shows the components that you can see in the Information Request Playbook workspace.
 
@@ -102,7 +102,7 @@ Contextual side panel
 -   Includes the tabs that you can use to display the following types of information:
     -   Case or case task activity stream.
     -   Ribbon information such as the case overview, customer details, timeline, and service level agreements \(SLAs\).
-    -   Dynamic related records. For more information, see [Dynamic related records](psds-playbook-viewing-rel-records.md).
+    -   Dynamic related records. For more information, see [Dynamic related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-viewing-rel-records.md).
 
 </td></tr><tr><td>
 

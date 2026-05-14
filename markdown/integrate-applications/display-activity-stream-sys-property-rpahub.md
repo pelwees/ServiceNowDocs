@@ -29,7 +29,7 @@ Role required: admin
 
     Adding prefix \(-\) to the table name includes the documents of the table in the activity stream.
 
-    ![The glide.activity.rule.exclude.document_tables system property screen displaying the new values for the Value field.](../image/activity-stream-sys-property-rpahub.png)
+    ![The glide.activity.rule.exclude.document_tables system property screen displaying the new values for the Value field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/activity-stream-sys-property-rpahub.png)
 
 4.  Select **Update**.
 

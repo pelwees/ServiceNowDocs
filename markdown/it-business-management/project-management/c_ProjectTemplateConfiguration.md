@@ -29,27 +29,27 @@ The Project Template Configuration list contains three default template configur
 |pm\_project\_task|Project task object|pm\_project|Parent. Because this task object is one level below the root level, it uses the parent table as a link element.|
 |pm\_project\_task|Project subtask object|pm\_project\_task|Parent. Because this subtask object is two levels below the root level, it uses the parent table as a link element.|
 
-Select an item in the Project Template Configuration list to open the project Template Configuration form. For more information, see [Project template configuration form](../reference/project-template-form.md).
+Select an item in the Project Template Configuration list to open the project Template Configuration form. For more information, see [Project template configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/project-template-form.md).
 
-![Project Template Configuration form](../image/ProjectTemplateConfigForm.png "Project Template Configuration form")
+![Project Template Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/ProjectTemplateConfigForm.png "Project Template Configuration form")
 
--   **[Add a project template configuration item](../task/t_AddNewProjTempConfigItem.md)**  
+-   **[Add a project template configuration item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_AddNewProjTempConfigItem.md)**  
 Add a project template configuration item to include in a template.
--   **[Modify a project template configuration item](../task/t_ModifAProjectTempConfigItem.md)**  
+-   **[Modify a project template configuration item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ModifAProjectTempConfigItem.md)**  
 Modify a project template configuration item included in a template.
 
-**Parent Topic:**[Applying templates to projects](c_ProjectTemplates.md)
+**Parent Topic:**[Applying templates to projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTemplates.md)
 
 **Related topics**  
 
 
-[Create a project template](../task/t_ViewAProjectTemplateForm.md)
+[Create a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ViewAProjectTemplateForm.md)
 
-[Add an attachment to a project template](../task/t_AddAnAttachmentToAProjectTemplate.md)
+[Add an attachment to a project template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_AddAnAttachmentToAProjectTemplate.md)
 
-[Apply a template on the Project form](../task/t_ApplyATemplateFromTheProjectForm.md)
+[Apply a template on the Project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ApplyATemplateFromTheProjectForm.md)
 
-[Apply template to an existing project](../task/apply-multiple-templates-prj.md)
+[Apply template to an existing project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/apply-multiple-templates-prj.md)
 
-[Apply template to a blank project in project workspace](../task/t_ApplyTempProjWorkbench.md)
+[Apply template to a blank project in project workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_ApplyTempProjWorkbench.md)
 

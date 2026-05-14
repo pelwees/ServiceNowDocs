@@ -27,17 +27,17 @@ Role required: notify\_view, or itil
 
 3.  Choose **Call** to call the user.
 
-    ![Screen for WebRTC UI](../image/WebRTC2.png)
+    ![Screen for WebRTC UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/WebRTC2.png)
 
 
-**Parent Topic:**[Using Notify with On-Call Scheduling](../concept/c_NotifyWithOnCall.md)
+**Parent Topic:**[Using Notify with On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifyWithOnCall.md)
 
 **Related topics**  
 
 
-[Set up Notify with On-Call Scheduling](t_SetUpNotifyWithOnCall.md)
+[Set up Notify with On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_SetUpNotifyWithOnCall.md)
 
-[Controlling the on-call communication channel with Notify](../concept/c_OnCallNotifyForceCommChannel.md)
+[Controlling the on-call communication channel with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_OnCallNotifyForceCommChannel.md)
 
-[Key differences between on-call scheduling with NotifyNow and with Notify](../reference/r_OnCallNotifyNowNotifyDifferences.md)
+[Key differences between on-call scheduling with NotifyNow and with Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../reference/r_OnCallNotifyNowNotifyDifferences.md)
 

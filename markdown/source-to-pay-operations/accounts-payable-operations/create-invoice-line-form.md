@@ -46,43 +46,43 @@ Use the Create New Invoice Line form to provide details about an invoice line.
 |Unit|The unit or rate in which this product is billed by the supplier.|
 |Supplier part number|The part number of the supplier product.|
 
--   **[Create New Invoice form](create-new-invoice-form.md)**  
+-   **[Create New Invoice form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md)**  
 Use the Create New Invoice form to enter the details of the new invoice.
--   **[Invoice Line form tabs](invoice-line-form-related-list.md)**  
+-   **[Invoice Line form tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-line-form-related-list.md)**  
 The Invoice line form includes tabs that store invoice line information that an Accounts Payable Specialist can use to perform related tasks.
 
-**Parent Topic:**[Accounts Payable Operations reference](acc-pay-reference.md)
+**Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
 **Related topics**  
 
 
-[Accounts Payable Operations properties](acc-pay-properties.md)
+[Accounts Payable Operations properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-properties.md)
 
-[Create invoice cost allocation form](create-invoice-cost-allocation-form.md)
+[Create invoice cost allocation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-cost-allocation-form.md)
 
-[Outbound cost allocation staging table](outbound-cost-allocation-table.md)
+[Outbound cost allocation staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-cost-allocation-table.md)
 
-[Distribution set form](distribution-set-form.md)
+[Distribution set form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/distribution-set-form.md)
 
-[Create New Invoice case form](create-new-ap-case-form.md)
+[Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 
-[Create New Invoice task form](create-apm-task-form.md)
+[Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task-form.md)
 
-[Invoice processing case form](invoice-processing-case-form.md)
+[Invoice processing case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md)
 
-[Tax lines](create-tax-lines-apo.md)
+[Tax lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 
-[Invoice exception form](exception-form-fields.md)
+[Invoice exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 
-[Request Help form](ur-request-help-form.md)
+[Request Help form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/ur-request-help-form.md)
 
-[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-[Invoice exception definition form](invoice-exception-definition-form.md)
+[Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md)
 
-[Approval Rule form](new-approval-rule-form.md)
+[Approval Rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/new-approval-rule-form.md)
 
-[Approval Plan form](approval-plan-form.md)
+[Approval Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/approval-plan-form.md)
 
-[Accounts Payable Operations glossary](../concept/apo-glossary.md#)
+[Accounts Payable Operations glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/apo-glossary.md#)
 

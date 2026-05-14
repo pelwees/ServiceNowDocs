@@ -25,7 +25,7 @@ Various components make up the architecture of the Automation Center application
 
 The following diagram shows the high-level architecture of the Automation Center application.
 
-![High level architecture of the Automation Center application](../images/auto-center-architecture.png "High-level architecture of the Automation Center application")
+![High level architecture of the Automation Center application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-center-architecture.png "High-level architecture of the Automation Center application")
 
-**Parent Topic:**[Exploring Automation Center](automation-center-explore.md)
+**Parent Topic:**[Exploring Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-explore.md)
 

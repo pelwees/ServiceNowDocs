@@ -25,7 +25,7 @@ The SAML IdP must support and honor the forceAuthn attribute in SAML assertion r
 
 ## Procedure
 
-1.  Activate the [Approval with E-Signature plugin](activate-approval-esignature.md).
+1.  Activate the [Approval with E-Signature plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-approval-esignature.md).
 
 2.  Navigate to **Multi-Provider SSO** &gt; **Identity Providers** and verify your OIDC provider configurations
 
@@ -56,7 +56,7 @@ When a user approves a request using eSignature, a dialog opens and a user can e
 When a user approves a request using eSignature, a dialog opens and a user can enter credentials. This setting controls the height of that dialog box. The default is 900.
 
 </td></tr></tbody>
-</table>    ![OIDC eSignature Approval](../image/sso-esignature-approval-oidc.png)
+</table>    ![OIDC eSignature Approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/sso-esignature-approval-oidc.png)
 
 4.  Select **Submit** if you are configuring the E-signature during the initial OIDC setup or **Update** if you want to update the details in the E-signature.
 

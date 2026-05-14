@@ -55,7 +55,7 @@ Steps
 
 </td><td>
 
-1.  Select Add icon \(![Add icon](../image/lsd-ext-portal-add-attachment.png)\).
+1.  Select Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-add-attachment.png)\).
 2.  You can add attachments by selecting, dragging, or pasting a file.
 
 
@@ -65,7 +65,7 @@ Steps
 
 </td><td>
 
-1.  Select Edit file name icon \(![Edit file name icon](../image/lsd-ext-portal-edit-filename.png)\).
+1.  Select Edit file name icon \(![Edit file name icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-edit-filename.png)\).
 2.  Edit the file name.
 
 
@@ -75,7 +75,7 @@ Steps
 
 </td><td>
 
-1.  Select Delete icon \(![Delete icon](../image/lsd-ext-portal-delete-attachment.png)\).
+1.  Select Delete icon \(![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/../image/lsd-ext-portal-delete-attachment.png)\).
 2.  Select **OK** on the delete attachment confirmation.
 
 

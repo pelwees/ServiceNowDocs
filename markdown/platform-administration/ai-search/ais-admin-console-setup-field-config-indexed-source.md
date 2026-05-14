@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-A field setting controls the indexing behavior for a specified field \(column\) on all records from an indexed source. For more information, see [Field settings for AI Search](../concept/field-settings-ais.md).
+A field setting controls the indexing behavior for a specified field \(column\) on all records from an indexed source. For more information, see [Field settings for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/field-settings-ais.md).
 
 ## Procedure
 
@@ -124,7 +124,7 @@ The new field setting appears in the Field configurations section.
 
 ## What to do next
 
-To make the new field configurations take effect, perform a full table reindex for the indexed source. For more information, [Index the content from an indexed source for searchability](ais-admin-console-start-content-indexing.md) see
+To make the new field configurations take effect, perform a full table reindex for the indexed source. For more information, [Index the content from an indexed source for searchability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-admin-console-start-content-indexing.md) see
 
-**Parent Topic:**[Managing indexed sources from the AI Search Admin console](../concept/ais-managing-indexed-source.md)
+**Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ais-managing-indexed-source.md)
 

@@ -17,7 +17,7 @@ Upload the manifest file in Microsoft Teams to integrate Microsoft Teams with yo
 
 ## Before you begin
 
-Make sure that you have the manifest file for pre-published apps. For more information, see [Create and download the manifest file for pre-published apps](download-manifest-file-mt.md).
+Make sure that you have the manifest file for pre-published apps. For more information, see [Create and download the manifest file for pre-published apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-mt.md).
 
 Role required: admin
 
@@ -37,26 +37,26 @@ Role required: admin
 
     The **ServiceNow for Teams** appears in **Apps** screen.
 
-    ![ServiceNow for Teams app in Microsoft Teams.](../images/sn-ms-teams.png)
+    ![ServiceNow for Teams app in Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-ms-teams.png)
 
 5.  Click **ServiceNow for Teams** app.
 
 6.  Click **Add**.
 
-    ![ServiceNow for Teams app.](../images/sn-ms-teams-app-1.png)
+    ![ServiceNow for Teams app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-ms-teams-app-1.png)
 
     The ServiceNow for Teams app appears in Microsoft Teams.
 
     -   **Chat**: Begin your conversation with the Virtual Agent to get help.
 
-        ![Chat tab in Microsoft Teams.](../images/chat-tab-ms-teams02.png)
+        ![Chat tab in Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/chat-tab-ms-teams02.png)
 
     -   **Employee Center**: Click **Employee Center** tab to view the organization updates and the status on your tasks and requests.
 
-        ![Employee Center tab in Microsoft Teams.](../images/emp-center-ms-teams02.png)
+        ![Employee Center tab in Microsoft Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/emp-center-ms-teams02.png)
 
     **Note:** If you don't want to create a manifest file, you can edit an existing manifest file as required. Upon updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
 
 
-**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_tnt.md)
+**Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_tnt.md)
 

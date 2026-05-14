@@ -49,7 +49,7 @@ You configure the following elements of the process for your organization:
 
 ## Password Reset Windows Application
 
-If a user forgets the password or gets locked out of a Windows computer, the user can reset the password directly from the Windows login screen. The user clicks the **Forgot Password?** link and is then guided through the process of resetting the password. To learn more, see [Password Reset Windows Application](win-password-reset-overview.md).
+If a user forgets the password or gets locked out of a Windows computer, the user can reset the password directly from the Windows login screen. The user clicks the **Forgot Password?** link and is then guided through the process of resetting the password. To learn more, see [Password Reset Windows Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-password-reset-overview.md).
 
 ## Password Change application
 
@@ -72,18 +72,18 @@ The Password Change application extends the Password Reset application by lettin
 5.  The user types the new password again in the **Retype password** field, and selects **Change Password**.
 6.  The system notifies the user that the password was changed.
 
--   **[Plan your Password Reset processes](../task/t_PlanPasswordReset.md)**  
+-   **[Plan your Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_PlanPasswordReset.md)**  
 To ensure security and efficiency, take the time to plan your Password Reset implementation.
--   **[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)**  
+-   **[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateAPasswordResetProcess.md)**  
 To implement the process, you configure credentials, verification methods and settings, and enrollment settings. You also specify to which users the process applies.
--   **[Customizing Password Reset processes](customizing-password-reset.md)**  
+-   **[Customizing Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)**  
 Password Reset scripts enable you to customize Password Reset by creating your own credential store, verification, and identification types, and extend them by defining extension scripts. You can also create a custom credential store type, custom verification type, or verification.
--   **[Reset a password or unlock a user account with service desk assistance](../task/reset-password-for-user.md)**  
+-   **[Reset a password or unlock a user account with service desk assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/reset-password-for-user.md)**  
 Reset a password or unlock a user account by requesting the assistance of a service desk agent.
--   **[Integrate Password Reset with a Service Portal widget](../task/use-pwd-reset-in-service-portal.md)**  
+-   **[Integrate Password Reset with a Service Portal widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/use-pwd-reset-in-service-portal.md)**  
 You can enable a Password Reset process in a Service Portal page by adding a widget that opens the password reset pages inside the portal.
--   **[Integrate Password Reset with a CMS integration](../../security/task/t_PasswordResetCMSIntegration.md)**  
+-   **[Integrate Password Reset with a CMS integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/t_PasswordResetCMSIntegration.md)**  
 You can configure a site in the ServiceNow content management \(CMS\) application to define a single-site access point that includes the Password Reset service. For example, you can create an employee self-service site that provides Password Reset service.
 
-**Parent Topic:**[Password Reset](../reference/password-reset-landing-page.md)
+**Parent Topic:**[Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../reference/password-reset-landing-page.md)
 

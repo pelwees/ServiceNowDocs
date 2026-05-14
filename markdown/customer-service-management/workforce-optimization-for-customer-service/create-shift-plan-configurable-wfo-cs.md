@@ -27,7 +27,7 @@ In the **Shifts** tab, the shifts are grouped by active and inactive shifts. The
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon](../image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\) icon.
 
 3.  Click the **Shifts** tab.
 
@@ -114,5 +114,5 @@ You can view the name of the primary agent for each on-call shift on the shift c
 </table>6.  Click **Submit**.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

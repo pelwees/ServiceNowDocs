@@ -27,7 +27,7 @@ Role required: admin
 
     The plugin activation starts and installs successfully.
 
-2.  Go to the upgrade plan and refresh it by selecting **Refresh**.![Upgrade plan screen.](../../upgrade-center/image/uc-plan-refresh.png)
+2.  Go to the upgrade plan and refresh it by selecting **Refresh**.![Upgrade plan screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-plan-refresh.png)
 
     The Refresh Upgrade Plan confirmation message shows up.
 
@@ -38,16 +38,16 @@ Role required: admin
     The recently installed plugins and applications show up under Upgrade Plan Items related list.
 
 
-**Parent Topic:**[Upgrade Plans tool in Upgrade Console](../concept/um-upgrade-plans-tool.md)
+**Parent Topic:**[Upgrade Plans tool in Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-upgrade-plans-tool.md)
 
 **Related topics**  
 
 
-[Building your Upgrade Plan](um-building-upgrade-plan.md)
+[Building your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-building-upgrade-plan.md)
 
-[Installing your Upgrade Plan](um-installing-upgrade-plan.md)
+[Installing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-installing-upgrade-plan.md)
 
-[Prepare to upgrade with Upgrade Plan](um-prepare-upgrade-plan.md)
+[Prepare to upgrade with Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-prepare-upgrade-plan.md)
 
-[Apply Upgrade Plan on your upgrade](um-apply-upgrade-plan.md)
+[Apply Upgrade Plan on your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-apply-upgrade-plan.md)
 

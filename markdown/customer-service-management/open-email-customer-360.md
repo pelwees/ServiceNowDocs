@@ -41,5 +41,5 @@ You can compose large emails easily in a full screen view which opens up in a ne
 **Related topics**  
 
 
-[Compose an email from a case](compose-email-cases.md)
+[Compose an email from a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/compose-email-cases.md)
 

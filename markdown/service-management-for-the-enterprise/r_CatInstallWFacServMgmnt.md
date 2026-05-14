@@ -19,5 +19,5 @@ Facilities Service Management adds the following catalogs.
 |-----|-----------|
 |Facilities Catalog|Contains facilities catalog items|
 
-**Parent Topic:**[Installed with Facilities Service Management](r_InstallWFacServMgmnt.md)
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 

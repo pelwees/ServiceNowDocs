@@ -30,5 +30,5 @@ Role required:sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 4.  Select a topic to be added as connected content to the internal learning course.
 
 
-**Parent Topic:**[Create internal Learning content](create-internal-learning-content.md)
+**Parent Topic:**[Create internal Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md)
 

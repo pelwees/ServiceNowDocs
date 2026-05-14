@@ -39,10 +39,10 @@ CLE\_Ent functionality is available with a paid subscription. Refer to for suppo
 
 2.  Select **New**.
 
-    -   Select **Specify purpose** to choose a **Crypto spec** and set the **Granular operation**.![When selecting the Specify purpose check box, Cryptographic spec fields are available.](../image/map-cryptospec-granularity.png)
+    -   Select **Specify purpose** to choose a **Crypto spec** and set the **Granular operation**.![When selecting the Specify purpose check box, Cryptographic spec fields are available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/map-cryptospec-granularity.png)
     -   With cryptographic specifications for symmetric data encryption/decryption and symmetric wrapping/unwrapping, the **Granular operation** field is available if you select the **Specify purpose** check box.
 
-        ![Granular operation list.](../image/granular-operations.png)
+        ![Granular operation list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/granular-operations.png)
 
 3.  Complete the form.
 
@@ -70,7 +70,7 @@ Crypto module
 
 </td><td>
 
-Select the search icon \(![Search icon.](../image/IconUI11GlobalTextSearch.png)\) to select a module.
+Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../image/IconUI11GlobalTextSearch.png)\) to select a module.
 
 </td></tr><tr><td>
 
@@ -203,5 +203,5 @@ Select one of the following: -   **StrictReject** rejects access under all circu
     **Note:** A maximum of five module access policies are permitted with Field Encryption. See for configuration options.
 
 
-**Parent Topic:**[Configuring the Key Management Framework](../../encryption/concept/configure-kmf.md)
+**Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/../../encryption/concept/configure-kmf.md)
 

@@ -23,7 +23,7 @@ Use the Mobile Agent to review your case details and complete your case tasks. W
 
 The following video highlights some of the capabilities of the ServiceNow® Mobile Agent app. Introduction to ServiceNow mobile apps.
 
-**Note:** To use the Mobile Agent, the required plugins must be enabled by an administrator. If you're an administrator, see [Configure Mobile Agent for Service Request Playbook](psds-config-mobile-agent.md#) to get the information on configuring the Mobile Agent. For instructions on how to get started with the app after an administrator configures these settings, see [Get started with the Customer Service mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-customer-service-mobile-app.md).
+**Note:** To use the Mobile Agent, the required plugins must be enabled by an administrator. If you're an administrator, see [Configure Mobile Agent for Service Request Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-mobile-agent.md#) to get the information on configuring the Mobile Agent. For instructions on how to get started with the app after an administrator configures these settings, see [Get started with the Customer Service mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-customer-service-mobile-app.md).
 
 ## Mobile Agent homepage
 
@@ -31,7 +31,7 @@ When you open the Mobile Agent and log in, an applet launcher is displayed with 
 
 The following example shows the homepage of the Mobile Agent, which displays an overview of cases.
 
-![Homepage view of the mobile agent app showing an overview of cases and approvals.](../image/psds-agent-mobile-app-landing-page.png "Mobile Agent applet launcher for agents")
+![Homepage view of the mobile agent app showing an overview of cases and approvals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-agent-mobile-app-landing-page.png "Mobile Agent applet launcher for agents")
 
 The applet launcher includes all the applets that you need to address or resolve service request cases. You have access to the following applets:
 
@@ -50,23 +50,23 @@ Each applet on the applet launcher screen displays the records that correspond t
 
 The following example shows a service request card view with a list of all active service request case records.
 
-![Service request card view that shows a list of all active service request case records.](../image/psds-mobile-agent-case-card-list.png "Mobile Agent Service Request Case card list")
+![Service request card view that shows a list of all active service request case records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-case-card-list.png "Mobile Agent Service Request Case card list")
 
-The cases in the list are displayed as cards, and the state of the case is displayed at the top of the card. For more information on the case states, see [Life cycle of a Public Service case](../reference/government-service-case-states.md).
+The cases in the list are displayed as cards, and the state of the case is displayed at the top of the card. For more information on the case states, see [Life cycle of a Public Service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/government-service-case-states.md).
 
 Select a card to see the case record details. For example, you can see the case activity, related lists, and case escalations, if any.
 
-You can narrow down or sort the list of cases by using the filter icon \(![Filter icon.](../image/psds-mobile-agent-filter-option.png)\).
+You can narrow down or sort the list of cases by using the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-filter-option.png)\).
 
 ## Service Request case cards in the Mobile Agent app
 
-The case cards in the Mobile Agent app display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of service request case fields and their descriptions, see [Service Request case form](../reference/service-request-case-form-new.md#).
+The case cards in the Mobile Agent app display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of service request case fields and their descriptions, see [Service Request case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/service-request-case-form-new.md#).
 
 The following example shows the case details card view. In this view, you can see the case number, case opened date, application type, priority, constituent, channel, primary purpose, and which agency is assigned to the case.
 
-![Case details card view. For the text description, refer to the preceding text..](../image/psds-mobile-app-service-request-details.png "Mobile Agent service request case detail card")
+![Case details card view. For the text description, refer to the preceding text..](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-app-service-request-details.png "Mobile Agent service request case detail card")
 
-As an agent, you can take several actions on service request cases in the Mobile Agent app from within the case cards. In the case detail view, you can select the More Actions icon \(![More actions icon.](../image/psds-mobile-agent-top-menu.png)\) to see a list of actions, and select the back button to return to the record list. These actions include:
+As an agent, you can take several actions on service request cases in the Mobile Agent app from within the case cards. In the case detail view, you can select the More Actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-top-menu.png)\) to see a list of actions, and select the back button to return to the record list. These actions include:
 
 -   Editing the case.
 -   Closing the case.
@@ -76,19 +76,19 @@ As an agent, you can take several actions on service request cases in the Mobile
 -   Adding comments.
 -   Escalating the case.
 
-The following example shows the list of actions that you can take for a service request case. ![List of actions for a service request case.](../image/psds-mobile-app-service-request-actions.png)
+The following example shows the list of actions that you can take for a service request case. ![List of actions for a service request case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-app-service-request-actions.png)
 
-For more information on the agent tasks in the Mobile Agent app, see [Using the Mobile Agent to perform agent tasks](psds-mobile-playbooks-perform-agent-manager-tasks.md).
+For more information on the agent tasks in the Mobile Agent app, see [Using the Mobile Agent to perform agent tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-mobile-playbooks-perform-agent-manager-tasks.md).
 
 ## Information Request case cards in the Mobile Agent
 
-The case cards in the Mobile Agent display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of information request case fields and their descriptions, see [Information Request case form](../reference/information-request-case-form.md#).
+The case cards in the Mobile Agent display information that is similar to what you would see if you were viewing a case in the CSM Configurable Workspace. For a full list of information request case fields and their descriptions, see [Information Request case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/information-request-case-form.md#).
 
 The following example shows the case details card view. In this view, you can see the case number, case opened date, application type, priority, contact, channel, primary purpose, and which agency is assigned to the case.
 
-![Case details card view. For the text description, refer to the preceding text.](../image/psds-mobile-app-information-request-details.png "Mobile Agent information request case detail card")
+![Case details card view. For the text description, refer to the preceding text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-app-information-request-details.png "Mobile Agent information request case detail card")
 
-As an agent, you can take several actions on information request cases in the Mobile Agent from within the case cards. In the case detail view, you can select the More Actions icon \(![More actions icon.](../image/psds-mobile-agent-top-menu.png)\) to see a list of actions, and select the back button to return to the record list. These actions include:
+As an agent, you can take several actions on information request cases in the Mobile Agent from within the case cards. In the case detail view, you can select the More Actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-top-menu.png)\) to see a list of actions, and select the back button to return to the record list. These actions include:
 
 -   Editing the case.
 -   Closing the case.
@@ -99,23 +99,23 @@ As an agent, you can take several actions on information request cases in the Mo
 -   Adding comments.
 -   Escalating the case.
 
-The following example shows a list of actions that you can take for an information request case. ![List of actions for an information request case.](../image/psds-mobile-app-info-request-actions.png)
+The following example shows a list of actions that you can take for an information request case. ![List of actions for an information request case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-app-info-request-actions.png)
 
-For more information on the agent tasks in the Mobile Agent, see [Using the Mobile Agent to perform agent tasks](psds-mobile-playbooks-perform-agent-manager-tasks.md).
+For more information on the agent tasks in the Mobile Agent, see [Using the Mobile Agent to perform agent tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-mobile-playbooks-perform-agent-manager-tasks.md).
 
 ## Navigation bar
 
 The navigation bar appears at the bottom of the mobile application screen. This bar includes the following tabs:
 
--   **Cases ![Cases icon.](../image/psds-mobile-agent-app-cases-icon.png)**
+-   **Cases ![Cases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-cases-icon.png)**
 
     Displays the main case page. Use this applet launcher to access the case management functionality.
 
--   **Saved ![Saved icon.](../image/psds-mobile-agent-app-saved-icon.png)**
+-   **Saved ![Saved icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-saved-icon.png)**
 
     Displays the saved cases or case lists.
 
--   **Settings ![Settings icon.](../image/psds-mobile-agent-app-settings-icon.png)**
+-   **Settings ![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-mobile-agent-app-settings-icon.png)**
 
     Manages settings for the mobile application.
 

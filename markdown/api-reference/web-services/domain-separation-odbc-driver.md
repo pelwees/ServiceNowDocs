@@ -23,7 +23,7 @@ This is an overview of domain separation and ODBC drivers.Domain separation enab
 
 Use case: As a service provider when I use chat to respond to a tenant-customer’s message, the client must be able to see my response.
 
-**Parent Topic:**[Create data sources from other apps using ODBC driver](c_ODBCDriver.md)
+**Parent Topic:**[Create data sources from other apps using ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_ODBCDriver.md)
 
 **Related topics**  
 

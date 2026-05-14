@@ -37,7 +37,7 @@ Role required: admin
 
 5.  Select a Virtual Agent of your choice.
 
-    ![Select a Virtual Agent that has Now Assist enabled to proceed with LLM capabilities.](../images/assistants-na-va.png)
+    ![Select a Virtual Agent that has Now Assist enabled to proceed with LLM capabilities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/assistants-na-va.png)
 
     **Note:** Verify that the Virtual Agent you choose is integrated with the Slack workspace before selecting.
 
@@ -45,18 +45,18 @@ Role required: admin
 
 7.  Select the channels to integrate with the Now Assist in Virtual Agent.
 
-    ![Select the Slack channels for LLM conversational experience with Now Assist.](../images/choose-channels-for-LLM.png)
+    ![Select the Slack channels for LLM conversational experience with Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/choose-channels-for-LLM.png)
 
 8.  On the bot page, navigate to **Chat experience** &gt; **Chat experience** from the pane.
 
 9.  Scroll down to the Response streaming section and select the **Allow response streaming** check box.
 
-    ![Select Allow response streaming check box in the Response streaming section.](../images/choose-response-streaming-for-slack.png)
+    ![Select Allow response streaming check box in the Response streaming section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/choose-response-streaming-for-slack.png)
 
-    **Important:** In the Now Assist Search Results Output Type \[now\_assist\_va\_search\_results\_output\_type\] table, set the **Streaming Ready** field value to `true` for Slack.![Set the Streaming Ready field value to true for Slack.](../images/choose-response-streaming-for-slack-true.png)
+    **Important:** In the Now Assist Search Results Output Type \[now\_assist\_va\_search\_results\_output\_type\] table, set the **Streaming Ready** field value to `true` for Slack.![Set the Streaming Ready field value to true for Slack.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/choose-response-streaming-for-slack-true.png)
 
 10. Select **Save and Continue**.
 
 
-**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](../concept/na-va-llm-slack.md)
+**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/na-va-llm-slack.md)
 

@@ -47,5 +47,5 @@ The equipment category is added to the Resource categories list.
 **Related topics**  
 
 
-[Create an equipment instance](create-an-equipment-instance.md)
+[Create an equipment instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/create-an-equipment-instance.md)
 

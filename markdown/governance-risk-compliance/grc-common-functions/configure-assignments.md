@@ -31,12 +31,12 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For information on the fields in the form, see [Assignment Configuration New Record](../reference/assignment-configuration-new-record.md).
+    For information on the fields in the form, see [Assignment Configuration New Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../reference/assignment-configuration-new-record.md).
 
     **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Assignment Configurator for non-regulatory alerts](assignment-configurator-for-non-regulatory-alerts.md)
+**Parent Topic:**[Assignment Configurator for non-regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configurator-for-non-regulatory-alerts.md)
 

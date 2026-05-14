@@ -37,37 +37,37 @@ If you want the task to honor the dependency and adjust the start accordingly, c
 When a scheduling conflict is identified, you can identify such tasks in the planning console.
 
 -   The client-side planning console displays a pop-up message with an option to proceed with the conflict or cancel the action. If you proceed with the conflict, the constraint type is applied or date is changed appropriately to the next feasible date.
--   The calendar icon \(![Calendar icon](../image/calendar-icon.png)\) on the client side planning console changes to red \(![Conflict icon](../image/pc-task-dep-icon.png)\) to indicate the conflict.
--   The calendar icon on the server side planning console changes to red \(![Conflict icon](../image/pc-task-dep-icon.png)\) to indicate the conflict.
+-   The calendar icon \(![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/calendar-icon.png)\) on the client side planning console changes to red \(![Conflict icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/pc-task-dep-icon.png)\) to indicate the conflict.
+-   The calendar icon on the server side planning console changes to red \(![Conflict icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../image/pc-task-dep-icon.png)\) to indicate the conflict.
 
-**Parent Topic:**[Basics of Project Management](c_ProjectTasks.md)
+**Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
 
 **Related topics**  
 
 
-[Parent-child rollup task calculations](c_ParentChildRollupTaskCalcs.md)
+[Parent-child rollup task calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ParentChildRollupTaskCalcs.md)
 
-[Project tasks](../task/t_CreateAProjectTask.md)
+[Project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/t_CreateAProjectTask.md)
 
-[Change requests and project tasks](c_ChangeRequestsAndProjectTasks.md)
+[Change requests and project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ChangeRequestsAndProjectTasks.md)
 
-[Project task checklists](c_project-task-checklists.md)
+[Project task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_project-task-checklists.md)
 
-[Task resources](c_TaskResources.md)
+[Task resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TaskResources.md)
 
-[Project and project task states](project-and-project-task-states.md)
+[Project and project task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-and-project-task-states.md)
 
-[Composite Fields](pm-composite-fields.md)
+[Composite Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/pm-composite-fields.md)
 
-[Cost plan breakdown](cost-plan-breakdown.md#)
+[Cost plan breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/cost-plan-breakdown.md#)
 
-[Actual project costs](actual-project-costs.md)
+[Actual project costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/actual-project-costs.md)
 
-[Types of external dependencies](external-dependency-types.md)
+[Types of external dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/external-dependency-types.md)
 
-[Project and portfolio funding](../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
+[Project and portfolio funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-portfolio-suite-with-financials/concept/c_ProjectAndPortfolioFunding.md)
 
-[Project scheduling in Project Management](project-scheduling.md)
+[Project scheduling in Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-scheduling.md)
 
-[Task constraints](task-constraints-project-management.md)
+[Task constraints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/task-constraints-project-management.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 2.  Select a project.
 
-3.  Navigate to the right side panel, and select the Improvement Initiatives icon.![automation request link](../image/automation-request-link.png)
+3.  Navigate to the right side panel, and select the Improvement Initiatives icon.![automation request link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/automation-request-link.png)
 
 4.  Select the plus sign to create an automation idea.
 
@@ -43,7 +43,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     All the mandatory fields in the form are prefilled for ease of use.
 
-    ![New automation idea form](../image/new-automation-request.png)
+    ![New automation idea form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/new-automation-request.png)
 
     For more information, see [Automation request form from Automation Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-request-autocenter-form.md).
 
@@ -52,5 +52,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 Your new request appears in the Improvement Initiatives panel.
 
-![new request shown](../image/complete-automation-idea.png)
+![new request shown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/complete-automation-idea.png)
 

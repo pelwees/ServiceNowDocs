@@ -54,7 +54,7 @@ If there’s enough data the Case summary component displays the **Summarize** b
 
     -   The case summary card is available in CSM Configurable Workspace version 26.1.0 and earlier.
     -   Generating and displaying the summary may take several seconds.
-    ![AI-generated case summary for a case record.](../image/now-assist-csm-case-summary.png "Case record with case summary")
+    ![AI-generated case summary for a case record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-case-summary.png "Case record with case summary")
 
 3.  After summarizing a case, you can add it to the case work notes, expand or collapse it, provide feedback, copy it, or view information about it.
 
@@ -83,7 +83,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d153372e264">
 
@@ -91,7 +91,7 @@ Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) o
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d153372e287">
 
@@ -99,7 +99,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-copy.png)\) to use the case summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d153372e303">
 
@@ -107,14 +107,14 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-cop
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/product-icons/circle-info-outline-24.svg)\).
 
 </td></tr><tr></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 
 **Related topics**  
 
 
-[Configure Case Summarization](case-summarization-generation-in-now-assist.md)
+[Configure Case Summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/case-summarization-generation-in-now-assist.md)
 

@@ -21,16 +21,16 @@ Walk-up Experience is an application level configuration provided with the base 
 
 For more information on appointment booking administration, see [Administer appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appointment-booking-administer.md)
 
--   **[Enable Walk-up Experience appointment booking](../task/enable-walkup-appointment-booking.md)**  
+-   **[Enable Walk-up Experience appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../task/enable-walkup-appointment-booking.md)**  
 Enable or disable the appointment booking feature for Walk-up Experience as well as for the individual walk-up service locations available to requesters.
--   **[Configure Walk-up Experience appointment booking](walkup-appointment-booking-config.md)**  
+-   **[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)**  
 Create or modify appointment booking configurations for the Walk-up Experience. You can view or modify the Walk-up Experience application appointment booking configuration and create or modify related service appointment configurations.
--   **[Configure Variable time slots for appointment booking](variable-time-slots.md)**  
+-   **[Configure Variable time slots for appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/variable-time-slots.md)**  
 Variable time slots, such as work duration and dates, for appointments can be configured and booked based on the reason for a location. The reason can be an issue or request.
--   **[Configure maximum multiple appointments](configure-max-multiple-appointments.md)**  
+-   **[Configure maximum multiple appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-max-multiple-appointments.md)**  
 Enhance Walk-up Experience service experience by helping requesters to book multiple appointments simultaneously. You can configure the location to accept multiple bookings and also decide the maximum number of appointments a requester can book at a location.
--   **[Configure appointment type](configure-appointment-type.md)**  
+-   **[Configure appointment type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/configure-appointment-type.md)**  
 Support requesters in-person and virtually and assist them through remote appointment.
 
-**Parent Topic:**[Book Walk-up Experience appointments](walkup-appointment-booking.md)
+**Parent Topic:**[Book Walk-up Experience appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking.md)
 

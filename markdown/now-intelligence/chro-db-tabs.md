@@ -75,7 +75,7 @@ The strategic pillars of the **People** tab show metrics related to taking care 
 |Empower|Answers the question, 'How well are we empowering our people?'|
 |Reward|Answers the question, 'How well are we recognizing and rewarding our people?'|
 
-![Chief Human Resources dashboard example showing the five pillars Grow, Develop, Diversify, Empower, and Reward](../image/chro-db-people-tab.png)
+![Chief Human Resources dashboard example showing the five pillars Grow, Develop, Diversify, Empower, and Reward](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/chro-db-people-tab.png)
 
 -   **Purpose**
 

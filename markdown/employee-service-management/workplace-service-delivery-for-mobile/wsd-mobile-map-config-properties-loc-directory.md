@@ -79,9 +79,9 @@ The filters are retained or persist across browser sessions and tabs. Applied fi
     The updated map configuration properties are available on the Location directory.
 
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/configure-wsd-mobile.md)
 
-**Previous topic:**[Configure AI search for Workplace Service Delivery for Mobile](configure-ai-search-mobile.md)
+**Previous topic:**[Configure AI search for Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-ai-search-mobile.md)
 
-**Next topic:**[Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](../concept/workplace-preference-schedule.md)
+**Next topic:**[Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/workplace-preference-schedule.md)
 

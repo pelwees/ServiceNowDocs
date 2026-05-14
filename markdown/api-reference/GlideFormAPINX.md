@@ -19,11 +19,11 @@ Only use GlideForm methods on the client. You can use these methods to make cust
 
 You can also use some of these methods in other client scripts \(such as Catalog Client Scripts or Wizard Client Scripts\), but you must first test this to determine whether they will work as expected.
 
-**Note:** The methods getControl\(\), getHelpTextControl\(\), getElement\(\), and getFormElement\(\) are deprecated for mobile devices. For information on using GlideForm for mobile, see [Mobile Client GlideForm \(g\_form\) Scripting and Migration](../../../../../script/client-scripts/reference/r_MobilePlatformMigrationImpacts.md).
+**Note:** The methods getControl\(\), getHelpTextControl\(\), getElement\(\), and getFormElement\(\) are deprecated for mobile devices. For information on using GlideForm for mobile, see [Mobile Client GlideForm \(g\_form\) Scripting and Migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/client-scripts/reference/r_MobilePlatformMigrationImpacts.md).
 
 There is no constructor for the GlideForm class. Access GlideForm methods using the `g_form` global object.
 
-**Parent Topic:**[Client Next Experience API reference](../../../../../build/applications/concept/api-client-next.md)
+**Parent Topic:**[Client Next Experience API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client-next.md)
 
 ## GlideForm \(Next Experience\) - addAdditionalParams\(String parameterName, String value\)
 
@@ -340,8 +340,8 @@ Displays a floating form message at the top of the form detail section. The mess
 
 See also:
 
--   [clearAllFormMessages\(\)](GlideFormAPINX.md#)
--   [clearFormMessages\(\)](GlideFormAPINX.md#)
+-   [clearAllFormMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [clearFormMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
 
 <table id="table_f2v_zym_4pb" class="parameters"><thead><tr><th>
 
@@ -621,9 +621,9 @@ Removes all form messages of any type.
 
 See also:
 
--   [GlideForm \(Next Experience\) - addFormMessage\(String message, String type, Object options\)](GlideFormAPINX.md#)
--   [GlideForm \(Next Experience\) - clearMessages\(\)](GlideFormAPINX.md#)
--   [clearFormMessages\(\)](GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - addFormMessage\(String message, String type, Object options\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - clearMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [clearFormMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -661,9 +661,9 @@ Removes all form messages of a specified type.
 
 See also:
 
--   [GlideForm \(Next Experience\) - addFormMessage\(String message, String type, Object options\)](GlideFormAPINX.md#)
--   [GlideForm \(Next Experience\) - clearMessages\(\)](GlideFormAPINX.md#)
--   [GlideForm \(Next Experience\) - clearAllFormMessages\(\)](GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - addFormMessage\(String message, String type, Object options\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - clearMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - clearAllFormMessages\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
 
 <table id="table_ilw_bzm_4pb" class="parameters"><thead><tr><th>
 
@@ -1003,7 +1003,7 @@ function onSubmit() {
 
 Returns a list of all annotations on a form.
 
-[Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. Use [GlideForm \(Next Experience\) - getAnnotationByName\(String name\)](GlideFormAPINX.md#) to return a specific annotation by its name.
+[Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. Use [GlideForm \(Next Experience\) - getAnnotationByName\(String name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to return a specific annotation by its name.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1093,7 +1093,7 @@ annotations.forEach(function(annotation) {
 
 Returns a form annotation of a given name.
 
-[Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. Use [GlideForm \(Next Experience\) - getAnnotations\(\)](GlideFormAPINX.md#) to return all annotations in a form.
+[Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. Use [GlideForm \(Next Experience\) - getAnnotations\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to return all annotations in a form.
 
 <table id="table_skr_c4l_rfc" class="parameters"><thead><tr><th>
 
@@ -1317,7 +1317,7 @@ Returns the display value from a form in Service Portal.
 
 See also:
 
--   [getValue\(\)](GlideFormAPINX.md#)
+-   [getValue\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
 -   [Get the display value of a reference variable](https://www.servicenow.com/community/developer-blog/get-display-value-of-reference-variable-service-catalog/ba-p/2287763)
 
 **Note:** In the core UI, calling this method as `g_form.getDisplayValue()` without an argument returns the record display value rather than the display value of an individual field.
@@ -1530,7 +1530,7 @@ If a callback function is present, this routine runs asynchronously. The browser
 
 Callback function support for ServiceCatalogForm.getReference is available.
 
-**Note:** Using this method requires a call to the server which requires additional time and may introduce latency to your page. Use this method with caution. For additional information, see [Client script design and processing](../../../../../script/client-scripts/concept/client-script-best-practices.md#).
+**Note:** Using this method requires a call to the server which requires additional time and may introduce latency to your page. Use this method with caution. For additional information, see [Client script design and processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../script/client-scripts/concept/client-script-best-practices.md#).
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1767,8 +1767,8 @@ Hides an annotation with a given name on the form UI.
 
 [Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. See also:
 
--   [GlideForm \(Next Experience\) - showAnnotation\(String name\)](GlideFormAPINX.md#) to display a specific annotation on the form.
--   [GlideForm \(Next Experience\) - toggleAnnotations\(\)](GlideFormAPINX.md#) to toggle annotations on and off with greater flexibility.
+-   [GlideForm \(Next Experience\) - showAnnotation\(String name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to display a specific annotation on the form.
+-   [GlideForm \(Next Experience\) - toggleAnnotations\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to toggle annotations on and off with greater flexibility.
 
 <table id="table_isv_1nt_rfc" class="parameters"><thead><tr><th>
 
@@ -1823,7 +1823,7 @@ Whenever possible, use hideFieldMsg\(\) rather than this method whenever possibl
 
 Hides the first message that appears in the specified field on the current form.
 
-Use the [showFieldMsg\(String field, String message, String type\)](GlideFormAPINX.md#) or [showFieldMsg\(String field, String message, String type, Boolean scrollForm\)](GlideFormAPINX.md#) methods to display messages on a form.
+Use the [showFieldMsg\(String field, String message, String type\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) or [showFieldMsg\(String field, String message, String type, Boolean scrollForm\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) methods to display messages on a form.
 
 For example, the following code snippet shows how to display two messages on the `work_notes` field of a form and then hide the first message:
 
@@ -2431,7 +2431,7 @@ Whenever possible, use a UI policy instead of this method.
 
 To make a mandatory field read-only, you must first remove the mandatory requirement for that field by using the setMandatory\(\) method.
 
-Once you set a field to read-only, you cannot use the [setValue\(\)](GlideFormAPINX.md#) method to update the value of that field. If you need to set the value in this way, you must set the **readOnly** value to `false.`
+Once you set a field to read-only, you cannot use the [setValue\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) method to update the value of that field. If you need to set the value in this way, you must set the **readOnly** value to `false.`
 
 <table id="table_xdf_qpc_5s" class="parameters"><thead><tr><th>
 
@@ -2656,7 +2656,7 @@ Makes a Service Catalog variable editor read only.
 
 **Note:** This method is only applicable to Service Catalog variable editors in the core UI. This method is not supported in the Service Catalog form.
 
-The method must be placed in the client script of the table in which the variable editor is added, such as Requested Item \[sc\_req\_item\], Incident \[incident\], and so on. To set variables to read only in other tables, use the [setReadOnly\(\)](GlideFormAPINX.md#) method.
+The method must be placed in the client script of the table in which the variable editor is added, such as Requested Item \[sc\_req\_item\], Incident \[incident\], and so on. To set variables to read only in other tables, use the [setReadOnly\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) method.
 
 See also: [Service Catalog variable editors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-variable-editor.md)
 
@@ -2772,8 +2772,8 @@ Shows an annotation with a given name on the form UI.
 
 [Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. See also:
 
--   [GlideForm \(Next Experience\) - hideAnnotation\(String name\)](GlideFormAPINX.md#) to hide a specific annotation on the form.
--   [GlideForm \(Next Experience\) - toggleAnnotations\(\)](GlideFormAPINX.md#) to toggle annotations on and off with greater flexibility.
+-   [GlideForm \(Next Experience\) - hideAnnotation\(String name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to hide a specific annotation on the form.
+-   [GlideForm \(Next Experience\) - toggleAnnotations\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#) to toggle annotations on and off with greater flexibility.
 
 <table id="table_isv_1nt_rfc" class="parameters"><thead><tr><th>
 
@@ -3108,8 +3108,8 @@ Hides or shows all annotations on the form.
 
 [Annotations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) are visual separators between form elements, or blocks of colored text used to highlight form elements. If annotations are visible on the form, calling toggleAnnotations\(\) hides them. Similarly if annotations are hidden on the form, calling this method displays them. See also:
 
--   [GlideForm \(Next Experience\) - hideAnnotation\(String name\)](GlideFormAPINX.md#)
--   [GlideForm \(Next Experience\) - showAnnotation\(String name\)](GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - hideAnnotation\(String name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
+-   [GlideForm \(Next Experience\) - showAnnotation\(String name\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/GlideFormAPINX.md#)
 
 |Name|Type|Description|
 |----|----|-----------|

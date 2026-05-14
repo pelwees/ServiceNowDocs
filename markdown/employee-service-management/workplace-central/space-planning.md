@@ -40,34 +40,34 @@ You must install the following plugins to use the Space Planning module:
 
 You can install the plugins from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). You can also visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information of all the released apps, see the [ServiceNow Store release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Important:** You must configure your workplace locations to use Space Planning. For more information about configuring workplace locations, see [Providing your workplace data](../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
+**Important:** You must configure your workplace locations to use Space Planning. For more information about configuring workplace locations, see [Providing your workplace data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-service-delivery/concept/providing-your-workplace-data-wsd.md).
 
 To access Space Planning, navigate to **All** &gt; **Workplace Central**, then select the **Space Planning** module in the workspace.
 
-![Space Planning module.](../images/wsd-space-planning-module.png)
+![Space Planning module.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-space-planning-module.png)
 
-**Parent Topic:**[Explore Workplace Central](workplace-central.md)
+**Parent Topic:**[Explore Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central.md)
 
 **Related topics**  
 
 
-[Lists module](wsd-lists-module.md)
+[Lists module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/wsd-lists-module.md)
 
-[Workplace Analytics](workplace-analytics.md)
+[Workplace Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-analytics.md)
 
-[Space Optimization](space-optimization.md)
+[Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optimization.md)
 
-[Scenario Planning](scenario-planning.md)
+[Scenario Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning.md)
 
-[Schedule Planning](schedule-planning.md)
+[Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-planning.md)
 
-[Space assistance](space-assistance.md)
+[Space assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-assistance.md)
 
-[Event Planner](event-planner.md)
+[Event Planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner.md)
 
-[Move Management](move-mgmt.md)
+[Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt.md)
 
-[Case management](case-management-workspace.md)
+[Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-workspace.md)
 
-[Kiosk Indoor Mapping](kiosk-indoor-mapping.md)
+[Kiosk Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/kiosk-indoor-mapping.md)
 

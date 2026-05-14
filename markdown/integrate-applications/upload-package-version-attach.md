@@ -17,9 +17,9 @@ Upload a zip file of the automation package in RPA Hub to manually migrate the p
 
 You must do this task in the classic environment.
 
-Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md).
+Ensure that you’ve completed the tasks that are related to migrating your data from a lower environment to a higher environment. For more information, see [Migrating your data from a lower environment to a higher environment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/migrate-data-rpa-hub.md).
 
-Download the package version attachment from a lower instance. For more information, see [Download a package version in RPA Hub](download-package-version.md).
+Download the package version attachment from a lower instance. For more information, see [Download a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/download-package-version.md).
 
 Ensure that the **sn\_rpa\_fdn.allow\_manual\_upload\_of\_automation\_package** system property is marked as true. If you have the admin role, you can edit this system property.
 
@@ -27,7 +27,7 @@ Verify that the life-cycle stage of the package version isn’t set to **Retired
 
 Ensure that there’s no valid attachment that is associated with the package version record.
 
-For a quick integrity check, verify that the HashCode of a package version is correct. If the validation fails, remove the incorrect attachment that you previously uploaded by selecting **Manage Attachments**. Then, proceed with this task to upload a correct attachment. For more information about verifying the HashCode, see [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
+For a quick integrity check, verify that the HashCode of a package version is correct. If the validation fails, remove the incorrect attachment that you previously uploaded by selecting **Manage Attachments**. Then, proceed with this task to upload a correct attachment. For more information about verifying the HashCode, see [Verify the HashCode of a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-hash-code.md).
 
 Role required: sn\_rpa\_fdn.rpa\_release\_manager
 
@@ -50,7 +50,7 @@ You can upload the valid attachment only one time. The **Upload Attachment** but
 
 ## What to do next
 
-For a quick integrity check, verify the HashCode of a package version again. For more information, see [Verify the HashCode of a package version in RPA Hub](view-hash-code.md).
+For a quick integrity check, verify the HashCode of a package version again. For more information, see [Verify the HashCode of a package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/view-hash-code.md).
 
-**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](../concept/migrate-data-rpa-hub.md)
+**Parent Topic:**[Migrating your data from a lower environment to a higher environment in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/migrate-data-rpa-hub.md)
 

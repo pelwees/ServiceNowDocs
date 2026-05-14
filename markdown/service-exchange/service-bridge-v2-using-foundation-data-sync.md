@@ -35,7 +35,7 @@ Description
 
 </td><td>
 
-[Create an FDS Definition.](../task/service-bridge-v2-create-fds-offering-definition.md)
+[Create an FDS Definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/service-bridge-v2-create-fds-offering-definition.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Define the data that you want to share with your consumer.After you create and p
 
 </td><td>
 
-[Acknowledge FDS requests and send a sample payload.](../task/service-bridge-v2-acknowledge-FDS-request.md)
+[Acknowledge FDS requests and send a sample payload.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/service-bridge-v2-acknowledge-FDS-request.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ After receiving an FDS request from your consumer, acknowledge it and send a sam
 
 </td><td>
 
-[Publish subscriptions.](../task/service-bridge-v2-publish-fds-subscription.md)
+[Publish subscriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../task/service-bridge-v2-publish-fds-subscription.md)
 
 </td><td>
 
@@ -69,7 +69,7 @@ After the consumer accepts the subscription, publish it.After the FDS configurat
 </table>**Related topics**  
 
 
-[Foundation data sync](service-bridge-v2-explore-foundation-data-sync.md)
+[Foundation data sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[Configuring inbound foundation data sync as a consumer](service-bridge-v2-using-foundation-data-sync-for-consumer.md)
+[Configuring inbound foundation data sync as a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync-for-consumer.md)
 

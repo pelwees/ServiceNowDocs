@@ -52,5 +52,5 @@ Use the form to request a job opening in your organization, as a hiring manager 
 |Additional comments|Additional comments from the recruiter, if any.|
 |Work notes \(Private\)|Private work notes from the recruiter.|
 
-**Parent Topic:**[Recruitment Workspace reference](../concept/recruitment-workspace-reference.md)
+**Parent Topic:**[Recruitment Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/recruitment-workspace-reference.md)
 

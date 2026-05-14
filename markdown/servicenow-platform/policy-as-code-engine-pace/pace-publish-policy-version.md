@@ -29,7 +29,7 @@ Role required: sn\_pace.code\_editor
 
 3.  In the Details page, click the **Policy builder** tab.
 
-    ![Publish versions tab.](../image/pace-versions-publish.jpg)
+    ![Publish versions tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-versions-publish.jpg)
 
     Typically you would publish a Draft policy, but you can also republish an Archived version.
 
@@ -37,7 +37,7 @@ Role required: sn\_pace.code\_editor
 
     The following screen is displayed.
 
-    ![Activate and publish draft.](../image/pace-activate-publish-2.jpg)
+    ![Activate and publish draft.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-activate-publish-2.jpg)
 
 5.  Select the **Activate this policy** check box to activate the policy when it is published.
 

@@ -86,9 +86,9 @@ Steps
 
 </td><td>
 
--   To upload a new document, select the add attachment icon \(![Add attachment icon.](../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
--   To rename an attached file, select the edit file name icon \(![Edit file name icon.](../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
--   To remove an attached file, select the delete icon \(![Delete icon.](../../legal-digital-forensics/image/delete-icon.png)\).
+-   To upload a new document, select the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
+-   To rename an attached file, select the edit file name icon \(![Edit file name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
+-   To remove an attached file, select the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/../../legal-digital-forensics/image/delete-icon.png)\).
 
 
 </td></tr><tr><td id="d128685e258">
@@ -110,5 +110,5 @@ A link to the document is listed in the **External URL** column of the documents
     **Note:** The **Approvals** tab appears only when the Legal Content Review request or its attachment has approval records.
 
 
-**Parent Topic:**[Legal Content Review requests](../concept/legal-content-review-requests.md)
+**Parent Topic:**[Legal Content Review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/../concept/legal-content-review-requests.md)
 

@@ -36,5 +36,5 @@ This functionality is supported in Firefox 3.6 or later and Chrome. Support will
     **Warning:** Do not navigate away from the record while an upload is in progress. The upload must be completed for the file to be attached.
 
 
-**Parent Topic:**[Add and manage attachments](t_AddingAnAttachment.md)
+**Parent Topic:**[Add and manage attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)
 

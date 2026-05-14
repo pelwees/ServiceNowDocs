@@ -42,5 +42,5 @@ The integration leverages the Workflow Studio feature to initiate events. It uti
     5.  Select **Save**.
 
 
-**Parent Topic:**[Certificate integrations and notifications](../concept/cert-inventory-mgmt-workflow.md)
+**Parent Topic:**[Certificate integrations and notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/cert-inventory-mgmt-workflow.md)
 

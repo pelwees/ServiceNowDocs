@@ -47,5 +47,5 @@ There are no restrictions on zones. They can cross campuses and buildings. In ad
     |**To update the zone details**|Click **Update**.|
 
 
-**Parent Topic:**[Customer-created maps](../reference/r_Manually-builtMaps.md)
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_Manually-builtMaps.md)
 

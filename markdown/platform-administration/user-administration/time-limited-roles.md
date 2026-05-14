@@ -105,5 +105,5 @@ Additional comments or information for the limited role assignment
 
 The specified user now has the role. They must complete their restricted task between the start time and the end time.
 
-**Parent Topic:**[Time-limited role](time-limited-role-overview.md)
+**Parent Topic:**[Time-limited role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/time-limited-role-overview.md)
 

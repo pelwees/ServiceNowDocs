@@ -25,10 +25,10 @@ Role required: sn\_si.knowledge\_admin
 
 2.  Select a runbook from the list.
 
-    ![View runbook](../image/viewRunbook.png)
+    ![View runbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/viewRunbook.png)
 
 3.  To create a runbook, select **New**.
 
-    For more information, see [Create a runbook](../reference/setup-assistant-reference.md#).
+    For more information, see [Create a runbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/setup-assistant-reference.md#).
 
 

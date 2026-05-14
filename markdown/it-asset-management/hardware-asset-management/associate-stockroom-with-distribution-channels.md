@@ -32,7 +32,7 @@ When you create a distribution channel, the function is automatically set to Inb
 
 **Note:**
 
-You can't create distribution channels for a stockroom that doesn't support sourcing assets through distribution channels. For more details, see [Exclude a stockroom from distribution channels](exclude-stockroom-from-distribution-channel.md).
+You can't create distribution channels for a stockroom that doesn't support sourcing assets through distribution channels. For more details, see [Exclude a stockroom from distribution channels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exclude-stockroom-from-distribution-channel.md).
 
 ## Procedure
 
@@ -107,12 +107,12 @@ Option that indicates whether the distribution channel is active for sourcing as
 -   The distribution channel is added to the list shown in the **Distribution Channel** tab.
 -   The base stockroom is added as an outbound distribution channel for the channel stockroom. The **Function** field of the base stockroom is set to **Outbound**.
 
-**Parent Topic:**[Manage stockrooms](../concept/manage-your-stockrooms.md)
+**Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-your-stockrooms.md)
 
 **Related topics**  
 
 
-[Create a transfer order from a request](../../procurement/task/t_CreatingTransferOrderFromReq.md)
+[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../procurement/task/t_CreatingTransferOrderFromReq.md)
 
-[Source requests from local stockrooms](../../procurement/task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../procurement/task/consume-local-asset-stock.md)
 

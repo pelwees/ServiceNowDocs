@@ -39,7 +39,7 @@ The variable SQL debugger is not applicable for the following variables:
     -   To disable the variable SQL debugger, navigate to **Service Catalog** &gt; **Catalog Variables** &gt; **Disable Variable SQL Debugger**.
 2.  Navigate to **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Items**, select a catalog item that you want to debug, and click **Try It**.
 
-3.  Click the more options icon \(![more options icon](../image/Actions.png)\) and select **Show Variable SQL Debugger**.
+3.  Click the more options icon \(![more options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Actions.png)\) and select **Show Variable SQL Debugger**.
 
     The following information is displayed in the Variable SQL Debugger window:
 
@@ -70,5 +70,5 @@ The variable SQL debugger is not applicable for the following variables:
     **Note:** By default, triggered SQLs are sorted in descending order by their execution order.
 
 
-**Parent Topic:**[Debugging Service Catalog](../concept/debugging-service-catalog.md)
+**Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/debugging-service-catalog.md)
 

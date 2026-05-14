@@ -39,11 +39,11 @@ Deploying the Task Mining agent using Microsoft Intune involves converting the i
 
     2.  Select an existing key or create one.
 
-        ![Screenshot of registration key selection.](../image/tm-agent-3.png)
+        ![Screenshot of registration key selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-3.png)
 
     3.  Copy the **Instance URL** and **Registration key** on the Agent Installation page.
 
-    ![Screenshot of instance URL and registration key.](../image/tm-agent-4.png)
+    ![Screenshot of instance URL and registration key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-4.png)
 
 2.  Install the Windows agent by running the script.
 
@@ -51,7 +51,7 @@ Deploying the Task Mining agent using Microsoft Intune involves converting the i
 
     2.  Select **Copy** next to **Download and Install** to collect the one-line installation script.
 
-        ![Screenshot of Windows command line.](../image/tm-agent-6.png)
+        ![Screenshot of Windows command line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/../image/tm-agent-6.png)
 
     3.  Open Windows **PowerShell** as an administrator.
 

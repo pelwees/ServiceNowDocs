@@ -17,11 +17,11 @@ Use the Dynamic Choice user input control in a Virtual Agent topic to dynamicall
 
 ## Choice list display
 
-The Dynamic Choice list contains up to 10 items per page. When more than 10 items exist in an NLU conversation, you have the option to show the additional items and also filter the search results. The choice list prompt contains a search icon ![Search icon.](../images/icon-search.png) that users can select to filter the results. When more than 10 items exist in an LLM conversation, a scroll bar appears. When more than 16 items exist in an LLM conversation, a search bar appears.
+The Dynamic Choice list contains up to 10 items per page. When more than 10 items exist in an NLU conversation, you have the option to show the additional items and also filter the search results. The choice list prompt contains a search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-search.png) that users can select to filter the results. When more than 10 items exist in an LLM conversation, a scroll bar appears. When more than 16 items exist in an LLM conversation, a search bar appears.
 
 **Tip:** If you want to change the default number of listed items per page for NLU conversations, you can modify the **com.glide.cs.picker\_page\_limit** system property. The default value is 10.
 
-If selecting multiple choices is turned on, you can search within the **Search for options** field for filtering search results. Select or type all choices that apply, and then select the send icon ![Send icon.](../images/icon-arrow-submit-send.png). When you send your choices through an LLM topic, the LLM responds with whether your choices meet the validation criteria.
+If selecting multiple choices is turned on, you can search within the **Search for options** field for filtering search results. Select or type all choices that apply, and then select the send icon ![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-arrow-submit-send.png). When you send your choices through an LLM topic, the LLM responds with whether your choices meet the validation criteria.
 
 You can also select a choice or choices from a list in an LLM conversation by entering an utterance in the chat window. If there is no match for your input, the Virtual Agent informs you that it is not a valid choice, and prompts you to try a different input.
 
@@ -80,7 +80,7 @@ Prompt or question for the user. The prompt can be either a text string or a scr
 -   Use a spaced hyphen to add a bullet point to a line. For example, `- text`.
 -   Use a spaced right angle bracket to create a block quote. For example, `> text`.
 -   Use between one and six hash marks to create headers. For example, `#text#` or `######text######`
--   Use brackets and parentheses to create a hyperlink. For example, `[Link text](url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](image url)`
+-   Use brackets and parentheses to create a hyperlink. For example, `[Link text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/image url)`
 
 </td></tr><tr><td>
 
@@ -191,7 +191,7 @@ Header card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/insert-header-card-user-input-control.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -284,11 +284,11 @@ List user prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Dynamic Choice user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-dynamic-choice-llm-3.png)
+![All basic Dynamic Choice user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-dynamic-choice-llm-3.png)
 
 </td><td>
 
-![A choice list returns a list to select from.](../../now-assist-in-va/image/nass-dynamic-choice-user-prompt-zp4.png "Dynamic Choice list prompt example")
+![A choice list returns a list to select from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/image/nass-dynamic-choice-user-prompt-zp4.png "Dynamic Choice list prompt example")
 
 </td></tr></tbody>
 </table>## Dynamic Choice user input control properties for NLU topic discovery
@@ -333,7 +333,7 @@ Prompt or question for the user. The prompt can be either a text string or a scr
 -   Use a spaced hyphen to add a bullet point to a line. For example, `- text`.
 -   Use a spaced right angle bracket to create a block quote. For example, `> text`.
 -   Use between one and six hash marks to create headers. For example, `#text#` or `######text######`
--   Use brackets and parentheses to create a hyperlink. For example, `[Link text](url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](image url)`
+-   Use brackets and parentheses to create a hyperlink. For example, `[Link text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/image url)`
 
 </td></tr><tr><td>
 
@@ -444,7 +444,7 @@ Header card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/insert-header-card-user-input-control.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -530,8 +530,8 @@ No-code condition statement or low-code script that specifies a condition for le
 The dynamic choice list displays 10 items per page. When 10 or more results are returned:
 
 -   The list includes a link at the end of the list to show more results.
--   A search icon \(![Search icon.](../images/icon-search.png)\) displays in the prompt for filtering search results. Users select the icon to open a search box and enter the filter.
--   When selecting multiple choices, you can search within the **Search for options** field for filtering search results. If you input the script to enable secondary fields found in this topic, the search filter results apply to the secondary fields, too. Select or enter all choices that apply, and then select the send icon ![Send arrow icon](../images/icon-arrow-submit-send.png).
+-   A search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-search.png)\) displays in the prompt for filtering search results. Users select the icon to open a search box and enter the filter.
+-   When selecting multiple choices, you can search within the **Search for options** field for filtering search results. If you input the script to enable secondary fields found in this topic, the search filter results apply to the secondary fields, too. Select or enter all choices that apply, and then select the send icon ![Send arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-arrow-submit-send.png).
 
 When a header card is used, the choice list contains five items per page. When five or more results are returned, the list provides an option to show more results.
 
@@ -611,5 +611,5 @@ The script in the Choice Value Expression property defines and returns an array 
 |Apple Messages for Business|Not supported|Supported|None|
 |Alexa \(Voice\)|Not supported|Supported|For screen devices, use touch scroll; clicking links not supported. For nonscreen devices, use voice pagination.|
 
-**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

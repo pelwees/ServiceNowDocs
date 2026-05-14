@@ -57,7 +57,7 @@ Document
 
 </td><td>
 
-Table associated with the live profile.1.  Select the Search icon ![Search icon.](../images/icon-search.png).
+Table associated with the live profile.1.  Select the Search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-search.png).
 2.  In the Select the document dialog box, specify the following information:
     -   **Table name**: Select **Provider Channel Identity \[sys\_cs\_provider\_application\]**.
     -   **Document**: Select the provider application for your bot. Select `VA Bot to Bot Provider Application`.
@@ -84,5 +84,5 @@ Text that describes the live profile.
 </table>4.  Click **Update**.
 
 
-**Parent Topic:**[Configure to support chat history in Virtual Agent API](va-api-support-chat-history.md)
+**Parent Topic:**[Configure to support chat history in Virtual Agent API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-api-support-chat-history.md)
 

@@ -28,7 +28,7 @@ When Transaction Manager is embedded in a CRM, the user is presented with a butt
 -   Copy Transaction: Event to clone a transaction and its line items.
 -   Upsert Lines: This event manages the creation/update of transaction lines after the user browses catalog \(UI Effect "productSearch"\) to add new lines or reconfigures an existing line. Upsert Lines is automatically run after the user finishes selecting products from the catalog, configuring products, or reconfiguring \(UI Effect “reconfigure”\). Although this event works on lines with the transaction, it works at the transaction level, on all lines in the transaction.
 
-    For more information about UI Effects, see [Transaction Manager: Layouts - UI effects](transaction-manager-layouts-ui-effects.md).
+    For more information about UI Effects, see [Transaction Manager: Layouts - UI effects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-ui-effects.md).
 
 -   Delete Transaction: Event triggered to delete an existing transaction.
 
@@ -51,33 +51,33 @@ In addition to system events, the admin can define custom events to meet busines
 
 1.  In Transaction Manager Admin, click **Events**, and then click **+ New Event**.
 
-    ![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-new-1.png)
+    ![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-new-1.png)
 
 2.  In the New Event window, enter a name. As the name is entered, it is mirrored in the **Variable Name** field. By default, the variable name is the same as the entered name, but in camel case with all spaces and special characters removed. For example, if you enter the name Total of Manufacturing Lines, the automatically entered variable name is totalOfManufacturingLines. To create a custom variable name, click the pencil icon to the right of the variable name field and enter your own value.
 
-    ![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-new-2.jpeg)
+    ![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-new-2.jpeg)
 
 3.  Select the **Transaction Line** level, and then click **Save**.
 
 The event editor opens. By default, events have their event access set to No Access. Click **Edit Event Access**, change the event access level to **Active**, and then click **Done** to return to the event editor.
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-total-3.jpeg)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-total-3.jpeg)
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-access-4.jpeg)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-access-4.jpeg)
 
 In the Actions area, you can assign either rule groupings or integrations to fire when the event is triggered. To add a new action to the event, click **+ Add New Action** and choose either rule groupings or integration. A menu of the available rule groupings or integrations appears. Choose the rule grouping or integration to apply to the event. You can add multiple rule groupings or integrations to the same event.
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-rule-grouping-5.jpeg)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-rule-grouping-5.jpeg)
 
 Use the **Transition** toggle to determine whether the event transitions the transaction forward or backward in the stage sequence. By default, the event does not transition the transaction to another stage. Clicking the **Transition** toggle enables the transition function.
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-run-stage-rules-6.jpeg)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-run-stage-rules-6.jpeg)
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-run-stage-rules-7.jpeg)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-run-stage-rules-7.jpeg)
 
 When you're finished, click **Save**. The new event appears in the event list as either a transaction-level event or a transaction line-level event, depending on which level you chose when the event was created.
 
-![Transaction Manager: Events](../images/cpq-txn-mgr-rules-events-custom-final.png)
+![Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-rules-events-custom-final.png)
 
 ## Event settings: Validate configured items
 
@@ -90,7 +90,7 @@ Two line-level system fields support this function: **txn.line.configuration.sta
 **Related topics**  
 
 
-[Transaction Manager: Rules and rule groupings](transaction-manager-rules-and-rule-groupings.md)
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 
-[Transaction Manager: Stages](transaction-manager-stages.md)
+[Transaction Manager: Stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 

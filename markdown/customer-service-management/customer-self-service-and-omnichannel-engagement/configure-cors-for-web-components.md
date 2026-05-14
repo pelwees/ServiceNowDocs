@@ -19,7 +19,7 @@ Configure a CORS rule to enable cross-domain requests between ServiceNow compone
 
 You must have the following setup in to configure CORS rules for components:
 
--   You must activate the ServiceNow components. For more information, see [Activate Web Embeddables](act-web-embeddables.md).
+-   You must activate the ServiceNow components. For more information, see [Activate Web Embeddables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/act-web-embeddables.md).
 -   At least one ServiceNow component configured on your instance.
 
 Role required: admin

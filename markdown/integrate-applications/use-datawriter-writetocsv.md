@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-You can configure the properties for the WriteToCSV component. For more information about these properties, see [Properties of the Data Writer components](../reference/util-datawriter-prop.md).
+You can configure the properties for the WriteToCSV component. For more information about these properties, see [Properties of the Data Writer components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-datawriter-prop.md).
 
 ## Procedure
 
@@ -103,7 +103,7 @@ Data In
 
 </td><td>
 
-Indicate whether the data passed appends or replaces existing data in the CSV file \(True or False\). Double click to configure the port properties. For more information, see [Configure port properties](configure-input-port-properties.md).
+Indicate whether the data passed appends or replaces existing data in the CSV file \(True or False\). Double click to configure the port properties. For more information, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 </td><td>
 
@@ -113,5 +113,5 @@ Boolean
 </table>4.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Data Writer](../concept/datawriter-utility.md)
+**Parent Topic:**[Data Writer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/datawriter-utility.md)
 

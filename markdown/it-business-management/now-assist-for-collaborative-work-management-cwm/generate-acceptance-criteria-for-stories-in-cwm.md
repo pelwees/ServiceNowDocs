@@ -31,7 +31,7 @@ Role required: sn\_cwm\_ai.cwm\_ai\_user
 
 5.  Select **Generate acceptance criteria**.
 
-    ![Generate acceptance criteria for a CWM story.](../images/na-cwm-acc-criteria.png)
+    ![Generate acceptance criteria for a CWM story.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../images/na-cwm-acc-criteria.png)
 
 6.  Review the generated acceptance criteria.
 

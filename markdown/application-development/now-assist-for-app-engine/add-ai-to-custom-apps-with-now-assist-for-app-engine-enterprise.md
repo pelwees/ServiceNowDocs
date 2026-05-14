@@ -28,15 +28,15 @@ For more information, see [ServiceNow product tiers](https://raw.githubuserconte
 
 <table id="table_wjh_cz5_bfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for App Engine concepts and features.](exploring-now-assist-for-app-generation-enterprise.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for App Engine concepts and features.](exploring-now-assist-for-app-generation-enterprise.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-cloud-download.svg)Install Now Assist for App Engine.](../task/install-now-assist-for-app-engine.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../reuse/icons/brand-icons/bus-cloud-download.svg)Install Now Assist for App Engine.](../task/install-now-assist-for-app-engine.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for App Engine.](use-now-assist-for-app-engine-enterprise.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Now Assist for App Engine.](use-now-assist-for-app-engine-enterprise.md)
 
 </td><td>
 

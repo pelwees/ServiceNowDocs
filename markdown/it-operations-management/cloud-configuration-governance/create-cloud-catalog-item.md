@@ -153,18 +153,18 @@ Full description of the catalog item. This description appears in the service ca
 
     |Action|Description|
     |------|-----------|
-    |Export Catalog Item|Exports all the components \(such as blueprints, resource blocks, rules\) of the catalog item from one environment to the other. See [Moving Cloud Provisioning and Governance content across environments](../concept/move-content-intro.md).|
+    |Export Catalog Item|Exports all the components \(such as blueprints, resource blocks, rules\) of the catalog item from one environment to the other. See [Moving Cloud Provisioning and Governance content across environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/move-content-intro.md).|
     |Item Diagnostic|Identifies possible issues with the catalog item data and configuration. See [Item diagnostic report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ItemDiagnostic.md)|
-    |Manage Attributes|See [Manage operation attributes](manage-attributes.md).|
+    |Manage Attributes|See [Manage operation attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/manage-attributes.md).|
     |Reset Catalog Item|Resets \(to the last change you made\) any customizations that you've made to the catalog item.|
 
 
 ## What to do next
 
-[Create a cloud template-based catalog item](create-cloud-template.md).
+[Create a cloud template-based catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-template.md).
 
 **Related topics**  
 
 
-[Create a catalog item from a Terraform template](catalog-item-terraform-template.md)
+[Create a catalog item from a Terraform template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/catalog-item-terraform-template.md)
 

@@ -35,9 +35,9 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the navigation bar, select the Express List icon \(![Express List icon.](../../event-management/image/express-list1.png)\).
+2.  In the navigation bar, select the Express List icon \(![Express List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list1.png)\).
 
-3.  In the Active alerts list, select the information icon \(![Information icon.](../../event-management/image/info.png)\) of an alert.
+3.  In the Active alerts list, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/info.png)\) of an alert.
 
 4.  On the preview panel **Info** tab, select **Analyze** in Alert analysis by Now Assist.
 
@@ -48,5 +48,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
     The AI-generated summary content replaces the original description of the alert group.
 
 
-**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](../concept/el-alert-group-analysis.md)
+**Parent Topic:**[Viewing an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/el-alert-group-analysis.md)
 

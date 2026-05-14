@@ -15,9 +15,9 @@ You can export Microsoft Active Directory certificates, such as root, intermedia
 
 You must do these tasks in your Windows machine.
 
-If you don't have the user-generated certificates \(client authentication and code signing\), do the tasks in the following topics to export active directory certifications. For more information, see [Generating and installing user certificates](use-user-certificates-rpa.md#).
+If you don't have the user-generated certificates \(client authentication and code signing\), do the tasks in the following topics to export active directory certifications. For more information, see [Generating and installing user certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-user-certificates-rpa.md#).
 
-**Parent Topic:**[Obtaining client authentication and code signing certificates for RPA Hub](code-signing-certificate-rpa.md)
+**Parent Topic:**[Obtaining client authentication and code signing certificates for RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/code-signing-certificate-rpa.md)
 
 ## Export a root certificate
 

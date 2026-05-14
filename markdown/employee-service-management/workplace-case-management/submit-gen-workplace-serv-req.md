@@ -29,7 +29,7 @@ Request a workplace-related help or raise an issue about anything related to the
 
 If the workplace has a QR code available, you can scan the QR code and submit your request.
 
-You can also submit a general question using the Virtual agent chat support. From Employee Center portal, select the chat option ![Chat icon](../../wsd-reservation-management/image/chat-icon.png). Type your question or select **Show Me Everything** to choose from the list of options to submit your query.
+You can also submit a general question using the Virtual agent chat support. From Employee Center portal, select the chat option ![Chat icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../wsd-reservation-management/image/chat-icon.png). Type your question or select **Show Me Everything** to choose from the list of options to submit your query.
 
 ## Procedure
 
@@ -57,7 +57,7 @@ You can also submit a general question using the Virtual agent chat support. Fro
 
     If the Workplace Space Mapping plugin is installed, you can also click the **Find the space on a floor map** option to select the space directly on the map.
 
-    If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](../../wsd-reservation-management/task/display-permanent-seats-on-maps.md).
+    If employees have a permanent assignment in their workplace profile, the employee names are displayed on the map for a selected space. For more information, see [Display permanent seat assignments on floor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../wsd-reservation-management/task/display-permanent-seats-on-maps.md).
 
     1.  In the **Location** field, select the building where the space is located.
 
@@ -86,36 +86,36 @@ If you want to cancel a request, Click **Cancel Request**.
 
 When the request is resolved, select **Accept** or **Reject**.
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/request-workplace-services.md)
 
 **Related topics**  
 
 
-[Reconfigure an office space](Reconfig-office-space-1.md)
+[Reconfigure an office space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/Reconfig-office-space-1.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-move-mgmt/task/request-desk-change.md)
 
-[Request furniture for a space](request-furniture.md)
+[Request furniture for a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-furniture.md)
 
-[Raise a space assistance request](../../workplace-space-management/task/raise-a-space-recommendation-request.md)
+[Raise a space assistance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../../workplace-space-management/task/raise-a-space-recommendation-request.md)
 
-[Submit a maintenance request](submit-a-maintenance-request.md)
+[Submit a maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-maintenance-request.md)
 
-[Submit a catering request](submit-a-catering-request.md)
+[Submit a catering request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-catering-request.md)
 
-[Submit heating and cooling request](submit-heating-and-cooling-request.md)
+[Submit heating and cooling request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-heating-and-cooling-request.md)
 
-[Submit a badge request](submit-a-badge-request.md)
+[Submit a badge request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-badge-request.md)
 
-[Submit a tech support request](submit-a-tech-support-request.md)
+[Submit a tech support request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-tech-support-request.md)
 
-[Submit a cleaning request](submit-a-cleaning-request.md)
+[Submit a cleaning request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-cleaning-request.md)
 
-[Submit an equipment request](submit-a-equipment-request.md)
+[Submit an equipment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-equipment-request.md)
 
-[Edit a workplace request](edit-workplace-request.md)
+[Edit a workplace request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/edit-workplace-request.md)
 
-[Submit an emergency maintenance request](submit-emergency-maint-request.md)
+[Submit an emergency maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-emergency-maint-request.md)
 
-[Submit a change event request for a reservation](submit-change-event-reservation.md)
+[Submit a change event request for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-change-event-reservation.md)
 

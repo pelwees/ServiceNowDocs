@@ -25,7 +25,7 @@ For general information about how geolocation is used on the ServiceNow platform
 
 The first time a user, such as a field technician, uses the Geolocation topic block in a conversation, they are asked if they would like to share details about their location.
 
-![The chatbot asks, "Would you like to share your location?" Choices are No and Yes.](../images/va-geolocation-approval.png)
+![The chatbot asks, "Would you like to share your location?" Choices are No and Yes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-geolocation-approval.png)
 
 <table id="table_epl_33n_xrb"><thead><tr><th>
 
@@ -55,26 +55,26 @@ No
 
 </td><td>
 
-The topic block does not retrieve user coordinates and displays a relevant error message for the topic author to resolve. The error is logged as an output parameter. For details, see [Geolocation topic block parameters](../reference/va-platform-topicblocks.md#geolocation-topic-block-properties).
+The topic block does not retrieve user coordinates and displays a relevant error message for the topic author to resolve. The error is logged as an output parameter. For details, see [Geolocation topic block parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-platform-topicblocks.md#geolocation-topic-block-properties).
 
 </td></tr></tbody>
 </table>## Modify the Geolocation topic block
 
 If you are a topic author or an admin, you can modify the Geolocation topic block flow, as applicable. Simply duplicate the topic block and rename it. You can then use it as needed in the larger conversation flow you're designing.
 
-The Geolocation topic block properties sheet lets topic authors specify the input and output mappings. You can also customize the prompt using data pills or scripts. For example, you can include an explanation or reason for asking the question. For information about using data pills and scripts, see [Assistant Designer controls](virtual-agent-controls.md).
+The Geolocation topic block properties sheet lets topic authors specify the input and output mappings. You can also customize the prompt using data pills or scripts. For example, you can include an explanation or reason for asking the question. For information about using data pills and scripts, see [Assistant Designer controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-controls.md).
 
-![The value of the permissionPrompt string is "Would you like to share your location?"](../images/va-geolocation-user-prompt.png "Share location prompt in the Geolocation topic block properties")
+![The value of the permissionPrompt string is "Would you like to share your location?"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-geolocation-user-prompt.png "Share location prompt in the Geolocation topic block properties")
 
 Use the input mappings to customize how Virtual Agent asks users for permission to share their location. The response is passed to the topic block.
 
 Use the output mappings to specify the variables that are returned from the topic block in the conversation.
 
-![Geolocation output mapping parameters include latitude, longitude, errormessage, errortype, and status.](../images/va-geolocation-output-parameters.png "Output mapping properties in the Geolocation topic block")
+![Geolocation output mapping parameters include latitude, longitude, errormessage, errortype, and status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-geolocation-output-parameters.png "Output mapping properties in the Geolocation topic block")
 
 All the variables are selected by default. Keep the default choices, or select the variables you want returned from the topic block. At a minimum, you should select the latitude and longitude coordinates. However, error messages, error type, and status details could be useful when resolving problems. The output mappings you select are stored as variables on the server.
 
-![Geolocation topic block results read, "This is what I got back," followed by the latitude and longitude, an OK status, and no error.](../images/va-geolocation-results.png "Geolocation topic block results")
+![Geolocation topic block results read, "This is what I got back," followed by the latitude and longitude, an OK status, and no error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-geolocation-results.png "Geolocation topic block results")
 
-For more information about the Geolocation topic block properties, see [Geolocation topic block parameters](../reference/va-platform-topicblocks.md#geolocation-topic-block-properties).
+For more information about the Geolocation topic block properties, see [Geolocation topic block parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-platform-topicblocks.md#geolocation-topic-block-properties).
 

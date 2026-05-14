@@ -39,17 +39,17 @@ When you create a quiz, the system creates a default category using the name of 
 
     3.  Click the X icon to close the category properties dialog box and save your settings.
 
-    ![Quiz designer category properties](../images/QuizDesignerCatProp.png)
+    ![Quiz designer category properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizDesignerCatProp.png)
 
 4.  Add a new category by clicking the **+** icon in the title bar of an existing category.
 
 
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
 **Related topics**  
 
 
-[Quiz designer](../concept/c_QuizDesigner.md)
+[Quiz designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md)
 
-[Create a quiz](t_CreateaQuiz.md)
+[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 

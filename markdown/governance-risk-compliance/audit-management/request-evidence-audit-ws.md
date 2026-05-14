@@ -23,7 +23,7 @@ Role required: sn\_audit.user
 
 1.  Navigate to **All** &gt; **Audit Workspace**.
 
-2.  In the Audit Workspace select the List icon \(![List](../../grc-cam-workspace/image/ws-list-icon.png)\).
+2.  In the Audit Workspace select the List icon \(![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-cam-workspace/image/ws-list-icon.png)\).
 
 3.  Navigate to **Evidence requests** &gt; **My request**.
 
@@ -213,7 +213,7 @@ Confidential
 
 </td><td>
 
-Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on the confidential option, see [Confidentiality flag for audit and compliance records](../../grc-audit/concept/confidentiality-flag-audit-pc.md).
+Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on the confidential option, see [Confidentiality flag for audit and compliance records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-audit/concept/confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
 </table>6.  Save the form.

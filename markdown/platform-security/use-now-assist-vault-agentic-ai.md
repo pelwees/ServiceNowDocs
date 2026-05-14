@@ -37,14 +37,14 @@ Enable security settings to run AI agents and agentic workflows using access con
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
--   **[Securing custom apps with the Vault agents agentic workflow](now-assist-vault-securing-custom-apps-agents.md)**  
+-   **[Securing custom apps with the Vault agents agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-securing-custom-apps-agents.md)**  
 Use the securing custom apps with Vault agents agentic workflow to get recommended data classifications and available protections for a custom application.
--   **[Access Observer configuration agentic workflow](now-assist-vault-access-observer-config.md)**  
+-   **[Access Observer configuration agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-access-observer-config.md)**  
 Use the Access Observer configuration agentic workflow to view, create, deactivate, and delete Access Observer settings for a particular field.
--   **[Summarize Access Observer logs agentic workflow](now-assist-vault-access-observer-logs.md)**  
+-   **[Summarize Access Observer logs agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-access-observer-logs.md)**  
 Use the summarize Access Observer logs agentic workflow to review and summarize access logs for a specific field, identifying access sources, users, and their roles.
--   **[Field encryption with Vault module agentic workflow](now-assist-vault-field-encryption-module.md)**  
+-   **[Field encryption with Vault module agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-field-encryption-module.md)**  
 Use the field encryption with Vault module agentic workflow to encrypt specific fields and configure secure access to users with designated roles.
 
-**Parent Topic:**[ServiceNow Vault](../../vault/reference/servicenow-vault-landing.md)
+**Parent Topic:**[ServiceNow Vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../vault/reference/servicenow-vault-landing.md)
 

@@ -21,7 +21,7 @@ Verify the following:
 -   You have installed the Now Assist for Platform plugin \(sn\_genai\_platform\).
 -   You have installed the Generative AI Controller plugin \(sn\_generative\_ai\).
 -   You have installed the Now Assist Skill Kit plugin \(sn\_skill\_builder\).
--   You have installed the Now Assist for ITOM plugin. For more information, see [Install Now Assist for IT Operations Management](install-now-assist-itom.md).
+-   You have installed the Now Assist for ITOM plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/install-now-assist-itom.md).
 -   You have activated the Now Assist panel. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 -   You have activated the following assistants:
 
@@ -55,11 +55,11 @@ Role required: admin
 
 3.  In the ITOM Product Hub, select **Start setup**.
 
-    ![IT Operations Management Product Hub start setup screen](../image/nowassist-setup-start-setup.png)
+    ![IT Operations Management Product Hub start setup screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/nowassist-setup-start-setup.png)
 
-4.  Select the install icon \(![Install icon](../image/icon-now-assist-setup-download.png)\) on the ITOM Visibility card.
+4.  Select the install icon \(![Install icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/icon-now-assist-setup-download.png)\) on the ITOM Visibility card.
 
-    ![Installation progress page to install ITOM Visibility](../image/now-assist-setup-download.png)
+    ![Installation progress page to install ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/now-assist-setup-download.png)
 
     **Note:** Expand the What's included section to view the applications installed with ITOM Visibility.
 

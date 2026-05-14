@@ -32,5 +32,5 @@ Role required: admin
 3.  From the Quick Actions section of the details page, select **Repair**.
 
 
-**Parent Topic:**[Repairing applications and plugins](../concept/repairing-apps-app-manager.md)
+**Parent Topic:**[Repairing applications and plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../concept/repairing-apps-app-manager.md)
 

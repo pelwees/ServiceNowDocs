@@ -29,5 +29,5 @@ For example, suppose you added a new input parameter and made an existing parame
 
 When you open an affected topic, Virtual Agent Designer displays warnings and messages on the canvas indicating where you need to make changes. When you select the Topic Block node, warning messages are displayed in the properties sheet so that you can update parameters accordingly.
 
-![Virtual Agent Designer topic Properties tab, Topic Library usages table, and conversation builder canvas with highlighted areas showing how to find topics affected by input parameter changes.](../images/parameter-change.png "Messaging of input parameter changes")
+![Virtual Agent Designer topic Properties tab, Topic Library usages table, and conversation builder canvas with highlighted areas showing how to find topics affected by input parameter changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/parameter-change.png "Messaging of input parameter changes")
 

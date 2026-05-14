@@ -24,7 +24,7 @@ If you create client scripts to control field values on a form, you must use ano
 -   Create data policies.
 -   Create a separate onCellEdit client script.
 
-**Parent Topic:**[Client-side scripting](client-side-scripting-overview.md)
+**Parent Topic:**[Client-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/client-side-scripting-overview.md)
 
 ## Restrict list editing
 

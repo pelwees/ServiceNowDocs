@@ -33,11 +33,11 @@ Role required: sn\_wfo\_cfg\_itsm.manager and sn\_team\_perf.team\_performance\_
 
 5.  Select the chart for the date.
 
-    ![Time-series chart displaying dates.](../image/date-format-kpi.png)
+    ![Time-series chart displaying dates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/date-format-kpi.png)
 
     The KPI details page shows the selected date \(date filter\) in the same format as the date in the date range fields. For example, Filtered for: 2023-04-15. This page also shows the filtered data for that selected date. The following image shows the selected date and the corresponding data.
 
-    ![Time-series chart displaying dates and the KPI details page displaying the date filter.](../image/date-format-kpi-selected.png)
+    ![Time-series chart displaying dates and the KPI details page displaying the date filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/date-format-kpi-selected.png)
 
 6.  Drill down further to a KPI, for example, P1.
 
@@ -50,5 +50,5 @@ Role required: sn\_wfo\_cfg\_itsm.manager and sn\_team\_perf.team\_performance\_
     You can close the date pill filter to go back to the data you want to see for the selected date range.
 
 
-**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
+**Parent Topic:**[Analyzing team performance using Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/teams-workforce-optimization-configurable-wfo-itsm.md)
 

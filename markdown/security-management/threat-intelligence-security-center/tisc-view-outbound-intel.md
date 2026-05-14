@@ -57,12 +57,12 @@ Role required: sn\_sec\_tisc.analyst
 9.  Additionally, select **Reject** button if you need to reject the outbound sharing intelligence.
 
 
-**Parent Topic:**[Viewing Threat Intelligence External Sharing](../concept/tisc-intel-sharing-module.md)
+**Parent Topic:**[Viewing Threat Intelligence External Sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-intel-sharing-module.md)
 
 **Related topics**  
 
 
-[Viewing Inbound Intelligence](tisc-view-inbound-intel.md)
+[Viewing Inbound Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-inbound-intel.md)
 
-[Viewing TAXII Collections](tisc-view-taxii-collections.md)
+[Viewing TAXII Collections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-view-taxii-collections.md)
 

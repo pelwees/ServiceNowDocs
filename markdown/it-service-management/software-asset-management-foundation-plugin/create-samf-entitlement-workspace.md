@@ -35,8 +35,8 @@ When you start creating the entitlement, it is in the build status. After you pu
 
 4.  In the Create New Software Entitlement page, fill in the fields.
 
-    For a detailed description of the fields, see [Create a SAM Foundation entitlement](t_AddASoftwareEntitlementSAMF.md).
+    For a detailed description of the fields, see [Create a SAM Foundation entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_AddASoftwareEntitlementSAMF.md).
 
 
-**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](../concept/configuring-samf-plugin-workspace.md)
+**Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../concept/configuring-samf-plugin-workspace.md)
 

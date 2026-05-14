@@ -21,9 +21,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Business Applications**.
 
@@ -42,34 +42,34 @@ Role required: sn\_apm.apm\_user
     The architectural artifact is removed from the business application.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Add an existing architectural artifact to a business application](eaw-add--existing-archi-artfct-to-a-ba.md)
+[Add an existing architectural artifact to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add--existing-archi-artfct-to-a-ba.md)
 
-[Create an architectural artifact and associate it with a business application](eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-ba.md)
 
-[View architectural artifacts associated with a business application](eaw-view-archi-artfct-assoc-with-ba.md)
+[View architectural artifacts associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-archi-artfct-assoc-with-ba.md)
 
-[View all architectural artifact categories](eaw-view-arch-art-categories.md)
+[View all architectural artifact categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-arch-art-categories.md)
 
-[View all architectural artifacts](eaw-view-all-architectural-artifacts.md)
+[View all architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-architectural-artifacts.md)
 
-[Create or edit an architectural artifact from Portfolio page](eaw-create-architectural-artifact.md)
+[Create or edit an architectural artifact from Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-architectural-artifact.md)
 
 [eaw-add-an-architectural-artifact-version]
 
-[Add a related entity to an architectural artifact](eaw-add-a-related-entity-to-an-architectural-artifact.md)
+[Add a related entity to an architectural artifact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-a-related-entity-to-an-architectural-artifact.md)
 
-[Share an architectural artifact with users or groups](eaw-share--archi-artft-with-users-groups.md)
+[Share an architectural artifact with users or groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-share--archi-artft-with-users-groups.md)
 
-[Manage access to architectural artifacts](eaw-manage-access-to-architectural-artifacts.md)
+[Manage access to architectural artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-manage-access-to-architectural-artifacts.md)
 
-[Request approval for an architectural artifact of type URL or Attachment](eaw-req-approval-artifact-version.md)
+[Request approval for an architectural artifact of type URL or Attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-req-approval-artifact-version.md)
 
-[Download an architectural artifact version](eaw-download-artifact-version.md)
+[Download an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-download-artifact-version.md)
 
-[Delete an architectural artifact version](eaw-delete-an-architectural-artifact-version.md)
+[Delete an architectural artifact version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-delete-an-architectural-artifact-version.md)
 

@@ -44,7 +44,7 @@ Attachment indexing is controlled by an indexed source's **index\_attachments** 
 -   true \(default value\): Attachments are indexed for records from the indexed source.
 -   false: Attachments aren't indexed for records from the indexed source.
 
-The following procedure explains how to make sure this attribute is set to **true** for an indexed source. For more general instructions on defining indexed source attributes, see [Create an indexed source attribute in AI Search](create-indexed-source-attr-ais.md).
+The following procedure explains how to make sure this attribute is set to **true** for an indexed source. For more general instructions on defining indexed source attributes, see [Create an indexed source attribute in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-attr-ais.md).
 
 ## Procedure
 
@@ -65,7 +65,7 @@ Attachment indexing is enabled for the indexed source.
 
 ## What to do next
 
-If you changed the **index\_attachments** attribute's value from **false** to **true**, reindex content for the indexed source. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](index-single-source-ais.md).
+If you changed the **index\_attachments** attribute's value from **false** to **true**, reindex content for the indexed source. For details on reindexing, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md).
 
-**Parent Topic:**[Indexed source attributes for AI Search](../concept/indexed-source-attributes-ais.md)
+**Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/indexed-source-attributes-ais.md)
 

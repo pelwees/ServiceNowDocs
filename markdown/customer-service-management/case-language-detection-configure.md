@@ -34,7 +34,7 @@ Ensure that your instance is set up for Predictive Intelligence \(PI\).
 Predictive Intelligence is a ServiceNow platform feature that provides a layer of artificial intelligence, which serves as a framework for machine learning models. For more information, see:
 
 -   [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
--   [Machine learning solutions for Customer Service Management](machine-learning-csm.md)
+-   [Machine learning solutions for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/machine-learning-csm.md)
 
 </td></tr><tr><td>
 
@@ -68,5 +68,5 @@ To activate the translator:1.  Navigate to **Dynamic Translation** &gt; **Transl
 </table>**Related topics**  
 
 
-[Language detection](case-language-detection.md)
+[Language detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-language-detection.md)
 

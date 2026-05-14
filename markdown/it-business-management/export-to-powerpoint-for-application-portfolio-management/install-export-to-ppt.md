@@ -52,7 +52,7 @@ The following components are installed with installation of the Export to PowerP
 -   Roles
 -   Tables
 
-See [Components installed with Export to PowerPoint for Strategic Portfolio Management](../reference/installed-with-export-ppt.md) for more information.
+See [Components installed with Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../reference/installed-with-export-ppt.md) for more information.
 
-**Parent Topic:**[Configuring Export to PowerPoint](../concept/configure-export-to-ppt.md)
+**Parent Topic:**[Configuring Export to PowerPoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../concept/configure-export-to-ppt.md)
 

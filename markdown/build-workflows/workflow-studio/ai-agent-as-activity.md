@@ -34,7 +34,7 @@ When you add an AI agent to the activity, you select the agent, provide an objec
 
 3.  In a new or an existing stage, select **Add an activity**.
 
-    ![Image showing the option to add an activity.](../images/use-ai-agent.png)
+    ![Image showing the option to add an activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/use-ai-agent.png)
 
 4.  From the list of activities, under **Common Activities**, select **Use an AI agent**.
 
@@ -129,47 +129,47 @@ Alex performs all interactions with the AI agent within the playbook, without op
 
 1.  When the playbook reaches the research stage, Alex selects **Start Now Assist** to run the AI agent.
 
-    ![User clicks Start Now Assist button to run the AI agent.](../images/use-ai-agent-start.png)
+    ![User clicks Start Now Assist button to run the AI agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/use-ai-agent-start.png)
 
 2.  Alex can view the tasks that the AI agent is performing.
 
-    ![The AI agent is running and Alex can view the tasks being performed by the agent.](../images/use-ai-agent-status.png)
+    ![The AI agent is running and Alex can view the tasks being performed by the agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/use-ai-agent-status.png)
 
 3.  After analyzing the case and similar cases, the AI agent recommends adding four tasks and prompts Alex for confirmation. Alex can remove any of the recommended tasks or select **Confirm** for the AI agent to create the tasks.
 
-    ![The AI agent prompts for permission before creating tasks for the next steps.](../images/use-ai-agent-worknote.png)
+    ![The AI agent prompts for permission before creating tasks for the next steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/use-ai-agent-worknote.png)
 
 4.  After receiving the confirmation, the AI agent creates the tasks and marks the activity as complete.
 
-    ![AI agent completes the activity.](../images/use-ai-agent-complete.png)
+    ![AI agent completes the activity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/use-ai-agent-complete.png)
 
 
-**Parent Topic:**[Stages and activities](../concept/process-automation-designer-lanes-activities.md)
+**Parent Topic:**[Stages and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-lanes-activities.md)
 
 **Related topics**  
 
 
-[Add and configure a stage in a playbook](add-configure-stage.md)
+[Add and configure a stage in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-stage.md)
 
-[Activity definitions](../concept/activity-definitions.md)
+[Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md)
 
-[Add and configure an activity in a playbook](add-configure-activity.md)
+[Add and configure an activity in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-activity.md)
 
-[Automation Assets](../concept/automation-assets.md)
+[Automation Assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/automation-assets.md)
 
-[Start with delay input properties](../reference/start-with-delay-properties.md)
+[Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/start-with-delay-properties.md)
 
-[Optional activities](../concept/optional-activities.md#)
+[Optional activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/optional-activities.md#)
 
-[Decision activities](create-a-decision-activity.md)
+[Decision activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-a-decision-activity.md)
 
-[Decision stages](create-decision-stage.md)
+[Decision stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-decision-stage.md)
 
-[Questionnaire activity](../reference/questionnaire-activity.md)
+[Questionnaire activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/questionnaire-activity.md)
 
-[Parallel branches](create-parallel-activity.md)
+[Parallel branches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-parallel-activity.md)
 
-[Add dynamic inputs to an activity](add-dynamic-inputs-to-activity.md)
+[Add dynamic inputs to an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-dynamic-inputs-to-activity.md)
 
-[Playbook activity state mapping](../../workspace/concept/playbook-activity-state-mapping.md)
+[Playbook activity state mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../workspace/concept/playbook-activity-state-mapping.md)
 

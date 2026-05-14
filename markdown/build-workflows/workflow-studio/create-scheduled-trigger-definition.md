@@ -25,11 +25,11 @@ Role required: playbook.admin or pd\_author
 
 2.  Open the playbook that you want to configure or create a playbook.
 
-3.  On the sidebar, select **Triggers** \(![Icon to open the triggers.)](../images/triggers-icon.png)\).
+3.  On the sidebar, select **Triggers** \(![Icon to open the triggers.)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/triggers-icon.png)\).
 
-    **Note:** You can't open triggers until the parent table is specified for the playbook. To specify a parent table, edit **Start** in the diagram view, or open the **More actions menu** \(![More actions menu](../images/icon-horizontal-menu.png)\) and select **Properties**.
+    **Note:** You can't open triggers until the parent table is specified for the playbook. To specify a parent table, edit **Start** in the diagram view, or open the **More actions menu** \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/icon-horizontal-menu.png)\) and select **Properties**.
 
-    ![Triggers in playbooks with options to edit, delete, or create triggers.](../images/triggers-playbook.png)
+    ![Triggers in playbooks with options to edit, delete, or create triggers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/triggers-playbook.png)
 
     If triggers are already added to the playbook, the **Triggers** screen displays a list of the associated triggers. You can edit, delete, or add a trigger.
 
@@ -67,7 +67,7 @@ Weekly
 
 </td><td>
 
-Runs every week or at your chosen interval of weeks. For example, every 2, 3, or 10 weeks.![Option to select the days of the week for scheduling a weekly trigger.](../../flow-designer/images/scheduled-trigger-weekly.png)
+Runs every week or at your chosen interval of weeks. For example, every 2, 3, or 10 weeks.![Option to select the days of the week for scheduling a weekly trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/images/scheduled-trigger-weekly.png)
 
 Select on which days of the week you want the trigger to run. For example, every Monday, Wednesday, and Friday.
 
@@ -77,7 +77,7 @@ Monthly
 
 </td><td>
 
-Runs every month or at your chosen interval of months, for example, every 2, 3, or 24 months.![Option to select the day of the month for scheduling a monthly trigger.](../../flow-designer/images/scheduled-trigger-monthly.png)
+Runs every month or at your chosen interval of months, for example, every 2, 3, or 24 months.![Option to select the day of the month for scheduling a monthly trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/images/scheduled-trigger-monthly.png)
 
 Select on which day of the month you want the trigger to run:
 
@@ -91,7 +91,7 @@ Yearly
 
 </td><td>
 
-Runs every year in the selected month.![Option to select the month and the day of the month for scheduling a yearly trigger.](../../flow-designer/images/scheduled-trigger-yearly.png)
+Runs every year in the selected month.![Option to select the month and the day of the month for scheduling a yearly trigger.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/images/scheduled-trigger-yearly.png)
 
 Select on which day of the month you want the trigger to run:
 
@@ -131,14 +131,14 @@ Runs only once at the specified date and time.
 
 Your scheduled trigger is created.
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-triggers.md)
 
 **Related topics**  
 
 
-[Create a trigger definition](create-trigger-definition.md)
+[Create a trigger definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-trigger-definition.md)
 
-[Add and configure a trigger in a playbook](add-configure-trigger.md)
+[Add and configure a trigger in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-trigger.md)
 
-[Triggers](../concept/process-automation-designer-triggers.md)
+[Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-triggers.md)
 

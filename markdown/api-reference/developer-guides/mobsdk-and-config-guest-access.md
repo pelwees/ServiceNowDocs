@@ -27,7 +27,7 @@ Role required: admin
 
     **Note:** The NowAttachment service does not currently support guest access.
 
-    ![Enable guest access](../../image/mobsdk-guest-access-config.png)
+    ![Enable guest access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobsdk-guest-access-config.png)
 
 3.  Select **Update** to save your changes.
 

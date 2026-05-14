@@ -49,5 +49,5 @@ The match confirms that the connection is established with the ServiceNow® inst
 
 If there’s no match, fix your network connection issues.
 
-**Parent Topic:**[Installing DEX on your local machine](../concept/installing-dex-local.md)
+**Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/installing-dex-local.md)
 

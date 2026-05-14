@@ -20,5 +20,5 @@ Notes form enables you to add the watch list details.
 |Work notes \(Private\)|Enter the work notes.|
 |Additional comments \(Customer visible\)|Enter additional comments for customer, if any.|
 
-**Parent Topic:**[General form](mco-general-form.md)
+**Parent Topic:**[General form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-general-form.md)
 

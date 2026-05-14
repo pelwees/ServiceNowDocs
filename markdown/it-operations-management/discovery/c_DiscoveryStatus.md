@@ -31,7 +31,7 @@ Each record in the Status list represents the execution of a Discovery by a sche
 
 The following Discovery status record shows the discovery of a load balancer using a pattern.
 
-![Example Discovery status record](../image/discovery-status.png "Example Discovery status record")
+![Example Discovery status record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/discovery-status.png "Example Discovery status record")
 
 <table id="table_nl1_yv5_lz"><thead><tr><th>
 
@@ -121,19 +121,19 @@ Log state changes
 Indicates that state changes were logged during this Discovery. These states can be seen in the Last and Current fields in the**Discovery Devices** list in this form.
 
 </td></tr></tbody>
-</table>-   **[Cancel a Discovery from a Discovery Status](../task/t_CancelDiscoveryStatus.md)**  
+</table>-   **[Cancel a Discovery from a Discovery Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_CancelDiscoveryStatus.md)**  
 You can manually cancel a discovery while it is in progress from the Discovery Status record.
--   **[Discovery timelines](c_DiscoveryStatusTimelines.md#)**  
+-   **[Discovery timelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatusTimelines.md#)**  
 A Discovery timeline generates a graphical display of a Discovery Status record, including information about each probe and sensor that was used in the discovery.
--   **[The ECC queue for Discovery](../reference/r_DiscoveryStatusECCQueue.md)**  
+-   **[The ECC queue for Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DiscoveryStatusECCQueue.md)**  
 The External Communication Channel \(ECC\) Queue is a connection point between your ServiceNow instance and other systems that integrate with it, most commonly a MID Server.
--   **[Discovery device history](../reference/r_DiscoveryStatusDevices.md)**  
+-   **[Discovery device history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_DiscoveryStatusDevices.md)**  
 The **Devices** Related list in the Discovery Status form provides a summary list of all the devices scanned.
 
-**Parent Topic:**[Configuring Discovery](c_DiscoveryConfiguration.md)
+**Parent Topic:**[Configuring Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryConfiguration.md)
 
 **Related topics**  
 
 
-[Schedule a horizontal discovery](../task/t_CreateADiscoverySchedule.md#)
+[Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_CreateADiscoverySchedule.md#)
 

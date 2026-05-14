@@ -39,7 +39,7 @@ Role required: admin
 
     Extra languages are available when there are enabled language plugins on the instance.
 
-7.  From the context menu ![context menu icon](../image/ContextMenu.png), select **Dashboard Properties**.
+7.  From the context menu ![context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ContextMenu.png), select **Dashboard Properties**.
 
 8.  Translate the dashboard name into the target language and select **Update**.
 

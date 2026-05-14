@@ -15,7 +15,7 @@ breadcrumb: [Reference, Next Experience for Demand Management in Portfolio Plann
 
 The default demand playbook includes certain predefined stages and activities. These activities guide you through the demand life-cycle, from capturing the initial brief to completing the demand.
 
-![The stages of a demand AI playbook.](../images/ppw-ai-checkpoint-playbook-stage.png)
+![The stages of a demand AI playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/ppw-ai-checkpoint-playbook-stage.png)
 
 ## Create demand brief
 
@@ -23,8 +23,8 @@ In this stage, capture the foundational information for the demand including the
 
 |Activity|Type|Description|
 |--------|----|-----------|
-|Define demand details|Form|Enter the demand name, description, and business case. For more information, see [Demand form](demand-form-ppw.md).|
-|Document risks and assumptions|Form|Document the risk of not performing the demand and any assumptions. For more information, see [Demand form](demand-form-ppw.md).|
+|Define demand details|Form|Enter the demand name, description, and business case. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).|
+|Document risks and assumptions|Form|Document the risk of not performing the demand and any assumptions. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).|
 |The demand state will be moved to submitted|Automated|Completing the previous activities advances the demand to the next state in its life-cycle.|
 
 ## Define demand alignment
@@ -53,7 +53,7 @@ Form
 
 </td><td>
 
-Define the business classification for the demand. For more information, see [Demand form](demand-form-ppw.md).
+Define the business classification for the demand. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Form
 
 </td><td>
 
-Define how the demand aligns with the organization's strategic objectives. For more information, see [Demand form](demand-form-ppw.md).
+Define how the demand aligns with the organization's strategic objectives. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Related list
 Associate secondary goals and targets with the demand. -   You can also add a goal or target relationship.
 -   You can view the details of an entry by selecting it from the list.
 
-For more information, see [Demand form](demand-form-ppw.md).
+For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Form
 
 </td><td>
 
-Specify or update the planned dates for the demand. For more information, see [Demand form](demand-form-ppw.md).
+Specify or update the planned dates for the demand. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ Form
 
 </td><td>
 
-Add collaborators to the demand and indicate whether an assessment is required. For more information, see [Demand form](demand-form-ppw.md).
+Add collaborators to the demand and indicate whether an assessment is required. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Related list
 
 </td><td>
 
-Add stakeholders associated with the demand.You can view the details of an entry by selecting it from the list. For more information, see [Create stakeholder form](create-stakeholder-form-ppw.md).
+Add stakeholders associated with the demand.You can view the details of an entry by selecting it from the list. For more information, see [Create stakeholder form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-stakeholder-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Related list
 
 </td><td>
 
-Create demand tasks to break down initial planning activities. For more information, see [Create demand task form](create-demand-task-form-ppw.md).
+Create demand tasks to break down initial planning activities. For more information, see [Create demand task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-demand-task-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Form
 
 </td><td>
 
-Update the assessment information for the demand. For more information, see [Demand form](demand-form-ppw.md).
+Update the assessment information for the demand. For more information, see [Demand form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/demand-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ Related list
 View and manage cost plans associated with the demand. -   You can add a cost plan or delete an existing one.
 -   You can view the details of an entry by selecting it from the list.
 
-For more information, see [Create cost plan form](create-cost-plan-form-ppw.md).
+For more information, see [Create cost plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-cost-plan-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -210,7 +210,7 @@ Related list
 
 View and manage resource assignments for the demand.You can view the details of an entry by selecting it from the list.
 
-For more information, see [Create resource assignment form](create-resource-assignment-form-ppw.md).
+For more information, see [Create resource assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-resource-assignment-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -225,7 +225,7 @@ Related list
 View and manage benefit plans for the demand.-   You can add a benefit plan or delete an existing one.
 -   You can view the details of an entry by selecting it from the list.
 
-For more information, see [Monetary benefit plan form](monetary-benefit-plan-form-ppw.md) and [Non-monetary benefit plan form](non-monetary-benefit-plan-form-ppw.md).
+For more information, see [Monetary benefit plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/monetary-benefit-plan-form-ppw.md) and [Non-monetary benefit plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/non-monetary-benefit-plan-form-ppw.md).
 
 </td></tr><tr><td>
 
@@ -290,9 +290,9 @@ This stage is the final stage of the demand workflow.
 **Related topics**  
 
 
-[Playbooks in Next Experience for Demand Management](../concept/playbooks-in-demand-workspace-ppw.md)
+[Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/playbooks-in-demand-workspace-ppw.md)
 
-[Create and customize playbooks](../task/create-and-customize-playbooks-ppw.md)
+[Create and customize playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/create-and-customize-playbooks-ppw.md)
 
-[Use Playbooks](../task/use-playbooks-in-ppw.md)
+[Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../task/use-playbooks-in-ppw.md)
 

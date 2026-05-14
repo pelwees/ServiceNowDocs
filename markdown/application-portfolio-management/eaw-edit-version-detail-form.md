@@ -19,12 +19,12 @@ Add version labels, descriptions, and rollout dates to an Enterprise Modeling an
 |Version description|A summary of the diagram version that explains the purpose, scope, and changes introduced in the current scope of the diagram.|
 |Planned rollout date|The planned date of implementation of the diagram’s contents.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit diagram version details](../../task/eaw-task/eaw-add-or-edit-diagram-version-details.md)
+[Add or edit diagram version details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-diagram-version-details.md)
 
-[Exploring Enterprise Modeling and Visualization in the EA Workspace](../../concept/eaw-concept/eaw-modeling.md)
+[Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-modeling.md)
 

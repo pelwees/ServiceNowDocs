@@ -25,7 +25,7 @@ Role required: itil, admin
 
 2.  Open the proposal to which you want to add the attachment to.
 
-3.  Click the ![Manage Attachments.](../image/attachfiles.png) icon to browse and select the file.
+3.  Click the ![Manage Attachments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/attachfiles.png) icon to browse and select the file.
 
     The attached file appears at the top of the proposal.
 
@@ -38,14 +38,14 @@ Role required: itil, admin
 
 Any attachment associated with a standard change proposal gets copied to the standard change template that is created when the proposal is approved. When that template is used to create a standard change, any attachment associated to it is also copied to those standard change requests.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 
 
-[Configure standard change catalog properties](t_ConfigureTheStandardChangeCatalog.md)
+[Configure standard change catalog properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md)
 
-[Create a standard change task template](create-a-standard-change-task-template.md)
+[Create a standard change task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-standard-change-task-template.md)
 
-[Modify or retire a standard change template](manage-standard-change-template.md)
+[Modify or retire a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-standard-change-template.md)
 

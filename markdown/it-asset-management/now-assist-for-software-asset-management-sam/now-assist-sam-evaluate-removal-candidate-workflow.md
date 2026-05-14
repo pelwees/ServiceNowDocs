@@ -59,5 +59,5 @@ To initiate the agentic workflow, perform the following steps:
 |--------|-------------|
 |Software removal candidate evaluation AI agent.|Identifies or proposes users for removal from a software product by assessing their usage within a set time frame and ensuring that the total number of eligible candidates for reclamation is notified to the user, while excluding any VIP users.|
 
-**Parent Topic:**[Using agentic workflows in Now Assist for SAM](using-now-assist-sam-ai-agents-usecases.md)
+**Parent Topic:**[Using agentic workflows in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/using-now-assist-sam-ai-agents-usecases.md)
 

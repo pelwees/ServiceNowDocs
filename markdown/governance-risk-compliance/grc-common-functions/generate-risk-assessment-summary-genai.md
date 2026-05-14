@@ -17,9 +17,9 @@ Generate a risk assessment summary that is based on your inherent risks, residua
 
 ## Before you begin
 
-Install the Now Assist for IRM application to generate a risk assessment summary. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/concept/now-assist-for-irm.md).
+Install the Now Assist for IRM application to generate a risk assessment summary. For more information, see [Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/concept/now-assist-for-irm.md).
 
-**Note:** The Risk Assessment Summarization skill is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-na-skills-in-irm.md).
+**Note:** The Risk Assessment Summarization skill is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/task/activate-na-skills-in-irm.md).
 
 Role required: The sn\_grc\_sharegenai.risk\_asmt\_user role must be assigned manually to the assessor \(sn\_risk\_advanced.ara\_assessor\) and approver \(sn\_risk\_advanced.ara\_approver\) roles to generate the risk assessment summary.
 
@@ -37,11 +37,11 @@ Assessor can generate the risk assessment summary and save the summary in the **
 
 3.  Generate a risk assessment summary from the risk assessment landing page by selecting **Summarize**.
 
-    ![Generate risk assessment summary button on the risk assessment landing page.](../../grc-workspace-risk/image/risk-assessment-summary-landing-page-genai.png)
+    ![Generate risk assessment summary button on the risk assessment landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-workspace-risk/image/risk-assessment-summary-landing-page-genai.png)
 
-4.  Generate a risk assessment summary while submitting the assessment by selecting the generate summary ![Summarize button on the risk assessment landing page.](../../grc-workspace-risk/image/risk-assessment-summarization-icon.png) icon.
+4.  Generate a risk assessment summary while submitting the assessment by selecting the generate summary ![Summarize button on the risk assessment landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-workspace-risk/image/risk-assessment-summarization-icon.png) icon.
 
-    ![Generate risk assessment summary button on the submit an assessment dialog box.](../../grc-workspace-risk/image/risk-assessment-summary-submit-assessment-genai.png)
+    ![Generate risk assessment summary button on the submit an assessment dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-workspace-risk/image/risk-assessment-summary-submit-assessment-genai.png)
 
     A summary is generated; you can edit it and save it for reference and reporting purposes. After submission of the risk assessment, the **Assessment summary** field becomes read only.
 

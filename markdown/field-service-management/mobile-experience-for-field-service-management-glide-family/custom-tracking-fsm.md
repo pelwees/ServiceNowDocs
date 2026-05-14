@@ -43,7 +43,7 @@ The wm\_agent role is required for tracking. This must be applied to the agent i
 
 4.  Open the **Location Tracking** tab.
 
-5.  Select the Preview this record icon ![Preview this record](../image/preview-record.png) on the Tracking Properties line.
+5.  Select the Preview this record icon ![Preview this record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../image/preview-record.png) on the Tracking Properties line.
 
 6.  Select **Open Record**.
 

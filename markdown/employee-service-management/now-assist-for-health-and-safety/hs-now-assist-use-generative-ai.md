@@ -17,10 +17,10 @@ Use the integration of generative AI with Health and Safety Incident Management 
 
 The generative AI skills can be used with Health and Safety Incident Management when com.snc.sn\_hs\_gen\_ai plugin is installed.
 
--   **[Incident pattern analysis](hs-incident-pattern-analysis.md)**  
+-   **[Incident pattern analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md)**  
 The incident pattern analysis tool automatically detects recurring patterns across health and safety incidents.
--   **[Conversational AI Health and Safety incident or observation report](now-assist-explore-conversational-incidents.md)**  
+-   **[Conversational AI Health and Safety incident or observation report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-explore-conversational-incidents.md)**  
 Use the Now Assist panel conversational interface to report Health and Safety incidents and observations that enables you to engage with live agents, virtual agents, or both.
 
-**Parent Topic:**[Now Assist for Health and Safety](../reference/now-assist-hs-landing.md)
+**Parent Topic:**[Now Assist for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/../reference/now-assist-hs-landing.md)
 

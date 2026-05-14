@@ -49,9 +49,9 @@ You can customize team governance by turning off approvals or changing the appro
 5.  Select **Save** to update your team governance settings.
 
 
-**Parent Topic:**[Configuring Service Reliability Management](../concept/configuring-service-reliability-management.md)
+**Parent Topic:**[Configuring Service Reliability Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/configuring-service-reliability-management.md)
 
-**Previous topic:**[Customize service approval settings in SRM](sr-add-approval-services.md)
+**Previous topic:**[Customize service approval settings in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-approval-services.md)
 
-**Next topic:**[Configure error budget actions for breached SRM SLOs](sr-configure-error-budget.md)
+**Next topic:**[Configure error budget actions for breached SRM SLOs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-configure-error-budget.md)
 

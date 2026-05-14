@@ -18,7 +18,7 @@ Create an AWS CloudFormation Identity Access Manager \(IAM\) user in the managem
 ## Before you begin
 
 -   Role required: AWS admin
--   The ServiceNow IAM user account requires specific AWS IAM permissions to perform basic operations. To learn more about the permissions, see [About Amazon Web Services API permissions](about-aws-api-permissions.md).
+-   The ServiceNow IAM user account requires specific AWS IAM permissions to perform basic operations. To learn more about the permissions, see [About Amazon Web Services API permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-aws-api-permissions.md).
 
 
 ## Procedure
@@ -180,5 +180,5 @@ Create an AWS CloudFormation Identity Access Manager \(IAM\) user in the managem
 
 ## What to do next
 
-[Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md)
+[Set up suspension of an AWS account using service control policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/configure-suspension-policy.md)
 

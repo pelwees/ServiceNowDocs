@@ -19,9 +19,9 @@ The List page is a general-purpose page that enables access to all items that yo
 
 To open the List page, select **Workspaces** &gt; **Vendor Management Workspace** and on the **Risk** tab, select the list icon ![](../image/icon-tprm-ws-list.png).
 
-![Access any item on the List page.](../image/tprm-ws-list-page.png)
+![Access any item on the List page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-ws-list-page.png)
 
 Each of the lists provides links to risk information and to action pages for your day-to-day tasks.
 
-**Parent Topic:**[Viewing third-party risk reports](../../grc-vendor-risk/concept/unified-vrm-workspace.md)
+**Parent Topic:**[Viewing third-party risk reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk/concept/unified-vrm-workspace.md)
 

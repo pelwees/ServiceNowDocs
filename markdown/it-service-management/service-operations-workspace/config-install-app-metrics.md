@@ -25,16 +25,16 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
 2.  Select the required CI device, and verify the CMPivot entities and attributes.
 
-    For more information, see [Verify a CMPivot entity](verify-cmpivot-entity.md).
+    For more information, see [Verify a CMPivot entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-cmpivot-entity.md).
 
 3.  Verify that the **InstalledSoftware** CMPivot entity exists and has the attributes **ProductName**, **ProductVersion**, and **Publisher**.
 
-    **Note:** If the **InstalledSoftware** CMPivot entity isn’t available, you must add the entity to the hardware inventory. For more information, see [Extend hardware inventory](extend-hardware-entity.md).
+    **Note:** If the **InstalledSoftware** CMPivot entity isn’t available, you must add the entity to the hardware inventory. For more information, see [Extend hardware inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/extend-hardware-entity.md).
 
 
 ## Result
 
 The installed application metrics is displayed on the **Investigation** tab of the incident record in Service Operations Workspace.
 
-**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](../concept/config-ci-metrics-mecm-adapter.md)
+**Parent Topic:**[Configuring CI metrics for Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/config-ci-metrics-mecm-adapter.md)
 

@@ -29,7 +29,7 @@ Role required: admin
 
     2.  Select **Email response for invoice task** if you want to activate the skill for invoice task.
 
-    For more information on email generation, see [Generate email response for invoice case](generate-email-invoice-case-apo.md) and [Generate email response for invoice task](generate-email-invoice-task-apo.md).
+    For more information on email generation, see [Generate email response for invoice case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/generate-email-invoice-case-apo.md) and [Generate email response for invoice task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/generate-email-invoice-task-apo.md).
 
 3.  Select **Activate skill**.
 
@@ -49,7 +49,7 @@ Role required: admin
 
 6.  Review and activate the skill.
 
-    For more information on drafting email responses in an invoice case or a task, see [Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-apm-workspace.md).
+    For more information on drafting email responses in an invoice case or a task, see [Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/email-composer-apm-workspace.md).
 
 
 ## Result

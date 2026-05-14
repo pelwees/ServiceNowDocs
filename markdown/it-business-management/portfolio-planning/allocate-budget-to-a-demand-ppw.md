@@ -23,7 +23,7 @@ Role required: portfolio\_manager
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demands-ppw.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
@@ -37,9 +37,9 @@ Role required: portfolio\_manager
     -   To update the details of a demand budget record, select the record.
 5.  On the Create New Project Funding form, fill in the fields.
 
-    **Tip:** You can work on allocating lean budgets at the fiscal period level using the Investment Budget. For more information, see [Enable lean budgeting for demands](enable-lean-budgeting-for-demands-ppw.md).
+    **Tip:** You can work on allocating lean budgets at the fiscal period level using the Investment Budget. For more information, see [Enable lean budgeting for demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/enable-lean-budgeting-for-demands-ppw.md).
 
-    For a description of the field names, see [Create project funding form](../reference/create-project-funding-form.md).
+    For a description of the field names, see [Create project funding form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/create-project-funding-form.md).
 
 6.  Select **Save**.
 

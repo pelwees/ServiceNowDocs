@@ -35,7 +35,7 @@ You can create strategic plans only on boards that were created with the **Strat
 
 4.  On the form, fill in the **Name**, **Sponsor**, **Start date**, and **End date**, and other required fields.
 
-    For a description of the field values, see [Strategic Plan form](../reference/strategic-plan-form-strategy.md).
+    For a description of the field values, see [Strategic Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../reference/strategic-plan-form-strategy.md).
 
 5.  Select **Submit**.
 
@@ -43,7 +43,7 @@ You can create strategic plans only on boards that were created with the **Strat
 **Related topics**  
 
 
-[Create a strategic priority](create-strategic-priority-strategy.md)
+[Create a strategic priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-priority-strategy.md)
 
-[Create a goal](create-goal-strategy.md)
+[Create a goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 

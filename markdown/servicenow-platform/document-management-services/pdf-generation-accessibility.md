@@ -27,10 +27,10 @@ For PDF generation API, see [PDFGenerationAPI - Scoped, Global](https://raw.gith
 
 To specific the time out duration for HTML to PDF conversion update the timeout value for the system property **com.snc.pdf.html2pdf.image\_retrieval\_timeout**. This property enables you to specify an image retrieval timeout in seconds.
 
--   **[Export to PDF](export-to-pdf.md)**  
+-   **[Export to PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/export-to-pdf.md)**  
 Export an individual record or list of records into a PDF format that supports accessibility. When this feature is enabled, accessibility tags are available in the PDF tag tree to help users who rely on-screen readers to navigate, understand, and interact with the generated PDF documents.
--   **[Guardrails for PDF generation and accessibility](guardrails-pdf-generation-accessibility.md)**  
+-   **[Guardrails for PDF generation and accessibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/guardrails-pdf-generation-accessibility.md)**  
 Static and dynamic guardrails are safeguards that help maintain stability during PDF generation. Static guardrails enforce fixed limits like maximum PDF size, while dynamic guardrails monitor real-time memory usage and terminate exports when memory pressure exceeds a defined threshold.
 
-**Parent Topic:**[Document Services](../reference/document-services-landing-page.md)
+**Parent Topic:**[Document Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../reference/document-services-landing-page.md)
 

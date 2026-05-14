@@ -23,7 +23,7 @@ Legacy Application Manager is being deprecated. Starting with Australia patch 1,
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
-A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](../../../administer/application-manager/concept/application-manager.md).
+A new Application Manager experience is available. The new experience simplifies the process of managing your licensed applications by consolidating them in one convenient location, displaying all applications, plugins, installed applications, and available updates. For more information, see [Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../administer/application-manager/concept/application-manager.md).
 
 Role required: admin
 
@@ -37,9 +37,9 @@ Role required: admin
 
     **Note:** The **Instance not entitled** filter is only displayed if your instance has an application that has been purchased and not entitled.
 
-3.  Select the menu icon \( ![Menu icon](../image/menu-icon.png) \) on the application tile, and select **Entitle this instance**.
+3.  Select the menu icon \( ![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/menu-icon.png) \) on the application tile, and select **Entitle this instance**.
 
-    ![Entitle an app.](../image/entitle-app.png)
+    ![Entitle an app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/entitle-app.png)
 
 4.  In the Application entitlement dialog box, select **OK**.
 
@@ -50,7 +50,7 @@ Application entitlement is provided to your ServiceNow instance.
 
 ## What to do next
 
-[Install](t_InstallApplications.md) the application if it’s compatible with the version of your ServiceNow instance.
+[Install](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md) the application if it’s compatible with the version of your ServiceNow instance.
 
-**Parent Topic:**[Manage entitlements from your ServiceNow instance](entite-app.md)
+**Parent Topic:**[Manage entitlements from your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/entite-app.md)
 

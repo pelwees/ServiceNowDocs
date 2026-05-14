@@ -100,5 +100,5 @@ If you've activated the Integration — Microsoft SCCM 2016 Software Usage \(com
 |Total usage|v\_MonthlyUsageSummary|Software usage 2016 import \[imp\_samp\_usage\_2016\_import\]|Software Usage \[samp\_sw\_usage\]|
 |Last used|v\_GS\_CCM\_RECENTLY\_USED\_APPS|SCCM 2016 Software Last Used \[imp\_sccm2016\_software\_last\_used\]|Software Usage \[samp\_sw\_usage\]|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

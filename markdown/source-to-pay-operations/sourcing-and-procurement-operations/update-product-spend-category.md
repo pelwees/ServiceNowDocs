@@ -23,7 +23,7 @@ Role required: sn\_shop\_procurement\_specialist
 
 1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Navigate to **List** &gt; **All work** and locate the required record.
 
@@ -33,11 +33,11 @@ Role required: sn\_shop\_procurement\_specialist
         -   Requisitions
     2.  In the **Number** column, select the record link to open the details page.
 
-4.  To open the Now Assist panel, select the Now Assist icon ![Sparkle icon for Now Assist](../../../common/image/icon-ai-sparkle.png).
+4.  To open the Now Assist panel, select the Now Assist icon ![Sparkle icon for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png).
 
 5.  In the Now Assist panel, enter a request to update either the product category or spend category.
 
-    ![Now Assist panel on Source-to-Pay Workspace.](../image/na-spo-update-category-1.png)
+    ![Now Assist panel on Source-to-Pay Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/na-spo-update-category-1.png)
 
 6.  Select **Product Category** or **Spend Category**, based on your requirement.
 
@@ -45,7 +45,7 @@ Role required: sn\_shop\_procurement\_specialist
 
 8.  Enter your suggested category.
 
-    ![Suggested options to update product category through Now Assist panel.](../image/na-spo-update-category-2.png)
+    ![Suggested options to update product category through Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/na-spo-update-category-2.png)
 
     Now Assist analyzes your input and provides AI-generated suggestions.
 
@@ -56,16 +56,16 @@ Role required: sn\_shop\_procurement\_specialist
 
 The product category or spend category for the selected purchase line is successfully updated.
 
-**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](../concept/agentic-ai-now-assist-spo.md)
+**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/agentic-ai-now-assist-spo.md)
 
 **Related topics**  
 
 
-[Conversational intake for sourcing and procurement agentic workflow](../concept/spo-help-fulfill-pr-agentic.md)
+[Conversational intake for sourcing and procurement agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-help-fulfill-pr-agentic.md)
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-fulfill-pr-agentic-workflow.md)
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](activate-fulfill-pr-agentic-workflow-va.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-fulfill-pr-agentic-workflow-va.md)
 
-[Submit a purchase request using the Now Assist AI agent](request-product-ai-agents.md)
+[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)
 

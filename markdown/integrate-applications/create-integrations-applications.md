@@ -18,27 +18,27 @@ Automate and connect anything to ServiceNow. Unify your approach to automation w
 
 <table id="table_w4r_vzq_rvb" class="nav-card"><tbody><tr><td>
 
-[Integration Hub ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Automate integration tasks and develop custom integrations.](../../../administer/integrationhub/concept/integrationhub.md)
+[Integration Hub ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Automate integration tasks and develop custom integrations.](../../../administer/integrationhub/concept/integrationhub.md)
 
 </td><td>
 
-[Workflow Data Fabric Home![](../../../reuse/icons/brand-icons/bus-share.svg)Unify and simplify data from different systems into one consistent, discoverable experience.](../../workflow-data-fabric/concept/wdf.md)
+[Workflow Data Fabric Home![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-share.svg)Unify and simplify data from different systems into one consistent, discoverable experience.](../../workflow-data-fabric/concept/wdf.md)
 
 </td><td>
 
-[Robotic Process Automation \(RPA\) Hub ![](../../../reuse/icons/brand-icons/ind-robot-machine.svg) Emulate user actions and eliminate mundane and repetitive human activities.](../../../product/rpa-core/concept/rpa-explore.md)
+[Robotic Process Automation \(RPA\) Hub ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/ind-robot-machine.svg) Emulate user actions and eliminate mundane and repetitive human activities.](../../../product/rpa-core/concept/rpa-explore.md)
 
 </td></tr><tr><td>
 
-[External Content Connectors ![](../../../reuse/icons/brand-icons/bus-proxy.svg) Search content and metadata from supported external data repositories.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ext-cont-connectors-landing-page.md)
+[External Content Connectors ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-proxy.svg) Search content and metadata from supported external data repositories.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ext-cont-connectors-landing-page.md)
 
 </td><td>
 
-[Zero Copy Connectors![](../../../reuse/icons/brand-icons/bus-cloud-download.svg)Fetch real-time data from an external data source without copying it to your instance.](../../zero-copy-connectors/concept/zero-copy-connectors.md)
+[Zero Copy Connectors![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-cloud-download.svg)Fetch real-time data from an external data source without copying it to your instance.](../../zero-copy-connectors/concept/zero-copy-connectors.md)
 
 </td><td>
 
-[Stream Connect![](../../../reuse/icons/brand-icons/bus-cloud.svg)Connect your Apache Kafka environment to your ServiceNow instance.](../../../administer/integrationhub/concept/stream-connect-apache-kafka.md)
+[Stream Connect![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-cloud.svg)Connect your Apache Kafka environment to your ServiceNow instance.](../../../administer/integrationhub/concept/stream-connect-apache-kafka.md)
 
 </td></tr></tbody>
 </table>## Workflow Data Fabric products and features
@@ -55,7 +55,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Automation Center](../../../product/automation-center/concept/automation-center-landing-page.md)
+[Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../product/automation-center/concept/automation-center-landing-page.md)
 
 </td><td>
 
@@ -71,7 +71,7 @@ Boomi supports full lifecycle API management, including governance, analytics, a
 
 </td></tr><tr><td>
 
-[Conversational Spokes](../../../administer/integrationhub/concept/conv-spokes-na.md)
+[Conversational Spokes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/concept/conv-spokes-na.md)
 
 </td><td>
 
@@ -79,7 +79,7 @@ Now Assist in Conversational Spokes application to utilize the conversational ab
 
 </td></tr><tr><td>
 
-[Workflow Data Fabric](create-integrations-applications.md) Home
+[Workflow Data Fabric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-integrations-applications.md) Home
 
 </td><td>
 
@@ -87,7 +87,7 @@ Unify data from different systems into one consistent, governed layer. Package t
 
 </td></tr><tr><td>
 
-[Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md)
+[Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/concept/data-catalog.md)
 
 </td><td>
 
@@ -95,7 +95,7 @@ The Data Catalog is a centralized and searchable inventory of all data assets ac
 
 </td></tr><tr><td>
 
-[Integration Hub](../../../administer/integrationhub/concept/integrationhub.md)
+[Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/concept/integrationhub.md)
 
 </td><td>
 
@@ -103,7 +103,7 @@ Automate integration tasks using ServiceNow components for ServiceNow® Workflow
 
 </td></tr><tr><td>
 
-[Integration Hub Remote Process Sync](../../../administer/integrationhub/concept/integrationhub-remote-process-sync.md)
+[Integration Hub Remote Process Sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/concept/integrationhub-remote-process-sync.md)
 
 </td><td>
 
@@ -119,7 +119,7 @@ The External Content Connectors ServiceNow® Store application enables AI Search
 
 </td></tr><tr><td>
 
-[RPA Hub](../../../product/rpa-hub/concept/rpa-hub-landing-page.md)
+[RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../product/rpa-hub/concept/rpa-hub-landing-page.md)
 
 </td><td>
 
@@ -127,7 +127,7 @@ Robotic Process Automation \(RPA\) Hub enables end-to-end automation for your or
 
 </td></tr><tr><td>
 
-[Stream Connect](../../../administer/integrationhub/concept/stream-connect-apache-kafka.md)
+[Stream Connect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/concept/stream-connect-apache-kafka.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ Connect your Apache Kafka environment to your ServiceNow instance with Stream Co
 
 </td></tr><tr><td>
 
-[Zero Copy Connectors](../../zero-copy-connectors/concept/zero-copy-connectors.md)
+[Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../zero-copy-connectors/concept/zero-copy-connectors.md)
 
 </td><td>
 
@@ -160,16 +160,16 @@ Securely connect to an external data source and access external data directly fr
 
     Actions automate a repeatable task or operation within a flow. Flows run actions by passing them data as inputs. Actions run a sequence of steps to complete the task, and pass data to the flow as outputs.
 
--   **[Exports](exports-overview-page.md)**
+-   **[Exports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/exports-overview-page.md)**
 
     Exports enable you to push data from an instance to an external file. To dynamically export data from a script or web service, export data from the URL.
 
--   **[Imports](imports-overview-page.md)**
+-   **[Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/imports-overview-page.md)**
 
     Imports enable administrators to import data from various data sources, and then map that data into ServiceNow tables. You can automate data import tasks from a new design environment using Integration Hub.
 
--   **[Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md)**
+-   **[Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../product/orchestration/reference/r-orchestration.md)**
 
-    ServiceNow® Orchestration extends the workflow engine to manage processes and to automate things outside of a ServiceNow instance. See [Classic Orchestration](../../../product/orchestration/reference/r-orchestration.md) for more information.
+    ServiceNow® Orchestration extends the workflow engine to manage processes and to automate things outside of a ServiceNow instance. See [Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../product/orchestration/reference/r-orchestration.md) for more information.
 
 

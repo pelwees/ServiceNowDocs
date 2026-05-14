@@ -33,10 +33,10 @@ Discovery maps are associated to software models only if a discovery map exists 
 
 You can identify whether a software model or software model result is created automatically by checking which property is used: **com.snc.samp.automaticsmrcreation**, **com.snc.samp.automaticsmcreation**, or **com.snc.samp.unlicensed\_smr\_creation**. In the Software Model list view, select the gear icon to display the `Created source` column. If the value in this property says `System property`, then it indicates that the software model was automatically created by one of the properties.
 
-**Parent Topic:**[Software models and Software entitlements](software-models-and-entitlements.md)
+**Parent Topic:**[Software models and Software entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-models-and-entitlements.md)
 
 **Related topics**  
 
 
-[Software Asset Management properties](../reference/sam-properties.md)
+[Software Asset Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/sam-properties.md)
 

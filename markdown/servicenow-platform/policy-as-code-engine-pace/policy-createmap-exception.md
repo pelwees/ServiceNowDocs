@@ -23,7 +23,7 @@ Role required: sn\_pace.admin
 
 1.  Navigate to the Mappings page.
 
-    ![Request an exception to a policy.](../image/pace-request-exception-1.jpg)
+    ![Request an exception to a policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-request-exception-1.jpg)
 
 2.  Select a mapping from the list and click **Request exception.**.
 

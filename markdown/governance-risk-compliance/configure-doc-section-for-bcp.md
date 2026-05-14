@@ -25,21 +25,21 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
     The documentation section template is shown in the example.
 
-    ![Documentation section template.](../image/doc-section-new-record-template.png)
+    ![Documentation section template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/doc-section-new-record-template.png)
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [Documentation Section record form](../reference/doc-section-record-form.md).
+    For more information on the fields, see [Documentation Section record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/doc-section-record-form.md).
 
     The example shows the documentation section template from the demo data.
 
-    ![Documentation section template from the demo data.](../image/doc-section-template-from-demo-data.png)
+    ![Documentation section template from the demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/doc-section-template-from-demo-data.png)
 
 4.  Select **Submit**.
 
 
--   **[Documentation Section record form](../reference/doc-section-record-form.md)**  
+-   **[Documentation Section record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/doc-section-record-form.md)**  
 Use the Documentation Section record form to describe a plan in the structured sections in the BCM UIB Workspace.
 
-**Parent Topic:**[Configuring the documentation section](../concept/bcp-admin-documentation-sections.md)
+**Parent Topic:**[Configuring the documentation section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bcp-admin-documentation-sections.md)
 

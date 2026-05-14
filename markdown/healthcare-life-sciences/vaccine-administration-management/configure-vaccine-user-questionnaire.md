@@ -33,7 +33,7 @@ The appointment reminder sends a reminder email and a pre-appointment questionna
 
     3.  In the **Appointment reminder** field, select the reminder time.
 
-        **Note:** If the field doesn't appear on the form, a user with the admin role must configure the form layout to include it. In the form header, click the form context menu icon \(![Form context menu icon.](../image/hamburger-icon.png)\). Navigate to **Configure** &gt; **Form Layout** and move the **Appointment reminder** field to the Selected list, then click **Save**.
+        **Note:** If the field doesn't appear on the form, a user with the admin role must configure the form layout to include it. In the form header, click the form context menu icon \(![Form context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/hamburger-icon.png)\). Navigate to **Configure** &gt; **Form Layout** and move the **Appointment reminder** field to the Selected list, then click **Save**.
 
         By default, appointment reminders aren’t sent to the user. If you want the user to receive the email reminder, configuration of both the appointment reminder and the pre-appointment questionnaire is required.
 
@@ -58,5 +58,5 @@ The appointment reminder sends a reminder email and a pre-appointment questionna
     4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](../concept/vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/vaccine-mgmt-config.md)
 

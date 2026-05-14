@@ -25,5 +25,5 @@ A threat feed is the data intelligence information of a potential or current thr
 
 As a BCM administrator, you can enable or disable threat feed integrations provided by the base system. You can also configure additional threat feeds in to the Crisis Management application. The integration and configurations that you set up alert the crisis manager of the threats and aid to take appropriate action on time.
 
-![Integration of Crisis Management map](../image/CrisisMangmtMap.png "Integration of Crisis Management map")
+![Integration of Crisis Management map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/CrisisMangmtMap.png "Integration of Crisis Management map")
 

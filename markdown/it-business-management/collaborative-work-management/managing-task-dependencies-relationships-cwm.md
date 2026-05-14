@@ -34,7 +34,7 @@ Work items in CWM support three relationship types.
 
     Indicates a general connection between two work items without implying a specific order of execution. Use this relationship when items share context, overlap in scope, or are otherwise connected without one blocking the other.
 
-    ![A Kanban board showing a work item card with the relationships indicator, and the side panel open listing the related work items and their relationship types.](../images/cwm-relationships-kanban.png)
+    ![A Kanban board showing a work item card with the relationships indicator, and the side panel open listing the related work items and their relationship types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-relationships-kanban.png)
 
 
 ## Linking work items across boards and spaces
@@ -47,7 +47,7 @@ You can link any task-type work item to another across the ServiceNow AI Platfor
 
 When a work item has one or more relationships, a relationships indicator icon appears on its Kanban card. Selecting the icon opens the right side panel showing the related work items and their relationship types, so team members can view dependency details without leaving the board.
 
-![Kanban view showing task cards with scrum task and relationship indicators on the cards.](../images/cwm-relationships-cards.png)
+![Kanban view showing task cards with scrum task and relationship indicators on the cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-relationships-cards.png)
 
 ## Task dependency considerations and limitations
 
@@ -58,17 +58,17 @@ When a work item has one or more relationships, a relationships indicator icon a
 -   Adding a story-type work item as a relationship to another story syncs with the prerequisite and dependent fields in the Story \[rm\_story\] table.
 -   Adding a non-story-type work item as a relationship to a story does not sync with the Story \[rm\_story\] table.
 
--   **[Add a dependency to a work item in CWM](../task/add-a-dependency-to-a-work-item-cwm.md)**  
+-   **[Add a dependency to a work item in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/add-a-dependency-to-a-work-item-cwm.md)**  
 Link a work item to another in Collaborative Work Management \(CWM\) to show how they relate, whether one is a prerequisite for another or they are generally connected.
--   **[Remove a dependency from a work item in CWM](../task/remove-a-dependency-from-a-work-item-cwm.md)**  
+-   **[Remove a dependency from a work item in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../task/remove-a-dependency-from-a-work-item-cwm.md)**  
 Unlink a relationship between work items in Collaborative Work Management \(CWM\) when it is no longer relevant or was added incorrectly.
 
-**Parent Topic:**[Agile work management in CWM](agile-in-cwm.md)
+**Parent Topic:**[Agile work management in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-in-cwm.md)
 
 **Related topics**  
 
 
-[Agile work management in CWM](agile-in-cwm.md)
+[Agile work management in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-in-cwm.md)
 
-[Scrum tasks for stories in CWM](managing-scrum-tasks-for-stories-cwm.md)
+[Scrum tasks for stories in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/managing-scrum-tasks-for-stories-cwm.md)
 

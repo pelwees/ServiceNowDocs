@@ -25,11 +25,11 @@ The Password Policy plugin \(com.glide.password\_policy\) is enabled by default.
 
 The **Password Strength Preset** field is automatically set to **Default Strong**. If you want to add new criteria, you can perform the following procedure.
 
-If you customized your instance through the **ValidatePasswordStronger** installation exit or your Password Reset credential store **pwd\_cred\_store** property, then see [password policy properties](../reference/password-policy-properties.md) to know how to implement a password policy for your instance.
+If you customized your instance through the **ValidatePasswordStronger** installation exit or your Password Reset credential store **pwd\_cred\_store** property, then see [password policy properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../reference/password-policy-properties.md) to know how to implement a password policy for your instance.
 
 **Note:** The active password policy is highlighted for the Instance as shown.
 
-![Password Highlighted when set as active](../images/password-highlight.png)
+![Password Highlighted when set as active](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/password-highlight.png)
 
 To change the password policy navigate to **All** &gt; **Password Reset** &gt; **Credentials Stores**, select the credentials and change the **Password policy** field to the required policy input.
 

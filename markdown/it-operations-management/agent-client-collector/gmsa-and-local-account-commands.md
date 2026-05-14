@@ -54,5 +54,5 @@ msiexec /i C:\acc-installer.msi /qn /norestart ACC_API_KEY=<API key code> ACC_MI
 ```
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

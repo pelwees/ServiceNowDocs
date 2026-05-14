@@ -33,7 +33,7 @@ You can request an immediate callback only for a voice channel. Use the **Schedu
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Select the Chat icon \(![Chat icon for Customer Service portal.](../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
+2.  Select the Chat icon \(![Chat icon for Customer Service portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
 
 3.  Select **Show me everything**.
 
@@ -99,7 +99,7 @@ Only logged-in users can reschedule callbacks.
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Select the chat icon \(![Chat icon for Customer Service Portal.](../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
+2.  Select the chat icon \(![Chat icon for Customer Service Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
 
 3.  Select **Show me everything**.
 
@@ -136,7 +136,7 @@ Role required: none
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Select the chat icon \(![Chat icon for Customer Service Portal.](../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
+2.  Select the chat icon \(![Chat icon for Customer Service Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
 
 3.  Select **Show me everything**.
 

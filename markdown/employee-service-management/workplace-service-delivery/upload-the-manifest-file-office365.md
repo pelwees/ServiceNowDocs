@@ -59,14 +59,14 @@ Role required: sn\_wsd\_msaddin.admin
 
 The add-in is uploaded to Microsoft Office 365. The users to whom the add-in is deployed can view the add-in option while scheduling a meeting.
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/../concept/configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 
 
-[Install Workplace Reservations for Microsoft Outlook Add-in](install-workplace-reservations-for-outlook-addin.md)
+[Install Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/install-workplace-reservations-for-outlook-addin.md)
 
-[Create a manifest file for Microsoft Outlook Add-in](add-manifest-file-for-outlook-addin.md)
+[Create a manifest file for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/add-manifest-file-for-outlook-addin.md)
 
-[Upload the manifest file for a single user](upload-manifest-for-single-user.md)
+[Upload the manifest file for a single user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/upload-manifest-for-single-user.md)
 

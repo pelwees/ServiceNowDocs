@@ -173,7 +173,7 @@ In the following example, a user configured access to a private registry using b
 
 ## What to do next
 
-Use the packages that you installed as third-party libraries in your application. For more information, see [Use third-party libraries in applications in the ServiceNow IDE](use-third-party-libraries-ide.md).
+Use the packages that you installed as third-party libraries in your application. For more information, see [Use third-party libraries in applications in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/use-third-party-libraries-ide.md).
 
-**Parent Topic:**[Use third-party libraries in applications in the ServiceNow IDE](use-third-party-libraries-ide.md)
+**Parent Topic:**[Use third-party libraries in applications in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/use-third-party-libraries-ide.md)
 

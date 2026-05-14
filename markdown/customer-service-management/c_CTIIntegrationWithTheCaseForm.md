@@ -17,14 +17,14 @@ The customer service or consumer service agent can use the phone icon next to th
 
 The phone icon is a reference contribution that can be added to any reference field by modifying the dictionary and adding the following attribute: **ref\_contributions=show\_phone\_customer\_service**.
 
-**Note:** If you’re using a third-party provided CTI application, then you can integrate with the show\_phone UI macro to make calls.For more information on UI macros, refer to [UI macros installed with OpenFrame](../reference/r_InstalledWithOpenFrame.md#)
+**Note:** If you’re using a third-party provided CTI application, then you can integrate with the show\_phone UI macro to make calls.For more information on UI macros, refer to [UI macros installed with OpenFrame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_InstalledWithOpenFrame.md#)
 
 Select the phone icon to call a consumer or contact.
 
 -   If only one phone field is populated, a call is placed to that number.
 -   If more than one phone field is populated, a dialog box displays the available numbers. Select the desired number to call and close the dialog box.
 
-![Dialog box displaying mobile and home phone numbers](../image/select-phone-number.png "Select Phone Number dialog box")
+![Dialog box displaying mobile and home phone numbers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/select-phone-number.png "Select Phone Number dialog box")
 
 Incoming and outgoing calls are logged in the Phone Log \[sn\_openframe\_phone\_log\] table. Call details are recorded in the **Activity** field on the Case form and in the **Phone** related list.
 
@@ -41,5 +41,5 @@ If no agents are available, the call goes into a queue and remains there until a
 **Related topics**  
 
 
-[Routing and assigning customer service cases](c_CaseRouting.md)
+[Routing and assigning customer service cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md)
 

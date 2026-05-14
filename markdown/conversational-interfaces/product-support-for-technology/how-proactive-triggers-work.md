@@ -23,7 +23,7 @@ Proactive Triggers are useful in various scenarios. Explore the following exampl
 
 -   An admin creates a Proactive Triggers rule that runs when a user views any catalog item with a short description that includes a specific keyword, such as “laptop.” The admin configures the rule to connect the user to a live agent, using the Live Agent Support topic, which proactively helps the user get assistance in ordering a laptop.
 
-You can also use Proactive Triggers to engage with customers in more complex scenarios. Admin users can create multiple rules using different delay times and different user criteria to create a customized user experience. For more information about configuring more complex scenarios, see [Multiple Proactive Triggers rules and actions](multiple-rules-and-actions.md).
+You can also use Proactive Triggers to engage with customers in more complex scenarios. Admin users can create multiple rules using different delay times and different user criteria to create a customized user experience. For more information about configuring more complex scenarios, see [Multiple Proactive Triggers rules and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/multiple-rules-and-actions.md).
 
 ## Proactive Triggers process
 

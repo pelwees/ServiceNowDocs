@@ -17,7 +17,7 @@ Access the details of a publication and review them using the Targeted Communica
 
 Role required: sn\_customerservice.customer
 
-**Note:** To view a published publication, see [View a publication on the Customer Service Portal](t_TargetCommViewPubOnPortal.md)
+**Note:** To view a published publication, see [View a publication on the Customer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_TargetCommViewPubOnPortal.md)
 
 ## Procedure
 

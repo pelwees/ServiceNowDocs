@@ -19,13 +19,13 @@ View the metrics provided by the performance window to identify which widgets ta
 
 Role required: sp\_admin
 
-To track the performance of a custom widget, add a hotspot to the script: [Add hotspots to track custom widget performance](add-hotspots-track-custom-widget-performance.md)
+To track the performance of a custom widget, add a hotspot to the script: [Add hotspots to track custom widget performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-hotspots-track-custom-widget-performance.md)
 
 ## About this task
 
 The **Performance Details** window provides comprehensive tracking of each widget on a page, enabling better assessment of the user experience. You can view load times, customization status, and display visibility for each widget.
 
-![The Performance detailswindow displays widget performance metrics](../images/performance-details.jpg)
+![The Performance detailswindow displays widget performance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/performance-details.jpg)
 
 ## Procedure
 
@@ -33,7 +33,7 @@ The **Performance Details** window provides comprehensive tracking of each widge
 
 2.  Select the clock icon to open the **Performance details** window.
 
-    The clock ![the clock icon to access the performance details page](../images/clock-icon.jpg) icon is located at the bottom-left corner of the screen.
+    The clock ![the clock icon to access the performance details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/clock-icon.jpg) icon is located at the bottom-left corner of the screen.
 
 3.  Click **Enable Performance Stats**.
 
@@ -45,13 +45,13 @@ The **Performance Details** window provides comprehensive tracking of each widge
 
     2.  Click **Impersonate**.
 
-        ![Impersonate button](../images/ec-impersonate.png)
+        ![Impersonate button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-impersonate.png)
 
     3.  Select the user to impersonate.
 
     4.  Click on your profile image and **End impersonation**.
 
-        ![End impersonation button](../images/ec-end-impersonation.png)
+        ![End impersonation button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-end-impersonation.png)
 
 6.  Select the clock icon to open the **Performance details** window.
 
@@ -64,5 +64,5 @@ The **Performance Details** window provides comprehensive tracking of each widge
 10. Click **Close** when you are done.
 
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/improve-manage.md)
 

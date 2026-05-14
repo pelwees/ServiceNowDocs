@@ -50,6 +50,6 @@ Role required: admin
 
     A green tick appears when the add-in deployment is successful. Follow the instructions provided on the page to test if the add-in deployment is successful.
 
-    The add-in is uploaded to Microsoft Office 365. Employees can view the add-in option and make a workplace reservation while scheduling a meeting. For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md).
+    The add-in is uploaded to Microsoft Office 365. Employees can view the add-in option and make a workplace reservation while scheduling a meeting. For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
 

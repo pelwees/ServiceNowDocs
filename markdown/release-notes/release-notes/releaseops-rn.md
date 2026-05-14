@@ -85,5 +85,5 @@ Install ReleaseOps by requesting it from the ServiceNow Store. Visit the [Servic
     Update sets enable developers to create functionality on a non-production instance and promote the changes to another instance for testing or deployment.
 
 
-**Parent Topic:**[App development and low-code release notes](build-automate-rn-landing.md)
+**Parent Topic:**[App development and low-code release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/build-automate-rn-landing.md)
 

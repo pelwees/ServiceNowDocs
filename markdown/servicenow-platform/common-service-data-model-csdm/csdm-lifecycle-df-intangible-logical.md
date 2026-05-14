@@ -17,7 +17,7 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
 
 ## Definitions
 
-![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-intangible-logical.png)
+![Relationships between CSDM stages and life cycle values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-lifecycle-vp-intangible-logical.png)
 
 -   **Ideation life cycle stage**
 
@@ -76,5 +76,5 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
     -   **Retired**: The software is no longer used and its licenses might have been revoked or reassigned.
     -   **Obsolete**: The software is no longer relevant due to security risks, incompatibility, or technological advancements.
 
-**Parent Topic:**[Life cycle of intangible/logical entities](../concept/csdm-lifecycle-logical.md)
+**Parent Topic:**[Life cycle of intangible/logical entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-logical.md)
 

@@ -27,6 +27,6 @@ Role required: scim\_admin
 
 You can provision users using SCIM by the following authentication methods:
 
--   [Provisioning user using Basic Authentication](provisioning-user-basic-auth.md)
--   [Provisioning user using OAuth](provisioning-user-oauth.md)
+-   [Provisioning user using Basic Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/provisioning-user-basic-auth.md)
+-   [Provisioning user using OAuth](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/provisioning-user-oauth.md)
 

@@ -26,7 +26,7 @@ Process mining enables you to do these tasks:
 
 The following diagram shows the benefits of Process Mining, including creating process maps, analyzing bottlenecks, and finding new areas of improvement and automation.
 
-![Create process maps for cases, analyze bottlenecks, find areas of improvement, and take necessary action to optimize.](../image/Process_optimization.png "Process mining steps")
+![Create process maps for cases, analyze bottlenecks, find areas of improvement, and take necessary action to optimize.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Process_optimization.png "Process mining steps")
 
 Key Features of process mining include:
 
@@ -56,7 +56,7 @@ Key Features of process mining include:
 For more information about enabling the Process Mining content pack, see the following topics:
 
 -   [Activate Process Mining Content Packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activate-po-content-pack.md).
--   [Integrating with Process Mining](process-opt-csm.md).
+-   [Integrating with Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/process-opt-csm.md).
 
 ## Workforce Optimization
 
@@ -73,5 +73,5 @@ The advantages of Workforce Optimization for Customer Service include:
 -   Focus on all engagement channels and provide real-time help to your team members so that they can provide a better customer experience.
 -   Capture all the relevant data and apply these insights and guidance to your team.
 
-To learn more about the Workforce Optimization for Customer Service application, see [Workforce Optimization for Customer Service](../../workforce-optimization-for-customer-service-configurable/concept/configurable-wfo-cs.md).
+To learn more about the Workforce Optimization for Customer Service application, see [Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../workforce-optimization-for-customer-service-configurable/concept/configurable-wfo-cs.md).
 

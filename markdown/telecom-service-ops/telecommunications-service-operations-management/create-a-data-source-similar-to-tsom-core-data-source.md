@@ -41,7 +41,7 @@ When to create a data source similar to the TSOM Core data source:
 -   When you want to run a test load using simulated or placeholder telecom data.
 -   When preparing the connector’s application scope for ingestion configuration.
 
-The following screenshot can help you understand to fill the field values while you create the data source.![Create data source user interface](../images/datasource.png)
+The following screenshot can help you understand to fill the field values while you create the data source.![Create data source user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/datasource.png)
 
 ## Procedure
 
@@ -86,7 +86,7 @@ After the data source is created and tested:
 **Related topics**  
 
 
-[Standardized JSON common data set to support all service graph connectors](../concept/overview-of-standardized-json-common-data-set.md)
+[Standardized JSON common data set to support all service graph connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../concept/overview-of-standardized-json-common-data-set.md)
 
-[Duplicate the Telecom Discovery Builder framework ETL into a connector scope](duplicate-the-generic-etl-to-use-a-specific-connector.md)
+[Duplicate the Telecom Discovery Builder framework ETL into a connector scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/duplicate-the-generic-etl-to-use-a-specific-connector.md)
 

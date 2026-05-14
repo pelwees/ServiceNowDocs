@@ -31,7 +31,7 @@ Role required: kg\_admin
 
 2.  Select a Knowledge Graph schema.
 
-3.  Select the more icon \(![More icon.](../../now-assist-admin/image/naa-more-options-icon.png)\).
+3.  Select the more icon \(![More icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../../now-assist-admin/image/naa-more-options-icon.png)\).
 
 4.  Select **Copy Graph**.
 
@@ -46,7 +46,7 @@ Role required: kg\_admin
     |Scope|Scope under which you want to create the Knowledge Graph schema.|
     |Description|Knowledge Graph schema overview for users.|
 
-    ![Copy Knowledge Graph schema.](../Images/create-copy-of-kg-schema.png)
+    ![Copy Knowledge Graph schema.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/create-copy-of-kg-schema.png)
 
 6.  Select **Create**.
 

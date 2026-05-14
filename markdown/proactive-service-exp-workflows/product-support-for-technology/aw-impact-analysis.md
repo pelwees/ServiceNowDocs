@@ -39,7 +39,7 @@ After a workflow in Proactive Service Experience Workflows triggers, you can ide
 
 6.  See the affected accounts by selecting the **Customer impact** tab.
 
-    To learn more about the **Customer impact** tab, see [Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md).
+    To learn more about the **Customer impact** tab, see [Enhancing customer impact visibility for PSEW processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/enhance-customer-impact-visibility-psew-process.md).
 
 7.  Look for the names of the customers who are affected by selecting the Affected accounts section and checking the Account column.
 
@@ -47,19 +47,19 @@ After a workflow in Proactive Service Experience Workflows triggers, you can ide
 
 8.  Generate proactive cases for the affected customers.
 
-    To learn more see, [Generate a proactive case from the customer impact tab](generate-proactive-case-customer-impact-tab.md).
+    To learn more see, [Generate a proactive case from the customer impact tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/generate-proactive-case-customer-impact-tab.md).
 
 9.  Notify a customer about the creation of case record.
 
-    To learn more, see [Communicate with customer about proactive case](create-communication-customer-impact-tab.md).
+    To learn more, see [Communicate with customer about proactive case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/create-communication-customer-impact-tab.md).
 
 10. Update the case record about the resolution progress.
 
-    To learn more, see [Update the proactive case with the resolution progress notes](notify-customer-proactive-case.md).
+    To learn more, see [Update the proactive case with the resolution progress notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/notify-customer-proactive-case.md).
 
 11. Create reactive case record.
 
-    To learn more, see [Create a reactive case from the incident record](create-reactive-case-cutomer-impact-tab.md).
+    To learn more, see [Create a reactive case from the incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/create-reactive-case-cutomer-impact-tab.md).
 
 12. If you want to update the probable cause of the incident, select the **Cause** tab and save your message.
 
@@ -83,5 +83,5 @@ When the incident is resolved, it triggers the auto-closure of related cases.
     -   Resolution Code
     -   Probable Cause
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/psew-identify-act-incident.md)
 

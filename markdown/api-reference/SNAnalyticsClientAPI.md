@@ -25,7 +25,7 @@ To access this API, the Service Portal Analytics \(com.glide.service-portal.anal
 
 For additional information, see [Usage Insights for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics.md).
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## SNAnalytics - addEvent\(Object payload\)
 
@@ -45,9 +45,9 @@ payload.data["Company"] = c.data.company_name;
 snAnalytics.addEvent(payload);
 ```
 
-The screen capture below shows the information that appears on the analytics dashboard for the event "Manage Account." The timeline at the top represents the number of times that the event occurred. The pie charts below the timeline reflect the properties that were captured in the addEvent\(\) call. ![Dashboard with events](../image/Dashboard_with_events.png)
+The screen capture below shows the information that appears on the analytics dashboard for the event "Manage Account." The timeline at the top represents the number of times that the event occurred. The pie charts below the timeline reflect the properties that were captured in the addEvent\(\) call. ![Dashboard with events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/Dashboard_with_events.png)
 
-If you want to capture when users access a web page, use the [SNAnalytics - startPage\(String name, String description\)](SNAnalyticsClientAPI.md#) method instead of this method.
+If you want to capture when users access a web page, use the [SNAnalytics - startPage\(String name, String description\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/SNAnalyticsClientAPI.md#) method instead of this method.
 
 <table id="table_u1m_5gr_z4b" class="parameters"><thead><tr><th>
 
@@ -286,7 +286,7 @@ Sets the specified properties with the specified values for the current user in 
 
 These properties are saved in the analytics data store and appear on the user session details page as illustrated below. If a property already exists in the analytics data store, the current value is overwritten with the new value.
 
-![Session page with properties](../image/User_session_properties.png)
+![Session page with properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/User_session_properties.png)
 
 <table id="table_iz1_41q_dpb" class="parameters"><thead><tr><th>
 
@@ -348,7 +348,7 @@ Sets the specified property with the specified value for the current user in the
 
 These properties are saved in the analytics data store and appear on the user session details page as illustrated below. If a property already exists in the analytics data store, the current value is overwritten with the new value.
 
-![Session page with properties](../image/User_session_properties.png)
+![Session page with properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/User_session_properties.png)
 
 <table id="table_uj2_rfp_dpb" class="parameters"><thead><tr><th>
 
@@ -408,7 +408,7 @@ This information appears in the user session timeline and on the analytics dashb
 
 **Note:** In general, portal pages are automatically tagged with this tracking capability. Use this method for custom scenarios, such as a single page custom widget in a wizard scenario.
 
-![Page properties in timeline](../image/Page_properties_in_timeline.png)
+![Page properties in timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/Page_properties_in_timeline.png)
 
 <table id="table_lmt_pl3_dpb" class="parameters"><thead><tr><th>
 

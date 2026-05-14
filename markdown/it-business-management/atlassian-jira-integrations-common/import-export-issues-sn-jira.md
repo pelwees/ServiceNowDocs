@@ -17,14 +17,14 @@ Import available issues from a Jira project, with or without the team integratio
 
 ## Before you begin
 
--   [Discover and import Jira projects and boards](discover-projects.md)
+-   [Discover and import Jira projects and boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/discover-projects.md)
 -   Role required: sn\_jira\_int.user
 
 ## About this task
 
 If your Jira project has team integration settings, then the imported issues are assigned to an assignment group according to the team integration settings. If your Jira project does not have team integration settings, then the imported issues are not associated to any assignment group.
 
-**Note:** This task does not explain importing sprints. For information on how to import sprints from Jira, see [Import sprints from Jira to Agile Development 2.0](import-sprints-to-agile-2-from-jira-board.md).
+**Note:** This task does not explain importing sprints. For information on how to import sprints from Jira, see [Import sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/import-sprints-to-agile-2-from-jira-board.md).
 
 ## Procedure
 
@@ -49,5 +49,5 @@ If your Jira project has team integration settings, then the imported issues are
     **Note:** Existing comments and attachments of issues are not imported from Jira during a bulk import.
 
 
-**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](../concept/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
+**Parent Topic:**[Importing issues and sprints from Jira to Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../concept/importing-issues-and-sprints-from-jira-to-agile-dev-2.0.md)
 

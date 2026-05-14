@@ -15,14 +15,14 @@ breadcrumb: [Career Assessment, Growth Experiences, HR Service Delivery, Employe
 
 Use Career Assessment to create exams.
 
--   **[Create exam catalogs](../task/create-exam-catalog.md)**  
+-   **[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/create-exam-catalog.md)**  
 Create exam catalogs to be able to segregate exams based on category.
--   **[Create an exam](../task/create-exam.md)**  
+-   **[Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/create-exam.md)**  
 Create an exam on Career Assessment.
--   **[Add exams to a learning path from Career Assessment](create-quiz-path.md)**  
+-   **[Add exams to a learning path from Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-quiz-path.md)**  
 Create internal learning content to add exams as content items within a learning path from Career Assessment.
--   **[View an exam instance](../task/view-exam-instance.md)**  
+-   **[View an exam instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/view-exam-instance.md)**  
 View an exam instance to verify number of attempts, scores and completion status of an exam assigned to a user.
 
-**Parent Topic:**[HR Service Delivery](hr-service-delivery.md)
+**Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/hr-service-delivery.md)
 

@@ -16,7 +16,7 @@ You can set refresh interval details and background colors, enable data caching 
 
 ## Before you begin
 
-Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
+Role required: dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards. Additionally, dashboard\_admin is required to schedule automated refreshes even of dashboards that you own.
 
 ## Procedure
 
@@ -26,9 +26,9 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
 3.  Select **Edit** to enter editing mode.
 
-4.  Select the settings button \(![Settings icon](../image/icon-cogwheel-ac.png)\) to open the **Settings** panel.
+4.  Select the settings button \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-cogwheel-ac.png)\) to open the **Settings** panel.
 
-    ![Dashboard settings panel.](../../par-for-workspace/image/dashboard-settings.png)
+    ![Dashboard settings panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dashboard-settings.png)
 
 5.  Change any of the following settings.
 
@@ -36,7 +36,7 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
         Users with the dashboard\_admin role or higher can configure automatic refreshes of the dashboard.
 
-        -   Select **Show refresh information** to display the last time the dashboard was refreshed under the dashboard title. This information updates when the dashboard is automatically refreshed and when a user selects the refresh button \(![Refresh icon](../image/icon-db-refresh.png)\).
+        -   Select **Show refresh information** to display the last time the dashboard was refreshed under the dashboard title. This information updates when the dashboard is automatically refreshed and when a user selects the refresh button \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/icon-db-refresh.png)\).
         -   Select **Scheduled repetition** to specify in minutes or hours how often the dashboard is reloaded. Applies only while the dashboard is open. Requires the dashboard\_admin or higher.
 
             **Note:**
@@ -63,6 +63,6 @@ Role required: dashboard\_admin for all dashboards, or any role for dashboards t
 
     -   Choose whether and which analytics to show in the **Insights** section.
 
-        When you select **Show insights panel**, an **Insights** button is added to the dashboard. When a viewer presses this button, insights cards corresponding to the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](../../par-for-workspace/concept/proactive-analytics.md).
+        When you select **Show insights panel**, an **Insights** button is added to the dashboard. When a viewer presses this button, insights cards corresponding to the selected analytics options are shown. For more information, see [Proactive analytics insights on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/proactive-analytics.md).
 
 

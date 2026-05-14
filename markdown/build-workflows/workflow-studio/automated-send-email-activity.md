@@ -97,7 +97,7 @@ True/False
 
 </td><td>
 
-Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
+Option to wait for a duration of time before running an activity or stage. When enabled, this input displays the [Start with delay input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/start-with-delay-properties.md).**Note:** Select **Show additional options** to see this field.
 
 </td></tr><tr><td>
 
@@ -114,7 +114,7 @@ Recipient list for the email. There are 2 ways to configure this field:-   Enter
 
 You would select the customer record from the trigger \(when the application was submitted\), because that is where the applicant's email address is found.
 
-![Using the pill picker to reference the email address.](../images/send-to-customer-pillpicker.png)
+![Using the pill picker to reference the email address.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/send-to-customer-pillpicker.png)
 
 
 </td></tr><tr><td>
@@ -156,7 +156,7 @@ Body of the email.**Tip:** You can use both text and multiple pills in your mess
 </td></tr></tbody>
 </table>## Advanced inputs
 
-After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](../concept/activity-definitions.md#activity-experience).
+After configuring the required inputs for your activity, you can also choose to configure additional inputs. In the side panel, select **Show additional options** to display these advanced inputs. For more information, see [Activity experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md#activity-experience).
 
 |Input|Type|Description|
 |-----|----|-----------|

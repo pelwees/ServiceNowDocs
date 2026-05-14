@@ -20,9 +20,9 @@ A contact is a user who serves as an employee of an account. To associate a cont
 **Related topics**  
 
 
-[Configuring a contact relationship](configuring-contact-relationship.md)
+[Configuring a contact relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-contact-relationship.md)
 
-[Create a contact relationship for an account](../task/t_CreateAContactRelationship.md)
+[Create a contact relationship for an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_CreateAContactRelationship.md)
 
-[Contact Relationship form](../reference/csm-contact-relationship-form.md)
+[Contact Relationship form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/csm-contact-relationship-form.md)
 

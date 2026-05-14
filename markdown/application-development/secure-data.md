@@ -43,5 +43,5 @@ The ServiceNow AI Platform also provides various encryption solutions at the app
 
 **Note:** Set up security before configuring any interfaces or business logic. Since security affects the data available to interfaces and business logic, waiting until the end of the application build process may cause rework and issues.
 
-**Parent Topic:**[Define and build the data model](define-and-build-data-model.md)
+**Parent Topic:**[Define and build the data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/define-and-build-data-model.md)
 

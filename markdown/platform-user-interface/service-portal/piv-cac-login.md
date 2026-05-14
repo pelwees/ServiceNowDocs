@@ -31,11 +31,11 @@ Role required: none
 
 3.  Insert your PIV/CAC card into a card reader and then select **Register your client certificate**.
 
-    ![Certificate selection for PIV/CAC authentication](../image/piv-cac-certificate.png)
+    ![Certificate selection for PIV/CAC authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/piv-cac-certificate.png)
 
 4.  In the dialog box that appears, review the PIV/CAC certificate and then select **Register**.
 
-    ![Dialog box to register your PIV/CAC certificate](../image/piv-cac-certificate-found.png)
+    ![Dialog box to register your PIV/CAC certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/piv-cac-certificate-found.png)
 
     If the registration is successful, the system provides the following alert message: `The PIV/CAC certificate has been successfully registered and linked to the user account.`
 
@@ -46,14 +46,14 @@ Role required: none
 
 The next time you log in to your portal, you can log in using your PIV/CAC card. To log in, insert your PIV/CAC card into a card reader and then select **Login with PIV/CAC card**.
 
-![Login page with PIV/CAC option](../image/piv-cac-login.png)
+![Login page with PIV/CAC option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/piv-cac-login.png)
 
 To log out of the portal, select your avatar and then select **Logout**. Then, close the browser window.
 
-**Parent Topic:**[Managing portal access](../concept/portal-security.md)
+**Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/portal-security.md)
 
 **Related topics**  
 
 
-[Login widget](../concept/login-widget.md)
+[Login widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/login-widget.md)
 

@@ -25,7 +25,7 @@ Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
 Use a record producer to create a custom set of questions to ask shoppers during the quick and full checkout for specific products or product categories. Build this record producer in Catalog Builder using the **ShoppingHub: Additional information on supplier products or product models or product categories** template. For information on how to create a record producer, see [Create a catalog item using a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-item-cat-builder.md).
 
-![ShoppingHub additional information for supplier product.](../image/sh-addl-catalog.png)
+![ShoppingHub additional information for supplier product.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-addl-catalog.png)
 
 Shopping Hub checks for the existence of the record producer used for the additional information configuration in the specified order:
 
@@ -42,7 +42,7 @@ Shopping Hub checks for the existence of the record producer used for the additi
 
 3.  In the Related Links section, select **Add additional information**.
 
-    ![Add additional information option in Related Links.](../image/sh-addl-info.png)
+    ![Add additional information option in Related Links.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-addl-info.png)
 
     The Create record producer page opens in Catalog Builder.
 
@@ -54,7 +54,7 @@ Shopping Hub checks for the existence of the record producer used for the additi
 
 5.  Navigate to **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
-    ![ShoppingHub Configuration page showing the Content details tab and Record producer field.](../image/sh-addl-questions-record.png)
+    ![ShoppingHub Configuration page showing the Content details tab and Record producer field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-addl-questions-record.png)
 
 6.  In the **Name** field, enter a name for the configuration.
 
@@ -80,5 +80,5 @@ Shopping Hub checks for the existence of the record producer used for the additi
     The questions added in the record producer for a specific product, product model, or product category appear during checkout in Shopping Hub.
 
 
-**Parent Topic:**[Complete your checkout](complete-your-checkout.md)
+**Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 

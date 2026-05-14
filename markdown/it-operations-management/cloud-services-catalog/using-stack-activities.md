@@ -17,7 +17,7 @@ Display the cloud actions on your stacks and resources by using the **View Activ
 
 You can do multiple actions in the stacks life cycle such as track operations, view activities, view dependency, and do actions. The following example shows the stack activities that you can perform and the following table describes the activities.
 
-![Stack activities view.](../image/using-stack-activities.png "Stack activities")
+![Stack activities view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/using-stack-activities.png "Stack activities")
 
 <table id="table_wfx_dsg_h1c"><thead><tr><th>
 
@@ -63,5 +63,5 @@ List of scheduled operations that are associated with stacks and are displayed a
 -   Status
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
+</table>**Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 

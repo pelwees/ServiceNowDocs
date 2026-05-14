@@ -45,80 +45,80 @@ The following table lists both the mandatory and optional fields for the Spend S
 |Tracking number|String|Tracking number of the shipment.|
 |Zip code|String|ZIP code of the shipment.|
 
-**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](../concept/spo-inbound-staging-tables.md)
+**Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/spo-inbound-staging-tables.md)
 
 **Related topics**  
 
 
-[CMDB Model Category Stage inbound staging table](spo-prod-cate-inbound-table.md)
+[CMDB Model Category Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-prod-cate-inbound-table.md)
 
-[CMDB Service Model Stage inbound staging table](spo-serv-mod-inbound-table.md)
+[CMDB Service Model Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-serv-mod-inbound-table.md)
 
-[CMN Location Stage inbound staging table](spo-loc-inbound-table.md)
+[CMN Location Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-loc-inbound-table.md)
 
-[Catalog Import staging table](catalog-import-staging-table.md)
+[Catalog Import staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/catalog-import-staging-table.md)
 
-[Catalog Error staging table](catalog-error.md)
+[Catalog Error staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/catalog-error.md)
 
-[Cost Center Stage inbound staging table](spo-cost-center-inbound-table.md)
+[Cost Center Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-cost-center-inbound-table.md)
 
-[Department Stage inbound staging table](spo-dept-inbound-table.md)
+[Department Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-dept-inbound-table.md)
 
-[ERP Plant Address Mapping Stage inbound staging table](spo-erp-plant-address-inbound-table.md)
+[ERP Plant Address Mapping Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-erp-plant-address-inbound-table.md)
 
-[FX Currency Stage inbound staging table](spo-fx-currency-inbound-table.md)
+[FX Currency Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-fx-currency-inbound-table.md)
 
-[FX Rate Stage inbound staging table](spo-fx-rate-inbound-table.md)
+[FX Rate Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-fx-rate-inbound-table.md)
 
-[Fixed asset details stage inbound table](fixed-asset-details-stage-inbound-table.md)
+[Fixed asset details stage inbound table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/fixed-asset-details-stage-inbound-table.md)
 
-[GL Account Stage inbound staging table](spo-gl-account-inbound-table.md)
+[GL Account Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-gl-account-inbound-table.md)
 
-[Import Availability Updates inbound staging table](spo-import-avail-inbound-table.md)
+[Import Availability Updates inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-import-avail-inbound-table.md)
 
-[Availability Error staging table](availability-error-staging-table.md)
+[Availability Error staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/availability-error-staging-table.md)
 
-[Cost Allocation inbound staging table \(Deprecated\)](spo-cost-alloc-inbound-table.md)
+[Cost Allocation inbound staging table \(Deprecated\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-cost-alloc-inbound-table.md)
 
-[Invoice inbound staging table](spo-inbound-invoice-table.md)
+[Invoice inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-invoice-table.md)
 
-[Purchase Order inbound staging table](spo-inbound-pur-order-table.md)
+[Purchase Order inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-pur-order-table.md)
 
-[Purchase Order Line inbound staging table](spo-inbound-pol-table.md)
+[Purchase Order Line inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-pol-table.md)
 
-[Receipt inbound staging table](spo-inbound-receipt-table.md)
+[Receipt inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-receipt-table.md)
 
-[Legal Entity Stage inbound staging table](spo-legal-entity-inbound-table.md)
+[Legal Entity Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-legal-entity-inbound-table.md)
 
-[Office Location Stage inbound staging table](spo-office-loc-inbound-table.md)
+[Office Location Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-office-loc-inbound-table.md)
 
-[Order Acknowledgement staging table](order-acknowledgement-staging-table.md)
+[Order Acknowledgement staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/order-acknowledgement-staging-table.md)
 
-[Order Acknowledgement Error staging table](order-acknowledgement-error.md)
+[Order Acknowledgement Error staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/order-acknowledgement-error.md)
 
-[Payment Terms Stage inbound staging table](spo-pay-terms-inbound-table.md)
+[Payment Terms Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-pay-terms-inbound-table.md)
 
-[Price Import staging table](price-import-staging-table.md)
+[Price Import staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/price-import-staging-table.md)
 
-[Price Error outbound staging table](price-error-staging-table.md)
+[Price Error outbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/price-error-staging-table.md)
 
-[Product Model Stage inbound staging table](spo-prod-mod-inbound-table.md)
+[Product Model Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-prod-mod-inbound-table.md)
 
-[Purchase Entity Stage inbound staging table](spo-purch-entity-inbound-table.md)
+[Purchase Entity Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-purch-entity-inbound-table.md)
 
-[Purchase Line Stage inbound staging table](spo-purch-line-stage-inbound-table.md)
+[Purchase Line Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-purch-line-stage-inbound-table.md)
 
-[Purchase Requisition staging table](purchase-requisition-staging-table.md)
+[Purchase Requisition staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/purchase-requisition-staging-table.md)
 
-[Shipment Error staging table](shipment-error-staging-table.md)
+[Shipment Error staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/shipment-error-staging-table.md)
 
-[Supplier Product Stage inbound staging table](spo-supp-prod-inbound-table.md)
+[Supplier Product Stage inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-supp-prod-inbound-table.md)
 
-[Third Party Sourcing Registration staging table](third-party-sourcing-registration-staging-table.md)
+[Third Party Sourcing Registration staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/third-party-sourcing-registration-staging-table.md)
 
-[Third Party Unit Mapping staging table](third-party-unit-mapping-staging-table.md)
+[Third Party Unit Mapping staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/third-party-unit-mapping-staging-table.md)
 
-[Third Party Unit staging table](third-party-unit-staging-table.md)
+[Third Party Unit staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/third-party-unit-staging-table.md)
 
-[Unit of Measure inbound staging table](unit-measure-inbound-staging-table.md)
+[Unit of Measure inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/unit-measure-inbound-staging-table.md)
 

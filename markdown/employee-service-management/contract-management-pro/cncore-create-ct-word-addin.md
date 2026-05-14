@@ -17,9 +17,9 @@ Create a contract template using the Microsoft Word add-in for ServiceNow Contra
 
 ## Before you begin
 
-Verify that the application scope is set to **Global** by selecting the Application scope icon \(![Application scope icon](../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\) in the header of your homepage.
+Verify that the application scope is set to **Global** by selecting the Application scope icon \(![Application scope icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-calendar-synchronization/image/application-scope-globe-icon.png)\) in the header of your homepage.
 
-If you’re creating a contract template for a non-task table, verify that the non-task table is added in the extension script. For more information, see [Configure non-task tables for contract templates](cmpro-config-non-tsk-tbl-cn-tmplt.md).
+If you’re creating a contract template for a non-task table, verify that the non-task table is added in the extension script. For more information, see [Configure non-task tables for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-non-tsk-tbl-cn-tmplt.md).
 
 Role required: sn\_cm\_core.contract\_config
 
@@ -29,7 +29,7 @@ Role required: sn\_cm\_core.contract\_config
 
 2.  Select **New**.
 
-    ![New contract template form](../image/cmpro-contract-template.png "Contract template form")
+    ![New contract template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-contract-template.png "Contract template form")
 
 3.  On the form, fill in the fields.
 
@@ -109,7 +109,7 @@ When this option is selected:
 
 -   You can’t upload a participant-based template.
 -   The **Participants** related list isn’t available.
-For more information, see [Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-sign-block.md).
+For more information, see [Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-sign-block.md).
 
 </td></tr><tr><td>
 
@@ -149,16 +149,16 @@ The contract template is saved in the Draft state.
 
 ## What to do next
 
-[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
+[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md)
 
-**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](../concept/cncore-setup-ct-add-in.md)
+**Parent Topic:**[Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-setup-ct-add-in.md)
 
 **Related topics**  
 
 
-[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](cncore-add-contrl-wrd-addin.md)
+[Add document content controls using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-contrl-wrd-addin.md)
 
-[Complete mapping and upload Microsoft Word document that includes content controls](cncore-upload-doc-addin.md)
+[Complete mapping and upload Microsoft Word document that includes content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-upload-doc-addin.md)
 
-[Complete clause mapping to build a clause library](cncore-clause-map-addin.md)
+[Complete clause mapping to build a clause library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-clause-map-addin.md)
 

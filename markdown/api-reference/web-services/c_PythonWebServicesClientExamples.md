@@ -216,5 +216,5 @@ entriestosend = { } for line  in matchedlines:
 	response  = server. insert (agent =soapagent , topic =ecctopic+value [ 0 ] , name =eccname+key , source =eccsource , payload =value [ 1 ] )
 ```
 
-**Parent Topic:**[Inbound web service examples](c_InboundWebServiceExamples.md)
+**Parent Topic:**[Inbound web service examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_InboundWebServiceExamples.md)
 

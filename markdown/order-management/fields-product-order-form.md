@@ -218,5 +218,5 @@ Attachments
 File attachments for the product order. Select **Select file** to add the file as an attachment.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Domain order forms](field-descriptions-product-domain-orders.md)
+</table>**Parent Topic:**[Domain order forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/field-descriptions-product-domain-orders.md)
 

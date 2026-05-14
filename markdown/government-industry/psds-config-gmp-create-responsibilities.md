@@ -21,7 +21,7 @@ Role required: admin
 
 A responsibility, or responsibility definition, specifies the role or function a user has within an entity or organization, determining access through relationships. When creating a relationship, users are assigned specific responsibilities that grant access to the entity and its related entities. In Investigative Case Management, responsibility definitions are used to delegate case access to team members working on an investigative case in the ICM workspace.
 
-You can use the responsibility definitions provided with the Investigative Case Management application to create teams. For information on the responsibilities provided with ICM, see [Assign user personas, roles, groups, and responsibilities in Investigative Case Management](psds-config-icm-assign-user-roles-responsibilities.md).
+You can use the responsibility definitions provided with the Investigative Case Management application to create teams. For information on the responsibilities provided with ICM, see [Assign user personas, roles, groups, and responsibilities in Investigative Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-assign-user-roles-responsibilities.md).
 
 As an admin, you can also modify these role responsibility definitions or create your own to meet your organization requirements.
 
@@ -45,6 +45,6 @@ As an admin, you can also modify these role responsibility definitions or create
 
 4.  Select **Submit**.
 
-    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [Create a case team for an investigative case](../task/psds-config-icm-create-case-team.md).
+    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [Create a case team for an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/psds-config-icm-create-case-team.md).
 
 

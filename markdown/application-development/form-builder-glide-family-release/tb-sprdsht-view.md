@@ -25,11 +25,11 @@ Sometimes errors occur when trying to save data records \( data conflicting with
 
 Correct the data in each record individually, or select **Revert record changes** to revert any changes you made to the erroneous records.
 
-![Errors in Spreadsheet view.](../image/scr-us2-spreadsheet-error.png "Errors in Spreadsheet view")
+![Errors in Spreadsheet view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-spreadsheet-error.png "Errors in Spreadsheet view")
 
 Use the following procedures to edit table field structure and any imported data records for a selected table using **Spreadsheet** view in Table Builder
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/table-builder.md)
 
 ## Add a new data record
 
@@ -37,23 +37,23 @@ Add a new data record within Table Builder **Spreadsheet** view.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Select the **Add new record** icon \(![Add new record icon.](../image/icn-us2-add-data-record.png)\).
+2.  Select the **Add new record** icon \(![Add new record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-add-data-record.png)\).
 
-    ![Add new record.](../image/scr-us2-add-record.png "Add new record")
+    ![Add new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-add-record.png "Add new record")
 
 3.  Make your changes to the data record.
 
 4.  Select **Save**.
 
-    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
+    See [Saving data records in Spreadsheet view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
 
 
 ## Edit individual data records
@@ -62,23 +62,23 @@ Edit individual data records within Table Builder **Spreadsheet** view.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Click into any editable data record field to launch the data for editing.
 
-    ![Edit a field on the record](../image/edit-data-record-tb.png "Edit a field")
+    ![Edit a field on the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/edit-data-record-tb.png "Edit a field")
 
 3.  Make your changes to the data.
 
 4.  Select **Save**.
 
-    See [Saving data records in Spreadsheet view](tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
+    See [Saving data records in Spreadsheet view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/tb-sprdsht-view.md#section_bgw_pjc_dxb)for details on troubleshooting errors.
 
 
 ## Sort your data records
@@ -87,21 +87,21 @@ Sort your data records by a specific field column within Table Builder **Spreads
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Hover over a column header that contains the data by which you would like to sort the list of records, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions \(e.g., sort records by Approval Date in ascending order\).
+2.  Hover over a column header that contains the data by which you would like to sort the list of records, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions \(e.g., sort records by Approval Date in ascending order\).
 
 3.  Select from the following options to choose whether to sort the data for the column in ascending or descending order.
 
     -   Sort A to Z or Sort Oldest to Newest \(ascending order\)
     -   Sort Z to A or Sort Newest to Oldest \(descending order\)
-    ![Sort by a to z.](../image/scr-us2-sort-data.png "Sort A to Z")
+    ![Sort by a to z.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-sort-data.png "Sort A to Z")
 
     The list of records will then display in the order you chose.
 
@@ -112,21 +112,21 @@ Show a filtered list of data records that contain matching data for a selected f
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select and hold \(or right-click\) the data record in a cell to create a filtered list of records that contain the matching data, \(e.g., show all records where **Short description** is "Can't read email".\).
 
-    ![Show matching data records.](../image/scr-vs2-show-matching.png "Show matching data records")
+    ![Show matching data records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-vs2-show-matching.png "Show matching data records")
 
     A filtered list of records with matching data displays and a new filter query is added and accessible when you click the **Filter** button at the top of the grid.
 
-    **Note:** To remove the filtering you just added, select the **Filter** button, and then delete the new filter condition from the list. See [Filter your data records](tb-sprdsht-view.md#).
+    **Note:** To remove the filtering you just added, select the **Filter** button, and then delete the new filter condition from the list. See [Filter your data records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/tb-sprdsht-view.md#).
 
 
 ## Filter your data records
@@ -135,23 +135,23 @@ Display only the data records you want to see in your list by setting up a condi
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select **Filter** above the spreadsheet to launch a filter query.
 
-    You can also select **Filter by value** from a specific column's **Additional actions** menu \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to pre-select that column's data for your query.
+    You can also select **Filter by value** from a specific column's **Additional actions** menu \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to pre-select that column's data for your query.
 
     **Note:** When a number appears to the right of the **Filter** button, it means that there are existing filters set for the view.
 
     The Filter window displays \(along with any filter criteria that has already been set\). In this case, an existing filter is set to display records where **Age** is 35.
 
-    ![Filter data.](../image/scr-us2-filter-data.png "Filter data")
+    ![Filter data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-filter-data.png "Filter data")
 
 3.  Enter your filtering query to specify which data records you want to display.
 
@@ -169,25 +169,25 @@ Edit field properties such as the field label, type, attributes, and default val
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Hover over the desired column header, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions.
+2.  Hover over the desired column header, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions.
 
 3.  Select **Column properties**.
 
     The Properties pane displays for the selected field column.
 
-    ![Column properties displayed](../image/scr-us2-field-properties-pane.png "Properties pane")
+    ![Column properties displayed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-field-properties-pane.png "Properties pane")
 
 4.  Edit the desired field property for the column.
 
-    See [Field configuration in Table Builder](../reference/field-parameters.md) for more information on field properties.
+    See [Field configuration in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../reference/field-parameters.md) for more information on field properties.
 
 5.  Select **Save**.
 
@@ -198,21 +198,21 @@ Add new field columns to a selected table within Table Builder **Spreadsheet** v
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select the **+ Add field** button.
 
-    **Note:** You can also select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions, and then select **Insert column left** or **Insert column right** to insert the new column in a specific place within the table.
+    **Note:** You can also select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions, and then select **Insert column left** or **Insert column right** to insert the new column in a specific place within the table.
 
     The Add a new column window displays.
 
-    ![Add new column.](../image/scr-us2-add-column.png "Add new column")
+    ![Add new column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-add-column.png "Add new column")
 
 3.  Enter the following information for your new field column.
 
@@ -305,21 +305,21 @@ Duplicate an existing field column within a table shown in Table Builder **Sprea
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Hover over the header for the column to duplicate, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions.
+2.  Hover over the header for the column to duplicate, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions.
 
 3.  Select **Duplicate column**from the menu.
 
     The text "copy" is automatically appended to the existing column label.
 
-    ![Duplicate column.](../image/scr-us2-duplicate-column.png "Duplicate column")
+    ![Duplicate column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-duplicate-column.png "Duplicate column")
 
 4.  Edit the **Column label** to the desired display name for the duplicated field column.
 
@@ -338,17 +338,17 @@ Change the order in which your columns are displayed within Table Builder **Spre
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Click to select the **Column handle** icon \(![Column handle icon.](../image/icn-us2-column-handle.png)\) for a column and then drag the column to the desired locations in the table.
+2.  Click to select the **Column handle** icon \(![Column handle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-column-handle.png)\) for a column and then drag the column to the desired locations in the table.
 
-    ![Drag and drop column.](../image/scr-us2-drag-column.png "Drag and drop columns")
+    ![Drag and drop column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/scr-us2-drag-column.png "Drag and drop columns")
 
     **Note:** If your table contains many table columns, select the **Manage columns** menu to view a compact list of column names, and then visually drag and drop within this list to order your table columns.
 
@@ -359,13 +359,13 @@ Choose whether to hide or show specific field columns within Table Builder **Spr
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Choose one of the following options.
 
@@ -389,7 +389,7 @@ Using the **Manage columns** button:
 2.  Deselect the column you wish to hide. Only selected columns will display in your view.
  Using the column's context menu:
 
-1.  Hover over the column header to hide, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\).
+1.  Hover over the column header to hide, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\).
 2.  Select **Hide** from the menu to hide the column from view.
 
 
@@ -415,13 +415,13 @@ Pin specific columns to always display on the left when you scroll to the right 
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Choose one of the following options to pin or unpin a field column.
 
@@ -439,7 +439,7 @@ Steps
 
 </td><td>
 
-1.  Hover over the column header to pin, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\).
+1.  Hover over the column header to pin, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\).
 2.  Select **Pin** from the menu to pin the column to the left side of your view.
 
 
@@ -449,7 +449,7 @@ Steps
 
 </td><td>
 
-1.  Hover over the column header to unpin, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\).
+1.  Hover over the column header to unpin, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\).
 
 **Note:** Pinned columns have a checkmark to the left of the column in the list.
 
@@ -466,15 +466,15 @@ Delete a field column for a selected table within Table Builder **Spreadsheet** 
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Spreadsheet view displays by default. You can also access Spreadsheet view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Hover over a column header you want to delete, and then select the **Additional actions** icon \(![Additional actions icon.](../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions \(e.g., sort records by Approval Date in ascending order\).
+2.  Hover over a column header you want to delete, and then select the **Additional actions** icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/icn-us2-ellipsis-column.png)\) to launch a column-specific list of actions \(e.g., sort records by Approval Date in ascending order\).
 
 3.  Select **Delete column**.
 

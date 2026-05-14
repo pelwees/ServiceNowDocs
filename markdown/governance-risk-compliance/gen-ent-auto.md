@@ -29,7 +29,7 @@ Entities can be generated using two methods. This section describes the automati
 
     The **GRC Profile Generation** scheduled job is shown in the example.
 
-    ![GRC Profile Generation scheduled job.](../image/sch-job-grc-profile-gen.png)
+    ![GRC Profile Generation scheduled job.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sch-job-grc-profile-gen.png)
 
 3.  Select **Execute Now**.
 
@@ -39,6 +39,6 @@ Entities can be generated using two methods. This section describes the automati
 
 6.  Open an entity type and check the entities related list.
 
-    **Note:** Generate entities automatically using the scheduled job. Use manual addition from the Operational Resilience Workspace for exceptions or one-off additions that don't fit the filter criteria. For adding entities from the Operational Resilience Workspace using the **Add to OpRes** UI action, see [Add entities manually](gen-ent-manually.md).
+    **Note:** Generate entities automatically using the scheduled job. Use manual addition from the Operational Resilience Workspace for exceptions or one-off additions that don't fit the filter criteria. For adding entities from the Operational Resilience Workspace using the **Add to OpRes** UI action, see [Add entities manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-ent-manually.md).
 
 

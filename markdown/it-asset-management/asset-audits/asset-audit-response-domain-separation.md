@@ -39,7 +39,7 @@ When managing and completing an audit engagement and corresponding evidence requ
 
 **Note:** If you create an evidence request under a specific domain in the Audit Workspace, the corresponding asset evidence task automatically falls under the same domain in the Asset Governance Workspace.
 
-**Parent Topic:**[Asset Audit Response reference](asset-audit-response-references.md)
+**Parent Topic:**[Asset Audit Response reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-audit-response-references.md)
 
 **Related topics**  
 

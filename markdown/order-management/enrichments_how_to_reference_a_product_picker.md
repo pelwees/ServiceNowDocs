@@ -27,7 +27,7 @@ pkr.somePicker.data.forEach((row) => {
 
 If you intend to use the Pricing enrichment to dynamically set prices for the product picker options, be sure to enable this feature on the product picker. To do this, in the product picker administration page, click the cog to open the Product Picker Settings dialog. Then, turn on **Enable for Pricing Enrichment**.
 
-![Product Picker Settings](../images/cpq-product-picker-enable-for-pricing-enrichment.png)
+![Product Picker Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-enable-for-pricing-enrichment.png)
 
 In the related blueprint's Picklist Extension Pricing enrichment, your script will work as follows:
 

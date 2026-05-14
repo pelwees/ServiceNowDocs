@@ -48,5 +48,5 @@ Install Financial Services Card Operations by requesting it from the ServiceNow 
     Card data security provides a tokenizer service to tokenize and detokenize data for Dispute Cases and Dispute Transactions to meet Payment Card Industry \(PCI\) requirements.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

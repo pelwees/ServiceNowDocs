@@ -37,5 +37,5 @@ Provide the ability to  view, filter, and close cases , and access cases con
     |**Store case**|Displays the store tasks.|
 
 
-**Parent Topic:**[Track and monitor store plans](track-monitor-store-plans.md)
+**Parent Topic:**[Track and monitor store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/track-monitor-store-plans.md)
 

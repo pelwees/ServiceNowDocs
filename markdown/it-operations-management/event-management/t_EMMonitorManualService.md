@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Services** &gt; **Application Services**.
 
-    ![Application service list](../image/application-service-list.png)
+    ![Application service list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/application-service-list.png)
 
 2.  In the row of the required application services, click **View Map**.
 
@@ -75,7 +75,7 @@ In the service map header:1.  Click the menu icon.
 </td><td>
 
 In the service map header:1.  Click the down arrow next to the service name or the folder icon for all services.
-2.  Search for and select another application services \(![Manual application service icon](../image/EventManagementManualBSIcon.png)\).
+2.  Search for and select another application services \(![Manual application service icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementManualBSIcon.png)\).
  The icon color represents the highest impact or severity for active alerts on the application services.
 
 -   **Critical**: Red \(highest severity\).
@@ -97,5 +97,5 @@ In the service map:1.  Click a CI tile.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Monitor service health](t_EMViewDashboard.md)
+**Parent Topic:**[Monitor service health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewDashboard.md)
 

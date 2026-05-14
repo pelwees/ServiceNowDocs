@@ -69,10 +69,10 @@ Steps
 </table>4.  In the Move date dialog box, select **OK**.
 
 
-**Parent Topic:**[Change the planned start date of a project](change-planned-start-date-of-project.md)
+**Parent Topic:**[Change the planned start date of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/change-planned-start-date-of-project.md)
 
 **Related topics**  
 
 
-[Change the planned start date of a project](change-planned-start-date-of-project.md)
+[Change the planned start date of a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/change-planned-start-date-of-project.md)
 

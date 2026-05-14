@@ -82,5 +82,5 @@ Advanced
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Routing work items to agents based on skills](../concept/skill-based-routing.md)
+**Parent Topic:**[Routing work items to agents based on skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../concept/skill-based-routing.md)
 

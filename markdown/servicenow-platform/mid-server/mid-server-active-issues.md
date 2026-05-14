@@ -21,14 +21,14 @@ To access records in this table, navigate to **MID Server** &gt; **Server Issues
 
 Supported MID Server active issues:
 
--   Bad user credentials after [instance cloning](../reference/mid-post-clone-issue-resolution.md).
--   Unsupported [Java Runtime Environment \(JRE\)](../reference/r_MIDServerSystemRequirements.md) on the MID Server host.
--   Approaching [resource thresholds](../reference/mid-resource-threshold-alerts.md) for CPU usage and JVM memory.
--   Errors detected during [pre-upgrade testing](../reference/mid-server-pre-upgrade-check.md).
--   [User authentication](../reference/mid-server-connectivity-issues.md#) and authorization failures.
--   Network [connectivity interruptions](../reference/mid-server-connectivity-issues.md#) and role configuration errors.
+-   Bad user credentials after [instance cloning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-post-clone-issue-resolution.md).
+-   Unsupported [Java Runtime Environment \(JRE\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerSystemRequirements.md) on the MID Server host.
+-   Approaching [resource thresholds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-resource-threshold-alerts.md) for CPU usage and JVM memory.
+-   Errors detected during [pre-upgrade testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-pre-upgrade-check.md).
+-   [User authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-connectivity-issues.md#) and authorization failures.
+-   Network [connectivity interruptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-connectivity-issues.md#) and role configuration errors.
 
-![Example MID Server Issue record](../image/MIDServerIssueRecord.png "Example MID Server Issue record")
+![Example MID Server Issue record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerIssueRecord.png "Example MID Server Issue record")
 
-**Parent Topic:**[Resolving MID Server issues](../reference/r_MIDServerTroubleshooting.md)
+**Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerTroubleshooting.md)
 

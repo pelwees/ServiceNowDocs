@@ -15,12 +15,12 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 Reference topics provide additional information about the lists, forms, and settings used in Discovery Admin Workspace.
 
--   **[Discovery Admin Workspace support tools](r_dawSupportTools.md)**  
+-   **[Discovery Admin Workspace support tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_dawSupportTools.md)**  
 The **Support tools** tab provides tools to investigate and troubleshoot your instance.
--   **[Application fingerprint suggestion form](discovery-admin-app-fingerprint-form.md)**  
+-   **[Application fingerprint suggestion form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-app-fingerprint-form.md)**  
 When viewing suggestions based on application fingerprints, verify the information on the Application fingerprints suggestion form.
--   **[Discovery Admin Workspace data visualizations](r_dawScheduleDetailsOverview.md)**  
+-   **[Discovery Admin Workspace data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_dawScheduleDetailsOverview.md)**  
 The **Overview** tab includes visualizations that provide detailed information about the Discovery schedule. These visualizations offer a comprehensive view of the schedule performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered.
 
-**Parent Topic:**[Discovery reference](discovery-references.md)
+**Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 

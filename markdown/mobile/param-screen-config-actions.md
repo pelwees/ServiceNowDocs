@@ -15,7 +15,7 @@ Configure the actions that you want to appear on an Input field to trigger a UI 
 
 ## Before you begin
 
-You must create an input form screen before you can create actions. For information about creating an input form screen, see [Configure an input form screen](parameter-screen-config.md).
+You must create an input form screen before you can create actions. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
@@ -141,7 +141,7 @@ Action attributes
 
 </td><td>
 
-Determine where or how the action handles the generated data.**Note:** The only action attribute available when `Input source` is selected in the **Input type** field, is *UserActionID*. For a list of the attributes when the **Input type** is `Input action`, see [.](input-actions-configure.md)
+Determine where or how the action handles the generated data.**Note:** The only action attribute available when `Input source` is selected in the **Input type** field, is *UserActionID*. For a list of the attributes when the **Input type** is `Input action`, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/input-actions-configure.md)
 
 **UserActionID**: A unique value that identifies this action record. It is needed to associate the action with a UI rule.
 
@@ -151,5 +151,5 @@ Determine where or how the action handles the generated data.**Note:** The only 
 
 ## What to do next
 
-Associate the **UserActionID** for this action to a UI rule. For more information, see [Create a mobile UI rule](create-mobile-ui-rule.md).
+Associate the **UserActionID** for this action to a UI rule. For more information, see [Create a mobile UI rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule.md).
 

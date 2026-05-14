@@ -58,7 +58,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 </td></tr></tbody>
 </table>2.  Use the Tracking mode toggle to turn on the tracking view of the roadmap.
 
-    ![Roadmap tracking mode view.](../../spw-roadmap/images/tracking-mode-on.gif)
+    ![Roadmap tracking mode view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/tracking-mode-on.gif)
 
 3.  Personalize the roadmap view in tracking mode.
 
@@ -76,14 +76,14 @@ From the Free-form Roadmaps tab, select a roadmap.
 
         |Milestone indicator with label|Milestone indicator|
         |------------------------------|-------------------|
-        |![Milestone indicator with label.](../../spw-roadmap/images/milestone-with-label.png)|![Milestone indicator.](../../spw-roadmap/images/milestone-icon.png)|
+        |![Milestone indicator with label.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/milestone-with-label.png)|![Milestone indicator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/milestone-icon.png)|
 
 
 ## Result
 
 The tracking view of your roadmap is displayed according to your personalization settings. A sample view of roadmap tracking is shown in the following image.
 
-![Roadmap tracking mode.](../../spw-roadmap/images/roadmap-tracking-mode.png)
+![Roadmap tracking mode.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/roadmap-tracking-mode.png)
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

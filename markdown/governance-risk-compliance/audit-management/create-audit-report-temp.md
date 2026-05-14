@@ -68,7 +68,7 @@ HTML
 
 </td><td>
 
-HTML code. When you select the **HTML** option, you can add the HTML code in the audit report template as shown in the following example:![HTML code for audit report template.](../image/html-code-audit-report-template.png)
+HTML code. When you select the **HTML** option, you can add the HTML code in the audit report template as shown in the following example:![HTML code for audit report template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/html-code-audit-report-template.png)
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Script
 
 </td><td>
 
-Script code. When you select the **Script** option, you can add the Script code in the audit report template as shown in the following example:![Script code for audit report template.](../image/script-code-audit-report-template.png)
+Script code. When you select the **Script** option, you can add the Script code in the audit report template as shown in the following example:![Script code for audit report template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/script-code-audit-report-template.png)
 
 </td></tr><tr><td>
 
@@ -84,14 +84,14 @@ XML
 
 </td><td>
 
-XML code. When you select the **XML** option, you can add the XML code in your audit report template as shown in the following example:![XML code for audit report template.](../image/xml-code-audit-report-template.png)
+XML code. When you select the **XML** option, you can add the XML code in your audit report template as shown in the following example:![XML code for audit report template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/xml-code-audit-report-template.png)
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
     The audit report template is displayed in the list view as shown in the following example:
 
-    ![Audit report template.](../image/html-audit-report-template.png)
+    ![Audit report template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/html-audit-report-template.png)
 
     You can use the audit report template to display data according to the defined format in an audit report.
 

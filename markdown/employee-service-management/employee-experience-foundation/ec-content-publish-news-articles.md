@@ -18,7 +18,7 @@ News articles can be published via a publish plan or using Content templates to 
 ## Before you begin
 
 -   Role required: sn\_cd.content\_manager
--   Complete the steps to [Create a news article](ec-content-library-news-article.md)
+-   Complete the steps to [Create a news article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-news-article.md)
 
 ## About this task
 
@@ -53,7 +53,7 @@ News articles can be published via a publish plan or using Content templates to 
 
 3.  Click **Save availability**.
 
-4.  Review the auto-generated publish plans and edit as necessary, such as to change the audience or publishing dates, or create new publish plans: [Create a publish plan for your content](ec-content-library-publish2.md).
+4.  Review the auto-generated publish plans and edit as necessary, such as to change the audience or publishing dates, or create new publish plans: [Create a publish plan for your content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
 
     **Note:** If you edit an auto-generated publish plan, ensure you select the **Active** option.
 

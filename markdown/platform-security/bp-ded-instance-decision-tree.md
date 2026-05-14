@@ -17,11 +17,11 @@ You can use decision trees and a comparison chart to determine if a new customer
 
 Use these decision trees to help your customers decide whether to use a managed or dedicated instance.
 
-![Customer decision tree](../image/bp-customer-decision-a-tree.png "Customer decision tree")
+![Customer decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-customer-decision-a-tree.png "Customer decision tree")
 
-![SP reference architecture decision tree](../image/bp-dedicated-vs-shared.png)
+![SP reference architecture decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-dedicated-vs-shared.png)
 
 ## SP reference architecture comparison
 
-**Parent Topic:**[Service provider reference architecture](bp-sp-reference-arch-ds.md)
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 

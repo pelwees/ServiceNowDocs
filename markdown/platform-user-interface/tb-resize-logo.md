@@ -23,7 +23,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 1.  In the Unified Navigation All menu, enter `sys_properties.list` and press **Enter**.
 
-    ![All menu.](../../../get-started/servicenow-overview/image/pol-nav-all-p.png "Unified Navigation All menu")
+    ![All menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-nav-all-p.png "Unified Navigation All menu")
 
     The entire list of properties in the System Properties \[sys\_properties\] table appears.
 
@@ -46,5 +46,5 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     At the next launch, your logo is resized based on how you configured the system property.
 
 
-**Parent Topic:**[Upload a new logo to your Theme Builder theme](tb-upload-logo.md)
+**Parent Topic:**[Upload a new logo to your Theme Builder theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-upload-logo.md)
 

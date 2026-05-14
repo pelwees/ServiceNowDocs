@@ -26,7 +26,7 @@ The accelerator aligns you with CSDM leading practices and enables you to build 
 
 ## Prerequisites
 
-Customers are encouraged to complete the [Jumpstart Your CSDM: Foundation accelerator](jumpstart-csdm.md) before taking this one, as this offering builds on the foundational data required to operate, maintain and support business and technical services.
+Customers are encouraged to complete the [Jumpstart Your CSDM: Foundation accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-csdm.md) before taking this one, as this offering builds on the foundational data required to operate, maintain and support business and technical services.
 
 ## What You Get
 

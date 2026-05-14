@@ -289,5 +289,5 @@ None
 </table>**Related topics**  
 
 
-[Launch a feature in Engagement Messenger using custom code](../task/contextual-launch-using-script-engagement-messenger.md)
+[Launch a feature in Engagement Messenger using custom code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/contextual-launch-using-script-engagement-messenger.md)
 

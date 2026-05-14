@@ -35,7 +35,7 @@ By default, the configuration with the least order is picked to perform the thre
 
 4.  Select the observable and then from the Actions menu, click **Run Threat Lookup**.
 
-    In this example, you see how to select a security incident and an observable, how to run a threat lookup, and how to view the results in the Work notes.![Threat lookup that is triggered on an observable.](../image/zscaler-threat-lookup.gif)
+    In this example, you see how to select a security incident and an observable, how to run a threat lookup, and how to view the results in the Work notes.![Threat lookup that is triggered on an observable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/zscaler-threat-lookup.gif)
 
 
 ## Result

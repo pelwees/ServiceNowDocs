@@ -42,5 +42,5 @@ Store a single file attachment as part of the action or flow's associated record
     Use the existing attachment actions to manage attachments associated with records and email. There are existing actions to copy, delete, get from record, look up, and move attachments. Storing an attachment as a file attachment data type prevents you from managing attachments with the standard attachment actions.
 
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

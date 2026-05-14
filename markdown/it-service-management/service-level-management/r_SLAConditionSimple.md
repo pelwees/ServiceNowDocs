@@ -21,7 +21,7 @@ To edit this script, navigate to **Service Level Management** &gt; **Administrat
 
 The following diagram shows how the transitions work:
 
-![Task SLA simple condition stage transition diagram](../image/SLAConditionSimple.png "SLAConditionSimple")
+![Task SLA simple condition stage transition diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLAConditionSimple.png "SLAConditionSimple")
 
-**Parent Topic:**[SLA condition rules](../concept/c_SLAConditionRules.md)
+**Parent Topic:**[SLA condition rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_SLAConditionRules.md)
 

@@ -33,5 +33,5 @@ The Outbound invoice line table is the transfers the invoice line details table 
 |Status|Status of an invoice|Choice|
 |Line amount.invoiced amount|The total amount for the invoice line|String|
 
-**Parent Topic:**[Outbound invoice fields](outbound-invoice-fields.md)
+**Parent Topic:**[Outbound invoice fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-invoice-fields.md)
 

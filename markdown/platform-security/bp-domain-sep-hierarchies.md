@@ -37,7 +37,7 @@ Global records are available to all users of the instance unless they are restri
 -   Use the default domain to make sure that records do not end up in the global domain on tables that should never have global records.
 -   Instance owners must then triage the records in the default domain and move them to the correct domain.
 
-![Sample domain separation hierarchies](../image/bp-ds-hierarchy.png)
+![Sample domain separation hierarchies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-ds-hierarchy.png)
 
 ## Domain hierarchies
 
@@ -67,9 +67,9 @@ Many SPs have customers who implicitly state that access to their domains must b
 2.  Super verticals \(restricted, manager services, and so on\) are allowed as long as the customers only ever belong to one of them.
 3.  Services, products, or offerings that need to be horizontally available to all customers are not defined within separate domain hierarchies.
 
-![Domain hierarchy flow](../image/bp-domain-hierarchy-1.png)
+![Domain hierarchy flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-domain-hierarchy-1.png)
 
-![Domain hierarchy with verticals](../image/bp-domain-hierarchy-2.png)
+![Domain hierarchy with verticals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-domain-hierarchy-2.png)
 
 Here are some sample use cases:
 
@@ -82,64 +82,64 @@ Here are some sample use cases:
 
 The following diagram delineates how to choose which hierarchy model is right for you. You can choose separate hierarchies, hybrid, or shared hierarchies depending on which processes and functionality you want in your domain structures.
 
-![Customer decision tree](../image/bp-customer-decision-a-tree.png "Customer Decision Trees")
+![Customer decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-customer-decision-a-tree.png "Customer Decision Trees")
 
-![Dedicated vs shared hierarchy of data separation](../image/bp-dedicated-vs-shared.png)
+![Dedicated vs shared hierarchy of data separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-dedicated-vs-shared.png)
 
-To learn more about hierarchy architecture, see [Service provider reference architecture](bp-sp-reference-arch-ds.md).
+To learn more about hierarchy architecture, see [Service provider reference architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md).
 
-**Parent Topic:**[Domain separation recommended practices for service providers](bp-domain-sep-recommended.md)
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
 
-[Domain separation explained](../concept/bp-what-is-domain-separation.md)
+[Domain separation explained](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-what-is-domain-separation.md)
 
-[Context and domain separation](../concept/bp-domain-sep-context.md)
+[Context and domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-sep-context.md)
 
-[Segregating and securing data with domain separation](bp-segregate-secure.md)
+[Segregating and securing data with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-segregate-secure.md)
 
-[Alternatives to domain separation](bp-domain-separation-alternatives.md)
+[Alternatives to domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-separation-alternatives.md)
 
-[Evaluating the need for domain separation](bp-evaluation-dom-sep.md)
+[Evaluating the need for domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-evaluation-dom-sep.md)
 
-[Benefits of domain separation](bp-advantages-dom-sep.md)
+[Benefits of domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-advantages-dom-sep.md)
 
-[How a database query works with domain separation](../concept/bp-db-query-with-ds.md)
+[How a database query works with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-db-query-with-ds.md)
 
-[Domain separation levels of support](bp-domain-levels.md)
+[Domain separation levels of support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-levels.md)
 
-[Service provider reference architecture](bp-sp-reference-arch-ds.md)
+[Service provider reference architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-[Domain separation terms](bp-terms-conditions.md)
+[Domain separation terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-terms-conditions.md)
 
-[Domain-separate a custom table](bp-ds-custom-table.md)
+[Domain-separate a custom table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-ds-custom-table.md)
 
-[Customizing domain properties and themes](../concept/bp-domain-prop-themes.md)
+[Customizing domain properties and themes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-prop-themes.md)
 
-[Managing domain separation for specific uses](../concept/bp-emails-catalog-users.md)
+[Managing domain separation for specific uses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-emails-catalog-users.md)
 
-[Configuring domain separation with the domain picker](../concept/bp-domain-picker-config-process.md)
+[Configuring domain separation with the domain picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-picker-config-process.md)
 
-[Domain separation performance considerations](../concept/bp-performance-considerations.md)
+[Domain separation performance considerations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-performance-considerations.md)
 
-[Setting up domain hierarchies](../concept/bp-domain-hierarchy.md)
+[Setting up domain hierarchies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-hierarchy.md)
 
-[Checking domain logs for errors and warnings](../concept/bp-domain-logs.md)
+[Checking domain logs for errors and warnings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-logs.md)
 
-[Importance of the Default domain](../concept/bp-default-domain.md)
+[Importance of the Default domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-default-domain.md)
 
-[Contains queries and domain access](../concept/bp-contains-domain-visibility.md)
+[Contains queries and domain access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-contains-domain-visibility.md)
 
-[Domain paths query method](../concept/bp-domain-query-method.md)
+[Domain paths query method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-domain-query-method.md)
 
-[Slow queries and SQL debugging](../concept/bp-debug-sql.md)
+[Slow queries and SQL debugging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-debug-sql.md)
 
-[Before Query business rules](../concept/bp-before-query-business-rules.md)
+[Before Query business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-before-query-business-rules.md)
 
-[Avoiding domain path in scripts](../concept/bp-no-domain-path-in-scripts.md)
+[Avoiding domain path in scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-no-domain-path-in-scripts.md)
 
-[Domain assignments](bp-domain-assignment.md)
+[Domain assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-assignment.md)
 
-[Domain separation and the Customer Service Management \(CSM\) plugin](../concept/bp-ds-and-csm.md)
+[Domain separation and the Customer Service Management \(CSM\) plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/bp-ds-and-csm.md)
 

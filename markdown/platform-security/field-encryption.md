@@ -26,7 +26,7 @@ Field Encryption has two available versions.
     Field Encryption Enterprise is a premium, subscription version of the product available for customers subscribing to ServiceNow Vault, Platform Encryption, or Field Encryption Enterprise.
 
 
-For more information on the difference between these versions, see [Exploring Field Encryption](exploring-fe.md).
+For more information on the difference between these versions, see [Exploring Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md).
 
 Field Encryption replaces the Column Level Encryption product available in Xanadu and earlier releases.
 
@@ -34,25 +34,25 @@ Field Encryption replaces the Column Level Encryption product available in Xanad
 
 <table id="table_vpd_41n_b2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the benefits of the Starter and Enterprise versions of Field Encryption.](exploring-fe.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the benefits of the Starter and Enterprise versions of Field Encryption.](exploring-fe.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to activate and configure Field Encryption Enterprise, and manage migration from Encryption Support or Column Level Encryption.](configuring-column-level-encryption.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to activate and configure Field Encryption Enterprise, and manage migration from Encryption Support or Column Level Encryption.](configuring-column-level-encryption.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Field Encryption to manage access to encrypted data on your instances](using-column-level-encryption.md).
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use Field Encryption to manage access to encrypted data on your instances](using-column-level-encryption.md).
 
 </td></tr></tbody>
-</table>-   **[Exploring Field Encryption](exploring-fe.md)**  
+</table>-   **[Exploring Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/exploring-fe.md)**  
 Learn the details of Field Encryption Starter and Field Encryption Enterprise
--   **[Configuring Field Encryption](configuring-column-level-encryption.md)**  
+-   **[Configuring Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)**  
 Learn how to activate and configure Field Encryption and manage migration from Encryption Support.
--   **[Using Field Encryption](using-column-level-encryption.md)**  
+-   **[Using Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)**  
 Use Field Encryption to manage access to encrypted data on your instances.
--   **[External Key Management Service](ekms-external-key-management.md)**  
+-   **[External Key Management Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ekms-external-key-management.md)**  
 External Key Management Service \(EKMS\) enables you to integrate Field Encryption with your own external key management systems.
 
-**Parent Topic:**[Encryption](../../security/concept/encryption-landing.md)
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/encryption-landing.md)
 

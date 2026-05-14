@@ -18,30 +18,30 @@ Set up, manage, and optimize your generative‑AI solutions on the ServiceNow AI
 
 <table id="table_sqc_w3w_bhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist Center concepts and features.](exploring-now-assist-center.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist Center concepts and features.](exploring-now-assist-center.md)
 
 </td><td>
 
-[Configure![](../../document-intelligence/image/icon-configure-docintel.png)Set up Now Assist Center to get started.](configuring-now-assist-center.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../document-intelligence/image/icon-configure-docintel.png)Set up Now Assist Center to get started.](configuring-now-assist-center.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Use Now Assist Center to implement your Now Assist solutions from a single workspace.](using-now-assist-center.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Use Now Assist Center to implement your Now Assist solutions from a single workspace.](using-now-assist-center.md)
 
 </td></tr><tr><td>
 
-[Monitor![](../image/icon-monitor-now-assist-center.png) Monitor AI readiness, usage, and performance](now-assist-center-monitoring.md)
+[Monitor![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-monitor-now-assist-center.png) Monitor AI readiness, usage, and performance](now-assist-center-monitoring.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist Center properties and components, such as roles and limitations.](../reference/now-assist-center-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Now Assist Center properties and components, such as roles and limitations.](../reference/now-assist-center-reference.md)
 
 </td><td>
 
  
 
 </td></tr></tbody>
-</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+</table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 **Important:**
 
@@ -52,7 +52,7 @@ Set up, manage, and optimize your generative‑AI solutions on the ServiceNow AI
 
 ## Troubleshoot and get help
 
--   [Additional resources for AI products and solutions](../../general/reference/ai-additional-resources.md).
+-   [Additional resources for AI products and solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../general/reference/ai-additional-resources.md).
 -   [ServiceNow Community on AI and Intelligence](https://www.servicenow.com/community/ai-intelligence/ct-p/ai-intelligence).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 -   Search the [Known Error Portal](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477) for known error articles.
@@ -68,7 +68,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information extracted from documents. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information extracted from documents. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/platform-now-assist-landing.md).
 

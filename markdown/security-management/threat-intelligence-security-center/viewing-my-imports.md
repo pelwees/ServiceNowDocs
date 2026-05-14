@@ -29,19 +29,19 @@ Role required: sn\_sec\_tisc.analyst
 
 3.  Open any record to view the status of the import process.
 
-    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](../concept/importing-threat-intelligence.md) section and proceed further with the respective import type.
+    **Note:** You can also click **New Import** to create a new import record. After you click this button, the application will direct you to the **Import Intelligence** page. For more information on creating new records, see [Import Intelligence in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/importing-threat-intelligence.md) section and proceed further with the respective import type.
 
 4.  View the summary of the import records.
 
     **Note:** In case if any of the import jobs are not submitted, you can **Submit** the records for further processing and send it for approval. If approval is not required for that particular import job, those records will be automatically processed.
 
 
-**Parent Topic:**[Working with Data Imports](../concept/working-with-data-imports.md)
+**Parent Topic:**[Working with Data Imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/working-with-data-imports.md)
 
 **Related topics**  
 
 
-[Viewing all imports](viewing-all-imports.md)
+[Viewing all imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/viewing-all-imports.md)
 
-[Viewing my approvals](viewing-my-approvals.md)
+[Viewing my approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/viewing-my-approvals.md)
 

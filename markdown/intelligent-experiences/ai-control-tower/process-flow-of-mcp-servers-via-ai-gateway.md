@@ -21,9 +21,9 @@ The following steps are performed in the following order to complete the process
 Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 1.  Adding an MCP server \(The MCP server can be added in three different ways\)
-    -   [ServiceNow AI Agent studio](../task/add-an-mcp-server-via-ai-agent-studio.md)
-    -   [AI Control Tower](../task/add-an-mcp-server-via-ai-contol-tower.md)
-    -   [MCP Catalog](../task/add-an-mcp-server-from-mcp-catalog.md)
-2.  [MCP server approval workflow](../task/playbook-workflow-of-mcp-server-approval-request.md)
-3.  [Set up AI Gateway and Client Registration](../task/mcp-client-integration-of-copilot-studio-via-ai-gateway.md)
+    -   [ServiceNow AI Agent studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/add-an-mcp-server-via-ai-agent-studio.md)
+    -   [AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/add-an-mcp-server-via-ai-contol-tower.md)
+    -   [MCP Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/add-an-mcp-server-from-mcp-catalog.md)
+2.  [MCP server approval workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/playbook-workflow-of-mcp-server-approval-request.md)
+3.  [Set up AI Gateway and Client Registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/mcp-client-integration-of-copilot-studio-via-ai-gateway.md)
 

@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-If the view configuration is shared and you need to modify the result-card interface without impacting other shared instances, you must create a copy of it. You can verify if the view configuration is shared. For more information, see [Track how your EVAM view configurations are used](ais-admin-console-evam-viewusage.md).
+If the view configuration is shared and you need to modify the result-card interface without impacting other shared instances, you must create a copy of it. You can verify if the view configuration is shared. For more information, see [Track how your EVAM view configurations are used](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-admin-console-evam-viewusage.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ If the view configuration is shared and you need to modify the result-card inter
 
     The list of view configurations that are associated with the selected bundle are displayed.
 
-5.  Hover over the desired view configuration and select the **More Actions icon \(![More Actions.](../../localization-framework/image/more-actions-icon.png)\)** &gt; **Create a copy**.
+5.  Hover over the desired view configuration and select the **More Actions icon \(![More Actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../localization-framework/image/more-actions-icon.png)\)** &gt; **Create a copy**.
 
 6.  In the Copy view config dialog box, review the auto-populated values and then select **Copy**.
 
@@ -47,7 +47,7 @@ A copy of the view configuration is added to the list.
 
 ## What to do next
 
-After copying a view configuration, you can modify it based on your requirements, such as updating the EVAM definition for the result-card interface. For more information, see [Create or edit an EVAM view definition](ais-admin-console-evam-configurations.md).
+After copying a view configuration, you can modify it based on your requirements, such as updating the EVAM definition for the result-card interface. For more information, see [Create or edit an EVAM view definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-admin-console-evam-configurations.md).
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ais-admin-console-managing-evam.md)
 

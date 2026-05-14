@@ -56,13 +56,13 @@ This field is set to include the **Supplier** and **Segmentation rule assessment
 </td></tr></tbody>
 </table>    Assessment questions are added from the **Questions** tab of the new template.
 
-    For more information, see [Create assessment template from Assessment Workspace](create-assessment-template-from-assessment-workspace.md).
+    For more information, see [Create assessment template from Assessment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-assessment-template-from-assessment-workspace.md).
 
 2.  Optional: **Scoring** option is enabled to initiate the calculation of the assessment-level scores, which can be grouped by sections or questions. For more information, see [Configure scoring for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/configure-scoring-for-assessments.md).
 
     **Note:** The smart assessment scoring plugin \[com.sn\_smart\_scoring\] must be installed for configuring scoring options.
 
-3.  User criteria for reassignment are configured and enabled, restricting contacts to delegate the assessment to another contact from their organization. If no user criteria are configured, the reassign option is available to all users without restriction. For more information, see [Configure user criteria for reassigning assessments](configure-user-criteria-for-reassigning-assessments.md).
+3.  User criteria for reassignment are configured and enabled, restricting contacts to delegate the assessment to another contact from their organization. If no user criteria are configured, the reassign option is available to all users without restriction. For more information, see [Configure user criteria for reassigning assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-user-criteria-for-reassigning-assessments.md).
 4.  The assessment template is published after completing the preceding configurations.
 
 From the **Source-to-Pay Workspace**:
@@ -73,9 +73,9 @@ From the **Source-to-Pay Workspace**:
     -   All supplier managers
     -   Only primary supplier contact\(s\)
     -   All supplier contacts
-    For more information, see [Map assessment template with segmentation rule](add-assessment-template-in-segmentation-rule.md).
+    For more information, see [Map assessment template with segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-assessment-template-in-segmentation-rule.md).
 
-2.  Final assessments are triggered from the Segmentation rule assessment template mapping. For more information, see [Create assessments from assessment templates](create-assessments.md).
+2.  Final assessments are triggered from the Segmentation rule assessment template mapping. For more information, see [Create assessments from assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-assessments.md).
 
 ## Users respond to the assessments
 
@@ -87,39 +87,39 @@ From the **Supplier Collaboration Portal**:
 
 Supplier contacts see the assessments assigned to them under **My active items** and respond to them in the portal.
 
--   **[Create assessment template from Assessment Workspace](create-assessment-template-from-assessment-workspace.md)**  
+-   **[Create assessment template from Assessment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-assessment-template-from-assessment-workspace.md)**  
 You can create smart assessment templates and add instructions, questions, and reference information by using the template designer in the Smart Assessment Engine application.
--   **[Configure user criteria for reassigning assessments](configure-user-criteria-for-reassigning-assessments.md)**  
+-   **[Configure user criteria for reassigning assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-user-criteria-for-reassigning-assessments.md)**  
 You can configure the user criteria for reassigning assessments to restrict reassignment within the organization.
--   **[Map assessment template with segmentation rule](add-assessment-template-in-segmentation-rule.md)**  
+-   **[Map assessment template with segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-assessment-template-in-segmentation-rule.md)**  
 You can map assessment templates with segmentation rules in the Source-to-Pay workspace. A rule defines which suppliers receive assessments based on the configured criteria.
--   **[Create assessments from assessment templates](create-assessments.md)**  
+-   **[Create assessments from assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-assessments.md)**  
 After mapping the assessment templates with segmentation rules, supplier managers manually trigger batch creation of assessments.
 
-**Parent Topic:**[Configure Supplier Lifecycle Operations](config-supp-mgmt.md)
+**Parent Topic:**[Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Install Supplier Case Management](../task/install-supp-mgmt.md)
+[Install Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-mgmt.md)
 
-[Install Supplier Collaboration Portal](../task/install-supp-central.md)
+[Install Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-central.md)
 
-[Install Supplier Operations](../task/install-supplier-ops.md)
+[Install Supplier Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supplier-ops.md)
 
-[Install Supplier Payment Optimization](../task/install-supp-payment-opt.md)
+[Install Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-payment-opt.md)
 
-[Supplier Document Management](supp-doc-mgmt-overview.md)
+[Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md)
 
-[Configure the document template for the Sign document action type for supplier task](../task/configure-pdf-template-sign-doc-task.md)
+[Configure the document template for the Sign document action type for supplier task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/configure-pdf-template-sign-doc-task.md)
 
-[Advanced Work Assignment for Supplier Lifecycle Operations](supplier-awa.md)
+[Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-awa.md)
 
-[Enable M2M mapping between supplier contact and suppliers](../task/enable-m2m-supplier-contacts.md)
+[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/enable-m2m-supplier-contacts.md)
 
-[Configure Supplier Relationship and Performance Management](configuring-supplier-performance-mgmt.md)
+[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md)
 
-[Install Universal Request for SLO](../task/install-universal-request.md)
+[Install Universal Request for SLO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-universal-request.md)
 
 [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md)
 

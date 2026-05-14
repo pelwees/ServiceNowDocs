@@ -213,5 +213,5 @@ JSON-based filters for defining more complex conditions.
     These fields along with any others defined by your criteria will be available in Splunk and can be viewed, searched, and analyzed through the search tab.
 
 
-**Parent Topic:**[TISC add-on for Splunk overview](../concept/tisc-addon-splunk.md)
+**Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-addon-splunk.md)
 

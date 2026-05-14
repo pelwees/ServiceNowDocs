@@ -99,5 +99,5 @@ Install Public Sector Digital Services by requesting it from the ServiceNow Stor
     The ServiceNow®Now Assist application uses generative AI that is designed to enhance user productivity and efficiency through conversation and proactive experiences.
 
 
-**Parent Topic:**[Features and changes by product](../new-features-changes.md)
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../new-features-changes.md)
 

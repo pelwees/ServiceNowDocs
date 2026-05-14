@@ -19,11 +19,11 @@ For example, you can tag all SOX control objectives that are scoped for the NIST
 
 After records have been tagged, you can access all of the content references used within a specific GRC application by viewing the Content References module under each. In Policy and Compliance, for example, you can view all tagged records for the GDPR DPIA use case accelerator in a series of related lists.
 
-![Content reference list](../image/content-reference-list.png "Content reference list")
+![Content reference list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-list.png "Content reference list")
 
 After selecting GDPR DPIA, a series of related lists show all records tagged with content references to the GDPR DPIA Use Case Accelerator.
 
-![Content references for GDPR DPIA](../image/content-reference-gdpr.png "Content references for GDPR DPIA")
+![Content references for GDPR DPIA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-gdpr.png "Content references for GDPR DPIA")
 
 ## Records you can tag with content references
 
@@ -51,7 +51,7 @@ In the GRC Audit Management, Policy and Compliance Management, and Risk Manageme
 -   Test Plans
 -   Test Templates
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
 ## Add content reference tags to records
 
@@ -69,15 +69,15 @@ Role required: admin
 
     **Note:** For the sake of example, a Policy Exception record is used to illustrate how to add a content reference to a GRC record.
 
-    ![Content reference related list in a policy exception record](../image/content-reference-policy-excp.png)
+    ![Content reference related list in a policy exception record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-policy-excp.png)
 
 2.  Scroll down and select the **Content References** related list.
 
-    ![Content References related list with New and Edit buttons](../image/content-reference-policy-excp-new.png)
+    ![Content References related list with New and Edit buttons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-policy-excp-new.png)
 
 3.  Select **Edit**.
 
-    ![Sluchbucket for adding content reference tags](../image/content-reference-slushbucket.png)
+    ![Sluchbucket for adding content reference tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-slushbucket.png)
 
 4.  Select **Save**.
 
@@ -87,7 +87,7 @@ Role required: admin
 
     To view all records tagged for a specific use case accelerator within a specific GRC application, For example, to see all records tagged with content references in Risk Management for the SOX content pack, navigate to **Risk** &gt; **Administration** &gt; **Content References**, and select **SOX**.
 
-    ![Records tagged as content references to SOX](../image/content-reference-sox.png)
+    ![Records tagged as content references to SOX](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-sox.png)
 
 6.  Select any of the related lists that show a number to see the records tagged as content references for SOX.
 
@@ -106,11 +106,11 @@ Role required: admin
 
     For example, you can navigate to **All** &gt; **Audit** &gt; **Administration** &gt; **Content References**
 
-    ![Content references included in base system](../image/content-reference-oob-tags.png)
+    ![Content references included in base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-oob-tags.png)
 
 2.  Select **New**.
 
-    ![Content Reference new record](../image/content-reference-new-record.png)
+    ![Content Reference new record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/content-reference-new-record.png)
 
 3.  Provide a **Name**, **Version** number, and **Description** for the new tag.
 

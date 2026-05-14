@@ -135,14 +135,14 @@ List of people from the selected third party who would sign the agreement.
 
     -   To add a signatory, select **Add** and provide the signatory's details.
 
-    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
+    -   To modify a signatory's information, select the Edit row icon \(![Edit row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-digital-forensics/image/rename-icon.png)\) on the signatory's row and update the details.
 
-    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
+    -   To remove a signatory, select the Remove row icon \(![Remove row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-digital-forensics/image/delete-icon.png)\) on the signatory's row.
 
 4.  Select **Submit**.
 
     -   A legal request for generating a contract document for non-disclosure agreement is created in the New state.
-    -   A contract document in the Document Ready status is generated with data from the request using a contract template based on the contract template rules. Internal signatories based on the template are also populated in the generated document. For more information, see [Configure a rule for selecting a legal contract template](configure-legal-contract-template-rules.md).
+    -   A contract document in the Document Ready status is generated with data from the request using a contract template based on the contract template rules. Internal signatories based on the template are also populated in the generated document. For more information, see [Configure a rule for selecting a legal contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/configure-legal-contract-template-rules.md).
 
         **Note:**
 
@@ -151,20 +151,20 @@ List of people from the selected third party who would sign the agreement.
         In either case, you can submit a change request to update the number of signatories as required for your contract.
 
     -   A record for each external signatory is created in the Signer \[sn\_lg\_contracts\_signer\] table.
-    For more information on how to view and track a legal request, see [View and track legal request details](../../legal-request-management/task/view-legal-request-details.md).
+    For more information on how to view and track a legal request, see [View and track legal request details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../legal-request-management/task/view-legal-request-details.md).
 
 5.  If you need changes in the generated document, submit a change request to the legal department.
 
-    For more information, see [Review and finalize the contract document](finalize-contract-document-nda.md).
+    For more information, see [Review and finalize the contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/finalize-contract-document-nda.md).
 
 6.  Modify the request details or manage signatories by selecting **Actions** and then selecting **Edit Request**.
 
-    This option is available only if the request state is New and the document status is Document Ready. For more information, see [Modify a legal request](update-legal-contract-request-tpc.md).
+    This option is available only if the request state is New and the document status is Document Ready. For more information, see [Modify a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/update-legal-contract-request-tpc.md).
 
 7.  When the contract document is finalized, send it to the signatories for getting it signed.
 
-    For more information, see [Review and finalize the contract document](finalize-contract-document-nda.md).
+    For more information, see [Review and finalize the contract document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/finalize-contract-document-nda.md).
 
 
-**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](../concept/legal-request-nda.md)
+**Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../concept/legal-request-nda.md)
 

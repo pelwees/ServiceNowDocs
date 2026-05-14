@@ -17,7 +17,7 @@ Many ServiceNow applications support domain separation in the base system but no
 
 ServiceNow applications that support domain separation may support the separation of data and data routing only, have advanced business logic separation, or support tenant \(customer\) level administration of the application. ServiceNow applications are defined with the following incremental support levels.
 
-![Domain separation support levels](../image/ds-support-levels.png)
+![Domain separation support levels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/ds-support-levels.png)
 
 **No support**
 
@@ -54,12 +54,12 @@ Sometimes, a platform feature or application may effectively support SP use case
 
 |Supported feature|Basic|Standard|Enhanced|
 |-----------------|-----|--------|--------|
-|Domain column is present for base system application tables.|![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|
-|Domain-specific configuration is managed by instance owner.|![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|
-|Tenant domains can manage their own application data.| |![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|
-|Application properties are domain aware when needed.| |![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|
-|Business logic and processes can be domain-separated by instance owner.| |![supported](../image/icon-active-plugin.png)|![supported](../image/icon-active-plugin.png)|
-|Business logic and processes can be administered by the tenant domain.| | |![supported](../image/icon-active-plugin.png)|
+|Domain column is present for base system application tables.|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
+|Domain-specific configuration is managed by instance owner.|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
+|Tenant domains can manage their own application data.| |![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
+|Application properties are domain aware when needed.| |![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
+|Business logic and processes can be domain-separated by instance owner.| |![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
+|Business logic and processes can be administered by the tenant domain.| | |![supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-active-plugin.png)|
 
 ## Support levels by application
 
@@ -125,7 +125,7 @@ Sometimes, a platform feature or application may effectively support SP use case
 |Individual Life Claims|Basic|
 |Financial Services Know Your Customer|Basic|
 |Financial Services Credit Operation|Basic|
-|[Financial Services Document Processor](domain-separated-apps.md)|Basic|
+|[Financial Services Document Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md)|Basic|
 |Now Assist for Financial Services Operations|Basic|
 |Dispute Rules Content Pack for Visa|Basic|
 |Dispute Rules Content Pack for Mastercard|Basic|
@@ -225,24 +225,24 @@ Sometimes, a platform feature or application may effectively support SP use case
 |[Assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-assessments.md)|Standard|
 |[Automated Test Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/domain-separation-auto-test-framework.md)|Standard\*|
 |[ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/domain-separation-voice.md)|Basic|
-|[Code Signing](../../encryption/concept/code-signing-landing.md)|No support|
+|[Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/code-signing-landing.md)|No support|
 |[Contextual Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/domain-separation-contextual-search.md)|Standard|
 |[Configuration Management \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)|Standard|
 |[Content Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/domain-separation-content-management.md)|No support|
-|[Credentials and Connections](../../../product/credentials/concept/domain-separation-credentials_conn.md)|Standard|
+|[Credentials and Connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../product/credentials/concept/domain-separation-credentials_conn.md)|Standard|
 |Data Certification|Basic\*|
-|[Data Classification](../../security/concept/domain-separation-data-classification.md)|Enhanced|
+|[Data Classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/domain-separation-data-classification.md)|Enhanced|
 |Data Privacy|No support|
 |[Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-data-management.md)|Basic\*|
 |[Delegated Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/domain-separation-delegated-development.md)|No support|
 |[Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/domain-separation-dependency-views.md)|Basic|
 |[Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/domain-separation-document-services.md)|No support|
 |[Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/domain-sep-dynamic-translation.md)|Basic|
-|[Edge Encryption](../../edge-encryption/concept/edge-encryption-domain-separation.md)|Basic support|
+|[Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../edge-encryption/concept/edge-encryption-domain-separation.md)|Basic support|
 |External Content Connectors|No support\*|
-|[Field Encryption](../../encryption/concept/field-encryption.md)|No support|
-|[Encryption](../../security/concept/encryption-landing.md)|No support|
-|[Cloud Encryption with Key Management](../../encryption-dare/concept/dare-overview.md)|Basic support|
+|[Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/concept/field-encryption.md)|No support|
+|[Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/encryption-landing.md)|No support|
+|[Cloud Encryption with Key Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption-dare/concept/dare-overview.md)|Basic support|
 |[Field Normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-field-normalization.md)|No support|
 |[Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-domain-separation.md)|Standard\*|
 |[Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/domain-separation-guided-setup.md)|No support|
@@ -257,7 +257,7 @@ Sometimes, a platform feature or application may effectively support SP use case
 |[ODBC Driver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/domain-separation-odbc-driver.md)|Basic\*|
 |[Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/domain-separation-orchestration.md)|Standard\*|
 |[Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/domain-separation-pwd-reset.md)|Standard|
-|[Platform Security](domain-sep-landing-page.md)|Domain separation landing page|
+|[Platform Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)|Domain separation landing page|
 |Data Privacy|No support|
 |[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/domain-separation-predictive-intelligence.md)|Standard|
 |Proactive Triggers|Basic|
@@ -347,5 +347,5 @@ Sometimes, a platform feature or application may effectively support SP use case
 |Domain separation and Conversational Analytics|Basic|
 |[Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-overview.md)|Advanced Approval for Sales Management|Enhanced|
 
-**Parent Topic:**[Domain separation for service providers](domain-sep-landing-page.md)
+**Parent Topic:**[Domain separation for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

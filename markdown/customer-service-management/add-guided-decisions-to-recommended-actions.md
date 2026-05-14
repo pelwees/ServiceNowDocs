@@ -23,15 +23,15 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
-2.  [Create a context for a table.](ra-csm-contexts-create.md)
+2.  [Create a context for a table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md)
 
     A context enables agents to see recommended actions for a record in that table.
 
-3.  [Create a rule for the context.](ra-csm-rules-create.md)
+3.  [Create a rule for the context.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md)
 
     A rule is a set of conditions that applies to a context and determines when a recommended action appears for records in the context table.
 
-4.  [Create a recommendation of type decision tree.](ra-csm-recommendations-create.md)
+4.  [Create a recommendation of type decision tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md)
 
     A recommendation is a way to suggest an action to an agent.
 
@@ -39,7 +39,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 **Related topics**  
 
 
-[Configuring Guided Decisions](../concept/setting-up-guided-decisions.md)
+[Configuring Guided Decisions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/setting-up-guided-decisions.md)
 
-[Configuring guidances and decision trees](../concept/configuring-guided-decisions.md)
+[Configuring guidances and decision trees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/configuring-guided-decisions.md)
 

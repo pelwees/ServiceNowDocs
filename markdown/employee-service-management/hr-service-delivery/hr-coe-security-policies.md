@@ -25,7 +25,7 @@ You can still reclassify \(transfer\) HR cases from one HR service to another. D
 
 COE ACL Configuration uses the COE Security Policy \[sn\_hr\_core\_coe\_security\_policy\] table to determine access to the extended HR case tables \(COEs\).
 
-The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](hr-case-employee-relations.md).
+The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
 
 The tables you can provide security for are:
 
@@ -59,5 +59,5 @@ To define security for a COE:
     **Note:** Condition builder is a powerful tool that filters specific actions on the COE. Use caution when using conditions on your security policy. It may also affect system performance.
 
 
-**Parent Topic:**[HR service categorization](hr-service-categorization.md)
+**Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 

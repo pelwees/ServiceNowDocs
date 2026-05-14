@@ -32,7 +32,7 @@ The document is made available for the subject person to sign. Only after the si
     An administrator selects the template on the HR service. An HR case is created with that HR service. The HR agent previews the document using the **Preview Document** option, generates the document, and sends an email to the employee using the **Send email** option on the case.
 
 
-![Case options for HR service form.](../image/HRService.png)
+![Case options for HR service form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/HRService.png)
 
 ## Multiple signatures are collected
 
@@ -46,7 +46,7 @@ Some documents require an HR agent to review, sign, or save it prior to sending 
 
 -   Open a case requiring a document to be sent to the subject person.
 -   Ensure that the state is **Work in Progress**.
--   The Form Header shows:![Form header for HR workforce administration case form.](../image/HRCaseButtons.png)
+-   The Form Header shows:![Form header for HR workforce administration case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/HRCaseButtons.png)
 -   Click **Preview Document** to view the document.
 -   Click **Sign Document** for documents that require an HR signature.
 
@@ -61,8 +61,8 @@ When there are errors in the document:
 -   Check the HR case to ensure correct case information.
 -   Check the document template for errors within the body of the document, incorrect field mapping, or variable information.
 
--   **[Edit a generated document](../task/agent-edit-document.md)**  
+-   **[Edit a generated document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/agent-edit-document.md)**  
 Support rendering values of variables, scripts, and blocks in edit mode in Preview Document. View the content of variables, scripts, or blocks rather than only viewing the variable or block names.
 
-**Parent Topic:**[Work an HR case](../task/t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_CreateAnHRCase.md)
 

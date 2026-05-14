@@ -35,7 +35,7 @@ Each submitted request generates a case, with the request record associated to t
 **Related topics**  
 
 
-[Create a request on behalf of a customer or consumer](agent-create-request-for-customer.md)
+[Create a request on behalf of a customer or consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/agent-create-request-for-customer.md)
 
-[Request an item or service from the Customer Service Portal](customer-request-from-portal.md)
+[Request an item or service from the Customer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-request-from-portal.md)
 

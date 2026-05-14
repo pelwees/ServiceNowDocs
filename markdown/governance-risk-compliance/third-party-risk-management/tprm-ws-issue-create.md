@@ -100,7 +100,7 @@ State
 
 </td><td>
 
-The state of an issue is updated as you perform actions that are associated with the issue. The workflow chain along the top of the **Risk overview** tab identifies the current state of the issue. See [Manage issues](tprm-ws-issue-manage.md).
+The state of an issue is updated as you perform actions that are associated with the issue. The workflow chain along the top of the **Risk overview** tab identifies the current state of the issue. See [Manage issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-manage.md).
 
 </td></tr><tr><td>
 
@@ -179,14 +179,14 @@ The field might be filled in by a template.
 
 ## Result
 
-The highest priority issues are listed in the Issues by priority section of the Home page. The **Assigned to** user can manage the issue on the tabs of the Issue management page. See [Manage issues](tprm-ws-issue-manage.md).
+The highest priority issues are listed in the Issues by priority section of the Home page. The **Assigned to** user can manage the issue on the tabs of the Issue management page. See [Manage issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-manage.md).
 
 **Related topics**  
 
 
-[TPRM Home page](../../grc-workspace-vrm/concept/tprm-ws-home-page.md)
+[TPRM Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-workspace-vrm/concept/tprm-ws-home-page.md)
 
-[Create an issue generation rule](tprm-generate-issue-rule.md)
+[Create an issue generation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-generate-issue-rule.md)
 
-[Manage issues](tprm-ws-issue-manage.md)
+[Manage issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-manage.md)
 

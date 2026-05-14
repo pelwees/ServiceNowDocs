@@ -17,7 +17,7 @@ Verify that the new record menus in Service Operations Workspace \(SOW\) are con
 
 ## Before you begin
 
-When performing the migration, you must have selected the **New Records** option for ITSM Agent Workspace features. For example, the **New Records** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **New Records** option for ITSM Agent Workspace features. For example, the **New Records** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -58,5 +58,5 @@ At the end of the migration process, a confirmation message specifies if the mig
     5.  Select **Update**.
 
 
-**Parent Topic:**[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/new-record-menu-items-migration-itsm-aw-sow.md)
+**Parent Topic:**[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/new-record-menu-items-migration-itsm-aw-sow.md)
 

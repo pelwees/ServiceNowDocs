@@ -43,12 +43,12 @@ top.window.open(result.url);​
 });​
 ```
 
-**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
+**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/embedded-task-auto-rpa.md)
 
 **Related topics**  
 
 
-[Embedded Task Automation \(ETA\) in RPA Hub](embedded-task-auto-rpa.md)
+[Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/embedded-task-auto-rpa.md)
 
-[Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md)
+[Conditions for the visibility of UI action \(button\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/visibility-cond-button-rpa.md)
 

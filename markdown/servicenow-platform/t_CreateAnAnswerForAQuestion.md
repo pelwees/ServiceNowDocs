@@ -30,24 +30,24 @@ When you create a question with one of these data types, the Assessment Metric D
 3.  Set the order in which the answers appear in the quiz by providing a hierarchical number in the **Value** field.
 
 
-**Parent Topic:**[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
-[Create quizzes with forms](../concept/c_CreateQuizzesWithForms.md)
+[Create quizzes with forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_CreateQuizzesWithForms.md)
 
-[Create a quiz](t_CreateaQuiz.md)
+[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[Set up a category](t_SetUpACategory.md)
+[Set up a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpACategory.md)
 
-[Select a user for a category](t_SelectAUserForACategory.md)
+[Select a user for a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectAUserForACategory.md)
 
-[Data types for quizzes](../reference/r_AvailableDataTypes.md)
+[Data types for quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_AvailableDataTypes.md)
 
-[Change the order of an answer](t_ChangeTheOrderOfAnAnswer.md)
+[Change the order of an answer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 
-[Distribute a quiz](t_DistributeAQuiz.md)
+[Distribute a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_DistributeAQuiz.md)
 
-[Modify a published quiz](t_ModifyAPublishedQuiz.md)
+[Modify a published quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 

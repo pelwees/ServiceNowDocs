@@ -13,7 +13,7 @@ breadcrumb: [Request Management Platform Analytics Solutions, Request Management
 
 To view the current state of open requests, see the Open Request Reports.
 
-![Animated tour of Open Request Reports](../image/open-request-reports.gif)
+![Animated tour of Open Request Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/open-request-reports.gif)
 
 ## Data visualizations
 
@@ -35,7 +35,7 @@ Open requests - List
 
 </td><td>
 
-List ![list report icon](../../../reuse/reporting/image/score-list-tile.svg)
+List ![list report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../../reuse/reporting/image/score-list-tile.svg)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Open requests - Pivot table
 
 </td><td>
 
-Pivot ![pivot table report icon](../../../reuse/reporting/image/pivot.svg)
+Pivot ![pivot table report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../../reuse/reporting/image/pivot.svg)
 
 </td><td>
 
@@ -59,12 +59,12 @@ Open requests - Heatmap
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
 Heatmap letting you explore the number of open requests by any combination of state, assignment group, and priority, for any age bucket or for all ages.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+</table>**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

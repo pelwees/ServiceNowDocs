@@ -40,5 +40,5 @@ IDR is a ServiceNow AI Platform feature that is available with activation of the
     Hermes Messaging Service is a multi-tenant, multi-cluster data transport and queuing service built on Apache Kafka that enables your instance to produce and consume large volumes of Kafka events reliably.
 
 
-**Parent Topic:**[ServiceNow AI Platform capabilities release notes](now-platform-capabilities-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-capabilities-rn-landing.md)
 

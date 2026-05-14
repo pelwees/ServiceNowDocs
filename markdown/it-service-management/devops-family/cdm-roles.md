@@ -19,7 +19,7 @@ List of roles and permissions in CDM.
 
 ## CDM roles
 
-![CDM role hierarchy](../image/cdm-role-hierarchy.png)
+![CDM role hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-role-hierarchy.png)
 
 <table id="table_cqv_djm_nnb"><thead><tr><th>
 
@@ -184,5 +184,5 @@ CDM All App Access \[sn\_cdm.cdm\_all\_app\_access\]
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DevOps Config roles](../../devops-config/reference/devops-config-roles.md)
+</table>**Parent Topic:**[DevOps Config roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../devops-config/reference/devops-config-roles.md)
 

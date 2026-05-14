@@ -32,5 +32,5 @@ The following table displays the fields in the invoice tax lines tab.
 |Invoice line|Invoice line for which the tax is applicable.|
 |Invoice|Invoice for which this tax is applicable.|
 
-**Parent Topic:**[Tax lines](create-tax-lines-apo.md)
+**Parent Topic:**[Tax lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 

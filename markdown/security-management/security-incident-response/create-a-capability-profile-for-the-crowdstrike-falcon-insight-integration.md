@@ -150,12 +150,12 @@ Capabilities of the CrowdStrike Falcon Insight profile.Select the capabilities t
 </td></tr></tbody>
 </table>    The following example shows a complete form for a profile with the Get Host Details capability.
 
-    ![Falcon Insight Profile Details.](../image/falcon-insight-profile-details.png)
+    ![Falcon Insight Profile Details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-profile-details.png)
 
 4.  Select **Next**.
 
 
 ## What to do next
 
-Now you can [configure your profile](configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md). Verify that you have [reviewed the concepts for configuring profiles and trigger conditions](../concept/define-trigger-conditions.md) before you configure the profile.
+Now you can [configure your profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-profiles-and-security-incidents-for-the-crowdstrike-falcon-insight-integration.md). Verify that you have [reviewed the concepts for configuring profiles and trigger conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/define-trigger-conditions.md) before you configure the profile.
 

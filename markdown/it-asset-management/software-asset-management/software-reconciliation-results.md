@@ -15,7 +15,7 @@ breadcrumb: [Software reconciliation for compliance, Exploring Software Asset Ma
 
 Software reconciliation results show the compliance status of software products concerning discovery and entitlements. Users with the sam\_user role can view the reconciliation results.
 
-When software reconciliation runs, it calculates compliance based on how many rights are in use compared to the number of active rights that have been purchased. Reconciliation runs weekly or on demand for a specific publisher or all publishers. This process generates a list of reconciliation results that display the compliance status of the software in relation to discovery and entitlements. For more details on running software reconciliation, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
+When software reconciliation runs, it calculates compliance based on how many rights are in use compared to the number of active rights that have been purchased. Reconciliation runs weekly or on demand for a specific publisher or all publishers. This process generates a list of reconciliation results that display the compliance status of the software in relation to discovery and entitlements. For more details on running software reconciliation, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/t_RunReconciliation.md).
 
 There are three tiers of reconciliation results:
 
@@ -57,7 +57,7 @@ Software Asset Workspace
 
 -   **Product Results**
 
-    ![Product Results and related lists for SQL Server](../image/product-results.png)
+    ![Product Results and related lists for SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/product-results.png)
 
     These results are for all models and installations associated with a software product and are specific to a publisher. Product results for licensable products are generated after reconciliation even if the products don’t have defined software models for them. These results determine the license compliance status of the product. Additionally, product results provide details on true-up cost, overlicensed amount, and potential savings. The following related lists appear when you select a Product Results record:
 
@@ -68,7 +68,7 @@ Software Asset Workspace
     -   Removal Candidates
 -   **Software Model Results**
 
-    ![Software Model Results and related lists for SQL Server](../image/software-model-results-workspace.png)
+    ![Software Model Results and related lists for SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/software-model-results-workspace.png)
 
     These results are for each individual software model related to the product. The Software Model Results appear as a related list on the product results records after reconciliation is run. A software model results record is created only when a software model or entitlement exists for the software product. The following related lists appear when you select the software model details:
 
@@ -81,11 +81,11 @@ Software Asset Workspace
     -   Unlicensed Options \(Oracle only\)
     -   Removal Candidates
     -   Purchase Orders \(only when the Procurement \(com.snc.procurement\) plugin is active\)
-    For more details on software model results related lists and descriptions, see [View software model results](../task/t_ViewSWModelResults.md).
+    For more details on software model results related lists and descriptions, see [View software model results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/t_ViewSWModelResults.md).
 
 -   **License Metric Results**
 
-    ![License Metric Results and related lists for SQL Server](../image/license-metric-results.png)
+    ![License Metric Results and related lists for SQL Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/license-metric-results.png)
 
     These results are for each license metric associated with the software model. The License Metric Results appear as a related list on the software model results. License metric result details include rights owned and rights used, and the license allocation breakdown so that you can determine your options to stay compliant. There can be multiple license metric results for a software model because multiple licenses can be purchased for the same software.
 
@@ -97,8 +97,8 @@ Software Asset Workspace
     -   Downgrades/Upgrades
     -   Licensed Subscriptions
     -   Cloud Special Rights \(This tab is visible only if you have cloud installations on cloud platforms such as AWS or Azure.\)
-    For more details on license metric results related lists and descriptions, see [Software model results license metric results fields](../reference/license-metric-results-fields.md).
+    For more details on license metric results related lists and descriptions, see [Software model results license metric results fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/license-metric-results-fields.md).
 
 
-**Parent Topic:**[Software reconciliation for compliance](c_SAMReconciliation.md)
+**Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 

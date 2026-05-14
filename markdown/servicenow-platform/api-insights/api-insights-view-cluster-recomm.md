@@ -17,7 +17,7 @@ Use machine learning-based suggestions to group related API components, improvin
 
 The Proposed API clustering tab of the Data recommendations page in the API Insights workspace provides machine learning-generated recommendations for API clustering.
 
-![AProposed API clustering tab to view machine learning-generated recommendations for API clustering](../image/api-insights-cluster.png "Proposed API clustering tab")
+![AProposed API clustering tab to view machine learning-generated recommendations for API clustering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-cluster.png "Proposed API clustering tab")
 
 ## Accessing the Proposed API clustering tab
 

@@ -15,7 +15,7 @@ breadcrumb: [Configurable Portal widgets, Set up self-service, Configure, Custom
 
 The Portal Knowledge Quick Links widget displays a list of relevant knowledge articles for quick access on the portal. The card displays article details such as the title, preview, author, view count, rating, and updated date in the widget.​
 
-![Portal Knowledge Quick Links displaying knowledge articles.](../image/portal-know-article-quick-links-widget.png "Portal Knowledge Quick Links widget")
+![Portal Knowledge Quick Links displaying knowledge articles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/portal-know-article-quick-links-widget.png "Portal Knowledge Quick Links widget")
 
-For more information, see [Add and configure the Portal Knowledge Quick Links widget](../task/config-portal-know-quick-links-widget-inst-optns.md).
+For more information, see [Add and configure the Portal Knowledge Quick Links widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-portal-know-quick-links-widget-inst-optns.md).
 

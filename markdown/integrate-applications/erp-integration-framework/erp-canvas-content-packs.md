@@ -30,9 +30,9 @@ Content pack models and process extensions are examples. Use them as accelerator
 
 Process extensions are subflows that can use one or more models. Process extensions enable you to use a model without needing to understand the model details. The process extensions are another abstraction layer on top of the models inside the content pack to make the models easier to use.
 
-Process extensions in a content pack are read-only examples. To use a process extension, make a copy and edit it within Workflow Studio. For the steps to copy a process extension and add cloned models, see [Using Zero Copy Connector for ERP process extensions](../task/erp-canvas-using-process-extensions.md).
+Process extensions in a content pack are read-only examples. To use a process extension, make a copy and edit it within Workflow Studio. For the steps to copy a process extension and add cloned models, see [Using Zero Copy Connector for ERP process extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-using-process-extensions.md).
 
-![Workflow Studio subflows list showing content pack process extensions.](../image/erpc-process-extensions-list-ws.png)
+![Workflow Studio subflows list showing content pack process extensions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-process-extensions-list-ws.png)
 
 As an example for how to use process extensions, let's say there's a model for reading a sales order. You want to determine the sales orders that are blocked, but you don't know the SAP field that indicates if a order is blocked or not. Instead of researching to get the field name or asking the SAP experts in your organization, use the process extension named **ERP DP: Read Blocked Sales Orders** to do the work. A process extension can filter or add data when reading, using the model to find exactly what you are looking for based on the process extension description. So, in this example, instead of reading all sales orders, the process extension finds only the blocked sales orders.
 
@@ -48,14 +48,14 @@ You must have:
 
 For detailed information about buying and installing Zero Copy Connector for ERP content packs, see the [ServiceNow Store Help](https://store.servicenow.com/$appstore.do#!/store/helpcenter) page.
 
--   **[Explore a Zero Copy Connector for ERP content pack](../task/erp-canvas-explore-a-content-pack.md)**  
+-   **[Explore a Zero Copy Connector for ERP content pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-explore-a-content-pack.md)**  
 Explore a Zero Copy Connector for ERP \(Enterprise Resource Planning\) content pack to see what it contains, including models and process extensions. Content pack models and process extensions are examples.
--   **[Using Zero Copy Connector for ERP content packs](../task/erp-canvas-using-content-packs.md)**  
+-   **[Using Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-using-content-packs.md)**  
 Learn how to use Zero Copy Connector for ERP \(Enterprise Resource Planning\) content packs, from cloning a model to working within a scope. Content pack models and process extensions are examples.
--   **[Using Zero Copy Connector for ERP process extensions](../task/erp-canvas-using-process-extensions.md)**  
+-   **[Using Zero Copy Connector for ERP process extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../task/erp-canvas-using-process-extensions.md)**  
 Learn how to use the process extensions \(subflows\) in Zero Copy Connector for ERP \(Enterprise Resource Planning\) content packs. Content pack models and process extensions are examples.
--   **[Available Zero Copy Connector for ERP content packs](erp-canvas-available-content-packs.md)**  
+-   **[Available Zero Copy Connector for ERP content packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-available-content-packs.md)**  
 These content packs are available for use in Zero Copy Connector for ERP \(Enterprise Resource Planning\) to implement and deploy applications with less manual work.
 
-**Parent Topic:**[Building and managing models to work with ERP data](work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/work-with-erp-data-models.md)
 

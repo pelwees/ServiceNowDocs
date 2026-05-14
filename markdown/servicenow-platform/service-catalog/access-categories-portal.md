@@ -51,23 +51,23 @@ Role required: requester
 
     -   You can click the category count or anywhere in the row to view the category details.
     -   For a category with a long name, additional text is displayed as ellipses. Point to the category name to view the additional text.
-5.  To change the display of category items, click the card view icon \(![Card view icon.](../image/CardView.png)\) or the grid view icon \(![Grid view icon.](../image/GridView.png)\).
+5.  To change the display of category items, click the card view icon \(![Card view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/CardView.png)\) or the grid view icon \(![Grid view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/GridView.png)\).
 
     **Note:** When you access a catalog item from the Catalog landing page or type ahead search results, the breadcrumb of the item displays the path based on the primary category configured on that item. When you access the item from a specific category, the breadcrumb of the item displays the path based on that category.
 
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/catalog-on-portal.md)
 
 **Related topics**  
 
 
-[Add an item to the wish list in Service Portal](add-to-wishlist-portal.md)
+[Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)
 
-[Add a catalog item to the shopping cart](add-to-cart-portal.md)
+[Add a catalog item to the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
 
-[Request a catalog item from Service Portal](request-cat-item-portal.md)
+[Request a catalog item from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md)
 
-[Request an order guide from Service Portal](request-order-guide-portal.md)
+[Request an order guide from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-portal.md)
 
 [SC Categories widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-categories-widget.md)
 

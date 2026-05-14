@@ -77,5 +77,5 @@ Install Core Business Suite by requesting it from the ServiceNow Store. Visit th
     Unifies IT, HR, finance, procurement, legal, and workplace services on one AI platform, delivering a simplified and unified implementation, service delivery, and employee experience for growing organizations.
 
 
-**Parent Topic:**[Features and changes by product](../new-features-changes.md)
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../new-features-changes.md)
 

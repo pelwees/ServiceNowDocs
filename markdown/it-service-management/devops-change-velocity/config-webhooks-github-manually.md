@@ -29,13 +29,13 @@ You can also access manual configuration from the GitHub tool record in DevOps C
 
 2.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
-    ![GitHub configure manually](../image/github-plybk-02.png)
+    ![GitHub configure manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-plybk-02.png)
 
 3.  In DevOps Change Velocity, copy the **Webhook URL** field from the ServiceNow instance connection details for GitHub.
 
     **Note:** Select **Copy** in the appropriate field to copy the value to your clipboard. The field label changes to **Copied**, but you can copy multiple times.
 
-    ![GitHub manually configure webhooks](../image/github-manual-webhooks-2.png)
+    ![GitHub manually configure webhooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-manual-webhooks-2.png)
 
 4.  Modify the copied Webhook URL to reflect your tool details, and paste the URL in GitHub.
 
@@ -58,8 +58,8 @@ You can also access manual configuration from the GitHub tool record in DevOps C
     |Webhook URL \(modified\)|Payload URL|
     |Secret token|Secret|
 
-    ![GitHub configure webhooks manually](../image/github-manual-webhooks.png)
+    ![GitHub configure webhooks manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-manual-webhooks.png)
 
 
-**Parent Topic:**[GitHub integration with DevOps Change Velocity](../concept/github-integration-dev-ops.md)
+**Parent Topic:**[GitHub integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/github-integration-dev-ops.md)
 

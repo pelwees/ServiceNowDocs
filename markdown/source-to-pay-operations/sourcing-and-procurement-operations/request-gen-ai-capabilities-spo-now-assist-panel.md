@@ -36,7 +36,7 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 2.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-3.  Request the generative AI capabilities in SPO for procurement-related records for the following skills by selecting the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png):
+3.  Request the generative AI capabilities in SPO for procurement-related records for the following skills by selecting the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png):
 
     -   Sourcing request summarization for fulfillers
     -   Purchase requisition summarization for fulfillers
@@ -60,24 +60,24 @@ Description
 </td><td>
 
 1.  Open a record.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../common/image/icon-ai-sparkle.png).
 3.  In the Now Assist panel, select **Summarize a record**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-using.md)
 
 **Related topics**  
 
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](now-assist-spo-summarize-record.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-record.md)
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-shopping.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-va-using.md)
 
-[Generate email responses](email-response-na-spo.md)
+[Generate email responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-response-na-spo.md)
 
-[Analyze sentiment in procurement cases](analyze-sentiments-na-spo.md)
+[Analyze sentiment in procurement cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-sentiments-na-spo.md)
 

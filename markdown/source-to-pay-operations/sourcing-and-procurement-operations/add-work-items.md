@@ -37,5 +37,5 @@ Role required: sn\_shop.procurement\_administrator
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Shopping Hub process visibility configuration](process-visibility-configuration.md)
+**Parent Topic:**[Shopping Hub process visibility configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-visibility-configuration.md)
 

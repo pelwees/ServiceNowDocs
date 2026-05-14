@@ -115,5 +115,5 @@ Token for webhook.By default, the token for ServiceNow webhook is `nowbot`. As a
     A success message displays confirming the integration with the Facebook Messenger app.
 
 
-**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](messg-fbm-configure.md)
+**Parent Topic:**[Configure Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm-configure.md)
 

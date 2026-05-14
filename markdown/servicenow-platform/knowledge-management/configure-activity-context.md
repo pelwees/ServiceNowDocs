@@ -208,7 +208,7 @@ Option to enable a business rule defined for an activity type.
 
 ## What to do next
 
-[Configure pattern elements for Self-Service Analytics](configure-pattern-element.md).
+[Configure pattern elements for Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-pattern-element.md).
 
-**Parent Topic:**[Configure Self-Service Analytics](config-ssa.md)
+**Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 

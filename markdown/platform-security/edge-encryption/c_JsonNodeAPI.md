@@ -15,11 +15,11 @@ breadcrumb: [JSON APIs, Encryption rule objects and APIs, Define a custom encryp
 
 A global object that provides methods to iterate over the JSON content.
 
-You can access a JsonNode object by calling [getAsJsonContent\(\)](c_requestAPI.md#) on a request object.
+You can access a JsonNode object by calling [getAsJsonContent\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_requestAPI.md#) on a request object.
 
-You access JSON content from a [POST or URL parameter](param-apis.md#) by calling `request.postParms.<parameter name>.getAsJsonContent()` or `request.urlParms.<parameter name>.getAsJsonContent()`.
+You access JSON content from a [POST or URL parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/param-apis.md#) by calling `request.postParms.<parameter name>.getAsJsonContent()` or `request.urlParms.<parameter name>.getAsJsonContent()`.
 
-**Parent Topic:**[JSON APIs](json-overview.md)
+**Parent Topic:**[JSON APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/json-overview.md)
 
 ## JsonNode - getIterator\(String xPath\)
 
@@ -87,7 +87,7 @@ Returns the name of the current JSON node.
 
 Specifies that the JSON property maps to the specified field in the specified table.
 
-Calling this method on a JSON property tells the proxy that the value for this property maps to the specified field in the specified table. The proxy then decides if the field must be encrypted. If the table and field names are unknown, you can call the valueFor\(\) method on a table and a field that are [dynamically assigned](json-overview.md#json-dynamic) based on the request.
+Calling this method on a JSON property tells the proxy that the value for this property maps to the specified field in the specified table. The proxy then decides if the field must be encrypted. If the table and field names are unknown, you can call the valueFor\(\) method on a table and a field that are [dynamically assigned](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/json-overview.md#json-dynamic) based on the request.
 
 |Name|Type|Description|
 |----|----|-----------|

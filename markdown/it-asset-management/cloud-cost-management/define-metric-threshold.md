@@ -114,5 +114,5 @@ Threshold value used while generating Rightsizing recommendations.**Note:** If *
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Configure Rightsizing operations](rs-settings-config-cloudin.md)
+**Parent Topic:**[Configure Rightsizing operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-settings-config-cloudin.md)
 

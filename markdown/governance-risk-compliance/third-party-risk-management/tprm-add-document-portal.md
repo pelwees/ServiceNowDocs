@@ -32,7 +32,7 @@ Third parties and engagement owners can upload and manage documents directly in 
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [Create new document form](../reference/tprm-create-new-document-form.md).
+    For descriptions of all these fields, see [Create new document form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-document-form.md).
 
 4.  Attach the document file.
 
@@ -103,9 +103,9 @@ Select **Save** to save all changes made to every section of the document.
 **Related topics**  
 
 
-[Document Management system in Third-party Risk Management](../concept/tprm-dms.md)
+[Document Management system in Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-dms.md)
 
-[Create a document record](tprm-create-document.md)
+[Create a document record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-document.md)
 
-[Create new document form](../reference/tprm-create-new-document-form.md)
+[Create new document form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/tprm-create-new-document-form.md)
 

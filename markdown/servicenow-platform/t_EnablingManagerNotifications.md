@@ -29,7 +29,7 @@ This notification sends emails to assessors' managers when assessors do not comp
 
 3.  Select the **Notify if overdue** check box.
 
-    ![The Notify if overdue option](../image/NotifyIfOverdue.png)
+    ![The Notify if overdue option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/NotifyIfOverdue.png)
 
     To disable manager notifications, clear the check box.
 
@@ -38,10 +38,10 @@ This notification sends emails to assessors' managers when assessors do not comp
     **Note:** The assessor's user record must have a manager specified in the **Manager** field to use this notification. You might need to configure the form to use this field.
 
 
--   **[Assessment notifications](../../assessments/reference/r_AssessmentNotifications.md)**  
+-   **[Assessment notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/reference/r_AssessmentNotifications.md)**  
 You can configure the system to send email notifications for assessments.
--   **[Assessment notification workflow](../reference/r_AssessmentNotificationWorkflow.md)**  
+-   **[Assessment notification workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_AssessmentNotificationWorkflow.md)**  
 The system sends assessment notifications according to the Notify assessment user workflow. Users with the workflow\_admin, workflow\_creator, or workflow\_publisher roles can view workflows.
 
-**Parent Topic:**[Assessment administrator tasks](../../assessments/concept/c_AssessmentProcess.md)
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/concept/c_AssessmentProcess.md)
 

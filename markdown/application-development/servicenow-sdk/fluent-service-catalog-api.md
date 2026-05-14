@@ -20,12 +20,12 @@ The Service Catalog API defines catalog items \[sc\_cat\_item\], record producer
 
 For general information about service catalogs, see [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## CatalogItem object
 
@@ -55,7 +55,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -145,7 +145,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a product model \[cmdb\_model\] associated with the item. To define a product model, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a product model \[cmdb\_model\] associated with the item. To define a product model, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a user \[sys\_user\] who owns the item and has edit access to it​. To define a user, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a user \[sys\_user\] who owns the item and has edit access to it​. To define a user, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -181,7 +181,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can access the item.​ For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can access the item.​ For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -482,7 +482,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of VariableSet objects or sys\_ids of variable sets \[item\_option\_new\_set\] to attach to the item. For more information, see [VariableSet object](fluent-service-catalog-api.md#).Format: `{ variableSet, order }`
+A list of variable identifiers of VariableSet objects or sys\_ids of variable sets \[item\_option\_new\_set\] to attach to the item. For more information, see [VariableSet object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).Format: `{ variableSet, order }`
 
 </td></tr><tr><td>
 
@@ -494,7 +494,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier of a Flow object or sys\_id of a flow \[sys\_hub\_flow\] that defines how the request is fulfilled. To define a flow, use the [Flow API - ServiceNow Fluent](fluent-flow-api.md#).**Note:** You should use flows as the fulfillment method for catalog items. When flow, workflow, and executionPlan are all specified, the system uses the flow.
+The variable identifier of a Flow object or sys\_id of a flow \[sys\_hub\_flow\] that defines how the request is fulfilled. To define a flow, use the [Flow API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-flow-api.md#).**Note:** You should use flows as the fulfillment method for catalog items. When flow, workflow, and executionPlan are all specified, the system uses the flow.
 
 </td></tr><tr><td>
 
@@ -506,7 +506,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of an execution plan \[sc\_cat\_item\_delivery\_plan\] that defines how the request is fulfilled. To define an execution plan, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of an execution plan \[sc\_cat\_item\_delivery\_plan\] that defines how the request is fulfilled. To define an execution plan, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -549,7 +549,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a location \[cmn\_location\] where the item is provided. To define a location, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a location \[cmn\_location\] where the item is provided. To define a location, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -561,7 +561,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a vendor associated with the item. To define a vendor, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a vendor associated with the item. To define a vendor, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -674,7 +674,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of the group \[sys\_user\_group\] responsible for delivering the item. To define a user group, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of the group \[sys\_user\_group\] responsible for delivering the item. To define a user group, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -829,7 +829,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a custom UI macro to use for cart rendering. To define a custom cart, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a custom UI macro to use for cart rendering. To define a custom cart, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -1025,7 +1025,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -1127,7 +1127,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a product model \[cmdb\_model\] associated with the item. To define a product model, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a product model \[cmdb\_model\] associated with the item. To define a product model, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -1151,7 +1151,7 @@ Reference or String
 
 </td><td>
 
-The variable identifier or sys\_id of a user \[sys\_user\] who owns the item and has edit access to it​. To define a user, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).
+The variable identifier or sys\_id of a user \[sys\_user\] who owns the item and has edit access to it​. To define a user, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -1163,7 +1163,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can access the item.​ For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can access the item.​ For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -1266,7 +1266,7 @@ Reference or String
 
 </td><td>
 
-Required. The variable identifier or name of the UI view \[sys\_ui\_view\] which applies, or the default view. To define a UI view, use the [Record API - ServiceNow Fluent](record-api-now-ts.md#).To use the default view \(`default_view`\), you must import it:
+Required. The variable identifier or name of the UI view \[sys\_ui\_view\] which applies, or the default view. To define a UI view, use the [Record API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/record-api-now-ts.md#).To use the default view \(`default_view`\), you must import it:
 
 ```javascript
 import { default_view } from '@servicenow/sdk/core'
@@ -1372,7 +1372,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of VariableSet objects or sys\_ids of variable sets \[item\_option\_new\_set\] to attach to the item. For more information, see [VariableSet object](fluent-service-catalog-api.md#).Format: `{ variableSet, order }`
+A list of variable identifiers of VariableSet objects or sys\_ids of variable sets \[item\_option\_new\_set\] to attach to the item. For more information, see [VariableSet object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).Format: `{ variableSet, order }`
 
 </td></tr><tr><td>
 
@@ -1510,7 +1510,7 @@ This property supports inline JavaScript or a reference to another file in the a
 
 Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -1565,7 +1565,7 @@ Script
 
 A script that runs at every step save in Catalog Builder. This property supports inline JavaScript or a reference to another file in the application that contains a script.Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -1594,7 +1594,7 @@ A server-side script that runs before the record is created. Use this script to 
 
 Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 Default:
@@ -1726,7 +1726,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -1750,7 +1750,7 @@ Reference or String
 
 </td><td>
 
-Required only if the variableSet property isn’t used. The variable identifier of a CatalogItem or CatalogItemRecordProducer object or sys\_id of the catalog item \[sc\_cat\_item\] or record producer \[sc\_cat\_item\_producer\] to which the UI policy applies. For more information, see [CatalogItem object](fluent-service-catalog-api.md#) or [CatalogItemRecordProducer object](fluent-service-catalog-api.md#).
+Required only if the variableSet property isn’t used. The variable identifier of a CatalogItem or CatalogItemRecordProducer object or sys\_id of the catalog item \[sc\_cat\_item\] or record producer \[sc\_cat\_item\_producer\] to which the UI policy applies. For more information, see [CatalogItem object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#) or [CatalogItemRecordProducer object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).
 
 </td></tr><tr><td>
 
@@ -1762,7 +1762,7 @@ Reference or String
 
 </td><td>
 
-Required only if the catalogItem property isn’t used. The variable identifier of a VariableSet object or sys\_id of the variable set \[item\_option\_new\_set\] to which the UI policy applies. For more information, see [VariableSet object](fluent-service-catalog-api.md#).
+Required only if the catalogItem property isn’t used. The variable identifier of a VariableSet object or sys\_id of the variable set \[item\_option\_new\_set\] to which the UI policy applies. For more information, see [VariableSet object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).
 
 </td></tr><tr><td>
 
@@ -1991,7 +1991,7 @@ Array
 
 </td><td>
 
-A list of variable actions to perform when the catalog condition is met. For more information, see [actions array](fluent-service-catalog-api.md#).
+A list of variable actions to perform when the catalog condition is met. For more information, see [actions array](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).
 
 </td></tr><tr><td>
 
@@ -2245,7 +2245,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -2271,7 +2271,7 @@ Script
 
 The client-side script to run on the catalog item form. This property supports inline JavaScript or a reference to another file in the application that contains a script.Format:
 
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 </td></tr><tr><td>
@@ -2347,7 +2347,7 @@ Reference or String
 
 </td><td>
 
-Required only if the variableSet property isn’t used. The variable identifier of a CatalogItem or CatalogItemRecordProducer object or sys\_id of the catalog item \[sc\_cat\_item\] or record producer \[sc\_cat\_item\_producer\] to which the client script applies. For more information, see [CatalogItem object](fluent-service-catalog-api.md#) or [CatalogItemRecordProducer object](fluent-service-catalog-api.md#).
+Required only if the variableSet property isn’t used. The variable identifier of a CatalogItem or CatalogItemRecordProducer object or sys\_id of the catalog item \[sc\_cat\_item\] or record producer \[sc\_cat\_item\_producer\] to which the client script applies. For more information, see [CatalogItem object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#) or [CatalogItemRecordProducer object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).
 
 </td></tr><tr><td>
 
@@ -2359,7 +2359,7 @@ Reference or String
 
 </td><td>
 
-Required only if the catalogItem property isn’t used. The variable identifier of a VariableSet object or sys\_id of the variable set \[item\_option\_new\_set\] to which the UI policy applies. For more information, see [VariableSet object](fluent-service-catalog-api.md#).
+Required only if the catalogItem property isn’t used. The variable identifier of a VariableSet object or sys\_id of the variable set \[item\_option\_new\_set\] to which the UI policy applies. For more information, see [VariableSet object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-service-catalog-api.md#).
 
 </td></tr><tr><td>
 
@@ -2541,7 +2541,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -2662,7 +2662,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can view the variable set.​ For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can view the variable set.​ For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -2674,7 +2674,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can modify variable values in the set. For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).
+A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can modify variable values in the set. For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -2686,7 +2686,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can create row instances. For more information, see [Role API - ServiceNow Fluent](role-api-now-ts.md#).This property applies only if the value of the type property is `multiRow`.
+A list of variable identifiers of Role objects or sys\_ids of roles \[sys\_user\_role\] that can create row instances. For more information, see [Role API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/role-api-now-ts.md#).This property applies only if the value of the type property is `multiRow`.
 
 </td></tr><tr><td>
 

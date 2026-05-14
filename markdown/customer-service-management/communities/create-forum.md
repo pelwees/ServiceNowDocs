@@ -29,7 +29,7 @@ Public
 
 </td><td>
 
-Visible to all users, including non-logged in users. All users have **content\_read** access to questions and answers in public forums. Configure public forms by adding a [forum user](add-user.md) of the type public.
+Visible to all users, including non-logged in users. All users have **content\_read** access to questions and answers in public forums. Configure public forms by adding a [forum user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) of the type public.
 
 </td></tr><tr><td>
 
@@ -37,7 +37,7 @@ Private
 
 </td><td>
 
-Visible only to users who have been assigned the required permissions in the forum. Configure private forums by adding a [forum user](add-user.md) of the type custom and adding specific users or user groups to that forum user.
+Visible only to users who have been assigned the required permissions in the forum. Configure private forums by adding a [forum user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) of the type custom and adding specific users or user groups to that forum user.
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ The forum title is visible to registered community users. Community users must r
 
 3.  Fill in the fields on the **Forum New record** form.
 
-    For field description, see [Forum form fields](../reference/forum-form-fields.md).
+    For field description, see [Forum form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../reference/forum-form-fields.md).
 
 4.  To allow registered forum users to view and request to join a forum, select the **Enable Membership for this Forum** check box and complete the following steps.
 
@@ -66,7 +66,7 @@ The forum title is visible to registered community users. Community users must r
 
         -   **Default Permission for Memberships**: Read and write access to questions and answers for users who are forum members.
         -   **Forum Visible**: Read access to the name and description of the forum for registered users. To access content, users must request forum membership.
-    2.  If required, you can add a [new forum permission](create-forum-permission.md) and set it as the default using the sn\_communities.default\_permission\_for\_forum\_memberships property.
+    2.  If required, you can add a [new forum permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md) and set it as the default using the sn\_communities.default\_permission\_for\_forum\_memberships property.
 
         If you want public users to view content in the forum to attract them to become members, create a forum permission as follows:
 
@@ -102,14 +102,14 @@ A task is created and sent to the users defined in your flow for approval.
 </table>5.  Click **Update**.
 
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
 **Related topics**  
 
 
-[Add a topic to a forum](add-topic-to-forum.md)
+[Add a topic to a forum](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-topic-to-forum.md)
 
-[Configure community content types](enable-content-types-for-community.md)
+[Configure community content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/enable-content-types-for-community.md)
 
-[Create a forum permission](create-forum-permission.md)
+[Create a forum permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md)
 

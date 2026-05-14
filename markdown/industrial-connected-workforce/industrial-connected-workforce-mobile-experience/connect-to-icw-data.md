@@ -35,5 +35,5 @@ Role required: wm\_agent or wm\_dispatcher
 3.  Tap **Industrial Connected Workforce** to get started with your work.
 
 
-**Parent Topic:**[Configure the Now Mobile Agent application](configure-now-mobile-agent-application-icw-mobile.md)
+**Parent Topic:**[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)
 

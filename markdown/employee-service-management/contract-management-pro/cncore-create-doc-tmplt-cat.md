@@ -27,7 +27,7 @@ Role required: sn\_cm\_core.contract\_config
 
 3.  Select **Active** to make the category active.
 
-    ![Activate Document template category.](../image/cmpro-temp-catg.png "Document Template Category")
+    ![Activate Document template category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-temp-catg.png "Document Template Category")
 
 4.  Select **Submit** to save the category.
 

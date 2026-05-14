@@ -97,5 +97,5 @@ Application scope of the table.This field is populated automatically based on th
 
 ## What to do next
 
-Create a rank configuration for the global rank field you created. See [Create rank configuration for high-level planning](create-rank-configuration-enable-high-level-planning.md).
+Create a rank configuration for the global rank field you created. See [Create rank configuration for high-level planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-rank-configuration-enable-high-level-planning.md).
 

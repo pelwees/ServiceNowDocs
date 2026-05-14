@@ -27,7 +27,7 @@ The Console tab on the main Settings page is divided into the following sections
 
 -   **License**
 
-    When you first sign into the Console, a warning banner alerts that you need a license. When you use the interactive configuration wizard, you're also alerted to the license status. For detailed explanation of the Console license, see [Requirements for Discovery Console for OT installation](requirements-installation-deployment.md).
+    When you first sign into the Console, a warning banner alerts that you need a license. When you use the interactive configuration wizard, you're also alerted to the license status. For detailed explanation of the Console license, see [Requirements for Discovery Console for OT installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/requirements-installation-deployment.md).
 
     **Note:** If needed, request a Console license from your ServiceNow account representative.
 
@@ -37,7 +37,7 @@ The Console tab on the main Settings page is divided into the following sections
 
     In the Configuration section, use the **High Contrast** setting to change hyperlinks from orange to green for ease in viewing. To change this setting, select the **Edit** button, then slide the **High Contrast** toggle to **Yes**. Select **Save** to save your changes.
 
-    ![High contrast setting](../images/configuration-section-high-contrast.png)
+    ![High contrast setting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/configuration-section-high-contrast.png)
 
 -   **System Statistics**
 
@@ -123,7 +123,7 @@ In the Package tab, you can use the package source options under the **Package M
 
 **Reprocess**
 
-The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. See [Reprocess Auto Query results](reprocess-tab-results.md) for more information.
+The Reprocess feature allows the system to reevaluate previously collected Auto Query scan results using the latest query driver logic. See [Reprocess Auto Query results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/reprocess-tab-results.md) for more information.
 
 **Syslog**
 
@@ -133,5 +133,5 @@ ea**Logs**
 
 From the Logs tab, you can download Discovery Console for OT logs. You have the option to choose whether to download logs on the current day, on a custom date, or on a date range.
 
-For further information on Console and Sensor log files, see [Download Console log files](download-console-log-files.md).
+For further information on Console and Sensor log files, see [Download Console log files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/download-console-log-files.md).
 

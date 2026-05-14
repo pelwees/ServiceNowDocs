@@ -67,7 +67,7 @@ Creating a table-specific property and setting it to false prevents users from d
 
 1.  Navigate to `sys_properties.list`.
 
-2.  [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
+2.  [Add a system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
 
     |Property|Value|
     |--------|-----|
@@ -113,9 +113,9 @@ Role required: admin
 
 ### About this task
 
-![Configuration of two form splits](../image/FormSplitConfiguration.png "Configuration of two form splits")
+![Configuration of two form splits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FormSplitConfiguration.png "Configuration of two form splits")
 
-![Two form splits](../image/FormSplitExample.png "Example of the form with two form splits")
+![Two form splits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/FormSplitExample.png "Example of the form with two form splits")
 
 When you organize fields in this manner and the user is viewing the form on a small mobile device, the fields within the first split are listed before the fields in the second split. In this example, the **Asset tag**, **State**, **Serial number**, and **Substate** field are listed before any of the fields below them. You can also create elements that span the form at the top of the form.
 
@@ -203,7 +203,7 @@ The expected \(although not the only\) use case for this feature is as part of a
 
     The following example sets the **Short description** field on the Incident form to be required.
 
-    ![Required form field](../image/RequiredFormField.png)
+    ![Required form field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RequiredFormField.png)
 
     If you decide later that you do not want to make the field required, clear the **Required** checkbox. This action is preferable to deleting the record.
 
@@ -233,13 +233,13 @@ An example would be displaying the email address for the caller when looking at 
 
 <table id="table_DisplayingInformationFromOtherRecords"><tbody><tr><td>
 
-![Available fields](../image/AvailableTableFields.png "Available table fields")
+![Available fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/AvailableTableFields.png "Available table fields")
 
  Choose the **Caller** field and click the expander icon.
 
 </td><td>
 
-![Caller fields](../image/CallerFields.png "Caller fields")
+![Caller fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/CallerFields.png "Caller fields")
 
  Select the available fields associated with the **Caller** field.
 

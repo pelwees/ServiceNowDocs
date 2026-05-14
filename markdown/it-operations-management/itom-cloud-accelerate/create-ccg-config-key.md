@@ -17,7 +17,7 @@ Create a configuration key in Cloud Configuration Governance to use it in the po
 
 ## Before you begin
 
--   Ensure that a resource collector is available for the resource type mentioned in the configuration key. If the resource collector is not available, you can create it. For more information, see [Create a resource collector](create-ccg-resource-collector.md).
+-   Ensure that a resource collector is available for the resource type mentioned in the configuration key. If the resource collector is not available, you can create it. For more information, see [Create a resource collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-resource-collector.md).
 -   Role required: sn\_itom\_ccg.governor
 
 ## Procedure
@@ -28,7 +28,7 @@ Create a configuration key in Cloud Configuration Governance to use it in the po
 
 3.  On the Configuration Key form, fill in the fields.
 
-    For the description of the form fields, see [Cloud Configuration Governance Configuration key form](../reference/ccg-config-key-form.md).
+    For the description of the form fields, see [Cloud Configuration Governance Configuration key form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../reference/ccg-config-key-form.md).
 
 4.  Select **Submit**.
 

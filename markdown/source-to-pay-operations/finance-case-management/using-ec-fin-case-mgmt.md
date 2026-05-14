@@ -15,15 +15,15 @@ breadcrumb: [Use, Finance Case Management, Finance and Supply Chain applications
 
 Finance requesters can use the Employee Center to create finance inquiry, view the requests and tasks, and interact with the live agent.
 
--   **[Submit a finance request from Employee Center catalog](../task/submit-fin-req.md)**  
+-   **[Submit a finance request from Employee Center catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../task/submit-fin-req.md)**  
 Ask any general finance-related question.
--   **[View finance articles](../task/view-finance-articles.md)**  
+-   **[View finance articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../task/view-finance-articles.md)**  
 View finance articles from the Employee Center.
 
-**Parent Topic:**[UseFinance Case Management](using-fin-case-mgmt.md)
+**Parent Topic:**[UseFinance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt.md)
 
 **Related topics**  
 
 
-[Using the Finance Operations Workspace](using-fin-case-mgmt-workspace.md)
+[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 

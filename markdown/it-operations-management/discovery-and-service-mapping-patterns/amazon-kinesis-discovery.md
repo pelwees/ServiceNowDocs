@@ -88,5 +88,5 @@ The status of the stream.
 |AWS Kinesis Firehose|Hosted on::Hosts|AWS Datacenter|
 |AWS Kinesis Data Analytics|Hosted on::Hosts|AWS Datacenter|
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

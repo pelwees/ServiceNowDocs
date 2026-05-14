@@ -19,7 +19,7 @@ TRM is a list of software products with information on their approval of use. Ea
 
 The Software Asset Management application gives visibility into the TRM lifecycle phases for all products associated with software models. When a software model is created and associated with a product that is approved for use in TRM, the **Certified** check box in the software model form is selected by default. All software models associated with that product are then available for use.
 
-![Software model from](../image/sam-tpm.png)
+![Software model from](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/sam-tpm.png)
 
 If the same product in TRM is later marked as unapproved, the existing software models associated with that product don't reflect that change. However, when you open the existing software models, a banner appears stating `This software is not approved for use in the Technology Reference Model (TRM). To be in sync with the TRM, set the Certified flag to FALSE.`.
 
@@ -37,5 +37,5 @@ On September 18, 2022, release 14.5 of PostgreSQL gets approved for use in TRM. 
 
 If you create another software model SW2, on September 19, 2022, and associate it with PostgreSQL, the **Certified** check box is set to true and the **Restricted software** check box is set to false in the SW2 form.
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

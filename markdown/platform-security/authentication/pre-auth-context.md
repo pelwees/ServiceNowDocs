@@ -85,7 +85,7 @@ You can only use the IP Filter, Trusted Mobile App Filter, and Location Filter c
 
 ## Policy inputs and conditions
 
-The **Policy Input** and **Policy Conditions** tabs display the inputs and conditions of the policy selected in the **Allow Policy** or **Deny Policy** field. These tabs serve as a reference, but can’t be used to change the policy inputs or conditions. To modify your policy, navigate to the policy using the reference icon \(![Reference icon](../images/reference-icon.png)\) next to the **Allow Policy** or **Deny Policy** field.
+The **Policy Input** and **Policy Conditions** tabs display the inputs and conditions of the policy selected in the **Allow Policy** or **Deny Policy** field. These tabs serve as a reference, but can’t be used to change the policy inputs or conditions. To modify your policy, navigate to the policy using the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/reference-icon.png)\) next to the **Allow Policy** or **Deny Policy** field.
 
 This example shows a pre authentication policy context record configured to deny access by default. The context uses a policy called **Deny access policy**. That policy has a set of inputs and conditions that are displayed in the **Policy Input** and **Policy Condition** tabs.
 
@@ -97,5 +97,5 @@ This example shows a pre authentication policy context record configured to deny
     For example: If the administrator is outside the trusted network and configures pre authentication context with IP ranges, if the IP ranges are mismatched with the current session of the admin, the admin is blocked.
 
 
-![Pre-authentication policy context record](../images/pre-auth-context.png "Pre authentication policy context form")
+![Pre-authentication policy context record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/pre-auth-context.png "Pre authentication policy context form")
 

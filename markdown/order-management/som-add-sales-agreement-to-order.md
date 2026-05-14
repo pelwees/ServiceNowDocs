@@ -27,7 +27,7 @@ A sales agreement is a contract to purchase a defined set of products and servic
 -   Agents can configure product bundles for orders.
 -   Agents can move quickly through the order process.
 
-See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md) and [Create a sales agreement](create-new-sales-agreement.md) to learn more about creating a sales agreement.
+See [Using Sales Agreement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/sales-agreement-mgmt-using.md) and [Create a sales agreement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/create-new-sales-agreement.md) to learn more about creating a sales agreement.
 
 ## Procedure
 
@@ -50,12 +50,12 @@ See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md)
 
 ## What to do next
 
-[Add products or services to an order in Order Management](som-add-products-services-to-orders.md)
+[Add products or services to an order in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-add-products-services-to-orders.md)
 
 **Related topics**  
 
 
-[Sales Agreement Management](../concept/sales-agreement-mgmt.md)
+[Sales Agreement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/sales-agreement-mgmt.md)
 
-[Configure Sales Agreement Management](../concept/configure-sales-agreement-mgmt.md)
+[Configure Sales Agreement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/configure-sales-agreement-mgmt.md)
 

@@ -43,12 +43,12 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 5.  In the **All available Contract Management Pro skills** section, select **Turn on** for the skill that you want to activate.
 
 
-**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](../concept/use-now-assist-cmpro-spo.md)
+**Parent Topic:**[Using Now Assist for Contract Management in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-now-assist-cmpro-spo.md)
 
 **Related topics**  
 
 
-[Start a metadata extraction for a contract from Source-to-Pay Workspace](extract-metadata-spo.md)
+[Start a metadata extraction for a contract from Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/extract-metadata-spo.md)
 
-[Analyze a contract document from Source-to-Pay Workspace](analyze-contract-spo.md)
+[Analyze a contract document from Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-contract-spo.md)
 

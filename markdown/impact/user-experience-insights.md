@@ -13,7 +13,7 @@ breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platf
 
 Explore real-time user monitoring to analyze user experience and performance insights in Instance Observer​ telemetry into node, transaction type, URL, and user level breakdowns for Impact Total customers.
 
--   Access the [User Experience](user-experience-insights.md) to visualize quickly your user base issues based on transaction type and volume, outage or service degradations, and access the specific affected URL​ for Impact Total customers.
+-   Access the [User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/user-experience-insights.md) to visualize quickly your user base issues based on transaction type and volume, outage or service degradations, and access the specific affected URL​ for Impact Total customers.
 -   Search for a specific URL that is causing increases in transaction response time.​
 -   Analyze node and transaction type level data for outliers and trending​ transactions.
 -   Identify which users are impacted by an outage or service degradation.​
@@ -22,7 +22,7 @@ Explore real-time user monitoring to analyze user experience and performance ins
 
 The overview page breaks down user history and transaction count into various widgets and charts into a dashboard view.
 
-![Overview page with populated chart data for the selected instance and timeframe.](../image/io-ux-overview.png)
+![Overview page with populated chart data for the selected instance and timeframe.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-ux-overview.png)
 
 <table id="table_ut1_5ff_bbc"><thead><tr><th>
 
@@ -81,7 +81,7 @@ Track applications that have performance issues by using the average response ti
 -   Network latency
 -   Content download time
 
-For more information, see [Track the response time of applications to monitor their performance](../task/monitor-apps-user-experience-io.md).
+For more information, see [Track the response time of applications to monitor their performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/monitor-apps-user-experience-io.md).
 
 </td></tr><tr><td>
 
@@ -102,5 +102,5 @@ Select a point on the graph to view additional actions and drill into the transa
 </td></tr></tbody>
 </table>**Note:** User Experience in Instance Observer may not be available to customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected datacenters, to self-hosted customers, or in other restricted environments, or to managed service providers.
 
-**Parent Topic:**[Analytics](io-analytics.md)
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-analytics.md)
 

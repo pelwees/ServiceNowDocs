@@ -64,7 +64,7 @@ Complete these steps from the [Google Cloud Platform](https://cloud.google.com/)
 
 5.  Enter the following Authorized redirect URI: `https://<instance>.service-now.com/oauth_redirect.do` and click **Create**.
 
-6.  Copy your client ID and client secret to a text file so that you can use them when you [Register Google Cloud Storage as an OAuth provider](setup-gstorage.md#).
+6.  Copy your client ID and client secret to a text file so that you can use them when you [Register Google Cloud Storage as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-gstorage.md#).
 
     **Tip:** You can always access the client ID and secret in the Google APIs &amp; Services interface by clicking **Credentials** and selecting the OAuth 2.0 client ID name.
 
@@ -125,7 +125,7 @@ Role required: admin.
     |OAuth Entity Profile|Select the default OAuth entity profile, **GCP Cloud Storage default\_profile**.|
     |Credential alias|Credential alias associated with this record. The default alias record, **sn\_gcp\_cs\_spoke.Google\_Cloud\_Storage** is selected.|
 
-    ![Credential record for the Google Cloud Storage spoke.](../image/gcloud-storage-cred.png)
+    ![Credential record for the Google Cloud Storage spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/gcloud-storage-cred.png)
 
 6.  Right-click the form header and click **Save**.
 

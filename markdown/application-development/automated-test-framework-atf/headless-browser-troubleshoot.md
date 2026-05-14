@@ -33,7 +33,7 @@ Firewalls: Make sure your firewalls are set up so that the instance can access t
 
 ## Headless Browser action flow diagram
 
-![Workflow of headless browser](../image/headless-browser-workflow-diagram.png "Example flow diagram")
+![Workflow of headless browser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/headless-browser-workflow-diagram.png "Example flow diagram")
 
-**Parent Topic:**[Headless Browser for Automated Test Framework](atf-headless-browser.md)
+**Parent Topic:**[Headless Browser for Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-headless-browser.md)
 

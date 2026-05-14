@@ -17,11 +17,11 @@ Steps to take if you encounter problems using CPQ.
 
 -   An error occurred. Please contact your administrator.
 
-    ![Error message](../images/cpq-error-generic.png)
+    ![Error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-error-generic.png)
 
     This generic error message appears for every error logged when configuring. This usually points to an edge case that was not previously considered when building the Blueprint and can be rectified by looking into the results of the [Logs](https://logikio.atlassian.net/wiki/spaces/CS/pages/2022735879) tab in CPQ Admin when this error occurs. A more detailed response will usually be present that should point your administrator to the location of the error, such as a rule, enrichment, or an external connection.
 
-    ![Logs](../images/cpq-logs.png)
+    ![Logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logs.png)
 
     If there is no further detail located in the Admin log, or if you are still confused by the messaging of the error, please log a support ticket.
 
@@ -55,7 +55,7 @@ As a point of contrast, when the CPQ environment is integrated with SFDC, the SF
 
 ## Configuration
 
-For some user profiles, configuring results in a white screen or reconfiguring does not load any of the previously chosen options. In order to properly configure or reconfigure, users need access to certain objects and fields in Salesforce. These can be assigned using permission sets or by going to Setup &gt; Profiles &gt; Select Desired Profile &gt; Object Settings.![Profiles screen](../images/cpq-profiles-object-settings.png)
+For some user profiles, configuring results in a white screen or reconfiguring does not load any of the previously chosen options. In order to properly configure or reconfigure, users need access to certain objects and fields in Salesforce. These can be assigned using permission sets or by going to Setup &gt; Profiles &gt; Select Desired Profile &gt; Object Settings.![Profiles screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-profiles-object-settings.png)
 
 Users will need read/edit access in the Field Permissions section to the following objects:
 
@@ -115,7 +115,7 @@ Subscriptions \(SBQQ\_\_Subscription\_\_c\):
 -   Configuration Id
 -   BOM Data
 
-See [Granting user access in CPQ](granting_user_access_in_logik_io.md).
+See [Granting user access in CPQ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/granting_user_access_in_logik_io.md).
 
 ## Salesforce integration
 
@@ -133,5 +133,5 @@ See [Granting user access in CPQ](granting_user_access_in_logik_io.md).
     If you have confirmed none of these are true and a quote line is still not being created, then it is probable that the product sync that takes place between CPQ and Salesforce via the refresh token user has not occurred yet. This sync occurs via API every 30 minutes for test and demo environments and every 15 minutes for production. To determine when this sync last occurred, enter Salesforce and navigate to Setup → Bulk Data Load Jobs.
 
 -   
-**Parent Topic:**[CPQ reference](../reference/servicenow-cpq-reference.md)
+**Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/servicenow-cpq-reference.md)
 

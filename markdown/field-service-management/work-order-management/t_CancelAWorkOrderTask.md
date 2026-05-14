@@ -54,7 +54,7 @@ Work order tasks can be canceled by users with these roles:
 
     An error message appears if text is not entered into the **Work Notes** field.
 
-    For traceability, auditing, and possible [deletion](t_DeleteAWorkOrder.md), field service administrators need to know the reason why a work order or work order task was canceled.
+    For traceability, auditing, and possible [deletion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_DeleteAWorkOrder.md), field service administrators need to know the reason why a work order or work order task was canceled.
 
 
 ## Result

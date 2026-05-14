@@ -51,7 +51,7 @@ By the end of this task, you define the timeline for a PI and its child Sprints.
 
     For the PI that spans from 01 January 2024 to 31 March 2024, you can create 6 Sprints with a length of 14 days each.
 
-    ![New Planning Interval Calendar entry.](../images/eap-new-calendar-entry.png)
+    ![New Planning Interval Calendar entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-new-calendar-entry.png)
 
 7.  Select **Create**.
 
@@ -64,7 +64,7 @@ A PI and its child sprints are created with the timelines that you defined. The 
 
 PI 1 is created for 2024-01-01 to 2024-03-31. Within this PI, child six Sprints are created, each with a length of 14 days.
 
-![PI1 and its child Sprints.](../images/eap-pi-and-sprint.png)
+![PI1 and its child Sprints.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-pi-and-sprint.png)
 
 Under the Digital Banking portfolio, the teams create their own ARTs and Sprints as follows:
 
@@ -75,5 +75,5 @@ Under the Digital Banking portfolio, the teams create their own ARTs and Sprints
 
 The teams can use these PIs and Sprints to schedule their work.
 
-![Team-specific sprints in EAP Backlog.](../images/eap-teams-sprints.png)
+![Team-specific sprints in EAP Backlog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-teams-sprints.png)
 

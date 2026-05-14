@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Define Jeopardy-enabled fulfillment workflows](../task/define-jm-enabled-fulfillment-flows.md)
+[Define Jeopardy-enabled fulfillment workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/define-jm-enabled-fulfillment-flows.md)
 
 </td><td>
 
@@ -39,7 +39,7 @@ Define subflows for product and service specifications using the following Jeoap
 
 </td></tr><tr><td>
 
-[Configure the Order Jeopardy Enablement Policy](../task/enable-jeopardy-management.md)
+[Configure the Order Jeopardy Enablement Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/enable-jeopardy-management.md)
 
 </td><td>
 
@@ -47,7 +47,7 @@ Enable Jeopardy Management for product and service using the Order Jeopardy Enab
 
 </td></tr><tr><td>
 
-[../task/create-sla-definitions.md](../task/create-sla-definitions.md)
+[../task/create-sla-definitions.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-sla-definitions.md)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Define service level agreements \(SLA\) based on request type and specify the pr
 
 </td></tr><tr><td>
 
-[Configuring Jeopardy Management](configuring-jeopardy-management.md)
+[Configuring Jeopardy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configuring-jeopardy-management.md)
 
 </td><td>
 

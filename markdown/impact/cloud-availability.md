@@ -19,13 +19,13 @@ The cloud availability is displayed in a world map view with colored status indi
 -   Service degradation: Yellow
 -   Service outage: Red
 
-![Display of the world map with colored status indicators representing the availability of each data center.](../image/data-center-status-map.png)
+![Display of the world map with colored status indicators representing the availability of each data center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/data-center-status-map.png)
 
 See which data center is available and if there is an outage or a specific trend of activity. Select a specific data center from the map to expand the details.
 
-![Shows the data center details page after expanding from the cloud map.](../image/data-center-details.png)
+![Shows the data center details page after expanding from the cloud map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/data-center-details.png)
 
 Go directly to Instance Observer, view summaries of the availability, and details of the last 90 days service issues.
 
-**Parent Topic:**[Availability](../concept/io-availability.md)
+**Parent Topic:**[Availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-availability.md)
 

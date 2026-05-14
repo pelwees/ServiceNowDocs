@@ -36,7 +36,7 @@ When you create a case from an inbound interaction, the system links the interac
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  In the Interactions section, select **My Interactions**.
 
@@ -53,5 +53,5 @@ When you create a case from an inbound interaction, the system links the interac
 
 ### Result
 
-The process generates a case from an email, linking them for future communication. For more information, see [Accessing associated cases and interaction emails](accessing-associated-cases-interaction-emails.md#).
+The process generates a case from an email, linking them for future communication. For more information, see [Accessing associated cases and interaction emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/accessing-associated-cases-interaction-emails.md#).
 

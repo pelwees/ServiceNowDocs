@@ -40,5 +40,5 @@ The **AI asset inventory** tab displays the following widgets. You can view the 
 
 The following image shows the **AI asset inventory** tab on the AI Control Tower.
 
-![AI asset inventory tab that displays all the metric types for AI systems.](../image/aict-ai-asset-inventory.png "AI asset inventory tab in AI Control Tower home page")
+![AI asset inventory tab that displays all the metric types for AI systems.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/aict-ai-asset-inventory.png "AI asset inventory tab in AI Control Tower home page")
 

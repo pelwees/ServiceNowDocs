@@ -21,8 +21,8 @@ You can discover and block sensitive data from user inputs to prevent it from en
 
 | | |
 |---|---|
-|[Real time protection policies](../task/real-time-protection-policies.md)|Configure policies to protect sensitive data in real-time through alerts and blocking actions.|
-|[Alert data patterns](alert-data-patterns.md)|Create alert data patterns; reusable groups of data patterns that detect and then alert or block sensitive data across your organization.|
-|[Attachment quarantine policies](attachment-quarantine-policies.md)|Set policies that scan attachments for sensitive data during user uploads into fields.|
-|[Attachment scan findings](../task/attachment-findings.md)|Review the findings of your attachment quarantine scans, and work with any quarantined or alerted attachments.|
+|[Real time protection policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../task/real-time-protection-policies.md)|Configure policies to protect sensitive data in real-time through alerts and blocking actions.|
+|[Alert data patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/alert-data-patterns.md)|Create alert data patterns; reusable groups of data patterns that detect and then alert or block sensitive data across your organization.|
+|[Attachment quarantine policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/attachment-quarantine-policies.md)|Set policies that scan attachments for sensitive data during user uploads into fields.|
+|[Attachment scan findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/../task/attachment-findings.md)|Review the findings of your attachment quarantine scans, and work with any quarantined or alerted attachments.|
 

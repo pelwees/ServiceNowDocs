@@ -36,12 +36,12 @@ By default the Auto Assignment Group for HR Cases solution definition is configu
 
 **Note:** Auto training does not happen if any one of the preceding conditions is not met. In such a case, [Manually train the HR predictive model](https://servicenow.com/docs/bundle/vancouver-employee-service-management/page/product/human-resources/task/hr-predictive-intelligence-train.html). Navigate to the **HR AI configuration** module, open the Case Assignment group record, and map the manually configured solution definition.
 
-**Parent Topic:**[Machine learning solutions in Agent Workspace for HR Case Management](hr-agent-ws-ml-solutions.md)
+**Parent Topic:**[Machine learning solutions in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-ml-solutions.md)
 
 **Related topics**  
 
 
-[Auto determination of HR service in Agent Workspace for HR Case Management](hr-agent-ws-auto-hrservice.md)
+[Auto determination of HR service in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-auto-hrservice.md)
 
-[Display similar closed cases in Agent Workspace for HR Case Management](hr-agent-ws-similar-closed-case.md)
+[Display similar closed cases in Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/hr-agent-ws-similar-closed-case.md)
 

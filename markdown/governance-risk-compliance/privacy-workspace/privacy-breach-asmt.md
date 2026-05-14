@@ -25,5 +25,5 @@ While a breach assessment can be initiated from the Employee Center, it can also
 
 **Note:** This image uses security incident purely as an example for a better understanding of the workflow.
 
-![Steps for the creation of privacy case for a business app security breach using breach assessment.](../image/breach-asmt-workflow.png "Privacy breach assessment workflow")
+![Steps for the creation of privacy case for a business app security breach using breach assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/breach-asmt-workflow.png "Privacy breach assessment workflow")
 

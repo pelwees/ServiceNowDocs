@@ -29,7 +29,7 @@ Role required: sn\_ot\_incident\_write
 
 4.  Select the incident record that you want to send an email for.
 
-5.  In the incident header, open the menu by selecting the **More actions** ![More actions UI button.](../../mftg-manufacturing-ot-knowledge/image/more-actions.png) button.
+5.  In the incident header, open the menu by selecting the **More actions** ![More actions UI button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../mftg-manufacturing-ot-knowledge/image/more-actions.png) button.
 
 6.  Select **Compose Email**.
 
@@ -79,5 +79,5 @@ Updates that you want to send to a user or users that are related to the OT inci
 
 The email is sent to the user or users that you specified in the email template.
 
-**Parent Topic:**[Using Operational Technology Incident Management](../concept/using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../concept/using-operational-technology-incident-mgt.md)
 

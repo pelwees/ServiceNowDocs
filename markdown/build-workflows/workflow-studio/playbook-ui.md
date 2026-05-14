@@ -25,7 +25,7 @@ Playbook are built by admins in Workflow Studio, customized by admins in UI Buil
 
 Playbook Experience automatically updates playbook tasks if completed outside of a playbook.
 
-![Playbook flow.](../video/playbook-flow.gif)
+![Playbook flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../video/playbook-flow.gif)
 
 ## Playbook UI
 
@@ -33,30 +33,30 @@ Playbook contain helpful UI features.
 
 -   **Header**
 
-    Shows the title of a playbook. A header exists for each playbook attached to a record. Selecting a playbook header expands the stages nested under it. ![Playbook header](../image/playbook-header.png)
+    Shows the title of a playbook. A header exists for each playbook attached to a record. Selecting a playbook header expands the stages nested under it. ![Playbook header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-header.png)
 
 -   **Stages**
 
     Click a stage title to view its activities. By default, all activity cards are collapsed except for the first card in a stage.
 
-    ![Stage title](../image/playbook-stage-title.png)
+    ![Stage title](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stage-title.png)
 
     The stage progress updates as activities are completed. A checkmark inside the playbook header indicates that the stage is complete.
 
-    ![Stage status complete and in progress](../image/playbook-stage-progress.png)
+    ![Stage status complete and in progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stage-progress.png)
 
-    Use the stage filter \(![Playbook filter icon](../image/playbook-hr-filter-icon.png)\) to filter a playbook.
+    Use the stage filter \(![Playbook filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-hr-filter-icon.png)\) to filter a playbook.
 
-    ![stage filter selections](../image/playbook-stage-filter.png)
+    ![stage filter selections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-stage-filter.png)
 
-    Use the ellipses action menu icon \(![Playbook action menu icon](../image/playbook-ellipses.png)\) to perform select actions at the playbook and stage level.
+    Use the ellipses action menu icon \(![Playbook action menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-ellipses.png)\) to perform select actions at the playbook and stage level.
 
-    ![Playbook action menu at playbook level](../image/playbook-ellipses-menu.png)
+    ![Playbook action menu at playbook level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-ellipses-menu.png)
 
 -   **Activity cards**
 
-    Playbook activity cards display details about an activity, which may include the status, SLA timer, form data, and attachments. Use playbook activity cards to complete tasks by filling in forms, completing checklists, and adding attachments.![Playbook activity cards](../image/playbook-activity-cards.png)
+    Playbook activity cards display details about an activity, which may include the status, SLA timer, form data, and attachments. Use playbook activity cards to complete tasks by filling in forms, completing checklists, and adding attachments.![Playbook activity cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/playbook-activity-cards.png)
 
 
-**Parent Topic:**[Running Playbooks](playbook-agents-and-fulfillers.md)
+**Parent Topic:**[Running Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/playbook-agents-and-fulfillers.md)
 

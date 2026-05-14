@@ -15,7 +15,7 @@ Use the Social Benefits Playbook Eligibility Rules Engine, powered by Policy as 
 
 You can define and manage your eligibility rules engine policies in a single management console, the Policy Management Home in CSM Configurable Workspace.
 
-![Admin view of Policy Home on CSM Configurable Workspace](../image/psds_sbp_policy_home.png)
+![Admin view of Policy Home on CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds_sbp_policy_home.png)
 
 Here, you can:
 
@@ -223,7 +223,7 @@ Value to enter text. Select the Data picker icon to concatenate multiple text st
 
 ### Result
 
-An eligibility policy is now created, and is ready to be mapped to one of more benefits models of the Social Benefits Playbook. See [Map an PaCE eligibility policy to a benefit model using Social Benefits Playbook Eligibility Framework](psds-sbp-ef-configure-eligibility.md#) for information on how to map the published policy to a specific benefit.
+An eligibility policy is now created, and is ready to be mapped to one of more benefits models of the Social Benefits Playbook. See [Map an PaCE eligibility policy to a benefit model using Social Benefits Playbook Eligibility Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-sbp-ef-configure-eligibility.md#) for information on how to map the published policy to a specific benefit.
 
 ## Map an PaCE eligibility policy to a benefit model using Social Benefits Playbook Eligibility Framework
 
@@ -336,7 +336,7 @@ Role required: admin
 
 4.  Update the value or condition you wish to change, or add a new piece of logic to the eligibility policy.
 
-5.  Select the Test Playground icon ![test playground icon](../image/test-playground-icon.png) in the contextual side panel to test the policy.
+5.  Select the Test Playground icon ![test playground icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/test-playground-icon.png) in the contextual side panel to test the policy.
 
 6.  Select the parameters of the policy logic and select **Run Test**.
 

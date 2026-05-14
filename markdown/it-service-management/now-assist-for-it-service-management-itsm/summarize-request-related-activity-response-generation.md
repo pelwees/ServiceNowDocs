@@ -28,7 +28,7 @@ Activity response generation for Request Management involves individual skills u
 -   Requested items
 -   Catalog tasks
 
-These Request Management activity response generation skills provide you with responses in work notes or comments. These responses are generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+These Request Management activity response generation skills provide you with responses in work notes or comments. These responses are generated from the information entered in the corresponding record fields. For more information about which fields are referenced, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ These Request Management activity response generation skills provide you with re
 
 2.  Do the following in the **Work notes** or **Comments** field:
 
-    1.  Select the Now Assist icon \(![Sparkle icon](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\).
+    1.  Select the Now Assist icon \(![Sparkle icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\).
 
         The following four options appear:
 

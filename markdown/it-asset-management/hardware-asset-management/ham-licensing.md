@@ -20,7 +20,7 @@ Only the resource categories that are opted in are counted toward the Subscripti
 
 **Note:** By default for a particular resource category, the normalization functions for its associated models and the asset actions for its associated assets don't work. If you want to use the normalization functions and asset actions, you have to opt in that resource category.
 
-For more information about opting in or out of the HAM license resource categories, see [Opt-in or opt-out of HAM license resource categories](../task/optin-optout-ham-license-resource-categories.md).
+For more information about opting in or out of the HAM license resource categories, see [Opt-in or opt-out of HAM license resource categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/optin-optout-ham-license-resource-categories.md).
 
 Based on the usage of model categories, the ServiceNow HAM license is divided into resource categories. There are different types of resource categories. Different assets fall under different categories as well. Make sure you opt in the correct and required categories. An asset represented in the Asset \[alm\_asset\] table and which meets the criteria for each managed IT resource type such as Server, End User Computers, Network Gear, and Mobile Device, is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
 
@@ -188,7 +188,7 @@ HAM provides some model categories out-of-the-box. Any model category that you c
 
 You can enable HAM licensing for custom model categories by using the **sn\_hamp.enable\_custom\_category\_licensing** system property. By default, the value of this system property is set to **false**. When you set the **sn\_hamp.enable\_custom\_category\_licensing** system property to **true**, custom model category assets are excluded from HAM workflows unless the parent of the custom model category is an opted-in and licensable category.
 
-![Model category hierarchy](../image/ham-licensing-custom.png "Example for hierarchy of model categories")
+![Model category hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/ham-licensing-custom.png "Example for hierarchy of model categories")
 
 In the example, the Computer model category is associated with the custom model categories Laptop and Tablet. Note the following about the custom model categories:
 
@@ -210,12 +210,12 @@ Assets with the following model categories are excluded from accessing Hardware 
 
 -   Any other custom model category without a parent category.
 
-**Parent Topic:**[Hardware Asset Management subscription](ham-subscription.md)
+**Parent Topic:**[Hardware Asset Management subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-subscription.md)
 
 **Related topics**  
 
 
-[Licensing framework for Hardware Asset Management solutions](licensing-ham-solutions.md)
+[Licensing framework for Hardware Asset Management solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/licensing-ham-solutions.md)
 
-[Hardware Asset Management license exclusion](ham-license-exclusion.md)
+[Hardware Asset Management license exclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md)
 

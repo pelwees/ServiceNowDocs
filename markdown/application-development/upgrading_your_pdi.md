@@ -38,5 +38,5 @@ Upgrading your instance may take a couple of hours to complete. Do not run the u
 
 You will receive an email when the upgrade is complete.
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

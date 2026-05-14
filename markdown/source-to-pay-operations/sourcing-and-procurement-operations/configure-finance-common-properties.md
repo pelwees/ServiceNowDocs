@@ -37,5 +37,5 @@ Role required: sn\_fin.finance\_admin
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Properties installed with Finance Common Architecture](../reference/properties-for-finance-common.md)
+**Parent Topic:**[Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/properties-for-finance-common.md)
 

@@ -30,5 +30,5 @@ The following table displays the fields in the tax code form.
 |Active|The status of the tax code.|
 |ERP source|The name of the ERP source for which the tax code is generated.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

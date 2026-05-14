@@ -69,5 +69,5 @@ User or user group to add to the forum user.If you selected **Membership Type** 
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[Create a forum user](add-user.md)
+**Parent Topic:**[Create a forum user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md)
 

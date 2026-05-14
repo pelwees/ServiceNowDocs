@@ -31,12 +31,12 @@ Role required: Impact admin
 
 6.  Edit the user role and access accordingly.
 
-    **Note:** Refer to [Roles installed with Impact](../reference/impact-roles.md) for details on which role to assign to the user for the appropriate access level in Impact.
+    **Note:** Refer to [Roles installed with Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/impact-roles.md) for details on which role to assign to the user for the appropriate access level in Impact.
 
 7.  Select **Confirm**.
 
     -   A confirmation message displays then you are returned to the company users page.
     -   An email will be sent to the user with information on how to log in to Impact.
 
-**Parent Topic:**[Manage Impact Delivery Instance users](ide-user-management.md)
+**Parent Topic:**[Manage Impact Delivery Instance users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/ide-user-management.md)
 

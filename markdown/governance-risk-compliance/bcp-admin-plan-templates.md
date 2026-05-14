@@ -30,23 +30,23 @@ The Business Continuity Management application provides these business continuit
 
 The business continuity plan templates that are installed with demo data are shown in the example.
 
-![Demo data.](../image/bcm-plan-templates.png)
+![Demo data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-plan-templates.png)
 
 See the table for more information on different types of demo data plan templates that you can use in the Business Continuity Management application.
 
 |Name|Primary element recovered|Description|
 |----|-------------------------|-----------|
-|Application DR Plan|Applications|Plan to recover an IT application following a disruptive event. A sample Application DR Plan template is shown in the example.![Application DR Plan template.](../image/application-dr-plan-template.png)|
-|Business Continuity Plan|Business Processes|Plan to continue operations of a core business process or processes during a disruption to workplaces, applications, or critical vendors. A sample Business Continuity Plan template is shown in the example. ![Business Continuity Plan template.](../image/business-continuity-plan-template.png)|
-|Datacenter Recovery Plan|Datacenters|Plan to recover a datacenter following a natural disaster or significant event that impacts the availability of a datacenter. A sample Datacenter Recovery Plan template is shown in the example.![Datacenter Recovery Plan template.](../image/datacenter-recovery-plan-template.png)|
-|Workplace Recovery Plan|Locations|Plan to recover a workplace in the event that one of them becomes unusable or uninhabitable. A sample Workplace Recovery Plan template is shown in the example.![Workplace Recovery Plan template.](../image/workplace-recovery-plan-template.png)|
+|Application DR Plan|Applications|Plan to recover an IT application following a disruptive event. A sample Application DR Plan template is shown in the example.![Application DR Plan template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/application-dr-plan-template.png)|
+|Business Continuity Plan|Business Processes|Plan to continue operations of a core business process or processes during a disruption to workplaces, applications, or critical vendors. A sample Business Continuity Plan template is shown in the example. ![Business Continuity Plan template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/business-continuity-plan-template.png)|
+|Datacenter Recovery Plan|Datacenters|Plan to recover a datacenter following a natural disaster or significant event that impacts the availability of a datacenter. A sample Datacenter Recovery Plan template is shown in the example.![Datacenter Recovery Plan template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/datacenter-recovery-plan-template.png)|
+|Workplace Recovery Plan|Locations|Plan to recover a workplace in the event that one of them becomes unusable or uninhabitable. A sample Workplace Recovery Plan template is shown in the example.![Workplace Recovery Plan template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/workplace-recovery-plan-template.png)|
 
 ## Creating a plan template for your business requirement
 
-Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [Configure the business continuity plan template](../task/configure-a-bcp-template-uib-ws.md).
+Instead of using the demo data templates, you can create a template for your specific requirement. For more information on creating a plan template for your business requirement, see [Configure the business continuity plan template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-a-bcp-template-uib-ws.md).
 
--   **[Configure the business continuity plan template](../task/configure-a-bcp-template-uib-ws.md)**  
+-   **[Configure the business continuity plan template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/configure-a-bcp-template-uib-ws.md)**  
 Configure the business continuity plan template in the Business Continuity Management application for your business. You can use the plan template to recover a specific primary element such as Employees or Web Servers. Similarly, you can create a plan template for different plan authoring types such as documentation, loss scenarios, and recovery tasks.
 
-**Parent Topic:**[Setup for a business continuity plan](bcp-admin-tasks.md)
+**Parent Topic:**[Setup for a business continuity plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-tasks.md)
 

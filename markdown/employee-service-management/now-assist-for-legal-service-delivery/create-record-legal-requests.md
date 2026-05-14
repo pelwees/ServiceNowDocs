@@ -96,9 +96,9 @@ Name of the application to which the semantic index belongs.The **Application** 
 
 The data from the legal request tables are indexed for AI Search according to the semantic index settings.
 
-![Configure semantic index record to determine how AI Search indexes content from the legal request tables.](../image/lsd-agentic-add-semantic-record.png "Semantic index record")
+![Configure semantic index record to determine how AI Search indexes content from the legal request tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/lsd-agentic-add-semantic-record.png "Semantic index record")
 
 ## What to do next
 
-Add fields to the semantic index record by selecting **body**. For more information, see [Add fields to the semantic index for legal records](add-field-legal-requests.md).
+Add fields to the semantic index record by selecting **body**. For more information, see [Add fields to the semantic index for legal records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/add-field-legal-requests.md).
 

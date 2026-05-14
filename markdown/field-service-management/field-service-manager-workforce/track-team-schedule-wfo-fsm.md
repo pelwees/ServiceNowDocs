@@ -35,7 +35,7 @@ Using the calendar, you can do the following:
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  Modify an agent's shift times.
 
@@ -45,13 +45,13 @@ Using the calendar, you can do the following:
 
         **Note:** Note: To avoid delays in loading events, as well as other processes that utilize a caching mechanism through an event queue, see [Custom queues to process events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/useful-server-side-scripts.md).
 
-    2.  In the shift pop-up window, click the Edit icon \(![Edit icon.](../image/EditWidgetButton.png)\).
+    2.  In the shift pop-up window, click the Edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/EditWidgetButton.png)\).
     3.  Modify the agent's shift time.
 
         **Note:** If the existing shift has a break, you can add more breaks to the shift.
 
     4.  Click **Save**.
-    The following snapshot displays the time worked summary for a selected agent.![Manager Workspace Team Calendar showing several agent schedules organized by hours in the day.](../../workforce-optimization-for-customer-service-configurable/image/team_calendar_new.png)
+    The following snapshot displays the time worked summary for a selected agent.![Manager Workspace Team Calendar showing several agent schedules organized by hours in the day.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/team_calendar_new.png)
 
 4.  Approve or reject an agent's time off or shift-swap with another agent.
 

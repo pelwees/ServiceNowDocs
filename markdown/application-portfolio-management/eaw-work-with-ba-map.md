@@ -13,10 +13,10 @@ breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterp
 
 Model your business application hierarchy using the Enterprise Modeling and Visualization. Update an existing business hierarchy map by adding more shapes and relationships.
 
--   **[Create diagram for a business hierarchy map](../../task/eaw-task/eaw-modeling-ba-map.md)**  
+-   **[Create diagram for a business hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-ba-map.md)**  
 Create and model your business application hierarchy map using the Enterprise Modeling and Visualization.
--   **[Update a business application hierarchy map](../../task/eaw-task/eaw-modeling-update-ba-map.md)**  
+-   **[Update a business application hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-update-ba-map.md)**  
 Modify an existing business application hierarchy map by adding or removing shapes and relationships.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-ent-model-and-visual.md)
 

@@ -1100,5 +1100,5 @@ cmdb.unscheduled.change
 </td></tr></tbody>
 </table>**Note:**
 
-**Parent Topic:**[Create an email notification](../../notification/task/t_CreateANotification.md)
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/task/t_CreateANotification.md)
 

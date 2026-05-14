@@ -25,7 +25,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Azure service principal**
 
-    Verify the Azure service principal is configured. For more information, see [Discovery for Microsoft Azure](../../discovery/concept/azure-cloud-discovery.md)
+    Verify the Azure service principal is configured. For more information, see [Discovery for Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/azure-cloud-discovery.md)
 
 -   **Privileges**
 
@@ -45,7 +45,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a Cloud Discovery schedule**
 
-    Create a schedule for the relevant Azure service account as described in [Create Discovery schedules for cloud resources](../../discovery/concept/discovery-manager.md#)
+    Create a schedule for the relevant Azure service account as described in [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/discovery-manager.md#)
 
 -   **Fine-tune Azure inventory discovery using the Resource Inclusion List**
 
@@ -85,9 +85,9 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     5.  For the referenced field, select **Configuration Item**.
     6.  For the criterion attributes, add **Key** and **Value**.
 
-        You may need to click the lock icon ![Lock icon](../../event-management/image/lock-icon.png) to view and change the criterion attributes.
+        You may need to click the lock icon ![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../event-management/image/lock-icon.png) to view and change the criterion attributes.
 
-    ![Related entry form](../image/related-entry.png)
+    ![Related entry form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/related-entry.png)
 
 
 ## Data collected by Discovery during horizontal discovery
@@ -132,7 +132,7 @@ Hosted on:Hosts
 Azure datacenter \[cmdb\_ci\_azure\_datacenter\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
+</table>**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
 **Related topics**  
 

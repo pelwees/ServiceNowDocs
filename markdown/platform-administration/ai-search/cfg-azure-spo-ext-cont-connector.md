@@ -26,7 +26,7 @@ You need the following credentials and permissions for your organization in the 
 -   Permission to grant admin consent for an application's API permissions
 -   Permission to upload certificates for an application
 
-You must have created a public/private key pair for the Microsoft SharePoint Online external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft SharePoint Online external content connector](gen-cert-spo-ext-cont-connector.md).
+You must have created a public/private key pair for the Microsoft SharePoint Online external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/gen-cert-spo-ext-cont-connector.md).
 
 Role required: none
 
@@ -48,7 +48,7 @@ To enable the connector to access your Microsoft SharePoint Online source system
 
     3.  On the App registrations page, select **New registration**.
 
-        ![App registrations page in Microsoft Entra admin center with New registration link.](../image/ms-entra-home-app-registrations.png)
+        ![App registrations page in Microsoft Entra admin center with New registration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-home-app-registrations.png)
 
     4.  On the Register an application form, fill in the following fields:
 
@@ -58,7 +58,7 @@ To enable the connector to access your Microsoft SharePoint Online source system
         |Supported account types|Select **Accounts in this organizational directory only \(&lt;instance-name&gt; only - Single tenant\)**, where `<instance-name>` is the name of your Microsoft Entra instance.|
         |Redirect URI \(optional\)|Leave this field empty.|
 
-        ![Register an application dialog box in Microsoft Entra admin center.](../image/ms-sharepoint-online-entra-register-application.png)
+        ![Register an application dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-register-application.png)
 
     5.  Select **Register**.
 
@@ -66,7 +66,7 @@ To enable the connector to access your Microsoft SharePoint Online source system
 
 2.  Record the values of the **Application \(client\) ID** and **Directory \(tenant\) ID** properties in a secure location.
 
-    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](../image/ms-sharepoint-online-entra-app-overview.png)
+    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-app-overview.png)
 
     **Important:** Your connector admin needs the application's tenant and client IDs to configure a Microsoft SharePoint Online external content connector.
 
@@ -74,11 +74,11 @@ To enable the connector to access your Microsoft SharePoint Online source system
 
     1.  In the application menu, select **Manage** &gt; **API permissions**.
 
-        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](../image/ms-sharepoint-online-entra-api-permissions-before.png)
+        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-api-permissions-before.png)
 
     2.  Select **Add a permission**, then select **Microsoft Graph**, then select **Application permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](../image/ms-entra-request-api-permissions-ms-graph.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-ms-graph.png)
 
     3.  For each of the following permissions, enter the permission name into the **Select permissions** search field, then locate and select the option for the permission.
 
@@ -104,7 +104,7 @@ Sites.Read.All
 
 </td><td>
 
-The connector needs this permission to perform automatic site discovery for crawl configuration and one-time crawls.**Note:** If you plan to specify the sites to crawl manually, don't select this permission. For more information on specifying sites for the connector to crawl, see [Configure crawl settings for a Microsoft SharePoint Online external content connector](configure-crawl-settings-spo-ext-cont-connector.md). To learn more about one-time crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md) and [Create a user permission crawl for an external content connector](create-user-mapping-crawl-external-content-connector.md).
+The connector needs this permission to perform automatic site discovery for crawl configuration and one-time crawls.**Note:** If you plan to specify the sites to crawl manually, don't select this permission. For more information on specifying sites for the connector to crawl, see [Configure crawl settings for a Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-crawl-settings-spo-ext-cont-connector.md). To learn more about one-time crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md) and [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-user-mapping-crawl-external-content-connector.md).
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
     5.  Select **Add a permission**, then select **SharePoint**, then select **Application permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing SharePoint tile.](../image/ms-entra-request-api-permissions-sharepoint.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing SharePoint tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-sharepoint.png)
 
     6.  In the **Select permissions** search field, enter either `Sites.FullControl.All` or `Sites.Selected`, then locate and select the option for the specified permission.
 
@@ -131,15 +131,15 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
         Select the `Sites.FullControl.All` permission if your organization allows it. This option requires no additional configuration beyond the steps provided in this procedure.
 
-        If your organization does not permit you to grant Sites.FullControl.All permission to a registered application, you can select the `Sites.Selected` permission instead. When you use this permission, a source system administrator must grant FullControl permissions to your registered Microsoft Entra OAuth 2.0 app for each site or site collection that you want the Microsoft SharePoint Online external content connector to be able to crawl. To learn how to grant the app FullControl permissions for individual sites and site collections, see [Configure site and site collection access for the Microsoft SharePoint Online external content connector](configure-site-collection-access-spo-external-content-connector.md).
+        If your organization does not permit you to grant Sites.FullControl.All permission to a registered application, you can select the `Sites.Selected` permission instead. When you use this permission, a source system administrator must grant FullControl permissions to your registered Microsoft Entra OAuth 2.0 app for each site or site collection that you want the Microsoft SharePoint Online external content connector to be able to crawl. To learn how to grant the app FullControl permissions for individual sites and site collections, see [Configure site and site collection access for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-site-collection-access-spo-external-content-connector.md).
 
     7.  Select **Add permissions**.
 
         The new SharePoint permission appears in the application's Configured permissions list.
 
-    ![Application's API permissions list in Microsoft Entra admin center showing Microsoft Graph API permissions and Sites.FullControl.All SharePoint API permission added.](../image/ms-sharepoint-online-entra-api-permissions-grant-consent.png)
+    ![Application's API permissions list in Microsoft Entra admin center showing Microsoft Graph API permissions and Sites.FullControl.All SharePoint API permission added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-api-permissions-grant-consent.png)
 
-    **Tip:** The SharePoint section of your application's API permissions list will show the entry for the SharePoint API permission that you selected in step [3.f](cfg-azure-spo-ext-cont-connector.md#add-sharepoint-api-permissions-substep). The images in this procedure show the Sites.FullControl.All permission, but your application may show the Sites.Selected permission instead.
+    **Tip:** The SharePoint section of your application's API permissions list will show the entry for the SharePoint API permission that you selected in step [3.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-azure-spo-ext-cont-connector.md#add-sharepoint-api-permissions-substep). The images in this procedure show the Sites.FullControl.All permission, but your application may show the Sites.Selected permission instead.
 
 4.  Grant admin consent for the added API permissions.
 
@@ -147,7 +147,7 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
     2.  In the Grant admin consent confirmation dialog box, select **Yes**.
 
-        ![Application's API permissions list in Microsoft Entra admin center showing admin consent granted for added Microsoft Graph API permissions and Sites.FullControl.All SharePoint API permission.](../image/ms-sharepoint-online-entra-api-permissions-after.png)
+        ![Application's API permissions list in Microsoft Entra admin center showing admin consent granted for added Microsoft Graph API permissions and Sites.FullControl.All SharePoint API permission.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-api-permissions-after.png)
 
     The status for the added API permissions changes to `Granted for <instance-name>`, where `<instance-name>` is the name of your Microsoft Entra instance.
 
@@ -157,11 +157,11 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
     2.  Select **Certificates**, then select **Upload certificate**.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](../image/ms-sharepoint-online-entra-certificates-secrets-before.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-certificates-secrets-before.png)
 
     3.  Select **Select a file** and locate your DER-encoded binary X.509 format public key certificate file, then enter a description for it.
 
-        ![Upload certificate dialog box in Microsoft Entra admin center.](../image/ms-sharepoint-online-entra-upload-certificate.png)
+        ![Upload certificate dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-upload-certificate.png)
 
     4.  Select **Add**.
 
@@ -171,7 +171,7 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
     5.  Copy the certificate's **Thumbprint** SHA1 hash, shown in hexadecimal format, and record it in a secure location.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](../image/ms-sharepoint-online-entra-certificates-secrets-after.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-sharepoint-online-entra-certificates-secrets-after.png)
 
         **Important:** Your connector admin needs the DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in base64-encoded format to configure the Microsoft SharePoint Online external content connector.
 
@@ -182,16 +182,16 @@ The connector needs this permission to read users from Microsoft Entra ID. User 
 
 ## What to do next
 
-If you granted Sites.Selected permission instead of Sites.FullControl.All permission in step [3.f](cfg-azure-spo-ext-cont-connector.md#add-sharepoint-api-permissions-substep), configure SharePoint API permissions for the site collections you want the Microsoft SharePoint Online connector to be able to crawl. For details on this procedure, see [Configure site and site collection access for the Microsoft SharePoint Online external content connector](configure-site-collection-access-spo-external-content-connector.md).
+If you granted Sites.Selected permission instead of Sites.FullControl.All permission in step [3.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-azure-spo-ext-cont-connector.md#add-sharepoint-api-permissions-substep), configure SharePoint API permissions for the site collections you want the Microsoft SharePoint Online connector to be able to crawl. For details on this procedure, see [Configure site and site collection access for the Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-site-collection-access-spo-external-content-connector.md).
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](cfg-azure-spo-ext-cont-connector.md#client-tenant-ids-step).
--   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](cfg-azure-spo-ext-cont-connector.md#certificate-thumbprint-step).
+-   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-azure-spo-ext-cont-connector.md#client-tenant-ids-step).
+-   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-azure-spo-ext-cont-connector.md#certificate-thumbprint-step).
 
 Your connector admin needs these items to configure a Microsoft SharePoint Online external content connector to retrieve searchable content and security principals from your Microsoft SharePoint Online instance.
 
-For details on creating and configuring a Microsoft SharePoint Online external content connector, see [Create a Microsoft SharePoint Online external content connector](create-ext-cont-connector-mspo.md).
+For details on creating and configuring a Microsoft SharePoint Online external content connector, see [Create a Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-mspo.md).
 
-**Parent Topic:**[Microsoft SharePoint Online external content connector](../concept/microsoft-sharepoint-online-external-content-connector.md)
+**Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-sharepoint-online-external-content-connector.md)
 

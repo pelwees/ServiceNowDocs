@@ -19,8 +19,8 @@ After publishing the scenario, send your scenario for approval to workplace mana
 
 Ensure the following:
 
-1.  [Create a scenario](create-a-scenario.md)
-2.  [Publish a scenario](publish-a-scenario.md)
+1.  [Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md)
+2.  [Publish a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md)
 
 Role required: sn\_wsd\_spcmgmt.space\_planner
 
@@ -38,7 +38,7 @@ After you publish a scenario, send the scenario for approval. The scenario will 
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select **Space Optimization** icon \(![Space optimization icon.](../images/space-optimization-icon.png)\).
+2.  On the left pane, select **Space Optimization** icon \(![Space optimization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-optimization-icon.png)\).
 
     The Space optimization dashboard opens.
 
@@ -87,11 +87,11 @@ The stack plan view of the building opens.
 
 4.  Review the scenario.
 
-    Refer to [Review a scenario](review-a-scenario.md).
+    Refer to [Review a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/review-a-scenario.md).
 
 5.  If the scenario is not published, then publish the scenario.
 
-    Refer to [Publish a scenario](publish-a-scenario.md).
+    Refer to [Publish a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md).
 
 6.  After publishing, click **Send for approval** to send the scenario for approval.
 
@@ -120,7 +120,7 @@ The stack plan view of the building opens.
     -   Approved: If the scenario is approved, then the state of the scenario changes to Approved. You can no longer edit the scenario after it is approved.
 9.  After the scenario is approved, deploy the scenario.
 
-    Refer to [Deploy a scenario](deploy-a-scenoria.md).
+    Refer to [Deploy a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/deploy-a-scenoria.md).
 
 
 ## Result
@@ -129,32 +129,32 @@ The scenario approval process is completed.
 
 ## What to do next
 
-[Deploy a scenario](deploy-a-scenoria.md)
+[Deploy a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/deploy-a-scenoria.md)
 
-**Parent Topic:**[Working with Space Optimization](../concept/working-with-space-optimization.md)
+**Parent Topic:**[Working with Space Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-space-optimization.md)
 
 **Related topics**  
 
 
-[Create a scenario](create-a-scenario.md)
+[Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md)
 
-[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
-[Review a scenario](review-a-scenario.md)
+[Review a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/review-a-scenario.md)
 
-[Publish a scenario](publish-a-scenario.md)
+[Publish a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/publish-a-scenario.md)
 
-[Change owner of a scenario](change-owner-of-a-scenario.md)
+[Change owner of a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/change-owner-of-a-scenario.md)
 
-[Deploy a scenario](deploy-a-scenoria.md)
+[Deploy a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/deploy-a-scenoria.md)
 
-[View scenario change details](view-scenario-change-details.md)
+[View scenario change details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-scenario-change-details.md)
 
-[Create a copy of an existing scenario](create-copy-of-scenario.md)
+[Create a copy of an existing scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-copy-of-scenario.md)
 
-[View or edit space allocations of a building](view-or-edit-space-alloctions-of-a-building.md)
+[View or edit space allocations of a building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-or-edit-space-alloctions-of-a-building.md)
 
-[Work on a space assist request](work-on-space-assist-request.md)
+[Work on a space assist request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-space-assist-request.md)
 
-[Map based space administration](../concept/map-based-space-administration.md)
+[Map based space administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/map-based-space-administration.md)
 

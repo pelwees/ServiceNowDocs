@@ -17,13 +17,13 @@ As an inventory user working in large stockrooms, use the Inventory picking feat
 
 The Inventory picking feature includes adding an Asset pick task in the following Hardware Asset Management workflows:
 
--   [Standard Hardware Asset Request](../task/hardware-request-flow.md)
--   [Hardware Refresh Request](../task/hardware-asset-refresh.md#)
--   [Sourcing workflow](../../procurement/task/consume-local-asset-stock.md)
+-   [Standard Hardware Asset Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/hardware-request-flow.md)
+-   [Hardware Refresh Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/hardware-asset-refresh.md#)
+-   [Sourcing workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../../procurement/task/consume-local-asset-stock.md)
 
-**Note:** The Asset pick task is available only if it’s enabled explicitly for a stockroom that's used to source asset requests, refresh requests, or sourcing requests. For details, see [Enable the Asset pick task for your stockroom in the Hardware Asset Workspace](../task/enable-pick-task-for-stockroom-ham.md).
+**Note:** The Asset pick task is available only if it’s enabled explicitly for a stockroom that's used to source asset requests, refresh requests, or sourcing requests. For details, see [Enable the Asset pick task for your stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/enable-pick-task-for-stockroom-ham.md).
 
 The Asset pick task enables you to pick the assets from any aisle and space within your stockroom. You can then drop the asset that you picked to a specified place within the stockroom. After you complete the Asset pick task, asset technicians can pick up the assets to fulfill the requests assigned to them.
 
-For more information on the Asset pick task, see [Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md) and [Manage hardware asset pick tasks using the Mobile Agent application](manage-asset-pick-task-ham-mobile-app.md).
+For more information on the Asset pick task, see [Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-picking-stockroom-ham-ws.md) and [Manage hardware asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-pick-task-ham-mobile-app.md).
 

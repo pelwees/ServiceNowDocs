@@ -15,23 +15,23 @@ The Configurable Workspace UI provides a suite of tools in a single, focused wor
 
 <table id="configurable-workspace-navigation" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Configurable Workspace concepts and features.](../../workspace/concept/learn-about-agent-workspace.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Configurable Workspace concepts and features.](../../workspace/concept/learn-about-agent-workspace.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up your Configurable Workspace environments, tools, and access.](c_set-up-configurable-workspace.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up your Configurable Workspace environments, tools, and access.](c_set-up-configurable-workspace.md)
 
 </td><td>
 
-[Administer![Administer navigation card](../../../reuse/icons/brand-icons/bus-it-leader.svg)Manage and customize your Configurable Workspace.](administering-configurable-workspace.md)
+[Administer![Administer navigation card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-it-leader.svg)Manage and customize your Configurable Workspace.](administering-configurable-workspace.md)
 
 </td></tr><tr><td>
 
-[Work![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use your Configurable Workspace to answer customer questions and resolve issues.](../../../get-started/servicenow-overview/concept/working-in-your-workspace.md)
+[Work![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use your Configurable Workspace to answer customer questions and resolve issues.](../../../get-started/servicenow-overview/concept/working-in-your-workspace.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about the Configurable Workspace.](../../workspace/reference/configurable-workspace-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about the Configurable Workspace.](../../workspace/reference/configurable-workspace-reference.md)
 
 </td><td>
 

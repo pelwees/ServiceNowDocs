@@ -21,17 +21,17 @@ You can install the following applications from store.
 
 Follow the guidance to get started with Employee Slate.
 
--   Review the prerequisites from [Before you start with Employee Slate](eslate-prereqs-useful-info.md)
--   Understand the complete setup flow as explained in [Get started with Employee Slate](eslate-getting-started-employee-slate.md)
--   Go to Product Hub page from an existing ServiceNow instance or a provisioned Moveworks instance and [Configure branding and theme](../task/eslate-config-admin-console.md)
+-   Review the prerequisites from [Before you start with Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-prereqs-useful-info.md)
+-   Understand the complete setup flow as explained in [Get started with Employee Slate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/eslate-getting-started-employee-slate.md)
+-   Go to Product Hub page from an existing ServiceNow instance or a provisioned Moveworks instance and [Configure branding and theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../task/eslate-config-admin-console.md)
 -   Access and install the associated plugins and review the links to documentation and other resources.
 
 **Related topics**  
 
 
-[Employee Slate for Moveworks](employee-slate-moveworks.md)
+[Employee Slate for Moveworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-moveworks.md)
 
-[Employee Slate for Now Assist](employee-slate-nowassist.md)
+[Employee Slate for Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-nowassist.md)
 
-[Employee Slate Advanced](employee-slate-advanced.md)
+[Employee Slate Advanced](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-slate-advanced.md)
 

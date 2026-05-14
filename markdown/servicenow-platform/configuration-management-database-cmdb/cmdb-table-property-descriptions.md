@@ -17,15 +17,15 @@ Attributes in the Configuration Item \[cmdb\_ci\] class, which extends the Base 
 
 **Warning:** Do not modify any of these attributes in the dictionary. For example, do not modify the type of the **location** attribute from reference to list. Such modifications may prevent features that use the CMDB, from functioning properly.
 
-For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](cmdb-tables-details.md).
+For descriptions of common CMDB tables in a base system, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-tables-details.md).
 
 ## Common core, user tables
 
-![Common core, user tables.](../image/CriticalCommonCoreUserTables.png)
+![Common core, user tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/CriticalCommonCoreUserTables.png)
 
 ## CMDB CI schema related to common core and non-core tables
 
-![CMDB CI schema related to common core and other tables.](../image/CISchemaModel.png)
+![CMDB CI schema related to common core and other tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/CISchemaModel.png)
 
 ## Attributes
 

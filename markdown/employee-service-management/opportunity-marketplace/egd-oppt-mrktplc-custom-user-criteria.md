@@ -19,5 +19,5 @@ User criteria records are contained in the **Opportunity** \[sn\_opp\_market\_op
 
 **Note:** When you create user criteria records from an application, the **Application** field shows the associated app.
 
-**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](egd-oppt-mrktplc-custom-oppt-type.md)
+**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-type.md)
 

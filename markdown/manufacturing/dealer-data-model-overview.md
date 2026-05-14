@@ -17,10 +17,10 @@ The dealer portal provides you with a wide range of benefits such as claims mana
 
 The following diagram shows the entities and their relationships within the Dealer application.
 
-![Decorative](../image/Data-model-dealer.png "Dealer data model")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/Data-model-dealer.png "Dealer data model")
 
--   **[Dealer tables](dealer-tables.md)**  
+-   **[Dealer tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/dealer-tables.md)**  
 This section explains the dealer tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[Data model](data-model.md)
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 

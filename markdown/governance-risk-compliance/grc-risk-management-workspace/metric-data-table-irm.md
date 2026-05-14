@@ -15,7 +15,7 @@ breadcrumb: [Explore, GRC: Metrics in Integrated Risk Management, Risk Managemen
 
 The metric data table enables data collection for metrics across the organization using an easy-to-use interface like a spreadsheet with multiple filters and a task management workflow.
 
-As a data owner, you can access the metric data table \(![Metric data table.](../../esg-management-reporting/images/metric-tasks.png)\) and complete the tasks assigned to you. The following image shows the metric data table interface. ![Metric data table displaying all open tasks and filters.](../images/metric-data-table-irm.png)
+As a data owner, you can access the metric data table \(![Metric data table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../esg-management-reporting/images/metric-tasks.png)\) and complete the tasks assigned to you. The following image shows the metric data table interface. ![Metric data table displaying all open tasks and filters.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../images/metric-data-table-irm.png)
 
 The metric data table offers the following benefits:
 

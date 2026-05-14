@@ -19,7 +19,7 @@ Install the AI Data Explorer application from the ServiceNow® Store. The correc
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
-The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](enable-query-generation.md).
+The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md).
 
 Role required: now\_assist\_explorer\_admin or higher
 
@@ -37,7 +37,7 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
 
 4.  In Now Assist skills for Analytics, search for the analytics exploration skill.
 
-    ![Now Assist Skills tab of Now Assist Admin console, showing the skills for AI Data Explorer under Analytics.](../image/nowass-expl-skills.png)
+    ![Now Assist Skills tab of Now Assist Admin console, showing the skills for AI Data Explorer under Analytics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-skills.png)
 
 5.  Select **Activate skill**.
 
@@ -45,7 +45,7 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
 
     1.  In the **Advanced analysis** page, you can activate record-level analysis and set which tables it applies to.
 
-        For more information, see [Configure record level analysis in AI Data Explorer](record-level-analysis.md).
+        For more information, see [Configure record level analysis in AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/record-level-analysis.md).
 
     2.  Select **Save and continue**.
 
@@ -59,7 +59,7 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
 
     **Note:** You can come back later and edit the settings for this or any other skill.
 
-    ![Tile for the Analytics exploration skill showing the Edit button.](../image/ai-data-expl-edit-skill.png)
+    ![Tile for the Analytics exploration skill showing the Edit button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/ai-data-expl-edit-skill.png)
 
 7.  To enable users to generate recommendations based on the findings in their exploration, turn on the exploration action recommendation skill.
 
@@ -86,5 +86,5 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
     4.  Browse the review and select **Activate**.
 
 
-**Parent Topic:**[Configure AI Data Explorer](../concept/configure-now-ass-explorer.md)
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configure-now-ass-explorer.md)
 

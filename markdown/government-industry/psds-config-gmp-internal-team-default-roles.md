@@ -31,7 +31,7 @@ Role required: admin
 
 6.  Select the lock icon to add roles to the Read or Write access fields.
 
-    ![access field addition](../image/psds-gmp-readwriteaccess.png)
+    ![access field addition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-gmp-readwriteaccess.png)
 
 7.  Add roles under the **Read Resource Roles** field to grant read access to those roles, and roles under the **Write Resource Roles** fields to grant write access to those roles.
 

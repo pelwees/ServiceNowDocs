@@ -39,7 +39,7 @@ As an example, in the base system the **Short description** field is the default
 
 4.  On the form, fill in the fields.
 
-    ![Define a new search field on the Search Field form.](../image/multiple-search-fields.png "Search Field form")
+    ![Define a new search field on the Search Field form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/multiple-search-fields.png "Search Field form")
 
 <table id="table_pzx_c3q_dhb"><thead><tr><th>
 
@@ -78,12 +78,12 @@ Order in which the field appears in the search fields list. If there are multipl
 
     The new search field appears in the table configuration record's Search Fields related list.
 
-    ![Search Fields related list showing two search fields.](../image/multiple-search-fields-2.png)
+    ![Search Fields related list showing two search fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../image/multiple-search-fields-2.png)
 
 
 ## What to do next
 
 Use the **Default** column to set one search field as the default search field.
 
-**Parent Topic:**[Managing contextual search](../concept/working-with-contextual-search.md)
+**Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/../concept/working-with-contextual-search.md)
 

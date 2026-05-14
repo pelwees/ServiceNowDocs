@@ -19,7 +19,7 @@ The Organization Chart widget shows employees in a tree structure relative to th
 
 In the text input field, enter or select a user to see their manager and subordinates. The widget uses information from the User \[sys\_user\] record to display the organization hierarchy relative to the selected user.
 
-![Organization Chart widget with David Loo selected and Bud Richman showing in the chart as David's manager. David is Alissa's manager.](../image/WidgetOrgChart.png)
+![Organization Chart widget with David Loo selected and Bud Richman showing in the chart as David's manager. David is Alissa's manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetOrgChart.png)
 
 Click a card to open the profile page for that user. To reconfigure the card link, change the **URL** or **Page** in the widget instance options.
 
@@ -72,7 +72,7 @@ User Background Color
 
 Color of the user card. Use color names or Hex codes. For example, you can enter `red` or `#ff0000`.
 
- ![User background color is red](../image/user-background-color.png)
+ ![User background color is red](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/user-background-color.png)
 
  The user background color is **lightblue** by default.
 
@@ -84,7 +84,7 @@ Node Background Color
 
 Color of cards that extend from the user card. Use color names or Hex codes. For example, you can enter `yellow` or `#ffff00`.
 
- ![Node background color is yellow](../image/node-background-color.png)
+ ![Node background color is yellow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/node-background-color.png)
 
  The node background color is **azure** by default.
 
@@ -165,14 +165,14 @@ Portal page that opens when you click a card. Use the page ID.
  **Note:** The **URL** field overwrites the **Page** field. To specify a page rather than a URL, leave the **URL** field blank.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Example widgets](sp-example-widgets.md)
+</table>**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

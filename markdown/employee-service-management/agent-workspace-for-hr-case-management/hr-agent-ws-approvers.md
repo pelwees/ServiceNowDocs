@@ -15,7 +15,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 HR cases can be set up to require approvals before it can progress to completion.
 
-The HR service configures actions related to approvals. For more information on HR service configuration, see [Configure an HR service](../task/configure-hr-service.md).
+The HR service configures actions related to approvals. For more information on HR service configuration, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-hr-service.md).
 
 When a case requires an approver, the request for approval appears in the approver's Employee Center or portal under To-dos.
 
@@ -33,5 +33,5 @@ When an approver is assigned from the case, it is possible that the approver may
 
 When an approver is missing, the following message appears:
 
-![HR Agent Workspace - Missing approvers message](../reference/images/agent-ws-hr-missing-approvers.png)
+![HR Agent Workspace - Missing approvers message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/agent-ws-hr-missing-approvers.png)
 

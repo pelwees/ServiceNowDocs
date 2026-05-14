@@ -84,5 +84,5 @@ Description
 **Related topics**  
 
 
-[Configure an optional activity for a playbook](configure-optional-activity-for-a-case-type-playbook.md)
+[Configure an optional activity for a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-optional-activity-for-a-case-type-playbook.md)
 

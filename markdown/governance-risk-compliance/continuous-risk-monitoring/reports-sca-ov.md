@@ -25,7 +25,7 @@ Users with the following roles can access the dashboard:
 
 To open the dashboard, navigate to **All** &gt; **Continuous Authorization &amp; Monitoring** &gt; **Analytics Dashboards** &gt; **SCA Overview**.
 
-![SCA Overview dashboard displaying the different reports.](../image/cam-sca-overview.png)
+![SCA Overview dashboard displaying the different reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/cam-sca-overview.png)
 
 ## Reports on the SCA Overview dashboard
 

@@ -23,38 +23,38 @@ Role required: sn\_devops.admin.
 
 1.  From the Home page, from the Get started with DevOps Change Velocity guide, select **Connect a tool**.
 
-    ![Onboarding page for DevOps admins.](../image/onboard-01.png)
+    ![Onboarding page for DevOps admins.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-01.png)
 
     **Note:** To automate change requests for pipelines, connect your orchestration tool.
 
 2.  Using the connect playbook activity, connect to your DevOps tools.
 
-    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md).
+    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integrating-devops-change-with-third-party-tools.md).
 
 3.  Select **Create an application** to create an application and associate objects to it.
 
-    For more information about creating an application, see [Create an application - Workspace](app-create-workspace.md).
+    For more information about creating an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 
-    ![Create an application.](../image/onboard-02.png)
+    ![Create an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-02.png)
 
 4.  To automate change requests for pipelines, connect your orchestration tool and associate the pipelines with your application.
 
-    For more information on associating pipelines, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
+    For more information on associating pipelines, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
 5.  Select **Automate change** to create an automated change request.
 
-    For more information about creating automated change requests, see [Automate DevOps change request creation](automate-devops-change-request.md).
+    For more information about creating automated change requests, see [Automate DevOps change request creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/automate-devops-change-request.md).
 
-    ![Automate change requests.](../image/onboard-03.png)
+    ![Automate change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-03.png)
 
 6.  Modify your orchestration pipeline to enable change control.
 
     You can run the pipeline to verify that change requests are automatically created.
 
-    ![Waiting for change request creation.](../image/onboard-11.png)
+    ![Waiting for change request creation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-11.png)
 
 
-The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for tool owner.](../image/onboard-08.png)
+The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for tool owner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-08.png)
 
 ## Onboard as a tool owner
 
@@ -62,36 +62,36 @@ Role required: sn\_devops.tool\_owner.
 
 1.  From the Home page, from the Get started with DevOps Change Velocity guide, select **Connect a tool**.
 
-    ![Connect a tool.](../image/onboard-04.png)
+    ![Connect a tool.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-04.png)
 
     **Note:** To automate change requests for pipelines, connect your orchestration tool.
 
 2.  Using the connect playbook activity, connect to your DevOps tools.
 
-    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](../concept/integrating-devops-change-with-third-party-tools.md).
+    For more information about connecting to a tool, see [Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/integrating-devops-change-with-third-party-tools.md).
 
 3.  If an application hasn't been created, ask your DevOps admin or app owner to create an application and associate objects to it.
 
-    For more information about creating an application, see [Create an application - Workspace](app-create-workspace.md).
+    For more information about creating an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 
-    ![Ask app owner to connect an application.](../image/onboard-10.png)
+    ![Ask app owner to connect an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-10.png)
 
 4.  To automate change requests for pipelines, connect your orchestration tool and associate the pipelines with your application.
 
-    For more information on associating pipelines, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
+    For more information on associating pipelines, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
 5.  Select **Automate change** to create an automated change request.
 
-    For more information about creating automated change requests, see [Automate DevOps change request creation](automate-devops-change-request.md).
+    For more information about creating automated change requests, see [Automate DevOps change request creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/automate-devops-change-request.md).
 
-    ![Automate change requests.](../image/onboard-05.png)
+    ![Automate change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-05.png)
 
 6.  Modify your orchestration pipeline to enable change control.
 
     You can run the pipeline to verify that change requests are automatically created.
 
 
-The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for tool owner.](../image/onboard-12.png)
+The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for tool owner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-12.png)
 
 ## Onboard as an app owner
 
@@ -99,33 +99,33 @@ Role required: sn\_devops.app\_owner.
 
 1.  Ask your DevOps admin or tool owner to connect to your DevOps tools.
 
-    ![Getting started guide for app owners.](../image/onboard-06.png)
+    ![Getting started guide for app owners.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-06.png)
 
     **Note:** To automate change requests for pipelines, connect your orchestration tool.
 
 2.  Select **Create an application** to create an application and associate objects to it.
 
-    For more information about creating an application, see [Create an application - Workspace](app-create-workspace.md).
+    For more information about creating an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 
-    ![Create an application.](../image/onboard-07.png)
+    ![Create an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-07.png)
 
 3.  To automate change requests for pipelines, ask your DevOps admin or tool owner to connect your orchestration tool.
 4.  Associate the pipelines for which you want to automate change requests with your application.
 
-    For more information, see [Associate tool objects to applications - Workspace](apps-associate-objects-wkspc.md).
+    For more information, see [Associate tool objects to applications - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-wkspc.md).
 
 5.  Select **Automate change** to create an automated change request.
 
-    For more information about creating automated change requests, see [Automate DevOps change request creation](automate-devops-change-request.md).
+    For more information about creating automated change requests, see [Automate DevOps change request creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/automate-devops-change-request.md).
 
-    ![Automate change requests.](../image/onboard-09.png)
+    ![Automate change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-09.png)
 
 6.  Modify your orchestration pipeline to enable change control.
 
     You can run the pipeline to verify that change requests are automatically created.
 
 
-The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for app owner.](../image/onboard-13.png)
+The getting started guide will be marked as complete when the first automated change request is created by the orchestration pipeline.![Completed getting started guide for app owner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/onboard-13.png)
 
 ## Workspace widgets
 
@@ -139,7 +139,7 @@ The getting started guide will be marked as complete when the first automated ch
     -   Number of tools grouped by their capabilities. You can select a capability to see the list of tools created for that capability.
     -   Number of tools grouped by their tool types. You can select an integration type to see the list of tools connections created for that particular tool type.
     -   DevOps admins and tool owners can connect to a tool from the widget.
-    ![Tools widget.](../image/workspace-01.png)
+    ![Tools widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/workspace-01.png)
 
 -   **Applications widget**
 
@@ -151,7 +151,7 @@ The getting started guide will be marked as complete when the first automated ch
     -   Number of tools grouped by their capabilities. You can select a capability to see the list of tools created for that capability.
     -   Number of tools grouped by their tool types. You can select an integration type to see the list of tools connections created for that particular tool type.
     -   DevOps admins and app owners have the option to create an application from the widget.
-    ![Applications widget.](../image/workspace-02.png)
+    ![Applications widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/workspace-02.png)
 
 -   **Automated change requests widget**
 
@@ -162,6 +162,6 @@ The getting started guide will be marked as complete when the first automated ch
     -   Number of pipelines with change control enabled, but hasn't automatically created a change request.
     -   Number of tools grouped by their capabilities. You can select a capability to see the list of tools created for that capability.
     -   Number of tools grouped by their tool types. You can select an integration type to see the list of tools connections created for that particular tool type.
-    ![Automated change requests widget.](../image/workspace-03.png)
+    ![Automated change requests widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/workspace-03.png)
 
 

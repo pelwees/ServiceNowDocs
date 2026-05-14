@@ -17,15 +17,15 @@ Use the ServiceNow®Now Assist for Care Team Operations application to create su
 
 <table id="table_z22_2ph_5hc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore the Now Assist for Care Team Operations application.](exploring-now-assist-hcls.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Explore the Now Assist for Care Team Operations application.](exploring-now-assist-hcls.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure the Now Assist for Care Team Operations application.](configuring-now-assist-hcls.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Learn how to configure the Now Assist for Care Team Operations application.](configuring-now-assist-hcls.md)
 
 </td><td>
 
-[Create support requests![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflow to create support requests in Care Team Mobile or Care Team Portal.](hcls-agentic-ai-use-cases.md)
+[Create support requests![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the agentic workflow to create support requests in Care Team Mobile or Care Team Portal.](hcls-agentic-ai-use-cases.md)
 
 </td></tr></tbody>
 </table>**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).

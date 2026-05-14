@@ -81,7 +81,7 @@ Hint
 
 A short description of the field that displays when a user hovers over it. HTML in field hints isn’t supported, but line breaks are allowed.
 
-![The hint for the Caller field on an Incident.](../image/hint.png)
+![The hint for the Caller field on an Incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/hint.png)
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ This field should be left empty, as it’s no longer used.
 </table>4.  Select **Update**.
 
 
-**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](../../field-administration/concept/customize-fields-now-platform-landing.md)
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../field-administration/concept/customize-fields-now-platform-landing.md)
 
 **Related topics**  
 

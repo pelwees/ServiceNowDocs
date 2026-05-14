@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Replace colors with patterns in charts and graphs accessibility preference.
 
-![Replace colors with patterns in charts and graphs accessibility preference.](../image/coral-pref-colors.png)
+![Replace colors with patterns in charts and graphs accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-colors.png)
 
 The purpose of this preference is to enhance the readability of charts and graphs.
 
@@ -56,13 +56,13 @@ Deactivated
 
 Charts and graphs display patterns such as stripes or dashed lines in addition to or instead of colors.
 
-![A chart with the Replace colors with patterns in charts and graphs preference turned on and using patterns to identify segments.](../image/a11y-pref-replace-charts-on.png)
+![A chart with the Replace colors with patterns in charts and graphs preference turned on and using patterns to identify segments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-replace-charts-on.png)
 
 </td><td>
 
 Charts and graphs rely solely on colors to differentiate segments.
 
-![A colored chart as it would appear with the Replace colors with patterns in charts and graphs preference turned off.](../image/a11y-pref-replace-charts-off.png)
+![A colored chart as it would appear with the Replace colors with patterns in charts and graphs preference turned off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-replace-charts-off.png)
 
 </td></tr></tbody>
 </table>

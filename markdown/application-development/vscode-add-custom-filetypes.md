@@ -37,7 +37,7 @@ Role required: admin
 
     All tags are selected by default. Click a tag's check box to deselect it.
 
-    ![Select tags dialog box](../image/vscode-selecttags.png "Select tags dialog box")
+    ![Select tags dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-selecttags.png "Select tags dialog box")
 
     The new file type is successfully added to the `app.config.json` file. You can also add the desired file types manually to the `app.config.json` file under your project. See the example below.
 
@@ -74,5 +74,5 @@ The following is an example for app.config.json
 -   approver\_script is a name of the table column / xml tag
 -   js is an extension of the file \(js \| html \| css \| json\)
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vs-code.md)
 

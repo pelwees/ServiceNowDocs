@@ -17,7 +17,7 @@ If the UNSPSC classification for any firmware that is embedded into your OT asse
 
 ## Before you begin
 
-**Important:** You can create custom UNSPSC classifications only using the OT Asset Workspace. To use the OT Asset Workspace, install the OT Asset Management application on your ServiceNow instance. See [Install OT Asset Management](install-otam.md) for detailed instructions.
+**Important:** You can create custom UNSPSC classifications only using the OT Asset Workspace. To use the OT Asset Workspace, install the OT Asset Management application on your ServiceNow instance. See [Install OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_admin
 

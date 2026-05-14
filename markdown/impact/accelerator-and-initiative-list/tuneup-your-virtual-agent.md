@@ -15,7 +15,7 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 The TuneUp Your Virtual Agent Accelerators provide guidance for various aspects of Virtual Agent on your ServiceNow platform.
 
--   [TuneUp Your Virtual Agent - Assessment](tuneup-virtual-agent-assessment.md)
--   [TuneUp Your Virtual Agent – NLU \(Natural Language Understanding\)](tuneup-virtual-agent-nlu.md)
--   [TuneUp Your Virtual Agent – Performance Monitoring](tuneup-virtual-agent-performance-monitoring.md)
+-   [TuneUp Your Virtual Agent - Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-assessment.md)
+-   [TuneUp Your Virtual Agent – NLU \(Natural Language Understanding\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-nlu.md)
+-   [TuneUp Your Virtual Agent – Performance Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/tuneup-virtual-agent-performance-monitoring.md)
 

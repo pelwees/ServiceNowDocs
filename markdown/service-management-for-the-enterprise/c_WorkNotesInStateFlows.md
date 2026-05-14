@@ -21,14 +21,14 @@ These rules apply to state flow work notes:
 -   For a state flow with a **Starting state** and an **Ending state**, the work note is added only when the task transitions from that starting state to that ending state.
 -   If two state flows with work notes have the same **Ending state**, but only one has a **Starting state**, the system adds the work notes from the state flow with the starting state. This better matches the state flow work note to the more important transition between specific starting and ending states. In the example here, the work note information is more pertinent to a task moving from **Assigned** to **Pending Dispatch** than to a task that reaches the Pending Dispatch state from an undetermined beginning state.
 
-**Parent Topic:**[State flow customization](c_StateFlowCustomization.md)
+**Parent Topic:**[State flow customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)
 
 **Related topics**  
 
 
-[State flow customization](c_StateFlowCustomization.md)
+[State flow customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)
 
-[Request states](../../planning-and-policy/reference/r_SMRequestStates.md)
+[Request states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestStates.md)
 
-[Request task states](../../planning-and-policy/reference/r_SMRequestTaskStates.md)
+[Request task states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../planning-and-policy/reference/r_SMRequestTaskStates.md)
 

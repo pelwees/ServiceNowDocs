@@ -30,7 +30,7 @@ Role required:
 
     -   **CVEs \(NVD\)**: To modify the severity of a CVE.
     -   **TPEs**: To modify the severity of a TPE.
-3.  Select **Modify severity** from the **More Actions** icon ![ellipsis_icon](../../secops-analyst-workspace/image/ellipsis-icon-workspace.png)
+3.  Select **Modify severity** from the **More Actions** icon ![ellipsis_icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../secops-analyst-workspace/image/ellipsis-icon-workspace.png)
 
 4.  Select the new severity level from the drop-down.
 
@@ -44,5 +44,5 @@ Role required:
     -   The **Modified severity** field appears only when you change the source severity. If you reset it to the original value, the field is removed.
     -   The system will use the **Modified severity** for risk calculations starting from the next scheduled job onwards. If the severity is reset, the original source severity will be applied instead.
 
-**Parent Topic:**[Using Unified Security Exposure Management](../concept/using-unified-security-exposure-management.md)
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/using-unified-security-exposure-management.md)
 

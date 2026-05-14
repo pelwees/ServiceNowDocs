@@ -22,7 +22,7 @@ Create the supporting actions after the integration is done to establish a chann
 
 ## Use Import sets for data configuration
 
-Use import sets to get the job application data, if you don't have an integrated ATS. For more information, see [Upload job applications using import sets](../task/upload-applcatin-with-import-sets.md).
+Use import sets to get the job application data, if you don't have an integrated ATS. For more information, see [Upload job applications using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../task/upload-applcatin-with-import-sets.md).
 
-**Parent Topic:**[Receive application and applicant data from ATS](receive-application-data-ta.md)
+**Parent Topic:**[Receive application and applicant data from ATS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/receive-application-data-ta.md)
 

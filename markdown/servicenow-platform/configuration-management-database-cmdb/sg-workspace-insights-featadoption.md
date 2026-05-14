@@ -75,13 +75,13 @@ Data ingestion contains the following features and aggregations:
 
 -   **CIs processed by IRE**
 
-    Determines the percentage of CIs that are processed by [IRE](c_CMDBIdentifyandReconcile.md), by checking the Source \[sys\_object\_source\] table. CIs that aren't processed by IRE introduce a data integrity risk.
+    Determines the percentage of CIs that are processed by [IRE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md), by checking the Source \[sys\_object\_source\] table. CIs that aren't processed by IRE introduce a data integrity risk.
 
     The percentage of CIs that are being processed by IRE determines both, the level of adoption for this feature card and the overall adoption level for the entire data ingestion category.
 
 -   **Service Graph Connectors**
 
-    Determines the installation and usage status of [Getting started with Service Graph Connectors](cmdb-sgc-intro.md), by checking:
+    Determines the installation and usage status of [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md), by checking:
 
     -   If the ITOM Licensing plugin \(com.snc.itom.license\) is active
     -   If there is at least one Service Graph Connector installed in the instance
@@ -91,7 +91,7 @@ Data ingestion contains the following features and aggregations:
 
 -   **IntegrationHub ETL**
 
-    Determines whether the [IntegrationHub ETL](integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
+    Determines whether the [IntegrationHub ETL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
 
     Select **View ETL transform maps** to open IntegrationHub ETL where you can examine existing ETL transform maps and create new ones.
 
@@ -125,7 +125,7 @@ The overall adoption level for data governance maps to the following findings in
 -   Moderate \(amber\): 33—66% of features are used
 -   High \(green\): Over 66% of features are used
 
-The overall level of adoption of data governance is based on whether [CMDB Data Manager](cmdb-data-management-landing.md) features are used.
+The overall level of adoption of data governance is based on whether [CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management-landing.md) features are used.
 
 -   **CMDB Data Manager/CIs used in Data Manager policies**
 
@@ -139,7 +139,7 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Determines usage by checking if either of the following conditions is true:
 
-    -   There are any user-created [Attestation policies](attesting-cis.md) \(by searching table CMDB Data Manager Policy and Attributes \[cmdb\_data\_manager\_policy\_and\_attributes\]\)
+    -   There are any user-created [Attestation policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/attesting-cis.md) \(by searching table CMDB Data Manager Policy and Attributes \[cmdb\_data\_manager\_policy\_and\_attributes\]\)
     -   There are any CIs processed by these user-created Attestation policies, in the last 90 days \(by searching table CMDB Data Management Policy Executions \[cmdb\_data\_management\_policy\_execution\]\)
     If data attestation is in use, shows a chart with CIs that were processed by attestation policy tasks in the past six months, by month.
 
@@ -147,13 +147,13 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Checks if there is at least one class for which the **managed\_by\_group** attribute is globally set so that all class CIs are synchronized on the same value.
 
-    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](../../csdm-implementation/task/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](../../csdm-implementation/concept/csdm-data-synchronize.md).
+    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../csdm-implementation/task/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../csdm-implementation/concept/csdm-data-synchronize.md).
 
 -   **Principal classes**
 
     Checks if the Principal Class filter is configured with at least one principal class. The Principal Class filter limits the number of CIs that appear in list views, to show only CIs of principal classes. Reducing the amount of data in list views to only relevant data, improves performance and efficiency.
 
-    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](../task/update-principal-class-filter.md).
+    For more information about managing the Principal Class filter in CI Class Manager, see [Update the list of classes in the Principal Class filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/update-principal-class-filter.md).
 
 
 ## CMDB feature adoption: Search &amp; analytics
@@ -168,7 +168,7 @@ Search &amp; analytics contains the following features and aggregations:
 
 -   **CMDB Query Builder/Query Builder queries**
 
-    Determines if the [CMDB Query Builder](querying-cmdb.md) is in use, by checking if either of the following conditions is true:
+    Determines if the [CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/querying-cmdb.md) is in use, by checking if either of the following conditions is true:
 
     -   There are any records in the Saved Queries \[qb\_saved\_query\] table in which **Source** is **QB**
     -   There are any queries executed or queries executed with reports, in the last 90 days
@@ -178,29 +178,29 @@ Search &amp; analytics contains the following features and aggregations:
 
 -   **Intelligent search**
 
-    Determines if [Intelligent Search for CMDB](intelligent-search-cmdb.md) is in use by checking the NLQ Query Logs \[nlq\_query\_log\] table for any records where **source** is **CMDB\_WS**, from the past 90 days. If Intelligent Search is in use, shows counts of Intelligent Search queries for the past six months, by month.
+    Determines if [Intelligent Search for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md) is in use by checking the NLQ Query Logs \[nlq\_query\_log\] table for any records where **source** is **CMDB\_WS**, from the past 90 days. If Intelligent Search is in use, shows counts of Intelligent Search queries for the past six months, by month.
 
 -   **CMDB 360 — Records in Multisource**
 
-    Total number of raw [CMDB 360](multisource-cmdb.md) records in the CMDB 360 data store that contains records for each discovery source report, per each CI attribute. This card is identical to the [Total CMDB 360 records](cmdb360-exp-cmdb-workspace.md) card in the Discovery Sources tile in the CMDB 360 view.
+    Total number of raw [CMDB 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) records in the CMDB 360 data store that contains records for each discovery source report, per each CI attribute. This card is identical to the [Total CMDB 360 records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md) card in the Discovery Sources tile in the CMDB 360 view.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/components-multisource-cmdb.md).
 
 -   **CMDB 360 queries**
 
     Count of CMDB 360 queries that exist in the CMDB Multisource Queries \[cmdb\_multisource\_query\] table.
 
-    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](../reference/components-multisource-cmdb.md).
+    This card appears only if CMDB 360 is enabled, which is determined by checking the ITOM Discovery License \(com.snc.itom.discovery.license\) plugin and the system property [glide.identification\_engine.multisource\_enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/components-multisource-cmdb.md).
 
 -   **CMDB Data Foundation dashboard**
 
-    Determines if the [CMDB and CSDM Data Foundations Dashboards](csdm-cmdb-foundations-dashboards.md) store app \(which includes the CMDB Data Foundation dashboard\) is installed.
+    Determines if the [CMDB and CSDM Data Foundations Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md) store app \(which includes the CMDB Data Foundation dashboard\) is installed.
 
     This card appears only if the store app isn't installed, providing helpful resources for exploration and adoption. However, the feature is still included in calculating the search &amp; analytics overall level of adoption.
 
 -   **CMDB Health Dashboard**
 
-    Determines if [CMDB Health](c_CMDBHealth.md) is in use by checking if at least one CMDB Health Dashboard job is enabled.
+    Determines if [CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md) is in use by checking if at least one CMDB Health Dashboard job is enabled.
 
     This card appears only if the feature isn't in use, providing helpful resources for exploration and adoption. However, the feature is still included in calculating the search &amp; analytics overall level of adoption.
 

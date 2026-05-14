@@ -17,7 +17,7 @@ Save time by duplicate an existing Doc to copy all its pages and content without
 
 ## Before you begin
 
-[Create a Doc in CWM](create-a-doc-in-cwm.md).
+[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-doc-in-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -29,7 +29,7 @@ Role required: sn\_cwm.cwm\_user
 
 3.  From the **More actions** menu of the Doc, select **Duplicate**.
 
-    ![Duplicate a Doc in CWM.](../images/cwm-duplicate-doc.png)
+    ![Duplicate a Doc in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-duplicate-doc.png)
 
 4.  Provide a name for the new Doc in the **Doc name** field.
 
@@ -42,5 +42,5 @@ Role required: sn\_cwm.cwm\_user
 
 The new Doc is added to the same Space as the original Doc. If necessary, you can move it to a different Space or a different position in the same Space.
 
-**Parent Topic:**[Collaborative documentation using CWM](../concept/cwm-docs.md)
+**Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-docs.md)
 

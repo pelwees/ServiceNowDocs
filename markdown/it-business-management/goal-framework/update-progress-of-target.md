@@ -59,19 +59,19 @@ Steps
 </td></tr></tbody>
 </table>2.  On the Target form, update the **Actuals to date** field and add a business justification in the **Remark** field.
 
-    For field information, see [Target form](../reference/target-form.md).
+    For field information, see [Target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/target-form.md).
 
 3.  Click **Update**.
 
 
 ## Result
 
-Once the **Actuals to date** field is updated, the progress value for the target is auto-updated. For information on how the progress value is calculated, see [progress value calculation](../concept/progress-value-calculation.md).
+Once the **Actuals to date** field is updated, the progress value for the target is auto-updated. For information on how the progress value is calculated, see [progress value calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../concept/progress-value-calculation.md).
 
 **Related topics**  
 
 
-[Update the progress of a target using Goal Framework for SPM](update-progress-of-target-agf.md)
+[Update the progress of a target using Goal Framework for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-progress-of-target-agf.md)
 
-[Update the actual value of a target breakdown](update-the-actual-value-of-a-target-breakdown-gf.md)
+[Update the actual value of a target breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-the-actual-value-of-a-target-breakdown-gf.md)
 

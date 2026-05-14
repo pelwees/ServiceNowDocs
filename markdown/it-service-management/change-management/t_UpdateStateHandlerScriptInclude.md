@@ -41,14 +41,14 @@ The ChangeRequestStateHandler script include defines the states available for th
         this.STATE_NAMES["-6"] = ChangeRequestStateHandler.COMPLETE;
         ```
 
-    ![Modified script](../image/NewStateTutUpdScrptIncl1.png)
+    ![Modified script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/NewStateTutUpdScrptIncl1.png)
 
 3.  Click **Update**.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Create an ACL](t_CreateNewACL.md)
+**Previous topic:**[Create an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateNewACL.md)
 
-**Next topic:**[Update the state model script include](t_UpdateStateModelScriptInclude.md)
+**Next topic:**[Update the state model script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_UpdateStateModelScriptInclude.md)
 

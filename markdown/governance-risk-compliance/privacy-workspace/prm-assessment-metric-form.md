@@ -29,5 +29,5 @@ For a description of the fields, see the following table:
 |Description|Purpose of the assessment template and the reason for its creation.|
 |Introduction|Guidance text for business users who respond to the assessment.|
 
-**Parent Topic:**[Create a privacy case assessment template](../task/prm-create-assessment-template.md)
+**Parent Topic:**[Create a privacy case assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../task/prm-create-assessment-template.md)
 

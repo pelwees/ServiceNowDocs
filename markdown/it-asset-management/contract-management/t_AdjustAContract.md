@@ -45,25 +45,25 @@ To adjust a contract, the **State** should be **Active**. If the end date of a c
 5.  Click **Submit Adjustments**.
 
 
--   **[Renew a contract](t_RenewAContract.md)**  
+-   **[Renew a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_RenewAContract.md)**  
 After you have created a contract or the contract has expired, you can renew the contract.
--   **[Cancel a contract](t_CancelAContract.md)**  
+-   **[Cancel a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CancelAContract.md)**  
 You can cancel a contract when the **State** is **Active**.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_Contracts.md)
 
 **Related topics**  
 
 
-[Create a contract](t_CreateAContract.md)
+[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateAContract.md)
 
-[Verify contract administrator assignment for notification](t_SendAContractNotification.md)
+[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_SendAContractNotification.md)
 
-[Send the contract for approval](t_SendTheContractForApproval.md)
+[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_TermsAndConditions.md)
 
-[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
-[Monitor a contract](t_MonitoringContracts.md)
+[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_MonitoringContracts.md)
 

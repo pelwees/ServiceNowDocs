@@ -15,7 +15,7 @@ breadcrumb: [Journey designer dashboards and reports, Use, Journey designer, Emp
 
 Executive-focused dashboard with reports containing information such as the number of employees completing their journeys, SLA breaches, average days to complete journeys, and other metrics executives would be interested in.
 
-![Executive journey view dashboard](../image/jny-executive-dashboard.png)
+![Executive journey view dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../image/jny-executive-dashboard.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -254,5 +254,5 @@ Choice
 Displays tasks based on the start date of the employee.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer dashboards and reports](../reference/jny-report-dashboards.md)
+</table>**Parent Topic:**[Journey designer dashboards and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../reference/jny-report-dashboards.md)
 

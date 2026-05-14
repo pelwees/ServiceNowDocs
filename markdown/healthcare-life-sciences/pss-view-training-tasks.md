@@ -25,7 +25,7 @@ Role required: sn\_patientservice.nurse\_educator
 
 ## About this task
 
-A training task is created based on the appointment booking workflow, For more information, see [Appointment booking workflow in Patient Support Services](../concept/pss-appt-booking-feature.md).
+A training task is created based on the appointment booking workflow, For more information, see [Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../concept/pss-appt-booking-feature.md).
 
 ## Procedure
 
@@ -45,5 +45,5 @@ The selected training task page opens in another tab within Workspace displaying
 
 ## What to do next
 
-[Manage a training task in Workspace](pss-conduct-training.md).
+[Manage a training task in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-conduct-training.md).
 

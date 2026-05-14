@@ -29,7 +29,7 @@ Role required: sn\_shop.procurement\_administrator
 
 4.  Select **Choose File** to import the source Excel spreadsheet.
 
-    ![Load data to ERP user-mapping table for Oracle Financial Cloud](../../source-to-pay-operations/image/oracle-fin-load-data-erp.png "Load data to ERP user-mapping table for Oracle Financial Cloud")
+    ![Load data to ERP user-mapping table for Oracle Financial Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-fin-load-data-erp.png "Load data to ERP user-mapping table for Oracle Financial Cloud")
 
 5.  If appropriate, specify the Work sheet and Header row number.
 

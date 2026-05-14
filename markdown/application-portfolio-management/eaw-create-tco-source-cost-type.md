@@ -42,14 +42,14 @@ After a source is created for the TCO, you can create a source cost type from th
 8.  Select **Save**.
 
 
-**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](../../concept/eaw-concept/eaw-setup-app-tco.md)
+**Parent Topic:**[Configure application total cost of ownership \(TCO\) in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-app-tco.md)
 
 **Related topics**  
 
 
-[Create a source for an Application TCO](eaw-create-tco-source.md)
+[Create a source for an Application TCO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-tco-source.md)
 
-[Set the duration of a fiscal period property for TCO dashboards](eaw-set-property-tco-dashboards.md)
+[Set the duration of a fiscal period property for TCO dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-set-property-tco-dashboards.md)
 
-[Create a cost type for Application TCO in Enterprise Architecture Workspace](eaw-create-tco-cost-type.md)
+[Create a cost type for Application TCO in Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-tco-cost-type.md)
 

@@ -41,7 +41,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 9.  Record the time worked on the task.
 
-    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](../concept/record-repair-time-eam-ws.md).
+    You can either use the timer or record the time manually. For more details, see [Record time worked on asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/record-repair-time-eam-ws.md).
 
     An entry for the time you worked is created in the **Time Worked** tab of the Repair asset task.
 
@@ -54,7 +54,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
     -   If the asset can be redeployed, select **Redeployable**.
 12. In the **Failure code** field, select the code that corresponds to the reason for the asset failure.
 
-    This field shows the failure code that you selected in the Troubleshoot task. However, you can update this field if the reason for the asset failure differs from what was identified in the Troubleshoot task. For more details on codes, see [Manage failure and resolution codes](../concept/manage-failure-res-codes-eam.md).
+    This field shows the failure code that you selected in the Troubleshoot task. However, you can update this field if the reason for the asset failure differs from what was identified in the Troubleshoot task. For more details on codes, see [Manage failure and resolution codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-failure-res-codes-eam.md).
 
     **Note:** The Failure code field value that you selected is also displayed in the Evaluate Asset task and the repair order line.
 
@@ -88,22 +88,22 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 ## What to do next
 
-[Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md).
+[Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/evaluate-repaired-eam-asset-ws.md).
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 
 
-[View open repair orders for your stockroom in the Enterprise Asset Workspace](view-open-repair-orders-stockroom-eam.md)
+[View open repair orders for your stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-open-repair-orders-stockroom-eam.md)
 
-[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](troubleshoot-eam-assets-for-repair.md)
+[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/troubleshoot-eam-assets-for-repair.md)
 
-[Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md)
+[Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/evaluate-repaired-eam-asset-ws.md)
 
-[Bulk close asset repair tasks in the Enterprise Asset Workspace](bulk-close-repair-tasks-eam-ws.md)
+[Bulk close asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/bulk-close-repair-tasks-eam-ws.md)
 
-[Cancel a repair order in the Enterprise Asset Workspace](cancel-repair-orders-eam-ws.md)
+[Cancel a repair order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-orders-eam-ws.md)
 
-[Cancel a repair order line in the Enterprise Asset Workspace](cancel-repair-order-line-eam-ws.md)
+[Cancel a repair order line in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-order-line-eam-ws.md)
 

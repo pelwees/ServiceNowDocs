@@ -13,7 +13,7 @@ breadcrumb: [Agent tools, Organize agent workspaces, Configure, Customer Service
 
 Create structured troubleshooting processes for your agents through the ServiceNow® Guided Decisions Experience application. Help your agents solve complex issues in a consistent way.
 
-The Guided Decisions Experience application is a tool for authoring and running decision tree flows. A decision tree walks an agent through a troubleshooting process based on a record context. The process asks a series of questions and the agent provides the answers. Based on those answers, the agent receives guidance on the next steps to take in the resolution process. Agents can resolve complex issues faster and more efficiently. For more information, see [Decision trees in Guided decision](decision-trees-in-guided-decisions.md).
+The Guided Decisions Experience application is a tool for authoring and running decision tree flows. A decision tree walks an agent through a troubleshooting process based on a record context. The process asks a series of questions and the agent provides the answers. Based on those answers, the agent receives guidance on the next steps to take in the resolution process. Agents can resolve complex issues faster and more efficiently. For more information, see [Decision trees in Guided decision](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-guided-decisions.md).
 
 ## Scenarios for using decision trees
 
@@ -23,7 +23,7 @@ Decision trees can help agents resolve the following types of customer issues:
 -   Review a refund request. Use a decision tree to determine whether the customer is eligible for a refund, which can include checking for exceptions and creating tasks.
 -   Reset a customer's password. Use a decision tree to walk the agent through the process, such as verifying the customer's identity, trying other options, and, if needed, resetting the password.
 
-For an example of end-to-end configuration of a decision tree for a specific scenario, see [Example configuration of a decision tree](example-decision-tree.md).
+For an example of end-to-end configuration of a decision tree for a specific scenario, see [Example configuration of a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/example-decision-tree.md).
 
 ## Guided Decisions features
 
@@ -38,37 +38,37 @@ For an example of end-to-end configuration of a decision tree for a specific sce
 
 The Guided Decisions Experience application provides two different experiences for creating and editing decision trees: through the Decision Tree Builder or the Core UI.
 
--   Create a graphical diagrammatic representation of nodes and their paths in a troubleshooting process through the Decision Tree Builder. For more information, see [Decision trees in Decision Tree Builder](decision-trees-in-gdb.md).
--   Use forms and lists and edit existing decision trees through the Core UI. For more information, see [Decision trees in Core UI](decision-trees.md).
+-   Create a graphical diagrammatic representation of nodes and their paths in a troubleshooting process through the Decision Tree Builder. For more information, see [Decision trees in Decision Tree Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
+-   Use forms and lists and edit existing decision trees through the Core UI. For more information, see [Decision trees in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees.md).
 
 ## Setting up the Guided Decisions Experience application
 
 As an admin, set up the Guided Decisions Experience application to enable users to create and run decision trees by completing the following setup tasks:
 
--   [Install the Guided Decisions Experience application](../task/install-guided-decisions-exp-app-new.md).
--   [Assign roles to Guided Decisions users](../reference/components-installed-with-guided-decisions.md#section_jym_wrd_ywb) - Use roles to control access to Guided Decisions features and information.
--   [Install the Recommended Actions application](../task/install-recommended-actions-cs-app.md) - Enables decision trees to be run as recommended actions.
+-   [Install the Guided Decisions Experience application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/install-guided-decisions-exp-app-new.md).
+-   [Assign roles to Guided Decisions users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/components-installed-with-guided-decisions.md#section_jym_wrd_ywb) - Use roles to control access to Guided Decisions features and information.
+-   [Install the Recommended Actions application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/install-recommended-actions-cs-app.md) - Enables decision trees to be run as recommended actions.
 
 ## Creating and using decision trees
 
-![Flowchart displaying process of creating decision trees, implementing them, and then using them by different persona.](../image/gd-flowchart.png)
+![Flowchart displaying process of creating decision trees, implementing them, and then using them by different persona.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/gd-flowchart.png)
 
 Users with the decision tree author role \(decision\_tree\_author\) create decision trees. After creating a decision tree, the decision tree is implemented by adding it to a recommended action, playbook, or Service Portal. For more information, see the following topics:
 
--   [Create a decision tree in Decision Tree Builder](../task/configure-decision-trees-gdb.md)
--   [Edit a decision tree in Core UI](../task/configure-decision-trees.md)
--   [Add Guided Decisions to playbooks](../task/add-guided-decision-playbook.md)
--   [Add Guided Decisions to Recommended Actions](../task/add-guided-decisions-to-recommended-actions.md)
--   [Add Guided Decisions to Service Portal](../task/add-guided-decisions-service-portal.md)
+-   [Create a decision tree in Decision Tree Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-decision-trees-gdb.md)
+-   [Edit a decision tree in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-decision-trees.md)
+-   [Add Guided Decisions to playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/add-guided-decision-playbook.md)
+-   [Add Guided Decisions to Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/add-guided-decisions-to-recommended-actions.md)
+-   [Add Guided Decisions to Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/add-guided-decisions-service-portal.md)
 
-Agents interact with decision trees as part of a [recommended action](nba.md) or as part of a playbook within a record, such as a case.
+Agents interact with decision trees as part of a [recommended action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) or as part of a playbook within a record, such as a case.
 
 Customers and end-users interact with decision trees on Service Portal.
 
 For guided decisions that are added to playbooks, agents can work through the decision trees and complete actions suggested in the guidance as part of a playbook stage or activity. How the agent interacts with the decision tree depends on the playbook configuration. For more information, see the following topics:
 
--   [Use Guided Decisions in playbooks to resolve cases](../task/use-guided-decisions.md)
--   [Use Guided Decisions in recommended actions to resolve cases](../task/use-guided-decisions-ra.md)
+-   [Use Guided Decisions in playbooks to resolve cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/use-guided-decisions.md)
+-   [Use Guided Decisions in recommended actions to resolve cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/use-guided-decisions-ra.md)
 
 ## Request apps from the ServiceNow Store
 

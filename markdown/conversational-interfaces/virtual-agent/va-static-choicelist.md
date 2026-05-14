@@ -18,7 +18,7 @@ Use the Static Choice user input control in a Virtual Agent topic to list predef
 
 ## Choice display
 
-The choice list contains up to 10 items per page. When more than 10 items exist in an NLU conversation, you have the option to show the additional items and also filter the search results. The choice list prompt contains a search icon ![Search icon.](../images/icon-search.png) that users can select to filter the results. When more than 10 items exist in an LLM chat conversation, a scroll bar appears. When more than 16 items exist in an LLM chat conversation, a search bar appears.
+The choice list contains up to 10 items per page. When more than 10 items exist in an NLU conversation, you have the option to show the additional items and also filter the search results. The choice list prompt contains a search icon ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-search.png) that users can select to filter the results. When more than 10 items exist in an LLM chat conversation, a scroll bar appears. When more than 16 items exist in an LLM chat conversation, a search bar appears.
 
 The Static Choice control provides the option to add a header card that displays above the choice list. Header cards are supported in web and mobile channels.
 
@@ -69,7 +69,7 @@ Detail description
 
 Description of the information that you need from users. If the **Allow automatic slot filling** toggle is deactivated, you can create a dynamic detail description by selecting the Data Pill Picker icon ![](../images/variable-reference-picker.png) to define conditions, or select the Open Editor icon ![](../images/icon-script.png) to enter a script. If the **Allow automatic slot filling** toggle is activated, you can only enter a static description.
 
- ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](../images/LLM-input-discoverable-toggle.png)
+ ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/LLM-input-discoverable-toggle.png)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -104,7 +104,7 @@ Header Card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/insert-header-card-user-input-control.md)
 
 </td></tr><tr><td>
 
@@ -167,11 +167,11 @@ List user prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Static choice user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-static-choice-llm-3.png)
+![All basic Static choice user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-static-choice-llm-3.png)
 
 </td><td>
 
-![A choice list returns a list to select from.](../../now-assist-in-va/image/nass-dynamic-choice-user-prompt-zp4.png "Static Choice list prompt example")
+![A choice list returns a list to select from.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/image/nass-dynamic-choice-user-prompt-zp4.png "Static Choice list prompt example")
 
 </td></tr></tbody>
 </table>## Static Choice user input control properties for NLU topic discovery
@@ -224,7 +224,7 @@ Prompt or question for the user. The prompt can be either a text string or a scr
 -   Use a spaced hyphen to add a bullet point to a line. For example, `- text`.
 -   Use a spaced right angle bracket to create a block quote. For example, `> text`.
 -   Use between one and six hash marks to create headers. For example, `#text#` or `######text######`
--   Use brackets and parentheses to create a hyperlink. For example, `[Link text](url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](image url)`
+-   Use brackets and parentheses to create a hyperlink. For example, `[Link text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/url)`. Add an exclamation point to a hyperlink to display an image. For example, `![alt text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/image url)`
 
 </td></tr><tr><td>
 
@@ -271,7 +271,7 @@ Header card
 
 </td><td>
 
-Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](../task/insert-header-card-user-input-control.md)
+Toggle to open a field to add cards which may include images or YouTube videos. For more information, see [Insert a header card in a Static Choice or Dynamic Choice control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/insert-header-card-user-input-control.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -364,15 +364,15 @@ List prompt
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-![Basic properties include the node name, prompt, associated NLU entity, and a defined list of choices.](../images/va-static-choice-properties.png "Static choice input control basic properties")
+![Basic properties include the node name, prompt, associated NLU entity, and a defined list of choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-static-choice-properties.png "Static choice input control basic properties")
 
- ![Fields include Card type, title, description, image link, and image alt text.](../images/va-add-header-card-dialog.png "Add card dialog box (Header card advanced option)")
+ ![Fields include Card type, title, description, image link, and image alt text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-add-header-card-dialog.png "Add card dialog box (Header card advanced option)")
 
 </td><td>
 
-![A basic Static Choice list prompt that reads, "OK, what's the urgency of your issue?" Response include 1-High, 2-Medium, and 3-Low.](../images/va-static-choice-web.png "Web UI Static Choice list prompt")
+![A basic Static Choice list prompt that reads, "OK, what's the urgency of your issue?" Response include 1-High, 2-Medium, and 3-Low.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-static-choice-web.png "Web UI Static Choice list prompt")
 
- ![Static Choice list in the web UI with the header, "Here are the breakfast items," followed by a list of more than 10 items.](../images/va-static-choice-list-web.png "Web UI Static Choice list prompt with more than 10 items")
+ ![Static Choice list in the web UI with the header, "Here are the breakfast items," followed by a list of more than 10 items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-static-choice-list-web.png "Web UI Static Choice list prompt with more than 10 items")
 
  The choice list displays 10 items per page. When 10 or more results are returned, the following occurs:
 
@@ -381,7 +381,7 @@ List prompt
 
 </td></tr><tr><td>
 
-![Example Static Choice list. The header title reads "From your neighborhood candy store," followed by an embedded video and a list of five items.](../images/va-static-choice-header.png "Web UI Static Choice list with header card")
+![Example Static Choice list. The header title reads "From your neighborhood candy store," followed by an embedded video and a list of five items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-static-choice-header.png "Web UI Static Choice list with header card")
 
 The choice list contains five items per page. When five or more results are returned, the list provides an option to show more results.
 
@@ -619,5 +619,5 @@ Supported
 For screen devices, use touch scroll. For nonscreen devices, use voice pagination.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+</table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

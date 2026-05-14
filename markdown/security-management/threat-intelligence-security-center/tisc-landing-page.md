@@ -21,39 +21,39 @@ Click on a tile to get started.
 
 <table id="table_ekc_yly_bbc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Threat Intelligence Security Center can help you with its key features and benefits.](threat-intelligence-security-center-overview.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Threat Intelligence Security Center can help you with its key features and benefits.](threat-intelligence-security-center-overview.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure Threat Intelligence Security Center to meet your specific needs.](set-up-threat-intelligence-security-center.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and configure Threat Intelligence Security Center to meet your specific needs.](set-up-threat-intelligence-security-center.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Threat Intelligence Security Center](../concept/integrating-threat-intelligence-security-center.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Threat Intelligence Security Center](../concept/integrating-threat-intelligence-security-center.md)
 
 </td></tr><tr><td>
 
-[Administer![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Manage and customize your Threat Intelligence Security Center.](tisc-data-administration.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Manage and customize your Threat Intelligence Security Center.](tisc-data-administration.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage your Threat Intelligence Security Center Library and objects.](../concept/threat-intelligence-security-center-library.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-threat-intelligence-source.svg)Manage your Threat Intelligence Security Center Library and objects.](../concept/threat-intelligence-security-center-library.md)
 
 </td><td>
 
-[Report Templates![](../../../reuse/icons/brand-icons/bus-case.svg)Manage and customize your Case Management Reports.](../concept/tisc-report-templates.md)
+[Report Templates![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-case.svg)Manage and customize your Case Management Reports.](../concept/tisc-report-templates.md)
 
 </td></tr><tr><td>
 
-[MITRE ATT&amp;CK Repository![](../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE ATT&amp;CK Repository Data.](../concept/tisc-mitre-att-ck-framework-overview.md)
+[MITRE ATT&amp;CK Repository![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-security.svg)Manage MITRE ATT&amp;CK Repository Data.](../concept/tisc-mitre-att-ck-framework-overview.md)
 
 </td><td>
 
-[TISC Data Archival](../concept/data-archival-process.md)Archive![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Data Archival and Destroy Rules.
+[TISC Data Archival](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/data-archival-process.md)Archive![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Manage Data Archival and Destroy Rules.
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Threat Intelligence Security Center.](../concept/tisc-data-processing-functional-flow.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../../../reuse/icons/brand-icons/bus-learn.svg)Get additional information about Threat Intelligence Security Center.](../concept/tisc-data-processing-functional-flow.md)
 
 </td></tr></tbody>
 </table>## Request apps on Store

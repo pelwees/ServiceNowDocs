@@ -60,7 +60,7 @@ Trigger Workday Learning Integration Flow
 
 </td><td>
 
-Pulls data from Workday Learning to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](../task/activate-w-schedule-flow.md).
+Pulls data from Workday Learning to ServiceNow. By default the flow is in inactive state. For information on how to activate the flow, see [Activating schedule flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/activate-w-schedule-flow.md).
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -106,14 +106,14 @@ Workday Learning Skills
 Fetches all the active skills from Workday Learning.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](reference-workday-learning-intg.md)
+</table>**Parent Topic:**[Reference HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-workday-learning-intg.md)
 
 **Related topics**  
 
 
-[Edit a record in HR Service Delivery Integration with Workday Learning](sync-user-activity-form.md)
+[Edit a record in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sync-user-activity-form.md)
 
-[Workday learning todos staging form](wdl-todos-form.md)
+[Workday learning todos staging form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-todos-form.md)
 
-[Workday learning user course activity staging form](wdl-user-course-activity-form.md)
+[Workday learning user course activity staging form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/wdl-user-course-activity-form.md)
 

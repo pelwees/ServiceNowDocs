@@ -34,5 +34,5 @@ A policy can be retired anytime after being approved and published to the KB. If
     This option is available only for policies in a published state.
 
 
-**Parent Topic:**[Manage control objectives and policies](../reference/r_PoliciesAndProcedures.md)
+**Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../reference/r_PoliciesAndProcedures.md)
 

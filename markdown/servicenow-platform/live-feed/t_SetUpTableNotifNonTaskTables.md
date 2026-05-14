@@ -49,14 +49,14 @@ Role required: live\_feed\_admin or chat\_admin
 
 ## What to do next
 
-After saving the business rule, create a [Live Feed table notification record](t_SetUpATableNotifForATaskTable.md) for the new table as you would for a task table.
+After saving the business rule, create a [Live Feed table notification record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SetUpATableNotifForATaskTable.md) for the new table as you would for a task table.
 
-**Parent Topic:**[Live Feed table notifications](../concept/c_SetUpLiveFeedTableNotifications.md)
+**Parent Topic:**[Live Feed table notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_SetUpLiveFeedTableNotifications.md)
 
 **Related topics**  
 
 
-[Set up table notifications for task tables](t_SetUpATableNotifForATaskTable.md)
+[Set up table notifications for task tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_SetUpATableNotifForATaskTable.md)
 
-[Live Feed table notification examples](../concept/c_LFTableNotifiExamples.md)
+[Live Feed table notification examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_LFTableNotifiExamples.md)
 

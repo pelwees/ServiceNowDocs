@@ -25,15 +25,15 @@ Role required: sn\_oper\_res.admin
 
     The following example shows the Nexus map configuration record with the Node configurations related list.
 
-    ![Tab1.](../image/nexus-map-config-record-tab1.png)
+    ![Tab1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-config-record-tab1.png)
 
 3.  In the Node configurations related list, select **New**.
 
     The Node configuration new record is displayed as shown in the example.
 
-    ![Node configuration new record.](../image/node-config-new-record.png)
+    ![Node configuration new record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-config-new-record.png)
 
-    For more information on the fields, see [Node configuration form](../reference/node-configuration-form.md).
+    For more information on the fields, see [Node configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/node-configuration-form.md).
 
 4.  Select the table in the **Table** field.
 
@@ -55,7 +55,7 @@ Role required: sn\_oper\_res.admin
 
     A sample record with the details filled in is shown for reference.
 
-    ![Sample.](../image/node-config-sample.png)
+    ![Sample.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/node-config-sample.png)
 
 11. To clear the selections for the context record, primary label, secondary label, tooltip, select **Clear selections**.
 
@@ -63,10 +63,10 @@ Role required: sn\_oper\_res.admin
 
     The Node configuration record is displayed in the Nexus map configurations related list.
 
-    ![Record.](../image/nexus-map-config-record-tab1.png)
+    ![Record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/nexus-map-config-record-tab1.png)
 
 
 ## What to do next
 
-To customize the map display such as assigning specific colors and icons to nodes that meet certain conditions, configure the Node status configuration. For more information, see [Configure the Node status configurations](configure-node-status-configurations.md).
+To customize the map display such as assigning specific colors and icons to nodes that meet certain conditions, configure the Node status configuration. For more information, see [Configure the Node status configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-node-status-configurations.md).
 

@@ -27,7 +27,7 @@ However, your risk champions must manually search the complete risk library to i
 
 The Governance, Risk, and Compliance: Predictive Intelligence plugin uses artificial intelligence \(AI\) and machine learning \(ML\) to predict the related risk statements on the risk records. The Predictive Intelligence plugin uses the similarity capability in the Predictive Intelligence engine to compare the risk name and description with the risk statements. With this plugin, your organization can reduce the effort that is required to search and identify the risk statements to associate with the identified risks. Your organization also gets higher accuracy in risk aggregation and reporting and visibility into the organization's risk profile.
 
-The following example shows the recommended risk statements on the risk record. ![Recommended risk statement.](../image/risk-statement-recommendation.png)
+The following example shows the recommended risk statements on the risk record. ![Recommended risk statement.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-statement-recommendation.png)
 
 **Note:** A risk user \(sn\_risk.user\) can only see the risk statement recommendations when the risk statement isn’t defined on the risk record. Based on the recommendations, a risk user can associate the risk with a related risk statement.
 
@@ -58,5 +58,5 @@ For more information, see [Create and train a similarity solution](https://raw.g
 
 A risk administrator with the ml\_admin role can review the default similarity solution definition for risk and modify it based on your organizational needs.
 
-**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 

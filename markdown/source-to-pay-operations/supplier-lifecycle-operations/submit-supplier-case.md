@@ -23,7 +23,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -31,7 +31,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
     -   View all the cases by navigating to **Lists** &gt; **All work** &gt; **Cases**.
 4.  Open a case that is in Draft state by selecting the link to the case in the Number column.
 
-5.  Select **Submit case**.![Selected button for submitting a supplier case.](../image/submit-supplier-case.png)
+5.  Select **Submit case**.![Selected button for submitting a supplier case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/submit-supplier-case.png)
 
 
 ## Result
@@ -42,12 +42,12 @@ The state of the case updates to **Open**, indicating that the case is ready to 
 
 After you submit the case, depending on the case type, the specific playbook for the supplier case opens.
 
-For more information, see [Case playbook for specific supplier case types](../concept/gen-playbook-cases.md) and [Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md).
+For more information, see [Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/gen-playbook-cases.md) and [Playbook for updating the supplier primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/primary-playbook-cases.md).
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 

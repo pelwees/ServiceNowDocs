@@ -35,7 +35,7 @@ To disable text indexing for a specific child table, set that table's **No text 
 
     The dictionary record for a table is the record with an empty column name and a **Type** value of **Collection**, as shown in the following example image.
 
-    ![Dictionary Entry table showing a table's dictionary record with empty Column name and Type value of Collection.](../image/table-dictionary-record.png)
+    ![Dictionary Entry table showing a table's dictionary record with empty Column name and Type value of Collection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/table-dictionary-record.png)
 
 3.  In the Attributes related list, select **New**.
 
@@ -55,32 +55,32 @@ To disable text indexing for a specific child table, set that table's **No text 
 
 The system no longer indexes or queries the child table for text search results. Indexing continues for other tables in the table's hierarchy.
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_SearchingHTMLContent.md)
 
-[Configure a table for indexing and searching](configure-single-table-for-indexing.md#)
+[Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-single-table-for-indexing.md#)
 
-[Configure a text index group to search across multiple tables](index-multiple-tables.md)
+[Configure a text index group to search across multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](../reference/index-attributes.md)
+[Zing index and search dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/index-attributes.md)
 
-[Regenerate a text index for a table](t_RegenerateATextIndexForATable.md)
+[Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)
 
-[Remove an index](t_RemoveAnIndex.md)
+[Remove an index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndex.md)
 
-[Remove an index for a specific field](t_RemoveAnIndexForASpecificField.md)
+[Remove an index for a specific field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RemoveAnIndexForASpecificField.md)
 
-[Change the query mode of an indexed table](configure-table-query-mode.md)
+[Change the query mode of an indexed table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-table-query-mode.md)
 
-[Enable indexing of text in multi-row variable sets](index-text-multi-row-variable-sets.md)
+[Enable indexing of text in multi-row variable sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-text-multi-row-variable-sets.md)
 
-[Text indexing statistics and status](../reference/r_ViewTextIndexingStatsAndStatus.md)
+[Text indexing statistics and status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../reference/r_ViewTextIndexingStatsAndStatus.md)
 
-[Configure tables to use the Japanese tokenizer](configure-tables-japanese-tokenizer.md)
+[Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-tables-japanese-tokenizer.md)
 

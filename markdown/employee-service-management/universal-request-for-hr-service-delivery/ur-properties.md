@@ -256,5 +256,5 @@ sn\_uni\_req.com.snc.ur.request\_integration
 Creates a universal request when a request is submitted from a catalog item or record producer.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Universal Request reference](ur-reference-topic.md)
+</table>**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 

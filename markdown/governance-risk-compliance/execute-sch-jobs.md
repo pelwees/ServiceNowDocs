@@ -41,7 +41,7 @@ Operational Resilience administrators can perform all the functions as the Opera
 
 Before running the scheduled job, verify that the relationships are set up for an object as shown in the following example.
 
-![CSDM objects.](../image/csdm-objects-rel.png)
+![CSDM objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/csdm-objects-rel.png)
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Before running the scheduled job, verify that the relationships are set up for a
     1.  When the script is run, it cleans all the records in the staging tables. Staging tables are used in Operational Resilience to save the red flags, which are displayed on the dashboard.
     2.  Next, it updates the CSDM dependencies by calling the relationship API.
     3.  As the final step, it runs the configurations in parallel to ensure that the scheduled job completes quickly and loads the data efficiently.
-    ![Scheduled job.](../image/sch-job-csdm.png)
+    ![Scheduled job.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sch-job-csdm.png)
 
 3.  Select **Execute Now**.
 
@@ -76,6 +76,6 @@ Before running the scheduled job, verify that the relationships are set up for a
     -   sn\_oper\_res\_critical\_service\_outage
     -   sn\_oper\_res\_incident
     -   sn\_oper\_res\_issue
-    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [Business services overview tab](../../grc-operational-res-ws/concept/bs-ov.md).
+    The business views are mapped into the entity hierarchy. Red flags for the entities, such as Failed controls, High risks, Issues, Vulnerability response, are displayed in the reports on the landing page. For more information, see [Business services overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res-ws/concept/bs-ov.md).
 
 

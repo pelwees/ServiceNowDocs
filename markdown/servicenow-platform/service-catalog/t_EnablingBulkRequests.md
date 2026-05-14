@@ -36,16 +36,16 @@ Role required: admin or catalog\_admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[Service Catalog customization](../topic/p_ServiceCatalogCustomization.md)
+**Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../topic/p_ServiceCatalogCustomization.md)
 
 **Related topics**  
 
 
-[Clone a request](t_UsingBulkRequests.md)
+[Clone a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_UsingBulkRequests.md)
 
-[Request a catalog item from Service Portal](request-cat-item-portal.md)
+[Request a catalog item from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md)
 
-[Request an order guide from Service Portal](request-order-guide-portal.md)
+[Request an order guide from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-portal.md)
 
-[Delegated request experience](../concept/delegated-request-exp.md)
+[Delegated request experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/delegated-request-exp.md)
 

@@ -19,7 +19,7 @@ Use the CostPlanBatchOperations.add\(\) method to add any number of cost plans t
 
 To use this script include you must activate the PPM Standard \(com.snc.financial\_planning\_pmo\) plugin.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CostPlanBatchOperations - add\(Object costPlan\)
 

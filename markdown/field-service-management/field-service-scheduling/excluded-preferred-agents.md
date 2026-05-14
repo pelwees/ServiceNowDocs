@@ -27,7 +27,7 @@ Role required: wm\_dispatcher, wm\_manager, wm\_admin
 
 3.  On the **Task Filters** tab, add the **Prioritize preferred and secondary technicians** and **Rank preferred and secondary technicians**criterion to the task filters.
 
-    For information on adding criteria to a task filter, see [Create a task filter for dynamic scheduling](create-dynamic-scheduling-config.md#)
+    For information on adding criteria to a task filter, see [Create a task filter for dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md#)
 
 4.  Select **Update**.
 
@@ -35,5 +35,5 @@ Role required: wm\_dispatcher, wm\_manager, wm\_admin
 **Related topics**  
 
 
-[Set technician preferences for tasks](assign-preferred-agents-tasks.md)
+[Set technician preferences for tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/assign-preferred-agents-tasks.md)
 

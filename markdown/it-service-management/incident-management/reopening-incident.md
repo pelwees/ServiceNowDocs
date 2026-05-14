@@ -20,11 +20,11 @@ When an incident is resolved, an incident resolution email notification is sent 
 -   Select the **Reopen incident** link from the incident resolution email notification.
 -   Select the **Reopen** option on the incident form in Incident Management or the Portal UI’s such as Service Portal and Employee Service Center \(ESC\) portal.
 
-![Reopen option on the incident form](../image/reopen-incident-form.png "Reopen option on the incident form")
+![Reopen option on the incident form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/reopen-incident-form.png "Reopen option on the incident form")
 
-![Reopen option in the service portal](../image/reopen-service-portal.png "Reopen option in the Service portal")
+![Reopen option in the service portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/reopen-service-portal.png "Reopen option in the Service portal")
 
-![Reopen option in the service portal](../image/reopen-employee-center.png "Reopen option in the Employee Service Center (ESC) portal")
+![Reopen option in the service portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/reopen-employee-center.png "Reopen option in the Employee Service Center (ESC) portal")
 
 Once an incident is reopened, the state of the incident is then changed from **Resolved** to **In Progress**.
 

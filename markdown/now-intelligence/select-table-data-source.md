@@ -15,19 +15,19 @@ Select a table whose records you want to display. Filter by predefined or custom
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../../par-for-workspace/reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/platform-analytics-roles.md).
 
 ## About this task
 
 This procedure assumes you're in the process of creating or editing a data visualization and need more information about selecting the data source. It also assumes you're working in either the Visualization Designer or the inline dashboard editor. More options are available in the UI Builder.
 
-![A completed Add data source form for a table data source, with a predefined filter selected.](../../par-for-workspace/image/dv-table-data-source-ex.png "Adding a table data source to a data visualization")
+![A completed Add data source form for a table data source, with a predefined filter selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-table-data-source-ex.png "Adding a table data source to a data visualization")
 
 ## Procedure
 
 1.  Start to create a data visualization, or open an existing visualization for editing.
 
-    For more information, see [Creating data visualizations](../../reporting/concept/creating-data-visualizations.md).
+    For more information, see [Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md).
 
 2.  Choose one of the following:
 
@@ -36,13 +36,13 @@ This procedure assumes you're in the process of creating or editing a data visua
 3.  To select a table data source, choose one of the following:
 
     -   Enter the table name or the first few letters of the name in the **Search sources** field.
-    -   Locate the table in the **Suggested** list. Tables are indicated by a table icon. ![Tables icon](../../par-for-workspace/image/icon-tables.png)
+    -   Locate the table in the **Suggested** list. Tables are indicated by a table icon. ![Tables icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/icon-tables.png)
     -   Expand the **Tables** list and navigate down to the desired table.
     When you select a table, the filters and preview list become available.
 
 4.  Select a predefined filter.
 
-    Predefined filters are defined on the Report Sources \[sys\_report\_source\] table. For more information, see [Report sources](../../reporting/concept/c_ReportSources.md#).
+    Predefined filters are defined on the Report Sources \[sys\_report\_source\] table. For more information, see [Report sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/c_ReportSources.md#).
 
 5.  Select **+Add custom conditions** and build a filter in the ServiceNow AI Platform Condition builder.
 
@@ -56,23 +56,23 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 8.  Examine the filtered list of records in the Preview records list.
 
-    You can reorder, sort, or resize the list in the column header row. You can choose which columns to show or restore the original widths in the list actions ![Cogwheel icon](../../dashboards/image/icon-cogwheel-ac.png).
+    You can reorder, sort, or resize the list in the column header row. You can choose which columns to show or restore the original widths in the list actions ![Cogwheel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/icon-cogwheel-ac.png).
 
 9.  Select **Cancel** or **Add this source**.
 
     You return to the data visualization editor. In the configuration panel, you can add Group by fields and set other data properties, depending on the visualization type.
 
 
-**Parent Topic:**[Selecting data sources for data visualizations](../concept/selecting-data-sources.md)
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/selecting-data-sources.md)
 
 **Related topics**  
 
 
-[Select an indicator data source for a data visualization](select-indicator-data-source.md)
+[Select an indicator data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-indicator-data-source.md)
 
-[Select a Workflow Data Fabric data source for a data visualization](select-wdf-data-source.md)
+[Select a Workflow Data Fabric data source for a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-wdf-data-source.md)
 
-[Usage Insights data sources for data visualizations](../concept/uxa-data-sources.md)
+[Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/uxa-data-sources.md)
 
-[Multiple data sources](../../par-for-workspace/reference/multiple-data-sources.md#)
+[Multiple data sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/multiple-data-sources.md#)
 

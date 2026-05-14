@@ -23,7 +23,7 @@ Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
 ## Procedure
 
-1.  Prepare an exporter for execution as described in [Test an exporter and export a snapshot](cdm-exporter-update-n-test.md).
+1.  Prepare an exporter for execution as described in [Test an exporter and export a snapshot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-exporter-update-n-test.md).
 
     **Tip:** Test the exporter to verify its operation.
 

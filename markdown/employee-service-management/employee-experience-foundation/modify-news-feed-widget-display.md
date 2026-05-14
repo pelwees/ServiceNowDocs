@@ -19,7 +19,7 @@ The News feed widget displays articles on company news and announcements. All ne
 
 Role required: sp\_admin or admin
 
-Learn more about the news widgets: [News articles](../concept/ec-news-articles.md)
+Learn more about the news widgets: [News articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-news-articles.md)
 
 ## Procedure
 
@@ -109,8 +109,8 @@ Default view
 
 </td><td>
 
-Sets the default view for news articles:-   **List**: Arranges articles in a vertical list.![News feed widget list view](../images/ec-news-widget-list.png)
--   **Grid**: Arranges articles in a grid with a maximum three articles per row.![News feed widget grid view](../images/ec-news-feed-widget-grid.png)
+Sets the default view for news articles:-   **List**: Arranges articles in a vertical list.![News feed widget list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-widget-list.png)
+-   **Grid**: Arranges articles in a grid with a maximum three articles per row.![News feed widget grid view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-news-feed-widget-grid.png)
 
 
 </td></tr><tr><td>
@@ -193,5 +193,5 @@ Enables viewing of nested call insights for total load time in parent and child 
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[Configure employee communications widgets](../concept/employee-comms-widgets.md)
+**Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-comms-widgets.md)
 

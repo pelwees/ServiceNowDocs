@@ -34,5 +34,5 @@ Role required: atf\_test\_admin or atf\_test\_designer
 5.  Click **Update**.
 
 
-**Parent Topic:**[Create a new automated test](atf-create-test.md)
+**Parent Topic:**[Create a new automated test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-create-test.md)
 

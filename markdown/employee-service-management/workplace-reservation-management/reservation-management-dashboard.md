@@ -19,9 +19,9 @@ Use the Reservation Management dashboard to monitor the reservations and meeting
 
 Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
 
-For more information about the migrated dashboard, see [Reservation Management dashboard](reservation-management-dashboard.md).
+For more information about the migrated dashboard, see [Reservation Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-management-dashboard.md).
 
-![Reservation Management dashboard](../image/reservation-management-dashboard.png "Reservation Management dashboard")
+![Reservation Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/reservation-management-dashboard.png "Reservation Management dashboard")
 
 To access the Reservation Management Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **Workplace Dashboards**.
 
@@ -59,12 +59,12 @@ sn\_wsd\_rsv.manager
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Meetings per location last month|Column ![Columns icon](../../performance-analytics/image/column-icon.png)|Number of meetings scheduled in each location in the last month.|
-|Peak meeting hours last 3 months|Line ![Line icon](../../performance-analytics/image/line-icon.png)|Peak hours when the maximum number of meetings were scheduled in the last 3 months.|
-|Location reservations per day this week|Stacked columns ![Stacked columns icon](../../performance-analytics/image/stacked-column-bkdown-icon.png)|Number of reservations made each day for the current week.|
+|Meetings per location last month|Column ![Columns icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../performance-analytics/image/column-icon.png)|Number of meetings scheduled in each location in the last month.|
+|Peak meeting hours last 3 months|Line ![Line icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../performance-analytics/image/line-icon.png)|Peak hours when the maximum number of meetings were scheduled in the last 3 months.|
+|Location reservations per day this week|Stacked columns ![Stacked columns icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../performance-analytics/image/stacked-column-bkdown-icon.png)|Number of reservations made each day for the current week.|
 |Location reservations today|List|Number of reservations scheduled for today grouped by location.|
 
-**Parent Topic:**[Analytics and Reporting Solutions for Workplace Reservation Management](../../../product/wsd-reservation-management/concept/analytics-reporting-for-rsv-mgmt.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Workplace Reservation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../product/wsd-reservation-management/concept/analytics-reporting-for-rsv-mgmt.md)
 
-**Parent Topic:**[Manage Workplace Dashboards](../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
+**Parent Topic:**[Manage Workplace Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../../../product/workplace-central/task/workplace-dashboards-wsd-central.md)
 

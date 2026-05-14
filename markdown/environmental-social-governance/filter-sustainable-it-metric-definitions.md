@@ -34,5 +34,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configure-sustainable-it.md)
 

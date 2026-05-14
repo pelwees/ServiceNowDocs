@@ -17,13 +17,13 @@ Group multiple MID Servers to form clusters, then configure clusters for fail-ov
 
 ## Before you begin
 
-Ensure that all MID Servers in the cluster have the same [capabilities](t_ConfigureCapabilities.md#) \(Supported Applications, IP Ranges, and Capabilities\). A MID Server should not belong to more than one cluster.
+Ensure that all MID Servers in the cluster have the same [capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureCapabilities.md#) \(Supported Applications, IP Ranges, and Capabilities\). A MID Server should not belong to more than one cluster.
 
 Role required: admin
 
 <table id="table_q4n_5s4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -45,7 +45,7 @@ Create a new cluster or edit an existing cluster.
 6.  Select appropriate MID Servers for this cluster from the slushbucket.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md)
 
 ## MID Server clusters
 
@@ -67,7 +67,7 @@ MID Servers in clusters must be able to connect to the instance and to all the d
 
 -   **Load balancing**
 
-    If the cluster business rule determines that a MID Server is part of a load balancing cluster, the application using the MID Server automatically balances the work between the MID Servers in that cluster. It is good practice to put MID Servers with the same [capabilities](../reference/r_MIDServerCapabilities.md) in a load balancing cluster.
+    If the cluster business rule determines that a MID Server is part of a load balancing cluster, the application using the MID Server automatically balances the work between the MID Servers in that cluster. It is good practice to put MID Servers with the same [capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerCapabilities.md) in a load balancing cluster.
 
 -   **Fail-over protection**
 
@@ -92,7 +92,7 @@ The following event is triggered when the platform cannot find a MID Server with
 
 A MID Server can be added to both types of clusters at the same time. This diagram shows a scenario in which a MID Server from a load balancing cluster \(MID Server D\) is also present in a fail-over cluster. If MID Server D fails, MID Server E in the failover cluster is available to the load balancing cluster to perform the tasks previously assigned to MID Server D.
 
-![MID Server failover example](../image/MIDServerClustersDiagram.png)
+![MID Server failover example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDServerClustersDiagram.png)
 
 ### Specifying a specific MID Server cluster
 

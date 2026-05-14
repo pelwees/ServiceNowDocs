@@ -22,8 +22,8 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to expose a Data In port that takes the Boolean value. If True, the Click action is performed, else, if False, the Click action is not performed. By default, the option is not selected.|
 |Name|Option to update the default name of the action. The default name is Click. The updated name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|X|Option to set the custom location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to set the custom location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
+|X|Option to set the custom location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to set the custom location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 
 ## Set Text
 
@@ -34,8 +34,8 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to enable or disable the Data In port that takes the text the component sets in the field. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is SetText. The updated name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|X|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
+|X|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 
 ## Get Text
 
@@ -46,8 +46,8 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to enable or disable the Data Out port that returns the captured text. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is GetText. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|X|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
+|X|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 
 ## Get Table
 
@@ -58,8 +58,8 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to enable or disable the Data Out port that returns the captured table. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is Table. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|X|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
+|X|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 |IgnoreHeader|Option to ignore the header of the table while capturing.|
 
 ## Get Image
@@ -71,10 +71,10 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to enable or disable the Data Out port that returns the captured image. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is GetImage. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the Y-axis relative to the anchor.|
+|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the Y-axis relative to the anchor.|
 
 ## OCR Read Text
 
@@ -85,10 +85,10 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to disable the Data Out port that returns the extracted text. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is OCR. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the Y-axis relative to the anchor.|
+|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the Y-axis relative to the anchor.|
 |Engine|Engine name that is used for extracting the OCR fields.|
 |Language|Teseract engine that can support multiple languages. You can select any language listed here.|
 |Line Height Tolerance|Font line height.|
@@ -111,10 +111,10 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Execution Order|Order in which the action is executed when multiple actions are set up. This order is assigned when you add an action from the anchor. You can change the order by dragging and placing the action under its anchor at the desired order on the ACTIONSET SETTINGS window.|
 |Expose Port|Option to expose the Data Out port that returns the captured table as an output. By default, the port is enabled.|
 |Name|Option to update the default name of the action. The default name is OcrTable. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
-|Height|Option to specify the height of the OCR Read table icon \(![OCR Read Table icon.](../image/ocr-read-table-icon.png)\).|
-|Width|Option to specify the width of the OCR Read table icon \(![OCR Read Table icon.](../image/ocr-read-table-icon.png)\).|
-|X|Option to specify the location of the OCR Read table icon \(![OCR Read Table icon.](../image/ocr-read-table-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the custom location of the OCR Read table icon \(![OCR Read Table icon.](../image/ocr-read-table-icon.png)\) along the Y-axis relative to the anchor.|
+|Height|Option to specify the height of the OCR Read table icon \(![OCR Read Table icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ocr-read-table-icon.png)\).|
+|Width|Option to specify the width of the OCR Read table icon \(![OCR Read Table icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ocr-read-table-icon.png)\).|
+|X|Option to specify the location of the OCR Read table icon \(![OCR Read Table icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ocr-read-table-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the custom location of the OCR Read table icon \(![OCR Read Table icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ocr-read-table-icon.png)\) along the Y-axis relative to the anchor.|
 |FirstRowHeader|Option to specify whether the first row of the captured table is a header.|
 |Engine|Engine name that is used for extracting the OCR fields.|
 
@@ -145,10 +145,10 @@ The ActionSet component performs multiple actions and each action has distinct p
 |Name|Option to update the default name of the action. The default name is TextSelection. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
 |Trim|Option to trim the spaces at the start and end of the text.|
 |Type|Type of action to perform.|
-|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\).|
-|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the X-axis.|
-|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](../image/green-rectangle.png)\) along the Y-axis.|
+|Height|Option to specify the height of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|Width|Option to specify the width of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\).|
+|X|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the X-axis.|
+|Y|Option to specify the location of the green rectangle icon \(![Green rectangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-rectangle.png)\) along the Y-axis.|
 
 ## Send Keys
 
@@ -239,7 +239,7 @@ X
 
 </td><td>
 
-Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.
+Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.
 
 </td></tr><tr><td>
 
@@ -247,7 +247,7 @@ Y
 
 </td><td>
 
-Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.
+Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.
 
 </td></tr></tbody>
 </table>## Mouse Actions
@@ -260,8 +260,8 @@ Option to specify the location of the green plus icon \(![Green plus icon.](../i
 |Expose Port|Option to enable or disable the Data In port that takes the Boolean value. If True, the Mouse Action is performed, else, if False, the Mouse Action is not performed. By default, the option is not checked.|
 |Name|Option to update the default name of the action. The default name is MouseAction. The name reflects in the ACTIONS LIST section of the ACTIONSET SETTINGS window.|
 |Type|Type of mouse device action. For example, paste.|
-|X|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
-|Y|Option to specify the location of the green plus icon \(![Green plus icon.](../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
+|X|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the X-axis relative to the anchor.|
+|Y|Option to specify the location of the green plus icon \(![Green plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/green-plus-icon.png)\) along the Y-axis relative to the anchor.|
 
-**Parent Topic:**[Actions \(UI\)](../concept/actions-ui.md)
+**Parent Topic:**[Actions \(UI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/actions-ui.md)
 

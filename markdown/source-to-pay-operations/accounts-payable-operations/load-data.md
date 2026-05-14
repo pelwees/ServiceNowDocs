@@ -31,7 +31,7 @@ Role required: admin
 
 4.  In **Source of the Import**, choose **File**.
 
-5.  Browse the excel template that was created from [Import data into invoice](import-external-data-into-invoice.md).
+5.  Browse the excel template that was created from [Import data into invoice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/import-external-data-into-invoice.md).
 
 6.  Enter the **Sheet number** of the excel template that needs to be loaded into the staging table.
 

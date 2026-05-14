@@ -23,16 +23,16 @@ Role required: sn\_prm\_dr.deal\_reg\_admin
 
 2.  Create a deal registration type.
 
-    To learn how to create a deal registration type, see [Configure Deal Registration Type table](configure-deal-registration-type-table.md).
+    To learn how to create a deal registration type, see [Configure Deal Registration Type table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-deal-registration-type-table.md).
 
 3.  Select **Program Deal Type Relationships** from the related list.
 
 4.  On the form, fill in the fields.
 
-    To learn more about the fields, see [Partner program deal type relationship table fields](../reference/partner-program-deal-type-relationship-table-fields.md).
+    To learn more about the fields, see [Partner program deal type relationship table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/partner-program-deal-type-relationship-table-fields.md).
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Configure Deal Registration Type table](configure-deal-registration-type-table.md)
+**Parent Topic:**[Configure Deal Registration Type table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-deal-registration-type-table.md)
 

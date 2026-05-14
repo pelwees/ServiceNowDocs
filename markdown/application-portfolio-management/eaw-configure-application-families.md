@@ -17,12 +17,12 @@ By grouping related applications, you can easily identify redundancies, overlaps
 
 You can define application families based on how you want to evaluate and compare applications, not just how they are classified. Create application families when multiple applications support the same business function, compete for the same investment, or share a common lifecycle or modernization goal. Group applications by business capability, platform or suite, or lifecycle direction only when it supports portfolio‑level decision‑making, and avoid creating application families when grouping does not add analytical value.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all application families](../../task/eaw-task/eaw-view-all-application-families.md)
+[View all application families](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-application-families.md)
 
-[Add or edit an application family](../../task/eaw-task/eaw-create-app-family.md)
+[Add or edit an application family](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-family.md)
 

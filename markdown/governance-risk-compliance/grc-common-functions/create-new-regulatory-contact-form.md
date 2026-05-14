@@ -31,5 +31,5 @@ For a description of the form field values, see the following table.
 |Designation|Designation of the regulatory contact.|
 |Apply to global jurisdiction|Contact that also applies to a global jurisdiction.|
 
-**Parent Topic:**[Add a regulatory contact to an agency](add-regulatory-contacts.md)
+**Parent Topic:**[Add a regulatory contact to an agency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-regulatory-contacts.md)
 

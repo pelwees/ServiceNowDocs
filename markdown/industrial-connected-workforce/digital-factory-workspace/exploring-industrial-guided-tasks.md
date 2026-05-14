@@ -50,8 +50,8 @@ The Industrial Guided Tasks application enables you to:
 -   Compare execution results across standard versions to measure the impact of improvements to the standard.
 -   Automatically track actual task execution duration on both the Digital Factory Workspace and ICW mobile to measure the percentage of tasks closed in time and compare actual versus planned performance.
 
--   **[Scoring in Industrial Guided Tasks](scoring-industrial-guided-tasks.md)**  
+-   **[Scoring in Industrial Guided Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/scoring-industrial-guided-tasks.md)**  
 Scoring enables the automatic calculation of performance scores after completing an Industrial Guided Task \(IGT\).
 
-**Parent Topic:**[Exploring Digital Factory Workspace](exploring-digital-factory-workspace.md)
+**Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 

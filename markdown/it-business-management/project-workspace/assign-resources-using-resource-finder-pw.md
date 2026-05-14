@@ -41,9 +41,9 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 3.  Create a unassigned resource assignment by selecting **Add resource** and selecting an attribute.
 
-4.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Resource finder**.
+4.  From unassigned tasks pane, select the context menu row \(![3 vertical dots denoting the row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/row-context-menu-icon.png)\) for any task and select **Resource finder**.
 
-    ![Resource-finder-modal.](../../now-assist-spm/images/resource-finder-modal.png)
+    ![Resource-finder-modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../now-assist-spm/images/resource-finder-modal.png)
 
 5.  From Resource finder modal, select **Show monthly availability** toggle or weekly.
 
@@ -51,10 +51,10 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 7.  From Assign resources modal, review the allocations and distributions and select **Assign**.
 
-    ![assign-resources](../../now-assist-spm/images/assign-resources-ai.png)
+    ![assign-resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../now-assist-spm/images/assign-resources-ai.png)
 
     The resource is assigned to the task.
 
 
-**Parent Topic:**[Resource assignments in Project Workspace](../../pw-resource-management/concept/resource-assignments-pw.md)
+**Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../pw-resource-management/concept/resource-assignments-pw.md)
 

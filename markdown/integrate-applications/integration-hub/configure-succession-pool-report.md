@@ -35,7 +35,7 @@ Confirm that in the advanced section, **Enable as webservice** is selected.
 
 1.  Create Aggregate Related Instances type calculated field named CF\_worker succession pool.
 
-    ![Workday report.](../image/workday-report51.png)
+    ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report51.png)
 
 2.  Create the report.
 
@@ -51,50 +51,50 @@ Confirm that in the advanced section, **Enable as webservice** is selected.
 
     6.  Deselect the temporary report box and then click ok.
 
-        ![Workday report.](../image/workday-report52.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report52.png)
 
     7.  Select the report business object and report fields as given below.
 
-        ![Workday report.](../image/workday-report53.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report53.png)
 
-        ![Workday report.](../image/workday-report54.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report54.png)
 
     8.  In the Group column heading section, select all business object as shown below.
 
         The Group Column heading for each business object will be blank.
 
-        ![Workday report.](../image/workday-report55.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report55.png)
 
     9.  In the Filter section, select the value, as given below.
 
-        ![Workday report.](../image/workday-report56.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report56.png)
 
     10. In prompt section, select the highlighted effective date as prompt for effective as of date and then click on populate undefined prompt defaults check box.
 
-        ![Workday report.](../image/workday-report58.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report58.png)
 
     11. Select the value of prompts as given below under Prompt default section.
 
         Make sure the Label For Prompt XML Alias of all prompt fields must be same as the image below.
 
-        ![Workday report.](../image/workday-report59.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report59.png)
 
     12. In the advanced section, select **enable as webservice** and then click ok.
 
     13. Click on three dots icon and then go to **web services&gt; view URLs** option.
 
-        ![Workday report.](../image/workday-report60.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report60.png)
 
     14. Select succession pool for which you want to run this report.
 
         If you want any specific worker from the succession pool, select worker otherwise leave it blank.
 
-        ![Workday report.](../image/workday-report61.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report61.png)
 
     15. In the View URLs Web Service page, click on marked icon under CSV section.
 
         A new browser tab opens and you can see the RaaS URL of the report in new browser tab.
 
-        ![Workday report.](../image/workday-report62.png)
+        ![Workday report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/workday-report62.png)
 
 

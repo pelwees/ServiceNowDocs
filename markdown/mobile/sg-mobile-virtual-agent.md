@@ -48,5 +48,5 @@ To include virtual agent functionality in your mobile applications, you first mu
 10. Select **Save**.
 
 
-**Parent Topic:**[Configure a contextual link to Virtual Agent](sg-av-context-action.md)
+**Parent Topic:**[Configure a contextual link to Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-av-context-action.md)
 

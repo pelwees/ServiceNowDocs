@@ -19,7 +19,7 @@ The risk assessment project workflow is a structured process to assess multiple 
 
 The following diagram shows the workflow of a risk assessment project.
 
-![Workflow of a risk assessment project.](../image/risk-assessment-project-workflow.png "Risk assessment project workflow")
+![Workflow of a risk assessment project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-assessment-project-workflow.png "Risk assessment project workflow")
 
 The stages of a risk assessment project are as follows:
 
@@ -56,5 +56,5 @@ The stages of a risk assessment project are as follows:
 
 **Note:** After the project reaches the Completed state, you can create a new project with the same RAM and entity. When the new project reaches the Completed state, the old project moves to the Archived state.
 
-**Parent Topic:**[Risk assessment project](risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_dex.admin
 
 3.  Enter relevant information in the DEX Self-service category form fields.
 
-    For descriptions about the DEX Self-service category form fields, see [DEX Self-service categories form](../reference/dex-self-service-categories-form.md).
+    For descriptions about the DEX Self-service category form fields, see [DEX Self-service categories form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../reference/dex-self-service-categories-form.md).
 
 4.  Select **Submit** to add new categories, and **Update** to modify existing categories.
 

@@ -69,11 +69,11 @@ The Identification for Db2 on Z/OS section collects the following tables and fie
 
 The Dependency Views map shows all discovered IBM Db2 instances in your organization and the relationships between them.
 
-![IBM db2 dependency view](../image/IBM-Db2-dependency.png)
+![IBM db2 dependency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/IBM-Db2-dependency.png)
 
 ## CI relationships
 
 The IBM Db2 on Linux pattern does not create any CI relationships.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

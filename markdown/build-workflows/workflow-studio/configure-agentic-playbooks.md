@@ -33,7 +33,7 @@ You can enable AI agents for all default activities. For custom activities, make
 -   Email Form
 -   Record Form
 
-To learn more about activity definitions, see [Activity definitions](../concept/activity-definitions.md).
+To learn more about activity definitions, see [Activity definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/activity-definitions.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ To learn more about activity definitions, see [Activity definitions](../concept/
 
 3.  On the **AI Agents** tab, select **Activate AI agents**.
 
-    ![Image of the side panel of an activity showing the AI agents tab and its settings.](../images/agentinc-playbook-configure-user.png)
+    ![Image of the side panel of an activity showing the AI agents tab and its settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentinc-playbook-configure-user.png)
 
 4.  In the **Complete activity independently** field, select if you want to enable AI agents to complete the activity.
 
@@ -62,13 +62,13 @@ To learn more about activity definitions, see [Activity definitions](../concept/
 
 6.  In the **Instructions** field, enter instructions for the task that you want the AI agent to perform.
 
-    For guidelines about how to write instructions for AI agents, see [Guidelines for writing AI agent instructions](../reference/guidelines-agent-instruction.md).
+    For guidelines about how to write instructions for AI agents, see [Guidelines for writing AI agent instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/guidelines-agent-instruction.md).
 
 7.  Select **Save and close**.
 
 8.  Repeat as needed for any other activities that you want an AI agent to help perform.
 
-9.  [Test the playbook](test-process.md).
+9.  [Test the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/test-process.md).
 
 
 ## Result

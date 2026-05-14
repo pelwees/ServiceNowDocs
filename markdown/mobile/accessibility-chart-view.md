@@ -23,9 +23,9 @@ The **Chart accessibility** button gives you the option to view charts in either
 
 ## Procedure
 
-1.  Tap More \(![more icon](../image/more-icon.png)\) in the navigation bar.
+1.  Tap More \(![more icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/more-icon.png)\) in the navigation bar.
 
-2.  Tap Settings \(![Setting icon.](../image/settings.png)\).
+2.  Tap Settings \(![Setting icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/settings.png)\).
 
 3.  Enable the **Chart accessibility** button, on the Settings page, to view charts in black and white patterns.
 
@@ -36,7 +36,7 @@ The **Chart accessibility** button gives you the option to view charts in either
 
 Select the display option best suited for your requirements.
 
-![Comparison of graphs with colored segments against graphs with black and white patterns.](../image/access-chartlines-compare.png "Comparison of graph with and without the accessibility option enabled")
+![Comparison of graphs with colored segments against graphs with black and white patterns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/access-chartlines-compare.png "Comparison of graph with and without the accessibility option enabled")
 
-![Black and white patterns illustrated in a line chart and bar chart in accessibility mode.](../image/access-bar-pie-app-launch.png "Dashboard preview and bar chart in accessibility mode")
+![Black and white patterns illustrated in a line chart and bar chart in accessibility mode.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/access-bar-pie-app-launch.png "Dashboard preview and bar chart in accessibility mode")
 

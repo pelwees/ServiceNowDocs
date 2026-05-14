@@ -25,12 +25,12 @@ Role required: sn\_lg\_investigate.fulfiller
 
 2.  Open a legal request assigned to you to review and perform tasks.
 
-    -   [Work on the legal request](../../legal-request-management/task/work-on-legal-request.md) to verify the complaint details and conduct an initial inquiry.
-    -   [Add or modify an involved party](add-involved-party.md) in the **Involved Parties** tab.
-    -   If the legal request needs thorough investigation, [promote it to a legal matter](../../legal-request-management/task/promote-legal-request-to-matter.md).
+    -   [Work on the legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../../legal-request-management/task/work-on-legal-request.md) to verify the complaint details and conduct an initial inquiry.
+    -   [Add or modify an involved party](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/add-involved-party.md) in the **Involved Parties** tab.
+    -   If the legal request needs thorough investigation, [promote it to a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../../legal-request-management/task/promote-legal-request-to-matter.md).
     -   Either close the request or cancel the legal request.
-        -   [Close the request](../../legal-request-management/task/close-legal-request.md) after you've resolved it.
+        -   [Close the request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../../legal-request-management/task/close-legal-request.md) after you've resolved it.
         -   If you identify that the request doesn't need any action, you can cancel it.
 
-**Parent Topic:**[Managing complaint requests](../concept/managing-legal-investigations-request.md)
+**Parent Topic:**[Managing complaint requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../concept/managing-legal-investigations-request.md)
 

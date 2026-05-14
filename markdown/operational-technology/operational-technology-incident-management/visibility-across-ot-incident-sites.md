@@ -37,5 +37,5 @@ The following OT incident lists are available in the Lists module on the Industr
 -   Belong to my sites: View and edit the incident records that belong to your sites by navigating to **OT Incidents** &gt; **Belong to my sites**.
 -   View the existing incident records at different sites by navigating to **OT Incidents** &gt; **All**.
 
-**Parent Topic:**[Using Operational Technology Incident Management](using-operational-technology-incident-mgt.md)
+**Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 

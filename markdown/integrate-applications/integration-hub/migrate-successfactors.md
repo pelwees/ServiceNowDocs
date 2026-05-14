@@ -18,17 +18,17 @@ Migrate from an earlier version of the SuccessFactors spoke to SuccessFactors sp
 ## Before you begin
 
 -   Perform these procedures to migrate to SuccessFactors spoke v4.10.1.
-    -   [Register OAuth client application in SuccessFactors](setup-successfactors.md#)
-    -   [Upload the JKS certificate in your ServiceNow instance](setup-successfactors.md#)
-    -   [Register SuccessFactors as an OAuth provider](setup-successfactors.md#)
-    -   [Create the SAML2 assertion producer record](setup-successfactors.md#)
-    -   [Create Credential record for the OData API](setup-successfactors.md#)
-    -   [Create Credential record for the SOAP API](setup-successfactors.md#)
+    -   [Register OAuth client application in SuccessFactors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
+    -   [Upload the JKS certificate in your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
+    -   [Register SuccessFactors as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
+    -   [Create the SAML2 assertion producer record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
+    -   [Create Credential record for the OData API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
+    -   [Create Credential record for the SOAP API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#)
 -   Role required: admin.
 
 **Note:** This procedure is applicable if you are currently using an earlier version of the SuccessFactors spoke and intend to upgrade to SuccessFactors spoke v4.10.1.
 
-If you are setting up the SuccessFactors spoke 4.10.1 for the first time, see [Set up the SuccessFactors spoke v4.x.x](setup-successfactors.md#).
+If you are setting up the SuccessFactors spoke 4.10.1 for the first time, see [Set up the SuccessFactors spoke v4.x.x](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-successfactors.md#).
 
 ## Procedure
 

@@ -20,7 +20,7 @@ When you connect Agile Development 2.0 to Jira, a webhook is registered in Jira 
 -   Creating or updating projects.
 -   Creating, updating, or deleting information of epic, story, sprint, and any custom table maps and their fields.
 
-**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](../task/setting-up-the-integration-between-jira-and-agile-development.md)
+**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../task/setting-up-the-integration-between-jira-and-agile-development.md)
 
 ## Create a Jira connection alias for integration with Agile Development 2.0
 
@@ -66,8 +66,8 @@ Role required: sn\_jira\_int.admin or sn\_jira\_int.user
     |Field|Description|
     |-----|-----------|
     |Name|Name of the Jira instance. Enter a name of your choice.|
-    |Connection Alias|Jira connection alias that you already created. Use the lookup \(![Lookup icon](../../project-workspace/image/lookup_icon.png)\) option to select your connection alias.|
-    |Version|Jira version. Use the lookup \(![Lookup icon](../../project-workspace/image/lookup_icon.png)\) option to select your Jira API version.|
+    |Connection Alias|Jira connection alias that you already created. Use the lookup \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../../project-workspace/image/lookup_icon.png)\) option to select your connection alias.|
+    |Version|Jira version. Use the lookup \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../../project-workspace/image/lookup_icon.png)\) option to select your Jira API version.|
 
 4.  Click **Submit**.
 
@@ -96,7 +96,7 @@ Role required: sn\_jira\_int.user
 
 ### What to do next
 
-[Discover and import Jira projects and boards](../task/discover-projects.md)
+[Discover and import Jira projects and boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/../task/discover-projects.md)
 
 .
 

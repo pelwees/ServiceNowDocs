@@ -35,7 +35,7 @@ The **Metadata** tab includes settings for several features related to metadata 
 
 5.  In the Delay section of the window, use the sliding scale to change the Query Delay settings.
 
-    ![Query driver settings](../../operational-technology-discovery/images/query-driver-settings2.png)
+    ![Query driver settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery/images/query-driver-settings2.png)
 
 6.  Select the **Save Settings** button to save, or the **Cancel** button to discard your changes.
 

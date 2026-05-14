@@ -21,9 +21,9 @@ Use the Service Catalog for creating catalog requests for Enterprise Asset Manag
 
 |Task|Role required|Resource|
 |----|-------------|--------|
-|Deploy, source, and request catalog items for the Enterprise request flow| |[Manually fulfill enterprise asset requests by using the enterprise asset request flow](../task/create-eam-assetrequest.md)|
-|Track and replace assets by using the Enterprise Asset refresh flow| |[Request an enterprise asset refresh](../task/request-eam-assetrefresh.md)|
-|Resell your assets using the Asset resale flow.| |[Create an asset resale flow](../task/enterprise-asset-resale-flow.md)|
-|Onboard multiple assets at one go| |[Create a catalog request for onboarding multiple assets](../task/create-asset-onboard-catalog-req.md)|
-|Reclaim enterprise assets| |[Create a catalog request to reclaim enterprise assets](../task/create-enterprise-catalog-request.md)|
+|Deploy, source, and request catalog items for the Enterprise request flow| |[Manually fulfill enterprise asset requests by using the enterprise asset request flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-eam-assetrequest.md)|
+|Track and replace assets by using the Enterprise Asset refresh flow| |[Request an enterprise asset refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/request-eam-assetrefresh.md)|
+|Resell your assets using the Asset resale flow.| |[Create an asset resale flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/enterprise-asset-resale-flow.md)|
+|Onboard multiple assets at one go| |[Create a catalog request for onboarding multiple assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-asset-onboard-catalog-req.md)|
+|Reclaim enterprise assets| |[Create a catalog request to reclaim enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-enterprise-catalog-request.md)|
 

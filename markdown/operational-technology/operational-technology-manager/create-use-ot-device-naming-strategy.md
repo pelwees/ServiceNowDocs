@@ -75,5 +75,5 @@ The Industrial Core plugin comes with the **DeviceNamingStrategyHelper** script 
     7.  Run the device import for your Service Graph Connector to verify whether the changes are working as expected.
 
 
-**Parent Topic:**[Industrial Core plugin](../reference/industrial-core-plugin.md)
+**Parent Topic:**[Industrial Core plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../reference/industrial-core-plugin.md)
 

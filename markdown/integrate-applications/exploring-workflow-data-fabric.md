@@ -35,7 +35,7 @@ Workflow Data Fabric addresses a common enterprise challenge: Data is scattered 
     The interface in Workflow Data Fabric Home where Data Stewards create Data Interfaces and Data Products. The Data Workbench is also used to define mappings, set ACLs, and publish or promote assets.
 
 
-For more information, see [Workflow Data Fabric Home navigation](workflow-data-fabric-tutorial.md).
+For more information, see [Workflow Data Fabric Home navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/workflow-data-fabric-tutorial.md).
 
 ## Workflow Data Fabric Home users
 
@@ -47,7 +47,7 @@ For more information, see [Workflow Data Fabric Home navigation](workflow-data-f
 |WDF Operator|Builds deterministic and agentic workflows that consume governed data through Data Interfaces. WDF Operators are consumers of contracts, not owners or modifiers.|
 |WDF Consumer|Explores the Data Catalog to discover data products, evaluates them for use, requests access, and uses governed data through workflows, analytics, AI agents, or APIs.|
 
-For more information, see [Workflow Data Fabric Home roles](../reference/installed-with-workflow-data-fabric.md).
+For more information, see [Workflow Data Fabric Home roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/installed-with-workflow-data-fabric.md).
 
 ## Workflow Data Fabric Home benefits
 
@@ -65,10 +65,10 @@ For more information, see [Workflow Data Fabric Home roles](../reference/install
 
 To learn more about configuring and using Workflow Data Fabric Home, see:
 
--   [Configuring Workflow Data Fabric Home](configuring-workflow-data-fabric.md)
--   [Now Assist for Workflow Data Fabric \(WDF\)](now-assist-for-workflow-data-fabric-landing.md)
--   [Connect to external systems](connecthub-connect-to-external-systems.md)
--   [Data Catalog](../../../administer/workflow-data-fabric/concept/data-catalog.md)
--   [Data Products](../../../administer/data-products/concept/data-products.md)
--   [Workflow Data Fabric Home Reference](workflow-data-fabric-reference.md)
+-   [Configuring Workflow Data Fabric Home](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configuring-workflow-data-fabric.md)
+-   [Now Assist for Workflow Data Fabric \(WDF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-for-workflow-data-fabric-landing.md)
+-   [Connect to external systems](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connecthub-connect-to-external-systems.md)
+-   [Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/workflow-data-fabric/concept/data-catalog.md)
+-   [Data Products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/data-products/concept/data-products.md)
+-   [Workflow Data Fabric Home Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/workflow-data-fabric-reference.md)
 

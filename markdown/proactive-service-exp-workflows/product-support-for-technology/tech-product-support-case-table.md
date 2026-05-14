@@ -400,5 +400,5 @@ Work notes list
 Users who receive notifications about this case when work notes are added.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Product Support for Technology reference](assurance-workflows-reference.md)
+</table>**Parent Topic:**[Product Support for Technology reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assurance-workflows-reference.md)
 

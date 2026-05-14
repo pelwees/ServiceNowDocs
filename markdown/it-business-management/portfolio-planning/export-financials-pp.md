@@ -25,9 +25,9 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 2.  Select the **Financials** tab.
 
-3.  Select the Export option \(![Downward facing arrow indicating download option.](../../spw-financials/images/fin-export-option.png)\).
+3.  Select the Export option \(![Downward facing arrow indicating download option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-export-option.png)\).
 
-4.  In the Export side panel, select **Excel** or **CSV** from the File type list and select the **Export** button \(![Export button.](../../spw-financials/images/fin-export-button.png)\).
+4.  In the Export side panel, select **Excel** or **CSV** from the File type list and select the **Export** button \(![Export button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-export-button.png)\).
 
     The financials data is download as an Excel or CSV file with `name_fin_mmddyy` naming convention. The breakdown of the naming convention:
 

@@ -37,11 +37,11 @@ Some plugins require activation by ServiceNow® personnel on company and partner
 
     2.  Select the **Activate plugin with demo data** menu item to activate the plugin with demo data.
 
-        ![Select to activate with demo data](../image/activate-plugin-pdi3.png)
+        ![Select to activate with demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/activate-plugin-pdi3.png)
 
     You cannot perform other instance actions while the plugin is activating. The **Instance Status** is **Fulfilling Request** while the plugin is activated.
 
-    ![In-process fulfilling a request](../image/fulfilling-request-pdi.png)
+    ![In-process fulfilling a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/fulfilling-request-pdi.png)
 
 
 ## Result
@@ -50,5 +50,5 @@ You will receive an email from the Developer Site when the plugin activation is 
 
 To use the plugin, reload the browser window where you logged in to your PDI.
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

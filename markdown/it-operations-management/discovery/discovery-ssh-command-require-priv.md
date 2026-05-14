@@ -22,9 +22,9 @@ These examples assume that the user name is **Disco**. Substitute the actual use
 
 **Note:** Sudo commands don’t work with private key credentials, because there’s no password to supply to the sudo command. A solution is to add the NOPASSWD option to the sudo configuration. For example, you might enter: `disco ALL=(root) NOPASSWD:/usr/sbin/dmidecode,/usr/sbin/lsof,/sbin/ifconfig`.
 
-For information on commands that don’t require elevated rights, see [SSH commands not requiring a privileged user during probe-based discovery](discovery-ssh-probe-commands.md).
+For information on commands that don’t require elevated rights, see [SSH commands not requiring a privileged user during probe-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-probe-commands.md).
 
-For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](../../service-mapping/reference/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](../../service-mapping/reference/r_NonSudoCommands.md).
+For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/reference/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/reference/r_NonSudoCommands.md).
 
 ## SSH key not validated
 
@@ -210,10 +210,10 @@ Gets list of process IDs \(PIDs\) with socket information.**/etc/sudoers line ex
 For each PID, gets and processes the output for S\_IFSOCK.**/etc/sudoers line example**: `Disco ALL=(root) /usr/bin/pfiles`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SSHCommand probe](../concept/c_SSHCommandProbe.md)
+</table>**Parent Topic:**[SSHCommand probe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_SSHCommandProbe.md)
 
 **Related topics**  
 
 
-[Discovery commands for probes and patterns](../concept/discovery-command-probe-pattern.md)
+[Discovery commands for probes and patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/discovery-command-probe-pattern.md)
 

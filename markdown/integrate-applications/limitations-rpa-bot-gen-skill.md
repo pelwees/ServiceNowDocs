@@ -28,29 +28,29 @@ The limitations of the RPA bot generation skill are as follows.
 
     In the following example, to get the weather information, data reader components are required. Since they are not available in the current scope, they appear as UNKNOWN components in the automation preview.
 
-    ![Automation preview section displays UNKNOWN components.](../image/weather-data-reader-uc-narh.png "Unknown components in the Automation preview")
+    ![Automation preview section displays UNKNOWN components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/weather-data-reader-uc-narh.png "Unknown components in the Automation preview")
 
     If you select **Next** in the previous screen, the automation appears as follows on the Design surface.
 
-    ![Design surface displays UNKNOWN components.](../image/unknown-comp-rpa-na-t2b.png "Unknown components on the Design surface")
+    ![Design surface displays UNKNOWN components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/unknown-comp-rpa-na-t2b.png "Unknown components on the Design surface")
 
 -   **Usage of existing connectors in new activity using Now Assist or build automation context menu options**
 
     During the automation workflow creation, if a method, such as the AddNewWorksheet method of Microsoft Excel connector is created, RPA Desktop Design Studio checks for an existing global object of the same connector type and uses the most recent one. In the following example, the Badging Data Microsoft Excel connector is used.
 
-    ![Project Explorer section displays Microsoft Excel connectors in the Global Objects. Badging Data Microsoft Excel connector is selected.](../image/global-obj-recent.png "Microsoft Excel connectors in Global Objects")
+    ![Project Explorer section displays Microsoft Excel connectors in the Global Objects. Badging Data Microsoft Excel connector is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/global-obj-recent.png "Microsoft Excel connectors in Global Objects")
 
 -   **Dynamic configuration**
 
-    Dynamic configuration for supported components isn’t available in the Yokohama release. You can configure components manually. For example, you must give inputs in the configuration window for the Microsoft Excel connector's SetCellValues method. Select the settings icon \(![Settings icon.](../image/component-settings-icon.png)\) to view the configuration window.
+    Dynamic configuration for supported components isn’t available in the Yokohama release. You can configure components manually. For example, you must give inputs in the configuration window for the Microsoft Excel connector's SetCellValues method. Select the settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\) to view the configuration window.
 
     Data in the parameter values might not be populated in the large language model \(LLM\) generated components.
 
-    ![Configuration window for the SetCellValues method is displayed.](../image/dynamic-config-limitation.png "Configuration window for SetCellValues method")
+    ![Configuration window for the SetCellValues method is displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dynamic-config-limitation.png "Configuration window for SetCellValues method")
 
 -   **Automation for Windows, Java, or browser applications**
 
-    For automating Windows, Java, or browser-based applications, RPA Desktop Design Studio suggests generic UI actions such as SetValue, GetValue, or Click. These actions are a part of the Universal app connector. You must configure these actions manually, including capturing screens and adding elements via the field window. For more information about these methods, see [Universal app connector](../concept/universal-app-connector.md).
+    For automating Windows, Java, or browser-based applications, RPA Desktop Design Studio suggests generic UI actions such as SetValue, GetValue, or Click. These actions are a part of the Universal app connector. You must configure these actions manually, including capturing screens and adding elements via the field window. For more information about these methods, see [Universal app connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/universal-app-connector.md).
 
 -   **Expression-based components**
 
@@ -61,5 +61,5 @@ The limitations of the RPA bot generation skill are as follows.
     If the large language model \(LLM\) returns a method that doesn’t exist in the RPA Desktop Design Studio, then such methods are displayed as unknown components in the generated automation workflow.
 
 
-**Parent Topic:**[Now Assist for RPA Hub reference](../concept/now-assist-rpa-hub-reference.md)
+**Parent Topic:**[Now Assist for RPA Hub reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/now-assist-rpa-hub-reference.md)
 

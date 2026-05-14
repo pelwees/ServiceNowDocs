@@ -17,7 +17,7 @@ Attest or reject ownership of a certificate from your certification attestation 
 
 ## Before you begin
 
--   Verify that your system is configured to send certificate attestation notifications. For more information, see [Configure a certificate attestation review](configure-certificate-attestation.md)
+-   Verify that your system is configured to send certificate attestation notifications. For more information, see [Configure a certificate attestation review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-certificate-attestation.md)
 -   Role required: pki\_admin or admin
 
 ## Procedure

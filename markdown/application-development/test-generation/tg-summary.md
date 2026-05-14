@@ -49,10 +49,10 @@ The following are the requirements to start using the Test generation applicatio
 -   Download and install the Test generation application from ServiceNow store
 -   The now.assist.creator role is required to access Test generation
 
-**Parent Topic:**[Test generation references](tg-reference.md)
+**Parent Topic:**[Test generation references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-reference.md)
 
 **Related topics**  
 
 
-[Design considerations for prompting](tg-prompt-design-considerations.md)
+[Design considerations for prompting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/test-generation/tg-prompt-design-considerations.md)
 

@@ -30,5 +30,5 @@ Supported CI class types for Microsoft Azure enable assigning cost and usage dat
 |cmdb\_ci\_cloud\_storage\_account| |
 |cmdb\_ci\_storage\_volume| |
 
-**Parent Topic:**[Cloud Cost Management reference](../concept/reference-cloudinsights.md)
+**Parent Topic:**[Cloud Cost Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/reference-cloudinsights.md)
 

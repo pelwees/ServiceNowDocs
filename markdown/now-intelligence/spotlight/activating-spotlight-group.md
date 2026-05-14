@@ -29,5 +29,5 @@ The process of creating, editing, and deleting Schedule Item \[sys\_trigger\] re
 |Reactivating a Spotlight group|Create Schedule Item \[sys\_trigger\] record|A new Schedule Item \[sys\_trigger\] record is created with the scheduling information.|
 |Deleting a Spotlight group|Delete Schedule Item \[sys\_trigger\] record|The existing Schedule Item \[sys\_trigger\] record associated with that Spotlight group is deleted.|
 
-**Parent Topic:**[Administering Spotlight](administering-spotlight.md)
+**Parent Topic:**[Administering Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/administering-spotlight.md)
 

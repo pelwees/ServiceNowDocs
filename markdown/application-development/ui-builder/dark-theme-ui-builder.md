@@ -15,15 +15,15 @@ breadcrumb: [Navigate the UI Builder application, Learning UI Builder, UI Builde
 
 Learn how to switch to the dark theme in UI Builder.
 
-UI Builder includes a dark theme option, offering an eye-friendly alternative to the default light theme. You can enable dark theme by selecting the Choose theme icon \(!['Choose theme' icon.](../image/choose-theme-icon.png)\) in the banner.
+UI Builder includes a dark theme option, offering an eye-friendly alternative to the default light theme. You can enable dark theme by selecting the Choose theme icon \(!['Choose theme' icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/choose-theme-icon.png)\) in the banner.
 
-![Choose theme icon location and the UI Builder theme options popup displaying the Light and Dark themes.](../image/theme-options.png "UI Builder theme options")
+![Choose theme icon location and the UI Builder theme options popup displaying the Light and Dark themes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/theme-options.png "UI Builder theme options")
 
 The Dark theme is instantly applied to the UI Builder interface.
 
-![UI Builder editor with dark theme applied.](../image/dark-theme-editor.png)
+![UI Builder editor with dark theme applied.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/dark-theme-editor.png)
 
 **Note:** The UI Builder stage uses the theme set in your Platform theme settings. For example, the stage might remain white even when the rest of the interface is dark. To enable UI16 pages to render with the dark theme on the stage, select the **Dark** option in the theme menu of your user preferences. For more information on navigating to the theme menu, see [Open the theme menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-open-theme-menu.md).
 
-**Parent Topic:**[Navigate the UI Builder application](nav-uib.md)
+**Parent Topic:**[Navigate the UI Builder application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/nav-uib.md)
 

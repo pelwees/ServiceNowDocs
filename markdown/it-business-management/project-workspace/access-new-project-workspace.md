@@ -17,7 +17,7 @@ Learn how to navigate to the new Project Workspace and open a project in the pla
 
 ## Before you begin
 
-[Install Project Workspace](install-project-workspace.md).
+[Install Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/install-project-workspace.md).
 
 Role required: it\_project\_manager
 
@@ -31,14 +31,14 @@ Role required: it\_project\_manager
 
 3.  Select a project to open it in the planning page.
 
-    ![project-planning-page](../image/pw-planning-page.png)
+    ![project-planning-page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/pw-planning-page.png)
 
     You can access and manage Planning, Details, Financials, RIDAC, Analytics, Docs, Status Reports, and Resources using the menu that appears when you select the Projects icon. This menu is also called as Level two \(L2\) menu.
 
 
 ## What to do next
 
-[Create a project from Project Workspace](create-project-from-project-workspace.md)
+[Create a project from Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-project-from-project-workspace.md)
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

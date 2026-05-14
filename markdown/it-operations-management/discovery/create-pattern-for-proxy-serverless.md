@@ -27,7 +27,7 @@ Role required: cloud\_admin, service\_mapping\_admin, or admin
 
 3.  Specify an **Infrastructure** type pattern with the correct CI type that applies to the CIs you want to discover.
 
-    See [Create or customize patterns](../../service-mapping/task/t_CreatePatternPatDef.md) for an explanation of all form fields.
+    See [Create or customize patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../service-mapping/task/t_CreatePatternPatDef.md) for an explanation of all form fields.
 
 4.  Create an identification section and save the pattern.
 
@@ -60,7 +60,7 @@ Role required: cloud\_admin, service\_mapping\_admin, or admin
 
 3.  Select the **Serverless** in the Discovery field.
 
-    See [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#) for explanation of other fields.
+    See [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#) for explanation of other fields.
 
 4.  Right-click the form header and select **Save**.
 

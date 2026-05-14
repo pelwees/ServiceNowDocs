@@ -175,5 +175,5 @@ Additional comments
 Additional information about the case task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an action task](../task/create-a-case-task.md)
+</table>**Parent Topic:**[Create an action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/create-a-case-task.md)
 

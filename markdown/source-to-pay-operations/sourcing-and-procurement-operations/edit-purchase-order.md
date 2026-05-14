@@ -23,7 +23,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 1.  Navigate to **ShoppingHub Home** &gt; **My purchases**.
 
-    Alternatively, you can edit a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Edit a purchase**. For more information, see [Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](edit-pur-req-emp-central.md).
+    Alternatively, you can edit a purchase from **Employee Center** &gt; **Purchase and Expense** &gt; **Purchase Requests** &gt; **Edit a purchase**. For more information, see [Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-pur-req-emp-central.md).
 
 2.  Select a purchase order and a purchase order line in it.
 
@@ -181,12 +181,12 @@ The step creates a procurement case with the details of the revised quantity, lo
 -   Shoppers can review and edit the request details from **ShoppingHub** &gt; **My requests** or **My requests** from the footer.
 -   Buyers can track the progress of the procurement case and procurement case line edit requests from **Source-to-Pay Workspace**.
 
-**Parent Topic:**[Purchase revision flows](../concept/purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 
 **Related topics**  
 
 
-[Purchase revision flows](../concept/purchase-revision-flows.md)
+[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/purchase-revision-flows.md)
 
-[Process Automation Designer flows for playbook](../concept/process-automation-designer-flows-psm.md)
+[Process Automation Designer flows for playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/process-automation-designer-flows-psm.md)
 

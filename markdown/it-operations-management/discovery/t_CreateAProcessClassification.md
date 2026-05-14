@@ -21,7 +21,7 @@ Role required: none
 
 ## About this task
 
-When a process matches the classification criteria, Discovery uses the process classification record to create a CI.You can also have Discovery update existing CIs or ignore certain processes by creating a [process handler](t_CreateAProcessHandler.md).
+When a process matches the classification criteria, Discovery uses the process classification record to create a CI.You can also have Discovery update existing CIs or ignore certain processes by creating a [process handler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateAProcessHandler.md).
 
 **Note:** There is no support for dot-walk on the parent running the process command.
 
@@ -118,7 +118,7 @@ On classification script
 
 Enter a script to run when the condition and classification criteria are met. Use this script to perform any special tasks after a device is classified. It is possible to use the `g_probe_parameters` hashmap from within a classification script to set probe parameters for any configured, triggered probes. For example, this code sets a `'node_port'` parameter to 16001 for all triggered probes.`g_probe_parameters['node_port'] = 16001;`
 
- See [On classification script objects for Discovery](../reference/r_OnClassificationScriptObjects.md) for more examples and for a list of the objects you can use in this kind of script.
+ See [On classification script objects for Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r_OnClassificationScriptObjects.md) for more examples and for a list of the objects you can use in this kind of script.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Triggers probes
 
 </td><td>
 
-Select the exploration probes you want Discovery to launch. These probes gather detailed information about a classified CI. Discovery will not launch these probes when it is configured to stop after classification. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](../reference/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column. **Warning:** Do not specify your pattern in the **Probe** column. You must choose the Horizontal Pattern probe which launches the specified pattern.
+Select the exploration probes you want Discovery to launch. These probes gather detailed information about a classified CI. Discovery will not launch these probes when it is configured to stop after classification. If you want to use patterns for horizontal discovery, add the [Horizontal Pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/r-HorizontalPatternProbe.md) probe in the **Probe** column, and then specify your pattern in the **Pattern** column. **Warning:** Do not specify your pattern in the **Probe** column. You must choose the Horizontal Pattern probe which launches the specified pattern.
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Parameters
 
 </td><td>
 
-Use this related list to view the parameters associated with this process and build better classification conditions. See [Discovery classification parameters](../reference/classification-parameters.md) for a list of the parameters you can use.
+Use this related list to view the parameters associated with this process and build better classification conditions. See [Discovery classification parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/classification-parameters.md) for a list of the parameters you can use.
 
 </td></tr><tr><td>
 
@@ -170,9 +170,9 @@ Use this related list to view previous versions of the process classification re
 
 ## Example
 
-![Process classification](../image/ProcessClassificationForm.png "An example process classification record")
+![Process classification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/ProcessClassificationForm.png "An example process classification record")
 
 ## What to do next
 
-Run a discovery through the [Discovery Schedule](t_CreateADiscoverySchedule.md#) to search for applications. You can also [create or modify process handlers](t_CreateAProcessHandler.md) that prevent the creation of duplicate CIs based on process classifiers if that is an issue for your environment.
+Run a discovery through the [Discovery Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#) to search for applications. You can also [create or modify process handlers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateAProcessHandler.md) that prevent the creation of duplicate CIs based on process classifiers if that is an issue for your environment.
 

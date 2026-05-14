@@ -37,7 +37,7 @@ The map editor does not support the following actions:
     -   The CI is removed from the map \(hidden\).
     -   The record of the CI in the CMDB is not deleted.
 
-You can learn more about relationships at [CI relationships in the CMDB](../concept/c_CIRelationships.md).
+You can learn more about relationships at [CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/c_CIRelationships.md).
 
 At any time, select the reset icon ![](../image/icon-um-reset-map.png) to undo all unsaved changes.
 
@@ -56,11 +56,11 @@ At any time, select the reset icon ![](../image/icon-um-reset-map.png) to undo a
 **Related topics**  
 
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/c_CIRelationships.md)
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../reference/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/t_AddANewSuggestedRelationship.md)
 
-[Create or modify a connection using the map editor](unified-map-edit-connection.md)
+[Create or modify a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-edit-connection.md)
 

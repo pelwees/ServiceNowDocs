@@ -30,5 +30,5 @@ Filter the Applications Files table so that only the roles, scheduled jobs, and 
 
 The results for the class you selected are displayed in a filtered list.
 
-**Parent Topic:**[Components installed with Security Support Common](install-with-sec-sup-common.md)
+**Parent Topic:**[Components installed with Security Support Common](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/install-with-sec-sup-common.md)
 

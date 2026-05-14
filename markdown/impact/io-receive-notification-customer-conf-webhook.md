@@ -95,7 +95,7 @@ Create a webhook and web service while selecting the appropriate authentication 
 For more information, see [Create a scripted REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 
 </td></tr></tbody>
-</table>    ![Create a webhook integration for a ServiceNow instance.](../image/io-webhook-sn-integ.png)
+</table>    ![Create a webhook integration for a ServiceNow instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-webhook-sn-integ.png)
 
 5.  Select **Test Integration** to validate your configuration and verify if you can successfully send the payload to the configured ServiceNow instance.
 
@@ -118,7 +118,7 @@ For more information, see [Create a scripted REST API](https://raw.githubusercon
 
 8.  Link the integration to a notification rule and enable configuration for the notification rule by navigating to the **Notification Rules** tab and selecting the appropriate notification rule.
 
-    You can also select ![ellipsis icon.](../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) and select the **Edit** option. Once the integration is in **Enabled** status, it is available for selection in the **Notification Rules** list.
+    You can also select ![ellipsis icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../../../reuse/icons/product-icons/ellipsis-horizontal-outline-24.svg) and select the **Edit** option. Once the integration is in **Enabled** status, it is available for selection in the **Notification Rules** list.
 
     1.  Enter a name for the rule in the **Name** field of the Edit Rule pop-up.
 
@@ -163,8 +163,8 @@ For more information, see [Create a scripted REST API](https://raw.githubusercon
         You can view the integration failures as alerts in three places:
 
         1.  As **Alert Type** in **Alert** &gt; **Alert Console**
-        2.  As Notifications from ![bell icon](../image/io-bell-icon.png). Select **View Notification History** and filter with `Integration Failed`.
+        2.  As Notifications from ![bell icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-bell-icon.png). Select **View Notification History** and filter with `Integration Failed`.
         3.  As an email notification with the integration name, error number, and the message.
 
-**Parent Topic:**[Alerts in Instance Observer](../concept/io-alerts-intro.md)
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts-intro.md)
 

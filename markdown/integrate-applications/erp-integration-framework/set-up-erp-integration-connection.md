@@ -41,12 +41,12 @@ Note the following:
 
     To see a list of all available RFC or HTTP connections, select the search for record icon \(magnifying glass\) in the field.
 
-    ![New system record with filled in fields.](../image/erp-set-up-connection1.png)
+    ![New system record with filled in fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-set-up-connection1.png)
 
 5.  Select **Save**.
 
-    For more information, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    For more information, see [Zero Copy Connector for ERP new system field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-create-new-system-descriptions.md).
 
 
-**Parent Topic:**[Configuring Zero Copy Connector for ERP](../concept/erp-integration-configuration-overview.md)
+**Parent Topic:**[Configuring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-integration-configuration-overview.md)
 

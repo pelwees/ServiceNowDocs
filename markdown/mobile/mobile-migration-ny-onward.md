@@ -15,5 +15,5 @@ Learn about migration from the New York to later releases.
 
 Upgrading from the New York release to later releases of ServiceNow mobile does not require any special configuration steps. The upgrade process will have no impact on your existing mobile applications.
 
-**Parent Topic:**[Mobile plugins and upgrades](plugins-upgrades.md)
+**Parent Topic:**[Mobile plugins and upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/plugins-upgrades.md)
 

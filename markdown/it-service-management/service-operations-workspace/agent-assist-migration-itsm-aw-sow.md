@@ -62,40 +62,40 @@ The SOW migration utility uses the following sequence to migrate Agent assist fr
     -   The **Active** check box is selected.
 2.  If the sys\_declarative\_action\_assignment record is found with the conditions, then the value in the cxsTableConfig is copied to the Agent assist SNC record from the sys\_ux\_screen against its corresponding table key.
 
-    The following screenshot depicts sys\_id's of all the record types in the **Macroponent Configuration** field of the Agent assist SNC record. ![Agent assist SNC record](../image/mu-agent-assist-snc.png)
+    The following screenshot depicts sys\_id's of all the record types in the **Macroponent Configuration** field of the Agent assist SNC record. ![Agent assist SNC record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-agent-assist-snc.png)
 
-    The following screenshot depicts the Agent assist for incident sys\_id record that contains the cxsTableConfig as the component attributes. ![Agent assist incident](../image/mu-agent-assist-incident.png)
+    The following screenshot depicts the Agent assist for incident sys\_id record that contains the cxsTableConfig as the component attributes. ![Agent assist incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-agent-assist-incident.png)
 
 3.  If multiple configurations exist for same table, the SOW migration utility migrates the one that was most recently updated.
 4.  If an active configuration is not found in the table then the sow configuration remains same and is not updated.
 
--   **[Perform post-migration tasks for Agent assist configuration](../task/verify-migration-status-agent-assist.md)**  
+-   **[Perform post-migration tasks for Agent assist configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/verify-migration-status-agent-assist.md)**  
 Verify that the Agent assist configurations in Service Operations Workspace \(SOW\) are consistent with the Agent assist configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated Agent assist configuration settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 
 
-[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](ui-actions-layouts-migration-itsm-aw-sow.md)
+[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ui-actions-layouts-migration-itsm-aw-sow.md)
 
-[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](ribbons-migration-itsm-aw-sow.md)
+[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ribbons-migration-itsm-aw-sow.md)
 
-[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](view-rules-migration-itsm-aw-sow.md)
+[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-rules-migration-itsm-aw-sow.md)
 
-[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](new-record-menu-items-migration-itsm-aw-sow.md)
+[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/new-record-menu-items-migration-itsm-aw-sow.md)
 
-[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](highlighted-fields-lists-forms-migration-itsm-aw-sow.md)
+[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/highlighted-fields-lists-forms-migration-itsm-aw-sow.md)
 
-[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-actions-migration-itsm-aw-sow.md)
+[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-actions-migration-itsm-aw-sow.md)
 
-[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-categories-modules-migration-itsm-aw-sow.md)
+[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-categories-modules-migration-itsm-aw-sow.md)
 
-[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](form-headers-migration-itsm-aw-sow.md)
+[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/form-headers-migration-itsm-aw-sow.md)
 
-[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](search-config-migration-itsm-aw-sow.md)
+[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/search-config-migration-itsm-aw-sow.md)
 
-[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](related-list-declarative-actions-aw-sow.md)
+[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/related-list-declarative-actions-aw-sow.md)
 
-[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](field-declarative-actions-aw-sow.md)
+[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/field-declarative-actions-aw-sow.md)
 

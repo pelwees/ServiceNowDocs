@@ -23,9 +23,9 @@ Role required: cmdb\_ot\_viewer
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  To the **Home** \(![Home icon in the Industrial Workspace to access the OT Action-Oriented Landing Page](../image/home-icon.png)\) icon.
+2.  To the **Home** \(![Home icon in the Industrial Workspace to access the OT Action-Oriented Landing Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/home-icon.png)\) icon.
 
-3.  Select the **Configure important actions** \(![Configure important actions icon available in the Industrial Workspace](../../../common/image/gear.png)\) icon.
+3.  Select the **Configure important actions** \(![Configure important actions icon available in the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../../common/image/gear.png)\) icon.
 
 4.  Select **Sort items**.
 
@@ -36,5 +36,5 @@ Role required: cmdb\_ot\_viewer
 6.  In the **Order** field, select **Ascending** or **Descending**.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/using-industrial-workspace.md)
 

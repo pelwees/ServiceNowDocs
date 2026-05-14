@@ -38,5 +38,5 @@ approval\_summarizer can only be used on approval forms in the global scope.
     To learn more about activity formatters, see [Activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md).
 
 
-**Parent Topic:**[Summarizers](../concept/c_Summarizers.md)
+**Parent Topic:**[Summarizers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/c_Summarizers.md)
 

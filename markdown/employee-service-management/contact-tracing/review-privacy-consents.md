@@ -33,8 +33,8 @@ Role required: sn\_imt\_tracing.admin
     -   If employees have not responded yet, the preference is **Awaiting Response**.
     **Note:** The consent history record with the latest preference submitted date is the last response from the employee.
 
-    You can [send the notification](send-outreach-notif-privacy.md) again to employees who have not yet responded.
+    You can [send the notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/send-outreach-notif-privacy.md) again to employees who have not yet responded.
 
 
-**Parent Topic:**[Maintaining user data privacy in Contact Tracing](../concept/contact-tracing-user-privacy-options.md)
+**Parent Topic:**[Maintaining user data privacy in Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/contact-tracing-user-privacy-options.md)
 

@@ -36,23 +36,23 @@ For more information, see [Request IntegrationHub](https://raw.githubusercontent
 
 To configure the MSIM Conference Call Zoom integration using the Notify communication channel, see [Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md).
 
--   **[Use the MSIM Conference Call Zoom integration](../task/using-conf-call-zoom-integration.md)**  
+-   **[Use the MSIM Conference Call Zoom integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/using-conf-call-zoom-integration.md)**  
 The following steps give you a walkthrough of how you can manage and initiate a Zoom conference call directly from a major security incident.
 
-**Parent Topic:**[Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
+**Parent Topic:**[Major Security Incident Management Conference Call Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-conference-calls.md)
 
 **Related topics**  
 
 
-[Start a conference call](../task/start-conference-call.md)
+[Start a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/start-conference-call.md)
 
-[Add participants to a conference call](../task/add-participants-conference-call.md)
+[Add participants to a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/add-participants-conference-call.md)
 
-[Mute participants in a conference call](../task/mute-unmute-participants.md)
+[Mute participants in a conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/mute-unmute-participants.md)
 
-[View conference call details](../task/view-conference-call-details.md)
+[View conference call details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/view-conference-call-details.md)
 
-[Integrate MSIM Conference Calls with Microsoft Teams](integrate-msim-conf-call-ms-teams.md)
+[Integrate MSIM Conference Calls with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-conf-call-ms-teams.md)
 
-[Integrate MSIM Conference Calls with Cisco Webex](integrate-msim-conf-calls-webex.md)
+[Integrate MSIM Conference Calls with Cisco Webex](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-conf-calls-webex.md)
 

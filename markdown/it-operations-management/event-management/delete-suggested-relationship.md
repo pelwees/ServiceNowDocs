@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 3.  Select the Actions menu and then select **Delete**.
 
-    ![Option to delete a CI relationship](../image/em-delete-suggested-relationship.png)
+    ![Option to delete a CI relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-delete-suggested-relationship.png)
 
 4.  On the confirmation window, select **Delete**.
 

@@ -23,7 +23,7 @@ If you are an administrator, you can access the database view directly. To see t
 
 If the database view is missing or invalid, an error message appears on the Spotlight Group record. In this case, you can click the **Generate Database View** related link, which becomes available. A message appears afterwards to inform you whether database generation succeeded.
 
-![Spotlight group form with missing database view warning and highlighted Generate database view link](../image/spotlight-missing-db-view.png "Spotlight group with missing database view")
+![Spotlight group form with missing database view warning and highlighted Generate database view link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/../image/spotlight-missing-db-view.png "Spotlight group with missing database view")
 
 If you delete a Spotlight group, Spotlight deletes the database view associated with that group if it is safe to do so. To determine whether it is safe to delete the database view, Spotlight checks for the following conditions:
 
@@ -38,7 +38,7 @@ When creating, modifying, or deleting database views, Spotlight runs these busin
 -   Delete Database View
 -   Set DB View on Insert
 
-**Parent Topic:**[Administering Spotlight](administering-spotlight.md)
+**Parent Topic:**[Administering Spotlight](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/administering-spotlight.md)
 
 **Related topics**  
 

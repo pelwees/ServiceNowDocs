@@ -26,7 +26,7 @@ The following table lists the available LLMs for Now Assist in Document Intellig
 
 |LLM|Highlights|
 |---|----------|
-|Now Assist default|Use the LLM selected as the default for all Now Assist skills. For more information, see [Manage AI models](../../now-assist-admin/task/manage-large-language-models.md).|
+|Now Assist default|Use the LLM selected as the default for all Now Assist skills. For more information, see [Manage AI models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../now-assist-admin/task/manage-large-language-models.md).|
 |Now LLM Service - Large|Text-only model used for AI-driven solutions to support natural language understanding, automation, and decision support.|
 |Now LLM Service - Small|Text-only model used for enterprise AI applications by enhancing text-based automation and content generation within ServiceNow workflows.|
 |Google Cloud - Gemini Large|Multimodal model with advanced reasoning and problem-solving capabilities.|
@@ -36,26 +36,26 @@ The following table lists the available LLMs for Now Assist in Document Intellig
 |Amazon Bedrock - Claude Large|Multimodal model with strong context management for long documents and dialogs.|
 |Amazon Bedrock - Claude Small|Multimodal model with lower latency and higher efficiency for real-time applications.|
 
-For more information, see [Large language models on the ServiceNow AI Platform](../../general/concept/exploring-large-language-models.md).
+For more information, see [Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../../general/concept/exploring-large-language-models.md).
 
-**Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
+**Parent Topic:**[Now Assist in Document Intelligence reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-in-document-intelligence-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Now Assist in Document Intelligence](now-assist-docintel-components.md)
+[Components installed with Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-docintel-components.md)
 
-[Data extraction modes in Now Assist in Document Intelligence](data-extraction-modes-now-assist-document-intelligence.md)
+[Data extraction modes in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/data-extraction-modes-now-assist-document-intelligence.md)
 
-[Document and visual insights AI agent](document-and-visual-insights-ai-agent.md)
+[Document and visual insights AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-and-visual-insights-ai-agent.md)
 
-[Document Intelligence tool for Now Assist Skill Kit](document-visual-intelligence-skill-kit-tool.md)
+[Document Intelligence tool for Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-visual-intelligence-skill-kit-tool.md)
 
-[Field types in Now Assist in Document Intelligence](now-assist-document-intelligence-field-types.md)
+[Field types in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-field-types.md)
 
-[Now Assist in Document Intelligence forms](now-assist-document-intelligence-forms.md)
+[Now Assist in Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-forms.md)
 
-[Limitations in Now Assist in Document Intelligence](now-assist-document-intelligence-limitations.md)
+[Limitations in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-limitations.md)
 
-[Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md)
+[Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/languages-supported-now-assist-document-intelligence.md)
 

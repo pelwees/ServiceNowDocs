@@ -21,11 +21,11 @@ When you launch the 360º view from a compliance case record, you can visualize 
 
 The following example shows the 360° view of a compliance case:
 
-![360° view of a compliance case.](../image/compliance-case-360.png "360° view of a compliance case")
+![360° view of a compliance case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../image/compliance-case-360.png "360° view of a compliance case")
 
-To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
+To explore the 360° view and to learn how to launch the view, see [Exploring the 360º view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../../grc-360-degree-rel-vis/concept/understanding-360-view.md#).
 
-To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
+To learn more about the users who could use 360° Relationship Visualization, their roles, and responsibilities, see [360° Relationship Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../../grc-360-degree-rel-vis/concept/grc-360-deg-rel-vis.md).
 
 ## 360° view of compliance inventories integrated with compliance case
 
@@ -33,7 +33,7 @@ The 360º view of a compliance case record offers a comprehensive and detailed p
 
 The 360º view enables you to access information about the source from which the compliance case has been raised.
 
-The following example shows the entities linked to a compliance case:![Entities linked to compliance case.](../image/compliance-case-visualization.png)
+The following example shows the entities linked to a compliance case:![Entities linked to compliance case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../image/compliance-case-visualization.png)
 
-**Parent Topic:**[Exploring Compliance Case Management](ccm-overview.md)
+**Parent Topic:**[Exploring Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-overview.md)
 

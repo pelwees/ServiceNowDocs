@@ -35,7 +35,7 @@ The predefined default header is Suggestion.
 
 5.  Select the **Prompt Template** tab.
 
-6.  Select the Lookup using list icon \(![look up icon](../../contact-tracing/image/icon-lookup.png)\) next to the **Prompt header** field.
+6.  Select the Lookup using list icon \(![look up icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../contact-tracing/image/icon-lookup.png)\) next to the **Prompt header** field.
 
 7.  On the Prompt Header Configurations page, select **New**.
 

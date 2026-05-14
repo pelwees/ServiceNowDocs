@@ -58,7 +58,7 @@ You can filter, sort, and group the neighborhoods in the list using filters. For
 1.  On the Neighborhoods list, select **New**.
 2.  On the Create New Neighborhood form, fill in the fields.
 
-For a description of the field values, see the Neighborhood Form table in [Create a neighborhood for workplace users](../../workplace-space-management/task/create-neighborhood.md).
+For a description of the field values, see the Neighborhood Form table in [Create a neighborhood for workplace users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/task/create-neighborhood.md).
 
 3.  Select **Save**.
 
@@ -79,8 +79,8 @@ For a description of the field values, see the Neighborhood Form table in [Creat
 
 </td></tr></tbody>
 </table>
--   **[Manage a single neighborhood](manage-single-neighborhood.md)**  
+-   **[Manage a single neighborhood](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-single-neighborhood.md)**  
 Edit the details of a neighborhood like the spaces, workplace profiles, space assignment tasks, and user assignment rules.
 
-**Parent Topic:**[Working with Space Planning](../concept/working-with-space-planning.md)
+**Parent Topic:**[Working with Space Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-space-planning.md)
 

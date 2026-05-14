@@ -15,7 +15,7 @@ Define characteristics for a product, service, or resource specification.
 
 ## Before you begin
 
-[Create product characteristics and characteristic options](som-product-config-add-characteristics.md) that can be selected for a specification.
+[Create product characteristics and characteristic options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md) that can be selected for a specification.
 
 Role required: sn\_prd\_pm\_product\_catalog\_admin
 
@@ -41,5 +41,5 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up specifications and product offerings](../concept/order-mgt-product-catalog.md)
+**Parent Topic:**[Setting up specifications and product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/order-mgt-product-catalog.md)
 

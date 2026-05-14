@@ -35,5 +35,5 @@ The installation of Conversation Insights installs the Conversation Insights \[s
 |Resolved|Estimated CSAT score that indicates whether the issue was resolved. The values are Yes or No.|
 |Confusion|Estimated CSAT score that indicates whether the user expressed confusion or the agent didn’t understand the user's intent. The values are Yes or No.|
 
-**Parent Topic:**[Conversation Insights reference](conversation-insights-reference.md)
+**Parent Topic:**[Conversation Insights reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/conversation-insights-reference.md)
 

@@ -24,7 +24,7 @@ Role required:
 
 ## Procedure
 
-1.  [Create a Microsoft Azure service principal](azure-create-serv-princ-cloud-mgt-1.md) and open the text file that you created during the procedure.
+1.  [Create a Microsoft Azure service principal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-serv-princ-cloud-mgt-1.md) and open the text file that you created during the procedure.
 
 2.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Credentials**.
 
@@ -61,7 +61,7 @@ Select **Client Secret**.The **Secret key** field appears when you select **Clie
 </td></tr></tbody>
 </table>5.  Copy/paste values from the `Azure-Credentials.txt` text file into the remaining fields.
 
-    ![Azure credentials](../../discovery/image/azure-copy-to-service-principal.png)
+    ![Azure credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../discovery/image/azure-copy-to-service-principal.png)
 
 6.  Select the appropriate **EA credential** from the list, select the **Active** check box, and then click **Save** to create the record.
 

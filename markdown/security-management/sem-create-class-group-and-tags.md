@@ -116,8 +116,8 @@ Brief description of this group.
     **Note:** You can also create tags by selecting **New** button on the list view. The procedure is the same.
 
 
--   **[Create security tag rules](sem-create-security-tag-rules.md)**  
+-   **[Create security tag rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-create-security-tag-rules.md)**  
 Security tag rules provide filtering for security tag access.
--   **[Import security tag rules](sem-import-security-tag-rules.md)**  
+-   **[Import security tag rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-import-security-tag-rules.md)**  
 You can import security tag rules from other tables in your deployment.
 

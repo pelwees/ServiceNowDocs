@@ -30,7 +30,7 @@ The callback workflow proceeds as follows:
     -   If the customer doesn't accept the call, the agent can retry the callback later.
 8.  The agent can decide to close the interaction or queue the callback again manually from the workspace.
 
-![Callback flow diagram](../image/callback-flow-diagram.png "Callback flow diagram")
+![Callback flow diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/callback-flow-diagram.png "Callback flow diagram")
 
 ## Callback requests
 
@@ -75,7 +75,7 @@ Customers can request a callback during a chat on Virtual Agent or Engagement Me
 **Related topics**  
 
 
-[Working with callback requests from customers](request-callback-from-agent.md)
+[Working with callback requests from customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/request-callback-from-agent.md)
 
-[Callback requests by agents](callback-requests-agents-customer.md)
+[Callback requests by agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/callback-requests-agents-customer.md)
 

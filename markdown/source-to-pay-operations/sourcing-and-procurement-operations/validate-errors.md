@@ -44,10 +44,10 @@ Role required: admin
     Verify the accuracy of the data, identify any discrepancies, and share the errors with the reseller on the same FTP server. You may use flow designer to move the data from your instance to external applications.
 
 
--   **[Export data to the FTP server](export-data-ftp.md)**  
+-   **[Export data to the FTP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/export-data-ftp.md)**  
 Export a file from a local source, a remote network server, or another instance by providing a path and authentication information.
 
-**Parent Topic:**[Procurement File Transfer Framework](../concept/procurement-file-transfer-framework.md)
+**Parent Topic:**[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/procurement-file-transfer-framework.md)
 
 **Related topics**  
 

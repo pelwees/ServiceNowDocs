@@ -34,7 +34,7 @@ Alert rules are configurations that define conditions in which an alert or a not
 4.  Select **Save**.
 
 
-**Parent Topic:**[Alert rule and variable in RPA Hub](../concept/alert-rule-rpa-hub.md)
+**Parent Topic:**[Alert rule and variable in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/alert-rule-rpa-hub.md)
 
 ## Alert rule form in RPA Hub
 
@@ -151,7 +151,7 @@ Conditions at which the alerts are triggered.Select a table from the Applies To 
 
  Within the **Trigger Conditions** section, you can use the **Add Filter Condition** to add a trigger condition. For example, you might want to generate an alert rule when the life-cycle stage status of a bot process is not retired. In that case, select **Life Cycle Stage Status** from the – choose field – list, **is not** from the – oper – list, and **Retired** from the – value – list.
 
- ![Selected filter condition to trigger alert rule.](../image/alert-rule-trigger-conditions.png "Selected filter condition to trigger alert rule")
+ ![Selected filter condition to trigger alert rule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/alert-rule-trigger-conditions.png "Selected filter condition to trigger alert rule")
 
 </td></tr><tr><td>
 
@@ -184,7 +184,7 @@ Threshold conditions to trigger alerts.Select a table from the Applies To list b
 
  For example, you might want to generate an alert rule when a percentage of process jobs fail in a given time period. In that case, select **Created** in the – choose field – list, **on** in the – oper – list, and **Today** in the – value – list.
 
- ![Set threshold condition to trigger alerts.](../image/alert-rule-set-condition.png "Set threshold condition to trigger alerts")
+ ![Set threshold condition to trigger alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/alert-rule-set-condition.png "Set threshold condition to trigger alerts")
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Message
 
 Alert message.For example, `{0}% of process jobs failed in a day.`
 
- To configure the variables, such as \{0\}, see [Create an alert variable for an alert rule in RPA Hub](create-alert-variable.md#).
+ To configure the variables, such as \{0\}, see [Create an alert variable for an alert rule in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-alert-variable.md#).
 
 </td></tr><tr><td>
 

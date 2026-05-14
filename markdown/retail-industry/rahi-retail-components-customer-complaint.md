@@ -83,5 +83,5 @@ Create, update, resolve, and manage retail complaint cases.
 -   sn\_customerservice\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

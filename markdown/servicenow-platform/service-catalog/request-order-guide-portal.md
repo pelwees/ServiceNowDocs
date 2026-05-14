@@ -48,13 +48,13 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
         **Note:** When the item is excluded from the order guide request, the item is not editable and the corresponding mandatory field restrictions are ignored.
 
-    3.  To add an attachment for the catalog item, click the Add attachments icon \(![Icon to add attachments](../image/IconAddAttachmnt.png)\) and select the required attachment.
+    3.  To add an attachment for the catalog item, click the Add attachments icon \(![Icon to add attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddAttachmnt.png)\) and select the required attachment.
 
     4.  Click **Previous** to navigate to the **Describe Needs** section.
 
 5.  In the **Summary** section, review the order guide summary.
 
-6.  To add the order guide to the shopping cart, click the Add to Cart icon \(![Icon to add to cart](../image/IconAddTocart.png)\).
+6.  To add the order guide to the shopping cart, click the Add to Cart icon \(![Icon to add to cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddTocart.png)\).
 
     **Note:** When you add an order guide to the cart, you can only edit the order guide instance in the cart.
 
@@ -83,7 +83,7 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
 
 10. If required, specify the **Delivery Information** and **Special instructions**.
 
-11. To add one or more attachments for the order guide, click the add attachments icon \(![add attachment icon](../image/IconAddAttachmnt.png)\).
+11. To add one or more attachments for the order guide, click the add attachments icon \(![add attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddAttachmnt.png)\).
 
     You can browse and choose the files, drag the files, or copy and paste them in the Add attachments window.
 
@@ -111,20 +111,20 @@ For information about the SC Order Guide widget, see [SC Order Guide widget](htt
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   A user can view the cloned request created for the user from the **Requests** menu option or the My Requests widget on the catalog homepage.
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/catalog-on-portal.md)
 
 **Related topics**  
 
 
-[Access Service Catalog categories in Service Portal](access-categories-portal.md)
+[Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)
 
-[Add an item to the wish list in Service Portal](add-to-wishlist-portal.md)
+[Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)
 
-[Add a catalog item to the shopping cart](add-to-cart-portal.md)
+[Add a catalog item to the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
 
-[Request a catalog item from Service Portal](request-cat-item-portal.md)
+[Request a catalog item from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-item-portal.md)
 
-[Request an order guide](t_OrderProcess.md#)
+[Request an order guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_OrderProcess.md#)
 
-[Create an order guide](t_CreateAnOrderGuide.md)
+[Create an order guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md)
 

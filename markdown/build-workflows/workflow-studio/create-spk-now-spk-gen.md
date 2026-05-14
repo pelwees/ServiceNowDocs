@@ -40,13 +40,13 @@ Automate an integration and generate reusable actions by providing the required 
         |Spoke name|Name to identify the custom spoke.|
         |Description|Description about the custom spoke.|
 
-        ![Spoke generator window.](../images/build-spoke-now-assist.png "Spoke generator window")
+        ![Spoke generator window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/build-spoke-now-assist.png "Spoke generator window")
 
         **Note:**
 
-        The value of **App scope name** is the format: `x_<company-code>_<spoke-name>_<spoke>`. By default, the &lt;company-code&gt; is, `snc`. You can configure the company code by configuring **Value** of the system property, **glide.appcreator.company.code**.![Configuring Value of glide.appcreator.company.code.](../images/spoke-gen-sys-property.png)
+        The value of **App scope name** is the format: `x_<company-code>_<spoke-name>_<spoke>`. By default, the &lt;company-code&gt; is, `snc`. You can configure the company code by configuring **Value** of the system property, **glide.appcreator.company.code**.![Configuring Value of glide.appcreator.company.code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/spoke-gen-sys-property.png)
 
-        This configured value is used when the value **App scope name** is generated.![Configured value of App scope name.](../images/spoke-gen-app-scope.png)
+        This configured value is used when the value **App scope name** is generated.![Configured value of App scope name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/spoke-gen-app-scope.png)
 
     2.  If you choose to create the spoke in an existing scope, select an image as the logo for your integration and fill in the fields.
 
@@ -66,7 +66,7 @@ Application name
 
 </td><td>
 
-An existing application name or scope.![Select an existing application.](../images/spk-gen-existing-app-name.png)
+An existing application name or scope.![Select an existing application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/spk-gen-existing-app-name.png)
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Description about the custom spoke.
 
 6.  Select **Now Assist** and click **Continue** to generate reusable actions by providing the required third-party API documentation snippet.
 
-    ![Create spoke using Now Assist.](../images/now-assist-spk-gen2.png)
+    ![Create spoke using Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/now-assist-spk-gen2.png)
 
 7.  On the Generate action screen, paste the required content from the 360Learning API documentation in **Now Assist Context**.
 
@@ -99,19 +99,19 @@ Description about the custom spoke.
 
     **Note:** Ensure that you paste the documentation related to only one action at a time.
 
-    ![Create spoke action window.](../images/build-spoke-action-api-docs.png "Create spoke action window")
+    ![Create spoke action window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/build-spoke-action-api-docs.png "Create spoke action window")
 
 8.  Click **Generate preview**.
 
     The action preview is generated. Details of the action properties, inputs, outputs, and steps are displayed.
 
-    ![Action generation outcome preview.](../images/build-action-outcome-preview.png "Action generation outcome preview")
+    ![Action generation outcome preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/build-action-outcome-preview.png "Action generation outcome preview")
 
 9.  If you want to modify the generated action, modify the provided content in **Now Assist Context** accordingly and click **Regenerate preview**.
 
     If there are any missing fields in the content provided for **Now Assist Context**, an error message is displayed.
 
-    ![Action generation error sample.](../images/build-spoke-action-error.png "Action generation error sample")
+    ![Action generation error sample.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/build-spoke-action-error.png "Action generation error sample")
 
 10. Click **Continue**.
 
@@ -124,7 +124,7 @@ Description about the custom spoke.
     |Connection &amp; Credential name|Name to identify the connection and credential alias record.|
     |Configuration Template for authentication|Required authentication mechanism for this integration. Ensure that the authentication mechanism is compatible with the third-party application.|
 
-    ![Connection and credential alias window.](../images/build-spoke-alias.png "Connection and credential alias window")
+    ![Connection and credential alias window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/build-spoke-alias.png "Connection and credential alias window")
 
 13. Click **Create alias and continue**.
 

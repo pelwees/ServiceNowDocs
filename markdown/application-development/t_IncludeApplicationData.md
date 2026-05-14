@@ -67,10 +67,10 @@ Includes application data only when the application is installed with demo data.
 
     The system adds the records to the application files related list.
 
-    ![Include application data](../image/IncludeApplicationData.png)
+    ![Include application data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/IncludeApplicationData.png)
 
 6.  Repeat steps 1–5 for each application data table you want to include.
 
 
-**Parent Topic:**[Application sharing](../concept/c_SharingApplications.md)
+**Parent Topic:**[Application sharing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/c_SharingApplications.md)
 

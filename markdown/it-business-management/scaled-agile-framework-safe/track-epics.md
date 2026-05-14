@@ -35,8 +35,8 @@ Role required: sn\_portfolio\_safe.safe\_portfolio\_user
 
     2.  On the form, fill in the fields and submit it.
 
-        For more information on epic fields, see [Define an epic in SAFe](create-SAFeepic.md).
+        For more information on epic fields, see [Define an epic in SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeepic.md).
 
 
-**Parent Topic:**[SAFe Board—Portfolio level](../concept/portfolio-tabs.md)
+**Parent Topic:**[SAFe Board—Portfolio level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/portfolio-tabs.md)
 

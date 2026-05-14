@@ -28,7 +28,7 @@ Role required: agent\_client\_collector\_admin
 
 2.  Select **New**.
 
-3.  Select the application scope icon ![Application scope icon.](../image/application-scope-icon.png) and verify that you are in the Agent Client Collector Monitoring scope.
+3.  Select the application scope icon ![Application scope icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/application-scope-icon.png) and verify that you are in the Agent Client Collector Monitoring scope.
 
 4.  In the **Name** field, enter a name for the policy.
 
@@ -163,7 +163,7 @@ Value that you enter \(**-c**\) to indicate that the check retrieves the name of
 
     The following example displays a `.json` file for retrieving load-balancer metrics.
 
-    ![Azure metrics .json file.](../image/azure-metrics-json.png)
+    ![Azure metrics .json file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/azure-metrics-json.png)
 
     Add the `.json` file to the list of configuration files at **Agent Client Collector** &gt; **Configuration Files**.
 
@@ -173,7 +173,7 @@ Value that you enter \(**-c**\) to indicate that the check retrieves the name of
 
     2.  Copy a script from one of the Azure cloud policies that comes with the base system.
 
-        -   Cloud policies that come with the base system are described in [Create Azure policies for metric collection](create-policies-azure.md).
+        -   Cloud policies that come with the base system are described in [Create Azure policies for metric collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-policies-azure.md).
         -   The script is located in the **Config file creation script** field of the policy's **Proxy Settings** tab.
     3.  Paste the script into the **Config file creation script** field of your policy.
 
@@ -186,5 +186,5 @@ Value that you enter \(**-c**\) to indicate that the check retrieves the name of
 
 The configured policy retrieves the resources and their metrics from the specified Azure CI and sends them to the agent.
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](../concept/acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-shared-deployment.md)
 

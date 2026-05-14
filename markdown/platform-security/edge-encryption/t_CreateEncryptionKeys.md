@@ -57,5 +57,5 @@ To find out more about the keytool utility, see the [Java SE Documentation](http
     **Note:** The key password must be the same as the keystore password.
 
 
-**Parent Topic:**[Set up a Java KeyStore keystore](t_JavaKeyStoreSetUp.md)
+**Parent Topic:**[Set up a Java KeyStore keystore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_JavaKeyStoreSetUp.md)
 

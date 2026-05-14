@@ -46,13 +46,13 @@ ICM supports management of persons, property, vehicles, organizations, locations
 
 Investigators and supervisors will mainly interact with case entities through the dedicated entity tabs in the workspace. Each tab allows the user to create as many records as needed, as well as add related cases and associate other entities.
 
-![Entity tabs in Entity Management](../image/psds-icm-entities-tabs-highlight.png)
+![Entity tabs in Entity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-icm-entities-tabs-highlight.png)
 
 -   **Persons**
 
     The Person tab allows users to create and manage person records. Users are able to add new Persons, view existing ones in a related tab or list, and edit records. Users can add different person types to a case using the categories provided. Users are also able to link/delete other associated entities to a person, and view associated entities.
 
-    ![entity persons view](../image/psds-icm-persons-tab-entity.png)
+    ![entity persons view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-icm-persons-tab-entity.png)
 
 -   **Vehicles**
 
@@ -78,12 +78,12 @@ Investigators and supervisors will mainly interact with case entities through th
 
     The Firearm tab allows users to create and manage firearm records. Users can create and manage firearms and manually related entities. Each firearm profile stores critical identifiers, traits, and historical data. Users are able to add new firearms, view existing ones in a related tab or list, and edit them. The vehicle index and firearm index tables are an extension of the property index table.
 
-    ![entity firearms view](../image/psds-icm-firearms-tab-entity.png)
+    ![entity firearms view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-icm-firearms-tab-entity.png)
 
 
 ## Entity Completeness
 
 In the Entity Management form, not every field is mandatory, and is designed to capture as much information as possible, without imposing strict restrictions on the information that can be added. However, each entity record contains a completeness field that tracks whether the record has sufficient data to be searchable within ICM.
 
-An entity is only returned in search results when its completeness field is set to true. Completeness is recalculated automatically whenever relevant fields are updated, ensuring search visibility reflects the current state of the record. To see completeness rules for each entity type, see [Completeness Rules by Entity Type](../reference/psds-icm-ref-entity-man-completeness-rules.md).
+An entity is only returned in search results when its completeness field is set to true. Completeness is recalculated automatically whenever relevant fields are updated, ensuring search visibility reflects the current state of the record. To see completeness rules for each entity type, see [Completeness Rules by Entity Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/psds-icm-ref-entity-man-completeness-rules.md).
 

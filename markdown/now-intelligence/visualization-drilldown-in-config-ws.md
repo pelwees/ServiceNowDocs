@@ -13,25 +13,25 @@ breadcrumb: [Chart interactions in a data visualization, Configure, Data visuali
 
 When the chart interaction for a data visualization is set to Go to data, interacting with a data value on the visualization opens different pages depending on the data source.
 
-**Note:** For an overview of the data sources that are available for data visualizations, see [Data sources for data visualizations](../../par-for-workspace/reference/data-sources-visualizations.md).
+**Note:** For an overview of the data sources that are available for data visualizations, see [Data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/data-sources-visualizations.md).
 
 ## Table data visualizations
 
-**Go to data** chart interactions from table data visualizations open an associated list of table records. When the system property **com.glide.par.pae.drilldown\_to\_core\_ui** is true, the list is a Core UI list. When it is false, the list is a Platform Analytics list. If you are drilling down from a List, you open a table record either in Core UI or in Platform Analytics, again depending on **com.glide.par.pae.drilldown\_to\_core\_ui**. For more information, see [Data Visualization properties](../../par-for-workspace/reference/data-visualization-properties.md).
+**Go to data** chart interactions from table data visualizations open an associated list of table records. When the system property **com.glide.par.pae.drilldown\_to\_core\_ui** is true, the list is a Core UI list. When it is false, the list is a Platform Analytics list. If you are drilling down from a List, you open a table record either in Core UI or in Platform Analytics, again depending on **com.glide.par.pae.drilldown\_to\_core\_ui**. For more information, see [Data Visualization properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/reference/data-visualization-properties.md).
 
 **Note:** This system property does not apply to data visualizations in technical dashboards or other UIB pages, which use manually configured event handlers instead of chart interactions.
 
-![Drilling down from a single score visualization of table data to a list of table records.](../../par-for-workspace/image/dv-drilldown-table.gif)
+![Drilling down from a single score visualization of table data to a list of table records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-drilldown-table.gif)
 
 ## Indicator visualizations
 
-**Go to data** chart interactions from indicator visualizations open the associated KPI Details page. For more information, see [KPI Details](../../par-for-workspace/concept/kpi-details.md).
+**Go to data** chart interactions from indicator visualizations open the associated KPI Details page. For more information, see [KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/kpi-details.md).
 
-![Drilling down from the bar visualization of an indicator to the KPI Details page for that indicator on that date.](../../par-for-workspace/image/dv-drilldown-kpi.gif)
+![Drilling down from the bar visualization of an indicator to the KPI Details page for that indicator on that date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/dv-drilldown-kpi.gif)
 
 ## Usage Insights visualizations
 
-**Go to data** chart interactions from Usage Insights visualizations opens an overview page for the individual application in the visualization. The overview opens on the Data Foundations view that matches the data visualization: event, session, user, or page data. For more information, see [Navigating the Usage Insights application](../../../administer/user-exp-analytics/concept/user-exp-analytics-dashboard.md).
+**Go to data** chart interactions from Usage Insights visualizations opens an overview page for the individual application in the visualization. The overview opens on the Data Foundations view that matches the data visualization: event, session, user, or page data. For more information, see [Navigating the Usage Insights application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/user-exp-analytics/concept/user-exp-analytics-dashboard.md).
 
 ## Health Log Analytics visualizations
 
@@ -45,5 +45,5 @@ When the chart interaction for a data visualization is set to Go to data, intera
 
 **Important:** **Go to data** chart interactions for MetricBase require the Metric Explorer for Service Operations \(sn\_sow\_metric\_exp\) plugin.
 
-**Parent Topic:**[Chart interactions in a data visualization](../../par-for-workspace/concept/dv-chart-interactions.md)
+**Parent Topic:**[Chart interactions in a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/dv-chart-interactions.md)
 

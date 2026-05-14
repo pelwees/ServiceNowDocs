@@ -19,5 +19,5 @@ Product Catalog plugin adds the following client script.
 |-------------|-----|---------------|
 |Set Model Fields|\[pc\_vendor\_cat\_item\]|Adds the description and price, if they do not exist, when a vendor catalog item is added to the product catalog.|
 
-**Parent Topic:**[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
+**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 

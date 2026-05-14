@@ -27,7 +27,7 @@ Configuring an alert rule: Define simple conditions to evaluate an alert rule an
 
     Use these filter conditions to set your rules for a feed alert. Setting filter conditions help you to filter those alerts that are critical to your business locations from the thousands of feeds that come from the feed resources you have subscribed. Business locations can be corporate offices, employee locations, data centers, suppliers, and others.
 
-    ![Setting up filter for feed condition](../image/AlertTriggerCondition.png "Feed conditions")
+    ![Setting up filter for feed condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/AlertTriggerCondition.png "Feed conditions")
 
 -   **Advanced condition script filters**
 

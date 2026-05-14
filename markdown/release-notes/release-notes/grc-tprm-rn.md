@@ -18,11 +18,11 @@ The ServiceNow® Third-party Risk Management \(TPRM\) application provides a cen
 -   Review the simplified third‑party elements process in the due diligence workflow.
 -   Access the unified content management module in the Vendor Management Workspace to view a centralized library of smart assessment templates.
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-all-other-fixes.md)
 
 Use generative AI to recommend TPRM issues for reviewer validation.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -40,7 +40,7 @@ After upgrading to version 21.0.x, you can enable the Smart Assessment Engine \(
 
 Set this property in your non-production instances and conduct thorough testing before changing your production instances. Failure to do so may result in unexpected issues.
 
-For more information on upgrading from VRM to TPRM and the differences between the Smart and Classic Assessment engines, see [Third-party Risk Management upgrade information](grc-tprm-upgrade-info.md).
+For more information on upgrading from VRM to TPRM and the differences between the Smart and Classic Assessment engines, see [Third-party Risk Management upgrade information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-tprm-upgrade-info.md).
 
 For existing TPRM customers, after upgrading to version 21.0.3, data from the Industry column in the Company \[core\_company\] table is automatically migrated to the tprm\_industry column. Migration can take several hours depending on the number of records in the Company \[core\_company\] table. After migration, a system log message confirms that the migration is complete. Review the Company \[core\_company\] table content and update any customizations referencing the Industry field to use tprm\_industry. After verifying the migration and updating customizations, you can drop the Industry column.
 
@@ -119,8 +119,8 @@ Install Third-party Risk Management by requesting it from ServiceNow Store. Visi
     The ServiceNow® Smart Assessment Engine \(SAE\) application helps you to reduce the manual burden and costs of your assessment processes through automation.
 
 
--   **[Third-party Risk Management upgrade information](grc-tprm-upgrade-info.md)**  
+-   **[Third-party Risk Management upgrade information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-tprm-upgrade-info.md)**  
 ServiceNow® Third-party Risk Management application upgrade information for the Australia release.
 
-**Parent Topic:**[Governance, Risk, and Compliance release notes](grc-rn-landing.md)
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-rn-landing.md)
 

@@ -152,7 +152,7 @@ Actual Savings per Month
 State is Closed Complete AND Closed in Last 12 Months
 
 </td></tr></tbody>
-</table>[Removal candidate](../task/t_AddAReclCandidate.md) state color key:
+</table>[Removal candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/t_AddAReclCandidate.md) state color key:
 
 |Color|State|
 |-----|-----|
@@ -184,5 +184,5 @@ Compliance analysis consists of time-series data using Performance Analytics to 
 |Breakdowns|Shows the detailed list of results based on the widget selected.|
 |Records|Shows the detailed list of product results based on the widget selected.|
 
-**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
+**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../../../use/dashboards/application-content-packs/software-asset-mgmt-content-pack.md)
 

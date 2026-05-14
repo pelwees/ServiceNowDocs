@@ -23,7 +23,7 @@ Use the Prediction Results dashboard to determine if classification solution pre
 
 The Prediction Results dashboard reports on coverage, precision, and recall over time for classification solutions.
 
-With the Xanadu release, this dashboard has been migrated to the Next Experience UI. Customers upgrading from previous releases can access the Core UI version from the current dashboard. ![The Prediction Results dashboard for classification solutions, displayed in the Next Experience UI.](../images/review-prediction-results_X1.png)
+With the Xanadu release, this dashboard has been migrated to the Next Experience UI. Customers upgrading from previous releases can access the Core UI version from the current dashboard. ![The Prediction Results dashboard for classification solutions, displayed in the Next Experience UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/review-prediction-results_X1.png)
 
 On the Prediction Results dashboard, statistics are provided in two timeframes: the average for the past 30 days, and daily. The indicators coverage, precision, and recall are defined as follows.
 
@@ -50,5 +50,5 @@ On the Prediction Results dashboard, statistics are provided in two timeframes: 
 
 Refine the solution definition filter by including or excluding classes as needed. After updating, retrain the solution.
 
-**Parent Topic:**[Testing and monitoring predictions](../concept/testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/testing-reviewing-ml-solutions.md)
 

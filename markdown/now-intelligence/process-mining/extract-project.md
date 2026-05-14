@@ -23,7 +23,7 @@ Role required: none
 
 1.  From the application navigator, navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
-2.  Select the context menu ![Context menu](../image/workbench-project-menu-icon.png) on the project you want to refresh the data for.
+2.  Select the context menu ![Context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/workbench-project-menu-icon.png) on the project you want to refresh the data for.
 
 3.  Select **Mine project \(Full\)**.
 
@@ -38,5 +38,5 @@ Role required: none
 5.  After the mine completes successfully, select **View in Workspace** to view the refreshed project data.
 
 
-**Parent Topic:**[Using Process Mining](../concept/use-process-mining.md)
+**Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/use-process-mining.md)
 

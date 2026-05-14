@@ -17,13 +17,13 @@ Adding data visualizations helps users more easily identify trends and turning p
 
 Dashboard previews support the follow reporting charts:
 
--   [Bar \(vertical bar chart\)](mobile-reporting-bar.md)
--   [Donut](mobile-reporting-donut.md)
--   [Pie](mobile-reporting-pie.md)
--   [Line](mobile-reporting-time-series.md)
--   [Single score](mobile-reporting-single-score.md)
--   [Spline](mobile-reporting-time-series.md)
--   [Step line](mobile-reporting-time-series.md)
+-   [Bar \(vertical bar chart\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-bar.md)
+-   [Donut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-donut.md)
+-   [Pie](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-pie.md)
+-   [Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
+-   [Single score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-single-score.md)
+-   [Spline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
+-   [Step line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
 
-For more information on how users use these data visualizations on the mobile devices, see [Mobile platform dashboards](mobile-reporting-dashboard.md).
+For more information on how users use these data visualizations on the mobile devices, see [Mobile platform dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-dashboard.md).
 

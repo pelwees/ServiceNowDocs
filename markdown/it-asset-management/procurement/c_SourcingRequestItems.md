@@ -15,7 +15,7 @@ breadcrumb: [Procurement, IT Asset Management]
 
 A service catalog request can contain multiple items that must be sourced.
 
-![methods of sourcing requested items](../image/mmassert0021870-source-request-type-source-request-type.png "Methods of sourcing requested items")
+![methods of sourcing requested items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../image/mmassert0021870-source-request-type-source-request-type.png "Methods of sourcing requested items")
 
 **Note:** Only items with an assigned model can be sourced. You can’t source bundles.
 
@@ -41,41 +41,41 @@ When a source stockroom doesn’t have enough items in stock, you can specify mu
 
 To source a requested software license, you must assign the rights of the software license to a user or a device so that they’re authorized to use the software.
 
--   **[Create a purchase order from a request](../task/t_CreatingPurchOrderFromRequest.md)**  
+-   **[Create a purchase order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_CreatingPurchOrderFromRequest.md)**  
 You can create a purchase order directly from a request. This approach enables procurement managers to obtain items and fulfill requests from the Service Catalog. You can create multiple purchase orders from a request.
--   **[Create a transfer order from a request](../task/t_CreatingTransferOrderFromReq.md)**  
+-   **[Create a transfer order from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_CreatingTransferOrderFromReq.md)**  
 You can create a transfer order directly from a request to source hardware items and consumables from stockrooms.
--   **[Source requests from local stockrooms](../task/consume-local-asset-stock.md)**  
+-   **[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/consume-local-asset-stock.md)**  
 Get visibility into local stockrooms at the time of sourcing requests.
--   **[Add an assignment from a request](../task/t_AddingAssignmentsFromReq.md)**  
+-   **[Add an assignment from a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_AddingAssignmentsFromReq.md)**  
 You can add assignments directly from a request to source rights from software licenses.
 
-**Parent Topic:**[Procurement](c_Procurement.md)
+**Parent Topic:**[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_Procurement.md)
 
 **Related topics**  
 
 
-[Procurement roles](../reference/r_ProcurementRoles.md)
+[Procurement roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../reference/r_ProcurementRoles.md)
 
-[Procurement workflows](c_ProcurementWorkflows.md)
+[Procurement workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_ProcurementWorkflows.md)
 
-[Use the Procurement Overview module](../task/t_UsingTheProcurementOverviewModule.md)
+[Use the Procurement Overview module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_UsingTheProcurementOverviewModule.md)
 
-[Activate Procurement](../task/t_ActivateProcurement.md)
+[Activate Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_ActivateProcurement.md)
 
-[Procurement purchase order management for assets](c_UseProcurement.md)
+[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_UseProcurement.md)
 
-[Receive assets](c_ReceiveAssets.md)
+[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_ReceiveAssets.md)
 
-[Domain separation and Procurement](domain-separation-procurement.md)
+[Domain separation and Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/domain-separation-procurement.md)
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_TransferOrders.md)
 
-[Track a request from the service catalog](../task/t_TrackReqFromServiceCatalog.md)
+[Track a request from the service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/t_TrackReqFromServiceCatalog.md)
 
-[Models](../../product-catalog/concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../../product-catalog/concept/c_Models.md)
 
-[Bundled models](../../product-catalog/concept/c_CreatingBundledModels.md)
+[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../../product-catalog/concept/c_CreatingBundledModels.md)
 
-[Source requests from local stockrooms](../task/consume-local-asset-stock.md)
+[Source requests from local stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/procurement/../task/consume-local-asset-stock.md)
 

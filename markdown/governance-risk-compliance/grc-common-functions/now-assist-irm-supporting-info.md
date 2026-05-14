@@ -93,5 +93,5 @@ This store app has the following dependencies:
 -   GRC Compliance Generative AI.
 -   Recommendation Template.
 
-For more information, see [Configure Now Assist for Integrated Risk Management \(IRM\)](configure-now-assist-for-irm.md).
+For more information, see [Configure Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-now-assist-for-irm.md).
 

@@ -31,12 +31,12 @@ Role required: sn\_align\_core.apw\_user
 
 4.  Use the personalized side panel to export the data of your portfolio plan items.
 
-    1.  Select Export icon \(![Export icon.](../images/icon-export-data.png)\).
+    1.  Select Export icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/icon-export-data.png)\).
 
     2.  From the **File type** drop-down on the Export window, select **Excel** or **CSV** to export the data to a Microsoft Excel or CSV file respectively.
 
         A file with the selected format is exported. By default, the name of the file is **ABC\_Scoring\_List** where ABC is the name of the portfolio plan you exported the data from.
 
 
-**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](../../spw-scoring/concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
+**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-scoring/concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
 

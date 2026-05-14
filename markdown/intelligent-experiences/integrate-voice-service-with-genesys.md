@@ -92,7 +92,7 @@ Client Secret
 Base64-encoded client secret used to provide secure access to the required resources. Copy the Client Secret for later use.For more information on Client Secret and API Key, see [Client Authentication](https://developer.genesys.cloud/devapps/audiohook/security#client-authentication).
 
 </td></tr></tbody>
-</table>    ![Genesys Cloud service integration configuration.](../image/voice-agents-genesys-integration.png "Genesys Cloud service integration configuration")
+</table>    ![Genesys Cloud service integration configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/voice-agents-genesys-integration.png "Genesys Cloud service integration configuration")
 
 5.  Create Audio Connector integration.
 
@@ -104,7 +104,7 @@ Base64-encoded client secret used to provide secure access to the required resou
 
     4.  In the **Configuration** tab, select **Properties**, and add the Base Connection URI from your ServiceNow voice assistant integration for Genesys Cloud in the Base Connection URI field.
 
-        .![Audio Connector integration setup in Genesys Cloud service.](../image/voice-agents-genesys-integrations-config.png)
+        .![Audio Connector integration setup in Genesys Cloud service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/voice-agents-genesys-integrations-config.png)
 
     5.  Select **Credentials**, and add the API Key and Client Secret obtained from ServiceNow voice assistant integration for Genesys Cloud.
 
@@ -120,7 +120,7 @@ Base64-encoded client secret used to provide secure access to the required resou
 
         If you intend to use live agent transfer as the fallback option, add the transfer logic in the call flow and validate the flow.
 
-        ![Sample call flow in Genesys Cloud service.](../image/voice-agents-genesys-architect-flow.png "Sample inbound call flow")
+        ![Sample call flow in Genesys Cloud service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/voice-agents-genesys-architect-flow.png "Sample inbound call flow")
 
     2.  Select **Save** to save and **Publish** to publish the call flow.
 
@@ -134,7 +134,7 @@ Base64-encoded client secret used to provide secure access to the required resou
 
     3.  Select **Save**.
 
-        ![Call routing setup in Genesys Cloud service.](../image/voice-agents-genesys-integration-call-routing.png)
+        ![Call routing setup in Genesys Cloud service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/voice-agents-genesys-integration-call-routing.png)
 
 8.  Assign a phone number to the call route.
 
@@ -143,5 +143,5 @@ Base64-encoded client secret used to provide secure access to the required resou
     2.  Select a DID number and assign the number to the call route created earlier.
 
 
-**Parent Topic:**[Integrating voice assistant with CCaaS provider](integrating-voice-service-with-ccaas-providers.md)
+**Parent Topic:**[Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md)
 

@@ -45,15 +45,15 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 5.  On the required recall campaign phase form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-recall-campaign-phases-form.md).
 
 6.  Select **Save**.
 
     |Related list|Description|
     |------------|-----------|
-    |[Assign an impacted asset](mco_assign_impacted_asset.md)|Assign an impacted asset to the recall campaign.|
-    |[Adding a phase task](mco-phase-task.md)|Agents workspace enables the manufacturers to add the phase task details for the recall campaigns.|
-    |[Adding a sub-phase](mco_recall_campaign_phases.md)|Create a sub-phase for a parent phase.|
+    |[Assign an impacted asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco_assign_impacted_asset.md)|Assign an impacted asset to the recall campaign.|
+    |[Adding a phase task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-phase-task.md)|Agents workspace enables the manufacturers to add the phase task details for the recall campaigns.|
+    |[Adding a sub-phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco_recall_campaign_phases.md)|Create a sub-phase for a parent phase.|
 
 7.  Add a sub-phase by selecting the plus icon \(+\).
 
@@ -61,10 +61,10 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 8.  On the recall campaign phases form, fill in the fields.
 
-    For a description of the field values, see [Recall campaign phase form](../reference/mco-recall-campaign-phases-form.md).
+    For a description of the field values, see [Recall campaign phase form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/mco-recall-campaign-phases-form.md).
 
 9.  Select **Submit**.
 
 
-**Parent Topic:**[Recall a campaign phase](mco-recall-campaign-phases.md)
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 

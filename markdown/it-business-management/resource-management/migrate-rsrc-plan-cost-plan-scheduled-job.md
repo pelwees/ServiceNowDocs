@@ -33,8 +33,8 @@ Role required: admin
 
 5.  Select **Execute Now** to execute the scheduled job or select **Update** to save your changes.
 
-    Alternatively, you can [migrate resource plans](migrate-rsrc-plan-rsrc-asgnmnt.md) and [migrate operational resource plans](migrate-operational-rsrc-plans.md) for required projects and demands.
+    Alternatively, you can [migrate resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md) and [migrate operational resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-operational-rsrc-plans.md) for required projects and demands.
 
 
-**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](../concept/rsrc-plans-rsrc-asgmnts.md)
+**Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/rsrc-plans-rsrc-asgmnts.md)
 

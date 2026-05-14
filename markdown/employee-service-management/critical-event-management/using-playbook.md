@@ -25,7 +25,7 @@ Role required: sn\_critical.agent
 
 2.  On the Critical Event form, fill in the fields and select **Save**.
 
-    For a description of the field values, see [Critical Event form](../reference/new-critical-event-form.md).
+    For a description of the field values, see [Critical Event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../reference/new-critical-event-form.md).
 
 3.  Open the critical event and select the **Playbook** tab.
 
@@ -53,7 +53,7 @@ Role required: sn\_critical.agent
 
     4.  Select **Compose** on an initial-communication template or select **Go to Notification center** to compose an ad-hoc communication for the impacted people.
 
-        For more details on sending ad-hoc communication, see [Create a communication task](create-new-communication.md)
+        For more details on sending ad-hoc communication, see [Create a communication task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-new-communication.md)
 
     5.  Choose the **Activate on-site responder** template and send communication to on-site responders, to inform them of the ongoing event.
 

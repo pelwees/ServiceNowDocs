@@ -68,7 +68,7 @@ Submit, view, search and manage legal request and matter
 
 To learn more about configuring and using , see:
 
--   [Configure Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-configure.md)
--   [Use Microsoft Outlook Add-In for Legal Service Delivery](lsd-outlook-addin-use.md)
--   [Microsoft Outlook Add-In for Legal Service Delivery reference](lsd-outlook-addin-refrence.md)
+-   [Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-configure.md)
+-   [Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
+-   [Microsoft Outlook Add-In for Legal Service Delivery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-refrence.md)
 

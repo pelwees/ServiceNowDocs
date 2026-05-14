@@ -26,7 +26,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 1.  Navigate to **All** &gt; **Capacity Management** &gt; **Metrics**.
 
-2.  Select the info icon \(![Info Icon.](../image/icon-info-list.png)\) beside a capacity metric record to view the details.
+2.  Select the info icon \(![Info Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-info-list.png)\) beside a capacity metric record to view the details.
 
     You see the following details:
 
@@ -39,10 +39,10 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
     |Capacity function|Name of the capacity function record.|
 
 
-**Parent Topic:**[Configuring capacity management](../concept/configuring-capacity-management.md)
+**Parent Topic:**[Configuring capacity management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configuring-capacity-management.md)
 
 **Related topics**  
 
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/capacity-management-reporting.md)
 

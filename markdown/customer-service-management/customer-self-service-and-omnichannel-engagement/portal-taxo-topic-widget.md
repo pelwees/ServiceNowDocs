@@ -17,7 +17,7 @@ The Portal Taxonomy Topic widget displays topics as cards on your portal page. I
 
 Display topic-related information to your users through cards displayed on your portal page that are defined through the Portal Browse Taxonomy widget. When a topic is selected on a card, your user is automatically redirected to a portal page that is defined when you configure a Portal Browse Taxonomy widget. This widget displays knowledge articles and catalog items related to the selected topic. You can display up to eight topics as cards.
 
-![The Portal Taxonomy Topic widget displaying different services and resources as taxonomy topics.](../image/port-taxo-topic.png "Portal Taxonomy Topic widget")
+![The Portal Taxonomy Topic widget displaying different services and resources as taxonomy topics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/port-taxo-topic.png "Portal Taxonomy Topic widget")
 
-For more information, see [Add and configure the Portal Taxonomy Topic widget](../task/add-conf-port-taxo-topic.md).
+For more information, see [Add and configure the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/add-conf-port-taxo-topic.md).
 

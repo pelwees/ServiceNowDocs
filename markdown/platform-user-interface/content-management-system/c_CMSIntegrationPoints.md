@@ -26,29 +26,29 @@ The templates work together to pass data attributes or [Unique record identifier
 
 Understanding how content types work can mean the difference between a site with 20 pages versus a site with 200 pages. There is a time for both types of data calls. Depending on the task, there are appropriate times to use static content and times for dynamic methods.
 
--   **[View links between system elements and URLs](../task/t_LinkToContent.md)**  
+-   **[View links between system elements and URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_LinkToContent.md)**  
 You can view the links between your system elements and their URLs to render more specific content within your site.
--   **[Static methods](c_StaticMethods.md)**  
+-   **[Static methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_StaticMethods.md)**  
 Static methods in the CMS application were created for ease of use.
--   **[Dynamic methods](c_DynamicMethods.md)**  
+-   **[Dynamic methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_DynamicMethods.md)**  
 While static methods are a powerful navigational tool, you have more control over data rendering using the dynamic methods.
--   **[Example integration points](c_IntegrationPointsExample.md)**  
+-   **[Example integration points](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_IntegrationPointsExample.md)**  
 Each element on the page links to a specific URL point.
 
-**Parent Topic:**[Content Management System](c_ContentManagementSystem.md)
+**Parent Topic:**[Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSystem.md)
 
 **Related topics**  
 
 
-[Content Management design](c_ContentManagementPlanning.md)
+[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 
-[Domain separation and the Content Management System](domain-separation-content-management.md)
+[Domain separation and the Content Management System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/domain-separation-content-management.md)
 
-[Configure Content Management sites](../task/t_CreateASite.md)
+[Configure Content Management sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateASite.md)
 
-[Content Management testing](c_ContentManagementTesting.md)
+[Content Management testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTesting.md)
 
-[Global search in Content Management](c_UseGlobalSearchContentManagement.md)
+[Global search in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_UseGlobalSearchContentManagement.md)
 
-[CMS translation](c_CMSTranslation.md#)
+[CMS translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSTranslation.md#)
 

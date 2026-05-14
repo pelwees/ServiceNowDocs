@@ -31,7 +31,7 @@ Role required: sn\_sow\_svcobs.admin
     -   **Express list** alert: Select a service from the **Impacted services** column.
     The Service Details page opens and the Overview tab is displayed.
 
-    If charts are displaying error messages, see [Chart error states](../reference/chart-error-states.md).
+    If charts are displaying error messages, see [Chart error states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/../reference/chart-error-states.md).
 
 2.  Open the template in editing mode.
 
@@ -66,5 +66,5 @@ Role required: sn\_sow\_svcobs.admin
 7.  To return the template to the default \(Certified\) version, use the **More actions** menu to select **Return to certified**.
 
 
-**Parent Topic:**[Customize Service Observability dashboard templates](customize-service-observability-dashboard-templates.md)
+**Parent Topic:**[Customize Service Observability dashboard templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md)
 

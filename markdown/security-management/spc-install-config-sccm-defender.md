@@ -119,6 +119,6 @@ Roles required:
 
 11. Select **Done**.
 
-    The configuration page should look like the screen in the following image.![SPC API Integrations page after successful configuration of Microsoft SCCM](../image/spc-api-integration-sccm.png)
+    The configuration page should look like the screen in the following image.![SPC API Integrations page after successful configuration of Microsoft SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/spc-api-integration-sccm.png)
 
 

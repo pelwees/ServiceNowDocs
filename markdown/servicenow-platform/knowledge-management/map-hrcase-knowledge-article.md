@@ -104,5 +104,5 @@ Role required: admin
     If the fields configured in the basic and advanced field mapping are different, the field configurations in the advanced field mapping are appended to the field configurations in the basic field mapping.
 
 
-**Parent Topic:**[Enable actionable knowledge feedback](configure-act-know-feedback-properties.md)
+**Parent Topic:**[Enable actionable knowledge feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-act-know-feedback-properties.md)
 

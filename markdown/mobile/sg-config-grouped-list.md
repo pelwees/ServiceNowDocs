@@ -15,7 +15,7 @@ Create a group list to provide a view of a list of records grouped by a field yo
 
 ## Before you begin
 
-Before you can create a group list screen, you must create a data item with a group configuration. For more information on configuring a data item, see [Configure a standard data item](sg-studio-create-data-item.md), and note the optional steps for setting the **Group by** field.
+Before you can create a group list screen, you must create a data item with a group configuration. For more information on configuring a data item, see [Configure a standard data item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md), and note the optional steps for setting the **Group by** field.
 
 Role required: admin
 
@@ -164,7 +164,7 @@ On tap function instance
 
 Determine what actions appear when a user taps on a list item.
 
- Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](../concept/mobile-nav-functions.md).
+ Select a navigation function or select **New** to create one. For more information about creating a navigation function, see [Navigation functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-nav-functions.md).
 
  **Note:** This option only appears when **Use a function instance** is selected for **On tap**.
 
@@ -337,7 +337,7 @@ The function used within this function instance.
 </td></tr></tbody>
 </table>23. In the **Function** section, select **Choose** to use a function or select **New** to create one.
 
-    For more information on mobile functions, see [Mobile functions](../concept/sg-studio-mobile-button-types.md).
+    For more information on mobile functions, see [Mobile functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-studio-mobile-button-types.md).
 
 24. Select **Save**.
 
@@ -346,5 +346,5 @@ The function used within this function instance.
 
 You now have an screen displaying a list of records, grouped by the field you defined in your data item.
 
-![Group list screen with items from the incident table grouped by category.](../image/GroupedListApplet.png "Group List screen")
+![Group list screen with items from the incident table grouped by category.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GroupedListApplet.png "Group List screen")
 

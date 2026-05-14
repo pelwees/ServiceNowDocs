@@ -18,7 +18,7 @@ Specify the nodes you want your Adobe Experience Manager as a Cloud Service exte
 
 ## Before you begin
 
-A connector admin must have already created the Adobe Experience Manager as a Cloud Service external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create an Adobe Experience Manager as a Cloud Service external content connector](create-ext-cont-connector-adobe-expmgr-cs.md).
+A connector admin must have already created the Adobe Experience Manager as a Cloud Service external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create an Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-adobe-expmgr-cs.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -71,7 +71,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude assets with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported asset file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported asset file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 6.  Select **Save and validate**.
 
@@ -82,7 +82,7 @@ The Adobe Experience Manager as a Cloud Service external content connector is up
 
 ## What to do next
 
-To retrieve content from your Adobe Experience Manager as a Cloud Service source system using your modified crawl settings, create and run a one-time content crawl for your Adobe Experience Manager as a Cloud Service external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Adobe Experience Manager as a Cloud Service source system using your modified crawl settings, create and run a one-time content crawl for your Adobe Experience Manager as a Cloud Service external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](../concept/adobe-expmgr-cs-external-content-connector.md)
+**Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/adobe-expmgr-cs-external-content-connector.md)
 

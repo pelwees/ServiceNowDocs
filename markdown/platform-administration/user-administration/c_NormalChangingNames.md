@@ -23,7 +23,7 @@ You have several options for changing a normalized company name:
 
 **Warning:** If you edit a field whose value is a normalized name, you change the normalized name for ALL discovered names that map to it.
 
-**Parent Topic:**[Normalization data services](c_NormalizationOverview.md)
+**Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 
 ## Change a normalized company name
 

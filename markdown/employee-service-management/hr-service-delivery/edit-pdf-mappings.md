@@ -29,7 +29,7 @@ Information on the PDF is parsed and stored in the PDF Mapping table. **Parse PD
 
 2.  Select **PDF Document Template**.
 
-3.  [Configure the PDF template.](configure-editable-pdf.md)
+3.  [Configure the PDF template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-editable-pdf.md)
 
 4.  Click the **Parse PDF** related link.
 

@@ -17,7 +17,7 @@ CPQ configurators should be tested in non-production environments before they ar
 
 CPQ configurators are key to organizations' revenue production processes. Therefore, you must take care to ensure all configurators work as expected before they are introduced to sales users, partners, and customers. All CPQ implementations have at least one non-production environment for this purpose. Some customer IT organizations have development processes that require a larger development stack.
 
-![Workflow](../images/cpq-logik-development-stacks.png)
+![Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-development-stacks.png)
 
 Because all maintenance and development must be tested in a non-production environment before promotion, this also means that:
 
@@ -27,9 +27,9 @@ Because all maintenance and development must be tested in a non-production envir
 **Related topics**  
 
 
-[Migrate a blueprint from environment to environment](../task/cpq-migrating-env-to-env.md)
+[Migrate a blueprint from environment to environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-migrating-env-to-env.md)
 
-[Migrate a blueprint to an SFDC-integrated destination](../task/cpq-migrating-to-sfdc.md)
+[Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-migrating-to-sfdc.md)
 
-[The fullBlueprintMigration parameter](../reference/cpq-fullblueprintmigration-param.md)
+[The fullBlueprintMigration parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/cpq-fullblueprintmigration-param.md)
 

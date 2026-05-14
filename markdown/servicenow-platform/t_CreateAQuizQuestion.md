@@ -19,19 +19,19 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-The [data type](../concept/c_QuizDesigner.md) that you select for each question determines how it can be answered by quiz recipients.
+The [data type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_QuizDesigner.md) that you select for each question determines how it can be answered by quiz recipients.
 
 You can designate questions to be scored. Only scored questions are shown in the quiz results and considered when calculating the category results. You must also specify a correct answer for scored questions.
 
 **Note:**
 
-To designate a question as scored, you must use Assessment forms. For instructions, see [Configure a scored question](t_ConfigureAScoredQuestion.md).
+To designate a question as scored, you must use Assessment forms. For instructions, see [Configure a scored question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAScoredQuestion.md).
 
 ## Procedure
 
 1.  In the Design view, drag a data type icon from the Controls palette and drop it into a category container.
 
-    ![Quiz designer drag and drop](../images/QuizDesignerDragDrop.png)
+    ![Quiz designer drag and drop](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizDesignerDragDrop.png)
 
 2.  Configure the question.
 
@@ -39,11 +39,11 @@ To designate a question as scored, you must use Assessment forms. For instructio
 
     1.  Select in the gear icon in its title bar.
 
-        ![Quiz designer question properties](../images/QuizDesignerQuestionProp.png)
+        ![Quiz designer question properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizDesignerQuestionProp.png)
 
     2.  On the Properties form, fill in the fields.
 
-        For a description of the field values, see [Question Properties form](../reference/question-property-form.md).
+        For a description of the field values, see [Question Properties form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/question-property-form.md).
 
     3.  Create any special conditions that must be met for a question to appear on the quiz by selecting the **Dependency** tab and filling in the fields.
 
@@ -57,7 +57,7 @@ To designate a question as scored, you must use Assessment forms. For instructio
 
         Selected answers are indicated by a check mark.
 
-        ![Quiz designer dependency](../images/QuizDesignerDependency.png)
+        ![Quiz designer dependency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizDesignerDependency.png)
 
     6.  Select **X** to close the question properties dialog box and save your settings.
 
@@ -66,5 +66,5 @@ To designate a question as scored, you must use Assessment forms. For instructio
 4.  Delete a question by selecting the X in its title bar.
 
 
-**Parent Topic:**[Create a quiz](t_CreateaQuiz.md)
+**Parent Topic:**[Create a quiz](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 

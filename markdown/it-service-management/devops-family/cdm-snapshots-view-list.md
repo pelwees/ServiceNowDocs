@@ -63,7 +63,7 @@ Published
 
 Boolean that indicates whether the snapshot is published. Only published snapshots can be exported.**Important:** By default, exporters use the most recently created published snapshot.
 
- While defining or updating a deployable, you can specify that only validated snapshots can be published. You can unupublish a snapshot. See [Publish or unpublish a snapshot](cdm-snapshot-publish.md).
+ While defining or updating a deployable, you can specify that only validated snapshots can be published. You can unupublish a snapshot. See [Publish or unpublish a snapshot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-snapshot-publish.md).
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ Validation status:-   Not validated: This is the initial snapshot state where no
 -   In progress: The validation flow is running and policies are currently executing.
 -   Passed: The snapshot has passed all policies.
 -   Failed: The snapshot has failed one or more policies.
--   Execution error: A policy failed to run to completiondue to an unexpected error, mostly when the [CdmPolicyUtil script include](../reference/cdm-about-cdmpolicyutil.md) is not used to provide warning and failure messages..
+-   Execution error: A policy failed to run to completiondue to an unexpected error, mostly when the [CdmPolicyUtil script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-about-cdmpolicyutil.md) is not used to provide warning and failure messages..
 
 
 </td></tr><tr><td>

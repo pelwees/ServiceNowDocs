@@ -17,7 +17,7 @@ Upload your resume or LinkedIn profile as part of your onboarding journey and ad
 
 ## About this task
 
-**Note:** You can upload your resume or LinkedIn profile after your employee profile is created in Employee Center. For more information, see [Import skills from your resume or LinkedIn profile](import-skills-from-resume.md).
+**Note:** You can upload your resume or LinkedIn profile after your employee profile is created in Employee Center. For more information, see [Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md).
 
 ## Before you begin
 
@@ -54,5 +54,5 @@ Role required: sn\_skills\_int.emp
 10. Select **View profile** to verify that the skills that were added.
 
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

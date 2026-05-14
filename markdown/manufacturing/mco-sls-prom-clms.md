@@ -19,7 +19,7 @@ This feature enables the seamless collaboration between OEMs and their dealers t
 -   Creation of claim against the promotion by the dealer.
 -   Review and reimbursement for the claim by the OEM.
 
-![Sales promotion workflow](../image/salespromotion-claim-wf.png "Sales promotion workflow")
+![Sales promotion workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/salespromotion-claim-wf.png "Sales promotion workflow")
 
 1.  Create sales promotion: OEM creates the sales promotion campaign.
 2.  Associate products: OEM adds the products applicable for the sales promotion campaign.
@@ -48,19 +48,19 @@ This feature enables the seamless collaboration between OEMs and their dealers t
 
 Use the following to configure, use, and manage the sales promotions in MCO.
 
-Review the entities and relationships within the [Sales promotion campaign data model](../reference/sales-promotion-campaign-claims.md) application, including tables added or modified by the sales promotion plugin.
+Review the entities and relationships within the [Sales promotion campaign data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/sales-promotion-campaign-claims.md) application, including tables added or modified by the sales promotion plugin.
 
 1.  Configure the sales promotion: Complete the following tasks to set up sales promotion in your environment.
     1.  Install Sales promotion claim management \[sn\_sls\_prm\_clm\_mgt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md).
-    2.  Set up product models and parts: [Configuring product models](mco-product-models.md)
-    3.  Set up assets and install base items: [Configuring assets](mco-assets.md) and [Create an install base item](mco-create-install-base-item.md)
-    4.  Set up dealers: [Set up dealer](set-up-dealer.md)
-    5.  Assign recall roles: [Assign roles](assign-mco-roles.md)
-    6.  [Set up sales promotion](mco-set-up-sls-prom.md)
+    2.  Set up product models and parts: [Configuring product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md)
+    3.  Set up assets and install base items: [Configuring assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md) and [Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md)
+    4.  Set up dealers: [Set up dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/set-up-dealer.md)
+    5.  Assign recall roles: [Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)
+    6.  [Set up sales promotion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-set-up-sls-prom.md)
 2.  Work with sales promotion \(OEM\): Use the Agents \(CSM/FSM\) workspace to create and manage sales promotion campaigns and review claims.
-    -   [Sales promotion management](mco-sls-pro-mgmt.md)
-    -   [Sales promotion claim management](mco-sls-pro-clm-mgmt.md)
+    -   [Sales promotion management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)
+    -   [Sales promotion claim management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-clm-mgmt.md)
 3.  Work with sales promotion \(Dealer\): Use the Dealer portal to submit and track sales promotion claims.
-    -   [Submit a sales promotion claim](../task/mco-sales-promotion-single-claim.md)
-    -   [Upload a bulk sales promotion claim](../task/mco-sales-promotion-bulk-upload.md)
+    -   [Submit a sales promotion claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-sales-promotion-single-claim.md)
+    -   [Upload a bulk sales promotion claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-sales-promotion-bulk-upload.md)
 

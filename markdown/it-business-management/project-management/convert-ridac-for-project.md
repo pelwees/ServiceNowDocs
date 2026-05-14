@@ -43,7 +43,7 @@ You can also view the consolidated list of all converted RIDAC records using the
 
 6.  Modify the text in the **Short description** field, which is copied from the parent record.
 
-7.  Change the default assignment copied from the parent record in the **Assigned to** field by selecting the lookup icon \(![Lookup icon](../../project-workspace/image/lookup_icon.png)\) and selecting a different user.
+7.  Change the default assignment copied from the parent record in the **Assigned to** field by selecting the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../project-workspace/image/lookup_icon.png)\) and selecting a different user.
 
 8.  If you want to close the parent RIDAC record on creation of the new record, select the close parent record option.
 
@@ -55,7 +55,7 @@ You can also view the consolidated list of all converted RIDAC records using the
 **Related topics**  
 
 
-[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](../concept/ridac-entries-for-project.md)
+[Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/ridac-entries-for-project.md)
 
-[Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](reassociate-ridac-project.md)
+[Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md)
 

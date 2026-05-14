@@ -90,5 +90,5 @@ If the screens are captured in Windows applications, for Active Accessibility mo
 |Common|SetMatchRuleValue|
 |Common|WaitForCreate|
 
-**Parent Topic:**[Universal app connector](../concept/universal-app-connector.md)
+**Parent Topic:**[Universal app connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/universal-app-connector.md)
 

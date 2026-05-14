@@ -121,17 +121,17 @@ The manifest file for the add-in is created.
 
 Perform any of the following actions as per requirement:
 
--   [Upload the manifest file for a single user](upload-manifest-for-single-user.md)
--   [Upload the manifest file in Microsoft Office 365](upload-the-manifest-file-office365.md)
+-   [Upload the manifest file for a single user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/upload-manifest-for-single-user.md)
+-   [Upload the manifest file in Microsoft Office 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/upload-the-manifest-file-office365.md)
 
-**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](../concept/configure-workplace-rsv-for-outlook-addin.md)
+**Parent Topic:**[Configure Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/../concept/configure-workplace-rsv-for-outlook-addin.md)
 
 **Related topics**  
 
 
-[Install Workplace Reservations for Microsoft Outlook Add-in](install-workplace-reservations-for-outlook-addin.md)
+[Install Workplace Reservations for Microsoft Outlook Add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/install-workplace-reservations-for-outlook-addin.md)
 
-[Upload the manifest file for a single user](upload-manifest-for-single-user.md)
+[Upload the manifest file for a single user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/upload-manifest-for-single-user.md)
 
-[Upload the manifest file in Microsoft Office 365](upload-the-manifest-file-office365.md)
+[Upload the manifest file in Microsoft Office 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/upload-the-manifest-file-office365.md)
 

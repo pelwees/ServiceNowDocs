@@ -20,11 +20,11 @@ By default, the system stores up to 15 selections from a reference field for eac
 -   The system doesn't store recent selections for Service Catalog reference variables.
 -   Recent selections aren't available in the Service Portal or mobile user interfaces.
 
-![An empty reference field to the User table displaying a list of two recent user selections: Beth Anglin and Eric Shroeder.](../image/RecentSelections.png "Recent selections")
+![An empty reference field to the User table displaying a list of two recent user selections: Beth Anglin and Eric Shroeder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RecentSelections.png "Recent selections")
 
 The system uses auto-complete to filter the list of recent selections to match the values that you enter.
 
-![A partially-filled in reference field to the User table displaying a filtered list of users whose names begin with the letter B.](../image/RecentSelectionsFiltered.png "Recent selections filtered")
+![A partially-filled in reference field to the User table displaying a filtered list of users whose names begin with the letter B.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/RecentSelectionsFiltered.png "Recent selections filtered")
 
 The system adds a Recent Selection record whenever you insert or update a reference field value. Administrators can control the number of recent selections the system displays with the **glide.xmlhttp.max\_choices** system property. Setting the property to zero disables recent selections.
 
@@ -36,5 +36,5 @@ The system adds a Recent Selection record whenever you insert or update a refere
 **Related topics**  
 
 
-[Available system properties](../../reference-pages/reference/r_AvailableSystemProperties.md#)
+[Available system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#)
 

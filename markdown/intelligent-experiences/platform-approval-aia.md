@@ -35,7 +35,7 @@ The Approval assistance AI agent displays data from the Approvals \[sysapproval\
 
 Required role:
 
-AI agents use [role masking](aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](../task/define-sec-controls-aia.md).
+AI agents use [role masking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/define-sec-controls-aia.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to evaluate for readiness. For example, you can add the itil role to the AI agent's list of approved roles so that it can access Incident records.
 
@@ -60,7 +60,7 @@ After the agent has been activated in AI Agent Studio, enter phrases such as the
 
 The Approval assistance AI agent shows approval requests that require an action on your part. After the approval information is provided by the agent, select **Approve** or **Reject** for a specific approval record, or type `Approve` or `Reject`. If you reject an approval request, then add a comment about the rejection reason.
 
-![Now Assist Approve or Reject options for an Approval.](../image/aia-approve-reject.png "Approve or reject an approval record")
+![Now Assist Approve or Reject options for an Approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-approve-reject.png "Approve or reject an approval record")
 
-**Parent Topic:**[Platform AI agents](platform-ai-agents.md)
+**Parent Topic:**[Platform AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-agents.md)
 

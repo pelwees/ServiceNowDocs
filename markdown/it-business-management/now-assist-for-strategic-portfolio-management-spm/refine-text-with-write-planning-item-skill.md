@@ -17,7 +17,7 @@ Improve record quality by enabling AI-assisted text refinement in the text field
 
 ## Before you begin
 
-The Refine record skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+The Refine record skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 If you have users with custom roles that need access to this skill, you must update ACLs for those roles and also add those custom roles to the In product role.
 
@@ -45,11 +45,11 @@ This task is explained using Strategic Planning Workspace as the example.
 
 4.  Select the **Refine with Now assist** menu and then select **Shorten** or **Elaborate** based on your requirement.
 
-    ![Use Now Assist refine menu to refine or improve text of SPM records.](../images/write-planning-items-skill-sp.png)
+    ![Use Now Assist refine menu to refine or improve text of SPM records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/write-planning-items-skill-sp.png)
 
 5.  Select **Replace** to replace the content in the text field.
 
-    ![AI-generated text for a project record using the refine records skill.](../images/write-planning-item-skill-refined-text.png)
+    ![AI-generated text for a project record using the refine records skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/write-planning-item-skill-refined-text.png)
 
 6.  From the Refined by Now Assist window, select **Refine** and then select **Shorten** or **Elaborate** to improve the generated text.
 
@@ -69,7 +69,7 @@ Procedure
 
 </td><td>
 
-If you think that the generated text was helpful, select the helpful icon \(![Helpful icon.](../images/icon-helpful-feedback.png)\). If you think that the generated text wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
+If you think that the generated text was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-helpful-feedback.png)\). If you think that the generated text wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-nt-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
 </td></tr><tr><td id="d143064e222">
 
@@ -77,7 +77,7 @@ If you think that the generated text was helpful, select the helpful icon \(![He
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../images/icon-copy-spm.png)\) to use the generated text for another purpose, such as pasting it into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/icon-copy-spm.png)\) to use the generated text for another purpose, such as pasting it into an email.
 
 </td></tr></tbody>
 </table>    **Note:** The refine records skill and Now Assist context menu \(NACM\) is available in the text fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, Project tasks, Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story forms.
@@ -105,12 +105,12 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../images/icon-co
     |sn\_align\_core\_demand|sn\_align\_core.apw\_user|
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](../concept/exploring-now-assist-for-spm.md)
+[Exploring Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/exploring-now-assist-for-spm.md)
 
-[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](../reference/skill-inputs-for-now-assist-for-spm.md)
+[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../reference/skill-inputs-for-now-assist-for-spm.md)
 

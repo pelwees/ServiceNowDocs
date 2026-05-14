@@ -30,5 +30,5 @@ Role required: none
     **Note:** If you are following a particular user whose profile changes, that user moves to the front of the Following list. This alerts you to changes in the profile of a user you are following.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedUIOverview.md)
 

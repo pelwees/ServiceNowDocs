@@ -38,7 +38,7 @@ Plugin required: OAuth 2.0.
     |Type|Select the appropriate data type from the list. In this case, `true| false`.|
     |Value|Set the desired value for the property. In this case, `true` to enable the client credentials grant type for OAuth inbound integrations.|
 
-    ![Client Credentials property](../images/create-cc-sys-prop.png)
+    ![Client Credentials property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/create-cc-sys-prop.png)
 
     **Note:** Other fields in the form such as Choices, Ignore cache, Private, Read roles, and Write roles can be configured according to your requirements.
 

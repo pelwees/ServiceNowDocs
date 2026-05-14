@@ -60,5 +60,5 @@ Role required: admin
     **Note:** A clone profile enables you to store predefined target and clone options. If you don’t have a clone profile, or don’t need one, skip this step.
 
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

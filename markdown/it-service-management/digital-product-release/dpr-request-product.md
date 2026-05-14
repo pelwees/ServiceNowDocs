@@ -34,13 +34,13 @@ Role required: sn\_dpr\_model.product\_manager
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select **Request new** for a new product or service.
 
 4.  In the dialog box, fill in the fields.
 
-    For more information on the field descriptions, see [Request new product or service form](../reference/request-product-service-form.md).
+    For more information on the field descriptions, see [Request new product or service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/request-product-service-form.md).
 
 5.  Select **Submit**.
 
@@ -57,8 +57,8 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## What to do next
 
--   [Manage product hierarchy using Included products](dpr-manage-included-products.md).
+-   [Manage product hierarchy using Included products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-included-products.md).
 -   Select the product or service name from the list to see details, plan releases, and manage data from external tools.
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-using-digital-product-release.md)
 

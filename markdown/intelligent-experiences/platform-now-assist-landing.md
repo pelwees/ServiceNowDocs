@@ -14,7 +14,7 @@ breadcrumb: [Enable AI experiences]
 
 ServiceNow® Now Assist uses generative AI to enhance user productivity and efficiency through conversation and proactive experiences.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows and AI agents. For more information see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows and AI agents. For more information see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 See [https://www.servicenow.com/community/now-assist-articles/now-assist-quick-start-guide/ta-p/2685044](https://www.servicenow.com/community/now-assist-articles/now-assist-quick-start-guide/ta-p/2685044) to read about the foundation of generative AI at ServiceNow®.
 
@@ -22,27 +22,27 @@ See [https://www.servicenow.com/community/now-assist-articles/now-assist-quick-s
 
 <table id="table_xdy_2jh_syb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist on the ServiceNow AI Platform.](exploring-now-assist-platform.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist on the ServiceNow AI Platform.](exploring-now-assist-platform.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Explore, configure, use, and analyze generative artificial intelligence \(AI\) features and skills.](configuring-now-assist.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Explore, configure, use, and analyze generative artificial intelligence \(AI\) features and skills.](configuring-now-assist.md)
 
 </td><td>
 
-[Analyze![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Analyze and monitor Now Assist performance.](../../now-assist-analytics/concept/now-assist-analytics.md)
+[Analyze![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg)Analyze and monitor Now Assist performance.](../../now-assist-analytics/concept/now-assist-analytics.md)
 
 </td></tr><tr><td>
 
-[Now LLM Service model updates![](../../../reuse/icons/brand-icons/bus-datasheet.svg)Learn about the Now LLM Service models.](../reference/now-llm-model-updates.md)
+[Now LLM Service model updates![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-datasheet.svg)Learn about the Now LLM Service models.](../reference/now-llm-model-updates.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about user roles, data usage policy, and domain separation in Now Assist.](../../now-assist-admin/reference/now-assist-reference-landing.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about user roles, data usage policy, and domain separation in Now Assist.](../../now-assist-admin/reference/now-assist-reference-landing.md)
 
 </td><td>
 
-[Generative AI Controller![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Customize your generative AI experience on the ServiceNow AI Platform with the Generative AI Controller.](../../generative-ai-controller/concept/generative-ai-controller.md)
+[Generative AI Controller![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Customize your generative AI experience on the ServiceNow AI Platform with the Generative AI Controller.](../../generative-ai-controller/concept/generative-ai-controller.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -197,7 +197,7 @@ The Other workflow accommodates additional plugins and skills that don't fit int
 [Now Assist for Zero Copy Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/now-assist-for-zero-copy-connector-for-erp.md)
 
 </td></tr></tbody>
-</table>For a complete list of Now Assist skills and their workflows, see [Now Assist skills](../../now-assist-skills/concept/now-assist-skills.md).
+</table>For a complete list of Now Assist skills and their workflows, see [Now Assist skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-skills/concept/now-assist-skills.md).
 
 ## AI limitations
 
@@ -209,5 +209,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 

@@ -19,7 +19,7 @@ The CAM Workspace is a centralized hub where you can continuously monitor and ma
 
 Navigate to **Workspaces** &gt; **CAM Workspace**.
 
-![CAM home page displaying the overall status of the CAM objects.](../image/cam-ws-home-page.png)
+![CAM home page displaying the overall status of the CAM objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-ws-home-page.png)
 
 ## Overview section
 
@@ -65,9 +65,9 @@ Tracks the active controls, control tests, and plan of action and milestones \(P
 
 ## Tasks section
 
-Displays your and your group's pending tasks. Select **View all tasks** to open the Tasks landing page as described in [Monitor and manage CAM tasks](../task/tasks-page-cam-ws.md).
+Displays your and your group's pending tasks. Select **View all tasks** to open the Tasks landing page as described in [Monitor and manage CAM tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../task/tasks-page-cam-ws.md).
 
-CAM roles that are required for particular tasks are listed in [CAM user roles](../../grc-cam/reference/cam-roles-list.md).
+CAM roles that are required for particular tasks are listed in [CAM user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-cam/reference/cam-roles-list.md).
 
 ## Required roles
 
@@ -87,5 +87,5 @@ CAM roles that are required for particular tasks are listed in [CAM user roles](
 
 To access the Home page, navigate to **All** &gt; **CAM Workspace**.
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 

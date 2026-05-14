@@ -53,7 +53,7 @@ Although the **Due date** field is auto-populated for a supplier case type, you 
 
     For example, let's say that you enter 3 as the due date for the case type General enquiry. If you create a General enquiry case on September 12, the due date will be in three days from this date; that is, September 15.
 
-    ![Change default due date](../image/configure-due-dates-for-supplier-cases.png)
+    ![Change default due date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/configure-due-dates-for-supplier-cases.png)
 
 3.  Select **Save**.
 
@@ -62,16 +62,16 @@ Although the **Due date** field is auto-populated for a supplier case type, you 
 
 The default due dates for the different case types are configured.
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
 **Related topics**  
 
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
-[Case playbook for specific supplier case types](../concept/gen-playbook-cases.md)
+[Case playbook for specific supplier case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/gen-playbook-cases.md)
 
-[Playbook for updating the supplier primary data](../concept/primary-playbook-cases.md)
+[Playbook for updating the supplier primary data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/primary-playbook-cases.md)
 
-[Create a case on behalf of a supplier from the Source-to-Pay Workspace](create-new-supplier-case.md)
+[Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 

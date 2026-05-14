@@ -17,7 +17,7 @@ Monitor inbound integration usage requests through the Inbound API Integration U
 
 The Inbound API Integration Usage dashboard contains visualizations that help you assess the usage of your inbound integration calls. With the inbound\_integration\_metering\_admin role, you can view statistics like API Usage by Application, API Usage by Requestor, Integration API Requests Today, API Usage by Resource, API Usage \(Monthly\), API Usage by Requestor \(Daily\), and Total Daily Usage.
 
-![Inbound API Integration Usage Dashboard](../image/inbound-api-integration-dashboard.png)
+![Inbound API Integration Usage Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/inbound-api-integration-dashboard.png)
 
 |Chart or report|Description|
 |---------------|-----------|
@@ -28,10 +28,10 @@ The Inbound API Integration Usage dashboard contains visualizations that help yo
 |API Usage \(Monthly\)|Shows the total number of calls made in the previous 13 months.|
 |API Usage by Requestor|Shows the number of calls each requestor has made in the previous 30 days.|
 
--   **[View Inbound API Integration Usage dashboard](view-inbound-api-integration-usage-dashboard.md)**  
+-   **[View Inbound API Integration Usage dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/view-inbound-api-integration-usage-dashboard.md)**  
 The Inbound API Integration Usage dashboard enables you to view statistics for requestors and their API calls. Filter data by application or resource requested.
--   **[Registered integrations](registered-integrations.md)**  
+-   **[Registered integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/registered-integrations.md)**  
 View the list of all the inbound API integrations registered on ServiceNow.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../outbound-web-services/concept/additional-integration-resources.md)
 

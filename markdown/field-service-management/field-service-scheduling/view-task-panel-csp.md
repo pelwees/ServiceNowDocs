@@ -29,11 +29,11 @@ You can view events assigned to a single person only. **View on calendar** is un
 
 2.  Select **Dispatcher Workspace**.
 
-3.  In the task panel or contextual side panel, select the **Overflow Actions** icon ![more actions](../image/more_actions.png) for the task or event you want to view on the calendar.
+3.  In the task panel or contextual side panel, select the **Overflow Actions** icon ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions.png) for the task or event you want to view on the calendar.
 
 4.  Select **View on calendar**.
 
-    ![view on calendar](../image/calendar-view-more-action.png)
+    ![view on calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/calendar-view-more-action.png)
 
     The agent that is assigned to the task or event is added to the **Added resources** section with the task that you selected highlighted.
 

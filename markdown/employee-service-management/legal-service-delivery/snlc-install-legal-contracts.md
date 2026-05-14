@@ -30,7 +30,7 @@ The following items are installed with Contract Management Pro for Legal Service
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Contract Management Pro for Legal Service Delivery](../reference/snlc-components-cmpro.md)
+For more information, see [Components installed with Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../reference/snlc-components-cmpro.md)
 
 ## Procedure
 
@@ -51,5 +51,5 @@ For more information, see [Components installed with Contract Management Pro for
 5.  Select **Install**.
 
 
-**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](../concept/snlc-config-sn-legal-contracts.md)
+**Parent Topic:**[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-config-sn-legal-contracts.md)
 

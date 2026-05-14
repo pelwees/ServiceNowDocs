@@ -68,7 +68,7 @@ One-Time RetrievalUse this configuration if you want a one-time pull to ingest h
 After the correlation events are pulled, this setting will not retrieve more correlation events for this profile going forward from the current date. This setting populates the security incident with all the correlation events that are found for the range you enter.
 
 </td></tr></tbody>
-</table>    ![ArcSight ESM: Create Profile: Schedule](../image/sir-arcsight-esm-profile-schedule.png)
+</table>    ![ArcSight ESM: Create Profile: Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-schedule.png)
 
     As an example for scheduling an initial correlation event ingestion time, if you have a daily ArcSight ESM security check that runs once a day at 4 AM local time, you can set up the corresponding correlation event profile in your ServiceNow AI Platform instance to run at 4:05 AM local time to capture the security failure event right away and create a security incident. Enter `04 05 00` in the Initial event ingestion field. In the Increment \(Minutes\) field, enter `1440` \(24 hours\) to schedule the next event ingestion for 24 hours from the initial event ingestion. Both the initial event ingestion time and next event ingestion time are displayed in the fields.
 
@@ -86,6 +86,6 @@ After the correlation events are pulled, this setting will not retrieve more cor
 
 4.  Click **Continue** to navigate to the Additional Options page.
 
-    **Note:** The default number of security incidents that can be created and aggregated in a day, and the flow time period are defined in the ArcSight ESM Integration Settings. You can modify these settings if required. See [ArcSight ESM Integration Settings for event ingestion integration](../concept/arcsight-esm-settings.md) for details.
+    **Note:** The default number of security incidents that can be created and aggregated in a day, and the flow time period are defined in the ArcSight ESM Integration Settings. You can modify these settings if required. See [ArcSight ESM Integration Settings for event ingestion integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/arcsight-esm-settings.md) for details.
 
 

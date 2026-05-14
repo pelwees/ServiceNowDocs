@@ -49,7 +49,7 @@ View and complete the tasks that are assigned to you. -   If the task type is Up
 -   If the task type is Submit Catalog Item, the task is automatically marked complete after you submit the catalog item.
 -   If the task type is Mark when Complete, mark the task complete once the task described in the Description is completed.
 -   If the task type is Checklist, mark at least one of the items as complete to mark the task complete.
--   If the task type is Collect Employee Input, tap the ![View employee form icon](../images/icon-view-empform.png) to open the employee form. After you submit the form, the task is marked complete. If you leave the form midway, your responses are saved. You can complete and submit the form later.
+-   If the task type is Collect Employee Input, tap the ![View employee form icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../images/icon-view-empform.png) to open the employee form. After you submit the form, the task is marked complete. If you leave the form midway, your responses are saved. You can complete and submit the form later.
 
 
 </td></tr><tr><td id="d585416e159">
@@ -70,5 +70,5 @@ View or add comments or attachments to the task.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Universal Task](../concept/use-universal-task.md)
+**Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/use-universal-task.md)
 

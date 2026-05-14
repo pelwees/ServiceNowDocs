@@ -116,9 +116,9 @@ Enter the list of IP addresses to be excluded from the import. Specify the list 
 </td></tr></tbody>
 </table>## Related content
 
-[Data mapping for Service Graph Connector for Infoblox](cmdb-data-mapping-infoblox.md)
+[Data mapping for Service Graph Connector for Infoblox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-data-mapping-infoblox.md)
 
-[CMDB classes targeted in Service Graph Connector for Infoblox](sgc-cmdb-infoblox-classes.md)
+[CMDB classes targeted in Service Graph Connector for Infoblox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-infoblox-classes.md)
 
-**Parent Topic:**[Service Graph Connector for Infoblox reference](../concept/sgc-cmdb-infoblox-reference.md)
+**Parent Topic:**[Service Graph Connector for Infoblox reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-cmdb-infoblox-reference.md)
 

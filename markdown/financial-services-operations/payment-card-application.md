@@ -21,16 +21,16 @@ It also supports storing tokenized values for sensitive data, such as the primar
 
 Cards in Payment card can be associated with a Financial Account in Financial Services Operations Core. This relationship can then be used in a Financial Services Operations \(FSO\) workflow that involves a card account, such as selecting a credit or debit card containing a disputed card transaction.
 
-![A data model diagram showing the tables contained in Payment card, and their relationships to tables in Customer Service Install Base Management and Financial Services Operations Core.](../images/payment-card-data-model.png)
+![A data model diagram showing the tables contained in Payment card, and their relationships to tables in Customer Service Install Base Management and Financial Services Operations Core.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../images/payment-card-data-model.png)
 
 ## Accessing Payment card
 
 Payment card is included with Financial Services Operations Core.
 
--   **[Payment card tables](../reference/payment-card-application-tables.md)**  
+-   **[Payment card tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/payment-card-application-tables.md)**  
 This section describes the tables in the Payment card application and shows how they store and manage physical payment card information.
--   **[Payment card roles](../reference/payment-card-application-roles.md)**  
+-   **[Payment card roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/payment-card-application-roles.md)**  
 This section outlines the core roles involved in managing payment cards in the Payment card application.
 
-**Parent Topic:**[Data Models](../../fso-common/reference/data-models.md)
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/reference/data-models.md)
 

@@ -49,5 +49,5 @@ To find and remove the faulted transition:
 
 The **Critical** warning should disappear. The workflow should execute as expected on the next appropriate transaction.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowValidator.md)
 

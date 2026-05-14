@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_admin
 
 When an event enters the system, key field like **Node** is available on the event record. The **Node** field generally represents the name of the server. In CI there is no field like **Node**. However, the value of **Node** from the event is compared with different values in the host CI such as Name, Fully qualified domain name \(FQDN\), IP, or MAC Address. If a match is found, the alert is linked to the corresponding CI. This is the default binding of alerts to CIs. In this binding, the CI must be a host. Host CIs include Computers, OS, Switches, Routers—essentially any CI type or class that extends the \[cmdb\_ci\_hardware\] table.
 
-There may be cases where no match is found because the column names in the event record and the table differ for the same item. In such cases, you can manually create an additional key-value pair with a name matching the table column, ensuring the matching process continues successfully. For information on how to create a manual field, see [Bind CIs using CI field matching and handling column name differences](ci-matching-manual-field.md).
+There may be cases where no match is found because the column names in the event record and the table differ for the same item. In such cases, you can manually create an additional key-value pair with a name matching the table column, ensuring the matching process continues successfully. For information on how to create a manual field, see [Bind CIs using CI field matching and handling column name differences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-matching-manual-field.md).
 
 **Note:** Even if the node successfully binds the alert with the CI, event rules further determine how the binding occurs.
 
@@ -39,7 +39,7 @@ There may be cases where no match is found because the column names in the event
 
 5.  In the **Binding type** field, select **CI field matching**.
 
-    ![Binding type is CI field matching](../image/em-ci-field-matching-host.png)
+    ![Binding type is CI field matching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-ci-field-matching-host.png)
 
 6.  In the **CI type** field, select the appropriate type of hardware component \(such as a server, router, or storage device\) that the CI type represents.
 
@@ -47,11 +47,11 @@ There may be cases where no match is found because the column names in the event
 
 7.  Select **Submit**.
 
-    **Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](../../service-operations-workspace-itom/task/enrich-alert-sow-itom.md).
+    **Note:** You can also use the Service Operations Workspace to define binding rules. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-operations-workspace-itom/task/enrich-alert-sow-itom.md).
 
 
 **Related topics**  
 
 
-[Bind non-host CIs using CI field matching](ci-matching-ci-non-host.md)
+[Bind non-host CIs using CI field matching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-matching-ci-non-host.md)
 

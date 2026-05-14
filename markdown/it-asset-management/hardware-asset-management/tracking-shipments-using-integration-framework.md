@@ -15,89 +15,89 @@ breadcrumb: [Using Hardware Asset Management, Hardware Asset Management, IT Asse
 
 Track your shipments in real time by integrating your ServiceNow instance with your third-party carrier's application through the integration framework provided by the IT Asset Management application.
 
--   **[Creating an integration script include for third-party carrier applications](creating-integration-script-include-ham.md)**  
+-   **[Creating an integration script include for third-party carrier applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/creating-integration-script-include-ham.md)**  
 In order to integrate with a ServiceNow instance, a third-party carrier application must have a script include that extends the base class `ITAMShipmentIntegration` script on its ServiceNow instance to receive the shipment tracking number from the customer's ServiceNow instance and respond with the carrier-related details.
--   **[Connect your ServiceNow instance with a shipping carrier application](../task/associate-shipping-carrier-int-profile.md)**  
+-   **[Connect your ServiceNow instance with a shipping carrier application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/associate-shipping-carrier-int-profile.md)**  
 Associate a shipping carrier with an integration profile to connect your ServiceNow instance to the carrier application.
--   **[Remove a shipping carrier from an integration profile](../task/remove-shipping-carrier.md)**  
+-   **[Remove a shipping carrier from an integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/remove-shipping-carrier.md)**  
 Remove a shipping carrier that you no longer want to associate with an integration profile.
--   **[Create a carrier integration profile](../task/create-carrier-integration-profile.md)**  
+-   **[Create a carrier integration profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-carrier-integration-profile.md)**  
 Create a carrier integration profile for your carrier by specifying the API and connection details that are used to connect your ServiceNow instance to the third-party shipping carrier application.
--   **[View the carrier integration profile details](../task/view-integration-profiles.md)**  
+-   **[View the carrier integration profile details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-integration-profiles.md)**  
 View the details of the carrier API used to connect your ServiceNow instance to the third-party shipping carrier application.
--   **[Test the integration with the carrier API](../task/test-carrier-api-integration.md)**  
+-   **[Test the integration with the carrier API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/test-carrier-api-integration.md)**  
 Check the connection with the carrier API to handle any connection issues such as invalid credentials, incorrect tracking details, and issues with the integration script include.
--   **[Create a shipping carrier record](../task/create-shipping-carrier.md)**  
+-   **[Create a shipping carrier record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-shipping-carrier.md)**  
 Create a shipping carrier record used to associate the carrier with an integration profile.
--   **[View hardware asset shipment details](../task/view-hardware-asset-shipments.md)**  
+-   **[View hardware asset shipment details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-hardware-asset-shipments.md)**  
 View all hardware asset shipment details in a single place in the Hardware Asset Workspace.
--   **[Stale shipments](stale-shipments.md)**  
+-   **[Stale shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/stale-shipments.md)**  
 Shipments that are delayed due to various reasons such as an incorrect tracking number, the loss of a shipment package during transit, and invalid connection details are considered stale shipments.
--   **[Track a hardware asset shipment](../task/track-hardware-asset-shipments.md)**  
+-   **[Track a hardware asset shipment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-hardware-asset-shipments.md)**  
 Track the progress of your hardware asset shipment that isn't delivered and that has a carrier associated with an active integration profile.
 
-**Parent Topic:**[Using Hardware Asset Management](using-ham-classic.md)
+**Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
 **Related topics**  
 
 
-[Work with hardware normalization](Work-with-hardware-normalization.md)
+[Work with hardware normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-[Manage asset bundles from your inventory](../task/create-bundled-assets.md)
+[Manage asset bundles from your inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-bundled-assets.md)
 
-[Manage your inventory through pallet assets](pallets-for-inventory-management.md)
+[Manage your inventory through pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/pallets-for-inventory-management.md)
 
-[Manage loaner assets](../task/manage-loaner-asset.md)
+[Manage loaner assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/manage-loaner-asset.md)
 
-[Donate assets to charity organizations](donate-asset-to-charity-organizations.md)
+[Donate assets to charity organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/donate-asset-to-charity-organizations.md)
 
-[Use Advanced Shipment Notification](../task/advanced-shipment-notification.md)
+[Use Advanced Shipment Notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/advanced-shipment-notification.md)
 
-[Manage RMA requests](manage-rma-req.md)
+[Manage RMA requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-rma-req.md)
 
-[Create an inventory stock order request](../task/create-inventory-stock-order.md)
+[Create an inventory stock order request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-inventory-stock-order.md)
 
-[Create a disposal order](../task/create-disposal-order.md)
+[Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-disposal-order.md)
 
-[Use a hardware asset request flow](../task/hardware-request-flow.md)
+[Use a hardware asset request flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/hardware-request-flow.md)
 
-[Audit hardware asset inventory](ham-inventory-audit.md)
+[Audit hardware asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-inventory-audit.md)
 
-[Request a Hardware Asset Refresh](../task/hardware-asset-refresh.md#)
+[Request a Hardware Asset Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/hardware-asset-refresh.md#)
 
-[Manage your expiring contracts for leased hardware assets](../task/manage-your-leased-hw-asts-expiring-contract.md)
+[Manage your expiring contracts for leased hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/manage-your-leased-hw-asts-expiring-contract.md)
 
-[Reclaim hardware assets](manage-asset-reclaim.md)
+[Reclaim hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-reclaim.md)
 
-[View RFID information of assets](../task/view-rfid-info.md)
+[View RFID information of assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/view-rfid-info.md)
 
-[Manage the lifecycle of hardware models with calculated lifecycle templates](manage-ham-lifecycle-temp.md)
+[Manage the lifecycle of hardware models with calculated lifecycle templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-ham-lifecycle-temp.md)
 
-[Receive asset warranty details from Lenovo](receive-warranty-details-lenovo.md)
+[Receive asset warranty details from Lenovo](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-warranty-details-lenovo.md)
 
-[Manage stockrooms](manage-your-stockrooms.md)
+[Manage stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-[Track asset location using indoor maps](../task/track-asset-location-using-indoor-maps.md)
+[Track asset location using indoor maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/track-asset-location-using-indoor-maps.md)
 
-[Assess performance of Hardware Asset Management](suc-goal-act-hw.md)
+[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/suc-goal-act-hw.md)
 
-[Manage refresh of assets using Zero Touch Refresh](refresh-hardware-uisng-ztr.md)
+[Manage refresh of assets using Zero Touch Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/refresh-hardware-uisng-ztr.md)
 
-[Configure the Total Cost of Ownership of assets](configure-ham-tco.md)
+[Configure the Total Cost of Ownership of assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/configure-ham-tco.md)
 
-[Manage Hardware Asset Management subscriptions](managing-ham-subscriptions.md)
+[Manage Hardware Asset Management subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/managing-ham-subscriptions.md)
 
-[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](manage-repair-of-defective-ham-assets.md)
+[Manage repair of defective assets in your stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-repair-of-defective-ham-assets.md)
 
-[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](manage-asset-picking-stockroom-ham-ws.md)
+[Manage picking hardware assets within your stockroom for Hardware Asset Management workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-picking-stockroom-ham-ws.md)
 
-[Manage hardware asset tasks using the Mobile Agent application](manage-hardware-asset-tasks-mobile-agent.md)
+[Manage hardware asset tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-hardware-asset-tasks-mobile-agent.md)
 
-[Manage asset put away using the Hardware Asset Workspace](manage-asset-putaway-stockroom-hardware-asset-workspace.md)
+[Manage asset put away using the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 
-[Audit your hardware assets by using Asset Attestation](audit-hardware-assets-attestation.md)
+[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-[Acknowledge receipt of assets on the Employee Center portal](../task/receive-assets-employee-center.md)
+[Acknowledge receipt of assets on the Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/receive-assets-employee-center.md)
 
-[Update associated Decision tables for HAM flows](../task/trigger-flow-ham.md)
+[Update associated Decision tables for HAM flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/trigger-flow-ham.md)
 

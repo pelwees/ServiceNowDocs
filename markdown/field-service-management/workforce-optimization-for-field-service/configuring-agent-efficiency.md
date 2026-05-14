@@ -44,19 +44,19 @@ For the MRI machine installation task, the best-suited technician is Cindy Lisa.
 
 The steps for configuring Field Service Agent Efficiency are:
 
-1.  [Activate Field Service Agent Efficiency](../task/activate-field-service-agent-efficiency.md)
+1.  [Activate Field Service Agent Efficiency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/activate-field-service-agent-efficiency.md)
 
     Activating the Field Service Agent Efficiency \(com.snc.fsm\_agent\_efficiency\) plugin requires the admin role.
 
-2.  [Create or modify Agent Efficiency criteria](../task/create-or-modify-agent-efficiency-criteria.md)
-3.  [Assign an Agent Efficiency value to agents](../task/assign-efficiency-value-to-agents.md)
-4.  \(Optional\) [Create or modify an Agent Efficiency determination rule](../task/create-or-modify-agent-efficiency-determination-rule.md)
-5.  \(Optional\) Configure Field Service Agent Efficiency with Dynamic Scheduling to auto-assign tasks to the agents. For more information, see [Configuring Dynamic Scheduling](Configure-dynamic-scheduling.md).
-6.  \(Optional\) Configure Field Service Agent Efficiency with Intelligent Task Recommendations to recommend the best suited task for an agent based on the efficiency. For more information, see [Configuring Intelligent Task Recommendations](administer-task-recommendations.md).
-7.  \(Optional\) Configure Field Service Agent Efficiency with Schedule Optimization to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration. For more information see, [Configuring Schedule Optimization](schedule-optimization-engine.md).
+2.  [Create or modify Agent Efficiency criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/create-or-modify-agent-efficiency-criteria.md)
+3.  [Assign an Agent Efficiency value to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/assign-efficiency-value-to-agents.md)
+4.  \(Optional\) [Create or modify an Agent Efficiency determination rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../task/create-or-modify-agent-efficiency-determination-rule.md)
+5.  \(Optional\) Configure Field Service Agent Efficiency with Dynamic Scheduling to auto-assign tasks to the agents. For more information, see [Configuring Dynamic Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/Configure-dynamic-scheduling.md).
+6.  \(Optional\) Configure Field Service Agent Efficiency with Intelligent Task Recommendations to recommend the best suited task for an agent based on the efficiency. For more information, see [Configuring Intelligent Task Recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/administer-task-recommendations.md).
+7.  \(Optional\) Configure Field Service Agent Efficiency with Schedule Optimization to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration. For more information see, [Configuring Schedule Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/schedule-optimization-engine.md).
 
 **Related topics**  
 
 
-[Field Service Agent Efficiency](agent-efficiency.md)
+[Field Service Agent Efficiency](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/agent-efficiency.md)
 

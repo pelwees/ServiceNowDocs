@@ -33,7 +33,7 @@ To remove a single agent from the top of the calendar
 
 </td><td>
 
-Select the more actions ![more actions](../image/more_actions.png) icon next to the agent that you want to remove, then select **Remove**.
+Select the more actions ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions.png) icon next to the agent that you want to remove, then select **Remove**.
 
 </td></tr><tr><td>
 
@@ -41,9 +41,9 @@ To remove all agents that were added to the top of the calendar
 
 </td><td>
 
-Select the more actions ![more actions](../image/more_actions.png) icon at the top of the calendar next to where it says **Added agents**, then select **Remove**.
+Select the more actions ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/more_actions.png) icon at the top of the calendar next to where it says **Added agents**, then select **Remove**.
 
 </td></tr></tbody>
-</table>    ![dispatcher workspace showing removing all added agents](../image/remove-all-added.png)
+</table>    ![dispatcher workspace showing removing all added agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/remove-all-added.png)
 
 

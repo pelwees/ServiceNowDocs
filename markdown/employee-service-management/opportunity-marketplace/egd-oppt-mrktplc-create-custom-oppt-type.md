@@ -41,11 +41,11 @@ You can customize several areas for an opportunity type or use existing records.
 
 6.  Select and existing **Opportunity details** record.
 
-    If you want a customized **Opportunity details** record, see [Create custom opportunity details records in Opportunity Marketplace](egd-oppt-mrktplc-custom-oppt-details.md).
+    If you want a customized **Opportunity details** record, see [Create custom opportunity details records in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-oppt-details.md).
 
 7.  Select an existing **Roles and requirements**.
 
-    If yo want a customized **Roles and requirements** record, see [Create custom roles and requirements in Opportunity Marketplace](egd-oppt-mrktplc-custom-roles-reqs.md).
+    If yo want a customized **Roles and requirements** record, see [Create custom roles and requirements in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-custom-roles-reqs.md).
 
 8.  Add a description for your **Opportunity type**.
 
@@ -56,5 +56,5 @@ You can customize several areas for an opportunity type or use existing records.
 10. Select **Submit**.
 
 
-**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](../concept/egd-oppt-mrktplc-custom-oppt-type.md)
+**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/../concept/egd-oppt-mrktplc-custom-oppt-type.md)
 

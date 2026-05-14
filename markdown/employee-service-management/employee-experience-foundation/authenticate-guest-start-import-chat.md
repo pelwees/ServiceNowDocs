@@ -19,9 +19,9 @@ Assign permissions to guest users to initiate and import chat conversations with
 
 Ensure you have completed the Request-based chat app configuration for a self-configured app. For more information, see:
 
-1.  [Register and configure the Request-based chat application on the Microsoft Azure portal](register-app-req-based-chats.md)
-2.  [Configure Application Registry on the ServiceNow instance](app-registry-chat-single-tenant.md#)
-3.  [Add permissions to the Microsoft Azure application](authenticate-users-req-based-chat.md)
+1.  [Register and configure the Request-based chat application on the Microsoft Azure portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/register-app-req-based-chats.md)
+2.  [Configure Application Registry on the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/app-registry-chat-single-tenant.md#)
+3.  [Add permissions to the Microsoft Azure application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authenticate-users-req-based-chat.md)
 
 Role required: Microsoft Azure admin
 
@@ -48,5 +48,5 @@ Role required: Microsoft Azure admin
 9.  Select **Yes** in the pop-up dialog box to save the settings.
 
 
-**Parent Topic:**[Request-based chat access for a guest user](../concept/guest-user-chat-access-st.md)
+**Parent Topic:**[Request-based chat access for a guest user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/guest-user-chat-access-st.md)
 

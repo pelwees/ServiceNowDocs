@@ -23,14 +23,14 @@ You can override the log level for all outbound requests using the properties **
 
 You can set the log level in a script using the setLogLevel\(\) function from the SOAPMessageV2 and RESTMessageV2 APIs. For more information about using these APIs, refer to the API documentation.
 
-**Parent Topic:**[Outbound web services: Logging](outbound-request-logging.md)
+**Parent Topic:**[Outbound web services: Logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/outbound-request-logging.md)
 
 **Related topics**  
 
 
-[RESTMessageV2 - setLogLevel\(\)](../../../app-store/dev_portal/API_reference/RESTMessageV2/concept/c_RESTMessageV2API.md#)
+[RESTMessageV2 - setLogLevel\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../app-store/dev_portal/API_reference/RESTMessageV2/concept/c_RESTMessageV2API.md#)
 
-[SOAPMessageV2 - setLogLevel\(\)](../../../app-store/dev_portal/API_reference/SOAPMessageV2/concept/c_SOAPMessageV2API.md#)
+[SOAPMessageV2 - setLogLevel\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../app-store/dev_portal/API_reference/SOAPMessageV2/concept/c_SOAPMessageV2API.md#)
 
 ## Outbound request log levels
 

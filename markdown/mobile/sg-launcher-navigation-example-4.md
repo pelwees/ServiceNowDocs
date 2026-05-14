@@ -43,7 +43,7 @@ Role required: admin
     |Disable offline|Toggle that turns the footer function off when the device is offline.|
     |Icon|The icon that appears for the footer function.|
     |Function placement|The function used by this footer function. These fields are automatically populated.|
-    |Button Emphasis|The button emphasis for the footer function. This selection affects the color of the button. For a navigation function, select **Primary** or **Secondary**. These colors are determined by your mobile theme. For more information on configuring a legacy mobile theme, see [Create a theme for your mobile applications](sg-configure-theme.md).|
+    |Button Emphasis|The button emphasis for the footer function. This selection affects the color of the button. For a navigation function, select **Primary** or **Secondary**. These colors are determined by your mobile theme. For more information on configuring a legacy mobile theme, see [Create a theme for your mobile applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-theme.md).|
     |Function|The function used by this footer function. Select the function you created in previous steps.|
 
 6.  Select **Save**.
@@ -53,5 +53,5 @@ Role required: admin
 
 Test the footer function using your mobile app. After completing the steps, you can see a footer function button at the bottom of your details segment. Tap the button to navigate to the screen launcher you defined in the previous steps.
 
-**Parent Topic:**[Configure navigation to a launcher screen](../concept/sg-launcher-nav-example.md)
+**Parent Topic:**[Configure navigation to a launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-launcher-nav-example.md)
 

@@ -35,10 +35,10 @@ Role required: it\_demand\_manager
 
 7.  On the Monetary Benefit Plan Breakdown form, view and update the enabled fields.
 
-    For a description of the field names, see [Monetary Benefit Breakdown form](../reference/monetary-benefit-breakdown-form.md).
+    For a description of the field names, see [Monetary Benefit Breakdown form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../reference/monetary-benefit-breakdown-form.md).
 
 8.  Select **Update**.
 
 
-**Parent Topic:**[Create a monetary benefit plan for a demand](create-demand-benefit-plan.md)
+**Parent Topic:**[Create a monetary benefit plan for a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-benefit-plan.md)
 

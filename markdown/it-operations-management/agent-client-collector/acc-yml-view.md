@@ -33,13 +33,13 @@ Role required: agent\_client\_collector\_admin
 
     The `acc.yml` configuration file appears as an attachment on the agent.
 
-    ![acc.yml configuration file as an attachment](../image/acc-yml-attachment.png)
+    ![acc.yml configuration file as an attachment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-yml-attachment.png)
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-server-deployment.md)
 
 **Related topics**  
 
 
-[Configuration file options](../reference/acc-yml-options.md)
+[Configuration file options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../reference/acc-yml-options.md)
 

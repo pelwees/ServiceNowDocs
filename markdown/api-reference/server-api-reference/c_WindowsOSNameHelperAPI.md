@@ -17,7 +17,7 @@ The WindowsOSNameHelper script include provides methods to handle the formatting
 
 Use in any server-side discovery scripts where you need to format OS names.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## WindowsOSNameHelper - formatWindowsOSName\(String name\)
 

@@ -21,7 +21,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## About this task
 
-This task details the procedure of creating stories for work items such as Epic, Capability, and Feature and uses the example of creating stories for an Epic. To create other child work items, see [Breakdown work from parent work item into child items in EAP](breakdown-work-eap-epics-capabilities-child-work.md).
+This task details the procedure of creating stories for work items such as Epic, Capability, and Feature and uses the example of creating stories for an Epic. To create other child work items, see [Breakdown work from parent work item into child items in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/breakdown-work-eap-epics-capabilities-child-work.md).
 
 ## Procedure
 
@@ -64,22 +64,22 @@ The full details page of the created story is displayed.
 
 </td><td>
 
-See [Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/generate-agile-story-planning-items.md).
+See [Create stories agentic workflow using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../now-assist-spm/concept/generate-agile-story-planning-items.md).
 
- For epics and features, you can use the generative AI skills of Now Assist to automatically generate stories, saving time and reducing manual effort. See [Generate multiple stories at once in EAP using Now Assist for SPM](../../now-assist-spm/task/generate-stories-from-epics-now-assist-eap.md).
+ For epics and features, you can use the generative AI skills of Now Assist to automatically generate stories, saving time and reducing manual effort. See [Generate multiple stories at once in EAP using Now Assist for SPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../now-assist-spm/task/generate-stories-from-epics-now-assist-eap.md).
 
 **Note:** This feature requires activating the Agile story generation skill of Now Assist for SPM. For more information, see .
 
 </td></tr></tbody>
 </table>    The newly created stories are listed in the Stories tab of the work item details page.
 
-    ![Stories list of an epic.](../images/eap-stories-list.png)
+    ![Stories list of an epic.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-stories-list.png)
 
 6.  You can open a story to update further details or delete them.
 
     From the full details page of a story, you can perform the following actions:
 
-    -   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md).
+    -   Refine the description with Now Assist. See [Improve efficiency and quality using refine records skill with Now Assist Context Menu \(NACM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../now-assist-spm/task/refine-text-with-write-planning-item-skill.md).
 
         This feature requires activating the Write planning item skill of Now Assist for SPM. For more information, see .
 
@@ -87,8 +87,8 @@ See [Create stories agentic workflow using Now Assist for Strategic Portfolio Ma
     -   Add dependencies or scrum tasks to the story.
     -   Add any files as attachments to the story.
     -   Delete the story by selecting **Delete** from the More Actions menu on the header.
-    ![Full details page of a story in EAP.](../images/eap-delete-child-item.png)
+    ![Full details page of a story in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-delete-child-item.png)
 
 
-**Parent Topic:**[Manage team backlog in EAP](../concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-eap.md)
 

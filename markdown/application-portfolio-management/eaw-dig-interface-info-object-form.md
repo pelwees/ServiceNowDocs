@@ -33,10 +33,10 @@ A digital interface is related to a business application, and the business appli
 |Can retrieve the object?|Select Yes or No.|
 |Can delete the object?|Select Yes or No.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Relate an information object to a digital interface](../../task/eaw-task/eaw-dig-interface-add-info-object.md)
+[Relate an information object to a digital interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-dig-interface-add-info-object.md)
 

@@ -29,7 +29,7 @@ The email client is enabled by default on the Incident \[incident\] table. You c
 
     For example, to enable the email client for the Problem \[problem\] table, navigate to **Problem** &gt; **Open**, and then open any problem record.
 
-2.  On the form, select the menu icon \(![Menu icon](../../../build/applications/image/menu-icon.png)\) and then select **Configure** &gt; **Dictionary**.
+2.  On the form, select the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../build/applications/image/menu-icon.png)\) and then select **Configure** &gt; **Dictionary**.
 
 3.  On the Dictionary Entries list, open the record of type **Collection**.
 
@@ -44,5 +44,5 @@ The email client is enabled by default on the Incident \[incident\] table. You c
 6.  Select **Update**.
 
 
-**Parent Topic:**[Configure email client](../concept/configuring-email-client.md)
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/configuring-email-client.md)
 

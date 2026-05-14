@@ -15,7 +15,7 @@ breadcrumb: [Client mobile API reference, API reference, API implementation and 
 
 Cabrillo JS functions for forward and backward navigation.
 
-**Parent Topic:**[Client mobile API reference](../../../../../build/applications/concept/api-client-mobile.md)
+**Parent Topic:**[Client mobile API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../../../../build/applications/concept/api-client-mobile.md)
 
 ## cabrillo.navigation - goBack\(\)
 
@@ -51,7 +51,7 @@ Use the request parameter not the url parameter for list or record navigation.
 Navigate to a URL.
 
 ```
-cabrillo.navigation["goto"]('/$sp.do?id=my_custom_page');
+cabrillo.navigation["goto"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/'/$sp.do?id=my_custom_page');
 ```
 
 Navigate to a list. The request parameter is preferred over the url parameter for list navigation.
@@ -62,7 +62,7 @@ var request = {
     table: 'incident',
     query: 'active=true',
 };
-cabrillo.navigation["goto"](null, request);
+cabrillo.navigation["goto"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/null, request);
 ```
 
 Navigate to a record. The request parameter is preferred over the url parameter for record navigation.
@@ -73,7 +73,7 @@ var request = {
     table: 'incident',
     sysId: 'a9e30c7dc61122760116894de7bcc7bd'
 };
-cabrillo.navigation["goto"](null, request);
+cabrillo.navigation["goto"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/null, request);
 ```
 
 Navigate to a new record.
@@ -86,6 +86,6 @@ var request = {
     sysId: '-1',
     query: 'short_description=This is a new incident.'
 };
-cabrillo.navigation["goto"](null, request);
+cabrillo.navigation["goto"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/null, request);
 ```
 

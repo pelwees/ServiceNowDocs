@@ -82,5 +82,5 @@ Role required: admin or assessment\_admin
     -   When you drag and drop a parent metric, all dependent questions are also added to the metric category.
     -   When you drag and drop a child metric, only the child question is added to the metric category.
 
-**Parent Topic:**[Add a metric category and metric in the question bank for quizzes](add-questionbank-quiz.md)
+**Parent Topic:**[Add a metric category and metric in the question bank for quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-quiz.md)
 

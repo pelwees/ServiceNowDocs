@@ -39,5 +39,5 @@ Role required: admin
 **Related topics**  
 
 
-[Alert grouping and use cases](../concept/alert-group-use-cases.md)
+[Alert grouping and use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-group-use-cases.md)
 

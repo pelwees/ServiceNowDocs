@@ -40,5 +40,5 @@ Starting with version 19.0.x, a source document task progresses through the foll
 -   Awaiting Approval- All implementation activities are complete, and the task is pending review and approval from the appropriate stakeholders or compliance team.
 -   Closed- The task has been reviewed, approved, and all required actions are completed. No further work is needed.
 
-**Parent Topic:**[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
+**Parent Topic:**[Regulatory process flow and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-workflow-swimlane.md)
 

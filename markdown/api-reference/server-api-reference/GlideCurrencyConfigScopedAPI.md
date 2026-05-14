@@ -15,13 +15,13 @@ breadcrumb: [Server API reference, API reference, API implementation and referen
 
 The GlideCurrencyConfig API provides methods to retrieve various configuration information for FX Currency fields.
 
-You can acquire information for a specific FX Currency field by calling the [GlideCurrencyConfig\(Object ed\)](GlideCurrencyConfigScopedAPI.md#) constructor, which associates a specific FX Currency field to the instantiated object. When calling the various GlideCurrencyConfig\(\) methods, if a record exists in the FX Currency Configuration \[fx\_configuration\] table for the FX Currency field, the requested value is passed back. If a record or field is not available, the default value is passed back. You can also acquire the default FX Currency configuration values by calling the [GlideCurrencyConfig\(\)](GlideCurrencyConfigScopedAPI.md#) constructor.
+You can acquire information for a specific FX Currency field by calling the [GlideCurrencyConfig\(Object ed\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideCurrencyConfigScopedAPI.md#) constructor, which associates a specific FX Currency field to the instantiated object. When calling the various GlideCurrencyConfig\(\) methods, if a record exists in the FX Currency Configuration \[fx\_configuration\] table for the FX Currency field, the requested value is passed back. If a record or field is not available, the default value is passed back. You can also acquire the default FX Currency configuration values by calling the [GlideCurrencyConfig\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideCurrencyConfigScopedAPI.md#) constructor.
 
 For additional information on FX Currency configuration, see [Setting up and operating FX Currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md).
 
 This class runs is in the `sn_currency` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideCurrencyConfig - GlideCurrencyConfig\(\)
 
@@ -29,7 +29,7 @@ Instantiates a GlideCurrencyConfig object that enables the retrieval of global d
 
 When calling the available methods on this type of GlideCurrencyConfig object, the return values are the FX Currency global defaults from system properties. If a global default is not defined in system properties, a hard-coded default is returned \(this can also be an empty value if not configured\).
 
-This object does not provide configuration information for a specific FX Currency field. To retrieve specific FX Currency field information, use the [GlideCurrencyConfig\(Object ed\)](GlideCurrencyConfigScopedAPI.md#) constructor.
+This object does not provide configuration information for a specific FX Currency field. To retrieve specific FX Currency field information, use the [GlideCurrencyConfig\(Object ed\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideCurrencyConfigScopedAPI.md#) constructor.
 
 For more information, see [Configuring FX Currency global settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md).
 

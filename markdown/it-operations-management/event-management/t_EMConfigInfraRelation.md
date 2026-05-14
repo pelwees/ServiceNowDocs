@@ -32,7 +32,7 @@ When you create a CI infrastructure relationship, the information is stored in t
 
 For example, based on of the cmdb\_ci\_vm\_zones Infrastructure relationship definition, Event Management adds ZoneServer@mmp1 to the application service. The Containment rule manages impact severity on alerts.
 
-![Infrastructure relationships for a manual service](../image/EventManagementRelatedCI.png "Related CIs appear on the BSM")
+![Infrastructure relationships for a manual service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementRelatedCI.png "Related CIs appear on the BSM")
 
 ## Procedure
 

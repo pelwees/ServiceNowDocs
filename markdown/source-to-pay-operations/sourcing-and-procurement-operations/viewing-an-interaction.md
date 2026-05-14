@@ -23,7 +23,7 @@ Role required: Procurement specialist, agent
 
 1.  Navigate to **All** &gt; **Procurement Case Management**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **Interactions** &gt;**All**.
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select **Interactions** &gt;**All**.
 
 3.  View interactions in the desired category to associate a record with a procurement case or a task.
 
@@ -46,5 +46,5 @@ Role required: Procurement specialist, agent
 7.  View information about the assigned virtual agent, attachments added to the interaction, and templates for use in the contextual side panel.
 
 
-**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](../concept/interaction-management-in-procurement-operations-workspace.md)
+**Parent Topic:**[Interaction Management in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/interaction-management-in-procurement-operations-workspace.md)
 

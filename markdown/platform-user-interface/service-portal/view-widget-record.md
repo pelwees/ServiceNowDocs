@@ -36,11 +36,11 @@ Role required: admin or sp\_admin
     |Blue|New widget|
     |Red|Customized widget|
 
-4.  On any widget, click the information icon \(![Information icon](../image/info-icon.png)\).
+4.  On any widget, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/info-icon.png)\).
 
 5.  On the window, click **Open widget in platform**.
 
-    ![Open widget in platform](../image/open-widget.png)
+    ![Open widget in platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/open-widget.png)
 
     **Note:** The **Open widget in platform** button doesn't appear for all customized widgets. The button appears for customized widgets only if you modified one or more widget dependencies, Angular Providers, or ng-templates.
 

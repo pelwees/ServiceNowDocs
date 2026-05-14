@@ -25,15 +25,15 @@ If you have an on-premise instance, there are two ways that you can procure apps
 
 Use the following steps to procure apps and products without connecting your instance to the ServiceNow Store.
 
-1.  [Get an app as an on-premise customer](../task/get-app-on-prem.md)
+1.  [Get an app as an on-premise customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/get-app-on-prem.md)
 
     Procure and download an encrypted app from the ServiceNow Store for use with your on-premise instance.
 
-2.  [Upload an app to an on-premise instance](../task/upload-app-on-prem-instance.md)
+2.  [Upload an app to an on-premise instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/upload-app-on-prem-instance.md)
 
     Upload an application's encrypted file to your on-premise instance to make it available for installation.
 
-3.  [Install the app or product using the Application Manager](../../application-manager/concept/installing-apps-app-manager.md)
+3.  [Install the app or product using the Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../application-manager/concept/installing-apps-app-manager.md)
 
     After uploading the encrypted app file, use the Application Manager to install the application to your on-premise instance.
 
@@ -42,5 +42,5 @@ Use the following steps to procure apps and products without connecting your ins
 
 Contact [Customer Service and Support](https://support.servicenow.com/now) to connect your instance to the ServiceNow Store.
 
-After Customer Service and Support confirms that your instance is connected to the ServiceNow Store, follow the same steps used to procure and install applications in hosted instances. Refer to [Getting apps and trials from the ServiceNow Store](getting-apps-trials.md) for more details.
+After Customer Service and Support confirms that your instance is connected to the ServiceNow Store, follow the same steps used to procure and install applications in hosted instances. Refer to [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-trials.md) for more details.
 

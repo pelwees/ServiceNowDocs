@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-The following procedure works best for translating individual field labels, such as those added with a customization. To translate large numbers of field labels, use the procedure described in [Export and edit translation records](t_TranslateTheInterface.md#).
+The following procedure works best for translating individual field labels, such as those added with a customization. To translate large numbers of field labels, use the procedure described in [Export and edit translation records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateTheInterface.md#).
 
 ## Procedure
 
@@ -35,6 +35,6 @@ The following procedure works best for translating individual field labels, such
 
 5.  Right-click the header bar and select **Insert**.
 
-    Selecting **Insert** creates a new record in the Field Label \[sys\_documentation\] table for this field label in the selected language. For more information about this table, see [Field Label table](../reference/r_FieldLabelTable.md).
+    Selecting **Insert** creates a new record in the Field Label \[sys\_documentation\] table for this field label in the selected language. For more information about this table, see [Field Label table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/../reference/r_FieldLabelTable.md).
 
 

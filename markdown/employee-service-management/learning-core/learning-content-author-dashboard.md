@@ -17,7 +17,7 @@ Learning content author overview dashboard provides a detailed report of user ac
 
 Learning content author dashboard is also shared with the Learning admin.
 
-![Learning catalog overview](../image/learning-catalog-overview.png "Learning content author dashboard")
+![Learning catalog overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/learning-catalog-overview.png "Learning content author dashboard")
 
-**Parent Topic:**[Reporting solutions for Learning](reporting-solutions-learning.md)
+**Parent Topic:**[Reporting solutions for Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/reporting-solutions-learning.md)
 

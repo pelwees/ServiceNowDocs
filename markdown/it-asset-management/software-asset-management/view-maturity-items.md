@@ -29,7 +29,7 @@ The maturity of your SAM program is divided into three stages:
 -   Walk
 -   Run
 
-For more information, see [Maturity stages of your Software Asset Management program](../reference/sam-maturity-stages.md).
+For more information, see [Maturity stages of your Software Asset Management program](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/sam-maturity-stages.md).
 
 **Note:** The maturity level can’t be modified for a required maturity item.
 
@@ -43,11 +43,11 @@ For more information, see [Maturity stages of your Software Asset Management pro
 
 3.  Select a maturity item to view its details.
 
-    For a description of the field values, see [Maturity item details](../reference/sam-maturity-item-details.md).
+    For a description of the field values, see [Maturity item details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/sam-maturity-item-details.md).
 
 4.  If you want to create a Value builder task for the maturity item, select the **Value builder tasks** tab.
 
-    For more information about creating a Value builder task, see [Create a Value builder task](create-valuebuilder-task.md).
+    For more information about creating a Value builder task, see [Create a Value builder task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-valuebuilder-task.md).
 
 5.  Select **Save**.
 

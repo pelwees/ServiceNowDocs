@@ -31,5 +31,5 @@ Role required: timecard\_approver or timecard\_admin
     -   To view the time sheets for the last week, tap **Last week** tab.
     -   To view the time sheets for previous weeks, tap **Older** tab.
 
-**Parent Topic:**[Approve or reject a time sheet or time card from your mobile device](approve-reject-timesheet-mobile.md)
+**Parent Topic:**[Approve or reject a time sheet or time card from your mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/approve-reject-timesheet-mobile.md)
 

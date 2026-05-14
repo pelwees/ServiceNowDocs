@@ -23,13 +23,13 @@ Role required: admin
 
 2.  Open the **par\_notification\_email\_recipients** table.
 
-3.  Press Ctrl+Click on the Preview Users button ![info button](../../performance-analytics/image/InfoIcon.png)next to Users on the **Columns** tab to open the Users dictionary entry.
+3.  Press Ctrl+Click on the Preview Users button ![info button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/image/InfoIcon.png)next to Users on the **Columns** tab to open the Users dictionary entry.
 
-    Point to the Users Column label to see this button.![Preview Users and Preview Groups buttons on the Columns list of Par Notification Email Recipients](../image/preview-buttons-sched-export.png)
+    Point to the Users Column label to see this button.![Preview Users and Preview Groups buttons on the Columns list of Par Notification Email Recipients](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/preview-buttons-sched-export.png)
 
 4.  If you're in the wrong application, select the link to edit the record.
 
-    ![Mismatched application message with link to edit the record](../image/app-mismatch-msg-sched-export.png)
+    ![Mismatched application message with link to edit the record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/app-mismatch-msg-sched-export.png)
 
 5.  On the Reference Specification tab of the dictionary entry, use the condition builder to add filter conditions to the User list.
 
@@ -37,7 +37,7 @@ Role required: admin
 
 6.  Select **Update**.
 
-7.  Press Ctrl+Click on the Preview Groups button ![info button](../../performance-analytics/image/InfoIcon.png)next to Groups on the **Columns** tab to open the Users dictionary entry.
+7.  Press Ctrl+Click on the Preview Groups button ![info button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/image/InfoIcon.png)next to Groups on the **Columns** tab to open the Users dictionary entry.
 
     Point to the Groups Column label to see this button.
 
@@ -48,5 +48,5 @@ Role required: admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[Schedule the export of dashboards and data visualizations](schedule-export-dboards-data-viz.md)
+**Parent Topic:**[Schedule the export of dashboards and data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/schedule-export-dboards-data-viz.md)
 

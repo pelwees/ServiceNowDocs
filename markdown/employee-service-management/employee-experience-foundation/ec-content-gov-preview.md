@@ -17,13 +17,13 @@ Content requesters can preview content request items before they approve it to b
 
 When a content creator sends the completed content for review, the system assigns a new task to the requester and any additional approvers.
 
-![The requester and other reviewers access the review request from the My Tasks button in the portal](../images/content-gov-request-review.png)
+![The requester and other reviewers access the review request from the My Tasks button in the portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/content-gov-request-review.png)
 
 The content requester can preview the content item that appears in a preview portal with the content item highlighted.
 
 **Note:** Only rich content, news, and portal type content can be previewed.
 
-The portal used for previews is determined by the sn\_ca.campaign.preview.portal\_url\_suffix system property found in **Properties** under Content Experiences Configurations. For more information, see [Properties installed with Content Publishing](../reference/properties-with-content-delivery.md) and [Properties installed with Content Experiences](../reference/properties-installed-with-content-auto.md).
+The portal used for previews is determined by the sn\_ca.campaign.preview.portal\_url\_suffix system property found in **Properties** under Content Experiences Configurations. For more information, see [Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md) and [Properties installed with Content Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-installed-with-content-auto.md).
 
 ## Email notification
 

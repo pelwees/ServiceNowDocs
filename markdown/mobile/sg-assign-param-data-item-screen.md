@@ -15,7 +15,7 @@ When you associate a parametrized data item with a list screen, additional field
 
 ## Before you begin
 
-Make sure that you have configured a data item that has parameters. For more information, see [Configure a parametrized data item](sg-config-parametrized-data-item.md).
+Make sure that you have configured a data item that has parameters. For more information, see [Configure a parametrized data item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md).
 
 Role required: admin
 
@@ -226,7 +226,7 @@ The value that appears by default in the UI field. The Default value type field 
         -   **Append encoded query**: Automatically inputs data from an encoded query.
     3.  Select **Save**.
 
-13. Complete any additional screen fields as needed. For more information on creating a screen, see [Create a screen](sg-studio-configure-applet-screens.md).
+13. Complete any additional screen fields as needed. For more information on creating a screen, see [Create a screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-configure-applet-screens.md).
 
 14. Select **Save**.
 

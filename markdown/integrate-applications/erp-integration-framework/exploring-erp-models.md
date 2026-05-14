@@ -23,11 +23,11 @@ There are two types of models:
 -   ERP models follow the data structures defined by the external ERP system itself, accommodating the unique formats of each connected system.
 -   Platform models map ERP input and output fields to existing ServiceNow platform tables, standardizing ERP data into the Now Platform's data structure for tighter integration.
 
-![Infographic showing the two types of models: ERP model and platform model.](../image/erp-explore-model-types-infographic.png)
+![Infographic showing the two types of models: ERP model and platform model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-explore-model-types-infographic.png)
 
 Zero Copy Connector for ERP includes a standard set of models and supports creating custom models from scratch or by cloning existing ones. Each model is tied to one ERP system, and each model can have only one read operation, one update operation, and one create operation defined. Operations use one of several underlying methods depending on the type of operation and what the connected ERP system supports.
 
-![Infographic showing the three types of model operations: read, update, and create.](../image/erp-explore-model-operations-infographic.png)
+![Infographic showing the three types of model operations: read, update, and create.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-explore-model-operations-infographic.png)
 
 ## Key benefits
 
@@ -47,5 +47,5 @@ Instead of building three separate integrations, the developer creates a single 
 
 The completed model is then used as the data source for a Workflow Studio flow that triggers whenever a new vendor request is submitted. The flow automatically reads existing vendor data, routes through an approval, and writes the approved changes directly back to the SAP system, all without anyone needing to log in to the SAP system.
 
-**Parent Topic:**[Exploring Zero Copy Connector for ERP](exploring-erp-integration.md)
+**Parent Topic:**[Exploring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/exploring-erp-integration.md)
 

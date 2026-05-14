@@ -82,7 +82,7 @@ Click **Propose Major Case**.
 
 </td><td>
 
-Propose a major case when multiple customers are affected. **Note:** If you don't see this option, click the More UI Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\).
+Propose a major case when multiple customers are affected. **Note:** If you don't see this option, click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\).
 
 </td></tr></tbody>
 </table>4.  Resolve and close proactive cases in the same way as other customer service management cases.
@@ -93,9 +93,9 @@ Propose a major case when multiple customers are affected. **Note:** If you don'
 **Related topics**  
 
 
-[Propose a case as a major case candidate](propose-major-case-candidate.md)
+[Propose a case as a major case candidate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/propose-major-case-candidate.md)
 
-[Close a customer service case](t_CloseACase.md)
+[Close a customer service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_CloseACase.md)
 
-[AWA for CSM](../concept/awa-csm-overview.md)
+[AWA for CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/awa-csm-overview.md)
 

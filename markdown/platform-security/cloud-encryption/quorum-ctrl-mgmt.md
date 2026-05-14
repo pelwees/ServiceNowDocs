@@ -23,9 +23,9 @@ When the quorum has been either approved or rejected, the requestor of the key w
 
 ## Procedure
 
-1.  Perform the steps to withdraw a customer managed key found in [Key management operations](key-mgmt-operations-ce.md#).
+1.  Perform the steps to withdraw a customer managed key found in [Key management operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-operations-ce.md#).
 
-2.  View the Quorum Control Requests and Quorum Control Approvers tabs that activated. ![Shows the quorum control tabs.](../image/key-def-table.png)
+2.  View the Quorum Control Requests and Quorum Control Approvers tabs that activated. ![Shows the quorum control tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/key-def-table.png)
 
 3.  Open the **Quorum Control Requests** tab to view the actual request that is created.
 
@@ -36,7 +36,7 @@ When the quorum has been either approved or rejected, the requestor of the key w
         -   Requested: Approval emails have been sent and the workflow has been triggered to reach quorum.
         -   Approved: The key will be withdrawn and the instance will be shut down.
         -   Denied: The quorum request is canceled and no further action is taken with this request. A new withdrawal request will be required to withdraw the key.
-4.  Open the Quorum Control Approvers tab to view the list of approvers and the state of the approval request.![Displays entries for the quorum control approvers.](../image/quorum-ctrl-approvers.png)
+4.  Open the Quorum Control Approvers tab to view the list of approvers and the state of the approval request.![Displays entries for the quorum control approvers.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../image/quorum-ctrl-approvers.png)
 
     State:
 
@@ -53,10 +53,10 @@ When the quorum has been either approved or rejected, the requestor of the key w
     -   Step 6 - key\_metadata\_withdraw: Converts the active key metadata lifecycle state to "destroyed."
     -   Step 7 - post\_withdraw: Makes a call to shut down the instance.
 
--   **[Approve or deny a quorum control request](quorum-transactions-approval.md)**  
+-   **[Approve or deny a quorum control request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-transactions-approval.md)**  
 Approve or deny a quorum control request from Key Management Transactions.
--   **[Approve or deny a quorum request](perform-quorum-action.md)**  
+-   **[Approve or deny a quorum request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/perform-quorum-action.md)**  
 When a quorum request has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The users can grant approvals from the Key Management Operations page, **My Approvals** in the Instance, or directly from the request email. The key withdrawal operation is blocked until the quorum is met.
 
-**Parent Topic:**[Quorum Control Policy](../concept/quorum-ctrl-policy.md)
+**Parent Topic:**[Quorum Control Policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/../concept/quorum-ctrl-policy.md)
 

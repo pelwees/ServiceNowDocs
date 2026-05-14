@@ -30,5 +30,5 @@ With Operational Technology Knowledge Management, you can use the following key 
 -   Ability to request approvals to publish, edit, retire, or delete a knowledge article.
 -   Ability to edit existing knowledge articles with updated information.
 
-**Parent Topic:**[Operational Technology Knowledge Management](operational-technology-knowledge-management-landing-page.md)
+**Parent Topic:**[Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-landing-page.md)
 

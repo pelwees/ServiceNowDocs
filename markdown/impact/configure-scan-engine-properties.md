@@ -15,7 +15,7 @@ Configure the primary scanning capabilities and configuration options for schedu
 
 ## Before you begin
 
-[Run your first scan with the Scan Engine](run-scan-engine.md) to run your initial scan.
+[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md) to run your initial scan.
 
 Role required: Scan Engine admin and Impact admin
 

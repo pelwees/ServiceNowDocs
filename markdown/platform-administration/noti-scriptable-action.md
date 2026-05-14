@@ -18,7 +18,7 @@ Select **Scriptable Action** from the Notification Action wizard to create a scr
 Role required: admin
 
 ```
-Before performing this task, you must complete [Select provider notification action capabilities](noti-provider-action-capabilities.md).
+Before performing this task, you must complete [Select provider notification action capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-provider-action-capabilities.md).
 ```
 
 ## Procedure
@@ -39,5 +39,5 @@ Before performing this task, you must complete [Select provider notification act
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Select provider notification action capabilities](noti-provider-action-capabilities.md)
+**Parent Topic:**[Select provider notification action capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-provider-action-capabilities.md)
 

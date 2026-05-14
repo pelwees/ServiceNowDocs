@@ -23,13 +23,13 @@ Role required: sn\_pace.execution\_reader
 
 1.  In the **Policy builder** tab, click the policy version you want to evaluate.
 
-2.  Select the Test playground icon ![Test playground icon.](../image/pace-test-playground-icon.jpg).
+2.  Select the Test playground icon ![Test playground icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-test-playground-icon.jpg).
 
 3.  After modifying the policy script according to your requirements, click **Run Test**
 
     The **Output** tab is displayed automatically, and shows the output and the decision reached.
 
-    ![Output tab.](../image/pace-output-tab-2.jpg)
+    ![Output tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-output-tab-2.jpg)
 
 4.  Review the execution output in the **Output** tab:
 

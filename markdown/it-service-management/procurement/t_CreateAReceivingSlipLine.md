@@ -51,14 +51,14 @@ If the asset already exists, the asset record is updated when you save the recei
 
 The **Receiving stockroom** field on the Receiving Slip record becomes read-only.
 
-**Parent Topic:**[Receive assets](../concept/c_ReceiveAssets.md)
+**Parent Topic:**[Receive assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAssets.md)
 
 **Related topics**  
 
 
-[Receive an asset](t_ReceiveAnAsset.md)
+[Receive an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ReceiveAnAsset.md)
 
-[Create a receiving slip](t_CreateAReceivingSlip.md)
+[Create a receiving slip](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAReceivingSlip.md)
 
-[Consumable assets](../concept/c_ReceiveAConsumableAsset.md)
+[Consumable assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_ReceiveAConsumableAsset.md)
 

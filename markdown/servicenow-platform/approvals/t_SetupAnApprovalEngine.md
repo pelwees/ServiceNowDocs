@@ -27,14 +27,14 @@ Role required: none
 
     The following page appears with the **Approval Engine** option for each Task table in the system. If the **Approval Engine** option is greyed out and shows **Turn engines off**, read the **Notes** in the same row. The most common reason an approval engine is turned off is that a workflow is managing the approvals on the table. Having the approval engine turned off prevents conflicts with the workflow that could cause a range of issues. If you want to use an approval engine on the table, set the workflow to inactive.
 
-    ![Approval engine page](../image/ApprovalEnginePage.png)
+    ![Approval engine page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/ApprovalEnginePage.png)
 
-2.  Select the [approval engine option](../concept/c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
+2.  Select the [approval engine option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/c_ApprovalEngines.md#table_ApprovalEngineOptions) for each Task table from the choice list.
 
 3.  Click **Save**.
 
     These preferences are saved as system properties that are named **glide.approval\_engine.&lt;table\_name&gt;**.
 
 
-**Parent Topic:**[Approval engines](../concept/c_ApprovalEngines.md)
+**Parent Topic:**[Approval engines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/c_ApprovalEngines.md)
 

@@ -90,18 +90,18 @@ When you deactivate a domain, the instance also automatically completes the foll
 
 For example, if you deactivate the ACME domain from the sample data, the instance also deactivates the ACME company, and the three sample users are locked out.
 
-**Parent Topic:**[Exploring domain separation](c_DomainSeparation.md)
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
 
-[Configuration that can be delegated to internal or external customers](ds-before-you-begin.md)
+[Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ds-before-you-begin.md)
 
-[Domain assignment](c_DomainAssignment.md)
+[Domain assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainAssignment.md)
 
-[Visibility domains and Contains domains](c_DomainVisibility.md)
+[Visibility domains and Contains domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainVisibility.md)
 
-[Concepts for service providers](sp-concepts.md)
+[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 
-[Installed with domain separation](../reference/r_InstalledWithDomainSeparation.md)
+[Installed with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/r_InstalledWithDomainSeparation.md)
 

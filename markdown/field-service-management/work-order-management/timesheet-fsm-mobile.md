@@ -29,5 +29,5 @@ Timesheets provide the following capabilities:
 -   Submit a time sheet
 -   Submit a time card
 
-![Mobile view of an agent's app displaying active time sheets.](../image/timesheet_fsm_mobile.png)
+![Mobile view of an agent's app displaying active time sheets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/timesheet_fsm_mobile.png)
 

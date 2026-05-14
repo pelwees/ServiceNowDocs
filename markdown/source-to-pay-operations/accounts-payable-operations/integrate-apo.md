@@ -17,6 +17,6 @@ Extend the capabilities of Accounts Payable Operations by integrating with other
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents.
 
--   [Accounts Payable Operations integration framework](using-integration-to-create-invoice.md)
--   [IT Asset Management purchase order invoice processing](apo-integration-with-itam.md)
+-   [Accounts Payable Operations integration framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-integration-to-create-invoice.md)
+-   [IT Asset Management purchase order invoice processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/apo-integration-with-itam.md)
 

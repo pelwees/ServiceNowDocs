@@ -102,12 +102,12 @@ The WSJF score is calculated with this formula:
 WSJF Score = (User Business value + Time criticality + Risk reduction)/Job Size
 ```
 
-To get started with Scoring your planning items in Strategic Planning, see [Scoring planning items in Strategic Planning Workspace](using-scoring-frameworks-in-startegic-planning-workspace.md).
+To get started with Scoring your planning items in Strategic Planning, see [Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/using-scoring-frameworks-in-startegic-planning-workspace.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/concept/alignment-planner-workspace.md)
 
 **Related topics**  
 
 
-[Custom scoring frameworks in Strategic Planning](custom-scoring-frameworks-in-strategic-planning.md)
+[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/custom-scoring-frameworks-in-strategic-planning.md)
 

@@ -20,7 +20,7 @@ Invoice line list view details on the Business Portal.
 |Description|A brief summary of the invoice line item.|
 |Invoice date|Date on which the invoice was created.|
 |Due date|Date on which the invoice is due for payment.|
-|Status|The current status of the invoice line. For more information, see[Invoice states on Business Portal](invoice-states.md).|
+|Status|The current status of the invoice line. For more information, see[Invoice states on Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/invoice-states.md).|
 |Account|Name of the customer or business entity in the business-to-business \(B2B\) model.|
 |Customer contact|Primary contact for your account.|
 |Product offering|The product or service offering associated with this invoice line.|
@@ -30,5 +30,5 @@ Invoice line list view details on the Business Portal.
 |Billing location|The billing address that appears on the original invoice.|
 |Shipping to location|Reference to the location to which the order on the invoice is shipped.|
 
-**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](som-business-portal-reference.md)
+**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 

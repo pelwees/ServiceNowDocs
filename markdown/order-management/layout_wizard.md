@@ -30,7 +30,7 @@ View a walkthrough of the CPQ Layout Wizard.
 **Related topics**  
 
 
-[Set up layouts](layout_csv_101.md)
+[Set up layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
 
-[CSV layout upload](csv_layout_upload.md)
+[CSV layout upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/csv_layout_upload.md)
 

@@ -48,7 +48,7 @@ If you already have duplicate downgrade rights from previous Software Asset Mana
 
 If you try to create a duplicate downgrade right for an inactive downgrade right, an error message appears. The error message informs you that an inactive downgrade right exists and you can reactivate it.
 
-![Downgrade rights](../image/mmasset0021810-discovery-map-horizontal.svg)
+![Downgrade rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/mmasset0021810-discovery-map-horizontal.svg)
 
 Downgrade rights aren’t available for the following license metrics mentioned in the metric groups:
 
@@ -90,5 +90,5 @@ Concurrent Licenses
 -   Network
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+</table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 

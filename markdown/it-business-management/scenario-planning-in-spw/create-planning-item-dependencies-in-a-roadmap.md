@@ -24,7 +24,7 @@ Role required: sn\_align\_core.apw\_user
 
 From the portfolio roadmap or the free-form roadmap, use the item details side panel to create dependencies between two planning items. Dependencies are supported for projects, epics, demands, initiatives, programs, or any custom planning item types that you may have created.
 
-The dependency for a planning item on your roadmap can be on an item from the same roadmap, a different roadmap, or the item might not be planned yet. [Learn more about dependencies in the roadmap](../concept/roadmap-planning-overview.md#section_spl_34r_1tb).
+The dependency for a planning item on your roadmap can be on an item from the same roadmap, a different roadmap, or the item might not be planned yet. [Learn more about dependencies in the roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/roadmap-planning-overview.md#section_spl_34r_1tb).
 
 **Note:** Dependencies for free-form roadmaps are available only if the roadmap's source table is Planning Item \[sn\_align\_core\_planning\_item\] or one of its extensions.
 
@@ -65,27 +65,27 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 3.  Select **More** &gt; **Dependencies**.
 
-4.  From the Dependencies tab, select the Add dependency icon \(![Add dependency icon.](../../alignment-planner-workspace/images/icon-add.png)\).
+4.  From the Dependencies tab, select the Add dependency icon \(![Add dependency icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-add.png)\).
 
 5.  On the form, fill in the fields.
 
-    For form field information, see [Dependency form](../../alignment-planner-workspace/reference/dependency-form.md).
+    For form field information, see [Dependency form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/dependency-form.md).
 
 6.  Select **Save**.
 
 
 ## Result
 
-The dependency is created between the selected planning items and is listed in the Dependencies tab of the Item details side panel.![Dependency details in side panel.](../images/dependencies-item-details-panel.png)
+The dependency is created between the selected planning items and is listed in the Dependencies tab of the Item details side panel.![Dependency details in side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/dependencies-item-details-panel.png)
 
-On the roadmap, you can see the dependency details from the roadmap item card or the dependency lines. [Learn about display settings available for dependencies on the roadmap.](../../alignment-planner-workspace/concept/customizing-dependencies-display-on-roadmap.md)
+On the roadmap, you can see the dependency details from the roadmap item card or the dependency lines. [Learn about display settings available for dependencies on the roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/concept/customizing-dependencies-display-on-roadmap.md)
 
 If one of the dependency items is not on the roadmap, then the dependency details are shown on the roadmap item card, with a redirect link to the external planning item. In this case, the items could belong to the same roadmap or not.
 
-![Dependency pop-up card and dependency lines between the items.](../images/dependency-line-card.png)
+![Dependency pop-up card and dependency lines between the items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/dependency-line-card.png)
 
 ## What to do next
 
--   [Learn how to resolve roadmap item dependency errors.](../../alignment-planner-workspace/reference/error-state-for-planning-item-dependencies.md)
--   Update the dependency details or delete it. See [Update roadmap item dependencies](manage-planning-item-dependencies-apw.md).
+-   [Learn how to resolve roadmap item dependency errors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/reference/error-state-for-planning-item-dependencies.md)
+-   Update the dependency details or delete it. See [Update roadmap item dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/manage-planning-item-dependencies-apw.md).
 

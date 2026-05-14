@@ -41,15 +41,15 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         -   **Policy Input**: Add **Risk Factor**.
 
-            ![Allow Policy - Post authentication](../images/post-auth-idp.png)
+            ![Allow Policy - Post authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/post-auth-idp.png)
 
         -   **Policy Conditions**: **Risk Factor** greater than `5` and **Authentication Scheme** is `Single Sing-On`.
 
-            ![Policy input condition](../images/input-idp-condition.png)
+            ![Policy input condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/input-idp-condition.png)
 
         Based on this configuration, when the device is trusted from the Okta \(IdP\), then the user is authenticated to the instance.
 
-        For more information on how to create Post Authentication Context with Policy and Condition, see [Post-authentication context](../concept/post-auth-context.md).
+        For more information on how to create Post Authentication Context with Policy and Condition, see [Post-authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../concept/post-auth-context.md).
 
 2.  Use of IDP attribute in MFA Policy Context.
 
@@ -61,15 +61,15 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         -   **Policy Input**: Add **Risk Factor**.
 
-            ![Policy input](../images/input-idp.png)
+            ![Policy input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/input-idp.png)
 
         -   **Policy Conditions**: **Risk Factor** greater than `5` and **Authentication Scheme** is `Single Sing-On`.
 
-            ![MFA IDP Filter condition](../images/mfa-idp-filter.png)
+            ![MFA IDP Filter condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-idp-filter.png)
 
         Based on this configuration, when the device is not-trusted from the Okta \(IdP\), then the user shown a second factor authentication to log in to the instance.
 
-        For more information on how to create MFA Context with Policy and Condition, see [Multi-factor Authentication context](../concept/mfa-auth-context.md).
+        For more information on how to create MFA Context with Policy and Condition, see [Multi-factor Authentication context](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../concept/mfa-auth-context.md).
 
 3.  Use of IDP attribute in Zero Trust - Policy based session access.
 
@@ -83,14 +83,14 @@ The Okta IDP attributes are as displayed in the following screen shot. You shoul
 
         -   **Policy Input**: Add **Risk Factor** and **Has itil role**.
 
-            ![Session Access - IDP Filter](zta-idp-filter-input.png)
+            ![Session Access - IDP Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/zta-idp-filter-input.png)
 
         -   **Policy Conditions**: **Risk Factor** greater than `5` and **Authentication Scheme** is `Single Sing-On`.
 
-            ![Session Access - IDP condition](zta-idp-filter-condition.png)
+            ![Session Access - IDP condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/zta-idp-filter-condition.png)
 
         Based on this configuration, when the `itil` user using a device that is not-trusted from the Okta \(IdP\), then the user's privileges are reduced for the logged in session.
 
-        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [Zero Trust Access \(ZTA\)](../concept/session-access.md).
+        For more information on how to create Zero Trust - Policy based session access with Policy and Condition, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../concept/session-access.md).
 
 

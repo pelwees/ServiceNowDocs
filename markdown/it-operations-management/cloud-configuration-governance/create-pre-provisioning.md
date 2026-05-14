@@ -87,11 +87,11 @@ Option for enabling the pre-provision operation you want invoked.
 
     All attributes for the pre-provision operation are listed.
 
-    ![Attributes for pre-provision operation.](../image/manage-attributes.png)
+    ![Attributes for pre-provision operation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/manage-attributes.png)
 
 6.  Either create expression mappings for an attribute \(in the **Mapping** field\) or generate variables for an attribute.
 
-    See [Manage operation attributes](manage-attributes.md) for more information.
+    See [Manage operation attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/manage-attributes.md) for more information.
 
 7.  Click **Apply Changes**.
 

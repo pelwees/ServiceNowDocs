@@ -19,7 +19,7 @@ Admins and users with various roles complete the following configurations tasks 
 
 |Task|Description|
 |----|-----------|
-|[Entity configuration and mapping](../reference/entity-configuration-and-mapping.md)|Map entities that define a structure and transfers data from the source entity to the target entity.|
-|[Create an entity configuration](../task/create-entity-configuration.md)|Use entities to compose a workflow between two entities so that you can update their existing configurations and perform the required **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
-|[Create an entity mapping](../task/create-entity-mapping.md)|Create an entity mapping to perform the declarative actions like **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
+|[Entity configuration and mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/entity-configuration-and-mapping.md)|Map entities that define a structure and transfers data from the source entity to the target entity.|
+|[Create an entity configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-entity-configuration.md)|Use entities to compose a workflow between two entities so that you can update their existing configurations and perform the required **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
+|[Create an entity mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-entity-mapping.md)|Create an entity mapping to perform the declarative actions like **Suspend**, **Resume**, or **Disconnect** actions on a sold product.|
 

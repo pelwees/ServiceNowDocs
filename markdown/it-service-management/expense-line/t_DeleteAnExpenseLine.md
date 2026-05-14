@@ -34,18 +34,18 @@ Deleting expense lines and allocations should be limited to an emergency case on
 4.  In the confirmation dialog box, click **Delete**.
 
 
-**Parent Topic:**[Expense lines and expense allocations](../concept/c_ExpenseLinesAndAllocations.md)
+**Parent Topic:**[Expense lines and expense allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../concept/c_ExpenseLinesAndAllocations.md)
 
 **Related topics**  
 
 
-[Create an allocation rule](t_CreateAnAllocationRule.md)
+[Create an allocation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_CreateAnAllocationRule.md)
 
-[Automatic expense line creation](../concept/c_CreateExpenseLinesAutomatically.md)
+[Automatic expense line creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../concept/c_CreateExpenseLinesAutomatically.md)
 
-[Create expense lines manually](t_CreateExpenseLinesManually.md)
+[Create expense lines manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_CreateExpenseLinesManually.md)
 
-[Create a sample allocation rule](t_SampleAllocationRule.md)
+[Create a sample allocation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_SampleAllocationRule.md)
 
-[Use a scripted allocation](t_UseAScriptedAllocation.md)
+[Use a scripted allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_UseAScriptedAllocation.md)
 

@@ -20,19 +20,19 @@ Connector administrators can run or schedule content crawls to retrieve updated 
 
 The indexed content and metadata are stored as records in a connector-specific indexed source. Search administrators can create search sources from this indexed source and link them to search profiles to make the indexed records searchable in AI Search applications.
 
--   **[Configure Aha! Roadmaps for external content indexing](../task/configure-aha-roadmaps-external-content-indexing.md)**  
+-   **[Configure Aha! Roadmaps for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-aha-roadmaps-external-content-indexing.md)**  
 Generate an API key in Aha! Roadmaps to allow the Aha! Roadmaps external content connector to access content from your workspaces.
--   **[Create an Aha! Roadmaps external content connector](../task/create-ext-cont-connector-aha-roadmaps.md)**  
+-   **[Create an Aha! Roadmaps external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-ext-cont-connector-aha-roadmaps.md)**  
 Create an external content connector to retrieve searchable content and security principals from your Aha! Roadmaps source system.
--   **[Configure crawl settings for an Aha! Roadmaps external content connector](../task/configure-crawl-settings-aha-roadmaps-external-content-connector.md)**  
+-   **[Configure crawl settings for an Aha! Roadmaps external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/configure-crawl-settings-aha-roadmaps-external-content-connector.md)**  
 Specify the products you want your Aha! Roadmaps external content connector to crawl. Define inclusion or exclusion filters to dictate the types of content the crawl retrieves and feeds to AI Search for indexing.
 
-**Parent Topic:**[Configuring External Content Connectors](configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ext-cont-connectors.md)
 
 **Related topics**  
 
 
-[Create a content crawl for an external content connector](../task/create-content-crawl-external-content-connector.md)
+[Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-content-crawl-external-content-connector.md)
 
-[Create a user permission crawl for an external content connector](../task/create-user-mapping-crawl-external-content-connector.md)
+[Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../task/create-user-mapping-crawl-external-content-connector.md)
 

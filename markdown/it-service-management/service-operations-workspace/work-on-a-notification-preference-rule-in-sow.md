@@ -19,5 +19,5 @@ Add, edit, and delete delivery channels for notification preference rules in .
 
 Role required: rota\_manager, rota\_admin
 
-**Parent Topic:**[Create notification preference rule](create-notification-preference-rule.md)
+**Parent Topic:**[Create notification preference rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-notification-preference-rule.md)
 

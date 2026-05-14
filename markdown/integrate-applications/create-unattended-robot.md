@@ -15,7 +15,7 @@ Create an unattended robot in RPA Hub to run the unattended bot process.
 
 ## Before you begin
 
-Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](display-activity-stream-sys-property-rpahub.md).
+Configure the related system property to view the activity stream. For more information, see [Display an activity stream for bot processes and robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/display-activity-stream-sys-property-rpahub.md).
 
 Make sure that the **sn\_rpa\_fdn.enable\_unattended\_robot\_user\_mapping** system property is set to True to allow only the authorized users to access the robot and robot assets. This system property enables the **User** field on the Unattended Robot form. If you have the admin role, you can edit this system property. By default, this property is set to True.
 
@@ -29,7 +29,7 @@ An unattended robot can execute an unattended bot process, which is an automatio
 
 By using the Unattended Robot application, you can enable an unattended robot to execute an unattended bot process that is triggered either by a schedule, API, or manually set.
 
-You can map multiple unattended robots as high density robots to one virtual machine. For more information, see [High density robots in RPA Hub](../concept/high-density-robots-rpa-hub.md).
+You can map multiple unattended robots as high density robots to one virtual machine. For more information, see [High density robots in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/high-density-robots-rpa-hub.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Action
 
 </td><td>
 
-1.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+1.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 2.  On the **Lists** tab, under **Administration**, select **Robots**.
 3.  Select **New**.
 
@@ -62,7 +62,7 @@ Action
 
 </td><td>
 
-1.  Select the plus icon \(![Plus icon.](../image/icon-plus.png)\).
+1.  Select the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/icon-plus.png)\).
 2.  Select **New Robot**.
 
 
@@ -111,7 +111,7 @@ Computer name of the physical or virtual machine on which the Unattended Robot a
 
  The **Machine Lookup value change** scheduled job validates the values in the **Machine Name Lookup** field and **Machine Name** field.
 
- For more information, see the Scheduled jobs installed section in [Components installed with RPA Hub](../reference/installed-with-rpa-hub.md) and [Configure RPA Hub properties](../reference/rpahub-sys-properties.md).
+ For more information, see the Scheduled jobs installed section in [Components installed with RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/installed-with-rpa-hub.md) and [Configure RPA Hub properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/rpahub-sys-properties.md).
 
 </td></tr><tr><td>
 
@@ -171,18 +171,18 @@ Brief description of the robot.
 
 ## What to do next
 
-Install Unattended Robot. For more information, see [Install Unattended Robot](../../rpa-runtime/task/install-rpa-runtime.md)
+Install Unattended Robot. For more information, see [Install Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-runtime/task/install-rpa-runtime.md)
 
-Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](../../rpa-runtime/task/set-up-rpa-runtime.md).
+Set up the Unattended Robot application. For more information, see [Set up Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-runtime/task/set-up-rpa-runtime.md).
 
-Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](../concept/create-botprocess.md).
+Create a bot process. For more information, see [Configuring a bot process record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-botprocess.md).
 
 **Related topics**  
 
 
-[Edit an unattended robot in RPA Hub](edit-robot.md)
+[Edit an unattended robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/edit-robot.md)
 
-[Retire a robot in RPA Hub](retire-robot.md)
+[Retire a robot in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/retire-robot.md)
 
 [View Audit History](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistorySets.md)
 

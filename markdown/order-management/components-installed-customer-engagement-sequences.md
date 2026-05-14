@@ -170,12 +170,12 @@ Stores the sequence task records that are generated when a sequence is triggered
 </td></tr></tbody>
 </table>The Customer Engagement Sequence Task \[sn\_crm\_sequence\_task\] table extends the Task \[task\] table.
 
-**Parent Topic:**[Customer Engagement Sequences reference](../concept/customer-engagement-sequences-reference.md)
+**Parent Topic:**[Customer Engagement Sequences reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/customer-engagement-sequences-reference.md)
 
 **Related topics**  
 
 
-[Install Customer Engagement Sequences](../task/install-customer-engagement-sequences.md)
+[Install Customer Engagement Sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/install-customer-engagement-sequences.md)
 
-[Using Customer Engagement Sequences](../concept/using-customer-engagement-sequences.md)
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-customer-engagement-sequences.md)
 

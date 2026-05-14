@@ -78,5 +78,5 @@ Text field
 Most recent date and time that the MID Server successfully communicated with the instance in the following format: `DD/MM/YY/H:S (Day/Month/Year/Hour:Minute)`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)
+</table>**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 

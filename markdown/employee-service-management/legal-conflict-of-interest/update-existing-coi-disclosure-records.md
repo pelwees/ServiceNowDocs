@@ -39,5 +39,5 @@ You can only update conflict of interest disclosure records that have the confli
 4.  Click **Update**.
 
 
-**Parent Topic:**[Using Legal Conflict of Interest](../concept/lsd-coi-use-landing.md)
+**Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../concept/lsd-coi-use-landing.md)
 

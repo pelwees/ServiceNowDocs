@@ -31,7 +31,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Set up the process for submitting personal information](hcls-vam-config.-personal-info.md).
+[Set up the process for submitting personal information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-config.-personal-info.md).
 
 </td><td>
 
@@ -39,7 +39,7 @@ Set up the process for enabling users to submit their personal information for v
 
 </td></tr><tr><td>
 
-[Configure the preferred vaccine method](hcls-vam-config-preferred-vaccine-method.md).
+[Configure the preferred vaccine method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-config-preferred-vaccine-method.md).
 
 </td><td>
 
@@ -47,7 +47,7 @@ Configure the preferred vaccination method while scheduling a vaccination appoin
 
 </td></tr><tr><td>
 
-[Configure appointment scheduling for a vaccination center](hcls-vam-config-appoint-scheduling.md).
+[Configure appointment scheduling for a vaccination center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-config-appoint-scheduling.md).
 
 </td><td>
 

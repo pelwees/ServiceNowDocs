@@ -290,5 +290,5 @@ Maximum number of records in a table that can be processed using the scheduled j
     5.  Click **Save**.
 
 
-**Parent Topic:**[ServiceNow provided integrations](../../../integrate/vendor-specific-integrations/reference/r_ServiceNowProvidedintegrations.md)
+**Parent Topic:**[ServiceNow provided integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../integrate/vendor-specific-integrations/reference/r_ServiceNowProvidedintegrations.md)
 

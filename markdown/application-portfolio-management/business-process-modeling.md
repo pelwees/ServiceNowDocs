@@ -23,14 +23,14 @@ Elements that are included in a business process modeling diagram:
 -   Activities: Tasks or actions within the process. Common symbols used are rectangles.
 -   Gateways: Decision points and branching paths. Common symbols used are diamonds.
 
-![Enterprise modeling and visualization page showing a BPMN diagram.](../../image/eaw-image/modeling/eaw-bpmn-diagram.png)
+![Enterprise modeling and visualization page showing a BPMN diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/eaw-bpmn-diagram.png)
 
-**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](eaw-modeling.md)
+**Parent Topic:**[Exploring Enterprise Modeling and Visualization in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling.md)
 
 **Related topics**  
 
 
-[Create a diagram for a business process map](../../task/eaw-task/eaw-modeling-bp-map.md)
+[Create a diagram for a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-bp-map.md)
 
-[Update a business process map](../../task/eaw-task/eaw-modeling-update-bp-map.md)
+[Update a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-update-bp-map.md)
 

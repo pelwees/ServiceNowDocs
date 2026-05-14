@@ -65,16 +65,16 @@ The CI \[cmdb\_ci\] table has the **OT entity** \[cmdb\_ot\_entity\] field. Also
 
 **Important:** After a CI is marked as an OT entity, it can't be reverted to a non-OT entity.
 
-**Parent Topic:**[OT Asset Management](ot-asset-management.md)
+**Parent Topic:**[OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-management.md)
 
 **Related topics**  
 
 
-[OT Asset Management licensing](licensing-ot-asset-management.md)
+[OT Asset Management licensing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/licensing-ot-asset-management.md)
 
-[Install OT Asset Management](../task/install-otam.md)
+[Install OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/install-otam.md)
 
-[Installed with OT Asset Management](../reference/installed-with-otam.md)
+[Installed with OT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/installed-with-otam.md)
 
-[OT Asset Workspace](ot-asset-ws-otam.md)
+[OT Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-ws-otam.md)
 

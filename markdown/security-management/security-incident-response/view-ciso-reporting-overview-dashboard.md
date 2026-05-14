@@ -42,7 +42,7 @@ The CISO Reporting Overview dashboard provides key insights about the security i
 
 3.  Select **CISO Reporting Overview** from the drop-down list.
 
-    ![CISO Reporting Overview dashboard](../image/ciso-report-dashboard-sir.png)
+    ![CISO Reporting Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ciso-report-dashboard-sir.png)
 
 4.  View the CISO Reporting dashboard for further action.
 

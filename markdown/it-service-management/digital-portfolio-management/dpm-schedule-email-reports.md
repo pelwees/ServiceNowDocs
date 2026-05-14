@@ -33,7 +33,7 @@ Let's review the Digital Portfolio Management Admin Center.
     -   Turn off the toggle key to hide the email button.
     If the toggle key is on, this **Send email** button displays on the Enterprise portfolio page in the DPM Workspace.
 
-    ![Email button displayed on the Enterprise Portfolio page.](../image/dpm-email-button.png)
+    ![Email button displayed on the Enterprise Portfolio page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../image/dpm-email-button.png)
 
 4.  Configure the scheduled metrics email.
 
@@ -134,5 +134,5 @@ Date and time of the first scheduled job. This field appears only if you select 
 12. Select **Execute Now**.
 
 
-**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](../concept/dpm-admin-center.md)
+**Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/../concept/dpm-admin-center.md)
 

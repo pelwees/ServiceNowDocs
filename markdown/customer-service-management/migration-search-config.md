@@ -19,5 +19,5 @@ Global Search provides users with the ability to search for information within t
 |-----------------|--------------|
 |sys\_aw\_global\_search\_config|sys\_ux\_page\_property|
 
-For more information, see [Using AI Search with CSM Configurable Workspace](csm-config-workspace-ai-search.md).
+For more information, see [Using AI Search with CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-ai-search.md).
 

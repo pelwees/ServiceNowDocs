@@ -182,38 +182,38 @@ Use the **Related Records** section to view the detailed information about objec
 
 **Related Records Actions:**
 
-Use **Link** and **Unlink** to associate or remove associations between existing records without creating records. For more information, see [Link Threat Intel Related Records](link-threat-intel-releated-records.md).
+Use **Link** and **Unlink** to associate or remove associations between existing records without creating records. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
 
-**Parent Topic:**[TISC Library Repository](../concept/tisc-ioc.md)
+**Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-ioc.md)
 
 **Related topics**  
 
 
-[Observables](../concept/observables.md)
+[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/observables.md)
 
-[Indicators](../concept/indicator.md)
+[Indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/indicator.md)
 
-[Threat Entities](../concept/tisc-threat-entities.md)
+[Threat Entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-threat-entities.md)
 
-[Other Objects](../concept/tisc-other-objects.md)
+[Other Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-other-objects.md)
 
-[Vulnerability Artifacts](../concept/vulnerability.md)
+[Vulnerability Artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/vulnerability.md)
 
-[Working with Reports in TISC](../concept/tisc-reports-lib-view.md)
+[Working with Reports in TISC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-reports-lib-view.md)
 
-[MITRE-ATT&amp;CK Repository](../concept/tisc-mitre-att-ck-framework-overview.md)
+[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-mitre-att-ck-framework-overview.md)
 
-[Relationships Objects](../concept/relationship-objects.md)
+[Relationships Objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/relationship-objects.md)
 
-[Potential Relationships](../concept/potential-relationships.md)
+[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/potential-relationships.md)
 
-[Vulnerability relationship mapping](../concept/tisc-vul-relationship-map.md)
+[Vulnerability relationship mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-vul-relationship-map.md)
 
-[Define Vulnerability](define-vulnerability.md)
+[Define Vulnerability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-vulnerability.md)
 
-[Create a CWE record](tisc-create-cwe-record.md)
+[Create a CWE record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-cwe-record.md)
 
-[Create a Product](tisc-create-product.md)
+[Create a Product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-product.md)
 
-[Create Remediations](tisc-create-remediation-record.md)
+[Create Remediations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-remediation-record.md)
 

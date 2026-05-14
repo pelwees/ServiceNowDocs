@@ -21,7 +21,7 @@ Role required: atf\_test\_admin
 
 ## About this task
 
-Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](../reference/atf-step-config-xmpls.md#hbm_xwc_yw).
+Categories are used for filtering the step list in the Add Step dialog. For more information, see [Category field example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-step-config-xmpls.md#hbm_xwc_yw).
 
 ## Procedure
 
@@ -40,12 +40,12 @@ Categories are used for filtering the step list in the Add Step dialog. For more
     -   Server - REST, if you want this category to contain steps that send Inbound REST messages to the instance.
 5.  In the **Display name** field, enter the category name you want to appear in the middle column of the Add Test Step dialog when this category is selected.
 
-    ![Add test step](../image/atf-category-xmpl.png)
+    ![Add test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-category-xmpl.png)
 
 6.  Click **Submit**.
 
     The system creates a test step category and returns to the list of test step environments.
 
 
-**Parent Topic:**[Creating custom test step configurations](../concept/atf-custom-step-types.md)
+**Parent Topic:**[Creating custom test step configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-custom-step-types.md)
 

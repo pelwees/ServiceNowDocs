@@ -21,35 +21,35 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Configuration Compliance concepts and features](../concept/vuln-config-compl.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Configuration Compliance concepts and features](../concept/vuln-config-compl.md)
 
 </td><td>
 
-[Set up, Install and Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Configuration Compliance](../concept/cc-configuring.md)
+[Set up, Install and Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure Configuration Compliance](../concept/cc-configuring.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Configuration Compliance by integrating it with other applications](../concept/vuln-config-compl-integrations.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Configuration Compliance by integrating it with other applications](../concept/vuln-config-compl-integrations.md)
 
 </td></tr><tr><td>
 
-[Use the Vulnerability Response Workspaces ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](../../vulnerability-response/concept/vr-wkspace-overview-v16.md)
+[Use the Vulnerability Response Workspaces ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](../../vulnerability-response/concept/vr-wkspace-overview-v16.md)
 
 </td><td>
 
-[Remediate ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Learn how to remediate your non-compliant assets with Configuration Compliance](../concept/vuln-config-compl-remediation.md)
+[Remediate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Learn how to remediate your non-compliant assets with Configuration Compliance](../concept/vuln-config-compl-remediation.md)
 
 </td><td>
 
-[Analytics &amp; Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) View reports and dashboards in Configuration Compliance](../concept/cc-pa-cc.md)
+[Analytics &amp; Reports ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-infographic.svg) View reports and dashboards in Configuration Compliance](../concept/cc-pa-cc.md)
 
 </td></tr><tr><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Configuration Compliance components like fields, tables, and properties](cc-reference-info.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Configuration Compliance components like fields, tables, and properties](cc-reference-info.md)
 
 </td><td>
 
-[Upgrade Configuration Compliance to USEM ![](../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Configuration Compliance applications to Unified Security Exposure Management.](../../vulnerability-response/concept/migrating-to-usem.md)
+[Upgrade Configuration Compliance to USEM ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/icons/brand-icons/bus-switch.svg) Upgrade Configuration Compliance applications to Unified Security Exposure Management.](../../vulnerability-response/concept/migrating-to-usem.md)
 
 </td><td>
 

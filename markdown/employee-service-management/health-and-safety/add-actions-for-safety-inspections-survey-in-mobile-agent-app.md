@@ -20,7 +20,7 @@ Learn how to use the Mobile Agent app to create actions for an inspection survey
 Verify the following conditions:
 
 -   The system properties for the offline mode behavior of the mobile application are configured. For more information, see [Configure offline mode behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-offline-mode.md).
--   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for Mobile Agent](../concept/hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
+-   The offline mode for the Mobile Agent app on your mobile device is turned on. For more information, see [Offline mode for Mobile Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-health-safety-mobile.md#section_hs_mobile_offline_mode).
 -   The **glide.sg.offline.scheduled\_download.enabled** system property for scheduled offline caching is set. If the property is not set, manually update cache before you go offline. To update cache, navigate to **Settings** and tap **Update Cache**. This ensures that the survey is downloaded and it's ready for you to complete.
 
 Role required: sn\_hs\_rm.safety\_inspection\_agent
@@ -31,7 +31,7 @@ Surveys completed offline are synchronized once an internet connection is establ
 
 For more information on how offline mode works in the mobile app, see [Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md).
 
-For more information on how an admin configures which survey field type should display the **Create action** check box, see [Configure the create action check box for safety inspection survey in the Mobile Agent app](hs-configure-create-action-checkbox-mobile-survey.md).
+For more information on how an admin configures which survey field type should display the **Create action** check box, see [Configure the create action check box for safety inspection survey in the Mobile Agent app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-create-action-checkbox-mobile-survey.md).
 
 ## Procedure
 
@@ -83,7 +83,7 @@ Tap **My Assessments and Surveys**.All surveys that were downloaded before you w
 
 ## Result
 
-The action created appears in the **Actions** tab of the inspection record and can be edited or deleted by using the More actions \(![more actions icon](../../legal-request-management/image/more-button-icon.png)\) icon.
+The action created appears in the **Actions** tab of the inspection record and can be edited or deleted by using the More actions \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../legal-request-management/image/more-button-icon.png)\) icon.
 
-**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](../concept/hs-configure-manage-safety-inspections-audits-mobile.md)
+**Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-configure-manage-safety-inspections-audits-mobile.md)
 

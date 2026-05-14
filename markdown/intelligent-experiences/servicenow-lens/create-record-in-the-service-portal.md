@@ -43,7 +43,7 @@ Role required: lens\_user
 
 6.  On the onboarding journey widget, complete the onboarding and select **Got it**.
 
-    ![Onboarding journey widget with three pages to show you the highlights of the application.](../image/onboarding-widget-lens.png)
+    ![Onboarding journey widget with three pages to show you the highlights of the application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/onboarding-widget-lens.png)
 
     If you launch the ServiceNow AI Lens for the first time, the onboarding journey widget appears. You can select **Don't show me again** to hide the widget the next time you launch ServiceNow AI Lens.
 
@@ -71,17 +71,17 @@ Steps
 
 </td><td>
 
-1.  \(Optional step\). To provide instructions to extract the data from the document in a specific way, select the Edit icon \(![Capture instructions icon.](../image/lens-instructions-icon.png)\) and enter instructions to analyze.
+1.  \(Optional step\). To provide instructions to extract the data from the document in a specific way, select the Edit icon \(![Capture instructions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-instructions-icon.png)\) and enter instructions to analyze.
 
 The default character limit is 500. Users with the admin role can increase this limit to up to 5000 characters by navigating to the `sn_lens_user_prompt_max_length` system property.
 
-![Enter specific instructions.](../image/lens-vendor-form-capture.png "Enter specific instructions")
+![Enter specific instructions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-vendor-form-capture.png "Enter specific instructions")
 
 2.  Select **Analyze**.
 
 ServiceNow AI Lens confirms that the catalog item form is filled.
 
-![New vendor registration form filled.](../image/lens-new-vendor-reg-form-filled.png "New Vendor Registration form fields auto-filled")
+![New vendor registration form filled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-new-vendor-reg-form-filled.png "New Vendor Registration form fields auto-filled")
 
 </td></tr><tr><td id="d56223e254">
 
@@ -89,50 +89,50 @@ ServiceNow AI Lens confirms that the catalog item form is filled.
 
 </td><td>
 
-1.  Select the Multi-capture icon \(![Multi-capture icon.](../image/lens-multi-capture-icon.png)\), and then place the scanner window over the document that you want to scan.
+1.  Select the Multi-capture icon \(![Multi-capture icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-multi-capture-icon.png)\), and then place the scanner window over the document that you want to scan.
 
 You can resize the scanner window by dragging its borders.
 
-2.  \(Optional step\). To provide instructions to extract the data from the document in a specific way, select the Edit icon \(![Instructions icon.](../image/lens-instructions-icon.png)\), and enter the instructions.
+2.  \(Optional step\). To provide instructions to extract the data from the document in a specific way, select the Edit icon \(![Instructions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-instructions-icon.png)\), and enter the instructions.
 
-![Enter specific instructions.](../image/lens-vendor-form-capture.png "Enter specific instructions")
+![Enter specific instructions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-vendor-form-capture.png "Enter specific instructions")
 
 The default character limit is 500. Users with the admin role can increase this limit to up to 5000 characters by navigating to the `sn_lens_user_prompt_max_length` system property.
 
-3.  Select the Capture icon \(![Capture icon.](../image/capture-icon.png)\).
+3.  Select the Capture icon \(![Capture icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/capture-icon.png)\).
 
 The first screenshot is captured.
 
-4.  Place the ServiceNow AI Lensscannerwindow over the page of another or the same document and then select the Capture icon \(![Capture icon.](../image/capture-icon.png)\).
+4.  Place the ServiceNow AI Lensscannerwindow over the page of another or the same document and then select the Capture icon \(![Capture icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/capture-icon.png)\).
 
 The second screenshot is captured.
 
 Repeat the step to capture more screenshots, if required.
 
-![View the number of screenshots you've captured](../image/lens-venform-multi-capture.png "View the number of screenshots you've captured")
+![View the number of screenshots you've captured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-venform-multi-capture.png "View the number of screenshots you've captured")
 
 5.  \(Optional step\) To remove a screenshot that you had captured, select the Delete icon.
 
-![Remove captured screenshot](../image/lens-vendor-form-remove-scrnsht.png "Remove captured screenshot")
+![Remove captured screenshot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-vendor-form-remove-scrnsht.png "Remove captured screenshot")
 
-6.  To complete the capture, select the Done icon \(![Capture complete icon.](../image/lens-capture-done-icon.png)\).
+6.  To complete the capture, select the Done icon \(![Capture complete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-capture-done-icon.png)\).
 
 The ServiceNow AI Lens preview window displays the screenshots that you've captured.
 
-![Preview of multiple captured screenshots](../image/lens-vendor-form-multi-scrnshts-captured.png "Preview of multiple captured screenshots")
+![Preview of multiple captured screenshots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-vendor-form-multi-scrnshts-captured.png "Preview of multiple captured screenshots")
 
 7.  Select **Analyze**.
 
 The catalog item form is auto-filled.
 
-![New vendor registration form filled.](../image/lens-new-vendor-reg-form-filled.png "New Vendor Registration form fields auto-filled") ![Fields of New Vendor Registration field auto-filled with data from the artifact.]( "New Vendor Registration form fields auto-filled")
+![New vendor registration form filled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-new-vendor-reg-form-filled.png "New Vendor Registration form fields auto-filled") ![Fields of New Vendor Registration field auto-filled with data from the artifact.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/ "New Vendor Registration form fields auto-filled")
 
 </td></tr></tbody>
 </table>10. In the catalog item request form, confirm that the catalog item form fields are correctly filled.
 
-    The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon ![Service Portal AI Sparkle icon.](../image/lens-sp-sparkle-icon.png).
+    The fields that are auto-filled by Now Assist are highlighted with the Sparkle icon ![Service Portal AI Sparkle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../image/lens-sp-sparkle-icon.png).
 
-    Only the field types that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If the form doesn't have field types that are supported, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](../reference/field-types-supported.md).
+    Only the field types that are supported by ServiceNow AI Lens get auto-populated with the extracted data. If the form doesn't have field types that are supported, then ServiceNow AI Lens won’t update the record. For more information about the supported fields, see [Field types supported](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/../reference/field-types-supported.md).
 
 <table id="choicetable_g1q_l32_2hc"><thead><tr><th align="left" id="d56223e461">
 

@@ -34,5 +34,5 @@ Each record in the Industrial Standard table includes a reference to its corresp
 
 For example, to retrieve all versions of a standard that belong to the same published group, query the Industrial Standard table where the published\_standard field matches the ID of the desired published standard. This approach supports cross-version reporting and automation by linking multiple versions to a single published reference.
 
-**Parent Topic:**[Using Industrial Standards](using-industrial-standards.md)
+**Parent Topic:**[Using Industrial Standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-standards.md)
 

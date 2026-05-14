@@ -39,9 +39,9 @@ Use the Service Model Foundation framework to model the service organization str
 **Related topics**  
 
 
-[Configure Service Model Foundation](../task/configure-industry-data-model.md)
+[Configure Service Model Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-industry-data-model.md)
 
-[Service Model Foundation business locations](../reference/industry-data-model-locations.md)
+[Service Model Foundation business locations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/industry-data-model-locations.md)
 
-[Integration with Sales Customer Relationship Management](integration-with-sales-and-order-management.md)
+[Integration with Sales Customer Relationship Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/integration-with-sales-and-order-management.md)
 

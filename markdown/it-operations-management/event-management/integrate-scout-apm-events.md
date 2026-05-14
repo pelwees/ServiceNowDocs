@@ -96,5 +96,5 @@ Role required: evt\_mgmt\_admin
 
 You can view all notifications on your ServiceNow instance in the Events \[em\_event\] table with the data source as Scout APM.
 
-**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 

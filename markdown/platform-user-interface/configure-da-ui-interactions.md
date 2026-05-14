@@ -18,7 +18,7 @@ Trigger a UI interaction from a declarative action to extend a page without taki
 Complete the following actions:
 
 1.  Create a UI interaction in UI Builder. For instructions, see [Create a UI interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-ui-interaction-show-alert.md).
-2.  Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](../concept/creating-declarative-actions.md).
+2.  Create a declarative action and add the button to a workspace. For instructions, see [Creating declarative action buttons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/creating-declarative-actions.md).
 
 Role required:
 
@@ -58,7 +58,7 @@ For a detailed overview of UI interactions, see [UI interactions](https://raw.gi
 
     A new field named UI interaction appears.
 
-    ![UI interaction field](../image/da-ui-interaction-field.png)
+    ![UI interaction field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/da-ui-interaction-field.png)
 
 4.  In the UI interaction field, select a UI interaction.
 
@@ -70,7 +70,7 @@ For a detailed overview of UI interactions, see [UI interactions](https://raw.gi
 
     For example, a UI interaction to create a new record may require you to define an input for the table of the new record.
 
-    ![Configure inputs dialog box](../image/da-configure-inputs.png)
+    ![Configure inputs dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/da-configure-inputs.png)
 
 5.  To define a static value for an input, enter a specified value.
 
@@ -78,7 +78,7 @@ For a detailed overview of UI interactions, see [UI interactions](https://raw.gi
 
 6.  Define a dynamic value for an input.
 
-    1.  Select the data icon \(![data icon](../image/da-data-icon.png)\).
+    1.  Select the data icon \(![data icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/da-data-icon.png)\).
 
     2.  Enter a value encapsulated by double opening and closing braces.
 

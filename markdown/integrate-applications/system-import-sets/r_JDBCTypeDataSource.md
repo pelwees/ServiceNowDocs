@@ -62,7 +62,7 @@ The **Use integrated authentication** check box on the Data Source form determin
 
 **Important:** If integrated authentication is chosen, and you are integrating with Microsoft System Center Configuration Manager, the account running the MID Server service must have read rights on the SCCM database.
 
-![Data Source form](../image/JDBC_SQLServerIntegratedAuth.png "Data Source form")
+![Data Source form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/JDBC_SQLServerIntegratedAuth.png "Data Source form")
 
 **Note:** The **Last run database field** on the JDBC data source is case-sensitive for the SQL server.
 
@@ -90,7 +90,7 @@ Add a new choice list entry for the new database to the **Format** field in the 
 
 3.  In the Data Sources form, right-click the **Format** field label, and select **Show Choice List** from the pop-up menu.
 
-    ![JDBC source list](../image/jdbc-choice-list.png)
+    ![JDBC source list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/jdbc-choice-list.png)
 
 4.  Click **New** in the list of choices.
 
@@ -105,7 +105,7 @@ Add a new choice list entry for the new database to the **Format** field in the 
         **Note:** The driver package and class must be provided by the driver vendor. This information is often available in the vendor's documentation, such as for [MariaDB](https://mariadb.com/kb/en/mariadb/about-mariadb-connector-j/) or [Teradata](https://developer.teradata.com/doc/connectivity/jdbc/reference/current/faq.html).
 
     -   Dependent value: JDBC
-    ![JDBC choice list.](../image/edit-jdbc-choice-list.png)
+    ![JDBC choice list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/edit-jdbc-choice-list.png)
 
 6.  Click **Submit**.
 
@@ -172,7 +172,7 @@ Role required: agent\_admin
     -   Description: Short description of the JAR file and its purpose in the instance.
 4.  Click the paper clip icon in the banner and attach the JAR file to the record.
 
-    ![Attach a file](../image/JARFileSync.png)
+    ![Attach a file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/JARFileSync.png)
 
 5.  Click **Submit**.
 
@@ -197,7 +197,7 @@ Role required: import\_admin
 
 3.  Select the new data source from the choice list in the **Format** field.
 
-    ![JDBC Data Source](../image/JDBCDataSource.png)
+    ![JDBC Data Source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/JDBCDataSource.png)
 
 4.  [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) and add the **Connection URL** field.
 
@@ -205,7 +205,7 @@ Role required: import\_admin
 
     No other connection information is required.
 
-    ![JDBC Data Source](../image/CompleteJDBCDataSource.png)
+    ![JDBC Data Source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/CompleteJDBCDataSource.png)
 
 
 ## Create an import connection alias
@@ -300,7 +300,7 @@ Use integrated authentication
 
 </td><td>
 
-Selected to enable the JDBC connection to use the ID of the user configured for the Windows MID Server service for SQL Server authentication. For additional details, see [JDBC type data source](r_JDBCTypeDataSource.md#).
+Selected to enable the JDBC connection to use the ID of the user configured for the Windows MID Server service for SQL Server authentication. For additional details, see [JDBC type data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/r_JDBCTypeDataSource.md#).
 
 </td></tr><tr><td>
 

@@ -32,5 +32,5 @@ When an idea is created in the Idea Portal, it must be associated with at least 
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Configuring Innovation Management](../concept/configuring-innovation-management.md)
+**Parent Topic:**[Configuring Innovation Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/../concept/configuring-innovation-management.md)
 

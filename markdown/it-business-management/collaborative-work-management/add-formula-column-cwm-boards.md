@@ -18,7 +18,7 @@ Gain deeper insights into your work by adding formula columns to your List view 
 
 ## Before you begin
 
-[Create a Board in CWM](create-boards-in-cwm.md).
+[Create a Board in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -28,7 +28,7 @@ You need to have either Editor or Owner access to the Space to add a custom colu
 
 Formula columns in the List view of a CWM Board compute values from existing CWM columns. Examples include calculating date differences from existing Date columns or deriving metrics such as Profit from existing values of Revenue and Cost columns.
 
-Use the built-in Math, String, Date &amp; Time, and Logical functions in the Formula Builder side panel to define a formula expression. To automatically generate a formula from a plain language description using Now Assist instead, see [Generate a formula using Now Assist for CWM](../../now-assist-cwm/task/generate-formula-cwm-board-now-assist.md).
+Use the built-in Math, String, Date &amp; Time, and Logical functions in the Formula Builder side panel to define a formula expression. To automatically generate a formula from a plain language description using Now Assist instead, see [Generate a formula using Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/task/generate-formula-cwm-board-now-assist.md).
 
 The steps in this procedure use the example of a formula column that calculates the number of days remaining until a task's due date. Follow the steps as guidelines to build a formula of your choice.
 
@@ -40,11 +40,11 @@ The steps in this procedure use the example of a formula column that calculates 
 
 3.  In the List view of the Board, select **Add column** from the column header and select **Formula**.
 
-    ![Add column menu in the List view of a CWM Board, with the Formula option selected.](../images/cwm-formula-column.png)
+    ![Add column menu in the List view of a CWM Board, with the Formula option selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-formula-column.png)
 
 4.  Provide a name for your formula column.
 
-    In this example, the column is named **Days until due**.![Formula column name field with "Days until due" entered as the column name.](../images/cwm-formula-column-name.png)
+    In this example, the column is named **Days until due**.![Formula column name field with "Days until due" entered as the column name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-formula-column-name.png)
 
 5.  In the Define Formula side panel, use the Math, String, Date &amp; Time, and Logical functions to build your formula.
 
@@ -52,7 +52,7 @@ The steps in this procedure use the example of a formula column that calculates 
 
     **DATEDIF\(TODAY\(\),"Due Date","D"\)**
 
-    ![Define Formula side panel showing the DATEDIF(TODAY(),"Due Date","D") formula entered to calculate days remaining until the due date.](../images/cwm-formula-definition.png)
+    ![Define Formula side panel showing the DATEDIF(TODAY(),"Due Date","D") formula entered to calculate days remaining until the due date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-formula-definition.png)
 
 6.  Select **Set Formula** to save and apply the formula column.
 
@@ -62,14 +62,14 @@ The steps in this procedure use the example of a formula column that calculates 
 -   The Board refreshes to display the new formula column, and its values populated per the formula you defined.
 -   If your formula contains any syntax errors, you are notified of the same and then you can review it and correct it.
 
-![CWM Board List view displaying the new formula column with computed values populated for each task.](../images/cwm-formula-on-board.png)
+![CWM Board List view displaying the new formula column with computed values populated for each task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-formula-on-board.png)
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-boards.md)
 
 **Related topics**  
 
 
-[Add custom columns for tasks in a CWM Board](add-custom-columns-for-tasks-in-board.md)
+[Add custom columns for tasks in a CWM Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-custom-columns-for-tasks-in-board.md)
 
-[Generate a formula using Now Assist for CWM](../../now-assist-cwm/task/generate-formula-cwm-board-now-assist.md)
+[Generate a formula using Now Assist for CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../../now-assist-cwm/task/generate-formula-cwm-board-now-assist.md)
 

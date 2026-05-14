@@ -68,7 +68,7 @@ The activity state tells the workflow engine what to do with the activity.
 
 ## Example
 
-![Sample workflow that uses the Generate activity](../image/GenerateWorkflow.png "Generate workflow")
+![Sample workflow that uses the Generate activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../image/GenerateWorkflow.png "Generate workflow")
 
 In this example, the following approvals are generated:
 

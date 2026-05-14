@@ -17,7 +17,7 @@ Create a chat assistant on your instance. Add basic details and set your assista
 
 ## Before you begin
 
-See [View assistants](view-assistants.md).
+See [View assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/view-assistants.md).
 
 When configuring a chat assistant, notes throughout the procedures show where there are variations between the setup for Now Assist in Virtual Agent assistants and the setup for Now Assist panel \(Platform and Developer\) assistants.
 
@@ -29,7 +29,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-Set up basic details for your assistant and set it as a primary assistant. Primary assistants can be linked to secondary assistants. For general information about primary and secondary assistants, see [LLM assistants](../concept/llm-assistants.md).
+Set up basic details for your assistant and set it as a primary assistant. Primary assistants can be linked to secondary assistants. For general information about primary and secondary assistants, see [LLM assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../concept/llm-assistants.md).
 
 ## Procedure
 
@@ -39,7 +39,7 @@ Set up basic details for your assistant and set it as a primary assistant. Prima
 
     **Note:** The **Name** and **Description** fields for Now Assist panel assistants can't be modified.
 
-    ![Provide a name and description for your assistant.](../image/NAinVA-chat-details-122025.png "Add assistant details")
+    ![Provide a name and description for your assistant.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-chat-details-122025.png "Add assistant details")
 
 2.  Select the **Set as a primary assistant** check box if you want to make the assistant a primary assistant to which you can add secondary assistants.
 
@@ -58,5 +58,5 @@ Set up basic details for your assistant and set it as a primary assistant. Prima
 
 ## What to do next
 
-See [Use agentic support for a chat assistant](use-agentic-support.md).
+See [Use agentic support for a chat assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/use-agentic-support.md).
 

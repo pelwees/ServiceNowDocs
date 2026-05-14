@@ -35,7 +35,7 @@ The job logs may include errors that aren't about the indicator sources. You mus
 
 1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Sources** &gt; **Indicator Sources**.
 
-2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](../image/show-hide-filter-icon.png)\) icon and add the following filters.
+2.  Apply a filter by selecting the Show/hide filter \(![Show/hide filter icon in the table header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/show-hide-filter-icon.png)\) icon and add the following filters.
 
     -   `[Application] [is] [Operational Technology Manager]`
     -   `[Facts table] [is] [cmdb_ci]`
@@ -59,5 +59,5 @@ The job logs may include errors that aren't about the indicator sources. You mus
 6.  Select **Update**.
 
 
-**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](../concept/setting-up-the-ot-devices-dashboard.md)
+**Parent Topic:**[Setting up the Operational Technology Visibility dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/setting-up-the-ot-devices-dashboard.md)
 

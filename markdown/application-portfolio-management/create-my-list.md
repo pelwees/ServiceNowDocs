@@ -21,13 +21,13 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/portfolio-icon.png).
 
 3.  Select **My Lists**.
 
 4.  Select **Add New list**.
 
-    ![Create my list from the Portfolio page](../image/eaw-image/modeling/eaw-portfolio-create-my-list.png)
+    ![Create my list from the Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/eaw-image/modeling/eaw-portfolio-create-my-list.png)
 
 5.  Create a new list that is either from an existing list or is new.
 
@@ -75,7 +75,7 @@ Add Filters
 
 </td><td>
 
-Add conditions to narrow which records appear in the list. The selected list’s existing conditions are shown by default. For details, see [Filter conditions](../reference/eaw-reference/eaw-filter-conditions-reference.md).
+Add conditions to narrow which records appear in the list. The selected list’s existing conditions are shown by default. For details, see [Filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../reference/eaw-reference/eaw-filter-conditions-reference.md).
 
 </td></tr></tbody>
 </table>    -   If you are creating a list from nothing, then select **Create your own** and fill in the fields on the form.
@@ -85,7 +85,7 @@ Add conditions to narrow which records appear in the list. The selected list’s
         |List Name|Enter a name for your list as it appears under **My Lists**.|
         |Select Source|Select the table that provides the records for this list.|
         |Select columns|Choose which fields appear as columns. By default, columns are displayed from an existing workspace list view \(if available\). Otherwise, columns are displayed from the table’s default list view.|
-        |Add filters|Add conditions to narrow which records appear in the list. For details, see [Filter conditions](../reference/eaw-reference/eaw-filter-conditions-reference.md).|
+        |Add filters|Add conditions to narrow which records appear in the list. For details, see [Filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../reference/eaw-reference/eaw-filter-conditions-reference.md).|
 
 6.  Select **Create**.
 
@@ -94,5 +94,5 @@ Add conditions to narrow which records appear in the list. The selected list’s
 
 The list appears in the **My Lists** tab.
 
-**Parent Topic:**[Working with Portfolio list view](../concept/eaw-concept/eaw-work-with-portfolio-list-view.md)
+**Parent Topic:**[Working with Portfolio list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/eaw-concept/eaw-work-with-portfolio-list-view.md)
 

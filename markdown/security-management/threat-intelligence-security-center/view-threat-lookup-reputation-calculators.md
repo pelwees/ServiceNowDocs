@@ -19,7 +19,7 @@ You can view the Threat Lookup Finding Calculator to calculate the observable fi
 
 Role required: sn\_sec\_tisc.admin
 
-To learn more about the Threat Lookup Reputation Calculators, see [Managing the Threat Lookup Reputation Calculator](../concept/manage-threat-lookup-reputation-calculator.md).
+To learn more about the Threat Lookup Reputation Calculators, see [Managing the Threat Lookup Reputation Calculator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/manage-threat-lookup-reputation-calculator.md).
 
 ## Procedure
 
@@ -31,22 +31,22 @@ To learn more about the Threat Lookup Reputation Calculators, see [Managing the 
 
 3.  Click on the required Threat Lookup Reputation Calculator to view the details of the calculator.
 
-    ![View Threat Lookup Reputation Calculators](../image/enrich-view-threat-calculator.png)
+    ![View Threat Lookup Reputation Calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-view-threat-calculator.png)
 
 4.  You can also perform the following actions on the Threat Lookup Reputation Calculator section:
 
-    1.  To refresh the list of Threat Lookup Reputation Calculators, click the ![Refresh option](../image/enrich-refresh-icon.png) icon.
+    1.  To refresh the list of Threat Lookup Reputation Calculators, click the ![Refresh option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-refresh-icon.png) icon.
 
-    2.  To perform a list action on the Threat Lookup Reputation Calculators, click the ![List actions](../image/enrich-list-actions.png) icon.
+    2.  To perform a list action on the Threat Lookup Reputation Calculators, click the ![List actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-list-actions.png) icon.
 
         You can perform the following two list actions:
 
         -   **Edit columns**: You can use this action to add or remove existing columns and modify the order according to your requirements.
         -   **Reset widths**: You can use this action to reset the widths of the columns.
-    3.  To filter Threat Lookup Reputation Calculators based on conditions, click the ![Filter panel](../image/enrich-filter.png) icon.
+    3.  To filter Threat Lookup Reputation Calculators based on conditions, click the ![Filter panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-filter.png) icon.
 
         The value 1 indicates that one condition is used for the filtering.
 
 
-**Parent Topic:**[Configure Threat Lookup](configure-threat-lookup.md)
+**Parent Topic:**[Configure Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-threat-lookup.md)
 

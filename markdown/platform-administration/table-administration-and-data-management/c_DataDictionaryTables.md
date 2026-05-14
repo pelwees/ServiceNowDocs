@@ -31,7 +31,7 @@ Access the Tables \[sys\_db\_object\] table by navigating to **System Definition
 
 The following image shows a list of the tables that extend the Application File table.
 
-![A list of tables that extend the Application File table.](../image/Tables2.png "Tables")
+![A list of tables that extend the Application File table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/Tables2.png "Tables")
 
 ## Dictionary Entries
 
@@ -44,7 +44,7 @@ Access the system dictionary in one of these ways:
 
 The following image shows a filtered list of dictionary entries for the Incident table and the Task table, which it extends.
 
-![A filtered list of dictionary entries for the Incident table and the Task table.](../image/DictionaryIncTask2.png "Dictionary Inc Task")
+![A filtered list of dictionary entries for the Incident table and the Task table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/DictionaryIncTask2.png "Dictionary Inc Task")
 
 ## Field Labels
 
@@ -57,7 +57,7 @@ Access the language file in one of these ways:
 
 The following image shows the language file filtered to display only labels on the Incident table.
 
-![A list showing field labels on the Incident table.](../image/Fieldlabels2.png "Field Labels")
+![A list showing field labels on the Incident table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../image/Fieldlabels2.png "Field Labels")
 
-**Parent Topic:**[Exploring ServiceNow AI Platform tables](../../table-administration/concept/exploring-table-administration.md)
+**Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../table-administration/concept/exploring-table-administration.md)
 

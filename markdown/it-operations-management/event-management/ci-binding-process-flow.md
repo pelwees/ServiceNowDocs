@@ -17,7 +17,7 @@ Learn the process of binding Configuration Items \(CIs\) to alerts. This include
 
 ## CI binding to alerts: Flow diagram
 
-![How alerts bind to CIs](../image/EMEventBinding.png)
+![How alerts bind to CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EMEventBinding.png)
 
 ## Process of linking CIs to alerts
 

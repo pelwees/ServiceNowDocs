@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance alert grouping by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](../reference/cmdb-alert-group-properties.md).
+Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled** property to further enhance alert grouping by using suggested relationships. For more information on properties, see [CMDB alert grouping — properties and functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/cmdb-alert-group-properties.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Configure the **sa\_analytics.agg.query\_cmdb\_suggested\_relationship\_enabled*
 
     1.  Click **New**.
 
-        ![Form to create a new CMDB Group CI Relation.](../image/cmdb-ci-relationship.png)
+        ![Form to create a new CMDB Group CI Relation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/cmdb-ci-relationship.png)
 
     2.  Complete the form.
 

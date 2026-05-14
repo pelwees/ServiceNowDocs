@@ -41,7 +41,7 @@ Microsoft AD Credential Store
 
 </td><td>
 
-Represents a Microsoft Active Directory credential store. See [Set up Microsoft Active Directory for Password Reset](setup-guide-ad.md#).
+Represents a Microsoft Active Directory credential store. See [Set up Microsoft Active Directory for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/setup-guide-ad.md#).
 
 </td></tr><tr><td>
 
@@ -72,47 +72,47 @@ Represents a Google Directory credential store.
 
 A credential store type workflow requires a subflow that defines how to connect to the store, and can include an optional subflow that defines how to test the connection. Use the **Pwd reset – AD** and **Pwd Reset - Local** subflows as models for your custom connection workflows.
 
-![Pwd Reset Local sub workflow](../image/PwdResetLocalServiceNowSubWorkflow.png "Pwd Reset Local sub workflow")
+![Pwd Reset Local sub workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/PwdResetLocalServiceNowSubWorkflow.png "Pwd Reset Local sub workflow")
 
-![Pwd connection test local SN sub workflow](../image/PwdConnectionTestLocalSNSubWorkflow.png "Pwd connection test local SN sub workflow")
+![Pwd connection test local SN sub workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/PwdConnectionTestLocalSNSubWorkflow.png "Pwd connection test local SN sub workflow")
 
 ## Creating a custom credential store type
 
-You can use a credential store type as a model to create a custom type. See [Create a credential store type for Password Reset](../task/t_CreateACredentialStoreType.md).
+You can use a credential store type as a model to create a custom type. See [Create a credential store type for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateACredentialStoreType.md).
 
--   **[Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md)**  
+-   **[Configure the connection to a credential store for the Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateACredentialStore.md)**  
 You create a Password Reset credential store record to configure access to your credential store server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see, restrictions on password reuse, the allowed number of failed reset attempts, and other settings.
--   **[Credentials Store for Password Reset for Active Directory](credentials-store-AD.md)**  
+-   **[Credentials Store for Password Reset for Active Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/credentials-store-AD.md)**  
 A credential store type is a set of workflows that specify how to connect to a credential store. You can connect to **Password Reset** **Credential Stores** to view the list of example credential stores that are based on the base-system types.
--   **[Credential Store for Password Reset for Microsoft Entra ID](credentials-store-micro-ad.md)**  
+-   **[Credential Store for Password Reset for Microsoft Entra ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/credentials-store-micro-ad.md)**  
 A credential store type is the set of flows to manage password and account of Microsoft Entra ID user. Navigate to **Password Reset** &gt; **Credential Stores** to view the list of example credential stores that are based on the base-system types.
--   **[Test the connection to a credential store](../task/test-cxn-to-credential-store.md)**  
+-   **[Test the connection to a credential store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/test-cxn-to-credential-store.md)**  
 You should test the connection to a credential store after you configure a new credential store or when users experience problems that might involve the connection.
--   **[Delete a connection to a credential store for Password Reset](../task/t_DeleteACredentialStore.md)**  
+-   **[Delete a connection to a credential store for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_DeleteACredentialStore.md)**  
 Important: Before you delete the connection to a credential store, check all Password Reset processes to ensure that the credential store is not in use. If the credential store is being used by a process, update the process before deleting the credential store.
 
-**Parent Topic:**[Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../reference/pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/password-reset-expiration-setup.md)
 
-[Password Reset verifications](c_PWRVerifications.md)
+[Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](../../security/task/configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-auto-enroll-for-pwd-reset.md)
 
-[Enable users to enroll for Password Reset](../../security/task/configure-user-enroll-for-pwd-reset.md)
+[Enable users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/configure-user-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](../../security/task/t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../security/task/t_LockoutForFailedLogins.md)
 
-[Configure Google reCAPTCHA for the password reset process](../task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_ConfigureGoogleRecaptcha.md)
 

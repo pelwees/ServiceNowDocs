@@ -64,14 +64,14 @@ The file picker provides a unified view of documents across multiple sources and
     Upload a document directly from your device. Browse your file system, select the file you want to attach, and upload it to the record.
 
 
--   **[Add documents in Workspace](../task/attach-document-workspace.md)**  
+-   **[Add documents in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/attach-document-workspace.md)**  
 Use the file picker to add documents from the documents repository, external cloud storage providers, or your local desktop to records.
--   **[Manage document files and folders in Workspace](../task/manage-folders-documents-workspace.md)**  
+-   **[Manage document files and folders in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/manage-folders-documents-workspace.md)**  
 Manage folders and documents from the Documents component to download, rename, manage permissions, track versions, add reviewers and approvers directly in the record within the workspace.
--   **[Manage document versions in external cloud](../task/manage-documents-external-cloud.md)**  
+-   **[Manage document versions in external cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/manage-documents-external-cloud.md)**  
 Manage document versions from external cloud directly in the record within the workspace.
--   **[Send a document version for approval](../task/send-document-approval.md)**  
+-   **[Send a document version for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../task/send-document-approval.md)**  
 Add a single or multiple reviewers and approvers for the document approval and review.
 
-**Parent Topic:**[Using Document Management](using-document-management.md)
+**Parent Topic:**[Using Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/using-document-management.md)
 

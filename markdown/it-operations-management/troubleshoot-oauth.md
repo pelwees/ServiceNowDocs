@@ -25,5 +25,5 @@ Your OAuth provider and server have different refresh time periods. Refresh time
 
 Refer to your OAuth provider's documentation when configuring OAuth. See [OAuth Inbound and Outbound authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-inbound-and-outbound.md) for more information.
 
-**Parent Topic:**[Troubleshoot synthetic monitors](troubleshoot-synthetic-monitors.md)
+**Parent Topic:**[Troubleshoot synthetic monitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-synthetic-monitors.md)
 

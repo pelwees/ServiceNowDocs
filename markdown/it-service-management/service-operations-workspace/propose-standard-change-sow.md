@@ -27,7 +27,7 @@ As an IT technician, you can propose a standard change template for a change req
 
 1.  Create a new change request to open the standard change catalog.
 
-2.  From the **More Actions** icon \(![More actions icon](../../itsm-workspace/image/vertical-more-action.png)\), select **Propose a new template**.
+2.  From the **More Actions** icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/vertical-more-action.png)\), select **Propose a new template**.
 
 3.  Fill the fields of the Standard Change Proposal form.
 
@@ -42,5 +42,5 @@ As an IT technician, you can propose a standard change template for a change req
 
 The proposal for a new standard change template is created with the status **In Progress**.
 
-**Parent Topic:**[Standard change catalog](../concept/standard-change-catalog-sow.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 

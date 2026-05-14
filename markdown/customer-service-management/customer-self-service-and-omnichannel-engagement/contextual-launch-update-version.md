@@ -25,7 +25,7 @@ Role required: Website administrator
 
 2.  Change the existing version number to `v=3.1`.
 
-    For example:![Engagement Messenger with the version number highlighted in the Embed code.](../image/em-version-no-update.png)
+    For example:![Engagement Messenger with the version number highlighted in the Embed code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/em-version-no-update.png)
 
 3.  Save the file.
 

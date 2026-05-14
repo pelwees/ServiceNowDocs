@@ -25,7 +25,7 @@ Role required: admin
 
 2.  From the UX Applications list, select **Service Operations Workspace**.
 
-3.  For the Admin Panel field, select the ![Preview this record](../../software-asset-management2/image/preview-icon.png) icon.
+3.  For the Admin Panel field, select the ![Preview this record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../software-asset-management2/image/preview-icon.png) icon.
 
 4.  Select **Open Record**.
 
@@ -34,12 +34,12 @@ Role required: admin
     To redirect the user to the Service Operations Workspace home page, enter the value **home**. To redirect the user to the Service Operations Workspace list page, enter the value **list**.
 
 
-**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](../concept/customize-sow-landing-page.md)
+**Parent Topic:**[Customizing Service Operations Workspace for ITSM to align with your requirements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/customize-sow-landing-page.md)
 
 **Related topics**  
 
 
-[Create a copy of the Service Operations Workspace landing page](create-copy-sow-landing-page.md)
+[Create a copy of the Service Operations Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-copy-sow-landing-page.md)
 
-[Customize the incident record page](../concept/customize-the-incident-record-page.md#)
+[Customize the incident record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/customize-the-incident-record-page.md#)
 

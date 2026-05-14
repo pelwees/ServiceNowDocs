@@ -35,7 +35,7 @@ The following items are installed with Field Service Quality Management:
 -   Substates
 -   Roles
 
-For more information, see [Field Service Quality Management components](../reference/quality-mgmt-components.md).
+For more information, see [Field Service Quality Management components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/quality-mgmt-components.md).
 
 ## Procedure
 
@@ -55,11 +55,11 @@ For more information, see [Field Service Quality Management components](../refer
 **Related topics**  
 
 
-[Field Service Quality Management](../concept/quality-management-fsm.md)
+[Field Service Quality Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/quality-management-fsm.md)
 
-[Review a task](review-send-task-back.md)
+[Review a task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/review-send-task-back.md)
 
-[Respond to a reviewed work order task](../concept/close-wo-wot-mobile.md#)
+[Respond to a reviewed work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../concept/close-wo-wot-mobile.md#)
 
-[Field Service Quality Management components](../reference/quality-mgmt-components.md)
+[Field Service Quality Management components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/quality-mgmt-components.md)
 

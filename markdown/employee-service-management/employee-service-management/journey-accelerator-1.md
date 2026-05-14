@@ -18,27 +18,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="jrny-acclrtr-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees, managers, and mentors use Journey Accelerator.](exploring-jny-accelerator.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn how employees, managers, and mentors use Journey Accelerator.](exploring-jny-accelerator.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/install-journey-accelerator.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/install-journey-accelerator.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Journey Accelerator capabilities by integrating with other applications.](ja-integrations.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend Journey Accelerator capabilities by integrating with other applications.](ja-integrations.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work with journeys.](working-with-journey-accelerator-plans.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Work with journeys.](working-with-journey-accelerator-plans.md)
 
 </td><td>
 
-[Analytics and Reporting Solutions ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg) Improve process and track the progress of different journeys.](../task/monitor-journey-accelerator-plans.md)
+[Analytics and Reporting Solutions ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-performance-forecasting-1.svg) Improve process and track the progress of different journeys.](../task/monitor-journey-accelerator-plans.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-documentation.svg) Get details about components like roles, fields, tables, and properties.](../reference/components-installed-with-journey-accelerator.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-documentation.svg) Get details about components like roles, fields, tables, and properties.](../reference/components-installed-with-journey-accelerator.md)
 
 </td></tr></tbody>
 </table>## Additional resources

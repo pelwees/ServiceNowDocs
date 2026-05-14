@@ -22,7 +22,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 Prompt injection attacks are a type of cybersecurity attack where someone tries to override the initial instructions of an LLM to cause unintended behaviors. Now Assist Guardian detects prompt injection attempts before they reach the model and either logs them or blocks the response, depending on your configuration. You can also configure the prompt injection detection guardrail to block the AI-generated response when an attack is detected in addition to logging it.
 
-You can export logs for review. For more information, see [Export Now Assist Guardian logs](export-now-assist-guardian-logs.md).
+You can export logs for review. For more information, see [Export Now Assist Guardian logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/export-now-assist-guardian-logs.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ You can export logs for review. For more information, see [Export Now Assist Gua
 
 3.  Select the **Prompt Injection** toggle to activate prompt injection detection.
 
-    ![Prompt Injection guardrail settings with the "Log the output" action and "Low" severity level selected.](../image/na-guardian-prompt-injection.png)
+    ![Prompt Injection guardrail settings with the "Log the output" action and "Low" severity level selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/na-guardian-prompt-injection.png)
 
 4.  In the **Choose an action when prompt injection is detected** section, select one of the following options to handle the detected attacks:
 
@@ -50,5 +50,5 @@ You can export logs for review. For more information, see [Export Now Assist Gua
 
 Prompt injection detection is configured on your instance for all generative AI workflows. Now Assist Guardian detects prompt injection attempts based on the severity level you selected and responds according to the action you configured.
 
-**Parent Topic:**[Now Assist Guardian](../../now-assist-platform/concept/now-assist-guardian.md)
+**Parent Topic:**[Now Assist Guardian](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-assist-platform/concept/now-assist-guardian.md)
 

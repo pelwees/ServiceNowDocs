@@ -22,10 +22,10 @@ Discovery identifies and classifies information about IP addresses.
 |Netmask|cmdb\_ci\_ip\_address|netmask|Various internal|
 |Nic|cmdb\_ci\_ip\_address|nic|Various internal|
 
-**Parent Topic:**[Network device discovery](../concept/c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_NetworkDevices.md)
 
 **Related topics**  
 
 
-[Discovery IP address configuration](discovery-ip-address-configuration.md#)
+[Discovery IP address configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/discovery-ip-address-configuration.md#)
 

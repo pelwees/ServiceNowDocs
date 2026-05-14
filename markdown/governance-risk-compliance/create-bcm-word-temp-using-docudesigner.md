@@ -19,9 +19,9 @@ Role required: sn\_bcm.admin, sn\_bcm.manager
 
 ## About this task
 
-Install and activate the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) plugin. For more information, see [Install Document designer with Microsoft Word](install-document-designer-with-word-plugin.md).
+Install and activate the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) plugin. For more information, see [Install Document designer with Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/install-document-designer-with-word-plugin.md).
 
-Confirm that you have the templates configured. For more information, see [Set up the template configurations](set-up-document-designer-templates.md).
+Confirm that you have the templates configured. For more information, see [Set up the template configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-document-designer-templates.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ Confirm that you have the templates configured. For more information, see [Set u
 
     On the Document designer pane, the Design template is displayed.
 
-    ![Design template TOC.](../image/design-template.png)
+    ![Design template TOC.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/design-template.png)
 
 5.  On the Document designer pane, fill in the fields.
 

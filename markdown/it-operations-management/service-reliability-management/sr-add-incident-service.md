@@ -27,7 +27,7 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
-2.  From the primary navigation, select **Reliability tasks** \(![Reliability tasks icon](../image/icon-sr-reliability-tasks.png)\).
+2.  From the primary navigation, select **Reliability tasks** \(![Reliability tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-reliability-tasks.png)\).
 
 3.  You have two options.
 
@@ -56,10 +56,10 @@ Double-click the **Service** field for the incident and replace the team member 
 Select a new **Service** value from the list menu.Select **Save**.
 
 </td></tr></tbody>
-</table>    For value choices see [SRM incidents](../reference/sr-incidents-workspace.md).
+</table>    For value choices see [SRM incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/sr-incidents-workspace.md).
 
     The new service is displayed in the incident list view and incident form.
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-work-incidents.md)
 

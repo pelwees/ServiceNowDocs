@@ -31,7 +31,7 @@ Role required: admin.
 
     The length of the migration process depends on the number of new artifacts that you have on your instance.
 
-    ![Window that indicates how many dashboards and reports will be migrated and estimate of how long the process takes.](../image/data-migration-confirmation.png)
+    ![Window that indicates how many dashboards and reports will be migrated and estimate of how long the process takes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-confirmation.png)
 
 3.  Select **Prevent users from creating Core UI analytics during migration**.
 
@@ -42,5 +42,5 @@ The changed and new content is migrated to Platform Analytics experience.
 
 ## What to do next
 
-Evaluate the newly migrated content. For more information, see [Evaluate full data migration](data-migration-evaluate.md).
+Evaluate the newly migrated content. For more information, see [Evaluate full data migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-evaluate.md).
 

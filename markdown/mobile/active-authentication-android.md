@@ -69,9 +69,9 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon](../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**.
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(![Globe icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/globe-icon.png)\) on the instance banner. Then select **Application scope:_application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [Mobile properties](../concept/mobile-properties.md).
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -147,5 +147,5 @@ Enter either `Agent`, `Request`, or the name of a custom app type created by use
 8.  Select **Submit**.
 
 
-**Parent Topic:**[Mobile properties](../concept/mobile-properties.md)
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-properties.md)
 

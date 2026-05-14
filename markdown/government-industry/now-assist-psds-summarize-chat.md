@@ -42,11 +42,11 @@ Role required: admin
 
 2.  In CSM Configurable Workspace, open a chat from your inbox.
 
-    The chat summarization skill automatically creates an inline summary in the Active Chat window. This summary includes the constituent’s issue, the interaction with the Virtual Agent, and any actions the constituent has taken before engaging with a live agent. This summary appears in the Active Chat window and is identified by the Now Assist icon \(![Now assist icon.](../../../common/image/icon-ai-sparkle.png)\) and the **AI chat summary** label.
+    The chat summarization skill automatically creates an inline summary in the Active Chat window. This summary includes the constituent’s issue, the interaction with the Virtual Agent, and any actions the constituent has taken before engaging with a live agent. This summary appears in the Active Chat window and is identified by the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../common/image/icon-ai-sparkle.png)\) and the **AI chat summary** label.
 
-    ![AI-generated chat summaries for an interaction.](../image/chat-handoff-na-psds.png)
+    ![AI-generated chat summaries for an interaction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/chat-handoff-na-psds.png)
 
-3.  Provide feedback for the chat summary by selecting the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\) or not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\) on the summary card.
+3.  Provide feedback for the chat summary by selecting the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-helpful.png)\) or not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-not-helpful.png)\) on the summary card.
 
     This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
@@ -60,7 +60,7 @@ Role required: admin
 
 6.  If Live Agent to Live Agent handoff is enabled, transfer a chat to another agent after accepting an incoming chat with the following steps:
 
-    1.  Select the Transfer to Agent icon ![Transfer to agent icon](../../../reuse/icons/product-icons/user-transfer-fill-24.svg)to transfer the interaction to another agent.
+    1.  Select the Transfer to Agent icon ![Transfer to agent icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/product-icons/user-transfer-fill-24.svg)to transfer the interaction to another agent.
 
     2.  Select the name of another live agent.
 

@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.jsa\_manager or sn\_hs\_rm.job\_safety\_analysis\_read
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **JSAs** list.
 
@@ -31,10 +31,10 @@ Role required: sn\_hs\_rm.jsa\_manager or sn\_hs\_rm.job\_safety\_analysis\_read
     -   For all JSAs, including both active and expired, select **All**.
 4.  In the list, select the record to view.
 
-5.  Research content related to the JSA by selecting the Agent assist icon \(![agent assist icon](../../../common/image/Form_AgentAssistIcon.png)\).
+5.  Research content related to the JSA by selecting the Agent assist icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../../common/image/Form_AgentAssistIcon.png)\).
 
     Agent assist searches the knowledge base using the text from the JSA's **Short description** field and shows relevant articles.
 
 
-**Parent Topic:**[Job safety analysis](../concept/hs-job-safety-analysis.md)
+**Parent Topic:**[Job safety analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-job-safety-analysis.md)
 

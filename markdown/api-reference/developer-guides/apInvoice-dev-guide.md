@@ -17,18 +17,18 @@ This developer guide describes how to define custom invoice fields that aren’t
 
 You can define custom invoice fields for the request body. Use the following flow to add custom fields, map them to target tables, and format them for availability in the payload:
 
-1.  [Add custom fields for invoice import](apInvoice-dev-guide.md#)
-2.  [Map custom fields between source and target tables](apInvoice-dev-guide.md#)
-3.  [Map custom fields to a payload source format](apInvoice-dev-guide.md#)
+1.  [Add custom fields for invoice import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#)
+2.  [Map custom fields between source and target tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#)
+3.  [Map custom fields to a payload source format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#)
 
-Define credentials for cXML payloads in the Source system credential \[sn\_spend\_intg\_source\_system\_credential\] table. For instructions, see [Setting credentials for authentication in the cXML payload](apInvoice-dev-guide.md#).
+Define credentials for cXML payloads in the Source system credential \[sn\_spend\_intg\_source\_system\_credential\] table. For instructions, see [Setting credentials for authentication in the cXML payload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#).
 
 You can apply a filter condition for invoice lines containing multiple ERPs. For information, see .
 
 See also:
 
 -   
--   [AP Invoice API](../../../inbound-rest/concept/ap-invoice-api.md#)
+-   [AP Invoice API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../inbound-rest/concept/ap-invoice-api.md#)
 
 ## Add custom fields for invoice import
 
@@ -64,7 +64,7 @@ Use the following procedure to add custom fields for invoices, invoice lines, an
 
     **Note:** For more information on columns and fields, see [Exploring field administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToFields.md).
 
-8.  [Map the fields between the source and target tables](apInvoice-dev-guide.md#).
+8.  [Map the fields between the source and target tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#).
 
 
 ## Map custom fields between source and target tables
@@ -76,7 +76,7 @@ Use the following procedure to map custom fields between source and target table
 -   Role required: admin
 -   Application scope: [Source-to-Pay Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integrations-landing.md)
 
-Create table columns for mapping the new field from the source table to the target table. Use the steps in [Add custom fields for invoice import](apInvoice-dev-guide.md#).
+Create table columns for mapping the new field from the source table to the target table. Use the steps in [Add custom fields for invoice import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#).
 
 ### Procedure
 
@@ -92,7 +92,7 @@ Create table columns for mapping the new field from the source table to the targ
 
 6.  Select **Save** or **Submit**.
 
-7.  [Map custom fields to a payload source format](apInvoice-dev-guide.md#).
+7.  [Map custom fields to a payload source format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#).
 
 
 ## Map custom fields to a payload source format
@@ -103,8 +103,8 @@ Use the following procedure to map custom fields to a payload entry in JSON, cXM
 
 -   Role required: admin
 -   Application scope: [Source-to-Pay Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integrations-landing.md)
--   [Add custom fields for invoice import](apInvoice-dev-guide.md#)
--   [Map custom fields between source and target tables](apInvoice-dev-guide.md#)
+-   [Add custom fields for invoice import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#)
+-   [Map custom fields between source and target tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/apInvoice-dev-guide.md#)
 
 ### Procedure
 
@@ -146,7 +146,7 @@ Role required: admin
 
 Identify the payload source system listed in the Invoice integration field mappings \[sn\_spend\_intg\_invoice\_intg\_field\_mapping\] table.
 
-See also [AP Invoice – POST sn\_spend\_intg/ap\_invoice/cxml](../../../inbound-rest/concept/ap-invoice-api.md#).
+See also [AP Invoice – POST sn\_spend\_intg/ap\_invoice/cxml](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../inbound-rest/concept/ap-invoice-api.md#).
 
 ### Procedure
 

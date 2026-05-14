@@ -32,13 +32,13 @@ The Employee Center portal empowers organizations to streamline service delivery
     There is no additional licensing cost associated with the Employee Center. All customers can use the Employee Center portal to start their employee portal journey with ServiceNow®.
 
 
-![Employee Center delivers an employee-centric portal that is easy to deploy and maintain](../images/employee-center-ex-overview.png)
+![Employee Center delivers an employee-centric portal that is easy to deploy and maintain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/employee-center-ex-overview.png)
 
 ## Employee Center workflow
 
 The Employee Center enables organizations to assemble an employee portal tailored to their needs. The following illustration provides an overview The following illustration provides an overview of how users interact with Employee Center.
 
-![Infographic showing the end-to-end workflow to configure the Employee Center](../images/ec-roles-workflow.png "Employee Center workflow")
+![Infographic showing the end-to-end workflow to configure the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ec-roles-workflow.png "Employee Center workflow")
 
 1.  System admin installs plugins and assigns roles.
 2.  Taxonomy admin configures the Unified taxonomy, dynamic topic pages, and quick links.
@@ -47,13 +47,13 @@ The Employee Center enables organizations to assemble an employee portal tailore
 
 ## Employee Center for IT Service Management
 
-Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine learning-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](../task/ITSM-EC/itsm-n-ec-integration.md#).
+Use Employee Center to streamline your IT ticket management and other service management tasks. Improve agent experience with higher case deflections enabled by customised, machine learning-driven recommendations and solutions for employees. For more information, see [Employee Center for IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/ITSM-EC/itsm-n-ec-integration.md#).
 
 ## What to explore next
 
 To learn more about configuring and using Employee Center, see:
 
--   [Configuring Employee Center](setup-emp-center.md)
--   [Using Employee Center](using-emp-center.md)
--   [Employee Center reference](../reference/emp-center-reference.md)
+-   [Configuring Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-emp-center.md)
+-   [Using Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-emp-center.md)
+-   [Employee Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/emp-center-reference.md)
 

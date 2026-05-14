@@ -21,7 +21,7 @@ Role required: admin
 
 Starting with the Zurich release, end-users whose mobile web screen session expires due to session timeouts, device locking, or app backgrounding are automatically logged back into their session when they return to the web screen in their mobile app.
 
-This feature works by default for all service portal pages but requires configuration for UXF pages. To enable this feature on UXF pages, admins must add the mobile app bridge as a data source to the page in UI Builder. For more information on how to do this, please refer to Steps 1-4 in [Add a button to your mobile web screen that launches Virtual Agent](mobwebscreen-add-button-virtagent.md).
+This feature works by default for all service portal pages but requires configuration for UXF pages. To enable this feature on UXF pages, admins must add the mobile app bridge as a data source to the page in UI Builder. For more information on how to do this, please refer to Steps 1-4 in [Add a button to your mobile web screen that launches Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobwebscreen-add-button-virtagent.md).
 
 ## Procedure
 
@@ -77,7 +77,7 @@ Fetch type
 
 </td><td>
 
-Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [Mobile fetch types](../reference/applet-fetch-types.md).
+Fetch type settings determine when data is loaded in screens. Change your fetch type to optimize load time performance for your screens.Select either `Prefetch`, `On-demand`, `Background`, or `Dynamic prefetch` as required according to your setup. For more information about these options, see [Mobile fetch types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ URL
 
 The URL you want to send the user to.
 
- **Note:** To add the URL for a Now Experience Framework page, which leverages the Mobile App Bridge for playbooks, see [Configure mobile web screens with Mobile App Bridge](configure-mobile-playbooks.md).
+ **Note:** To add the URL for a Now Experience Framework page, which leverages the Mobile App Bridge for playbooks, see [Configure mobile web screens with Mobile App Bridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-mobile-playbooks.md).
 
 </td></tr><tr><td>
 
@@ -119,19 +119,19 @@ Determine which user roles can access this screen. If you have selected no roles
 6.  If you want to turn off the native header of the mobile screen so that it doesn't interfere with the mobile web screen header, do the following configuration:
 
     1.  In Mobile App Builder, select **Save** to save the mobile web screen.
-    2.  At the top of the Mobile Web Screen form, select the more options menu \(![More options menu](../image/button-more-ios.png)\), and then select **Open in platform**.
+    2.  At the top of the Mobile Web Screen form, select the more options menu \(![More options menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/button-more-ios.png)\), and then select **Open in platform**.
 
         The Mobile web screen configuration page opens in the web UI of your instance.
 
     3.  In the Mobile web screen configuration page, select the **Hide native header** check box.
     4.  Select **Update**.
 
-        ![Hide native header results on device](../image/mobwebscrn-hide-screen-nam.png)
+        ![Hide native header results on device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobwebscrn-hide-screen-nam.png)
 
 
 ## What to do next
 
-If you want to further customize your mobile web screen, see [Add a button to your mobile web screen that launches Virtual Agent](mobwebscreen-add-button-virtagent.md).
+If you want to further customize your mobile web screen, see [Add a button to your mobile web screen that launches Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobwebscreen-add-button-virtagent.md).
 
-**Parent Topic:**[Mobile web screen](../concept/url-screen.md)
+**Parent Topic:**[Mobile web screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/url-screen.md)
 

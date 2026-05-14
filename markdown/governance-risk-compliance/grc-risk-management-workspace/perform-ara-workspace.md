@@ -59,7 +59,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
     -   If the risk assessment is in progress and you want to continue the assessment, select **Resume**.
 3.  To perform inherent assessment, respond to the all inherent assessment questions.
 
-    1.  To view the guidance for a factor, select the question mark icon \(![Show guidance for a factor.](../image/show-guidance.jpg).
+    1.  To view the guidance for a factor, select the question mark icon \(![Show guidance for a factor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/show-guidance.jpg).
 
     2.  To view the qualitative and quantitative weightage, select overall rating icon.
 
@@ -112,7 +112,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
     2.  To create a risk response task, select the **Create task** button, and select the appropriate values.
 
-        For more information, see [Create a risk response task in the Risk Workspace](../../grc-risk/task/create-risk-response-task-risk-workspace.md).
+        For more information, see [Create a risk response task in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/task/create-risk-response-task-risk-workspace.md).
 
     3.  To link existing risk response tasks or copy the tasks along with the risk response strategies from the previous assessment while reassessing a risk, select **Yes, continue with existing**.
 
@@ -146,7 +146,7 @@ For more information on statuses, see [Risk Assessment workflow changes from 19.
 
 15. If you want to modify the assessment, select **Edit**.
 
-16. To view the activities taking place for the assessment, select the Activity log ![Activity log icon.](../image/activity-log.jpg) icon.
+16. To view the activities taking place for the assessment, select the Activity log ![Activity log icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/activity-log.jpg) icon.
 
 17. If you have defined approvers, then select **Submit**.
 
@@ -167,7 +167,7 @@ The assessment is sent to the approver and the approval workflow starts.
 
 ## Example
 
-![Send risk assessment for approval.](../image/risk-assessment-approval.png "In progress risk assessment ready for approval")
+![Send risk assessment for approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-assessment-approval.png "In progress risk assessment ready for approval")
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

@@ -17,9 +17,9 @@ Test query your GraphQL APIs using an integrated GraphQL testing tool.
 
 ## Before you begin
 
-Create a schema for your GraphQL API. For more information, see [Create a GraphQL schema](build-graphql-scripted-schema.md#).
+Create a schema for your GraphQL API. For more information, see [Create a GraphQL schema](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/build-graphql-scripted-schema.md#).
 
-Enabling introspective queries allows GraphQL Explorer to show the schemas on the instance in the Documentation Explorer and as auto-complete suggestions, which makes finding queries and mutations easier. For more information, see [Enable introspective queries for GraphQL schemas](enable-introspective-queries-graphql-schemas.md).
+Enabling introspective queries allows GraphQL Explorer to show the schemas on the instance in the Documentation Explorer and as auto-complete suggestions, which makes finding queries and mutations easier. For more information, see [Enable introspective queries for GraphQL schemas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/enable-introspective-queries-graphql-schemas.md).
 
 **Note:** Don’t use introspective queries in a production environment.
 
@@ -33,11 +33,11 @@ The GraphQL Explorer integrates the GraphiQL IDE into the ServiceNow AI Platform
 
 1.  Navigate to **All** &gt; **System Web Services** &gt; **GraphQL** &gt; **GraphQL Explorer**.
 
-2.  If you enabled introspection, in the left sidebar, select the Show Documentation Explorer icon \(![Show Documentation Explorer icon](../image/graphql-show-doc-explorer.png)\) to view and search for available queries or mutations.
+2.  If you enabled introspection, in the left sidebar, select the Show Documentation Explorer icon \(![Show Documentation Explorer icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/graphql-show-doc-explorer.png)\) to view and search for available queries or mutations.
 
 3.  In the editor, enter a query to the schema.
 
-    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](../concept/scripted-graph-ql.md#section_zdw_rnc_glb).
+    Include both the application and schema namespaces in the query. For information about directives you can apply, see [Directives and global functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/scripted-graph-ql.md#section_zdw_rnc_glb).
 
     This example shows using both the application and schema namespaces:
 
@@ -82,20 +82,20 @@ The GraphQL Explorer integrates the GraphiQL IDE into the ServiceNow AI Platform
 
 4.  At the bottom of the editor, select **Variables** and enter any necessary variables.
 
-5.  Select the Execute query icon \(![Execute query icon](../image/graphql-execute-query.png)\).
+5.  Select the Execute query icon \(![Execute query icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/graphql-execute-query.png)\).
 
-    **Tip:** You can also use a keyboard shortcut. To see the list of available keyboard shortcuts, select the Open short keys dialog icon \(![Open short keys dialog icon](../image/graphql-keyboard-shortcuts.png)\).
+    **Tip:** You can also use a keyboard shortcut. To see the list of available keyboard shortcuts, select the Open short keys dialog icon \(![Open short keys dialog icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/graphql-keyboard-shortcuts.png)\).
 
     The result of your query returns in the right pane.
 
-6.  Select the Add tab icon \(![Add tab icon](../image/graphql-add-tab.png)\) to run additional queries.
+6.  Select the Add tab icon \(![Add tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/graphql-add-tab.png)\) to run additional queries.
 
 
 ## What to do next
 
-If you need to view a list of previous queries, in left sidebar, select the Show History icon \(![Show History icon](../image/graphql-show-history.png)\).
+If you need to view a list of previous queries, in left sidebar, select the Show History icon \(![Show History icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/graphql-show-history.png)\).
 
-To access record data in a component, you can create a custom component and query your scripted GraphQL schema from the component. For more information, see [Query a GraphQL schema from a component](query-schema-from-component.md).
+To access record data in a component, you can create a custom component and query your scripted GraphQL schema from the component. For more information, see [Query a GraphQL schema from a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/query-schema-from-component.md).
 
-**Parent Topic:**[Query record data using the GraphQL API framework](../concept/scripted-graph-ql.md)
+**Parent Topic:**[Query record data using the GraphQL API framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/scripted-graph-ql.md)
 

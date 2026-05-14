@@ -79,5 +79,5 @@ Ensure that the Developer Application is set to **Human Resources: Core**.
 10. Click **Submit**.
 
 
-**Parent Topic:**[Enable actionable knowledge feedback](configure-act-know-feedback-properties.md)
+**Parent Topic:**[Enable actionable knowledge feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-act-know-feedback-properties.md)
 

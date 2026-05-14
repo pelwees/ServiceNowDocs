@@ -26,16 +26,16 @@ Role required:
 
 Inspection and audit agents can also create actions for specific questions while completing a smart assessment or survey from the mobile app. When an agent creates an action for a question, the system also generates a related finding record based on the response. For more information, see the following:
 
--   [Create actions and findings for the smart assessment questionnaire from mobile app](../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
--   [Create actions and findings for survey responses from mobile app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+-   [Create actions and findings for the smart assessment questionnaire from mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../hs-health-safety-mobile/task/hs-create-actions-findings-smart-assessments.md).
+-   [Create actions and findings for survey responses from mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
-For information on adding an action for a safety inspection or audit through Mobile Agent, see [Add actions in mobile app](../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+For information on adding an action for a safety inspection or audit through Mobile Agent, see [Add actions in mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../hs-health-safety-mobile/task/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Create an action from an inspection or audit record or the Actions list.
 
@@ -85,7 +85,7 @@ Steps
 
 4.  On the form, fill in the fields.
 
-    For information on field descriptions, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For information on field descriptions, see [Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/reference/hs-action-form.md).
 
 5.  Select **Save**.
 
@@ -102,11 +102,11 @@ Steps
 
 -   You can assign the action to yourself or to another safety team member to start working on it.
 
-    If it is an audit action, you can submit it for approval to start the approval workflow. For more information, see [Submit a safety action for approval](hs-submit-audit-finding-action-approval.md).
+    If it is an audit action, you can submit it for approval to start the approval workflow. For more information, see [Submit a safety action for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-submit-audit-finding-action-approval.md).
 
 -   You can share the action, independent of the inspection or audit, with other groups or agents, so that they can prevent the similar situation from happening at any of their locations. To share an action, select **Copy action**.
     -   The action is duplicated and appears in the **My Tasks** list of the assigned user on the Employee Center.
     -   The action is also listed in the **Actions** list on the Health and Safety Workspace.
 
-**Parent Topic:**[Safety inspections and audits](../concept/hs-safety-inspections.md)
+**Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-safety-inspections.md)
 

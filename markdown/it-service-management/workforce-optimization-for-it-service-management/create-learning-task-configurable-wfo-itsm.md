@@ -21,13 +21,13 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 ## About this task
 
-Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for ITSM Reference](../reference/configurable-wfo-itsm-coaching-reference.md).
+Set learning task completion due dates to include or exclude weekends using the **exclude\_weekends\_on\_learning\_task\_due\_date** system property. For more information, see [Workforce Optimization for ITSM Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configurable-wfo-itsm-coaching-reference.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Click the coaching icon \(![Coaching icon](../image/coaching-icon-uib.png)\).
+2.  Click the coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-icon-uib.png)\).
 
 3.  Click the **Learning** tab.
 
@@ -85,5 +85,5 @@ Date when the agent must complete the course. Default is 5 days after the creati
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/workforce-learning-configurable-wfo-itsm.md)
 

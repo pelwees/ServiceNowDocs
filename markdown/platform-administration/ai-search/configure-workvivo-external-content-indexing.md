@@ -90,13 +90,13 @@ To allow the connector to access your Workvivo source system via the API, you mu
 Provide the following items to your connector admin:
 
 -   The host URL for your Workvivo instance. This is typically `https://<organization-name>.workvivo.us`, where `<organization-name>` is the name of your organization.
--   Your organization's Workvivo ID that you copied in step [1.d](configure-workvivo-external-content-indexing.md#copy-workvivo-id-step).
--   The API URL that you copied in step [1.e](configure-workvivo-external-content-indexing.md#copy-api-url-step).
--   The API key token that you copied in step [2.d](configure-workvivo-external-content-indexing.md#copy-api-key-step).
+-   Your organization's Workvivo ID that you copied in step [1.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workvivo-external-content-indexing.md#copy-workvivo-id-step).
+-   The API URL that you copied in step [1.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workvivo-external-content-indexing.md#copy-api-url-step).
+-   The API key token that you copied in step [2.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-workvivo-external-content-indexing.md#copy-api-key-step).
 
 Your connector admin needs these items to configure a Workvivo external content connector to retrieve articles, comments, documents, events, kudos, pages, and updates and security principals from your Workvivo source system.
 
-For details on creating and configuring a Workvivo external content connector, see [Create a Workvivo external content connector](create-ext-cont-connector-workvivo.md).
+For details on creating and configuring a Workvivo external content connector, see [Create a Workvivo external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-workvivo.md).
 
-**Parent Topic:**[Workvivo external content connector](../concept/workvivo-external-content-connector.md)
+**Parent Topic:**[Workvivo external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workvivo-external-content-connector.md)
 

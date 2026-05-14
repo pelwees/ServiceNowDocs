@@ -60,5 +60,5 @@ Active
 Yes/No
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Proactive Engagement](../configuring-proactive-engagement.md)
+</table>**Parent Topic:**[Configuring Proactive Engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/../configuring-proactive-engagement.md)
 

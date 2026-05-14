@@ -23,7 +23,7 @@ Role required: admin
 
 Tables and Store applications are installed with Hiring Connector.
 
-For more information, see [Components installed with Hiring Connector](../reference/installed-with-hiring.md).
+For more information, see [Components installed with Hiring Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../reference/installed-with-hiring.md).
 
 ## Procedure
 

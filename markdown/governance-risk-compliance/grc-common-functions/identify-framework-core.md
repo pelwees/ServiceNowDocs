@@ -28,8 +28,8 @@ With NIST CSF guidance, the application groups categories and subcategories into
 
 Each module points to a grouping of policy and control objectives that relates to that function.
 
--   **[Review the framework core](../task/review-framework-core.md)**  
+-   **[Review the framework core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/review-framework-core.md)**  
 Review the Framework Core that's activated with the NIST CSF application.
 
-**Parent Topic:**[NIST CSF process overview](nist-csf-process.md)
+**Parent Topic:**[NIST CSF process overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/nist-csf-process.md)
 

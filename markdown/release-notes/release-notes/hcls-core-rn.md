@@ -37,5 +37,5 @@ Install Healthcare and Life Sciences Service Management Core by requesting it fr
     ServiceNow® Healthcare Operations Core provides the foundation for Care Team Operations and enables hospitals to streamline and automate their operations by integrating with supporting service departments.
 
 
-**Parent Topic:**[Healthcare and Life Sciences release notes](healthcare-life-sciences-rn-landing.md)
+**Parent Topic:**[Healthcare and Life Sciences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/healthcare-life-sciences-rn-landing.md)
 

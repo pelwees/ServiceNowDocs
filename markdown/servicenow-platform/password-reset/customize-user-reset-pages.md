@@ -21,7 +21,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
-![Example custom header and footer on the password reset pages](../image/header-footer-enduser-pages.png "Example custom header and footer on the password reset pages")
+![Example custom header and footer on the password reset pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/header-footer-enduser-pages.png "Example custom header and footer on the password reset pages")
 
 ## Procedure
 
@@ -31,13 +31,13 @@ Role required: password\_reset\_admin
 
     The example macro adds the text "Trust Acme to Deliver!" to the footer of the page that users work in while resetting a password.
 
-    ![XML macro code for a custom footer](../image/header-footer-macro-DOC45847.png)
+    ![XML macro code for a custom footer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/header-footer-macro-DOC45847.png)
 
 3.  Select the **Active** check box and then click **Submit**.
 
 4.  Navigate to **Password Reset** &gt; **Processes** and select the process to update.
 
-5.  On the **Advanced** tab, click \(![magnifying glass icon](../image/look-up-in-list-button.png)\) for the **Header UI macro** or **Footer UI macro** and select the macro that you created.
+5.  On the **Advanced** tab, click \(![magnifying glass icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/look-up-in-list-button.png)\) for the **Header UI macro** or **Footer UI macro** and select the macro that you created.
 
 6.  Click **Save**.
 
@@ -61,5 +61,5 @@ Log in as an end user and request password reset.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/customizing-password-reset.md)
 

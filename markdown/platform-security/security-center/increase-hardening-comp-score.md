@@ -31,7 +31,7 @@ Identify non-compliant hardening settings with the highest score impact on your 
 
 4.  Select settings and review the setting details to decide whether you want to comply with recommendations.
 
-    ![hardening setting page in UI](../images/hardening-setting-overview.png)
+    ![hardening setting page in UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/hardening-setting-overview.png)
 
 5.  Make the hardening setting compliant.
 
@@ -40,5 +40,5 @@ Identify non-compliant hardening settings with the highest score impact on your 
     The hardening score is rounded up. A score of 86.75% will be rounded up to 87.
 
 
-**Parent Topic:**[Hardening compliance score trend](../concept/score-trend.md)
+**Parent Topic:**[Hardening compliance score trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/score-trend.md)
 

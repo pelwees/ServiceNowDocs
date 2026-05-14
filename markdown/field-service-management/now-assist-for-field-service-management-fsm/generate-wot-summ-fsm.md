@@ -34,11 +34,11 @@ A summary is generated for the work order task.
 
 Alex the agent is finishing a printer repair task. To wrap up the task, they generate a summary using the procedure.
 
-![Summary generated for the work order task.](../image/generate-summary-na.png)
+![Summary generated for the work order task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/generate-summary-na.png)
 
 ## What to do next
 
 You can mark the summary as helpful or unhelpful, copy the summary, or refresh to generate the summary again.
 
-**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](../concept/using-now-assist-fsm.md)
+**Parent Topic:**[Using Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../concept/using-now-assist-fsm.md)
 

@@ -17,5 +17,5 @@ You can capture a data fabric table configuration, including the table identific
 
 For details on using update sets, see [General guidelines for planning the update process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/get-started-update-sets.md).
 
-**Parent Topic:**[Managing data fabric tables](managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/managing-data-fabric-tables-zcc.md)
 

@@ -19,7 +19,7 @@ From the Software Asset Workspace, access the Citrix Systems publisher overview 
 
 Results are updated whenever a new reconciliation result is available.
 
-![Citrix Systems publisher overview.](../image/publisher-overview-citrix.png)
+![Citrix Systems publisher overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-overview-citrix.png)
 
 You can view a summary of your license usage information in the Summary section of the Citrix Systems publisher overview.
 
@@ -95,7 +95,7 @@ Concurrent License Consumption
 License consumption trends for your Citrix software products. Each data point represents the maximum in-use license count per day.Select a data point to view additional license consumption data for a specific Citrix software product.
 
 </td></tr></tbody>
-</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](workbench-publisherfields-workspace.md).
+</table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/workbench-publisherfields-workspace.md).
 
-**Parent Topic:**[Software Asset Management publisher pack for Citrix](../concept/citrix-publisher-pack.md)
+**Parent Topic:**[Software Asset Management publisher pack for Citrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/citrix-publisher-pack.md)
 

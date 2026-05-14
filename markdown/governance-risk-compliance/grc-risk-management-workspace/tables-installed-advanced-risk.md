@@ -106,5 +106,5 @@ A risk manager can relate risk events to regulatory obligations and citations. T
 </td></tr></tbody>
 </table>**Note:** All additional tables installed by the dependent plugins are also needed for GRC: Advanced Risk.
 
-**Parent Topic:**[Components installed with Advanced Risk](components-risk-advanced.md)
+**Parent Topic:**[Components installed with Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/components-risk-advanced.md)
 

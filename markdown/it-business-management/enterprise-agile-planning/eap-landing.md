@@ -23,19 +23,19 @@ Enterprise Agile Planning \(EAP\) is available when you install the Strategic Pl
 
 <table id="table_is2_hh1_dzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Enterprise Agile Planning features.](exploring-eap.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Enterprise Agile Planning features.](exploring-eap.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Agile configurations, team levels, and work types.](configuring-eap.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up Agile configurations, team levels, and work types.](configuring-eap.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-manage.svg)Build a backlog, plan program increments, and evaluate progress of assigned work.](using-eap.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/brand-icons/bus-manage.svg)Build a backlog, plan program increments, and evaluate progress of assigned work.](using-eap.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about EAP components like roles, tables, properties, forms, and lists.](../reference/eap-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about EAP components like roles, tables, properties, forms, and lists.](../reference/eap-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

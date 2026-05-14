@@ -53,5 +53,5 @@ By default, the report frequencies available are:
 5.  Click **Submit** and return to the **HR Operations Report Frequency** list.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManagedLists.md)
 

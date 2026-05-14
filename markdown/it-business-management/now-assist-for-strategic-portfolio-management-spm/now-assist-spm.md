@@ -19,23 +19,23 @@ Use the ServiceNow® Now Assist for Strategic Portfolio Management \(SPM\) appli
 
 <table id="table_xsp_hjf_1zb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SPM](exploring-now-assist-for-spm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for SPM](exploring-now-assist-for-spm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started with Now Assist for SPM](configuring-na-spm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application to get started with Now Assist for SPM](configuring-na-spm.md)
 
 </td><td>
 
-[Use AI agents![](../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Use the generative AI agents of Now Assist for SPM](using-na-spm-ai-agents.md)
+[Use AI agents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Use the generative AI agents of Now Assist for SPM](using-na-spm-ai-agents.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities of Now Assist for SPM](using-now-assist-for-spm.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use the generative AI capabilities of Now Assist for SPM](using-now-assist-for-spm.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for SPM](../reference/now-assist-spm-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about forms and fields of Now Assist for SPM](../reference/now-assist-spm-reference.md)
 
 </td><td>
 

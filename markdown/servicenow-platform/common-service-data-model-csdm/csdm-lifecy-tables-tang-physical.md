@@ -36,5 +36,5 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
 |Rack​|cmdb\_ci\_rack​|
 |Storage Device​|cmdb\_ci\_storage\_device​|
 
-**Parent Topic:**[Life cycle of tangible/physical CIs](../concept/csdm-lifecycle-hardware.md)
+**Parent Topic:**[Life cycle of tangible/physical CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-hardware.md)
 

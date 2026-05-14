@@ -26,5 +26,5 @@ Client scripts are added with Contract Management.
 |Tax exempt/ rate|Contract \[ast\_contract\]|Changes all tax-related fields on the Contract form to read-only if the **Tax Exempt** check box is selected.|
 |Tax rate/exempt|Contract \[ast\_contract\]|Changes all tax-related fields on the Contract form to writeable if the **Sales Tax** check box is selected.|
 
-**Parent Topic:**[Components installed with Contract Management](r_ComponentsInstalledWContractMgmt.md)
+**Parent Topic:**[Components installed with Contract Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/r_ComponentsInstalledWContractMgmt.md)
 

@@ -36,14 +36,14 @@ For more information about MetricBase time-series data transformations, see [Met
 
 ## Data Explorer
 
-Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](../task/metricbase-data-explorer.md) that comes with the MetricBase Demo.
+Experiment and get familiar with the JavaScript APIs by using the [MetricBase Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../task/metricbase-data-explorer.md) that comes with the MetricBase Demo.
 
-**Parent Topic:**[MetricBase reference](reference-metricbase.md)
+**Parent Topic:**[MetricBase reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/reference-metricbase.md)
 
 **Related topics**  
 
 
-[Domain separation and MetricBase](domain-separation-metricbase.md)
+[Domain separation and MetricBase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/domain-separation-metricbase.md)
 
-[MetricBase roles](../reference/metricbase-roles.md#)
+[MetricBase roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../reference/metricbase-roles.md#)
 

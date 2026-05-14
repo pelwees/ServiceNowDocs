@@ -58,5 +58,5 @@ When a device is marked as Remote, DEX uses GeoIP to determine the Region or Sta
 
 The State and Country fields use standard codes. Verify that you use standard codes consistently according to the values listed in the table `sys_report_map_source_mapping`.
 
-**Parent Topic:**[Advanced configuration](dex-advanced-configuration.md)
+**Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 

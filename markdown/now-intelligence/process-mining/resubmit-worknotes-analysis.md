@@ -29,8 +29,8 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     To view the error details, select **View error details**.
 
-    ![Resumbit work notes analysis](../image/worknotes-resubmit.png)
+    ![Resumbit work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/worknotes-resubmit.png)
 
 
-**Parent Topic:**[Work notes analysis](../concept/worknotes-analysis.md)
+**Parent Topic:**[Work notes analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/worknotes-analysis.md)
 

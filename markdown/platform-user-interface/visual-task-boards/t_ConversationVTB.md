@@ -29,17 +29,17 @@ When you create a conversation from a task board, all the board members become m
 
 2.  Open a task board.
 
-3.  In the board header, click the connect with board members icon \(![Connect with board members icon](../image/IconVTBConnectwithBoard.png)\).
+3.  In the board header, click the connect with board members icon \(![Connect with board members icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconVTBConnectwithBoard.png)\).
 
     The system automatically opens a record conversation for the board. Each board member becomes a member of the conversation.
 
 
-**Parent Topic:**[Viewing and sharing Visual Task Boards](../../visual-task-boards/concept/viewing-sharing-vis-task-brds.md)
+**Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../visual-task-boards/concept/viewing-sharing-vis-task-brds.md)
 
 **Related topics**  
 
 
 [Connect Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Collaboration.md)
 
-[Visual Task Boards](../../visual-task-boards/concept/c_VisualTaskBoards.md)
+[Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../visual-task-boards/concept/c_VisualTaskBoards.md)
 

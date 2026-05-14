@@ -31,9 +31,9 @@ To create or edit a category:
 
 2.  Click **New** or select the category to edit.
 
-    **Note:** The visibility of a category is controlled by user criteria. See [Apply user criteria to items and categories](t_AppUserCritItemsCat.md#).
+    **Note:** The visibility of a category is controlled by user criteria. See [Apply user criteria to items and categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AppUserCritItemsCat.md#).
 
-    ![Screenshot for the Service Catalog categories](../image/MaintainCategories.png "Service Catalog categories")
+    ![Screenshot for the Service Catalog categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/MaintainCategories.png "Service Catalog categories")
 
 3.  Fill in the fields on the form, as appropriate.
 
@@ -54,10 +54,10 @@ To create or edit a category:
     |Hide description \(classic mobile browsing\)|Option for displaying the description at the top of the list on Classic Mobile devices.|
 
 
-**Parent Topic:**[Service catalog categories](../concept/c_ServiceCatalogCategories.md)
+**Parent Topic:**[Service catalog categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogCategories.md)
 
 **Related topics**  
 
 
-[Configure dynamic categories](t_ConfigureDynamicCategories.md)
+[Configure dynamic categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ConfigureDynamicCategories.md)
 

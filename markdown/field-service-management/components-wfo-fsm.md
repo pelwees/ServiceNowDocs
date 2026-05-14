@@ -478,7 +478,7 @@ Grants access to add training, assessments, and skill records.
 -   survey\_reader
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-wfo-fsm.md).
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
@@ -495,7 +495,7 @@ Grants access to add training, assessments, and skill records.
 
 **Note:** You can customize the coaching opportunities for low CSAT, high TTR, SLA breach, and handling time based on your business needs.
 
-**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-wfo-fsm.md).
 
 |Name|Description|
 |----|-----------|
@@ -531,7 +531,7 @@ Excludes weekends when the due date is set for trainees to complete training.-  
 </td></tr></tbody>
 </table>## Coaching with Learning
 
-**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-wfo-fsm.md).
 
 <table id="table_fk4_mwq_npb"><thead><tr><th>
 
@@ -781,7 +781,7 @@ Specify the number of bytes allowed for runtime values in each step in the flow 
  **Note:** When you synchronize third-party learning content with your ServiceNow instance, if the word count of the content being pulled into your instance exceeds the value set for this property, the synchronization will fail. For more information, see [synchronize](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md).
 
 </td></tr></tbody>
-</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](../task/activate-wfo-fsm.md).
+</table>**Important:** This feature is available with the Workforce Optimization for Field Service \(com.snc.app\_fsm\_wfo\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../task/activate-wfo-fsm.md).
 
 ## Skill Recommendation
 
@@ -931,5 +931,5 @@ Task Predicted Skill \[sn\_sre\_task\_predicted\_skill\]
 -   Records created over 60 days ago are automatically deleted from this table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

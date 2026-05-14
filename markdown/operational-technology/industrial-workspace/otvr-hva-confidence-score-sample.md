@@ -55,7 +55,7 @@ The confidence score range is 0–1. Based on the CPE information, the confidenc
 .70
 ```
 
-**Note:** To refer to the values used to calculate the confidence score, see [Confidence score reference tables for hardware vulnerability assessment](otvr-hva-confidence-score-ref.md).
+**Note:** To refer to the values used to calculate the confidence score, see [Confidence score reference tables for hardware vulnerability assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/otvr-hva-confidence-score-ref.md).
 
-**Parent Topic:**[Operational Technology Hardware Vulnerability Assessment](../concept/understanding-hwd-vuln-assessment.md)
+**Parent Topic:**[Operational Technology Hardware Vulnerability Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/understanding-hwd-vuln-assessment.md)
 

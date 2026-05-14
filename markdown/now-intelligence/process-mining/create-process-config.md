@@ -23,13 +23,13 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations** &gt; **All configurations**.
 
-    A list of process configurations that are already created is displayed.![Process configurations in classic view](../image/process-congif-classic.png)
+    A list of process configurations that are already created is displayed.![Process configurations in classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/process-congif-classic.png)
 
 2.  Select **New** to create a process configuration for a table.
 
     **Note:** You can have only one process configuration per table.
 
-    Try using the process configuration builder to leverage additional features and get guidance on configurations. Select **Use Process Configuration Builder** to create a process configuration using the Process Configuration Builder. For more information, see [Create process configuration using Process Configuration Builder](process-config-builder.md).
+    Try using the process configuration builder to leverage additional features and get guidance on configurations. Select **Use Process Configuration Builder** to create a process configuration using the Process Configuration Builder. For more information, see [Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md).
 
 3.  On the form, fill in the fields.
 
@@ -63,7 +63,7 @@ Automated Root Cause Analysis
 
 </td><td>
 
-Select to set the automated root cause analysis. For more information, see [Automated root cause analysis](../concept/auto-rca.md).
+Select to set the automated root cause analysis. For more information, see [Automated root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/auto-rca.md).
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Cluster Analysis
 
 </td><td>
 
-Select to set the cluster analysis. For more information, see [Cluster analysis](../concept/cluster-analysis.md).
+Select to set the cluster analysis. For more information, see [Cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/cluster-analysis.md).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Finding Definitions
 
 Select to set the rule-based improvement opportunities either from the Classic view or from the Finding Builder.
 
- For more information, see [Set improvement opportunities for process tables](../concept/impr-opp-table.md).
+ For more information, see [Set improvement opportunities for process tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/impr-opp-table.md).
 
 </td></tr><tr><td>
 
@@ -91,11 +91,11 @@ Automated Finding Definitions
 
 Select to set the automated improvement opportunities either from the Classic view or from the Finding Builder.
 
- For more information, see [Set improvement opportunities for process tables](../concept/impr-opp-table.md).
+ For more information, see [Set improvement opportunities for process tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/impr-opp-table.md).
 
 </td></tr></tbody>
 </table>5.  Select **Update**.
 
 
-**Parent Topic:**[Creating process configuration](../concept/creating-process-config.md)
+**Parent Topic:**[Creating process configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/creating-process-config.md)
 

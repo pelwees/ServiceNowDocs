@@ -29,7 +29,7 @@ After creating a case action summary, the record is added to the Case form in th
 
 2.  To create a case action summary, do one of the following.
 
-    -   Agent Workspace: Click the More UI Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Send Case Action Summary**.
+    -   Agent Workspace: Click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Send Case Action Summary**.
     -   Platform interface: Click the form context menu icon and select **Send Case Action Summary**.
     This opens a new Case Action Summary form with a status of **In progress**. Depending on the table map configuration defined for the case action summary, some of the information from the case is copied to the Case Action Summary form. With the CAS Configuration, this includes the information from the **Short description** field.
 

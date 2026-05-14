@@ -17,7 +17,7 @@ The GlideExcelParser API parses .xlsx formatted Excel files and access file data
 
 You can use the GlideExcelParser methods in global and scoped scripts. Use the `sn_impex` namespace identifier to create a GlideExcelParser object.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## GlideExcelParser - GlideExcelParser\(\)
 
@@ -519,11 +519,11 @@ inputStream
 
 </td><td>
 
-[GlideScriptableInputStream](../../GlideScriptableInputStreamScoped/concept/c_GlideScriptableInpStrmScopedAPI.md)
+[GlideScriptableInputStream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideScriptableInputStreamScoped/concept/c_GlideScriptableInpStrmScopedAPI.md)
 
 </td><td>
 
-Excel document provided as an input stream. **Note:** Do not set this value if using the [setSource\(\)](GlideExcelParserScopedAPI.md#) method to parse the same source multiple times.
+Excel document provided as an input stream. **Note:** Do not set this value if using the [setSource\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideExcelParserScopedAPI.md#) method to parse the same source multiple times.
 
 </td></tr></tbody>
 </table><table id="table_v2j_lch_4z" class="returns"><thead><tr><th>
@@ -797,7 +797,7 @@ Defines an input source for parsing multiple times or parsing each worksheet in 
 
 |Name|Type|Description|
 |----|----|-----------|
-|inputStream|[GlideScriptableInputStream](../../GlideScriptableInputStreamScoped/concept/c_GlideScriptableInpStrmScopedAPI.md)|Excel document provided as an input stream.|
+|inputStream|[GlideScriptableInputStream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideScriptableInputStreamScoped/concept/c_GlideScriptableInpStrmScopedAPI.md)|Excel document provided as an input stream.|
 
 |Type|Description|
 |----|-----------|

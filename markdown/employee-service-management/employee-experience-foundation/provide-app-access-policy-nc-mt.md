@@ -56,15 +56,15 @@ Role required: Microsoft Azure admin
         connect-microsoftteams
         ```
 
-        ![PowerShell connect Teams command](../../meeting-extensibility/image/powershell-connect-teams-command.png)
+        ![PowerShell connect Teams command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-connect-teams-command.png)
 
         Upon successful connection, a confirmation message is displayed in the browser.
 
-        ![Authentication message in browser](../../meeting-extensibility/image/authentication-message-browser.png)
+        ![Authentication message in browser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/authentication-message-browser.png)
 
         PowerShell will also display the tenant details.
 
-        ![Powershell confirmation](../../meeting-extensibility/image/powershell-confirmation.png)
+        ![Powershell confirmation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-confirmation.png)
 
 4.  Run the Application Access Policy in PowerShell.
 
@@ -74,7 +74,7 @@ Role required: Microsoft Azure admin
 
     Use the App ID `ced2c8b2-7075-49fb-8dc9-7ebb41f89769` to grant permission to the Notify connector app. You can find the App ID in Microsoft Azure portal in the path: **Home** &gt; **Enterprise applications** &gt; **All applications**. Select the app created for Notify connector for Microsoft Teams.
 
-    ![Notify connector app](../image/app-id.12png.png)
+    ![Notify connector app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/app-id.12png.png)
 
     ```
     Syntax:
@@ -87,11 +87,11 @@ Role required: Microsoft Azure admin
     For Example: New-CsApplicationAccessPolicy -Identity "OnlineMeetingsAccessPolicy" -AppIds "ced2c8b2-7075-49fb-8dc9-7ebb41f89769" -Description "Grant OnlineMeeting Application Permission"
     ```
 
-    ![App access policy in Powershell](../../meeting-extensibility/image/app-access-policy.png)
+    ![App access policy in Powershell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/app-access-policy.png)
 
     Upon successfully granting the permissions, the details are displayed in PowerShell.
 
-    ![App access policy success message in Powershell](../../meeting-extensibility/image/powershell-app-access-success.png)
+    ![App access policy success message in Powershell](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-app-access-success.png)
 
 5.  Run the user permission policy in PowerShell.
 
@@ -121,7 +121,7 @@ Role required: Microsoft Azure admin
         
         ```
 
-        ![User permissions](../../meeting-extensibility/image/powershell-user-permissions.png)
+        ![User permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/powershell-user-permissions.png)
 
 6.  As a user with sn\_notify\_msteams.admin role, configure Microsoft Teams.
 
@@ -129,7 +129,7 @@ Role required: Microsoft Azure admin
 
     2.  Navigate to **Notify** &gt; **Microsoft Teams** &gt; **Configuration**.
 
-        ![Notify Microsoft Teams configuration](../../meeting-extensibility/image/notify-teams-configuration.png)
+        ![Notify Microsoft Teams configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../meeting-extensibility/image/notify-teams-configuration.png)
 
     3.  Paste the **Object ID** of the user in **Service user Azure ID** field.
 
@@ -138,5 +138,5 @@ Role required: Microsoft Azure admin
     4.  Select **Update**.
 
 
-**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md)
+**Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-notify-ms-teams-multi-tenant.md)
 

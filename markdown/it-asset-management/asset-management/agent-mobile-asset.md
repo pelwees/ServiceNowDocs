@@ -15,12 +15,12 @@ breadcrumb: [Mobile app for Hardware Asset Management, Using Asset Management, A
 
 Use the ServiceNow Agent app to create assets, look up assets, and receive assets from a purchase order.
 
-**Parent Topic:**[Mobile app for Hardware Asset Management](../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
+**Parent Topic:**[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../../administer/mobile-my-asset/concept/mobile-my-asset.md)
 
 **Related topics**  
 
 
-[Now Mobile app](now-mobile-asset.md)
+[Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/now-mobile-asset.md)
 
 ## Create an asset
 
@@ -38,7 +38,7 @@ The Procurement plugin \(com.snc.procurement\) must be installed to get the proc
 
 1.  Navigate to **Asset** and tap **Create Asset**.
 
-    ![Agent Mobile Asset home screen](../image/AgentAssetHome.png)
+    ![Agent Mobile Asset home screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../image/AgentAssetHome.png)
 
 2.  Scan the asset serial number or asset tag, then tap **Search**.
 
@@ -139,7 +139,7 @@ On the app, you can use the same functionalities when you are offline. For more 
 
 5.  Enter the vendor details and the scheduled date by using your Hardware Asset Management instance.
 
-    See [Create a disposal order](../../hardware-asset-management/task/create-disposal-order.md).
+    See [Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/task/create-disposal-order.md).
 
     After you enter the vendor details and close the Schedule Pickup task from your Hardware Asset Management instance, the **Departure** tab shows the list of departure tasks to process.
 

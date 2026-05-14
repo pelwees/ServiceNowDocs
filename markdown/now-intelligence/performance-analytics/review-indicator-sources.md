@@ -31,7 +31,7 @@ Ensure that the indicator sources that Platform Analytics Solutions contain poin
 
 2.  Click the **Dashboards** link in the **Explore and Manage** tile.
 
-    ![The Performance Analytics admin console with the Dashboards link highlighted](../image/pa-admin-console-dashboards.png)
+    ![The Performance Analytics admin console with the Dashboards link highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/pa-admin-console-dashboards.png)
 
 3.  Verify the names of the dashboards that have been installed with this Platform Analytics Solution.
 
@@ -41,7 +41,7 @@ Ensure that the indicator sources that Platform Analytics Solutions contain poin
 
     1.  Filter the indicator sources on the dashboard name.
 
-        This screenshot shows the indicator sources filtered on the Self-Service Analytics dashboard from the Self-Service Analytics for CSM Platform Analytics Solution. ![The Indicator sources tab of the PA Admin Console showing the indicator sources for the Self-Service Analytics dashboard](../../dashboards/image/pa-admin-console-indicator-sources.png)
+        This screenshot shows the indicator sources filtered on the Self-Service Analytics dashboard from the Self-Service Analytics for CSM Platform Analytics Solution. ![The Indicator sources tab of the PA Admin Console showing the indicator sources for the Self-Service Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/image/pa-admin-console-indicator-sources.png)
 
     2.  Review the facts table, conditions, and frequency of the indicator sources compared to the data structure on your own instance.
 
@@ -56,14 +56,14 @@ Ensure that the indicator sources that Platform Analytics Solutions contain poin
     5.  Click **Update** to save your changes.
 
 
-**Parent Topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Parent Topic:**[Configure Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/configure-nowintel-solutions.md)
 
-**Previous topic:**[Configure Platform Analytics Solutions](../concept/configure-nowintel-solutions.md)
+**Previous topic:**[Configure Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/configure-nowintel-solutions.md)
 
-**Next topic:**[Update Performance Analytics scripts](update-pa-scripts.md)
+**Next topic:**[Update Performance Analytics scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/update-pa-scripts.md)
 
 **Related topics**  
 
 
-[Indicator sources](../concept/c_IndicatorSources.md#)
+[Indicator sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/c_IndicatorSources.md#)
 

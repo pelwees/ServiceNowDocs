@@ -37,13 +37,13 @@ In contrast to configuring a form, personalizing a form does not enable users to
 
     The Personalize Form menu appears and hide field icons appear on the form.
 
-    ![Personalize the form](../image/PersonalizeForm.png "Personalize the form")
+    ![Personalize the form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/PersonalizeForm.png "Personalize the form")
 
     A cleared gray check box indicates fields that you previously hid.
 
     **Note:** Only the fields that the form is configured to display are available in the Personalize Form menu. To add fields to the form, you must configure the form layout.
 
-3.  Clear a check box or click the hide field icon \(![Hide field icon](../image/HideFieldIcon.png)\) by a field.
+3.  Clear a check box or click the hide field icon \(![Hide field icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/HideFieldIcon.png)\) by a field.
 
     Some check boxes are gray and selected. These check boxes indicate fields that cannot be hidden because they are required or are already hidden by UI policies or client scripts.
 
@@ -54,7 +54,7 @@ In contrast to configuring a form, personalizing a form does not enable users to
 5.  To restore the default form view, personalize the form and click **Reset**.
 
 
-**Parent Topic:**[Forms in the classic environment](../concept/c_UsingForms.md)
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingForms.md)
 
 **Related topics**  
 

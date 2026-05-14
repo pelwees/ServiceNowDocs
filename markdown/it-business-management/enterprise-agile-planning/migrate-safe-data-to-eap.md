@@ -31,7 +31,7 @@ Start data migration of SAFe to EAP.
 
 3.  On the form, fill in the fields.
 
-    For field information, see [SAFe-EAP migration request form](../reference/safe-eap-migration-request-form.md).
+    For field information, see [SAFe-EAP migration request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../reference/safe-eap-migration-request-form.md).
 
     **Note:**
 
@@ -57,5 +57,5 @@ Monitor the progress of data migration:
 
 ## What to do next
 
-[Add Agile Team type to SAFe groups for EAP migration](change-safe-groups-type-to-agile-team.md).
+[Add Agile Team type to SAFe groups for EAP migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/change-safe-groups-type-to-agile-team.md).
 

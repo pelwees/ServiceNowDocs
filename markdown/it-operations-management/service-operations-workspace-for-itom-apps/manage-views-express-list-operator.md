@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     The default view is marked as Default.
 
-    ![Assigned views in the Filters drop-down in Express List with an arrow pointing to the default view.](../image/assigned-views-express-list.png)
+    ![Assigned views in the Filters drop-down in Express List with an arrow pointing to the default view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/assigned-views-express-list.png)
 
     **Note:** You can’t override the filters in views assigned to you. However, you can modify, save, and share these views locally.
 
@@ -41,5 +41,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 **Related topics**  
 
 
-[Configuring Express List views for users and user groups](../concept/manage-views-express-list.md)
+[Configuring Express List views for users and user groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/manage-views-express-list.md)
 

@@ -51,7 +51,7 @@ Authorized signatory name
 
 </td><td>
 
-Legal name of the selected user.The legal name is fetched from the [Employee Profile form](../../employee-center/reference/employee-profile-fieldconfig.md).
+Legal name of the selected user.The legal name is fetched from the [Employee Profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/../../employee-center/reference/employee-profile-fieldconfig.md).
 
 </td></tr><tr><td>
 

@@ -22,5 +22,5 @@ Domain separation is unsupported for Localization Workspace. Domain separation e
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Localization Workspace reference](localization-workspace-reference.md)
+**Parent Topic:**[Localization Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-reference.md)
 

@@ -42,7 +42,7 @@ You must configure at least one of these elements to save the guidance preview. 
     1.  Select the pill picker icon next to the **Preview Title** field.
     2.  Select a guidance input from the list. You can drill down to another level to find the input you want.
 
-        ![Search bar listing a guidance input.](../image/ra-csm-guidance-preview-title.png)
+        ![Search bar listing a guidance input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-csm-guidance-preview-title.png)
 
 5.  Select fields to display in the guidance preview.
 

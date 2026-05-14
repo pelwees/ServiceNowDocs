@@ -26,5 +26,5 @@ To view this report, navigate to **All** &gt; **Reports** &gt; **View/Run**. Fro
 |Host|Physical host on which the undiscovered database instance is running.|
 |Server|Server on which the physical host is running.|
 
-**Parent Topic:**[Oracle Database options and management packs](oracle-options.md)
+**Parent Topic:**[Oracle Database options and management packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-options.md)
 

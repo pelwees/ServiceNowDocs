@@ -41,16 +41,16 @@ When you mute an alert that is based on the keyword metric or the pattern severi
 
 5.  Restore the muted alert.
 
-    If you no longer want the muted alert to be treated specially, you can restore normal significance to the alert metric. For more information, see [Restore normal importance to an alert metric in Health Log Analytics](hla-op-alert-restore-user-defined-sow.md).
+    If you no longer want the muted alert to be treated specially, you can restore normal significance to the alert metric. For more information, see [Restore normal importance to an alert metric in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-restore-user-defined-sow.md).
 
 
--   **[View the list of muted metrics in Health Log Analytics](hla-op-alert-view-ignored-list.md)**  
+-   **[View the list of muted metrics in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-view-ignored-list.md)**  
 View the list of metrics that were muted so that they no longer generate alerts.
 
-**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](../concept/hla-op-alert-significance.md)
+**Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-op-alert-significance.md)
 
 **Related topics**  
 
 
-[View the list of muted metrics in Health Log Analytics](hla-op-alert-view-ignored-list.md)
+[View the list of muted metrics in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-view-ignored-list.md)
 

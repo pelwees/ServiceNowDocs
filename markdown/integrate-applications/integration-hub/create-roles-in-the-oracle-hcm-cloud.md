@@ -55,7 +55,7 @@ You need both seeded and custom roles in the Oracle HCM Cloud. The table provide
 
 4.  Select **Create Role**.
 
-    ![Create Role button.](../image/oracle-hcm-spoke-create-role-button.png)
+    ![Create Role button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-create-role-button.png)
 
 5.  In the Search field, enter the role name and press **Enter**.
 
@@ -63,7 +63,7 @@ You need both seeded and custom roles in the Oracle HCM Cloud. The table provide
 
 6.  Select the Actions button and select **Copy Role**.
 
-    ![Copy Role option.](../image/oracle-hcm-spoke-copy-role-option.png)
+    ![Copy Role option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-copy-role-option.png)
 
 7.  In the Copy Options window, select **Copy Role**.
 
@@ -80,33 +80,33 @@ You need both seeded and custom roles in the Oracle HCM Cloud. The table provide
     5.  Segregation of Duties
     6.  Users
     7.  Summary
-    ![Next button.](../image/oracle-hcm-spoke-next-button.png)
+    ![Next button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-next-button.png)
 
 10. Select **Submit and Close**.
 
 11. Select your profile icon and then select Settings and Actions.
 
-    ![Settings and Actions option.](../image/oracle-hcm-spoke-settings-and-actions.png)
+    ![Settings and Actions option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-settings-and-actions.png)
 
 12. Select **Setup and Maintenance**.
 
 13. Select the task and then select Search.
 
-    ![Task and Search option.](../image/oracle-hcm-spoke-task-search-option.png)
+    ![Task and Search option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-task-search-option.png)
 
 14. In the Search field, enter `Manage Data Role and Security Profiles` and press **Enter**.
 
-    ![Search input.](../image/oracle-hcm-spoke-search-ops.png)
+    ![Search input.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-search-ops.png)
 
 15. In the Role field, enter the role name and select **Edit**.
 
-    ![Edit button.](../image/oracle-hcm-spoke-edit.png)
+    ![Edit button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-edit.png)
 
 16. Select **Next**.
 
 17. Provide inputs for the required fields and select **Next**.
 
-    ![Required fields.](../image/oracle-hcm-required-fields.png)
+    ![Required fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-required-fields.png)
 
 18. To navigate through the next few pages, select **Next** on the subsequent pages.
 
@@ -118,13 +118,13 @@ You need both seeded and custom roles in the Oracle HCM Cloud. The table provide
 
     2.  On the left panel, select Users.
 
-        ![Users link.](../image/oracle-hcm-users-left-nav.png)
+        ![Users link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-users-left-nav.png)
 
     3.  In the User Name field, enter a user name and select the search icon.
 
         The user name and its details are displayed.
 
-        ![User details.](../image/oracle-hcm-spoke-user-details.png)
+        ![User details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/oracle-hcm-spoke-user-details.png)
 
     4.  Select the user name link.
 

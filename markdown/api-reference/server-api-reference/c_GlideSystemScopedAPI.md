@@ -17,7 +17,7 @@ The scoped GlideSystem API provides a number of convenient methods to obtain inf
 
 Many of the GlideSystem methods facilitate the easy inclusion of dates in query ranges, and are most often used in filters and reporting.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped GlideSystem - addErrorMessage\(String message\)
 
@@ -1293,7 +1293,7 @@ HH:mm:ss
 
 Returns the name of the time zone associated with the current user.
 
-This method has been deprecated. Instead, use the [getTimeZoneName\(\)](../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#) method in the GlideSession API.
+This method has been deprecated. Instead, use the [getTimeZoneName\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../GlideSessionScoped/concept/c_GlideSessionScopedAPI.md#) method in the GlideSession API.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -1329,7 +1329,7 @@ gs.info(gs.getUrlOnStack());
 
 Returns a reference to the scoped GlideUser object for the current user.
 
-See [GlideUser - Scoped](../../glideUserScoped/concept/c_GlideUserScopedAPI.md#)for a list of available methods.
+See [GlideUser - Scoped](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideUserScoped/concept/c_GlideUserScopedAPI.md#)for a list of available methods.
 
 |Name|Type|Description|
 |----|----|-----------|

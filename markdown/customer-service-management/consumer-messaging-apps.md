@@ -13,7 +13,7 @@ breadcrumb: [Enable communication channels, Configure, Customer Service Manageme
 
 Omnichannel for Customer Service Management \(CSM\) provides a unified way to handle customer interactions across multiple channels from a single workspace, with centralized routing through Advanced Work Assignment \(AWA\). Consumer messaging apps are a supported channel type, allowing customers to contact support through familiar messaging platforms while agents work in the same environment.
 
-See [Integrating with consumer messaging apps](../task/messg-integrate-channels.md).
+See [Integrating with consumer messaging apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/messg-integrate-channels.md).
 
 Omnichannel for ServiceNow supports the following consumer messaging platforms:
 
@@ -23,8 +23,8 @@ WhatsApp supports persistent customer messaging and can be integrated either thr
 
 For details, see:
 
--   [Integrating WhatsApp with Customer Service Management through Twilio](messg-integrate-whatsapp-csm.md)
--   [Integrating WhatsApp with Customer Service Management using the WhatsApp Cloud API](messg-integrating-whatsapp-with-csm-whatsapp-cloud.md)
+-   [Integrating WhatsApp with Customer Service Management through Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrate-whatsapp-csm.md)
+-   [Integrating WhatsApp with Customer Service Management using the WhatsApp Cloud API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrating-whatsapp-with-csm-whatsapp-cloud.md)
 -   [Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp.md)
 -   [Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-twilio.md)
 
@@ -34,7 +34,7 @@ Facebook Messenger enables customers to reach support directly through your orga
 
 For details, see:
 
--   [Integrating Facebook Messenger with Customer Service Management](messg-integrate-fbm-csm.md)
+-   [Integrating Facebook Messenger with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrate-fbm-csm.md)
 -   [Conversational Integration with Facebook Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-fbm.md)
 
 ## LINE
@@ -43,7 +43,7 @@ LINE supports customer conversations through your organization’s LINE account 
 
 For details, see:
 
--   [Integrating LINE with Customer Service Management](messg-integrate-line-csm.md)
+-   [Integrating LINE with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/messg-integrate-line-csm.md)
 -   [Conversational Integration with LINE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-line.md)
 
 ## Apple Messages for Business
@@ -52,6 +52,6 @@ Apple Messages for Business lets customers initiate support conversations from t
 
 For details, see:
 
--   [Integrating Apple Messages for Business with Customer Service Management](integrate-amb-with-csm.md)
+-   [Integrating Apple Messages for Business with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/integrate-amb-with-csm.md)
 -   [Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integration-apple-mssg.md)
 

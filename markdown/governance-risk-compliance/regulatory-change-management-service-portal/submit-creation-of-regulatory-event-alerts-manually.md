@@ -189,5 +189,5 @@ The regulatory event alert is assigned to the selected coordinator.
 
 ## What to do next
 
-[Import the regulatory event alerts in bulk](import-regulatory-event-alerts-in-bulk.md) and [Assess the impact of a regulatory event alert](assess-impact-of-reg-change-using-ws.md).
+[Import the regulatory event alerts in bulk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/import-regulatory-event-alerts-in-bulk.md) and [Assess the impact of a regulatory event alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/assess-impact-of-reg-change-using-ws.md).
 

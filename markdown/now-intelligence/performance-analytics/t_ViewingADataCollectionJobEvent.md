@@ -28,10 +28,10 @@ Role required: pa\_data\_collector or admin
     Additional information on the job event is displayed.
 
 
-**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+**Parent Topic:**[Data collection process and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/data-collection-process-logging.md)
 
 **Related topics**  
 
 
-[View the data collection job logs](t_ViewingADataCollectionJobLog.md)
+[View the data collection job logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ViewingADataCollectionJobLog.md)
 

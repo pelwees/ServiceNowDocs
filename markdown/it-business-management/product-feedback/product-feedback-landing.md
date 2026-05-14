@@ -29,19 +29,19 @@ Leverage the multi-feedback summarization skill to quickly summarize one or mult
 
 <table id="table_xvr_t1r_szb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value of Feedback in Strategic Planning](explore-product-feedback-in-sp.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../../reuse/icons/brand-icons/bus-explore.svg)Learn the key features and business value of Feedback in Strategic Planning](explore-product-feedback-in-sp.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration for Feedback](configuring-product-feedback-in-sp.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the core configuration for Feedback](configuring-product-feedback-in-sp.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-alignment.svg)Manage feedback or product idea and take feedback-driven decisions](managing-product-feedback-in-strategic-planning.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../../reuse/icons/brand-icons/bus-alignment.svg)Manage feedback or product idea and take feedback-driven decisions](managing-product-feedback-in-strategic-planning.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get information about components, forms, tables, and system properties](../reference/product-feedback-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../../../reuse/icons/brand-icons/bus-learn.svg)Get information about components, forms, tables, and system properties](../reference/product-feedback-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

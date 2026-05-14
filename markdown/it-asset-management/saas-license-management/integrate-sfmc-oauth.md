@@ -209,7 +209,7 @@ If you want to include date and time in the report name, add it in the `Reportna
 -   **Unique Option**: Option to create a report record instead of replacing the existing report record in SFTP. Leave this check box unselected.
 -   **FTP Location**: Location of your Salesforce Marketing Cloud FTP files. Select **ExactTarget Enhanced FTP** so that the report is saved to your SFTP \(SSH File Transfer Protocol\) Reports folder.
 
-**Note:** You can set up an SFTP user account in Salesforce Marketing Cloud to view the saved files at a specific FTP location. For more information, see [Setting up an SFTP user account in Salesforce Marketing Cloud](setup-user-accnt-sfmc.md#).
+**Note:** You can set up an SFTP user account in Salesforce Marketing Cloud to view the saved files at a specific FTP location. For more information, see [Setting up an SFTP user account in Salesforce Marketing Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/setup-user-accnt-sfmc.md#).
 
 </td></tr></tbody>
 </table>    5.  Select **Save**.
@@ -387,7 +387,7 @@ Optional default value for the attribute.For the **Flag** attribute, set the def
     |Total\_Distinct\_Mobile\_Addresses\_Count|Text|
     |Flag|Text|
 
-    **Note:** You can add additional attributes and the name must be the same as the Integration Attributes. For more information, see [Create a Salesforce Marketing Cloud integration profile using basic authentication](integrate-sfmc-basicauth.md#) or [Create a Salesforce Marketing Cloud integration profile using OAuth 2.0](integrate-sfmc-oauth.md#).
+    **Note:** You can add additional attributes and the name must be the same as the Integration Attributes. For more information, see [Create a Salesforce Marketing Cloud integration profile using basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#) or [Create a Salesforce Marketing Cloud integration profile using OAuth 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#).
 
     Attributes for all other Contacts Counts report columns are optional. Fill in the fields for each attribute that you want to add.
 
@@ -462,7 +462,7 @@ Repeat
 
 </td><td>
 
-The frequency at which you want to run the automation. Configure the automation to run after the Contacts Counts report is generated. Select the same frequency that you had selected while [creating a Contacts Counts report in Salesforce Marketing Cloud.](integrate-sfmc-oauth.md#)
+The frequency at which you want to run the automation. Configure the automation to run after the Contacts Counts report is generated. Select the same frequency that you had selected while [creating a Contacts Counts report in Salesforce Marketing Cloud.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#)
 
 **Tip:** If you configure the automation to run on the same day that the report is generated, select a start time that gives enough time for the report to finish generating. ServiceNow recommends a start time of at least two hours after the report start time.
 
@@ -545,7 +545,7 @@ Description of the script activity.
         
         ```
 
-        The **\*&lt;data-extension-name&gt;\*** must exactly match the file name of the Data Extension that you created in [Create a data extension for your Contacts Counts report](integrate-sfmc-oauth.md#).
+        The **\*&lt;data-extension-name&gt;\*** must exactly match the file name of the Data Extension that you created in [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#).
 
     6.  Select **Validate Syntax** to verify that the Server-Side JavaScript syntax is valid.
 
@@ -601,7 +601,7 @@ File Naming Pattern
 
 </td><td>
 
-The file name of the Contacts Counts report that you want to extract data from.This name must exactly match the file name of the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](integrate-sfmc-basicauth.md#), including the file extension.
+The file name of the Contacts Counts report that you want to extract data from.This name must exactly match the file name of the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#), including the file extension.
 
 </td></tr><tr><td>
 
@@ -721,7 +721,7 @@ File Naming Pattern
 
 The file name of the Contacts Counts report that you want to import data from. If you want to include date and time in the report name, add it in the `Reportname_YYYYMMDD_HHMMSS` format by selecting the **Date variable** and **Time variable** fields.
 
-This name must exactly match the file name of the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](integrate-sfmc-basicauth.md#), including the file extension.
+This name must exactly match the file name of the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#), including the file extension.
 
 </td></tr><tr><td>
 
@@ -750,7 +750,7 @@ Option to skip rows with bad data. Select the check box to enable this option.
 </td></tr></tbody>
 </table>    7.  Select **Next**.
 
-    8.  In the Destination step, search for and select the data extension that you created in [Create a data extension for your Contacts Counts report](integrate-sfmc-basicauth.md#).
+    8.  In the Destination step, search for and select the data extension that you created in [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).
 
     9.  Select **Next**.
 
@@ -804,13 +804,13 @@ Your Salesforce Marketing Cloud instance runs the report and automation jobs aut
 
         The Reports app overview opens.
 
-    3.  From your list of reports, select the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](integrate-sfmc-basicauth.md#).
+    3.  From your list of reports, select the Contacts Counts report that you created in [Create a Contacts Counts report in Salesforce Marketing Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).
 
     4.  Select **Run**.
 
         Your Salesforce Marketing Cloud instance generates the report and displays the results on the Results: &lt;*report-name*&gt; page.
 
-    5.  On the Results: &lt;*report-name*&gt; page, select the Download Results icon \(![Download icon](../image/download-results-sfmc.png)\).
+    5.  On the Results: &lt;*report-name*&gt; page, select the Download Results icon \(![Download icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/download-results-sfmc.png)\).
 
     6.  In the dialog box, fill in the fields.
 
@@ -830,7 +830,7 @@ Your Salesforce Marketing Cloud instance runs the report and automation jobs aut
 
     2.  Select the **Audience Builder** app icon and then select **Contact Builder**.
 
-    3.  Open the recently created Data Extension that you created while [creating a data extension for your Contacts Counts report](integrate-sfmc-oauth.md#).
+    3.  Open the recently created Data Extension that you created while [creating a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#).
 
     4.  Select **Import**.
 
@@ -875,7 +875,7 @@ ServiceNow Role required: sam\_integrator
 
 Salesforce Marketing Cloud Role required: sn\_sforce\_mc\_spoke.Salesforce Marketing Cloud Admin
 
-**Important:** You must select the **Software Asset Management integration with Salesforce Marketing Cloud** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Software Asset Management integration with Salesforce Marketing Cloud** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md).
 
 ### About this task
 
@@ -966,7 +966,7 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
 </td></tr></tbody>
 </table>3.  Review the required user roles or API permissions specified in the **Vendor configuration** field for each process to minimize security risks and optimize SaaS licenses.
 
-    **Note:** For more information, see [Minimal user permissions](integrate-sfmc-oauth.md#) table.
+    **Note:** For more information, see [Minimal user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#) table.
 
     1.  In the Download Subscription Subflow section, verify that the **Subflow** field is set to **Salesforce Marketing Cloud Download Subscriptions**.
 
@@ -982,7 +982,7 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
 
     The name-value attributes such as **Count Date**, **Contacts**, **Email Contacts**, and **Mobile Contacts** are automatically populated for the integration profile.
 
-    **Note:** The attribute name must match the report column header in Salesforce Marketing Cloud instance. For more information, see [Create a data extension for your Contacts Counts report](integrate-sfmc-basicauth.md#).
+    **Note:** The attribute name must match the report column header in Salesforce Marketing Cloud instance. For more information, see [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).
 
 5.  Select **Save**.
 
@@ -1002,15 +1002,15 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
     |Connection Name|Name of the connection. For example, `SFMC SOAP Connection`.|
     |SOAP Connection URL|URL of your SOAP Connection endpoint. Enter `https://<*subdomain*>.soap.marketingcloudapis.com/Service.asmx`, where &lt;*subdomain*&gt; is your Salesforce Marketing Cloud subdomain.|
     |Credential Information|
-    |OAuth Client ID|Client ID that you generated while creating a [Salesforce Marketing Cloud OAuth credential](integrate-sfmc-oauth.md#).|
+    |OAuth Client ID|Client ID that you generated while creating a [Salesforce Marketing Cloud OAuth credential](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#).|
     |OAuth Client Secret|Client Secret that you retrieved while creating a Salesforce Marketing Cloud OAuth credential.|
     |OAuth Redirect URL|`https://<instance_name>/oauth_redirect.do`, where the instance name is the name of your ServiceNow instance.|
     |Additional information used for post processing|
-    |Contacts Counts Data Extension|Name of the data extension that you want to retrieve Contacts Counts report data from. This name must exactly match the name of the data extension that you created in [Create a data extension for your Contacts Counts report](integrate-sfmc-basicauth.md#).|
+    |Contacts Counts Data Extension|Name of the data extension that you want to retrieve Contacts Counts report data from. This name must exactly match the name of the data extension that you created in [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).|
 
 9.  Select **Create and Get OAuth Token**.
 
-    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](integrate-sfmc-oauth.md#) table.
+    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#) table.
 
 10. Select **Save**.
 
@@ -1035,22 +1035,22 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/run-recon-workspace.md).
 
 ## Create additional Salesforce Marketing Cloud integration profiles
 
@@ -1064,7 +1064,7 @@ Role required: sam\_integrator
 
 Salesforce Marketing Cloud Role required: sn\_sforce\_mc\_spoke.Salesforce Marketing Cloud Admin
 
-**Important:** You must select the **Software Asset Management integration with Salesforce Marketing Cloud** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](../task/request-saas-license-management.md).
+**Important:** You must select the **Software Asset Management integration with Salesforce Marketing Cloud** check box for this integration while installing optional features on the [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) page. For more information about choosing the required SaaS applications, see [Request SaaS License Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/request-saas-license-management.md).
 
 ### About this task
 
@@ -1155,7 +1155,7 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
 </td></tr></tbody>
 </table>3.  Review the required user roles or API permissions specified in the **Vendor configuration** field for each process to minimize security risks and optimize SaaS licenses.
 
-    **Note:** For more information, see [Minimal user permissions](integrate-sfmc-oauth.md#) table.
+    **Note:** For more information, see [Minimal user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#) table.
 
     1.  In the Download Subscription Subflow section, verify that the **Subflow** field is set to **Salesforce Marketing Cloud Download Subscriptions**.
 
@@ -1173,7 +1173,7 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
 
     The name-value attributes such as **Count Date**, **Contacts**, **Email Contacts**, and **Mobile Contacts** are automatically populated for the integration profile.
 
-    **Note:** The attribute name must match the report column header in Salesforce Marketing Cloud instance. For more information, see [Create a data extension for your Contacts Counts report](integrate-sfmc-basicauth.md#).
+    **Note:** The attribute name must match the report column header in Salesforce Marketing Cloud instance. For more information, see [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).
 
 5.  Select **Save**.
 
@@ -1209,15 +1209,15 @@ Type of integration profile. This value is automatically set to **Salesforce Mar
     |Connection Name|Name of the connection. For example, `SFMC SOAP Connection`.|
     |SOAP Connection URL|URL of your SOAP Connection endpoint. Enter `https://<*subdomain*>.soap.marketingcloudapis.com/Service.asmx`, where &lt;*subdomain*&gt; is your Salesforce Marketing Cloud subdomain.|
     |Credential Information|
-    |OAuth Client ID|Client ID that you generated while creating a [Salesforce Marketing Cloud OAuth credential](integrate-sfmc-oauth.md#).|
+    |OAuth Client ID|Client ID that you generated while creating a [Salesforce Marketing Cloud OAuth credential](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#).|
     |OAuth Client Secret|Client Secret that you retrieved while creating a Salesforce Marketing Cloud OAuth credential.|
     |OAuth Redirect URL|`https://<instance_name>/oauth_redirect.do`, where the instance name is the name of your ServiceNow instance.|
     |Additional information used for post processing|
-    |Contacts Counts Data Extension|Name of the data extension that you want to retrieve Contacts Counts report data from. This name must exactly match the name of the data extension that you created in [Create a data extension for your Contacts Counts report](integrate-sfmc-basicauth.md#).|
+    |Contacts Counts Data Extension|Name of the data extension that you want to retrieve Contacts Counts report data from. This name must exactly match the name of the data extension that you created in [Create a data extension for your Contacts Counts report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-basicauth.md#).|
 
 10. Select **Create and Get OAuth Token**.
 
-    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](integrate-sfmc-oauth.md#) table.
+    **Note:** For the role required to perform this step, refer to the [Minimal user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-sfmc-oauth.md#) table.
 
 11. On the integration profile form, select **Validate Connection** to verify the connection and credential details of this integration.
 
@@ -1240,20 +1240,20 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md).
 
-Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](../task/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to reclaim user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/add-reclamation-rule-sub.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/run-recon-workspace.md).
 

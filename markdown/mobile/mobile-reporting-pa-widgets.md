@@ -17,7 +17,7 @@ The mobile platform supports the KPI Details latest score, which shows a single 
 
 ## KPI Details chart
 
-![KPI Details example.](../image/dashboard-pa-example.png "KPI Details example")
+![KPI Details example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/dashboard-pa-example.png "KPI Details example")
 
 -   **Score - latest score KPI Details**
 

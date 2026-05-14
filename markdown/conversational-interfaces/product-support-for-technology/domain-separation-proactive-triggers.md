@@ -35,7 +35,7 @@ The Proactive Triggers rich text pop-up messages provide users with actions acco
 
 Each domain has its own set of rules and trigger types that are evaluated independently of other domains.
 
-**Parent Topic:**[Proactive Triggers reference](../reference/proactive-triggers-reference.md)
+**Parent Topic:**[Proactive Triggers reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/../reference/proactive-triggers-reference.md)
 
 **Related topics**  
 

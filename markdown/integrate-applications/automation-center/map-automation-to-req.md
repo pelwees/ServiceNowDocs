@@ -19,13 +19,13 @@ Map automations in Published state with an automation request to publish the aut
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
-**Note:** The cost saved and time saved values for an automation are calculated by moving average method. The moving average is controlled by the `sn_ac.savings_averaging_window` system property. For more information, see [Automation Center properties](../reference/automation-center-properties.md).
+**Note:** The cost saved and time saved values for an automation are calculated by moving average method. The moving average is controlled by the `sn_ac.savings_averaging_window` system property. For more information, see [Automation Center properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-center-properties.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Automation Center** &gt; **Automation Center Home**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -37,7 +37,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
     The Automation mapping window is displayed.
 
-    ![Automation mapping window](../images/auto-mapping.png)
+    ![Automation mapping window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-mapping.png)
 
 6.  Provide the details.
 
@@ -84,7 +84,7 @@ Specify the percentage of the time that this automation saves for the automation
 
     However, if the cost and time saved per run are manually updated, the **Cost saving percentage** and **Time saving percentage** fields in the Automation Mapping form are empty and non-editable. Also, the moving average is not calculated for the edited automation.
 
-    ![Automation mapping detail](../images/auto-mapping-detail.png)
+    ![Automation mapping detail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-mapping-detail.png)
 
     Example:
 
@@ -107,5 +107,5 @@ Specify the percentage of the time that this automation saves for the automation
 10. After creating the mapping, select **Edit mapping** to edit the existing mappings or add new mappings.
 
 
-**Parent Topic:**[Working with automations](../concept/automations.md)
+**Parent Topic:**[Working with automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/automations.md)
 

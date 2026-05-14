@@ -24,7 +24,7 @@ Role required: sn\_align\_core.apw\_user
 **Note:**
 
 -   You can edit dashboards that you own or those you’ve been granted permission to edit.
--   Only an administrator can edit the out-of-the-box dashboard that is Execution Dashboard. However, you can [duplicate an out-of-the-box dashboard](copy-dashboard-ppw.md) and customize it as needed.
+-   Only an administrator can edit the out-of-the-box dashboard that is Execution Dashboard. However, you can [duplicate an out-of-the-box dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-dashboard-ppw.md) and customize it as needed.
 
 You can use the following elements to create or edit your dashboard.
 
@@ -38,7 +38,7 @@ You can use the following elements to create or edit your dashboard.
 |Process Mining - Map|Maps the different states that are part of your process and the transitions between those states. See which states the objects of the process are in and the speed with which they change state. Requires an existing Process Mining project.|
 |Rich text|Holds text that you can format either as text or as html, including font selection, text size, highlighting, and hyperlinks. To edit HTML markup, open the HTML editor from the Configuration panel and select the Code tags &lt; &gt; icon.|
 
-![dashboard elements in portfolio planning.](../../spw-dashboards/Images/dashboard-elements-spw.png)
+![dashboard elements in portfolio planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-dashboards/Images/dashboard-elements-spw.png)
 
 ## Procedure
 
@@ -113,18 +113,18 @@ The dashboard is updated with the latest changes.
 -   Add more elements and customize your dashboard as required.
 -   For detailed instructions on editing a dashboard using the Platform Analytics experience in Portfolio Planning, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-**Parent Topic:**[Create a dashboard](create-dashboard-ppw.md)
+**Parent Topic:**[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-dashboard-ppw.md)
 
 **Related topics**  
 
 
-[View a dashboard in Portfolio Planning Workspace](view-dashboard-ppw.md)
+[View a dashboard in Portfolio Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/view-dashboard-ppw.md)
 
-[Create a dashboard](create-dashboard-ppw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-dashboard-ppw.md)
 
-[Duplicate a dashboard](copy-dashboard-ppw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-dashboard-ppw.md)
 
-[Share a dashboard](share-dashboard-ppw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-dashboard-ppw.md)
 
-[Add a Platform Analytics dashboard](add-platform-dashboard-to-ppw.md)
+[Add a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)
 

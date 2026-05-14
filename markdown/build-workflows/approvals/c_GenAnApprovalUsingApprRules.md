@@ -24,5 +24,5 @@ When an approver is automatically added based on approval rules, the status of t
 **Related topics**  
 
 
-[Classic approvals](../reference/r_Approvals.md)
+[Classic approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../reference/r_Approvals.md)
 

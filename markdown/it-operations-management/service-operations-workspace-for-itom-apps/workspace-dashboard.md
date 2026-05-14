@@ -23,11 +23,11 @@ Role required: evt\_mgmt\_user or evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](../image/icon-service-dashboard.png).
+2.  From the left navigation bar, select the Service Dashboard icon: ![Service Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-service-dashboard.png).
 
     The Service Dashboard page appears.
 
-    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](../../event-management/task/add-impact-cal-services.md).
+    **Note:** The application services that appear in the Service Dashboard are those added to the Impact Filter Services list. For more information, see [Add application services for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/task/add-impact-cal-services.md).
 
 3.  Perform the following actions as required.
 
@@ -45,9 +45,9 @@ Make the tile size larger or smaller.
 
 </td><td>
 
-1.  Select the Display settings icon \(![Display settings icon](../image/settings-display-icon.png)\).
+1.  Select the Display settings icon \(![Display settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/settings-display-icon.png)\).
 2.  From the **Display settings** pop-up window, select the size.
- ![Display size list.](../image/sow-display-size.png)
+ ![Display size list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-display-size.png)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,7 @@ Group services by selected criteria
 
 Select the arrow next to **Group By** and then select the criteria by which you want to group services.
 
- ![List of options by which you can group by services.](../image/sow-group-by-list.png)
+ ![List of options by which you can group by services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-group-by-list.png)
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Group order
 
 Select the arrow next to **Group order** and then select the criteria by which you want to group services.
 
- ![Group order list](../image/sow-group-order.png)
+ ![Group order list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-group-order.png)
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Segment each group by
 
 Segment each group by severity, business criticality, and cost to categorize and organize them into distinct groups based on these attributes.
 
- ![Segment each group by list](../image/sow-segment-grp-by-list.png)
+ ![Segment each group by list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-segment-grp-by-list.png)
 
 </td></tr><tr><td>
 
@@ -87,14 +87,14 @@ Filter information
 
 Filter the information displayed on the dashboard ensuring you focus on relevant data for effective monitoring.
 
- -   To set a global filter, select the Filter icon \(![Filter icon](../../event-management/image/filter-icon-button.png)\) and set the global filter condition, add filter conditions, and then select **Apply**.
+ -   To set a global filter, select the Filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/filter-icon-button.png)\) and set the global filter condition, add filter conditions, and then select **Apply**.
 
-![Global filter option](../image/sow-global-filter.png)
+![Global filter option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-global-filter.png)
 
 -   To exclude a severity from the display, select it in the **Severity Breakdown** ribbon. Filtered-out severities will appear dimmed. To restore a dimmed severity to the display, simply select it again.
-![Severity Breakdown filter](../image/sow-severity-breakdown.png)
+![Severity Breakdown filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-severity-breakdown.png)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

@@ -43,5 +43,5 @@ Role required: admin or notifications provider admin
 5.  Select **Submit** or **Save**.
 
 
-**Parent Topic:**[Create and update a provider notification for all users](noti-new-update-notification.md)
+**Parent Topic:**[Create and update a provider notification for all users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/noti-new-update-notification.md)
 

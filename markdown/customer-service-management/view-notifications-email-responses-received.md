@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_agent, or sn\_customerservice\_manager
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the ongoing tab icon \(![Ongoing tab icon](../image/ongoing-tab-icon-new-eaai.png)\).
+2.  Select the ongoing tab icon \(![Ongoing tab icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ongoing-tab-icon-new-eaai.png)\).
 
     A list of ongoing email interactions is displayed.
 

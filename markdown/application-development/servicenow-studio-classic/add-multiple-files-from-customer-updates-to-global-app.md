@@ -19,7 +19,7 @@ Add multiple globally scoped application files at once from one or more customer
 
 **Important:** Starting with the Xanadu release, the legacy version of ServiceNow Studio is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details on the deprecation process, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
-Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](../../servicenow-studio/concept/servicenow-studio-landing.md).
+Try building and editing apps in the current version of ServiceNow Studio instead. For more information, see [ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-studio/concept/servicenow-studio-landing.md).
 
 Role required: admin
 
@@ -43,11 +43,11 @@ This feature is for customers who manage their customizations to globally scoped
 
 3.  Select **Migrate**.
 
-    **Note:** To learn how to add multiple files from global update sets to a global application, see [Legacy - Add multiple files from global update sets to a global application](add-multiple-files-to-global-app.md).
+    **Note:** To learn how to add multiple files from global update sets to a global application, see [Legacy - Add multiple files from global update sets to a global application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/add-multiple-files-to-global-app.md).
 
 4.  Enter the name of a new global application or select an existing global application.
 
-    ![Migrate file from customer update to global application.](../image/migrate-global-app-claim.png)
+    ![Migrate file from customer update to global application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/migrate-global-app-claim.png)
 
     If an application file associated with an update was not moved, it could be because:
 
@@ -58,5 +58,5 @@ This feature is for customers who manage their customizations to globally scoped
     -   The application file is read-only.
     -   The application file is already associated to the global application being migrated to.
 
-**Parent Topic:**[Legacy - Global application file management](../concept/manage_global_application_files.md)
+**Parent Topic:**[Legacy - Global application file management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/manage_global_application_files.md)
 

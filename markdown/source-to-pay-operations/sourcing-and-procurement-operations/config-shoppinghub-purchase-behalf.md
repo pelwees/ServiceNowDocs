@@ -25,7 +25,7 @@ Role required: sn\_shop.procurement\_administrator
 
 2.  Select **New**.
 
-    ![ShoppingHub Configuration form with "Purchase on behalf of" selected as configuration type.](../image/sh-config-behalf.png)
+    ![ShoppingHub Configuration form with "Purchase on behalf of" selected as configuration type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/sh-config-behalf.png)
 
 3.  On the form, fill in the fields.
 
@@ -42,5 +42,5 @@ Role required: sn\_shop.procurement\_administrator
 4.  Select **Submit**.
 
 
-**Parent Topic:**[ShoppingHub configuration](../concept/shoppinghub-configurations.md)
+**Parent Topic:**[ShoppingHub configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/shoppinghub-configurations.md)
 

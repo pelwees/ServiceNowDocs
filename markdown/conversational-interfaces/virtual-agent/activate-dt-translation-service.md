@@ -19,9 +19,9 @@ Activate your preferred Dynamic Translation provider and mark it as the default 
 
 **Note:** The following content is only relevant to NLU conversations and live agent LLM conversations that use Dynamic Translation for Agent Chat.
 
-Complete the [prerequisites for using Dynamic Translation in Virtual Agent](../concept/prereq-using-dt-va.md).
+Complete the [prerequisites for using Dynamic Translation in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/prereq-using-dt-va.md).
 
-[Configure Dynamic Translation service integration credentials](configure-translation-srvc-integration-credentials.md).
+[Configure Dynamic Translation service integration credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-translation-srvc-integration-credentials.md).
 
 Role required: admin
 
@@ -42,7 +42,7 @@ Role required: admin
 
 ## What to do next
 
-[Enable Dynamic Translation for languages in Virtual Agent](enable-dynamic-lang-detection.md)
+[Enable Dynamic Translation for languages in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-dynamic-lang-detection.md)
 
-**Parent Topic:**[Localization options for Virtual Agent](../concept/multi-language-options-va.md)
+**Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/multi-language-options-va.md)
 

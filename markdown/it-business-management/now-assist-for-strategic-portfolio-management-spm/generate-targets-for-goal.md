@@ -30,7 +30,7 @@ The skill automatically populates key fields in the Target form, ensuring accura
 
 **Note:** Only the owner or contributors of the goal can create targets for the goal.
 
-![Generate targets in Strategic Planning Workspace using Target generation skill.](../images/target-generation-skill.gif)
+![Generate targets in Strategic Planning Workspace using Target generation skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/target-generation-skill.gif)
 
 ## Procedure
 
@@ -40,7 +40,7 @@ The skill automatically populates key fields in the Target form, ensuring accura
 
 3.  In the Goals view, select the **Goals and targets** tab.
 
-4.  Next to the goal that you want to create a target for, select the row context menu icon \(![Row context menu icon.](../../alignment-planner-workspace/images/action-menu-icon.png)\) and select **Generate target**.
+4.  Next to the goal that you want to create a target for, select the row context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../alignment-planner-workspace/images/action-menu-icon.png)\) and select **Generate target**.
 
 5.  On the Provide context to generate a target window, enter a context to generate a desired target and then select **Generate**.
 
@@ -48,7 +48,7 @@ The skill automatically populates key fields in the Target form, ensuring accura
 
 6.  On the form, verify the filed values and update them as needed.
 
-    For a description of the field values, see [Target form](../../spw-goals/reference/target-form-egm.md).
+    For a description of the field values, see [Target form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../spw-goals/reference/target-form-egm.md).
 
 7.  Select **Save**.
 
@@ -63,12 +63,12 @@ The target progress records are automatically created when you save the target p
 
 ## What to do next
 
-[Update the progress of the target](../../spw-goals/task/update-progress-of-target-egm.md) manually if the target isn’t enabled for target automation.
+[Update the progress of the target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../spw-goals/task/update-progress-of-target-egm.md) manually if the target isn’t enabled for target automation.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Add targets for a goal in Strategic Planning](../../spw-goals/task/set-targets-for-goal-egm.md)
+[Add targets for a goal in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../../spw-goals/task/set-targets-for-goal-egm.md)
 

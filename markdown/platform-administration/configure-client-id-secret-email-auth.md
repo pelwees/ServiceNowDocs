@@ -88,12 +88,12 @@ Role required: Microsoft Azure portal administrator and admin
 
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
-    You use the **OAuth 2.0 token endpoint \(v2\)** when registering an OAuth provider. For more information, see [Register an OAuth provider](register-oauth-cred-flow.md).
+    You use the **OAuth 2.0 token endpoint \(v2\)** when registering an OAuth provider. For more information, see [Register an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-oauth-cred-flow.md).
 
 
 ## What to do next
 
-[Register an OAuth provider](register-oauth-cred-flow.md)
+[Register an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/register-oauth-cred-flow.md)
 
-**Parent Topic:**[Sending email using client credential flow](../concept/send-email-client-credential-flow.md)
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/send-email-client-credential-flow.md)
 

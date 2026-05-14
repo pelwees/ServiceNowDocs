@@ -94,5 +94,5 @@ Gift Policy\[sn\_lg\_gifts\_policy\_configuration\]
 Stores gifts and entertainment policy records.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Gifts and Entertainment Compliance reference](lsd-ge-reference.md)
+</table>**Parent Topic:**[Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 

@@ -81,7 +81,7 @@ Equipment owner
 |Task differentiation|Distinguishes between forecasted and completed tasks.|
 |Expiration capability|Automatically expires unused standards.|
 |Offset flexibility|Supports flexible scheduling to accommodate production changes.|
-|Incomplete schedule indicator|Flags schedules with missing configuration using the icon \(![Incomplete schedule icon.](../image/incomplete-schedule-icon.png)\). Hovering over the icon displays the message "Schedule has incomplete configuration."|
+|Incomplete schedule indicator|Flags schedules with missing configuration using the icon \(![Incomplete schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/incomplete-schedule-icon.png)\). Hovering over the icon displays the message "Schedule has incomplete configuration."|
 
-**Parent Topic:**[Scheduling standards](scheduling-standards.md)
+**Parent Topic:**[Scheduling standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/scheduling-standards.md)
 

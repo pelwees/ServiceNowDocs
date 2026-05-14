@@ -26,11 +26,11 @@ Slack app supports Virtual Agent notifications during conversations.
 
             For example, with the **show notification** command, users can select the notification they want to view.
 
-            ![The user enters "show notification" in the Slack window, and the bot responds with, "Thanks, select the notification you'd like to view," followed by two choices.](../images/Show-Notification-Buttons-slack.png)
+            ![The user enters "show notification" in the Slack window, and the bot responds with, "Thanks, select the notification you'd like to view," followed by two choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/Show-Notification-Buttons-slack.png)
 
         -   Perform or skip the actions for the notification. If users decide to skip the actions, users can return later to the notification by using the **show notification** command.
 
-For detailed information on Virtual Agent notifications, see [Configuring Virtual Agent notifications](configuring-va-notifications.md).
+For detailed information on Virtual Agent notifications, see [Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md).
 
-**Parent Topic:**[Virtual Agent features supported in Slack conversations](va-slack-other-features.md)
+**Parent Topic:**[Virtual Agent features supported in Slack conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-slack-other-features.md)
 

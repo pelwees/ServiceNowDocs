@@ -39,12 +39,12 @@ You can publish a bundled model only under the following conditions:
 5.  Select **OK**.
 
 
-**Parent Topic:**[Bundled models](../concept/c_CreatingBundledModels.md)
+**Parent Topic:**[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_CreatingBundledModels.md)
 
 **Related topics**  
 
 
-[Add model components to a bundle](t_AddingModelComponentsToABundle.md)
+[Add model components to a bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_AddingModelComponentsToABundle.md)
 
-[Remove model components from a bundle](t_RemoveModelCompsFromABundle.md)
+[Remove model components from a bundle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_RemoveModelCompsFromABundle.md)
 

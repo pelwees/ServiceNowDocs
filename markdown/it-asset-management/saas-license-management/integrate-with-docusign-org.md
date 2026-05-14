@@ -44,7 +44,7 @@ Docusign Role required: admin
 
 2.  Go to the Admin tab.
 
-    -   If you already have an API integration key from a previous integration ready for use in production, skip to [step 15](integrate-with-docusign-org.md#docusign-prod-login).
+    -   If you already have an API integration key from a previous integration ready for use in production, skip to [step 15](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#docusign-prod-login).
     -   If you don't have your API integration key saved, you must generate a new one.
 3.  On the side navigation pane, select **Account Profile** and copy the **Organization ID** to secure it for later use.
 
@@ -122,7 +122,7 @@ Role required: admin
 
 2.  Paste the Private key that you had generated from your Docusign integrator app.
 
-    For more information, see [Generate RSA keypair for Docusign integration](integrate-with-docusign-org.md#).
+    For more information, see [Generate RSA keypair for Docusign integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#).
 
     **Note:** Make sure to include both the beginning and ending of the private key.
 
@@ -265,7 +265,7 @@ Organization Id
 
 The organization ID to which this account belongs.You can find this value in your Docusign account on the Admin tab. Navigate to **Account Profile** and copy the **Organization ID**.
 
-![Docusign account profile highlighting the Organization ID](../image/docusign-org-id.png)
+![Docusign account profile highlighting the Organization ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../image/docusign-org-id.png)
 
 </td></tr><tr><td>
 
@@ -278,7 +278,7 @@ The frequency at which envelope consumption gets renewed.For example, if you ent
 </td></tr></tbody>
 </table>3.  Review the required user roles or API permissions specified in the **Process configuration** field for each process to minimize security risks and optimize SaaS licenses.
 
-    **Note:** For more information about the required roles and scopes, see the [Minimal user permissions](integrate-with-docusign-org.md#) table.
+    **Note:** For more information about the required roles and scopes, see the [Minimal user permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#) table.
 
     The **Download subscriptions** check box is selected by default and you can't clear it.
 
@@ -302,14 +302,14 @@ The frequency at which envelope consumption gets renewed.For example, if you ent
     |Connection Name|Name of the connection.|
     |Connection URL|This field is automatically set to **https://api.docusign.net**.|
     |Credential Information|
-    |Integration Key|The API integration key that you had generated in the [Register a Docusign application](integrate-with-docusign-org.md#) procedure.|
-    |Key Pair ID|The key pair ID of the private key that you had generated in the [Generate RSA keypair for Docusign integration](integrate-with-docusign-org.md#) procedure.|
+    |Integration Key|The API integration key that you had generated in the [Register a Docusign application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#) procedure.|
+    |Key Pair ID|The key pair ID of the private key that you had generated in the [Generate RSA keypair for Docusign integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#) procedure.|
     |Audience URI|Enter `account.docusign.com` as the URI.|
-    |Keystore Password|Password associated with the uploaded JKS file that you had created in the [Generate a Java Key Store certificate](integrate-with-docusign-org.md#) procedure.|
+    |Keystore Password|Password associated with the uploaded JKS file that you had created in the [Generate a Java Key Store certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#) procedure.|
 
 8.  Locate the JKS file on your device by selecting **Keystore**.
 
-    For more information on creating the JKS file, see [Generate a Java Key Store certificate](integrate-with-docusign-org.md#).
+    For more information on creating the JKS file, see [Generate a Java Key Store certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md#).
 
 9.  Select **Create and Get OAuth Token**.
 
@@ -332,18 +332,18 @@ After creating an integration profile, view information about the profile in the
 -   Subscription Identifier Exclusion Rule
 -   Subscription User Exclusion Rule
 
-After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](subscription-exclusions.md#).
+After creating an integration profile, you can define subscription exclusion rules to keep certain subscriptions from license cost calculations. For more information, see [Subscription exclusions for SaaS and SSO applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/subscription-exclusions.md#).
 
-If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](../reuse/create-child-alias-saas.md).
+If you want to set up multiple integration profiles with unique connections, create child aliases to manage different configurations and settings for each integration profile. For more information, see [Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reuse/create-child-alias-saas.md).
 
 Create software entitlements for the automatically generated software models to track used software against owned software.
 
--   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](../task/track-software-rights.md).
--   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](../task/create-entitlements-workspace.md).
--   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](../task/guidedwalk-workspace.md).
+-   For more information on creating software entitlements in the Software Asset Management Core UI, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/track-software-rights.md).
+-   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/create-entitlements-workspace.md).
+-   For more information on creating software entitlements using the Software Asset Management Playbook, see [Create entitlements using the guided walk-through](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/guidedwalk-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 
--   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](../task/t_RunReconciliation.md).
--   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](../task/run-recon-workspace.md).
+-   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/t_RunReconciliation.md).
+-   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../task/run-recon-workspace.md).
 

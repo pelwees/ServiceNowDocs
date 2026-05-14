@@ -72,5 +72,5 @@ The following reference topics describe the roles installed with Now Assist and 
     Details the **sn\_nowassist\_admin.user** role, which provides read-only access to the Now Assist Admin console.
 
 
-**Parent Topic:**[Agentic AI security and governance](now-assist-security.md)
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 

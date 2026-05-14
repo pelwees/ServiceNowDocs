@@ -253,7 +253,7 @@ If you are using the Operational Technology Vulnerability Response application w
     4.  Select **SG-OT Microsoft D4IoT Devices Scheduled Import** to review or change the devices import schedule as needed.
 
         -   By default, the devices import schedule is configured to run daily at midnight.
-        -   Devices are queried by sensor. The Service Graph Connector queries for devices detected by validated sensors. For information about configuring Network Intrusion Detection System \(NIDS\) appliances, see [Validate the NIDS](validate-nids.md).
+        -   Devices are queried by sensor. The Service Graph Connector queries for devices detected by validated sensors. For information about configuring Network Intrusion Detection System \(NIDS\) appliances, see [Validate the NIDS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/validate-nids.md).
     5.  Select **Active** to activate the devices import schedule.
 
     6.  Select **SG-OT Microsoft D4IoT Connections Scheduled Import** to review or change the connections import schedule as needed.
@@ -262,5 +262,5 @@ If you are using the Operational Technology Vulnerability Response application w
         -   Connections are only imported if both devices \(Source &amp; Destination in Microsoft API, or Parent &amp; Child in the CMDB\) are already in the CMDB.
         -   Import devices before importing connections.
 
-**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](../concept/integration-sgc-microsoft-defender-iot-on-prem.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/integration-sgc-microsoft-defender-iot-on-prem.md)
 

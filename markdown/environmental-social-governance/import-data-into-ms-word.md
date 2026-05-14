@@ -105,20 +105,20 @@ Role required: sn\_esg\_msoff\_intg.reader
 
     The content control is highlighted in the right pane.
 
-12. To create a claim to be used in the disclosure report, refer to [Create a claim from Microsoft Word](create-a-claim-from-microsoft-word.md).
+12. To create a claim to be used in the disclosure report, refer to [Create a claim from Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-claim-from-microsoft-word.md).
 
 
--   **[Create a claim from Microsoft Word](create-a-claim-from-microsoft-word.md)**  
+-   **[Create a claim from Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-claim-from-microsoft-word.md)**  
 You can create a claim directly from Microsoft Word for use in future disclosures or reports.
 
-**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](../concept/integrating-o365-with-servicenow.md)
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/integrating-o365-with-servicenow.md)
 
 **Related topics**  
 
 
-[Add additional reporting configuration filters for a Microsoft 365 configuration record](add-additional-reporting-filters.md)
+[Add additional reporting configuration filters for a Microsoft 365 configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-additional-reporting-filters.md)
 
-[Add related fields to a Microsoft 365 configuration record](add-related-fields-0365.md)
+[Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md)
 
-[Add the ServiceNow Reporting add-in into Microsoft Word](add-the-sn-esg-addin-into-ms-word.md)
+[Add the ServiceNow Reporting add-in into Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/add-the-sn-esg-addin-into-ms-word.md)
 

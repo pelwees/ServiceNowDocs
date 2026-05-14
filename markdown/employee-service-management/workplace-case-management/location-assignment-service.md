@@ -44,14 +44,14 @@ The service contains the following activities:
     This activity is triggered if no recommended locations are found for the employee. The activity creates a task where a space planner must manually assign a location to the employee.
 
 
-**Parent Topic:**[Workplace Case Management references](../concept/workpalce-case-mgmt-references.md)
+**Parent Topic:**[Workplace Case Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/workpalce-case-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Case Management](components-installed-with-workplace-case-mgmt.md)
+[Components installed with Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/components-installed-with-workplace-case-mgmt.md)
 
-[Properties installed with Workplace Case Management](properties-installed-with-workplace-case-mgmt.md)
+[Properties installed with Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/properties-installed-with-workplace-case-mgmt.md)
 
-[Workplace Service form](workplace-service-form.md)
+[Workplace Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-service-form.md)
 

@@ -29,11 +29,11 @@ Role required: none
 
     The Connect workspace opens in a new tab.
 
-2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](../image/IconSupport.png)\).
+2.  Click the support tab of the Connect sidebar, indicated by a headset icon \(![Support icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconSupport.png)\).
 
-    The support tab displays **Queues** to which you belong. It also displays your open support conversations under **Cases**. When a user starts a support conversation or an agent transfers a conversation to a queue, any agent who belongs to the associated queue can accept the conversation. An agent can also request to [transfer a conversation](t_TransferAConnectSupportConvo.md) directly to you.
+    The support tab displays **Queues** to which you belong. It also displays your open support conversations under **Cases**. When a user starts a support conversation or an agent transfers a conversation to a queue, any agent who belongs to the associated queue can accept the conversation. An agent can also request to [transfer a conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_TransferAConnectSupportConvo.md) directly to you.
 
-    ![The support tab of the Connect sidebar displays queues you belong to and support cases](../image/ConnectSidebarSupportTab.png "Support tab of Connect sidebar")
+    ![The support tab of the Connect sidebar displays queues you belong to and support cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSidebarSupportTab.png "Support tab of Connect sidebar")
 
 3.  Accept a conversation in one of the following ways.
 
@@ -51,7 +51,7 @@ Under **Queues**, click **Accept** by the queue.The conversation opens in the co
 
 </td><td>
 
-Under **Cases**, click **Accept** by a transfer request.![The transfer request contains buttons to Decline or Accept](../image/ConnectSupportTransferRequest.png "Transfer request")
+Under **Cases**, click **Accept** by a transfer request.![The transfer request contains buttons to Decline or Accept](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSupportTransferRequest.png "Transfer request")
 
  The conversation opens in the conversation pane. The agent who transferred the conversation can stay in the conversation.
 
@@ -68,5 +68,5 @@ Under **Cases**, click **Accept** by a transfer request.![The transfer request c
 **Related topics**  
 
 
-[Configure a survey in the Connect chat support](../../../administer/survey-administration/task/take-survey-connect-chat.md)
+[Configure a survey in the Connect chat support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../../administer/survey-administration/task/take-survey-connect-chat.md)
 

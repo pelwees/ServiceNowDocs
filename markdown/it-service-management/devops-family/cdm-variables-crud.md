@@ -43,10 +43,10 @@ Role required: cdm\_editor or cdm\_admin
 
         In this example, the **dbName** variable and several others reside in the **database** folder. In addition, the **backup** folder \(a child of the **database** folder\) holds the **dbServer** variable.
 
-        ![A var folder and its contents](../image/cdm-var-folder-example.png)
+        ![A var folder and its contents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-var-folder-example.png)
 
     -   Create the variable in a dialog box. Follow the procedure in the next step.
-2.  Select the more actions menu icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for the appropriate **vars** folder, select **Create variable**, and then specify its settings.
+2.  Select the more actions menu icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for the appropriate **vars** folder, select **Create variable**, and then specify its settings.
 
 <table id="table_prr_pzv_1qb"><thead><tr><th>
 

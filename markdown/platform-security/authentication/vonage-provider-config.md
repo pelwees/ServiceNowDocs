@@ -23,13 +23,13 @@ Role required: adaptive\_auth\_admin
 
 1.  Navigate to **All** &gt; **System Web Services** &gt; **Outbound** &gt; **REST Message** and perform the REST message configuration based on the information from Vonage API Dashboard.
 
-    ![Vonage API Dashboard](../../../administer/security-center/images/vonage-dashboard.png)
+    ![Vonage API Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-dashboard.png)
 
 2.  Click **New** to create a new **REST Message**.
 
 3.  Provide a **Name** and **Endpoint**.
 
-    ![Vonage REST Message configuration](../../../administer/security-center/images/vonage-rest.png)
+    ![Vonage REST Message configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-rest.png)
 
 4.  Click **Submit**.
 
@@ -40,7 +40,7 @@ Role required: adaptive\_auth\_admin
     -   Endpoint: `https://${baseURL}/sms/json`
     -   Content:`api_key=${apiKey}&api_secret=${apiSecret}&text=${text}&from=${from}&to=${to}`
     -   Content-Type: `application/x-www-form-urlencoded`
-    ![HTTP Method](../../../administer/security-center/images/vonage-http-method.png)
+    ![HTTP Method](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-http-method.png)
 
 7.  Update the record.
 
@@ -52,18 +52,18 @@ Role required: adaptive\_auth\_admin
 
     The apiKey and secret are located in your Vonage account settings in the Vonage Dashboard.
 
-    ![Script](../../../administer/security-center/images/vonage-script.png)
+    ![Script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-script.png)
 
 10. Create a custom Table Phone Numbers with two columns, For example:
 
     -   **Column Label**: User, **Type**: Reference, **Reference**: User \(sys\_user\).
     -   **Column Label**: Phone Number, **Type**: Phone Number\(E164\).
-    ![Phone Number](../../../administer/security-center/images/vonage-phone-number.png)
+    ![Phone Number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-phone-number.png)
 
 11. Create a custom provider in Multi-Factor Provider table.
 
-    ![Provider Configuration page](../../../administer/security-center/images/vonage-provider-config.png)
+    ![Provider Configuration page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../administer/security-center/images/vonage-provider-config.png)
 
-    To know more about provider configuration, see [Configure MFA Provider](configure-mfa-provider.md).
+    To know more about provider configuration, see [Configure MFA Provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-mfa-provider.md).
 
 

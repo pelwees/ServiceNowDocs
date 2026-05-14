@@ -29,13 +29,13 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 4.  Select **Process steps** from the Advanced filters area.
 
-    ![Transitions from Advanced filters area](../image/transition-location-1.png)
+    ![Transitions from Advanced filters area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/transition-location-1.png)
 
     The Process step filter form is displayed.
 
 5.  Fill the Process step filter form with the required conditions.
 
-    ![Process step filter conditions](../image/transition-filter.png)
+    ![Process step filter conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/transition-filter.png)
 
     The predicates available are:
 
@@ -79,7 +79,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     7.  You can copy or paste a process step filter by selecting the **Copy** or **Paste** option from the list.
 
-        ![Copy or paste a filter](../image/copy-process-filter.png)
+        ![Copy or paste a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/copy-process-filter.png)
 
     8.  When you have finished creating your filter, select **Apply** to save and return to **Analyst workbench**.
 
@@ -88,5 +88,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 6.  When the task completes, select **View result** in the Scheduled tasks panel of Analyst workbench.
 
 
-**Parent Topic:**[Applying a process step filter on an activity](node-to-node-conditions.md)
+**Parent Topic:**[Applying a process step filter on an activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/node-to-node-conditions.md)
 

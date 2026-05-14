@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-    ![System applications](../../security-incident-response/image/system-apps.png)
+    ![System applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../security-incident-response/image/system-apps.png)
 
     **Note:**
 
@@ -33,13 +33,13 @@ Role required: admin
 
     For example, if you are activating Security Incident Response, locate the Security Incident Response Dependencies plugin.
 
-    ![Dependency plugin](../../security-incident-response/image/sir-dependencies.png)
+    ![Dependency plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../security-incident-response/image/sir-dependencies.png)
 
 3.  Click **Install**.
 
     The Activate Plugin dialog box appears.
 
-    ![Activate dependency plugin](../../security-incident-response/image/sir-dep-plugin.png)
+    ![Activate dependency plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../security-incident-response/image/sir-dep-plugin.png)
 
 4.  In the Activate Plugin dialog box, click **Activate**.
 

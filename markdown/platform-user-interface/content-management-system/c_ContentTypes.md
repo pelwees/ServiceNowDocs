@@ -37,27 +37,27 @@ Several content types are available by default for tables such as Catalog Item \
 
 Content type defaults that are set for CMS can be overridden for individual sites. Use the **Content Types** related list on the site record to customize content types.
 
--   **[Configure a content type](../task/t_CreateAContentType.md)**  
+-   **[Configure a content type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateAContentType.md)**  
 Users with the content\_admin role can create a content type.
--   **[CMS gauge support](c_CMSGaugeSupport.md)**  
+-   **[CMS gauge support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSGaugeSupport.md)**  
 Gauges are a graphical way to display information from an instance.
--   **[View content types](../task/t_ViewContentTypes.md)**  
+-   **[View content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_ViewContentTypes.md)**  
 The following is an example of where you might use Content Types.
 
-**Parent Topic:**[Configure Content Management sites](../task/t_CreateASite.md)
+**Parent Topic:**[Configure Content Management sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../task/t_CreateASite.md)
 
 **Related topics**  
 
 
-[Content sites](c_ContentSite.md)
+[Content sites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentSite.md)
 
-[Content pages in CMS](c_ContentPages.md)
+[Content pages in CMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentPages.md)
 
-[Content Management templates](c_ContentManagementTemplates.md)
+[Content Management templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTemplates.md)
 
-[Content blocks](c_ContentBlocks.md)
+[Content blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentBlocks.md)
 
-[Style in Content Management](c_StyleInContentManagement.md)
+[Style in Content Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_StyleInContentManagement.md)
 
-[Content Management meta tags](c_ContentManagementMetaTags.md)
+[Content Management meta tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementMetaTags.md)
 

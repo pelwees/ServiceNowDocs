@@ -20,7 +20,7 @@ To begin using standard chat, open your organization's support portal or applica
 
 ## Chatting with the Virtual Agent
 
-![standard chat window example with booking travel](../image/na-va-standard-chat.png "Standard chat")
+![standard chat window example with booking travel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-standard-chat.png "Standard chat")
 
 When chatting with the Virtual Agent, you can enter your questions or describe your issue in plain, natural language. The agent will analyze your input and respond with synthesized answers, suggest relevant knowledge articles, and provide you with suggested next steps.
 
@@ -30,7 +30,7 @@ If your request is unclear or ambiguous, the agent will prompt you with clarifyi
 
 ## Suggested actions
 
-![suggestions to check leave balance, block calendar, and notify teammates](../image/na-va-suggested-actions-standard.png "Suggested actions in standard chat")
+![suggestions to check leave balance, block calendar, and notify teammates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-suggested-actions-standard.png "Suggested actions in standard chat")
 
 Suggested actions provide you with next steps you can take related to your Virtual Agent conversation. After completing a chat topic or request, these suggestions appear under a **Here's what you can do next** header. Selecting a suggested action initiates it directly in the same conversation, carrying over any relevant details such as your name.
 
@@ -42,7 +42,7 @@ Virtual Agent generates its responses using your organization’s knowledge base
 
 ## External content connections citations
 
-![list of record citations](../image/na-va-standard-ext-connector.png "External citations")
+![list of record citations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-standard-ext-connector.png "External citations")
 
 If external search sources have been configured by your organization, you can search through external content connections. This can include information from attachments and knowledge blocks, or from the following list of content connections:
 
@@ -59,7 +59,7 @@ Sources display with icons that indicate the type of record type each source is,
 
 ## Doc QnA
 
-![Now Assist summary of an attached PDF](../image/na-doc-qna.png "Mobile Doc QnA")
+![Now Assist summary of an attached PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-doc-qna.png "Mobile Doc QnA")
 
 Doc QnA enables you to upload documents to your Virtual Agent conversation. Now Assist can then generate a summary or answer questions using the document you provided.
 
@@ -73,15 +73,15 @@ ServiceNow AI Lens leverages generative AI to scan, extract, and interpret data 
 
 When you start a new Virtual Agent chat, select **Show all my options** to view the option to open ServiceNow AI Lens. Now Assist then gives you the option to choose an existing image or open your camera app to take a new photo. Once an image is selected, Now Assist allows you to input additional directions for how the image should be analyzed.
 
-For more information, see [ServiceNow AI Lens for mobile](servicenow-lens-mobile.md).
+For more information, see [ServiceNow AI Lens for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/servicenow-lens-mobile.md).
 
 ## Web search mode
 
-![Virtual Agent displaying internet search results](../image/na-web-search.png "Mobile web search mode")
+![Virtual Agent displaying internet search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-web-search.png "Mobile web search mode")
 
 Web search mode in Now Assist enables you to search the internet directly from within your chat, displaying external results rather than internal company information. Select the Start web search mode icon \(![](../image/na-web-search-icon.png)\) to enter web search mode.
 
-While active, all user queries are answered using internet search results, and a banner shows that web search mode is enabled. The identifying banner disappears once web search mode is ended. For additional information, see [Using Now Assist web search on mobile](using-na-web-search-mobile.md).
+While active, all user queries are answered using internet search results, and a banner shows that web search mode is enabled. The identifying banner disappears once web search mode is ended. For additional information, see [Using Now Assist web search on mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-na-web-search-mobile.md).
 
 ## Feedback and additional support
 
@@ -91,13 +91,13 @@ If you find that your issue can’t be resolved through the Virtual Agent alone,
 
 ## Push notifications
 
-![Virtual Agent push notifications on a phone locked screen](../image/na-va-push-notification.png "Virtual Agent push notifications")
+![Virtual Agent push notifications on a phone locked screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-push-notification.png "Virtual Agent push notifications")
 
 When progress has been made on a request submitted via Virtual Agent, you’ll receive a push notification. Tapping the notification opens the Virtual Agent chat in your mobile app.
 
 ## People citations
 
-![User asking Now Assist for information on an employee named Alisa](../image/na-va-people-citations-standard.png "People citations in standard chat")
+![User asking Now Assist for information on an employee named Alisa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/na-va-people-citations-standard.png "People citations in standard chat")
 
 You can find information about people in your organization if you have Knowledge Graph activated. The system displays up to three possible matches, with inline citations and a Sources section for more details. Selecting a person's name takes you to their user profile, while selecting the numbered citation shows a popover with details like manager, location, email, teams, phone, and shared files.
 
@@ -107,5 +107,5 @@ For more detailed information on all of standard chat’s specific skills, see [
 
 For information on configuring Virtual Agent, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
-**Parent Topic:**[Using Now Assist for Mobile](using-now-assist-mobile.md)
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 

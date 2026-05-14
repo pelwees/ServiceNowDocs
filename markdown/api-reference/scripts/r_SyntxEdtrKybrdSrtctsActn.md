@@ -52,7 +52,7 @@ Displays a list of valid elements at the insertion point such as:
 
 </td><td>
 
-![A line of code for a variable definition with a pop-up window displaying potential scripting elements.](../image/ScriptingAssistanceSuggestions.png)
+![A line of code for a variable definition with a pop-up window displaying potential scripting elements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceSuggestions.png)
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ Displays a list methods for the class.
 
 </td><td>
 
-![A line of code for a variable definition with a pop-up window displaying potential scripting elements.](../image/ScriptingAssistanceMatchingSuggestionsMethods.png)
+![A line of code for a variable definition with a pop-up window displaying potential scripting elements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceMatchingSuggestionsMethods.png)
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Displays the expected parameters for the class or method.
 
 </td><td>
 
-![A line of code for a variable defining a method call. There is a pop-up window displaying potential scripting elements.](../image/ScriptingAssistanceParameters.png)
+![A line of code for a variable defining a method call. There is a pop-up window displaying potential scripting elements.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceParameters.png)
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Formats the selected lines to improve readability.
 
 </td><td>
 
-![Several lines of unformatted code](../image/ScriptingAssistanceUnformattedCode.png)![Several lines of code formatted for readability](../image/ScriptingAssistanceFormattedCode.png)
+![Several lines of unformatted code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceUnformattedCode.png)![Several lines of code formatted for readability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceFormattedCode.png)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Adds or removes the comment characters `//` from the selected lines.
 
 </td><td>
 
-![A line of code selected with no comment characters](../image/ScriptingAssistanceUncommentedCode.png)![A line of code selected with comment characters added to the front of the line.](../image/ScriptingAssistanceCommentedCode.png)
+![A line of code selected with no comment characters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceUncommentedCode.png)![A line of code selected with comment characters added to the front of the line.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceCommentedCode.png)
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Inserts macro text at the current position.
 
 </td><td>
 
-![A line of code containing the string help.](../image/ScriptingAssistanceMacroTyped.png)![The macro text for help added to the script.](../image/ScriptingAssistanceMacroAdded.png)
+![A line of code containing the string help.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceMacroTyped.png)![The macro text for help added to the script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceMacroAdded.png)
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
@@ -160,7 +160,7 @@ Highlights all occurrences of a search term in the script field and locates the 
 
 </td><td>
 
-![A search field with the term gr.](../image/ScriptingAssistanceSearchTerm.png)![The search results of the search term gr displaying four highlighted items. The first search result is selected.](../image/ScriptingAssistanceSearchResults.png)
+![A search field with the term gr.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceSearchTerm.png)![The search results of the search term gr displaying four highlighted items. The first search result is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceSearchResults.png)
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Locates the next occurrence of the current search term in the script field. Use 
 
 </td><td>
 
-![The search results of the search term gr displaying four highlighted items. The second search result is selected.](../image/ScriptingAssistanceFindNext.png)
+![The search results of the search term gr displaying four highlighted items. The second search result is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceFindNext.png)
 
 </td></tr><tr><td>
 
@@ -188,7 +188,7 @@ Locates the previous occurrence of the current search term in the script field. 
 
 </td><td>
 
-![The search results of the search term gr displaying four highlighted items. The first search result is selected.](../image/ScriptingAssistanceSearchResults.png)
+![The search results of the search term gr displaying four highlighted items. The first search result is selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceSearchResults.png)
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Replaces the next occurrence of a text string in the script field.
 
 </td><td>
 
-![A replace field with the string gr.](../image/ScriptingAssistanceReplaceSearchTerm.png)![A replace with field with the string gl.](../image/ScriptingAssistanceReplaceWith.png)![A replace confirmation dialog with options for Yes, No, and Stop](../image/ScriptingAssistanceReplaceConfirm.png)
+![A replace field with the string gr.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceReplaceSearchTerm.png)![A replace with field with the string gl.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceReplaceWith.png)![A replace confirmation dialog with options for Yes, No, and Stop](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceReplaceConfirm.png)
 
 </td></tr><tr><td>
 
@@ -218,7 +218,7 @@ Replaces all occurrences of a text string in the script field.
 
 </td><td>
 
-![A replace field with the search term gr.](../image/ScriptingAssistanceReplaceAllSearchTerm.png)![A replace with field with the string gl.](../image/ScriptingAssistanceReplaceAllWith.png)
+![A replace field with the search term gr.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceReplaceAllSearchTerm.png)![A replace with field with the string gl.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceReplaceAllWith.png)
 
 </td></tr><tr><td class="sub-head" colspan="3">
 
@@ -237,7 +237,7 @@ Displays the list of syntax editor keyboard shortcuts.
 
 </td><td>
 
-![A pop-up window displaying the keyboard shortcuts for the Syntax Editor.](../image/SyntaxEditorHelp.png)
+![A pop-up window displaying the keyboard shortcuts for the Syntax Editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/SyntaxEditorHelp.png)
 
 </td></tr><tr><td>
 
@@ -252,7 +252,7 @@ Displays API documentation for the scripting element at the cursor's current loc
 
 </td><td>
 
-![A line of code selected with a pop-up window displaying API help for the GlideRecord object](../image/ScriptingAssistanceAPIdoc.png)
+![A line of code selected with a pop-up window displaying API help for the GlideRecord object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceAPIdoc.png)
 
 </td></tr><tr><td>
 
@@ -267,8 +267,8 @@ Displays the list of available syntax editor macros as text within the script fi
 
 </td><td>
 
-![A line of code containing the string help.](../image/ScriptingAssistanceMacroTyped.png)![The macro text for help added to the script.](../image/ScriptingAssistanceMacroAdded.png)
+![A line of code containing the string help.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceMacroTyped.png)![The macro text for help added to the script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptingAssistanceMacroAdded.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using the JavaScript syntax editor](r_EdtJvaScptWSyntxEdtr.md)
+</table>**Parent Topic:**[Using the JavaScript syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/r_EdtJvaScptWSyntxEdtr.md)
 

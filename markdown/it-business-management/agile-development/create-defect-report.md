@@ -140,7 +140,7 @@ The defect is created and the form reopens with the Stories related list. The li
 
 ## What to do next
 
-A scrum product owner can review the defect and decide if a story must be created for it. See [Create a story in Agile Development 2.0](create-a-story.md).
+A scrum product owner can review the defect and decide if a story must be created for it. See [Create a story in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-story.md).
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/using-agile-development-2-0.md)
 

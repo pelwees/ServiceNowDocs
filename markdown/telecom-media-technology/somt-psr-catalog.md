@@ -17,7 +17,7 @@ The Sales CRM for Telecommunications PSR catalog consolidates product, service, 
 
 Because the catalog defines and maps all necessary entities in one place, you don't need explicit entity-to-entity API mapping or separate product data harmonization across sales and service catalogs.
 
-![Sales CRM for Telecommunications PSR catalog](../image/somt-psr-catalog.jpg)
+![Sales CRM for Telecommunications PSR catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/somt-psr-catalog.jpg)
 
 ## PSR catalog hierarchy
 

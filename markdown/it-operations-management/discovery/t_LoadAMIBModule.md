@@ -49,7 +49,7 @@ You can view any errors associated with loading a MIB module in the agent log.
     -   **Source**: Use this field to note where the MIB was acquired, such as a URL.
     -   **Description**: The description that appears in the ecc\_agent\_mib table.
     -   **Active**: This check box denotes whether the MIB module is enabled or disabled in the instance.
-5.  Click the Add Attachment icon \(![attachment icon](../../../common/image/AttachmentIcon.png)\) in the upper right to attach the actual MIB file to the new record.
+5.  Click the Add Attachment icon \(![attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../common/image/AttachmentIcon.png)\) in the upper right to attach the actual MIB file to the new record.
 
     The MIB name must begin with an alphabetical character. Remaining characters must be one of the following: alphanumeric, hyphen \( - \), or underscore \( \_ \). The file name must not have an extension. You can reference the existing MIBs for examples. Use the actual name of the MIB for both the MIB record name and the attachment name, but it is not required.
 
@@ -60,5 +60,5 @@ You can view any errors associated with loading a MIB module in the agent log.
 
 Update the appropriate pattern or probe to query for the specific OID values defined in the new MIB.
 
-**Parent Topic:**[SNMP probes](../concept/c_SNMPProbe.md)
+**Parent Topic:**[SNMP probes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_SNMPProbe.md)
 

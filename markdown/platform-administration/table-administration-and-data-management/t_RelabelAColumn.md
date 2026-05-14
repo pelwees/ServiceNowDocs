@@ -41,9 +41,9 @@ To create clear reports, relabel the fields on the Database View \[sys\_db\_view
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Joining tables using database views](c_CreatingDatabaseViews.md)
+**Parent Topic:**[Joining tables using database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_CreatingDatabaseViews.md)
 
-**Previous topic:**[Specify a field to return](../concept/c_SpecifyAFieldToReturn.md)
+**Previous topic:**[Specify a field to return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_SpecifyAFieldToReturn.md)
 
-**Next topic:**[Configuring the number of records to return](../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
+**Next topic:**[Configuring the number of records to return](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_SpecifyTheNumberOfRecordsToReturn.md)
 

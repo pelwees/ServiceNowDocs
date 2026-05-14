@@ -28,9 +28,9 @@ Data from the short description field and the filter conditions set in the incid
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace.**
 
-2.  Using the List icon \(![List icon](../../../common/image/icon-list.png)\), open an incident that is not in **Closed** or **Complete** state.
+2.  Using the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-list.png)\), open an incident that is not in **Closed** or **Complete** state.
 
-3.  Select the Recommendations icon \(![Output class icon](../image/now-assist-itsm-recommendations-icon.png)\).
+3.  Select the Recommendations icon \(![Output class icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-recommendations-icon.png)\).
 
     The **Recommended actions** tab displays.
 
@@ -38,6 +38,6 @@ Data from the short description field and the filter conditions set in the incid
 
     The steps to resolve the incident appear in the **Recommendations** window in the incident record. This action may take a few minutes.
 
-    ![Suggested steps in Now Assist](../image/now-assist-itsm-suggested-steps.png)
+    ![Suggested steps in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-suggested-steps.png)
 
 

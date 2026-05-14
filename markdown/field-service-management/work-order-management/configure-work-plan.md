@@ -27,7 +27,7 @@ You can create a single schedule or multiple schedules for a work plan. For exam
 
 **Note:** Plan carefully when defining multiple work schedules for the same plan. For example, you set up one schedule to replace a printer cartridge every three months. You set up another schedule to replace the cartridge after every 10,000 pages is printed. This conflict could cause the cartridge to be replaced twice in the same week. Ensure that your schedules don’t conflict with one another.
 
-You can also create planned work schedules through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the **List** icon \(![List icon.](../image/ListIcon.png)\).
+You can also create planned work schedules through the Planned Work Management Workspace. Navigate to **All** &gt; **Planned Work Management** &gt; **Workspace**, and then select the **List** icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/ListIcon.png)\).
 
 ## Procedure
 
@@ -77,7 +77,7 @@ Timing condition that triggers the execution of the plan. -   **Duration:** work
 
 With the Duration or Meter trigger selected, the **Next run time** and **Next run value** fields are populated in the Planned Work Records related list on the Work Plan form.
 
-For more information on triggers and examples, see [Learn about triggers for work schedules](../reference/schedule-trigger-types.md)
+For more information on triggers and examples, see [Learn about triggers for work schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/schedule-trigger-types.md)
 
 </td></tr><tr><td>
 
@@ -311,5 +311,5 @@ Determine how often the planned work is scheduled to be performed. For example, 
 
 The schedule is created for a work plan. The Schedule Occurrences related list is added to the schedule to track the occurrence of maintenance cycles for the schedule.
 
-The schedule occurrences are created automatically for duration-based schedules. However, if a different trigger option is selected for a schedule, the occurrence is created only when the specified condition or meter value is met. The creations of schedule occurrences depend on the effective end date. If no effective end date is specified, the application generates the next occurrence of the schedule. For more information, see [View schedule occurrences for a planned work](view-schedule-occurrences-for-a-planned-work.md).
+The schedule occurrences are created automatically for duration-based schedules. However, if a different trigger option is selected for a schedule, the occurrence is created only when the specified condition or meter value is met. The creations of schedule occurrences depend on the effective end date. If no effective end date is specified, the application generates the next occurrence of the schedule. For more information, see [View schedule occurrences for a planned work](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/view-schedule-occurrences-for-a-planned-work.md).
 

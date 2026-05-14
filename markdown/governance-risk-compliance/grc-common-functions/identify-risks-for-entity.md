@@ -22,7 +22,7 @@ Role required: sn\_grc\_sharegenai.risk\_suggestion\_aiagent\_user
 Make sure that the following prerequisites are met to use this feature:
 
 -   Now Assist for IRM and any Workspace must be installed.
--   Suggest potential risks workflow and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-agentic-workflows.md).
+-   Suggest potential risks workflow and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/task/activate-agentic-workflows.md).
 
 ## Procedure
 
@@ -38,11 +38,11 @@ Make sure that the following prerequisites are met to use this feature:
 
 5.  Navigate to the **Risks** tab and select **Suggested risks**.
 
-6.  Select the **Suggest risks** button.![Suggest risks button.](../image/suggest-risks.png)
+6.  Select the **Suggest risks** button.![Suggest risks button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/suggest-risks.png)
 
     A conversational assistant opens within the Now Assist panel.
 
-7.  Interact with the conversational AI agent by responding to its questions to identify potential risks.![Now Assist panel displaying the conversational chat.](../image/risk-suggestion-ai-agent.png)
+7.  Interact with the conversational AI agent by responding to its questions to identify potential risks.![Now Assist panel displaying the conversational chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/risk-suggestion-ai-agent.png)
 
     The agent automatically pulls the entity context, guides you through risk domain selection, and surfaces relevant risks from internal, industry, and external sources. During this process, it automatically removes any duplicate suggestions that exist. After selecting risk types, you can provide additional context to refine search results, with the agent dynamically asking follow‑up questions when needed.
 
@@ -54,7 +54,7 @@ Make sure that the following prerequisites are met to use this feature:
 
     If you select **Yes**, the risks are added to the suggested risks section.
 
-10. Review the listed risks for accuracy and make any necessary changes before creating them.![Suggested risk records](../image/traige-risk-records.png)
+10. Review the listed risks for accuracy and make any necessary changes before creating them.![Suggested risk records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/traige-risk-records.png)
 
     Risks identified from existing risk statements are listed under Risks from risk statements. Any newly identified Risks are listed under the Ad-hoc risks type.
 

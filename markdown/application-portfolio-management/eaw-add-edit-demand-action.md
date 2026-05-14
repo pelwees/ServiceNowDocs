@@ -21,9 +21,9 @@ Role required: admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![Setup icon](../../image/eaw-image/setup-icon.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Demand Actions**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Demand Actions**.
 
 4.  Select **All**.
 
@@ -33,15 +33,15 @@ Role required: admin
     -   To update details of an existing demand action, select an action, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Demand Actions Form](../../reference/eaw-reference/eaw-demand-action-form.md).
+    For field information, see [Demand Actions Form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-demand-action-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure demand actions](../../concept/eaw-concept/eaw-setup-demand-actions.md)
+**Parent Topic:**[Configure demand actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-demand-actions.md)
 
 **Related topics**  
 
 
-[View all demand-actions](eaw-view-demand-actions.md)
+[View all demand-actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-demand-actions.md)
 

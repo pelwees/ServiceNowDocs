@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Show all buttons without the need to hover accessibility preference.
 
-![Show all buttons without the need to hover accessibility preference.](../image/coral-pref-no-hover.png)
+![Show all buttons without the need to hover accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-no-hover.png)
 
 The purpose of this preference is to improve discoverability and usability.
 
@@ -60,13 +60,13 @@ Deactivated
 
 All buttons and interactive elements are visible without needing to hover.
 
-![All menu with each button displayed with Show all buttons without need to hover preference turned on.](../image/a11y-pref-hover-on.png)
+![All menu with each button displayed with Show all buttons without need to hover preference turned on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-hover-on.png)
 
 </td><td>
 
 Some buttons or elements are hidden until hovered over.
 
-![All menu with buttons displayed only with hover.](../image/a11y-pref-hover-off.png)
+![All menu with buttons displayed only with hover.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-hover-off.png)
 
 </td></tr></tbody>
 </table>

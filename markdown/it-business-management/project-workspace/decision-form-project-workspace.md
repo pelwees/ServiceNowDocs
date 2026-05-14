@@ -128,7 +128,7 @@ Short description
 
 Brief description of the decision such as what the decision is about, who made it, what it affects, and the decision outcome.As you start entering the title for your decision, related decisions that potentially match your decision are displayed.
 
- Click the suggestion icon \(![Suggestion icon](../../planning-and-policy/image/suggestions-icon.png)\) to select a description from the list of predefined decision descriptions.
+ Click the suggestion icon \(![Suggestion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../planning-and-policy/image/suggestions-icon.png)\) to select a description from the list of predefined decision descriptions.
 
 </td></tr><tr><td>
 
@@ -147,5 +147,5 @@ Work notes
 Information to record and track the status of decision implementation or approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Project Workspace](form-field-information-for-project-workspace.md)
+</table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 

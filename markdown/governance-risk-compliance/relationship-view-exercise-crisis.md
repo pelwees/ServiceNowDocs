@@ -33,7 +33,7 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     The 360° view for the selected event is displayed as shown in the example.
 
-    ![360-view-events.](../image/360-ex-view.png)
+    ![360-view-events.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/360-ex-view.png)
 
     The 360° view for the selected event shows these details:
 
@@ -45,5 +45,5 @@ The configurations for the 360° view are stored in **360° View Configurations*
 4.  Select the event or list view in the breadcrumb navigation to open the original event record.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

@@ -23,5 +23,5 @@ You can see the original SOAP request message, the resulting HTTP status code, a
 
 **Note:** A test SOAP message will time out after 60 seconds if a response is not received.
 
-**Parent Topic:**[SOAP message](c_SOAPMessage.md)
+**Parent Topic:**[SOAP message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SOAPMessage.md)
 

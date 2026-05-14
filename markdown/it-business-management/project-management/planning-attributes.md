@@ -17,7 +17,7 @@ Planning attributes are designed to define and work on attribute-based resource 
 
 An attribute is a property or a characteristic defined as a resource or a task type, which is considered for attribute-based planning. These attributes can be used for resource management and financial planning.
 
-After the planning attributes are identified, as an admin, you can [create or edit planning attributes](../task/configure-planning-attributes.md#) based on project requirements and metadata available from the resource table. Working on creating planning attributes involves identifying and defining the attributes to use for a project planning process.
+After the planning attributes are identified, as an admin, you can [create or edit planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/configure-planning-attributes.md#) based on project requirements and metadata available from the resource table. Working on creating planning attributes involves identifying and defining the attributes to use for a project planning process.
 
 <table id="table_yks_wgm_vwb"><thead><tr><th>
 
@@ -53,14 +53,14 @@ Project Manager \(Project Financials\)
 
 |Attribute name|Resource Management|Financials|
 |--------------|-------------------|----------|
-|Employee Type|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Expense Type|![No](../../../reuse/images/icon-error-red-x.png).|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Group|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|
-|Role|![Yes](../../../reuse/images/icon-check-mark-green.png)|![Yes](../../../reuse/images/icon-check-mark-green.png)|
-|Skill|![Yes](../../../reuse/images/icon-check-mark-green.png)|![No](../../../reuse/images/icon-error-red-x.png)|
+|Employee Type|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|
+|Expense Type|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-error-red-x.png).|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|
+|Group|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-error-red-x.png)|
+|Role|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|
+|Skill|![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-check-mark-green.png)|![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../../../reuse/images/icon-error-red-x.png)|
 
 **Related topics**  
 
 
-[Create or edit planning attributes](../task/configure-planning-attributes.md#)
+[Create or edit planning attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/configure-planning-attributes.md#)
 

@@ -37,7 +37,7 @@ Role required: admin
         |Active|Specifies if the formatter is active.|
         |Type|The type of the formatter. In this case, specify `Formatter`.|
 
-        ![Screenshot for the UI formatter.](../image/UIFormatter.png "UI formatter")
+        ![Screenshot for the UI formatter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/UIFormatter.png "UI formatter")
 
     4.  Click **Submit**.
 
@@ -45,18 +45,18 @@ Role required: admin
 
     The formatter is displayed on the form according to your selections.
 
-    1.  From the **Additional Actions** ![Icon for additional actions.](../image/AdditinalActions.png) menu on the form, select **Configure** &gt; **Form Layout**.
+    1.  From the **Additional Actions** ![Icon for additional actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/AdditinalActions.png) menu on the form, select **Configure** &gt; **Form Layout**.
 
     2.  Use the list to select the display order for the formatter field.
 
-        ![Screenshot for adding a formatter to a form.](../image/AddFormtrToForm.png "Add a formatter to a form")
+        ![Screenshot for adding a formatter to a form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/AddFormtrToForm.png "Add a formatter to a form")
 
     3.  Click **Save**.
 
         The default variable editor is available on the form.
 
-        ![Screenshot for the default variable editor.](../image/DefaultVariableEditor.png "Default variable editor")
+        ![Screenshot for the default variable editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/DefaultVariableEditor.png "Default variable editor")
 
 
-**Parent Topic:**[Service Catalog variable editors](../concept/service-catalog-variable-editor.md)
+**Parent Topic:**[Service Catalog variable editors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-variable-editor.md)
 

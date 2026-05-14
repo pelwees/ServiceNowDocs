@@ -13,7 +13,7 @@ breadcrumb: [Request Management Platform Analytics Solutions, Request Management
 
 Use this dashboard when you wish to dive into open requests for items divided by State: Pending, Work in Progress, or all Open requests.
 
-![Open Requested Item State Monitor reflecting requests in the Pending state](../image/open-req-item-state-monitor.png "Open Requested Item State Monitor focused on Pending requests")
+![Open Requested Item State Monitor reflecting requests in the Pending state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/open-req-item-state-monitor.png "Open Requested Item State Monitor focused on Pending requests")
 
 ## Indicators
 
@@ -72,5 +72,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Stage
 -   State
 
-**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

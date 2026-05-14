@@ -31,5 +31,5 @@ The following table describes how different field types are affected by export c
 |Price \(calculated\)|Value with the currency symbol.|USD value without the currency symbol.|
 |Price \(fixed\)|Value with the currency symbol.|USD value without the currency symbol.|
 
-**Parent Topic:**[Data export reference](data-export-reference.md)
+**Parent Topic:**[Data export reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/data-export-reference.md)
 

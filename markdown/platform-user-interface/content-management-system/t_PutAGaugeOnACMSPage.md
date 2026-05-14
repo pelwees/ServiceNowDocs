@@ -30,12 +30,12 @@ Role required: content\_admin or admin
 4.  Place the gauge on the page in the desired location.
 
 
-**Parent Topic:**[CMS gauge support](../concept/c_CMSGaugeSupport.md)
+**Parent Topic:**[CMS gauge support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_CMSGaugeSupport.md)
 
 **Related topics**  
 
 
-[CMS gauge support](../concept/c_CMSGaugeSupport.md)
+[CMS gauge support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_CMSGaugeSupport.md)
 
-[Control what happens on a click](../reference/r_ControlWhatHappensOnAClick.md)
+[Control what happens on a click](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../reference/r_ControlWhatHappensOnAClick.md)
 

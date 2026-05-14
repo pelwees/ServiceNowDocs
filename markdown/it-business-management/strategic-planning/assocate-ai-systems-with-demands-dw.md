@@ -25,7 +25,7 @@ Create AI systems from directly within the demand workflow and associate them wi
 
 1.  Open a demand from the home page of Next Experience for Demand Management.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select a demand record from the **All Demands** list.
 
@@ -33,13 +33,13 @@ Create AI systems from directly within the demand workflow and associate them wi
 
 4.  Select the **Create AI System** button to create an AI system in the AI Control Tower workspace.
 
-    For more information on creating AI systems, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md).![Create AI System option is available on the Details page.](../images/create-ai-system-button.png)
+    For more information on creating AI systems, see [Create AI system assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-ai-system-assets.md).![Create AI System option is available on the Details page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/create-ai-system-button.png)
 
 
 ## What to do next
 
 Associate your demands with the created AI systems:
 
--   Using the AI checkpoint stage in your demand playbook. For more information, see [Use Playbooks](use-playbooks-in-dw.md).
+-   Using the AI checkpoint stage in your demand playbook. For more information, see [Use Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
 -   Using the **AI Associations** section in the **Details** tab.
 

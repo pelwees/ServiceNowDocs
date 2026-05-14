@@ -39,7 +39,7 @@ For existing assessments, the Supports smart assessment option is set automatica
 
 3.  On the form, fill in the fields.
 
-    For more information about the field descriptions, see [Create new external assessment template form](../reference/create-assess-template-form.md).
+    For more information about the field descriptions, see [Create new external assessment template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../reference/create-assess-template-form.md).
 
 4.  Select **Submit**.
 
@@ -112,9 +112,9 @@ In the Vendor Management Workspace, navigate to the SAE Document request templat
 **Related topics**  
 
 
-[Create a questionnaire or document request template](create-questionnaire-template.md)
+[Create a questionnaire or document request template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-questionnaire-template.md)
 
-[Create a questionnaire or document request template using the Designer](create-question-template.md)
+[Create a questionnaire or document request template using the Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-question-template.md)
 
-[Create a TPRM SAE questionnaire or document request template](create-sae-q-template.md)
+[Create a TPRM SAE questionnaire or document request template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-sae-q-template.md)
 

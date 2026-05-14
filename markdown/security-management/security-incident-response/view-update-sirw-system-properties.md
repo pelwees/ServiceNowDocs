@@ -15,35 +15,35 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 View and update the Security Incident Response Workspace system properties from the Security Incident Response Workspace administration panel to access and update the required properties.
 
--   **[Configure default landing tab for security analysts](../task/configure-default-landing-tab.md)**  
+-   **[Configure default landing tab for security analysts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configure-default-landing-tab.md)**  
 Configure the default landing tab \(Overview or Details\) for security analysts when they select a security incident so they directly land on the page where they need to work on.
--   **[Configure auto refresh interval for security incident lists](../task/configure-auto-refresh-for-security-incident-lists.md)**  
+-   **[Configure auto refresh interval for security incident lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configure-auto-refresh-for-security-incident-lists.md)**  
 Configure the refresh interval for security incident lists for automatic update of the security incident list ensuring an updated list for the security analysts.
--   **[Configure default view for contextual menu](../task/configure-default-view-for-contextual-menu.md)**  
+-   **[Configure default view for contextual menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/configure-default-view-for-contextual-menu.md)**  
 Configure whether the contextual menu panel for a security incident is expanded or collapsed by default.
 
-**Parent Topic:**[Configuring SIR Workspace](../reference/configuring-security-incident-response-workspace.md)
+**Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/configuring-security-incident-response-workspace.md)
 
 **Related topics**  
 
 
-[Set up view of SIR Records](set-up-view-of-sir-records.md)
+[Set up view of SIR Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/set-up-view-of-sir-records.md)
 
-[Configure SI design time investigation](configure-investigation-canvas-records.md)
+[Configure SI design time investigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md)
 
-[SIR Workspace Related Records](sir-records.md#)
+[SIR Workspace Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-records.md#)
 
-[Define the new Risk Score Calculator Rules](../task/define-risk-score-calculator-rules-sir.md)
+[Define the new Risk Score Calculator Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/define-risk-score-calculator-rules-sir.md)
 
-[Configure Shift Handover](config-shift-handover.md)
+[Configure Shift Handover](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/config-shift-handover.md)
 
-[Security Incident Response conference call integration](sir-conf-call-capability.md)
+[Security Incident Response conference call integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-conf-call-capability.md)
 
-[Configure report templates in Security Incident Response](daily-status-sir.md)
+[Configure report templates in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/daily-status-sir.md)
 
-[On-Call scheduling in Security Incident Response](on-call-schedule-sir.md)
+[On-Call scheduling in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/on-call-schedule-sir.md)
 
-[Category management in Security Incident Response](category-management-sir.md)
+[Category management in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/category-management-sir.md)
 
-[Create quick filters for Security Incidents and Response Tasks lists](../task/create-quick-filters-for-security-incidents.md)
+[Create quick filters for Security Incidents and Response Tasks lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/create-quick-filters-for-security-incidents.md)
 

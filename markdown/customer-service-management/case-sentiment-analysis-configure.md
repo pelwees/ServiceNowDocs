@@ -69,11 +69,11 @@ The sentiment analysis feature adds the following fields:
 
 </td></tr><tr><td>
 
-Use the [Task Intelligence Admin Console](csm-task-intel-admin-center.md) to create and deploy a sentiment model.
+Use the [Task Intelligence Admin Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md) to create and deploy a sentiment model.
 
 </td><td>
 
-See [Create a model to predict case sentiment](csm-task-intel-create-sentiment-solution.md).
+See [Create a model to predict case sentiment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md).
 
 </td></tr></tbody>
 </table>## Configure sentiment analysis fields
@@ -86,7 +86,7 @@ The sentiment analysis feature uses the following fields to display sentiment pr
 
 Add the sentiment fields to Case list views and to the Case form for CSM Configurable Workspace, CSM Agent Workspace, and Core UI.
 
--   In CSM Configurable Workspace, these fields appear as secondary values in the configurable form header. You can configure secondary values to display either below the primary value at the top of the form or in the Record Information tab in the contextual side panel. \(For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](../task/config-csm-display-header-in-sidebar.md).\)
+-   In CSM Configurable Workspace, these fields appear as secondary values in the configurable form header. You can configure secondary values to display either below the primary value at the top of the form or in the Record Information tab in the contextual side panel. \(For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-display-header-in-sidebar.md).\)
 -   In CSM Agent Workspace, these fields appear in the Case form header.
 -   In Core UI, these fields appear on the Case form.
 
@@ -208,5 +208,5 @@ To add the sentiment fields to the Case form:
 **Related topics**  
 
 
-[Sentiment Analysis](case-sentiment-analysis.md)
+[Sentiment Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis.md)
 

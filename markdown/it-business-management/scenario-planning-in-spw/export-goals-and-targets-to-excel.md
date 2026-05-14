@@ -33,7 +33,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user and sn\_align\_core.apw\_user
 
 5.  Use the Personalize side panel to export the data of your goals and targets.
 
-    1.  Select Export icon \(![Export icon.](../../alignment-planner-workspace/images/icon-export-data.png)\).
+    1.  Select Export icon \(![Export icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-export-data.png)\).
 
     2.  From the **File type** drop-down on the Export window, select **Excel** or **CSV** to export the data to a Microsoft Excel or CSV file respectively.
 

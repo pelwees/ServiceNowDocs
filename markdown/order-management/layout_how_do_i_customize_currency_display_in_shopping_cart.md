@@ -21,17 +21,17 @@ The CPQ shopping cart displays amounts according to the Currency ISO Code partne
 
 By default, the shopping cart displays the ISO code to the left of the currency amount.
 
-![shopping cart currency display options](../images/cpq-layout-currency-display-iso-code.png)
+![shopping cart currency display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-currency-display-iso-code.png)
 
 However, the currency symbol can be displayed instead.
 
-![shopping cart currency display options](../images/cpq-layout-currency-display-symbol.png)
+![shopping cart currency display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-currency-display-symbol.png)
 
 ## Setting the shopping cart currency display with the layout editor
 
-The shopping cart currency display is defined in the layout properties, which can be found in the layout editor. For more information, see [Customizing the CPQ UI header](layout_how_do_i_customize_the_logik_io_ui_header.md)
+The shopping cart currency display is defined in the layout properties, which can be found in the layout editor. For more information, see [Customizing the CPQ UI header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_the_logik_io_ui_header.md)
 
-![shopping cart currency display options](../images/cpq-layout-currency-display-settings.png)
+![shopping cart currency display options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-currency-display-settings.png)
 
 Three currency display options are available:
 
@@ -42,7 +42,7 @@ Three currency display options are available:
 **Related topics**  
 
 
-[Show rollup pricing in the shopping cart](display-rollup-pricing-in-the-shopping-cart.md)
+[Show rollup pricing in the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/display-rollup-pricing-in-the-shopping-cart.md)
 
-[How price is displayed on a layout with multiple BOMs](how_does_pricing_on_multiple_boms_displayed_on_a_layout_behave.md)
+[How price is displayed on a layout with multiple BOMs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/how_does_pricing_on_multiple_boms_displayed_on_a_layout_behave.md)
 

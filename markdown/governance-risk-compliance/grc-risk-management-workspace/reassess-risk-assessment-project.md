@@ -25,7 +25,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![List icon.](../image/list-icon-riskworkspace.png) icon.
+2.  Select the list ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-riskworkspace.png) icon.
 
 3.  From the list, navigate to **Risk assessment projects**, and select **Completed**.
 
@@ -46,7 +46,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 ## What to do next
 
-[Perform assessment on a risk assessment project in stacked view](perform-assessment-on-risk-assessment-project.md)
+[Perform assessment on a risk assessment project in stacked view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/perform-assessment-on-risk-assessment-project.md)
 
-**Parent Topic:**[Risk assessment project](../concept/risk-assessment-project.md)
+**Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-assessment-project.md)
 

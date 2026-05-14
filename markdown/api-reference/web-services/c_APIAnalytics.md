@@ -27,14 +27,14 @@ The instance tracks analytics for all inbound web services, including platform w
 
 Outbound web services, such as REST Messages, are not tracked.
 
--   **[Collect analytics for an API](../task/api-analytics-whitelist-domain.md)**  
+-   **[Collect analytics for an API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/api-analytics-whitelist-domain.md)**  
 Select which APIs to collect analytics for and select if requestor information should be collected for each API.
--   **[View REST &amp; SOAP API analytics](c_APIAnalyticsReports.md)**  
+-   **[View REST &amp; SOAP API analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_APIAnalyticsReports.md)**  
 View overall API analytics, analytics per API, or analytics per requesting user in the REST &amp; SOAP API Analytics dashboard.
--   **[REST and SOAP API analytics collection and cleanup](c_APIAnalyticsCollectClean.md#)**  
+-   **[REST and SOAP API analytics collection and cleanup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_APIAnalyticsCollectClean.md#)**  
 API analytics uses scheduled jobs to collect and clean up analytics data.
--   **[API analytics properties](../reference/api-analytics-properties.md)**  
+-   **[API analytics properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/api-analytics-properties.md)**  
 Certain properties control the behavior of API analytics.
 
-**Parent Topic:**[Additional integration resources](../../outbound-web-services/concept/additional-integration-resources.md)
+**Parent Topic:**[Additional integration resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../outbound-web-services/concept/additional-integration-resources.md)
 

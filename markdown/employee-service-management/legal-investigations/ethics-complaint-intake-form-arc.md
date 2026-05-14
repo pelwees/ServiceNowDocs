@@ -73,5 +73,5 @@ Option to acknowledge submitting sensitive information or personal details of pe
 |Summary of complaint|Type of complaint or allegation that violated the ethics policy of the organization.|
 |Detailed description|Detailed information about the incident, such as the detailed description of the incident, the names of the people involved, and the approximate date and time of the incident.|
 
-**Parent Topic:**[Legal Investigations reference](legal-investigations-reference.md)
+**Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 

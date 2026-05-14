@@ -80,7 +80,7 @@ gr.query();
 
 ## What to do next
 
-Decide whether to create formal definitions for each attribute. Providing a formal definition makes the attribute non-transient and allows you to modify its behavior. To provide this definition, navigate to the dynamic namespace record the store field is configured with and create a dynamic attribute record using the name of the attribute you wish to modify. See [Create a dynamic attribute](add-dynamic-attributes.md).
+Decide whether to create formal definitions for each attribute. Providing a formal definition makes the attribute non-transient and allows you to modify its behavior. To provide this definition, navigate to the dynamic namespace record the store field is configured with and create a dynamic attribute record using the name of the attribute you wish to modify. See [Create a dynamic attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md).
 
 Note that modifying the definition of an attribute doesn't modify any data stored for that attribute. Rather, it simply modifies how the system interacts with that data. For example, attributes defined as strings sort differently than when defined as integers.
 

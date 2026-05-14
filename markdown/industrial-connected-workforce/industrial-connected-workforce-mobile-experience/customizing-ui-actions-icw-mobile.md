@@ -21,7 +21,7 @@ As an administrator, you can review the mobile UI actions and disable the ones t
 
 The following image shows the Now Mobile Agent application open in Studio. The Now Mobile Agent application open in Studio is where you can configure UI actions.
 
-![Now Mobile Agent application opened in Studio](../image/icw-mobile-studio.png)
+![Now Mobile Agent application opened in Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../image/icw-mobile-studio.png)
 
-**Parent Topic:**[Configure the Now Mobile Agent application](../task/configure-now-mobile-agent-application-icw-mobile.md)
+**Parent Topic:**[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../task/configure-now-mobile-agent-application-icw-mobile.md)
 

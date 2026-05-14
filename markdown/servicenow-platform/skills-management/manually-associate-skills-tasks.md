@@ -37,5 +37,5 @@ Role required: admin
 
 ## Example
 
-The image below shows an administrator configuring skills for an incident task and adding the IT skill as mandatory for agents working on that task. ![Assign Skills to Tasks](../images/assign-skills-tasks.gif)
+The image below shows an administrator configuring skills for an incident task and adding the IT skill as mandatory for agents working on that task. ![Assign Skills to Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../images/assign-skills-tasks.gif)
 

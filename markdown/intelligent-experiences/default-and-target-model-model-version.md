@@ -19,11 +19,11 @@ Model version is the large language model version a skill uses to route requests
 
 A default mapping of default and target model version is pre-configured. If you update the target model version for a selected default model version, all the associated skills with this version mapping at the current instance level, get impacted.
 
-![Updating target model version at the instance level](../image/version-management-instance-ref.png)
+![Updating target model version at the instance level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/version-management-instance-ref.png)
 
 ## Updating the target model version at the skill level
 
 If you update the target model version for a selected default model version at the skill level, the mapping is updated for that skill only. Customizing the model version for skills overrides the instance-level model version currently assigned to each provider. This action is typically reserved for specific situations.
 
-**Parent Topic:**[Now Assist reference](now-assist-reference-landing.md)
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 

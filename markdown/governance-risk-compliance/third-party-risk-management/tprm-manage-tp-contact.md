@@ -33,7 +33,7 @@ Your third-party contacts are external users at the third-party organization. Th
 
 2.  Select the third party that you want to view the list of associated contacts for and then select the third-party contact.
 
-    ![Third-party contact's information and the relevant buttons, options, and related link locations on the form. For a description of each action, refer to the steps that follow.](../image/tprm-manage-tp-contact.png)
+    ![Third-party contact's information and the relevant buttons, options, and related link locations on the form. For a description of each action, refer to the steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/tprm-manage-tp-contact.png)
 
 3.  Manage the access to the portal for your third-party contacts.
 
@@ -104,6 +104,6 @@ Send an email with a link for resetting a third-party contact's password by sele
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-    **Note:** For more information on setting up third-party contacts, see [Set up third-party contacts](../../grc-vendor-risk-implementation/task/tprm-tp-contact-config.md) and [Enable email with third-party contacts](../../grc-vendor-risk-implementation/task/set_sys_props_for_email.md).
+    **Note:** For more information on setting up third-party contacts, see [Set up third-party contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-tp-contact-config.md) and [Enable email with third-party contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/set_sys_props_for_email.md).
 
 

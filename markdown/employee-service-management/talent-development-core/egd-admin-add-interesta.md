@@ -27,10 +27,10 @@ Role required: sn\_egd\_core.admin, sn\_egd\_core.content\_manager
 
 3.  Complete the **Interests** form.
 
-    To see details about the different fields, see [Talent Interest form](../reference/egd-interests-form.md).
+    To see details about the different fields, see [Talent Interest form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../reference/egd-interests-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Administer and maintain the Talent Development Core app](../concept/egd-administration.md)
+**Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/egd-administration.md)
 

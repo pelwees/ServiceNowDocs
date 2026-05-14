@@ -60,7 +60,7 @@ The Security Incident Response plugin \(com.snc.security\_incident\) is required
 
 </td></tr><tr><td>
 
-[Install and configure](../task/cs-ng-siem-integration.md)
+[Install and configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/cs-ng-siem-integration.md)
 
 </td><td>
 

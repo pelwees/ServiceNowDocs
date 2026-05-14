@@ -17,9 +17,9 @@ Use the template configurations to create placeholders for an audit report templ
 
 ## Before you begin
 
-Install and activate the ServiceNow Document Designer with Word \(sn\_grc\_doc\_design\) plugin. For more information, see [Install the ServiceNow Document Designer add-in](install-document-designer.md).
+Install and activate the ServiceNow Document Designer with Word \(sn\_grc\_doc\_design\) plugin. For more information, see [Install the ServiceNow Document Designer add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-document-designer.md).
 
-Confirm that you have the templates configured. For more information, see [Configure templates for Document Designer](configure-template-for-document-designer.md).
+Confirm that you have the templates configured. For more information, see [Configure templates for Document Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-template-for-document-designer.md).
 
 If you want to insert and update reporting content, set up Microsoft 365 reporting. For more information see, [Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md) and [Add additional reporting configuration filters for a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-additional-reporting-filters.md).
 

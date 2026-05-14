@@ -25,9 +25,9 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 2.  Open a new Improvement Initiative from one of the following ways:
 
-    -   Select the overview panel menu ![Project overview panel menu](../image/workbench-project-menu-icon.png) and select **New Improvement Initiative**.
+    -   Select the overview panel menu ![Project overview panel menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/workbench-project-menu-icon.png) and select **New Improvement Initiative**.
     -   From the Notes and initiatives panel:
-    1.  Select the Initiatives icon \(![improve initiative icon](../image/improve-initiative-icon.png)\).
+    1.  Select the Initiatives icon \(![improve initiative icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/improve-initiative-icon.png)\).
 
     2.  Select **Create** &gt; **New Initiative**
 
@@ -37,7 +37,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     All mandatory fields in the form are prefilled for ease of use.
 
-    ![Prefilled improvement initiative page](../image/imp-initiative.png)
+    ![Prefilled improvement initiative page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/imp-initiative.png)
 
     For more information the fields, see: [Create an improvement initiative](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-cim-request.md).
 
@@ -59,5 +59,5 @@ To change a record, from the CIM record:
 -   Update a record: Make a change on the record, then select **Save**.
 -   Delete an initiative: From the record, select the menu icon and select **Delete**.
 
-**Parent Topic:**[Creating and tracking improvement initiatives](../../../product/benchmarks/task/initiatives-from-process-optimization.md)
+**Parent Topic:**[Creating and tracking improvement initiatives](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../product/benchmarks/task/initiatives-from-process-optimization.md)
 

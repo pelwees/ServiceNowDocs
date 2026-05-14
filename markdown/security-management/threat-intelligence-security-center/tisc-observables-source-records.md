@@ -33,10 +33,10 @@ Role required: sn\_sec\_tisc.analyst
 
     The source records to an aggregated record are displayed.
 
-    ![Source records](../image/tisc-observable-source-records.png)
+    ![Source records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-observable-source-records.png)
 
 6.  View the records.
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/observables.md)
 

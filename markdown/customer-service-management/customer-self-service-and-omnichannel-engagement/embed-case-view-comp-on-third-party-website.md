@@ -17,7 +17,7 @@ Embed the global code and component code of the Case view component instance tha
 
 ## Before you begin
 
-You must configure the Case view component instance. For information, see. [Configure the Case view component instance](configure-case-view-component-on-instance.md).
+You must configure the Case view component instance. For information, see. [Configure the Case view component instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-case-view-component-on-instance.md).
 
 Role required: None
 

@@ -28,12 +28,12 @@ After submitting a self-serve contract request, a contract document is generated
 7.  The contract document can shared with stakeholders and on finalizing can be sent for signature.
 8.  If additional changes are required, the contract user submits the change request again and this process continues until the document is acceptable and can be sent for signature.
 
--   **[Review a contract document in your workspace](cncore-request-changes-ss-cntr.md)**  
+-   **[Review a contract document in your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-request-changes-ss-cntr.md)**  
 As a contract user, review a contract document and submit a change request to the contract fulfiller if changes are required in the contract document.
--   **[Work on a contract change request](cncore-finalize-document-ss-cntr-1.md)**  
+-   **[Work on a contract change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-finalize-document-ss-cntr-1.md)**  
 As a contract fulfiller, review the change request, update the contract document, and send it back to the contract user.
--   **[Send a contract document for signature](cncore-send-doc-signature.md)**  
+-   **[Send a contract document for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-doc-signature.md)**  
 After a contract document has been reviewed and finalized, send the document for signature.
 
-**Parent Topic:**[Use self-served contract request](../concept/cncore-request-ss-contract-1.md)
+**Parent Topic:**[Use self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-request-ss-contract-1.md)
 

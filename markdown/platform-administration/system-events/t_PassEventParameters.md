@@ -54,10 +54,10 @@ if (gr.next()){
 
 ```
 
-**Parent Topic:**[Managing system events](../../platform-events/concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-events/../../platform-events/concept/managing-system-events.md)
 
 **Related topics**  
 
 
-[Scripting for email notifications](../../../script/server-scripting/concept/c_ScriptingForEmailNotifications.md)
+[Scripting for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-events/../../../script/server-scripting/concept/c_ScriptingForEmailNotifications.md)
 

@@ -14,9 +14,9 @@ breadcrumb: [Analytics and Reporting, Public Sector Digital Services \(PSDS\)]
 
 Use the Public Services Performance Overview dashboard to assess key performance indicators and data visualizations on public services offered to and requested by constituents, businesses, and agencies.
 
-![Use leading metrics and KPIs to analyze and report performance. This information is displayed as percentage values, line graphs, and bar charts.](../image/public-serv-perf-overview-dashboard-new.png "Public Services Performance Overview - Overview tab")
+![Use leading metrics and KPIs to analyze and report performance. This information is displayed as percentage values, line graphs, and bar charts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/public-serv-perf-overview-dashboard-new.png "Public Services Performance Overview - Overview tab")
 
-![Benchmarking tab displaying various graphical representation of services requested and provided by service type. For the text description, refer to the Reports section.](../image/public-service-perf-dashboard-benchmarking-new.png "Public Services Performance Overview - Benchmarking tab")
+![Benchmarking tab displaying various graphical representation of services requested and provided by service type. For the text description, refer to the Reports section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/public-service-perf-dashboard-benchmarking-new.png "Public Services Performance Overview - Benchmarking tab")
 
 ## Required ServiceNow AI Platform roles
 
@@ -129,7 +129,7 @@ Top 10 services requested in the last 30 days
 
 </td><td>
 
-![Bar graph.](../../../reuse/reporting/image/trend.svg)
+![Bar graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -145,7 +145,7 @@ Top 10 services with most open cases in last 7 days
 
 </td><td>
 
-![Bar graph.](../../../reuse/reporting/image/trend.svg)
+![Bar graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -161,7 +161,7 @@ Top 10 services requested in the last 6 months
 
 </td><td>
 
-![Bar graph.](../../../reuse/reporting/image/trend.svg)
+![Bar graph.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -193,7 +193,7 @@ Public Services
 
 </td><td>
 
-![Single score value enclosed in a circle.](../../../reuse/reporting/image/single-score.svg)
+![Single score value enclosed in a circle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/reporting/image/single-score.svg)
 
 </td><td>
 
@@ -220,5 +220,5 @@ Service Definition \[sn\_case\_type\_selection\]
 Distribution \(percentage\) of government services available in the system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](../../../use/application-content-packs/concept/psds-content-pack.md)
+</table>**Parent Topic:**[Analytics and Reporting Solutions for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../use/application-content-packs/concept/psds-content-pack.md)
 

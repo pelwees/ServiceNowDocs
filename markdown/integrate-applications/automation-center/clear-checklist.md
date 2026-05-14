@@ -29,7 +29,7 @@ After the automation request is moved to the following states, the option to cle
 
 1.  Navigate to **Workspaces** &gt; **Automation Center Workspace**.
 
-2.  Select the list icon \(![List icon.](../images/autocenter-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/autocenter-list-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **All Automation Requests**.
 
@@ -37,16 +37,16 @@ After the automation request is moved to the following states, the option to cle
 
     Ensure that the automation request already has a checklist.
 
-5.  Select the Golive Checklist icon \(![golive checklist icon](../images/icon-golive.png)\) from the side panel.
+5.  Select the Golive Checklist icon \(![golive checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/icon-golive.png)\) from the side panel.
 
 6.  Select **Clear checklist** from the details button.
 
-    ![Clear checklist option](../images/clear-checklist.png)
+    ![Clear checklist option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/clear-checklist.png)
 
 7.  Select **Clear** on the confirmation window.
 
     The checklist is deleted.
 
 
-**Parent Topic:**[Working with golive checklists](../concept/working-golive.md)
+**Parent Topic:**[Working with golive checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/working-golive.md)
 

@@ -39,7 +39,7 @@ Install the Document Intelligence for Accounts Payable Operations Content Pack f
 
 4.  For Invoice case summarization skill:
 
-    ![Invoice case summarization in Now Assist](../image/invoice-case-na.png)
+    ![Invoice case summarization in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/invoice-case-na.png)
 
     1.  Select **General Details**, review the details about the skill, and then select **Save and continue** to go to the next step.
 
@@ -117,13 +117,13 @@ Now Assist skills are available in the Now Assist panel. Turn on multi-language 
 
 8.  In case of Invoice data extraction for the APO specialists feature card, select **Activate skill**.
 
-    1.  In the **Create Usecase** step, select the **Invoice Processing - GenAI** use case.![Invoice processing using generativeAI](../image/invoice-processing-genai.png)
+    1.  In the **Create Usecase** step, select the **Invoice Processing - GenAI** use case.![Invoice processing using generativeAI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/invoice-processing-genai.png)
 
     2.  Select **Make a copy** to create a copy of the use case.
 
         For more information on the fields, test outputs, and integrations in the use case, see [Set up a use case for Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/set-up-use-case-for-now-assist-document-intelligence.md).
 
-        **Note:** When you create a copy of the generative AI use case in Now Assist console, then "DocIntel Extract Values Flow - copied GenAI use case name-Invoice processing-GenAI integration" use case is created automatically in the flow designer. For more information on configuring the use case, see [Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](../concept/config-apo-docintel-integration.md).
+        **Note:** When you create a copy of the generative AI use case in Now Assist console, then "DocIntel Extract Values Flow - copied GenAI use case name-Invoice processing-GenAI integration" use case is created automatically in the flow designer. For more information on configuring the use case, see [Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/config-apo-docintel-integration.md).
 
     3.  Select **Save and continue** to go to the next step.
 

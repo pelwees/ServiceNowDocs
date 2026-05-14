@@ -46,16 +46,16 @@ In addition to the application-level configuration, each service offering schedu
 
 The steps for configuring Appointment Booking are:
 
-1.  [Configure Appointment Booking](configure-appointment-booking.md)
-2.  \(Optional\) [Configure Advanced Appointment Booking](configure-advanced-appointment-booking.md)
+1.  [Configure Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-appointment-booking.md)
+2.  \(Optional\) [Configure Advanced Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-advanced-appointment-booking.md)
 
     Advanced Appointment Booking allows you to configure flexible schedules, holidays and appointment window durations for a territory.
 
-3.  \(Optional\) [Customize Appointment Booking email and SMS notifications](../reference/appointment-booking-notifications.md)
+3.  \(Optional\) [Customize Appointment Booking email and SMS notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/appointment-booking-notifications.md)
 
     The system administrator can customize email and SMS notifications for appointment confirmation and cancellation notices and appointment reminders.
 
-4.  \(Optional\) [Extension points in Field Service Management](../reference/extension-points-field-service.md)
+4.  \(Optional\) [Extension points in Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/extension-points-field-service.md)
 
     Use extension points to customize appointment booking configurations.
 
@@ -67,13 +67,13 @@ The steps for configuring Appointment Booking are:
 **Related topics**  
 
 
-[Appointment booking](appointment-booking.md)
+[Appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appointment-booking.md)
 
-[Managing appointments](managing-appointments.md)
+[Managing appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/managing-appointments.md)
 
-[Appointment booking components](../reference/appointment-booking-components.md)
+[Appointment booking components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/appointment-booking-components.md)
 
-[Learn about appointment availability settings](../reference/appt-booking-task-assignment.md)
+[Learn about appointment availability settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/appt-booking-task-assignment.md)
 
-[Learn about task assignment](../reference/appt-booking-config-overview.md)
+[Learn about task assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/appt-booking-config-overview.md)
 

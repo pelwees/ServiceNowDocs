@@ -15,7 +15,7 @@ Form annotations are additional pieces of information on a form, such as a line 
 
 Form annotations are enabled by default in the base system. To disable them, set the `glide.ui.form_annotations` system property to false.
 
-**Parent Topic:**[Administering forms on the ServiceNow AI Platform](form-administration.md)
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
 ## Support multiple languages for a form annotation
 
@@ -27,7 +27,7 @@ Role required: admin
 
 ### About this task
 
-To support multiple languages, use [message records](../../localization/reference/r_MessageTable.md) to translate annotation text.
+To support multiple languages, use [message records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../localization/reference/r_MessageTable.md) to translate annotation text.
 
 ### Procedure
 

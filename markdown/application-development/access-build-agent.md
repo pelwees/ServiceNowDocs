@@ -14,7 +14,7 @@ breadcrumb: [Use, Build Agent, Vibe coding and AI app development on the Service
 
 Build Agent is available in ServiceNow Studio \(UI-first, declarative workflows\) and the ServiceNow IDE \(code-first, autonomous full-stack development\).
 
-You can also access Build Agent on a Personal Development Instance \(PDI\). For more information, see [Exploring Build Agent](exploring-build-agent.md).
+You can also access Build Agent on a Personal Development Instance \(PDI\). For more information, see [Exploring Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/exploring-build-agent.md).
 
 ## Opening Build Agent
 
@@ -23,15 +23,15 @@ When you open ServiceNow Studio or the ServiceNow IDE, the Build Agent should ap
 **Note:**
 
 -   Currently, only admins have permissions to use Build Agent.
--   You must have Now Assist for Creator installed to access Build Agent. For more information, see [Install Build Agent](../tasks/install-build-agent.md).
+-   You must have Now Assist for Creator installed to access Build Agent. For more information, see [Install Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../tasks/install-build-agent.md).
 
-![If Build Agent isn't open, open it from the status bar in the corner of your browser.](../../servicenow-studio/image/sn-studio-access-build-agent.png "Open Build Agent")
+![If Build Agent isn't open, open it from the status bar in the corner of your browser.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/image/sn-studio-access-build-agent.png "Open Build Agent")
 
 ## Build Agent chat panel
 
 Use the Build Agent chat panel to create or update an app or app file. Make a selection to begin the chat, or enter a prompt.
 
-![Begin a conversation by selecting an option to create or update an app or app file.](../../servicenow-studio/image/sn-studio-ba-new-chat.png "New chat panel")
+![Begin a conversation by selecting an option to create or update an app or app file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../servicenow-studio/image/sn-studio-ba-new-chat.png "New chat panel")
 
 Continue your conversation in the chat panel until you're happy with the results.
 
@@ -96,7 +96,7 @@ Keep the following in mind when using Build Agent:
 -   Build Agent generates metadata supported by ServiceNow Fluent. Verify artifact compatibility before approval.
 -   Feature availability and UI details might differ between monthly releases. Confirm behavior against your instance version.
 
-For more information on limitations, see [Build Agent limitations](build-agent-limitations.md).
+For more information on limitations, see [Build Agent limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/build-agent-limitations.md).
 
-**Parent Topic:**[Use Build Agent](../tasks/use-build-agent.md)
+**Parent Topic:**[Use Build Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../tasks/use-build-agent.md)
 

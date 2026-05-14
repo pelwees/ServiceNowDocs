@@ -29,17 +29,17 @@ Role required: admin
 
 4.  Select the appropriate role from the list of roles.
 
-5.  Select ![Chevron right](../../../reuse/icons/product-icons/chevron-right-fill-24.svg) to add the role to the group.
+5.  Select ![Chevron right](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../../reuse/icons/product-icons/chevron-right-fill-24.svg) to add the role to the group.
 
 
-**Parent Topic:**[Configure Critical Event Management groups](configure-critical-event-management-groups.md)
+**Parent Topic:**[Configure Critical Event Management groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-critical-event-management-groups.md)
 
 **Related topics**  
 
 
-[Add members to the group](add-members-group.md)
+[Add members to the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-members-group.md)
 
-[Add roles to a member](add-member-roles.md)
+[Add roles to a member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-member-roles.md)
 
-[Map on-site responder group with location](map-on-site-responder-group.md)
+[Map on-site responder group with location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/map-on-site-responder-group.md)
 

@@ -23,5 +23,5 @@ To configure the Privacy Case Management integration for RadarFirst, follow the 
 
 When you integrate with RadarFirst the overview page displays the RadarFirst summary widget. This widget displays the impact of a breach jurisdictions and the number of individuals impacted in the form of a pie chart. To view the detailed reports of the breaches, select **View report**. The following image shows the RadarFirst widget on the breach assessment overview page.
 
-![Breach assessment overview page displaying the impact of a breach jurisdictions and the number of individuals impacted by it.](../image/radarfirst-integration.png)
+![Breach assessment overview page displaying the impact of a breach jurisdictions and the number of individuals impacted by it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/radarfirst-integration.png)
 

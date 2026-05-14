@@ -52,6 +52,6 @@ Role required: sn\_cmdb\_admin
 
 ## What to do next
 
--   [Create a CMDB Data Manager policy](data-manager-create-policy-wrkspc.md)
--   [Manage retirement definitions for CMDB Data Manager](data-manager-manage-ret-def-wrkspc.md#)
+-   [Create a CMDB Data Manager policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-create-policy-wrkspc.md)
+-   [Manage retirement definitions for CMDB Data Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-manage-ret-def-wrkspc.md#)
 

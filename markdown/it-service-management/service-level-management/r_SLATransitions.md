@@ -38,11 +38,11 @@ SLA conditions determine what action is performed on a task SLA record.
 |Stop|Complete|
 |Cancel|Cancel|
 
-![SlA transition diagram](../image/SLAConditionsMethods.png "SLA condition methods when the default cancel and resume conditions are selected")
+![SlA transition diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLAConditionsMethods.png "SLA condition methods when the default cancel and resume conditions are selected")
 
-![SLA condition diagram](../image/SLM_SLAConsNotdefault.png "SLA Conditions Methods when the cancel and resume conditions are selected")
+![SLA condition diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLM_SLAConsNotdefault.png "SLA Conditions Methods when the cancel and resume conditions are selected")
 
 Each of these conditions is defined as a method within a Script Include, referenced by an SLA Conditions Rule record.
 
-**Parent Topic:**[Service Level Management reference](../concept/service-level-management-reference.md)
+**Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/service-level-management-reference.md)
 

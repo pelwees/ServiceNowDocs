@@ -17,27 +17,27 @@ The Case and Knowledge Management application enables you to standardize the doc
 
 <table class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Explore HR Case and Knowledge Management features and see how agents use them.](../concept/hr-ckm-use-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-explore.svg) Explore HR Case and Knowledge Management features and see how agents use them.](../concept/hr-ckm-use-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure HR Case and Knowledge Management features.](../task/activate-case-and-knowledge-management-scoped.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install and configure HR Case and Knowledge Management features.](../task/activate-case-and-knowledge-management-scoped.md)
 
 </td></tr><tr><td>
 
-[Manage HR Cases![](../../../reuse/icons/brand-icons/bus-headset.svg)HR Agents work on cases.](../concept/c_HRCaseManagement.md)
+[Manage HR Cases![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-headset.svg)HR Agents work on cases.](../concept/c_HRCaseManagement.md)
 
 </td><td>
 
-[Request HR services![](../../../reuse/icons/brand-icons/bus-start-discussion.svg)Employees open HR cases to get help or make requests.](../concept/c_HRProfileRecords.md)
+[Request HR services![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-start-discussion.svg)Employees open HR cases to get help or make requests.](../concept/c_HRProfileRecords.md)
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Service Portfolio Management and Digital Portfolio Management.](../concept/ckm-csdm.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with Service Portfolio Management and Digital Portfolio Management.](../concept/ckm-csdm.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, tables, and properties.](../concept/c_AdministerHRServiceManagement.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, tables, and properties.](../concept/c_AdministerHRServiceManagement.md)
 
 </td></tr></tbody>
 </table>## Additional resources

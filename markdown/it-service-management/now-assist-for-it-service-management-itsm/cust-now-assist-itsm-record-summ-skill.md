@@ -40,7 +40,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
         You can choose to make a copy of the skill before activating it.
 
-    3.  Select the more actions icon ![More actions icon.](../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
+    3.  Select the more actions icon ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../itsm-workspace/image/more-actions-icon.png) for the skill in the Active skills section, and create a copy that you can customize by selecting **Make a copy**.
 
         The copy that you make is listed in the Active skills section.
 
@@ -50,7 +50,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
 5.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
     1.  Enter a name and description for the skill.
 
@@ -60,7 +60,7 @@ You need the sn\_skill\_builder.admin role to customize the prompt in the Now As
 
     The input data is read-only.
 
-    ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-itsm-inc-summ-choose-input.png)
+    ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-inc-summ-choose-input.png)
 
     The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -191,7 +191,7 @@ Do this
     -   Work in progress
     -   Resolved
     -   Closed
-2.  Select **Run Test**.![Run test for the selected incident record](../image/now-assist-itsm-evaluate-prompt.png)
+2.  Select **Run Test**.![Run test for the selected incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-evaluate-prompt.png)
 Review and test the prompt for each input template configuration and make sure it meets your expectations.The prompt response is shown. You can make changes to the incident state selections and retest as needed.
 
 </td></tr><tr><td id="d440769e616">
@@ -201,14 +201,14 @@ Review and test the prompt for each input template configuration and make sure i
 </td><td>
 
 1.  Select **Edit prompt in Now Assist Skill Kit**.
-2.  Select **Go to Now Assist Skill Kit**.![Edit prompts in the Now Assist Skill Kit](../image/now-assist-itsm-edit-prompt-nask.png)
+2.  Select **Go to Now Assist Skill Kit**.![Edit prompts in the Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-edit-prompt-nask.png)
 
 **Note:**
 
-In the Now Assist Skill Kit, you can select the more actions icon ![More actions icon.](../../itsm-workspace/image/more-actions-icon.png)and select **Clone** to make a copy of the prompt configuration and edit as needed.
+In the Now Assist Skill Kit, you can select the more actions icon ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../itsm-workspace/image/more-actions-icon.png)and select **Clone** to make a copy of the prompt configuration and edit as needed.
 
-3.  In the **Skill contents** pane, select the**Inputs** edit icon and add any inputs that you'd like to add to the prompt.![Edit prompt input screen in the Now Assist Skill Kit](../image/now-assist-itsm-edit-skill-input.png)
-4.  In the **Prompt** screen, select the edit icon and add the desired inputs to the prompt.![Add inputs for the skill](../image/now-assist-itsm-edit-prompt-window.png)
+3.  In the **Skill contents** pane, select the**Inputs** edit icon and add any inputs that you'd like to add to the prompt.![Edit prompt input screen in the Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-edit-skill-input.png)
+4.  In the **Prompt** screen, select the edit icon and add the desired inputs to the prompt.![Add inputs for the skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-edit-prompt-window.png)
 5.  Select **Run test**.
 
 The prompt displays in the Test prompt screen where you can run the test.

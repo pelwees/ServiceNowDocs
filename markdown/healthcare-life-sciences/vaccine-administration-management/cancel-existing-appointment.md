@@ -34,7 +34,7 @@ Role required: sn\_vaccine\_sm.clinician
 
 ## What to do next
 
-[Reschedule existing appointments](reschedule-existing-appointment.md).
+[Reschedule existing appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/reschedule-existing-appointment.md).
 
-**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](../concept/user-appt-mngt-clinicans-agents.md)
+**Parent Topic:**[Manage user appointments as a clinician or a vaccine agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../concept/user-appt-mngt-clinicans-agents.md)
 

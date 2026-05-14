@@ -61,14 +61,14 @@ Make sure you have access to Terraform Cloud or Terraform Enterprise to perform 
     For more details on variable sets, see [https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-create-variable-set\#](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-create-variable-set).
 
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 
 
-[Publish Terraform templates](publish-terraform-templates.md)
+[Publish Terraform templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/publish-terraform-templates.md)
 
-[Integrate Terraform Cloud with GitHub](integrate-terraform-cloud-and-git.md)
+[Integrate Terraform Cloud with GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-cloud-and-git.md)
 
-[Create Terraform API token](set-up-administrator-api-key.md)
+[Create Terraform API token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-administrator-api-key.md)
 

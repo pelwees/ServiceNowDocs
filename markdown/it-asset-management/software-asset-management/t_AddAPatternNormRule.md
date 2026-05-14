@@ -153,5 +153,5 @@ Choose the language.-   Dutch
 </table>2.  Once the rule is created, to apply the rule so applicable discovery models are normalized without delay, click the **Apply Rule** related link.
 
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMAdministration.md)
 

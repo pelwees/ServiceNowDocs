@@ -37,19 +37,19 @@ Font sizing changes in Theme Builder also apply to web embeddables using your th
 
 2.  Use the Page drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to edit.
 
     The **Global styles** tab opens automatically with the Overview panel displayed.
 
-    ![Example view of the Editor page.](../image/tb-editor-page-view.png "Editor page view")
+    ![Example view of the Editor page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-view.png "Editor page view")
 
 4.  From the Global styles Overview panel, navigate to Typography and select the **Sizes** tab.
 
     Typography is split into Fonts and Sizes, with size assignments managed in the **Sizes** tab.
 
-    ![Typography with Sizes selected.](../image/tb-typography-sizes.png "Global styles Typography")
+    ![Typography with Sizes selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-typography-sizes.png "Global styles Typography")
 
 5.  Edit global font sizes.
 
@@ -93,7 +93,7 @@ Under Global sizes, expand Base font size. Locate the individual size that you w
 
 Theme Builder automatically saves your theme record.
 
-If your theme is published, your font sizing edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+If your theme is published, your font sizing edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Working with Global styles](../concept/working-with-global-styles.md)
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)
 

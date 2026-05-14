@@ -23,7 +23,7 @@ Role required: sn\_skills\_int.admin
 
 1.  Navigate to **All** &gt; **Skills Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../../../common/image/icon-list.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../common/image/icon-list.png)\).
 
 3.  Select **Import history** &gt; **Queue**.
 

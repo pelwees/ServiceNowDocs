@@ -269,8 +269,8 @@ You can choose to switch between implemented basic Auth and OAuth 2.0 authentica
 ### Before you begin
 
 -   Role required: admin
--   [Create Basic Auth credential record for the Guidewire spoke](set-up-guidewire-spoke.md#)
--   [Register Guidewire as an OAuth provider](set-up-guidewire-spoke.md#)
+-   [Create Basic Auth credential record for the Guidewire spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-guidewire-spoke.md#)
+-   [Register Guidewire as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-guidewire-spoke.md#)
 
 The following example shows the steps for switching from basic auth to OAuth 2.0 for the Guidewire ClaimCenter application.
 
@@ -293,7 +293,7 @@ The following example shows the steps for switching from basic auth to OAuth 2.0
 
 ### What to do next
 
-[Get Guidewire OAuth token](set-up-guidewire-spoke.md#)
+[Get Guidewire OAuth token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/set-up-guidewire-spoke.md#)
 
 ## Create connection record for the Guidewire spoke
 

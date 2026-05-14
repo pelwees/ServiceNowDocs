@@ -22,5 +22,5 @@ The engagement record is used to:
 -   Create automated triggers: Can be configured to trigger events automatically based on specific engagement types or statuses.
 -   Provide enhanced reporting and analytics: Generates reports and insights related to account health, satisfaction levels, and engagement frequency.
 
-For more details on the engagement record and its features, see [Engagement home page](account-lifecycle-view-engage.md).
+For more details on the engagement record and its features, see [Engagement home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-view-engage.md).
 

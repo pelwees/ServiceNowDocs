@@ -25,31 +25,31 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Open the incident where the conference call is originated.
 
 4.  Tap **Collaborate**.
 
-    ![My work.](../image/incident-collaborate-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/incident-collaborate-itsm-mobile.png)
 
 5.  Tap on the active conference call.
 
-    ![My work.](../image/active-call-inc-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/active-call-inc-itsm-mobile.png)
 
 6.  Tap **Add participants**.
 
-    ![My work.](../image/add-participants-active-call-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/add-participants-active-call-itsm-mobile.png)
 
 7.  Provide the following details:
 
     1.  **Recommended participants**: The list of participants associated with the incident will be displayed. Select the required users, and tap **Submit**.
     2.  **Users**: Select the required users, and tap **Submit**.
     3.  **Groups**: Select the required group, and tap **Submit**.
-    ![Add participants](../image/add-participant-inc-call-itsm-mobile.png)
+    ![Add participants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/add-participant-inc-call-itsm-mobile.png)
 
 8.  In the **Add participants** screen, click **Submit**.
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../concept/collaboration-incident-itsm-mobile.md)
 

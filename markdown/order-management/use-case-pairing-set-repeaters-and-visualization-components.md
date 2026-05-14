@@ -23,5 +23,5 @@ For more information, see this video:
 
 [Visualization &amp; Set Repeater](https://www.youtube.com/watch?v=KIT6upZiQP8)
 
-**Parent Topic:**[Use cases](use-cases.md)
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 

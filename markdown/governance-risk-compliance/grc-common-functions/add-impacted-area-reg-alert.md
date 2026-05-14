@@ -19,11 +19,11 @@ Add impacted areas such as citations, control objectives, policies, and more to 
 
 Role required: sn\_grc\_reg\_change.user
 
-For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](../../grc-rcm/reference/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm/reference/user_roles_and_actions.md).
 
 ## About this task
 
-Impacted areas can be added as part of accepted recommendations or can be manually added. For more information on adding impacted areas as part of a recommendation, see [Accept or dismiss recommendations for regulatory alert impacted citations](manage-recommendation-reg-alert.md).
+Impacted areas can be added as part of accepted recommendations or can be manually added. For more information on adding impacted areas as part of a recommendation, see [Accept or dismiss recommendations for regulatory alert impacted citations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-recommendation-reg-alert.md).
 
 **Note:** Impacted areas can be added only to regulatory alerts of type Regulatory event. You can’t add impacted areas to alerts of type Source document.
 
@@ -46,12 +46,12 @@ Impacted areas can be added as part of accepted recommendations or can be manual
 
 ## What to do next
 
-You can initiate the implementation activity for impacted business areas of operations by setting the applicability of the regulatory alert to **Yes** or **No**. If the regulatory alert is applicable, a new regulatory change task is automatically created. If a regulatory alert is not applicable, the alert's state is updated to **Completed**. For more information, see [Manage regulatory change tasks](../../grc-rcm-workspace/task/manage-reg-change-tasks-using-ws.md).
+You can initiate the implementation activity for impacted business areas of operations by setting the applicability of the regulatory alert to **Yes** or **No**. If the regulatory alert is applicable, a new regulatory change task is automatically created. If a regulatory alert is not applicable, the alert's state is updated to **Completed**. For more information, see [Manage regulatory change tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-rcm-workspace/task/manage-reg-change-tasks-using-ws.md).
 
 **Related topics**  
 
 
-[Activate Regulatory alert recommendation skills](configure-recommendation-skill-for-a-regulatory-alert.md)
+[Activate Regulatory alert recommendation skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-recommendation-skill-for-a-regulatory-alert.md)
 
-[Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](create-recommendation-reg-alert.md)
+[Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-recommendation-reg-alert.md)
 

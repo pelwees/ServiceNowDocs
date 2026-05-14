@@ -39,8 +39,8 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
         You can view the variance details of each invoice line under **Invoice line affected** tab in list view and form view.
 
-        **Note:** If the variance value and variance percentage is exceeding the limit, the values are highlighted in yellow color with warning ![Warning icon](../image/warning-icon.png) icon suffixed with **Exceeds** and **Within** labels. Grey color indicates that the variance value and variance percentage is within the limits or closed with check![Check icon](../image/check-icon.png) icon.
+        **Note:** If the variance value and variance percentage is exceeding the limit, the values are highlighted in yellow color with warning ![Warning icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/warning-icon.png) icon suffixed with **Exceeds** and **Within** labels. Grey color indicates that the variance value and variance percentage is within the limits or closed with check![Check icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/check-icon.png) icon.
 
 
-**Parent Topic:**[Tolerance Rules and Variances for invoices](../concept/tolerance-rules-and-variance.md)
+**Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/tolerance-rules-and-variance.md)
 

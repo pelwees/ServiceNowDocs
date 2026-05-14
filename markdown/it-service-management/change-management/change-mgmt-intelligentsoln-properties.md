@@ -78,5 +78,5 @@ The minimum confidence value for the returned results.
 |--------|-----------|
 |Minimum quality level \[chg\_ml\_prop\_sctp.quality\]|Minimum cluster quality to use for Standard Change candidate.|
 
-**Parent Topic:**[Predictive Intelligence for Change Management](../concept/change-mgmt-intelligent-solutions.md)
+**Parent Topic:**[Predictive Intelligence for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-mgmt-intelligent-solutions.md)
 

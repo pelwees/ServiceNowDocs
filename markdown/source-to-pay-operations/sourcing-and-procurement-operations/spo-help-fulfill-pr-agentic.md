@@ -102,16 +102,16 @@ Retrieves and displays relevant knowledge articles to address sourcing and procu
 |Scripts|Autonomous|Connect to live agent|Escalates to a live SPO agent on user request.|
 |Scripts|Autonomous|Redirect to Employee Center|Politely deflects unsupported requests and directs users to Employee Center resources.|
 
-**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](agentic-ai-now-assist-spo.md)
+**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agentic-ai-now-assist-spo.md)
 
 **Related topics**  
 
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](../task/activate-fulfill-pr-agentic-workflow.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-fulfill-pr-agentic-workflow.md)
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](../task/activate-fulfill-pr-agentic-workflow-va.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/activate-fulfill-pr-agentic-workflow-va.md)
 
-[Submit a purchase request using the Now Assist AI agent](../task/request-product-ai-agents.md)
+[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/request-product-ai-agents.md)
 
-[Update the product category or spend category in the Now Assist panel](../task/update-product-spend-category.md)
+[Update the product category or spend category in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/update-product-spend-category.md)
 

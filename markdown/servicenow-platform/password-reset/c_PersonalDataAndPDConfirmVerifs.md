@@ -17,7 +17,7 @@ Personal data verifications allow users to verify their identity by providing an
 
 ## User experience
 
-For an example of how a user might enroll for Personal data verification, see [Enroll for the Password Reset program using questions and answers](../task/t_EnrollUsingASecurityQuestion.md).
+For an example of how a user might enroll for Personal data verification, see [Enroll for the Password Reset program using questions and answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_EnrollUsingASecurityQuestion.md).
 
 ## Personal data identification types
 
@@ -73,10 +73,10 @@ Column of the sys\_user table that provides the data that is used to verify the 
  Default Value: n/a
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Password Reset verifications](c_PWRVerifications.md)
+</table>**Parent Topic:**[Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PWRVerifications.md)
 
 **Related topics**  
 
 
-[Create a custom identification type for Password Reset](../task/t_CreateAnIdentificationType.md)
+[Create a custom identification type for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateAnIdentificationType.md)
 

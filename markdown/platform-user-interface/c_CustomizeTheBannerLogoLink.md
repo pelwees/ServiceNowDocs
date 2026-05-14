@@ -19,16 +19,16 @@ Properties are available to control the URL and target frame used when clicking 
     -   **\_top**to replace the current browser window
     -   **\_blank** for a new window/tab
 
-**Parent Topic:**[Create a company profile](../task/t_CreateACompanyProfile.md)
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
 
-[Customize the banner logo in Core UI](../task/t_CustomizeTheLogoInSysProps.md)
+[Customize the banner logo in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CustomizeTheLogoInSysProps.md)
 
-[Customize the favicon](../task/customize-favicon.md)
+[Customize the favicon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/customize-favicon.md)
 
-[Examples of how to modify the banner](c_ExamplesOfHowToModifyTheBanner.md)
+[Examples of how to modify the banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_ExamplesOfHowToModifyTheBanner.md)
 
-[Modify the banner](c_ModifyTheBanner.md)
+[Modify the banner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_ModifyTheBanner.md)
 

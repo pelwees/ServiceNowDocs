@@ -13,11 +13,11 @@ breadcrumb: [Configure picklist extensions, CPQ app, Configure, price, quote app
 
 Learn to use an associated picklist instead of a set field when you create a new set.
 
-**Note:** Be sure to read about product pickers and their functionality before building associated picklists, as they may be better suited to your use case. See [Product pickers](product_picker_overview.md).
+**Note:** Be sure to read about product pickers and their functionality before building associated picklists, as they may be better suited to your use case. See [Product pickers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product_picker_overview.md).
 
 The New Set dialog box includes an option for size type. **Set Field** is the default. If you select **Associated picklist**, a new field appears where you can select the picklist field that will be associated with the set.
 
-![picklist set](../images/cpq-associated-picklist-new-set.png)
+![picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-associated-picklist-new-set.png)
 
 This associated picklist must be a multi-select picklist field. This field determines the size of the set based on the number of field options in the picklist. If you edit the field to add or remove field options, the set size will adjust accordingly. This is the only way to adjust the size of the set associated with the picklist.
 
@@ -25,7 +25,7 @@ For example, a “Condiments” picklist could let users choose to include speci
 
 Unlike a regular set where a user can add as many rows as they want, each non-excluded field option of a picklist generates a row and index of the set. Inclusion and exclusion rules still work on the associated field, which can dynamically change the number of rows in the associated picklist set. The following is the sample picklist field we will use in this example. \(Note that the labels and values differ.\)
 
-![picklist set](../images/cpq-associated-picklist-field-sample.png)
+![picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-associated-picklist-field-sample.png)
 
 Once we select Condiments as the associated picklist, the normal set UI appears. Associated picklist sets automatically create three fields in the set:
 
@@ -33,17 +33,17 @@ Once we select Condiments as the associated picklist, the normal set UI appears.
 -   Option Value: the associate picklistʼs field option values
 -   Select Option: a Boolean field to indicate that the set index is selected
 
-![picklist set](../images/cpq-associated-picklist-fields.png)
+![picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-associated-picklist-fields.png)
 
 Like all other fields in the set, the option value, the select option, and the set itself need to be added to the layout. The following image shows the interaction between the Condiments associated picklist and the packets set:
 
-![picklist set](../images/cpq-associated-picklist-interaction.png)
+![picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-associated-picklist-interaction.png)
 
 Note that the option values in the set reflect the associate picklistʼs field option values. \(“Ketchup” is reflected as “K”, the field option value.\) Also note that option values are read-only and cannot be edited.
 
 Associated picklist sets can still be acted upon with determination actions, inclusion actions, and exclusion actions. In the example below, a new field called KetchupBan removes Ketchup as a value from the Condiments picklist:
 
-![picklist set](../images/cpq-associated-picklist-interaction-new-field.png)
+![picklist set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-associated-picklist-interaction-new-field.png)
 
 ## Benefits of the associated picklist set
 

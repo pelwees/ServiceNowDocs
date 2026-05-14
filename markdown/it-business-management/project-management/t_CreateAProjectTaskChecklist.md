@@ -32,15 +32,15 @@ Role required: it\_project\_user, it\_project\_manager
     To save a checklist as a template, select the down arrow next to **Checklist** and select **Save as Template**.
 
 
--   **[Save a checklist as a template](t_SaveAChecklistAsATemplate.md)**  
+-   **[Save a checklist as a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_SaveAChecklistAsATemplate.md)**  
 After you create a checklist on a project task, you can save it as a template and reuse it on other tasks.
 
-**Parent Topic:**[Create a project task from a project](t_CreateATaskFromAProject.md)
+**Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
 **Related topics**  
 
 
-[Project task checklists](../concept/c_project-task-checklists.md)
+[Project task checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_project-task-checklists.md)
 
-[Save a checklist as a template](t_SaveAChecklistAsATemplate.md)
+[Save a checklist as a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_SaveAChecklistAsATemplate.md)
 

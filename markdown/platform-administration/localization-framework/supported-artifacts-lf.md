@@ -35,5 +35,5 @@ The following artifacts are available with the installation of artifact-specific
 -   Knowledge Base article - available with the activation of Knowledge Management Advanced plugin \[com.snc.knowledge\_advanced\] and set **glide.knowman.translation.enable\_lf\_article\_translation** property to true.
 -   Email notifications, email templates and email layout - available with the activation of Glide Notification Translation plugin \(com.glide.notification.translation\).
 
-**Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
+**Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 

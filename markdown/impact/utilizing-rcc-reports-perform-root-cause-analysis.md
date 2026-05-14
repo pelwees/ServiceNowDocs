@@ -44,5 +44,5 @@ Role required: admin
     The table contains information on the alerts.
 
 
-**Parent Topic:**[Generative AI powered Root cause analysis](generative-ai-root-cause-anal.md)
+**Parent Topic:**[Generative AI powered Root cause analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/generative-ai-root-cause-anal.md)
 

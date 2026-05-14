@@ -42,16 +42,16 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
     If you have edit access, you can update the details of an individual record directly from the list view when necessary.
 
 
-**Parent Topic:**[Using dashboards in Portfolio Planning](../concept/using-dashboards-in-ppw.md)
+**Parent Topic:**[Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/using-dashboards-in-ppw.md)
 
 **Related topics**  
 
 
-[Create a dashboard](create-dashboard-ppw.md)
+[Create a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-dashboard-ppw.md)
 
-[Duplicate a dashboard](copy-dashboard-ppw.md)
+[Duplicate a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-dashboard-ppw.md)
 
-[Share a dashboard](share-dashboard-ppw.md)
+[Share a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-dashboard-ppw.md)
 
-[Add a Platform Analytics dashboard](add-platform-dashboard-to-ppw.md)
+[Add a Platform Analytics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)
 

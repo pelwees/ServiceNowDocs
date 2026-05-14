@@ -40,7 +40,7 @@ Description
 </td><td>
 
 1.  Navigate to the record that you want to export.
-2.  Select the Additional actions menu \(![Additional actions menu.](../../../common/image/Form_MenuIcon.png)\).
+2.  Select the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../common/image/Form_MenuIcon.png)\).
 3.  Select **Export** &gt; **XML This Record\)**.
 
 
@@ -60,5 +60,5 @@ Description
 </table>
 ## What to do next
 
-[Import data from XML](import-xml-file.md)
+[Import data from XML](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/import-xml-file.md)
 

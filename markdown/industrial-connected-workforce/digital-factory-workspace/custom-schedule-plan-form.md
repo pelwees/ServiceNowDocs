@@ -133,5 +133,5 @@ Shifts that you selected.
  For shift-based schedules you are not required to manually enter start and end times.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Industrial Standards reference](industrial-standards-reference.md)
+</table>**Parent Topic:**[Industrial Standards reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-standards-reference.md)
 

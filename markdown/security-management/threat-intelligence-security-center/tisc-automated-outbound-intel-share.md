@@ -52,21 +52,21 @@ Creating an outbound intelligence share record via automated process:
     |**List of Indicators**|Select the type of indicators to add to an outbound intelligence record.|
     |**List of Objects**|Select the type of objects to add to an outbound intelligence record.|
     |**Include Related Records**|Add the related records of the selected observables, including indicators and objects.|
-    |**Requires approval**|Select the check box that requires approval for the outbound intelligence record. [Defining Approval Rule for Outbound Intel](../task/tisc-approval-outbound-intel.md).|
-    |**Users assigned to approve requests**|Select the users responsible for reviewing and approving outbound intelligence sharing record. For more information, see [Defining Approval Rule for Outbound Intel](../task/tisc-approval-outbound-intel.md).|
-    |**Groups assigned to approve requests**|Select the groups responsible for reviewing and approving outbound intelligence sharing record. [Defining Approval Rule for Outbound Intel](../task/tisc-approval-outbound-intel.md).|
+    |**Requires approval**|Select the check box that requires approval for the outbound intelligence record. [Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-approval-outbound-intel.md).|
+    |**Users assigned to approve requests**|Select the users responsible for reviewing and approving outbound intelligence sharing record. For more information, see [Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-approval-outbound-intel.md).|
+    |**Groups assigned to approve requests**|Select the groups responsible for reviewing and approving outbound intelligence sharing record. [Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-approval-outbound-intel.md).|
 
 6.  Select **Done**.
 
 
 ## What to do next
 
-Activate the flow. For more information on automated flows, see [Automated sharing of high-risk IOC's with trusted partners](../task/tisc-automated-sharing-flow.md).
+Activate the flow. For more information on automated flows, see [Automated sharing of high-risk IOC's with trusted partners](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-automated-sharing-flow.md).
 
 **Related topics**  
 
 
-[Configuring Outbound Intel Sharing Controls](../task/tisc-outbound-sharing.md)
+[Configuring Outbound Intel Sharing Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-outbound-sharing.md)
 
-[Sharing of Outbound Intelligence Records from GUI](tisc-create-intel-records-lib.md)
+[Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md)
 

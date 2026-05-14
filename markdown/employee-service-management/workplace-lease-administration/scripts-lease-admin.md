@@ -20,12 +20,12 @@ Scripts installed with Workplace Lease Administration.
 |WSDLeaseTrackingNotificationUtils|Handles notifications for the lease administration implementation class.|
 |WSDLeaseTrackingNotificationUtilsSNC|Handles notifications in lease administration.|
 
-**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+**Parent Topic:**[Workplace Lease Administration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/workplace-lease-references.md)
 
 **Related topics**  
 
 
-[Workplace contract new record form](workplace-contract-form.md)
+[Workplace contract new record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-contract-form.md)
 
-[Components installed with Workplace Lease Administration](component-installed-lease-admin.md)
+[Components installed with Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/component-installed-lease-admin.md)
 

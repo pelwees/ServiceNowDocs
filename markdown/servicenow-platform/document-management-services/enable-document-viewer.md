@@ -49,5 +49,5 @@ Document Viewer is enabled by default. Activate it at the instance level and the
 **Related topics**  
 
 
-[Disable Document Viewer](disable-doc-viewer.md)
+[Disable Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/disable-doc-viewer.md)
 

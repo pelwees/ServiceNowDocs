@@ -59,5 +59,5 @@ The typical user journey with onboarding modals follows this pattern:
 
 **Completion:** Upon reaching the final step, users receive a completion confirmation and return to the application. The system records the interaction, preventing duplicate displays unless the modal is explicitly reset.
 
-**Parent Topic:**[Onboarding modals](next-experience-onboarding.md)
+**Parent Topic:**[Onboarding modals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/next-experience-onboarding.md)
 

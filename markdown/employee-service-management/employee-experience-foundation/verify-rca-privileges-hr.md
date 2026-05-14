@@ -32,5 +32,5 @@ Role required: admin
 5.  Delete all the entries under **ServiceNow for Microsoft Teams**, and **Collaboration Services** source scopes.
 
 
-**Parent Topic:**[Install HR Service Delivery integration with Microsoft Teams application](install-hr-ms-teams-plugin.md)
+**Parent Topic:**[Install HR Service Delivery integration with Microsoft Teams application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-hr-ms-teams-plugin.md)
 

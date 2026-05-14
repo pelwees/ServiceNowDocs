@@ -20,7 +20,7 @@ Use the Scripting Governance Tool \(SGT\) to provide a single, centralised contr
 
 Role required: security\_admin
 
-**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](t_ElevateToAPrivilegedRole.md).
+**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/t_ElevateToAPrivilegedRole.md).
 
 The **Scripting Governance Tool** helps you review user scripting governance your ServiceNow AI Platform. The **Conditional Script Writer** group grants scripting permissions to its members via the `snc_required_script_writer_permission` role. Users are added to the group by either an automated assignment or manual configuration. You can manage both of these settings from the **Scripting Governance Tool**.
 
@@ -103,13 +103,13 @@ View removals
 When you schedule for removal of user from the **Conditional Script Writer** group, the details are displayed on the View removals.
 
 </td></tr></tbody>
-</table>    ![Scripting Governance Tool dashboard](../image/scripting-governance-dashboard.png)
+</table>    ![Scripting Governance Tool dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/scripting-governance-dashboard.png)
 
 
 ## Result
 
 You can view the following topics to understand how you can:
 
--   [Scan for users who have scripted](scan-for-users-who-have-scripted.md)
--   [Remove users from the Conditional Script Writer group](remove-conditional-script-writer-users.md)
+-   [Scan for users who have scripted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/scan-for-users-who-have-scripted.md)
+-   [Remove users from the Conditional Script Writer group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/remove-conditional-script-writer-users.md)
 

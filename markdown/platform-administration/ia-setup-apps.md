@@ -27,7 +27,7 @@ Role required: admin
 
     The system dynamically renders application and plugin cards based on your admin entitlement status.
 
-    ![Screenshot showing the dynamically rendered apps and plugins tiles](../image/ia-install.png)
+    ![Screenshot showing the dynamically rendered apps and plugins tiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-install.png)
 
     **Note:** The Manage your products section is collapsible by default. You can expand it to see all the product family cards.
 
@@ -41,13 +41,13 @@ Role required: admin
 
     The detailed Product Hub page for ITSM shows up. You can see the list of app bundles that need to be installed.
 
-    ![Screenshot showing ITSM set up flow](../image/ia-itsm-setup.png)
+    ![Screenshot showing ITSM set up flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-itsm-setup.png)
 
     **Note:** The above UI is only for ITSM.
 
 4.  Select **Upload batch** from Option 2.
 
-    This step is applicable only if you are setting up ITSM from another ServiceNow instance. See [Manage update set for Now Assist for Setup](ia-update-set.md) for more information.
+    This step is applicable only if you are setting up ITSM from another ServiceNow instance. See [Manage update set for Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-update-set.md) for more information.
 
 5.  Select the install icon next to the app bundle mentioned under the Not installed tab to start the installation process of the specific app bundle.
 
@@ -69,7 +69,7 @@ Role required: admin
 
 7.  Select **Upload batch** to upload a batch file and set up the update set for Now Assist for Setup.
 
-    **Note:** This step is applicable only if you need to setup the update set for either ITSM or CBS. See [Manage update set for Now Assist for Setup](ia-update-set.md) for more information.
+    **Note:** This step is applicable only if you need to setup the update set for either ITSM or CBS. See [Manage update set for Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-update-set.md) for more information.
 
 8.  Expand Whats's included to view the applications included in the app bundle.
 
@@ -77,8 +77,8 @@ Role required: admin
 
 9.  Select **Configure** to move to the Configuration Console page.
 
-    See [Configure in Now Assist for Setup](../concept/ia-config-landing.md) for more information.
+    See [Configure in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/ia-config-landing.md) for more information.
 
 
-**Parent Topic:**[Administer Now Assist for Setup](../concept/ia-administer.md)
+**Parent Topic:**[Administer Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/ia-administer.md)
 

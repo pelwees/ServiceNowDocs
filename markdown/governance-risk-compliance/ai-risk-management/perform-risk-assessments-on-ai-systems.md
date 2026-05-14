@@ -23,7 +23,7 @@ Role required: AI Risk and Compliance Analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_
 
 ## About this task
 
-To confirm risk-based assessments on AI assets and risk roll-up function correctly, the **Migrate to Advanced Risk Assessments** property must be enabled. If the property is set to **No**, risk score roll-up does not occur. For more information, see [Set up Advanced Risk assessments properties](advanced-risk-assessments-properties-airc.md).
+To confirm risk-based assessments on AI assets and risk roll-up function correctly, the **Migrate to Advanced Risk Assessments** property must be enabled. If the property is set to **No**, risk score roll-up does not occur. For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
 
 ## Procedure
 
@@ -68,7 +68,7 @@ To confirm risk-based assessments on AI assets and risk roll-up function correct
 
 ## What to do next
 
-[Create control attestations for AI asset](attest-controls-for-ai-systems.md)
+[Create control attestations for AI asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/attest-controls-for-ai-systems.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

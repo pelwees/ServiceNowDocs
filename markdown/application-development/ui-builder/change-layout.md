@@ -29,9 +29,9 @@ Layouts control what containers and components are available on a page, and wher
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
-3.  [Create](create-page.md) or open a page.
+3.  [Create](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md) or open a page.
 
 4.  Select the **Layout** tab.
 
@@ -61,7 +61,7 @@ Select the container on your page for which you want to change the layout.**Note
 
 In the content tree to the left of the main page area, select the **Body** of your page. **Body** is the root element of the page.
 
- ![Arrow pointing to body element in the content tree structure.](../image/UIB-content-tree-body.png)
+ ![Arrow pointing to body element in the content tree structure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-content-tree-body.png)
 
 </td></tr></tbody>
 </table>    If you are starting a new page, you can select the layout at the page level, and later at the container level. If you are not the owner of an existing page, be aware of the impact of changing the layout at the page level.
@@ -74,25 +74,25 @@ In the content tree to the left of the main page area, select the **Body** of yo
 
         You can also set the layout for a container. The following image shows the layout options for the UI Builder.
 
-        ![Layout options for UI Builder.](../image/UIB-layouts.png)
+        ![Layout options for UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-layouts.png)
 
     2.  If you are creating a page, add components to the new areas in your layout.
 
     3.  Click **Save**.
 
-    4.  View and test your page by selecting ![Preview button that opens your page in runtime, which is a preview of how the page looks on a web page.](../image/preview-button.png).
+    4.  View and test your page by selecting ![Preview button that opens your page in runtime, which is a preview of how the page looks on a web page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preview-button.png).
 
     For changing an existing page, the following video shows how you can change the container layout from three to four columns, and then add a new component to the fourth column.
 
-    ![Changing the layout of an existing page.](../image/UIB-change-layout-video.gif)
+    ![Changing the layout of an existing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-change-layout-video.gif)
 
     For setting the layout of a new page, the following video shows you how to set the layout that you want for the page. For example, you can set your page to have two slots or columns. Then, you can add containers to each slot and change the layout for each container. You can also set the layout at the container level after you add containers to your page.
 
-    ![Changing the layout of a page](../image/UIB-change-layout-page.gif "Change the layout of a page")
+    ![Changing the layout of a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-change-layout-page.gif "Change the layout of a page")
 
 7.  Add components to slots.
 
-    You build your page with containers components. See [Customize UI Builder pages using components](../concept/work-components.md) for more information.
+    You build your page with containers components. See [Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-components.md) for more information.
 
     You can add components by using any of the following ways.
 
@@ -128,7 +128,7 @@ On a column layout or component, select the add before \(plus\) or add after \(p
 
 In the content tree, select **+ Add content** and then select a component.
 
- ![Black arrow pointing to + add content option in content tree next to the toolbox window with Components tab selected.](../image/component-add-from-content-tree.png)
+ ![Black arrow pointing to + add content option in content tree next to the toolbox window with Components tab selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/component-add-from-content-tree.png)
 
 </td></tr><tr><td id="d254393e370">
 
@@ -161,9 +161,9 @@ You can click the container in the content tree, or you can click the container 
 
 2.  From the floating menu above the page, click **Layout**.
 
-![Location of change layout icon on the floating menu.](../image/UIB-layout-change.png)
+![Location of change layout icon on the floating menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-layout-change.png)
 
-3.  Choose to display your content as either Flex or Grid. For more information about flex or grid options, see [Using Flexbox layouts in UI Builder](../concept/flexbox-uib.md#) or [Using CSS Grid layouts to build a page](../concept/css-grid-uib.md#).
+3.  Choose to display your content as either Flex or Grid. For more information about flex or grid options, see [Using Flexbox layouts in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/flexbox-uib.md#) or [Using CSS Grid layouts to build a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/css-grid-uib.md#).
 
 
 </td></tr><tr><td id="d254393e460">
@@ -174,7 +174,7 @@ You can click the container in the content tree, or you can click the container 
 
 1.  From the Display list, select **Flex**.
 
-![Flex or grid option in a drop-down.](../image/UIB-flex-or-grid-option.png)
+![Flex or grid option in a drop-down.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-flex-or-grid-option.png)
 
 2.  Select the following options based on how you want to display your container content on the page. The options can also be entered in the CSS styles box:
 
@@ -195,7 +195,7 @@ You can click the container in the content tree, or you can click the container 
     -   Width: Set the height of your flexbox items automatically or manually.
     -   Margin: Set your minimal distance between flexbox items.
     -   Padding: Set the padding for each side of your flexbox items.
-![Flex style options.](../image/UIB-flexbox-styling.png)
+![Flex style options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-flexbox-styling.png)
 
 </td></tr><tr><td id="d254393e592">
 
@@ -205,7 +205,7 @@ You can click the container in the content tree, or you can click the container 
 
 1.  From the Display list, select **Grid**.
 
-![Grid selected from the Display list.](../image/UIB-grid-select.png)
+![Grid selected from the Display list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/UIB-grid-select.png)
 
 2.  Fill in the following information:
     -   Height: Set the height automatically, or manually.
@@ -216,5 +216,5 @@ You can click the container in the content tree, or you can click the container 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Organize components in UI Builder pages](../concept/work-layouts.md)
+**Parent Topic:**[Organize components in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-layouts.md)
 

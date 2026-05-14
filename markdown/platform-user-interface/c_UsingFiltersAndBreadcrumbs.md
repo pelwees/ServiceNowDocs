@@ -19,7 +19,7 @@ Breadcrumbs offer a quick form of filter navigation. They are ordered from left 
 
 By default, a user with no roles cannot see the breadcrumbs or filter. Administrators can configure the ESS portal to allow unauthenticated users to see breadcrumbs and filters by using a script include. For more information on using script includes to suppress breadcrumbs and filters, see [Use script includes to suppress filters and breadcrumbs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/t_SuppressFiltersScriptInclude.md) .
 
-![Breadcrumbs.](../image/BreadcrumbsUI.png "Breadcrumbs, List v2")
+![Breadcrumbs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/BreadcrumbsUI.png "Breadcrumbs, List v2")
 
 Examples:
 
@@ -72,23 +72,23 @@ Copies the encoded query to the clipboard for the breadcrumb. You can use this q
  This selection is not available for the **All** breadcrumb.
 
 </td></tr></tbody>
-</table>-   **[Quick filters](c_QuickFilters.md)**  
+</table>-   **[Quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_QuickFilters.md)**  
 To quickly filter a list using a value in a field, right-click in the field and select **Show Matching** or **Filter Out**. For date fields, choose from **Show Before**, **Show After**, and **Filter Out**.
--   **[Filters](c_Filters.md)**  
+-   **[Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)**  
 A filter restricts what records appear in a list by providing a set of conditions each record must meet to be included in the list.
--   **[Save and use filters in a list view](../task/t_SavingFilters.md)**  
+-   **[Save and use filters in a list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_SavingFilters.md)**  
 Depending on your access rights, you may save filters for everyone, a user group, or yourself. You can apply saved filters and edit or delete them.
--   **[Filter admin functions](filter-admin-functions.md)**  
+-   **[Filter admin functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/filter-admin-functions.md)**  
 Administrators can work with filters in the Filters table \[sys\_filter\], including creating, editing, and deleting filters.
--   **[Encoded query strings](c_EncodedQueryStrings.md)**  
+-   **[Encoded query strings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_EncodedQueryStrings.md)**  
 An encoded query string represents a complex filter on a list of records.
 
-**Parent Topic:**[Lists in the classic environment](c_UseLists.md)
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 **Related topics**  
 
 
 [Dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-[Generate an encoded query string through a filter](../task/t_GenEncodQueryStringFilter.md)
+[Generate an encoded query string through a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_GenEncodQueryStringFilter.md)
 

@@ -19,11 +19,11 @@ Configure the Field Service Management Customer Experience application to enable
 
 The steps for setting up Field Service Management Customer Experience are:
 
-1.  [Activate Field Service Management Customer Experience](Configuring-cust-exp.md#)
+1.  [Activate Field Service Management Customer Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md#)
 
     Activate the Field Service Management Customer Experience plugin \(com.snc.fsm\_customer\_experience\) to use the Customer Experience feature with Field Service Management.
 
-2.  [Customer notifications for work order tasks](Configuring-cust-exp.md#)
+2.  [Customer notifications for work order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md#)
 
     Set up notification messages and emails to update customers about the status of their work order tasks.
 
@@ -78,7 +78,7 @@ The following items are installed with Field Service Management Customer Experie
 -   Properties
 -   Business rules
 
-For more information, see [Customer Experience components](../reference/customer-experience-components.md).
+For more information, see [Customer Experience components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/customer-experience-components.md).
 
 ### Procedure
 

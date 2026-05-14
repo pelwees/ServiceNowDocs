@@ -17,7 +17,7 @@ The work order sourcing option is useful when you want to assign a work order ta
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -37,9 +37,9 @@ The sourcing option shows the full list of tasks and part requirements to source
 
     The **Agent** field under **Agent info** is populated automatically based on information provided in the work order task.
 
-6.  To specify a different agent, click the Lookup using list icon \(![List icon.](../image/IconReferenceLookup.png)\).
+6.  To specify a different agent, click the Lookup using list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/IconReferenceLookup.png)\).
 
-    Only agents that meet the criteria in the work order task are available for selection. The system populates the **Skills** and **Parts** fields automatically, based on the agent specified. If a not available icon \(![Not available icon.](../image/NotAvailableIcon.png)\) appears next to a part, the specified agent either does not have the part or does not have enough units of the part to complete the task.
+    Only agents that meet the criteria in the work order task are available for selection. The system populates the **Skills** and **Parts** fields automatically, based on the agent specified. If a not available icon \(![Not available icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/NotAvailableIcon.png)\) appears next to a part, the specified agent either does not have the part or does not have enough units of the part to complete the task.
 
 7.  Point to the icon to obtain information about how many units of the part are needed and how many units the agent has in their stockroom.
 

@@ -17,7 +17,7 @@ Edit a growth conversation series to add any details that you have missed out wh
 
 ## Before you begin
 
-You must have a growth conversation created in order to edit it, see [Create a growth conversation in Career Conversations](egd-create-growth-conversation.md)
+You must have a growth conversation created in order to edit it, see [Create a growth conversation in Career Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-create-growth-conversation.md)
 
 Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.manager\]
 
@@ -78,5 +78,5 @@ Your conversations
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../concept/egd-activities-use.md)
 

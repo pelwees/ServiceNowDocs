@@ -21,13 +21,13 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the Invoice exception definition form. For more information, see [Invoice exception definition form](../reference/invoice-exception-definition-form.md).
+The **Bypass exception** option is available for an exception only if the **Allow bypass** option is selected for that exception on the Invoice exception definition form. For more information, see [Invoice exception definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/invoice-exception-definition-form.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -80,5 +80,5 @@ View exceptions from an invoice processing case
     After you bypass an exception, the exception engine re-runs automatically.
 
 
-**Parent Topic:**[Work on an invoice exception](work-invoice-exception-case.md)
+**Parent Topic:**[Work on an invoice exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-invoice-exception-case.md)
 

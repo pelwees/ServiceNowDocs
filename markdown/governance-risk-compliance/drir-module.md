@@ -21,19 +21,19 @@ The Digital Resilience Incident Reporting \(DRIR\) streamlines the case reportin
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Digital resilience incident reporting \(DRIR\)](dri-module-in-ws.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Digital resilience incident reporting \(DRIR\)](dri-module-in-ws.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the conditions for incident reporting](workflow-confi-auto-trigger-inci-repo-cases.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the conditions for incident reporting](workflow-confi-auto-trigger-inci-repo-cases.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Report incidents from other applications or manually](using-drir.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Report incidents from other applications or manually](using-drir.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with DRIR](../reference/drir-ref.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with DRIR](../reference/drir-ref.md)
 
 </td></tr></tbody>
 </table>## Additional resources

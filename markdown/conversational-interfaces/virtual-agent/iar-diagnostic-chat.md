@@ -25,7 +25,7 @@ To identify the records to allow, follow these steps:
 2.  Filter the records by `Source=76fec17dc0e1d5d0f877e9d0ea777a12` \(Script Include: IARIssueNotAssignedDiagnostic\).
 3.  Navigate to each record and change the status to **Allowed**.
 
-    ![Double-click in the Status column, and then choose Allowed from the list. Select the save icon.](../images/iar-diagnostic-12.png)
+    ![Double-click in the Status column, and then choose Allowed from the list. Select the save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-12.png)
 
 
 ## Diagnostic conversation flows
@@ -35,17 +35,17 @@ The admin user enters `IAR` in the chat window to initiate a conversation about 
 -   An Incident or case isn’t getting assigned to the Bot user.
 -   An Incident or case isn’t going through Issue Auto Resolution.
 
-![When the admin types "IAR," the bot offers these two solutions. Select the one that applies.](../images/iar-diagnostic-1.png)
+![When the admin types "IAR," the bot offers these two solutions. Select the one that applies.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-1.png)
 
 ## Conversation flow: Incident or HR case is not getting assigned to bot user
 
 1.  Confirm your selection, return to search, or search KB articles.
 
-    ![Bot responses for this flow include Yes, Back to Searched result, Search KB, and Search again.](../images/iar-diagnostic-2.png)
+    ![Bot responses for this flow include Yes, Back to Searched result, Search KB, and Search again.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-2.png)
 
 2.  Select the type of case or Incident with which you need help, or choose to search all Issue Auto Resolution configurations.
 
-    ![You are prompted to select the related table you want to run the health check on. For instance, HR Cases, Incidents, or all configured tables.](../images/iar-diagnostic-3.png)
+    ![You are prompted to select the related table you want to run the health check on. For instance, HR Cases, Incidents, or all configured tables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-3.png)
 
 3.  The diagnostic tool performs an analysis on Issue Auto Resolution configuration and settings and displays the results. The diagnostic confirms the following conditions:
 
@@ -60,11 +60,11 @@ The admin user enters `IAR` in the chat window to initiate a conversation about 
     -   There is an active intent topic map for the Incident configuration.
     The diagnostic for a case additionally checks that AI Search has been enabled and doesn’t check for an intent topic map. If all the settings are correct and the issue persists, the user can choose to continue the conversation.
 
-    ![Bot response showing PASSED test results for the conversation.](../images/iar-diagnostic-4.png)
+    ![Bot response showing PASSED test results for the conversation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-4.png)
 
 4.  Enter the Incident or case number and confirm it’s correct.
 
-    ![When you've chose to proceed with the test, enter the Incident or case number in the chat.](../images/iar-diagnostic-6.png)
+    ![When you've chose to proceed with the test, enter the Incident or case number in the chat.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-6.png)
 
     The bot asks you to confirm the number you entered.
 
@@ -80,7 +80,7 @@ The admin user enters `IAR` in the chat window to initiate a conversation about 
 
 1.  Confirm your choice to proceed diagnosing a functionality issue with Issue Auto Resolution.
 
-    ![Confirm your choice to diagnose an Issue Auto Resolution problem in the chat window.](../images/iar-diagnostic-9.png)
+    ![Confirm your choice to diagnose an Issue Auto Resolution problem in the chat window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-9.png)
 
 2.  The diagnostic tool checks the following conditions:
 
@@ -90,13 +90,13 @@ The admin user enters `IAR` in the chat window to initiate a conversation about 
     -   The end user responded to the notification.
     If any of these checks reveal an issue, the diagnostic tool displays a possible solution. Indicate whether these solutions resolved the issue, or choose to perform further analysis.
 
-    ![Select Yes if you found a solution, or select No to continue with further diagnosis.](../images/iar-diagnostic-11.png)
+    ![Select Yes if you found a solution, or select No to continue with further diagnosis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/iar-diagnostic-11.png)
 
 
-**Parent Topic:**[Using Issue Auto Resolution](auto-resolution-va.md)
+**Parent Topic:**[Using Issue Auto Resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/auto-resolution-va.md)
 
 **Related topics**  
 
 
-[Conversational Interfaces Diagnostic Tool](../../conversational-interfaces/concept/ci-diagnostics-tool-landing.md)
+[Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../conversational-interfaces/concept/ci-diagnostics-tool-landing.md)
 

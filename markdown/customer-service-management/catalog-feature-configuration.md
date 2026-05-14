@@ -43,10 +43,10 @@ Catalogs
 
 </td><td>
 
-List of catalogs that are associated with your messenger. Use the Edit option \(![Lock icon.](../image/lock-icon.png)\) and search for a catalog to add to your messenger.
+List of catalogs that are associated with your messenger. Use the Edit option \(![Lock icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/lock-icon.png)\) and search for a catalog to add to your messenger.
 
 </td></tr></tbody>
-</table>![Engagement Messenger home page displaying catalog feature widget to request various services.](../image/em-catalog-feature.png "Catalog feature widget")
+</table>![Engagement Messenger home page displaying catalog feature widget to request various services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-catalog-feature.png "Catalog feature widget")
 
 **Note:** When you upgrade Engagement Messenger application from v1.0.0 to a newer version, the Catalog feature is disabled for all the existing messenger modules. However, AI search results from the home page of the Engagement Messenger still show catalogs to the users. For more information, see the [Known issues in Engagement Messenger \[KB0952509\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0952509) article.
 

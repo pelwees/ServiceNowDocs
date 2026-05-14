@@ -37,7 +37,7 @@ Roles required: sn\_si.admin
     -   Post incident analysis
     -   Security operations metrics analysis
 
-        This skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](assess-metrics-sir-aiagent.md) for more information.
+        This skill is activated for use with an AI agent. See [Analyze security operations metrics agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/assess-metrics-sir-aiagent.md) for more information.
 
     -   Correlation insights generation
     -   Security incident summarization
@@ -47,7 +47,7 @@ Roles required: sn\_si.admin
     -   Security Incident Quality Assessment
 3.  Create a copy of a skill and customize the input fields.
 
-    1.  Select **![More actions icon.](../../security-incident-response/image/cj-sir-flow-more-icon.png)\)** &gt; **Make a copy**.
+    1.  Select **![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../../security-incident-response/image/cj-sir-flow-more-icon.png)\)** &gt; **Make a copy**.
 
     2.  Confirm your choice in the modal.
 
@@ -125,7 +125,7 @@ User roles
 
 </td><td>
 
-Select the expand icon \(![Expand icon.](../image/icon-expand.png)\)
+Select the expand icon \(![Expand icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../image/icon-expand.png)\)
 
 </td></tr><tr><td>
 

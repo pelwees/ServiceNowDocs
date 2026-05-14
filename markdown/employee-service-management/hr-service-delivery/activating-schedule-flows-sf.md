@@ -31,7 +31,7 @@ Role required: sn\_hr\_sf.admin
 
 5.  Expand **Call Run SuccessFactors Service Subflow**.
 
-    Once data is pulled into staging tables, transform maps moves data into target tables. For more details, refer to [Use transform maps](../reference/transform-maps-w.md).
+    Once data is pulled into staging tables, transform maps moves data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/transform-maps-w.md).
 
     **Note:**
 

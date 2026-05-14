@@ -62,19 +62,19 @@ Select an operation to perform for the step. By default, **Provision**, **Stop**
 
 5.  Click the **Create Form Parameter** check box to select a parameter.
 
-    Parameters differ for each operation. Enter a mapping expression for the selected parameter in the **Mapping** field. See [Using expressions in Cloud Provisioning and Governance](../reference/expressions-cloud-mgt.md).
+    Parameters differ for each operation. Enter a mapping expression for the selected parameter in the **Mapping** field. See [Using expressions in Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/expressions-cloud-mgt.md).
 
 6.  Click **Save**.
 
 
-**Parent Topic:**[Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
+**Parent Topic:**[Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)
 
 **Related topics**  
 
 
-[Execute blueprint operations in parallel](execute-blueprint-operations-parallel.md)
+[Execute blueprint operations in parallel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/execute-blueprint-operations-parallel.md)
 
-[Blueprint attributes](../reference/blueprint-attributes.md)
+[Blueprint attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../reference/blueprint-attributes.md)
 
-[Configure a blueprint rule](configure-a-blueprint-rule.md#)
+[Configure a blueprint rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md#)
 

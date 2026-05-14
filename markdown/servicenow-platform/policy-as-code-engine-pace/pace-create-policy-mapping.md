@@ -31,16 +31,16 @@ Role required: sn\_pace.mapping\_admin
 
     If there are any existing mappings for the selected policy, they are displayed.
 
-    ![Existing policy mappings.](../image/pace-mappings-tab-1.jpg)
+    ![Existing policy mappings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-mappings-tab-1.jpg)
 
 4.  To add a new mapping input, click **Add**.
 
     Any objects that are available for mapping are displayed.
 
-    ![Map the policy to objects.](../image/pace-mapping-policy-1.jpg)
+    ![Map the policy to objects.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-mapping-policy-1.jpg)
 
 5.  Select the check box to the left of each object that you want to map the policy to, and click **Map Policy**.
 
-    The new mapping input is added to the list of policy mappings. In addition, an alert message indicates whether the mapping is valid and active. For information about editing existing mapping inputs, see [Edit mapping inputs](pace-edit-mapping-inputs.md).
+    The new mapping input is added to the list of policy mappings. In addition, an alert message indicates whether the mapping is valid and active. For information about editing existing mapping inputs, see [Edit mapping inputs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-edit-mapping-inputs.md).
 
 

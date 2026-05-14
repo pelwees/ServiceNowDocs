@@ -18,7 +18,7 @@ Specify the communities you want your Microsoft Viva Engage external content con
 
 ## Before you begin
 
-A connector admin must have already created the Microsoft Viva Engage external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Microsoft Viva Engage external content connector](create-ext-cont-connector-microsoft-viva-engage.md).
+A connector admin must have already created the Microsoft Viva Engage external content connector that you want to configure crawl settings for. To learn about this procedure, see [Create a Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-microsoft-viva-engage.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
@@ -71,7 +71,7 @@ If one of your connectors reaches the content indexing limit, you can update its
 
         As an example, you might enter `.csv` to exclude attachments with the Comma-Separated Values \(CSV\) file format.
 
-    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](../reference/file-extensions-ext-cont-connector.md).
+    For details on the supported attachment file extensions, see [Binary file extensions supported in External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/file-extensions-ext-cont-connector.md).
 
 6.  Select **Save and validate**.
 
@@ -82,7 +82,7 @@ The Microsoft Viva Engage external content connector is updated with your modifi
 
 ## What to do next
 
-To retrieve content from your Microsoft Viva Engage source system using your modified crawl settings, create and run a one-time content crawl for your Microsoft Viva Engage external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+To retrieve content from your Microsoft Viva Engage source system using your modified crawl settings, create and run a one-time content crawl for your Microsoft Viva Engage external content connector. To learn about creating and running one-time content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Microsoft Viva Engage external content connector](../concept/microsoft-viva-engage-external-content-connector.md)
+**Parent Topic:**[Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-viva-engage-external-content-connector.md)
 

@@ -31,7 +31,7 @@ Role required: sn\_oper\_res.admin
 
     A sample record is shown for reference.
 
-    ![Data relationships.](../image/d17-dri-temp-config-data-rela-rel-list.png)
+    ![Data relationships.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/d17-dri-temp-config-data-rela-rel-list.png)
 
 5.  On the form, fill in the fields.
 
@@ -107,5 +107,5 @@ Table from which the data is obtained. This field is automatically populated.
 
 ## What to do next
 
-Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](../../grc-business-continuity-management/task/create-content-config-for-temp-config.md).
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-business-continuity-management/task/create-content-config-for-temp-config.md).
 

@@ -86,5 +86,5 @@ Date until which the capacity definition and reservations should applied.
 **Related topics**  
 
 
-[Configuring Field Service Capacity and Reservations Management](../concept/configuring-capacity-management.md)
+[Configuring Field Service Capacity and Reservations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/configuring-capacity-management.md)
 

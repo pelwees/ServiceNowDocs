@@ -17,7 +17,7 @@ Show different times around the world using the Cool Clock widget. You can use t
 
 Cool clocks demonstrates how to use instance options in a widgets. The time zone is loaded using an instance option. If you do not select a time zone, the widget uses a default time zone.
 
-![Cool Clock widget](../image/WidgetCoolClock.png "Cool Clock widget")
+![Cool Clock widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetCoolClock.png "Cool Clock widget")
 
 ## Instance options
 
@@ -27,14 +27,14 @@ Cool clocks demonstrates how to use instance options in a widgets. The time zone
 |Timezone|The location from which the time is displayed. Use the local full name, for example, **America/New York**, instead of the abbreviated time zone. Using the full name allows time zones to stay consistent with daylight savings time. The default value is **America/Los Angeles**|
 |Second hand color|Color of the second hand using the hex code, RGB, or color name. The default value is **red**.|
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

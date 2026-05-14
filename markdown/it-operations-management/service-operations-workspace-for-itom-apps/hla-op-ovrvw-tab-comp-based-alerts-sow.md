@@ -15,7 +15,7 @@ breadcrumb: [Start remediation of a Log Analytics alert, Log Analytics in SOW fo
 
 The **Overview** tab in the Service Operations Workspace helps you understand Component-based alerts.
 
-For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-op-log-analytics-alert-types.md).
 
 ## Summary
 
@@ -23,9 +23,9 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     This card describes the issue that led to the alert. The identified issue appears on the card and in the title for the alert. Information about the alert appears in the banner.
 
-    ![Identified issue appears here and in alert title.](../image/identified-issue-card-comp-based-sow.png "Identified issue")
+    ![Identified issue appears here and in alert title.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/identified-issue-card-comp-based-sow.png "Identified issue")
 
-    Select **View surrounding logs** to view log messages that are relevant to the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    Select **View surrounding logs** to view log messages that are relevant to the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-surrounding-logs-view-sow.md).
 
 -   **Anomaly**
 
@@ -38,9 +38,9 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     In this example, the peach-shaded area shows the data for the same hour one day earlier. The drop in the metric value \(events per minute\) is clearly visible.
 
-    ![Anomaly card identifies and illustrates anomalous behavior.](../image/anomaly-day-earlier-sow.png "Anomaly card")
+    ![Anomaly card identifies and illustrates anomalous behavior.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/anomaly-day-earlier-sow.png "Anomaly card")
 
-    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md).
+    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/hla-op-anomalous-behavior-types.md).
 
 
 ## Impact
@@ -53,7 +53,7 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     This card provides information about the services that are impacted by the alert.
 
-    ![Impact section provides information on the impacted CIs and services.](../image/hla-ovrvw-tab-impact-sow.png "Impact section")
+    ![Impact section provides information on the impacted CIs and services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/hla-ovrvw-tab-impact-sow.png "Impact section")
 
 
 ## Cause
@@ -62,8 +62,8 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
     On this card, each bar chart shows the distribution of values for a single log property that contributed to the anomaly. Each property value is associated with a color. The length of a color bar correlates to the percentage that the property value holds in comparison with all other values for the property.
 
-    ![Meaningful log properties shows relative frequency of occurrence for property values.](../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
+    ![Meaningful log properties shows relative frequency of occurrence for property values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/meaningful-log-properties-card-sow.png "Meaningful log properties")
 
 
-**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](../task/hla-op-overview-tab-view-sow.md)
+**Parent Topic:**[Start remediation of a Log Analytics alert from the Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../task/hla-op-overview-tab-view-sow.md)
 

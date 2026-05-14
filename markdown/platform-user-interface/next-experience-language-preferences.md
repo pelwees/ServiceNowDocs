@@ -33,7 +33,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Date and time format.](../image/pol-pref-date.png)
+![Date and time format.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-date.png)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Determines if and how to display the amount of time passed since a recorded date
 
 </td></tr><tr><td>
 
-![Timezone.](../image/pol-pref-timezone.png)
+![Timezone.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-timezone.png)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Determines the time zone or returns to the default time zone for the current ses
 
 </td></tr><tr><td>
 
-![Language.](../image/pol-pref-language.png)
+![Language.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-language.png)
 
 </td><td>
 
@@ -62,7 +62,7 @@ Sets the language used for your instance when you have access to more than one l
 
 </td></tr><tr><td>
 
-![Country](../image/pol-pref-country.png)
+![Country](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-pref-country.png)
 
 </td><td>
 

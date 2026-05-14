@@ -25,11 +25,11 @@ Role required: admin
 
 2.  Run the Filter option to filter out the list by **Application**: Major Security Incident Management and **Table**: sn\_si\_incident.
 
-    ![UI Actions for linking records](../image/ui-actions-step3.png)
+    ![UI Actions for linking records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ui-actions-step3.png)
 
 3.  Select each UI action one by one and save the details for the source table.
 
-    ![Change source table](../image/ui-action-change-source-table-step3.png)
+    ![Change source table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ui-action-change-source-table-step3.png)
 
 4.  Repeat the steps for the following UI actions:
 
@@ -38,5 +38,5 @@ Role required: admin
     -   Unlink from Major Security Incident
     -   Promote to Major Security Incident
 
-**Parent Topic:**[Rollup example use case implementation for a Security Case](../concept/use-case-for-a-security-case.md)
+**Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/use-case-for-a-security-case.md)
 

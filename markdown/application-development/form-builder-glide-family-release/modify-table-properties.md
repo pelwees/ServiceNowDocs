@@ -17,18 +17,18 @@ Modify the table properties and manage the table fields by using the default Fie
 
 ## Before you begin
 
--   Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
--   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](../concept/form-builder-domain-separation.md).
--   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](../concept/fb-application-scope.md).
+-   Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/accessing-form-builder.md).
+-   \(Optional\) Choose a domain to work within \(if not global\). For more information, see [Domain separation and Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-builder-domain-separation.md).
+-   \(Optional\) Choose an application scope to work within \(if not global\). For more information, see [Using an application scope with Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/fb-application-scope.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ## Procedure
 
 -   Use the following procedures to edit tables using **Fields** view in Table Builder.
 
 
-**Parent Topic:**[Data in Table Builder](../concept/table-builder.md)
+**Parent Topic:**[Data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/table-builder.md)
 
 ## Add a table column in Table Builder
 
@@ -36,19 +36,19 @@ Store more information in a table record by adding a table column.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select **+ Add new field**.
 
 3.  On the resulting blank row, fill in the desired properties for the new data table column.
 
-    ![Adding a new field to a table.](../image/tb-add-new-field.png "Adding a new field to a table")
+    ![Adding a new field to a table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-add-new-field.png "Adding a new field to a table")
 
 <table id="choicetable_wqj_vdz_5wb"><thead><tr><th align="left" id="d182841e267">
 
@@ -134,7 +134,7 @@ Information about when the table was last updated.
 
 ### Result
 
-If you preview the table, you can see the new column that was added to your table. For more information on previewing a table, see [Preview your data in Table Builder](preview-table-fb.md).
+If you preview the table, you can see the new column that was added to your table. For more information on previewing a table, see [Preview your data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/preview-table-fb.md).
 
 ## Delete a table column in Table Builder
 
@@ -142,17 +142,17 @@ Delete a column from your table using Table Builder.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
-2.  Next to the table field row you want to delete, hover over the leftmost column, and select the Open side panel icon \(![Open side panel icon](../image/side-panel-icon.png)\).
+2.  Next to the table field row you want to delete, hover over the leftmost column, and select the Open side panel icon \(![Open side panel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/side-panel-icon.png)\).
 
-3.  At the top right corner of the side panel, select the trash icon \(![Trash icon.](../../../build/app-engine-studio/image/trash-icon.png)\) to delete the field.
+3.  At the top right corner of the side panel, select the trash icon \(![Trash icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/image/trash-icon.png)\) to delete the field.
 
     **Note:** Your table includes several default columns \(including Created and Updated\), that you can't delete. Also, you can't delete columns that are extended from another table or columns where data records are already present. To delete the column, you must first delete the existing data.
 
@@ -161,7 +161,7 @@ Role required: personalize\_dictionary or AES user role and delegated developer 
 
 ### Result
 
-If you preview the table, you can see that the table column is no longer used in the table. For more information on previewing a table, see [Preview your data in Table Builder](preview-table-fb.md).
+If you preview the table, you can see that the table column is no longer used in the table. For more information on previewing a table, see [Preview your data in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/preview-table-fb.md).
 
 ## Change a column label in Table Builder
 
@@ -169,7 +169,7 @@ Modify the label that uniquely identifies the data that is stored in it to users
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -181,7 +181,7 @@ Use a column label that describes the specific information that you expect users
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Change a column label in the Column label column, by updating the text in the corresponding row.
 
@@ -198,7 +198,7 @@ Change the database name for the column. You may opt to change the column name m
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -210,7 +210,7 @@ A column name is the text that an administrator uses to track column data in the
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Change the column name in the Column name column by updating the text in the corresponding row.
 
@@ -227,13 +227,13 @@ Change the type of field that will store information for rows in a table column.
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select a cell and clear the text from the **Type** column.
 
@@ -256,25 +256,25 @@ Edit field properties such as the field label, type, and default values in Table
 
 ### Before you begin
 
-Launch Table Builder. For more information, see [Accessing Table Builder](../concept/accessing-form-builder.md).
+Launch Table Builder. For more information, see [Accessing Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/accessing-form-builder.md).
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Select a field you want to modify in the table.
 
-    For information about basic field properties, see [Field Configuration.](../reference/field-parameters.md)
+    For information about basic field properties, see [Field Configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../reference/field-parameters.md)
 
-3.  Next to the field you want to edit, hover over the leftmost column, and select the Open side panel icon \(![Open side panel icon](../image/side-panel-icon.png)\).
+3.  Next to the field you want to edit, hover over the leftmost column, and select the Open side panel icon \(![Open side panel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/side-panel-icon.png)\).
 
 4.  Make your changes to the field properties.
 
-    For information about modifying a field's UI policies, see [Modify a UI policy in Table Builder](../concept/form-builder-policies-rules.md#).
+    For information about modifying a field's UI policies, see [Modify a UI policy in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../concept/form-builder-policies-rules.md#).
 
     **Note:** The **Config** tab on the right stays open even if you switch between the **Data** and **Forms** tabs.
 
@@ -287,13 +287,13 @@ Define the default value to populate a table column automatically after a user c
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### Procedure
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Add the default value of a column in the **Default value** column by updating the content in the corresponding row.
 
@@ -310,7 +310,7 @@ Select a column value that will be displayed in the reference fields of other ta
 
 ### Before you begin
 
-Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
+Role required: personalize\_dictionary or AES user role and delegated developer permissions. For more information, see [Delegate developers using AES](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../../../build/app-engine-studio/concept/aes-app-dev-workflow.md).
 
 ### About this task
 
@@ -322,19 +322,19 @@ Only one column can act as the display value for a table.
 
 1.  Navigate to the **Data** tab.
 
-    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](../image/tb-data-addl-actions-menu.png)\).
+    **Note:** Fields view displays by default. You can also access the Fields view from the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/tb-data-addl-actions-menu.png)\).
 
 2.  Check that all selections are cleared from the **Display** column.
 
     To clear a selection, toggle off the switch as shown in the following example.
 
-    ![Toggle off.](../image/toggle-off.png "Toggle off")
+    ![Toggle off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/toggle-off.png "Toggle off")
 
 3.  From the Display column, select one row to act as the table display value.
 
     To select a row, toggle on the switch as shown in the following example.
 
-    ![Toggle on.](../image/toggle-on.png "Toggle on")
+    ![Toggle on.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/toggle-on.png "Toggle on")
 
 4.  Select **Save**.
 

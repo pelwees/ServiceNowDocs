@@ -27,15 +27,15 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
 3.  Locate the question and response of interest.
 
-4.  If you want to change the question, select the **Edit question** button ![Edit source icon](../../../administer/process-mining/image/edit-icon.png).
+4.  If you want to change the question, select the **Edit question** button ![Edit source icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/process-mining/image/edit-icon.png).
 
-    ![The Edit Question button next to the question quoted by a response.](../image/nowass-explr-edit-question.png)
+    ![The Edit Question button next to the question quoted by a response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-explr-edit-question.png)
 
     1.  Edit the question.
 
     2.  Select the **Send the prompt** arrow.
 
-        ![Question editing field showing Send the prompt arrow.](../image/nowass-expl-edit-question-send-prompt.png)
+        ![Question editing field showing Send the prompt arrow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-edit-question-send-prompt.png)
 
     A new response is generated, replacing the old one.
 
@@ -43,15 +43,15 @@ Role required: now\_assist\_explorer\_user and ownership or editing rights to th
 
     -   If the exploration is wide, you see an **Edit source** button next to the **AI** button on the response. Press it.
 
-        ![The Edit source button in a response](../image/nowass-expl-edit-source.png)
+        ![The Edit source button in a response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-edit-source.png)
 
-    -   If the exploration is narrow, you see a **View source** button instead of an **Edit source** button. Press that to open the source information, then press the ![Edit source icon](../../../administer/process-mining/image/edit-icon.png) in the source information.
+    -   If the exploration is narrow, you see a **View source** button instead of an **Edit source** button. Press that to open the source information, then press the ![Edit source icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/process-mining/image/edit-icon.png) in the source information.
 
-        ![The information pane that opens when you select View source for a generated response.](../image/nowass-expl-view-source.png)
+        ![The information pane that opens when you select View source for a generated response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-view-source.png)
 
     The Source dialog opens.
 
-    ![Response source editor with condition builder.](../image/nowass-expl-response-source-editor.png)
+    ![Response source editor with condition builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-response-source-editor.png)
 
 6.  Change the filter conditions to meet your needs.
 
@@ -64,5 +64,5 @@ The data visualization, summary, and suggested follow-on questions are regenerat
 
 **Note:** Regenerating a response removes all changes that you made manually to the text in the summary.
 
-**Parent Topic:**[Questions and responses in an exploration](../concept/ask-expl-questions.md)
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/ask-expl-questions.md)
 

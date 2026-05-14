@@ -18,5 +18,5 @@ Health Log Analytics collects logs streaming into your ServiceNow instance from 
 
 The ServiceNow instance receives the logs either via a [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md) connector instance or via MID-less Ingest, which supports integration with services such as Amazon Data Firehose. Health Log Analytics identifies and triages anomalies in your log data using unsupervised machine-learning \(ML\) models. It then groups the anomalies together and applies further algorithms to help identify the root cause of the issue.
 
-![Health Log Analytics scaled architecture.](../image/MMASSET0021014-health-log-analysis-landing.svg "Health Log Analytics scaled architecture")
+![Health Log Analytics scaled architecture.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/MMASSET0021014-health-log-analysis-landing.svg "Health Log Analytics scaled architecture")
 

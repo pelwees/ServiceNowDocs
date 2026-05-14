@@ -58,7 +58,7 @@ This dashboard displays the following widgets.
 
 The following image shows the Processing activity dashboard.
 
-![Processing activity tab on the privacy management home page.](../image/processing-activity-tab.png "Processing activity tab")
+![Processing activity tab on the privacy management home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/processing-activity-tab.png "Processing activity tab")
 
-**Parent Topic:**[Privacy Workspace for the privacy manager](privacy-mgmt-ws-privacy-compliance-manager.md)
+**Parent Topic:**[Privacy Workspace for the privacy manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-ws-privacy-compliance-manager.md)
 

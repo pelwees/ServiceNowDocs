@@ -24,7 +24,7 @@ For more information on support levels, see [Application support for domain sepa
 
 Domain separation provides complete data isolation for domain-specific users.
 
-**Parent Topic:**[State flows](c_StateFlows.md)
+**Parent Topic:**[State flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
 
 **Related topics**  
 

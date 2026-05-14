@@ -32,7 +32,7 @@ Starting from v21.0 of Vulnerability Response, you can request risk reduction on
 
 1.  Navigate to **Workspaces** &gt; **IT Remediation Workspace**.
 
-2.  Select the List icon \(![List icon](../../secops-analyst-workspace/image/listview-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../secops-analyst-workspace/image/listview-icon.png)\).
 
 3.  On the List page, open a host vulnerable item or a remediation task.
 
@@ -40,13 +40,13 @@ Starting from v21.0 of Vulnerability Response, you can request risk reduction on
 
 5.  On the Request Exception form, fill in the fields.
 
-    For a description of the field values, see[Request exception form for risk reduction](../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-rr.md).
+    For a description of the field values, see[Request exception form for risk reduction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vr-it-remediation-workspace/reference/itr-ws-request-exception-form-rr.md).
 
 6.  Select **Request Exception**.
 
 7.  If a Take Questionnaire modal is displayed, answer the questions to provide additional information about your request and select **Submit**.
 
-    **Note:** The Take Questionnaire modal appears only when the questionnaire is enabled for exception management. For more information, see [Configure Exception Management for Vulnerability Response](../../vulnerability-response/task/configure-exception-management-settings.md).
+    **Note:** The Take Questionnaire modal appears only when the questionnaire is enabled for exception management. For more information, see [Configure Exception Management for Vulnerability Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vulnerability-response/task/configure-exception-management-settings.md).
 
 
 ## Result
@@ -60,18 +60,18 @@ A message appears stating that your request is successfully submitted for approv
     -   A state change approval \(VCA\#\) is created.
     -   The state doesn't change.
 
-On approval or rejection of your request, you’ll receive a notification. For more information on the approval process, see [Approve or reject requests in the Vulnerability Manager Workspace](../../vulnerability-response/task/vr-ws-approve-requests.md).
+On approval or rejection of your request, you’ll receive a notification. For more information on the approval process, see [Approve or reject requests in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../../vulnerability-response/task/vr-ws-approve-requests.md).
 
-For more information on how the **Until date for risk reduction** is updated for a remediation task and vulnerable item when a risk reduction request is approved, see [Impact of the compensating controls on risk score and expiration date](../concept/requesting-approving-risk-reduction.md).
+For more information on how the **Until date for risk reduction** is updated for a remediation task and vulnerable item when a risk reduction request is approved, see [Impact of the compensating controls on risk score and expiration date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../concept/requesting-approving-risk-reduction.md).
 
 **Related topics**  
 
 
-[Understanding compensating controls for risk reduction](../concept/compensating-controls-overview.md)
+[Understanding compensating controls for risk reduction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../concept/compensating-controls-overview.md)
 
-[Disable or enable risk reduction for a CVE or TPE](disable-risk-reduction.md)
+[Disable or enable risk reduction for a CVE or TPE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/disable-risk-reduction.md)
 
-[Add a compensating control to the library](create-compensatory-control.md)
+[Add a compensating control to the library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/create-compensatory-control.md)
 
-[Impact of the compensating controls on risk score and expiration date](../concept/requesting-approving-risk-reduction.md)
+[Impact of the compensating controls on risk score and expiration date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/../concept/requesting-approving-risk-reduction.md)
 

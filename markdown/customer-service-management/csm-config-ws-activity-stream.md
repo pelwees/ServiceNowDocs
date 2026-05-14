@@ -13,7 +13,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 The activity stream helps agents stay informed by displaying a running history of updates and communications within a CSM Configurable Workspace record like field changes, comments, work notes, and emails.
 
-![The activity stream in the CSM Configurable Workspace is central to the record page and shows the record activity, including the user, action, and time](../image/csm-default-record-page-activity-stream.png "Activity stream in CSM Configurable Workspace")
+![The activity stream in the CSM Configurable Workspace is central to the record page and shows the record activity, including the user, action, and time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-default-record-page-activity-stream.png "Activity stream in CSM Configurable Workspace")
 
 ## Activity Stream component
 

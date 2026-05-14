@@ -23,27 +23,27 @@ Task Intelligence enables you to set up machine learning models to automate task
 
 <table id="table_ykl_1dr_dyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Task Intelligence and machine learning models.](exploring-task-intelligence.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Task Intelligence and machine learning models.](exploring-task-intelligence.md)
 
 </td><td>
 
-[Install ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Install Task Intelligence and related applications.](../task/install-task-intelligence.md)
+[Install ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Install Task Intelligence and related applications.](../task/install-task-intelligence.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure machine learning models.](configure-task-intelligence.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure machine learning models.](configure-task-intelligence.md)
 
 </td></tr><tr><td>
 
-[Create models![](../images/icon-task-intel-create-models.png)Create and edit Task Intelligence models.](create-a-task-intelligence-model.md)
+[Create models![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../images/icon-task-intel-create-models.png)Create and edit Task Intelligence models.](create-a-task-intelligence-model.md)
 
 </td><td>
 
-[Analyze models![](../images/icon-analyze-ti.png)Monitor and analyze model performance.](task-intelligence-analytics-and-monitoring.md)
+[Analyze models![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../images/icon-analyze-ti.png)Monitor and analyze model performance.](task-intelligence-analytics-and-monitoring.md)
 
 </td><td>
 
-[References![](../../document-intelligence/image/icon-docintel-references.png)References for components installed with Task Intelligence and language support.](../reference/reference-for-task-intelligence.md)
+[References![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/../../document-intelligence/image/icon-docintel-references.png)References for components installed with Task Intelligence and language support.](../reference/reference-for-task-intelligence.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

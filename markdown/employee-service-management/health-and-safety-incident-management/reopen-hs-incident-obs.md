@@ -23,7 +23,7 @@ Role required: sn\_ohs\_im.manager
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\).
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\).
 
 3.  In the **Lists** tab, open the safety incident or observation list.
 
@@ -40,5 +40,5 @@ The safety incident or observation is reopened.
 
 Work on the safety incident or observation to complete it.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing-hs-incidents-obs.md)
 

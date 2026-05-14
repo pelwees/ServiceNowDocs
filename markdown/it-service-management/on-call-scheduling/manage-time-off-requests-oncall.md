@@ -27,7 +27,7 @@ Role required: rota\_manager
 
     The time-off request displays the details of the time-off requested by the member of your team. In this example, the dark blue shade with stripes represents the requested time-off. A message also gives you the request details including that of the proposed cover.
 
-    ![Time off request display](../image/OC_managerView_ApprovalPTO.png)
+    ![Time off request display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/OC_managerView_ApprovalPTO.png)
 
 3.  Enter comments in the **Comments** section.
 
@@ -36,13 +36,13 @@ Role required: rota\_manager
     -   For rejection, the On-Call calendar no longer indicates the time-off details and the requester receives email notification.
     -   For approval, the On-Call calendar indicates the time-off details and the requester receives email notification.
 
-        ![Calendar with approved time off](../image/OC_timeOff.png)
+        ![Calendar with approved time off](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/OC_timeOff.png)
 
 
-**Parent Topic:**[Configure or update an On-Call shift](config-update-shift-oncall.md)
+**Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
 **Related topics**  
 
 
-[Assigning On-Call Scheduling roles](../concept/roles-assigning-oncall.md)
+[Assigning On-Call Scheduling roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/roles-assigning-oncall.md)
 

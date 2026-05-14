@@ -59,7 +59,7 @@ The Investigative Case Management Case narrative refinement skill helps investig
 
     **Note:** This configuration is Activated by Default.
 
-    ![Case narrative refinement Al skill configuration list that displays the skill already activated.](../image/psds-cns-configure.png)
+    ![Case narrative refinement Al skill configuration list that displays the skill already activated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-cns-configure.png)
 
 5.  To edit the configurations of this skill, select **Edit Configurations**.
 
@@ -71,6 +71,6 @@ The Investigative Case Management Case narrative refinement skill helps investig
 
 8.  Verify that the skill is activated and configured by going to an Investigative case narrative field and opening the Now Assist Context menu.
 
-    ![Case narrative refinement Al skill is active.](../image/psds-narrative-skill-activated.png)
+    ![Case narrative refinement Al skill is active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-narrative-skill-activated.png)
 
 

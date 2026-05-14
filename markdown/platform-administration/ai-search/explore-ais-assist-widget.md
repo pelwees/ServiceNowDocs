@@ -26,7 +26,7 @@ AI Search Assist helps with incident deflection for the following areas:
 -   Incident forms: Help service desk staff resolve incidents quickly by providing relevant knowledge.
 -   Incident email notifications: Help end users resolve their incidents themselves without requiring manual intervention from service desk staff.
 
-To learn more about configuring and using the AI Search Assist widget in Service Portal, see [AI Search Assist record producer integration for Service Portal](ai-search-assist.md).
+To learn more about configuring and using the AI Search Assist widget in Service Portal, see [AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md).
 
-**Parent Topic:**[Exploring AI Search](explore-ais.md)
+**Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 

@@ -31,7 +31,7 @@ For example, an employee document can have all the meta data in the file name Ab
 
     To find and extract the file name from the source repository, see this example:
 
-    ![Import Map — File name](../image/import-map-filename.png)
+    ![Import Map — File name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-filename.png)
 
     The import map is looking for a source element called fileName.
 
@@ -43,7 +43,7 @@ For example, an employee document can have all the meta data in the file name Ab
 
     From the file name, the employee name is extracted. Employee name is a requirement for Employee Document Management.
 
-    ![Import Map — Employee Name](../image/import-map-employee.png)
+    ![Import Map — Employee Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-employee.png)
 
     The import map is looking for a source element called fileName.
 
@@ -57,7 +57,7 @@ For example, an employee document can have all the meta data in the file name Ab
 
     From the file name, the document type is extracted. Document type is a requirement for Employee Document Management.
 
-    ![Import Map — docType](../image/import-map-doctype.png)
+    ![Import Map — docType](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/import-map-doctype.png)
 
     The import map is looking for a source element called fileName.
 
@@ -109,7 +109,7 @@ Source element
 entriesSource element in the JSON output and represents the items in a folder. For example, Box uses entries as the source element.
 
 </td></tr></tbody>
-</table>![JSON — entries](../image/edm-json-entries.png)
+</table>![JSON — entries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-json-entries.png)
 
 <table id="table_t1j_crm_yfb"><thead><tr><th>
 
@@ -162,7 +162,7 @@ Filter field
 typeFilter output to where the type field is equal to file to exclude subfolders.
 
 </td></tr></tbody>
-</table>![JSON — item](../image/edm-json-id.png)
+</table>![JSON — item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-json-id.png)
 
 <table id="table_ckk_nrm_yfb"><thead><tr><th>
 
@@ -223,7 +223,7 @@ Filter regex
  
 
 </td></tr></tbody>
-</table>![JSON — Owned by and Name](../image/edm-owned-by-name.png)
+</table>![JSON — Owned by and Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-owned-by-name.png)
 
 <table id="table_wmt_xms_yfb"><thead><tr><th>
 
@@ -315,7 +315,7 @@ Filter regex
  
 
 </td></tr></tbody>
-</table>![JSON — description](../image/edm-json-description.png)
+</table>![JSON — description](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-json-description.png)
 
 <table id="table_q23_vym_yfb"><thead><tr><th>
 
@@ -446,7 +446,7 @@ Filter regex
  
 
 </td></tr></tbody>
-</table>![JSON — Name](../image/edm-json-name.png)
+</table>![JSON — Name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-json-name.png)
 
 <table id="table_tj2_pwr_yfb"><thead><tr><th>
 
@@ -483,15 +483,15 @@ Source element
 Looks for id in JSON output. **Note:** some third-party, cloud-based repositories use the file ID. The capture import source builds a URL from this value.
 
 </td></tr></tbody>
-</table>![JSON — id](../image/edm-json-id.png)
+</table>![JSON — id](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-json-id.png)
 
 ## Bulk import mapping records
 
 An example of Employee Document Import Map.
 
-![Import map](../image/edm-import-map.png)
+![Import map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../image/edm-import-map.png)
 
 When a connection to your source repository is confirmed and import maps are set up correctly, you can click **Start staging job** from Related Links.
 
-**Parent Topic:**[Employee document management bulk imports](../concept/edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/../concept/edm-bulk-uploads.md)
 

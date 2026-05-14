@@ -31,7 +31,7 @@ Role required: admin
 
     The settings in the Provision operation control the form that the user sees upon initial request of the item, before it is provisioned.
 
-    ![Catalog item](../image/request-operation-catalog-item.png)
+    ![Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/request-operation-catalog-item.png)
 
     The Cloud Catalog Item form opens.
 
@@ -81,7 +81,7 @@ Click the **Availability** tab, and then select or clear the **Visible** check b
 
 </td><td>
 
-Select a different **Variable set**. **General Info** and **Provision** are provided in the base system, and you can configure additional form UI groups. To add a new tab for organizing fields in the catalog item, see [Create a variable set for Cloud Provisioning and Governance](configure-ui-group.md).
+Select a different **Variable set**. **General Info** and **Provision** are provided in the base system, and you can configure additional form UI groups. To add a new tab for organizing fields in the catalog item, see [Create a variable set for Cloud Provisioning and Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-ui-group.md).
 
 </td></tr><tr><td id="d417999e195">
 
@@ -106,7 +106,7 @@ Do any of the following: -   Click the **Question** tab, and add a value in the 
 
 8.  Toggle the catalog item to **Publish**.
 
-    ![Publish the blueprint](../image/draft-published-slider.png)
+    ![Publish the blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/draft-published-slider.png)
 
 
 ## Example
@@ -118,7 +118,7 @@ In this example, the Business Service field:
 -   Is mandatory because it is considered necessary before the system can provision the virtual resource.
 -   Contains help text to tell the user that the default selection is Email.
 
-On the catalog order form, the field appears like this graphic: ![The Business Service field](../image/blueprint-example-business-service-catalog.png)
+On the catalog order form, the field appears like this graphic: ![The Business Service field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-example-business-service-catalog.png)
 
-**Parent Topic:**[Form configuration with blueprints](../concept/blueprint-form-configuration.md)
+**Parent Topic:**[Form configuration with blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/blueprint-form-configuration.md)
 

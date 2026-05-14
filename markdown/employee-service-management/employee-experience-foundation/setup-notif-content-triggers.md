@@ -27,6 +27,6 @@ Role required: notification\_provider\_admin
 
 3.  On the Notifications trigger conditions form, fill in the fields, and select **Submit**.
 
-    For a description of the field values, see [Trigger conditions form](../reference/notif-trigger-form.md).
+    For a description of the field values, see [Trigger conditions form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/notif-trigger-form.md).
 
 

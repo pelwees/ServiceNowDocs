@@ -85,5 +85,5 @@ You can also rearrange them in the order of your choice.
 
 ## What to do next
 
-[Create or update list view for EAP work items](create-or-update-list-views-for-eap-work-items.md).
+[Create or update list view for EAP work items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-or-update-list-views-for-eap-work-items.md).
 

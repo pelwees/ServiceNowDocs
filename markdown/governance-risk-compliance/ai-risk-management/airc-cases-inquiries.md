@@ -20,9 +20,9 @@ AI cases and inquiries provide a structured way to report, track, and manage AI-
 
 The AI Case Management application is used as part of AI Risk and Compliance \(AIRC\). It provides the workflows used to review, investigate, and respond to AI‑related risks, incidents, and governance questions associated with AI systems, models, and datasets governed in AI Control Tower \(AICT\). AI cases and inquiries help identify potential issues, capture governance signals, and ensure that AI systems align with organizational policies, regulatory expectations, and ethical principles across the AI life cycle. You can view AI cases and inquiries from the AI Risk and Compliance dashboard.
 
-![AI cases tab on the AI risk and compliance dashboard.](../image/ai-case-landing-page.png "AI cases tab on the AI risk and compliance dashboard")
+![AI cases tab on the AI risk and compliance dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-case-landing-page.png "AI cases tab on the AI risk and compliance dashboard")
 
-![Inquiries tab on the AI risk and compliance dashboard.](../image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
+![Inquiries tab on the AI risk and compliance dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-cases-inquiries-tab.png "Inquiries tab on the AI risk and compliance dashboard")
 
 ## AI cases and AI inquiries
 
@@ -34,7 +34,7 @@ AI cases are typically used to report observed AI-related concerns, risks, incid
 
 ## Submission and intake
 
-AI Case Business Users \[sn\_ai\_case\_mgmt.ai\_case\_business\_user\] submit AI cases and inquiries through the Employee Center to report concerns or request guidance. Submissions include descriptive information that helps reviewers understand context, such as the AI system, model, or dataset involved, observed behavior or concern, impacted users or business areas, and any supporting details or attachments. For more information, see [Report an AI case from the Employee Center](../task/report-ai-case.md).
+AI Case Business Users \[sn\_ai\_case\_mgmt.ai\_case\_business\_user\] submit AI cases and inquiries through the Employee Center to report concerns or request guidance. Submissions include descriptive information that helps reviewers understand context, such as the AI system, model, or dataset involved, observed behavior or concern, impacted users or business areas, and any supporting details or attachments. For more information, see [Report an AI case from the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/report-ai-case.md).
 
 After upgrading to version 22.0.3 and installing the AI Case Management application, organizations can enable anonymous submission of AI cases through the Employee Center. Anonymous reporting supports broader participation in AI governance while protecting the identity of the reporter.
 
@@ -48,7 +48,7 @@ Before an anonymous report is saved, all free‑text fields in the forms \(such 
 
 Sanitization helps reduce the risk of unsafe or malformed input.
 
-For more information, see [Report an AI case anonymously](../task/report-ai-case-anon.md), [Follow up on a report from the Anonymous Reporting Center](../../grc-common/task/grc-follow-up-anonymously.md), and [Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md).
+For more information, see [Report an AI case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/report-ai-case-anon.md), [Follow up on a report from the Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-common/task/grc-follow-up-anonymously.md), and [Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-common/concept/grc-anonymous-reporting-center.md).
 
 ## Case management and follow-up
 
@@ -64,16 +64,16 @@ Business users focus on reporting concerns and requesting guidance. Analysts and
 
 Governance stakeholders participate in case review and investigation activities without owning business outcomes or life cycle approval decisions.
 
-For more information, see [Roles installed with AI Risk and Compliance](../reference/roles-installed-with-ai-risk-and-compliance.md).
+For more information, see [Roles installed with AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../reference/roles-installed-with-ai-risk-and-compliance.md).
 
 **Related topics**  
 
 
-[Create an AI case in the AI Risk and Compliance workspace](../task/create-ai-case-in-the-ai-risk-and-compliance-workspace.md)
+[Create an AI case in the AI Risk and Compliance workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/create-ai-case-in-the-ai-risk-and-compliance-workspace.md)
 
-[Raise an AI inquiry](../task/raise-ai-inquiry.md)
+[Raise an AI inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/raise-ai-inquiry.md)
 
-[AI cases tab](ai-cases-tab-airc.md)
+[AI cases tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-cases-tab-airc.md)
 
-[AI Risk and Compliance workspace](ai-risk-and-compliance-workspace.md)
+[AI Risk and Compliance workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-workspace.md)
 

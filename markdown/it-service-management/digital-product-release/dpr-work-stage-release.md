@@ -23,7 +23,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\).
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\).
 
 3.  Select a release from the list to open.
 
@@ -31,23 +31,23 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 5.  Select the **Overview** section to review and modify release details, get an overview of its status, or change its readiness target date.
 
-    For more information, see [Review and update release details](dpr-work-release-details.md) and [Retarget a release](dpr-work-release-readiness-target.md).
+    For more information, see [Review and update release details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-details.md) and [Retarget a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-readiness-target.md).
 
 6.  Select the **Release scope** section to review and update the scope of the release by adding or removing the product features and enhancements.
 
-    For more information, see [Update the scope of a release](dpr-work-release-scope.md).
+    For more information, see [Update the scope of a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-scope.md).
 
 7.  Select the **Configuration items** section to review and manage the configuration items in the release.
 
-    You can add more configuration items or remove the existing ones as needed. For more information, see [Manage configuration items in a release](dpr-work-release-config-items.md).
+    You can add more configuration items or remove the existing ones as needed. For more information, see [Manage configuration items in a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-config-items.md).
 
 8.  Select the **Change requests** section to review and manage the change requests in the release.
 
-    You can add new or existing change requests or remove the existing ones as needed. For more information, see [Manage change requests in a release](dpr-work-release-change-request.md).
+    You can add new or existing change requests or remove the existing ones as needed. For more information, see [Manage change requests in a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-change-request.md).
 
 9.  From the Release form header, select the number under the Artifacts to manage artifacts added to the release.
 
-    For more information, see [Manage artifacts in a release](dpr-work-release-artifact.md).
+    For more information, see [Manage artifacts in a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-artifact.md).
 
 10. Select the **Release notes** section to create and manage release notes for the release.
 
@@ -56,7 +56,7 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
     -   To add release notes manually, select **Add manually** and then enter the release notes in the **Release notes** field.
     -   To generate release notes using AI, select **Generate**.
 
-        For more information, see [Generate AI-powered release notes for a release](dpr-generate-release-notes.md).
+        For more information, see [Generate AI-powered release notes for a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-generate-release-notes.md).
 
 
 ## Restart the release phase
@@ -75,7 +75,7 @@ By restarting a phase, you can reassess and adjust the plan to overcome the new 
 
 ### Procedure
 
-1.  On the Release execution page, select the release phase action button \(![Release phase action icon.](../image/dpr-icon-menu.png)\) and then select **Restart phase**.
+1.  On the Release execution page, select the release phase action button \(![Release phase action icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-menu.png)\) and then select **Restart phase**.
 
 2.  On the Restart phase dialog box, select a phase from where you want to restart.
 
@@ -112,17 +112,17 @@ Automated email notifications are triggered at key release life cycle events. No
 -   A task approval request is submitted
 -   A task approval request is rejected
 
-For more information, see [Email notifications in Digital Product Release](../reference/dpr-email-notification.md).
+For more information, see [Email notifications in Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/dpr-email-notification.md).
 
 ### Procedure
 
 1.  Select **Release execution** to view the release status and work on its phases, tasks, and policies.
 
-    ![Release execution page of a stage-oriented release to track its progress.](../image/dpr-release-execution-stage2.png)
+    ![Release execution page of a stage-oriented release to track its progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-execution-stage2.png)
 
 2.  Review the risk score for the current phase on the Release overview dashboard.
 
-    The risk score for stage-oriented releases considers task completion, policy compliance, readiness dates, and progress thresholds. For more information, see [Risk score for stage-oriented releases](../concept/dpr-risk-score-release.md#).
+    The risk score for stage-oriented releases considers task completion, policy compliance, readiness dates, and progress thresholds. For more information, see [Risk score for stage-oriented releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-risk-score-release.md#).
 
 3.  Update a release phase.
 
@@ -158,7 +158,7 @@ For more information, see [Email notifications in Digital Product Release](../re
 
     The task is created in the Pending state andadded to the selected phase.
 
-    For an approval task, an approval record is created for the approvers to review and act.An email notification is also sent to them. For more information, see [Approve or reject a release task](dpr-approve-reject-release-task.md).
+    For an approval task, an approval record is created for the approvers to review and act.An email notification is also sent to them. For more information, see [Approve or reject a release task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-approve-reject-release-task.md).
 
 5.  Track and manage the progress of tasks for the selected phase.
 
@@ -233,7 +233,7 @@ For more information, see [Email notifications in Digital Product Release](../re
 
 9.  Close a release after verifying its completeness.
 
-    For more information, see [Close a release](dpr-complete-release.md).
+    For more information, see [Close a release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-complete-release.md).
 
 10. Cancel a release if it's no longer required.
 

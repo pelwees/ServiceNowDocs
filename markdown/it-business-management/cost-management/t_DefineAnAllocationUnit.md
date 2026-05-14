@@ -37,5 +37,5 @@ Role required: financial\_mgmt\_admin
     |Unit Type \(added by configuring the form\)|Used to record what the units represent \(e.g. seats, licenses, Gigabytes, and so on\).|
 
 
-**Parent Topic:**[Use business services with expenses](../concept/c_UseBusinessServicesWithExpenses.md)
+**Parent Topic:**[Use business services with expenses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/c_UseBusinessServicesWithExpenses.md)
 

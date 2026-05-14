@@ -27,7 +27,7 @@ Export selected related records of a model or inventory template in your chosen 
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to any model or inventory template.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to any model or inventory template.
 
 3.  Select a desired record.
 
@@ -39,7 +39,7 @@ Export selected related records of a model or inventory template in your chosen 
 
 5.  Select a related record link.
 
-6.  Select **![Options icon](../../../common/image/icon-menu.png)** &gt; **Export**.
+6.  Select **![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../common/image/icon-menu.png)** &gt; **Export**.
 
 7.  On the Export window, select the desired file type to export the data.
 
@@ -64,5 +64,5 @@ Export selected related records of a model or inventory template in your chosen 
 
 The selected model or inventory template with all related records is downloaded in the selected format.
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/import-models-and-templates.md)
 

@@ -110,5 +110,5 @@ This parameter returns the unsecured value.
 `java.lang.Exception`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[MID Server configuration file security](mid-server-encrypter-api.md)
+</table>**Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)
 

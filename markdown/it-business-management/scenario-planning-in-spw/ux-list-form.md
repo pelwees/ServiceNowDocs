@@ -123,10 +123,10 @@ View
 View to determine which columns are displayed in the list in the workspace. If you select a view, the **Columns** field is disabled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Customize Lists in Strategic Planning Workspace](../task/customize-lists-strategic-planning-workspace.md)
+[Customize Lists in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/customize-lists-strategic-planning-workspace.md)
 

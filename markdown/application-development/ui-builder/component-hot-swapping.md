@@ -17,9 +17,9 @@ Change data visualizations in real time using a drop-down list to preview data i
 
 You can change data visualization types via a drop-down in the configuration panel to preview different data visualization types. Each data visualization can be configured to display different data depending on who is using your experience. Select the drop-down under **Data visualization type** to preview different types of data visualization.
 
-![Data visualization type options in a drop-down.](../image/hot-swap-drop-down.png)
+![Data visualization type options in a drop-down.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/hot-swap-drop-down.png)
 
-A preview of the data visualization you selected appears in your page. For information about adding data visualization components to your experience, see [Add and configure components](../task/add-components.md#).
+A preview of the data visualization you selected appears in your page. For information about adding data visualization components to your experience, see [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/add-components.md#).
 
-**Parent Topic:**[Customize UI Builder pages using components](work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-components.md)
 

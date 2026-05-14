@@ -1458,5 +1458,5 @@ Sys\_id of the application service listed in the Service Instance \[cmdb\_ci\_se
     ```
 
 
-**Parent Topic:**[ServiceNow CLI](../concept/servicenow-cli.md)
+**Parent Topic:**[ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-cli/../concept/servicenow-cli.md)
 

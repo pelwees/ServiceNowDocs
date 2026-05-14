@@ -112,8 +112,8 @@ Configure the time interval \(in seconds\) to indicate the frequency with which 
 
 </td><td>
 
-Enables configuring the policy to be active only during a specific time or time frames.1.  Select the Unlock icon \(![Unlock icon](../image/icon-acc-lock.png)\) to enable selecting cron expressions.
-2.  Select the search icon \(![Search icon](../../configurable-workforce-optimization-itsm/image/search-icon.png)\), then select **New** to create a cron expression.
+Enables configuring the policy to be active only during a specific time or time frames.1.  Select the Unlock icon \(![Unlock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../image/icon-acc-lock.png)\) to enable selecting cron expressions.
+2.  Select the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../configurable-workforce-optimization-itsm/image/search-icon.png)\), then select **New** to create a cron expression.
 
 You can also select one of the following cron expressions that come with the base system:
 
@@ -130,7 +130,7 @@ The specified cron expression operates in the time zone of the machine hosting t
     |Options|Steps|
     |-------|-----|
     |**Credential name**|Select credentials to be assigned to the policy. The available credentials are displayed on the associated check definition's **Check Secure Parameter Definitions** tab.|
-    |**Credential alias**|Select the Search icon ![Search icon](../../configurable-workforce-optimization-itsm/image/search-icon.png) to select a credential alias to be used by the policy's checks to connect to the monitored CI. The available options are created on the **Connection &amp; Credential Aliases** page.|
+    |**Credential alias**|Select the Search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../configurable-workforce-optimization-itsm/image/search-icon.png) to select a credential alias to be used by the policy's checks to connect to the monitored CI. The available options are created on the **Connection &amp; Credential Aliases** page.|
 
 11. Select **Save**.
 

@@ -22,7 +22,7 @@ Product Catalog plugin adds the following business rules.
 |Sync to Product catalog item|\[pc\_vendor\_cat\_item\]|Updates the corresponding field in the product catalog when a field is updated.|
 |Sync to Product catalog item|\[cmdb\_model\]|Updates the corresponding field in the product catalog when a field is updated.|
 
-**Parent Topic:**[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
+**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/r_InstalledWithProductCatalog.md)
 
 **Related topics**  
 

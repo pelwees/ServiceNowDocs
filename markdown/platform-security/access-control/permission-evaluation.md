@@ -46,7 +46,7 @@ The **Access results** table includes:
 
 ## Presence of a script
 
-An Alert Icon next to any status indicates the presence of a script in the ACL. Review highlighted ACLs to understand the final access. To know more about how these controls are evaluated and review the logic used to determine access, see [Access Analyzer Debug logs](access-analyzer-logs.md).
+An Alert Icon next to any status indicates the presence of a script in the ACL. Review highlighted ACLs to understand the final access. To know more about how these controls are evaluated and review the logic used to determine access, see [Access Analyzer Debug logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer-logs.md).
 
 ## Status in Access Analyzer
 

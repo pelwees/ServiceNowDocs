@@ -238,7 +238,7 @@ Actual benefit value that is rolled up from the actual benefit in the non-moneta
 </table>**Related topics**  
 
 
-[Create a non-monetary benefit plan for a project](../task/create-a-non-monetary-benefit-plan-for-a-project.md)
+[Create a non-monetary benefit plan for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/create-a-non-monetary-benefit-plan-for-a-project.md)
 
-[Update a non-monetary benefit plan breakdown for a project](../task/update-a-non-monetary-benefit-plan-breakdown-for-a-project.md)
+[Update a non-monetary benefit plan breakdown for a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../task/update-a-non-monetary-benefit-plan-breakdown-for-a-project.md)
 

@@ -22,7 +22,7 @@ The Images page allows you to search for an image. The page has the following ta
 -   **Gallery** tab: Displays images.
 -   **Auto-Assignment** tab:
 
-![Images page](../images/images-page.png)
+![Images page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/images-page.png)
 
 ## Gallery tab
 
@@ -36,7 +36,7 @@ The Gallery tab shows different views of the images:
 
 On the Gallery tab, select the **Actions** button and select from the drop-down menu.
 
-![Image Gallery Actions menu](../../msi-console/image/image-page-actions.png)
+![Image Gallery Actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/image-page-actions.png)
 
 Select the add icon ![](../../msi-console/image/add-icon-msi.jpg) to browse and upload images. You can also just drag and drop the image on the window.
 

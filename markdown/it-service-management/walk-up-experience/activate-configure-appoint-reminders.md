@@ -37,7 +37,7 @@ To operate appointment booking reminders, activate the **Appointment Booking Rem
 
 6.  Select a Walk-up Experience service configuration from the list.
 
-7.  Click the menu button \( ![menu icon](../../../common/image/Form_MenuIcon.png)\) and scroll to **Configure** &gt; **Form Layout**.
+7.  Click the menu button \( ![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../../../common/image/Form_MenuIcon.png)\) and scroll to **Configure** &gt; **Form Layout**.
 
 8.  Select **Appointment reminder** from the **Available** list and move it to the **Selected** list using the add button.
 
@@ -52,5 +52,5 @@ To operate appointment booking reminders, activate the **Appointment Booking Rem
 11. Select **Update** to add the appointment reminder configuration.
 
 
-**Parent Topic:**[Configure Walk-up Experience appointment booking](../concept/walkup-appointment-booking-config.md)
+**Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-appointment-booking-config.md)
 

@@ -54,7 +54,7 @@ if (gr.next()){
 
 ```
 
-**Parent Topic:**[Managing system events](../../platform-events/concept/managing-system-events.md)
+**Parent Topic:**[Managing system events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/../../platform-events/concept/managing-system-events.md)
 
 **Related topics**  
 

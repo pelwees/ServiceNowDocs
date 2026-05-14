@@ -110,5 +110,5 @@ The Unassign users pop-up opens.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Floor Plan](use-floor-plan.md)
+**Parent Topic:**[Use Floor Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-floor-plan.md)
 

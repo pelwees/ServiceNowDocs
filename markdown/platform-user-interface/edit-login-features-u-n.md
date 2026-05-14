@@ -52,5 +52,5 @@ This procedure is specific to login pages and does not apply if you are using Si
 
 The welcome text appears on the Next Experience login page when users are not logged in and is hidden after authentication.
 
-**Parent Topic:**[Working with themes in Next Experience](../concept/next-experience-theming.md)
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-theming.md)
 

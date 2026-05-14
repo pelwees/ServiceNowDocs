@@ -115,5 +115,5 @@ table\_name
 The value is only populated when the exact internal name of table is identified.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow AI Lens reference](servicenow-lens-reference.md)
+</table>**Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 

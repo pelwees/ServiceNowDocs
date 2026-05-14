@@ -81,12 +81,12 @@ Enables journey owners and mentors to include personalized messages from a journ
 **Note:** The **Send a note** button is visible in only published journeys.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer reference](jny-dsnr-reference.md)
+</table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
 **Related topics**  
 
 
-[Quick Link form](../../employee-center/reference/ec-quick-link-form.md)
+[Quick Link form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../../employee-center/reference/ec-quick-link-form.md)
 
-[Create a quick link](../../employee-center/task/create-quick-links.md)
+[Create a quick link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../../employee-center/task/create-quick-links.md)
 

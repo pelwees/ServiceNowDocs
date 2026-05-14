@@ -25,19 +25,19 @@ The card view only applies to the full Connect Chat page and the end-user view o
 
 ## Procedure
 
-1.  Select the menu icon \( ![Menu icon](../image/IconMenu.png)\) on any of the column names of the incident list view.
+1.  Select the menu icon \( ![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMenu.png)\) on any of the column names of the incident list view.
 
-2.  Right-click on the column name and select **Configure** &gt; **List Layout**.![Screen shot of list layout example](../image/list-layout-screenshot.png)
+2.  Right-click on the column name and select **Configure** &gt; **List Layout**.![Screen shot of list layout example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/list-layout-screenshot.png)
 
-3.  On the Configuring Incidents List screen, select **New** from the View name list.![Screen shot of Configuring Incidents List](../image/config-incidents-list-screenshot.png)
+3.  On the Configuring Incidents List screen, select **New** from the View name list.![Screen shot of Configuring Incidents List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/config-incidents-list-screenshot.png)
 
-4.  In the Create New View dialog, enter `Connect` in the View name field. ![Create new view dialog](../image/create-new-view.png).
+4.  In the Create New View dialog, enter `Connect` in the View name field. ![Create new view dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/create-new-view.png).
 
     For more information on creating a form view, see [Create and delete views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-delete-view.md) .
 
     You cannot remove the Author or the Updated fields from the card regardless of whether they are on the view or not. The card always shows the Short Description field in the top even if it is in a different order in the list.
 
-5.  Choose the fields that you want to display on the Connect card and select Save.![Screen shot of Configuring Incidents List](../image/configure-card-screenshot3.png)
+5.  Choose the fields that you want to display on the Connect card and select Save.![Screen shot of Configuring Incidents List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/configure-card-screenshot3.png)
 
 6.  Validate that the card displays the fields in a Connect Chat conversation.
 

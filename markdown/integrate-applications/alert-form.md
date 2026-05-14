@@ -75,10 +75,10 @@ Alert Message
 Message that describes the alert.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Alert rule and variable in RPA Hub](../concept/alert-rule-rpa-hub.md)
+</table>**Parent Topic:**[Alert rule and variable in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/alert-rule-rpa-hub.md)
 
 **Related topics**  
 
 
-[View alerts in RPA Hub](../task/view-alerts-rpa.md)
+[View alerts in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/view-alerts-rpa.md)
 

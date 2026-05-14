@@ -42,7 +42,7 @@ To create a Microsoft Excel spreadsheet that properly populates the Configuratio
 
 You can import data from multiple sites in a single spreadsheet. The example image shows data for two sites: ATL and CTL.
 
-![Sample Operational Technology data, columns A through J.](../image/aug-23-sample-import-equipment-model-data-source.png "Sample Operational Technology data, columns A through J")
+![Sample Operational Technology data, columns A through J.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../image/aug-23-sample-import-equipment-model-data-source.png "Sample Operational Technology data, columns A through J")
 
 <table id="table_mch_2cc_txb"><thead><tr><th>
 
@@ -273,5 +273,5 @@ Yes
 
 If you're an ISA SGC user upgrading from v1 to v2, you can import new ISA equipment model entities that have a unique path and update existing ISA equipment model entities that already have a path value with a fix script.
 
-**Parent Topic:**[Importing equipment model data](importing-isa95-equipment-model-etl.md)
+**Parent Topic:**[Importing equipment model data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/importing-isa95-equipment-model-etl.md)
 

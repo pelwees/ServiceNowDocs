@@ -25,35 +25,35 @@ Role required: sn\_ti.case\_user\_write
 
 2.  Click the **Case Artifacts** related list.
 
-    ![Case artifacts](../image/case-dossier.png)
+    ![Case artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/case-dossier.png)
 
 3.  Click the tab associated with the type of artifact you want to add to the case.
 
     For example, click **Configuration Items** to add one or more CIs to the case.
 
-    ![Configuration items](../image/cis.png)
+    ![Configuration items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/cis.png)
 
 4.  Click **Edit**.
 
-    ![Slushbucket](../image/slushbucket.png)
+    ![Slushbucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/slushbucket.png)
 
 5.  Using the slushbucket and filters, locate the artifact records you want to add to the case and move them from the Collection bucket to the List bucket, and click **Save**.
 
     The list appears in the selected tab and the selected artifacts are added to the list.
 
 
-**Parent Topic:**[Create cases in Security Case Management](create-cases-in-case-mgmt.md)
+**Parent Topic:**[Create cases in Security Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-in-case-mgmt.md)
 
 **Related topics**  
 
 
-[Associate MITRE-ATT&amp;CK information with security case](associate-mitre-att-ck-information-with-security-case-management.md)
+[Associate MITRE-ATT&amp;CK information with security case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associate-mitre-att-ck-information-with-security-case-management.md)
 
-[Add IoCs and observables to an existing case](add-records-to-cases-threat.md)
+[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)
 
-[Add security incidents to an existing case](add-sec-inc-to-cases.md)
+[Add security incidents to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-sec-inc-to-cases.md)
 
-[Add CIs to existing cases](add-cis-to-cases-sir.md)
+[Add CIs to existing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-cis-to-cases-sir.md)
 
-[Add affected users to existing cases](add-users-to-cases-sir.md)
+[Add affected users to existing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-users-to-cases-sir.md)
 

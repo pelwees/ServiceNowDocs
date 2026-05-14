@@ -238,16 +238,16 @@ Impact assessment details that are associated with the regulatory event alert.
 
 The regulatory event alert is assigned to the selected user and it is listed under the **All Assigned Alerts** module in the application.
 
-**Parent Topic:**[Regulatory alerts](../concept/regulatory-feeds.md)
+**Parent Topic:**[Regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../concept/regulatory-feeds.md)
 
 **Related topics**  
 
 
-[Perform actions on regulatory alerts](perform-actions-reg-event-feeds.md)
+[Perform actions on regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/perform-actions-reg-event-feeds.md)
 
-[Add an AI-recommended citation to a regulatory alert](add-recommended-citations-to-a-regulatory-alert.md)
+[Add an AI-recommended citation to a regulatory alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/add-recommended-citations-to-a-regulatory-alert.md)
 
-[Train and use the similarity solution to recommend citations on regulatory alerts](retrain-ml-reg-compliance-mapping.md)
+[Train and use the similarity solution to recommend citations on regulatory alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/retrain-ml-reg-compliance-mapping.md)
 
-[Manage and assign source document alerts](manage-source-document-feeds.md)
+[Manage and assign source document alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-source-document-feeds.md)
 

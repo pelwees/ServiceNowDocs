@@ -21,7 +21,7 @@ Role required: sn\_piwb\_hr\_content.admin
 
 ## About this task
 
-Regression solutions enable you to predict a point estimate and prediction interval. When making predictions, regression also enables you to specify a confidence level for the prediction interval \(range\). Understand the ETTR configuration information from [Estimated time to resolve HR cases](../concept/train-model-ettr.md).
+Regression solutions enable you to predict a point estimate and prediction interval. When making predictions, regression also enables you to specify a confidence level for the prediction interval \(range\). Understand the ETTR configuration information from [Estimated time to resolve HR cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/train-model-ettr.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Regression solutions enable you to predict a point estimate and prediction inter
     2.  Click **Take me there** to get started with the solution definition.
     Machine Learning Solutions landing page appears.
 
-    ![List of ML usecases for HR PIWB](../image/piwb-hr-ml-list.png "HR ML usecases")
+    ![List of ML usecases for HR PIWB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/piwb-hr-ml-list.png "HR ML usecases")
 
 3.  Go to **Regression** &gt; **ml\_sn\_sn\_hr\_core\_global\_hr\_case\_resolution\_time** from the available Solution Definitions, click **Configure**.
 
@@ -177,7 +177,7 @@ Select how often the system regenerates the solution based on records matching t
 
 In this scenario, you created an ML solution from your solution definition. In the Related Links section of your ML solution, see the Solution Statistics, Test Solution, and Solution Definition tabs. On the Solution Statistics tab, review the Point Estimate and Range \(prediction interval\) statistics your solution has provided.
 
-![Regression solution definition statistics for HR case](../image/hr-regression.png "Regression solution definition")
+![Regression solution definition statistics for HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-regression.png "Regression solution definition")
 
 On the Test Solutions tab of your solution, you can test the prediction output for the records you used as input to the prediction by entering values for the input fields. You can also use the default prediction confidence level of `95`, or enter a different level between `0` and `100`. Using 95 as the value means that the system is 95% confident that the actual prediction falls within the prediction interval. Click the **Run Test** button to find the prediction output.
 
@@ -185,12 +185,12 @@ After you run the test, the prediction output statistics appear. The Point Estim
 
 You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
--   **[Estimated time to resolve HR cases](../concept/train-model-ettr.md)**  
+-   **[Estimated time to resolve HR cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/train-model-ettr.md)**  
 Determine the Estimated Time to Resolve a Case \(ETTR\) for a case by analyzing similar closed cases in the past for better visibility and transparency.
--   **[Viewing ETTR predictions](../concept/create-regression-solution-hr.md)**  
+-   **[Viewing ETTR predictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/create-regression-solution-hr.md)**  
 View the examples of ETTR views across the journey of a case which indicates the estimated time to resolve based on the historical data.
 
-**Parent Topic:**[HR Predictive Intelligence Workbench implementation](../concept/hr-piwb-implementation-guidance.md)
+**Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-piwb-implementation-guidance.md)
 
 **Related topics**  
 

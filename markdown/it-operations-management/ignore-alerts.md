@@ -40,7 +40,7 @@ Ignore rules help reduce alert noise by automatically suppressing alerts that ma
 
     The Ignore alerts page opens.
 
-5.  Follow the steps in [Create Ignore automation](../../service-operations-workspace-itom/task/create-ignore-automation-sow-itom.md).
+5.  Follow the steps in [Create Ignore automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-operations-workspace-itom/task/create-ignore-automation-sow-itom.md).
 
 6.  To complete the setup, select **Mark as configured**.
 

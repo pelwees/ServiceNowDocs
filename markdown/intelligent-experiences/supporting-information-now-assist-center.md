@@ -26,11 +26,11 @@ The Now Assist Center application supports the Now Assist Center workspace.
 
 The Now Assist Center workspace provides features that enable you to set up of your AI solutions in a unified experience without switching between separate Now Assist applications.
 
-For more information, see [Now Assist Center workspace](now-assist-center-workspace.md).
+For more information, see [Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md).
 
 ## Licensing requirements
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](../../ai-implementation/concept/ai-native-sku-overview.md).
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../ai-implementation/concept/ai-native-sku-overview.md).
 
 ## Application information
 
@@ -38,14 +38,14 @@ Now Assist Center \(sn\_na\_center\) is available as a plugin from the ServiceNo
 
 This store app has no dependencies.
 
-For more information, see [Configuring Now Assist Center](configuring-now-assist-center.md).
+For more information, see [Configuring Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-center.md).
 
-**Parent Topic:**[Exploring Now Assist Center](exploring-now-assist-center.md)
+**Parent Topic:**[Exploring Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-center.md)
 
 **Related topics**  
 
 
-[Now Assist Center workspace](now-assist-center-workspace.md)
+[Now Assist Center workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-workspace.md)
 
-[AI Agent Advisor in Now Assist Center](now-assist-center-ai-agent-advisor.md)
+[AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-ai-agent-advisor.md)
 

@@ -15,33 +15,33 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 Configure the notifications in Contract Management Pro.
 
--   **[Configure Obligation Management notifications](../task/cncore-config-ob-mgmt-notf.md)**  
+-   **[Configure Obligation Management notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-config-ob-mgmt-notf.md)**  
 Activate Obligation Management notifications to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
--   **[Configure email notifications for approval workflow in Contract Management Pro](../task/cmpro-send-receive-email-notification-admin.md)**  
+-   **[Configure email notifications for approval workflow in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cmpro-send-receive-email-notification-admin.md)**  
 Activate the notifications for Contract Management Pro to notify users when approval for contract revision is initiated, approved, rejected, or cancelled.
--   **[Configure extension point for notifications](../task/cmpro-configure-action-extension-point-email-notification-admin.md)**  
+-   **[Configure extension point for notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cmpro-configure-action-extension-point-email-notification-admin.md)**  
 Add or modify an Action and its functionality on the Standard ticket page for a contract request.
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-cntrct-wrkspc.md)
 
-[Configure signature pause duration when modifying signatories](../task/cncore-pause-sig-property.md)
+[Configure signature pause duration when modifying signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-pause-sig-property.md)
 
-[Auto-populate the start date and end date for contract requests](../task/cncore-conf-start-end-date-for-cntrcts.md)
+[Auto-populate the start date and end date for contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-conf-start-end-date-for-cntrcts.md)
 
-[Activate a system property to generate a certificate of completion](../task/cncore-config-system-prop-COC.md)
+[Activate a system property to generate a certificate of completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-config-system-prop-COC.md)
 
-[Enable users to view email details in activity stream](../task/cncore-enbl-user-email-astream.md)
+[Enable users to view email details in activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-enbl-user-email-astream.md)
 
-[Enable keyword search for contract templates](../task/cncore-enable-search-cont-tmplts.md)
+[Enable keyword search for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-enable-search-cont-tmplts.md)
 
-[Configuring contract summarization for Contract Management Pro](../task/cmpro-conf-cntr-summary.md)
+[Configuring contract summarization for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cmpro-conf-cntr-summary.md)
 
-[Configure conditions to send reminder notifications for expiring contracts](../task/cncore-config-rem-exp-cont.md)
+[Configure conditions to send reminder notifications for expiring contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-config-rem-exp-cont.md)
 
-[Copy fields from parent request to amendment request](../task/cncore-cpy-fld-parent-amedreq.md)
+[Copy fields from parent request to amendment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-cpy-fld-parent-amedreq.md)
 

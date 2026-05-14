@@ -42,5 +42,5 @@ If you do not configure the scheduled job, you must manually import issues for t
 5.  Click **Update**.
 
 
-**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](setting-up-the-integration-between-jira-and-agile-development.md)
+**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/setting-up-the-integration-between-jira-and-agile-development.md)
 

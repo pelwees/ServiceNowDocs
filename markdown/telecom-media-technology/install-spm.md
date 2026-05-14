@@ -38,7 +38,7 @@ The following items are installed with Customer Service Problem Management:
 -   Tables
 -   Properties
 
-For more information, see [Components installed with Customer Service Problem Management](../reference/spm-components.md) and [Customer Service Problem Management properties](../reference/cspm-properties.md).
+For more information, see [Components installed with Customer Service Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../reference/spm-components.md) and [Customer Service Problem Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../reference/cspm-properties.md).
 
 ## Procedure
 

@@ -21,9 +21,9 @@ Role required: web\_service\_admin
 
 ## About this task
 
-Schemas are records that define the structure and format of request and response bodies and headers for a REST API in the OpenAPI 3.0.1 format. When you define a schema in the ServiceNow AI Platform, the schema is used to define the structure of requests and responses within the associated REST API. The schema data for the requests and responses is then available in the exportable OpenAPI specification for the API. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](../../inbound-rest/task/export-openapi-specification.md).
+Schemas are records that define the structure and format of request and response bodies and headers for a REST API in the OpenAPI 3.0.1 format. When you define a schema in the ServiceNow AI Platform, the schema is used to define the structure of requests and responses within the associated REST API. The schema data for the requests and responses is then available in the exportable OpenAPI specification for the API. For more information about exporting OpenAPI specifications, see [Export to OpenAPI specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../../inbound-rest/task/export-openapi-specification.md).
 
-The following procedure describes the process for manual schema definition. For details about automatically generating request schema definitions in non-production instances, see [Automatically generate API request definitions](autogenerate-api-request-definitions.md).
+The following procedure describes the process for manual schema definition. For details about automatically generating request schema definitions in non-production instances, see [Automatically generate API request definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/autogenerate-api-request-definitions.md).
 
 ## Procedure
 
@@ -78,7 +78,7 @@ Procedure
 
 ## What to do next
 
-Define additional schemas as needed. Use the schemas to specify the expected structure and format in a REST request or response. For more information, see [Define an API resource request structure](add-schema-rest-api-request.md) or [Define an API resource response structure](add-schema-rest-api-response.md).
+Define additional schemas as needed. Use the schemas to specify the expected structure and format in a REST request or response. For more information, see [Define an API resource request structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/add-schema-rest-api-request.md) or [Define an API resource response structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/add-schema-rest-api-response.md).
 
-**Parent Topic:**[Create a scripted REST API](t_CreateAScriptedRESTService.md)
+**Parent Topic:**[Create a scripted REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/t_CreateAScriptedRESTService.md)
 

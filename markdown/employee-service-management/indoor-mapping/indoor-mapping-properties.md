@@ -121,9 +121,9 @@ Threshold to simplify complex shapes or geometries that have 20 or more coordina
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[Configure Indoor Mapping](../concept/configure-ind-mapping.md)
+**Parent Topic:**[Configure Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/configure-ind-mapping.md)
 
-**Previous topic:**[Configure role-based access in Indoor Mapping](map-limited-editor.md)
+**Previous topic:**[Configure role-based access in Indoor Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/map-limited-editor.md)
 
-**Next topic:**[Manage CAD source files](../concept/manage-autocad-files.md)
+**Next topic:**[Manage CAD source files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/manage-autocad-files.md)
 

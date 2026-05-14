@@ -21,7 +21,7 @@ If a matched CI isn’t found either in the Discovered Items list or CMDB, a CI 
 
 Starting with v24.0.6 of Vulnerability Response, if IRE encounters exceptions that prevent the creation of CIs, the specifics of these exceptions are recorded in the Additional Information field. By examining the details in this field, you can determine the root cause and implement the necessary corrections to ensure the CI is successfully created.
 
-Starting with Vulnerability Response v12.2 to v18.0, if no match is found when the CI lookup rules are applied, the asset information is sent to IRE and a CI is created in one of the Unclassed Hardware and Incomplete IP Identified Device classes. Starting from Vulnerability Response v18.0, a new class, Cloud Resource is also included. For more information on how to configure the categorization of unmatched cloud resources into your preferred CI class, see [Updating CI class for unmatched cloud assets](sem-updating-class-cloud-resource-hybrid-assets.md).
+Starting with Vulnerability Response v12.2 to v18.0, if no match is found when the CI lookup rules are applied, the asset information is sent to IRE and a CI is created in one of the Unclassed Hardware and Incomplete IP Identified Device classes. Starting from Vulnerability Response v18.0, a new class, Cloud Resource is also included. For more information on how to configure the categorization of unmatched cloud resources into your preferred CI class, see [Updating CI class for unmatched cloud assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-updating-class-cloud-resource-hybrid-assets.md).
 
 ## CMDB CI classes
 
@@ -75,10 +75,10 @@ The system automatically uses an Unmatched CI class if one of the following occu
 -   The CMDB CI Class plugin is not activated.
 -   IRE raises an exception while creating a CI.
 
--   **[Updating CI class for unmatched cloud assets](sem-updating-class-cloud-resource-hybrid-assets.md)**  
+-   **[Updating CI class for unmatched cloud assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-updating-class-cloud-resource-hybrid-assets.md)**  
 Starting with Vulnerability Response v20.0, you can categorize the unmatched cloud assets from Qualys, Rapid7 and Tenable scanners into Unclassed Hardware by using the **sn\_sec\_cmn.unmatched\_cloud\_resource\_enabled** system property.
 
-**Parent Topic:**[Automating prioritization and triaging](sem-automating-prioritization-triaging.md)
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 

@@ -90,5 +90,5 @@ Grants administrative rights to create, read, or update learning libraries based
 -   sn\_lc.content\_writer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Coaching reference](cf-coaching-reference.md)
+</table>**Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 

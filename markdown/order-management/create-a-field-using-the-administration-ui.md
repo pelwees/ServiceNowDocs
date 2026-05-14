@@ -21,11 +21,11 @@ Role required: Admin
 
 1.  In the CPQ navigation pane, click **Fields**.
 
-    ![Menu](../images/cpq-fields-menu-item.png)
+    ![Menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-menu-item.png)
 
     The Fields administration page opens, listing the fields in the current environment.
 
-    ![Admin fields](../images/cpq-fields-list.png)
+    ![Admin fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-list.png)
 
     To edit a field, click its name \(a\). To create a new field, click **+ New** \(b\).
 
@@ -33,7 +33,7 @@ Role required: Admin
 
 3.  In the New Field window, name the field and select a field type.
 
-    ![New field](../images/cpq-fields-new-field-dialog.png)
+    ![New field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-fields-new-field-dialog.png)
 
     -   \(A\) Valid field names can be composed of up to 255 characters, including letters, numbers, spaces, and the following special characters: `{}[]()|\~`_^@?<=>;:/.-,+*ʼ&%$#”!`
     -   \(B\) The variable name is automatically populated. To set a different variable name, click the pencil icon. \(You cannot edit the variable name later.\) Valid field variable names consist of letters, numbers, and underscores. The first and last character must be a letter or number.
@@ -48,10 +48,10 @@ Role required: Admin
 
 ## What to do next
 
-[Associate a field with a blueprint](cpq-associate-field-with-a-blueprint.md)
+[Associate a field with a blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-associate-field-with-a-blueprint.md)
 
 **Related topics**  
 
 
-[Configure the Matrix Loader](cpq-using-the-matrix-loader.md)
+[Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 

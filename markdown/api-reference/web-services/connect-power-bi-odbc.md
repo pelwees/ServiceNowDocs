@@ -41,17 +41,17 @@ This connection enables you to query ServiceNow data directly without requiring 
 
 2.  Navigate to the **Home** &gt; **Get Data** &gt; **More**.
 
-    ![UI screen for navigating to more options.](../image/powerBI-1.png)
+    ![UI screen for navigating to more options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/powerBI-1.png)
 
 3.  In the Get Data dialog, search for and select **ODBC** from the list of available data sources.
 
-    ![UI screen to select ODBC](../image/powerBI-2.png)
+    ![UI screen to select ODBC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/powerBI-2.png)
 
 4.  Select **Connect**.
 
 5.  In the ODBC dialog box, select your configured ServiceNow ODBC data source name \(DSN\) from the **Data source name \(DSN\)** list.
 
-    ![UI screen to select DSN](../image/powerBI-3.png)
+    ![UI screen to select DSN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/powerBI-3.png)
 
 6.  Select **Advanced options**.
 
@@ -59,13 +59,13 @@ This connection enables you to query ServiceNow data directly without requiring 
 
 8.  From the **Supported row reduction clauses \(optional\)** menu, select **TOP**.
 
-    ![UI screen to enter your SQL query](../image/powerBI-4.png)
+    ![UI screen to enter your SQL query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/powerBI-4.png)
 
 9.  Select **OK**.
 
     A preview of your data appears in a new window.
 
-    ![UI screen to show the sample data](../image/powerBI-5.png)
+    ![UI screen to show the sample data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/powerBI-5.png)
 
     Only tables for which you have configured egress\_sql and read ACLs will be visible and accessible.
 
@@ -78,5 +78,5 @@ This connection enables you to query ServiceNow data directly without requiring 
 
 Power BI Desktop is now connected to your ServiceNow instance via the ODBC driver. You can create visualizations, reports, and dashboards using your ServiceNow data. The connection respects all ServiceNow security controls, including ACLs and role-based access restrictions.
 
-**Parent Topic:**[Integrate SQL API Drivers with external BI tools](../reference/configure-drivers-bi-tools.md)
+**Parent Topic:**[Integrate SQL API Drivers with external BI tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/configure-drivers-bi-tools.md)
 

@@ -37,7 +37,7 @@ Role required: sn\_dlir.admin
     |Access Key|AWS IAM access key for the ICAP configuration.|
     |Secret Key|AWS IAM secret key for the ICAP configuration.|
 
-    ![Configure the DLP Incident Response integration with ICAP.](../image/dlp-icap-config.png)
+    ![Configure the DLP Incident Response integration with ICAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-icap-config.png)
 
 5.  Click **Submit**.
 
@@ -48,5 +48,5 @@ Role required: sn\_dlir.admin
 
 After you successfully validate and submit the configuration, the ICAP DLP Integration configurations is saved.
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/icap-dlp-integration.md)
 

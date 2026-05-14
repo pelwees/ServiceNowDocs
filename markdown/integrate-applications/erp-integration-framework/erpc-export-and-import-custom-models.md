@@ -41,7 +41,7 @@ Note the following rules when exporting and importing custom ERP models:
 -   The system value isn't imported.
 -   Only one model can be exported at a time.
 
-**Note:** A new version of the model is created when you export a model. For more information, see [Using model versioning](erp-use-model-versioning.md).
+**Note:** A new version of the model is created when you export a model. For more information, see [Using model versioning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-use-model-versioning.md).
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Note the following rules when exporting and importing custom ERP models:
 
 3.  Select **Export**.
 
-    ![Model record with export button highlighted.](../image/erpc-export-model1.png)
+    ![Model record with export button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-export-model1.png)
 
 4.  Specify a location for the downloaded file.
 
@@ -75,7 +75,7 @@ Note the following rules when exporting and importing custom ERP models:
 
         The file is imported and displayed in the retrieved update sets list with the **State** set to **Loaded**. If the import fails, check that the application scope for the custom model exists on the instance to which you're importing it.
 
-        ![Retrieved update sets list with imported update set shown with a state of loaded.](../image/erpc-export-model2.png)
+        ![Retrieved update sets list with imported update set shown with a state of loaded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-export-model2.png)
 
     5.  Select the file.
 
@@ -101,8 +101,8 @@ Note the following rules when exporting and importing custom ERP models:
 
 11. Make any other necessary changes to the model.
 
-    For detailed information about editing and managing models, see [Managing how models read and update the ERP system](../concept/erpc-managing-models-read.md).
+    For detailed information about editing and managing models, see [Managing how models read and update the ERP system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erpc-managing-models-read.md).
 
 
-**Parent Topic:**[Building and managing models to work with ERP data](../concept/work-with-erp-data-models.md)
+**Parent Topic:**[Building and managing models to work with ERP data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/work-with-erp-data-models.md)
 

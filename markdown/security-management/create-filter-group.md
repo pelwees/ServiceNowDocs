@@ -114,7 +114,7 @@ Use the [condition builder](https://raw.githubusercontent.com/ServiceNow/Service
 
         If you want the selected filter group to filter records based on a reference field, a mapped field is automatically selected when the current record is saved.
 
-        **Note:** The **Mapped field** value cannot be edited from the **Additional Filter Group Conditions** embedded list. To change the field, select the information icon ![Information](../../vulnerability-response/image/i-icon.png) to open the record.
+        **Note:** The **Mapped field** value cannot be edited from the **Additional Filter Group Conditions** embedded list. To change the field, select the information icon ![Information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/i-icon.png) to open the record.
 
     3.  Select **Update**.
 
@@ -135,5 +135,5 @@ Use the [condition builder](https://raw.githubusercontent.com/ServiceNow/Service
     2.  If you changed the criteria, refresh the list by right-clicking in the form header and selecting **Refresh List**.
 
 
-**Parent Topic:**[Security Operations common functionality](../concept/sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sec-ops-common-functionality.md)
 

@@ -33,7 +33,7 @@ When you place a component configured for inheritance on a page, the inheritance
 |One|Connects to that resource|
 |Multiple|Connects to the first instance of that resource|
 
-**Parent Topic:**[Component Builder](component-builder-uib.md)
+**Parent Topic:**[Component Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/component-builder-uib.md)
 
 ## Enable configuration of components with inherited controllers
 
@@ -53,7 +53,7 @@ In this Component Builder example, we will create a text component and configure
 
 2.  Select **Create** from the UI Builder home page.
 
-    ![UI Builder home page with the Create component button.](../image/create-component-button.png)
+    ![UI Builder home page with the Create component button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-component-button.png)
 
 3.  Select **Component**.
 
@@ -80,7 +80,7 @@ In this Component Builder example, we will create a text component and configure
 
     5.  Select **Add**.
 
-    ![Select a data resource modal with List controller selected and Inherit configurations from parent enabled.](../image/inherit-controllers-inherit.png)
+    ![Select a data resource modal with List controller selected and Inherit configurations from parent enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/inherit-controllers-inherit.png)
 
 7.  Create the component.
 
@@ -112,6 +112,6 @@ In this Component Builder example, we will create a text component and configure
 
 10. Place the component on a list page to see it automatically inherit the List controller and display the table name.
 
-    ![UI Builder editor showing custom component inheriting the list controller and displaying the table name.](../image/inherit-controllers-result.png)
+    ![UI Builder editor showing custom component inheriting the list controller and displaying the table name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/inherit-controllers-result.png)
 
 

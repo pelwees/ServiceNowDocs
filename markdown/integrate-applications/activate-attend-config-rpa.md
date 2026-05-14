@@ -15,9 +15,9 @@ Activate an attended configuration record to enable the UI action that triggers 
 
 ## Before you begin
 
-Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md).
+Familiarize yourself with Embedded Task Automation concepts. For more information, see [Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/embedded-task-auto-rpa.md).
 
-Create an attended configuration record. For more information, see [Create an attended configuration record in RPA Hub](create-attended-config-rpa.md).
+Create an attended configuration record. For more information, see [Create an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-attended-config-rpa.md).
 
 Verify that the attended configuration record is either in **Draft** state or **Inactive** state.
 
@@ -29,7 +29,7 @@ Role required: sn\_rpa\_fdn.rpa\_release\_manager, sn\_rpa\_fdn.rpa\_developer, 
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  Navigate to the Attended Configuration record either from the Attended Configuration menu list or from an attended bot process record's related list.
 
@@ -68,20 +68,20 @@ Action
 
 ## Result
 
-The corresponding UI action is created on the ServiceNow form. On selecting this UI action, if there are any unsaved changes, the save confirmation dialog box is displayed. Otherwise, corresponding bot process \(automation\) is triggered. If the UI action isn’t visible, refer to the visibility conditions. For more information, see [Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md).
+The corresponding UI action is created on the ServiceNow form. On selecting this UI action, if there are any unsaved changes, the save confirmation dialog box is displayed. Otherwise, corresponding bot process \(automation\) is triggered. If the UI action isn’t visible, refer to the visibility conditions. For more information, see [Conditions for the visibility of UI action \(button\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/visibility-cond-button-rpa.md).
 
-**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](../concept/embedded-task-auto-rpa.md)
+**Parent Topic:**[Embedded Task Automation \(ETA\) in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/embedded-task-auto-rpa.md)
 
 **Related topics**  
 
 
-[Deactivate an attended configuration record in RPA Hub](deactivate-attend-config-rpa.md)
+[Deactivate an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/deactivate-attend-config-rpa.md)
 
-[Delete an attended configuration record in RPA Hub](delete-attended-config-rpa.md)
+[Delete an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/delete-attended-config-rpa.md)
 
-[Edit an attended configuration record in RPA Hub](edit-attended-config-rpa.md)
+[Edit an attended configuration record in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/edit-attended-config-rpa.md)
 
-[Invoke Embedded Task Automation via API in RPA Hub](../concept/create-button-att-config-rpa.md)
+[Invoke Embedded Task Automation via API in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/create-button-att-config-rpa.md)
 
-[Conditions for the visibility of UI action \(button\)](../reference/visibility-cond-button-rpa.md)
+[Conditions for the visibility of UI action \(button\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/visibility-cond-button-rpa.md)
 

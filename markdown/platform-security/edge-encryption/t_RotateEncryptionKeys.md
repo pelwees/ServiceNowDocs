@@ -90,9 +90,9 @@ Key aliases must be unique. Each key alias must have the same key size and type 
     If you do not run a mass key rotation job or single key rotation job, existing data remains encrypted with the old key until the data is accessed again.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](manual-proxy-install.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-**Previous topic:**[Create an encryption key stored in a file](t_CreateAFileStoreKeyStore.md)
+**Previous topic:**[Create an encryption key stored in a file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_CreateAFileStoreKeyStore.md)
 
-**Next topic:**[Configure additional properties in the Edge Encryption properties file](set-props.md)
+**Next topic:**[Configure additional properties in the Edge Encryption properties file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-props.md)
 

@@ -31,7 +31,7 @@ There are certain limitations of Dynamic Translation for Virtual Agent. Catalog 
 
 1.  Navigate to the System Properties table by entering `sys_properties.list` in the navigator.
 
-2.  Select the magnifying glass icon \(![Magnifying glass icon.](../../../reuse/icons/product-icons/magnifying-glass-fill-24.svg)\) to expand the column search row.
+2.  Select the magnifying glass icon \(![Magnifying glass icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../../../reuse/icons/product-icons/magnifying-glass-fill-24.svg)\) to expand the column search row.
 
 3.  In the Name column, enter `sn_generative_ai.disable_dynamic_translation` and press **Enter** to search, and then open the matching record.
 

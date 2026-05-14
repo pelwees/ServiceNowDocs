@@ -15,7 +15,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 Use the navigation tools to enlarge or shrink the query, to move the query, or to border a section of the query to run.
 
-Use the buttons in the navigation tool ![navigation tool buttons.](../image/NavigationToolQueryBuilder.png) as follows:
+Use the buttons in the navigation tool ![navigation tool buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/NavigationToolQueryBuilder.png) as follows:
 
 -   Use the plus sign \(+\) to increase magnification of the query.
 -   Use the minus sign \(-\) to decrease magnification of the query.

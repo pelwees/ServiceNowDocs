@@ -39,11 +39,11 @@ The following terms are applicable:
 
 Granular Delegation with the HR Service Delivery base system supports the HR task \(sn\_hr\_core\_task\) table. Along with filter conditions, you can filter delegations for delegators and delegates.
 
-For more information on how user criteria filters delegations for delegators and delegates, see [Create delegation rules](../task/create-delegation-rules.md).
+For more information on how user criteria filters delegations for delegators and delegates, see [Create delegation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../task/create-delegation-rules.md).
 
 For information on HR criteria and user criteria, see:
 
--   [HR criteria](../../../human-resources/concept/hr-criteria.md#)
+-   [HR criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../../../human-resources/concept/hr-criteria.md#)
 -   [User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)
 
 -   **Access control rules \(ACLs\)**
@@ -54,7 +54,7 @@ For information on HR criteria and user criteria, see:
 
     -   Rule-based: The delegation\_admin configures delegation rules, which automatically reassign tasks to specific employees.
     -   Ad-hoc: An employee who is defined as a delegator can delegate their tasks from the **My Delegates** widget in the Employee Center.
-    **Note:** The delegation\_admin must define a delegation rule table, delegation rules, and delegates. For more information on defining a delegation rule table see [Add delegation rule tables](../task/add-delegation-rules-tables.md). For more information on defining a delegation rule, see [Create delegation rules](../task/create-delegation-rules.md). For more information on defining delegators and delegates, see [Create a delegate](../task/create-delegation-admin.md).
+    **Note:** The delegation\_admin must define a delegation rule table, delegation rules, and delegates. For more information on defining a delegation rule table see [Add delegation rule tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../task/add-delegation-rules-tables.md). For more information on defining a delegation rule, see [Create delegation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../task/create-delegation-rules.md). For more information on defining delegators and delegates, see [Create a delegate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/../task/create-delegation-admin.md).
 
 
 ## Additional resources

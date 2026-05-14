@@ -105,7 +105,7 @@ Defines the configuration for claim incidents that can be created as part of the
 -   Display order of the service definitions in the playbook
 -   Whether the service definition is shown in the UI or not
 
-For more information, see [Claim Incident Configuration table](../../fso-insurance-claims-flow/concept/claim-incident-configuration-table.md).
+For more information, see [Claim Incident Configuration table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-insurance-claims-flow/concept/claim-incident-configuration-table.md).
 
 </td></tr><tr><td>
 
@@ -132,5 +132,5 @@ Trip Incident \[sn\_ins\_claim\_trip\]
 Stores information about a trip loss incident, such as a description of the incident, reservation numbers, and other supporting questions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Insurance Claims Core](insurance-claims-core-data-model.md)
+</table>**Parent Topic:**[Insurance Claims Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-data-model.md)
 

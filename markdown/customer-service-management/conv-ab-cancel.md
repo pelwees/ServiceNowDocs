@@ -23,13 +23,13 @@ Role required: customer, consumer
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Click the chat icon \(![Chat icon.](../image/chat_icon.png)\).
+2.  Click the chat icon \(![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\).
 
 3.  In the chat window, enter `cancel appointment`.
 
     The Virtual Agent shows the available appointments.
 
-    ![Virtual Agent chat window with appointment cancellation details.](../image/conv-ab-cancel.png "Cancelling an appointment")
+    ![Virtual Agent chat window with appointment cancellation details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-cancel.png "Cancelling an appointment")
 
 4.  Confirm the cancellation.
 
@@ -41,7 +41,7 @@ The appointment is canceled.
 **Related topics**  
 
 
-[Schedule an appointment](conv-ab-schedule.md)
+[Schedule an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-schedule.md)
 
-[Reschedule an appointment](conv-ab-reschedule.md)
+[Reschedule an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-reschedule.md)
 

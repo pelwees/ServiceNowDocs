@@ -125,5 +125,5 @@ Scope of the pattern.
 
 ## Result
 
-The new data pattern must be set as active to be used in discovery jobs. See [Select active data patterns](dds-active-data-patterns.md) for more information.
+The new data pattern must be set as active to be used in discovery jobs. See [Select active data patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-active-data-patterns.md) for more information.
 

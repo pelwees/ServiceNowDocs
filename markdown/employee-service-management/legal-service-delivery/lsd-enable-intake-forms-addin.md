@@ -29,7 +29,7 @@ Role required: sn\_lg\_ops.legal\_config
 
 4.  If you are prompted in a message at the top of the form to switch applications to be able to edit the record, select the word **here**.
 
-5.  Select the Unlock Options icon ![Unlock Options icon.](../image/lock.png) in the **Options** field in the Record Producer section.
+5.  Select the Unlock Options icon ![Unlock Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../image/lock.png) in the **Options** field in the Record Producer section.
 
 6.  Enter `Enable` in the **Select target record** field.
 
@@ -42,5 +42,5 @@ Role required: sn\_lg\_ops.legal\_config
 
 The request category will be available while submitting a legal request from Microsoft Outlook Add-in.
 
-**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](../concept/lsd-outlook-addin-configure.md)
+**Parent Topic:**[Configure Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/lsd-outlook-addin-configure.md)
 

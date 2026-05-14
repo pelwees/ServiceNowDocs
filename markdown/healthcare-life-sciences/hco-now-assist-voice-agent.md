@@ -46,7 +46,7 @@ For more information on setting up Voice AI Agents, see [Deploy AI voice agents]
 
     **Note:**
 
-    These trigger phrases can be configured to your use case. For information on updating these, see [Configure Care Team Operations Case Creation Voice AI agent triggers](hco-now-assist-cto-voice-triggers.md).
+    These trigger phrases can be configured to your use case. For information on updating these, see [Configure Care Team Operations Case Creation Voice AI agent triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-cto-voice-triggers.md).
 
 3.  Enter your PIN when the agent requests it.
 

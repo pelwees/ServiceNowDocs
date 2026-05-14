@@ -25,25 +25,25 @@ Edit or assign an unassigned remediation task directly from the list of records.
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](mobile-login-P-C-app.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-login-P-C-app.md).
 
 2.  With the Policy and Compliance landing screen displayed, under the section titled, `Team's Unassigned Work`, tap **Remediation Tasks**.
 
     If you navigate away from the GRC Mobile application after you have logged in, tap the Now Agent app at any time to return to the last screen you had displayed.
 
-    ![Remediation Tasks applet highlighted.](../image/mobile_Policy_and_Compliance_overview-app_rd.png)
+    ![Remediation Tasks applet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile_Policy_and_Compliance_overview-app_rd.png)
 
     The Remediation Tasks screen is displayed with a list of records.
 
-    ![Remediation tasks list.](../image/mobile-remedtask-list.jpg)
+    ![Remediation tasks list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-remedtask-list.jpg)
 
-3.  See [Filter records with the GRC Mobile application](mobile-pc-set-filters.md) to search for records that match specific search criteria.
+3.  See [Filter records with the GRC Mobile application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-pc-set-filters.md) to search for records that match specific search criteria.
 
     Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform. Setting filters can reduce the number of records that are displayed on screens.
 
 4.  To edit or assign a task directly from the list of records displayed on the Remediation Tasks screen, swipe left on a record to open the menu.
 
-    ![Remediation Tasks swipe menu.](../image/mobile-remedtask-swipe.jpg)
+    ![Remediation Tasks swipe menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-remedtask-swipe.jpg)
 
 5.  In the menu that is displayed, choose one to continue.
 
@@ -63,7 +63,7 @@ Description
 
 In the Extend by days field on the Edit Remediation Task screen that is displayed, enter a value. This value is added to the Duration field in your ServiceNow AI Platform instance. To assign the remediation task, tap the Assigned to field and tap a name. Alternatively, enter a user name in the search field.
 
-Tap the Send icon \(![Send icon.](../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+Tap the Send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr><tr><td id="d110471e208">
 
@@ -78,7 +78,7 @@ On the Issue Assignment screen that is displayed, tap the **Assignment Group** a
 
 7.  With the fields on the issue record displayed, choose one in the following table to continue.
 
-    ![Remediation task record.](../image/mobile-remed-task-record.jpg)
+    ![Remediation task record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/mobile-remed-task-record.jpg)
 
 <table id="choicetable_sjk_w3z_xhb"><thead><tr><th align="left" id="d110471e251">
 
@@ -100,7 +100,7 @@ With the Details tab selected, choose one to continue.
 
 Tap the Issue field to expand it. On the Issue screen, a list of records is displayed. Tap an item to display more details about the Control Objective and Control/Risk.
 
--   Navigate back to the record on the Remediation Task screen and tap the menu icon \(![Top menu icon.](../../grc-common/image/mobile-top-menu.png)\) to assign or edit the issue. Follow the steps described in the preceding table.
+-   Navigate back to the record on the Remediation Task screen and tap the menu icon \(![Top menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu.png)\) to assign or edit the issue. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d110471e289">
@@ -109,8 +109,8 @@ Tap the Issue field to expand it. On the Issue screen, a list of records is disp
 
 </td><td>
 
-With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
--   At the top right of the screen, tap the menu icon \( ![Menu icon.](../../grc-common/image/mobile-top-menu.png)\) to edit and assign the issue. Follow the steps described in the preceding table.
+With the Activity Stream tab selected, choose one to continue.-   View work notes and additional comments. Tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile_instances_plus.png)\) to add a work note or attach a file.
+-   At the top right of the screen, tap the menu icon \( ![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-common/image/mobile-top-menu.png)\) to edit and assign the issue. Follow the steps described in the preceding table.
 
 
 </td></tr><tr><td id="d110471e319">
@@ -128,5 +128,5 @@ On the bottom of the screen, choose one to continue.-   Tap the Policy and Compl
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](../concept/mobile-policy_compliance-ovrvw.md)
+**Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/mobile-policy_compliance-ovrvw.md)
 

@@ -52,13 +52,13 @@ Fulfiller: The application can be used by the Fulfiller within the tenant domain
 -   Domains of versioned articles will be maintained as per the latest article version's domain. This includes updating the domain for kb\_version, kb\_knowledge, kb\_feedback, and sys\_attachment tables.
 -   If domains contain another domain: If Domain A contains Domain B, users with access to Domain A can author articles in Domain B by toggling the domain scope. To learn more about toggling domain scope, see [Visibility domains and Contains domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainVisibility.md).
 
-See [Managing access to knowledge bases and knowledge articles](user-access-knowledge.md) to learn how to control contribute and read access to knowledge bases and knowledge articles.
+See [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md) to learn how to control contribute and read access to knowledge bases and knowledge articles.
 
 ## Use cases
 
 This image demonstrates a basic domain hierarchy that is available in the base system.
 
-![Domain Separation Use Case](../image/DomainHierarchy.png)
+![Domain Separation Use Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/DomainHierarchy.png)
 
 ## Requester use cases
 

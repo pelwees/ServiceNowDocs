@@ -139,7 +139,7 @@ Before you can log into the Console for the first time, you must register as a u
 5.  Select the check box, **I acknowledge I saved my password**.
 6.  Select **Enter**.
 
-**Note:** Make sure to save the password, to avoid getting locked out of the system. See [Logging onto the Discovery Console for OT](../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for more instruction.
+**Note:** Make sure to save the password, to avoid getting locked out of the system. See [Logging onto the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for more instruction.
 
 </td></tr><tr><td>
 
@@ -150,15 +150,15 @@ EULA Agreement
 Next, the EULA appears on the screen. Accept the EULA by checking the box next to **Agree**.
 
 </td></tr></tbody>
-</table>**Note:** Once installation is complete, and you log onto the Console, you may choose to use the interactive configuration wizard. If so, the wizard guides you to upload your Console license. For more on the wizard, see [Use the Discovery Console for OT interactive configuration wizard](console-onboarding-wizard.md)
+</table>**Note:** Once installation is complete, and you log onto the Console, you may choose to use the interactive configuration wizard. If so, the wizard guides you to upload your Console license. For more on the wizard, see [Use the Discovery Console for OT interactive configuration wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/console-onboarding-wizard.md)
 
 ## What to do next
 
 To complete installation and configuration of the Discovery Console for OT, continue with the following steps.
 
-1.  See [Logging onto the Discovery Console for OT](../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for initially logging onto the Console.
-2.  Review the [Requirements for Discovery Console for OT installation](../concept/requirements-installation-deployment.md) sections. The requirement section includes information about the Console license.
-3.  [Install a Linux operating system](install-linux-os.md).
-4.  [Install the Discovery Console for OT](ot-discovery-console-installation.md).
-5.  [Generate a certificate](generate-new-certificate-discovery-for-ot.md).
+1.  See [Logging onto the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery-deployment-guide/concept/logging-onto-ot-discovery-console.md) for initially logging onto the Console.
+2.  Review the [Requirements for Discovery Console for OT installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/requirements-installation-deployment.md) sections. The requirement section includes information about the Console license.
+3.  [Install a Linux operating system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/install-linux-os.md).
+4.  [Install the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-installation.md).
+5.  [Generate a certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/generate-new-certificate-discovery-for-ot.md).
 

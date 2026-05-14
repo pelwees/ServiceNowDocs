@@ -44,7 +44,7 @@ Types of talent profiles. There are four types available by default.
 -   Alumni
 -   Contingent
 
-For more information on creating a talent type, see [Create a talent type](../task/create-implement-ta-tp.md).
+For more information on creating a talent type, see [Create a talent type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-implement-ta-tp.md).
 
 </td></tr><tr><td>
 

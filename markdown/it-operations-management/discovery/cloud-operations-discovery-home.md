@@ -17,7 +17,7 @@ The Cloud Discovery home page displays a summary of the discoveries triggered th
 
 **Important:** Starting with the Zurich release, Cloud Discovery Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. Discovery Admin Workspace provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-![Cloud Discovery dashboard.](../image/cow-cloud-disco-dashboard.gif)
+![Cloud Discovery dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/cow-cloud-disco-dashboard.gif)
 
 ## Required ServiceNow AI Platform roles
 
@@ -94,7 +94,7 @@ Description
 
 </td><td>
 
-Donut chart![Line and area chart.](../../../use/reporting/image/icon-area-report-p.png)
+Donut chart![Line and area chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-area-report-p.png)
 
 </td><td>
 
@@ -130,7 +130,7 @@ Total configuration items
 
 </td><td>
 
-Line and area chart![Line and area chart.](../../../use/reporting/image/icon-area-report-p.png)
+Line and area chart![Line and area chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-area-report-p.png)
 
 </td><td>
 
@@ -146,7 +146,7 @@ Cloud discovery errors
 
 </td><td>
 
-Line and area chart![Line and area chart.](../../../use/reporting/image/icon-area-report-p.png)
+Line and area chart![Line and area chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-area-report-p.png)
 
 </td><td>
 
@@ -178,7 +178,7 @@ MID servers
 
 </td><td>
 
-Donut chart![Donut chart.](../../../use/reporting/image/icon-donut-report-p.png)
+Donut chart![Donut chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -210,7 +210,7 @@ Cloud VMs by datacenter
 
 </td><td>
 
-Horizontal bar chart![Horizontal bar chart.](../../../use/reporting/image/icon-horizontal-bar-report-p.png)
+Horizontal bar chart![Horizontal bar chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../use/reporting/image/icon-horizontal-bar-report-p.png)
 
 </td><td>
 

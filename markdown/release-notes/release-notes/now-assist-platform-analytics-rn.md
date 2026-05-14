@@ -70,7 +70,7 @@ Now Assist applications for Platform Analytics are either included by default or
     Details of the data visualizations, filters, and dashboards that Now Assist for Platform Analytics skills generate.
 
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../now-assist/now-assist-rn-landing.md)
 
-**Parent Topic:**[Platform Analytics release notes](analytics-intel-report-rn-landing.md)
+**Parent Topic:**[Platform Analytics release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/analytics-intel-report-rn-landing.md)
 

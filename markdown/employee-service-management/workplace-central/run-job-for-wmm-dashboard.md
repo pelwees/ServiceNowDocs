@@ -32,5 +32,5 @@ This job should be run before viewing the dashboard for the first time. It colle
 3.  Select **Execute Now** to run the job.
 
 
-**Parent Topic:**[View Maintenance Management metrics](view-maintenence-mgmt-analytics.md)
+**Parent Topic:**[View Maintenance Management metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-maintenence-mgmt-analytics.md)
 

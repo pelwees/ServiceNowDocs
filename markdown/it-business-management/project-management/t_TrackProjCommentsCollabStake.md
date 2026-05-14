@@ -48,10 +48,10 @@ Role required: it\_project\_manager
     10. Personalize the Project form and add **Activities \(filtered\)**, which is the activity formatter, to the desired location on the Project form.
 
 
-**Parent Topic:**[Update a project](t_UpdateAProjectInProgress.md)
+**Parent Topic:**[Update a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UpdateAProjectInProgress.md)
 
 **Related topics**  
 
 
-[Update a project](t_UpdateAProjectInProgress.md)
+[Update a project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_UpdateAProjectInProgress.md)
 

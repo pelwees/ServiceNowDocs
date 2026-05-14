@@ -41,7 +41,7 @@ Before you begin, ensure the following:
 
 5.  Select **Create Vulnerability Assessment**.
 
-    ![Create Vulnerability Assessment dialog with Title and Primary CVE fields.](../image/tisc-create-vul-assessment.png)
+    ![Create Vulnerability Assessment dialog with Title and Primary CVE fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-create-vul-assessment.png)
 
 6.  Fill in the required details such as **Title** and **Primary CVE**.
 
@@ -61,9 +61,9 @@ Before you begin, ensure the following:
 1.  Navigate to the **Internal Intelligence** section on the Vulnerability record.
 2.  View all associated vulnerability assessments under the **Vulnerability Response** section.
 
-    ![Vulnerability Assessments list showing assessment details in the Internal Intelligence tab.](../image/tisc-view-vul-assessments.png)
+    ![Vulnerability Assessments list showing assessment details in the Internal Intelligence tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-view-vul-assessments.png)
 
 3.  Link or unlink existing assessments as needed.
 
-**Parent Topic:**[Access Vulnerability Downstream actions](../concept/downstream-actions-from-the-vulnerability-form-view.md)
+**Parent Topic:**[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/downstream-actions-from-the-vulnerability-form-view.md)
 

@@ -25,17 +25,17 @@ As a provider, you can:
 
 <table id="table_k52_dyx_yxb" class="nav-card"><tbody><tr><td>
 
-[Configure for providers![](../image/bus-optimize-manage-sb.svg)Learn how to install and configure Service Exchange for providers.](service-bridge-v2-configure-provider.md)
+[Configure for providers![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../image/bus-optimize-manage-sb.svg)Learn how to install and configure Service Exchange for providers.](service-bridge-v2-configure-provider.md)
 
 </td><td>
 
-[User for providers![](../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn how to use Service Exchange for providers.](service-bridge-v2-administer.md)
+[User for providers![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../../../reuse/icons/brand-icons/bus-try-a-demo.svg)Learn how to use Service Exchange for providers.](service-bridge-v2-administer.md)
 
 </td></tr></tbody>
-</table>If you’re a consumer, see [Service Exchange for Consumers](service-bridge-consumers-landing-page.md).
+</table>If you’re a consumer, see [Service Exchange for Consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-consumers-landing-page.md).
 
 **Related topics**  
 
 
-[Service Exchange for Consumers](service-bridge-consumers-landing-page.md)
+[Service Exchange for Consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-consumers-landing-page.md)
 

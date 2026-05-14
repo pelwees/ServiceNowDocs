@@ -186,12 +186,12 @@ To avoid incomplete demo data and other installation issues, you should install 
 5.  \(Optional\) SLO Connector for Relish Data Assure \(x\_reliq\_slo\_connec\)
 6.  \(Optional\) Advanced Work Assignment for Supplier Lifecycle Operations \(com.snc.sn\_slm\_awa\)
 
-**Parent Topic:**[Install Supplier Case Management](../task/install-supp-mgmt.md)
+**Parent Topic:**[Install Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supp-mgmt.md)
 
 **Related topics**  
 
 
-[Components installed with Supplier Case Management](installed-with-supp-mgmt.md)
+[Components installed with Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/installed-with-supp-mgmt.md)
 
-[Explicit Roles in Supplier Case Management](../concept/slo-explicit-roles-plugin.md)
+[Explicit Roles in Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/slo-explicit-roles-plugin.md)
 

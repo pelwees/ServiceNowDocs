@@ -30,5 +30,5 @@ The **Create Case** configuration uses the Social Q&amp;A Question table \[kb\_s
 
 To create additional mapping between these tables, add the additional fields to the **Create Case** configuration in the CSM Table Map table. Include these fields as needed on the **Create case from question** record producer.
 
-**Parent Topic:**[Create a case from a discussion](case-management-integration.md)
+**Parent Topic:**[Create a case from a discussion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/case-management-integration.md)
 

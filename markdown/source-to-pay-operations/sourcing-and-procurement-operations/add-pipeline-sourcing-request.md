@@ -27,7 +27,7 @@ You can add pipeline projects to sourcing requests that are in either the Pendin
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and do one of the following:
 
     -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing requests**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing requests**.
@@ -35,7 +35,7 @@ You can add pipeline projects to sourcing requests that are in either the Pendin
 
 4.  Select **Add to pipeline project**.
 
-    ![Add to pipeline project option.](../image/pipeline-add-option.png)
+    ![Add to pipeline project option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-add-option.png)
 
 5.  In the Add to pipeline project dialog box, do one of the following:
 
@@ -53,7 +53,7 @@ Add the sourcing request to an existing pipeline project.
 
 </td><td>
 
-![Add SR to existing pipeline project.](../image/pipeline-existing-sourcing.png)
+![Add SR to existing pipeline project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-existing-sourcing.png)
 
  -   Select **Add to an existing pipeline project**.
 -   From the **Pipeline project** list, search for and select a project.
@@ -66,7 +66,7 @@ Add the sourcing request to a new pipeline project.
 
 </td><td>
 
-![Add SR to new pipeline project.](../image/pipeline-new-sourcing.png)
+![Add SR to new pipeline project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pipeline-new-sourcing.png)
 
  -   Select **Add to a new pipeline project**.
 -   In the **Short description** field, enter a brief summary of the pipeline project.
@@ -87,5 +87,5 @@ Add the sourcing request to a new pipeline project.
     The sourcing request is associated with either an existing or a new pipeline project. It is displayed in the **Sourcing Requests** tab of the pipeline project.
 
 
-**Parent Topic:**[Using Sourcing Pipeline Management](../concept/use-pipeline-sourcing-mgmt.md)
+**Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/use-pipeline-sourcing-mgmt.md)
 

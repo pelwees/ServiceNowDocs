@@ -23,7 +23,7 @@ Creating automated Service Portal steps requires knowledge of the ServiceNow dat
 
 Opens a form in a portal.
 
-Use this step for the base system Form page. For custom form pages, use the [Open Service Portal Page](test-steps-custom-ui-category.md#) step from the Custom UI category.
+Use this step for the base system Form page. For custom form pages, use the [Open Service Portal Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-custom-ui-category.md#) step from the Custom UI category.
 
 <table id="table_vkh_2rc_vbb"><thead><tr><th>
 

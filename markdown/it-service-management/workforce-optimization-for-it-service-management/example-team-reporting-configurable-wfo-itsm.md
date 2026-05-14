@@ -36,5 +36,5 @@ The manager can set up and use Teams by performing the following steps:
 
 Get an overview of how you can analyze team performance in this video.Use Teams to track performance
 
-For detailed information on how to setup and use Teams, see [Teams](setup-teams-configurable-workforce-optimization-itsm.md).
+For detailed information on how to setup and use Teams, see [Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md).
 

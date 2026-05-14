@@ -28,7 +28,7 @@ You can relate information objects to an assessment question only if the questio
 -   Numeric Scale
 -   Ranking
 
-To understand more about information objects and their uses, see [Information objects](../../grc-risk/reference/information-objects.md).
+To understand more about information objects and their uses, see [Information objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../grc-risk/reference/information-objects.md).
 
 ## Procedure
 
@@ -59,5 +59,5 @@ To understand more about information objects and their uses, see [Information ob
 
 The information objects are related to the processing activity.
 
-**Parent Topic:**[Create a privacy assessment](create-assessment-template.md)
+**Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 

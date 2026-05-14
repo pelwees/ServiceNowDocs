@@ -23,17 +23,17 @@ Role required: agent\_admin or admin
 
 ## Procedure
 
-1.  [Configure the CyberArk vault and install the AIM API](t_InstallCyberArkAIMAPI.md).
+1.  [Configure the CyberArk vault and install the AIM API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/t_InstallCyberArkAIMAPI.md).
 
-2.  [Import the CyberArk JAR file](t_ImportTheCyberArkJARFile.md).
+2.  [Import the CyberArk JAR file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/t_ImportTheCyberArkJARFile.md).
 
-3.  [Configure OAuth 2.0 credentials on CyberArk](configure-oauth-2-0-credentials-on-cyberark.md).
+3.  [Configure OAuth 2.0 credentials on CyberArk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/configure-oauth-2-0-credentials-on-cyberark.md).
 
-4.  [Configure a connection to send OAuth request via the MID Server using external vault](configure-oauth-2-0-authentication.md).
+4.  [Configure a connection to send OAuth request via the MID Server using external vault](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/configure-oauth-2-0-authentication.md).
 
 
--   **[Configure OAuth 2.0 credentials on CyberArk](configure-oauth-2-0-credentials-on-cyberark.md)**  
+-   **[Configure OAuth 2.0 credentials on CyberArk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/configure-oauth-2-0-credentials-on-cyberark.md)**  
 Configure your CyberArk vault with OAuth 2.0 credentials that the ServiceNow instance requests.
 
-**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](../concept/oauth-2-0-support-in-external-credential.md)
+**Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../concept/oauth-2-0-support-in-external-credential.md)
 

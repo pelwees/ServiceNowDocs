@@ -23,7 +23,7 @@ Role required: sm\_app\_owner or service\_mapping\_admin
 
 If information about service instance entry points is missing, an administrator cannot start mapping the service instance. In this case, the administrator sends a request for missing data from the service instance form, which creates a service process task assigned to you. You receive an email notification with the link to the Questionnaire page where you must enter the missing data. The most important information is about the entry points, however, any additional data about application service components, their connections, or usage is of help for the administrator. When you finish entering data in the Questionnaire and submit it, the system closes the service process task.
 
-![Flow of creating a single application service.](../image/SingleBSFlow.png "Mapping an application service flow")
+![Flow of creating a single application service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/SingleBSFlow.png "Mapping an application service flow")
 
 ## Procedure
 
@@ -56,5 +56,5 @@ If information about service instance entry points is missing, an administrator 
 6.  If there is any other useful information concerning this service instance, enter it in the **Notes** field under **Worknotes** and press Enter to post your comment.
 
 
-**Parent Topic:**[Map a single application service using classic Service Mapping](t_DefineNewBusinessService.md)
+**Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 

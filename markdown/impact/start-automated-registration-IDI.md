@@ -15,7 +15,7 @@ The automated registration process simplifies the configuration process and conn
 
 ## Before you begin
 
-[Run your first scan with the Scan Engine](run-scan-engine.md) before this procedure.
+[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md) before this procedure.
 
 Role required: impact app admin and impact admin \(IDI\)
 
@@ -27,7 +27,7 @@ Role required: impact app admin and impact admin \(IDI\)
 
 3.  Select **Learn about registering your instance** to read an overview of these steps.
 
-    See [Configure the Impact Store Application](../concept/configuring-impact-platform.md) for a summary of the configuration steps.
+    See [Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md) for a summary of the configuration steps.
 
 4.  **Mark as Complete** to continue.
 
@@ -35,7 +35,7 @@ Role required: impact app admin and impact admin \(IDI\)
 
 6.  Select the **Create registration** link.
 
-    ![Create registration link and the check registration status links on the registration page.](../image/guided-setup-start-auto-registration.png)
+    ![Create registration link and the check registration status links on the registration page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/guided-setup-start-auto-registration.png)
 
     **Note:** It may take a few moments to connect to the Impact Delivery Instance and process the registration.
 
@@ -47,7 +47,7 @@ Role required: impact app admin and impact admin \(IDI\)
 
     A new Provider connection registration record is created and linked to your Impact Delivery Instance.
 
-    ![The Impact Store App provider connection record with the ServiceNow Company, URL, and pre-connection statuses populated.](../image/provider-connection.png)
+    ![The Impact Store App provider connection record with the ServiceNow Company, URL, and pre-connection statuses populated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/provider-connection.png)
 
 9.  Refer to the Provider Connection record table for information about the form:
 
@@ -118,7 +118,7 @@ Inbound status \(read-only\)
 
     If the state updates to Validation failed, health checks failed and the provider isn't connected.
 
-    ![Failed validation banner with the link to the Health Dashboard.](../image/onboarding-failed.png)
+    ![Failed validation banner with the link to the Health Dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/onboarding-failed.png)
 
     1.  Select the **Health Dashboard** link in the error banner to be directed to the Service Exchange health dashboard.
     2.  View and diagnose the errors.
@@ -134,7 +134,7 @@ Inbound status \(read-only\)
     -   Provider onboarding started...: The connection is validated between the Impact Store App and the Impact Delivery Instance.
     -   Syncing settings to complete onboarding...: Necessary components and settings are synchronizing and required for alignment.
     -   Onboarding Complete: All settings have synced and you are ready to sync data from the Impact Delivery Instance.
-    ![Provider and onboarding connection status and confirmation message.](../image/onboarding-complete-png.png)
+    ![Provider and onboarding connection status and confirmation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/onboarding-complete-png.png)
 
 12. When the status updates to Onboarding Complete, select **Close**.
 
@@ -142,18 +142,18 @@ Inbound status \(read-only\)
 
 13. Return to the open tab, **Start automated registration a provider instance** in Guided Setup, and select **Mark Complete** to continue to verify the connection.
 
-    ![The required step to mark the new provider connection creation as successful with the Mark as complete button on the Automated Registration page in Guided Setup.](../image/create-provider-connection-automated-mark-complete.png)
+    ![The required step to mark the new provider connection creation as successful with the Mark as complete button on the Automated Registration page in Guided Setup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/create-provider-connection-automated-mark-complete.png)
 
     Upon successful connection, you can skip, manual registration and proceed to the **Verify the connection** activity in Guided Setup.
 
 
 ## What to do next
 
-[Verify Impact data connection](verify-impact-data-connection.md)
+[Verify Impact data connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Run your first scan with the Scan Engine](run-scan-engine.md)
+**Previous topic:**[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md)
 
-**Next topic:**[Verify Impact data connection](verify-impact-data-connection.md)
+**Next topic:**[Verify Impact data connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md)
 

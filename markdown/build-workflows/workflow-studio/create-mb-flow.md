@@ -29,7 +29,7 @@ MetricBase triggers are not available on the base system. The MetricBase applica
 
 3.  Define the flow properties.
 
-    For more information, see [Create a flow in Workflow Studio](create-flow.md).
+    For more information, see [Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md).
 
 4.  In the Trigger section, add a trigger and select **MetricBase**.
 
@@ -48,12 +48,12 @@ MetricBase triggers are not available on the base system. The MetricBase applica
 
 8.  Once the flow is behaving as desired, activate the flow.
 
-    For more information, see [Test a flow](flow-test.md) and [Activate a flow](flow-activate.md).
+    For more information, see [Test a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md) and [Activate a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-activate.md).
 
 
 ## Result
 
 The MetricBase application monitors time series data on the ServiceNow AI Platform. When the selected trigger is met, the flow runs.
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

@@ -140,5 +140,5 @@ Only active contract types are displayed in the list.
 </table>4.  Select **Resubmit**.
 
 
-**Parent Topic:**[Create a legal request for a third-party contract review](snlc-submit-request-tpc.md)
+**Parent Topic:**[Create a legal request for a third-party contract review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-submit-request-tpc.md)
 

@@ -34,5 +34,5 @@ Role required: notify\_admin
 6.  On the **Advance Voice Features** tab, enter the number of seconds in the **Machine detection timeout** field to set a timeout value.
 
 
-**Parent Topic:**[Configure Notify with Twilio](t_ConfigureNotifyWithTwilio.md)
+**Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 

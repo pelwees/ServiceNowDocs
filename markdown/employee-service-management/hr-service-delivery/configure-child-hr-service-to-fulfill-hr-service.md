@@ -85,5 +85,5 @@ Order number for when the service activity is made available. Lower numbered ser
 4.  Click **Update** on the HR Service form.
 
 
-**Parent Topic:**[Configure a service activity for an HR service](configure-service-activity-for-hr-service.md)
+**Parent Topic:**[Configure a service activity for an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md)
 

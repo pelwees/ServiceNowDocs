@@ -26,7 +26,7 @@ Role required: ui\_builder\_admin or admin.
 
 ## About this task
 
-Domain filters support both the instance's list of domains and Performance Analytics domain configurations. Filters based on the domain list provide different results than filters based on domain configurations. For more information, see [Differences between domain list and domain configuration filters](create-domain-filter.md#).
+Domain filters support both the instance's list of domains and Performance Analytics domain configurations. Filters based on the domain list provide different results than filters based on domain configurations. For more information, see [Differences between domain list and domain configuration filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-domain-filter.md#).
 
 The filter applies to all elements on the same dashboard or the same dashboard tab, depending on filter placement. Filters on dashboard tabs have higher priority than top-level filters.
 
@@ -34,13 +34,13 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 1.  Open **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
-2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+2.  Locate the dashboard in the dashboard library and open it for editing, as described in [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/edit-db-in-ac.md).
 
     **Note:** These instructions are for using the inline dashboard editor. If you’re editing a technical dashboard in the UI Builder, see the [Component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/shared-components/sn-pa-domain-filter/overview) on the Developer Site.
 
 3.  Create or open the dashboard that you want to add a domain filter to.
 
-    For more information, see [Edit Platform Analytics dashboards](../../dashboards/task/edit-db-in-ac.md).
+    For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/task/edit-db-in-ac.md).
 
 4.  Select **Edit**.
 
@@ -50,7 +50,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 6.  Select the domain filter's three-dot menu and choose **Configure**.
 
-    ![Domain filter container with More actions menu open and Configure option highlighted](../../dashboards/image/config-domain-filter-ie.png)
+    ![Domain filter container with More actions menu open and Configure option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/config-domain-filter-ie.png)
 
 7.  In the **Filter label** field, type a meaningful name for the filter.
 
@@ -62,14 +62,14 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
         You can filter on either a Performance Analytics domain configuration or a standard domain list.
 
-        ![Domain filter configuration panel with Domain display list expanded.](../image/domain-filter-config.png)
+        ![Domain filter configuration panel with Domain display list expanded.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/domain-filter-config.png)
 
         |Options|Description|
         |-------|-----------|
-        |Use the Performance Analytics domain configuration|Enables users to filter results based on a domain configuration. To learn more about domain configurations, see [Grouping domains in Performance Analytics domain configurations](../../performance-analytics/concept/pa-domain-separation-msp.md).|
+        |Use the Performance Analytics domain configuration|Enables users to filter results based on a domain configuration. To learn more about domain configurations, see [Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/pa-domain-separation-msp.md).|
         |Use the standard domain list|Enables users to filter results based on the list of domains. The list shows only active domains. Aggregations aren’t included.|
 
-        For a more detailed description of how these properties affect the results of the filter, see [Differences between domain list and domain configuration filters](create-domain-filter.md#).
+        For a more detailed description of how these properties affect the results of the filter, see [Differences between domain list and domain configuration filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-domain-filter.md#).
 
     2.  Choose whether to **Include global domain data**.
 
@@ -78,30 +78,30 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 9.  Select **Save**.
 
 
-**Parent Topic:**[Filters in Platform Analytics](../concept/interactive-filters-workspace.md)
+**Parent Topic:**[Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/interactive-filters-workspace.md)
 
 **Related topics**  
 
 
-[Create or add a filter on an inline dashboard](select-workspace-filter-type.md)
+[Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md)
 
-[Create a filter in the Filter Designer](add-filter-library.md)
+[Create a filter in the Filter Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md)
 
-[Create a filter group](create-filter-group.md)
+[Create a filter group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-filter-group.md)
 
-[Create a filter on a technical dashboard in UI Builder](add-filter-tech-dashboard.md)
+[Create a filter on a technical dashboard in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-tech-dashboard.md)
 
-[Make a data visualization act as a filter](make-dv-act-as-filter.md)
+[Make a data visualization act as a filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/make-dv-act-as-filter.md)
 
-[Configure a Single/Multiple select or cascading filter](create-select-filter-workspace.md)
+[Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md)
 
-[Configure a True/False filter](create-boolean-filter-workspace.md)
+[Configure a True/False filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md)
 
-[Configure a Date filter in the inline editor](create-date-filter-workspace.md)
+[Configure a Date filter in the inline editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md)
 
-[Edit a Platform Analytics filter on a dashboard](edit-filters-configurable-workspaces.md)
+[Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md)
 
-[Platform Analytics filter tables](../reference/par-filter-tables.md)
+[Platform Analytics filter tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/par-filter-tables.md)
 
 ## Differences between domain list and domain configuration filters
 
@@ -116,9 +116,9 @@ The results of domain filtering differ based on the presence of child domains an
 -   **Global domain included**
     -   **Visualizations based on indicator data**
 
-        Show only the scores for the selected domain. Child domain and global domain scores are not included. The values can come from both [data collection jobs](../../performance-analytics/concept/performance-analytics-glossary.md#) and manual input.
+        Show only the scores for the selected domain. Child domain and global domain scores are not included. The values can come from both [data collection jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/performance-analytics-glossary.md#) and manual input.
 
-    -   **Visualizations based on table data or [database views](../../performance-analytics/concept/performance-analytics-glossary.md#)**
+    -   **Visualizations based on table data or [database views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/performance-analytics-glossary.md#)**
 
         Combine the values of the global and selected domains, and any child or parent domains.
 
@@ -134,7 +134,7 @@ The results of domain filtering differ based on the presence of child domains an
 
 ### Performance Analytics domain configurations
 
-See [Grouping domains in Performance Analytics domain configurations](../../performance-analytics/concept/pa-domain-separation-msp.md) for a detailed discussion of domain configurations.
+See [Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/pa-domain-separation-msp.md) for a detailed discussion of domain configurations.
 
 Once you group domains in a Performance Analytics domain configuration, there are two considerations when you filter on a domain in that configuration:
 
@@ -171,5 +171,5 @@ Once you group domains in a Performance Analytics domain configuration, there ar
 **Related topics**  
 
 
-[Approaches to Performance Analytics with domain separation](../../performance-analytics/concept/pa-domain-configurations.md)
+[Approaches to Performance Analytics with domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/pa-domain-configurations.md)
 

@@ -121,11 +121,11 @@ Select **ServiceNow** from the drop-down list.
 
 ## Result
 
-Option to view a floor map using the Map view instead of a list view is available for Workplace Service Delivery for Mobile users. You can use the **Toggle map view** option while making a reservation to view floor maps and select spaces. For more information, see [Configure the Toggle map view property](configure-toggle-map-view.md).
+Option to view a floor map using the Map view instead of a list view is available for Workplace Service Delivery for Mobile users. You can use the **Toggle map view** option while making a reservation to view floor maps and select spaces. For more information, see [Configure the Toggle map view property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-toggle-map-view.md).
 
-**Parent Topic:**[Configure Workplace Service Delivery for Mobile](../concept/configure-wsd-mobile.md)
+**Parent Topic:**[Configure Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/configure-wsd-mobile.md)
 
-**Previous topic:**[Configure a custom Map provider](configure-custom-map-provider.md)
+**Previous topic:**[Configure a custom Map provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-custom-map-provider.md)
 
-**Next topic:**[Configure the Toggle map view property](configure-toggle-map-view.md)
+**Next topic:**[Configure the Toggle map view property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-toggle-map-view.md)
 

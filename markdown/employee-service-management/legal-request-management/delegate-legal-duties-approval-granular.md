@@ -27,7 +27,7 @@ Delegate specific legal duties relating to your assigned legal requests, legal m
 
     -   The **My Delegates** list on the Granular Delegate \[sys\_granular\_delegate\] table must be active.
     -   The **My Delegates** list on the Delegate \[sys\_user\_delegate\] table must be inactive.
--   Delegate rules must be created by the administrator. For more information, see [Create delegation rules](../../employee-service-management/granular-delegation/task/create-delegation-rules.md).
+-   Delegate rules must be created by the administrator. For more information, see [Create delegation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../employee-service-management/granular-delegation/task/create-delegation-rules.md).
 
 Role required: legal\_fulfiller
 
@@ -39,7 +39,7 @@ You can use the granular delegation to delegate only specific requests such as P
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Set Delegate**, click **My Delegates**.
 
@@ -100,5 +100,5 @@ Setting the granular delegation has the following effects during the specified p
 -   The delegate can access and work on your assigned legal requests, legal matters, legal matter tasks, and approvals as per the assigned duties from the **Delegated to me** list.
 -   Both you and the delegate receive notifications related to activities done on legal requests, legal matters, matter tasks, and approvals.
 
-**Parent Topic:**[Delegation of legal duties and approvals](../concept/legal-services-delegation.md)
+**Parent Topic:**[Delegation of legal duties and approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../concept/legal-services-delegation.md)
 

@@ -17,7 +17,7 @@ Install a third-party library from Node Package Manager \(npm\) and use it in a 
 
 ## Before you begin
 
-Complete [Tutorial part 3: Define a table in ServiceNow Fluent code](tutorial-define-table-fluent-ide.md).
+Complete [Tutorial part 3: Define a table in ServiceNow Fluent code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/tutorial-define-table-fluent-ide.md).
 
 Role required: admin
 
@@ -31,7 +31,7 @@ In this example, you install a Lodash library to get common JavaScript utilities
 
 1.  Install the snakeCase method from the Lodash library in your application.
 
-    1.  From the Activity Bar, select the File Explorer view \(![File Explorer](../image/servicenow-ide-file-explorer-icon.png)\).
+    1.  From the Activity Bar, select the File Explorer view \(![File Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-file-explorer-icon.png)\).
 
     2.  Open the `package.json` file for the application.
 
@@ -62,9 +62,9 @@ In this example, you install a Lodash library to get common JavaScript utilities
 
     6.  When prompted, select **Install missing dependencies**.
 
-        **Tip:** You can also select the Install Dependencies icon \(![Install dependencies](../image/servicenow-ide-install-deps-icon.png)\) or use the `Package Manager: Install Dependencies` command from the command palette.
+        **Tip:** You can also select the Install Dependencies icon \(![Install dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-install-deps-icon.png)\) or use the `Package Manager: Install Dependencies` command from the command palette.
 
-        ![Options to install dependencies in the ServiceNow IDE.](../image/servicenow-ide-install-deps.png)
+        ![Options to install dependencies in the ServiceNow IDE.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-install-deps.png)
 
         Libraries are installed as modules in the `node_modules` directory.
 
@@ -103,11 +103,11 @@ In this example, you install a Lodash library to get common JavaScript utilities
 
 After you update any field on a record in the To-do Items \[x\_snc\_hello\_world\_to\_do\] table, the sample business rule runs and displays the message in snake case, with the words separated by underscores instead of spaces.
 
-![The message string from the showStateUpdate function in snake case](../image/servicenow-ide-snakecase.png)
+![The message string from the showStateUpdate function in snake case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../image/servicenow-ide-snakecase.png)
 
 ## What to do next
 
-Continue to [Tutorial part 5: Clone the application on a different instance](tutorial-clone-application-ide.md).
+Continue to [Tutorial part 5: Clone the application on a different instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/tutorial-clone-application-ide.md).
 
-**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](../concept/getting-started-create-application-ide.md)
+**Parent Topic:**[Getting started: Create your first application in the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-ide-family-release/../concept/getting-started-create-application-ide.md)
 

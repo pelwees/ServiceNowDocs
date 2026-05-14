@@ -129,10 +129,10 @@ Calendar event
 </td></tr></tbody>
 </table>**Note:** In **My Calendar**, only events that you created are visible.
 
-**Parent Topic:**[Managing SPM work in Collaborative Work Management](../concept/cwm-team-member-roles.md)
+**Parent Topic:**[Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-team-member-roles.md)
 
 **Related topics**  
 
 
-[Managing SPM work in Collaborative Work Management](../concept/cwm-team-member-roles.md)
+[Managing SPM work in Collaborative Work Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-team-member-roles.md)
 

@@ -39,7 +39,7 @@ The oneExtend LLM skill is included in Now Assist for WDF.
 
     Core functionality isn’t affected if skipped, but some AI agent capabilities may be limited. For more information, see [https://www.servicenow.com/docs/r/platform-administration/ai-search/servicenow-product-documentation-external-content-connector.html](https://www.servicenow.com/docs/r/platform-administration/ai-search/servicenow-product-documentation-external-content-connector.html).
 
-    ![Screenshot showing the product documentation content connector tile.](../image/wdf-ai-doc-connector.png)
+    ![Screenshot showing the product documentation content connector tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-ai-doc-connector.png)
 
 5.  Activate the flow generation skill.
 
@@ -47,13 +47,13 @@ The oneExtend LLM skill is included in Now Assist for WDF.
 
     1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
-        ![Screenshot showing the Flow generation tile.](../image/wdf-ai-config1.png)
+        ![Screenshot showing the Flow generation tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-ai-config1.png)
 
     2.  On the **Flow generation** tile, select **Turn on** and confirm to activate the skill.
 
         You’re asked to specify any ACLs permitted to access the flow generation skill and configure role restrictions. You can leave these fields empty. For more information, see [https://www.servicenow.com/docs/r/build-workflows/now-assist-for-creator/turn-on-the-flow-generation-skill.html](https://www.servicenow.com/docs/r/build-workflows/now-assist-for-creator/turn-on-the-flow-generation-skill.html).
 
-        ![Screenshot showing the Flow generation activation screen.](../image/wdf-ai-config2.png)
+        ![Screenshot showing the Flow generation activation screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-ai-config2.png)
 
     3.  Delete a skill by selecting **Deactivate skill** on the skill's tile, and confirm.
 

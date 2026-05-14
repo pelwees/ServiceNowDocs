@@ -14,7 +14,7 @@ breadcrumb: [Using Grants Management, Solutions, Use, Public Sector Digital Serv
 
 You can use the Grants Proposal playbook to review information provided by the applicant along with other relevant documents. Create and assign merit review tasks and allocate budgets and propose funding.
 
-**Note:** Verify that the Grants Management application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install Grants Management for Public Sector Digital Services](psds-install-grants-management.md).
+**Note:** Verify that the Grants Management application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install Grants Management for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-install-grants-management.md).
 
 The Grants proposal workflow provides a structured process for managing grant proposals from submission for the pre-award phase. It begins with proposal intake, where applicants submit required forms and eligibility is verified. The review and evaluation phase involves initial screening, technical assessments, and scoring to determine funding recommendations. Once selections are made, agencies proceed with award decisions and notifications. By default, the following stages are available in the Grants Management in the CSM Configurable Workspace.
 
@@ -133,7 +133,7 @@ In this stage, as the grants program manager or the grants program director, you
 
 4.  Review the list of contacts entered in the **Add authorized representatives** activity.
 
-    The list of contacts will only display if the contact does not already exist in the system, and a contact approval request is now routed to the admin, who can accept or reject via the Grants Management workspace. The case continues once the admin has responded to the request. This activity is automatically skipped if there are no new contacts to approve. For information on how to approve a contact registration request, see [Approve registration for a new business contact or organization in Grants Management Portal](psds-gmp-approve-new-business-org-contact-portal.md).
+    The list of contacts will only display if the contact does not already exist in the system, and a contact approval request is now routed to the admin, who can accept or reject via the Grants Management workspace. The case continues once the admin has responded to the request. This activity is automatically skipped if there are no new contacts to approve. For information on how to approve a contact registration request, see [Approve registration for a new business contact or organization in Grants Management Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-approve-new-business-org-contact-portal.md).
 
 5.  If the approval request is rejected, you can review the reasoning behind the rejection, and either:
 
@@ -186,7 +186,7 @@ Evaluation consists of two tasks: Conduct merit review\(s\) and Build funding pr
 
     The state of the selected review tasks is now In progress and the reviewers receive notifications on the Reviewer Service Portal.
 
-7.  Review and manage the merit review tasks across the grant proposals by selecting **View all reviewers for this program** and switch to the workspace view by selecting the Record Details icon ![Record details icon.](../image/psds-gmp-record-details.png).
+7.  Review and manage the merit review tasks across the grant proposals by selecting **View all reviewers for this program** and switch to the workspace view by selecting the Record Details icon ![Record details icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-gmp-record-details.png).
 
 8.  Move all the selected review tasks back to Draft state by selecting **Reset State**.
 

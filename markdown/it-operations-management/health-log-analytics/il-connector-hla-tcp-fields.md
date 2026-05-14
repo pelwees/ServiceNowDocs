@@ -16,7 +16,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 Description of the fields on the TCP integration configuration forms for Health Log Analytics.
 
-For the TCP integration setup procedure, see [Set up a TCP integration for Health Log Analytics](../task/il-connector-hla-tcp.md).
+For the TCP integration setup procedure, see [Set up a TCP integration for Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-hla-tcp.md).
 
 <table id="table_sfp_25d_pcc"><thead><tr><th>
 
@@ -181,5 +181,5 @@ Line breaker delimiters
 The line break character separating the raw log lines.Splitting values must be separated by a comma followed by a space: ", ". For example: "\\r, \\n, , splitHere, \#".
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Integration configuration fields](../concept/hla-connector-config-fields.md)
+</table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-connector-config-fields.md)
 

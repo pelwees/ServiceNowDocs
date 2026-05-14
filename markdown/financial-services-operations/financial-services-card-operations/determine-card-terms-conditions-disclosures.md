@@ -19,17 +19,17 @@ Determine a card's terms and conditions and disclosures and update the customer 
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](../../fso-common/concept/fso-combine-csm-industry-roles.md).
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../fso-common/concept/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
-This credit card task is automatically created for a new credit card case when the document service task to [check the completeness of the customer's supporting documents](check-completeness-supporting-documents.md) completes.
+This credit card task is automatically created for a new credit card case when the document service task to [check the completeness of the customer's supporting documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/check-completeness-supporting-documents.md) completes.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-card-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Open the task from a credit card service case or from the Credit Card Task list.
 

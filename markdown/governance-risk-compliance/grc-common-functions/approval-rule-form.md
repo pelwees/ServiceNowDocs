@@ -64,7 +64,7 @@ Approver type
 Type of approver.-   Specific approvers: Your choice of approvers.
 -   Approver from source: Users or groups from the source table.
 -   Dynamic approvers: Approvers selected dynamically from any table.
--   Scripted approvers: Script to determine approvers. See the script shown as an example below.![Sample script.](../../grc-business-continuity-management/image/approval-rule-sample-script.png)
+-   Scripted approvers: Script to determine approvers. See the script shown as an example below.![Sample script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-business-continuity-management/image/approval-rule-sample-script.png)
 
 **Note:**
 
@@ -75,7 +75,7 @@ If you have the BCM admin role, you can set up an approval rule only with the fo
 -   Specific approvers
 -   Approver from source
 
-For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](roles-installed-with-approver-configurator.md).
+For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/roles-installed-with-approver-configurator.md).
 
 </td></tr><tr><td>
 
@@ -174,5 +174,5 @@ Script
 Script to determine approvers; **users** and **groups** in the script are selected as approvers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Set up an approval rule for the approval level](../task/set-up-approval-rules.md)
+</table>**Parent Topic:**[Set up an approval rule for the approval level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/set-up-approval-rules.md)
 

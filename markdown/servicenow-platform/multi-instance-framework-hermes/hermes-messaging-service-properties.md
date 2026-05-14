@@ -48,16 +48,16 @@ By default, identifiers in the **Keys** column are displayed as strings in UTF8.
 -   binary: display keys in base64
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Hermes Messaging Service reference](../concept/hermes-messaging-service-reference.md)
+</table>**Parent Topic:**[Hermes Messaging Service reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-reference.md)
 
 **Related topics**  
 
 
-[Hermes Messaging Service components](../concept/hermes-messaging-service-components.md)
+[Hermes Messaging Service components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-components.md)
 
-[Hermes Messaging Service security model](../concept/hermes-messaging-service-security-model.md)
+[Hermes Messaging Service security model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../concept/hermes-messaging-service-security-model.md)
 
-[Hermes Messaging Service roles](hermes-messaging-service-roles.md#)
+[Hermes Messaging Service roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-roles.md#)
 
-[Hermes Messaging Service domain separation](hermes-messaging-service-domain-separation.md)
+[Hermes Messaging Service domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-domain-separation.md)
 

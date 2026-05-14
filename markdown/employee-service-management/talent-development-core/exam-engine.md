@@ -19,19 +19,19 @@ Career Assessment is a test taking application that enhances the learning experi
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Career Assessment helps facilitate career progression](exploring-exam-engine.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how Career Assessment helps facilitate career progression](exploring-exam-engine.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Career Assessment](configuring-exam-engine.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Career Assessment](configuring-exam-engine.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-meetings.svg) Learn how to use Career Assessment](using-exam-engine.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-meetings.svg) Learn how to use Career Assessment](using-exam-engine.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components like roles, fields, tables, and properties](exam-engine-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components like roles, fields, tables, and properties](exam-engine-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store

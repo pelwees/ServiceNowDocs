@@ -97,5 +97,5 @@ sn\_shift\_planning.admin
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Configure event categories for the ITSM Manager Workspace](categorize-events-configurable-wfo-itsm.md)
+**Parent Topic:**[Configure event categories for the ITSM Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/categorize-events-configurable-wfo-itsm.md)
 

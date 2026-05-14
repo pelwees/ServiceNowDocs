@@ -30,5 +30,5 @@ Role required: admin
     Admins can still impersonate users via the **impersonate\_dialog** UI page.
 
 
-**Parent Topic:**[Impersonating users](c_ImpersonateAUser.md)
+**Parent Topic:**[Impersonating users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md)
 

@@ -15,13 +15,13 @@ breadcrumb: [Automated Test Framework \(ATF\) reference, Automated Test Framewor
 
 The Tests module opens the Test table. From here, you can add, edit, and run tests. By opening an individual test record, you can view and edit the steps comprising that test.
 
--   **[Test record form](../reference/atf-test-record-form.md)**  
+-   **[Test record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../reference/atf-test-record-form.md)**  
 In the Test record form, you view and edit values of fields for the test record.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) reference](atf-ref-overview.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-ref-overview.md)
 
 **Related topics**  
 
 
-[Building and running automated test suites](atf-suites-overview.md)
+[Building and running automated test suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-suites-overview.md)
 

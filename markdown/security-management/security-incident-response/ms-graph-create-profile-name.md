@@ -80,7 +80,7 @@ Additional text to help you distinguish this profile from other profiles.
 </td></tr></tbody>
 </table>    The following figure is an example of a completed form.
 
-    ![Microsoft Graph Security API: create profile name](../image/ms-graph-create-profile-1.png)
+    ![Microsoft Graph Security API: create profile name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-1.png)
 
 
 ## What to do next

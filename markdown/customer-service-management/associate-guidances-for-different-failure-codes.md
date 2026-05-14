@@ -19,7 +19,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## About this task
 
-![Failure code nodes](../image/ex-associate-guidances-failure-codes.png)
+![Failure code nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-associate-guidances-failure-codes.png)
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
     4.  In the **Guidance** field, select the Reassign case guidance.
 
-    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
+    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
 
     6.  Select **Save and close**.
 
@@ -51,7 +51,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
     4.  In the **Guidance** field, select the Create work order guidance.
 
-    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
+    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
 
     6.  Select **Save and close**.
 
@@ -67,12 +67,12 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
     4.  In the **Guidance** field, select the Assign IT technician guidance.
 
-    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
+    5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) next to the field and selecting a guidance input from the list.
 
     6.  Select **Save and close**.
 
 
 ## Result
 
-![Failure code nodes displaying a process flowchart that involves asking for failure codes and branching into three distinct paths based on the code provided.](../image/ex-failure-code-guidances-result.png)
+![Failure code nodes displaying a process flowchart that involves asking for failure codes and branching into three distinct paths based on the code provided.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-failure-code-guidances-result.png)
 

@@ -15,9 +15,9 @@ Test the desktop action and then activate it so that it’s available as a tool 
 
 ## Before you begin
 
--   Capture your automation steps. For more information, see [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](auto-create-desktop-action-ad.md) or [Automate repetitive tasks by manually capturing steps in AI Desktop Actions](manual-create-desktop-action-ad.md).
--   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](../reference/screen-anchor-and-action-properties-ad.md).
--   Add desktop action details, such as name, description, and associated applications, and review inputs and outputs. For more information, see [Add details to desktop actions in AI Desktop Actions](add-details-desktop-action-ad.md).
+-   Capture your automation steps. For more information, see [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md) or [Automate repetitive tasks by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md).
+-   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../reference/screen-anchor-and-action-properties-ad.md).
+-   Add desktop action details, such as name, description, and associated applications, and review inputs and outputs. For more information, see [Add details to desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/add-details-desktop-action-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -27,7 +27,7 @@ You can test the desktop action before you activate it. You can also test indivi
 
 Execution workspace is launched to run and test the selected screen orthe desktop action.
 
-![AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.](../image/execution-workspace-ad.png)
+![AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/execution-workspace-ad.png)
 
 After you run the test by entering the required inputs manually, test results are shown either for a screen orfor entire desktop action in the Execution workspace. While running tests, if you do not see the Execution workspace coming forth, switch to the Execution workspace manually.
 
@@ -55,11 +55,11 @@ While working on a desktop action, the test values you enter are retained across
 
         -   If test is successful, proceed with testing the next screen.
 
-            ![Test completed window displaying status as Success.](../image/ad-sucess-test-desktop-action-scrn.png)
+            ![Test completed window displaying status as Success.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-sucess-test-desktop-action-scrn.png)
 
         -   If test isn’t successful, fix the issue highlighted in the error message and run the screen-level test again.
 
-            ![Test completed window displaying status as Failed.](../image/ad-fail-test-desktop-action-scrn.png)
+            ![Test completed window displaying status as Failed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-fail-test-desktop-action-scrn.png)
 
     5.  Reset test data by selecting **Reset**.
 
@@ -85,11 +85,11 @@ While working on a desktop action, the test values you enter are retained across
 
         -   If test is successful, proceed with activating the desktop action.
 
-            ![Test completed window displaying status as Success.](../image/ad-sucess-test-desktop-action.png)
+            ![Test completed window displaying status as Success.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-sucess-test-desktop-action.png)
 
         -   If test isn’t successful, select **Back to Test** to check the configuration and run the test again.
 
-            ![Test completed window displaying status as Failed.](../image/ad-fail-test-desktop-action.png)
+            ![Test completed window displaying status as Failed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ad-fail-test-desktop-action.png)
 
 4.  Cancel running test by selecting **Cancel**.
 
@@ -100,11 +100,11 @@ While working on a desktop action, the test values you enter are retained across
     **Note:** After activation, save the desktop action to make it available as a tool in AI Agent Studio.
 
 
-If you get en error that the file size is beyond 10 MB, you can increase the file size in a payload by creating system properties in the ServiceNow instance. For more information, see [Increase payload limit through system properties](increase-payload-limit-ad.md).
+If you get en error that the file size is beyond 10 MB, you can increase the file size in a payload by creating system properties in the ServiceNow instance. For more information, see [Increase payload limit through system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/increase-payload-limit-ad.md).
 
 ## What to do next
 
-Create an AI agent. For more information, see [Creating AI agents for AI Desktop Actions](../concept/create-ai-agents-ad.md).
+Create an AI agent. For more information, see [Creating AI agents for AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/create-ai-agents-ad.md).
 
-Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [Add a desktop action to an AI agent](../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
+Enable AI agents to perform desktop actions by adding desktop actions as tools. For more information, see [Add a desktop action to an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/add-desktop-action-ai-agent.md).
 

@@ -55,7 +55,7 @@ The content type category. The types are:-   Portal Content
 -   To-do Content
 -   Mobile Content
 
-See [Portal content](../concept/ec-streamline-content.md).
+See [Portal content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-streamline-content.md).
 
 </td></tr><tr><td id="d144736e134">
 

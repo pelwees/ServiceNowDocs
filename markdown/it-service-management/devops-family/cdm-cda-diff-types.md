@@ -52,7 +52,7 @@ On the **App compare** tab, the **CDIs and variables** tab displays changes to i
 
 ## Examples of differences
 
-![Examples of differences between changesets, part 1](../image/cdm-cda-diff-types1.png)
+![Examples of differences between changesets, part 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-cda-diff-types1.png)
 
-![Examples of differences between changesets, part 2](../image/cdm-cda-diff-types2.png)
+![Examples of differences between changesets, part 2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-cda-diff-types2.png)
 

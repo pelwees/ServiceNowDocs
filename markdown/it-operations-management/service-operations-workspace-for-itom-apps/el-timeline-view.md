@@ -25,9 +25,9 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation, select the Express List icon \(![Express List icon.](../../event-management/image/express-list1.png)\).
+2.  In the primary navigation, select the Express List icon \(![Express List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/express-list1.png)\).
 
-3.  In the Active alerts list, select the information icon \(![Information icon.](../../event-management/image/info.png) for an alert.
+3.  In the Active alerts list, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/image/info.png) for an alert.
 
 4.  On the preview panel Alerts tab, select **Timeline view**.
 
@@ -35,7 +35,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 6.  Sort the displayed alerts by ascending or descending time or by severity.
 
-    1.  Select the sorting icon \(![Sorting icon in Timeline view.](../image/el-timeline-sort.png)\).
+    1.  Select the sorting icon \(![Sorting icon in Timeline view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-timeline-sort.png)\).
 
     2.  Select the preferred sorting option from the pop-up menu.
 
@@ -45,5 +45,5 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 **Related topics**  
 
 
-[Exploring chronological data on the alerts in an alert group in Express List](../concept/el-timeline-view-concept.md)
+[Exploring chronological data on the alerts in an alert group in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/el-timeline-view-concept.md)
 

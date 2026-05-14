@@ -15,5 +15,5 @@ breadcrumb: [Software Asset Management software suites, Exploring Software Asset
 
 Based on the system property Use component licenses to optimize compliance when suite licenses run out, the Software Asset Management application uses suite or component licenses.
 
-**Parent Topic:**[Software Asset Management software suites](software-suites.md)
+**Parent Topic:**[Software Asset Management software suites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 

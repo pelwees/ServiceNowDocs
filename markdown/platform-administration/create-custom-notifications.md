@@ -19,7 +19,7 @@ Role required: none
 
 ## About this task
 
-**Note:** Custom notifications for Next Experience do not support the setting for the affected record the notification is based on. For notifications that require an associated affected record, see [Create personal notifications](create-personal-notifications.md).
+**Note:** Custom notifications for Next Experience do not support the setting for the affected record the notification is based on. For notifications that require an associated affected record, see [Create personal notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-personal-notifications.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ Role required: none
 8.  Select **Save**.
 
 
-**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](../concept/advanced-notification-prefrences.md)
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/advanced-notification-prefrences.md)
 

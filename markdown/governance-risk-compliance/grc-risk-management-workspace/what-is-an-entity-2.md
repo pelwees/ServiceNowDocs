@@ -36,7 +36,7 @@ After creating entities, you can tag the similar entities by defining the entity
 
 Entity classes are used to add a conceptual information about the entity or tag the entity. To understand the concept of entity class, consider the following example. A company has office branches in three cities. The office space is considered as an entity and the entity class for these entities would be the location. You can create an entity class by associating it with an entity tier as shown in the following example.
 
-![Sample configuration for an entity class.](../image/entity-class-associated-with-entity-tier.png "Sample configuration for an entity class")
+![Sample configuration for an entity class.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-class-associated-with-entity-tier.png "Sample configuration for an entity class")
 
 ## Entity class rules
 
@@ -52,15 +52,15 @@ Entity types also enable you to create risks and controls for each entity withou
 
 You can create an entity type by associating it with the core business pillar such as Technologies or Facilities as shown in the following example.
 
-![Sample configuration for an entity type.](../image/entity-type-new-record.png "Sample configuration for an entity type")
+![Sample configuration for an entity type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-type-new-record.png "Sample configuration for an entity type")
 
 ## Entity tiers
 
 When you create entity tiers, you apply a level or hierarchy to the entity classes. This level applies to all the entities in those entity classes. Entity tiers enable you to select and view the status of the most critical items in the business as shown in the following example.
 
-![List view for an entity tier.](../image/entity-tier-list-view.png "List view for an entity tier")
+![List view for an entity tier.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/entity-tier-list-view.png "List view for an entity tier")
 
-**Parent Topic:**[Exploring the entities](manage-entities.md)
+**Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage-entities.md)
 
-**Parent Topic:**[Exploring the entities](exploring-the-entities.md)
+**Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/exploring-the-entities.md)
 

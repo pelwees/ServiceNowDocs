@@ -27,12 +27,12 @@ Role required: sn\_customerservice.customer
 
 4.  Select a case to view its state and other details.
 
-    For a description of the Invoice case lines list view, see [Invoice case details on the Business Portal](../reference/invoice-case-header-list-view.md).
+    For a description of the Invoice case lines list view, see [Invoice case details on the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/invoice-case-header-list-view.md).
 
-    For more information about invoice states, see [Invoice case states on Business Portal](../reference/invoice-case-states.md).
+    For more information about invoice states, see [Invoice case states on Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/invoice-case-states.md).
 
 
 ## What to do next
 
-[Communicate and share supporting documents for an invoice case from Business Portal](manage-invoice-cases-bp.md)
+[Communicate and share supporting documents for an invoice case from Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/manage-invoice-cases-bp.md)
 

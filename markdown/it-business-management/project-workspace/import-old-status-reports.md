@@ -23,7 +23,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the Status reports page of the project by selecting Status Reports from the list.
 
@@ -36,18 +36,18 @@ Role required: it\_pps\_admin, it\_project\_manager
     You can export a status report at the project level from the classic Project Workspace using the **Export status reports to Next Experience** link. You can export a status report at the record level using the **Export to Next Experience** link.
 
 
-**Parent Topic:**[Create a status report in Project Workspace](create-a-status-report-in-project-workspace.md)
+**Parent Topic:**[Create a status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md)
 
 **Related topics**  
 
 
-[Add dynamic content to status report in Project Workspace](add-dynamic-content-to-status-report-in-pw.md)
+[Add dynamic content to status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-dynamic-content-to-status-report-in-pw.md)
 
-[Create a status report template in Project Workspace](create-a-status-report-template-project-workspace.md)
+[Create a status report template in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-template-project-workspace.md)
 
-[Update status report in Project Workspace](update-status-report-project-workspace.md)
+[Update status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/update-status-report-project-workspace.md)
 
-[Analyze the status report in Project Workspace](view-status-report-in-project-workspace.md)
+[Analyze the status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-status-report-in-project-workspace.md)
 
-[Duplicate a status report in Project Workspace](duplicate-status-report-pw.md)
+[Duplicate a status report in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/duplicate-status-report-pw.md)
 

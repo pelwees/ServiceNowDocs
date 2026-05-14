@@ -17,7 +17,7 @@ The Service Status widget provides a visual representation of service availabili
 
 The Service Status widget displays the history of service availability for one service from the Services \[cmdb\_ci\_service\] table. The widget uses the page URL to determine which service to represent.
 
-![Service Status widget](../image/WidgetServiceStatus.png "Service Status widget")
+![Service Status widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetServiceStatus.png "Service Status widget")
 
 Each pill represents one day. Each color correlates with a type of service availability. To include additional details when you hover over a pill, such as the task number or short description, you must clone the widget and edit the server script.
 
@@ -32,14 +32,14 @@ Each pill represents one day. Each color correlates with a type of service avail
 
 The Service Status widget does not have any included instance options.
 
-**Parent Topic:**[Service Portal service status widgets](service-status-widgets.md)
+**Parent Topic:**[Service Portal service status widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

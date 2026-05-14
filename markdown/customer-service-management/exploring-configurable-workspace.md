@@ -19,7 +19,7 @@ UI Builder is a drag-and-drop web user interface builder that you can use to bui
 
 Working in UI Builder enables you to preview the final interface of the workspace you're building and to see the effects of different configurations. For CSM Configurable Workspace, some configurations are also performed in lists and forms.
 
-![UI Builder screen with page configuration options along with, the Layout, Content, and Variants sections.](../image/UI-Builder-full-app.png "UI Builder")
+![UI Builder screen with page configuration options along with, the Layout, Content, and Variants sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/UI-Builder-full-app.png "UI Builder")
 
 ## Working in UI Builder
 
@@ -35,7 +35,7 @@ UI Builder is as powerful as you need it. You can build simple web experiences, 
 
 ## Setting up CSM Configurable Workspace
 
-For more information about configuring different features in CSM Configurable Workspace, such as ribbon configurations, form headers, and UI actions, see [Set up CSM Configurable Workspace](csm-config-workspace-set-up.md).
+For more information about configuring different features in CSM Configurable Workspace, such as ribbon configurations, form headers, and UI actions, see [Set up CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-set-up.md).
 
 **Related topics**  
 

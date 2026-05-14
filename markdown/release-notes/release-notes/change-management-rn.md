@@ -65,5 +65,5 @@ Change Management is a ServiceNow AI Platform feature that is active by default.
     This enhancement helps users with low vision or who have trouble seeing web content in a browser due to monitor size, device type, poor lighting, or other situations. Reflow can be turned off with a system property for instances, experiences, and pages.
 
 
-**Parent Topic:**[IT Service Management release notes](it-service-management-rn-landing.md)
+**Parent Topic:**[IT Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-service-management-rn-landing.md)
 

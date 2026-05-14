@@ -24,7 +24,7 @@ The Personal Lines Servicing dashboard enables you to monitor the status of the 
 
 ## Access the Personal Lines Servicing dashboard
 
-To access the Personal Lines Servicing dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Personal Lines Servicing dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **All** &gt; **Personal Lines Servicing** &gt; **Analytics**.
 
@@ -111,5 +111,5 @@ Needs to be able to customize views.
 -   Policy Service
 -   Policy Rejection Reason
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

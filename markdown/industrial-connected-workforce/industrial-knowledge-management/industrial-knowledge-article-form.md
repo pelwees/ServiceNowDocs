@@ -44,5 +44,5 @@ The following related lists are available on the Industrial knowledge article fo
 |Functional Locations|Displays functional locations associated with the knowledge article. Select **New** to link a functional location to the article. The list is filtered to show records of the Equipment Model Entity class. The **Knowledge article** field is automatically populated when you create a new association.|
 |Equipment|Displays equipment records associated with the knowledge article. Select **New** to link an equipment record to the article. The list is filtered to show records of the Operational Equipment class. The **Knowledge article** field is automatically populated when you create a new association.|
 
-**Parent Topic:**[Industrial Knowledge Management reference](industrial-knowledge-mgmt-reference.md)
+**Parent Topic:**[Industrial Knowledge Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/industrial-knowledge-mgmt-reference.md)
 

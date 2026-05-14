@@ -37,8 +37,8 @@ Role required: sn\_si.basic
 
 4.  Select any of the following tabs to further update the security incident:
 
-    -   [Incident Details](add_inc_details_to_si.md)
-    -   [Post Incident Review](../concept/c_PostIncidentReview.md)
+    -   [Incident Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/add_inc_details_to_si.md)
+    -   [Post Incident Review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/c_PostIncidentReview.md)
 5.  Select **Submit**.
 
 

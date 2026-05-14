@@ -62,5 +62,5 @@ If the requested item was assigned to a user group for approval, then the state 
 -   The rejection comments posted by the approver is added to the release task's Activities section.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage releases for digital products and services](dpr-manage-releases.md)
+</table>**Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 

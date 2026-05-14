@@ -21,7 +21,7 @@ Validation prevents workflows with critical flaws from executing and resulting i
 
 The graphical Workflow Editor highlights critical errors when a workflow is loaded. In this example, a subflow is missing and is not available to the parent workflow for the current user. The graphical Workflow Editor indicates the error when the parent workflow loads by highlighting \(in red\) the activity that calls the subflow. To correct the error in the parent workflow, click the validate icon in the header bar and inspect the error description in the validation report.
 
-![Validate missing subflow](../image/ValidateMissingSubflow.png "Validate missing subflow")
+![Validate missing subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ValidateMissingSubflow.png "Validate missing subflow")
 
 ## Validations at publishing
 
@@ -33,20 +33,20 @@ If you attempt to publish an invalid workflow or a workflow with potential probl
 
     -   You edit and then attempt to publish a workflow that is included as a subflow in another workflow. The system cannot determine how your changes will affect the parent workflow and alerts you of the relationship.
     -   A workflow activity uses a different table than the table assigned to the workflow. The system alerts you of the potential conflict.
-    ![validation warning](../image/ValidationWarning.png "Validation warning")
+    ![validation warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ValidationWarning.png "Validation warning")
 
 -   **Validation failure**
 
     A validation failure notifies you that a critical error has occurred in the workflow that prevents you from publishing the workflow. An example of a critical error is a missing subflow.
 
-    ![Validation failure](../image/ValidationFailure.png "Validation failure")
+    ![Validation failure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ValidationFailure.png "Validation failure")
 
 
 ## Workflow validation report
 
 Validators display three notification levels: CRITICAL, WARN, and INFO. The designer can publish a workflow that returns WARN or INFO level validation, but not a workflow that returns an overall validation level of CRITICAL.
 
-![Workflow validation report](../image/WorkflowValidationReport.png "Workflow validation report")
+![Workflow validation report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowValidationReport.png "Workflow validation report")
 
 -   **Header summary**
 
@@ -69,10 +69,10 @@ Validators display three notification levels: CRITICAL, WARN, and INFO. The desi
     The validation message provides a detailed description of the results, including table names, update sets, and other specifics.
 
 
-For the procedure to validate a workflow and generate a validation report, see [Validate a workflow](../../workflow-administration/task/work-on-workflows.md#)
+For the procedure to validate a workflow and generate a validation report, see [Validate a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow-administration/task/work-on-workflows.md#)
 
--   **[Workflow validator](../reference/r_WorkflowValidator.md)**  
+-   **[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../reference/r_WorkflowValidator.md)**  
 ServiceNow offers several workflow validators for workflow designers to test their workflows.
 
-**Parent Topic:**[Workflow management](../../workflow-administration/concept/managing-workflows.md)
+**Parent Topic:**[Workflow management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow-administration/concept/managing-workflows.md)
 

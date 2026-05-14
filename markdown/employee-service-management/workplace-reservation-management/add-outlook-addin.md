@@ -110,6 +110,6 @@ Link to the instance where the add-in is installed.
 </td></tr></tbody>
 </table>3.  Save the manifest file with a different name.
 
-    The manifest file for the add-in is created. Employees can now make reservations in Workplace Reservation Management using the add-in file. For more information, see [Create a reservation in Microsoft Outlook add-in](outlook-create-rsv.md).
+    The manifest file for the add-in is created. Employees can now make reservations in Workplace Reservation Management using the add-in file. For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
 

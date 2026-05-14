@@ -35,5 +35,5 @@ Several contact flows and operation handlers are installed with activation of th
 |createITSMInteraction|Creates an interaction|
 |fetchITSMInteraction|Fetches the details of an interaction|
 
-**Parent Topic:**[ServiceNow Voice reference](ccc-reference.md)
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 

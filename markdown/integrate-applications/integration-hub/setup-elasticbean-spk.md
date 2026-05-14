@@ -69,11 +69,11 @@ To set up the AWS Elastic Beanstalk spoke, you must be able to configure securit
     |Field|Description|
     |-----|-----------|
     |Name|Name to identify the credential record. For example, `Elastic Beanstalk Cred`.|
-    |Access Key ID|Access key ID you created in AWS Management Console. For more information, see [Create an access key](setup-elasticbean-spk.md#).|
-    |Secret Access Key|Secret access key you created in AWS Management Console. For more information, see [Create an access key](setup-elasticbean-spk.md#).|
+    |Access Key ID|Access key ID you created in AWS Management Console. For more information, see [Create an access key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-elasticbean-spk.md#).|
+    |Secret Access Key|Secret access key you created in AWS Management Console. For more information, see [Create an access key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-elasticbean-spk.md#).|
     |Authentication Algorithm|Select **AmazonElasticBeanstalkAuthAlgo**.|
 
-    ![Create credential record for the spoke.](../image/elasticbeanstalk-cred.jpg)
+    ![Create credential record for the spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/elasticbeanstalk-cred.jpg)
 
 6.  Click **Submit**.
 

@@ -27,5 +27,5 @@ You can view the supplier contact details.
 |User ID|String|User ID to identify the supplier|
 |Title|String|The designated title of the supplier.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 

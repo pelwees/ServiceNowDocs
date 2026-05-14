@@ -30,10 +30,10 @@ The Suite Results record displays information about one test suite schedule.
 |Condition|If **Conditional** is checked, the script to execute for determining the conditions under which the system should run the test suites in this schedule.|
 |Scheduled Suite Runs \(related list\)|The test suites the system should run on this schedule.|
 
-**Parent Topic:**[Suite schedules](../concept/suite-schedules-module.md)
+**Parent Topic:**[Suite schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/suite-schedules-module.md)
 
 **Related topics**  
 
 
-[Schedule an automated test suite](../task/atf-sched-suite-steps.md)
+[Schedule an automated test suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-sched-suite-steps.md)
 

@@ -19,7 +19,7 @@ Deleting a question in a checklist deletes the text in the question of previousl
 
 You can delete questions from a checklist if the following conditions are met:
 
--   The checklist is not attached to a knowledge base. For more information, see [Remove an AQI checklist from a knowledge base](remove-an-aqi-checklist-from-a-knowledgebase.md).
+-   The checklist is not attached to a knowledge base. For more information, see [Remove an AQI checklist from a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/remove-an-aqi-checklist-from-a-knowledgebase.md).
 -   There are no AQI reviews using the checklist in progress.
 
 Role required: admin
@@ -37,5 +37,5 @@ Role required: admin
 5.  In the Confirmation window, click **Delete**.
 
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-article-quality-index.md)
 

@@ -19,5 +19,5 @@ This glide record is disabled by default. If the property is enabled, a record f
 
 A second property, **glide.live-feed.auto\_join\_document\_group**, enables automatic membership to a record feed whenever the associated document is visited and the user clicks **Show Live Feed**.
 
-**Parent Topic:**[Use feeds in Live Feed](c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 

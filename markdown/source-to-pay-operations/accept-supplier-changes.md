@@ -28,16 +28,16 @@ Role required: sn\_poem\_core.operational\_buyer
 
 4.  From the **Address exception** list, select **Update impacted order**.
 
-    ![Update an impacted purchase order to address the exception](../image/pom-update-impacted-order.png)
+    ![Update an impacted purchase order to address the exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-update-impacted-order.png)
 
 5.  Select **Accept supplier proposal as is**.
 
-    ![Accept supplier suggested changes to the order](../image/pom-update-order-options.png)
+    ![Accept supplier suggested changes to the order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../image/pom-update-order-options.png)
 
 
 ## Result
 
 The supplier proposed changes to the quantity or delivery date, or both are updated in the purchase order. This purchase order revision can then be routed for approval.
 
-**Parent Topic:**[Resolving purchase order exceptions](../concept/resolving-purchase-order-exceptions.md)
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../concept/resolving-purchase-order-exceptions.md)
 

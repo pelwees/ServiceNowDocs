@@ -23,5 +23,5 @@ Determine various downgrade configuration conditions for SaaS applications and v
 |Products|Products for which the downgrade configuration condition is defined.|
 |Active|Shows whether the downgrade configuration condition is active.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

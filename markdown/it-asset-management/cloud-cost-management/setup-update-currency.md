@@ -31,7 +31,7 @@ Setting up currency options enables Cloud Cost Management users to choose from t
 
 2.  Select a currency code from the **Currency Option 1** drop-down list
 
-    ![Multi-currency setup in the Cloud Cost Management Workspace](../image/multicurrency-setup.png "Multi-currency setup")
+    ![Multi-currency setup in the Cloud Cost Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/multicurrency-setup.png "Multi-currency setup")
 
 3.  Select the **Active** check box for **Currency Option 1** to activate the currency.
 
@@ -50,5 +50,5 @@ Setting up currency options enables Cloud Cost Management users to choose from t
 
 After the **Status** field changes to Ready, the selected currencies become available for selection in the **Currency preference** list on the Operations view.
 
-**Parent Topic:**[Using Cloud Cost Management](../concept/using-cloud-insights.md)
+**Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/using-cloud-insights.md)
 

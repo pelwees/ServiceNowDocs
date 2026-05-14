@@ -23,13 +23,13 @@ Role required: admin, or must be a responsible user.
 
 2.  Click the cogwheel to open the Configuration options.
 
-    ![KPI Signals panel showing the cogwheel button for opening configuration settings](../image/kpi-signals-open-settings.png)
+    ![KPI Signals panel showing the cogwheel button for opening configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-open-settings.png)
 
 3.  Open the Signal Detection tab.
 
     In this image, you see the Number of open incidents indicator with no breakdowns, and the same indicator with the Priority = 1-Critical breakdown and element. The KPI with the Priority = 1-Critical breakdown has been deactivated. Only KPIs that had been activated at some point appear in this list.
 
-    ![List of KPIs on the same Performance Analytics indicator](../image/kpi-signals-config-kpi-list.png)
+    ![List of KPIs on the same Performance Analytics indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-config-kpi-list.png)
 
 4.  Select the KPIs that you want to edit.
 
@@ -83,7 +83,7 @@ The statistical method for calculating the baseline. Options are:-   Linear tren
 
 ## Linear trend versus no trend
 
-In the following example, the initial linear trend kept resulting in signals despite the average remaining stable. Following the signal in early September, signal detection was changed to "no trend." Following this change, the average remained stable and no further signals were detected.![KPI Signals showing no signal for a KPI: neither a signal nor an anti-signal](../image/kpi-signals-no-signal.png)
+In the following example, the initial linear trend kept resulting in signals despite the average remaining stable. Following the signal in early September, signal detection was changed to "no trend." Following this change, the average remained stable and no further signals were detected.![KPI Signals showing no signal for a KPI: neither a signal nor an anti-signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-signals-no-signal.png)
 
-**Parent Topic:**[Configuring KPI Signals for an indicator](../concept/configuring-kpi-signals.md)
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/configuring-kpi-signals.md)
 

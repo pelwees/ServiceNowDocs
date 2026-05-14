@@ -39,7 +39,7 @@ To open the dashboard, navigate to **All** &gt; **Configuration Compliance** &gt
 
 **Important:**
 
-Starting with version 14.9 of Configuration Compliance, this dashboard can also be viewed in the Next Experience UI. To view the dashboard in the new UI, navigate to **Workspaces** &gt; **Vulnerability Manager Workspace** and click the **Dashboards** icon. Depending on your role, the default dashboard is displayed. To view other dashboards, click the drop-down next to the dashboard name. For more information, see the [Dashboards in the Vulnerability Manager Workspace](../../../product/vulnerability-response/task/vr-ws-dashboards.md) and [Dashboards in the IT Remediation Workspace](../../../product/vulnerability-response/task/itr-ws-dashboards.md).
+Starting with version 14.9 of Configuration Compliance, this dashboard can also be viewed in the Next Experience UI. To view the dashboard in the new UI, navigate to **Workspaces** &gt; **Vulnerability Manager Workspace** and click the **Dashboards** icon. Depending on your role, the default dashboard is displayed. To view other dashboards, click the drop-down next to the dashboard name. For more information, see the [Dashboards in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../product/vulnerability-response/task/vr-ws-dashboards.md) and [Dashboards in the IT Remediation Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../product/vulnerability-response/task/itr-ws-dashboards.md).
 
 **Note:** If you are on Tokyo, you can view the dashboards in the Next Experience UI but with some functional loss.
 
@@ -68,13 +68,13 @@ The **Remediation** tab displays the information about the progress of how remed
 
 The following example shows the **Remediation** tab.
 
-![Remediation tab](../image/cc-remediation-tab.png "Remediation tab")
+![Remediation tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/cc-remediation-tab.png "Remediation tab")
 
 The reports on the **Approvals** tab display the information about the exception requests and their approval status.
 
 The following example shows the **Approvals** tab.
 
-![Approvals tab](../image/cc-approvals-tab.png "Approvals tab")
+![Approvals tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/cc-approvals-tab.png "Approvals tab")
 
 ## Breakdowns
 
@@ -214,7 +214,7 @@ Compliance Trend
 
 </td><td>
 
-Line chart![Line chart that shows the compliance trend.](../../../reuse/reporting/image/line-multiple.svg)
+Line chart![Line chart that shows the compliance trend.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-multiple.svg)
 
 </td><td>
 
@@ -236,7 +236,7 @@ Remediation Task
 
 Single score
 
- ![Single score that shows the test result group.](../../performance-analytics/image/single-score.png)
+ ![Single score that shows the test result group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -254,7 +254,7 @@ Critical remediation tasks near due
 
 Single score
 
- ![Single score that shows the critical remediation tasks that are approaching the target.](../../performance-analytics/image/single-score.png)
+ ![Single score that shows the critical remediation tasks that are approaching the target.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../performance-analytics/image/single-score.png)
 
 </td><td>
 
@@ -272,7 +272,7 @@ Test results by risk rating
 
 Bar
 
- ![Bar that shows the test results by the risk rating.](../../../reuse/reporting/image/bar-stacked.svg)
+ ![Bar that shows the test results by the risk rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/bar-stacked.svg)
 
 </td><td>
 
@@ -290,7 +290,7 @@ Test results by age
 
 Bar
 
- ![Bar that shows the test results by age.](../../../reuse/reporting/image/trend.svg)
+ ![Bar that shows the test results by age.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -308,7 +308,7 @@ Closed test results by remediation target adherence
 
 Bar
 
- ![Bar that shows the closed test results by the remediation target adherence.](../../../reuse/reporting/image/bar-stacked.svg)
+ ![Bar that shows the closed test results by the remediation target adherence.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/bar-stacked.svg)
 
 </td><td>
 
@@ -326,7 +326,7 @@ Overdue critical test results by assignment group
 
 List and Score
 
- ![List and score that show the overdue critical test results by the assignment group.](../../../reuse/reporting/image/score-list-tile.svg)
+ ![List and score that show the overdue critical test results by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg)
 
 </td><td>
 
@@ -344,7 +344,7 @@ Overdue test results- services
 
 List, Score, and Trend
 
- ![List and score that show the overdue test results-services.](../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue test results-services.](../../../reuse/reporting/image/line-trend.svg)
+ ![List and score that show the overdue test results-services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue test results-services.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -362,7 +362,7 @@ Overdue test results- service owners
 
 List, Score, and Trend
 
- ![List and score that show the Overdue test results-service owners.](../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue test results-service owners.](../../../reuse/reporting/image/line-trend.svg)
+ ![List and score that show the Overdue test results-service owners.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue test results-service owners.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -395,7 +395,7 @@ Remediation task by risk rating
 
 </td><td>
 
-Bar![Bar chart that shows the remediation task by the risk rating.](../../../reuse/reporting/image/trend.svg)
+Bar![Bar chart that shows the remediation task by the risk rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -413,7 +413,7 @@ Remediation task by remediation target status
 
 Bar
 
- ![Bar chart that shows the remediation task by the remediation target status.](../../../reuse/reporting/image/trend.svg)
+ ![Bar chart that shows the remediation task by the remediation target status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -431,7 +431,7 @@ Remediation task by assignment group
 
 List, Score, and Trend
 
- ![List and score that show the remediation task by the assignment group.](../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the remediation task by the assignment group.](../../../reuse/reporting/image/line-trend.svg)
+ ![List and score that show the remediation task by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the remediation task by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -449,7 +449,7 @@ Overdue critical remediation task by assignment group
 
 List, Score, and Trend
 
- ![List and score that show the overdue critical remediation task by the assignment group.](../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue critical remediation task by the assignment group.](../../../reuse/reporting/image/line-trend.svg)
+ ![List and score that show the overdue critical remediation task by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the overdue critical remediation task by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -467,7 +467,7 @@ Expiring remediation task by age
 
 Bar
 
- ![Bar chart that shows the expiring remediation task by age.](../../../reuse/reporting/image/trend.svg)
+ ![Bar chart that shows the expiring remediation task by age.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -485,7 +485,7 @@ All pending exception requests grouped by reason
 
 Bar
 
- ![Bar chart that shows all pending exception requests that are grouped by reason](../../../reuse/reporting/image/trend.svg)
+ ![Bar chart that shows all pending exception requests that are grouped by reason](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -503,7 +503,7 @@ Critical exceptions on test results by assignment group
 
 List, Score, and Trend
 
- ![List and score that show the critical exceptions on the test results by the assignment group.](../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the critical exceptions on the test results by the assignment group.](../../../reuse/reporting/image/line-trend.svg)
+ ![List and score that show the critical exceptions on the test results by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/score-list-tile.svg) ![Trend of the critical exceptions on the test results by the assignment group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/line-trend.svg)
 
 </td><td>
 
@@ -536,7 +536,7 @@ Exception requests by age pending my approval
 
 </td><td>
 
-Bar![Bar chart that shows the exception requests by age pending my approval.](../../../reuse/reporting/image/trend.svg)
+Bar![Bar chart that shows the exception requests by age pending my approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -554,7 +554,7 @@ Approval requests by reason
 
 Bar
 
- ![Bar chart that shows the approval requests by reason.](../../../reuse/reporting/image/trend.svg)
+ ![Bar chart that shows the approval requests by reason.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -572,7 +572,7 @@ Remediation tasks having approval request by risk rating
 
 Bar
 
- ![Bar chart that shows the remediation tasks that have an approval request by risk rating.](../../../reuse/reporting/image/trend.svg)
+ ![Bar chart that shows the remediation tasks that have an approval request by risk rating.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/trend.svg)
 
 </td><td>
 
@@ -590,7 +590,7 @@ My approval requests by approved and rejected status
 
 Bar
 
- ![Bar chart that shows my approval requests by the approved and rejected status.](../../../reuse/reporting/image/bar-stacked.svg)
+ ![Bar chart that shows my approval requests by the approved and rejected status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/bar-stacked.svg)
 
 </td><td>
 
@@ -608,7 +608,7 @@ Expiring exception requests by me by age
 
 Bar
 
- ![Bar chart that shows the expiring exception requests by me by age.](../../../reuse/reporting/image/bar-stacked.svg)
+ ![Bar chart that shows the expiring exception requests by me by age.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/bar-stacked.svg)
 
 </td><td>
 
@@ -626,7 +626,7 @@ Status of exception requests requested by me
 
 Bar
 
- ![Bar chart that shows the status of the exception requests requested by me.](../../../reuse/reporting/image/bar-stacked.svg)
+ ![Bar chart that shows the status of the exception requests requested by me.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../../../reuse/reporting/image/bar-stacked.svg)
 
 </td><td>
 

@@ -17,7 +17,7 @@ The Agent Health dashboard provides visibility into the status and distribution 
 
 The following example shows the agents in your system that are currently up, which agents are configured to collect data, and which agents have stopped data collection due to having reached their CPU threshold \(Silent/Off\). It also displays the agents according to their version, OS, and connected MID Server.
 
-![Agent Health Dashboard](../image/agent-health-dashboard.png)
+![Agent Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/agent-health-dashboard.png)
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ A user must have the agent\_client\_collector\_admin role to see all the widgets
 To open the dashboard, use one of the following methods:
 
 -   Navigate to **All** &gt; **AIOps Dashboards** &gt; **AIOps Operational** &gt; **Agent Health**.
--   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](../../health-log-analytics-admin/image/aiops-operational-icon.png)\) and then select the **Agent Health** tab.
+-   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(![AIOps Dashboards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/aiops-operational-icon.png)\) and then select the **Agent Health** tab.
 -   After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
 
 
@@ -101,7 +101,7 @@ Line graph
 
 Agents that automatically stopped collecting data after crossing the CPU usage threshold. The CPU usage threshold is configurable in the `acc.yml` configuration file.
 
- For more information on the `acc.yml` configuration file, see [Configuration file options](../../agent-client-collector/reference/acc-yml-options.md).
+ For more information on the `acc.yml` configuration file, see [Configuration file options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../agent-client-collector/reference/acc-yml-options.md).
 
 </td></tr><tr><td>
 

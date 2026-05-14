@@ -17,7 +17,7 @@ Once an incident is created, you can use the incident record form to perform var
 
 On the incident form, you can perform actions to manage and resolve the incident:
 
--   If you want to mail the incident record, click the more options icon \(![More options icon](../../change-management/image/more-options.png)\) in the title bar and select **Email**.
+-   If you want to mail the incident record, click the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../change-management/image/more-options.png)\) in the title bar and select **Email**.
 
     The user who requested the incident and the user who is assigned to the incident are automatically populated in the list of recipients.
 
@@ -34,6 +34,6 @@ On the incident form, you can perform actions to manage and resolve the incident
     -   DEX requires a separate entitlement.
     -   This link is available to the agent only if the following conditions are met:
         -   The selected CI is of type Device, which is also known as Endpoint.
-        -   The DEX plugin is installed on the instance. For more information on DEX, see [Digital End-User Experience](../../digital-end-user-experience/concept/dex-landing.md).
+        -   The DEX plugin is installed on the instance. For more information on DEX, see [Digital End-User Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../digital-end-user-experience/concept/dex-landing.md).
         -   The DEX agent is installed on the selected CI.
 

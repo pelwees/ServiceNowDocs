@@ -19,13 +19,13 @@ Upload a Microsoft Word document that exists in your local machine to Google Dri
 
 Role required: sn\_compliance\_ws.corporate\_compliance\_analyst; mp\_document\_user
 
-**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to cloud. For more information, see [Pre-requisites to enable policy redlining feature](../../grc-policy-and-compliance/concept/pre-req-policy-redlining.md).
+**Note:** Verify that you have set up the pre-requisite steps appropriately to upload the Microsoft Word document to cloud. For more information, see [Pre-requisites to enable policy redlining feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-policy-and-compliance/concept/pre-req-policy-redlining.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
-2.  In the Compliance Workspace, select the ![List icon](../../grc-cam-workspace/image/ws-list-icon.png) icon.
+2.  In the Compliance Workspace, select the ![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../../grc-cam-workspace/image/ws-list-icon.png) icon.
 
 3.  Navigate to **Compliance library** &gt; **My policies**.
 
@@ -41,7 +41,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst; mp\_document\_
 
 8.  Select the **File type** field and click to choose a Google document or Microsoft Word document that you want to upload in the Google Drive.
 
-    ![Upload a document to Google Drive to be attached to a policy.](../image/upload-doc-google-pc.png)
+    ![Upload a document to Google Drive to be attached to a policy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/upload-doc-google-pc.png)
 
     -   Google Docs: Upload as a Google document in Google Drive.
     -   Word: Upload as a Microsoft Word document in Google Drive.

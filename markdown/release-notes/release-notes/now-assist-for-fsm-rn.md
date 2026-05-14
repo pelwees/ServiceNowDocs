@@ -102,7 +102,7 @@ The Now Assist for FSM application requires Field Service Management.
     Use AI agents to automate field service tasks such as parts management and work order creation.
 
 
-**Parent Topic:**[Field Service Management release notes](field-service-management-rn.md)
+**Parent Topic:**[Field Service Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/field-service-management-rn.md)
 
-**Parent Topic:**[Now Assist and agentic AI release notes](../now-assist/now-assist-rn-landing.md)
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../now-assist/now-assist-rn-landing.md)
 

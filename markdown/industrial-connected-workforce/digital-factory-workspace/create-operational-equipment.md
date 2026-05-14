@@ -29,11 +29,11 @@ Role required: sn\_icw.admin
 
     The following image shows an example of the Equipment tab on the operational equipment page.
 
-    ![Overview of equipment for the selected functional location with the highlighted Equipment tab](../image/equipment-tab.png)
+    ![Overview of equipment for the selected functional location with the highlighted Equipment tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/equipment-tab.png)
 
 4.  On the Operational equipment form, fill in the fields.
 
-    For a description of the field values, see [Operational equipment form](../reference/operational-equipment-form.md).
+    For a description of the field values, see [Operational equipment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/operational-equipment-form.md).
 
 5.  Select **Save**.
 
@@ -42,5 +42,5 @@ Role required: sn\_icw.admin
 
 The new operational equipment is displayed in the list of equipment for the functional location or equipment model entity.
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/setting-up-prerequisites-digital-factory-workspace.md)
 

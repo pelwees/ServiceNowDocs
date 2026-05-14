@@ -15,9 +15,9 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowSDK class is a singleton that provides the public API for the NowSDK. This class is the gateway to all Android SDK feature services.
 
-Before initializing a feature service, you must initialize the SDK itself by calling [NowSDK.configure\(\)](NowSDKAndroidAPI.md#). For additional information on getting started with the Android NowSDK, refer to the ServiceNow Mobile SDK Developers Guide - Android.
+Before initializing a feature service, you must initialize the SDK itself by calling [NowSDK.configure\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowSDKAndroidAPI.md#). For additional information on getting started with the Android NowSDK, refer to the ServiceNow Mobile SDK Developers Guide - Android.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 
 ## NowSDK - configure\(application: Application, configuration: NowSDKConfiguration\)
 

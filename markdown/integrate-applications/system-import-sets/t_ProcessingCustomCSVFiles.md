@@ -35,6 +35,6 @@ This is an advanced step to create a CSV import. Normally, you would upload the 
 
 5.  Test load the data source.
 
-    ![Data source](../image/csv-alternate-delimiter.png)
+    ![Data source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/csv-alternate-delimiter.png)
 
 

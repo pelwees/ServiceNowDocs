@@ -28,5 +28,5 @@ Turning off Use scheduled state moves all tasks from Scheduled to Assigned. A pr
 **Related topics**  
 
 
-[Configure the Scheduled state](../task/configure-scheduled-state.md)
+[Configure the Scheduled state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/configure-scheduled-state.md)
 

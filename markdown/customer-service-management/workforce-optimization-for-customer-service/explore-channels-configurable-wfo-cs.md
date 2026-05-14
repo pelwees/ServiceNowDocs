@@ -19,7 +19,7 @@ Monitor the real-time health of your channels and queues by reviewing waiting cu
 
 The following channel management snapshots provide you with a quick overview of the real-time performance monitoring and drill-down capabilities.
 
-![GIF displaying various pages in Channel Management Drill Down Metrics and real-time performance monitoring capabilities.](../image/channel_queue_management.gif)
+![GIF displaying various pages in Channel Management Drill Down Metrics and real-time performance monitoring capabilities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/channel_queue_management.gif)
 
 As a channel management user, you can:
 
@@ -57,7 +57,7 @@ Each help request includes metadata such as agent name, interaction type, and du
 **Related topics**  
 
 
-[Setting up service channels and queues](setup-channels-queues-configurable-wfo-cs.md#)
+[Setting up service channels and queues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-channels-queues-configurable-wfo-cs.md#)
 
-[Using Channel Management in Workforce Optimization for Customer Service](use-channels-configurable-wfo-cs.md#)
+[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-channels-configurable-wfo-cs.md#)
 

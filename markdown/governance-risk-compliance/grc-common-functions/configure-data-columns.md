@@ -40,5 +40,5 @@ Role required: sn\_grc\_doc\_design.admin and sn\_audit.admin
 
 ## What to do next
 
-[Configure Intermediate filters](configure-intermediate-filters.md)
+[Configure Intermediate filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-intermediate-filters.md)
 

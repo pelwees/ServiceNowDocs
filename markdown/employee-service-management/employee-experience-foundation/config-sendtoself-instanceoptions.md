@@ -39,10 +39,10 @@ Role required: sn\_hr\_sp.esc\_admin
 5.  Click **Save**.
 
 
-**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](../concept/emp-center-topic-inst-options.md)
+**Parent Topic:**[Customize Employee Center Pro Kiosk widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/emp-center-topic-inst-options.md)
 
 **Related topics**  
 
 
-[Configure the mail and SMS send to self](deskless-kiosk-sendtoself-sms-email.md)
+[Configure the mail and SMS send to self](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-sendtoself-sms-email.md)
 

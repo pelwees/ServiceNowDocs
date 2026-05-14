@@ -32,5 +32,5 @@ Role required: none
     The list of feed members appears, organized by feed administrators and members.
 
 
-**Parent Topic:**[Use feeds in Live Feed](../concept/c_UseFeedsInLiveFeed.md)
+**Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_UseFeedsInLiveFeed.md)
 

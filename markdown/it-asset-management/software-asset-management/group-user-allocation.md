@@ -29,16 +29,16 @@ When a user group is inactivated or updated, the changes are automatically updat
 -   When a member is removed from a user group, the license allocation to the user is automatically deleted. The **Allocated Quantity** field value is automatically updated to reflect it.
 -   When a group allocation is deleted from the software model, allocations for all members of that group are removed. The unallocated license quantity is automatically updated.
 
-For more information about creating a group allocation record, see [Create group allocations](../task/create-group-allocations.md).
+For more information about creating a group allocation record, see [Create group allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/create-group-allocations.md).
 
-**Parent Topic:**[Exploring Software Asset Management](explore-sam-workspace.md)
+**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
 **Related topics**  
 
 
-[Create group allocations](../task/create-group-allocations.md)
+[Create group allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/create-group-allocations.md)
 
-[Group allocations fields](../reference/group-allocation-fields.md)
+[Group allocations fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/group-allocation-fields.md)
 
-[Software model fields](../reference/software-model-fields.md)
+[Software model fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md)
 

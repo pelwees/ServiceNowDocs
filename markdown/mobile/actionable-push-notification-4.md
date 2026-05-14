@@ -38,15 +38,15 @@ Role required: admin
 
     1.  Verify that your push action requires a parameter.
 
-        In the push action instance form, click the preview icon \(![Preview icon](../image/gac-info-icon.png)\) next to the **Push action** field. If the push action has a value of `Text Response` in the **Response type** field, you must create a push parameter.
+        In the push action instance form, click the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) next to the **Push action** field. If the push action has a value of `Text Response` in the **Response type** field, you must create a push parameter.
 
-        ![Push action with a response type of text response](../image/action-response-type.png)
+        ![Push action with a response type of text response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/action-response-type.png)
 
-    2.  Find the button parameter by clicking the preview icon \(![Preview icon](../image/gac-info-icon.png)\) next to the **Button** field.
+    2.  Find the button parameter by clicking the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) next to the **Button** field.
 
     3.  In the function pop up click **Open record** to open the function form.
 
-        ![Open record button on the function pop up](../image/open-function-record.png)
+        ![Open record button on the function pop up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/open-function-record.png)
 
     4.  In the function form, note the parameter that appears in the **UI Parameters** related list at the bottom on the form.
 
@@ -67,13 +67,13 @@ Role required: admin
 
 ## Example
 
-This example notification uses **accept-rejectwcomments-back** in the **Category** field. If you click the preview icon \(![Preview icon](../image/gac-info-icon.png)\), you can see that this category uses two actions: **Accept** and **Reject**.
+This example notification uses **accept-rejectwcomments-back** in the **Category** field. If you click the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\), you can see that this category uses two actions: **Accept** and **Reject**.
 
-![A push notification displaying a preview of the category record.](../image/action-push-example-1.png)
+![A push notification displaying a preview of the category record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/action-push-example-1.png)
 
 In the push action instance shown here, the `Approve` push action is selected in the **Push Action** field, and the `Approve REQ /w comments` function is selected in the **Button** field. The instance executes this function when a user taps the **Approve** button in their notification.
 
-![Push action instance associating an action with a function](../image/action-push-example-2.png)
+![Push action instance associating an action with a function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/action-push-example-2.png)
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/actionable-push-notification.md)
 

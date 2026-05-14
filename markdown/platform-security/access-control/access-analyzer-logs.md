@@ -19,7 +19,7 @@ Access Analyzer debug logs supply detailed information about the evaluation of a
 
 For a given operation, the debug logs show a granular view of how ACLs, business rules, and other security attributes are evaluated.
 
-![Fields in the Debug log](../images/access-analyzer-logs-details.png)
+![Fields in the Debug log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/access-analyzer-logs-details.png)
 
 Following are the fields and their description in the Debug logs:
 

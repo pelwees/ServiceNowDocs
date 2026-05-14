@@ -27,7 +27,7 @@ Role required: admin, nlu\_admin, or sn\_auto\_discovery.DiscoveryAuthor
 
 2.  Select **New Report**.
 
-    ![New report form in Automation Discovery.](../images/new_auto_disc_report_form.png)
+    ![New report form in Automation Discovery.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../images/new_auto_disc_report_form.png)
 
 3.  Fill in the form fields.
 

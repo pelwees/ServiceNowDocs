@@ -30,7 +30,7 @@ The following items are installed with Financial Services Treasury Operations:
 -   Roles
 -   Tables
 
-For more information, see [Components installed with Financial Services Treasury Operations](../reference/installed-with-fso-treasury-ops.md).
+For more information, see [Components installed with Financial Services Treasury Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/../reference/installed-with-fso-treasury-ops.md).
 
 ## Procedure
 

@@ -25,12 +25,12 @@ Role required: Microsoft Teams admin
 
 2.  Navigate to **Teams apps** &gt; **Manage apps** &gt; **Upload new app** &gt; **Upload**.
 
-3.  Search, select, and open \(in the Upload a custom app dialog-box\) the app package you downloaded in the section [Create and configure an app for Meeting Extensions in the Microsoft Teams Developer Portal](config-nc-use-meeting-ext-ms-teams-portal.md).
+3.  Search, select, and open \(in the Upload a custom app dialog-box\) the app package you downloaded in the section [Create and configure an app for Meeting Extensions in the Microsoft Teams Developer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-nc-use-meeting-ext-ms-teams-portal.md).
 
 4.  Go to **Manage Apps**, search for the uploaded app, open and copy the **App ID** value in a notepad from the app details page.
 
     This App ID is used for Meeting Extensions and so, this App ID must be updated in System Properties in ServiceNow® instance.
 
 
-**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](../concept/setup-meeting-extensibility-single-tenant.md)
+**Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-meeting-extensibility-single-tenant.md)
 

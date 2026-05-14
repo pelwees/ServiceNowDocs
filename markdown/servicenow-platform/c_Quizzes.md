@@ -105,15 +105,15 @@ Administrator \[admin\]
 Can access all aspects of the assessment and survey processes. Only administrators can modify survey notifications, create survey modules, and import surveys.
 
 </td></tr></tbody>
-</table>-   **[Using Quizzes](using-quizzes.md)**  
+</table>-   **[Using Quizzes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)**  
 You can use quizzes.
--   **[Quizzes reference](quizzes-reference.md)**  
+-   **[Quizzes reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/quizzes-reference.md)**  
 Reference topics provide additional information about the forms, fields, and properties you use while working with quizzes.
 
-**Parent Topic:**[Assessments and Surveys](assessments-surveys-landing-page.md)
+**Parent Topic:**[Assessments and Surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)
 
 **Related topics**  
 
 
-[Assessment metrics](c_AssessmentMetrics.md)
+[Assessment metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md)
 

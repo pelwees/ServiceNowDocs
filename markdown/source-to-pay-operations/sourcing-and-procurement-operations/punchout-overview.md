@@ -21,37 +21,37 @@ In level 1 PunchOut, only the search functionality of the PunchOut catalog is av
 
 On the other hand, with level 2 PunchOut catalog, the customer can use the search capability of procurement system to search and order products in the PunchOutcatalogue without requiring redirection to the punchout system.
 
--   **[Punchout configuration in SPO](punchout-configuration-spo.md)**  
+-   **[Punchout configuration in SPO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-configuration-spo.md)**  
 You must configure punchout for third-party suppliers.
--   **[How L1 punchout works](level-one-punchout.md)**  
+-   **[How L1 punchout works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/level-one-punchout.md)**  
 In the Level 1 \(L1\) punchout, SPO and the punchout supplier communicate using the cXML protocol.
--   **[Establishing connection between SPO and the supplier punchout system](spo-punchout-connection.md)**  
+-   **[Establishing connection between SPO and the supplier punchout system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-punchout-connection.md)**  
 SPO and the supplier punchout system use PunchOutRequest and PunchOutResponse payloads to establish the connection.
--   **[How L2 punchout works](level-two-punchout.md)**  
+-   **[How L2 punchout works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/level-two-punchout.md)**  
 Level 2 \(L2\) PunchOut enables buying organizations to search for and discover PunchOut items directly within their procurement application, eliminating the need to search each supplier’s site individually.
 
-**Parent Topic:**[Explore Sourcing and Procurement Operations](exploring-spo.md)
+**Parent Topic:**[Explore Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/exploring-spo.md)
 
 **Related topics**  
 
 
-[Shopping Hub](shopping-hub-overview.md)
+[Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-[My purchases on Shopping Hub](my-purchases.md)
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/my-purchases.md)
 
-[Shopping Hub Mobile](shoppinghub-mobile.md)
+[Shopping Hub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-mobile.md)
 
-[Performance Analytics for Sourcing and Procurement Operations](performance-analytics-for-spo.md)
+[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-[Sourcing and Purchasing Automation](../reference/purchase-experience-workflow.md)
+[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/purchase-experience-workflow.md)
 
-[Procurement Case Management](psd-overview.md)
+[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 
-[Source-to-Pay Workspace](procurement-specialist-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-specialist-workspace.md)
 
-[Spend and Savings Management](spo-spend-mgmt.md)
+[Spend and Savings Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 
-[Sourcing Pipeline Management](spo-sourcing-pipeline-mgmt.md)
+[Sourcing Pipeline Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-[AI Search for Sourcing and Procurement Operations](ai-search-sourcing-procurement-operations.md)
+[AI Search for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ai-search-sourcing-procurement-operations.md)
 

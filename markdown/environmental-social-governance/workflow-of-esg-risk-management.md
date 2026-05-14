@@ -26,5 +26,5 @@ The following steps are necessary to successfully perform your ESG risk assessme
 4.  For risk-based assessments, as an ESG data owner, from the Tasks pane in the Operational Sustainability Workspace, respond to an assessment, review, and submit the assessment for approval if the approvers are defined. If there are no approvers defined, the risk score is rolled up to the risks and entities.
 5.  For object-based assessments, as an ESG program manager, from the Tasks pane in the Operational Sustainability Workspace, respond to the assessment, review, and submit for the assessment for approval if the approvers are defined.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](esg-risk-management.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-risk-management.md)
 

@@ -37,11 +37,11 @@ Ensure that you have the administrator's access to the Ansible Tower instance.
 
 2.  On the left panel, under Administration, select Applications.
 
-    ![Applications link on Ansible Automation Platform.](../image/ansible-spoke-application-link.png)
+    ![Applications link on Ansible Automation Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ansible-spoke-application-link.png)
 
 3.  On the Applications page, select **Add**.
 
-    ![Add button for adding an application.](../image/ansible-spoke-add-application-button.png)
+    ![Add button for adding an application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ansible-spoke-add-application-button.png)
 
 4.  Fill the form.
 
@@ -62,7 +62,7 @@ Ensure that you have the administrator's access to the Ansible Tower instance.
 
     You've created the OAuth application.
 
-    ![OAuth application created.](../image/ansible-spoke-oauth-app-created.png)
+    ![OAuth application created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ansible-spoke-oauth-app-created.png)
 
 
 ## Set up the Ansible spoke connection record

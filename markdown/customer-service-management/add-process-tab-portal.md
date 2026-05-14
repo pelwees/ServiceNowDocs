@@ -27,7 +27,7 @@ Role required: admin
 
 4.  In the **Tab Configuration** form, fill in the fields as follows.
 
-    ![New tab configuration form](../image/tab-config.png "Tab Configuration form")
+    ![New tab configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/tab-config.png "Tab Configuration form")
 
 <table id="table_mpx_lrs_1fc"><thead><tr><th>
 

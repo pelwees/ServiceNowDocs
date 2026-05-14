@@ -74,7 +74,7 @@ Notify provider selector
 
 </td><td>
 
-Lookup icon \(![Lookup icon](../../proactive-triggers/image/look-up-icon.png)\) to select the selector from the Provider Selector \[notify\_group\_selector\] table.**Note:** The selector can be associated with notify number group or conference provider. Each notify number group can have one or more Notify numbers that can be used to make conference calls.
+Lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../../proactive-triggers/image/look-up-icon.png)\) to select the selector from the Provider Selector \[notify\_group\_selector\] table.**Note:** The selector can be associated with notify number group or conference provider. Each notify number group can have one or more Notify numbers that can be used to make conference calls.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -94,7 +94,7 @@ Email client template
 
 </td><td>
 
-Lookup icon \(![Lookup icon](../../proactive-triggers/image/look-up-icon.png)\) to select the email client template used to send emails to the targeted audience. **Note:** This email template must be defined in the Communication task table.
+Lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../../proactive-triggers/image/look-up-icon.png)\) to select the email client template used to send emails to the targeted audience. **Note:** This email template must be defined in the Communication task table.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Notify SMS template
 
 </td><td>
 
-Lookup icon ![Lookup icon](../../proactive-triggers/image/look-up-icon.png) to select the notify SMS template used to send an SMS to the targeted audience.**Note:** This SMS template must be defined in the Communication task table.
+Lookup icon ![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../../proactive-triggers/image/look-up-icon.png) to select the notify SMS template used to send an SMS to the targeted audience.**Note:** This SMS template must be defined in the Communication task table.
 
 </td></tr><tr><td>
 
@@ -130,7 +130,7 @@ Notify provider selector
 
 </td><td>
 
-Lookup icon \(![Lookup icon](../../proactive-triggers/image/look-up-icon.png)\) to select the selector from the Provider Selector \[notify\_group\_selector\] table.**Note:** The selector can be associated with notify number group or conference provider. Each notify number group can have one or more Notify numbers that can be used to send SMS.
+Lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/../../proactive-triggers/image/look-up-icon.png)\) to select the selector from the Provider Selector \[notify\_group\_selector\] table.**Note:** The selector can be associated with notify number group or conference provider. Each notify number group can have one or more Notify numbers that can be used to send SMS.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -190,12 +190,12 @@ Template applied when composing the notification message.
 
 After creating communication tasks and communication channels for those tasks, define contacts for the communication plan.
 
-**Parent Topic:**[Define a communication plan](create-comm-plan-definition.md)
+**Parent Topic:**[Define a communication plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-plan-definition.md)
 
 **Related topics**  
 
 
-[Define a communication task](create-comm-task-definition.md)
+[Define a communication task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-task-definition.md)
 
-[Define a communication contact](create-comm-contact-definition.md)
+[Define a communication contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/create-comm-contact-definition.md)
 

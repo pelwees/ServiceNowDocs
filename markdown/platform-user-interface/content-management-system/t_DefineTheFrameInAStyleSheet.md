@@ -40,5 +40,5 @@ Each frame has its own class name.
 4.  Click **Update**.
 
 
-**Parent Topic:**[Format a frame](t_Frame.md)
+**Parent Topic:**[Format a frame](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_Frame.md)
 

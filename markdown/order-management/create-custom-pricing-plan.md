@@ -44,5 +44,5 @@ Role required: sn\_csm\_pricing\_pricelist\_administrator, sn\_csm\_pricing\_pri
 
 ## What to do next
 
-[Add or change a pricing plan step](add-pricing-step.md).
+[Add or change a pricing plan step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/add-pricing-step.md).
 

@@ -135,12 +135,12 @@ Create the payload using the following order of importance:
 
 6.  When inserting many CIs, all of which depend on the same CI, you should serialize your API calls. Otherwise, attempting to concurrently process many CIs can clog the system, significantly degrading overall system performance.
 
-**Parent Topic:**[Identification rules](c_IdentificationRules.md)
+**Parent Topic:**[Identification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_IdentificationRules.md)
 
 **Related topics**  
 
 
-[Create a CI identification rule](../task/t_CreateCIIdentificationRule.md)
+[Create a CI identification rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/t_CreateCIIdentificationRule.md)
 
-[Create an identification inclusion rule](../task/create-id-inclusion-rule.md)
+[Create an identification inclusion rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../task/create-id-inclusion-rule.md)
 

@@ -38,5 +38,5 @@ For more information about the 3E Regulatory Intelligence API and subscription r
 4.  Select **Update**.
 
 
-**Parent Topic:**[3E Regulatory Intelligence](../concept/hs-3e-regulatory-intelligence.md)
+**Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-3e-regulatory-intelligence.md)
 

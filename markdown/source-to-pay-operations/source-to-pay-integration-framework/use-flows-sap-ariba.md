@@ -67,12 +67,12 @@ The Accounts Payable Operations Integration with SAP Ariba supports the followin
 |Update invoice statuses as Rejected in SAP Ariba REST|Updates invoice statuses as rejected in SAP Ariba|
 |Fetch invoices from SAP Ariba REST service|Fetches invoices from SAP Ariba REST service|
 
--   **[Manually trigger flows or subflows in SAP Ariba \(Inbound\)](../task/manually-trigger-subflows-sap-ariba.md)**  
+-   **[Manually trigger flows or subflows in SAP Ariba \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/manually-trigger-subflows-sap-ariba.md)**  
 You can manually trigger flows or subflows in SAP Ariba on demand.
--   **[Use a flow or subflow in SAP Ariba \(Outbound\)](../task/use-subflow-sap-ariba.md)**  
+-   **[Use a flow or subflow in SAP Ariba \(Outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/use-subflow-sap-ariba.md)**  
 Execute a flow or subflow in SAP Ariba using the Workflow Studio.
--   **[Copy a flow or subflow in SAP Ariba](../task/copy-subflow-sap-ariba.md)**  
+-   **[Copy a flow or subflow in SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/copy-subflow-sap-ariba.md)**  
 You can create a copy of the a flow or subflow, and modify based on your requirements.
 
-**Parent Topic:**[Use Source-to-Pay integration with SAP Ariba](using-source-to-pay-sap-ariba-integration.md)
+**Parent Topic:**[Use Source-to-Pay integration with SAP Ariba](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-source-to-pay-sap-ariba-integration.md)
 

@@ -23,13 +23,13 @@ Role required: none
 
 1.  Open a Connect Support conversation.
 
-2.  At the bottom of the conversation, click the menu icon \(![Menu icon](../image/IconMenu.png)\) to open the Connect actions menu.
+2.  At the bottom of the conversation, click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/IconMenu.png)\) to open the Connect actions menu.
 
 3.  In the Connect actions menu, select **Transfer**.
 
     A transfer dialog box opens.
 
-    ![The transfer dialog box lists agents and queues you can transfer the conversation to](../image/ConnectSupportTransferDialog.png)
+    ![The transfer dialog box lists agents and queues you can transfer the conversation to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSupportTransferDialog.png)
 
 4.  Do one of the following actions.
 
@@ -45,7 +45,7 @@ Be sure to choose an agent who is online. A green dot on their avatar indicates 
 
 You can cancel the transfer any time before it is accepted.
 
-![A Cancel button appears by the conversation until someone accepts the transfer](../image/ConnectSupportCancelTransfer.png)
+![A Cancel button appears by the conversation until someone accepts the transfer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../image/ConnectSupportCancelTransfer.png)
 
 2.  When the transfer is accepted, select one of the following options in the dialog box that appears.
     -   Stay: Remain in the conversation, which is also known as a warm transfer. This option is ideal if you want to provide the new agent with background information or introduce the user to the new agent.

@@ -127,7 +127,7 @@ Configure protection tools, if required.
     Create a discovery schedule to perform targeted discovery of GCP asset inventory.
 
     1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
-    2.  Click **New** and then fill in the form.![Serverless discovery](../../it-operations-management/image/itom-serverless-discovery.png)
+    2.  Click **New** and then fill in the form.![Serverless discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../it-operations-management/image/itom-serverless-discovery.png)
 
 <table id="table_ut3_sby_hhb"><thead><tr><th>
 
@@ -171,7 +171,7 @@ Option to select when should the next discovery run.
 
 </td></tr></tbody>
 </table>    3.  Right-click the header of the Discovery Schedule form and select **Save**.
-    4.  Click the **Serverless Execution Patterns** tab, click **New**, and then fill in the form. ![Serverless execution patterns](../../it-operations-management/image/itom-serverless-execution-patterns.png)
+    4.  Click the **Serverless Execution Patterns** tab, click **New**, and then fill in the form. ![Serverless execution patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../it-operations-management/image/itom-serverless-execution-patterns.png)
 
         |Field|Description|
         |-----|-----------|
@@ -212,7 +212,7 @@ Option to select when should the next discovery run.
 -   **Cloud inventory resource inclusion list**
     -   To collect inventory data for resources supported by GCP, in ServiceNow AI Platform, navigate to **Cloud Inventory Resource Inclusion List** and clear all GCP table records.
 
-        ![GCP Inclusion List](../image/GCP-inclusion-list.png "Cloud Inventory Resource Inclusion List")
+        ![GCP Inclusion List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/GCP-inclusion-list.png "Cloud Inventory Resource Inclusion List")
 
     -   Fine-tune GCP resource discovery using the Cloud Inventory Resource Inclusion List.
 
@@ -262,7 +262,7 @@ The Dependency Views map shows the discovered Configuration Items \(CIs\) in you
 
 Each GCP Inventory CI is related either to a Logical Datacenter \(LDC\) CI or to a Cloud Service Account CI. In this example, the Inventory CI is related to a Cloud Service Account CI.
 
-![CIs and connections on a Dependency Views map](../../discovery/image/gcp-inventory-dependency-views.png "Dependency Views map showing Cloud Service Account CI")
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/image/gcp-inventory-dependency-views.png "Dependency Views map showing Cloud Service Account CI")
 
 ## CI relationships
 
@@ -275,5 +275,5 @@ These relationships are created to support GCP asset inventory discovery:
 |For Regional Resources:|
 |Main CI \[cmdb\_ci\_cmp\_resource\]|HostedOn::Hosts|Logical Datacenter \(LDC\)|
 
-**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md)
+**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 

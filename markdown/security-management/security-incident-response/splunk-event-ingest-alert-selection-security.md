@@ -44,12 +44,12 @@ View the available correlation rules in your ServiceNow AI Platform instance so 
 
     **Note:** Correlation rules must be unique across active profiles. A correlation rule associated with an active profile cannot be selected for another active profile. To reuse the rule, deactivate the profile it is currently associated with.
 
-    ![Splunk ES Event Profile: Select Notable Event](../image/new-images/splunk_es_profile_select.png)
+    ![Splunk ES Event Profile: Select Notable Event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/new-images/splunk_es_profile_select.png)
 
 6.  Select **Continue**.
 
 
 ## What to do next
 
-[Map notable events](splunk-event-ingest-map-alerts-security.md)
+[Map notable events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-map-alerts-security.md)
 

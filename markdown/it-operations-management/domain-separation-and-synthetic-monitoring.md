@@ -39,7 +39,7 @@ Using domain separation in your instance is transparent to synthetic monitoring.
 
 When setting up Agent Client Collector \(ACC\) for non-hosted synthetic checks, each domain that supports non-hosted synthetics requires its own ACC cluster and MID Server. The ACC cluster and MID Server must be created in a leaf domain.
 
-**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
 **Related topics**  
 

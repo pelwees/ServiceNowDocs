@@ -65,7 +65,7 @@ Document
 
 </td><td>
 
-The document from which you want to import clauses and template field mapping. The selected document should be a Microsoft Word \(.docx\) document and should have valid content controllers. For more information, see [Add content controls in a Microsoft Word document](cncore-word-doc-tmplt-contls.md).
+The document from which you want to import clauses and template field mapping. The selected document should be a Microsoft Word \(.docx\) document and should have valid content controllers. For more information, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-word-doc-tmplt-contls.md).
 
 </td></tr><tr><td>
 
@@ -101,25 +101,25 @@ Option to make the template active and available for use.
     -   Any new added content controls will be listed under Imported clauses, Clause Mapping or Template Mappings.
 5.  Classify and map the newly added Imported clauses.
 
-    For more information, see [Classify and map imported clauses](cncore-import-clauses.md).
+    For more information, see [Classify and map imported clauses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-import-clauses.md).
 
 6.  Select **Update** to save the modifications.
 
 7.  On finalizing the content of the contract document, select **Publish**.
 
 
-**Parent Topic:**[Manage clauses, tables, and contract templates](../concept/cncore-manage-clauses-ctemplates.md)
+**Parent Topic:**[Manage clauses, tables, and contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-manage-clauses-ctemplates.md)
 
 **Related topics**  
 
 
-[Edit a contract clause variation](cncore-edit-cv.md)
+[Edit a contract clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-cv.md)
 
-[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](cncore-edit-ct-addin.md)
+[Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct-addin.md)
 
-[Create a contract template from an existing template](cncore-create-template-revision.md)
+[Create a contract template from an existing template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-template-revision.md)
 
-[Generate and preview a contract document from a template](cncore-preview-template.md)
+[Generate and preview a contract document from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-preview-template.md)
 
-[Delete a contract template](cncore-delete-template.md)
+[Delete a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-delete-template.md)
 

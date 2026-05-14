@@ -19,7 +19,7 @@ Link a cloud file on Microsoft using file path and file name with a GRC ​recor
 
 Role required: sn\_audit\_ws.auditor, sn\_audit\_ws.supervisor
 
-Ensure that the cloud file UI actions on the Cloud files related list are visible on the forms based on the configured conditions. Ensure that file access permissions of read and write are added for the auditor and engagement leads. For more information, see [Create Cloud File Access on engagements and audit tasks](../concept/document-access-configuration.md).
+Ensure that the cloud file UI actions on the Cloud files related list are visible on the forms based on the configured conditions. Ensure that file access permissions of read and write are added for the auditor and engagement leads. For more information, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/document-access-configuration.md).
 
 ## About this task
 
@@ -29,7 +29,7 @@ Beginning with the Washington DC release, cloud file integration is enabled on t
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the tasks icon \(![Tasks icon](../image/new-task-icon.png)\).
+2.  Select the tasks icon \(![Tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/new-task-icon.png)\).
 
     The list displays the engagements that are assigned to you.
 
@@ -53,6 +53,6 @@ Beginning with the Washington DC release, cloud file integration is enabled on t
 
     After the file is connected to Microsoft, the auditor or engagement lead gets read or write access based on the defined access permissions.
 
-    For more information on file access permissions, see [Create Cloud File Access on engagements and audit tasks](../concept/document-access-configuration.md).
+    For more information on file access permissions, see [Create Cloud File Access on engagements and audit tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/document-access-configuration.md).
 
 

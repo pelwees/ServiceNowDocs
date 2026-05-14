@@ -41,7 +41,7 @@ CPQ text fields support Markdown, a widely used, lightweight markup language for
 **Related topics**  
 
 
-[Markdown syntax](markdown-syntax-supported-in-servicenow-cpq.md)
+[Markdown syntax](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/markdown-syntax-supported-in-servicenow-cpq.md)
 
-[Markdown options for read-only text](layout_readonlytext_markdown_options.md)
+[Markdown options for read-only text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_readonlytext_markdown_options.md)
 

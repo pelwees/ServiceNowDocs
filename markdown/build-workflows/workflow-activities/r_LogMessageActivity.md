@@ -25,5 +25,5 @@ Input variables determine the initial behavior of the activity.
 |-----|-----------|
 |Message|The message to log. This variable can be a string or a JavaScript expression that evaluates to a string.|
 
-**Parent Topic:**[Utility workflow activities](../concept/c_UtilityActivities.md)
+**Parent Topic:**[Utility workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_UtilityActivities.md)
 

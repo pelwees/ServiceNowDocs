@@ -15,7 +15,7 @@ The bubble data visualization is used to do compare fields and see their relatio
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](../reference/platform-analytics-roles.md).
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/platform-analytics-roles.md).
 
 ## About this task
 
@@ -25,7 +25,7 @@ In this example, you create a bubble visualization that shows the number of open
 
 ## Procedure
 
-1.  Follow the first steps to [Create a bubble data visualization in the Visualization Designer](../../reporting/task/create-dv-bubble-ac.md):
+1.  Follow the first steps to [Create a bubble data visualization in the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/create-dv-bubble-ac.md):
 
     1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
@@ -49,7 +49,7 @@ In this example, you create a bubble visualization that shows the number of open
 
     A bubble visualization with the current values of the selected data appears in the Visualization Designer.
 
-    ![Animation showing selection of data source, application of filter and result](../../reporting/image/dv-ex-bubble-data-source.gif)
+    ![Animation showing selection of data source, application of filter and result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/dv-ex-bubble-data-source.gif)
 
 3.  Now that you can see the visualization, let's add some context for the user.
 
@@ -71,7 +71,7 @@ In this example, you create a bubble visualization that shows the number of open
 
     Select **Apply**
 
-    ![Bubble report with X axis set to Business resolve time and Y axis set to State](../../reporting/image/dv-ex-bubble-dimensions.png)
+    ![Bubble report with X axis set to Business resolve time and Y axis set to State](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/dv-ex-bubble-dimensions.png)
 
 6.  Under Data update, configure how the audience interacts with the visualization.
 
@@ -96,5 +96,5 @@ In this example, you create a bubble visualization that shows the number of open
 
 You have created a bubble visualization sorted on two values. You have also configured the visualization's colors.
 
-**Parent Topic:**[Create a bubble data visualization in the Visualization Designer](../../reporting/task/create-dv-bubble-ac.md)
+**Parent Topic:**[Create a bubble data visualization in the Visualization Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/create-dv-bubble-ac.md)
 

@@ -23,7 +23,7 @@ Role required: Admin
 
     In the product picker aggregates area, two endpoints are available in the admin APIs:
 
-    ![Adding a product picker aggregate using APIs](../images/cpq-product-picker-aggregates-get-and-post.png)
+    ![Adding a product picker aggregate using APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-aggregates-get-and-post.png)
 
     The GET endpoint gets the list of all the aggregates that are already available on a product picker. The parameter is the variable name of the product picker field that is passed in the URL in Postman.
 
@@ -31,7 +31,7 @@ Role required: Admin
 
     Examples of product picker endpoints:
 
-    ![Adding a product picker aggregate using APIs](../images/cpq-product-picker-aggregates-endpoints.png)
+    ![Adding a product picker aggregate using APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-aggregates-endpoints.png)
 
 2.  Set the following URL as the URL of the Postman API call.
 
@@ -58,12 +58,12 @@ Role required: Admin
 
 In the UI, refresh the page to see the added aggregate.
 
-![Adding a product picker aggregate using APIs](../images/cpq-product-picker-aggregates-new-1.png)
+![Adding a product picker aggregate using APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-aggregates-new-1.png)
 
 **Related topics**  
 
 
-[Product picker aggregates](../concept/product-picker-aggregates.md)
+[Product picker aggregates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/product-picker-aggregates.md)
 
-[Product pickers](../concept/product_picker_overview.md)
+[Product pickers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/product_picker_overview.md)
 

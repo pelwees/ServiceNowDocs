@@ -22,5 +22,5 @@ An intermittent issue is observed where Smart Card auto-login fails after a full
 
 ## Robotic Process Automation \(RPA\)
 
-For more information and how to set up RPA, see [RPA Hub](rpa-hub-landing-page.md).
+For more information and how to set up RPA, see [RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-hub-landing-page.md).
 

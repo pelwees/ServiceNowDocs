@@ -42,5 +42,5 @@ The administrator role in Microsoft Azure can be as follows:
 
 On successful authorization, the app is installed in the instance.
 
-**Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](../concept/configure-viva.md)
+**Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/configure-viva.md)
 

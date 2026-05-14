@@ -28,6 +28,6 @@ The ServiceNow® Unattended Robot Login Agent is a software agent that you insta
 
 To learn more about configuring and using Unattended Robot, see:
 
--   [Configuring Unattended Robot](../../rpa-runtime/concept/rpa-runtime-setup.md)
--   [Using Unattended Robot](../../rpa-runtime/concept/using-rpa-runtime.md)
+-   [Configuring Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-runtime/concept/rpa-runtime-setup.md)
+-   [Using Unattended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-runtime/concept/using-rpa-runtime.md)
 

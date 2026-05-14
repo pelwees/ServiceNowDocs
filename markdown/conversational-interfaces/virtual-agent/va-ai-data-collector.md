@@ -91,15 +91,15 @@ No-code condition statement or low-code script that specifies a condition for le
 </td></tr></tbody>
 </table>## Example Input Collector capability
 
-![Basic properties include the node name. Advanced options include Additional instructions to LLM, Confirmation messages, and Hide this node.](../images/ai-data-collector-properties.png)
+![Basic properties include the node name. Advanced options include Additional instructions to LLM, Confirmation messages, and Hide this node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ai-data-collector-properties.png)
 
 ## Input Collector canvas view
 
-![Input collector canvas view, holding text and static choice input nodes. You can move nodes by selecting and dragging them inside, out of, or within the Input collector.](../images/input-collector-canvas-view.png)
+![Input collector canvas view, holding text and static choice input nodes. You can move nodes by selecting and dragging them inside, out of, or within the Input collector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/input-collector-canvas-view.png)
 
 ## Input Collector table view
 
-![Input collector table view, showing text and static choice nodes, with up and down arrows to reorder nodes inside the collector.](../images/input-collector-table-view.png)
+![Input collector table view, showing text and static choice nodes, with up and down arrows to reorder nodes inside the collector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/input-collector-table-view.png)
 
 ## Channel support
 
@@ -119,5 +119,5 @@ No-code condition statement or low-code script that specifies a condition for le
 |Apple Messages for Business|Not supported|Not supported|Not applicable|
 |Alexa \(Voice\)|Not supported|Not supported|Not applicable|
 
-**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

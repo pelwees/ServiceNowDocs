@@ -15,7 +15,7 @@ breadcrumb: [Resolve conflicts for an individual record, Scheduling and monitori
 
 From the Upgrade Details form, you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
 
-![Image showing the Upgrade Details form](../image/uc-upgrade-details-form.png)
+![Image showing the Upgrade Details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-upgrade-details-form.png)
 
 <table id="table_znb_ggg_rlb"><thead><tr><th>
 
@@ -61,7 +61,7 @@ How you elected to resolve this conflict:-   **Not reviewed**: Not yet reviewed
 -   **Reviewed and Retained**: Left customizations in place without update from upgrade
 -   **Reviewed and Reverted**: Customizations discarded, record updated according to upgrade
 
-For more information, see [Process the skipped records list](../task/uc-process-skipped-records.md).
+For more information, see [Process the skipped records list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../task/uc-process-skipped-records.md).
 
 </td></tr><tr><td>
 

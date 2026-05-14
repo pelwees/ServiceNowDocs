@@ -76,5 +76,5 @@ The following list of components are executed in their latest versions in the RP
 |RemoteActivity|
 |VariableContainer|
 
-**Parent Topic:**[Automation components](../concept/rpa-studio-automation-components.md)
+**Parent Topic:**[Automation components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-automation-components.md)
 

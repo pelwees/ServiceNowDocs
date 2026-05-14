@@ -19,5 +19,5 @@ Use the ServiceNow® Automation Center application to govern your end-to-end mul
 -   Oversee and optimize automation performance versus business goals across multiple vendors.
 -   Monitor and manage the health of the automation and prevent automation failures across multiple vendors.
 
-**Parent Topic:**[Applying Common Service Data Model guidelines to Automation Center](applying-csdm.md)
+**Parent Topic:**[Applying Common Service Data Model guidelines to Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/applying-csdm.md)
 

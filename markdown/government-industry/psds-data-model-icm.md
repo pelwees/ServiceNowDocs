@@ -15,10 +15,10 @@ This section outlines the Investigative Case Management data model and the table
 
 The following logical diagram shows the tables and their relationships within the Investigative Case Management data model.
 
-![Investigative Case Management Data Model](../image/psds-datamodel-icm.png "Investigative Case Management Data Model")
+![Investigative Case Management Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-datamodel-icm.png "Investigative Case Management Data Model")
 
--   **[Tables installed with Investigative Case Management](psds-data-model-icm-tables.md)**  
+-   **[Tables installed with Investigative Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-icm-tables.md)**  
 This section describes the tables installed with the Investigative Case Management application and shows how they store and manage information.
 
-**Parent Topic:**[Public Sector Digital Services Data Model](../concept/public-sector-digital-services-data-model.md)
+**Parent Topic:**[Public Sector Digital Services Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/public-sector-digital-services-data-model.md)
 

@@ -17,7 +17,7 @@ Improve your speed and quality of hire by continually engaging with the applican
 
 Provide your applicants with a dedicated portal that has a seamless process and supports effective engagement with the stakeholders in the hiring process.
 
-![Applicant Center home page with active and inactive applications, Quick links, and targeted content in Content Experiences.](../images/applicant-cntr-Nov24.png "Applicant Center")
+![Applicant Center home page with active and inactive applications, Quick links, and targeted content in Content Experiences.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../images/applicant-cntr-Nov24.png "Applicant Center")
 
 The Applicant Center has the following key features:
 

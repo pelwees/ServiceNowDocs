@@ -16,19 +16,19 @@ The system sends assessment notifications according to the Notify assessment use
 1.  To open the graphical Workflow Editor, navigate to **Workflow** &gt; **Workflow Editor**.
 2.  In the activity menu, click the link to choose an existing workflow.
 
-    ![Workflow window](../image/WorkflowWindow.png "Workflow Window")
+    ![Workflow window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/WorkflowWindow.png "Workflow Window")
 
 3.  Select **Notify assessment user** from the Workflow Versions list.
 
     The workflow appears.
 
-    ![Notify assessment user workflow](../image/NotifyAssessmentUserWorkflow.png "Notify Assessment User Workflow")
+    ![Notify assessment user workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/NotifyAssessmentUserWorkflow.png "Notify Assessment User Workflow")
 
 
-**Parent Topic:**[Enable manager notifications](../task/t_EnablingManagerNotifications.md)
+**Parent Topic:**[Enable manager notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_EnablingManagerNotifications.md)
 
 **Related topics**  
 
 
-[Assessment notifications](../../assessments/reference/r_AssessmentNotifications.md)
+[Assessment notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/reference/r_AssessmentNotifications.md)
 

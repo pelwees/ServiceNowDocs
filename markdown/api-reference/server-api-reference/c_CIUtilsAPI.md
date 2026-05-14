@@ -21,7 +21,7 @@ The maximum number of items returns is 1000. You can override this value by modi
 
 The CIUtils class is available to server-side scripts.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## CIUtils - servicesAffectedByCI\(String CI\_sys\_id\)
 

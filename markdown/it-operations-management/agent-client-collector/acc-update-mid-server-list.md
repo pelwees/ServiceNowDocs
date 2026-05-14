@@ -33,7 +33,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Repeat Interval** field appears.
 
-        ![Repeat interval field](../image/ACC-Repeat-Interval.png "Repeat interval field")
+        ![Repeat interval field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Repeat-Interval.png "Repeat interval field")
 
     2.  Configure the frequency by which you want the job to run.
 
@@ -42,5 +42,5 @@ Role required: agent\_client\_collector\_admin
     3.  Click **Update** to update the job frequency.
 
 
-**Parent Topic:**[Configuring Agent Client Collector with a MID Server](../concept/acc-configuring-with-mid.md)
+**Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-configuring-with-mid.md)
 

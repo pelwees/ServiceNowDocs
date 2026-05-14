@@ -31,9 +31,9 @@ Role required: sn\_oper\_res.admin
 
     You can customize the map display such as assigning specific colors and icons to nodes that meet certain conditions by configuring the Node status configuration record.
 
-    ![Edge status configuration.](../image/edge-status-new-config.png)![Edge status configuration example.](../image/edge-status-config-example.png)
+    ![Edge status configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edge-status-new-config.png)![Edge status configuration example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edge-status-config-example.png)
 
-    For more information on the fields, see [Edge status configuration form](../reference/edge-status-configuration-form.md).
+    For more information on the fields, see [Edge status configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/edge-status-configuration-form.md).
 
     The Edge status configuration record is displayed in which the **Edge configuration** and **Relationship table** are auto-populated.
 

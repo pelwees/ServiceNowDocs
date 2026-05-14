@@ -177,7 +177,7 @@ Role required: admin
 
     **Note:**
 
-    For more information, see [Retail KPI JSON parameters](retail-kpi-json-parameters.md).
+    For more information, see [Retail KPI JSON parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/retail-kpi-json-parameters.md).
 
     Review sys\_report table records to validate configurations in use with the Retail KPI widget.
 

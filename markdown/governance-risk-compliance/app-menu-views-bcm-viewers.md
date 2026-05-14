@@ -15,7 +15,7 @@ The table lists the application menu options that are available for the main use
 
 ## BCM application menu options
 
-For detailed information on user roles, see [Roles installed](installed-with-bcm.md#section_wly_yyh_wdb) table.
+For detailed information on user roles, see [Roles installed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/installed-with-bcm.md#section_wly_yyh_wdb) table.
 
 <table id="table_tnn_nvs_kmb"><tbody><tr><td>
 
@@ -78,5 +78,5 @@ BCM viewer
 To view the workspace: **Business Continuity** &gt; **Business Continuity Workspace**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+</table>**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-sys-admin-tasks.md)
 

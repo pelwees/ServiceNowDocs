@@ -17,7 +17,7 @@ Configure a map screen to enable site maps on the Mobile Agent application.
 
 ## Before you begin
 
-Ensure there is a Custom Map Provider. For more information, see [Create a Custom Map Provider record](create-custom-map-prvdr-rcrd.md).
+Ensure there is a Custom Map Provider. For more information, see [Create a Custom Map Provider record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/create-custom-map-prvdr-rcrd.md).
 
 Role required: admin, or wm\_admin
 

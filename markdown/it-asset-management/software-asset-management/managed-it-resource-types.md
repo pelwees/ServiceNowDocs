@@ -112,5 +112,5 @@ IaaS storage
 cmdb\_ci\_storage\_volumeAny child classes of the above listed classes.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Subscriptions for Software Asset Management](sam-subscription.md)
+</table>**Parent Topic:**[Subscriptions for Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-subscription.md)
 

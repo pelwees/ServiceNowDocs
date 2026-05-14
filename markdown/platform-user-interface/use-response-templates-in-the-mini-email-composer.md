@@ -23,11 +23,11 @@ Role required: email\_composer
 
 2.  Open the mini email composer by selecting the **Email** tab under the Compose panel.
 
-3.  From the email footer, select the Apply templates icon \(![Apply templates icon](../image/x-apply-templates-icon.png)\).
+3.  From the email footer, select the Apply templates icon \(![Apply templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-apply-templates-icon.png)\).
 
     A modal opens with different types of templates.
 
-    ![Apply templates modal](../image/xs2-email-templates-tab.png)
+    ![Apply templates modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-email-templates-tab.png)
 
 4.  Select the **Response templates** tab.
 
@@ -39,6 +39,6 @@ Role required: email\_composer
 
 7.  Apply a response template with a keyboard shortcut.
 
-    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](add-response-templates-shortcut.md).
+    For instructions on applying a response template with a keyboard shortcut, see [Add response templates with a keyboard shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-response-templates-shortcut.md).
 
 

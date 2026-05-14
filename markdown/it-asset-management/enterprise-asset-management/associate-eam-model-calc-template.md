@@ -40,10 +40,10 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 The list of lifecycle phases with details such as Phase start date, Phase end date, and Source is displayed in the **Enterprise Model Lifecycles** tab.
 
-**Parent Topic:**[Manage the lifecycle of enterprise models with calculated lifecycle templates](../concept/manage-eam-lifecycle-temp.md)
+**Parent Topic:**[Manage the lifecycle of enterprise models with calculated lifecycle templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-eam-lifecycle-temp.md)
 
 **Related topics**  
 
 
-[Create Calculated model lifecycle templates in the Enterprise Asset Workspace](create-calculated-model-lc-template-eam.md)
+[Create Calculated model lifecycle templates in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-calculated-model-lc-template-eam.md)
 

@@ -136,7 +136,7 @@ Blocked by
 
 </td><td>
 
-A list of [blocking tasks](case-action-status-blocking-tasks.md) that have been created for this case.
+A list of [blocking tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-blocking-tasks.md) that have been created for this case.
 
 </td></tr><tr><td>
 

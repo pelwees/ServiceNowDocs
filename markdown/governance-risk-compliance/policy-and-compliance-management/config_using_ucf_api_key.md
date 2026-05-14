@@ -29,7 +29,7 @@ Prior to configuring the UCF integration, you need a UCF basic subscription and 
 
 2.  Click the UCF configuration.
 
-    ![UCF Configuration](../image/ucf-config.png)
+    ![UCF Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/ucf-config.png)
 
 3.  On the form, fill in the fields.
 
@@ -42,5 +42,5 @@ Prior to configuring the UCF integration, you need a UCF basic subscription and 
 4.  Click **Save Configuration**.
 
 
-**Parent Topic:**[Manage the UCF integration](../concept/manage_compliance_frameworks.md)
+**Parent Topic:**[Manage the UCF integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/manage_compliance_frameworks.md)
 

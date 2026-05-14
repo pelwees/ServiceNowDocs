@@ -41,9 +41,9 @@ This task is optional. The Workday external content connector can retrieve Manag
 
 ## What to do next
 
-Provide the task code you copied in step [3](get-workday-task-code-birthday.md#copy-task-code-step) to your connector admin. They need this task code to configure a Workday external content connector to retrieve Manager hub data from your Workday source system.
+Provide the task code you copied in step [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/get-workday-task-code-birthday.md#copy-task-code-step) to your connector admin. They need this task code to configure a Workday external content connector to retrieve Manager hub data from your Workday source system.
 
-For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](create-ext-cont-connector-workday.md).
+For details on creating and configuring a Workday external content connector, see [Create a Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-workday.md).
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

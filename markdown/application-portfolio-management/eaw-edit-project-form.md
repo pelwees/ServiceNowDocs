@@ -128,10 +128,10 @@ Business Capabilities
 One or more business capabilities to associate the project with.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Edit a project associated with a business application](../../task/eaw-task/eaw-edit-a-project-associated-with-a-business-application.md)
+[Edit a project associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-edit-a-project-associated-with-a-business-application.md)
 

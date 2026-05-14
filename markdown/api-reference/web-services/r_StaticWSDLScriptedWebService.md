@@ -23,5 +23,5 @@ var vProcessor  = new FakeStockValue (soapRequestXML ) ;
   response. soapResponseElement = vProcessor. generateSoapFault ( "unknown error" ) ; }
 ```
 
-**Parent Topic:**[Create a scripted web service using a static WSDL](../task/t_CreateStaticWSDLScriptWebService.md)
+**Parent Topic:**[Create a scripted web service using a static WSDL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_CreateStaticWSDLScriptWebService.md)
 

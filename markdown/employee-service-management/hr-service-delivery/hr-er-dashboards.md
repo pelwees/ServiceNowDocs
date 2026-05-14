@@ -37,7 +37,7 @@ Shows the number of ER cases by company department. Click the image and the Invo
 
 Provides a holistic view of all related tables for all the ER cases.
 
-![ER Dashboards](../image/hr-er-db.png)
+![ER Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-er-db.png)
 
-![ER Dashboards](../image/hr-er-db-view.png)
+![ER Dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/hr-er-db-view.png)
 

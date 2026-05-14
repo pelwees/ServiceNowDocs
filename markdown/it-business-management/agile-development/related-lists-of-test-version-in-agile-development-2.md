@@ -21,10 +21,10 @@ Use the related lists in the Test version form for the actions that you need to 
 |Test Results|Shows the run results of each test version.|
 |Test Sets|Shows related tests in a test set.|
 
-**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
 **Related topics**  
 
 
-[Track sprint progress in Agile Development 2.0](../../sdlc-scrum/task/sprint-tracking-list.md)
+[Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../sdlc-scrum/task/sprint-tracking-list.md)
 

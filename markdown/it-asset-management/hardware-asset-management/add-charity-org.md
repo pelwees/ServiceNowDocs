@@ -71,14 +71,14 @@ Domain of the charity organization record.The charity organization record is set
 
 The charity organization record that you added is added to the Charity Organizations list.
 
-**Parent Topic:**[Donate assets to charity organizations](../concept/donate-asset-to-charity-organizations.md)
+**Parent Topic:**[Donate assets to charity organizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/donate-asset-to-charity-organizations.md)
 
 **Related topics**  
 
 
-[Create an Asset Donation Order](create-asset-donation-order.md)
+[Create an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-donation-order.md)
 
-[Approve or reject an Asset Donation Order](approve-reject-asset-donation-order.md)
+[Approve or reject an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/approve-reject-asset-donation-order.md)
 
-[Process an Asset Donation Order](process-asset-donation-order.md)
+[Process an Asset Donation Order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-asset-donation-order.md)
 

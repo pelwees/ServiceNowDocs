@@ -43,5 +43,5 @@ Role required: admin
 4.  Select **Install**.
 
 
-**Parent Topic:**[Legal Virtual Agent Conversations](../concept/legal-va-conversations.md)
+**Parent Topic:**[Legal Virtual Agent Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/legal-va-conversations.md)
 

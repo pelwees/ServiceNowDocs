@@ -33,10 +33,10 @@ Personalizing the date format does not change global settings or impact the way 
 3.  Click **Update**.
 
 
-**Parent Topic:**[Global date and time field format](../reference/r_FormatDateAndTimeFields.md)
+**Parent Topic:**[Global date and time field format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_FormatDateAndTimeFields.md)
 
 **Related topics**  
 
 
-[Personalize the system time format](t_PersonalizeTheSystemTimeFormat.md)
+[Personalize the system time format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_PersonalizeTheSystemTimeFormat.md)
 

@@ -35,7 +35,7 @@ Role required: sn\_acct\_lc.customer\_success\_application\_admin
     -   Secret token: Secret token of the app in your Zoom account.
 5.  Log in to your Zoom marketplace, open the General app, select **Access** &gt; **Event Subscriptions**.
 
-    ![Event notification endpoint URL](../image/account-lifecycle-zoom-endpoint.jpg)
+    ![Event notification endpoint URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-zoom-endpoint.jpg)
 
 6.  Add the **Meeting summary has been completed** event and specify the **Event notification endpoint URL**.
 
@@ -108,7 +108,7 @@ Name
 Name of the webhook registry.
 
 </td></tr></tbody>
-</table>    ![Zoom webhook registry](../image/account-lifecycle-zoom-webhook.jpg)
+</table>    ![Zoom webhook registry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-zoom-webhook.jpg)
 
     For more details on configuring the webhook, see [Set up a bi-directional webhook for Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhook-zoom-spoke.md).
 
@@ -117,8 +117,8 @@ Name of the webhook registry.
 
 When these steps have been completed, you can generate the meeting summary for touchpoint meetings that have been created using Zoom.
 
--   **[Generate summary for Zoom meetings](account-lifecycle-zoom-meeting-summary.md)**  
+-   **[Generate summary for Zoom meetings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-zoom-meeting-summary.md)**  
 Generate the meeting summary for virtual meetings conducted using Zoom.
 
-**Parent Topic:**[Touchpoint home page](../concept/account-lifecycle-touchpoint-home.md)
+**Parent Topic:**[Touchpoint home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-touchpoint-home.md)
 

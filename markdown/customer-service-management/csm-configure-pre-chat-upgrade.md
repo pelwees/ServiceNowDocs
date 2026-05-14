@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-For information about using pre-chat surveys to capture preliminary information from a customer, see [Pre-chat surveys](../concept/csm-pre-chat-overview.md). If you have upgraded, you must manually adjust some settings to use Pre-chat most effectively.
+For information about using pre-chat surveys to capture preliminary information from a customer, see [Pre-chat surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-pre-chat-overview.md). If you have upgraded, you must manually adjust some settings to use Pre-chat most effectively.
 
 ## Procedure
 

@@ -33,7 +33,7 @@ State
 
 </th></tr></thead><tbody><tr><td>
 
-[Zing indexes words](../concept/zing-indexes-words.md)
+[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/zing-indexes-words.md)
 
 </td><td>
 
@@ -41,9 +41,9 @@ Index documents by dividing them into words. Depending on the languages your ins
 
 </td><td>
 
--   [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
--   [Regenerate a text index for a table](../task/t_RegenerateATextIndexForATable.md)
--   [Configure tables to use the Japanese tokenizer](../task/configure-tables-japanese-tokenizer.md)
+-   [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
+-   [Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RegenerateATextIndexForATable.md)
+-   [Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-tables-japanese-tokenizer.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Active
 
 </td></tr><tr><td>
 
-[Zing computes document scores using three components](../concept/c_DocumentScoring.md)
+[Zing computes document scores using three components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_DocumentScoring.md)
 
 </td><td>
 
@@ -59,8 +59,8 @@ Compute document scores based on the frequency, sequence, and weight of search t
 
 </td><td>
 
--   [Score search terms by inverse document frequency \(IDF\)](../task/enable-IDF-scoring.md)
--   [Set the relative weight of a field](../task/t_ControlMatchRelevanceByField.md)
+-   [Score search terms by inverse document frequency \(IDF\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/enable-IDF-scoring.md)
+-   [Set the relative weight of a field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ControlMatchRelevanceByField.md)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Active
 
 </td></tr><tr><td>
 
-[Global search finds records from multiple tables](../concept/c_GlobalTextSearch.md)
+[Global search finds records from multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_GlobalTextSearch.md)
 
 </td><td>
 
@@ -76,8 +76,8 @@ Search multiple record types from a single search field.
 
 </td><td>
 
--   [Add a search group for Core UI](../concept/search-settings-filter-group-table.md#)
--   [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
+-   [Add a search group for Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-settings-filter-group-table.md#)
+-   [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
 
 </td><td>
 
@@ -85,7 +85,7 @@ Active
 
 </td></tr><tr><td>
 
-[Search results page in Core UI and UI15](../concept/global-search-polaris-ui.md#)
+[Search results page in Core UI and UI15](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/global-search-polaris-ui.md#)
 
 </td><td>
 
@@ -93,8 +93,8 @@ Display global text search results for each table as Zing generates them.
 
 </td><td>
 
--   [Add a search group for Core UI](../concept/search-settings-filter-group-table.md#)
--   [Revert to the legacy global search UI](../task/revert-to-legacy-global-search.md#)
+-   [Add a search group for Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-settings-filter-group-table.md#)
+-   [Revert to the legacy global search UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/revert-to-legacy-global-search.md#)
 
 </td><td>
 
@@ -102,7 +102,7 @@ Active
 
 </td></tr><tr><td>
 
-[List search finds records from the current table](../concept/c_TextSearchesInRecordLists.md)
+[List search finds records from the current table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_TextSearchesInRecordLists.md)
 
 </td><td>
 
@@ -110,8 +110,8 @@ Search records from a table list view.
 
 </td><td>
 
--   [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
--   [Regenerate a text index for a table](../task/t_RegenerateATextIndexForATable.md)
+-   [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
+-   [Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RegenerateATextIndexForATable.md)
 
 </td><td>
 
@@ -119,7 +119,7 @@ Active
 
 </td></tr><tr><td>
 
-[Zing can include attachments in search results](../concept/c_SearchingForAttachments.md)
+[Zing can include attachments in search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_SearchingForAttachments.md)
 
 </td><td>
 
@@ -127,8 +127,8 @@ Search content from attachments on indexed tables. Display attachments for searc
 
 </td><td>
 
--   [Index attachments on a table](../../form-administration/task/t_DisablingAttachmentsOnATable.md)
--   [Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
+-   [Index attachments on a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../form-administration/task/t_DisablingAttachmentsOnATable.md)
+-   [Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
 
 </td><td>
 
@@ -136,7 +136,7 @@ Active
 
 </td></tr><tr><td>
 
-[Zing removes stop words from queries](../concept/stop-words-removed-from-queries.md)
+[Zing removes stop words from queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/stop-words-removed-from-queries.md)
 
 </td><td>
 
@@ -144,8 +144,8 @@ Remove common words from search queries that don't produce meaningful results.
 
 </td><td>
 
--   [Configure a global stop word](../task/t_ConfigureAGlobalStopWord.md)
--   [Configure a table-specific stop word](../task/t_ConfigureATableSpecificStopWord.md)
+-   [Configure a global stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ConfigureAGlobalStopWord.md)
+-   [Configure a table-specific stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_ConfigureATableSpecificStopWord.md)
 
 </td><td>
 
@@ -153,7 +153,7 @@ Active
 
 </td></tr><tr><td>
 
-[Zing matches derived words with stemming](../concept/stemming-matches-derived-words.md)
+[Zing matches derived words with stemming](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/stemming-matches-derived-words.md)
 
 </td><td>
 
@@ -161,8 +161,8 @@ Convert any multiple-character search keyword to its stem form to find derived v
 
 </td><td>
 
--   [System Localization properties](../../localization/reference/set-localization-props.md)
--   [Activate a language](../../localization/task/t_ActivateALanguage.md)
+-   [System Localization properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../localization/reference/set-localization-props.md)
+-   [Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../localization/task/t_ActivateALanguage.md)
 
 </td><td>
 
@@ -170,16 +170,16 @@ Active
 
 </td></tr><tr><td>
 
-[Zing can expand search results with synonyms](../concept/search-synonyms-expand-results.md)
+[Zing can expand search results with synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/search-synonyms-expand-results.md)
 
 </td><td>
 
-Expand search results to include additional search terms. ![icon](../../platform-common/image/icon-configuration-required.png) Requires configuration before use
+Expand search results to include additional search terms. ![icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../platform-common/image/icon-configuration-required.png) Requires configuration before use
 
 </td><td>
 
--   [Enable search synonyms](../task/enable-text-index-synonyms.md)
--   [Create synonym dictionaries](../task/create-synonym-dictionaries.md)
+-   [Enable search synonyms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/enable-text-index-synonyms.md)
+-   [Create synonym dictionaries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/create-synonym-dictionaries.md)
 
 </td><td>
 

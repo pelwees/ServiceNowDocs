@@ -28,18 +28,18 @@ The assign logic provides you with the flexibility and control for users when as
 ## Before you begin
 
 -   [Create an active employee definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/generate-profile-definition.md) for resources to view their allocation details on the Resource Management Workspace.
--   [Create a resource card](rmw-create-rsrc-card.md).
+-   [Create a resource card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-create-rsrc-card.md).
 -   Role required: resource\_user, resource\_manager
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**
 
-2.  Select the Resource cards icon \(![Resource cards icon.](../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
+2.  Select the Resource cards icon \(![Resource cards icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-resource-cards-L1-icon.png)\) from the menu and open a resource card.
 
     Alternatively, you can view unassigned tasks using the Unassigned assignment requests widget from the overview dashboard.
 
-3.  In the Unassigned tasks tray, select the Row context menu for any task \(![3 vertical dots denoting the row context menu.](../../spw-financials/images/row-context-menu-icon.png)\) and select **Assign Work**.
+3.  In the Unassigned tasks tray, select the Row context menu for any task \(![3 vertical dots denoting the row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../spw-financials/images/row-context-menu-icon.png)\) and select **Assign Work**.
 
 4.  You can assign work using one of the following ways.
 
@@ -78,13 +78,13 @@ The system automatically identifies all resources based on the selected primary 
 
 6.  Select **Assign** to assign work to the resources.
 
-    The assigned work is reflected in the top tray nested by resource view and will be in Pending state \(![Yellow rectangular pending state icon.](../images/rmw-pending-state.png)\).
+    The assigned work is reflected in the top tray nested by resource view and will be in Pending state \(![Yellow rectangular pending state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-pending-state.png)\).
 
-7.  Expand a resource row using the chevron icon \(![Right pointed chevron icon.](../images/icon-expand-arrow.png)\) to view assigned tasks.
+7.  Expand a resource row using the chevron icon \(![Right pointed chevron icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/icon-expand-arrow.png)\) to view assigned tasks.
 
 8.  Double-click in the Resource status column and select **Approve** to confirm the assigned work so the resource can start working.
 
-    While assigning the work, you can easily identify if a resource is available \(![Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.](../images/rmw-green-tick.png)\) or overutilized \(![Red exclamation mark within a red triangle indication the resource is overallocated.](../images/rmw-red-warning.png)\), even for the future periods, using the iconography.
+    While assigning the work, you can easily identify if a resource is available \(![Green tick mark within a green circle indicating the resource allocation is within the available bandwidth.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-green-tick.png)\) or overutilized \(![Red exclamation mark within a red triangle indication the resource is overallocated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-red-warning.png)\), even for the future periods, using the iconography.
 
 9.  You can change the status of any assigned assignments using one of the following options.
 
@@ -99,7 +99,7 @@ The system automatically identifies all resources based on the selected primary 
 
 ## Result
 
-The assigned work items are Approved \(![Green rectangular approved state icon.](../images/rmw-approved-state.png)\) or Unapproved \(![Pink rectangular approved state icon.](../images/rmw-unapproved-state.png)\) and the status of the work assignments is rolled up to the resource level.
+The assigned work items are Approved \(![Green rectangular approved state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-approved-state.png)\) or Unapproved \(![Pink rectangular approved state icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../images/rmw-unapproved-state.png)\) and the status of the work assignments is rolled up to the resource level.
 
 ## What to do next
 
@@ -112,5 +112,5 @@ If no tasks appear in the Unassigned tasks tray, verify the following:
 5.  Check the date range. Verify the resource card's date range overlaps with the resource request dates. Requests outside the visible time frame will not display.
 6.  Confirm the permissions. Confirm you have the resource\_manager role, which is required to view and manage unassigned work.
 
-**Parent Topic:**[Using Resource Management Workspace](../concept/using-rmw.md)
+**Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/using-rmw.md)
 

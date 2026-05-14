@@ -385,9 +385,9 @@ Represents testing tasks for the product.
 </td></tr></tbody>
 </table>**Note:**
 
-Dashboards in Agile Development require a separate plugin to be installed and configured. For information about Agile 2.0 dashboards and reports, including burndown charts and cumulative flow diagrams, see [Agile Development process flow](../concept/agile-development-process-flow.md) and [Performance Analytics Content Pack for Agile 2.0](../../../use/dashboards/application-content-packs/pa-content-pack-for-agile-2.0.md).
+Dashboards in Agile Development require a separate plugin to be installed and configured. For information about Agile 2.0 dashboards and reports, including burndown charts and cumulative flow diagrams, see [Agile Development process flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../concept/agile-development-process-flow.md) and [Performance Analytics Content Pack for Agile 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../../use/dashboards/application-content-packs/pa-content-pack-for-agile-2.0.md).
 
-**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
 ## Properties installed with Agile Development 2.0
 

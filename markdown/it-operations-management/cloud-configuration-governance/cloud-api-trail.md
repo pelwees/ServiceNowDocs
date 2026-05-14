@@ -17,7 +17,7 @@ The Cloud API Trail is an activity log for all activity that uses the Cloud API 
 
 ## Cloud API Trail contents
 
-![The Cloud API Trail form](../image/cloud-api-trail-form.png "CAPI trail form")
+![The Cloud API Trail form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/cloud-api-trail-form.png "CAPI trail form")
 
 <table id="table_ibs_2x5_gz"><thead><tr><th>
 
@@ -140,7 +140,7 @@ The corresponding error on the instance side is captured in the Cloud Orchestrat
 **Related topics**  
 
 
-[The Cloud Orchestration Trail](cloud-orch-trail.md)
+[The Cloud Orchestration Trail](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-orch-trail.md)
 
 ## Open the Cloud API Trail
 

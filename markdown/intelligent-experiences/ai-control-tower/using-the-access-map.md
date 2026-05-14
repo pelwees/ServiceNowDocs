@@ -27,11 +27,11 @@ Role required: AI Steward
 
 2.  Select an AI agent/agentic workflow using the **Access map**.
 
-    You can also use the **Search by agent or workflow** field, and the **AI agents** and **Agentic workflows** to refine your search. Additionally, agents with access issues will have a![Warning](../image/sp-tab-access-map-issue-icon2.png) icon.
+    You can also use the **Search by agent or workflow** field, and the **AI agents** and **Agentic workflows** to refine your search. Additionally, agents with access issues will have a![Warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-access-map-issue-icon2.png) icon.
 
 3.  In the node map, select a node to view the connections of your AI agent/agentic workflow.
 
-    Agents with access issues with be highlighted with a ![Red warning](../image/sp-tab-access-map-issue-icon.png) icon in the map.
+    Agents with access issues with be highlighted with a ![Red warning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-access-map-issue-icon.png) icon in the map.
 
 4.  Select a node to get further details and configure settings.
 
@@ -49,7 +49,7 @@ Details
 
 </th></tr></thead><tbody><tr><td>
 
-![Agentic workflow node](../image/sp-tab-access-map-icon1.png)
+![Agentic workflow node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-access-map-icon1.png)
 
 </td><td>
 
@@ -75,7 +75,7 @@ The creator of the workflow
 
 </td></tr><tr><td>
 
-![AI Agent node](../image/sp-tab-access-map-icon2.png)
+![AI Agent node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-access-map-icon2.png)
 
 </td><td>
 
@@ -119,7 +119,7 @@ The number of times of the agent encounter the issue
 
 </td></tr><tr><td>
 
-![Tool node](../image/sp-tab-access-map-icon3.png)
+![Tool node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/sp-tab-access-map-icon3.png)
 
 </td><td>
 

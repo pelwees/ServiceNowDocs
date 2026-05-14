@@ -27,10 +27,10 @@ If you change the LLM model, the LEAP skills should be reapplied to the selected
 
 1.  Access Now Assist Admin in your workspace.
 
-2.  Select **Settings** &gt; **Manage model providers**.![Manage model provider](../images/manage-model-provider.png)
+2.  Select **Settings** &gt; **Manage model providers**.![Manage model provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/manage-model-provider.png)
 
-3.  Select **Edit model provider**, and then select **Customize**.![Custom LLM selection](../images/customize-llm-model-provider.png)
+3.  Select **Edit model provider**, and then select **Customize**.![Custom LLM selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/customize-llm-model-provider.png)
 
-4.  In the Edit provider section for skill groups, select the required LLM provider and **LEAP** as the Skill group name.![Select LLM model](../images/select-llm-provider.png)
+4.  In the Edit provider section for skill groups, select the required LLM provider and **LEAP** as the Skill group name.![Select LLM model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/select-llm-provider.png)
 
 

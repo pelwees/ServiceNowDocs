@@ -25,13 +25,13 @@ The **Regulatory** tab provides a visual summary of a chemical substance’s reg
 
 The regulatory tab shows the conformance status through the regulatory list timeline, compliance, incoming, and overdue cards, and the regulations by regulatory list section.
 
-![regulatory tab in chemical substance record](../image/hs-regulatory-tab-chem-substance.png "Regulatory tab overview")
+![regulatory tab in chemical substance record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../image/hs-regulatory-tab-chem-substance.png "Regulatory tab overview")
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select **Environmental Management** \(![environmental management](../../hs-environmental-management/image/icon-hs-envt-mgmt.png)\) icon.
+2.  Select **Environmental Management** \(![environmental management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-environmental-management/image/icon-hs-envt-mgmt.png)\) icon.
 
 3.  In the **Chemical substance** list, select **All** and then open a record.
 
@@ -41,7 +41,7 @@ The regulatory tab shows the conformance status through the regulatory list time
 
 5.  To retrieve the latest regulatory data from the 3E server, select **Sync Regulatory list**.
 
-    For more information, see [Sync regulatory list regulations for a chemical substance](hs-sync-regulatory-list-chemical-substance.md).
+    For more information, see [Sync regulatory list regulations for a chemical substance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-sync-regulatory-list-chemical-substance.md).
 
 6.  Review the regulatory status and metrics using the following cards:
 
@@ -76,5 +76,5 @@ The regulatory tab shows the conformance status through the regulatory list time
     When the regulatory list is retrieved from 3E, the **Compliance** field is set to **Non-compliant** by default.
 
 
-**Parent Topic:**[Chemical management](../../hs-environmental-management/concept/hs-using-chemical-management.md)
+**Parent Topic:**[Chemical management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../hs-environmental-management/concept/hs-using-chemical-management.md)
 

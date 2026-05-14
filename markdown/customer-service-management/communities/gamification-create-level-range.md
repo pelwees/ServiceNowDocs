@@ -40,5 +40,5 @@ Gamification includes predefined global, forum, and topic levels. Each level def
     Level ranges are updated on the Community portal.
 
 
-**Parent Topic:**[Administer gamification](../concept/communities-gamification-administer.md)
+**Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/communities-gamification-administer.md)
 

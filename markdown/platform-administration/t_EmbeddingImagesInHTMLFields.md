@@ -27,7 +27,7 @@ Role required: the role necessary to update the record that contains the HTML fi
 
 2.  Click the position where the image is to appear, or to modify an existing image, click the image.
 
-3.  Click the insert/edit image icon \(![Insert or edit image icon](../image/TinyMCEV4Image.png)\) on the HTML editor toolbar.
+3.  Click the insert/edit image icon \(![Insert or edit image icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/TinyMCEV4Image.png)\) on the HTML editor toolbar.
 
 4.  In the Insert/Modify image form, enter information in each field.
 

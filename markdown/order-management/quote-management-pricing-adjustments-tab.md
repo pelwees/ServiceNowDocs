@@ -19,7 +19,7 @@ Role required: sales agent
 
 ## About this task
 
-To create a pricing adjustment, see [Add pricing adjustment to a quote line item](quote-management-add-pricing-adjustment.md).
+To create a pricing adjustment, see [Add pricing adjustment to a quote line item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-add-pricing-adjustment.md).
 
 ## Procedure
 
@@ -38,5 +38,5 @@ To create a pricing adjustment, see [Add pricing adjustment to a quote line item
     The pricing adjustment is updated and reflected on the overall quote pricing field.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

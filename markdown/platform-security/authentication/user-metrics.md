@@ -17,14 +17,14 @@ User Metrics displays the user MFA enrollment trends on ServiceNow.
 
 User Metrics on the MFA Dashboard are as follows:
 
--   [Users enrolled in Multi-factor Authentication \(MFA\)](user-metrics.md#section_oxp_4vx_w2c)
--   [Privileged admins without Multi-factor Authentication \(MFA\)](user-metrics.md#section_qgd_rvx_w2c)
+-   [Users enrolled in Multi-factor Authentication \(MFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/user-metrics.md#section_oxp_4vx_w2c)
+-   [Privileged admins without Multi-factor Authentication \(MFA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/user-metrics.md#section_qgd_rvx_w2c)
 
 ## Users enrolled in Multi-factor Authentication \(MFA\)
 
 The percentage of users who can perform username-password based login and enrolled in MFA. This metric provides an insight on the adoption of MFA by the users over a period of time.
 
-![Users enrolled in MFA](../images/mfa-dashboard-users-enrolled.png)
+![Users enrolled in MFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-dashboard-users-enrolled.png)
 
 **Note:** Ideally, the score should gradually increase and should be 100% over a period of time \(Refreshed once a day to collect records for a day before\).
 
@@ -32,7 +32,7 @@ The percentage of users who can perform username-password based login and enroll
 
 Privileged admins not using MFA is a significant risk to platform security. It’s recommended that you get these people using MFA.
 
-![Privileged admins without MFA](../images/mfa-dashboard-privileged-admins.png)
+![Privileged admins without MFA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/mfa-dashboard-privileged-admins.png)
 
 **Note:** Privileged admins are the users who have at least one role from the **sys\_icenter\_role\_config** table. \(Refreshed once a day to collect records for a day before\).
 

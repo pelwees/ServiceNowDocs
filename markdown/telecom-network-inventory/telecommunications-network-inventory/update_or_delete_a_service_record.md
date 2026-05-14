@@ -27,7 +27,7 @@ This task enables you to review, update, or delete a record of any business, app
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory number allocation**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory number allocation**.
 
 3.  Select one of the following items of the inventory number allocation:
 
@@ -39,7 +39,7 @@ This task enables you to review, update, or delete a record of any business, app
 
     To delete a record, do the following actions:
 
-    1.  Select the options icon \(![Options icon.](../image/options-icon.png)\) icon.
+    1.  Select the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) icon.
     2.  Select **Delete**.
 
         **Note:** The warning window shows the list of the topics that are affected due to this deletion.
@@ -63,5 +63,5 @@ This task enables you to review, update, or delete a record of any business, app
     The fields and the records list are updated.
 
 
-**Parent Topic:**[Manage your network functions](services.md)
+**Parent Topic:**[Manage your network functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/services.md)
 

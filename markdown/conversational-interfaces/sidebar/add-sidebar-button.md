@@ -65,7 +65,7 @@ You don’t need to add the **Discuss** button to these workspaces because it’
     -   Table - from the drop-down list, select **Task**.
     -   Action Config - select the workspace.
     -   Active - this checkbox should be selected.
-    ![UX Forms Actions Layout New record screen.](../image/add-discuss-new-action-layouts-filled.png)
+    ![UX Forms Actions Layout New record screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../image/add-discuss-new-action-layouts-filled.png)
 
 8.  Select **Submit**.
 
@@ -90,7 +90,7 @@ You don’t need to add the **Discuss** button to these workspaces because it’
 
 ## What to do next
 
-If you want to enable Sidebar for non-task tables and add the Discuss button to the layout, see [Adding the Discuss button for non-task tables](add-sidebar-button-advanced.md).
+If you want to enable Sidebar for non-task tables and add the Discuss button to the layout, see [Adding the Discuss button for non-task tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/add-sidebar-button-advanced.md).
 
-After you add the **Discuss** button, you must configure the activity stream. For more information, see [Activity stream in Sidebar](../concept/activity-stream-sidebar.md).
+After you add the **Discuss** button, you must configure the activity stream. For more information, see [Activity stream in Sidebar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/../concept/activity-stream-sidebar.md).
 

@@ -24,7 +24,7 @@ This seamless experience streamlines collaboration between Change and Release te
 -   Manage change requests associated with releases
 -   Import affected configuration items \(CIs\) from release phases
 
-For more information, see [Service Operations Workspace for ITSM](../../service-operations-workspace/concept/sow-landing-page.md).
+For more information, see [Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../../service-operations-workspace/concept/sow-landing-page.md).
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ You can access releases, execute them, and view release details directly from SO
     -   Release bundles: Shows release bundles, if any exist
     The following image shows the Releases list in SOW.
 
-    ![Releases list in Service Operations Workspace.](../image/dpr-sow-workspace-rls-list.png "Releases list in SOW")
+    ![Releases list in Service Operations Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-sow-workspace-rls-list.png "Releases list in SOW")
 
 -   **Release execution in SOW**
 
@@ -60,5 +60,5 @@ You can access releases, execute them, and view release details directly from SO
 
 You can also perform release execution from SOW if you have the appropriate DPR roles.
 
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 

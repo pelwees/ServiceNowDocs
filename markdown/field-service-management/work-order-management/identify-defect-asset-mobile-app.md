@@ -59,11 +59,11 @@ Do this
 
 Do the following:
 
-1.  Tap the more actions \(![More actions icon](../image/OverflowIcon.png)\) icon and select **Create Work Order**.
+1.  Tap the more actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon and select **Create Work Order**.
 2.  Tap **Short description**.
 3.  Enter a short description for the work order and click **Done**.
 4.  Click **Submit**.
- The work order gets qualified automatically if it requires qualification; if not, the work order state changes to **Ready to dispatch**. For more information, see [Qualify a work order](../../planning-and-policy/concept/c_QualifyWorkOrders.md).
+ The work order gets qualified automatically if it requires qualification; if not, the work order state changes to **Ready to dispatch**. For more information, see [Qualify a work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/concept/c_QualifyWorkOrders.md).
 
 </td></tr></tbody>
 </table>

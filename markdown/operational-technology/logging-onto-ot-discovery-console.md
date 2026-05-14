@@ -21,7 +21,7 @@ You are prompted to fill in your username, email, and password. The window indic
 
 Copy or note the password you entered or generated. And then select the check box **I acknowledge I saved this password**.
 
-![Initial log in window](../images/console-log-in-B.png)
+![Initial log in window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/console-log-in-B.png)
 
 You are now logged into the Discovery Console for OT.
 
@@ -29,5 +29,5 @@ You are now logged into the Discovery Console for OT.
 
 ## What to do next
 
-Before you install the Console, review [Requirements for Discovery Console for OT installation](../../operational-technology-discovery/concept/requirements-installation-deployment.md).
+Before you install the Console, review [Requirements for Discovery Console for OT installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery/concept/requirements-installation-deployment.md).
 

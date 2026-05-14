@@ -36,5 +36,5 @@ Modifying a request does not resubmit it to the approval process.
 4.  Click **OK**.
 
 
-**Parent Topic:**[Service catalog requests](../topic/p_ServiceCatalogRequests.md)
+**Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../topic/p_ServiceCatalogRequests.md)
 

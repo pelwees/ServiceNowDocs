@@ -131,5 +131,5 @@ Active
 Active is checked by default for new instances and applies to the portals in the system.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contractor Service Center reference](hs-contractor-service-center-reference.md)
+</table>**Parent Topic:**[Contractor Service Center reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 

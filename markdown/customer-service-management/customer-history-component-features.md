@@ -21,13 +21,13 @@ The Search icon introduces keyword-based search functionality enabling agents to
 -   Admins can configure a toggle option to have the search bar open by default when the page loads.
 -   Agents can enter a keyword or partial match to find relevant results. For example, entering `connect` displays cases with terms like connect, connected, or connection.
 
-![Customer History search bar](../image/cust-central-search-feature.png)
+![Customer History search bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cust-central-search-feature.png)
 
 ## Filter
 
 Agents can use the filter icon next to the search bar to quickly filter and view relevant case data. Selecting the filter icon displays the results in the Customer History component.
 
-![Customer History filter feature](../image/cust-central-history-filter-feature.png)
+![Customer History filter feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cust-central-history-filter-feature.png)
 
 Facets have been replaced by a filter icon. If the **Enable facets** check box is selected in UI builder, the system displays facets on the left of the CSM voice interaction record page. If this check box is not selected, the system displays a filter icon. Selecting the filter icon displays the selectable facets.
 
@@ -44,17 +44,17 @@ When an agent selects a facet:
 
 ## Customer History access 
 
-Starting with the Yokohama release, the [Front-line case page](csm-front-line-case-page.md) includes the Customer History component. This component ensures that agents can easily view customer details without navigating away from the case page.
+Starting with the Yokohama release, the [Front-line case page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md) includes the Customer History component. This component ensures that agents can easily view customer details without navigating away from the case page.
 
 Select the **Customer History** tab in the contextual side panel to access customer history.
 
-![Customer History component](../image/cust-central-cust-history-comp.png)
+![Customer History component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cust-central-cust-history-comp.png)
 
 ## Cases facet
 
 The Cases facet has been updated to improve case categorization for agents. This helps agents quickly filter the cases based on their status directly within the Customer History component.
 
-![Cases Facet screen showing cases, open cases, and resolved cases](../image/cust-central-facets-feature.png)
+![Cases Facet screen showing cases, open cases, and resolved cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/cust-central-facets-feature.png)
 
 The facet is divided into two subcategories: 
 

@@ -27,7 +27,7 @@ As search is the key to productivity, SharePoint Online Search Connector \(SPOC\
 
 Here’s an overview of how SharePoint Online Search Connector works:
 
-![SharePoint Online Search Connector flow](../image/spoc-sharepoint-overview.png "SPOC overview")
+![SharePoint Online Search Connector flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../image/spoc-sharepoint-overview.png "SPOC overview")
 
 Use the SharePoint Online Search Connector to:
 
@@ -47,7 +47,7 @@ Activate the following plugins and apps:
 
 Verify that the AI Search engine is enabled. External Content for the AI Search plugin \(com.glide.ais.external\_content\) must have a ServiceNow subscription.
 
-For more information, see [Setting up SharePoint Online Search Connector](setup-sp-ovrvw.md#).
+For more information, see [Setting up SharePoint Online Search Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md#).
 
 ## Things to remember
 
@@ -78,5 +78,5 @@ For more information, see [Setting up SharePoint Online Search Connector](setup-
 **Related topics**  
 
 
-[SharePoint Online Search Connector reference](../reference/sharepoint-reference.md)
+[SharePoint Online Search Connector reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/sharepoint-reference.md)
 

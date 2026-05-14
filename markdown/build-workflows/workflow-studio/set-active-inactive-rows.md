@@ -22,15 +22,15 @@ This feature helps you to mark Decision Tables row as either active or inactive.
     **Note:** .
 
     -   By default, the rows are set to active state.
-    -   You can activate or deactivate multiple rows. You can select the ![ellipses](../image/ellipses.png)**Inactive row** &gt; **Active row**.
-    ![Setting rows as inactive](../image/inactive-rows.png)
+    -   You can activate or deactivate multiple rows. You can select the ![ellipses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/ellipses.png)**Inactive row** &gt; **Active row**.
+    ![Setting rows as inactive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/inactive-rows.png)
 
 -   Mark Rows as active- If you mark a row as active, the system includes the rules and logic in the rows while executing the conditions given in the Decision Tables. It’s useful for verifying that conditions in the rows are met while executing the Decision Table.
 
     **Note:** Inactive rows can be identified with a Grey color band appearing in the beginning of the row as in the screenshot.
 
-    ![Setting rows as active](../image/active-rows.png)
+    ![Setting rows as active](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../image/active-rows.png)
 
 
-**Parent Topic:**[Using decision tables](using-decision-builder.md)
+**Parent Topic:**[Using decision tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/using-decision-builder.md)
 

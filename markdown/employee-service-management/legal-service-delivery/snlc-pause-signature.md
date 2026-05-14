@@ -17,7 +17,7 @@ Modify signatories while a signature workflow is in progress.
 
 ## Before you begin
 
--   Configure the system property **maximum\_signature\_pause\_duration** to define the time duration for which the signature workflow is be paused after you select to modify signatories option. The minimum value that can be set is 8 hours and the maximum is 24 hours. For more information, see [Configure signature pause duration when modifying signatories](../../contract-mgmt-pro/task/cncore-pause-sig-property.md).
+-   Configure the system property **maximum\_signature\_pause\_duration** to define the time duration for which the signature workflow is be paused after you select to modify signatories option. The minimum value that can be set is 8 hours and the maximum is 24 hours. For more information, see [Configure signature pause duration when modifying signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/task/cncore-pause-sig-property.md).
 -   Modify signatories option is only available for wet signature workflow and Electronic signature workflow with Docusign electronic signature provider integration.
 
 Role required: sn\_cm\_core.contract\_fulfiller
@@ -92,7 +92,7 @@ Signatory details page is displayed.
 
 Reorder pop-up is displayed.
 
-2.  For the signatory you want to reorder, select and hold the Reorder icon \(![Reorder icon](../../contract-mgmt-pro/image/cmpro-reorder-icon.png)\).
+2.  For the signatory you want to reorder, select and hold the Reorder icon \(![Reorder icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/cmpro-reorder-icon.png)\).
 3.  Drag the signatory to the required order.
 4.  Select **Reorder**.
 
@@ -115,10 +115,10 @@ The signature process is paused and signatories modified.
 
 ## What to do next
 
-Resume the signature process after you have modified the signatories. For more information, see [Resume signature process](snlc-resume-signature.md).
+Resume the signature process after you have modified the signatories. For more information, see [Resume signature process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-resume-signature.md).
 
--   **[Resume signature process](snlc-resume-signature.md)**  
+-   **[Resume signature process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-resume-signature.md)**  
 Resume the paused signature process with the modified signatories.
 
-**Parent Topic:**[Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md)
+**Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md)
 

@@ -19,12 +19,12 @@ This series of screenshots shows a mobile app on a mobile device with Spanish se
 
 The English portions aren't translated by the mobile device. The English text can be translated using your instances localization settings. As an admin you have control over how these elements are translated.
 
-![Mobile screens showing English as the instance language and Spanish as the native device language.](../image/localization-detail-1.png)
+![Mobile screens showing English as the instance language and Spanish as the native device language.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/localization-detail-1.png)
 
--   **[Create translation records for mobile](../task/mobile-translation.md)**  
+-   **[Create translation records for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/mobile-translation.md)**  
 Create records on the Translated Name / Field table to translate elements of your mobile app that aren't natively translated.
--   **[Translation values for mobile element](../reference/mobile-translation-reference.md)**  
+-   **[Translation values for mobile element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mobile-translation-reference.md)**  
 Use this reference to find which values to use to translate your mobile elements.
 
-**Parent Topic:**[Localization on mobile devices](localization-mobile-device.md)
+**Parent Topic:**[Localization on mobile devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/localization-mobile-device.md)
 

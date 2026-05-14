@@ -136,5 +136,5 @@ Reference number related to your complaint.
 </table>**Related topics**  
 
 
-[Create an Alternative Dispute Resolution case](../task/create-adr-case-record.md)
+[Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../task/create-adr-case-record.md)
 

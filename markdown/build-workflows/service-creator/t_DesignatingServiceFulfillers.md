@@ -39,6 +39,6 @@ The Service Fulfillers related list on the Service Category form displays all us
 
 5.  Click **Save**.
 
-    ![Service Creator Service Fulfillers](../image/ServiceCreatorServiceFulfillers.png)
+    ![Service Creator Service Fulfillers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/service-creator/../image/ServiceCreatorServiceFulfillers.png)
 
 

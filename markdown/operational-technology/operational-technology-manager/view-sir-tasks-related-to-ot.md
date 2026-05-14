@@ -24,5 +24,5 @@ Role required: admin
 1.  Navigate to **All** &gt; **** &gt; ****.
 
 
-**Parent Topic:**[Using the Operational Technology Manager](../../mftg-manufacturing-oper-tech-mgr/concept/using-operational-technology-manager.md)
+**Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../mftg-manufacturing-oper-tech-mgr/concept/using-operational-technology-manager.md)
 

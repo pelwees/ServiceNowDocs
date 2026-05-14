@@ -37,7 +37,7 @@ The system uses the details of the database connection you create in this proced
 
 2.  Complete the required fields to configure connection to the SCCM SQL database. Make sure to include a valid MID Server that has access to the SQL database server.
 
-    ![SCCM data import setup](../image/SCCMIntegrationSetup.png "SCCM data import setup")
+    ![SCCM data import setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/SCCMIntegrationSetup.png "SCCM data import setup")
 
 3.  Under Related Links, click **Test data source connections** to test the connection to the SCCM database.
 
@@ -56,5 +56,5 @@ The system uses the details of the database connection you create in this proced
     After the instance imports data using the **SCCM &lt;version&gt; Computer Identity** data source, the other data sources run in the order configured to retrieve the remainder of the SCCM data.
 
 
-**Parent Topic:**[Microsoft SCCM integration](../concept/c_MicrosoftSCCMIntegration.md)
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_MicrosoftSCCMIntegration.md)
 

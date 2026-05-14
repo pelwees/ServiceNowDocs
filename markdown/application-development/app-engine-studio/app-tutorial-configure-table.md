@@ -29,11 +29,11 @@ Phase 1
 
 </td><td align="justify">
 
-![Completed icon](../image/app-tutorial-progress-complete2.png)
+![Completed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-complete2.png)
 
 </td><td>
 
-[Create a data table](app-tutorial-create-table.md)
+[Create a data table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-table.md)
 
 </td></tr><tr><td>
 
@@ -41,11 +41,11 @@ Phase 2
 
 </td><td align="justify">
 
-![In progress icon](../image/app-tutorial-progress-wip.png)
+![In progress icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-wip.png)
 
 </td><td>
 
-[Configure a data table](app-tutorial-configure-table.md)
+[Configure a data table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-configure-table.md)
 
 </td></tr><tr><td>
 
@@ -53,14 +53,14 @@ Phase 3
 
 </td><td align="justify">
 
-![Close alert icon](../image/app-tutorial-progress-not-started.png)
+![Close alert icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-progress-not-started.png)
 
 </td><td>
 
-[Share data between tables](app-tutorial-share-data.md)
+[Share data between tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-share-data.md)
 
 </td></tr></tbody>
-</table>This procedure covers the second part of the task demonstrated in the tutorial video. The first part of the procedure is outlined in the previous topic [Create a data table](app-tutorial-create-table.md).
+</table>This procedure covers the second part of the task demonstrated in the tutorial video. The first part of the procedure is outlined in the previous topic [Create a data table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-create-table.md).
 
 Follow along to configure a table to store the necessary data for the employee travel request application.
 
@@ -81,11 +81,11 @@ Tutorial video that demonstrates how to create and configure a data table to cap
     -   To open a table that you have just created, select **Edit table**.
     When your table is open, it appears in the canvas space.
 
-    ![When your table is open in the canvas, you can see the table name and configuration sections.](../image/app-tutorial-table-open.png)
+    ![When your table is open in the canvas, you can see the table name and configuration sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-table-open.png)
 
 2.  Select **Forms** in the top ribbon to change your view to **Forms** view.
 
-    ![The table landing page contains different views in the top ribbon. The Forms view enables you to create your table as a form.](../image/app-tutorial-forms-view.png)
+    ![The table landing page contains different views in the top ribbon. The Forms view enables you to create your table as a form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-forms-view.png)
 
     **Forms** view enables you to create your table as a form. You can choose other views depending on the type of data that your table stores.
 
@@ -115,7 +115,7 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
     4.  To set additional properties for the field, select **Advanced settings**.
 
-        We don’t set additional properties for the fields in our tutorial. For more information about field types and advanced settings, see [Field configuration in Table Builder](../../../administer/form-builder/reference/field-parameters.md).
+        We don’t set additional properties for the fields in our tutorial. For more information about field types and advanced settings, see [Field configuration in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/reference/field-parameters.md).
 
     5.  Select **Add**.
 
@@ -139,7 +139,7 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
         **Tip:** To add multiple fields to your table at once, hover over the field, select the check mark in each field, then drag the fields into the **Default view** panel.
 
-        ![Select the fields that you want to add to the table by selecting the check mark next to each field. Then drag the selected fields into the Default view panel.](../image/app-tutorial-table-add-field.gif)
+        ![Select the fields that you want to add to the table by selecting the check mark next to each field. Then drag the selected fields into the Default view panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-table-add-field.gif)
 
 6.  Select **Save**.
 
@@ -147,7 +147,7 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
     1.  Search for the fields that you want to add by entering the names of the fields in the search bar.
 
-        ![The search bar in the Add form elements panel enables you to search for available fields that you can add to your form.](../image/app-tutorial-search-add-form-elements.png)
+        ![The search bar in the Add form elements panel enables you to search for available fields that you can add to your form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-search-add-form-elements.png)
 
         In our tutorial, we add the following fields to our table:
 
@@ -161,11 +161,11 @@ Tutorial video that demonstrates how to create and configure a data table to cap
 
         When selected, your table appears with a blue border.
 
-        ![When you select a table in the Default view panel, the table appears with a blue border around it.](../image/app-tutorial-table-selected.png)
+        ![When you select a table in the Default view panel, the table appears with a blue border around it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/app-tutorial-table-selected.png)
 
     2.  In the **Section** customization panel, select **One column**, then select **Two columns** to arrange the form fields evenly into a two-column layout.
 
-        **Tip:** For more information about the customization options available in the **Section** panel, see [Customize your form layout in Table Builder](../../../administer/form-builder/task/customize-form-layout.md).
+        **Tip:** For more information about the customization options available in the **Section** panel, see [Customize your form layout in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/task/customize-form-layout.md).
 
 9.  Arrange the table fields into the order that you want them to appear by moving the fields.
 
@@ -190,5 +190,5 @@ Your table is configured to capture the necessary data for employee travel reque
 
 ## What to do next
 
-To complete the data model for the employee travel request application, we must connect the travel request table to a separate table that stores airport data. Proceed to the next step: [Share data between tables](app-tutorial-share-data.md).
+To complete the data model for the employee travel request application, we must connect the travel request table to a separate table that stores airport data. Proceed to the next step: [Share data between tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/app-tutorial-share-data.md).
 

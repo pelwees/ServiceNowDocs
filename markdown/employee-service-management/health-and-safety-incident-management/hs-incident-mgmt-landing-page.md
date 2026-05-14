@@ -17,7 +17,7 @@ The ServiceNow® Health and Safety Incident Management application is a solution
 
 This solution automates processes that facilitate cross-departmental collaboration and enable everyone to monitor and track incident status, from initiation to resolution and reporting needs.
 
-![Features of Health and Safety Incident Management.](../image/explore-hs-health-safety.png "Health and Safety Incident Management overview")
+![Features of Health and Safety Incident Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/explore-hs-health-safety.png "Health and Safety Incident Management overview")
 
 The image shows an overview of Health and Safety Incident Management and its capabilities such as:
 
@@ -33,27 +33,27 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, safety managers, and agents use Health and Safety Incident Management.](explore-hs-incident-mgmt.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how employees, safety managers, and agents use Health and Safety Incident Management.](explore-hs-incident-mgmt.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Health and Safety Incident Management.](setting-up-hs-incident-mgmt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Health and Safety Incident Management.](setting-up-hs-incident-mgmt.md)
 
 </td><td>
 
-[Submit incidents ![](../../../reuse/icons/brand-icons/bus-task-list.svg) Submit and track safety incidents and observations.](submitting-safety-incidents-obvs.md)
+[Submit incidents ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-task-list.svg) Submit and track safety incidents and observations.](submitting-safety-incidents-obvs.md)
 
 </td></tr><tr><td>
 
-[Manage incidents![](../../../reuse/icons/brand-icons/bus-manage.svg) Manage safety incidents and observations to investigate and resolve them.](managing-hs-incidents-obs.md)
+[Manage incidents![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-manage.svg) Manage safety incidents and observations to investigate and resolve them.](managing-hs-incidents-obs.md)
 
 </td><td>
 
-[Reporting![](../../../reuse/icons/brand-icons/bus-log-store.svg) Fill and export reporting forms for injuries and illnesses in your organization.](injury-illness-reports.md)
+[Reporting![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-log-store.svg) Fill and export reporting forms for injuries and illnesses in your organization.](injury-illness-reports.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](hs-incident-mgmt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components such as roles, tables, plugins, and store applications that are installed.](hs-incident-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>

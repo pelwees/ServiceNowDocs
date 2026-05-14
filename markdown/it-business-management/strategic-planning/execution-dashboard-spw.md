@@ -19,7 +19,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Overview tab in the Execution Dashboard
 
-![Execution Dashbaord-Overview in Strategic Planning.](../Images/execution-dashboard-overview-spw.gif)
+![Execution Dashbaord-Overview in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-overview-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -36,7 +36,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Financial tab in the Execution Dashboard
 
-![Execution Dashbaord-Financial in Strategic Planning.](../Images/execution-dashboard-financial-spw.gif)
+![Execution Dashbaord-Financial in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-financial-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -56,7 +56,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Milestones &amp; Dependency tab in the Execution Dashboard
 
-![Execution Dashbaord-Milestones & Dependency in Strategic Planning.](../Images/execution-dashboard-milestones-dependency-spw.gif)
+![Execution Dashbaord-Milestones & Dependency in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-milestones-dependency-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -69,7 +69,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Capacity tab in the Execution Dashboard
 
-![Execution Dashbaord-Capacity in Strategic Planning.](../Images/execution-dashboard-capacity-spw.gif)
+![Execution Dashbaord-Capacity in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-capacity-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -80,11 +80,11 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## RIDAC tab in the Execution Dashboard
 
-![Execution Dashbaord-RIDAC in Strategic Planning.](../Images/execution-dashboard-ridac-spw.gif)
+![Execution Dashbaord-RIDAC in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-ridac-spw.gif)
 
 ## Data Quality tab in the Execution Dashboard
 
-![Execution Dashbaord-Data Quality in Strategic Planning.](../Images/execution-dashboard-data-quality-spw.gif)
+![Execution Dashbaord-Data Quality in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/execution-dashboard-data-quality-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -112,5 +112,5 @@ The Execution Dashboard provides various analytics across different tabs, includ
 |--------------------|-----------|
 |Planned cost by location|Estimated cost by location for executing the plan.|
 
-**Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](exploring-dashboards-spw.md)
+**Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/exploring-dashboards-spw.md)
 

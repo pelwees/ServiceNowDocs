@@ -62,5 +62,5 @@ You can use DevOps Config and CDM APIs to access your config data.
     Publish, unpublish, and export versions \(snapshots\) in CDM for shared components under shared libraries.
 
 
-**Parent Topic:**[DevOps Config reference](devops-config-reference.md)
+**Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 

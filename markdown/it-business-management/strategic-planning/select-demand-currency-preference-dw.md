@@ -65,5 +65,5 @@ Currency Option
 
 ## What to do next
 
-Enable the multicurrency view in the demand form and other demand-related forms. For more information, see [Enable demand currency view](enable-demand-currency-view-dw.md).
+Enable the multicurrency view in the demand form and other demand-related forms. For more information, see [Enable demand currency view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/enable-demand-currency-view-dw.md).
 

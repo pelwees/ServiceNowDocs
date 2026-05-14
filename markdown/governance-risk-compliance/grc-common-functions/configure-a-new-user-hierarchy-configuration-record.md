@@ -105,5 +105,5 @@ Event that is used to recalculate the user hierarchy in the source table records
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[User hierarchy](../concept/user-hierarchy.md)
+**Parent Topic:**[User hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/user-hierarchy.md)
 

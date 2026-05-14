@@ -23,11 +23,11 @@ Role required: sn\_dpr\_model.release\_admin
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the release calendar icon \(![Release calendar icon.](../image/dpr-icon-rls-target.png)\).
+2.  Select the release calendar icon \(![Release calendar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-rls-target.png)\).
 
     The release calendar appears.
 
-    ![Release calendar view showing release readiness targets, releases, and change requests.](../image/dpr-release-readiness-target2.png)
+    ![Release calendar view showing release readiness targets, releases, and change requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-release-readiness-target2.png)
 
 3.  Select a release calendar on which you want to view the releases.
 
@@ -51,7 +51,7 @@ Steps
 
 </td><td>
 
-1.  Select the calendar view icon \(![Switch to calendar view icon.](../image/dpr-icon-cal-view.png)\).
+1.  Select the calendar view icon \(![Switch to calendar view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-cal-view.png)\).
 2.  On the calendar, select the release target item on a date.
 
 
@@ -61,7 +61,7 @@ Steps
 
 </td><td>
 
-1.  Select the list view icon \(![Switch to list view icon.](../image/dpr-icon-list-view.png)\).
+1.  Select the list view icon \(![Switch to list view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-list-view.png)\).
 2.  Select a release target from the list.
 
 
@@ -86,5 +86,5 @@ The Agenda View pane appears with a list of all release targets scheduled for th
 7.  Select a release from the list to review its status and other details.
 
 
-**Parent Topic:**[Using Digital Product Release](../concept/dpr-using-digital-product-release.md)
+**Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../concept/dpr-using-digital-product-release.md)
 

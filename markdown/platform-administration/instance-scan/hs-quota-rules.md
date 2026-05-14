@@ -19,7 +19,7 @@ If the scan or the check takes longer than the set time period set by the quota 
 
 **Note:** By default the scans are limited to three hours and individual checks are limited to 10 minutes.
 
-![Error message: The scan exceeded the time allowed.](../image/hs-quota-rule-error.png)
+![Error message: The scan exceeded the time allowed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../image/hs-quota-rule-error.png)
 
-To learn how to configure these thresholds, see [Implement a scan timeout threshold](../task/hs-full-scan-quota-rule.md) and [Implement a check timeout threshold](../task/hs-health-check-quota-rule.md).
+To learn how to configure these thresholds, see [Implement a scan timeout threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../task/hs-full-scan-quota-rule.md) and [Implement a check timeout threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../task/hs-health-check-quota-rule.md).
 

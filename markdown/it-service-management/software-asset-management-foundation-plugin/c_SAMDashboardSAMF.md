@@ -26,7 +26,7 @@ Results are updated daily, or whenever a new reconciliation result is available,
 
 The source for overview data is the Product Result \[samp\_product\_result\] table.
 
-![Overview data on the Product Result table](../image/SAMOverviewSAMF.png)
+![Overview data on the Product Result table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/../image/SAMOverviewSAMF.png)
 
 |Report|Description|
 |------|-----------|
@@ -35,5 +35,5 @@ The source for overview data is the Product Result \[samp\_product\_result\] tab
 |Total True-up Cost|Cost to be compliant based on the average prices in entitlements for the rights.|
 |Top 10 Products by True-up Cost|Top 10 products graphed in order of true-up cost.|
 
-**Parent Topic:**[Using Software Asset Management Foundation plugin classic](using-samf-classic.md)
+**Parent Topic:**[Using Software Asset Management Foundation plugin classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/using-samf-classic.md)
 

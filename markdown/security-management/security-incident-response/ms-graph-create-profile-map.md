@@ -24,7 +24,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Alerts sect
 
     The field value is displayed in the Input Expression column. In the following image, `category` is mapped to the `Category` field on the security incident.
 
-    ![Microsoft Azure Security API: mapping fields](../image/ms-graph-create-profile-3.png)
+    ![Microsoft Azure Security API: mapping fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-3.png)
 
     However, you can match any value from the left side to a field on the right. Verify that the value is mapped correctly on the security incident during the preview step.
 
@@ -35,14 +35,14 @@ As a user with the sn\_si.admin role, use the fields from the Sample Alerts sect
     **Note:**
 
     1.  To manually enter a value in the Input Expression field, enter it in the format $\{fieldname\}$. The alert field will be mapped to the security incident field.
-    2.  You cannot map ingested alerts to the MITRE-ATT&amp;CK Framework fields in the security incident mapping section. If you still map the fields, the information will not be available as part of the MITRE-ATT&amp;CK card in the MITRE-ATT&amp;CK framework section in the security incident form. To associate the MITRE-ATT&amp;CK Techniques, use the [Auto Extraction Feature](../../../threat-intelligence/concept/auto-extract-technique-rules.md#) available as part of the MITRE-ATT&amp;CK Framework in the Threat Intelligence Module.
+    2.  You cannot map ingested alerts to the MITRE-ATT&amp;CK Framework fields in the security incident mapping section. If you still map the fields, the information will not be available as part of the MITRE-ATT&amp;CK card in the MITRE-ATT&amp;CK framework section in the security incident form. To associate the MITRE-ATT&amp;CK Techniques, use the [Auto Extraction Feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../threat-intelligence/concept/auto-extract-technique-rules.md#) available as part of the MITRE-ATT&amp;CK Framework in the Threat Intelligence Module.
 3.  To add fields to the default fields displayed on the security incident on the right side of the form, follow these steps.
     1.  On the right of the form in the SIR Incident Field Mapping section, at the bottom of the grid, select the plus \(+\) icon. A new field is displayed.
     2.  In the Security Incident column, expand the choice list that is displayed, and select a field.
 
         In the expanded choice list for the new field, some fields are shaded. In the following figure, Category has a gray background, because it has been mapped in the security incident. Similar to the color-coding for the alert fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the already mapped SIR incident fields.
 
-        ![Microsoft Graph Security API: mapping and color coding](../image/ms-graph-create-profile-4.png)
+        ![Microsoft Graph Security API: mapping and color coding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-4.png)
 
         **Note:** As multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
@@ -57,7 +57,7 @@ In certain cases, alert field values in Microsoft Graph Security API may not tra
 
 To use the script editor, click the \{\} icon. The script editor is displayed.
 
-![Microsoft Graph Security API Field Translation](../image/ms-graph-create-profile-3b.png)
+![Microsoft Graph Security API Field Translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-3b.png)
 
 ## Incident generation conditions
 

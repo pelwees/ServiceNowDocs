@@ -19,5 +19,5 @@ The X.509 certificates are the IdP certificates that a SAML configuration uses. 
 
 **Note:** Polling occurs if the IdP is accessible outside of your network.
 
-![X.509 certificates](../image/x-509-certificate-saml.png)
+![X.509 certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../image/x-509-certificate-saml.png)
 

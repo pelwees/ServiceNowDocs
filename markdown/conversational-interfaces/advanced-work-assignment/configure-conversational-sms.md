@@ -42,7 +42,7 @@ Role required: admin
 
 8.  On the Presence State - Available screen, select **SMS** in the Available column.
 
-    ![Presence State screen](../image/sms-presence-state-example.png)
+    ![Presence State screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/sms-presence-state-example.png)
 
 9.  Select the right-pointing arrow to move SMS from the Available column to the Selected column.
 

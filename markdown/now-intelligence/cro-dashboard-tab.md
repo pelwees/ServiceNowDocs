@@ -127,7 +127,7 @@ Governance of business continuity management
 Evaluates resilience, continuity plans, crisis response, and test execution.
 
 </td></tr></tbody>
-</table>![The dashboard visualizes enterprise risks, issues, internal audits, compliance status, and business continuity governance metrics.](../image/cro-db-tab.png)
+</table>![The dashboard visualizes enterprise risks, issues, internal audits, compliance status, and business continuity governance metrics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/cro-db-tab.png)
 
 ## CRO Dashboard overview
 

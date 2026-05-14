@@ -15,7 +15,7 @@ breadcrumb: [Mobile SDK - Android, Mobile SDK API reference, API reference, API 
 
 The NowChatService class provides functions that enable you to launch the NowChat activity and set error configurations.
 
-**Parent Topic:**[Mobile SDK - Android](../../concept/MobileSDKAndroidAPI.md)
+**Parent Topic:**[Mobile SDK - Android](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../concept/MobileSDKAndroidAPI.md)
 
 ## NowChatService - launchIntent\(context:Context, nowChatTheme:NowChatTheme\):Intent
 
@@ -51,7 +51,7 @@ nowChatTheme
 
 </td><td id="Chat-themeColors-entry1">
 
-[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
+[NowChatTheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
 
 </td><td>
 
@@ -111,7 +111,7 @@ nowChatTheme
 
 </td><td id="Chat-themeColors-entry1">
 
-[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
+[NowChatTheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)
 
 </td><td>
 
@@ -135,7 +135,7 @@ chatConfiguration
 
 </td><td>
 
-[NowChatConfiguration](../../NowChatOptions/concept/NowChatOptionsAndroid.md#)
+[NowChatConfiguration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowChatOptions/concept/NowChatOptionsAndroid.md#)
 
 </td><td>
 
@@ -226,7 +226,7 @@ NowChatUnreadMessagesCountListener
 
 </td><td>
 
-Listener that you implement to obtain the number of unread chat messages. You must also unsubscribe to this listener when you no longer want to obtain the unread message count using the [NowChatService - unsubscribeFromUnreadMessageCount\(listener: NowChatUnreadMessagesCountListener\)](NowChatServiceAndroidAPI.md#) method.
+Listener that you implement to obtain the number of unread chat messages. You must also unsubscribe to this listener when you no longer want to obtain the unread message count using the [NowChatService - unsubscribeFromUnreadMessageCount\(listener: NowChatUnreadMessagesCountListener\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/NowChatServiceAndroidAPI.md#) method.
 
 </td></tr></tbody>
 </table>|Type|Description|
@@ -287,7 +287,7 @@ Updates the NowChat UI theme with the specified UI theme. Use this function to u
 
 |Name|Type|Description|
 |----|----|-----------|
-|nowChatTheme|[NowChatTheme](../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)|Theme object to use in the NowChat UI.|
+|nowChatTheme|[NowChatTheme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/../../NowChatTheme/concept/NowChatThemeColorsAndroidInterface.md)|Theme object to use in the NowChat UI.|
 
 |Type|Description|
 |----|-----------|

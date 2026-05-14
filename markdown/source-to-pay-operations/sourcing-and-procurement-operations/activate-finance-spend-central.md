@@ -55,7 +55,7 @@ Install the following applications in the suggested sequence to get started with
     **Note:** This application is owned by the Field Service Management team.
 
 
-For more information on these applications and their dependencies, see [Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md).
+For more information on these applications and their dependencies, see [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/application-plugin-list.md).
 
 ## Procedure
 
@@ -84,38 +84,38 @@ For more information on these applications and their dependencies, see [Applicat
 
 Review the various components installed with these installations. For details, see:
 
--   [Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md)
--   [Components installed with ERP Integration Framework](../reference/installed-with-FSC-ERP.md)
--   [Components installed with Finance Common Architecture](../reference/installed-with-finance-common.md)
--   [Properties installed with Finance Common Architecture](../reference/properties-for-finance-common.md)
+-   [Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/installed-with-FSC.md)
+-   [Components installed with ERP Integration Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/installed-with-FSC-ERP.md)
+-   [Components installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/installed-with-finance-common.md)
+-   [Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/properties-for-finance-common.md)
 
--   **[Components installed with Sourcing and Procurement Operations](../reference/installed-with-FSC.md)**  
+-   **[Components installed with Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/installed-with-FSC.md)**  
 Several types of components are installed with the activation of Sourcing and Procurement Operations, including tables, user roles, and scheduled jobs.
--   **[Properties installed with Finance Common Architecture](../reference/properties-for-finance-common.md)**  
+-   **[Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/properties-for-finance-common.md)**  
 Use these properties to configure various settings in the Sourcing and Procurement Operations application.
--   **[Application plugin installation sequence in Sourcing and Procurement Operations](../reference/application-plugin-list.md)**  
+-   **[Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/application-plugin-list.md)**  
 The following table lists the Sourcing and Procurement Operations \(SPO\) plugins, their installation sequence, high-level descriptions, and dependencies.
 
-**Parent Topic:**[Configure Sourcing and Procurement Operations](../concept/configuring-spo.md)
+**Parent Topic:**[Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/configuring-spo.md)
 
 **Related topics**  
 
 
-[Setting up primary data for ShoppingHub](../reference/set-up-master-data-shopping-hub.md)
+[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/set-up-master-data-shopping-hub.md)
 
-[Configure punchout for third-party site purchases](configure-supplier-punchout.md)
+[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-supplier-punchout.md)
 
-[Configuring work prioritization](../concept/configuring-work-prioritization.md)
+[Configuring work prioritization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/configuring-work-prioritization.md)
 
-[Add a new button in Shopping Hub](add-new-button-shoppinghub.md)
+[Add a new button in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-new-button-shoppinghub.md)
 
-[Customize your top suppliers on Shopping Hub](customize-top-suppliers.md)
+[Customize your top suppliers on Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/customize-top-suppliers.md)
 
-[Configure conditions for merging purchase requisitions](config-pr-merge.md)
+[Configure conditions for merging purchase requisitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-pr-merge.md)
 
-[Service portal configuration for ShoppingHub](../concept/service-portal-configuration-for-shoppinghub.md)
+[Service portal configuration for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/service-portal-configuration-for-shoppinghub.md)
 
-[Install ShoppingHub Mobile](install-shoppinghub-mobile.md)
+[Install ShoppingHub Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/install-shoppinghub-mobile.md)
 
-[Advanced Work Assignment for Source-to-Pay Operations](../concept/awa-spo.md)
+[Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/awa-spo.md)
 

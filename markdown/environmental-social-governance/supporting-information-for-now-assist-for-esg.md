@@ -30,7 +30,7 @@ This store app has the following dependencies:
 -   Now Assist Platform
 -   Environmental, Social, Governance Management
 
-For more information, see [Configure Now Assist for Operational Sustainability \(formerly ESG\)](configure-now-assist-for-esg.md).
+For more information, see [Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md).
 
-**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](exploring-now-assist-for-esg.md)
+**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)
 

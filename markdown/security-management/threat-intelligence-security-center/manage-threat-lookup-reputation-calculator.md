@@ -45,7 +45,7 @@ To view the Threat Lookup Reputation Calculator, perform the following steps:
 
 3.  Click on the required Threat Lookup Reputation Calculator to view the details of the calculator.
 
-    ![View Threat Lookup Reputation Calculators](../image/enrich-view-threat-calculator.png)
+    ![View Threat Lookup Reputation Calculators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-view-threat-calculator.png)
 
 
 ## Create Threat Lookup Reputation Calculator
@@ -63,7 +63,7 @@ To create a Threat Lookup Reputation Calculator, perform the following steps:
 
 3.  To create a Threat Lookup Reputation Calculator, click **New**.
 
-    ![Create aThreat Lookup Reputation Calculator](../image/enrich-create-threat-calculator.png)
+    ![Create aThreat Lookup Reputation Calculator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/enrich-create-threat-calculator.png)
 
 4.  On the form, fill the fields.
 

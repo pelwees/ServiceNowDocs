@@ -27,7 +27,7 @@ There are two steps to perform this process. The first is to update the specific
 
 1.  Navigate to **All** &gt; **Product Catalog Management** &gt; **Product Specifications** and select the product specification you want to update.
 
-    ![Image shows the Product Specification window that let managers update specification version.](../image/som-prod-spec-version-update.png)
+    ![Image shows the Product Specification window that let managers update specification version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/som-prod-spec-version-update.png)
 
 2.  Select the **Create New Version** button to create a version of the specification.
 
@@ -41,12 +41,12 @@ There are two steps to perform this process. The first is to update the specific
 
 5.  Navigate to **All** &gt; **Inventory upgrade job** and select the job you’re working with to view the status of the job and address any errors.
 
-    ![Upgrade inventory job window that allows managers to view the progress of an inventory upgrade job.](../image/som-upgrade-inventory-job.png)
+    ![Upgrade inventory job window that allows managers to view the progress of an inventory upgrade job.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/som-upgrade-inventory-job.png)
 
 6.  Navigate to **All** &gt; **Inbound queue** &gt; **Inbound requests** and select the record id you’re working with to view the status.
 
     The number of inbound queue requests indicates the number of product inventories that matched the source specification. Once all the inbound queue records are processed, the request creates a change order for each of the inbound queue records processed successfully.
 
 
-**Parent Topic:**[Updating specification versions](../concept/som-specification-version-update.md)
+**Parent Topic:**[Updating specification versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/som-specification-version-update.md)
 

@@ -21,9 +21,9 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 Before you can follow this example, you should be familiar with creating blueprints and blueprint rules. See these resources:
 
--   [Cloud Provisioning Blueprints](../concept/blueprints.md)
--   [Build a Cloud Provisioning blueprint](create-blueprint-cmp.md)
--   [Configure a blueprint rule](configure-a-blueprint-rule.md#)
+-   [Cloud Provisioning Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/blueprints.md)
+-   [Build a Cloud Provisioning blueprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-blueprint-cmp.md)
+-   [Configure a blueprint rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/configure-a-blueprint-rule.md#)
 
 ## About this task
 
@@ -35,11 +35,11 @@ The goal of this example is to hide the Cost Center field on the catalog form wh
 
     For this example, a blueprint with a virtual server on an AWS datacenter is used.
 
-    ![Virtual server on AWS](../image/blueprint-virtual-server-aws.png)
+    ![Virtual server on AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-virtual-server-aws.png)
 
 2.  On the blueprint form, click the **Catalog** tab, and then click the tile that represents the **Provision** operation.
 
-    ![Catalog item](../image/request-operation-catalog-item.png)
+    ![Catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/request-operation-catalog-item.png)
 
 3.  Click the **General Info** variable set in the Variable Sets related list.
 
@@ -77,7 +77,7 @@ The goal of this example is to hide the Cost Center field on the catalog form wh
 
         Notice that on the **Type Specifications** tab, the system populates user groups from **UserGroupPool**. The system runs the scripted pool filter named **GroupsUserBelongsTo**.
 
-        ![User Group property](../image/blueprint-user-group-property.png)
+        ![User Group property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprint-user-group-property.png)
 
     4.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Pools**.
 
@@ -93,8 +93,8 @@ The goal of this example is to hide the Cost Center field on the catalog form wh
 
         Both the generic query and the scripted query return the Sys ID of the record in the lookup table. But what is actually happening here is that the system ignores the **All** query and the value specified in the **Lookup Field**, and it uses the **GroupsUserBelongsTo** script.
 
-        ![User group pool](../image/blueprints-usergroup-pool.png "A scripted query")
+        ![User group pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blueprints-usergroup-pool.png "A scripted query")
 
 
-**Parent Topic:**[Cloud catalog form configuration examples](../concept/example-blueprint-rules.md)
+**Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../concept/example-blueprint-rules.md)
 

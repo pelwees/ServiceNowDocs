@@ -22,18 +22,18 @@ You can have MID Servers focus on different capabilities and separate sections o
 -   [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureCapabilities.md)
 -   [Map an IP address to a DNS name](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_MapIPAddressToDNSName.md)
 
-You can also specify a default MID Server to use if no MID Servers meet the capability and IP range criteria for an activity. See [Select the default MID Server for Orchestration](../../mid-server/concept/c_MIDServerSelectionCriteria.md).
+You can also specify a default MID Server to use if no MID Servers meet the capability and IP range criteria for an activity. See [Select the default MID Server for Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../mid-server/concept/c_MIDServerSelectionCriteria.md).
 
--   **[MID Server capabilities](../../mid-server/reference/r_MIDServerCapabilities.md)**  
+-   **[MID Server capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../mid-server/reference/r_MIDServerCapabilities.md)**  
 MID Server capabilities define the specific functions of a MID Server within an IP address range.
--   **[Select the default MID Server for Orchestration](../../mid-server/concept/c_MIDServerSelectionCriteria.md)**  
+-   **[Select the default MID Server for Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../mid-server/concept/c_MIDServerSelectionCriteria.md)**  
 Orchestration uses the default MID Server if it cannot find a MID Server with the correct IP range and capability.
--   **[PowerShell probe version 2 system property](../../mid-server/reference/powershell-probe-v2.md)**  
+-   **[PowerShell probe version 2 system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../mid-server/reference/powershell-probe-v2.md)**  
 View detailed PowerShell credential information and view extended logging information.
--   **[PowerShell log property](../../mid-server/concept/powershell-log-property.md)**  
+-   **[PowerShell log property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../mid-server/concept/powershell-log-property.md)**  
 Enable debug messages to display from PowerShell.
 
-**Parent Topic:**[Classic Orchestration](../reference/r-orchestration.md)
+**Parent Topic:**[Classic Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../reference/r-orchestration.md)
 
 **Related topics**  
 

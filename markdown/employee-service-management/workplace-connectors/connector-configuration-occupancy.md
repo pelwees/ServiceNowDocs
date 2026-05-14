@@ -17,7 +17,7 @@ Configure the Connector Configurations table for loading the occupancy data in t
 
 ## Before you begin
 
-Ensure that you have the sensor data providers to retrieve and fetch data from an occupancy data provider vendor. For more information, see [Configure sensor data providers](providers-occupancy.md)
+Ensure that you have the sensor data providers to retrieve and fetch data from an occupancy data provider vendor. For more information, see [Configure sensor data providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/providers-occupancy.md)
 
 **Note:** If you’re using demo data or product data \(seed data\), some fields are pre-filled. In case, if you aren’t using the base system product data, you can configure the connector data. The seed data is available as part of the Metrikus Spoke integration.
 
@@ -45,7 +45,7 @@ Target Table
 
 </td><td>
 
-Option to indicate the target or destination table to store the occupancy data.Select Space Occupancy Data \(sn\_wsd\_wc\_space\_occupancy\) table. For more information, see [Retrieving Space Occupancy Data](space-occupancy-data.md).
+Option to indicate the target or destination table to store the occupancy data.Select Space Occupancy Data \(sn\_wsd\_wc\_space\_occupancy\) table. For more information, see [Retrieving Space Occupancy Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/space-occupancy-data.md).
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Extension Point Definition
 
 </td><td>
 
-Option to search for extension point definition for the Occupancy data. Select the lookup list icon \(![Look up list icon to search for required extension point definition.](../images/wsd-lookup-list-icon.png)\) to search for an extension point definition, select the **OccupancyDataHandler** as the extension point for integration.
+Option to search for extension point definition for the Occupancy data. Select the lookup list icon \(![Look up list icon to search for required extension point definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../images/wsd-lookup-list-icon.png)\) to search for an extension point definition, select the **OccupancyDataHandler** as the extension point for integration.
 
 **Note:** Extension point definition defines how the data is transformed from third-party occupancy sensor data providers. The occupancy data is loaded into the target or final table \(Space Occupancy Data table\). The external IDs provided by Metrikus or other occupancy data providers are processed and transformed. Each occupancy data provider must have a separate implementation or integration spoke framework.
 
@@ -77,9 +77,9 @@ Option to indicate the time \(in minutes\) beyond which occupancy data is consid
 </table>4.  Select **Submit** to save the connector configuration.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-occupancy-connectors.md)
 
-**Previous topic:**[Integrate Metrikus spoke](../concept/integrate-metrikus-flowdesigner.md)
+**Previous topic:**[Integrate Metrikus spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/integrate-metrikus-flowdesigner.md)
 
-**Next topic:**[Provider Connector Configuration](provider-connector-config-occupancy.md)
+**Next topic:**[Provider Connector Configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-connector-config-occupancy.md)
 

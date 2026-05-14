@@ -29,7 +29,7 @@ Role required: srm\_manager, srm\_responder, or srm\_admin
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
-2.  From the primary navigation, select **Reliability tasks** \(![Reliability tasks icon](../image/icon-sr-reliability-tasks.png)\).
+2.  From the primary navigation, select **Reliability tasks** \(![Reliability tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-reliability-tasks.png)\).
 
 3.  Select the Incidents tab.
 
@@ -175,7 +175,7 @@ Choose a state for the incident. Choices are:-   New \(default\)
 -   On Hold
 -   Resolved
 -   Canceled
-See [SRM incident states](../concept/sr-incident-states.md) for more information.
+See [SRM incident states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-incident-states.md) for more information.
 
 </td></tr><tr><td>
 
@@ -229,16 +229,16 @@ Enter any relevant resolution information.
 
     The incident is created and the new incident form displayed.
 
-7.  Add an attachment related to the incident in the **Actions** panel using the **Attachments** icon ![Attachments icon](../image/icon-sr-attachment.png).
+7.  Add an attachment related to the incident in the **Actions** panel using the **Attachments** icon ![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-attachment.png).
 
-8.  Create an incident template using the Template icon ![Template icon](../image/icon-sr-template.png).
+8.  Create an incident template using the Template icon ![Template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-template.png).
 
 9.  Start or join a Zoom meeting, Microsoft Teams, or Slack channel in the **Collaboration** panel..
 
 10. Select **Save**.
 
-    The incident appears with comments, work notes, and incident activity captured in the **Activity** stream. For more information on incident fields, see [SRM incidents](../reference/sr-incidents-workspace.md).
+    The incident appears with comments, work notes, and incident activity captured in the **Activity** stream. For more information on incident fields, see [SRM incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../reference/sr-incidents-workspace.md).
 
 
-**Parent Topic:**[Working with incidents in SRM](../concept/sr-work-incidents.md)
+**Parent Topic:**[Working with incidents in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../concept/sr-work-incidents.md)
 

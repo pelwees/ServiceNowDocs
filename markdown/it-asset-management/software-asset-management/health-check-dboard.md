@@ -23,9 +23,9 @@ If you are on the Rome or the San Diego releases, you must execute the full scan
 
 Select **Domain** and choose a domain to view the health check results.
 
-You can also perform a scan for a suite by selecting **Execute Scan**. Verify the scan result to act accordingly. For more information, see [.](../task/run-healthcheck.md)
+You can also perform a scan for a suite by selecting **Execute Scan**. Verify the scan result to act accordingly. For more information, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/run-healthcheck.md)
 
-![Health check tab in the Success portal](../image/feb-health-check.png "Health check dashboard")
+![Health check tab in the Success portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/feb-health-check.png "Health check dashboard")
 
 <table id="table_whp_cqv_1tb"><thead><tr><th>
 
@@ -113,7 +113,7 @@ Categorization of issues identified as a result of the health check scan.-   Dis
 </table>**Related topics**  
 
 
-[Software Asset Management health check](sam-health-check.md)
+[Software Asset Management health check](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-health-check.md)
 
-[Run a health check scan for Software Asset Management](../task/run-healthcheck.md)
+[Run a health check scan for Software Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/run-healthcheck.md)
 

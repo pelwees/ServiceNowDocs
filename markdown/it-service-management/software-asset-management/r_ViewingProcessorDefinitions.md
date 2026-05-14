@@ -17,7 +17,7 @@ Processor definitions for the legacy Software Asset Management \(com.snc.softwar
 
 To view a processor definition, navigate to **Software Asset** &gt; **Reconciliation** &gt; **Processor Definitions** and click an item.
 
-![SAM processor definition](../image/SAMProcessorDefinition.png "Processor definition")
+![SAM processor definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../image/SAMProcessorDefinition.png "Processor definition")
 
 The following read-only fields are listed.
 
@@ -33,5 +33,5 @@ The following read-only fields are listed.
 |Cores per socket|Number of cores \(functional unit needed to execute programs\) on each physical connection \(socket\) on the motherboard.|
 |Match level|Accuracy level of the association between processor and PVU mapping. Automatically set when association is inferred.|
 
-**Parent Topic:**[Legacy IBM PVU Process Pack](../concept/c_IBMPVUProcessPack.md)
+**Parent Topic:**[Legacy IBM PVU Process Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/../concept/c_IBMPVUProcessPack.md)
 

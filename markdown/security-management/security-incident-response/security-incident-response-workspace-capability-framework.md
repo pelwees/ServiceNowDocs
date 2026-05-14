@@ -60,28 +60,28 @@ Additional Information
 This column captures the static information which adds more context to the security analyst against the selected implementation\(s\) to proceed with an action. For example, supportability or filtered information. Also, if an implementation supports only a certain type of observables such as Domain or URL, then you can add that additional information here in this column to provide the context to the user.**Note:** The UI framework would basically allow the selection of any type of implementation and any type of observables. During the submission, the existing base system integrations that are shipped will take care of the filtering in the backend and submit only the supported type of observables. The rest of the records that don't match the supportability will be ignored. Hence, a UI information message is displayed while you select the capability: **Only supported records will be submitted against the selected implementation\(s\).**
 
 </td></tr></tbody>
-</table>    ![Run Threat Lookup view: Available Implementations.](../image/screen1.png "Screen 1: Implementation(s)")
+</table>    ![Run Threat Lookup view: Available Implementations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/screen1.png "Screen 1: Implementation(s)")
 
 2.  **Common inputs**: Add common inputs for the selected implementations or for all the selected applicable implementations. This is the screen 2 of your implementation. For example, as of now only **Sightings Search** has the common inputs screen. This implementation is a combination of screen 1 \(Implementations\) and screen 2 \(common inputs\).
 
-    ![Run Sighting Search view: Common inputs.](../image/common-input-hours.png "Screen 1 + Screen 2")
+    ![Run Sighting Search view: Common inputs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/common-input-hours.png "Screen 1 + Screen 2")
 
 3.  **Run time details**: Add specific run time inputs for the selected implementations which are different from each other implementation. This is the screen 3 of your implementation. This implementation is a combination of screen 1 \(Implementations\) and screen 3 \(specific run time inputs\).
 
-    ![Run Additional Actions view: Run time details.](../image/screen3.png "Specific inputs")
+    ![Run Additional Actions view: Run time details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/screen3.png "Specific inputs")
 
 
 **Note:** Not all three steps are always required. Depending on the capability and the type of inputs required, the runtime details step and common inputs step will be visible.
 
--   **[Unified experience capabilities and modal screens](../reference/capabilities-and-modal-screens.md)**  
+-   **[Unified experience capabilities and modal screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/capabilities-and-modal-screens.md)**  
 The following table below describes the capabilities and applicable screens.
--   **[Unified Experience examples](unified-expereince-example.md)**  
+-   **[Unified Experience examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/unified-expereince-example.md)**  
 This example demonstrates the unified experience framework capabilities.
 
-**Parent Topic:**[SIR Workspace Orchestration](security-incident-response-workspace-orchestration-activities.md)
+**Parent Topic:**[SIR Workspace Orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-orchestration-activities.md)
 
 **Related topics**  
 
 
-[SIR Workspace Investigation Canvas](security-incident-response-investigation-canvas.md)
+[SIR Workspace Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-investigation-canvas.md)
 

@@ -53,10 +53,10 @@ Role required: sn\_eam.enterprise\_asset\_technician
 -   The stage of the onboarding order changes to Review.
 -   A Multi-asset onboarding task is created and displayed in the **Onboard Asset Tasks** tab.
 
-**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](../concept/onboarding-multi-asset-from-ws.md)
+**Parent Topic:**[Onboarding multiple enterprise assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/onboarding-multi-asset-from-ws.md)
 
 **Related topics**  
 
 
-[Create an onboarding order for enterprise assets in the Enterprise Asset Workspace](onboard-eam-assets-workspace.md)
+[Create an onboarding order for enterprise assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/onboard-eam-assets-workspace.md)
 

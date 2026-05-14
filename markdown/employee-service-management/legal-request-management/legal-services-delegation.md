@@ -44,17 +44,17 @@ Legal Service Delivery supports the following delegations:
     A task is delegated when it matches the delegation rules specified for a delegation. For example, you can delegate only the Privacy Assessment requests. A delegation rule can be set on the Legal Request \[sn\_lg\_ops\_request\] table with the condition as **\[Category\] \[is\] \[Privacy\]**.
 
 
--   **[Delegate legal duties to another user](../task/delegate-legal-duties-approval.md)**  
+-   **[Delegate legal duties to another user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/delegate-legal-duties-approval.md)**  
 Delegate legal duties relating to your assigned legal requests, legal matters, legal matter tasks, and approvals to another user when you might not have time or are unavailable.
--   **[Delegate specific legal duties to another user using granular delegation](../task/delegate-legal-duties-approval-granular.md)**  
+-   **[Delegate specific legal duties to another user using granular delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/delegate-legal-duties-approval-granular.md)**  
 Delegate specific legal duties relating to your assigned legal requests, legal matters, legal matter tasks, and approvals to another user when you might not have time or are unavailable. These specific duties are derived from the pre-defined delegation rules.
--   **[View and work on delegated legal duties](../task/view-delegated-legal-duties-approval.md)**  
+-   **[View and work on delegated legal duties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../task/view-delegated-legal-duties-approval.md)**  
 Delegate legal duties relating to your assigned legal requests, legal matters, legal matter tasks, and approvals to another user when you might not have time or are unavailable.
 
-**Parent Topic:**[Configuring Legal Request Management](legal-ops-administration.md)
+**Parent Topic:**[Configuring Legal Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 
 **Related topics**  
 
 
-[Setting up Granular Delegation](../../employee-service-management/granular-delegation/concept/granular-delegation-setup.md)
+[Setting up Granular Delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../../employee-service-management/granular-delegation/concept/granular-delegation-setup.md)
 

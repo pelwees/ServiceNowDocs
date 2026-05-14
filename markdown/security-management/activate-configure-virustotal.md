@@ -21,7 +21,7 @@ Threat Intelligence must be installed and activated before you can use VirusTota
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation is complete, access VirusTotal and obtain the API Key under your VirusTotal profile.
 
@@ -76,7 +76,7 @@ Select this check box to send the URLs as hashes for threat lookup and protect t
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-    ![VirusTotal Configuration page](../image/virus-total-config.png)
+    ![VirusTotal Configuration page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/virus-total-config.png)
 
 
 ## Result
@@ -86,5 +86,5 @@ After it is configured, VirusTotal can be selected for performing lookups on obs
 **Related topics**  
 
 
-[Perform lookups on observables](../../../threat-intelligence/task/perform-lookups-on-observables.md)
+[Perform lookups on observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../../threat-intelligence/task/perform-lookups-on-observables.md)
 

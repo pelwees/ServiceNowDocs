@@ -52,9 +52,9 @@ Role required: admin.
     **Note:** The 20 loaded records can't be transformed and are for testing purposes only.
 
 
-**Parent Topic:**[Using XML import sets](../concept/c_XMLImportSets.md)
+**Parent Topic:**[Using XML import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_XMLImportSets.md)
 
-**Previous topic:**[Using XML import sets](../concept/c_XMLImportSets.md)
+**Previous topic:**[Using XML import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_XMLImportSets.md)
 
-**Next topic:**[Create a transform map](t_CreateATransformMap.md)
+**Next topic:**[Create a transform map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_CreateATransformMap.md)
 

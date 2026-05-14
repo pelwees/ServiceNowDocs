@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  Create a copy of the T1003 - Credential Dumping - Mimikatz DCsync playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, select the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, select the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the T1003 - Credential Dumping - Mimikatz DCSync playbook.](../image/playbook-mimikatz-dcsync-overview.png "T1003 - Credential Dumping - Mimikatz DCSync playbook")
+    ![Overview of the T1003 - Credential Dumping - Mimikatz DCSync playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-mimikatz-dcsync-overview.png "T1003 - Credential Dumping - Mimikatz DCSync playbook")
 
 4.  Activate the playbooks.
 
@@ -46,8 +46,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     This playbook is triggered and associated with the security incident when the **Category** is **Rogue server or service**.
 
-    ![Trigger condition for T1003 - Credential Dumping - Mimikatz DCSync playbook.](../image/playbook-mimikatz-dcsync-trigger.png "T1003 - Credential Dumping - Mimikatz DCSync playbook trigger condition")
+    ![Trigger condition for T1003 - Credential Dumping - Mimikatz DCSync playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-mimikatz-dcsync-trigger.png "T1003 - Credential Dumping - Mimikatz DCSync playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for T1003 - Credential Dumping - Mimikatz DCSync](../concept/playbook-credential-dumping-mimikatz-dcsync.md)
+**Parent Topic:**[Playbook for T1003 - Credential Dumping - Mimikatz DCSync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-credential-dumping-mimikatz-dcsync.md)
 

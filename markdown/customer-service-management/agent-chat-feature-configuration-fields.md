@@ -97,7 +97,7 @@ Change the default mode for chatting
 
 </td><td>
 
-Determines the default mode for chatting, either synchronously \(Chat\) or asynchronously \(Messaging\).For information on how to set the default chat mode, see [Change the default chat mode for the Chat feature](../task/em-set-default-mode-of-chatting.md).
+Determines the default mode for chatting, either synchronously \(Chat\) or asynchronously \(Messaging\).For information on how to set the default chat mode, see [Change the default chat mode for the Chat feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/em-set-default-mode-of-chatting.md).
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Configure advanced chat options
 
 </td><td>
 
-Determines the chat options for managing various conversation features.For more information, see [Chat Setup configuration form](em-advanced-chat-setup.md).
+Determines the chat options for managing various conversation features.For more information, see [Chat Setup configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/em-advanced-chat-setup.md).
 
 </td></tr><tr><td>
 
@@ -113,18 +113,18 @@ Email notifications for unread messages
 
 </td><td>
 
-Determines the email settings for sending email summaries for unread messages.For more information on how to enable email notifications for a specified duration, see[Configure email notifications for unread chat messages](../task/setup-email-notification-unread-message.md).
+Determines the email settings for sending email summaries for unread messages.For more information on how to enable email notifications for a specified duration, see[Configure email notifications for unread chat messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/setup-email-notification-unread-message.md).
 
 **Note:** The green color next to **Status** indicates that the email notification is enabled.
 
 </td></tr></tbody>
 </table><table id="table_tww_xgb_g4b"><tbody><tr><td>
 
-![Engagement Messenger home page displaying a Chat with an agent widget to initiate a chat with Virtual Agent.](../image/em-agent-chat-widget.png "Agent chat widget")
+![Engagement Messenger home page displaying a Chat with an agent widget to initiate a chat with Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-agent-chat-widget.png "Agent chat widget")
 
 </td><td>
 
-![Widget displaying the Chat with us and Submit a case features along with their description.](../image/em-chat-launcher.png "Chat feature launcher widget")
+![Widget displaying the Chat with us and Submit a case features along with their description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/em-chat-launcher.png "Chat feature launcher widget")
 
 </td></tr></tbody>
 </table>

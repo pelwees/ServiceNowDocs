@@ -23,7 +23,7 @@ Role required: sn\_rvw\_feedback.reader
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Select the list ![list icon.](../../grc-workspace-audit/image/ListsIcon.jpg) icon.
+2.  Select the list ![list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-audit/image/ListsIcon.jpg) icon.
 
 3.  From the list, navigate to **Parallel Review and Feedback** and select **Feedback**.
 
@@ -35,11 +35,11 @@ Role required: sn\_rvw\_feedback.reader
 
 6.  To initiate Sidebar discussion from the record side-panel, open the record that you want to discuss and do the following:
 
-    1.  In the side-panel, select the list ![side panel list icon.](../image/side-panel-list-icon.jpg) icon.
+    1.  In the side-panel, select the list ![side panel list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/side-panel-list-icon.jpg) icon.
 
     2.  Select the feedback.
 
-    3.  Select the More actions ![More actions icon.](../../grc-compliance-case-mgmt/image/more-actions-vertical-icon.png) icon on the feedback, and select **Discuss**.
+    3.  Select the More actions ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-compliance-case-mgmt/image/more-actions-vertical-icon.png) icon on the feedback, and select **Discuss**.
 
 7.  In the Start a Sidebar discussion dialog box, fill in the fields as appropriate.
 
@@ -79,5 +79,5 @@ Brief summary about the feedback to be discussed in the sidebar discussion.
 </table>8.  Select **Start discussion**.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
 

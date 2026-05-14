@@ -21,11 +21,11 @@ Role required: admin
 
 The slushbucket opens when the user clicks the add/remove multiple users icon.
 
-![Add/remove multiple users icon opens the slushbucket](../image/add-multiple-users-icon.png)
+![Add/remove multiple users icon opens the slushbucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/add-multiple-users-icon.png)
 
 By default, the order buttons on the right are not displayed. Follow the procedure to display the order buttons.
 
-![Display the order buttons](../image/glidelist-slushbucket-order-buttons.png)
+![Display the order buttons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/glidelist-slushbucket-order-buttons.png)
 
 ## Procedure
 
@@ -40,7 +40,7 @@ By default, the order buttons on the right are not displayed. Follow the procedu
 5.  Click **Update**.
 
 
-**Parent Topic:**[Configure email notifications for watch lists](t_ConfigNotifications4WatchLists.md)
+**Parent Topic:**[Configure email notifications for watch lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigNotifications4WatchLists.md)
 
 **Related topics**  
 

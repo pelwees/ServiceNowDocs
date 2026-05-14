@@ -41,10 +41,10 @@ Actual duration and the actual start and end dates are reset to null values. The
     ```
 
 
-**Parent Topic:**[Copy an existing task or project](t_CopyExistingTaskorProject.md)
+**Parent Topic:**[Copy an existing task or project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyExistingTaskorProject.md)
 
 **Related topics**  
 
 
-[Copy an existing task or project](t_CopyExistingTaskorProject.md)
+[Copy an existing task or project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CopyExistingTaskorProject.md)
 

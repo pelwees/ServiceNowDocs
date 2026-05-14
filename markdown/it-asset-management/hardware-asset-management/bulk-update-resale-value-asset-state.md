@@ -80,14 +80,14 @@ Download the list of the planned assets from the Disposal Documentation task and
 
 ## What to do next
 
-On the **Planned Asset** tab, select the assets and proceed with resale. For more information about asset resale, see [Resale hardware assets](create-resale-order.md)
+On the **Planned Asset** tab, select the assets and proceed with resale. For more information about asset resale, see [Resale hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-resale-order.md)
 
-**Parent Topic:**[Create a disposal order](create-disposal-order.md)
+**Parent Topic:**[Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md)
 
 **Related topics**  
 
 
-[Resale hardware assets](create-resale-order.md)
+[Resale hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-resale-order.md)
 
-[Create a disposal order](create-disposal-order.md)
+[Create a disposal order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-disposal-order.md)
 

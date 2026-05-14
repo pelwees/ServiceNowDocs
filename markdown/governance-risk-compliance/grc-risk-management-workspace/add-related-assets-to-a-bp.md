@@ -40,5 +40,5 @@ A business process is supported by various assets such as business applications,
 6.  Click **Save**.
 
 
-**Parent Topic:**[Create a business process in the Risk Workspace](create-business-process-ws.md)
+**Parent Topic:**[Create a business process in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-business-process-ws.md)
 

@@ -23,7 +23,7 @@ Verify the following setup:
 -   Discovery and Service Mapping Patterns is up to date.
 -   CMDB CI Class Models, is up to date.
 -   Visibility Content is up to date.
--   MID Server requirements: 8GB RAM with 4GB JVM and the Scan container images capability. For more information, see [Scan container images](container-image-task.md)
+-   MID Server requirements: 8GB RAM with 4GB JVM and the Scan container images capability. For more information, see [Scan container images](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-task.md)
 
 
 Role required: discovery\_admin
@@ -62,7 +62,7 @@ Role required: discovery\_admin
 
 ## What to do next
 
-[Download a software bill of materials \(SBOM\)](../reference/generate-sbom-pattern.md)
+[Download a software bill of materials \(SBOM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../reference/generate-sbom-pattern.md)
 
-**Parent Topic:**[Container image scanning for software decomposition](../concept/container-image-concept.md)
+**Parent Topic:**[Container image scanning for software decomposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/container-image-concept.md)
 

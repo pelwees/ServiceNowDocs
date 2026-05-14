@@ -32,7 +32,7 @@ Role required: none
 
     The Register Trusted Devices page is displayed.
 
-3.  On the Register Trusted Devices page, remove the device by clicking the ![Delete icon](../images/delete-icon.png) icon.
+3.  On the Register Trusted Devices page, remove the device by clicking the ![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/delete-icon.png) icon.
 
     **Note:** The deleted mobile device must be registered again to access the instance.
 

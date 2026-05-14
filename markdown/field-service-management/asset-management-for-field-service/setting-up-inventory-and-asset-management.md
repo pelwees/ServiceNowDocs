@@ -21,11 +21,11 @@ Assets and model categories are created as needed, using Enterprise Asset Manage
 
 If your organization needs to track inventory or schedule equipment, use the following information to set up one or both of the following features.
 
--   [Configuring stockrooms](configuring-stockrooms.md)
+-   [Configuring stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/configuring-stockrooms.md)
 
     Add stockrooms to strategically arrange and organize physical or virtual spaces to store and manage inventory items, such as assets or parts.
 
--   [Configuring resource scheduling](configure-equipment-scheduling.md)
+-   [Configuring resource scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/configure-equipment-scheduling.md)
 
     Create equipment categories and instances to use when assigning crews or work order tasks.
 

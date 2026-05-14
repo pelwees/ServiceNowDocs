@@ -146,10 +146,10 @@ Work notes
 Internal notes about the callback, visible only to team members.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Activity Management reference](../concept/activity-management-reference.md)
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/activity-management-reference.md)
 
 **Related topics**  
 
 
-[Schedule a call from a touchpoint](../task/schedule-call-crm-touchpoint.md)
+[Schedule a call from a touchpoint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/schedule-call-crm-touchpoint.md)
 

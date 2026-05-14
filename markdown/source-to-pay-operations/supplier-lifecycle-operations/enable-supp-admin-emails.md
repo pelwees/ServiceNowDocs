@@ -27,17 +27,17 @@ Role required: sn\_slm.admin
 
 3.  On the **Roles** tab, select **Edit**.
 
-4.  In the Collection list, search for and double-click the **sn\_slm.admin** role to move it to the Role list.![Added sn_slm.admin role to the Supplier Administrators group.](../image/enable-supplier-admin-self-registration.png)
+4.  In the Collection list, search for and double-click the **sn\_slm.admin** role to move it to the Role list.![Added sn_slm.admin role to the Supplier Administrators group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/enable-supplier-admin-self-registration.png)
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure self-registration for external users](config-reg-for-external-users-slm.md)
+**Parent Topic:**[Configure self-registration for external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-reg-for-external-users-slm.md)
 
 **Related topics**  
 
 
-[Configure system property to send registration emails to external users](sys-prop-reg-email.md)
+[Configure system property to send registration emails to external users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/sys-prop-reg-email.md)
 
-[Configure the Vendor Contact table to send invitation emails during self-registration](config-vendor-contact-table.md)
+[Configure the Vendor Contact table to send invitation emails during self-registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-vendor-contact-table.md)
 

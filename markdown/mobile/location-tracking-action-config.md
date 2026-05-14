@@ -19,9 +19,9 @@ Enable geolocation features on your instance by activating the Geolocation plugi
 
 To enable the action-based location tracking option, ensure that you have the Mobile Location Tracking plugin \[com.glide.sg.location.tracking\] installed.
 
-You must have a preconfigured action item before you can configure the action-based tracking option. For more information, see [Configure an action item](sg-studio-create-action-item.md).
+You must have a preconfigured action item before you can configure the action-based tracking option. For more information, see [Configure an action item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
-You need preconfigured action functions for users to tap within their mobile device. For more information, see [Configure an action function](sg-studio-config-action-function.md).
+You need preconfigured action functions for users to tap within their mobile device. For more information, see [Configure an action function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-studio-config-action-function.md).
 
 **Note:**
 
@@ -38,7 +38,7 @@ Role required: admin
 
 3.  Select Action item in the **Type** field.
 
-4.  In the **Action item** field, select the search icon \(![Reference lookup icon.](../image/reference-lookup-icon.png)\) and from the list, select the action item you want to trigger.
+4.  In the **Action item** field, select the search icon \(![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) and from the list, select the action item you want to trigger.
 
 5.  In the **Location tracking action** field, select one of the following options of the action item.
 
@@ -98,5 +98,5 @@ Starts a location tracking session.**Note:** If you select the Start option, the
 7.  Right-click in the header and select **Save**, to save your action function settings.
 
 
-**Parent Topic:**[Enabling and selecting location tracking options](location-tracking-enable.md)
+**Parent Topic:**[Enabling and selecting location tracking options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 

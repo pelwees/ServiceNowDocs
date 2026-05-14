@@ -19,12 +19,12 @@ The Scripted REST API defines the endpoints, query parameters, and headers for a
 
 For general information about scripted REST services, see [Scripted REST APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_CustomWebServices.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## RestApi object
 
@@ -52,7 +52,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of ACL objects or sys\_ids of ACLs to enforce when accessing resources \[sys\_security\_acl\]. For more information, see [Access Control List API - ServiceNow Fluent](acl-api-now-ts.md#).To not enforce ACLs, set this property to an empty array \(`[]`\).
+A list of variable identifiers of ACL objects or sys\_ids of ACLs to enforce when accessing resources \[sys\_security\_acl\]. For more information, see [Access Control List API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/acl-api-now-ts.md#).To not enforce ACLs, set this property to an empty array \(`[]`\).
 
 Default: Scripted REST External Default
 
@@ -167,7 +167,7 @@ Array
 
 </td><td>
 
-The resources \[sys\_ws\_operation\] for the API. For more information, see [routes object](scripted-rest-api-api-now-ts.md#).
+The resources \[sys\_ws\_operation\] for the API. For more information, see [routes object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ Array
 
 </td><td>
 
-A list of versions \[sys\_ws\_version\] for the API. For more information, see [versions object](scripted-rest-api-api-now-ts.md#).Specifying versions allows you to manage different versions of an API and their statuses, such as whether they are active, the default version, or deprecated.
+A list of versions \[sys\_ws\_version\] for the API. For more information, see [versions object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md#).Specifying versions allows you to manage different versions of an API and their statuses, such as whether they are active, the default version, or deprecated.
 
 </td></tr><tr><td>
 
@@ -294,7 +294,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -320,8 +320,8 @@ Script
 
 Required. The custom script defines how the operation parses and responds to requests. This property supports a function from a JavaScript module, a reference to another file in the application that contains a script, or inline JavaScript.Format:
 
--   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](../concept/javascript-modules-third-party-libraries.md).
--   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).
+-   For functions, use the name of a function, function expression, or default function exported from a JavaScript module and import it into the `.now.ts` file. For information about JavaScript modules, see [JavaScript modules and third-party libraries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/javascript-modules-third-party-libraries.md).
+-   To use text content from another file, refer to a file in the application using the following format: `Now.include('path/to/file')`. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).
 -   To provide an inline script, use string literals or template literals for multiple lines of code: `'Script' or `Script``.
 
 </td></tr><tr><td>
@@ -334,7 +334,7 @@ Array
 
 </td><td>
 
-A list of query parameters \[sys\_ws\_query\_parameter\] for the route. For more information, see [parameters and headers objects](scripted-rest-api-api-now-ts.md#).
+A list of query parameters \[sys\_ws\_query\_parameter\] for the route. For more information, see [parameters and headers objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -346,7 +346,7 @@ Array
 
 </td><td>
 
-A list of headers \[sys\_ws\_header\] for the route. For more information, see [parameters and headers objects](scripted-rest-api-api-now-ts.md#).
+A list of headers \[sys\_ws\_header\] for the route. For more information, see [parameters and headers objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/scripted-rest-api-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -413,7 +413,7 @@ Array
 
 </td><td>
 
-A list of variable identifiers of ACL objects or sys\_ids of ACLs to enforce when accessing resources \[sys\_security\_acl\]. For more information, see [Access Control List API - ServiceNow Fluent](acl-api-now-ts.md#).To not enforce ACLs, set this property to an empty array \(`[]`\).
+A list of variable identifiers of ACL objects or sys\_ids of ACLs to enforce when accessing resources \[sys\_security\_acl\]. For more information, see [Access Control List API - ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/acl-api-now-ts.md#).To not enforce ACLs, set this property to an empty array \(`[]`\).
 
 Default: Scripted REST External Default
 
@@ -603,7 +603,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 
@@ -715,7 +715,7 @@ String or Number
 
 </td><td>
 
-Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](fluent-constructs.md).Format: `Now.ID['String' or Number]`
+Required. A unique ID for the metadata object. When you build the application, this ID is hashed into a unique sys\_id. For more information, see [ServiceNow Fluent language constructs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/fluent-constructs.md).Format: `Now.ID['String' or Number]`
 
 </td></tr><tr><td>
 

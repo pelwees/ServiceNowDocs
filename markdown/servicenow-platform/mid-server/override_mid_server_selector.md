@@ -17,13 +17,13 @@ Use the override feature to write your own filter condition that overrides the n
 
 ## Before you begin
 
-Before attempting to create an override filter, be sure you understand the criteria the platform uses to select MID Servers. See [MID Server selection](../concept/c_MIDServerSelector.md) for details.
+Before attempting to create an override filter, be sure you understand the criteria the platform uses to select MID Servers. See [MID Server selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerSelector.md) for details.
 
 Role required: admin
 
 <table id="table_irs_ps4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>## About this task
@@ -54,7 +54,7 @@ There are four MID Server selection filters included in the base ServiceNow syst
     -   **Type**: Type of override being configured. Select one of the four default filters to override with your condition, or select **Override selector** to create a filter that overrides all the others.
 4.  Select **Submit**.
 
-    ![MID Server override filter script](../image/MIDSelectionOverride.png)
+    ![MID Server override filter script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/MIDSelectionOverride.png)
 
 
 ## Example
@@ -73,5 +73,5 @@ var result = [];
  }
 ```
 
-**Parent Topic:**[MID Server selection](../concept/c_MIDServerSelector.md)
+**Parent Topic:**[MID Server selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerSelector.md)
 

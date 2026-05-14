@@ -28,7 +28,7 @@ With the activation of StreamConnect, LES, or IDR, a new Hermes Kafka cluster is
     The cluster running in the other data center is the far cluster. The opposite is true for the other instance. Its near cluster is in its data center, and its far cluster is running in the other data center.
 
 
-![Near and far Hermes Kafka clusters are relative to the instance.](../images/hermes-near-far.png "Near and far Hermes Kafka clusters")
+![Near and far Hermes Kafka clusters are relative to the instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/../images/hermes-near-far.png "Near and far Hermes Kafka clusters")
 
 ## Normal operation
 

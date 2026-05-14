@@ -19,5 +19,5 @@ Facilities Move Management adds the following email templates.
 |---------------|-----------|
 |move.del|Notifies delegators to assign seats for an enterprise move.|
 
-**Parent Topic:**[Installed with Facilities Move Management](r_InstallWFacMoveMgmt.md)
+**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 

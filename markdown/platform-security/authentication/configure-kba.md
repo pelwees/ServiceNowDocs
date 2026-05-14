@@ -25,10 +25,10 @@ Role required: auth\_factors\_admin
 
 2.  Perform the following:
 
-    -   [Create KBA questions](create-knowledge-based-questions.md)
-    -   [Create KBA answers](create-knowledge-based-answers.md)
-    -   [Map KBA questions to answers](create-kba-answer-mappings.md)
-    -   [Assign KBA questions to your AI voice agent service](create-kba-service-mappings.md)
+    -   [Create KBA questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-questions.md)
+    -   [Create KBA answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-answers.md)
+    -   [Map KBA questions to answers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-answer-mappings.md)
+    -   [Assign KBA questions to your AI voice agent service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-kba-service-mappings.md)
     After creating the KBA configurations, you can use it as an identification and authentication method.
 
 

@@ -17,7 +17,7 @@ The Topic Recommendations app provides two main pages: a configuration page and 
 
 For more information about the Topic Recommendations user interface, see the following topics:
 
--   [Topic Recommendations settings](../reference/tr-settings-page.md)
--   [Topic Recommendations page](../reference/topic-recommendations-page.md)
--   [Topic Recommendations cards](../reference/topic-recommendations-cards.md)
+-   [Topic Recommendations settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/tr-settings-page.md)
+-   [Topic Recommendations page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/topic-recommendations-page.md)
+-   [Topic Recommendations cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/topic-recommendations-cards.md)
 

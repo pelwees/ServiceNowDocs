@@ -100,7 +100,7 @@ if(typeof g_user_date_time_format !=='undefined')
 return parseDate(value)!==null;}
 ```
 
-For more information, see [Validation script use case - Date and time](c_ValidateDateAndTime.md).
+For more information, see [Validation script use case - Date and time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ValidateDateAndTime.md).
 
-**Parent Topic:**[Business rule use cases](useful-business-rules.md)
+**Parent Topic:**[Business rule use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/useful-business-rules.md)
 

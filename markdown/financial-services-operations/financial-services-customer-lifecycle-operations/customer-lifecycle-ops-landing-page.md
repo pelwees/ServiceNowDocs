@@ -21,23 +21,23 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how agents and other team members use Customer Lifecycle Operations.](explore-customer-lifecycle-ops.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how agents and other team members use Customer Lifecycle Operations.](explore-customer-lifecycle-ops.md)
 
 </td><td>
 
-[Set up ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Business Lifecycle and Financial Services Client Lifecycle.](set-up-customer-lifecycle-ops.md)
+[Set up ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Set up Financial Services Business Lifecycle and Financial Services Client Lifecycle.](set-up-customer-lifecycle-ops.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete Customer Lifecycle Operations cases.](use-customer-lifecycle-ops.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../reuse/icons/brand-icons/bus-service-aware.svg) Create, manage, and complete Customer Lifecycle Operations cases.](use-customer-lifecycle-ops.md)
 
 </td></tr><tr><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Evaluate efficiency and track completed cases with preconfigured dashboards.](analytics-reporting-customer-lifecycle-ops.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../reuse/icons/brand-icons/bus-infographic.svg) Evaluate efficiency and track completed cases with preconfigured dashboards.](analytics-reporting-customer-lifecycle-ops.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components such as roles, tables, plugins, and installed store applications.](reference-customer-lifecycle-ops.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components such as roles, tables, plugins, and installed store applications.](reference-customer-lifecycle-ops.md)
 
 </td><td>
 

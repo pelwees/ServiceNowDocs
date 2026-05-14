@@ -19,7 +19,7 @@ Role required: admin
 
 The first participant represents the user initiating the call. Adding subsequent participants simulates a multiparty call. For example, when a second agent or supervisor joins the call, or when one agent consults with another in the same call.
 
-![Add participants in the simulator](../image/int-add-participant.png "Add participants")
+![Add participants in the simulator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-add-participant.png "Add participants")
 
 ## Procedure
 
@@ -27,13 +27,13 @@ The first participant represents the user initiating the call. Adding subsequent
 
     You can add up to five participants. Save each participant details before submitting your configuration.
 
-    ![Add up to five participants and save each participant entry](../image/int-save-participant.png)
+    ![Add up to five participants and save each participant entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-save-participant.png)
 
 2.  Select **Submit** to display the Global call window with your updated selections.
 
     The Voice Controls Simulator tool provides a synchronized view across both Global Call and Active Call windows. Selecting any call button, such as hold or mute, instantly updates both call windows.
 
-    ![Test the simulated active call controls](../image/int-test-active-call-simulation-call-controls.png)
+    ![Test the simulated active call controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-test-active-call-simulation-call-controls.png)
 
 3.  Select **Start Over** to reset your simulation and return to the set idle state capabilities step.
 

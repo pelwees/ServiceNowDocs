@@ -18,8 +18,8 @@ The **Dashboard Stats** list enables you to view how often each of your Core UI 
 To view dashboard statistics, navigate to **All** &gt; **dashboard\_stats.list**. The admin or dashboard\_admin role is required. By default, the Dashboard Statistics list displays all dashboards that have been viewed. There is one entry in this table for each dashboard on the instance that has been viewed at least once. The entries increment until an entry is deleted or the dashboard itself is deleted.
 
 -   The **Dashboard Stats** list enables you to view how often each of your dashboards is run and how long it takes to run them.
--   The [Dashboard executions](dashboard-execs.md) list shows how long it takes for your Core UI dashboards to load and the ID of the user who launched it.
--   The [Dashboard execution statistics](dashboard-statistics-exec.md) list how long it takes for your Core UI dashboards to load. The list includes one entry for the most recent launch of each dashboard per user.
+-   The [Dashboard executions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboard-execs.md) list shows how long it takes for your Core UI dashboards to load and the ID of the user who launched it.
+-   The [Dashboard execution statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboard-statistics-exec.md) list how long it takes for your Core UI dashboards to load. The list includes one entry for the most recent launch of each dashboard per user.
 
 The **Dashboard Stats** list has these columns by default:
 
@@ -103,7 +103,7 @@ Execution time
 Sum of execution time across all runs of the dashboard.
 
 </td></tr></tbody>
-</table>Select the **Personalize List** icon ![Edit columns icon](../image/icon-cogwheel-ac.png) to add these columns:
+</table>Select the **Personalize List** icon ![Edit columns icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/icon-cogwheel-ac.png) to add these columns:
 
 |Column|Description|
 |------|-----------|

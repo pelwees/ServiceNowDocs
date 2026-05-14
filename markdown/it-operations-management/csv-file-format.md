@@ -34,5 +34,5 @@ name,method,description,interval,cmdb_ci,enabled,should_create_alert,alert_sever
 -   **body\_condition**: Colon-separated type:expression \(example, `jsonpath:$.status`\)
 -   **Boolean values**: `true`, `false`, `1`, `0`, `yes`, `no`
 
-**Parent Topic:**[Synthetic monitoring reference](synthetic-monitoring-reference.md)
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 

@@ -31,7 +31,7 @@ Role required: admin
 
     -   Certificate \(Delegated Permissions\)
 
-        ![Teams setup using certificate](../image/teams-setup-certificate.png)
+        ![Teams setup using certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/teams-setup-certificate.png)
 
         |Field|Description|
         |-----|-----------|
@@ -43,7 +43,7 @@ Role required: admin
 
     -   Client Secret \(Delegated Permissions\)
 
-        ![Teams setup using client secret](../image/teams-setup-clientsecret.png)
+        ![Teams setup using client secret](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/teams-setup-clientsecret.png)
 
         |Field|Description|
         |-----|-----------|
@@ -64,5 +64,5 @@ Role required: admin
 7.  Select **Show Advanced Details** to view the configuration details.
 
 
-**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](../concept/integrate-teams-msim.md)
+**Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-teams-msim.md)
 

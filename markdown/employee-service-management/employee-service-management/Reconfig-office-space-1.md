@@ -74,36 +74,36 @@ You can check the details of your request or choose to cancel it anytime using t
 
 When the request is resolved, select **Accept** or **Reject** based on the resolution received.
 
-**Parent Topic:**[Requesting a workplace service](../concept/request-workplace-services.md)
+**Parent Topic:**[Requesting a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../concept/request-workplace-services.md)
 
 **Related topics**  
 
 
-[Raise help request for a workplace inquiry](submit-gen-workplace-serv-req.md)
+[Raise help request for a workplace inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-gen-workplace-serv-req.md)
 
-[Raise a move request for a space change](../../workplace-move-mgmt/task/request-desk-change.md)
+[Raise a move request for a space change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../workplace-move-mgmt/task/request-desk-change.md)
 
-[Request furniture for a space](request-furniture.md)
+[Request furniture for a space](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/request-furniture.md)
 
-[Raise a space assistance request](../../workplace-space-management/task/raise-a-space-recommendation-request.md)
+[Raise a space assistance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../workplace-space-management/task/raise-a-space-recommendation-request.md)
 
-[Submit a maintenance request](submit-a-maintenance-request.md)
+[Submit a maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-maintenance-request.md)
 
-[Submit a catering request](submit-a-catering-request.md)
+[Submit a catering request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-catering-request.md)
 
-[Submit heating and cooling request](submit-heating-and-cooling-request.md)
+[Submit heating and cooling request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-heating-and-cooling-request.md)
 
-[Submit a badge request](submit-a-badge-request.md)
+[Submit a badge request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-badge-request.md)
 
-[Submit a tech support request](submit-a-tech-support-request.md)
+[Submit a tech support request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-tech-support-request.md)
 
-[Submit a cleaning request](submit-a-cleaning-request.md)
+[Submit a cleaning request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-cleaning-request.md)
 
-[Submit an equipment request](submit-a-equipment-request.md)
+[Submit an equipment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-a-equipment-request.md)
 
-[Edit a workplace request](edit-workplace-request.md)
+[Edit a workplace request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/edit-workplace-request.md)
 
-[Submit an emergency maintenance request](submit-emergency-maint-request.md)
+[Submit an emergency maintenance request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-emergency-maint-request.md)
 
-[Submit a change event request for a reservation](submit-change-event-reservation.md)
+[Submit a change event request for a reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/submit-change-event-reservation.md)
 

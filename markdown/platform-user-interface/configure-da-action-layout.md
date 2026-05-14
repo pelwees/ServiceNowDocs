@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-A form action layout combines multiple [form action layout items](../../workspace/configurable-workspace-glossary.md#) and [form action layout groups](../../workspace/configurable-workspace-glossary.md#) into a single table-based layout that determines which actions appear on the form.
+A form action layout combines multiple [form action layout items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/configurable-workspace-glossary.md#) and [form action layout groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/configurable-workspace-glossary.md#) into a single table-based layout that determines which actions appear on the form.
 
 The form action layout chosen to appear on the form is determined in the following ways:
 
@@ -44,7 +44,7 @@ The form action layout chosen to appear on the form is determined in the followi
 
     For example, select a record page.
 
-    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](create-configurable-workspace-page-uib.md).
+    For instructions on creating a workspace page in UI Builder, see [Create a Configurable Workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-page-uib.md).
 
 3.  From the Data and scripts tree, select the **Form Controller**.
 

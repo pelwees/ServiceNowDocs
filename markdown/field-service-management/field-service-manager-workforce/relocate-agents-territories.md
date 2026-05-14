@@ -33,7 +33,7 @@ This video shows the agent relocation process.Agent relocation procedure
 
 2.  Select the territory and open the record.
 
-3.  Select the Agent Relocation \(![Agent Relocation icon.](../image/agent-relocation.jpg)\) icon.
+3.  Select the Agent Relocation \(![Agent Relocation icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/agent-relocation.jpg)\) icon.
 
     The **Relocate agents** form appears in the contextual side panel.
 

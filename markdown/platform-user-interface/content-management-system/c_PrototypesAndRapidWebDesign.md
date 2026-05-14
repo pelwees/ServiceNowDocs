@@ -24,5 +24,5 @@ Define the following elements within the prototype.
 -   The site map for the entire site.
 -   A detailed prototype of every intended page, including elements such as links, link destinations, content, page names, and page descriptions.
 
-**Parent Topic:**[Content Management design](c_ContentManagementPlanning.md)
+**Parent Topic:**[Content Management design](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md)
 

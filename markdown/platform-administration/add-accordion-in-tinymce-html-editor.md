@@ -41,10 +41,10 @@ Role required: admin
 
     4.  Add the accordion summary and body.
 
-        ![TinyMCE v6.8.3 Accordion summary and body](../../../use/using-forms/image/TinyMCEV6-accordion-summary.png)
+        ![TinyMCE v6.8.3 Accordion summary and body](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../use/using-forms/image/TinyMCEV6-accordion-summary.png)
 
     5.  Select the accordion to expand and collapse the content.
 
-        ![TinyMCE v6.8.3 Accordion icon](../../../use/using-forms/image/TinyMCEV6-accordion_icon.png)
+        ![TinyMCE v6.8.3 Accordion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../use/using-forms/image/TinyMCEV6-accordion_icon.png)
 
 

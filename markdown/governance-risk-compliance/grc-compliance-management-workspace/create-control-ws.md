@@ -76,7 +76,7 @@ Inherit from control objective
 
 </td><td>
 
-Option to indicate whether the control is created through an item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](../../grc-policy-and-compliance/concept/support-multiple-controls-same-entity-control-objective.md).
+Option to indicate whether the control is created through an item generation process. For more information, see [Multiple controls for a unique entity–control objective combination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-and-compliance/concept/support-multiple-controls-same-entity-control-objective.md).
 
 </td></tr><tr><td>
 
@@ -346,9 +346,9 @@ Public information about the control.
 
     If you had created a common control, then there are Reliant entities and Reliant entity types related lists along with other related lists of the control. Use the Reliant entities related list to associate entities to the common control. Or, you can use the Reliant entity types related list to add a group of entities of an entity type instead of associating them one by one.
 
-    ![Related lists to associate entities as reliant entities.](../image/RelEntitiesRelList.png "Related lists for common controls")
+    ![Related lists to associate entities as reliant entities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/RelEntitiesRelList.png "Related lists for common controls")
 
-    **Note:** For more information on the reliant entity association for a common control, see [Convert standard control to common control and add reliant entities](convert-standard-control-common.md).
+    **Note:** For more information on the reliant entity association for a common control, see [Convert standard control to common control and add reliant entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/convert-standard-control-common.md).
 
 6.  From the **Overview** page, click the **Issues**.
 

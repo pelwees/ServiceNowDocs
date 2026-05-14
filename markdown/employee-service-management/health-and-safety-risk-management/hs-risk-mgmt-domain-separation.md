@@ -36,7 +36,7 @@ All tables in the Health and Safety Risk Management can be domain-separated and 
 -   Each table in Health and Safety Risk Management includes the domain separation fields **Domain** and **Domain path**.
 -   Customers can use these fields to configure domain separation in their implementation of Health and Safety Risk Management.
 
-**Parent Topic:**[Health and Safety Risk Management reference](hs-risk-mgmt-reference.md)
+**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
 **Related topics**  
 

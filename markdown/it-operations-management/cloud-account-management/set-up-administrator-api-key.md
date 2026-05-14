@@ -45,22 +45,22 @@ Role required: Terraform admin
 
 ## What to do next
 
-[Setting up Cloud Account Management in Cloud Workspace](../concept/configuring-cloud-workspace.md)
+[Setting up Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/configuring-cloud-workspace.md)
 
-[Add members to the group](add-member-group.md)
+[Add members to the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/add-member-group.md)
 
-[Set up Terraform API key in ServiceNow](configure-api-key.md).
+[Set up Terraform API key in ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-api-key.md).
 
-[Set up scan configuration for data visualization](set-up-data-visualization.md).
+[Set up scan configuration for data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/set-up-data-visualization.md).
 
-**Parent Topic:**[Setting up Terraform and GitHub](../concept/about-terraform-git-and-servicenow_0.md)
+**Parent Topic:**[Setting up Terraform and GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../concept/about-terraform-git-and-servicenow_0.md)
 
 **Related topics**  
 
 
-[Publish Terraform templates](publish-terraform-templates.md)
+[Publish Terraform templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/publish-terraform-templates.md)
 
-[Create a Terraform organization for Cloud Account Management in Cloud Workspace](integrate-terraform-and-git.md)
+[Create a Terraform organization for Cloud Account Management in Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-and-git.md)
 
-[Integrate Terraform Cloud with GitHub](integrate-terraform-cloud-and-git.md)
+[Integrate Terraform Cloud with GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/integrate-terraform-cloud-and-git.md)
 

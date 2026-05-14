@@ -17,7 +17,7 @@ Skills Foundation integrates with Learning to introduce skills-driven learning s
 
 Learning integrates with Skills Foundation to enhances a user's learning experience.
 
-When the Skills Foundation property sn\_skills\_int.enable\_skills is set to true, the use of is enabled for Learning. See [Configuring Skills Foundation](../../skills-intelligence/concept/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+When the Skills Foundation property sn\_skills\_int.enable\_skills is set to true, the use of is enabled for Learning. See [Configuring Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../../skills-intelligence/concept/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
 ## Skills associated with Learning content
 
@@ -28,7 +28,7 @@ When the Skills Foundation property sn\_skills\_int.enable\_skills is set to tru
 ## Adding skills to a Learning course
 
 -   Skills intelligent widget to search select skills.
--   Integration with Skills Foundation, allows you to [Add associated skills](add-associated-skills.md) to learnings.
+-   Integration with Skills Foundation, allows you to [Add associated skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-associated-skills.md) to learnings.
 
 ## Skills based AI Search
 

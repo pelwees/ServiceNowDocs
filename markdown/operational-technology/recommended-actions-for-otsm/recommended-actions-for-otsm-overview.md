@@ -39,5 +39,5 @@ The OTSM context includes the following search result mappings based on context 
 
 The OTSM context includes the **\[AIS\] Recommended Actions for OTSM Search Config**. This application supports the AI search for various records in the Industrial Workspace, including OT incidents.
 
-**Parent Topic:**[Exploring Recommended Actions for Operational Technology Service Management \(OTSM\)](exploring-recommended-actions-otsm.md)
+**Parent Topic:**[Exploring Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/exploring-recommended-actions-otsm.md)
 

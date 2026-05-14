@@ -49,10 +49,10 @@ Create an attribute to calculate the final score of a Scoring Framework.
     ICE score = Impact * Confidence * Ease
     ```
 
-    ![Final score formula of the ICE custom framework.](../images/ice-example.png)
+    ![Final score formula of the ICE custom framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/ice-example.png)
 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/custom-scoring-frameworks-in-strategic-planning.md)
 

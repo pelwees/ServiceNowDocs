@@ -29,15 +29,15 @@ Duplicating an exploration grants the following possibilities:
 
 1.  Launch AI Data Explorer.
 
-    See [Launch AI Data Explorer](launch-now-assist-explorer.md).
+    See [Launch AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md).
 
 2.  Locate and open the exploration that you want to duplicate.
 
-    See [Open an existing exploration](open-existing-exploration.md).
+    See [Open an existing exploration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/open-existing-exploration.md).
 
 3.  Expand the additional actions list and select **Duplicate**.
 
-    ![The Duplicate action.](../image/nowass-expl-duplicate-action.png)
+    ![The Duplicate action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-expl-duplicate-action.png)
 
 4.  In the Duplicate exploration dialog, set a name for the duplicate exploration and decide whether you want it to have the same access permissions as the original.
 
@@ -46,5 +46,5 @@ Duplicating an exploration grants the following possibilities:
 5.  Press **Duplicate**.
 
 
-**Parent Topic:**[Using AI Data Explorer](../concept/use-now-assist-explorer.md)
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/use-now-assist-explorer.md)
 

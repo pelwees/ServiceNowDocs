@@ -17,19 +17,19 @@ After a Microsoft Graph Security API alert has been ingested, a security inciden
 
 ## Worknotes
 
-If you had selected the **Log work note for new alert** option in the alert Aggregation Criteria as described in the [Mapping alerts to security incident response fields](ms-graph-create-profile-map.md), a worknote is posted when the alert is aggregated.
+If you had selected the **Log work note for new alert** option in the alert Aggregation Criteria as described in the [Mapping alerts to security incident response fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-graph-create-profile-map.md), a worknote is posted when the alert is aggregated.
 
-![Microsoft Graph Security API: Log worknote](../image/ms-graph-worknote.png)
+![Microsoft Graph Security API: Log worknote](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-worknote.png)
 
 Click on the alert link to navigate to the internal alert import record that contains raw alert data.
 
-![Microsoft Graph Security API Alert Import Record](../image/ms-graph-sir-alert-record.png)
+![Microsoft Graph Security API Alert Import Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-sir-alert-record.png)
 
 ## Aggregated alerts
 
 Click **Related Lists** &gt; **Aggregated Microsoft Graph Security alerts** to view the alerts aggregated to the security incident.
 
-![Microsoft Graph Security API: aggregated alerts](../image/ms-graph-related-aggregated.png)
+![Microsoft Graph Security API: aggregated alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-related-aggregated.png)
 
 -   **Create security incident**: Select an alert from the list, click the **Actions** menu and click **Create security incident**. This option creates a new security incident for the alert and this alert is de-aggregated from the parent security incident.
 -   **Delete alert record**: Select an alert from the list, click the **Actions** menu and click **Delete**. This option deletes the alert record.

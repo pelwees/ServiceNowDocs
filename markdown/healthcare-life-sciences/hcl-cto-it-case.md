@@ -21,19 +21,19 @@ Any updates, comments, or status changes made to the incident are reflected in t
 
 ## Incident auto-creation
 
-![Incident auto creation.](../image/cto-it-incident-auto-create.png)
+![Incident auto creation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-incident-auto-create.png)
 
 Incidents are created automatically in synchronization with Healthcare IT cases. All information from the Healthcare case is carried over into the incident.
 
 ## Comment synchronization
 
-![Comment sync example in Care Team Operations for Healthcare IT.](../image/cto-it-comment-sync.png)
+![Comment sync example in Care Team Operations for Healthcare IT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-comment-sync.png)
 
 Comments left on the Healthcare IT case are viewable on the incident, and comments left in the **Compose** panel of the Incident are viewable on the Healthcare IT case.
 
 ## State synchronization
 
-![State sync for Care Team Operations for Healthcare IT.](../image/cto-it-state-sync.png)
+![State sync for Care Team Operations for Healthcare IT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-state-sync.png)
 
 The state of both the incident and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details.
 
@@ -47,7 +47,7 @@ If a requesting party selects Reject Solution, the state returns to Work in prog
 
 In cases where an incident is set to **On hold** by the support agent with a reason state set to **Awaiting Caller**, additional information is required from the requester for the agent to proceed.
 
-![On hold message occurring when a case needs more information in Care Team Operations for Healthcare IT.](../image/cto-it-on-hold.png)
+![On hold message occurring when a case needs more information in Care Team Operations for Healthcare IT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-on-hold.png)
 
 This triggers an alert on the case in the Care Team Portal, where the state is changed to **Awaiting info**.
 

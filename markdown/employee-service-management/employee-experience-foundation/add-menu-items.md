@@ -33,13 +33,13 @@ The topics and child topics you create in the taxonomy are displayed as mega men
 
 3.  Next to the **Title** field, click **Preview this record** and open the record.
 
-    ![Configure menu items](../images/menu-item.png "Menu item")
+    ![Configure menu items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/menu-item.png "Menu item")
 
 4.  In the **Menu Items** related list, click **New** or open an existing record.
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [Menu Item form](../reference/menu-item-form.md).
+    For a description of the field values, see [Menu Item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/menu-item-form.md).
 
 6.  Click **Submit**.
 

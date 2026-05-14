@@ -17,7 +17,7 @@ Test your Data Stream action to ensure that it works the way you expect before y
 
 ## Before you begin
 
--   [Create a Data Stream action](create-data-stream-action.md)
+-   [Create a Data Stream action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/create-data-stream-action.md)
 -   Role required: action\_designer or admin
 
 ## About this task
@@ -47,7 +47,7 @@ Testing a Data Stream action returns the first 20 items by default. To change th
 
 ## What to do next
 
-[Use a Data Stream action in a flow](use-data-stream-in-flow.md).
+[Use a Data Stream action in a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/use-data-stream-in-flow.md).
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/data-stream-actions.md)
 

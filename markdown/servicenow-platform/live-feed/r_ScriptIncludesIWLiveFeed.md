@@ -21,5 +21,5 @@ The Live Feed plugin installs the following script includes.
 |LiveFeedFilter|Queries filters for working with live\_feed records.|
 |LiveFeedUtil|Provides helper functions for working with live\_feed records.|
 
-**Parent Topic:**[Components installed with Live Feed](r_InstalledWithLiveFeed.md)
+**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 

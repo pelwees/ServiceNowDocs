@@ -19,11 +19,11 @@ Cloud Account Management in Cloud Workspace offers flexible provision modes such
 
 Provisioning modes for creating AWS accounts are:
 
--   Terraform- [Setting up Terraform and GitHub](about-terraform-git-and-servicenow_0.md).
--   Cloud native interface- There's no additional procedure required for cloud native interface. You can proceed to [Install Cloud Workspace](../task/activate-cloud-account-management.md).
+-   Terraform- [Setting up Terraform and GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-terraform-git-and-servicenow_0.md).
+-   Cloud native interface- There's no additional procedure required for cloud native interface. You can proceed to [Install Cloud Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/activate-cloud-account-management.md).
 
-    **Note:** To know more on API permissions, see [About Amazon Web Services API permissions](about-aws-api-permissions.md).
+    **Note:** To know more on API permissions, see [About Amazon Web Services API permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/about-aws-api-permissions.md).
 
 
-![Terraform and cloud native interface support in Cloud Account Management instance](../image/terraform.png "Cloud Account Management provision modes")
+![Terraform and cloud native interface support in Cloud Account Management instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../image/terraform.png "Cloud Account Management provision modes")
 

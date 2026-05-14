@@ -172,7 +172,7 @@ Handler to be called when you perform one of the following actions:-   Add entit
 -   Remove entity type from item.
 
 </td></tr></tbody>
-</table>**Note:** For more information on the item generation process for common controls, see [the new action types in generation of items](item-gen-action-types.md#table_w4r_n4y_2wb).
+</table>**Note:** For more information on the item generation process for common controls, see [the new action types in generation of items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/item-gen-action-types.md#table_w4r_n4y_2wb).
 
 ## Roles and users for the new item generation process
 
@@ -252,5 +252,5 @@ sn\_risk.manager
 -   Modify risk statements that are added to a risk framework.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using the item generation process to generate controls and risks](../concept/item-generation-process.md)
+</table>**Parent Topic:**[Using the item generation process to generate controls and risks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/item-generation-process.md)
 

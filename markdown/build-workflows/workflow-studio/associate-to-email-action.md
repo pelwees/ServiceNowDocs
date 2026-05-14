@@ -34,7 +34,7 @@ This action updates the **Target** field on the Email \[sys\_email\] record.
 
 In the following example, a process owner adds the Associate Record to Email action under an inbound email trigger. The user has also added a Create Catalog Task action in the flow. In the **Email Record** field, the user selects to associate a record to the email that triggered the flow. In the **Target Record** field, the user selects to associate the Catalog Task \[sc\_task\] record that is created in the Create Catalog Task action.
 
-![Using the Associate to Email action](../images/associate-to-email-example.png "Using the Associate to Email action")
+![Using the Associate to Email action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/associate-to-email-example.png "Using the Associate to Email action")
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

@@ -39,7 +39,7 @@ The spoke selector application provides a common framework that enables the conf
 
 5.  In the Integration request definitions screen, select **New** in the header section.
 
-    ![Integration request definitions screen.](../image/aiagent-integration-request-definition.png)
+    ![Integration request definitions screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/aiagent-integration-request-definition.png)
 
 6.  On the form, fill in the fields.
 

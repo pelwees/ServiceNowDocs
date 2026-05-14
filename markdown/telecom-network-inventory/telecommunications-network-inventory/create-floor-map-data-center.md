@@ -50,7 +50,7 @@ Each place is marked with a title, making it easy to identify on the map. Once t
 
     To learn more, see [Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md).
 
-    To create a place type, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md). To learn about available place types, see [Data center place types](../reference/place-types-floor-map.md).
+    To create a place type, see [Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md). To learn about available place types, see [Data center place types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/place-types-floor-map.md).
 
 6.  Use the **Map Preview** to display maps and test directions that you have created.
 
@@ -67,13 +67,13 @@ A Indoor Mapping campus record is created with building and floor details.
 
 After you create your Indoor Mapping campus record, do the following to view the datacenter infrastructure in floor map.
 
-1.  [Map Indoor Mapping campus to a datacenter](map-campus-data-center.md)
-2.  [Map a Configuration Item to a floor map](map-ci-floor-map-location.md)
-3.  [Customize overlays on the floor map](customize-ovarlays-floor-map.md)
-4.  [Customize overlay time series on the floor map](customize-overlay-time-series-floor-map.md)
-5.  [View details of floor map](view-details-floor-map.md)
+1.  [Map Indoor Mapping campus to a datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/map-campus-data-center.md)
+2.  [Map a Configuration Item to a floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/map-ci-floor-map-location.md)
+3.  [Customize overlays on the floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customize-ovarlays-floor-map.md)
+4.  [Customize overlay time series on the floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customize-overlay-time-series-floor-map.md)
+5.  [View details of floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/view-details-floor-map.md)
 
-**Parent Topic:**[Floor map](../concept/using-floor-map.md)
+**Parent Topic:**[Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-floor-map.md)
 
 **Related topics**  
 

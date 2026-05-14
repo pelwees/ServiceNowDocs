@@ -170,5 +170,5 @@ Certificate Extensions \[sn\_disco\_certmgmt\_certificate\_extension\]
 Stores information for all server certificates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)
+</table>**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 

@@ -34,7 +34,7 @@ The import certificates are discovered using the Import SSL Certificate pattern,
 
 1.  Create a Discovery schedule with the following fields.
 
-    For more information on setting up your Discovery schedules, see [Schedule a horizontal discovery](t_CreateADiscoverySchedule.md#).
+    For more information on setting up your Discovery schedules, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md#).
 
     1.  Select **Discovery**: **Import Certificates**
 

@@ -116,10 +116,10 @@ Approval trigger conditions
 Conditions based on the approving object that determine the conditions under which an approval plan is created.See the following image to understand the approval trigger conditions you need to configure.
 
 </td></tr></tbody>
-</table>    ![Approval Rule form for creating a approval rule for a delegate.](../image/config-approval-delegate.png)
+</table>    ![Approval Rule form for creating a approval rule for a delegate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/config-approval-delegate.png)
 
 3.  Select **Submit**.
 
 
-**Parent Topic:**[Configure delegate for a shopper](configure-delegate-for-a-shopper.md)
+**Parent Topic:**[Configure delegate for a shopper](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-delegate-for-a-shopper.md)
 

@@ -29,14 +29,14 @@ For details on the transform maps, navigate to **System Import Sets** &gt; **Adm
 |Workday Learning Collection Courses|Maps the Workday Learning Collection from the Staging \[sn\_lrn\_workday\_collection\_staging\] to the Collection \[sn\_lc\_collection\] table.|
 |Workday Learning Program Courses|Maps learning program courses from the Staging \[sn\_lrn\_workday\_program\_courses\] to the Collection Course Item \[sn\_lc\_m2m\_collection\_course\_item\] table.|
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](using-workday-learning-intg.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-workday-learning-intg.md)
 
 **Related topics**  
 
 
-[View user activity for Workday Learning](../task/sync-user-actitvity-wdl-intg.md)
+[View user activity for Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/sync-user-actitvity-wdl-intg.md)
 
-[View track approval for Workday Learning](../task/track-approval-adl-intg.md)
+[View track approval for Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/track-approval-adl-intg.md)
 
-[Import set tables in HR Service Delivery Integration with Workday Learning](import-set-tables.md)
+[Import set tables in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/import-set-tables.md)
 

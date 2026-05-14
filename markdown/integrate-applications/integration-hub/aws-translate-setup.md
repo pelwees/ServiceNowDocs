@@ -39,7 +39,7 @@ Create an access key for the required user in the AWS Management Console to auth
 
 5.  Under **Access keys**, click **Create access key**.
 
-    ![Create access key.](../image/aws-access-key.png)
+    ![Create access key.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/aws-access-key.png)
 
     The access key is created.
 

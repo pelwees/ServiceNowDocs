@@ -36,7 +36,7 @@ Role required: admin
     1.  Navigate to **All** &gt; **System Definition** &gt; **Tables**.
     2.  Filter the name field to locate and open the **sn\_plng\_att\_core\_resource\_assignment** table for resource assignments.
     3.  Select the **Show List** related link.
-    4.  Select the **Personalize List** \(![Gear icon to personalize the list view.](../../alignment-planner-workspace/images/personalize-icon-product-idea.png)\) icon.
+    4.  Select the **Personalize List** \(![Gear icon to personalize the list view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../alignment-planner-workspace/images/personalize-icon-product-idea.png)\) icon.
     5.  In the Personalize List Column, add **Expense type** from the Available list to the Selected list.
     6.  Select OK.
 
@@ -44,5 +44,5 @@ Role required: admin
 
 **Expense type** field is enabled on resource assignments for the projects and demands. You can expense different expense types to record different work types such as Capex or OpEx.
 
-**Parent Topic:**[Configure financials for Project Workspace](../concept/config-fin-pws.md)
+**Parent Topic:**[Configure financials for Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/config-fin-pws.md)
 

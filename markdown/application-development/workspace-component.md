@@ -34,5 +34,5 @@ Once deployed to your instance, you can add components to Workspace in these way
     You can add custom or standard components to the component area in the Workspace record view.
 
 
-**Parent Topic:**[Create custom components using ServiceNow CLI](custom-components.md)
+**Parent Topic:**[Create custom components using ServiceNow CLI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/custom-components.md)
 

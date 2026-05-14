@@ -17,13 +17,13 @@ The SC Categories widget displays Service Catalog categories. You can use this b
 
 The system renders the categories available in this widget from the Categories table in Service Catalog \[sc\_category\].
 
-![Screenshot for the SC Categories widget](../../../product/service-catalog-management/image/CategoryWidget.png "SC Categories widget")
+![Screenshot for the SC Categories widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../product/service-catalog-management/image/CategoryWidget.png "SC Categories widget")
 
 If you associate your portal with multiple catalogs, then the SC Categories widget also includes a menu to select which catalog to browse.
 
-![Menu to select a catalog](../../../product/service-catalog-management/image/sc-categories-menu.png)
+![Menu to select a catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../../../product/service-catalog-management/image/sc-categories-menu.png)
 
-For more information on associating your portal with catalogs, see [Configure a catalog in Service Portal](../task/associate-portal-catalog.md).
+For more information on associating your portal with catalogs, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/associate-portal-catalog.md).
 
 ## Instance options
 
@@ -73,7 +73,7 @@ Category Layout
 
 </td><td>
 
-Select a flat or nested layout. A flat layout shows all of the available categories. A nested layout shows only the parent categories. Use a nested layout if you have a large number of categories to prevent an unnecessarily long list. Click ![Plus sign icon](../image/Expand.png) that appears next to a category with nested topics to expand the sub-categories.The widget only supports three levels of nesting. After level four, categories appear in the flat view.
+Select a flat or nested layout. A flat layout shows all of the available categories. A nested layout shows only the parent categories. Use a nested layout if you have a large number of categories to prevent an unnecessarily long list. Click ![Plus sign icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/Expand.png) that appears next to a category with nested topics to expand the sub-categories.The widget only supports three levels of nesting. After level four, categories appear in the flat view.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -110,48 +110,48 @@ Verifies with each item that the user has the right roles to view the catalog it
 -   Omit badges: True
 -   Check canView per item: False
 
-**Parent Topic:**[Service Catalog widgets](sc-widgets.md)
+**Parent Topic:**[Service Catalog widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-widgets.md)
 
 **Related topics**  
 
 
-[Catalog Content widget](catalog-content-widget.md)
+[Catalog Content widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/catalog-content-widget.md)
 
-[Catalog Homepage Search widget](cat-homepage-search-widget.md)
+[Catalog Homepage Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/cat-homepage-search-widget.md)
 
-[Recent &amp; Popular Items widget](recent-and-popular-items-widget.md)
+[Recent &amp; Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/recent-and-popular-items-widget.md)
 
-[Request Fields widget](request-fields-widget.md)
+[Request Fields widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/request-fields-widget.md)
 
-[Requested Items widget](requested-items-widget.md)
+[Requested Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requested-items-widget.md)
 
-[Requests and Approvals widget](requests-and-approvals-widget.md)
+[Requests and Approvals widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requests-and-approvals-widget.md)
 
-[SC Catalog Item widget](sc-catalog-item-widget.md)
+[SC Catalog Item widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-catalog-item-widget.md)
 
-[SC Category Page widget](sc-category-page-widget.md)
+[SC Category Page widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-category-page-widget.md)
 
-[SC Order Guide widget](sc-order-guide-widget.md)
+[SC Order Guide widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-order-guide-widget.md)
 
-[SC Popular Items widget](sc-popular-items.md)
+[SC Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-popular-items.md)
 
-[SC Save Bundles widget](save-bundles-widget.md)
+[SC Save Bundles widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/save-bundles-widget.md)
 
-[SC Saved Carts widget](saved-cart-widget.md)
+[SC Saved Carts widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/saved-cart-widget.md)
 
-[SC Scroll to top widget](sc-scroll-to-top.md)
+[SC Scroll to top widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-scroll-to-top.md)
 
-[SC Shopping Cart widget](sc-shopping-cart.md)
+[SC Shopping Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-shopping-cart.md)
 
-[SP Variable Editor widget](variable-editor-widget.md)
+[SP Variable Editor widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/variable-editor-widget.md)
 
-[SC Wish List Cart widget](sc-wish-list.md)
+[SC Wish List Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 
 [Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)
 

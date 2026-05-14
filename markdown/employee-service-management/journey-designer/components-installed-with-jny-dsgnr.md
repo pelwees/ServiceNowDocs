@@ -285,5 +285,5 @@ Not Available For \[sn\_jny\_m2m\_journey\_config\_user\_criteria\_no\]
 List users that met the criteria not to be added to a recommended course.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Journey designer reference](jny-dsnr-reference.md)
+</table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 

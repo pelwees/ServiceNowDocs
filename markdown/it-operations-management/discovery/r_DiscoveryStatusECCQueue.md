@@ -41,7 +41,7 @@ You can access the ECC queue from either of these locations:
 
 The following image is an example of a record in the ECC queue. This record shows that a ConnectorProbe was instructed to run and has been processed. Note the XML payload it returned as the discovery task collected data. See [The MID Server ECC queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/ecc-queue-mid-server.md) for a description of each field.
 
-![An example ECC Queue](../image/ECCQueue.png "An example ECC queue record")
+![An example ECC Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/ECCQueue.png "An example ECC queue record")
 
 ## ECC queue states
 
@@ -84,7 +84,7 @@ Save ECC queue attachments
 The normal behavior for Discovery sensors is to delete attachments to ECC queue entries on successful sensor processing. Enabling this property overrides this behavior, and forces attachments to be preserved. This is typically done for debugging purposes.To enable this property, navigate to **Discovery Definition** &gt; **Properties**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Discovery status](../concept/c_DiscoveryStatus.md)
+</table>**Parent Topic:**[Discovery status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryStatus.md)
 
 **Related topics**  
 

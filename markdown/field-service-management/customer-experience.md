@@ -19,12 +19,12 @@ The Customer Experience feature provides transparent communication and constant 
 
 After the agent completes the work, send customers a survey link to gather feedback on the work.
 
-![Smartphone with SMS notifications about a work order task.](../image/SMS-now-mobile.png)
+![Smartphone with SMS notifications about a work order task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/SMS-now-mobile.png)
 
 **Related topics**  
 
 
-[Activate Field Service Management Customer Experience](Configuring-cust-exp.md#)
+[Activate Field Service Management Customer Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/Configuring-cust-exp.md#)
 
-[Customer or Consumer Service Portal](use-customer-experience.md)
+[Customer or Consumer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/use-customer-experience.md)
 

@@ -23,7 +23,7 @@ The following figures are examples of the default mapping grids that are provide
 
 Select the **Alert Name**, and after you select **Fetch Sample Data**, the Splunk alert field values are populated on the left side of the form when sample alerts are ingested by the profile. These are the Splunk alert fields that you map to the SIR security incident fields.
 
-![Default mapping form for alerts.](../image/splunk-event-ingestion-alerts-mapping-fetch.png "Default mapping form for alerts")
+![Default mapping form for alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk-event-ingestion-alerts-mapping-fetch.png "Default mapping form for alerts")
 
 After you select to load attachment data for forwarded events, the Splunk event fields are populated on the left side of the form. These are the Splunk data fields that are mapped to the SIR security incident fields.
 
@@ -43,15 +43,15 @@ Mapping alerts and exporting events on-demand from your Splunk enterprise consol
 
 After creating a scheduled alert profile, the process flow for the configuration is shown in the following figure.
 
-![Process flow for scheduled alert.](../image/splunk_alert_flow.png "Process flow for scheduled alert profiles")
+![Process flow for scheduled alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_alert_flow.png "Process flow for scheduled alert profiles")
 
 ## Manual Event forwarding profiles
 
 After creating a profile for an event, the process flow for the configuration is shown in the following figure.
 
-![Process flow for event export.](../image/splunk_event_flow.png "Process flow for event profiles")
+![Process flow for event export.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/splunk_event_flow.png "Process flow for event profiles")
 
 The next step is to ingest triggered alerts or export data and map values to the SIR security incident fields.
 
-**Parent Topic:**[Create and name an event profile](../task/splunk-event-ingest-create-profile.md)
+**Parent Topic:**[Create and name an event profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/splunk-event-ingest-create-profile.md)
 

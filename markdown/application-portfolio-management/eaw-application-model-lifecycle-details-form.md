@@ -107,12 +107,12 @@ Active
 Option to activate the life cycle.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add business application lifecycle data using the bubble chart](../../task/eaw-task/eaw-add-business-application-lifecycle-data.md)
+[Add business application lifecycle data using the bubble chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-business-application-lifecycle-data.md)
 
-[Add business application lifecycle data using the list view](../../task/eaw-task/eaw-add-business-application-lifecycle-data-listview.md)
+[Add business application lifecycle data using the list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-business-application-lifecycle-data-listview.md)
 

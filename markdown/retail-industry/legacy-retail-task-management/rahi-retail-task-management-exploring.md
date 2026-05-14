@@ -38,7 +38,7 @@ By using the Retail Task Management application, retail organizations can:
 
 ## Retail Task Management workflow
 
-![Retail Task Management workflow.](../image/rtmc-workflow.png)
+![Retail Task Management workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/../image/rtmc-workflow.png)
 
 1.  A Retail Task Management administrator configures the application.
 2.  An HQ manager creates a multi-location case with case details and selects the stores that must complete the case.
@@ -50,14 +50,14 @@ By using the Retail Task Management application, retail organizations can:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Use the multi-store case generator to assign work from HQ to multiple retail locations simultaneously. View and track these cases in the retail portal alongside other requests, monitoring completion status across all assigned locations.|[Retail multi-store case](rahi-retail-multistore-case.md)|HQ Manager, Store Manager, Store Associate|
+|Use the multi-store case generator to assign work from HQ to multiple retail locations simultaneously. View and track these cases in the retail portal alongside other requests, monitoring completion status across all assigned locations.|[Retail multi-store case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-multistore-case.md)|HQ Manager, Store Manager, Store Associate|
 
 ## What to explore next
 
 To learn more about configuring and using Retail Task Management Core, see:
 
--   [Exploring Retail Task Management](rahi-retail-task-management-exploring.md)
--   [Configuring Retail Task Management](rahi-retail-task-management-configuring.md)
--   [Create multi-store cases in Retail Task Management Core](rahi-retail-create-multi-store.md)
--   [Retail Task Management reference](rahi-retail-task-management-reference.md)
+-   [Exploring Retail Task Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-exploring.md)
+-   [Configuring Retail Task Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-configuring.md)
+-   [Create multi-store cases in Retail Task Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-multi-store.md)
+-   [Retail Task Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-reference.md)
 

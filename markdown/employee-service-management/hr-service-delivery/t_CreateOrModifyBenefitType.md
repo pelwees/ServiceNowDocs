@@ -103,5 +103,5 @@ Check to indicate that this benefit type requires beneficiaries to be entered wh
 9.  Click **Update**.
 
 
-**Parent Topic:**[Managed lists](../concept/c_ManagedLists.md)
+**Parent Topic:**[Managed lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_ManagedLists.md)
 

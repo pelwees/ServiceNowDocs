@@ -60,18 +60,18 @@ Role required: admin
 
 When the solution is complete, the related knowledge articles appear in the Knowledge results section on the Knowledge form in the ServiceNow AI Platform, in the Related Articles section on the knowledge article view page in the Knowledge Management Service Portal, and in Agent assist when the **Similar Articles \(ML\)** option is selected.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Predictive Intelligence for Knowledge Management](../concept/predictive-intelligence-for-km.md)
+[Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/predictive-intelligence-for-km.md)
 
-[Knowledge Management Service Portal article view page features](../concept/knowledge-service-portal-view.md)
+[Knowledge Management Service Portal article view page features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-service-portal-view.md)
 
-[Create a knowledge article](create-knowledge-article.md)
+[Create a knowledge article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md)
 
-[Create a knowledge article in Agent Workspace](create-article-workspace.md)
+[Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-workspace.md)
 
-[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+[Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/mobile-experience-for-km.md)
 

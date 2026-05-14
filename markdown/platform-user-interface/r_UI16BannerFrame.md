@@ -15,7 +15,7 @@ You can define system settings to customize the Core UI for yourself. The gear i
 
 The system settings are organized by tab.
 
-**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [Next Experience preferences](../../../get-started/servicenow-overview/concept/set-up-preferences-next-experience.md).
+**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [Next Experience preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/concept/set-up-preferences-next-experience.md).
 
 <table id="table_kj4_twh_fr"><thead><tr><th>
 
@@ -75,7 +75,7 @@ Keyboard shortcuts enabled
 
 </td><td>
 
-Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [Core UI keyboard shortcuts](../../../use/navigation/reference/r_KeyboardShortcuts.md).
+Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/reference/r_KeyboardShortcuts.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Language
 
 </td><td>
 
-Select a language or return to the default language \(![Return to default language](../image/IconUI16Reset.png)\). This setting is available if a language plugin has been activated. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
+Select a language or return to the default language \(![Return to default language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI16Reset.png)\). This setting is available if a language plugin has been activated. For more information, see [Activate a language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Time zone
 
 </td><td>
 
-Select a time zone or return to the default time zone \(![Return to default time zone](../image/IconUI16Reset.png)\) for the current session. Upon the next login, the time zone setting reverts to the system default, or user profile setting for time zone.
+Select a time zone or return to the default time zone \(![Return to default time zone](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI16Reset.png)\) for the current session. Upon the next login, the time zone setting reverts to the system default, or user profile setting for time zone.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Places a domain picker in the banner frame, next to the user menu, when this set
 
 </td></tr><tr><td>
 
-Printer friendly version \(![Printer friendly version icon](../image/IconUI15Print.png)\)
+Printer friendly version \(![Printer friendly version icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI15Print.png)\)
 
 </td><td>
 
@@ -184,7 +184,7 @@ Related list loading
 
 </td><td>
 
-Determines when related lists load on forms. For more information, see [Configure when a related list loads](../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md).
+Determines when related lists load on forms. For more information, see [Configure when a related list loads](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-forms/task/t_ConfigureWhenARelatedListLoads.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -242,7 +242,7 @@ Application
 
 </td><td>
 
-\(Administrators only\) Provides a link to the application picker, the Applications list \(![Link to the Applications list](../image/IconUI16ApplicationsList.png)\), and the currently selected application \(![Link to the currently selected application](../image/IconUI16Information.png)\).
+\(Administrators only\) Provides a link to the application picker, the Applications list \(![Link to the Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI16ApplicationsList.png)\), and the currently selected application \(![Link to the currently selected application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconUI16Information.png)\).
 
 </td></tr><tr><td>
 
@@ -285,7 +285,7 @@ Automated Test Framework Page Inspector
 Places the inspect icon in the banner frame when this setting is enabled. Enables page developers and test designers to identify page components on customized user interfaces available for custom UI testing in the Automated Test Framework.
 
 </td></tr></tbody>
-</table>![System Settings window](../image/UI16SystemMenu.png "System Settings window, General tab")
+</table>![System Settings window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/UI16SystemMenu.png "System Settings window, General tab")
 
-**Parent Topic:**[Core UI](../concept/c_UI16.md)
+**Parent Topic:**[Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UI16.md)
 

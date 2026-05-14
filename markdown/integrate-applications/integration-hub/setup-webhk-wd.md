@@ -17,7 +17,7 @@ Set up a webhook to get the data from the Workday Financials application to your
 
 ## Before you begin
 
--   [Set up the Workday Financials spoke](setup-workday-fin-spoke.md#)
+-   [Set up the Workday Financials spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-workday-fin-spoke.md#)
 -   Role required: admin
 
 ## Generate user name and password in your ServiceNow instance
@@ -85,7 +85,7 @@ Import CLAR file available at ServiceNow Store to set up webhooks and authentica
     -   Create custom report in Workday based on the Purchase\_order\_report structure and share the report with ISU user.
     -   Ensure that you select all companies in company prompt in report.
 
-        ![Prompt instructions](../image/prompt-instructions-wd-fin.png)
+        ![Prompt instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/prompt-instructions-wd-fin.png)
 
 -   Access to edit business process definition.
 -   Access to create and edit integration system.
@@ -103,25 +103,25 @@ Import CLAR file available at ServiceNow Store to set up webhooks and authentica
 
 4.  In the **Properties** tab of the **StartHere** component, navigate to **Services** and select the RAAS report created for this webhook.
 
-    ![Configure the StartHere properties](../image/conf-starthere-wd-fin.png)
+    ![Configure the StartHere properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conf-starthere-wd-fin.png)
 
 5.  Choose the environment where your report exists such as, implementation or sandbox, and configure the report as per your requirement.
 
 6.  Provide a report name and select the required report.
 
-    ![Provide purchase order name](../image/provide-purchase-order-wd-fin.png)
+    ![Provide purchase order name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/provide-purchase-order-wd-fin.png)
 
 7.  Provide the alias name of the report.
 
-    ![Alias](../image/alias-box-wd-fin.png)
+    ![Alias](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/alias-box-wd-fin.png)
 
 8.  After the report alias is added, add the selected path of report in **Extra Path** that is used to run the report based on prompt.
 
-    ![Extra Path](../image/extra-path-wd-fin.png)
+    ![Extra Path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/extra-path-wd-fin.png)
 
 9.  In the **Set Headers** component, provide your Workday instance for the **WorkdayInstance** header.
 
-    ![Set headers](../image/set-headers-wd-fin.png)
+    ![Set headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/set-headers-wd-fin.png)
 
 10. In the properties of **HttpOut**, fill in these values.
 
@@ -139,7 +139,7 @@ Endpoint
 
 </td><td>
 
-REST endpoint**Note:** See [Retrieve the resource path from your ServiceNow instance](setup-webhk-wd.md#) for more information.
+REST endpoint**Note:** See [Retrieve the resource path from your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhk-wd.md#) for more information.
 
 </td></tr><tr><td>
 
@@ -150,7 +150,7 @@ Http Method
 POST
 
 </td></tr></tbody>
-</table>    ![Configure the HttpOut properties](../image/httpout-properties-wd.png)
+</table>    ![Configure the HttpOut properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/httpout-properties-wd.png)
 
 11. Save the changes.
 
@@ -158,11 +158,11 @@ POST
 
 13. Log in to your Workday instance and navigate to **Integration** &gt; **Integration System** &gt; **Configure Integration Attributes**.
 
-    ![Configure integration attributes](../image/conf-int-attributes-wd-fin.png)
+    ![Configure integration attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conf-int-attributes-wd-fin.png)
 
-14. Provide user name and password in **Configure Integration Attributes** that you have generated in [Generate user name and password in your ServiceNow instance](setup-webhk-wd.md#).
+14. Provide user name and password in **Configure Integration Attributes** that you have generated in [Generate user name and password in your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-webhk-wd.md#).
 
-    ![Configure username and password](../image/username-password-wd.png)
+    ![Configure username and password](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/username-password-wd.png)
 
 15. Modify a business process and add this integration in your business process.
 
@@ -172,7 +172,7 @@ POST
 
         If within one customer environment there are more than one purchase order business processes, all the business processes should be configured to enable this webhook for all purchase orders
 
-        ![Edit definition](../image/edit-definition-fin.png)
+        ![Edit definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/edit-definition-fin.png)
 
     3.  Select the effective date and click **Ok**.
 
@@ -182,23 +182,23 @@ POST
 
     6.  Select **Type** as **Integration**.
 
-        ![Select integration type](../image/integration-type-fin.png)
+        ![Select integration type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/integration-type-fin.png)
 
     7.  Provide ISU username in **Run as User** and click **Ok**.
 
     8.  Click **Configure Integration** on the newly added business process step in hire BP.
 
-        ![Configure integration button](../image/conf-int-button-fin.png)
+        ![Configure integration button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/conf-int-button-fin.png)
 
     9.  On the Configuration Integration Step page, click **Ok**.
 
     10. In integration criteria, select value type as **Determine value at runtime** and select value as **PO Number**.
 
-        ![Determine value at runtime](../image/determine-value-runtime-wd-fin.png)
+        ![Determine value at runtime](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/determine-value-runtime-wd-fin.png)
 
         Selected **PO Number** should be as shown below.
 
-        ![Employee ID field](../image/emp-id-fin.png)
+        ![Employee ID field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/emp-id-fin.png)
 
     11. Click **Ok**.
 
@@ -206,18 +206,18 @@ POST
 
         Purchase Order report definition:
 
-        ![Purchase Order report definition](../image/po-report-wd-fin.png)
+        ![Purchase Order report definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/po-report-wd-fin.png)
 
         Column labels:
 
-        ![Column labels](../image/col-names-wd-fin.png)
+        ![Column labels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/col-names-wd-fin.png)
 
         Filter:
 
-        ![Filter](../image/filter-wd-fin.png)
+        ![Filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/filter-wd-fin.png)
 
         Prompt default:
 
-        ![Prompt defaults](../image/prompt-defaults-wd-fin.png)
+        ![Prompt defaults](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/prompt-defaults-wd-fin.png)
 
 

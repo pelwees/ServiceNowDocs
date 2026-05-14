@@ -19,7 +19,7 @@ For more information about Virtual Agent, see [Virtual Agent](https://raw.github
 
 ## Predefined Virtual Agent topics for Workplace Service Delivery
 
-As an employee, you can use the Virtual Agent chat support available in the Workplace Service Portal to request workplace services or know the status of any requested service. You can select the chat icon \(![Chat icon.](../../wsd-reservation-management/image/chat-icon.png)\) displayed at the bottom-right of the portal to start a conversation with the Virtual Agent.
+As an employee, you can use the Virtual Agent chat support available in the Workplace Service Portal to request workplace services or know the status of any requested service. You can select the chat icon \(![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../wsd-reservation-management/image/chat-icon.png)\) displayed at the bottom-right of the portal to start a conversation with the Virtual Agent.
 
 The Workplace Service Delivery Virtual Agent enables you to raise requests and view updates related to reservations, visitor registrations, and workplace service requests. The following predefined topics are available in the Workplace Service Delivery Virtual Agent chatbot:
 
@@ -45,14 +45,14 @@ To activate Virtual agent for Workplace Service Delivery, activate the following
 1.  Activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) that provides the Virtual Agent framework.
 2.  Activate the Workplace Core plugin \(sn\_wsd\_core\).
 
-For more information, refer to [Activate Virtual Agent for Workplace Service Delivery](../task/actuvate-va-for-wsd.md).
+For more information, refer to [Activate Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../task/actuvate-va-for-wsd.md).
 
-**Parent Topic:**[Explore Workplace Core](workplace-service-delivery-overview.md)
+**Parent Topic:**[Explore Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-service-delivery-overview.md)
 
 **Related topics**  
 
 
-[Workplace Service Portal](workplace-services-portal-wsd.md)
+[Workplace Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-portal-wsd.md)
 
-[Workplace services on the Employee Center portal](workplace-services-on-employee-center.md)
+[Workplace services on the Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-on-employee-center.md)
 

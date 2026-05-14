@@ -86,12 +86,12 @@ Activate the applications in the following order:
 
 **Note:** Form Data Collector is activated as part of Now Assist for FSO.
 
-**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\) reference](now-assist-for-fso-reference.md)
+**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-fso-reference.md)
 
 **Related topics**  
 
 
-[Configure case summarization in Now Assist for Financial Services Operations \(FSO\)](../task/configure-now-assist-for-fso.md)
+[Configure case summarization in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../task/configure-now-assist-for-fso.md)
 
-[Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)](../../fso-now-assist/task/configuring-disputes-intake-via-virtual-agent.md)
+[Configure Disputes intake via Virtual Agent in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-now-assist/task/configuring-disputes-intake-via-virtual-agent.md)
 

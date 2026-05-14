@@ -17,23 +17,23 @@ The alert **Overview** tab in Health Log Analytics helps you understand Componen
 
 ## Sections on the Overview tab for a Component-based alert
 
-For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](hla-op-log-analytics-alert-types.md).
+For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-analytics-alert-types.md).
 
 -   **Identified issue**
 
     The "identified issue" led to the alert. The issue appears in the title for the alert and on a card on the tab. Information about the alert appears in the banner.
 
-    ![Identified issue appears here and in alert title](../image/identified-issue-card-comp-based.png "Identified issue")
+    ![Identified issue appears here and in alert title](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/identified-issue-card-comp-based.png "Identified issue")
 
     -   Select **Details** for more information about the alert.
-    -   Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](../task/hla-op-surrounding-logs-view-sow.md).
+    -   Select **View surrounding logs** to view the log lines that were generated one minute before and one minute after the alert. See [Analyze log lines that surround an anomaly in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/hla-op-surrounding-logs-view-sow.md).
 -   **Configuration Items**
 
-    To view more detailed information on the CIs that are associated with the alert, select the **Configuration Items** tab or select **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view more detailed information on the CIs that are associated with the alert, select the **Configuration Items** tab or select **View more** in the Configuration Items section. See [Operator phase 1: Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
 
 -   **Impacted services**
 
-    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
+    To view detailed information on the services that are impacted by the alerts, select the **Impacted services** tab. See [Operator phase 1: Analyze and acknowledge an alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../event-management-operator/task/operator-phase-acknowledge-analyze.md).
 
 -   **Anomaly**
 
@@ -45,32 +45,32 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
     -   Baseline values from the previous week
     In this example, the system tracks the baseline rate \(the average number of events per minute\) for a specific log pattern. When this typically inactive log generates a spike in events, the system detects the deviation from the baseline and generates an alert.
 
-    ![Anomaly card identifies and illustrates anomalous behavior.](../image/anomaly-spike.png "Anomaly card")
+    ![Anomaly card identifies and illustrates anomalous behavior.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/anomaly-spike.png "Anomaly card")
 
     In this example, the blue line represents the current average number of events per minute. The orange-shaded area represents the baseline values for the same hour in the previous week.
 
-    ![Baseline values for same hour in previous week.](../image/anomaly-week-earlier.png "Anomaly card with baseline values one week earlier")
+    ![Baseline values for same hour in previous week.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/anomaly-week-earlier.png "Anomaly card with baseline values one week earlier")
 
-    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](hla-op-anomalous-behavior-types.md).
+    For more information on the kinds of anomalies that you might encounter, see [Types of anomalous behavior in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-anomalous-behavior-types.md).
 
 -   **Meaningful log properties**
 
     On the Meaningful log properties card, each bar chart shows the distribution of values for a single log property that contributed to the anomaly. Each property value is associated with a color. The length of a color bar correlates to the percentage that the property value holds in comparison with all other values for the property. For the **p\_a5** property in the example, the value **EUR** appeared in 56.12% of log lines, **GBP** in 13.67%, and so on.
 
-    ![Meaningful log properties shows the relative frequency of occurrence for property values.](../image/meaningful-log-properties-card.png "Meaningful log properties")
+    ![Meaningful log properties shows the relative frequency of occurrence for property values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/meaningful-log-properties-card.png "Meaningful log properties")
 
 -   **Top alerts**
 
-    The Top alerts card displays summaries of data from the **Similar alerts** and **Repeated alerts** tabs. The Total results value is the sum of the two values. select **More details** to open the **Alert Insight Similar Alerts** tab. For details, see [Information on the Alert Insight Similar Alerts tab](hla-op-alrt-inst-simlr-alrts-tab.md).
+    The Top alerts card displays summaries of data from the **Similar alerts** and **Repeated alerts** tabs. The Total results value is the sum of the two values. select **More details** to open the **Alert Insight Similar Alerts** tab. For details, see [Information on the Alert Insight Similar Alerts tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alrt-inst-simlr-alrts-tab.md).
 
-    ![Top alerts shows counts of total, similar, and repeated alerts.](../image/top-alerts-card.png "Top alerts")
+    ![Top alerts shows counts of total, similar, and repeated alerts.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/top-alerts-card.png "Top alerts")
 
 -   **Top incidents**
 
     The Top incidents card displays summaries of data from the **Incidents on CI** and **Incidents on related CIs** tabs. The Total results value is the sum of the two values. select **More details** to open the **Incidents on CI** tab.
 
-    ![Top incidents shows counts of total results, incidents on CI, and incidents on related CIs.](../image/top-incidents-card.png "Top incidents")
+    ![Top incidents shows counts of total results, incidents on CI, and incidents on related CIs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/top-incidents-card.png "Top incidents")
 
 
-**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](../../health-log-analytics-admin/concept/hla-alert-overview-tab.md)
+**Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../health-log-analytics-admin/concept/hla-alert-overview-tab.md)
 

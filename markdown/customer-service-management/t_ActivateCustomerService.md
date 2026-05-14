@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-If the related plugins aren’t already active, the Customer Service Management plugin activates them. For more information, see [Plugins activated with Customer Service Management](../reference/plugins-activated-with-csm.md).
+If the related plugins aren’t already active, the Customer Service Management plugin activates them. For more information, see [Plugins activated with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/plugins-activated-with-csm.md).
 
 ## Procedure
 
@@ -38,7 +38,7 @@ If the related plugins aren’t already active, the Customer Service Management 
 
 ## What to do next
 
-You can activate several related plugins after activating the Customer Service Management plugin \(com.sn\_customerservice\). For details, see [Additional plugins for Customer Service Management](../reference/r_CustServMgmtAddtlPluginsTable.md).
+You can activate several related plugins after activating the Customer Service Management plugin \(com.sn\_customerservice\). For details, see [Additional plugins for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_CustServMgmtAddtlPluginsTable.md).
 
-**Parent Topic:**[Customer Service Management](../concept/c_CustomerServiceManagement.md)
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/c_CustomerServiceManagement.md)
 

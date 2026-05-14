@@ -17,7 +17,7 @@ Automate a multi-step process by creating a workflow from an SLA definition.
 
 ## Before you begin
 
--   If you’re designing the workflow as part of an update set process, see [Workflow movement with update sets](../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
+-   If you’re designing the workflow as part of an update set process, see [Workflow movement with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
 
 ## Procedure
 
@@ -25,7 +25,7 @@ Automate a multi-step process by creating a workflow from an SLA definition.
 
     For example **Facilities &gt; SLA Definitions** or **Service Level Management &gt; SLA Definitions**.
 
-2.  At the top of the form, next to **SLA Definitions**, click the new icon \(![New icon.](../image/NewCatalogItemButton.png)\).
+2.  At the top of the form, next to **SLA Definitions**, click the new icon \(![New icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/NewCatalogItemButton.png)\).
 
 3.  Select **Contract SLA** or **Service Offering SLA**.
 
@@ -33,7 +33,7 @@ Automate a multi-step process by creating a workflow from an SLA definition.
 
 5.  Next to **Workflow** at the top, click **New**.
 
-    ![Create a workflow from an SLA definition.](../../workflow/image/CreateWorkflowFromSLADefinition.png)
+    ![Create a workflow from an SLA definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow/image/CreateWorkflowFromSLADefinition.png)
 
     The Workflow Version dialog shows in the New Workflow view. The **Table** field is set to **SLA Definition \(contract\_sla\)** or **Service Offering SLA \(service\_offering\_sla\)** and is read-only.
 
@@ -47,16 +47,16 @@ Automate a multi-step process by creating a workflow from an SLA definition.
 
     The new workflow is created with the **Begin** and **End** activities connected by a single transition.
 
-    ![New workflow.](../image/WorkflowNew.png)
+    ![New workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowNew.png)
 
 10. Finish creating the workflow by adding activities, validating, and publishing so the workflow is available to other users.
 
-    For more information, see [Work on workflows](work-on-workflows.md#).
+    For more information, see [Work on workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/work-on-workflows.md#).
 
-11. \[Optional\] Change the advanced settings for the workflow by clicking the properties icon \(![Properties icon.](../../workflow/image/PropIcon.png)\).
+11. \[Optional\] Change the advanced settings for the workflow by clicking the properties icon \(![Properties icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow/image/PropIcon.png)\).
 
     If you make changes, click **Update**.
 
 
-**Parent Topic:**[Create a workflow](t_CreateAWorkflow.md)
+**Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md)
 

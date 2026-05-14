@@ -25,7 +25,7 @@ Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 
 2.  From the My Apps page, open your application.
 
-3.  Next to the Data heading, select the Add icon \(![Add icon](../image/plus-icon.png)\).
+3.  Next to the Data heading, select the Add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/plus-icon.png)\).
 
 4.  Select **Create a blank table**, and then select **Continue**.
 
@@ -88,7 +88,7 @@ Make extensible
 
 </td><td>
 
-Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](../concept/add-data.md#section_ebj_sdb_d5b).
+Option to allow other tables to share data from this table. For more information on table extension, see [Table extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-data.md#section_ebj_sdb_d5b).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
 8.  Control who has access to create, read, write, and delete content from this table by adding new roles and/or defining the desired Create, Read, Write, Delete permissions for existing roles.
 
-    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](../concept/add-security.md) for more information on how security permissions work.
+    Roles that you create in the table persist throughout the application and can be further defined in other tables you add. See [Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md) for more information on how security permissions work.
 
     **Note:** At least one role must have read access for you to be able to preview the table.
 
@@ -141,7 +141,7 @@ Maximum number of digits to allow in the record number. This value determines th
 
     Each table column appears as a row in Table Builder.
 
-    A lock icon \(![Lock icon](../image/lock-icon.png)\) appears next to columns from the extended table. You can't modify these columns.
+    A lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/lock-icon.png)\) appears next to columns from the extended table. You can't modify these columns.
 
 12. Customize your table by adding table columns.
 
@@ -225,7 +225,7 @@ Option to set the column as the display value for the table. A reference field s
 
 ## What to do next
 
-For more information on Table Builder, see [Table Builder](../../../administer/form-builder/concept/tb-landing-page.md).
+For more information on Table Builder, see [Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../administer/form-builder/concept/tb-landing-page.md).
 
-**Parent Topic:**[Create a data model for your application](../concept/add-data.md)
+**Parent Topic:**[Create a data model for your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-data.md)
 

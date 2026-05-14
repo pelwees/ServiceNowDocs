@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Select **Update**.
 
-    ![Notification selection](../image/notification-category-selection1.png)![Notifications by category](../image/notification-category-selections2.png)
+    ![Notification selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/notification-category-selection1.png)![Notifications by category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/notification-category-selections2.png)
 
     The user can enable or disable notifications by category. The categories shown in the notification preferences screen are defined in the **Notifications** \[sysevent\_email\_action\] table. The screen to the left shows all the reference categories defined on this table. The screen to the right shows the record matching the selected category.
 

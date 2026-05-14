@@ -47,5 +47,5 @@ Use this procedure to assign groups to roles for products configured in the Secu
 
 The group count updates automatically when the modal is closed. Only groups explicitly assigned to the role through this interface are displayed and managed here.
 
-**Parent Topic:**[Configure users and groups in Security Exposure Management Workspace](sem-configure-users-groups-overview.md)
+**Parent Topic:**[Configure users and groups in Security Exposure Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-users-groups-overview.md)
 

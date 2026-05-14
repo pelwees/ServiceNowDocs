@@ -19,5 +19,5 @@ The IT Service Management topics leverage the latest platform Dialog Acts enhanc
 
 For more information about Dialog Acts enhancements on the ServiceNow AI Platform, see [Dialog Acts for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/c_dialog-acts.md).
 
-**Parent Topic:**[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)
+**Parent Topic:**[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setting-up-itsm-va.md)
 

@@ -45,7 +45,7 @@ To enable the connector to access your Microsoft Viva Engage source system via t
 
     3.  On the App registrations page, select **New registration**.
 
-        ![App registrations page in Microsoft Entra admin center with New registration link.](../image/ms-entra-home-app-registrations.png)
+        ![App registrations page in Microsoft Entra admin center with New registration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-home-app-registrations.png)
 
     4.  On the Register an application form, fill in the following fields:
 
@@ -55,7 +55,7 @@ To enable the connector to access your Microsoft Viva Engage source system via t
         |Supported account types|Select **Accounts in this organizational directory only \(&lt;instance-name&gt; only - Single tenant\)**, where `<instance-name>` is the name of your Microsoft Entra instance.|
         |Redirect URI \(optional\)|Select **Web** as the redirect URI type, then enter `https://<instance-name>.service-now.com/oauth_redirect.do` as the URI, replacing `<instance-name>` with the hostname for the ServiceNow AI Platform® instance where the Microsoft Viva Engage external content connector will be created.|
 
-        ![Register an application dialog box in Microsoft Entra admin center.](../image/ms-viva-engage-entra-register-application.png)
+        ![Register an application dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-register-application.png)
 
     5.  Select **Register**.
 
@@ -63,7 +63,7 @@ To enable the connector to access your Microsoft Viva Engage source system via t
 
 2.  Record the values of the new application's **Application \(client\) ID** and **Directory \(tenant\) ID** properties in a secure location.
 
-    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](../image/ms-viva-engage-entra-app-overview.png)
+    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-app-overview.png)
 
     **Important:** Your connector admin needs the application's tenant and client IDs to configure a Microsoft Viva Engage external content connector.
 
@@ -73,17 +73,17 @@ To enable the connector to access your Microsoft Viva Engage source system via t
 
     2.  Select **Client secrets**, then select **New client secret**.
 
-        ![Application's client secrets list in Microsoft Entra admin center with New client secret link.](../image/ms-viva-engage-entra-new-client-secret.png)
+        ![Application's client secrets list in Microsoft Entra admin center with New client secret link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-new-client-secret.png)
 
     3.  In the Add a client secret pane, enter a description for the secret and select its expiration period, then select **Add**.
 
-        ![Add a client secret dialog box in Microsoft Entra admin center.](../image/ms-viva-engage-entra-add-client-secret.png)
+        ![Add a client secret dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-add-client-secret.png)
 
         The new client secret appears in the Client secrets list.
 
     4.  Copy the new client secret's **Value** and record it in a secure location.
 
-        ![Application's client secrets list in Microsoft Entra admin center showing value for newly added client secret.](../image/ms-viva-engage-entra-copy-client-secret-value.png)
+        ![Application's client secrets list in Microsoft Entra admin center showing value for newly added client secret.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-copy-client-secret-value.png)
 
         **Important:** Your connector admin needs the value of this client secret to configure a Microsoft Viva Engage external content connector.
 
@@ -91,31 +91,31 @@ To enable the connector to access your Microsoft Viva Engage source system via t
 
     1.  In the application menu, select **Manage** &gt; **API permissions**.
 
-        ![Application's API permissions page in Microsoft Entra admin center with Add a permission link.](../image/ms-viva-engage-entra-api-permissions.png)
+        ![Application's API permissions page in Microsoft Entra admin center with Add a permission link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-api-permissions.png)
 
     2.  Select **Add a permission**, then select **Yammer**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing Yammer API tile.](../image/ms-entra-request-api-permissions-yammer.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing Yammer API tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-yammer.png)
 
     3.  Select **Delegated permissions**, then select the option for the **user\_impersonation** permission and select **Add permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing Delegated permissions tile and user_impersonation permission option.](../image/ms-viva-engage-entra-yammer-api-delegated-permissions.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing Delegated permissions tile and user_impersonation permission option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-yammer-api-delegated-permissions.png)
 
         The new Yammer API permission appears in the application's Configured permissions list.
 
-    ![Application's API permissions page in Microsoft Entra admin center showing added Yammer permission.](../image/ms-viva-engage-entra-api-permissions-after.png)
+    ![Application's API permissions page in Microsoft Entra admin center showing added Yammer permission.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-viva-engage-entra-api-permissions-after.png)
 
 
 ## What to do next
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](configure-microsoft-viva-engage-external-content-indexing.md#client-tenant-ids-step).
--   The client secret value that you recorded in step [3.d](configure-microsoft-viva-engage-external-content-indexing.md#copy-client-secret).
+-   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-microsoft-viva-engage-external-content-indexing.md#client-tenant-ids-step).
+-   The client secret value that you recorded in step [3.d](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-microsoft-viva-engage-external-content-indexing.md#copy-client-secret).
 
 Your connector admin needs these items to configure a Microsoft Viva Engage external content connector to retrieve searchable content and security principals from your Microsoft Viva Engage instance.
 
-For details on creating and configuring a Microsoft Viva Engage external content connector, see [Create a Microsoft Viva Engage external content connector](create-ext-cont-connector-microsoft-viva-engage.md).
+For details on creating and configuring a Microsoft Viva Engage external content connector, see [Create a Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-microsoft-viva-engage.md).
 
-**Parent Topic:**[Microsoft Viva Engage external content connector](../concept/microsoft-viva-engage-external-content-connector.md)
+**Parent Topic:**[Microsoft Viva Engage external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-viva-engage-external-content-connector.md)
 

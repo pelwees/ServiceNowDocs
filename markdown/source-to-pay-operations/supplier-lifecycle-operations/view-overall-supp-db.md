@@ -23,11 +23,11 @@ Role required: sn\_slm.admin, sn\_slm.supplier\_manager
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the Overall supplier dashboard \(![db icon](../image/supp-db.png)\) icon.
+2.  Select the Overall supplier dashboard \(![db icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-db.png)\) icon.
 
     The Overall supplier dashboard with the Overview and Action plan sections is displayed.
 
-    ![Overall supplier dashboard - Overview tab](../image/supp-db-overview.png "Overall supplier dashboard - Overview")
+    ![Overall supplier dashboard - Overview tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-db-overview.png "Overall supplier dashboard - Overview")
 
     **Overview - Performance metrics** \(displays information based on filters\)
 
@@ -42,7 +42,7 @@ Role required: sn\_slm.admin, sn\_slm.supplier\_manager
     -   Five most common supplier KPIs: List of the most used KPIs by the suppliers
     -   Top five performing suppliers: List of the suppliers with the highest KPIs scores
     -   Top five industries by number of suppliers: Chart of the industries with the highest number of suppliers
-    ![Overall supplier dashboard - Action plan tab](../image/supp-db-actionplan.png "Overall supplier dashboard - Action plans")
+    ![Overall supplier dashboard - Action plan tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-db-actionplan.png "Overall supplier dashboard - Action plans")
 
     **Action plans**
 
@@ -51,10 +51,10 @@ Role required: sn\_slm.admin, sn\_slm.supplier\_manager
     -   Lowest five performing suppliers: List of the suppliers with the lowest KPIs scores
     -   Top five industries with suppliers in action plans: Chart showing industries with the maximum number of suppliers having active action plans
 
-**Parent Topic:**[Overall supplier dashboard](overall-supplier-db.md)
+**Parent Topic:**[Overall supplier dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/overall-supplier-db.md)
 
 **Related topics**  
 
 
-[Overall supplier dashboard](overall-supplier-db.md)
+[Overall supplier dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/overall-supplier-db.md)
 

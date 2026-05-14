@@ -27,7 +27,7 @@ Analyze the service issue in an incident, problem, or change record. Generate a 
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List Icon.](../../../common/image/icon-list.png)\)
+2.  Select the list icon \(![List Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../../../common/image/icon-list.png)\)
 
 3.  Navigate to **All** &gt; **Incidents** &gt; **All**.
 
@@ -37,7 +37,7 @@ Analyze the service issue in an incident, problem, or change record. Generate a 
 
     You can create reactive record only for the customer account.
 
-6.  Select the more option icon \(![More Option Icon](../image/icon-more-option.png)\).
+6.  Select the more option icon \(![More Option Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/icon-more-option.png)\).
 
 7.  Select **New reactive record** from the option list.
 
@@ -50,10 +50,10 @@ Analyze the service issue in an incident, problem, or change record. Generate a 
 
 A reactive case record is created and associated with the incident.
 
-**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](../concept/psew-identify-act-incident.md)
+**Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/psew-identify-act-incident.md)
 
 **Related topics**  
 
 
-[Enhancing customer impact visibility for PSEW processes](../concept/enhance-customer-impact-visibility-psew-process.md)
+[Enhancing customer impact visibility for PSEW processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/enhance-customer-impact-visibility-psew-process.md)
 

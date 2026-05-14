@@ -24,5 +24,5 @@ The following table displays the available log levels which indicate the severit
 |Info|Information messages representing service actions.|
 |Debug|Detailed service operation messages which help troubleshoot issues.|
 
-**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

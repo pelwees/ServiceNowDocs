@@ -32,7 +32,7 @@ Role required: ham\_admin
 
 ## Result
 
-The category that you add gets listed as an option in the **Category** field while creating a success goal for Hardware Asset Management. For more information, see [Create a success goal for Hardware Asset Management](create-suc-goal.md).
+The category that you add gets listed as an option in the **Category** field while creating a success goal for Hardware Asset Management. For more information, see [Create a success goal for Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-suc-goal.md).
 
-**Parent Topic:**[Assess performance of Hardware Asset Management](../concept/suc-goal-act-hw.md)
+**Parent Topic:**[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/suc-goal-act-hw.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 
 ## About this task
 
-Alternatively, you can request access to an API managed by your team. See [Manage your team's API data in API Insights](api-insights-team-api.md),
+Alternatively, you can request access to an API managed by your team. See [Manage your team's API data in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-team-api.md),
 
 ## Procedure
 

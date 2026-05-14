@@ -27,31 +27,31 @@ Role required: sn\_lc.task\_creator
 
 3.  On the Learning task form, fill in the fields.
 
-    For a description of the field values, see [Learning task form](../reference/learning-task-form_0.md).
+    For a description of the field values, see [Learning task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-task-form_0.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Manage Learning](manage-learning-achievements.md)
+**Parent Topic:**[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 
 **Related topics**  
 
 
-[Create a content collection](create-content-collection.md)
+[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md)
 
-[Create internal Learning content](create-internal-learning-content.md)
+[Create internal Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md)
 
-[View external Learning content](view-external-learning-content.md)
+[View external Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 
-[Create a learning library](create-learning-library.md)
+[Create a learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-learning-library.md)
 
-[Create an achievement definition](create-achievement.md)
+[Create an achievement definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-achievement.md)
 
-[Create user achievements](create-user-achievements.md)
+[Create user achievements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-user-achievements.md)
 
-[Create an achievement rule](../task/create-achievement-rule.md)
+[Create an achievement rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/create-achievement-rule.md)
 
-[Create an achievement rule item](../task/achievement-rule-item.md)
+[Create an achievement rule item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/achievement-rule-item.md)
 
-[Learning task form](../reference/learning-task-form_0.md)
+[Learning task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-task-form_0.md)
 

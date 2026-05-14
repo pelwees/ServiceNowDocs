@@ -21,5 +21,5 @@ Cloud Services Catalog Terraform Connector uses the Windows credential to connec
 |Username|Remote Desktop Protocol \(RDP\) username for the Windows server on which Terraform is running.|
 |Password|RDP password for the Windows server on which Terraform is running.|
 
-**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](cpg-terraform-connector-reference.md)
+**Parent Topic:**[Cloud Services Catalog Terraform Connector reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-reference.md)
 

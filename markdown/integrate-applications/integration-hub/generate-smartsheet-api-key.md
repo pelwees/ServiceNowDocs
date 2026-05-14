@@ -24,7 +24,7 @@ Generate the Smartsheet API key to be a part of every API call in an HTTP author
 
 1.  Log in to [https://app.smartsheet.com/](https://app.smartsheet.com/).
 
-2.  In the left pane, select the Smartsheet account icon ![Smartsheet account icon.](../image/smartsheet-account-icon.png).
+2.  In the left pane, select the Smartsheet account icon ![Smartsheet account icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/smartsheet-account-icon.png).
 
 3.  Select **Personal Settings**.
 
@@ -38,12 +38,12 @@ Generate the Smartsheet API key to be a part of every API call in an HTTP author
 
     An API key is generated, as shown in the following example.
 
-    ![Smartsheet API key generated.](../image/smartsheet-api-key-generated.png "Smartsheet API key generated")
+    ![Smartsheet API key generated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/smartsheet-api-key-generated.png "Smartsheet API key generated")
 
 8.  Select **OK**.
 
     The generated API key is available in the Manage API Access Tokens section as shown in the following example.
 
-    ![All available Smartsheet API keys.](../image/smartsheet-api-keys-all.png "All available Smartsheet API keys")
+    ![All available Smartsheet API keys.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/smartsheet-api-keys-all.png "All available Smartsheet API keys")
 
 

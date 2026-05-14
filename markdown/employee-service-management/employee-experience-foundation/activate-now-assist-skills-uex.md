@@ -44,7 +44,7 @@ Activate the Now Assist for Employee Experience plugin to enable generative AI o
 
 2.  On the navigation panel, select **Employee** &gt; ****Employee Center to review the skill set.
 
-    ![Illustration of available skills in Employee Center](../images/uex-skill-activation.png "Now Assist for Employee Experience")
+    ![Illustration of available skills in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-skill-activation.png "Now Assist for Employee Experience")
 
     Toggle between the list and grid layouts for optimum viewing experience.
 
@@ -63,7 +63,7 @@ Activate the Now Assist for Employee Experience plugin to enable generative AI o
 
     -   Automatic \(Default\) - Generates auto-summarization for the request, requested item, or case for approval task.
     -   Manual - Requires user to trigger summarization for the request, requested item, or case for approval task.
-    ![Triggers selected for Now Assist chat summarization.](../images/uex-skill-trigger.png "Define triggers")
+    ![Triggers selected for Now Assist chat summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-skill-trigger.png "Define triggers")
 
 6.  Choose where to display Now Assist skills.
 
@@ -78,7 +78,7 @@ Activate the Now Assist for Employee Experience plugin to enable generative AI o
 
 ## Result
 
-On successful configuration, approval users can see summarization for approvals. For more information, see [View summarization for approvals](view-summarization-approvals.md).
+On successful configuration, approval users can see summarization for approvals. For more information, see [View summarization for approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-summarization-approvals.md).
 
 **Note:** After installing Now Assist for Employee Experience \[sn\_ex\_gen\_ai\] plugin and activating the skills in the Now Assist Admin Center, the Summary appears in Approvals on Employee Center and service portals. To enable the summary on the custom portals, follow the instructions available in [KB2739995](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2739995) and update the `sn_nowassist_skill_config` table.
 

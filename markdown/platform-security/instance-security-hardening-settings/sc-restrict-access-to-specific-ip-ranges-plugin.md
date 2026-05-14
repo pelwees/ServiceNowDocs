@@ -88,7 +88,7 @@ Category
 
 </td><td>
 
-[Access control](sc-access-control.md)
+[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
 </td></tr><tr><td>
 
@@ -116,10 +116,10 @@ Dependencies and prerequisites
 
 This plugin when set to true restricts access to specific IP ranges. Unless public access is intended for the instance, administrators should limit access to their assigned IP net blocks. An exclusion list \(Deny\) or an inclusion list \(Allow\) of IP addresses can be created through IP Address Access Control \(ip\_access\_list.do\).
 
- Before setting this property, you must activate the IP Range Based Authentication \(com.snc.ipauthenticator\)**com.snc.ipauthenticator** plugin. To learn more, see [IP range based authentication](../../login/concept/c_IPRangeBasedAuthentication.md) and in the Steps to configure section \(below\).
+ Before setting this property, you must activate the IP Range Based Authentication \(com.snc.ipauthenticator\)**com.snc.ipauthenticator** plugin. To learn more, see [IP range based authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../login/concept/c_IPRangeBasedAuthentication.md) and in the Steps to configure section \(below\).
 
  Ensure the plugin **com.snc.ipauthenticator** is activated and there is at least one active IP access policy in the table ip\_access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Access control](sc-access-control.md)
+</table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 

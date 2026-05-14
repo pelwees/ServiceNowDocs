@@ -21,7 +21,7 @@ Role required: claims agent
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Repair**.
 
-    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](../concept/mco-create-repair-claim.md).
+    **Note:** To learn how to create and navigate to the Review &amp; approve form, see [Create a repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-create-repair-claim.md).
 
 2.  From the Activities menu, select **Review &amp; approve** from **Activities**.
 
@@ -36,5 +36,5 @@ Role required: claims agent
 6.  Add **Comment** and **Confirm**.
 
 
-**Parent Topic:**[Reviewing and approving repair claims](../concept/mco-approve-repair-claims.md)
+**Parent Topic:**[Reviewing and approving repair claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../concept/mco-approve-repair-claims.md)
 

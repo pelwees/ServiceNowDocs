@@ -23,7 +23,7 @@ The AWS Config service monitors and records changes to your AWS resource configu
 
 The AWS configuration recorder detects changes in resource configurations and captures these changes as configuration items \(CIs\). The is required for setting up the connector. The configuration recorder enables recording all hardware data in AWS Config. See [What Is AWS Config?](https://docs.aws.amazon.com/config/latest/developerguide/WhatIsConfig.html) on the AWS Documentation site.
 
-The Service Graph Connector for AWS includes the EnableAWSConfig.yml script to enable the AWS Config service that instead enables the configuration recorder. See [Executing scripts required for setting up AWS](sgc-cmdb-aws-script-op.md).
+The Service Graph Connector for AWS includes the EnableAWSConfig.yml script to enable the AWS Config service that instead enables the configuration recorder. See [Executing scripts required for setting up AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-script-op.md).
 
 **Note:** Ensure that the AWS Config service is enabled for all applicable AWS accounts and regions.
 

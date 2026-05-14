@@ -23,39 +23,39 @@ Role required: pa\_power\_user, pa\_admin, or admin for record; pa\_admin or adm
 
 ## Procedure
 
-1.  In KPI Details, expand the **More actions** menu ![More actions menu icon](../../../common/image/icon-menu.png).
+1.  In KPI Details, expand the **More actions** menu ![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../common/image/icon-menu.png).
 
 2.  Select one of the following options:
 
     -   To open the indicator record, select **Edit settings**.
     -   To open the scoresheet, select **Edit scores**.
-    ![The More actions menu for KPI Details, showing options to edit indicator record or scoresheet.](../image/kpi-details-more-actions.png)
+    ![The More actions menu for KPI Details, showing options to edit indicator record or scoresheet.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/kpi-details-more-actions.png)
 
 
-**Parent Topic:**[Examining indicators with KPI Details](../reference/kpi-details-components.md)
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/kpi-details-components.md)
 
 **Related topics**  
 
 
-[View contributing indicators to a formula in KPI Details](../concept/view-formula-components.md)
+[View contributing indicators to a formula in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/view-formula-components.md)
 
-[Show, compare, create, and edit records in KPI Details](../concept/show-compare-edit-records.md#)
+[Show, compare, create, and edit records in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/show-compare-edit-records.md#)
 
-[Chart options in KPI Details](../reference/chart-options.md)
+[Chart options in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/chart-options.md)
 
-[Select time aggregation in KPI Details](select-time-series-aggregation.md)
+[Select time aggregation in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/select-time-series-aggregation.md)
 
-[Configure trend for a native Data snapshots indicator in KPI Details](configure-trend-ds-indicator.md)
+[Configure trend for a native Data snapshots indicator in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-trend-ds-indicator.md)
 
-[Configure display properties for a Data snapshots indicator](configure-display-properties-ds-indicator.md)
+[Configure display properties for a Data snapshots indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configure-display-properties-ds-indicator.md)
 
-[Filter indicator scores by breakdown elements in KPI Details](apply-brkdowns-element-kpi-details.md#)
+[Filter indicator scores by breakdown elements in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/apply-brkdowns-element-kpi-details.md#)
 
-[Filter native Data snapshots indicator scores in KPI Details](filter-data-snapshots-indicator-scores.md)
+[Filter native Data snapshots indicator scores in KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/filter-data-snapshots-indicator-scores.md)
 
-[Create an automated indicator](../../performance-analytics/task/t_CreateAnAutomatedIndicator.md#)
+[Create an automated indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/t_CreateAnAutomatedIndicator.md#)
 
-[Create a formula indicator](../../performance-analytics/task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/t_CreateAFormulaIndicator.md)
 
-[Add or edit indicator scores manually](../../performance-analytics/task/t_ManuallyAddingScoresForIndicators.md)
+[Add or edit indicator scores manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/task/t_ManuallyAddingScoresForIndicators.md)
 

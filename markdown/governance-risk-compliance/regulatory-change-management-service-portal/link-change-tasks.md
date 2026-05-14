@@ -37,7 +37,7 @@ Role required: sn\_grc\_reg\_change.user
 
 8.  Select **Confirm**.
 
-    ![Link change tasks for impacted areas.](../../grc-rcm/image/link-change-tasks.png)
+    ![Link change tasks for impacted areas.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm/image/link-change-tasks.png)
 
 
 ## Result

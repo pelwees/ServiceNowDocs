@@ -220,7 +220,7 @@ Re-evaluate License Distribution
 
 </td><td>
 
-Schedule runs on demand to validate the distribution of license records.For more information, see [Re-evaluate license distribution by executing RPA scripts](../task/execute-rpa-script.md).
+Schedule runs on demand to validate the distribution of license records.For more information, see [Re-evaluate license distribution by executing RPA scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/execute-rpa-script.md).
 
 </td></tr></tbody>
 </table>## Tables installed
@@ -682,5 +682,5 @@ Contains the details about the multiple types of data that are stored, such as t
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[RPA Hub reference](rpa-hub-reference.md)
+</table>**Parent Topic:**[RPA Hub reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rpa-hub-reference.md)
 

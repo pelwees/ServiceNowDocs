@@ -17,7 +17,7 @@ Duplicate an existing playbook and make small changes to it, which may be faster
 
 ## Before you begin
 
-Because playbooks are based on forms, you must publish a form \(mark it as ready\) before you use it to create a playbook. For more information, see [Publish a form for your app in Creator Studio](creator-studio-publish-form.md).
+Because playbooks are based on forms, you must publish a form \(mark it as ready\) before you use it to create a playbook. For more information, see [Publish a form for your app in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-publish-form.md).
 
 To copy a playbook, you must be given permission to work on the app.
 
@@ -33,13 +33,13 @@ To copy a playbook, you must be given permission to work on the app.
 
     **Note:** If your app has a lot of forms, you can use the search box in the navigation panel to search for a specific form.
 
-    ![Select the automation in the navigation panel](../image/crs-auto-copy-nav.png "Select automation to copy")
+    ![Select the automation in the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-auto-copy-nav.png "Select automation to copy")
 
 5.  Select the more actions menu icon ![](../image/cs-more-actions-icon.png).
 
 6.  Select **Duplicate**.
 
-    ![Select the Duplicate menu option](../image/crs-dupe-playbook.png "Copy a playbook")
+    ![Select the Duplicate menu option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-dupe-playbook.png "Copy a playbook")
 
 7.  Choose the **Duplicate** button in the confirmation modal.
 
@@ -48,5 +48,5 @@ To copy a playbook, you must be given permission to work on the app.
 
 The duplicated playbook opens, and appears in the navigation panel below the original playbook.
 
-**Parent Topic:**[Working with automation in Creator Studio](../concept/creator-studio-working-with-automations.md)
+**Parent Topic:**[Working with automation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-working-with-automations.md)
 

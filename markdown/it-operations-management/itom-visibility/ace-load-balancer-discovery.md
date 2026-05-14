@@ -88,5 +88,5 @@ The following data is collected on the Load Balancer Interface table \[cmdb\_ci\
 |MAC address|mac\_address|
 |Operational status|operational\_status|
 
-**Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 

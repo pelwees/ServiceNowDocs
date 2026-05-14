@@ -25,7 +25,7 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Select the coaching icon \(![Coaching icon](../image/coaching-icon-uib.png)\).
+2.  Select the coaching icon \(![Coaching icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/coaching-icon-uib.png)\).
 
 3.  Select the **Learning** tab.
 
@@ -33,7 +33,7 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
     -   You can search paths based on keywords using the **Search** field or narrow down the display of the paths based on skills using the **Filter by skill** field.
     -   Each path displays a highlight that shows whether it is in draft or published state. You can select a path that is **Draft** state and complete it. You can select a path that is in **Published** state and view the path details.
-5.  Select the Assign icon \(![Assign learning path icon](../image/assign-course-icon.png)\) for the path you want to assign to agents.
+5.  Select the Assign icon \(![Assign learning path icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/assign-course-icon.png)\) for the path you want to assign to agents.
 
     The Assign icon is only available when the path is in **Published** state.
 
@@ -79,5 +79,5 @@ Select **To my groups**.
     You can see the progress your agents have made as they work on a path.
 
 
-**Parent Topic:**[Learning in Workforce Optimization for ITSM](../concept/workforce-learning-configurable-wfo-itsm.md)
+**Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/workforce-learning-configurable-wfo-itsm.md)
 

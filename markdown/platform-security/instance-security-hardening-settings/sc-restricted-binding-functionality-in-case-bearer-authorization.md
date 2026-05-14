@@ -19,7 +19,7 @@ Use the **glide.oauth.enforce\_restricted\_binding\_for\_ui** system property an
 
 When restricted binding is turned off, the access token generated can be used for UI calls regardless of the value of the system property.
 
-Ensure that **glide.oauth.enforce\_restricted\_binding\_for\_ui** is set to **true** and **Enforce Token Restrictions** is set to **true** in all OAuth entity entries. For details on OAuth entity entries, see [OAuth Inbound](../../../integrate/authentication/concept/oauth-inbound.md).
+Ensure that **glide.oauth.enforce\_restricted\_binding\_for\_ui** is set to **true** and **Enforce Token Restrictions** is set to **true** in all OAuth entity entries. For details on OAuth entity entries, see [OAuth Inbound](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/concept/oauth-inbound.md).
 
 ## More information
 
@@ -85,7 +85,7 @@ Category
 
 </td><td>
 
-[Architecture, design, and threat modeling](sc-architecture-design-threat-molding.md)
+[Architecture, design, and threat modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
 </td></tr><tr><td>
 
@@ -106,5 +106,5 @@ Dependencies and prerequisites
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Architecture, design, and threat modeling](sc-architecture-design-threat-molding.md)
+</table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 

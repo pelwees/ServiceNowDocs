@@ -19,15 +19,15 @@ Manage all your workplace service requests from the WSD for Microsoft places app
 
 <table id="table_qld_tw1_gvb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about WSD for Microsoft places](explore-wsd-ms-places.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about WSD for Microsoft places](explore-wsd-ms-places.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install WSD for Microsoft places to get started](config-wsd-for-ms-places.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install WSD for Microsoft places to get started](config-wsd-for-ms-places.md)
 
 </td><td>
 
-[References ![](../../../reuse/icons/brand-icons/bus-learn.svg) Know about the key features of](wsd-for-ms-places-references.md)Know about the key features of WSD for Microsoft places
+[References ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/../../../reuse/icons/brand-icons/bus-learn.svg) Know about the key features of](wsd-for-ms-places-references.md)Know about the key features of WSD for Microsoft places
 
 </td></tr></tbody>
 </table>

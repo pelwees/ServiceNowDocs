@@ -67,5 +67,5 @@ Actions
 
     -   View the final contract documents by accessing the **Legal Contract** tab. When multiple contract documents are attached, a separate record is created for each contract type.
 
-**Parent Topic:**[Third-party contract review requests](../concept/snlc-request-third-party-contract-1.md)
+**Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-request-third-party-contract-1.md)
 

@@ -26,16 +26,16 @@ You can use the pre-check workflow to complete required tasks in advance of your
 
 The portal also provides profile and data management capabilities. As a visitor, you can view and edit your stored details like parking preferences and contact information. For privacy compliance, you can download a copy of your personal data and anonymize your personal data. Anonymizing your data removes all identifiable information from visit records while retaining the visit history itself.
 
-![Visitor portal displaying a list of visits and their pre-check tasks. A single visit is selected and the details are displayed on a separate panel.](../image/wsd-visitor-portal.png)
+![Visitor portal displaying a list of visits and their pre-check tasks. A single visit is selected and the details are displayed on a separate panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../image/wsd-visitor-portal.png)
 
-**Parent Topic:**[Exploring Workplace Visitor Management](workplace-visitor-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Visitor registration](register-visitors.md)
+[Visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/register-visitors.md)
 
-[Host portal](host-portal.md)
+[Host portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/host-portal.md)
 
-[Receptionist portal](receptionist-portal.md)
+[Receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/receptionist-portal.md)
 

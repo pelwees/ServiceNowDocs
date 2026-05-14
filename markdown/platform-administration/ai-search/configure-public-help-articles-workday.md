@@ -91,5 +91,5 @@ If you don't want the connector to retrieve searchable content and metadata from
     Workday republishes the article, making it accessible by all your organization's employees.
 
 
-**Parent Topic:**[Workday external content connector](../concept/workday-external-content-connector.md)
+**Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/workday-external-content-connector.md)
 

@@ -21,29 +21,29 @@ Support: Basic.
 
 Follow these steps to achieve domain separation:
 
--   Create a user with the [required roles](get-started-with-misp-integration-for-security-operations.md#table_k2d_1bk_ynb) in your domain.
+-   Create a user with the [required roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md#table_k2d_1bk_ynb) in your domain.
 -   Perform the MISP integration for Security Operations procedures in your domain.
 
-**Parent Topic:**[MISP administration](../concept/misp-administration.md)
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-administration.md)
 
 **Related topics**  
 
 
-[Getting started with MISP integration for Security Operations](get-started-with-misp-integration-for-security-operations.md)
+[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)
 
-[Install and configure the MISP integration for Security Operations](../task/install-and-configure-misp.md)
+[Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/install-and-configure-misp.md)
 
-[Review the MISP integration settings](../task/review-the-misp-integration-settings.md)
+[Review the MISP integration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/review-the-misp-integration-settings.md)
 
-[Configure MISP sighting searches](../task/configure-sightings-search.md)
+[Configure MISP sighting searches](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-sightings-search.md)
 
-[Configure how an automatic event is created](../task/configure-automatic-event-creation-profile.md#)
+[Configure how an automatic event is created](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/configure-automatic-event-creation-profile.md#)
 
-[MISP event data](../concept/misp-event-data.md)
+[MISP event data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/misp-event-data.md)
 
-[Associated MISP events](associated-misp-events.md)
+[Associated MISP events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/associated-misp-events.md)
 
-[MISP user information](misp-user-information.md)
+[MISP user information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/misp-user-information.md)
 
-[Troubleshooting MISP integration](troubleshooting-misp-integration.md)
+[Troubleshooting MISP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/troubleshooting-misp-integration.md)
 

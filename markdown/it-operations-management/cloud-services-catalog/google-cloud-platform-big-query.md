@@ -36,8 +36,8 @@ This is a fully functional sample catalog item that streamlines the process of o
  You can set up real-time data streaming and analytics sharing effortlessly with a few clicks. BigQuery's serverless architecture allows SQL-based data analysis and offers customization options for scalability.
 
 </td></tr></tbody>
-</table>-   **[Google Cloud Platform \(GCP\) Big Query Out Of Box permissions](gcp-big-query-oob-permissions.md)**  
+</table>-   **[Google Cloud Platform \(GCP\) Big Query Out Of Box permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/gcp-big-query-oob-permissions.md)**  
 GCP Big Query Out Of Box catalog items permissions
 
-**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](../concept/out-of-the-box-catalog-items.md)
+**Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/out-of-the-box-catalog-items.md)
 

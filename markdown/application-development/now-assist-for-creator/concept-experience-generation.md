@@ -70,12 +70,12 @@ When Now Assist generates an experience, it creates the following components:
     -   Filtered list: Displays records from the selected table with filtered views, sortable columns, and export and create actions.
     -   Simple record: A detail view that fulfillers use to view, edit, and act on individual records.
 
-**Parent Topic:**[Exploring UI generation](exploring-ui-generation.md)
+**Parent Topic:**[Exploring UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/exploring-ui-generation.md)
 
 **Related topics**  
 
 
-[Create an AI-generated experience](../task/generate-ui.md#)
+[Create an AI-generated experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-ui.md#)
 
-[Use case: Create an AI-generated experience](use-case-experience-generation.md)
+[Use case: Create an AI-generated experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/use-case-experience-generation.md)
 

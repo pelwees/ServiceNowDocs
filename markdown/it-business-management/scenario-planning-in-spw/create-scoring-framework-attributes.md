@@ -48,7 +48,7 @@ Create Scoring Framework attribute.
 
 ## What to do next
 
-[Create a final score attribute](create-a-final-score-attribute.md)
+[Create a final score attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-final-score-attribute.md)
 
-**Parent Topic:**[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+**Parent Topic:**[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/custom-scoring-frameworks-in-strategic-planning.md)
 

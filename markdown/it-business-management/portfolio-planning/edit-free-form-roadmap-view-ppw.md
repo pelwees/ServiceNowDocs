@@ -44,7 +44,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
     The view is updated to reflect the changes made.
 
-6.  To edit the name of the view, select the Free-form roadmap drop-down from the free-form roadmap header and then select the Edit view icon \(![edit view icon.](../../spw-roadmap/images/edit-view-icon-spw.png)\) next to the view you want to edit the name for.
+6.  To edit the name of the view, select the Free-form roadmap drop-down from the free-form roadmap header and then select the Edit view icon \(![edit view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-roadmap/images/edit-view-icon-spw.png)\) next to the view you want to edit the name for.
 
     On the Edit view window, fill the details.
 
@@ -58,19 +58,19 @@ Role required: sn\_align\_core.ap\_read\_only
 
     3.  Select **Save**.
 
-        ![Edit free-form roadmap view name.](../images/edit-free-form-roadmap-view-ppw.gif)
+        ![Edit free-form roadmap view name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/edit-free-form-roadmap-view-ppw.gif)
 
 
 ## What to do next
 
-Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. For more information, see [Share a free-form roadmap with stakeholders](share-free-form-roadmap-stakeholders-portfolio-planning.md).
+Share the free-form roadmap with your stakeholders to start collaborating on the free-form roadmap. For more information, see [Share a free-form roadmap with stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-free-form-roadmap-stakeholders-portfolio-planning.md).
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-ppw.md)
+**Parent Topic:**[Managing free-form roadmap views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-free-form-roadmap-views-ppw.md)
 
 **Related topics**  
 
 
-[Create a free-form roadmap view](create-free-form-roadmap-view-ppw.md)
+[Create a free-form roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-view-ppw.md)
 
-[Delete a free-form roadmap view](delete-free-form-roadmap-view-ppw.md)
+[Delete a free-form roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/delete-free-form-roadmap-view-ppw.md)
 

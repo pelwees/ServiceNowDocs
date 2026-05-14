@@ -70,7 +70,7 @@ Active
 When checked, the class mapping is set to **Active**.
 
 </td></tr></tbody>
-</table>The Service Graph Connector Integration for Claroty CTD also uses Claroty types and codes. For more information, see the [Default class mapping](sgc-claroty-ctd-classes.md#default-class-mapping) table.
+</table>The Service Graph Connector Integration for Claroty CTD also uses Claroty types and codes. For more information, see the [Default class mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-claroty-ctd-classes.md#default-class-mapping) table.
 
 ## Computer \[cmdb\_ci\_computer\]
 
@@ -404,5 +404,5 @@ A default class mapping is shipped with the Service Graph Connector Integration 
 |eVOIPAccessPoint​|\(Empty\)​|cmdb\_ci\_ip\_switch​| |eVOIPAccessPoint = 71​|
 |eVulnerabilityScanner​|\(Empty\)​|cmdb\_ci\_server​| |eVulnerabilityScanner = 70​|
 
-**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](../concept/sgc-cmdb-integration-claroty-ctd.md)
+**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/sgc-cmdb-integration-claroty-ctd.md)
 

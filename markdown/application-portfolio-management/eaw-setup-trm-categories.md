@@ -15,15 +15,15 @@ A Technology Reference Model \(TRM\) category refers to a grouping of TRM softwa
 
 You can add a new TRM category or edit an existing one.
 
--   **[Add or edit a TRM category](../../task/eaw-task/eaw-create-new-trm-category.md)**  
+-   **[Add or edit a TRM category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-new-trm-category.md)**  
 Add or edit a TRM category to group the TRM software products.
 
-**Parent Topic:**[Configure EA Workspace using the Setup page](eaw-config-eaw-using-setup-page.md)
+**Parent Topic:**[Configure EA Workspace using the Setup page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-config-eaw-using-setup-page.md)
 
 **Related topics**  
 
 
-[Manage TRM categories](eaw-configure-trm-categories.md)
+[Manage TRM categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-configure-trm-categories.md)
 
-[Working with Technology Reference Model \(TRM\) in EA Workspace](eaw-work-with-trm.md)
+[Working with Technology Reference Model \(TRM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-trm.md)
 

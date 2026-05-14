@@ -41,7 +41,7 @@ In the list view of **Tables** or **Script Includes**:
 
 The following procedure is needed only when the **Caller Access** column has a value of `Caller Restriction`.
 
-![List view of the sys_db_object table, with an example target resource (To-do Content) displaying 'Caller Restriction' in the Caller Access column.](../image/lw-restricted-caller-access-dbo-table.png)
+![List view of the sys_db_object table, with an example target resource (To-do Content) displaying 'Caller Restriction' in the Caller Access column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-restricted-caller-access-dbo-table.png)
 
 For further information see **Related Content** on this page.
 
@@ -56,7 +56,7 @@ For further information see **Related Content** on this page.
     -   `Source Scope is Localization Workspace`
     -   `Target Scope is same as Application`
     -   `Status is Requested`
-4.  Select **Run** to execute the query.![The list view of Restricted Caller Access Privileges table, displaying three rows having a Source Scope of Localization Workspace.](../image/lw-restricted-caller-access1.png)
+4.  Select **Run** to execute the query.![The list view of Restricted Caller Access Privileges table, displaying three rows having a Source Scope of Localization Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-restricted-caller-access1.png)
 
 5.  In the list of results, open any record by selecting the value in the first column \(by default the first column is Operation\).
 
@@ -64,23 +64,23 @@ For further information see **Related Content** on this page.
 
     **Note:** Because most records are not in the Global application scope, you must select the link in the banner **To edit this record click here**.
 
-    ![The form view of a Restricted Caller Access Privilege record. The current Status is Requested, but the option to change the Status to Allowed is highlighted.](../image/lw-restricted-caller-access2.png)
+    ![The form view of a Restricted Caller Access Privilege record. The current Status is Requested, but the option to change the Status to Allowed is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-restricted-caller-access2.png)
 
 7.  Repeat this procedure so that all records in the list of results have a status of `Allowed`.
 
 
 ## What to do next
 
-Continue with setup of Localization Workspace. See [Configuring Localization Workspace](../concept/configuring-localization-workspace.md).
+Continue with setup of Localization Workspace. See [Configuring Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/configuring-localization-workspace.md).
 
-**Parent Topic:**[Configuring Localization Workspace](../concept/configuring-localization-workspace.md)
+**Parent Topic:**[Configuring Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../concept/configuring-localization-workspace.md)
 
 **Related topics**  
 
 
 [Application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationScope.md)
 
-[Artifact configurations](../../localization-framework/concept/framework-configuration.md)
+[Artifact configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../../localization-framework/concept/framework-configuration.md)
 
 [Restricted caller access privilege settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/restricted-caller-access-privilege.md)
 

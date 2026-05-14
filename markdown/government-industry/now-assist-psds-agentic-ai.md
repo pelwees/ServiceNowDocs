@@ -54,5 +54,5 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-For information on the standalone Public Sector Digital Services AI agents, see [Standalone AI Agents in Public Sector Digital Services](now-assist-psds-aiagents.md).
+For information on the standalone Public Sector Digital Services AI agents, see [Standalone AI Agents in Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-aiagents.md).
 

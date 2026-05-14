@@ -37,7 +37,7 @@ When the library is ready for use, you can activate it.
 
 1.  Navigate to **All** &gt; **DevOps Config** &gt; **DevOps Config Workspace**.
 
-2.  Click the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
+2.  Click the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\) in the left navigation to open the **Component libraries** tab.
 
 3.  In the left pane, select a component library.
 

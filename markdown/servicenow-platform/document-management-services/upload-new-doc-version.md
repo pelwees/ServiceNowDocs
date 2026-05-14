@@ -36,10 +36,10 @@ Role required: none
 6.  Select **OK**.
 
 
-**Parent Topic:**[Linking documents to a parent record](../concept/doc-linked-parent-rec.md)
+**Parent Topic:**[Linking documents to a parent record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/doc-linked-parent-rec.md)
 
 **Related topics**  
 
 
-[Create a document version](create-doc-version.md)
+[Create a document version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-doc-version.md)
 

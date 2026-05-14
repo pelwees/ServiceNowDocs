@@ -57,5 +57,5 @@ You have mapped all ReleaseOps deployment request states onto the corresponding 
 
 ## What to do next
 
-If you want to configure additional conditions to enable migration to ReleaseOps, see [Add custom conditions to enable ReleaseOps deployments](add-custom-conditions-to-enable-releaseops-deployment.md).
+If you want to configure additional conditions to enable migration to ReleaseOps, see [Add custom conditions to enable ReleaseOps deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/add-custom-conditions-to-enable-releaseops-deployment.md).
 

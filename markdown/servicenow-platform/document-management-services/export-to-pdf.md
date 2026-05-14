@@ -28,7 +28,7 @@ PDF export orientation includes:
 
 When the accessibility property is enabled, you get a pop-up when they export to PDF where they can specify whether to create an accessible PDF or not.
 
-![Check box to enable accessible PDF](../image/accessible-pdf.png "Export to PDF")
+![Check box to enable accessible PDF](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/accessible-pdf.png "Export to PDF")
 
 To enable accessibility, select the **Accessible PDF** check box.
 
@@ -53,5 +53,5 @@ To enable accessibility, select the **Accessible PDF** check box.
 
 To generate a single PDF record, see [Export data from a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/export-form-data.md).
 
-**Parent Topic:**[PDF generation and accessibility](pdf-generation-accessibility.md)
+**Parent Topic:**[PDF generation and accessibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/pdf-generation-accessibility.md)
 

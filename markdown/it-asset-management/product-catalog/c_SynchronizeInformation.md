@@ -37,12 +37,12 @@ List of synchronized fields:
 -   Cost
 -   Manufacturer
 
-**Parent Topic:**[Vendor catalog items](c_ManageVendorCatalogItems.md)
+**Parent Topic:**[Vendor catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManageVendorCatalogItems.md)
 
 **Related topics**  
 
 
-[Create a vendor catalog item](../task/t_CreateAVendorCatalogItem.md)
+[Create a vendor catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../task/t_CreateAVendorCatalogItem.md)
 
-[View a vendor list](../task/t_ViewAVendorList.md)
+[View a vendor list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../task/t_ViewAVendorList.md)
 

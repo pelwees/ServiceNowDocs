@@ -31,15 +31,15 @@ Duplication rules have two purposes. They prevent too many duplicate records fro
 
 Duplication rules are used by **Email Parsing**, **Field Mapping**, and **Enrichment Data Mapping**.
 
--   **[Create duplication rules in Security Operations](../task/create-duplication-rules.md)**  
+-   **[Create duplication rules in Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/create-duplication-rules.md)**  
 You can use Duplication Rules to identify new email, enrichment data, or field maps with active duplicate records and process them appropriately.
 
-**Parent Topic:**[Security Operations common functionality](sec-ops-common-functionality.md)
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
 **Related topics**  
 
 
-[Create email parsers in Security Operations](../task/parsing-emails.md)
+[Create email parsers in Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/parsing-emails.md)
 
-[Map tables to tables with Security Operations field mapping](../task/create-field-mapping.md)
+[Map tables to tables with Security Operations field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/create-field-mapping.md)
 

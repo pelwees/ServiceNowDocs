@@ -29,7 +29,7 @@ The Model hierarchy option is shown only for a model that's associated with a pa
 
 2.  Select the pre-assembled or user-assembled model.
 
-3.  Select the Hierarchy icon \(![Hierarchy icon](../image/asset-hierarchy-icon-eam.png)\) on the contextual sidebar.
+3.  Select the Hierarchy icon \(![Hierarchy icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/asset-hierarchy-icon-eam.png)\) on the contextual sidebar.
 
     The model hierarchy is shown in a tree-like format. All the model components of the model that you selected are displayed.
 
@@ -39,5 +39,5 @@ The Model hierarchy option is shown only for a model that's associated with a pa
     -   Quantity is displayed only for consumable models.
     -   The component number is added as a prefix to the model component.
 
-**Parent Topic:**[Create and manage enterprise models](../concept/create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/create-manage-enterprise-models.md)
 

@@ -19,7 +19,7 @@ The Government Service Portal experience begins on the portal home page for cons
 
 This example shows the default home page for a registered user of the Public Sector Digital Services Government Service Portal.
 
-![Different interaction options on the Constituent view. For more information, refer to the text that follows.](../image/public-sector-constituent-portal.png)
+![Different interaction options on the Constituent view. For more information, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/public-sector-constituent-portal.png)
 
 **Note:** Administrators can customize Government Service Portal home pages in Service Portal, so home page appearance might differ across government agencies.
 
@@ -35,7 +35,7 @@ Constituents can do the following tasks in the Government Service Portal:
 -   Request services such as street repair, trash removal, building inspections, and other public maintenance.
 -   Request information and public records from local, state, and federal public agencies.
 
-For more information on the services that are offered in the Government Service portal service catalog, see [Government Service Portal service catalog](../reference/psds-service-catalog-list.md).
+For more information on the services that are offered in the Government Service portal service catalog, see [Government Service Portal service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/psds-service-catalog-list.md).
 
 ## Government Service Portal for businesses and business entities
 
@@ -56,5 +56,5 @@ Business contacts have the same functionality as a constituent user, with a few 
 -   View publications, such as government pamphlets and newsletters about services.
 -   View notifications such as government notifications and new contact approvals.
 
-For information on how to customize the Government Service Portal, see [Customize the Government Service Portal](../task/customize-government-service-portal.md). For information on how to customize the Government Service Portal using Guided Setup, see [Configure Public Sector Digital Services Core foundational data using guided setup](configure-psds-foundation-data.md#).
+For information on how to customize the Government Service Portal, see [Customize the Government Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/customize-government-service-portal.md). For information on how to customize the Government Service Portal using Guided Setup, see [Configure Public Sector Digital Services Core foundational data using guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md#).
 

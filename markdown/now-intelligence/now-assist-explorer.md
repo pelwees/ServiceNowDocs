@@ -21,19 +21,19 @@ See how to launch AI Data Explorer, ask questions in an exploration, and share t
 
 <table id="table_crq_v4l_w2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Overview of AI Data Explorer](now-assist-explorer.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Overview of AI Data Explorer](now-assist-explorer.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable AI Data Explorer and supplementary skills for an instance](../task/activate-now-ass-explorer.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Enable AI Data Explorer and supplementary skills for an instance](../task/activate-now-ass-explorer.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Create data visualizations and share them with collaborators](../concept/use-now-assist-explorer.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-actionable-analytics.svg)Create data visualizations and share them with collaborators](../concept/use-now-assist-explorer.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Roles, tables, and domain separation support](../concept/now-assist-explorer-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Roles, tables, and domain separation support](../concept/now-assist-explorer-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

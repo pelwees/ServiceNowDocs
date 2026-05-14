@@ -17,7 +17,7 @@ All production instances can send and receive email using ServiceNow - provided 
 
 Below is an example of a basic email network with ServiceNow as the domain.
 
-![Network layout of basic email](../image/StandardEmailConfiguration.png "Basic email network")
+![Network layout of basic email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/StandardEmailConfiguration.png "Basic email network")
 
 ## Basic email services and features
 
@@ -35,8 +35,8 @@ Below is an example of a basic email network with ServiceNow as the domain.
 
 Administrators who want to use basic email services can do so by enabling the email properties for sending and receiving email.
 
--   **[Enable basic email](../task/t_ConfiguringStandardEmail.md)**  
+-   **[Enable basic email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ConfiguringStandardEmail.md)**  
 Enable basic email to use ServiceNow - provided email servers and accounts.
 
-**Parent Topic:**[Configure email administration](../../notification/concept/configuring-email-admin.md)
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/concept/configuring-email-admin.md)
 

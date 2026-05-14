@@ -37,7 +37,7 @@ Requested Item ITEM0004 -- 1 X executive desktop
 -   Catalog Task0003 -- Install standard corporate application
 -   Catalog Task0004 -- Deliver computer to requester
 
-**Parent Topic:**[Execution Plans](c_ExecutionPlans.md)
+**Parent Topic:**[Execution Plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ExecutionPlans.md)
 
 ## Define task templates
 
@@ -206,5 +206,5 @@ To use a script, you must configure the Execution Plan Task form to add the "Con
 
 Ensure that you add the variable used in the script to the execution plan task.
 
-![Use Condition Scripts](../image/UseConditionScriptsToRunTasks.png "Use Condition Scripts")
+![Use Condition Scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/UseConditionScriptsToRunTasks.png "Use Condition Scripts")
 

@@ -370,10 +370,10 @@ Batch size. Number of clusters to fetch metrics in parallel. \(Default value: 10
 `metrics-ecs-service.rb -r {{.labels.params_ci_region}} {{.labels.params_filter}} -f {{.labels.params_filter}} {{end}} {{.labels.params_batch_size}} -b {{.labels.params_filter}} {{end}}`
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+</table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
 **Related topics**  
 
 
-[AWS metrics](aws-metrics.md)
+[AWS metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/aws-metrics.md)
 

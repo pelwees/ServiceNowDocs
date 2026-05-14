@@ -56,5 +56,5 @@ Total score
 100
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Operational Technology Hardware Vulnerability Assessment](../concept/understanding-hwd-vuln-assessment.md)
+</table>**Parent Topic:**[Operational Technology Hardware Vulnerability Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../concept/understanding-hwd-vuln-assessment.md)
 

@@ -25,7 +25,7 @@ MID Server overview
  
 
 </td></tr></tbody>
-</table>-   **[Discovery Home Page](discovery-home-page.md#)**
+</table>-   **[Discovery Home Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md#)**
 
     Open the Discovery Manager to create or edit schedules for IP-based and Cloud Discovery. View the CIs and cloud resources that your schedules discover and then track any errors that occurred.
 
@@ -41,11 +41,11 @@ MID Server overview
 
     Discovery issues may be caused by incorrectly configured or missing credentials. Find out how to identify and configure a missing credential or permission.
 
--   **[Discovery error messages](c_DiscoveryErrorMessages.md)**
+-   **[Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryErrorMessages.md)**
 
     View the list of common error messages and possible solutions.
 
--   **[Discovery performance metrics](discovery-performance-framework.md#)**
+-   **[Discovery performance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-performance-framework.md#)**
 
     View performance metrics on probe/pattern and sensor processing times. You can use the roll-up data to monitor the performance of specific discoveries or to compare performance between versions after an upgrade.
 

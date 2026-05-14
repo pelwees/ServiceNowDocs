@@ -15,5 +15,5 @@ breadcrumb: [Approval rules, Classic approvals, Build workflows]
 
 In the diagram below of a hypothetical approval process, the gating approval is color coded blue and an in-process approval is orange.
 
-![Approval process diagram](../image/ApprovalChart.png "Approval process")
+![Approval process diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/approvals/../image/ApprovalChart.png "Approval process")
 

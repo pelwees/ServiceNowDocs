@@ -27,9 +27,9 @@ The application matches the information that is provided by the employee in the 
 
 The following example shows how an employee receives a prompt with pre-seeded skills.
 
-![Screen shot that shows an employee getting a notice about a skill gap in their profile.](../image/skills-intelligence-pre-seed.png)
+![Screen shot that shows an employee getting a notice about a skill gap in their profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/skills-intelligence-pre-seed.png)
 
 In the example, the employee received a notification that is based on what the application knows about that employee. The application notices that there’s a skill gap in their profile and then prompts the employee to add the needed information to the profile to remove the skill gap.
 
-**Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](drive-adoption-proactive-prompts.md)
+**Parent Topic:**[Solve the challenge of adoption with Proactive Prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/drive-adoption-proactive-prompts.md)
 

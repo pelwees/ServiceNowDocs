@@ -38,5 +38,5 @@ The `sn_vulc.exception_max_request_days` property is used to specify the maximum
     The record is updated and saved.
 
 
-**Parent Topic:**[Configure Exception Management for Security Exposure Management](sem-configure-exp-mngmt-vr.md)
+**Parent Topic:**[Configure Exception Management for Security Exposure Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-exp-mngmt-vr.md)
 

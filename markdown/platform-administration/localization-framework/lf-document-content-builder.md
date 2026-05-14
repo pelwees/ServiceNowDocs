@@ -194,5 +194,5 @@ saveTranslatedContent: function(documentContent) {
 }
 ```
 
-**Parent Topic:**[Artifact configurations](../concept/framework-configuration.md)
+**Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/framework-configuration.md)
 

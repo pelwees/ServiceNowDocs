@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-When creating universal links, you define the screen type and the data the user sees after they tap the mobile banner. See, [Create path segment records and supported URL records for universal linking](universal-linking-web-banner.md). Also there is an option to create a screen mapping for universal links. Users click these links to see a preconfigured screen based on a defined table.
+When creating universal links, you define the screen type and the data the user sees after they tap the mobile banner. See, [Create path segment records and supported URL records for universal linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/universal-linking-web-banner.md). Also there is an option to create a screen mapping for universal links. Users click these links to see a preconfigured screen based on a defined table.
 
 **Note:** Universal linking mapping does not apply to browser screens, as there are no options for styling and configuring a web page.
 
@@ -53,7 +53,7 @@ Mobile app
 
 </td><td>
 
-Use the reference lookup icon to select which mobile app the links navigate to.**Note:** The selection here is overridden by the selection made in the **Mobile app** field listed in the topic [Create path segment records and supported URL records for universal linking](universal-linking-web-banner.md).
+Use the reference lookup icon to select which mobile app the links navigate to.**Note:** The selection here is overridden by the selection made in the **Mobile app** field listed in the topic [Create path segment records and supported URL records for universal linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/universal-linking-web-banner.md).
 
 </td></tr><tr><td>
 
@@ -83,5 +83,5 @@ Use the reference lookup icon to select a preconfigured record screen that is as
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[Mobile universal linking for supported URLs](../concept/universal-linking-support-urls.md)
+**Parent Topic:**[Mobile universal linking for supported URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/universal-linking-support-urls.md)
 

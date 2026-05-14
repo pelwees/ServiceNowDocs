@@ -22,7 +22,7 @@ Maximize the use of your organization's resources by mapping application service
 -   Verify Machine Learning readiness.
 -   Confirm that the data is trained.
 
-For more information, see [Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md).
+For more information, see [Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/readiness-dashboard-ml.md).
 
 **Important:**
 
@@ -59,7 +59,7 @@ Actions
     |Organization method|Action|
     |-------------------|------|
     |Order|Select a column name to sort the results in ascending or descending order.|
-    |Group|Select the menu \(![Menu icon](../../service-operations-workspace-itom/image/menu-icon.png)\) icon to group results by the selected column.|
+    |Group|Select the menu \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../service-operations-workspace-itom/image/menu-icon.png)\) icon to group results by the selected column.|
 
 4.  Select the preferred candidate.
 5.  Select **Map application service**.
@@ -81,7 +81,7 @@ Actions
     |Organization method|Action|
     |-------------------|------|
     |Order|Select a column name to sort the results in ascending or descending order.|
-    |Group|Select the menu \(![Menu icon](../../service-operations-workspace-itom/image/menu-icon.png)\) icon to group results by the selected column.|
+    |Group|Select the menu \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../../service-operations-workspace-itom/image/menu-icon.png)\) icon to group results by the selected column.|
 
 4.  Select the preferred server or candidate.
 5.  Select **Map application service**.
@@ -93,5 +93,5 @@ Actions
 
 The selected application service candidate is converted to an application service, and the selected unmapped servers are mapped.
 
-**Parent Topic:**[Using Service Mapping](../concept/using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/using-service-mapping.md)
 

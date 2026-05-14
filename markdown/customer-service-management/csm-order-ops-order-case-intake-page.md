@@ -32,5 +32,5 @@ Depending on where the agent creates the order case from, some of these fields a
 -   **Specific line items, Single order**: If the agent selects **Create case** from the Order Line Items list on a customer order.
 -   **Multiple orders**: If the agent selects **Create case** from a customer order.
 
-After saving the intake record, the agent can see the [Order case record page](csm-order-ops-order-case-record-page.md) with the case line items created either from customer orders or customer order lines.
+After saving the intake record, the agent can see the [Order case record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md) with the case line items created either from customer orders or customer order lines.
 

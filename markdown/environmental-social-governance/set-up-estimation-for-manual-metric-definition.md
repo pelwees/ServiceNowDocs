@@ -32,5 +32,5 @@ Role required: admin
     Based on your selected settings, the estimation property is configured in your system.
 
 
-**Parent Topic:**[Create a manual metric definition](create-manual-metric-definition.md)
+**Parent Topic:**[Create a manual metric definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-manual-metric-definition.md)
 

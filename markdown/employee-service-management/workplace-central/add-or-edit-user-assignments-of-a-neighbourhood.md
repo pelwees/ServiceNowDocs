@@ -19,12 +19,12 @@ Add a user to a neighborhood or edit the existing user assignments of a neighbor
 
 Make sure that you have created a scenario that is based on neighborhoods. For more information about creating neighborhoods and scenarios, see the following topics.
 
-**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](../../workplace-space-management/concept/reviewing-allocation-changes.md).
+**Important:** If allocation changes in your instance impact the scenario, the system displays a warning on the Space Details panel. You must review the changes, edit the scenario accordingly, then select **Move to valid** before continuing. For more information about allocation changes, see [Reviewing allocation changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/concept/reviewing-allocation-changes.md).
 
-![Space details panel displaying a warning about reviewing allocation changes.](../images/wsd-central-review-changes.png)
+![Space details panel displaying a warning about reviewing allocation changes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/wsd-central-review-changes.png)
 
--   [Managing Neighborhoods](../../workplace-space-management/concept/neighborhoods.md)
--   [Create a scenario](create-a-scenario.md).
+-   [Managing Neighborhoods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../../workplace-space-management/concept/neighborhoods.md)
+-   [Create a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-scenario.md).
 
 **Important:** You can add a user assignment or edit a user assignment of a neighborhood only in a building view.
 
@@ -46,7 +46,7 @@ You can add or remove user assignments of a neighborhood in a building or a scen
 
     The Workplace Analytics dashboard opens.
 
-2.  Select the **Space Optimization** icon \(![Space optimization.](../images/space-optimization-icon.png)\).
+2.  Select the **Space Optimization** icon \(![Space optimization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/space-optimization-icon.png)\).
 
     The Space optimization dashboard opens.
 
@@ -58,7 +58,7 @@ You can add or remove user assignments of a neighborhood in a building or a scen
 
 4.  View the neighborhoods on each floor of the building.
 
-    1.  Select the Stack plan settings icon \(![Stack plan settings.](../images/stack-plan-settings-icon.png)\) to open the settings.
+    1.  Select the Stack plan settings icon \(![Stack plan settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/stack-plan-settings-icon.png)\) to open the settings.
 
     2.  In the **View by** field, select **Neighborhood**.
 
@@ -113,12 +113,12 @@ Use the filter option to filter the users list. You can add up to 1000 users to 
 </table>    Neighborhood assignments are applicable if **Neighborhood** is selected as the group by or view by option in a scenario or building overview. Location assignments are applicable for all other options.
 
 
-**Parent Topic:**[Viewing or editing a scenario](../concept/viewing-editing-scenario.md)
+**Parent Topic:**[Viewing or editing a scenario](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/viewing-editing-scenario.md)
 
 **Related topics**  
 
 
-[Edit a scenario using the stack plan](edit-scenario-stack-plan.md)
+[Edit a scenario using the stack plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-scenario-stack-plan.md)
 
-[Edit a scenario using the floor map](edit-scenario-floor-map.md)
+[Edit a scenario using the floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/edit-scenario-floor-map.md)
 

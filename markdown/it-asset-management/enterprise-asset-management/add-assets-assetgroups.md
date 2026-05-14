@@ -37,7 +37,7 @@ Assets can be added to an asset group or subgroups in the Enterprise Asset Works
 
 4.  Select **Add** to open the Add asset dialog box.
 
-    For details on the type of assets that appear, see the section titled [Considerations for adding assets to asset groups](../concept/asset-groups-eam.md#section_qrn_kdq_jfc).
+    For details on the type of assets that appear, see the section titled [Considerations for adding assets to asset groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/asset-groups-eam.md#section_qrn_kdq_jfc).
 
 5.  Select the assets that you want to add.
 
@@ -48,5 +48,5 @@ Assets can be added to an asset group or subgroups in the Enterprise Asset Works
     The selected assets are added to the asset group and are listed in the Assets related list.
 
 
-**Parent Topic:**[Create an asset group in Enterprise Asset Management](create-asset-groups-eam.md)
+**Parent Topic:**[Create an asset group in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-groups-eam.md)
 

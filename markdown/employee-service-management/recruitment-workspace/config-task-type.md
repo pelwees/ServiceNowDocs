@@ -33,10 +33,10 @@ Role required: sn\_uni\_task.admin
 3.  Select **Update** to save your changes to the record table.
 
 
-**Parent Topic:**[Configuring Recruitment Workspace](../concept/config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/config-recruitment.md)
 
 **Related topics**  
 
 
-[Map task types in Recruitment workspace](config-task-mapping.md)
+[Map task types in Recruitment workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-task-mapping.md)
 

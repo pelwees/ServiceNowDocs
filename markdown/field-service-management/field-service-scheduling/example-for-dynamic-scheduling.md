@@ -93,5 +93,5 @@ Consider how the calculation would change if the field agents were not all in th
 **Related topics**  
 
 
-[Configure dynamic scheduling](../task/create-dynamic-scheduling-config.md#)
+[Configure dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../task/create-dynamic-scheduling-config.md#)
 

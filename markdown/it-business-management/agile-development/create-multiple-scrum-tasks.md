@@ -44,7 +44,7 @@ A batch of tasks of the selected types is created with a short description of **
 
 ## What to do next
 
-Open each scrum task record and fill in more details such as description, priority, and others. For field information of a Scrum Task form, see [Scrum Task form](create-a-scrum-task.md#table_create_scrum_task).
+Open each scrum task record and fill in more details such as description, priority, and others. For field information of a Scrum Task form, see [Scrum Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-scrum-task.md#table_create_scrum_task).
 
-**Parent Topic:**[Create a scrum task for Agile Development 2.0 stories](create-a-scrum-task.md)
+**Parent Topic:**[Create a scrum task for Agile Development 2.0 stories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-scrum-task.md)
 

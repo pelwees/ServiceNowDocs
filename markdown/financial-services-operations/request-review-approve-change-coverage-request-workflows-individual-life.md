@@ -15,7 +15,7 @@ Learn how agents, using the increase coverage workflow, resolve service requests
 
 The following diagram shows how the application helps agents resolve an increase coverage request.
 
-![Workflow displaying the Increase coverage process. For the text description, refer to the following workflow routes.](../image/individual-life-servicing-increase-coverage-workflow.png "Individual Life Servicing - Increase coverage workflow example")
+![Workflow displaying the Increase coverage process. For the text description, refer to the following workflow routes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/individual-life-servicing-increase-coverage-workflow.png "Individual Life Servicing - Increase coverage workflow example")
 
 The insurance policy admin can review and customize this predefined flow based on the business needs of your organization.
 

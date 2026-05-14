@@ -25,7 +25,7 @@ A skill category can contain parent and child categories that together create a 
 
 You can build your skill taxonomy from scratch or use the sample data provided with your application.
 
-![Skill Taxonomy](../images/skill-taxonomy.png "Skill Taxonomy")
+![Skill Taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/../images/skill-taxonomy.png "Skill Taxonomy")
 
 ## Procedure
 

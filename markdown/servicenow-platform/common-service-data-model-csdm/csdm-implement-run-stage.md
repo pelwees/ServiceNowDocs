@@ -31,9 +31,9 @@ When you use ITSM, you must understand the impact that a technology can have on 
 
 ## Tables that you work on during the Run stage
 
-![Tables that you work on during the Run stage.](../image/implementation-stage-run.png)
+![Tables that you work on during the Run stage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/implementation-stage-run.png)
 
-**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](../task/csdm-auto-create-prod-model-for-ci.md).
+**Note:** Some of the classes that you implement in this stage are logical CIs. Logical CIs aren’t created through Discovery, so their **Model ID** values might not refer to product model \(application model, service model, or software model\) records. To help you to migrate to a product-centric management paradigm, each instance of a logical CI should be associated with a product model. See [Auto-generate product models for logical CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../task/csdm-auto-create-prod-model-for-ci.md).
 
 -   **Business service portfolio \[service\_portfolio\] table**
 
@@ -57,8 +57,8 @@ When you use ITSM, you must understand the impact that a technology can have on 
 
 -   **Request catalog**
 
-    A catalog \(sometimes called a request catalog, service catalog, or service request catalog\) is a set of business and technical products, services, service commitment options, and offerings that users can order on a self-service basis. You can manage a catalog to present your available products and services to users as catalog items. Catalogs are described in detail in [Service Catalog](../../service-catalog-management/concept/service-catalog.md).
+    A catalog \(sometimes called a request catalog, service catalog, or service request catalog\) is a set of business and technical products, services, service commitment options, and offerings that users can order on a self-service basis. You can manage a catalog to present your available products and services to users as catalog items. Catalogs are described in detail in [Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../service-catalog-management/concept/service-catalog.md).
 
 
-**Parent Topic:**[Implementing the CSDM framework in stages](csdm-implementation-stages.md)
+**Parent Topic:**[Implementing the CSDM framework in stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 

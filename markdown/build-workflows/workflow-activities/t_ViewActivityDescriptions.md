@@ -23,9 +23,9 @@ Role required: admin
 
 ## Procedure
 
-1.  To view an activity description in the [Workflow Editor](../../workflow/reference/workflow-editor.md), point to the icon for the activity in the palette.
+1.  To view an activity description in the [Workflow Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../../workflow/reference/workflow-editor.md), point to the icon for the activity in the palette.
 
-    ![Viewing activity tooltips in the palette](../../workflow-activities/image/ActivityTooltips.png)
+    ![Viewing activity tooltips in the palette](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../../workflow-activities/image/ActivityTooltips.png)
 
 2.  To modify activity descriptions, navigate to **Workflow** &gt; **Administration** &gt; **Activity Definitions** and edit the **Description** field.
 
@@ -36,7 +36,7 @@ Role required: admin
 
 Each activity can specify a number of elements that control the behavior of the activity or are controlled by the activity.
 
-Not all activities specify all possible elements. See [Workflow activities](../concept/c_WorkflowActivities.md) for links to the activities provided by default. Each activity description includes a detailed explanation of the specific elements offered by that activity.
+Not all activities specify all possible elements. See [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_WorkflowActivities.md) for links to the activities provided by default. Each activity description includes a detailed explanation of the specific elements offered by that activity.
 
 <table id="table_e53_zfy_3r"><thead><tr><th>
 
@@ -68,7 +68,7 @@ Input variables
 
 </td><td>
 
-Values that control the behavior of the activity. Fields to set these values appear on the Activity Properties form when a new activity is added to a workflow. See [Activity variables](../concept/c_UsingVariablesInAWorkflow.md#) for more information.
+Values that control the behavior of the activity. Fields to set these values appear on the Activity Properties form when a new activity is added to a workflow. See [Activity variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_UsingVariablesInAWorkflow.md#) for more information.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Conditions
 
 </td><td>
 
-Determines which transition the activity follows after completing. See [Manage workflow activity conditions](t_ManageActivityConditions.md#) for more information.
+Determines which transition the activity follows after completing. See [Manage workflow activity conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/t_ManageActivityConditions.md#) for more information.
 
 </td></tr><tr><td>
 

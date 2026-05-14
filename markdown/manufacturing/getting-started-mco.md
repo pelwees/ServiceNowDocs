@@ -15,6 +15,6 @@ Activate the Manufacturing Commercial Operations plugin and plan your implementa
 
 |Plugin|Description|
 |------|-----------|
-|[Install Manufacturing Commercial Operations](install-manufacturing-commercial-operations-core.md)|As an admin, activate the MCO plugin. This plugin includes demo data and activated related plugins.|
-|[Plugins installed with Manufacturing Commercial Operations](manufacturing-commercial-operations-plugins.md)|Refer to the list of related MCO plugins that are activated after you activate the MCO plugin.|
+|[Install Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/install-manufacturing-commercial-operations-core.md)|As an admin, activate the MCO plugin. This plugin includes demo data and activated related plugins.|
+|[Plugins installed with Manufacturing Commercial Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-commercial-operations-plugins.md)|Refer to the list of related MCO plugins that are activated after you activate the MCO plugin.|
 

@@ -27,14 +27,14 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 3.  Select **Analysis** &gt; **Cohort Analysis**.
 
-4.  Select the Actions menu ![Actions menu icon](../../integrationhub/images/more-actions-menu-icon.png) of the cohort you want to edit and choose **Edit**.
+4.  Select the Actions menu ![Actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../integrationhub/images/more-actions-menu-icon.png) of the cohort you want to edit and choose **Edit**.
 
 5.  Change the name, description and actions as desired.
 
-    ![Edit cohort dialog.](../../../use/par-for-workspace/image/uxa-edit-cohort.png)
+    ![Edit cohort dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-edit-cohort.png)
 
 6.  Select **Save** to update the cohort configuration.
 
 
-**Parent Topic:**[Cohort analysis in Usage Insights](../concept/uxa-cohorts.md)
+**Parent Topic:**[Cohort analysis in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/uxa-cohorts.md)
 

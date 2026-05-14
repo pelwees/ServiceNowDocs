@@ -27,7 +27,7 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
-2.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 
 3.  View all contracts by navigating to **Legal Contracts** &gt; **All Contracts**.
 
@@ -35,7 +35,7 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 5.  Modify the contract end date.
 
-    1.  In the **End date** field, select the Show End date calendar icon \(![Show Start date calendar icon](../../contract-mgmt-pro/image/lsd-cont-rec-calendar.png)\).
+    1.  In the **End date** field, select the Show End date calendar icon \(![Show Start date calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/lsd-cont-rec-calendar.png)\).
 
     2.  In the calendar pop-up, select a date.
 
@@ -43,25 +43,25 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 6.  Modify the parent contract.
 
-    1.  In the **Parent contract** field, select the Search for Record icon \(![Search for Record icon](../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
+    1.  In the **Parent contract** field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
 
     2.  In the Parent contract pop-up list, select a contract record to assign as the parent contract.
 
 7.  Change the contract model.
 
-    1.  In the **Contract model** field, select the Search for Record icon \(![Search for Record icon](../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
+    1.  In the **Contract model** field, select the Search for Record icon \(![Search for Record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../contract-mgmt-pro/image/lsd-cont-rec-search.png)\).
 
     2.  In the Contract model pop-up list, select the model.
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](../concept/snlc-manage-sn-legal-contracts.md)
+**Parent Topic:**[Manage Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-sn-legal-contracts.md)
 
 **Related topics**  
 
 
-[View a contract repository record](snlc-view-contract-rec.md)
+[View a contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-contract-rec.md)
 
-[Manage clauses and contract templates](../concept/snlc-manage-clauses-ctemplates.md)
+[Manage clauses and contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-manage-clauses-ctemplates.md)
 

@@ -56,8 +56,8 @@ Role required: admin
 5.  Select **Install**.
 
 
--   **[Approve application restricted caller access privileges](ur-mst-approve-rca.md)**  
+-   **[Approve application restricted caller access privileges](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-approve-rca.md)**  
 Approve restricted caller access \(RCA\) privileges in the target scope so that you can provide scope access privileges. Approving the RCA privileges enables the script includes in Universal Request scope to be accessed from the Universal Request integration with Microsoft Teams scope.
 
-**Parent Topic:**[Plan your installation](../concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/plan-installation-ms-teams.md)
 

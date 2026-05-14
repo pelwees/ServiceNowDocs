@@ -321,14 +321,14 @@ Percentage increase or decrease in price of contract. A negative percentage indi
  You can specify a value for either **Cost adjustment** or **Cost adjustment percentage** but not both.
 
 </td></tr></tbody>
-</table>For detailed information on how to create workplace contract, see [Create workplace contracts in Core UI](../task/create-lease-contracts.md)
+</table>For detailed information on how to create workplace contract, see [Create workplace contracts in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../task/create-lease-contracts.md)
 
-**Parent Topic:**[Workplace Lease Administration references](../concept/workplace-lease-references.md)
+**Parent Topic:**[Workplace Lease Administration references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/workplace-lease-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Lease Administration](component-installed-lease-admin.md)
+[Components installed with Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/component-installed-lease-admin.md)
 
-[Scripts installed with Workplace Lease Administration](scripts-lease-admin.md)
+[Scripts installed with Workplace Lease Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/scripts-lease-admin.md)
 

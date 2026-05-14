@@ -23,7 +23,7 @@ To view the script, navigate to **Service Level Management** &gt; **Administrati
 
 The following diagram shows how the transitions work:
 
-![Task SLA stage transitions 2011 version](../image/SLAConditionBase.png "SLAConditionBase")
+![Task SLA stage transitions 2011 version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../image/SLAConditionBase.png "SLAConditionBase")
 
-**Parent Topic:**[SLA condition rules](../concept/c_SLAConditionRules.md)
+**Parent Topic:**[SLA condition rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/../concept/c_SLAConditionRules.md)
 

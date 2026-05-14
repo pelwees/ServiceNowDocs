@@ -64,5 +64,5 @@ The **Life Cycle Stage** and **Life Cycle Stage Status** fields are used to capt
     -   zone
     -   isa\_entity\_site \(only available if you have the Industrial Process Manager application installed\)
 
-**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](../concept/integration-sgc-microsoft-defender-iot-azure.md)
+**Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/integration-sgc-microsoft-defender-iot-azure.md)
 

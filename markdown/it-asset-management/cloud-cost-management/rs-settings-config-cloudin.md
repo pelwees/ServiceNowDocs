@@ -141,10 +141,10 @@ This field appears only when the **Advanced** check box is selected.
 </table>4.  Select **Save**.
 
 
--   **[Specify rate discounts to enable accurate pricing for Rightsizing recommendations](discounts-specify-cloudin.md)**  
+-   **[Specify rate discounts to enable accurate pricing for Rightsizing recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/discounts-specify-cloudin.md)**  
 To generate an accurate Rightsizing recommendation, the system analyzes usage data for the last 14 days, obtains prices from the price sheet data tables, and then applies appropriate discounts. To enable the calculations, specify the provider's discount rate for each service account.
--   **[Define a metric threshold](define-metric-threshold.md)**  
+-   **[Define a metric threshold](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/define-metric-threshold.md)**  
 To enable accurate memory usage data for use in generating Rightsizing recommendations, you first define memory metrics in your account. You then define a custom memory metric in Cloud Cost Management.
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/resize-res-ci.md)
 

@@ -45,7 +45,7 @@ The following procedure contains examples that are specific to the request summa
 
     **Note:** Activity response generation skills cannot be copied at this time, and their input table and input fields are read-only.
 
-    1.  Select the more actions icon ![More actions icon.](../../itsm-workspace/image/more-actions-icon.png) for the skill, and select **Make a copy** to create a copy to customize.
+    1.  Select the more actions icon ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../itsm-workspace/image/more-actions-icon.png) for the skill, and select **Make a copy** to create a copy to customize.
 
     2.  Select the copied skill and select **Activate** to activate the skill.
 
@@ -59,7 +59,7 @@ The following procedure contains examples that are specific to the request summa
 
 6.  Choose input data.
 
-    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](../reference/now-assist-itsm-skills.md).
+    For information about the inputs and triggers for each skill, see [Skill inputs and triggers for Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../reference/now-assist-itsm-skills.md).
 
     Each skill relies on a base input table and input fields with descriptions to provide context for the Now LLM Service to generate a response.
 
@@ -67,7 +67,7 @@ The following procedure contains examples that are specific to the request summa
 
     1.  Add multiple base input tables and fields if more inputs are needed.
 
-        ![Choose input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-itsm-request-summarization-skill.png)
+        ![Choose input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-request-summarization-skill.png)
 
         The following table lists the base input table fields and descriptions, including a relevant example.
 
@@ -106,7 +106,7 @@ Description of the base input field value.
 
         Configuring the related table fields follows the same format as the base input table fields in the Choose input step.
 
-        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](../image/now-assist-itsm-request-management-sla.png)
+        ![Choose additional input data screen that contains the input tables and fields to define the prompt.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-request-management-sla.png)
 
     3.  Select **Save and continue** to go to the next step.
 
@@ -116,7 +116,7 @@ Description of the base input field value.
 
     2.  Select **Edit prompt in Now Assist Skill Kit** to make necessary changes to the prompt in the Now Assist Skill Kit.
 
-        ![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](../image/now-assist-itsm-request-edit-prompt.png)
+        ![Edit prompt screen to modify prompts in the Now Assist Skill Kit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-request-edit-prompt.png)
 
     3.  Select **Save and continue** to go to the next step.
 

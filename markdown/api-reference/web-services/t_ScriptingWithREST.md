@@ -41,7 +41,7 @@ Generate an example script and use it as a starting point when scripting outboun
 
     The instance displays the script that the REST message generated for this method.
 
-    ![REST Message Script Preview](../image/RESTMessageScriptPreview.png)
+    ![REST Message Script Preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/RESTMessageScriptPreview.png)
 
 8.  Copy this script and modify it as needed to use elsewhere in the instance.
 
@@ -50,5 +50,5 @@ Generate an example script and use it as a starting point when scripting outboun
 
 Refer to the RESTMessageV2 and RESTResponseV2 APIs for more information on available scripting methods. Outbound REST scripting examples are also available.
 
-**Parent Topic:**[Scripting outbound REST](../concept/c_ScriptingOutboundREST.md)
+**Parent Topic:**[Scripting outbound REST](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_ScriptingOutboundREST.md)
 

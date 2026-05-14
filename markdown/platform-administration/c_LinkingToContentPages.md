@@ -19,5 +19,5 @@ For example, to link the email recipient to a page called Incident in the conten
 
 The resulting email URL has this format: `https://<instance name>.service-now.com/ess/incident_detail.do?sysparm_document_key=incident,46e18c0fa9fe19810066a0083f76bd56`
 
-**Parent Topic:**[Links to records in email notifications](c_EnablingLinksToServiceNowRecords.md)
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md)
 

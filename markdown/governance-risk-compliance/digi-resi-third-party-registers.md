@@ -17,19 +17,19 @@ The Digital resilience third-party registers application enables the customers t
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Digital resilience third-party registers](exploring-digi-resi-third-party-registers.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Digital resilience third-party registers](exploring-digi-resi-third-party-registers.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital resilience third-party registers](conf-dg-resi-party-regi.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital resilience third-party registers](conf-dg-resi-party-regi.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Add branches, contracts and upload records](using-dg-registers.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Add branches, contracts and upload records](using-dg-registers.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with Digital resilience third-party registers](../reference/digi-resi-ref.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/brand-icons/bus-learn.svg) Components installed with Digital resilience third-party registers](../reference/digi-resi-ref.md)
 
 </td></tr></tbody>
 </table>

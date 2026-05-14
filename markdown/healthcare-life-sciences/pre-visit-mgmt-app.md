@@ -25,31 +25,31 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Pre-Visit Management.](pre-visit.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how healthcare organizations use Pre-Visit Management.](pre-visit.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](pre-visit-config-app.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](pre-visit-config-app.md)
 
 </td><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Manage procedure requests from the Workspace.](pre-visit-using-workspace.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Manage procedure requests from the Workspace.](pre-visit-using-workspace.md)
 
 </td></tr><tr><td>
 
-[Complete ![](../../../reuse/icons/brand-icons/bus-compliance.svg) Complete your to-do items for procedure requests.](pre-visit-complete-to-do.md)
+[Complete ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-compliance.svg) Complete your to-do items for procedure requests.](pre-visit-complete-to-do.md)
 
 </td><td>
 
-[Contribute ![](../../../reuse/icons/brand-icons/bus-case.svg) Create procedure request cases as a contributor.](pre-visit-create-case-contributor.md)
+[Contribute ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-case.svg) Create procedure request cases as a contributor.](pre-visit-create-case-contributor.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pre-visit-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components including tables and properties.](../reference/pre-visit-reference.md)
 
 </td></tr><tr><td>
 
-[Analytics and reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with dashboards and reports.](pre-visit-analytics-reporting.md)
+[Analytics and reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with dashboards and reports.](pre-visit-analytics-reporting.md)
 
 </td><td>
 

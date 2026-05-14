@@ -27,7 +27,7 @@ For more information on data visualization components, see the following topics 
 -   [Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md)
 -   [Developer site data visualization component listing](https://developer.servicenow.com/dev.do#!/reference/now-experience/yokohama/now-components/sn-par-visualization-base/overview)
 
-![Data visualization element to be edited](../image/wb-data-viz-purple-new.png)
+![Data visualization element to be edited](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-data-viz-purple-new.png)
 
 ## Filter components
 
@@ -44,7 +44,7 @@ Heading components are available in the home pages for workspaces. Add a title t
 
 The following image shows a "My Heading" heading.
 
-![Example heading component](../image/heading-component-purple.png)
+![Example heading component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/heading-component-purple.png)
 
 For more information on heading components, see the [Heading Overview on the Developer site](https://developer.servicenow.com/dev.do#!/reference/now-experience/yokohama/now-components/now-heading/overview).
 
@@ -52,9 +52,9 @@ For more information on heading components, see the [Heading Overview on the Dev
 
 Add images to your landing page with an image component.
 
-When you drag the image component icon \(![Image component](../../../administer/workspace/image/icon-image-component.jpg)\) into the preview pane, a stock image appears that you can change and resize. You can change the stock image by supplying your image's URL.
+When you drag the image component icon \(![Image component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../administer/workspace/image/icon-image-component.jpg)\) into the preview pane, a stock image appears that you can change and resize. You can change the stock image by supplying your image's URL.
 
-![Sample image component](../image/component-image-purple.png)
+![Sample image component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/component-image-purple.png)
 
 For more information on image components, see the [Developer site image component listing](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-image/overview).
 
@@ -62,9 +62,9 @@ For more information on image components, see the [Developer site image componen
 
 Use a list component to add lists to your landing page.
 
-When you drag the list component icon \(![List component](../../../administer/workspace/image/icon-list-component.jpg)\) into the preview pane, a sample list appears.
+When you drag the list component icon \(![List component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../administer/workspace/image/icon-list-component.jpg)\) into the preview pane, a sample list appears.
 
-![Sample list component](../image/wb-list-component-purple.png)
+![Sample list component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-list-component-purple.png)
 
 For more information on list components, see the [Developer site List component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-list-connected/overview).
 
@@ -72,9 +72,9 @@ For more information on list components, see the [Developer site List component 
 
 Add text to your landing page with a rich text component to explain parts of your landing page, for example, "Tackle these priority 1 incidents first."
 
-![Sample rich text component](../image/wb-rich-text-component-purple.png)
+![Sample rich text component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../image/wb-rich-text-component-purple.png)
 
 For more information on rich text components, see the [Developer site Rich text component reference](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-rich-text/overview).
 
-**Parent Topic:**[Workspace Builder reference](../../workspace-builder/concept/workspace-builder-reference.md)
+**Parent Topic:**[Workspace Builder reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../workspace-builder/concept/workspace-builder-reference.md)
 

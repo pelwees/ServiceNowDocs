@@ -36,5 +36,5 @@ Role required: admin
     **Note:** If a user is present in both Can Read and Cannot Read related lists, the Cannot Read takes precedence and the user is restricted from read access to that external learning course.
 
 
-**Parent Topic:**[View external Learning content](view-external-learning-content.md)
+**Parent Topic:**[View external Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 

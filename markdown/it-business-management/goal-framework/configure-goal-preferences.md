@@ -25,7 +25,7 @@ Role required: sn\_gf.goal\_admin
 
 2.  On the Goal Preferences form, configure the properties.
 
-    For properties information, see [Goal Preferences form](../reference/goal-preferences-form-1.md).
+    For properties information, see [Goal Preferences form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/../reference/goal-preferences-form-1.md).
 
 3.  Click **Save**.
 

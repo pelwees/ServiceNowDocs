@@ -28,17 +28,17 @@ Agents and dispatchers can also book appointments on behalf of customers. Bookin
     -   When a minimum lag time is defined between tasks, the window start of the successor task is calculated as per the specified lag time. For example, if the predecessor task ends on 12 May, 1.00 p.m, and the lag time is 3 days, the appointment for the successor task is scheduled only after 1.00 p.m on 15 May.
     -   If a maximum lag time is specified in the predecessor task, the successor task must be completed within that window. For example, if the appointment for the successor task is scheduled on May 15 and the maximum lag time specified is 3 days, the successor task must be scheduled and completed by May 18.
 
-When Capacity and Reservations Management is installed, the system factors in capacity and reservation rules from the Capacity Management module as it presents available slots for booking new appointments or rescheduling existing ones. For more information, see [Capacity and Reservations Management](capacity-management.md).
+When Capacity and Reservations Management is installed, the system factors in capacity and reservation rules from the Capacity Management module as it presents available slots for booking new appointments or rescheduling existing ones. For more information, see [Capacity and Reservations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/capacity-management.md).
 
 ## Using overview
 
 Managing appointments includes one of the following activities.
 
--   [Managing appointments on behalf of a customer](managing-appts-on-behalf-of-customer.md)
+-   [Managing appointments on behalf of a customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/managing-appts-on-behalf-of-customer.md)
 
     Agents and dispatchers can manage appointments on behalf of a customer from a work order, work order task, or in the CSM/ FSM Configurable Workspace.
 
--   [Managing appointments as a customer](manage-appts-as-a-customer.md)
+-   [Managing appointments as a customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/manage-appts-as-a-customer.md)
 
     Customers can book, reschedule, or cancel appointments. Booking an appointment from the portal creates a work order for the selected service.
 
@@ -46,7 +46,7 @@ Managing appointments includes one of the following activities.
 **Related topics**  
 
 
-[Appointment booking](appointment-booking.md)
+[Appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/appointment-booking.md)
 
-[Configuring Appointment Booking](appointment-booking-administer.md)
+[Configuring Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/appointment-booking-administer.md)
 

@@ -31,7 +31,7 @@ Role required: admin
 
 4.  Select **Template: AWA post work item**.
 
-5.  In the subflow header, select the more actions icon \(![More actions icon](../image/awa-more-actions.png)\) and then **Copy subflow.**
+5.  In the subflow header, select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/awa-more-actions.png)\) and then **Copy subflow.**
 
 6.  On the Create a copy of this subflow dialog, enter a unique and descriptive name for the copied subflow in the **New subflow name** field.
 

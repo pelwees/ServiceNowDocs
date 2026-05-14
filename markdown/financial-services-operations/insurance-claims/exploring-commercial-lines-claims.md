@@ -90,5 +90,5 @@ Manager who approves the reserves and payment requests and can view an overview 
 </table>**Related topics**  
 
 
-[Commercial Lines Claims dashboard](../../../use/dashboards/application-content-packs/commercial-lines-claims.md)
+[Commercial Lines Claims dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/dashboards/application-content-packs/commercial-lines-claims.md)
 

@@ -321,5 +321,5 @@ N/A
 </td></tr></tbody>
 </table>**Note:** If you upgrade the Content Playbook plugin on an instance and encounter unexpected policy update issues, see the [Troubleshooting: Policy update issues post DEX plugin upgrade \[KB1586917\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1586917) article in the Now Support knowledge base.
 
-**Parent Topic:**[DEX Content Playbook reference](dex-content-playbook-reference.md)
+**Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 

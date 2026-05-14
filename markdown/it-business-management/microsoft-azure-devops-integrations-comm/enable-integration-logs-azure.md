@@ -29,7 +29,7 @@ Enable the project logging property in the Agile Azure DevOps Integration applic
 
 2.  Select the **Enable Integration Project Logging** check box.
 
-    ![Select the Yes|No check box to enable project logging.](../image/agile-azure-integration.png)
+    ![Select the Yes|No check box to enable project logging.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../image/agile-azure-integration.png)
 
 3.  Click **Save**.
 

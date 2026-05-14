@@ -151,7 +151,7 @@ Status of the system service.
 2.  If you want to create an OT system service in the Industrial Workspace list view, complete these actions:
 
     1.  Navigate to **All** &gt; **Industrial Workspace**.
-    2.  Select the List \(![List icon](../../../common/image/icon-list.png)\) icon.
+    2.  Select the List \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
     3.  Under the **Operational Technology \(OT\)** module, select the **OT Systems** list.
     4.  Select **New**.
     5.  On the form, fill in the following fields.
@@ -273,7 +273,7 @@ Status of the system service.
 
 ## What to do next
 
-Now you can add OT devices to the system service. For more information, see [Add a device to an Operational Technology system service](add-devices-to-ot-system-service.md).
+Now you can add OT devices to the system service. For more information, see [Add a device to an Operational Technology system service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/add-devices-to-ot-system-service.md).
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/modeling-ot-system.md)
 

@@ -107,5 +107,5 @@ Actual cost
 Actual cost incurred for the CoPQ request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Quality issue management form](mco-qim-form.md)
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 

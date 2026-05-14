@@ -21,7 +21,7 @@ Role required: admin
 
 Records are displayed in the Customer Information view in Agent Workspace.
 
-![Contact section displaying the contact details of the customer.](../image/customer-records.jpg)
+![Contact section displaying the contact details of the customer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-records.jpg)
 
 ## Procedure
 

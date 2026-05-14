@@ -15,7 +15,7 @@ breadcrumb: [Akamai API Security, Service Graph Connectors, Integrating third-pa
 
 You can access the connection details of the Service Graph Connector for Akamai API Security in a single view using the common connection framework \(CCF\) included within the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
-With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](integration-commons-conn-fw.md).
+With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/integration-commons-conn-fw.md).
 
 ## Access the details of an Akamai API Security connection
 
@@ -41,5 +41,5 @@ Role required: admin
 **Related topics**  
 
 
-[Service Graph Connector for Akamai API Security](sgc-integration-akamai.md)
+[Service Graph Connector for Akamai API Security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-integration-akamai.md)
 

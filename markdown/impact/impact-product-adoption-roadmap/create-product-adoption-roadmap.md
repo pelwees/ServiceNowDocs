@@ -70,9 +70,9 @@ Actions
 
 7.  Select a capability to view its details page, and to view or edit phase level notes.
 
-    ![Select a capability in a created map to view its details and edit phases.](../image/select-capability-PARs.png)
+    ![Select a capability in a created map to view its details and edit phases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/select-capability-PARs.png)
 
-    Select the **About** tab to view capability notes and phase specific notes for that capability. See [Capability Details Page](../reference/capability-details.md).
+    Select the **About** tab to view capability notes and phase specific notes for that capability. See [Capability Details Page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../reference/capability-details.md).
 
 8.  Select **Edit Roadmap Details** to edit the name, description and owner of the map.
 
@@ -86,7 +86,7 @@ Actions
 
     3.  Select **Edit Phase titles and descriptions** to edit phase titles and descriptions. 
 
-    ![Manage capability for a given phase by adding, deleting, edit phase titles and descriptions.](../image/manage-capabilities-phase-pars.png)
+    ![Manage capability for a given phase by adding, deleting, edit phase titles and descriptions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/manage-capabilities-phase-pars.png)
 
 11. Select **Publish**.
 

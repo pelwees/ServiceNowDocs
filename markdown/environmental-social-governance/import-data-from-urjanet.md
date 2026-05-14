@@ -36,5 +36,5 @@ The entities are created with the following details.
 -   Location: Service address of the Urjanet meter.
 -   Description: Provider of the Urjanet meter.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](../concept/integrating-esg-management-with-urjanet.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/integrating-esg-management-with-urjanet.md)
 

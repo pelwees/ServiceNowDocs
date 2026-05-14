@@ -19,13 +19,13 @@ Role required: sn\_bcm.admin, sn\_bcm.planner, sn\_bcm.program\_manager
 
 The BCM admin role \(sn\_bcm.admin\) inherits Document Templates roles \(sn\_doc.reader and sn\_doc.writer\) through the sn\_bcm.core\_manager role, rather than containing them directly. These inherited roles enable BCM administrators to create, read, and write Document Templates \(sn\_doc\_template\). BCM products use the Document Templates application to generate and print PDFs. As a result, BCM administrators can edit the content of PDFs within BCM document templates.
 
-![PDF.](../image/edit-pdf-bcm.png)
+![PDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edit-pdf-bcm.png)
 
 Verify that you have downloaded the PDF of a business impact analysis, business continuity plan, or event according to the steps mentioned in these topics:
 
--   [Generate BIA reports in PDF or Microsoft Word formats](generate-pdf-for-bia.md)
--   [Generate BCP reports in PDF or Microsoft Word format](generate-pdf-for-bcp.md)
--   [Generate event reports in PDF or Microsoft Word](generate-pdf-for-events.md)
+-   [Generate BIA reports in PDF or Microsoft Word formats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bia.md)
+-   [Generate BCP reports in PDF or Microsoft Word format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-bcp.md)
+-   [Generate event reports in PDF or Microsoft Word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/generate-pdf-for-events.md)
 
 ## About this task
 
@@ -42,7 +42,7 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     The document templates for BCM are displayed as shown in the example.
 
-    ![Document templates for BCM.](../image/document-templates-bcm.png)
+    ![Document templates for BCM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/document-templates-bcm.png)
 
 2.  To update the BIA template, select it from the list view and select **Edit**.
 
@@ -50,7 +50,7 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     The BIA template is shown in the example.
 
-    ![BIA template.](../image/bia-pdf-template.png)
+    ![BIA template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bia-pdf-template.png)
 
     1.  Select the desired UI action, update the template, and save the changes.
 
@@ -105,7 +105,7 @@ Select **Create New Block**.
 
     The BCP template is shown in the example.
 
-    ![BCP template.](../image/bcp-pdf-template.png)
+    ![BCP template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcp-pdf-template.png)
 
     1.  Select the desired UI action, update the template, and save the changes.
 
@@ -115,7 +115,7 @@ Select **Create New Block**.
 
     The Events template is shown in the example.
 
-    ![Events template.](../image/event-pdf-template.png)
+    ![Events template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-pdf-template.png)
 
     1.  Select the desired UI action, update the template, and save the changes.
 

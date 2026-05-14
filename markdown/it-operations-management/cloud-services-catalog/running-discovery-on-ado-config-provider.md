@@ -35,7 +35,7 @@ Role required: none
 
 6.  Navigate to **Manage** &gt; **Config Management** and add a config provider.
 
-    ![Edit Azure Devops Config provider form.](../image/edit-ado-config-provider.png)
+    ![Edit Azure Devops Config provider form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/edit-ado-config-provider.png)
 
     **Important:**
 
@@ -43,16 +43,16 @@ Role required: none
 
 7.  Discover all projects, pipelines, and pipeline variables in an organization by running Discovery.
 
-    ![Azure DevOps Config provider for DevOps project.](../image/ado-config-provider.png)
+    ![Azure DevOps Config provider for DevOps project.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/ado-config-provider.png)
 
 8.  Find the Config installables under the selected Azure DevOps project.
 
-    ![Details of ADO Config provider Installables.](../image/cfg-installables.png)
+    ![Details of ADO Config provider Installables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/cfg-installables.png)
 
 
 ## Result
 
 You can now order an Azure DevOps catalog item from the Azure DevOps catalog order form on Employee Center.
 
-**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](../concept/integrating-azure-devops-and-cicd-pipeline.md)
+**Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../concept/integrating-azure-devops-and-cicd-pipeline.md)
 

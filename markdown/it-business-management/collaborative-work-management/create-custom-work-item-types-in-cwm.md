@@ -17,7 +17,7 @@ Create custom item types for Boards in Collaborative Work Management, so that yo
 
 ## Before you begin
 
-[Create a Board in CWM](create-boards-in-cwm.md).
+[Create a Board in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md).
 
 Role required: sn\_cwm.cwm\_user
 
@@ -33,7 +33,7 @@ Create custom work item type in CWM video. Approximately forty nine seconds long
 
 2.  Navigate to the Board that you want to add custom tasks to.
 
-3.  From the Board header, select the More actions icon \(![More actions icon.](../images/cwm-icon-more-actions.png)\) and select **Manage item types**.
+3.  From the Board header, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-more-actions.png)\) and select **Manage item types**.
 
 4.  From the Default item types section, enable or disable Task or Defect to be available for your Boards.
 
@@ -54,7 +54,7 @@ Create custom work item type in CWM video. Approximately forty nine seconds long
 
 ## What to do next
 
-Add tasks of the new item type to your Board using the More actions menu \(![More actions icon.](../images/cwm-icon-more-actions.png)\) on the Board header.
+Add tasks of the new item type to your Board using the More actions menu \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-more-actions.png)\) on the Board header.
 
-**Parent Topic:**[Managing work using Boards in CWM](../concept/cwm-boards.md)
+**Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/cwm-boards.md)
 

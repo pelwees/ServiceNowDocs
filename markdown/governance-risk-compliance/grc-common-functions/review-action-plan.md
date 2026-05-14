@@ -36,5 +36,5 @@ Action plans are typically created in the ServiceNow® GRC product through the P
 4.  Review the action plan.
 
 
-**Parent Topic:**[Align and prioritize cybersecurity activities](../concept/align-prioritize-activities.md)
+**Parent Topic:**[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/align-prioritize-activities.md)
 

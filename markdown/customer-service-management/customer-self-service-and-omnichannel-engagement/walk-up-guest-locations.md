@@ -27,7 +27,7 @@ Role required: sn\_csm\_walkup.walkup\_admin, catalog\_admin
 
 2.  Select a location that the guest user needs access to.
 
-3.  Click the Preview this record icon \( ![Preview this record icon.](../image/preview-record.png)\) next to the **Catalog item** field.
+3.  Click the Preview this record icon \( ![Preview this record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/preview-record.png)\) next to the **Catalog item** field.
 
 4.  In the Record Producer window, click **Open Record**.
 

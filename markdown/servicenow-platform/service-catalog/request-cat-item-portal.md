@@ -51,7 +51,7 @@ To add one or more attachments to the catalog item, select the choose a file lin
 
 </td><td>
 
-To add the catalog item to the shopping cart, click the Add to Cart icon \(![Icon to add to the cart](../image/IconAddTocart.png)\).
+To add the catalog item to the shopping cart, click the Add to Cart icon \(![Icon to add to the cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddTocart.png)\).
 
 </td></tr><tr><td id="d639486e166">
 
@@ -59,7 +59,7 @@ To add the catalog item to the shopping cart, click the Add to Cart icon \(![Ico
 
 </td><td>
 
-To add the catalog item to the wish list, click the Add to Wish List icon \(![Icon to add to the wishlist](../image/SPWishList.png)\).
+To add the catalog item to the wish list, click the Add to Wish List icon \(![Icon to add to the wishlist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/SPWishList.png)\).
 
 </td></tr></tbody>
 </table>6.  Click **Order Now**.
@@ -119,20 +119,20 @@ To add the catalog item to the wish list, click the Add to Wish List icon \(![Ic
         -   The **Opened By** field of the cloned requests is updated with the logged in user.
         -   Select the **Requests** menu option or the My Requests widget on the catalog homepage to view the cloned request created for the user.
 
-**Parent Topic:**[Service Catalog in Service Portal](../concept/catalog-on-portal.md)
+**Parent Topic:**[Service Catalog in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/catalog-on-portal.md)
 
 **Related topics**  
 
 
-[Access Service Catalog categories in Service Portal](access-categories-portal.md)
+[Access Service Catalog categories in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/access-categories-portal.md)
 
-[Add an item to the wish list in Service Portal](add-to-wishlist-portal.md)
+[Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-wishlist-portal.md)
 
-[Add a catalog item to the shopping cart](add-to-cart-portal.md)
+[Add a catalog item to the shopping cart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/add-to-cart-portal.md)
 
-[Request an order guide from Service Portal](request-order-guide-portal.md)
+[Request an order guide from Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-order-guide-portal.md)
 
-[Service Catalog request screens](../concept/c_RequestingAServiceCatalogItem.md#)
+[Service Catalog request screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_RequestingAServiceCatalogItem.md#)
 
-[Create a variable set and add it to an item](t_CreateAVariableSet.md#)
+[Create a variable set and add it to an item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableSet.md#)
 

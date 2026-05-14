@@ -23,5 +23,5 @@ Bulk sales promotion upload form.
 |Promotion value|Discount given for a promotion.|
 |Sold product serial number|Serial number of the sold product.|
 
-**Parent Topic:**[Sales promotion form](sales-promotion-form.md)
+**Parent Topic:**[Sales promotion form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/sales-promotion-form.md)
 

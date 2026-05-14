@@ -17,7 +17,7 @@ Your Customer Service Management Service Portal activity usually begins on the h
 
 **Note:** If any active outages exist for your install base, they are displayed on the homepage.
 
-**Note:** A new customer service portal experience is available on the business portal. For details, see [Using the Business Portal](use-the-business-portal.md).
+**Note:** A new customer service portal experience is available on the business portal. For details, see [Using the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-the-business-portal.md).
 
 From the Customer Service Portal homepage, you can access and use the following features:
 

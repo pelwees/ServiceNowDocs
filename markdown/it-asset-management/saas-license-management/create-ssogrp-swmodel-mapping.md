@@ -40,12 +40,12 @@ You must map an SSO group with a specific software model before connecting the S
 6.  Select **Save**.
 
 
-**Parent Topic:**[Viewing your SaaS and SSO subscriptions](../concept/usage-summary-saas.md)
+**Parent Topic:**[Viewing your SaaS and SSO subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../concept/usage-summary-saas.md)
 
 **Related topics**  
 
 
-[Connect SSO apps](../concept/integrate-with-azure-ad.md#)
+[Connect SSO apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../concept/integrate-with-azure-ad.md#)
 
-[Viewing SSO subscription information](../reference/sso-subscriptions.md)
+[Viewing SSO subscription information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reference/sso-subscriptions.md)
 

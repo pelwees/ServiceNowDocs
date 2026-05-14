@@ -22,14 +22,14 @@ The Impact Learning Dashboard demonstrates the usage and consumption of resource
     -   Active and credits available
     -   Allocated and future credits
     -   Expiring credits
-    ![Shows the credit training balances for active, expiring and future.](../image/training-dashboard.png)
+    ![Shows the credit training balances for active, expiring and future.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/training-dashboard.png)
 
--   On-demand course consumption ![Shows the Training History chart of on demand vs instructor-led courses.](../image/training-history.png)
+-   On-demand course consumption ![Shows the Training History chart of on demand vs instructor-led courses.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/training-history.png)
 -   Number of certifications available and status of taken certifications:
 
     -   Level of expertise required to achieve a certification type
     -   Statuses included current, at risk for expiration, and expired certifications
-    ![Shows the training vouchers and certifications issued vs. redeemed and the types of certifications obtained and expiration dates.](../image/vouchers-certs.png)
+    ![Shows the training vouchers and certifications issued vs. redeemed and the types of certifications obtained and expiration dates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/../image/vouchers-certs.png)
 
 -   Customer self-service model for the consumption of learning credits
 -   Better understand your entitlements charted in Impact

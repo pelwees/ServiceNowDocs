@@ -17,7 +17,7 @@ Initiate API creation directly from the API Insights workspace by connecting to 
 
 ## Before you begin
 
-The application administrator must configure an API creation tool. See [Configure settings to manage APIs in API Insights](api-insights-config-settings.md).
+The application administrator must configure an API creation tool. See [Configure settings to manage APIs in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-config-settings.md).
 
 Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 

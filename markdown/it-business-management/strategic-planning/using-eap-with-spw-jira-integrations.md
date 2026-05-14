@@ -24,7 +24,7 @@ From the EAP team's Home tab, you can view reports to track current‑sprint sta
 
 This workflow enables you to plan in EAP, execute in Jira, and monitor outcomes in one place.
 
-![Jira team execution reports in EAP.](../images/jira-int-eap-reports.png)
+![Jira team execution reports in EAP.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/jira-int-eap-reports.png)
 
-For more information on managing backlog and sprints using EAP, see [Manage team backlog in EAP](../../spw-eap/concept/using-eap.md) and [Perform PI planning in EAP](../../spw-eap/concept/pi-planning-eap.md).
+For more information on managing backlog and sprints using EAP, see [Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/concept/using-eap.md) and [Perform PI planning in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-eap/concept/pi-planning-eap.md).
 

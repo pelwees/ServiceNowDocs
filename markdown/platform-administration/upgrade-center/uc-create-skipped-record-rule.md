@@ -103,14 +103,14 @@ Add a comment on the conditions being set.
 
 ## What to do next
 
-You can now run the skipped record rules either automatically during an upgrade or can run on demand on the skipped records. See [Execute a skipped record rule](uc-execute-skipped-record-rule.md#) for more information.
+You can now run the skipped record rules either automatically during an upgrade or can run on demand on the skipped records. See [Execute a skipped record rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-execute-skipped-record-rule.md#) for more information.
 
-**Parent Topic:**[Administering Upgrade Center](../reference/uc-administration.md)
+**Parent Topic:**[Administering Upgrade Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-administration.md)
 
 **Related topics**  
 
 
-[Managing upgrade risk](../concept/uc-manage-upgrade-risk.md)
+[Managing upgrade risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-manage-upgrade-risk.md)
 
-[Execute a skipped record rule](uc-execute-skipped-record-rule.md#)
+[Execute a skipped record rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-execute-skipped-record-rule.md#)
 

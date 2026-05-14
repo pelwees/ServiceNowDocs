@@ -44,5 +44,5 @@ The cloned store plan includes the store plan items.
 
 The system creates a copy of the selected Store plan and opens the cloned store plan in a new tab.
 
-**Parent Topic:**[Manage store plans](rahi-retail-manage-store-plans.md)
+**Parent Topic:**[Manage store plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 

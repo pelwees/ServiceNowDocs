@@ -56,7 +56,7 @@ Sample SOAP response
 
 For language-specific update samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md#update)
+[Perl SOAP::Lite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PerlWebServicesClientExamples.md#update)
 
 Java Apache Axis2
 
@@ -64,5 +64,5 @@ Microsoft .NET
 
 Python
 
-**Parent Topic:**[Data Modification API](r_DataModificationAPI.md)
+**Parent Topic:**[Data Modification API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataModificationAPI.md)
 

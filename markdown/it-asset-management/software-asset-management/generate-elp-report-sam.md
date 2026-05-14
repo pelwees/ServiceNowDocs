@@ -53,8 +53,8 @@ An ELP report groups your data on existing reconciliation groups, by consumption
 
     The following screenshot is an example for Microsoft Office 2016 Professional, where Sales is the selected group. You can view the 29 devices from Sales that require licenses.
 
-    ![Required by device related list](../image/elprelatedlist.png)
+    ![Required by device related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/elprelatedlist.png)
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

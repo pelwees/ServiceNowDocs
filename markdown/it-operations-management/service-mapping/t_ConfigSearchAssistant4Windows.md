@@ -51,7 +51,7 @@ Grep is a utility that the Search Assistant feature uses to search files for mat
 
 6.  Click **OS Types** and select **Windows**.
 
-    ![Selecting the operating system option for uploading a file.](../image/UploadFileOSType.png)
+    ![Selecting the operating system option for uploading a file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/UploadFileOSType.png)
 
 7.  Click **OS Architectures** and select both 32-bit and 64-bit option.
 
@@ -65,7 +65,7 @@ Grep is a utility that the Search Assistant feature uses to search files for mat
 
 12. Close the Attachments window.
 
-13. Repeat [Step 3](t_ConfigSearchAssistant4Windows.md#clickNewStep) to [Step 11](t_ConfigSearchAssistant4Windows.md#CloseAttachmentWindow) to upload the rest of the files:
+13. Repeat [Step 3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ConfigSearchAssistant4Windows.md#clickNewStep) to [Step 11](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ConfigSearchAssistant4Windows.md#CloseAttachmentWindow) to upload the rest of the files:
 
     -   libiconv2.dll
     -   libintl3.dll

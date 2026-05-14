@@ -32,5 +32,5 @@ Role required: catalog\_admin
 
 ## What to do next
 
-[Create variables for the catalog item associated with the Zero Touch request flow](create-variables-for-items-consumer.md).
+[Create variables for the catalog item associated with the Zero Touch request flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-variables-for-items-consumer.md).
 

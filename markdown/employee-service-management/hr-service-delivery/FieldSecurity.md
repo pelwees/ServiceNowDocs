@@ -31,7 +31,7 @@ Use **Access Control** \(ACL\) on a field to secure it.
 
 2.  Elevate your role to add **security\_admin**.
 
-    Select your login name and select **Elevate Roles**.![Select Elevate Roles from login name.](../image/ElevateRoles.png)
+    Select your login name and select **Elevate Roles**.![Select Elevate Roles from login name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/ElevateRoles.png)
 
 3.  Check **security\_admin**.
 
@@ -43,11 +43,11 @@ Use **Access Control** \(ACL\) on a field to secure it.
 
 6.  Right-click the **Ethnicity** field and select **Configure Security**.
 
-    ![Reveal the Configure Security field from the HR profile form.](../image/HRProfile.png)
+    ![Reveal the Configure Security field from the HR profile form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/HRProfile.png)
 
 7.  The **Security Mechanic** menu appears.
 
-    Change the **Operation to secure** field to **read**. ![Operation Secure field on Security Mechanic menu.](../image/SecurityMechanic.png)
+    Change the **Operation to secure** field to **read**. ![Operation Secure field on Security Mechanic menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/SecurityMechanic.png)
 
 8.  Move a role that you want to view the field to the **Selected** column.
 
@@ -57,12 +57,12 @@ Use **Access Control** \(ACL\) on a field to secure it.
 
     Because HRSM is a scoped application, you have to ensure that you are in the scoped version within the form.
 
-    -   Click the Settings ![Gear icon](../../../common/image/Banner_GearIcon.png) icon.
+    -   Click the Settings ![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../common/image/Banner_GearIcon.png) icon.
     -   Select **Developer** under **System Settings**.
-    -   Change **Application** to **Human Resources: Core**.![Change to scoped version of HR through System Settings.](../image/ChangeScope.png)
+    -   Change **Application** to **Human Resources: Core**.![Change to scoped version of HR through System Settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/ChangeScope.png)
     -   Close the window.
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 
 **Related topics**  
 

@@ -19,13 +19,13 @@ Review and update missing General Ledger \(GL\) accounting details through the p
 
 Role required: Fulfiller, agent
 
-![Review and update missing general ledger details in playbook](../image/pb-gl-review.png)
+![Review and update missing general ledger details in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/pb-gl-review.png)
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the List icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select
+2.  Select the List icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\) and select
 
 3.  **All work** &gt; **Cases**.
 
@@ -128,5 +128,5 @@ Updates the case to Closed Completed.
 
 The procurement case is updated with valid GL account details and the playbook is closed.
 
-**Parent Topic:**[Reviewing and updating general ledger details in playbook](../concept/general-ledger-details-in-playbook.md)
+**Parent Topic:**[Reviewing and updating general ledger details in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/general-ledger-details-in-playbook.md)
 

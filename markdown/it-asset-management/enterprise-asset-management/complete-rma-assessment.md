@@ -35,7 +35,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 5.  On the **RMA Line Tasks** tab of the RMA order line record, select the task number for the **Prepare** task.
 
-    Alternatively, select the task number that is displayed in the **Current task** field of the RMA order line record header.![Current task field.](../image/rma-order-line-details-header.png)
+    Alternatively, select the task number that is displayed in the **Current task** field of the RMA order line record header.![Current task field.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/rma-order-line-details-header.png)
 
     The Prepare task opens.
 
@@ -160,5 +160,5 @@ The Prepare task automatically closes with an updated state of Closed Complete.
 
 If you set the **RMA type** field to **On-site** or **Off-site**, complete all subsequent replacement or repair tasks to move the RMA order line to the **Completed** stage. If you set the **RMA type** field to **Reject**, the RMA order line automatically moves to the Completed stage, and no further action is required.
 
-**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](../concept/closing-rma-order.md)
+**Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/closing-rma-order.md)
 

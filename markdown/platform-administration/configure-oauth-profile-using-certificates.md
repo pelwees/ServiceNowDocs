@@ -72,21 +72,21 @@ Role required: admin and Microsoft Azure portal administrator
 
 ## What to do next
 
-[Configure a JWT provider](configure-jwt-provider.md)
+[Configure a JWT provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-jwt-provider.md)
 
--   **[Configure a JWT provider](configure-jwt-provider.md)**  
+-   **[Configure a JWT provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-jwt-provider.md)**  
 Configure a JWT provider on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
--   **[Generate a SHA-1 thumbprint](generate-thumbprint.md)**  
+-   **[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md)**  
 Generate a SHA-1 thumbprint using the JWT provider's sys\_id and JKS certificate's sys\_id and certificate's alias to be added to the GraphCertificateOAuthTemplate script.
--   **[Create an OAuth API script](oauth-api-script.md)**  
+-   **[Create an OAuth API script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md)**  
 Create and duplicate an OAuth API script for application registry.
 
-**Parent Topic:**[Reading email using Microsoft Graph](../concept/read-email-using-ms-graph.md)
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/read-email-using-ms-graph.md)
 
 **Related topics**  
 
 
-[Configure an OAuth profile to use a client ID and secret for token generation](microsoft-graph.md#)
+[Configure an OAuth profile to use a client ID and secret for token generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/microsoft-graph.md#)
 
-[Create an email account for Microsoft Graph \(receive\)](create-email-account-ms-graph.md)
+[Create an email account for Microsoft Graph \(receive\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-ms-graph.md)
 

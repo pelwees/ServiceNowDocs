@@ -15,7 +15,7 @@ breadcrumb: [JSON APIs, Encryption rule objects and APIs, Define a custom encryp
 
 You get a JsonNodeIterator object by calling the getIterator\(\) or iterator\(\) methods of the JsonNode class.
 
-**Parent Topic:**[JSON APIs](json-overview.md)
+**Parent Topic:**[JSON APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/json-overview.md)
 
 ## JsonNodeIterator - hasNext\(\)
 

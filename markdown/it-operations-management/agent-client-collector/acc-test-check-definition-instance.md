@@ -36,7 +36,7 @@ Role required: agent\_client\_collector\_admin
 
     The **Test Check** dialog box appears.
 
-    ![Test Check dialog box](../image/ACC-test-check-dialog.png)
+    ![Test Check dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-test-check-dialog.png)
 
 4.  Configure the fields in the dialog box.
 

@@ -21,7 +21,7 @@ Role required: admin
 
 When you edit Next Experience styles, you work in raw JSON code. Edit with care.
 
-You upload new typefaces or images in a separate process. See [Add Next Experience font and image assets](add-image-asset.md).
+You upload new typefaces or images in a separate process. See [Add Next Experience font and image assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-image-asset.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ You upload new typefaces or images in a separate process. See [Add Next Experien
 
         The following example shows sample color overrides.
 
-        ![Style block with color overrides](../image/polaris-style-base-colors.png)
+        ![Style block with color overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris-style-base-colors.png)
 
     2.  Edit versions of the colors in the properties section of the JSON code.
 
@@ -61,20 +61,20 @@ You upload new typefaces or images in a separate process. See [Add Next Experien
 
         The following example shows sample shape overrides.
 
-        ![Style block with shape overrides](../image/polaris-style-base-shapes.png)
+        ![Style block with shape overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris-style-base-shapes.png)
 
 6.  Add fonts, images, and other theme assets.
 
-    For more information, see [Add Next Experience font and image assets](add-image-asset.md).
+    For more information, see [Add Next Experience font and image assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/add-image-asset.md).
 
 7.  If you have uploaded fonts, add or edit typefaces in the properties section of the JSON code and select **Update**.
 
-    ![Style block with color, shape, and font overrides](../image/polaris-style-colors-shapes-fonts.png)
+    ![Style block with color, shape, and font overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris-style-colors-shapes-fonts.png)
 
 
 ## Result
 
 The updated colors, shapes, and typefaces are visible in your theme.
 
-**Parent Topic:**[Configuring Next Experience themes and preferences](config-next-experience-themes-prefs.md)
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 

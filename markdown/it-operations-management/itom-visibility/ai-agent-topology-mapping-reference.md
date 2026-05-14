@@ -16,10 +16,10 @@ breadcrumb: [AI Agent Topology Mapping, ITOM Visibility, IT Operations Managemen
 
 Reference topics provide pattern information for AI Agent Topology Mapping, including prerequisites, tables, fields, and relationships.
 
--   **[Amazon Bedrock pattern-based discovery](amazon-bedrock-pattern.md)**  
+-   **[Amazon Bedrock pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/amazon-bedrock-pattern.md)**  
 AI Agent Topology Mapping discovers Amazon Bedrock AI services and agents during horizontal discovery.
--   **[Microsoft Foundry \(Classic\) pattern-based discovery](microsoft-foundry-classic-pattern.md)**  
+-   **[Microsoft Foundry \(Classic\) pattern-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/microsoft-foundry-classic-pattern.md)**  
 AI Agent Topology Mapping discovers Microsoft Foundry \(Classic\) services and agents during horizontal discovery.
 
-**Parent Topic:**[ITOM Visibility](../../it-operations-management/reference/itom-visibility-landing-page.md)
+**Parent Topic:**[ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/reference/itom-visibility-landing-page.md)
 

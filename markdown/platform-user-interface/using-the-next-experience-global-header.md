@@ -20,7 +20,7 @@ Select the pin icon ![](../image/pol-nav-pin.png) to pin a menu to the page.
 
 **Note:** The Unified Navigation items described in the following table might not be available to all users. The items that appear are determined by user access and admin customizations.
 
-![Unified navigation header](../../../administer/navigation-and-ui/image/next-exp-unified-navigation.png "Unified Navigation")
+![Unified navigation header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/image/next-exp-unified-navigation.png "Unified Navigation")
 
 <table id="table_fcj_p1f_jqb"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Logo
 
 </td><td>
 
-![Logo.](../image/pol-servicenow-landing-page.png)
+![Logo.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-servicenow-landing-page.png)
 
 </td><td>
 
@@ -52,11 +52,11 @@ Filter
 
 </td><td>
 
-![Filter.](../image/polaris-filter-ui.png)
+![Filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/polaris-filter-ui.png)
 
 </td><td>
 
-Filter field to quickly navigate to the module you want. The search functionality accommodates missing letters in your queries. The default accuracy score can be updated by your administrator. For more information, see [Next Experience system properties](../../../administer/navigation-and-ui/reference/pol-sys-properties.md).
+Filter field to quickly navigate to the module you want. The search functionality accommodates missing letters in your queries. The default accuracy score can be updated by your administrator. For more information, see [Next Experience system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/navigation-and-ui/reference/pol-sys-properties.md).
 
  For a list view, enter the table name in the format `name.list`, for example, sys\_properties.list.
 
@@ -70,7 +70,7 @@ All menu
 
 </td><td>
 
-![All menu.](../image/pol-nav-all-p.png)
+![All menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-all-p.png)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Favorites menu
 
 </td><td>
 
-![Favorites.](../image/pol-nav-p.png)
+![Favorites.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-p.png)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Items you have marked as favorites, for example, favorite workspaces, classic en
 
  Select the edit icon ![](../image/polaris-edit-icon.png) to open the edit modal.
 
- For more information on adding and editing favorites, see [Managing your favorites in Next Experience](managing-your-favorites.md#).
+ For more information on adding and editing favorites, see [Managing your favorites in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/managing-your-favorites.md#).
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ History menu
 
 </td><td>
 
-![History.](../image/pol-nav-history-p.png)
+![History.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-history-p.png)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Workspaces menu
 
 </td><td>
 
-![Workspace.](../image/pol-nav-workspaces-p.png)
+![Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-workspaces-p.png)
 
 </td><td>
 
@@ -124,7 +124,7 @@ Admin menu
 
 </td><td>
 
-![Admin menu.](../image/admin-menu.png)
+![Admin menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/admin-menu.png)
 
 </td><td>
 
@@ -136,7 +136,7 @@ Contextual app pill
 
 </td><td>
 
-![Contextual app pill.](../image/pol-nav-2.png)
+![Contextual app pill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-2.png)
 
 </td><td>
 
@@ -148,7 +148,7 @@ Global search field
 
 </td><td>
 
-![Global search.](../image/pol-nav-global-search.png)
+![Global search.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-global-search.png)
 
 </td><td>
 
@@ -160,7 +160,7 @@ Globe
 
 </td><td>
 
-![Globe](../image/globe-menu.png)
+![Globe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/globe-menu.png)
 
 </td><td>
 
@@ -172,7 +172,7 @@ Now Assist
 
 </td><td>
 
-![Now Assist.](../image/icon-now-assist.png)
+![Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/icon-now-assist.png)
 
 </td><td>
 
@@ -184,7 +184,7 @@ Show instance tools
 
 </td><td>
 
-![Show instance tools](../image/pol-show-instance-tools.png)
+![Show instance tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-show-instance-tools.png)
 
 </td><td>
 
@@ -196,7 +196,7 @@ Sidebar discussions
 
 </td><td>
 
-![Sidebar discussions.](../image/icon-sidebar-discussions.png)
+![Sidebar discussions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/icon-sidebar-discussions.png)
 
 </td><td>
 
@@ -208,7 +208,7 @@ Usage analytics
 
 </td><td>
 
-![Usage analytics.](../image/next-exp-usage-analytics.png)
+![Usage analytics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-usage-analytics.png)
 
 </td><td>
 
@@ -220,7 +220,7 @@ Help
 
 </td><td>
 
-![Help.](../image/pol-nav-help.png)
+![Help.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-help.png)
 
 </td><td>
 
@@ -232,7 +232,7 @@ OpenFrame phone
 
 </td><td>
 
-![OpenFrame phone.](../image/icon-openframe-phone.png)
+![OpenFrame phone.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/icon-openframe-phone.png)
 
 </td><td>
 
@@ -244,7 +244,7 @@ Notifications menu
 
 </td><td>
 
-![Notifications menu.](../image/pol-nav-notifications.png)
+![Notifications menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-notifications.png)
 
 </td><td>
 
@@ -256,13 +256,13 @@ User menu
 
 </td><td>
 
-![User menu.](../image/pol-user-menu.png)
+![User menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-user-menu.png)
 
 </td><td>
 
 Menu items to personalize your instance. -   **Profile**: Your instance profile, which includes your personal information displayed in the instance.
 -   **Preferences**: Display, accessibility, notifications, and Workspace preferences.
--   **Keyboard shortcuts**: Display a modal with keyboard shortcuts that are specific to the screen you’re viewing. For more information on the keyboard shortcut modal, see [Next Experience keyboard shortcuts](../../../use/navigation/reference/next-experience-keyboard-shortcuts.md). The keyboard shortcuts modal can also be accessed using **Command+/** \(Mac\) or **Control+/** \(Windows\).
+-   **Keyboard shortcuts**: Display a modal with keyboard shortcuts that are specific to the screen you’re viewing. For more information on the keyboard shortcut modal, see [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/reference/next-experience-keyboard-shortcuts.md). The keyboard shortcuts modal can also be accessed using **Command+/** \(Mac\) or **Control+/** \(Windows\).
 -   **Impersonate user**: Administrators can impersonate other authenticated users for testing purposes and view impersonation logs. For more information, see [Impersonating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ImpersonateAUser.md).
 -   **Elevate role**: Designate any role as an elevated privilege role, and then assign that role to one or more users. Do this when you want to restrict users from having access to the rights that the role provides immediately after login.
 -   **Printer friendly version**: A printer-friendly version of the current content frame.

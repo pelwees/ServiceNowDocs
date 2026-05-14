@@ -54,5 +54,5 @@ Characteristic option
 Name of the characteristic option. For example, Unlimited, for the Data Pack Unlimited option. To view and update the characteristic option details, select the characteristic option. These values include the name of the characteristic option and the associated characteristics.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 

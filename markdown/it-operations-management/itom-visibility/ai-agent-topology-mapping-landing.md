@@ -23,15 +23,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_qln_mhg_23c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about AI Agent Topology Mapping](exploring-ai-agent-topology-mapping.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about AI Agent Topology Mapping](exploring-ai-agent-topology-mapping.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install AI Agent Topology Mapping](configuring-ai-agent-topology-mapping.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install AI Agent Topology Mapping](configuring-ai-agent-topology-mapping.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about CI tables, fields, and relationships](../reference/ai-agent-topology-mapping-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about CI tables, fields, and relationships](../reference/ai-agent-topology-mapping-reference.md)
 
 </td></tr></tbody>
 </table>

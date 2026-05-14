@@ -27,11 +27,11 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 3.  Create subflows aligning with Template Integration Gateway.
 
-    See [Create a subflow using Template Integration Gateway](configure-integration-gateway.md).
+    See [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
     **Note:** You can use the default subflows that have been created for Workday for the Request Time off and Get Time Off Balance Virtual Agent topics.
 
-4.  [Configure Integration Provider Mapping \(Decision table\)](configure-integration-mapping.md) by adding input choices and configuring conditions on input choices and results.
+4.  [Configure Integration Provider Mapping \(Decision table\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-mapping.md) by adding input choices and configuring conditions on input choices and results.
 
 5.  Create a Virtual Agent topic block:
 

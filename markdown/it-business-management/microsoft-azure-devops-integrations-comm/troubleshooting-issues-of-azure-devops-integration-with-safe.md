@@ -71,5 +71,5 @@ Features can be linked to the PI but not with the sprints, as it's not supported
 </table>**Related topics**  
 
 
-[Troubleshooting issues for Azure DevOps integration with Agile Development](troubleshooting-issues-agile-azure-int.md)
+[Troubleshooting issues for Azure DevOps integration with Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/troubleshooting-issues-agile-azure-int.md)
 

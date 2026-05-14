@@ -25,23 +25,23 @@ Role required: admin
 
 2.  Select **View details** on the Knowledge feature card and navigate to Active skills.
 
-    ![Enable Knowledge content recommendation skill in Now Assist skills for Platform.](../image/now-assist-knowledge-content-recommendation.png)
+    ![Enable Knowledge content recommendation skill in Now Assist skills for Platform.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/now-assist-knowledge-content-recommendation.png)
 
-3.  Select **Edit** from ![Ellipses icon](../../../administer/dynamic-translation/image/Ellipses.png) corresponding to the Knowledge content recommendation skill.
+3.  Select **Edit** from ![Ellipses icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../../../administer/dynamic-translation/image/Ellipses.png) corresponding to the Knowledge content recommendation skill.
 
-    ![Edit and activate the Now AssistKnowledge content recommendation skill](../image/NA-knowledge-content-skill-enable-1.png)
+    ![Edit and activate the Now AssistKnowledge content recommendation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-knowledge-content-skill-enable-1.png)
 
 4.  Enable the In-product display and select **Done** to activate the skill.
 
-    ![Select display, review the selection and activate the Knowledge content recommendation skill.](../image/NA-knowledge-content-skill-enable-4.png)
+    ![Select display, review the selection and activate the Knowledge content recommendation skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../image/NA-knowledge-content-skill-enable-4.png)
 
 
-**Parent Topic:**[Configuring Now Assist in Knowledge Management](../concept/configuring-now-assist-km.md)
+**Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/../concept/configuring-now-assist-km.md)
 
 **Related topics**  
 
 
-[Edit an article using the Now Assist context menu](Now-Assist-generate-article-using-context-menu.md#)
+[Edit an article using the Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-generate-article-using-context-menu.md#)
 
-[Generate and edit articles using Now Assist in the Knowledge Center article editor](kc-article-editor.md)
+[Generate and edit articles using Now Assist in the Knowledge Center article editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/kc-article-editor.md)
 

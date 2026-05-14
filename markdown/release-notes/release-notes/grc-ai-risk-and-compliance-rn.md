@@ -67,5 +67,5 @@ Install AI Risk and Compliance by requesting it from the ServiceNow Store. Visit
     Use the ServiceNow®AI Control Tower application with AI Risk and Compliance to oversee and manage the AI asset inventory life cycle.
 
 
-**Parent Topic:**[Governance, Risk, and Compliance release notes](grc-rn-landing.md)
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-rn-landing.md)
 

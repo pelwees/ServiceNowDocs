@@ -21,7 +21,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 Linked inputs can be used to create path conditions.
 
-For more information about input mapping and exceptions related to input mapping, see [Linking inputs in decision tree nodes](../reference/guided-decision-tree-input-mapping.md).
+For more information about input mapping and exceptions related to input mapping, see [Linking inputs in decision tree nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/guided-decision-tree-input-mapping.md).
 
 ## Procedure
 
@@ -49,7 +49,7 @@ Question node
 
 1.  Enter a question and select the type of answer.
 2.  Select **Link inputs to reuse prior data**.
-3.  Use the Link input icon \(![Link input icon](../image/icon-link-input.png)\) to select a prior node and an input that you want to reuse in this question.
+3.  Use the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) to select a prior node and an input that you want to reuse in this question.
  **Note:** The question with a reused answer is answered automatically during runtime.
 
 </td></tr><tr><td>
@@ -59,7 +59,7 @@ Guidance node
 </td><td>
 
 1.  Select a guidance from the list.
-2.  Select the Link input icon \(![Link input icon](../image/icon-link-input.png)\) to select a prior node and the input that you want to reuse in the guidance input.
+2.  Select the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) to select a prior node and the input that you want to reuse in the guidance input.
 
 
 </td></tr><tr><td>
@@ -69,7 +69,7 @@ Linking node
 </td><td>
 
 1.  Select a child tree from the list.
-2.  Select the Link input icon \(![Link input icon](../image/icon-link-input.png)\) to select a prior node and the input that you want to reuse in the start node of the child tree.
+2.  Select the Link input icon \(![Link input icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/icon-link-input.png)\) to select a prior node and the input that you want to reuse in the start node of the child tree.
 
 
 </td></tr></tbody>

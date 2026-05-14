@@ -21,29 +21,29 @@ Role required: email\_composer
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the Compose Email page by selecting the More actions icon \(![More actions icon](../image/x-more-actions-icon.png)\) and **Compose Email**.
+2.  Open the Compose Email page by selecting the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-more-actions-icon.png)\) and **Compose Email**.
 
 3.  Apply an email template from the Agent Assist panel.
 
-    1.  From the Agent Assist panel, select the Email Templates icon \(![Email Templates icon](../image/email-templates-icon.png)\).
+    1.  From the Agent Assist panel, select the Email Templates icon \(![Email Templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/email-templates-icon.png)\).
 
         A list of response templates opens in the Agent Assist panel.
 
-        ![Email Templates list](../image/xs2-email-templates-panel.png)
+        ![Email Templates list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-email-templates-panel.png)
 
         **Note:** Find the email template you need by using the search bar in the Email Templates list.
 
     2.  Select an email template from the Email Templates panel.
 
-    3.  Select the More actions icon \(![Menu icon](../image/menu-icon.png)\), and select **Apply Template**.
+    3.  Select the More actions icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/menu-icon.png)\), and select **Apply Template**.
 
 4.  Apply an email template from the email footer.
 
-    1.  From the email footer, select the Apply templates icon \(![Apply templates icon](../image/x-apply-templates-icon.png)\).
+    1.  From the email footer, select the Apply templates icon \(![Apply templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/x-apply-templates-icon.png)\).
 
         A modal opens with different types of templates.
 
-        ![Apply templates modal](../image/xs2-email-templates-tab.png)
+        ![Apply templates modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/xs2-email-templates-tab.png)
 
     2.  Select the **Email templates** tab.
 

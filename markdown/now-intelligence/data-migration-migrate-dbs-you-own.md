@@ -20,7 +20,7 @@ Role required: You can migrate any dashboard you own. Users with admin or dashbo
 
 ## About this task
 
-To learn about migration and its benefits, see [Platform Analytics Migration Center](../concept/data-migration.md).
+To learn about migration and its benefits, see [Platform Analytics Migration Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../concept/data-migration.md).
 
 **Note:** If content on a dashboard is used in only one dashboard, it will be available only on that dashboard after migration. If it is used in more than one dashboard, that content is migrated to the Platform Analytics experience library.
 
@@ -30,7 +30,7 @@ This task is only applicable on instances that are upgraded to releases Australi
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Dashboards**.
 
-    ![Personal dashboard showing the individual migration banner.](../image/data-migration-mig-indiv-db1.png)
+    ![Personal dashboard showing the individual migration banner.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-mig-indiv-db1.png)
 
 2.  Select the dashboards that you want to migrate.
 
@@ -40,7 +40,7 @@ This task is only applicable on instances that are upgraded to releases Australi
 
 3.  Select **Switch to Next UI**.
 
-    ![Dashboard library with two Core UI dashboards that are ready to migrate selected and the Switch to Next UI button highlighted](../image/data-mig-selected-from-library.png)
+    ![Dashboard library with two Core UI dashboards that are ready to migrate selected and the Switch to Next UI button highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-mig-selected-from-library.png)
 
     A message confirming the number of dashboards you want to migrate appears. Select **Switch to Next UI** again to open the Migration Center.
 
@@ -51,9 +51,9 @@ The migrated dashboard appears in the Platform Analytics library. Links to the o
 
 ## What to do next
 
-Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](../reference/data-mig-unmigrated-content.md).
+Verify that the migrated dashboard has all the features of the Core UI dashboard, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-mig-unmigrated-content.md).
 
-To roll back a migrated dashboard, select the More actions menu ![More actions menu icon](../../../administer/integrationhub/images/more-actions-menu-icon.png) and choose **Switch to the Core UI**. This option is available to analytics managers and admins for all migrated dashboards. Other dashboard owners can only roll back migrations on dashboards they have migrated themselves.
+To roll back a migrated dashboard, select the More actions menu ![More actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../../administer/integrationhub/images/more-actions-menu-icon.png) and choose **Switch to the Core UI**. This option is available to analytics managers and admins for all migrated dashboards. Other dashboard owners can only roll back migrations on dashboards they have migrated themselves.
 
-![More actions menu with Switch to the Core UI option highlighted](../image/data-migration-roll-back-indiv-db.png)
+![More actions menu with Switch to the Core UI option highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/data-migration-roll-back-indiv-db.png)
 

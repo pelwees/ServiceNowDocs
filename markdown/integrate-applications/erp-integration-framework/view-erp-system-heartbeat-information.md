@@ -30,9 +30,9 @@ Role required: sn\_erp\_integration.erp\_admin or sn\_erp\_integration.erp\_user
 
 4.  Select the **RFC heartbeats** or **HTTP heartbeats** tab.
 
-    ![Zero Copy Connector for ERP system record with HTTP heartbeats tab displayed.](../image/erpc-system-rfc-heartbeat-ys2.png)
+    ![Zero Copy Connector for ERP system record with HTTP heartbeats tab displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-system-rfc-heartbeat-ys2.png)
 
-    View information about the heartbeats, including updated date and time, and status. If there's an error, the error text is displayed and a link to a knowledge base article \(if available\) is provided. For more information, see [Zero Copy Connector for ERP new system field descriptions](../reference/erp-canvas-create-new-system-descriptions.md).
+    View information about the heartbeats, including updated date and time, and status. If there's an error, the error text is displayed and a link to a knowledge base article \(if available\) is provided. For more information, see [Zero Copy Connector for ERP new system field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-create-new-system-descriptions.md).
 
     By default, all heartbeat information is kept for one week, but users with the admin role can change that setting.
 
@@ -42,5 +42,5 @@ Role required: sn\_erp\_integration.erp\_admin or sn\_erp\_integration.erp\_user
     4.  In the list, select **sn\_erp\_integration\_log\_heartbeat**.
     5.  Edit the **Age in seconds**.
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-work-with-systems.md)
 

@@ -41,7 +41,7 @@ When you index or delete records associated with this content schema using endpo
 
     2.  On the Dictionary Entry form, fill in the fields.
 
-        For descriptions of these form fields, see [Dictionary Entry form](../../data-dictionary-tables/reference/r_DictionaryEntryForm.md).
+        For descriptions of these form fields, see [Dictionary Entry form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../data-dictionary-tables/reference/r_DictionaryEntryForm.md).
 
         **Note:** When filling in the **Type** field, select **String**, **Date**, **Date/Time**, or **Integer**. AI Search doesn't support other column types on external content schema tables.
 
@@ -52,7 +52,7 @@ When you index or delete records associated with this content schema using endpo
 
 ## What to do next
 
-Create a new indexed source with your external content schema table defined as its source. For instructions on creating an indexed source, see [Create an indexed source](create-indexed-source-ais.md)
+Create a new indexed source with your external content schema table defined as its source. For instructions on creating an indexed source, see [Create an indexed source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-ais.md)
 
-**Parent Topic:**[Indexing and searching external content in AI Search](../concept/external-content-ais.md)
+**Parent Topic:**[Indexing and searching external content in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/external-content-ais.md)
 

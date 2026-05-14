@@ -20,9 +20,9 @@ Add related items to the patterns to perform horizontal discovery of configurati
 1.  \(Optional\) Check if the CI is dependent: The system uses the identification rules to identify the CI independently of other CIs. Refer to [Create or edit a CI identification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md).
 2.  \(Optional\) To understand the model better, check dependent relationship rules which define the dependency structure of the CI types and the relationship types in these service definitions. For example, you can discover a Tomcat server with Tomcat WARs belonging to it. For more information, refer to [Dependent relationship rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md).
 
-    ![Checking hosting rules under Metadata Editor](../image/metadata-rules-tomcat-war-eg.png "Example of the Containment rule for Tomcat WAR")
+    ![Checking hosting rules under Metadata Editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/metadata-rules-tomcat-war-eg.png "Example of the Containment rule for Tomcat WAR")
 
-3.  To add a non-CI to the pattern, add it as a related item for the CI type to which the main CI belongs. For more information on adding related items for the CI type, see [Configure references to other CIs or non-CIs as related items for the CI type](t_CreateCITypeForSM.md#configure-ci-related-items).
+3.  To add a non-CI to the pattern, add it as a related item for the CI type to which the main CI belongs. For more information on adding related items for the CI type, see [Configure references to other CIs or non-CIs as related items for the CI type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateCITypeForSM.md#configure-ci-related-items).
 
 Role required: pd\_admin
 
@@ -46,7 +46,7 @@ Pattern Designer displays attributes of related CI types, which you added to the
 
 5.  On the **CI Attributes** pane, click the **Manage related CIs** icon.
 
-    ![Add related CIs icon.](../image/PatDefRelatedCIs.png)
+    ![Add related CIs icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefRelatedCIs.png)
 
 6.  Select the relevant related CI type.
 
@@ -62,16 +62,16 @@ Pattern Designer displays attributes of related CI types, which you added to the
 
     New tabs for related CI types you added appear under the tab for the main CI:
 
-    ![Related CI types appear under additional tabs.](../image/PatDefRelatedCIsAdded.png)
+    ![Related CI types appear under additional tabs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefRelatedCIsAdded.png)
 
 
 ## What to do next
 
 Continue editing the pattern by adding more steps as necessary. To view or use attributes of a related CI type, click the relevant tab in the **CI Attributes** pane.
 
-**Parent Topic:**[Discovery patterns used by ITOM Visibility](../concept/c_MappingPatternsCustomization.md)
+**Parent Topic:**[Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/c_MappingPatternsCustomization.md)
 
-**Previous topic:**[Create or customize patterns](t_CreatePatternPatDef.md)
+**Previous topic:**[Create or customize patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md)
 
-**Next topic:**[Enhance patterns without changing their identification sections](modify-pattern-using-extensions.md)
+**Next topic:**[Enhance patterns without changing their identification sections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/modify-pattern-using-extensions.md)
 

@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure alerts**.
 
-    ![Shows the Configure Alerts banner to begin alert configuration.](../image/config-alert-banner.png)
+    ![Shows the Configure Alerts banner to begin alert configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/config-alert-banner.png)
 
 3.  Select **Configure your alerts**.
 
@@ -31,11 +31,11 @@ Role required: admin
 
 4.  Select up to five alerts from the **Max alerts per day / per metric** drop-down to receive for each metric per day.
 
-    The maximum number of alerts selected pertains to each of the six available system metrics. If you choose a maximum of two alerts for each metric, then you receive 12 alerts, as the maximum alert count each day, for example \(2 alerts\) X \(6 metrics\) = 12 alerts. The alert count resets daily at 00:00 UTC.![Shows the alert configuration drop-down selector.](../image/alert-max-threshold.png)
+    The maximum number of alerts selected pertains to each of the six available system metrics. If you choose a maximum of two alerts for each metric, then you receive 12 alerts, as the maximum alert count each day, for example \(2 alerts\) X \(6 metrics\) = 12 alerts. The alert count resets daily at 00:00 UTC.![Shows the alert configuration drop-down selector.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/alert-max-threshold.png)
 
 5.  Select **Set Notification**.
 
-    The Alert configuration page loads and the **Default** notification rule is automatically selected.![The Alert Notification screen with the Default alert selected. How to Configure Notification Rules and Configure Notification links are also available.](../image/alert-config-io.png)
+    The Alert configuration page loads and the **Default** notification rule is automatically selected.![The Alert Notification screen with the Default alert selected. How to Configure Notification Rules and Configure Notification links are also available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/alert-config-io.png)
 
 6.  Select **Configure Notification** to create a custom rule.
 
@@ -43,13 +43,13 @@ Role required: admin
 
 7.  Select **Review &amp; Create** to display the summary of the alerts to be configured and the notification rule.
 
-    ![Shows the list of alerts to be configured and the confirmation button.](../image/create-io-alert.png)
+    ![Shows the list of alerts to be configured and the confirmation button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/create-io-alert.png)
 
 8.  Select **Create Alert** or **Set Notification** to return to the notifications configuration page.
 
     A notification appears to confirm the alert configuration.
 
-    ![Shows the alert configuration confirmation message.](../image/alert-confirmation.png)
+    ![Shows the alert configuration confirmation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/alert-confirmation.png)
 
 
 ## Result
@@ -60,7 +60,7 @@ After the request submission, all six alerts will be enabled automatically, no m
 
 ## What to do next
 
-[Manage Instance Observer alerts](manage-io-alerts.md)
+[Manage Instance Observer alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/manage-io-alerts.md)
 
-**Parent Topic:**[Key alerts – activation and notifications](../concept/io-alerts.md)
+**Parent Topic:**[Key alerts – activation and notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/io-alerts.md)
 

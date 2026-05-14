@@ -15,7 +15,7 @@ Learn how to use Apex to call or to test CPQ APIs.
 
 The easiest way to test Apex code for use of CPQ is through the developer console in SFDC.
 
-![User interface](../images/cpq-using-apex-developer-console.png)
+![User interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-using-apex-developer-console.png)
 
 To test the script from in the console, the code must be wrapped in a larger class with the “exec” function. For example:
 
@@ -25,7 +25,7 @@ public class testGetConfig { public static void exec() {
 
 Save the code, and then in the Debug menu, click Execute Anonymous Window.
 
-![Debug menu](../images/cpq-using-apex-anonymous-window.png)
+![Debug menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-using-apex-anonymous-window.png)
 
 In the execute anonymous window, execute the code `functionName.exec();`
 
@@ -56,5 +56,5 @@ httpRequest.setHeader('Origin', 'https://tenant.sector.logik.io/');
 
 This code would be executed as `testGetConfig.exec();`.
 
-**Parent Topic:**[Use cases](use-cases.md)
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 

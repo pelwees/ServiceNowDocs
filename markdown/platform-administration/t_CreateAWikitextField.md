@@ -29,5 +29,5 @@ Role required: personalize\_form
 **Related topics**  
 
 
-[Add and customize a field in a table](t_CreatingNewFields.md)
+[Add and customize a field in a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md)
 

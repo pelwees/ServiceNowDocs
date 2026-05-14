@@ -21,9 +21,9 @@ Role required: admin
 
 Mobile alerts are a way that administrators can highlight an important message and provide a call to action. In addition to the overlay pop-up window, a mobile alert icon also displays in the screen header. This icon gives you access to the alert even after closing the overlay pop-up window.
 
-![record screen with a mobile alert overlay.](../image/alert-form-screen.png)
+![record screen with a mobile alert overlay.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-form-screen.png)
 
-For information about configuring mobile alerts for a record screen, see [Configure a mobile alert for a record screen](form-screen-alerts.md). You must be a member of the admin role to perform this configuration.
+For information about configuring mobile alerts for a record screen, see [Configure a mobile alert for a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/form-screen-alerts.md). You must be a member of the admin role to perform this configuration.
 
 ## Procedure
 
@@ -37,5 +37,5 @@ For information about configuring mobile alerts for a record screen, see [Config
 2.  To view the overlay banner again, do one of the following.
 
     -   Revisit the record screen that initially activated the overlay banner.
-    -   Tap the Alert icon \(![Alert icon with a red spot to show call to action is required.](../image/alert-form-screen-icon.png)\) in the screen header. The red spot indicates that you have not performed the call to action.
+    -   Tap the Alert icon \(![Alert icon with a red spot to show call to action is required.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/alert-form-screen-icon.png)\) in the screen header. The red spot indicates that you have not performed the call to action.
 

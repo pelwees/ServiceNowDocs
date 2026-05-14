@@ -23,15 +23,15 @@ This Platform workflow skill is automatically activated when you install a Now A
 
 ## User role access
 
-Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
+Give personnel an appropriate role to access conversational subflows. See [User roles for conversational subflows and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/user-roles-for-conversational-subflows-and-actions.md).
 
 ## Making an action conversation compatible
 
 To make an action conversation compatible, you must perform the following steps.
 
 -   Turn on the subflows and actions skill. See [Turn on the subflows and actions skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/turn-on-the-subflows-and-actions-skill.md).
--   Give personnel an appropriate role to access conversational actions. See [User roles for conversational subflows and actions](../reference/user-roles-for-conversational-subflows-and-actions.md).
--   Choose action inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](../reference/supported-input-data-types-for-conversational-subflows-and-actions.md).
+-   Give personnel an appropriate role to access conversational actions. See [User roles for conversational subflows and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/user-roles-for-conversational-subflows-and-actions.md).
+-   Choose action inputs that are compatible with Conversational Interfaces. See [Supported input data types for conversational subflows and actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/supported-input-data-types-for-conversational-subflows-and-actions.md).
 -   Add tooltip hint text to all action inputs.
 -   Publish the action.
 
@@ -48,7 +48,7 @@ You can use the conversational settings menu to manage conversational subflows a
 -   Set the advanced option to retain the context of previous conversations so that the users can ask follow-up questions, provide additional details, and continue the conversation.
 -   Set the advanced option to include error messages from subflows and actions in the conversation.
 
-![Conversational settings for the preconfigured Send SMS subflow.](../images/general-settings-conv-sublow-z.png "Example conversational settings")
+![Conversational settings for the preconfigured Send SMS subflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/general-settings-conv-sublow-z.png "Example conversational settings")
 
 When you set these options in Workflow Studio, the system also sets the corresponding options in Virtual Agent Designer.
 
@@ -85,7 +85,7 @@ Conversational subflows and actions support a limited number of input data types
 **Related topics**  
 
 
-[Conversational subflows](conversational-subflows.md)
+[Conversational subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/conversational-subflows.md)
 
-[Configure action conversational settings](../task/configure-action-conversation-settings.md)
+[Configure action conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/configure-action-conversation-settings.md)
 

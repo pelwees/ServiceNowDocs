@@ -36,5 +36,5 @@ Role required: sn\_communities.admin, or sn\_communities.moderation\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Moderate a community](moderate-communities.md)
+**Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 

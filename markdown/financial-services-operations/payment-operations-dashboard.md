@@ -24,7 +24,7 @@ You can monitor the status of these cases, see trends, and drill down into the d
 
 ## Access the Financial Services Payment Operations dashboard
 
-To access the Financial Services Payment Operations dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Financial Services Payment Operations dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, you can navigate to **All** &gt; **Payment Operations** &gt; **Analytics**.
 
@@ -209,5 +209,5 @@ The following table shows the available filters in the Payment Operations dashbo
 |Payment Service|List|Fetches the records for all payment tasks.|
 |Payment Type|Script|Fetches the payment case records from the Task SLA table.|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../application-content-packs/concept/fso-content-pack.md)
 

@@ -25,9 +25,9 @@ Agentic workflows automate processes with agentic AI. In AI Agent Studio, you mu
 
 An AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install AI Desktop Actions. You can create a different agentic workflow referencing this AI agent or AI agent that you created so that your users can find and use the agentic workflow in the Now Assist panel.
 
-Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [Enhanced chat](../../../administer/now-assist-platform/concept/now-assist-panel-enhanced.md).
+Verify that the enhanced chat is available in the Now Assist panel. The **Web view** pane is available only when enhanced chat is enabled. For more information, see [Enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-platform/concept/now-assist-panel-enhanced.md).
 
-For more information, see [Create an AI agent](../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md) and [Create an agentic workflow](../../../administer/now-assist-ai-agents/task/configure-use-case-ai-agents.md).
+For more information, see [Create an AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/configure-next-best-action-agent.md) and [Create an agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-ai-agents/task/configure-use-case-ai-agents.md).
 
 ## Procedure
 
@@ -35,11 +35,11 @@ For more information, see [Create an AI agent](../../../administer/now-assist-ai
 
 2.  Select the **Agentic workflows** tab.
 
-    ![The Agentic workflows tab on the Manage agentic workflows and AI agents module in AI Agent Studio.](../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-topZ.png)
+    ![The Agentic workflows tab on the Manage agentic workflows and AI agents module in AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-topZ.png)
 
 3.  Select **New** to open a guided setup with three steps.
 
-    ![The guided setup for a New agentic workflow, with three steps highlighted. The three are 'Define key requirements', 'Add a preferred trigger', and 'Select a UI display'.](../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-guided-setupZ.png)
+    ![The guided setup for a New agentic workflow, with three steps highlighted. The three are 'Define key requirements', 'Add a preferred trigger', and 'Select a UI display'.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-guided-setupZ.png)
 
 4.  On the Define key requirements page, fill in the fields.
 
@@ -54,7 +54,7 @@ For more information, see [Create an AI agent](../../../administer/now-assist-ai
 
 5.  Select **Generate details** to open a modal where Now Assist can help compose instructions for the LLM, based on the text that you enter.
 
-    ![The modal to generate a description and list of steps. The text field contains a paragraph of example text that Now Assist can transform into appropriate input for the LLM.](../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-generateZ.png)
+    ![The modal to generate a description and list of steps. The text field contains a paragraph of example text that Now Assist can transform into appropriate input for the LLM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-generateZ.png)
 
 6.  Select **Save and continue** to move to the next step.
 
@@ -81,14 +81,14 @@ For more information, see [Create an AI agent](../../../administer/now-assist-ai
 
 14. On the Select channels and status page, enable the **Display** toggle on the **Engage via the Now Assist panel** card.
 
-    ![Select a UI display, the final step in the guided setup. The toggle switch is set to Display so that this workflow is available in the Now Assist panel.](../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-displayZ.png)
+    ![Select a UI display, the final step in the guided setup. The toggle switch is set to Display so that this workflow is available in the Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../administer/now-assist-web-agents/image/na-ai-wa-configure-workflow-displayZ.png)
 
 15. Select **Save and test**.
 
-    You're directed to the **Testing** tab of AI Agent Studio. For more information, see [Test an AI agent or agentic workflow for adaptive desktop actions](na-ai-wa-test.md).
+    You're directed to the **Testing** tab of AI Agent Studio. For more information, see [Test an AI agent or agentic workflow for adaptive desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-test.md).
 
 
 ## Result
 
-The agentic workflow you have created is available in the Now Assist panel to the users you have designated. For more information, see [Trigger an AI agent to execute adaptive path desktop actions](na-ai-wa-access-using-nap.md).
+The agentic workflow you have created is available in the Now Assist panel to the users you have designated. For more information, see [Trigger an AI agent to execute adaptive path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-access-using-nap.md).
 

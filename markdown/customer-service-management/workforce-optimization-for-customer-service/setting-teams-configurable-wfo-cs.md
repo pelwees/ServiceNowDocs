@@ -17,7 +17,7 @@ Organize your teams into assignment groups and create reports for those groups s
 
 As an administrator, you can configure KPIs as well as child KPIs. The child KPIs appear when you drill-down into top level KPIs. For example, Closed Cases KPI has P1 Cases, P2 Cases as child KPIs.
 
-**Parent Topic:**[Configuring Workforce Optimization for Customer Service](setup-configurable-wfo-cs.md)
+**Parent Topic:**[Configuring Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setup-configurable-wfo-cs.md)
 
 ## Create KPI groups to monitor team performance
 
@@ -89,5 +89,5 @@ You can associate a user with a primary assignment group by selecting the group 
 
 ### What to do next
 
-[Analyze the performance trends for your teams](teams-configurable-wfo-cs.md#).
+[Analyze the performance trends for your teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/teams-configurable-wfo-cs.md#).
 

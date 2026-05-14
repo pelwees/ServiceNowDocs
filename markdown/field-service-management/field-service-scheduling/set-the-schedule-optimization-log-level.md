@@ -39,5 +39,5 @@ Each logging level option includes the information from the preceding levels. Fo
 3.  Select **Save**.
 
 
-**Parent Topic:**[Configuring log levels for detailed optimization analysis](configuring-log-levels-for-detailed-optimization-analysis.md)
+**Parent Topic:**[Configuring log levels for detailed optimization analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configuring-log-levels-for-detailed-optimization-analysis.md)
 

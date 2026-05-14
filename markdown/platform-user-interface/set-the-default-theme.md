@@ -39,16 +39,16 @@ The default theme is treated as the first theme that is displayed in the Next Ex
 
 4.  Select the More actions icon ![](../image/tb-more-actions.png)from the theme that you have selected, and select **Mark as default**.
 
-    ![Mark as default option.](../image/tb-mark-as-default.png)
+    ![Mark as default option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-mark-as-default.png)
 
     The theme is listed as the Default within the Published section. The default theme is treated as the first theme and each theme listed after the default theme follows a sequential order.
 
-    ![Default theme displayed in Published section.](../image/tb-theme-default.png)
+    ![Default theme displayed in Published section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-theme-default.png)
 
 5.  Refresh your browser to view the new theme.
 
     The default theme appears first in the user's Theme preference.
 
 
-**Parent Topic:**[Publish your themes with Theme Builder](tb-apply-theme.md)
+**Parent Topic:**[Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md)
 

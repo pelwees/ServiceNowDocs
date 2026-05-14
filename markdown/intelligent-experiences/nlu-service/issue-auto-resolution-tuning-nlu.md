@@ -31,7 +31,7 @@ Unlike the Virtual Agent and AI Search tabs, the IAR tab doesn't use a **Create 
 
 ## Exploring the NLU Workbench
 
-![The NLU Workbench homepage opens in the Virtual Agent tab by default.](../images/issue-auto-resolution-tuning-nlu2.png)
+![The NLU Workbench homepage opens in the Virtual Agent tab by default.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/issue-auto-resolution-tuning-nlu2.png)
 
 At the top of the NLU Workbench page are three tabs that group Virtual Agent, Issue Auto Resolution, and AI Search models separately. Below those tabs are a list of models colored gray. In the Model column of the list, when you select the caret to the left of the model name, the model changes color from gray to white and opens to show the model's languages; status; usage; model type; number of enabled intents and mapped intents and the date when the model was last modified or last published.
 

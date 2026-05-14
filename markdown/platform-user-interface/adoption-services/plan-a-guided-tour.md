@@ -48,7 +48,7 @@ When planning your tour, consider addressing the following additional questions:
 
 Triggers are actions that you take to move the tour to the next step. Each callout in a guided tour step has a specific trigger that activates the subsequent step. You define the trigger for each callout, and only relevant triggers appear based on the UI element referenced by the callout.
 
-For more information, see [GTD triggers](../reference/guided-tour-triggers.md).
+For more information, see [GTD triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../reference/guided-tour-triggers.md).
 
 ## Using callouts
 
@@ -56,11 +56,11 @@ You must place a callout on top of an element to interact with it. The element i
 
 In the following example, it looks like the callout is pointing to the context menu icon, but notice that the header bar is highlighted blue.
 
-![Wrong placement of the callout](../image/guided-tour-wrong-placement.png "Incorrect callout placement for the context menu")
+![Wrong placement of the callout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-wrong-placement.png "Incorrect callout placement for the context menu")
 
 This example depicts the correct placement of the callout for the context menu. Notice that the context menu icon is highlighted blue.
 
-![Correct placement of the callout](../image/guided-tour-right-placement.png "Correct callout placement for the context menu")
+![Correct placement of the callout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-right-placement.png "Correct callout placement for the context menu")
 
 The following tips may also be helpful:
 
@@ -75,5 +75,5 @@ Automatically start a tour if you want users to take the tour on their first vis
 
 You can choose to launch multiple tours automatically from a single starting page. You can set the auto-launch order so that users start the second tour on their second page visit, the third tour on their third page visit, and so on. Use this option if you want to begin with an introductory tour and then add more complex or focused follow-up tours.
 
-**Parent Topic:**[Configuring Guided Tours](../task/configure-guided-tours.md)
+**Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../task/configure-guided-tours.md)
 

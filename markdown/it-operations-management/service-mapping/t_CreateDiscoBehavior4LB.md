@@ -102,7 +102,7 @@ Behavior
 
 </td><td>
 
-Select the behavior you created in step [1](t_CreateDiscoBehavior4LB.md#step_createBehavior).
+Select the behavior you created in step [1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoBehavior4LB.md#step_createBehavior).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ Determines the run schedule of the discovery. Configure the frequency in the **R
 **Related topics**  
 
 
-[Pattern-based discovery in Service Mapping](../concept/pattern-based-discovery.md)
+[Pattern-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/pattern-based-discovery.md)
 
 [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)
 

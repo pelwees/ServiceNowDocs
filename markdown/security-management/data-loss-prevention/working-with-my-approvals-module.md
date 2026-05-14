@@ -37,8 +37,8 @@ Role required:
 
     Approver can view the details of assigned request on the form view. By clicking the **Approve** or **Reject** action from the form view, one can approve or reject the Individual request.
 
-    **Note:** To view the DLP Incident details, click on ![Add icon - My approval rules](../image/dlp-my-info-approvals.png) info icon available on the **Approve** field.
+    **Note:** To view the DLP Incident details, click on ![Add icon - My approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../image/dlp-my-info-approvals.png) info icon available on the **Approve** field.
 
 
-**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](../concept/using-dlp-end-user-portal.md)
+**Parent Topic:**[Data Loss Prevention Incident Response User Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/using-dlp-end-user-portal.md)
 

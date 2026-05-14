@@ -28,7 +28,7 @@ Administrators can create their own UI macros to provide custom controls or inte
 
 **Note:** To view available UI macros, navigate to **All** &gt; **System UI** &gt; **UI Macros**.
 
-**Parent Topic:**[Creating custom UI Pages and UI macros](../../general-scripting/concept/create-custom-ui-pages.md)
+**Parent Topic:**[Creating custom UI Pages and UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/concept/create-custom-ui-pages.md)
 
 ## UI macro basics
 
@@ -104,15 +104,15 @@ The ui\_example UI macro uses three jvar-prefixed variables: jvar\_name, jvar\_t
 **Related topics**  
 
 
-[UI pages](../reference/r_UIPages.md#)
+[UI pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/r_UIPages.md#)
 
-[Jelly tags](../../general-scripting/reference/r_JellyTags.md)
+[Jelly tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/reference/r_JellyTags.md)
 
-[&lt;g:ui\_form/&gt;](../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
+[&lt;g:ui\_form/&gt;](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
 
-[&lt;g:ui\_input\_field /&gt;](../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
+[&lt;g:ui\_input\_field /&gt;](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
 
-[&lt;g:ui\_checkbox/&gt;](../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
+[&lt;g:ui\_checkbox/&gt;](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/concept/c_ExtensionsToJellySyntax.md#)
 
 ## Calling UI macros
 

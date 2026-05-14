@@ -53,5 +53,5 @@ Spoke Layer
 Layer that includes the Guidewire spoke plugin. This layer provides the actions that use REST Web Services to interact with the Guidewire APIs. To view Guidewire spoke actions, see [Guidewire Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/guidewire-spoke.md) actions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Financial Services Operations Integration with Guidewire](fso-integration-with-guidewire-landing-page.md)
+</table>**Parent Topic:**[Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-guidewire-landing-page.md)
 

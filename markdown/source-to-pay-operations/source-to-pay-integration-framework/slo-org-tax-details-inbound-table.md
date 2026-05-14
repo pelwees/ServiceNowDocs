@@ -24,22 +24,22 @@ The following table lists the mandatory fields for the Organization tax details 
 |Organization|String|Name of the organization.|
 |Tax ID|String|Tax ID of the organization.|
 
-**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](../../accounts-payable-operations/concept/inbound-staging-tables-for-apo.md)
+**Parent Topic:**[Inbound staging tables for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../accounts-payable-operations/concept/inbound-staging-tables-for-apo.md)
 
 **Related topics**  
 
 
-[Invoice import inbound staging table](inbound-invoice-import-staging-table.md)
+[Invoice import inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/inbound-invoice-import-staging-table.md)
 
-[Import error staging table](../../accounts-payable-operations/reference/import-error-staging-table.md)
+[Import error staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../accounts-payable-operations/reference/import-error-staging-table.md)
 
-[Invoice line import inbound staging table](inbound-invoice-line-staging-table.md)
+[Invoice line import inbound staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/inbound-invoice-line-staging-table.md)
 
-[Invoice payment detail import inbound table](../../accounts-payable-operations/reference/invoice-payment-detail-staging-table.md)
+[Invoice payment detail import inbound table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../accounts-payable-operations/reference/invoice-payment-detail-staging-table.md)
 
-[Invoice tax line staging table](../../source-to-pay-operations/reference/inbound-invoice-tax-line-staging-table-apo.md)
+[Invoice tax line staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/reference/inbound-invoice-tax-line-staging-table-apo.md)
 
-[Invoice staging table](../../accounts-payable-operations/reference/invoice-staging-table.md)
+[Invoice staging table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../accounts-payable-operations/reference/invoice-staging-table.md)
 
-[Invoice line stage table](../../accounts-payable-operations/reference/invoice-line-staging-table.md)
+[Invoice line stage table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../accounts-payable-operations/reference/invoice-line-staging-table.md)
 

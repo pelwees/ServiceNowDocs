@@ -17,7 +17,7 @@ Gain insights into the page content by summarizing it or improve content quality
 
 ## Before you begin
 
-[Create a Doc in CWM](../../collab-work-mgmt/task/create-a-doc-in-cwm.md).
+[Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../collab-work-mgmt/task/create-a-doc-in-cwm.md).
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
@@ -29,7 +29,7 @@ Role required: sn\_cwm\_ai.cwm\_ai\_user
 
 2.  From the Spaces menu, navigate to the Space where your Doc is located and open it.
 
-    ![Spaces menu in CWM.](../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
+    ![Spaces menu in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../collab-work-mgmt/images/cwm-spaces-navigation-doc.png)
 
 3.  From your Doc, open the page you want to summarize or refine.
 
@@ -42,11 +42,11 @@ Role required: sn\_cwm\_ai.cwm\_ai\_user
             -   **Summarize** to summarize the selected text.
             -   **Elaborate** to lengthen the selected text based on the existing context.
             -   **Shorten** to make the selected text concise.
-            ![Summarize, elaborate, or shorten the selected text](../../spw-eap/images/eap-now-assist-selected-content.png)
+            ![Summarize, elaborate, or shorten the selected text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../spw-eap/images/eap-now-assist-selected-content.png)
 
     -   To summarize the entire content on the page, select **Now Assist** from the Doc header and select **Summarize**.
 
-        ![Summarize the entire content on the page](../../spw-eap/images/eap-now-assist-doc-summarize.png)
+        ![Summarize the entire content on the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../../spw-eap/images/eap-now-assist-doc-summarize.png)
 
     **Tip:** If there’s more content to summarize, you can remove some text and retry.
 

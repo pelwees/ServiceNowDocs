@@ -29,15 +29,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Record information icon ![Record information icon](../../customer-service-management/image/contextual-side-panel-record-info.jpg)
+Record information icon ![Record information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../customer-service-management/image/contextual-side-panel-record-info.jpg)
 
 </td><td>
 
-Relevant information about a record. In License and Permit Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [Viewing the ribbon information in License and Permit Playbook](psds-lpr-playbook-viewing-ribbon.md).
+Relevant information about a record. In License and Permit Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [Viewing the ribbon information in License and Permit Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-lpr-playbook-viewing-ribbon.md).
 
 </td></tr><tr><td>
 
-Activity stream icon ![Activity stream icon](../image/activity-stream-icon.png)
+Activity stream icon ![Activity stream icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/activity-stream-icon.png)
 
 </td><td>
 
@@ -45,7 +45,7 @@ Ability for you to communicate with requesters and make internal notes about the
 
 </td></tr><tr><td>
 
-Attachments icon \(![Attachments icon](../image/attachments-icon.png)\)
+Attachments icon \(![Attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/attachments-icon.png)\)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Ability for you to attach knowledge base content to a response to the requester 
 
 </td></tr><tr><td>
 
-Dynamic Related Records icon \(![Dynamic Related Records icon](../image/checklist-icon.png)\)
+Dynamic Related Records icon \(![Dynamic Related Records icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/checklist-icon.png)\)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Related records in the contextual side panel that dynamically change based on th
 
 </td></tr><tr><td>
 
-Email template icon \(![Email template icon](../image/email-template-icon.png)\)
+Email template icon \(![Email template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/email-template-icon.png)\)
 
 </td><td>
 
@@ -69,11 +69,11 @@ Reusable content for the subject line and message body of email notifications.
 
 </td></tr><tr><td>
 
-Template icon \(![Templates icon](../image/template-icon-2.png)\)
+Template icon \(![Templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/template-icon-2.png)\)
 
 </td><td>
 
-Standard content that is related to resolving the issue. To create a template, select the template icon ![Create template icon.](../image/create-icon.png).
+Standard content that is related to resolving the issue. To create a template, select the template icon ![Create template icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/create-icon.png).
 
 </td></tr></tbody>
 </table>

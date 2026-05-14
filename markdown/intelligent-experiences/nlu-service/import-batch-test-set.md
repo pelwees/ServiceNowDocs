@@ -50,7 +50,7 @@ Aim to include about 10% of test utterances with no expected intents. Including 
 
 3.  Click **Create test set**.
 
-    ![Create new test set window.](../images/import_test_set_window.png)
+    ![Create new test set window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import_test_set_window.png)
 
 4.  Choose a name for the test set.
 
@@ -65,15 +65,15 @@ Aim to include about 10% of test utterances with no expected intents. Including 
 
 ## What to do next
 
-Use the test set to run a test on your models. To learn how, see [Test your model](test-your-model.md) or [Run a multi-model batch test](run-batch-test.md).
+Use the test set to run a test on your models. To learn how, see [Test your model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-your-model.md) or [Run a multi-model batch test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/run-batch-test.md).
 
 After you have created a test set, you can add more utterances to it. When viewing a test set, click **Import utterances**.
 
-![Test set page with import utterances button.](../images/batch_test_import_utterances.png "Test set page with import utterances button")
+![Test set page with import utterances button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/batch_test_import_utterances.png "Test set page with import utterances button")
 
 Select a CSV or XLSX \(Excel Workbook\) file with your additional utterances to import.
 
-![Import utterances window.](../images/import_utterances_window.png "Import utterances window")
+![Import utterances window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/import_utterances_window.png "Import utterances window")
 
 Click **Import**. The system adds your utterances to the test set. After importing, rerun any tests that use the test set.
 

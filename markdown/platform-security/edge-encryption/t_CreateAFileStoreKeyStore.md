@@ -23,7 +23,7 @@ Role required: admin
 
 This step creates both the key storage and the encryption key.
 
-**Note:** The name of the key file must match the key alias specified in the encryption keys table in the instance. See [Configure encryption keys on the instance](t_RotateEncryptionKeys.md).
+**Note:** The name of the key file must match the key alias specified in the encryption keys table in the instance. See [Configure encryption keys on the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RotateEncryptionKeys.md).
 
 ## Procedure
 
@@ -54,10 +54,10 @@ Place the encryption key, exactly 32 bytes, into the file.
 
     2.  Open the `edgeencryption.properties` file.
 
-    3.  Enter the properties for the [file store](../reference/edge-encryption-proxy-server-properties.md).
+    3.  Enter the properties for the [file store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../reference/edge-encryption-proxy-server-properties.md).
 
     4.  Save and close the file.
 
 
-**Parent Topic:**[Set up a keystore and encryption keys](set-up-keystore.md)
+**Parent Topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 

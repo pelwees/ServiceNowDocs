@@ -64,8 +64,8 @@ There might be AI agents installed with the Now Assist application that are not 
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
--   **[Universal Request Router agentic workflow](agentic-flow-ur.md)**  
+-   **[Universal Request Router agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/agentic-flow-ur.md)**  
 Enables employees to request a department agnostic ticket to avail services that are not readily accessible/understandable via the catalog listings or the services that require collaboration across multiple departments.
 
-**Parent Topic:**[Universal Request](ur-landing-limitedaccess.md)
+**Parent Topic:**[Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 

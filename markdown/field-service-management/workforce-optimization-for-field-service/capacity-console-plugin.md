@@ -65,7 +65,7 @@ The following components are installed with Field Service Advanced Capacity and 
 **Related topics**  
 
 
-[Capacity Console](../concept/capacity-console.md)
+[Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../concept/capacity-console.md)
 
-[Using the Capacity Console](../concept/capacity-and-reservation-management-console.md)
+[Using the Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../concept/capacity-and-reservation-management-console.md)
 

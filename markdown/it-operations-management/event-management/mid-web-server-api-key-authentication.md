@@ -17,7 +17,7 @@ Authenticate incoming requests from clients to the MID Web Server extension usin
 
 ## Before you begin
 
-Create a MID Web Server extension to use API Key authentication, as described in [Configure the MID Web Server extension](configure-mid-web-server-extension.md). Ensure that you select **API Key** in the extension's **Authentication Type** field.
+Create a MID Web Server extension to use API Key authentication, as described in [Configure the MID Web Server extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-mid-web-server-extension.md). Ensure that you select **API Key** in the extension's **Authentication Type** field.
 
 Role required: event\_mgmt\_admin
 

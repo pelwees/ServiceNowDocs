@@ -21,13 +21,13 @@ Subscription notifications do not restrict you from using any Integration Hub sp
 
 Your instance attempts to access your Integration Hub subscription information online. When this information is available, the system displays an information message whenever you use a feature not included in your subscription. Flows and action titles also display an information icon for further details. Select the information icon to see a list of features not included in your subscription.
 
-![Information message displaying, "This flow uses features that are not included in your Integration Hub subscription." There is a link to Learn More following the message.](../images/ih-subscription-info-msg.png "Sample subscription notification")
+![Information message displaying, "This flow uses features that are not included in your Integration Hub subscription." There is a link to Learn More following the message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-subscription-info-msg.png "Sample subscription notification")
 
-![Information message that says, "This flow uses features that are not included in your Integration Hub subscription." The Install Application With ID and the Wait Until Tracker Completes features are listed.](../images/ih-subscription-info-msg-list.png "Sample subscription notification with list of features")
+![Information message that says, "This flow uses features that are not included in your Integration Hub subscription." The Install Application With ID and the Wait Until Tracker Completes features are listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ih-subscription-info-msg-list.png "Sample subscription notification with list of features")
 
 ## Subscription information unknown
 
 When your instance cannot access your subscription information, it displays generic information messages. Whenever you use a feature that requires an Integration Hub subscription, the system displays a reminder information message. Verify that you have an appropriate Integration Hub subscription for the features you want to use.
 
-**Parent Topic:**[Request Integration Hub](../../flow-designer/concept/request-ih-overview.md)
+**Parent Topic:**[Request Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/concept/request-ih-overview.md)
 

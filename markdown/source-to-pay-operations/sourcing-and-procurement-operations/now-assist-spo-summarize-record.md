@@ -30,7 +30,7 @@ You can use these record summarization skill in either Core UI or Source-to-Pay 
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -67,7 +67,7 @@ To generate a summary for the following records:-   Negotiation
 </td></tr></tbody>
 </table>4.  On the Details tab, in the Record summary section, select **Summarize**.
 
-    ![Summarize option that appears at the top of the record in Source-to-Pay Workspace.](../../source-to-pay-operations/image/record-summarization-pr.png)
+    ![Summarize option that appears at the top of the record in Source-to-Pay Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../source-to-pay-operations/image/record-summarization-pr.png)
 
 5.  When you opt to summarize a purchase requisition, you see the following message:
 
@@ -77,7 +77,7 @@ To generate a summary for the following records:-   Negotiation
 
 6.  Review the summary details.
 
-    A concise summary of a record, including the overview, actions completed, and next steps. The information that is displayed is based on the type of the record:![Summarized procurement case.](../image/record-summarized-pc.png)
+    A concise summary of a record, including the overview, actions completed, and next steps. The information that is displayed is based on the type of the record:![Summarized procurement case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/record-summarized-pc.png)
 
     -   **Overview**: Provides information about the record.
     -   **Actions completed**: Lists all the actions that have been taken so far.
@@ -100,7 +100,7 @@ Procedure
 
 1.  Select **Share**.
 2.  In the Share to work notes dialog box, edit the summary.
-3.  Select **Save to work notes**.![Save work notes for procurement record summarization.](../../source-to-pay-operations/image/record-summarization-copy-notes-spo.png)
+3.  Select **Save to work notes**.![Save work notes for procurement record summarization.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../source-to-pay-operations/image/record-summarization-copy-notes-spo.png)
 
 
 </td></tr><tr><td id="d198419e337">
@@ -109,7 +109,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d198419e358">
 
@@ -117,7 +117,7 @@ Select the expand card icon \(![Expand card icon.](../image/icon-expand.png)\) o
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
 
 </td></tr><tr><td id="d198419e381">
 
@@ -125,7 +125,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy-spo.png)\) to use the record summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-copy-spo.png)\) to use the record summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d198419e397">
 
@@ -133,7 +133,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-cop
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-more-info.png)\).
 
 </td></tr><tr><td id="d198419e412">
 
@@ -141,22 +141,22 @@ If you want to check some details about the summary, select the more info icon \
 
 </td><td>
 
-If you want to refresh the summary, select the refresh icon \(![Refresh icon.](../image/icon-refresh.png)\).
+If you want to refresh the summary, select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/icon-refresh.png)\).
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](../concept/now-assist-spo-using.md)
+**Parent Topic:**[Use Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-using.md)
 
 **Related topics**  
 
 
-[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](now-assist-spo-summarize-shopping.md)
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-shopping.md)
 
-[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](request-gen-ai-capabilities-spo-now-assist-panel.md)
+[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-gen-ai-capabilities-spo-now-assist-panel.md)
 
-[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](../concept/now-assist-spo-va-using.md)
+[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/now-assist-spo-va-using.md)
 
-[Generate email responses](email-response-na-spo.md)
+[Generate email responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-response-na-spo.md)
 
-[Analyze sentiment in procurement cases](analyze-sentiments-na-spo.md)
+[Analyze sentiment in procurement cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-sentiments-na-spo.md)
 

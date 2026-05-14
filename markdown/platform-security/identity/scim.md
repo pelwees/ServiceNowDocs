@@ -17,15 +17,15 @@ The System for Cross-domain Identity Management \(SCIM\) API provides endpoints 
 
 <table id="table_qty_rnd_2yb" class="nav-card"><tbody><tr><td>
 
-[SCIM Provider ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg)](scim-provider.md)
+[SCIM Provider ![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../reuse/icons/brand-icons/bus-explore.svg)](scim-provider.md)
 
- [The SCIM provider synchronizes the changes made to identities in the IdP, including creating, updating, or deleting records.](scim-provider.md)
+ [The SCIM provider synchronizes the changes made to identities in the IdP, including creating, updating, or deleting records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/scim-provider.md)
 
 </td><td>
 
-[SCIM Client ![Reference](../../../reuse/icons/brand-icons/bus-learn.svg)](scim-client-app.md)
+[SCIM Client ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../../../reuse/icons/brand-icons/bus-learn.svg)](scim-client-app.md)
 
- [The SCIM Client is used for creating, updating, and deleting identity resources in a system that supports SCIM compliant REST requests.](scim-client-app.md)
+ [The SCIM Client is used for creating, updating, and deleting identity resources in a system that supports SCIM compliant REST requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/scim-client-app.md)
 
 </td></tr></tbody>
 </table>The SCIM protocol is an application-level HTTP-based protocol based on the HTTP \([RFC7230](https://datatracker.ietf.org/doc/html/rfc7230)\) standard. Use this API for provisioning and managing identity data, such as users and groups. Use the API on the web and in cross-domain environments, such as enterprise-to-cloud service providers or inter-cloud scenarios.

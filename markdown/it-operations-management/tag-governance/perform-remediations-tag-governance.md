@@ -17,7 +17,7 @@ Preview audit reports for resources that tag policies identify as non-compliant.
 
 ## Before you begin
 
-Configure tag policies and remediation policies. See [Configure a tag policy for Tag Governance](configure-tag-governance-policy.md) and [Configure remediation policies on tag audit findings](configure-remediation-tag-governance-.md).
+Configure tag policies and remediation policies. See [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md) and [Configure remediation policies on tag audit findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-remediation-tag-governance-.md).
 
 **Note:** The update to cloud works only for AWS and Microsoft Azure Cloud resources for CMDB classes listed in the Tag Remediation form.
 
@@ -47,7 +47,7 @@ Based on the tag policies that you create, you can preview remediation flows and
 
 5.  On the Tag Remediation Keys related list, select **New** to create a tag remediation key.
 
-    The fields on the Tag Remediation Key form are described in [Tag Remediation Key form](../reference/tag-gov-tag-remediation-key-form.md).
+    The fields on the Tag Remediation Key form are described in [Tag Remediation Key form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/../reference/tag-gov-tag-remediation-key-form.md).
 
 6.  Select **Submit**.
 

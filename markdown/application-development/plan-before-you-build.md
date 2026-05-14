@@ -15,7 +15,7 @@ Essentially, an application is a digital program that supports user tasks. Some 
 
 ## Agentic AI
 
-Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
+Create applications with help from agentic AI. For more information, see [Vibe coding and AI app development on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../ai-capabilities/concept/use-ai-capabilities-in-custom-apps.md).
 
 ## Application scope
 
@@ -31,7 +31,7 @@ Create custom business applications in scope unless:
 
 **Note:** Globally scoped passthrough is a script include created in a global scope that is accessible from the private scope. The passthrough gives access to a global API that is not accessible by default from a private application scope.
 
-For more information, see [Application scope](../../applications/concept/c_ApplicationScope.md) and [Understanding Application Scope on the ServiceNow AI Platform \(Whitepaper\)](https://www.servicenow.com/community/developer-articles/understanding-application-scope-on-the-now-platform-whitepaper/ta-p/2326214).
+For more information, see [Application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../applications/concept/c_ApplicationScope.md) and [Understanding Application Scope on the ServiceNow AI Platform \(Whitepaper\)](https://www.servicenow.com/community/developer-articles/understanding-application-scope-on-the-now-platform-whitepaper/ta-p/2326214).
 
 ## Instance selection
 
@@ -47,5 +47,5 @@ The application name matters. ServiceNow suggests a scope based on the applicati
 
 All application files within the application inherit the scope, so carefully consider what the value should be. The application name can always be changed.
 
-**Parent Topic:**[Plan your application development](plan-your-app-development.md)
+**Parent Topic:**[Plan your application development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-your-app-development.md)
 

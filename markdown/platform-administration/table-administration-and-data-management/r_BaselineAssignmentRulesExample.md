@@ -136,20 +136,20 @@ Active is true
 Group: Service Desk
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Defining assignment rules](../concept/c_DefineAssignmentRules.md)
+</table>**Parent Topic:**[Defining assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DefineAssignmentRules.md)
 
 **Related topics**  
 
 
-[Assignment rules module](../concept/c_AssignmentRulesModule.md)
+[Assignment rules module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_AssignmentRulesModule.md)
 
-[Data lookup rules](../concept/c_DataLookupRules.md)
+[Data lookup rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DataLookupRules.md)
 
-[Precedence between data lookup, assignment, and business rules](../concept/c_PrecBetweenAssignmentAndBusRules.md)
+[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_PrecBetweenAssignmentAndBusRules.md)
 
-[Workflow assignments](../concept/c_WorkflowAssignments.md)
+[Workflow assignments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_WorkflowAssignments.md)
 
-[Create an assignment rule](../task/t_AssignmentModuleRule.md)
+[Create an assignment rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_AssignmentModuleRule.md)
 
-[Create an assignment data lookup rule](../task/t_DataLookupRule.md)
+[Create an assignment data lookup rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../task/t_DataLookupRule.md)
 

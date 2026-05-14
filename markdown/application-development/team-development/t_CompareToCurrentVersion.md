@@ -29,10 +29,10 @@ To compare a version to the current version of an object:
 
     |Option|Action|
     |------|------|
-    |**From [a Versions list](../concept/c_NavigatingVersionRecords.md)**|Right-click the version and select **Compare to Current**.|
+    |**From [a Versions list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/c_NavigatingVersionRecords.md)**|Right-click the version and select **Compare to Current**.|
     |**From the Update Versions form**|Click the **Compare to Current** related link.|
 
-    ![The Compare to Current page includes a diff/merge tool that highlights the fields that differ.](../image/CompareToCurrentForm.png)
+    ![The Compare to Current page includes a diff/merge tool that highlights the fields that differ.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../image/CompareToCurrentForm.png)
 
 2.  On the Compare to Current page, review the fields that differ.
 
@@ -56,7 +56,7 @@ Action
 
 </td></tr><tr><td id="d140702e167">
 
-**To resolve the differences by modifying the current version and saving the merged changes__Note:__ Some types of record do not support this method. See [Limitations on updating records](../reference/r_LimitationsOnResolvingCollisions.md) for more information.
+**To resolve the differences by modifying the current version and saving the merged changes__Note:__ Some types of record do not support this method. See [Limitations on updating records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../reference/r_LimitationsOnResolvingCollisions.md) for more information.
 
 **
 
@@ -69,24 +69,24 @@ You can either update the setting in the current record or move a setting from t
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Versions](../concept/c_Versions.md)
+**Parent Topic:**[Versions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/c_Versions.md)
 
 **Related topics**  
 
 
-[Merge tool](../concept/diff-merge-tool.md)
+[Merge tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../concept/diff-merge-tool.md)
 
-[Compare to the current version](t_CompareToCurrentVersion.md)
+[Compare to the current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_CompareToCurrentVersion.md)
 
-[Compare a pushed version to a local version](t_ComparePushedVerLocalVer.md)
+[Compare a pushed version to a local version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_ComparePushedVerLocalVer.md)
 
 [Compare two versions of an article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/compare-two-article-versions.md)
 
 [Resolve conflicts for an individual record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflict.md)
 
-[Resolve a collision in Team Development](t_ResolveACollision.md)
+[Resolve a collision in Team Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_ResolveACollision.md)
 
-[Revert a change](t_RevertAChange.md)
+[Revert a change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/t_RevertAChange.md)
 
-[View customizations and compare with current version](../../system-update-sets/task/view-customer-update-records.md)
+[View customizations and compare with current version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/team-development/../../system-update-sets/task/view-customer-update-records.md)
 

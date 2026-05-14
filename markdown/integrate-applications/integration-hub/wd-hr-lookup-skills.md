@@ -48,45 +48,45 @@ This procedure must be performed in your Workday instance.
 
 6.  Do not select the **Temporary report** check box and click Ok.
 
-    ![Skills custom report.](../image/wdhr-lookup-skills-1.PNG)
+    ![Skills custom report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-1.PNG)
 
 7.  Select the report business object and report fields.
 
-    ![Select the report business object and report fields.](../image/wdhr-lookup-skills-2.PNG)![Select the report business object and report fields.](../image/wdhr-lookup-skills-3.PNG)
+    ![Select the report business object and report fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-2.PNG)![Select the report business object and report fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-3.PNG)
 
 8.  In **Filter** section, select the required values.
 
-    ![Select the required filter values.](../image/wdhr-lookup-skills-4.PNG)
+    ![Select the required filter values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-4.PNG)
 
 9.  In the **Prompts** section, select the **Populate Undefined Prompt Defaults** check box.
 
-    ![Select the Populate Undefined Prompt Defaults check box.](../image/wdhr-lookup-skills-5.PNG)
+    ![Select the Populate Undefined Prompt Defaults check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-5.PNG)
 
 10. Select the value of prompts under the **Prompt Default** section.
 
     Ensure that the **Label For Prompt XML Alias** values for all prompt fields are as shown here.
 
-    ![Select the value of prompts under the Prompt Default section.](../image/wdhr-lookup-skills-6.PNG)
+    ![Select the value of prompts under the Prompt Default section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-6.PNG)
 
 11. In the **Advanced** section, select the **Enable as webservice** check box and click **Ok**.
 
 12. Click the three dots icon and navigate to **Web Service** &gt; **View URLs**.
 
-    ![Navigate to Web Service > View URLs .](../image/wdhr-lookup-skills-7.PNG)
+    ![Navigate to Web Service > View URLs .](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-7.PNG)
 
 13. Select the time duration for which you want to extract the data.
 
-    ![Select the time duration.](../image/wdhr-lookup-skills-8.PNG)
+    ![Select the time duration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-8.PNG)
 
 14. In View URLs Web Service page, click the marked icon under **CSV** section.
 
-    ![Click the marked icon under CSV section.](../image/wdhr-lookup-skills-9.png)
+    ![Click the marked icon under CSV section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-9.png)
 
     You will be navigated to a new browser and the RaaS URL of the report is displayed.
 
 15. From the RaaS URL, copy and record these values.
 
-    ![RaaS URL.](../image/wdhr-lookup-skills-10.PNG)
+    ![RaaS URL.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wdhr-lookup-skills-10.PNG)
 
     -   `https://wd2-impl-services1.workday.com` is the base URL of your Workday tenant.
     -   **Tenant\_Name** is your Workday tenant.

@@ -33,7 +33,7 @@ The following procedure describes the steps for enabling Access Insights.
 
 4.  Enable **Access Insights**.
 
-    ![Access Insights Settings](../images/access-insights-settings.png)
+    ![Access Insights Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/access-insights-settings.png)
 
     **Note:** By default, Peer-Level fields are selected with **Company**, **Department**, and **Manager**. You can add more fields such as **Cost Center**, **Country Code**, **Location**, and **Title**.
 
@@ -42,5 +42,5 @@ The following procedure describes the steps for enabling Access Insights.
 
 ## Result
 
-The Access Insights feature is shown when you're comparing user access to a resource under **Role Hierarchy**. To know more about using Access Insights, see [Using Access Insights](use-access-insights.md).
+The Access Insights feature is shown when you're comparing user access to a resource under **Role Hierarchy**. To know more about using Access Insights, see [Using Access Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/use-access-insights.md).
 

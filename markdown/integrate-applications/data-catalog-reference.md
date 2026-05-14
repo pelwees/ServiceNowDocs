@@ -13,10 +13,10 @@ breadcrumb: [Data Catalog, Workflow Data Fabric]
 
 Reference topics provide information about roles and key terms.
 
--   **[Data catalog key terms](data-catalog-key-terms.md)**  
+-   **[Data catalog key terms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog-key-terms.md)**  
 Key terms used in Data catalog.
--   **[Data catalog roles](data-catalog-roles.md)**  
+-   **[Data catalog roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog-roles.md)**  
 Assign roles to specify what different users can see and do.
 
-**Parent Topic:**[Data Catalog](../concept/data-catalog.md)
+**Parent Topic:**[Data Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/data-catalog.md)
 

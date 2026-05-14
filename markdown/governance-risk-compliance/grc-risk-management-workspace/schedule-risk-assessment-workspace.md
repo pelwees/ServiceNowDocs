@@ -35,7 +35,7 @@ In most organizations, the second line of risk managers is responsible for coord
 
     The Assessment Scheduler playbook opens the Scope definition stage, where you define the risk assessment methodology \(RAM\) and assessable entity.
 
-    ![Assement scheduler.](../image/assessment-scheduler-playbook.png)
+    ![Assement scheduler.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/assessment-scheduler-playbook.png)
 
 5.  On the Scope definition activity card, fill in the fields.
 
@@ -176,5 +176,5 @@ Number of days within which the assessment should be completed after it’s init
 
 The assessments are initiated. You can view all the scheduled assessments under **Risk assessment planning** &gt; **Scheduled assessments**.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

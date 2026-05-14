@@ -42,7 +42,7 @@ Roles required:
 
     Enter the following information for your application:
 
-    ![Register an application](../image/register-app-azure.png)
+    ![Register an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/register-app-azure.png)
 
     |Field|Description|
     |-----|-----------|
@@ -178,7 +178,7 @@ Select **Client secret**.The **Secret key** field appears when you select **Clie
 </td></tr></tbody>
 </table>12. Copy and paste values from the temporary text file into the remaining fields.
 
-    ![Azure credentials](../image/azure-copy-to-service-principal.png)
+    ![Azure credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/azure-copy-to-service-principal.png)
 
     |Credentials form field|Azure Service Principal value|
     |----------------------|-----------------------------|

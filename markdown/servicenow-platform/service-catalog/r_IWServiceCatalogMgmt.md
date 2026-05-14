@@ -15,7 +15,7 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 Several types of components are installed with the Service Catalog.
 
-**Parent Topic:**[Service Catalog Reference](../concept/service-catalog-reference.md)
+**Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-reference.md)
 
 ## Script includes installed with Service Catalog
 

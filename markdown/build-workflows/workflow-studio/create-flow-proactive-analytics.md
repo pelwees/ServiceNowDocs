@@ -35,7 +35,7 @@ Role required: admin or flow\_designer
 
 3.  Define the flow properties.
 
-    For more information, see [Create a flow in Workflow Studio](create-flow.md).
+    For more information, see [Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md).
 
 4.  In the Trigger section, add a trigger and select **Proactive Analytics**.
 
@@ -58,7 +58,7 @@ Role required: admin or flow\_designer
 
     For example, start a flow when the Incidents opened since last 24 hours indicator generates a Short Run signal.
 
-    ![Condition builder to start a flow when the Incidents opened since last 24 hours KPI generates a Short Run signal](../images/trigger-proactive-analytics-example.png)
+    ![Condition builder to start a flow when the Incidents opened since last 24 hours KPI generates a Short Run signal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/trigger-proactive-analytics-example.png)
 
 7.  Add actions, subflows, and flow logic to the flow.
 
@@ -66,10 +66,10 @@ Role required: admin or flow\_designer
 
 8.  Test the flow.
 
-    For more information about testing a flow, see [Test a flow](flow-test.md).
+    For more information about testing a flow, see [Test a flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-test.md).
 
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 
 **Related topics**  
 

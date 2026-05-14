@@ -61,13 +61,13 @@ For this quick start guide, we're going to import data in the following JSON fil
 
     5.  Select **Load All Records** to load records to the import set table.
 
-        ![JSON Data Source form for the School Import.](../image/data-source-school.png)
+        ![JSON Data Source form for the School Import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/data-source-school.png)
 
     6.  Open the import set row created.
 
         The record should be saved to a single JSON column.
 
-        ![The import set row with the record saved as a single JSON column.](../image/school-import-row.png)
+        ![The import set row with the record saved as a single JSON column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/school-import-row.png)
 
 2.  Create the target table structure to import data.
 
@@ -91,7 +91,7 @@ For this quick start guide, we're going to import data in the following JSON fil
 
     3.  Enter a name and save the record.
 
-        ![Record of ETL definition named school definition.](../image/etl-definition-school.png)
+        ![Record of ETL definition named school definition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-definition-school.png)
 
 4.  Create entities.
 
@@ -103,7 +103,7 @@ For this quick start guide, we're going to import data in the following JSON fil
 
         The field/path is the path from the root of the JSON and we mark arrays with \[\*\].
 
-        ![The Import Set ETL Entity form.](../image/etl-entity-import.png)
+        ![The Import Set ETL Entity form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-entity-import.png)
 
     4.  Go to ETL Definition and under ETL Entities, select **New**.
 
@@ -119,7 +119,7 @@ For this quick start guide, we're going to import data in the following JSON fil
 
         This should generate the **Name** field. Set the **Coalesce** to **true**.
 
-        ![ETL Entity for School.](../image/etl-entity-school.png)
+        ![ETL Entity for School.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-entity-school.png)
 
     10. Go to ETL Definition and under ETL Entities, select **New**.
 
@@ -133,15 +133,15 @@ For this quick start guide, we're going to import data in the following JSON fil
 
     14. Since **School** in the ETL Entity fields is a reference field, modify the **Field/Path** to `school.name` and set **Coalesce** to **true** for the **Name** field because name is unique.
 
-        ![ETL Entity for Class.](../image/etl-entity-class.png)
+        ![ETL Entity for Class.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-entity-class.png)
 
     15. Add Entities to Student and Subject as well.
 
         For Subject, set **Coalesce** to **true** for both the **Name** and **Student** fields.
 
-        ![ETL Entity for Student.](../image/etl-entity-student.png)
+        ![ETL Entity for Student.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-entity-student.png)
 
-        ![ETL Entity for Subject.](../image/etl-entity-subject.png)
+        ![ETL Entity for Subject.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/etl-entity-subject.png)
 
 5.  Add RTE Entity Mappings.
 
@@ -165,7 +165,7 @@ For this quick start guide, we're going to import data in the following JSON fil
 
         You can only select the Entity fields from the target entity.
 
-        ![RTE Entity Mapping for Import set to school.](../image/rte-entity-mapping-school.png)
+        ![RTE Entity Mapping for Import set to school.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/rte-entity-mapping-school.png)
 
     9.  Go to ETL Definition and under RTE Entity Mappings select **New**.
 
@@ -181,13 +181,13 @@ For this quick start guide, we're going to import data in the following JSON fil
 
         The school **Target Field** should map to the **School name** of the import set. The system does the school look up using this value and sets the correct school reference.
 
-        ![RTE Entity Mapping for Import set to class.](../image/rte-entity-mapping-class.png)
+        ![RTE Entity Mapping for Import set to class.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/rte-entity-mapping-class.png)
 
     15. Add mappings for Student and Subject as well.
 
-        ![RTE Entity Mapping for Import set to student.](../image/rte-entity-mapping-student.png)
+        ![RTE Entity Mapping for Import set to student.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/rte-entity-mapping-student.png)
 
-        ![RTE Entity Mapping for Import set to subject.](../image/rte-entity-mapping-subject.png)
+        ![RTE Entity Mapping for Import set to subject.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/rte-entity-mapping-subject.png)
 
 6.  Create a Robust Import Set Transformer record and run the import.
 
@@ -203,11 +203,11 @@ For this quick start guide, we're going to import data in the following JSON fil
 
         Selecting **Verbose** is not required, but enables you to debug the configuration. Switch this off before moving to production because it can negatively impact the performance.
 
-        ![Robust Import Set Transformer for School Transformer.](../image/robust-import-set-transformer.png)
+        ![Robust Import Set Transformer for School Transformer.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/robust-import-set-transformer.png)
 
     6.  Select **Submit**.
 
-        ![Data Source for School Import.](../image/data-source-transformer.png)
+        ![Data Source for School Import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/data-source-transformer.png)
 
     7.  Select **Load All Records**.
 
@@ -221,6 +221,6 @@ For this quick start guide, we're going to import data in the following JSON fil
 
     12. If the configuration works correctly, it should show the import set row record with all the records inserted.
 
-        ![School import.](../image/import-set-records.png)
+        ![School import.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../image/import-set-records.png)
 
 

@@ -42,5 +42,5 @@ You can mention users in Communities in the following ways.
     **Note:** Followers can set their notification preferences to enable or disable notifications of user mentions.
 
 
-**Parent Topic:**[Post and respond to content in the community](post-respond-content.md)
+**Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 

@@ -17,7 +17,7 @@ Connect to your Agile Development 2.0 instance using the DevOps Change Workspace
 
 ## Before you begin
 
-Complete the tasks specified in the [Getting started with DevOps Change Velocity](../concept/setting-up-devops-change-velocity.md) topic.
+Complete the tasks specified in the [Getting started with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/setting-up-devops-change-velocity.md) topic.
 
 Activate the Agile Development 2.0 plugin. For more information, see .
 
@@ -51,8 +51,8 @@ Steps
 
 </td><td>
 
-1.  Select **Applications** \(![Applications icon.](../image/applications-icon.png)\) from the primary navigation.
-2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](app-create-workspace.md).
+1.  Select **Applications** \(![Applications icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/applications-icon.png)\) from the primary navigation.
+2.  Select an existing application, or create one. To create an application, see [Create an application - Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/app-create-workspace.md).
 3.  From the  Recommended actions  pane, select the  **Connect a tool ** card.
 4.  On the  Connect to a tool  modal, select Agile Development 2.0 from the **Plan** category.
 
@@ -63,7 +63,7 @@ Steps
 
 </td><td>
 
-1.  Select **Tools** \(![Tools icon.](../image/tools-icon-wkspc.png)\) from the primary navigation.
+1.  Select **Tools** \(![Tools icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/tools-icon-wkspc.png)\) from the primary navigation.
 2.  From the Capability list, select **Planning**.
 3.  Select **Connect a tool**.
 4.  On the  Connect to a tool  modal, select **Agile Development 2.0**.
@@ -74,7 +74,7 @@ Steps
 
 2.  In the **Tool name** field, enter a name for the tool.
 
-    ![Connect to Agile Development 2.0](../image/agile2-plybk-03.png)
+    ![Connect to Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/agile2-plybk-03.png)
 
 3.  Select **Next**.
 
@@ -82,7 +82,7 @@ Steps
 
 4.  Select **Connect**.
 
-    ![Connect Agile Development 2.0.](../image/agile2-plybk-01.png)
+    ![Connect Agile Development 2.0.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/agile2-plybk-01.png)
 
 5.  Specify the access for the tool.
 
@@ -101,7 +101,7 @@ Steps
         This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
     3.  Select **Assign**.
-    ![Specify the tool access](../image/agile2-plybk-04.png)
+    ![Specify the tool access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/agile2-plybk-04.png)
 
     **Important:**
 
@@ -111,7 +111,7 @@ Steps
 
     If you don’t choose to select plans now, you can enable nightly polling later to fetch the data for any tracked plans by setting the **Enable Polling** system property to **Yes**.
 
-    ![Track work items from Agile Development 2.0.](../image/agile2-plybk-02.png)
+    ![Track work items from Agile Development 2.0.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/agile2-plybk-02.png)
 
 7.  If you want to import plan data, select the date range and select **Submit**.
 
@@ -119,12 +119,12 @@ Steps
 
 8.  From the **Summary** page, select **View tool record** to review the details of the connected instance and the plans discovered from it.
 
-    ![Connection summary](../image/agile2-plybk-05.png)
+    ![Connection summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/agile2-plybk-05.png)
 
 
 ## Result
 
 You’ve successfully onboarded your Agile Development 2.0 tool to DevOps Change Velocity.
 
-**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](../concept/agile-integration-dev-ops.md)
+**Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/agile-integration-dev-ops.md)
 

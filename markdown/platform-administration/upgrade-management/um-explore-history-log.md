@@ -52,5 +52,5 @@ When the upgrade starts, the upgrade log messages are written to both the localh
     **Note:** The database-upgrade\_&lt;timestamp&gt;.log file has been zipped to reduce the download time.
 
 
-**Parent Topic:**[Reviewing upgrade history](../concept/um-review-history.md)
+**Parent Topic:**[Reviewing upgrade history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-review-history.md)
 

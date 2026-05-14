@@ -29,7 +29,7 @@ COE
 
 </td><td>
 
-Select the **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. For more information, see [HR Centers of Excellence data model](../concept/hr-centers-of-excellence-coes.md).**Note:** You can also select an HR service first and the associated COE automatically populates.
+Select the **Center of Excellence** associated with the HR case you are creating. Selecting a COE filters the choices for HR service. For more information, see [HR Centers of Excellence data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/hr-centers-of-excellence-coes.md).**Note:** You can also select an HR service first and the associated COE automatically populates.
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ HR service description
 
 </td><td>
 
-Description of the HR service selected in the **HR Service** field.For more information on configuring the HR service description, see [Configure an HR service](../task/configure-hr-service.md).
+Description of the HR service selected in the **HR Service** field.For more information on configuring the HR service description, see [Configure an HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../task/configure-hr-service.md).
 
 </td></tr><tr><td>
 
@@ -76,14 +76,14 @@ Work notes
 Information related to the case that can help other HR agents. Work notes are not visible to the Opened for person.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](agent-ws-reference.md)
+</table>**Parent Topic:**[Agent Workspace for HR Case Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-reference.md)
 
 **Related topics**  
 
 
-[Page Configurations reference](configuration-settings.md)
+[Page Configurations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configuration-settings.md)
 
-[Highlighted value condition form](highlighted-value-form.md)
+[Highlighted value condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/highlighted-value-form.md)
 
-[Bulk case request form](bulk-case-request-form.md)
+[Bulk case request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/bulk-case-request-form.md)
 

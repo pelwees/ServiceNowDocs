@@ -44,7 +44,7 @@ The following plugins must be activated from the ServiceNow store to display the
 
 Update the solution definition in the **HR AI configuration** &gt; **Similar Journey Users** &gt; **Solution definition** field.
 
-**Note:** For more information, see [Configure the HR solution definition and domain](configure-hr-auto-case-categorization.md).
+**Note:** For more information, see [Configure the HR solution definition and domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/configure-hr-auto-case-categorization.md).
 
-**Parent Topic:**[Recommended learning in journey configurations](../concept/jny-dsgnr-ml-learning-recom.md)
+**Parent Topic:**[Recommended learning in journey configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-ml-learning-recom.md)
 

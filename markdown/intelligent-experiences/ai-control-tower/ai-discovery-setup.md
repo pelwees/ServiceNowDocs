@@ -44,12 +44,12 @@ Navigate to the AI connections page in the AI Control Tower, you’re able to cr
 
 Starting March 2026, these AI Service Graph Connectors  are available.
 
--   [AWS](aws_0.md)
--   [GCP Vertex AI](gcp-vertex-ai.md)
--   [LangGraph](langgraph.md)
--   [Microsoft](microsoft.md)
--   [n8n](n8n.md)
--   [Salesforce](salesforce.md)
+-   [AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/aws_0.md)
+-   [GCP Vertex AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/gcp-vertex-ai.md)
+-   [LangGraph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/langgraph.md)
+-   [Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/microsoft.md)
+-   [n8n](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/n8n.md)
+-   [Salesforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/salesforce.md)
 
 ![](../image/ai-connections.png)
 

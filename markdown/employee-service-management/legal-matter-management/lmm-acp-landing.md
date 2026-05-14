@@ -32,7 +32,7 @@ You can identify a privileged and confidential matter by following UI elements.
 -   Privileged and Confidential flag: Displayed in the secondary header of the matter when it is marked as privileged and confidential.
 -   Privileged document access related list to display the status of each attachment.
 
-![Identify privileged and confidential matter](../../legal-request-management/image/lmm-acp-indicator.png)
+![Identify privileged and confidential matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../../legal-request-management/image/lmm-acp-indicator.png)
 
 ## Email notifications
 
@@ -60,7 +60,7 @@ The Privileged and Confidential status of a legal request and its associated mat
 **Related topics**  
 
 
-[Work on a legal matter](../task/work-on-legal-matter-1.md)
+[Work on a legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../task/work-on-legal-matter-1.md)
 
-[Disable attorney client privilege for legal matter](../task/lmm-acp-disable.md)
+[Disable attorney client privilege for legal matter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/../task/lmm-acp-disable.md)
 

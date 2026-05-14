@@ -30,7 +30,7 @@ The number management tool provides your organization with the following benefit
 
 By using the Telecommunications Network Inventory application, you can manage:
 
-1.  IP addresses. For more information, see [IP addresses allocation](ip_address_management.md).
-2.  Telephone numbers. For more information, see [Telephone allocation](telephone_number_management.md).
-3.  VLANs and LAGs. For more information, see [Define your inventory numbering](../task/define-tni-inventory-numbers.md).
+1.  IP addresses. For more information, see [IP addresses allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ip_address_management.md).
+2.  Telephone numbers. For more information, see [Telephone allocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_number_management.md).
+3.  VLANs and LAGs. For more information, see [Define your inventory numbering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/define-tni-inventory-numbers.md).
 

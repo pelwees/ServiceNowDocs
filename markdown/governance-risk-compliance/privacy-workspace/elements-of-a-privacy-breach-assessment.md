@@ -19,7 +19,7 @@ A privacy breach assessment must clearly indicate the jurisdiction in which the 
 
 PI artifacts typically refer to the physical or digital forms of personally identifiable information that may be lost or stolen. These artifacts can include verbal \(spoken or recorded\), visual \(printed or displayed\), electronic \(stored on devices or systems\), or paper-based \(documents or records\) forms of data that contain personal information. A PI artifact contains details such as the nature of the incident, the description of the compromise, the recipient's details, the risk mitigation plan, and so on. Each PI artifact collects data for a particular region and category. The following image shows the information that is collected using the PI artifact form.
 
-![A picture of the PI artifacts form and the items it contains.](../image/pi-artifact-form.png "PI artifact form")
+![A picture of the PI artifacts form and the items it contains.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/pi-artifact-form.png "PI artifact form")
 
 A PI artifact consists of the following.
 
@@ -27,7 +27,7 @@ A PI artifact consists of the following.
 
     When a breach incident occurs, it is important to identify and assess which data elements have been affected or exposed. This helps in understanding the potential risks and impacts of the breach, as well as determining the appropriate response and mitigation measures to protect the affected individuals and their data.
 
-    ![A picture of the items on the data elements form such as personal, medical, and financial information.](../image/pi-artifact-data-elements.png "Data elements form")
+    ![A picture of the items on the data elements form such as personal, medical, and financial information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/pi-artifact-data-elements.png "Data elements form")
 
 -   **Jurisdiction**: A picture of the items on the data elements form such as personal, medical, and financial information.To comply with the varying laws and regulations, it is necessary to identify the specific jurisdictions impacted during a breach assessment. Countries are typically divided into multiple states or regions, each governed by its own set of laws. For instance, within the United States of America, California is considered a jurisdiction with its own governing laws. Therefore, when a breach occurs in California, the applicable laws and regulations specific to California are applied. Jurisdictions also provide important details, such as the number of individuals impacted within that specific region.
 

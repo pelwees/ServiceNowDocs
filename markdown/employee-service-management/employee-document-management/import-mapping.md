@@ -64,5 +64,5 @@ You can also use scripts to map source elements to the required map elements for
 
 **Note:** The base system provides import map examples you can use as models.
 
-**Parent Topic:**[Employee document management bulk imports](edm-bulk-uploads.md)
+**Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-uploads.md)
 

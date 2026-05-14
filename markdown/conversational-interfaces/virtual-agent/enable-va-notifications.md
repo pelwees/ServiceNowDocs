@@ -38,7 +38,7 @@ Enhanced chat
 
 </td><td>
 
-The **sn\_nowassist\_va.nass\_notification\_enabled** system property defaults to `true` in System Properties \(sys\_properties.list\). This property enables Virtual Agent notifications to appear to users within the enhanced chat. For more information on setting up Virtual Agent notifications, see [Configure a delivery channel for Virtual Agent notification](configure-delivery-channel.md).
+The **sn\_nowassist\_va.nass\_notification\_enabled** system property defaults to `true` in System Properties \(sys\_properties.list\). This property enables Virtual Agent notifications to appear to users within the enhanced chat. For more information on setting up Virtual Agent notifications, see [Configure a delivery channel for Virtual Agent notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-delivery-channel.md).
 
 </td></tr><tr><td>
 
@@ -50,9 +50,9 @@ Chat widget \(mweb\)
 2.  Select **Virtual Agent**.
 3.  Under **Notifications**, slide the **Use notifications** toggle switch to enable notifications.
 
-![Virtual Agent setting showing Use notifications toggle switch in inactive state.](../images/va-settings-notif-enabled-switch.png)
+![Virtual Agent setting showing Use notifications toggle switch in inactive state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-settings-notif-enabled-switch.png)
 
-**Note:** You can also change the notification text color and background in chat branding configurations. For details, see [Set up your Virtual Agent bot's branding](../../conversational-interfaces/task/ac-configure-chat-branding.md).
+**Note:** You can also change the notification text color and background in chat branding configurations. For details, see [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../conversational-interfaces/task/ac-configure-chat-branding.md).
 
 </td></tr><tr><td>
 
@@ -64,11 +64,11 @@ Custom chat integration
 2.  In Messaging Channels, select the custom integration record to update.
 3.  Select **Enable Notifications** to activate notifications.
 4.  Select **Update**.
- For more information on configuring custom chat integrations, see[Creating conversational custom chat integrations in Virtual Agent](../concept/va-custom-adapter-framework.md).
+ For more information on configuring custom chat integrations, see[Creating conversational custom chat integrations in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-custom-adapter-framework.md).
 
 </td></tr></tbody>
 </table>    Notifications are sent to recipients via the Virtual Agent bot in the channels that you enabled.
 
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-va-notifications.md)
 

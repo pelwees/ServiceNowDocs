@@ -31,10 +31,10 @@ Role required: catalog\_builder\_editor, catalog\_admin, or admin
 
 5.  Define dynamic behavior for your catalog item using conditions, actions, or scripts.
 
-    For more information about the fields and their description, see [UI policy form in Catalog Builder](ui-policy-form-in-catalog-builder.md).
+    For more information about the fields and their description, see [UI policy form in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/ui-policy-form-in-catalog-builder.md).
 
 6.  After you fill the required information, select **Add behavior**.
 
 
-**Parent Topic:**[Edit a catalog item in Catalog Builder](edit-cat-item-cat-builder.md)
+**Parent Topic:**[Edit a catalog item in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/edit-cat-item-cat-builder.md)
 

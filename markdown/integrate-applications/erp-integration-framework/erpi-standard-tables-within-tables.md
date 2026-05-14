@@ -16,7 +16,7 @@ breadcrumb: [Standard tables, fields, and models, Reference, Zero Copy Connector
 
 The standard ERP \(Enterprise Resource Planning\) remote tables available for use in Zero Copy Connector for ERP contain fields from additional SAP tables.
 
-The standard remote tables contain the following additional fields. For details on the standard tables, see [Standard remote tables for Zero Copy Connector for ERP](erpi-standard-remote-tables.md).
+The standard remote tables contain the following additional fields. For details on the standard tables, see [Standard remote tables for Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erpi-standard-remote-tables.md).
 
 |Remote table|Source table|ERP field name|Mapped field name|
 |------------|------------|--------------|-----------------|
@@ -178,5 +178,5 @@ The standard remote tables contain the following additional fields. For details 
 |SAP Transport|E071|OBJ\_NAME|object\_name|
 |SAP Transport|E071|PGMID|program\_id|
 
-**Parent Topic:**[Zero Copy Connector for ERP standard tables, fields, and models](erp-canvas-standard-tables-and-fields-landing.md)
+**Parent Topic:**[Zero Copy Connector for ERP standard tables, fields, and models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-canvas-standard-tables-and-fields-landing.md)
 

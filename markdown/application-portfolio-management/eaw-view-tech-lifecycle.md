@@ -23,35 +23,35 @@ Role required: sn\_apm.apm\_user
 
 The TPM lifecycle data enables you to manage your technology portfolio effectively, ensuring your business applications and their related application services are updated or replaced timely.
 
-**Note:** For each TPM lifecycle phase, the end date of one phase is the start date of the next phase. For information on lifecycle end-date calculation logic, see [View TPM and TRM lifecycle timelines on the Gantt chart](eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md).
+**Note:** For each TPM lifecycle phase, the end date of one phase is the start date of the next phase. For information on lifecycle end-date calculation logic, see [View TPM and TRM lifecycle timelines on the Gantt chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-tpm-and-trm-lifecycle-timelines-in-gantt-chart.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](../../image/eaw-image/technology-portfolio-icon.png).
+2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/technology-portfolio-icon.png).
 
 3.  Select **TPM lifecycles**.
 
 
-**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-tpm.md)
+**Parent Topic:**[Working with Technology Portfolio Management \(TPM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-tpm.md)
 
 **Related topics**  
 
 
-[Update TPM data for a business application or application service](update-tpm-data.md)
+[Update TPM data for a business application or application service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/update-tpm-data.md)
 
-[View technology portfolio audit risk details](eaw-view-audit-risk-details.md)
+[View technology portfolio audit risk details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-audit-risk-details.md)
 
-[Filter software results using an encoded query in TPM](use-tpm-encoded-query.md)
+[Filter software results using an encoded query in TPM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/use-tpm-encoded-query.md)
 
-[Update the system property to gather software products from a CMDB table](eaw-update-system-property-gather-software-cmdb.md)
+[Update the system property to gather software products from a CMDB table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-update-system-property-gather-software-cmdb.md)
 
-[Update verification status of TPM audit details](../eaw-update-verif-status.md)
+[Update verification status of TPM audit details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../eaw-update-verif-status.md)
 
-[Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](eaw-restart-tpm-scheduled-job.md)
+[Restart Populate TPM Discovered Technologies and Lifecycles scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-restart-tpm-scheduled-job.md)
 
-[View TPM logs](eaw-view-tpm-logs.md)
+[View TPM logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-tpm-logs.md)
 
-[View TPM risk details](eaw-view-tech-risk.md)
+[View TPM risk details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-tech-risk.md)
 

@@ -19,7 +19,7 @@ Document collectors and document agents use a personalized Workspace to work on 
 -   Use Document Intelligence to quickly and accurately extract and process document information
 -   Approve and reject documents needing verification
 
-For more information, see [Workspaces](fso-workspace.md).
+For more information, see [Workspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 |User|Description|
 |----|-----------|
@@ -32,5 +32,5 @@ Several predefined workflows for Document Processor are available with the appli
 
 When a customer requests a financial service, a service case is created and assigned to an agent. After the agent updates the case details, a workflow is triggered. The flow triggers various tasks from the case and route these tasks to document service.
 
-For more information, see [Document Processor workflows](document-processor-workflows.md).
+For more information, see [Document Processor workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/document-processor-workflows.md).
 

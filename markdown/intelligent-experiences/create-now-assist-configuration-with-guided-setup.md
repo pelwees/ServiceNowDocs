@@ -84,5 +84,5 @@ Role required: sn\_skill\_builder.admin
 15. Select **Preview** and **Done**.
 
 
-**Parent Topic:**[Use Now Assist context menu for custom skill deployment](use-now-assist-context-menu-for-custom-skill-deployment.md)
+**Parent Topic:**[Use Now Assist context menu for custom skill deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/use-now-assist-context-menu-for-custom-skill-deployment.md)
 

@@ -59,5 +59,5 @@ Use the following system properties in the Service Portal only.
 
 **Note:** If you make certain key changes to portals, such as changing the sys\_id, data is not carried over and you see a different dashboard.
 
-**Parent Topic:**[Usage Insights reference](../content-framework/landing-page/user-experience-analytics-reference.md)
+**Parent Topic:**[Usage Insights reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/landing-page/user-experience-analytics-reference.md)
 

@@ -21,7 +21,7 @@ By default, the integration uses the **Configuration Item** \(CI\) field on a se
 
 When a matching value is found in the database, that data is gathered from the CrowdStrike Falcon Insight console and is pulled into your ServiceNow AI Platform instance where it is displayed on the related lists of a security incident.
 
-The following example shows a Configuration Item field that is populated with a host name on a SIR security incident.![Configuration item field populated with a host name.](../image/falcon-insight-trigger-ci.png)
+The following example shows a Configuration Item field that is populated with a host name on a SIR security incident.![Configuration item field populated with a host name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-trigger-ci.png)
 
 When the **Configuration item** \(CI\) field is not populated with a host name or an IP address that matches the database, you can select another field on the security incident to display any matching CI data that you find while scanning your assets.
 

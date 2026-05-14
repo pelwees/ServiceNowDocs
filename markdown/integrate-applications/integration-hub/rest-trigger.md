@@ -54,7 +54,7 @@ Depending on how you configure the endpoint, flow designers have access to these
 
 When setting up the trigger, define what the inbound data will look like. You can then use the associated data pills within the actions in your flow. When the system receives an inbound request that starts the flow, it uses the runtime values sent in the request.
 
-**Parent Topic:**[Building integrations in Integration Hub](building-integrations-ih.md)
+**Parent Topic:**[Building integrations in Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/building-integrations-ih.md)
 
 ## Create a flow using the REST API trigger
 

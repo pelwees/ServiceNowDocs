@@ -19,7 +19,7 @@ Configure the footer link to include a link to a site you want your users to be 
 
 The Portal Next Experience theme should have been activated.
 
-The Portal Polaris Footer widget must have been configured. For more information, see [Configure the Portal Polaris Footer widget](config-portal-footer-widget.md)
+The Portal Polaris Footer widget must have been configured. For more information, see [Configure the Portal Polaris Footer widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-footer-widget.md)
 
 Role required: sp\_admin
 

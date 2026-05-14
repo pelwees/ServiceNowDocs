@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-For more information about writing scripts for Virtual Agent, see [Virtual Agent scripts](../concept/virtual-agent-scripts.md).
+For more information about writing scripts for Virtual Agent, see [Virtual Agent scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/virtual-agent-scripts.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ For more information about writing scripts for Virtual Agent, see [Virtual Agent
 
     The **Flow** tab displays the conversation flow.
 
-3.  In the sidebar, select the Variables tab, then select the **Script** plus ![Script plus icon.](../images/icon-plus-clear.png) icon.
+3.  In the sidebar, select the Variables tab, then select the **Script** plus ![Script plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-plus-clear.png) icon.
 
 4.  On the form, fill in the fields.
 
@@ -44,5 +44,5 @@ For more information about writing scripts for Virtual Agent, see [Virtual Agent
 5.  Select **Save**.
 
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

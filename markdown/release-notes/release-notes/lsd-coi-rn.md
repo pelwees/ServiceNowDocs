@@ -59,5 +59,5 @@ Install Legal Conflict of Interest by requesting it from the ServiceNow Store. V
     Summarize a legal request or legal matter to understand its context, refresh its summary, and post the summary to work notes.
 
 
-**Parent Topic:**[Legal Service Delivery release notes](lsd-rn-landing-page.md)
+**Parent Topic:**[Legal Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/lsd-rn-landing-page.md)
 

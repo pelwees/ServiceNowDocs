@@ -50,5 +50,5 @@ RSS issues often arise from invalid XML syntax, incorrect URLs, server or authen
     Upgrade your instance and debug by looking at the execution logs for the flow titled **Pull RSS feed into regulatory change**.
 
 
-**Parent Topic:**[RSS feeds overview](rss-feeds.md)
+**Parent Topic:**[RSS feeds overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rss-feeds.md)
 

@@ -25,22 +25,22 @@ State alignment between SPO SR records and ITAM PO follows the mappings in this 
 |SR|Closed No Decision|Closed Cancel|
 |SR|Any other state|Requested|
 
-**Parent Topic:**[SPO and ITAM data model mappings](../concept/itam-spo-data-model.md)
+**Parent Topic:**[SPO and ITAM data model mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/itam-spo-data-model.md)
 
 **Related topics**  
 
 
-[SPO PO field mappings to ITAM PO](spo-po-field-mappings-itam-po.md)
+[SPO PO field mappings to ITAM PO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-po-field-mappings-itam-po.md)
 
-[SPO PO state mappings to ITAM PO](spo-po-state-mappings-itam-po.md)
+[SPO PO state mappings to ITAM PO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-po-state-mappings-itam-po.md)
 
-[SPO PR field mappings to ITAM PO](spo-pr-field-mappings-itam-po.md)
+[SPO PR field mappings to ITAM PO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-pr-field-mappings-itam-po.md)
 
-[SPO PR state mappings to ITAM PO](spo-pr-state-mappings-itam-po.md)
+[SPO PR state mappings to ITAM PO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-pr-state-mappings-itam-po.md)
 
-[SPO SR field mappings to ITAM PO](spo-sr-field-mappings-itam-po.md)
+[SPO SR field mappings to ITAM PO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sr-field-mappings-itam-po.md)
 
-[ITAM shipment field and state mappings to SPO](itam-shipment-field-state-mappings-spo.md)
+[ITAM shipment field and state mappings to SPO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-shipment-field-state-mappings-spo.md)
 
-[ITAM receipt field mappings to SPO receipt](itam-receipt-field-mappings-spo-receipt.md)
+[ITAM receipt field mappings to SPO receipt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-receipt-field-mappings-spo-receipt.md)
 

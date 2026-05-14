@@ -27,7 +27,7 @@ For applications such as Virtual Agent, Automation Discovery helps you implement
 
 ## Installation
 
-Automation Discovery is available from the ServiceNow Store. For more information, see [Install Automation Discovery](../task/install-automation-discovery.md).
+Automation Discovery is available from the ServiceNow Store. For more information, see [Install Automation Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/install-automation-discovery.md).
 
 ## Language support
 
@@ -37,7 +37,7 @@ Reports created using the **Predictive AIOps** taxonomy support only English, be
 
 ## Discovery reports
 
-![Automation Discovery Reports list that shows all created reports.](../images/automation-discoveryT3.png)
+![Automation Discovery Reports list that shows all created reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../images/automation-discoveryT3.png)
 
 The **Automation Discovery Reports** page lists your created reports. For each report, the page lists the following information:
 
@@ -53,7 +53,7 @@ The **Automation Discovery Reports** page lists your created reports. For each r
 |Frequency|Number of times to run the report.|
 |Status|Status of the report.|
 
-To create a new report, see [Create an Automation Discovery report](../task/create-auto-discovry-report.md).
+To create a new report, see [Create an Automation Discovery report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-auto-discovry-report.md).
 
 To view results, select the name of the report.
 
@@ -61,7 +61,7 @@ To view results, select the name of the report.
 
 For each successful report, the report page shows information about automation opportunities.
 
-![Automation Discovery report page for an incident-based report.](../images/automation-discoveryT1.png)
+![Automation Discovery report page for an incident-based report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../images/automation-discoveryT1.png)
 
 The report groups matching records together by opportunity. In this example, Automation Discovery found 125 opportunities for automation from the thousands of incidents analyzed. Several records group to the same opportunities because the incidents match the same intents.
 
@@ -69,7 +69,7 @@ Deflections refer to incidents that could have been immediately resolved through
 
 MTTR or mean time to resolve refers to the average amount of time it takes to resolve incidents. The report multiplies the number of matching records by the MTTR to get the **Estimated Time Savings** for the top 10 opportunities.
 
-![Automation Opportunities list item expanded. Shows the opportunity in more detail and actions you can take.](../images/automation-discoveryT2.png)
+![Automation Opportunities list item expanded. Shows the opportunity in more detail and actions you can take.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../images/automation-discoveryT2.png)
 
 The **Automation Opportunities** tab lists the automation opportunities that match your data. Select the list icon on each row to see more information about the records for that opportunity.
 
@@ -91,7 +91,7 @@ You can also create custom topics for opportunities that are not VA ready. For m
 
 You can share your discovery reports with other members on your team. On a report page, click **Share Report** to open the report sharing pop-up.
 
-![Pop-up menu for sharing a report.](../images/share_report.png)
+![Pop-up menu for sharing a report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../images/share_report.png)
 
 You can share the report with the provided link or by sending the report via email.
 

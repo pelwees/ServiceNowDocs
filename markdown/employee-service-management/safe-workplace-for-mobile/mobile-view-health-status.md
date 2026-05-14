@@ -17,7 +17,7 @@ Use the Now Mobile app to view the health status of your direct reports.
 
 ## Before you begin
 
-To access this content, you must have the [Now Mobile](../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](../concept/emergency-self-report.md) application installed.
+To access this content, you must have the [Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../../../administer/mobile-employee/concept/mobile-employee-experience.md) app. Your instance must have the [Emergency Self Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/emergency-self-report.md) application installed.
 
 Role required: none
 
@@ -35,11 +35,11 @@ From the Safe Workplace for mobile app, users can access applications from the E
 
     In the My Team's Health section, you can see a list of all your users.
 
-    ![My Team section.](../image/my-teams-health.jpg "My Team")
+    ![My Team section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../image/my-teams-health.jpg "My Team")
 
 3.  In the My Team's Health section, a list of all your users and their status is displayed.
 
-    ![List of users who have reported their status.](../image/emp-health-list.jpg "List of users and their status")
+    ![List of users who have reported their status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../image/emp-health-list.jpg "List of users and their status")
 
 4.  Update the status for a user.
 
@@ -57,11 +57,11 @@ The employee record screen displays the following information:-   Use the contac
 
 </td><td>
 
-![Employee record screen.](../image/employee-form.jpg)
+![Employee record screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../image/employee-form.jpg)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/mobile-emergency-response.md)
 
-**Parent Topic:**[Safe Workplace for mobile](../concept/mobile-emergency-response.md)
+**Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/../concept/mobile-emergency-response.md)
 

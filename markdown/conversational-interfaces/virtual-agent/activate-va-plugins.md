@@ -17,7 +17,7 @@ Install Virtual Agent plugins for your business areas. These plugins contain pre
 
 ## Before you begin
 
-[Activate Virtual Agent](activate-virtual-agent.md).
+[Activate Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md).
 
 Role required: admin or virtual\_agent\_admin
 
@@ -27,7 +27,7 @@ Role required: admin or virtual\_agent\_admin
 
 2.  Under Choose what type of requests you want your bot to support, select an available plugin, such as **Get ITSM plugin**.
 
-    ![Select Get ITSM plugin to install it from the ServiceNow Store.](../images/vaqs-get-itsm-plugin.png "Install the ITSM Virtual Agent Conversations plugin")
+    ![Select Get ITSM plugin to install it from the ServiceNow Store.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/vaqs-get-itsm-plugin.png "Install the ITSM Virtual Agent Conversations plugin")
 
 3.  Follow the directions in the ServiceNow Store and select **Opt-in** when prompted.
 
@@ -36,5 +36,5 @@ Role required: admin or virtual\_agent\_admin
 
 ## What to do next
 
-For more information about available Virtual Agent plugins, see [Additional plugins for Virtual Agent](../reference/additional-va-plugins.md) and [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](../reference/prebuilt-topics-ITSM.md).
+For more information about available Virtual Agent plugins, see [Additional plugins for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/additional-va-plugins.md) and [Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/prebuilt-topics-ITSM.md).
 

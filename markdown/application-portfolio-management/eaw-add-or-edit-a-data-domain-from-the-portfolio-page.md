@@ -26,9 +26,9 @@ Role required: sn\_apm.apm\_admin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Data Domains**.
 
@@ -38,17 +38,17 @@ Role required: sn\_apm.apm\_admin
     -   To update details of an existing data domain, select the data domain.
 6.  On the form, fill in the fields.
 
-    For field information, see [Data Domain form](../../reference/eaw-reference/eaw-data-domain-form.md).
+    For field information, see [Data Domain form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-data-domain-form.md).
 
 7.  Select **Save**.
 
-    You can also create data domains from the Setup page of Enterprise Architecture Workspace. For information, see [Add or edit an information data domain](eaw-add-edit-info-data-domain.md).
+    You can also create data domains from the Setup page of Enterprise Architecture Workspace. For information, see [Add or edit an information data domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-edit-info-data-domain.md).
 
 
-**Parent Topic:**[Manage data domains](../../concept/eaw-concept/eaw-manage-data-domains.md)
+**Parent Topic:**[Manage data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-data-domains.md)
 
 **Related topics**  
 
 
-[View all data domains](eaw-view-all-data-domains.md)
+[View all data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-all-data-domains.md)
 

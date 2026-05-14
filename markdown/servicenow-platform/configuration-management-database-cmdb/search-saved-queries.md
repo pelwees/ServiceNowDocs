@@ -17,7 +17,7 @@ The CMDB Query Builder allows you to search for a specific saved query using any
 
 ## Before you begin
 
-To locate a saved query using a **Query Tags** search criteria, the query must have a query tag associated with it. For more information see [Build a CMDB query using the CMDB Query Builder](use-cmdb-query-builder.md), or [Build a Service Mapping query using the CMDB Query Builder](build-service-mapping-query.md).
+To locate a saved query using a **Query Tags** search criteria, the query must have a query tag associated with it. For more information see [Build a CMDB query using the CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/use-cmdb-query-builder.md), or [Build a Service Mapping query using the CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/build-service-mapping-query.md).
 
 Role required: cmdb\_query\_builder
 

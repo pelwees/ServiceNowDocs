@@ -37,7 +37,7 @@ To start a post incident review:
 
 ## Procedure
 
-1.  [Create a security incident](../concept/si-creation.md), or open an existing one by navigating to **Security Incident** &gt; **Incidents** &gt; **Assigned to Me \(or Assigned to Team or Unassigned Incidents\)**.
+1.  [Create a security incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/si-creation.md), or open an existing one by navigating to **Security Incident** &gt; **Incidents** &gt; **Assigned to Me \(or Assigned to Team or Unassigned Incidents\)**.
 
 2.  Click the **Post Incident Review** tab.
 
@@ -47,7 +47,7 @@ To start a post incident review:
 
 4.  When you have completed your entries, click the lock icon to lock the field.
 
-    **Note:** You can also define conditions which, when met in a security incident, can cause specific users to be automatically added to the **Request assessments** field for that security incident. For example, when a security incident **Category** is changed to **Phishing**, specific individuals who have expertise in phishing threats can be added to the post incident review list. For more information, see [Create post incident review assignment rules](create-pir-assignment-rules.md).
+    **Note:** You can also define conditions which, when met in a security incident, can cause specific users to be automatically added to the **Request assessments** field for that security incident. For example, when a security incident **Category** is changed to **Phishing**, specific individuals who have expertise in phishing threats can be added to the post incident review list. For more information, see [Create post incident review assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-pir-assignment-rules.md).
 
 5.  Click **Update**.
 

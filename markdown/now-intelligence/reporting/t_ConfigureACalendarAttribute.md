@@ -25,11 +25,11 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 2.  Open a form for any record in the table.
 
-3.  Select the Additional actions menu \(![Additional actions menu icon](../../performance-analytics/image/additional-actions.png)\) and choose **Configure** &gt; **Dictionary**.
+3.  Select the Additional actions menu \(![Additional actions menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../../performance-analytics/image/additional-actions.png)\) and choose **Configure** &gt; **Dictionary**.
 
 4.  In the record list that appears, select the first record that does not have a value in the **Column name** field.
 
-    ![Reports calendar attributes](../image/reports-calendar-attributes01.png)
+    ![Reports calendar attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/reports-calendar-attributes01.png)
 
 5.  Switch the **Dictionary Entry** form to the **Advanced** view.
 
@@ -41,7 +41,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
     calendar_elements=number;short_description;state
     ```
 
-    ![Reports calendar attributes](../image/reports-calendar-attributes02.png)
+    ![Reports calendar attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/reports-calendar-attributes02.png)
 
 7.  If the table already has an attribute, separate it from the attribute you are adding with a comma, for example:
 
@@ -56,16 +56,16 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 The calendar entries display the attributes you have added for the selected table.
 
-![Calendar entry with number, short description, and added state attribute](../image/calendar-attribute-change-result-rd.png)
+![Calendar entry with number, short description, and added state attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/calendar-attribute-change-result-rd.png)
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CustomizeCalendarReports.md)
 
 **Related topics**  
 
 
-[Modifying and adding calendar report system properties](modify-add-calendar-sys-props.md#)
+[Modifying and adding calendar report system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/modify-add-calendar-sys-props.md#)
 
-[Change highlighting of calendar report events](t_HighlightACalendarEntry.md)
+[Change highlighting of calendar report events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_HighlightACalendarEntry.md)
 
-[Customize start and end dates](t_CustomizeAStartAndEndDate.md)
+[Customize start and end dates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CustomizeAStartAndEndDate.md)
 

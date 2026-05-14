@@ -27,7 +27,7 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 3.  Select **Analysis** &gt; **Conversion funnel**.
 
-4.  Select the **Create new funnel** button \(![Create new funnel button](../../../use/par-for-workspace/image/uxa-create-cohort-button.png)\).
+4.  Select the **Create new funnel** button \(![Create new funnel button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-create-cohort-button.png)\).
 
 5.  Enter a name for the relevant process you want to measure and, optionally, a description, and select **Next**.
 
@@ -39,7 +39,7 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 </td><td>
 
-Select [User Analytics Events KPIs](view-events.md#) to measure. To match a selected event by a certain property, select **Filter properties**, select a property from the drop down, and enter a value for the property.
+Select [User Analytics Events KPIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/view-events.md#) to measure. To match a selected event by a certain property, select **Filter properties**, select a property from the drop down, and enter a value for the property.
 
 </td></tr><tr><td id="d92650e141">
 
@@ -62,14 +62,14 @@ Select to measure any user sessions.
 
 8.  Select any additional steps to add to the funnel.
 
-    ![Create funnel wizard](../../../use/par-for-workspace/image/uxa-funnel-create.png)
+    ![Create funnel wizard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-funnel-create.png)
 
-9.  Select **Add** to finish the funnel.![View funnel](../image/usage-insights-funnel.png)
+9.  Select **Add** to finish the funnel.![View funnel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/usage-insights-funnel.png)
 
 10. View the funnel in Platform Analytics.
 
-    You can view your funnel directly from Platform Analytics. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.![View Usage Insights funnel in Platform Analytics](../image/uxa-view-funnnel-pa.png)
+    You can view your funnel directly from Platform Analytics. When you create a new dashboard in Platform Analytics, select **add new element** and then **Usage Insights Funnel**.![View Usage Insights funnel in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-view-funnnel-pa.png)
 
 
-**Parent Topic:**[Funnel reports in Usage Insights](../concept/funnel-reports-uxa.md)
+**Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../concept/funnel-reports-uxa.md)
 

@@ -25,9 +25,9 @@ The overall synthesized response helps users experience a conversational flow th
 
 When you enable the synthesized response picker on Microsoft Teams, users who start a conversation with a Virtual Agent can view a synthesized response picker in response to a query. The response contains catalog items and topics followed by the citation links. For example, if you input a command `laptop` in your conversations, you’ll see the responses in a synthesized format.
 
-![Search results in Microsoft Teams appearing as a synthesized response.](../images/teams-syntehised-resonse-picker.png)
+![Search results in Microsoft Teams appearing as a synthesized response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/teams-syntehised-resonse-picker.png)
 
 Mid-topic switching is also possible during a conversation with synthesized responses and user can continue with their original request or switch the conversation. When the user selects the **View other options** button they get the list of available Knowledge Base articles and catalogs, which the user can select and go through the details.
 
-**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Microsoft Teams](na-va-llm-teams.md)
+**Parent Topic:**[Using Now Assist in Virtual Agent conversations with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-teams.md)
 

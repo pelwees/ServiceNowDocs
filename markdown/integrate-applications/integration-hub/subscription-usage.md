@@ -27,5 +27,5 @@ Protocols and spokes that are available in the Subscription Product are set fort
 
 We have documented the Spoke entitlements available with the specific Subscription Product in a KB Article on Now Support: [Spoke entitlement per Subscription Product](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1224540).
 
-**Parent Topic:**[Request Integration Hub](request-ih-overview.md)
+**Parent Topic:**[Request Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/request-ih-overview.md)
 

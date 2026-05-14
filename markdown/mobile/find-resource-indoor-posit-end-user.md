@@ -29,7 +29,7 @@ Role required: none
 
 3.  When you’ve located the resource, select **Get directions**.
 
-    ![Mobile app screen showing the 'Get directions' button](../image/ind-posit-select-get-directions.png)
+    ![Mobile app screen showing the 'Get directions' button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/ind-posit-select-get-directions.png)
 
     The map shows where the person or resource is on the map. The mobile app prompts for whether the device can use your location.
 
@@ -39,8 +39,8 @@ Role required: none
 
     |Location option|Description|
     |---------------|-----------|
-    |Allow Once|Your location appears on the map with an icon \(![Blue dot indicating user's position on the indoor wayfinding map](../image/blue-dot-icon.png)\). This permission only lasts for this session. The next time you search for an asset or person, you're prompted to permit the mobile app to use your location again.|
-    |Allow While Using the App|Your location appears on the map with an icon \(![Blue dot indicating user's position on the indoor wayfinding map](../image/blue-dot-icon.png)\). This permission persists each time you use the app. The next time you search for an asset or person, you aren't prompted to permit the mobile app to use your location.|
+    |Allow Once|Your location appears on the map with an icon \(![Blue dot indicating user's position on the indoor wayfinding map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/blue-dot-icon.png)\). This permission only lasts for this session. The next time you search for an asset or person, you're prompted to permit the mobile app to use your location again.|
+    |Allow While Using the App|Your location appears on the map with an icon \(![Blue dot indicating user's position on the indoor wayfinding map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/blue-dot-icon.png)\). This permission persists each time you use the app. The next time you search for an asset or person, you aren't prompted to permit the mobile app to use your location.|
     |Don't Allow|No icon shows your location on the map.|
 
 5.  Depending on whether you allowed the mobile app to use your location, use the following steps.

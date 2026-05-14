@@ -18,7 +18,7 @@ Configure the text in the **Show me everything** button displayed in the chat wi
 
 ## Before you begin
 
-If you’re updating the Greetings setup topic in Virtual Agent Designer, first [Create a copy](duplicate-virtual-agent-topic.md) of the Greetings setup topic, since the prebuilt Greetings setup topic is read-only.
+If you’re updating the Greetings setup topic in Virtual Agent Designer, first [Create a copy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/duplicate-virtual-agent-topic.md) of the Greetings setup topic, since the prebuilt Greetings setup topic is read-only.
 
 Role required: virtual\_agent\_admin or admin
 
@@ -50,7 +50,7 @@ Description
 
 1.  Input `sys_properties.list`.
 2.  Under **com.glide.cs.topic\_picker\_button\_label**, set the value to a message of your choice, such as `Show me everything.`
-3.  Select the Save icon ![Save icon.](../images/icon_save.png).
+3.  Select the Save icon ![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon_save.png).
 
 
 </td></tr><tr><td id="d64163e176">
@@ -62,7 +62,7 @@ Description
 1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 2.  Select the copy of the Greetings setup topic that you created.
 3.  In the **Flow** tab, select the node for the Send Topic Picker script action.
-4.  In the Script action properties sheet, select the Script icon ![Script icon.](../images/icon-script.png) to open the **Action expression** script.
+4.  In the Script action properties sheet, select the Script icon ![Script icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/icon-script.png) to open the **Action expression** script.
 5.  Change the `greetingMessage` text string as needed, and select **Save**. For example, to change the button text to **Show more**, you would change the script as follows:
 
     ```
@@ -74,7 +74,7 @@ Description
 
 6.  Preview the change in the chat window by selecting **Test** in the header bar. The button text change displays as follows:
 
-![Virtual Agent bot displaying the change in the text with the Show me everything option when you tested.](../images/va-showme-button-chg.png)
+![Virtual Agent bot displaying the change in the text with the Show me everything option when you tested.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-showme-button-chg.png)
 
 7.  Select **Save** in the header bar.
 8.  When you're ready to make the topic active, select **Publish**.
@@ -88,7 +88,7 @@ If you follow the System Properties method, your change to the greeting message 
 
 ## What to do next
 
-If you customized your Greetings topic, add it to the default chat experience or to a new custom chat experience that you created. For details, see [Configure a Virtual Agent chat experience](configure-default-chat-experience.md).
+If you customized your Greetings topic, add it to the default chat experience or to a new custom chat experience that you created. For details, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
 
-**Parent Topic:**[Working with setup topics](../concept/working-setup-topics.md)
+**Parent Topic:**[Working with setup topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/working-setup-topics.md)
 

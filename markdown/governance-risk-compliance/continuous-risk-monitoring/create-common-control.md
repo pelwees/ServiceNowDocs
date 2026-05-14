@@ -38,12 +38,12 @@ You are aware that the facility has a fire suppression system, fire alarms, and 
 
 4.  Select **Inherit from Common Control**.
 
-    ![Inherit from Common Control](../image/inherit-confirm.png)
+    ![Inherit from Common Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/inherit-confirm.png)
 
 5.  Select the common control you want to inherit protections from and select **Confirm**.
 
     The Inherited Controls related list now shows the control objective and the common control from which it is inheriting protection and compliance.
 
-    ![Inherited Controls](../image/inherited-control.png)
+    ![Inherited Controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/inherited-control.png)
 
 

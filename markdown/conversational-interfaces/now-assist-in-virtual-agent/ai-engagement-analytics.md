@@ -33,5 +33,5 @@ Assistant analytics dashboard helps you in the following ways.
 -   Improve discoverability and transparency of assistant assets and performance, making it easier to identify which assistants and conversational assets are driving value.
 -   Quantify the impact of automation by tracking the number of user intents resolved without human intervention, reducing support costs and increasing operational efficiency.
 
-See [Assistant analytics dashboard indicator details](assistant-analytics-dashboard-indicator-details.md) for information on the indicators and calculations behind the metrics.
+See [Assistant analytics dashboard indicator details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/assistant-analytics-dashboard-indicator-details.md) for information on the indicators and calculations behind the metrics.
 

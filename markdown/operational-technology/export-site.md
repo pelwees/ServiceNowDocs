@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Select the **Actions** button.
 
-    ![Sites Action menu](../image/sites-action-menu.png)
+    ![Sites Action menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/sites-action-menu.png)
 
 3.  Select **Export Sites**.
 
@@ -34,5 +34,5 @@ The Sites information is downloaded in the CSV format.
 
 **Note:** The CVS file includes an Ignored IPs column when applicable to the Site.
 
-![Export CVS](../../../images/export-ignore.png)
+![Export CVS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../images/export-ignore.png)
 

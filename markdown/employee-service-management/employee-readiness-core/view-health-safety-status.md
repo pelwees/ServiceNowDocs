@@ -38,5 +38,5 @@ Your status page lists all the requirements that you must fulfill before you can
     **Note:** Some requirements might not have a link. If you need help completing the requirements, contact your organization.
 
 
-**Parent Topic:**[Employee Health and Safety Status](../concept/employee-health-safety-status.md)
+**Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/employee-health-safety-status.md)
 

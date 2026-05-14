@@ -17,8 +17,8 @@ Change control, artifacts, and packages can be configured in the Azure pipeline 
 
 You can configure change control in Azure pipelines two ways.
 
--   Use the [Azure Invoke REST API](dev-ops-azure-change-control-api.md).
--   Use the [ServiceNow DevOps extension for Azure DevOps](../task/config-dev-ops-extensions-azure.md#).
+-   Use the [Azure Invoke REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-azure-change-control-api.md).
+-   Use the [ServiceNow DevOps extension for Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/config-dev-ops-extensions-azure.md#).
 
 The **ServiceNow DevOps** extension for Azure DevOps includes:
 
@@ -26,5 +26,5 @@ The **ServiceNow DevOps** extension for Azure DevOps includes:
 -   ServiceNow DevOps Release Gate
 -   Azure build \(CI\) pipeline agent and server job custom tasks
 
-**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](azure-devops-integration-dev-ops.md)
+**Parent Topic:**[Azure DevOps integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/azure-devops-integration-dev-ops.md)
 

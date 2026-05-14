@@ -70,12 +70,12 @@ You add lineage relationships from the **Hierarchy** tab using the **Add** butto
 
 The new node appears in the **Hierarchy** tab list. When you select the View lineage map, the node appears in the graphical view. If the related node is itself a processing activity with existing relationships, those connections also appear in the map.
 
--   **[Edit a lineage](editing-data-lineage.md)**  
+-   **[Edit a lineage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/editing-data-lineage.md)**  
 Edit an existing lineage relationship to update the relationship type, description, or key relationship status of a connected node.
--   **[Delete a lineage](delete-data-lineage.md)**  
+-   **[Delete a lineage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/delete-data-lineage.md)**  
 Delete a lineage to remove a specific connection or node from the hierarchy of a processing activity.
--   **[Update the maximum node level for the lineage map](updating-node-level-for-lineage-map.md)**  
+-   **[Update the maximum node level for the lineage map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/updating-node-level-for-lineage-map.md)**  
 Update the `sn_privacy.nodemap.maxLevel system` property to control how many node levels are visible on the lineage map.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-privacy-mgmt.md)
 

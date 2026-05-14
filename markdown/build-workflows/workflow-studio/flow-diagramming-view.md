@@ -29,7 +29,7 @@ Enable the flow diagramming view of a flow to gain these benefits.
 
 ## Flow Diagramming components
 
-![Example flow displaying the eight user interface components of the flow diagramming view](../images/flow-diagramming-view-ui.png "Flow Diagramming user interface components")
+![Example flow displaying the eight user interface components of the flow diagramming view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-diagramming-view-ui.png "Flow Diagramming user interface components")
 
 The Flow diagramming view consists of these components.
 

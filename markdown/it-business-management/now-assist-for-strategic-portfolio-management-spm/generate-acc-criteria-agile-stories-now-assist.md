@@ -26,7 +26,7 @@ Ensure that Now Assist for SPM is installed in your instance and that the follow
 -   Acceptance criteria generation
 -   Refine records
 
-For more information, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 Role required: scrum\_story\_editor
 
@@ -47,7 +47,7 @@ For an Agile 2.0 story, you can generate acceptance criteria by selecting **Gene
         1.  Place your mouse cursor in the field.
         2.  Select **Refine with Now Assist** menu \(![](../images/icon-eap-na-context-menu.png)\).
         3.  Select **Generate acceptance criteria**.
-    ![Options to generate acceptance criteria for an EAP story.](../images/agile-na-acc-criteria.png)
+    ![Options to generate acceptance criteria for an EAP story.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/agile-na-acc-criteria.png)
 
 4.  Review the generated acceptance criteria.
 
@@ -56,10 +56,10 @@ For an Agile 2.0 story, you can generate acceptance criteria by selecting **Gene
 6.  Save the Story form.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](../reference/skill-inputs-for-now-assist-for-spm.md)
+[Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../reference/skill-inputs-for-now-assist-for-spm.md)
 

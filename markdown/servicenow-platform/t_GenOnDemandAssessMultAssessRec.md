@@ -44,16 +44,16 @@ For example, if there are 15 assessable records associated to at least one categ
 
 The system generates an assessment instance assigned to the selected users.
 
-**Parent Topic:**[On-demand assessments](../concept/c_OnDemandAssessments.md)
+**Parent Topic:**[On-demand assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_OnDemandAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentGeneration.md)
 
-[Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
-[Assessment groups](../concept/c_AssessmentGroups.md)
+[Assessment groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentGroups.md)
 
-[Clean up assessment data](t_CleanUpAssessmentData.md)
+[Clean up assessment data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CleanUpAssessmentData.md)
 

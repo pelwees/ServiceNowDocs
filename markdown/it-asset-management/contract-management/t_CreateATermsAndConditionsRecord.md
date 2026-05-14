@@ -41,12 +41,12 @@ Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace on
 4.  Click **Submit** \(core UI\) or **Save** \(Hardware Asset Workspaceand Enterprise Asset Workspace\).
 
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_TermsAndConditions.md)
 
 **Related topics**  
 
 
-[Add terms and conditions to a contract](t_AddTermsAndConditionsToAContract.md)
+[Add terms and conditions to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_AddTermsAndConditionsToAContract.md)
 
-[Build a terms and conditions document within a contract](t_BuildTandCDocWinContract.md)
+[Build a terms and conditions document within a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_BuildTandCDocWinContract.md)
 

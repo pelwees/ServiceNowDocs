@@ -43,9 +43,9 @@ The Chat reply recommendation skill is turned on by default. The skill will be a
 
     For example, if the requester is having an issue with hardware, you may need the hardware model number and serial number.
 
-4.  In the chat message window, either type a response, or leave blank, and then select the Now Assist icon ![Now assist icon.](../../../common/image/icon-ai-sparkle.png).
+4.  In the chat message window, either type a response, or leave blank, and then select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../common/image/icon-ai-sparkle.png).
 
-    ![Chat message window with Now Assist option.](../image/now-assist-itsm-write-reply.png)
+    ![Chat message window with Now Assist option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-write-reply.png)
 
 <table id="choicetable_mlz_kxk_1cc"><thead><tr><th align="left" id="d275887e171">
 
@@ -78,7 +78,7 @@ Generates a recommended reply based on the context of the conversation up to thi
 </td></tr></tbody>
 </table>    The reply response appears in the Now Assist context menu modal.
 
-    ![Now Assist context menu modal.](../image/now-assist-itsm-generate-reply.png)
+    ![Now Assist context menu modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-generate-reply.png)
 
 5.  Review the generated reply and select **Refine** to modify the response, or select **Insert** to paste the response into the chat message window.
 

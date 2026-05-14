@@ -17,23 +17,23 @@ Organize your teams into assignment groups and create reports for those groups t
 
 As an administrator, you can configure KPIs as well as child KPIs. The child KPIs appear when you drill-down into top level KPIs. For example, Closed Cases KPI has P1 Cases, P2 Cases as child KPIs.
 
--   **[Create KPI Groups to monitor performance](create-kpi-groups-wfo-hr.md)**  
+-   **[Create KPI Groups to monitor performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-kpi-groups-wfo-hr.md)**  
 Create key performance indicator \(KPI\) groups with the KPIs that matter most to your teams. When you associate your KPI groups with assignment groups, you can monitor your team's performance.
--   **[Add managers to a KPI assignment group](add-managers-kpi-groups-wfo-hr.md)**  
+-   **[Add managers to a KPI assignment group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/add-managers-kpi-groups-wfo-hr.md)**  
 Add managers to a KPI assignment group.
 
-**Parent Topic:**[Configuring Workforce Optimization for HR](../concept/configure-wfo-hr.md)
+**Parent Topic:**[Configuring Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/configure-wfo-hr.md)
 
 **Related topics**  
 
 
-[Activate Workforce Optimization for HR](../concept/activate-wfo-hr.md)
+[Activate Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/activate-wfo-hr.md)
 
-[Workforce Optimization for HR Domain Separation](../concept/wfo-hr-domain-separation.md)
+[Workforce Optimization for HR Domain Separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/wfo-hr-domain-separation.md)
 
-[Setting up Scheduling for Workforce Optimization for HR](setup-scheduling-wfo-hr.md)
+[Setting up Scheduling for Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-scheduling-wfo-hr.md)
 
-[Setting up Coaching in Workforce Optimization for HR](../concept/setup-coaching-wfo-hr.md)
+[Setting up Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/setup-coaching-wfo-hr.md)
 
-[Setting up Demand Forecast in Workforce Optimization for HR](../concept/setup-demand-forecast-wfo-hr.md)
+[Setting up Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/setup-demand-forecast-wfo-hr.md)
 

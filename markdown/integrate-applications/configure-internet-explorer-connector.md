@@ -15,7 +15,7 @@ Access the IE connector methods at all levels by configuring the IE connector. W
 
 ## Before you begin
 
-Add the Internet Explorer plugin from the Plugins Manager. For more information about adding the SSH plugin, see [Manage plugins in RPA Desktop Design Studio](install-plugins-rpa-studio.md).
+Add the Internet Explorer plugin from the Plugins Manager. For more information about adding the SSH plugin, see [Manage plugins in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-plugins-rpa-studio.md).
 
 Ensure that at least a website or an application on the Internet Explorer browser window is open or active.
 
@@ -33,7 +33,7 @@ Role required: none
 
 5.  In the AVAILABLE WEB PAGES list, select the required web page.
 
-    **Tip:** If the window doesn't appear in the list, click the refresh icon \(![Refresh icon.](../image/refresh-jav-program.png)\).
+    **Tip:** If the window doesn't appear in the list, click the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/refresh-jav-program.png)\).
 
 6.  Click **Add Screen**.
 
@@ -45,7 +45,7 @@ Role required: none
 
 8.  Click **Capture Element**.
 
-    For more information on the context dialog, see [Use the Capture element dialog](use-context-dialog.md).
+    For more information on the context dialog, see [Use the Capture element dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/use-context-dialog.md).
 
 9.  Move the mouse device over the web page to capture the element.
 
@@ -54,19 +54,19 @@ Role required: none
     -   POSITION: Position of the element in the web page.
     -   TAG: Name of the element tag.
     -   NAME: Custom name of the element that the user enters. This field is used when an element is captured.
-    ![Context dialog](../image/context-dialox-img.png)
+    ![Context dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/context-dialox-img.png)
 
-    As you place the mouse device over an element, a red boundary icon \(![Red boundary icon.](../image/red-boundary-icon.png)\) indicates the element.
+    As you place the mouse device over an element, a red boundary icon \(![Red boundary icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/red-boundary-icon.png)\) indicates the element.
 
 10. In the context window, enter a custom name of the element in the **NAME** field.
 
     **Tip:** To stop the context window from moving, press and hold the **Ctrl** key.
 
-11. To add the custom name, click the add name icon \(![Add name icon.](../image/add-image-icon.png)\).
+11. To add the custom name, click the add name icon \(![Add name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\).
 
     The element is captured.
 
-12. To close the context window, click the close icon \(![Close icon.](../image/close.png)\).
+12. To close the context window, click the close icon \(![Close icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/close.png)\).
 
     Methods at the connector, application, and element levels are captured.
 
@@ -75,5 +75,5 @@ Role required: none
 14. Repeat the steps to capture multiple elements.
 
 
-**Parent Topic:**[IE connector](../concept/internet-explorer-connector.md)
+**Parent Topic:**[IE connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/internet-explorer-connector.md)
 

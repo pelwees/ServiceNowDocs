@@ -29,12 +29,12 @@ Role required: sn\_cd.content\_manager, admin
 
 4.  On the Schedule content form, fill in the fields.
 
-    For a description of the field values, see [Schedule content form for Microsoft Teams notifications](schedule-delivery-content-mt.md#).
+    For a description of the field values, see [Schedule content form for Microsoft Teams notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/schedule-delivery-content-mt.md#).
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](../concept/create-campaign-content-publishing-mt.md)
+**Parent Topic:**[Create a Microsoft Teams campaign with content publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/create-campaign-content-publishing-mt.md)
 
 ## Schedule content form for Microsoft Teams notifications
 

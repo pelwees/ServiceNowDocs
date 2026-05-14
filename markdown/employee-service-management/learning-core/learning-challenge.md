@@ -83,27 +83,27 @@ Number of courses that you target to finish for each tracking period.
 
 A Learning challenge is created along with a new widget on the Overview tab to track your progress.
 
--   **[Complete a learning challenge](../task/complete-challenge-lxp.md)**  
+-   **[Complete a learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/complete-challenge-lxp.md)**  
 Complete a learning challenge whenever you're ready to finish with it.
--   **[Restart a learning challenge](../task/restart-challenge-lxp.md)**  
+-   **[Restart a learning challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/restart-challenge-lxp.md)**  
 Restart a challenge when you want to reset the progress you have made on the challenge.
 
-**Parent Topic:**[Using My Learning](manage-your-learning.md)
+**Parent Topic:**[Using My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-your-learning.md)
 
 **Related topics**  
 
 
-[Enroll in a course collection on My Learning](../task/enroll-course-lxp.md)
+[Enroll in a course collection on My Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/enroll-course-lxp.md)
 
-[Resume a course](../task/resume-course.md)
+[Resume a course](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/resume-course.md)
 
-[Create a personal course collection](create-personal-collection.md)
+[Create a personal course collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-personal-collection.md)
 
-[View recent activity](view-recent-activity-lxp.md)
+[View recent activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-recent-activity-lxp.md)
 
-[Assign Learning to your team](../task/assign-learning-lxp.md)
+[Assign Learning to your team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../task/assign-learning-lxp.md)
 
-[Manage Learning](manage-learning-achievements.md)
+[Manage Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-learning-achievements.md)
 
-[Skill sensing for learning content](skill-sensing-for-learning-content.md)
+[Skill sensing for learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-for-learning-content.md)
 

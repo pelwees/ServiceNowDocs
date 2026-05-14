@@ -29,7 +29,7 @@ Role required: sp\_admin or admin
 
 3.  Map the **Taxonomy** that you created or use the default **Employee** taxonomy at the portal level.
 
-    For more information on taxonomy, see [Unified Taxonomy for Employee Center](../concept/config-taxonomy.md).
+    For more information on taxonomy, see [Unified Taxonomy for Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/config-taxonomy.md).
 
 4.  Navigate to **System Definition** &gt; **Fix Scripts**.
 
@@ -46,5 +46,5 @@ From the content associated to the taxonomy, most viewed or recommended articles
 
 ## What to do next
 
-You can proceed to configure the instance options to control the appearance of the widget, see [Modify the Recommended for you widget display](config-recommended-for-you.md)
+You can proceed to configure the instance options to control the appearance of the widget, see [Modify the Recommended for you widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-recommended-for-you.md)
 

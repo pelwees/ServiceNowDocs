@@ -27,7 +27,7 @@ The Email response for invoice case skill uses invoice case details such as case
 
 1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon](../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/cases-list-icon.png)\).
 
     A list of options within the workspace is displayed.
 
@@ -39,13 +39,13 @@ The Email response for invoice case skill uses invoice case details such as case
 
 5.  In the **Email** tab, click anywhere within the email body text box.
 
-6.  Generate an email draft by selecting the Now Assist icon ![Now Assist icon](../../../common/image/icon-ai-sparkle.png).
+6.  Generate an email draft by selecting the Now Assist icon ![Now Assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../../common/image/icon-ai-sparkle.png).
 
 7.  Select **Insert**.
 
 8.  Select **Refine** to elaborate, shorten, or change the tone of an email body.
 
-9.  Apply templates by selecting the template icon![template](../../finance-case-management/image/apply-template-icon.png).![Email generation for invoice case](../image/email-inv-case.png)
+9.  Apply templates by selecting the template icon![template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../finance-case-management/image/apply-template-icon.png).![Email generation for invoice case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/email-inv-case.png)
 
     The email response is generated for the invoice case.
 

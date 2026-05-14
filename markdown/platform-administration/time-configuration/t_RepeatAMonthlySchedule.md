@@ -24,7 +24,7 @@ You can specify the following options for monthly schedules that start on a part
 
 Use the system property **glide.schedules.repeat\_nth** to determine what method your instance uses to compute what day a repeating monthly schedule occurs on. By default, instances use the more accurate Day method.
 
-**Note:** Use the **Week** method to maintain backwards compatibility with customized schedule logic. To learn more about calculations for the starting day of each month, for monthly schedules that start on the fifth instance of a day, see [Fifth Instance of a Day of the Week](t_FifthInstanceOfADayOfTheWeek.md).
+**Note:** Use the **Week** method to maintain backwards compatibility with customized schedule logic. To learn more about calculations for the starting day of each month, for monthly schedules that start on the fifth instance of a day, see [Fifth Instance of a Day of the Week](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_FifthInstanceOfADayOfTheWeek.md).
 
 The following example illustrates computing what day of the week a monthly schedule repeats on.
 
@@ -36,7 +36,7 @@ The following example illustrates computing what day of the week a monthly sched
 
 3.  Verify that the **Value** is set to **day**.
 
-4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](t_DefineASchedule.md), and click **Submit**.
+4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md), and click **Submit**.
 
 5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following parameters:
 
@@ -62,28 +62,28 @@ The following example illustrates computing what day of the week a monthly sched
     -   December 10, 2012 \(Second Monday in the month\)
     -   January 14, 2012 \(Second Monday in the month\)
 
-**Parent Topic:**[Schedules](../concept/c_UseSchedules.md)
+**Parent Topic:**[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
 **Related topics**  
 
 
-[Default schedules](../reference/r_DefaultSchedules.md)
+[Default schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_DefaultSchedules.md)
 
-[Holidays](../concept/c_Holidays.md)
+[Holidays](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_Holidays.md)
 
-[Create a holiday schedule for multiple regions](t_CreateAHolidaySchedMultiRegions.md)
+[Create a holiday schedule for multiple regions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAHolidaySchedMultiRegions.md)
 
-[Parent and child schedules](../concept/c_ParentAndChildSchedules.md)
+[Parent and child schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_ParentAndChildSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-[Schedule for the fifth instance of a week date](t_FifthInstanceOfADayOfTheWeek.md)
+[Schedule for the fifth instance of a week date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_FifthInstanceOfADayOfTheWeek.md)
 
-[Using schedules and calendars](../reference/r_CreateCalendarsWithSchedulePages.md)
+[Using schedules and calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_CreateCalendarsWithSchedulePages.md)
 
-[Domain support and schedules](../concept/domain-support-for-schedules.md)
+[Domain support and schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/domain-support-for-schedules.md)
 
-[Schedules](../concept/c_UseSchedules.md)
+[Schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_UseSchedules.md)
 
-[Define a schedule](t_DefineASchedule.md)
+[Define a schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 

@@ -17,7 +17,7 @@ Return a leased enterprise asset to the asset vendor before the corresponding le
 
 ## Before you begin
 
-Before you can proceed with returning a leased enterprise asset, you must complete the Planning task for the associated lease contract. See [Complete the Planning task for an expiring enterprise asset lease contract](complete-leased-asset-planning.md) for detailed instructions.
+Before you can proceed with returning a leased enterprise asset, you must complete the Planning task for the associated lease contract. See [Complete the Planning task for an expiring enterprise asset lease contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-leased-asset-planning.md) for detailed instructions.
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
@@ -172,8 +172,8 @@ Notes about the task that are visible to all users within your organization.
 
         If you set the **Asset collected** field to **No**, proceed with one of the following options:
 
-        -   If you changed your lease action to an enterprise asset buyout, proceed to [Buy out a leased enterprise asset](buy-out-leased-enterprise-asset.md).
-        -   If you changed your lease action to a lease contract extension, proceed to [Extend the lease contract for an enterprise asset](extend-enterprise-asset-lease-contract.md).
+        -   If you changed your lease action to an enterprise asset buyout, proceed to [Buy out a leased enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/buy-out-leased-enterprise-asset.md).
+        -   If you changed your lease action to a lease contract extension, proceed to [Extend the lease contract for an enterprise asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/extend-enterprise-asset-lease-contract.md).
 4.  Complete and close the Preparation task for the lease contract.
 
     To successfully complete and close this task, you must prepare the enterprise asset for return.
@@ -399,9 +399,9 @@ Notes about the task that are visible to all users within your organization.
 
         The Return settlement task opens.
 
-        **Note:** Aside from the **State** field, all editable fields in the Return settlement task are pre-populated based on the corresponding fields that you filled out in the Return confirmation task. The **Purchase order** and **Purchase order line** fields are pre-populated with the purchase order and purchase order line that the Enterprise Asset Management application automatically created for the settlement payout in [step 7](return-leased-enterprise-asset.md#return-confirmation).
+        **Note:** Aside from the **State** field, all editable fields in the Return settlement task are pre-populated based on the corresponding fields that you filled out in the Return confirmation task. The **Purchase order** and **Purchase order line** fields are pre-populated with the purchase order and purchase order line that the Enterprise Asset Management application automatically created for the settlement payout in [step 7](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/return-leased-enterprise-asset.md#return-confirmation).
 
-    2.  In the Return details section of the **Details** tab, select the Open Record icon \(![Open record icon.](../image/open-record-icon.png)\) in the **Purchase order** field.
+    2.  In the Return details section of the **Details** tab, select the Open Record icon \(![Open record icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/open-record-icon.png)\) in the **Purchase order** field.
 
         The purchase order record opens.
 
@@ -422,5 +422,5 @@ Notes about the task that are visible to all users within your organization.
 
 After you successfully return the leased enterprise asset, the **State** and **Substate** fields change to **Retired** and **Lease Return** in the corresponding asset record.
 
-**Parent Topic:**[Managing expiring contracts for leased enterprise assets](../concept/managing-expiring-contracts-leased-assets.md)
+**Parent Topic:**[Managing expiring contracts for leased enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-expiring-contracts-leased-assets.md)
 

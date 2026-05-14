@@ -29,19 +29,19 @@ For an in-depth review and demo of decision table features and benefits, see [De
 
 <table id="table_p4v_mvz_nyb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about decision table concepts and features](exploring-decision-builder.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about decision table concepts and features](exploring-decision-builder.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environments, tools, and user access for decision tables in Workflow Studio](configuring-decision-builder.md#)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environments, tools, and user access for decision tables in Workflow Studio](configuring-decision-builder.md#)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Build decision tables in Workflow Studio](using-decision-builder.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Build decision tables in Workflow Studio](using-decision-builder.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about decision table properties and Domain Separation](decision-builder-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about decision table properties and Domain Separation](decision-builder-reference.md)
 
 </td></tr></tbody>
 </table>## Features

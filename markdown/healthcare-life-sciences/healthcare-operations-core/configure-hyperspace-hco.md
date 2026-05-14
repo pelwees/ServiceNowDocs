@@ -49,7 +49,7 @@ Please work with your Epic team and Epic Technical Support for steps on how to c
 
     -   Key - sysparm\_workstation\_id
     -   %WORKSTATIONID%
-    For more information on capturing token data in record producer variables, see [Update variables in record producers to capture tokenized data from Epic Hyperspace](hco-update-variables-portal.md).
+    For more information on capturing token data in record producer variables, see [Update variables in record producers to capture tokenized data from Epic Hyperspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hco-update-variables-portal.md).
 
 8.  Select **Turn Test Integration On**.
 

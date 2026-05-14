@@ -21,10 +21,10 @@ Role required: agent\_admin
 
 <table id="table_tqp_ws4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](../concept/mid-servers-auto-assignment.md#) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an IP address range is comprehensive.
+</table>-   Assign MID Server IP ranges to all deployed MID Servers. The quickest and most reliable way to do this is with the [Using MID Server IP range auto-assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/mid-servers-auto-assignment.md#) feature available in the [Discovery Quick Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-quick-start.md) wizard. This method ensures that the set of MID Servers configured to access an IP address range is comprehensive.
 -   Identify the IP ranges you want to explore with credential-less Discovery. Ensure that these ranges can only be accessed by MID Servers with Nmap installed, running on supported Windows hosts.
 -   Use the **All** option for selecting IP ranges and observe these requirements:
     -   Restrict the use of this feature to Windows MID Servers only.
@@ -64,7 +64,7 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin provides connect
 
     -   Status is **Up**.
     -   MID Server is validated.
-    -   MID Server does not already have the **Nmap** [capability](../reference/r_MIDServerCapabilities.md).
+    -   MID Server does not already have the **Nmap** [capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerCapabilities.md).
     -   MID Server must be logged in as a local admin if Nmap is not already installed. Administrative privleges are only necessary for the installation process. Once Nmap is installed, non-admin users can use and run credential-less discovery.
 
         **Note:** If there are multiple MID Servers installed on the same host machine and one of them has already installed Nmap using an admin user, the other MID Servers can enable credential-less discovery using a non-admin user.
@@ -87,13 +87,13 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin provides connect
 
     A confirmation dialog box appears.
 
-    ![Confirmation dialog box](../image/EnableCredential-lessDiscovery.png)
+    ![Confirmation dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/EnableCredential-lessDiscovery.png)
 
 4.  Click **Yes** to continue with the installation.
 
     The instance runs the Nmap installer from `https://install.service-now.com`, a site within a ServiceNow datacenter that contains installers for the platform. This progress notice appears during installation:
 
-    ![Nmap installer progress notice](../image/NmapInstallationProgress.png)
+    ![Nmap installer progress notice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/NmapInstallationProgress.png)
 
     The **Logs** tab in the MID Server record shows the message: `Running system command: installNmap`.
 
@@ -114,14 +114,14 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin provides connect
 
     This dialog appears during the uninstallation process:
 
-    ![Credential-less Discovery uninstallation notice](../image/DisableCredential-lessDiscovery.png)
+    ![Credential-less Discovery uninstallation notice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/DisableCredential-lessDiscovery.png)
 
     The **Logs** tab in the MID Server record shows the message: `Running system command: uninstallNmap`.
 
     **Important:** Because Npcap can be used by other applications, uninstalling Nmap does not automatically uninstall Npcap. You must uninstall Npcap manually, after determining that no other dependencies exist.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md)
 
 **Related topics**  
 
@@ -154,17 +154,17 @@ You must install Nmap manually on each MID Server host and then configure the in
     -   `https://install.service-now.com/glide/distribution/builds/package/thirdparty/nmap/nmap-setup-xxx-windows.exe`. If the Nmap version in the property is 7.98, the executable you need is `https://install.service-now.com/glide/distribution/builds/package/thirdparty/nmap/nmap-setup-7.98-windows.exe`
 3.  Create a folder called `nmap` in the MID Server `agent` folder of every MID Server you want to use for credential-less Discovery.
 
-    ![Nmap installer folder on MID Server](../image/NmapInstallFolder.png)
+    ![Nmap installer folder on MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/NmapInstallFolder.png)
 
 4.  Copy the Nmap installer file that you downloaded to the `nmap` folder and rename it to `nmapInstaller.exe`.
 
-    ![Rename Nmap installer file](../image/RenameNmapInstaller.png)
+    ![Rename Nmap installer file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/RenameNmapInstaller.png)
 
 5.  Run the `agent\scripts\PowerShell\NmapInstallation.ps1` script and pass it the following parameters in the order in which they appear.
 
     This script runs the `nmapInstaller.exe` file.
 
-    ![Nmap installer script location](../image/NmapInstallerScript.png)
+    ![Nmap installer script location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/NmapInstallerScript.png)
 
     1.  **$operation**: Task that `NmapInstallations.ps1` will process. To install Nmap, the task is **install**.
     2.  **$nmap\_root\_path**: Complete path for the `nmap` folder that you create in step 4.
@@ -202,7 +202,7 @@ You must install Nmap manually on each MID Server host and then configure the in
 
     4.  Select **Nmap** from the list of available capabilities and click **Save**.
 
-        ![Add the Nmap capability to the MID Server](../image/AddNmapCapability.png)
+        ![Add the Nmap capability to the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/AddNmapCapability.png)
 
 
 ## Uninstall Nmap on a self-hosted system

@@ -31,7 +31,7 @@ The Revisions tab shows all the versions of a quote. Version numbers are sequent
 
 4.  Select the **Revisions** tab.
 
-    ![Image shows the quote form with the Details tab open which allows agents to fill in details for a quote.](../image/l2c-quote-revisions-2.png)
+    ![Image shows the quote form with the Details tab open which allows agents to fill in details for a quote.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/l2c-quote-revisions-2.png)
 
 5.  Select the More Actions icon ![](../image/more-options.png) and select **Create new version**.
 
@@ -44,7 +44,7 @@ The Revisions tab shows all the versions of a quote. Version numbers are sequent
 
 ## What to do next
 
-Use the Customer Order tab to start an order from the Quote. See [Convert quotes into orders](quote-management-customer-orders-tab.md) for more information.
+Use the Customer Order tab to start an order from the Quote. See [Convert quotes into orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-customer-orders-tab.md) for more information.
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

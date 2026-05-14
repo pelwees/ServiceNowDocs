@@ -29,11 +29,11 @@ For best results, it is important to create or update the records in the followi
 
 Operational Resilience administrators can locate and access Digital Resilience Choices records by navigating to the **All &gt; Digital Operational Resilience Management &gt; Digital Resilience Choices** menu within an instance, as demonstrated in the example.
 
-![Digital Resilience Choices records.](../image/digi-resi-choices.png)
+![Digital Resilience Choices records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/digi-resi-choices.png)
 
 Similarly, Operational Resilience managers can locate and access the Digital Resilience Choices records as shown in the example.
 
-![Managers view.](../image/dig-res-cho-rec-mgrs.png)
+![Managers view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dig-res-cho-rec-mgrs.png)
 
-**Parent Topic:**[Configuring Digital resilience third-party registers](conf-dg-resi-party-regi.md)
+**Parent Topic:**[Configuring Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-dg-resi-party-regi.md)
 

@@ -40,5 +40,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[Configuring Proactive Service Experience Workflows](../concept/configure-assurance-workflows.md)
+**Parent Topic:**[Configuring Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../concept/configure-assurance-workflows.md)
 

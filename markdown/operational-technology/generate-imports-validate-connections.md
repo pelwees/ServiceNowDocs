@@ -45,7 +45,7 @@ Role required: admin
 
     The connection is successful if the Status Code is 200. If there's an Error Code and Error Message, the connection failed and you area required to troubleshoot the issue.
 
-    ![Connection is successful](../images/success.png)
+    ![Connection is successful](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/success.png)
 
 10. Select the OT Discovery link.
 

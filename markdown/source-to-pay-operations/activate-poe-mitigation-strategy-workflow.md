@@ -103,5 +103,5 @@ Model providers that this agentic workflow doesn’t support.All model providers
 
 After reviewing the agentic workflow, you can get started by selecting **Now Assist** button on a purchase order exception record or the exception card on the **Purchase order management** tab in the Source-to-Pay Workspace.
 
-**Parent Topic:**[Configure Now Assist for Purchase Order Management \(POM\)](configure-now-assist-purch-order-mgmt.md)
+**Parent Topic:**[Configure Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-now-assist-purch-order-mgmt.md)
 

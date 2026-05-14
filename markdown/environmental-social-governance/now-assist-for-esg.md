@@ -29,15 +29,15 @@ Use the Now Assist for Operational Sustainability application to empower your su
 
 </th></tr></thead><tbody><tr><td>
 
-[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](exploring-now-assist-for-esg.md)Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Operational Sustainability skills
+[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Operational Sustainability skills
 
 </td><td>
 
-[Configure Now Assist for Operational Sustainability \(formerly ESG\)](configure-now-assist-for-esg.md)Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Operational Sustainability application to get started
+[Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md)Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Operational Sustainability application to get started
 
 </td><td>
 
-[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](using-now-assist-for-esg-skills.md)Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Operational Sustainability
+[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/using-now-assist-for-esg-skills.md)Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for Operational Sustainability
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Use the Now Assist for Operational Sustainability application to empower your su
 
 </td><td>
 
-[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](use-agentic-ai-in-now-assist-for-esg-management.md)Use Operational Sustainability Management AI agent collection![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for Operational Sustainability
+[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/use-agentic-ai-in-now-assist-for-esg-management.md)Use Operational Sustainability Management AI agent collection![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Now Assist for Operational Sustainability
 
 </td><td>
 
@@ -70,14 +70,14 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
--   **[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](exploring-now-assist-for-esg.md)**  
+-   **[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)**  
 With the Operational Sustainability Management application, you can use the skills to automate the collection of operational sustainability metric data from utility bill documents.
--   **[Configure Now Assist for Operational Sustainability \(formerly ESG\)](configure-now-assist-for-esg.md)**  
+-   **[Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md)**  
 If you have the admin role, you can configure the Now Assist for Operational Sustainability application so that your users can use the generative AI skills in the Operational Sustainability Workspace.
--   **[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](use-agentic-ai-in-now-assist-for-esg-management.md)**  
+-   **[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/use-agentic-ai-in-now-assist-for-esg-management.md)**  
 Use agents within an agentic workflow or as standalone agents to achieve specific automated outcomes.
--   **[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](using-now-assist-for-esg-skills.md)**  
+-   **[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/using-now-assist-for-esg-skills.md)**  
 If you have the sn\_esg\_gen\_ai.docintel\_user role, you can leverage the Now Assist for Operational Sustainability skill to automate the extraction of metrics data from utility invoices. Then map the extracted data to the correct metric definitions and entities.
 
-**Parent Topic:**[Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](using-esg.md)
+**Parent Topic:**[Using Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/using-esg.md)
 

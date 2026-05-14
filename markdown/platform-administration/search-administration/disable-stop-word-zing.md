@@ -34,7 +34,7 @@ To enable correct search results for an affected term, administrators can disabl
 
 **Note:** Disabling a stop word can impact search performance and relevancy. Text search will return matching results for the disabled stop word as well as for its stemmed forms.
 
-For more details on stemming in Zing, see [Zing matches derived words with stemming](../concept/stemming-matches-derived-words.md).
+For more details on stemming in Zing, see [Zing matches derived words with stemming](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/stemming-matches-derived-words.md).
 
 ## Procedure
 
@@ -65,14 +65,14 @@ For more details on stemming in Zing, see [Zing matches derived words with stemm
 
 Zing no longer ignores the disabled stop word and its stemmed forms in text searches.
 
-**Parent Topic:**[Zing removes stop words from queries](../concept/stop-words-removed-from-queries.md)
+**Parent Topic:**[Zing removes stop words from queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/stop-words-removed-from-queries.md)
 
 **Related topics**  
 
 
-[Configure a global stop word](t_ConfigureAGlobalStopWord.md)
+[Configure a global stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAGlobalStopWord.md)
 
-[Configure a table-specific stop word](t_ConfigureATableSpecificStopWord.md)
+[Configure a table-specific stop word](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureATableSpecificStopWord.md)
 
-[Enable automatic stop words for a table](t_ConfigureAnAutomaticStopWord.md)
+[Enable automatic stop words for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAnAutomaticStopWord.md)
 

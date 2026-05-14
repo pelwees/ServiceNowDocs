@@ -31,8 +31,8 @@ When creating a crew, you can simultaneously view the availability of agents and
 
 3.  Create a regular crew or an ad hoc \(task-specific\) crew.
 
-    -   To create a crew, select the Crew icon \(![Crew icon.](../image/crew-new.png)\) in the right panel of Dispatcher Workspace.
-    -   To create ad hoc \(task-specific\) crew for a work order task that is in pending dispatch state, select the More actions icon \(![More actions icon.](../image/OverflowIcon.png)\) in the task card and then select **Create Crew**.
+    -   To create a crew, select the Crew icon \(![Crew icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/crew-new.png)\) in the right panel of Dispatcher Workspace.
+    -   To create ad hoc \(task-specific\) crew for a work order task that is in pending dispatch state, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/OverflowIcon.png)\) in the task card and then select **Create Crew**.
 4.  On the form, fill in the fields.
 
 <table id="table_v3g_42s_ntb"><thead><tr><th>

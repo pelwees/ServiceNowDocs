@@ -58,7 +58,7 @@ First, let’s name your theme
 1.  Enter a name for your theme in the **Theme name** field.
 2.  \(Optional\) Enter a brief description for your theme in the **Description** field.
 3.  Select **Next** to continue.
- ![Create custom roadmap theme step1.](../images/create-roadmap-theme-step1.png)
+ ![Create custom roadmap theme step1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/create-roadmap-theme-step1.png)
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ Step 2–8 of 9
 
 1.  \(Optional\) Choose the primary color, secondary color, neutral color, add any extra colors, company logo, font style, user interface corner shapes for your organization on the respective screens.
 2.  Select **Next** to continue until you reach step 9.
- ![Create custom roadmap theme step2.](../images/create-roadmap-theme-step2.png)
+ ![Create custom roadmap theme step2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/create-roadmap-theme-step2.png)
 
 </td></tr><tr><td>
 
@@ -87,16 +87,16 @@ Finally, review your selections.
 
 1.  Review all configured items \(colors, logo, font, and shape\).
 2.  Select **Create theme** to finalize.
- ![Create custom roadmap theme step9.](../images/create-roadmap-theme-step9.png)
+ ![Create custom roadmap theme step9.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/create-roadmap-theme-step9.png)
 
 </td></tr></tbody>
-</table>4.  On the Theme Builder page under **Global styles**, select Color icon \(![Theme builder color icon.](../images/theme-builder-color-icon.png)\) to configure colors for your roadmap bars.
+</table>4.  On the Theme Builder page under **Global styles**, select Color icon \(![Theme builder color icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/theme-builder-color-icon.png)\) to configure colors for your roadmap bars.
 
-    ![Color option in creating a theme.](../images/custom-theme-color-icon-option.png)
+    ![Color option in creating a theme.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/custom-theme-color-icon-option.png)
 
 5.  Under UI colors, in the **Show** option, select **All colors**
 
-    ![All colors option in creating a theme.](../images/custom-theme-ui-colors-all-colors-option.png)
+    ![All colors option in creating a theme.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/custom-theme-ui-colors-all-colors-option.png)
 
 6.  Configure Alert colors.
 
@@ -111,7 +111,7 @@ Finally, review your selections.
         -   **Alert Info**
         -   **Alert Positive**
         -   **Alert Low**
-    ![Customizing alert colors for roadmap.](../images/updating-roadmap-alert-colors.gif)
+    ![Customizing alert colors for roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/updating-roadmap-alert-colors.gif)
 
 7.  Configure Grouped colors.
 
@@ -131,10 +131,10 @@ Finally, review your selections.
         -   **Pink Grouped Purple**
         -   **Grouped Teal**
         -   **Grouped Yellow**
-    ![Customizing grouped colors for roadmap.](../images/updating-roadmap-grouped-colors.gif)
+    ![Customizing grouped colors for roadmap.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/updating-roadmap-grouped-colors.gif)
 
 
 ## What to do next
 
-Publish your custom theme so that you can apply it to your roadmap. For details, see [Publish a custom roadmap theme](publish-custom-roadmap-theme-spw.md).
+Publish your custom theme so that you can apply it to your roadmap. For details, see [Publish a custom roadmap theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/publish-custom-roadmap-theme-spw.md).
 

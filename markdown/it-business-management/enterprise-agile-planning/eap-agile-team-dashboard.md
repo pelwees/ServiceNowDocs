@@ -15,9 +15,9 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 The Agile Team dashboard provides you with sprint progress and team performance details for an Agile team in the Enterprise Agile Planning \(EAP\) workspace.
 
-![Agile Team dashboard showing various data visualizations and team performance reports.](../images/eap-agile-team-dashboard.png)
+![Agile Team dashboard showing various data visualizations and team performance reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-agile-team-dashboard.png)
 
-You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](configuring-eap-dashboard.md).
+You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configuring-eap-dashboard.md).
 
 ## Required EAP roles
 
@@ -77,7 +77,7 @@ Sprint progress
 
 Gauge
 
-![Sprint progress.](../../../use/reporting/image/inline-data-vis-96px-speedometer.png)
+![Sprint progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-speedometer.png)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Total stories
 
 Single Score
 
-![Total stories.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total stories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Blocked stories
 
 Single Score
 
-![Blocked stories.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Blocked stories.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -131,7 +131,7 @@ Total story points
 
 Single Score
 
-![Total story points.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total story points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -149,7 +149,7 @@ Stories missing estimates
 
 Single Score
 
-![Stories missing estimates.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Stories missing estimates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -167,7 +167,7 @@ Stories by state
 
 Bar graph
 
-![Stories by state.](../../../use/reporting/image/inline-data-vis-bar-column.png)
+![Stories by state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-bar-column.png)
 
 </td><td>
 
@@ -185,7 +185,7 @@ What does the team plan to achieve in this iteration?
 
 List
 
-![Goals list.](../../../use/reporting/image/inline-data-vis-list.png)
+![Goals list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-list.png)
 
 </td><td>
 
@@ -195,7 +195,7 @@ sn\_gf\_goal
 
 Status and progress of your sprint's goals.
 
- You can rearrange the columns of the report by selecting the Settings icon \(![Settings icon.](../../../reuse/icons/product-icons/gear-outline-24.svg)\).
+ You can rearrange the columns of the report by selecting the Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/product-icons/gear-outline-24.svg)\).
 
 </td></tr><tr><td>
 
@@ -205,7 +205,7 @@ Sprint burndown by story points
 
 Trend
 
-![Sprint burndown by story points.](../../../use/reporting/image/inline-data-vis-trend.png)
+![Sprint burndown by story points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-trend.png)
 
 </td><td>
 
@@ -224,7 +224,7 @@ Sprint burnup by story points
 
 Trend
 
-![Sprint burnup by story points.](../../../use/reporting/image/inline-data-vis-trend.png)
+![Sprint burnup by story points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-trend.png)
 
 </td><td>
 
@@ -243,7 +243,7 @@ Avg velocity per sprint
 
 Single Score
 
-![Avg velocity per sprint.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Avg velocity per sprint.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -261,7 +261,7 @@ Velocity
 
 Trend
 
-![Velocity.](../../../use/reporting/image/inline-data-vis-trend.png)
+![Velocity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-trend.png)
 
 </td><td>
 
@@ -279,7 +279,7 @@ Story cycle time
 
 Bubble chart
 
-![Bubble chart representation.](../../../use/reporting/image/inline-data-vis-96px-bubble.png)
+![Bubble chart representation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-bubble.png)
 
 </td><td>
 

@@ -17,13 +17,13 @@ The Discovery and Service Mapping Patterns application uses the Next Generation 
 
 The Next Generation Fortinet Network Firewall - REST pattern uses a set of REST API calls to find the Fortinet firewalls. For FortiGate VDOM discovery, only multi-VDOM mode is supported.
 
-**Note:** Only the REST-based Fortinet firewall discovery method finds FortiGate VDOMs. The SNMP-based Fortinet firewall discovery method doesn't discover them. For information about the default SNMP-based Fortinet firewall discovery, see [Next-Generation Fortinet Network Firewall SNMP-based discovery](fortinet-fw-discovery.md).
+**Note:** Only the REST-based Fortinet firewall discovery method finds FortiGate VDOMs. The SNMP-based Fortinet firewall discovery method doesn't discover them. For information about the default SNMP-based Fortinet firewall discovery, see [Next-Generation Fortinet Network Firewall SNMP-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/fortinet-fw-discovery.md).
 
 ## Request apps on the Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-To learn about Fortinet Firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](r_SupportedApplications.md).
+To learn about Fortinet Firewalls and their versions that you can discover, refer to [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/r_SupportedApplications.md).
 
 ## Prerequisites
 
@@ -50,15 +50,15 @@ To learn about Fortinet Firewalls and their versions that you can discover, refe
     -   `/api/v2/monitor/system/interface/select`
 -   **Disable SNMP-based Fortinet firewall discovery**
 
-    For more information, see [Disable SNMP-based Fortinet firewall discovery](../task/disable-snmp-fortinet-fw-discovery.md).
+    For more information, see [Disable SNMP-based Fortinet firewall discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/disable-snmp-fortinet-fw-discovery.md).
 
 -   **Create an alias for the API Key Credentials**
 
-    For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](../task/create-alias-api-key-cred-fortinet.md).
+    For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/create-alias-api-key-cred-fortinet.md).
 
 -   **Create a serverless discovery schedule**
 
-    For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](../task/create-serverless-schedule-fortinet.md).
+    For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/create-serverless-schedule-fortinet.md).
 
 
 ## Data collected by Discovery during horizontal discovery

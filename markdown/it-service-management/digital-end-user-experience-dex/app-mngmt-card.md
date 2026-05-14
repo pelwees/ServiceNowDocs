@@ -72,7 +72,7 @@ Windows/macOS process
 Operating system associated with the application.
 
 </td></tr></tbody>
-</table>To learn more about adding an application, see [Add an application for monitoring](../task/add-new-application.md).
+</table>To learn more about adding an application, see [Add an application for monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/add-new-application.md).
 
-**Parent Topic:**[Administration cards](administration-cards.md)
+**Parent Topic:**[Administration cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md)
 

@@ -102,14 +102,14 @@ Employee can send the mail and SMS using the default Email and SMS template.
 -   **User triggered notification template** is available from **All** &gt; **System Notifications** &gt; **Email** &gt; **Templates**.
 -   **User triggered employee notification layout** is available from **All** &gt; **System Policy** &gt; **Email** &gt; **Layout**.
 
-**Parent Topic:**[Employee Center Pro Kiosk](../concept/deskless-kiosk-overview.md)
+**Parent Topic:**[Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/deskless-kiosk-overview.md)
 
 **Related topics**  
 
 
-[Use Employee Center Pro Kiosk](../concept/deskless-eck-homepage.md)
+[Use Employee Center Pro Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/deskless-eck-homepage.md)
 
-[Modify Send to self widget display](config-sendtoself-instanceoptions.md)
+[Modify Send to self widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-sendtoself-instanceoptions.md)
 
-[Modify email notification layout](activate-notification-template.md)
+[Modify email notification layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-notification-template.md)
 

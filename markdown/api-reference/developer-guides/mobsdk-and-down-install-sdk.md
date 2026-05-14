@@ -40,11 +40,11 @@ Before you start the download and installation process, ensure that your develop
 
     1.  In Android Studio IDE, select **File -&gt; New -&gt; Import Module**.
 
-        ![Android Studio IDE Import Module](../image/mobsdk-and-AS-import_mod.png)
+        ![Android Studio IDE Import Module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-and-AS-import_mod.png)
 
     2.  When prompted for the source path, select **nowsdk**.
 
-        ![Android Studio IDE select nowsdk](../image/mobsdk-and-AS-select-nowsdk.png)
+        ![Android Studio IDE select nowsdk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobsdk-and-AS-select-nowsdk.png)
 
         As the project is imported, the IDE will report a build error.
 

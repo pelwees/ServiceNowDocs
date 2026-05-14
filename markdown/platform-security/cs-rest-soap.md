@@ -18,10 +18,10 @@ Use update sets to sign and validate the REST and SOAP messages by enabling the 
 -   Establish Circle of Trust between the protected and trusted instances.
 -   Role required: security\_admin
 
--   **[Sign the existing REST and SOAP messages](rest-soap-code-sign.md)**  
+-   **[Sign the existing REST and SOAP messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/rest-soap-code-sign.md)**  
 Sign and validate the existing REST and SOAP messages by enabling the Code Signing in protected and trusted instances.
--   **[Sign new REST and SOAP messages](cs-new-rest-soap.md)**  
+-   **[Sign new REST and SOAP messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-new-rest-soap.md)**  
 Sign and validate the new REST and SOAP messages from the trusted instance by enabling the Code Signing in protected and trusted instances.
 
-**Parent Topic:**[Using Code Signing](../concept/using-code-signing.md)
+**Parent Topic:**[Using Code Signing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/using-code-signing.md)
 

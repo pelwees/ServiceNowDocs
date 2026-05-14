@@ -39,7 +39,7 @@ Role required: admin
 
 ## What to do next
 
-[Create new highlighted values for Prioritization columns in Strategic Planning](customize-highlighted-fields-prioritzation-page-strategic-planning-workspace.md)
+[Create new highlighted values for Prioritization columns in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customize-highlighted-fields-prioritzation-page-strategic-planning-workspace.md)
 
-**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
+**Parent Topic:**[Customizing highlighted fields on Prioritization page of Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/customizing-highlighted-fields-prioritization-page-strategic-planning.md)
 

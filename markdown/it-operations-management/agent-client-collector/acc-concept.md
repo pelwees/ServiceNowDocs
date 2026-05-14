@@ -40,7 +40,7 @@ The results from the checks are stored in the ServiceNow instance:
 
 This data can be leveraged for monitoring, alerting, and reporting. Integration ensures real-time visibility into the health of your infrastructure and applications, while also enabling proactive issue detection and remediation.
 
-![Agent client collector configuration flow](../image/ACC-Configuration-Flow-New.png)
+![Agent client collector configuration flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Configuration-Flow-New.png)
 
 1.  Define a monitoring policy in the ServiceNow instance.
 2.  The MID Server fetches the check instances from the instance and passes them to the agent.

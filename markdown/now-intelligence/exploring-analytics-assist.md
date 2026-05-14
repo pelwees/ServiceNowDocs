@@ -36,7 +36,7 @@ The now\_assist\_panel\_user role is required to use the dashboard and visualiza
 
 ## Activation
 
-The data visualization generation and dashboard and visualization export skills are included with Workflow Data Fabric applications from the ServiceNow Store. You have to activate the skills after installation. For more information, see [Configuring Now Assist panel skills for Platform Analytics](configuring-now-ass-skills-pa.md).
+The data visualization generation and dashboard and visualization export skills are included with Workflow Data Fabric applications from the ServiceNow Store. You have to activate the skills after installation. For more information, see [Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/configuring-now-ass-skills-pa.md).
 
 ## Supported user interfaces
 
@@ -44,9 +44,9 @@ Access the data visualization generation skill by starting a conversation in the
 
 Similarly, access the dashboard and visualization export skill by starting a conversation in the Now Assist panel and asking to export a specific visualization or dashboard.
 
-![Query asking Now Assist to show all indicators that have not been resolved for over 30 days.](../image/nowass-dv-intro.png "Asking Now Assist for a data visualization")
+![Query asking Now Assist to show all indicators that have not been resolved for over 30 days.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-dv-intro.png "Asking Now Assist for a data visualization")
 
-![Result of the query showing a list of indicators.](../image/nowass-dv-list.png "Example of a generated data visualization")
+![Result of the query showing a list of indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/nowass-dv-list.png "Example of a generated data visualization")
 
-**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](../reference/analytics-assist-landing-page.md)
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/analytics-assist-landing-page.md)
 

@@ -46,7 +46,7 @@ Description
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
 2.  Select the required hardware model name link.
-3.  On the hardware model form, select the ![Additional actions](../../enterprise-dev-ops/image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
+3.  On the hardware model form, select the ![Additional actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../../enterprise-dev-ops/image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported hardware model XML file on your local system.
 
 
@@ -58,7 +58,7 @@ Description
 
 1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Software Models**.
 2.  Select the required software model name link.
-3.  On the software model form, select the ![Additional actions](../../enterprise-dev-ops/image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
+3.  On the software model form, select the ![Additional actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../../enterprise-dev-ops/image/additional-actions.png) Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported software model XML file on your local system.
 
 
@@ -133,14 +133,14 @@ The catalog items are imported into the target ServiceNow instance.
 
 Navigate to the Hardware Models or Software Models page in the target ServiceNow instance, View the imported hardware or software model record, along with its catalog items that are published.
 
-**Parent Topic:**[Product catalog items](../concept/c_ManagingProductCatalogItems.md)
+**Parent Topic:**[Product catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/../concept/c_ManagingProductCatalogItems.md)
 
 **Related topics**  
 
 
-[Create a product catalog item](t_CreateAProductCatalogItem.md)
+[Create a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAProductCatalogItem.md)
 
-[Activate a product catalog item](t_ActivateAProductCatalogItem.md)
+[Activate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_ActivateAProductCatalogItem.md)
 
-[Deactivate a product catalog item](t_DeactivateAProductCatalogItem.md)
+[Deactivate a product catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_DeactivateAProductCatalogItem.md)
 

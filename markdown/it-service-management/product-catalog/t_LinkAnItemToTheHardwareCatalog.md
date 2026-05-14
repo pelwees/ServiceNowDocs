@@ -38,14 +38,14 @@ To see the **Link to Hardware Catalog Item** related link on the Vendor Catalog 
     The page refreshes to the selected hardware catalog item. The vendor catalog item is listed in the **Vendor Catalog Items** related list.
 
 
-**Parent Topic:**[Create a vendor catalog item](t_CreateAVendorCatalogItem.md)
+**Parent Topic:**[Create a vendor catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAVendorCatalogItem.md)
 
 **Related topics**  
 
 
-[Link an item to the software catalog](t_LinkAnItemToTheSoftwareCatalog.md)
+[Link an item to the software catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_LinkAnItemToTheSoftwareCatalog.md)
 
-[Publish an item to the hardware catalog](t_PublishAnItemToTheHardwareCatalog.md)
+[Publish an item to the hardware catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_PublishAnItemToTheHardwareCatalog.md)
 
-[Publish an item to the software catalog](t_PublishAnItemToTheSoftwareCatalog.md)
+[Publish an item to the software catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_PublishAnItemToTheSoftwareCatalog.md)
 

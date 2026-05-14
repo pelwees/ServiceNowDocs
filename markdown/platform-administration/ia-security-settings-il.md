@@ -15,7 +15,7 @@ Configure the security settings to maintain the security of your ServiceNow depl
 
 Select **Go to Security Settings** to configure the security settings in the Security Center hub.
 
-![Image showing security setting page](../image/ia-sec-set.png)
+![Image showing security setting page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-sec-set.png)
 
-**Parent Topic:**[Platform module configuration in Now Assist for Setup](ia-config-platform-il.md)
+**Parent Topic:**[Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 

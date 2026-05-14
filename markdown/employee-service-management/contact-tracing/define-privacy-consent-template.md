@@ -38,7 +38,7 @@ Role required: sn\_imt\_tracing.admin
 
 ## What to do next
 
-Use the privacy consent template to update the privacy statement in the applicable location's privacy configurations. For more information, see [Generate location-based privacy configurations for Contact Tracing](generate-location-privacy-configuration.md).
+Use the privacy consent template to update the privacy statement in the applicable location's privacy configurations. For more information, see [Generate location-based privacy configurations for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/generate-location-privacy-configuration.md).
 
-**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](../concept/set-up-privacy-consent-settings.md)
+**Parent Topic:**[Setting up data privacy consent settings for Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-privacy-consent-settings.md)
 

@@ -29,17 +29,17 @@ A scenario helps you to determine the risks that are applicable to your business
 
     The sample configuration for the Scenario New record form is shown in the following example.
 
-    ![Sample configuration for the Scenario New record form.](../image/new-scenario-active.png "Sample configuration for the Scenario New record form")
+    ![Sample configuration for the Scenario New record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-scenario-active.png "Sample configuration for the Scenario New record form")
 
 3.  On the form, fill in the fields.
 
-    For the description of the field values, see [Scenario New record form](../reference/scenario-reference.md).
+    For the description of the field values, see [Scenario New record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/scenario-reference.md).
 
 4.  Click **Submit**.
 
     You have associated an event with a scenario. The Events related list displays the associated events as shown in the following example.
 
-    ![Events that are associated with a scenario.](../image/scenario-associated-with-an-event.png "Events that are associated with a scenario")
+    ![Events that are associated with a scenario.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/scenario-associated-with-an-event.png "Events that are associated with a scenario")
 
     The order for the event is tied to the scenario and it is auto-filled by default in the related list.
 

@@ -33,7 +33,7 @@ The Software Asset Management application includes the following demand actions 
 
 ## About this task
 
-Use the Overlapping usage view to drive SaaS and SSO application rationalization by viewing the feature level usage of each application. For more information, see [Overlapping usage view](../concept/app-ration.md).
+Use the Overlapping usage view to drive SaaS and SSO application rationalization by viewing the feature level usage of each application. For more information, see [Overlapping usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/app-ration.md).
 
 ## Procedure
 
@@ -141,7 +141,7 @@ When this field is clear, and you reset the demand to **Draft**, the value for t
 </td></tr></tbody>
 </table>6.  Select the **Demand Requirements** tab to view the details of the already-created requirements.
 
-    You can also create a demand requirement. For more information, see [Create a demand requirement](create-demand-req.md).
+    You can also create a demand requirement. For more information, see [Create a demand requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-demand-req.md).
 
 7.  Select **Save**.
 
@@ -160,5 +160,5 @@ To view all Software Asset Management demands, navigate to **Software Asset** &g
 
 To view all Software Asset Management demand requirements, navigate to **Software Asset** &gt; **Software Asset Demand** &gt; **Demand Requirements**.
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

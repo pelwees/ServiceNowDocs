@@ -39,7 +39,7 @@ Role required: sn\_wsd\_rsvsync.admin
 
 3.  On the Provider form, fill in the fields.
 
-    For a description of the field values, see [Provider form](../reference/wsd-calendar-provider-form-fields.md).
+    For a description of the field values, see [Provider form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../reference/wsd-calendar-provider-form-fields.md).
 
     **Note:** The **Strict mode** field is deprecated and you must set the Exchange Online Sync Integration Mode property to Strict, Personal, or Normal mode. Additionally, the strict mode email has been updated to Delegated user email.
 
@@ -48,22 +48,22 @@ Role required: sn\_wsd\_rsvsync.admin
 
 ## What to do next
 
-To access resource calendars and generate a subscription ID, you must add a Reservable Sync Configuration. For more information, see [Add multiple Reservable Sync Configurations](add-reservable-sync-config.md).
+To access resource calendars and generate a subscription ID, you must add a Reservable Sync Configuration. For more information, see [Add multiple Reservable Sync Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/add-reservable-sync-config.md).
 
-Execute an instance scan to check the synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](run-instance-scan-on-your-workplace-cal-sync-configs.md).
+Execute an instance scan to check the synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
-**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](../concept/personal-auth-mode-connection-with-msex.md)
+**Parent Topic:**[Create a personal authentication mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../concept/personal-auth-mode-connection-with-msex.md)
 
 **Related topics**  
 
 
-[Configure Microsoft Azure](configure-azure-personal-auth-mode.md)
+[Configure Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-azure-personal-auth-mode.md)
 
-[Configure resource rooms in Microsoft Exchange Online](configure-resource-rooms-in-msex.md)
+[Configure resource rooms in Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-resource-rooms-in-msex.md)
 
-[Set up personal authentication mode OAuth connectivity with Microsoft Exchange Online](setup-personal-auth-mode-oauth-connectivity-with-msex.md)
+[Set up personal authentication mode OAuth connectivity with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-personal-auth-mode-oauth-connectivity-with-msex.md)
 
-[Configure a personal authentication mode Connection and Credential alias for Microsoft Exchange Online](configure-personal-auth-mode-connection-and-credential-alias.md)
+[Configure a personal authentication mode Connection and Credential alias for Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-personal-auth-mode-connection-and-credential-alias.md)
 
-[Configure your own connection and credential alias for personal authentication mode](configure-your-own-connection-and-credential-alias-for-personal-auth.md)
+[Configure your own connection and credential alias for personal authentication mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-your-own-connection-and-credential-alias-for-personal-auth.md)
 

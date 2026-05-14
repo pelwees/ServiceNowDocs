@@ -32,5 +32,5 @@ Admin Assist continues to improve based on user feedback on its responses. Your 
 **Related topics**  
 
 
-[Cosmo SmartPredict](cpq-cosmo-smartpredict.md)
+[Cosmo SmartPredict](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-cosmo-smartpredict.md)
 

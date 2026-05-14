@@ -40,8 +40,8 @@ Role required: sys\_admin
 7.  Select **Submit**.
 
 
--   **[Create a webhook subscription](create-webhook-subscription.md)**  
+-   **[Create a webhook subscription](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-webhook-subscription.md)**  
 Webhooks are used to simplify communication between two applications. Create a webhook subscription to connect to Concur through webhook.
 
-**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](../concept/integrate-esg-with-concur.md)
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with SAP Concur](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/integrate-esg-with-concur.md)
 

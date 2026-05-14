@@ -54,5 +54,5 @@ Role required: sn\_sd.success\_dashboard\_admin
 
 The new dashboard appears on the Operational success dashboard.
 
-**Parent Topic:**[Operational Success Admin Console](../concept/admin-console-os.md)
+**Parent Topic:**[Operational Success Admin Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/../concept/admin-console-os.md)
 

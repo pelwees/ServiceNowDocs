@@ -21,11 +21,11 @@ Role required: Role required: sn\_apm.apm\_user and Owner or Editor access to th
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon.](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Select an existing diagram from the Diagrams page.
 
-4.  Select the More actions menu ![More actions menu](../../image/icon-three-dot-menu-eaw.png).
+4.  Select the More actions menu ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/icon-three-dot-menu-eaw.png).
 
 5.  Select **Duplicate**.
 
@@ -48,32 +48,32 @@ Role required: Role required: sn\_apm.apm\_user and Owner or Editor access to th
 
 A duplicate diagram is created.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-ent-model-and-visual.md)
 
 **Related topics**  
 
 
-[Create a diagram for a business capability map](eaw-modeling-bc-map.md)
+[Create a diagram for a business capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-bc-map.md)
 
-[Update a business capability map](eaw-modeling-update-bc-map.md)
+[Update a business capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-update-bc-map.md)
 
-[Add a business capability or business application to the capability map](eaw-modeling-bcmap-add-bc-ba.md)
+[Add a business capability or business application to the capability map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-bcmap-add-bc-ba.md)
 
-[Create diagram for a business hierarchy map](eaw-modeling-ba-map.md)
+[Create diagram for a business hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-ba-map.md)
 
-[Update a business application hierarchy map](eaw-modeling-update-ba-map.md)
+[Update a business application hierarchy map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-update-ba-map.md)
 
-[Add related records in the modeling diagram](eaw-modeling-add-related-records.md)
+[Add related records in the modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-add-related-records.md)
 
-[Share a modeling diagram](eaw-modeling-share-diagram.md)
+[Share a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-share-diagram.md)
 
-[Commit diagram changes](eaw-modeling-sync-diagram-servicenow.md)
+[Commit diagram changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-diagram-servicenow.md)
 
-[Save as a new version](eaw-modeling-save-as-new.md)
+[Save as a new version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-save-as-new.md)
 
-[Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md)
+[Submit a modeling diagram for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-submit-for-approval.md)
 
-[Synchronize a shape to the database](eaw-modeling-sync-shape.md)
+[Synchronize a shape to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-shape.md)
 
-[Delete a shape](eaw-modeling-delete-shape.md)
+[Delete a shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-delete-shape.md)
 

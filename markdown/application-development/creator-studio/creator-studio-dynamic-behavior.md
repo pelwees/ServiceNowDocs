@@ -17,13 +17,13 @@ Make a form update based on how users answer a question using dynamic behavior. 
 
 ## Before you begin
 
-You must name the form before you can add [dynamic behavior](../concept/creator-studio-glossary.md#) to it.
+You must name the form before you can add [dynamic behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-glossary.md#) to it.
 
 To add dynamic behavior to a form, you must be given permission to work on the app.
 
 ## About this task
 
-A different way that you can make a form change is to have questions automatically populate based on a user's answer to another question on the form. For more information, see [Customize your form for an app in Creator Studio](creator-studio-edit-form.md).
+A different way that you can make a form change is to have questions automatically populate based on a user's answer to another question on the form. For more information, see [Customize your form for an app in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-edit-form.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ A different way that you can make a form change is to have questions automatical
 
 3.  Select the form you want to work on in the navigation panel.
 
-    ![Select the appropriate form from the navigation panel](../image/crs-form-selection.png "Select the form")
+    ![Select the appropriate form from the navigation panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-form-selection.png "Select the form")
 
 4.  Select the question that should be affected by how users answer one or more previous questions.
 
@@ -41,7 +41,7 @@ A different way that you can make a form change is to have questions automatical
 
 5.  Select the **Behaviors** tab of the settings panel.
 
-    ![Add behavior button on the Question details panel](../image/crs-add-behavior-nav.png "Add behavior button on the Behaviors panel")
+    ![Add behavior button on the Question details panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-add-behavior-nav.png "Add behavior button on the Behaviors panel")
 
 6.  Define the conditions that will make the form change in the Conditions section.
 
@@ -67,7 +67,7 @@ A different way that you can make a form change is to have questions automatical
 
     6.  Build another set of conditions by selecting the **Add condition set** button and repeating steps a-e.
 
-    ![Dynamic behavior settings for T-shirt question](../image/crs-dynamic-panel-nav.png "Dynamic behavior example")
+    ![Dynamic behavior settings for T-shirt question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-dynamic-panel-nav.png "Dynamic behavior example")
 
 7.  Define how the form changes in response to the conditions that you defined in the Action section of the **Behaviors** panel.
 
@@ -82,7 +82,7 @@ A different way that you can make a form change is to have questions automatical
         -   **Choose a value**
         You can add multiple actions, but you can add only one of each type of action for each set of dynamic behavior.
 
-        ![Choose an action for the behavior](../image/crs-dynamic-actions.png "Dynamic behavior actions")
+        ![Choose an action for the behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-dynamic-actions.png "Dynamic behavior actions")
 
     2.  Choose what happens for each action that you select.
 
@@ -97,5 +97,5 @@ The question appears with a dynamic icon ![](../image/crs-dynamic-indicator.png)
 
 The dynamic behavior appears in a card on the **Behavior** tab of the settings panel. You can select the card at any time to view or edit its details, or select the **Add behavior** button to add another dynamic behavior.
 
-**Parent Topic:**[Working with forms in Creator Studio](../concept/creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-work-with-forms.md)
 

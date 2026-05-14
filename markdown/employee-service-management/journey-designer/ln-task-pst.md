@@ -23,21 +23,21 @@ Role required: sn\_jny.admin
 
 1.  Create a learning task template.
 
-    For more information, see [Create a learning template](ln-templates.md).
+    For more information, see [Create a learning template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ln-templates.md).
 
 2.  Configure a lifecycle event activity set.
 
-    For more information, see [Configure a lifecycle event activity set](configure-hr-lifecycle-event-activity-set.md).
+    For more information, see [Configure a lifecycle event activity set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/configure-hr-lifecycle-event-activity-set.md).
 
 3.  Configure a lifecycle event activity.
 
-    While creating a lifecycle activity, make sure you select **Activity Type** as **Employee**, **Employee Activity** as **Learning task**, and **HR Template** as any learning template task. For more information, see [Configure a lifecycle event activity](configure-hr-lifecycle-event-activity.md#).
+    While creating a lifecycle activity, make sure you select **Activity Type** as **Employee**, **Employee Activity** as **Learning task**, and **HR Template** as any learning template task. For more information, see [Configure a lifecycle event activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/configure-hr-lifecycle-event-activity.md#).
 
     When the lifecycle event is triggered, a learning task is created and assigned to the subject person of the case.
 
 
--   **[Create a learning template](ln-templates.md)**  
+-   **[Create a learning template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ln-templates.md)**  
 Create a learning template to simplify the process of creating learning tasks by populating fields automatically.
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-configuration.md)
 

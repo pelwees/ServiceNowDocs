@@ -157,7 +157,7 @@ After you submit the rule, the ServiceNow AI Platform adds the following related
     Lists, by user, the violations of this rate limit rule.
 
 
-You can use these related lists to [Monitor inbound REST API rate limit counts and violations](monitor-request-counts.md).
+You can use these related lists to [Monitor inbound REST API rate limit counts and violations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/monitor-request-counts.md).
 
-**Parent Topic:**[Inbound REST API rate limiting](../concept/inbound-REST-API-rate-limiting.md)
+**Parent Topic:**[Inbound REST API rate limiting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/inbound-REST-API-rate-limiting.md)
 

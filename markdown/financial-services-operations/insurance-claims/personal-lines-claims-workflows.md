@@ -29,7 +29,7 @@ The following workflow routes the case and tasks for investigating and managing 
 -   Fraud evaluation
 -   Claim closure
 
-![Workflow showing the claims process for a personal auto claim using the Personal Lines Claims application. For the image description, see the text that follows.](../image/claims-process-flow-personal-auto-claim.png "Claims Process Flow – Personal Auto Claim​")
+![Workflow showing the claims process for a personal auto claim using the Personal Lines Claims application. For the image description, see the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/claims-process-flow-personal-auto-claim.png "Claims Process Flow – Personal Auto Claim​")
 
 ## First notice of loss \(FNOL\)
 

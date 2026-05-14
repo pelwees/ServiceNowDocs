@@ -25,13 +25,13 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Tap on an incident.
 
 4.  Tap **Collaborate**.
 
-    ![View active collaborations](../image/incident-collaborate-itsm-mobile.png)
+    ![View active collaborations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/incident-collaborate-itsm-mobile.png)
 
     Each collaboration displays:
 
@@ -41,8 +41,8 @@ Role required: itil, itil\_admin, or admin
     -   Channel name: Channel marked with “\#” is a public channel. Any user can view the conversation. Channel that doesn’t contain a “\#” is a private channel, this channel isn’t accessible to public users. Only the collaborators can view the chat conversation.
 5.  Swipe and tap **View** to view the conversation in the respective application.
 
-    ![View active collaborations](../image/view-active-collab-inc-itsm-mobile.png)
+    ![View active collaborations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/view-active-collab-inc-itsm-mobile.png)
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../concept/collaboration-incident-itsm-mobile.md)
 

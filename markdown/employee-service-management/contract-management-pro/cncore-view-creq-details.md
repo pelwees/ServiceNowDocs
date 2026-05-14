@@ -25,7 +25,7 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_admin
 
 2.  Open the contract request.
 
-    ![Various tabs in a contract request to review the details.](../image/cmpro-cmr-details.png "Contract request")
+    ![Various tabs in a contract request to review the details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-cmr-details.png "Contract request")
 
 3.  View the details of the contract request.
 
@@ -42,5 +42,5 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_admin
 4.  Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

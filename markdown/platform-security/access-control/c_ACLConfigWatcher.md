@@ -25,7 +25,7 @@ The ACL configuration watcher does not appear in the following situations:
 
 ## ACL Security Rules window
 
-The configuration watcher shows the [ACL execution plan](../task/t_ShowACLExecutionPlan.md). The execution plan is displayed in the security rules pop-up window. You can view this kind of information:
+The configuration watcher shows the [ACL execution plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../task/t_ShowACLExecutionPlan.md). The execution plan is displayed in the security rules pop-up window. You can view this kind of information:
 
 |Item|Description|
 |----|-----------|
@@ -35,5 +35,5 @@ The configuration watcher shows the [ACL execution plan](../task/t_ShowACLExecut
 |Masked|An ACL that was effective until you made a change.|
 |Unmasked|An ACL that was just made effective when you made a change.|
 
-![Configuration watcher](../image/config_watcher_example.png "Configuration watcher example")
+![Configuration watcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../image/config_watcher_example.png "Configuration watcher example")
 

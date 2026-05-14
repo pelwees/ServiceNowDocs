@@ -19,7 +19,7 @@ Create a neighborhood and assign users to available spaces in a neighborhood. Ad
 
 **Note:** Verify that Workplace Core is installed to set up and manage neighborhoods.
 
-**Important:** If you’re using Workplace Space Management version1.11.1 or later, to add a user to the neighborhood, refer to [Add or edit a neighborhood assignment of a workplace profile](add-a-user-to-the-neighbourhood-from-the-workplace-profile.md).
+**Important:** If you’re using Workplace Space Management version1.11.1 or later, to add a user to the neighborhood, refer to [Add or edit a neighborhood assignment of a workplace profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-a-user-to-the-neighbourhood-from-the-workplace-profile.md).
 
 **Important:** From Workplace Space Management version 1.11.1, the **Neighbourhood User Assignments** table is no longer available. Instead, the user assignment can be performed on a workplace profile directly using the **Workplace Profile Location Assignment** table \(displayed a related list on the form\) in the Workplace Core application. The **Workplace Profile Location Assignment** in the Workplace Core is now configured with additional fields such as **Profile type**, **Neighborhood**, and **Source** where all the data is saved. This table helps a space manager to perform scenario planning and save any user assignment-related changes performed on a neighborhood directly on the workplace profile.
 
@@ -61,7 +61,7 @@ Active
 
 </td><td>
 
-Status of the neighborhood workplace location.The availability of a workplace location for any workplace-related activities is determined based on the status that is set. For more information, see [Change the status of a workplace location](change-active-status-of-workplace-location.md).
+Status of the neighborhood workplace location.The availability of a workplace location for any workplace-related activities is determined based on the status that is set. For more information, see [Change the status of a workplace location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/change-active-status-of-workplace-location.md).
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ Restricted
 
 </td><td>
 
-A private or restricted neighborhood.If an employee is assigned to the neighborhood by user assignment rule or is added manually \(on-demand basis\), the employee can reserve a space in the neighborhood. Otherwise, employees won’t see the neighborhoods. see [Location privacy settings and impact](../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).
+A private or restricted neighborhood.If an employee is assigned to the neighborhood by user assignment rule or is added manually \(on-demand basis\), the employee can reserve a space in the neighborhood. Otherwise, employees won’t see the neighborhoods. see [Location privacy settings and impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../../wsd-reservation-management/reference/location-privacy-settings-and-impact.md).
 
 </td></tr></tbody>
 </table>3.  Select **Submit**.
@@ -77,5 +77,5 @@ A private or restricted neighborhood.If an employee is assigned to the neighborh
     A neighborhood is created.
 
 
-**Parent Topic:**[Managing Neighborhoods](../concept/neighborhoods.md)
+**Parent Topic:**[Managing Neighborhoods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/neighborhoods.md)
 

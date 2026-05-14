@@ -27,14 +27,14 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 3.  Select the **Analyst workbench** tab.
 
-4.  In the **Breakdowns** section, select the filter icon ![breakdown filter](../image/filter.png).
+4.  In the **Breakdowns** section, select the filter icon ![breakdown filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/filter.png).
 
     The Breakdown filters window is displayed.
 
-    ![breakdown filters](../image/metrics-routes-filters.png)
+    ![breakdown filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/metrics-routes-filters.png)
 
 5.  Specify the filter, and select **Apply**.
 
 
-**Parent Topic:**[Filtering project data](filter-project.md)
+**Parent Topic:**[Filtering project data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-project.md)
 

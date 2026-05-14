@@ -105,7 +105,7 @@ Document
 
 </td><td>
 
-Select **Update** link to upload the document that has the modified content. The selected document should be of .docx file format and should have valid content controls. For more information, see [Add content controls in a Microsoft Word document](../task/cncore-word-doc-tmplt-contls.md) .
+Select **Update** link to upload the document that has the modified content. The selected document should be of .docx file format and should have valid content controls. For more information, see [Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../task/cncore-word-doc-tmplt-contls.md) .
 
 </td></tr><tr><td>
 
@@ -124,36 +124,36 @@ Advanced script
 Enables the **Script** field where you can define clause conditions on fields and variables of a table that isn’t directly linked to the contract template table. The condition determines when the clause variation is used in a contract.**Note:** The **Applies when** field is not available when you select the **Advanced script** check box.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Contract Management Pro reference](../concept/cncore-ref.md)
+</table>**Parent Topic:**[Contract Management Pro reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-ref.md)
 
 **Related topics**  
 
 
-[Components installed with Contract Management Pro](cncore-comp-ccore.md)
+[Components installed with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-ccore.md)
 
-[Components installed with Contract Workspace](cncore-comp-contract-workspace.md)
+[Components installed with Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-contract-workspace.md)
 
-[Components installed with Analytics Pack for Contract Management Pro](cncore-comp-analytics-pack-cmpro.md)
+[Components installed with Analytics Pack for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-comp-analytics-pack-cmpro.md)
 
-[Contract request State and Contract document status in Contract Management Pro](cncore-cr-state-status.md)
+[Contract request State and Contract document status in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cr-state-status.md)
 
-[Contract Configuration form](cncore-contract-config-form.md)
+[Contract Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-config-form.md)
 
-[Properties installed to configure expiry notifications](cncore-properties-installed.md)
+[Properties installed to configure expiry notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties-installed.md)
 
-[Properties installed to configure contracts integrations](cncore-properties.md)
+[Properties installed to configure contracts integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-properties.md)
 
-[Expiring Contracts Condition form fields](cncore-email-notif-expcont-form.md)
+[Expiring Contracts Condition form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-email-notif-expcont-form.md)
 
-[Action assignment form](cmpro-actn-assignment-form.md)
+[Action assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-actn-assignment-form.md)
 
-[UFX Add on Event mapping form](cmpro-ufx-event-map-form.md)
+[UFX Add on Event mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-ufx-event-map-form.md)
 
-[Obligation form](cncore-obligation-form.md)
+[Obligation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-form.md)
 
-[Obligation Management notifications](cncore-ob-mgmt-notification.md)
+[Obligation Management notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ob-mgmt-notification.md)
 
-[Contract Management Pro glossary](../concept/contract-management-pro-glossary.md#)
+[Contract Management Pro glossary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/contract-management-pro-glossary.md#)
 
-[Contract Management solutions](cmpro-cml-feature-compare.md)
+[Contract Management solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-cml-feature-compare.md)
 

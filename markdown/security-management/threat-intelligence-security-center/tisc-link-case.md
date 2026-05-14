@@ -123,13 +123,13 @@ The analyst who is responsible for working on a case.
 
 10. To remove a linked case, select the **Unlink** button.
 
-    For more information on how to directly link an existing case to the investigation canvas, see [Linking an existing case from Investigation Canvas](tisc-link-existing-case-canvas.md).
+    For more information on how to directly link an existing case to the investigation canvas, see [Linking an existing case from Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-link-existing-case-canvas.md).
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 
 **Related topics**  
 
 
-[Creating an investigation canvas](tisc-create-canvas.md)
+[Creating an investigation canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-canvas.md)
 

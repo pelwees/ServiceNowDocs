@@ -189,7 +189,7 @@ Risk assessment
 
 Option to associate a risk assessment
 
- Use the \(![info icon](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to preview the risk assessment record
+ Use the \(![info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to preview the risk assessment record
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ JSA
 
 Option to associate a job safety analysis \(JSA\)
 
- Use the \(![info icon](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to preview the JSA record
+ Use the \(![info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to preview the JSA record
 
 </td></tr><tr><td>
 
@@ -218,5 +218,5 @@ Attachment
 Any additional documents to be attached for the chemical request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Environmental Management reference](../concept/hs-reference-environmental-management.md)
+</table>**Parent Topic:**[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../concept/hs-reference-environmental-management.md)
 

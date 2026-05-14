@@ -52,7 +52,7 @@ Role required: admin
 **Related topics**  
 
 
-[Grouped list screen](../concept/grouped-list-screen.md)
+[Grouped list screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/grouped-list-screen.md)
 
-[Configure a group list screen](sg-config-grouped-list.md)
+[Configure a group list screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-config-grouped-list.md)
 

@@ -19,23 +19,23 @@ Use the ServiceNow® Now Assist for HR Service Delivery \(HRSD\) application to 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the generative AI skills and capabilities offered by Now Assist for HRSD](explore-now-assist-hr.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the generative AI skills and capabilities offered by Now Assist for HRSD](explore-now-assist-hr.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](../task/configure-now-assist-hr.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](../task/configure-now-assist-hr.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-task-list.svg) Provide higher levels of service by using the generative AI skills and capabilities that are offered by Now Assist for HRSD](use-now-assist-hr.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../../reuse/icons/brand-icons/bus-task-list.svg) Provide higher levels of service by using the generative AI skills and capabilities that are offered by Now Assist for HRSD](use-now-assist-hr.md)
 
 </td></tr><tr><td>
 
-[Use Agent Collection![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd-ai-agents-use-cases.md)
+[Use Agent Collection![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the AI agent use cases in Now Assist for HR Service Delivery \(HRSD\)](now-assist-hrsd-ai-agents-use-cases.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, tables, and properties.](../reference/reference-now-assist-hrsd.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about components such as fields, tables, and properties.](../reference/reference-now-assist-hrsd.md)
 
 </td><td>
 

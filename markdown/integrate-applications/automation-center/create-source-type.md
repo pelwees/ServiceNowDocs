@@ -38,7 +38,7 @@ Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
 ## What to do next
 
-[Create automation source](create-source.md)
+[Create automation source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-source.md)
 
-**Parent Topic:**[Configuring automation summary execution](../concept/config-auto-sum-exe.md)
+**Parent Topic:**[Configuring automation summary execution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-auto-sum-exe.md)
 

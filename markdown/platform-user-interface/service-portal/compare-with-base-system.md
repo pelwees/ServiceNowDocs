@@ -33,7 +33,7 @@ If a widget is cloned from another cloned widget, both clones are compared again
 
     Customized widgets are outlined in red. Cloned widgets are outlined in yellow.
 
-4.  On any customized or cloned widget, select the information icon \(![Information icon](../image/info-icon.png)\).
+4.  On any customized or cloned widget, select the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/info-icon.png)\).
 
 5.  From the Widget Diagnostics dialog box, select **Compare with base widget**.
 
@@ -41,14 +41,14 @@ If a widget is cloned from another cloned widget, both clones are compared again
 
     **Note:** The left-side record represents the base widget and the right-side record represents the cloned or customized widget.
 
-    ![Comparison between customized and base widgets](../image/compare-with-base.png)
+    ![Comparison between customized and base widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/compare-with-base.png)
 
-6.  For each field in which it appears, select the window icon \(![Window icon](../image/pop-out-icon.png)\) to open the code comparator.
+6.  For each field in which it appears, select the window icon \(![Window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/pop-out-icon.png)\) to open the code comparator.
 
     Differences between the code of the customized or cloned widget and base widget versions are highlighted.
 
     **Note:** The left-side record represents the base widget and the right-side record represents the cloned or customized widget.
 
-    ![Code comparator](../image/code-comparator.png)
+    ![Code comparator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/code-comparator.png)
 
 

@@ -29,7 +29,7 @@ The **Risks** tab on the entity record page displays the following options in a 
 -   **Suggested risks**: List all risks suggested by the Risk Suggestion AI Agent.
 -   **All risks**: List all directly related risks and downstream risks.
 
-![Risk identification in Now Assist panel.](../image/risk-identification-agent.png)
+![Risk identification in Now Assist panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/risk-identification-agent.png)
 
 ## Suggest potential risks workflow benefits
 
@@ -45,7 +45,7 @@ The benefits are as follows:
 **Related topics**  
 
 
-[Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](../../grc-common/task/activate-agentic-workflows.md)
+[Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-common/task/activate-agentic-workflows.md)
 
-[Identify risks for an entity using Now Assist for IRM](../task/identify-risks-for-entity.md)
+[Identify risks for an entity using Now Assist for IRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/identify-risks-for-entity.md)
 

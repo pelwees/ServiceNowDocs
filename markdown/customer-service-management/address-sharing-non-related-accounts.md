@@ -36,19 +36,19 @@ Role required:
 
 5.  From the pop-up, select a location that you want to reuse.
 
-    ![Location window showing a list of locations that can be reused.](../image/location_non_related_accounts.png)
+    ![Location window showing a list of locations that can be reused.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/location_non_related_accounts.png)
 
 6.  Select the search icon next to the **Account** field.
 
 7.  Choose the account for which you want to reuse the address.
 
-    **Note:** You can reuse addresses through non-related accounts from the location form. For more information on the location form, see [Associate an address to an account](associate-address-account.md).![Pop-up window displaying address sharing between non-related accounts form.](../image/account_non_related.png)
+    **Note:** You can reuse addresses through non-related accounts from the location form. For more information on the location form, see [Associate an address to an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/associate-address-account.md).![Pop-up window displaying address sharing between non-related accounts form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/account_non_related.png)
 
 
 **Related topics**  
 
 
-[Reusing addresses between multiple accounts](../concept/reuse-account-addresses.md)
+[Reusing addresses between multiple accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/reuse-account-addresses.md)
 
-[Address sharing through account hierarchy](address-sharing-account-hierarchy.md)
+[Address sharing through account hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/address-sharing-account-hierarchy.md)
 

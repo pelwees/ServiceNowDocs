@@ -46,11 +46,11 @@ Role required: admin
 
     **Note:** Don't click **Add Connection**.
 
-    ![Connection template for UKG spoke.](../image/ukg-spoke-conn-template.png)
+    ![Connection template for UKG spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ukg-spoke-conn-template.png)
 
 4.  Click **Edit**.
 
-    If you are configuring the spoke for the first time, click **Configure**.![Configure a connection for the UKG spoke](../image/ukg-spoke-config-conn.png)
+    If you are configuring the spoke for the first time, click **Configure**.![Configure a connection for the UKG spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/ukg-spoke-config-conn.png)
 
 5.  On the form, fill in the fields.
 
@@ -241,7 +241,7 @@ Credential
 
 </td><td>
 
-Credential record you created for Kronos. For example, select **Kronos Cred**. See [Create Credential record for the Kronos spoke](setup-kronos.md#) for more information.
+Credential record you created for Kronos. For example, select **Kronos Cred**. See [Create Credential record for the Kronos spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-kronos.md#) for more information.
 
 </td></tr><tr><td>
 

@@ -67,7 +67,7 @@ Select a lane header and drag the lane to the desired drop zone. To cancel the m
 
 </td><td>
 
-1.  Select the lane menu \(![Lane menu icon](../image/IconMoreOptions.png)\) in a lane header.
+1.  Select the lane menu \(![Lane menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconMoreOptions.png)\) in a lane header.
 2.  Select **Hide Lane**.
 
 
@@ -77,7 +77,7 @@ Select a lane header and drag the lane to the desired drop zone. To cancel the m
 
 </td><td>
 
-1.  Select the configuration menu \(![Configuration menu](../../../administer/workspace/image/icon-configuration.jpg)\).
+1.  Select the configuration menu \(![Configuration menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../../../administer/workspace/image/icon-configuration.jpg)\).
 2.  Select **Advanced Settings**.
 3.  Select the hidden lane in the **Lane Configuration** section.
 
@@ -99,8 +99,8 @@ Select a lane header and drag the lane to the desired drop zone. To cancel the m
 
 </td><td>
 
-1.  Select **Info** icon \(![Info icon](../image/BoardInfoIcon.png)
-2.  Under **Structure** menu, select **Exclude Child Table Records** ![Exclude Child Tables](../image/excludechildtables.png)
+1.  Select **Info** icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/BoardInfoIcon.png)
+2.  Under **Structure** menu, select **Exclude Child Table Records** ![Exclude Child Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/excludechildtables.png)
 
 The Child table lanes and records are excluded.
 
@@ -110,18 +110,18 @@ The Child table lanes and records are excluded.
 </table>    **Note:** When moving the card from lane to another, if you get an error message while having write access to the record then create a system property **glide.vtb.enable\_list\_edit\_acl** and set it to **false**.
 
 
-**Parent Topic:**[Creating Visual Task Boards](../concept/c_VisualTaskBoardUse.md)
+**Parent Topic:**[Creating Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardUse.md)
 
 **Related topics**  
 
 
-[Freeform Visual Task Boards](../concept/c_FreeformBoardTasks.md)
+[Freeform Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_FreeformBoardTasks.md)
 
-[Data driven Visual Task Boards](../concept/data-driven-tasks.md)
+[Data driven Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/data-driven-tasks.md)
 
-[Add a task to a flexible or guided Visual Task Board](t_AddATaskToAFlexibleOrGuidedBoard.md)
+[Add a task to a flexible or guided Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddATaskToAFlexibleOrGuidedBoard.md)
 
-[Add or remove a Visual Task Board member](t_AddOrRemoveATaskBoardMember.md)
+[Add or remove a Visual Task Board member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrRemoveATaskBoardMember.md)
 
-[Delete a Visual Task Board](t_DeleteATaskBoard.md)
+[Delete a Visual Task Board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_DeleteATaskBoard.md)
 

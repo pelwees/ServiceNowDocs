@@ -29,7 +29,7 @@ You can change certain features of your application, based on your permissions. 
 
 2.  From the My Apps page, open your application.
 
-3.  From the app home, select the Edit application properties icon \(![Edit application properties icon](../image/edit-application-properties-purple.png)\).
+3.  From the app home, select the Edit application properties icon \(![Edit application properties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/edit-application-properties-purple.png)\).
 
 4.  Update the application properties.
 
@@ -40,5 +40,5 @@ You can change certain features of your application, based on your permissions. 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Create your app](../concept/create-application.md)
+**Parent Topic:**[Create your app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/create-application.md)
 

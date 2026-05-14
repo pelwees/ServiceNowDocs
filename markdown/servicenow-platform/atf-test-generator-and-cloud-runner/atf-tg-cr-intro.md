@@ -25,23 +25,23 @@ The test generator intelligently creates tests by analyzing instance behavior an
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../common/image/icon-explore.png) Learn about ATF Test Generator and Cloud Runner](atf-tg-cr-landing.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../../../common/image/icon-explore.png) Learn about ATF Test Generator and Cloud Runner](atf-tg-cr-landing.md)
 
 </td><td>
 
-[Configure ![](../../../common/image/icon-configure.png) Set up the cloud user](atf-tg-cr-configure.md#)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../../../common/image/icon-configure.png) Set up the cloud user](atf-tg-cr-configure.md#)
 
 </td><td>
 
-[Operate ![](../image/icon-operate.png) Generate the tests](../task/atf-tg-cr-generate-tests.md)
+[Operate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../image/icon-operate.png) Generate the tests](../task/atf-tg-cr-generate-tests.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../common/image/icon-use.png) Execute the test using Cloud Runner](../task/atf-tg-cr-execute-tests.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../../../common/image/icon-use.png) Execute the test using Cloud Runner](../task/atf-tg-cr-execute-tests.md)
 
 </td><td>
 
-[Reference ![](../../../common/image/icon-reference.png) Learn about miscellaneous information about the app](atf-tg-cr-ref.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/../../../common/image/icon-reference.png) Learn about miscellaneous information about the app](atf-tg-cr-ref.md)
 
 </td><td>
 

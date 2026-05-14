@@ -33,11 +33,11 @@ Health and Safety Core is aimed at the following personas:
 
 |Benefits|Feature|User|
 |--------|-------|----|
-|Access the workspace to process safety records.|[Health and Safety Workspace](health-safety-core-workspace.md)|Safety agents|
-|Get insights into key safety metrics with a centralized interface.|[Health and Safety dashboard](../task/hs-monitor-safety-metrics-with-hs-dashboard.md)|Safety team|
-|Access the user information in one central location.|[Health and Safety user profile](../../ohs-incident-management/concept/health-and-safety-user-profile.md)|Safety team|
-|Create safety report field mapping to map fields in your reporting PDF template to the corresponding fields in the Health and Safety records.|[Report field mapping](../../ohs-incident-management/task/create-safety-report-field-mapping.md)|Safety report mapping manager|
-|Log and track the meetings in the Health and Safety application.|[Safety meetings](../../ohs-incident-management/task/log-hs-safety-meeting.md)|Safety meeting manager|
-|Create an action schedule to schedule actions across the organization.|[Health and Safety action scheduler](../../ohs-incident-management/concept/scheduling-health-safety-actions.md)|Safety agents|
-|Create and manage safety knowledge articles.|[Safety knowledge articles](hs-managing-safety-knowledge-articles.md)|Safety manager|
+|Access the workspace to process safety records.|[Health and Safety Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/health-safety-core-workspace.md)|Safety agents|
+|Get insights into key safety metrics with a centralized interface.|[Health and Safety dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../task/hs-monitor-safety-metrics-with-hs-dashboard.md)|Safety team|
+|Access the user information in one central location.|[Health and Safety user profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../ohs-incident-management/concept/health-and-safety-user-profile.md)|Safety team|
+|Create safety report field mapping to map fields in your reporting PDF template to the corresponding fields in the Health and Safety records.|[Report field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../ohs-incident-management/task/create-safety-report-field-mapping.md)|Safety report mapping manager|
+|Log and track the meetings in the Health and Safety application.|[Safety meetings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../ohs-incident-management/task/log-hs-safety-meeting.md)|Safety meeting manager|
+|Create an action schedule to schedule actions across the organization.|[Health and Safety action scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../ohs-incident-management/concept/scheduling-health-safety-actions.md)|Safety agents|
+|Create and manage safety knowledge articles.|[Safety knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-managing-safety-knowledge-articles.md)|Safety manager|
 

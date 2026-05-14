@@ -53,5 +53,5 @@ Role required: sn\_grc\_doc\_design.admin and sn\_irm\_cont\_auth.admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[Configuring ATO artifacts report templates](cam-configure-word-based-template.md)
+**Parent Topic:**[Configuring ATO artifacts report templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-configure-word-based-template.md)
 

@@ -64,6 +64,6 @@ Choose an existing application scope to access its mobile records. The list disp
 
 
 </td></tr></tbody>
-</table>    ![Application scope selection screen of the Mobile App Builder.](../image/mab-home-page.png)
+</table>    ![Application scope selection screen of the Mobile App Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mab-home-page.png)
 
 

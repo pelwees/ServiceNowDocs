@@ -33,7 +33,7 @@ In order to use Google Vertex AI as your LLM provider for Generative AI Controll
 
 3.  Select the **Create New Connection &amp; Credential** related link.
 
-    ![Create New Connection & Credential related link highlighted on the screen.](../image/gai-create-new-connection-vertex.png)
+    ![Create New Connection & Credential related link highlighted on the screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-create-new-connection-vertex.png)
 
 4.  Fill in the required fields.
 
@@ -97,7 +97,7 @@ Client secret from your OAuth Client ID found in the Google Cloud console
 
 You can now use Completions – Vertex AI and Chat Completions – Vertex AI in Flow Designer, Virtual Agent Designer, and scripts to create custom experiences with generative AI.
 
-![Complete connection for Google Bard Vertex AI.](../image/gai-created-connection-vertex.png)
+![Complete connection for Google Bard Vertex AI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/../image/gai-created-connection-vertex.png)
 
 ## What to do next
 

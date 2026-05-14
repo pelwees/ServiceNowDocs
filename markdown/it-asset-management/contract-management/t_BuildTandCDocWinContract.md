@@ -43,12 +43,12 @@ The terms and conditions records are added in the sequence specified in the **Or
 5.  Click **Update**.
 
 
-**Parent Topic:**[Terms and conditions](../concept/c_TermsAndConditions.md)
+**Parent Topic:**[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/../concept/c_TermsAndConditions.md)
 
 **Related topics**  
 
 
-[Create a terms and conditions record](t_CreateATermsAndConditionsRecord.md)
+[Create a terms and conditions record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CreateATermsAndConditionsRecord.md)
 
-[Add terms and conditions to a contract](t_AddTermsAndConditionsToAContract.md)
+[Add terms and conditions to a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_AddTermsAndConditionsToAContract.md)
 

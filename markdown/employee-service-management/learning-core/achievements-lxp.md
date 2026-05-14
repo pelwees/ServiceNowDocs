@@ -15,7 +15,7 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 The **Achievements** tab on My Learning shows you all your learning achievements.
 
-![Achievements tab](../image/achievements-lxp.png "Achievements tab")
+![Achievements tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../image/achievements-lxp.png "Achievements tab")
 
 |Widget|Description|
 |------|-----------|

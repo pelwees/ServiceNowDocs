@@ -40,5 +40,5 @@ Role required: admin
 
 When the process completes, a **Restore Summary** itemizes the changes and provides links for viewing the restored record or returning to the **Delete Recoveries** list.
 
-**Parent Topic:**[Roll back and delete recovery](../concept/rollback-delete-recovery.md)
+**Parent Topic:**[Roll back and delete recovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/rollback-delete-recovery.md)
 

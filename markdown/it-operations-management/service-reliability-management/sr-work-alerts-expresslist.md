@@ -17,24 +17,24 @@ Monitor, evaluate, and resolve health issues in the Express List.
 
 The Event Management Express List feature provides a customizable, sortable view for accessing and managing alerts. Use the Express List feature to prioritize alerts, understand their impact, and resolve issues faster.
 
-![Express List shows several sample alerts and options for filtering them by fields such as state, severity, and priority.](../image/sr-express-list.png)
+![Express List shows several sample alerts and options for filtering them by fields such as state, severity, and priority.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/sr-express-list.png)
 
-As a Service Reliability Management \(SRM\) user, you automatically have the evt\_team\_operator role, which lets you access the Express List feature \(![Express list icon](../../event-management/image/express-list1.png)\). To learn more about that role, see [Roles used by Express List](../../service-operations-workspace-itom/reference/roles-used-by-express-list.md).
+As a Service Reliability Management \(SRM\) user, you automatically have the evt\_team\_operator role, which lets you access the Express List feature \(![Express list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../event-management/image/express-list1.png)\). To learn more about that role, see [Roles used by Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/reference/roles-used-by-express-list.md).
 
 Visit the following to work with alerts in the Express List feature:
 
--   [Acknowledge viewed alerts in Express List](../../service-operations-workspace-itom/task/acknowledge-alerts.md)
--   [Assign alerts in Express List](../../service-operations-workspace-itom/task/assign-alerts.md)
--   [Close an alert in Express List](../../service-operations-workspace-itom/task/close-alert.md)
--   [Create an incident from an alert in Express List](../../service-operations-workspace-itom/task/open-incident.md)
--   [Monitor incoming alerts](../../event-management/task/t_EMUseAlertConsole.md)
--   [Place an alert in the Acknowledged state](../../event-management/task/alert-acknowledged-status.md)
--   [Place an alert in the Maintenance state](../../event-management/task/alert-maintenance-state.md)
+-   [Acknowledge viewed alerts in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/task/acknowledge-alerts.md)
+-   [Assign alerts in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/task/assign-alerts.md)
+-   [Close an alert in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/task/close-alert.md)
+-   [Create an incident from an alert in Express List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../service-operations-workspace-itom/task/open-incident.md)
+-   [Monitor incoming alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../event-management/task/t_EMUseAlertConsole.md)
+-   [Place an alert in the Acknowledged state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../event-management/task/alert-acknowledged-status.md)
+-   [Place an alert in the Maintenance state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../../event-management/task/alert-maintenance-state.md)
 
 In SRM, integrations create alerts or you create alerts manually. Visit the following link to learn how to create an alert from the **Services** page:
 
--   **[Manually create an SRM alert](../task/sr-create-alert.md)**  
+-   **[Manually create an SRM alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-create-alert.md)**  
 Create an alert for testing purposes or if you think an issue poses a risk.
 
-**Parent Topic:**[Working with SRM reliability tasks](../task/sr-work-reliability-tasks.md)
+**Parent Topic:**[Working with SRM reliability tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../task/sr-work-reliability-tasks.md)
 

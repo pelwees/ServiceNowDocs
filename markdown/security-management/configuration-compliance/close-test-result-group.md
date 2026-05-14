@@ -45,5 +45,5 @@ When you resolve a remediation task, the resolution notes reflects in the work n
 **Related topics**  
 
 
-[Configuration Compliance states](../concept/vuln-config-compl-states.md)
+[Configuration Compliance states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/vuln-config-compl-states.md)
 

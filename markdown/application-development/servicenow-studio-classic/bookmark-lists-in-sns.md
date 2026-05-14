@@ -35,11 +35,11 @@ Role required: admin or delegated\_developer
 
     -   At the top of the list, select **Bookmark list** next to the **Create** button.
 
-        ![Bookmark the list from the top of the page.](../image/sn-studio-bookmark-top.png)
+        ![Bookmark the list from the top of the page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-bookmark-top.png)
 
     -   Select the more options icon ![](../image/sn-studio-more-options-icon.png), then select **Bookmark list**. For example, open the list of all flows from the Automation file category and bookmark the list.
 
-        ![Bookmark a list from more options menu in the Navigator panel.](../image/sn-studio-bookmark-list.png)
+        ![Bookmark a list from more options menu in the Navigator panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-bookmark-list.png)
 
 4.  Enter a name for the bookmark in the **Add to bookmarks** dialog.
 

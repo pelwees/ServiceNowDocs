@@ -31,5 +31,5 @@ Role required: sn\_itom\_tag.tag\_governance\_admin, admin
 
 ## What to do next
 
-Configure Tag Governance policies to run on discovered resources. See [Configure a tag policy for Tag Governance](configure-tag-governance-policy.md).
+Configure Tag Governance policies to run on discovered resources. See [Configure a tag policy for Tag Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/configure-tag-governance-policy.md).
 

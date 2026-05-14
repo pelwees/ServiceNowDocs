@@ -19,7 +19,7 @@ Map an insight rule to a new scheduled script to define the type of insight trig
 
 This task must be performed in the classic environment.
 
-Create an insight rule. For more information, see [Create an insight rule](create-insight-rule.md).
+Create an insight rule. For more information, see [Create an insight rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-insight-rule.md).
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
@@ -46,10 +46,10 @@ An insight rule does not run unless it is mapped to an insight trigger.
 6.  Select **Submit**.
 
 
-**Parent Topic:**[Create an insight trigger](create-insight-trigger.md)
+**Parent Topic:**[Create an insight trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-insight-trigger.md)
 
 **Related topics**  
 
 
-[Automation Scheduled Trigger Execution form](../reference/auto-sched-trigger-exe-form.md)
+[Automation Scheduled Trigger Execution form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/auto-sched-trigger-exe-form.md)
 

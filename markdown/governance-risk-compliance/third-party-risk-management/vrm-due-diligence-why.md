@@ -21,7 +21,7 @@ Third-party risk management concentrates on evaluating and managing the risks in
 
 -   **Comply with regulations**
 
-    Companies are often subject to various regulations and legal requirements that mandate conducting due diligence on third parties. These regulations aim to prevent illegal activities, such as money laundering, corruption, fraud, and other forms of financial misconduct. By performing due diligence, you demonstrate your commitment to compliance and risk mitigation. See [Regulations that affect third-party risk](vrm-regulations.md).
+    Companies are often subject to various regulations and legal requirements that mandate conducting due diligence on third parties. These regulations aim to prevent illegal activities, such as money laundering, corruption, fraud, and other forms of financial misconduct. By performing due diligence, you demonstrate your commitment to compliance and risk mitigation. See [Regulations that affect third-party risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-regulations.md).
 
 -   **Protect your reputation**
 
@@ -47,5 +47,5 @@ Third-party risk management concentrates on evaluating and managing the risks in
 **Related topics**  
 
 
-[Types of due diligence](tprm-due-diligence-types.md)
+[Types of due diligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-due-diligence-types.md)
 

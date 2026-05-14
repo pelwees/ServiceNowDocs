@@ -39,7 +39,7 @@ To view the available message transformers, navigate to **ServiceNow Voice - Cor
 
 For the ServiceNow Voice integration with the ServiceNow Voice with Amazon Connect application, the **AWS Connect Default Handler** provider component is available by default.
 
-**Note:** The ServiceNow Voice with Amazon Connect integration with ServiceNow application \[sn\_cti\_amzn\_cct\] must be installed from the ServiceNow® Store. For information on installing this application, see [Install ServiceNow Voice applications](../task/install-ccc-apps.md).
+**Note:** The ServiceNow Voice with Amazon Connect integration with ServiceNow application \[sn\_cti\_amzn\_cct\] must be installed from the ServiceNow® Store. For information on installing this application, see [Install ServiceNow Voice applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/install-ccc-apps.md).
 
 For each node that can be used an integration point between Amazon services and the ServiceNow instance, the following provider components and the corresponding message transformers are available.
 
@@ -53,5 +53,5 @@ When a customer dials using a phone number, a call is placed through the Amazon 
 -   Transform the request from Amazon Connect before passing the request to an operation handler.
 -   Transform the response from the operation handler before passing it on to Amazon Connect.
 
-**Parent Topic:**[Scripting for operation handlers](cloud-call-center-api.md)
+**Parent Topic:**[Scripting for operation handlers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-api.md)
 

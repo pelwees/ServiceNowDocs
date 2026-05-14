@@ -29,17 +29,17 @@ Users who do not have profile pictures are represented by an avatar with their i
 
 2.  Click the tile with your picture or initials and title.
 
-    ![Profile tile](../../live-feed/image/ProfileImage.png)
+    ![Profile tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/image/ProfileImage.png)
 
 3.  Use one of the following actions to add your photo.
 
     -   Locate the photo file you want to use and drag it over the existing photo.
     -   Point to the existing picture \(or tap the photo in the smartphone or tablet interface\) to display the **Upload a picture** link. Click the link, navigate to the location of the photo you want to use, and click **Open**.
-    ![Profile record](../../live-feed/image/ProfileCamera.png)
+    ![Profile record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/image/ProfileCamera.png)
 
 
 **Related topics**  
 
 
-[Update your Live Feed profile](../../live-feed/task/t_UpdateYourProfile.md)
+[Update your Live Feed profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/connect/../../live-feed/task/t_UpdateYourProfile.md)
 

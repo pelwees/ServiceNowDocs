@@ -29,7 +29,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     **Note:** Starting with the Xanadu and later releases, the Crisis manager can initiate an event task even if the plan includes recovery tasks that do not have any assets tagged. The former requirement that every activated plan should have at least one tagged asset has been removed.
 
-    ![Adding an asset to the event.](../image/add-asset-to-an-event.png)
+    ![Adding an asset to the event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-asset-to-an-event.png)
 
     **Note:**
 
@@ -37,7 +37,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     The following modal shows the columns that appear when you select **Add** for Applications asset type.
 
-    ![The source_table_fields are used to set the columns for the modal based on the asset type.](../image/event-asset-types.png)
+    ![The source_table_fields are used to set the columns for the modal based on the asset type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-asset-types.png)
 
 3.  Add an asset in the **Assets** tab and review the populated RTO values in the **Finalized RTO** and **Finalized RPO** columns.
 
@@ -45,11 +45,11 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     **Note:** Recovery assets are now linked to their corresponding BIA records, enabling automatic retrieval of key data such as RTO, RPO, and Recovery Tier.
 
-    ![Event assets.](../image/acrobat-event-asset-rto.png)
+    ![Event assets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/acrobat-event-asset-rto.png)
 
     When you open the event asset record \(for example, "Acrobat"\), the "Finalized RTO," "Finalized RPO," "Recovery Tier," and "BIA" values are automatically populated and displayed in the record as shown in the example.
 
-    ![Event.](../image/acrobat-event-record.png)
+    ![Event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/acrobat-event-record.png)
 
 4.  To update the state of the impacted asset, open the newly added asset record from the list and select **State**.
 
@@ -59,13 +59,13 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
         The plans list is shown in the example.
 
-        ![Plans list.](../image/plans-list-in-event.png)
+        ![Plans list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plans-list-in-event.png)
 
         **Note:** Starting with GRC: Crisis Management, version 9.1.4, the logic for fetching the plans into a recovery event is updated. Previously, all plans related to the target plan were automatically included. With a clear upstream and downstream plan hierarchy, pulling in a plan does not pull its upstream plans automatically.
 
         The plans are added to the event.
 
-        ![Plans added in event.](../image/plans-added-in-event.png)
+        ![Plans added in event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plans-added-in-event.png)
 
 6.  To add all plans that are related to the asset, select **Add all plans related to asset**.
 
@@ -73,7 +73,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     An informational message is displayed that all plans related to the selected application are added in the background as shown in the example.
 
-    ![Add all plans related to asset.](../image/exercise-event-add-all-plans-related-to-asset.png)
+    ![Add all plans related to asset.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/exercise-event-add-all-plans-related-to-asset.png)
 
 7.  Select **Save**.
 
@@ -95,5 +95,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     The exercise is saved in the **Pending** state.
 
 
-**Parent Topic:**[Structured workflows for exercises](../concept/performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/performing-tasks-to-manage-exercise-events.md)
 

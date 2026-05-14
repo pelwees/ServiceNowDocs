@@ -29,7 +29,7 @@ Ensure that the system you perform these steps on has access to both the MID Ser
 
 ## Procedure
 
-1.  In your local environment, locate the folder where you created your key pair in the [Create encryption keys and certificate](client-access-example-1.md) steps.
+1.  In your local environment, locate the folder where you created your key pair in the [Create encryption keys and certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/client-access-example-1.md) steps.
 
 2.  Find and copy the full path to the `manage-certificates.bat` file.
 
@@ -77,10 +77,10 @@ Ensure that the system you perform these steps on has access to both the MID Ser
 
 10. Restart your MID Server by navigating to your MID Server record, right-clicking the record, and selecting **Restart MID**.
 
-    ![Restarting a MID Server](../images/client-side-7.png)
+    ![Restarting a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-7.png)
 
     Restarting the MID Server synchronizes the uploaded key pair in the MID keystore for use with operations. Wait for the MID Server to restart, with a status of **Up** and a validated value of **Yes** before continuing.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/client-access-secret-landing.md)
 

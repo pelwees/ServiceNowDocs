@@ -13,8 +13,8 @@ breadcrumb: [Attended Robot, Workflow Data Fabric]
 
 You can use the Attended Robot to execute the attended automations.
 
--   **[Run an automation using Attended Robot](../task/run-rda-robot.md)**  
+-   **[Run an automation using Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/run-rda-robot.md)**  
 Run an attended robot to execute the attended bot process \(attended automations\).
 
-**Parent Topic:**[Attended Robot](rda-runtime-landing-page.md)
+**Parent Topic:**[Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/rda-runtime-landing-page.md)
 

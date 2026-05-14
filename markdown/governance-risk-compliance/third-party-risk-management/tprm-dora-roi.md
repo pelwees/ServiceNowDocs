@@ -34,7 +34,7 @@ After validation completes, the system automatically notifies the request initia
 
 During report generation, you can enable optional currency conversion and third‑party total expense aggregation. These options standardize or combine annual expense values in the reporting package. These options affect only the generated reporting package and do not modify source records in the digital resilience registers.
 
-For more information, see [Currency conversion and third-party total expense aggregation](tprm-dora-currency-aggregation.md).
+For more information, see [Currency conversion and third-party total expense aggregation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dora-currency-aggregation.md).
 
 ## Digital Resilience Third-party Information Register support for RoI
 
@@ -50,5 +50,5 @@ The Digital Resilience Third-party Information Register provides the following c
 
 All RoI-related actions are performed in the **Digital resilience third-party registers** section of the Vendor Management Workspace. This workspace provides access to download/upload requests, validation tools, and master templates.
 
-For more information, see [Generate a register of information package](../task/tprm-drtp-roi-packages.md)
+For more information, see [Generate a register of information package](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../task/tprm-drtp-roi-packages.md)
 

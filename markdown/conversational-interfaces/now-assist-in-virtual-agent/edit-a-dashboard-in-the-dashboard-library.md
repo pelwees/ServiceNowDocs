@@ -29,7 +29,7 @@ You can edit an existing dashboard in the library to update its display name, de
 
 2.  Locate the dashboard you want to edit and select **Edit** in the Actions menu.
 
-    ![Edit Dashboard modal in Dashboard Library](../image/NAinVA-assistant-designer-analytics-edit-dashboard.png "Edit Dashboard modal")
+    ![Edit Dashboard modal in Dashboard Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../image/NAinVA-assistant-designer-analytics-edit-dashboard.png "Edit Dashboard modal")
 
 3.  On the **Edit Dashboard** form, update the fields.
 

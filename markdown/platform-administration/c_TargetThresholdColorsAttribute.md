@@ -64,6 +64,6 @@ If a target field is not specified, the target of 100 is assumed.
 
     In the list, a gray bar appears behind the colored bar to indicate the target value. The gray target bar appears only if you defined a target field.
 
-    ![Feature task list with the % complete column color-coded based on comparison to the Target % complete column.](../image/PercentComplete4.png)
+    ![Feature task list with the % complete column color-coded based on comparison to the Target % complete column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/PercentComplete4.png)
 
 

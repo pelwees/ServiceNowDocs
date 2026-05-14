@@ -15,7 +15,7 @@ Every ServiceNow organization should have a documented deployment standard opera
 
 ## Pre-deployment checklist
 
--   Confirm your organization’s approved deployment method with your platform owner or release manager. The approved methods include ReleaseOps, App Engine Management Center Pipelines and Deployments, and System Update Sets. For more information, see [Deployment management options](management-options.md).
+-   Confirm your organization’s approved deployment method with your platform owner or release manager. The approved methods include ReleaseOps, App Engine Management Center Pipelines and Deployments, and System Update Sets. For more information, see [Deployment management options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/management-options.md).
 -   Run Instance Scan against your application to check for security violations, coding standard issues, and guideline deviations.
 -   Execute all Automated Test Framework suites and verify they pass.
 -   Review access control lists \(ACLs\) to confirm they follow least-privilege principles with no empty or overly permissive rules.
@@ -48,5 +48,5 @@ Your deployment standard operating procedure should explicitly address the follo
     Use rollback procedures in case a deployment introduces a security regression.
 
 
-**Parent Topic:**[Deployment](get-started-deployment.md)
+**Parent Topic:**[Deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/get-started-deployment.md)
 

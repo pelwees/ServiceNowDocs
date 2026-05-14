@@ -21,7 +21,7 @@ You can access the Enterprise model management view by navigating to **Enterpris
 
 To access detailed information and take relevant action, select any widget. You can also narrow your results by using the **Model category** filter.
 
-![Enterprise model management view](../image/modeloverview.png "Enterprise model management view")
+![Enterprise model management view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/modeloverview.png "Enterprise model management view")
 
 <table id="table_a3f_2h4_nrb"><thead><tr><th>
 

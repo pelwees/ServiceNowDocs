@@ -15,13 +15,13 @@ Configure input fields that you can use to scan a single barcode one at a time o
 
 ## Before you begin
 
-You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](parameter-screen-config.md).
+You must create an input form screen before you create inputs. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## About this task
 
-Barcode inputs are available [offline](../concept/mobile-offline-mode.md). [Mobile UI rules](../concept/mobile-ui-rules.md) apply to barcode inputs.
+Barcode inputs are available [offline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-offline-mode.md). [Mobile UI rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/mobile-ui-rules.md) apply to barcode inputs.
 
 ## Procedure
 

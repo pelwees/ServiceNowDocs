@@ -17,7 +17,7 @@ Create dynamic conditions in JavaScript that you can configure as part of a repo
 
 To create a report using a dynamic conditional statement, you place a JavaScript URL in the conditional value statement of the filter. You can enter a JavaScript command directly into the field, but for a script longer than one statement, the script should be placed in its own record. You then call a function from that record in the value field of the report condition.
 
-**Parent Topic:**[Custom interactive filters](c_CustomPublishers.md)
+**Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/c_CustomPublishers.md)
 
 ## Add a dynamic JavaScript filter
 

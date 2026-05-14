@@ -28,12 +28,12 @@ With Operational Technology Incident Management, you can use the following key f
 -   Monitor and manage OT incidents separately from IT incidents.
 -   Assign a separate role for the OT incident fulfiller.
 -   Improved OT user experience.
--   Support for Operational Technology Knowledge Management. For more information, see [Operational Technology Knowledge Management](../../mftg-manufacturing-ot-knowledge/concept/operational-technology-knowledge-management-landing-page.md).
+-   Support for Operational Technology Knowledge Management. For more information, see [Operational Technology Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/../../mftg-manufacturing-ot-knowledge/concept/operational-technology-knowledge-management-landing-page.md).
 
--   **[Operational Technology Incident Management](operational-technology-incident-management.md)**  
+-   **[Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management.md)**  
 Operational Technology Incident Management enables engineers to quickly resolve Operational Technology \(OT\) device and production process issues.
--   **[Integrating with Industrial Process Manager](integration-with-manufacturing-process-manager.md)**  
+-   **[Integrating with Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/integration-with-manufacturing-process-manager.md)**  
 Integrate Operational Technology Incident Management with Industrial Process Manager to report incidents on equipment model entities.
 
-**Parent Topic:**[Operational Technology Incident Management](operational-technology-incident-management-landing-page.md)
+**Parent Topic:**[Operational Technology Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 

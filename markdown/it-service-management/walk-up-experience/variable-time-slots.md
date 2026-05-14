@@ -28,8 +28,8 @@ To enable this feature, select the **Enable advanced configurations** check box 
 
 You can create multiple advance configurations for a service configuration rule.
 
--   **[Configure variable time slots for appointment booking](../task/config-variable-time-slots.md)**  
+-   **[Configure variable time slots for appointment booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../task/config-variable-time-slots.md)**  
 Configure variable time slots for appointment booking in a walk-up location by defining rules and configurations.
 
-**Parent Topic:**[Walk-up Experience appointment booking administration](walkup-appointment-administration.md)
+**Parent Topic:**[Walk-up Experience appointment booking administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-administration.md)
 

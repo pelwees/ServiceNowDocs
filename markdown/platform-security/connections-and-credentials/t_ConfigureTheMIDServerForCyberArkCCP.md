@@ -211,5 +211,5 @@ SNMPv2 is not natively supported in CyberArk. If your organization has created c
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[CyberArk integration configuration](../concept/c_CyberArkIntegrationConfiguration.md)
+**Parent Topic:**[CyberArk integration configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../concept/c_CyberArkIntegrationConfiguration.md)
 

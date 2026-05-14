@@ -40,7 +40,7 @@ Role required: sn\_fin\_ops.specialist
     -   The case is assigned to you.
     -   The requester is available.
     -   The case is in Work in Progress state.
-    ![The Request info option](../image/fin-ops-request-info.png)
+    ![The Request info option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../image/fin-ops-request-info.png)
 
 6.  In the Request Info dialog, provide the reason for requesting additional information.
 
@@ -51,5 +51,5 @@ Role required: sn\_fin\_ops.specialist
 
 You can see the reason in the activity stream. The requester receives an email requesting additional information.
 
-**Parent Topic:**[Using the Finance Operations Workspace](../concept/using-fin-case-mgmt-workspace.md)
+**Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/../concept/using-fin-case-mgmt-workspace.md)
 

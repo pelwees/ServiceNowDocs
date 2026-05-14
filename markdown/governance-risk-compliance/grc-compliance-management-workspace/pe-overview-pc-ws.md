@@ -17,5 +17,5 @@ The overview page of the policy exception gives you the overall basic details of
 
 As soon as you save and submit a policy exception, the Overview page opens by default that gives you all the basic details of the policy exception. The header shows the name of the policy exception, the description tells you the justification for the policy exception, and the stepper shows the different states the policy exception would pass through before it is finally approved, New state being the default.
 
-![Policy exception overview page](../image/record-page-mig-pe.png "Policy exception overview page")
+![Policy exception overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../image/record-page-mig-pe.png "Policy exception overview page")
 

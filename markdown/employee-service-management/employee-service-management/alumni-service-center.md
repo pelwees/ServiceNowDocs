@@ -29,7 +29,7 @@ The Alumni Center portal provides the following benefits to the alumni and organ
 
 ## Content analytics
 
-The Alumni Center provides a separate content analytics tracking profile. For more information, see [Create a Content Analytics tracking profile](../../employee-center/task/ecpro-content-analytics-setup.md).
+The Alumni Center provides a separate content analytics tracking profile. For more information, see [Create a Content Analytics tracking profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../employee-center/task/ecpro-content-analytics-setup.md).
 
 ## Employee to alumni transition
 
@@ -64,15 +64,15 @@ For additional information, see the [DEF1000205 \| HR User \[KB1125071\]](https:
 
 <table id="table_z4y_wjs_3hc" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Detailed information on Alumni Center](asc-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-explore.svg) Detailed information on Alumni Center](asc-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](asc-configure.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](asc-configure.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Know how you can use Alumni Center](asc-use.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Know how you can use Alumni Center](asc-use.md)
 
 </td></tr></tbody>
 </table>## Additional resources

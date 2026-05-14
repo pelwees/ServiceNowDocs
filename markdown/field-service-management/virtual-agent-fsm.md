@@ -32,5 +32,5 @@ Enable NLU on the Field Service Virtual Agent Conversations application and repu
 **Related topics**  
 
 
-[Configuring Field Service Virtual Agent Conversations](fsm-va-conversation.md)
+[Configuring Field Service Virtual Agent Conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/fsm-va-conversation.md)
 

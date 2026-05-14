@@ -25,13 +25,13 @@ Role required:
 
 ## About this task
 
-The types of case tasks that agents can create depends on the configuration of the [customer service case types](../concept/customer-service-case-types.md) and [service definitions](../concept/csm-service-definitions.md) features. For more information, see the following topics:
+The types of case tasks that agents can create depends on the configuration of the [customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/customer-service-case-types.md) and [service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-service-definitions.md) features. For more information, see the following topics:
 
--   [Configure customer service case types](configure-csm-case-types.md)
--   [Manage customer service case types](../concept/manage-csm-case-types.md)
--   [Configuring service definitions](../concept/csm-service-definitions-configure.md)
+-   [Configure customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-case-types.md)
+-   [Manage customer service case types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/manage-csm-case-types.md)
+-   [Configuring service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-service-definitions-configure.md)
 
-In CSM Configurable Workspace, agents use the [Case type selector screen](../concept/csm-case-type-select-modals.md) to make selections and create cases.
+In CSM Configurable Workspace, agents use the [Case type selector screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-case-type-select-modals.md) to make selections and create cases.
 
 ## Procedure
 

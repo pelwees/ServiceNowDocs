@@ -58,7 +58,7 @@ Network discovery debugging: Enables extensive logging of all Network Discovery 
 
  -   Type: true \| false
 -   Default value: true
--   Learn More: [Discovery monitoring and issue resolution](c_DiscoveryTroubleshooting.md)
+-   Learn More: [Discovery monitoring and issue resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
 </td></tr><tr><td>
 
@@ -143,7 +143,7 @@ Role required: none
 
 7.  If your organization has additional private IP addresses, click **New** to add them.
 
-    ![Private IP addresses](../image/PrivateIPAddresses.png "Private IP addresses")
+    ![Private IP addresses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/PrivateIPAddresses.png "Private IP addresses")
 
 8.  Add starting routers to the schedule in the Discovery Range Sets list.
 
@@ -151,7 +151,7 @@ Role required: none
 
     2.  Click **Edit** to add or delete routers from the list.
 
-    ![Network Discovery schedule](../image/NetworkDiscoverySchedule.png "Network Discovery schedule")
+    ![Network Discovery schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/NetworkDiscoverySchedule.png "Network Discovery schedule")
 
 9.  Run Discovery manually, or through the scheduler.
 
@@ -178,7 +178,7 @@ Role required: agent\_admin or admin
 
         If your IP Networks were created through network Discovery, then these fields are populated automatically in the IP Networks related list. However, if you entered the IP Networks manually, and you want to convert your IP Networks into range sets manually, you must edit these fields accordingly.
 
-        ![IP network form](../image/IPNetworkForm.png "IP network form")
+        ![IP network form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/IPNetworkForm.png "IP network form")
 
 4.  Select **Submit** to return to the list of IP Networks.
 
@@ -186,14 +186,14 @@ Role required: agent\_admin or admin
 
     Use this feature to convert all the IP networks in the list into range sets.
 
-    ![IP network list](../image/IPNetworkList.png "IP network list")
+    ![IP network list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/IPNetworkList.png "IP network list")
 
-    The [Discovery Status](c_DiscoveryStatus.md) page appears, displaying the progress of the conversion. The system increments the **Started** and **Completed** count of IP networks, until all the networks are converted.
+    The [Discovery Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryStatus.md) page appears, displaying the progress of the conversion. The system increments the **Started** and **Completed** count of IP networks, until all the networks are converted.
 
 
 ### What to do next
 
-Add discovery range sets to [Discovery schedules](../task/t_CreateADiscoverySchedule.md#).
+Add discovery range sets to [Discovery schedules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_CreateADiscoverySchedule.md#).
 
 ## Add a Discovery range set to a Discovery schedule
 
@@ -205,13 +205,13 @@ Role required: agent\_admin or admin
 
 ### Procedure
 
-1.  Open a [Discovery schedule](../task/t_CreateADiscoverySchedule.md#).
+1.  Open a [Discovery schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/t_CreateADiscoverySchedule.md#).
 
 2.  In the **Discovery Range Sets** related list, click **Edit** to add an existing range set and use the slushbucket to add the range set.
 
 3.  On the **Discovery schedule** form, click the name of the range set under the **Range** column in the **Discovery Range Sets** related list.
 
-4.  On the **Discovery Range Set** form, add a [Discovery behavior](c_DiscoveryBehaviors.md) if necessary.
+4.  On the **Discovery Range Set** form, add a [Discovery behavior](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md) if necessary.
 
     You can also activate or deactivate the range set for this schedule.
 

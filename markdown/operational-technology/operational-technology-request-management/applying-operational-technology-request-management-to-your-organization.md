@@ -48,5 +48,5 @@ Plant head or supervisor
 Can use Operational Technology Request Management to engage with the correct team to remediate an incident reported on the factory floor.​
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Operational Technology Request Management](exploring-operational-technology-request-management.md)
+</table>**Parent Topic:**[Exploring Operational Technology Request Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/exploring-operational-technology-request-management.md)
 

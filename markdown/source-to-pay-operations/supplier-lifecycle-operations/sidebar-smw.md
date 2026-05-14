@@ -15,7 +15,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 Sidebar enables stakeholders to collaborate with others by getting into discussions when working on supplier cases.
 
-You can start a Sidebar discussion by selecting **Discuss** on a supplier case in the Source-to-Pay Workspace. Other stakeholders are notified when you add them to a discussion. They can join the discussion by selecting the Sidebar discussions icon \(![Sidebar chat icon.](../image/sidebar-chat-icon.png)\).
+You can start a Sidebar discussion by selecting **Discuss** on a supplier case in the Source-to-Pay Workspace. Other stakeholders are notified when you add them to a discussion. They can join the discussion by selecting the Sidebar discussions icon \(![Sidebar chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/sidebar-chat-icon.png)\).
 
 For more information on what Sidebar is, see [Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-landing.md).
 
@@ -23,5 +23,5 @@ To learn more about how to use Sidebar, see [Using Sidebar](https://raw.githubus
 
 For information on activity stream in Sidebar is, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/activity-stream-sidebar.md).
 
-**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
+**Parent Topic:**[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 

@@ -15,7 +15,7 @@ Resolve issues faster by initiating a Zoom meeting directly from a customer chat
 
 ## Before you begin
 
-Ensure that an administrator has installed and set up the Chat Zoom Connector application. For more information, see [Configure Chat Zoom Connector](config-chat-zoom-connector.md).
+Ensure that an administrator has installed and set up the Chat Zoom Connector application. For more information, see [Configure Chat Zoom Connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-chat-zoom-connector.md).
 
 Role required: agent\_workspace\_user
 
@@ -31,11 +31,11 @@ You can use a Zoom meeting to host a screen-sharing or video conference. You can
 
 3.  Ask questions and find out more about the issue.
 
-4.  To start a Zoom session with a customer, click the quick actions icon \(![Quick Actions icon](../image/quick-actions.png)\), and then select **/zoom**.
+4.  To start a Zoom session with a customer, click the quick actions icon \(![Quick Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/quick-actions.png)\), and then select **/zoom**.
 
     **Tip:** You can also enter `/zoom` in the text field of the chat.
 
-5.  Click the send icon \(![Send icon.](../image/send.png)\).
+5.  Click the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/send.png)\).
 
     A message announcing that the Zoom meeting has started and one containing the meeting URL are posted in the chat window for both agent and customer. If the session was initiated through the Private Chat tab, the session's URL isn't shared with the customer.
 
@@ -54,7 +54,7 @@ You can use a Zoom meeting to host a screen-sharing or video conference. You can
 
 An interaction record of type **Zoom** is generated for the meeting that captures the Notify conference call details for this Zoom session. A Notify administrator or agent manager can access the conference call details associated with the Zoom meeting from the interaction record.
 
-**Note:** The conference call number is a value automatically generated in the **Channel Metadata Record** field on the Interaction form. For more information, see [View details for Zoom meetings initiated from chats](view-details-chat-zoom.md).
+**Note:** The conference call number is a value automatically generated in the **Channel Metadata Record** field on the Interaction form. For more information, see [View details for Zoom meetings initiated from chats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/view-details-chat-zoom.md).
 
 The recording URL of the Zoom meeting is added to the activity stream of the interaction record.
 

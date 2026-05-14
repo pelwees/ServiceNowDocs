@@ -29,12 +29,12 @@ Understand how to set up the HR Service Delivery Integration with Cornerstone On
 
 2.  Configure the URL prefix in the Cornerstone source record in HR Service Delivery Integration with Cornerstone OnDemand.
 
-    For more information, refer to [Use deep link for HR Service Delivery Integration with Cornerstone OnDemand](generate-deep-link-cor.md).
+    For more information, refer to [Use deep link for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/generate-deep-link-cor.md).
 
-    **Important:** Once you have activated the necessary plugins and set up the Cornerstone spoke, HR Integration Services \(for Cornerstone OnDemand application\) are automatically created. For more information, refer to [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](../concept/cornerstone-hr-service.md).
+    **Important:** Once you have activated the necessary plugins and set up the Cornerstone spoke, HR Integration Services \(for Cornerstone OnDemand application\) are automatically created. For more information, refer to [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/cornerstone-hr-service.md).
 
 3.  Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand.
 
-    For more information, refer to [Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand](schedule-job-hrint.md).
+    For more information, refer to [Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-job-hrint.md).
 
 

@@ -17,11 +17,11 @@ The Cloud Admin Portal is a role-based portal. You can manage, design, govern, o
 
 Depending on the role you are logged in with, the Cloud Admin Portal displays different metrics. As an example, if you are logged in to the Cloud Provisioning and Governance application as a Cloud Service Designer, the Cloud Admin Portal displays only the **Design** metrics.
 
-![Cloud Admin Portal](../image/admin-portal.png)
+![Cloud Admin Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/admin-portal.png)
 
 Starting this release, you can now use the **Dashboards** link on the left navigation pane of Cloud Admin Portal to access these Next Experience dashboard pages:
 
-![Link to Next Experience Dashboard from Cloud Admin Portal](../image/admin-portal-dashboard.png)
+![Link to Next Experience Dashboard from Cloud Admin Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/admin-portal-dashboard.png)
 
 Find the link to these dashboards on a new tab based on your user role:
 
@@ -29,7 +29,7 @@ Find the link to these dashboards on a new tab based on your user role:
 -   Cloud operations dashboard
 -   Cloud tag values dashboard
 
-Follow [Request the Cloud Provisioning and Governance application](../../cloud-management-v2-setup/task/request-plugin-cloud-mgt.md) to learn more about installing Cloud Provisioning and Governance to access the admin and user pages. Log in to the portal with the following Cloud Provisioning and Governance roles to view or manage the associated metrics:
+Follow [Request the Cloud Provisioning and Governance application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../../cloud-management-v2-setup/task/request-plugin-cloud-mgt.md) to learn more about installing Cloud Provisioning and Governance to access the admin and user pages. Log in to the portal with the following Cloud Provisioning and Governance roles to view or manage the associated metrics:
 
 <table id="table_y3d_gcy_1bb"><thead><tr><th>
 

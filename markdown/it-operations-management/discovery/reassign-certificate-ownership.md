@@ -27,7 +27,7 @@ Role required: pki\_admin or admin
 
 3.  Select the certificate you want to reassign.
 
-4.  Select the Search for Record ![Search icon.](../../health-log-analytics-operator/image/icon-search-sow.png) icon in the **Assigned to** field.
+4.  Select the Search for Record ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../health-log-analytics-operator/image/icon-search-sow.png) icon in the **Assigned to** field.
 
 5.  Select a new user to assign the certificate.
 

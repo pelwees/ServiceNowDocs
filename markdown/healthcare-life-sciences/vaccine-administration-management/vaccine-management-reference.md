@@ -15,8 +15,8 @@ breadcrumb: [Vaccine Administration Management, Healthcare and Life Sciences Ser
 
 Reference topics provide additional information about Vaccine Administration Management features.
 
--   [Components installed with Vaccine Administration Management](../reference/hcls-installed-with-vaccine-mgmt.md)
--   [Vaccine Administration Management data model](hcls-vam-data-model.md)
--   [Domain separation and Vaccine Administration Management](VAM-domain-separation.md)
--   [Integration with Healthcare and Life Sciences Service Management Core](integration-with-hcls-sm.md)
+-   [Components installed with Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../reference/hcls-installed-with-vaccine-mgmt.md)
+-   [Vaccine Administration Management data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam-data-model.md)
+-   [Domain separation and Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/VAM-domain-separation.md)
+-   [Integration with Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/integration-with-hcls-sm.md)
 

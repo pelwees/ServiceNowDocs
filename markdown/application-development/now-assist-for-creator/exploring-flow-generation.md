@@ -37,7 +37,7 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 Access flow generation skills from the Workflow Studio user interface.
 
-![Dialog window with options to build a flow with Now Assist](../images/example-input-build-with-now-assist.png "Flow generation from the Workflow Studio user interface")
+![Dialog window with options to build a flow with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-input-build-with-now-assist.png "Flow generation from the Workflow Studio user interface")
 
 ## Supported trigger types
 
@@ -56,7 +56,7 @@ Flow generation supports a limited number of trigger types. You can use text dir
 
 Beginning with the Xanadu Patch 1 release, the flow generation skill displays flow annotations below each item added to the flow. The flow annotations contain the text directions that the flow generation skill used to generate the item. You can use these flow annotations to build better text directions and also receive feedback about how your directions map to specific actions, flow logic, and subflows.
 
-![Example flow preview in diagramming view. Each node shows an annotation of the text directions used.](../images/example-flow-preview-with-annotations.png "Flow preview with flow annotations")
+![Example flow preview in diagramming view. Each node shows an annotation of the text directions used.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-flow-preview-with-annotations.png "Flow preview with flow annotations")
 
 This example illustrates how the flow generation skill mapped specific text directions to flow items.
 
@@ -74,7 +74,7 @@ This example illustrates how the flow generation skill mapped specific text dire
 
 Beginning with the Xanadu Patch 3 release, the flow generation skill generates appropriate data pill values for supported triggers, actions, and flow logic. The flow generation skill updates the flow preview with data pill values as it generates them. While generating a flow preview, the system displays a check mark icon next to each item that contains generated data pill values. You can see the data pill values generated between the name of the flow component and the flow annotations containing your original text directions. The flow preview displays an animated working icon next to items that are waiting for data pill values to be generated. While the flow preview is generating data pill values, the system displays an option to stop generating the flow preview. If you stop generating the flow preview, you must either manually save and edit the flow, or edit your directions to generate another flow preview.
 
-![Flow preview populating the data pill values of each node.](../images/example-filling-out-flow-properties.jpg "Flow preview with data pill configuration")
+![Flow preview populating the data pill values of each node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-filling-out-flow-properties.jpg "Flow preview with data pill configuration")
 
 -   **1. Completed icon**
 
@@ -95,7 +95,7 @@ Beginning with the Xanadu Patch 3 release, the flow generation skill generates a
 
 ## Descriptions of flow data
 
-![Flow preview of components showing the title Look Up Problem Records and the also the data pills used in the query filter.](../images/example-flow-generation-natural-language-titles.png)
+![Flow preview of components showing the title Look Up Problem Records and the also the data pills used in the query filter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-flow-generation-natural-language-titles.png)
 
 See a natural language description of the data each component of a flow uses. Understand what data flow triggers, actions, and flow logic blocks use without having to open their configuration details. Where possible, the title of the flow component displays information about the table where data comes from. Otherwise, the flow component displays the data pills it has been configured to use.
 
@@ -103,9 +103,9 @@ See a natural language description of the data each component of a flow uses. Un
 
 Beginning with the Xanadu Patch 3 release, you can refer to a specific table in your Now Assist directions by typing a hash tag character and then typing either the table label or table name. As you type, autocomplete displays tables that match your entry. Add hash tag references to your directions when you want to ensure that flow generation selects the correct table for triggers or record-based actions. Hash tag references are particularly useful to help the LLM distinguish between tables that have similar or even identical labels such as the User \[imp\_user\] and User \[sys\_user\] tables.
 
-![Autocomplete table name suggestions for the Strategic hash tag](../images/example-hash-tags-autocomplete.jpg "Hash tag autocomplete")
+![Autocomplete table name suggestions for the Strategic hash tag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-hash-tags-autocomplete.jpg "Hash tag autocomplete")
 
-![Now Assist directions containing a hash tag link to the Strategic Priority table.](../images/example-hash-tags-autocomplete-02.jpg "Now Assist directions with a hash tag table reference")
+![Now Assist directions containing a hash tag link to the Strategic Priority table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/example-hash-tags-autocomplete-02.jpg "Now Assist directions with a hash tag table reference")
 
 -   **1. Hash tag text**
 
@@ -235,5 +235,5 @@ Follow these general guidelines when writing Now Assist directions.
 
 This application uses artificial intelligence \(AI\) and machine learning, which are rapidly evolving fields of study that generate predictions based on patterns in data. As a result, this application may not always produce accurate, complete, or appropriate information. Furthermore, there is no guarantee that this application has been fully trained or tested for your use case. To mitigate these issues, it is your responsibility to test and evaluate your use of this application for accuracy, harm, and appropriateness for your use case, employ human oversight of output, and refrain from relying solely on AI-generated outputs for decision-making purposes. This is especially important if you choose to deploy this application in areas with consequential impacts such as healthcare, finance, legal, employment, security, or infrastructure. You agree to abide by [ServiceNow’s AI Acceptable Use Policy](https://www.servicenow.com/ai-acceptable-use-policy.html), which may be updated by ServiceNow.
 
-**Parent Topic:**[Flow generation](../reference/flow-generation-landing.md)
+**Parent Topic:**[Flow generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-generation-landing.md)
 

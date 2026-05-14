@@ -32,7 +32,7 @@ The Supplier Contact \[sn\_slm\_contact\_m2m\_supplier\] table contains the foll
 |Default supplier|Boolean|Indicates whether the supplier is the default supplier for the supplier contact.|
 |Primary contact|Boolean|Indicates whether the supplier contact is the primary contact for the supplier.|
 
-For more information, see [Supplier Lifecycle Operations data model](slo-data-model.md).
+For more information, see [Supplier Lifecycle Operations data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-data-model.md).
 
-**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](slo-primary-data-tables.md)
+**Parent Topic:**[Primary data tables for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-primary-data-tables.md)
 

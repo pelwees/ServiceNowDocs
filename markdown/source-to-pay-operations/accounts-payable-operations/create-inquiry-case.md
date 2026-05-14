@@ -31,14 +31,14 @@ Invoice inquiry cases are created automatically when you receive emails from sup
 
 2.  Under Quick actions, select **Create New Inquiry**.
 
-    ![Create new inquiry](../image/create-inquiry-case.png)
+    ![Create new inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/create-inquiry-case.png)
 
 3.  On the Create New Invoice case form, fill in the fields.
 
-    For a description of the field values, see [Create New Invoice case form](../reference/create-new-ap-case-form.md).
+    For a description of the field values, see [Create New Invoice case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/create-new-ap-case-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[Invoice inquiry cases](../concept/work-with-inquiry-cases.md)
+**Parent Topic:**[Invoice inquiry cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-inquiry-cases.md)
 

@@ -15,7 +15,7 @@ Reduce setup time and prevent installation errors by downloading and installing 
 
 ## Before you begin
 
-Ensure that you have installed the AI Desktop Actions MSI. For more information, see [Download AI Desktop Actions installer](download-agentic-desktop-installer.md).
+Ensure that you have installed the AI Desktop Actions MSI. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 Role required: admin
 
@@ -116,7 +116,7 @@ The AI Desktop Actions installer guides you through installation of .NET Desktop
 
 ## What to do next
 
-Use AI Desktop Actions to design desktop actions. For more information, see [Defined path desktop actions in AI Desktop Actions](../concept/desktop-actions-designer-workspace-ad.md).
+Use AI Desktop Actions to design desktop actions. For more information, see [Defined path desktop actions in AI Desktop Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/desktop-actions-designer-workspace-ad.md).
 
-**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](../concept/ad-defined-path-da.md)
+**Parent Topic:**[Configuring AI Desktop Actions for defined path desktop actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/ad-defined-path-da.md)
 

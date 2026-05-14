@@ -43,7 +43,7 @@ Role required: admin
 
 ## What to do next
 
-After creating wrap-up codes, system administrators can enable wrap-up codes in the interaction wrap-up configuration record and select the wrap-up codes that are available to agents. For more information, see [Create an interaction wrap-up configuration](create-interaction-wrap-up-config.md).
+After creating wrap-up codes, system administrators can enable wrap-up codes in the interaction wrap-up configuration record and select the wrap-up codes that are available to agents. For more information, see [Create an interaction wrap-up configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/create-interaction-wrap-up-config.md).
 
-**Parent Topic:**[Interaction wrap up](../concept/interaction-wrap-up-state.md)
+**Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../concept/interaction-wrap-up-state.md)
 

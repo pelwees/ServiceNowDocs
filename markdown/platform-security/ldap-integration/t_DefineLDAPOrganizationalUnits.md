@@ -39,7 +39,7 @@ OU definitions can contain locations, people, or user groups. Every LDAP server 
 
 6.  Under **Related Links**, click **Browse** to view the LDAP directory records that the OU definition returns.
 
-    ![LDAP OU definition form](../image/LDAPOUdefinition.png)
+    ![LDAP OU definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/../image/LDAPOUdefinition.png)
 
 <table id="table_frt_c1c_wp"><thead><tr><th>
 

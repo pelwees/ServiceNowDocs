@@ -19,13 +19,13 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## About this task
 
-![The Ask for failure codes question node showing the choice as the answer type with 200, 300, and 500 as the choices.](../image/ex-failure-code-question.png)
+![The Ask for failure codes question node showing the choice as the answer type with 200, 300, and 500 as the choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-failure-code-question.png)
 
 ## Procedure
 
 1.  Select **Add node** on the Amount-not-debited path.
 
-    ![the Add node button in the Decision Tree Builder to configure a question or guidance node.](../image/ex-amt-not-debited-question.png)
+    ![the Add node button in the Decision Tree Builder to configure a question or guidance node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-amt-not-debited-question.png)
 
 2.  In the pop-up window, select **Ask users at least one question** to configure a question node.
 
@@ -52,5 +52,5 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 ## What to do next
 
-[Configure a path](configure-path-for-200-failure-code.md) for each failure code the customer can receive after a failed credit card transaction.
+[Configure a path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-path-for-200-failure-code.md) for each failure code the customer can receive after a failed credit card transaction.
 

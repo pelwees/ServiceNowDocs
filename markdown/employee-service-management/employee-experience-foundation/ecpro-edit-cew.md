@@ -122,5 +122,5 @@ Sets how the order in which the page and widgets data loads. Choose from:-   **A
 </table>4.  Click **Save**.
 
 
-**Parent Topic:**[Configure employee communications widgets](../concept/employee-comms-widgets.md)
+**Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-comms-widgets.md)
 

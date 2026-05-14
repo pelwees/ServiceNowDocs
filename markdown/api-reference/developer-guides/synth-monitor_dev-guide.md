@@ -19,8 +19,8 @@ This developer guide provides information on how to use [Synthetic monitoring](h
 
 For full reference documentation for Synthetic Monitoring APIs, see:
 
--   [SyntheticsAsyncBulkCreate API](../../../inbound-rest/concept/synth-async-api.md#)
--   [SyntheticsBulkCreate API](../../../inbound-rest/concept/synthetics-bulk-create-api.md#)
+-   [SyntheticsAsyncBulkCreate API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../inbound-rest/concept/synth-async-api.md#)
+-   [SyntheticsBulkCreate API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../../inbound-rest/concept/synthetics-bulk-create-api.md#)
 
 ## Import and create synthetic monitors in bulk using API
 
@@ -366,7 +366,7 @@ The same Postman configuration works for both JSON and CSV files, with only the 
 
     3.  Select the **Select File** button, and browse to your monitor data file location and select your JSON or CSV file.
 
-        If you are uploading a CSV file, ensure it is properly formatted with all required columns. [Convert CSV file to JSON format](synth-monitor_dev-guide.md#)
+        If you are uploading a CSV file, ensure it is properly formatted with all required columns. [Convert CSV file to JSON format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/synth-monitor_dev-guide.md#)
 
 6.  Add the filename as a query parameter in the URL, and select **Send** to submit the request.
 

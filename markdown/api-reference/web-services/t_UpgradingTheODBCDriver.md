@@ -29,7 +29,7 @@ To check the build date and time of the ODBC driver, use **CheckVersion** locate
 
 1.  Right-click the executable and select **Run as Administrator**.
 
-    ![ODBC Remove.](../image/OdbcRemove.png)
+    ![ODBC Remove.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcRemove.png)
 
 2.  Click **OK** when prompted to uninstall the current driver, which is required for the upgrade.
 
@@ -39,9 +39,9 @@ To check the build date and time of the ODBC driver, use **CheckVersion** locate
 
     An ODBC DSN is a connection handle to use the ODBC driver in an application. For more information from Microsoft, see [Administer ODBC data sources](http://office.microsoft.com/en-us/access-help/administer-odbc-data-sources-HA010275550.aspx).
 
-    ![ODBC Remove DSN.](../image/OdbcRemoveDsn.png)
+    ![ODBC Remove DSN.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/OdbcRemoveDsn.png)
 
-4.  After removing the previous ODBC driver, double-click the executable again to run the installer and then follow the steps in [Download and install the ODBC driver](t_DownloadAndInstallTheODBCDriver.md).
+4.  After removing the previous ODBC driver, double-click the executable again to run the installer and then follow the steps in [Download and install the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_DownloadAndInstallTheODBCDriver.md).
 
     If you encounter errors when uninstalling the ODBC driver, see the [Troubleshooting uninstalling ODBC driver](https://support.servicenow.com/kb_view.do?sysparm_article=KB0539014) knowledge article.
 
@@ -50,5 +50,5 @@ To check the build date and time of the ODBC driver, use **CheckVersion** locate
 
 After installing the ODBC driver, configure it to connect to your ServiceNow instance.
 
-**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Parent Topic:**[Installing the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_InstallingTheODBCDriver.md)
 

@@ -41,8 +41,8 @@ Description
 
 </td><td>
 
-Choose one of the following:-   Select the check mark \(![Check mark icon](../../workplace-connectors/images/green-check-mark-icon.png)\) for the individual.
--   Select the More actions icon \(![More actions icon](../../legal-request-management/image/more-actions-icon.png)\) and select **Accounted**.
+Choose one of the following:-   Select the check mark \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../workplace-connectors/images/green-check-mark-icon.png)\) for the individual.
+-   Select the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../legal-request-management/image/more-actions-icon.png)\) and select **Accounted**.
 
 
 </td></tr><tr><td id="d260219e124">
@@ -51,30 +51,30 @@ Choose one of the following:-   Select the check mark \(![Check mark icon](../..
 
 </td><td>
 
-Select the More actions icon \(![More actions icon](../../legal-request-management/image/more-actions-icon.png)\) and select **Need Help**.
+Select the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../legal-request-management/image/more-actions-icon.png)\) and select **Need Help**.
 
 </td></tr></tbody>
 </table>4.  If you must undo or change the status of an individual, select either the **Accounted** tab or the **Need Help** tab and find the individual.
 
-    -   To undo the status and mark the individual as **Unknown**, clear the check mark \(![Check mark icon](../../workplace-connectors/images/green-check-mark-icon.png)\).
-    -   To change the status, select the More actions icon \(![More actions icon](../../legal-request-management/image/more-actions-icon.png)\) and select the desire status.
+    -   To undo the status and mark the individual as **Unknown**, clear the check mark \(![Check mark icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../workplace-connectors/images/green-check-mark-icon.png)\).
+    -   To change the status, select the More actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../../legal-request-management/image/more-actions-icon.png)\) and select the desire status.
 5.  If you must add an impacted person manually, select the **Add Person** button.
 
 
-**Parent Topic:**[Managing impacted people](../concept/manage-impacted-people.md)
+**Parent Topic:**[Managing impacted people](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/manage-impacted-people.md)
 
 **Related topics**  
 
 
-[Generate impacted people list](generate-impacted-people-list.md)
+[Generate impacted people list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/generate-impacted-people-list.md)
 
-[Add a person manually to the impacted people list](add-person-manually-to-impacted-people.md)
+[Add a person manually to the impacted people list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-person-manually-to-impacted-people.md)
 
-[Export an impacted people list](export-impacted-people-list.md)
+[Export an impacted people list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/export-impacted-people-list.md)
 
-[View an impacted person record](view-impacted-person-record.md)
+[View an impacted person record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-impacted-person-record.md)
 
-[Mark the status of impacted people as an agent](mark-status-of-impacted-people.md)
+[Mark the status of impacted people as an agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/mark-status-of-impacted-people.md)
 
-[View notifications received](view-notifications-received.md)
+[View notifications received](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-notifications-received.md)
 

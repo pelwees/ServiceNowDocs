@@ -13,10 +13,10 @@ breadcrumb: [Device security, Mobile security, Configuring the Mobile Platform, 
 
 Learn about user authentication, third party authentication, and user session termination for mobile applications.
 
-For more information, see [User authentication for ServiceNow mobile apps](sg-mobile-identity-access-mgmt.md).
+For more information, see [User authentication for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-identity-access-mgmt.md).
 
--   **[User authentication for ServiceNow mobile apps](sg-mobile-identity-access-mgmt.md)**  
+-   **[User authentication for ServiceNow mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-identity-access-mgmt.md)**  
 ServiceNow mobile apps support platform authentication using OAuth 2.0. Authentication mechanisms include multi provider SSO, MFA, LDAP, Local DB, and Digest.
 
-**Parent Topic:**[Device security for ServiceNow Mobile apps](sg-mobile-security.md)
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 

@@ -179,7 +179,7 @@ Distribution Channel
 
 </td><td>
 
-Create and view the list and ranking of all linked stockrooms that you can source and transfer enterprise assets between. For more information on distribution channels, see [Add a distribution channel to a stockroom in the Enterprise Asset Workspace](add-distribution-channel-eam-stockroom.md).
+Create and view the list and ranking of all linked stockrooms that you can source and transfer enterprise assets between. For more information on distribution channels, see [Add a distribution channel to a stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-distribution-channel-eam-stockroom.md).
 
 </td></tr><tr><td>
 
@@ -209,5 +209,5 @@ Create and view audits for your enterprise asset inventory.
         You can also determine if the corresponding model has reached the end of sale.
 
 
-**Parent Topic:**[Create and manage enterprise asset inventory](../concept/managing-enterprise-asset-inventory.md)
+**Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/managing-enterprise-asset-inventory.md)
 

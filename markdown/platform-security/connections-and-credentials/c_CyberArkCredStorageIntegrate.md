@@ -21,7 +21,7 @@ CyberArk Application Identity Management \(AIM\) product uses the Privileged Acc
 
 The instance maintains a unique identifier for each credential, the credential type \(such as SSH, SNMP, or Windows\), and any credential affinities. The MID Server obtains the credential identifier, credential type, and IP address from the instance, and then uses the CyberArk vault to resolve these elements into a usable credential. The credential resolver can also look up the hostname, fqdn, and use reverse DNS lookup to get fqdn.
 
-The CyberArk integration requires the ServiceNow® [External Credential Storage plugin](../task/t_ActivateExtrnlCredStoragePlugIn.md), which is available in **System Definitions** &gt; **Plugins**. The MID Server and CyberArk AIM/API client must be installed on the same machine. CyberArk Application Access Manager \(AAM\) Credential Providers version 12.0.1 and later is supported.
+The CyberArk integration requires the ServiceNow® [External Credential Storage plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../task/t_ActivateExtrnlCredStoragePlugIn.md), which is available in **System Definitions** &gt; **Plugins**. The MID Server and CyberArk AIM/API client must be installed on the same machine. CyberArk Application Access Manager \(AAM\) Credential Providers version 12.0.1 and later is supported.
 
 ## Installed with CyberArk
 
@@ -64,11 +64,11 @@ ServiceNow AI Platform features that use these network protocols also support th
 |SFTP|SFTP Step|SFTP activity|
 |JMS| |JMS activity|
 
-**Important:** You cannot manage credentials stored on a CyberArk vault and a custom [external credential storage](c_ExternalCredentialStorage.md) system using the same MID Server. The MID Server and CyberArk AIM/API client must be installed on the same machine.
+**Important:** You cannot manage credentials stored on a CyberArk vault and a custom [external credential storage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md) system using the same MID Server. The MID Server and CyberArk AIM/API client must be installed on the same machine.
 
 ## CyberArk architecture
 
-![CyberArk storage architecture.](../image/CyberArkArchitectureDiagram.png "CyberArk storage architecture")
+![CyberArk storage architecture.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/../image/CyberArkArchitectureDiagram.png "CyberArk storage architecture")
 
 **Note:** CyberArk uses the base system mid.jar file for resolving credentials.
 
@@ -88,8 +88,8 @@ Perform the following steps to perform the upgrade if a secured config parameter
 2.  Create a new jar entry in the `ecc_agent` table where the rename jar can be attached. This new entry downloads to the MID Server. This step results in two jar \(Passworsdk.jar and JavaPasswordSDK \_12\_X\_X.jar\).
 3.  Delete old ecc\_agent entry from instance. This step deletes Passworsdk.jar from the MID Server, and the JavaPasswordSDK \_12\_X\_X.jar remains in the system.
 
--   **[CyberArk integration configuration](c_CyberArkIntegrationConfiguration.md)**  
+-   **[CyberArk integration configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md)**  
 These procedures include both CyberArk and ServiceNow configuration tasks, including references to the appropriate CyberArk documentation.
 
-**Parent Topic:**[External credential storage](c_ExternalCredentialStorage.md)
+**Parent Topic:**[External credential storage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md)
 

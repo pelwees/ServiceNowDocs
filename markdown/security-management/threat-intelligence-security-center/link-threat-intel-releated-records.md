@@ -42,5 +42,5 @@ Role required: sn\_sec\_tisc.analyst
     Click **Unlink** button to unlink the objects
 
 
-**Parent Topic:**[Observables](../concept/observables.md)
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/observables.md)
 

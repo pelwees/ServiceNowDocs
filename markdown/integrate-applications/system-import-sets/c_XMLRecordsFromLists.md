@@ -29,7 +29,7 @@ The XML import process directly inserts records into the target table. During th
 
 This process is good for directly copying records from one system to another but does not remove the need to know the relationships between tables. If you need validate or transform data or reconcile the sys ID values of reference fields, use an XML import set instead.
 
-**Parent Topic:**[Importing from another ServiceNow instance](c_ImportingFromAnotherSNInstance.md)
+**Parent Topic:**[Importing from another ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/c_ImportingFromAnotherSNInstance.md)
 
 ## Automatic matching of display values
 

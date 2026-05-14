@@ -35,7 +35,7 @@ When a user in an exploration asks a question of the AI, the answer is limited t
 
 All AI Data Explorer tables have domain fields to associate explorations to domains and restrict access accordingly.
 
-**Parent Topic:**[AI Data Explorer reference](now-assist-explorer-reference.md)
+**Parent Topic:**[AI Data Explorer reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer-reference.md)
 
 **Related topics**  
 

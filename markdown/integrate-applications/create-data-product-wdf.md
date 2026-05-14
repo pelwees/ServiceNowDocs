@@ -50,7 +50,7 @@ The data product is created in draft state and visible in Data Workbench. Publis
 
 ## What to do next
 
-To make the data product available to consumers, see [Publish a data product](publish-data-product-wdf.md)
+To make the data product available to consumers, see [Publish a data product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/publish-data-product-wdf.md)
 
-**Parent Topic:**[Managing data products](../concept/manage-data-products-wdf.md)
+**Parent Topic:**[Managing data products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/manage-data-products-wdf.md)
 

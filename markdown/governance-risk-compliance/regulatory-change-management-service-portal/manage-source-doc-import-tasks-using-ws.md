@@ -196,11 +196,11 @@ Attachments related to the task.
 
 8.  Navigate to the Action tasks related list and add an action task if necessary.
 
-    See [Create a new action task for the alert](create-action-task-using-ws.md) for creating a new action task.
+    See [Create a new action task for the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md) for creating a new action task.
 
 9.  Navigate to the Issues related list and add an issue if necessary.
 
-    See [Create or add an issue related to a regulatory task](create-an-issue-reg-change-comp-ws.md) for adding an issue.
+    See [Create or add an issue related to a regulatory task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-an-issue-reg-change-comp-ws.md) for adding an issue.
 
 10. In the Import Task section, insert a new citation or update an existing citation as described in the table.
 
@@ -262,5 +262,5 @@ The state of the source document import task is updated to **Awaiting Approval**
 
 ## What to do next
 
-See [Create a new action task for the alert](create-action-task-using-ws.md) and [Complete the action task associated with the alert](create-action-task-src-document-alert.md) for information on creating a new action task and completing an action task associated with the alert.
+See [Create a new action task for the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md) and [Complete the action task associated with the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-src-document-alert.md) for information on creating a new action task and completing an action task associated with the alert.
 

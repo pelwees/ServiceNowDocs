@@ -25,5 +25,5 @@ A workflow must run on the Incident table to use this activity.
 |-----|-----------|
 |Work Note|The text to add to the incident record.|
 
-**Parent Topic:**[Task workflow activities](r_TaskActivities.md)
+**Parent Topic:**[Task workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_TaskActivities.md)
 

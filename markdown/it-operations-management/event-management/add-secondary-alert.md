@@ -33,7 +33,7 @@ The alert you select to add to a new group may already be part of another group.
 
 3.  In the **Parent** field, search for the alert you want to assign as the parent for the selected alert.
 
-    ![Window from which you can choose a primary alert to add the current alert as a secondary alert.](../image/em-parent-alert.png)
+    ![Window from which you can choose a primary alert to add the current alert as a secondary alert.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em-parent-alert.png)
 
 4.  Select the parent alert number.
 
@@ -44,5 +44,5 @@ The alert you select to add to a new group may already be part of another group.
 
 The alert is added as a secondary alert to the selected parent alert.
 
-**Parent Topic:**[Manual alert grouping](../concept/manual-alert-grouping.md)
+**Parent Topic:**[Manual alert grouping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/manual-alert-grouping.md)
 

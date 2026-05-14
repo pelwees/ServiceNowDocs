@@ -73,10 +73,10 @@ Then the field of the Strategic Program \[sn\_align\_core\_program\] table that 
  This field is available only if the **Top entity** field isn’t selected.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Add or modify lens structure in Strategic Planning](../task/define-lens-structure-in-alignment-planner-workspace.md)
+[Add or modify lens structure in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../task/define-lens-structure-in-alignment-planner-workspace.md)
 

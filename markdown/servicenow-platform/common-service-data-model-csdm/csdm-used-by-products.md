@@ -185,5 +185,5 @@ Alignment — Align business processes to reduce risk and assure conformance
 Understand Service Health \(availability, CSAT, Performance, Vulnerabilities, IPC stats\)Governance, Risk, and Compliance \(GRC\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring the CSDM model](csdm-content-frame-exploring.md)
+</table>**Parent Topic:**[Exploring the CSDM model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-exploring.md)
 

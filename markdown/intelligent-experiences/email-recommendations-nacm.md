@@ -16,17 +16,17 @@ Use the Now Assist context menu to compose or respond to emails with recommendat
 
 -   **Compose email**
 
-    While you compose a new email, you see the Now Assist context menu icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) that displays the message `Use Now Assist to generate a message`. When you select the icon, generative AI generates a message recommendation.
+    While you compose a new email, you see the Now Assist context menu icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) that displays the message `Use Now Assist to generate a message`. When you select the icon, generative AI generates a message recommendation.
 
-    ![Using the Now Assist context menu to compose an email.](../images/wwna-email-compose-example_2.png)
+    ![Using the Now Assist context menu to compose an email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-email-compose-example_2.png)
 
     You can refine the generated text either by selecting the **Elaborate** or **Shorten** context menu options on the Now Assist Admin model. You can also copy the new text or **Insert** the generated text into the email body.
 
 -   **Complete draft emails**
 
-    You can use the Now Assist context menu to finish your drafted emails. You can enter some text and use generative AI to help you with complete your drafts by selecting the Now Assist context menu icon \(![Now Assist context menu icon.](../images/wwna-icon.png)\) that displays the message `Use Now Assist to generate a message`. When you select the icon, you see that generative AI is generating the message for you.
+    You can use the Now Assist context menu to finish your drafted emails. You can enter some text and use generative AI to help you with complete your drafts by selecting the Now Assist context menu icon \(![Now Assist context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/wwna-icon.png)\) that displays the message `Use Now Assist to generate a message`. When you select the icon, you see that generative AI is generating the message for you.
 
-    ![Using the Now Assist context menu to compose an email.](../images/nacm-complete-email-drafts.png)
+    ![Using the Now Assist context menu to compose an email.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../images/nacm-complete-email-drafts.png)
 
     You can further refine the generated text by selecting **Elaborate** or **Shorten** context menu options on the Now Assist admin model. You can also copy the new text or select **Replace** to replace the generated text into the email body.
 
@@ -41,5 +41,5 @@ Use the Now Assist context menu to compose or respond to emails with recommendat
     You can also select a record from the Now Assist Context Menu inline citation to navigate directly to the record page, where the referenced section will be highlighted for easy identification.
 
 
-**Parent Topic:**[Now Assist context menu](now-assist-write-overview.md)
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 

@@ -21,7 +21,7 @@ Administrators can manage this function using the following options.
 
 **Note:** Personalizing a form in this way modifies the form for you only. To make changes to a form that are visible to all users, you must configure the form.
 
-**Parent Topic:**[Administering forms on the ServiceNow AI Platform](form-administration.md)
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
 ## Activate form personalization
 

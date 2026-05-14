@@ -20,7 +20,7 @@ Real-time prevention monitoring provides the following capabilities:
 -   **Guided resolution:** Provides details such as line numbers, impact levels, and steps to resolve found issues.
 -   **Governance:** Supports exception workflows and links to supporting documentation for compliance.
 
-**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+**Note:** Real-time prevention monitoring must be enabled on the Scan Engine properties page for this feature to function. For more information, refer to [Configure Scan Engine properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/configure-scan-engine-properties.md).
 
 ## Finding levels
 
@@ -63,7 +63,7 @@ Red
 </td><td>
 
 -   Prevents users from saving the record unless they resolve the issue or provide an exception reason.
--   For more information, refer to [Submit exceptions for the Scan Engine findings](submitting-exception-reasons-scan-engine.md).
+-   For more information, refer to [Submit exceptions for the Scan Engine findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ Impact
 Using the information provided in the finding window, you can do one of the following:
 
 -   Correct the issue. If the issue is corrected, the Scan Engine will not return a new finding notice.
--   For Recommend level findings, submit an exception reason, then select **Update**. See [Submit exceptions for the Scan Engine findings](submitting-exception-reasons-scan-engine.md).
+-   For Recommend level findings, submit an exception reason, then select **Update**. See [Submit exceptions for the Scan Engine findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/submitting-exception-reasons-scan-engine.md).
 
 ## Configuration
 
@@ -169,5 +169,5 @@ Real-time messaging enforcement can be disabled on the Scan Engine properties pa
 
 Visibility of real-time messaging can also be configured to limit which users receive finding notifications. You can restrict messaging to a specific group if necessary.
 
-For more information, refer to [Configure Scan Engine properties](../task/configure-scan-engine-properties.md).
+For more information, refer to [Configure Scan Engine properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../task/configure-scan-engine-properties.md).
 

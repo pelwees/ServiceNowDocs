@@ -52,5 +52,5 @@ Receiving Slip Line \[proc\_rec\_slip\_item\]
 Changes the **Purchase Order Line** field on the Receiving Slip Line form to mandatory if the associated receiving slip has a listed purchase order.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Procurement](r_InstalledWithProcurement.md)
+</table>**Parent Topic:**[Components installed with Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/r_InstalledWithProcurement.md)
 

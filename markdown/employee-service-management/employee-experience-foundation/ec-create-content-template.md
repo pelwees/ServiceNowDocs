@@ -26,12 +26,12 @@ Role required: sn\_cd.content\_admin or sn\_cd.content\_template\_owner
     -   Featured News Mobile: the news section on the mobile app
     -   Latest News Home Page: the news widget on the portal Home page
     -   Other News: the news feed widget on the article detail page
-    To publish to a different page and widget, create a custom content destination. See [Add content destination](ec-add-content-destination.md).
+    To publish to a different page and widget, create a custom content destination. See [Add content destination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-add-content-destination.md).
 
--   Define the audience. See [Create an audience](ec-audiences.md).
--   Define content categories to tag the news articles, such as company news, pay and benefits, or industry news. See [Create a content category](../concept/ec-content-cat.md).
--   Define the article layout with a reusable article template. See [Create a news article template](ec-create-news-template.md).
--   Enable and configure Content engagement features. See [Content engagement](../concept/ec-content-engagement.md).
+-   Define the audience. See [Create an audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
+-   Define content categories to tag the news articles, such as company news, pay and benefits, or industry news. See [Create a content category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-content-cat.md).
+-   Define the article layout with a reusable article template. See [Create a news article template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-news-template.md).
+-   Enable and configure Content engagement features. See [Content engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-content-engagement.md).
 
 ## About this task
 

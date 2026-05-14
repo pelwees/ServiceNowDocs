@@ -31,8 +31,8 @@ You can organize custom activities into packs and upload them to the ServiceNow 
 
     The hierarchy in the tab organizes packs by vendor, scope, category, and activity.
 
-    ![Workflow activity packs tab](../image/WorkflowActivityPacks.png)
+    ![Workflow activity packs tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../image/WorkflowActivityPacks.png)
 
 
-**Parent Topic:**[Orchestration activity packs](../../orchestration-activities/concept/c_OrchestrationActivityPacks.md)
+**Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration-activities/concept/c_OrchestrationActivityPacks.md)
 

@@ -29,5 +29,5 @@ Unified Admin Experience for GenAI Skills:
 
 ![](../../customer-service-management/image/cloning-in-now-assist-for-csm.png)
 
-**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](../task/configure-now-assist-hr.md)
+**Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../task/configure-now-assist-hr.md)
 

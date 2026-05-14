@@ -15,7 +15,7 @@ The named contact administrator will establish a secure connection to the Impact
 
 ## Before you begin
 
--   Confirm [Initiate the connection to the Impact Delivery Instance with manual registration](../concept/initiate-the-connection-impact-delivery-instance.md) is completed.
+-   Confirm [Initiate the connection to the Impact Delivery Instance with manual registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/initiate-the-connection-impact-delivery-instance.md) is completed.
 -   A registration email with a direct link to the IDI provider connection form is sent to the named contact administrator in order during the initial connection to IDI.
 
 Role required: Any Impact Store App role, IDI admin
@@ -30,7 +30,7 @@ Role required: Any Impact Store App role, IDI admin
 
     Detailed screens are available in the Impact Store Application manual registration steps.
 
-    ![The manual registration step to establish a connection between IDI and the Impact Store App.](../image/manual-registration-establish-connection.png)
+    ![The manual registration step to establish a connection between IDI and the Impact Store App.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/manual-registration-establish-connection.png)
 
 3.  Complete the form.
 
@@ -110,7 +110,7 @@ Inbound status \(read-only\)
     -   Provider onboarding started: The connection is validated between the Impact Store App and the Impact Delivery Instance.
     -   Syncing settings to complete onboarding: Necessary components and settings are synchronizing and required for alignment.
     -   Onboarding Complete: All settings have synced and you are ready to sync data from the Impact Delivery Instance.
-    ![Provider and onboarding connection status and confirmation message.](../image/onboarding-complete-png.png)
+    ![Provider and onboarding connection status and confirmation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/onboarding-complete-png.png)
 
 8.  When the status updates to Onboarding Complete, select **Close**.
 
@@ -118,18 +118,18 @@ Inbound status \(read-only\)
 
 9.  Return to Guided Setup, and select **Mark Complete** to continue to verify the connection.
 
-    ![The required step to mark the new provider connection creation as successful with the Mark as complete button on the Automated Registration page in Guided Setup.](../image/create-provider-connection-automated-mark-complete.png)
+    ![The required step to mark the new provider connection creation as successful with the Mark as complete button on the Automated Registration page in Guided Setup.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/create-provider-connection-automated-mark-complete.png)
 
     The **Verify the connection** activity becomes available in Guided Setup.
 
 
 ## What to do next
 
-[Verify Impact data connection](verify-impact-data-connection.md).
+[Verify Impact data connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md).
 
-**Parent Topic:**[Use manual registration to configure the Impact Store Application](../concept/use_manual_registration_configure_impact_store_application.md)
+**Parent Topic:**[Use manual registration to configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/use_manual_registration_configure_impact_store_application.md)
 
-**Previous topic:**[Initiate the connection to the Impact Delivery Instance with manual registration](../concept/initiate-the-connection-impact-delivery-instance.md)
+**Previous topic:**[Initiate the connection to the Impact Delivery Instance with manual registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/initiate-the-connection-impact-delivery-instance.md)
 
-**Next topic:**[Domain Separation in Impact](../concept/impact-domain-separation.md)
+**Next topic:**[Domain Separation in Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/impact-domain-separation.md)
 

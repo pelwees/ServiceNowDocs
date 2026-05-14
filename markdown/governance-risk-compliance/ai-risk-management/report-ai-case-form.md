@@ -34,5 +34,5 @@ See the following table for a description of the field values.
 |Impacted department|Department that is affected by the AI case. For example, Customer support.|
 |Sub-location of occurrence|Sublocation of the case occurrence. For example, the sub location is Tokyo.|
 
-**Parent Topic:**[Report an AI case from the Employee Center](../task/report-ai-case.md)
+**Parent Topic:**[Report an AI case from the Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/report-ai-case.md)
 

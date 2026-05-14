@@ -17,7 +17,7 @@ Additional guidance to successfully deploy HR Service Delivery in a domain separ
 
 The following sections explain how to successfully set up domain separation on your instance.
 
-![Domain separation hierarchy](../image/domain-separation-hierarchy.png "Example of a domain separation hierarchy")
+![Domain separation hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/domain-separation-hierarchy.png "Example of a domain separation hierarchy")
 
 ## HR Services
 

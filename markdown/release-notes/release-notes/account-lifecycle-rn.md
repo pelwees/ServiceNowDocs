@@ -61,5 +61,5 @@ Install Customer Success Management by requesting it from the ServiceNow Store. 
     ServiceNow® Service Exchange connects multiple ServiceNow instances to provide seamless support and service experiences across the ecosystem, from enterprise customers to suppliers and system integrators. Service Exchange provides a frictionless experience that enables efficient collaboration and request processing while giving users the convenience of working in their own ServiceNow instance.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

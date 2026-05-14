@@ -17,6 +17,6 @@ Integrating your Software Asset Management application with the GitHub repositor
 
 With this integration, you can retrieve and analyze licensing information for both the GitHub Enterprise Cloud and GitHub Enterprise Server applications.
 
--   [Integrate with GitHub Enterprise Cloud](integrate-github-cloud.md#)
--   [Integrate with GitHub Enterprise Server](integrating-with-github-server.md#)
+-   [Integrate with GitHub Enterprise Cloud](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-github-cloud.md#)
+-   [Integrate with GitHub Enterprise Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrating-with-github-server.md#)
 

@@ -125,5 +125,5 @@ Version of file name file.
 
 The custom rule is added to the Unidentified File Sets list.
 
-**Parent Topic:**[Software Asset Management administration](../concept/c_SAMAdministration.md)
+**Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/c_SAMAdministration.md)
 

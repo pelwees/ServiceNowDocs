@@ -38,29 +38,29 @@ Role required:
 
     2.  Click **Annotate**.
 
-        ![Add an annotation](../image/annotations.png)
+        ![Add an annotation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/annotations.png)
 
     3.  Type the annotation and click **Annotate**.
 
         The annotation is added to the selected artifacts.
 
-5.  To view annotations for an artifact, click the View annotations \(![View Annotations](../image/annotation-icon.png)\) icon.
+5.  To view annotations for an artifact, click the View annotations \(![View Annotations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/annotation-icon.png)\) icon.
 
     The existing annotations appear in the Annotations dialog box.
 
-    ![Annotations dialog box](../image/annotations-dialog.png)
+    ![Annotations dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/annotations-dialog.png)
 
 6.  You can also enter a new annotation for the artifact in the **Security Annotation** box, and click **Annotate**.
 
 
-**Parent Topic:**[Security artifact analysis](../concept/sec-artifact-analysis.md)
+**Parent Topic:**[Security artifact analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/sec-artifact-analysis.md)
 
 **Related topics**  
 
 
-[Related details for case artifacts](../concept/related-details-for-case-artifacts.md)
+[Related details for case artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/related-details-for-case-artifacts.md)
 
-[Security artifact exclusion and inclusion](../concept/artifact-inclusion-exclusion.md)
+[Security artifact exclusion and inclusion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/artifact-inclusion-exclusion.md)
 
-[Search for security artifacts](search-for-artifacts.md)
+[Search for security artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/search-for-artifacts.md)
 

@@ -29,7 +29,7 @@ Each Password Reset process requires a separate CMS page.
 
 2.  Go to **Content Management** &gt; **Sites** and create a site that has no login page.
 
-    ![New site](../image/password-reset-cms.png)
+    ![New site](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/password-reset-cms.png)
 
 3.  Go to **Content Management** &gt; **Pages** and create a password reset page.
 
@@ -44,5 +44,5 @@ Each Password Reset process requires a separate CMS page.
 8.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Password Reset](../../login/concept/password-reset-admin-guide.md)
+**Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/password-reset-admin-guide.md)
 

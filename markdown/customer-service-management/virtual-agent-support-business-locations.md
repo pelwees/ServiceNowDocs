@@ -15,7 +15,7 @@ Customer service agents receive chat requests from your business location staff 
 
 ## Overview of pre-chat survey
 
-Before your staff members can use a pre-chat survey to initiate a chat, your administrator must activate the pre-chat configuration for the Business Location Service Portal. The preconfigured surveys are activated by default in the base system. If your business location has upgraded the system to manually activate the pre-chat configuration, then staff members can fill in the pre-survey before the chat. To learn more about the pre-chat survey, see [Pre-chat surveys](csm-pre-chat-overview.md).
+Before your staff members can use a pre-chat survey to initiate a chat, your administrator must activate the pre-chat configuration for the Business Location Service Portal. The preconfigured surveys are activated by default in the base system. If your business location has upgraded the system to manually activate the pre-chat configuration, then staff members can fill in the pre-survey before the chat. To learn more about the pre-chat survey, see [Pre-chat surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-pre-chat-overview.md).
 
 You must also assign the service organization contributor \(sn\_customerservice.service\_organization\_contributor\) and location manager \(sn\_customerservice.svc\_location\_manager\_core\) roles to the staff members using the pre-survey chat feature.
 
@@ -25,7 +25,7 @@ Before entering into a chat conversation with the staff member, the assigned age
 
 ## Pre-chat survey
 
-The pre-chat survey lets staff provide location and support details before a chat. It gives agents context about the case, enabling them to assist more effectively. The pre-chat survey makes the chat more efficient and helpful to your staff. To learn more about how a chat is initiated from the BLSP, see [Chat with Virtual Agent from the Business Location Service Portal](../task/agent-chat-business-location-service-portal.md).
+The pre-chat survey lets staff provide location and support details before a chat. It gives agents context about the case, enabling them to assist more effectively. The pre-chat survey makes the chat more efficient and helpful to your staff. To learn more about how a chat is initiated from the BLSP, see [Chat with Virtual Agent from the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/agent-chat-business-location-service-portal.md).
 
 The pre-chat survey isn't displayed for service organization contributors who are associated with a single business location. The location is picked by default.
 
@@ -36,5 +36,5 @@ To learn more about the configuration of the pre-chat surveys, see [Define pre-c
 **Related topics**  
 
 
-[Chat with Virtual Agent from the Business Location Service Portal](../task/agent-chat-business-location-service-portal.md)
+[Chat with Virtual Agent from the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/agent-chat-business-location-service-portal.md)
 

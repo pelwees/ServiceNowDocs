@@ -56,7 +56,7 @@ The Overview section has two tabs: Stream activity and Data usage.
 -   The Stream activity tab shows the activity on topics, consumers, producers, replicators, and alerts.
 -   The Data usage tab shows Stream Connect usage over time.
 
-![User interface for the Stream activity tab of the Stream Connect dashboard overview page.](../images/stream-connect-dashboard.png "Stream Connect Dashboard Overview, Stream activity")
+![User interface for the Stream activity tab of the Stream Connect dashboard overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dashboard.png "Stream Connect Dashboard Overview, Stream activity")
 
 The Stream activity tab has these components.
 
@@ -79,7 +79,7 @@ The Stream activity tab has these components.
     -   Consumers data usage trends: The amount of data consumers used over the last seven days.
     -   Producers data usage trends: The amount of data producers used over the last seven days.
 
-![User interface for the Data usage tab of the Stream Connect dashboard overview page.](../images/sc-dashboard-data.png "Stream Connect Dashboard Overview, Data usage")
+![User interface for the Data usage tab of the Stream Connect dashboard overview page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dashboard-data.png "Stream Connect Dashboard Overview, Data usage")
 
 The Data usage tab has these components.
 
@@ -87,7 +87,7 @@ The Data usage tab has these components.
 
     Use the **Kafka Cluster** list to select data for either **Hermes usage** or **Direct Kafka usage**.
 
-    **Note:** The **Kafka Cluster** list only appears if the plugins for both Hermes and Direct Kafka are installed. If only one plugin is installed, the **Kafka Cluster** list is hidden and the dashboard displays data for either Hermes or Direct Kafka, depending on the plugin. For more information about plugins, see [Integration Hub plugins](../reference/ih-plugins.md).
+    **Note:** The **Kafka Cluster** list only appears if the plugins for both Hermes and Direct Kafka are installed. If only one plugin is installed, the **Kafka Cluster** list is hidden and the dashboard displays data for either Hermes or Direct Kafka, depending on the plugin. For more information about plugins, see [Integration Hub plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/ih-plugins.md).
 
     Select a start month and end month to view data usage over time. Data usage history is available for the last 12 complete months plus the current month.
 
@@ -104,7 +104,7 @@ The Data usage tab has these components.
 
 View topics and add, edit, or export a topic.
 
-![User interface for the Stream Connect dashboard Topics page.](../images/stream-connect-dash-topics.png "Stream Connect Dashboard Topics page")
+![User interface for the Stream Connect dashboard Topics page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dash-topics.png "Stream Connect Dashboard Topics page")
 
 The Topics page has the following components.
 
@@ -122,7 +122,7 @@ The Topics page has the following components.
 
 You can select a topic or topic alias from the list to view more detailed information. The following image shows an example of a topic page for a Hermes topic. The pages for topic aliases and Direct Kafka topics are similar but have a few differences. For example, a topic page for a Direct Kafka topic doesn't have a **Replications** tab because Direct Kafka topics don't use them.
 
-![User interface for an individual topic page on the Stream Connect dashboard.](../images/sc-dash-topic-page.png "Individual topic page for a Hermes topic")
+![User interface for an individual topic page on the Stream Connect dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dash-topic-page.png "Individual topic page for a Hermes topic")
 
 The Hermes topic page has the following components.
 
@@ -160,7 +160,7 @@ The Hermes topic page has the following components.
 
 View and manage consumers.
 
-![User interface for the Stream Connect dashboard Consumers page.](../images/stream-connect-dash-consumers.png "Stream Connect Dashboard Consumers page")
+![User interface for the Stream Connect dashboard Consumers page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dash-consumers.png "Stream Connect Dashboard Consumers page")
 
 The Consumers page has the following components.
 
@@ -176,14 +176,14 @@ The Consumers page has the following components.
 
 -   **12. Create button**
 
-    To **Create** a new consumer, select this button, then select the type of consumer you want to create, then fill in the fields on the consumer's form. For form field descriptions, see the [ETL consumer](../tasks/configure-etl-consumer.md), [Transform Map consumer](../tasks/configure-transform-map-consumer.md), or [Script consumer](../tasks/configure-script-consumer.md) page.
+    To **Create** a new consumer, select this button, then select the type of consumer you want to create, then fill in the fields on the consumer's form. For form field descriptions, see the [ETL consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-etl-consumer.md), [Transform Map consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-transform-map-consumer.md), or [Script consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-script-consumer.md) page.
 
     **Note:** If you're creating a Flow Trigger consumer, there isn't a form to fill out. Instead, the dashboard opens Workflow Studio so you can build your flow trigger there. For a detailed guide, see [Create a flow with a Kafka Message trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow-kafka.md).
 
 
 You can select a consumer from the list to view detailed information for that consumer.
 
-![User interface for an individual consumer page on the Stream Connect dashboard.](../images/sc-dash-consumer-page.png "Individual Consumer page")
+![User interface for an individual consumer page on the Stream Connect dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dash-consumer-page.png "Individual Consumer page")
 
 Each individual consumer page has the following components.
 
@@ -213,13 +213,13 @@ Each individual consumer page has the following components.
     Displays partition groups with each one's number, first and last partition, and poll time.
 
 
-For a detailed explanation of consumer data and statistics, including log, and partition group information, see [Viewing Kafka subscriptions and statistics](kafka-subscriptions-statistics.md).
+For a detailed explanation of consumer data and statistics, including log, and partition group information, see [Viewing Kafka subscriptions and statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/kafka-subscriptions-statistics.md).
 
 ## Producers
 
 View, filter, and export producers.
 
-![User interface for the Stream Connect dashboard Producers page.](../images/stream-connect-dash-producers.png "Stream Connect Dashboard Producers page")
+![User interface for the Stream Connect dashboard Producers page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dash-producers.png "Stream Connect Dashboard Producers page")
 
 The Producers page has the following components.
 
@@ -234,7 +234,7 @@ The Producers page has the following components.
 
 You can select a producer from the list to view detailed information for that producer.
 
-![User interface for an individual producer page on the Stream Connect dashboard.](../images/sc-dash-producer-page.png "Individual Producer page")
+![User interface for an individual producer page on the Stream Connect dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dash-producer-page.png "Individual Producer page")
 
 Each individual consumer page has the following components.
 
@@ -259,13 +259,13 @@ Each individual consumer page has the following components.
     Displays producer statistics, including the date, number of produced messages and bytes, topic alias, and domain.
 
 
-For a detailed description of Producer data and statistics, see [Viewing producer statistics](producer-statistics.md).
+For a detailed description of Producer data and statistics, see [Viewing producer statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/producer-statistics.md).
 
 ## Message Replications
 
 View message replications, and add, edit, or export a message replication.
 
-![User interface for the Stream Connect dashboard Message Replications page.](../images/stream-connect-dash-mes-rep.png "Stream Connect Dashboard Message Replications page")
+![User interface for the Stream Connect dashboard Message Replications page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dash-mes-rep.png "Stream Connect Dashboard Message Replications page")
 
 The Message Replications page has the following components.
 
@@ -277,8 +277,8 @@ The Message Replications page has the following components.
 
     Contains several buttons that you can use to perform different tasks. Refresh the list of message replications, edit the list columns or reset the column widths, and view or edit the list filters. There are also buttons to **Edit** a message replication, **Export** a message replication, and create a **New** message replication.
 
-    -   To edit a message replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Message Replication form](../tasks/configure-message-topic-reps-sc.md).
-    -   To create a new message replication, select **New**, then fill in the fields on the Create New [Message Replication form](../tasks/configure-message-topic-reps-sc.md).
+    -   To edit a message replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Message Replication form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-message-topic-reps-sc.md).
+    -   To create a new message replication, select **New**, then fill in the fields on the Create New [Message Replication form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-message-topic-reps-sc.md).
 
 You can select a message replication to view the replication's name, messaging service connection, status, error message \(if any\), and if it's active. You can also see any associated Kafka Topic Replications.
 
@@ -286,7 +286,7 @@ You can select a message replication to view the replication's name, messaging s
 
 View topic replications, and add, edit, or export a topic replication.
 
-![User interface for the Stream Connect dashboard Topic Replications page.](../images/stream-connect-dash-topic-rep.png "Stream Connect Dashboard Topic Replications page")
+![User interface for the Stream Connect dashboard Topic Replications page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/stream-connect-dash-topic-rep.png "Stream Connect Dashboard Topic Replications page")
 
 The Topic Replications page has the following components.
 
@@ -298,16 +298,16 @@ The Topic Replications page has the following components.
 
     Contains several buttons that you can use to refresh the list of topic replications, edit the list columns or reset the column widths, and view or edit the list filters. There are also buttons to **Edit** a topic replication, **Export** a topic replication, and create a **New** topic replication.
 
-    -   To edit a topic replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Topic Replication form](../tasks/configure-message-topic-reps-sc.md).
-    -   To create a new topic replication, select **New**, then fill in the fields on the Create New [Topic Replication form](../tasks/configure-message-topic-reps-sc.md).
+    -   To edit a topic replication, select the replication from the list, select the **Edit** button, then fill in the fields on the Edit [Topic Replication form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-message-topic-reps-sc.md).
+    -   To create a new topic replication, select **New**, then fill in the fields on the Create New [Topic Replication form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-message-topic-reps-sc.md).
 
-You can select a topic replication to view its name, direction, replication, topic name, ServiceNow topic, status, error message \(if any\), if it's active, and if it's being tracked in the current update set. You can also see any associated [Message Replication statistics](../reference/stream-connect-message-rep-stats.md).
+You can select a topic replication to view its name, direction, replication, topic name, ServiceNow topic, status, error message \(if any\), if it's active, and if it's being tracked in the current update set. You can also see any associated [Message Replication statistics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/stream-connect-message-rep-stats.md).
 
 ## Alerts
 
 View active alerts and each alert's severity level, state, type, and affected entity.
 
-![User interface for the Stream Connect dashboard Alerts page.](../images/sc-dashboard-alerts.png "Stream Connect Dashboard Alerts page")
+![User interface for the Stream Connect dashboard Alerts page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dashboard-alerts.png "Stream Connect Dashboard Alerts page")
 
 The Alerts page has the following components.
 
@@ -317,7 +317,7 @@ The Alerts page has the following components.
 
 -   **28. Alert settings**
 
-    Opens the [Alerting Properties](../reference/sc-alert-properties.md) page where you can specify alert properties and how alerts are managed.
+    Opens the [Alerting Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/sc-alert-properties.md) page where you can specify alert properties and how alerts are managed.
 
 -   **29. Alerts list**
 
@@ -326,7 +326,7 @@ The Alerts page has the following components.
 
 You can select an alert from the list to view detailed information for that alert.
 
-![User interface for an individual alert page on the Stream Connect dashboard.](../images/sc-dash-alert.png "Individual Alert page")
+![User interface for an individual alert page on the Stream Connect dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/sc-dash-alert.png "Individual Alert page")
 
 Each individual alert page has the following components.
 
@@ -339,5 +339,5 @@ Each individual alert page has the following components.
     Displays the alert's log information. Each entry shows when the log was created, its level, and the log message.
 
 
-**Parent Topic:**[Using Stream Connect for Apache Kafka](stream-connect-apache-kafka.md)
+**Parent Topic:**[Using Stream Connect for Apache Kafka](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/stream-connect-apache-kafka.md)
 

@@ -85,5 +85,5 @@ To enable the stakeholder to edit and then respond to the privacy assessment.**N
     4.  Click **Send**.
 
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-privacy-mgmt.md)
 

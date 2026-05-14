@@ -16,15 +16,15 @@ breadcrumb: [Manage hardware asset tasks using the Mobile Agent application, Usi
 
 Scan and put away the assets from the receiving bay in the designated aisle-space using the ServiceNow Agent application.
 
--   **[Put away assets using the ServiceNow Agent application](../task/perform-put-away-mobile-agent-ham.md)**  
+-   **[Put away assets using the ServiceNow Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/perform-put-away-mobile-agent-ham.md)**  
 Scan available assets in the inventory and perform an asset put away task in the designated scanned drop-off location.
 
-**Parent Topic:**[Manage hardware asset tasks using the Mobile Agent application](manage-hardware-asset-tasks-mobile-agent.md)
+**Parent Topic:**[Manage hardware asset tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-hardware-asset-tasks-mobile-agent.md)
 
 **Related topics**  
 
 
-[Manage hardware asset repair tasks using the Mobile Agent application](repair-orders-mobile-agent-ham.md)
+[Manage hardware asset repair tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-orders-mobile-agent-ham.md)
 
-[Manage hardware asset pick tasks using the Mobile Agent application](manage-asset-pick-task-ham-mobile-app.md)
+[Manage hardware asset pick tasks using the Mobile Agent application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-pick-task-ham-mobile-app.md)
 

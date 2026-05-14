@@ -19,27 +19,27 @@ The ServiceNow® Localization Framework application standardizes and enhances th
 
 <table id="table_zmk_3kf_3yb" class="nav-card"><tbody><tr><td>
 
-[Explore Localization Framework![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Localization Framework handles translations and artifacts.](exploring-localization-framework.md)
+[Explore Localization Framework![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how the Localization Framework handles translations and artifacts.](exploring-localization-framework.md)
 
 </td><td>
 
-[Configure Localization Framework![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and implement localization for your instance.](configuring-localization-framework.md)
+[Configure Localization Framework![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up and implement localization for your instance.](configuring-localization-framework.md)
 
 </td><td>
 
-[Request translations![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Make requests for translations and localization.](using-localization-framework.md)
+[Request translations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Make requests for translations and localization.](using-localization-framework.md)
 
 </td></tr><tr><td>
 
-[Create translation projects![](../../../reuse/icons/brand-icons/bus-log-store.svg)Manage and approve projects, and carry out translations for single or bundled localization tasks and artifacts.](projects-localization-framework.md)
+[Create translation projects![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-log-store.svg)Manage and approve projects, and carry out translations for single or bundled localization tasks and artifacts.](projects-localization-framework.md)
 
 </td><td>
 
-[Monitoring Localization Framework![](../../../reuse/icons/brand-icons/bus-infographic.svg)Track Localization Framework performance and behavior.](monitor-localization-framework.md)
+[Monitoring Localization Framework![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-infographic.svg)Track Localization Framework performance and behavior.](monitor-localization-framework.md)
 
 </td><td>
 
-[Localization Framework reference![](../../../reuse/icons/brand-icons/bus-datasheet.svg)Get familiar with specific terminology and other Localization Framework reference materials.](reference-localization-framework.md)
+[Localization Framework reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../../../reuse/icons/brand-icons/bus-datasheet.svg)Get familiar with specific terminology and other Localization Framework reference materials.](reference-localization-framework.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

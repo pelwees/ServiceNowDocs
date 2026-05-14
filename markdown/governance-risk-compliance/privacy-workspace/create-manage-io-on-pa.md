@@ -21,7 +21,7 @@ Role required: sn\_privacy.analyst \(who owns the processing activity\) or sn\_p
 
 ## About this task
 
-It is important to note that only the information objects that are tagged with the **Personal information** tags are available to be added to a processing activity. For more information on how to tag information objects see, [Classify information objects as personal information](tag-io-with-pi.md).
+It is important to note that only the information objects that are tagged with the **Personal information** tags are available to be added to a processing activity. For more information on how to tag information objects see, [Classify information objects as personal information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/tag-io-with-pi.md).
 
 ## Procedure
 
@@ -38,13 +38,13 @@ It is important to note that only the information objects that are tagged with t
 6.  Click **Add**.
 
 
--   **[Modify an information object within a processing activity](edit-an-io-on-a-pa.md)**  
+-   **[Modify an information object within a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/edit-an-io-on-a-pa.md)**  
 Add details such as justification for storing data to an information object after you add it to the processing activity. Adding details enables you to define how the personal data is being processed.
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-privacy-mgmt.md)
 
 **Related topics**  
 
 
-[Modify an information object within a processing activity](edit-an-io-on-a-pa.md)
+[Modify an information object within a processing activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/edit-an-io-on-a-pa.md)
 

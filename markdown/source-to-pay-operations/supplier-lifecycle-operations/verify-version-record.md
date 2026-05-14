@@ -36,12 +36,12 @@ Role required: admin
 
 Remove the unique constraint from Email Domain.
 
-**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](enable-m2m-supplier-contacts.md)
+**Parent Topic:**[Enable M2M mapping between supplier contact and suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-m2m-supplier-contacts.md)
 
 **Related topics**  
 
 
-[Run the fix script to enable M2M mapping](run-fix-script.md)
+[Run the fix script to enable M2M mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script.md)
 
-[Remove the unique constraint from Email Domain](remove-unique-constraint.md)
+[Remove the unique constraint from Email Domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-unique-constraint.md)
 

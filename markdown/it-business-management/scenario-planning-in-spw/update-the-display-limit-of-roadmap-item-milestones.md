@@ -88,5 +88,5 @@ Desired display limit count
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Prioritization display settings in Strategic Planning](../concept/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
+**Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 

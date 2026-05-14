@@ -17,7 +17,7 @@ Reset the existing mapping configuration for multiple Jira projects to a default
 
 ## Before you begin
 
--   [Discover and import Jira projects and boards](discover-projects.md)
+-   [Discover and import Jira projects and boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/discover-projects.md)
 -   Role required: sn\_jira\_int.user
 
 ## About this task
@@ -91,5 +91,5 @@ From the Project Style Mappings form, click **Reset Mappings**.
 
 The mapping configuration of the projects is updated to as per the **Default Mapping** field in the Project Style Mappings form that the selected projects belong to.
 
-**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](setting-up-the-integration-between-jira-and-agile-development.md)
+**Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/setting-up-the-integration-between-jira-and-agile-development.md)
 

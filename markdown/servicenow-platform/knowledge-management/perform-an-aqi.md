@@ -46,7 +46,7 @@ Configure the **glide.knowman.aqi.article\_workflow\_states** property to set th
 
     **Note:** The associated **Weighted Score** is applied to the AQI score when the answer is set to **true.**
 
-    ![AQI Checklist Summary..](../image/KnowledgeTrueFalse.png)
+    ![AQI Checklist Summary..](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeTrueFalse.png)
 
     **Note:**
 
@@ -95,5 +95,5 @@ Click **Update** and return to the **Article Checklist Summaries** list. The che
 
 To view all the AQI reviews you completed, navigate to **Knowledge** &gt; **My Completed AQI Checklists**.
 
-**Parent Topic:**[Use Article Quality Index](../concept/use-article-quality-index.md)
+**Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/use-article-quality-index.md)
 

@@ -59,16 +59,16 @@ Create a standard change request for servers and attached storage.
 7.  Select **Update**.
 
 
-**Parent Topic:**[Create a change request](t_CreateAChange.md)
+**Parent Topic:**[Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
 **Related topics**  
 
 
-[Create a change request from a configuration item \(CI\)](t_CreateAChangeFromACI.md)
+[Create a change request from a configuration item \(CI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChangeFromACI.md)
 
-[Copy a change request](copy-a-change-request.md)
+[Copy a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)
 
-[Create a change task](create-a-change-task.md)
+[Create a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-task.md)
 
-[Unauthorized change request](../concept/unauthorized-change-request.md)
+[Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/unauthorized-change-request.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_pace.admin
 
 4.  In the **Add Tag** field, enter the required tag.
 
-    ![Policy dialog and tag icon.](../image/pace-tag-icon-2.jpg)
+    ![Policy dialog and tag icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-tag-icon-2.jpg)
 
 5.  Press **Enter** to add the tag.
 

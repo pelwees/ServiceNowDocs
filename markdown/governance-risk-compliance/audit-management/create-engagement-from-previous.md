@@ -30,5 +30,5 @@ Role required: sn\_audit.admin or sn\_audit.manager
 4.  Right-click the header of the engagement and click **Copy Engagement**.
 
 
-**Parent Topic:**[Manage engagements](../concept/c_Engagements.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../concept/c_Engagements.md)
 

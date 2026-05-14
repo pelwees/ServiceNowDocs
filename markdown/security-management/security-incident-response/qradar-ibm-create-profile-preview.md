@@ -33,7 +33,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 3.  Review the field mapping of the offense values on the security incident.
 
-    ![IBM QRadar: Create Profile: Preview](../image/ibm-qradar-profile-preview-1.png)
+    ![IBM QRadar: Create Profile: Preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-profile-preview-1.png)
 
     The preceding image is an example of a preview with a mapping error of the samples that were ingested.
 
@@ -45,7 +45,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
     The following figure is an example of the Incident Details tab on the bottom half of a SIR security incident after all error messages are resolved.
 
-    ![Work note and Description fields on the security incident preview.](../image/ibm-qradar-profile-preview-2.png)
+    ![Work note and Description fields on the security incident preview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-profile-preview-2.png)
 
     **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
@@ -54,5 +54,5 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 ## What to do next
 
-If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to define the schedule. For more information, see [Define schedule](qradar-ibm-create-profile-schedule.md).
+If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to define the schedule. For more information, see [Define schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-ibm-create-profile-schedule.md).
 

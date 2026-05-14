@@ -142,5 +142,5 @@ Details for the execution that is currently running.
 **Related topics**  
 
 
-[Rightsizing resources](../concept/rs-cloudin.md)
+[Rightsizing resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/rs-cloudin.md)
 

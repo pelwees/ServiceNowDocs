@@ -33,10 +33,10 @@ In conversational catalog requests, the system extracts contextual information s
 -   Stated an urgency or preferred resolution date, those values prefill date or priority fields on the catalog item.
 -   Described a business justification or request reason earlier in the conversation, that text prefills a description or justification variable.
 
-**Parent Topic:**[Now Assist in Conversational Catalog Request](now-assist-in-conversational-catalog-request.md)
+**Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 
 **Related topics**  
 
 
-[Prefilling variable values on the catalog item form in the portal and Next Experience UIs](prefill-variable-values-catalog-item-form.md)
+[Prefilling variable values on the catalog item form in the portal and Next Experience UIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/prefill-variable-values-catalog-item-form.md)
 

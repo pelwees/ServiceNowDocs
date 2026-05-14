@@ -31,15 +31,15 @@ After reviewing the security incident and the file or URL, you can select the **
 
 3.  On the **Observables** tab, select a record or multiple records for which you want to perform malware or threat analysis and select **Submit to Sandbox**.
 
-    ![Submit to sandbox for malware analysis.](../image/submit-to-sandbox.png)
+    ![Submit to sandbox for malware analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/submit-to-sandbox.png)
 
 4.  When the File Submission filter appears, select your preferred sandbox configuration in **Submission configuration**, and select **Submit to Sandbox**.
 
-    ![Filter and submit files to the sandbox.](../image/observable-submission-sandbox.png)
+    ![Filter and submit files to the sandbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/observable-submission-sandbox.png)
 
 5.  Select **Additional runtime options** if you want to provide further custom options.
 
-    ![File submission with additional runtime options.](../image/observable-submission-dialog-box.png)
+    ![File submission with additional runtime options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/observable-submission-dialog-box.png)
 
     |Field|Description|
     |-----|-----------|
@@ -54,5 +54,5 @@ After reviewing the security incident and the file or URL, you can select the **
 
 ## What to do next
 
-When you submit the observables to the sandbox for malware analysis, [view the sandbox submission results](view-sandbox-submission-results.md) to take the next steps on potential threats.
+When you submit the observables to the sandbox for malware analysis, [view the sandbox submission results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-sandbox-submission-results.md) to take the next steps on potential threats.
 

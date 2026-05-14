@@ -77,7 +77,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Set MID Server property to discover v4**
 
-    Enable Nutanix v4 discovery by setting MID Server property value to the exact v4 version. For more information, see [Enable Nutanix v4 discovery](../task/enable-nutanix-v4-discovery.md).
+    Enable Nutanix v4 discovery by setting MID Server property value to the exact v4 version. For more information, see [Enable Nutanix v4 discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/enable-nutanix-v4-discovery.md).
 
 -   **Configure basic authentication credentials**
 
@@ -85,11 +85,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a serverless discovery schedule**
 
-    Create a discovery schedule to perform targeted discovery of Nutanix components. For more information, see [Create a serverless schedule for Nutanix Acropolis discovery](../task/create-serverless-schedule-nutanix.md).
+    Create a discovery schedule to perform targeted discovery of Nutanix components. For more information, see [Create a serverless schedule for Nutanix Acropolis discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/create-serverless-schedule-nutanix.md).
 
 -   **Link Nutanix components to ESX clusters**
 
-    The Nutanix Components pattern can discover Nutanix components hosted on ESX clusters, like storage pools, storage containers, and Controller Virtual Machine \(CVM\), but not ESX clusters themselves. Run VMware probe discovery before the Nutanix pattern discovery to link the Nutanix components to their ESX clusters. If you don't, the Nutanix components are linked to Nutanix Prism instead. For more information on VMware probe discovery, see [Discovery for VMware virtualization](../../discovery/concept/c_DiscoverVMwareInfrastructure.md).
+    The Nutanix Components pattern can discover Nutanix components hosted on ESX clusters, like storage pools, storage containers, and Controller Virtual Machine \(CVM\), but not ESX clusters themselves. Run VMware probe discovery before the Nutanix pattern discovery to link the Nutanix components to their ESX clusters. If you don't, the Nutanix components are linked to Nutanix Prism instead. For more information on VMware probe discovery, see [Discovery for VMware virtualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/concept/c_DiscoverVMwareInfrastructure.md).
 
 -   **\(Optional\) Disable CI tag discovery**
 
@@ -308,15 +308,15 @@ The ID of the Nutanix Prism Central. This field has the same value as the **Name
 </td></tr></tbody>
 </table>The graphic illustrates CIs that are part of the Acropolis discovery in deployments that use Nutanix AHV for virtualization.
 
-![Nutanix components](../image/CheckResultNutanixAHV.png "Nutanix components")
+![Nutanix components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CheckResultNutanixAHV.png "Nutanix components")
 
 The graphic illustrates CIs that are part of the Acropolis discovery in deployments that use VMware software for virtualization.
 
-![Nutanix components in deployments using VMware software](../image/CheckResultNutanixVMware.png "Nutanix components in deployments using VMware software")
+![Nutanix components in deployments using VMware software](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/CheckResultNutanixVMware.png "Nutanix components in deployments using VMware software")
 
 The graphic illustrates the Server and Nutanix VM Instance relationship.
 
-![Server and Nutanix VM Instance relationship](../image/nutanix-vmi-server-relationship.png)
+![Server and Nutanix VM Instance relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/nutanix-vmi-server-relationship.png)
 
 ## CI relationships
 
@@ -370,10 +370,10 @@ To display the dashboard, navigate to **Self-Service** &gt; **Dashboards** &gt; 
 
 After upgrading to Discovery Admin Workspace version 1.3.1 \(August 2024 Store\), you can navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights** and use the enhanced dashboard.
 
--   **[Create a serverless schedule for Nutanix Acropolis discovery](../task/create-serverless-schedule-nutanix.md)**  
+-   **[Create a serverless schedule for Nutanix Acropolis discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/create-serverless-schedule-nutanix.md)**  
 Create a serverless schedule to discover Nutanix Acropolis using REST API.
--   **[Enable Nutanix v4 discovery](../task/enable-nutanix-v4-discovery.md)**  
+-   **[Enable Nutanix v4 discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../task/enable-nutanix-v4-discovery.md)**  
 Enable Nutanix v4 discovery by setting the MID Server property value to the exact v4 version.
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

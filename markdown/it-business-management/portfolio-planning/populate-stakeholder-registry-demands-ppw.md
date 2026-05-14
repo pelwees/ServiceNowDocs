@@ -24,10 +24,10 @@ Role required: pps\_admin
 1.  Access the Stakeholder Register record form in one of the following ways.
 
     -   Navigate to **All** &gt; **Project Administration** &gt; **Settings** &gt; **Stakeholders**.
-    -   Navigate to a demand playbook or the **Stakeholders** tab in **Details** page, and select **New**. For more information, see [Access demands](access-demands-ppw.md).
+    -   Navigate to a demand playbook or the **Stakeholders** tab in **Details** page, and select **New**. For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 2.  On the Stakeholder Register record form, fill in the fields.
 
-    For a description of the field values, see [Stakeholder register form](../reference/stakeholder-register-form-ppw.md).
+    For a description of the field values, see [Stakeholder register form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/stakeholder-register-form-ppw.md).
 
 3.  Select **Submit**.
 

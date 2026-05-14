@@ -44,9 +44,9 @@ Role required: admin
 6.  Select **Install**.
 
 
-**Parent Topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-occupancy-connectors.md)
 
-**Previous topic:**[Setup Workplace Connectors for occupancy data](../concept/setup-occupancy-connectors.md)
+**Previous topic:**[Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-occupancy-connectors.md)
 
-**Next topic:**[Integrate Metrikus spoke](../concept/integrate-metrikus-flowdesigner.md)
+**Next topic:**[Integrate Metrikus spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/integrate-metrikus-flowdesigner.md)
 

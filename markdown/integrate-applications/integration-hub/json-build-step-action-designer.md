@@ -48,7 +48,7 @@ Provide a value for each input that your action needs. To add dynamic values, yo
     -   **Number**
     -   **Boolean**
     -   **Array**
-    For arrays and objects, use the plus icon \(![plus icon](../../../build/app-engine-studio/image/plus-icon.png)\) to add name-value pairs to the array or object.
+    For arrays and objects, use the plus icon \(![plus icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../../build/app-engine-studio/image/plus-icon.png)\) to add name-value pairs to the array or object.
 
 -   **In case of empty value**
 
@@ -93,7 +93,7 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
     Data type: **String**
 
-    JSON payload as a string. If you want to use the payload as an object, you can use the [JSON parser step](json-parser-step-action-designer.md) to parse the string.
+    JSON payload as a string. If you want to use the payload as an object, you can use the [JSON parser step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/json-parser-step-action-designer.md) to parse the string.
 
 -   **Step Status**
 

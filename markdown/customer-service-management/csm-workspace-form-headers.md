@@ -13,11 +13,11 @@ breadcrumb: [Form features, CSM Configurable Workspace features, CSM Configurabl
 
 Form headers in CSM Configurable Workspace provide a quick glance of case, account, or contact information.
 
-Form headers typically include the case short description. They can also include the action bar, record tags, and the [record presence component](csm-front-line-case-page.md#section_nbp_lfh_zdc).
+Form headers typically include the case short description. They can also include the action bar, record tags, and the [record presence component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md#section_nbp_lfh_zdc).
 
-![Case form header that shows the short description, record tags, and action buttons such as Close Case, Save, and Assign to me](../image/csm-config-workspace-case-form-header.png "Case form header")
+![Case form header that shows the short description, record tags, and action buttons such as Close Case, Save, and Assign to me](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-workspace-case-form-header.png "Case form header")
 
-For more information, see [Set up a form header in CSM Configurable Workspace](../task/config-csm-config-ws-form-header.md)
+For more information, see [Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-form-header.md)
 
 **Note:** One form header configuration, **CSM/FSM Configurable Workspace Header Config**, is included with CSM Configurable Workspace.
 
@@ -30,9 +30,9 @@ The Record Information tab in the contextual side panel can include the followin
 -   Overview: Displays relevant information about the case including the account and contact, the case priority, and the state.
 -   Active SLA: Displays active SLAs for the case, including time remaining, the SLA state, and any breaches.
 
-The cards that appear in the Record Information tab can be configured in the ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](../task/config-csm-config-ws-ribbon.md).
+The cards that appear in the Record Information tab can be configured in the ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/config-csm-config-ws-ribbon.md).
 
-![The overview card shows the customer information, the case priority, and case state.](../image/csm-config-workspace-case-form-header-sidebar.png "Overview card in the Record Information tab")
+![The overview card shows the customer information, the case priority, and case state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/csm-config-workspace-case-form-header-sidebar.png "Overview card in the Record Information tab")
 
 ## Form header components
 

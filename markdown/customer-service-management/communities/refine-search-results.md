@@ -34,5 +34,5 @@ Role required: sn\_communities.community\_user
     The search results page displays content based on the filter criteria.
 
 
-**Parent Topic:**[Search the community](search.md)
+**Parent Topic:**[Search the community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/search.md)
 

@@ -21,7 +21,7 @@ Those plans, in turn, create a sequence of required tasks. You can add an approv
 
 From the left navigation pane, select **Service Catalog** &gt; **Execution Plans**, and then select the plan to which to add an approval step. Then click the **New Approval** button.
 
-![Add an approval](../image/AddApproval.png "Add approval")
+![Add an approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/AddApproval.png "Add approval")
 
 The Approval Task screen appears. Just like a regular Service Catalog execution task, an approval execution task has:
 
@@ -35,11 +35,11 @@ After you create the task, right click the title bar and select **Save**. Two re
 -   **Approved By Group**: A list of groups that must approve the request before this task is complete
 -   **Approved By**: A list of users who must approve the request before this task is complete
 
-![Approval task](../image/ApproveTask.png "Approval task")
+![Approval task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../image/ApproveTask.png "Approval task")
 
 In the example above, this security approval task must be approved by Fred Luddy.
 
 **Note:** When an in-process approval is rejected, that particular line item is canceled as well, but the request itself isn't necessarily canceled. Thus if one ordered a blackberry and a laptop, and the blackberry was rejected, the laptop request would continue being processed.
 
-**Parent Topic:**[Approval rules](c_ApprovalRules.md)
+**Parent Topic:**[Approval rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ApprovalRules.md)
 

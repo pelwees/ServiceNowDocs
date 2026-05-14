@@ -25,7 +25,7 @@ Role required: admin
 
     &lt;table-name&gt; is the name of the table in the MetricBase database that contains the metric you want to view.
 
-2.  Click the menu icon \(![Menu icon](../../../product/configuration-management/image/menu-icon.png)\) above the metric column, and select **Time Series Chart**.
+2.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../../../product/configuration-management/image/menu-icon.png)\) above the metric column, and select **Time Series Chart**.
 
 3.  Change the **Time Span** and **Transform** fields to evaluate the data.
 

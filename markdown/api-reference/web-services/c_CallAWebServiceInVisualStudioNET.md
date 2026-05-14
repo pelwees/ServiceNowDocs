@@ -23,12 +23,12 @@ On the resulting form, we created a richTextBox \(which we named 'richTextBoxRes
 
 ![](../image/DotNetExampleForm.png "Dot net example form")
 
--   **[Use a service reference in a C Sharp integration](c_UseAServiceReference.md)**  
+-   **[Use a service reference in a C Sharp integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_UseAServiceReference.md)**  
 Use a wizard to add a service reference for a C Sharp integration.
--   **[Use a web reference in a C Sharp integration](c_UseAWebReference.md)**  
+-   **[Use a web reference in a C Sharp integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_UseAWebReference.md)**  
 Use a wizard to add a web reference for a C Sharp integration.
--   **[C Sharp integration source code](c_SourceCode.md)**  
+-   **[C Sharp integration source code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SourceCode.md)**  
 After defining the source code, insert it.
 
-**Parent Topic:**[Web services C Sharp .NET end to end tutorial](c_CSharpNETEndEnd.md)
+**Parent Topic:**[Web services C Sharp .NET end to end tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_CSharpNETEndEnd.md)
 

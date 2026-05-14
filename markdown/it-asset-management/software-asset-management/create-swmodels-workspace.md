@@ -35,11 +35,11 @@ You must manually create a software model if a publisher part number isn’t ava
 
 4.  Select **New**.
 
-    ![Create a software model in workspace](../image/create-sw-model-workspace.png) ![]()
+    ![Create a software model in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/create-sw-model-workspace.png) ![]()
 
 5.  On the Create New Software Model page, fill in the details in the fields.
 
-    See [Software model fields](../reference/software-model-fields.md).
+    See [Software model fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md).
 
 6.  Select **Save**.
 
@@ -47,31 +47,31 @@ You must manually create a software model if a publisher part number isn’t ava
 
 7.  Specify whether your software publisher is part of a suite.
 
-    -   To designate your software model as a suite parent, select [Suite Parents](../reference/software-model-fields.md#section_ln4_wyp_l3b) and add all software included with the suite.
-    -   To designate your software model as a suite component, select [Suite Components](../reference/software-model-fields.md#section_bdp_kmc_xhb) and add the parent suite.
+    -   To designate your software model as a suite parent, select [Suite Parents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_ln4_wyp_l3b) and add all software included with the suite.
+    -   To designate your software model as a suite component, select [Suite Components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_bdp_kmc_xhb) and add the parent suite.
     **Note:** If you have added a discovery map to your product details, predefined suites are used and suite components are created automatically for known suite parent.
 
-8.  View all the product lifecycles associated with your software model by selecting [Software Product Lifecycle](../reference/software-model-fields.md#section_uvx_mbq_l3b).
+8.  View all the product lifecycles associated with your software model by selecting [Software Product Lifecycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_uvx_mbq_l3b).
 
     Select **New** to create a custom product life-cycle.
 
-9.  View the override license cost for your entitlements by selecting [Override License Cost](../reference/software-model-fields.md#section_acq_cgl_4jb).
+9.  View the override license cost for your entitlements by selecting [Override License Cost](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_acq_cgl_4jb).
 
-10. Set the attribute value by selecting the [Metric Attributes](../reference/software-model-fields.md#section_zcb_j4z_4hb) and complete the form.
+10. Set the attribute value by selecting the [Metric Attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_zcb_j4z_4hb) and complete the form.
 
     When you add an attribute value, entitlements with this publisher information associated with them automatically have the **Metric Group** field populated. Based on the metric group, only license metrics related to the publisher are available.
 
 11. Associate your software model with a vendor by selecting [Vendor Catalog Items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAVendorCatalogItem.md) and complete the form.
 
-12. Specify the number of devices or users that are accessing the software by selecting [Client Access](../reference/software-model-fields.md#section_yhc_y3q_l3b) and complete the form.
+12. Specify the number of devices or users that are accessing the software by selecting [Client Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_yhc_y3q_l3b) and complete the form.
 
-13. To create a new record for the software downgrade rights, select [Downgrade Rights](../reference/software-model-fields.md#section_x5s_j4z_4hb) and complete the form.
+13. To create a new record for the software downgrade rights, select [Downgrade Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/software-model-fields.md#section_x5s_j4z_4hb) and complete the form.
 
-    **Note:** If your software model has a discovery map associated with it and the discovery map has downgrade rights, the downgrade rights are populated automatically. Downgraded versions of the software appear in a hierarchical list. For more information, see [Downgrade Rights](../concept/downgrade-rights.md).
+    **Note:** If your software model has a discovery map associated with it and the discovery map has downgrade rights, the downgrade rights are populated automatically. Downgraded versions of the software appear in a hierarchical list. For more information, see [Downgrade Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/downgrade-rights.md).
 
 14. To allocate software licenses to all the members of an assignment group, select **Group Allocations** and complete the form.
 
-    For more information about creating a group allocation record, see [Create group allocations](create-group-allocations.md).
+    For more information about creating a group allocation record, see [Create group allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-group-allocations.md).
 
 15. To enable self-service capabilities for the software that is associated with your software model, publish the software model to your service catalog.
 
@@ -84,5 +84,5 @@ You must manually create a software model if a publisher part number isn’t ava
     3.  Select **OK**.
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

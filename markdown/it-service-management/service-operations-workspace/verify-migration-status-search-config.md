@@ -17,7 +17,7 @@ Verify that the search configurations in Service Operations Workspace \(SOW\) ar
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Workspace search configurations** option for ITSM Agent Workspace other features. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](migrate-itsm-agent-workspace-to-sow.md). ![Workspace search configurations migration](../image/mu-workspace-search-config-checkbox.png)
+When performing the migration, you must have selected the **Workspace search configurations** option for ITSM Agent Workspace other features. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md). ![Workspace search configurations migration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-workspace-search-config-checkbox.png)
 
 Role required: admin
 
@@ -37,24 +37,24 @@ When migrating the search configuration from ITSM Agent Workspace to SOW, the **
         -   To open ITSM Agent Workspace, enter `<instance-name>.service-now/workspace` in the web browser.
     2.  Use the Global search on the SOW landing \(Home\) page to search all the record types such as Incident, User, or Knowledge.
 
-        The search result displays the records in the order specified in the SOW search config table that contains all the application search sources along with the order value, migrated from ITSM Agent Workspace.![Search using global search in SOW](../image/mu-search-config-sow-home.png)
+        The search result displays the records in the order specified in the SOW search config table that contains all the application search sources along with the order value, migrated from ITSM Agent Workspace.![Search using global search in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-search-config-sow-home.png)
 
         You can also navigate to **All** &gt; **sow\_search\_config.list** to compare the application search sources and the order value in the Service Operations Workspace Search Config table with the Agent Workspace Search Config table to understand if migration is successful. The following screenshots depict both application search sources on the Service Operations Workspace Search Config table and the Agent Workspace Search Config table.
 
-        The following screenshot depics the application search sources on the Service Operations Workspace Search Config table. ![Application search sources on the Service Operations Workspace Search Config table](../image/mu-search-app-config-sow.png)
+        The following screenshot depics the application search sources on the Service Operations Workspace Search Config table. ![Application search sources on the Service Operations Workspace Search Config table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-search-app-config-sow.png)
 
-        The following screenshot depicts the application search sources on the Agent Workspace Search Config table. ![Application search sources on the Agent Workspace Search Config table](../image/mu-search-app-config-aw.png)
+        The following screenshot depicts the application search sources on the Agent Workspace Search Config table. ![Application search sources on the Agent Workspace Search Config table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/mu-search-app-config-aw.png)
 
 2.  If the migration fails, perform the following steps.
 
     1.  On the migration completion page in SOW Admin Center, select **View migration details**.
 
-    2.  Select the **Go to system logs** \(![Error](../../service-builder/image/sb-service-triangle.png)\) icon.
+    2.  Select the **Go to system logs** \(![Error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-builder/image/sb-service-triangle.png)\) icon.
 
     3.  Review the logs to determine which items failed during migration.
 
-    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](../reference/search-config-migration-itsm-aw-sow.md#section_s4z_14j_dcc) section.
+    4.  For each failed item, identify which step has failed and perform the steps mentioned in the [How the migration works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/search-config-migration-itsm-aw-sow.md#section_s4z_14j_dcc) section.
 
 
-**Parent Topic:**[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/search-config-migration-itsm-aw-sow.md)
+**Parent Topic:**[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/search-config-migration-itsm-aw-sow.md)
 

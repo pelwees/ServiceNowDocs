@@ -26,11 +26,11 @@ Tours contain interactive steps to help train and teach users. Some tours show v
 
 To start a tour, select the show help icon ![](../../../common/image/Banner_HelpIcon.png), and then select **Take a Tour**.
 
-![Zero Copy Connector for ERP systems page with show help option and take a tour button highlighted.](../image/erpc-guided-tour-start.png)
+![Zero Copy Connector for ERP systems page with show help option and take a tour button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-guided-tour-start.png)
 
 You're led through a series of steps. Read the text for each step and perform the required action or select a button such as **Begin Tour** or **Next**.
 
-![Zero Copy Connector for ERP systems page with first step of guided tour displayed.](../image/erpc-guided-tour-first-callout.png)
+![Zero Copy Connector for ERP systems page with first step of guided tour displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-guided-tour-first-callout.png)
 
 To stop a tour at any time, select the **X** on a tour step.
 
@@ -137,5 +137,5 @@ Zero Copy Connector for ERP models list page
 Navigate to **Zero Copy Connector for ERP** &gt; **Zero Copy Connector for ERP Home** and select the models icon ![](../image/erpc-data-model-icon.png).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Zero Copy Connector for ERP](erp-integration-configuration-overview.md)
+</table>**Parent Topic:**[Configuring Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erp-integration-configuration-overview.md)
 

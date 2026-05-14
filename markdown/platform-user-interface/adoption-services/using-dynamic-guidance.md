@@ -34,7 +34,7 @@ Google must be turned on in AI control tower for Dynamic Guidance to work.
 
     1.  Launch Help Center from the instance to find Dynamic Guidance as your voice-enabled guide.
 
-        ![Dynamic guidance](../image/ads-dynamic-guide.png)
+        ![Dynamic guidance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/ads-dynamic-guide.png)
 
     2.  Select **Start**.
 
@@ -44,7 +44,7 @@ Google must be turned on in AI control tower for Dynamic Guidance to work.
 
     2.  Select Dynamic Guidance.
 
-        ![Invoke Dynamic Guidance via Now assist panel](../image/launch-dg-nap.png)
+        ![Invoke Dynamic Guidance via Now assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/launch-dg-nap.png)
 
     3.  Invoke the help agent from Now Assist panel via skill named 'Ask Dynamic Guidance for help'.
 
@@ -58,13 +58,13 @@ Google must be turned on in AI control tower for Dynamic Guidance to work.
 
 7.  Select **Allow** to enable access to the browser tab.
 
-    ![Dynamic Guidance agreement modal](../image/ads-dynamic-guidance-agreement-new.png)
+    ![Dynamic Guidance agreement modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/ads-dynamic-guidance-agreement-new.png)
 
 8.  Allow and enable voice and screen sharing in browser tabs, when prompted.
 
 9.  Ask your question verbally to hear a conversational response real-time.
 
-    ![Dynamic guidance live](../image/ads-dynamic-guidance-hello.png)
+    ![Dynamic guidance live](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/ads-dynamic-guidance-hello.png)
 
     **Note:** The response will be relevant and according to the instance screen you use.
 

@@ -28,5 +28,5 @@ The cart line for each item is updated with the shipping estimate.
     -   Calculate shipping as \[Estimated Shipping as Percentage\] \* \[Quantity\] \* \[Negotiated Unit Price\].
 4.  If 1, 2, and 3 are all null, or the sn\_shop.shipping.estimate.inclusion property is set to false, shipping estimate is shown as Undetermined.
 
-**Parent Topic:**[Shipping cost calculations](shipping-cost-calculations.md)
+**Parent Topic:**[Shipping cost calculations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shipping-cost-calculations.md)
 

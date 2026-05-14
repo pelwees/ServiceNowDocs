@@ -43,11 +43,11 @@ To configure smart links to open in a pop-up or Microsoft Teams tab, admins must
 
 4.  In the Manage Microsoft Teams channel page, select the **Settings** tab.
 
-5.  In the Enable Link Authentication section, under **Step 1. Configure SSO for tenant**, select the **Configure SSO** ![Enables Single Sign-On.](../images/enable-sso-button.png) button.
+5.  In the Enable Link Authentication section, under **Step 1. Configure SSO for tenant**, select the **Configure SSO** ![Enables Single Sign-On.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/enable-sso-button.png) button.
 
     The Single Sign-On \(SSO\) Configuration pop-up opens to inform you that the link directs you to a page to install your tenant and authorize it for SSO. Select **Open**.
 
-    ![SSO Configuration opening dialog box.](../images/msteams-sso-confirm.png)
+    ![SSO Configuration opening dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/msteams-sso-confirm.png)
 
     For more information about configuring Single Sign-On, see [Grant permissions to required Microsoft Azure apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps-mt.md).
 
@@ -55,13 +55,13 @@ To configure smart links to open in a pop-up or Microsoft Teams tab, admins must
 
     -   SSO can only be enabled on one Microsoft Teams tenant at any given time. If SSO is already enabled on another tenant, make sure to switch the tenant so that SSO can be enabled on the new tenant.​
     -   If you have already configured a tenant and would like to change it to another tenant, then you can do so by selecting **Change tenant**. Once you confirm to change the tenant, you are directed to the Microsoft Teams login page for changing the tenant.
-    After entering the tenant information, ensure that you have selected the **Authenticate** button in the SSO section.![Install Azure Apps portal showing SSO is installed.](../images/configure-sso-msteams.png)
+    After entering the tenant information, ensure that you have selected the **Authenticate** button in the SSO section.![Install Azure Apps portal showing SSO is installed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/configure-sso-msteams.png)
 
 6.  After you have configured SSO, you must enter an APP ID.
 
     To Find your APP ID, log into the [Microsoft Teams admin center](https://admin.teams.microsoft.com/policies/manage-apps), navigate to **Manage apps**, select the app you'd like to configure, and fetch the app ID.
 
-    ![Microsoft Teams Admin Center portal open to Manage Apps tab, with App ID highlighted.](../../conversational-interfaces/image/app-ID.png)
+    ![Microsoft Teams Admin Center portal open to Manage Apps tab, with App ID highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../conversational-interfaces/image/app-ID.png)
 
     **Note:** If you are using ServiceNow for Teams app, search for the app ID for ServiceNow for Teams and make sure not to use External App ID.
 
@@ -70,8 +70,8 @@ To configure smart links to open in a pop-up or Microsoft Teams tab, admins must
     You receive a confirmation that your app ID has been saved successfully. You notice that the status of against SSO is green.
 
 
--   **[Configuring smart links in Microsoft Teams](../concept/va-teams-sso.md)**  
+-   **[Configuring smart links in Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-teams-sso.md)**  
 Configure smart links for your Virtual Agent app in Microsoft Teams to enable different link opening experiences.
 
-**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md)
+**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 

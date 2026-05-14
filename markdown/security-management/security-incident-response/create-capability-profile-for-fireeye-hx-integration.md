@@ -107,13 +107,13 @@ Active
 This indicates that the profile is active. When the profile is active, it automatically triggers when a security incident is created that matches the filtering conditions that you have specified in the configuration.
 
 </td></tr></tbody>
-</table>    ![capability profile.](../image/fireeye-profile-config.png)
+</table>    ![capability profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-profile-config.png)
 
     The following figure is an example of a completed form for profile details with Get Host Details capability.
 
 4.  Click **Next** to continue to Profile Configuration.
 
-    ![Capability profile](../image/fireeye-profile-config.png)
+    ![Capability profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/fireeye-profile-config.png)
 
     **Note:** Isolate Host, Remove Host Isolation and Get File capabilities cannot be clubbed with other capabilities.
 

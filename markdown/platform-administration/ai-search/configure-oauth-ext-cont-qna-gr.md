@@ -18,7 +18,7 @@ Configure the settings that External Content Q&amp;A Genius Results need to inte
 
 ## Before you begin
 
-The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
 
 You must have already completed the following tasks:
 
@@ -75,19 +75,19 @@ Administrators need to perform this one-time procedure to enable External Conten
 
     2.  In the OAuth Entity Profiles related list, verify that an OAuth entity profile record appears with **Is default** set to **true** and **Grant type** set to **Authorization Code**.
 
-        ![OAuth Entity Profiles related list showing entity profile record with correct field values.](../image/oauth-entity-profiles-related-list.png)
+        ![OAuth Entity Profiles related list showing entity profile record with correct field values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/oauth-entity-profiles-related-list.png)
 
     3.  Open the new OAuth entity profile record in form view by selecting its name.
 
     4.  On the OAuth Entity Profile form, in the OAuth Entity Profile Scopes related list, double-click **Insert a new row**, then select the Lookup using list icon ![](../image/icon-lookup-using-list.png).
 
-        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Insert a new row… link highlighted.](../image/oauth-entity-profile-form.png)
+        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Insert a new row… link highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/oauth-entity-profile-form.png)
 
-        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Lookup using list icon highlighted.](../image/oauth-entity-profile-lookup.png)
+        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Lookup using list icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/oauth-entity-profile-lookup.png)
 
     5.  On the OAuth Entity Scopes form, select **New**.
 
-        ![OAuth Entity Scopes list view with New button highlighted.](../image/oauth-entity-scopes-new.png)
+        ![OAuth Entity Scopes list view with New button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/oauth-entity-scopes-new.png)
 
     6.  On the OAuth Entity Scope form, fill in the fields:
 
@@ -113,7 +113,7 @@ OAuth provider
 
 </td><td>
 
-Select or enter the name of the Application Registry record that you created in step [1.e](configure-oauth-ext-cont-qna-gr.md#create-application-registry-record).
+Select or enter the name of the Application Registry record that you created in step [1.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-oauth-ext-cont-qna-gr.md#create-application-registry-record).
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
     8.  In the OAuth Entity Profile Scopes related list, select the Save \(Enter\) icon ![](../../list-administration/image/IconSave.png).
 
-        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Save (Enter) icon highlighted.](../image/oauth-entity-scopes-save.png)
+        ![OAuth Entity Profile form with OAuth Entity Profile Scopes related list's Save (Enter) icon highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/oauth-entity-scopes-save.png)
 
         The new OAuth entity scope record appears in the OAuth Entity Profile Scopes related list.
 
@@ -163,14 +163,14 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
     4.  If the **Integration Type** field isn't visible on the OAuth 2.0 Credentials form, configure the form layout to make the field visible.
 
-        For details on configuring a form layout, see [Configuring the form layout](../../form-administration/concept/configure-form-layout.md#).
+        For details on configuring a form layout, see [Configuring the form layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../form-administration/concept/configure-form-layout.md#).
 
     5.  On the OAuth 2.0 Credentials form, fill in the fields:
 
         |Field|Value|
         |-----|-----|
         |Name|Enter a name of your choice for the OAuth 2.0 credential record.|
-        |OAuth Entity Profile|Select the new OAuth entity profile record associated with the Application Registry record that you created in step [1.e](configure-oauth-ext-cont-qna-gr.md#create-application-registry-record).|
+        |OAuth Entity Profile|Select the new OAuth entity profile record associated with the Application Registry record that you created in step [1.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-oauth-ext-cont-qna-gr.md#create-application-registry-record).|
         |Integration Type|Select **Personal**.|
 
     6.  Select **Submit**.
@@ -183,16 +183,16 @@ Enter `offline_access https://<root-site>.sharepoint.com/.default`, replacing `<
 
     2.  Open the **MicrosoftSharePointOnlineforAISearch** alias record in form view by selecting it.
 
-    3.  In the Connections related list, select the connection record that you created in step [3.e](configure-oauth-ext-cont-qna-gr.md#create-https-connection-record).
+    3.  In the Connections related list, select the connection record that you created in step [3.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-oauth-ext-cont-qna-gr.md#create-https-connection-record).
 
-    4.  On the HTTP\(s\) Connection form, select the **Credential** field's Lookup using list icon ![](../image/icon-lookup-using-list.png), then select the credential that you defined in step [4](configure-oauth-ext-cont-qna-gr.md#define-oauth-2.0-credential).
+    4.  On the HTTP\(s\) Connection form, select the **Credential** field's Lookup using list icon ![](../image/icon-lookup-using-list.png), then select the credential that you defined in step [4](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-oauth-ext-cont-qna-gr.md#define-oauth-2.0-credential).
 
     5.  Select **Update**.
 
 
 ## What to do next
 
-You can optionally configure a Microsoft Keyword Query Language \(KQL\) query to restrict the set of Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results search for relevant documents. For details on defining this KQL query, see [Restrict the Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results can search](filter-spo-sites-ext-cont-qa-gr.md).
+You can optionally configure a Microsoft Keyword Query Language \(KQL\) query to restrict the set of Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results search for relevant documents. For details on defining this KQL query, see [Restrict the Microsoft SharePoint Online sites that External Content Q&amp;A Genius Results can search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/filter-spo-sites-ext-cont-qa-gr.md).
 
-**Parent Topic:**[External Content Q&amp;A Genius Results](../concept/external-content-qna.md)
+**Parent Topic:**[External Content Q&amp;A Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/external-content-qna.md)
 

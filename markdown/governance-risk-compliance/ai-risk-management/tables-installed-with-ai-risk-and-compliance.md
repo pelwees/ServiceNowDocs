@@ -66,5 +66,5 @@ AI case
 Consolidates AI-related cases and inquiries, providing a comprehensive view of all AI engagements and support requests.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Risk and Compliance reference](ai-risk-and-compliance-reference.md)
+</table>**Parent Topic:**[AI Risk and Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-reference.md)
 

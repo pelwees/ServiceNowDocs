@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Verify you [Install the Discovery Sensor for OT](install-discovery-sensor-for-ot.md) before registering your Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [Device Management Interface](../concept/dmi.md). Registering the Sensor confirms it can communicate with the Console.
+Verify you [Install the Discovery Sensor for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/install-discovery-sensor-for-ot.md) before registering your Sensor. You must register the Sensor to the Console with the DMI. The DMI is a web-based interface that lets you configure and register the Sensor with the Console. For more information on the DMI, see [Device Management Interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/dmi.md). Registering the Sensor confirms it can communicate with the Console.
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Verify you [Install the Discovery Sensor for OT](install-discovery-sensor-for-ot
 
     Be sure to make a note of the DMI URL displayed after the Sensor is installed. You can use this URL for the DMI. This image shows the DMI URL as https://172.16.241.131:443.
 
-    ![DMI URL](../concept/ot-discovery-console-user-guide/image/dmi-url.png)
+    ![DMI URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/ot-discovery-console-user-guide/image/dmi-url.png)
 
 2.  Using your credentials, log into the DMI.
 

@@ -47,13 +47,13 @@ You can do the following tasks to set the existing time-limited authentication p
 -   Enable multi-provider single sign-on \(SSO\).
 -   Enable the **Active** field in the time limited authentication properties config record.
 
-To learn how to configure the properties, see [Time Limited Authentication Properties form](../reference/iar-time-limited-authentication-properties-form.md).
+To learn how to configure the properties, see [Time Limited Authentication Properties form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../reference/iar-time-limited-authentication-properties-form.md).
 
 To learn more about time-limited authentication, see [Time limited authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/time-based-authentication-with-mfa.md).
 
 ## User criteria for generating the digest link
 
-You can use the sn\_iar\_hr.digest\_link\_user\_criteria system property to get and validate the user criteria for generating the digest link. This link appears in an SMS or email that is sent to the employee. The value should be the sys\_id of the active user criteria. For more information, see [User criteria form](../../universal-request/concept/ur-landing-limitedaccess.md).
+You can use the sn\_iar\_hr.digest\_link\_user\_criteria system property to get and validate the user criteria for generating the digest link. This link appears in an SMS or email that is sent to the employee. The value should be the sys\_id of the active user criteria. For more information, see [User criteria form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/../../universal-request/concept/ur-landing-limitedaccess.md).
 
 Users with the admin and sn\_hr\_core.admin roles can assign the sn\_iar\_hr.digest\_link\_user role. This role is added to the available user criteria to validate if that user qualifies for digest link generation.
 

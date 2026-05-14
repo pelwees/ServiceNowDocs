@@ -133,5 +133,5 @@ Use this toggle button to enable accessibility features.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Use a community profile](community-profile.md)
+**Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 

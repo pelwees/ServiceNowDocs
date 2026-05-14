@@ -19,7 +19,7 @@ Role required: WDF Consumer \(wdf\_consumer\)
 
 ## About this task
 
-Asset detail pages organize information into tabs for easy navigation. The Overview tab provides summary information, while additional tabs offer detailed views of specific aspects like columns, relationships, and lineage. ![View details of a data asset](../image/dc-data-asset-details.png)
+Asset detail pages organize information into tabs for easy navigation. The Overview tab provides summary information, while additional tabs offer detailed views of specific aspects like columns, relationships, and lineage. ![View details of a data asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-data-asset-details.png)
 
 ## Procedure
 
@@ -47,5 +47,5 @@ Asset detail pages organize information into tabs for easy navigation. The Overv
     -   Use the **Show assets details** option to view the details of a related asset.
     -   Move nodes freely across the canvas to customize your layout.
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/find-access-data-assets-dc.md)
 

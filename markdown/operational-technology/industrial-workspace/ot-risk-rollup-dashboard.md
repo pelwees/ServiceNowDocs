@@ -35,7 +35,7 @@ To access the OT Vulnerability Risk Rollup dashboard, you must have the **sn\_ot
 
 You can use the **Site** filter to search for and select the site that you want to view on the dashboard. To access and use the site filter, you must have the **cmdb\_ot\_isa\_viewer** role with access to the site you want to view.
 
-For more information, see [Use the site filter](../../mftg-manufacturing-process-mgr/task/use-business-unit-and-site-filters.md).
+For more information, see [Use the site filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../mftg-manufacturing-process-mgr/task/use-business-unit-and-site-filters.md).
 
-**Parent Topic:**[Using the Industrial Workspace](using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 

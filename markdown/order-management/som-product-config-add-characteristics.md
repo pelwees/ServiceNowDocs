@@ -135,12 +135,12 @@ List of input options that identify the functionality for the characteristic, su
 
 Continue working on other areas related to the product offering or specification. For example:
 
--   [Add product visuals](som-product-config-add-visuals.md)
--   [Add product catalog categories](som-product-config-offering-categories.md)
--   [Create product offering relationships](som-product-config-offering-relationships.md)
--   [Add related contracts to product offerings](som-product-config-related-contracts.md)
--   [Add a unit of measure to a product offering](som-product-config-add-unit-of-measure.md)
--   [Create a product offering version](som-product-config-create-new-version.md)
--   [Create product offering relationship groups](som-product-config-relationship-groups.md)
+-   [Add product visuals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Create product offering relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-relationships.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
+-   [Create product offering relationship groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)
 -   If you're creating technical products such as telecommunications products, you can create the product, service, and resource specification categories and associate them to model categories.
 

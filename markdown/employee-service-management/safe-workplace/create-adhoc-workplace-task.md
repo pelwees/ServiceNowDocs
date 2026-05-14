@@ -77,7 +77,7 @@ Signature template
 
 </td><td>
 
-Task signature template to use for signing off on this task when it is completed.For more information, see [Sign a completed workplace task](../../workplace-service-delivery/task/sign-completed-task-wsd.md).
+Task signature template to use for signing off on this task when it is completed.For more information, see [Sign a completed workplace task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/task/sign-completed-task-wsd.md).
 
 </td></tr><tr><td>
 
@@ -151,12 +151,12 @@ Brief description of the ad hoc task.
 
 6.  Add a checklist to the task to track the actions required to complete it.
 
-    To add the checklist, open the task by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **All**. For more information, see [Create a workplace task checklist](../../workplace-service-delivery/task/create-workplace-task-checklist-wsd.md).
+    To add the checklist, open the task by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **All**. For more information, see [Create a workplace task checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../workplace-service-delivery/task/create-workplace-task-checklist-wsd.md).
 
 
 ## Result
 
 The ad hoc task is added to the list of all tasks that you can view by navigating to **Workplace Core** &gt; **Workplace Tasks** &gt; **All**.
 
-**Parent Topic:**[Managing workplace tasks](workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-maintenance-tasks.md)
 

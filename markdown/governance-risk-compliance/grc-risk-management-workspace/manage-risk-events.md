@@ -42,7 +42,7 @@ For information on how to configure risk event integration in the Risk Workspace
 **Related topics**  
 
 
-[Risk events life cycle](manage-risk-events.md#)
+[Risk events life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage-risk-events.md#)
 
 ## Risk events life cycle
 
@@ -58,12 +58,12 @@ The life cycle for risk events goes through the following stages:
 
 The risk events workflow is summarized in the following figure:
 
-![Workflow of the risk event life cycle](../image/risk-events.png "Risk events workflow")
+![Workflow of the risk event life cycle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-events.png "Risk events workflow")
 
 **Related topics**  
 
 
-[Create a risk event in the Risk Workspace](../../grc-workspace-risk/task/create-risk-event-workspace.md)
+[Create a risk event in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/task/create-risk-event-workspace.md)
 
 ## Relationship between risks, risk events, and risk statements
 
@@ -89,7 +89,7 @@ The Basel categorization is specific to the banking industry. This categorizatio
 -   Business disruption and system failures
 -   Execution, delivery, and process management
 
-For more information, see [Properties installed with Advanced Risk](../../grc-common/reference/advanced-risk-properties.md) and [Properties installed with Risk Management](r_PropInstallWRisk.md)
+For more information, see [Properties installed with Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-common/reference/advanced-risk-properties.md) and [Properties installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_PropInstallWRisk.md)
 
 To enable Basel categorization, set **Show Basel attributes and reports** to **Yes**.
 
@@ -119,7 +119,7 @@ The Governance, Risk, and Compliance: Predictive Intelligence plugin uses Artifi
 
 For example, in an organization with operations in multiple locations, the risk event teams across different locations may be working on similar types of risk events. This challenge results in duplicate efforts to manage the risk events within the organization. This capability reduces the manual effort in managing similar risk events and improves overall organizational efficiency.
 
-You can associate similar risk events only when the main risk event is in the **Analyze** state. Also, the Associate risk event button is unavailable for similar risk events that are in the **New** or **Rejected** state.![Similar risk events](../../grc-workspace-risk/image/similar-risk-event.png)
+You can associate similar risk events only when the main risk event is in the **Analyze** state. Also, the Associate risk event button is unavailable for similar risk events that are in the **New** or **Rejected** state.![Similar risk events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-workspace-risk/image/similar-risk-event.png)
 
 The platform machine learning administrator \(ml\_admin\) can create a solution definition and modify an existing one. You can navigate to **Risk Events** &gt; **Administration** &gt; **Properties** to update the risk event property with the new solution definition name.
 

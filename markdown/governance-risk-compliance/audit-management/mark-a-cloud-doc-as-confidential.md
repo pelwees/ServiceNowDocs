@@ -23,7 +23,7 @@ Role required: sn\_audit.admin or sn\_audit.manager, sn\_grc\_workspace.user
 
 1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
-2.  Select the tasks icon \(![Tasks icon](../image/new-task-icon.png)\).
+2.  Select the tasks icon \(![Tasks icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/new-task-icon.png)\).
 
 3.  Select an engagement in the Engagements list.
 

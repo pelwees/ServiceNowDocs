@@ -90,5 +90,5 @@ Description
     The right pane includes the details of the approval. You can **Reject** or **Approve** the changes.
 
 
-**Parent Topic:**[Journey designer plan configuration approvers](../concept/jny-dsgnr-config-plan-approvers.md)
+**Parent Topic:**[Journey designer plan configuration approvers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-config-plan-approvers.md)
 

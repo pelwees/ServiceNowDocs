@@ -17,12 +17,12 @@ Activate the following plugins to use themes, based on the version of the UI you
 
 **Core UI:** CSS Theme support See [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
-**Parent Topic:**[CSS theme support](../concept/c_CSSThemeSupport.md)
+**Parent Topic:**[CSS theme support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_CSSThemeSupport.md)
 
 **Related topics**  
 
 
-[Create or customize a theme](../task/t_CreateOrCustomizeATheme.md)
+[Create or customize a theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../task/t_CreateOrCustomizeATheme.md)
 
-[Default CSS styles](r_DefaultCSSStyle.md)
+[Default CSS styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/r_DefaultCSSStyle.md)
 

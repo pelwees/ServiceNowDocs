@@ -20,12 +20,12 @@ Add a value stream to a process to create an efficient workflow.
 |Order|The sequence of the activity within the value stream with which the business process is to be associated.|
 |Value stream stage|The specific stage of the value stream that is to be associated with the business process.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring value streams](../../concept/eaw-concept/eaw-value-streams.md)
+[Exploring value streams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-value-streams.md)
 
-[Add value stream stages to a value stream](../../task/eaw-task/eaw-add-vs-stages-to-a-vs.md)
+[Add value stream stages to a value stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-vs-stages-to-a-vs.md)
 

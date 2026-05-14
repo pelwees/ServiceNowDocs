@@ -114,7 +114,7 @@ Privacy business user \[sn\_privacy.business\_user\]
 
 </td><td>
 
-Privacy business users can edit the assigned processing activities in the [Discover state](../concept/stages-pa.md), and also respond to the assessments.
+Privacy business users can edit the assigned processing activities in the [Discover state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/stages-pa.md), and also respond to the assessments.
 
 </td><td>
 
@@ -189,5 +189,5 @@ Users with the lite operator role can do the following:
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Privacy Management reference](privacy-mgmt-reference.md)
+</table>**Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 

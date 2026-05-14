@@ -17,7 +17,7 @@ Add your customized test suites as part of an application deployment in addition
 
 ## Before you begin
 
-Because the ATF and instance scan suites exist only on testing instances, you must have your pipeline set up to complete this task. For more information, see [Configure your pipeline environments](../../pipelines-and-deployments/task/config-pipeline-environments.md).
+Because the ATF and instance scan suites exist only on testing instances, you must have your pipeline set up to complete this task. For more information, see [Configure your pipeline environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../pipelines-and-deployments/task/config-pipeline-environments.md).
 
 Role required: admin
 

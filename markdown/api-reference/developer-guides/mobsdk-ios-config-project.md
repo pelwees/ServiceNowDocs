@@ -21,11 +21,11 @@ Before writing any application that leverages the Mobile SDK for iOS, you must c
 
     1.  In Xcode, drag the NowKit folder from Finder on to your Project Navigator pane \(⌘+1\). Xcode recognizes the folder as a Swift package and displays a folder icon next to **NowKit**.
 
-        ![NowKit menu](../image/mobile_skd-ios-nowkit-menu.png)
+        ![NowKit menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobile_skd-ios-nowkit-menu.png)
 
     2.  Add the Mobile SDK to your target in the **Frameworks, Libraries, and Embedded Content** section of the project’s general settings by pressing the **+** icon and selecting the **NowKit** framework from the presented list.
 
-        ![Target framework screen](../image/mobile_sdk-ios-target-framework.png)
+        ![Target framework screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../image/mobile_sdk-ios-target-framework.png)
 
 2.  Update your project settings.
 

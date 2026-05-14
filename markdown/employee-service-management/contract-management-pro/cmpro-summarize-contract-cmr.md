@@ -19,7 +19,7 @@ Generate summaries, frequently asked questions \(FAQs\), or ask questions to ret
 ## Before you begin
 
 -   The smart documents skill must be activated. For more information, see [Configure the Smart Documents Skill for Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-skill-smart-documents.md).
--   Your role and relevant tables must be configured to use this feature. For more information, see [Configuring contract summarization for Contract Management Pro](cmpro-conf-cntr-summary.md).
+-   Your role and relevant tables must be configured to use this feature. For more information, see [Configuring contract summarization for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-cntr-summary.md).
 -   The Now Assist panel must be enabled. For more information, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 -   Role required: sn\_cm\_core.contract\_fulfiller
 
@@ -65,7 +65,7 @@ Workspace used by your application
 </td></tr></tbody>
 </table>2.  In the **Contract documents** tab, select **Preview document**.
 
-    ![Preview document in a contract request.](../image/cmpro-preview-doc.png "Preview contract document")
+    ![Preview document in a contract request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-preview-doc.png "Preview contract document")
 
 3.  In the Preview document window, select the contract type, and then select **Preview**.
 
@@ -73,16 +73,16 @@ Workspace used by your application
 
 4.  Select **Ask Now Assist**.
 
-    ![Summarize button in the document viewer used to generate summary of a contract.](../image/cmpro-summarize-doc.png "Ask Now Assist")
+    ![Summarize button in the document viewer used to generate summary of a contract.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-summarize-doc.png "Ask Now Assist")
 
     The Now Assist panel opens where you can select the option to summarize the contract, generate FAQs from the document, or ask questions to gain specific insights on the document.
 
-    ![Now Assist panel displaying options to summarize the document, generate FAQs, and ask questions.](../image/cmpro-summary-nap.png "Contract summary options in the Now Assist panel")
+    ![Now Assist panel displaying options to summarize the document, generate FAQs, and ask questions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-summary-nap.png "Contract summary options in the Now Assist panel")
 
     For more information on using Now Assist for generating summaries, see [Generate a document summary by using Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/generate-document-summary-now-assist.md) and [Generate summary and ask questions using Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ask-questions-faqs-now-assist.md).
 
     You can also summarize supporting documents and signed contracts using Ask Now Assist in the document viewer.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

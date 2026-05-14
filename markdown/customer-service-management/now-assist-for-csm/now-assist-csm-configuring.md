@@ -88,7 +88,7 @@ For earlier versions, go to [Application Manager](https://raw.githubusercontent.
 
 [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-[Using agentic AI in Now Assist for Customer Service Management \(CSM\)](csm-ai-agents-use-cases.md)
+[Using agentic AI in Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/csm-ai-agents-use-cases.md)
 
-[Customer Service Management AI agent collection triage cases agentic workflow](case-resolving-use-case.md)
+[Customer Service Management AI agent collection triage cases agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/case-resolving-use-case.md)
 

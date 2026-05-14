@@ -31,7 +31,7 @@ Role required: discovery\_admin
 
 4.  In the Configuration panel, under Data Sources, select the data source card for the visualization you want to update.
 
-    For example, for the Transaction Duration visualization, select the **Discovery Transaction Load** card.![Discovery Transaction Load card](../image/disco-op-monitor-data-source.png)
+    For example, for the Transaction Duration visualization, select the **Discovery Transaction Load** card.![Discovery Transaction Load card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/disco-op-monitor-data-source.png)
 
     The Edit data source page displays.
 
@@ -51,9 +51,9 @@ Role required: discovery\_admin
 **Related topics**  
 
 
-[Discovery Operations Monitor dashboard](../concept/disco-operations-monitor.md)
+[Discovery Operations Monitor dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/disco-operations-monitor.md)
 
-[Configure the time interval for a Discovery Operations Monitor visualization](config-interval-disco-op-mon.md)
+[Configure the time interval for a Discovery Operations Monitor visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-interval-disco-op-mon.md)
 
 [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 

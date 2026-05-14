@@ -21,15 +21,15 @@ The App Engine Management Center \(AEMC\) is a comprehensive tool designed for I
 
 <table id="table_ejv_bk3_sfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about AEMC concepts and features.](exploring-aemc.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about AEMC concepts and features.](exploring-aemc.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AEMC, Application Intake, and Pipelines and Deployments.](configuring-aemc.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure AEMC, Application Intake, and Pipelines and Deployments.](configuring-aemc.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-management-console.svg)Use AEMC to manage app development and deployments.](using-aemc.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../../reuse/icons/brand-icons/bus-management-console.svg)Use AEMC to manage app development and deployments.](using-aemc.md)
 
 </td><td>
 

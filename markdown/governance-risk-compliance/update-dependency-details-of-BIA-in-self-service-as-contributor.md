@@ -32,5 +32,5 @@ If you are a BCM contributor and are part of the Contributors list or you are a 
 5.  To update the record, select **Update**.
 
 
-**Parent Topic:**[Structured workflows for BIAs](../concept/bia-tasks-performed-by-bia-owner.md)
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/bia-tasks-performed-by-bia-owner.md)
 

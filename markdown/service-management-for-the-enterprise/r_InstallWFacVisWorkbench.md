@@ -15,20 +15,20 @@ Several types of components are installed with the Facilities Visualization Work
 
 Demo data is available with Facilities Visualization Workbench.
 
--   **[Tables installed with Facilities Visualization Workbench](r_TableInstallWFacVisWorkbench.md)**  
+-   **[Tables installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_TableInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following tables.
--   **[Space Management properties](../../facilities-service-management/reference/SpaceMgmntProperties.md)**  
+-   **[Space Management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../../facilities-service-management/reference/SpaceMgmntProperties.md)**  
 Space Management Properties are available to configure floor plan, parsing, and space management defaults settings. You can control default settings like the color for selected space, compass on a floor plan, and logos and titles to appear.
--   **[System property categories installed with Facilities Visualization Workbench](r_SysPropCatInstallWFacVisWorkbench.md)**  
+-   **[System property categories installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SysPropCatInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following system property categories.
--   **[Script includes installed with Facilities Visualization Workbench](r_ScriptIncInstallWFacVisWorkbench.md)**  
+-   **[Script includes installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ScriptIncInstallWFacVisWorkbench.md)**  
 Script includes are used to store JavaScript that runs on the server.
--   **[Client scripts installed with Facilities Visualization Workbench](r_ClientScrptInstWFac.md)**  
+-   **[Client scripts installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ClientScrptInstWFac.md)**  
 Client scripts define custom behaviors that run when events occur like when a form is loaded or submitted, or a cell changes value.
--   **[Business rules installed with Facilities Visualization Workbench](r_BRIWFaciiltiesVizWorkbench.md)**  
+-   **[Business rules installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_BRIWFaciiltiesVizWorkbench.md)**  
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
--   **[Macros installed with Facilities Visualization Workbench](r_MacrosInstallWFacVisWorkbench.md)**  
+-   **[Macros installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MacrosInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following macros.
 
-**Parent Topic:**[Activate Facilities Visualization Workbench](../task/t_ActivateFacVisWorkbench.md)
+**Parent Topic:**[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../task/t_ActivateFacVisWorkbench.md)
 

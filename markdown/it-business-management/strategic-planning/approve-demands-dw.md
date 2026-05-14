@@ -25,11 +25,11 @@ Role required: demand\_approver, it\_demand\_manager
 
     **Note:** Users with the demand\_approver role only see demands that are in the Qualified state.
 
-    For more information, see [Access demands](access-demand-workspace.md).
+    For more information, see [Access demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select **Approve**.![Use the Approve button to approve a qualified demand.](../images/demands-approve.png)
+3.  Select **Approve**.![Use the Approve button to approve a qualified demand.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demands-approve.png)
 
     **Note:** The **Approve** option is available only when a demand is in the Qualified state.
 

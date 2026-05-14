@@ -19,8 +19,8 @@ Use a previously created role for your application in App Engine Studio \(AES\).
 
 Your application must contain either data or experiences in order to add an existing role. For more information about adding data or experiences to your application, see the following guidance:
 
--   [Create a data model for your application](../concept/add-data.md)
--   [Add an application experience](../concept/add-experience.md)
+-   [Create a data model for your application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-data.md)
+-   [Add an application experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-experience.md)
 
 Role required: admin, sn\_app\_eng\_studio.user, or delegated\_developer
 
@@ -34,13 +34,13 @@ App Engine Studio includes default roles that you can use for your application. 
 
 2.  From the My Apps page, open your application.
 
-3.  In your application, next to Security, select the add icon \(![Add icon](../image/plus-icon.png)\).
+3.  In your application, next to Security, select the add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/plus-icon.png)\).
 
 4.  Select **Use an existing role**, and then select **Continue**.
 
     **Important:** If your application doesn't contain data or experiences, the **Use an existing role** option will appear, but you cannot select it.
 
-    ![Option to use an existing role](../image/use-existing-role-purple.png "Option to use an existing role")
+    ![Option to use an existing role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/use-existing-role-purple.png "Option to use an existing role")
 
 5.  Select the search field and then select a role from the list.
 
@@ -71,5 +71,5 @@ App Engine Studio includes default roles that you can use for your application. 
 9.  Select **Save**.
 
 
-**Parent Topic:**[Add application security](../concept/add-security.md)
+**Parent Topic:**[Add application security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/add-security.md)
 

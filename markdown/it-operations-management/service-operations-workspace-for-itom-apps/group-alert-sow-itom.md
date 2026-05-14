@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 ## About this task
 
-Grouping of this method is most useful when alerts share common data or tags, such as a node or location. You can use fields or tags populated via an enrich automation. Use of alert tags is the best way to group alerts when your CMDB or service maps are immature. This complements our other grouping algorithms, including alert correlation rules, ML, and text-based grouping. Even if a new alert is matched with multiple groups, it is grouped only with the first match, and you can control the priority order of these algorithms via system property. For information on correlation logic order, see [Configure alert correlation logic order](../../event-management/task/configure-alert-correlation-logic-order.md).
+Grouping of this method is most useful when alerts share common data or tags, such as a node or location. You can use fields or tags populated via an enrich automation. Use of alert tags is the best way to group alerts when your CMDB or service maps are immature. This complements our other grouping algorithms, including alert correlation rules, ML, and text-based grouping. Even if a new alert is matched with multiple groups, it is grouped only with the first match, and you can control the priority order of these algorithms via system property. For information on correlation logic order, see [Configure alert correlation logic order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../event-management/task/configure-alert-correlation-logic-order.md).
 
 Alert automation also provides a simulation feature allowing you to test how many alert groups would be formed, how many are left ungrouped, and the compression rate. A higher compression rate means your team is more productive and may be able to identify root causes faster. However, consider whether the groups are accurate, operationally correct, and assigned to the right teams. You may adjust the group criteria until you are satisfied with the resulting groups.
 
@@ -31,7 +31,7 @@ For users familiar with the classic Event Management experience, this feature of
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -39,7 +39,7 @@ For users familiar with the classic Event Management experience, this feature of
 
 4.  Select **Create automation**.
 
-    ![Group alerts page opens.](../image/group-automtion-name.png)
+    ![Group alerts page opens.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/group-automtion-name.png)
 
 5.  In the **Automation name** field, enter the name of the automation for grouping alerts.
 
@@ -47,7 +47,7 @@ For users familiar with the classic Event Management experience, this feature of
 
 6.  In the **If these conditions are met** section, set up filter criteria to identify the alerts that you want to group.
 
-    ![Group alerts conditions.](../image/group-automation-operator.png)
+    ![Group alerts conditions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/group-automation-operator.png)
 
     1.  From the **Assignment group** field menu, select the assignment group to determine which team’s alerts will trigger the automation.
 
@@ -66,7 +66,7 @@ For users familiar with the classic Event Management experience, this feature of
 
 7.  In the **Then, group alerts by the following criteria** section, perform the following steps.
 
-    ![Alert grouping criteria](../image/group-automation-criteria.png)
+    ![Alert grouping criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/group-automation-criteria.png)
 
     1.  In the **Grouping timeframe** field, specify the duration \(in minutes\) when alerts must be collected and grouped together.
     2.  In the **Criteria type** menu, select how you want to group the alerts.
@@ -95,7 +95,7 @@ For users familiar with the classic Event Management experience, this feature of
 
         -   **Impacted service instances**: Alerts are grouped because they affect the same service instance, regardless of topological distance \(hops\) between the alert CIs.
 
-            You can control which service instance must be considered by specifying relevant impacted service instance. When you select **Impacted service instances**, two options are available: **Any service instance** and **Specific service instance**. If you choose **Specific service instance**, you can select one or more service instances from the list, or select the search icon \(![search icon](../../health-log-analytics-operator/image/icon-search-sow.png)\) to open the **Select impacted service instances** pop-up and choose the required service instances.
+            You can control which service instance must be considered by specifying relevant impacted service instance. When you select **Impacted service instances**, two options are available: **Any service instance** and **Specific service instance**. If you choose **Specific service instance**, you can select one or more service instances from the list, or select the search icon \(![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-operator/image/icon-search-sow.png)\) to open the **Select impacted service instances** pop-up and choose the required service instances.
 
             By default, the Impacted service instances grouping criterion is based on the impacted service. It can also be configured to use service associations from the \[svc\_ci\_assoc\] table. You can control whether to use impacted services or service associations using the **sa\_analytics.use\_impacted\_services\_for\_mixed\_grouping** system property. If the property value is `true`, alerts are grouped by impacted services and if the property value is `false`, the alerts are grouped by service associations.
 
@@ -111,7 +111,7 @@ For users familiar with the classic Event Management experience, this feature of
 
 9.  In the **Automation details** section, provide an order and automation description.
 
-    ![Alert grouping automation details](../image/group-automation-details.png)
+    ![Alert grouping automation details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/group-automation-details.png)
 
     1.  In the **Order** field, enter the automation order.
 
@@ -124,7 +124,7 @@ For users familiar with the classic Event Management experience, this feature of
 
     During the simulation, it shows both the grouped alerts and the ungrouped alerts for the specified timeframe. If any alerts are grouped, you are shown the number of alerts that are grouped. You can select this number to view the grouped alerts. Additionally, selecting an individual alert displays the details of that specific alert. You can also modify any alert grouping conditions or field values and initiate the process again by selecting **Re-run test**.
 
-    ![Test automation section](../image/group-automation-test.png)
+    ![Test automation section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/group-automation-test.png)
 
     The header of the Test Automation section also displays the following: matching alerts, alert groups, ungrouped alerts, and compression.
 
@@ -146,5 +146,5 @@ For users familiar with the classic Event Management experience, this feature of
 
 ## What to do next
 
-You can escalate alerts needing quicker responses from teams or individuals by implementing [Create Respond automation](respond-alert-sow-itom.md).
+You can escalate alerts needing quicker responses from teams or individuals by implementing [Create Respond automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 

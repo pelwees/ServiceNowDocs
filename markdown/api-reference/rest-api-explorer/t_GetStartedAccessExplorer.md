@@ -39,12 +39,12 @@ You can use the REST API Explorer to browse available APIs, API versions, and me
 
     The REST API Explorer page opens.
 
-    ![REST API Explorer](../image/Rest_api_explorer.png)
+    ![REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../image/Rest_api_explorer.png)
 
 
 ## Result
 
 You can change the Namespace, API Name, and Version drop-down options to filter to a specific REST API.
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/use-REST-API-Explorer.md)
 

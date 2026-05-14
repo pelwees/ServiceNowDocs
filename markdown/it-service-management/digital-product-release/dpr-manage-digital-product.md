@@ -31,13 +31,13 @@ The mappings between plan versions and software models are stored in the Plan Ve
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the products and services icon \(![Products and services icon.](../image/dpr-icon-products.png)\).
+2.  Select the products and services icon \(![Products and services icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-products.png)\).
 
 3.  Select a product or service from the list to open.
 
 4.  Add features andenhancements to the product.
 
-    -   [Add a product feature to a product or service](dpr-create-product-feature.md)
-    -   [Add an enhancement to a product or service](dpr-create-product-enhancement.md)
-    -   [Add a product enhancement from an epic](dpr-add-product-enhancement-from-epic.md)
+    -   [Add a product feature to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-feature.md)
+    -   [Add an enhancement to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-enhancement.md)
+    -   [Add a product enhancement from an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-enhancement-from-epic.md)
 

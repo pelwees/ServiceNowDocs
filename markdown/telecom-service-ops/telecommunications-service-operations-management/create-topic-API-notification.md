@@ -103,5 +103,5 @@ A topic is created.
 
 ## What to do next
 
-You can create the topic subscription according to the customer requirement. For more information, see [.](create-subscription-api-notification.md)
+You can create the topic subscription according to the customer requirement. For more information, see [.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/create-subscription-api-notification.md)
 

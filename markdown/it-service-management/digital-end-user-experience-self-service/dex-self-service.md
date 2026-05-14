@@ -19,19 +19,19 @@ Digital End-user Experience Self-service \(DEX Self-service\) enables you to mon
 
 <table id="table_x3s_msr_y2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore about Digital End-user Experience Self-service.](exploring-dex-self-service.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../../../reuse/icons/brand-icons/bus-explore.svg)Explore about Digital End-user Experience Self-service.](exploring-dex-self-service.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital End-user Experience Self-service.](configuring-dex-self-service.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Digital End-user Experience Self-service.](configuring-dex-self-service.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Digital End-user Experience Self-service to resolve the device performance issues](using-dex-self-service.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Use Digital End-user Experience Self-service to resolve the device performance issues](using-dex-self-service.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Digital End-user Experience Self-service](../reference/dex-self-service-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Digital End-user Experience Self-service](../reference/dex-self-service-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

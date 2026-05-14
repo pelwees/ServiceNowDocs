@@ -64,5 +64,5 @@ You can also activate the Service Portfolio Management Taxonomy Content Pack plu
 
 Portfolio managers benefit from the Service Portfolio Management Taxonomy Content Pack because it provides a useful example of how service portfolios and services are constructed within the application. This example results in faster modeling of an organization's service portfolio. Also, often portfolio managers must quickly provide the organization an example of a portfolio structure to accelerate decision making regarding business approach.
 
-**Parent Topic:**[Configuring Service Portfolio Management](SPM2-configuring.md)
+**Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
 

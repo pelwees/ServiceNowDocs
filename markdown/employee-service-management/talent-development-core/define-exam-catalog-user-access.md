@@ -21,7 +21,7 @@ Role required: sn\_exam.catalog\_admin
 
 Users configured as part of the admin list, can contribute user criteria or owner of the associated catalog can define user access for the catalog.
 
-Create an exam catalog. For more information, see [Create exam catalogs](create-exam-catalog.md).
+Create an exam catalog. For more information, see [Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md).
 
 ## Procedure
 
@@ -54,5 +54,5 @@ Create an exam catalog. For more information, see [Create exam catalogs](create-
 13. Select **Save**.
 
 
-**Parent Topic:**[Create exam catalogs](create-exam-catalog.md)
+**Parent Topic:**[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-exam-catalog.md)
 

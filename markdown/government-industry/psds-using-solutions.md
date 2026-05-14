@@ -15,11 +15,11 @@ Use solutions in PSDS to perform tasks.
 
 <table id="table_pkt_tl4_zbc" class="nav-card"><tbody><tr><td>
 
-[Grants Management![](../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](psds-using-grants-management-playbook.md)
+[Grants Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-explore-careers.svg)Handle applications for grants submitted by public sector users.](psds-using-grants-management-playbook.md)
 
 </td><td>
 
-[Investigative Case Management![](../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Organize, track, and resolve investigations at all levels of government.](psds-using-icm.md)
+[Investigative Case Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-vulnerability-management-systems.svg)Organize, track, and resolve investigations at all levels of government.](psds-using-icm.md)
 
 </td><td>
 

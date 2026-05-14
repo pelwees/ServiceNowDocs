@@ -33,10 +33,10 @@ Role required: sn\_shop.procurement\_specialist
 
     A case form is displayed with pre-filled data based on the templates that you have configured.
 
-5.  On the form, fill in the required fields.![Displays a Create New Procurement Case form.](../image/procurement_dialog_box.png)
+5.  On the form, fill in the required fields.![Displays a Create New Procurement Case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/procurement_dialog_box.png)
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-pcm.md)
 

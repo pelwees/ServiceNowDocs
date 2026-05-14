@@ -21,7 +21,7 @@ Newly added equipment appears in the equipment list. They can be used for variou
 
 The following image shows an example of the Operational Equipment Model.
 
-![Operational Equipment Model Functional Locations tab](../image/operational-equipment-model.png)
+![Operational Equipment Model Functional Locations tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/operational-equipment-model.png)
 
-**Parent Topic:**[Industrial Data Models](industrial-data-models.md)
+**Parent Topic:**[Industrial Data Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-data-models.md)
 

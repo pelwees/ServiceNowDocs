@@ -24,7 +24,7 @@ The issues landing page is available in the following workspaces:
 
 ## Open the Issues overview landing page
 
-On each of the listed workspaces, you can access the issues by selecting the Issue overview icon \(![Issue landing page.](../image/issue-landing-page.jpg)\).
+On each of the listed workspaces, you can access the issues by selecting the Issue overview icon \(![Issue landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/issue-landing-page.jpg)\).
 
 ![](../image/issues-overview-landing-page.jpg "Issues overview landing page")
 
@@ -159,5 +159,5 @@ Remediation tasks
 This section shows the number of remediation tasks for which the logged-in user is on the watch list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using the Risk Workspace](using-risk-workspace.md)
+</table>**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 

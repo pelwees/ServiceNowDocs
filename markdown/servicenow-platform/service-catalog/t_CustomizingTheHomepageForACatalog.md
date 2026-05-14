@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Select a category in the middle panel of the pop-up window that appears.
 
-    ![Add a category](../image/ServiceCatalogAddCategoriesPopup.png "Service Catalog add categories pop-up window")
+    ![Add a category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogAddCategoriesPopup.png "Service Catalog add categories pop-up window")
 
 4.  Click **Add here** in the location where the category appears on the homepage.
 
@@ -42,7 +42,7 @@ Role required: admin
 9.  Add a shopping cart on the page.
 
 
-**Parent Topic:**[Service catalog home page configuration](../concept/c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ManagingTheHomepageForACatalog.md)
 
 ## Display subcategories in a panel
 

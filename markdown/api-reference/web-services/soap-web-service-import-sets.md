@@ -23,7 +23,7 @@ For example:
 
 `http://<instance name>.service-now.com/imp_notification.do?WSDL`.
 
-**Parent Topic:**[SOAP web service](c_SOAPWebService.md)
+**Parent Topic:**[SOAP web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SOAPWebService.md)
 
 **Related topics**  
 

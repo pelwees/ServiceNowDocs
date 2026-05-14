@@ -17,9 +17,9 @@ Set up the necessary configurations in the Asset operations view to enable the t
 
 As an administrator, configure the following settings to monitor asset KPIs:
 
-1.  [Opt in to model categories to track performance KPIs for hardware assets](../task/opt-in-kpi-tracking-ham.md).
-2.  [Create an operational schedule for hardware assets](../task/create-operational-schedule-ham.md).
-3.  [Map hardware assets to an operational schedule](../task/create-asset-schedule-ham.md).
+1.  [Opt in to model categories to track performance KPIs for hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/opt-in-kpi-tracking-ham.md).
+2.  [Create an operational schedule for hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-operational-schedule-ham.md).
+3.  [Map hardware assets to an operational schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../task/create-asset-schedule-ham.md).
 
-For details on asset performance and the related reports, see [Asset performance reports in the Hardware Asset Workspace](asset-performance-reports-ham.md) and [Asset analytics view](asset-analytics-view.md).
+For details on asset performance and the related reports, see [Asset performance reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-performance-reports-ham.md) and [Asset analytics view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-analytics-view.md).
 

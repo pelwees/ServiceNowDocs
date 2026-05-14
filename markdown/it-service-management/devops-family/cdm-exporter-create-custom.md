@@ -27,13 +27,13 @@ DevOps Config content packs provide a variety of exporters. You can use any of t
 
 ## Procedure
 
-1.  Select the admin icon \(![Admin icon.](../image/icon-admin-wrench.png)\) to open the **Administration** page.
+1.  Select the admin icon \(![Admin icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-admin-wrench.png)\) to open the **Administration** page.
 
 2.  On the **Exporters** tab, select **New**, enter a unique and meaningful name and description, and then select **Confirm**.
 
     The first draft version of the exporter is named **Draft 0.1** and is listed on the **Versions** tab.
 
-    ![DevOps Config validate](../image/cdm-exporter-create.png)
+    ![DevOps Config validate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-exporter-create.png)
 
 3.  Select the **Version name** to open default exporter script on the **Exporter builder** tab.
 

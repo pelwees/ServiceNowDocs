@@ -25,5 +25,5 @@ If other active configurations exist, the system retains EBA restrictions and re
 -   Enhances consistency in releasing record-level access restrictions where applicable.
 -   Minimizes the risk of unintentional data exposure or access gaps during configuration changes.
 
-**Parent Topic:**[Entity Based Access](entity-based-access.md)
+**Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)
 

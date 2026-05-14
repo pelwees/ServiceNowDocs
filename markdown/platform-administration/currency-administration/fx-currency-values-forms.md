@@ -15,7 +15,7 @@ breadcrumb: [FX Currency fields, Explore, Currency administration, Configure cor
 
 In forms, the FX Currency field behaves like a dot walkable field in script. It consists of an entry field, and an accompanying list for selection of a currency code.
 
-Specifically, FX Currency fields that appear on forms contain the following: ![Fx currency field](../images/currency2-field.png)
+Specifically, FX Currency fields that appear on forms contain the following: ![Fx currency field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/currency2-field.png)
 
 -   An empty field for entry of a numeric currency value, formatted according to your assigned user locale. For example, in the US, it is formatted with two decimal places, for entry of cents.
 
@@ -25,7 +25,7 @@ Specifically, FX Currency fields that appear on forms contain the following: ![F
 
     For example, in the US, the default currency value, based on the user locale, is USD. You can select another currency code to use in the current entry session.
 
--   An edit icon \(![Edit icon](../images/currency-edit.png)\). Users with an assigned currency\_instance\_admin role can click it to edit currency detail in the accompanying Currency Instance \[fx\_currency2\_instance\] record.
+-   An edit icon \(![Edit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/../images/currency-edit.png)\). Users with an assigned currency\_instance\_admin role can click it to edit currency detail in the accompanying Currency Instance \[fx\_currency2\_instance\] record.
 
-**Parent Topic:**[FX Currency fields](fx-currency.md)
+**Parent Topic:**[FX Currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md)
 

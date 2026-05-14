@@ -36,16 +36,16 @@ To install Supplier Operations, the following plugins have to be installed:
     -   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
     -   Document Management \(com.snc.platform\_document\_management\)
 
-For more information about installing Supplier Operations, see [Install Supplier Operations](../task/install-supplier-ops.md).
+For more information about installing Supplier Operations, see [Install Supplier Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../task/install-supplier-ops.md).
 
 **Related topics**  
 
 
-[Supplier Case Management](supplier-case-management.md)
+[Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-case-management.md)
 
-[Source-to-Pay Workspace](supplier-manager-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-manager-workspace.md)
 
-[Use the supplier onboarding playbook to onboard suppliers](use-playbooks-onboard-supp.md#)
+[Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md#)
 
-[Manage supplier cases from the Source-to-Pay Workspace](managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/managing-cases.md)
 

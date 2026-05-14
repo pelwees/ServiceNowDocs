@@ -37,6 +37,6 @@ Role required: sn\_align\_core\_apw.admin
 
     **Note:** Mapping configurations consist of table, field, and choice maps for each record.
 
-    ![Generate default mapping.](../../spw-financials/images/fin-integration-internal-planning-item.png "Default mapping configurations")
+    ![Generate default mapping.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-financials/images/fin-integration-internal-planning-item.png "Default mapping configurations")
 
 

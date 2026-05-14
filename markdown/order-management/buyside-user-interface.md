@@ -71,5 +71,5 @@ Jack, a sales representative, receives a request from a SaaS customer for a tail
 **Related topics**  
 
 
-[The CPQ Configurator](understand-the-commerce-logic-engine.md)
+[The CPQ Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/understand-the-commerce-logic-engine.md)
 

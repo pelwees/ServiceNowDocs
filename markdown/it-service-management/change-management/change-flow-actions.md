@@ -67,5 +67,5 @@ Evaluates the Change Model associated with this change request against the curre
  Evaluating the change model evaluates all applicable conditions, determines if the state should be changed and changes it if one matches.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Change flows](change-flows.md)
+</table>**Parent Topic:**[Change flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-flows.md)
 

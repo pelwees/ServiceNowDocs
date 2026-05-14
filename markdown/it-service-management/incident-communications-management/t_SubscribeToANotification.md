@@ -43,12 +43,12 @@ Role required: itil, ia\_admin, or admin
 
     **Note:** Apply filter to your notification channel to avoid receiving every notification for the subscription.
 
-    ![Apply conditions for a notification](../image/NewNotification.png)
+    ![Apply conditions for a notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../image/NewNotification.png)
 
 9.  Select **Save**.
 
     You are subscribed to incident communication notification.
 
 
-**Parent Topic:**[Managing Incident Communications](../concept/working-with-inci-comm-mgmt.md)
+**Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/working-with-inci-comm-mgmt.md)
 

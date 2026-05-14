@@ -51,10 +51,10 @@ You set the network domain to view your inventory and assignments.
 5.  Select **Apply**.
 
 
-**Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](../concept/tni-workspace.md)
+**Parent Topic:**[Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/tni-workspace.md)
 
 **Related topics**  
 
 
-[Network Inventory Workspace](../concept/exploring-network-inventory-workspace.md)
+[Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/exploring-network-inventory-workspace.md)
 

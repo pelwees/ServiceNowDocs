@@ -17,7 +17,7 @@ Automate a multi-step process by creating a workflow from the list view of any t
 
 ## Before you begin
 
--   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
+-   If you are designing the workflow as part of an update set process, see [Workflow movement with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../concept/c_WorkflowMovementWithUpdateSets.md#) before creating the workflow.
 
 ## Procedure
 
@@ -47,14 +47,14 @@ Automate a multi-step process by creating a workflow from the list view of any t
 
     The new workflow is created with the **Begin** and **End**activities connected by a single transition.
 
-    ![New workflow](../image/WorkflowNew.png)
+    ![New workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowNew.png)
 
 9.  Finish creating the workflow by adding activities, validating, and publishing so the workflow is available to other users.
 
-    For more information, see [Work on workflows](work-on-workflows.md#).
+    For more information, see [Work on workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/work-on-workflows.md#).
 
-10. To change advanced settings for the workflow, click the **Properties** icon ![Properties icon](../../workflow/image/PropIcon.png). If you make changes, click **Update**.
+10. To change advanced settings for the workflow, click the **Properties** icon ![Properties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow/image/PropIcon.png). If you make changes, click **Update**.
 
 
-**Parent Topic:**[Create a workflow](t_CreateAWorkflow.md)
+**Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md)
 

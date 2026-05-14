@@ -29,7 +29,7 @@ When you use Mobile Publishing for iOS private distribution, you can then test t
 
 The following image explains the workflow for privately distributing an app. Privately distributed branded iOS apps take 2-4 weeks until you can deploy them. This is due to Apple's review process that involves human reviewers.
 
-![Private publishing process for iOS branded apps](../image/mobile-ios-brand-app-process.png "iOS branded app publishing process for private distribution")
+![Private publishing process for iOS branded apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-ios-brand-app-process.png "iOS branded app publishing process for private distribution")
 
 ## Android branded apps for private distribution
 
@@ -37,7 +37,7 @@ The ServiceNow branding program complies with the suggested practices from Googl
 
 The following image explains the workflow for privately distributing an app. It usually takes about a week or less to build the Android branded application. Sometimes it might take only a few hours.
 
-![Private publishing process for Android branded apps](../image/mobile-android-branded-app-process.png "Android branded app publishing process for private distribution")
+![Private publishing process for Android branded apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-android-branded-app-process.png "Android branded app publishing process for private distribution")
 
-**Parent Topic:**[Distributing your mobile app](mobile-distribution.md)
+**Parent Topic:**[Distributing your mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-distribution.md)
 

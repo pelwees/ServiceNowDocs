@@ -25,7 +25,7 @@ Now Assist Skill Kit uses two distinct roles that map to the two main user types
 
 **Note:** The **sn\_skill\_builder.admin** role must be assigned to AI developers after Now Assist Skill Kit is installed. It is not assigned automatically. To learn more about installation, see .
 
-**Parent Topic:**[Now Assist Skill Kit reference](na-skill-kit-reference.md)
+**Parent Topic:**[Now Assist Skill Kit reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/na-skill-kit-reference.md)
 
 ## Skill Kit admin \(sn\_skill\_builder.admin\)
 
@@ -43,25 +43,25 @@ None. This role is not assigned to any groups by default.
 
 The **sn\_skill\_builder.admin** role is required for the following tasks:
 
--   [Create a skill](../task/create-new-skill.md)
--   [Clone a skill](../task/clone-and-edit-servicenow-skill.md)
--   [Create a prompt](../task/create-prompt-template.md)
--   [Configure a skill prompt](../task/configure-skill-prompt.md)
--   [Configure skill deployment settings](../task/configure-skill-settings.md)
--   [Configure security controls for a skill](../task/nask-access-control.md)
--   [Add a tool](../concept/add-a-tool.md)
--   [Add a retriever](../task/add-retriever.md)
--   [Add a web search tool](../task/add-web-search.md)
--   [Use prompt assistance](../task/use-prompt-assistance.md)
--   [Test a prompt](../task/test-prompt-template.md)
--   [Evaluate a prompt](../task/evaluate-prompt.md)
--   [Finalize and publish a skill](../task/publish-skill.md)
+-   [Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/create-new-skill.md)
+-   [Clone a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/clone-and-edit-servicenow-skill.md)
+-   [Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/create-prompt-template.md)
+-   [Configure a skill prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/configure-skill-prompt.md)
+-   [Configure skill deployment settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/configure-skill-settings.md)
+-   [Configure security controls for a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/nask-access-control.md)
+-   [Add a tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/add-a-tool.md)
+-   [Add a retriever](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/add-retriever.md)
+-   [Add a web search tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/add-web-search.md)
+-   [Use prompt assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/use-prompt-assistance.md)
+-   [Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/test-prompt-template.md)
+-   [Evaluate a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/evaluate-prompt.md)
+-   [Finalize and publish a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/publish-skill.md)
 
 ### Special considerations
 
 This role grants access to the Now Assist Skill Kit application and all skill authoring functionality. It does not grant the ability to activate skills in Now Assist Admin. Activating skills requires the **admin** role.
 
-When configuring access control lists \(ACLs\) for a skill, the roles you specify in the ACL determine which users can invoke the skill. The **sn\_skill\_builder.admin** role only controls who can author skills, not who can use them. To learn more about configuring skill ACLs, see [Configure security controls for a skill](../task/nask-access-control.md).
+When configuring access control lists \(ACLs\) for a skill, the roles you specify in the ACL determine which users can invoke the skill. The **sn\_skill\_builder.admin** role only controls who can author skills, not who can use them. To learn more about configuring skill ACLs, see [Configure security controls for a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/nask-access-control.md).
 
 ## Skill Kit model admin \(sn\_skill\_builder.sb\_model\_admin\)
 
@@ -77,7 +77,7 @@ None. This role is not assigned to any groups by default.
 
 ### Special considerations
 
-This role is only required when working with custom large language models. AI developers who use the standard Now LLM Service provider or prebuilt external LLM spokes do not need this role. To learn more about provider options when creating a skill, see [Create a skill](../task/create-new-skill.md).
+This role is only required when working with custom large language models. AI developers who use the standard Now LLM Service provider or prebuilt external LLM spokes do not need this role. To learn more about provider options when creating a skill, see [Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../task/create-new-skill.md).
 
 This role does not replace the **sn\_skill\_builder.admin** role. AI developers who create skills using custom large language models require both roles.
 

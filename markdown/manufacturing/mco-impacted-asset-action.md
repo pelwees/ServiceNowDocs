@@ -33,5 +33,5 @@ Role required: Quality Issue Management Admin or product non-conformance resolve
 4.  Select **Save**.
 
 
-**Parent Topic:**[Create a correction action](mco-correction-actions.md)
+**Parent Topic:**[Create a correction action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)
 

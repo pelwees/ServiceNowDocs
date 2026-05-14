@@ -22,7 +22,7 @@ Use Now Assist capabilities to elaborate, shorten, and summarize selected conten
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
--   [Create a Doc in EAP](create-a-doc-in-eap.md).
+-   [Create a Doc in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-a-doc-in-eap.md).
 -   Activate the EAP doc summarization Now Assist skill. See .
 
 Role required: sn\_apw\_advanced.eap\_user
@@ -76,11 +76,11 @@ Actions
             1.  **Summarize** to summarize the selected text.
             2.  **Elaborate** to lengthen the selected text based on the existing context.
             3.  **Shorten** to make the selected text concise.
-            ![Summarize, elaborate, or shorten the selected text](../images/eap-now-assist-selected-content.png)
+            ![Summarize, elaborate, or shorten the selected text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-now-assist-selected-content.png)
 
     -   To summarize the entire content on the page, select **Now Assist** from the Doc header and select **Summarize**.
 
-        ![Summarize the entire content on the page](../images/eap-now-assist-doc-summarize.png)
+        ![Summarize the entire content on the page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-now-assist-doc-summarize.png)
 
     **Tip:** If there’s more content to summarize, you can remove some text and retry.
 
@@ -88,12 +88,12 @@ Actions
 
 5.  Based on the output generated, you can further refine the result or insert the generated content into the Doc.
 
-    ![Summarize selected content.](../images/eap-na-doc-summarization.png)
+    ![Summarize selected content.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-na-doc-summarization.png)
 
 6.  Copy the generated output by selecting the Copy to clipboard icon \(![](../../now-assist-spm/images/icon-copy-spm.png)\) to use it for purposes such as sending an email, saving to notes, and others.
 
     **Important:** Because the output is AI-generated, review it to ensure accuracy.
 
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../../now-assist-spm/concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../now-assist-spm/concept/using-now-assist-for-spm.md)
 

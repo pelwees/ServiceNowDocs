@@ -25,13 +25,13 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 An inventory group represents a group of configuration items\(CIs\). In a group, you can add any CI but you cannot be duplicate a CI.
 
-When you create an inventory group, it creates a group in the inventory group\[cmdb\_group\] table. To learn more, see [Data model](../concept/uses-for-network-inventory-data.md).
+When you create an inventory group, it creates a group in the inventory group\[cmdb\_group\] table. To learn more, see [Data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/uses-for-network-inventory-data.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Click the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then click **Inventory** &gt; **Inventory Groups**
+2.  Click the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then click **Inventory** &gt; **Inventory Groups**
 
 3.  Click **New**.
 
@@ -86,18 +86,18 @@ Select one of the following category-   Segment
 
 
 </td></tr></tbody>
-</table>5.  To add the attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+</table>5.  To add the attachments, such as graphics or documents, click the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 6.  Click **Save**.
 
-    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+    The related tabs appear on the form. You can view or modify the related tab information. To learn more about the related tabs, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
     **Note:** To see the last modified or updated information, see the list view of the Inventory Groups.
 
 
 ## What to do next
 
-If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](../reference/inventory-related-tab.md).
+If you want to establish relationships with the other network assets, enter the details in the related tabs. To learn more, see [Related tabs in the Network inventory forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/inventory-related-tab.md).
 
-**Parent Topic:**[Manually creating and reviewing your network asset instances](../concept/creating-telecommunications-network-inventory.md)
+**Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-telecommunications-network-inventory.md)
 

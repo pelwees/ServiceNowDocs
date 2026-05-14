@@ -62,5 +62,5 @@ Description
 **Related topics**  
 
 
-[Enable Document Viewer](enable-document-viewer.md)
+[Enable Document Viewer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/enable-document-viewer.md)
 

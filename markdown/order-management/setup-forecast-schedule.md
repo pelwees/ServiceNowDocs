@@ -29,7 +29,7 @@ Role required: admin
 
 4.  From the Run list, select the option to customize the timing of the scheduler according to your requirements.
 
-    ![Forecast scheduler](../image/forecast-scheduler.png)
+    ![Forecast scheduler](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/forecast-scheduler.png)
 
 5.  Select **Update** to save the settings of your scheduler.
 

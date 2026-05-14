@@ -73,5 +73,5 @@ Number of application freezes over the last 2 hours by version.
 
 **Note:** You can filter the performance metrics by either searching by location of the device or by app version running on the device in a selected time period.
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

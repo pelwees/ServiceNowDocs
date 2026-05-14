@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the List \(![List icon](../../../common/image/icon-list.png)\) icon.
+2.  Select the List \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
 
 3.  Under the **Operational Technology \(OT\)** module, select the **OT Systems** list.
 
@@ -45,5 +45,5 @@ After you add the OT devices, the following relationships are created:
 -   The Depends on::Used by relationship between the selected configuration item \(CI\) and the OT system service
 -   The Managed by::Manages relationship between the OT system service and CI's equipment model entity.
 
-**Parent Topic:**[Modeling an Operational Technology system service](../concept/modeling-ot-system.md)
+**Parent Topic:**[Modeling an Operational Technology system service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/modeling-ot-system.md)
 

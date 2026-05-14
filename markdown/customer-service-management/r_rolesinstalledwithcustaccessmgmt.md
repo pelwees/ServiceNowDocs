@@ -481,5 +481,5 @@ None
 </table>**Related topics**  
 
 
-[Assign granular roles to a functional role](../task/assign-granular-to-func-role-cam.md)
+[Assign granular roles to a functional role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/assign-granular-to-func-role-cam.md)
 

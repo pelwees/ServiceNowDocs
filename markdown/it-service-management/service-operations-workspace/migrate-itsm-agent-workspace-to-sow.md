@@ -47,7 +47,7 @@ Role required: admin
 
 3.  On the Features to migrate from Agent Workspace page, for each feature, select the configurations and customizations to migrate.
 
-    For information about configurations and customizations that can be migrated, see [Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md).
+    For information about configurations and customizations that can be migrated, see [Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md).
 
 4.  Select **Next**.
 
@@ -64,21 +64,21 @@ Role required: admin
 
 Complete the post-migration tasks for each configuration or customization that you have migrated. For more information, see the following topics.
 
--   [Perform post-migration tasks for UI actions and layouts](verify-migration-status-ui-actions-layouts.md)
--   [Perform post-migration tasks for ribbons](verify-migration-status-ribbons.md)
--   [Perform post-migration tasks for view rules](verify-migration-status-view-rules.md)
--   [Perform post-migration tasks for new records](verify-migration-status-new-records.md)
--   [Perform post-migration tasks for highlighted fields in list and forms](verify-migration-status-highlighted-fields-lists-forms.md)
--   [Perform post-migration tasks for list actions](verify-migration-status-list-actions.md)
--   [Perform post-migration tasks for list categories and modules](verify-migration-status-list-categories-modules.md)
--   [Perform post-migration tasks for form headers](verify-migration-status-form-headers-sow.md)
--   [Perform post-migration tasks for search configurations](verify-migration-status-search-config.md)
--   [Perform post-migration tasks for Agent assist configuration](verify-migration-status-agent-assist.md)
--   [Perform post-migration tasks for related list declarative form actions](verify-migration-status-related-actions-aw-sow.md)
--   [Perform post-migration tasks for field decorators form actions](verify-migration-status-field-declarative-actions-aw-sow.md)
+-   [Perform post-migration tasks for UI actions and layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-ui-actions-layouts.md)
+-   [Perform post-migration tasks for ribbons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-ribbons.md)
+-   [Perform post-migration tasks for view rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-view-rules.md)
+-   [Perform post-migration tasks for new records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-new-records.md)
+-   [Perform post-migration tasks for highlighted fields in list and forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-highlighted-fields-lists-forms.md)
+-   [Perform post-migration tasks for list actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-list-actions.md)
+-   [Perform post-migration tasks for list categories and modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-list-categories-modules.md)
+-   [Perform post-migration tasks for form headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-form-headers-sow.md)
+-   [Perform post-migration tasks for search configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-search-config.md)
+-   [Perform post-migration tasks for Agent assist configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-agent-assist.md)
+-   [Perform post-migration tasks for related list declarative form actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-related-actions-aw-sow.md)
+-   [Perform post-migration tasks for field decorators form actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-field-declarative-actions-aw-sow.md)
 
--   **[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)**  
+-   **[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)**  
 Several configurations and customizations related to various ITSM Agent Workspace features that can be migrated to SOW for ITSM.
 
-**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](../concept/migration-from-itsm-aw-sow.md)
+**Parent Topic:**[Migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/migration-from-itsm-aw-sow.md)
 

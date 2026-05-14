@@ -40,7 +40,7 @@ Use an Outbound flow or subflow in SAP
 
     For example, select **Create non-purchase order invoice** flow.
 
-    ![Overview of the Create non purchase order invoice flow](../../source-to-pay-operations/image/sap-integration-invoice-flow.png "Create non-purchase order invoice flow")
+    ![Overview of the Create non purchase order invoice flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/sap-integration-invoice-flow.png "Create non-purchase order invoice flow")
 
 5.  In the Trigger field, specify the time and interval at which you want to run the scheduled flow automatically.
 
@@ -51,10 +51,10 @@ Use an Outbound flow or subflow in SAP
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use schedule flows in SAP](../concept/using-schedule-flows-sap.md)
+**Parent Topic:**[Use schedule flows in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-schedule-flows-sap.md)
 
 **Related topics**  
 
 
-[Copy a flow or subflow in SAP](copy-flow-or-subflow-sap.md)
+[Copy a flow or subflow in SAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-sap.md)
 

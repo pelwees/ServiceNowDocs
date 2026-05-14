@@ -76,7 +76,7 @@ The ServiceNow instance displays an error message stating that the connection va
 The Now Assist for SAM application generates the troubleshooting details that contain the error summary and suggested resolutions. Each error that's listed in the Error Summary section has a corresponding troubleshooting guidance in the Suggested Resolutions section.
 
 </td></tr></tbody>
-</table>    ![Error summary and troubleshooting guidance for SaaS integration](../image/now-assist-troubleshooting.png)
+</table>    ![Error summary and troubleshooting guidance for SaaS integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/now-assist-troubleshooting.png)
 
 4.  Use the suggested resolutions and select **Validate Connection.**
 
@@ -85,5 +85,5 @@ The Now Assist for SAM application generates the troubleshooting details that co
 5.  After the connection validation is successful, publish the integration profile by selecting **Publish**.
 
 
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../concept/using-now-assist-sam.md)
 

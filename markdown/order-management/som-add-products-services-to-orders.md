@@ -31,7 +31,7 @@ When the  product configurator opens you can select from the available options
 -   The option selection displays any available options for the product, service, order lines, and order tasks.
 -   The Current Selection displays the selected products options and the pricing.
 
-Depending on your configuration, you'd either see a CPQ Configurator or product configurator. To learn more about these, see [Using the CPQ Configurator](../concept/using-servicenowcpq.md) and [Using the legacy product configurator](../concept/using-som-product-configurator.md).
+Depending on your configuration, you'd either see a CPQ Configurator or product configurator. To learn more about these, see [Using the CPQ Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-servicenowcpq.md) and [Using the legacy product configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-som-product-configurator.md).
 
 As you configure your product, use the following options:
 
@@ -49,7 +49,7 @@ Reprice
 
 </td><td>
 
-Resets the pricing and updates the total price when you make changes.If cascading pricing is enabled, pricing information is cascaded from parent to child line items. See [Control cascading quantity values in child product offerings](som-activate-cascade-quantity.md) for more information.
+Resets the pricing and updates the total price when you make changes.If cascading pricing is enabled, pricing information is cascaded from parent to child line items. See [Control cascading quantity values in child product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-activate-cascade-quantity.md) for more information.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Adds the product to the order after you've configured it.
 **Related topics**  
 
 
-[Filter product catalog by location](order-mgt-filter-catalog-by-location.md)
+[Filter product catalog by location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-filter-catalog-by-location.md)
 
-[Set up and review order lines](som-om-setup-product-order-lines.md)
+[Set up and review order lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-om-setup-product-order-lines.md)
 

@@ -40,5 +40,5 @@ To understand what are the different NVD integrations and how do the integration
     -   **NIST National Vulnerability Database Integration-API \(CPE only\)**
     -   **NIST National Vulnerability Database Integration-API \(Unmapped CPE\)**
 
-**Parent Topic:**[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](configure-hva-using-guided-setup.md)
+**Parent Topic:**[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configure-hva-using-guided-setup.md)
 

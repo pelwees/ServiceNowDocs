@@ -21,11 +21,11 @@ Role required: admin
 
 ## About this task
 
-**Note:** This topic creates a legacy v3 knowledge homepage. You can create a portal homepage and configure it to get a new look and feel. For information, see [Configure the Knowledge Management Service Portal](../concept/knowledge-management-service-portal.md).
+**Note:** This topic creates a legacy v3 knowledge homepage. You can create a portal homepage and configure it to get a new look and feel. For information, see [Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-management-service-portal.md).
 
 ## Procedure
 
-1.  In the application navigator, point to the application name and click the edit application icon \(![Edit Application icon](../image/edit-app.png)\).
+1.  In the application navigator, point to the application name and click the edit application icon \(![Edit Application icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/edit-app.png)\).
 
 2.  In the **Modules** related list click **New**.
 
@@ -69,12 +69,12 @@ Enter the default sort order for articles to appear in.
 </table>
 ## Example
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 
-[I18N - Knowledge internationalization](../concept/c_I18NKMInternational.md)
+[I18N - Knowledge internationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/c_I18NKMInternational.md)
 

@@ -29,7 +29,7 @@ The appointment booking flow works as follows:
 
 The following image illustrates the appointment booking flow.
 
-![Infographic displaying the steps to schedule an appointment. For a text description, refer to the preceding text in the Booking an appointment section.](../image/bookappt.png "Booking an appointment")
+![Infographic displaying the steps to schedule an appointment. For a text description, refer to the preceding text in the Booking an appointment section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/bookappt.png "Booking an appointment")
 
 ## Rescheduling an appointment
 
@@ -43,7 +43,7 @@ The appointment rescheduling flow works as follows:
 
 The following image illustrates the appointment rescheduling flow.
 
-![Infographic displaying the steps to change an appointment. For a text description, refer to the preceding text in the Rescheduling an appointment section.](../image/apptresched.png "Rescheduling an appointment")
+![Infographic displaying the steps to change an appointment. For a text description, refer to the preceding text in the Rescheduling an appointment section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/apptresched.png "Rescheduling an appointment")
 
 ## Cancelling an appointment
 
@@ -56,12 +56,12 @@ The appointment cancellation flow works as follows:
 
 The following image illustrates the appointment cancellation flow.
 
-![Infographic displaying the steps to cancel an appointment. For a text description, refer to the preceding text in the Cancelling an appointment section.](../image/cancelappt.png "Cancelling an appointment")
+![Infographic displaying the steps to cancel an appointment. For a text description, refer to the preceding text in the Cancelling an appointment section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/cancelappt.png "Cancelling an appointment")
 
 **Related topics**  
 
 
-[Configure Conversational Appointment Booking](../task/conv-appt-booking-config.md)
+[Configure Conversational Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/conv-appt-booking-config.md)
 
-[Using Conversational Appointment Booking](conv_appt_booking_using.md)
+[Using Conversational Appointment Booking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv_appt_booking_using.md)
 

@@ -41,7 +41,7 @@ To view LDAP monitor:
 
 1.  Navigate to **All** &gt; **LDAP** &gt; **System LDAP** &gt; **LDAP Monitor**.
 
-    ![LDAP monitor](../image/LDAPMonitor.png)
+    ![LDAP monitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/../image/LDAPMonitor.png)
 
     See the table for descriptions of the properties and fields in the screen.
 
@@ -79,7 +79,7 @@ Edit
 
 </td><td>
 
-As you monitor LDAP servers, you can [make changes to the properties](t_DefineAnLDAPServer.md) by clicking **Edit** in the LDAP Server Monitor screen.
+As you monitor LDAP servers, you can [make changes to the properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_DefineAnLDAPServer.md) by clicking **Edit** in the LDAP Server Monitor screen.
 
 </td></tr><tr><td>
 

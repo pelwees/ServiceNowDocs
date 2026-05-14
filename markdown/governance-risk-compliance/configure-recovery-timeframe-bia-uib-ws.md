@@ -27,10 +27,10 @@ Role required: sn\_bcm.admin
 
 4.  In the **Starts at** field, enter the start of the timeline for the recovery timeframe in days, hours, minutes, seconds.
 
-    The example shows the configuration of a recovery timeframe in the Business Continuity Management application. ![New recovery timeframe.](../image/new-recovery-timeframe.png)
+    The example shows the configuration of a recovery timeframe in the Business Continuity Management application. ![New recovery timeframe.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/new-recovery-timeframe.png)
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-bcmadmin-tasks.md)
 

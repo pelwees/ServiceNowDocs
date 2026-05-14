@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The flows are deployed with Email Interaction for CSM and are enabled by default for new CSM customers. The flows aren’t enabled by default for existing CSM customers. To manually activate the flows, [Activate a flow for Email Interaction for CSM](activate-flow-email-interaction.md)
+The flows are deployed with Email Interaction for CSM and are enabled by default for new CSM customers. The flows aren’t enabled by default for existing CSM customers. To manually activate the flows, [Activate a flow for Email Interaction for CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/activate-flow-email-interaction.md)
 
 ## Procedure
 

@@ -63,5 +63,5 @@ The source type is now available in the list of source types. Select it from the
     The **Configure data import** section is displayed with the **Schedule import** section made available to schedule the import of automation data.
 
 
-**Parent Topic:**[Create an automation source](create-auto-source.md)
+**Parent Topic:**[Create an automation source](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-auto-source.md)
 

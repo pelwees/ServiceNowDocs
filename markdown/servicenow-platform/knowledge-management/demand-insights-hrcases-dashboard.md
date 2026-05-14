@@ -17,7 +17,7 @@ The Demand Insights for HR cases dashboard enables you as an HR agent to identif
 
 **Note:** For Demand Insights for HR cases dashboard, activate the Human Resources Scoped App: Core plugin \[com.sn\_hr\_core\] and Predictive Intelligence for Knowledge Management plugin \[com.snc.knowledge\_ml\].
 
-![Demand insights for HR cases](../image/demand-insights-hrcases.png)
+![Demand insights for HR cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/demand-insights-hrcases.png)
 
 ## End user and roles
 
@@ -29,7 +29,7 @@ The Demand Insights for HR cases dashboard enables you as an HR agent to identif
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Candidate Knowledge Gaps for HR cases|Pareto Chart ![Pareto report icon](../../../reuse/reporting/image/pareto-sm.png)|Candidate Knowledge Gaps for HR cases.|
+|Candidate Knowledge Gaps for HR cases|Pareto Chart ![Pareto report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../../../reuse/reporting/image/pareto-sm.png)|Candidate Knowledge Gaps for HR cases.|
 
-**Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](analytics-and-reporting-solutions-for-knowlege-management.md)
+**Parent Topic:**[Analytics and Reporting Solutions for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analytics-and-reporting-solutions-for-knowlege-management.md)
 

@@ -22,5 +22,5 @@ Allow access controls specific to a case.
 |sn\_sec\_tisc.special\_access\_read\_manager|Read access|External Users added here will get access to view the case form but will not be able to edit any field in the case or perform any action.|
 |sn\_sec\_tisc.special\_access\_write\_manager|Privileged access|External Users added here will get access to edit any field in the case form but will not be allowed to run orchestrations.|
 
-**Parent Topic:**[Enforced Restrictions for case\(s\)](tisc-enforced-restrictions.md)
+**Parent Topic:**[Enforced Restrictions for case\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enforced-restrictions.md)
 

@@ -15,7 +15,7 @@ Create an attended or unattended automation project manually in RPA Desktop Desi
 
 ## Before you begin
 
-Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+Set up the RPA Desktop Design Studio application and add the ServiceNow instance details. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 
 Role required: none
 
@@ -27,7 +27,7 @@ An attended automation requires human supervision. For example, in a contact cen
 
 To create automation projects, you can use the default templates that RPA Desktop Design Studio provides or the custom automation templates that you have created and published to the RPA Hub. An automation template caters to a use case and provides a framework of automation. For example, automate a manual employee onboarding process. The default templates that the RPA Desktop Design Studio provides are `Unattended Non-Transactional Workflow`, `Unattended Transactional Workflow`, and `Attended Workflow`. You can also create automations with no template.
 
-To create an automation project using Now Assist, see [Create an automation with Now Assist](create-automation-now-assist.md).
+To create an automation project using Now Assist, see [Create an automation with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-now-assist.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ To create an automation project using Now Assist, see [Create an automation with
 
 2.  In the Build an automation window, select **Build manually**.
 
-    ![Select Build manually tile](../image/build-automation-manually-rpa.png "Build an automation manually")
+    ![Select Build manually tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/build-automation-manually-rpa.png "Build an automation manually")
 
 3.  Select **Next**.
 
@@ -63,10 +63,10 @@ To create an automation project using Now Assist, see [Create an automation with
 10. Select **Create**.
 
 
-**Parent Topic:**[Building automations](../concept/rpa-studio-build.md)
+**Parent Topic:**[Building automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-build.md)
 
 **Related topics**  
 
 
-[Create a skill project in RPA Desktop Design Studio](create-skill-project.md)
+[Create a skill project in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-skill-project.md)
 

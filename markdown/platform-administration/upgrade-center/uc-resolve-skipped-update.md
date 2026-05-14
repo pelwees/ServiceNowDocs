@@ -42,7 +42,7 @@ When an object is customized, the system adds a corresponding record to the Cust
 
 3.  In the Skipped Changes to Review related list, select the update record to resolve.
 
-    See [Review skipped records using related lists](uc-access-rl.md#).
+    See [Review skipped records using related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-access-rl.md#).
 
 4.  Review the list of changes.
 

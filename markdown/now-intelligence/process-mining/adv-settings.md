@@ -45,7 +45,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 7.  Select the **Include child tables for analysis** option if you want to add a related table to your parent table.
 
-    This field is available only if you have specified the Child tables section of the Process details page in the process configuration. For more information, see [Configure process details](process-details.md).
+    This field is available only if you have specified the Child tables section of the Process details page in the process configuration. For more information, see [Configure process details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
     Child tables include data of dependent subprocesses that are important for the execution of the parent process. Analyzing child tables helps uncover inefficiencies in subprocesses that impact the main process's performance.
 
@@ -56,5 +56,5 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 8.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 

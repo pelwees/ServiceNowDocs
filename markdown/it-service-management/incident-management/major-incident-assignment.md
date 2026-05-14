@@ -128,5 +128,5 @@ No change - incident remains with the current value in the **Assigned to** field
 |Incident communication task is created from incident communication plan whose source is major incident|Assignment Group is empty|The value for the **Assignment group** field is copied from the incident communication plan|The value of the **Assigned to** field is copied from the incident communication plan|
 |Assignment Group is not empty|No change - incident communication plan retains the current value of the assignment group|No change - incident communication task retains the current value of the **Assigned to** field|
 
-**Parent Topic:**[Working on major incident management](work-on-mim.md)
+**Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 

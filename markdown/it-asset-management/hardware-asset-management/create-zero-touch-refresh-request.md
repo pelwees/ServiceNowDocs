@@ -95,18 +95,18 @@ In the **Refresh method** field, select **Ship**.**Note:** The form shows your c
 
 Your Zero Touch Refresh request is successfully submitted.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 
 
-[Configure replacement models for a refresh model](create-replacement-model.md)
+[Configure replacement models for a refresh model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-replacement-model.md)
 
-[Fulfill a Zero Touch Refresh Fulfillment Request](process-zero-touch-refresh-order.md)
+[Fulfill a Zero Touch Refresh Fulfillment Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-refresh-order.md)
 
-[Process a Zero Touch Refresh request](process-zero-touch-asset-request.md)
+[Process a Zero Touch Refresh request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-asset-request.md)
 
-[Acknowledge receipt of an asset on a mobile device](receive-assets-from-ztr.md)
+[Acknowledge receipt of an asset on a mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-from-ztr.md)
 
-[Acknowledge receipt of an asset through the Core UI](acknowledge-asset-core-ui.md)
+[Acknowledge receipt of an asset through the Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/acknowledge-asset-core-ui.md)
 

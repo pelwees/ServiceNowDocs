@@ -42,12 +42,12 @@ Add and configure a Plivo connection to authenticate ServiceNow requests in Pliv
 
     -   To configure the default connection and credential alias record that is shipped along with the Plivo spoke, click **View Details**.
 
-        ![Connection for Plivo spoke.](../image/plivo-connection.png)
+        ![Connection for Plivo spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/plivo-connection.png)
 
-    -   To manage more than one Plivo spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+    -   To manage more than one Plivo spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
     If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-    ![First-time connection configuration of the Plivo spoke.](../image/plivo-conf-connection.png)
+    ![First-time connection configuration of the Plivo spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/plivo-conf-connection.png)
 
 5.  On the **Configure Connection** form, fill in the fields:
 
@@ -60,7 +60,7 @@ Add and configure a Plivo connection to authenticate ServiceNow requests in Pliv
     |User name|Auth ID of your Plivo account.|
     |Password|Auth token of your Plivo account.|
 
-    ![Configure a connection for the Plivo spoke.](../image/plivo-configured-connection.png)
+    ![Configure a connection for the Plivo spoke.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/plivo-configured-connection.png)
 
 6.  Click **Configure Connection**.
 

@@ -23,7 +23,7 @@ Access the Lifecycle management dashboard by navigating to **Workspaces** &gt; *
 
 You can filter the dashboard reports based on a publisher or product. Select any report to view more information on product life cycles.
 
-![Lifecycle management dashboard view displaying product lifecycles](../image/lifecycle-management-dashboard-updated.png "Lifecycle management dashboard")
+![Lifecycle management dashboard view displaying product lifecycles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/lifecycle-management-dashboard-updated.png "Lifecycle management dashboard")
 
 <table id="table_cs4_3k1_t1c"><thead><tr><th>
 
@@ -75,7 +75,7 @@ Lists all the open lifecycle playbooks that have been created.
 
  You can open any of the existing playbooks to update or complete them.
 
- You can select **Add to lifecycle data** to create a playbook for lifecycle data. For details on creating the playbook, see [Create a comprehensive lifecycle report using a guided experience](../task/create-lifecyclereporting-guidedexperience.md).
+ You can select **Add to lifecycle data** to create a playbook for lifecycle data. For details on creating the playbook, see [Create a comprehensive lifecycle report using a guided experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/create-lifecyclereporting-guidedexperience.md).
 
 </td></tr><tr><td>
 
@@ -129,5 +129,5 @@ Software product life-cycles in your environment that are reaching EOL in the ne
 
 Tracking product life cycles enables you to manage software products that are reaching or have already reached EOL, end of support \(EOS\), or end of extended support.
 
-You can take required action for your EOL software products by using the Software Product Lifecycle report. The report opens when you select the **Upcoming end of life product lifecycles in next 18 months** or **Current and past end of life product lifecycles** report on the Lifecycle management dashboard. You can create an EOL request for the software products that have the Current phase as End of Support, End of Extended Support, or End of Life. For more details, see [Create an end of life workflow request for your software products](../task/manage-eol-risk.md).
+You can take required action for your EOL software products by using the Software Product Lifecycle report. The report opens when you select the **Upcoming end of life product lifecycles in next 18 months** or **Current and past end of life product lifecycles** report on the Lifecycle management dashboard. You can create an EOL request for the software products that have the Current phase as End of Support, End of Extended Support, or End of Life. For more details, see [Create an end of life workflow request for your software products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/manage-eol-risk.md).
 

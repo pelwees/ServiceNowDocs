@@ -17,7 +17,7 @@ You can use the IT Discovery for Operational Technology \(OT\) Networks function
 
 The IT Discovery for OT Networks process operates in a manner that is similar to the standard Discovery processes.
 
-![Targeted Purdue levels in standard and Operational Technology Discovery.](../image/OT-discovery-targeted-zones.png "Targeted Purdue levels in standard and IT Discovery for OT Networks Discovery")
+![Targeted Purdue levels in standard and Operational Technology Discovery.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/OT-discovery-targeted-zones.png "Targeted Purdue levels in standard and IT Discovery for OT Networks Discovery")
 
 Standard Discovery processing in the ServiceNow AI Platform® normally takes place in the following Purdue levels in your enterprise:
 
@@ -41,7 +41,7 @@ You typically run IT Discovery for OT Networks in the DMZ \(or IDMZ, Purdue Leve
 
 **Note:** To avoid the possibility of disrupting your industrial operations, you should not run Discovery processes against Purdue levels 0 through 2 in your ICS networks.
 
-![IT Discovery for OT Network processing.](../image/ot-discovery-schedule-processing.png "IT Discovery for OT Networks processing")
+![IT Discovery for OT Network processing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../image/ot-discovery-schedule-processing.png "IT Discovery for OT Networks processing")
 
 When you run an OT discovery schedule, it performs the following processing:
 

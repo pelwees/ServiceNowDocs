@@ -29,7 +29,7 @@ Kong is an API management platform that enables enterprise companies to better m
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 CMDB CI Class Models: Release 1.49.0 adds the following classes for Kong.
 
@@ -124,5 +124,5 @@ The Kong Gateway class uses the Kong Workspace non-CMDB table as a related list:
 
 Here is an example of a dependency view for the Kong gateway class that shows how a gateway would populate the dependent managed API-dependent class with related APIs and components. The Managed API class is considered a first-level relationship with respect to the gateway, while the front-end and back-end components are considered second-level relationships. From here, you can then bind alerts to these CIs, configure dynamic CIs for service views and incidents, or establish any additional workflows that use CIs.
 
-![Dependency View of the Kong data model populated from a gateway.](../image/cmdb-ci-class-models-kong.png)
+![Dependency View of the Kong data model populated from a gateway.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../image/cmdb-ci-class-models-kong.png)
 

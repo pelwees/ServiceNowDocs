@@ -114,5 +114,5 @@ To use this action, insert an action and then navigate to **Action** &gt; **Clou
 |Details|Details of the object that you want to store in the resource record.|
 |Attributes|Any additional resource attribute that you want to import to the CMDB.|
 
-**Parent Topic:**[Cloud Configuration Governance reference](ccg-reference.md)
+**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 

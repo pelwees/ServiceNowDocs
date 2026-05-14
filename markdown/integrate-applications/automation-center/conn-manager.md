@@ -17,7 +17,7 @@ Connection Manager enables you to add data from a third-party tool into Automati
 
 Connection Manager helps you to add data from a third-party tool into Automation Center tables efficiently and in a few clicks.
 
-For detailed information, see [Working with Connection Manager](connection-manager.md).
+For detailed information, see [Working with Connection Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/connection-manager.md).
 
-**Parent Topic:**[Exploring Automation Center](automation-center-explore.md)
+**Parent Topic:**[Exploring Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-explore.md)
 

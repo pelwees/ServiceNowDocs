@@ -23,7 +23,7 @@ Starting with the Product Catalog Management Core v17.0.0 release, the product c
 
 The product catalog interface enables agents and customers to find product offerings by navigating product catalogs and categories. Or, they can use the search bar to match by product name, code, or description.
 
-![Product catalog interface that shows the product catalog hierarchy, product tiles with product images, and search option.](../image/som-catalog-ui.png "Product catalog interface with simple search")
+![Product catalog interface that shows the product catalog hierarchy, product tiles with product images, and search option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/som-catalog-ui.png "Product catalog interface with simple search")
 
 The catalog view has the following features for selecting products:
 
@@ -44,14 +44,14 @@ AI Search provides other features to enhance the search process:
 -   **Auto-corrections of misspelled or incomplete words**: If your queries contain misspelled words or are incomplete, AI Search automatically replaces those search query terms with correct spellings, based on the search sources \(product offerings and service specifications\). Typo corrections are shown above search results.
 -   Sort by filter: Organize how search results are returned, for example, by relevancy or product description. Control the order, descending or ascending, in which the results are displayed.
 
-![AI Search features in product catalog interface: Sort by filter options, sort order, and search bar. Another example shows search bar with auto-complete suggestions.](../image/ai-search-bar-catalog.png "Product catalog interface with AI Search")
+![AI Search features in product catalog interface: Sort by filter options, sort order, and search bar. Another example shows search bar with auto-complete suggestions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/ai-search-bar-catalog.png "Product catalog interface with AI Search")
 
-For more information on search queries and the search query language that you can use to find catalog items, see [Use AI Search in product catalogs](../task/use-ai-search-catalog.md).
+For more information on search queries and the search query language that you can use to find catalog items, see [Use AI Search in product catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/use-ai-search-catalog.md).
 
 **Note:** Check your entitlements to determine if you have access to this feature.
 
--   **[Use AI Search in product catalogs](../task/use-ai-search-catalog.md)**  
+-   **[Use AI Search in product catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/use-ai-search-catalog.md)**  
 As an agent or customer, use AI Search queries in the product catalog to find relevant product offerings or service specifications. For example, you can search by product offering characteristics or other attributes, when adding products in Sales Customer Relationship Management transactions.
 
-**Parent Topic:**[Using lead-to-cash foundation applications](using-lead-cash-foundation.md)
+**Parent Topic:**[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 

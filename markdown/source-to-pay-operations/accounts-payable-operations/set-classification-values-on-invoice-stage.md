@@ -34,9 +34,9 @@ Plugins required:
 
 2.  Search for **Set Classification Values on Invoice Staging** flow.
 
-3.  Select the ![more actions](../image/more-actions.png) icon &gt; **Copy flow**.
+3.  Select the ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/more-actions.png) icon &gt; **Copy flow**.
 
-    A copy of the **Set Classification Values on Invoice Staging** is created.![Set classification values on invoice staging](../image/set-classifcation-flow.png)
+    A copy of the **Set Classification Values on Invoice Staging** is created.![Set classification values on invoice staging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/set-classifcation-flow.png)
 
 4.  Select **Done**.
 

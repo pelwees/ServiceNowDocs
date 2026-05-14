@@ -17,8 +17,8 @@ Add content types to a translation request in Localization Workspace. Your trans
 
 ## Before you begin
 
--   Content types correspond to tables. For details about making your content available to Localization Workspace, see [Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md).
--   Complete the first step in the Translation Request wizard, then proceed to this step. See [Request translations in Localization Workspace: Languages](lw-request-translations-langs.md).
+-   Content types correspond to tables. For details about making your content available to Localization Workspace, see [Types of Localizable content in Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../reference/lw-localizable-content.md).
+-   Complete the first step in the Translation Request wizard, then proceed to this step. See [Request translations in Localization Workspace: Languages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-request-translations-langs.md).
 -   Role required: localization\_requestor
 
 ## About this task
@@ -31,11 +31,11 @@ The following procedure covers step number two in the Translation Request wizard
 
 ## Procedure
 
-1.  Complete the first step in the Translation request wizard \(Languages\), then proceed to **Types**.![The Types step in the Translation Request wizard in Localization Workspace, with the Knowledge type highlighted. There are four steps in the wizard. Types is step number two.](../image/lw-request-translations-types1.png)
+1.  Complete the first step in the Translation request wizard \(Languages\), then proceed to **Types**.![The Types step in the Translation Request wizard in Localization Workspace, with the Knowledge type highlighted. There are four steps in the wizard. Types is step number two.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../image/lw-request-translations-types1.png)
 
 2.  Choose the content types you want to translate by selecting the appropriate check boxes.
 
-    **Note:** Content types that are not selectable may require table or role permissions. Ask your administrator to enable access. For more information see [Types of Localizable content in Localization Workspace](../reference/lw-localizable-content.md).
+    **Note:** Content types that are not selectable may require table or role permissions. Ask your administrator to enable access. For more information see [Types of Localizable content in Localization Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/../reference/lw-localizable-content.md).
 
 3.  Select **Save**.
 

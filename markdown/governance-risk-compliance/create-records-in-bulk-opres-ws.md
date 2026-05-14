@@ -31,7 +31,7 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
     **Note:** Only DORA administrators can see the **Upload** option type and perform this task.
 
-    For descriptions of all these fields, see [Create New Excel download/upload request form](../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
+    For descriptions of all these fields, see [Create New Excel download/upload request form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-vendor-risk/reference/tprm-excel-upload-download-req.md).
 
     **Note:** You can only upload one type of record for each upload request. For example, if you made an upload request for Assessment records, you can only include Assessment record information in the template.
 
@@ -72,5 +72,5 @@ Only DORA administrators can view the **Upload** option and perform this task.
     The records are uploaded in bulk from the Digital resilience third-party registers.
 
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

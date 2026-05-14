@@ -21,7 +21,7 @@ Selecting a region and site in the filter at the top displays reports for availa
 
 **Important:** For new customers, from Workplace Core \(sn\_wsd\_core\) version 2.2, the **Dashboard** is removed from the Workplace Service Portal and Service Portal. Customers using Workplace Core version 2.1 and below can still access the dashboard after an upgrade.
 
-![Workplace dashboard displaying example data](../image/workplace-dashboard.png "Workplace dashboard")
+![Workplace dashboard displaying example data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../image/workplace-dashboard.png "Workplace dashboard")
 
 ## End user and roles
 
@@ -57,28 +57,28 @@ The data displayed in visualizations corresponds to the selected campus.
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Today's capacity|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of active workspaces available today.|
-|Today's shifts|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of shifts used in today's reservations.|
-|Today's reservable spaces|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of active workspaces available to reserve.|
-|Today's reservations|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of today's active reservations.|
-|Reservations per day|Trend ![Trend over time icon](../../performance-analytics/image/column-time-icon.png)|Trend of the number of active reservations per day in the last seven days for which the end date is today or later.|
-|Reserved spaces per day|Spline ![Spline trend icon](../../performance-analytics/image/spline-ts-icon.png)|Trend of the number of reserved workspaces per day for all reservations made in the last seven days that are active starting today or later.|
-|Reservable spaces per building|Bar ![Bar graph icon](../../performance-analytics/image/column-icon.png)|Breakdown of active workspaces that are available to reserve for each building on the campus.|
+|Today's capacity|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of active workspaces available today.|
+|Today's shifts|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of shifts used in today's reservations.|
+|Today's reservable spaces|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of active workspaces available to reserve.|
+|Today's reservations|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of today's active reservations.|
+|Reservations per day|Trend ![Trend over time icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/column-time-icon.png)|Trend of the number of active reservations per day in the last seven days for which the end date is today or later.|
+|Reserved spaces per day|Spline ![Spline trend icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/spline-ts-icon.png)|Trend of the number of reserved workspaces per day for all reservations made in the last seven days that are active starting today or later.|
+|Reservable spaces per building|Bar ![Bar graph icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/column-icon.png)|Breakdown of active workspaces that are available to reserve for each building on the campus.|
 |Cleaning tasks for this campus|
-|Unassigned cleaning tasks|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of active workplace tasks that are not assigned to anyone and not in the Closed state.|
-|Planned tasks|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of active planned workplace tasks that are not yet closed.|
-|Cleaning tasks by day|Trend ![Trend over time icon](../../performance-analytics/image/column-time-icon.png)|Trend of the number of active cleaning tasks per day for which the due date is between today and the next seven days, or for which no due date is defined. The tasks in this report are grouped by the workplace task type.|
+|Unassigned cleaning tasks|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of active workplace tasks that are not assigned to anyone and not in the Closed state.|
+|Planned tasks|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of active planned workplace tasks that are not yet closed.|
+|Cleaning tasks by day|Trend ![Trend over time icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/column-time-icon.png)|Trend of the number of active cleaning tasks per day for which the due date is between today and the next seven days, or for which no due date is defined. The tasks in this report are grouped by the workplace task type.|
 |Workplace requests for this campus|
-|Pending workplace requests|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Number of workplace requests that are pending.|
-|Workplace requests created today|Single score ![Single-score icon](../../performance-analytics/image/single-score.png)|Total number of workplace reservation requests created by the employees today.|
-|Workplace requests by day|Trend ![Trend over time icon](../../performance-analytics/image/column-time-icon.png)|Trend of the number of workplace reservation requests created per day.|
+|Pending workplace requests|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Number of workplace requests that are pending.|
+|Workplace requests created today|Single score ![Single-score icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/single-score.png)|Total number of workplace reservation requests created by the employees today.|
+|Workplace requests by day|Trend ![Trend over time icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../performance-analytics/image/column-time-icon.png)|Trend of the number of workplace reservation requests created per day.|
 
-**Parent Topic:**[Workplace dashboards](../concept/workplace-dashboards.md)
+**Parent Topic:**[Workplace dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../concept/workplace-dashboards.md)
 
 **Related topics**  
 
 
-[Create workplace reservations for an employee](../../../product/workplace-safety-mgmt/task/reserve-workspaces-for-employees.md)
+[Create workplace reservations for an employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../product/workplace-safety-mgmt/task/reserve-workspaces-for-employees.md)
 
-[Create an ad hoc workplace task](../../../product/workplace-safety-mgmt/task/create-adhoc-workplace-task.md)
+[Create an ad hoc workplace task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/../../../product/workplace-safety-mgmt/task/create-adhoc-workplace-task.md)
 

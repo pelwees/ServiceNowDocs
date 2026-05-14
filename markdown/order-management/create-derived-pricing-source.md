@@ -15,7 +15,7 @@ Define product pricing rules for deriving the price of a product dynamically bas
 
 ## Before you begin
 
-Activate the **Account** option for the **Scope** field in the Derived Price Matrix. To activate the option, see [Enable the Account scope option for derived pricing](activate-account-option-derived-pricing.md).
+Activate the **Account** option for the **Scope** field in the Derived Price Matrix. To activate the option, see [Enable the Account scope option for derived pricing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/activate-account-option-derived-pricing.md).
 
 Role required: sn\_csm\_pricing.pricelist\_administrator or sn\_csm\_pricing.pricelist\_manager
 
@@ -95,7 +95,7 @@ Use the Derived Price Matrix to define the rules for deriving the pricing of a p
 
     The derived pricing for the target product is available when the product is used in a transaction line.
 
-    **Note:** Once a matrix is published, you can't make further changes to it. If you have changes, create another version of the matrix with your updates and publish the new version. However, your admin can allow changes to a published matrix by using the **allow\_edit\_on\_published\_matrices** system property. To learn more, see [Allow changes to published pricing and product eligiblity matrices](edit-published-matrices.md).
+    **Note:** Once a matrix is published, you can't make further changes to it. If you have changes, create another version of the matrix with your updates and publish the new version. However, your admin can allow changes to a published matrix by using the **allow\_edit\_on\_published\_matrices** system property. To learn more, see [Allow changes to published pricing and product eligiblity matrices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/edit-published-matrices.md).
 
 
 ## Result

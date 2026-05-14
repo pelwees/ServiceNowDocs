@@ -194,5 +194,5 @@ Any additional information that you want to mention.
     **Note:** When the stage of all Hardware Asset Reclamation Lines has changed to Closed Complete, the state of the Asset Reclamation Request also changes to Complete.
 
 
-**Parent Topic:**[Reclaim hardware assets](../concept/manage-asset-reclaim.md)
+**Parent Topic:**[Reclaim hardware assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/manage-asset-reclaim.md)
 

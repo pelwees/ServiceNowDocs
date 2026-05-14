@@ -17,7 +17,7 @@ The MID Server unified key store allows all products on the MID Server to use co
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
-![Set-up indicator for security phase](../image/ProgressBarSecure.png)
+![Set-up indicator for security phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarSecure.png)
 
 </td></tr></tbody>
 </table>When the MID Server starts, the common name \(CN\) of the certificate is inspected to identify if a custom certificate has been installed. If a custom certificate is detected, the creation of the certificate/keypair will be skipped and an attribute is set on the ecc\_agent record to indicate the usage of a custom certificate.
@@ -64,38 +64,38 @@ MIIDKzCCAhOgAwIBAgIEPqMQqDANBgkqhkiG9w0BAQsFADBGMQswCQYDVQQGEwJV
 -----END CERTIFICATE----- 
 ```
 
-**Parent Topic:**[Securing and encrypting MID Server data](mid-server-security-encryption.md)
+**Parent Topic:**[Securing and encrypting MID Server data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-security-encryption.md)
 
 **Related topics**  
 
 
-[MID Server certificate check policies](mid-security-checks.md)
+[MID Server certificate check policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 
-[MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)
+[MID Server authentication credentials and SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-authentication-soap-requests.md#)
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/install-mid-mutual-auth.md)
 
-[MID Server Azure Key Vault integration](../task/mid-azure-key-vault-integration.md#)
+[MID Server Azure Key Vault integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-azure-key-vault-integration.md#)
 
-[MID Server command audit log](mid-audit-log.md)
+[MID Server command audit log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-audit-log.md)
 
-[Rekey a MID Server](../task/t_RekeyAMIDServer.md)
+[Rekey a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](../task/mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](../task/mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-server-script-attach.md#)
 
-[MID Server FIPS Enforced Mode](mid-fips-enforced.md#)
+[MID Server FIPS Enforced Mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-fips-enforced.md#)
 
-[MID Server Governance](mid-timeout.md)
+[MID Server Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-timeout.md)
 
 ## Install custom certificates in the MID Server unified key store
 
@@ -272,7 +272,7 @@ The **manage-certificates** has the following functions and the scripts must be 
 **Related topics**  
 
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/install-mid-mutual-auth.md)
 
 ## Restore the MID Server key store with a backup
 
@@ -290,7 +290,7 @@ In the backup folder, there is a dedicated backup log file: **keystore\_backup\_
 
 **Note:** For security purposes, the backup key store should have the same attributes as the original key store, such as owner, group, and permissions. Those attributes ensure the MID Server has the same protection at file system level.
 
-The key store backups can be modified with the MID Server properties **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](../reference/r_MIDServerProperties.md#) for more information.
+The key store backups can be modified with the MID Server properties **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/r_MIDServerProperties.md#) for more information.
 
 ### Procedure
 

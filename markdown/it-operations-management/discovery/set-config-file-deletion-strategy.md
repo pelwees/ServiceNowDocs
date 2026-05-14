@@ -17,13 +17,13 @@ You can specify what you want to do with tracked configuration file CI records w
 
 ## Before you begin
 
-A pattern that specifies [tracked configuration files](track-configuration-files.md).
+A pattern that specifies [tracked configuration files](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/track-configuration-files.md).
 
 Role required: discovery\_admin, service\_mapping\_admin, or admin. Starting from Visibility Content version 6.30.0, pd\_admin and pd\_mid are also supported.
 
 ## About this task
 
-You can set a deletion strategy for all discovered CIs, not just configuration file CIs. However the way you access the deletion strategy for standard CIs differs from configuration file CIs. See [Set a deletion strategy](set-deletion-strategy.md) for instructions.
+You can set a deletion strategy for all discovered CIs, not just configuration file CIs. However the way you access the deletion strategy for standard CIs differs from configuration file CIs. See [Set a deletion strategy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-deletion-strategy.md) for instructions.
 
 ## Procedure
 
@@ -92,7 +92,7 @@ Marks the **Status** \[install\_status\] field of the configuration file CI reco
 **Related topics**  
 
 
-[CI deletion strategies for pattern discovery](../concept/deletion-strategy.md)
+[CI deletion strategies for pattern discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/deletion-strategy.md)
 
-[Set a deletion strategy](set-deletion-strategy.md)
+[Set a deletion strategy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-deletion-strategy.md)
 

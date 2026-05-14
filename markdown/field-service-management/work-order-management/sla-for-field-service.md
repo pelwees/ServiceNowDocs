@@ -19,23 +19,23 @@ SLAs determine when work on a work order or work order task should be complete. 
 
 The steps for setting up work orders and tasks are:
 
-1.  [Manage a work order SLA](../../planning-and-policy/task/t_ManageAWorkOrderSLA.md)
+1.  [Manage a work order SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_ManageAWorkOrderSLA.md)
 
     Manage SLAs that you have configured. You can create SLAs, or change the ones that you have already created.
 
-2.  [View a task with an SLA](../../planning-and-policy/task/t_ViewATaskWithASLA.md)
+2.  [View a task with an SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_ViewATaskWithASLA.md)
 
     View all work order tasks associated with work orders that have SLAs.
 
-3.  [Suspend and resume SLA timing from a work order](../../planning-and-policy/task/t_SpndRsmSLATimingWO.md)
+3.  [Suspend and resume SLA timing from a work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_SpndRsmSLATimingWO.md)
 
     Pause and resume the timing on a work order SLA from the work order.
 
-4.  [Suspend and resume SLA timing from a work order task](../../planning-and-policy/task/t_SpndRsmSLATimingWOTsk.md)
+4.  [Suspend and resume SLA timing from a work order task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_SpndRsmSLATimingWOTsk.md)
 
     Pause and resume the timing on a work order SLA from the work order task.
 
-5.  [Delete an SLA from a work order](../../planning-and-policy/task/t_DeleteAnSLAFromAWorkOrder.md)
+5.  [Delete an SLA from a work order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../planning-and-policy/task/t_DeleteAnSLAFromAWorkOrder.md)
 
     Remove an SLA from a work order but leave it available for use with other work orders.
 

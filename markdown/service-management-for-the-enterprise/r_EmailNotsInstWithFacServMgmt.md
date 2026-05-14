@@ -19,5 +19,5 @@ Facilities Service Management adds the following email notifications.
 |------------|-----------|
 |Facilities Request is assigned|Sends an email message to the facilities staff member who is assigned to the facilities request.|
 
-**Parent Topic:**[Installed with Facilities Service Management](r_InstallWFacServMgmnt.md)
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 

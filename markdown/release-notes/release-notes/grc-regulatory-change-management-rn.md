@@ -14,11 +14,11 @@ The ServiceNow® Regulatory Change Management application enables you to check u
 
 ## Regulatory Change Management highlights for the Australia release
 
-[Early availability](../quality/australia-all-other-fixes.md)
+[Early availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-all-other-fixes.md)
 
 Review the updated skill family name for Regulatory change management Now Assist skills.
 
-[Australia Patch 1](../quality/australia-patch-1.md)
+[Australia Patch 1](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/../quality/australia-patch-1.md)
 
 Review the updated AI experience with three licensing tiers.
 
@@ -37,5 +37,5 @@ See [Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/
 
 Install Regulatory Change Management and Now Assist for IRM by requesting them from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://docs.servicenow.com/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[Governance, Risk, and Compliance release notes](grc-rn-landing.md)
+**Parent Topic:**[Governance, Risk, and Compliance release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/grc-rn-landing.md)
 

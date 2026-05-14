@@ -60,7 +60,7 @@ Access permissions set on the parent request folder are automatically inherited 
     -   To modify an existing external app configuration, open the existing external app configuration from the list.
 3.  On the Contract Integration Type page, click the **External Storage** link.
 
-    ![External storage form](../image/cmpro-external-storage.png "External storage configuration form")
+    ![External storage form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-external-storage.png "External storage configuration form")
 
 4.  On the form, fill in the fields.
 
@@ -161,12 +161,12 @@ The external storage system is configured and ready to be used for storing contr
 
 **Note:** \(Optional\) You can view, edit, and delete the record.
 
-For information on configuring electronic signature provider, see [Configure an e-signature provider](cncore-integrate-esign.md).
+For information on configuring electronic signature provider, see [Configure an e-signature provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-esign.md).
 
-**Parent Topic:**[Configuring external applications for Contract Management Pro](../concept/cncore-set-ext-app-config.md)
+**Parent Topic:**[Configuring external applications for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-set-ext-app-config.md)
 
 **Related topics**  
 
 
-[Configure an e-signature provider](cncore-integrate-esign.md)
+[Configure an e-signature provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-esign.md)
 

@@ -21,7 +21,7 @@ Deflection tracking uses the topics and topic blocks created in Virtual Agent De
 
 By default, ITSM Virtual Agent includes pre-built deflection configurations in the base system. You can use the deflection configurations in the base system or customize them, as needed. For more information, see [Create deflection configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-up-deflection-settings-va.md).
 
-![Base system deflection configuration and patterns.](../image/itsm-deflection-tracking-default-configurations.png)
+![Base system deflection configuration and patterns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/itsm-deflection-tracking-default-configurations.png)
 
 The pre-built deflection patterns in the base system are described in the following table.
 
@@ -55,5 +55,5 @@ The deflection metrics are generated and stored in the Deflection Metric \[ssa\_
     For more information about this dashboard, see Conversational Analytics Dashboard.
 
 
-**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)
+**Parent Topic:**[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-actionable-notifications.md)
 

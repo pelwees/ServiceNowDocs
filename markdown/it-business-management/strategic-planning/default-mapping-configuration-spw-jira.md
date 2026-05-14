@@ -51,10 +51,10 @@ Enterprise agile iteration \[sn\_apw\_advanced\_eap\_iteration\] in Strategic Pl
 |name|name|
 |end\_date|endDate|
 
-**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
+**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
 **Related topics**  
 
 
-[Review default mapping configuration for Jira projects in SPW](../task/review-default-map-config-jira-projects-spw.md)
+[Review default mapping configuration for Jira projects in SPW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/review-default-map-config-jira-projects-spw.md)
 

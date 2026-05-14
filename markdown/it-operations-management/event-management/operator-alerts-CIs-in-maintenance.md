@@ -31,7 +31,7 @@ Role required: evt\_mgmt\_operator
 
     1.  Navigate to **Event Management** &gt; **Operators Workspace**.
 
-    2.  Click the filter icon \(![Filter icon](../image/filter-icon.png)\) and in the Filter box, click **Advanced view** and specify:
+    2.  Click the filter icon \(![Filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/filter-icon.png)\) and in the Filter box, click **Advanced view** and specify:
 
         `State` \| `is` \| `Maintenance`.
 
@@ -47,9 +47,9 @@ Role required: evt\_mgmt\_operator
 
     In this example, the status of the server \(on the **Details** tab\) is **In Maintenance**. You can view the scheduled change request on the **Change Requests** tab \(someone will reconfigure the CI\).
 
-    ![Maintenance](../image/ci-in-maint.png)
+    ![Maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-in-maint.png)
 
-    ![Change](../image/ci-change-request.png)
+    ![Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/ci-change-request.png)
 
 5.  At this point, you should not modify the alert associated with this CI.
 
@@ -57,8 +57,8 @@ Role required: evt\_mgmt\_operator
 
 6.  After you verify that the **Status** field on the CI is not **In Maintenance**, open the alert again and clear the **Maintenance** check box.
 
-7.  Continue to [triage the alert](operator-phase-triage-incident.md).
+7.  Continue to [triage the alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-phase-triage-incident.md).
 
 
-**Parent Topic:**[Advanced tasks for the Event Management operator](../concept/operator-advanced-tasks.md)
+**Parent Topic:**[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/operator-advanced-tasks.md)
 

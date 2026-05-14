@@ -24,9 +24,9 @@ Integrate the ServiceNow instance and Salesforce Marketing Cloud by using Salesf
 
 ## Procedure
 
-1.  [Using basic authentication for Salesforce Marketing Cloud spoke](setup-salesforce-marketing-cloud.md#)
+1.  [Using basic authentication for Salesforce Marketing Cloud spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#)
 
-2.  [Using OAuth 2.0 for Salesforce Marketing Cloud spoke](setup-salesforce-marketing-cloud.md#)
+2.  [Using OAuth 2.0 for Salesforce Marketing Cloud spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#)
 
 
 ## Using basic authentication for Salesforce Marketing Cloud spoke
@@ -188,7 +188,7 @@ Field to verify the temporary password.
 
     1.  Navigate to **Administration** &gt; **Users** &gt; **Users**.
 
-    2.  From the list of available users, select the check box for the user that you created in [step 4](setup-salesforce-marketing-cloud.md#create-user).
+    2.  From the list of available users, select the check box for the user that you created in [step 4](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#create-user).
 
     3.  Click **Manage Roles**.
 
@@ -196,7 +196,7 @@ Field to verify the temporary password.
 
     4.  In the Roles form section, click **Edit Roles**.
 
-    5.  When the list of available roles appears, select the check box for the user role that you created in [step 5](setup-salesforce-marketing-cloud.md#create-user-role).
+    5.  When the list of available roles appears, select the check box for the user role that you created in [step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#create-user-role).
 
     6.  Click **Save**.
 
@@ -228,8 +228,8 @@ Role required: admin
     |SOAP Connection URL|URL of your SOAPConnection endpoint. Enter `https://<*subdomain*>.soap.marketingcloudapis.com/Service.asmx`, where &lt;*subdomain*&gt; is your Salesforce Marketing Cloud subdomain.|
     |Please Enter the Credential Information|
     |Username Profile Name|Name of your credentials.|
-    |Username|Username of the user that you can access the Salesforce Marketing Cloud SOAP API with. Enter the username of the user that you created in [Create a user for accessing the Salesforce Marketing Cloud SOAP API](setup-salesforce-marketing-cloud.md#).|
-    |Password|Password of the user that you can access the Salesforce Marketing Cloud SOAP API with. Enter the password of the user that you created in [Create a user for accessing the Salesforce Marketing Cloud SOAP API](setup-salesforce-marketing-cloud.md#).|
+    |Username|Username of the user that you can access the Salesforce Marketing Cloud SOAP API with. Enter the username of the user that you created in [Create a user for accessing the Salesforce Marketing Cloud SOAP API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#).|
+    |Password|Password of the user that you can access the Salesforce Marketing Cloud SOAP API with. Enter the password of the user that you created in [Create a user for accessing the Salesforce Marketing Cloud SOAP API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#).|
 
 5.  Click **Create**.
 
@@ -279,7 +279,7 @@ Create a connection and credential for OAuth 2.0 authorization of Salesforce Mar
 
 Role required: admin
 
--   [Create OAuth 2.0 credentials for Salesforce Marketing Cloud spoke](setup-salesforce-marketing-cloud.md#)
+-   [Create OAuth 2.0 credentials for Salesforce Marketing Cloud spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-salesforce-marketing-cloud.md#)
 
 #### Procedure
 

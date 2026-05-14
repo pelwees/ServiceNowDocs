@@ -22,17 +22,17 @@ The avatars of other developers appear in the UI Builder header next to the undo
 -   Green dot if the user is currently working on the page
 -   No dot if the user is not logged in
 
-![Arrow pointing to a users avatar in the ui builder header.](../image/collaboration-avatar-header.png)
+![Arrow pointing to a users avatar in the ui builder header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/collaboration-avatar-header.png)
 
 A banner will appear asking you to reload the page to view the latest version if changes are made by other users while you are editing a page.
 
-![Red banner informing the user that the page has been updated and needs to be reloaded to view the latest version.](../image/collaboration-outdated-banner.png)
+![Red banner informing the user that the page has been updated and needs to be reloaded to view the latest version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/collaboration-outdated-banner.png)
 
 If you have made changes at the same time as another user you will be prompted to **Overwrite and save** your changes to proceed with previewing the page.
 
-![Modal that asks if you want to overwrite and save the changes you made in UI Builder.](../image/collaboration-overwrite.png)
+![Modal that asks if you want to overwrite and save the changes you made in UI Builder.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/collaboration-overwrite.png)
 
-**Parent Topic:**[Working in UI Builder](using-ui-builder.md)
+**Parent Topic:**[Working in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/using-ui-builder.md)
 
 ## Find and compare page changes
 
@@ -54,11 +54,11 @@ Role required: ui\_builder\_admin
 
 5.  Select **Compare versions**.
 
-    ![Arrow pointing to the compare versions option in the UI Builder menu.](../image/code-comparison-menu-option.png)
+    ![Arrow pointing to the compare versions option in the UI Builder menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/code-comparison-menu-option.png)
 
     The **Version comparison** drawer opens.
 
-    ![UI Builder version comparison drawer showing the changes made since a page was last saved.](../image/code-comparison-compare-drawer.png)
+    ![UI Builder version comparison drawer showing the changes made since a page was last saved.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/code-comparison-compare-drawer.png)
 
 6.  Review changes by selecting an item that displays one of the following:
 

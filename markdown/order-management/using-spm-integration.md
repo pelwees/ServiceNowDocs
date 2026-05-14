@@ -40,7 +40,7 @@ Review an order fulfillment project and state
 
 3.  Select the **Details** tab then scroll down to the **Project Tasks** tab to review project tasks, State, and Percent complete,
 
-![List view that shows project tasks, state, and percent complete](../image/ppm-project-list-view-states.png)
+![List view that shows project tasks, state, and percent complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/ppm-project-list-view-states.png)
 
 
 </td></tr><tr><td>
@@ -53,7 +53,7 @@ Review the project state and project task state to assess the project status
 2.  Select the project for the order item.
 3.  Select the **Planning** tab.
 
-The Gantt chart view displays.![Gantt chart view of project task state for planned order tasks and status colors indicating if the task is within the planned end date](../image/ppm-planning-console-gantt.png)
+The Gantt chart view displays.![Gantt chart view of project task state for planned order tasks and status colors indicating if the task is within the planned end date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/ppm-planning-console-gantt.png)
 
 
 </td></tr><tr><td>
@@ -73,8 +73,8 @@ As a fulfillment agent or manager, you can view the relationship between a proje
 
 |Task|Example|
 |----|-------|
-|View order line-to-project relationship in order line item form|![Order Line form view that shows Order Line Task Relationship](../image/order-line-relationship.png)|
-|View project task-to-domain order relationship in domain form|![Domain order form that shows Project Task Oversight tab with parent child task details](../image/domain-order-proj-relationship.png)|
-|View order task-to-project task relationship in order task from|![Order task form that shows Project Task Oversight tab with parent child task details](../image/order-task-proj-relationship.png)|
-|View **Details** tab in order task relationship to see task number, project number, and order line item number relationship|![Order line task view that shows Details tab of order line task relationship](../image/ol-relationship-details-tab.png)|
+|View order line-to-project relationship in order line item form|![Order Line form view that shows Order Line Task Relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-line-relationship.png)|
+|View project task-to-domain order relationship in domain form|![Domain order form that shows Project Task Oversight tab with parent child task details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/domain-order-proj-relationship.png)|
+|View order task-to-project task relationship in order task from|![Order task form that shows Project Task Oversight tab with parent child task details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-task-proj-relationship.png)|
+|View **Details** tab in order task relationship to see task number, project number, and order line item number relationship|![Order line task view that shows Details tab of order line task relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/ol-relationship-details-tab.png)|
 

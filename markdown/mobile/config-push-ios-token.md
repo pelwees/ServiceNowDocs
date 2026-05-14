@@ -35,7 +35,7 @@ Role required: admin
 
 4.  In **Apple Authentication Type** field, select **Token Based**.
 
-5.  In the Apple-Token Based Authentication tab, select the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\) next to the **Push Token Auth** field.
+5.  In the Apple-Token Based Authentication tab, select the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) next to the **Push Token Auth** field.
 
 6.  In the Push Token Based Authentication list, select **New**.
 
@@ -59,5 +59,5 @@ Role required: admin
 9.  On the push application form, select **Update**.
 
 
-**Parent Topic:**[Mobile push notifications](../concept/sg-mobile-push-notifications.md)
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-mobile-push-notifications.md)
 

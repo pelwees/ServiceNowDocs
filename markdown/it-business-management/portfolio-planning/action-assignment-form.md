@@ -24,5 +24,5 @@ Learn about the fields of the Action Assignment form. Use this form to add the *
 |Specify client Action|Client action. Look up and select **Create New Record**.|
 |View|View of the form on which the action button is displayed.|
 
-**Parent Topic:**[Form field information for Portfolio Planning](form-field-information-for-portfolio-planning.md)
+**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 

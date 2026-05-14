@@ -23,12 +23,12 @@ Role required: admin
 
 2.  In the list search bar, search for `glide.ui.polaris.dark_themes_enabled`.
 
-    ![System properties list search bar.](../image/next-exp-enable-dark-theme.png)
+    ![System properties list search bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-enable-dark-theme.png)
 
 3.  Enable the dark theme for use in your Next Experience limited classic environment and configurable workspace instances by setting `glide.ui.polaris.dark_themes_enabled` to **True**.
 
-    ![Set system property value to true.](../image/next-exp-enable-dark-theme-property.png)
+    ![Set system property value to true.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-enable-dark-theme-property.png)
 
 
-**Parent Topic:**[Working with the dark theme](../concept/tb-working-in-dark-theme.md)
+**Parent Topic:**[Working with the dark theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/tb-working-in-dark-theme.md)
 

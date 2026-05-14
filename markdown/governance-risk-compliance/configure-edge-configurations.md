@@ -25,9 +25,9 @@ Role required: sn\_oper\_res.admin
 
 3.  In the Edge configurations related list, select **New**.
 
-    For more information on the fields, see [Edge configuration form](../reference/edge-configuration-form.md).
+    For more information on the fields, see [Edge configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/edge-configuration-form.md).
 
-    ![Edge configurations related list.](../image/edge-config-record.png)
+    ![Edge configurations related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/edge-config-record.png)
 
     The Nexus map configuration, Node relationship configuration, Source table, Target table, and Relationship table fields are auto-populated in the Edge configuration record.
 

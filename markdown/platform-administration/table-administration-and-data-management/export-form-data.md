@@ -29,7 +29,7 @@ A PDF is generated only if the form has been submitted. An unsubmitted form gene
 
 1.  Navigate to the record that you want to export.
 
-2.  Select the Additional actions menu \(![Additional actions menu.](../../../common/image/Form_MenuIcon.png)\).
+2.  Select the Additional actions menu \(![Additional actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../../../common/image/Form_MenuIcon.png)\).
 
 3.  Select an export option.
 

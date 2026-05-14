@@ -25,7 +25,7 @@ To purchase a subscription, contact your ServiceNow account manager. The account
 
 If you don't have an account manager, decide to delay activation after purchase, or want to evaluate the product on a subproduction instance without charge, follow these steps.
 
-For a list of Integration Hub plugins, see [Integration Hub plugins](../reference/ih-plugins.md).
+For a list of Integration Hub plugins, see [Integration Hub plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../reference/ih-plugins.md).
 
 ## Procedure
 
@@ -77,7 +77,7 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Request Integration Hub](../../flow-designer/concept/request-ih-overview.md)
+**Parent Topic:**[Request Integration Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/concept/request-ih-overview.md)
 
 **Related topics**  
 

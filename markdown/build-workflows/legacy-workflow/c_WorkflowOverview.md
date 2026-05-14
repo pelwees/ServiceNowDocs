@@ -22,31 +22,31 @@ Workflow is a legacy application that provided a drag-and-drop interface for aut
 **Explore**
 
  -   Australia
--   [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
--   [Workflow activity pinning](../../using-workflows/concept/c_ActivityPinning.md)
--   [Domain separation and Workflow](../../using-workflows/concept/c_WorkflowsAndDomainSeparation.md#)
+-   [Workflow movement with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
+-   [Workflow activity pinning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_ActivityPinning.md)
+-   [Domain separation and Workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowsAndDomainSeparation.md#)
 -   [Workflow training on the ServiceNow® Developer Site](https://developer.servicenow.com/app.do#!/training/article/app_store_learnv2_automatingapps_paris_workflow/app_store_learnv2_automatingapps_paris_workflow_objectives?v=paris)
 
 </td><td>
 
 **Set up**
 
- [Getting started with workflows](../reference/getting-started-workflows.md)
+ [Getting started with workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../reference/getting-started-workflows.md)
 
 </td><td>
 
 **Administer**
 
- -   [Workflow roles](../reference/r_WorkflowRoles.md)
--   [Administering workflow contexts](../../workflow-administration/reference/r_AdministeringWorkflowContexts.md)
+ -   [Workflow roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../reference/r_WorkflowRoles.md)
+-   [Administering workflow contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-administration/reference/r_AdministeringWorkflowContexts.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [Workflow editor](../reference/workflow-editor.md)
--   [Create a workflow](../../workflow-administration/task/t_CreateAWorkflow.md)
--   [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+ -   [Workflow editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../reference/workflow-editor.md)
+-   [Create a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-administration/task/t_CreateAWorkflow.md)
+-   [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowActivities.md)
 
 </td><td>
 
@@ -55,14 +55,14 @@ Workflow is a legacy application that provided a drag-and-drop interface for aut
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Workflow API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_WorkflowScopedAPI.md)
--   [Using variables in a workflow](../../using-workflows/concept/c_UsingVariablesInAWorkflow.md#)
+-   [Using variables in a workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_UsingVariablesInAWorkflow.md#)
 
 </td><td>
 
 **Troubleshoot and get help**
 
  -   [Ask or answer questions in the Developer Community](https://community.servicenow.com/community/develop/content?query=workflow)
--   [Troubleshoot workflows](c_TroubleshootWorkflows.md#)
+-   [Troubleshoot workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_TroubleshootWorkflows.md#)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 

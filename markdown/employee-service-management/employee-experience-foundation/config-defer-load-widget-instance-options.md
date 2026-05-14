@@ -90,12 +90,12 @@ You can find a similar experience for the following widgets:
     We're experiencing heavy usage. Try again later.
     ```
 
-    For more information, see [Popular topics widget](config-popular-topics.md).
+    For more information, see [Popular topics widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-popular-topics.md).
 
 -   **My active items**: During high-traffic, the widget doesn't display the count of items.
 
 **Related topics**  
 
 
-[Defer load in Employee Center](../concept/ec-load-expe-defer-load.md)
+[Defer load in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-load-expe-defer-load.md)
 

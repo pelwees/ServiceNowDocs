@@ -19,7 +19,7 @@ Recommended Actions for Operational Technology Service Management \(OTSM\) allow
 
 <table id="table_e4f_b43_jdc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore](exploring-recommended-actions-otsm.md)
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/exploring-recommended-actions-otsm.md)
 
  ![](../../../reuse/icons/brand-icons/bus-explore.svg)
 
@@ -27,7 +27,7 @@ Recommended Actions for Operational Technology Service Management \(OTSM\) allow
 
 </td><td>
 
-[Configure](configuring-recommended-actions-otsm.md)
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/configuring-recommended-actions-otsm.md)
 
  ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)
 
@@ -35,7 +35,7 @@ Recommended Actions for Operational Technology Service Management \(OTSM\) allow
 
 </td><td>
 
-[Use](using-recommended-actions-otsm.md)
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/using-recommended-actions-otsm.md)
 
  ![](../../../reuse/icons/brand-icons/bus-management-console.svg)
 

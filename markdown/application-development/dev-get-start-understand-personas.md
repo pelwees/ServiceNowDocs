@@ -38,5 +38,5 @@ Applications created in the ServiceNow AI Platform typically serve multiple pers
 -   Map tasks to outcomes. Focus on what users must accomplish rather than just their job title. This approach helps avoid over-engineering features that don’t add value.
 -   Plan for scalability. Use configurable workspaces and templates aligned with persona needs to reduce maintenance overhead.
 
-**Parent Topic:**[User interface and experiences](dev-get-start-ui-and-experience.md)
+**Parent Topic:**[User interface and experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/dev-get-start-ui-and-experience.md)
 

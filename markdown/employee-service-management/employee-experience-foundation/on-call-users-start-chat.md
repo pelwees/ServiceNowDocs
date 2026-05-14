@@ -21,8 +21,8 @@ The **sn\_tcm\_collab\_hook.on\_call\_tables\_for\_start\_chat\_action** system 
 
 For more information on On-Call Scheduling, see [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md).
 
--   **[Extend On-Call Scheduling users to initiate Microsoft Teams Chat](../task/extend-on-call-users-start-chat.md)**  
+-   **[Extend On-Call Scheduling users to initiate Microsoft Teams Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/extend-on-call-users-start-chat.md)**  
 View the list of On-Call Scheduling users in Start Microsoft Teams chat for a change, request, or a request item.
 
-**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](sn-ms-teams-config-hr.md)
+**Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 

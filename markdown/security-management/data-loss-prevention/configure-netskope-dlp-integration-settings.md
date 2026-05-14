@@ -39,5 +39,5 @@ Role required: sn\_dlir.admin
 
 Your modified integration settings are applied in the next polling interval as defined in the profile.
 
-**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](../concept/dlp-incident-response-integration-netskope.md)
+**Parent Topic:**[Data Loss Prevention Incident Response Integration with Netskope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/dlp-incident-response-integration-netskope.md)
 

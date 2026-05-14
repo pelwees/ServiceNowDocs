@@ -13,7 +13,7 @@ breadcrumb: [Configure accessibility preferences, Preferences, Working in Next E
 
 Learn more about the Enable keyboard shortcuts accessibility preference.
 
-![Enable keyboard shortcuts accessibility preference.](../image/coral-pref-shortcuts.png)
+![Enable keyboard shortcuts accessibility preference.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/coral-pref-shortcuts.png)
 
 The purpose of this preference is to improve efficiency and productivity.
 
@@ -56,13 +56,13 @@ Deactivated
 
 Keyboard shortcuts are active, and users can access a list of available shortcuts from the user menu.
 
-![User menu with Keyboard Shortcuts displayed.](../image/a11y-pref-keyboard-shortcut-on.png)
+![User menu with Keyboard Shortcuts displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-keyboard-shortcut-on.png)
 
 </td><td>
 
 Keyboard shortcuts are not available.
 
-![User menu without Keyboard shortcuts turned off.](../image/a11y-pref-keyboard-shortcut-off.png)
+![User menu without Keyboard shortcuts turned off.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/a11y-pref-keyboard-shortcut-off.png)
 
 </td></tr></tbody>
 </table>

@@ -91,5 +91,5 @@ Diagrams
 If needed, or if you do not have a Configuration Management Database \(CMDB\), add data flow, network, and boundary diagrams.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+</table>**Parent Topic:**[CAM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../concept/reference-grc-cam.md)
 

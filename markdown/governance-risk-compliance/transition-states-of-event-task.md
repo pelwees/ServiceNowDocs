@@ -31,7 +31,7 @@ An event contains similar tasks grouped together.
 
 The event from the list where similar event tasks are grouped together is shown in the example.
 
-![Similar tasks group.](../image/event-started-for-sim-task-grp.png)
+![Similar tasks group.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-started-for-sim-task-grp.png)
 
 </td></tr><tr><td>
 
@@ -41,7 +41,7 @@ State the **Original task** field before starting the event.
 
 Before starting the event, the **Original task** field in the Similar tasks group is empty and in the read-only state.
 
-![Original task empty.](../image/event-task-ori-task-empty.png)
+![Original task empty.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-task-ori-task-empty.png)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,7 @@ After an event is started, the original task is auto-assigned.
 
 The first task of the event, such as t4 \(EVNTSK0010020\) of group 2 in the example, becomes the original task of the Similar tasks group. The example shows that task 4 \(t4\) does not have any dependency.
 
-![Original task Open.](../image/event-ori-task-open.png)![Original task updated.](../image/event-starts-ori-task-updated.png)
+![Original task Open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-ori-task-open.png)![Original task updated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-starts-ori-task-updated.png)
 
 </td></tr><tr><td>
 
@@ -61,9 +61,9 @@ States of original and duplicate tasks
 
 The original task is updated to the **On hold** state and the duplicate task is in the **Pending** state.
 
-![On hold state.](../image/event-sim-task-grp-refreshed.png)For context, the worknote for the original task is updated such that the task has been moved to **On hold** because it was grouped by the similar task groups.
+![On hold state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-sim-task-grp-refreshed.png)For context, the worknote for the original task is updated such that the task has been moved to **On hold** because it was grouped by the similar task groups.
 
-![Worknote.](../image/event-ori-task-worknote-updated.png)
+![Worknote.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-ori-task-worknote-updated.png)
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ The dependencies in the similar tasks group are closed.
 
 Task 4 is dependent on task 3, task 3 is dependent on task 2, and task 2 is dependent on task 1. Therefore, it is closed first.
 
-![Original task Open.](../image/event-ori-task-open.png)
+![Original task Open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-ori-task-open.png)
 
 </td></tr><tr><td>
 
@@ -107,12 +107,12 @@ Final step. After closing the original task, the duplicate task moves to the **C
 
 The duplicate task \(t3\) moves to the **Closed duplicate** state automatically.
 
-![Closed duplicate.](../image/event-closed-dup-task.png)
+![Closed duplicate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/event-closed-dup-task.png)
 
 </td></tr></tbody>
 </table>You can unlink an event task from the similar tasks group by selecting the **Unlink similar tasks group** UI action in the event task.
 
 You can re-trigger an original task as a manual task and complete its workflow like a regular event task by selecting the **Re-trigger as a manual task** UI action in the event task. It moves the original task to the **Open** state, but its duplicate task stays in the **Closed duplicate** state.
 
-**Parent Topic:**[Creating similar tasks groups](identifying-running-dup-tasks-once.md)
+**Parent Topic:**[Creating similar tasks groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md)
 

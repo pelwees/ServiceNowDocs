@@ -35,20 +35,20 @@ Roles required:
 
 4.  To integrate your ServiceNow instance with another Slack bot, select the Add integration for ServiceNow Virtual Agent icon against the ServiceNow Virtual Agent.
 
-    Additionally, you can also select the **Add integration** drop-down on the top-right of the Manage Slack channel page and select **Integrate with ServiceNow Virtual Agent**.![Manage Slack channel view in Conversational Interfaces general settings. The Add integration for ServiceNow Virtual Agent icon and the Integrate with Servicenow Virtual Agent dropdown are highlighted.](../images/add-integration-icon-slck.png)
+    Additionally, you can also select the **Add integration** drop-down on the top-right of the Manage Slack channel page and select **Integrate with ServiceNow Virtual Agent**.![Manage Slack channel view in Conversational Interfaces general settings. The Add integration for ServiceNow Virtual Agent icon and the Integrate with Servicenow Virtual Agent dropdown are highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-integration-icon-slck.png)
 
-5.  Select the Manage Bot icon and select **Manage Virtual Agent**.![The Manage Virtual Agent option displays on the Manage bot menu for the Slack channel.](../images/manage-slck-snow-bot.png)
+5.  Select the Manage Bot icon and select **Manage Virtual Agent**.![The Manage Virtual Agent option displays on the Manage bot menu for the Slack channel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/manage-slck-snow-bot.png)
 
     You are redirected to the Bot Configuration page for the selected bot.
 
 6.  Select the **Branding** tab to brand your ServiceNow Virtual Agent bot.
 
-    For more information about branding your bot, see [Configure branding for your Virtual Agent bot in Slack](slack-branding-overview.md).
+    For more information about branding your bot, see [Configure branding for your Virtual Agent bot in Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/slack-branding-overview.md).
 
 7.  Select the **Bot Messages** tab to create and edit a bot message.
 
-    For more information, see [Create bot messages](create-bot-messages.md#).
+    For more information, see [Create bot messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-bot-messages.md#).
 
 
-**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](../concept/va-integ-slack.md)
+**Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-integ-slack.md)
 

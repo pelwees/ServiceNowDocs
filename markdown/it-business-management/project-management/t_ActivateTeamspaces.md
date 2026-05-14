@@ -44,12 +44,12 @@ You must activate a teamspace plugin to use the teamspace feature. Following tea
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://www.servicenow.com/docs/bundle/australia-platform-administration/page/administer/plugins/task/find-components.html).
 
 
-**Parent Topic:**[Using Teamspaces in Project Management](../concept/c_Teamspaces.md)
+**Parent Topic:**[Using Teamspaces in Project Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_Teamspaces.md)
 
 **Related topics**  
 
 
-[Installed with teamspaces](../reference/r_InstalledWithTeamspaces.md)
+[Installed with teamspaces](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/r_InstalledWithTeamspaces.md)
 
-[Configure teamspace settings](../reference/t_EnableATeamspace.md)
+[Configure teamspace settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/t_EnableATeamspace.md)
 

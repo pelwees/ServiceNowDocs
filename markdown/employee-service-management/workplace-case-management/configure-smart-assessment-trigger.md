@@ -97,5 +97,5 @@ Option to specify the case state that cannot be reached until the assessment is 
 5.  In the **Smart assessment template** field, select the published smart assessment template that should be applied when trigger conditions are met.
 
 
-**Parent Topic:**[Smart Assessment for Workplace Case and Task](smart-assessment-for-workplace-case-and-task.md)
+**Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 

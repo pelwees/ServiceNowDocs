@@ -23,7 +23,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 1.  From the Scheduled tasks panel, select **Resubmit** for the activity or improvement opportunity you want to generate an updated analysis for.
 
-    ![Resubmit cluster analysis request](../image/resubmit-cluster.png)
+    ![Resubmit cluster analysis request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/resubmit-cluster.png)
 
     To see details of the previous cluster analysis request, select **View error details**. View error details navigates you to the ML Solution form for the failed task.
 
@@ -32,7 +32,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## What to do next
 
-[View clusters in a treemap](view-cluster-analysis.md)
+[View clusters in a treemap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/view-cluster-analysis.md)
 
-**Parent Topic:**[Cluster analysis](../concept/cluster-analysis.md)
+**Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/cluster-analysis.md)
 

@@ -19,15 +19,15 @@ You can pass a RequestInit object into the Request\(\) constructor, or directly 
 
 This API is part of a set of Fetch APIs, which provide various actions for fetching resources from external websites. The full Fetch API collection includes:
 
--   [Fetch - fetch\(String resource, Object options\)](FetchAPI.md#): Starts the process of fetching a resource from the network.
--   [Fetch Headers - Scoped, Global](Fetch.HeadersAPI.md#): Retrieve and modify request and response headers.
--   [Fetch Request - Scoped, Global](Fetch.RequestAPI.md#): Create a new request object.
--   [Fetch RequestInit - Scoped, Global](Fetch.RequestInitAPI.md#): Set options to configure a fetch request.
--   [Fetch Response - Scoped,Global](Fetch.ResponseAPI.md#): Create a new response object.
+-   [Fetch - fetch\(String resource, Object options\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/FetchAPI.md#): Starts the process of fetching a resource from the network.
+-   [Fetch Headers - Scoped, Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/Fetch.HeadersAPI.md#): Retrieve and modify request and response headers.
+-   [Fetch Request - Scoped, Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/Fetch.RequestAPI.md#): Create a new request object.
+-   [Fetch RequestInit - Scoped, Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/Fetch.RequestInitAPI.md#): Set options to configure a fetch request.
+-   [Fetch Response - Scoped,Global](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/Fetch.ResponseAPI.md#): Create a new response object.
 
 To support fetch actions, the system property, `glide.hosts.allowlist`, allows controls over what hosts a fetch method can access. It applies to HTTP APIs like RestMessageV2 and those mentioned above. For more information about `glide.hosts.allowlist`, see [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Fetch RequestInit - RequestInit
 

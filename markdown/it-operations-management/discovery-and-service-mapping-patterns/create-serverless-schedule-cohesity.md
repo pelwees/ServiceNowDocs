@@ -18,7 +18,7 @@ Create a serverless discovery schedule to discover Cohesity storage systems.
 ## Before you begin
 
 -   Verify the MID Server is set to Active and is reachable to Cohesity storage cluster.
--   Create an alias for the basic authentication credential. For more information, see [Create an alias for a basic authentication credential for Cohesity storage system discovery](create-alias-basic-auth-cred-cohesity.md).
+-   Create an alias for the basic authentication credential. For more information, see [Create an alias for a basic authentication credential for Cohesity storage system discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-alias-basic-auth-cred-cohesity.md).
 
 Role required: discovery\_admin
 
@@ -79,5 +79,5 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 **Related topics**  
 
 
-[Cohesity storage system discovery](../reference/cohesity-storage-system-discovery.md)
+[Cohesity storage system discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/cohesity-storage-system-discovery.md)
 

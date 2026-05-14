@@ -27,7 +27,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 3.  Use the **Screen** list to select your screen.
 
-    ![The application and screen lists on the open screen](../image/mcb-open-screen-lists.png)
+    ![The application and screen lists on the open screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mcb-open-screen-lists.png)
 
 4.  Select the card where you want to apply a card template.
 
@@ -42,7 +42,7 @@ For more information about the delegated developer role, see [Delegated developm
 
 ## What to do next
 
-To change the layout of the elements of your mobile card, see [Mobile Card Builder user interface](../reference/mcb-stage-ui.md).
+To change the layout of the elements of your mobile card, see [Mobile Card Builder user interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../reference/mcb-stage-ui.md).
 
-When you are happy with the appearance of your card, and want to add values from your records, see [Assign field values to your mobile card](mcb-assign-fields.md).
+When you are happy with the appearance of your card, and want to add values from your records, see [Assign field values to your mobile card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mcb-assign-fields.md).
 

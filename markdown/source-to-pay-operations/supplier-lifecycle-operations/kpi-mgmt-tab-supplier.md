@@ -33,7 +33,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
     All the KPIs that are listed on this tab are grouped by the KPI performance domain set in the KPI template they were created from.
 
-    ![KPI management tab](../image/kpi-mgmt-tab.png "KPI management tab")
+    ![KPI management tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/kpi-mgmt-tab.png "KPI management tab")
 
 
 ## Result
@@ -45,20 +45,20 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
     **Note:** This functionality is available with the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
-[Run segmentation rule](run-segmentation-rule.md)
+[Run segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-segmentation-rule.md)
 
-[Complete a KPI collection task from the Source-to-Pay Workspace](complete-kpi-task-spw.md)
+[Complete a KPI collection task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-spw.md)
 
-[Complete a KPI collection task from the Supplier Collaboration Portal](complete-kpi-task-scp.md)
+[Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md)
 
-[View KPI data from the List page of the Source-to-Pay Workspace](view-kpi-data-slo.md)
+[View KPI data from the List page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-kpi-data-slo.md)
 
-[View supplier performance dashboard](view-supplier-performance-dashboard.md)
+[View supplier performance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 

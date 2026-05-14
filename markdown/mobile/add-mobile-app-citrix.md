@@ -52,7 +52,7 @@ Role required: admin
 
     4.  Click **Next**.
 
-    If Android for Work cannot find the ServiceNow application, the app might not be approved for your organization. You can [approve the app in the Google Play store](approve-app-google.md).
+    If Android for Work cannot find the ServiceNow application, the app might not be approved for your organization. You can [approve the app in the Google Play store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/approve-app-google.md).
 
     If the search results still do not display in Citrix, click **Didn't find the app you were looking for?** then enter the URL for the app: `https://play.google.com/work/apps/details?id=com.servicenow.servicenow`.
 
@@ -69,5 +69,5 @@ Role required: admin
 
 After successfully adding the ServiceNow app from the iOS store platforms, install the ServiceNow application from the Citrix Hub app from your devices. For Android, the ServiceNow app appears in the Google Play Store managed by your Android Work Profile.
 
-**Parent Topic:**[Citrix XenMobile](../concept/citrix-mdm.md)
+**Parent Topic:**[Citrix XenMobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/citrix-mdm.md)
 

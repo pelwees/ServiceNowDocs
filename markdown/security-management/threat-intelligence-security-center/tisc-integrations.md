@@ -15,17 +15,17 @@ breadcrumb: [Integrate, Threat Intelligence Security Center, Security Operations
 
 This section provides instructions for configuring and enabling the Threat Intelligence integrations.
 
--   **[TISC Enrichment integrations](tisc-enrichment-integrations.md)**  
+-   **[TISC Enrichment integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md)**  
 The Threat Intelligence Security Center base system does not include any pre-configured integrations. This section provides instructions for configuring both ServiceNow and third-party integrations.
--   **[TISC Security Tools integrations](tisc-edr-integrations.md)**  
+-   **[TISC Security Tools integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)**  
 TISC Endpoint Detection and Response \(EDR\) integrations focuses on identifying and addressing security threats at an endpoint level.
 
-**Parent Topic:**[Integrate](integrating-threat-intelligence-security-center.md)
+**Parent Topic:**[Integrate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/integrating-threat-intelligence-security-center.md)
 
 **Related topics**  
 
 
-[Threat Intelligence Security Center Catalog](threat-intelligence-security-center-catalogue.md)
+[Threat Intelligence Security Center Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-catalogue.md)
 
-[Threat Intelligence Feeds](threat-intelligence-feeds.md)
+[Threat Intelligence Feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 

@@ -17,7 +17,7 @@ Add a custom software product for any publicly available software product that d
 
 ## Before you begin
 
-If you want to enable the Software Asset Management application to submit content requests for your custom software products, opt in to the Software Asset Management Content Service and then enable the Custom Software Products KPI. See [Enable sharing information with Software Asset Management content service](t_EnableSAMContentService.md) for detailed instructions.
+If you want to enable the Software Asset Management application to submit content requests for your custom software products, opt in to the Software Asset Management Content Service and then enable the Custom Software Products KPI. See [Enable sharing information with Software Asset Management content service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_EnableSAMContentService.md) for detailed instructions.
 
 Role required: sam\_admin
 
@@ -120,8 +120,8 @@ The custom software product is immediately available to use in your downstream p
 
         -   If you accept the suggestion, the Software Asset Management application begins using the software product in the Content Library for your downstream processes.
         -   If you reject the suggestion, the Software Asset Management application continues to use the custom software product in your downstream processes.
-        For more information on product suggestions, see [View custom software product suggestions in workspace](view-custom-software-product-suggestions-workspace.md).
+        For more information on product suggestions, see [View custom software product suggestions in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-custom-software-product-suggestions-workspace.md).
 
 
-**Parent Topic:**[Using Software Asset Workspace](../concept/using-sam-workspace.md)
+**Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/using-sam-workspace.md)
 

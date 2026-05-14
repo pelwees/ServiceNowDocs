@@ -25,7 +25,7 @@ Each service definition has a unique workflow/playbook, attributes, and forms. T
 
 Service definitions can also be grouped into service categories. Service categories enable easier navigation and controls access to authorized users.
 
-![Service Selector launched from a case list.](../image/fso-service-selector-case-list.png)
+![Service Selector launched from a case list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/fso-service-selector-case-list.png)
 
 The following are the main components needed to create a service definition:
 
@@ -35,12 +35,12 @@ The following are the main components needed to create a service definition:
 -   Flows are only needed for more complex use cases, such as ones with multiple tasks or subtasks.
 -   A new record producer for customer/requester to create via service catalog. Only use record producers if you want an end user to create the request.
 
-**Parent Topic:**[Using case types and service definitions in FSO](fso-int_guide-work_case_types.md)
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 
 **Related topics**  
 
 
 [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
-[Configure service definitions](../../../../product/fso-common/task/configure-service-definitions.md)
+[Configure service definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../../product/fso-common/task/configure-service-definitions.md)
 

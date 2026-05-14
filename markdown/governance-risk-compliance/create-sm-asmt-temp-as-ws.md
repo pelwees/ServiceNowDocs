@@ -29,7 +29,7 @@ Operational Resilience administrators contain the flow\_designer role, enabling 
 
     You can create assessment templates to manage your assessments in the Assessment Workspace. The following example shows demo data in an instance.
 
-    ![Assessment Workspace.](../image/asmt-workspace.png)
+    ![Assessment Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-workspace.png)
 
     When you select **New template**, the **General** and **Questions** tabs are displayed.
 
@@ -52,13 +52,13 @@ Operational Resilience administrators contain the flow\_designer role, enabling 
 
     3.  Select **Save**.
 
-    For information on creating an assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    For information on creating an assessment template, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
 5.  Navigate to the **Questions** tab and set up the assessment questions.
 
-    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md).
+    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-populate.md).
 
-    ![Questions.](../image/asmt-temp-questions-tab.png)
+    ![Questions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-temp-questions-tab.png)
 
 6.  In the **Automations** tab, view the user responses and select **Open** to view the actions that are automatically triggered based on user responses.
 
@@ -69,5 +69,5 @@ Operational Resilience administrators contain the flow\_designer role, enabling 
 
 ## What to do next
 
-Configure the vulnerability type after adding the Smart Assessment template. For more information, see [Set up the Operational vulnerability type](set-up-op-vul-type.md).
+Configure the vulnerability type after adding the Smart Assessment template. For more information, see [Set up the Operational vulnerability type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-op-vul-type.md).
 

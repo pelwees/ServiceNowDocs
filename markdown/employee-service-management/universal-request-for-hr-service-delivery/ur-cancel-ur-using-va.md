@@ -21,7 +21,7 @@ Role required: none
 
 ## Procedure
 
-1.  On the portal home page, open the chat window \(![Chat icon for Virtual Agent](../images/icon-chat-va.png)\).
+1.  On the portal home page, open the chat window \(![Chat icon for Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/icon-chat-va.png)\).
 
     The Virtual Agent prompts you to enter your request.
 
@@ -35,8 +35,8 @@ Role required: none
 
 5.  Select the appropriate responses to complete your request.
 
-    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](../concept/ur-va-conversation-flows.md).
+    For a sample Virtual Agent conversation, see [Universal Request Virtual Agent conversation flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-va-conversation-flows.md).
 
 
-**Parent Topic:**[Virtual Agent for Universal Request](../concept/ur-va-landing.md)
+**Parent Topic:**[Virtual Agent for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-va-landing.md)
 

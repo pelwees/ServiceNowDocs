@@ -69,5 +69,5 @@ Custom Platform URL to be inspected.**Note:** Don’t copy-paste the complete UR
 </table>3.  Click **Inspect**.
 
 
-**Parent Topic:**[Page Inspector](../concept/atf-page-inspector.md)
+**Parent Topic:**[Page Inspector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-page-inspector.md)
 

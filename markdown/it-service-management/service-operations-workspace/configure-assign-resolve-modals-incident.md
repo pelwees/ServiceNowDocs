@@ -35,13 +35,13 @@ Role required: admin
 
     1.  Open an incident or change request in Core UI.
 
-    2.  On the incident form or the change request form, select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
+    2.  On the incident form or the change request form, select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
 
     3.  Navigate to **View** &gt; **SOW Assign Modal**.
 
         The record is opened in the SOW Assign Modal view.
 
-    4.  Select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
+    4.  Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
 
     5.  Navigate to **Configure** &gt; **Form Layout**.
 
@@ -53,13 +53,13 @@ Role required: admin
 
     1.  Open an incident in Core UI.
 
-    2.  On the incident form, select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
+    2.  On the incident form, select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
 
     3.  Navigate to **View** &gt; **SOW Incident Resolve Modal**.
 
         The record is opened in the SOW Incident Resolve Modal view.
 
-    4.  Select the additional actions icon \(![Additional actions icon](../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
+    4.  Select the additional actions icon \(![Additional actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../enterprise-dev-ops/image/additional-actions-icon.png)\) on the header.
 
     5.  Navigate to **Configure** &gt; **Form Layout**.
 
@@ -68,5 +68,5 @@ Role required: admin
     7.  Select **Save**.
 
 
-**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](../concept/configuring-record-pages-sow-itsm.md)
+**Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configuring-record-pages-sow-itsm.md)
 

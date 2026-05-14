@@ -43,12 +43,12 @@ You must activate the Glide Notification Translation \(com.glide.notification.tr
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Dynamic translation](../concept/dynamic-translation.md)
+**Parent Topic:**[Dynamic translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/dynamic-translation.md)
 
 **Related topics**  
 
 
-[Configure the note banner for translated emails](config-email-notification-banner.md)
+[Configure the note banner for translated emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/config-email-notification-banner.md)
 
-[Enable dynamic translation for email notifications](enable-dynamic-translation.md)
+[Enable dynamic translation for email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/enable-dynamic-translation.md)
 

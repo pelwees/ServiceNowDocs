@@ -21,5 +21,5 @@ The calendar grid in Dispatcher Workspace is made using a property called marksp
 
 The following image shows an example of markspans in UI Builder that are used to define the color of the calendar grid in Dispatcher Workspace.
 
-![UI Builder displaying the color markspans](../image/calendar-mark-span.png "Markspans in UI Builder")
+![UI Builder displaying the color markspans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/calendar-mark-span.png "Markspans in UI Builder")
 

@@ -37,5 +37,5 @@ Role required: sn\_claim\_cmn.warranty\_specialist
 5.  Select **Confirm**.
 
 
-**Parent Topic:**[Create a pre-authorization request](mco-agents-create-pre-auth-request.md)
+**Parent Topic:**[Create a pre-authorization request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-agents-create-pre-auth-request.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_slm.owner
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the Inbox icon \(![Agent inbox icon](../image/agent-inbox-icon.png)\).
+2.  Select the Inbox icon \(![Agent inbox icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/agent-inbox-icon.png)\).
 
 3.  Select **Available** from **Status** to indicate that you are available to accept the incoming chat request.
 
@@ -55,7 +55,7 @@ Supplier Information
 
 </td><td>
 
-Displays information about the supplier.For more information, see [View information on supplier cases](../concept/supp-info-tab.md).
+Displays information about the supplier.For more information, see [View information on supplier cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-info-tab.md).
 
 </td></tr><tr><td>
 
@@ -78,51 +78,51 @@ Shows all the supplier cases associated with the interaction record.
 
     From the Agent Chat panel, do the following:
 
-    -   To chat, enter a message and select the send icon \(![Send chat icon](../image/send-chat-icon.png)\).
-    -   To send an attachment, select the send attachment to chat icon \(![Attachment icon](../image/attachments-icon.png)\), select the file to attach, and select Open.
-    -   To transfer the chat to another available agent, select the transfer to agent icon \(![Transfer agent icon](../image/transfer-agent-icon.png)\) and select the agent name.
+    -   To chat, enter a message and select the send icon \(![Send chat icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/send-chat-icon.png)\).
+    -   To send an attachment, select the send attachment to chat icon \(![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/attachments-icon.png)\), select the file to attach, and select Open.
+    -   To transfer the chat to another available agent, select the transfer to agent icon \(![Transfer agent icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/transfer-agent-icon.png)\) and select the agent name.
 6.  Perform additional tasks by selecting the following UI actions:
 
     |UI action|Description|
     |---------|-----------|
-    |Create Supplier Case|Creates a new supplier case. For more information, see [Create New Supplier Case form](../reference/new-supplier-case.md).|
+    |Create Supplier Case|Creates a new supplier case. For more information, see [Create New Supplier Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/new-supplier-case.md).|
     |End Chat|Ends the current chat session.|
     |Save|Saves any updates you made to the chat information.|
-    |More actions icon \(![More actions icon.](../image/more-actions-icon.png)\)|Select **Associate Record** to associate an interaction to a supplier case.|
+    |More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/more-actions-icon.png)\)|Select **Associate Record** to associate an interaction to a supplier case.|
 
 
 ## Result
 
 The incoming chat request from the Supplier Manager Workspace Inbox is accepted and a chat session with the supplier contact is initiated.
 
-**Parent Topic:**[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+**Parent Topic:**[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-mgr-wsp.md)
 
 **Related topics**  
 
 
-[Create a supplier from the Source-to-Pay Workspace](new-supplier.md)
+[Create a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/new-supplier.md)
 
-[Manage supplier details](../concept/supp-ws-details-page.md)
+[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-ws-details-page.md)
 
-[Manage internal stakeholders](../concept/manage-internal-stakeholders.md)
+[Manage internal stakeholders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/manage-internal-stakeholders.md)
 
-[Manage supplier contacts from the Source-to-Pay Workspace](../concept/managing-contacts-smw.md)
+[Manage supplier contacts from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-contacts-smw.md)
 
-[Manage supplier cases from the Source-to-Pay Workspace](../concept/managing-cases.md)
+[Manage supplier cases from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-cases.md)
 
-[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+[Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-tasks.md)
 
-[Offboard a supplier from the Source-to-Pay Workspace](offboard-supplier.md)
+[Offboard a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/offboard-supplier.md)
 
-[Interaction Management in Supplier Lifecycle Operations](../concept/interaction-mgmt-supplier-mgr-ws.md)
+[Interaction Management in Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/interaction-mgmt-supplier-mgr-ws.md)
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/email-composer-slm-workspace.md)
 
-[Overall supplier dashboard](../concept/overall-supplier-db.md)
+[Overall supplier dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/overall-supplier-db.md)
 
-[Create supplier case from Universal Request](create-supplier-case.md)
+[Create supplier case from Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-supplier-case.md)
 
-[Emails view for supplier managers](enabling-emails-view-for-contacts.md)
+[Emails view for supplier managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enabling-emails-view-for-contacts.md)
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-mgr-wsp.md)
 

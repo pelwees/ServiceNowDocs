@@ -45,5 +45,5 @@ The following items are installed with Processor Access Policy:
 
 .
 
-Configure authentication profile for the processors, for more information see, [Configure Authentication profile for Processor](configure-auth-profile-processor.md).
+Configure authentication profile for the processors, for more information see, [Configure Authentication profile for Processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-auth-profile-processor.md).
 

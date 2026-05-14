@@ -23,13 +23,13 @@ Role required: admin
 
 1.  On the project dashboard page, click **Go to project settings**.
 
-    ![On the Google Cloud Home dashboard, Go to project settings displays on the Project info card.](../images/ggl-dialogflow-go-project-settings.png)
+    ![On the Google Cloud Home dashboard, Go to project settings displays on the Project info card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-go-project-settings.png)
 
 2.  On the IAM &amp; Admin page, click **Service Accounts**.
 
 3.  Click **+ Create Service Account**.
 
-    ![When you select the Service Accounts option in the side menu, the Create Service Account option appears in the header bar.](../images/ggl-dialogflow-create-srvc-account.png)
+    ![When you select the Service Accounts option in the side menu, the Create Service Account option appears in the header bar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-create-srvc-account.png)
 
 4.  Provide a name, and then click **Create and Continue**.
 
@@ -37,13 +37,13 @@ Role required: admin
 
 6.  Click **Continue**.
 
-    ![Assign the Dialogflow API Client role on the service account details screen, then click Continue to go to the next step.](../images/ggl-dialogflow-assign-role.png)
+    ![Assign the Dialogflow API Client role on the service account details screen, then click Continue to go to the next step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-assign-role.png)
 
 7.  Click **Done**.
 
 8.  Click the link for the record in the **Email** column.
 
-    ![The Service accounts screen displays the email, name, and description. Click the Email address displayed in the column to open the Details page for the service account.](../images/ggl-dialogflow-srvc-account-record.png)
+    ![The Service accounts screen displays the email, name, and description. Click the Email address displayed in the column to open the Details page for the service account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-srvc-account-record.png)
 
     The Service account details page opens.
 
@@ -51,16 +51,16 @@ Role required: admin
 
 10. Click **Add Key** &gt; **Create new key**.
 
-    ![The Add Key option is on the Keys tab for the service account.](../images/ggl-dialogflow-create-new-key.png)
+    ![The Add Key option is on the Keys tab for the service account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/ggl-dialogflow-create-new-key.png)
 
 11. When prompted for the key type, select **JSON**, and then click **Create**.
 
     The JSON file is downloaded to your computer.
 
 
-**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](../concept/using-va-api-ggl-dialogflow.md)
+**Parent Topic:**[Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/using-va-api-ggl-dialogflow.md)
 
-**Previous topic:**[Create a new agent in Google Dialogflow](create-new-agent-google-dialogflow.md)
+**Previous topic:**[Create a new agent in Google Dialogflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-new-agent-google-dialogflow.md)
 
-**Next topic:**[Generate a Java Keystore file from the JSON private key file](generate-jks-from-json-dialogflow.md)
+**Next topic:**[Generate a Java Keystore file from the JSON private key file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/generate-jks-from-json-dialogflow.md)
 

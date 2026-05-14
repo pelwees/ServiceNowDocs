@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-The information that appears on a service instance card is described in [Service Mapping data](../reference/um-data-from-service-mapping.md).
+The information that appears on a service instance card is described in [Service Mapping data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../reference/um-data-from-service-mapping.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The information that appears on a service instance card is described in [Service
 
     The panel displays a card with details for each related service instance.
 
-    ![Service instances for the selected CI.](../image/um-app-services-panel.png)
+    ![Service instances for the selected CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../image/um-app-services-panel.png)
 
 
 ## What to do next
@@ -57,5 +57,5 @@ The information that appears on a service instance card is described in [Service
 **Related topics**  
 
 
-[Service Mapping data that appears on maps](../reference/um-data-from-service-mapping.md)
+[Service Mapping data that appears on maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../reference/um-data-from-service-mapping.md)
 

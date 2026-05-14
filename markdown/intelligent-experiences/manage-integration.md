@@ -31,10 +31,10 @@ With **Bring Your Own Key \(BYOK\)** option, you can apply your own license key 
 
 4.  Select the integration type for the providers that allow such a configuration.
 
-    ![Manage Integration](../image/na-admin-manage-integration.png)
+    ![Manage Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/na-admin-manage-integration.png)
 
     You can find the providers that allow BYOK type integration only, under **Non Managed integration** section.
 
 
-**Parent Topic:**[Manage AI models](manage-large-language-models.md)
+**Parent Topic:**[Manage AI models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md)
 

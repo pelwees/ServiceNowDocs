@@ -38,7 +38,7 @@ You can also access manual configuration from the GitLab tool record in DevOps C
 
 2.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
-    ![GitLab configure webhooks manually.](../image/gitlab-connect-workspace-4.png)
+    ![GitLab configure webhooks manually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-connect-workspace-4.png)
 
     **Note:** You can also access manual configuration from the GitLab tool record in DevOps Change Velocity. From the tool record, select **Configure** &gt; **Configure manually**.
 
@@ -46,7 +46,7 @@ You can also access manual configuration from the GitLab tool record in DevOps C
 
     **Note:** Select **Copy** in the appropriate field to copy the value to your clipboard. The field label changes to **Copied**, but you can copy multiple times.
 
-    ![Copy webhook details.](../image/gitlab-manual-webhooks-4.png)
+    ![Copy webhook details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-manual-webhooks-4.png)
 
 4.  Modify the copied Webhook URL to reflect your tool details, and paste the URL in GitLab.
 
@@ -71,20 +71,20 @@ You can also access manual configuration from the GitLab tool record in DevOps C
 
 6.  Select the check boxes for **Push events**, **Tag push events**, **Comments**, and **Merge request events** for coding capability events.
 
-    ![GitLab push events for code capability.](../image/gitlab-manual-webhooks-5.png)
+    ![GitLab push events for code capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-manual-webhooks-5.png)
 
 7.  Select **Add webhook**.
 
 8.  Repeat the procedure to create webhooks for planning and orchestration capability events in GitLab.
 
-    -   For orchestration: Select the check boxes for **Job events** and **Pipeline events**. ![GitLab Job events.](../image/gitlab-manual-webhooks-6.png)
-    -   For planning: Select the check boxes for **Issues events** and **Confidential issues events**. ![GitLab Issues events](../image/gitlab-issues-events.png)
+    -   For orchestration: Select the check boxes for **Job events** and **Pipeline events**. ![GitLab Job events.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-manual-webhooks-6.png)
+    -   For planning: Select the check boxes for **Issues events** and **Confidential issues events**. ![GitLab Issues events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-issues-events.png)
 9.  Select **Add webhook**.
 
     GitLab webhooks for DevOps Change Velocity integration:
 
-    ![Webhooks configured in GitLab.](../image/gitlab-manual-webhooks-3.png)
+    ![Webhooks configured in GitLab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/gitlab-manual-webhooks-3.png)
 
 
-**Parent Topic:**[GitLab integration with DevOps Change Velocity](../concept/gitlab-integration-dev-ops.md)
+**Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/gitlab-integration-dev-ops.md)
 

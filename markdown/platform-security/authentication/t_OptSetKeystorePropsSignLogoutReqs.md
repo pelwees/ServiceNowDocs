@@ -33,6 +33,6 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 4.  Regenerate your SP metadata.
 
-    For more information, see [SP metadata](t_GenerateServiceNowSPMetadata.md).
+    For more information, see [SP metadata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/t_GenerateServiceNowSPMetadata.md).
 
 

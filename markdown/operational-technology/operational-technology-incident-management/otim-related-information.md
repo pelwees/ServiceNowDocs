@@ -31,5 +31,5 @@ The extension classes help you understand how Operational Technology Management 
     When integrated with Operational Technology Incident Management, the ServiceNow IT Service Management application enables engineers to resolve OT device and production process issues quickly.
 
 
-**Parent Topic:**[Operational Technology Incident Management reference](oper-tech-incident-management-reference.md)
+**Parent Topic:**[Operational Technology Incident Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/oper-tech-incident-management-reference.md)
 

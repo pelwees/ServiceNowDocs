@@ -24,5 +24,5 @@ You can either import your existing assets using guided setup or create new asse
 **Related topics**  
 
 
-[Configure install base](configure-install-base.md)
+[Configure install base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
 

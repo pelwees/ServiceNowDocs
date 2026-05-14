@@ -38,9 +38,9 @@ To use order-preserving encryption types or encryption patterns, a MySQL databas
 4.  Click **Next**.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
 
-**Previous topic:**[Update SSL certificate](update-ssl-certificate.md)
+**Previous topic:**[Update SSL certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/update-ssl-certificate.md)
 
-**Next topic:**[Launch the Edge Encryption proxy server](launch-proxy.md)
+**Next topic:**[Launch the Edge Encryption proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/launch-proxy.md)
 

@@ -15,7 +15,7 @@ Use tags to filter the items that appear in the activity stream.
 
 Tags enable you to filter your activities in the activity stream by dynamic and static states not offered in filter lists. For example, these states can include Workaround or Status checked.
 
-![Filter the activity stream by selecting tags from the Tags dropdown menu](../image/filter-activity-stream-tags.png)
+![Filter the activity stream by selecting tags from the Tags dropdown menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/filter-activity-stream-tags.png)
 
 Tags are enabled and created by your system administrator. To enable and add tags for agents as a system administrator, see [Create tags for the activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tags-activity-stream-admin.md).
 

@@ -25,9 +25,9 @@ A data domain is a collection of information objects. ServiceNow® Discovery fin
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon \(![Setup icon](../../image/eaw-image/setup-icon.png)\).
+2.  Open the Setup page by selecting the Setup icon \(![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Data Domains**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Data Domains**.
 
 4.  Select **All**.
 
@@ -37,15 +37,15 @@ A data domain is a collection of information objects. ServiceNow® Discovery fin
     -   To update details of an existing data domain, select a domain, then select **Edit**.
 6.  On the form, fill in the fields.
 
-    For field information, see [Data Domain form](../../reference/data-domain-form.md).
+    For field information, see [Data Domain form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/data-domain-form.md).
 
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure information data domains](../../concept/eaw-concept/eaw-setup-info-data-domains.md)
+**Parent Topic:**[Configure information data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-info-data-domains.md)
 
 **Related topics**  
 
 
-[View information data domains](eaw-view-info-data-domains.md)
+[View information data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-info-data-domains.md)
 

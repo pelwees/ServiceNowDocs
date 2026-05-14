@@ -17,7 +17,7 @@ As an operational buyer, use the Purchase Order Management \(POM\) landing page 
 
 Open the Purchase Order Management landing page by navigating to **Workspaces** &gt; **Source-to-Pay Workspace**. Select the Purchase order management tab.
 
-When you open the Purchase Order Management, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(![Home icon](../../supplier-lifecycle-operations/image/home-icon.png)\) to return to the home page.
+When you open the Purchase Order Management, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(![Home icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/image/home-icon.png)\) to return to the home page.
 
 ## Landing page view for an Operational Buyer
 
@@ -150,14 +150,14 @@ Widget
 Displays the number of all exception tasks that are assigned to you. Select the exception tasks count link to view the list.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+</table>**Parent Topic:**[Source-to-Pay Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SPO landing page](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[SPO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
 
-[APO landing page](../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
+[APO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../accounts-payable-operations/concept/acc-pay-workspace-landing-page.md)
 

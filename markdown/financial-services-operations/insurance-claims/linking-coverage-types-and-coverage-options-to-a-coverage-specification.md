@@ -17,7 +17,7 @@ Link the coverage types and coverage options to a coverage specification in the 
 
 ## Before you begin
 
-Ensure you have created a coverage specification, coverage types, and coverage type options. For more information, see [Create a coverage specification](creating-a-coverage-specification.md).
+Ensure you have created a coverage specification, coverage types, and coverage type options. For more information, see [Create a coverage specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/creating-a-coverage-specification.md).
 
 Role required: admin
 
@@ -49,7 +49,7 @@ Role required: admin
 
 9.  Repeat steps 6 through 8 for each coverage type option that you created.
 
-    The following example shows how a coverage type is set up in the travel insurance example in this application. The coverage specification Travel guard basic coverage has a coverage type of Baggage delay, and the available coverage type option is $200 \(24 hrs\).![Baggage delay coverage type with a coverage type option, set up for a travel coverage specification.](../image/coverage-type-setup.png)
+    The following example shows how a coverage type is set up in the travel insurance example in this application. The coverage specification Travel guard basic coverage has a coverage type of Baggage delay, and the available coverage type option is $200 \(24 hrs\).![Baggage delay coverage type with a coverage type option, set up for a travel coverage specification.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../image/coverage-type-setup.png)
 
 10. Select **Update**.
 

@@ -17,7 +17,7 @@ When developing an application, create UI extension points and add them to the s
 
 Use a UI extension point to designate the specific location where data or objects can be sent to a registered custom UI macro and where returned results are processed.
 
-**Parent Topic:**[Using UI extension points in server-side UI macros](ui-extension-points.md)
+**Parent Topic:**[Using UI extension points in server-side UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/ui-extension-points.md)
 
 ## Create a UI extension point
 
@@ -89,7 +89,7 @@ Allow access over AJAX/REST
 
 </td><td>
 
-Option for enabling or disabling access to the UI extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](../../../script/ajax/topic/p_AJAX.md#) and [REST APIs](../../../integrate/inbound-rest/concept/c_RESTAPI.md).
+Option for enabling or disabling access to the UI extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/ajax/topic/p_AJAX.md#) and [REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../integrate/inbound-rest/concept/c_RESTAPI.md).
 
 </td></tr><tr><td>
 
@@ -127,7 +127,7 @@ You must first create a UI extension point before you can add it to a UI macro o
 
 1.  In the application code, access the existing UI macro that you want to add a scripted extension point to or create a new one.
 
-    To learn more about creating UI macros with jelly tags, see [UI macros](../../../script/server-scripting/concept/c_UIMacros.md#) and [Jelly tags](../../../script/general-scripting/reference/r_JellyTags.md).
+    To learn more about creating UI macros with jelly tags, see [UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/server-scripting/concept/c_UIMacros.md#) and [Jelly tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/general-scripting/reference/r_JellyTags.md).
 
 2.  In the UI macro, add a jelly tag with a line of code at the location that you expect to collect and process custom UI macro output.
 
@@ -136,6 +136,6 @@ You must first create a UI extension point before you can add it to a UI macro o
     -   A `call_extension` command that identifies the name of the UI extension point \(for example, `extension="global.KMArticle.ViewHeader"`\) against which the custom UI macros are registered.
     -   Arguments that are passed into the UI macro when it is rendered. For example, for a Knowledge Base article, `knowledgerecord="${knowledgeRecord}"` passes in the current knowledge record.
     -   \(Optional\) If there are multiple implementations of this extension point, using a `limit` command specifies that x number of implementations should be returned \(for example, `limit="1"`\). This figure shows a UI macro that contains these commands.
-    ![UI extension point with a call_extension command in application code](../image/ui-extension-base-code-example.png)
+    ![UI extension point with a call_extension command in application code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/ui-extension-base-code-example.png)
 
 

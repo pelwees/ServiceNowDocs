@@ -17,15 +17,15 @@ Follow these examples to create a new scripted SOAP web service.
 
 When the Web Services Provider - Scripted plugin is activated, a new module Scripted Web Services is available under the System Web Services application.
 
-![Scripted SOAP Web Services](../image/scripted-soap-web-services.png)
+![Scripted SOAP Web Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/scripted-soap-web-services.png)
 
 ## Example 1: Retrieving a system property
 
 The first step is to define the incoming and return parameters. This is done by adding an entry to the Input Parameters and Output Parameters. These parameters are used to construct and present a meaningful WSDL, and they do not add to the functionality of processing the actual Web Service itself.
 
-![GetProperty Input Parameters](../image/soap-GetProperty-input-parameters.png)
+![GetProperty Input Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/soap-GetProperty-input-parameters.png)
 
-![GetProperty Output Parameters](../image/soap-GetProperty-output-parameters.png)
+![GetProperty Output Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/soap-GetProperty-output-parameters.png)
 
 The parameters are referenced in the script of the Web Service. Any of the input parameters are retrieved using the following syntax:
 
@@ -41,15 +41,15 @@ response.property="ABC";
 
 The following example demonstrates how to retrieve a system property and return it as part of the SOAP response. The example shows how to create a custom scripted web service to do something specific that the base ServiceNow system direct Web Services cannot.
 
-![GetProperty web service](../image/GetProperty-soap-web-service.png)
+![GetProperty web service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/GetProperty-soap-web-service.png)
 
 ## Example 2: Ordering a Blackberry
 
-[Direct web services](../concept/c_DirectWebServices.md) operate on tables and their data. The following example shows how to initiate a business solution, such as ordering a Blackberry, by invoking a scripted web service. The following input and output parameters support the Blackberry example:
+[Direct web services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_DirectWebServices.md) operate on tables and their data. The following example shows how to initiate a business solution, such as ordering a Blackberry, by invoking a scripted web service. The following input and output parameters support the Blackberry example:
 
-![OrderBlackBerry Input Parameters](../image/soap-blackberry-input-parameters.png)
+![OrderBlackBerry Input Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/soap-blackberry-input-parameters.png)
 
-![OrderBlackBerry Output Parameters](../image/soap-blackberry-output-parameters.png)
+![OrderBlackBerry Output Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/soap-blackberry-output-parameters.png)
 
 This script shows how to use the above parameters to add a Blackberry to the service catalog shopping cart and order it. The request number is returned in the request\_number field of the SOAP response.
 
@@ -73,5 +73,5 @@ var rc = cart.placeOrder();
 response.request_number= rc.getValue('number');
 ```
 
-**Parent Topic:**[Scripted SOAP web services](../concept/c_ScriptedWebServices.md)
+**Parent Topic:**[Scripted SOAP web services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_ScriptedWebServices.md)
 

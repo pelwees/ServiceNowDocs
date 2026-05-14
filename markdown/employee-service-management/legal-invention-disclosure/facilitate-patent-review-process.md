@@ -41,7 +41,7 @@ Actions
 
 </td><td>
 
-1.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+1.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 2.  Open the Legal Invention Disclosure request and select the **Legal Matters** tab.
 3.  Open the matter associated with the request.
 4.  Select **Patent filed**.
@@ -59,7 +59,7 @@ Actions
 
 </td><td>
 
-1.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+1.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 2.  Open the Legal Invention Disclosure request and select the **Legal Matters** tab.
 3.  Open the matter associated with the request.
 4.  Select **Close Complete**.
@@ -85,7 +85,7 @@ Actions
 
 </td><td>
 
-1.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+1.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 2.  Open the Legal Invention Disclosure request and select the **Legal Matters** tab.
 3.  Open the matter associated with the request.
 4.  Select **Patent granted**.
@@ -104,7 +104,7 @@ Actions
 
 </td><td>
 
-1.  Select the List icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
+1.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../../legal-request-management/image/lsd-lcc-list-icon.png)\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 2.  Open the Legal Invention Disclosure request and select the **Legal Matters** tab.
 3.  Open the matter associated with the request.
 4.  Select **Close Complete**.
@@ -129,5 +129,5 @@ Actions
 5.  Select **Close Complete** to close the matter.
 
 
-**Parent Topic:**[Using the Legal Invention Disclosure](../concept/use-legal-invention-disclosure.md)
+**Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/../concept/use-legal-invention-disclosure.md)
 

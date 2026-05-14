@@ -13,7 +13,7 @@ breadcrumb: [Discovery Console for OT, Operational Technology Native Discovery c
 
 Get started with the Discovery Console for OT application after it is installed and configured.
 
-![Discovery Console Home page](../../operational-technology-discovery/images/console-home-page-display.png)
+![Discovery Console Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../operational-technology-discovery/images/console-home-page-display.png)
 
 ## Navigating the Console pages
 

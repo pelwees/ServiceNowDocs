@@ -13,10 +13,10 @@ breadcrumb: [Working with Enterprise Modeling and Visualization, Managing Enterp
 
 Common Service Data Model \(CSDM\) is a standardized framework and CMDB data model provided by ServiceNow. It defines service-related terms, tables, and relationships across the Now Platform to ensure consistency in how services, applications, and infrastructure are represented. In Enterprise Architecture Workspace, CSDM shapes are visual elements that represent entities on diagrams for modeling and analysis.
 
-![CSDM shapes library](../../image/eaw-image/modeling/modeling-csdm-diagram.png)
+![CSDM shapes library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/modeling-csdm-diagram.png)
 
--   **[Create a diagram using CSDM shapes](../../task/eaw-task/eaw-modeling-create-diagram-csdm.md)**  
+-   **[Create a diagram using CSDM shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-modeling-create-diagram-csdm.md)**  
 The CSDM shapes represent objects visually in diagrams, enabling architects to model business capabilities, applications, services, and technical components in alignment with the Now Platform.
 
-**Parent Topic:**[Working with Enterprise Modeling and Visualization](eaw-work-with-ent-model-and-visual.md)
+**Parent Topic:**[Working with Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-ent-model-and-visual.md)
 

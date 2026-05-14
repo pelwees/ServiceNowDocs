@@ -38,16 +38,16 @@ Associated transfer order lines that are in the **In Transit** or **Delivered** 
 3.  Click **Cancel Request**.
 
 
-**Parent Topic:**[Procurement purchase order management for assets](../concept/c_UseProcurement.md)
+**Parent Topic:**[Procurement purchase order management for assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/../concept/c_UseProcurement.md)
 
 **Related topics**  
 
 
-[Track a request from the service catalog](t_TrackReqFromServiceCatalog.md)
+[Track a request from the service catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_TrackReqFromServiceCatalog.md)
 
-[View and edit a catalog task](t_ViewAndEditACatalogTask.md)
+[View and edit a catalog task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ViewAndEditACatalogTask.md)
 
-[Create a purchase order](t_CreateAPurchaseOrder.md)
+[Create a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md)
 
-[Create an asset and reserve it for the requester](t_CreateAssetReserveForRequester.md)
+[Create an asset and reserve it for the requester](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAssetReserveForRequester.md)
 

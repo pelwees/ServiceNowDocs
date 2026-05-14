@@ -25,11 +25,11 @@ When a BOM contains null-priced items, the total price may be incorrect. When th
 
 1.  In the layout editor, open the product list properties.
 
-    ![Product list](../images/cpq-layout-custom-message-gear-icon.png)
+    ![Product list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-custom-message-gear-icon.png)
 
 2.  In the properties dialog, set **Override display of Total for incomplete pricing** to true, and enter the string to display in the total's place.
 
-    ![Product list properties](../images/cpq-layout-custom-message-override-display.png)
+    ![Product list properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-custom-message-override-display.png)
 
 3.  Click **Save**.
 
@@ -37,7 +37,7 @@ When a BOM contains null-priced items, the total price may be incorrect. When th
 **Related topics**  
 
 
-[Set a custom message for zero-priced and null-priced items](cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md)
+[Set a custom message for zero-priced and null-priced items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-set-a-custom-message-for-zero-priced-and-null-priced-items.md)
 
-[Availability of price value overrides](cpq-availability-of-price-value-overrides.md)
+[Availability of price value overrides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-availability-of-price-value-overrides.md)
 

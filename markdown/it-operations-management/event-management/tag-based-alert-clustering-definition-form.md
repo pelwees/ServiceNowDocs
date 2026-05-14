@@ -116,5 +116,5 @@ Tag Based Alert Clustering Definitions Tags M2M
 Select the alert clustering tags to be assigned to the alert clustering definition. Alerts that meet the criteria specified in the selected tags are included in the alert group. The available options are the tags created on the **Tag Based Alert Clustering Tags** page.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Event Management reference](event-management-reference.md)
+</table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 

@@ -17,7 +17,7 @@ The Attachments tab enables an agent to add, preview, download, or remove files 
 
 It appears within the tabs sidebar for a standard record page.
 
-![Attachments panel in a Configurable Workspace](../image/configurable-workspace-attachments.png)
+![Attachments panel in a Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/configurable-workspace-attachments.png)
 
 The Attachments component is configured and customized by admins in UI Builder. For information on Attachments component configurations, see [Attachments UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-common-attachments-connected/uib-setup).
 

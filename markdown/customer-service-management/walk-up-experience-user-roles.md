@@ -23,5 +23,5 @@ Walk-up Experience roles for different users who interact with in-person support
 **Related topics**  
 
 
-[Activate Walk-up Experience for Customer Service Management](../task/activate-walk-up-experience-for-customer-service-management.md)
+[Activate Walk-up Experience for Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/activate-walk-up-experience-for-customer-service-management.md)
 

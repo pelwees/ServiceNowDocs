@@ -43,14 +43,14 @@ Role required: sn\_apw\_advanced.eap\_user
     -   Timeline: overdue dates, upcoming end dates, or missing date fields.
     -   Ownership: no epic owner assigned or stories with no assignee.
 
-**Parent Topic:**[Manage team backlog in EAP](../../spw-eap/concept/using-eap.md)
+**Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../spw-eap/concept/using-eap.md)
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/using-now-assist-for-spm.md)
 
 **Related topics**  
 
 
-[Generate a story from an epic using Now Assist for SPM in EAP](generate-stories-quickly-for-eap-and-agile-2-0.md)
+[Generate a story from an epic using Now Assist for SPM in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/generate-stories-quickly-for-eap-and-agile-2-0.md)
 
-[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](eap-generate-acceptance-criteria-for-stories.md)
+[Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-generate-acceptance-criteria-for-stories.md)
 

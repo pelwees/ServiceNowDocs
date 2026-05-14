@@ -31,7 +31,7 @@ Role required: sn\_oper\_res.manager
 
     The assessment is created and visible in the **Assessment** tab, accessible only to the assessment owner and assessor. When the assessment owner attempts to access the assessment, a message indicates that it is assigned to another user. The owner can view it in read-only mode or edit it, which reassigns write access from the assessor to the owner.
 
-5.  To add a contributor to the assessment, select the Contributors icon ![Contributor icon.](../../../reuse/icons/product-icons/user-group-outline-24.svg) on the contextual sidebar.
+5.  To add a contributor to the assessment, select the Contributors icon ![Contributor icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../../reuse/icons/product-icons/user-group-outline-24.svg) on the contextual sidebar.
 
     The Contributors icon is displayed with the installation of the Smart Assessment Collaboration \(sn\_smart\_collab\) plugin.
 
@@ -88,5 +88,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-The owner of the Importance and impact tolerance assessment \(IIA\) requests for an approval. For more information, see [Request an approval for the assessment](verify-response-to-the-assessment-in-ws.md). If no approvers are specified, the record moves to the **Approved** state.
+The owner of the Importance and impact tolerance assessment \(IIA\) requests for an approval. For more information, see [Request an approval for the assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/verify-response-to-the-assessment-in-ws.md). If no approvers are specified, the record moves to the **Approved** state.
 

@@ -20,7 +20,7 @@ Add either the Now Virtual Agent bot or self-configured bot to your ServiceNow i
 
 Install the Google chat plugin \[sn\_va\_google-chat\] on your ServiceNow instance before adding any integrations.
 
-For more information on Now Virtual Agent integrations with Google chat, see [Exploring Conversational Integration with Google chat](../concept/exploring-ci-google-chat.md).
+For more information on Now Virtual Agent integrations with Google chat, see [Exploring Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/exploring-ci-google-chat.md).
 
 Role required: admin or virtual\_agent\_admin.
 
@@ -35,7 +35,7 @@ Role required: admin or virtual\_agent\_admin.
 
 1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
-2.  In the Available Channels section, select the **Add Integration** drop-down menu on the Google chat tile.![Google chat tile with integration options under drop-down menu.](../images/add-google-chat-integration.png)
+2.  In the Available Channels section, select the **Add Integration** drop-down menu on the Google chat tile.![Google chat tile with integration options under drop-down menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/add-google-chat-integration.png)
 
     **Note:** The Google chat tile and its **Add Integration** drop-down menu is available only after installing the Google chat plugin \(sn\_va\_google-chat\) on your ServiceNow instance.
 
@@ -46,5 +46,5 @@ Role required: admin or virtual\_agent\_admin.
 
 If an automated welcome message displays in the chat window, Google chat is ready to use with Virtual Agent in your instance.
 
-**Parent Topic:**[Configuring your Conversational Integration with Google chat](../concept/configure-va-google-chat.md)
+**Parent Topic:**[Configuring your Conversational Integration with Google chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configure-va-google-chat.md)
 

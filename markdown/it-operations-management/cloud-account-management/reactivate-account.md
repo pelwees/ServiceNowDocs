@@ -21,7 +21,7 @@ Only an admin or account owner can view the reactivated account.
 
 ## Before you begin
 
-A suspend profile must exist for an account to be reactivated. For more details, see [Set up suspension of an AWS account using service control policy](configure-suspension-policy.md).
+A suspend profile must exist for an account to be reactivated. For more details, see [Set up suspension of an AWS account using service control policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-suspension-policy.md).
 
 Role required: sn\_itom\_cam.cw\_admin or sn\_itom\_cam.cw\_requestor
 

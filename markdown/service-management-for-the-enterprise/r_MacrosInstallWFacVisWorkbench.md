@@ -19,5 +19,5 @@ Facilities visualization workbench adds the following macros.
 |floor\_plan\_show\_affected\_ci|If the location of the CI is on a map, it adds a map icon next to the CI field|
 |floor\_plan\_show\_user|If the location of the user is on a map, it adds a map icon next to the user field|
 
-**Parent Topic:**[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)
+**Parent Topic:**[Installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacVisWorkbench.md)
 

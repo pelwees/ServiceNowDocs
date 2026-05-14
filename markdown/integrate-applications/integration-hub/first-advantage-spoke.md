@@ -49,8 +49,8 @@ The First Advantage spoke provides sample flows to demonstrate automating the Fi
 
 |Flow|Description|
 |----|-----------|
-|First Advantage - Candidate Background Verification using Invite|Initiates background check of the candidate using invite. Sends a request to the candidate to complete an application. For information about creating a case, see [Create a case in First Advantage from ServiceNow](../task/create-fadv-case-1.md).|
-|First Advantage - Candidate Background Verification using Order|Initiates background check of the candidate using order. An order record is created and request to provide essential details is sent to the candidate. For information about creating a case, see [Create a case in First Advantage from ServiceNow](../task/create-fadv-case-1.md).|
+|First Advantage - Candidate Background Verification using Invite|Initiates background check of the candidate using invite. Sends a request to the candidate to complete an application. For information about creating a case, see [Create a case in First Advantage from ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/create-fadv-case-1.md).|
+|First Advantage - Candidate Background Verification using Order|Initiates background check of the candidate using order. An order record is created and request to provide essential details is sent to the candidate. For information about creating a case, see [Create a case in First Advantage from ServiceNow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/create-fadv-case-1.md).|
 |First Advantage - \(Order As\) Candidate Background Verification using Order|Initiates background check of the candidate using order and places order on behalf of the required user.|
 |First Advantage - \(Order As\) Candidate Background Verification using Invite|Initiates background check of the candidate using invite and places order on behalf of the required user.|
 
@@ -126,5 +126,5 @@ Only users with the First Advantage admin role can view the **FADV Webhook Clien
 
 Integration Hub uses aliases to manage connection and credential information, and OAuth credentials. Using an alias eliminates the need to configure multiple credentials and connection information profiles when using multiple environments. If the connection or credential information changes, you don't need to update any actions that use the connection.
 
-For information about setting up the spoke, see [Set up the First Advantage spoke](../task/setup-first-adv.md#).
+For information about setting up the spoke, see [Set up the First Advantage spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/setup-first-adv.md#).
 

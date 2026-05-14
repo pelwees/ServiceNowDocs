@@ -30,5 +30,5 @@ By default, the application navigator shows 30 history entries. You can configur
 3.  Edit the property **Value**.
 
 
-**Parent Topic:**[Core UI application navigator](../../../use/navigation/concept/c_UI16ApplicationNavigator.md)
+**Parent Topic:**[Core UI application navigator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/navigation/concept/c_UI16ApplicationNavigator.md)
 

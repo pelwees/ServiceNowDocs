@@ -23,7 +23,7 @@ To determine the effectiveness of your prompt, you should evaluate batches of te
 
 Ongoing, improvised evaluation should take place alongside the development of the prompt. This ongoing evaluation enables you to adapt the prompt based on observed model outputs. It may be tempting to test a change to a prompt against just one or two examples, however, to avoid reacting to noise, you should look at larger batches, and consider the statistical significance of the performance differences that you observed.
 
-![Chart that shows a comparison of prompt performance.](../image/nask-prompt-perf-comp.png)
+![Chart that shows a comparison of prompt performance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/nask-prompt-perf-comp.png)
 
 ## Final performance evaluation
 

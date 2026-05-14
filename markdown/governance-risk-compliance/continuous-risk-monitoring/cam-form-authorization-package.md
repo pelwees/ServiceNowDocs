@@ -44,5 +44,5 @@ CAM roles that are required for particular tasks are listed in [CAM user roles](
 |Information owners|The individuals responsible for statutory, management, and operational authority.|
 |System users|The users responsible for performing the actual work on the system.|
 
-**Parent Topic:**[CAM reference](../concept/reference-grc-cam.md)
+**Parent Topic:**[CAM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../concept/reference-grc-cam.md)
 

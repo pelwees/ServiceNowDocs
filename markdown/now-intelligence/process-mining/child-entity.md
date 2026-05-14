@@ -39,7 +39,7 @@ Often the start and end of a full workflow occurs outside the life cycle of your
 
     **Tip:** Select **Advanced view** on the top right corner if you want to edit the project in the Classic view.
 
-    ![New child table form](../image/child-entity.png)
+    ![New child table form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/child-entity.png)
 
 5.  Fill in the form with the details.
 
@@ -118,5 +118,5 @@ Displays the selected number of related records for the filters set. You can fil
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Scoping your analysis](../concept/scope-analysis.md)
+**Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/scope-analysis.md)
 

@@ -96,5 +96,5 @@ For details on instance scans, see [Instance Scan](https://raw.githubusercontent
 
 For details on executing the Agent Client Collector health instance scan suite, see [Execute a suite scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-execute-suite-scan.md).
 
-**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](acc-shared-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 

@@ -94,5 +94,5 @@ Strong instruction
 Collect AD Operation Type **Additional instructions for LLM**: For this input, these are mapped values, : \{"reset":\["reset","locked","unable to sign in","expiry", "expired", "expire"\],"change":\["change"\]\}. The key needs to be extracted if the user input contains the values associated with the keys.
 
 </td></tr></tbody>
-</table>![Text input node with the Detail description field filled in to include specific entity information.](../images/llm-input-node-detail-desc-example.png "Strong detail description example of LLM input node")
+</table>![Text input node with the Detail description field filled in to include specific entity information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/llm-input-node-detail-desc-example.png "Strong detail description example of LLM input node")
 

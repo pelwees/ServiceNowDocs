@@ -18,15 +18,15 @@ With the Now Assist for Public Sector Digital Services \(PSDS\) application, you
 
 <table id="table_zzm_tc2_kbc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Public Sector Digital Services \(PSDS\) application.](../concept/now-assist-psds-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for Public Sector Digital Services \(PSDS\) application.](../concept/now-assist-psds-configuring.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use generative AI capabilities offered by Now Assist for Public Sector Digital Services \(PSDS\).](../concept/now-assist-psds-using.md)
 
 </td></tr><tr><td>
 
@@ -34,7 +34,7 @@ With the Now Assist for Public Sector Digital Services \(PSDS\) application, you
 
 </td><td>
 
-[Use Public Sector Digital Services AI agent collection ![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Public Sector Digital Services.](now-assist-psds-agentic-ai.md)
+[Use Public Sector Digital Services AI agent collection ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use agentic workflows in Public Sector Digital Services.](now-assist-psds-agentic-ai.md)
 
 </td><td>
 

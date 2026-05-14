@@ -19,7 +19,7 @@ You can use this API in client-side scripts for a platform/desktop UI using List
 
 You access ScriptLoader methods by using the global object `ScriptLoader`.
 
-**Parent Topic:**[Client API reference](../../../../../build/applications/concept/api-client.md)
+**Parent Topic:**[Client API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../../../../../build/applications/concept/api-client.md)
 
 ## ScriptLoader - getScripts\(Array scripts, Function callback\)
 

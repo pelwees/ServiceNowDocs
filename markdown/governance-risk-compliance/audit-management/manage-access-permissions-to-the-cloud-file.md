@@ -27,9 +27,9 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
 3.  On the Cloud file configuration form, fill in the fields.
 
-    For more information on the fields in the form, see [Cloud file configuration record form](../reference/document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the File access permissions for the Cloud file configuration record as shown in the example.
+    For more information on the fields in the form, see [Cloud file configuration record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../reference/document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the File access permissions for the Cloud file configuration record as shown in the example.
 
-    ![Cloud file configuration record.](../image/cloud-file-configuration-record.png)
+    ![Cloud file configuration record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/cloud-file-configuration-record.png)
 
     Cloud file and folders are validated based on the following:
 
@@ -48,7 +48,7 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
         The folder path where the file is uploaded is stored against every ServiceNow record in the Cloud folder path \[sn\_grc\_workspace\_cloud\_folder\_path\] table.
 
-        ![Folder path to upload a file in cloud.](../image/cloud-folder-path.png)
+        ![Folder path to upload a file in cloud.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/cloud-folder-path.png)
 
 4.  Select **Submit**.
 

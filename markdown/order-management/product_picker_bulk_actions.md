@@ -15,7 +15,7 @@ Learn how to use bulk actions to automate product picker behavior without writin
 
 Bulk actions are a simple yet powerful way to manage product pickers. Bulk actions can function as table:based rules to control and modify product pickers without needing to write traditional, global rules. Like global rules, bulk actions consist of conditions and targets. All the bulk actions together control the behavior of the product picker.
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-pp-setup.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-pp-setup.png)
 
 -   \(1\) Bulk actions tab: displays all associated bulk actions of the product picker
 -   \(2\) Name, Variable Name: name and variable to set for the bulk action
@@ -32,7 +32,7 @@ For an example use case, view the following video: [Product Picker bulk actions2
 
 Option Inclusion bulk actions can automatically include \(and exclude\) product options in a product picker based on the value of global fields. If no action is in place to include options, all are included by default.
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-new-inclusion.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-new-inclusion.png)
 
 -   \(1\) Bulk Action Name: The name of your Option Inclusion bulk action. Variable Name will be automatically populated, but you can customize it by clicking the pencil icon.
 -   \(2\) Info: What this Option Inclusion bulk action will do
@@ -40,7 +40,7 @@ Option Inclusion bulk actions can automatically include \(and exclude\) product 
 -   \(4\) Select Comparator for this Condition field: The comparison that should be made against the fieldʼs value. Comparison Options depend on the field type. For example, a Boolean field type would use either ‘Equalsʼ or ‘Does Not Equalʼ. A picklist field type, such as cards\_sender, offers a large number of comparison options.
 -   \(5\) Save: When finished, move to the next step to add the data for the bulk action
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-data-1.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-data-1.png)
 
 The bulk action data drives the outcome of the Option Inclusion.
 
@@ -59,19 +59,19 @@ Additional actions:
 
 Field determination bulk actions are an easy way to set and default values into product picker subfields.
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-new-determination.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-new-determination.png)
 
 -   \(1\) Bulk Action Name: The name of your Option Inclusion bulk action. Variable Name will be automatically populated, but you can customize it by clicking the pencil icon.
 -   \(2\) Select the target subfields: Review what this action will do, and select the target fields this action will set
 -   \(3\) \[Optional\] Select the condition fields: The global fields to use for the comparison
 -   
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-condition-field.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-condition-field.png)
 
 Select Comparators: For each condition field, select the comparator with which you will determine the condition. Comparison options will depend on the field type.
 
 Save: When finished, move to the next step to add the data for the bulk action.
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions-data-2.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions-data-2.png)
 
 The bulk action data drives the outcome of the Field Determination.
 
@@ -91,7 +91,7 @@ Additional actions:
 
 ## Import and export bulk actions and bulk action data
 
-![Product Picker: bulk actions](../images/cpq-product-picker-bulk-actions.png)
+![Product Picker: bulk actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-picker-bulk-actions.png)
 
 Individual bulk actions can be exported from a product picker as a ZIP file. The export will include both the rule definition and the data itself as a CSV file. To export a bulk action, select the action, and then click **Export**.
 
@@ -104,5 +104,5 @@ By default, bulk actions that set the values of product pickers will not overrid
 **Related topics**  
 
 
-[Product picker aggregates](product-picker-aggregates.md)
+[Product picker aggregates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/product-picker-aggregates.md)
 

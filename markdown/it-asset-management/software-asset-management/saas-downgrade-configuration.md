@@ -24,5 +24,5 @@ Determine various downgrade configurations of SaaS applications and view the dow
 |Destination identifier|Subscription identifier of the SaaS application that can be downgraded to.|
 |Active|Shows whether the downgrade configuration is active.|
 
-**Parent Topic:**[Software Asset Management references](references.md)
+**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 

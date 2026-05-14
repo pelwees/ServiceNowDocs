@@ -22,9 +22,9 @@ Multiple Salesforce Product2 records can be linked to one blueprint, but a confi
 **Related topics**  
 
 
-[Set up a configurable product in a headless environment](../task/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
+[Set up a configurable product in a headless environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[Set up a configurable product in a Salesforce-integrated environment](../task/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment.md)
+[Set up a configurable product in a Salesforce-integrated environment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment.md)
 
-[Set up blueprints](blueprints_101.md)
+[Set up blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
 

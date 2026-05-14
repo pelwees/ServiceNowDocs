@@ -17,19 +17,19 @@ Now Assist for Setup in ITOM centralizes your instance management with a modular
 
 <table id="table_urp_nf4_p3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![Explore product capabilities and concepts](../../../reuse/icons/brand-icons/bus-explore.svg)Explore product capabilities and concepts](../concept/exploring-nowassist-setup-itom-aiops.md)
+[Explore![Explore product capabilities and concepts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Explore product capabilities and concepts](../concept/exploring-nowassist-setup-itom-aiops.md)
 
 </td><td>
 
-Install![Install the applications required for ITOM AIOps](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install ITOM AIOps
+Install![Install the applications required for ITOM AIOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install ITOM AIOps
 
 </td></tr><tr><td>
 
-[Configure Event Management![Configure Event Management](../../../reuse/icons/brand-icons/bus-manager.svg)Configure Event Management](../concept/aiops-conf-console.md)
+[Configure Event Management![Configure Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-manager.svg)Configure Event Management](../concept/aiops-conf-console.md)
 
 </td><td>
 
-Setup AI Specialist![Setup AI Specialist](../../../reuse/icons/brand-icons/bus-it-leader.svg)Setup AI Specialist
+Setup AI Specialist![Setup AI Specialist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-it-leader.svg)Setup AI Specialist
 
 </td></tr></tbody>
 </table>Now Assist setup in ITOM provides a guided setup experience to install and configure Now Assist AIOps capabilities. It helps administrators quickly deploy required applications, access setup tasks, and begin using AI-driven operations management features.

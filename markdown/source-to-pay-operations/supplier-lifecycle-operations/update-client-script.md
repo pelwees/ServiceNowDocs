@@ -31,21 +31,21 @@ Role required: admin
 
     For example, in your custom API response, if the **name** field entry is **title**, and the **description** field entry is **summary**, then you must update the field names accordingly in the script.
 
-    ![UX client script.](../image/ux-client-script.png)
+    ![UX client script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/ux-client-script.png)
 
 5.  Select **Update**.
 
 
-**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/config-supplier-news-api.md)
 
-**Previous topic:**[Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)
+**Previous topic:**[Add and configure the Get News data resource in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-config-news-data-resource.md)
 
-**Next topic:**[Relish Integration for Supplier Lifecycle Operations](../concept/relish-slo-connector.md)
+**Next topic:**[Relish Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/relish-slo-connector.md)
 
 **Related topics**  
 
 
-[Create a REST message for a custom API](create-custom-api-rest.md)
+[Create a REST message for a custom API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md)
 
-[Add and configure the Get News data resource in UI Builder](add-config-news-data-resource.md)
+[Add and configure the Get News data resource in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-config-news-data-resource.md)
 

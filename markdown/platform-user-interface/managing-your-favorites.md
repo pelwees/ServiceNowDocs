@@ -16,7 +16,7 @@ Favorites help you quickly find and go to your most used Next Experience pages.
 
 After you add favorites, they appear in the **Favorites** menu in the Next Experience Unified Navigation. You can customize how favorites appear in the menu by editing their names, icons, and colors, and their position in a folder structure.
 
-![Favorites menu with favorites customized and organized into groups](../image/pol-favorites-menu.png)
+![Favorites menu with favorites customized and organized into groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-favorites-menu.png)
 
 ## Add favorites in Next Experience
 
@@ -38,7 +38,7 @@ Role required: none
 
 From any page, select the star icon in the contextual app pill.
 
- ![Favorite star in the contextual app pill](../image/pol-nav-pill-favorite.png)
+ ![Favorite star in the contextual app pill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-nav-pill-favorite.png)
 
 </td></tr><tr><td id="d102612e171">
 
@@ -46,7 +46,7 @@ From any page, select the star icon in the contextual app pill.
 
 </td><td>
 
--   To add a single module: In the application navigator, select the star icon next to the module name.![All menu single module saved as favorite.](../image/next-exp-save-favorites.png)
+-   To add a single module: In the application navigator, select the star icon next to the module name.![All menu single module saved as favorite.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-save-favorites.png)
 -   To add all the modules under an application: In the application navigator, select the star icon next to the application name.
 
 
@@ -77,13 +77,13 @@ From any page, select the star icon in the contextual app pill.
 
     A sample initial dialog box is shown in the following example.
 
-    ![Favorite added dialog box](../image/quick-add-favorite.png)
+    ![Favorite added dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/quick-add-favorite.png)
 
     1.  In the **Name** field, edit the name that appears in the Favorites menu.
 
     2.  In the **Location** field, if you have created groups for the Favorites menu, select a group for the favorite to be listed in.
 
-        For information about creating groups to organize the Favorites list, see [Organize favorites in Next Experience](managing-your-favorites.md#).
+        For information about creating groups to organize the Favorites list, see [Organize favorites in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/managing-your-favorites.md#).
 
     3.  Either save your changes, make further modifications, or remove the favorite.
 
@@ -115,7 +115,7 @@ Role required: none
 
 6.  Move favorites into the group by dragging them under the group's name.
 
-    ![Dragging a favorite into a new custom group](../image/favorite-groups.gif)
+    ![Dragging a favorite into a new custom group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/favorite-groups.gif)
 
 7.  Repeat the previous steps to create additional custom groups or subgroups.
 

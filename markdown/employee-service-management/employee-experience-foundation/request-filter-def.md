@@ -34,7 +34,7 @@ Create a filter definition for the Requests page to have multiple filter support
 
 3.  On the Request filter definition form, fill in the fields and select **Submit**.
 
-    For a description of the field values, see [Request filter definition form](../reference/filter-def-request-form.md).
+    For a description of the field values, see [Request filter definition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/filter-def-request-form.md).
 
 
 ## Result
@@ -43,6 +43,6 @@ You have created a filter definition for your Requests view on the portal.
 
 ## What to do next
 
-1.  [Set up the Requests filter configuration](setup-req-filter-config.md)
-2.  [Set up the Requests filter condition](setup-req-filter-con.md)
+1.  [Set up the Requests filter configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-config.md)
+2.  [Set up the Requests filter condition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-req-filter-con.md)
 

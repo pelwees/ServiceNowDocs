@@ -41,9 +41,9 @@ Store a sequence of alphanumeric text values in an array.
 
 ## Create a list of users who have a user role
 
-![Execution details of a custom action that generates user names who have a specific role.](../images/array-strings-execution-details.png)
+![Execution details of a custom action that generates user names who have a specific role.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/array-strings-execution-details.png)
 
-This example uses a custom action to generate a list of users who have a specific user role. To create the custom action to generate an array of strings, see [Create a custom action to generate an array of strings from a list of records](../task/create-custom-action-array-strings.md).
+This example uses a custom action to generate a list of users who have a specific user role. To create the custom action to generate an array of strings, see [Create a custom action to generate an array of strings from a list of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/create-custom-action-array-strings.md).
 
 In this example, the users array contains three users who have the admin role.
 
@@ -58,5 +58,5 @@ In this example, the users array contains three users who have the admin role.
 
 ```
 
-**Parent Topic:**[Workflow Studio input and output data variables](action-inputs-outputs.md)
+**Parent Topic:**[Workflow Studio input and output data variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/action-inputs-outputs.md)
 

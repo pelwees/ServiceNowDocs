@@ -20,15 +20,15 @@ When adding an entity to a model using OData, if the service you need isn't list
 
 Role required: sn\_erp\_integration.erp\_admin
 
-You can connect to an ERP system based on a metadata URL or an uploaded metadata file \(xml\). The file option enables you to, for example, access data from SuccessFactors. For more information, see [Obtain data from SAP SuccessFactors using OData v2 APIs](../concept/obtain-data-from-successfactors-using-odata-v2-apis.md).
+You can connect to an ERP system based on a metadata URL or an uploaded metadata file \(xml\). The file option enables you to, for example, access data from SuccessFactors. For more information, see [Obtain data from SAP SuccessFactors using OData v2 APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/obtain-data-from-successfactors-using-odata-v2-apis.md).
 
 Before you can add a service manually, you must do the following:
 
 -   Confirm that you have an SAP system that has been enabled to make an OData connection.
--   Enable the **sn\_erp\_integration.enableModelModification** property. For more information, see [Install Zero Copy Connector for ERP](install-erp-integration.md).
+-   Enable the **sn\_erp\_integration.enableModelModification** property. For more information, see [Install Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/install-erp-integration.md).
 -   Create a connection and credential alias, specifying HTTP as the **Connection type**. For more information, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md).
 -   Create an HTTP connection for the service. Add the connection alias that you created and the connection URL.
--   Create a system that uses the HTTP connection. For more information, see [Create an ERP system in Zero Copy Connector for ERP](create-an-erp-system.md). On the system record, confirm that the heartbeats are successful and the retrieval status is complete. If any have failed, select **Restart data retrieval**.
+-   Create a system that uses the HTTP connection. For more information, see [Create an ERP system in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/create-an-erp-system.md). On the system record, confirm that the heartbeats are successful and the retrieval status is complete. If any have failed, select **Restart data retrieval**.
 -   If you're going to connect using a URL, copy the metadata URL from the ERP system to which you're linking. Use the relative URL containing only the path following the domain, for example, v2/northwind/northwind.svc/$metadata.
 
 ## Procedure
@@ -45,7 +45,7 @@ Before you can add a service manually, you must do the following:
 
 6.  Select an operation.
 
-    If you don't have an operation, see [Add an operation to a model in Zero Copy Connector for ERP](erpc-manage-models-read-op.md).
+    If you don't have an operation, see [Add an operation to a model in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/erpc-manage-models-read-op.md).
 
 7.  Select **Select entity** on the **Manage entities** tab.
 
@@ -53,7 +53,7 @@ Before you can add a service manually, you must do the following:
 
 9.  Select **+ Add service manually**.
 
-    ![Add entity options with add service manually link highlighted.](../image/erp-add-system-manually2.png)
+    ![Add entity options with add service manually link highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-add-system-manually2.png)
 
 10. If you're using a metadata URL, follow these substeps \(if you're uploading a metadata file, go to the next step\).
 
@@ -69,7 +69,7 @@ Before you can add a service manually, you must do the following:
 
         -   Provide a different **Metadata URL**.
         -   In the **All** menu, enter `sn_erp_integration_odata_service_catalog.list` and delete the previous entry of service from the table.
-        ![Add service manually fields filled in with details.](../image/erp-add-system-manually3.png)
+        ![Add service manually fields filled in with details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-add-system-manually3.png)
 
 11. If you're uploading a metadata file, follow these substeps.
 
@@ -85,7 +85,7 @@ Before you can add a service manually, you must do the following:
 
         You can download, edit, or delete the xml file by selecting an icon.
 
-        ![Add service manually modal with three icons highlighted.](../image/erp-add-system-manually6.png)
+        ![Add service manually modal with three icons highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-add-system-manually6.png)
 
 12. When you're finished, select **Add service**.
 
@@ -93,7 +93,7 @@ Before you can add a service manually, you must do the following:
 
     **Note:** If there's an issue, an error message appears. Select **Flow context** for more information. You can also view execution details in Workflow Studio.
 
-    ![Error message with flow context link highlighted.](../image/erp-add-system-manually4.png)
+    ![Error message with flow context link highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-add-system-manually4.png)
 
     The service is added to the entity record.
 
@@ -102,5 +102,5 @@ Before you can add a service manually, you must do the following:
 14. When you're finished, select **Add entity**.
 
 
-**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](../concept/erp-canvas-use-odata-and-http-connection.md)
+**Parent Topic:**[Connect Zero Copy Connector for ERP to SAP using OData and HTTP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-use-odata-and-http-connection.md)
 

@@ -33,7 +33,7 @@ Role required: admin
 **Related topics**  
 
 
-[Business roles](../concept/business-roles.md)
+[Business roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/../concept/business-roles.md)
 
-[Activate Lifecycle Events for Enterprise](activate-hr-lifecycle-events-for-enterprise-1.md)
+[Activate Lifecycle Events for Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-journey-management/activate-hr-lifecycle-events-for-enterprise-1.md)
 

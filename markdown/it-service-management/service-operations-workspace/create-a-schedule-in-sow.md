@@ -19,8 +19,8 @@ Shift manager can create a new shift using the **Schedule** menu or **Teams** me
 
 There are two ways to create and edit a shift:
 
--   Navigate to **Workspaces** &gt; **Service Operation Workspace** and select ![Teams menu](../../service-reliability/image/icon-sr-teams.png). Select a team to view details and click **schedules** tab.
--   Navigate to **Workspaces** &gt; **Service Operation Workspace** and select ![Schedules menu](../../configurable-workforce-optimization-itsm/image/show-schedules-icon.png).
+-   Navigate to **Workspaces** &gt; **Service Operation Workspace** and select ![Teams menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-teams.png). Select a team to view details and click **schedules** tab.
+-   Navigate to **Workspaces** &gt; **Service Operation Workspace** and select ![Schedules menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/show-schedules-icon.png).
 
 Get an overview of how to create and edit a shift in this video.Create and edit a shift
 
@@ -32,7 +32,7 @@ Role required: rota\_manager, rota\_admin
 
 1.  On **Schedules** page, select **Create shift** and provide values for the following fields on the **Create new** shift form:
 
-    If you select **Create New**, provide the following details and select **Create shift**: ![Create shift form](../image/create_shift_schedule_sow.png)
+    If you select **Create New**, provide the following details and select **Create shift**: ![Create shift form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/create_shift_schedule_sow.png)
 
 <table id="table_d1x_z3z_21c"><thead><tr><th>
 
@@ -160,7 +160,7 @@ Existing templates for shifts.Choices are:
 </td></tr></tbody>
 </table>    You have successfully created a new shift.
 
-2.  To edit a shift, right-click the shift card and select the icon![Edit shift](../../configurable-workforce-optimization-itsm/image/edit-icon.png)
+2.  To edit a shift, right-click the shift card and select the icon![Edit shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../configurable-workforce-optimization-itsm/image/edit-icon.png)
 
     Shift details open up in the side panel.
 
@@ -180,7 +180,7 @@ Description
 
 </td><td>
 
-Update the shift details:![Shift details form](../image/edit_shift_details_tab_sow.png)
+Update the shift details:![Shift details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/edit_shift_details_tab_sow.png)
 
 -   All day shift
 -   Shift starts
@@ -197,14 +197,14 @@ Update the shift details:![Shift details form](../image/edit_shift_details_tab_s
 
 </td><td>
 
-Update the shift details:![Members form](../image/edit_shift_members_tab_sow.png)
+Update the shift details:![Members form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/edit_shift_members_tab_sow.png)
 
 -   Type of rotation interval. Possible options are:
     -   Daily
     -   Weekly
     -   Monthly
 
-**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](../../../administer/on-call-scheduling/concept/oncall-schedule-engine.md).
+**Note:** This option is available only for the 2024 schedule engine. For information about this schedule engine, see [On-Call Scheduling new schedule engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../../administer/on-call-scheduling/concept/oncall-schedule-engine.md).
 
 -   Rotation frequency for weekly interval
 -   Rotation frequency for monthly interval. Also, specify if the roster rotation should start on the last day of the month or any specific day of the month.
@@ -219,17 +219,17 @@ Update the shift details:![Members form](../image/edit_shift_members_tab_sow.png
 
 </td><td>
 
-View escalation policy and click **Open Team Record** go to the team record. ![Escalation policies form](../image/edit_shift_escalation_policies_tab_sow.png)
+View escalation policy and click **Open Team Record** go to the team record. ![Escalation policies form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/edit_shift_escalation_policies_tab_sow.png)
 
 </td></tr></tbody>
 </table>4.  After updating the shift details, click **Save &amp; publish** to save the changes.
 
-5.  Select the ![More icon](../../service-reliability/image/icon-sr-more-actions-vertical.png) icon to change shift to draft mode, delete, or deactivate/activate the selected shift.
+5.  Select the ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png) icon to change shift to draft mode, delete, or deactivate/activate the selected shift.
 
 6.  Select **Back to all shifts** to view all the shifts for a selected team.
 
-    You can also select ![More icon](../../service-reliability/image/icon-sr-more-actions-vertical.png) to change shift color.
+    You can also select ![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../service-reliability/image/icon-sr-more-actions-vertical.png) to change shift color.
 
 
-**Parent Topic:**[Configuring On-Call Scheduling in Service Operations Workspace](configuring-oncall-scheduling-sow.md)
+**Parent Topic:**[Configuring On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-oncall-scheduling-sow.md)
 

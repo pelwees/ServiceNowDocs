@@ -36,11 +36,11 @@ Role required: action\_designer
     |Trigger by entering inputs|Test by manually entering and selecting input values.|
     |Trigger via a conversation|Test by providing inputs values in a chat experience.|
 
-    ![Test action dialog box with Trigger via a conversation option selected](../images/example-test-action-via-conversation.png)
+    ![Test action dialog box with Trigger via a conversation option selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-test-action-via-conversation.png)
 
 6.  For **Select skill**, select the conversational-enabled skill that you want to use for conversational testing.
 
-    To configure subflow conversational settings, see [Configure action conversational settings](configure-action-conversation-settings.md).
+    To configure subflow conversational settings, see [Configure action conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-action-conversation-settings.md).
 
 7.  For **Select assistant**, select the AI assistant you want to use for conversational testing.
 
@@ -50,14 +50,14 @@ Role required: action\_designer
 
     For example, provide the details needed to create an outage.
 
-    ![Sample conversation to test Create outage action](../images/example-test-action-conversation.png)
+    ![Sample conversation to test Create outage action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-test-action-conversation.png)
 
 10. Review the execution details.
 
     For example, these are sample execution details for the Create an outage action.
 
-    ![Sample execution details from testing the Create Outage action via a conversation](../images/example-execution-details-conv-action.png)
+    ![Sample execution details from testing the Create Outage action via a conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-execution-details-conv-action.png)
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/actions.md)
 

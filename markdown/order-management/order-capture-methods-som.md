@@ -87,7 +87,7 @@ Your ServiceNow instances can be integrated with the instances of your customers
 
 ## Order creation by B2B customers
 
-Business-to-Business \(B2B\) customers can leverage self-service capabilities provided through the Business Portal to browse products and submit orders. These orders are then processed by the order and fulfillment agents. For more information, see [Create orders from the Business Portal](../task/order-mgt-create-an-order-using-customer-portal.md).
+Business-to-Business \(B2B\) customers can leverage self-service capabilities provided through the Business Portal to browse products and submit orders. These orders are then processed by the order and fulfillment agents. For more information, see [Create orders from the Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/order-mgt-create-an-order-using-customer-portal.md).
 
 ## Post-capture order record generation
 
@@ -101,7 +101,7 @@ When you capture or directly enter a customer or service order, the correspondin
 **Related topics**  
 
 
-[Creating orders in Order Management](creating-orders-som.md)
+[Creating orders in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating-orders-som.md)
 
-[Convert quotes into orders](../task/quote-management-customer-orders-tab.md)
+[Convert quotes into orders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/quote-management-customer-orders-tab.md)
 

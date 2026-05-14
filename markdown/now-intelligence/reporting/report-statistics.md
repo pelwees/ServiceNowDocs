@@ -15,7 +15,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 The **Report Stats** list enables you to view how often each of your Core UI reports is run and how long it takes for the reports to run.
 
-To view report statistics, navigate to **All** &gt; **Reports** &gt; **Administration** &gt; **Report Statistics**. The admin or report\_admin role is required. By default, the Report Statistics list displays all reports that have been run. To view reports that haven't been run, select the context menu icon \(![Context menu icon](../image/ContextMenuIcon.png)\) and choose **Add Unused Reports**.
+To view report statistics, navigate to **All** &gt; **Reports** &gt; **Administration** &gt; **Report Statistics**. The admin or report\_admin role is required. By default, the Report Statistics list displays all reports that have been run. To view reports that haven't been run, select the context menu icon \(![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ContextMenuIcon.png)\) and choose **Add Unused Reports**.
 
 **Note:** Adding unused reports to this list takes some time, especially if your instance has many reports.
 
@@ -35,7 +35,7 @@ The **Report Stats** list has the following columns:
 -   To view used reports, filter out the value 0 from the **Runs** column.
 -   To view the most used reports, sort the **Runs** column from z-a.
 
-**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
 ## Reports Usage dashboard
 

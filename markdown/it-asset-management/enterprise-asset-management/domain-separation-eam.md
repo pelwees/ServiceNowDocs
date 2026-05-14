@@ -51,50 +51,50 @@ The [Recommended practice](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
 To learn more, see [Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md), [Contains queries and domain access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-contains-domain-visibility.md), and [Importance of Default domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-default-domain.md).
 
-**Parent Topic:**[Enterprise Asset Management reference](reference-enterprise-asset-management.md)
+**Parent Topic:**[Enterprise Asset Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/reference-enterprise-asset-management.md)
 
 **Related topics**  
 
 
-[Enterprise Asset Management roles](../reference/eam-roles.md)
+[Enterprise Asset Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/eam-roles.md)
 
-[OT Asset Workspace roles](../reference/ot-workspace-roles.md)
+[OT Asset Workspace roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/ot-workspace-roles.md)
 
-[Asset fields for enterprise assets](../reference/asset-fields-eam.md)
+[Asset fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/asset-fields-eam.md)
 
-[Asset audit fields for enterprise assets](../reference/asset-audit-record-fields-eam.md)
+[Asset audit fields for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/asset-audit-record-fields-eam.md)
 
-[Audit results](../reference/audit-results-eam.md)
+[Audit results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/audit-results-eam.md)
 
-[Enterprise model categories and corresponding classes](../reference/enterprise-model-categories.md)
+[Enterprise model categories and corresponding classes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/enterprise-model-categories.md)
 
-[Mandatory fields in the bulk import spreadsheets](../reference/mandatory-bulk-fields.md)
+[Mandatory fields in the bulk import spreadsheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/mandatory-bulk-fields.md)
 
-[Normalization status for enterprise models](../reference/norm-status-eam.md)
+[Normalization status for enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/norm-status-eam.md)
 
-[Model fields for Enterprise Asset Management](../reference/eam-model-fields.md)
+[Model fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/eam-model-fields.md)
 
-[Contract fields for Enterprise Asset Management](../reference/contract-fields-eam.md)
+[Contract fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/contract-fields-eam.md)
 
-[Maintenance plan fields for Enterprise Asset Management](../reference/maintenance-plan-fields-eam.md)
+[Maintenance plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/maintenance-plan-fields-eam.md)
 
-[Maintenance schedule fields for Enterprise Asset Management](../reference/maintenance-schedule-fields-eam.md)
+[Maintenance schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/maintenance-schedule-fields-eam.md)
 
-[Work plan fields for Enterprise Asset Management](../reference/wp-fields-eam.md)
+[Work plan fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/wp-fields-eam.md)
 
-[Work plan schedule fields for Enterprise Asset Management](../reference/work-plan-schedule-fields-eam.md)
+[Work plan schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/work-plan-schedule-fields-eam.md)
 
-[Expense line fields for Enterprise Asset Management](../reference/expense-line-fields-eam.md)
+[Expense line fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/expense-line-fields-eam.md)
 
-[Fields inherited from a parent asset group to a sub group](../reference/subgroups-parent-fields-eam.md)
+[Fields inherited from a parent asset group to a sub group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/subgroups-parent-fields-eam.md)
 
-[Enterprise asset disposal order stages](../reference/eamasset-disposalorder-stages.md)
+[Enterprise asset disposal order stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/eamasset-disposalorder-stages.md)
 
-[Terminology for linear assets](../reference/terms-eam.md)
+[Terminology for linear assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/terms-eam.md)
 
-[Scheduled jobs and tables installed with normalization of firmware models](../reference/firmware-tables-jobs-ot.md)
+[Scheduled jobs and tables installed with normalization of firmware models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/firmware-tables-jobs-ot.md)
 
-[Asset put away task fields](../reference/put-away-task-form-eam.md)
+[Asset put away task fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/put-away-task-form-eam.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

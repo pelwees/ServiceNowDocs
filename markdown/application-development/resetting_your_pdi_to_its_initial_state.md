@@ -31,7 +31,7 @@ If you want to start work on a new application or want to work with a fresh inst
 
 3.  In the **Your instance actions** dialog, select how to reset your instance.
 
-    ![Option to keep instance name](../image/reset-instance-pdi.png)
+    ![Option to keep instance name](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/reset-instance-pdi.png)
 
     -   **Yes, keep my instance name**: Reset your instance to its default state. Resetting and wiping your instance may take a couple of hours to complete. You will receive an email when the process is complete.
     -   **No, give up my instance name and get a new one**: Get a new instance without waiting for the reset process.
@@ -40,5 +40,5 @@ If you want to start work on a new application or want to work with a fresh inst
 5.  Click the **Reset and wipe instance** button.
 
 
-**Parent Topic:**[Personal developer instance guide](../concept/personal_developer_instance_guide.md)
+**Parent Topic:**[Personal developer instance guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/personal_developer_instance_guide.md)
 

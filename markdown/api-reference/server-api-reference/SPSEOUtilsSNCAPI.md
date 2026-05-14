@@ -17,7 +17,7 @@ The SPSEOUtilsSNC script include provides utility methods that return human-read
 
 In addition, this API provides other utility methods that you can use to obtain information that is needed to call other human-readable URL methods.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## SPSEOUtilsSNC - getHumanReadableUrl\(GlideRecord pageGR, String queryString\)
 
@@ -45,7 +45,7 @@ GlideRecord
 
 </td><td>
 
-GlideRecord object of the record in the Page \[sp\_page\] table for which to return the human-readable URL.Use the [SPSEOUtilsSNC - getPageRecordWithPageRoute\(GlideRecord pageId, String portalId, Boolean preventReRoute\)](SPSEOUtilsSNCAPI.md#) method to obtain the desired sp\_page GlideRecord.
+GlideRecord object of the record in the Page \[sp\_page\] table for which to return the human-readable URL.Use the [SPSEOUtilsSNC - getPageRecordWithPageRoute\(GlideRecord pageId, String portalId, Boolean preventReRoute\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/SPSEOUtilsSNCAPI.md#) method to obtain the desired sp\_page GlideRecord.
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ String
 
 </td><td>
 
-Sys\_id of the associated Service Portal \[sp\_portal\] record. Required to return the appropriate login or 404 pages in case the record associated with the passed **pageId** parameter is not accessible or unavailable.Use the [SPSEOUtilsSNC - getPortalId\(\)](SPSEOUtilsSNCAPI.md#) method to obtain the desired Service Portal ID.
+Sys\_id of the associated Service Portal \[sp\_portal\] record. Required to return the appropriate login or 404 pages in case the record associated with the passed **pageId** parameter is not accessible or unavailable.Use the [SPSEOUtilsSNC - getPortalId\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/SPSEOUtilsSNCAPI.md#) method to obtain the desired Service Portal ID.
 
 </td></tr><tr><td>
 

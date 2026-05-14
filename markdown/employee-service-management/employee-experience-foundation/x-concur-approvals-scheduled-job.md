@@ -49,7 +49,7 @@ When you sync requests, you can view, track, and manage the pending requests fro
     -   Concur Comments \(sn\_ex\_cnc\_concur\_comment\)
     **Note:** Concur Expense Entry and Concur Comments data is populated real-time when the approver clicks the open request on the **My tasks** page.
 
-    The tables show the expense reports and related metadata. See the sample Concur expense report and its metadata.![Sample expense report](../images/c-sample-concur-report.png).
+    The tables show the expense reports and related metadata. See the sample Concur expense report and its metadata.![Sample expense report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/c-sample-concur-report.png).
 
     If reports do not appear on the Concur Expense Report \(sn\_ex\_cnc\_concur\_report\)​​, check the credentials \(oauth\_2\_0\_credentials\) with names **SAP Concur** and **SAP Concur v4 Credentials**. If credentials are fine, check **Get concur reports** flow execution for more information.
 
@@ -68,5 +68,5 @@ You can navigate to **All** &gt; **Employee Center** &gt; **SAP Concur Spoke** &
 
 Proceed to To-dos Configuration and use the default **Approval \| SAP Concur** task configuration.
 
-**Parent Topic:**[Approvals hub integration with SAP Concur](../concept/x-concur-sa-integration.md)
+**Parent Topic:**[Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/x-concur-sa-integration.md)
 

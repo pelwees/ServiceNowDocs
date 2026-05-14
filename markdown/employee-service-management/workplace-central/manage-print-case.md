@@ -20,22 +20,22 @@ Use one of the following options to proceed:
 -   Print Filter Selection – Apply filters and select this option to create a workplace task with the consolidated report attached.
 -   Print Selected Records – Manually select one or more workplace cases and choose this option to view the consolidated report directly.
 
-**Parent Topic:**[Working with Case management](working-with-case-management.md)
+**Parent Topic:**[Working with Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-case-management.md)
 
 **Related topics**  
 
 
-[Manage workplace cases using Case management](../task/manage-workplace-cases-using-case-management.md)
+[Manage workplace cases using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/manage-workplace-cases-using-case-management.md)
 
-[Work on a workplace case using Case management](../task/work-on-a-workplace-case-using-case-management.md)
+[Work on a workplace case using Case management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/work-on-a-workplace-case-using-case-management.md)
 
-[Create a workplace service case](../task/create-a-case-casemgmtworkspace.md)
+[Create a workplace service case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/create-a-case-casemgmtworkspace.md)
 
-[Create a child case and a child task](../task/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
+[Create a child case and a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/create-a-child-case-and-a-child-task-casemgmtworkspace.md)
 
-[Print a workplace case](../task/print-a-workplace-case.md)
+[Print a workplace case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/print-a-workplace-case.md)
 
-[Cancel or delete a case](../task/cancel-or-delete-a-case-casemgmtworkspace.md)
+[Cancel or delete a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../task/cancel-or-delete-a-case-casemgmtworkspace.md)
 
 ## Print filtered cases
 
@@ -53,7 +53,7 @@ Role required: sn\_wsd\_case.case\_reader
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
     The Case Management landing page opens.
 
@@ -82,7 +82,7 @@ Role required: sn\_wsd\_case.case\_reader
 
     The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](../images/casemgmt-icon.png)\).
+2.  On the left pane, select the **Case Management** icon \(![Case Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/casemgmt-icon.png)\).
 
     The Case Management landing page opens.
 

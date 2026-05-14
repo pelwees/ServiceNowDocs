@@ -15,14 +15,14 @@ breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integ
 
 Configure the Threat Intelligence Security Center \(TISC\) integration with Splunk to import threat intelligence data, set up indicator collections, and analyze search matches using dashboards.
 
--   **[TISC integration with Splunk](splunk-observables-enrichment-integration.md)**  
+-   **[TISC integration with Splunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/splunk-observables-enrichment-integration.md)**  
 The integration between the Threat Intelligence Security Center \(TISC\) and Splunk lets you filter and pull relevant threat intelligence observables data into Splunk.In Splunk, you can use this data to generate security alerts.
--   **[Create users in TISC instance](../task/tisc-create-users.md)**  
+-   **[Create users in TISC instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-create-users.md)**  
 Users can be created in the ServiceNow TISC instance with any valid user role \[`sn_sec_tisc.api_obs_read_access]`.
--   **[Configure TISC add-on in Splunk](../task/tisc-configure-splunk.md)**  
+-   **[Configure TISC add-on in Splunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-configure-splunk.md)**  
 Configure the TISC add-on in Splunk to connect your account, define data inputs, and pull observable records into the KV store for search and analysis.
--   **[Data storage in Splunk](tisc-storage-splunk.md)**  
+-   **[Data storage in Splunk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-storage-splunk.md)**  
 Configure and retrieve Key-Value store lookups used by TISC during its integration with Splunk.
 
-**Parent Topic:**[Configure Sighting Search](../task/configure-sighting-search.md)
+**Parent Topic:**[Configure Sighting Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/configure-sighting-search.md)
 

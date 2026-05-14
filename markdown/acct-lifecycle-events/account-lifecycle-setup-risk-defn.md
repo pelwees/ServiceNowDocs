@@ -16,7 +16,7 @@ Use the engagement risk definition to configure the metrics required to define t
 ## Before you begin
 
 -   Role required: sn\_acct\_lc.customer\_success\_agent
--   Data source and data context engine mapping must be setup for metric based risk definitions. See [Data Context Engine](../concept/account-lifecycle-setup-metric-data.md) for details.
+-   Data source and data context engine mapping must be setup for metric based risk definitions. See [Data Context Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-setup-metric-data.md) for details.
 -   For table based risk definitions, an active context engine mapping with source table as Engagement must be defined.
 
 ## About this task
@@ -62,7 +62,7 @@ Category
 
 </td><td>
 
-Select a category for the risk definition. The risk categories displayed here are defined in the [Create a customer success choice record](account-lifecycle-ale-choice.md).
+Select a category for the risk definition. The risk categories displayed here are defined in the [Create a customer success choice record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-ale-choice.md).
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Metric
 
 </td><td>
 
-Select the metric definition that has been configured in the Data Source table and mapped with the context engine mapper. See [Data Context Engine](../concept/account-lifecycle-setup-metric-data.md) for details.
+Select the metric definition that has been configured in the Data Source table and mapped with the context engine mapper. See [Data Context Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-setup-metric-data.md) for details.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Source table
 
 </td><td>
 
-Select the source table for which the risk definition is to be created.**Note:** A context mapper must have been defined that associates the source and the context tables. See [Data Context Engine](../concept/account-lifecycle-setup-metric-data.md) for details.
+Select the source table for which the risk definition is to be created.**Note:** A context mapper must have been defined that associates the source and the context tables. See [Data Context Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-setup-metric-data.md) for details.
 
 For example, if you want to define risk signals for a contract, and select Contract as your source table, a context mapping with a Contract to Engagement association must have been defined.
 
@@ -168,11 +168,11 @@ Select the Template tab to define the fields for the risk definition. The follow
 
     When the next scheduled job is run, the risk signals are generated. Navigate to **Data Context Engine** &gt; **Context Engine Data** to see the date and time the risk signals are generated.
 
-    ![Context engine data](../image/account-lifecycle-context-engine-data.png)
+    ![Context engine data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-context-engine-data.png)
 
 
--   **[Sample risk definitions](../concept/account-lifecycle-risk-demo-data.md)**  
+-   **[Sample risk definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-risk-demo-data.md)**  
 These are sample risk definitions available with the base system and can configured based on your requirements.
 
-**Parent Topic:**[Manage engagements](../concept/account-lifecycle-manage-engagement.md)
+**Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-manage-engagement.md)
 

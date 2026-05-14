@@ -119,7 +119,7 @@ Service Context
 
 </td><td>
 
-Service that is associated to the underlying CI for calculating the impact severity from Event Management. For more information, see [Service health status for install base](../concept/service-health-pcso.md).**Note:** This field is only available if you have the Proactive Customer Service Operations with Event Management plugin installed. The health status of an install base item appears only if an install base item has a CI and a service context that is associated to it.
+Service that is associated to the underlying CI for calculating the impact severity from Event Management. For more information, see [Service health status for install base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/service-health-pcso.md).**Note:** This field is only available if you have the Proactive Customer Service Operations with Event Management plugin installed. The health status of an install base item appears only if an install base item has a CI and a service context that is associated to it.
 
 Configure the form layout to add this field.
 
@@ -322,10 +322,10 @@ Install Base Related Parties
 
 </td><td>
 
-List of contacts, consumers, accounts, members, contributors, and service organizations that have access to an install base. For more information on Install Base Related Parties, see [Create related party configurations](adding-related-party-config-to-case.md).
+List of contacts, consumers, accounts, members, contributors, and service organizations that have access to an install base. For more information on Install Base Related Parties, see [Create related party configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/adding-related-party-config-to-case.md).
 
 </td></tr></tbody>
-</table>    For more information on related lists, see [Related list for an install base item](../concept/install-base-related-list.md).
+</table>    For more information on related lists, see [Related list for an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/install-base-related-list.md).
 
 6.  Select **Update**.
 
@@ -341,5 +341,5 @@ List of contacts, consumers, accounts, members, contributors, and service organi
 **Related topics**  
 
 
-[Create and manage install base items for a business location](create-ib-items-for-business-locations.md)
+[Create and manage install base items for a business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-ib-items-for-business-locations.md)
 

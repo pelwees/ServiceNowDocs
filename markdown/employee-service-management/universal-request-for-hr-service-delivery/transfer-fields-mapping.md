@@ -73,7 +73,7 @@ Map the fields to create an associated ticket for universal request.On the **Ass
 
 Map the fields to create automatically a universal request when a request is raised from any of the available channels.
 
-**Note:** Before you perform this step, ensure that you’ve created a new Before insert business rule to call the respective API. For more information, see [Create a business rule to automatically create universal request](ur-create-brule-omnichannel.md).
+**Note:** Before you perform this step, ensure that you’ve created a new Before insert business rule to call the respective API. For more information, see [Create a business rule to automatically create universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-create-brule-omnichannel.md).
 
  On the **Create UR Mappings** tab,
 
@@ -89,5 +89,5 @@ Map the fields to create automatically a universal request when a request is rai
 3.  Select **Update**.
 
 
-**Parent Topic:**[Configure mappings](ur-transfer-map-config.md)
+**Parent Topic:**[Configure mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md)
 

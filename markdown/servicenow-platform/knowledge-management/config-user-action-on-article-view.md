@@ -25,7 +25,7 @@ The article view page uses the Knowledge Article Content widget to provide user 
 
 Ensure that the application scope on the ServiceNow AI Platform is set to Knowledge Management Service Portal.
 
-User actions available for the article view page appear in a menu after clicking the overflow icon \(![Overflow icon](../image/KnowledgeServicePortalOverflowIcon.png)\) in the article header. These actions enable users to flag an article, edit an article, or create an incident for an article.
+User actions available for the article view page appear in a menu after clicking the overflow icon \(![Overflow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)\) in the article header. These actions enable users to flag an article, edit an article, or create an incident for an article.
 
 ## Procedure
 
@@ -113,5 +113,5 @@ Redirects the article view page to the latest accessible version of the article,
 </table>5.  Click **Save**.
 
 
-**Parent Topic:**[Knowledge Management Service Portal widgets](../concept/km-service-portal-widget-instances.md)
+**Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/km-service-portal-widget-instances.md)
 

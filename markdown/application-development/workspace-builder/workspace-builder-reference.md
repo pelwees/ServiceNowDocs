@@ -15,8 +15,8 @@ breadcrumb: [Workspace Builder, Builder library, Developing your application, Bu
 
 Reference topics provide additional information about the lists and forms that you use to configure and administer Workspace Builder.
 
--   **[Workspace Builder components for home pages](../../app-engine-studio/reference/workspace-builder-components-ref.md)**  
+-   **[Workspace Builder components for home pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../app-engine-studio/reference/workspace-builder-components-ref.md)**  
 Several UI Builder components are available as elements to build home pages and contextual side panels in Workspace Builder. Workspace Builder helps you quickly create workspaces.
 
-**Parent Topic:**[Workspace Builder](workspace-builder-landing.md)
+**Parent Topic:**[Workspace Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/workspace-builder-landing.md)
 

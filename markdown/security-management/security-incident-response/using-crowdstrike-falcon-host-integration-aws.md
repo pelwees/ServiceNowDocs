@@ -19,7 +19,7 @@ Use the CrowdStrike Falcon Insight integration to leverage the CrowdStrike Falco
 
 Role required: sn\_si.admin
 
-Before you use CrowdStrike Falcon Insight integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](../concept/get-started-with-the-crowdstrike-falcon-insight-integration.md).
+Before you use CrowdStrike Falcon Insight integration on the Security Incident Response workspace, you must download it from the ServiceNow Store and configure it. For more information, see [Getting started with the CrowdStrike Falcon Insight integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/get-started-with-the-crowdstrike-falcon-insight-integration.md).
 
 ## About this task
 
@@ -44,7 +44,7 @@ The CrowdStrike Falcon Insight integration enables analysts to use the following
 
     1.  Select a **Configuration Item**, and choose a capability from the dropdown list.
 
-        ![CrowdStrike Falcon Insight for CI](../../../secops-analyst-workspace/image/falcon-insight-workspace-ci.png "CrowdStrike Falcon Insight for CI")
+        ![CrowdStrike Falcon Insight for CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../secops-analyst-workspace/image/falcon-insight-workspace-ci.png "CrowdStrike Falcon Insight for CI")
 
     2.  Select the **CrowdStrike Falcon Insight** implementation, and click **Submit**.
 
@@ -58,7 +58,7 @@ The CrowdStrike Falcon Insight integration enables analysts to use the following
 
     3.  To run a CrowdStrike Falcon Sighting Search on a particular running process, select the running process and click **Run CrowdStrike Sighting**.
 
-        ![CrowdStrike Falcon Insight for Endpoint Detection and Response](../../../secops-analyst-workspace/image/falcon-insight-workspace-edr.png "CrowdStrike Falcon Insight for EDR")
+        ![CrowdStrike Falcon Insight for Endpoint Detection and Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../secops-analyst-workspace/image/falcon-insight-workspace-edr.png "CrowdStrike Falcon Insight for EDR")
 
     4.  Select the **CrowdStrike Falcon Insight** implementation, and click **Run Search**.
 
@@ -70,7 +70,7 @@ The CrowdStrike Falcon Insight integration enables analysts to use the following
 
     2.  Select the **CrowdStrike Falcon Insight** implementation, and click **Next**.
 
-        ![CrowdStrike Falcon Insight for Threat Intel](../../../secops-analyst-workspace/image/falcon-insight-workspace-ti.png "CrowdStrike Falcon Insight for Threat Intel")
+        ![CrowdStrike Falcon Insight for Threat Intel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../secops-analyst-workspace/image/falcon-insight-workspace-ti.png "CrowdStrike Falcon Insight for Threat Intel")
 
     3.  In the Select Date/Time pop-up, select a random value and click **Submit**.
 

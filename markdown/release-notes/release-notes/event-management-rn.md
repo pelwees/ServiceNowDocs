@@ -72,5 +72,5 @@ Event Management is available with activation of the Event Management plugin \(c
     ServiceNow® Agent Workspace for [Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/operational-metrics.md) provides a central interface that enables you to view the health of a CI associated with an alert. Health details for a CI include various metric charts with control bounds and aggregations for single score charts.
 
 
-**Parent Topic:**[IT Operations Management release notes](it-operations-management-rn-landing.md)
+**Parent Topic:**[IT Operations Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-operations-management-rn-landing.md)
 

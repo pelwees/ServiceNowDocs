@@ -17,13 +17,13 @@ Manage documents by uploading, updating and downloading the required documents f
 
 ## Before you begin
 
-Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](../concept/supp-doc-mgmt-overview.md).
+Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-doc-mgmt-overview.md).
 
 Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## About this task
 
-The **Documents** tab contains the **Link Documents** option, which enables you to quickly add an already uploaded document without creating a new one. Access to the **Link Documents** option is controlled by the user criteria you set on the **Manage access** tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](create-doc-config.md).
+The **Documents** tab contains the **Link Documents** option, which enables you to quickly add an already uploaded document without creating a new one. Access to the **Link Documents** option is controlled by the user criteria you set on the **Manage access** tab when creating the supplier document configuration. For more information, see [Create a supplier document configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-doc-config.md).
 
 ## Procedure
 
@@ -49,8 +49,8 @@ Do this
 
 </td><td>
 
-1.  Select **New**.![Upload a document](../image/upload-new-doc.png)
-2.  On the Create New Documents form, fill in the fields. For a description of the field values, see [Create New Documents form](../reference/create-new-doc-form.md).
+1.  Select **New**.![Upload a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/upload-new-doc.png)
+2.  On the Create New Documents form, fill in the fields. For a description of the field values, see [Create New Documents form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/create-new-doc-form.md).
 3.  Select **Submit**.
 
 
@@ -61,7 +61,7 @@ Do this
 </td><td>
 
 1.  In the Name column, select the link to a document to open it.
-2.  Select **Download Document**.![Download a document](../image/download-doc.png)
+2.  Select **Download Document**.![Download a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/download-doc.png)
 
 
 </td></tr><tr><td id="d145977e214">
@@ -71,7 +71,7 @@ Do this
 </td><td>
 
 1.  Select the check box next to the document name.
-2.  Select **Remove**.![Remove a document](../image/remove-doc.png)
+2.  Select **Remove**.![Remove a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/remove-doc.png)
 
 
 </td></tr><tr><td id="d145977e240">
@@ -83,7 +83,7 @@ Do this
 1.  In the Name column, select the link to a document to open it.
 2.  Do one of the following:
     -   Select **Upload Version**.
-    -   Select the **Versions** tab and then select **New**.![Upload new version of a document](../image/upload-doc-version.png)
+    -   Select the **Versions** tab and then select **New**.![Upload new version of a document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/upload-doc-version.png)
 3.  On the Create New Versions form, under Attachments, select **Browse** to upload the new version of the document.
 4.  Select **Save**.
 
@@ -95,10 +95,10 @@ A new version of the document is created and displayed in the **Versions** tab.
 
 The required action is completed for the selected document.
 
-**Parent Topic:**[Manage supplier details](../concept/supp-ws-details-page.md)
+**Parent Topic:**[Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-ws-details-page.md)
 
 **Related topics**  
 
 
-[Using Source-to-Pay Workspace](../concept/use-supp-mgr-wsp.md)
+[Using Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/use-supp-mgr-wsp.md)
 

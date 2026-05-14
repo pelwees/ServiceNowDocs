@@ -227,7 +227,7 @@ Enter `https://github.com/login/oauth/access_token`.
 </td></tr></tbody>
 </table>5.  Leave the rest of the form fields as default.
 
-    ![Application Registry form](../image/github-oauth-auth-app-registries.png)
+    ![Application Registry form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/github-oauth-auth-app-registries.png)
 
 6.  Right-click the form header, and click **Save**.
 
@@ -313,7 +313,7 @@ Select the order to apply this credential. For example, enter `100`.
 **Related topics**  
 
 
-[GitHub Actions configurations](github-actions-integration-with-devops.md#)
+[GitHub Actions configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-actions-integration-with-devops.md#)
 
-[ServiceNow DevOps custom actions from GitHub marketplace](servicenow-devops-custom-actions-from-github-marketplace.md#)
+[ServiceNow DevOps custom actions from GitHub marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-devops-custom-actions-from-github-marketplace.md#)
 

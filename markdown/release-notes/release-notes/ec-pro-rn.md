@@ -56,5 +56,5 @@ Install Employee Center Pro by requesting it from the ServiceNow Store. Visit th
     Now Assist for Employee Center Pro expands across AI-powered capabilities, enterprise search, and delivery across channels to meet modern employee productivity requirements.
 
 
-**Parent Topic:**[Unified Employee Experience release notes](uex-rn-landing.md)
+**Parent Topic:**[Unified Employee Experience release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/uex-rn-landing.md)
 

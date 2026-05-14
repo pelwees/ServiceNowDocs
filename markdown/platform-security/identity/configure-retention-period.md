@@ -27,7 +27,7 @@ Role required: admin
 
     **Note:** The maximum number of days for Identity and Access Audit is 30 days \(2,592,000 seconds\).
 
-    ![Retention Period](../images/configure-retention-period.png)
+    ![Retention Period](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/configure-retention-period.png)
 
 3.  Click **Update**.
 

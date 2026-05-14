@@ -35,21 +35,21 @@ Role required: sn\_ti.case\_user\_write
 
 4.  Select the cases into which you want to add the selected IoCs or observables.
 
-    ![Add an observable to an existing case](../image/add-observ-to-existing-case.png)
+    ![Add an observable to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-observ-to-existing-case.png)
 
 5.  Click **Add**.
 
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[IoCs and observables in cases](../concept/cases-in-threat.md)
+**Parent Topic:**[IoCs and observables in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-in-threat.md)
 
 **Related topics**  
 
 
-[Create a case from IoCs or observables](create-cases-threat.md)
+[Create a case from IoCs or observables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-threat.md)
 
-[Create an observable from a case](create-an-observable-from-a-case.md)
+[Create an observable from a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-an-observable-from-a-case.md)
 
-[Run a sightings search on observables in a case](run-local-sighted-srch.md)
+[Run a sightings search on observables in a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/run-local-sighted-srch.md)
 

@@ -33,7 +33,7 @@ By default, all roles can create data visualizations for all data sources. You c
 
     Your choices include any custom data sources that you have created in the Viz Framework Data Sources \[sys\_viz\_data\_source\] table.
 
-3.  Select the **Edit user roles** icon \(![pencil icon](../../dashboards/image/icon-pencil-ac.png)\) next to Roles.
+3.  Select the **Edit user roles** icon \(![pencil icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../dashboards/image/icon-pencil-ac.png)\) next to Roles.
 
 4.  In the **Available** field, highlight those roles that should be able to create data visualizations for this data source.
 
@@ -48,28 +48,28 @@ By default, all roles can create data visualizations for all data sources. You c
 
 ## Impact of limiting data source by role
 
-Abel Tuter is a top business analyst. Abel has the pa\_power\_user role and can create indicators. Alissa Mountjoy is a technical expert who schedules [data collection jobs](../../performance-analytics/concept/performance-analytics-glossary.md#) for indicators, but is not a business analyst and does not create indicators. Alissa has the pa\_data\_collector role. By default, both Abel and Alissa can create data visualizations based on an indicator.
+Abel Tuter is a top business analyst. Abel has the pa\_power\_user role and can create indicators. Alissa Mountjoy is a technical expert who schedules [data collection jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/performance-analytics-glossary.md#) for indicators, but is not a business analyst and does not create indicators. Alissa has the pa\_data\_collector role. By default, both Abel and Alissa can create data visualizations based on an indicator.
 
 Abel creates a time series data visualization on the Number of Open Incidents indicator. Abel shares this visualization with Alissa, also granting editing rights.
 
-![Share Visualization dialog with Alissa Mountjoy being given editing permission.](../image/dv-acl-add-alissa-editor.png)
+![Share Visualization dialog with Alissa Mountjoy being given editing permission.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-acl-add-alissa-editor.png)
 
 Alissa can open this visualization in edit mode, accessing the configuration panel. She can edit the data source. She can also create a visualization herself using an incident data source.
 
-![The Number of open incidents data visualization in edit mode, with Alissa Mountjoy the logged-in user and able to edit the data source.](../image/dv-alissa-editing.png)
+![The Number of open incidents data visualization in edit mode, with Alissa Mountjoy the logged-in user and able to edit the data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-alissa-editing.png)
 
 As a system administrator, you decide that only business experts with the pa\_power\_user role should be able to create data visualizations based on indicators.
 
-![Visual Data Sources Visibility record limiting indicator data sources to pa_power_user role.](../image/dv-data-source-role-record.png)
+![Visual Data Sources Visibility record limiting indicator data sources to pa_power_user role.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-data-source-role-record.png)
 
 Alissa still has editing rights to the data visualization, but can no longer edit the data source. Neither can Alissa create a data visualization with an incident data source.
 
-![The Number of open incidents data visualization in edit mode, with Alissa Mountjoy the logged-in user and unable to edit the data source.](../image/dv-alissa-cant-edit.png)
+![The Number of open incidents data visualization in edit mode, with Alissa Mountjoy the logged-in user and unable to edit the data source.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/dv-alissa-cant-edit.png)
 
-**Parent Topic:**[Configure data visualizations](../../performance-analytics/concept/configure-data-visualizations.md)
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../performance-analytics/concept/configure-data-visualizations.md)
 
 **Related topics**  
 
 
-[Data sources for data visualizations](../reference/data-sources-visualizations.md)
+[Data sources for data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../reference/data-sources-visualizations.md)
 

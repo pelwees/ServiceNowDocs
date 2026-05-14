@@ -29,9 +29,9 @@ Supplier Common Architecture installs the following dependent plugins:
 **Related topics**  
 
 
-[Supplier Case Management](supplier-case-management.md)
+[Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-case-management.md)
 
-[Supplier Collaboration Portal](supplier-central.md)
+[Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-central.md)
 
-[Supplier Operations](supplier-operations.md)
+[Supplier Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-operations.md)
 

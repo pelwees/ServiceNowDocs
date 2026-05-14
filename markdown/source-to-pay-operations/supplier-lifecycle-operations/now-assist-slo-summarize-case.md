@@ -33,7 +33,7 @@ You can use the supplier case summarization skill in either Core UI or Source-to
 
 1.  Navigate to **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  Navigate to **Lists** &gt; **All work** and select either of the following records:
 
@@ -43,7 +43,7 @@ You can use the supplier case summarization skill in either Core UI or Source-to
 
 5.  In the Record summary section, select **Summarize**.
 
-    ![Summarize option in the Source-to-Pay Workspace.](../image/case-summarization.png)
+    ![Summarize option in the Source-to-Pay Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/case-summarization.png)
 
 6.  Review the summary details.
 
@@ -79,7 +79,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![Expand card icon.](../../sourcing-procurement-operations/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](../../sourcing-procurement-operations/image/icon-collapse.png)\) to see more details or fewer summary details.
+Select the expand card icon \(![Expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-expand.png)\) or the collapse card icon \(![Collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-collapse.png)\) to see more details or fewer summary details.
 
 </td></tr><tr><td id="d37653e292">
 
@@ -87,7 +87,7 @@ Select the expand card icon \(![Expand card icon.](../../sourcing-procurement-op
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../../sourcing-procurement-operations/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../../sourcing-procurement-operations/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-not-helpful.png)\).This feedback improves the generative AI model and can help to improve the future versions of this skill.
 
 </td></tr><tr><td id="d37653e315">
 
@@ -95,7 +95,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
+Select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/icon-copy.png)\) to use the record summary information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d37653e331">
 
@@ -103,7 +103,7 @@ Select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-cop
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../../sourcing-procurement-operations/image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-more-info.png)\).
 
 </td></tr><tr><td id="d37653e346">
 
@@ -111,14 +111,14 @@ If you want to check some details about the summary, select the more info icon \
 
 </td><td>
 
-If you want to refresh the summary, select the refresh icon \(![Refresh icon.](../../sourcing-procurement-operations/image/icon-refresh.png)\).
+If you want to refresh the summary, select the refresh icon \(![Refresh icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../sourcing-procurement-operations/image/icon-refresh.png)\).
 
 </td></tr></tbody>
 </table>
 **Related topics**  
 
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](../concept/now-assist-slo-using.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/now-assist-slo-using.md)
 
-[Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](../concept/now-assist-slo-va.md)
+[Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/now-assist-slo-va.md)
 

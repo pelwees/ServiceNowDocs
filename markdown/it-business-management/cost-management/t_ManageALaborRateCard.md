@@ -83,8 +83,8 @@ Defines a filter on the user table to determine whether the task time worked use
 
 </td></tr></tbody>
 </table>
--   **[Rate type in labor rate card](../concept/RateType.md)**  
+-   **[Rate type in labor rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/RateType.md)**  
 The rate type functionality is used to categorize different types of work. For example, Standard versus Overtime.
 
-**Parent Topic:**[Task and labor rate cards](../concept/c_TaskAndLaborRateCards.md)
+**Parent Topic:**[Task and labor rate cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/cost-management/../concept/c_TaskAndLaborRateCards.md)
 

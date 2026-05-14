@@ -23,17 +23,17 @@ Several related items including account squad, onboarding tasks, emails, documen
 
 **Documents**: This related item component allows you to create and manage documents efficiently. The Documents related item is displayed only if you have installed the `com.snc.platform_document_management` plugin.
 
-![Account onboarding document related items](../image/account-lifecycle-related-item.png)
+![Account onboarding document related items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-related-item.png)
 
 **Projects**: Strategic Portfolio Management enables you to use digital transformation to drive more customer value faster. If the Strategic Portfolio Management has been installed, you can see the Projects item on the Related Items list as shown below:
 
-![Account onboarding project related item](../image/account-lifecycle-related-item-projects.png)
+![Account onboarding project related item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-related-item-projects.png)
 
 When you create a project for your account onboarding case, the case is mapped to the project table.
 
 Related items of **Data import task**.
 
-![Data import task related lists.](../image/account-lifecycle-related-data-import.png)
+![Data import task related lists.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-related-data-import.png)
 
-**Parent Topic:**[Account onboarding](account-lifecycle-use.md)
+**Parent Topic:**[Account onboarding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use.md)
 

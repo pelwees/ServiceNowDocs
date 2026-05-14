@@ -109,7 +109,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
 </table>    3.  Right-click the header of the Discovery Schedule form and select **Save**.
     4.  Click the **Serverless Execution Patterns** tab, click **New**, and then fill in the form.
 
-        ![Serverless execution pattern](../image/serverless-execution-pattern.png)
+        ![Serverless execution pattern](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/serverless-execution-pattern.png)
 
         |Field|Description|
         |-----|-----------|
@@ -126,7 +126,7 @@ Option for enabling this schedule for discovery. Select this check box to enable
         |cloud\_cred\_id|The sysid of the GCP credentials.|
         |cloud\_datacenter\_type|`cmdb_ci_google_datacenter`|
 
-        ![Pattern Launcher Parameters](../image/discovery-pattern-launcher-params.png)
+        ![Pattern Launcher Parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/discovery-pattern-launcher-params.png)
 
 -   **Customers with early access to the GCP Organization pattern**
 
@@ -348,5 +348,5 @@ The URL or path of the CI.
 |Google Folder \[cmdb\_ci\_gcp\_folder\]|Contained by::Contains|Sub Google Folder|
 |Sub Google Folder|Contained by::Contains|Google Project \[cmdb\_ci\_gcp\_project\]|
 
-**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](gcp-cloud-discovery-patterns.md)
+**Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 

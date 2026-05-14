@@ -17,7 +17,7 @@ ServiceNow® Natural Language Understanding \(NLU\) provides an NLU Workbench an
 
 ## Overview of Natural Language Understanding
 
-For an overview of Natural Language Understanding, see [Exploring Natural Language Understanding](nlu-explore.md).
+For an overview of Natural Language Understanding, see [Exploring Natural Language Understanding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-explore.md).
 
 ## NLU terminology
 
@@ -62,7 +62,7 @@ Use the NLU Workbench to create morphological representations of human language.
 
 Using the nlu\_admin role, you build your models in the NLU Workbench, where you create, train, test, and publish them iteratively.
 
-For information on how to build and use an NLU model, see: [Create an NLU model](../task/create-nlu-modelx.md).
+For information on how to build and use an NLU model, see: [Create an NLU model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../task/create-nlu-modelx.md).
 
 ## NLU inference service
 
@@ -80,19 +80,19 @@ For example, Virtual Agent administrators can configure a Virtual Agent Designer
 
 <table id="table_lhx_jch_czb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about NLU concepts and features.](nlu-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about NLU concepts and features.](nlu-explore.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Create, test, translate, and publish your NLU models.](nlu-models.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../../../reuse/icons/brand-icons/bus-sdlc.svg)Create, test, translate, and publish your NLU models.](nlu-models.md)
 
 </td></tr><tr><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how Virtual Agent administrators can update NLU models from within Virtual Agent Designer.](virtual-agent-nlu-model-builder-integration.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Learn how Virtual Agent administrators can update NLU models from within Virtual Agent Designer.](virtual-agent-nlu-model-builder-integration.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about using models in different languages for use in other applications](nlu-language-support.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about using models in different languages for use in other applications](nlu-language-support.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

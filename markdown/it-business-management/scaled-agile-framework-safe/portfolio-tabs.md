@@ -30,17 +30,17 @@ In addition, you can move an epic from one lane to another, which in turn update
 
 The **Backlog** tab enables you to manage your portfolio backlog, which comprises epics.
 
--   **[Track your epics](../task/track-epics.md)**  
+-   **[Track your epics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../task/track-epics.md)**  
 Using the Board tab, track all epics of your portfolio and view their transition from one state \(lane\) to another.
--   **[Manage your portfolio backlog](../task/manage-your-portfolio-backlog.md)**  
+-   **[Manage your portfolio backlog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../task/manage-your-portfolio-backlog.md)**  
 Manage, evaluate, prioritize, and sequence epics in your portfolio backlog.
 
-**Parent Topic:**[Portfolio SAFe](portfolio-overview.md)
+**Parent Topic:**[Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-overview.md)
 
 **Related topics**  
 
 
-[Components installed with Portfolio SAFe](../reference/installed-with-portfolioSAFe.md)
+[Components installed with Portfolio SAFe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../reference/installed-with-portfolioSAFe.md)
 
-[Define a portfolio](../task/create-SAFeportfolio.md)
+[Define a portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../task/create-SAFeportfolio.md)
 

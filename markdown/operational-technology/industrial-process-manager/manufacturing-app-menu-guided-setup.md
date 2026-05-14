@@ -42,7 +42,7 @@ The options that appear on the Industrial Workspace Admin application menu depen
     -   OT Incident Admin
     -   Operational Technology Change Management
 
-To learn more about application installation and assigned roles, see [Install the Industrial Process Manager](install-manufacturing-process-mgr.md) and [Assign Industrial Process Manager user roles](assign-manufacturing-process-manager-roles.md).
+To learn more about application installation and assigned roles, see [Install the Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/install-manufacturing-process-mgr.md) and [Assign Industrial Process Manager user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/assign-manufacturing-process-manager-roles.md).
 
 ## Industrial Workspace Admin Guided Setup
 
@@ -65,5 +65,5 @@ If only the Industrial Process Manager is installed, the following setup functio
 
 To learn more about Guided Setups and their use, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-setup.md).
 
-**Parent Topic:**[Configuring the Industrial Process Manager](../concept/configuring-manufacturing-process-mgr.md)
+**Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/configuring-manufacturing-process-mgr.md)
 

@@ -23,7 +23,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-Project managers can navigate from Project Workspace to procurement applications and create purchase requests for their projects. The ordered purchase requests are reflected in the Project Workspace. After the purchase request is processed, the purchase line, cost plan, and expense lines are automatically generated. For more information about the integration, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-ppm.md).![Financials SPO better together workflow diagram.](../images/Financials-SPO-better-together.png)
+Project managers can navigate from Project Workspace to procurement applications and create purchase requests for their projects. The ordered purchase requests are reflected in the Project Workspace. After the purchase request is processed, the purchase line, cost plan, and expense lines are automatically generated. For more information about the integration, see [Sourcing and Procurement Operations integration with Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-ppm.md).![Financials SPO better together workflow diagram.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../images/Financials-SPO-better-together.png)
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Project managers can navigate from Project Workspace to procurement applications
 2.  Open a project and select **Details** from the left menu.
 
 
-**Parent Topic:**[Managing projects with Project Workspace](../../project-workspace/concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-workspace/concept/use-projects-pw.md)
 
 ## Create purchase request
 
@@ -44,7 +44,7 @@ Role required: it\_project\_manager
 
 ### Procedure
 
-1.  In the project details page, select More Actions \(![More actions icon.](../../alignment-planner-workspace/images/icon-more-actions-horizontal.png)\) icon and select **Create Purchase Requests**.
+1.  In the project details page, select More Actions \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../alignment-planner-workspace/images/icon-more-actions-horizontal.png)\) icon and select **Create Purchase Requests**.
 
     The Source-to-Pay Operations shopping hub portal opens in a new tab.
 
@@ -104,7 +104,7 @@ Role required: it\_project\_manager
     1.  Open the project selected while creating the purchase request.
     2.  Select **Financials** from the left menu.
     3.  Locate the cost plan created for the Purchase Order Line.
-    4.  Scroll through the cost plan monthly breakdown, select the row options ![Vertical ellipses option to view expense lines](../../spw-financials/images/fin-options.png) for fiscal period in which the purchase order is created and select **View expense lines**.
+    4.  Scroll through the cost plan monthly breakdown, select the row options ![Vertical ellipses option to view expense lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-options.png) for fiscal period in which the purchase order is created and select **View expense lines**.
     5.  In the Expense lines view, select the **Auto generated expense line for cost plan:** option.
     6.  Total expense incurred while generating the purchase order are displayed in the **Amount** field.
 

@@ -37,5 +37,5 @@ Input variables determine the initial behavior of the flow action.
 
 There are no output variables.
 
-**Parent Topic:**[Common Security Operations integration flows and orchestration activities](common-wf-activities.md)
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 

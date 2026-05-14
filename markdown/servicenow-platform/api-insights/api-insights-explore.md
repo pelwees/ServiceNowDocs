@@ -63,7 +63,7 @@ Additionally, the CMDB administrator needs the following security roles to acces
 </td></tr></tbody>
 </table>## API Insights example workflow
 
-![Workflow describing various tasks a user with the sn_api_insights_ws.api_mgmt_architect_admin, sn_api_insights_ws.api_mgmt_architect, or sn_cmdb_admin role can perform in API Insights.](../image/api-insights-workflow.png "Example workflow for the API Insights users")
+![Workflow describing various tasks a user with the sn_api_insights_ws.api_mgmt_architect_admin, sn_api_insights_ws.api_mgmt_architect, or sn_cmdb_admin role can perform in API Insights.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/../image/api-insights-workflow.png "Example workflow for the API Insights users")
 
 1.  A CMDB administrator with the sn\_cmdb\_admin role logs in to API Insights and configures the API Service Graph Connectors to import API data from various sources. Also, reviews and resolves any connection errors to ensure a smooth data import process.
 2.  An enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role accesses the settings page and adjusts the ownership settings according to their preferences.
@@ -175,11 +175,11 @@ CMDB administrator
 
 To learn more about configuring and using API Insights, see:
 
--   [Configuring API Insights](api-insights-configuring.md)
--   [Administering and monitoring API data with API Insights](api-insights-overview-page.md)
--   [Managing API data in API Insights](api-insights-managing-apis.md)
--   [Managing API access within API Insights](api-insights-received-req.md)
--   [Optimizing API organization with clustering recommendations in API Insights](api-insights-cluster-recomm.md)
--   [Managing API data connections added for Service Graph Connectors in API Insights](api-insights-managing-connection.md)
--   [API Insights reference](api-insights-reference.md)
+-   [Configuring API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-configuring.md)
+-   [Administering and monitoring API data with API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-overview-page.md)
+-   [Managing API data in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-managing-apis.md)
+-   [Managing API access within API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-received-req.md)
+-   [Optimizing API organization with clustering recommendations in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-cluster-recomm.md)
+-   [Managing API data connections added for Service Graph Connectors in API Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-managing-connection.md)
+-   [API Insights reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-reference.md)
 

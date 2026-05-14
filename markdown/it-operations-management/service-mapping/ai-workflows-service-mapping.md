@@ -18,8 +18,8 @@ Service Mapping AI capabilities helps Service Mapping Administrators speed-up ma
 
 ## Available AI agents
 
--   **[AI Agents for Service Mapping](service-mapping-ai-specialists.md)**  
+-   **[AI Agents for Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-ai-specialists.md)**  
 AI Agents for Service Mapping are autonomous AI agents that automate the creation and maintenance of service maps in the Configuration Management Database \(CMDB\), reducing manual effort for Service Mapping administrators.
 
-**Parent Topic:**[Using Service Mapping](using-service-mapping.md)
+**Parent Topic:**[Using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/using-service-mapping.md)
 

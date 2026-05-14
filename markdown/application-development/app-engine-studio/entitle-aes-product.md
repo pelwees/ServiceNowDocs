@@ -31,13 +31,13 @@ Role required: admin
 
 3.  Select the **ServiceNow Products** tab to view all available ServiceNow products.
 
-    ![ServiceNow Store page showing the Explore navigation menu and App Engine Studio product listing.](../image/servicenow-store-products-a.png)
+    ![ServiceNow Store page showing the Explore navigation menu and App Engine Studio product listing.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/servicenow-store-products-a.png)
 
 4.  Select **App Engine Studio**.
 
     The page lists all the applications that are associated with the AES product you're entitling.
 
-    ![App Engine Studio store listing, including some of the specific applications included in the App Engine Studio product.](../image/aes-apps-in-this-product.png)
+    ![App Engine Studio store listing, including some of the specific applications included in the App Engine Studio product.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-apps-in-this-product.png)
 
 5.  Verify that you have entitlement to the product and applications by selecting **Opt-in**.
 
@@ -59,5 +59,5 @@ Role required: admin
 
 Install and activate AES. Navigate to **All** &gt; **My Company Applications** and select App Engine Studio.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-installation-store.md)
 

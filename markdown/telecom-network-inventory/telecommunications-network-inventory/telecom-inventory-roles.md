@@ -76,5 +76,5 @@ Role that enables a user with the following permissions:-   Read access to all t
 -   Write, update, and delete access to the telephone number tables.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)
+</table>**Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 

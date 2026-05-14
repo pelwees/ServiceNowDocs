@@ -20,19 +20,19 @@ ReleaseOps automates deployment of changes across your pipeline, increases predi
 
 <table id="table_y43_hjz_tfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ReleaseOps benefits and features.](exploring-release-ops.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ReleaseOps benefits and features.](exploring-release-ops.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure ReleaseOps settings.](configuring-releaseops.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure ReleaseOps settings.](configuring-releaseops.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-rocketship.svg)Manage deployments with ReleaseOps.](using-releaseops-to-manage-deployments.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../../../reuse/icons/brand-icons/bus-rocketship.svg)Manage deployments with ReleaseOps.](using-releaseops-to-manage-deployments.md)
 
 </td></tr><tr><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ReleaseOps deployment and release states.](../reference/releaseops-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about ReleaseOps deployment and release states.](../reference/releaseops-reference.md)
 
 </td><td>
 

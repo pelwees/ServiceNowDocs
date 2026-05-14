@@ -24,8 +24,8 @@ Identify skills for a specific set of conditions defined for walk-up reasons. Us
 
 For more information, see [Skills Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/skills-management.md)
 
--   **[Route walk-up tasks to skilled agents](../task/walkup-routing-tasks-to-skilled-agents.md)**  
+-   **[Route walk-up tasks to skilled agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../task/walkup-routing-tasks-to-skilled-agents.md)**  
 Use business rules to automatically route walk-up tasks to the agents based on their skill set.
 
-**Parent Topic:**[Configuring Walk-up Experience](walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 

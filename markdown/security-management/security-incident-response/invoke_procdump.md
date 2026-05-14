@@ -19,7 +19,7 @@ Role required: sn\_si.analyst
 
 This flow is triggered when enriched processes are selected and a **Run procdump** UI action is executed.
 
-![Run Procdump Flow](../image/run-procdump-flow.png "Run procdump")
+![Run Procdump Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/run-procdump-flow.png "Run procdump")
 
 Reasons the procdump can fail includes:
 
@@ -30,19 +30,19 @@ Reasons the procdump can fail includes:
 -   The PROCDUMP environment variable not found
 -   A copy of the dump file fails to copy from the dump path to the file share path
 
--   **[Execute procdump action](../reference/execute_procdump.md)**  
+-   **[Execute procdump action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../reference/execute_procdump.md)**  
 **Execute procdump** is a powershell action that runs the procdump on the selected processes, dumps the data into a file, and posts it to a shared site on an internal network. An analyst can then view a deny listed process, highlighted in red in a security incident, and perform additional analysis on the file.
 
-**Parent Topic:**[Security Incident Response Orchestration workflows and activities](sec-inc-resp-orchestration-workflows.md)
+**Parent Topic:**[Security Incident Response Orchestration workflows and activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sec-inc-resp-orchestration-workflows.md)
 
 **Related topics**  
 
 
-[Create Lookup Request for IoC Changes workflow](../task/t_CreateScanRequestforIoCChanges.md)
+[Create Lookup Request for IoC Changes workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/t_CreateScanRequestforIoCChanges.md)
 
-[Security Incident Response- Get Network Statistics flow](../task/obtain-network-statistics-workflow.md)
+[Security Incident Response- Get Network Statistics flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/obtain-network-statistics-workflow.md)
 
-[Security Incident Response - Get Running Services workflow](../task/get-running-services-workflow.md)
+[Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/get-running-services-workflow.md)
 
-[Security Incident - Evaluate response task outcome workflow](../task/si-evaluate-response-task-outcome-workflow.md)
+[Security Incident - Evaluate response task outcome workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/si-evaluate-response-task-outcome-workflow.md)
 

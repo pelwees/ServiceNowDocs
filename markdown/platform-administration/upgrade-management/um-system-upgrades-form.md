@@ -15,7 +15,7 @@ breadcrumb: [Process the skipped records list, Upgrade Monitor tool in Upgrade C
 
 When an upgrade is complete, the System Upgrades form displays key statistics about the upgrade and a related list of skipped records \(the skipped list\).
 
-![Image showing the System Upgrades form](../../upgrade-center/image/uc-system-upgrade-form.png)
+![Image showing the System Upgrades form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../../upgrade-center/image/uc-system-upgrade-form.png)
 
 <table id="table_b5b_p14_dlb"><thead><tr><th>
 
@@ -90,5 +90,5 @@ Copies to review
 Total number of copied records to review whose base records have been upgraded
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Process the skipped records list](../task/um-process-skipped-records.md)
+</table>**Parent Topic:**[Process the skipped records list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../task/um-process-skipped-records.md)
 

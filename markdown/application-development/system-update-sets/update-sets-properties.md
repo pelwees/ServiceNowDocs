@@ -48,5 +48,5 @@ Grant access to the update set picker: By default, only administrators can use t
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Update sets reference](update-sets-reference.md)
+</table>**Parent Topic:**[Update sets reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/update-sets-reference.md)
 

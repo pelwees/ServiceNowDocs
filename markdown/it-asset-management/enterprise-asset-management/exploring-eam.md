@@ -37,7 +37,7 @@ The Enterprise Asset Management automates the full lifecycle of your physical bu
 
 The following illustration describes the tasks involved in the Enterprise Asset Management workflow.
 
-![Enterprise Asset Management workflow](../image/mmasset0020514-enterprise-asset-management-workflow-vertical.png "Workflow depicting different users using the Enterprise Asset Management")
+![Enterprise Asset Management workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/mmasset0020514-enterprise-asset-management-workflow-vertical.png "Workflow depicting different users using the Enterprise Asset Management")
 
 1.  A user in any role initiates a request for an asset using the Service Catalog application
 2.  The request is created and sent for approval.
@@ -71,7 +71,7 @@ Get visibility into all aspects of your assets such as dashboards, asset count b
 
 </td><td>
 
-[Enterprise Asset Workspace](using-eam-workspace.md)
+[Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-eam-workspace.md)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Use your own customized workspace for medical and facility industries.
 
 </td><td>
 
-[Configurable workspaces for medical and facilities industries](medical-facility-workspaces.md)
+[Configurable workspaces for medical and facilities industries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/medical-facility-workspaces.md)
 
 </td><td>
 
@@ -101,7 +101,7 @@ Maximize asset value with comprehensive cost analysis of owning and managing ass
 
 </td><td>
 
-[Total Cost of Ownership \(TCO\) for enterprise assets](confifure-eam-asset-tco.md)
+[Total Cost of Ownership \(TCO\) for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/confifure-eam-asset-tco.md)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Track, manage, and maintain discrete enterprise and linear assets.
 
 </td><td>
 
-[Linear assets in Enterprise Asset Management](using-linear-assets.md)
+[Linear assets in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-linear-assets.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Onboard single and multiple assets using playbooks.
 
 </td><td>
 
-[Create an asset onboarding process](../task/create-asset-onboarding-task-eam.md)
+[Create an asset onboarding process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../task/create-asset-onboarding-task-eam.md)
 
 </td><td>
 
@@ -137,7 +137,7 @@ Simplify enterprise asset offboarding process using a reclamation workflow.
 
 </td><td>
 
-[Enterprise asset reclamation](enterprise-asset-reclamation.md)
+[Enterprise asset reclamation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-asset-reclamation.md)
 
 </td><td>
 
@@ -149,7 +149,7 @@ Rate assets by risk level and generate color-coded heatmaps.
 
 </td><td>
 
-[Risk scores](managing-eam-risk-scores.md)
+[Risk scores](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-risk-scores.md)
 
 </td><td>
 
@@ -161,7 +161,7 @@ Track and manage work for your enterprise assets by using work orders.
 
 </td><td>
 
-[Managing work orders for your enterprise assets](create-manage-wo-enterprise-assets.md)
+[Managing work orders for your enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-wo-enterprise-assets.md)
 
 </td><td>
 
@@ -173,7 +173,7 @@ Create and manage enterprise asset contracts.
 
 </td><td>
 
-[Create and manage contracts for enterprise assets](create-manage-enterprise-asset-contracts.md)
+[Create and manage contracts for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-asset-contracts.md)
 
 </td><td>
 
@@ -186,7 +186,7 @@ Get defective enterprise assets in a stockroom repaired quickly using the Repair
 
 </td><td>
 
-[Repair flow](manage-repair-of-defective-eam-assets.md)
+[Repair flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-repair-of-defective-eam-assets.md)
 
 </td><td>
 
@@ -198,7 +198,7 @@ Locate and pick the assets in your stockroom efficiently by using the ServiceNow
 
 </td><td>
 
-[Inventory picking](manage-asset-pick-task-eam-mobile-app.md)
+[Inventory picking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-asset-pick-task-eam-mobile-app.md)
 
 </td><td>
 
@@ -210,7 +210,7 @@ Track asset movement from the receiving bay of the inventory to the designated s
 
 </td><td>
 
-[Asset put away](manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
+[Asset put away](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 
 </td><td>
 
@@ -222,7 +222,7 @@ Return assets that are in your personal stockroom easily by creating Drop off ta
 
 </td><td>
 
-[Drop off tasks](drop-off-receive-assets-eam.md)
+[Drop off tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/drop-off-receive-assets-eam.md)
 
 </td><td>
 
@@ -235,7 +235,7 @@ Receive enterprise and consumable assets at stockrooms from any workflow at a ce
 
 </td><td>
 
-[Receiving enterprise and consumables assets at stockrooms](manage-stockroom-receive-eam.md)
+[Receiving enterprise and consumables assets at stockrooms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-receive-eam.md)
 
 </td><td>
 
@@ -247,7 +247,7 @@ Assess how effectively and efficiently assets fulfill their intended functions w
 
 </td><td>
 
-[Asset performance reports](asset-performance-reports-eam.md)
+[Asset performance reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-performance-reports-eam.md)
 
 </td><td>
 
@@ -259,7 +259,7 @@ Track and manage stockrooms efficiently by evaluating the inventory reports.
 
 </td><td>
 
-[Inventory reports](manage-stockroom-inventory-reports.md)
+[Inventory reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-stockroom-inventory-reports.md)
 
 </td><td>
 
@@ -271,7 +271,7 @@ Enhance maintenance efficiency with standardized and predefined failure and reso
 
 </td><td>
 
-[Failure and resolution codes](manage-failure-res-codes-eam.md)
+[Failure and resolution codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-failure-res-codes-eam.md)
 
 </td><td>
 
@@ -282,9 +282,9 @@ Enterprise administrators/ Inventory administrators/Inventory users/Enterprise a
 
 To learn more about configuring and using the Enterprise Asset Management application, see the following topics:
 
--   [Configuring Enterprise Asset Management](configuring-eam.md)
--   [Managing enterprise models and assets](managing-eam-assets-models.md)
--   [Managing enterprise asset inventory and contracts](managing-eam-inv-contracts.md)
--   [Managing work orders for your enterprise assets](create-manage-wo-enterprise-assets.md)
--   [Using Service Catalog for Enterprise Asset Management requests and flows](using-service-catalog-eam-requests-flows.md)
+-   [Configuring Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/configuring-eam.md)
+-   [Managing enterprise models and assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-assets-models.md)
+-   [Managing enterprise asset inventory and contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-inv-contracts.md)
+-   [Managing work orders for your enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-wo-enterprise-assets.md)
+-   [Using Service Catalog for Enterprise Asset Management requests and flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-service-catalog-eam-requests-flows.md)
 

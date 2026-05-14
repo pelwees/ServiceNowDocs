@@ -29,7 +29,7 @@ The “Greater than or equal to” field of Change Model Success and Change Succ
 
 For example, if the Probability is set to Calculated on the record, and if Change Model Success evaluates to High and Change Success Score evaluates to Moderate, the success Probability definition returns High as the Success Probability.
 
-![Success probability matrix](../image/success-probability-matrix.png)
+![Success probability matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/success-probability-matrix.png)
 
 You can edit the value in the Calculated success probability column for each combination of Change model success and Change success score. When you modify the choices for success probability on a change request, you must click **Refresh probability mappings** under **Related Links** to update the combinations of related records for Change Model Success, Change Success Score, and Calculated probabilities. You can also update the multiple records by executing **Refresh probability mappings** on the list.
 
@@ -37,5 +37,5 @@ You can edit the value in the Calculated success probability column for each com
 
 Success probability plugin supports domain separation. The **sn\_chg\_probability\_success**, **sn\_chg\_probability\_model\_success**, and **sn\_chg\_probability\_calculated\_lookup** tables are process separated when you install the domain separation plugin.
 
-**Parent Topic:**[Reference section for Change Management](reference-change-management.md)
+**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 

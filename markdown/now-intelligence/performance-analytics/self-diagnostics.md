@@ -21,7 +21,7 @@ You can run one or all diagnostics against all applicable records, or you can ru
 
 **Warning:** Performance Analytics diagnostics do not apply to Platform Analytics artifacts. For example, an indicator that is not used in any widgets might still be used in a Platform Analytics data visualization, but the diagnostics are not able to recognize that use.
 
-**Parent Topic:**[Configure Performance Analytics advanced features](c_PADataArchitecture.md)
+**Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
 ## Execute diagnostics for all records
 

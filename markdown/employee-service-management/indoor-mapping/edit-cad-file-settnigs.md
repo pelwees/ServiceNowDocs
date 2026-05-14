@@ -21,11 +21,11 @@ Role required: admin
 
 ## Procedure
 
-1.  From the CAD Configuration home page, select the More actions menu \( ![More options icon.](../../wsd-for-mobile/images/more-options-icon.png)\).
+1.  From the CAD Configuration home page, select the More actions menu \( ![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../wsd-for-mobile/images/more-options-icon.png)\).
 
 2.  Select **Manage source**.
 
-    ![Manage unit file settings for CAD file.](../images/wsd-manage-source-autocad.png)
+    ![Manage unit file settings for CAD file.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-manage-source-autocad.png)
 
 3.  Complete the following information:
 
@@ -36,9 +36,9 @@ Role required: admin
 
     -   File encoding: Option to change or update your file encoding standard. Update the file encoding format only if there's an issue with the file encoding standard.
 
-**Parent Topic:**[Autocad import tool](../concept/autocad-ovw-v2.md)
+**Parent Topic:**[Autocad import tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/autocad-ovw-v2.md)
 
-**Previous topic:**[Import CAD configuration](import-cad-config.md)
+**Previous topic:**[Import CAD configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/import-cad-config.md)
 
-**Next topic:**[Bulk hierarchy upload](../concept/bulk-upload-hierarchy.md)
+**Next topic:**[Bulk hierarchy upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/bulk-upload-hierarchy.md)
 

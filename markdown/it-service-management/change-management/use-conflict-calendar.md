@@ -39,7 +39,7 @@ Alternatively, you can resolve conflicts by moving the change request to be with
 
 4.  Select **Scheduling Assistant**.
 
-    The scheduling assistant dialog box displays the next available times to choose to resolve the conflict. The number of days factored after the planned start and end dates and the number of suggestions calculated for the next available time are configured under **Conflict properties**. For more information, see [Configure conflict analysis properties](configure-conflict-properties.md#) form.
+    The scheduling assistant dialog box displays the next available times to choose to resolve the conflict. The number of days factored after the planned start and end dates and the number of suggestions calculated for the next available time are configured under **Conflict properties**. For more information, see [Configure conflict analysis properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-conflict-properties.md#) form.
 
 5.  Select the time from the available time slots.
 
@@ -47,12 +47,12 @@ Alternatively, you can resolve conflicts by moving the change request to be with
 
     The planned start date and end date are updated with the new time, and the conflict is resolved.
 
-7.  To select another day from the calendar, select the calendar icon \(![Calendar icon](../image/view-calendar-icon.png)\) and select the date.
+7.  To select another day from the calendar, select the calendar icon \(![Calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../image/view-calendar-icon.png)\) and select the date.
 
 
 ## Result
 
 The conflicts are reviewed and resolved.
 
-**Parent Topic:**[Conflict calendar](../concept/change-conflict-calendar.md)
+**Parent Topic:**[Conflict calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/change-conflict-calendar.md)
 

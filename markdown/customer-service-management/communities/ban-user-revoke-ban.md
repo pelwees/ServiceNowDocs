@@ -30,5 +30,5 @@ Role required: sn\_communities.admin, sn\_communities.moderation\_admin, or sn\_
     The user ban is revoked. In the Community Profiles list, the value in the **Banned** column is set to **false**.
 
 
-**Parent Topic:**[Moderate a community](moderate-communities.md)
+**Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 

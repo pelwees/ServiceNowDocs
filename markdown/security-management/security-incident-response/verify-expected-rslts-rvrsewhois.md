@@ -23,33 +23,33 @@ Role required: sn\_si.analyst
 
 1.  If not already open, navigate to **Security Incidents** &gt; **Incidents** &gt; **Show All Incidents** and locate the security incident you are working with.
 
-    ![Work notes for the successful flow.](../images/flows-worknotes-start.png)
+    ![Work notes for the successful flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/flows-worknotes-start.png)
 
     After the application is configured and you have attached an observable, the flow launches automatically. The work notes on the security incident record display the execution and completion status of the lookup.
 
-    ![Work notes for the successful flow completion.](../images/flows-worknotes-end.png)
+    ![Work notes for the successful flow completion.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/flows-worknotes-end.png)
 
 2.  If you cannot verify that the lookup ran successfully, review the work notes for more information on how to proceed.
 
-    ![Work notes for an error.](../images/flows-reversewhois-error.png)
+    ![Work notes for an error.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/flows-reversewhois-error.png)
 
 3.  Navigate to the bottom of the security incident and click the **Show All Related Lists** related link.
 
     **Note:** For the filtered lookup results shown in the following figure, the configuration settings in the Reverse Whois API configuration tile were saved with **1991-06-01** entered in the **Since date** field.
 
-    ![Domain lookup results.](../images/reverse-386-results.png)
+    ![Domain lookup results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-386-results.png)
 
     Enrichment results are displayed on the **ReverseWhois Domains** tab. The active domains for this observable are displayed in the **Domain** column.
 
 4.  Click the blue information icon next to an item then click **Open record** in the dialog box that is displayed.
 
-    ![Raw data on an observable.](../images/reverse-raw-data.png)
+    ![Raw data on an observable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-raw-data.png)
 
     The record is displayed with enrichment details, including the raw data.
 
 5.  Navigate back to the security incident, and with the **ReverseWhois Domains** tab selected, click an observable in the **Observable** column to open a record.
 
-    ![Child observables tab with results.](../images/reverse-child-observables.png)
+    ![Child observables tab with results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-child-observables.png)
 
     The child observables are displayed on the **Child Observables** tab on the Observable record. The child observables are generated only if the Reverse Whois application has returned domains.
 
@@ -60,9 +60,9 @@ If the lookup does not successfully complete, verify that the search terms you e
 
 For more enrichment data on the domain lookup results, you can run the Whois integration to perform enrichment lookups on the child observables returned by the Reverse Whois integration. This enrichment data on the child observables includes information on registration date, name of registrar, and country of origin.
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/reversewhois-lookups.md)
 
-**Previous topic:**[Initiate the lookup for Reverse Whois](manually-attch-an-obsvrble-reversewhois.md)
+**Previous topic:**[Initiate the lookup for Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manually-attch-an-obsvrble-reversewhois.md)
 
-**Next topic:**[\(Optional\) Run enrichment lookup and verify expected results for Whois](verify-expected-results-for-whois.md)
+**Next topic:**[\(Optional\) Run enrichment lookup and verify expected results for Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-results-for-whois.md)
 

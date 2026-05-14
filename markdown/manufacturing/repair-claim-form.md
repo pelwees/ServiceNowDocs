@@ -316,12 +316,12 @@ Attachments
 Attachments that support your claims.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Repair form](repair-form.md)
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[Submit a repair claim for warranty](../task/mco-submit-repair-claim.md)
+[Submit a repair claim for warranty](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim.md)
 
-[Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md)
+[Submit a repair claim for recall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim-for-recall.md)
 

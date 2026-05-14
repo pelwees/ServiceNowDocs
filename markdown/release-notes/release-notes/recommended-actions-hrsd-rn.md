@@ -38,5 +38,5 @@ Install Recommended Actions for HRSD by requesting it from the ServiceNow Store.
     The ServiceNow® Agent Workspace for HR Case Management application enables you to interact with employees, respond to inquiries, and resolve issues quickly.
 
 
-**Parent Topic:**[HR Service Delivery release notes](hr-service-delivery-landing.md)
+**Parent Topic:**[HR Service Delivery release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/hr-service-delivery-landing.md)
 

@@ -44,5 +44,5 @@ Remove outdated or redundant access restrictions from entity records, verifying 
 
 The system updates the configuration and removes access restrictions for the affected records only if it is the only active configuration on the related records.
 
-**Parent Topic:**[Managing Entity Based Access](../concept/using-entity-based-access.md)
+**Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/using-entity-based-access.md)
 

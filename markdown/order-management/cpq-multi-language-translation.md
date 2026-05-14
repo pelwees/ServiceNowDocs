@@ -43,10 +43,10 @@ Enabled languages: in addition to the base language, these are the languages you
 2.  To understand how multi-language translation works in CPQ, we recommend that you try a small-scale proof-of-concept before embarking on a wholesale translation effort.
 
     -   Select a picklist field displayed on the end-user layout. Example: In Blueprint1, we will translate Paint Color \[paintColor\]. paintColor has label "Paint Color" and options "Blue", "Yellow", "Green".
-    -   For the purposes of this experiment, assume we enabled Spanish \[es\] in step \#1. You can customize this experiment for one of the languages you enabled in step \#1. In a CSV file, define Spanish \[es\] translations for the field label and the picklist field options:![CSVfile](../images/cpq-spanish-translation-csv.png)
+    -   For the purposes of this experiment, assume we enabled Spanish \[es\] in step \#1. You can customize this experiment for one of the languages you enabled in step \#1. In a CSV file, define Spanish \[es\] translations for the field label and the picklist field options:![CSVfile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-spanish-translation-csv.png)
     The graphic above is a sample translation upload file. You can find another example on the Matrix Loader page.
 
-    ![Matrix loader](../images/cpq-matrix-loader-translations.png)
+    ![Matrix loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-matrix-loader-translations.png)
 
 3.  Save the CSV file and upload via Matrix Loader.
 
@@ -58,11 +58,11 @@ To test the buyside user interface, we recommend using the Chrome browser with t
 
 The following graphic shows the English version of the picklist on the buyside UI:
 
-![Paint color](../images/cpq-picklist-buyside-ui-english.png)
+![Paint color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-buyside-ui-english.png)
 
 The following graphic shows the Spanish version of the picklist on the buyside UI:
 
-![Select color](../images/cpq-picklist-buyside-ui-spanish.png)
+![Select color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-buyside-ui-spanish.png)
 
 The following experiment demonstrates how various custom strings, including those defined in field options and layouts, are translated, uploaded, and deployed to accomplish an English-to-Spanish translation.
 

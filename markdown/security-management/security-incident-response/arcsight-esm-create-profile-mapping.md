@@ -43,7 +43,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
     In the following figure, the field-name value pairs for the ingested correlation event, or the imported sample events, are displayed on the left side of this form after the ingestion pull is completed. These values are the values that you map to the security incident fields on the SIR Incident Field Mapping side of the form.
 
-    ![ArcSight ESM: Create Profile: Retrieve Events](../image/sir-arcsight-esm-profile-map-correlate.png)
+    ![ArcSight ESM: Create Profile: Retrieve Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-map-correlate.png)
 
 4.  To map a field value from the left side of the form to a field on the security incident on the right side of the form, click-hold a blue field name on the left side of the form.
 
@@ -53,7 +53,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
     A gray field indicates that a field has been selected and mapped to a field on the security incident. This color-coding helps you track which event fields have already been utilized for future security incident field mappings.
 
-    ![ArcSight ESM: Create Profile: Drag](../image/sir-arcsight-esm-profile-map-drag.png)
+    ![ArcSight ESM: Create Profile: Drag](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-map-drag.png)
 
 6.  To add fields to the default fields displayed on the security incident on the right side of the form, follow these steps.
 
@@ -65,7 +65,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         In the expanded choice list for the new field, some fields are shaded. In the following figure, `Affected User` has a gray background, because it has been mapped in the security incident. Similar to the color-coding for the correlation events fields on the left side of the form, this color-coding for the security incident fields on the right helps you track the already mapped SIR incident fields.
 
-        ![ArcSight ESM: Create Profile:Gray fields](../image/sir-arcsight-esm-profile-map-grey.png)
+        ![ArcSight ESM: Create Profile:Gray fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-map-grey.png)
 
         **Note:** So that multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
@@ -77,7 +77,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
 7.  Open the script editor and continue editing.
 
-    For more information about the script editor, see [Use the script editor to format correlation event values](arcsight-esm-create-profile-script.md).**Incident generation filtering conditions**
+    For more information about the script editor, see [Use the script editor to format correlation event values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/arcsight-esm-create-profile-script.md).**Incident generation filtering conditions**
 
 8.  After you have completed the preceding field mapping steps, you can use the same field values in the Incident Generation Conditions builder to define additional criteria that an incoming correlation event must satisfy to create a SIR security incident.
 
@@ -99,7 +99,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         The following image is an example with two conditions that must be matched before security incidents are created.
 
-        ![ArcSight ESM: Create Profile: Filter with matching conditions](../image/sir-arcsight-esm-profile-map-filter.png)
+        ![ArcSight ESM: Create Profile: Filter with matching conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-map-filter.png)
 
         You have set the incident generation conditions so that security incidents are created only when both of the filtering conditions that you entered are matched.
 
@@ -121,7 +121,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
 
         All the field values that you select must be matched to append this incoming correlation event to an existing security incident. This includes fields, such as Observables and Configuration Items, that may have multiple correlation event field values mapped to them. All values must match. If only a subset of the values are matched, the event aggregation conditions will not be met and a new security incident will be created. See screen shot below for multi-value field mapping.
 
-        ![ArcSight ESM: Create Profile: Aggregate](../image/sir-arcsight-esm-profile-map-aggregate.png)
+        ![ArcSight ESM: Create Profile: Aggregate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-map-aggregate.png)
 
         If a new correlation event matches all the values that are selected in the aggregation field conditions in the mapping step, the new correlation event is automatically added to the most recently opened security incident with the same field values. As a SOC analyst working with security incidents, you can view all the added aggregated correlation events on a related list on a security incident. All of the aggregated correlation events on a security incident are displayed on the **Aggregated ArcSight Events** related list. This list details associated time stamps and aggregated field values. This information helps you understand why these correlation events are being aggregated to existing security incidents. If this tab is not displayed, scroll to the left side of the record under **Related Links** and click the **Show All Related Lists** link.
 
@@ -130,7 +130,7 @@ Create custom mappings by adding or removing the fields on the mapping grid on t
         -   Right click the Security Incident form header and click **Configure** &gt; **Related Lists**.
         -   Select **Aggregated ArcSight Events** in the Available list, move it to the Selected list and click **Save**.
         -   Click **Show Related Lists**. You will now see the **Aggregated ArcSight Events** tab in the Related List section.
-        ![ArcSight ESM: Aggregated Events](../image/sir-arcsight-esm-profile-agg-events.png)
+        ![ArcSight ESM: Aggregated Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-profile-agg-events.png)
 
     3.  To log a work note for each time an event is aggregated on the security incident, select the check box to enable this option.
 

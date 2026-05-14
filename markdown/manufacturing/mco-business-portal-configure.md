@@ -31,7 +31,7 @@ Role required: admin
 
     **Note:** The Business Portal is inactive by default.
 
-    ![Enable business portal](../image/enable-business-portal-mco.png)
+    ![Enable business portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/enable-business-portal-mco.png)
 
 5.  Select **Update**.
 

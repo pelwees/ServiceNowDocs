@@ -15,7 +15,7 @@ breadcrumb: [Technology Product Support Case, Explore, Product Support for Techn
 
 The Technology product support record page provides a simplified case view in CSM Configurable Workspace that enables agents to research and resolve technology cases.
 
-![The Technology product support record page enables agents to focus on case details, the activity stream, and information in the contextual side panel.](../image/tech-product-support-record-page.png "Technology product support record page")
+![The Technology product support record page enables agents to focus on case details, the activity stream, and information in the contextual side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/tech-product-support-record-page.png "Technology product support record page")
 
 The Technology product support record page focuses on the essential functionality that agents need:
 
@@ -112,7 +112,7 @@ Agents can create multiple tags for a record and then use the tags to group and 
 
 </td></tr><tr><td>
 
-[Action bar](tech-product-support-record-page.md#section_bwz_3nm_bbc)
+[Action bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_bwz_3nm_bbc)
 
 </td><td>
 
@@ -120,7 +120,7 @@ The action bar contains the actions available to users while working on case rec
 
 </td></tr><tr><td>
 
-[Modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c)
+[Modeless dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_lpp_5ys_y1c)
 
 </td><td>
 
@@ -128,7 +128,7 @@ Modeless dialogs are windows that overlay the main window content. Agents can us
 
 </td></tr><tr><td>
 
-[Account and contact lookup components](tech-product-support-record-page.md#section_dnl_3f4_s1c)
+[Account and contact lookup components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_dnl_3f4_s1c)
 
 </td><td>
 
@@ -161,11 +161,11 @@ These sections can be expanded and collapsed to display the fields within each s
 
 The Workspace form view also includes a menu with additional form actions, such as personalizing the form, exporting data, and copying the URL.
 
-For more information about the fields that appear in these sections, see [Tech Product Support Case table](../reference/tech-product-support-case-table.md).
+For more information about the fields that appear in these sections, see [Tech Product Support Case table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../reference/tech-product-support-case-table.md).
 
 </td></tr><tr><td>
 
-[Case summarization component](tech-product-support-record-page.md#section_ots_wnh_s1c)
+[Case summarization component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_ots_wnh_s1c)
 
 </td><td>
 
@@ -179,15 +179,15 @@ The case summarization component appears above the activity stream. When an agen
 
 </td></tr><tr><td>
 
-[Activity stream component](tech-product-support-record-page.md#section_ntx_lnh_s1c)
+[Activity stream component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_ntx_lnh_s1c)
 
 </td><td>
 
-The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Technology product support record page uses [modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails.
+The activity stream component displays a list of activities occurring on a case record. This list can be collapsed to provide a quick view of case activities or expanded to provide more detail about individual activities.The Technology product support record page uses [modeless dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails.
 
 </td></tr><tr><td>
 
-[Contextual side panel](tech-product-support-record-page.md#section_c53_csn_n1c)
+[Contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_c53_csn_n1c)
 
 </td><td>
 
@@ -201,9 +201,9 @@ The contextual side panel component includes different tools that agents can use
 
 For more information, see the following sections:
 
--   [Contextual side panel component](tech-product-support-record-page.md#section_c53_csn_n1c)
--   [Recommended Actions search component](tech-product-support-record-page.md#section_ev4_wyf_bbc)
--   [Related items component](tech-product-support-record-page.md#section_b1b_dfh_z1c)
+-   [Contextual side panel component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_c53_csn_n1c)
+-   [Recommended Actions search component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_ev4_wyf_bbc)
+-   [Related items component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_b1b_dfh_z1c)
 
 </td></tr></tbody>
 </table>## Actions available in the action bar
@@ -314,7 +314,7 @@ To use the case summarization component with the Technology product support reco
 
 The activity stream component displays a list of the activities occurring on a case record. The activities in the list can be collapsed or expanded. When collapsed, the agent can quickly scan the list to get an overview of case activities. When expanded, the agent can see detailed information on individual activities.
 
-![The technology product support record page activity stream component lists record activities in a collapsed or expanded format and uses tiles to represent the activity types.](../image/front-line-case-page-activity-stream.png "Technology product support record page activity stream component")
+![The technology product support record page activity stream component lists record activities in a collapsed or expanded format and uses tiles to represent the activity types.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/front-line-case-page-activity-stream.png "Technology product support record page activity stream component")
 
 The activities in the activity stream are represented by tiles that use icons and colors to indicate the activity type:
 
@@ -344,7 +344,7 @@ When expanded, each activity also includes:
 -   For attachments, a small preview of the attached file.
 -   For chats, a sidebar chat card.
 
-The activity stream uses [modeless dialogs](tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
+The activity stream uses [modeless dialogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_lpp_5ys_y1c) for composing comments, work notes, and emails. Use the **Compose** button in the action bar to create these items.
 
 -   **Compose &gt; Comment**: Opens the Compose a comment modeless dialog.
 -   **Compose &gt; Work note**: Opens the Compose a work note modeless dialog.
@@ -364,7 +364,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Activity stream](tech-product-support-record-page.md#section_ntx_lnh_s1c)
+[Activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_ntx_lnh_s1c)
 
 </td><td>
 
@@ -372,7 +372,7 @@ The activity stream component displays a list of the activities occurring on a c
 
 </td></tr><tr><td>
 
-[Recommended Actions search](tech-product-support-record-page.md#section_ev4_wyf_bbc)
+[Recommended Actions search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_ev4_wyf_bbc)
 
 </td><td>
 
@@ -395,7 +395,7 @@ For more information, see [Use AI search in Recommended Actions to resolve cases
 
 </td></tr><tr><td>
 
-[Related Items](tech-product-support-record-page.md#section_b1b_dfh_z1c)
+[Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-record-page.md#section_b1b_dfh_z1c)
 
 </td><td>
 
@@ -453,7 +453,7 @@ For knowledge articles, an agent can view an article and attach the article to t
 
 The Technology product support record page incorporates related items functionality into the contextual side panel. The Related Items tab provides agents with access to the case-related lists. These lists are displayed in an accordion format that agents can expand and collapse as needed.
 
-![The technology product support record page related lists component in the contextual side panel uses an accordion format to expand and display related list items](../image/front-line-case-page-related-lists.png "Technology product support record page related lists component")
+![The technology product support record page related lists component in the contextual side panel uses an accordion format to expand and display related list items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/front-line-case-page-related-lists.png "Technology product support record page related lists component")
 
 An indicator displays the number of records available in a related list. When expanded, the records in a related list are displayed in card format. If a related list is empty, agents can select Create one in the list to create a record.
 
@@ -514,5 +514,5 @@ To use the resolution notes generation skill with the Technology product support
 -   [Configure the resolution notes generation skill in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-configuring.md).
 -   [Configure the Propose Solution UI action and declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-config-propose-solution.md).
 
-**Parent Topic:**[Exploring Technology Product Support Case](tech-product-support-case-app.md)
+**Parent Topic:**[Exploring Technology Product Support Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-app.md)
 

@@ -79,9 +79,9 @@ Conditions
 8.  Select **Submit** to create the UI Policy action and return to the **UI Policy** form.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Create a custom field](t_CreateCustomField.md)
+**Previous topic:**[Create a custom field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateCustomField.md)
 
-**Next topic:**[Create an ACL](t_CreateNewACL.md)
+**Next topic:**[Create an ACL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateNewACL.md)
 

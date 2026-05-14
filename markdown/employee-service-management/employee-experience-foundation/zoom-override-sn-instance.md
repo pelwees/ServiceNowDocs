@@ -34,5 +34,5 @@ Role required: admin
 
 Your Zoom account is successfully connected to another ServiceNow instance.
 
-**Parent Topic:**[Employee Center for Zoom](zoom-ec-create-app.md)
+**Parent Topic:**[Employee Center for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 

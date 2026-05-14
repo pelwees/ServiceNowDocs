@@ -48,7 +48,7 @@ You can configure the roles when you’re activating or editing a skill.
 
 For example, you can grant certain roles access to the Now Assist panel in one domain, while another domain has no role restrictions.
 
-**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\) reference](now-assist-for-fso-reference.md)
+**Parent Topic:**[Now Assist for Financial Services Operations \(FSO\) reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-fso-reference.md)
 
 **Related topics**  
 

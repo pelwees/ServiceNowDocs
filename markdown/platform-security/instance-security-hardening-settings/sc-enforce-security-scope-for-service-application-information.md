@@ -75,7 +75,7 @@ Category
 
 </td><td>
 
-[Access control](sc-access-control.md)
+[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
 </td></tr><tr><td>
 
@@ -96,5 +96,5 @@ Dependencies and prerequisites
 The Service Applicant Information plugin \(**com.sn\_svc\_appl\_info**\) must be activated for the **glide.enforce\_security\_scope.sn\_svc\_appl\_info** property to be effective.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Access control](sc-access-control.md)
+</table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 

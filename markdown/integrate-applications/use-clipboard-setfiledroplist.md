@@ -21,7 +21,7 @@ Role required: none
 
 A file drop list is a collection of strings that contain the file paths and is stored on the Windows clipboard as a String array.
 
-You can configure the properties for the SetFileDropList component. For more information about these properties, see [Properties of the Clipboard components](../reference/util-clipboard-prop.md).
+You can configure the properties for the SetFileDropList component. For more information about these properties, see [Properties of the Clipboard components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reference/util-clipboard-prop.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ You can configure the properties for the SetFileDropList component. For more inf
 
 2.  Drag the SetFileDropList component to the Design surface.
 
-3.  To configure the input field, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input field, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the control ports of the SetFileDropList component to the corresponding ports of the other components.
 
@@ -42,5 +42,5 @@ You can configure the properties for the SetFileDropList component. For more inf
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Clipboard](../concept/clipboard.md)
+**Parent Topic:**[Clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/clipboard.md)
 

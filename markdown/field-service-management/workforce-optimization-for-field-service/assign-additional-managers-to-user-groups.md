@@ -21,7 +21,7 @@ Role required: sn\_wfo.admin
 
 ## About this task
 
-[Workforce Optimization for Field Service](../concept/configuring-wfo-fsm.md) must be active to add additional managers to user groups.
+[Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../concept/configuring-wfo-fsm.md) must be active to add additional managers to user groups.
 
 ## Procedure
 

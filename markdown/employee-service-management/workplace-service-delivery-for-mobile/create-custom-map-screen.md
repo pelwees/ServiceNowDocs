@@ -29,9 +29,9 @@ Role required: sn\_wsd\_core.admin
 
     |Field|Description|
     |-----|-----------|
-    |**Icon**|Place type icon. Search using the search icon \(![search icon](../../workplace-case-mgmt/image/search-icon.png)\).|
+    |**Icon**|Place type icon. Search using the search icon \(![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../../workplace-case-mgmt/image/search-icon.png)\).|
     |**Empty State**|Add an image, text, and buttons to direct users to perform an action, view a particular screen, or review specific information. Configure an empty state to inform users that a page currently does not contain data.|
-    |**Default provider**|Select a custom map provider \(Indoor Mapping or Mappedin. For more information, see [Configure a custom Map provider](configure-custom-map-provider.md) and to enable indoor position \(blue dot\) experience automatically on a map to show the blue dot from the start to the end destination for wayfinding.|
+    |**Default provider**|Select a custom map provider \(Indoor Mapping or Mappedin. For more information, see [Configure a custom Map provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-custom-map-provider.md) and to enable indoor position \(blue dot\) experience automatically on a map to show the blue dot from the start to the end destination for wayfinding.|
 
 4.  Click **Submit**.
 
@@ -40,5 +40,5 @@ Role required: sn\_wsd\_core.admin
 
 Map screens displays a map with locations that are associated to the records in a data item.
 
-**Parent Topic:**[Mobile Wayfinding Administration](../concept/mobile-wayfinding.md)
+**Parent Topic:**[Mobile Wayfinding Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/../concept/mobile-wayfinding.md)
 

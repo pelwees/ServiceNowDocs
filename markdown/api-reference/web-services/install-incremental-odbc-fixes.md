@@ -69,5 +69,5 @@ Incremental ODBC patches contain only fixes to the ODBC driver and do not includ
         ```
 
 
-**Parent Topic:**[Installing the ODBC driver](../concept/c_InstallingTheODBCDriver.md)
+**Parent Topic:**[Installing the ODBC driver](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_InstallingTheODBCDriver.md)
 

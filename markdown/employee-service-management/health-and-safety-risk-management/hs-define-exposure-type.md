@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.industrial\_hygienist or sn\_hs\_rm.exposure\_writer
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk management icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk management icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Exposure types** list and then **All**.
 
@@ -88,7 +88,7 @@ Exposure sub-category
 
 Subcategory for the exposure. This field appears only when a category is selected from **Exposure category** and subcategories are available for the selected category.
 
-The subcategory choices for a category are defined in the `Exposure sub-category` column of the Exposure type \[sn\_hs\_rm\_exposure\_type\] table. For more information, see [Define a category for an exposure type](hs-define-category-measurement-unit-exposure-type.md).
+The subcategory choices for a category are defined in the `Exposure sub-category` column of the Exposure type \[sn\_hs\_rm\_exposure\_type\] table. For more information, see [Define a category for an exposure type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-define-category-measurement-unit-exposure-type.md).
 
 </td></tr><tr><td>
 
@@ -122,8 +122,8 @@ The exposure type is listed in the **Exposure types** list and is saved in the E
 
 ## What to do next
 
-1.  Create exposure assessment records for all locations in your organization that this exposure type applies to. For more information, see [Create an exposure assessment for an exposure type](hs-create-exposure-assessment.md).
-2.  Perform exposure assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](hs-perform-exposure-assessment.md).
+1.  Create exposure assessment records for all locations in your organization that this exposure type applies to. For more information, see [Create an exposure assessment for an exposure type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-exposure-assessment.md).
+2.  Perform exposure assessments across different locations for this exposure type. For more information, see [Perform an exposure assessment for a location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-exposure-assessment.md).
 
-**Parent Topic:**[Safety exposure management](../concept/hs-safety-exposures.md)
+**Parent Topic:**[Safety exposure management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-safety-exposures.md)
 

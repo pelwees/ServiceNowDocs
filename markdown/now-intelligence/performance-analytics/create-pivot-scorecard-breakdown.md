@@ -21,15 +21,15 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
 If you want to see the same breakdown applied to more than one indicator in the same widget, use a pivot scorecard. You can pivot the scorecard so that the axes for breakdown elements and for indicators are reversed.
 
-![Pivot scorecard visualization of several open incident indicators by priority](../image/pivot-scorecard-bkdown.png "Pivot scorecard - breakdown")
+![Pivot scorecard visualization of several open incident indicators by priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/pivot-scorecard-bkdown.png "Pivot scorecard - breakdown")
 
-![Pivot scorecard visualization of several open incident indicators by priority, with the elements of the priority breakdown on the Y-axis](../image/pivot-scorecard-bkdown-on-y.png "Pivot scorecard with the breakdown on the Y-axis")
+![Pivot scorecard visualization of several open incident indicators by priority, with the elements of the priority breakdown on the Y-axis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/pivot-scorecard-bkdown-on-y.png "Pivot scorecard with the breakdown on the Y-axis")
 
 ## Procedure
 
@@ -64,9 +64,9 @@ If you want to see the same breakdown applied to more than one indicator in the 
 **Related topics**  
 
 
-[Edit a responsive dashboard](../../dashboards/task/t_EditADashboard.md)
+[Edit a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/task/t_EditADashboard.md)
 
-[Performance Analytics widgets on Service Portal](../concept/service-portal-pa-widget.md#)
+[Performance Analytics widgets on Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/service-portal-pa-widget.md#)
 
-[Grouping by breakdown and filtering by breakdown](../concept/grouping-filtering-breakdown.md)
+[Grouping by breakdown and filtering by breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/grouping-filtering-breakdown.md)
 

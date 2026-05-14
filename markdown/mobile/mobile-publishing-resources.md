@@ -41,5 +41,5 @@ The following Support knowledge articles \(KBs\) are hosted on the ServiceNow® 
 -   [Adding your iOS Mobile Publishing branded application to Blackberry \(KB0821154\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0821154)
 -   [How to add an Android White label \(Mobile Publishing\) build to your Blackberry portal \(KB0813295\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=kb0813295)
 
-**Parent Topic:**[Publish mobile apps with custom branding](mobile-publishing.md)
+**Parent Topic:**[Publish mobile apps with custom branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md)
 

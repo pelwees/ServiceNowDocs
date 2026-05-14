@@ -32,7 +32,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
         **Note:** You can create an issue or link the feedback to an existing record to facilitate follow-up and resolution.
 
-4.  If you’re unsatisfied with the response, select the more actions ![more action icon](../image/more-actions-new.png) icon and do the following:
+4.  If you’re unsatisfied with the response, select the more actions ![more action icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/more-actions-new.png) icon and do the following:
 
     1.  Select **Move to draft**.
 
@@ -41,5 +41,5 @@ Role required: sn\_rvw\_feedback.reviewer
     2.  Select **Ok**.
 
 
-**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
+**Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/integrate-advanced-risk-with-parallel-review-feedback.md)
 

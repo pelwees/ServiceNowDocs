@@ -38,12 +38,12 @@ Role required: sn\_ohs\_im.incident\_reader, sn\_ohs\_im.incident\_writer, and s
 7.  Complete the **Report an incident** playbook.
 
 
-**Parent Topic:**[Managing related records in a critical event](../concept/manage-related-records.md)
+**Parent Topic:**[Managing related records in a critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../concept/manage-related-records.md)
 
 **Related topics**  
 
 
-[Relate a child critical event](create-child-crtical-event.md)
+[Relate a child critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-child-crtical-event.md)
 
-[View sent notifications for a critical event](view-sent-notifications.md)
+[View sent notifications for a critical event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-sent-notifications.md)
 

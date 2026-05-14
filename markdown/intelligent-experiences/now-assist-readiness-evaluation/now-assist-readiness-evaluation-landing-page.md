@@ -20,15 +20,15 @@ Choose one of these tiles to get started.
 
 <table id="table_lgc_mpv_jzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the Now Assist Readiness Evaluation app.](exploring-now-assist-readiness-evaluation.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the Now Assist Readiness Evaluation app.](exploring-now-assist-readiness-evaluation.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Run scheduled jobs and configure the app through the Now Assist Readiness Evaluation guided setup.](configuring-now-assist-readiness-evaluation.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Run scheduled jobs and configure the app through the Now Assist Readiness Evaluation guided setup.](configuring-now-assist-readiness-evaluation.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-person.svg)Learn about how to use the Now Assist Readiness Evaluation dashboards and assessments to prepare for implementing agentic AI, Now Assist, or both.](using-now-assist-readiness-evaluation.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../../reuse/icons/brand-icons/bus-person.svg)Learn about how to use the Now Assist Readiness Evaluation dashboards and assessments to prepare for implementing agentic AI, Now Assist, or both.](using-now-assist-readiness-evaluation.md)
 
 </td></tr></tbody>
 </table>**Important:**
@@ -48,12 +48,12 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 
 **Related topics**  
 
 
-[Now Assist](../../now-assist-platform/concept/platform-now-assist-landing.md)
+[Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../now-assist-platform/concept/platform-now-assist-landing.md)
 
-[Now Assist AI agents](../../now-assist-ai-agents/reference/na-ai-agents.md)
+[Now Assist AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../../now-assist-ai-agents/reference/na-ai-agents.md)
 

@@ -33,7 +33,7 @@ Role required: sn\_msi.workspace\_manager
 
     The new report section page displays.
 
-    ![Sample Report section template](../image/msim-status-section.png "Create a Report section template") ![]( "Create a Report section template")
+    ![Sample Report section template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-status-section.png "Create a Report section template") ![]( "Create a Report section template")
 
 5.  On the Report section template form, fill in the fields.
 
@@ -113,16 +113,16 @@ Define the template section body. You can define the section body by selecting t
 </table>6.  Save and **Submit** the new report template section.
 
 
-**Parent Topic:**[Configure Major Security Incident status reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+**Parent Topic:**[Configure Major Security Incident status reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/manage-status-reports-for-major-security-incident-management.md)
 
 **Related topics**  
 
 
-[Create a Report Template](create-report-template.md)
+[Create a Report Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
 
-[Create a Report Subsection Template](create-report-subsection-template.md)
+[Create a Report Subsection Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-template.md)
 
-[Create Report Subsection Element template](create-report-subsection-element-template.md)
+[Create Report Subsection Element template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-element-template.md)
 
-[Add system properties](../concept/adding-system-properties-to-your-status-reports.md)
+[Add system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/adding-system-properties-to-your-status-reports.md)
 

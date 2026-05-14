@@ -21,31 +21,31 @@ Sourcing and Procurement Operations overview
 
 Provide a seamless procurement experience with:
 
-![SPO value proposition](../image/psm-value-proposition.png "SPO value proposition")
+![SPO value proposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/psm-value-proposition.png "SPO value proposition")
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Now Assist for Sourcing and Procurement Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](now-assist-spo.md)
 
 </td><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn how SPO can help you with its key features and benefits.](exploring-spo.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-explore.svg)Learn how SPO can help you with its key features and benefits.](exploring-spo.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure SPO to meet your specific needs.](configuring-spo.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure SPO to meet your specific needs.](configuring-spo.md)
 
 </td></tr><tr><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend SPO capabilities by integrating with other applications.](integrating-spo.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Extend SPO capabilities by integrating with other applications.](integrating-spo.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) See how employees can use SPO to self-service requests, and source or purchase products and services. Also learn how procurement specialists can use SPO to work on various procurement objects.](using-spo.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg) See how employees can use SPO to self-service requests, and source or purchase products and services. Also learn how procurement specialists can use SPO to work on various procurement objects.](using-spo.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about SPO, including lists, forms, rules, components, parameters, roles, and personas.](../reference/spo-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../../reuse/icons/brand-icons/bus-learn.svg) Get additional information about SPO, including lists, forms, rules, components, parameters, roles, and personas.](../reference/spo-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

@@ -31,11 +31,11 @@ A pipeline instance maps a deployment instance to the pipeline that it participa
 
 To view a list of pipeline instances for a given pipeline, navigate to **All** &gt; **ReleaseOps** &gt; **Pipelines** and select the pipeline from the list. On the pipeline record page, select **Pipeline instances** to view the pipeline instances for the selected pipeline.
 
-![View pipeline instances for a selected pipeline on the pipeline record page.](../image/releaseops-pipeline-instances-view.png)
+![View pipeline instances for a selected pipeline on the pipeline record page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-pipeline-instances-view.png)
 
 ## Remote instances
 
-ReleaseOps uses update sources to move update sets between instances. A remote instance is the source instance, or update source, where an update set originates. For more information about update sources, see [Set up the source instance for an update set](../../system-update-sets/task/setting-source-for-update-set.md).
+ReleaseOps uses update sources to move update sets between instances. A remote instance is the source instance, or update source, where an update set originates. For more information about update sources, see [Set up the source instance for an update set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../../system-update-sets/task/setting-source-for-update-set.md).
 
 If you previously worked with update sets and have remote instances already defined, ReleaseOps can use those instances when defining remote instances during guided setup. Otherwise, you can create remote instances during the guided setup process.
 

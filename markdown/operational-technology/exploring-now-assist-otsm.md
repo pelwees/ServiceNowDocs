@@ -44,5 +44,5 @@ The incident summary includes the following information:
 
 Automatically generates the resolution notes for an OT incident and provides the context to another user who might encounter similar incidents.
 
-**Parent Topic:**[Now Assist for Operational Technology Service Management \(OTSM\)](now-assist-for-operational-technology-service-management.md)
+**Parent Topic:**[Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/now-assist-for-operational-technology-service-management.md)
 

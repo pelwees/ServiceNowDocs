@@ -33,7 +33,7 @@ Before creating a catalog item, you must link the application to a software mode
 
     A new SCCM Application Catalog Item record appears with preconfigured information. .
 
-    ![SCCM application catalog item](../images/SCCMCatalogItem.png)
+    ![SCCM application catalog item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/SCCMCatalogItem.png)
 
 4.  Add price information and complete the following fields added to the Client Software Distribution Catalog Item \[sn\_client\_sf\_dist\_cat\_item\] table by the Client Software Distribution plugin:
 
@@ -96,5 +96,5 @@ Name of the [Define an SCCM configuration](https://raw.githubusercontent.com/Ser
 7.  To see all client software distribution \(CSD\) catalog items, navigate to **Client Software Distribution** &gt; **Maintain Items** &gt; **Software Items**.
 
 
-**Parent Topic:**[Configuring SCCM](../concept/configure-sccm-ihub.md)
+**Parent Topic:**[Configuring SCCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/configure-sccm-ihub.md)
 

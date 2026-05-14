@@ -41,10 +41,10 @@ Use the REST API Explorer to send the following request:
 
     The response indicates the **Status code** and **Execution time** \(in milliseconds\) of the request.
 
-    ![REST API Explorer PUT response](../image/rest-api-exp-put-response.png)
+    ![REST API Explorer PUT response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../image/rest-api-exp-put-response.png)
 
 7.  Verify that the Response Body contains the updated **short\_description** value.
 
 
-**Parent Topic:**[Use the REST API Explorer](../concept/use-REST-API-Explorer.md)
+**Parent Topic:**[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../concept/use-REST-API-Explorer.md)
 

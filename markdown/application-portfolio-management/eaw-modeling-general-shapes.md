@@ -19,26 +19,26 @@ You can also adjust the size of shapes by selecting a shape and then drag any of
 
 |Shape|Name|
 |-----|----|
-|![Actor](../../image/eaw-image/modeling/icon-actor.png)|Actor|
-|![Arrow](../../image/eaw-image/modeling/icon-arrow.png)|Arrow|
-|![Chevron](../../image/eaw-image/modeling/icon-chevron.png)|Chevron|
-|![Circle](../../image/eaw-image/modeling/icon-circle.png)|Circle|
-|![Cylinder](../../image/eaw-image/modeling/icon-cylinder.png)|Cylinder|
-|![Diamond](../../image/eaw-image/modeling/icon-diamond.png)|Diamond|
-|![Double ended arrow](../../image/eaw-image/modeling/icon-double-ended-arrow.png)|Double ended arrow|
-|![Eight pointed star](../../image/eaw-image/modeling/icon-eight-pointed-star.png)|Eight pointed star|
-|![Five pointed star](../../image/eaw-image/modeling/icon-five-pointed-star.png)|Five pointed star|
-|![Half eclipse](../../image/eaw-image/modeling/icon-half-eclipse.png)|Half eclipse|
-|![Junction](../../image/eaw-image/modeling/icon-junction.png)|Junction|
-|![Octagon](../../image/eaw-image/modeling/icon-octagon.png)|Octagon|
-|![Parallelogram](../../image/eaw-image/modeling/icon-parallelogram.png)|Parallelogram|
-|![Pentagon](../../image/eaw-image/modeling/icon-pentagon.png)|Pentagon|
-|![Rectangle](../../image/eaw-image/modeling/icon-rectangle.png)|Rectangle|
-|![Speech bubble](../../image/eaw-image/modeling/icon-speech-bubble.png)|Speech bubble|
-|![Square](../../image/eaw-image/modeling/icon-square.png)|Square|
-|![Sticky note](../../image/eaw-image/modeling/icon-sticky-note.png)|Sticky note|
-|![Text box](../../image/eaw-image/modeling/icon-text-box.png)|Text box|
-|![Triangle](../../image/eaw-image/modeling/icon-triangle.png)|Triangle|
+|![Actor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-actor.png)|Actor|
+|![Arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-arrow.png)|Arrow|
+|![Chevron](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-chevron.png)|Chevron|
+|![Circle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-circle.png)|Circle|
+|![Cylinder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-cylinder.png)|Cylinder|
+|![Diamond](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-diamond.png)|Diamond|
+|![Double ended arrow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-double-ended-arrow.png)|Double ended arrow|
+|![Eight pointed star](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-eight-pointed-star.png)|Eight pointed star|
+|![Five pointed star](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-five-pointed-star.png)|Five pointed star|
+|![Half eclipse](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-half-eclipse.png)|Half eclipse|
+|![Junction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-junction.png)|Junction|
+|![Octagon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-octagon.png)|Octagon|
+|![Parallelogram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-parallelogram.png)|Parallelogram|
+|![Pentagon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-pentagon.png)|Pentagon|
+|![Rectangle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-rectangle.png)|Rectangle|
+|![Speech bubble](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-speech-bubble.png)|Speech bubble|
+|![Square](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-square.png)|Square|
+|![Sticky note](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-sticky-note.png)|Sticky note|
+|![Text box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-text-box.png)|Text box|
+|![Triangle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-triangle.png)|Triangle|
 
-**Parent Topic:**[Shapes to create a modeling diagram](eaw-modeling-shapes.md)
+**Parent Topic:**[Shapes to create a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-shapes.md)
 

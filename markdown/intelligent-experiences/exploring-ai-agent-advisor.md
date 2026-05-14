@@ -100,7 +100,7 @@ Quickly discover automation opportunities for your instance. AI Agent Advisor an
 
 </td><td>
 
-[Automation discovery with AI Agent Advisor](now-assist-center-using-ai-agent-advisor.md)
+[Automation discovery with AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Matches identified automation opportunities to existing AI agents on the platfor
 
 </td><td>
 
-[AI agent matching and automated deployment](../task/activate-automation-opportunity-now-assist-center.md)
+[AI agent matching and automated deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-automation-opportunity-now-assist-center.md)
 
 </td><td>
 
@@ -125,7 +125,7 @@ Now Assist administrator
 
 To learn more about configuring and using AI Agent Advisor, see:
 
--   [Configuring AI Agent Advisor](configuring-ai-agent-advisor.md)
--   [Using AI Agent Advisor](using-ai-agent-advisor.md)
--   [AI Agent Advisor reference](ai-agent-advisor-reference.md)
+-   [Configuring AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-ai-agent-advisor.md)
+-   [Using AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-ai-agent-advisor.md)
+-   [AI Agent Advisor reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-reference.md)
 

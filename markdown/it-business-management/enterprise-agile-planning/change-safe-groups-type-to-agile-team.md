@@ -37,7 +37,7 @@ Update Team type for SAFe groups.
 
 5.  Add the value of **Agile Team** to the **Type** field.
 
-    ![Update SAFe Group Type field to Agile Team.](../images/eap-safe-migrate-group-type.png)
+    ![Update SAFe Group Type field to Agile Team.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-safe-migrate-group-type.png)
 
 6.  Repeat steps 3 through 6 for all SAFe teams that are to be migrated to EAP.
 

@@ -25,22 +25,22 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Before you start the OSHA form generation, you must complete the following tasks.
 
--   [Set up Health and Safety Incident Management OSHA Content Pack](configuring-osha-forms.md).
+-   [Set up Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/configuring-osha-forms.md).
 -   Review and set the following fields in the injury and illness reports for which the OSHA forms should be generated.
     -   **Recordable**: When you generate an OSHA form, only the recordable incidents are included.
     -   **Establishment**: Ensure that this field is populated with the establishment name.
 -   Ensure that you have the safety compliance manager \[sn\_ohs\_im.compliance\_manager\] role assigned to you.
 
--   **[Setting up the OSHA Content Pack](configuring-osha-forms.md)**  
+-   **[Setting up the OSHA Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/configuring-osha-forms.md)**  
 Set up the Health and Safety Incident Management OSHA Content Pack application to enable the generation of OSHA forms.
--   **[Generate an OSHA 301 form](../task/generate-osha-301-report.md)**  
+-   **[Generate an OSHA 301 form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../task/generate-osha-301-report.md)**  
 Generate an OSHA 301 form for an injury or illness associated with a safety incident.
--   **[Generate an annual OSHA 300 Log or 300A Summary form](../task/generate-osha-annual-form.md)**  
+-   **[Generate an annual OSHA 300 Log or 300A Summary form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../task/generate-osha-annual-form.md)**  
 Generate an annual 300 Log or 300A Summary OSHA form for all OSHA recordable injuries and illnesses that happened in an establishment between January 1 and December 31 of a calendar year.
--   **[View a saved OSHA 300 and 300A form](../task/view-osha-annual-forms.md)**  
+-   **[View a saved OSHA 300 and 300A form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/../task/view-osha-annual-forms.md)**  
 View a saved OSHA 300 and 300A form for an establishment.
--   **[Health and Safety Incident Management OSHA Content Pack reference](hs-reporting-reference.md)**  
+-   **[Health and Safety Incident Management OSHA Content Pack reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reporting-reference.md)**  
 Learn about the components, such as the tables and system properties that are installed when you install the Health and Safety Incident Management OSHA Content Pack application.
 
-**Parent Topic:**[Health and Safety injury and illness reports](injury-illness-reports.md)
+**Parent Topic:**[Health and Safety injury and illness reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/injury-illness-reports.md)
 

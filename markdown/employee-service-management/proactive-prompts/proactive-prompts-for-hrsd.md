@@ -31,19 +31,19 @@ Engage managers and employees through prompts displayed on the most reachable ch
 
 <table id="table_rwk_drp_bwb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Detailed information on Proactive Prompts](proactive-prompts-explore.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../../reuse/icons/brand-icons/bus-explore.svg) Detailed information on Proactive Prompts](proactive-prompts-explore.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](proactive-prompts-config.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure the application to get started](proactive-prompts-config.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Know how you can use Proactive Prompts](proactive-prompts-using.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Know how you can use Proactive Prompts](proactive-prompts-using.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about tokens, data sources, actions and channels in Proactive Prompts](../reference/proactive-prompts-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about tokens, data sources, actions and channels in Proactive Prompts](../reference/proactive-prompts-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

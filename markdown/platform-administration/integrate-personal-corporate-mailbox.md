@@ -45,7 +45,7 @@ Role required: user\_email\_account
 
     4.  Select a template from the list of configured user email account templates.
 
-        To configure a new template aside from the preconfigured templates, see [Configure templates for personal corporate mailboxes](configure-personal-corporate-mailbox.md).
+        To configure a new template aside from the preconfigured templates, see [Configure templates for personal corporate mailboxes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-personal-corporate-mailbox.md).
 
     5.  Review the information.
 
@@ -58,5 +58,5 @@ Role required: user\_email\_account
         **Note:** At least one mailbox must be connected to view the connected mailboxes.
 
 
-**Parent Topic:**[Personal corporate mailbox](../concept/personal-corporate-mailbox.md)
+**Parent Topic:**[Personal corporate mailbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/personal-corporate-mailbox.md)
 

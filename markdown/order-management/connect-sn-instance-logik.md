@@ -83,5 +83,5 @@ Role required: admin
 **Related topics**  
 
 
-[Provision a Logik.ai instance](set-up-logik-instance.md)
+[Provision a Logik.ai instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/set-up-logik-instance.md)
 

@@ -30,7 +30,7 @@ To use Jeopardy Management, fulfillment managers must either reconfigure existin
 
 ## Create SLA Definitions
 
-SLA definitions and SLA Processing flows are linked to tasks in a fulfillment plan and track and report on the time jeopardy-enabled tasks take to complete. See [../task/create-sla-definitions.md](../task/create-sla-definitions.md) for more information.
+SLA definitions and SLA Processing flows are linked to tasks in a fulfillment plan and track and report on the time jeopardy-enabled tasks take to complete. See [../task/create-sla-definitions.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-sla-definitions.md) for more information.
 
 -   SLA Definitions: Set start condition, pause condition, cancel condition, and reset conditions according to use case.
 -   SLA Durations: Durations are specified so that tracking can be achieved when task SLA is created.

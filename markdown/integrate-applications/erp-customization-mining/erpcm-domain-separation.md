@@ -24,7 +24,7 @@ Domain separation is unsupported for ERP Semantic Mining. Domain separation enab
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[ERP Semantic Mining reference](../reference/erp-customization-mining-ref.md)
+**Parent Topic:**[ERP Semantic Mining reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../reference/erp-customization-mining-ref.md)
 
 **Related topics**  
 

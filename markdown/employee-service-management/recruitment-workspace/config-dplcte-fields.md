@@ -19,5 +19,5 @@ You can configure which fields are duplicated with sn\_ta\_recruiter.duplicate\_
 
 You must have the system administrator role to do this task.
 
-**Parent Topic:**[Configuring Recruitment Workspace](config-recruitment.md)
+**Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 

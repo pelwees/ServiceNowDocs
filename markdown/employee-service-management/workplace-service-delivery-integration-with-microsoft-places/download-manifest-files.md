@@ -21,7 +21,7 @@ Role required: admin
 
 Ensure to register the WSD for Microsoft places application in the Microsoft Azure portal.
 
-For more information about registering the WSD for Microsoft places application, refer to [Register the WSD for Microsoft places application](installing-wsd-ms-places.md)
+For more information about registering the WSD for Microsoft places application, refer to [Register the WSD for Microsoft places application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/installing-wsd-ms-places.md)
 
 ## Procedure
 

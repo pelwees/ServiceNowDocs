@@ -36,13 +36,13 @@ Example scripts use either:
 
     The **Data Explorer** displays.
 
-    ![Data Explorer UI](../image/data-explorer.png)
+    ![Data Explorer UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explorer.png)
 
     When you run a script, the data visualization appears under **Data Explorer Script Result Display**.
 
 2.  Select one of the sample scripts to run in the **Example Script** menu.
 
-    ![Steps to run a script](../image/data-explorer-buttons.png)
+    ![Steps to run a script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explorer-buttons.png)
 
 3.  Click **Load Example**.
 
@@ -73,7 +73,7 @@ Simple Transform
 
 </td><td>
 
-Uses the transformer API to display a single time-series metric, the average speed of the drones: `transformer.metric('mb_demo_mt_speed').avg`\(\). ![Simple transform using average](../image/data-explorer-average-speed.png)
+Uses the transformer API to display a single time-series metric, the average speed of the drones: `transformer.metric('mb_demo_mt_speed').avg`\(\). ![Simple transform using average](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explorer-average-speed.png)
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ transformer.groupBy("fleet").metric("mb_demo_mt_altitude").
       avg().label('avg - %g:fleet:')
 ```
 
- ![Grouping transform](../image/data-explorer-simple-xform-grouping.png)
+ ![Grouping transform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explorer-simple-xform-grouping.png)
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ var fit = builder.metric("mb_demo_nt_rem_battery").resample(100).
 builder.metric("nb_demp_mt_rem_battery").avg().label("Original")
 ```
 
- ![Linear model](../image/data-explorer-linear-model.png)
+ ![Linear model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explorer-linear-model.png)
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ var fit = builder.metric(metric).fit({model:"STL",periodicity:"PT2H",
           innerCycles:1, outerCycles:10})
 ```
 
- ![Seasonal correction to trend](../image/data-explor-seasonal-trend-decomp.png)
+ ![Seasonal correction to trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explor-seasonal-trend-decomp.png)
 
 </td></tr><tr><td>
 
@@ -153,8 +153,8 @@ var metric = "nb_demo_mt_rem_battery";
 builder.metric(metric).deviation(model, "chiSquare");
 ```
 
- ![Deviation model](../image/data-explor-chisquare-deviation.png)
+ ![Deviation model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../image/data-explor-chisquare-deviation.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Working with MetricBase demo data](../concept/working-with-metricbase-demo-data.md)
+</table>**Parent Topic:**[Working with MetricBase demo data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../concept/working-with-metricbase-demo-data.md)
 

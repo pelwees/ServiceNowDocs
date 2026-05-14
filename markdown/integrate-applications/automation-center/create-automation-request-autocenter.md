@@ -19,7 +19,7 @@ This video show you how to perform the following procedure.This video shows you 
 
 ## Before you begin
 
-\(Optional\) Create an automation goal. For more information, see [Create an automation goal](create-automation-goal.md).
+\(Optional\) Create an automation goal. For more information, see [Create an automation goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-goal.md).
 
 Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_user, or sn\_ac.automation\_admin
 
@@ -37,23 +37,23 @@ Role required: sn\_ac.automation\_business\_user, sn\_ac.automation\_technical\_
 
 6.  Select **Save**.
 
-    **Note:** If you have the sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin roles, you can view the Recommendations contextual panel. For more information, see [Configuring the Recommended Actions application with Automation Center](../concept/config-ra.md).
+    **Note:** If you have the sn\_ac.automation\_technical\_user and sn\_ac.automation\_admin roles, you can view the Recommendations contextual panel. For more information, see [Configuring the Recommended Actions application with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/config-ra.md).
 
 
 ## What to do next
 
-Move the automation request to the planned state. For more information, see [Move an automation request to the Planned state](move-automation-request-to-planned.md).
+Move the automation request to the planned state. For more information, see [Move an automation request to the Planned state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/move-automation-request-to-planned.md).
 
-**Parent Topic:**[Creating an automation request](create-automation-request.md)
+**Parent Topic:**[Creating an automation request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-request.md)
 
 **Related topics**  
 
 
-[Automation request form from Automation Center](../reference/automation-request-autocenter-form.md)
+[Automation request form from Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../reference/automation-request-autocenter-form.md)
 
-[Submit an automation request from Service Catalog](create-automation-request-service-catalog.md)
+[Submit an automation request from Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-request-service-catalog.md)
 
-[Create an automation task](create-automation-task.md)
+[Create an automation task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-task.md)
 
-[Create an automation resource](create-automation-resource.md)
+[Create an automation resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/create-automation-resource.md)
 

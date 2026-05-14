@@ -42,20 +42,20 @@ Role required: enterprise\_asset
 -   The state of the associated repair asset tasks that were open changes to Closed Incomplete.
 -   The stage of the repair order changes to Cancelled only if there aren't any other repair order lines that are in the Troubleshoot, Repair, Evaluate, or Completed stage.
 
-**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](../concept/fulfill-eam-repair-orders-in-ws.md)
+**Parent Topic:**[Manually fulfill repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/fulfill-eam-repair-orders-in-ws.md)
 
 **Related topics**  
 
 
-[View open repair orders for your stockroom in the Enterprise Asset Workspace](view-open-repair-orders-stockroom-eam.md)
+[View open repair orders for your stockroom in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-open-repair-orders-stockroom-eam.md)
 
-[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](troubleshoot-eam-assets-for-repair.md)
+[Troubleshoot assets requested for repair in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/troubleshoot-eam-assets-for-repair.md)
 
-[Complete the repair asset task in the Enterprise Asset Workspace](repair-eam-assets-ws.md)
+[Complete the repair asset task in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-eam-assets-ws.md)
 
-[Evaluate the repaired asset in the Enterprise Asset Workspace](evaluate-repaired-eam-asset-ws.md)
+[Evaluate the repaired asset in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/evaluate-repaired-eam-asset-ws.md)
 
-[Bulk close asset repair tasks in the Enterprise Asset Workspace](bulk-close-repair-tasks-eam-ws.md)
+[Bulk close asset repair tasks in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/bulk-close-repair-tasks-eam-ws.md)
 
-[Cancel a repair order in the Enterprise Asset Workspace](cancel-repair-orders-eam-ws.md)
+[Cancel a repair order in the Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/cancel-repair-orders-eam-ws.md)
 

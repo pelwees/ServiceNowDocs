@@ -19,7 +19,7 @@ The Strategy Execution Dashboard provides various analytics through the tabs and
 
 ## Strategic Overview tab in the Strategy Execution Dashboard
 
-![Strategy Execution Dashbaord-Strategic Overview in Strategic Planning.](../Images/strategy-execution-dashboard-strategic-spw.gif)
+![Strategy Execution Dashbaord-Strategic Overview in Strategic Planning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/strategy-execution-dashboard-strategic-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -31,7 +31,7 @@ The Strategy Execution Dashboard provides various analytics through the tabs and
 
 ## Execution tab in the Strategy Execution Dashboard
 
-![Strategy Execution Dashbaord-Execution Hub in Strategic Planning](../Images/strategy-execution-dashboard-execution-spw.gif)
+![Strategy Execution Dashbaord-Execution Hub in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../Images/strategy-execution-dashboard-execution-spw.gif)
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -56,5 +56,5 @@ The Strategy Execution Dashboard provides various analytics through the tabs and
 |Resource Assignments Ready for Review|Visualization of resource assignments count that is ready for review.|
 |Upcoming Items with Resource Assignments That Are Unassigned, Unapproved, or Pending|List of upcoming planning items whose resource assignments status is Unassigned, Unapproved, or Pending.|
 
-**Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](exploring-dashboards-spw.md)
+**Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/exploring-dashboards-spw.md)
 

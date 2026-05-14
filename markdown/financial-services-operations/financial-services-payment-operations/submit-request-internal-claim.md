@@ -21,15 +21,15 @@ Role required: sn\_bom\_payment.requestor
 
 ## About this task
 
-Branch workers and customers can submit claim requests only for internal claims. For information about external claims, see [Create a case for an external claim](create-case-external-claim.md).
+Branch workers and customers can submit claim requests only for internal claims. For information about external claims, see [Create a case for an external claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/create-case-external-claim.md).
 
-Internal claims can also be created by inquiry agents if the investigation of an internal payment inquiry case shows that it is a valid claim. For more information, see [Create a claim for a payment inquiry case](create-claim-case-inquiry-case.md).
+Internal claims can also be created by inquiry agents if the investigation of an internal payment inquiry case shows that it is a valid claim. For more information, see [Create a claim for a payment inquiry case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/create-claim-case-inquiry-case.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Create a claim from the customer record or an interaction record.
 
@@ -95,5 +95,5 @@ Steps
 -   Click **View Details** to open the claim and view its details. You can also add additional information in the **Comments** field that can help the claim agent in resolving the case.
 -   A claim agent can start working on the claim.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../concept/managing-payment-claims.md)
 

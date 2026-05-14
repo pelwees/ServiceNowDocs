@@ -36,12 +36,12 @@ Role required: admin
 
     1.  Navigate to **Admin** &gt; **Now Assist Admin**.
 
-    2.  Go to the **Now Assist Skills** tab and select **Creator**.![ATF troubleshooting agent is listed as Now Assist for Creator skills.](../images/atf-troubleshooting-agent.png)
+    2.  Go to the **Now Assist Skills** tab and select **Creator**.![ATF troubleshooting agent is listed as Now Assist for Creator skills.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/atf-troubleshooting-agent.png)
 
     3.  Select **Turn on** to enable the skill.
 
     The skill is enabled for all users.
 
 
-**Parent Topic:**[ATF troubleshooting agent](../reference/atf-troubleshooting-agent-landing-page.md)
+**Parent Topic:**[ATF troubleshooting agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/atf-troubleshooting-agent-landing-page.md)
 

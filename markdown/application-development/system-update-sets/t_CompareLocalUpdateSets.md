@@ -33,7 +33,7 @@ Compare local update sets to identify collisions and confirm that the proper cha
 
     The progress screen displays as ServiceNow generates the collision report.
 
-    ![Generating a collision report](../image/update-sets-collision-report.png "Collision report")
+    ![Generating a collision report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../image/update-sets-collision-report.png "Collision report")
 
 4.  Select **Go to the Collision Report** when the report is complete.
 
@@ -48,8 +48,8 @@ Compare local update sets to identify collisions and confirm that the proper cha
 7.  Run the comparison again to make sure that all collisions have been resolved.
 
 
--   **[Update set collision resolution](../reference/update-set-collisions.md)**  
+-   **[Update set collision resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../reference/update-set-collisions.md)**  
 A collision is an update that has a newer local update.
 
-**Parent Topic:**[Working with update sets](../concept/using-system-update-sets.md)
+**Parent Topic:**[Working with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/using-system-update-sets.md)
 

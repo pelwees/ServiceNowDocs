@@ -21,13 +21,13 @@ Role required: ot\_excel\_import\_user
 
 ## About this task
 
-You can optionally create remediation tasks to resolve invalid staging records. For more information about the validation errors that can occur for your staging records, see [Managing Validations](../concept/managing-validations.md).
+You can optionally create remediation tasks to resolve invalid staging records. For more information about the validation errors that can occur for your staging records, see [Managing Validations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/managing-validations.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Industrial Workspace**.
 
-2.  Select the **List** \(![List icon](../../../common/image/icon-list.png)\) icon.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../../../common/image/icon-list.png)\) icon.
 
 3.  Under the OT Excel SGC - Import Task module, select one of the available lists.
 
@@ -48,5 +48,5 @@ Remediation tasks are created for the invalid staging records. To access the rem
 
 When you view the remediation task record, you can also view the staging records associated with it by selecting the **Staging Records** tab.
 
-**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](../concept/use-excel-sgc-through-import-tasks.md)
+**Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/../concept/use-excel-sgc-through-import-tasks.md)
 

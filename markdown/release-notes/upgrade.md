@@ -13,9 +13,9 @@ breadcrumb: [Prepare your upgrade, Australia release notes]
 
 The upgrade process moves your instance to a new ServiceNow release version. Understand the difference between upgrading and patching, release definitions, rollback and backup options, and how to test your non-production and production instance upgrades.
 
-Before you begin the upgrade process, read the [Australia release notes](../../family-release-notes.md) and review the [upgrade and migration tasks for your applications and features](upgrade-and-migration-tasks.md).
+Before you begin the upgrade process, read the [Australia release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../../family-release-notes.md) and review the [upgrade and migration tasks for your applications and features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/upgrade-and-migration-tasks.md).
 
-![Prepare, upgrade and test the test instance, upgrade and test production instance](../image/upgrade-cycle-at-large.png)
+![Prepare, upgrade and test the test instance, upgrade and test production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../image/upgrade-cycle-at-large.png)
 
 System upgrades can be significant projects. Each ServiceNow feature release includes major additions, and you should always consider the impact of new functionality on an instance. Upgrading implements enhancements to all features that are part of the base system or are already active, unless the feature is customized on your instance. For a list of all available plugins and whether they are active by default on the base system, see [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md).
 
@@ -149,5 +149,5 @@ Conduct UAT.**Note:** The [Automated Test Framework](https://raw.githubuserconte
 </td></tr></tbody>
 </table>If you encounter any post-upgrade issues, document the issue's conditions, steps to reproduce the issue, and your customizations. [Contact Customer Service and Support](http://www.servicenow.com/support/contact-support.html) to open an incident for each issue, and provide this information accordingly. Customer Service and Support is available 24 hours a day, 7 days a week to assist you with any questions or issues.
 
-**Parent Topic:**[Prepare your upgrade](../../concept/rn-prepare-landing-page.md)
+**Parent Topic:**[Prepare your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/../../concept/rn-prepare-landing-page.md)
 

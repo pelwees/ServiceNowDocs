@@ -15,7 +15,7 @@ breadcrumb: [Integrating a custom search or knowledge article viewer with knowle
 
 The `KBPortalServiceImpl` API is included with Knowledge Management V3 \[com.snc.knowledge3\] as a script include. It provides methods to use with knowledge, such as integration with a custom search.
 
-**Parent Topic:**[Integrating a custom search or knowledge article viewer with knowledge blocks](integrating-with-custom-search-or-knowledge-article-viewer.md)
+**Parent Topic:**[Integrating a custom search or knowledge article viewer with knowledge blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/integrating-with-custom-search-or-knowledge-article-viewer.md)
 
 ## KBPortalServiceImpl - KBPortalServiceImpl\(\)
 

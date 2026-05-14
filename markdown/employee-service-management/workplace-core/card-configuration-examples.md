@@ -15,7 +15,7 @@ breadcrumb: [Workplace Core references, Workplace Core, Workplace Service Delive
 
 Add buttons, fields, and sections to the workplace card configuration.
 
-**Note:** The following examples are to customize the card configurations in Workplace Core. For more information about configuring the cards, see [Configure a workplace card](../task/configure-workplace-card.md).
+**Note:** The following examples are to customize the card configurations in Workplace Core. For more information about configuring the cards, see [Configure a workplace card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../task/configure-workplace-card.md).
 
 ## Customizing the card style
 
@@ -157,18 +157,18 @@ After hiding the element, make sure that you remove the custom logic, or surroun
 }); */
 ```
 
-**Parent Topic:**[Workplace Core references](../concept/wsd-references.md)
+**Parent Topic:**[Workplace Core references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/wsd-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Core](components-installed-with-workplace-service-delivery.md)
+[Components installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/components-installed-with-workplace-service-delivery.md)
 
-[Properties installed with Workplace Core](properties-installed-with-workplace-service-delivery.md)
+[Properties installed with Workplace Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/properties-installed-with-workplace-service-delivery.md)
 
-[Workplace Profile Location Assignment form](wsd-location-assignment-form.md)
+[Workplace Profile Location Assignment form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/wsd-location-assignment-form.md)
 
-[Workplace location assignment anomaly types](location-assignment-anomaly-types.md)
+[Workplace location assignment anomaly types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-assignment-anomaly-types.md)
 
-[Reserve a space form](reserve-space-form.md)
+[Reserve a space form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-space-form.md)
 

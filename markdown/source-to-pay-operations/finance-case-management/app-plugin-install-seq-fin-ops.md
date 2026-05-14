@@ -107,5 +107,5 @@ Provides configurations to support automatic routing, queuing, and assignment of
 Advanced Work Assignment \(glide.awa\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Finance Case Management](installed-with-fin-ops.md)
+</table>**Parent Topic:**[Components installed with Finance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/installed-with-fin-ops.md)
 

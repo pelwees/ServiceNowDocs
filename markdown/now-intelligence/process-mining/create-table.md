@@ -23,7 +23,7 @@ Role required: sn\_process\_mining\_admin
 
 1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
-2.  On the left of the page, select the External data integration icon \( ![External data integration icon](../image/ext-dataset-modules.png)\).
+2.  On the left of the page, select the External data integration icon \( ![External data integration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset-modules.png)\).
 
 3.  Select **Create dataset**.
 
@@ -31,7 +31,7 @@ Role required: sn\_process\_mining\_admin
 
 4.  Provide a name for your dataset.
 
-    ![Create a dataset](../image/ext-dataset1.png)
+    ![Create a dataset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset1.png)
 
     **Note:** The dataset name must be unique. Ensure to have a user-friendly name that clarifies the type of data and the source for ease of use later.
 
@@ -41,7 +41,7 @@ Role required: sn\_process\_mining\_admin
 
 6.  Select **Next**.
 
-    ![List of columns for the audit table](../image/ext-dataset2.png)
+    ![List of columns for the audit table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/ext-dataset2.png)
 
     The next screen enables you to add custom columns for the table. If you need more columns than what is already provided, you can do it here.
 
@@ -56,5 +56,5 @@ Role required: sn\_process\_mining\_admin
 7.  Select **Next**.
 
 
-**Parent Topic:**[Working with external datasets](../concept/external-dataset.md)
+**Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../concept/external-dataset.md)
 

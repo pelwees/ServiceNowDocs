@@ -23,19 +23,19 @@ With the ServiceNow® Financial Services Operations Integration with Socure appl
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits provided by integrating Financial Services Operations Integration with Socure.](explore-fso-int-socure.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the benefits provided by integrating Financial Services Operations Integration with Socure.](explore-fso-int-socure.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your integration.](setting-up-fso-integration.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your integration.](setting-up-fso-integration.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Work on integrating FSO with the Socure application.](../task/configure-fso-integration-socure.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Work on integrating FSO with the Socure application.](../task/configure-fso-integration-socure.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components like fields, tables, and properties.](../reference/components-installed-with-fso-integration-socure.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../reuse/icons/brand-icons/bus-datasheet.svg) Get details about components like fields, tables, and properties.](../reference/components-installed-with-fso-integration-socure.md)
 
 </td></tr></tbody>
 </table>

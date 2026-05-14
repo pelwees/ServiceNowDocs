@@ -32,7 +32,7 @@ The `RelatedListIncidentItemUpdateHandler` script include contains the following
 -   Initialize – Executes before multiple records are updated.
 -   Post update – Executes after multiple records are updated.
 
-![RelatedListIncidentItemUpdateHandler script includes](../image/related_list_handler_scriptinclude.png)
+![RelatedListIncidentItemUpdateHandler script includes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/related_list_handler_scriptinclude.png)
 
-**Parent Topic:**[Incident Management in Service Operations Workspace reference](../concept/sow-im-reference.md)
+**Parent Topic:**[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-im-reference.md)
 

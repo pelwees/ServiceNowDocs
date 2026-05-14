@@ -48,7 +48,7 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 
 ## What to do next
 
-Track and manage sales process using the sales process dashboard. For more information, see [Navigating the sales process dashboard](../concept/navigating-sales-process-dashboard.md) and [Monitoring and tracking sales activities](../concept/monitor-track-sales-activities.md).
+Track and manage sales process using the sales process dashboard. For more information, see [Navigating the sales process dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/navigating-sales-process-dashboard.md) and [Monitoring and tracking sales activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/monitor-track-sales-activities.md).
 
-**Parent Topic:**[Using Lead-to-Cash Process Management](../concept/using-lead-cash-process-management.md)
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-lead-cash-process-management.md)
 

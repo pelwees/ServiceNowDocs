@@ -66,12 +66,12 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
     The work note logs that a new incident is added and includes a link to the incident details. The log work note also updates more details that you add to the work note field in your mapping section.
 
-    ![Define filtering and aggregation conditions](../image/xsiam-filtering-aggregation.png)
+    ![Define filtering and aggregation conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/xsiam-filtering-aggregation.png)
 
 5.  Select **Continue**.
 
 
 ### What to do next
 
-Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](../task/pan-xsiam-schedule-inc-retrieval.md).
+Set a schedule to retrieve the incident data and ingested incidents that match the criteria in the profile. For more information, see [Schedule incident retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/pan-xsiam-schedule-inc-retrieval.md).
 

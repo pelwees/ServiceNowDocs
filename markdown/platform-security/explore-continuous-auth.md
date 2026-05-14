@@ -60,24 +60,24 @@ To configure CA you must elevate your role to **ca\_admin** and perform the poli
 
 Following are the different modules within CA:
 
--   [Policies](ca-policies.md): View the different continuous authentication policies that are created.
--   [Metrics](ca-metrics.md): View the different metrics for continuous authentication for KPI purposes and understand the usage of CA within your organization.
--   [System Properties](ca-system-properties.md): Use system properties to enable and customize continuous authentication \(CA\) to meet your zero trust access security requirements.
+-   [Policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-policies.md): View the different continuous authentication policies that are created.
+-   [Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md): View the different metrics for continuous authentication for KPI purposes and understand the usage of CA within your organization.
+-   [System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md): Use system properties to enable and customize continuous authentication \(CA\) to meet your zero trust access security requirements.
 
 **Related topics**  
 
 
-[Policies](ca-policies.md)
+[Policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-policies.md)
 
-[Metrics](ca-metrics.md)
+[Metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md)
 
-[System properties](ca-system-properties.md)
+[System properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md)
 
-[Pre-work for Continuous Authentication](pre-work-ca.md)
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[Activating Continuous Authentication](../task/activate-continuous-authentication.md)
+[Activating Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/activate-continuous-authentication.md)
 
-[Configuring Continuous Authentication](../task/configure-ca.md)
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/configure-ca.md)
 
-[High Assurance session with Continuous Authentication](high-assurance-ca.md)
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md)
 

@@ -62,10 +62,10 @@ Playbooks can display the following information in the contextual side panel:
 
  For more information, see:
 
--   [Using the activity stream in the contextual side panel](csm-playbooks-using-activity-stream.md)
--   [Viewing ribbon information in the contextual side panel](csm-playbooks-viewing-ribbon-info.md)
--   [Viewing related records in the contextual side panel](csm-playbooks-viewing-rel-records.md)
--   [Related Items](csm-playbook-related-items-component.md)
+-   [Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
+-   [Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+-   [Viewing related records in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
+-   [Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-related-items-component.md)
 -   [Administering Activity stream for Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-activity-stream-configurable-workspace.md)
 
 </td></tr><tr><td>
@@ -76,7 +76,7 @@ Use the contextual side panel to display dynamic related records
 
 Display records in the contextual side panel that dynamically change based on the context of the current record or playbook activity.
 
- For more information, see [Dynamic related records](csm-contextual-related-records.md).
+ For more information, see [Dynamic related records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-contextual-related-records.md).
 
 </td></tr><tr><td>
 

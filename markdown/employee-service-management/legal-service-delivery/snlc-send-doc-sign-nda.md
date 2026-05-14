@@ -17,7 +17,7 @@ After a non-disclosure agreement contract document has been reviewed and finaliz
 
 ## Before you begin
 
-The contract document must have been reviewed and finalized, and the contract status must be set to Document ready. For more information, see and [Review a contract document in Employee Center](snlc-submit-req-chngs-ndar.md) and [Work on a contract change request](snlc-finalize-document-nda.md).
+The contract document must have been reviewed and finalized, and the contract status must be set to Document ready. For more information, see and [Review a contract document in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-submit-req-chngs-ndar.md) and [Work on a contract change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-finalize-document-nda.md).
 
 Role required: sn\_cm\_core.contract\_user and sn\_lg\_ops.legal\_user
 
@@ -63,8 +63,8 @@ Actions
 
     **Note:** If a message states that the signatories are not in sync, update and sync them before sending the document for signature.
 
-    -   If you are using Contract Management Pro 1.2.1, see [Resolve the failure to send contract documents for signature \(starting Contract Management Pro 1.2.1\)](snlc-sync-doc-user.md).
-    -   If you are using an earlier version of Contract Management Pro, see [Resolve an error during send for signature](snlc-sync-signatories-user.md).
+    -   If you are using Contract Management Pro 1.2.1, see [Resolve the failure to send contract documents for signature \(starting Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-sync-doc-user.md).
+    -   If you are using an earlier version of Contract Management Pro, see [Resolve an error during send for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-sync-signatories-user.md).
     A message appears displaying details of the contract document that is sent for signature.
 
 4.  Select **Send for signature** on the confirmation message.
@@ -74,7 +74,7 @@ Actions
 
 The document is sent for signature to the specified signatories. The activity stream displays details of the contract document that is sent for signature.
 
-The contract state and contract status updates to Awaiting Signature. For more information, see [Signature workflow for a request](../concept/snlc-lsd-signature-workflow.md).
+The contract state and contract status updates to Awaiting Signature. For more information, see [Signature workflow for a request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/snlc-lsd-signature-workflow.md).
 
-**Parent Topic:**[Work on NDA legal requests](snlc-work-on-contract-request.md)
+**Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 

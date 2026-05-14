@@ -42,13 +42,13 @@ To support AI Search fallback, ITSM Virtual Agent provides the following intent 
 
 Whenever you try to create an incident using Email or Self-service as the channel that triggers IAR, you will receive the relevant recommendations.
 
-There are three types for recommendations, KBs, Catalogs, and VA Topics. For example, if you create an incident and check for its email notifications, you will be shown various recommendations \(including KBs and Catalogs\) for the incident resolution from Issue Auto Resolution.![IAR triggered email notification with KB and Catalog recommendations.](../image/email-notif-rcmndtn-kb.png)
+There are three types for recommendations, KBs, Catalogs, and VA Topics. For example, if you create an incident and check for its email notifications, you will be shown various recommendations \(including KBs and Catalogs\) for the incident resolution from Issue Auto Resolution.![IAR triggered email notification with KB and Catalog recommendations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/email-notif-rcmndtn-kb.png)
 
-In case there is a matched VA topic from the intent to topic mapping, in that case, you will not receive the KB and Catalog recommendations, but the VA topic name, such as "VA Topic: Printer Issues \(Template\)" in the email notification.![IAR triggered email notification with VA topic recommendation.](../image/email-notif-rcmndtn-vatopic.png)
+In case there is a matched VA topic from the intent to topic mapping, in that case, you will not receive the KB and Catalog recommendations, but the VA topic name, such as "VA Topic: Printer Issues \(Template\)" in the email notification.![IAR triggered email notification with VA topic recommendation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/email-notif-rcmndtn-vatopic.png)
 
 Once you click **View recommendations** from your email notification, you will be directed to the Service Portal incident which now has a **Recommendations** tab from where you can read the KB and mark the recommendation as helpful and resolve it.
 
-**Note:** In case the recommendations have a catalog item as the recommended option and you create the catalog request from the Recommendations tab, an email notification is triggered and the incident gets auto-closed in 24 hours.![IAR triggered email notification for incident requested.](../image/email-notif-recmndtn-incident-req.png)
+**Note:** In case the recommendations have a catalog item as the recommended option and you create the catalog request from the Recommendations tab, an email notification is triggered and the incident gets auto-closed in 24 hours.![IAR triggered email notification for incident requested.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/email-notif-recmndtn-incident-req.png)
 
-**Parent Topic:**[Issue Auto Resolution for ITSM Virtual Agent](itsm-va-auto-resolution.md)
+**Parent Topic:**[Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-auto-resolution.md)
 

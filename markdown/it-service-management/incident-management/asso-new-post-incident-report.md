@@ -40,5 +40,5 @@ For associating the **View Complete Report** button with your customized post in
     When you click the **View Complete Report** button, the new UI page opens.
 
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/major-incident-workbench.md)
 

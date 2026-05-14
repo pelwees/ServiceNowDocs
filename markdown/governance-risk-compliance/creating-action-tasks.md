@@ -17,8 +17,8 @@ The Operational vulnerability analysts assign the assessment or investigation ac
 
 Task owners typically perform the following actions:
 
--   [Manage an assessment-type action task](../task/create-action-task-op-vul.md)
--   [Manage an investigation-type action task](../task/update-state-of-action-task.md)
+-   [Manage an assessment-type action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/create-action-task-op-vul.md)
+-   [Manage an investigation-type action task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/update-state-of-action-task.md)
 
 ## Workflow states for an action task
 

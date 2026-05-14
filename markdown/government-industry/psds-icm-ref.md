@@ -16,7 +16,7 @@ Reference tables and forms for configuring and using Investigative Case Manageme
 **Related topics**  
 
 
-[Completeness Rules by Investigative Case Management Entity Type](../reference/psds-icm-ref-entity-man-completeness-rules.md)
+[Completeness Rules by Investigative Case Management Entity Type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../reference/psds-icm-ref-entity-man-completeness-rules.md)
 
-[Investigative Case Management case forms](psds-icm-ref-case-forms.md)
+[Investigative Case Management case forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms.md)
 

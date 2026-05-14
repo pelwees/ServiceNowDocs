@@ -160,5 +160,5 @@ Messages Liked by \[live\_message\_like\]
 Maintains like ratings for posts. Access at **Live Feed** &gt; **Feed Administration** &gt; **Likes**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Live Feed](r_InstalledWithLiveFeed.md)
+</table>**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 

@@ -38,7 +38,7 @@ Options to create the rule are:
 -   Run multiple sequential rules defined for the same event by selecting the **Apply additional matching rules** check box. The event rules run in ascending order as defined in the **Order** field. Event rules applied to assignment groups only run after the global rules have run.
 
 
-You can refresh an existing event rule with new event data. For more information see, [Refresh event rules](refresh-event-rule.md).
+You can refresh an existing event rule with new event data. For more information see, [Refresh event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/refresh-event-rule.md).
 
 **Note:**
 
@@ -57,7 +57,7 @@ You can refresh an existing event rule with new event data. For more information
 
 1.  Select the link for unassociated events or grouped events that aren’t mapped to the rules.
 
-![Example wording of the link: "There are 2 recommended rules, created out of 7 unassociated events of the most recent 50000 events."](../image/EventManagementEventRuleSimple.png)
+![Example wording of the link: "There are 2 recommended rules, created out of 7 unassociated events of the most recent 50000 events."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementEventRuleSimple.png)
 
 2.  Select the event that you want to use for creating the rule.
 
@@ -69,7 +69,7 @@ The event fields are copied to the Event Field Rules section of the rule.
 
 </td><td>
 
-In the event rule list, select the required event rule to be modified. The event rule opens in the event rule designer where you can modify the values of the fields. Select **Save and Upgrade** ![Event Management save](../image/event-rule-save-and-upgrade.png) to modify the rule when the following banner message appears and you want to convert the event rule.
+In the event rule list, select the required event rule to be modified. The event rule opens in the event rule designer where you can modify the values of the fields. Select **Save and Upgrade** ![Event Management save](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/event-rule-save-and-upgrade.png) to modify the rule when the following banner message appears and you want to convert the event rule.
 
 ```
 Rule cannot be viewed in the
@@ -85,7 +85,7 @@ Rule cannot be viewed in the
 Select **New**.
 
 </td></tr></tbody>
-</table>2.  Ensure that **Active** ![Active toggle](../image/active-toggle.png) is selected.
+</table>2.  Ensure that **Active** ![Active toggle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/active-toggle.png) is selected.
 
     When the rule is deactivated, Event Management finds and applies another event rule. An alert is still created for the event unless **Ignore** is selected in another applicable rule or when configuring the filter for this event rule.
 
@@ -150,7 +150,7 @@ When the rules are running – first the global rules run and then the rules tha
 
 </td><td>
 
-Define a filter to restrict to which events the event rule must apply. See [Filter the events that an event rule applies to](t_EMCreateFilter.md).
+Define a filter to restrict to which events the event rule must apply. See [Filter the events that an event rule applies to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md).
 
 </td></tr><tr><td id="d543096e352">
 
@@ -158,7 +158,7 @@ Define a filter to restrict to which events the event rule must apply. See [Filt
 
 </td><td>
 
-Configure the customization of alert content. See [Configure an event rule to customize alert content](t_EMComposeOuput.md).
+Configure the customization of alert content. See [Configure an event rule to customize alert content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMComposeOuput.md).
 
 </td></tr><tr><td id="d543096e371">
 
@@ -166,7 +166,7 @@ Configure the customization of alert content. See [Configure an event rule to cu
 
 </td><td>
 
-Create or close alerts according to the specified threshold. See [Set a threshold to suppress alert generation](t_EMISetThresholdEvent.md).
+Create or close alerts according to the specified threshold. See [Set a threshold to suppress alert generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMISetThresholdEvent.md).
 
 </td></tr><tr><td id="d543096e390">
 
@@ -174,26 +174,26 @@ Create or close alerts according to the specified threshold. See [Set a threshol
 
 </td><td>
 
-Configure event rules to automatically bind alerts to CI information from the CMDB. See [Binding alerts to CIs](../concept/ci-binding-alert.md).
+Configure event rules to automatically bind alerts to CI information from the CMDB. See [Binding alerts to CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/ci-binding-alert.md).
 
 </td></tr></tbody>
 </table>5.  Select **Save**, **Submit**, or **Update**.
 
 
-**Parent Topic:**[Event rules](../concept/create-event-rules.md)
+**Parent Topic:**[Event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/create-event-rules.md)
 
 **Related topics**  
 
 
 [Pattern matching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PatternMatching.md)
 
-[Use event input information](../concept/event-input-information.md)
+[Use event input information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/event-input-information.md)
 
-[Configure an event rule to customize alert content](t_EMComposeOuput.md)
+[Configure an event rule to customize alert content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMComposeOuput.md)
 
-[Refresh event rules](refresh-event-rule.md)
+[Refresh event rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/refresh-event-rule.md)
 
-[Simulate event processing](simulate-event-processing.md)
+[Simulate event processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/simulate-event-processing.md)
 
-[Filter the events that an event rule applies to](t_EMCreateFilter.md)
+[Filter the events that an event rule applies to](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md)
 

@@ -35,5 +35,5 @@ Role required: admin
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/actionable-push-notification.md)
 

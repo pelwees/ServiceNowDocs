@@ -19,11 +19,11 @@ Discounting at the transaction header level could apply a uniform discount acros
 
 Using the `.parent` system field enables the look up of a parent line-item field, which can then be applied to only the child lines of that product. For example, a picklist can be used at the header level to designate the discounting method to apply.
 
-![Discounting at the transaction header](../images/cpq-txn-mgr-use-case-apply-line-discounts-1.png)
+![Discounting at the transaction header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-apply-line-discounts-1.png)
 
 When **Parent Line Discounting** is selected, a rule sets the descendant line’s discount field equal to that of its parent line.
 
-![Discounting at the transaction header](../images/cpq-txn-mgr-use-case-apply-line-discounts-2.png)
+![Discounting at the transaction header](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-use-case-apply-line-discounts-2.png)
 
-**Parent Topic:**[Transaction Manager: Use cases](transaction-manager-use-cases.md)
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 

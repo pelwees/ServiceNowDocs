@@ -25,19 +25,19 @@ Role required: sn\_si.write
 
     The Security Operations Application screen appears.
 
-    ![Security Operations application registration](../image/secops-apps.png)
+    ![Security Operations application registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/secops-apps.png)
 
 2.  In the **Application** field, click the lookups \(magnifying glass\) icon.
 
     The Applications screen appears.
 
-    ![Applications screen](../image/applications.png)
+    ![Applications screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/applications.png)
 
 3.  Click **New**.
 
     The Application Creator screen appears.
 
-    ![Application creator](../image/app-creator.png)
+    ![Application creator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/app-creator.png)
 
     **Note:** The options that display depend on the applications you have activated. For detailed information on creating new applications, see [Building applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/build-applications.md).
 

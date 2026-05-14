@@ -13,7 +13,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 Use this dashboard to review the status of work order tasks, agent rating, and work distribution by type and state.
 
-![Field Service Contractor dashboard displaying work order task information, average agent rating, and non-compliant appointments. Additionally, graphical representations of work distribution by work type and state are displayed.](../image/seismic-dashboard.png)
+![Field Service Contractor dashboard displaying work order task information, average agent rating, and non-compliant appointments. Additionally, graphical representations of work distribution by work type and state are displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/seismic-dashboard.png)
 
 ## Required ServiceNow AI Platform roles
 
@@ -65,5 +65,5 @@ Reviews the work order task progress and agent feedback results based on the sel
 |Contractor|Reference|Filter the report results based on a selected contractor company or all.|
 |Date Range|Date|Filter the report results based on the selected date range, such as last 30 days.|
 
-**Parent Topic:**[Analytics and reporting for Field Service Management](../../../product/field-service-management/concept/analytics-reporting-fsm.md)
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../../../product/field-service-management/concept/analytics-reporting-fsm.md)
 

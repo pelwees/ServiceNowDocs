@@ -360,10 +360,10 @@ Table
 
 The Databricks collector supports Personal access token authentication and Oauth service principal authentication.
 
--   **[Prepare to run the Databricks collector](../task/prepare-to-run-the-databricks-collector.md#)**  
+-   **[Prepare to run the Databricks collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/prepare-to-run-the-databricks-collector.md#)**  
 Complete authentication and permission configuration tasks before running the Databricks metadata collector.
--   **[Create a Databricks metadata collector](../task/create-databricks-metadata-collector.md)**  
+-   **[Create a Databricks metadata collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/create-databricks-metadata-collector.md)**  
 Create a collector to import metadata from Databricks.
 
-**Parent Topic:**[Configuring metadata collectors](configure-metadata-collectors-dc.md)
+**Parent Topic:**[Configuring metadata collectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-metadata-collectors-dc.md)
 

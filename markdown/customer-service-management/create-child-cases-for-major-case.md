@@ -51,5 +51,5 @@ Creating child cases copies information from the major case to each of the child
 **Related topics**  
 
 
-[Recipients lists](../concept/major-issue-recipient-lists.md)
+[Recipients lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/major-issue-recipient-lists.md)
 

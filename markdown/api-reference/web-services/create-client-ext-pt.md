@@ -81,7 +81,7 @@ Allow access over AJAX/REST
 
 </td><td>
 
-Option for enabling access to the client extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](../../../script/ajax/topic/p_AJAX.md#) and [REST APIs](../../../integrate/inbound-rest/concept/c_RESTAPI.md).
+Option for enabling access to the client extension point over AJAX or REST. To learn more about these development architectures and techniques, see [AJAX](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/ajax/topic/p_AJAX.md#) and [REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../integrate/inbound-rest/concept/c_RESTAPI.md).
 
 </td></tr><tr><td>
 
@@ -103,5 +103,5 @@ Example of how a custom UI script that interacts with this extension point shoul
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Creating and adding a client extension point](../concept/impl-client-ext-pts-base-code.md)
+**Parent Topic:**[Creating and adding a client extension point](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/impl-client-ext-pts-base-code.md)
 

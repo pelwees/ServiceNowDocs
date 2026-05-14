@@ -33,7 +33,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
 5.  Select the **Activate skill** on the skill that you want to activate.
 
-    ![Now Assist skills available for Contract Management Pro](../image/sam-cmpro-now-assist-skills-activate.png "Now Assist skills for Contract Management Pro")
+    ![Now Assist skills available for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/sam-cmpro-now-assist-skills-activate.png "Now Assist skills for Contract Management Pro")
 
 6.  In the skill guided setup, configure the use cases and other mappings for the Contract obligation extraction and Contract metadata extraction skills.
 
@@ -58,7 +58,7 @@ When a software contract record is created, the **Initiate contract extraction**
 
 ## What to do next
 
-[Initiate metadata and obligation extraction from a signed contract in the Software Asset Workspace](extract-metadata-from-uploaded-contract-document.md)
+[Initiate metadata and obligation extraction from a signed contract in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/extract-metadata-from-uploaded-contract-document.md)
 
-**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](../concept/manage-contract-repository-workflow.md)
+**Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-contract-repository-workflow.md)
 

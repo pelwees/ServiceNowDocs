@@ -71,7 +71,7 @@ For information on how to configure a form layout, see [Configuring the form lay
 
 When an invoice is created, and both the invoice and the invoice line are in the Paid state, an expense line is automatically created for the project. This expense line has an Invoice Lines related list reference.
 
-For more information on invoice creation, see [Invoices](../reference/invoices.md).
+For more information on invoice creation, see [Invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/invoices.md).
 
 ## Impact of demand and project lifecycle on Sourcing and Procurement Operations flows
 
@@ -101,28 +101,28 @@ When requesting a quote for a product that is not available on the ShoppingHub c
 
 When a purchase order associated to a demand or project is created, updated, or canceled, the assigned demand manager or project manager gets an email notification about its impacts on the cost plans of the demand or project.
 
-**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](integrating-spo.md)
+**Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integrating-spo.md)
 
 **Related topics**  
 
 
-[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
+[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 
-[Sourcing and Procurement Operations integration with Employee Center](employee-center-integration-psm.md)
+[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-[Sourcing and Procurement Operations integration with third-party sourcing solutions](psm-integration-third-party-sourcing.md)
+[Sourcing and Procurement Operations integration with third-party sourcing solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-integration-third-party-sourcing.md)
 
-[Sourcing and Procurement Operations integration with Third-party Risk Management](better-together-with-vrm.md)
+[Sourcing and Procurement Operations integration with Third-party Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/better-together-with-vrm.md)
 
-[Sourcing and Procurement Operations integration with Celonis](integration-psm-celonis.md)
+[Sourcing and Procurement Operations integration with Celonis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-celonis.md)
 
-[Sourcing and Procurement Operations integration with Field Service Management](integration-psm-fsm.md)
+[Sourcing and Procurement Operations integration with Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-psm-fsm.md)
 
-[Source-to-Pay Operations integration with Contract Management Pro](integration-spo-cmpro.md)
+[Source-to-Pay Operations integration with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integration-spo-cmpro.md)
 
-[ERP source validation on Sourcing and Procurement Operations objects](../reference/erp-source-val-spo-objects.md)
+[ERP source validation on Sourcing and Procurement Operations objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/erp-source-val-spo-objects.md)
 
-[SpendInt APIs](spendint-api.md)
+[SpendInt APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spendint-api.md)
 
-[Procurement File Transfer Framework](procurement-file-transfer-framework.md)
+[Procurement File Transfer Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-file-transfer-framework.md)
 

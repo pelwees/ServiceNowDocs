@@ -29,8 +29,8 @@ The **Applicant interview feedback** is available by default that triggers the s
 
     For more information, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).
 
-    For more information on applicant survey in the Applicant Center, see [Applicant survey](../concept/applicant-feedback.md).
+    For more information on applicant survey in the Applicant Center, see [Applicant survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../concept/applicant-feedback.md).
 
 
-**Parent Topic:**[Configuring Applicant Center](../concept/config-applicant-center.md)
+**Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../concept/config-applicant-center.md)
 

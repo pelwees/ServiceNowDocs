@@ -36,7 +36,7 @@ Role required: sn\_hr\_ef.document\_writer, sn\_hr\_core.case\_writer
     3.  Click **Move Selected**.
     **Note:** The **Target COE** and **Topic Detail** fields can be modified only if the document has been added under the wrong type of HR case.
 
-    ![Move employee documents from agent workspace to employee document management](move-docs-workspace2.png)
+    ![Move employee documents from agent workspace to employee document management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/move-docs-workspace2.png)
 
 
 ## Result

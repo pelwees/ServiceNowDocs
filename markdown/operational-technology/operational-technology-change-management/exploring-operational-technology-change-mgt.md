@@ -29,8 +29,8 @@ With the Operational Technology Change Management application, you can use the f
 -   Integrated Operational Technology Change Management workflow with the Operational Technology Incident Management and Operational Technology Vulnerability Response applications.
 -   Aligned factory floor changes for the equipment model entities with downtime schedules.
 
--   **[Using Operational Technology Change Management to optimize your production process](operational-technology-change-request.md)**  
+-   **[Using Operational Technology Change Management to optimize your production process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-request.md)**  
 The Operational Technology Change Management application enables your team members to work collaboratively on changes to operational technology \(OT\) devices or industrial equipment configurations. These changes include any optimizations, alterations in the production process, or vulnerability fixes.
 
-**Parent Topic:**[Operational Technology Change Management](operational-technology-change-management-landing-page.md)
+**Parent Topic:**[Operational Technology Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-management-landing-page.md)
 

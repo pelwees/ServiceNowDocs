@@ -19,18 +19,18 @@ This business rule is installed with Live Feed Document. There are no tables, ro
 |-------------|-----------|
 |Live Feed integration|Writes journal comments to the Live Feed if there is a group for this record.|
 
-**Parent Topic:**[Document feeds](../concept/c_DocumentFeeds.md)
+**Parent Topic:**[Document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_DocumentFeeds.md)
 
 **Related topics**  
 
 
-[Add a Live Feed UI action on a table](../task/t_AddALiveFeedUIActionOnATable.md)
+[Add a Live Feed UI action on a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../task/t_AddALiveFeedUIActionOnATable.md)
 
-[Configure document feeds](../task/t_ConfigureDocumentFeeds.md)
+[Configure document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../task/t_ConfigureDocumentFeeds.md)
 
-[Security configuration for document feeds](../concept/c_ConfigureFeedSecurity.md)
+[Security configuration for document feeds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../concept/c_ConfigureFeedSecurity.md)
 
-[Disable a record feed](../task/t_DisableARecordFeed.md)
+[Disable a record feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../task/t_DisableARecordFeed.md)
 
-[Disable a document feed](../task/t_DisableADocumentFeed.md)
+[Disable a document feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../task/t_DisableADocumentFeed.md)
 

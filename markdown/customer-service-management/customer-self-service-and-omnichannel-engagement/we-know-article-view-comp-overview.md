@@ -15,5 +15,5 @@ breadcrumb: [Configure web components, Web Embeddables, Set up self-service, Con
 
 Displays knowledge articles along with the key details like title, content, author, view count, read time, and others. You can also rate the article and switch the language according to your preferred locale.
 
-![Knowledge article view component instance displaying knowledge article in the Preview tab.](../image/we-know-article-view-comp.png "Knowledge article view component")
+![Knowledge article view component instance displaying knowledge article in the Preview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/we-know-article-view-comp.png "Knowledge article view component")
 

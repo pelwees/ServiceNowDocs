@@ -27,7 +27,7 @@ Role required: admin
 
 3.  Click **here** to edit the CSS.
 
-    ![Edit CSS](../images/edit-css-2.png)
+    ![Edit CSS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit-css-2.png)
 
 4.  To disable the logout button from Microsoft Teams desktop application.
 
@@ -67,5 +67,5 @@ Role required: admin
 7.  Refresh the custom portal tab in Microsoft Teams.
 
 
-**Parent Topic:**[Embed a custom portal](customize-custom-portal-employee-center.md)
+**Parent Topic:**[Embed a custom portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/customize-custom-portal-employee-center.md)
 

@@ -281,27 +281,27 @@ The assessment template with the questions is ready to be sent to the entity own
 
 ## What to do next
 
-After the template is published, send it to the entity or processing activity owners to collect responses. For more information, see [Send a privacy assessment to an entity](send-privacy-assessmt-entity.md) and [Respond to a privacy screening assessment](respond-to-privacy-assmnt.md).
+After the template is published, send it to the entity or processing activity owners to collect responses. For more information, see [Send a privacy assessment to an entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-privacy-assessmt-entity.md) and [Respond to a privacy screening assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/respond-to-privacy-assmnt.md).
 
-After responses are submitted, review and approve the assessment. For more information, see [Review a privacy assessment](review-a-privacy-assessment.md).
+After responses are submitted, review and approve the assessment. For more information, see [Review a privacy assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/review-a-privacy-assessment.md).
 
-To map assessment responses to a processing activity, see [Map the processing activity fields to a question response](copy-responses-to-ropa.md).
+To map assessment responses to a processing activity, see [Map the processing activity fields to a question response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/copy-responses-to-ropa.md).
 
--   **[Write a processing activity script](configure-a-processing-activity-script.md)**  
+-   **[Write a processing activity script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-a-processing-activity-script.md)**  
 Write custom scripts on the assessment templates to update the processing activity fields using a script. The script runs when the assessment response is completed. You can write multiple scripts for both screening assessments and impact assessments.
--   **[Map a control objective to a question response](relate-control-objectives-to-ropa.md)**  
+-   **[Map a control objective to a question response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/relate-control-objectives-to-ropa.md)**  
 Map the control objectives to the responses of the assessment questions to automatically create and apply the respective controls on the processing activity.
--   **[Map an information object to a question response](relate-io-to-ropa.md)**  
+-   **[Map an information object to a question response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/relate-io-to-ropa.md)**  
 Map the \[PI\] Information objects to the responses of the assessment questions that must be associated to the processing activity. This association helps the privacy teams to understand what personal information is being processed by the processing activity.
--   **[Map a risk statement to a question response](map-risk-statements-to-pa.md)**  
+-   **[Map a risk statement to a question response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/map-risk-statements-to-pa.md)**  
 Map the risk statements to the responses of the assessment questions to automatically create and apply the respective risks on the processing activity.
--   **[Map the processing activity fields to a question response](copy-responses-to-ropa.md)**  
+-   **[Map the processing activity fields to a question response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/copy-responses-to-ropa.md)**  
 Map some of the processing activity fields with the responses of the assessment questions to update the processing activity details based on the assessment response.
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/configure-privacy-mgmt.md)
 
 **Related topics**  
 
 
-[Smart assessments in Privacy Management](../concept/smart-assessments-in-privacy-management.md)
+[Smart assessments in Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/smart-assessments-in-privacy-management.md)
 

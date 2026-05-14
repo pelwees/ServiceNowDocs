@@ -15,7 +15,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 Knowledge article versions can be in one of several states as it progresses through the creation cycle.
 
-**Note:** You need to activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](../task/activate-knowledge-advanced-plugin.md) and [Article versioning properties](../reference/r_KnowledgeProperties.md#).
+**Note:** You need to activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) and set the **glide.knowman.versioning.enabled** system property to `true`. For more information, [Activate the Knowledge Management Advanced plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/activate-knowledge-advanced-plugin.md) and [Article versioning properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../reference/r_KnowledgeProperties.md#).
 
 <table id="table_trn_kgl_yy"><thead><tr><th>
 
@@ -85,5 +85,5 @@ A more recent version of the article has been published. End users can read publ
 </table>**Related topics**  
 
 
-[Knowledge access controls](user-access-knowledge.md)
+[Knowledge access controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md)
 

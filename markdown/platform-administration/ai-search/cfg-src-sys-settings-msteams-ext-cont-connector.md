@@ -26,7 +26,7 @@ You need the following credentials and permissions for your organization in the 
 -   Permission to grant admin consent for an application's API permissions
 -   Permission to upload certificates for an application
 
-You must have created a public/private key pair for the Microsoft Teams external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft Teams external content connector](gen-cert-msteams-ext-cont-connector.md).
+You must have created a public/private key pair for the Microsoft Teams external content connector and extracted the public key certificate in DER-encoded binary X.509 format. For details on creating the public/private key pair and extracting the public key certificate, see [Create a public/private key pair for the Microsoft Teams external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/gen-cert-msteams-ext-cont-connector.md).
 
 Role required: none
 
@@ -48,7 +48,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     3.  On the App registrations page, select **New registration**.
 
-        ![App registrations page in Microsoft Entra admin center with New registration link.](../image/ms-entra-home-app-registrations.png)
+        ![App registrations page in Microsoft Entra admin center with New registration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-home-app-registrations.png)
 
     4.  On the Register an application form, fill in the following fields:
 
@@ -58,7 +58,7 @@ To enable the connector to access your Microsoft Teams source system via these A
         |Supported account types|Select **Accounts in this organizational directory only \(&lt;instance-name&gt; only - Single tenant\)**, where `<instance-name>` is the name of your Microsoft Entra instance.|
         |Redirect URI \(optional\)|Leave this field empty.|
 
-        ![Register an application dialog box in Microsoft Entra admin center.](../image/ms-teams-entra-register-application.png)
+        ![Register an application dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-register-application.png)
 
     5.  Select **Register**.
 
@@ -66,7 +66,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
 2.  Record the values of the **Application \(client\) ID** and **Directory \(tenant\) ID** properties in a secure location.
 
-    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](../image/ms-teams-entra-app-overview.png)
+    ![Application's overview page in Microsoft Entra admin center showing application/client and directory/tenant ID values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-app-overview.png)
 
     **Important:** Your connector admin needs the application's tenant and client IDs to configure a Microsoft Teams external content connector.
 
@@ -74,11 +74,11 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     1.  In the application menu, select **Manage** &gt; **API permissions**.
 
-        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](../image/ms-teams-entra-api-permissions-before.png)
+        ![Application's API permissions list in Microsoft Entra admin center with Add a permission link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-api-permissions-before.png)
 
     2.  Select **Add a permission**, then select **Microsoft Graph**, then select **Application permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](../image/ms-entra-request-api-permissions-ms-graph.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing Microsoft Graph tile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-ms-graph.png)
 
     3.  For each of the following permissions, enter the permission name into the **Select permissions** search field, then locate and select the option for the permission.
 
@@ -95,7 +95,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     5.  Select **Add a permission**, then select **SharePoint**, then select **Application permissions**.
 
-        ![Request API permissions dialog box in Microsoft Entra admin center showing SharePoint tile.](../image/ms-entra-request-api-permissions-sharepoint.png)
+        ![Request API permissions dialog box in Microsoft Entra admin center showing SharePoint tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-entra-request-api-permissions-sharepoint.png)
 
     6.  In the **Select permissions** search field, enter `Sites.FullControl.All`, then locate and select the option for the permission.
 
@@ -103,7 +103,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
         The new SharePoint permission appears in the application's Configured permissions list.
 
-    ![Application's API permissions list in Microsoft Entra admin center showing added permissions needing admin consent.](../image/ms-teams-entra-api-permissions-grant-consent.png)
+    ![Application's API permissions list in Microsoft Entra admin center showing added permissions needing admin consent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-api-permissions-grant-consent.png)
 
 4.  Grant admin consent for the added API permissions.
 
@@ -111,7 +111,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     2.  In the Grant admin consent confirmation dialog box, select **Yes**.
 
-        ![Application's API permissions list in Microsoft Entra admin center showing added permissions with admin consent granted.](../image/ms-teams-entra-api-permissions-after.png)
+        ![Application's API permissions list in Microsoft Entra admin center showing added permissions with admin consent granted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-api-permissions-after.png)
 
     The status for the added API permissions changes to `Granted for <instance-name>`, where `<instance-name>` is the name of your Microsoft Entra instance.
 
@@ -121,11 +121,11 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     2.  Select **Certificates**, then select **Upload certificate**.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](../image/ms-teams-entra-certificates-secrets-before.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing Upload certificate link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-certificates-secrets-before.png)
 
     3.  Select **Select a file** and locate your DER-encoded binary X.509 format public key certificate file, then enter a description for it.
 
-        ![Upload certificate dialog box in Microsoft Entra admin center.](../image/ms-teams-entra-upload-certificate.png)
+        ![Upload certificate dialog box in Microsoft Entra admin center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-upload-certificate.png)
 
     4.  Select **Add**.
 
@@ -135,7 +135,7 @@ To enable the connector to access your Microsoft Teams source system via these A
 
     5.  Copy the certificate's **Thumbprint** SHA1 hash, shown in hexadecimal format, and record it in a secure location.
 
-        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](../image/ms-teams-entra-certificates-secrets-after.png)
+        ![Application's Certificates & secrets page in Microsoft Entra admin center showing thumbprint SHA1 hash value for uploaded certificate.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ms-teams-entra-certificates-secrets-after.png)
 
         **Important:** Your connector admin needs the DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in base64-encoded format to configure the Microsoft Teams external content connector.
 
@@ -148,12 +148,12 @@ To enable the connector to access your Microsoft Teams source system via these A
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](cfg-src-sys-settings-msteams-ext-cont-connector.md#client-tenant-ids-step).
--   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](cfg-src-sys-settings-msteams-ext-cont-connector.md#certificate-thumbprint-step).
+-   The OAuth 2.0 application's tenant ID and client ID that you recorded in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-src-sys-settings-msteams-ext-cont-connector.md#client-tenant-ids-step).
+-   The DER-encoded binary X.509 format public key certificate's SHA1 thumbprint hash in hexadecimal format that you recorded in step [5.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-src-sys-settings-msteams-ext-cont-connector.md#certificate-thumbprint-step).
 
 Your connector admin needs these items to configure a Microsoft Teams external content connector to retrieve searchable content and security principals from your Microsoft Teams instance.
 
-For details on creating and configuring a Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](create-ext-cont-connector-msteams.md).
+For details on creating and configuring a Microsoft Teams external content connector, see [Create a Microsoft Teams external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-msteams.md).
 
-**Parent Topic:**[Microsoft Teams external content connector](../concept/microsoft-teams-external-content-connector.md)
+**Parent Topic:**[Microsoft Teams external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/microsoft-teams-external-content-connector.md)
 

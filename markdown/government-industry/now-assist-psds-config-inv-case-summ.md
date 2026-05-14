@@ -51,7 +51,7 @@ Activate and customize the Investigative case summarization skill in the Now Ass
 
 3.  On the card for the Investigative case summarization Al skill, select **Activate Skill**.
 
-    ![Investigative case summarization Al skill card that displays the skill to be activated.](../image/psds-nowassist-ics-activate.png)
+    ![Investigative case summarization Al skill card that displays the skill to be activated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-nowassist-ics-activate.png)
 
 4.  In the General details section, select **Save and continue**.
 
@@ -73,6 +73,6 @@ Activate and customize the Investigative case summarization skill in the Now Ass
 
 11. Verify that the skill is activated on the Investigative case summarization skill card.
 
-    ![Document screening Al skill is active.](../image/psds-doc-screening-skill-activated.png)
+    ![Document screening Al skill is active.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-doc-screening-skill-activated.png)
 
 

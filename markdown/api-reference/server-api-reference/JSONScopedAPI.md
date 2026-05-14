@@ -19,7 +19,7 @@ For scoped applications, the JSON API uses static methods that call the JavaScri
 
 **Note:** Use the global keyword with JSON method calls in scoped scripts, for example, `global.JSON.stringify()`. Not using the global keyword could result in an error message, such as `ScopedRhinoObjectWrapper: not a wrappable type: com.glide.script.FieldGlideDescriptor`.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## Scoped JSON - parse\(String str\)
 

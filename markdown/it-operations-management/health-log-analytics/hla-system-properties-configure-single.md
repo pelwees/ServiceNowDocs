@@ -44,13 +44,13 @@ For a complete description of all the Health Log Analytics system properties, se
 
 The new value overrides the previous setting for the selected log source.
 
--   **[Configure global Health Log Analytics system properties](hla-system-properties-configure.md)**  
+-   **[Configure global Health Log Analytics system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure.md)**  
 Configure global Health Log Analytics system properties if you need to alter the default values, which should not usually be necessary.
 
-**Parent Topic:**[Administering Health Log Analytics](../concept/hla-administer.md)
+**Parent Topic:**[Administering Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-administer.md)
 
 **Related topics**  
 
 
-[Configure global Health Log Analytics system properties](hla-system-properties-configure.md)
+[Configure global Health Log Analytics system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure.md)
 

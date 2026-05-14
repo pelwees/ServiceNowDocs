@@ -35,7 +35,7 @@ This type of filtering helps you to isolate Microsoft DLP  events to limit the
 
     The options in the first field in the **Filter Conditions** match the fields that are available in the Microsoft DLP event. The criteria that you enter are case-sensitive. Verify that the criteria you define match the values of the event.
 
-    ![Define filters to apply for the Incident creation.](../../data-loss-prevention/image/filtering-microsoftdlp.gif)
+    ![Define filters to apply for the Incident creation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../../data-loss-prevention/image/filtering-microsoftdlp.gif)
 
 3.  Add more conditions by clicking  **AND**  or  **OR**.
 
@@ -46,5 +46,5 @@ This type of filtering helps you to isolate Microsoft DLP  events to limit the
     Earlier, UserID was mapped only to the Source User field but, the UserID field is currently available as a lookup attribute for all Purview events, including Endpoint events.
 
 
-**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](create-profile-microsoft-dlp-integration.md)
+**Parent Topic:**[Create a new incident profile for Microsoft DLP integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-microsoft-dlp-integration.md)
 

@@ -55,7 +55,7 @@ Credentials
 
 Name of the credentials that you have created for AWS discovery. Leave the field empty if the account is a member account of an AWS organization and you've configured the associated management account with a credential.
 
- To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+ To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -120,7 +120,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for Microsoft Azure discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for Microsoft Azure discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Pull Events
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](../../it-operations-management/concept/azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/concept/azure-change-processing.md). If you select the Pull Events check-box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table><table id="table_sfg_t55_fwb"><thead><tr><th>
@@ -179,7 +179,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for GCP discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for GCP discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -220,7 +220,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for IBM discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for IBM discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -269,7 +269,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for Oracle Cloud Infrastructure \(OCI\) discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for Oracle Cloud Infrastructure \(OCI\) discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -318,7 +318,7 @@ Account credentials
 
 </td><td>
 
-Name of the credentials that you have created for OpenStack discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for OpenStack discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -367,7 +367,7 @@ Manager credentials
 
 </td><td>
 
-Name of the credentials that you have created for RHV discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for RHV discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr></tbody>
 </table><table id="table_kw1_fv5_fwb"><thead><tr><th>
@@ -412,7 +412,7 @@ Credentials
 
 </td><td>
 
-Name of the credentials that you have created for VMware discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](../../../reuse/itom/image/workspace-icon-edit.png)\).
+Name of the credentials that you have created for VMware discovery. To add a credential in the ServiceNow AI Platform, select the Add new credentials icon \(![Add new credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-add.png)\) and fill in the fields. If required, you can select an existing credential and then edit it by selecting the Edit credentials icon \(![Edit credentials icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../../reuse/itom/image/workspace-icon-edit.png)\).
 
 </td></tr><tr><td>
 
@@ -423,5 +423,5 @@ URL
 Full URL of the vCenter.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Cloud Discovery reference](cloud-discovery-reference.md)
+</table>**Parent Topic:**[Cloud Discovery reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-reference.md)
 

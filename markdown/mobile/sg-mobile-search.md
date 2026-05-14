@@ -21,31 +21,31 @@ Text search
 
  Use search in the launcher screen header to quickly find information within the defined search sources while on your mobile device.
 
- Your administrator can configure global search within a launcher screen header and define a set of tables that can be searched through. For details on how an administrator can configure global search, see [Enable global search in your screen launcher](../task/sg-configure-alp-search.md).
+ Your administrator can configure global search within a launcher screen header and define a set of tables that can be searched through. For details on how an administrator can configure global search, see [Enable global search in your screen launcher](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/sg-configure-alp-search.md).
 
 </td><td>
 
-![Launcher screen with search bar and voice search button](../image/voice-search-1.png)
+![Launcher screen with search bar and voice search button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/voice-search-1.png)
 
 </td></tr><tr><td>
 
-![Voice search screen](../image/voice-search.png)
+![Voice search screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/voice-search.png)
 
 </td><td>
 
 Voice search
 
- If enabled by your administrator, you can tap to talk on the microphone icon \(![Search icon](../image/search-mic.png)\) to the right of the search bar. You can then speak to your device and your voice is captured as search text. For details on how an administrator can configure voice search, see [Enable voice search](../../mobile-employee/task/turn-on-voice-search.md).
+ If enabled by your administrator, you can tap to talk on the microphone icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/search-mic.png)\) to the right of the search bar. You can then speak to your device and your voice is captured as search text. For details on how an administrator can configure voice search, see [Enable voice search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../../mobile-employee/task/turn-on-voice-search.md).
 
 </td></tr><tr><td>
 
 Photo search
 
- If enabled by your administrator, you can tap on the camera icon \(![Photo search icon](../image/sg-icon-image-search.png)\) to the right of the search bar to perform image-based searches. For details on how an administrator can configure photo search, see [Mobile photo search](sg-mobile-image-search.md).
+ If enabled by your administrator, you can tap on the camera icon \(![Photo search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/sg-icon-image-search.png)\) to the right of the search bar to perform image-based searches. For details on how an administrator can configure photo search, see [Mobile photo search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-image-search.md).
 
 </td><td>
 
-![Photo search screen](../image/photo-search-2.png)
+![Photo search screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/photo-search-2.png)
 
 </td></tr></tbody>
 </table>

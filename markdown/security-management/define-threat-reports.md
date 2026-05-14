@@ -91,5 +91,5 @@ Reported Observables
 Lists of observables reported in the threat report.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat reports](../concept/threat-reports.md)
+</table>**Parent Topic:**[Threat reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/threat-reports.md)
 

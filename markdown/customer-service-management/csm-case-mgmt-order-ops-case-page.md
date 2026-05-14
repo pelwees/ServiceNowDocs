@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[Create New Order Case intake page](csm-order-ops-order-case-intake-page.md)
+[Create New Order Case intake page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-intake-page.md)
 
 </td><td>
 
@@ -35,7 +35,7 @@ When an agent initiates an order case and selects a service from the case type s
 
 </td></tr><tr><td>
 
-[Order case record page](csm-order-ops-order-case-record-page.md)
+[Order case record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md)
 
 </td><td>
 
@@ -49,7 +49,7 @@ The Order case record page displays the order case and a list of the order case 
 
 </td></tr><tr><td>
 
-[Order case line item record page](csm-order-ops-order-case-line-page.md)
+[Order case line item record page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-line-page.md)
 
 </td><td>
 

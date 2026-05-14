@@ -34,5 +34,5 @@ By default, the size of dynamic CI group records is limited to 10,000 elements. 
 3.  Set the value to an integer that represents the maximum number of records to return.
 
 
-**Parent Topic:**[Create an SLA configuration for CIs](t_EMCreateAnSLAConfiguration.md)
+**Parent Topic:**[Create an SLA configuration for CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateAnSLAConfiguration.md)
 

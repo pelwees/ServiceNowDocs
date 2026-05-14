@@ -15,11 +15,11 @@ The Windows methods in RPA Desktop Design Studio interact with the Windows appli
 
 ## Windows connector method levels
 
-[Connector level methods](connectors-windows-methods.md#connector-level-windows)
+[Connector level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-windows-methods.md#connector-level-windows)
 
-[Window level methods](connectors-windows-methods.md#windows-screen-level-methods)
+[Window level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-windows-methods.md#windows-screen-level-methods)
 
-[Element level methods](connectors-windows-methods.md#windows-element-level-methods)
+[Element level methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connectors-windows-methods.md#windows-element-level-methods)
 
 ## Connector level methods
 
@@ -41,7 +41,7 @@ Sets the working directory of the application for all file operations through th
 
 -   **Input**
 
-    [Path](method-parameter-windows.md#Path-windows)
+    [Path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#Path-windows)
 
 
 ## Start
@@ -50,7 +50,7 @@ Starts the application.
 
 -   **Input**
 
-    [Path](method-parameter-windows.md#Path-windows) [Args](method-parameter-windows.md#Args-windows)
+    [Path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#Path-windows) [Args](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#Args-windows)
 
 
 ## Terminate
@@ -69,14 +69,14 @@ Returns the data in the form fields of the screen. You must configure the method
 
 To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the form elements.
 3.  Update the form element data type.
 4.  Click **OK**.
 
 -   **Output**
 
-    [Form element data](method-parameter-windows.md#GetFields-output-formelementdata)
+    [Form element data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#GetFields-output-formelementdata)
 
 
 ## GetScreenShot
@@ -85,7 +85,7 @@ Captures the screenshot of the screen.
 
 -   **Output**
 
-    [Return \(Bitmap\)](method-parameter-windows.md#GetScreenShot-return-Bitmap)
+    [Return \(Bitmap\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#GetScreenShot-return-Bitmap)
 
 
 ## IsCreated
@@ -94,11 +94,11 @@ Returns the Boolean response depending on whether a specific window matches the 
 
 -   **Inputs**
 
-    [MatchAllChildren](../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
+    [MatchAllChildren](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-output-return-boolean-iscreated)
+    [Return \(Boolean\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-output-return-boolean-iscreated)
 
 
 ## Maximize
@@ -115,25 +115,25 @@ Simulates keystrokes on web pages and windows.
 
 -   **Inputs**
 
-    [Keys](../reuse/application-level-method-parameters.md#common-parameter-inputs-keys)
+    [Keys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-inputs-keys)
 
-    [ClearExistingValue \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-input-ClearExistingValue)
+    [ClearExistingValue \(Boolean\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-input-ClearExistingValue)
 
-    [TypeDelay](../reuse/application-level-method-parameters.md#common-parameter-input-typedelay)
+    [TypeDelay](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-input-typedelay)
 
 
 ## SetFields
 
 Sets data in form field types. To set the form fields, you must first configure the method. To configure, do the following steps.
 
-1.  Click the method settings icon \(![Method settings icon.](../image/component-settings-icon.png)\).
+1.  Click the method settings icon \(![Method settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\).
 2.  Select the form elements.
 3.  Update the form element data type.
 4.  Click **OK**.
 
 -   **Input**
 
-    [Form data field](method-parameter-windows.md#setfields-input-Formdatafield)
+    [Form data field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/method-parameter-windows.md#setfields-input-Formdatafield)
 
 
 ## WaitForCreate
@@ -142,13 +142,13 @@ Sets delay before a web page or a window loads.
 
 -   **Inputs**
 
-    [timeoutInSeconds](../reuse/application-level-method-parameters.md#common-parameter-input-timeoutInSeconds)
+    [timeoutInSeconds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-input-timeoutInSeconds)
 
-    [MatchAllChildren](../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
+    [MatchAllChildren](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-input-matchallchildren)
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/application-level-method-parameters.md#common-parameter-output-Return-Boolean-waitforcreate)
+    [Return \(Boolean\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/application-level-method-parameters.md#common-parameter-output-Return-Boolean-waitforcreate)
 
 
 ## Element level methods
@@ -165,7 +165,7 @@ Checks whether an element matches the rules set in the MATCH CHILDREN window.
 
 -   **Outputs**
 
-    [Return \(Boolean\)](../reuse/element-level-method-parameters.md#parameter-common-output-iscreated)
+    [Return \(Boolean\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameter-common-output-iscreated)
 
 
 ## SendKeys
@@ -174,18 +174,18 @@ Simulates keystrokes on web pages and windows.
 
 -   **Inputs**
 
-    [Keys \(String\)](../reuse/element-level-method-parameters.md#parameter-common-sendkeys-keys-string)
+    [Keys \(String\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameter-common-sendkeys-keys-string)
 
-    [ClearExistingValue](../reuse/element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
+    [ClearExistingValue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameters-common-input-clearexistingvalue)
 
-    [TypeDelay \(Double\)](../reuse/element-level-method-parameters.md#parameters-common-input-typedelay)
+    [TypeDelay \(Double\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../reuse/element-level-method-parameters.md#parameters-common-input-typedelay)
 
 
 ## SetPassword
 
 Automate entering password securely in the password field of a Windows application.
 
-To provide inputs to the fields see [Configure port properties](../task/configure-input-port-properties.md).
+To provide inputs to the fields see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../task/configure-input-port-properties.md).
 
 <table id="table_jrs_nts_vzb"><thead><tr><th>
 
@@ -272,5 +272,5 @@ Yes
 **Tip:** If the **SetPassword** method fails to input the password in the password field, set the value to **True** and execute the method again.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Windows connector](../concept/windows-connector.md)
+</table>**Parent Topic:**[Windows connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/windows-connector.md)
 

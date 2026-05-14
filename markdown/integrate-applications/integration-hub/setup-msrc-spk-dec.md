@@ -36,11 +36,11 @@ Set up an outbound integration between your ServiceNow instance and the Microsof
 
 6.  In the Microsoft Security Response Center tile, select **View Details**.
 
-    ![View Details button on Microsoft Security Response Center alias card.](../image/microsoft-sec-resp-center-view-details.png)
+    ![View Details button on Microsoft Security Response Center alias card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/microsoft-sec-resp-center-view-details.png)
 
 7.  Select **Configure**.
 
-    ![Configure button to configure Microsoft Security Center spoke connection record.](../image/msc-spoke-configure.png)
+    ![Configure button to configure Microsoft Security Center spoke connection record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/msc-spoke-configure.png)
 
 8.  Fill the Configure Connection form.
 
@@ -77,7 +77,7 @@ API Key
 API key that you copied from the [Microsoft Security Update API](https://portal.msrc.microsoft.com/en-us/developer) page.
 
 </td></tr></tbody>
-</table>    ![Connection form.](../image/msc-spoke-connection-form.png)
+</table>    ![Connection form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/msc-spoke-connection-form.png)
 
 9.  Select **Configure Connection**.
 

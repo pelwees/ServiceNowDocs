@@ -79,7 +79,7 @@ Integrate the ServiceNow instance and SAP Fieldglass account using API keys to a
 
     3.  Select the buyer credential record for **Credentials \[SAP Fieldglass Buyer Credentials\]**.
 
-        ![Generate buyer token](../image/fieldglass-buyer-token.png)
+        ![Generate buyer token](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/fieldglass-buyer-token.png)
 
     4.  Test the flow.
 

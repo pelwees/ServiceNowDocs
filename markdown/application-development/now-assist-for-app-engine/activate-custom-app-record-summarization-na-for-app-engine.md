@@ -35,5 +35,5 @@ The custom app record summarization skill is active.
 
 ## What to do next
 
-To use the skill to generate summaries for the tables in your custom applications, you must configure the skill. See [Configure the custom app record summarization skill](configure-custom-app-record-summarization-na-for-app-engine.md) for more information.
+To use the skill to generate summaries for the tables in your custom applications, you must configure the skill. See [Configure the custom app record summarization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-app-engine/configure-custom-app-record-summarization-na-for-app-engine.md) for more information.
 

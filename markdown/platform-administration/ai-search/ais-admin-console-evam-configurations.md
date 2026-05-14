@@ -104,13 +104,13 @@ Procedure
 </td><td>
 
 1.  From the View configs list, identify an EVAM view configuration that you want to edit.
-2.  Select the **More Actions icon \(![More Actions.](../../localization-framework/image/more-actions-icon.png)\)** &gt; **Edit**.
+2.  Select the **More Actions icon \(![More Actions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../../localization-framework/image/more-actions-icon.png)\)** &gt; **Edit**.
 
 
 </td></tr></tbody>
 </table>7.  On the form, fill in the fields.
 
-    For a description of the field values, see [Edit view config form](../reference/ais-edit-view-config-form.md).
+    For a description of the field values, see [Edit view config form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/ais-edit-view-config-form.md).
 
 8.  In the Preview Card section, review the auto-generated JSON to verify the edits that you made to the view configuration.
 
@@ -123,7 +123,7 @@ Changes made to search result EVAM cards take effect immediately in AI Search ap
 
 ## What to do next
 
-After creating a view configuration, you must activate it. For more information, see [Activate or deactivate an EVAM view configuration](enable-evam-config-ais-admin-console.md).
+After creating a view configuration, you must activate it. For more information, see [Activate or deactivate an EVAM view configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/enable-evam-config-ais-admin-console.md).
 
-**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](../concept/ais-admin-console-managing-evam.md)
+**Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/ais-admin-console-managing-evam.md)
 

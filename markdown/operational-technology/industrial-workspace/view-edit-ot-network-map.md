@@ -39,13 +39,13 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
 
 8.  To view the **Connection Summary** between subnet nodes, hover over the dashed line between the nodes as shown in the following image.
 
-    ![Connection Summary shown between subnet nodes](../image/connection-summary.png)
+    ![Connection Summary shown between subnet nodes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/connection-summary.png)
 
 9.  To expand a subnet and view its individual device nodes, select the number on the subnet node.
 
     The number on the subnet node represents the total number of devices in the subnet. The following image shows an example of the device number.
 
-    ![Total number of devices shown on the subnet node](../image/total-device-number-network-map.png)
+    ![Total number of devices shown on the subnet node](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/total-device-number-network-map.png)
 
     **Note:** You can only expand one subnet at a time. For example, if Subnet A is expanded and you try to expand Subnet B, Subnet A automatically collapses.
 
@@ -54,18 +54,18 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
     1.  To access the contextual actions, right-click the node or next to the device node name, select the dropdown.
     2.  Select **Set as Home node**.
 
-        ![Set as home node menu option in the network map](../image/ot-network-map-set-as-home.png)
+        ![Set as home node menu option in the network map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ot-network-map-set-as-home.png)
 
         The selected device node is set as the home node and the node icon changes as shown in the following image.
 
-        ![Device node set as home node with updated node home image](../image/home-node.png)
+        ![Device node set as home node with updated node home image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/home-node.png)
 
 11. To view the attributes for a device node, complete the following steps.
 
     1.  To access the contextual actions, right-click the node or next to the device node name, select the dropdown.
     2.  Select **Show attributes**.
 
-        ![Show attributes menu option on the Network Map](../image/ot-network-map-show-attributes.png)
+        ![Show attributes menu option on the Network Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/ot-network-map-show-attributes.png)
 
         A side panel opens that shows the following attributes for the selected device node:
 
@@ -80,7 +80,7 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
     1.  To access the contextual actions, right-click the node or next to the device node name, select the dropdown.
     2.  Select **Show device connections**.
 
-        ![Show device connections UI action](../image/context-actions-device-node.png)
+        ![Show device connections UI action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/context-actions-device-node.png)
 
         The network map updates to highlight the device-to-device connections and to show both connections within the same subnet, represented by a solid line, and cross-subnet connections, represented by a dashed line.
 
@@ -88,7 +88,7 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
 
         The following image shows an example of the device connection summary on the dashed line.
 
-        ![Device connection summary shown for a device to device connection](../image/device-connection-summary.png)
+        ![Device connection summary shown for a device to device connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../image/device-connection-summary.png)
 
     4.  To escape this view, select the dropdown again and click **Hide device connections**.
 13. To apply filters to the map to refine the nodes shown, complete the following steps.
@@ -111,5 +111,5 @@ Role required: cmdb\_ot\_isa\_viewer role and cmdb\_ot\_viewer
 15. To align the map back on the home node, select the **Align to home node** ![](../image/align-home-node.png) icon in the control panel.
 
 
-**Parent Topic:**[Using the Industrial Workspace](../../operational-technology-management/concept/using-industrial-workspace.md)
+**Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/../../operational-technology-management/concept/using-industrial-workspace.md)
 

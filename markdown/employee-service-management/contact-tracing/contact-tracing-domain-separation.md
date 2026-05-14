@@ -29,13 +29,13 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Domain separation and Contact Tracing Overview
 
-Service providers need to be able to manage multiple customers in a single instance to deliver their services via Contact Tracing in the [Safe Workplace](../../human-resources/concept/safe-workplace.md) suite. Beginning with the Paris release, scheduled jobs introduced support for domain separation at the Standard level.
+Service providers need to be able to manage multiple customers in a single instance to deliver their services via Contact Tracing in the [Safe Workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../human-resources/concept/safe-workplace.md) suite. Beginning with the Paris release, scheduled jobs introduced support for domain separation at the Standard level.
 
 Admins must install the [Domain separation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md) before working with the Contact Tracing tables.
 
-See [Domain separation and Safe Workplace suite](../../workplace-safety-mgmt/concept/domain-separation-safe-workplace.md) to learn how to set up Contact Tracing with domain separation.
+See [Domain separation and Safe Workplace suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../workplace-safety-mgmt/concept/domain-separation-safe-workplace.md) to learn how to set up Contact Tracing with domain separation.
 
-**Parent Topic:**[Setting up Contact Tracing](set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
 **Related topics**  
 

@@ -15,20 +15,20 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Add a fun, interactive 404 page to pages that do not exist using the Breakout Game widget. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-![Breakout Game widget](../image/WidgetBreakoutGame.png "Breakout Game widget")
+![Breakout Game widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/WidgetBreakoutGame.png "Breakout Game widget")
 
 ## Instance options
 
 The Breakout Game does not have instance option. You can use it as an example of how to use the Link Function as part of an Angular Directive.
 
-**Parent Topic:**[Example widgets](sp-example-widgets.md)
+**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

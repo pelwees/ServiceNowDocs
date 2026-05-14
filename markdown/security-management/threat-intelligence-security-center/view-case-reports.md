@@ -33,13 +33,13 @@ Role required: sn\_sec\_tisc.analyst
 
 5.  Go to **Case Reports**.
 
-    ![Case Reports](../image/tisc-case-reports.png)
+    ![Case Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-case-reports.png)
 
     **Note:** You can delete the reports from the list, create a duplicate copy of the existing reports and customize your own report.
 
 6.  Click **New**.
 
-    The report templates that are published and enabled in the base system are displayed.![New report template](../image/tisc-new-report.png)
+    The report templates that are published and enabled in the base system are displayed.![New report template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-new-report.png)
 
 7.  Select the desired Report Template.
 
@@ -72,7 +72,7 @@ Role required: sn\_sec\_tisc.analyst
 
 12. Click on **Share Report in Email** to share the report.
 
-    While sharing the report, the PDF report that was generated is attached as an attachment to the Email.![Share report in email](../image/tisc-share-email.png)
+    While sharing the report, the PDF report that was generated is attached as an attachment to the Email.![Share report in email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-share-email.png)
 
 13. Add the required email fields such as To \(whom you want to share the report\), CC, and BCC
 
@@ -83,24 +83,24 @@ Role required: sn\_sec\_tisc.analyst
     The report will be shared with the larger group of users.
 
 
-**Parent Topic:**[Threat Analyst Workbench](../concept/threat-analyst-workbench.md)
+**Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/threat-analyst-workbench.md)
 
 **Related topics**  
 
 
-[Workbench Overview](../concept/workbench-overview.md)
+[Workbench Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/workbench-overview.md)
 
-[Creating cases using Threat Analyst Workbench](../concept/create-cases-using-threat-analyst-workbench.md)
+[Creating cases using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/create-cases-using-threat-analyst-workbench.md)
 
-[Creating case task using Threat Analyst Workbench](tisc-create-case-task.md)
+[Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-case-task.md)
 
-[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 
-[Add artifacts to case\(s\) or case task\(s\)](add-artifacts-to-a-case-s.md)
+[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 
-[Run Enrichment Actions within a case](run-enrichment-results.md)
+[Run Enrichment Actions within a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/run-enrichment-results.md)
 
-[Create a security incident from a TISC case](tisc-create-si-case.md)
+[Create a security incident from a TISC case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-si-case.md)
 
-[Upload Secure File Attachments](secure-file-attachments.md)
+[Upload Secure File Attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/secure-file-attachments.md)
 

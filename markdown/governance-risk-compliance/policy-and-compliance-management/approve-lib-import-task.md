@@ -31,7 +31,7 @@ Role required: sn\_compliance.manager
 
     Review the details of the library import task and either import or reject the record as shown in the following example.
 
-    ![Import or reject a library import task.](../image/import-or-reject-lit.png "Import or reject a library import task")
+    ![Import or reject a library import task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/import-or-reject-lit.png "Import or reject a library import task")
 
     Clicking **Import** imports the record that is associated with the library import task into the GRC: Policy and Compliance Management staging tables.
 
@@ -41,7 +41,7 @@ Role required: sn\_compliance.manager
 
     The task is submitted to the compliance managers group for approval. The state of the library import task is updated to Submitted for approval as shown in the following example.
 
-    ![Task submitted for approval.](../image/lit-submitted-for-approval.png "Task submitted for approval")
+    ![Task submitted for approval.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/lit-submitted-for-approval.png "Task submitted for approval")
 
 6.  Review the library import task and click **Approve**.
 
@@ -49,25 +49,25 @@ Role required: sn\_compliance.manager
 
     **Note:** Clicking **Reject** rejects the library import task and moves it to New state again as shown in the following example.
 
-    ![Library import task in Ready for import state.](../image/lit-ready-for-import.png "Library import task in Ready for import state")
+    ![Library import task in Ready for import state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/lit-ready-for-import.png "Library import task in Ready for import state")
 
     When the task is in the Ready for import state, the Import action is displayed as shown in the following example.
 
-    ![Task to be imported.](../image/lit-import.png "Task to be imported")
+    ![Task to be imported.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/lit-import.png "Task to be imported")
 
 7.  Click **Import**.
 
     This action imports the staging records under the library import task into the GRC: Policy and Compliance Management tables. You can view the tables by navigating to the authority document tables, citation tables, or control objectives tables in the GRC: Policy and Compliance Management application. See the sample Authority documents table as shown in the following example.
 
-    ![Authority documents table.](../image/lit-authority-documents.png "Authority documents table")
+    ![Authority documents table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/lit-authority-documents.png "Authority documents table")
 
     When you click an authority document, such as AD0020004 that is displayed in the table, it displays the details of the authority document staging record. In the staging record, the Document status field on the form displays information on the current document status. When the document status field value is New or Update, the Import or Reject actions are available for the record, and the import task can be imported or rejected as shown in the following example.
 
-    ![Import or reject actions for a new document.](../image/import-reject-import-actions.png "Import or reject actions for a new document")
+    ![Import or reject actions for a new document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/import-reject-import-actions.png "Import or reject actions for a new document")
 
     When the document status field value is No change, only the Ignore option is available in the Import action for the record. The import task can be ignored as shown in the following example.
 
-    ![Ignore action for no change in the document status.](../image/ignore-import-action.png "Ignore action for no change in the document status")
+    ![Ignore action for no change in the document status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/ignore-import-action.png "Ignore action for no change in the document status")
 
     See the following table for the criteria of the Document status field values.
 

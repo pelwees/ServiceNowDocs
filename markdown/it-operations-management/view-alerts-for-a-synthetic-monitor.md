@@ -25,12 +25,12 @@ To view alerts for a specific monitor, follow this procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](../image/sys-mon-icon.png)\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(![Synthetic monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../image/sys-mon-icon.png)\).
 
 2.  Select a monitor from the list of all monitors and then select the **Alerts** tab.
 
     The **Alerts** tab shows the alerts for the monitor. Select an alert to view details.
 
-    **Note:** The alert shows the impacted service associated with the monitor. If for some reason this field isn't populated, see [Impacted Service not appearing in alerts](../reference/troubleshoot-related-services.md).
+    **Note:** The alert shows the impacted service associated with the monitor. If for some reason this field isn't populated, see [Impacted Service not appearing in alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../reference/troubleshoot-related-services.md).
 
 

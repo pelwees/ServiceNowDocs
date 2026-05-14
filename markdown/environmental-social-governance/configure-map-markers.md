@@ -40,7 +40,7 @@ Role required: sn\_esg.admin
 
 ## What to do next
 
-Define data range configurations. See [Map data range configurations](map-data-range-configurations.md).
+Define data range configurations. See [Map data range configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/map-data-range-configurations.md).
 
-**Parent Topic:**[Configure Sustainable IT](../concept/configure-sustainable-it.md)
+**Parent Topic:**[Configure Sustainable IT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../concept/configure-sustainable-it.md)
 

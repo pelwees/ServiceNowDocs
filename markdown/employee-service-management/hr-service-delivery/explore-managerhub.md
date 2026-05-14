@@ -15,7 +15,7 @@ breadcrumb: [Manager Hub, HR Service Delivery, Employee Service Management]
 
 Learn how to set up and start using Manager Hub.
 
-![Overview](../image/manager-hub.png)
+![Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/manager-hub.png)
 
 ## 1. Activating application
 
@@ -31,11 +31,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Configure roles, team data, team requests, important dates, team column data, team filters, daily stats, and Employee Center and other Service Portals. Display curated and personalized data to managers in Manager Hub.
 
-To learn more about this, see [Configure Manager Hub](../task/set-up-managerhub.md) and [Reference for Manager Hub](../reference/reference-manager-hub.md).
+To learn more about this, see [Configure Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/set-up-managerhub.md) and [Reference for Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/reference-manager-hub.md).
 
 ## 3. Using Manager Hub in Employee Center
 
 Have a better engagement with your team — Act on items that need immediate attention, keep yourself up-to-date on upcoming team events and employee transitions, and expand your leadership skills.
 
-To learn more about this, see [Use Manager Hub](../task/use-manager-hub.md).
+To learn more about this, see [Use Manager Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/use-manager-hub.md).
 

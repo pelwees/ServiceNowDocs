@@ -20,7 +20,7 @@ Domain separation is unsupported for SGC Central. Domain separation enables you 
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[SGC Central reference](sgcc-reference.md)
+**Parent Topic:**[SGC Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 
 **Related topics**  
 

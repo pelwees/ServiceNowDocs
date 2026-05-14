@@ -23,7 +23,7 @@ Role required: admin
 
 Maintenance schedules are duration or meter based. For example, on the Maintenance Schedule form, select Duration or Meter as the trigger for replacing a printer ink cartridge. Define the maintenance schedule duration as three months and the paper sheets as 10,000. The schedule is triggered when the paper sheets need refill and the printer ink cartridges are replaced based on this trigger. The maintenance schedule populates the **Next run time** \(duration-based schedules\) and **Next run value** \(meter-based schedules\) in the Plan Service configuration. Maintenance schedule job checks for a maintenance schedule template in a plan record and creates maintenance cases.
 
-For more information, see [Create plan service configuration](create-maint-service-config.md) and [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+For more information, see [Create plan service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/sch-job-planned-nightly.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ For more information, see [Create plan service configuration](create-maint-servi
 
 4.  On the maintenance calendar view, select the **Schedules** tab.
 
-    ![Maintenance plan calendar view showing the Schedules tab.](../images/wsd-maint-mgmt-schedules-tab.png)
+    ![Maintenance plan calendar view showing the Schedules tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-maint-mgmt-schedules-tab.png)
 
 5.  Select **Copy schedule** to copy a maintenance schedule for an existing maintenance plan.
 
@@ -113,7 +113,7 @@ Trigger type \(Duration\)
 
 </td><td>
 
-Trigger type determines the schedule run time interval duration \(weekly, monthly, annual, and so on\).![Duration-based schedule for a maintenance plan.](../images/wsd-create-durationbased-schedule.png)
+Trigger type determines the schedule run time interval duration \(weekly, monthly, annual, and so on\).![Duration-based schedule for a maintenance plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-create-durationbased-schedule.png)
 
 For a duration-based schedule, complete the following field information:
 
@@ -127,9 +127,9 @@ Trigger type \(Meter\)
 
 </td><td>
 
-For meter-based schedule, complete the following field information: ![Meter-based schedule for a maintenance plan.](../images/wsd-create-schedule-meter-based.png)
+For meter-based schedule, complete the following field information: ![Meter-based schedule for a maintenance plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-create-schedule-meter-based.png)
 
--   **Table**: Workplace Location or Model. Selected by default. The selection depends on your selection of Model \(asset\) or Location while creating a maintenance plan. For more information, see [Create and publish maintenance plans](create-publish-maintenance-plans.md).
+-   **Table**: Workplace Location or Model. Selected by default. The selection depends on your selection of Model \(asset\) or Location while creating a maintenance plan. For more information, see [Create and publish maintenance plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-publish-maintenance-plans.md).
 -   **Field**: Field value for the trigger type. Select a value from the drop-down options. For example, **Start Date and time**.
 -   **Every**: The repeat interval duration. The number of occurrences that must be recorded before the maintenance plan is executed. Takes an integer-based value and the value must be greater than zero \(0\). For example: 2 days.
 
@@ -153,12 +153,12 @@ For example, if your **Due day of week** is next week Monday and your lead time 
 
 12. Select and open the schedule to view details.
 
-    ![Published plan record showing the maintenance schedule for a plan record.](../images/wsd-meter-based-schedule-detail-form.png)
+    ![Published plan record showing the maintenance schedule for a plan record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-meter-based-schedule-detail-form.png)
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/manage-maintenance-plans.md)
 
-**Previous topic:**[Maintenance plan calendar view](cal-view-overview.md)
+**Previous topic:**[Maintenance plan calendar view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/cal-view-overview.md)
 
-**Next topic:**[Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md)
+**Next topic:**[Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/sch-job-planned-nightly.md)
 

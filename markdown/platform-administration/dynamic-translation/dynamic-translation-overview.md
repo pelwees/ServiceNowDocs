@@ -23,23 +23,23 @@ Dynamic Translation works with your choice of third-party machine translation se
 
 <table id="table_b2v_pwz_bzb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore Dynamic Translation](exploring-dynamic-translation.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../reuse/icons/brand-icons/bus-explore.svg)Explore Dynamic Translation](exploring-dynamic-translation.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Dynamic Translation](configuring-dynamic-translation.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Dynamic Translation](configuring-dynamic-translation.md)
 
 </td><td>
 
-[Integrate![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with third-party translation services](integration-with-other-translation-services.md)
+[Integrate![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Integrate with third-party translation services](integration-with-other-translation-services.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-customer-service.svg)Use Dynamic Translation across your instance](using-dynamic-translation.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../reuse/icons/brand-icons/bus-customer-service.svg)Use Dynamic Translation across your instance](using-dynamic-translation.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Dynamic Translation properties, actions, and error messages](../reference/reference-for-dynamic-translation.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/../../../reuse/icons/brand-icons/bus-learn.svg)Reference for Dynamic Translation properties, actions, and error messages](../reference/reference-for-dynamic-translation.md)
 
 </td><td>
 

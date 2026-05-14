@@ -46,14 +46,14 @@ The code looks for an ending field with the same name as the start date field, e
     |**Type**|Date|
 
 
-**Parent Topic:**[Customize calendar reports](../concept/c_CustomizeCalendarReports.md)
+**Parent Topic:**[Customize calendar reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CustomizeCalendarReports.md)
 
 **Related topics**  
 
 
-[Configure how calendar entries look](t_ConfigureACalendarAttribute.md)
+[Configure how calendar entries look](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_ConfigureACalendarAttribute.md)
 
-[Modifying and adding calendar report system properties](modify-add-calendar-sys-props.md#)
+[Modifying and adding calendar report system properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/modify-add-calendar-sys-props.md#)
 
-[Change highlighting of calendar report events](t_HighlightACalendarEntry.md)
+[Change highlighting of calendar report events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_HighlightACalendarEntry.md)
 

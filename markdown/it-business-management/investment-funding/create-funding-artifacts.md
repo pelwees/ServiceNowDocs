@@ -36,5 +36,5 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 The **Add/View Investments** related link appears on the form of the investment target for direct navigation to the My Funds page.
 
-**Parent Topic:**[Create an investment entity](create-funding-entity.md)
+**Parent Topic:**[Create an investment entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-funding-entity.md)
 

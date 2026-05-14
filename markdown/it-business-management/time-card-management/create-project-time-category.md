@@ -35,5 +35,5 @@ Role required: timecard\_admin, it\_project\_manager
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Time Card Management](../concept/time-card-management.md)
+**Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/time-card-management.md)
 

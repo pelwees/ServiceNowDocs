@@ -100,17 +100,17 @@ Steps
 </table>3.  Complete the Select upgrade, Pre-upgrade, Instance upgrade, and Post-upgrade tasks to complete the upgrade process on your production instance.
 
 
--   **[Implement pre-upgrade activities on a prod instance](um-pre-upgrade-prod.md)**  
+-   **[Implement pre-upgrade activities on a prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-pre-upgrade-prod.md)**  
 Complete the pre-upgrade tasks for a successful upgrade experience on your production instance.
--   **[Implement instance upgrade activities on a prod instance](um-implement-instance-upgrade-prod.md)**  
+-   **[Implement instance upgrade activities on a prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-implement-instance-upgrade-prod.md)**  
 Implement the instance upgrade tasks for a successful upgrade on your prod instance.
--   **[Implement post-upgrade activities on a prod instance](um-post-upgrade-prod.md)**  
+-   **[Implement post-upgrade activities on a prod instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-post-upgrade-prod.md)**  
 Implement the post-upgrade tasks for a successful upgrade completion on your production instance.
 
-**Parent Topic:**[Configuring Upgrade Console](../concept/um-configure.md)
+**Parent Topic:**[Configuring Upgrade Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/../concept/um-configure.md)
 
 **Related topics**  
 
 
-[Access guided upgrade on a non-production instance](um-guided-tour-implement.md)
+[Access guided upgrade on a non-production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-guided-tour-implement.md)
 

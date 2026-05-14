@@ -17,7 +17,7 @@ Create a connection between common job titles in your industry with the role lev
 
 ## About this task
 
-Role levels for employees must have either been imported into the Role level \[sn\_skills\_int\_role\_level\] table or added manually. For more information on the import process, see [Load job architecture data into your ServiceNow instance](load-data-skills-tables.md).
+Role levels for employees must have either been imported into the Role level \[sn\_skills\_int\_role\_level\] table or added manually. For more information on the import process, see [Load job architecture data into your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/load-data-skills-tables.md).
 
 ## Before you begin
 

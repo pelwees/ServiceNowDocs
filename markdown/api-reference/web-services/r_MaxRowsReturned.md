@@ -29,7 +29,7 @@ maxrows 500
 
 **Note:** If running the Interactive SQL console from a shortcut, you must modify the shortcut **Target** to include the **-maxrows** parameter with the desired value.
 
-![iSQL shortcut properties](../image/isql_shortcut_maxrows.png)
+![iSQL shortcut properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/isql_shortcut_maxrows.png)
 
-**Parent Topic:**[Use Interactive SQL with ODBC](../task/t_UsingInteractiveSQLWithODBC.md)
+**Parent Topic:**[Use Interactive SQL with ODBC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_UsingInteractiveSQLWithODBC.md)
 

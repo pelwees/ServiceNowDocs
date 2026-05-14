@@ -49,9 +49,9 @@ The foundation data subscription is now active. Data is synchronized to the prov
 **Related topics**  
 
 
-[Foundation data sync](../concept/service-bridge-v2-explore-foundation-data-sync.md)
+[Foundation data sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/service-bridge-v2-explore-foundation-data-sync.md)
 
-[Configuring outbound foundation data sync as consumers](../concept/using-provider-bound-fds-consumer.md)
+[Configuring outbound foundation data sync as consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/using-provider-bound-fds-consumer.md)
 
-[Configuring inbound foundation data sync as providers](../concept/service-bridge-v2-configure-inboun-fds-providers.md)
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/service-bridge-v2-configure-inboun-fds-providers.md)
 

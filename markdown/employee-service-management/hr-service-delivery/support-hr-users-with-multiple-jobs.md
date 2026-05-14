@@ -49,7 +49,7 @@ Reference field to the Jobs \(sn\_hr\_core\_job\) table.
 
 **Note:** The employment start date represents the first day the user was employed with the organization. The job start date represents the first day of the user's current primary job. Because Eva left the organization in August 2018, but was rehired in June 2019. This represents Eva's new employment start date.
 
-![HR profile record with multiple job records.](../image/multiple-jobs-hr-profile-example.png)
+![HR profile record with multiple job records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/multiple-jobs-hr-profile-example.png)
 
 ## Jobs table and HR Case table
 
@@ -63,9 +63,9 @@ In the case of Eva Seahorn, for example, Eva was rehired as a marketing director
 
 ## Supporting multiple jobs in a lifecycle event
 
-Use the Jobs table to create lifecycle event cases where you can specify which job the case pertains to. For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream activity sets and activities are triggered based on information from that relevant job record. For more information, see [Support multiple jobs in a lifecycle event](../task/adopt-jobs-table.md).
+Use the Jobs table to create lifecycle event cases where you can specify which job the case pertains to. For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream activity sets and activities are triggered based on information from that relevant job record. For more information, see [Support multiple jobs in a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/adopt-jobs-table.md).
 
-**Parent Topic:**[HR Administration](c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
 **Related topics**  
 

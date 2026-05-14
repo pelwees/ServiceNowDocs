@@ -90,5 +90,5 @@ Security Center Notification: ${execution.policy.name}
     3.  Enter the name of the custom notification you created in the **Notification** field.
 
 
-**Parent Topic:**[Configure preferences for security event notification policies](configure-preferences-for-security-event-notifications.md)
+**Parent Topic:**[Configure preferences for security event notification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/configure-preferences-for-security-event-notifications.md)
 

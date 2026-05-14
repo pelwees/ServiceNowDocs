@@ -36,5 +36,5 @@ These are advanced customizations that might not be appropriate for all implemen
 5.  Click **Update**.
 
 
-**Parent Topic:**[Summarizers](../concept/c_Summarizers.md)
+**Parent Topic:**[Summarizers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/c_Summarizers.md)
 

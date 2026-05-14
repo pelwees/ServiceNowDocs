@@ -47,5 +47,5 @@ Role required: One of the following roles:
 **Related topics**  
 
 
-[Create additional consumer addresses](create-consumer-address.md)
+[Create additional consumer addresses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-consumer-address.md)
 

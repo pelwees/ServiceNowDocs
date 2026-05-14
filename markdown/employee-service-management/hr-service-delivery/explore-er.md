@@ -19,10 +19,10 @@ Following are some of the key features of Employee Relations:
 
 -   **For employees or users**
 
-    Instill trust and confidence in employees through self service reporting tools such Employee Center or [Anonymous Report Center \(ARC\)](arc-portal.md).
+    Instill trust and confidence in employees through self service reporting tools such Employee Center or [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md).
 
     -   Ability for a user who is not in the ServiceNow® system to raise a request and receive a full view of the investigation.
-    -   Ability to raise a sensitive complaint anonymously with [Anonymous Report Center \(ARC\)](arc-portal.md).
+    -   Ability to raise a sensitive complaint anonymously with [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md).
 -   **For an organization**
 
     Mitigate risk for your organization when handling employee relation cases.
@@ -54,7 +54,7 @@ Raise a complaint
 </td><td>
 
 Raise a complaint using one of the following methods:-   **Employee Center** &gt; **Human Resource Catalogs** &gt; **Employee Relations catalog**.
--   [Anonymous Report Center \(ARC\)](arc-portal.md) \(anonymously\).
+-   [Anonymous Report Center \(ARC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/arc-portal.md) \(anonymously\).
 
 An employee relations case is created and assigned to an ER agent.
 
@@ -125,5 +125,5 @@ ER agent
 </td></tr></tbody>
 </table>## Example of Employee Relations Case
 
-![Employee Relations Case](../image/er-case-view.png)
+![Employee Relations Case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/er-case-view.png)
 

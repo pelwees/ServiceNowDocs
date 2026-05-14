@@ -19,7 +19,7 @@ Internal or external consumers can request business services through the request
 
 Tables in the Service Consumption domain are used by Service Portfolio Management and Customer Service Management \(CSM\). You can select the tables in the Service Consumption domain to use with Incident Management and Change Management.
 
-![Service Consumption domain of the CSDM framework.](../image/domain-service-consumption-tables.png)
+![Service Consumption domain of the CSDM framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/domain-service-consumption-tables.png)
 
 The Service Consumption domain includes the following tables:
 
@@ -39,7 +39,7 @@ You're not required to use Service Portfolio Management or CSM to use the refere
 
 ## Tables used during the Service Consumption phase of the service life cycle
 
-![Service Consumption tables in the service life cycle.](../image/service-lifecycle-svc-consumption.png)
+![Service Consumption tables in the service life cycle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/service-lifecycle-svc-consumption.png)
 
 ## Business service offerings
 
@@ -62,7 +62,7 @@ Business service offerings have the following characteristics:
 
 You can view your business service offerings in the Digital Portfolio Management \(DPM\).
 
-![Service Offering view in the Digital Portfolio Management (DPM).](../image/service-offering-form.png)
+![Service Offering view in the Digital Portfolio Management (DPM).](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/service-offering-form.png)
 
 Business service offerings typically have different service-level agreements \(SLAs\) depending on their commitments. Without a business service offering, SLAs remain at a process level only. For example, the SLA stays at a P1 incident or a minor change, and doesn't refer to the affected business service offering.
 
@@ -72,7 +72,7 @@ You can represent business services and business service offerings as catalog it
 
 A business service is associated with business users and is typically layered beneath one or more business capabilities. A business service can contain one or more business service offerings.
 
-Business consumers can use the request catalog to order business services, business service offerings, and service commitment levels. Catalogs are described in detail in [Service Catalog](../../service-catalog-management/concept/service-catalog.md). Business services are mapped to the cmdb\_ci\_service\_business table and are classified as “business services.”
+Business consumers can use the request catalog to order business services, business service offerings, and service commitment levels. Catalogs are described in detail in [Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../service-catalog-management/concept/service-catalog.md). Business services are mapped to the cmdb\_ci\_service\_business table and are classified as “business services.”
 
 ## Service portfolios
 
@@ -85,7 +85,7 @@ A service portfolio is a hierarchical collection of business services, products,
 
 ## Catalogs
 
-A request catalog enables consumers to order and manage business and technical products, services, service commitment options, and offerings \(for example, the Human Resources \[HR\] service catalog\). Catalogs contain catalog items and are the starting point for consumers to access available services. Catalogs are described in [Service Catalog](../../service-catalog-management/concept/service-catalog.md).
+A request catalog enables consumers to order and manage business and technical products, services, service commitment options, and offerings \(for example, the Human Resources \[HR\] service catalog\). Catalogs contain catalog items and are the starting point for consumers to access available services. Catalogs are described in [Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../service-catalog-management/concept/service-catalog.md).
 
 **Catalog Item**
 
@@ -95,5 +95,5 @@ A catalog item is an item or a service that a consumer can request from the cata
 
 [Playlist of all CSDM videos](https://www.youtube.com/playlist?list=PLkGSnjw5y2U7QNr9jL6TAgwQvYBI_LEtK)
 
-**Parent Topic:**[CSDM data domains](csdm-conceptual-model.md)
+**Parent Topic:**[CSDM data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-conceptual-model.md)
 

@@ -40,7 +40,7 @@ Defining funding entity is an important configuration to create Investment Objec
 
 When a user in a parent domain accesses the financials of a project in a child domain, the system creates the investment object in the child domain. This ensures that users in the child domain can access the financials and the investment object.
 
-**Parent Topic:**[Investment Funding](investment-funding-overview.md)
+**Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
 **Related topics**  
 

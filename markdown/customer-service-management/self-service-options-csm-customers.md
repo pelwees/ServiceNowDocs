@@ -40,7 +40,7 @@ Self-service in CSM offers the following benefits:
 
 ## Web Embeddables
 
-With Web Embeddables you can embed web components into external websites outside the ServiceNow environment. These components enable interaction with the platform through dedicated APIs that support real-time data exchange and provide functionality without requiring users to access the ServiceNow interface. To learn more about Web Embeddables, see [Configure Web Embeddables](using-web-embeddables.md).
+With Web Embeddables you can embed web components into external websites outside the ServiceNow environment. These components enable interaction with the platform through dedicated APIs that support real-time data exchange and provide functionality without requiring users to access the ServiceNow interface. To learn more about Web Embeddables, see [Configure Web Embeddables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-web-embeddables.md).
 
 Web Embeddables offer the following benefits:
 
@@ -57,10 +57,10 @@ By using the Service Portal web application, you can create portals that empower
 
 You can configure four types of portals to support your customers and consumers:
 
--   [Customer Service Portal](../task/use-the-customer-portal.md): Supports your business-to-business \(B2B\) customers
--   [Business Portal](../task/use-the-business-portal.md): Supports your business-to-business \(B2B\) customers and is built using configurable widgets
--   [Consumer Service Portal](use-consumer-service-portal.md): Supports your business-to-consumer \(B2C\) customers
--   [Consumer Portal](use-consumer-portal.md): Supports your business-to-consumer \(B2C\) customers and is built using configurable widgets.
+-   [Customer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/use-the-customer-portal.md): Supports your business-to-business \(B2B\) customers
+-   [Business Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/use-the-business-portal.md): Supports your business-to-business \(B2B\) customers and is built using configurable widgets
+-   [Consumer Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-consumer-service-portal.md): Supports your business-to-consumer \(B2C\) customers
+-   [Consumer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/use-consumer-portal.md): Supports your business-to-consumer \(B2C\) customers and is built using configurable widgets.
 
 All the portals offer the same self-service and Virtual Agent assistance features.
 
@@ -68,28 +68,28 @@ All the portals offer the same self-service and Virtual Agent assistance feature
 
     You can configure your Customer Service Portal, Consumer Service Portal, Business Portal, or Consumer Portal with the following self-service features:
 
-    ![Infographic displaying various options for self-service. For the text description, refer to the column in the Self-service on portals table.](../image/self-service-portal.png "Self-service portal")
+    ![Infographic displaying various options for self-service. For the text description, refer to the column in the Self-service on portals table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/self-service-portal.png "Self-service portal")
 
-    To get started with the portals, see [Configure the Customer and Consumer Service Portals](../task/configure-csm-service-portals.md) and [Configure Business and Consumer Portal](../task/configure-business-portal.md).
+    To get started with the portals, see [Configure the Customer and Consumer Service Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-csm-service-portals.md) and [Configure Business and Consumer Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/configure-business-portal.md).
 
 
 ## Engagement Messenger
 
-With the [Engagement Messenger](engagement-center.md) web application, your customers can easily access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
+With the [Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/engagement-center.md) web application, your customers can easily access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
 
-To learn more about [Engagement Messenger](engagement-center.md), see [Set up Engagement Messenger](setting-up-engagement-messenger.md).
+To learn more about [Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/engagement-center.md), see [Set up Engagement Messenger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-engagement-messenger.md).
 
 ## Service catalog
 
 With the Service Catalog capability, you can create service catalogs where customers can request items, such as service and product offerings. You can enable customers to request items from the portal by associating one or more service catalogs with the portal. Customers can also track the status of open requests from the portal.
 
-To learn more about Service catalog, see [Service catalog integration with the Customer and Consumer Service Portals](service-catalog-request-integration.md).
+To learn more about Service catalog, see [Service catalog integration with the Customer and Consumer Service Portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/service-catalog-request-integration.md).
 
 ## Knowledge base
 
 With the Knowledge Management capability, you can create knowledge bases with articles to share information with customers on the portal. Customers can search the knowledge bases for information, such as troubleshooting or task resolutions, to resolve issues and answer questions.
 
-To learn more about searching the Knowledge base, see [Search the knowledge base](../task/t_SearchTheKnowledgeBase.md).
+To learn more about searching the Knowledge base, see [Search the knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/t_SearchTheKnowledgeBase.md).
 
 ## Chat
 
@@ -99,11 +99,11 @@ As customers answer questions and select options presented by Virtual Agent, the
 
 If customers want to chat with an agent, Virtual Agent hands them off to a live agent. To provide this resource, use the Connect Support feature.
 
-To learn more about chat, see [Configuring the chat channel](c_ChatFeature.md).
+To learn more about chat, see [Configuring the chat channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_ChatFeature.md).
 
 ## Community
 
 With the Communities capability, you can create forums for agents and customers to connect, engage, and collaborate with each other. On the portal, customers can search for community content that could provide the solutions and answers that they need.
 
-To learn more about communities, see [Communities](../../customer-communities/reference/servicenow-communities.md).
+To learn more about communities, see [Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../customer-communities/reference/servicenow-communities.md).
 

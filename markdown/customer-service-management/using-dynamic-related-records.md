@@ -32,7 +32,7 @@ View related records in the contextual side panel
 
 </td><td>
 
-Click the Related Records tab \(![Related Records tab in the contextual side panel](../image/contextual-side-panel-related-records.jpg)\) to view the Related Records list.
+Click the Related Records tab \(![Related Records tab in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/contextual-side-panel-related-records.jpg)\) to view the Related Records list.
 
  Related records appear in the list in a card format. The initial set of records displayed in the list is determined by the record type selected in the filter at the top of the list.
 
@@ -44,7 +44,7 @@ Select the type of related record to view
 
 Use the filter at the top of the Related Records list to select the type of related records to view. Agents can also use the filter to see the current selection.
 
-1.  Click the filter icon \(![Related records list filter icon](../image/dynamic-related-records-filter-icon.png)\).
+1.  Click the filter icon \(![Related records list filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/dynamic-related-records-filter-icon.png)\).
 2.  Select a record type from the dropdown menu.
 
  The dropdown menu includes the related lists that have been configured for the parent record.
@@ -76,7 +76,7 @@ Open the related record list in a list view in a sub-tab
 
 </td><td>
 
-Click the list view icon \(![Related records tab list view icon](../image/dynamic-related-records-list-view-icon.png)\) to display the related records in a list view in a sub-tab under the parent record.
+Click the list view icon \(![Related records tab list view icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/dynamic-related-records-list-view-icon.png)\) to display the related records in a list view in a sub-tab under the parent record.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Create a new record for the selected related list
 
 Create a new record for the record type currently selected in the Related Records list. This action opens a new record form in a sub-tab under the parent record.
 
-1.  Click the create record icon \(![Related records tab create record icon](../image/dynamic-related-records-create-record-icon.png)\) at the top of the Related Records list.
+1.  Click the create record icon \(![Related records tab create record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/dynamic-related-records-create-record-icon.png)\) at the top of the Related Records list.
 2.  Fill in the fields on the record form and click **Save**.
 
 </td></tr></tbody>

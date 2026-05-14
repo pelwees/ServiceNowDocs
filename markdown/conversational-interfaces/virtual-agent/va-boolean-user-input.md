@@ -18,7 +18,7 @@ Use the Boolean user input control in a Virtual Agent topic to present a Yes/No 
 
 Boolean user input controls prompt the user to answer a Yes/No question, and store the response as a string with a value of true or false. Use this value in topic utilities, such as the prompted Decision utility, to branch the topic flow based on the answer.
 
-When you place this control on the canvas, a window appears with the header `Add a decision node?` The window message reads `A decision node will be added following this node` and has **No** and **Yes** options. If you select **No**, you must add a Decision utility to complete the Boolean. You can customize the names of the output values on the Decision node. For more information, see [Decision utility](va-decision.md).
+When you place this control on the canvas, a window appears with the header `Add a decision node?` The window message reads `A decision node will be added following this node` and has **No** and **Yes** options. If you select **No**, you must add a Decision utility to complete the Boolean. You can customize the names of the output values on the Decision node. For more information, see [Decision utility](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-decision.md).
 
 ## Boolean user input control properties for LLM topic discovery
 
@@ -62,7 +62,7 @@ Detail description
 
 Description of the information that you need from users. If the **Allow automatic slot filling** toggle is deactivated, you can create a dynamic detail description by selecting the Data Pill Picker icon ![](../images/variable-reference-picker.png) to define conditions, or select the Open Editor icon ![](../images/icon-script.png) to enter a script. If the **Allow automatic slot filling** toggle is activated, you can only enter a static description.
 
- ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](../images/LLM-input-discoverable-toggle.png)
+ ![When the Allow automatic slot-filling toggle is inactive, the detail description includes Data Pill Picker and script dynamic options. When the toggle is active, the Detail description field becomes static.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/LLM-input-discoverable-toggle.png)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -129,13 +129,13 @@ Input user prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Boolean user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-boolean-llm-3.png)
+![All basic Boolean user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-boolean-llm-3.png)
 
 </td><td>
 
-![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](../images/va-boolean-input-slack.png "Slack Boolean user input prompt example")
+![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-boolean-input-slack.png "Slack Boolean user input prompt example")
 
- ![An example prompt reads, "Would you like to leave a comment?" Answers are Yes and No.](../../now-assist-in-va/image/nass-boolean-user-prompt.png "Boolean user input prompt example")
+ ![An example prompt reads, "Would you like to leave a comment?" Answers are Yes and No.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../../now-assist-in-va/image/nass-boolean-user-prompt.png "Boolean user input prompt example")
 
 </td></tr></tbody>
 </table>## Boolean user input control properties for NLU topic discovery
@@ -275,15 +275,15 @@ Input prompt
 
 </th></tr></thead><tbody><tr><td rowspan="2">
 
-![Basic properties include the node name, prompt, and NLU entity.](../images/va-boolean-properties.png "Boolean user input control basic properties")
+![Basic properties include the node name, prompt, and NLU entity.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-boolean-properties.png "Boolean user input control basic properties")
 
 </td><td>
 
-![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](../images/va-boolean-input-web.png "Web UI Boolean user input prompt")
+![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-boolean-input-web.png "Web UI Boolean user input prompt")
 
 </td></tr><tr><td>
 
-![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](../images/va-boolean-input-slack.png "Slack Boolean user input prompt")
+![An example prompt reads, "Would you like to add a comment?" Answers are Yes and No.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-boolean-input-slack.png "Slack Boolean user input prompt")
 
 </td></tr></tbody>
 </table>## Channel support
@@ -303,5 +303,5 @@ Input prompt
 |Apple Messages for Business|Not Supported|Supported|None|
 |Alexa \(Voice\)|Not Supported|Supported|None|
 
-**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

@@ -30,5 +30,5 @@ Role required: admin
 
 ## What to do next
 
-[Review warning modifications](review-warning-modifications.md).
+[Review warning modifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/review-warning-modifications.md).
 

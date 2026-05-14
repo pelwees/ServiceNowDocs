@@ -81,5 +81,5 @@ Service Portal is a ServiceNow AI Platform feature that is active by default.
     Authentication in ServiceNow validates the identity of a user who accesses an instance, and then authorizes the user to features that match the user's role or job function.
 
 
-**Parent Topic:**[ServiceNow AI Platform user interface release notes](now-platform-ui-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform user interface release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-ui-rn-landing.md)
 

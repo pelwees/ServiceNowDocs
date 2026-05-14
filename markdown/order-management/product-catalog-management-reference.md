@@ -13,8 +13,8 @@ breadcrumb: [Lead-to-cash foundation, Reference, Sales Customer Relationship Man
 
 Reference topics provide additional information about Product Catalog Management.
 
--   **[Components installed with Product Catalog Management](components-installed-catalog-mgmt.md)**  
+-   **[Components installed with Product Catalog Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/components-installed-catalog-mgmt.md)**  
 Several types of components are installed with activation of the Product Catalog Management plugin, including tables and user roles.
 
-**Parent Topic:**[Lead-to-cash foundation reference](../concept/reference-lead-cash-foundation.md)
+**Parent Topic:**[Lead-to-cash foundation reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/reference-lead-cash-foundation.md)
 

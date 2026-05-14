@@ -23,17 +23,17 @@ Role required: itil or admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the **List** \(![List icon](../image/list-icon-new.png)\) icon.
+2.  Select the **List** \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/list-icon-new.png)\) icon.
 
 3.  Select **Interactions** &gt; **Open**.
 
 4.  Select the interaction record.
 
-5.  Select More Actions \(![More actions](../image/more-options-card.png)\) icon, and then select **Associate record**.
+5.  Select More Actions \(![More actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/more-options-card.png)\) icon, and then select **Associate record**.
 
     A modal is displayed with the list of records.
 
-    ![Associate records](../image/associate-records-interaction-sow-jun24.png)
+    ![Associate records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/associate-records-interaction-sow-jun24.png)
 
 6.  Select the record that must be associated to the interaction.
 
@@ -44,14 +44,14 @@ Role required: itil or admin
     The selected records are associated with the interaction.
 
 
-**Parent Topic:**[Interaction Management in Service Operations Workspace](../concept/interaction-sow.md)
+**Parent Topic:**[Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/interaction-sow.md)
 
 **Related topics**  
 
 
-[Create an interaction in Service Operations Workspace](create-interaction-sow.md)
+[Create an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-interaction-sow.md)
 
-[Work on an interaction in Service Operations Workspace](work-on-interaction-sow.md)
+[Work on an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-interaction-sow.md)
 
-[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](collaborate-interaction-ms-teams-sow.md)
+[Collaborate using Microsoft Teams from an interaction record in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaborate-interaction-ms-teams-sow.md)
 

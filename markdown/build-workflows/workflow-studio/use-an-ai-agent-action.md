@@ -103,11 +103,11 @@ You can use these outputs as inputs for other items.
 
 ## Use Incident resolution details AI agent
 
-![Demonstration flow that includes the Use an AI agent action and the Send Email action](../images/example-use-ai-agent-complete-flow.png)
+![Demonstration flow that includes the Use an AI agent action and the Send Email action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-use-ai-agent-complete-flow.png)
 
 This example requires installing the Now Assist for IT Service Management \(ITSM\) plugin and turning on the Resolution notes generation skill.
 
-![Sample input configuration of the Use an AI agent action](../images/example-use-ai-agent-inputs.png)
+![Sample input configuration of the Use an AI agent action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-use-ai-agent-inputs.png)
 
 In this example, the Use an AI agent action is configured to use the Incident resolution details AI agent in a supervised mode. The objective lists data that will help the AI understand the resolution of an incident.
 
@@ -119,5 +119,5 @@ Since this example runs in supervised mode, the flow pauses until the support us
 
 After the support user provides the necessary response, the flow continues running the action and provides it output values. The flow uses these output values to send an email message.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

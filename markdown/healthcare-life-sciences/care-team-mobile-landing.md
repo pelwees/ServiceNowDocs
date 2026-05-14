@@ -17,15 +17,15 @@ Care Team Mobile enables care teams to create and view shared support requests f
 
 <table id="table_ilx_yzz_m2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Mobile to create and track support requests.](care-team-mobile-exploring.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about how care teams use Care Team Mobile to create and track support requests.](care-team-mobile-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and set up your application.](care-team-mobile-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Activate and set up your application.](care-team-mobile-configuring.md)
 
 </td><td>
 
-[Request![](../../../reuse/icons/brand-icons/bus-mobile-phone.svg)Create and track support requests for supporting departments.](cto-mobile-create-requests.md)
+[Request![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-mobile-phone.svg)Create and track support requests for supporting departments.](cto-mobile-create-requests.md)
 
 </td></tr><tr><td>
 

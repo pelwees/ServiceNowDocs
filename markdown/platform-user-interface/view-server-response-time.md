@@ -21,7 +21,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Logs** &gt; **Client Interactions**.
 
-2.  Select the personalized list icon \( ![Personalize list icon.](../../../use/using-lists/image/PersonalizeListIcon.png)\) within the Unified Navigation banner frame.
+2.  Select the personalized list icon \( ![Personalize list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../use/using-lists/image/PersonalizeListIcon.png)\) within the Unified Navigation banner frame.
 
 3.  Select the Interaction ID from the Available column and move it to the Selected column.
 
@@ -46,5 +46,5 @@ Role required: admin
     The server response times for that particular interaction are displayed.
 
 
-**Parent Topic:**[Measuring the performance of your instance in Next Experience](../concept/measuring-performance-next-experience.md)
+**Parent Topic:**[Measuring the performance of your instance in Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/measuring-performance-next-experience.md)
 

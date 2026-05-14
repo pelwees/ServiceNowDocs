@@ -27,7 +27,7 @@ Role required: sn\_msi.workspace\_manager
 
 3.  Click the **Start a conference call** action.
 
-4.  You can also start a conference call by clicking the ![Conference call](../image/msim-conf-call-icon.png) icon on the right-context menu and selecting the + icon.
+4.  You can also start a conference call by clicking the ![Conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-call-icon.png) icon on the right-context menu and selecting the + icon.
 
     The Start conference call pop-up appears.
 
@@ -35,7 +35,7 @@ Role required: sn\_msi.workspace\_manager
 
 6.  In the Title field, provide a title that describes the reason for the Zoom conference call.
 
-    ![Steps to start a conference call using Zoom](../image/msim-conf-call-zoom.png "Using the Conference Call Zoom integration")
+    ![Steps to start a conference call using Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-call-zoom.png "Using the Conference Call Zoom integration")
 
 7.  In the Add participants field, select the participants for the Zoom conference call.
 
@@ -57,7 +57,7 @@ Role required: sn\_msi.workspace\_manager
 
     The participants can use the link from the MSIM email notification or the notification from the Zoom app to join the call.
 
-    ![MSIM email notification for the Zoom conference call](../image/msim-conf-zoom-email.png "Email notification")
+    ![MSIM email notification for the Zoom conference call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-conf-zoom-email.png "Email notification")
 
 11. Open the associated major security incident in the MSIM workspace to view the conference call details.
 
@@ -66,5 +66,5 @@ Role required: sn\_msi.workspace\_manager
     If the conference call was recorded, then the recording will be available in the Conference call section of the associated major security incident after sometime.
 
 
-**Parent Topic:**[Integrate MSIM Conference Calls with Zoom](../concept/integrate-msim-conf-calls-zoom.md)
+**Parent Topic:**[Integrate MSIM Conference Calls with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/integrate-msim-conf-calls-zoom.md)
 

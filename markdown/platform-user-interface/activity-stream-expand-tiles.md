@@ -19,18 +19,18 @@ Role required: workspace\_user
 
 ## Procedure
 
-1.  Select your the profile image \(![Profile image](../image/y-activity-stream-profile.png)\).
+1.  Select your the profile image \(![Profile image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-activity-stream-profile.png)\).
 
 2.  Select **Preferences** &gt; **Workspace**.
 
 3.  Select the toggle for the **Expand activity stream items by default** preference.
 
-    ![Expand activity stream items by default toggle](../image/y-workspace-activity-stream-expand-tiles.png)
+    ![Expand activity stream items by default toggle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-workspace-activity-stream-expand-tiles.png)
 
 
 ## Result
 
 All activities in the Activity stream expand by default.
 
-![Activities in Activity stream expanded by default](../image/y-activity-stream-expand-result.png)
+![Activities in Activity stream expanded by default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-activity-stream-expand-result.png)
 

@@ -24,5 +24,5 @@ Planning data structures early helps prevent duplication, reduces maintenance co
 -   Normalize data to improve accuracy and simplify analytics.
 -   Verify that relationships between tables are well-defined for scalability.
 
-**Parent Topic:**[Plan your app before you start building](plan-app-building.md)
+**Parent Topic:**[Plan your app before you start building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-app-building.md)
 

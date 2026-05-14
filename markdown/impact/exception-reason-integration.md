@@ -21,12 +21,12 @@ Role required: sn\_se.scan\_engine\_admin, sn\_se.scan\_engine\_read\_user, sn\_
 
 1.  Register your instances.
 
-    See [Register your instance](register-your-instance.md).
+    See [Register your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 2.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties**.
 
 3.  Configure the settings on the **Exception reason** properties tab.
 
-    For more information, see [Configure exception reason properties](exception-reason-properties.md).
+    For more information, see [Configure exception reason properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/exception-reason-properties.md).
 
 

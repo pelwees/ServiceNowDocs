@@ -116,12 +116,12 @@ Number of impacted individuals
 Total number of individuals whose personal data was exposed, accessed, or compromised.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Report a privacy case anonymously](../task/report-privacy-case-anonymously.md)
+</table>**Parent Topic:**[Report a privacy case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../task/report-privacy-case-anonymously.md)
 
 **Related topics**  
 
 
-[Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md)
+[Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../../grc-common/concept/grc-anonymous-reporting-center.md)
 
-[Report a privacy case anonymously](../task/report-privacy-case-anonymously.md)
+[Report a privacy case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../task/report-privacy-case-anonymously.md)
 

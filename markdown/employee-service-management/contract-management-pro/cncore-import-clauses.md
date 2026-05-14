@@ -17,7 +17,7 @@ Classify and map imported clauses to use the content from the clauses in a contr
 
 ## Before you begin
 
-A Microsoft Word document must have been uploaded and parsed to provide clauses for the contract template. For more information, see [Create a contract template](cncore-create-contract-template.md).
+A Microsoft Word document must have been uploaded and parsed to provide clauses for the contract template. For more information, see [Create a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-template.md).
 
 Role required: sn\_cm\_core.contract\_config
 
@@ -25,7 +25,7 @@ Role required: sn\_cm\_core.contract\_config
 
 The imported clauses contain content that have been extracted from the Microsoft Word document that are marked by the content controls. Classifying and mapping the imported clauses builds a clause library of clause variations containing the content available in the imported clauses.
 
-For more information on clause variations, see [Create a clause variation](cncore-add-clauses-doc-tmplt.md).
+For more information on clause variations, see [Create a clause variation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-clauses-doc-tmplt.md).
 
 ## Procedure
 
@@ -81,7 +81,7 @@ Steps
 </td></tr></tbody>
 </table>5.  Select **Complete Clause Mapping**.
 
-    ![Classify and map imported clauses](../image/cmpro-complete-mapping.png "Contract document template")
+    ![Classify and map imported clauses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-complete-mapping.png "Contract document template")
 
     -   If the mapping is successful, the Clause Mappings related list displays the details of mapped clauses with their contract type.
     -   If the mapping is not successful, an error message appears. Possible causes could include:
@@ -89,19 +89,19 @@ Steps
         -   All the clauses were not assigned a classification.
         -   Clauses with the classification of New clause were mapped to a clause instead of being empty.
         -   Clauses with the classifications of Existing clause or No change don’t have a clause mapped to them.
-6.  View the clause variations associated with a clause by selecting the Display/hide hierarchical lists icon \(![Display/hide hierarchical lists](../image/lsd-icon-hirerachy-lists.png) for a clause.
+6.  View the clause variations associated with a clause by selecting the Display/hide hierarchical lists icon \(![Display/hide hierarchical lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/lsd-icon-hirerachy-lists.png) for a clause.
 
 
-**Parent Topic:**[Create contract template by manually adding content controls](../concept/cncore-setup-ct-manual.md)
+**Parent Topic:**[Create contract template by manually adding content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-setup-ct-manual.md)
 
 **Related topics**  
 
 
-[Add content controls in a Microsoft Word document](cncore-word-doc-tmplt-contls.md)
+[Add content controls in a Microsoft Word document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-word-doc-tmplt-contls.md)
 
-[Create a contract template](cncore-create-contract-template.md)
+[Create a contract template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-contract-template.md)
 
-[Create and configure participants](cncore-add-participants.md)
+[Create and configure participants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-participants.md)
 
-[Update contract template mappings](cncore-template-mapping.md)
+[Update contract template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-template-mapping.md)
 

@@ -30,5 +30,5 @@ Delegated Development allows designated users without the admin role to develop 
 
 For more information about building applications, see [Build My First Application](https://developer.servicenow.com/dev.do#!/learn/courses/utah/app_store_learnv2_buildmyfirstapp_utah_build_my_first_application).
 
-**Parent Topic:**[Plan your application development](plan-your-app-development.md)
+**Parent Topic:**[Plan your application development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/plan-your-app-development.md)
 

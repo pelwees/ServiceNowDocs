@@ -15,7 +15,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 A safety report mapping manager can create a mapping report for generating reports using the report field mapping form.
 
-For more information on creating a mapping, see [Create a safety report field mapping for generating reports](../task/create-safety-report-field-mapping.md).
+For more information on creating a mapping, see [Create a safety report field mapping for generating reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../task/create-safety-report-field-mapping.md).
 
 <table id="table_hs_report_mapping"><thead><tr><th>
 
@@ -105,22 +105,22 @@ PDF document
 PDF template that you need to use for reporting and map the safety record fields to. Select **Attach file** to import the reporting PDF template.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Core reference](../../hs-core/concept/hs-core-reference.md)
+</table>**Parent Topic:**[Health and Safety Core reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/concept/hs-core-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md)
+[Components installed with Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/reference/components-installed-hs-core.md)
 
-[Health and Safety action form](hs-action-form.md)
+[Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-form.md)
 
-[Health and safety action schedule form](hs-health-safety-action-schedule-form.md)
+[Health and safety action schedule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-health-safety-action-schedule-form.md)
 
-[Health and Safety profile form](hs-health-safety-profile-form.md)
+[Health and Safety profile form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-health-safety-profile-form.md)
 
-[Health and Safety document version form](hs-document-form.md)
+[Health and Safety document version form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-document-form.md)
 
-[Health and Safety meeting form](hs-safety-meeting-form.md)
+[Health and Safety meeting form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-safety-meeting-form.md)
 
-[Health and Safety meeting attendee form](hs-safety-meeting-attendee-form.md)
+[Health and Safety meeting attendee form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-safety-meeting-attendee-form.md)
 

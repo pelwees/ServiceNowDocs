@@ -27,7 +27,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 3.  In the **Sign template** field, review the signing template selected for the task.
 
-    For more information, see [Configure a workplace task signing template](configure-workplace-pdf-document-template-wsd.md).
+    For more information, see [Configure a workplace task signing template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-pdf-document-template-wsd.md).
 
 4.  Select **Sign Task**.
 
@@ -44,5 +44,5 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 A PDF document of the signed form is generated based on the signing template associated with the task and is attached to the task.
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 

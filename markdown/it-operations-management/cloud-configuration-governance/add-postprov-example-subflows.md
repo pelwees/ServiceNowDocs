@@ -72,5 +72,5 @@ Role required: Cloud user, designer, admin, sn\_cmp.cloud\_service\_designer
     |---|-----|
     |`flowcorrelationid`|`$(Script:CMPFlowStepHandler.generateCorrelationId)`|
 
--   To check whether the flow completes successfully, see [Create a response action for Cloud Provisioning and Governance.](create-subflow-action-cloud-provision-governance.md)
+-   To check whether the flow completes successfully, see [Create a response action for Cloud Provisioning and Governance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-subflow-action-cloud-provision-governance.md)
 

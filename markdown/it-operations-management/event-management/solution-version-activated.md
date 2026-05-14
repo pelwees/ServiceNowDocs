@@ -25,7 +25,7 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
-2.  In the ML Solutions list, click the Reference icon \(![Reference icon](../image/info.png)\) for the trained solution that you want to activate.
+2.  In the ML Solutions list, click the Reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/info.png)\) for the trained solution that you want to activate.
 
 3.  Click **Open Record**.
 
@@ -36,5 +36,5 @@ Role required: evt\_mgmt\_admin
     The system activates this solution version and deactivates any other solution version.
 
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-similarity.md)
 

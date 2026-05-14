@@ -81,9 +81,9 @@ Steps
 
 </td><td>
 
--   To upload a new document, select the add attachment icon \(![Add attachment icon.](../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
--   To rename an attached file, select the edit file name icon \(![Edit file name icon.](../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
--   To remove an attached file, select the delete icon \(![Delete icon.](../../legal-digital-forensics/image/delete-icon.png)\).
+-   To upload a new document, select the add attachment icon \(![Add attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../legal-request-management/image/add-attachment-icon.png)\) and select a file.
+-   To rename an attached file, select the edit file name icon \(![Edit file name icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../legal-digital-forensics/image/rename-icon.png)\) and update the file name.
+-   To remove an attached file, select the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../legal-digital-forensics/image/delete-icon.png)\).
 
 
 </td></tr><tr><td id="d601756e236">
@@ -101,5 +101,5 @@ A link to the document is listed in the **External URL** column of the documents
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Managing gifts and entertainment disclosure requests](../concept/lsd-manage-ge-request.md)
+**Parent Topic:**[Managing gifts and entertainment disclosure requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../concept/lsd-manage-ge-request.md)
 

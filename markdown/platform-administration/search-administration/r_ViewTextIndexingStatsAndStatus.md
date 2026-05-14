@@ -19,36 +19,36 @@ To view text indexing statistics and status, navigate to **All** &gt; **System D
 -   To see how long it takes to index a specific table, view the **Last indexing duration** field for the table entry. Although each process varies based on activity and data, historical data can provide a good estimate.
 -   View statistics \(such as the number of indexed rows, terms, and queries in the past week\) in the list or on the form for a specific table.
 
-![Text Index records with State field highlighted.](../image/TextIndexStatus.png "Text Index Status")
+![Text Index records with State field highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/TextIndexStatus.png "Text Index Status")
 
-![Text index statistics record.](../image/TextIndexStatistics.png "Text Index Statistics")
+![Text index statistics record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../image/TextIndexStatistics.png "Text Index Statistics")
 
-**Parent Topic:**[Zing indexes words](../concept/zing-indexes-words.md)
+**Parent Topic:**[Zing indexes words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/zing-indexes-words.md)
 
 **Related topics**  
 
 
-[Zing indexes punctuation as part of some words](../concept/c_PunctuationForSearchResults.md)
+[Zing indexes punctuation as part of some words](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_PunctuationForSearchResults.md)
 
-[Zing indexes some HTML elements](../concept/c_SearchingHTMLContent.md)
+[Zing indexes some HTML elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../concept/c_SearchingHTMLContent.md)
 
-[Configure a table for indexing and searching](../task/configure-single-table-for-indexing.md#)
+[Configure a table for indexing and searching](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-single-table-for-indexing.md#)
 
-[Configure a text index group to search across multiple tables](../task/index-multiple-tables.md)
+[Configure a text index group to search across multiple tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/index-multiple-tables.md)
 
-[Zing index and search dictionary attributes](index-attributes.md)
+[Zing index and search dictionary attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/index-attributes.md)
 
-[Regenerate a text index for a table](../task/t_RegenerateATextIndexForATable.md)
+[Regenerate a text index for a table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RegenerateATextIndexForATable.md)
 
-[Remove an index](../task/t_RemoveAnIndex.md)
+[Remove an index](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RemoveAnIndex.md)
 
-[Remove an index for a specific field](../task/t_RemoveAnIndexForASpecificField.md)
+[Remove an index for a specific field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/t_RemoveAnIndexForASpecificField.md)
 
-[Remove the text index for a child table](../task/remove-index-child-table.md)
+[Remove the text index for a child table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/remove-index-child-table.md)
 
-[Change the query mode of an indexed table](../task/configure-table-query-mode.md)
+[Change the query mode of an indexed table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-table-query-mode.md)
 
-[Enable indexing of text in multi-row variable sets](../task/index-text-multi-row-variable-sets.md)
+[Enable indexing of text in multi-row variable sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/index-text-multi-row-variable-sets.md)
 
-[Configure tables to use the Japanese tokenizer](../task/configure-tables-japanese-tokenizer.md)
+[Configure tables to use the Japanese tokenizer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../task/configure-tables-japanese-tokenizer.md)
 

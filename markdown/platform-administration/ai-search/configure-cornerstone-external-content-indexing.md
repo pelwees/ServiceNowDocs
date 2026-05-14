@@ -78,12 +78,12 @@ To allow the connector to access your Cornerstone source system via the API, you
 
 Provide the following items to your connector admin:
 
--   The Client ID value for your new OAuth 2.0 application that you copied in step [2](configure-cornerstone-external-content-indexing.md#copy-client-id-step).
--   The Client Secret value for your new OAuth 2.0 application that you copied in step [3](configure-cornerstone-external-content-indexing.md#copy-client-secret-step).
+-   The Client ID value for your new OAuth 2.0 application that you copied in step [2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-cornerstone-external-content-indexing.md#copy-client-id-step).
+-   The Client Secret value for your new OAuth 2.0 application that you copied in step [3](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-cornerstone-external-content-indexing.md#copy-client-secret-step).
 
 Your connector admin needs these items to configure a Cornerstone external content connector to retrieve Catalogue and Learning objects from your Cornerstone source system.
 
-For details on creating and configuring a Cornerstone external content connector, see [Create a Cornerstone external content connector](create-ext-cont-connector-cornerstone.md).
+For details on creating and configuring a Cornerstone external content connector, see [Create a Cornerstone external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-cornerstone.md).
 
-**Parent Topic:**[Cornerstone external content connector](../concept/cornerstone-external-content-connector.md)
+**Parent Topic:**[Cornerstone external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/cornerstone-external-content-connector.md)
 

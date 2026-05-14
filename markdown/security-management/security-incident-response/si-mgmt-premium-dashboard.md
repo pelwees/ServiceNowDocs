@@ -15,9 +15,9 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 This dashboard uses advanced Platform Analytics visualizations to aid security managers to track the volume, performance and progress of security incidents from initial analysis/detection to containment, eradication, and recovery. The licensed version of Performance Analytics is therefore required.
 
-![The Process by State tab of the Security Incident Management Premium dashboard](../../../product/security-incident-response/image/sec-incident-mgmt-premium.png "Security incident response by state")
+![The Process by State tab of the Security Incident Management Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/sec-incident-mgmt-premium.png "Security incident response by state")
 
-![Workbench widget showing key security incident indicators broken down by age](../../../product/security-incident-response/image/si-mgmt-premium-age.png "Security incident response by age")
+![Workbench widget showing key security incident indicators broken down by age](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/si-mgmt-premium-age.png "Security incident response by age")
 
 ## End users and roles
 
@@ -54,7 +54,7 @@ The Data Quality tab has interactive filters for the Category of the security in
 
     The Number of open security incidents filtered for an age of 30 days and broken down by Assignment group and State.
 
-    ![Heatmap widget of security incidents open more than 30 days with the Assignment Group and State level 1 and 2 breakdowns](../../../product/security-incident-response/image/security-incident-open-30-days.png)
+    ![Heatmap widget of security incidents open more than 30 days with the Assignment Group and State level 1 and 2 breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/image/security-incident-open-30-days.png)
 
 -   **Security Incidents With Assignee That is not Active**
 
@@ -86,16 +86,16 @@ The following breakdowns apply to the indicators on the dashboard:
 -   Security Incident Priority
 -   Security Incident State
 
-**Parent Topic:**[Security Incident Response Platform Analytics Solutions](security-incident-content-pack.md)
+**Parent Topic:**[Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md)
 
 **Related topics**  
 
 
-[CISO dashboard](ciso-dashboard.md)
+[CISO dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ciso-dashboard.md)
 
-[Security Incident Management dashboard](security-incident-mgmt-dashboard.md)
+[Security Incident Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-mgmt-dashboard.md)
 
-[Security Incident Explorer dashboard](si-explorer-dashboard.md)
+[Security Incident Explorer dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/si-explorer-dashboard.md)
 
-[Security Operations Efficiency dashboard](../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
+[Security Operations Efficiency dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../product/security-incident-response/concept/cj-sir-socpa-dashboard.md)
 

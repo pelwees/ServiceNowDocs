@@ -292,16 +292,16 @@ Any additional information about the asset.
 
 The pallet that you created is added to the list shown in the Pallets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/pallets-for-inventory-management.md)
 
 **Related topics**  
 
 
-[Add assets to a pallet](add-assets-to-pallet.md)
+[Add assets to a pallet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-assets-to-pallet.md)
 
-[Remove assets from a pallet](remove-assets-from-pallet.md)
+[Remove assets from a pallet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-assets-from-pallet.md)
 
-[Delete pallet assets](delete-pallet-assets.md)
+[Delete pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/delete-pallet-assets.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/using-pallet-assets-for-inventory-mgmt.md)
 

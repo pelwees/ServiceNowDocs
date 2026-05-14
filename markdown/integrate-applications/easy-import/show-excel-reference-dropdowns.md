@@ -41,8 +41,8 @@ Role required: admin
 
     The field appears as a list on the Excel spreadsheet:
 
-    ![Excel choice list](../../key-management-framework/image/excel-list.png)
+    ![Excel choice list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../../key-management-framework/image/excel-list.png)
 
 
-**Parent Topic:**[Easy import](../concept/c_EasyImport.md)
+**Parent Topic:**[Easy import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/easy-import/../concept/c_EasyImport.md)
 

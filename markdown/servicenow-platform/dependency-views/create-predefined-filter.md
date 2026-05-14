@@ -66,28 +66,28 @@ Create a predefined filter that you can then select to determine the scope of th
 
 After creating a predefined filter, you can apply it to a map:
 
-1.  Click the Map settings icon ![Map settings.](../image/dv-map-settings.png) to open **Map Settings**.
+1.  Click the Map settings icon ![Map settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../image/dv-map-settings.png) to open **Map Settings**.
 2.  Select a filter from the **Predefined Filters** list.
 3.  Click **Apply**.
 
-**Parent Topic:**[Administer Dependency Views](../topic/p_AdministerNGBSM.md)
+**Parent Topic:**[Administer Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../topic/p_AdministerNGBSM.md)
 
 **Related topics**  
 
 
-[Create or modify map indicators](t_CreateModifyNGBSMMapIndicators.md)
+[Create or modify map indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIndicators.md)
 
-[Create or modify map icons](t_CreateModifyNGBSMMapIcons.md)
+[Create or modify map icons](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIcons.md)
 
-[Set a predefined filter as default](set-predefined-filter-default.md)
+[Set a predefined filter as default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/set-predefined-filter-default.md)
 
-[Create or modify Map Related Items](t_CreateModifyNGBSMMapRelatedItems.md)
+[Create or modify Map Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapRelatedItems.md)
 
-[Create or modify Dependency Views menu actions](t_CreateModifyNGBSMMenuActions.md)
+[Create or modify Dependency Views menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMenuActions.md)
 
-[Condition and script parameters for menu actions](../reference/condition-script-parameters.md)
+[Condition and script parameters for menu actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/../reference/condition-script-parameters.md)
 
-[Create or edit a dependency type](t_CreateMapScript.md)
+[Create or edit a dependency type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateMapScript.md)
 
-[Filter the view of a Dependency Views map](t_FilterViewNGBSMMap.md)
+[Filter the view of a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_FilterViewNGBSMMap.md)
 

@@ -74,5 +74,5 @@ Integration Hub uses aliases to manage connection and credential information, an
 
 
 
-For information about setting up the spoke, see [Set up Oracle NetSuite Spoke](../task/set-up-oracle-netsuite-spoke.md#).
+For information about setting up the spoke, see [Set up Oracle NetSuite Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../task/set-up-oracle-netsuite-spoke.md#).
 

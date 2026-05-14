@@ -39,5 +39,5 @@ Date Calculation: All planned dates and actual dates of the child tasks are roll
 
 Dependencies: All type of task dependencies, excluding external dependencies, are supported by the planned tasks. For more information about various dependency types, see Project task relationships and dependencies.
 
-**Parent Topic:**[Extending the Task table with Planned tasks](c_PlannedTask.md)
+**Parent Topic:**[Extending the Task table with Planned tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PlannedTask.md)
 

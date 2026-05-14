@@ -39,5 +39,5 @@ Create and track personal and professional aspirations.
     If your aspiration falls outside the interest, skill and role categories, general gives you the opportunity to make something from scratch.
 
 
-**Parent Topic:**[Exploring Talent Development Core](egd-explore.md)
+**Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 

@@ -47,30 +47,30 @@ if(pa.getCurrentAggregateID() == '89ea4c11d7001100ba986f14ce6103dc')
 res;
 ```
 
-**Parent Topic:**[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+**Parent Topic:**[PAFormulaUtils API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/PAFormulaUtils.md)
 
 **Related topics**  
 
 
-[getChange\(String indicator, Object fromDate, Object toDate\)](PAFU-getChange_S_O_O.md)
+[getChange\(String indicator, Object fromDate, Object toDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getChange_S_O_O.md)
 
-[getChangePercentage\(String indicator, Object fromDate, Object toDate\)](PAFU-getChangePercentage_S_O_O.md)
+[getChangePercentage\(String indicator, Object fromDate, Object toDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getChangePercentage_S_O_O.md)
 
-[getCurrentBreakdownID\(\)](PAFU-getCurrentBreakdownID.md)
+[getCurrentBreakdownID\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getCurrentBreakdownID.md)
 
-[getCurrentBreakdownLevel2ID\(\)](PAFU-getCurrentBreakdownLevel2ID.md)
+[getCurrentBreakdownLevel2ID\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getCurrentBreakdownLevel2ID.md)
 
-[getCurrentElementID\(\)](PAFU-getCurrentElementID.md)
+[getCurrentElementID\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getCurrentElementID.md)
 
-[getCurrentElementLevel2ID\(\)](PAFU-getCurrentElementLevel2ID.md)
+[getCurrentElementLevel2ID\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getCurrentElementLevel2ID.md)
 
-[getGap\(String indicator, Object onDate\)](PAFU-getGap_S_O.md)
+[getGap\(String indicator, Object onDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getGap_S_O.md)
 
-[getGlobalTarget\(String indicator, Object onDate\)](PAFU-getGlobalTarget_S_O.md)
+[getGlobalTarget\(String indicator, Object onDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getGlobalTarget_S_O.md)
 
-[getPersonalTarget\(String indicator, Object onDate\)](PAFU-getPersonalTarget_S_O.md)
+[getPersonalTarget\(String indicator, Object onDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getPersonalTarget_S_O.md)
 
-[getScore\(String indicator, Object onDate\)](PAFU-getScore_S_O.md)
+[getScore\(String indicator, Object onDate\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFU-getScore_S_O.md)
 
-[PAFormulaUtils API](../concept/PAFormulaUtils.md)
+[PAFormulaUtils API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/PAFormulaUtils.md)
 

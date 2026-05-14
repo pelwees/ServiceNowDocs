@@ -100,7 +100,7 @@ Meta
 
 </td><td>
 
-Comma-separated list of tags used to search for the content item. See [Configure keyword search for catalog items](search-catalog-item.md).
+Comma-separated list of tags used to search for the content item. See [Configure keyword search for catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/search-catalog-item.md).
 
 </td></tr><tr><td>
 
@@ -114,5 +114,5 @@ If selected, the content item is not available on Service Portal.
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Types of catalog items](../reference/r_ExtendedCatalogItemFunctions.md)
+**Parent Topic:**[Types of catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_ExtendedCatalogItemFunctions.md)
 

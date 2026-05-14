@@ -44,7 +44,7 @@ The setup is organized into the four distinct phases: Learn, Crawl, Walk, and Ru
 
 The ITOM Discovery Guided Setup provides step-by-step configuration support along with intuitive navigation to track progress and move smoothly through each phase.
 
-![Navigational features available on the landing page](../image/disco-guided-setup-landing-features.png "Guided Setup landing page features")
+![Navigational features available on the landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/disco-guided-setup-landing-features.png "Guided Setup landing page features")
 
 <table id="table_mgh_yxv_5gc"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Jump to specific activities within a phase.
 View and access tasks within another phase.
 
 </td></tr></tbody>
-</table>![Navigational features available in a phase](../image/disco-guided-setup-phase-features.png "Guided Setup in-phase features")
+</table>![Navigational features available in a phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/disco-guided-setup-phase-features.png "Guided Setup in-phase features")
 
 |Feature|Description|
 |-------|-----------|

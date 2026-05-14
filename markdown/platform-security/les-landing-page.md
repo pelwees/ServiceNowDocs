@@ -25,7 +25,7 @@ The integration tool allows you to leverage your analytic solutions to perform t
 
 LES leverages a ServiceNow AI Platform capability called the Hermes Messaging Service, which is a multi-tenant, multi-cluster, data transport, and queuing service built on Apache Kafka that enables your instance to produce and consume large volumes of Kafka events. Apache Kafka is an open-source data streaming platform that provides a single integration point for exchanging data across business systems in your organization.
 
-![Log Export Service](../image/les-architecture.png)
+![Log Export Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/les-architecture.png)
 
 LES forwards a copy of the log events as they're generated to the Hermes Messaging Service.
 
@@ -41,9 +41,9 @@ The external log analytic systems, either in the cloud or on-prem, can use and c
 
 To configure and manage LES you need to install it from ServiceNow Store. The LES application provides Guided Setups to help you install the service, pages to configure the service \(log sources, consumers and destinations\) and reports to understand log creation and consumption.
 
-![Navigation filter](../image/les-module.png)
+![Navigation filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/les-module.png)
 
-**Note:** You can also create a new source configuration. See [Create a log source configuration](../task/les-create-source-configuration.md) for more information.
+**Note:** You can also create a new source configuration. See [Create a log source configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/les-create-source-configuration.md) for more information.
 
 ## Log Export Service users
 
@@ -58,22 +58,22 @@ Log Export Service has the following users.
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Create log source configuration to set filters on the logs|[Create a log source configuration](../task/les-create-source-configuration.md)|Application admin|
-|Experience guided setup for Kafka consumers|[Guided setup for Kafka consumers](../task/les-guided-setup-kafka.md)|System administrator|
-|Experience guided setup for MID server consumers|[Guided setup for MID Server consumers](../task/les-guided-setup-mid-server.md)|System administrator|
-|Examine the log report dashboard to analyze the size of each data log|[Review log report](les-use.md#)|System administrator or Application admin|
+|Create log source configuration to set filters on the logs|[Create a log source configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/les-create-source-configuration.md)|Application admin|
+|Experience guided setup for Kafka consumers|[Guided setup for Kafka consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/les-guided-setup-kafka.md)|System administrator|
+|Experience guided setup for MID server consumers|[Guided setup for MID Server consumers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/les-guided-setup-mid-server.md)|System administrator|
+|Examine the log report dashboard to analyze the size of each data log|[Review log report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-use.md#)|System administrator or Application admin|
 
 ## What to explore next
 
 To learn more about using Log Export Service, see:
 
--   [Administering Log Export Service \(LES\)](les-administer.md)
--   [Configuring Log Export Service \(LES\)](les-configure.md)
--   [Using Log Export Service \(LES\)](les-use.md#)
--   [Log Export Service \(LES\) references](les-references.md)
+-   [Administering Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-administer.md)
+-   [Configuring Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-configure.md)
+-   [Using Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-use.md#)
+-   [Log Export Service \(LES\) references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-references.md)
 
--   **[Log sources](les-log-sources-export.md)**  
+-   **[Log sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-log-sources-export.md)**  
 Log Export Service \(LES\) can export log sources from some System Log Tables, the Audit Table, and Application Node Log Files.
 
-**Parent Topic:**[Log Export Service \(LES\)](les-intro.md)
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 

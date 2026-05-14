@@ -26,10 +26,10 @@ The App Engine Management Center \(AEMC\) is designed to empower App Engine admi
 -   Schedule app deployments.
 -   View insights about developers and custom apps within their ServiceNow environment.
 
--   **[Managing app development using the App Engine Management Center](managing-app-development-using-aemc.md)**  
+-   **[Managing app development using the App Engine Management Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/managing-app-development-using-aemc.md)**  
 Track and manage requests, deployments, applications, and collaborative developers for your custom applications using the App Engine Management Center \(AEMC\) in your production instance.
--   **[Managing deployments using Pipelines and Deployments](../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md)**  
+-   **[Managing deployments using Pipelines and Deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../app-engine-studio/concept/manage-deployments-using-p-and-d-aemc.md)**  
 Manage deployments using Pipelines and Deployments in the App Engine Management Center \(AEMC\).
 
-**Parent Topic:**[App Engine Management Center](app-engine-management-center.md)
+**Parent Topic:**[App Engine Management Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/app-engine-management-center.md)
 

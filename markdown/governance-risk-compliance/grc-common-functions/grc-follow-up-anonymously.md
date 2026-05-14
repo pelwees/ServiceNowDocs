@@ -23,7 +23,7 @@ Role required: sn\_grc.business\_user
 
 ## About this task
 
-ARC offers employees a safe, confidential way to report suspected misconduct without revealing their identity, encouraging early disclosure of issues that might otherwise go unreported. You can follow up on your case anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. For more information, refer to [Anonymous Reporting Center](../concept/grc-anonymous-reporting-center.md).
+ARC offers employees a safe, confidential way to report suspected misconduct without revealing their identity, encouraging early disclosure of issues that might otherwise go unreported. You can follow up on your case anytime, without sharing your name or contact details. Investigators only see the report details, not who submitted it. For more information, refer to [Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-anonymous-reporting-center.md).
 
 ## Procedure
 
@@ -52,14 +52,14 @@ ARC offers employees a safe, confidential way to report suspected misconduct wit
 
 Use the report to add new information or to respond to investigator comments.
 
-**Parent Topic:**[Anonymous Reporting Center](../concept/grc-anonymous-reporting-center.md)
+**Parent Topic:**[Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-anonymous-reporting-center.md)
 
 **Related topics**  
 
 
-[Report an AI case anonymously](../../grc-ai-risk-compliance/task/report-ai-case-anon.md)
+[Report an AI case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-ai-risk-compliance/task/report-ai-case-anon.md)
 
-[Report a compliance case anonymously](../../grc-compliance-case-mgmt/task/report-compliance-case-anonymously.md)
+[Report a compliance case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-compliance-case-mgmt/task/report-compliance-case-anonymously.md)
 
-[Report a privacy case anonymously](../../grc-privacy-management/task/report-privacy-case-anonymously.md)
+[Report a privacy case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-privacy-management/task/report-privacy-case-anonymously.md)
 

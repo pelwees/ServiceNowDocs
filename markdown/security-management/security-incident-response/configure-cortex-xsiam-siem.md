@@ -81,5 +81,5 @@ URL of the XSIAM tenant.
 
 ## What to do next
 
-[Create an incident profile](pan-cortex-xsiam-profile.md)
+[Create an incident profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/pan-cortex-xsiam-profile.md)
 

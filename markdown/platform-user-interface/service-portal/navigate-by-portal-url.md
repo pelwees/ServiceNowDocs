@@ -61,7 +61,7 @@ keywords
 
 Human readable keywords that improve search engine optimization \(SEO\) and click-through rates for public pages. Human readable URLs also help users understand what to expect on a page for public and non-public pages. For example, `https://<instance>/kb/en/faq/what-is-a-cookie?id=kb_article_view&sysparm_article=KB0000007`.
 
- For more information, see [Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md).
+ For more information, see [Add human readable keywords to page URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/add-human-readable-keywords-page-urls.md).
 
 </td></tr><tr><td>
 
@@ -102,10 +102,10 @@ Widgets and widget instance options reference Service Portal pages using the pag
 <div><a href="?id=sc_home">${Order something...}</a></div>
 ```
 
-**Parent Topic:**[Understanding Service Portal](sp-what-to-know.md)
+**Parent Topic:**[Understanding Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-what-to-know.md)
 
 **Related topics**  
 
 
-[Add human readable keywords to page URLs](../task/add-human-readable-keywords-page-urls.md)
+[Add human readable keywords to page URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/add-human-readable-keywords-page-urls.md)
 

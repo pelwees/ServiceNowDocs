@@ -17,7 +17,7 @@ Import your badge reader data from an Excel spreadsheet into the Badge Access Re
 
 ## Before you begin
 
-Ensure that you have added all your [user badge](add-user-badge.md) and [badge reader](add-badge-reader.md) data.
+Ensure that you have added all your [user badge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-user-badge.md) and [badge reader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-badge-reader.md) data.
 
 Role required: sn\_imt\_tracing.badge\_manager
 
@@ -31,9 +31,9 @@ Role required: sn\_imt\_tracing.badge\_manager
 
 4.  Attach the Excel file and load data in the Import Set table.
 
-    1.  Click the preview icon \(![Preview icon](../../safe-workplace-dashboard/image/icon-preview.png)\) next to the **Data source** field, and then click **Open Record**.
+    1.  Click the preview icon \(![Preview icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../safe-workplace-dashboard/image/icon-preview.png)\) next to the **Data source** field, and then click **Open Record**.
 
-    2.  On the Data Source form, click the manage attachments icon \(![Manage attachments icon](../image/icon-paperclip.png)\).
+    2.  On the Data Source form, click the manage attachments icon \(![Manage attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../image/icon-paperclip.png)\).
 
     3.  Click **Choose File** and select the source Excel file.
 
@@ -54,7 +54,7 @@ Role required: sn\_imt\_tracing.badge\_manager
 6.  Verify that the data records were imported into the Badge Access Register table by navigating to **Contact Tracing** &gt; **Badge Management** &gt; **Badge Access Register**.
 
 
-**Parent Topic:**[Collecting user badge data](../concept/badge-management.md)
+**Parent Topic:**[Collecting user badge data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/badge-management.md)
 
 **Related topics**  
 

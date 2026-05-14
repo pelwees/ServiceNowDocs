@@ -15,14 +15,14 @@ A saved filter allows advanced filtering when you want to highlight spaces, base
 
 You can set a filter showing all the printers on a map and share that filter with other users. Private filters can be saved without sharing those filters with others.
 
-![Used to filter what you want to see on a facilities map.](../image/SavedFilter.png "Facilities map filter")
+![Used to filter what you want to see on a facilities map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/SavedFilter.png "Facilities map filter")
 
-**Parent Topic:**[Map filters](r_MapFilters.md)
+**Parent Topic:**[Map filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapFilters.md)
 
 **Related topics**  
 
 
-[Simple filters](r_SimpleFilters.md)
+[Simple filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SimpleFilters.md)
 
-[Create a map filter in Facilities Service Management](../task/t_CreateAMapFilter.md)
+[Create a map filter in Facilities Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../task/t_CreateAMapFilter.md)
 

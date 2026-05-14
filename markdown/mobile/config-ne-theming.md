@@ -23,7 +23,7 @@ To use Next Experience theming, you must have Next Experience enabled on your in
 
 Themes are defined by records in the UX Themes \[sys\_ux\_theme\] table. Your instance includes three base system themes for use in the mobile UI, they are: Coral, Polaris, and mobile legacy.
 
-![Three images side by side show the difference in look-and-feel of the different themes: legacy, Polaris, and Coral.](../image/theming-evolution-1.png "Comparison of the themes legacy, Polaris and Coral")
+![Three images side by side show the difference in look-and-feel of the different themes: legacy, Polaris, and Coral.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/theming-evolution-1.png "Comparison of the themes legacy, Polaris and Coral")
 
 **Note:**
 
@@ -33,7 +33,7 @@ Themes are defined by records in the UX Themes \[sys\_ux\_theme\] table. Your in
 
 -   **Coral**
 
-    Coral is the default theme for instances with Next Experience enabled for versions Zurich and above. Customers upgrading to the Zurich theme will not automatically have their theme upgraded to Coral. Instead they will manually have to select the theme. For configuration instructions, see [Assign a Next Experience theme in the Mobile App Builder](../task/config-ne-theme-in-mab.md). The Coral theme provides a fresh look and feel, featuring brand-neutral illustrations to enhance your user experience.
+    Coral is the default theme for instances with Next Experience enabled for versions Zurich and above. Customers upgrading to the Zurich theme will not automatically have their theme upgraded to Coral. Instead they will manually have to select the theme. For configuration instructions, see [Assign a Next Experience theme in the Mobile App Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/config-ne-theme-in-mab.md). The Coral theme provides a fresh look and feel, featuring brand-neutral illustrations to enhance your user experience.
 
     A core UX Style \[sys\_ux\_style\] record called **Mobile Colors Default** is included with the **Coral** theme. This record cannot be modified, but, users can create a copy of this record or create a new theme record. Give your new or copied record a higher priority value to override the colors specified in the **Mobile Colors Default** record.
 
@@ -93,5 +93,5 @@ Use color variables when designing your mobile components to provide a consisten
 -   Mobile view buttons
 -   Input description fields
 
-How to use color variables varies depending on the component you're building. For information on how to apply color variables on each of these components, see [Color theme considerations for mobile](color-guide-landing.md).
+How to use color variables varies depending on the component you're building. For information on how to apply color variables on each of these components, see [Color theme considerations for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/color-guide-landing.md).
 

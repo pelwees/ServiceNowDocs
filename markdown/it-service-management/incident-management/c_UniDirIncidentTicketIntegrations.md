@@ -33,5 +33,5 @@ This implementation responds to the third-party system with the ticket ID. The I
 
 An implementation variation for the inbound path would be to use the Import Set Tables as interface tables. In this example, the Incident\_Interface Table stores a history of data as it was received and before the data was transformed. The destination Incident Table could store a history of how the incident has changed over time and who changed it. The transform scripts would process the import set and the business rules would run on the target table.
 
-**Parent Topic:**[Incident ticketing integrations](c_IncidentTicketingIntegrations.md)
+**Parent Topic:**[Incident ticketing integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentTicketingIntegrations.md)
 

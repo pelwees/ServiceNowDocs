@@ -31,19 +31,19 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![Explore](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about HR Success Dashboard indicators concepts and features.](explore-success-dashboard.md)
+[Explore ![Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about HR Success Dashboard indicators concepts and features.](explore-success-dashboard.md)
 
 </td><td>
 
-[Configure ![Configure](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environment, tools, and user access.](configure-success-dashboard.md)
+[Configure ![Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environment, tools, and user access.](configure-success-dashboard.md)
 
 </td></tr><tr><td>
 
-[Use ![Use](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how you can use HR Success Dashboard indicators.](using-success-dashboard.md#)
+[Use ![Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Learn how you can use HR Success Dashboard indicators.](using-success-dashboard.md#)
 
 </td><td>
 
-[Reference ![Reference](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about ITSM Success Dashboard the HR Success Dashboard indicators components such as roles and dependent applications.](success-dashboard-reference.md)
+[Reference ![Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about ITSM Success Dashboard the HR Success Dashboard indicators components such as roles and dependent applications.](success-dashboard-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

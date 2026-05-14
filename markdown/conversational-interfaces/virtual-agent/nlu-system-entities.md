@@ -1027,20 +1027,20 @@ Code example
 
 ```
 
-**Parent Topic:**[Virtual Agent technical reference](../concept/va-advanced-technical-reference.md)
+**Parent Topic:**[Virtual Agent technical reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-advanced-technical-reference.md)
 
 **Related topics**  
 
 
-[Domain separation and Virtual Agent](../concept/domain-separation-virtual-agent.md)
+[Domain separation and Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/domain-separation-virtual-agent.md)
 
-[Virtual Agent interaction records](../concept/va-interactions.md)
+[Virtual Agent interaction records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-interactions.md)
 
-[Virtual Agent scripts](../concept/virtual-agent-scripts.md)
+[Virtual Agent scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/virtual-agent-scripts.md)
 
-[Input data types in Virtual Agent topics](va-data-types.md)
+[Input data types in Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-data-types.md)
 
-[Virtual Agent URL parameters](va-sysparm.md)
+[Virtual Agent URL parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-sysparm.md)
 
-[Latency feedback in Virtual Agent](latency-feedback.md)
+[Latency feedback in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/latency-feedback.md)
 

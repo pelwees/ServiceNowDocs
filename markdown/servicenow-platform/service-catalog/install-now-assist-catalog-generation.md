@@ -43,7 +43,7 @@ Now Assist in Catalog Builder is a capability within the Now Assist for Creator 
 
     3.  On the Service Catalog card, verify that the Catalog item generation skill is active.
 
-        ![Catalog item generation skill](../image/catalog-item-gen-skill-page.png)
+        ![Catalog item generation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/catalog-item-gen-skill-page.png)
 
         **Note:** If the skill isn’t active, select **View details**. Then on the Service Catalog page, turn on the Catalog item generation skill.
 
@@ -54,5 +54,5 @@ Now Assist in Catalog Builder is a capability within the Now Assist for Creator 
 
 Grant the catalog\_builder\_editor role to enable users to create catalog items using Now Assist.
 
-**Parent Topic:**[Now Assist in Catalog Builder](../concept/now-assist-for-catalog-generation.md)
+**Parent Topic:**[Now Assist in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/now-assist-for-catalog-generation.md)
 

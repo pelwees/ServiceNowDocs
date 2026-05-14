@@ -31,7 +31,7 @@ Use this procedure the start the guided tour manually.
 
 3.  Select a universal request in any given categories.
 
-4.  Select the **Show help** icon \(![Show help icon](../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
+4.  Select the **Show help** icon \(![Show help icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../../wsd-indoor-mapping/images/help_question_mark_icon.png)\).​
 
 5.  Select **Take a tour**.
 
@@ -46,5 +46,5 @@ Use this procedure the start the guided tour manually.
 9.  Select **Done** to complete the tour.
 
 
-**Parent Topic:**[Using Universal Request](../concept/using-ur.md)
+**Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/using-ur.md)
 

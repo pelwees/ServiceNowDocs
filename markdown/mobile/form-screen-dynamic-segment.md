@@ -17,11 +17,11 @@ Configure a record screen with a dynamic screen segment so users can view record
 
 When configuring a dynamic screen segment within a record screen, ensure that you have created the following items:
 
--   A record screen, used to include a dynamic screen segment within the segmented control. For more information, see [Configure a parameterized record screen](configure-param-form-applet.md).
+-   A record screen, used to include a dynamic screen segment within the segmented control. For more information, see [Configure a parameterized record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/configure-param-form-applet.md).
 -   An embedded list, used to display a list of records within the selected record screen. This list is selected from the **Dynamic segment item stream** field.
 -   A corresponding list to be displayed when each screen segment is selected. This process should resemble the embedded list procedure, with the addition of using a target table to which you are referencing.
 
-    For more information about embedded lists and the list to be displayed when a screen segment is selected, see [Embedded lists for a record screen](../concept/sg-embedded-list.md)
+    For more information about embedded lists and the list to be displayed when a screen segment is selected, see [Embedded lists for a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/sg-embedded-list.md)
 
 
 Role required: admin
@@ -36,7 +36,7 @@ Role required: admin
 
 4.  In the Segmented Control area, select the height and width of the segment buttons.
 
-    For a guide to the button sizes, see [Using dynamic segments to display data in a record screen](../concept/dynamic-segment-form-screen.md).
+    For a guide to the button sizes, see [Using dynamic segments to display data in a record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/dynamic-segment-form-screen.md).
 
 5.  Right-click in the header and select **Save**.
 
@@ -82,7 +82,7 @@ Role required: admin
 
 8.  While still in the Dynamic Form Segment Screen form, define the appropriate lists to display when selecting segments in the dynamic screen segment.
 
-    1.  From the **Dynamic segment list stream** field, select the information icon \(![Information icon.](../image/gac-info-icon.png)\) and select **Open Record**.
+    1.  From the **Dynamic segment list stream** field, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/gac-info-icon.png)\) and select **Open Record**.
 
     2.  Select the List Stream M2M Item Configuration to use for the dynamic section.
 
@@ -93,5 +93,5 @@ Role required: admin
 
 ## What to do next
 
-Define the appearance of selected segment buttons. See, [Customize segment button colors in the segmented control area](dynamic-segmented-control-config.md).
+Define the appearance of selected segment buttons. See, [Customize segment button colors in the segmented control area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/dynamic-segmented-control-config.md).
 

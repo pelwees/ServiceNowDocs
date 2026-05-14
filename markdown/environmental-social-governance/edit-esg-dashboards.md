@@ -60,7 +60,7 @@ To edit the details of a dashboard created in the in-line editor:
 **Note:** If you don’t see this option, you don’t have permission to edit the dashboard.
 
 3.  Edit the details of the dashboard and then select **Exit editing mode**.
- For more information, see [Edit Operational Sustainability Management dashboard details](edit-esg-dashboard-details.md).
+ For more information, see [Edit Operational Sustainability Management dashboard details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-details.md).
 
 </td></tr><tr><td id="d22406e192">
 
@@ -167,5 +167,5 @@ Choose whether and which analytics to show in the **Insights** section.When you 
 </table>    **Note:** If you aren’t able to edit, either you don’t have permission to edit the dashboard, or it is in edit lock.
 
 
-**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](monitor-data-using-esg-dashboards.md)
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 

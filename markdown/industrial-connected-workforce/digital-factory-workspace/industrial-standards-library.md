@@ -24,11 +24,11 @@ Standards establish consistency and uniformity in how tasks and activities are p
 -   View and manage knowledge articles
 -   View embedded shopfloor insights on published standards to analyze execution performance
 
-For more information about Industrial Knowledge Management, see [Industrial Knowledge Management](../../icw-industrial-knowledge-management/concept/icw-knowledge-management-landing-page.md).
+For more information about Industrial Knowledge Management, see [Industrial Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../../icw-industrial-knowledge-management/concept/icw-knowledge-management-landing-page.md).
 
 The following image shows an example of the main page in the Standards hub.
 
-![Standards hub main page](../image/standards-hub-home.png)
+![Standards hub main page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/standards-hub-home.png)
 
 ## Use case example
 
@@ -133,5 +133,5 @@ Create or edit knowledge articles
 Knowledge expert
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Using Industrial Standards](using-industrial-standards.md)
+</table>**Parent Topic:**[Using Industrial Standards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/using-industrial-standards.md)
 

@@ -95,7 +95,7 @@ Source Scope
 
 Your custom integration application. This field is populated automatically.
 
- To select a different application, click the Settings \(![Settings icon](../../../common/image/List_PersonalizeListIcon.png)\) icon on the banner frame of your ServiceNow instance. On the System Settings dialog box, select the **Developer** tab and then choose an application from the **Application** drop-down list.
+ To select a different application, click the Settings \(![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../../../common/image/List_PersonalizeListIcon.png)\) icon on the banner frame of your ServiceNow instance. On the System Settings dialog box, select the **Developer** tab and then choose an application from the **Application** drop-down list.
 
 </td></tr><tr><td>
 

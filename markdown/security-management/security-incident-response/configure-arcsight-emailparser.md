@@ -29,7 +29,7 @@ An HPE Security ArcSight ESM - Email Parser template is provided to use for the 
 
     The available security integrations appear as a series of cards.
 
-    ![HPE Security Arcsight ESM - Email Parser card](../image/arcsight-emailparser-plugin-card.png)
+    ![HPE Security Arcsight ESM - Email Parser card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/arcsight-emailparser-plugin-card.png)
 
 2.  In the HPE Security ArcSight ESM - Email Parser card, click **Configure**.
 
@@ -37,7 +37,7 @@ An HPE Security ArcSight ESM - Email Parser template is provided to use for the 
 
 4.  Click the **ArcSight ESM** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](../../../security-operations-common/task/parsing-emails.md).
+    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-operations-common/task/parsing-emails.md).
 
 5.  Check the **Active** box.
 

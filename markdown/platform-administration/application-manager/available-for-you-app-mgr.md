@@ -15,11 +15,11 @@ breadcrumb: [Explore, Application Manager, Administering applications, Get start
 
 The **Available for you** tab displays all applications, products, and plugins.
 
-The applications and products in **Available for you** include the ones available for purchase from the ServiceNow Store and the ones that are already licensed. For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](../../servicenow-store/concept/getting-apps-trials.md).
+The applications and products in **Available for you** include the ones available for purchase from the ServiceNow Store and the ones that are already licensed. For more information about procuring applications and products from the ServiceNow Store, see [Getting apps and trials from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../../servicenow-store/concept/getting-apps-trials.md).
 
-The plugins in this section include those that are licensed and ready to install and those that need to be requested. For more information about requesting plugins, see [Request a plugin](../../plugins/task/t_RequestAPlugin.md).
+The plugins in this section include those that are licensed and ready to install and those that need to be requested. For more information about requesting plugins, see [Request a plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../../plugins/task/t_RequestAPlugin.md).
 
-![Application Manager home.](../image/app-manager-home.png)
+![Application Manager home.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../image/app-manager-home.png)
 
 An automatic synchronization with the ServiceNow Store happens every 24 hours. If an app isn’t displaying in the Application Manager, you can manually synchronize using the **Sync now** button.
 

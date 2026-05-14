@@ -21,7 +21,7 @@ Role required: requester
 
 ## About this task
 
-An order guide submits a single service catalog request that contains several catalog items so that you don't have to request each item manually. For more information, see [Order guides](../concept/c_ServiceCatalogOrderGuides.md).
+An order guide submits a single service catalog request that contains several catalog items so that you don't have to request each item manually. For more information, see [Order guides](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogOrderGuides.md).
 
 For example, a New Employee Hire order guide can contain several items that new employees commonly need, such as business cards, computer, and cell phone. After selecting this order guide, the customer can then provide information about the new employee, including location and job title. The order guide then submits an order for catalog items like business cards, based on the details provided.
 
@@ -47,7 +47,7 @@ For example, a New Employee Hire order guide can contain several items that new 
 
         **Note:** When the item is excluded from the order guide request, the item is not editable and the corresponding mandatory field restrictions are ignored.
 
-    3.  To add an attachment for the catalog item, click the Add attachments icon \(![Icon to add attachments](../image/IconAddAttachmnt.png)\) and select the required attachment.
+    3.  To add an attachment for the catalog item, click the Add attachments icon \(![Icon to add attachments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddAttachmnt.png)\) and select the required attachment.
 
     4.  Click **Previous** to navigate to the **Describe Needs** section.
 
@@ -69,7 +69,7 @@ For example, a New Employee Hire order guide can contain several items that new 
 
 10. If required, specify the **Delivery Information** and **Special instructions**.
 
-11. To add one or more attachments for the cart, click the add attachment icon \(![add attachment icon](../image/IconAddAttachmnt.png)\).
+11. To add one or more attachments for the cart, click the add attachment icon \(![add attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/IconAddAttachmnt.png)\).
 
     You can browse and choose the files, drag the files, or copy and paste them in the Add attachments window.
 
@@ -78,12 +78,12 @@ For example, a New Employee Hire order guide can contain several items that new 
     The corresponding request is displayed in the My Requests page with the request number, estimated delivery date for the entire order, price, and the order status of individual ordered items.
 
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-in-ec.md)
 
 **Related topics**  
 
 
-[Request an order guide](t_OrderProcess.md#)
+[Request an order guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_OrderProcess.md#)
 
-[Create an order guide](t_CreateAnOrderGuide.md)
+[Create an order guide](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md)
 

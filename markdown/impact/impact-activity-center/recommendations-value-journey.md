@@ -15,7 +15,7 @@ breadcrumb: [Activity Center, Exploring Impact, Impact]
 
 View AI driven and expert suggested recommendations for training, content, and experts-on-demand offerings.
 
-![Shows Your Personalized Recommendations.](../image/recommendations.png)
+![Shows Your Personalized Recommendations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/impact-activity-center/../image/recommendations.png)
 
 -   Rule-based recommendations:
     -   A framework that gives Business users a control over configuring and enriching recommendations, including the ability to define their scope.

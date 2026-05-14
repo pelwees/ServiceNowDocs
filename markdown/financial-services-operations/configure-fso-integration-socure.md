@@ -33,6 +33,6 @@ Role required: admin
 
 6.  Configure the KYC service definitions, Socure - CDD - Customer and Socure - CDD - Contact.
 
-    For information on configuring flows and service definitions, see [Configure flows](configure-flow-designer-flows-fso-apps.md) and [Configure service definitions for Financial Services Operations applications](configure-service-definitions.md).
+    For information on configuring flows and service definitions, see [Configure flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md) and [Configure service definitions for Financial Services Operations applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md).
 
 

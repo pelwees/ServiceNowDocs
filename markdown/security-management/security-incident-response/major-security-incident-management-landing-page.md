@@ -19,31 +19,31 @@ Major Security Incident Management
 
 <table id="table_sxm_bbz_xtb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how analysts, administrators, and managers use Major Security Incident Management \(MSIM\)](exploring-major-security-incident-management.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about how analysts, administrators, and managers use Major Security Incident Management \(MSIM\)](exploring-major-security-incident-management.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Plan and configure your implementation](configuring-major-security-incident-management.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-optimize-manage.svg) Plan and configure your implementation](configuring-major-security-incident-management.md)
 
 </td><td>
 
-[Integrate ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Extend MSIM capabilities by integrating with other Microsoft applications](../concept/integrate-with-other-applications.md)
+[Integrate ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-sdlc.svg) Extend MSIM capabilities by integrating with other Microsoft applications](../concept/integrate-with-other-applications.md)
 
 </td></tr><tr><td>
 
-[Administer ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Administration tasks on how to tag incident records and configure labels](../concept/configuring-msi-administration-settings.md#)
+[Administer ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Administration tasks on how to tag incident records and configure labels](../concept/configuring-msi-administration-settings.md#)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-learn.svg) Propose, promote, link, and reject major security incident records through the workspace management](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-learn.svg) Propose, promote, link, and reject major security incident records through the workspace management](../../security-incident-response/concept/promoting-sir-to-msim.md)
 
 </td><td>
 
-[Status Reports ![](../../../reuse/icons/brand-icons/bus-infographic.svg) Monitor incident related tasks and improve processes through metrics, trend charts, and reports](../concept/manage-status-reports-for-major-security-incident-management.md)
+[Status Reports ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-infographic.svg) Monitor incident related tasks and improve processes through metrics, trend charts, and reports](../concept/manage-status-reports-for-major-security-incident-management.md)
 
 </td></tr><tr><td>
 
-[Additional Capabilities ![](../../../reuse/icons/brand-icons/bus-case.svg) Configure information to roll up records](../concept/roll-up-framework-for-major-security-incident-management.md)
+[Additional Capabilities ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../reuse/icons/brand-icons/bus-case.svg) Configure information to roll up records](../concept/roll-up-framework-for-major-security-incident-management.md)
 
 </td><td>
 

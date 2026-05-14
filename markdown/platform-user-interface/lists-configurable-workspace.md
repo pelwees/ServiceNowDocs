@@ -15,7 +15,7 @@ Learn about the components in UI Builder that enable admins to create and custom
 
 ## Lists overview
 
-A [list](../configurable-workspace-glossary.md#) is a content page that displays zero or more records from a database table. The list has rows and columns. Each row is a record, and each column is a field from the record.
+A [list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../configurable-workspace-glossary.md#) is a content page that displays zero or more records from a database table. The list has rows and columns. Each row is a record, and each column is a field from the record.
 
 Lists display multiple records in a Configurable Workspace, such as cases, task, or incidents, so that agents can find and work on records quickly.
 
@@ -23,7 +23,7 @@ Lists display multiple records in a Configurable Workspace, such as cases, task,
 
 A list page is a workspace page designed to help agents navigate, filter, and manage records. List pages for Configurable Workspace are created with the List page template in UI Builder. The List page template includes the Record List component bundle and List menu component.
 
-![List page for a Configurable Workspace](../image/configurable-workspace-list-page.png)
+![List page for a Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/configurable-workspace-list-page.png)
 
 ## Record List component bundle
 
@@ -61,7 +61,7 @@ The List menu component is configured by admins in UI Builder. For information o
 
 The Predicate Builder component enables agents to set conditions from the list header to filter which records appear in a list.
 
-![Predicate Builder for a Configurable Workspace](../image/configurable-workspace-predicate-builder.png)
+![Predicate Builder for a Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/configurable-workspace-predicate-builder.png)
 
 The Predicate Builder is configured by admins in UI Builder.
 

@@ -27,17 +27,17 @@ Incoming invoice inquiry case.
 
 2.  Create an invoice inquiry case.
 
-    For more information on inquiry case, see [Work on an invoice inquiry case](work-inquiry-case.md). The Inquiry Classifier AI skill analyzes the description and short description, auto-categorizes the incoming inquiries into sub-categories. Example: Payment inquiry
+    For more information on inquiry case, see [Work on an invoice inquiry case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/work-inquiry-case.md). The Inquiry Classifier AI skill analyzes the description and short description, auto-categorizes the incoming inquiries into sub-categories. Example: Payment inquiry
 
 
 ## Result
 
 The invoice inquiry case is auto-populated with sub-category without any manual intervention by an AP agent.
 
-**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](../../sourcing-procurement-operations/concept/now-assist-fsc-using.md)
+**Parent Topic:**[Using Now Assist for Common Finance and Supply Chain features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../sourcing-procurement-operations/concept/now-assist-fsc-using.md)
 
 **Related topics**  
 
 
-[Summarize a purchase order by using Now Assist for Common Finance and Supply Chain features in Source-to-Pay Workspace](../../sourcing-procurement-operations/task/now-assist-fsc-summarize-po.md)
+[Summarize a purchase order by using Now Assist for Common Finance and Supply Chain features in Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../sourcing-procurement-operations/task/now-assist-fsc-summarize-po.md)
 

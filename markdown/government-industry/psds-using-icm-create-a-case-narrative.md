@@ -29,9 +29,9 @@ Role required: icm.investigator
 
 4.  In the Case Narrative field, enter the narrative details.
 
-    You can refine the text entered in this field using the Now Assist for PSDS Case Narrative refinement skill. For more information on this skill and how to use it, see [Refine an investigative case narrative using the Now Assist for PSDS Investigative case narrative refinement skill](psds-using-na-refine-icm-case-narrative.md).
+    You can refine the text entered in this field using the Now Assist for PSDS Case Narrative refinement skill. For more information on this skill and how to use it, see [Refine an investigative case narrative using the Now Assist for PSDS Investigative case narrative refinement skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-using-na-refine-icm-case-narrative.md).
 
-    ![case narrative refinement skill view](../image/psds-narrative-skill-activated.png)
+    ![case narrative refinement skill view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psds-narrative-skill-activated.png)
 
 5.  Select **Save**.
 
@@ -47,17 +47,17 @@ Add an entity to the case. For information on how to do this, see the following:
 **Related topics**  
 
 
-[Add an associated person to an Investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated person to an Investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add a location to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add a location to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add a related property to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add a related property to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add an associated event to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated event to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add an associated vehicle to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated vehicle to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add an associated organization to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated organization to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 
-[Add an associated firearm to an investigative case](../concept/psds-using-icm-add-entities.md#)
+[Add an associated firearm to an investigative case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../concept/psds-using-icm-add-entities.md#)
 

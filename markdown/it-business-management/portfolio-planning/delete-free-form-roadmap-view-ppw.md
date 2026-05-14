@@ -31,21 +31,21 @@ Role required: sn\_align\_core.ap\_read\_only
 
 2.  Select a free-form roadmap to open it.
 
-3.  Select the Free-form roadmap view drop-down from the free-form roadmap header and then select the Delete view icon \(![Delete view icon.](../../alignment-planner-workspace/images/delete-view-icon-spw.png)\) next to the view you want to delete.
+3.  Select the Free-form roadmap view drop-down from the free-form roadmap header and then select the Delete view icon \(![Delete view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/delete-view-icon-spw.png)\) next to the view you want to delete.
 
     The Delete this view window appears.
 
 4.  On the Delete this view window, select **Delete**.
 
-    ![Delete free-form roadmap view.](../images/delete-free-form-roadmap-view-ppw.gif)
+    ![Delete free-form roadmap view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../images/delete-free-form-roadmap-view-ppw.gif)
 
 
-**Parent Topic:**[Managing free-form roadmap views](../concept/managing-free-form-roadmap-views-ppw.md)
+**Parent Topic:**[Managing free-form roadmap views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/managing-free-form-roadmap-views-ppw.md)
 
 **Related topics**  
 
 
-[Create a free-form roadmap view](create-free-form-roadmap-view-ppw.md)
+[Create a free-form roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-view-ppw.md)
 
-[Edit a free-form roadmap view](edit-free-form-roadmap-view-ppw.md)
+[Edit a free-form roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-free-form-roadmap-view-ppw.md)
 

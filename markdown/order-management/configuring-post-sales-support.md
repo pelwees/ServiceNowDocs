@@ -62,7 +62,7 @@ Customer Contracts and Entitlements \[com.sn\_pss\_core\]​
 
 </td></tr><tr><td>
 
-[Contracts and Entitlement Workflows​](configure-cont-ent-workflows-csm.md)\[com.sn\_contract\_ent\_wf\]
+[Contracts and Entitlement Workflows​](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-cont-ent-workflows-csm.md)\[com.sn\_contract\_ent\_wf\]
 
 </td><td>
 
@@ -86,7 +86,7 @@ Provides workflows to manage changes on Customer Contracts and Entitlements.
 </td></tr></tbody>
 </table>With the activation of Customer Contracts and Entitlements, the existing contracts are available for viewing only.
 
-For more information on the installed roles and tables, see [Components installed with Customer Contracts and Entitlements](../reference/components-installed-pss.md).
+For more information on the installed roles and tables, see [Components installed with Customer Contracts and Entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/components-installed-pss.md).
 
 ## Request apps from the ServiceNow Store
 

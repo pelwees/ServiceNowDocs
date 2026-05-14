@@ -39,7 +39,7 @@ The Field Watcher tool logs activity when any of the following events occur on a
 
 **Note:** The field watcher works only on form fields. It cannot be used on list fields. Also, field watcher is not available on password-protected fields or encrypted fields. Field watcher is only available within the UI frame. The option to watch a field does not appear in the context menu if you open a record outside of the UI frame, for example, in a new tab.
 
-**Parent Topic:**[JavaScript debug window](c_JavaScriptDebugWindow.md)
+**Parent Topic:**[JavaScript debug window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_JavaScriptDebugWindow.md)
 
 ## Use field watcher
 
@@ -59,7 +59,7 @@ Role required: none
 
 3.  View the field watcher log by clicking the debug icon.
 
-    A new pane opens at the bottom of the screen, showing a field watcher tab. It may also show tabs for [JavaScript Logging](c_WritingToTheDebugLog.md#) and JavaScript Debugger.
+    A new pane opens at the bottom of the screen, showing a field watcher tab. It may also show tabs for [JavaScript Logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_WritingToTheDebugLog.md#) and JavaScript Debugger.
 
 4.  Click the **Field Watcher** tab, if needed.
 

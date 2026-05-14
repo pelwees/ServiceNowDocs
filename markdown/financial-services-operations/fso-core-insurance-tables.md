@@ -43,5 +43,5 @@ This section explains the insurance tables in FSO Core and how they handle insur
 |Renters Policy|sn\_bom\_renters\_ins\_policy|Insurance personal renters policy table extended from insurance policy.|
 |Transaction|sn\_bom\_ins\_policy\_transaction|Stores all policy transaction records. Extends the Financial Transaction \[sn\_bom\_transaction\] table.|
 
-**Parent Topic:**[Financial Services Operations Core](financial-services-operations-core-data-model.md)
+**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 

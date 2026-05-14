@@ -29,7 +29,7 @@ Complete the following tasks to set up product eligibility matrices.
 
 |Task|Description|Role|
 |----|-----------|----|
-|[Create a custom context variable](../task/som-create-context-variable.md) \(if needed\)|Review system-defined and existing custom context variables. If needed, add a new context variable, then [map the customer variable to a transaction entity](../task/som-map-variable.md).|Admin|
-|[Create a rule entity filter](../task/som-create-rule-entity-filter.md)|Define the eligibility filters for a product entity.|Product catalog admin or manager|
-|[Define product eligibility rules in a product eligibility matrix](../task/som-define-eligibility-rules.md)|Define the eligibility rules in the decision table of a product eligibility matrix.|Product catalog admin or manager|
+|[Create a custom context variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-create-context-variable.md) \(if needed\)|Review system-defined and existing custom context variables. If needed, add a new context variable, then [map the customer variable to a transaction entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-map-variable.md).|Admin|
+|[Create a rule entity filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-create-rule-entity-filter.md)|Define the eligibility filters for a product entity.|Product catalog admin or manager|
+|[Define product eligibility rules in a product eligibility matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/som-define-eligibility-rules.md)|Define the eligibility rules in the decision table of a product eligibility matrix.|Product catalog admin or manager|
 

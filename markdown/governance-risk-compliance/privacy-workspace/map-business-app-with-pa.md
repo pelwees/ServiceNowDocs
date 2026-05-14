@@ -63,5 +63,5 @@ Additionally, ensure that there is valid data for both the fields. For example, 
 
 The mapping is successfully created. The fields that are mapped will be populated in the processing activity form.
 
-**Parent Topic:**[Configuring Privacy Management](../concept/configure-privacy-mgmt.md)
+**Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/configure-privacy-mgmt.md)
 

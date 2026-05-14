@@ -78,7 +78,7 @@ Import Translated File
 
 Imports the translated file in the file format configured in the translation preferences from the third-party translator. A merge conflict occurs when you have certain fields pre-populated with translations, but those fields get updated when you import the translated file. These conflicts are shown right below the fields updated with the latest translations.
 
- ![Merge conflict when importing translations.](../image/import-file-merge-conflict.png)
+ ![Merge conflict when importing translations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../image/import-file-merge-conflict.png)
 
  To resolve the merge conflict, do the following:
 
@@ -98,7 +98,7 @@ Sends the source file to the email addresses configured in translation preferenc
 </td></tr></tbody>
 </table>    **Note:** When any translation mode is selected to translate the content, the content is saved as a draft to retain changes done by the user and then the translation process is initiated.
 
-5.  If you want to make any changes to the verified translations, click the lock icon \(![Lock icon](../image/lock-icon.png)\) beside the field with verified translations.
+5.  If you want to make any changes to the verified translations, click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../image/lock-icon.png)\) beside the field with verified translations.
 
     Verified translations are pre-existing translations available in the database for the given text. The framework automatically fetches the existing translations and locks the fields.
 
@@ -123,5 +123,5 @@ Sends the source file to the email addresses configured in translation preferenc
 
 The translations of the localization task are published and the task is updated with the Closed Complete state.
 
-You can move translation records across instances by using update sets. The translation-related XML files are saved to the update set specified in the settings. For more information, see [Localization Framework Properties: Update Set Strategies](../concept/lf-update-set-strategies.md).
+You can move translation records across instances by using update sets. The translation-related XML files are saved to the update set specified in the settings. For more information, see [Localization Framework Properties: Update Set Strategies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/../concept/lf-update-set-strategies.md).
 

@@ -51,5 +51,5 @@ The following items are installed with Legal Invention Disclosure:
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configure Legal Invention Disclosure](configure-legal-invention-disclosure.md)
+**Parent Topic:**[Configure Legal Invention Disclosure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/configure-legal-invention-disclosure.md)
 

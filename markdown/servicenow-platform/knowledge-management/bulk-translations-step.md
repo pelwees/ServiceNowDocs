@@ -17,7 +17,7 @@ Request translations for multiple knowledge articles through Bulk Translations t
 
 ## Before you begin
 
-[Add a custom Localization Framework setting to enable bulk translations](conf-lf-settings-manual-translations.md).
+[Add a custom Localization Framework setting to enable bulk translations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/conf-lf-settings-manual-translations.md).
 
 Role required: Localization requester to request translations
 
@@ -29,7 +29,7 @@ Role required: Localization requester to request translations
 
 3.  Select **Request Translations**.
 
-    **Note:** . Check the validation list to ensure that all articles to be translated have been validated. For more information, see [Bulk Translation for knowledge articles](bulk-translation.md).
+    **Note:** . Check the validation list to ensure that all articles to be translated have been validated. For more information, see [Bulk Translation for knowledge articles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/bulk-translation.md).
 
 4.  In the **Request Translations** dialog box, select the languages into which you want to translate the articles.
 
@@ -40,5 +40,5 @@ Role required: Localization requester to request translations
 
 Localization tasks are created for the selected items in all the selected languages. A success message with a link to the list of requested items is displayed. Select the link to see the list of requested items.
 
-**Parent Topic:**[Use Bulk Translation for manual translation](use-bts-manual-translation.md)
+**Parent Topic:**[Use Bulk Translation for manual translation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-bts-manual-translation.md)
 

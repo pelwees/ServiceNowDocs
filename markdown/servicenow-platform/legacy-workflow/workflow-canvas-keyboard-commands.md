@@ -15,7 +15,7 @@ breadcrumb: [Workflow editor keyboard navigation, Workflow editor, Classic Workf
 
 Use keyboard commands to navigate and operate the Workflow Editor canvas.
 
-![Workflow Editor Drawing Canvas - Tab Sequences / Elements](../image/WorkflowCanvasAccesibilityArrows.png)
+![Workflow Editor Drawing Canvas - Tab Sequences / Elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowCanvasAccesibilityArrows.png)
 
 <table id="table_pwr_nbl_rbb"><thead><tr><th>
 
@@ -41,8 +41,8 @@ Set general workflow properties
 
 </td><td>
 
-1.  Press **Tab** until ![Information icon](../image/WorkflowPropertiesIcon.png) is highlighted.
-2.  Press **Enter** to open [Workflow Properties](../../workflow-administration/reference/r_WorkflowProperties.md).
+1.  Press **Tab** until ![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/WorkflowPropertiesIcon.png) is highlighted.
+2.  Press **Enter** to open [Workflow Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow-administration/reference/r_WorkflowProperties.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Add a condition to an activity.
 
 </td><td>
 
-1.  Within an activity box, select ![Condition Properties icon](../image/ConditionProperties.png) to access **Condition Properties**.
+1.  Within an activity box, select ![Condition Properties icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ConditionProperties.png) to access **Condition Properties**.
 2.  In **Condition Properties**, specify the conditions for the activity.
 
 </td></tr><tr><td>
@@ -114,7 +114,7 @@ Validate a workflow
 
 </td><td>
 
-1.  Press **Tab** until ![Validate icon](../image/ValidateWorkflowIcon.png) is highlighted.
+1.  Press **Tab** until ![Validate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ValidateWorkflowIcon.png) is highlighted.
 2.  Press **Enter** to validate the workflow.
 
  You can also select **Validate** from the Workflow Actions menu.
@@ -125,7 +125,7 @@ Run a workflow
 
 </td><td>
 
-1.  Press **Tab** until ![Run icon](../image/RunWorkflowIcon.png) is highlighted.
+1.  Press **Tab** until ![Run icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/RunWorkflowIcon.png) is highlighted.
 2.  Press **Enter** to run the workflow.
 
  **Note:** If the workflow is tied to a database table, this function is disabled. The workflow runs when the proper table conditions are activated \(for example, insertion of a new record into the table\).
@@ -136,7 +136,7 @@ Close workflow drawing canvas
 
 </td><td>
 
-1.  Press **Tab** until ![Close icon](../image/CloseWFEditorCanvas.png) \(on the right side of the tab that contains the name of the workflow\) appears.
+1.  Press **Tab** until ![Close icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/CloseWFEditorCanvas.png) \(on the right side of the tab that contains the name of the workflow\) appears.
 2.  Press **Enter** to close the canvas.
 
 </td></tr><tr><td>
@@ -155,8 +155,8 @@ Jump to Top
 
 </td><td>
 
-After tabbing through the entire workflow, ![The Jump to top button](../image/JumptoTop.png) appears at the bottom of the listing. Press **Enter** to jump to the top of the Workflow drawing canvas.
+After tabbing through the entire workflow, ![The Jump to top button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/JumptoTop.png) appears at the bottom of the listing. Press **Enter** to jump to the top of the Workflow drawing canvas.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Workflow editor keyboard navigation](workflow-keyboard-access.md)
+</table>**Parent Topic:**[Workflow editor keyboard navigation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-keyboard-access.md)
 

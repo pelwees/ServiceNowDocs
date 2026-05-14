@@ -45,11 +45,11 @@ Results:
 -   The system predicted the correct intent, which in this case is **\#CreateHRGeneralInquiryCase**.
 -   Your feedback notifies the system that it has matched the correct intent to your test utterance.
 
-![How to use the Try model panel to test for the top intent prediction results](../images/test-panel-feedback001.png)
+![How to use the Try model panel to test for the top intent prediction results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback001.png)
 
 **Scenario 2**: In a separate model on a separate instance, a different user enters the same `help with hr` utterance. The system responds with the top prediction results for the intent, but the user isn't sure if it's the correct intent or not. So this user clicks the **Thumbs Down** icon, as shown in the image below.
 
-![Here you select Thumbs Down to invoke the feedback option](../images/test-panel_feedback002.png)
+![Here you select Thumbs Down to invoke the feedback option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel_feedback002.png)
 
 Result: The panel expands to show the **Provide feedback to improve this prediction** section where users can submit feedback that may help to improve the intent prediction.
 
@@ -57,29 +57,29 @@ There are two options here:
 
 -   If users click the **Its correct intent should be:** button, a list appears where they can choose a more appropriate intent for the test utterance. In this example scenario, a user selects the **Retrieve Work Location** intent, as shown in the image below.
 
-    ![Here the user can choose a different intent in the model than the one the system predicted](../images/test-panel-feedback2.png)
+    ![Here the user can choose a different intent in the model than the one the system predicted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback2.png)
 
 -   If you click the **I'm not sure what the correct intent is** prompt, instead of returning a top prediction, the system shows the next best intent predictions available.
 
 **Scenario 3**: In a separate model on a separate instance, another user submits an utterance that uses gibberish, or uses a language that's different from the language the model uses. For example, a user mistakenly submits an utterance comprised of both non-English and English languages, as shown in the image below.
 
-![A user mistakenly submits an utterance that has more than one language, so the user provides feedback](../images/test-panel-feedback3.png)
+![A user mistakenly submits an utterance that has more than one language, so the user provides feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback3.png)
 
 Result: The system doesn't return a prediction because the utterance uses two different languages together. Since no intent was predicted, the user clicks the **Give feedback** option which expands the Try model section to show other intent alternatives.
 
-![Since no prediction was made, you choose the 'No intent should be predicted 'option](../images/test-panel-feedback4.png)
+![Since no prediction was made, you choose the 'No intent should be predicted 'option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback4.png)
 
-So instead of choosing an intent from the prompt, this user selects the **No intent should be predicted** option.![The user doesn't choose any of the intents because they know the utterance was not a valid entry and the system didn't return a prediction](../images/test-panel-feedback5.png)
+So instead of choosing an intent from the prompt, this user selects the **No intent should be predicted** option.![The user doesn't choose any of the intents because they know the utterance was not a valid entry and the system didn't return a prediction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback5.png)
 
 **Note:** When you choose and save **No intent should be predicted**, the utterance is removed from all intents which it is a part of.
 
 **Scenario 4**: Along with choosing from a list of your model's intents for a prediction, you can also directly notify the system that the utterance is irrelevant to the model. To do this, you click the **Exclude this model's predictions for this utterance** button, then click **Save changes**.
 
-![The user saves the changes, choosing not to have a prediction for the utterance you submitted](../images/test-panel-feedback6.png)
+![The user saves the changes, choosing not to have a prediction for the utterance you submitted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback6.png)
 
 Result: A banner appears at the top of the screen confirming the user feedback for the prediction is saved, as shown in the image below.
 
-![The banner confirms the feedback is saved](../images/test-panel-feedback7.png)
+![The banner confirms the feedback is saved](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/../images/test-panel-feedback7.png)
 
 ## Accessing your feedback records
 

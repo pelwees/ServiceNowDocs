@@ -27,17 +27,17 @@ Role required: sn\_lrn\_workday.admin
 
 3.  On the form, edit the fields.
 
-    For a description of the field values, see [Edit a record in HR Service Delivery Integration with Workday Learning](../reference/sync-user-activity-form.md).
+    For a description of the field values, see [Edit a record in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/sync-user-activity-form.md).
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](../concept/using-workday-learning-intg.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/using-workday-learning-intg.md)
 
 **Related topics**  
 
 
-[View track approval for Workday Learning](track-approval-adl-intg.md)
+[View track approval for Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/track-approval-adl-intg.md)
 
-[Use transform maps](../concept/use-transform-maps-wd-learning.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/use-transform-maps-wd-learning.md)
 
-[Import set tables in HR Service Delivery Integration with Workday Learning](../concept/import-set-tables.md)
+[Import set tables in HR Service Delivery Integration with Workday Learning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/import-set-tables.md)
 

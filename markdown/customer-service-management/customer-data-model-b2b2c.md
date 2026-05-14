@@ -26,7 +26,7 @@ With the business-to-business-to-consumer \(B2B2C\) model, you can support busin
 -   Employees of a business customer.
 -   End consumers of a business customer.
 
-![Infographic showing supported business relationships between a company and its direct or business customers. For a text description, refer to the text that follows.](../image/customer-data-model-for-b2b2c.png "B2B2C data model")
+![Infographic showing supported business relationships between a company and its direct or business customers. For a text description, refer to the text that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/customer-data-model-for-b2b2c.png "B2B2C data model")
 
 The business-to-business-to-consumer \(B2B2C\) data model supports different multi-level relationships between a company and the following types of customers:
 
@@ -43,7 +43,7 @@ For details on the advantages of using the B2B2C data model application, see the
 -   Enable service provider to have a complete view of the end consumers where they hold the relationship as direct customers \(B2C\) or through a business customer \(B2B2C\).
 -   Reduce costs by enabling self-service for various relationships \(B2C, B2B2C, B2B2E\).
 
-To get started with this application, see [Configure customer data models for B2B2C](configure-customer-data-model-b2b2c.md).
+To get started with this application, see [Configure customer data models for B2B2C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-data-model-b2b2c.md).
 
-To use this application, see [Using Customer Data Models for B2B2C](using-b2b2c.md).
+To use this application, see [Using Customer Data Models for B2B2C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-b2b2c.md).
 

@@ -36,5 +36,5 @@ Role required: sn\_cmdb\_admin
 
 ## What to do next
 
-See the [Review certification tasks](data-certific-review-tasks.md) topic to locate and review the respective certification task and to update incorrect field values. You can also directly access record and CI forms to update incorrect values.
+See the [Review certification tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-certific-review-tasks.md) topic to locate and review the respective certification task and to update incorrect field values. You can also directly access record and CI forms to update incorrect values.
 

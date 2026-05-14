@@ -27,12 +27,12 @@ Each application subscription entitles you to create playbooks for its associate
 
 See the following sections to learn how to activate Workflow Studio Playbooks for your application.
 
--   **[Activate Playbooks for App Engine](../task/activate-process-automation-designer-for-app-engine.md)**  
+-   **[Activate Playbooks for App Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/activate-process-automation-designer-for-app-engine.md)**  
 Activate Playbooks on your instance to create playbooks in App Engine.
--   **[Activate Playbooks for Customer Service Management \(CSM\)](../task/activate-process-automation-designer-for-csm.md)**  
+-   **[Activate Playbooks for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/activate-process-automation-designer-for-csm.md)**  
 Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by CSM tables.
--   **[Activate Playbooks for Field Service Management](../task/activate-process-automation-designer-for-fsm.md)**  
+-   **[Activate Playbooks for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/activate-process-automation-designer-for-fsm.md)**  
 Activate Workflow Studio Playbooks on your instance so that you can create Playbooks triggered by tables.
 
-**Parent Topic:**[Configuring Playbooks](setting-up-process-automation-designer.md)
+**Parent Topic:**[Configuring Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/setting-up-process-automation-designer.md)
 

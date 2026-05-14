@@ -21,7 +21,7 @@ You can filter the count of installations based on a publisher or product. Selec
 
 You can access the Discovered inventory dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Discovered inventory**.
 
-![Discovered inventory dashboard view](../image/discovered-inventory-workspace.png "Discovered inventory dashboard")
+![Discovered inventory dashboard view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/discovered-inventory-workspace.png "Discovered inventory dashboard")
 
 <table id="table_eqb_mjt_s1c"><thead><tr><th>
 
@@ -45,7 +45,7 @@ Software Installation \[cmdb\_sam\_sw\_install\]
 
 </td><td>
 
-Number of normalized and not normalized installs. For more information on normalized installations, see [Normalization statuses](../reference/normalization-status.md).
+Number of normalized and not normalized installs. For more information on normalized installations, see [Normalization statuses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/normalization-status.md).
 
 </td></tr><tr><td>
 

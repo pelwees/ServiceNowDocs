@@ -136,5 +136,5 @@ Description of the base input field value.
     2.  Generate the quote summary by selecting **Summarize** in a quote.
 
 
-**Parent Topic:**[Configuring Now Assist for Configure, Price, Quote \(CPQ\)](../concept/configure-now-assist-cpq.md)
+**Parent Topic:**[Configuring Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/configure-now-assist-cpq.md)
 

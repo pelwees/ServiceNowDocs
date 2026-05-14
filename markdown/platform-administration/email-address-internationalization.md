@@ -23,8 +23,8 @@ Enable email address internationalization by setting the **glide.email\_address.
 
 Disable email address internationalization by setting the **glide.email\_address.rfc6530.enabled** system property to `false`.
 
--   **[Customize email address internationalization](../task/customize-email-int.md)**  
+-   **[Customize email address internationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/customize-email-int.md)**  
 Customize email address internationalization to turn off processing of inbound and outbound emails, disable support for inbound emails or to add email address format for decoding international email addresses.
 
-**Parent Topic:**[Configure email client](configuring-email-client.md)
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-client.md)
 

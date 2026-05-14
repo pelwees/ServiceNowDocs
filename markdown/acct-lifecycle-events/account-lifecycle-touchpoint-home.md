@@ -17,12 +17,12 @@ Touchpoints enhance communication between customer success teams and customer th
 
 Internal touchpoints ensure that only internal teams are involved in that particular touchpoint.
 
-![Touchpoint home page](../image/customer-success-touchpoints.png)
+![Touchpoint home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-touchpoints.png)
 
 The following options are available:
 
 -   Discuss: Select **Discuss** to start a sidebar discussion about this touchpoint. In the pop-up window, select the participants who must participate in the discussion, enter a brief message, and select **Start discussion**. A window appears with a link to the record for this touchpoint. Select **Open record** and start the discussion. When the discussion has been completed, you can see the details in the Activity stream.
--   Create success play: See [Create a success play](../task/account-lifecycle-create-success-play.md).
+-   Create success play: See [Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-create-success-play.md).
 
     The success play created using this UI action button is stored in Touchpoint applicable records table and the type of association is the action item.
 
@@ -158,7 +158,7 @@ Meeting link
 
 </td><td>
 
-This field is automatically populated if you select Zoom in the Video software field. For details on setting up and configuring Zoom, see [Configure Zoom to create a touchpoint meeting summary](../task/account-lifecycle-config-zoom-sum.md).
+This field is automatically populated if you select Zoom in the Video software field. For details on setting up and configuring Zoom, see [Configure Zoom to create a touchpoint meeting summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-config-zoom-sum.md).
 
 </td></tr><tr><td>
 
@@ -310,7 +310,7 @@ Related lists include the following actions:
 
 **Note:** The `Documents` related items are displayed only if you have installed the `com.snc.platform_document_management` plugin.
 
-![touchpoint-related-item.](../image/customer-success-touchpoint-related-item.png)
+![touchpoint-related-item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/customer-success-touchpoint-related-item.png)
 
 The touchpoint applicable record associates touchpoint that are applicable to this touchpoint. By default, you can set the type of applicability into these categories:
 
@@ -318,10 +318,10 @@ The touchpoint applicable record associates touchpoint that are applicable to th
 -   Action item
 -   Reference
 
--   **[Touchpoint planner](account-lifecycle-touchpoint-planner.md)**  
+-   **[Touchpoint planner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-touchpoint-planner.md)**  
 The touchpoint planner shows a calendar view of different touchpoints across all accounts associated with the customer success manager.
--   **[Configure Zoom to create a touchpoint meeting summary](../task/account-lifecycle-config-zoom-sum.md)**  
+-   **[Configure Zoom to create a touchpoint meeting summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-config-zoom-sum.md)**  
 Set up the Zoom spoke integration and the bi-directional web hook to generate summaries for virtual touchpoint meetings.
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

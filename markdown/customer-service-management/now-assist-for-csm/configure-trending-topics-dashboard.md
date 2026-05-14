@@ -79,5 +79,5 @@ Trending topics dashboard is generated from the information that you enter in th
 **Related topics**  
 
 
-[View trending topics dashboard](../concept/view-trending-topics-dashboard.md)
+[View trending topics dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/view-trending-topics-dashboard.md)
 

@@ -84,7 +84,7 @@ Select the entity type from the available options based on the select category.*
 
     -   When creating new relationships, the edges are appeared as dotted lines, indicating they are temporary nodes and aren’t saved in the Threat Intelligence Library.
     -   Newly added edges are temporary and aren’t saved to the threat intelligence library or canvas. If you refresh the canvas before saving, these edges will be lost. Make sure to save the canvas after adding any new edges to retain your changes.
-    ![Investigation Canvas New node representation with dotted line](../image/tisc-add-new-node-illustration.png)
+    ![Investigation Canvas New node representation with dotted line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-add-new-node-illustration.png)
 
 10. Right click and select **Show Details** to view the details related to the selected entity.
 
@@ -95,5 +95,5 @@ Select the entity type from the available options based on the select category.*
     By performing this action, the temporary records are converted to permanent aggregated records within the Threat Intelligence Library.
 
 
-**Parent Topic:**[Working with Investigation Canvas](../concept/tisc-investigation-canvases.md)
+**Parent Topic:**[Working with Investigation Canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/tisc-investigation-canvases.md)
 

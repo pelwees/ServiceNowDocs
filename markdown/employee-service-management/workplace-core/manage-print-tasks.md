@@ -20,7 +20,7 @@ Use one of the following options to proceed:
 -   Print Filter Selection – Apply filters and select this option to automatically create a new workplace task with the consolidated report attached.
 -   Print Selected Records – Manually select one or more workplace cases and choose this option to view the consolidated report directly.
 
-**Parent Topic:**[Managing workplace tasks](managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
 ## Print filtered tasks
 

@@ -27,7 +27,7 @@ Change tasks can be created manually or from a workflow. The Change Request form
 
 1.  Navigate to **All** &gt; **Change** &gt; **Open**.
 
-    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
+    **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../service-operations-workspace/task/redirect-ui16-module-links-sow.md).
 
 2.  Select the change request to add a change task.
 
@@ -138,16 +138,16 @@ A detailed description of the task.
     The change task is added to the change request. The assigned user receives a notification that a task was assigned to them.
 
 
-**Parent Topic:**[Create a change request](t_CreateAChange.md)
+**Parent Topic:**[Create a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
 **Related topics**  
 
 
-[Create a change request from a configuration item \(CI\)](t_CreateAChangeFromACI.md)
+[Create a change request from a configuration item \(CI\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChangeFromACI.md)
 
-[Create a standard change request from the catalog](t_RaiseNewStdCngeFmTempl.md)
+[Create a standard change request from the catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_RaiseNewStdCngeFmTempl.md)
 
-[Copy a change request](copy-a-change-request.md)
+[Copy a change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)
 
-[Unauthorized change request](../concept/unauthorized-change-request.md)
+[Unauthorized change request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/unauthorized-change-request.md)
 

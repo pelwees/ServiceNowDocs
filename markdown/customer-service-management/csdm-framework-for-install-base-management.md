@@ -19,5 +19,5 @@ To set up a CSDM environment for Install Base Management, see [Activate the CSDM
 
 **Note:** It's optional to adopt CSDM. You can either adopt the CSDM framework or continue using the existing model.
 
-You can use a migration script to update the CSDM life-cycle values in the existing install base records. To learn about the migration script, see [Synchronizing the install base life cycle fields with the state and status fields](synchronizing-install-base-lifecycle-fields-state-field.md).
+You can use a migration script to update the CSDM life-cycle values in the existing install base records. To learn about the migration script, see [Synchronizing the install base life cycle fields with the state and status fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/synchronizing-install-base-lifecycle-fields-state-field.md).
 

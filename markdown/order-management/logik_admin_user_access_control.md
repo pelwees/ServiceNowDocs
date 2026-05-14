@@ -17,7 +17,7 @@ View access types, access areas, and user roles that can be managed via the User
 
 Use the User Access utility to manage access to CPQ Admin. Admin users have full admin access unless their access level is modified via CSV import.
 
-For basic user access in CPQ, see [User access](please_share_your_feedback_on_admin_assist_responses.md).
+For basic user access in CPQ, see [User access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/please_share_your_feedback_on_admin_assist_responses.md).
 
 ## Access levels
 
@@ -81,30 +81,30 @@ User access can be limited to specific tables via CSV or API.
 
 Admin users can modify access via CSV upload \(Admin &gt; Utilities &gt; User Access\). The User Access list shows existing users.
 
-![Admin: User Access Control](../images/cpq-user-access-control-list.png)
+![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-list.png)
 
 Steps:
 
 1.  Hover a tooltip to view a userʼs access.
 
-    ![Admin: User Access Control](../images/cpq-user-access-control-list-tooltip.png)
+    ![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-list-tooltip.png)
 
 2.  Create a CSV file to add users, make changes to users, or delete users. \(See below for sample CSV files.\)
 
-    ![Admin: User Access Control](../images/cpq-user-access-control-list-sample-csv.png)
+    ![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-list-sample-csv.png)
 
 3.  Import the CSV file.
 
-    ![Admin: User Access Control](../images/cpq-user-access-control-csv-import.png)
+    ![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-csv-import.png)
 
     You will receive a message confirming success or failure.
 
-    ![Admin: User Access Control](../images/cpq-user-access-control-csv-import-status.png)
+    ![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-csv-import-status.png)
 
 
 Changes to user list are now made.
 
-![Admin: User Access Control](../images/cpq-user-access-control-list-updated.png)
+![Admin: User Access Control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-user-access-control-list-updated.png)
 
 ## Sample CSVs
 

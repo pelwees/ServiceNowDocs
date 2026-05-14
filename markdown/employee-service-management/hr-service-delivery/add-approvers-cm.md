@@ -90,5 +90,5 @@ Any other information that you want to share with the approvers.
 </table>5.  Click **Send for approval**.
 
 
-**Parent Topic:**[Work an HR case](t_CreateAnHRCase.md)
+**Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 

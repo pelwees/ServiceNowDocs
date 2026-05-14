@@ -32,7 +32,7 @@ For information about update sets, see [Create and select an update set](https:/
     -   Prior to deploying the main flow update set, merge the dependencies into one update set before completing that update set.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow movement with update sets](../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
+-   Related Information: [Workflow movement with update sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../workflow-administration/concept/c_WorkflowMovementWithUpdateSets.md#)
 
 ## Troubleshooting
 
@@ -90,5 +90,5 @@ Move dependent workflows between update sets.
 6.  Click **Update** and the base system moves the dependent subflow to the update set selected.
 7.  Repeat steps 4-6 to add additional dependent subflows to the parent flow update set.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowValidator.md)
 

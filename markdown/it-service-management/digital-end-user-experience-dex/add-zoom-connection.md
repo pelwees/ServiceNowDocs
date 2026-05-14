@@ -27,7 +27,7 @@ Role required: admin
 
 3.  In the **Search all connections** field, enter `DEX for Zoom`.
 
-    ![Searching DEX for Zoom](zoom_search_for_Dex.png)
+    ![Searching DEX for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom_search_for_Dex.png)
 
     **Note:** The **Outbound** tab is selected by default. Confirm that the **Outbound** tab is already selected.
 
@@ -48,10 +48,10 @@ Role required: admin
     |OAuth Client Secret|Client secret created during application registration.|
     |OAuth Redirect URL|OAuth callback endpoint. Enter `https://<instance-name>.service-now.com/oauth_redirect.do`.|
 
-    ![Generate OAuth Token.](zoom_edit_connection_details.png)
+    ![Generate OAuth Token.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom_edit_connection_details.png)
 
 6.  Select **Configure and Get OAuth Token**.
 
-    A confirmation message is displayed that the token is available.![Confirmation that refresh token is available.](zoom_dex_confirmation_message.png)
+    A confirmation message is displayed that the token is available.![Confirmation that refresh token is available.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/zoom_dex_confirmation_message.png)
 
 

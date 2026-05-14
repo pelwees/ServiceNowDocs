@@ -17,7 +17,7 @@ Enable the auto-renewal options in your System Properties to configure your syst
 
 ## Before you begin
 
-Check that you have completed the tasks, [Configure your MID Server for automatic certificate renewal](configure-mid-server-automatic-cert-renewal.md), and [Add the required applications and capabilities to your MID Server](add-req-apps-capabilities-to-mid-server.md).
+Check that you have completed the tasks, [Configure your MID Server for automatic certificate renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-mid-server-automatic-cert-renewal.md), and [Add the required applications and capabilities to your MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-req-apps-capabilities-to-mid-server.md).
 
 Role required: pki\_admin or admin
 
@@ -42,5 +42,5 @@ Your system is configured to renew automatically certificates before they expire
 
 ## What to do next
 
-You can [Set a certificate to renew automatically](set-certificate-to-renew-automatically.md) or use the [Now Assist certificate renewal AI agent](../../it-operations-management/concept/now-assist-cert-renewal-ai-agent.md).
+You can [Set a certificate to renew automatically](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/set-certificate-to-renew-automatically.md) or use the [Now Assist certificate renewal AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../it-operations-management/concept/now-assist-cert-renewal-ai-agent.md).
 

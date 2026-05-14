@@ -21,8 +21,8 @@ Analyze metrics using the ITSM Virtual Agent analytics dashboard. The table prov
 
 |Analytics|Description|Benefits|
 |---------|-----------|--------|
-|[Chat](now-assist-itsm-conversational-dashboard-chat-analytics.md)|Enables real-time conversation and messaging interactions|Measures overall chat demand and effectiveness|
-|[Topics](now-assist-itsm-conversational-dashboard-topics.md)|Organizes discussion subjects and themes by category|Identifies high-impact areas and emerging user needs|
-|[Customer](now-assist-itsm-conversational-dashboard-customer-satisfaction.md)|Tracks metrics and feedback to measure user experience|Evaluates how well agents meet customer needs|
-|[Resources](now-assist-itsm-conversational-dashboard-resources.md)|Provides documentation and support materials for users|Improves self-service capabilities and content effectiveness|
+|[Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-chat-analytics.md)|Enables real-time conversation and messaging interactions|Measures overall chat demand and effectiveness|
+|[Topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-topics.md)|Organizes discussion subjects and themes by category|Identifies high-impact areas and emerging user needs|
+|[Customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-customer-satisfaction.md)|Tracks metrics and feedback to measure user experience|Evaluates how well agents meet customer needs|
+|[Resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-conversational-dashboard-resources.md)|Provides documentation and support materials for users|Improves self-service capabilities and content effectiveness|
 

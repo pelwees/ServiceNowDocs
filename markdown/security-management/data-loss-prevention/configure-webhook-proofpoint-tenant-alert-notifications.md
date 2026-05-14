@@ -62,5 +62,5 @@ Value: application/json
 15. Click **Save**.
 
 
-**Parent Topic:**[Install and configure the Proofpoint integration for Data Loss Prevention](install-configure-proofpoint-integration-dlp.md)
+**Parent Topic:**[Install and configure the Proofpoint integration for Data Loss Prevention](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/install-configure-proofpoint-integration-dlp.md)
 

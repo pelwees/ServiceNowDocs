@@ -44,7 +44,7 @@ Role required: sales\_agent
 
 ## What to do next
 
-[Add lead tasks](lead-management-use-tasks-tab.md).
+[Add lead tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md).
 
-**Parent Topic:**[Using Lead Management](../concept/lead-management-using.md)
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-using.md)
 

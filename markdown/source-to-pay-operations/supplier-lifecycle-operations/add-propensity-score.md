@@ -33,11 +33,11 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 5.  Select **Update score** under the **Propensity score** section.
 
-    ![Update propensity score](../image/add-propensity-score.png)
+    ![Update propensity score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/add-propensity-score.png)
 
     The **Update propensity score** dialog box is displayed.
 
-    ![Update propensity score dialog box](../image/add-propensity-dialog.png)
+    ![Update propensity score dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/add-propensity-dialog.png)
 
 6.  Add the propensity score value between 0-10 \(by default, a score of 0–3 indicates low, 4–7 indicates medium, and 8–10 indicates high likelihood\).
 
@@ -45,19 +45,19 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
     The propensity score is saved.
 
-    ![Propensity scorecard graph](../image/propensity-scorecard.png)
+    ![Propensity scorecard graph](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/propensity-scorecard.png)
 
 
 ## Result
 
 The propensity score graph is displayed.
 
-**Parent Topic:**[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+**Parent Topic:**[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
 **Related topics**  
 
 
-[Using Supplier Payment Optimization](../concept/using-supp-payment-opt.md)
+[Using Supplier Payment Optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supp-payment-opt.md)
 
-[View the Payment Optimization dashboard](view-payment-opt-db.md)
+[View the Payment Optimization dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-payment-opt-db.md)
 

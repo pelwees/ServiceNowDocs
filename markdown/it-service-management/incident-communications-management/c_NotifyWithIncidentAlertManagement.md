@@ -17,5 +17,5 @@ Notify allows you to integrate with the Twilio telephony service to send and rec
 
 For more information on how notify works with Incident Communications Management, refer [Using Notify with Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyWithIncidentAlert.md).
 
-**Parent Topic:**[Incident Communications Management integrations](inci-commu-mgmt-integrations.md)
+**Parent Topic:**[Incident Communications Management integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/inci-commu-mgmt-integrations.md)
 

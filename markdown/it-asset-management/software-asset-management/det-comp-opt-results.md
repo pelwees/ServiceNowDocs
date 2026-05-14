@@ -33,7 +33,7 @@ The usage of Microsoft 365 plans must be available from both Microsoft certified
 
 4.  Create entitlements for Microsoft 365 by selecting the correct Publisher Part Number \(PPN\) to verify compliance.
 
-    For more information about creating entitlements, see [Create entitlements in workspace](create-entitlements-workspace.md).
+    For more information about creating entitlements, see [Create entitlements in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md).
 
     **Note:** Ensure that the License metric value is User Subscription.
 
@@ -43,10 +43,10 @@ The usage of Microsoft 365 plans must be available from both Microsoft certified
 
 7.  Select **Run reconciliation**.
 
-8.  View compliance analysis results in [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](../concept/sam-saas-subscription-dash.md) and [SaaS overview dashboard in workspace](../reference/saas-dashboard-workspace.md).
+8.  View compliance analysis results in [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sam-saas-subscription-dash.md) and [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/saas-dashboard-workspace.md).
 
-    For more information about running software reconciliation, see [Run software reconciliation in Software Asset Management classic](t_RunReconciliation.md) and [Run Software Asset Management Foundation plugin software reconciliation in classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_RunReconciliationSAMF.md).
+    For more information about running software reconciliation, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md) and [Run Software Asset Management Foundation plugin software reconciliation in classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_RunReconciliationSAMF.md).
 
-9.  View all optimized plans for Microsoft 365 subscription on the [Optimization and savings dashboard in workspace](../reference/optimization-dashboard-workspace.md).
+9.  View all optimized plans for Microsoft 365 subscription on the [Optimization and savings dashboard in workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../reference/optimization-dashboard-workspace.md).
 
 

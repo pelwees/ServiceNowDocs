@@ -43,10 +43,10 @@ Role required: admin
     -   Reference fields that reference the table
     -   Access controls
 
-**Parent Topic:**[Deleting custom tables](../concept/c_DeleteATable.md)
+**Parent Topic:**[Deleting custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DeleteATable.md)
 
 **Related topics**  
 
 
-[Deleting custom tables](../concept/c_DeleteATable.md)
+[Deleting custom tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/c_DeleteATable.md)
 

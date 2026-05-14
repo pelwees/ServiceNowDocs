@@ -28,5 +28,5 @@ You can create configuration revisions for the following:
 **Related topics**  
 
 
-[Create configuration revisions](service-bridge-v2-create-config-rev.md)
+[Create configuration revisions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-config-rev.md)
 

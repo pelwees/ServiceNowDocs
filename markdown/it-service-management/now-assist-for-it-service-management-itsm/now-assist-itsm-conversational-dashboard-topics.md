@@ -27,7 +27,7 @@ By looking at what topics are most frequently discussed, you can analyze high-im
 
 ## Topics analytics
 
-Analyze topics metrics when users ask questions to solve their issues in ITSM Virtual Agent.![ITSM Virtual Agent Topics metrics](../image/now-assist-itsm-topics-analytics.png)
+Analyze topics metrics when users ask questions to solve their issues in ITSM Virtual Agent.![ITSM Virtual Agent Topics metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-topics-analytics.png)
 
 <table id="table_cg1_2gy_g3c"><thead><tr><th>
 

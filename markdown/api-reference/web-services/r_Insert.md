@@ -100,11 +100,11 @@ The resulting response looks like this:
 
 For language-specific insert samples, refer to the following topics:
 
-[Perl SOAP::Lite](../../examples/concept/c_PerlWebServicesClientExamples.md#insert)
+[Perl SOAP::Lite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PerlWebServicesClientExamples.md#insert)
 
-[Java Apache Axis2](../../examples/concept/c_JAAWbSrvcsClntExInst.md)
+[Java Apache Axis2](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_JAAWbSrvcsClntExInst.md)
 
-[Python](../../examples/concept/c_PythonWebServicesClientExamples.md#insert)
+[Python](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../examples/concept/c_PythonWebServicesClientExamples.md#insert)
 
-**Parent Topic:**[Data Modification API](r_DataModificationAPI.md)
+**Parent Topic:**[Data Modification API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/r_DataModificationAPI.md)
 

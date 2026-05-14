@@ -125,10 +125,10 @@ Description of the widget.
 </table>
 ## What to do next
 
-[Associate the widget to the Project table](associate-widget-to-project.md).
+[Associate the widget to the Project table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/associate-widget-to-project.md).
 
--   **[Associate a widget to the Project table](associate-widget-to-project.md)**  
+-   **[Associate a widget to the Project table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/associate-widget-to-project.md)**  
 After you configure a widget, associate it with the Project table to show the financial data of a project.
 
-**Parent Topic:**[View forecasts and manage financial plans for a project in classic Project Workspace](view-plan-financials-in-project-workspace.md)
+**Parent Topic:**[View forecasts and manage financial plans for a project in classic Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-plan-financials-in-project-workspace.md)
 

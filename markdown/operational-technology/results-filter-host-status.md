@@ -21,7 +21,7 @@ Role required: admin
 
 In the Scan Results filtering types, the **Host Status** enables users to view scan results based on whether the scanned host was **Up** or **Down**. This filter is derived from the **Nmap XML status field** inside the Raw scan output.
 
-![Select Host Status](../images/host-status-filter.png)
+![Select Host Status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/host-status-filter.png)
 
 **Note:** This filter is based on raw scan output and does not depend on scan type. If a scan output does not contain a host `status state="up|down"` field, it does not match the Host Status filter.
 
@@ -46,7 +46,7 @@ Raw data is useful for debugging and verification for these reasons:
 
     The **Select Filter Type** field opens.
 
-    ![Select to add filter](../images/add-filter.png)
+    ![Select to add filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/add-filter.png)
 
 3.  Select inside the filter and select Host Status from the drop-down menu.
 
@@ -58,7 +58,7 @@ Raw data is useful for debugging and verification for these reasons:
 
     -   **Up** means the target device responded, that is, the scanner was able to reach it and also got a response back.
     -   **Down** means the target device did not respond; this could mean it is offline, blocked by firewall, unreachable, or it did not respond.
-    ![Choose either Up or Down](../images/filter-host-status-up-down.png)
+    ![Choose either Up or Down](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/filter-host-status-up-down.png)
 
 5.  Using the Host Status filter helps to quickly narrow results:
 

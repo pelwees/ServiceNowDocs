@@ -126,10 +126,10 @@ Script
  If the mapping still fails after replacing or removing the domain or the logic is complex, the script can be updated to achieve the desired result.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management references](references.md)
+</table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
 **Related topics**  
 
 
-[Associate a user with subscription records](../task/map-user-data.md)
+[Associate a user with subscription records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/map-user-data.md)
 

@@ -17,7 +17,7 @@ Form Builder is an application that is accessed most often through Table Builder
 
 ## Accessing Form Builder from Table Builder
 
-In Table Builder, access Form Builder on the **Forms** tab. For more information, see [Forms in Table Builder](form-view-configuration.md).
+In Table Builder, access Form Builder on the **Forms** tab. For more information, see [Forms in Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/form-view-configuration.md).
 
 ## Accessing Form Builder from the ServiceNow AI Platform
 
@@ -31,7 +31,7 @@ You can also access Form Builder from the Related Links section of any table. Op
 
 You can access Form Builder directly from the UI Builder stage. Move your mouse device to a form component that has a set **Table** value and **View** value, then select the **Edit Form** button. Your changes appear on the form after closing Form Builder.
 
-![UI showing the Edit Form button to open Form Builder within the UI Builder application. Callouts indicate the Table and View values that must be set.](../image/edit-form-full.png)
+![UI showing the Edit Form button to open Form Builder within the UI Builder application. Callouts indicate the Table and View values that must be set.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/../image/edit-form-full.png)
 
-**Parent Topic:**[Exploring Table Builder](exploring-fb.md)
+**Parent Topic:**[Exploring Table Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/form-builder-glide-family-release/exploring-fb.md)
 

@@ -16,15 +16,15 @@ With Now Assist for Vault, you can generate custom data patterns, check role acc
 
 <table id="table_dm1_dr1_nhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills that are available in Now Assist for Vault](exploring-now-assist-vault.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the generative AI skills that are available in Now Assist for Vault](exploring-now-assist-vault.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the generative AI skills in Now Assist for Vault](../task/configuring-now-assist-vault.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the generative AI skills in Now Assist for Vault](../task/configuring-now-assist-vault.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use the generative AI capabilities in Now Assist for Vault](using-now-assist-vault.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Use the generative AI capabilities in Now Assist for Vault](using-now-assist-vault.md)
 
 </td></tr></tbody>
 </table>**Important:**

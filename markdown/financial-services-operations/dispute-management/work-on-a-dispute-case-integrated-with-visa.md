@@ -25,10 +25,10 @@ This integration enables you to:
 -   Initiate chargebacks
 -   Submit dispute questionnaires
 
--   **[About pre-arbitration and arbitration](pre-arbitration-and-arbitration-overview.md)**  
+-   **[About pre-arbitration and arbitration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/pre-arbitration-and-arbitration-overview.md)**  
 The Card dispute playbook integration with Visa supports pre-arbitration and arbitration workflows. Initiate pre-arbitration and arbitration workflows to resolve unresolved disputes between issuers and acquirers.
--   **[Processing a dispute case with the Card Dispute Transaction playbook](processing-a-dispute-case.md)**  
+-   **[Processing a dispute case with the Card Dispute Transaction playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/processing-a-dispute-case.md)**  
 On the **Processing** tab of the card disputes playbook, all disputed transactions in a card dispute case are displayed on a dashboard. The tab also provides transaction information such as dispute amount, transaction date and time, merchant, transaction state, current activity, and activity SLA.
 
-**Parent Topic:**[Managing Disputes](managing-disputes.md)
+**Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 

@@ -42,11 +42,11 @@ All the data and timelines are captured in the case, eliminating the need to man
 
 </td><td>
 
-![Infographic showing how the application facilitates payment inquiries, research, claims resolution, and communications with other financial institutions for external payments.](../image/payment-ops-workflow-example.png)
+![Infographic showing how the application facilitates payment inquiries, research, claims resolution, and communications with other financial institutions for external payments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../image/payment-ops-workflow-example.png)
 
 </td></tr></tbody>
 </table>For more information on each task in the workflow, see:
 
--   [Managing payment inquiries](managing-payment-inquiries.md)
--   [Managing payment claims and debit approvals](managing-payment-claims.md)
+-   [Managing payment inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-inquiries.md)
+-   [Managing payment claims and debit approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-claims.md)
 

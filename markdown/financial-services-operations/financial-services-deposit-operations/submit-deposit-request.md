@@ -36,8 +36,8 @@ Bank workers can begin the deposit workflow by submitting a deposit service requ
     Deposit agent connectors can collect required information and documents and submit deposit service requests for the accounts managed by them. Further, they can work on the cases to fulfill the service request.
 
 
--   **[Create a deposit service case as a contributor or agent connector](../task/submit-deposit-service-application-contributor.md)**  
+-   **[Create a deposit service case as a contributor or agent connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/../task/submit-deposit-service-application-contributor.md)**  
 Begin the deposit service application process by creating a deposit case on behalf of your customer.
 
-**Parent Topic:**[Using Financial Services Deposit Operations](using-deposit-ops.md)
+**Parent Topic:**[Using Financial Services Deposit Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/using-deposit-ops.md)
 

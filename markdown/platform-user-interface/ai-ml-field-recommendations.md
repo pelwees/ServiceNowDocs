@@ -18,7 +18,7 @@ AI predicts a field's value based on the data in the form. AI recommendations ca
 -   Recommendations can appear as a list, and you can select a value from the list of top recommendations.
 -   A top recommendation can auto-fill into the field.
 
-The sparkle icon \(![sparkle icon](../../navigation-and-ui/image/sparkle-icon.png)\) marks any field that provides AI recommendations.
+The sparkle icon \(![sparkle icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/image/sparkle-icon.png)\) marks any field that provides AI recommendations.
 
-Get information on the recommendation's prediction source by pointing your mouse device on the sparkle icon \(![sparkle icon](../../navigation-and-ui/image/sparkle-icon.png)\).
+Get information on the recommendation's prediction source by pointing your mouse device on the sparkle icon \(![sparkle icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation-and-ui/image/sparkle-icon.png)\).
 

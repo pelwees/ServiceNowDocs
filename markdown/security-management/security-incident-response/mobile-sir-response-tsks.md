@@ -25,21 +25,21 @@ From the list of records, assign an open, unassigned response task to yourself o
 
 ## Procedure
 
-1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](mobile-sir-get-started.md).
+1.  If you are not logged in to your ServiceNow AI Platform instance on your mobile device, for more information see [Log in to the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sir-get-started.md).
 
 2.  With the Security Incidents landing screen displayed, tap **Open Response Tasks**.
 
     If you navigate away from the Security Incident Response Mobile app after you have logged in, tap the Now Agent app at any time to return to the last screen you had displayed.
 
-    ![Open Response Tasks applet highlighted.](../image/mobile_SIR_open_rt.jpg)
+    ![Open Response Tasks applet highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile_SIR_open_rt.jpg)
 
     The Open Response Tasks screen is displayed with a list of open tasks.
 
-    ![Open Response Tasks list.](../image/mobile-opentask-list.jpg)
+    ![Open Response Tasks list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile-opentask-list.jpg)
 
-3.  Refer to [Search for security incidents with the Security Incident Response Mobile app](mobile-sir-search.md) to search for tasks that match specific criteria.
+3.  Refer to [Search for security incidents with the Security Incident Response Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sir-search.md) to search for tasks that match specific criteria.
 
-    Alternatively, with the filter icon \(![Filter icon.](../image/sir-filter-image.png)\) displayed, [Set filters to limit the number of records](mobile-sire-filters.md) on the list. Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform.
+    Alternatively, with the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-filter-image.png)\) displayed, [Set filters to limit the number of records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mobile-sire-filters.md) on the list. Filtering records on screens in the mobile app works like filtering with a condition builder on the ServiceNow AI Platform.
 
 4.  With the list of open response tasks displayed, to assign or reassign directly from the list, swipe left on a record to open the menu.
 
@@ -75,14 +75,14 @@ To assign or reassign the assignment group:1.  Tap **Assignment group**
 2.  Tap a name from the list that is displayed, or enter text in the search field.
  A message is displayed that confirms the record is updated. The task on the parent security incident is assigned to a new user and updated in your ServiceNow AI Platform instance.
 
- Tap the send icon \(![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
+ Tap the send icon \(![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save and submit your changes.
 
 </td></tr></tbody>
 </table>6.  Alternatively, to view the details of an open response task record, with the Open Response Tasks screen displayed, tap a record on the list.
 
 7.  With the tabs on the response task record displayed, choose one in the following table to continue.
 
-    ![Open Response Task record.](../image/mobile-sir-open-restasks.jpg)
+    ![Open Response Task record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mobile-sir-open-restasks.jpg)
 
 <table id="choicetable_yfw_cgw_lhb"><thead><tr><th align="left" id="d271609e271">
 
@@ -98,9 +98,9 @@ Description
 
 </td><td>
 
-With the Details tab selected, review the fields on the response task. To edit fields or assign the task, tap the menu icon \(![Menu icon.](../../vulnerability-response/image/mobile-top-menu.png)\). From the menu that is displayed, choose from the following options.-   Tap **Edit**. With the Edit Response Task screen displayed, tap a field to expand it and choose one or more of the options that are displayed. Alternatively, tap the search icon and enter text.
+With the Details tab selected, review the fields on the response task. To edit fields or assign the task, tap the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile-top-menu.png)\). From the menu that is displayed, choose from the following options.-   Tap **Edit**. With the Edit Response Task screen displayed, tap a field to expand it and choose one or more of the options that are displayed. Alternatively, tap the search icon and enter text.
 -   To reassign the task, tap **Reassign** or **Assign to Me**.
- After you complete your edits, tap the send icon \(![Send icon in Android.](../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save your changes and update the record. The Security Incident Response Task on the parent security incident in your ServiceNow AI Platform instance is updated.
+ After you complete your edits, tap the send icon \(![Send icon in Android.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_send_droid.png)\) or **Submit** to save your changes and update the record. The Security Incident Response Task on the parent security incident in your ServiceNow AI Platform instance is updated.
 
 </td></tr><tr><td id="d271609e328">
 
@@ -110,8 +110,8 @@ With the Details tab selected, review the fields on the response task. To edit f
 
 With the Activity Stream tab selected, choose one to continue.
 
- -   View the audit trail created by the Work notes on the record. To add a work note or attach a file, tap the plus icon \(![Plus icon.](../../vulnerability-response/image/mobile_instances_plus.png)\).
--   Tap the menu icon \(![Menu icon.](../../vulnerability-response/image/mobile-top-menu.png)\) to edit or reassign the task.
+ -   View the audit trail created by the Work notes on the record. To add a work note or attach a file, tap the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile_instances_plus.png)\).
+-   Tap the menu icon \(![Menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../vulnerability-response/image/mobile-top-menu.png)\) to edit or reassign the task.
 
 
 </td></tr><tr><td id="d271609e361">

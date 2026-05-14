@@ -19,7 +19,7 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## About this task
 
-Follow the [General guidelines for creating and mapping an intent](../reference/guidelines-creating-intent.md)
+Follow the [General guidelines for creating and mapping an intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/guidelines-creating-intent.md)
 
 ## Procedure
 
@@ -43,5 +43,5 @@ Follow the [General guidelines for creating and mapping an intent](../reference/
 
 ## What to do next
 
-[Create and associate actions for intent](create-actions-for-intent.md)
+[Create and associate actions for intent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/create-actions-for-intent.md)
 

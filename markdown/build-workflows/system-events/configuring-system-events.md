@@ -17,12 +17,12 @@ Plan, configure, and implement system events without having to complete any extr
 
 ## Configuration overview
 
-[Implement automated job scheduling](../task/auto-job-scheduling.md)
+[Implement automated job scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/../task/auto-job-scheduling.md)
 
 Implement the message processing framework \(automated jobs scheduling\) by using the Queue Registration link on the Event Registration form.
 
--   **[Implement automated job scheduling](../task/auto-job-scheduling.md)**  
+-   **[Implement automated job scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/../task/auto-job-scheduling.md)**  
 Implement the message processing framework \(automated jobs scheduling\) by using the Queue Registration link on the Event Registration form.
 
-**Parent Topic:**[System Events](system-events-landing.md)
+**Parent Topic:**[System Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/system-events/system-events-landing.md)
 

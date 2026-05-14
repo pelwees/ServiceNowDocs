@@ -32,10 +32,10 @@ To integrate teamspaces with Strategic Planning records:
 1.  Create one alignment integration for all the teamspaces. On the alignment side, create extended tables to store individual teamspace table data \(like TSP1 Portfolio \[sn\_align\_core\_tsp1\_portfolio\], TSP1 Demand \[sn\_align\_core\_tsp1\_demand\], TSP2 Project \[sn\_align\_core\_tsp2\_project\], and so on\).
 2.  In the alignment integration, map the extended tables you have created in Step 1, to the respective teamspace tables \(like tsp1\_portfolio, tsp1\_demand, tsp2\_project, and so on\).
 
-![Strategic Planning with teamspaces.](../../apw-internal-integrations/images/for-teamspaces.png "Integration with Teamspaces")
+![Strategic Planning with teamspaces.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../apw-internal-integrations/images/for-teamspaces.png "Integration with Teamspaces")
 
 **Related topics**  
 
 
-[Create a table map](../../apw-internal-integrations/task/create-custom-table-maps-for-custom-planning-items.md)
+[Create a table map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../apw-internal-integrations/task/create-custom-table-maps-for-custom-planning-items.md)
 

@@ -63,8 +63,8 @@ This sample code will create a scroller with a list of priority 1 incidents.
 </j:jelly>
 ```
 
--   **[Add scrolling elements in forms](../task/t_AddingScrollingElementsInForms.md)**  
+-   **[Add scrolling elements in forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../task/t_AddingScrollingElementsInForms.md)**  
 You can add scrolling areas to forms as well as UI pages.
 
-**Parent Topic:**[RSS feed reader](../concept/c_RSSFeedReader.md)
+**Parent Topic:**[RSS feed reader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_RSSFeedReader.md)
 

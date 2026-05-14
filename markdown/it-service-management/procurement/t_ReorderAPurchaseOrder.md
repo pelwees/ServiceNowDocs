@@ -30,5 +30,5 @@ Role required: procurement\_admin or procurement\_user
     The status changes to **Ordered** for the purchase order and all associated purchase order line items.
 
 
-**Parent Topic:**[Create a purchase order](t_CreateAPurchaseOrder.md)
+**Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md)
 

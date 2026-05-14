@@ -17,7 +17,7 @@ The Live Feed plugin includes the following user roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Components installed with Live Feed](r_InstalledWithLiveFeed.md)
+**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 
 ## live\_feed\_admin
 

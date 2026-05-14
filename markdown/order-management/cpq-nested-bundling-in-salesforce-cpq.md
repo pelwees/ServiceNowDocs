@@ -21,7 +21,7 @@ To enable support for nested bundles, additional setup steps must be completed i
 
 1.  Navigate to Setup &gt; Installed Packages &gt; Salesforce CPQ, and then click **Configure**.
 
-    ![Setup in Salesforce](../images/cpq-layout-number-field-props-sf-settings.png)
+    ![Setup in Salesforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-number-field-props-sf-settings.png)
 
 2.  On the Additional Settings tab, check the box to enable **Nested Bundles for External Configurator**.
 3.  Click **Save** to save the changes.

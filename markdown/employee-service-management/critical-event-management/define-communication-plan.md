@@ -27,7 +27,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Communication plan form](../reference/communication-plan-form.md).
+    For more information, see [Communication plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/../reference/communication-plan-form.md).
 
 4.  Select **Submit**.
 

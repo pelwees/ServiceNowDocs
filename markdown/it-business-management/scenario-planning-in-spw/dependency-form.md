@@ -59,12 +59,12 @@ Number
 System-generated unique identification number for the dependency.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Form field information for Strategic Planning](form-field-information-for-strategic-planning.md)
+</table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
 **Related topics**  
 
 
-[Planning item dependencies](../../spw-roadmap/concept/roadmap-planning-overview.md#section_spl_34r_1tb)
+[Planning item dependencies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/concept/roadmap-planning-overview.md#section_spl_34r_1tb)
 
-[Add dependencies for roadmap items](../../spw-roadmap/task/create-planning-item-dependencies-in-a-roadmap.md)
+[Add dependencies for roadmap items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../spw-roadmap/task/create-planning-item-dependencies-in-a-roadmap.md)
 

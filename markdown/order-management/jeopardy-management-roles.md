@@ -104,5 +104,5 @@ Service order agent
 sn\_ind\_tmt\_orm.service\_order\_agent
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Order Management reference](../reference/order-mgt-reference.md)
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/order-mgt-reference.md)
 

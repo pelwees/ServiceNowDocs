@@ -31,7 +31,7 @@ The components you can preview in Theme Builder were created in the Now Design S
 
 2.  Use the **Page** drop-down list to select the Editor page view.
 
-    ![Page drop-down list with Editor selected.](../image/tb-editor-page-list.png "Page drop-down list")
+    ![Page drop-down list with Editor selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-editor-page-list.png "Page drop-down list")
 
 3.  From the Theme drop-down list, select the theme that you want to view components for.
 
@@ -39,32 +39,32 @@ The components you can preview in Theme Builder were created in the Now Design S
 
     The component styles are graphically listed.
 
-    ![Component styles](../image/tb-component-styles-list.png)
+    ![Component styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-component-styles-list.png)
 
 5.  You can scroll through the list to view all available components, or filter the list to view specific types of components.
 
     1.  Select the Filter icon ![](../image/tb-icon-filter.png).
 
-        ![Filter and search component list.](../image/tb-filter-component-list.png)
+        ![Filter and search component list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-filter-component-list.png)
 
     2.  Expand the categories of components that you want to view and select the specific components within those categories you want to view.
 
         **Note:** For example, to view components for all primary buttons, open the **Actionable** category then expand the **Button** component list. Select the **Primary**, **Primary positive**, and **Primary negative** components. The list shows the components that you selected.
 
-        ![Filtering example](../image/tb-filter-example.png)
+        ![Filtering example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-filter-example.png)
 
 6.  To test how the components render using different background colors, select the **Canvas color** check box.
 
 7.  Select the **Background color** you want to view and select **Apply**.
 
-    ![Canvas color](../image/tb-canvas-color.png "Canvas color")
+    ![Canvas color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-canvas-color.png "Canvas color")
 
-    ![New background color](../image/tb-change-background-color.png)
+    ![New background color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-change-background-color.png)
 
 
 ## What to do next
 
-After previewing and selecting the desired components, edit their properties to fine-tune their appearance. For more information, see [Edit components](tb-edit-components.md).
+After previewing and selecting the desired components, edit their properties to fine-tune their appearance. For more information, see [Edit components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-components.md).
 
-**Parent Topic:**[Working with Component styles](../concept/working-with-component-styles.md)
+**Parent Topic:**[Working with Component styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-component-styles.md)
 

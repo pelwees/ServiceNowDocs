@@ -53,7 +53,7 @@ Breakpoints belong to the developer who sets them. Developers must set and remov
 
     The Script Debugger pauses the script on the first line containing a breakpoint, and the system displays a confirmation window.
 
-    ![ServiceNow script debugger](../image/start-debugging-confirmation.png)
+    ![ServiceNow script debugger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/start-debugging-confirmation.png)
 
 5.  Click **Start Debugging**.
 
@@ -62,10 +62,10 @@ Breakpoints belong to the developer who sets them. Developers must set and remov
 6.  When debugging is complete, remove breakpoints from the script.
 
 
-**Parent Topic:**[Script Debugger and Session Log](../concept/script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/script-debugger.md)
 
 **Related topics**  
 
 
-[Script Debugger step-through and console controls](../reference/step-through-controls.md)
+[Script Debugger step-through and console controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../reference/step-through-controls.md)
 

@@ -17,7 +17,7 @@ Create a planned work schedule to specify when you want the work plan to run and
 
 ## Before you begin
 
-Before you create a planned work schedule, ensure that you have [created a work plan](create-work-plan-eam.md).
+Before you create a planned work schedule, ensure that you have [created a work plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-work-plan-eam.md).
 
 Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
@@ -27,7 +27,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 2.  On the Create New Planned Work Schedule form, fill in the fields.
 
-    For a detailed description of the planned work schedule fields, see [Work plan schedule fields for Enterprise Asset Management](../reference/work-plan-schedule-fields-eam.md).
+    For a detailed description of the planned work schedule fields, see [Work plan schedule fields for Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/work-plan-schedule-fields-eam.md).
 
 3.  Select **Save**.
 

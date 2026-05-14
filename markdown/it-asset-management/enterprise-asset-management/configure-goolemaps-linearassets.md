@@ -21,7 +21,7 @@ Role required: sys\_admin
 
 ## About this task
 
-sn-geo-map is the UI component used to support the map visualization in linear assets. For more details on geomaps, see the section titled Geo Maps for linear assets in [Linear assets in Enterprise Asset Management](../concept/using-linear-assets.md).
+sn-geo-map is the UI component used to support the map visualization in linear assets. For more details on geomaps, see the section titled Geo Maps for linear assets in [Linear assets in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/using-linear-assets.md).
 
 ## Procedure
 

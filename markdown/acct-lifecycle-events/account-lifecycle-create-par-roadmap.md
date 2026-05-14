@@ -40,7 +40,7 @@ Use this task to create a visual roadmap that helps you communicate product adop
 6.  Specify how the roadmap is to be created:
 
     -   **From scratch**: Manually configure all roadmap settings and add products or capabilities.
-    -   **Template**: Use a pre-configured template that includes lanes, items, and phase field settings. Select a template from the **Template** drop down list and select **Finish**. The roadmap is created based on the pre-configured values defined in the template. See [Create a product adoption roadmap template](account-lifecycle-create-par-roadmap-temp.md) for details.
+    -   **Template**: Use a pre-configured template that includes lanes, items, and phase field settings. Select a template from the **Template** drop down list and select **Finish**. The roadmap is created based on the pre-configured values defined in the template. See [Create a product adoption roadmap template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-par-roadmap-temp.md) for details.
     -   **Now Assist**: Generate a roadmap using Now Assist. See [Generate a product adoption roadmap using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-generate-par-roadmap.md) for details.
 
         **Note:** The Now Assist option is displayed only if:
@@ -64,12 +64,12 @@ Use this task to create a visual roadmap that helps you communicate product adop
     -   Duplicate: Select **Duplicate map** to make a copy of the roadmap.
     -   Retire: Select **Retire** to archive the roadmap.
 
-**Parent Topic:**[Customer success](../concept/account-lifecycle-config-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-config-cust-success.md)
 
 **Related topics**  
 
 
-[View a product adoption roadmap](../concept/account-lifecycle-view-par-roadmap.md)
+[View a product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-view-par-roadmap.md)
 
-[Product adoption roadmap](../concept/account-lifecycle-par-roadmap.md)
+[Product adoption roadmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../concept/account-lifecycle-par-roadmap.md)
 

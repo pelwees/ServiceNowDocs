@@ -96,5 +96,5 @@ Note the following restrictions:
 
 The data fabric table is created and connected to a data source. Data consumers can access the data fabric table and its data just like any physical table on the instance.
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/managing-data-fabric-tables-zcc.md)
 

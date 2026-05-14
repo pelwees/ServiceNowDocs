@@ -41,10 +41,10 @@ For new customers, only the Notify-Twilio Direct driver is available by default.
 
 The Notify plugin must be active to access Notify.
 
-**Parent Topic:**[Exploring Notify](exploring-notify.md)
+**Parent Topic:**[Exploring Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/exploring-notify.md)
 
 **Related topics**  
 
 
-[Configure Notify with Twilio](../task/t_ConfigureNotifyWithTwilio.md)
+[Configure Notify with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../task/t_ConfigureNotifyWithTwilio.md)
 

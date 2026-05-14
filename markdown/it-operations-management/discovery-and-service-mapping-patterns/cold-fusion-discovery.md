@@ -173,7 +173,7 @@ In this example, the application service map shows the results of a top-down dis
 -   The ColdFusion application **hdStreetOracle**.
 -   A database named **XE**, which the ColdFusion application connects to.
 
-![ColdFusion service map](../image/cold-fusion-service-map.png "ColdFusion service map")
+![ColdFusion service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cold-fusion-service-map.png "ColdFusion service map")
 
-**Parent Topic:**[Available on-premise discovery patterns](available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 

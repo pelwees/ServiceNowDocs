@@ -39,7 +39,7 @@ As you make changes to a topic's intent, train the model so that your updates ar
 
     In the Try model panel, manually enter an utterance to test. The prediction results display in the panel.
 
-    ![The Try model panel showing results of testing an utterance manually.](../images/nlu-publish-model.png "Example of testing an utterance in the NLU Try model panel")
+    ![The Try model panel showing results of testing an utterance manually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/nlu-publish-model.png "Example of testing an utterance in the NLU Try model panel")
 
     If prediction confidence score results meet or surpass the confidence threshold you established for the model, the results appear under Top prediction\(s\). In this example, the threshold value is 65%.
 
@@ -58,5 +58,5 @@ You can publish the model at the same time as the Virtual Agent topic if the mod
 
 For more information on providing feedback using thumbs icons in the results, see [Test panel feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/test-model-panel-feedback.md).
 
-**Parent Topic:**[Testing NLU/Keyword topics](../reference/va-designer-testing.md)
+**Parent Topic:**[Testing NLU/Keyword topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/va-designer-testing.md)
 

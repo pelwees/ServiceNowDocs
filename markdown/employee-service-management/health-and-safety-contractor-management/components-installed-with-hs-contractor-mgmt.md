@@ -33,7 +33,7 @@ Health and Safety Core
 
 Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
- For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](../../hs-core/reference/components-installed-hs-core.md).
+ For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../../hs-core/reference/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
@@ -172,5 +172,5 @@ Document
 Stores all safety related documents collected from contractor companies and workers.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Health and Safety Contractor Management reference](../concept/hs-contractor-management-reference.md)
+</table>**Parent Topic:**[Health and Safety Contractor Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/../concept/hs-contractor-management-reference.md)
 

@@ -139,5 +139,5 @@ Alerts start flowing from the Catchpoint connector into the Event Management plu
 |1|Critical|
 |2/3|Clear|
 
-**Parent Topic:**[Integrate with push connectors](configure-listener-transform-script.md)
+**Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 

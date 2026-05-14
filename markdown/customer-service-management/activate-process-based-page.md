@@ -40,7 +40,7 @@ Some playbook pages and page variants are not active by default. You need to act
 
 6.  In the **Order** field, set the order number for the page.
 
-    Each page has an order number. The page with the lowest order number is the default page. When the system displays a record in CSM Configurable Workspace, it uses this default page to display the record information. For more information, see [Set record page order](config-csm-ws-set-record-page-order.md).
+    Each page has an order number. The page with the lowest order number is the default page. When the system displays a record in CSM Configurable Workspace, it uses this default page to display the record information. For more information, see [Set record page order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 7.  In the **Variant conditions** field, specify the table value.
 

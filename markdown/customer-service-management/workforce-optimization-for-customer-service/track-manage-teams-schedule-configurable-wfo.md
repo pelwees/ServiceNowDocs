@@ -33,24 +33,24 @@ Using the calendar, you can do the following:
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the Schedule \(![Schedule icon.](../image/schedule-new.png)\) icon.
+2.  Select the Schedule \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\) icon.
 
 3.  Modify an agent's shift.
 
     The schedule that includes this shift must be in **Preview** or **Published** state.
 
     1.  In the Team Calendar tab, navigate and hover over the shift for the agent that you want to modify the schedule for, in Day, Week or Month view.
-    2.  In the shift pop-up window, select the **Edit** \(![Edit icon.](../../customer-service-management/image/edit-new.png)\) icon.
+    2.  In the shift pop-up window, select the **Edit** \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../../customer-service-management/image/edit-new.png)\) icon.
     3.  Modify the agent's shift or the shift time.
 
         **Note:** If the existing shift has a break, you can add more breaks to the shift.
 
         -   Select **Select shift times** and modify the **Start time** or **End time** fields to change the timing of the shift.
-        -   Select the **Select preset shift** option and from the Shift plan list, select an existing shift to assign another shift plan to the agent. For more info on creating a shift plan, see [Create a shift plan](create-shift-plan-configurable-wfo-cs.md).
+        -   Select the **Select preset shift** option and from the Shift plan list, select an existing shift to assign another shift plan to the agent. For more info on creating a shift plan, see [Create a shift plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-shift-plan-configurable-wfo-cs.md).
     4.  Select **Save**.
 4.  Approve or reject an agent's time off or shift-swap with another agent.
 
-    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval is auto-rejected. An administrator can change this default setting. For more information, see Setting the due date for time-off and shift-swap request approvals in [Components installed with Workforce Optimization for Customer Service](../reference/components-installed-configurable-wfo-cs.md) Overlapping time-off requests by an agent is rejected.
+    **Note:** You must approve a request two days before the time-off or shift-swap start date. If not, the approval is auto-rejected. An administrator can change this default setting. For more information, see Setting the due date for time-off and shift-swap request approvals in [Components installed with Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md) Overlapping time-off requests by an agent is rejected.
 
     |Tab|Description|
     |---|-----------|
@@ -61,5 +61,5 @@ Using the calendar, you can do the following:
     If you approve the request, the schedule gets updated in the team calendar based on the approvals.
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

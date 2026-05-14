@@ -63,11 +63,11 @@ In the layout CSV file, define your product list column rows with the following 
 
 The product list and its properties can be edited by using the layout editor in the CPQ UI. The product list layout element is at the bottom of the page:
 
-![Product lists in layouts](../images/cpq-layout-editor-product-list.png)
+![Product lists in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-editor-product-list.png)
 
 You can edit this part of the layout by clicking the gear that appears in the top right of the product list layout element when you move your mouse into it. The product list has a settings screen that contains all the properties referenced earlier.
 
-![Product lists in layouts](../images/cpq-layout-editor-product-list-settings.png)
+![Product lists in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-layout-editor-product-list-settings.png)
 
-For more information, see [Displaying multiple product lists in layouts](displaying_multiple_productlists_in_layouts.md).
+For more information, see [Displaying multiple product lists in layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/displaying_multiple_productlists_in_layouts.md).
 

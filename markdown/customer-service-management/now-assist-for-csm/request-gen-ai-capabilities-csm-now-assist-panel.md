@@ -36,9 +36,9 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 2.  Log in to an instance where the Now Assist for CSM application is installed.
 
-3.  Request the generative AI capabilities in CSM for an interaction or case by selecting the Now Assist icon![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+3.  Request the generative AI capabilities in CSM for an interaction or case by selecting the Now Assist icon![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 
-    ![Now Assist panel with a list of available actions and a task selection dropdown displayed after the user chose "Add Comment To Task.".](../image/now-assist-csm-na-panel.png "Now Assist panel")
+    ![Now Assist panel with a list of available actions and a task selection dropdown displayed after the user chose "Add Comment To Task.".](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-na-panel.png "Now Assist panel")
 
 4.  After you request the generative AI capabilities, you can summarize a chat for an interaction, summarize a chat for a case created from an interaction, summarize a case, generate the resolution notes for a case, summarize a call, generate a knowledge article, ask questions about a case, use AI agents to complete cases, and complete tasks with conversational subflows and actions.
 
@@ -57,7 +57,7 @@ Description
 </td><td>
 
 1.  Open the interaction.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Chat Summarization**. A summary of the chat conversation with the live agent is displayed.
 
 
@@ -68,7 +68,7 @@ Description
 </td><td>
 
 1.  Open the case that was created from an interaction.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Chat Summarization**. A summary of the chat conversation with the live agent before the case was created is displayed.
 
 
@@ -79,7 +79,7 @@ Description
 </td><td>
 
 1.  Open the case.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Summarize a record**.
 
 
@@ -90,7 +90,7 @@ Description
 </td><td>
 
 1.  Open the case.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Generate resolution notes**.
 
 
@@ -101,7 +101,7 @@ Description
 </td><td>
 
 1.  Open the case.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Summarize conversation**. A call summary of the conversation with the live agent is generated on the details page.
 
 
@@ -112,7 +112,7 @@ Description
 </td><td>
 
 1.  Open the case.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, select **Generate Article**. A knowledge article is drafted for the case using task data, comments, and work notes from the activity stream.
 
 
@@ -123,7 +123,7 @@ Description
 </td><td>
 
 1.  Open the case.
-2.  From the header menu, select the Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+2.  From the header menu, select the Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 3.  In the Now Assist panel, enter a case assist topic question and select a case assist topic. Information requested about the case is shown.
 
 
@@ -150,5 +150,5 @@ Description
     Information requested about the case is shown. Conversational subflows and actions capture users' intents when requesting to run specific subflows and actions, along with all necessary details for those subflows and actions. This streamlines the user experience by enabling them to accomplish everything in one place within the Now Assist panel.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 

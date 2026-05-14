@@ -27,13 +27,13 @@ Business customers and consumers can create payment inquiry requests from the Cu
 
 Branch workers and customers can submit only internal payment inquiries such as Beneficiary Claim Non-Receipt - Internal and Payment made In Error.
 
-For information about external inquiries, see [Create a payment inquiry case for an external inquiry](create-payment-inquiry-case-external-inquiry.md).
+For information about external inquiries, see [Create a payment inquiry case for an external inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/create-payment-inquiry-case-external-inquiry.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  Create a payment inquiry request from the customer record or an interaction record.
 
@@ -101,7 +101,7 @@ Steps
 ## What to do next
 
 -   Click **View Details** to open the payment inquiry case and view its details. You can also add additional information in the **Comments** field that can help the inquiry agent in resolving the case.
--   An inquiry agent can start [investigating the payment inquiry case](investigate-payment-inquiry-case.md).
+-   An inquiry agent can start [investigating the payment inquiry case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/investigate-payment-inquiry-case.md).
 
-**Parent Topic:**[Managing payment inquiries](../concept/managing-payment-inquiries.md)
+**Parent Topic:**[Managing payment inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../concept/managing-payment-inquiries.md)
 

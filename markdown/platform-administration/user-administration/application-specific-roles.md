@@ -505,7 +505,7 @@ AI Search
 
 </td><td>
 
-[Components installed with AI Search](../../ai-search/reference/components-installed-ais.md#)
+[Components installed with AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../ai-search/reference/components-installed-ais.md#)
 
 </td></tr><tr><td>
 
@@ -697,7 +697,7 @@ State Model
 
 </td><td>
 
-[Installed with State Model](../../state-model/reference/installed-state-model.md#)
+[Installed with State Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/../../state-model/reference/installed-state-model.md#)
 
 </td></tr><tr><td>
 
@@ -1252,5 +1252,5 @@ Teamspaces
 [Installed with teamspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithTeamspaces.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Base system roles](r_BaseSystemRoles.md)
+</table>**Parent Topic:**[Base system roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md)
 

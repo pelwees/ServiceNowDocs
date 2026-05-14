@@ -27,7 +27,7 @@ Role required: sn\_cmdb\_admin or sn\_cmdb\_editor
 
 Two CIs might be connected by one or more relationships \(stored in the CI Relationship \[cmdb\_rel\_ci\] table\). For example, two CIs might be connected by the **Runs On::Runs**, **Depends On::Discovered From**, and by the **Owned By::Owns** relationships.
 
-You can learn more about relationships at [CI relationships in the CMDB](../concept/c_CIRelationships.md).
+You can learn more about relationships at [CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/c_CIRelationships.md).
 
 The map editor does not support the following actions:
 
@@ -79,7 +79,7 @@ Take one of the following actions:
 
 </td><td>
 
-For instructions, see [Delete a connection using the map editor](unified-map-delete-connection.md).
+For instructions, see [Delete a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-delete-connection.md).
 
 </td></tr></tbody>
 </table>2.  On the Manage connection panel \(![](../image/icon-um-edit-connection.png)\), specify the settings.
@@ -135,13 +135,13 @@ The relationship between the CIs. For example, the relationship between the pare
 **Related topics**  
 
 
-[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/c_CIRelationships.md)
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../reference/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/t_AddANewSuggestedRelationship.md)
 
-[Editing maps in Unified Map](../concept/unified-map-editing-map.md)
+[Editing maps in Unified Map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../concept/unified-map-editing-map.md)
 
-[Delete a connection using the map editor](unified-map-delete-connection.md)
+[Delete a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-delete-connection.md)
 

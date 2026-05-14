@@ -33,9 +33,9 @@ The Work Items page displays a centralized view of existing Strategic Portfolio 
 
 You can view the grouped view of various work items grouped under SPM Work Items and CWM Work items. Select **Show All** to display an expanded view of the work items under a specific group. For instance, selecting**Show All** for **Initiatives** under **SPM Work Items** displays all the existing SPM work items created using initiatives.
 
-![Expanded Work Items view](../image/work-items-page-groupedview.png "Work Items view")
+![Expanded Work Items view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/work-items-page-groupedview.png "Work Items view")
 
 You can search the work items on the **Work Items** page by using the search text box. You can also search for work items using filters like source, state, and status on the **Work Items** page.
 
-Select the Filter ![filter icon icon](../image/filter-icon.png) to add a filter and choose from impact source, state, progress, or status. Then select the corresponding values. For example, to filter by **Source**, select **Source** from the filter options, and then choose one or more source types such as **Recommendation**, **Initiative**, or **Product Adoption Roadmap** from the displayed list.
+Select the Filter ![filter icon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/filter-icon.png) to add a filter and choose from impact source, state, progress, or status. Then select the corresponding values. For example, to filter by **Source**, select **Source** from the filter options, and then choose one or more source types such as **Recommendation**, **Initiative**, or **Product Adoption Roadmap** from the displayed list.
 

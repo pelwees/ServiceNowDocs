@@ -21,7 +21,7 @@ Role required: password\_reset\_admin
 
 ## About this task
 
--   For an AD credential store, skip this procedure and instead follow the instructions in [Integrate Password Reset with your Active Directory service](t_ConPassResetActiveDir.md). The Password Reset Windows Application supports only AD credential stores.
+-   For an AD credential store, skip this procedure and instead follow the instructions in [Integrate Password Reset with your Active Directory service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_ConPassResetActiveDir.md). The Password Reset Windows Application supports only AD credential stores.
 -   Configuration for multiple connections using a child alias. You can configure a connection credential alias with multiple child connections and map the child connection to a password reset credential store. The connections are used during the run time in the password reset flows. With this configuration password reset flows can support multiple Active Directory server credentials in Workflow Studio.
 
 ## Procedure
@@ -34,7 +34,7 @@ Role required: password\_reset\_admin
 
 3.  Enter a unique and meaningful **Name** and **Description**, and then on the Password Reset Credential Store form, fill in the fields.
 
-    For information about the fields on the Password Reset Credential Store form, see [Password Reset Credential Store form](../reference/password-reset-credential-store-form.md).
+    For information about the fields on the Password Reset Credential Store form, see [Password Reset Credential Store form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../reference/password-reset-credential-store-form.md).
 
 4.  Click **Submit**.
 
@@ -46,13 +46,13 @@ Role required: password\_reset\_admin
 
 6.  Select [Enable password policies on your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/enable-password-policies.md)
 
-7.  [Test the connection to the credential store](test-cxn-to-credential-store.md).
+7.  [Test the connection to the credential store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/test-cxn-to-credential-store.md).
 
 
-**Parent Topic:**[Credential stores for Password Reset](../concept/c_CredentialStores.md)
+**Parent Topic:**[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/c_CredentialStores.md)
 
 **Related topics**  
 
 
-[Configure the required strength for passwords](config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-strength-rqmts.md)
 

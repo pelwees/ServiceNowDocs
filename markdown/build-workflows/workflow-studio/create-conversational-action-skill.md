@@ -30,24 +30,24 @@ Role required:
 
 3.  From the list of actions, select the action for which you want to create the skill.
 
-4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](../images/conversational-settings-icon-z.png)\).
+4.  From the side panel, open **Conversational settings** \(![Option on the side panel to open conversational settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conversational-settings-icon-z.png)\).
 
     If the action already contains skills, the conversational settings displays a list of the exiting skills with an option to create a new skill.
 
-    ![Option to create a new skill for the action.](../images/create-conversational-action-skill.png)
+    ![Option to create a new skill for the action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-conversational-action-skill.png)
 
 5.  Select **Create a new skill**.
 
 6.  Select **Generate skill metadata** to generate descriptions for the skill and the inputs and outputs using generative AI.
 
-    ![Form to create a new skill for the action.](../images/create-new-action-skill.png)
+    ![Form to create a new skill for the action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-new-action-skill.png)
 
-7.  Specify the settings as described in the topic [Configure action conversational settings](configure-action-conversation-settings.md).
+7.  Specify the settings as described in the topic [Configure action conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-action-conversation-settings.md).
 
 8.  Save the skill.
 
     You can also test the skill by selecting **Save and test**.
 
 
-**Parent Topic:**[Building actions](../concept/actions.md)
+**Parent Topic:**[Building actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/actions.md)
 

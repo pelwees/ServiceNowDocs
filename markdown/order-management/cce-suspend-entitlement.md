@@ -35,7 +35,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 6.  In the Suspend entitlement window, enter the period of suspension for the entitlement in the **Start date and time** and the **End date and time** field.
 
-    **Note:** If you do not enter a value in the **End date and time**, the entitlement will be suspended You can resume the entitlement manually by using the resume option. For more info, see [Resume an entitlement](cce-resume-entitlement.md).
+    **Note:** If you do not enter a value in the **End date and time**, the entitlement will be suspended You can resume the entitlement manually by using the resume option. For more info, see [Resume an entitlement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cce-resume-entitlement.md).
 
 7.  Add a reason for a suspension in the **Reason for suspension** field.
 

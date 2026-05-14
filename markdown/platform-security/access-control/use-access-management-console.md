@@ -25,6 +25,6 @@ Role required: access\_analyzer\_admin, user\_admin
 
 2.  Use the following features:
 
-    -   [Access analyzer](../../../integrate/identity/concept/access-analyzer.md)
-    -   [Access findings](../concept/access-findings.md)
+    -   [Access analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../integrate/identity/concept/access-analyzer.md)
+    -   [Access findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../concept/access-findings.md)
 

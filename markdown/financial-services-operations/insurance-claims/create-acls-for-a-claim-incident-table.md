@@ -38,5 +38,5 @@ Role required: admin
 
 ## What to do next
 
-Grant Insurance claims roles access to the claim incident table so that they can read and write entries during the claim creation process. For more information, see [Grant Insurance claims roles access to a claim incident table](update-insurance-claim-roles-for-a-claim-incident-table.md).
+Grant Insurance claims roles access to the claim incident table so that they can read and write entries during the claim creation process. For more information, see [Grant Insurance claims roles access to a claim incident table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/update-insurance-claim-roles-for-a-claim-incident-table.md).
 

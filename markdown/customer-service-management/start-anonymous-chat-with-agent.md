@@ -19,13 +19,13 @@ Role required: none
 
 ## Procedure
 
-1.  Click the Chat icon \( ![Chat icon.](../image/chat-icon.png)\) in the Consumer Service Portal to start a conversation.
+1.  Click the Chat icon \( ![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat-icon.png)\) in the Consumer Service Portal to start a conversation.
 
 2.  Fill in the information and click **Submit**.
 
     A virtual agent or a customer service agent responds.
 
-3.  To talk to a person instead of a virtual agent, click ![Connect Support icon.](../../customer-communities/images/contact-support-icon.png) and then **Contact Support**.
+3.  To talk to a person instead of a virtual agent, click ![Connect Support icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../customer-communities/images/contact-support-icon.png) and then **Contact Support**.
 
 4.  When you are finished with the chat, click **End Conversation**.
 

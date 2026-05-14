@@ -23,7 +23,7 @@ The Discovery Builder framework supports the SD-WAN data model. You can use the 
 
 ## ServiceNow AI Platform® SD-WAN data model architecture
 
-![SD-WAN architecture class relationships](../images/sd-wan-architecture.svg)
+![SD-WAN architecture class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/../images/sd-wan-architecture.svg)
 
 The following table describes the classes used in the SD-WAN data model and the type of data each class stores.
 

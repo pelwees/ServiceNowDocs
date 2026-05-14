@@ -19,7 +19,7 @@ The tables are cloud-agnostic and can therefore hold data for any cloud provider
 
 The load balancer table \[cmdb\_ci\_cloud\_load\_balancer\] extends from \[cmdb\_ci\_vm\_object\], which extends from \[cmdb\_ci\]. Click to enlarge the image.
 
-![Load balancer CMDB object model](../image/schema-load-balancer.png "Schema load balancer")
+![Load balancer CMDB object model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schema-load-balancer.png "Schema load balancer")
 
 |Attribute|Description|
 |---------|-----------|
@@ -34,7 +34,7 @@ The load balancer table \[cmdb\_ci\_cloud\_load\_balancer\] extends from \[cmdb\
 
 The network resource table \[cmdb\_ci\_network\] extends from \[cmdb\_ci\_vcenter\_object\], which extends from \[cmdb\_ci\_vm\_object\], which extends from \[cmdb\_ci\]. Click to enlarge the image.
 
-![Network table object model](../image/schema-network.png "Network table object model")
+![Network table object model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schema-network.png "Network table object model")
 
 <table id="table_vvb_tjn_5cb"><thead><tr><th>
 
@@ -151,7 +151,7 @@ Boolean:true: Dynamic IP address is assigned to host
 
 The storage volume resource table \[cmdb\_ci\_storage\_volume\] extends from \[cmdb\_ci\]. Click to enlarge the image.
 
-![Storage volume resource table object model](../image/schema-storage-volume.png "Schema storage volume")
+![Storage volume resource table object model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schema-storage-volume.png "Schema storage volume")
 
 <table id="table_wvb_34n_5cb"><thead><tr><th>
 
@@ -242,7 +242,7 @@ Number of VMs that are shared by the volume.
 
 The virtual server resource table \[cmdb\_ci\_vm\_instance\] extends from \[cmdb\_ci\_vm\_object\], which extends from \[cmdb\_ci\]. Click to enlarge the image.
 
-![Virtual server table object model](../image/schema-virtual-server.png)
+![Virtual server table object model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/schema-virtual-server.png)
 
 <table id="table_wtq_spn_5cb"><thead><tr><th>
 

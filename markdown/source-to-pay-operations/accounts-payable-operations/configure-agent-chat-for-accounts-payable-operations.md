@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **Source-to-Pay workspace** &gt; **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Agent control**.
 
-    ![Toggle agent names and avatars](../image/apo-agent-chat.png)
+    ![Toggle agent names and avatars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-agent-chat.png)
 
 2.  In the User Experience section, swipe the **Agent names and avatars** toggle switch to the right to enable this option.
 
@@ -31,7 +31,7 @@ Role required: admin
 
     The Quick Action Toolbar Controls is displayed.
 
-    ![View the quick action configurations](../image/apo-quick-action-toolbar.png)
+    ![View the quick action configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-quick-action-toolbar.png)
 
     Add or update the quick action shortcuts for live agents in Agent Chat. For more information about configuring the toolbar controls, see [Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md).
 
@@ -42,5 +42,5 @@ Role required: admin
 
 The agent chat settings are configured to interact with an Accounts Payable Operations agent.
 
-**Parent Topic:**[Configure Advanced Work Assignment for Accounts Payable Operations](configure-advanced-work-assignment-for-apo.md)
+**Parent Topic:**[Configure Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configure-advanced-work-assignment-for-apo.md)
 

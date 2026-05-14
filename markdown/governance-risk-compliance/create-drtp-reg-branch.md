@@ -21,7 +21,7 @@ Role required: sn\_oper\_res.manager
 
 A legal entity may operate multiple branches across various cities or countries, all of which can be documented on the form.
 
-![Branches.](../image/tpr-leg-ent-branches.png)
+![Branches.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/tpr-leg-ent-branches.png)
 
 If a new branch is launched, its information is also required for regulatory reporting.
 
@@ -44,13 +44,13 @@ If a new branch is launched, its information is also required for regulatory rep
     -   ID of the branch and its originating country
     The number for the branch is auto-generated. Once the branch details are complete, the information is ready to be captured in the information register.
 
-    For more information, see [Create New Branch form](../reference/create-new-branch-form.md).
+    For more information, see [Create New Branch form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-branch-form.md).
 
 4.  Select **Save**.
 
     The digital resilience information for the branch is shown in the example.
 
-    ![Branch.](../image/branch-form.png)
+    ![Branch.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/branch-form.png)
 
 5.  To edit the branch record, select it from the list and select **Edit**.
 
@@ -61,10 +61,10 @@ If a new branch is launched, its information is also required for regulatory rep
 
 ## What to do next
 
-Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](create-drtp-reg-function.md).
+Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-function.md).
 
--   **[Create New Branch form](../reference/create-new-branch-form.md)**  
+-   **[Create New Branch form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-branch-form.md)**  
 On the Create New Branch form, fill in the fields.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

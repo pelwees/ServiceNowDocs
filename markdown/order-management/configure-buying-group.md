@@ -59,18 +59,18 @@ sn\_buying\_groups
 </td></tr></tbody>
 </table>## What to do next
 
-[View buying group engagement metrics](../task/create-new-buying-group-engagement-metrics.md)
+[View buying group engagement metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/create-new-buying-group-engagement-metrics.md)
 
 View a buying group engagement metrics to track how individual members and the group as a whole interact across marketing and sales activities, providing a consolidated view of participation, engagement levels, and buying readiness throughout the buying group lifecycle.
 
 **Related topics**  
 
 
-[Using Buying Group](using-buying-group.md)
+[Using Buying Group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 
-[Install and configure Opportunity Management](configure-opportunity-mgmt.md)
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[Install and configure Lead Management](configure-lead-management.md)
+[Install and configure Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[Assign user roles in Sales Customer Relationship Management applications](configure-SOM-roles.md)
+[Assign user roles in Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-SOM-roles.md)
 

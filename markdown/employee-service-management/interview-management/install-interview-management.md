@@ -30,7 +30,7 @@ The following items are installed with Interview management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [Components installed with Interview Management](../reference/installed-with-int-mgmnt.md).
+For more information, see [Components installed with Interview Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../reference/installed-with-int-mgmnt.md).
 
 ## Procedure
 
@@ -55,5 +55,5 @@ For more information, see [Components installed with Interview Management](../re
 6.  Select **Install**.
 
 
-**Parent Topic:**[Configuring Interview Management](../concept/configuring-interview-management.md)
+**Parent Topic:**[Configuring Interview Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/../concept/configuring-interview-management.md)
 

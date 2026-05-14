@@ -23,7 +23,7 @@ Role required: notify\_admin
 
 1.  Navigate to **All** &gt; **Notify** &gt; **Administration** &gt; **Twilio Direct Additional Properties**.
 
-    ![Twilio Direct additional properties](../image/twilio-direct-add-properties.png)
+    ![Twilio Direct additional properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../image/twilio-direct-add-properties.png)
 
 2.  In the Twilio Direct driver property field, enter the preferred voice tone.
 
@@ -34,5 +34,5 @@ Role required: notify\_admin
     **Note:** If you are defining the property in your ServiceNow® instance, the Twilio voice settings are overridden.
 
 
-**Parent Topic:**[Configure Notify with Twilio](t_ConfigureNotifyWithTwilio.md)
+**Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 

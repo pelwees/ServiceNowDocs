@@ -46,7 +46,7 @@ A new risk assessment is generated for enterprise risk assessment. The assessmen
 
 ## What to do next
 
-Based on the assessors identified as the enterprise assessors in the Project Integration Configuration form, the enterprise risk manager gets a notification to assess the risk from an enterprise risk perspective. The steps to perform the risk assessment are the same as given in [Assess project risks using Advanced Risk Assessment](assessing-proj-risk-by-projmanager.md).
+Based on the assessors identified as the enterprise assessors in the Project Integration Configuration form, the enterprise risk manager gets a notification to assess the risk from an enterprise risk perspective. The steps to perform the risk assessment are the same as given in [Assess project risks using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assessing-proj-risk-by-projmanager.md).
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-and-ppm-better-together.md)
 

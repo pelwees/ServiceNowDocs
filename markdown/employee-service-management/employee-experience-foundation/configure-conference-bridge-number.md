@@ -17,7 +17,7 @@ Configure the conference bridge number to allow the participants to collaborate 
 
 **Note:** These are additional configuration, which are optional and can be used as required.
 
-**Parent Topic:**[Configure Notify connector for Microsoft Teams](config-notify-ms-teams.md)
+**Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notify-ms-teams.md)
 
 ## Reserve a conference bridge number
 
@@ -33,7 +33,7 @@ Role required: Microsoft Teams admin
 
 2.  Navigate to **Voice** &gt; **Phone number**.
 
-    ![Path for phone numbers](../image/path-phone-numbers.png)
+    ![Path for phone numbers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/path-phone-numbers.png)
 
 3.  Click **Add**.
 
@@ -45,13 +45,13 @@ Role required: Microsoft Teams admin
 
     3.  Number type: Option to select the number type.
 
-        ![Add the phne number screen](../image/add-phone-number-2.png)
+        ![Add the phne number screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-phone-number-2.png)
 
     4.  Quantity: Option to choose the number of the conference number.
 
     5.  Search for new numbers: Option to choose the conference numbers based on city name or by area code.
 
-        ![Options to fill the order form](../image/add-phone-number-3.png)
+        ![Options to fill the order form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-phone-number-3.png)
 
     6.  Click **Next**.
 
@@ -63,11 +63,11 @@ Role required: Microsoft Teams admin
 
     8.  Click **Finish**.
 
-        ![Order for conference number placed successfully](../image/add-phone-number-4.png)
+        ![Order for conference number placed successfully](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-phone-number-4.png)
 
         The reserved numbers appear under Phone numbers section as depicted.
 
-        ![Reserved phone numbers](../image/reserved-phone-numbers.png)
+        ![Reserved phone numbers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/reserved-phone-numbers.png)
 
 
 ## Configure conference bridge number for meetings
@@ -86,17 +86,17 @@ Role required: Microsoft Teams admin
 
 3.  Click **Add**, and then select the conference bridge type.
 
-    ![Add conference bridge type](../image/add-conference-bridge.png)
+    ![Add conference bridge type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-conference-bridge.png)
 
 4.  Select the conference bridge type.
 
-    ![Conference bridge type](../image/conference-bridge-type.png)
+    ![Conference bridge type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/conference-bridge-type.png)
 
 5.  Select the number from the drop-down option.
 
     This is the number that is reserved for your tenant for conference calls.
 
-    ![Add conference bridge number](../image/add-number.png)
+    ![Add conference bridge number](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/add-number.png)
 
 6.  Click **Apply**.
 
@@ -119,15 +119,15 @@ Role required: admin
 
 3.  Click **Service User**.
 
-    ![Manage users](../image/manage-users.png)
+    ![Manage users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/manage-users.png)
 
 4.  Edit the Audio Conference details by clicking the **Edit** button.
 
-    ![Edit audio conference](../image/edit-audio-conference.png)
+    ![Edit audio conference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/edit-audio-conference.png)
 
 5.  Select the toll number.
 
-    ![Audio conference settings](../image/audio-conference-settings.png)
+    ![Audio conference settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/audio-conference-settings.png)
 
 6.  Click **Apply**.
 

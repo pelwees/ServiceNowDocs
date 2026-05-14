@@ -35,13 +35,13 @@ Role required: sn\_kpi.admin
 
 6.  Select the KPIs to be tracked.
 
-    ![Select the KPIs to be tracked in the action plan](../image/add-action-plan.png "Add action plan KPIs")
+    ![Select the KPIs to be tracked in the action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/add-action-plan.png "Add action plan KPIs")
 
 7.  Select **Add**.
 
 8.  On the form, fill in the fields.
 
-    ![Action plan form details](../image/action-plan-form.png)
+    ![Action plan form details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/action-plan-form.png)
 
 <table id="table_ssx_vwv_1fc"><thead><tr><th>
 
@@ -158,7 +158,7 @@ Detailed description of the action plan
 
 10. Create milestones or supplier tasks for each KPI to track the action plan.
 
-    For more information on how to create milestones and supplier tasks, see [Create milestones for the action plan](create-milestones-for-the-action-plan.md) and [Create supplier tasks for the action plan](create-supplier-tasks-for-the-action-plan.md).
+    For more information on how to create milestones and supplier tasks, see [Create milestones for the action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-milestones-for-the-action-plan.md) and [Create supplier tasks for the action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-supplier-tasks-for-the-action-plan.md).
 
 11. Select **Submit** to activate the action plan.
 
@@ -166,7 +166,7 @@ Detailed description of the action plan
 
     Internal users can add comments through the **Work notes** and the progress of the action plan can be tracked in the **Activity** stream section.
 
-    ![Action plan with the Activity stream and work notes](../image/slo-action-plan-activity.png)
+    ![Action plan with the Activity stream and work notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-action-plan-activity.png)
 
 
 ## Result
@@ -187,7 +187,7 @@ Emails are sent to the assignees when action plans are created. Emails are also 
 
 The action plan can be tracked continuously, with updates based on the subsequent KPI runs. Managers can monitor the progress of milestones and tasks using the Gantt chart.
 
-![Action plans items showing Gantt chart](../image/slo-action-plan-gantt.png)
+![Action plans items showing Gantt chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-action-plan-gantt.png)
 
 The following color code is followed to represent different tasks in the Gantt chart:
 
@@ -195,10 +195,10 @@ The following color code is followed to represent different tasks in the Gantt c
 -   Blue: Active tasks past due date and completed
 -   Orange: Active tasks past due date but not completed
 
--   **[Create milestones for the action plan](create-milestones-for-the-action-plan.md)**  
+-   **[Create milestones for the action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-milestones-for-the-action-plan.md)**  
 Create milestones for the affected KPIs in the action plan.
--   **[Create supplier tasks for the action plan](create-supplier-tasks-for-the-action-plan.md)**  
+-   **[Create supplier tasks for the action plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-supplier-tasks-for-the-action-plan.md)**  
 Create supplier tasks for the affected KPIs in the action plan.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 

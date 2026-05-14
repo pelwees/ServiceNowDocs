@@ -19,7 +19,7 @@ Role required: sn\_oper\_res.admin, sn\_oper\_res.manager
 
 ## About this task
 
-For automatic generation of the entities, see [Generate entities automatically using a scheduled job](gen-ent-auto.md).
+For automatic generation of the entities, see [Generate entities automatically using a scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-ent-auto.md).
 
 ## Procedure
 
@@ -29,13 +29,13 @@ For automatic generation of the entities, see [Generate entities automatically u
 
     The example shows how to add a business service from the Operational Resilience Workspace.
 
-    ![Add a business service.](../image/add-ent-manually-opres-ws-1.png)
+    ![Add a business service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-ent-manually-opres-ws-1.png)
 
 3.  On the form, fill in the fields.
 
-    The form for creating a business service is shown in the example. For information on the fields in the record form, see [Create New Business Service form](../reference/create-new-business-service-form.md) and [Create New Business Process form](../reference/create-new-business-process-form.md).
+    The form for creating a business service is shown in the example. For information on the fields in the record form, see [Create New Business Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-business-service-form.md) and [Create New Business Process form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-business-process-form.md).
 
-    ![Create a new business service.](../image/add-ent-manually-opres-ws-2.png)
+    ![Create a new business service.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-ent-manually-opres-ws-2.png)
 
 4.  Select **Save**.
 
@@ -43,7 +43,7 @@ For automatic generation of the entities, see [Generate entities automatically u
 
     The examples show the **Add to OpRes reporting** button from the Operational Resilience Workspace.
 
-    ![Add to OpRes reporting button.](../image/add-ent-manually-opres-ws-3.png)
+    ![Add to OpRes reporting button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/add-ent-manually-opres-ws-3.png)
 
     A message is displayed that the service is added to Operational Resilience reporting. The record now appears as an entity in Operational Resilience.
 

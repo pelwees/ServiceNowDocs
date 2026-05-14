@@ -13,10 +13,10 @@ breadcrumb: [Exploring Portfolio list view, Exploring Enterprise Architecture Wo
 
 The My entities section within the Portfolio page of the Enterprise Architecture Workspace helps you to manage all your own entities.
 
-**Parent Topic:**[Exploring Portfolio list view](../portfolio-list-view.md)
+**Parent Topic:**[Exploring Portfolio list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../portfolio-list-view.md)
 
 **Related topics**  
 
 
-[Working with your entities](eaw-work-with-your-entities.md)
+[Working with your entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-work-with-your-entities.md)
 

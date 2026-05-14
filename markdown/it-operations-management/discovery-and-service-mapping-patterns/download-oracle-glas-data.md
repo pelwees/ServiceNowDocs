@@ -29,14 +29,14 @@ ServiceNow maintains regular verification with Oracle GLAS to provide you with i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Oracle GLAS Data Collection** &gt; **Download GLAS Data Collection**.![Oracle GLAS download page](../image/oracle-glas-download.png)
+1.  Navigate to **All** &gt; **Oracle GLAS Data Collection** &gt; **Download GLAS Data Collection**.![Oracle GLAS download page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracle-glas-download.png)
 
 2.  Download the following reports for Oracle GLAS data:
 
     -   For downloading Oracle Database, Middleware, and Java reports, navigate to **Step 1: Download GLAS Data Collection** and select your data collection options.
     -   For downloading vCenter hardware information based on your environment setup, navigate to **Step 2: Download vCenter Hardware Information**.
     -   For downloading VM information, navigate to **Step 3: Download VM Information**.
-3.  Select the download icon \(![Download icon](../image/download-icon.png)\).
+3.  Select the download icon \(![Download icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/download-icon.png)\).
 
 4.  In the Enter email address dialog box, enter the email address where you want to receive a notification when the report is ready.
 
@@ -44,7 +44,7 @@ ServiceNow maintains regular verification with Oracle GLAS to provide you with i
 
     After the report creation status message appears, you can check the status of the download job by selecting the link provided in the message.
 
-    ![Message for report creation status](../image/report-creation-msg.png)
+    ![Message for report creation status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/report-creation-msg.png)
 
     The Oracle GLAS Report Job Log \[sn\_itom\_oracleglas\_job\_log\] table opens in a new window. After your report is successfully created, the status of the report changes to Complete in the Oracle GLAS Report Job Logs table.
 
@@ -209,5 +209,5 @@ The amount of time, in milliseconds, that a MID Server waits for activity when p
  Type: integer
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](../reference/oracle-glas-discovery.md)
+</table>**Parent Topic:**[Oracle Global License Advisory Services \(GLAS\) data collection using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/oracle-glas-discovery.md)
 

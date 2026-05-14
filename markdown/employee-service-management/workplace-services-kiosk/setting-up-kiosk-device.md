@@ -15,13 +15,13 @@ breadcrumb: [Manage, Workplace Services Kiosk, Workplace Service Delivery, Emplo
 
 Set up a kiosk device by assigning a kiosk to a physical device.
 
-To enable usage of a kiosk device, you must select a kiosk for the device. The kiosk module displays the pages configured by an admin and visitors can use the device to check in and self-register. For more information about configuring kiosk devices, see [Create a kiosk configuration](../task/create-kiosk-device-config.md).
+To enable usage of a kiosk device, you must select a kiosk for the device. The kiosk module displays the pages configured by an admin and visitors can use the device to check in and self-register. For more information about configuring kiosk devices, see [Create a kiosk configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../task/create-kiosk-device-config.md).
 
 You can access the kiosk page by using the following URL: `https://<instance name>.service-now.com/kiosk`
 
-![Kiosk setup welcome page. Kiosk operators can configure and select a kiosk to bind it to a physical device.](../images/wsd-kiosk-home.png)
+![Kiosk setup welcome page. Kiosk operators can configure and select a kiosk to bind it to a physical device.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../images/wsd-kiosk-home.png)
 
-**Parent Topic:**[Managing Workplace Services Kiosk](manage-workplace-services-kiosk.md)
+**Parent Topic:**[Managing Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/manage-workplace-services-kiosk.md)
 
 ## Select a kiosk for a device
 
@@ -37,11 +37,11 @@ Role required: sn\_wsd\_kiosk.operator
 
 2.  On the Kiosk setup page, select **Select Kiosk**.
 
-    ![Kiosk setup page displayed to a kiosk operator.](../images/wsd-kiosk-setup.png)
+    ![Kiosk setup page displayed to a kiosk operator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../images/wsd-kiosk-setup.png)
 
 3.  Select a kiosk from the list, then select **Continue**.
 
-    ![Kiosk page with a list of kiosk names that can be selected.](../images/wsd-select-kiosk.png)
+    ![Kiosk page with a list of kiosk names that can be selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../images/wsd-select-kiosk.png)
 
 4.  Provide camera permissions for the kiosk.
 
@@ -96,7 +96,7 @@ Remove the assigned kiosk from the device.
 
 Assign a different kiosk to the device by following these steps:1.  Select **Change Kiosk**.
 
-![Kiosk homepage displayed to a kiosk operator with options to remove or change the assigned kiosk.](../images/wsd-change-kiosk.png)
+![Kiosk homepage displayed to a kiosk operator with options to remove or change the assigned kiosk.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../images/wsd-change-kiosk.png)
 
 2.  Select a kiosk from the list, then select **Continue**.
 3.  On the Allow camera access page, select **Continue**.
@@ -114,7 +114,7 @@ Security features of Google Chrome on iOS don't allow permanent camera access to
 
 Grant camera access to the kiosk by following these steps:1.  Select **Update Kiosk**.
 
-![Kiosk homepage displayed to a kiosk operator with an alert specifying that camera permissions are needed.](../images/wsd-update-kiosk.png)
+![Kiosk homepage displayed to a kiosk operator with an alert specifying that camera permissions are needed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../images/wsd-update-kiosk.png)
 
 2.  On the Allow camera access page, select **Continue**.
 3.  On your browser prompt, select the option to always allow camera access.

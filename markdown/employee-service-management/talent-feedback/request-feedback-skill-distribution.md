@@ -27,8 +27,8 @@ Role required: manager
 
 3.  Here you can request feedback in two ways, either by selecting the employee or the skill pill.
 
-    -   From Employee view, click ![View menu icon](../../human-resources/image/viewmenu.png)on the employee and select **View skill feedback** and then select **Request skill feedback**.
-    -   From Skill view, click ![View menu icon](../../human-resources/image/viewmenu.png)the skill pill and select **Request skill feedback**.
+    -   From Employee view, click ![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../human-resources/image/viewmenu.png)on the employee and select **View skill feedback** and then select **Request skill feedback**.
+    -   From Skill view, click ![View menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../../human-resources/image/viewmenu.png)the skill pill and select **Request skill feedback**.
 
         **Note:** You can use the toggle option to switch between **Employee view** and **Skill view**.
 

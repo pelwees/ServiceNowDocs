@@ -34,12 +34,12 @@ The Now Assist for ZCC application includes generative AI skills and features th
 
     This skill gives you the ability to query SAP standard database tables for data and transactional records based upon natural language queries.
 
-    ![Now Assist panel with entered question highlighted.](../images/erp-data-discovery-skill1.png)
+    ![Now Assist panel with entered question highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-discovery-skill1.png)
 
 -   **ERP data query**
 
     This skill helps you identify SAP objects that can then be used to query the required data. For example, use ERP data query to fetch routing operations for a specific material in work center.
 
-    ![Now Assist panel with entered question highlighted.](../images/erp-data-query-skill1.png)
+    ![Now Assist panel with entered question highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-data-query-skill1.png)
 
 

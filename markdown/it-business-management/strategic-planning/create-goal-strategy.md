@@ -62,7 +62,7 @@ On the Goals page, select **New**.
 </td></tr></tbody>
 </table>4.  On the form, fill in the **Name** and other required fields.
 
-    For a description of the field values, see [Goal form](../../spw-goals/reference/goal-form-egm.md).
+    For a description of the field values, see [Goal form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../../spw-goals/reference/goal-form-egm.md).
 
 5.  Select **Save**.
 
@@ -70,13 +70,13 @@ On the Goals page, select **New**.
 **Related topics**  
 
 
-[Add a target for goal](set-target-for-goal-strategy.md)
+[Add a target for goal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/set-target-for-goal-strategy.md)
 
-[Duplicate a goal or target](duplicate-goal-target-strategy.md)
+[Duplicate a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/duplicate-goal-target-strategy.md)
 
-[Align work with a goal or target](associate-work-with-goals-strategy.md)
+[Align work with a goal or target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/associate-work-with-goals-strategy.md)
 
-[Create a strategic plan](create-strategic-plan-strategy.md)
+[Create a strategic plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-plan-strategy.md)
 
-[Create a strategic priority](create-strategic-priority-strategy.md)
+[Create a strategic priority](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-priority-strategy.md)
 

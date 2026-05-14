@@ -25,11 +25,11 @@ Role required: Compliance User
 
 2.  Open the Policy record in the **Published** state you want to acknowledge.
 
-    ![Published policy](../image/policy-published.png)
+    ![Published policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/policy-published.png)
 
 3.  Scroll down and click the **Acknowledgement Setup** related list.
 
-    ![Acknowledgement Setup related list](../image/acknowledgement_setup.png)
+    ![Acknowledgement Setup related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/acknowledgement_setup.png)
 
 4.  On the form, fill in the fields.
 
@@ -47,7 +47,7 @@ Audience
 
 </td><td>
 
-Select the employees who are responsible for acknowledging the policy. You define the audience using the [Audience module](create-audience.md).
+Select the employees who are responsible for acknowledging the policy. You define the audience using the [Audience module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-audience.md).
 
 </td></tr><tr><td>
 
@@ -71,18 +71,18 @@ Allow users to request exception
 
 </td><td>
 
-Select if you want to members of the audience to be able to [request a policy exception](request-policy-exception.md).
+Select if you want to members of the audience to be able to [request a policy exception](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/request-policy-exception.md).
 
 </td></tr></tbody>
 </table>5.  Save the record.
 
 6.  Scroll down and click the **Acknowledgement Campaigns** related list.
 
-    ![Acknowledgement Campaigns tab](../image/ack-campaigns.png)
+    ![Acknowledgement Campaigns tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/ack-campaigns.png)
 
 7.  Click **New**.
 
-    ![New campaign](../image/new-campaign.png)
+    ![New campaign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/new-campaign.png)
 
     **Note:** Notice that the majority of the fields are pre-filled with data from the policy record.
 
@@ -152,8 +152,8 @@ This tab shows details and requirements from the policy, as well as the **Refere
     The acknowledgement request is now ready for you to send to the defined audience.
 
 
--   **[Create an audience](create-audience.md)**  
+-   **[Create an audience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-audience.md)**  
 When you set up a policy acknowledgement request, you must identify an audience responsible for providing the acknowledgement.
 
-**Parent Topic:**[Acknowledge a policy](../concept/ack-policy.md)
+**Parent Topic:**[Acknowledge a policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/ack-policy.md)
 

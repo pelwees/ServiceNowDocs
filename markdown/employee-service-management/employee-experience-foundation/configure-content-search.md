@@ -20,9 +20,9 @@ Configure a content processor to add a button to the Content Library interface t
 -   Role required: sn\_cd.content\_admin and fd\_read\_flows
 -   [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-subflow.md) with the following inputs and outputs:
 
-    ![necessary inputs and outputs for the search subflow](../images/subflow-search.png)
+    ![necessary inputs and outputs for the search subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/subflow-search.png)
 
--   [Configure content provider and mapping](configure-content-provider.md)
+-   [Configure content provider and mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-provider.md)
 
 ## Procedure
 
@@ -48,6 +48,6 @@ Configure a content processor to add a button to the Content Library interface t
 
 ## What to do next
 
--   Enable employees to view private videos without providing credentials: [Configure a video authorization](configure-content-processor.md)
--   Add interface elements to the Content Library video picker: [Configure content rendering parameter](configure-content-rendering-parameter.md)
+-   Enable employees to view private videos without providing credentials: [Configure a video authorization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-processor.md)
+-   Add interface elements to the Content Library video picker: [Configure content rendering parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-rendering-parameter.md)
 

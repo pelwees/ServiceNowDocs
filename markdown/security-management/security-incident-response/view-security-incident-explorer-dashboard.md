@@ -29,9 +29,9 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
 3.  Select **Security Incident Explorer** from the drop down list.
 
-    ![Security Analysts Overview dashboard](../../security-incident-response/image/security-incident-explorer-dashboard.png)
+    ![Security Analysts Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/image/security-incident-explorer-dashboard.png)
 
-    View the Security Incident Explorer dashboard for further action. For detailed information on Security Incident Explorer dashboard, see [Security Incident Explorer dashboard](../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
+    View the Security Incident Explorer dashboard for further action. For detailed information on Security Incident Explorer dashboard, see [Security Incident Explorer dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/si-explorer-dashboard.md)
 
     In the current release, the following list of reports is not supported in the Security Incident Explorer dashboard: 
 

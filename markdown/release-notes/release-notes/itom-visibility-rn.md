@@ -113,5 +113,5 @@ ITOM Visibility is available with activation of the Discovery \(com.snc.discover
     The Learning Enhanced Automation Playbook \(LEAP\) application uses AI to analyze incident data and facilitate the creation of automations that resolve high-impact issues for Service Operations teams. By leveraging data-driven analytics to accurately identify critical incidents, LEAP enables a more proactive problem management approach.
 
 
-**Parent Topic:**[IT Operations Management release notes](it-operations-management-rn-landing.md)
+**Parent Topic:**[IT Operations Management release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/it-operations-management-rn-landing.md)
 

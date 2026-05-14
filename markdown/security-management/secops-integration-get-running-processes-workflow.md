@@ -15,9 +15,9 @@ The Security Operations - Get Running Processes flow is a high-level flow indepe
 
 Role required: sn\_si.analyst
 
-![Security Operations - Get Running Processes Flow](../image/get-running-processes-flow.png "Get Running Processes")
+![Security Operations - Get Running Processes Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/get-running-processes-flow.png "Get Running Processes")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration- Get Running Processes capability](../../security-operations-common/concept/get-running-processes-capability.md)
+**Parent Topic:**[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/get-running-processes-capability.md)
 

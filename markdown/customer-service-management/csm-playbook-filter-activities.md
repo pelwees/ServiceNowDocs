@@ -30,7 +30,7 @@ If the current activity is included in the filtered results, it remains highligh
 
 1.  Open a case record that has an associated Playbook and select the **Playbook** tab.
 
-2.  Select the filter icon \(![Playbook header filter icon](../image/playbook-filter.png)\) at the top of the playbook lifecycle to open the context menu.
+2.  Select the filter icon \(![Playbook header filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/playbook-filter.png)\) at the top of the playbook lifecycle to open the context menu.
 
 3.  Select one or more of the following filter choices:
 
@@ -44,15 +44,15 @@ If the current activity is included in the filtered results, it remains highligh
 **Related topics**  
 
 
-[Using the activity stream in the contextual side panel](../concept/csm-playbooks-using-activity-stream.md)
+[Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-playbooks-using-activity-stream.md)
 
-[Viewing dynamic related records in the contextual side panel](../concept/csm-playbooks-viewing-rel-records.md)
+[Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-playbooks-viewing-rel-records.md)
 
-[Viewing ribbon information in the contextual side panel](../concept/csm-playbooks-viewing-ribbon-info.md)
+[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-playbooks-viewing-ribbon-info.md)
 
-[Add an optional activity](../concept/using-customized-playbook-experience-for-customer-service-management.md)
+[Add an optional activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/using-customized-playbook-experience-for-customer-service-management.md)
 
-[Summarize a case](../concept/case-summarization-in-process-page.md)
+[Summarize a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/case-summarization-in-process-page.md)
 
-[Create a record using a playbook](csm-playbook-create-record.md)
+[Create a record using a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md)
 

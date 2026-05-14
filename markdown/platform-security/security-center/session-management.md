@@ -17,15 +17,15 @@ View metrics related to user sessions and the frequency of lockouts of the sessi
 
 The page displays a card displays a trend line for active sessions, representing the number of active sessions on your instance.
 
-![Session management](../images/session-man-1.png)
+![Session management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/session-man-1.png)
 
 Select the card to view additional details.
 
-![Session management details](../images/session-man-2.png)
+![Session management details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/session-man-2.png)
 
 From the details page, you can use the buttons on the edge of the screen to configure filters, KPI signals, targets, and thresholds.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
-**Parent Topic:**[Security metrics](sc-metrics.md)
+**Parent Topic:**[Security metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 

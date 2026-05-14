@@ -49,7 +49,7 @@ Mark an article as helpful or unhelpful
 
 </td><td>
 
-Tap the helpful icon \(![Helpful icon](../image/KnowledgeHelpful.png)\) or the not helpful icon \(![Not helpful icon](../image/KnowledgeNotHelpful.png)\).
+Tap the helpful icon \(![Helpful icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeHelpful.png)\) or the not helpful icon \(![Not helpful icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeNotHelpful.png)\).
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Like a comment on the article
 
 </td><td>
 
-Underneath a comment, tap the like icon \(![Like icon](../image/like-comment-now-mobile.png)\).
+Underneath a comment, tap the like icon \(![Like icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/like-comment-now-mobile.png)\).
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Reply to a comment on the article
 
 </td><td>
 
-Underneath a comment, tap the reply icon \(![Reply icon](../image/reply-comment-now-mobile.png)\), enter your comment in the text box that appears, and then tap **Submit**.
+Underneath a comment, tap the reply icon \(![Reply icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/reply-comment-now-mobile.png)\), enter your comment in the text box that appears, and then tap **Submit**.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Delete any previous comments or replies you posted earlier
 
 </td><td>
 
-Go to a comment or reply, and then tap the delete icon \(![Delete icon](../image/delete-comment-now-mobile.png)\). If a message appears, tap **OK**. Only users who have posted the comment, knowledge administrators, and knowledge owners can delete a comment.
+Go to a comment or reply, and then tap the delete icon \(![Delete icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/delete-comment-now-mobile.png)\). If a message appears, tap **OK**. Only users who have posted the comment, knowledge administrators, and knowledge owners can delete a comment.
 
 </td></tr><tr><td>
 
@@ -101,12 +101,12 @@ View files, if available, attached to a comment. To view a file, tap the file na
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Mobile for Knowledge Management](../concept/mobile-experience-for-km.md)
+**Parent Topic:**[Using Now Mobile for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/mobile-experience-for-km.md)
 
 **Related topics**  
 
 
-[View an article in the Now Mobile Information applet](view-article-now-mobile.md)
+[View an article in the Now Mobile Information applet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-article-now-mobile.md)
 
-[Control access at the knowledge article level through user criteria](t_SelectUCArticle.md)
+[Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 

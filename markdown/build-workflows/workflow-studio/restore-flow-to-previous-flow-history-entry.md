@@ -41,18 +41,18 @@ You can restore a flow when you want to set the current configuration to that of
 
 7.  From the Flow History view, select **Restore**.
 
-    ![Flow history entry for 5th June. 3:37 AM with option to Restore](../images/flow-history-restore-01.png)
+    ![Flow history entry for 5th June. 3:37 AM with option to Restore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-restore-01.png)
 
 8.  From the Restore confirmation dialog box, select **Restore**.
 
-    ![Restore past version dialog box. Proceeding will duplicate version "5th June, 3:37am" and make it the current version.](../images/flow-history-restore-02.png)
+    ![Restore past version dialog box. Proceeding will duplicate version "5th June, 3:37am" and make it the current version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-restore-02.png)
 
 
 ## Result
 
-![The Flow history list has a new entry of type Restored.](../images/flow-history-restore-03.png)
+![The Flow history list has a new entry of type Restored.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/flow-history-restore-03.png)
 
 Workflow Studio displays the restored flow configuration.
 
-**Parent Topic:**[Flow history](../concept/flow-history.md)
+**Parent Topic:**[Flow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-history.md)
 

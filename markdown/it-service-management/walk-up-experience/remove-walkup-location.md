@@ -34,5 +34,5 @@ Role required: sn\_walkup.walkup\_admin or admin
     The Walk-up Experience location queue is removed from the application.
 
 
-**Parent Topic:**[Configuring Walk-up Experience](../concept/walkup-experience-configuration.md)
+**Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walkup-experience-configuration.md)
 

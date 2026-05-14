@@ -15,7 +15,7 @@ Disconnect anytime from an RPA Hub instance while using the Attended Robot.
 
 ## Before you begin
 
-Connect to an RPA Hub instance. For more information, see [Connect to an RPA Hub instance from Attended Robot](connect-rda-instance-rpa.md).
+Connect to an RPA Hub instance. For more information, see [Connect to an RPA Hub instance from Attended Robot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/connect-rda-instance-rpa.md).
 
 Role required: none
 

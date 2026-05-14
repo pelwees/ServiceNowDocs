@@ -39,5 +39,5 @@ Before you start, make sure you have the following:
     -   sn\_int\_control\_sim.voice\_test\_tool\_user
 4.  Supported workspaces: This tool works only in the CSM Configurable Workspace.
 
-You are now ready to launch the Voice Controls Simulator tool. See [Launching the simulator](../task/launch-voice-controls-simulator.md).
+You are now ready to launch the Voice Controls Simulator tool. See [Launching the simulator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/launch-voice-controls-simulator.md).
 

@@ -17,7 +17,7 @@ Import work items and iterations of an Azure DevOps project into Agile Developme
 
 ## Before you begin
 
--   Set up team integration settings for your Azure DevOps projects. For more information, see [Associate Azure DevOps projects with assignment groups in Agile Development 2.0](set-up-import-export-azure-agile.md#).
+-   Set up team integration settings for your Azure DevOps projects. For more information, see [Associate Azure DevOps projects with assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/set-up-import-export-azure-agile.md#).
 -   Role required: sn\_ado\_int.user
 
 ## Procedure
@@ -64,9 +64,9 @@ Import work items and iterations of an Azure DevOps project into Agile Developme
 
 ## What to do next
 
-[Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](schedule-jobs-import-projects-azure.md)
+[Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/schedule-jobs-import-projects-azure.md)
 
 .
 
-**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](../concept/setting-up-agile-azure-integration.md)
+**Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../concept/setting-up-agile-azure-integration.md)
 

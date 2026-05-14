@@ -19,7 +19,7 @@ You can also create custom enterprise model types, product models, and model lib
 
 You can access the Normalization view by navigating to **Enterprise Asset Workspace** &gt; **Normalization**.
 
-![Enterprise model normalization](../image/eam-normoverview.png "Enterprise model normalization")
+![Enterprise model normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eam-normoverview.png "Enterprise model normalization")
 
 <table id="table_nvt_3qb_vtb"><thead><tr><th>
 
@@ -57,7 +57,7 @@ Normalization status
 
 </td><td>
 
-Normalization status of all the enterprise models. View the count of enterprise models that were normalized and those models that didn't get normalized. For details on the normalization status, see [Normalization status for enterprise models](../reference/norm-status-eam.md).
+Normalization status of all the enterprise models. View the count of enterprise models that were normalized and those models that didn't get normalized. For details on the normalization status, see [Normalization status for enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../reference/norm-status-eam.md).
 
 </td></tr><tr><td>
 

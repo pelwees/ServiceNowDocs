@@ -55,5 +55,5 @@ There are two types of mentor permissions:
     -   **Comments**: Sends messages to the plan manager.
     -   **Attachments**: Adds files, such as certificates of completion, for training or other documents.
 
-**Parent Topic:**[Working with Journey Accelerator plans](../concept/working-with-journey-accelerator-plans.md)
+**Parent Topic:**[Working with Journey Accelerator plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/../concept/working-with-journey-accelerator-plans.md)
 

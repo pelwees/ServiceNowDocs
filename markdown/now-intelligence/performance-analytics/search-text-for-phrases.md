@@ -42,5 +42,5 @@ Role required: pa\_analyst, pa\_power\_user, or admin
 
 When you include a text widget for this indicator in a dashboard, the specified phrases appear in the trend line.
 
-![The phrases that were specified are visible as trend lines in the widget.](../image/text-analysis-phrases.png "Text widget with phrases "don't see" and "can't access"")
+![The phrases that were specified are visible as trend lines in the widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/text-analysis-phrases.png "Text widget with phrases "don't see" and "can't access"")
 

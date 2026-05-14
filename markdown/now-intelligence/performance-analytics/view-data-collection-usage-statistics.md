@@ -38,5 +38,5 @@ The following widgets are displayed:
 
 By default, weekly statistics are shown in an Analytics Hub, broken down by data collector. You can select different visualizations and breakdowns in the widget.
 
-**Parent Topic:**[Data collection process and logging](../concept/data-collection-process-logging.md)
+**Parent Topic:**[Data collection process and logging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/data-collection-process-logging.md)
 

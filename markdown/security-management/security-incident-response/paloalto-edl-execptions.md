@@ -19,23 +19,23 @@ There are restrictions for adding External Dynamic List \(EDL\) entries to EDLs.
 
 Each EDL only accepts entries that are compatible with its observable type. If you create a Domain EDL and you try to attach an IP address observable to it, an incompatible error message is displayed. For example, a domain EDL can only accept domain observables, as illustrated in the following figure.
 
-![EDL entry Compatibility error message.](../image/4-30-ip-incompatible-error.png "Compatibility error")
+![EDL entry Compatibility error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-ip-incompatible-error.png "Compatibility error")
 
 ## Duplication exception
 
 An observable cannot be activated on multiple EDLs of the same observable type. If a URL observable is already activated on a URL EDL, and you try to activate the same observable on a Phishing URL EDL, a duplication error message is displayed.
 
-![EDL entry duplicate error message.](../image/4-30-url-alreadyexists.png "Duplication error")
+![EDL entry duplicate error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-url-alreadyexists.png "Duplication error")
 
 ## CIDR \(Classless Inter-Domain Routing\) exception
 
 If you attempt to attach a single IP address to an EDL, and this IP address is part of a CIDR observable already on an EDL, a CIDR conflict error is displayed. This error indicates that the single IP address is already included on the EDL as part of the CIDR observable. For example, `192.168.24.25` is part of the CIDR block `192.168.0.0/22`.
 
-![EDL entry CIDR conflict message.](../image/4-30-cidr-ip.png)
+![EDL entry CIDR conflict message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/4-30-cidr-ip.png)
 
-**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](../concept/paloalto_integration.md)
+**Parent Topic:**[Palo Alto Networks Next-Generation Firewall integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/paloalto_integration.md)
 
-**Previous topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](../task/paloalto-apprv-edl-entries-sncr.md)
+**Previous topic:**[Approve EDL entries for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/paloalto-apprv-edl-entries-sncr.md)
 
-**Next topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](../task/paloalto_edit_sectag_name.md)
+**Next topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/paloalto_edit_sectag_name.md)
 

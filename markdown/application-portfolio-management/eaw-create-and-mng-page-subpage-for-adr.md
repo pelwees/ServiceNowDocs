@@ -27,9 +27,9 @@ Role required: sn\_apm.apm\_user and you should have **Editor** access to the AD
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Architectural Decision Records \(ADR\)**.
 
@@ -41,35 +41,35 @@ Role required: sn\_apm.apm\_user and you should have **Editor** access to the AD
     -   To create from templates:
         1.  Select **Create Page from template**.
 
-            ![Create page and create page from template buttons.](../../image/eaw-image/create-adr-page.png)
+            ![Create page and create page from template buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/create-adr-page.png)
 
-        2.  Choose a template from the Template Center and select **Use**.![Page displaying some of the available ADR templates.](../../image/eaw-image/adr-template.png).
+        2.  Choose a template from the Template Center and select **Use**.![Page displaying some of the available ADR templates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/adr-template.png).
 
             The new page is created and added to your ADR with the name of the selected template, which you can rename.
 
-7.  To create a subpage, select the Page Actions menu icon \(![Page actions menu](../../image/eaw-image/more-actions-menu.png)\) and select **Create subpage**.
+7.  To create a subpage, select the Page Actions menu icon \(![Page actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/more-actions-menu.png)\) and select **Create subpage**.
 
-    ![Page actions menu with the create subpage button highlighted.](../../image/eaw-image/create-adr-subpage.png)
+    ![Page actions menu with the create subpage button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/create-adr-subpage.png)
 
-8.  To delete a page or a subpage, select the Page Actions menu \(![Page actions menu](../../image/eaw-image/more-actions-menu.png)\) and select **Delete**.
+8.  To delete a page or a subpage, select the Page Actions menu \(![Page actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/more-actions-menu.png)\) and select **Delete**.
 
 
-**Parent Topic:**[Manage architectural decision records \(ADR\)](../../concept/eaw-concept/eaw-manage-adr.md)
+**Parent Topic:**[Manage architectural decision records \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-manage-adr.md)
 
 **Related topics**  
 
 
-[Tag users or records in Architectural Decision Records](eaw-tag-users-or-records-in-adr.md)
+[Tag users or records in Architectural Decision Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-tag-users-or-records-in-adr.md)
 
-[Generate a summary for Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/summarize-docs-genai-skill-ea.md)
+[Generate a summary for Architectural Decision Records \(ADRs\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/task/summarize-docs-genai-skill-ea.md)
 
-[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](../../../now-assist-ea/task/elaborate-shorten-content-ew.md)
+[Elaborate or shorten content in the Architectural Decision Records \(ADRs\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/task/elaborate-shorten-content-ew.md)
 
-[Add or edit an architectural decision record \(ADR\)](eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-edit-adr.md)
 
-[Request approval for an architectural artifact version of type Architectural Decision Record](eaw-request-approval-adr.md)
+[Request approval for an architectural artifact version of type Architectural Decision Record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-request-approval-adr.md)
 
-[Add an architectural decision record version](eaw-add-an-adr-version.md)
+[Add an architectural decision record version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-an-adr-version.md)
 
-[Enable referencing additional records in architectural decision records](eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
+[Enable referencing additional records in architectural decision records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-update-system-property-to-allow-tagging-of-additional-records-in-adr-doc.md)
 

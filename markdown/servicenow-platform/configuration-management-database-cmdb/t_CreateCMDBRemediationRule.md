@@ -98,27 +98,27 @@ The CMDB remediation workflow \(regular or Orchestration\) that will execute aut
 
 If **Execution** is set to Automatic, then the business rule **Run remediations for CMDBHealth task** applies the remediation workflow to CIs that match the Task filter. If **Execution** is set to Manual, then you can manually apply the remediation workflow defined in the rule.
 
--   **[Apply CMDB remediation](t_ApplyCMDBRemediation.md)**  
+-   **[Apply CMDB remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ApplyCMDBRemediation.md)**  
 Manually initiate a workflow to remediate a CI that failed a CMDB health test. For example, you can remediate CIs that are orphan or stale.
 
-**Parent Topic:**[CMDB Health](../concept/c_CMDBHealth.md)
+**Parent Topic:**[CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBHealth.md)
 
 **Related topics**  
 
 
-[Exploring CMDB Health](../concept/exploring-cmdb-health-parent.md)
+[Exploring CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/exploring-cmdb-health-parent.md)
 
-[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](../concept/cmdb-health-exp-cmdb-workspace.md)
+[CMDB Health experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-health-exp-cmdb-workspace.md)
 
-[View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+[View CMDB Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_MonitorCMDBHealth.md)
 
-[View relationships health](t_ViewRelationshipsHealth.md)
+[View relationships health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewRelationshipsHealth.md)
 
-[View CI health](t_ViewCIHealth.md)
+[View CI health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewCIHealth.md)
 
-[CMDB Health process tracking and troubleshooting](../concept/c_CMDBHealthTroubleshooting.md)
+[CMDB Health process tracking and troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CMDBHealthTroubleshooting.md)
 
-[CMDB Health reference](../concept/cmdb-health-ref-parent.md)
+[CMDB Health reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/cmdb-health-ref-parent.md)
 
 [Dot-Walking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 

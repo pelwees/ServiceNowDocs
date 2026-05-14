@@ -31,7 +31,7 @@ For more information on support levels, see [Application support for domain sepa
 
 In general, IntegrationHub inherits the domain separation features of Workflow Studio. As each spoke \(application\) can have its own domain separation relationship, there is no one specific support level to associate with IntegrationHub. To learn more, see [Domain separation and Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-designer-domain-separation.md).
 
-**Parent Topic:**[Integration Hub reference](integration-hub-reference.md)
+**Parent Topic:**[Integration Hub reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/integration-hub-reference.md)
 
 **Related topics**  
 

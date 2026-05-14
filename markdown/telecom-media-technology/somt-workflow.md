@@ -13,7 +13,7 @@ breadcrumb: [Explore, Sales Customer Relationship Management for Telecommunicati
 
 The Sales CRM for Telecommunications workflow shows the end-to-end process for managing sales orders, from initial prospect identification through order closure.
 
-![Flowchart showing Sales CRM for Telecommunications workflow stages](../image/mmasset0021736-telecom-workflow-vertical.svg)
+![Flowchart showing Sales CRM for Telecommunications workflow stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/mmasset0021736-telecom-workflow-vertical.svg)
 
 ## Sales CRM for Telecommunications lifecycle stages
 

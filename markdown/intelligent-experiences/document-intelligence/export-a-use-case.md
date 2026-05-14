@@ -15,7 +15,7 @@ breadcrumb: [Manage document extraction use cases, Configure, Document Intellige
 
 Export a document extraction use case for use in another ServiceNow instance by adding it to an update set.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](../concept/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../concept/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ For more information, see [System update sets](https://raw.githubusercontent.com
 
 2.  In the list, select the display name of the use case you want to export.
 
-3.  On the use case screen, select the options icon \(![Options icon](../image/icon-docintel-field-options-menu.png)\) and select **Add to update set**.
+3.  On the use case screen, select the options icon \(![Options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../image/icon-docintel-field-options-menu.png)\) and select **Add to update set**.
 
 4.  Select **Add to update set**.
 
@@ -49,14 +49,14 @@ For more information, see [System update sets](https://raw.githubusercontent.com
 7.  On the update set form, select **Export to XML** under Related Links.
 
 
-**Parent Topic:**[Manage document extraction use cases](../concept/manage-use-cases.md)
+**Parent Topic:**[Manage document extraction use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/../concept/manage-use-cases.md)
 
 **Related topics**  
 
 
-[Duplicate a document extraction use case](duplicate-a-use-case.md)
+[Duplicate a document extraction use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/duplicate-a-use-case.md)
 
-[Import a document extraction use case](import-a-use-case.md)
+[Import a document extraction use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/import-a-use-case.md)
 
-[Delete a document extraction use case](delete-a-use-case.md)
+[Delete a document extraction use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/delete-a-use-case.md)
 

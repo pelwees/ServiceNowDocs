@@ -110,7 +110,7 @@ export function showStateUpdate(current, previous) {
 
 After building the application, this source code generates the following application metadata files on the instance.
 
-![Application files generated from the example code.](../image/servicenow-ide-app-files.png "Application metadata generated from ServiceNow Fluent code")
+![Application files generated from the example code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/../image/servicenow-ide-app-files.png "Application metadata generated from ServiceNow Fluent code")
 
 **Tip:** You can use the following directives in a code comment to help manage your code:
 

@@ -13,7 +13,7 @@ breadcrumb: [Explore, Care Team Operations for Biomed, Healthcare Operations, He
 
 Use the Healthcare Biomed case to create case types for biomed related healthcare operational requests.
 
-![A healthcare biomed case created for Care Team Operations for Biomed.](../image/hco_biomed_case.png)
+![A healthcare biomed case created for Care Team Operations for Biomed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/hco_biomed_case.png)
 
 If the Field Service Management \[com.snc.work\_management\] plugin is installed, Healthcare Biomed cases automatically generate related work orders which are assigned to supporting agents with the fulfiller role. If this plugin isn’t installed, support agents must fulfill the case itself.
 
@@ -23,19 +23,19 @@ Any updates, comments, or status changes made to the work order reflect in the c
 
 ## Work order auto-creation
 
-![Work order auto creation from the Healthcare biomed case.](../image/cto-biomed-work-order-auuto.png)
+![Work order auto creation from the Healthcare biomed case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-biomed-work-order-auuto.png)
 
 Work orders are created automatically in synchronization with Healthcare Biomed cases. All information from the Healthcare biomed case is carried over into the work order.
 
 ## Comment synchronization
 
-![Comment sync between Work orders and Healthcare biomed cases.](../image/cto-biomed-comment-sync.png)
+![Comment sync between Work orders and Healthcare biomed cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-biomed-comment-sync.png)
 
 Comments on the Healthcare Biomed case are viewable on the work order, and comments in the Compose panel of the work order are viewable on the Healthcare Biomed case.
 
 ## State synchronization
 
-![State sync between work orders and healthcare biomed cases.](../image/cto-it-state-sync.png)
+![State sync between work orders and healthcare biomed cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-it-state-sync.png)
 
 The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details in the portal.
 

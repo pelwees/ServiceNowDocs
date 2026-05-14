@@ -83,10 +83,10 @@ View the obligation record by navigating to one of the following paths:
 -   Navigate to the **Obligations tasks** tab within the obligation record.
 -   Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Obligation tasks**.
 
-**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](../concept/manage-obligation-tasks-software-asset-workspace.md)
+**Parent Topic:**[Manage obligation tasks in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/manage-obligation-tasks-software-asset-workspace.md)
 
 **Related topics**  
 
 
-[Create an obligation record in the Software Asset Workspace](create-obligation-record-sam.md)
+[Create an obligation record in the Software Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-obligation-record-sam.md)
 

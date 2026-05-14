@@ -17,7 +17,7 @@ You can use script includes or UI policies to configure state models and the cri
 
 ## Before you begin
 
-**Note:** The change states functionality has been replaced with change models since the Quebec release. For more information, see [Create a Change model](create-a-change-model.md).
+**Note:** The change states functionality has been replaced with change models since the Quebec release. For more information, see [Create a Change model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md).
 
 Role required: script\_include\_admin, ui\_policy\_admin, or admin
 
@@ -60,5 +60,5 @@ Role required: script\_include\_admin, ui\_policy\_admin, or admin
     3.  Complete and save the UI policy.
 
 
-**Parent Topic:**[Legacy: State model and transitions](../concept/c_ChangeStateModel.md)
+**Parent Topic:**[Legacy: State model and transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_ChangeStateModel.md)
 

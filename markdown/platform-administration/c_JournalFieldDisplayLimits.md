@@ -33,11 +33,11 @@ Role required: admin
 
 ### About this task
 
-When a journal field exceeds the length set in this property, the instance shows a preview of the journal field instead of the field's entire contents. The preview includes a **Show All** button to display the rest of the field's contents. A [separate property](c_JournalFieldDisplayLimits.md#) determines the number of characters the preview displays.
+When a journal field exceeds the length set in this property, the instance shows a preview of the journal field instead of the field's entire contents. The preview includes a **Show All** button to display the rest of the field's contents. A [separate property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/c_JournalFieldDisplayLimits.md#) determines the number of characters the preview displays.
 
 ### Procedure
 
-1.  [Add a system property](../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
+1.  [Add a system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../reference-pages/reference/r_AvailableSystemProperties.md#) with the following settings.
 
     |Property|Value|
     |--------|-----|
@@ -104,5 +104,5 @@ Role required: admin
 **Related topics**  
 
 
-[Activity formatter](../../form-administration/concept/c_ActivityFormatter.md#)
+[Activity formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../form-administration/concept/c_ActivityFormatter.md#)
 

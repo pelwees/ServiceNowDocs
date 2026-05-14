@@ -24,9 +24,9 @@ Example use case: There is a significant cost involved to a business each time a
 
 **Note:** It is not possible to set report ranges for dates in the future.
 
-![Vertical bar report with configured report ranges highlighted](../image/IncidentsCreatedDateWRanges06032013.png "Incidents created date with ranges")
+![Vertical bar report with configured report ranges highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/IncidentsCreatedDateWRanges06032013.png "Incidents created date with ranges")
 
-**Parent Topic:**[Administering reports](c_AdminsteringReports.md)
+**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
 ## How report ranges work
 
@@ -44,7 +44,7 @@ Report ranges can be globally applied to all date type fields \(date, due date, 
 
 To view all currently configured report ranges, navigate to **All** &gt; **Platform Analytics Administration** &gt; **Color Settings** &gt; **Report ranges**.
 
-![Report ranges list](../image/ReportRangesK-L.png "Report ranges list")
+![Report ranges list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ReportRangesK-L.png "Report ranges list")
 
 The following are important columns and their associated data types:
 
@@ -113,7 +113,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 3.  Fill in the form \(see table\):
 
-    ![New report ranges form](../image/NewReportRangesFormFuji.png)
+    ![New report ranges form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/NewReportRangesFormFuji.png)
 
     Use the following fields to refine the data displayed in the report and to design the appearance of your report visualization:
 
@@ -231,7 +231,7 @@ Role required: admin
 
 2.  Open the **Reports** application menu.
 
-3.  In the **Modules** related list, enable the Report Ranges module.![Application menu form showing the Modules related list and the Report Ranges module highlighted.](../image/rep-range-mod.png)
+3.  In the **Modules** related list, enable the Report Ranges module.![Application menu form showing the Modules related list and the Report Ranges module highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/rep-range-mod.png)
 
     The Modules related list may have over 100 entries. Filter it on the word range to shorten your search.
 

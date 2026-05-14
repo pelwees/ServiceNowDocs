@@ -19,7 +19,7 @@ Role required: sn\_hco.care\_team\_member
 
 ## About this task
 
-![Environmental services support request being created in Care Team Portal.](../image/cto-evs-create-request.png)
+![Environmental services support request being created in Care Team Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../image/cto-evs-create-request.png)
 
 Care Team Operations for Environmental Services comes with preconfigured service requests for facilities support departments.
 
@@ -27,7 +27,7 @@ Select the catalog item that aligns with your request type.
 
 For example, a nurse who notices a room needs clean linens would navigate to **Create a request &gt; Request environmental service &gt; Clean Linen Delivery request** and fill in the request details.
 
-For detailed information on the Care Team Operations for Environmental Services service catalog, see [Service Catalog installed with Care Team Operations for Environmental Services](../reference/cto-evs-service-catalog.md).
+For detailed information on the Care Team Operations for Environmental Services service catalog, see [Service Catalog installed with Care Team Operations for Environmental Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../reference/cto-evs-service-catalog.md).
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Category
 
 </td><td>
 
-The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Environmental Services](../reference/cto-evs-service-catalog.md).
+The category of this request. For a detailed list of categories, see [Service Catalog installed with Care Team Operations for Environmental Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../reference/cto-evs-service-catalog.md).
 
 </td></tr><tr><td>
 

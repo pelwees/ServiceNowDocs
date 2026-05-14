@@ -97,5 +97,5 @@ A decision tree record and a start node are created.
 
 ## What to do next
 
-Configure a start node to [add initial set of questions or instructions to a decision tree](configure-start-node-gdb.md) in Decision Tree Builder.
+Configure a start node to [add initial set of questions or instructions to a decision tree](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-start-node-gdb.md) in Decision Tree Builder.
 

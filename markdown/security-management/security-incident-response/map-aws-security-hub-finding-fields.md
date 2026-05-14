@@ -64,7 +64,7 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
 </td></tr></tbody>
 </table>2.  To add fields to the default fields that are displayed on the security incident, do the following actions:
 
-    On the SIR Incident Target Fields section, select the ![Map another field button.](../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) button. It shows a list of SIR fields, from which you can select to display a new field.
+    On the SIR Incident Target Fields section, select the ![Map another field button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-map-button.png) button. It shows a list of SIR fields, from which you can select to display a new field.
 
     1.  In the Security Incident column, expand the list that is displayed and then select a field.
 
@@ -80,7 +80,7 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
         -   For any other fields, you must select the check box that corresponds to a field for any new or updated changes made in the finding in AWS Security Hub. This automatically updates the respective SIR incident data with the new incident data.
         **Important:** Due diligence is required to be done before selecting this functionality as overriding the existing data may result in unstable data for the analyst to work with and any other automation that is set even by the field values of security incident may also get affected. So, it is important to do the due diligence before you select any override functionality.
 
-3.  To remove a field, use the ![Remove button](../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png), \(**Remove item**\) button next to the input expression field in the SIR Incident Target Fields section.
+3.  To remove a field, use the ![Remove button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-remove-button.png), \(**Remove item**\) button next to the input expression field in the SIR Incident Target Fields section.
 
 4.  To map a field value from the AWS Security Hub Source Fields section to a field on the SIR Incident Target Fields section, use one of the following actions:
 
@@ -102,9 +102,9 @@ Map these findings to the **SIR Incident Target Fields**. The finding fields and
 
 5.  To format a field translation for a new field from an AWS Security Hub finding to match a field value on a Security Incident, click the **Click here** link in the **SIR Incident Target Fields** header.
 
-6.  To modify the fields which support field translation, click the ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
+6.  To modify the fields which support field translation, click the ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) script format field translation icon.
 
-    The fields that support field translation are **Category**, **Configuration Item**, and **Priority**. For example, click on ![Field format button](../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The AWS Security Hub findings Field Translation script editor opens.
+    The fields that support field translation are **Category**, **Configuration Item**, and **Priority**. For example, click on ![Field format button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../secops-integration-ms-azure-sentinel/image/sentinel-field-format-button.png) icon next to the Category. The AWS Security Hub findings Field Translation script editor opens.
 
 7.  Enter any changes to the script and click **Update** to save the changes and return to the Mapping page.
 

@@ -17,7 +17,7 @@ Create a test to see if your features are working correctly.
 
 ## Before you begin
 
--   [Create a test case](t_CreateANewTestCase.md).
+-   [Create a test case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateANewTestCase.md).
 -   Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
@@ -95,7 +95,7 @@ Description of what is being tested.
 
 ## What to do next
 
-You can create a copy of this test by clicking the **Create Duplicate** related link. For more information, see [Create a copy of an existing test](t_CopyATest.md).
+You can create a copy of this test by clicking the **Create Duplicate** related link. For more information, see [Create a copy of an existing test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CopyATest.md).
 
-**Parent Topic:**[Tests](../concept/c_Tests.md)
+**Parent Topic:**[Tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/c_Tests.md)
 

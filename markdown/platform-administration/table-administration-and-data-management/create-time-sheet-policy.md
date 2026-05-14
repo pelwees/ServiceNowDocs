@@ -86,7 +86,7 @@ Auto create time cards every week
 
 </td><td>
 
-Option to [generate time cards automatically](auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated resource plans of the users.
+Option to [generate time cards automatically](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/auto-generate-time-cards.md) every week through a scheduled job for all users assigned to the time sheet policy. The time cards are generated based on the planned task assignments and hard-allocated resource plans of the users.
 
  By default, this option is selected.
 
@@ -247,8 +247,8 @@ Option to set the time sheet policy as the default. The default policy is a glob
 
 ## What to do next
 
--   [Set the time sheet policy as the default policy](set-default-time-sheet-policy.md), if required.
--   [Assign the time sheet policy to users](assign-time-sheet-policy-to-user.md).
+-   [Set the time sheet policy as the default policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-default-time-sheet-policy.md), if required.
+-   [Assign the time sheet policy to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/assign-time-sheet-policy-to-user.md).
 
-**Parent Topic:**[Time sheet policies](../concept/time-sheet-policies.md)
+**Parent Topic:**[Time sheet policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/time-sheet-policies.md)
 

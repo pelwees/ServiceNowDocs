@@ -66,22 +66,22 @@ Role required:
 
 You may need to delete a suggested relationship, for example, to limit the choice of available relationships in the CI relationship editor. Removing a suggested relationship does not affect relationships that are created or updated by Discovery.
 
-**Parent Topic:**[CI relationships in the CMDB](../concept/c_CIRelationships.md)
+**Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationships.md)
 
 **Related topics**  
 
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../reference/r_SuggestedRelationshipModel.md)
 
-[Relationship governance rules](../concept/relationship-governance.md)
+[Relationship governance rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/relationship-governance.md)
 
-[CI relations formatter](../concept/c_CIRelationsFormatterNG.md)
+[CI relations formatter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationsFormatterNG.md)
 
-[CI relationship editor](../concept/c_RelationshipEditor.md)
+[CI relationship editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_RelationshipEditor.md)
 
-[Relation qualifier](../concept/c_RelationQualifier.md)
+[Relation qualifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_RelationQualifier.md)
 
-[CI relationship security](../concept/c_CIRelationshipSecurity.md)
+[CI relationship security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_CIRelationshipSecurity.md)
 
-[Create a CI relation rollup](t_CreateACIRelationRollup.md)
+[Create a CI relation rollup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateACIRelationRollup.md)
 

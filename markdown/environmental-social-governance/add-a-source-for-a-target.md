@@ -25,10 +25,10 @@ Role required: sn\_esg.program\_manager
 
 3.  From either the Metric Definitions or the Metrics related list, select the metric definition or the metric that you want to set as the source for the target.
 
-    ![Specify a metric definition or metric as a source for the target.](../images/add-source-for-target.png)
+    ![Specify a metric definition or metric as a source for the target.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/../images/add-source-for-target.png)
 
 4.  Select **Add as target source**.
 
 
-**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) target](create-esg-target.md)
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) target](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-target.md)
 

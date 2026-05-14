@@ -25,7 +25,7 @@ Each lens in Strategic Planning consists of a structure that is made up of entit
 
 The planning item types associated with the bottom entity of a lens represent the type of work that can be planned using these portfolio plans.
 
-![Lens structure](../../portfolio-planning/images/lens-structure-pp.png "Sample lens structure")
+![Lens structure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../portfolio-planning/images/lens-structure-pp.png "Sample lens structure")
 
 For example, the Organization lens has a Company, Business Unit, and Department as its entities. As the head of the Support department, you can create a portfolio plan at the department level. Then, you can prioritize the work that is assigned to the department and plan a roadmap for the prioritized work. This work can be in the form of epics, projects, demands, or any other custom type.
 
@@ -35,7 +35,7 @@ Get started with one of the pre-defined lenses, or build a custom lens structure
 
 Strategic Planning provides nine pre-defined lenses to get you started with building your portfolio plans - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability. Planning managers can use these lenses based on their role at the company.
 
-![Predefined lenses - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability.](../images/predefined-lenses-sp.png "Structure of pre-defined lenses")
+![Predefined lenses - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/predefined-lenses-sp.png "Structure of pre-defined lenses")
 
 <table id="table_xfv_x5h_fvb"><thead><tr><th>
 
@@ -221,8 +221,8 @@ Project Program
 Plan, prioritize, and roadmap the work in your programs.
 
 </td></tr></tbody>
-</table>-   If you're an admin, you can modify the structure for these pre-defined lenses or configure a new lens altogether based on your planning manager's requirements. For more information, see [Lens configuration in Strategic Planning](configuring-lens-in-alignment-planner-workspace.md).
--   If you're a planning manager, learn about portfolio plans to start aligning your work with the business strategy. See [Portfolio plans in Strategic Planning](portfolio-plans-in-strategic-planning.md).
+</table>-   If you're an admin, you can modify the structure for these pre-defined lenses or configure a new lens altogether based on your planning manager's requirements. For more information, see [Lens configuration in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-lens-in-alignment-planner-workspace.md).
+-   If you're a planning manager, learn about portfolio plans to start aligning your work with the business strategy. See [Portfolio plans in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/portfolio-plans-in-strategic-planning.md).
 
-**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](alignment-planner-workspace.md)
+**Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 

@@ -25,7 +25,7 @@ Results are updated whenever a new reconciliation result is available. You can s
 
 You can manage Oracle Server Software, such as Database Server, using the Oracle publisher pack.
 
-![Software Publisher Analytics dashboard for Oracle.](../image/publisher-dashboard-oracle.png)
+![Software Publisher Analytics dashboard for Oracle.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/publisher-dashboard-oracle.png)
 
 <table id="table_y3q_r3y_tz"><thead><tr><th>
 
@@ -49,7 +49,7 @@ Product Results
 
 </td><td>
 
-Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](../concept/sam-license-workbench.md).
+Number of products that have at least one software model out of compliance.Select the report to view the results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/sam-license-workbench.md).
 
 </td></tr><tr><td>
 
@@ -136,5 +136,5 @@ Software Lifecycle Report
 Number of products in each software lifecycle phase, including End of Extended Support, End of Life, and End of Support.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](../concept/oracle-publisher-pack.md)
+</table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/oracle-publisher-pack.md)
 

@@ -64,9 +64,9 @@ If the state is **Validation Failed**, you must resolve all issues identified du
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/se-se-center.md)
 
-[Instance scan checks](../concept/service-bridge-v2-scan-checks.md)
+[Instance scan checks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/service-bridge-v2-scan-checks.md)
 
-[Register a Service Exchange consumer](service-bridge-v2-onboarding.md)
+[Register a Service Exchange consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-onboarding.md)
 

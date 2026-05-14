@@ -21,24 +21,24 @@ You can execute performance profiling on any of your ATF tests or suites. For ea
 
 **Note:** Performance profiling can’t be done on more than 1 test simultaneously. It doesn’t support parallel performance assessment.
 
-![Running a performance test](../image/atf-10-runs.png)
+![Running a performance test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-10-runs.png)
 
 **Note:** When you execute a performance test run, the system pauses and waits for any ongoing jobs to finish before starting the test run. This helps in avoiding any slowdown of your instance.
 
-**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](atf-test-type-testing.md)
+**Parent Topic:**[Automated Test Framework \(ATF\) test types and techniques](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-test-type-testing.md)
 
 **Related topics**  
 
 
-[Reusable tests](atf-reuse-tests.md)
+[Reusable tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-reuse-tests.md)
 
-[Mutually exclusive tests](mutual-exclusion-rule.md)
+[Mutually exclusive tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/mutual-exclusion-rule.md)
 
-[Quick start tests](quick-start-tests.md)
+[Quick start tests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/quick-start-tests.md)
 
-[Parallel testing](parallel-testing.md)
+[Parallel testing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/parallel-testing.md)
 
-[Accelerate ATF tests failure resolution](../task/atf-test-triage.md)
+[Accelerate ATF tests failure resolution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-test-triage.md)
 
 ## Execute performance profiling
 

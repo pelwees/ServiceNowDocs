@@ -67,7 +67,7 @@ Managers
 
 To learn more about configuring and using Proofpoint, see:
 
--   [Configuring the Proofpoint Integration for Security Operations](proofpoint-integration-secops-configuring.md)
--   [Review Proofpoint integration settings](../task/review-proofpoint-integration-setting-sir.md)
--   [View the Proofpoint Analytics Dashboard](../task/view-proofpoint-dashboard.md)
+-   [Configuring the Proofpoint Integration for Security Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/proofpoint-integration-secops-configuring.md)
+-   [Review Proofpoint integration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/review-proofpoint-integration-setting-sir.md)
+-   [View the Proofpoint Analytics Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/view-proofpoint-dashboard.md)
 

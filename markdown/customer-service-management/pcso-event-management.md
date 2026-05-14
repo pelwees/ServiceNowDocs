@@ -21,7 +21,7 @@ When alerted to a service disruption, they can identify the accounts and corresp
 
 Customer service agents and managers can also track the service health status of install base items for an account to provide faster and more accurate support to customers.
 
-![Infographic for Proactive Customer Service Operations with Event Management workflow. For the text description, refer to the video tutorial that follows.](../image/proactive_customer_service_operations.png "Overview of Proactive Customer Service Operations with Event Management")
+![Infographic for Proactive Customer Service Operations with Event Management workflow. For the text description, refer to the video tutorial that follows.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/proactive_customer_service_operations.png "Overview of Proactive Customer Service Operations with Event Management")
 
 Learn about Proactive Customer Service Operations with Event Management from the following video tutorial.
 

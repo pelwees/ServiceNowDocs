@@ -16,16 +16,16 @@ Use AI Agent Advisor in Now Assist Center to automatically discover automation o
 
 Now Assist Center enables you to perform the following activities using AI Agent Advisor:
 
--   [View your automation opportunities](../task/now-assist-center-view-automation-opportunities.md)
+-   [View your automation opportunities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/now-assist-center-view-automation-opportunities.md)
 
     Review the automation opportunities that AI Agent Advisor has identified for your instance.
 
--   [Implement an automation opportunity from Now Assist Center](../task/activate-automation-opportunity-now-assist-center.md)
+-   [Implement an automation opportunity from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-automation-opportunity-now-assist-center.md)
 
     Deploy a matched AI agent or a new agent to automate a resolution for an identified automation opportunity.
 
 
-For more information, see [Using AI Agent Advisor in Now Assist Center](now-assist-center-using-ai-agent-advisor.md).
+For more information, see [Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md).
 
-**Parent Topic:**[Using AI Agent Advisor](using-ai-agent-advisor.md)
+**Parent Topic:**[Using AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/using-ai-agent-advisor.md)
 

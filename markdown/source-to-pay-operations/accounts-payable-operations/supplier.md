@@ -17,16 +17,16 @@ You can add a supplier to the primary data and add products related to that supp
 
 ## sn\_fin\_supplier table
 
-You can add suppliers and their products to populate your primary data. For more information on supplier. see [Manage supplier details](../../supplier-lifecycle-operations/concept/supp-ws-details-page.md).
+You can add suppliers and their products to populate your primary data. For more information on supplier. see [Manage supplier details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/concept/supp-ws-details-page.md).
 
 |Field|Data type|Description|
 |-----|---------|-----------|
 |Legal name|String|Legal name of the supplier that corresponds to its operating location.|
 
-**Parent Topic:**[Master data table for Accounts Payable Operations](master-data-table-apo.md)
+**Parent Topic:**[Master data table for Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
 **Related topics**  
 
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
 

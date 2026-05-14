@@ -49,5 +49,5 @@ Certain CI attributes will no longer be updated by untrusted or lower-priority d
 **Related topics**  
 
 
-[Configure attribute value discrepancy in CMDB 360](configure-attribute-value-discrepancy-in-cmdb-360.md)
+[Configure attribute value discrepancy in CMDB 360](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configure-attribute-value-discrepancy-in-cmdb-360.md)
 

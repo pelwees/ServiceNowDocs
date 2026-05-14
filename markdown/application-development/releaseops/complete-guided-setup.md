@@ -18,9 +18,9 @@ Starting with version 1.2.1 of ReleaseOps, guided setup helps to make the initia
 
 ## About this task
 
-For more complex setup scenarios, or when making changes to your existing ReleaseOps ecosystem, use the procedure outlined in [ReleaseOps manual setup](configure-new-releaseops-ecosystem.md).
+For more complex setup scenarios, or when making changes to your existing ReleaseOps ecosystem, use the procedure outlined in [ReleaseOps manual setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/configure-new-releaseops-ecosystem.md).
 
-When completing guided setup, you define several kinds of instances for your ReleaseOps pipeline. To learn more about each instance, see [Instances in ReleaseOps configuration](../concept/instances-in-releaseops-configuration.md).
+When completing guided setup, you define several kinds of instances for your ReleaseOps pipeline. To learn more about each instance, see [Instances in ReleaseOps configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../concept/instances-in-releaseops-configuration.md).
 
 ## Before you begin
 
@@ -36,9 +36,9 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
     2.  For each instance that you want to participate in your ReleaseOps pipeline, select the check box next to the instance name.
 
-        **Important:** You must select your controller instance and at least once instance with an **Instance type** of "Test" when selecting instances for your pipeline. For more information about instances, see [Instances in ReleaseOps configuration](../concept/instances-in-releaseops-configuration.md).
+        **Important:** You must select your controller instance and at least once instance with an **Instance type** of "Test" when selecting instances for your pipeline. For more information about instances, see [Instances in ReleaseOps configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../concept/instances-in-releaseops-configuration.md).
 
-        ![Select each instance that you want to participate in your ReleaseOps pipeline by selecting the check box next to the instance name.](../image/releaseops-select-instances-for-setup.png)
+        ![Select each instance that you want to participate in your ReleaseOps pipeline by selecting the check box next to the instance name.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-select-instances-for-setup.png)
 
     3.  Select **Select these instances**.
 
@@ -60,7 +60,7 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
     3.  Select **Send requests**.
 
-        ![Select the instances that you want to add as managed instances, then select Send requests.](../image/releaseops-add-managed-instances.png)
+        ![Select the instances that you want to add as managed instances, then select Send requests.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-add-managed-instances.png)
 
         Approval requests are sent to each instance that you added as a managed instance.
 
@@ -88,13 +88,13 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
     During guided setup, ReleaseOps automatically creates deployment instances for each instance that you added in step 2.
 
-    ![Select Deployment instance records in the side panel to see the deployments instance records that have been created.](../image/releaseops-deployment-instance-records.png)
+    ![Select Deployment instance records in the side panel to see the deployments instance records that have been created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-deployment-instance-records.png)
 
 6.  Create or verify the remote instances for each instance in your pipeline.
 
     **Note:** You must be an admin or an update set admin to view or create remote instance records.
 
-    ![Create or verify remote instances to enable the transfer of update sets between instances in your pipeline.](../image/releaseops-remote-instances.png)
+    ![Create or verify remote instances to enable the transfer of update sets between instances in your pipeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-remote-instances.png)
 
     -   If you already have remote instances set up, select **Check the remote instance record** for the existing remote instance. You might be prompted to log in to the instance with your credentials, if you aren't already logged in. Once logged in, the remote instance record displays.
     -   If you don’t have remote instances set up, select **Create a new remote instance record** for the remote instance that you need to create. You might be prompted to log in to the instance with your credentials, if you aren't already logged in. Once logged in, a new remote instance record appears. You must complete the fields in the record and select **Test connection** to verify that the remote instance is accessible. Select **Submit** once the remote instance test is successful.
@@ -112,7 +112,7 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
     3.  In the **Value** field, enter the URL for your controller instance.
 
-        ![Set the deployment controller property on the development instance.](../image/releaseops-set-controller-property.png)
+        ![Set the deployment controller property on the development instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../image/releaseops-set-controller-property.png)
 
     4.  Save the record by selecting **Update**.
 
@@ -125,5 +125,5 @@ Role required: admin or sn\_releaseops.releaseops\_pipeline\_admin
 
 ## Result
 
-You have completed guided setup for ReleaseOps. You can start using ReleaseOps to manage your deployments. For more information, see [Using ReleaseOps to manage deployments](../concept/using-releaseops-to-manage-deployments.md).
+You have completed guided setup for ReleaseOps. You can start using ReleaseOps to manage your deployments. For more information, see [Using ReleaseOps to manage deployments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/releaseops/../concept/using-releaseops-to-manage-deployments.md).
 

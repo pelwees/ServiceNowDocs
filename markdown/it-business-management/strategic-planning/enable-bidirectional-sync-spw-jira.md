@@ -32,5 +32,5 @@ Role required: sn\_jira\_int.user
 
 ## What to do next
 
-[Import issues from Jira to SPW](import-issues-from-jira-to-spw.md).
+[Import issues from Jira to SPW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/import-issues-from-jira-to-spw.md).
 

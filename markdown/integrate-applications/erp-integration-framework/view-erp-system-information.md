@@ -30,10 +30,10 @@ Role required: sn\_erp\_integration.erp\_admin or sn\_erp\_integration.erp\_user
 
 4.  Select the **Software info** tab.
 
-    ![Zero Copy Connector for ERP system record with software info tab displayed.](../image/erpc-software-info-tab.png)
+    ![Zero Copy Connector for ERP system record with software info tab displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erpc-software-info-tab.png)
 
-    View software information including ERP family and generation. All fields are read only. For more information, see [Zero Copy Connector for ERP software info tab field descriptions](../reference/erp-canvas-system-info-details.md).
+    View software information including ERP family and generation. All fields are read only. For more information, see [Zero Copy Connector for ERP software info tab field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-canvas-system-info-details.md).
 
 
-**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](../concept/erp-canvas-work-with-systems.md)
+**Parent Topic:**[Working with ERP systems in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-work-with-systems.md)
 

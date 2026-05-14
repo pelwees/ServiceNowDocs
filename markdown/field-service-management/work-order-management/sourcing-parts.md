@@ -26,5 +26,5 @@ Qualifiers, dispatchers, and agents can create, source part requirements and req
 **Related topics**  
 
 
-[Setting up inventory and asset management](setting-up-inventory-and-asset-management.md)
+[Setting up inventory and asset management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/setting-up-inventory-and-asset-management.md)
 

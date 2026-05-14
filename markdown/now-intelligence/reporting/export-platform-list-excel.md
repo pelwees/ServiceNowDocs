@@ -27,6 +27,6 @@ For more information, see [Lists in the classic environment](https://raw.githubu
 
 2.  Right-click any column heading and select **Export** &gt; **Excel**.
 
-    ![How to export platform list to Excel](../image/export-list-rep-excel.png)
+    ![How to export platform list to Excel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/export-list-rep-excel.png)
 
 

@@ -15,7 +15,7 @@ When a high-impact, high-urgency incident is created or an existing incident is 
 
 ## Incident reporting workflow
 
-The following example shows a sample workflow for reporting an incident in Incident Management. ![Incident workflow.](../image/dri-inci-repo-wf.png)
+The following example shows a sample workflow for reporting an incident in Incident Management. ![Incident workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-inci-repo-wf.png)
 
 1.  Incident verification: Determine if the reported incident is a major ICT-related incident, a security breach, or an operational payment issue. Assess whether any critical services are impacted.
 2.  Incident classification: If the critical services affected criterion is not met, the incident is not classified as major. If there is any report of malicious unauthorized access to the network and information systems, the incident is automatically classified as major.
@@ -41,7 +41,7 @@ To report an incident, the following timelines are considered.
 
 When an incident is marked as critical in the Service Operations Workspace of the Incident Management application as shown in the example, a case is generated in Digital resilience incident reporting.
 
-![Incident.](../image/inci-in-sow-ws.png)![Case.](../image/drir-inci-case-op-ws.png)
+![Incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/inci-in-sow-ws.png)![Case.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/drir-inci-case-op-ws.png)
 
 The SIR Workspace deploys a similar workflow for reporting high-impact incidents which are then logged in Digital resilience incident reporting.
 

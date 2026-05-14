@@ -48,7 +48,7 @@ The system domain separates Playbooks content according to these rules:
     Playbooks configuration files are not domain separated. Any user with the appropriate roles can view all playbooks, trigger definitions, and activity definitions.
 
 
-**Parent Topic:**[Exploring Playbook](process-automation-designer.md)
+**Parent Topic:**[Exploring Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/process-automation-designer.md)
 
 **Related topics**  
 

@@ -39,13 +39,13 @@ Description
 
 </td><td>
 
-1.  Select **New cost plan** \(![New cost plan button.](../../spw-financials/images/financials-new-cost-plan-button.png)\).
+1.  Select **New cost plan** \(![New cost plan button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/financials-new-cost-plan-button.png)\).
 
 A side panel opens to create a cost plan.
 
 2.  On the Cost plan form, fill the fields.
 
-For a description of the field names, see [Create cost plan form](../reference/create-cost-plan-form-pp.md).
+For a description of the field names, see [Create cost plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/create-cost-plan-form-pp.md).
 
 3.  Select **Save** to save the cost plan and close the side panel or **Save and add new** to save the cost plan and create a new cost plan.
  The cost plans created for sub projects can be viewed in the Cost screen of the parent project.
@@ -67,13 +67,13 @@ You can edit a cost plan by one of the following ways.1.  Select the name of the
 
 </td><td>
 
-1.  Select the Row context menu \(![3 vertical dots denoting the row context menu.](../../spw-financials/images/row-context-menu-icon.png)\) against the cost plan name.
+1.  Select the Row context menu \(![3 vertical dots denoting the row context menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/row-context-menu-icon.png)\) against the cost plan name.
 2.  Select **Delete Row**.
-3.  On the Delete selected cost plans window, select **Delete** \(![Delete option button with red background and white text.](../../spw-financials/images/delete-option-red-colour.png)\).
+3.  On the Delete selected cost plans window, select **Delete** \(![Delete option button with red background and white text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/delete-option-red-colour.png)\).
  **Note:** Deleted cost plans and the associated expense lines cannot be recovered.
 
 </td></tr></tbody>
-</table>    **Tip:** [Create a financial baseline](../../spw-financials/task/create-compare-baselines.md#choicetable_xd3_bdk_2zb) immediately after capturing the initial planned costs to have a snapshot of your planned costs. Use this baseline to compare it against the baselines from later dates, as the work progresses, to identify the variance between initial planned costs and actual expenses.
+</table>    **Tip:** [Create a financial baseline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/task/create-compare-baselines.md#choicetable_xd3_bdk_2zb) immediately after capturing the initial planned costs to have a snapshot of your planned costs. Use this baseline to compare it against the baselines from later dates, as the work progresses, to identify the variance between initial planned costs and actual expenses.
 
     This helps you to plan for the future expenses and re-forecast the planned costs.
 

@@ -17,7 +17,7 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 ## Before you begin
 
--   [Create monetary benefit plans for your projects in Project Workspace](fin-manage-monetary-benefit-plans-pws.md)
+-   [Create monetary benefit plans for your projects in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-monetary-benefit-plans-pws.md)
 -   Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
@@ -52,7 +52,7 @@ Procedure
 </td><td>
 
 1.  Select the **Financials** tab.
-2.  Select the options ![Option to add expense lines.](../../spw-financials/images/fin-options.png) from the required cell of a monetary benefit plan row.
+2.  Select the options ![Option to add expense lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../spw-financials/images/fin-options.png) from the required cell of a monetary benefit plan row.
 3.  Select **Add actual benefits**.
 
 Monetary Benefit Plan Breakdown side-panel is displayed.
@@ -63,5 +63,5 @@ Monetary Benefit Plan Breakdown side-panel is displayed.
 4.  Enter the actuals benefits resulted from the work execution in the **Actual benefit** field and select **Save**.
 
 
-**Parent Topic:**[Create monetary benefit plans for your projects in Project Workspace](fin-manage-monetary-benefit-plans-pws.md)
+**Parent Topic:**[Create monetary benefit plans for your projects in Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/fin-manage-monetary-benefit-plans-pws.md)
 

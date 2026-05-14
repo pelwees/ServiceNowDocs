@@ -37,8 +37,8 @@ Role required: admin or delegated\_developer
 
 7.  Return to the **App details** integrated tab for the application.
 
-8.  Select the reload app details icon ![Reload app details icon](../image/sn-studio-reload-app-details-icon.png) to incorporate the changes you made on the **App settings** tab.
+8.  Select the reload app details icon ![Reload app details icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-reload-app-details-icon.png) to incorporate the changes you made on the **App settings** tab.
 
 
-**Parent Topic:**[App details page](../concept/app-details-page.md)
+**Parent Topic:**[App details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/app-details-page.md)
 

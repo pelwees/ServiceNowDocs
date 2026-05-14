@@ -31,7 +31,7 @@ Customer service case managers can use the Demand Insights for Cases dashboard t
 
 3.  Search for existing knowledge articles or create a knowledge article to help resolve a case.
 
-4.  Click the More UI Actions icon \(![More UI Actions icon.](../../../product/customer-service-management/image/agent-workspace-more-ui-actions-icon.jpg)\) and then click **Report Knowledge Gap**.
+4.  Click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../product/customer-service-management/image/agent-workspace-more-ui-actions-icon.jpg)\) and then click **Report Knowledge Gap**.
 
     In the platform interface, click the **Report Knowledge Gap** related link on the Case form and provide information in the resulting pop-up window.
 

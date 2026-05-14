@@ -28,9 +28,9 @@ The **AI Systems** tab on a business application record shows a summary of each 
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the Expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the Expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select a business application.
 
@@ -41,16 +41,16 @@ The **AI Systems** tab on a business application record shows a summary of each 
     The AI system record opens in the AI Control Tower workspace, displaying the full governance details for that AI system. The record includes tabs for details, KPIs and metrics, and requests, along with related assets such as sub AI systems, AI models, tools, prompts, evaluation datasets, and business applications.
 
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[Add an existing AI system to a business application](eaw-add-ai-system-to-ba.md)
+[Add an existing AI system to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-ai-system-to-ba.md)
 
-[Remove an AI system from a business application](eaw-unassign-ai-system-from-ba.md)
+[Remove an AI system from a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-unassign-ai-system-from-ba.md)
 
-[AI Control Tower integration with Enterprise Architecture](../../concept/eaw-concept/eaw-aict.md)
+[AI Control Tower integration with Enterprise Architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-aict.md)
 
 [AI Control Tower Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-control-tower-home-page.md)
 

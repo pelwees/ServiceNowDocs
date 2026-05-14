@@ -25,23 +25,23 @@ When you create an equipment inventory model, you must enter the following infor
 
     **Note:** These rules also apply to the remaining steps to this process. To learn more, see:
 
-    -   [Create an inventory template](../task/create-inventory-templates.md)
-    -   [Create a default template](../task/create-default-templates.md)
+    -   [Create an inventory template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-inventory-templates.md)
+    -   [Create a default template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-default-templates.md)
 
-![Details view of the 7450 ESS-1 template with field information.](../image/inventory-template-7450ESS1.png "Inventory template for equipment model")
+![Details view of the 7450 ESS-1 template with field information.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/inventory-template-7450ESS1.png "Inventory template for equipment model")
 
 ## What's next
 
-Next, create inventory templates for related interface card models. To learn more, see [Create inventory templates for related interface card models](creating-inventory-templates-for-related-interface-card-models.md).
+Next, create inventory templates for related interface card models. To learn more, see [Create inventory templates for related interface card models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md).
 
-**Parent Topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
+**Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
-**Previous topic:**[Create inventory template relationship](creating-inventory-templates-telco-equipment.md)
+**Previous topic:**[Create inventory template relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
-**Next topic:**[Create inventory templates for related interface card models](creating-inventory-templates-for-related-interface-card-models.md)
+**Next topic:**[Create inventory templates for related interface card models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-for-related-interface-card-models.md)
 
 **Related topics**  
 
 
-[Create inventory template for network asset instantiation](preparing-inv-templates-network-asset-generation.md)
+[Create inventory template for network asset instantiation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 

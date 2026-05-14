@@ -44,10 +44,10 @@ The Export Hierarchy feature lets you download a selected inventory model or tem
 
 The JSON file containing the selected model or template and all its related records is downloaded to your local system, ready to import into the target instance.
 
-**Parent Topic:**[Import models and templates](../concept/import-models-and-templates.md)
+**Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/import-models-and-templates.md)
 
 **Related topics**  
 
 
-[Export hierarchy of models and templates as JSON](export-hierarchy-of-models-and-templates-as-json.md)
+[Export hierarchy of models and templates as JSON](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-templates-as-json.md)
 

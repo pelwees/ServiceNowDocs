@@ -68,14 +68,14 @@ Import messages as
 
 
 </td></tr></tbody>
-</table>    ![Import messages from a record](../images/import-messages-record-01.png)
+</table>    ![Import messages from a record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/import-messages-record-01.png)
 
 4.  Select the messages, files, and the images you would like to import and click **Import messages**.
 
     If you try to import the messages manually for a ticket that will automatically import the messages, the system displays a message that the chat is being imported using auto-import.
 
-    ![Import messages modal error message for automaticlaly imported chats](../images/manual-import-error.png)
+    ![Import messages modal error message for automaticlaly imported chats](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/manual-import-error.png)
 
 
-**Parent Topic:**[Request based chat - Start and import chat from classic view](../concept/initiate-conversation-requester.md)
+**Parent Topic:**[Request based chat - Start and import chat from classic view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/initiate-conversation-requester.md)
 

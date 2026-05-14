@@ -81,15 +81,15 @@ Email Search
 
 </td><td>
 
-A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [Security Operations Integration- Email Search and Delete capability](../../security-operations-common/concept/email-search-capability.md) is not active, the **Email Search** related link is not displayed.
+A list of records that holds search criteria to run queries on an email server, such as a Microsoft® Exchange Server \(based on the implementation installed\), and stores the results received. **Note:** if the [Security Operations Integration- Email Search and Delete capability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-operations-common/concept/email-search-capability.md) is not active, the **Email Search** related link is not displayed.
 
 </td></tr></tbody>
 </table>4.  Click any of the following related links to further update the security incident:
 
-    -   [Show Affected Items](show-affected-items-for-si.md)
-    -   [Show Related Items](show-related-items-for-si.md)
-    -   [Show IoC](show-ioc-info-for-si.md)
-    -   [Show Enrichment Data](show-enrich-data-for-si.md)
+    -   [Show Affected Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-affected-items-for-si.md)
+    -   [Show Related Items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-related-items-for-si.md)
+    -   [Show IoC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-ioc-info-for-si.md)
+    -   [Show Enrichment Data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-enrich-data-for-si.md)
 5.  When you have completed your entries, click **Submit**.
 
 

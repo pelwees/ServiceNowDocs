@@ -20,7 +20,7 @@ To view the Category management tab in the Source-to-Pay Workspace, you must hav
 -   Spend and Savings Management \(sn\_spend\_mgmt\)
 -   Sourcing Pipeline Management \(sn\_spend\_pipeline\)
 
-![Category management tab](../image/category-mgmt-tab.png "Category management tab")
+![Category management tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/category-mgmt-tab.png "Category management tab")
 
 ## Components in the Category management tab
 
@@ -263,5 +263,5 @@ List of active suppliers.When you create a pipeline project from the Suppliers l
 **Note:** A supplier record can be associated with only one active pipeline project record at a time.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Spend and Savings Management](spo-spend-mgmt.md)
+</table>**Parent Topic:**[Spend and Savings Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-spend-mgmt.md)
 

@@ -41,22 +41,22 @@ Number of open incidents with Category = Software: 31
 Formula: 8152/31/24=11
 ```
 
-**Parent Topic:**[Formula indicators](formula-indicators.md)
+**Parent Topic:**[Formula indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/formula-indicators.md)
 
 **Related topics**  
 
 
-[Create a formula indicator](../task/t_CreateAFormulaIndicator.md)
+[Create a formula indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/t_CreateAFormulaIndicator.md)
 
-[Get analytics methods in formulas](../task/get-indicator-analytics.md)
+[Get analytics methods in formulas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/get-indicator-analytics.md)
 
-[Prevent a contributing indicator in a formula from following breakdowns](c_ExcludingBreakdownsFromFormulas.md)
+[Prevent a contributing indicator in a formula from following breakdowns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ExcludingBreakdownsFromFormulas.md)
 
-[Applying time series to result or to contributing indicators](apply-time-series-result-components.md)
+[Applying time series to result or to contributing indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/apply-time-series-result-components.md)
 
-[Detect indicators with no scores in a formula](../task/detect-indicators-no-scores-formula.md)
+[Detect indicators with no scores in a formula](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/detect-indicators-no-scores-formula.md)
 
-[Indexing multiple indicators in a formula](index-indicators.md)
+[Indexing multiple indicators in a formula](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/index-indicators.md)
 
-[Changes to score\_start/end because of different user time zones](time-zones-indicator-formulas.md)
+[Changes to score\_start/end because of different user time zones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-zones-indicator-formulas.md)
 

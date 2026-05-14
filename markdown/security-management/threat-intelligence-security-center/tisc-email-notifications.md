@@ -44,14 +44,14 @@ The following table details the email notification rules that are provisioned in
 |High Risk Malicious Domain Observable|sn\_sec\_tisc\_domain\_name|
 |Notifying on case updation|sn\_sec\_tisc\_case|
 
-![email notifications](../image/tisc-email-notifications.png "Email Notifications")
+![email notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-email-notifications.png "Email Notifications")
 
 **Note:** Clicking on each email notification will take you to the classic UI, so that you can take necessary actions such as viewing or editing or creating the notifications.
 
-**Parent Topic:**[Manage email Notifications](tisc-notifications.md)
+**Parent Topic:**[Manage email Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-notifications.md)
 
 **Related topics**  
 
 
-[Email logs](tisc-email-logs.md)
+[Email logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-email-logs.md)
 

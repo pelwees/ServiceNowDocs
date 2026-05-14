@@ -21,12 +21,12 @@ Create a table using the Table object. From the schema property, add Column obje
 
 For general information about tables, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TableAdministration.md).
 
-**Parent Topic:**[ServiceNow Fluent API reference](servicenow-fluent-api-reference.md)
+**Parent Topic:**[ServiceNow Fluent API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/servicenow-fluent-api-reference.md)
 
 **Related topics**  
 
 
-[ServiceNow Fluent](../concept/servicenow-fluent.md)
+[ServiceNow Fluent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/servicenow-fluent.md)
 
 ## Table object
 
@@ -68,7 +68,7 @@ Array
 
 </td><td>
 
-Required. A list of Column objects. For more information, see [Column object](table-api-now-ts.md#).
+Required. A list of Column objects. For more information, see [Column object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ String or Array
 
 </td><td>
 
-A unique label for the table in list and form views. Field labels can be provided as a string or an array of label objects. For more information, see [label object](table-api-now-ts.md#).Maximum length: 80
+A unique label for the table in list and form views. Field labels can be provided as a string or an array of label objects. For more information, see [label object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#).Maximum length: 80
 
 Default: the value of the name property
 
@@ -106,7 +106,7 @@ Object
 
 </td><td>
 
-The licensing configuration \[ua\_table\_licensing\_config\] for a table. For more information, see [licensingConfig object](table-api-now-ts.md#).
+The licensing configuration \[ua\_table\_licensing\_config\] for a table. For more information, see [licensingConfig object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Boolean
 
 Flag that indicates if live feeds are available for records in the table.Valid values:
 
--   true: Live feeds are provided for records in the table. This option adds the **Show Live Feed** option \(![Show Live Feed icon](../../../administer/table-administration/image/LiveCompanyFeed.png)\) in the form header.
+-   true: Live feeds are provided for records in the table. This option adds the **Show Live Feed** option \(![Show Live Feed icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../../../administer/table-administration/image/LiveCompanyFeed.png)\) in the form header.
 -   false: Live feeds aren't provided for records in the table.
 
 Default: false
@@ -189,7 +189,7 @@ The access level for cross-scope requests.Valid values:
 -   tracking: Calls to the resource are automatically approved. Calls are tracked in the Restricted Caller Access table with a status of Allowed.
 -   none: Cross-scope calls to the resource are approved or denied based on the value of the accessibleFrom property.
 
-For more information, see [Restricted caller access privilege settings](../../applications/concept/restricted-caller-access-privilege.md).
+For more information, see [Restricted caller access privilege settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../../applications/concept/restricted-caller-access-privilege.md).
 
 Default: none
 
@@ -384,7 +384,7 @@ Object
 
 </td><td>
 
-The auto-numbering configuration \[sys\_number\] for a table. For more information, see [autoNumber object](table-api-now-ts.md#).
+The auto-numbering configuration \[sys\_number\] for a table. For more information, see [autoNumber object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#).
 
 </td></tr><tr><td>
 
@@ -533,7 +533,7 @@ String or Array
 
 </td><td>
 
-A unique label for the column that appears on list headers and form fields. Field labels can be provided as a string or an array of label objects. For more information, see [label object](table-api-now-ts.md#).Default: the key used for the column object
+A unique label for the column that appears on list headers and form fields. Field labels can be provided as a string or an array of label objects. For more information, see [label object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#).Default: the key used for the column object
 
 </td></tr><tr><td>
 
@@ -643,7 +643,7 @@ Object
 
 </td><td>
 
-A list of choices \[sys\_choice\] for a column. For more information, see [choices object](table-api-now-ts.md#). This property only applies to ChoiceColumn objects and column types that extend choice columns. It can include either an array of primitive values or a series of choice objects.
+A list of choices \[sys\_choice\] for a column. For more information, see [choices object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/table-api-now-ts.md#). This property only applies to ChoiceColumn objects and column types that extend choice columns. It can include either an array of primitive values or a series of choice objects.
 
 </td></tr><tr><td>
 
@@ -954,7 +954,7 @@ String
 The model for tracking subscription usage.Valid values:
 
 -   none: Licensing isn’t used for the table.
--   fulfiller: Fulfiller/requester operations are tracked. This model applies to applications in which users open requests and fulfillers address them. Fulfillment is determined by insert, update, and delete operations on records in one or more key tables in the application under a set of specified conditions. For more information, see [Fulfillment tables](../../applications/reference/r_FulfillmentTables.md).
+-   fulfiller: Fulfiller/requester operations are tracked. This model applies to applications in which users open requests and fulfillers address them. Fulfillment is determined by insert, update, and delete operations on records in one or more key tables in the application under a set of specified conditions. For more information, see [Fulfillment tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../../applications/reference/r_FulfillmentTables.md).
 -   producer: Producer operations are tracked. This model applies to applications in which users can perform insert, update, and delete operations on a table without identifying requesters and fulfillers.
 
 Default: none

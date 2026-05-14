@@ -15,9 +15,9 @@ Your instance requires certificates to establish secure connections and validate
 
 Certificates are used for features such as:
 
--   [LDAPS](../../../integrate/ldap/reference/r_LDAPIntegrationFAQs.md)
+-   [LDAPS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../integrate/ldap/reference/r_LDAPIntegrationFAQs.md)
 -   [Outbound web service mutual authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_OutboundWebServicesMutualAuth.md)
--   [Web service security](../../security/concept/c_WebServiceSecurity.md)
+-   [Web service security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../security/concept/c_WebServiceSecurity.md)
 -   [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/add-ssl-certificates.md)
 
 In order to use a certificate, you must generate or purchase a certificate for the secured server, or client and upload it to an instance.
@@ -58,12 +58,12 @@ By default, your instance trusts only certificates from a Certificate Authority 
 
 **Note:** To learn more about the properties that affect the use of certificates, see  in Instance Security Hardening Settings.
 
-**Parent Topic:**[Certificates](c_Certificates.md)
+**Parent Topic:**[Certificates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_Certificates.md)
 
 **Related topics**  
 
 
-[Generating an LDAP client certificate](../task/t_GenerateAnLDAPClientCertificate.md)
+[Generating an LDAP client certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_GenerateAnLDAPClientCertificate.md)
 
-[Uploading a certificate to an instance](../task/t_UploadACertificateToAnInstance.md)
+[Uploading a certificate to an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_UploadACertificateToAnInstance.md)
 

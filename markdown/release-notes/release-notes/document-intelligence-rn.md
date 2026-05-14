@@ -26,5 +26,5 @@ Starting with the Zurich release, Document Intelligence is being prepared for fu
     Document Intelligence Admin \(sn\_docintel\_admin\): Planned for deprecation in the Brazil release. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 
-**Parent Topic:**[AI Experiences release notes](intelligent-experiences-rn-landing.md)
+**Parent Topic:**[AI Experiences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/intelligent-experiences-rn-landing.md)
 

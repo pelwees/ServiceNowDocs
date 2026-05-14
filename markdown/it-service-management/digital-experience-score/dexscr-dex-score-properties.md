@@ -52,5 +52,5 @@ Organization's target for DEX score that you can see on the DEX Score dashboard.
 -   Other possible values: Any whole number from 0 to 100.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Digital Experience Score​ reference](../concept/dexscr-dex-score-reference.md)
+</table>**Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/../concept/dexscr-dex-score-reference.md)
 

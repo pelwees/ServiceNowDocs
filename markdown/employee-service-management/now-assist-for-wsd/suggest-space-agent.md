@@ -19,7 +19,7 @@ The Create a reservation agent helps employees find a space for reservation. The
 
 **Note:** Desks reservations are supported by the Workplace collaboration agent.
 
-When providing suggestions for collaboration, the Collaboration agent prioritizes the Employee Presence Exceptions data first, then it checks for Employee Presence Routine, and lastly, it considers your current reservations. It gives priority to Employee Presence Exceptions data over Employee Presence Routine and current reservations in the system. If employee's current reservation data and location in available and no workplace presence information is there, the agent prioritizes employee's current reservations over workplace location while suggesting spaces for collaboration. For more information, see [Workplace Concierge](../../workplace-concierge/concept/workplace-concierge-feat.md).
+When providing suggestions for collaboration, the Collaboration agent prioritizes the Employee Presence Exceptions data first, then it checks for Employee Presence Routine, and lastly, it considers your current reservations. It gives priority to Employee Presence Exceptions data over Employee Presence Routine and current reservations in the system. If employee's current reservation data and location in available and no workplace presence information is there, the agent prioritizes employee's current reservations over workplace location while suggesting spaces for collaboration. For more information, see [Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-concierge/concept/workplace-concierge-feat.md).
 
 Your collaborators can be categorized as:
 
@@ -38,17 +38,17 @@ The workplace collaboration agent improves employee's reservation and collaborat
 
 **Note:** If you are planning to sit near a colleague, and if your colleague has a desk reservation for one hour and doesn't have an All day reservation, you can make a reservation for one-hour only. If an employee doesn't have any Employee Presence Exceptions and has no reservations made for a day while in office, the collaboration agent prioritizes the employee's workplace profile location and spaces around that location is suggested to the employee for collaboration.
 
--   **[Get space suggestions using the Workplace collaboration agent](../task/collaboration-agent.md)**  
+-   **[Get space suggestions using the Workplace collaboration agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../task/collaboration-agent.md)**  
 The Workplace collaboration agent provides space recommendations and insights for collaboration based on employee's workplace presence data, team members or frequent collaborators, attendees in your reservation, and workplace profile \(assigned space\).
 
-**Parent Topic:**[Using Now Assist in Virtual Agent](create-rsv-agent-ovw.md)
+**Parent Topic:**[Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/create-rsv-agent-ovw.md)
 
 **Related topics**  
 
 
-[Making reservations using the Create a reservation agent](using-reservation-agent.md)
+[Making reservations using the Create a reservation agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/using-reservation-agent.md)
 
-[Set Employee Presence](../../workplace-concierge/concept/use-workplace-concierge.md)
+[Set Employee Presence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-concierge/concept/use-workplace-concierge.md)
 
-[Components installed with Workplace Concierge](../../workplace-concierge/reference/components-installed-with-workplace-concierge.md)
+[Components installed with Workplace Concierge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../../workplace-concierge/reference/components-installed-with-workplace-concierge.md)
 

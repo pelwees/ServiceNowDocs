@@ -72,7 +72,7 @@ In the Time Duration Value section, edit the time duration for the overlay that 
 </td><td>
 
 1.  Select the Menu Type field.
-2.  Select the delete icon \(![Delete Icon.](../../../common/image/icon-delete-trashcan.png)\) to delete an overlay.
+2.  Select the delete icon \(![Delete Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../common/image/icon-delete-trashcan.png)\) to delete an overlay.
 3.  In the Condition section, delete the corresponding time duration rows.
 
 
@@ -84,5 +84,5 @@ In the Time Duration Value section, edit the time duration for the overlay that 
 
 Customized time duration options are available on the floor map.
 
-**Parent Topic:**[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+**Parent Topic:**[Configuring overlays on floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-overlays-floor-map.md)
 

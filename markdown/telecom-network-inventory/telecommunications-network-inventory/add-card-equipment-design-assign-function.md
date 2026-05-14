@@ -26,7 +26,7 @@ Add a card to equipment record using design and assign function in the Telecommu
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Changes** &gt; **All**.
 
 3.  Select the **New** button.
 
@@ -38,7 +38,7 @@ Add a card to equipment record using design and assign function in the Telecommu
 
 6.  On the **Details** tab, fill in the fields.
 
-    For a description of the field values, see [Change request and change task forms](../concept/change_request_forms.md).
+    For a description of the field values, see [Change request and change task forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/change_request_forms.md).
 
 7.  Select **Save**.
 
@@ -48,19 +48,19 @@ Add a card to equipment record using design and assign function in the Telecommu
 
 9.  On the **Task Attributes** tab, fill in the fields.
 
-    To learn more, see [Task attributes in Add Card form](../reference/task-attributes-add-card-form.md).
+    To learn more, see [Task attributes in Add Card form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/task-attributes-add-card-form.md).
 
 10. Select **Submit**.
 
 
-**Parent Topic:**[Instantiating your network inventory by using design and assign](../concept/instantiate-asset-using-template-relationship-model.md)
+**Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/instantiate-asset-using-template-relationship-model.md)
 
 **Related topics**  
 
 
-[Define the card details](define-tni-interface-cards.md)
+[Define the card details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-interface-cards.md)
 
-[Create a card model](create-interface-card-models.md)
+[Create a card model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-interface-card-models.md)
 
-[Define a network model relationship](create-network-model-relationships.md)
+[Define a network model relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 

@@ -23,7 +23,7 @@ Role required: CCaaS admin
 
 2.  Select **Launch test tool** to open the simulator in a new tab to begin configuration.
 
-    ![Launch the simulator from you workspace](../image/int-launch-simulator-tool.png)
+    ![Launch the simulator from you workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/int-launch-simulator-tool.png)
 
 3.  Begin the simulation by setting the idle state capabilities.
 
@@ -32,5 +32,5 @@ Role required: CCaaS admin
 
 ## What to do next
 
-Configure idle state capabilities, such as outbound call, logout, and phone directory. See [Setting idle state](setup-idle-state-and-directory.md).
+Configure idle state capabilities, such as outbound call, logout, and phone directory. See [Setting idle state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/setup-idle-state-and-directory.md).
 

@@ -41,12 +41,12 @@ To avoid performance-related issues, configuration changes are required to pin t
 
     1.  Choose a node from the list of available nodes.
 
-    2.  Save the record by clicking the green checkmark icon \(![Green checkmark icon.](../image/green-checkmark-icon.png)‎\).
+    2.  Save the record by clicking the green checkmark icon \(![Green checkmark icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/../image/green-checkmark-icon.png)‎\).
 
     The mass booking event processor record is assigned to a specific node.
 
 5.  To assign different mass booking event processor records to specific nodes, repeat step 3 and step 4, as needed.
 
 
-**Parent Topic:**[Configuring Vaccine Administration Management](vaccine-mgmt-config.md)
+**Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 

@@ -89,7 +89,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 6.  When the installation is complete, click **Close**.
 
 
-**Parent Topic:**[Employee Readiness Core](../concept/employee-readiness-core.md)
+**Parent Topic:**[Employee Readiness Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/../concept/employee-readiness-core.md)
 
 ## Components installed with Employee Readiness Core
 

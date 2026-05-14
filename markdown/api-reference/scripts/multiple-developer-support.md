@@ -27,7 +27,7 @@ The Script Debugger prevents one developer from seeing or modifying another debu
 
 The Script Debugger displays the debug session user at the bottom left of the user interface.
 
-![The Script Debugger User field showing the sample admin user](../image/script-debugger-user.png "Sample Script Debugger user")
+![The Script Debugger User field showing the sample admin user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/script-debugger-user.png "Sample Script Debugger user")
 
 ## Concurrent Script Debugger usage
 
@@ -45,10 +45,10 @@ Administrators can view the currently running debugger sessions by navigating to
 
 Administrators can stop all currently running debugging sessions by navigating to the page `debugger_reset.do`. Only users with the admin role can access this page.
 
-**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md)
 
 **Related topics**  
 
 
-[Script Debugger impersonation support](impersonation-support.md)
+[Script Debugger impersonation support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/impersonation-support.md)
 

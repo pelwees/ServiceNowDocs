@@ -27,7 +27,7 @@ Role required: df\_data\_steward, connection\_admin, wdf\_operator, wdf\_builder
 
     If specific applications have data available that you want to use, enter the application name and get relevant links. For example, `MySQL`.
 
-    ![Screenshot showing the search field on the Workflow Data Fabric landing page.](../image/wdf-na-search-field.png)
+    ![Screenshot showing the search field on the Workflow Data Fabric landing page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-na-search-field.png)
 
 3.  Select source links to see more information about a topic.
 
@@ -38,7 +38,7 @@ Role required: df\_data\_steward, connection\_admin, wdf\_operator, wdf\_builder
 
 Now Assist for Workflow Data Fabric \(WDF\) provides the information that you requested, including alternatives, sources, and a summary.
 
-![Screenshot showing query and the Now Assist response.](../image/wdf-na-request-1.png)
+![Screenshot showing query and the Now Assist response.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/wdf-na-request-1.png)
 
 ## Search documents across cloud drives
 
@@ -59,5 +59,5 @@ Customer data exists across Salesforce, SAP, and internal databases. We need a u
 **Related topics**  
 
 
-[oneExtend LLM skill](../concept/recommendation-skill.md)
+[oneExtend LLM skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/recommendation-skill.md)
 

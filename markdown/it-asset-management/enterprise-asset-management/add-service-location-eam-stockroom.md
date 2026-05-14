@@ -40,5 +40,5 @@ By default, you can source, deploy, and retire the assets of a stockroom only wi
 5.  Select **Add**.
 
 
-**Parent Topic:**[Create stockroom for enterprise assets](create-eamstockroom.md)
+**Parent Topic:**[Create stockroom for enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockroom.md)
 

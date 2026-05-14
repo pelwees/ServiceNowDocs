@@ -27,27 +27,27 @@ Changes to configuration files are associated with CIs to which these files belo
 
 While you can see change records for a specific CI in the context of application services, you can also see detailed history of a specific CI separate from its service instance as described in [History Timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HistoryTimeline.md).
 
-If the ServiceNow AI Platform is configured to validate changes, all changes are evaluated and rendered as valid or not. If a change is valid, its change record on the service instance map is marked as approved. For more information about configuring the platform for change validation, see [Managing proposed changes](../../configuration-management/concept/c_ProposedChanges.md#).
+If the ServiceNow AI Platform is configured to validate changes, all changes are evaluated and rendered as valid or not. If a change is valid, its change record on the service instance map is marked as approved. For more information about configuring the platform for change validation, see [Managing proposed changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/concept/c_ProposedChanges.md#).
 
 Changes to the service instance appear on the history timeline.
 
-![The history scale shows changes to the service instance.](../image/MapHistoryPointers.png)
+![The history scale shows changes to the service instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryPointers.png)
 
 The type of change mark depends on the nature of changes that it represents:
 
--   **Light gray balloon \(![Light grey balloon icon](../image/ChangeHistoryBalloonsLightGray.png)\)**
+-   **Light gray balloon \(![Light grey balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ChangeHistoryBalloonsLightGray.png)\)**
 
     Unapproved change that does not influence the service instance behavior. For example, a change in a network path or adding a node to a cluster.
 
--   **Dark gray balloon \(![Dark gray balloon icon](../image/ChangeHistoryBalloonsDarkGray.png)\)**
+-   **Dark gray balloon \(![Dark gray balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ChangeHistoryBalloonsDarkGray.png)\)**
 
     Unapproved change that changes the service instance behavior.
 
--   **Green balloon \(![Green balloon icon](../image/ChangeHistoryBalloonsGreen.png)\)**
+-   **Green balloon \(![Green balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ChangeHistoryBalloonsGreen.png)\)**
 
     An approved change in deployments where the ServiceNow AI Platform is configured to validate changes.
 
--   **Double balloon \(![Green balloon icon](../image/ChangeHistoryBalloonsDouble.png)\)**
+-   **Double balloon \(![Green balloon icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/ChangeHistoryBalloonsDouble.png)\)**
 
     Multiple separate changes that happened a short time from each other.
 
@@ -84,7 +84,7 @@ Action
 
 </td><td>
 
-Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months to set the time range of the history scale.](../image/MapHistoryTimeRangeIcons.png)
+Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months to set the time range of the history scale.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryTimeRangeIcons.png)
 
 </td></tr><tr><td id="d444805e325">
 
@@ -92,7 +92,7 @@ Click the hour, day, week, or month icons.![Click Hours, Days, Weeks, or Months 
 
 </td><td>
 
-Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the time range.](../image/MapHistoryPlusMinusIcons.png)
+Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the time range.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryPlusMinusIcons.png)
 
 </td></tr><tr><td id="d444805e340">
 
@@ -100,7 +100,7 @@ Click the zoom in and zoom out icons.![Click Zoom in and Zoom out to change the 
 
 </td><td>
 
-Click the history scale.![Click the history scale to mark the time which serves as the upper limit.](../image/MapHistoryMarkedPoint.png)
+Click the history scale.![Click the history scale to mark the time which serves as the upper limit.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryMarkedPoint.png)
 
  The time that serves as the upper limit appears above the history timeline.
 
@@ -108,7 +108,7 @@ Click the history scale.![Click the history scale to mark the time which serves 
 
 You cannot set the lower limit on your history range to a time before this service instance was created. This time is marked with the **IT Service Created** event on the history timeline.
 
-![The IT Service Created pointer on the History timeline.](../image/MapHistoryBSCreatedPointer.png)
+![The IT Service Created pointer on the History timeline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryBSCreatedPointer.png)
 
 </td></tr></tbody>
 </table>    The map shows the history view of the service instance for the time you selected.
@@ -119,19 +119,19 @@ You cannot set the lower limit on your history range to a time before this servi
 
     1.  Click the **Compare** icon.
 
-        ![The Compare icon on the Map page.](../image/MapHistoryCompareIcon.png)
+        ![The Compare icon on the Map page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryCompareIcon.png)
 
     2.  Navigate to the time you want to mark as a baseline on the history scale.
 
     3.  Click **Set baseline**.
 
-        ![Click Set baseline.](../image/MapHistoryBaselineSet.png)
+        ![Click Set baseline.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryBaselineSet.png)
 
     4.  Enter the name of the baseline and click **OK**.
 
         The new baseline appears as a button above the history scale and as a blue flag on the history scale.
 
-        ![The Baseline button and flag.](../image/MapHistoryBaselineFlag.png)
+        ![The Baseline button and flag.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryBaselineFlag.png)
 
 5.  View the change history.
 
@@ -151,7 +151,7 @@ Action
 
 Select a change record on the **Changes** tab.The related CI is marked yellow in the map.
 
- ![View the CI responsible for a change record.](../image/MapChangesTabSelectRecord.png)
+ ![View the CI responsible for a change record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapChangesTabSelectRecord.png)
 
 </td></tr><tr><td id="d444805e508">
 
@@ -161,7 +161,7 @@ Select a change record on the **Changes** tab.The related CI is marked yellow in
 
 Select the required CI or the connection on the map.The **Changes** tab displays only change records related to the selected CI or connection.
 
- ![View only change records related to a CI.](../image/MapChangesTabSelectCI.png)
+ ![View only change records related to a CI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapChangesTabSelectCI.png)
 
 </td></tr><tr><td id="d444805e530">
 
@@ -190,15 +190,15 @@ The new tab opens displaying the network or storage path map for the time you se
 </td></tr></tbody>
 </table>6.  To exit the history view and see the current status of the service instance, click the current icon.
 
-    ![The graphic shows the current icon for exiting the history view.](../image/MapHistoryCurrentIcon.png)
+    ![The graphic shows the current icon for exiting the history view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../image/MapHistoryCurrentIcon.png)
 
 
 **Related topics**  
 
 
-[View an application service map in base system](../../configuration-management/task/app-service-map-base-system.md)
+[View an application service map in base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../configuration-management/task/app-service-map-base-system.md)
 
-[Compare two versions of an application service in classic Service Mapping](t_CompareBS.md)
+[Compare two versions of an application service in classic Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CompareBS.md)
 
 [Modify tracking changes in configuration files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/track-configuration-files.md)
 

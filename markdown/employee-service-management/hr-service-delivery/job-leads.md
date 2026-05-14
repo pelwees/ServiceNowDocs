@@ -19,14 +19,14 @@ Add talent profiles as job prospects to a job requisition when the profiles are 
 
 It provides better visibility to the recruiters into the profiles that are the prospective fit for the job opening.
 
--   **[Copy talent profiles as job prospects](../task/copy-talent-to-leads.md)**  
+-   **[Copy talent profiles as job prospects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/copy-talent-to-leads.md)**  
 Copy talent profiles from a Talent pool to a particular job requisition as prospects.
--   **[Create prospects in job requisitions](../task/create-lead-req.md)**  
+-   **[Create prospects in job requisitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-lead-req.md)**  
 Create a prospect within a job requisition as a potential fit for the job opening.
--   **[Add prospects to job requisitions](../task/add-leads-to-reqs.md)**  
+-   **[Add prospects to job requisitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/add-leads-to-reqs.md)**  
 Add relevant profiles directly to the job requisition as job prospects.
--   **[Edit prospects in job requisition](../task/edit-prospect-job-req.md)**  
+-   **[Edit prospects in job requisition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/edit-prospect-job-req.md)**  
 Edit newly created prospect profiles within a job requisition until the prospect applies.
 
-**Parent Topic:**[Using Talent profile](config-t-pool.md)
+**Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [SFTP File Transfer activity pack, Orchestration activity packs, Cla
 
 The Set File Attributes activity sets common file attributes, such as timestamps, size, permissions, and UID/GID, for a file or directory on an SFTP server.
 
-A good practice is to use the Get File List activity to return a list of files and their attributes first. Then, when you moved a file from a source host to a target host, use the Set File Attributes activity to set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer](r_SFTPWorkflow.md)workflow.
+A good practice is to use the Get File List activity to return a list of files and their attributes first. Then, when you moved a file from a source host to a target host, use the Set File Attributes activity to set the source file attributes on the target file. This is demonstrated in the [SFTP File Transfer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/r_SFTPWorkflow.md)workflow.
 
 ## Input variables
 
@@ -112,7 +112,7 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 
 |Variable|Description|
 |--------|-----------|
-|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
+|errorMessage|The **executionResult.errorMessages** from the [Activity designer parsing sources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../../orchestration-activity-designer/task/t_CreateAParsingRule.md#). If this variable is not null, the operation has failed.|
 |result|Text message advising that the command was executed successfully.|
 
 ## Conditions
@@ -122,5 +122,5 @@ Specific [Credential aliases for Orchestration activities](https://raw.githubuse
 |Success|The activity succeeded in changing the attributes of the specified file or directory.|
 |Failure|The activity failed to change the attributes of the specified file or directory.|
 
-**Parent Topic:**[SFTP File Transfer activity pack](../concept/c_OrchestrationSFTPActivityPack.md)
+**Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/orchestration/../concept/c_OrchestrationSFTPActivityPack.md)
 

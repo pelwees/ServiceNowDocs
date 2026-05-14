@@ -23,7 +23,7 @@ You can take three types of actions:
 -   **Decision tree**: A guided flow to follow that walks you through a series of questions that help you determine the appropriate action.
 -   **Field recommendations**: Recommended values to use for the fields in the record. Recommended field values are auto-filled or shown as messages underneath the fields for the new records. The recommended field values are shown as messages only underneath the fields for the existing records.
 
-![Case record view with recommended actions in the contextual side panel with Guidance and Decision trees as recommendations with relevant resources and input](../image/ra-side-panel.png "Recommended action cards in a workspace")
+![Case record view with recommended actions in the contextual side panel with Guidance and Decision trees as recommendations with relevant resources and input](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-side-panel.png "Recommended action cards in a workspace")
 
 Recommended action cards display the following information:
 
@@ -55,7 +55,7 @@ Select the **View and attach article** to open the knowledge article in the side
 
 </td><td>
 
-Select secondary actions, such as **Dismiss** to cancel the recommendation or **Attach article** to attach it to the case or select an option from the More actions icon \(![Displays secondary actions such as copying a link or flagging an article](../image/more_vertical_icon.png)\).![More actions enables the user to mark an article as helpful, flag an article, copy or expand the article](../image/ra-secondary-actions.png)
+Select secondary actions, such as **Dismiss** to cancel the recommendation or **Attach article** to attach it to the case or select an option from the More actions icon \(![Displays secondary actions such as copying a link or flagging an article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/more_vertical_icon.png)\).![More actions enables the user to mark an article as helpful, flag an article, copy or expand the article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-secondary-actions.png)
 
 Select back to go back to the recommended cards list.
 
@@ -69,9 +69,9 @@ Select **Attach and add link in comment** to compose a comment and **Post commen
 
 </td><td>
 
-Select secondary actions from the More actions menu \(![Displays secondary actions such as copying a link or flagging an article](../image/more_vertical_icon.png)
+Select secondary actions from the More actions menu \(![Displays secondary actions such as copying a link or flagging an article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/more_vertical_icon.png)
 
- ![More actions enables the user to read the article, attach and add a link in email, add a link in a work note, or copy a link](../image/ra-secondary-actions2.png)
+ ![More actions enables the user to read the article, attach and add a link in email, add a link in a work note, or copy a link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-secondary-actions2.png)
 
 **Note:** The primary and secondary actions are configurable.
 
@@ -140,7 +140,7 @@ You can read the description of the recommendation and use the recommended value
 
 AI search enables you to search for the relevant resources to resolve cases or customer issues. Depending on the AI search configuration, the AI search tab displays search results, genius result answers, or both. AI search results appear in the form of guidances that you can act on. Genius result answers are the most relevant answers or the top results for the search query along with the action that you can take directly from the card.
 
-![AI search cards in the contextual side panel with genius and search results.](../image/ra-ai-search.png "AI search cards in a workspace")
+![AI search cards in the contextual side panel with genius and search results.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ra-ai-search.png "AI search cards in a workspace")
 
 <table id="table_vj1_qqm_xyb"><thead><tr><th>
 

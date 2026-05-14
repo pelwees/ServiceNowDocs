@@ -36,5 +36,5 @@ Role required: none
 6.  To view people who are following you, navigate to **People** &gt; **Followers**.
 
 
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedUIOverview.md)
 

@@ -19,7 +19,7 @@ Major issue management introduces the concept of a major case which contains the
 
 Identify affected customers by creating a recipients list of accounts or consumers and attaching it to the major case. Create this list using the Targeted Communications application. Build a recipients list by identifying dynamic conditions, running a script, or importing customer information into a template. Once attached to a major case, use the recipients list to create a child case for each customer included in the list.
 
-Install the [Major issue management](major-issue-management-application.md) application from the ServiceNow® Store.
+Install the [Major issue management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-management-application.md) application from the ServiceNow® Store.
 
 A major case is created in one of two ways:
 

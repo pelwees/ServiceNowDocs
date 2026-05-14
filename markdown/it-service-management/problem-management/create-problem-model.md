@@ -17,7 +17,7 @@ Create custom Problem Management models with states and transitions tailored to 
 
 ## Before you begin
 
-See considerations for enabling Problem Management models at [Problem Management models](../concept/problem-mgmt-models.md).
+See considerations for enabling Problem Management models at [Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/problem-mgmt-models.md).
 
 Role required: admin
 
@@ -34,9 +34,9 @@ Role required: admin
 
     2.  On the Problem Model form, fill in the fields.
 
-        For more information, see [Problem model form](../reference/problem-model-form.md).
+        For more information, see [Problem model form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/problem-model-form.md).
 
-2.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](../../change-management/image/form-context-menu.png)\).
+2.  Choose the states for your custom model by selecting **Save** from the form context menu icon \(![Form context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../change-management/image/form-context-menu.png)\).
 
     1.  From the Model States context menu that appears, select **New**.
 
@@ -49,7 +49,7 @@ Role required: admin
 
     3.  Select **Submit** for each state you choose.
 
-3.  Apply a transition to each model state by selecting the display/hide hierarchical lists icon \(![Display/hide hierarchical lists icon.](../../change-management/image/display-hide-hierarchial-lists.png)\).
+3.  Apply a transition to each model state by selecting the display/hide hierarchical lists icon \(![Display/hide hierarchical lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../../change-management/image/display-hide-hierarchial-lists.png)\).
 
     1.  From the Model State Transitions context menu, select **New**.
 
@@ -69,7 +69,7 @@ Role required: admin
 
     2.  On the Model State Transition Condition form, fill in the fields.
 
-        For more information, see [Problem Management model state transition condition form](../reference/problem-model-state-transition-condition.md).
+        For more information, see [Problem Management model state transition condition form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../reference/problem-model-state-transition-condition.md).
 
     3.  Select **Submit** for each transition condition you add.
 
@@ -78,9 +78,9 @@ Role required: admin
 
 If you selected the **Default problem model** option in the Problem Model form, your custom problem model is used when new problems are created.
 
-**Parent Topic:**[Configuring Problem Management](../concept/configuring-problem-mgmt.md)
+**Parent Topic:**[Configuring Problem Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../concept/configuring-problem-mgmt.md)
 
-**Previous topic:**[Enable Problem Management models](enable-problem-mgmt-models.md)
+**Previous topic:**[Enable Problem Management models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/enable-problem-mgmt-models.md)
 
-**Next topic:**[Create a problem task model](create-problem-task-model.md)
+**Next topic:**[Create a problem task model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem-task-model.md)
 

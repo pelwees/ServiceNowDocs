@@ -23,12 +23,12 @@ If the Shazzam probe scans a host that is alive but not active, and if credentia
 
 <table id="table_lbt_4ng_5bb"><tbody><tr><td>
 
-The system creates these entries in the ECC queue during execution of the HorizontalDiscoveryProbe. ![ECC Queue entries created during execution of the HorizontalDiscoveryProbe](../image/ECCQueueCredential-lessDisco.png "Credential-less Discovery")
+The system creates these entries in the ECC queue during execution of the HorizontalDiscoveryProbe. ![ECC Queue entries created during execution of the HorizontalDiscoveryProbe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/ECCQueueCredential-lessDisco.png "Credential-less Discovery")
 
 </td></tr></tbody>
 </table><table id="table_als_h4g_5bb"><tbody><tr><td>
 
-These log messages are published during execution of the HorizontalDiscoveryProbe.![Log messages during execution of the HorizontalDiscoveryProbe](../image/Credential-lessHostIdentifier.png "Credential-less host identifier")
+These log messages are published during execution of the HorizontalDiscoveryProbe.![Log messages during execution of the HorizontalDiscoveryProbe](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/Credential-lessHostIdentifier.png "Credential-less host identifier")
 
 </td></tr></tbody>
 </table>## The Nmap command
@@ -37,7 +37,7 @@ The Nmap command executed on the MID Server determines if the host is up. Using 
 
 **Note:** The list of ports that Nmap is configured to scan during credential-less host Discovery is stored in the IP Service \[cmdb\_ip\_service\] table, which is editable. By default, all ports are available for scanning. To block the use of any port for an Nmap scan, set the value in the **Credentialless Discovery \[cl\_discovery\]** column to **false**.
 
-![Configurable list of ports for credential-less Discovery](../image/Credential-lessPortList.png "Credential-less port list")
+![Configurable list of ports for credential-less Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/Credential-lessPortList.png "Credential-less port list")
 
 ## Creating or updating host CIs
 
@@ -59,7 +59,7 @@ After successful execution of the Credentialless Discovery Network Device patter
 
 The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifier to the Hardware Rule for the Hardware \[cmdb\_ci\_hardware\] base table that matches on the host CI **name** for Nmap scans. The Hardware Rule is used by both credential-based and credential-less Discovery.
 
-![Hardware rule identifier for Credential-less Discovery](../image/Credential-lessHardwareRule.png "Credential-less hardware rule")
+![Hardware rule identifier for Credential-less Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/Credential-lessHardwareRule.png "Credential-less hardware rule")
 
-**Parent Topic:**[Credential-less Discovery with Nmap](../concept/nmap-credential-less-discovery.md)
+**Parent Topic:**[Credential-less Discovery with Nmap](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/nmap-credential-less-discovery.md)
 

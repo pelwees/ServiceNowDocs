@@ -19,5 +19,5 @@ Customers can message the phone number to speak to an agent and resolve their qu
 
 A live agent can accept SMS conversations as a work item from their Agent Workspace inbox and can converse with the customer through a series of text messages. A live agent can also share knowledge articles as a link, share any URLs, or even add images as attachments.
 
-**Parent Topic:**[Conversational SMS Integration with AWS End User Messaging](conversational-sms-integration-amazon.md)
+**Parent Topic:**[Conversational SMS Integration with AWS End User Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversational-sms-integration-amazon.md)
 

@@ -37,7 +37,7 @@ You need to navigate to the security incidents you want to add to existing cases
 
     The **Add to Security Case** dialog box opens and displays the cases assigned to you.
 
-    ![Add a security incident to an existing case](../image/add-sec-inc-to-existing-case.png)
+    ![Add a security incident to an existing case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-sec-inc-to-existing-case.png)
 
 4.  Select the cases into which you want to add the selected security incidents.
 
@@ -46,10 +46,10 @@ You need to navigate to the security incidents you want to add to existing cases
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[Security incidents in cases](../concept/case-in-sir.md)
+**Parent Topic:**[Security incidents in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/case-in-sir.md)
 
 **Related topics**  
 
 
-[Create a case from security incidents](create-cases-from-security-incidents.md)
+[Create a case from security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/create-cases-from-security-incidents.md)
 

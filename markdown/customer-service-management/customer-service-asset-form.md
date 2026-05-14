@@ -178,7 +178,7 @@ Location
 
 Current physical location of the asset.**Note:** You can set the location to a place, floor, building, or campus. When you set the location to any of the options except the campus, the Location hierarchy section is shown on the asset form. The location hierarchy shows the hierarchical relationship between the specified location and its parent locations.
 
-Also, when you set the Location field to a place and then set the **sn\_itam\_common.sn\_enable\_indoormap\_for\_assets** system parameter to **true** on your ServiceNow instance, a real-time location map of the asset is shown on the asset form. The Location map doesn’t appear by default. To view the map, select the Location map \(![asset indoor location con](../image/asset-indoor-location-icon.png)\) icon on the contextual sidebar of the asset record.
+Also, when you set the Location field to a place and then set the **sn\_itam\_common.sn\_enable\_indoormap\_for\_assets** system parameter to **true** on your ServiceNow instance, a real-time location map of the asset is shown on the asset form. The Location map doesn’t appear by default. To view the map, select the Location map \(![asset indoor location con](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/asset-indoor-location-icon.png)\) icon on the contextual sidebar of the asset record.
 
 Location map doesn’t appear for excluded assets.
 

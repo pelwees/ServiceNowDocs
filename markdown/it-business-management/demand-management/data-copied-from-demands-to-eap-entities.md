@@ -94,5 +94,5 @@ Goal/target relationships
 Goal/target relationships of the demand.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data migrated from demands to artifacts](data-copied-from-demands-to-artifacts.md)
+</table>**Parent Topic:**[Data migrated from demands to artifacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/data-copied-from-demands-to-artifacts.md)
 

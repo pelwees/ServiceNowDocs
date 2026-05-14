@@ -20,18 +20,18 @@ Install and activate the plugins, turn on the Now Assist panel, and view the acc
 
 The following example shows the Settings page with four available plugins to install, including Now Assist for HRSD and Now Assist for Creator.
 
-![Now Assist settings page that lets you install plugins, activate the Now Assist panel, and view account details.](../image/config-now-assist-1.png "Now Assist Admin settings page")
+![Now Assist settings page that lets you install plugins, activate the Now Assist panel, and view account details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/config-now-assist-1.png "Now Assist Admin settings page")
 
--   **[Install Now Assist plugins](../task/install-now-assist-feature-plugins.md)**  
+-   **[Install Now Assist plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/install-now-assist-feature-plugins.md)**  
 Install Now Assist plugins to enable generative AI on your instance.
--   **[Activate the Now Assist panel standard chat](../task/activate-now-assist-panel.md)**  
+-   **[Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/activate-now-assist-panel.md)**  
 Activate the Now Assist panel standard chat to enable your agents to use Now Assist skills, such as task summarization or navigation, in a side panel on the user interface.
--   **[Activate Now Assist panel enhanced chat](../../now-assist-platform/task/now-assist-panel-enhanced-activate.md)**  
+-   **[Activate Now Assist panel enhanced chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/task/now-assist-panel-enhanced-activate.md)**  
 Activate the Now Assist panel enhanced chat to enable your agents to use Now Assist skills, such as task summarization or navigation, in a side panel on the user interface.
--   **[Activate Now Assist panel assistants](../../now-assist-platform/task/now-assist-panel-activate-assistant.md)**  
+-   **[Activate Now Assist panel assistants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/task/now-assist-panel-activate-assistant.md)**  
 You must activate Now Assist panel assistants before using them.
--   **[Enable voice input for Now Assist panel](../task/enable-voice-input-for-now-assist-panel.md)**  
+-   **[Enable voice input for Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/enable-voice-input-for-now-assist-panel.md)**  
 Give users the option to use their voice when interacting with the Now Assist panel to make the panel more accessible. Voice input enables you to use the panel without needing to use a keyboard.
 
-**Parent Topic:**[Now Assist](../../now-assist-platform/concept/platform-now-assist-landing.md)
+**Parent Topic:**[Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/platform-now-assist-landing.md)
 

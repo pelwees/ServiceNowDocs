@@ -29,6 +29,6 @@ Role required: sn\_dex.admin
 
 4.  Select **Update**.
 
-    For more information about Proactive Engagement, see the [Proactive Engagement documentation](../../proactive-engagement/proactive-engagement-landing-page.md).
+    For more information about Proactive Engagement, see the [Proactive Engagement documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../../proactive-engagement/proactive-engagement-landing-page.md).
 
 

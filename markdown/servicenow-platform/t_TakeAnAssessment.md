@@ -41,7 +41,7 @@ By default, you can't modify your answers to an assessment after submission. How
 
 3.  Click the card to open the questionnaire.
 
-    Assessment questionnaires are arranged in sections: first by record, then by category. Each record appears as a section title. Questions for the record appear underneath the record, grouped by category. Each category appears as a subsection underneath the record name. Click the collapse icon \(![Collapse icon](../images/CollapseIcon.png)\) or expand icon \(![Expand icon](../images/ExpandIcon.png)\) to hide or show the questions in a category, or all the categories and questions for a record. Colored bars indicate the status of each question.
+    Assessment questionnaires are arranged in sections: first by record, then by category. Each record appears as a section title. Questions for the record appear underneath the record, grouped by category. Each category appears as a subsection underneath the record name. Click the collapse icon \(![Collapse icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/CollapseIcon.png)\) or expand icon \(![Expand icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/ExpandIcon.png)\) to hide or show the questions in a category, or all the categories and questions for a record. Colored bars indicate the status of each question.
 
 4.  Answer each question to the best of your ability.
 
@@ -66,17 +66,17 @@ By default, you can't modify your answers to an assessment after submission. How
     To update your answers and resubmit an assessment that permits retakes, click the card to modify it.
 
 
--   **[Assessments in Service Portal and the Now Mobile app](../concept/assessment-service-portal-and-now-mobile-app.md)**  
+-   **[Assessments in Service Portal and the Now Mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/assessment-service-portal-and-now-mobile-app.md)**  
 If you've installed Service Portal, you can use the My Assessments and Surveys widget in Service Portal. Users can view and take assessments in Service Portal. Service Portal also supports assessments for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
--   **[Assessment questionnaires](../concept/c_AssessmentQuestionnaires.md)**  
+-   **[Assessment questionnaires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentQuestionnaires.md)**  
 In the assessment process, users complete assessment questionnaires on topics of interest to provide subjective data for future business decisions.
 
-**Parent Topic:**[Using assessments](../concept/using-assessments.md)
+**Parent Topic:**[Using assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/using-assessments.md)
 
 **Related topics**  
 
 
-[Metric types and assessable records](../concept/c_MetricTypesAndAssessableRecords.md)
+[Metric types and assessable records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_MetricTypesAndAssessableRecords.md)
 
-[Survey definitions](../../survey-administration/concept/c_SurveyDefinitions.md)
+[Survey definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/concept/c_SurveyDefinitions.md)
 

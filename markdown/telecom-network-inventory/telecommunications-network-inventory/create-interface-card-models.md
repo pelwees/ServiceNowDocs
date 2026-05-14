@@ -27,7 +27,7 @@ A card model defines the card's metadata, which are the attributes that are cons
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Card Models**.
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\), and then go to **Inventory Models** &gt; **Card Models**.
 
 3.  Select **New**.
 
@@ -55,7 +55,7 @@ Manufacturer
 
 </td><td>
 
-Name of the network asset's manufacturer. Select the search icon \(![Search icon.](../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](add-company-designate-manufacturer-tni.md).
+Name of the network asset's manufacturer. Select the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/search.png)\) and select a manufacturer code. To learn more, see [Create manufacturer and vendor codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-company-designate-manufacturer-tni.md).
 
 </td></tr><tr><td>
 
@@ -68,11 +68,11 @@ Name of the card model. The ServiceNow AI Platform uses this name to identify it
 </td></tr></tbody>
 </table>5.  On the **Details** tab, fill in the General section.
 
-    **Note:** To learn more about the fields, see [Inventory Model form - General](../reference/tni-model-form-general.md).
+    **Note:** To learn more about the fields, see [Inventory Model form - General](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-model-form-general.md).
 
 6.  On the **Details** tab, fill in the Information section.
 
-    **Note:** To learn more about the fields, see [Inventory Model form - Information](../reference/tni-model-form-information.md).
+    **Note:** To learn more about the fields, see [Inventory Model form - Information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/tni-model-form-information.md).
 
 7.  To add the compatible card models, select **Add Compatible**.
 
@@ -86,19 +86,19 @@ Name of the card model. The ServiceNow AI Platform uses this name to identify it
 
     **Note:** In the classic environment, this function is available only for administrators.
 
-9.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](../image/attachments-icon.png)\) in the right panel.
+9.  To add the attachments, such as graphics or documents, select the attachment icon \(![Attachment icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/attachments-icon.png)\) in the right panel.
 
 10. Select **Save**.
 
-    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](../reference/additional-tabs-of-inventory-models.md).
+    The related tabs appear on the form. You can view or modify the tabs information. To learn more about the related tabs, see [Inventory models additional tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/additional-tabs-of-inventory-models.md).
 
-11. To delete a model, select the options icon \(![Options icon.](../image/options-icon.png)\) next to the **Save** button, and click **Delete**.
+11. To delete a model, select the options icon \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/options-icon.png)\) next to the **Save** button, and click **Delete**.
 
 
-**Parent Topic:**[Create inventory models](../concept/creating-your-inventory-models.md)
+**Parent Topic:**[Create inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/creating-your-inventory-models.md)
 
 **Related topics**  
 
 
-[Network inventory models](../concept/using-inventory-models-tni.md)
+[Network inventory models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-inventory-models-tni.md)
 

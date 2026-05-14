@@ -26,7 +26,7 @@ The Recommended Actions application includes one context record, case context, t
 
 ## Apply rules to tables extended from the context table
 
-A rule created in the parent context is inherited by the extended context when you select the [Apply to tables extended from the context table](ra-csm-rules.md#apply-context-extended-table) check box in a rule. The rules inherited from the parent context appear in the Inherited Rules related list of the extended context. Therefore, the recommendations of these rules are passed on to the extended context. Along with the recommendations of the context table, the recommendations of the active rules from the parent context are inherited by the extended context.
+A rule created in the parent context is inherited by the extended context when you select the [Apply to tables extended from the context table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md#apply-context-extended-table) check box in a rule. The rules inherited from the parent context appear in the Inherited Rules related list of the extended context. Therefore, the recommendations of these rules are passed on to the extended context. Along with the recommendations of the context table, the recommendations of the active rules from the parent context are inherited by the extended context.
 
 ## Rule form
 
@@ -34,7 +34,7 @@ The Rule form provides information about the rule, including a description, the 
 
 When you create a rule, provide this information and save the record. After saving, you can see the Recommendations related list.
 
-You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [Create a rule](../task/ra-csm-rules-create.md).
+You can access the rule records by navigating to **All** &gt; **Recommended Actions** &gt; **Rules**. New rules can only be created from within a context. For more information, see [Create a rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/ra-csm-rules-create.md).
 
 <table id="table_urf_5cf_ztb"><thead><tr><th>
 
@@ -120,5 +120,5 @@ Determines the order in which the rule is applied.
 </table>**Related topics**  
 
 
-[Create a rule in Recommended Actions](../task/ra-csm-rules-create.md)
+[Create a rule in Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/ra-csm-rules-create.md)
 

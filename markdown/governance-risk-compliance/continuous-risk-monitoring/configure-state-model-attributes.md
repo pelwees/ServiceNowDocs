@@ -41,7 +41,7 @@ In addition, you get the following UI page attributes:
 -   Required Overlay Page: Displays the Overlays UI page
 -   Required Authorization Documents Page: Displays the Authorization Documents page
 
-**Note:** To configure state model attributes with the CAM specific attributes, perform the tasks in this topic. To create a new state model attribute, see [Create a new state model attribute](configure-new-state-model-attributes.md).
+**Note:** To configure state model attributes with the CAM specific attributes, perform the tasks in this topic. To create a new state model attribute, see [Create a new state model attribute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md).
 
 Role required: sn\_irm\_cont\_auth.admin
 

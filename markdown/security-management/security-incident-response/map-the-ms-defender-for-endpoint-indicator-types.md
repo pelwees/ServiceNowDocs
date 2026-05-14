@@ -27,7 +27,7 @@ In a scenario where the observable type is not mapped to an indicator type, such
 
 1.  Navigate to **Microsoft Defender for Endpoint** &gt; **Observable-Indicator Mapping**.
 
-    ![Map the Microsoft Defender for Endpoint indicator types](../image/observable_indicator_mapping.png "Observable-Indicator Mapping")
+    ![Map the Microsoft Defender for Endpoint indicator types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/observable_indicator_mapping.png "Observable-Indicator Mapping")
 
 2.  Add or update an Observable type in one of the following ways:
 

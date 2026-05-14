@@ -25,7 +25,7 @@ Demo data is available for this feature.
 -   Improvement Coordinator \[sn\_cim.improvement\_coordinator\]
 -   Improvement Manager \[sn\_cim.improvement\_manager\]
 
-For more information about the inherited roles and functions that users with different CIM roles can perform, see [Continual Improvement Management roles](cim-roles.md).
+For more information about the inherited roles and functions that users with different CIM roles can perform, see [Continual Improvement Management roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-roles.md).
 
 ## Scheduled jobs
 
@@ -138,5 +138,5 @@ Enable the property to create the default phase when an improvement initiative i
 -   Default value: No
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Continual Improvement Management reference](cim-reference.md)
+</table>**Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 

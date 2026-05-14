@@ -35,20 +35,20 @@ There's no option to compare versions for new, cloned, or base system widgets.
 
     Customized widgets are outlined in red.
 
-4.  On a customized widget, click the information icon \(![Information icon](../image/info-icon.png)\).
+4.  On a customized widget, click the information icon \(![Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/info-icon.png)\).
 
 5.  On the window, click **Compare with previous version**.
 
     The system displays the widget records of the current and previous widget versions side by side.
 
-    ![Comparison between current and previous versions of widget](../image/compare-versions.png)
+    ![Comparison between current and previous versions of widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/compare-versions.png)
 
     Although both widget records are labeled **Version**, the left-side record represents the previous version and the right-side record represents the current version.
 
-6.  For each field in which it appears, click the window icon \(![Window icon](../image/pop-out-icon.png)\) to open the code comparator.
+6.  For each field in which it appears, click the window icon \(![Window icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/pop-out-icon.png)\) to open the code comparator.
 
     Your most recent changes to the widget code are highlighted in the code comparator.
 
-    ![Code comparator](../image/code-comparator.png)
+    ![Code comparator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/code-comparator.png)
 
 

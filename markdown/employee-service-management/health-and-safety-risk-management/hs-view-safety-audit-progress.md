@@ -23,13 +23,13 @@ Role required: sn\_hs\_rm.safety\_audit\_manager or sn\_hs\_rm.safety\_audit\_wr
 
 The **Overview** tab provides a quick and real-time visual summary of audit progress. It shows objective completion on a timeline, the distribution of objectives, items for review, and findings by state, and an overall compliance rating for the audit.
 
-![Overview tab showing the audit progress via Audit timeline, Objectives, Items for review, and Compliance cards.](../image/hs-audit-overview.png "Audit overview")
+![Overview tab showing the audit progress via Audit timeline, Objectives, Items for review, and Compliance cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/hs-audit-overview.png "Audit overview")
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  In the **Audits** list, select **All** and open the audit record.
 
@@ -95,5 +95,5 @@ Percentage of audit compliance ratings based on findings. -   The percentage ins
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create and manage a safety audit](hs-create-manage-safety-audit-workspace.md)
+**Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 

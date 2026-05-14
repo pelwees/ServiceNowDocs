@@ -28,7 +28,7 @@ Use this reference to find which values to use to translate your mobile elements
 |UI parameter name|sys\_sg\_ui\_parameter|name|
 |UI parameter placeholder text|sys\_sg\_ui\_parameter|placeholder|
 
-This example shows a translation record for an applet called **My Tasks** translated into Spanish.![Translation record example.](../image/mobile-translate-example.png)
+This example shows a translation record for an applet called **My Tasks** translated into Spanish.![Translation record example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-translate-example.png)
 
-**Parent Topic:**[Server-side localization](../concept/localization-server-side.md)
+**Parent Topic:**[Server-side localization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/localization-server-side.md)
 

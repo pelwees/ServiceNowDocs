@@ -60,7 +60,7 @@ Template
 
 </td><td>
 
-If you selected the **Inherit from template** check box, select the template you want to use to fill in the form. After you have selected a template, the rest of the fields in the Create New Indicator screen are pre-filled and set to Read-only. For more information, see [Create a GRC indicator template using the Compliance Workspace](create-grc-indicator-template-ws.md).
+If you selected the **Inherit from template** check box, select the template you want to use to fill in the form. After you have selected a template, the rest of the fields in the Create New Indicator screen are pre-filled and set to Read-only. For more information, see [Create a GRC indicator template using the Compliance Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-grc-indicator-template-ws.md).
 
 </td></tr><tr><td>
 
@@ -247,5 +247,5 @@ Supporting data fields based on the selected table.
 
 ## What to do next
 
-If you are implementing the [Policy and Compliance Management](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, you have completed the mandatory setup steps. Return to the [Policy and Compliance Management setup checklist](../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the optional steps, as needed.
+If you are implementing the [Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) software, you have completed the mandatory setup steps. Return to the [Policy and Compliance Management setup checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/../../grc-policy-compliance-implementation/task/policy-compliance-impl-checklist.md) and proceed to the optional steps, as needed.
 

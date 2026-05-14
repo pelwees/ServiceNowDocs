@@ -18,19 +18,19 @@ Use the Now Assist for RPA Hub application to transform your automation developm
 
 <table id="table_axm_pfv_sdc" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for RPA Hub](explore-now-assist-rpa-hub.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for RPA Hub](explore-now-assist-rpa-hub.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Now Assist for RPA Hub](../task/configure-now-assist-rpa-hub.md) application to get started
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up the Now Assist for RPA Hub](../task/configure-now-assist-rpa-hub.md) application to get started
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-workflow.svg)Create automations, activities, and automation logic with generative AI](use-now-assist-rpa-hub.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-workflow.svg)Create automations, activities, and automation logic with generative AI](use-now-assist-rpa-hub.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the limitations of the Robotic Process Automation \(RPA\) bot generation skill](now-assist-rpa-hub-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-learn.svg)Learn about the limitations of the Robotic Process Automation \(RPA\) bot generation skill](now-assist-rpa-hub-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

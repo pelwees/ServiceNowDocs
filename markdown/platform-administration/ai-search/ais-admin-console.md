@@ -24,7 +24,7 @@ The AI Search Admin console is a central hub for managing and monitoring AI Sear
 
 The following example shows the AI Search Admin console home page.
 
-![AI Search Admin console home page. For the text description, refer to the following text.](../image/ais-admin-console-overview.png "AI Search Admin console home page")
+![AI Search Admin console home page. For the text description, refer to the following text.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../image/ais-admin-console-overview.png "AI Search Admin console home page")
 
 The home page has the following sections that help search administrators understand how AI Search works and how to manage it by using the AI Search Admin console:
 
@@ -45,7 +45,7 @@ The home page has the following sections that help search administrators underst
     Discover and install applications and plugins to expand the AI Search capabilities in your search application.
 
 
-For more information about the home page and its controls, see [AI Search Admin console Home page](../reference/ais-admin-console-home.md).
+For more information about the home page and its controls, see [AI Search Admin console Home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../reference/ais-admin-console-home.md).
 
 ## AI Search Admin console benefits
 

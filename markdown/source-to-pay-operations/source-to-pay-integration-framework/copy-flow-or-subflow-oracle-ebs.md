@@ -31,7 +31,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
     **Important:** Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the Create or update purchase order flow](../../source-to-pay-operations/image/oracle-ebs-create-po-flow.png "Create or update purchase order flow")
+    ![Overview of the Create or update purchase order flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-create-po-flow.png "Create or update purchase order flow")
 
 5.  Activate the flow or subflow.
 
@@ -46,19 +46,19 @@ Role required: sn\_fcms\_intg.integration\_user
     -   **Status** is **Pending Submission**
     **Note:** Do not modify the trigger condition.
 
-    ![Trigger conditions for create purchase order](../../source-to-pay-operations/image/oracle-ebs-create-po.png)
+    ![Trigger conditions for create purchase order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-create-po.png)
 
-    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](../concept/s2p-transform-maps-flows.md)
+    **Note:** Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Source-to-Pay integration framework transform maps and subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/s2p-transform-maps-flows.md)
 
     You have successfully copied and executed the flow.
 
 
-**Parent Topic:**[Use schedule flows in Oracle EBS](../concept/using-schedule-flows-oracle-ebs.md)
+**Parent Topic:**[Use schedule flows in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-schedule-flows-oracle-ebs.md)
 
 **Related topics**  
 
 
-[Manually trigger flows or subflows in Oracle EBS \(Inbound\)](manually-trigger-subflows-oracle-ebs.md)
+[Manually trigger flows or subflows in Oracle EBS \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-oracle-ebs.md)
 
-[Use a flow or subflow in Oracle EBS \(Outbound\)](use-flow-or-subflow-oracle-ebs.md)
+[Use a flow or subflow in Oracle EBS \(Outbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-oracle-ebs.md)
 

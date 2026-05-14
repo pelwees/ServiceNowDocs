@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Under Agentic workflows, select **Conversational intake for sourcing and procurement**.
 
-    ![Conversational intake for sourcing and procurement agentic workflow.](../image/agentic-spo-wf.png)
+    ![Conversational intake for sourcing and procurement agentic workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-spo-wf.png)
 
 3.  Under Connect AI agents, select any of the AI agents that you want to make available in Virtual Agent.
 
@@ -37,7 +37,7 @@ Role required: admin
     -   Procurement inquiry analysis AI agent
     For example, let's assume that you select the Product recommendation and procurement agent.
 
-    ![AI agents that you can select to enable.](../image/agentic-connect-ai.png)
+    ![AI agents that you can select to enable.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-connect-ai.png)
 
 4.  On the Describe and instruct page, select **Continue**.
 
@@ -57,23 +57,23 @@ Role required: admin
 
 8.  On the Define availability page, in the **Select display** section, switch the Display toggle to the open position so that the AI agent is enabled in the Virtual Agent.
 
-    ![Enable the selected AI agent in Virtual Agent.](../image/agentic-prod-agent.png)
+    ![Enable the selected AI agent in Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/agentic-prod-agent.png)
 
 9.  To activate the agentic workflow, select **Save and test**.
 
     The selected AI agent is enabled in Virtual Agent.
 
 
-**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](../concept/agentic-ai-now-assist-spo.md)
+**Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/agentic-ai-now-assist-spo.md)
 
 **Related topics**  
 
 
-[Conversational intake for sourcing and procurement agentic workflow](../concept/spo-help-fulfill-pr-agentic.md)
+[Conversational intake for sourcing and procurement agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/spo-help-fulfill-pr-agentic.md)
 
-[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](activate-fulfill-pr-agentic-workflow.md)
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-fulfill-pr-agentic-workflow.md)
 
-[Submit a purchase request using the Now Assist AI agent](request-product-ai-agents.md)
+[Submit a purchase request using the Now Assist AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-product-ai-agents.md)
 
-[Update the product category or spend category in the Now Assist panel](update-product-spend-category.md)
+[Update the product category or spend category in the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/update-product-spend-category.md)
 

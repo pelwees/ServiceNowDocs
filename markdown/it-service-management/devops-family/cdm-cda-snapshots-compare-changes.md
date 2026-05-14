@@ -25,7 +25,7 @@ Role required: cdm\_viewer, cdm\_editor, or cdm\_admin
 
 ## About this task
 
-To compare snapshots from different deployables or applications, see [Compare snapshots from the same or different applications](cdm-cda-snapshots-compare.md).
+To compare snapshots from different deployables or applications, see [Compare snapshots from the same or different applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-cda-snapshots-compare.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ To compare snapshots from different deployables or applications, see [Compare sn
 
     The current snapshot is auto-populated in the **Target snapshot** field.
 
-    ![Compare config data tab for comparing application snapshots.](../image/cdm-snapshot-compare-change.png)
+    ![Compare config data tab for comparing application snapshots.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-compare-change.png)
 
 4.  Select another snapshot in the **Reference snapshot** field.
 
@@ -53,7 +53,7 @@ To compare snapshots from different deployables or applications, see [Compare sn
 
     The following image displays the Config data changes section that contains the comparison result that you can use to analyze the data.
 
-    ![The Configuration data changes section, which includes a navigation panel and a changes panel, displays the comparison result.](../image/cdm-snapshot-compare-change-result.png)
+    ![The Configuration data changes section, which includes a navigation panel and a changes panel, displays the comparison result.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-snapshot-compare-change-result.png)
 
     -   **A: Navigation panel**
 
@@ -68,7 +68,7 @@ To compare snapshots from different deployables or applications, see [Compare sn
         The panel displays a list of changes to individual CDIs for the node that is selected in the navigation panel.
 
         -   By default, the root node is selected and the data panel includes all CDIs for both snapshots. Select a node in the navigation panel to display data for only that node and its descendents.
-        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](../image/cdm-icon-expand.png)\) to view CDIs in a folder.
+        -   Node paths are displayed in gray. Use the expansion icon \(![expansion icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-icon-expand.png)\) to view CDIs in a folder.
         -   When **Changes only** is selected, the number of CDIs that have changes appears after the node path.
         -   When **Script view** is selected, the list view toggles to editor view.
 <table id="table_znm_bcc_yvb"><thead><tr><th>

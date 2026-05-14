@@ -37,9 +37,9 @@ Role required: admin
 
     1.  Click to display the **What to Send** tab.
 
-    2.  Click the lock icon \(![Lock icon](../image/lock-icon.png)\) next to the **Push Messages** field.
+    2.  Click the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/lock-icon.png)\) next to the **Push Messages** field.
 
-    3.  Click the reference icon \(![Reference icon](../image/reference-lookup-icon.png)\) to display the **Push Notification Messages** list.
+    3.  Click the reference icon \(![Reference icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) to display the **Push Notification Messages** list.
 
     4.  Click **New**.
 
@@ -59,5 +59,5 @@ Role required: admin
 5.  In the **Notification** form, click **Update**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/actionable-push-notification.md)
 

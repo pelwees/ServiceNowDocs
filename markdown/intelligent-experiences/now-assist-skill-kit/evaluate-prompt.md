@@ -70,7 +70,7 @@ Create a dataset from a data collection
 
 
 </td></tr></tbody>
-</table>6.  Select the add icon ![add icon](../image/icon-nask-add.png) for **Evaluation Runs**.
+</table>6.  Select the add icon ![add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/icon-nask-add.png) for **Evaluation Runs**.
 
 7.  Give the evaluation run a name and description.
 
@@ -107,27 +107,27 @@ Create a dataset from a data collection
 
     3.  Expand the prompt and read the result.
 
-    4.  Select the thumbs up or thumbs down icon ![human evaluation thumbs up or thumbs down icon](../image/icon-nask-thumbs.png) to give your evaluation.
+    4.  Select the thumbs up or thumbs down icon ![human evaluation thumbs up or thumbs down icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../image/icon-nask-thumbs.png) to give your evaluation.
 
     5.  Add more information and select **Submit**.
 
 
-**Parent Topic:**[Using Now Assist Skill Kit](../concept/using-now-assist-skill-kit.md)
+**Parent Topic:**[Using Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/../concept/using-now-assist-skill-kit.md)
 
 **Related topics**  
 
 
-[Create a skill](create-new-skill.md)
+[Create a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
-[Create a prompt](create-prompt-template.md)
+[Create a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-prompt-template.md)
 
-[Use prompt assistance](use-prompt-assistance.md)
+[Use prompt assistance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/use-prompt-assistance.md)
 
-[Test a prompt](test-prompt-template.md)
+[Test a prompt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/test-prompt-template.md)
 
-[Finalize and publish a skill](publish-skill.md)
+[Finalize and publish a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/publish-skill.md)
 
-[Activate a skill](activate-skill.md)
+[Activate a skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md)
 
-[Call a custom skill from a script](call-custom-skill-from-script.md)
+[Call a custom skill from a script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/call-custom-skill-from-script.md)
 

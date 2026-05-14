@@ -31,31 +31,31 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
     The **Performance** tab displays the overall score and risk profile of the supplier. You can also view the performance domain-wise KPI scores of the supplier.
 
-    **Note:** From the March 2026 Australia release, all scores are calculated up to three decimal places. To implement this change, [Run fix script to update the KPI weighted score field in the KPI score table](run-fixscript-update-kpi-weighted-score.md).
+    **Note:** From the March 2026 Australia release, all scores are calculated up to three decimal places. To implement this change, [Run fix script to update the KPI weighted score field in the KPI score table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-weighted-score.md).
 
     All the KPIs are grouped by the performance domain set in the KPI template that they were created from.
 
-    ![Supplier performance dashboard](../image/kpi-dashboard.png "Performance tab")
+    ![Supplier performance dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/kpi-dashboard.png "Performance tab")
 
 
 ## Result
 
 The supplier performance dashboard is displayed with information on the latest scores of the supplier.
 
-**Parent Topic:**[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+**Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
 **Related topics**  
 
 
-[Using Supplier Relationship and Performance Management](../concept/using-supplier-relationship-and-performance-management.md)
+[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/using-supplier-relationship-and-performance-management.md)
 
-[Run segmentation rule](run-segmentation-rule.md)
+[Run segmentation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-segmentation-rule.md)
 
-[Complete a KPI collection task from the Source-to-Pay Workspace](complete-kpi-task-spw.md)
+[Complete a KPI collection task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-spw.md)
 
-[Complete a KPI collection task from the Supplier Collaboration Portal](complete-kpi-task-scp.md)
+[Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md)
 
-[View KPI data from the List page of the Source-to-Pay Workspace](view-kpi-data-slo.md)
+[View KPI data from the List page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-kpi-data-slo.md)
 
-[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](kpi-mgmt-tab-supplier.md)
+[Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md)
 

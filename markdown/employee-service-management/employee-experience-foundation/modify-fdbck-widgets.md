@@ -77,5 +77,5 @@ Presentation
 
 The In page feedback widget is customized according to your preference.
 
-**Parent Topic:**[Integrated service and experience feedback management](../concept/ex-fdbck-manage.md)
+**Parent Topic:**[Integrated service and experience feedback management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ex-fdbck-manage.md)
 

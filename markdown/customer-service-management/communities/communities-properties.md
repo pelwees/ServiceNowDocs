@@ -830,18 +830,18 @@ Enter the maximum number of times a user can post Social Q&amp;A questions per d
 -   Location: System Properties
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Communities references](communitie-references.md)
+</table>**Parent Topic:**[Communities references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communitie-references.md)
 
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
 
-[Communities roles](communities-roles.md)
+[Communities roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-roles.md)
 
-[Forum form fields](forum-form-fields.md)
+[Forum form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/forum-form-fields.md)
 
-[Video Configurations form fields](video-configurations-form-fields.md)
+[Video Configurations form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/video-configurations-form-fields.md)
 
-[Topic form fields](topic-form-fields.md)
+[Topic form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/topic-form-fields.md)
 

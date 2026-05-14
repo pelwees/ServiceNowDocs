@@ -117,5 +117,5 @@ User responsible for the PDR request.
 
 When the PDR agents generate tasks, based on the registry, the action tasks will be created for the various task owners.
 
-**Parent Topic:**[Configuring Personal Data Rights](../concept/configuring-personal-data-rights.md)
+**Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/configuring-personal-data-rights.md)
 

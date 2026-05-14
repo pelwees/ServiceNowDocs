@@ -17,12 +17,12 @@ The base system provides two preconfigured auto-delete rules that automatically 
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[Configure rules to manage findings](../task/sem-configure-rules-manage-findings.md)
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[Deleting stale findings automatically using auto-delete rules](sem-deleting-stale-findings-automatically.md)
+[Deleting stale findings automatically using auto-delete rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-deleting-stale-findings-automatically.md)
 
 ## Create or edit auto-delete rules
 
@@ -30,7 +30,7 @@ Create rules to delete findings and remediation tasks automatically based on spe
 
 ### Before you begin
 
-Role required: See [Access control lists \(ACLs\) for administration rules](sem-acls-for-admin-rules.md)
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 

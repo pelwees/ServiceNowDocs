@@ -216,5 +216,5 @@ answer =(eod.getTime()- now.getTime())/1000;
 workflow.debug('Timer will fire @: '+ eod +'  '+(answer/60)+' minutes from now');
 ```
 
-**Parent Topic:**[Timer workflow activities](../concept/c_TimerActivities.md)
+**Parent Topic:**[Timer workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-activities/../concept/c_TimerActivities.md)
 

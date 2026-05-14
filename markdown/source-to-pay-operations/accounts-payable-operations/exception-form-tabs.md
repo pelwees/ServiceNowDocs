@@ -53,7 +53,7 @@ Receipts
 
 </td><td>
 
-Goods receipts for all the purchase order lines of a purchase order. For more information, see [Receipts](../../sourcing-procurement-operations/reference/receipts.md).
+Goods receipts for all the purchase order lines of a purchase order. For more information, see [Receipts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/reference/receipts.md).
 
 </td></tr><tr><td>
 
@@ -79,14 +79,14 @@ Related tasks
 
 If Sourcing and Procurement Operations is installed, the following tasks are shown:
 
--   Receipt. For more information, see [Receipt tasks](../../sourcing-procurement-operations/reference/receipt-tasks.md).
--   Milestone. For more information, see [Milestones](../../sourcing-procurement-operations/reference/milestones.md).
--   Invoice acknowledgment. For more information, see [Invoice tasks](../../sourcing-procurement-operations/reference/invoice-tasks.md).
+-   Receipt. For more information, see [Receipt tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/reference/receipt-tasks.md).
+-   Milestone. For more information, see [Milestones](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/reference/milestones.md).
+-   Invoice acknowledgment. For more information, see [Invoice tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../sourcing-procurement-operations/reference/invoice-tasks.md).
 
  If Sourcing and Procurement Operations is not installed, only the Milestone task is shown.
 
 **Note:** This tab is shown only for an Insufficient Goods Receipt \(IGR\) exception.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Invoice exception form](exception-form-fields.md)
+</table>**Parent Topic:**[Invoice exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 

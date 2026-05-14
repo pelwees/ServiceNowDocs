@@ -27,7 +27,7 @@ Role required: sn\_itom\_ccg.governor
 
 3.  On the Policy form, fill in the fields.
 
-    For the description of the form fields, see [Cloud Configuration Governance Policy form](../reference/ccg-policy-form.md).
+    For the description of the form fields, see [Cloud Configuration Governance Policy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../reference/ccg-policy-form.md).
 
     Refer to one of the base system script-based policies as an example for creating the custom policy.
 
@@ -36,5 +36,5 @@ Role required: sn\_itom\_ccg.governor
 
 ## What to do next
 
-Test the policy to make sure that it is working properly. For more information, see [Test the policy](test-ccg-policy.md).
+Test the policy to make sure that it is working properly. For more information, see [Test the policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/test-ccg-policy.md).
 

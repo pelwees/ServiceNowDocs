@@ -18,27 +18,27 @@ Learn how to activate, use, and configure Multi-factor authentication \(MFA\).
 
 <table id="table_t4k_14f_ryb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)](explore-mfa.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-explore.svg)](explore-mfa.md)
 
- [Learn the features and business value of MFA.](explore-mfa.md)
+ [Learn the features and business value of MFA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-mfa.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](configure-mfa.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-sdlc.svg)](configure-mfa.md)
 
- [Understand how to Activate MFA.](configure-mfa.md)
+ [Understand how to Activate MFA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-mfa.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](mfa-use.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)](mfa-use.md)
 
- [Use MFA.](mfa-use.md)
+ [Use MFA.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-use.md)
 
 </td><td>
 
-[MFA with Single Sign-on \(SSO\)![](../../../reuse/icons/brand-icons/bus-learn.svg)](mfa-sso.md)
+[MFA with Single Sign-on \(SSO\)![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../../../reuse/icons/brand-icons/bus-learn.svg)](mfa-sso.md)
 
- [Know about how to configure MFA with Single Sign-on \(SSO\).](mfa-sso.md)
+ [Know about how to configure MFA with Single Sign-on \(SSO\).](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-sso.md)
 
 </td></tr></tbody>
 </table>

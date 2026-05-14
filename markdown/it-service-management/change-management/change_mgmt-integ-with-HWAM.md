@@ -35,5 +35,5 @@ When a change request is in the **Implement** state, the proposed asset action t
 
 For more information, see [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-landing-page.md)
 
-**Parent Topic:**[Change management integrations](change-mgmt-integrations.md)
+**Parent Topic:**[Change management integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-integrations.md)
 

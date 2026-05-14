@@ -17,13 +17,13 @@ Use the EMR Help service portal to create healthcare cases from directly within 
 
 As a user with the sn\_ind\_rmt\_help.requester role, you can submit healthcare cases from within your EMR system. These cases can then be fulfilled within a ServiceNow instance.
 
-**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](../task/configure-hcls-case-types-for-emr-help.md).
+**Note:** The healthcare case request capability can only be fulfilled for custom healthcare case types. In order to fulfill healthcare cases, you must first create your own custom healthcare case type. For more information on this, see [Configure healthcare case types for EMR Help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../task/configure-hcls-case-types-for-emr-help.md).
 
 ## Creating a healthcare case
 
 To create a case from within your EMR, select Healthcare Case from the Requests option menu in the upper right. The Healthcare Case form will then appear.
 
-![The Health Case request form in the EMR portal.](../image/hcls-emr-healthcare-case.png)
+![The Health Case request form in the EMR portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../image/hcls-emr-healthcare-case.png)
 
 <table id="table_uxg_b1p_b1c"><thead><tr><th>
 
@@ -120,11 +120,11 @@ Enter details such as patient name, medical record number \(MRN\), and date of b
 
 After submitting your Healthcare case, you can review the information you submitted directly from the portal.
 
-![Submitted Healthcare case request displaying the activity tab.](../image/hcls-emr-healthcare-case-submitted.png)
+![Submitted Healthcare case request displaying the activity tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../image/hcls-emr-healthcare-case-submitted.png)
 
 -   The Activity tab displays the status of the request.
 -   The Attachments tab displays any attachments associated with the request.
 -   The Additional info tab displays a read only version of all information submitted on the request.
 
-![Submitted healthcare case request displaying the Additional info tab.](../image/hcls-emr-healthcare-case-additional-info.png)
+![Submitted healthcare case request displaying the Additional info tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/../image/hcls-emr-healthcare-case-additional-info.png)
 

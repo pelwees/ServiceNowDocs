@@ -15,9 +15,9 @@ breadcrumb: [Using Firewall Audits and Reporting, Firewall Audits and Reporting,
 
 Use Service Catalog to request new firewall policies and rules.
 
-![Request new firewall rule](../image/request_new_firewall.png "Firewall rule request workflow")
+![Request new firewall rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/request_new_firewall.png "Firewall rule request workflow")
 
-**Parent Topic:**[Using Firewall Audits and Reporting](firewall-audit-report-use.md)
+**Parent Topic:**[Using Firewall Audits and Reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-use.md)
 
 ## Request new firewall rule
 
@@ -39,7 +39,7 @@ Administrators initiate tasks, which are automatically directed to the risk team
 
 2.  Select **Request Firewall Rule**.
 
-    ![Request firewall form.](../image/request_firewall_form.png "Request Firewall Rule")
+    ![Request firewall form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/request_firewall_form.png "Request Firewall Rule")
 
 3.  Enter the appropriate information for the following mandatory fields.
 

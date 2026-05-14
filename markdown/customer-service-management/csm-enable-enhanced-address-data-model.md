@@ -20,11 +20,11 @@ The enhanced address data model maintains the relationship between accounts and 
 **Related topics**  
 
 
-[Account Address table](account-address-table.md)
+[Account Address table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/account-address-table.md)
 
-[Enable enhanced address model for accounts](../task/enable-enhanced-address-model.md)
+[Enable enhanced address model for accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/enable-enhanced-address-model.md)
 
-[Associate an address to an account](../task/associate-address-account.md)
+[Associate an address to an account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/associate-address-account.md)
 
-[Reusing addresses between multiple accounts](reuse-account-addresses.md)
+[Reusing addresses between multiple accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/reuse-account-addresses.md)
 

@@ -60,7 +60,7 @@ Provide prompt visibility for the appropriate buyer by reporting delivery plan i
 
 </td><td>
 
-[Reporting delivery plan issues](reporting-delivery-plan-issues.md)
+[Reporting delivery plan issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/reporting-delivery-plan-issues.md)
 
 </td><td>
 
@@ -72,7 +72,7 @@ Monitor and review purchase order exceptions from a centralized interface
 
 </td><td>
 
-[POM landing page](purch-order-mgmt-tab-s2pws.md)
+[POM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-mgmt-tab-s2pws.md)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Expedite detection and resolution of purchase order exceptions.
 
 </td><td>
 
-[Resolving purchase order exceptions](resolving-purchase-order-exceptions.md)
+[Resolving purchase order exceptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ Create and assign purchase order exception tasks to other buyers and collaborato
 
 </td><td>
 
-[Create and assign a purchase order exception task](../task/assign-a-poe-task-to-a-collaborator.md)
+[Create and assign a purchase order exception task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/assign-a-poe-task-to-a-collaborator.md)
 
 </td><td>
 
@@ -108,8 +108,8 @@ Review and complete assigned purchase order exception tasks
 
 </td><td>
 
--   [Work on a purchase order exception task](../task/work-on-a-purchase-order-exception.md)
--   [View a purchase order exception task](../task/view-po-exception-task.md)
+-   [Work on a purchase order exception task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/work-on-a-purchase-order-exception.md)
+-   [View a purchase order exception task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../task/view-po-exception-task.md)
 
 </td><td>
 
@@ -120,12 +120,12 @@ Operational buyers, Collaborators
 
 To learn more about configuring and using Purchase Order Management, see:
 
--   [Configure Purchase Order Management](configure-purch-order-mgmt.md)
--   [Use Purchase Order Management](use-purch-order-mgmt.md)
--   [Purchase Order Management reference](../reference/purchase-order-mgmt-reference.md)
+-   [Configure Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-purch-order-mgmt.md)
+-   [Use Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/use-purch-order-mgmt.md)
+-   [Purchase Order Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/../reference/purchase-order-mgmt-reference.md)
 
--   **[Source-to-Pay Workspace](purch-order-mgmt-ws.md)**  
+-   **[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-mgmt-ws.md)**  
 The Purchase Order Management page in the Source-to-Pay Workspace enables you to manage and work on tasks related to purchase order exceptions.
 
-**Parent Topic:**[Purchase Order Management](purchase-order-mgmt-landing-page.md)
+**Parent Topic:**[Purchase Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)
 

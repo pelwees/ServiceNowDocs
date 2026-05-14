@@ -21,14 +21,14 @@ Because escalation reports depend on the escalation type, report content can var
 
     In this example, users can see which shifts they are part of in My Schedule reports. Users who are not the first on-call person appear as well. This action enables the user to view the shift from a personal perspective, which is the preferred method for most users.
 
-    ![Rotate through members escalation report](../image/NotifReportRotateThroughMembers.png "Rotate through members escalation report")
+    ![Rotate through members escalation report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/NotifReportRotateThroughMembers.png "Rotate through members escalation report")
 
 -   **Example report for a Rotate through rosters escalation type**
 
     In this example, reminders are defined for the **Primary**, **Secondary**, and **Tertiary** rosters. Members of the primary roster are notified first, then the members of the secondary, and so on, for all rosters.
 
-    ![Rotate through rosters escalation report](../image/NotifReportRotateThroughRosters.png "Rotate through rosters escalation report")
+    ![Rotate through rosters escalation report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/NotifReportRotateThroughRosters.png "Rotate through rosters escalation report")
 
 
-**Parent Topic:**[Designing an escalation process](designing-escalation-process-oncall.md)
+**Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/designing-escalation-process-oncall.md)
 

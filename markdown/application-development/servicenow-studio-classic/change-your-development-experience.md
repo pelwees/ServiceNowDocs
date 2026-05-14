@@ -29,7 +29,7 @@ At some point in your app development, you may need to create an app in one deve
 
 2.  Display the experience switcher by selecting the arrow next to the ServiceNow Studio name.
 
-    ![Open the experience switcher to develop in either Creator Studio, ServiceNow Studio, or the ServiceNow IDE.](../image/sn-studio-experience-switcher.png)
+    ![Open the experience switcher to develop in either Creator Studio, ServiceNow Studio, or the ServiceNow IDE.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-experience-switcher.png)
 
 3.  Select the development environment you want to open.
 
@@ -38,10 +38,10 @@ At some point in your app development, you may need to create an app in one deve
 
 ## Result
 
-The new development environment opens and you can begin working. For more information, see [Creator Studio](../../creator-studio/concept/creator-studio-landing.md) and [Developing applications with the ServiceNow IDE](../../servicenow-ide/concept/developing-applications-servicenow-ide.md).
+The new development environment opens and you can begin working. For more information, see [Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../creator-studio/concept/creator-studio-landing.md) and [Developing applications with the ServiceNow IDE](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../servicenow-ide/concept/developing-applications-servicenow-ide.md).
 
--   **[Viewing app origination information in ServiceNow Studio](../concept/viewing-app-origination-information-in-sns.md)**  
+-   **[Viewing app origination information in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/viewing-app-origination-information-in-sns.md)**  
 Select the best environment for app development and deployment by seeing where your app was created. View app origination information on the App details page in ServiceNow Studio.
 
-**Parent Topic:**[Using ServiceNow Studio](../concept/using-servicenow-studio.md)
+**Parent Topic:**[Using ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/using-servicenow-studio.md)
 

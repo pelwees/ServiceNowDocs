@@ -19,7 +19,7 @@ You can add, modify, or view accommodation requests for an HR profile. Accommoda
 
 Role required: sn\_hr\_er.case\_writer
 
-**Note:** For more information, see [Employee Relations accommodations](../concept/hr-er-accommodations.md).
+**Note:** For more information, see [Employee Relations accommodations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/hr-er-accommodations.md).
 
 ## Procedure
 
@@ -31,10 +31,10 @@ Role required: sn\_hr\_er.case\_writer
 
 4.  Select **New** or to edit, select the **Status** link.
 
-    **Note:** For information on creating an accommodation request, see [Add or modify accommodations](add_modify_accommodations.md).
+    **Note:** For information on creating an accommodation request, see [Add or modify accommodations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/add_modify_accommodations.md).
 
 5.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[HR Profile](../concept/c_HRProfileRecords.md)
+**Parent Topic:**[HR Profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRProfileRecords.md)
 

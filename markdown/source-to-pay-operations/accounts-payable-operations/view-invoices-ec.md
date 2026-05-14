@@ -23,7 +23,7 @@ Role required: sn\_shop.invoice\_owner
 
 1.  Navigate to **All** &gt; **Employee Center**.
 
-    ![Navigate to Employee Center](../image/apo-navigate-emp-center.png)
+    ![Navigate to Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/apo-navigate-emp-center.png)
 
 2.  In the My active items widget, select **Invoices**.
 
@@ -36,18 +36,18 @@ Role required: sn\_shop.invoice\_owner
 
 The business owner views all owned invoices on Employee Center.
 
-**Parent Topic:**[Work with invoices](../concept/work-with-invoices.md)
+**Parent Topic:**[Work with invoices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/work-with-invoices.md)
 
 **Related topics**  
 
 
-[Accounts Payable Invoice Processing](../concept/acc-pay-invoice-processing.md)
+[Accounts Payable Invoice Processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/acc-pay-invoice-processing.md)
 
-[Invoice Case Management](../concept/acc-pay-case-mgmt-overview.md)
+[Invoice Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/acc-pay-case-mgmt-overview.md)
 
-[Source-to-Pay Workspace](../concept/acc-pay-workspace.md)
+[Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/acc-pay-workspace.md)
 
-[Invoice processing cases](../concept/working-with-ingestion-cases.md)
+[Invoice processing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/working-with-ingestion-cases.md)
 
-[Invoice approvals](../concept/invoice-approvals.md)
+[Invoice approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/invoice-approvals.md)
 

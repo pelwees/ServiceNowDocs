@@ -25,7 +25,7 @@ Examples of uses are for Business Rules and Script Includes. This procedure uses
 
 1.  Create a cryptographic module with the symmetric data encryption/decryption algorithm.
 
-    Refer to [Create a cryptographic module](create-cryptographic-module.md) for details. Specific access to the data or attachment is controlled with a module access policy with the following characteristics:
+    Refer to [Create a cryptographic module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/create-cryptographic-module.md) for details. Specific access to the data or attachment is controlled with a module access policy with the following characteristics:
 
     -   Symmetric encryption: The script is able to encrypt data but unable to decrypt the data.
     -   Symmetric decryption: The script is able to decrypt uploaded encrypted data or attachment but unable to encrypt data or attachments.
@@ -34,7 +34,7 @@ Examples of uses are for Business Rules and Script Includes. This procedure uses
 
 3.  Click **New**.
 
-    ![New Business Rule record.](../image/business-rule-script.png)
+    ![New Business Rule record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/business-rule-script.png)
 
 4.  Complete the form on the **When to run** tab and enter the script on the **Advanced** tab:
 
@@ -116,13 +116,13 @@ gs.info(decrypted == value);
  **Note:** Refer to the "Business Rules Advanced Tab" image for details.
 
 </td></tr></tbody>
-</table>    ![Business Rule Advanced tab.](../image/business-rules-advanced.png)
+</table>    ![Business Rule Advanced tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/business-rules-advanced.png)
 
 5.  Select **Submit**.
 
 6.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies** &gt; **** **All**.
 
-    **Note:** For additional information, refer to [Create a module access policy](create-module-access-policy.md).
+    **Note:** For additional information, refer to [Create a module access policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/create-module-access-policy.md).
 
 7.  Select **Create new**.
 
@@ -132,7 +132,7 @@ gs.info(decrypted == value);
 
 10. Complete the form.
 
-    ![Target script selection.](../../encryption/image/fe-create-map.png)
+    ![Target script selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../encryption/image/fe-create-map.png)
 
     Module Access Policies fields
 
@@ -154,8 +154,8 @@ gs.info(decrypted == value);
     The Module Access Policy for the script is now available in the system.
 
 
--   **[View declined cryptographic module usage requests](view-declined-crypto-module-usage-requests.md)**  
+-   **[View declined cryptographic module usage requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/view-declined-crypto-module-usage-requests.md)**  
 View cryptographic modules that rejected encryption requests made by scripts because of unsupported encryption mechanisms.
 
-**Parent Topic:**[Script access for cryptographic modules](../concept/script-map.md)
+**Parent Topic:**[Script access for cryptographic modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/script-map.md)
 

@@ -29,7 +29,7 @@ Role required: workspace\_admin
 
 4.  In the record page, select **Developer** listed under **Menu** tab and select **Open variant collection**.
 
-    ![UX screen variants](../image/revert-old-record-page.png "UX screen variants")
+    ![UX screen variants](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/revert-old-record-page.png "UX screen variants")
 
     In the **UX Screens** tab, you see two screens, **Record default** and **Risk record page**.
 
@@ -40,5 +40,5 @@ Role required: workspace\_admin
     If you give a high-order value, you revert to the old record page. If you want to switch to the new record page, set to low-order value.
 
 
-**Parent Topic:**[Configure workspace page](configure-workspace-page.md)
+**Parent Topic:**[Configure workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-workspace-page.md)
 

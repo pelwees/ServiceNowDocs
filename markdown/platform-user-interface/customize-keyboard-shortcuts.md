@@ -29,7 +29,7 @@ Customize the Next Experience keyboard shortcuts
 
     The keyboard shortcuts modal opens.
 
-    ![Keyboard shortcuts modal.](../../../get-started/servicenow-overview/image/pol-keyboard-shortcut-modal.png "Keyboard shortcuts modal")
+    ![Keyboard shortcuts modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../get-started/servicenow-overview/image/pol-keyboard-shortcut-modal.png "Keyboard shortcuts modal")
 
 2.  Select **Remap keyboard shortcuts**.
 
@@ -45,11 +45,11 @@ Customize the Next Experience keyboard shortcuts
 
     **Note:** A keyboard shortcut must include at least one modifier and one letter. For example, Command + K.
 
-    ![Accept shortcut changes check mark.](../image/pol-remap-keyboard-shortcuts-checkbox.png "Acceptance of new keyboard shortcut")
+    ![Accept shortcut changes check mark.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-remap-keyboard-shortcuts-checkbox.png "Acceptance of new keyboard shortcut")
 
     **Note:** The modal notifies you if you enter a key combination that is already in use.
 
-    ![Keyboard shortcut exists message.](../image/pol-keyboard-shortcut-exists.png "Keyboard shortcut already exists message")
+    ![Keyboard shortcut exists message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-keyboard-shortcut-exists.png "Keyboard shortcut already exists message")
 
 6.  If you decide not to save your new shortcut, select **X** or **Close** to cancel.
 

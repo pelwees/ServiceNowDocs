@@ -193,12 +193,12 @@ Photo
 Attach a photo of the user, if appropriate.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+</table>**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Exploring departments](../../concept/eaw-concept/eaw-departments.md)
+[Exploring departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-departments.md)
 
-[Add a user to a department](../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
+[Add a user to a department](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
 

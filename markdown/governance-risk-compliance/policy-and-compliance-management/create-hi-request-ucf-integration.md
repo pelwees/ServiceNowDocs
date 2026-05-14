@@ -29,13 +29,13 @@ Role required: admin
 
 2.  Click **Get Help**.
 
-    ![Get help icon shown](../image/get-help.png)
+    ![Get help icon shown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/get-help.png)
 
 3.  Click **Open a Case**.
 
-    ![Open a case](../image/open-case.png)
+    ![Open a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/open-case.png)
 
-    ![Issue typ](../image/request.png)
+    ![Issue typ](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/request.png)
 
 4.  Fill out the **Create Case** form.
 
@@ -104,5 +104,5 @@ Select your answer.
     Customer Service and Support initiates the OAuth integration process and contacts the requester with the integration information.
 
 
-**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](../concept/c_UCF.md)
+**Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../concept/c_UCF.md)
 

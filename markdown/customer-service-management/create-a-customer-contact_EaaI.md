@@ -26,17 +26,17 @@ Agents can use the contact lookup component to search for contacts. If an agent 
 
 1.  Navigate to **All** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Select the List icon \(![List icon](../image/List_icon.jpg)\).
+2.  Select the List icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/List_icon.jpg)\).
 
 3.  On the Lists section, in the Interactions section, select **My Interactions**.
 
 4.  In the My Interactions page, select an email interaction.
 
-5.  In the Contact card section, select the Create new icon \(![Add Contact Card](../image/Add_contact_eaaI.png)\).
+5.  In the Contact card section, select the Create new icon \(![Add Contact Card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/Add_contact_eaaI.png)\).
 
 6.  On the Contact form, fill in the fields.
 
-    For a description of the field values, see [Contact form for Email Interaction for CSM](../reference/contact-form-eaai.md).
+    For a description of the field values, see [Contact form for Email Interaction for CSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/contact-form-eaai.md).
 
 7.  Select **Save**.
 

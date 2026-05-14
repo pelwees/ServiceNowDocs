@@ -25,7 +25,7 @@ Role required: itil
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../image/lists-icon.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/lists-icon.png)\).
 
 3.  Select **Incidents** &gt; **All**.
 
@@ -35,7 +35,7 @@ Role required: itil
 
 6.  Select the **Logs** link on the right side of the pane.
 
-    ![Logs link on Live CI data tab](../image/live-ci-data-logs.png "Logs link")
+    ![Logs link on Live CI data tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/live-ci-data-logs.png "Logs link")
 
     **Note:** The **data last refreshed** value follows the instance time zone and not your local system time zone. Therefore, ensure that your local system time zone matches the instance time zone.
 

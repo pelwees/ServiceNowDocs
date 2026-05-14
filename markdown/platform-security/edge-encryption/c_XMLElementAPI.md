@@ -17,7 +17,7 @@ Provides methods for iterating through XML elements and mapping values to fields
 
 You get an XMLElement object by calling the next\(\) method of an XMLElementIterator object.
 
-**Parent Topic:**[XML APIs](xml-overview.md)
+**Parent Topic:**[XML APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/xml-overview.md)
 
 ## XMLElement - getIterator\(String xPath\)
 
@@ -47,7 +47,7 @@ Returns an XMLElementIterator object that includes all sub-elements for the XML 
 
 Specifies that the value of the element maps to the specified field in the specified table.
 
-Calling this method on an element value tells the proxy that the value for this element maps to the specified field in the specified table. The proxy then checks if the field must be encrypted. If the table and field names are unknown, you can call the valueFor\(\) method on a table and a field that are [dynamically assigned](xml-overview.md#xml-dynamic) based on the request.
+Calling this method on an element value tells the proxy that the value for this element maps to the specified field in the specified table. The proxy then checks if the field must be encrypted. If the table and field names are unknown, you can call the valueFor\(\) method on a table and a field that are [dynamically assigned](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/xml-overview.md#xml-dynamic) based on the request.
 
 |Name|Type|Description|
 |----|----|-----------|

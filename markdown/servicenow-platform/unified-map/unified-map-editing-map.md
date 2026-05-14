@@ -23,7 +23,7 @@ You can perform the following actions in the map editor:
 -   Select the Attributes icon ![](../image/icon-um-attributes-panel.png) to manage CIs and relationships.
 -   Select the Add CI icon ![](../image/icon-um-add-ci.png) to add an existing CI and its existing relationships to the map.
 -   Select a relationship or CI and then select the Manage relationship icon ![](../image/icon-um-edit-connection.png) to add, update, or delete relationships.
--   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. Select **Remove** for a CI to delete the CMDB records for all relationships to and from the CI. The CI is removed from the map, but the CI record isn’t deleted from the CMDB. For more information, see [Delete a connection using the map editor](../task/unified-map-delete-connection.md)
+-   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. Select **Remove** for a CI to delete the CMDB records for all relationships to and from the CI. The CI is removed from the map, but the CI record isn’t deleted from the CMDB. For more information, see [Delete a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/unified-map-delete-connection.md)
 
 ## Working in the map editor
 
@@ -41,14 +41,14 @@ You can perform the following actions in the map editor:
 -   You can add only CIs that have existing records in the CMDB.
 -   If you try add a CI that already has a connection to another CI on the map, the map re-centers and the CI is highlighted. In some cases, due to filter settings, the CI isn't displayed.
 -   An added CI appears on the map but its CMDB record isn't changed unless you change the CI connections and save the changes. After you add a CI, it can be saved to the map only if it has a path \(direct or indirect\) to the home node.
--   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. When you remove \(hide\) a CI from the map, the record of the CI in the CMDB is not deleted. In contrast, connection records for a removed CI are affected as described in [Deleting a connection](unified-map-editing-map.md#section-connections-deleting).
+-   You can remove \(hide\) a CI from the map only if you added it during the current editing session and have not yet saved the map. You cannot remove a CI that was on the map when you started the editing session. When you remove \(hide\) a CI from the map, the record of the CI in the CMDB is not deleted. In contrast, connection records for a removed CI are affected as described in [Deleting a connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-editing-map.md#section-connections-deleting).
 -   When you delete all connections between one CI and another CI so that no connection path remains to the home node, the isolated CI and all of its downstream connections are considered an island branch. When you save, changes that you made to downstream connections are saved and the island branch CI is removed from the map \(hidden\). The CI record is not, however, removed from the CMDB.
 
 ## Creating or modifying a connection \(relationship or reference\) between CIs
 
 Use the map editor to add a connection between two CIs or to modify an existing connection.
 
-To learn more, see [CI relationships in the CMDB](c_CIRelationships.md).
+To learn more, see [CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/c_CIRelationships.md).
 
 ## Deleting a connection
 
@@ -78,15 +78,15 @@ The map editor does not support the following actions:
 **Related topics**  
 
 
-[CI relationships in the CMDB](c_CIRelationships.md)
+[CI relationships in the CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/c_CIRelationships.md)
 
-[Suggested class relationships](../reference/r_SuggestedRelationshipModel.md)
+[Suggested class relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../reference/r_SuggestedRelationshipModel.md)
 
-[Add a suggested relationship](../task/t_AddANewSuggestedRelationship.md)
+[Add a suggested relationship](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/t_AddANewSuggestedRelationship.md)
 
-[Add a CI to a map using the map editor](../task/unified-map-add-ci.md)
+[Add a CI to a map using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/unified-map-add-ci.md)
 
-[Create or modify a connection using the map editor](../task/unified-map-edit-connection.md)
+[Create or modify a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/unified-map-edit-connection.md)
 
-[Delete a connection using the map editor](../task/unified-map-delete-connection.md)
+[Delete a connection using the map editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/../task/unified-map-delete-connection.md)
 

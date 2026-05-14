@@ -26,5 +26,5 @@ Administrators can enable users to display any metric on a timeline by activatin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Timeline pages](../concept/c_TimelinePages.md)
+**Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/c_TimelinePages.md)
 

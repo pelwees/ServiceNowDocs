@@ -24,7 +24,7 @@ You can use or customize these default DevOps Config policies to validate that y
 
 <table id="table_gsp_4vm_nzb"><tbody><tr><td>
 
-[A](devops-config-gen-policies.md#a) \| [C](devops-config-gen-policies.md#c) \| [D](devops-config-gen-policies.md#d) \| [F](devops-config-gen-policies.md#f) \| [G](devops-config-gen-policies.md#g) \| [K](devops-config-gen-policies.md#k) \| [L](devops-config-gen-policies.md#l) \| [M](devops-config-gen-policies.md#m) \| [N](devops-config-gen-policies.md#n) \| [S](devops-config-gen-policies.md#s) \| [U](devops-config-gen-policies.md#u)
+[A](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#a) \| [C](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#c) \| [D](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#d) \| [F](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#f) \| [G](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#g) \| [K](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#k) \| [L](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#l) \| [M](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#m) \| [N](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#n) \| [S](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#s) \| [U](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#u)
 
 </td></tr></tbody>
 </table>## All Key-Value Comparator \(allKeysValuesComparator\)
@@ -248,7 +248,7 @@ Checks whether the key value is different across all components when a key exist
 
 Results into a non-compliant status when a key has the same value in multiple components.
 
-**Note:** If a key has multiple occurrences inside the same component, use the [Unique Key Value \(uniqueKeyValue\)](devops-config-gen-policies.md#u) policy.
+**Note:** If a key has multiple occurrences inside the same component, use the [Unique Key Value \(uniqueKeyValue\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-gen-policies.md#u) policy.
 
 -   **Input argument**
 

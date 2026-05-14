@@ -48,10 +48,10 @@ Templates simplify the process of creating tasks in Workplace Core by populating
 
 6.  Add a checklist to the template.
 
-    For steps on how to add a checklist, see [Create a workplace task checklist](create-workplace-task-checklist-wsd.md).
+    For steps on how to add a checklist, see [Create a workplace task checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-task-checklist-wsd.md).
 
 7.  Select **Update**.
 
 
-**Parent Topic:**[Managing workplace tasks](../concept/managing-workplace-maintenance-tasks.md)
+**Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/managing-workplace-maintenance-tasks.md)
 

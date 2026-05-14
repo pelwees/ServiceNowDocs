@@ -17,7 +17,7 @@ Before you start mapping application services, verify that you configured MID Se
 
 ## Before you begin
 
-To check readiness of mapping based on Predictive Intelligence, [install Service Mapping Plus](install-service-mapping-plus.md) from ServiceNow Store.
+To check readiness of mapping based on Predictive Intelligence, [install Service Mapping Plus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md) from ServiceNow Store.
 
 Role required: service\_mapping\_admin
 
@@ -25,14 +25,14 @@ Role required: service\_mapping\_admin
 
 Service Mapping performs an automatic scan of the following resources and configurations to give you the readiness status:
 
--   \(Mandatory\) There are MID Servers with correctly configured IP ranges and the applications and capabilities settings. For more information, see [MID Server configuration for Service Mapping](../concept/configure-mid-service-mapping.md).
+-   \(Mandatory\) There are MID Servers with correctly configured IP ranges and the applications and capabilities settings. For more information, see [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/configure-mid-service-mapping.md).
 
     If this check does not recognize correctly configured MID Servers, you cannot perform the bulk discovery.
 
--   \(Optional\) There are credentials for operating systems and applications as described in [Prerequisites for performing top-down discovery using Service Mapping](../reference/prerequisites-service-mapping.md).
+-   \(Optional\) There are credentials for operating systems and applications as described in [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/prerequisites-service-mapping.md).
 -   \(Optional\) There are at least three load balancers recently discovered during horizontal discovery.
 -   \(Optional\) There are at least 100 hosts discovered by the horizontal discovery in the last 14 days.
--   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the traffic-based discovery in Service Mapping. For more information, see [Data collection and discovery using Netflow](../concept/data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](../concept/data-collection-vpc-mapping.md).
+-   \(Optional\) The data collection using Netflow or VPC Flow Logs is configured. This configuration is necessary to enhance the traffic-based discovery in Service Mapping. For more information, see [Data collection and discovery using Netflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/data-collection-netflow-mapping.md) and [Data collection and discovery using VPC Flow Logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/data-collection-vpc-mapping.md).
 -   \(Optional\) Cloud Discovery is activated and configured. This setting is necessary to discover application service based on IaaS.
 
 If an optional resource or configuration is missing, you can still map application service, but it may result in partial discovery of some CIs and connections.
@@ -49,9 +49,9 @@ In addition, Service Mapping performs the readiness check for mapping functional
 
     If some obligatory configurations are missing, the error displays at the top of the window.
 
-    1.  Click the link in the error or click the **Readiness Checklist** icon \(![Readiness Checklist icon](../image/ReadinessChecklistErrorIcon.png)\).
+    1.  Click the link in the error or click the **Readiness Checklist** icon \(![Readiness Checklist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/ReadinessChecklistErrorIcon.png)\).
 
-    2.  In the Service Mapping Readiness Checklist window, click the link next to the setup category with the error icon \(![Error icon](../image/BulkMappingSetupErrorIcon.png)\).
+    2.  In the Service Mapping Readiness Checklist window, click the link next to the setup category with the error icon \(![Error icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../image/BulkMappingSetupErrorIcon.png)\).
 
         You cannot perform discovery and mapping unless there are no errors in the Readiness Checklist window.
 
@@ -72,10 +72,10 @@ In addition, Service Mapping performs the readiness check for mapping functional
 
 ## What to do next
 
-[Map business services in bulk](../concept/c_DefineMapBusinessServices.md)
+[Map business services in bulk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/c_DefineMapBusinessServices.md)
 
 **Related topics**  
 
 
-[Application service readiness dashboard in configurable workspace](../reference/readiness-dashboard-ml.md)
+[Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../reference/readiness-dashboard-ml.md)
 

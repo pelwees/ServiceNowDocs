@@ -43,7 +43,7 @@ Contract Workspace
 </td><td>
 
 -   Navigate to **All** &gt; **Contract Workspace**.
--   Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+-   Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 -   Select **Contract requests** &gt; **All**
 -   Select a contract request.
 
@@ -62,11 +62,11 @@ Workspace used by your application
 </td></tr></tbody>
 </table>2.  In the **Contract documents** tab, select **Compare documents**.
 
-    ![Compare documents button in a contract request.](../image/cmpro-compare-docs-button.png "Compare documents in contract request")
+    ![Compare documents button in a contract request.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-compare-docs-button.png "Compare documents in contract request")
 
 3.  In the Compare documents window, select the contract type and documents you want to compare.
 
-    ![A window to select documents for comparison.](../image/cmpro-compare-docs-selection.png "Compare document window")
+    ![A window to select documents for comparison.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-compare-docs-selection.png "Compare document window")
 
     **Note:** You can only compare files in .doc and .docx format.
 
@@ -88,12 +88,12 @@ Workspace used by your application
 
     For externally stored documents, the comparison is processed in the background. You receive a notification in the application and through an email when the comparison is ready. Select the link in the notification to view the document comparison.
 
-    ![Document where changes are highlighted in different colors.](../image/cmpro-compare-docs-comparison.png "Document comparison")
+    ![Document where changes are highlighted in different colors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-compare-docs-comparison.png "Document comparison")
 
 4.  Select **Hide redlines** to hide the highlighted changes.
 
 5.  Select **Download redlined document** to download the document, and make further modifications to it.
 
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

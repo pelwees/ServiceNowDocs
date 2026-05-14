@@ -31,5 +31,5 @@ Enable allocation property after migrating to Next Experience to work on budget 
 
 ## What to do next
 
-Configure budget attributes to work on managing budget of your planning items. For more information, see [Configure budget attribute at instance-level to allocate budget](config-budget-allocation-attribute-ppw.md).
+Configure budget attributes to work on managing budget of your planning items. For more information, see [Configure budget attribute at instance-level to allocate budget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/config-budget-allocation-attribute-ppw.md).
 

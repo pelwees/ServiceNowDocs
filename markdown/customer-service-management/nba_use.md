@@ -23,7 +23,7 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 
 2.  Open a customer service record that you want to work on.
 
-3.  Select the Recommended Actions icon \(![Recommended Actions icon.](../image/nba-icon.png)\) in the contextual side panel.
+3.  Select the Recommended Actions icon \(![Recommended Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/nba-icon.png)\) in the contextual side panel.
 
 4.  Select the Recommended Actions tab.
 

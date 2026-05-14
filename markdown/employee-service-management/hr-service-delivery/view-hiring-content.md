@@ -19,7 +19,7 @@ Access relevant hiring content, as a hiring manager, from the Recommended for yo
 
 Get a better understanding of the region-specific hiring policies and processes.
 
-For more information on setting up Recommended for you in Hiring, see [Configure Hiring](config-hiring.md).
+For more information on setting up Recommended for you in Hiring, see [Configure Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-hiring.md).
 
-**Parent Topic:**[Using Hiring](use-hiring.md)
+**Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 

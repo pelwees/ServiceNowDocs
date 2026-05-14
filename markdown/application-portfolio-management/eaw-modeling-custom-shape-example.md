@@ -29,17 +29,17 @@ Create the shapes that represent the elements you want to include in your diagra
 
     1.  Navigate to **All** &gt; **System UI** &gt; **Images**.
 
-        ![Upload an image to the database](../../image/eaw-image/modeling/custom-shapes-upload-image.jpg)
+        ![Upload an image to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shapes-upload-image.jpg)
 
     2.  Select **New**.
 
-        ![Create new image record](../../image/eaw-image/modeling/new-image-record.jpg)
+        ![Create new image record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/new-image-record.jpg)
 
 2.  In the New image record, enter the name of the image file \(include file format extension\) and fill in other details.
 
 3.  Select **Click to add...**.
 
-    ![Uploading a custom shape to the database](../../image/eaw-image/modeling/custom-shape-new-image-record.jpg)
+    ![Uploading a custom shape to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-new-image-record.jpg)
 
 4.  Create a diagram action for the image in the Enterprise Architecture Workspace.
 
@@ -47,7 +47,7 @@ Create the shapes that represent the elements you want to include in your diagra
 
     2.  Under the **Enterprise Modeling and Visualization** section, select **Diagram Actions**.
 
-        ![Diagram action](../../image/eaw-image/modeling/custom-shape-diagram-action.jpg)
+        ![Diagram action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-diagram-action.jpg)
 
     3.  Select New to create a diagram action for the image \(Database.svg\).
 
@@ -59,19 +59,19 @@ Create the shapes that represent the elements you want to include in your diagra
         -   Category- Select Default
         -   Sub category- Select Default sub category
         -   Icon- Enter name of the image
-        ![Diagram action form](../../image/eaw-image/modeling/custom-shape-diagram-action-form.jpg)
+        ![Diagram action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-diagram-action-form.jpg)
 
 5.  Create a custom shape library specific to your Org to add all the shapes to create diagrams for your organization.
 
     1.  As an APM Admin user, navigate to **Setup** &gt; **Enterprise Modeling and Visualization** &gt; **Shape Libraries**.
 
-        ![Shape libraries section](../../image/eaw-image/modeling/custom-shape-libraries.jpg)
+        ![Shape libraries section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-libraries.jpg)
 
     2.  Select **New**.
 
     3.  Enter a name for the shape library, then select **Save**.
 
-        ![New shape library form](../../image/eaw-image/modeling/custom-shape-new-library.jpg)
+        ![New shape library form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-new-library.jpg)
 
 6.  Add a shape library element to associate the shape and its diagram action to the shape library.
 
@@ -81,7 +81,7 @@ Create the shapes that represent the elements you want to include in your diagra
 
     3.  Select **New**.
 
-        ![Shape library element](../../image/eaw-image/modeling/custom-shape-library-element.jpg)
+        ![Shape library element](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-library-element.jpg)
 
     4.  In the Shape library element form, enter the following details:
 
@@ -92,7 +92,7 @@ Create the shapes that represent the elements you want to include in your diagra
         -   Shape library- This field is automatically selected.
         -   Domain- Optional field.
         -   Entity configuration- Optional field.
-        ![Shape library element form](../../image/eaw-image/modeling/custom-shape-library-element-form.jpg)
+        ![Shape library element form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-library-element-form.jpg)
 
     5.  Select **Save**.
 
@@ -102,31 +102,31 @@ Create the shapes that represent the elements you want to include in your diagra
 
     2.  Select &gt; **New** &gt; **Blank diagram**
 
-        ![Create a blank diagram](../../image/eaw-image/modeling/custom-shape-blank-diagram.jpg)
+        ![Create a blank diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-blank-diagram.jpg)
 
     3.  Enter a name for the diagram and optionally, you can enter or select an existing architectural category for the diagram.
 
-        ![Create blank diagram modal](../../image/eaw-image/modeling/custom-shape-create-diagram.jpg)
+        ![Create blank diagram modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-create-diagram.jpg)
 
         Observe that the shape library that you created appears in the Shapes pallet. It contains the shape that you uploaded.
 
     4.  Click on the shape to add it to the canvas.
 
-        ![Adding a custom shape to the canvas](../../image/eaw-image/modeling/custom-shape-add-to-canvas.jpg)
+        ![Adding a custom shape to the canvas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/custom-shape-add-to-canvas.jpg)
 
         The selected shape gets added to the canvas.
 
 
-**Parent Topic:**[Working with custom shapes](../../concept/eaw-concept/eaw-working-custom-shapes.md)
+**Parent Topic:**[Working with custom shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-working-custom-shapes.md)
 
 **Related topics**  
 
 
-[Storing shapes or images to the database](eaw-modeling-store-image-databse.md)
+[Storing shapes or images to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-store-image-databse.md)
 
-[Create a diagram action for a custom shape](eaw-modeling-action-custom-shape.md)
+[Create a diagram action for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-action-custom-shape.md)
 
-[Add a custom shape library](eaw-modeling-add-custom-shape-library.md)
+[Add a custom shape library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-add-custom-shape-library.md)
 
-[Add a shape library element for a custom shape](eaw-modeling-custom-shape-element.md)
+[Add a shape library element for a custom shape](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-custom-shape-element.md)
 

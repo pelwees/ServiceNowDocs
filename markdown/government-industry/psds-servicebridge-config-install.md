@@ -27,7 +27,7 @@ Install the Service Exchange for Public Sector Digital Services application.
 
 </td><td>
 
-See [Install Service Exchange for Public Sector Digital Services](../task/psds-servicebridge-config-install-prov.md).
+See [Install Service Exchange for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/psds-servicebridge-config-install-prov.md).
 
 </td></tr><tr><td>
 
@@ -35,7 +35,7 @@ Set up the Government Service Portal, the consumer-facing portal for Public Sect
 
 </td><td>
 
-See [Customize the Government Service Portal](../task/customize-government-service-portal.md).
+See [Customize the Government Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../task/customize-government-service-portal.md).
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Set up a Service Bridge connection between a Provider and a Consumer.
 
 </td><td>
 
-See [Connect a provider instance to a consumer instance](psds-servicebridge-config-connect-prov-consu.md).
+See [Connect a provider instance to a consumer instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-connect-prov-consu.md).
 
 </td></tr><tr><td>
 

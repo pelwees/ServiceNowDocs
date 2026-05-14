@@ -52,7 +52,7 @@ The Gregorian Calendar group comes with the base system. It includes the Week, M
 
 Each business calendar record \(Week, Month, Quarter, and Year\) also shows which groups it belongs to.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/business-calendars.md)
 
 **Related topics**  
 

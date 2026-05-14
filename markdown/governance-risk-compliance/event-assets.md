@@ -76,5 +76,5 @@ These improvements provide several benefits:
 
 By providing more detailed and accurate tracking of recovery efforts, these updates enable organizations to better manage their recovery processes and improve their overall resilience.
 
-**Parent Topic:**[Structured workflows for exercises](performing-tasks-to-manage-exercise-events.md)
+**Parent Topic:**[Structured workflows for exercises](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 

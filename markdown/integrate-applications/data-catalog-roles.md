@@ -74,5 +74,5 @@ Searches and views catalog assets, explores relationships and lineage, and conne
 sn\_nowassist\_wdf.creator\_admin
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Data catalog reference](data-catalog-reference.md)
+</table>**Parent Topic:**[Data catalog reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/data-catalog-reference.md)
 

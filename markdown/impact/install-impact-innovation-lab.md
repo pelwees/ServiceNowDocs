@@ -46,22 +46,22 @@ Role required: Any Impact role, admin
 
 8.  Select **Install** to complete the installation.
 
-    Refer to [Dependent applications installed with the Impact Store App](../reference/data-sync-idi-store.md) for the tables installed.
+    Refer to [Dependent applications installed with the Impact Store App](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/data-sync-idi-store.md) for the tables installed.
 
 9.  Select **Configure**.
 
-    ![Configure option for Impact in the Application Manager.](../image/configure-impact-store.png)
+    ![Configure option for Impact in the Application Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/configure-impact-store.png)
 
     You are redirected to the Impact Guided Setup.
 
 
 ## What to do next
 
-[Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md).
+[Use Guided Setup for Impact Store Application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/guided-setup-impact-in-app.md).
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Previous topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Next topic:**[Use Guided Setup for Impact Store Application configuration](guided-setup-impact-in-app.md)
+**Next topic:**[Use Guided Setup for Impact Store Application configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/guided-setup-impact-in-app.md)
 

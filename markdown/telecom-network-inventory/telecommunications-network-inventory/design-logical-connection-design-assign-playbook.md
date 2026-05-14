@@ -21,7 +21,7 @@ The Design and Assign function provides the activities and tasks that an agent c
 
 The following example shows the Design and Assign function layout for a logical connection.
 
-![View of Design and Assign function layout.](../image/design-assign-paybook-layout.png "Design and Assign function layout and features")
+![View of Design and Assign function layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/design-assign-paybook-layout.png "Design and Assign function layout and features")
 
 <table id="table_crd_4hd_ndc"><thead><tr><th>
 
@@ -45,10 +45,10 @@ Activity picker
 
 </td><td>
 
-The activity picker displays the list of activities to design and assign a logical connection. Each activity has an indicator that shows the activity state:-   ![Activity In progress Icon](../image/icon-activity-progress.png) - Activity is work in progress.
--   ![Activity Complete Icon](../image/icon-activity-complete.png) - Activity is completed.
--   ![Activity Pending Icon](../image/icon-activity-pending.png) - Pending activities.
--   ![Activity Skipped Icon](../image/icon-activity-skip.png) - Activity is skipped.
+The activity picker displays the list of activities to design and assign a logical connection. Each activity has an indicator that shows the activity state:-   ![Activity In progress Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-activity-progress.png) - Activity is work in progress.
+-   ![Activity Complete Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-activity-complete.png) - Activity is completed.
+-   ![Activity Pending Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-activity-pending.png) - Pending activities.
+-   ![Activity Skipped Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-activity-skip.png) - Activity is skipped.
 
 Select an activity to view the details in the activity viewer.
 
@@ -106,20 +106,20 @@ The Design and Assign function for a logical connection has the following workfl
 
 By completing these steps, a logical connection record is generated with the associated Configuration Items \(CI\).
 
-To learn more about the steps to design and assign a logical connection, see [Create a logical connection record using the Design and Assign function](../task/create-logical-connection-record-design-assign-playbook.md).
+To learn more about the steps to design and assign a logical connection, see [Create a logical connection record using the Design and Assign function](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-logical-connection-record-design-assign-playbook.md).
 
 ## Access
 
 You can access the Design and Assign function for a logical connection in the Telecommunications Network Inventory Workspace as follows:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
-2.  Select the design and assign icon \(![Design and Assign Icon.](../image/icon-design-assign.png)\) to open the Design request overview window.
+2.  Select the design and assign icon \(![Design and Assign Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-design-assign.png)\) to open the Design request overview window.
 3.  Select **New** &gt; **Create Logical Connection** or select any change request from the list.
 
 **Related topics**  
 
 
-[Design and assign your network services](design-assign-playbook.md)
+[Design and assign your network services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/design-assign-playbook.md)
 
-[Telecommunications Network Inventory subflows](subflow.md)
+[Telecommunications Network Inventory subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subflow.md)
 

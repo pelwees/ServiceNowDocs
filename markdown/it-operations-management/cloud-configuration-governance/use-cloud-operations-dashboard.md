@@ -25,14 +25,14 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
     The Cloud Operation Dashboard appears, showing you Cloud Service Requests and Stacks. Requests are also broken down by requester in the bar chart below. Stacks are broken down by datacenters.
 
-    ![An example Cloud Operations Dashboard](../image/cloud-operations-dashboard.png "An example Cloud Operations Dashboard")
+    ![An example Cloud Operations Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/cloud-operations-dashboard.png "An example Cloud Operations Dashboard")
 
 2.  Do any of the following to obtain the tag data you want on the report.
 
     |Goal|Do this|
     |----|-------|
     |**See data grouped by another attribute**|Select a value in the **Group by** choice list for either chart.|
-    |**See updated data**|Point to the top of any of the charts until the refresh icon \(![refresh icon](../image/icon-refresh.png)\) appears, and then click the icon.|
-    |**Save an image of a chart**|Point to any of the charts until the options icon \(![options icon](../image/icon-options.png)\) appears, and then select **Save as PNG** or **Save as JPEG**.|
+    |**See updated data**|Point to the top of any of the charts until the refresh icon \(![refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-refresh.png)\) appears, and then click the icon.|
+    |**Save an image of a chart**|Point to any of the charts until the options icon \(![options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/icon-options.png)\) appears, and then select **Save as PNG** or **Save as JPEG**.|
 
 

@@ -15,7 +15,7 @@ Create an information request record in the Public Sector Digital Services appli
 
 ## Before you begin
 
-**Note:** Before you start this procedure, verify that the Information Request Playbook application, which is separate from Public Sector Digital Services Core, is installed and enabled in the CSM Configurable Workspace. For instructions, see [Install Information Request Playbook for Public Sector Digital Services](install-psds-information-request-playbook.md).
+**Note:** Before you start this procedure, verify that the Information Request Playbook application, which is separate from Public Sector Digital Services Core, is installed and enabled in the CSM Configurable Workspace. For instructions, see [Install Information Request Playbook for Public Sector Digital Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/install-psds-information-request-playbook.md).
 
 Role required: sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_gsm.agency\_agent, sn\_gsm.relationship\_agent, and sn\_gsm.service\_manager
 

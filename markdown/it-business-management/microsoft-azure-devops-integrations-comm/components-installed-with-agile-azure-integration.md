@@ -68,7 +68,7 @@ Azure DevOps integration user\[sn\_ado\_int.user\]
 |Import Azure DevOps Teams Areas and Iterations|Imports teams, areas, and iterations from Azure DevOps automatically at a scheduled time.|
 |Import Azure DevOps Work Items|Imports work items from Azure DevOps automatically at a scheduled time.|
 
-All the scheduled jobs are inactive by default. For more information, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](schedule-jobs-import-projects-azure.md).
+All the scheduled jobs are inactive by default. For more information, see [Schedule jobs to import projects, teams, areas, and work items from Azure DevOps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/schedule-jobs-import-projects-azure.md).
 
 ## Tables installed
 
@@ -241,5 +241,5 @@ Webhook Registry\[sn\_int\_common\_webhook\_registry\]
 Stores details of the registry callback path for webhooks registered in Azure DevOps to receive event updates.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](../concept/agile-azure-integration-overview.md)
+</table>**Parent Topic:**[Microsoft Azure DevOps Integration for Agile Development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/../concept/agile-azure-integration-overview.md)
 

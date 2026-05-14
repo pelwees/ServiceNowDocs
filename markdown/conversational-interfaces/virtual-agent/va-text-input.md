@@ -136,11 +136,11 @@ Input prompt
 
 </th></tr></thead><tbody><tr><td>
 
-![All basic Text user input fields are openly available. Select any of the advanced options to toggle them open individually.](../images/va-text-input-llm-3.png)
+![All basic Text user input fields are openly available. Select any of the advanced options to toggle them open individually.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-text-input-llm-3.png)
 
 </td><td>
 
-![Web client showing input prompt. The text reads, "Could you please provide your first service catalog item?"](../images/va-text-input-web-llm.png "Web UI Text user input prompt")
+![Web client showing input prompt. The text reads, "Could you please provide your first service catalog item?"](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-text-input-web-llm.png "Web UI Text user input prompt")
 
 </td></tr></tbody>
 </table>## Text user input control properties for NLU topic discovery
@@ -335,5 +335,5 @@ No-code condition statement or low-code script that specifies a condition for le
 |Apple Messages for Business|Not supported|Supported|None.|
 |Alexa \(Voice\)|Not supported|Supported|For screen devices, character limits may apply. For more information, see the [Alexa developer documentation](https://developer.amazon.com/en-US/docs/alexa/custom-skills/display-interface-reference.html).|
 
-**Parent Topic:**[Assistant Designer user input controls](va-user-inputs.md)
+**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 

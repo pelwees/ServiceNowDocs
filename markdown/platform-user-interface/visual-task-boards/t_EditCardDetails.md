@@ -23,7 +23,7 @@ Role required: none
 
 You can edit various card details. Updating these values also updates the underlying task record.
 
-![Task board card](../image/VisualTaskBoardCardDetails.png "Sample Visual Task Board card")
+![Task board card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/VisualTaskBoardCardDetails.png "Sample Visual Task Board card")
 
 ## Procedure
 
@@ -41,16 +41,16 @@ You can edit various card details. Updating these values also updates the underl
     -   Modify the short description.
     -   Add comments or work notes in the activity stream.
     -   Edit the users assigned to tasks.
-    -   Add a label to the card by selecting one or more of the [available labels](t_ConfigureLabels.md).
+    -   Add a label to the card by selecting one or more of the [available labels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureLabels.md).
     -   Add or edit the **Due Date**.If the completion of a task exceeds the due date, the date appears in red.
 
 <table id="table_jfh_5rf_lhb"><tbody><tr><td>
 
-![Task card before the due date](../image/duedatebefore.png "Due date in future")
+![Task card before the due date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/duedatebefore.png "Due date in future")
 
 </td><td>
 
-![Task card after the due date](../image/duedateafter.png "Due date has passed")
+![Task card after the due date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/duedateafter.png "Due date has passed")
 
 </td></tr></tbody>
 </table>    -   View attachment by disabling **Show Compact Cards** from Configuration.
@@ -58,5 +58,5 @@ You can edit various card details. Updating these values also updates the underl
     -   Archive the card \(freeform boards only\). Once archived, the card is not visible in active items.
     -   Move the card to a different board \(freeform boards only\).
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

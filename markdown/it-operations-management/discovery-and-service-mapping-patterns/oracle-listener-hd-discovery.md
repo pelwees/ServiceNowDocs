@@ -57,11 +57,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The Oracle Clusterware setup is only supported for the UNIX Operating Systems. The base system **SSH Command-Oracle - Listener Details classifier probe** is inactive \(Active is set to False\), when installing the CMDB CI Class Models version 1.29.0 or higher.
 
-![Classifier Probes.](../image/classifierprobenew.png "Classifier Probes- Oracle Listener Details")
+![Classifier Probes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/classifierprobenew.png "Classifier Probes- Oracle Listener Details")
 
 The **Oracle Listener process classification** triggers the Oracle Listener HD pattern.
 
-![Classifier Probes.](../image/classifier_probes_horizontal.png "Classifier Probes- Horizontal Pattern")
+![Classifier Probes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/classifier_probes_horizontal.png "Classifier Probes- Horizontal Pattern")
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -129,17 +129,17 @@ Discovery populates the data in the CMDB when running the Oracle Listener HD pat
 
 The following dependency views display the relationships between Oracle Listener resources.
 
-![Oracle Database Listener view map​.](../image/oraclelistenerviewmap.png "Oracle Database Listener View Map​")
+![Oracle Database Listener view map​.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oraclelistenerviewmap.png "Oracle Database Listener View Map​")
 
-![Oracle Instance View Map.](../image/oracleinstanceviewmap.png "Oracle Instance View Map")
+![Oracle Instance View Map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracleinstanceviewmap.png "Oracle Instance View Map")
 
-![Oracle Database View Map.](../image/oracledatabaseviewmap.png "Oracle Database View Map")
+![Oracle Database View Map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracledatabaseviewmap.png "Oracle Database View Map")
 
-![Oracle Cluster View Map.](../image/oracleclusterviewmap.png "Oracle Cluster View Map")
+![Oracle Cluster View Map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracleclusterviewmap.png "Oracle Cluster View Map")
 
-![Oracle Cluster Node View Map​.](../image/oracleclusternodeviewmap.png "Oracle Cluster Node View Map​")
+![Oracle Cluster Node View Map​.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/oracleclusternodeviewmap.png "Oracle Cluster Node View Map​")
 
-![Linux Server View Map​.](../image/linkviewmap.png "Linux Server View Map​")
+![Linux Server View Map​.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/linkviewmap.png "Linux Server View Map​")
 
 ## CI relationships
 
@@ -162,5 +162,5 @@ The Listener HD pattern creates the following relationships to support Oracle Li
 |Oracle DB Service \[cmdb\_ci\_db\_ora\_service\]|Managed by::Manages|Oracle Database Listener \[cmdb\_ci\_db\_ora\_listener\]|
 |Oracle Instance \[cmdb\_ci\_db\_ora\_instance\]|Uses::Used by|Oracle DB Service \[cmdb\_ci\_db\_ora\_service\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

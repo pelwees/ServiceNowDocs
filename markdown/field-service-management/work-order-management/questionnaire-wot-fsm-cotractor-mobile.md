@@ -29,7 +29,7 @@ Role required: wm\_ext\_agent, wm\_ext\_manager
 
 4.  Select the work order task for which you want to fill out the questionnaire.
 
-5.  Tap the Overflow ![Overflow icon](../image/OverflowIcon.png) icon and then select **Take questionnaire**.
+5.  Tap the Overflow ![Overflow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png) icon and then select **Take questionnaire**.
 
 6.  On the Pending tab, tap the questionnaire that you are ready to take.
 

@@ -27,29 +27,29 @@ You can download the entire canvas of a network diagram in the PNG format and sa
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(![List icon](../image/ni-workspace-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/ni-workspace-list-icon.png)\).
 
 3.  Go to **Inventory** &gt; **Logical Connections**.
 
 4.  Open a record, and then select **View connection**.
 
-5.  Select the add icon \(![Add Icon](../image/icon-add-circuit.png)\) to expand the node and get the desired view.
+5.  Select the add icon \(![Add Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-add-circuit.png)\) to expand the node and get the desired view.
 
-6.  On the map pane, select the download icon \(![Download Icon](../image/icon-download.png)\).
+6.  On the map pane, select the download icon \(![Download Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-download.png)\).
 
 
 ## Result
 
 The image is downloaded in PNG format.
 
-**Parent Topic:**[Network diagram](../concept/using-network-diagram.md)
+**Parent Topic:**[Network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/using-network-diagram.md)
 
 **Related topics**  
 
 
-[View the details of a network diagram](show-a-ci-related-details-network-diagram.md)
+[View the details of a network diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/show-a-ci-related-details-network-diagram.md)
 
-[Create a protection path](create-a-protection-path.md)
+[Create a protection path](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-protection-path.md)
 
-[Visualize circuits](../concept/unified-map-view-of-connection-elements.md)
+[Visualize circuits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/unified-map-view-of-connection-elements.md)
 

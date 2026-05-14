@@ -35,5 +35,5 @@ Several types of components are installed with installation of the Agent-Initiat
 |-----------|-----------|
 |Agent Messaging Component|Contains UI components for composing agent-initiated messages.|
 
-**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](../concept/config-agent-init-messg-interface.md)
+**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/../concept/config-agent-init-messg-interface.md)
 

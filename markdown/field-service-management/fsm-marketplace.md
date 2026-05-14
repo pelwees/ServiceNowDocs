@@ -20,5 +20,5 @@ Field Service Contractor Management
 **Related topics**  
 
 
-[Configuring Field Service Marketplace](configuring-contractor-marketplace.md)
+[Configuring Field Service Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/configuring-contractor-marketplace.md)
 

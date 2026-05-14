@@ -75,5 +75,5 @@ Description
     The Execution Details open.
 
 
-**Parent Topic:**[Financial Services Operations Integration with FRISS](../concept/fso-integration-with-friss-overview.md)
+**Parent Topic:**[Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/fso-integration-with-friss-overview.md)
 

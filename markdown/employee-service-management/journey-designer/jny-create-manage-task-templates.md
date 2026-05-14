@@ -31,10 +31,10 @@ Task templates appear as to-do lists in the Employee Center for managers, mentor
 
 3.  Fill in the fields in the template form.
 
-    For more information see [Task template fields](../reference/jny-task-template.md).
+    For more information see [Task template fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../reference/jny-task-template.md).
 
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Creating and managing audience-specific templates](../concept/jny-creating-audience-specific-plans.md)
+**Parent Topic:**[Creating and managing audience-specific templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-creating-audience-specific-plans.md)
 

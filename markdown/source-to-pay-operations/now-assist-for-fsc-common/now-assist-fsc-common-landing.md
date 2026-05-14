@@ -19,19 +19,19 @@ Use the ServiceNow® Use Now Assist for Finance and Supply Chain to help fulfill
 
 <table id="table_vcl_vhr_tcc" class="nav-card"><tbody><tr><td>
 
-[Now Assist for Common Finance and Supply Chain features![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Common Finance and Supply Chain features](now-assist-fsc-common.md)
+[Now Assist for Common Finance and Supply Chain features![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Common Finance and Supply Chain features](now-assist-fsc-common.md)
 
 </td><td>
 
-[Now Assist for Sourcing and Procurement Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](now-assist-spo.md)
+[Now Assist for Sourcing and Procurement Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Sourcing and Procurement Operations](now-assist-spo.md)
 
 </td><td>
 
-[Now Assist for Supplier Lifecycle Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
+[Now Assist for Supplier Lifecycle Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Supplier Lifecycle Operations](../../supplier-lifecycle-operations/concept/now-assist-slo.md)
 
 </td></tr><tr><td>
 
-[Now Assist for Accounts Payable Operations![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Accounts Payable Operations](../../accounts-payable-operations/concept/now-assist-apo.md)
+[Now Assist for Accounts Payable Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Learn about Now Assist for Accounts Payable Operations](../../accounts-payable-operations/concept/now-assist-apo.md)
 
 </td><td>
 

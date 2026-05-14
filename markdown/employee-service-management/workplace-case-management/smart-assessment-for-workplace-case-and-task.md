@@ -24,53 +24,53 @@ The following plugins must be installed:
 -   sn-reusable-impact-framework
 -   snc.smart\_asmt\_dep
 
--   **[Create an assessment template category](create-an-assessment-template-category.md)**  
+-   **[Create an assessment template category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-an-assessment-template-category.md)**  
 Assessment template categories help organize and classify smart assessment templates based on their purpose or use case. Categories make it easier to locate and manage templates within the assessment workspace.
--   **[Create Smart Assessment template for Workplace Case and Task](create-smart-assessment-template.md)**  
+-   **[Create Smart Assessment template for Workplace Case and Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-smart-assessment-template.md)**  
 Smart assessment templates define the structure, questions, and sections that workplace agents complete when working on cases and tasks. Case managers create templates to standardize data collection and ensure consistent quality checks across workplace cases and tasks. These assessments automatically attach to cases and tasks based on configurable trigger conditions.
--   **[Configure Automations in Smart Assessment template](configure-automations-in-assessment-template.md)**  
+-   **[Configure Automations in Smart Assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-automations-in-assessment-template.md)**  
 Set up automations to trigger predefined actions whenever assessment templates are published. You can define action set types that determine how and when automated actions execute within the assessment workflow.
--   **[Configure Smart Assessment Trigger](configure-smart-assessment-trigger.md)**  
+-   **[Configure Smart Assessment Trigger](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-smart-assessment-trigger.md)**  
 Smart assessment triggers define the conditions when assessment templates are applied to workplace cases or tasks.
--   **[Create and assign a workplace case with Smart Assessment](create-a-workplace-case-with-smart-assessment.md)**  
+-   **[Create and assign a workplace case with Smart Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-a-workplace-case-with-smart-assessment.md)**  
 Workplace managers create a workplace case and assign it to workplace agents for various service requests such as cleaning, maintenance, or inspection tasks. When a case is moved to a specific state \(for example, Work in Progress\) and meets the configured trigger conditions, a smart assessment instance is automatically created and attached to the case.
--   **[Access and Complete Smart Assessment](access-and-complete-smart-assessment.md)**  
+-   **[Access and Complete Smart Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/access-and-complete-smart-assessment.md)**  
 Workplace agents complete smart assessments as part of their case workflow. When a case has an attached assessment that meet configured trigger conditions, agents can open it directly from the case form, answer all required questions, and submit the assessment.
 
-**Parent Topic:**[Configuring Workplace Case Management](../concept/workplace-case-mgmt-setup.md)
+**Parent Topic:**[Configuring Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/workplace-case-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Install Workplace Case Management](install-workplace-case-mgmt.md)
+[Install Workplace Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/install-workplace-case-mgmt.md)
 
-[Create a Workplace case template](wsd-case-template.md)
+[Create a Workplace case template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-case-template.md)
 
-[Create a Workplace task template](wsd-task-template.md)
+[Create a Workplace task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-task-template.md)
 
-[Automating seat assignment for new hires](../concept/auto-assign-new-hires.md)
+[Automating seat assignment for new hires](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/auto-assign-new-hires.md)
 
-[Configure Approval options](config-approval-optns.md)
+[Configure Approval options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/config-approval-optns.md)
 
-[Configure a Record producer](wsd-create-record-producer.md)
+[Configure a Record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-create-record-producer.md)
 
-[Configuring a record producer for request edit](../concept/config-case-edit-rp.md)
+[Configuring a record producer for request edit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/config-case-edit-rp.md)
 
-[Configuring a record producer for reservation](../concept/config-reservation-rp.md)
+[Configuring a record producer for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/../concept/config-reservation-rp.md)
 
-[Create an SLA Definition](create-sla-defn-case-mgmt.md)
+[Create an SLA Definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-sla-defn-case-mgmt.md)
 
-[Create a Workplace service](create-workplace-service.md)
+[Create a Workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md)
 
-[Add a workplace service item to a workplace service](add-workplace-service-items.md)
+[Add a workplace service item to a workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-workplace-service-items.md)
 
-[Create a workplace template configuration](create-workplace-template-confguration.md)
+[Create a workplace template configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-template-confguration.md)
 
-[Create a workplace field mapping](create-workplace-field-mapping.md)
+[Create a workplace field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-field-mapping.md)
 
-[Configure an escalation rule](configure-escalation-rule.md)
+[Configure an escalation rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/configure-escalation-rule.md)
 
-[Add Fulfillment instructions](add-fulfillment-instructions.md)
+[Add Fulfillment instructions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/add-fulfillment-instructions.md)
 
-[Group similar workplace cases under a parent case](group-similar-workplace-cases.md)
+[Group similar workplace cases under a parent case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/group-similar-workplace-cases.md)
 

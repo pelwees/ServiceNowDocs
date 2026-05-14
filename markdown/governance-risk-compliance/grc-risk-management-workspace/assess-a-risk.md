@@ -54,5 +54,5 @@ Risk assessments do not appear in the **Self-Service** &gt; **My assessments &am
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Assess risks](../concept/assess-risk-old-way.md)
+**Parent Topic:**[Assess risks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/assess-risk-old-way.md)
 

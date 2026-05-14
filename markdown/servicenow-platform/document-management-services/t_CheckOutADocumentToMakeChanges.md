@@ -29,7 +29,7 @@ Role required: document\_management\_user
 
 2.  Select the **Check Out Document** related link.
 
-    ![Check out a document.](../image/CheckOutADocument.png)
+    ![Check out a document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../image/CheckOutADocument.png)
 
 3.  Select **Download file**.
 
@@ -42,5 +42,5 @@ Role required: document\_management\_user
     For example, `Policy_POL_02.txt`.
 
 
-**Parent Topic:**[Managed Documents](../concept/c_ManagedDocuments.md)
+**Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../concept/c_ManagedDocuments.md)
 

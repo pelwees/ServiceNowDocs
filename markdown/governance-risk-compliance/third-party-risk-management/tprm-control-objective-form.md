@@ -189,10 +189,10 @@ Functional domain
 Functional domain for the control objective.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manually add a control objective to a question](../../grc-vendor-risk-implementation/task/tprm-add-controls-q.md)
+</table>**Parent Topic:**[Manually add a control objective to a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-add-controls-q.md)
 
 **Related topics**  
 
 
-[Manually add a control objective to a question](../../grc-vendor-risk-implementation/task/tprm-add-controls-q.md)
+[Manually add a control objective to a question](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-vendor-risk-implementation/task/tprm-add-controls-q.md)
 

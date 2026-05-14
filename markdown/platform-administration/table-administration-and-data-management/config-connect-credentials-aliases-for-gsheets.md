@@ -124,7 +124,7 @@ Configuration template to use to create a connection and credential record.
         |-----|-----------|
         |Name|Unique name of the credential to differentiate it from the default credentials that are provided by the application. For example, Sheet credentials.|
         |Active|Option to activate the credential.|
-        |OAuth Entity Profile|Default OAuth entity profile that was generated when you performed the application registry in [Create an application registry for Google Sheets on a ServiceNow instance](configure-app-registry-gsheets.md).|
+        |OAuth Entity Profile|Default OAuth entity profile that was generated when you performed the application registry in [Create an application registry for Google Sheets on a ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/configure-app-registry-gsheets.md).|
         |Applies to|Option to specify if the credential record is applicable for all MID Servers, or a specific MID Server. If specific, add the MID Servers as necessary.|
         |Order|Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number means that the higher in the list this credential appears.|
 
@@ -279,5 +279,5 @@ Number of seconds that the system waits for a successful host connection.
 
 The connection and credential alias record is configured to connect your ServiceNow instance with Google Sheets.
 
-**Parent Topic:**[Exporting your table records to Google Sheets](../concept/setup-gsheet-export.md)
+**Parent Topic:**[Exporting your table records to Google Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/setup-gsheet-export.md)
 

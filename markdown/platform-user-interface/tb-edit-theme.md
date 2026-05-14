@@ -26,7 +26,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
     The Theme Builder landing page opens in a new tab and is displayed in the Home page view.
 
-    ![Page menu.](../image/tb-home.png "Page menu")
+    ![Page menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-home.png "Page menu")
 
 2.  From the Home page view, select Manager page view to see all available themes.
 
@@ -34,9 +34,9 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
     **Note:** In both the Grid and List views, your published and unpublished themes are grouped separately. The published themes are themes that appear in the user's theme preference. View your web and mobile themes by selecting either the **Web** or **Mobile** button.
 
-    ![Grid view.](../image/tb-grid-view.png "Grid view")
+    ![Grid view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-grid-view.png "Grid view")
 
-    ![List view.](../image/tb-list-view.png "List view")
+    ![List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-list-view.png "List view")
 
     Use the More actions icon ![](../image/tb-more-actions.png)on a published theme to access these options:
 
@@ -90,23 +90,23 @@ From the Published or Unpublished section, choose the theme you want to edit and
 
 </td><td>
 
-Choose the theme you want to edit from the Theme drop-down list.![Select a theme from the Theme drop-down list.](../image/tb-select-theme-editor-view.png "Select a theme from the Theme drop-down list")
+Choose the theme you want to edit from the Theme drop-down list.![Select a theme from the Theme drop-down list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-select-theme-editor-view.png "Select a theme from the Theme drop-down list")
 
 </td></tr></tbody>
 </table>    **Note:** When you select the theme you want to work on, verify that you selected the correct scope for the theme from the application scope picker.
 
-    ![Application scope picker.](../image/tb-scope-picker.png "Application Scope Picker")
+    ![Application scope picker.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-scope-picker.png "Application Scope Picker")
 
 4.  Review and update the Global styles, as needed.
 
-    ![Review global styles.](../image/tb-global-styles.png "Global styles overview")
+    ![Review global styles.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-global-styles.png "Global styles overview")
 
     **Note:** The following style records are generated with your theme:
 
-    -   **Your brand palette**: Update the interface colors for your brand. For more information, see [Edit your theme colors](edit-theme-colors.md).
-    -   **Logo**: Update the logo. You can upload the logo during the theme application from the Overview page. For more information, see [Upload a new logo to your Theme Builder theme](tb-upload-logo.md).
-    -   **Typography**: Update the fonts applied globally to your experience. The fonts are used in headlines, titles, subtitles, body text, and captions. For more information, see [Edit your default font](edit-font.md).
-    -   **Shape**: Update the corner shapes of on-screen components. For more information, see [Edit corner shapes](edit-corner-shapes.md).
+    -   **Your brand palette**: Update the interface colors for your brand. For more information, see [Edit your theme colors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-theme-colors.md).
+    -   **Logo**: Update the logo. You can upload the logo during the theme application from the Overview page. For more information, see [Upload a new logo to your Theme Builder theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-upload-logo.md).
+    -   **Typography**: Update the fonts applied globally to your experience. The fonts are used in headlines, titles, subtitles, body text, and captions. For more information, see [Edit your default font](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-font.md).
+    -   **Shape**: Update the corner shapes of on-screen components. For more information, see [Edit corner shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/edit-corner-shapes.md).
 5.  Preview your theme before publishing.
 
     1.  Select the **Experiences** tab from the Global styles panel.
@@ -115,7 +115,7 @@ Choose the theme you want to edit from the Theme drop-down list.![Select a theme
 
     3.  Select the Open in new tab icon ![](../image/tb-icon-open-new-tab.png) to open the experience in a new tab.
 
-        ![Global styles experience preview screen.](../image/tb-experience-preview-1.png "Experience preview")
+        ![Global styles experience preview screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-experience-preview-1.png "Experience preview")
 
         An actual live instance appears with all the theme selections applied. You can preview it before implementing the selected themes on the actual instance.
 
@@ -123,19 +123,19 @@ Choose the theme you want to edit from the Theme drop-down list.![Select a theme
 
 6.  Publish your theme.
 
-    For more information, see [Publish your themes with Theme Builder](tb-apply-theme.md).
+    For more information, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
 
--   **[Core styles, colors, variants, and alternate color palettes](../reference/difference-themes-variants.md)**  
+-   **[Core styles, colors, variants, and alternate color palettes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/difference-themes-variants.md)**  
 You can tailor the look and feel of the Next Experience UI for different users by configuring the core styles, variants, and alternate color palettes. Core styles define the base theme, variants support accessibility needs, and alternate color palettes provide cosmetic customization options for end users.
--   **[Add an alternate color palette](tb-edit-color-palette.md)**  
+-   **[Add an alternate color palette](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-color-palette.md)**  
 Customize a Theme Builder theme by creating an alternate color palette for the theme and publishing it to your instance.
--   **[Working with Global styles](../concept/working-with-global-styles.md)**  
+-   **[Working with Global styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-global-styles.md)**  
 Global styles enable you to edit and define core design elements like fonts, colors, and shapes that apply across your entire theme.
--   **[Working with Component styles](../concept/working-with-component-styles.md)**  
+-   **[Working with Component styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-component-styles.md)**  
 Component styles enable you to fine-tune the appearance of individual UI elements such as buttons, form controls, and navigation without affecting global theme settings. Use component styles when you need more granular control than what Global styles provide.
--   **[Working with Image styles](../concept/working-with-image-styles.md)**  
+-   **[Working with Image styles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/working-with-image-styles.md)**  
 Image styles enable you to experiment with different color schemes for illustrations and replace default illustrations with your own custom images. The Image styles feature provides flexibility in customizing the visual elements of your theme.
 
-**Parent Topic:**[Configuring Next Experience with Theme Builder](configuring-next-experience-with-theme-builder.md)
+**Parent Topic:**[Configuring Next Experience with Theme Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configuring-next-experience-with-theme-builder.md)
 

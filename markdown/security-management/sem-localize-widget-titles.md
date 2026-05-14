@@ -75,5 +75,5 @@ Application for the widget. Select **Security Exposure Management**.**Note:** Cr
     **Important:** If you later rename a widget, search for its existing record in the Messages \[sys\_ui\_message\_list\] table, and update the **Key** and **Message** fields with the new widget title.
 
 
-**Parent Topic:**[Configure Visualization library](sem-configure-visualization-library.md)
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 

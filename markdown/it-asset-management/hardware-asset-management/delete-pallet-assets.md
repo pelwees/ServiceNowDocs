@@ -31,23 +31,23 @@ You can delete a pallet only if it’s empty. Remove any assets before trying to
 
 3.  Select the pallet that you want to delete.
 
-4.  Select the more actions icon ![More actions icon](../image/more-actions-icon.png) next to the **Save** button and select **Delete**.
+4.  Select the more actions icon ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/more-actions-icon.png) next to the **Save** button and select **Delete**.
 
 
 ## Result
 
 The pallet that you deleted is no longer shown under the Pallets tab.
 
-**Parent Topic:**[Manage your inventory through pallet assets](../concept/pallets-for-inventory-management.md)
+**Parent Topic:**[Manage your inventory through pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/pallets-for-inventory-management.md)
 
 **Related topics**  
 
 
-[Create pallet assets](create-pallet-assets.md)
+[Create pallet assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-pallet-assets.md)
 
-[Add assets to a pallet](add-assets-to-pallet.md)
+[Add assets to a pallet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-assets-to-pallet.md)
 
-[Remove assets from a pallet](remove-assets-from-pallet.md)
+[Remove assets from a pallet](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/remove-assets-from-pallet.md)
 
-[Using pallet assets for managing inventory](../concept/using-pallet-assets-for-inventory-mgmt.md)
+[Using pallet assets for managing inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/using-pallet-assets-for-inventory-mgmt.md)
 

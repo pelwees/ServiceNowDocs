@@ -93,5 +93,5 @@ This application requires Financial Services Card Operations \(sn\_bom\_credit\_
     Visualize business process workflows in a simple, task-oriented view with the Playbooks for Customer Service Management \(CSM\) to verify consistent responses to commonly encountered situations.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

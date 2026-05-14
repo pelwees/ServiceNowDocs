@@ -19,7 +19,7 @@ NIST Framework Profiling Overview dashboard contains reports within each of the 
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-![NIST Framework Profiling Overview dashboard in the Next Experience UI Framework.](../image/nist-framework-profiling-pa-db-pc.png "NIST Framework Profiling Overview dashboard in the Next Experience UI Framework")
+![NIST Framework Profiling Overview dashboard in the Next Experience UI Framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/../image/nist-framework-profiling-pa-db-pc.png "NIST Framework Profiling Overview dashboard in the Next Experience UI Framework")
 
 ## Required ServiceNow AI Platform roles
 
@@ -41,5 +41,5 @@ To open the dashboard, navigate to **All** &gt; **NIST CSF** &gt; **Framework Pr
 |Failed Indicators|Displays an overview of failed indicators that for cybersecurity activities. Indicators are grouped by policies, entity class, entities, or functions.|
 |Action Plans|Displays an overview of action plans that exist for cybersecurity activities. Action plans are grouped by policies, entity class, entities, or functions.|
 
-**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](grc-policy-compliance-content-pack.md)
+**Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 

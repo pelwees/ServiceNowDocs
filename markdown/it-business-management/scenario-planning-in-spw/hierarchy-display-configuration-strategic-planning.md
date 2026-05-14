@@ -23,7 +23,7 @@ Show or hide parent records of planning items shown in the Hierarchy tab for hig
 
     If you want to see other departments that are included in this portfolio plan but have no planning items associated to them, work with your administrator to create the system property **sn\_align\_ws.gantt\_hide\_empty\_entities** and set it to **false**.
 
-    ![Hierarchy view showing parent records without associated planning items.](../images/hierarchy-show-empty-entities.png)
+    ![Hierarchy view showing parent records without associated planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/hierarchy-show-empty-entities.png)
 
 -   **Display complete hierarchy for high-level portfolio plans**
 
@@ -33,8 +33,8 @@ Show or hide parent records of planning items shown in the Hierarchy tab for hig
 
     If you want to see the whole hierarchy of Strategic priority &gt; Initiative &gt; Strategic program &gt; planning items, work with your administrator to create the system property **true**.
 
-    ![Hierarchy view showing the whole hierarchy.](../images/hierarchy-show-full.png)
+    ![Hierarchy view showing the whole hierarchy.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/hierarchy-show-full.png)
 
 
-**Parent Topic:**[Prioritization display settings in Strategic Planning](configuring-prioritization-and-roadmap-settings-strategic-planning.md)
+**Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 

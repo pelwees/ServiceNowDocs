@@ -24,5 +24,5 @@ List reports do not support the user preference to automatically expand grouped 
 
 The sections of the report are collapsed by default. In this example, a list of products is grouped by manufacturer and the items associated with Gateway are expanded.
 
-![List grouped by manufacturer with one group expanded](../image/ListGrouped.png "Grouped list report")
+![List grouped by manufacturer with one group expanded](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/ListGrouped.png "Grouped list report")
 

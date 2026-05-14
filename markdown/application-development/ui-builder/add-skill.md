@@ -42,7 +42,7 @@ In this example, you will:
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Create or open a page.
 
@@ -59,7 +59,7 @@ In this example, you will:
 
     **Tip:** Select **Hide inactive** to remove inactive skills from view.
 
-    ![UI Builder editor with the Select a Now Assist skill dialog open.](../image/add-skill-select.png)
+    ![UI Builder editor with the Select a Now Assist skill dialog open.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-skill-select.png)
 
     **Note:** Skills that are enabled in Now Assist Skill Kit but not activated in Now Assist Admin appear in the list, but aren't selectable. For more information, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md) and [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
 
@@ -83,7 +83,7 @@ In this example, you will:
 
         The **fieldValue** property captures what the user types in the input field. By using this property as the input to the skill, you set the skill to trigger whenever the user enters text.
 
-        ![UI Builder editor with the Bind data to topic dialog open, showing the fieldValue output selected and added to the upper section.](../image/add-skill-input.png)
+        ![UI Builder editor with the Bind data to topic dialog open, showing the fieldValue output selected and added to the upper section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-skill-input.png)
 
     6.  Select **Add**.
 
@@ -105,18 +105,18 @@ In this example, you will:
 
     8.  Select **Apply**.
 
-    ![UI Builder editor with the Bind data to Text dialog open, showing the Data resource > Generate Content > result > response output added to the upper section.](../image/add-skill-response.png)
+    ![UI Builder editor with the Bind data to Text dialog open, showing the Data resource > Generate Content > result > response output added to the upper section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-skill-response.png)
 
 10. Select **Save**.
 
 11. Select **Preview** to test the skill.
 
-    ![UI Builder page preview showing a functional input component using the Generate Content skill.](../image/add-skill-result.png)
+    ![UI Builder page preview showing a functional input component using the Generate Content skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-skill-result.png)
 
 
 ## Result
 
 When you view the page and type in the input field, your text input triggers the **Generate Content** skill to execute and return content on the topic in the input field.
 
-**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](../concept/data-resources.md)
+**Parent Topic:**[Dynamically expose data in UI Builder pages \(advanced feature\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/data-resources.md)
 

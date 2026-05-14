@@ -136,5 +136,5 @@ Distribution of signed records across different application modules, showing the
 -   **Others**: Percentage of signed records in all other application modules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)
+</table>**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 

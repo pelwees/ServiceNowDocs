@@ -32,5 +32,5 @@ Role required: sn\_hco\_orc.loc\_support\_agent or sn\_hco\_orc.plan author
 
 ## What to do next
 
-[Input plan details into the Operational Rounding playbook](ctwm-op-plan-details.md)
+[Input plan details into the Operational Rounding playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-op-plan-details.md)
 

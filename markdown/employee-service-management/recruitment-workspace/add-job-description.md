@@ -38,7 +38,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## What to do next
 
-Send the requisition for approval. For more information, see [Submit a job requisition for approval](submit-for-approval-job-req.md).
+Send the requisition for approval. For more information, see [Submit a job requisition for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/submit-for-approval-job-req.md).
 
-**Parent Topic:**[Using Recruitment workspace](../concept/use-recruit-workspace.md)
+**Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/../concept/use-recruit-workspace.md)
 

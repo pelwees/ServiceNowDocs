@@ -35,7 +35,7 @@ The footer is hidden by default. To configure the footer, you enable it in UI Bu
 
     The main variant of the landing page is read-only. To edit, you work in a copy.
 
-    ![UI Builder Next Experience landing page more options menu with Duplicate highlighted](../image/duplicate-unified-nav-landing.png)
+    ![UI Builder Next Experience landing page more options menu with Duplicate highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/duplicate-unified-nav-landing.png)
 
 5.  In the variant creation modal, keep all fields as-is and select **Create**.
 
@@ -58,5 +58,5 @@ The footer is hidden by default. To configure the footer, you enable it in UI Bu
     For more information, see [Link set UIB Setup](https://developer.servicenow.com/dev.do#!/reference/now-experience/rome/shared-components/now-link-set/uib-setup) in the ServiceNow Developer documentation.
 
 
-**Parent Topic:**[Next Experience landing pages](../concept/next-experience-landing-pages.md)
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/next-experience-landing-pages.md)
 

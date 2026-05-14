@@ -15,13 +15,13 @@ breadcrumb: [Core UI Reporting, Reporting, Reporting, dashboards, and Performanc
 
 Show existing reports in a Service Portal.
 
-When you edit a portal, add the **Report** widget. Use the widget options to specify a report to show on the service portal and whether to show the title of the report. The widget lists created in the Report Designer. For more information, see [Create a report](../task/t_CreateYourOwnReport.md#).
+When you edit a portal, add the **Report** widget. Use the widget options to specify a report to show on the service portal and whether to show the title of the report. The widget lists created in the Report Designer. For more information, see [Create a report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../task/t_CreateYourOwnReport.md#).
 
-![Report widget opened in the Service Portal Designer](../image/service-portal-report-widget2.png "Report widget")
+![Report widget opened in the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/service-portal-report-widget2.png "Report widget")
 
 With the report widget, you can show all report types on your portal except for list reports. Use the [Simple List Widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/simple-list-widget.md) instead.
 
-**Parent Topic:**[Using reporting](c_GenerateReports.md)
+**Parent Topic:**[Using reporting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_GenerateReports.md)
 
 ## Activate the Performance Analytics and Reporting - Service Portal Widgets plugin
 

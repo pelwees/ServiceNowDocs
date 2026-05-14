@@ -17,7 +17,7 @@ Set a fallback language to be used when user interface text is not translated in
 
 ## Before you begin
 
-Activate the languages that your users need. For more information, see [Activate a language](t_ActivateALanguage.md) for supported languages or [Translating to an unsupported language](self-localize.md) for custom translations.
+Activate the languages that your users need. For more information, see [Activate a language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_ActivateALanguage.md) for supported languages or [Translating to an unsupported language](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/system-localization/self-localize.md) for custom translations.
 
 Role required: admin
 

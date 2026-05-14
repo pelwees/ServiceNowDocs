@@ -66,5 +66,5 @@ Base input fields
 -   ERP number
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Customize a Now Assist for Common Finance and Supply Chain features skill](../task/cust-now-assist-fsc-skill.md)
+</table>**Parent Topic:**[Customize a Now Assist for Common Finance and Supply Chain features skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/../task/cust-now-assist-fsc-skill.md)
 

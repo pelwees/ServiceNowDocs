@@ -75,12 +75,12 @@ Option to select the badging data state: -   Access Granted
 Select **Access Granted**.
 
 </td></tr></tbody>
-</table>    The Employee Attendance table data is loaded to the Attendance Analytics table to generate space occupancy metrics in Workplace Central. For more information, see [Attendance Analytics](attendance-analytics.md).
+</table>    The Employee Attendance table data is loaded to the Attendance Analytics table to generate space occupancy metrics in Workplace Central. For more information, see [Attendance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md).
 
 
-**Parent Topic:**[Setup Workplace Connectors for badging data](../concept/setup-workplace-connectors.md)
+**Parent Topic:**[Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/../concept/setup-workplace-connectors.md)
 
-**Previous topic:**[Configure a webhook event](configure-webhook-restapi.md)
+**Previous topic:**[Configure a webhook event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-webhook-restapi.md)
 
-**Next topic:**[Attendance Analytics](attendance-analytics.md)
+**Next topic:**[Attendance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md)
 

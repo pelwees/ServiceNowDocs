@@ -53,20 +53,20 @@ The Regulatory Change Management application in Compliance Workspace contains th
     Provides the list of the GRC objects in the Compliance Workspace.
 
 
-![RCM dashboard view with Alerts, Tasks, and Trend reports from the Compliance Workspace.](../image/home-page-compliance-workspace.png "Home page view in the Compliance Workspace")
+![RCM dashboard view with Alerts, Tasks, and Trend reports from the Compliance Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../image/home-page-compliance-workspace.png "Home page view in the Compliance Workspace")
 
-**Note:** GRC administrators configure the tasks and issues in the Landing Page Configurations module in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](../../grc-common/reference/admin-config-using-grc-common.md).
+**Note:** GRC administrators configure the tasks and issues in the Landing Page Configurations module in the classic user interface. These tasks and issues are visible to the end users in the landing pages of various workspaces. For more information, see [Landing Page Configurations module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-common/reference/admin-config-using-grc-common.md).
 
-**Parent Topic:**[Exploring Regulatory Change Management](what-is-rcm.md)
+**Parent Topic:**[Exploring Regulatory Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/what-is-rcm.md)
 
 **Related topics**  
 
 
-[Differences between regulatory event alert and source document alert](../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
+[Differences between regulatory event alert and source document alert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/../../grc-rcm-workspace/task/regulatory-event-alert-vs-source-document-alert.md)
 
-[Regulatory process flow and tasks](reg-change-workflow-swimlane.md)
+[Regulatory process flow and tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-workflow-swimlane.md)
 
-[Next Experience Discuss and Chat Collaboration](next-experience-discuss-chat-collaboration.md)
+[Next Experience Discuss and Chat Collaboration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/next-experience-discuss-chat-collaboration.md)
 
-[Exploring Now Assist in Regulatory Change Management \(RCM\)](rcm-exploring-now-assist-for-irm.md)
+[Exploring Now Assist in Regulatory Change Management \(RCM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-exploring-now-assist-for-irm.md)
 

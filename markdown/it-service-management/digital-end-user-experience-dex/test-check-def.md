@@ -17,7 +17,7 @@ Test a check definition on an endpoint device to verify that the Agent Client Co
 
 ## Before you begin
 
-Create a check definition and link it to the ACC plugin package. For more information, see [Create a check definition for a custom remedial action](create-check-def-remedial-actions.md).
+Create a check definition and link it to the ACC plugin package. For more information, see [Create a check definition for a custom remedial action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/create-check-def-remedial-actions.md).
 
 Role required: admin
 
@@ -44,5 +44,5 @@ Role required: admin
 8.  Review the Test Check status to confirm that the remedial action defined in the Powershell script is successfully executed.
 
 
-**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](../concept/remedial-actions-ps.md)
+**Parent Topic:**[Creating and executing a PowerShell script-based remedial action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/remedial-actions-ps.md)
 

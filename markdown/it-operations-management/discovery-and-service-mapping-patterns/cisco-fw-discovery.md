@@ -76,7 +76,7 @@ Discovery populates the data in the CMDB when running the Next Generation Cisco 
 
 This Dependency Views map on the Cisco Firewall Device CI shows the Cisco Firewall Device.
 
-![CIs and connections on a Dependency Views map](../image/cisco-fw-dependency-views.png)
+![CIs and connections on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/cisco-fw-dependency-views.png)
 
 ## CI relationships
 
@@ -93,5 +93,5 @@ These relationships are created to support Cisco firewall discovery.
 |Router Interface \[dscy\_router\_interface\]|References|Cisco Firewall Device \[cmdb\_ci\_firewall\_device\_cisco\]|
 |Serial Number \[cmdb\_serial\_number\]|References|Cisco Firewall Device \[cmdb\_ci\_firewall\_device\_cisco\]|
 
-**Parent Topic:**[Available on-premise discovery patterns](../concept/available-patterns.md)
+**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../concept/available-patterns.md)
 

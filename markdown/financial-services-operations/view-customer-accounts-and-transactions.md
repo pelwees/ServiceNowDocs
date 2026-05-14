@@ -36,19 +36,19 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
     The transactions are presented in a list, showing the description, posting date time, amount, and transaction type.
 
-    ![Customer 360 overview showing deposit, credit, and debt summaries with account transactions.](../images/agentic-contact-center-banking-c360-overview.png)
+    ![Customer 360 overview showing deposit, credit, and debt summaries with account transactions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../images/agentic-contact-center-banking-c360-overview.png)
 
 
-**Parent Topic:**[Financial Services](../../fso-common/concept/fso-overview.md)
+**Parent Topic:**[Financial Services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-common/concept/fso-overview.md)
 
 **Related topics**  
 
 
-[Customer 360 page for Agentic Contact Center for Banking](../concept/customer-360-agentic-contact-center-for-banking.md)
+[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../concept/customer-360-agentic-contact-center-for-banking.md)
 
-[View customer cases in Agentic Contact Center for Banking](view-cases.md)
+[View customer cases in Agentic Contact Center for Banking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/view-cases.md)
 
-[Summarize a customer profile in the Customer 360 page](../../fso-now-assist/task/summarize-customer-profile-fso.md)
+[Summarize a customer profile in the Customer 360 page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-now-assist/task/summarize-customer-profile-fso.md)
 
-[Generate customer insights in the Customer 360 page](../../fso-now-assist/task/generate-customer-insights-customer-360-workspace.md)
+[Generate customer insights in the Customer 360 page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../fso-now-assist/task/generate-customer-insights-customer-360-workspace.md)
 

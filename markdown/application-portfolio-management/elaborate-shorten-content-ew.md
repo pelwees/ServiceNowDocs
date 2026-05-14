@@ -17,7 +17,7 @@ Elaborate or shorten the Architectural Decision Records \(ADR\) content using th
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-Make sure that the ADR Doc Summarization and Actions skill is activated. For information, see [Configure Now Assist for Enterprise Architecture \(EA\)](configure-now-assist-ea.md).
+Make sure that the ADR Doc Summarization and Actions skill is activated. For information, see [Configure Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/configure-now-assist-ea.md).
 
 **Note:** The ADR feature in Enterprise Architecture Workspace uses the ServiceNow Docs component \(sn\_docs\) to create pages in the Artifacts section. Docs component v6.0.0 is automatically installed with Enterprise Architecture Workspace v3.4.0.
 
@@ -29,9 +29,9 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](../../application-portfolio-management/image/portfolio-icon.png).
+2.  Open the Portfolio List view by selecting the Portfolio icon ![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/portfolio-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon](../../application-portfolio-management/image/ExpandIcon.png)\) next to **Information Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/image/ExpandIcon.png)\) next to **Information Portfolio**.
 
 4.  Select **Architectural Decision Records**.
 
@@ -39,7 +39,7 @@ Role required: sn\_apm.apm\_user
 
 6.  From the **Artifact content** tab, select the text.
 
-    ![Ealborate, shorten ADR content](../image/elaborate-shortent-adr-content.png)
+    ![Ealborate, shorten ADR content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/elaborate-shortent-adr-content.png)
 
 7.  Select the **Now Assist** drop-down to perform any of the following tasks.
 
@@ -48,15 +48,15 @@ Role required: sn\_apm.apm\_user
     -   **Shorten**: Shortens the selected text.
 8.  Use the **Refine** button on Now Assist pop-up to Elaborate more or shorten the text.
 
-    ![Refine content](../image/adr-doc-refine.png)
+    ![Refine content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../image/adr-doc-refine.png)
 
 9.  Select **Insert below** to insert the content in the ADR record.
 
 
-**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](../concept/using-now-assist-for-ea.md)
+**Parent Topic:**[Using Now Assist for Enterprise Architecture \(EA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../concept/using-now-assist-for-ea.md)
 
 **Related topics**  
 
 
-[Add or edit an architectural decision record \(ADR\)](../../application-portfolio-management/task/eaw-task/eaw-create-edit-adr.md)
+[Add or edit an architectural decision record \(ADR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../application-portfolio-management/task/eaw-task/eaw-create-edit-adr.md)
 

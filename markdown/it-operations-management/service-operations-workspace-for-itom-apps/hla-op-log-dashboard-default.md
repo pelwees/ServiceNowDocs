@@ -19,13 +19,13 @@ Use visualizations to monitor log data on the built-in Operational Dashboard in 
 
 Role required: evt\_mgmt\_operator or viz\_admin
 
-**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](../../../use/dashboards/application-content-packs/hla-operational-dashboard.md). For more information about AIOps dashboards, see [AIOps Dashboards in Service Operations Workspace for ITOM](../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](../../health-log-analytics-admin/task/hla-log-data-dashboard-create.md).
+**Important:** From the Vancouver release onward, this feature is deprecated and replaced with the AIOps [HLA Operational dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../../use/dashboards/application-content-packs/hla-operational-dashboard.md). For more information about AIOps dashboards, see [AIOps Dashboards in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/concept/aiops-dashboards-sow-itom.md). You can also build a custom dashboard per your needs. For more information, see [Create log data dashboards and visualizations in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/task/hla-log-data-dashboard-create.md).
 
 ## Procedure
 
 1.  Open the **Log Viewer** using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(![Log Viewer icon.](../image/icon-log-viewer-sow.png)\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(![Log Viewer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/icon-log-viewer-sow.png)\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Select the selection icon at the top right of the **Log viewer** tab, and then choose **Manage my dashboards** from the drop-down list.
 
@@ -33,7 +33,7 @@ Role required: evt\_mgmt\_operator or viz\_admin
 
     By default, the dashboard visualizes log data that was ingested in the last 24 hours.
 
-    ![Operational dashboard.](../../service-operations-workspace-itom/image/dashboard-log-data.png)
+    ![Operational dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../service-operations-workspace-itom/image/dashboard-log-data.png)
 
 3.  Change the time range for which data is shown by selecting the required range from the **Date** drop-down.
 
@@ -127,5 +127,5 @@ Ensure that Critical and Error level rates are as expected.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](../../health-log-analytics-admin/concept/hla-dashboard-visualizations.md)
+**Parent Topic:**[Dashboards for real-time visualization of log data in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/concept/hla-dashboard-visualizations.md)
 

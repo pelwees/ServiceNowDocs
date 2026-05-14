@@ -45,7 +45,7 @@ Action
 
 </td><td>
 
-From the roadmap header, select the **Comments** icon \(![Comments icon.](../../alignment-planner-workspace/images/icon-comments.png)\)
+From the roadmap header, select the **Comments** icon \(![Comments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-comments.png)\)
 
 </td></tr><tr><td id="d206006e123">
 

@@ -28,16 +28,16 @@ As a receptionist, you can perform the following actions:
 -   Break check-out and check-in for multi-part visits
 -   Take bulk actions like batch printing of visitor badges
 
-![Receptionist portal displaying visitors for one day. Visitors are displayed in three columns: Expected, checked-in, and checked-out.](../image/wsd-visitor-receptionist-portal.png)
+![Receptionist portal displaying visitors for one day. Visitors are displayed in three columns: Expected, checked-in, and checked-out.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../image/wsd-visitor-receptionist-portal.png)
 
-**Parent Topic:**[Exploring Workplace Visitor Management](workplace-visitor-mgmt-ovw.md)
+**Parent Topic:**[Exploring Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-ovw.md)
 
 **Related topics**  
 
 
-[Visitor registration](register-visitors.md)
+[Visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/register-visitors.md)
 
-[Host portal](host-portal.md)
+[Host portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/host-portal.md)
 
-[Visitor portal](visitor-portal.md)
+[Visitor portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/visitor-portal.md)
 

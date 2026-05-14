@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.manager
 
 3.  To generate the report in Microsoft Word format, select **...** and select **Generate MS Word** in the record view.
 
-    ![Generate MS Word UI action.](../image/d3-gen-word-ui-action.png)
+    ![Generate MS Word UI action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/d3-gen-word-ui-action.png)
 
     The Generate report window is displayed.
 
@@ -35,9 +35,9 @@ Role required: sn\_oper\_res.manager
 
     The action task report is generated in the Microsoft Word format. It includes information from the **Details** and **Assessments** tabs and attachments. It includes information such as form sections, questions, template sections, question answers, and attachment links as shown in the examples.
 
-    ![Contents of the Microsoft Word report.](../image/word-rep-1.png)![Fields in the Microsoft Word report.](../image/word-rep-2.png)
+    ![Contents of the Microsoft Word report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/word-rep-1.png)![Fields in the Microsoft Word report.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/word-rep-2.png)
 
-    For information on Microsoft Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](../concept/gen-word-reports.md).
+    For information on Microsoft Word templates and Template configurations, see [Generating Microsoft Word reports using Document designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/gen-word-reports.md).
 
     The generation of Microsoft Word reports, required by the authorities for analysis in Digital resilience incident reporting, is completed with this step.
 

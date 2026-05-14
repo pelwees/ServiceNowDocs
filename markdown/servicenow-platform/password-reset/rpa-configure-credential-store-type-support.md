@@ -44,5 +44,5 @@ For more information about Robotic Process Automation, see [Robotic Process Auto
 7.  Click **Update** or save the changes.
 
 
-**Parent Topic:**[Customizing Password Reset processes](../concept/customizing-password-reset.md)
+**Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../concept/customizing-password-reset.md)
 

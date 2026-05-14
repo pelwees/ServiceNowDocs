@@ -17,7 +17,7 @@ Assign ownership of one or more service accounts and, optionally, the related CI
 
 ## Before you begin
 
-Before you assign service accounts, you might want to view the list of current insights\_owner and their owned accounts. See [View the service accounts owned by an insights\_owner](insights-owners-view-list-cloudin.md) for details.
+Before you assign service accounts, you might want to view the list of current insights\_owner and their owned accounts. See [View the service accounts owned by an insights\_owner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owners-view-list-cloudin.md) for details.
 
 Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
@@ -139,5 +139,5 @@ The following process runs:
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Assign service accounts to an insights\_owner](insights-owner-new-cloudin.md)
+**Parent Topic:**[Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owner-new-cloudin.md)
 

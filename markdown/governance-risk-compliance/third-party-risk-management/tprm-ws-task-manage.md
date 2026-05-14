@@ -27,7 +27,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
     **Note:** The other options in the list \(**Due diligence requests**, **Issues**, and so on\) also enable you to select a task to work on.
 
-    ![Creating a task.](../../grc-workspace-vrm/image/tprm-ws-task-page.png)
+    ![Creating a task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../../grc-workspace-vrm/image/tprm-ws-task-page.png)
 
 <table id="table_krg_p53_2yb"><thead><tr><th>
 

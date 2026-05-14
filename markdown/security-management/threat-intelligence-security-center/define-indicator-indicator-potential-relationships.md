@@ -52,5 +52,5 @@ Role required: sn\_sec\_tisc.analyst
 6.  Click **Delete** to delete the relationships.
 
 
-**Parent Topic:**[Potential Relationships](../concept/potential-relationships.md)
+**Parent Topic:**[Potential Relationships](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/potential-relationships.md)
 

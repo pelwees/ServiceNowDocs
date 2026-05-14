@@ -25,15 +25,15 @@ You can leverage a few Service Operations Workspace integrations to enhance and 
 -   The agent can create a change request to fix the issue.
 -   The agent can manage schedules and assigned trainings. The agent can also request for time-offs, shift swaps, and track performance against goals.
 
--   **[Workforce Optimization for ITSM in the Service Operations Workspace](wfo-itsm-service-operations-workspace.md)**  
+-   **[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/wfo-itsm-service-operations-workspace.md)**  
 Manage your schedule using Workforce Optimization for ITSM Scheduling in Service Operations Workspace. Use Coaching to review and complete assigned training.
 
-**Parent Topic:**[Service Operations Workspace for ITSM](sow-landing-page.md)
+**Parent Topic:**[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-landing-page.md)
 
 **Related topics**  
 
 
-[Operating IT services in your organization](enhancing-services-operations-in-organization.md)
+[Operating IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/enhancing-services-operations-in-organization.md)
 
-[Managing IT services in your organization](managing-services-operations-in-organization.md)
+[Managing IT services in your organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-services-operations-in-organization.md)
 

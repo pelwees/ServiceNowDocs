@@ -17,7 +17,7 @@ The command audit log records the commands run by the MID Server for the Discove
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
-![Set-up indicator for security phase](../image/ProgressBarSecure.png)
+![Set-up indicator for security phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarSecure.png)
 
 </td></tr></tbody>
 </table>The MID Server command audit log is a record of the commands the MID Server runs during discovery. For example, executing one pattern may run many separate commands. The MID Server command audit log supports Powershell commands for WMI and WinRM. For SSH commands, the audit log supports SSNC but not J2SSH. In Quebec, the command audit log only supports recording the commands run during discovery.
@@ -26,7 +26,7 @@ The command audit log records the commands run by the MID Server for the Discove
 
 The MID Server audit log is enabled with the MID Server property **mid.log.command\_audit.enable**, which is set to false by default. Add the property in the **MID Server Properties** table \[ecc\_agent\_property\_list.do\]. Once enabled, the MID Server command audit logs are accessed in the instance by navigating to **MID Server** &gt; **Command Audit Logs** \[ecc\_agent\_command\_audit\_log\_list.do\]. To see or change this table, the user must have the role **agent\_security\_admin**.
 
-![Typical data in the MID Server command audit logs.](../image/mid-audit-logs.png)
+![Typical data in the MID Server command audit logs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/mid-audit-logs.png)
 
 ## Data recorded in the command audit logs
 
@@ -40,36 +40,36 @@ Discovery supports JEA profiles for WinRM. The MID Server command audit log reco
 
 By default, the table is rotated every seven days. For more information, see [Table Rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md).
 
-**Parent Topic:**[Securing and encrypting MID Server data](mid-server-security-encryption.md)
+**Parent Topic:**[Securing and encrypting MID Server data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-security-encryption.md)
 
 **Related topics**  
 
 
-[MID Server certificate check policies](mid-security-checks.md)
+[MID Server certificate check policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-security-checks.md)
 
-[Encrypt or decrypt MID Server configuration file values](../task/mid-server-manual-encryption.md)
+[Encrypt or decrypt MID Server configuration file values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-server-manual-encryption.md)
 
-[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 
-[MID Server authentication credentials and SOAP requests](mid-authentication-soap-requests.md#)
+[MID Server authentication credentials and SOAP requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-authentication-soap-requests.md#)
 
-[MID Server unified key store](mid-unified-keystore.md#)
+[MID Server unified key store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-unified-keystore.md#)
 
-[Enable MID Server mutual authentication](../task/install-mid-mutual-auth.md)
+[Enable MID Server mutual authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/install-mid-mutual-auth.md)
 
-[MID Server Azure Key Vault integration](../task/mid-azure-key-vault-integration.md#)
+[MID Server Azure Key Vault integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-azure-key-vault-integration.md#)
 
-[Rekey a MID Server](../task/t_RekeyAMIDServer.md)
+[Rekey a MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/t_RekeyAMIDServer.md)
 
-[Add SSL certificates for the MID Server](../task/add-ssl-certificates.md#)
+[Add SSL certificates for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/add-ssl-certificates.md#)
 
-[Specify an external TrustStore for the MID Server](../task/mid-external-truststore.md)
+[Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-external-truststore.md)
 
-[MID Server SSH cryptographic algorithms](../reference/mid-ssh-algorithms.md)
+[MID Server SSH cryptographic algorithms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-ssh-algorithms.md)
 
-[Attach a script file to a file synchronized MID Server](../task/mid-server-script-attach.md#)
+[Attach a script file to a file synchronized MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../task/mid-server-script-attach.md#)
 
-[MID Server FIPS Enforced Mode](mid-fips-enforced.md#)
+[MID Server FIPS Enforced Mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-fips-enforced.md#)
 
-[MID Server Governance](mid-timeout.md)
+[MID Server Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-timeout.md)
 

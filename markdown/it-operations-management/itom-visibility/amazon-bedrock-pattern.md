@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The following diagram illustrates the tables and relationships that the AI Agent Topology Mapping application creates when discovering Amazon Bedrock resources.
 
-![Amazon Bedrock data model](../images/amazon-bedrock-data-model.png "Tables and relationships populated during Amazon Bedrock discovery")
+![Amazon Bedrock data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/amazon-bedrock-data-model.png "Tables and relationships populated during Amazon Bedrock discovery")
 
 **Note:** The **Deployed as::Deployment of** relationship between the AI Function \[cmdb\_ci\_function\_ai\] and AI System Digital Asset \[alm\_ai\_system\_digital\_asset\] tables is stored in the Asset-CI Relationship \[cmdb\_rel\_asset\_ci\] table and isn't represented in the Dependency View map.
 
@@ -44,7 +44,7 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
 -   **Activate the cloud-related CI relationships**
 
-    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](../../service-mapping/concept/tag_discovery_configuration.md).
+    To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/concept/tag_discovery_configuration.md).
 
 -   **Set up service accounts on the AWS Management Console**
 
@@ -60,13 +60,13 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
         When you run Discovery on your cloud resources, you don’t need separate credentials for each member account. The Cloud Discovery process handles credentials automatically by acquiring a temporary credential for each member via an AWS API. You can elect to use the default configuration or customize the MID Server to assume other roles for additional controls and security.
 
-    For more information, see [Setting up AWS service accounts](../../it-operations-management/concept/setup-aws-service-accounts.md).
+    For more information, see [Setting up AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/concept/setup-aws-service-accounts.md).
 
 -   **Use IAM user policy on the AWS Management Console**
 
-    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](../../it-operations-management/task/config-mid-iam-roles.md).
+    To use the IAM user policy instead of credentials during discovery, configure the MID Server for AWS IAM roles. For more information, see [configure the MID Server for AWS IAM roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/task/config-mid-iam-roles.md).
 
-    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](../../it-operations-management/task/aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
+    To create the IAM user policy for provisioning AWS resources, see [Control AWS access and permissions using policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/task/aws-create-user-policy-cloud-mgt.md). Ensure that the IAM user policy covers the following AWS resources:
 
     ```
     {
@@ -105,19 +105,19 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
 -   **Configure access to the AWS resources**
 
-    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](../../it-operations-management/concept/access-aws-accounts.md).
+    To discover a single account, create an IAM account in the AWS Management Console, and ensure that it has the "ReadOnlyAccess" policy applied. To discover several member or child accounts, configure the credentials as described in [Access setup for AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/concept/access-aws-accounts.md).
 
 -   **Configure the Discovery schedule to support GovCloud**
 
-    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [Create AWS service accounts](../../it-operations-management/task/create-aws-service-accounts.md).
+    Discovering AWS GovCloud \(US\) accounts requires using a datacenter URL when setting up an AWS service account. For more information, see [Create AWS service accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../it-operations-management/task/create-aws-service-accounts.md).
 
 -   **Configure a discovery schedule**
 
-    [Create an AWS Discovery schedule in Discovery Admin Workspace](../../discovery/task/create-AWS-schedule-DAW.md).
+    [Create an AWS Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../discovery/task/create-AWS-schedule-DAW.md).
 
 -   **\(Optional\) Discover datacenters only for new members**
 
-    Starting with Zurich Patch 2, you can discover datacenters only for new members added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](../../service-mapping/task/discover-datacenter-only-new-account.md).
+    Starting with Zurich Patch 2, you can discover datacenters only for new members added since the last discovery. For more information, see [Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/task/discover-datacenter-only-new-account.md).
 
 -   **Optimize discovery by including only datacenters with resources**
 
@@ -130,12 +130,12 @@ The following diagram illustrates the tables and relationships that the AI Agent
 
         For instructions on configuring AWS Config recorder, go to the [AWS Documentation](https://docs.aws.amazon.com/) and search for the "Recording resources in the AWS Config console" article.
 
-    -   Enable discovery of only datacenters with resources by setting the **mid.cloud.discovery.sonar.discover\_all\_aws\_datacenters** MID Server property to **false**. For more information, see [Limit AWS discovery to datacenters with resources](../../service-mapping/task/limit-aws-discovery-active-datacenter.md).
-    For more information, see the **AWS resources discovery by datacenters** section in [AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md).
+    -   Enable discovery of only datacenters with resources by setting the **mid.cloud.discovery.sonar.discover\_all\_aws\_datacenters** MID Server property to **false**. For more information, see [Limit AWS discovery to datacenters with resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/task/limit-aws-discovery-active-datacenter.md).
+    For more information, see the **AWS resources discovery by datacenters** section in [AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../discovery/reference/data-discovered-aws-patterns.md).
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating Service Account and Logical Datacenter fields directly in cloud CIs. For more information, see [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/concept/query-service-account-ldc-fields.md).
 
 
 ## Verify the REST API Permissions
@@ -269,7 +269,7 @@ AI Agent Topology Mapping populates the data in the CMDB when running the Amazon
 
 On the Dependency Views map, you can view discovered Amazon Bedrock resources and the relationships between them.
 
-![Amazon Bedrock AI Function CI and connection on a Dependency Views map](../images/amazon-bedrock-ai-function-dependency-view.png "AI Function dependency view")
+![Amazon Bedrock AI Function CI and connection on a Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../images/amazon-bedrock-ai-function-dependency-view.png "AI Function dependency view")
 
 ## CI relationships
 
@@ -301,10 +301,10 @@ The Amazon AWS - Bedrock Agents pattern collects tags and populates them in the 
 |Value \[value\]|Tag value.|
 |Configuration item \[configuration\_item\]|References the AI Function \[cmdb\_ci\_function\_ai\] table.|
 
-**Parent Topic:**[AI Agent Topology Mapping reference](ai-agent-topology-mapping-reference.md)
+**Parent Topic:**[AI Agent Topology Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ai-agent-topology-mapping-reference.md)
 
 **Related topics**  
 
 
-[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../discovery/reference/data-discovered-aws-patterns.md)
 

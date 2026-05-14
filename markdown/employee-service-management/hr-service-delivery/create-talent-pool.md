@@ -29,7 +29,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
     -   To create a talent pool from the All talent section, select the required profiles and select **Create pool**.
 3.  On the Create New Talent pool form, fill in the fields.
 
-    For a description of the field values, see [Talent pool form](../reference/talent-pool-form.md).
+    For a description of the field values, see [Talent pool form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/talent-pool-form.md).
 
 4.  Select **Save**.
 
@@ -38,5 +38,5 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 You have created a talent pool. Collaborate with other recruiters after creating the pool or simply share the pool with people involved in the hiring process for visibility.
 
-**Parent Topic:**[Using Talent profile](../concept/config-t-pool.md)
+**Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-t-pool.md)
 

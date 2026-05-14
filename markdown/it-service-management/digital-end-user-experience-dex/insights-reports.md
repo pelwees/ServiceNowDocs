@@ -346,5 +346,5 @@ Number of devices that have issues with the registry key. **Note:** The number o
 The error `No value (check the configuration)` appears when the path is incomplete or the key path configured for monitoring isn’t present on the device.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[DEX Application and Device Health reference](dex-console-reference.md)
+</table>**Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 

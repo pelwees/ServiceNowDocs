@@ -16,10 +16,10 @@ breadcrumb: [Application Manager, Administering applications, Get started, Admin
 
 Reference topics provide information to help understand Application Manager status indicators.
 
--   **[Application state indicators in Application Manager](app-mgr-state-indicators.md)**  
+-   **[Application state indicators in Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-mgr-state-indicators.md)**  
 Application detail page headers display indicators with additional information about the state of that application. Indicators tell you about any specific requirements, limitations, or blockers related to installing the application.
--   **[App installation blocked when installing or updating Now Assist suite](app-installation-blocked.md)**  
+-   **[App installation blocked when installing or updating Now Assist suite](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-installation-blocked.md)**  
 Unlicensed applications can block the installation or update of Now Assist suites.
 
-**Parent Topic:**[Administering applications](../../../build/applications/reference/administering-applications.md)
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/application-manager/../../../build/applications/reference/administering-applications.md)
 

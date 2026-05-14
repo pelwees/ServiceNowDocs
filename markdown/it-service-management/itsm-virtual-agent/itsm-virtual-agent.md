@@ -25,7 +25,7 @@ ITSM Virtual Agent helps you automate employee workflows by addressing common IT
 
 ITSM Virtual Agent includes pre-built topic conversations that cover common IT interactions. These conversations run in the web chat client and are also available in supported ITSM Virtual Agent messaging integrations.
 
-![Overview of ITSM Virtual Agent components.](../image/itsm-va-overview.png)
+![Overview of ITSM Virtual Agent components.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../image/itsm-va-overview.png)
 
 Conversations between Virtual Agent and the user accomplish an IT goal. The information exchanged during the conversation flow, such as user inputs and Virtual Agent responses, enables Virtual Agent to fulfill a request or help complete a task.
 
@@ -54,16 +54,16 @@ The ITSM Virtual Agent topics re-factored with gs.getMessageLang\(\) provide you
 
 ## Edge Encryption for ITSM Virtual Agent
 
-Edge encryption provides you with direct control over your data security. Encryption and key management are performed on your intranet between your browser and your ServiceNow® instance. For details about edge encryption, see [Edge Encryption for ITSM Virtual Agent within ITSM](../../it-service-management/reference/r_ITServiceManagement.md#section_ppf_jdm_ykb).
+Edge encryption provides you with direct control over your data security. Encryption and key management are performed on your intranet between your browser and your ServiceNow® instance. For details about edge encryption, see [Edge Encryption for ITSM Virtual Agent within ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../../it-service-management/reference/r_ITServiceManagement.md#section_ppf_jdm_ykb).
 
--   **[Exploring ITSM Virtual Agent](explore-itsm-va.md)**  
+-   **[Exploring ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/explore-itsm-va.md)**  
 The ServiceNow ITSM Virtual Agent provides assistance through conversations within an intelligent messaging interface.
--   **[Setting up ITSM Virtual Agent](setting-up-itsm-va.md)**  
+-   **[Setting up ITSM Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setting-up-itsm-va.md)**  
 Set up the ITSM Virtual Agent features and components that you need to provide support to your employees, IT teams, and customers.
--   **[Using ITSM Virtual Agent pre-built topics](using-itsm-va.md)**  
+-   **[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)**  
 ITSM Virtual Agent includes several pre-built topic conversations designed to help your users complete common IT-related tasks, such as resetting a password and creating an incident.
--   **[ITSM Virtual Agent pre-built actionable notifications](itsm-actionable-notifications.md)**  
+-   **[ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-actionable-notifications.md)**  
 Send interactive messages to an employee through Virtual Agent, based on pending tasks or alerts. Deflect some of the most common ITSM incidents to ITSM Virtual Agent, reduce incident volume to Service Desk, and help employees discover ITSM Virtual Agent as a resolution channel.
 
-**Parent Topic:**[IT Service Management](../../it-service-management/reference/r_ITServiceManagement.md)
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/../../it-service-management/reference/r_ITServiceManagement.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_hr\_ef.document\_writer
 
 1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Click the **Lists** icon \(![HR Workspace Lists icon](../image/agent-ws-hr-list-icon.png)\).
+2.  Click the **Lists** icon \(![HR Workspace Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/agent-ws-hr-list-icon.png)\).
 
 3.  Click **Employee documents**.
 
@@ -51,7 +51,7 @@ Employee Document
 
 Employee document to upload.Click **Browse** to upload an employee document.
 
- By default, the maximum size of a document allowed is 30 MB. The default can be changed from the**Maximum file upload size in megabytes** field in Employee Document Properties. For more information, see [Properties for Employee Document Management application](../reference/employee-doc-properties.md).
+ By default, the maximum size of a document allowed is 30 MB. The default can be changed from the**Maximum file upload size in megabytes** field in Employee Document Properties. For more information, see [Properties for Employee Document Management application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/employee-doc-properties.md).
 
  After selecting a document, the read-only fields show the file size, file format, created on, and created by.
 

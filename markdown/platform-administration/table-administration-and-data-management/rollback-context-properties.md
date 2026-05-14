@@ -175,5 +175,5 @@ The `glide.rollback.stuck_expiration_days` property is valid for all rollback ty
 -   Default value: 30
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Roll back and delete recovery](../concept/rollback-delete-recovery.md)
+</table>**Parent Topic:**[Roll back and delete recovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/rollback-delete-recovery.md)
 

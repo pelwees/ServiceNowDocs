@@ -15,9 +15,9 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 Enable managers to monitor Interaction \[interaction\] work items so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](../../application-content-packs/concept/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../application-content-packs/concept/awa-content-pack.md).
 
-![The dashboard displays indicators and reports to track agent interactions with customers](../../../administer/advanced-work-assignment/image/AWAInteractions-update.png "AWA dashboard for Interactions")
+![The dashboard displays indicators and reports to track agent interactions with customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../administer/advanced-work-assignment/image/AWAInteractions-update.png "AWA dashboard for Interactions")
 
 ## End users and roles
 
@@ -119,7 +119,7 @@ For more information on analyzing data with breakdowns, see [Using breakdowns on
 
 |Title|Type|Description|
 |-----|----|-----------|
-|Accepted Work Items - Last Hour|Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)|Number of interaction work items that agents have accepted in the past hour.|
-|Abandoned Work Items - Last Hour|Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)|Number of interaction work items that agents have abandoned in the past hour.|
-|Average Wait Time - Last Hour|Single Score![Single score report](../../../reuse/reporting/image/single-score.svg)|Average amount of time that customers have spent waiting for an agent response in the past hour.|
+|Accepted Work Items - Last Hour|Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)|Number of interaction work items that agents have accepted in the past hour.|
+|Abandoned Work Items - Last Hour|Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)|Number of interaction work items that agents have abandoned in the past hour.|
+|Average Wait Time - Last Hour|Single Score![Single score report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../../../reuse/reporting/image/single-score.svg)|Average amount of time that customers have spent waiting for an agent response in the past hour.|
 

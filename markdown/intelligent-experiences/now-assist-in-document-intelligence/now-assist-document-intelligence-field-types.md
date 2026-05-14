@@ -18,7 +18,7 @@ The field type specifies the information that is retrieved from a document with 
 
 The following field types are available to administrators when configuring fields for use cases.
 
-**Note:** Some field types convert the extracted value into a standard format. For more information, see [Data normalization](../concept/data-normalization.md).
+**Note:** Some field types convert the extracted value into a standard format. For more information, see [Data normalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../concept/data-normalization.md).
 
 <table id="table_nql_cxs_12c"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Holds a true/false value. In document Q&amp;A questions, the value is displayed 
 
  This field type is available for questions defined in the use case setup.
 
- ![Boolean question field type.](../image/docintel-na-field-question.png)
+ ![Boolean question field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-question.png)
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ Date, displayed in the date format extracted from the document.
 
  This field type is available for fields and tables defined in the use case setup.
 
- ![Date field type.](../image/docintel-na-field-date.png)
+ ![Date field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-date.png)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ A number with up to two decimal places \(for example, 12.5 or 12.55\).
 
  This field type is available for fields and tables defined in the use case setup.
 
- ![Decimal field type.](../image/docintel-na-field-decimal.png)
+ ![Decimal field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-decimal.png)
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ A number with up to seven decimal places \(for example, 12.0 to 12.0000000\).
 
  This field type is available for fields and tables defined in the use case setup.
 
- ![Float field type.](../image/docintel-na-field-float.png)
+ ![Float field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-float.png)
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Whole number \(for example, 12\).
 
  This field type is available for fields and tables defined in the use case setup.
 
- ![Integer field type.](../image/docintel-na-field-integer.png)
+ ![Integer field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-integer.png)
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ A reference field stores a reference to a field on another table. For example, t
 
  This field type is available for fields and tables defined in the use case setup.
 
- ![Reference field type.](../image/docintel-na-field-reference.png)
+ ![Reference field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-reference.png)
 
 </td></tr><tr><td>
 
@@ -112,27 +112,27 @@ Text field.
 
  This field type is available for fields, tables, and questions defined in the use case setup.
 
- ![Text field type.](../image/docintel-na-field-text.png)
+ ![Text field type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/../image/docintel-na-field-text.png)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist in Document Intelligence reference](now-assist-in-document-intelligence-reference.md)
+</table>**Parent Topic:**[Now Assist in Document Intelligence reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-in-document-intelligence-reference.md)
 
 **Related topics**  
 
 
-[Components installed with Now Assist in Document Intelligence](now-assist-docintel-components.md)
+[Components installed with Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-docintel-components.md)
 
-[Data extraction modes in Now Assist in Document Intelligence](data-extraction-modes-now-assist-document-intelligence.md)
+[Data extraction modes in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/data-extraction-modes-now-assist-document-intelligence.md)
 
-[Document and visual insights AI agent](document-and-visual-insights-ai-agent.md)
+[Document and visual insights AI agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-and-visual-insights-ai-agent.md)
 
-[Document Intelligence tool for Now Assist Skill Kit](document-visual-intelligence-skill-kit-tool.md)
+[Document Intelligence tool for Now Assist Skill Kit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-visual-intelligence-skill-kit-tool.md)
 
-[Now Assist in Document Intelligence forms](now-assist-document-intelligence-forms.md)
+[Now Assist in Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-forms.md)
 
-[Limitations in Now Assist in Document Intelligence](now-assist-document-intelligence-limitations.md)
+[Limitations in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-limitations.md)
 
-[Large language models used by Now Assist in Document Intelligence](llms-now-assist-document-intelligence.md)
+[Large language models used by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/llms-now-assist-document-intelligence.md)
 
-[Languages supported by Now Assist in Document Intelligence](languages-supported-now-assist-document-intelligence.md)
+[Languages supported by Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/languages-supported-now-assist-document-intelligence.md)
 

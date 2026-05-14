@@ -134,5 +134,5 @@ Download a `.csv` file of the guest list. View the file to see the list of commu
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Community events](community-events.md)
+**Parent Topic:**[Community events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-events.md)
 

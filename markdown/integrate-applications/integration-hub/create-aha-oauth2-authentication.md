@@ -29,7 +29,7 @@ Ensure that you've installed the Aha! spoke plugin.
 
 2.  Log in to the Aha! site using your admin credentials.
 
-3.  On the Features board page, click the settings icon \(![Aha settings icon.](../image/aha-settings-icon.png)\).
+3.  On the Features board page, click the settings icon \(![Aha settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/aha-settings-icon.png)\).
 
 4.  On the Personal settings page, click **Developer**.
 

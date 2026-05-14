@@ -21,40 +21,40 @@ In this example, a shopper creates a PR with cost allocation distributed between
 
 Suppose 20% is allocated to Customer Success and 80% to Engineering.
 
-![Cost allocation across multiple cost centers](../image/cost-dist.png)
+![Cost allocation across multiple cost centers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cost-dist.png)
 
 If you purchase 6 quantities of the energy monitoring device priced at $230 each. The total cost amounts to $1380.
 
-![Purchase products in Shopping Hub](../image/cost-purchase-qty.png)
+![Purchase products in Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cost-purchase-qty.png)
 
 The cost for this purchase is allocated as follows:
 
 -   Customer Success Cost Center: $276 \(20% of $1380\)
 -   Engineering Cost Center: $1104 \(80% of $1380\)
 
-![Initial amount with cost allocation adjustments](../image/cost-initial-amt.png)
+![Initial amount with cost allocation adjustments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cost-initial-amt.png)
 
 Now suppose you edit the PR or PO to increase the quantity from 6 to 10 pencils. The total cost amounts to $2300.
 
-![Increase purchase quantity by editing a purchase.](../image/cost-qty-increase.png)
+![Increase purchase quantity by editing a purchase.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cost-qty-increase.png)
 
 In this case, the total cost is proportionally distributed between both the cost centers based on the original allocation:
 
 -   Customer Success Cost Center: $460 \(20% of $2300\)
 -   Engineering Cost Center: $1840 \(80% of $2300\)
 
-![Final amount with cost allocation adjustments](../image/cost-final-amt.png)
+![Final amount with cost allocation adjustments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/cost-final-amt.png)
 
 The cost allocation remains consistent when modifying purchase quantities in a PR or PO.
 
-For more information, see [Cost allocations](../reference/cost-allocations.md).
+For more information, see [Cost allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/cost-allocations.md).
 
-**Parent Topic:**[Purchase revision flows](purchase-revision-flows.md)
+**Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
 **Related topics**  
 
 
-[Edit a purchase line from a purchase requisition or order](../task/edit-pur-req-line.md)
+[Edit a purchase line from a purchase requisition or order](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/edit-pur-req-line.md)
 
-[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](../task/edit-pur-req-emp-central.md)
+[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/edit-pur-req-emp-central.md)
 

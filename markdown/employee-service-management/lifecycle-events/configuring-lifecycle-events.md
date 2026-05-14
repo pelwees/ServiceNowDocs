@@ -17,6 +17,6 @@ Plan and configure Lifecycle Events.
 
 ## Configuration overview
 
-1.  [Activate Lifecycle Events for Enterprise](../task/activate-hr-lifecycle-events-for-enterprise-1.md)
-2.  [Activate Lifecycle Events](../task/activate-enterprise-onboarding-and-transitions-scoped.md)
+1.  [Activate Lifecycle Events for Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../task/activate-hr-lifecycle-events-for-enterprise-1.md)
+2.  [Activate Lifecycle Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/../task/activate-enterprise-onboarding-and-transitions-scoped.md)
 

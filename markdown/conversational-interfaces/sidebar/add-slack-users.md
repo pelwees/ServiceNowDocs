@@ -21,7 +21,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In a browser window, enter `<workspace name>/admin` where `<workspace name>` is the name of the workspace you specified when you created the app in [Set up the Slack account](setup-slack-account.md).
+1.  In a browser window, enter `<workspace name>/admin` where `<workspace name>` is the name of the workspace you specified when you created the app in [Set up the Slack account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/setup-slack-account.md).
 
 2.  Select **Invite People**.
 

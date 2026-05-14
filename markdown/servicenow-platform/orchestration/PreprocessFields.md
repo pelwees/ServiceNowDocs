@@ -36,7 +36,7 @@ The supported messages are:
 -   `ActivityLogger.warn ("Pre Processing Log Message");`
 -   `ActivityLogger.error("Pre Processing Log Message");`
 
-![ActivityLogger API](../image/Pre-ProcessLoggingAPI.png "ActivityLogger API")
+![ActivityLogger API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../image/Pre-ProcessLoggingAPI.png "ActivityLogger API")
 
-**Parent Topic:**[Create custom activities using custom activity designer templates](../task/create-custom-activities.md)
+**Parent Topic:**[Create custom activities using custom activity designer templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../task/create-custom-activities.md)
 

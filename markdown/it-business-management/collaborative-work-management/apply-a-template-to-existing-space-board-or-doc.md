@@ -17,8 +17,8 @@ Apply predefined or custom templates to existing Boards or Docs in Collaborative
 
 ## Before you begin
 
--   [Create a Board in CWM](create-boards-in-cwm.md)
--   [Create a Doc in CWM](create-a-doc-in-cwm.md)
+-   [Create a Board in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-boards-in-cwm.md)
+-   [Create a Doc in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/create-a-doc-in-cwm.md)
 
 Role required: sn\_cwm.cwm\_user
 
@@ -44,7 +44,7 @@ Action
 
 </td><td>
 
-From the Board header, select the More options icon \(![More options icon.](../images/cwm-icon-board-more-options.png)\) and select **Apply template**.![Apply template to a CWM Board.](../images/cwm-templates-apply-board.png)
+From the Board header, select the More options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-board-more-options.png)\) and select **Apply template**.![Apply template to a CWM Board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-apply-board.png)
 
 The Template Center shows only the Board templates.
 
@@ -54,7 +54,7 @@ The Template Center shows only the Board templates.
 
 </td><td>
 
-From the Doc header, select the More actions icon \(![More actions icon.](../images/cwm-icon-doc-more-actions.png)\) and select **Apply template**.![Apply template to a CWM Doc.](../images/cwm-templates-apply-doc.png)
+From the Doc header, select the More actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-doc-more-actions.png)\) and select **Apply template**.![Apply template to a CWM Doc.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-apply-doc.png)
 
 The Template Center shows only the Doc templates.
 
@@ -64,7 +64,7 @@ The Template Center shows only the Doc templates.
 
 </td><td>
 
-From the page options, select the Page Actions icon \(![Page Actions Icon.](../images/cwm-icon-page-actions.png)\) and select **Apply template**.![Apply template to a page in CWM Doc.](../images/cwm-templates-apply-page.png)
+From the page options, select the Page Actions icon \(![Page Actions Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-page-actions.png)\) and select **Apply template**.![Apply template to a page in CWM Doc.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-apply-page.png)
 
 The Template Center shows only the Doc page templates.
 
@@ -73,7 +73,7 @@ The Template Center shows only the Doc page templates.
 
     -   Filter the available templates by Owner. The Type filter is automatically set based on your choice in the earlier steps.
     -   Search for the template using its title.
-5.  Check the details of the template by selecting **View details** from the Template actions menu \(![Template actions icon.](../images/cwm-icon-page-actions.png)\).
+5.  Check the details of the template by selecting **View details** from the Template actions menu \(![Template actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-page-actions.png)\).
 
     For a Board template, you can view the details of the number of Board views and custom task types that you get if you apply this template. You can also review the information on which of the List, Gantt, Kanban, and Sprint planning views are enabled in this template.
 
@@ -81,12 +81,12 @@ The Template Center shows only the Doc page templates.
 
 6.  From the template card that you want to apply, select **Use**.
 
-    ![Template card in CWM.](../images/cwm-templates-card.png)
+    ![Template card in CWM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-templates-card.png)
 
 
 ## Result
 
 The selected template is applied to your Board, Doc, or page and the data is displayed according to the template.
 
-**Parent Topic:**[Templates in CWM for Boards and Docs](../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
+**Parent Topic:**[Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/templates-in-cwm-for-spaces-boards-and-docs.md)
 

@@ -27,7 +27,7 @@ Visualizing trends in the scores of an indicator
 
 </th></tr></thead><tbody><tr><td>
 
-Line![line visualization](../image/inline-data-vis-line.png)
+Line![line visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-line.png)
 
 </td><td>
 
@@ -35,7 +35,7 @@ Shows how one or more values change over time by connecting a series of data poi
 
 </td></tr><tr><td>
 
-Spline![spline visualization](../image/inline-data-vis-spline.png)
+Spline![spline visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-spline.png)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Shows how one or more values change over time by connecting a series of data poi
 
 </td></tr><tr><td>
 
-Scatter![scatter visualization - med](../image/inline-data-vis-trend.png)
+Scatter![scatter visualization - med](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-trend.png)
 
 </td><td>
 
@@ -55,7 +55,7 @@ Comparing scores in a data source
 
 </td></tr><tr><td>
 
-Column![column visualization](../image/inline-data-vis-bar-column.png)
+Column![column visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-bar-column.png)
 
 </td><td>
 
@@ -63,7 +63,7 @@ Shows changes in data over time by displaying values as proportional vertical co
 
 </td></tr><tr><td>
 
-Step![Data visualization step line type - med](../image/inline-data-vis-stepline.png)
+Step![Data visualization step line type - med](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-stepline.png)
 
 </td><td>
 
@@ -75,12 +75,12 @@ Comparing scores or trends between data sources
 
 </td></tr><tr><td>
 
-Area![area visualization](../image/inline-data-vis-area.png)
+Area![area visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../image/inline-data-vis-area.png)
 
 </td><td>
 
 Resembles a line visualization, but the area between the axis and line is emphasized with colors. Use with multiple data sources to highlight the relative contribution that each data source makes to the whole.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create time series data visualizations](../task/create-dv-time-series-ac.md)
+</table>**Parent Topic:**[Create time series data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../task/create-dv-time-series-ac.md)
 

@@ -17,7 +17,7 @@ Learn how agents, using the Name change workflow, resolve service requests for a
 
 The following diagram shows how the application helps bank agents resolve a name change request.
 
-![Workflow that shows how name change request is completed using the CLO application. For the text description, refer to the workflow steps that follow.](../image/fso-name-change-workflow.png "Name change workflow example")
+![Workflow that shows how name change request is completed using the CLO application. For the text description, refer to the workflow steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../image/fso-name-change-workflow.png "Name change workflow example")
 
 The CLO admin can review and customize this predefined flow based on your organization's business needs.
 

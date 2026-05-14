@@ -69,5 +69,5 @@ The user might see the following issues:
 
 This confusion may be the result of the difference between session and reference currencies, changing conversion rates, and different session currencies used by different users.
 
-**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 

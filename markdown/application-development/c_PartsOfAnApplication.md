@@ -13,5 +13,5 @@ breadcrumb: [Learning about developing on the ServiceNow AI Platform, Building a
 
 Applications consist of several types of files and records that collectively deliver a service.
 
-![Infographic for Application Model](../image/ApplicationModel.png "Application model")
+![Infographic for Application Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ApplicationModel.png "Application model")
 

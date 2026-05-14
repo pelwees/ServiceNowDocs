@@ -21,7 +21,7 @@ Role required: admin
 
 <table id="table_wd3_ss4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>The association of an IP address to a DNS name ensures that the appropriate MID Sever is selected based on the IP Address range configuration. If this is not done, Orchestration reverts to the default MID Server.
@@ -57,5 +57,5 @@ If Discovery cannot discover the server and resolve the DNS name to an IP addres
 10. Click **Submit**.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md)
 

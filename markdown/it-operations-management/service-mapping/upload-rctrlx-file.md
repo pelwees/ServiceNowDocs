@@ -47,7 +47,7 @@ Upload an `rctrlx.exe` file for every MID Server in your deployment.
 **Related topics**  
 
 
-[Pattern-based discovery in Service Mapping](../concept/pattern-based-discovery.md)
+[Pattern-based discovery in Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/pattern-based-discovery.md)
 
 [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-landing.md)
 

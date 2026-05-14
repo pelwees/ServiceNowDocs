@@ -87,11 +87,11 @@ Connection &amp; Credential
 
 </td><td>
 
-1.  Select the lookup icon \(![Lookup icon](../../../common/image/List_SearchIcon.png)\).
+1.  Select the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../../../common/image/List_SearchIcon.png)\).
 2.  Select **New**.
 3.  On the Connection and Credential Aliases form, fill in the fields:
     -   Name: Name of your choice. For example, *app*\_alias, where *app* is the name of the SaaS application that you're integrating with.
-    -   Application: Spoke for connecting with the SaaS application. This spoke can be an existing Integration Hub spoke or a new spoke that you created. You can change the application in the Developer section of the System Settings ![Settings icon](../../../common/image/List_PersonalizeListIcon.png).
+    -   Application: Spoke for connecting with the SaaS application. This spoke can be an existing Integration Hub spoke or a new spoke that you created. You can change the application in the Developer section of the System Settings ![Settings icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../../../common/image/List_PersonalizeListIcon.png).
     -   Type: **Connection and Credential**.
     -   Connection Type: **HTTP**.
     -   Support Multiple Active Connections: Not selected.
@@ -159,7 +159,7 @@ Custom Integration. This value is automatically populated.
 
 ## What to do next
 
-[Create a data stream action to get users](create-data-stream-action-slc.md) and view SaaS related analytics on [SaaS overview dashboard](../reference/saas-dashboard-workspace.md).
+[Create a data stream action to get users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-data-stream-action-slc.md) and view SaaS related analytics on [SaaS overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/../reference/saas-dashboard-workspace.md).
 
-Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](t_RunReconciliation.md) \(Software Asset Management classic application\) or the [License usage view](run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
+Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/t_RunReconciliation.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/run-recon-workspace.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance.
 

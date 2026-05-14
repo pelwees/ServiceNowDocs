@@ -21,8 +21,8 @@ The Service Graph Connector for GCP uses OS Config Patch jobs on GCP projects to
 
 The following scheduled imports execute the OS Config Patch jobs, and then read and delete the output:
 
--   [SG-GCP Execute Patch Job](sgc-gcp-deep-discovery.md#section_kj4_kc3_cgc)
--   [SG-GCP Get Patch Job](sgc-gcp-deep-discovery.md#section_qh1_sc3_cgc)
+-   [SG-GCP Execute Patch Job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md#section_kj4_kc3_cgc)
+-   [SG-GCP Get Patch Job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md#section_qh1_sc3_cgc)
 
 ## Deep discovery connection properties
 
@@ -64,10 +64,10 @@ Using the deep discovery information, Application Dependency Mapping \(ADM\) cre
 
 [Service Graph Connector for GCP - Deep Discovery Setup Instructions \[KB2213095\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2213095) article in the Now Support Knowledge Base
 
-**Parent Topic:**[Service Graph Connector for GCP reference](sgc-cmdb-gcp-reference.md)
+**Parent Topic:**[Service Graph Connector for GCP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-reference.md)
 
 **Related topics**  
 
 
-[Service Graph Connector for GCP properties](../reference/cmdb-sgc-gcp-props.md)
+[Service Graph Connector for GCP properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../reference/cmdb-sgc-gcp-props.md)
 

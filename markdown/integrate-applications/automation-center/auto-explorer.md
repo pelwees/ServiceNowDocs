@@ -19,7 +19,7 @@ Automation explorer enables you to scan your entire ServiceNow® instance and di
 
 Role required: sn\_ac.automation\_technical\_user
 
-Run the fix script to be able to view the results of the Automation explorer. For information, see [Run fix script to view results](run-script.md).
+Run the fix script to be able to view the results of the Automation explorer. For information, see [Run fix script to view results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/run-script.md).
 
 ## Procedure
 
@@ -27,7 +27,7 @@ Run the fix script to be able to view the results of the Automation explorer. Fo
 
 2.  Select the **Automation explorer** tab.
 
-    ![Automation explorer tab](../images/auto-explorer-land.png)
+    ![Automation explorer tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-explorer-land.png)
 
     You can select the automation type card at the outset or select **Discover automations** button. Both actions launch an agent-driven conversation via the Now Assist Panel, which guides you through defining your search criteria step by step
 
@@ -66,7 +66,7 @@ Click the open-ended search button to launch the Now Assist Panel and start an a
 
 5.  Select **Show** to view the search results.
 
-    ![Show results](../images/auto-show-result.png)
+    ![Show results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-show-result.png)
 
     The results display all relevant automations on the instance against the search query, including:
 
@@ -77,7 +77,7 @@ Click the open-ended search button to launch the Now Assist Panel and start an a
 
     Use the check-boxes next to each automation, and select **Estimate value**, and **Onboard**. Review the cost and time saving estimates and the accompanying AI explanation to make your decision.
 
-    ![Estimate value of automations and onboard them](../images/auto-esti-onboard.png)
+    ![Estimate value of automations and onboard them](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/auto-esti-onboard.png)
 
 
 ## Result
@@ -88,5 +88,5 @@ The selected automations are onboarded to Automation Center. Their cost savings 
 
 After onboarding, monitor the ROI of your automations in the Automation Center Value dashboard. You can return to Automation explorer at any time to discover additional automations or refine your search criteria.
 
-**Parent Topic:**[Using Now Assist for Automation Center](../concept/use-now-assist.md)
+**Parent Topic:**[Using Now Assist for Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/use-now-assist.md)
 

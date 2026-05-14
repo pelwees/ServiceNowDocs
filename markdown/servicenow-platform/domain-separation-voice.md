@@ -37,7 +37,7 @@ For more information on support levels, see [Application support for domain sepa
 -   AWS Resource \[sn\_cti\_aws\_resource\]
 -   Amazon Connect Instance \[sn\_cti\_connect\_instance\]
 
-**Parent Topic:**[Setting up ServiceNow Voice](ccc-setup.md)
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
 **Related topics**  
 

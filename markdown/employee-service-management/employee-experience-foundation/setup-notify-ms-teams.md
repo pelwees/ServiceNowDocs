@@ -44,8 +44,8 @@ Role required: admin
 
 Integrate Notify connector for Microsoft Teams in ServiceNow instance.
 
--   To set up pre-published app \(Single Microsoft Teams tenant to single ServiceNow instance\), see [Integrate Notify connector pre-published app with Microsoft Teams](../concept/setup-notify-ms-teams-multi-tenant.md).
--   To set up self-configured app \(Single Microsoft Teams tenant to multiple ServiceNow instance\), see [Integrating Notify connector self-configured app with Microsoft Teams](../concept/setup-notify-ms-teams-single-tenant.md).
+-   To set up pre-published app \(Single Microsoft Teams tenant to single ServiceNow instance\), see [Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-notify-ms-teams-multi-tenant.md).
+-   To set up self-configured app \(Single Microsoft Teams tenant to multiple ServiceNow instance\), see [Integrating Notify connector self-configured app with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-notify-ms-teams-single-tenant.md).
 
-**Parent Topic:**[Plan your installation](../../sn-teams/concept/plan-installation-ms-teams.md)
+**Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/concept/plan-installation-ms-teams.md)
 

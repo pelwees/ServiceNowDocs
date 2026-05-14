@@ -15,7 +15,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 Time series widgets show changes in an indicator score over time. Different visualizations emphasize the trend in the scores or the scores themselves, and can display one indicator or compare several indicators.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md).
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../par-for-workspace/concept/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -47,11 +47,11 @@ Visualizing trends in the scores of an indicator
 
 </td></tr><tr><td>
 
-![Line time series](../../reporting/image/inline-data-vis-96px-line.png)
+![Line time series](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/inline-data-vis-96px-line.png)
 
 </td><td>
 
-[Line](../task/create-line-visualization-ts.md)
+[Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-line-visualization-ts.md)
 
 </td><td>
 
@@ -59,11 +59,11 @@ Shows how one or more values change over time by connecting a series of data poi
 
 </td></tr><tr><td>
 
-![Spline time series](../../reporting/image/inline-data-vis-96px-spline.png)
+![Spline time series](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/inline-data-vis-96px-spline.png)
 
 </td><td>
 
-[Spline](../task/create-spline-visualization-ts.md)
+[Spline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-spline-visualization-ts.md)
 
 </td><td>
 
@@ -75,11 +75,11 @@ Comparing scores in an indicator
 
 </td></tr><tr><td>
 
-![Column time series](../../reporting/image/inline-data-vis-96px-bar-column.png)
+![Column time series](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/inline-data-vis-96px-bar-column.png)
 
 </td><td>
 
-[Column](../task/create-column-visualization-ts.md)
+[Column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-column-visualization-ts.md)
 
 </td><td>
 
@@ -87,11 +87,11 @@ Shows changes between scores over time by displaying them as proportional vertic
 
 </td></tr><tr><td>
 
-![Step time series](../../reporting/image/inline-data-vis-96px-stepline.png)
+![Step time series](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/inline-data-vis-96px-stepline.png)
 
 </td><td>
 
-[Step](../task/create-step-visualization-ts.md)
+[Step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-step-visualization-ts.md)
 
 </td><td>
 
@@ -103,11 +103,11 @@ Comparing scores or trends between indicators
 
 </td></tr><tr><td>
 
-![Stacked column icon](../image/stacked-column-ts.png)
+![Stacked column icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/stacked-column-ts.png)
 
 </td><td>
 
-[Stacked Column](../task/create-stacked-col-visualization-ts.md)
+[Stacked Column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-stacked-col-visualization-ts.md)
 
 </td><td>
 
@@ -115,11 +115,11 @@ Each column is divided into a stack of slices representing different indicators.
 
 </td></tr><tr><td>
 
-![Area visualization icon](../image/area-ts-icon.png)
+![Area visualization icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/area-ts-icon.png)
 
 </td><td>
 
-[Area](../task/create-area-visualization-ts.md)
+[Area](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-area-visualization-ts.md)
 
 </td><td>
 
@@ -127,11 +127,11 @@ Resembles a line visualization, but the area between the axis and line is emphas
 
 </td></tr><tr><td>
 
-![Relative compare icon](../image/relative-compare-icon.png)
+![Relative compare icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/relative-compare-icon.png)
 
 </td><td>
 
-[Relative Compare](../task/create-relative-compare-ts.md)
+[Relative Compare](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../task/create-relative-compare-ts.md)
 
 </td><td>
 

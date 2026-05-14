@@ -21,7 +21,7 @@ Role required: sn\_slm.admin
 
 ## About this task
 
-If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the Supplier Collaboration Portal. For more information, see [Configure properties for Supplier Case Management](../reference/config-prop-supp-mgmt.md).
+If you set this system property to **true**, you can create or modify an activity configuration to display relevant activities in My active items widget of the Supplier Collaboration Portal. For more information, see [Configure properties for Supplier Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/config-prop-supp-mgmt.md).
 
 ## Procedure
 
@@ -34,12 +34,12 @@ If you set this system property to **true**, you can create or modify an activit
 3.  Select **Save**.
 
 
-**Parent Topic:**[Install Supplier Collaboration Portal](install-supp-central.md)
+**Parent Topic:**[Install Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-central.md)
 
 **Related topics**  
 
 
-[Enable automatic creation of supplier cases from incoming emails](config-email-properties.md)
+[Enable automatic creation of supplier cases from incoming emails](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-email-properties.md)
 
-[Email format for contacts linked with multiple suppliers](email-format-for-contacts-linked-with-multiple-suppliers.md)
+[Email format for contacts linked with multiple suppliers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/email-format-for-contacts-linked-with-multiple-suppliers.md)
 

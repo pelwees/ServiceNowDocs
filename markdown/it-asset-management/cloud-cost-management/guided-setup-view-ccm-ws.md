@@ -21,7 +21,7 @@ The Admin view lets you to:
 -   Watch a tutorial to familiarize with Cloud Cost Management.
 -   View helpful resources and related products or features.
 
-![Admin view in Cloud Cost Management Workspace.](../image/admin-view-ws.png)
+![Admin view in Cloud Cost Management Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/admin-view-ws.png)
 
 ## Using Guided Setup to implement Cloud Cost Management
 

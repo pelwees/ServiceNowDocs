@@ -33,13 +33,13 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **CAM Workspace** and then select the tasks icon \(![Tasks icon.](../../grc-workspace-audit/image/TasksIcon.jpg)\).
+1.  Navigate to **All** &gt; **CAM Workspace** and then select the tasks icon \(![Tasks icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../../grc-workspace-audit/image/TasksIcon.jpg)\).
 
 2.  Navigate to the appropriate tab.
 
     **Note:** When a user or user group doesn’t have pending or associated tasks, the `All your tasks are done` message appears for the tab.
 
-    ![Tasks page of the CAM Workspace.](../image/cam-ws-tasks-page.png)
+    ![Tasks page of the CAM Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/cam-ws-tasks-page.png)
 
     -   **My pending tasks**
 
@@ -64,5 +64,5 @@ Role required:
         Mark sensitive records as confidential and verify that the appropriate people have access to these records. The **Confidential records** tab configuration displays the confidential records for the selected table.
 
 
-**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](../concept/cam-ws-continuous-auth-monitor.md)
+**Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../concept/cam-ws-continuous-auth-monitor.md)
 

@@ -40,7 +40,7 @@ Role required: ui\_builder\_admin
 
     The preset building window opens.
 
-    ![Preset building window with no data added.](../image/preset-builder-window.png)
+    ![Preset building window with no data added.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-builder-window.png)
 
 6.  Enter controller test values to preview data in the component preset.
 
@@ -48,18 +48,18 @@ Role required: ui\_builder\_admin
 
 8.  Bind data from the controller to the component preset by dragging items from the data preview section to the fields in the configure panel.
 
-    ![Configuration panel for component preset](../image/preset-builder-configured.png)
+    ![Configuration panel for component preset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/preset-builder-configured.png)
 
 9.  Add events to the component.
 
-    For more information, see [Configure an event handler manually](event-handler.md).
+    For more information, see [Configure an event handler manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/event-handler.md).
 
 10. Select **Save**.
 
 
 ## What to do next
 
-Apply the preset you just created by [selecting a preset in UI Builder](../concept/presets.md#).
+Apply the preset you just created by [selecting a preset in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/presets.md#).
 
-**Parent Topic:**[Customize UI Builder pages using components](../concept/work-components.md)
+**Parent Topic:**[Customize UI Builder pages using components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-components.md)
 

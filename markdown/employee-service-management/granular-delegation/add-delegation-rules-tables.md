@@ -38,5 +38,5 @@ Role required: delegation\_admin
 
 ## What to do next
 
-Next, create a delegation rule to specify the records that are available for employees to delegate. See [Create delegation rules](create-delegation-rules.md).
+Next, create a delegation rule to specify the records that are available for employees to delegate. See [Create delegation rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/create-delegation-rules.md).
 

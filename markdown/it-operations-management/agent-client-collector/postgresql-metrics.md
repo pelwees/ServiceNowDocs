@@ -399,5 +399,5 @@ Provides metrics related to the number of disk blocks read from this table's TOA
 |pgsql.statstable.seq\_scan|Provides metrics related to the number of sequential scans initiated on this table.|
 |pgsql.statstable.seq\_tup\_read|Provides metrics related to the number of live rows fetched by sequential scans.|
 
-**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](agent-policies-checks.md)
+**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 

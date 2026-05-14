@@ -100,5 +100,5 @@ Several normalization tables are installed with the activation of the Enterprise
 |Manage Enterprise Library \[sn\_eam\_manage\_cd\_library\]|Stores import and export content data.|
 |Enterprise Asset Configurations \[sn\_eam\_configuration\]|Stores opt-in and opt-out data.|
 
-**Parent Topic:**[Create and manage enterprise models](create-manage-enterprise-models.md)
+**Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 

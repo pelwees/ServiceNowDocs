@@ -21,7 +21,7 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 
 1.  In Workflow Studio select the **Test** button in the top-right corner of the screen.
 
-    ![Test button in flow designer](../images/client-side-13.png)
+    ![Test button in flow designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../images/client-side-13.png)
 
 2.  In the **Test Action** window, select **Run Test**.
 
@@ -40,5 +40,5 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 7.  After seeing this message in Workflow Studio, verify that your text file has been created in your local system.
 
 
-**Parent Topic:**[Configuring client accessible secrets](../concept/client-access-secret-landing.md)
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/client-access-secret-landing.md)
 

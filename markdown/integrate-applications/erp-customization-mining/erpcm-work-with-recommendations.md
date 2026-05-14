@@ -33,18 +33,18 @@ For example, you may have to create a workflow in Workflow Studio for one candid
 
 2.  In the side panel, select the candidates icon.
 
-    Alternatively, you can select a candidate directly on the ERP Semantic Mining home page. For more information, see [Browse an overview of candidates in ERP Semantic Mining](erpcm-view-home-page-overview.md).
+    Alternatively, you can select a candidate directly on the ERP Semantic Mining home page. For more information, see [Browse an overview of candidates in ERP Semantic Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/erpcm-view-home-page-overview.md).
 
 3.  Select the candidate that you want to view the recommended next actions for.
 
 4.  Select the **Recommendations** tab, which summarizes each suggested action.
 
-    For a description of the field values, see [ERP Semantic Mining candidate recommendations field descriptions](../reference/erpcm-candidate-recommendations-field-descriptions.md).
+    For a description of the field values, see [ERP Semantic Mining candidate recommendations field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../reference/erpcm-candidate-recommendations-field-descriptions.md).
 
 5.  Select a **Recommended action URL** to open the relevant destination on the ServiceNow AI Platform in a new browser tab.
 
     For example, if the recommendation is to read an extraction table, select the **Recommended action** link to open the ERP model in Zero Copy Connector for ERP, where you can add the suggested table.
 
 
-**Parent Topic:**[Finding and working with candidates to replatform](../concept/work-with-candidates.md)
+**Parent Topic:**[Finding and working with candidates to replatform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-customization-mining/../concept/work-with-candidates.md)
 

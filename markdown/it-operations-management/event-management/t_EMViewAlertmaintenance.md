@@ -43,5 +43,5 @@ The alert maintenance status can change due to any of these reasons:
     **Note:** If the **Maintenance** field is not visible on the Alert form, personalize the list to add the field. For more information, see [Personal lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md).
 
 
-**Parent Topic:**[View alert information](t_EMViewAlert.md)
+**Parent Topic:**[View alert information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 

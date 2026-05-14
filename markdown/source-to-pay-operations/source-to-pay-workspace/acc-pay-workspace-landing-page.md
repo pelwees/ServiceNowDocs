@@ -17,7 +17,7 @@ Use the Source-to-Pay Workspace landing page to find all the information that yo
 
 Open the Source-to-Pay Workspace by navigating to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
-When you open the Source-to-Pay Workspace, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(![Home icon](../../supplier-lifecycle-operations/image/home-icon.png)\) to return to the home page.
+When you open the Source-to-Pay Workspace, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(![Home icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/image/home-icon.png)\) to return to the home page.
 
 As an agent, you can view and manage to-do tasks assigned to you, open any unassigned cases, and cases by priority. As an Accounts Payable Specialist, you can view and manage tasks assigned to you, open any unassigned cases, cases by priority, invoice exceptions, and invoices at risk of being paid late.
 
@@ -303,17 +303,17 @@ Widget
 
 </td><td>
 
-View the list of invoice tasks that are assigned to the assignment group of the current user. For more information on the fields of invoice tasks, see [Create New Invoice task form](../reference/create-apm-task-form.md)
+View the list of invoice tasks that are assigned to the assignment group of the current user. For more information on the fields of invoice tasks, see [Create New Invoice task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../reference/create-apm-task-form.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Source-to-Pay Workspace landing page](../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
+</table>**Parent Topic:**[Source-to-Pay Workspace landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../source-to-pay-operations/concept/source-to-pay-ws-landing-page.md)
 
 **Related topics**  
 
 
-[SPO landing page](../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
+[SPO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../sourcing-procurement-operations/concept/procurement-workspace-landing-page.md)
 
-[SLO landing page](../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
+[SLO landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../supplier-lifecycle-operations/concept/supp-manager-ws-home.md)
 
-[POM landing page](../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
+[POM landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/../../purchase-order-management/concept/purch-order-mgmt-tab-s2pws.md)
 

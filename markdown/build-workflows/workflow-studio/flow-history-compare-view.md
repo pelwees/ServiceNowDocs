@@ -28,7 +28,7 @@ The flow history compare view enables you to perform these actions.
 
 ## Flow history compare view components
 
-![Flow history compare view](../images/compare-flow-history-view-01.png)
+![Flow history compare view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-flow-history-view-01.png)
 
 The Flow history compare view consists of these components within a flow.
 
@@ -54,26 +54,26 @@ The Flow history compare view consists of these components within a flow.
 
 -   **6. Changed flow components indicators**
 
-    Visual indicators for changed flow components. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](../images/compare-history-changed-item-icon.png)
+    Visual indicators for changed flow components. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-history-changed-item-icon.png)
 
 -   **7. Removed flow components indicators**
 
-    Visual indicators for removed flow components. Removed flow components are highlighted in red and have the removed item icon. ![Removed items icon](../images/compare-history-removed-item-icon.png)
+    Visual indicators for removed flow components. Removed flow components are highlighted in red and have the removed item icon. ![Removed items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-history-removed-item-icon.png)
 
 -   **8. Added flow components indicators**
 
-    Visual indicators of an added flow component. Added flow components are highlighted in green and have the added item icon. ![Added items icon](../images/compare-history-added-item-icon.png)
+    Visual indicators of an added flow component. Added flow components are highlighted in green and have the added item icon. ![Added items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-history-added-item-icon.png)
 
 
-![Flow history compare view of changed items](../images/compare-flow-history-view-02.png)
+![Flow history compare view of changed items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-flow-history-view-02.png)
 
 -   **9. Expanded changed item view of first history entry**
 
-    Configuration of inputs for the first history entry. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](../images/compare-history-changed-item-icon.png)
+    Configuration of inputs for the first history entry. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-history-changed-item-icon.png)
 
 -   **10. Expanded changed item view of second history entry**
 
-    Configuration of inputs for the second history entry. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](../images/compare-history-changed-item-icon.png)
+    Configuration of inputs for the second history entry. Changed flow components are highlighted in blue and have the changed item icon. ![Changed items icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/compare-history-changed-item-icon.png)
 
 -   **11. Input that changed in first history entry**
 
@@ -84,8 +84,8 @@ The Flow history compare view consists of these components within a flow.
     Configuration settings of a changed input in the second history entry.
 
 
--   **[Compare flow histories](../task/compare-flow-histories.md)**  
+-   **[Compare flow histories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../task/compare-flow-histories.md)**  
 Compare two flow histories to see what content was added, removed, and updated.
 
-**Parent Topic:**[Flow history](flow-history.md)
+**Parent Topic:**[Flow history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-history.md)
 

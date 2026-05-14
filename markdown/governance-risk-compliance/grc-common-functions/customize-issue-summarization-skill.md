@@ -32,7 +32,7 @@ From the Now Assist Admin console, you can select the input data in various stat
 
 3.  Copy the issue summarization skill for customization.
 
-    1.  On the feature card that is associated with the skill that you would like to customize, select the Options \(![Options icon.](../image/option-icon.png)\) icon and then select **Make a copy**.
+    1.  On the feature card that is associated with the skill that you would like to customize, select the Options \(![Options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/option-icon.png)\) icon and then select **Make a copy**.
 
     2.  On the confirmation dialog, select **Make a copy**.
 
@@ -46,7 +46,7 @@ From the Now Assist Admin console, you can select the input data in various stat
 
     Each skill relies on a base input table and input fields with descriptions to provide context for the Now LLM Service to generate a response.
 
-    ![Choose input data screen.](../image/choose-input-data.png)
+    ![Choose input data screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/choose-input-data.png)
 
     1.  Select **Save and continue**.
 

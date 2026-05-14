@@ -19,19 +19,19 @@ The Overview page has the following widgets:
 
 -   Ineffective Conversations: The number of conversations with Auto evaluated user satisfaction scores of less than or equal to 1.5.
 
-    ![Ineffective conversations widget.](../image/ineffective-conversations.png)
+    ![Ineffective conversations widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ineffective-conversations.png)
 
 -   Effective Conversations: The number of conversations with Auto evaluated user satisfaction scores of greater than or equal to 4.5.
 
-    ![Effective conversations widget.](../image/effective-conversations.png)
+    ![Effective conversations widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/effective-conversations.png)
 
 -   Ineffective conversation themes: The themes that have ineffective conversations.
 
-    ![Ineffective conversation themes widget.](../image/ineffective-conv-themes.png)
+    ![Ineffective conversation themes widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/ineffective-conv-themes.png)
 
 -   Effective conversation themes: The themes that have effective conversations.
 
-    ![Effective conversation themes widget.](../image/effective-conv-themes.png)
+    ![Effective conversation themes widget.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/effective-conv-themes.png)
 
 
 When you select any of themes under **Ineffective conversations themes** or **Effective conversations themes**, you’re redirected to the theme.
@@ -42,5 +42,5 @@ For example, if you select Knowledge Article Management, it takes you to the pag
 
 For example, you need access to AI Control Tower to access primary requests, Knowledge Base to access KB articles, Service Catalog to access catalog items, VA administrator to access VA topics, AI Agent Studio to access AI agents.
 
-![Select a theme.](../image/select-theme.png)
+![Select a theme.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/select-theme.png)
 

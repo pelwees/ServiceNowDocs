@@ -29,5 +29,5 @@ The benefits of this application include:
 -   An easily accessed **Privacy Assessment** service through a service catalog to replace manual, unstructured email processes and tasks.
 -   Efficient collaboration with teams to resolve requests.
 
-**Parent Topic:**[Legal Simple Privacy](legal-simple-privacy-landing-page.md)
+**Parent Topic:**[Legal Simple Privacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
 

@@ -38,5 +38,5 @@ App template admins manage the templates that are active in non-production insta
 5.  Select **Update**.
 
 
-**Parent Topic:**[Create your app using an application template](use-app-template.md)
+**Parent Topic:**[Create your app using an application template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/use-app-template.md)
 

@@ -30,5 +30,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[Calendar integration](../reference/r_CalendarIntegration.md)
+**Parent Topic:**[Calendar integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/r_CalendarIntegration.md)
 

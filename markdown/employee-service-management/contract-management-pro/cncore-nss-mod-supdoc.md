@@ -41,7 +41,7 @@ Steps
 
 </td><td>
 
-[Add supporting documents to the contract request](cncore-ss-add-suprt-doc.md)
+[Add supporting documents to the contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-ss-add-suprt-doc.md)
 
 </td></tr><tr><td id="d676727e90">
 
@@ -49,7 +49,7 @@ Steps
 
 </td><td>
 
-[Reclassify supporting documents in the contract request](cncore-nss-reclassify-supdoc.md)
+[Reclassify supporting documents in the contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-nss-reclassify-supdoc.md)
 
 </td></tr><tr><td id="d676727e104">
 
@@ -66,5 +66,5 @@ Steps
 </table>4.  Select **Save** to save the record.
 
 
-**Parent Topic:**[Use non-self-served contract request](../concept/cncore-req-nss-contract-1.md)
+**Parent Topic:**[Use non-self-served contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-req-nss-contract-1.md)
 

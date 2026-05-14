@@ -50,5 +50,5 @@ You can edit the HR Synonym Dictionary to reflect your business and terminology.
         2.  Click **Publish Dictionary** under Related Links.
         3.  The Synonym Dictionary is active after a few minutes.
 
-**Parent Topic:**[HR Administration](../concept/c_AdministerHRServiceManagement.md)
+**Parent Topic:**[HR Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_AdministerHRServiceManagement.md)
 

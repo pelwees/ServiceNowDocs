@@ -23,7 +23,7 @@ Role required: sn\_test\_management.test\_manager
 
 In Test Management 2.0, a test plan is broken into test cycles, and test cycles are broken into test execution suites. A test cycle represents a phase or iteration of testing within a test plan, such as regression testing or smoke testing. A test execution suite is the smallest unit of organization, containing the individual test assignments for testers.
 
-Use the **Planning** tab to manage this hierarchy from a single view. For more information about key terms, see [Test Management 2.0 overview](../concept/overview-test-management2.md).
+Use the **Planning** tab to manage this hierarchy from a single view. For more information about key terms, see [Test Management 2.0 overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/overview-test-management2.md).
 
 ## Procedure
 
@@ -50,7 +50,7 @@ Description
 </td><td>
 
 1.  Select a test plan.
-2.  Right-click and select **Add Test Cycle**, or click the add icon \(![Add icon](../images/add.png)\).
+2.  Right-click and select **Add Test Cycle**, or click the add icon \(![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/add.png)\).
 
 
 </td></tr><tr><td id="d291639e147">
@@ -80,7 +80,7 @@ Description
 </td><td>
 
 1.  Select a test cycle.
-2.  Right-click and select **Add Execution Suite**, or click the add icon \( ![Add icon](../images/add.png)\).
+2.  Right-click and select **Add Execution Suite**, or click the add icon \( ![Add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/add.png)\).
 
 
 </td></tr><tr><td id="d291639e217">
@@ -119,7 +119,7 @@ Description
 
 </td><td>
 
-1.  Click the gear icon \(![Gear icon](../images/settings.png)\).
+1.  Click the gear icon \(![Gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/settings.png)\).
 2.  Select or deselect the required check box. The column preferences are saved.
 
 
@@ -164,11 +164,11 @@ Click the task, and drag the whole task bar to a new date.
 
 </td><td>
 
-On the top of the calendar, click one of the time periods such as the month, or day. Then, select a **Zoom Level** from the calendar.![Calendar options.](../images/zoom_level.png)
+On the top of the calendar, click one of the time periods such as the month, or day. Then, select a **Zoom Level** from the calendar.![Calendar options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../images/zoom_level.png)
 
 When the zoom level in calender is selected as **Auto Fit**, the Gantt view fits in one page so that you can view the entire timeline for the test plan without using the scrollbar.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Test Board in Test Management 2.0](../concept/test-board.md)
+**Parent Topic:**[Test Board in Test Management 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/test-management/../concept/test-board.md)
 

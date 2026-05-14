@@ -119,7 +119,7 @@ Similarity Fields
 
 </td><td>
 
-Record fields that are likely to contain words and phrases that help the system identify similar records for your solution.To change your **Similarity Field** choices, click the Lock icon \(![Lock icon](../image/lock-tag.png)\) to open the field and make your updates. Click the icon again to close the field and save your updates.
+Record fields that are likely to contain words and phrases that help the system identify similar records for your solution.To change your **Similarity Field** choices, click the Lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/lock-tag.png)\) to open the field and make your updates. Click the icon again to close the field and save your updates.
 
 </td></tr><tr><td>
 
@@ -161,5 +161,5 @@ The system schedules the solution for training with the nearest training service
 
 Review the trained similarity solution examples in the **Similarity Examples** related link on your ML Solution Definition form.
 
-**Parent Topic:**[Alert similarity](../concept/alert-similarity.md)
+**Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/alert-similarity.md)
 

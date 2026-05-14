@@ -23,19 +23,19 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Security Incident Catalog**.
 
-    ![Security Incident Catalog](../image/catalog.png)
+    ![Security Incident Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/catalog.png)
 
 2.  Click the catalog item for which you want to make a request.
 
     If the item you selected from the main catalog contains subcategories, the list is shown. In the following example, **Malicious code activity** was selected.
 
-    ![Catalog subcategories](../image/catalog-subcategory.png)
+    ![Catalog subcategories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/catalog-subcategory.png)
 
 3.  Click the subcategory that best matches the type of request you want to make.
 
     In this example, the **Worm, virus, Trojan** subcategory was selected.
 
-    ![Catalog request entry](../image/worm.png)
+    ![Catalog request entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/worm.png)
 
 4.  Enter the information for the request, and click **Submit**.
 

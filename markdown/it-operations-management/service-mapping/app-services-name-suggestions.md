@@ -72,12 +72,12 @@ AFP \(Application fingerprint\)
 Name suggestions taken from the top three application fingerprints associated with the candidate.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Mapping reference](service-mapping-reference.md)
+</table>**Parent Topic:**[Service Mapping reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-reference.md)
 
 **Related topics**  
 
 
-[Automated Service Suggestions](../concept/auto-serv-suggest.md)
+[Automated Service Suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../concept/auto-serv-suggest.md)
 
-[Map application services based on Automated Service Suggestions](../task/map-application-suggestion.md)
+[Map application services based on Automated Service Suggestions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/../task/map-application-suggestion.md)
 

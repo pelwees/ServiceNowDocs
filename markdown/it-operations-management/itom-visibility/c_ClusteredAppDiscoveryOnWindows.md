@@ -19,7 +19,7 @@ The **Microsoft SQL Server** process classifier that comes with your instance id
 
 To detect Windows clustered applications with Discovery, you create a process classifier that detects whether a process is a clustered process. Perform the following steps:
 
-**Parent Topic:**[Software discovery](c_Software.md)
+**Parent Topic:**[Software discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
 ## Create a classifier for clustered processes
 
@@ -39,7 +39,7 @@ Role required: discovery\_admin
 
 4.  Click **Submit**.
 
-    ![Process Classification form](../image/ProcessClassificationForm2.png "Process Classification form")
+    ![Process Classification form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/ProcessClassificationForm2.png "Process Classification form")
 
 <table id="table_xf2_wcr_dr"><thead><tr><th>
 
@@ -122,7 +122,7 @@ Role required: admin
 
 ### About this task
 
-The [Windows Cluster](../reference/r_WindowsServerClusterDiscovery.md) resources table is cmdb\_ci\_win\_cluster\_resource. This relationship is built through JavaScript.
+The [Windows Cluster](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../reference/r_WindowsServerClusterDiscovery.md) resources table is cmdb\_ci\_win\_cluster\_resource. This relationship is built through JavaScript.
 
 ### Procedure
 
@@ -139,7 +139,7 @@ The [Windows Cluster](../reference/r_WindowsServerClusterDiscovery.md) resources
     |Name|Select a unique name.|
     |Application|Select **Global**.|
     |Type|Enter **Cluster**.|
-    |Value|This field defines two JavaScript objects, called resourceType and isMatch. For more information, see [Populate the Value field on the Classifier Parameter form](c_ClusteredAppDiscoveryOnWindows.md#).|
+    |Value|This field defines two JavaScript objects, called resourceType and isMatch. For more information, see [Populate the Value field on the Classifier Parameter form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_ClusteredAppDiscoveryOnWindows.md#).|
 
 5.  Select **Submit**.
 

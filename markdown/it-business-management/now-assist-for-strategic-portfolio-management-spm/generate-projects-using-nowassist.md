@@ -22,14 +22,14 @@ Role required: it\_project\_manager
 -   Install Now Assist for Strategic Portfolio Management \(SPM\) plugin.
 -   To use attachments to generate a project, activate the document intelligence skill. The default LLM is Azure OpenAI. Switching to a different model may affect accuracy.
 
--   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](../concept/configuring-na-spm.md).
+-   The project plan generation skill is activated by default. For more information on how to activate the skill if it isn't automatically activated or if you want to change the skill configuration, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/configuring-na-spm.md).
 
 
 ## About this task
 
 Now Assist scans your project and task details to generate content. Review and edit the output before creating the project. Supported file types are word, pdf, excel, and powerpoint, with a 5 MB file size limit. Only the first five attachments are processed.
 
-For project and task supported column configurations, see [Supported columns for project and task generation](../reference/column-configuration-project-tasks.md).
+For project and task supported column configurations, see [Supported columns for project and task generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../reference/column-configuration-project-tasks.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For project and task supported column configurations, see [Supported columns for
 
 2.  Select **Generate project** to use Now Assist to generate a project.
 
-    ![AI-generated project plan in Project Workspace.](../images/now-assist-project-plan-page.png)
+    ![AI-generated project plan in Project Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/now-assist-project-plan-page.png)
 
     To create a project without using Now Assist, use **New project from template** or **New project** options.
 
@@ -53,7 +53,7 @@ For project and task supported column configurations, see [Supported columns for
 
 6.  Review the pre-populated project name, approved start date, approved end date, or business case.
 
-    ![Now assist generated project plan.](../images/now-assist-generated-project.png)
+    ![Now assist generated project plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../images/now-assist-generated-project.png)
 
     Edit the fields as needed and add a description.
 
@@ -64,5 +64,5 @@ For project and task supported column configurations, see [Supported columns for
 
 The project is created with the generated tasks, including task hierarchy and dates derived from your input.
 
-**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](../concept/using-now-assist-for-spm.md)
+**Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/../concept/using-now-assist-for-spm.md)
 

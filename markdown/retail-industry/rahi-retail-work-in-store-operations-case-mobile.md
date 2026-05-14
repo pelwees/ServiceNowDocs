@@ -33,5 +33,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 5.  Select **Close case** to mark the case as complete.
 
 
-**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](rahi-retail-fulfill-in-store-ops-mobile.md)
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 

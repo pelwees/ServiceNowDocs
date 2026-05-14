@@ -21,8 +21,8 @@ Collaboration services for Zoom Team Chat offers the following functionality:
 -   Agents can import the Zoom chat transcript back to the task record as a comment.
 -   Employees can view and receive the task record resolution service from within  the Zoom application.
 
--   **[Enhance employee experience by integrating ServiceNow with Zoom](enhance-emp-exp-integrating-sn-zoom.md)**  
+-   **[Enhance employee experience by integrating ServiceNow with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhance-emp-exp-integrating-sn-zoom.md)**  
 ServiceNow integration with Zoom helps employees to interact with agents and resolve their IT-related issues using Zoom.
 
-**Parent Topic:**[ServiceNow for Zoom](sn_zoomIntegration.md)
+**Parent Topic:**[ServiceNow for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
 

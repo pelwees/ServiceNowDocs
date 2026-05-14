@@ -88,5 +88,5 @@ Yes / No
 </td></tr></tbody>
 </table>After upgrading to a new query driver version, enable the Reprocess schedule to reevaluate recent scan results using improved logic.
 
-![Settings>Reprocess tab](../images/reprocess-tab-edit.png)
+![Settings>Reprocess tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/reprocess-tab-edit.png)
 

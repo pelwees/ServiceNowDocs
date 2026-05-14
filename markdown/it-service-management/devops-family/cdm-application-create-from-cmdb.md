@@ -23,13 +23,13 @@ Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
 ## About this task
 
-For the application, you specify the number of deployables to generate and the SDLC environment that the deployables represent. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For an overview of the process of preparing a new application to receive config data, see [Preparing an application for config data upload](../concept/cdm-prep-app-for-upload.md).
+For the application, you specify the number of deployables to generate and the SDLC environment that the deployables represent. When you upload existing config data into the application, the system maps the data as `[name:value]` pairs \(config data items — CDIs\) in the appropriate node in the data structure of the CDM application. For an overview of the process of preparing a new application to receive config data, see [Preparing an application for config data upload](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-prep-app-for-upload.md).
 
 ## Procedure
 
-1.  Select the Applications icon \(![Applications icon](../image/icon-applications-nav.png)\) to open the Create new application page and then select **Application based on existing services** to specify the CMDB service that the new application will hold config data for.
+1.  Select the Applications icon \(![Applications icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-applications-nav.png)\) to open the Create new application page and then select **Application based on existing services** to specify the CMDB service that the new application will hold config data for.
 
-    ![Choose how to create the new CDM application](../image/cdm-create-new-app-page.png)
+    ![Choose how to create the new CDM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-create-new-app-page.png)
 
 2.  Fill in the settings on the Create Deployables dialog box to specify the quantity and environment type of the deployables and the CMDB services to connect them to.
 
@@ -134,25 +134,25 @@ Service in the CMDB that is configured by the data in snapshots of the deployabl
 
 5.  Click **Next** to view the list of deployables on the **Edit deployables** tab.
 
-    ![Choose how to create the new CDM application](../image/cdm-edit-deployables-tab.png)
+    ![Choose how to create the new CDM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-edit-deployables-tab.png)
 
 
 ## What to do next
 
-The application is not yet structured to accept config data, so the next step is to add the data structure. See [Add the nodes that will contain config data to a new CDM application](cdm-data-structure-add-for-upload.md).
+The application is not yet structured to accept config data, so the next step is to add the data structure. See [Add the nodes that will contain config data to a new CDM application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-data-structure-add-for-upload.md).
 
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-editing-config-data-changesets.md)
 
-[Define or update a component](cdm-component-define.md)
+[Define or update a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-define.md)
 
-[Define or update a collection in an application](cdm-collection-define.md)
+[Define or update a collection in an application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-collection-define.md)
 
-[Create or update a variable CDI](cdm-variables-crud.md)
+[Create or update a variable CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-secrets-managing.md)
 

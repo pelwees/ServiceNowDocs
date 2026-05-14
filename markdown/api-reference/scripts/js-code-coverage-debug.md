@@ -26,7 +26,7 @@ Users with the js\_coverage\_debugger role can debug server-side scripts without
 
 **Note:** JS Code Coverage Debug doesn't log information for client-side scripts.
 
-**Parent Topic:**[Debugging scripts](script-debug-overview.md)
+**Parent Topic:**[Debugging scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debug-overview.md)
 
 ## JS Code Coverage highlighting
 
@@ -36,7 +36,7 @@ The color of the highlight indicates how the system evaluated the code line.
 
 Administrators and application developers can use this information to conduct more targeted debugging activities such as using the Script Debugger to determine why script conditions are not being met.
 
-![Sample code highlighting](../image/js-code-coverage-highlighting.png "Sample code highlighting")
+![Sample code highlighting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/js-code-coverage-highlighting.png "Sample code highlighting")
 
 |Highlight color|Description|
 |---------------|-----------|
@@ -85,7 +85,7 @@ Role required: js\_coverage\_debugger or admin
 
     The system logs which server-side scripts and code lines the system runs as well as displays session debug messages in the JS Code Coverage namespace.
 
-    ![Debug with code coverage](../image/js-code-coverage-session-debug.png)
+    ![Debug with code coverage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/js-code-coverage-session-debug.png)
 
 2.  Navigate to the table or page whose logic you want to test.
 
@@ -113,12 +113,12 @@ Role required: js\_coverage\_debugger or admin
 
     The system displays the JS Code Coverage Debug record.
 
-    ![JS code coverage debug section](../image/sample-code-coverage-incident-events.png)
+    ![JS code coverage debug section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/sample-code-coverage-incident-events.png)
 
 7.  Review the **Script** field to determine which lines of code the system ran.
 
 
 ### What to do next
 
-Use the code coverage information to do more targeted debugging activities such as set breakpoints and review variable values with the Script Debugger. For more information, see [Script Debugger and Session Log](script-debugger.md).
+Use the code coverage information to do more targeted debugging activities such as set breakpoints and review variable values with the Script Debugger. For more information, see [Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md).
 

@@ -15,9 +15,9 @@ breadcrumb: [Script Debugger, Debugging scripts, Scripting, API implementation, 
 
 The Script Debugger user interface \(UI\) displays information about breakpoints set, the call stack and line number of the currently executing script line, details about variables and transactions, and status of console.
 
-![Script debugger not paused](../image/script_debugger_not_paused.png "Script Debugger Not Paused")
+![Script debugger not paused](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/script_debugger_not_paused.png "Script Debugger Not Paused")
 
-![Script debugger paused](../image/script_debugger_paused.png "Script Debugger Paused")
+![Script debugger paused](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/script_debugger_paused.png "Script Debugger Paused")
 
 |User interface element|Description|
 |----------------------|-----------|
@@ -40,7 +40,7 @@ The Script Debugger user interface \(UI\) displays information about breakpoints
 
 ## Session Log page
 
-![Session log user interface elements](../image/session-log.png "Session log")
+![Session log user interface elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/session-log.png "Session log")
 
 |User interface element|Description|
 |----------------------|-----------|
@@ -51,16 +51,16 @@ The Script Debugger user interface \(UI\) displays information about breakpoints
 |Message Type|Option to filter logs based on the dynamically log levels. For example, **Info**.|
 |Clear log|Clears all logs.|
 |Download log|Download the logs in HTML file format.|
-|Settings|Session debug options. For information about the debug options, see [Session debug](../concept/c_SessionDebug.md#).|
+|Settings|Session debug options. For information about the debug options, see [Session debug](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/c_SessionDebug.md#).|
 
--   **[Script Tracer and debugging scripts](../concept/script-tracer.md)**  
+-   **[Script Tracer and debugging scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/script-tracer.md)**  
 The Script Tracer can help you filter your debugging search to quickly narrow down script problems. You can identify lines of scripts in the Glide record that have undergone change during execution. Finding those specific lines of scripts rather than doing a wide search helps save time and improves productivity.
--   **[Script Debugger status](../concept/script-debugger-status.md)**  
+-   **[Script Debugger status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/script-debugger-status.md)**  
 The Script Debugger status determines what debugging actions are available and what information it can display.
--   **[Transaction details](../concept/transaction-details.md#)**  
+-   **[Transaction details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/transaction-details.md#)**  
 The Script Debugger displays transaction details for the current paused user session.
--   **[Script Debugger step-through and console controls](step-through-controls.md)**  
+-   **[Script Debugger step-through and console controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/step-through-controls.md)**  
 After the Script Debugger pauses a script, use the step-through controls to move between script lines and move between scripts in the call stack. Use the Console controls to expand console, collapse console, clear console, and rerun expressions.
 
-**Parent Topic:**[Script Debugger and Session Log](../concept/script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/script-debugger.md)
 

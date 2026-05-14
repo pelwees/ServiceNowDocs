@@ -29,7 +29,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
     The home screen for the Enterprise Asset Management application opens.
 
-    ![Enterprise Asset Management home screen in the ServiceNow Mobile Agent application.](../image/eam-mobile-agent-app-home-screen.png)
+    ![Enterprise Asset Management home screen in the ServiceNow Mobile Agent application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../image/eam-mobile-agent-app-home-screen.png)
 
 3.  Tap **Asset lookup**.
 

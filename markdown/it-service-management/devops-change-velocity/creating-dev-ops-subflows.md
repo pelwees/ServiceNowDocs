@@ -239,7 +239,7 @@ N/A
     ```
 
 
-![DevOps Notification Coding Tool Flow](../image/dev-ops-notification-coding-flow.png "DevOps Notification capability flow diagram example - Coding tool")
+![DevOps Notification Coding Tool Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-notification-coding-flow.png "DevOps Notification capability flow diagram example - Coding tool")
 
 ## Connect capability subflow
 
@@ -298,7 +298,7 @@ String message displayed on the form for connection failure. The variable is an 
     The connection\_state attribute could not be updated for an unknown reason.
 
 
-![DevOps Connect Orchestration Tool](../image/dev-ops-connect-orch-flow.png "DevOps Connect capability flow diagram example - Orchestration tool")
+![DevOps Connect Orchestration Tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-connect-orch-flow.png "DevOps Connect capability flow diagram example - Orchestration tool")
 
 ## Discover capability subflow
 
@@ -592,9 +592,9 @@ Unmatched
 --
 
 </td></tr></tbody>
-</table>![DevOps Discover Plan Tool Flow](../image/dev-ops-discover-planning-flow.png "DevOps Discover capability flow diagram example - Planning tool")
+</table>![DevOps Discover Plan Tool Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-discover-planning-flow.png "DevOps Discover capability flow diagram example - Planning tool")
 
-![Flow diagram of a typical discover flow with pagination support](../image/dev-ops-user-integrations-pagination.png "DevOps Discover capability with pagination support flow diagram")
+![Flow diagram of a typical discover flow with pagination support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/dev-ops-user-integrations-pagination.png "DevOps Discover capability with pagination support flow diagram")
 
 ## Update Import Request Workflow Studio action
 
@@ -642,5 +642,5 @@ details
 \(String\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[User-created integrations in DevOps Change Velocity](dev-ops-tool-integration.md)
+</table>**Parent Topic:**[User-created integrations in DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-tool-integration.md)
 

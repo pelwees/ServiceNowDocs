@@ -21,11 +21,11 @@ You can view the dashboard in the Next Experience UI Framework. Select any indic
 
 Use the **Edit** button to modify the dashboard and the widgets with the in-line editor. For more information, see [Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md).
 
-![Universal Request Reporting Process overview tab.](../image/ur-process-overview.png "Process Overview tab")
+![Universal Request Reporting Process overview tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../image/ur-process-overview.png "Process Overview tab")
 
 The **SLA Trends** tab displays dynamic Performance Analytics reports for Universal Request. To view this tab, activate the Performance Analytics and Reporting for Universal Request plugin \(com.snc.universal\_request.pa\). The **SLA trends** tab displays reports based on closed universal requests. By default, the monthly data is displayed. To collect daily data for this tab, run the **\[PA Universal Request\] Daily Data Collection** job. To collect data for the past three months, run the **\[PA Universal Request\] Historical Data Collection** job.
 
-![SLA Trends tab in the Universal Request Process overview.](../image/ur-process-ovrv-sla-trends.png "Process Overview SLA Trends tab")
+![SLA Trends tab in the Universal Request Process overview.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../image/ur-process-ovrv-sla-trends.png "Process Overview SLA Trends tab")
 
 ## Required ServiceNow AI Platform roles
 
@@ -252,5 +252,5 @@ The date filter is available for the **Overview** tab.
 |----|----|-----------|
 |Date|Choice|The time period for the data that will be filtered.|
 
-**Parent Topic:**[Reporting solutions for Universal Request](../../../product/universal-request/concept/reporting-soln-for-ur.md)
+**Parent Topic:**[Reporting solutions for Universal Request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../../../product/universal-request/concept/reporting-soln-for-ur.md)
 

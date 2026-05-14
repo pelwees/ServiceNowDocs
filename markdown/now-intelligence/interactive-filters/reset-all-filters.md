@@ -34,16 +34,16 @@ If there is a default value on a filter, resetting the filters returns that filt
 3.  Click the context menu \(![](../../../common/image/Form_MenuIcon.png)\) and select **Reset Filters**.
 
 
-**Parent Topic:**[Interactive Filters on dashboards](../concept/c_PublishersOnHomepages.md)
+**Parent Topic:**[Interactive Filters on dashboards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/../concept/c_PublishersOnHomepages.md)
 
 **Related topics**  
 
 
-[Add an interactive filter widget to a responsive dashboard](t_AddIntFilterToAResponsiveDboard.md)
+[Add an interactive filter widget to a responsive dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_AddIntFilterToAResponsiveDboard.md)
 
-[Make a breakdown act as an interactive filter](make-breakdown-interactive-filter.md)
+[Make a breakdown act as an interactive filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/make-breakdown-interactive-filter.md)
 
-[Make a report follow interactive filters](t_MakeAReportASubscriber.md)
+[Make a report follow interactive filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportASubscriber.md)
 
-[Make a report act as an interactive filter](t_MakeAReportAPublisher.md)
+[Make a report act as an interactive filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters/t_MakeAReportAPublisher.md)
 

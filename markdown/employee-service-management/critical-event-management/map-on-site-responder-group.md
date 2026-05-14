@@ -36,14 +36,14 @@ Role required: admin or sn\_critical.manager
 7.  Select **Save**.
 
 
-**Parent Topic:**[Configure Critical Event Management groups](configure-critical-event-management-groups.md)
+**Parent Topic:**[Configure Critical Event Management groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-critical-event-management-groups.md)
 
 **Related topics**  
 
 
-[Add members to the group](add-members-group.md)
+[Add members to the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-members-group.md)
 
-[Add roles to a member](add-member-roles.md)
+[Add roles to a member](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-member-roles.md)
 
-[Add roles to the group](add-group-roles.md)
+[Add roles to the group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/add-group-roles.md)
 

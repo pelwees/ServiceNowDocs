@@ -32,9 +32,9 @@ Role required: none
 
 3.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_WorkbenchConfiguration.md).
 
-    ![In this figure, a facilities map image displays a building floor and its designated spaces.](../image/CampusFloorSelection.png)
+    ![In this figure, a facilities map image displays a building floor and its designated spaces.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CampusFloorSelection.png)
 
 4.  On the Spaces tab, enter the user's name or space name in the search field.
 
@@ -63,7 +63,7 @@ Action
 
 Click the link for the space or user. The details for that user or space open in a separate form.
 
- **Note:** If the location is a space, users and facilities staff can create facilities requests from the room information. See [Create a facility request from the floor plan](t_CreateFacReqWorkbench.md).
+ **Note:** If the location is a space, users and facilities staff can create facilities requests from the room information. See [Create a facility request from the floor plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CreateFacReqWorkbench.md).
 
 </td></tr><tr><td id="d32682e237">
 
@@ -71,7 +71,7 @@ Click the link for the space or user. The details for that user or space open in
 
 </td><td>
 
-Click the pin ![Pin icon shows location on floor plan.](../image/PinIcon.png) icon, beside the link for the user or space.
+Click the pin ![Pin icon shows location on floor plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/PinIcon.png) icon, beside the link for the user or space.
 
 </td></tr></tbody>
 </table>

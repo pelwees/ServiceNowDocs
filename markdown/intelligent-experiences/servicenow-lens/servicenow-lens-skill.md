@@ -40,7 +40,7 @@ Platform
 
 </td><td>
 
-[ServiceNow AI Lens](servicenow-lens-landing-page.md)
+[ServiceNow AI Lens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-landing-page.md)
 
 </td></tr></tbody>
 </table>## Licensing requirements

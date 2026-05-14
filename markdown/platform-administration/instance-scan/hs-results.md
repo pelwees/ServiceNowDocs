@@ -50,8 +50,8 @@ There are the following related lists in the **Scan Result** form.
     The Target related list shows all the targets against which the checks have executed.
 
 
--   **[Scan results](hc-scan-results.md)**  
+-   **[Scan results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-scan-results.md)**  
 Scan Results dashboard helps you with an overview of all details of an executed scan.
 
-**Parent Topic:**[Reviewing of scans](../reference/hs-review-scans.md)
+**Parent Topic:**[Reviewing of scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../reference/hs-review-scans.md)
 

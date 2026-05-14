@@ -33,7 +33,7 @@ Role required: sn\_kpi.admin
 
 6.  Select the collection level as **Supplier level**.
 
-    ![Select collection level dialog box](../image/collection-level.png)
+    ![Select collection level dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/collection-level.png)
 
 7.  Select a KPI template from the list of available KPI templates.
 
@@ -42,5 +42,5 @@ Role required: sn\_kpi.admin
     The corresponding KPI records and KPI collection tasks are created.
 
 
-**Parent Topic:**[Configure Supplier Relationship and Performance Management](../concept/configuring-supplier-performance-mgmt.md)
+**Parent Topic:**[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/configuring-supplier-performance-mgmt.md)
 

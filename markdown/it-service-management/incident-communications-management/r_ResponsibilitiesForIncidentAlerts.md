@@ -55,16 +55,16 @@ Incident Communications Management provides the following additional responsibil
 |Service Owner|Service owner or manager who is identified as a potential contact when an incident communication plan relates to one or more of their services.|
 |Technical Support|Second or third level technical support personnel involved in troubleshooting and resolving an incident communication plan.|
 
-**Parent Topic:**[Incident Communications Management and Contacts](../concept/c_IncidentAlertContact.md)
+**Parent Topic:**[Incident Communications Management and Contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../concept/c_IncidentAlertContact.md)
 
 **Related topics**  
 
 
-[Define contact responsibilities](../task/t_CreateAContactResponsibility.md)
+[Define contact responsibilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../task/t_CreateAContactResponsibility.md)
 
-[Create a contact definition](../task/t_CreateAContactDefinition.md)
+[Create a contact definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../task/t_CreateAContactDefinition.md)
 
-[Create a default override](../task/t_CreateADefaultOverride.md)
+[Create a default override](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../task/t_CreateADefaultOverride.md)
 
-[Add a user as a contact](../task/t_AddAContactManually.md)
+[Add a user as a contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/../task/t_AddAContactManually.md)
 

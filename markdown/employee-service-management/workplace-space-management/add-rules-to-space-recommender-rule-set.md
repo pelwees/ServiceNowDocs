@@ -21,8 +21,8 @@ Ensure the following:
 
 -   Workplace Case Management is installed.
 -   Workplace Core is installed.
--   Space recommender rules are already created. Otherwise, [Create a Space Recommender rule](create-a-space-recommender-rule.md).
--   Space recommender rule set is already created. Otherwise, [Configure a Space Recommender Rule set](configure-space-recommender-rule-sets.md).
+-   Space recommender rules are already created. Otherwise, [Create a Space Recommender rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md).
+-   Space recommender rule set is already created. Otherwise, [Configure a Space Recommender Rule set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-space-recommender-rule-sets.md).
 
 Role required: sn\_wsd\_core.admin
 
@@ -44,7 +44,7 @@ Role required: sn\_wsd\_core.admin
 
     2.  Move the selection to the **Space Recommender Rules List** column on the right.
 
-        To move the rule, use the add/remove icon \(![Add remove time slot icon](../../wsd-reservation-management/image/add-remove-icon.png)\).
+        To move the rule, use the add/remove icon \(![Add remove time slot icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/../../wsd-reservation-management/image/add-remove-icon.png)\).
 
     3.  Click **Save**.
 
@@ -53,5 +53,5 @@ Role required: sn\_wsd\_core.admin
 
 The space recommender rule is added to the selected space recommender rule set.
 
-**Parent Topic:**[Create a Space Recommender rule](create-a-space-recommender-rule.md)
+**Parent Topic:**[Create a Space Recommender rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 

@@ -33,7 +33,7 @@ This functionality ensures that all team members, regardless of their level of e
 
 ## Before you begin
 
-Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](../task/install-ui-generation.md) and [Grant UI Builder admin role](../task/grant-ui-builder-admin-role.md).
+Make sure that you install UI generation and that you have the ui\_builder\_admin role. For more information, see [Install UI generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/install-ui-generation.md) and [Grant UI Builder admin role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/grant-ui-builder-admin-role.md).
 
 ## Configuration steps
 
@@ -67,12 +67,12 @@ Perform the following steps to use Expereice generation feature in UI Builder:
 
 The development team creates three experiences in a few minutes, which is significantly faster than the hours it would take to build each one manually. Developers of all experience levels contribute, ensuring that the generated experiences have a consistent structure throughout the portal. As a result, the team can focus most of its time on meaningful customization rather than basic configuration.
 
-**Parent Topic:**[UI Generation use cases](../task/ui-generation-use-cases.md)
+**Parent Topic:**[UI Generation use cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/ui-generation-use-cases.md)
 
 **Related topics**  
 
 
-[Experience Generation](concept-experience-generation.md)
+[Experience Generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/concept-experience-generation.md)
 
-[Create an AI-generated experience](../task/generate-ui.md#)
+[Create an AI-generated experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../task/generate-ui.md#)
 

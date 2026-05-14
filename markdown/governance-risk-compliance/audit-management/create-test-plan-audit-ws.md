@@ -27,7 +27,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit\_ws.audito
 
     You can also create a test plan by navigating to the Audit workspace List page.
 
-    1.  Click the lists icon \(![List icon.](../image/ListsIcon.jpg)\).
+    1.  Click the lists icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/ListsIcon.jpg)\).
     2.  Click **Test plans** in the Execution list.
     3.  Click **New**.
     You can also create a test plan from an engagement that is in **Validate** or **Fieldwork** state by selecting the test plan and clicking the **Generate Control Tests** button in the Test plans related list.

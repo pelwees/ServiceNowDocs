@@ -65,14 +65,14 @@ Graph of open and unassigned cases and graph of open cases since 10-15 days, 15-
 |Closed cases|Line and Stacked bar chart|Graph of open and unassigned cases and graph of open cases since 10-15 days, 15-30 days, more than 30 days|
 |Team performance|List|List of all open critical cases that were updated least recently.|
 
-**Parent Topic:**[Using Workforce Optimization for HR](use-wfo-hr.md)
+**Parent Topic:**[Using Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/use-wfo-hr.md)
 
 **Related topics**  
 
 
-[Teams in Workforce Optimization for HR](using-teams-wfo-hr.md#)
+[Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-teams-wfo-hr.md#)
 
-[Scheduling in Workforce Optimization for HR](scheduling-configurable-wfo-hr.md)
+[Scheduling in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/scheduling-configurable-wfo-hr.md)
 
-[Coaching in Workforce Optimization for HR](using-coaching-wfo-hr.md)
+[Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 

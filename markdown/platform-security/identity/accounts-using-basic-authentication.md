@@ -19,7 +19,7 @@ Accounts using basic authentication displays the non human identity accounts tha
 
 **Note:** The accounts displayed on the page are the accounts that are using username and password for authentication in the last 30 days.
 
-![Accounts using basic authentication](../images/mic-basic-auth.png)
+![Accounts using basic authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-basic-auth.png)
 
 You can select the machine identity name to know more about the account and the recommendation to maintain a good security posture for the account.
 

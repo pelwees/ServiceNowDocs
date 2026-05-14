@@ -31,9 +31,9 @@ Role required: rota\_Manager
 
     **Note:** Add a reason for the time-off request rejection.
 
-4.  Tap the filter icon \(![Filter icon.](../../../product/knowledge-management/image/filter-settings.png)\) to view specific time-off requests.
+4.  Tap the filter icon \(![Filter icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../../product/knowledge-management/image/filter-settings.png)\) to view specific time-off requests.
 
-5.  Tap the menu icon \(![Icon menu.](../image/inveted-menu-ocs.png)\) and select **Request time-off** to go to the Request time-off form.
+5.  Tap the menu icon \(![Icon menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/inveted-menu-ocs.png)\) and select **Request time-off** to go to the Request time-off form.
 
 6.  Complete the required fields on the form and tap **Submit**.
 

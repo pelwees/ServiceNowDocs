@@ -17,7 +17,7 @@ Create an unlimited number of taxonomy layers to organize, label, and manage you
 
 ## Before you begin
 
-**Important:** This task applies if you are using the legacy portfolio structure. For information on the legacy and standard portfolio structures, see [Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md).
+**Important:** This task applies if you are using the legacy portfolio structure. For information on the legacy and standard portfolio structures, see [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-taxonomy.md).
 
 Role required: portfolio\_admin
 
@@ -32,7 +32,7 @@ Always associated taxonomy layers with a parent service portfolio. Example layer
 -   Service Class
 -   Service Group
 
-If the Service Portfolio Management Taxonomy Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](activate-SPM2-content-pack-plugin.md) for more details.
+If the Service Portfolio Management Taxonomy Content Pack \[com.snc.spm.content\] plugin sample data is activated on your instance, review the provided taxonomy data to gain an understanding of how to best define your taxonomy layers. Refer to [Activate Service Portfolio Management Sample Content Pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/activate-SPM2-content-pack-plugin.md) for more details.
 
 ## Procedure
 
@@ -91,8 +91,8 @@ Brief detail about the taxonomy layer purpose.
 
 5.  Click the newly created taxonomy layer definition in the list.
 
-    The Taxonomy Nodes and Portfolio Metrics Related Lists appear on the Service Portfolio form. Refer to [Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
+    The Taxonomy Nodes and Portfolio Metrics Related Lists appear on the Service Portfolio form. Refer to [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-taxonomy.md) for detailed information regarding creating and adding taxonomy nodes within your service portfolio structure.
 
 
-**Parent Topic:**[Service Portfolio Management taxonomy](../concept/SPM2-taxonomy.md)
+**Parent Topic:**[Service Portfolio Management taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-taxonomy.md)
 

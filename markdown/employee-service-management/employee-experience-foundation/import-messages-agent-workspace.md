@@ -31,12 +31,12 @@ Role required: user
 
 2.  From the **Start Microsoft Teams Chat** menu, select **Import messages**.
 
-    ![Option to import messages.](../images/import-messages-agent-workspace.png)
+    ![Option to import messages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/import-messages-agent-workspace.png)
 
     **Note:** If you aren't logged in, you receive a prompt to log into Microsoft Teams.
 
 3.  Select the messages that you would like to import, then select **Import messages**.
 
 
-**Parent Topic:**[Request-based chat - Start and import chat from Workspace](../concept/initiate-chat-agent-workspace.md)
+**Parent Topic:**[Request-based chat - Start and import chat from Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/initiate-chat-agent-workspace.md)
 

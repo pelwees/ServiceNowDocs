@@ -15,7 +15,7 @@ breadcrumb: [Configuring Cloud Cost Management, Cloud Cost Management, IT Asset 
 
 The Cloud Cost Management application is available on the ServiceNow Store.
 
-For more information, see [Configuring Cloud Cost Management](configuring-cloud-insights.md).
+For more information, see [Configuring Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/configuring-cloud-insights.md).
 
 ## General requirements and limitations
 

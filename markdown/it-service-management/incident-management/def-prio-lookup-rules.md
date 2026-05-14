@@ -57,5 +57,5 @@ Role required: data\_lookup\_admin, or admin
 4.  Click **Submit**.
 
 
-**Parent Topic:**[Configuring Incident Management](../concept/incident-configuration.md)
+**Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/incident-configuration.md)
 

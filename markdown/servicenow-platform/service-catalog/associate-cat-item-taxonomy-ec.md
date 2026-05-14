@@ -54,5 +54,5 @@ To associate a catalog item from the Service Catalog:
 
 The catalog item is associated with the selected taxonomy topic and appears on the Employee Center.
 
-**Parent Topic:**[Service Catalog in Employee Center portal](../concept/service-catalog-in-ec.md)
+**Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/service-catalog-in-ec.md)
 

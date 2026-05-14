@@ -20,7 +20,7 @@ Set up a Vector Agent data input to enable Health Log Analytics to process log m
 
 -   Verify that a MID Server is installed and configured with the Log Ingestion capability enabled. For more information, see [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerSystemRequirements.md).
 
-    ![MID Server configuration with Log Ingestion capability enabled.](../image/hla-mid-log-ingestion.png)
+    ![MID Server configuration with Log Ingestion capability enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-mid-log-ingestion.png)
 
     **Important:** Health Log Analytics does not support IPv6. To work with the application, configure the MID Server to IPv4.
 
@@ -44,7 +44,7 @@ If your organization uses Vector by Datadog to handle log data from multiple sou
 
 4.  On the **Getting Started** tab, fill in the form and then select **Next**.
 
-    For a detailed description of the fields, see [Vector Agent data input configuration fields](../reference/hla-data-input-vector-agent-ref.md).
+    For a detailed description of the fields, see [Vector Agent data input configuration fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../reference/hla-data-input-vector-agent-ref.md).
 
 5.  On the **vector.yaml** tab, update the code with the relevant values as needed.
 
@@ -77,7 +77,7 @@ Health Log Analytics adds the data input record to the **Data Inputs** table. Th
 
 ## What to do next
 
-[Make sure that the data input is streaming data.](hla-data-input-streaming.md)
+[Make sure that the data input is streaming data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-streaming.md)
 
-**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](../concept/hla-data-inputs-configuring.md)
+**Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../concept/hla-data-inputs-configuring.md)
 

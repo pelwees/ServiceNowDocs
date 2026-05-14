@@ -43,12 +43,12 @@ The following roles are required for installation, configuration, and verificati
 
 ### Procedure
 
-1.  Follow the instructions for [downloading an application from the ServiceNow Store](../../security-incident-response/reference/download-app-first-time.md).
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/reference/download-app-first-time.md).
 
 
 ### What to do next
 
-[Set Threat Intelligence properties](c_GetStartedWithThreatIntel.md#).
+[Set Threat Intelligence properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_GetStartedWithThreatIntel.md#).
 
 ### Components installed with Threat Intelligence
 

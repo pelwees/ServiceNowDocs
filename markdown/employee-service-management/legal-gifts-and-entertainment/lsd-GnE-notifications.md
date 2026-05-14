@@ -19,5 +19,5 @@ Notifications alert you of changes in gift and entertainment disclosure request 
 |----|---------|----|
 |G&amp;E Request Approval - Approved/rejected|Requested for, Assigned to|Your request was $\{state\}.|
 
-**Parent Topic:**[Gifts and Entertainment Compliance reference](lsd-ge-reference.md)
+**Parent Topic:**[Gifts and Entertainment Compliance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-reference.md)
 

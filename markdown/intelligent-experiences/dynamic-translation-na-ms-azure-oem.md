@@ -16,7 +16,7 @@ Support multi-language input in Now Assist applications with the Microsoft Azure
 
 ## Multi-language support for Now Assist applications
 
-![In the Translator Configurations table, the Microsoft Azure OEM record](../image/dynamic-translation-na-ms-azure-oem-X1.png)
+![In the Translator Configurations table, the Microsoft Azure OEM record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/dynamic-translation-na-ms-azure-oem-X1.png)
 
 When dynamic translation in the Generative AI Controller is enabled, your users' input text is handled by Microsoft Azure OEM \(com.snc.microsoft\_oem\_translation\_spoke\) as follows:
 
@@ -25,7 +25,7 @@ When dynamic translation in the Generative AI Controller is enabled, your users'
 3.  Now Assist returns a response in English.
 4.  The English response is translated to the user's preferred language and displayed in the UI.
 
-For more information about enabling dynamic translation in this context, see [Configure multilingual service for Now Assist applications](../task/enable-dynamic-translation-for-now-assist-applications.md) and [Enable Dynamic Translation for capabilities in Generative AI Controller](../../generative-ai-controller/task/enable-dynamic-translation-for-generative-ai-capabilities.md).
+For more information about enabling dynamic translation in this context, see [Configure multilingual service for Now Assist applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/enable-dynamic-translation-for-now-assist-applications.md) and [Enable Dynamic Translation for capabilities in Generative AI Controller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../generative-ai-controller/task/enable-dynamic-translation-for-generative-ai-capabilities.md).
 
 From the Zurich release, this spoke has available support for specific regulated markets, subject to conditions. For information see [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) on the Now Support portal.
 
@@ -43,12 +43,12 @@ The application scope for Microsoft Azure OEM is sn\_ms\_oem.
 
 For more information, see [Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dynamic-translation-overview.md).
 
-**Parent Topic:**[Configure multilingual service for Now Assist applications](../task/enable-dynamic-translation-for-now-assist-applications.md)
+**Parent Topic:**[Configure multilingual service for Now Assist applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/enable-dynamic-translation-for-now-assist-applications.md)
 
 **Related topics**  
 
 
 [Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dynamic-translation-overview.md)
 
-[Generative AI Controller](../../generative-ai-controller/concept/generative-ai-controller.md)
+[Generative AI Controller](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../generative-ai-controller/concept/generative-ai-controller.md)
 

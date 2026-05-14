@@ -38,12 +38,12 @@ Role required: admin, sn\_hr\_workday.admin
     |Extension system|Option indicating the origin of the task, that is Workday.|
 
 
-**Parent Topic:**[Using HR Service Delivery Integration with Workday](../concept/config-hrsd-int-workday.md)
+**Parent Topic:**[Using HR Service Delivery Integration with Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/config-hrsd-int-workday.md)
 
 **Related topics**  
 
 
-[Use transform maps](../reference/transform-maps-w.md)
+[Use transform maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/transform-maps-w.md)
 
-[View job tracker details from Workday](w-job-tracker.md)
+[View job tracker details from Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-job-tracker.md)
 

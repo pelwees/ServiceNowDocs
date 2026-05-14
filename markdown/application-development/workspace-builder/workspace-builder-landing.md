@@ -25,19 +25,19 @@ You can use Workspace Builder to quickly create workspaces for workspaces built 
 
 <table id="table_ehs_rff_bgc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explor using Workspace Builder to create workspaces.](exploring-workspace-builder.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../reuse/icons/brand-icons/bus-explore.svg)Explor using Workspace Builder to create workspaces.](exploring-workspace-builder.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Workspace Builder.](configuring-workspace-builder.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure Workspace Builder.](configuring-workspace-builder.md)
 
 </td></tr><tr><td>
 
-[Build![](../../../reuse/icons/brand-icons/bus-learn.svg)Build and customize a workspace.](using-workspace-builder.md)
+[Build![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../reuse/icons/brand-icons/bus-learn.svg)Build and customize a workspace.](using-workspace-builder.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Workspace Builder components.](workspace-builder-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/workspace-builder/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Workspace Builder components.](workspace-builder-reference.md)
 
 </td></tr></tbody>
 </table>

@@ -27,21 +27,21 @@ Store installations require a Now Support account and permission to request appl
 
     **Note:**
 
-    ![Configuration tiles for integrations](../image/config_tiles.png)
+    ![Configuration tiles for integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/config_tiles.png)
 
 2.  Locate the integration you want to install and click **Configure**.
 
     The selected integration is shown in the ServiceNow Store
 
-    ![Store application](../image/palo_alto.png)
+    ![Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/palo_alto.png)
 
 3.  Click **View Dependencies** and review the app dependencies listed.
 
-    ![Dependency Notice](../image/dependency-notice-palo-alto.png)
+    ![Dependency Notice](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/dependency-notice-palo-alto.png)
 
 4.  If the integration has any core application dependencies, such as Security Incident Response, to which your company is not yet entitled:
 
-    1.  [Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications](../reference/download-app-first-time.md).
+    1.  [Follow these instructions to obtain entitlements, download dependency plugins, and activate the applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../reference/download-app-first-time.md).
 
     2.  Return to this procedure.
 
@@ -55,7 +55,7 @@ Store installations require a Now Support account and permission to request appl
 
     A Purchase screen similar to the following opens.
 
-    ![Purchase screen](../image/integration-purchase.png)
+    ![Purchase screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/integration-purchase.png)
 
 7.  Identify which instances you want the integration to be available on, manage your notifications, and select the **ServiceNow Store Addendum** check box.
 

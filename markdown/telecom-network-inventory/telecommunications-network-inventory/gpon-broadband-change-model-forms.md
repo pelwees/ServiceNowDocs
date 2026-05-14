@@ -15,15 +15,15 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 The GPON Broadband Change model forms enables you to create, review, and modify the connection details of the physical connection, and the compute and create logical connection.
 
--   **[Create Physical Connection form](gpon-physical-connection-form.md)**  
+-   **[Create Physical Connection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-physical-connection-form.md)**  
 The Create Physical Connection form enables you to create, review, and modify the network details for a physical connection.
--   **[Compute and Create Logical Connection form](compute-and-create-logical-connection-form.md)**  
+-   **[Compute and Create Logical Connection form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/compute-and-create-logical-connection-form.md)**  
 The Compute and Create Logical Connection form enables you to create, review, and modify the connection details for a logical connection.
 
-**Parent Topic:**[Telecommunications Network Inventory reference](../concept/telecommunications-network-inventory-reference.md)
+**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/telecommunications-network-inventory-reference.md)
 
 **Related topics**  
 
 
-[Design and assign GPON broadband service](../concept/gpon-broadband-service.md)
+[Design and assign GPON broadband service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/gpon-broadband-service.md)
 

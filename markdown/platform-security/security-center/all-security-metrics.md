@@ -17,11 +17,11 @@ Navigate to **All Security Metrics** to view a table with the data related to th
 
 Access the list of all Security Metrics on a filterable list by accessing the Security Metrics Dashboard, and selecting the **All Security Metrics** option on from the list on the left.
 
-![Security metrics](../images/sc-metrics-1.png)
+![Security metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/sc-metrics-1.png)
 
 Select any item on the list to view details on each metric.
 
-Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](security-task-manager.md).
+Select the **+Create task** button to create a Security Task related to a metric. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
-**Parent Topic:**[Security metrics](sc-metrics.md)
+**Parent Topic:**[Security metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 

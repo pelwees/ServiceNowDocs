@@ -18,7 +18,7 @@ Risk scores help release coordinators and product managers identify potential is
 
 Risk score is calculated differently for timeline-oriented releases and stage-oriented releases.
 
-**Parent Topic:**[Digital Product Release reference](dpr-reference.md)
+**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
 ## Risk score for timeline-oriented releases
 
@@ -75,9 +75,9 @@ This categorization can help you determine the risks involved with the release, 
 **Related topics**  
 
 
-[Release Overview dashboard](dpr-release-overview-dashboard.md)
+[Release Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-overview-dashboard.md)
 
-[Managing stage-oriented releases](dpr-working-stage-release.md)
+[Managing stage-oriented releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-working-stage-release.md)
 
 ## Risk score for stage-oriented releases
 
@@ -155,7 +155,7 @@ The risk score returns 0 in the following cases:
 **Related topics**  
 
 
-[Release Overview dashboard](dpr-release-overview-dashboard.md)
+[Release Overview dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-release-overview-dashboard.md)
 
-[Managing stage-oriented releases](dpr-working-stage-release.md)
+[Managing stage-oriented releases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-working-stage-release.md)
 

@@ -29,7 +29,7 @@ Role required: sp\_admin or admin
 
     Selecting this check box causes the **SEO script** field to appear. By default, the system uses the SPSEOHeaderTags script include. You can use a different script include by updating this field.
 
-    !["Use SEO script" and "SEO script" fields on the Page form](../image/seo-script.png)
+    !["Use SEO script" and "SEO script" fields on the Page form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/seo-script.png)
 
 3.  Click **Update**.
 
@@ -48,10 +48,10 @@ To specify custom header tags for the page, update the `generateCustomTagsForSEO
 
 For an example of inserting custom SEO tags into the knowledge article view page, see [Configure custom SEO tags for canonical URLs and localized knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-seo-knowledge.md).
 
-**Parent Topic:**[Improving search engine optimization for portals](../concept/seo-sp.md)
+**Parent Topic:**[Improving search engine optimization for portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/seo-sp.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md#)
 

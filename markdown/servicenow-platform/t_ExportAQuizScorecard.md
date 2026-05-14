@@ -23,23 +23,23 @@ Role required: assessment\_admin or admin
 
 2.  When the export is complete, select **Download** to save the scorecard image to a storage location.
 
-    ![Scorecard export image](../images/QuizScorecardExportImage.png)
+    ![Scorecard export image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../images/QuizScorecardExportImage.png)
 
 
-**Parent Topic:**[Survey responses and results](../../survey-administration/concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/concept/c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View results for all surveys](../../survey-administration/task/t_ViewResultsForAllSurveys.md)
+[View results for all surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/task/t_ViewResultsForAllSurveys.md)
 
-[View the results for a survey](../../survey-administration/task/t_ViewResultsForASpecificSurvey.md)
+[View the results for a survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/task/t_ViewResultsForASpecificSurvey.md)
 
-[View a survey scorecard](../../survey-administration/task/t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/task/t_ViewAScorecard.md)
 
-[Request translations for surveys](../../survey-administration/task/request-translations-for-surveys.md)
+[Request translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/task/request-translations-for-surveys.md)
 
-[Edit translations for surveys](../../survey-administration/task/edit-translations-for-surveys.md)
+[Edit translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/task/edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../../survey-administration/concept/survey-result-database-view.md)
+[Survey responses in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../survey-administration/concept/survey-result-database-view.md)
 

@@ -15,7 +15,7 @@ Banner announcements enable you to communicate planned maintenance, unplanned ou
 
 **Note:** Beginning with the San Diego release, configure banner announcements instead of updating the **glide.product.description** system property.
 
-![Banner announcement.](../image/pol-banner-announcement.png)
+![Banner announcement.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/pol-banner-announcement.png)
 
 You can configure the following aspects of banner announcements:
 
@@ -26,7 +26,7 @@ You can configure the following aspects of banner announcements:
     **Note:** If a user dismisses a banner announcement during a session and the announcement is still active, it will re-appear once the user logs out and back in to a new session.
 
 
-**Parent Topic:**[Configuring the Next Experience UI](next-experience-ui-admin.md)
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 ## Configure Next Experience banner announcements
 
@@ -164,13 +164,13 @@ Options for the horizontal position of the banner content.
 
 5.  In the Associated to Configurations related list, select **New**.
 
-    ![Associated to Configurations related list.](../image/next-exp-associated-config.png "Associated to Configurations related list")
+    ![Associated to Configurations related list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-associated-config.png "Associated to Configurations related list")
 
 6.  In the Announcement Config field, select the search icon ![](../image/QueryIcon.png).
 
 7.  Select **Unified Navigation** from the Banner Announcement Configs list.
 
-    ![Banner Announcement Configs list with Unified Navigation selected.](../image/next-exp-banner-config.png "Banner Announcement Configs list")
+    ![Banner Announcement Configs list with Unified Navigation selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/next-exp-banner-config.png "Banner Announcement Configs list")
 
 8.  On the Banner Announcement Mapping form, set the order of the banner announcement mapping.
 

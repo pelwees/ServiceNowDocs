@@ -34,7 +34,7 @@ Use the software asset overview view to:
     However, you can also view reports related to the products that aren't published by setting this filter to **Unpublished**. To view reports related to all the products, clear the Published status filter.
 
 
-![Software asset overview landing page](../image/asset-overview-workspace.png "Software asset overview view")
+![Software asset overview landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/asset-overview-workspace.png "Software asset overview view")
 
 Select any widget to view detailed information. All the widgets are updated whenever a new reconciliation result is available.
 
@@ -335,7 +335,7 @@ Entitlement Import Errors \[samp\_entitlement\_import\]
 
 </td><td>
 
-The number of entitlement import errors where the purchase orders have an associated procurement integration profile.**Note:** This alert appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../../procurement/task/install-proc-int.md).
+The number of entitlement import errors where the purchase orders have an associated procurement integration profile.**Note:** This alert appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../../procurement/task/install-proc-int.md).
 
 </td></tr><tr><td>
 
@@ -500,7 +500,7 @@ Software Entitlements \[alm\_license\]
 
 </td><td>
 
-Number of entitlements created from purchase orders that have an associated procurement integration profile.**Note:** This notification appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](../../procurement/task/install-proc-int.md).
+Number of entitlements created from purchase orders that have an associated procurement integration profile.**Note:** This notification appears only when the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application is installed. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../../procurement/task/install-proc-int.md).
 
 </td></tr></tbody>
 </table>

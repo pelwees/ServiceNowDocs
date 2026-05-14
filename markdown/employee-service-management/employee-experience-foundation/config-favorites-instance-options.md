@@ -29,7 +29,7 @@ Role required: sp\_admin or admin
 
     Instance options page appears.
 
-    ![Instance options](../images/favorites-instance-options.png "Instance options")
+    ![Instance options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/favorites-instance-options.png "Instance options")
 
     .
 
@@ -105,6 +105,6 @@ You may make the load configuration Synchronous for the widgets visible on the H
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-    For more information, see [Cross-channel favorites](../concept/employee-center-favorites.md).
+    For more information, see [Cross-channel favorites](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-center-favorites.md).
 
 

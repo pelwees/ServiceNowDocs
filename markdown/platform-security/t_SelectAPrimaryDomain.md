@@ -31,6 +31,6 @@ The primary domain cannot have a parent domain and must have at least one child 
 
 4.  Click **Update**.
 
-    ![Selecting a primary domain](../image/Primary_domain.png)
+    ![Selecting a primary domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/Primary_domain.png)
 
 

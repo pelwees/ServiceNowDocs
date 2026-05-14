@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-To enable slack for the **Assignment group** field, ensure you have set up a slack channel for that group. For more information, refer [Associate existing slack channel with a group](setup-slack-assign-grp.md).
+To enable slack for the **Assignment group** field, ensure you have set up a slack channel for that group. For more information, refer [Associate existing slack channel with a group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/setup-slack-assign-grp.md).
 
 ## Procedure
 
@@ -50,5 +50,5 @@ To enable slack for the **Assignment group** field, ensure you have set up a sla
 **Related topics**  
 
 
-[Open slack from an incident](open-slack-from-inci.md)
+[Open slack from an incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/open-slack-from-inci.md)
 

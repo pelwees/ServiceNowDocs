@@ -51,5 +51,5 @@ You can create a credit for an employee shopper from Shopping Hub.
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Shopping Hub](../reference/use-shoppinghub-portal.md)
+**Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/use-shoppinghub-portal.md)
 

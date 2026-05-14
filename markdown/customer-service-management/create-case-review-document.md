@@ -36,7 +36,7 @@ If a case is closed while the post case review is in progress, you can still upd
 
 2.  To create a post case review record, do one of the following:
 
-    -   Agent Workspace: Click the More UI Actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Post Case Review**.
+    -   Agent Workspace: Click the More UI Actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\) and select **Create Post Case Review**.
     -   Platform interface: Click the form context menu icon and select **Create Post Case Review**.
 3.  In the Post Case Review form, enter any necessary information in the following fields.
 

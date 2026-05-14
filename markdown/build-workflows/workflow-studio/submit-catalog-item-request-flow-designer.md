@@ -181,7 +181,7 @@ Choice
 </td></tr></tbody>
 </table>## Example
 
-![Example Submit Catalog Item Request action in a flow.](../images/submit-catalog-item-request.png)
+![Example Submit Catalog Item Request action in a flow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/submit-catalog-item-request.png)
 
 ## Design considerations
 
@@ -189,12 +189,12 @@ Follow these design considerations when creating flows that contain Submit a Cat
 
 -   **Escape quotation marks from string data pills with the String Replace transform function**
 
-    Complex string variables are converted into JSON format when stored in the system. To prevent any JSON formatting errors, you can use a Replace String transform function to escape the quotation marks present in any string data pills you use for catalog variables. See [String transform functions](string-transform-functions.md).
+    Complex string variables are converted into JSON format when stored in the system. To prevent any JSON formatting errors, you can use a Replace String transform function to escape the quotation marks present in any string data pills you use for catalog variables. See [String transform functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/string-transform-functions.md).
 
 -   **Use transform functions to validate data pills**
 
-    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](../concept/transform-functions.md) for a list of available transform functions.
+    Whenever you use a data pill to provide data for an action input, you can use a transform function to validate the data. See [Transform functions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/transform-functions.md) for a list of available transform functions.
 
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

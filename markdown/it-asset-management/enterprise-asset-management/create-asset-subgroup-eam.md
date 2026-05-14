@@ -45,12 +45,12 @@ You can add or remove a subgroup from an asset group.
 
 5.  On the form, fill in the required details.
 
-    For more details on the fields, see [Create an asset group in Enterprise Asset Management](create-asset-groups-eam.md).
+    For more details on the fields, see [Create an asset group in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-groups-eam.md).
 
 6.  Select **Save**.
 
     The subgroup is created and is listed in the Subgroups related list.
 
 
-**Parent Topic:**[Create an asset group in Enterprise Asset Management](create-asset-groups-eam.md)
+**Parent Topic:**[Create an asset group in Enterprise Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-groups-eam.md)
 

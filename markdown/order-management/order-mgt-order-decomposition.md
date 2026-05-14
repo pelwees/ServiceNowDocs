@@ -201,5 +201,5 @@ Customer order decomposition supports the following additional features:
 -   Quantity-based decomposition: Customer orders can be decomposed into multiple domain orders based on order quantity, supporting revisions, and fulfillment of multiple instances.
 -   Support for change orders: Customer order decomposition supports updates to quantity characteristics, enabling upgrades, downgrades, and inventory management during fulfillment.
 
-Fore more information, see [Customer order decomposition](customer-order-decomposition.md).
+Fore more information, see [Customer order decomposition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/customer-order-decomposition.md).
 

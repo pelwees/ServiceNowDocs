@@ -88,5 +88,5 @@ The date that the opportunity is available to applicants.
 4.  Select **Update**.
 
 
-**Parent Topic:**[Install and configure Opportunity Marketplace](../concept/egd-oppt-mrktplc-inst-config.md)
+**Parent Topic:**[Install and configure Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/../concept/egd-oppt-mrktplc-inst-config.md)
 

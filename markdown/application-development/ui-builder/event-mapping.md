@@ -15,7 +15,7 @@ breadcrumb: [Manage actions in UI Builder pages, Working in UI Builder, UI Build
 
 An event mapping in UI Builder is the process that enables you to map an event's payload or contextual values to the object or handler that acts on that event. The four event types are: component, page, data resource, and declarative action.
 
-Event mapping is an important process within UI Builder. When you build pages with components, you need those components to perform [actions](ui-builder-glossary.md#) for users. For example, if you add a button component to the page, a button-clicked event must be mapped to an event handler. The event handler performs a button-clicked action when it is selected by a user. An example is when you add a data resource, such as a form, and have an event handler notify the user when the form successfully loads.
+Event mapping is an important process within UI Builder. When you build pages with components, you need those components to perform [actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/ui-builder-glossary.md#) for users. For example, if you add a button component to the page, a button-clicked event must be mapped to an event handler. The event handler performs a button-clicked action when it is selected by a user. An example is when you add a data resource, such as a form, and have an event handler notify the user when the form successfully loads.
 
 ## Event types
 
@@ -37,7 +37,7 @@ Component events
 
 </td><td>
 
-Action that you set up for a component. You set up an event handler to configure that component action. For example, add an event handler to apply an action for a button, such as going to a web page. For more information on binding events to components, see [Bind an event to a component](../task/bind-event-component.md).
+Action that you set up for a component. You set up an event handler to configure that component action. For example, add an event handler to apply an action for a button, such as going to a web page. For more information on binding events to components, see [Bind an event to a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-component.md).
 
 </td></tr><tr><td>
 
@@ -77,9 +77,9 @@ Page event that performs an action for the entire page. You can configure the fo
     -   You can select **+Add** to create new dispatched events for your page. Handled events are not modeled after parent event handlers. Payload fields for handled events are created manually. To use an existing handler's payload fields as a template, select a template and edit the fields as necessary.
 
 
- ![Page-level events pane that shows the page, variant, dispatched, and handled events add options.](../image/page-event-mapping-options.png)
+ ![Page-level events pane that shows the page, variant, dispatched, and handled events add options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/page-event-mapping-options.png)
 
-For more information on binding an event to a page, see [Bind an event to a page](../task/bind-event-page.md).
+For more information on binding an event to a page, see [Bind an event to a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-page.md).
 
 </td></tr><tr><td>
 
@@ -91,9 +91,9 @@ Events that are mapped to data resources to provide notifications about when dat
 -   Data Fetch Succeeded. When a data resource event is triggered, the event handler executes the process to notify a user when the data fetch completed successfully.
 -   Data Fetch Failed. When a data resource event is triggered, the event handler executes the process to notify a user if the data fetch was unsuccessful.
 
- ![Event options for a data resource.](../image/data-resource-event.png)
+ ![Event options for a data resource.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/data-resource-event.png)
 
-For more information on binding an event to a data resource, see [Bind an event to a data resource](../task/bind-event-data-resource.md).
+For more information on binding an event to a data resource, see [Bind an event to a data resource](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-data-resource.md).
 
 </td></tr><tr><td>
 
@@ -105,8 +105,8 @@ Bind data elements within UI Builder to add event actions to a declarative actio
 
  You configure a declarative action event mapping in the ServiceNow AI Platform® declarative action assignment table. For an example, navigate to **Filter navigator** &gt; **sys\_declarative\_action\_assignment.list** and then search for and open an existing declarative action.
 
- In UI Builder, you bind an event to the declarative action. For more information on how to use declarative action events, see [Bind an event to a declarative action](../task/bind-event-declarative-action.md).
+ In UI Builder, you bind an event to the declarative action. For more information on how to use declarative action events, see [Bind an event to a declarative action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../task/bind-event-declarative-action.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Manage actions in UI Builder pages](work-events.md)
+</table>**Parent Topic:**[Manage actions in UI Builder pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/work-events.md)
 

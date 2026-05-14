@@ -17,7 +17,7 @@ Use pre-chat surveys to capture preliminary information from a customer. You can
 
 ## Before you begin
 
-[Create the chat survey](create-chat-surveys.md) to be used in this pre-chat survey configuration.
+[Create the chat survey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md) to be used in this pre-chat survey configuration.
 
 Role required: admin
 
@@ -109,5 +109,5 @@ List of the pre-chat surveys available. Choose the survey to be presented to the
 
 When a requester completes the pre-chat survey, the user is transferred either to a live agent if Agent Chat is set as the fulfiller interface or a virtual agent if Virtual Agent is set as the fulfiller. The user's pre-chat responses are stored as context in the chat interaction record. Before entering into a chat conversation, the assigned agent can review the context of the issue.
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/ci-configuring-chat-features.md)
 

@@ -32,5 +32,5 @@ For information on how to configure any object assessment in the Risk Workspace,
 
 **Note:** You must log in to Now Support to view the articles.
 
-**Parent Topic:**[Advanced Risk Assessment](advanced-risk-assessment.md)
+**Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 

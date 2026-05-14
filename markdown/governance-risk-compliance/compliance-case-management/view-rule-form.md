@@ -167,5 +167,5 @@ Default Tab Focus
 Item that should be in focus when you open a record in the table that is specified in this rule.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create view rule](../task/create-view-rule.md)
+</table>**Parent Topic:**[Create view rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../task/create-view-rule.md)
 

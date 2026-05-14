@@ -135,5 +135,5 @@ The following attributes in the Server \[cmdb\_ci\_server\] table are populated 
 **Related topics**  
 
 
-[Service Graph Connector for Observability - Datadog](../concept/sgc-cmdb-integration-datadog.md)
+[Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-cmdb-integration-datadog.md)
 

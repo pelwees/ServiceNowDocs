@@ -43,7 +43,7 @@ When the control objective workflow is enabled, a new control objective must go 
 
     The record moves to Review state. Approvals are generated based on configured dynamic approval rules. If no approval rules apply to the record, the record moves directly to Approved.
 
-    **Note:** Approval rules must be configured before using the workflow. See [Configure approval rules for control objective review](task_configure_approval_rules.md) for configuration instructions.
+    **Note:** Approval rules must be configured before using the workflow. See [Configure approval rules for control objective review](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/task_configure_approval_rules.md) for configuration instructions.
 
 6.  After all approvers approve the record, confirm that the state has changed to Approved.
 

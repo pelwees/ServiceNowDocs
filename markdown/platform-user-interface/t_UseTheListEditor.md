@@ -31,7 +31,7 @@ Before the list editor opens, access rights to edit the field are verified. If t
 
     The appropriate editor for the field type opens.
 
-    **Note:** You can enable single-click editing from the [list personalization interface](../concept/c_PersonalLists.md#). You can also use keyboard navigation to access the list editor.
+    **Note:** You can enable single-click editing from the [list personalization interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_PersonalLists.md#). You can also use keyboard navigation to access the list editor.
 
 2.  Enter the appropriate values.
 
@@ -39,9 +39,9 @@ Before the list editor opens, access rights to edit the field are verified. If t
 
 3.  Save the records by performing the appropriate action for your list version.
 
-    Select the save icon \(![Save icon](../image/Save.png)\). Select the cancel icon \(![Cancel icon](../image/Cancel.png)\) or press the Escape key to retain the original value.
+    Select the save icon \(![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Save.png)\). Select the cancel icon \(![Cancel icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Cancel.png)\) or press the Escape key to retain the original value.
 
-    ![Editing the category field within a list.](../image/ListEditDependent.png "List editor")
+    ![Editing the category field within a list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/ListEditDependent.png "List editor")
 
 4.  To use keyboard navigation, press the Tab key until the first field in the list is selected, and then select the field to edit in one of the following ways.
 
@@ -66,12 +66,12 @@ Before the list editor opens, access rights to edit the field are verified. If t
     **Note:** Certain browsers use different key combinations to edit certain field values. For example, to edit a list using Chrome, press the Spacebar.
 
 
-**Parent Topic:**[Methods for list edits](../reference/r_MethodsForListEdits.md)
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_MethodsForListEdits.md)
 
 **Related topics**  
 
 
-[Edit multiple records in a list using the list editor](t_EditMultRecUsingListEditor.md)
+[Edit multiple records in a list using the list editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditMultRecUsingListEditor.md)
 
-[Edit multiple records in a list using an editing form](t_EditMultiRecUsingEditingForm.md)
+[Edit multiple records in a list using an editing form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditMultiRecUsingEditingForm.md)
 

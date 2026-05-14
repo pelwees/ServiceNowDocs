@@ -44,5 +44,5 @@ Role required: virtual\_agent\_admin
 
 Start a new conversation with the bot. You will notice that the translated message is displayed by the bot in user’s preferred Microsoft Teams language, if you have already provided the translation for that language.
 
-**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](configure-va-msteams-settings.md)
+**Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 

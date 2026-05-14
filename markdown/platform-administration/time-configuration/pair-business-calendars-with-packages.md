@@ -38,8 +38,8 @@ A package is an application, or generic set of functions, such as HR Service Del
 
     |Field|Description|
     |-----|-----------|
-    |Calendar|Name of the business calendar that you want to associate with a ServiceNow AI Platform package. Select ![Search button](../../search-administration/image/SearchIcon.png) to access Business Calendars where you can search for an existing business calendar. If there is no existing calendar, you can create a new one.|
-    |Package|Name of the ServiceNow AI Platform package that you want to associate with the selected business calendar. Select ![Search button](../../search-administration/image/SearchIcon.png) to access Packages where you can search for an existing package. If there is no existing package, you can create a new one.|
+    |Calendar|Name of the business calendar that you want to associate with a ServiceNow AI Platform package. Select ![Search button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../search-administration/image/SearchIcon.png) to access Business Calendars where you can search for an existing business calendar. If there is no existing calendar, you can create a new one.|
+    |Package|Name of the ServiceNow AI Platform package that you want to associate with the selected business calendar. Select ![Search button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../search-administration/image/SearchIcon.png) to access Packages where you can search for an existing package. If there is no existing package, you can create a new one.|
 
 4.  Select **Submit**.
 
@@ -48,5 +48,5 @@ A package is an application, or generic set of functions, such as HR Service Del
 
 A record is created in the Calendars for Package \(calendars\_for\_package\) table that associates the selected business calendar with a ServiceNow AI Platform package.
 
-**Parent Topic:**[Creating business calendars](../concept/business-calendars.md)
+**Parent Topic:**[Creating business calendars](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../concept/business-calendars.md)
 

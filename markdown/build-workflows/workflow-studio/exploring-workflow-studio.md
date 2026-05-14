@@ -19,7 +19,7 @@ Work with playbooks, flows, subflows, actions, data streams, and decision tables
 
 The Workflow Studio homepage displays all the workflow applications available for authoring and editing.
 
-![Parts of the Workflow Studio homepage.](../images/workflow-studio-homepage.png "Sample Workflow Studio homepage")
+![Parts of the Workflow Studio homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workflow-studio-homepage.png "Sample Workflow Studio homepage")
 
 The Workflow Studio homepage consists of these elements.
 
@@ -56,7 +56,7 @@ The Workflow Studio homepage consists of these elements.
 
 The Workflow Studio operations page displays a usage dashboard and execution details for the workflow components that are currently running and have completed running.
 
-![Parts of the Workflow Studio operations page.](../images/workflow-studio-operations.png "Sample Workflow Studio operations page")
+![Parts of the Workflow Studio operations page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workflow-studio-operations.png "Sample Workflow Studio operations page")
 
 The Workflow Studio operations page consists of these elements.
 
@@ -77,7 +77,7 @@ The Workflow Studio operations page consists of these elements.
 
 The Workflow Studio integrations page displays connection details for Integration Hub spokes. You can use this page to configure inbound and outbound spoke connections.
 
-![Parts of the Workflow Studio integrations page.](../images/workflow-studio-integrations.png "Sample Workflow Studio integrations page")
+![Parts of the Workflow Studio integrations page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workflow-studio-integrations.png "Sample Workflow Studio integrations page")
 
 The Workflow Studio integrations page consists of these elements.
 
@@ -92,7 +92,7 @@ The Workflow Studio integrations page consists of these elements.
 
 ## Create button
 
-![Create button and its available options](../images/workflow-studio-create-button-and-menu-options.png "Create button and options menu")
+![Create button and its available options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/workflow-studio-create-button-and-menu-options.png "Create button and options menu")
 
 Beginning with the Xanadu release, you can create new workflow items from any Workflow Studio page rather than just the Homepage. Use the Create button on the tab header to display a list of available workflow components.
 
@@ -164,10 +164,10 @@ Workflow Studio combines playbooks, flows, subflows, actions, decision tables, a
     Workflow Studio contains execution details for all workflow object types. You no longer have to switch between applications to see execution details for a particular object type.
 
 
--   **[Getting started with process automation](../../process-automation-designer/concept/getting-started-process-automation.md)**  
+-   **[Getting started with process automation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../process-automation-designer/concept/getting-started-process-automation.md)**  
 Learn how process automation applications can help you use the ServiceNow AI Platform® to transform your manual business processes into digitized, automated workflows.
--   **[When to use flows and Playbook](when-to-use-flows-and-playbooks.md)**  
+-   **[When to use flows and Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/when-to-use-flows-and-playbooks.md)**  
 Use these general guidelines to determine when to create a flow or a playbook.
 
-**Parent Topic:**[Workflow Studio](../reference/workflow-studio.md)
+**Parent Topic:**[Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../reference/workflow-studio.md)
 

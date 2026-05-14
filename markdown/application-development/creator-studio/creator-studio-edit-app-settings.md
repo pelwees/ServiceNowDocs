@@ -39,13 +39,13 @@ There are some things you can't change after you've created the app, like its ta
 
     2.  Select **App settings**.
 
-        ![Select more options and the App settings](../image/crs-app-settings-nav.png "Navigate to app settings")
+        ![Select more options and the App settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-app-settings-nav.png "Navigate to app settings")
 
 4.  Now it's time to make those changes on the **General** tab, including updating the app's image.
 
     You can't make changes to security settings on the **Access** tab after the app has been created.
 
-    ![Edit the app's general settings](../image/cs-app-settings-2.png "App settings")
+    ![Edit the app's general settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/cs-app-settings-2.png "App settings")
 
 5.  Once you're happy with everything, select the **Save** button.
 
@@ -54,5 +54,5 @@ There are some things you can't change after you've created the app, like its ta
 
 And there you have it: With just a few simple steps, you gave your app a whole new vibe. So go ahead, get creative, and make it yours!
 
-**Parent Topic:**[App creation in Creator Studio](../concept/creator-studio-creating-apps.md)
+**Parent Topic:**[App creation in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-creating-apps.md)
 

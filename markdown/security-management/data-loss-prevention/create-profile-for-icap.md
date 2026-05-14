@@ -85,10 +85,10 @@ Description for this profile.
 
 To move to the Filtering section,  click **Continue**.
 
--   **[Define filters to apply for the Incident creation](define-filters-for-incidents.md)**  
+-   **[Define filters to apply for the Incident creation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/define-filters-for-incidents.md)**  
 Define and set filter conditions to filter the incoming  DLP  alerts. Determine the alerts that should be created as DLP incidents in ServiceNow.
--   **[Schedule the ICAP DLP incidents retrieval](schedule-icap-dlp-incidents-retrieval.md)**  
+-   **[Schedule the ICAP DLP incidents retrieval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/schedule-icap-dlp-incidents-retrieval.md)**  
 Set a schedule to retrieve ICAP DLP alerts that match the criteria in the profile.
 
-**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](../concept/icap-dlp-integration.md)
+**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/../concept/icap-dlp-integration.md)
 

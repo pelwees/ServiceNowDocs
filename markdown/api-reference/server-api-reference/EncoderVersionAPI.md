@@ -17,18 +17,18 @@ The EncoderVersion API provides a scriptable object used in Predictive Intellige
 
 This API requires the Predictive Intelligence plugin \(com.glide.platform\_ml\) and is provided within the `sn_ml` namespace.
 
-This API is used for working with encoder versions based on [Encoder API](../../Encoder/concept/EncoderAPI.md#) objects in the [Encoder store](../../EncoderStore/concept/EncoderStoreAPI.md#).
+This API is used for working with encoder versions based on [Encoder API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#) objects in the [Encoder store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../EncoderStore/concept/EncoderStoreAPI.md#).
 
 The system activates the most recent version of the encoder when it completes training, and only allows one version to be active at a time. However, you can activate any previously trained version you want to use to make predictions.
 
 Methods in this API are accessible using the following Encoder methods:
 
--   [getActiveVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getAllVersions\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getLatestVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
--   [getVersion\(\)](../../Encoder/concept/EncoderAPI.md#)
+-   [getActiveVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#)
+-   [getAllVersions\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#)
+-   [getLatestVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#)
+-   [getVersion\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#)
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## EncoderVersion - getProperties\(\)
 
@@ -52,7 +52,7 @@ Object
 
 </td><td>
 
-Contents of the Dataset and [Encoder](../../Encoder/concept/EncoderAPI.md#) details. Results vary by object property setup.```
+Contents of the Dataset and [Encoder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#) details. Results vary by object property setup.```
 {
   "algorithmConfig" : {Object},
   "datasetsProperties": [Array],
@@ -102,7 +102,7 @@ Name of the algorithm for training this encoder. Possible values:
 
 </td><td>
 
-List of [DatasetDefinition\(\)](../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) properties associated with the encoder.
+List of [DatasetDefinition\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../DatasetDefinition/concept/DatasetDefinitionAPI.md#) properties associated with the encoder.
 
  ```
 {
@@ -472,7 +472,7 @@ Object
 
 </td><td>
 
-JavaScript object containing training status information for an [Encoder](../../Encoder/concept/EncoderAPI.md#) object.```
+JavaScript object containing training status information for an [Encoder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../Encoder/concept/EncoderAPI.md#) object.```
 {
   "state": "String",
   "percentComplete": "Number as a String",

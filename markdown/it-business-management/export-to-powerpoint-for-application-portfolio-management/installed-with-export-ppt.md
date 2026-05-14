@@ -148,5 +148,5 @@ Stores the supported chart types, such as line chart and bar chart.
 
 To view and manage all available templates, navigate to **All** &gt; **PowerPoint Management** &gt; **PowerPoint Templates**.
 
-**Parent Topic:**[Export to PowerPoint Reference](export-ppt-reference.md)
+**Parent Topic:**[Export to PowerPoint Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-reference.md)
 

@@ -26,5 +26,5 @@ Role required: sp\_admin
 2.  Select **Community**.
 
 
-**Parent Topic:**[Community Service Portal](../concept/community-service-portal.md)
+**Parent Topic:**[Community Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/community-service-portal.md)
 

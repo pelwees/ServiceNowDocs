@@ -54,7 +54,7 @@ Role required: scim\_config\_admin
 
         The ETL entities are created for scim-user and user tables. You have to create ETL entity fields within these ETL entities, and map both entities by creating an RTE Entity Mapping.
 
-        ![ETL Entity](../images/etl-entity.png)
+        ![ETL Entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/etl-entity.png)
 
 4.  Create the entities and map them.
 
@@ -134,7 +134,7 @@ Coalesce
 Option to query the existing records.
 
 </td></tr></tbody>
-</table>        ![ETL Entity field](../images/etl-entity-field.png)
+</table>        ![ETL Entity field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/etl-entity-field.png)
 
     4.  Submit the entries by clicking **Submit**.
 
@@ -142,11 +142,11 @@ Option to query the existing records.
 
         The scim-user ETL entity can have entities with the core extension \(user\), the ServiceNow extension, or custom extension.
 
-        ![Scim-user entities](../images/scim-user-etl-definitions.png)
+        ![Scim-user entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/scim-user-etl-definitions.png)
 
         The user ETL entity can have entities from the database table. For example, sys\_user table.
 
-        ![User entities](../images/user-etl-definitions.png)
+        ![User entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/user-etl-definitions.png)
 
         **Note:** To add a filter in the incoming SCIM fields, use an underscore \(`_`\). This underscore translates to an EQ filter. For example, the attribute **email.type\_work.value** applies the SCIM filter of email **\[type eq “work”\].value**.
 
@@ -168,13 +168,13 @@ Option to query the existing records.
     |Definition|Selected ETL entity that this mapping belongs to.|
     |Ignore|Option to designate if this ETL entity mapping should be ignored when performing data integrations using Robust Import Set Transformation \(RTE\).|
 
-    ![RTE Entity Mapping](../images/etl-definitions-rte.png)
+    ![RTE Entity Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/etl-definitions-rte.png)
 
 7.  Click **Submit**.
 
     The following example shows a record created for mapping both the scim-user and user ETL Entity records.
 
-    ![scim-user-mappings](../images/scim-user-mappings.png)
+    ![scim-user-mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/scim-user-mappings.png)
 
 8.  Open the submitted record \(scim-user-mappings\) and create a mapping between the scim-user and user ETL Entity records.
 
@@ -192,7 +192,7 @@ Option to query the existing records.
         |Definition|Selected ETL entity that this field definition belongs to.|
         |Order|Order in which the operation runs on the entity.|
 
-        ![RTE Field Mapping](../images/rte-etl-field-mapping.png)
+        ![RTE Field Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/rte-etl-field-mapping.png)
 
         The source field **Home Address - Country** \(scim-user ETL Entity\) maps the target field as **Country** \(user ETL Entity\).
 
@@ -200,7 +200,7 @@ Option to query the existing records.
 
         You can add multiple entries as your RTE Entity mappings based on your requirement.
 
-        ![RTE Entity Mappings](../images/rte-mappings.png)
+        ![RTE Entity Mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/rte-mappings.png)
 
         The source fields and targets fields are mapped as configured. When you perform CRUD operations using SCIM, the customized values are updated in the respective table.
 

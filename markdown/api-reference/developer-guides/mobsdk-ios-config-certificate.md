@@ -29,7 +29,7 @@ Role required: admin
 
 3.  Select **New** and then create a new public certificate as shown in the following image.
 
-    ![Mobile SDK iOS X.509 certificate](../../image/mobile_sdk-image-x509-cert.png)
+    ![Mobile SDK iOS X.509 certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-image-x509-cert.png)
 
     For details on creating this certificate, see [Update your X.509 certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/update-cert-whois.md).
 
@@ -53,6 +53,6 @@ Role required: admin
 
 8.  Ensure that the form contains information similar to the following once you are finished with your configuration:
 
-    ![OAuth JWT](../../image/mobile_sdk-oauth_entity_form.png)
+    ![OAuth JWT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/developer-guides/../../image/mobile_sdk-oauth_entity_form.png)
 
 

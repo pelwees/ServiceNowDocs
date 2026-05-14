@@ -39,7 +39,7 @@ To set the time zone, the availability system property \[com.snc.availability.v2
 
 1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Administration** &gt; **Availability calculation settings**.
 
-    ![Availability calculation settings page.](../image/spm2-avail-tz.png "Availability calculation settings page")
+    ![Availability calculation settings page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../image/spm2-avail-tz.png "Availability calculation settings page")
 
 2.  Decide how you want to calculate availability.
 
@@ -68,7 +68,7 @@ To set the time zone, the availability system property \[com.snc.availability.v2
         **Tip:** To see the service availability list, enter `service_availability.list` in the Filter navigator, and then press **Enter**.
 
     4.  Select **Recalculate results**, and then select **Recalculate** on the **Confirmation** page.
-    5.  Select **Refresh** \(![Refresh icon](../image/spm2-refresh-screen.png)\) on the service availability list to see the updated time zone in the **Time zone** column.
+    5.  Select **Refresh** \(![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../image/spm2-refresh-screen.png)\) on the service availability list to see the updated time zone in the **Time zone** column.
 
         **Note:** It takes a few minutes for all the records to recalculate and show the updated time zone field.
 
@@ -84,10 +84,10 @@ To set the time zone, the availability system property \[com.snc.availability.v2
 6.  Select **Save**.
 
 
-**Parent Topic:**[Using Service Portfolio Management](../concept/SPM2-using.md)
+**Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-using.md)
 
 **Related topics**  
 
 
-[View availability results in Service Portfolio Management](../concept/SPM2-view-availability-results.md)
+[View availability results in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-view-availability-results.md)
 

@@ -44,9 +44,9 @@ The Reports application creates a basic report, which is scoped to the query res
 
 [Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-landing-page.md)
 
-[Build a CMDB query using the CMDB Query Builder](use-cmdb-query-builder.md)
+[Build a CMDB query using the CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/use-cmdb-query-builder.md)
 
-[Build a Service Mapping query using the CMDB Query Builder](build-service-mapping-query.md)
+[Build a Service Mapping query using the CMDB Query Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/build-service-mapping-query.md)
 
-[Run a partial CMDB query](run-partial-cmdb-query.md)
+[Run a partial CMDB query](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/run-partial-cmdb-query.md)
 

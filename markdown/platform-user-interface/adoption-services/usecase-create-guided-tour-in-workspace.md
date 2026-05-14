@@ -95,7 +95,7 @@ Start with this setup, and if you have steps with IDs, change them to: \{"url":"
     A guided tour is created.
 
 
-**Parent Topic:**[Guided Tour Designer use case](../concept/guided-tour-designer-use-case.md)
+**Parent Topic:**[Guided Tour Designer use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/guided-tour-designer-use-case.md)
 
 ## Update the Route Parameters
 
@@ -105,7 +105,7 @@ Perform the following steps:
 
 1.  In the Guided Tour Designer list view, choose the tour you want to update.
 
-2.  In the editable form, change the **Route Parameters** and set the value of the parameter **isDynamic** to **True**.![Set the value of the parameter isDynamic to True](../image/gtd-isdynamic-true.png)
+2.  In the editable form, change the **Route Parameters** and set the value of the parameter **isDynamic** to **True**.![Set the value of the parameter isDynamic to True](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/gtd-isdynamic-true.png)
 
     This update enables your guided tour across different sys-ids and activates the **Take a Tour** option in Help Center.
 
@@ -120,7 +120,7 @@ In the Guided Tour Designer, add the following steps to the tour:
 
     Add an introduction that outlines the steps in the guided tour and describes the milestone you achieve when all actions are completed.
 
-    ![Guided Tours callout introduction.](../image/guided-tours-create-incident.png)
+    ![Guided Tours callout introduction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tours-create-incident.png)
 
 -   **Callouts**
 
@@ -138,25 +138,25 @@ In the Guided Tour Designer, add the following steps to the tour:
 
     For example, the trigger can be configured to advance after the user selects the **Next** button.
 
-    ![Guided tours callout steps.](../image/guided-tour-incident-steps.png)
+    ![Guided tours callout steps.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-incident-steps.png)
 
 -   **Conclusion**
 
     At the end of the tour, add a conclusion indicating that the tour is complete. This is a great opportunity to encourage users to explore other tours or provide follow-up information on what to do next.
 
-    ![Guided tour callout conclusion.](../image/guided-tour-conclusion.png)
+    ![Guided tour callout conclusion.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/guided-tour-conclusion.png)
 
 
 After you have created your tour, preview it to confirm that it displays correctly and guides the user effectively before submitting it.
 
 The guided tour is created and listed in the Help Center.
 
-Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](../concept/accessing-guided-tours.md#).
+Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../concept/accessing-guided-tours.md#).
 
 **Related topics**  
 
 
-[Create Guided Tours](add-guided-tour.md)
+[Create Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-guided-tour.md)
 
-[Edit Guided Tours](edit-guided-tour.md)
+[Edit Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md)
 

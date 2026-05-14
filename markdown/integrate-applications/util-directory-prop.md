@@ -20,5 +20,5 @@ Learn about the properties of the Directory components in RPA Desktop Design Stu
 |Enable Timeout|Option to set a timeout value.|
 |Timeout|Number of seconds that the operation ends after if not completed. To apply this value, you must set the **Enable Timeout** property.|
 
-**Parent Topic:**[Directory](../concept/directory.md)
+**Parent Topic:**[Directory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/directory.md)
 

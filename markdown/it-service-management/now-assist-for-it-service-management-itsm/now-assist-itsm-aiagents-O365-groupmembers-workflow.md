@@ -98,7 +98,7 @@ In the agentic workflow record:
         The agent executes the request for the agentic workflow.
 
 
-**Example of the Manage Microsoft 365 group members agentic workflow output in the ServiceNow AI Agent Studio**![Microsoft 365 group members agentic workflow output.](../image/now-assist-itsm-aiagents-o365-group-manage.png)
+**Example of the Manage Microsoft 365 group members agentic workflow output in the ServiceNow AI Agent Studio**![Microsoft 365 group members agentic workflow output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/now-assist-itsm-aiagents-o365-group-manage.png)
 
-In the AI Agent Studio, the human agent gets notified as soon as one or more users are added or removed so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
+In the AI Agent Studio, the human agent gets notified as soon as one or more users are added or removed so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../task/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 

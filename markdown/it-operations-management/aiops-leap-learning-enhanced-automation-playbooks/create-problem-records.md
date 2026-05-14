@@ -54,6 +54,6 @@ The automated data transfer is characterized with:
 
     ![](../images/create-problem-record.png)
 
-    Another option is to invoke the LEAP AI agent by selecting the Explore button ![Explore button](../images/explore-button.png) and creating problem record.
+    Another option is to invoke the LEAP AI agent by selecting the Explore button ![Explore button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/../images/explore-button.png) and creating problem record.
 
 

@@ -29,7 +29,7 @@ The reporting view enables you to:
 
 You can navigate to a published RAM and select **Open reporting view** to access the consolidated assessment list, which is grouped by risk assessment.
 
-![Open reporting view button the published RAM.](../image/risk-reporting-view.png)
+![Open reporting view button the published RAM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk-reporting-view.png)
 
 You can expand individual records to review detailed factor responses, scores, and other assessment information.
 

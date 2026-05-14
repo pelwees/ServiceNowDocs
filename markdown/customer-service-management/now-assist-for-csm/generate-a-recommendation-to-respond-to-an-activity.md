@@ -29,7 +29,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
     If you haven’t switched to the front line case page, you can also do the same actions in **Work notes** or **Comments** tabs.
 
-    1.  Select the Sparkle icon ![GenAI icon](../../../common/image/icon-ai-sparkle.png).
+    1.  Select the Sparkle icon ![GenAI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/icon-ai-sparkle.png).
 
         The following four options appear:
 
@@ -48,10 +48,10 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 3.  Select **Insert**.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 
 **Related topics**  
 
 
-[Configure activity response generation](configure-activity-response-generation.md)
+[Configure activity response generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/configure-activity-response-generation.md)
 

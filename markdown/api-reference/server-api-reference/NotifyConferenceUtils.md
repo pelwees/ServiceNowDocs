@@ -27,7 +27,7 @@ Using the NotifyConferenceUtil API you can:
 
 You can use this API in both scoped and global scripts. To use this API you must activate the Conference Notify plugin \(com.snc.notify\) which requires a separate subscription. For details on activating this plugin, see [Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## NotifyConferenceUtils - NotifyConferenceUtils\(\)
 
@@ -577,7 +577,7 @@ Results of the conference action.`<action>.status`: Status of the conference act
 
 Returns a JSON data template to use with the doConferenceAction\(\) method. Using this template automatically structures the data object so that you don't have to manually create it.
 
-Call this method prior to calling the doConferenceAction\(\) method. For the desired conference call action, set the desired parameters within the template, and then pass the template in the doConferenceAction\(\) call. For additional information on the valid parameters for each action, see [doConferenceAction\(\)](NotifyConferenceUtils.md#).
+Call this method prior to calling the doConferenceAction\(\) method. For the desired conference call action, set the desired parameters within the template, and then pass the template in the doConferenceAction\(\) call. For additional information on the valid parameters for each action, see [doConferenceAction\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/NotifyConferenceUtils.md#).
 
 **Note:** This is a helper method. You can also manually construct this object and pass that object into the doConferenceAction\(\) method and have the same outcome.
 

@@ -25,5 +25,5 @@ Role required: Any role containing sn\_cmdb\_user \(sn\_cmdb\_user, sn\_cmdb\_ed
 
 Once you configure CMDB Health and the CMDB Health Dashboard jobs are enabled, the CMDB Health Dashboard shows meaningful data that is automatically collected, calculated, and aggregated on a recurring schedule.
 
-For information about the CMDB Health Dashboard, see [View CMDB Health Dashboard](c_MonitorCMDBHealth.md), and for information about enabling the CMDB Health Dashboard jobs, see [Configuring CMDB Health](c_CMDBHealthSetupandConfig.md).
+For information about the CMDB Health Dashboard, see [View CMDB Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_MonitorCMDBHealth.md), and for information about enabling the CMDB Health Dashboard jobs, see [Configuring CMDB Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthSetupandConfig.md).
 

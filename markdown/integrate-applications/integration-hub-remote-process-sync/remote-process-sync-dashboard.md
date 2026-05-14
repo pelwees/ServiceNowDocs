@@ -27,7 +27,7 @@ The dashboard consists of three tabs: **Overview**, **Inbound Queue**, and **Out
 ## Before you begin
 
 -   You must install the plugin com.glide.hub.process.sync.dashboard to be able to view the Remote Process Sync Dashboard.
--   The [glide.hub.process.sync.record.successful.status](../reference/remote-process-sync-system-properties.md) property must be set to true for data to show on this dashboard.
+-   The [glide.hub.process.sync.record.successful.status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../reference/remote-process-sync-system-properties.md) property must be set to true for data to show on this dashboard.
 
 To access the Remote Process Sync Dashboard, navigate to **All** &gt; **Integration Hub** &gt; **Dashboards** &gt; **Remote Process Sync Dashboard**. You must have the integration\_admin or admin role to view the dashboard.
 
@@ -35,7 +35,7 @@ To access the Remote Process Sync Dashboard, navigate to **All** &gt; **Integrat
 
 The Overview tab shows high-level health metrics and processing trends.
 
-![Overview tab of Remote Process Sync Dashboard](../images/rps-dashboard-overview.png)
+![Overview tab of Remote Process Sync Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/rps-dashboard-overview.png)
 
 The Overview tab includes these components:
 
@@ -49,7 +49,7 @@ The Overview tab includes these components:
 
 The Inbound Queue tab shows detailed metrics for records being synchronized from remote systems into ServiceNow.
 
-![Inbound Queue tab of Remote Process Sync Dashboard](../images/rps-dashboard-inbound-queue.png)
+![Inbound Queue tab of Remote Process Sync Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/rps-dashboard-inbound-queue.png)
 
 Use the **Record Processing Overview** dropdown to filter metrics by specific process events \(for example, Issue Created, Incident Updated\), or select **All Process Events** to view aggregate metrics.
 
@@ -66,7 +66,7 @@ The Inbound Queue tab includes these components:
 
 The Outbound Queue tab shows detailed metrics for records being synchronized from ServiceNow to remote systems.
 
-![Outbound Queue tab of Remote Process Sync Dashboard](../images/rps-dashboard-outbound-queue.png)
+![Outbound Queue tab of Remote Process Sync Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub-remote-process-sync/../images/rps-dashboard-outbound-queue.png)
 
 Use the **Record Processing Overview** dropdown to filter metrics by specific process events, or select **All Process Events** to view aggregate metrics.
 

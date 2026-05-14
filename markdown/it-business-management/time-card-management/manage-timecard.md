@@ -90,5 +90,5 @@ To delete a time card:-   Tap **Delete time card**.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Mobile Time Sheets](../concept/timesheet-mobile.md)
+**Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/../concept/timesheet-mobile.md)
 

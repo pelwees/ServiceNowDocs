@@ -21,13 +21,13 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-For information on schedule adherence, see the "Schedule adherence" section in [Scheduling in Workforce Optimization for Field Service](../concept/scheduling-wfo-fsm.md).
+For information on schedule adherence, see the "Schedule adherence" section in [Scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/scheduling-wfo-fsm.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \(![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \(![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
 3.  Monitor the schedule adherence of your agents.
 
@@ -68,6 +68,6 @@ Example: A clock-in event gets generated when an agent logs in or changes the pr
 </td></tr></tbody>
 </table>    The following team calendar snapshot illustrates how to measure how well your team members are adhering to their work schedules. The blue bar indicates the planned work shift time and next to that is the actual worked time. The default representations are purple for clock-in time, green for agent's available duration, red for the clock-out time, and grey for agent's non-available time.
 
-    ![Schedule view in the Team Calendar displaying agent availability.](../../workforce-optimization-for-customer-service-configurable/image/schedule-adherence-cs.png)
+    ![Schedule view in the Team Calendar displaying agent availability.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-adherence-cs.png)
 
 

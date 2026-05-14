@@ -43,7 +43,7 @@ Manage widget headings from Heading1 to Heading6 to support company standards, c
 
     ![image.heading-selection]
 
-3.  Fill in the following fields as explained in [Modify the Support resources widget display](config-support-resources-instanceoptions.md)
+3.  Fill in the following fields as explained in [Modify the Support resources widget display](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-support-resources-instanceoptions.md)
 
 4.  Click **Save**.
 

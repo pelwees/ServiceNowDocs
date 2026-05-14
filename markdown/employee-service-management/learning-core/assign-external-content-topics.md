@@ -30,5 +30,5 @@ Role required:sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 4.  Select a topic to be added as connected content to the external learning course.
 
 
-**Parent Topic:**[View external Learning content](view-external-learning-content.md)
+**Parent Topic:**[View external Learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 

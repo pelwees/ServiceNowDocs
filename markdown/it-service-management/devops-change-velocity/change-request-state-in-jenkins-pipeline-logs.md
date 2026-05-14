@@ -52,7 +52,7 @@ The following change request details are displayed:
 -   plannedEndDate
 -   changeRequestURL
 
-![Change state logs in Jenkins pipeline console](../image/jenkins-change-state.png)
+![Change state logs in Jenkins pipeline console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/jenkins-change-state.png)
 
 The logs for policy conditions will be displayed for the base system change flows as follows:
 
@@ -96,5 +96,5 @@ The change policy input and decision conditions are stored in the Decisions \[sy
 
 If a change request does not get created due to any issue, then the reason for the failure and the state is also logged in the console.
 
-**Parent Topic:**[Jenkins integration with DevOps Change Velocity](jenkins-integration-dev-ops.md)
+**Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)
 

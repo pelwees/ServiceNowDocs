@@ -70,5 +70,5 @@ The page ID of a portal page that opens when a topic card is accessed in the Por
 </table>**Related topics**  
 
 
-[Add and configure the Portal Taxonomy Topic widget](../task/add-conf-port-taxo-topic.md)
+[Add and configure the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/add-conf-port-taxo-topic.md)
 

@@ -17,9 +17,9 @@ The IPService script include provides methods that encapsulate an IP Service.
 
 Use this class during the discovery scanning phase.
 
-See also [AbstractDBObject - isValid\(\)](../../AbstractDBObject/concept/c_AbstractDBObject.md#).
+See also [AbstractDBObject - isValid\(\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../AbstractDBObject/concept/c_AbstractDBObject.md#).
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## IPService - IPService\(Object source\)
 

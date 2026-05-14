@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.manager
 
     A sample scenario analysis form is shown in the following example.
 
-    ![Sample scenario analysis form.](../image/approvals-tab.png "Sample scenario analysis form")
+    ![Sample scenario analysis form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approvals-tab.png "Sample scenario analysis form")
 
 3.  Check your emails for notifications.
 
@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.manager
 
         During the execution of a scenario analysis, the email notifications are automatically sent to the owner, approver, and participants. You can view the email notifications as displayed in the following example.
 
-        ![Email notifications in the application UI.](../image/email-notification.png "Email notifications in the application UI")
+        ![Email notifications in the application UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/email-notification.png "Email notifications in the application UI")
 
     2.  Select the email record from the list.
 
@@ -41,7 +41,7 @@ Role required: sn\_oper\_res.manager
 
         The Preview Email is displayed as shown in the following example.
 
-        ![Email notifications in the application UI.](../../grc-operational-res/image/preview-email.png "Email notifications in the application UI")
+        ![Email notifications in the application UI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-operational-res/image/preview-email.png "Email notifications in the application UI")
 
     4.  In the email, select **Approve**.
 
@@ -51,7 +51,7 @@ Role required: sn\_oper\_res.manager
 
     A sample form for updating the state of the scenario analysis is shown in the following example.
 
-    ![Sample form for updating the state of the scenario analysis.](../image/approval-requested-pending-plan-approval.png "Sample form for updating the state of the scenario analysis")
+    ![Sample form for updating the state of the scenario analysis.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/approval-requested-pending-plan-approval.png "Sample form for updating the state of the scenario analysis")
 
 5.  Update the state from **Requested** to **Approved**.
 
@@ -59,6 +59,6 @@ Role required: sn\_oper\_res.manager
 
     As a plan approver, you've approved the scenario analysis as shown in the following example.
 
-    ![Scenario analysis that is approved.](../image/plan-approved-sca.png "Scenario analysis that is approved")
+    ![Scenario analysis that is approved.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/plan-approved-sca.png "Scenario analysis that is approved")
 
 

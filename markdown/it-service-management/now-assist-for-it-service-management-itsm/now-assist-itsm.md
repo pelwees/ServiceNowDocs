@@ -20,15 +20,15 @@ Use the ServiceNow® Now Assist for IT Service Management \(ITSM\) application t
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for ITSM](exploring-now-assist-itsm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist for ITSM](exploring-now-assist-itsm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITSM application to get started](../task/configure-now-assist-for-itsm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for ITSM application to get started](../task/configure-now-assist-for-itsm.md)
 
 </td><td>
 
-[Use ITSM generative AI![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for ITSM](using-now-assist-for-itsm.md)
+[Use ITSM generative AI![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities offered by Now Assist for ITSM](using-now-assist-for-itsm.md)
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Use the ServiceNow® Now Assist for IT Service Management \(ITSM\) application t
 
 </td><td>
 
-[Use Agentic AI in IT Service Management![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for ITSM IT Service Management AI agents to complete tasks autonomously.](now-assist-itsm-ai-agents-use-cases.md)
+[Use Agentic AI in IT Service Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use the Now Assist for ITSM IT Service Management AI agents to complete tasks autonomously.](now-assist-itsm-ai-agents-use-cases.md)
 
 </td><td>
 

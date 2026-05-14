@@ -33,7 +33,7 @@ An applicant can log in to the Applicant Center without the need for a password 
 
 3.  If the link expires, select **Send a new invite** from the pop-up window prompt.
 
-    ![Pop-up window displays login is expired with a magic link re-generation link](../images/applicant-new-link-invite.png "Login expiration window")
+    ![Pop-up window displays login is expired with a magic link re-generation link](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../images/applicant-new-link-invite.png "Login expiration window")
 
 4.  In the **Email** field, enter your registered email address.
 
@@ -42,5 +42,5 @@ An applicant can log in to the Applicant Center without the need for a password 
 6.  Select **View Applicant Center** to re-login to the Applicant Center.
 
 
-**Parent Topic:**[Using Applicant Center](../concept/use-applicant-center.md)
+**Parent Topic:**[Using Applicant Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/../concept/use-applicant-center.md)
 

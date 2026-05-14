@@ -451,7 +451,7 @@ Configuration Item \[cmdb\_ci\]
 References the A10 Load Balancer \[cmdb\_ci\_lb\_a10\] table.
 
 </td></tr></tbody>
-</table>![A10 load balancer Dependency Views map](../image/A10-components.png "Dependency Views showing A10 load balancer and connected components and applications")
+</table>![A10 load balancer Dependency Views map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/A10-components.png "Dependency Views showing A10 load balancer and connected components and applications")
 
 ## CI relationships
 
@@ -594,7 +594,7 @@ Source NAT IP Pool \[cmdb\_ci\_snat\_ip\_pool\]
 
 Service Mapping discovers the connections between the A10 load balancers and applications in the deployment.
 
-![A10 load balancer application service map](../image/A10LoadBalancerServiceWatchMap.png "A10 load balancer application service map")
+![A10 load balancer application service map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../image/A10LoadBalancerServiceWatchMap.png "A10 load balancer application service map")
 
-**Parent Topic:**[Load balancer discovery](../concept/c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_LoadBalancers.md)
 

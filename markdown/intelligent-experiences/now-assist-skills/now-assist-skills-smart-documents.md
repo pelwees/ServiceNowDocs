@@ -23,7 +23,7 @@ You can summarize a document in a workspace, ask interactive questions, and view
 
 The following diagram shows that by using the Smart Document skill, you can quickly get insights from a document, such as a white paper, report, policy, contract, or case file.
 
-![smart document skill using](../image/now-assist-smart-documents-skill.png)
+![smart document skill using](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/../image/now-assist-smart-documents-skill.png)
 
 ## Availability
 

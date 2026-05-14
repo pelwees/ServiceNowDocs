@@ -25,16 +25,16 @@ Role required: evt\_mgmt\_admin
 
 1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Metrics View Configuration**.
 
-    ![Metrics view configuration page](../image/sow-metrics-view-config.png)
+    ![Metrics view configuration page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/sow-metrics-view-config.png)
 
 2.  On the Metrics View Configuration page, select **New**.
 
 3.  On the form, fill in the fields.
 
-    For information on the fields, see [Metrics View Configuration form fields](../reference/metrics-view-config-fields.md).
+    For information on the fields, see [Metrics View Configuration form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../reference/metrics-view-config-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Service Operations Workspace](../concept/workspace-dashboard-use.md)
+**Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../concept/workspace-dashboard-use.md)
 

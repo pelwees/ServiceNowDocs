@@ -62,9 +62,9 @@ Role required: oauth\_admin
 16. Click **Update**.
 
 
-**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](../concept/c_OAuth2ProfileTutorialGoogle.md)
+**Parent Topic:**[Outbound REST with OAuth 2.0 profile tutorial - integrating with Google Contacts API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../concept/c_OAuth2ProfileTutorialGoogle.md)
 
-**Previous topic:**[OAuth 2.0 tutorial - configure the Google service as an OAuth provider](t_OAuthDemoConfigureGoogle.md)
+**Previous topic:**[OAuth 2.0 tutorial - configure the Google service as an OAuth provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_OAuthDemoConfigureGoogle.md)
 
-**Next topic:**[OAuth 2.0 tutorial - create a REST message](t_OAuthDemoCreateRESTMessage.md)
+**Next topic:**[OAuth 2.0 tutorial - create a REST message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/t_OAuthDemoCreateRESTMessage.md)
 

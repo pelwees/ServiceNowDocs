@@ -80,5 +80,5 @@ Customization and configuration are hallmarks of the ServiceNow AI Platform that
 2.  Customize an application only when it extends the intent of the application.
 3.  Use App Engine developer products, such as App Engine Studio, Creator Studio, and ServiceNow Studio, to create new applications rather than customizing an application to create functionality that doesn’t align with its original purpose.
 
-For more information, see [Customization vs configuration with ServiceNow Studio](sn-studio-custom-vs-config.md).
+For more information, see [Customization vs configuration with ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/sn-studio-custom-vs-config.md).
 

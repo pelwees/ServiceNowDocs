@@ -40,5 +40,5 @@ Role required: sn\_prd\_pm.product\_catalog\_manager, sn\_prd\_pm.product\_catal
 
 ## What to do next
 
-[Create a decision tree for a needs template](configure-needs-decision-tree.md).
+[Create a decision tree for a needs template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-needs-decision-tree.md).
 

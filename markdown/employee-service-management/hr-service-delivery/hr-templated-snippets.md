@@ -47,13 +47,13 @@ For more information on setting up chat in Virtual Agent, see [Virtual Agent](ht
 
 HR administrators and managers can create response templates. Each template is associated with an HR table that is an extension of the Task \[task\] table. Configure the template to include variables pulled from that table. Also, use a condition builder to specify what a case must meet for the template to be available, such as for a specific HR service.
 
-For more information on creating or modifying a response template, see [Create or modify an HR Service Delivery response template](hr-templated-snippets.md#).
+For more information on creating or modifying a response template, see [Create or modify an HR Service Delivery response template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#).
 
-Response templates appear for an HR case form for templates associated with the Form channel and satisfy the conditions on the response template. For the HR case form, the **Responses** button appears at the top. If there are multiple templates available, you can select the appropriate one. See [Work an HR case](../task/t_CreateAnHRCase.md).
+Response templates appear for an HR case form for templates associated with the Form channel and satisfy the conditions on the response template. For the HR case form, the **Responses** button appears at the top. If there are multiple templates available, you can select the appropriate one. See [Work an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_CreateAnHRCase.md).
 
-**Note:** For more information on using a response template with an HR case, see [Copy a response template to an HR case](hr-templated-snippets.md#).
+**Note:** For more information on using a response template with an HR case, see [Copy a response template to an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#).
 
-For Agent Workspace for HR Service Delivery, the Response Templates icon \(![Response template icon](../reference/images/response-template-icon.png)\) appears in the Contextual sidebar. For more information, see .
+For Agent Workspace for HR Service Delivery, the Response Templates icon \(![Response template icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/images/response-template-icon.png)\) appears in the Contextual sidebar. For more information, see .
 
 ## Components installed with response templates
 
@@ -284,13 +284,13 @@ Variables you can add to the template body. For example, if you choose the HR Ca
 </td></tr></tbody>
 </table>    The following GIF shows an example of an HR manager in the HR Service Delivery application creating a response template to escalate payroll discrepancy cases. The template is associated with the HR Payroll Case \[sn\_hr\_core\_case\_payroll\] table, and a condition is set to filter on cases that match the Payroll Discrepancy HR service. The template text is pasted into the body, and then a variable for the subject person is added to the salutation.
 
-    ![Response Template](../image/response-template.png)
+    ![Response Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/response-template.png)
 
-    ![How you can create a response template with conditions and variables.](../image/response-template-example.gif)
+    ![How you can create a response template with conditions and variables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/response-template-example.gif)
 
 4.  Click **Submit** or **Update**.
 
-    Channels limit the response template to only the channels you add. If you leave this blank, the response template is available to no channels. This feature allows you to have different messages for chats, emails, or form. For more information, see [Create a response template channel](hr-templated-snippets.md#).
+    Channels limit the response template to only the channels you add. If you leave this blank, the response template is available to no channels. This feature allows you to have different messages for chats, emails, or form. For more information, see [Create a response template channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#).
 
     The Channels related list appears.
 
@@ -301,7 +301,7 @@ You can copy response template content to any field on a form that meets the spe
 
 The following GIF shows an example of an HR case writer in the HR Service Delivery application opening a payroll discrepancy case and copying a payroll discrepancy escalation template to the comments field in the HR case form for the employee to read.
 
-![How you can copy response template content to a field on a case form.](../image/response-template-example-2.gif)
+![How you can copy response template content to a field on a case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/response-template-example-2.gif)
 
 ## Create a response template channel
 
@@ -319,7 +319,7 @@ Role required: admin
 
 3.  Select **Channels**.
 
-4.  Select the ![Lookup using list icon](../image/magnifying-glass.png) **Lookup using list** icon.
+4.  Select the ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/magnifying-glass.png) **Lookup using list** icon.
 
 5.  Select **New**.
 
@@ -373,7 +373,7 @@ Activates the Response Template Channel.**Note:** Unchecking the box inactivates
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-    Channels limit the response template to only the channels you add. If you leave this blank, the response template is available to no channels. This feature allows you to have different messages for chats, emails, or form. For more information, see [Create a response template channel](hr-templated-snippets.md#).
+    Channels limit the response template to only the channels you add. If you leave this blank, the response template is available to no channels. This feature allows you to have different messages for chats, emails, or form. For more information, see [Create a response template channel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#).
 
     The Channels related list appears.
 
@@ -385,7 +385,7 @@ Activates the Response Template Channel.**Note:** Unchecking the box inactivates
 
 9.  Click **Update**.
 
-    For more information on response templates, see [Create or modify an HR Service Delivery response template](hr-templated-snippets.md#).
+    For more information on response templates, see [Create or modify an HR Service Delivery response template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#).
 
 
 ## Copy a response template to an HR case
@@ -404,13 +404,13 @@ Role required: sn\_hr\_core.case\_writer
 
 3.  Click **Responses** to open the **Response Templates** side panel.
 
-    **Note:** If the **Responses** button is not visible, make sure that a response template that meets the conditions for the open case is available to use. See [Create or modify an HR Service Delivery response template](hr-templated-snippets.md#) for more information.
+    **Note:** If the **Responses** button is not visible, make sure that a response template that meets the conditions for the open case is available to use. See [Create or modify an HR Service Delivery response template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md#) for more information.
 
-    ![Click Responses to open the Response Templates side panel.](../image/response-template-1.png)
+    ![Click Responses to open the Response Templates side panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/response-template-1.png)
 
 4.  In the **Response Templates** side panel, you can select a template and copy it to the clipboard.
 
-    ![In the Response Templates side panel, you can select a template and copy it to the clipboard.](../image/response-template-2.png)
+    ![In the Response Templates side panel, you can select a template and copy it to the clipboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/response-template-2.png)
 
 5.  Once copied, you can paste the content to a field on the form, such as to **Comments**, or into an email that you send to the employee.
 

@@ -29,7 +29,7 @@ The Email response skill uses supplier task details such as task type, short des
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon ![List icon.](../image/cases-list-icon.png).
+2.  Select the list icon ![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png).
 
 3.  Go to **Tasks** &gt; **Open**.
 
@@ -43,7 +43,7 @@ The Email response skill uses supplier task details such as task type, short des
 
 7.  Generate an email draft by selecting the Now Assist icon ![](../../../common/image/icon-ai-sparkle.png).
 
-    ![Generated email response for a supplier task.](../image/slo-email-generation-task.png)
+    ![Generated email response for a supplier task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-email-generation-task.png)
 
 8.  Select **Insert**.
 

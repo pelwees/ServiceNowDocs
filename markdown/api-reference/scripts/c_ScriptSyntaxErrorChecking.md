@@ -20,10 +20,10 @@ The syntax editor displays messages about errors or warnings in your scripts in 
 -   Saving a new record or updating an existing record.
 -   Selecting the syntax checking icon before saving or updating a record.
 
-    ![Error message displays with the syntax editor and includes details about the issue and its location in the code.](../image/ScriptSyntaxError.png "Script syntax error")
+    ![Error message displays with the syntax editor and includes details about the issue and its location in the code.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../image/ScriptSyntaxError.png "Script syntax error")
 
 
 You can configure whether to show indicators next to a line of code that contains an issue for errors, warnings, both, or none with the **glide.ui.syntax\_editor.show\_warnings\_errors** system property.
 
-**Parent Topic:**[Using the JavaScript syntax editor](../../general-scripting/reference/r_EdtJvaScptWSyntxEdtr.md)
+**Parent Topic:**[Using the JavaScript syntax editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../general-scripting/reference/r_EdtJvaScptWSyntxEdtr.md)
 

@@ -27,7 +27,7 @@ If you change an activated decision tree, remember to activate the decision tree
 
 1.  In Decision Tree Builder, select **Activate**.
 
-    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [Validation error notifications in Decision Tree Builder](../concept/validation-errors-builder.md).
+    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [Validation error notifications in Decision Tree Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/validation-errors-builder.md).
     -   If there are no errors, a confirmation dialog box displays.
 2.  In the confirmation dialog box, select **Activate now**.
 
@@ -41,6 +41,6 @@ If you change an activated decision tree, remember to activate the decision tree
 
 ## What to do next
 
--   Configure recommended actions to use the activated decision tree as a recommendation. The recommendations appear as cards in the contextual side panel of a workspace. For more information, see [Add Guided Decisions to Recommended Actions](add-guided-decisions-to-recommended-actions.md).
--   Configure Playbooks to use the activated decision tree as part of a playbook in a record tab. For more information, see [Add Guided Decisions to playbooks](add-guided-decision-playbook.md).
+-   Configure recommended actions to use the activated decision tree as a recommendation. The recommendations appear as cards in the contextual side panel of a workspace. For more information, see [Add Guided Decisions to Recommended Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decisions-to-recommended-actions.md).
+-   Configure Playbooks to use the activated decision tree as part of a playbook in a record tab. For more information, see [Add Guided Decisions to playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decision-playbook.md).
 

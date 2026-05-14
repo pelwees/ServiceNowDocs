@@ -28,7 +28,7 @@ Role required:
 
 1.  Navigate to **Workspaces** &gt; **CAM Workspace**.
 
-2.  In the CAM Workspace, select the List icon \(![List](../image/ws-list-icon.png)\).
+2.  In the CAM Workspace, select the List icon \(![List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../image/ws-list-icon.png)\).
 
 3.  Select Control objectives from the **Compliance** list.
 
@@ -45,5 +45,5 @@ Role required:
     The catalog JSON file is downloaded in your local repository.
 
 
-**Parent Topic:**[Export in OSCAL format](../concept/oscal-support-cam.md)
+**Parent Topic:**[Export in OSCAL format](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/../concept/oscal-support-cam.md)
 

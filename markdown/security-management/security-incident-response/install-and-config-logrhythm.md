@@ -55,7 +55,7 @@ Obtain a LogRhythm API user name and password and verify that you are using vers
 
 Visit the product website for information on API keys and to create an account: [LogRhythm Enterprise website](https://logrhythm.com/). The user accounts, credentials, and certificates must be configured properly prior to installing the application. The integration requires LogRhythm version 7.8 or later and the LogRhythm REST APIs.
 
- See [Set up the REST API](drilldown-api-lr.md).
+ See [Set up the REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/drilldown-api-lr.md).
 
 </td></tr><tr><td>
 
@@ -80,24 +80,24 @@ For the Rome release and later family releases, the Security Incident Response D
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](../../security-incident-response/task/activate-entitled-store-app.md).
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/activate-entitled-store-app.md).
 
 </td></tr></tbody>
-</table>**Important:** If you have any connectivity issues to the LogRhythm client console, refer to the [Verify connectivity for LogRhythm](verify-connectivity.md).
+</table>**Important:** If you have any connectivity issues to the LogRhythm client console, refer to the [Verify connectivity for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-connectivity.md).
 
 ## Procedure
 
-1.  If you have not installed the application for the integration, see [Install a Security Operations integration](../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the LogRhythm tile.
 
 3.  Click **Configure**.
 
-    ![Task: Click Configure button for LogRhythm.](../image/lr-config-tile-4-2.png)
+    ![Task: Click Configure button for LogRhythm.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr-config-tile-4-2.png)
 
 4.  Click the **New Configuration** link.
 
-    ![Task: Click New Configuration link.](../image/lr-config-2-4-2.png)
+    ![Task: Click New Configuration link.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/lr-config-2-4-2.png)
 
 5.  On the form, fill in the fields:
 
@@ -152,7 +152,7 @@ Specific MID Server that is set up in your environment. Only the MID Servers tha
 </td></tr></tbody>
 </table>    The following figure is an example of a completed form.
 
-    ![A completed LogRhythm Configuration form.](../image/logrhythm-configuration.png)
+    ![A completed LogRhythm Configuration form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/logrhythm-configuration.png)
 
 6.  Click **Validate and save**.
 
@@ -161,11 +161,11 @@ Specific MID Server that is set up in your environment. Only the MID Servers tha
 
 ## What to do next
 
-After you successfully complete the validation, the next step is to [Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md).
+After you successfully complete the validation, the next step is to [Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md).
 
-**Parent Topic:**[LogRhythm Overview](../concept/ovrview-logrhythm.md)
+**Parent Topic:**[LogRhythm Overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/ovrview-logrhythm.md)
 
-**Previous topic:**[Set up the REST API](drilldown-api-lr.md)
+**Previous topic:**[Set up the REST API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/drilldown-api-lr.md)
 
-**Next topic:**[Creating an alarm profile for LogRhythm](create-alarm-profile-logrhythm.md)
+**Next topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 

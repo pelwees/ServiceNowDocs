@@ -148,7 +148,7 @@ Location
 
 </td><td>
 
-Add a location to the subnet record to automatically add or update the location in the mapped OT devices.**Note:** The location is mapped based on the sn\_otsm.subnet\_mapping.location\_auto\_update system property. For more information about system properties used for OT subnet mapping, see [System properties used by the OT subnet mapping feature](../reference/system-properties-used-by-automated-mapping-feature.md).
+Add a location to the subnet record to automatically add or update the location in the mapped OT devices.**Note:** The location is mapped based on the sn\_otsm.subnet\_mapping.location\_auto\_update system property. For more information about system properties used for OT subnet mapping, see [System properties used by the OT subnet mapping feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../reference/system-properties-used-by-automated-mapping-feature.md).
 
 </td></tr><tr><td>
 
@@ -170,5 +170,5 @@ Specify the VLAN ID if applicable.
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[Automatically map all OT devices to an equipment model entity](automatedly-map-all-ot-assets.md)
+**Parent Topic:**[Automatically map all OT devices to an equipment model entity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automatedly-map-all-ot-assets.md)
 

@@ -31,7 +31,7 @@ This example demonstrates how a relative duration of End of next business day wo
 
 2.  Complete the rest of the fields of this SLA with the values as shown, also setting a Timezone if you want.
 
-    ![Relative Duration in an SLA](../image/SLARelativeDuration.png)
+    ![Relative Duration in an SLA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../image/SLARelativeDuration.png)
 
 3.  To show how this Relative Duration works, create a new incident.
 
@@ -40,5 +40,5 @@ This example demonstrates how a relative duration of End of next business day wo
     **Note:** Pause conditions are not compatible with Relative Durations.
 
 
-**Parent Topic:**[Using time configuration](../using-time-configuration.md)
+**Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../using-time-configuration.md)
 

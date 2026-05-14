@@ -25,13 +25,13 @@ Role required: admin
 
 2.  Right-click the form header and select **Show File Properties**.
 
-    ![Show File Properties option](../image/ShowFileProperties.png)
+    ![Show File Properties option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ShowFileProperties.png)
 
     The Application File table provides the standard fields that define the attributes for the configuration record.
 
 3.  To return to the configuration record view, click the **Show Related Record** related link.
 
-    ![Sample application file record](../image/ApplicationFileRecord.png)
+    ![Sample application file record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ApplicationFileRecord.png)
 
 4.  Navigate between a customer update record, the file properties view, and the configuration record view.
 

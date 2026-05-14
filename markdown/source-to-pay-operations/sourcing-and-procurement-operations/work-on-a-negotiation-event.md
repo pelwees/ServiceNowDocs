@@ -87,7 +87,7 @@ Opens the **Select a supplier to award** dialog box, where you can select one of
 
 Opens the **Award suppliers** tab, where you can select one or more suppliers from the list and select **Review selection** to award the suppliers. The awarded negotiations move to the Closed Decided state while the others move to Closed Rejected. The purchase lines for the awarded negotiation are automatically converted to purchase requisitions.
 
- For information on more options that are available to you on this tab, see [Award multiple suppliers from a sourcing event](award-multiple-suppliers-from-a-ne.md).
+ For information on more options that are available to you on this tab, see [Award multiple suppliers from a sourcing event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/award-multiple-suppliers-from-a-ne.md).
 
 </td></tr><tr><td id="d111641e233">
 
@@ -101,5 +101,5 @@ Opens the **Reject all bids?** dialog box, where you must enter your reason for 
 </table>10. Select **View purchase requisitions** from the sourcing event or the awarded negotiation to view the details of the newly created purchase requisitions.
 
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-pcm.md)
 

@@ -19,7 +19,7 @@ Setup of RPA Desktop Design Studio application
 
 ## Before you begin
 
-Install RPA Desktop Design Studio. For more information on how to install it, see [Install RPA Desktop Design Studio](install-rpa-studio.md).
+Install RPA Desktop Design Studio. For more information on how to install it, see [Install RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/install-rpa-studio.md).
 
 Role required: none
 
@@ -29,15 +29,15 @@ You can do this task when you’re setting up RPA Desktop Design Studio for the 
 
 ## Procedure
 
-1.  From your desktop, double-click the RPA Desktop Design Studio icon \(![RPA Desktop Design Studio icon.](../image/rpa-design-studio-icon.png)\).
+1.  From your desktop, double-click the RPA Desktop Design Studio icon \(![RPA Desktop Design Studio icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpa-design-studio-icon.png)\).
 
     If you’re using RPA Desktop Design Studio for the first time, you can add the instance details in the Connection Manager dialog box.
 
-    ![Add the ServiceNow instance in Connection Manager.](../image/add-instance-cm.png "Connection Manager")
+    ![Add the ServiceNow instance in Connection Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-instance-cm.png "Connection Manager")
 
 2.  When you start using RPA Desktop Design Studio and want to add an instance from Connection Manager, select **Add New**.
 
-    ![Add new instance from Connection Manager.](../image/addnew-cm.png "Add new instance from Connection Manager")
+    ![Add new instance from Connection Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/addnew-cm.png "Add new instance from Connection Manager")
 
 3.  On the form, fill in the fields.
 
@@ -71,7 +71,7 @@ Mark as default
 
 </td><td>
 
-Option for enabling this instance as the default. RPA Desktop Design Studio launches each time by using this default instance.Clearing this option opens the Connection Manager dialog box each time you double-click the RPA Desktop Design Studio icon \(![RPA Desktop Design Studio icon.](../image/rpa-design-studio-icon.png)\).
+Option for enabling this instance as the default. RPA Desktop Design Studio launches each time by using this default instance.Clearing this option opens the Connection Manager dialog box each time you double-click the RPA Desktop Design Studio icon \(![RPA Desktop Design Studio icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpa-design-studio-icon.png)\).
 
 </td></tr><tr><td>
 
@@ -90,11 +90,11 @@ Option for launching the instance in the default browser of your machine.
 
 5.  Select **Proceed** and the plugins from the RPA Hub instance download to your machine.
 
-    ![Downloading plugins from the RPA Hub instance.](../image/plugin-download.png "Downloading plugins from the RPA Hub instance")
+    ![Downloading plugins from the RPA Hub instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/plugin-download.png "Downloading plugins from the RPA Hub instance")
 
     When the plugins download, the login page of your RPA Hub instance is displayed.
 
-    ![Login page for the RPA Hub instance.](../image/connection-manager-auth.png "Login page for the RPA Hub instance")
+    ![Login page for the RPA Hub instance.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/connection-manager-auth.png "Login page for the RPA Hub instance")
 
     **Note:** If the error `Connection failed. Verify if the RPA Plugins are available in the ServiceNow instance.` is displayed when you start RPA Desktop Design Studio, select **OK** and configure a ServiceNow instance URL that has the RPA plugins installed. Restart RPA Desktop Design Studio and try again.
 
@@ -102,7 +102,7 @@ Option for launching the instance in the default browser of your machine.
 
     The RPA Hub instance authentication page is displayed.
 
-    ![RPA Hub instance authentication.](../image/cm-authenticate.png "RPA Hub instance authentication")
+    ![RPA Hub instance authentication.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/cm-authenticate.png "RPA Hub instance authentication")
 
     **Important:**
 
@@ -115,5 +115,5 @@ Option for launching the instance in the default browser of your machine.
 
 ## What to do next
 
-You can start creating automations from the RPA Desktop Design Studio home page. For more information on how to create automations, see [Create an automation project manually](create-automation-project.md) or [Create an automation with Now Assist](create-automation-now-assist.md).
+You can start creating automations from the RPA Desktop Design Studio home page. For more information on how to create automations, see [Create an automation project manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-project.md) or [Create an automation with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-automation-now-assist.md).
 

@@ -86,5 +86,5 @@ Creation of assets for services
 The creation of inventory assets for services in the alm\_asset table is disabled in the Sourcing and Purchasing Automation and Asset Management Integration for Sourcing and Procurement Operations plugins. The previously created inventory assets for services are not affected. For fixed assets, ITAM continues to create corresponding records in the alm\_asset table for services. Inventory asset creation for goods continues to function as before.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](spo-itam-better-together.md)
+</table>**Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 

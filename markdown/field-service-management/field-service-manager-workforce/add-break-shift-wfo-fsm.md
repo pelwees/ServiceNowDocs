@@ -29,9 +29,9 @@ You can set the break period within a work shift by ensuring that all of your ag
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule icon \( ![Schedule icon.](../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
+2.  Click the Schedule icon \( ![Schedule icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../../workforce-optimization-for-customer-service-configurable/image/schedule-new.png)\).
 
-3.  Click the Show Shifts Plans icon \(![Show Shifts Plans icon.](../image/show-schedule-new.png)\) and select the shift for which you want to add the break.
+3.  Click the Show Shifts Plans icon \(![Show Shifts Plans icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/show-schedule-new.png)\) and select the shift for which you want to add the break.
 
 4.  Click **Add break**.
 

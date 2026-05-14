@@ -19,7 +19,7 @@ Create an X.509 certificate record in ServiceNow by uploading a Java Key Store \
 
 Role required: admin
 
-This task requires a JKS file created for Card Data Security. See [Create a JKS file](create-a-jks-file.md) for more information.
+This task requires a JKS file created for Card Data Security. See [Create a JKS file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-a-jks-file.md) for more information.
 
 ## Procedure
 
@@ -52,5 +52,5 @@ A certificate record is created.
 
 ## What to do next
 
-[Set up a JWT key](set-up-a-jwt-key.md).
+[Set up a JWT key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-key.md).
 

@@ -59,7 +59,7 @@ From the Free-form Roadmaps tab, select a roadmap.
 
     The side panel opens with the Details tab.
 
-    Further, you can select **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Demand planning item form](../reference/demand-form-portfolio-planning.md) or [Project planning item form](../reference/project-form-portfolio-planning.md).
+    Further, you can select **Full details** and open the item's record page. On the full details page, you can also view related lists such as Milestones, Dependencies, and others. For field information, see [Demand planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/demand-form-portfolio-planning.md) or [Project planning item form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/project-form-portfolio-planning.md).
 
     **Note:** If your free-form roadmap was built on one of the PPM tables, such as project \[pm\_project\] or demand \[dmn\_demand\], you can only make updates from the full details page.
 
@@ -70,8 +70,8 @@ From the Free-form Roadmaps tab, select a roadmap.
         If you're on the full details page, select **Save**.
 
     -   To delete, do the following:
-        1.  On the full details page, select the More Actions icon \(![More actions icon.](../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
+        1.  On the full details page, select the More Actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/more-actions-icon.png)\) and select **Delete**.
         2.  Select **OK** to confirm.
 
-**Parent Topic:**[Create planning items from roadmap view](create-planning-items-from-roadmap-view-portfolio-planning-workspace.md)
+**Parent Topic:**[Create planning items from roadmap view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-planning-items-from-roadmap-view-portfolio-planning-workspace.md)
 

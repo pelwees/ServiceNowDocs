@@ -114,9 +114,9 @@ function moveToComplete(){
 </table>6.  Click **Update**.
 
 
-**Parent Topic:**[Tutorial: add a new change management state](t_AddNewStateTutorial.md)
+**Parent Topic:**[Tutorial: add a new change management state](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_AddNewStateTutorial.md)
 
-**Previous topic:**[Update the state model script include](t_UpdateStateModelScriptInclude.md)
+**Previous topic:**[Update the state model script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_UpdateStateModelScriptInclude.md)
 
-**Next topic:**[Create a process flow record](t_CreateNewProcessFlowRecord.md)
+**Next topic:**[Create a process flow record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateNewProcessFlowRecord.md)
 

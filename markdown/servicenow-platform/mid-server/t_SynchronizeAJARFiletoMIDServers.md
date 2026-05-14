@@ -21,10 +21,10 @@ Role required: admin, agent\_admin
 
 <table id="table_hpn_4t4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>The MID Server JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](../concept/c_MIDServerDomainSeparation.md#).
+</table>The MID Server JAR File \[ecc\_agent\_jar\] table is domain separated. You can create versions of these policies that only a MID Server from the same domain can use. For instructions, see [Set up domain separation for MID servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerDomainSeparation.md#).
 
 **Warning:** Synchronizing a JAR file with this procedure causes all MID Servers connected to the instance to restart automatically.
 
@@ -42,12 +42,12 @@ Role required: admin, agent\_admin
     -   **Description:** Short description of the JAR file and its purpose in the instance.
 4.  Click the paper clip icon in the banner.
 
-    ![paper clip icon](../image/JARFileSync.png)
+    ![paper clip icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/JARFileSync.png)
 
 5.  In the Attachments dialog box, click **Browse** and select the file you want to attach.
 
     The platform attaches the JAR file to the record and restarts the MID Servers to synchronize the file. It is not necessary to update the record to attach the file.
 
 
-**Parent Topic:**[Configuring MID Servers](../concept/c_MIDServerConfiguration.md)
+**Parent Topic:**[Configuring MID Servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_MIDServerConfiguration.md)
 

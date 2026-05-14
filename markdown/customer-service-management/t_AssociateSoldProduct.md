@@ -39,7 +39,7 @@ Add an existing consumer
 
 </td><td>
 
-1.  In the **Consumer** field, select the Lookup using list icon \(![Lookup using list icon](../../../common/image/List_SearchIcon.png)\).
+1.  In the **Consumer** field, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/List_SearchIcon.png)\).
 2.  Select a consumer from the list.
 
 
@@ -49,7 +49,7 @@ Add a new consumer
 
 </td><td>
 
-1.  In the **Consumer** field, select the Lookup using list icon \(![Lookup using list icon](../../../common/image/List_SearchIcon.png)\).
+1.  In the **Consumer** field, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/List_SearchIcon.png)\).
 2.  Select **New**.
 3.  On the Consumer form, fill in the fields.
 4.  Select **Submit**.

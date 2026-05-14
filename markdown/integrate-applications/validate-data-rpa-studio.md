@@ -15,7 +15,7 @@ Validate your data by using the **Validate Data** option at a component level in
 
 ## Before you begin
 
-Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](configure-components.md).
+Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-components.md).
 
 Role required: none
 
@@ -45,10 +45,10 @@ NotNullValidation
 
 Checks if the given input is null. A custom message can be inputted for validation and error handling.
 
- 1.  Click the plus icon \(![Plus icon.](../image/add-image-icon.png)\) to add a validation.
+ 1.  Click the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) to add a validation.
 2.  In the text box next to **\[NOT NULL\]**, enter the custom error message as shown in the following example.
 
-![Text box for entering the error message.](../image/not-null-validation-text-box.png "Text box for entering the error message")
+![Text box for entering the error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/not-null-validation-text-box.png "Text box for entering the error message")
 
 3.  Click **OK**.
 
@@ -59,8 +59,8 @@ ScriptValidation
 
 </td><td>
 
-Enables you to choose from a list of programming languages and write a validation script to ensure the data that flows in or out of the Data port is validated against the mentioned conditions. Otherwise, it stops execution and throws an error.1.  Click the plus icon \(![Plus icon.](../image/add-image-icon.png)\) to add a validation.
-2.  Click the script icon \(![script icon.](../image/script-validation-icon.png)\) to open the SCRIPT VALIDATION dialog box.
+Enables you to choose from a list of programming languages and write a validation script to ensure the data that flows in or out of the Data port is validated against the mentioned conditions. Otherwise, it stops execution and throws an error.1.  Click the plus icon \(![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/add-image-icon.png)\) to add a validation.
+2.  Click the script icon \(![script icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/script-validation-icon.png)\) to open the SCRIPT VALIDATION dialog box.
 3.  From the following SCRIPT LANGUAGE list, select your preferred scripting language to write your custom validation:
     -   **VB.NET**
     -   **C\#**
@@ -69,14 +69,14 @@ Enables you to choose from a list of programming languages and write a validatio
 5.  Click **OK**.
 6.  In the text box next to **\[SCRIPT\]**, enter the custom error message as shown in the following example.
 
-![Field for entering the error message.](../image/script-validation-textbox.png "Field for entering the error message")
+![Field for entering the error message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/script-validation-textbox.png "Field for entering the error message")
 
 7.  Click **OK**.
 
 
 </td></tr></tbody>
-</table>3.  To delete a validation rule, click the delete icon \(![Delete icon.](../image/remove-icon.png)\) and in the Confirmation dialog box, click **Yes**.
+</table>3.  To delete a validation rule, click the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/remove-icon.png)\) and in the Confirmation dialog box, click **Yes**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

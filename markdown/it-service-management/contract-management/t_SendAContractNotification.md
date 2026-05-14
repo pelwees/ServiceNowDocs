@@ -44,24 +44,24 @@ A user with the admin role can edit the contract.expiration condition check that
     A single name can be specified.
 
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_Contracts.md)
 
 **Related topics**  
 
 
-[Create a contract](t_CreateAContract.md)
+[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)
 
-[Adjust a contract](t_AdjustAContract.md)
+[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AdjustAContract.md)
 
-[Send the contract for approval](t_SendTheContractForApproval.md)
+[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_TermsAndConditions.md)
 
-[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
-[Monitor a contract](t_MonitoringContracts.md)
+[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_MonitoringContracts.md)
 
-[Condition check definitions](../concept/c_UseConditionCheckDefinitions.md)
+[Condition check definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_UseConditionCheckDefinitions.md)
 
 [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 

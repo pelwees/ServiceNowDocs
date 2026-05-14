@@ -27,13 +27,13 @@ By default, your iOS users can use the following pre-configured shortcuts in the
     -   The Agent Chat plugin \(com.glide.interaction.awa\) must be installed on your instance. For details on configuration, see [Setting up Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md).
     -   The mobile app must have a chat launcher quick action enabled. For details on enabling chat launcher, see [Enable Live Agent in the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/va-in-me.md).
 -   To search in the ServiceNow instance, the following conditions must be met:
-    -   The instance must have global search set up. For details on configuration, see [Global search for mobile](mobile-search-config.md).
+    -   The instance must have global search set up. For details on configuration, see [Global search for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md).
     -   The global search must be configured on the first tab in the mobile app.
 
-For details about configuring a Siri shortcut on your instance, see [Configure a Siri shortcut](../task/config-siri-shortcuts-2.md).
+For details about configuring a Siri shortcut on your instance, see [Configure a Siri shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/config-siri-shortcuts-2.md).
 
--   **[Configure a Siri shortcut](../task/config-siri-shortcuts-2.md)**  
+-   **[Configure a Siri shortcut](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/config-siri-shortcuts-2.md)**  
 Change the destination screen of your Siri shortcuts to direct your users to a different screen than the default.
 
-**Parent Topic:**[Considerations before implementation](imp-considerations.md)
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 

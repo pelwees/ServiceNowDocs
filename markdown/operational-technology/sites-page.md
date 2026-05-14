@@ -17,7 +17,7 @@ A Site represents a physical location in your organization, such as a data cente
 
 The Sites page contains a list of all the sites available in your Discovery Console for OT system. For each site, you can view the network range, time zone, latitude, and longitude. The following image shows an example of the Sites page.
 
-![List of sites on the Sites page for the Discovery Console for OT](../../msi-console/image/sites-page-ot-console.png)
+![List of sites on the Sites page for the Discovery Console for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/sites-page-ot-console.png)
 
 **Note:** You cannot select the same IP Addresses for both the Include and Ignore selections for the Site without triggering an error.
 

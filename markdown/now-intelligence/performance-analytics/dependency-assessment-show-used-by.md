@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  [Launch Dependency Assessment](../../dashboards/task/launch-dependency-assessment.md) on the Performance Analytics entity you want to investigate.
+1.  [Launch Dependency Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../dashboards/task/launch-dependency-assessment.md) on the Performance Analytics entity you want to investigate.
 
     1.  Navigate to **Performance Analytics** &gt; **Dashboards**.
 
@@ -35,14 +35,14 @@ Role required: admin
 
 2.  Expand the tree view to locate the entity you want to investigate.
 
-3.  Click the context menu \(![](../image/ContextMenu.png)\) of the entity and select **Show Used By**.![context menu option Show Used By to launch bottom-up tree view](../image/launch-bottom-up.png)
+3.  Click the context menu \(![](../image/ContextMenu.png)\) of the entity and select **Show Used By**.![context menu option Show Used By to launch bottom-up tree view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/launch-bottom-up.png)
 
 4.  The top-down tree view is replaced with a view which shows all of the entities which use the selected entity.
 
-    In this case, the API Transactions Requestor Stats table is used by one breakdown source, three reports, and two interactive filters: ![bottom-up tree-view example](../image/bottom-up-tree-view-example.png)
+    In this case, the API Transactions Requestor Stats table is used by one breakdown source, three reports, and two interactive filters: ![bottom-up tree-view example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/bottom-up-tree-view-example.png)
 
-5.  Click the reset button \(![](../image/tree-view-reset-icon.png)\) to return the tree view to the base selection as shown in the header.![Dependency assessment on the dashboard Usage by Requestor, with the reset button highlighted.](../image/dependency-assessment-reset.png)
+5.  Click the reset button \(![](../image/tree-view-reset-icon.png)\) to return the tree view to the base selection as shown in the header.![Dependency assessment on the dashboard Usage by Requestor, with the reset button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/dependency-assessment-reset.png)
 
 
-**Parent Topic:**[Dependency Assessment](../concept/impact-analysis.md)
+**Parent Topic:**[Dependency Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/impact-analysis.md)
 

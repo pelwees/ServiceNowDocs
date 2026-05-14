@@ -48,7 +48,7 @@ Steps
 3.  Select the users that you want to assign a specific DevOps role to.
 4.  Select the DevOps role from the list.
 
-For more information on the roles, see [Components installed with DevOps Change Velocity](../reference/installed-with-dev-ops.md).
+For more information on the roles, see [Components installed with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/installed-with-dev-ops.md).
 
 5.  Select **Done**.
 
@@ -64,7 +64,7 @@ For more information on the roles, see [Components installed with DevOps Change 
 3.  Select the group for which you want to assign a specific DevOps role.
 4.  Select the DevOps role from the list.
 
-For more information on the roles, see [Components installed with DevOps Change Velocity](../reference/installed-with-dev-ops.md).
+For more information on the roles, see [Components installed with DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../reference/installed-with-dev-ops.md).
 
 5.  If you want to assign the same role to the child groups of the selected group, then select the **Assign selected role to child groups** option.
 6.  Select **Done**.
@@ -102,5 +102,5 @@ For more information on the roles, see [Components installed with DevOps Change 
 </table>
 ## What to do next
 
-[Set up integration user account in DevOps Change Velocity](devops-plybk-set-up-system-accts.md)
+[Set up integration user account in DevOps Change Velocity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-plybk-set-up-system-accts.md)
 

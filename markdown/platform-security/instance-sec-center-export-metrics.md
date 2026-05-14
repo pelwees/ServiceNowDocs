@@ -38,7 +38,7 @@ Use the **Show** list to display exports within the last 24 hours or within the 
 
 </td><td>
 
-![Export metrics report interface](../image/isc-export-interface.png)
+![Export metrics report interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/isc-export-interface.png)
 
 </td></tr></tbody>
 </table>## Export metrics reports
@@ -64,8 +64,8 @@ The export metrics page displays four reports.
 
 **Note:** Export metric reports only track export events. Exports from other sources, such as rest APIs or workflows are not tracked as part of this feature.
 
--   **[Export metrics settings](isc-export-metrics-settings.md)**  
+-   **[Export metrics settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/isc-export-metrics-settings.md)**  
 Use the configuration options in the Settings tab to narrow down reporting results.
 
-**Parent Topic:**[Monitor instance metrics](monitoring-user-email-antivirus-metrics.md)
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 

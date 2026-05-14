@@ -208,5 +208,5 @@ Strategic priority that this planning item is associated to.
 |Value|Numerical value for the value obtained with this planning item.|
 |Score|Score of the planning item.|
 
-**Parent Topic:**[Form field information for Portfolio Planning](form-field-information-for-portfolio-planning.md)
+**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 

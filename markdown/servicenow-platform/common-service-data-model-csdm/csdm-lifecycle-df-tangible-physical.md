@@ -19,7 +19,7 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
 
 **Note:** The CI label tangible/physical includes and supersedes the "Hardware" label that had been used in earlier releases.
 
-![Relationships between CSDM stages and life cycle values.](../image/csdm-lifecycle-vp-tangible-physical.png)
+![Relationships between CSDM stages and life cycle values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/csdm-lifecycle-vp-tangible-physical.png)
 
 -   **Ideation life cycle stage**
 
@@ -110,5 +110,5 @@ The tangible/physical life-cycle states represent the overall life cycle of phys
     -   **Buyout**: The asset was leased and has been purchased instead of returned. 
     -   **Lease Return**: The leased asset has been returned to the vendor at the end of its lease period.
 
-**Parent Topic:**[Life cycle of tangible/physical CIs](../concept/csdm-lifecycle-hardware.md)
+**Parent Topic:**[Life cycle of tangible/physical CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../concept/csdm-lifecycle-hardware.md)
 

@@ -40,9 +40,9 @@ Modify a connector's crawl settings to alter the set of source system locations 
     -   To modify crawl settings for the external content connector, select **Crawl settings**.
 4.  On the selected settings page, make your desired changes.
 
-    For details on connection settings, see the creation task for the external content connector type, as listed in [Creating external content connectors](creating-ext-cont-connectors.md).
+    For details on connection settings, see the creation task for the external content connector type, as listed in [Creating external content connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/creating-ext-cont-connectors.md).
 
-    For details on crawl settings, see the crawl-settings configuration task for the external content connector type, as listed in [Configuring crawl settings for external content connectors](../concept/cfg-crawl-settings-ext-cont-connector.md).
+    For details on crawl settings, see the crawl-settings configuration task for the external content connector type, as listed in [Configuring crawl settings for external content connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/cfg-crawl-settings-ext-cont-connector.md).
 
 5.  Select **Save and Validate**.
 
@@ -55,7 +55,7 @@ If your modifications to the connector's connection or crawl settings invalidate
 
 ## What to do next
 
-If the external content connector status indicates that a recrawl is required, run a new content crawl for it to update its search results using the modified settings. For details on running content crawls, see [Create a content crawl for an external content connector](create-content-crawl-external-content-connector.md).
+If the external content connector status indicates that a recrawl is required, run a new content crawl for it to update its search results using the modified settings. For details on running content crawls, see [Create a content crawl for an external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-content-crawl-external-content-connector.md).
 
-**Parent Topic:**[Configuring External Content Connectors](../concept/configuring-ext-cont-connectors.md)
+**Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/configuring-ext-cont-connectors.md)
 

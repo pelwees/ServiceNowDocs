@@ -27,23 +27,23 @@ Plugins required:
 
 ## Procedure
 
-1.  Navigate to **Supplier Collaboration Portal** &gt; **Search for any detail in Search bar** &gt; **Contact us for help** &gt; **Request help**.![Request help](../image/ur-request-help.png)
+1.  Navigate to **Supplier Collaboration Portal** &gt; **Search for any detail in Search bar** &gt; **Contact us for help** &gt; **Request help**.![Request help](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/ur-request-help.png)
 
 2.  Select **Request Help** to create a UR.
 
-    The Request Help form appears. For more information on the fields in the form, see [Request Help form](../reference/ur-request-help-form.md).![Request help form](../image/ur-request-help-form.png)
+    The Request Help form appears. For more information on the fields in the form, see [Request Help form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../reference/ur-request-help-form.md).![Request help form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/ur-request-help-form.png)
 
-3.  Select **Submit**.![UR inquiry](../image/ur-inquiry.png)
+3.  Select **Submit**.![UR inquiry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/ur-inquiry.png)
 
 
 ## Result
 
 The Universal Request is created.
 
-**Parent Topic:**[Using Supplier Collaboration Portal in APO](../concept/using-supplier-collaboration-portal.md)
+**Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/using-supplier-collaboration-portal.md)
 
 **Related topics**  
 
 
-[Universal Request in Accounts Payable Operations](../concept/universal-request-in-apo.md)
+[Universal Request in Accounts Payable Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../concept/universal-request-in-apo.md)
 

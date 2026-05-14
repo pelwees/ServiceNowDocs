@@ -15,7 +15,7 @@ breadcrumb: [Testing and monitoring predictions, Predictive Intelligence, Enable
 
 The Predictive Intelligence Usage Analytics dashboard is a central location to understand the effectiveness and overall value of all your Predictive Intelligence solutions. View metrics for model training successes and failures. Monitor prediction statistics including breakdowns by individual model.
 
-![An overview of the PI Usage Dashboard, with the tab for the Classification tab open. The Date Range selector is highlighted. Several widgets are visible, such as Total Active Solutions.](../images/predictive-intel-usage-analytics-overview-a.png)
+![An overview of the PI Usage Dashboard, with the tab for the Classification tab open. The Date Range selector is highlighted. Several widgets are visible, such as Total Active Solutions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-usage-analytics-overview-a.png)
 
 For your models in the Classification, Similarity, and Clustering capabilities, the Predictive Intelligence Usage Analytics dashboard gives you visibility into training and predictions. You can specify the time periods to report on, as well as select specific solutions for a deep dive.
 
@@ -33,7 +33,7 @@ The calendar picker offers a variety of preset dates under its **Standard** subh
 
 You can also choose **Custom range** to select your own dates. Enter dates directly into the **Start date** and **End date** fields, or select a date range using the calendar. Then select **Apply** to update the reports in all widgets on the page.
 
-![The Date Range selector is open, showing a variety of Standard date ranges. Also available is a calendar and fields for specifying a Custom range.](../images/predictive-intel-usage-analytics-date-selector-a.png)
+![The Date Range selector is open, showing a variety of Standard date ranges. Also available is a calendar and fields for specifying a Custom range.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-usage-analytics-date-selector-a.png)
 
 ## Available metrics for Classification and Similarity
 
@@ -134,7 +134,7 @@ The update frequency distribution across all similarity solutions.The available 
 |Total Successful Predictions|Total number of successful predictions made on all Classification \(or Similarity\) solutions.|
 |Total Failed predictions|Total number of failed predictions made on all Classification \(or Similarity\) solutions.|
 
-![The Classification solution selector is open, displaying names of three Classification solution available for selection.](../images/predictive-intel-usage-analytics-solution-selector-a.png)
+![The Classification solution selector is open, displaying names of three Classification solution available for selection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-usage-analytics-solution-selector-a.png)
 
 For the following widgets, use the selector labeled **Classification solution** or **Similarity solution** to choose an individual model.
 
@@ -170,5 +170,5 @@ For the following widgets, use the selector labeled **Clustering solution** on t
 |Number of updates completed \(in last 7 days\)|The number of update jobs completed for a specified clustering solution.|
 |Details of Last Update \(in last 7 days\)|When the clustering solution was last updated, number of new clusters created, records assigned to existing clusters, and new clusters in the last update.|
 
-**Parent Topic:**[Testing and monitoring predictions](testing-reviewing-ml-solutions.md)
+**Parent Topic:**[Testing and monitoring predictions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/testing-reviewing-ml-solutions.md)
 

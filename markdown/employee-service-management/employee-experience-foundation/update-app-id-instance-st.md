@@ -29,18 +29,18 @@ Role required: admin
 
 4.  Copy the App ID value.
 
-    ![ServiceNow for Teams app ID value](../images/sn-ms-teams-app-id-value.png)
+    ![ServiceNow for Teams app ID value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/sn-ms-teams-app-id-value.png)
 
 5.  In your ServiceNow instance, search for `sys_properties.list`.
 
 6.  Select the `sn_now_azure.teams_installed_app_id` property.
 
-    ![Edit the entry](../images/edit-record.png)
+    ![Edit the entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/edit-record.png)
 
 7.  Update the App ID value, then select **Update**.
 
-    ![Update the app id value](../images/update-app-id-value.png)
+    ![Update the app id value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/update-app-id-value.png)
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_s_tnt.md)
 

@@ -24,15 +24,15 @@ To download these logs, do the following.
 -   In the drop-down field, select one of the date settings.
     -   **Today**
 
-        ![Download Today's logs](../images/log-download-today.png)
+        ![Download Today's logs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/log-download-today.png)
 
     -   **Date range**
 
-        ![Date range](../images/log-download-range-date.png)
+        ![Date range](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/log-download-range-date.png)
 
     -   **Custom date**
 
-        ![Custom date](../images/log-download-custom-date.png)
+        ![Custom date](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/log-download-custom-date.png)
 
 -   Select **Download Logs** to download a compressed zip file of all log files.
 

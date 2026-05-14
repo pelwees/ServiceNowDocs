@@ -18,7 +18,7 @@ Create a safety report field mapping to map fields in your reporting PDF templat
 ## Before you begin
 
 -   The imported reporting PDF template, that you want to create the mapping for, must be fillable.
--   The Health and Safety table to be mapped is enabled for report field mapping. For more information, see [Enable a Health and Safety table for configuring report field mapping](enable-hs-table-report-field-mapping.md).
+-   The Health and Safety table to be mapped is enabled for report field mapping. For more information, see [Enable a Health and Safety table for configuring report field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/enable-hs-table-report-field-mapping.md).
 
 Role required: sn\_ohs\_im.report\_mapping\_manager
 
@@ -34,7 +34,7 @@ The report field mapping enables you to do the following:
 
 1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
-2.  Select the configuration icon \(![Configuration icon](../../hs-risk-management/image/icon-config.png)\).
+2.  Select the configuration icon \(![Configuration icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-risk-management/image/icon-config.png)\).
 
 3.  In the **Configuration** tab, select **Report field mappings** and then **All**.
 
@@ -44,7 +44,7 @@ The report field mapping enables you to do the following:
     -   To review an existing one, open the one that you want to configure.
 5.  On the form, fill in the fields.
 
-    For information on form field descriptions, see [Health and Safety report field mapping form](../reference/hs-report-field-mapping-form.md).
+    For information on form field descriptions, see [Health and Safety report field mapping form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../reference/hs-report-field-mapping-form.md).
 
 6.  Select **Save**.
 
@@ -78,7 +78,7 @@ However, dot-walk fields are also available to select from the field mapping lis
 
 </td><td>
 
-Select the more options icon \(![More options icon](../../wsd-for-mobile/images/more-options-icon.png)\) beside the field mapping and then select **Add script**. The **Edit script** dialog box includes a few examples for your reference. You must provide the correct table, field names, and so on, in your script, and modify as you require for the mapping.
+Select the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../wsd-for-mobile/images/more-options-icon.png)\) beside the field mapping and then select **Add script**. The **Edit script** dialog box includes a few examples for your reference. You must provide the correct table, field names, and so on, in your script, and modify as you require for the mapping.
 
 **Note:** This scripting is done within the Health and Safety application scope.
 
@@ -87,7 +87,7 @@ Each mapping can be scripted using the script capability on each field. It enabl
 </td></tr></tbody>
 </table>8.  Check that the field mappings are active.​
 
-    To deactivate a field mapping, select the more options icon \(![More options icon](../../wsd-for-mobile/images/more-options-icon.png)\) beside the field mapping and then select **Deactivate**.
+    To deactivate a field mapping, select the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../wsd-for-mobile/images/more-options-icon.png)\) beside the field mapping and then select **Deactivate**.
 
 9.  Select **Save**.
 
@@ -95,26 +95,26 @@ Each mapping can be scripted using the script capability on each field. It enabl
 ## Result
 
 -   The fields in the imported reporting PDF template are mapped to the fields in the selected mapping table.
--   The published report field mapping is available to select during a report generation in the mapped safety table records. For example, see [Generate a report for a safety incident, observation, or injury](generate-report-safety-incident-obsv-injury.md).
+-   The published report field mapping is available to select during a report generation in the mapped safety table records. For example, see [Generate a report for a safety incident, observation, or injury](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/generate-report-safety-incident-obsv-injury.md).
 
-**Parent Topic:**[Setting up Health and Safety Core](../../hs-core/concept/setting-up-hs-core.md)
+**Parent Topic:**[Setting up Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/concept/setting-up-hs-core.md)
 
 **Related topics**  
 
 
-[Install Health and Safety Core](../../hs-core/task/install-hs-core.md)
+[Install Health and Safety Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/task/install-hs-core.md)
 
-[Workplace location data](configure-hs-workplace-location-data.md)
+[Workplace location data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-hs-workplace-location-data.md)
 
-[Enable a Health and Safety table for configuring report field mapping](enable-hs-table-report-field-mapping.md)
+[Enable a Health and Safety table for configuring report field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/enable-hs-table-report-field-mapping.md)
 
-[Configure groups for Health and Safety](configure-groups-health-and-safety.md)
+[Configure groups for Health and Safety](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-groups-health-and-safety.md)
 
-[Configure scheduled job to generate frequency rates](configure-job-generate-frequency-rates.md)
+[Configure scheduled job to generate frequency rates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-job-generate-frequency-rates.md)
 
-[Assign Health and Safety profile to a user](assign-hs-profile-user.md)
+[Assign Health and Safety profile to a user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md)
 
-[Add a Health and Safety visitor](hs-add-health-safety-visitor.md)
+[Add a Health and Safety visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-add-health-safety-visitor.md)
 
-[Migrate existing safety documents to the Document library](../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
+[Migrate existing safety documents to the Document library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/../../hs-core/task/hs-migrate-sync-existing-safety-document-docs-library.md)
 

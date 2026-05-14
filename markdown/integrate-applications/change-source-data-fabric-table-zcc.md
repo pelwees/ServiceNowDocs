@@ -25,7 +25,7 @@ Role required: a role containing the df\_data\_steward role in both the establis
     -   Navigate to **Admin** &gt; **Zero Copy Connector Hub** &gt; **Data fabric tables**.
 2.  Find the data fabric table that you want to update.
 
-3.  Select the More Actions icon \(![More actions icon](../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Change connection**.
+3.  Select the More Actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Change connection**.
 
     -   A data fabric table with multiple primary keys can only use its current connection. To change the connection, you must delete and recreate the table with the data source that you want to use.
     -   A data fabric table with a connection that still needs configuration or is deactivated can't use a different connection. You must finish configuring the connection or activate the current connection before you can change it.
@@ -38,5 +38,5 @@ Role required: a role containing the df\_data\_steward role in both the establis
 7.  Select **Finish**.
 
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/managing-data-fabric-tables-zcc.md)
 

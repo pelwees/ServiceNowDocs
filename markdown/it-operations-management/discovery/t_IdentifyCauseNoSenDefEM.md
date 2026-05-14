@@ -38,14 +38,14 @@ To find the cause of this error, identify the **Short Message** field of the err
     This field shows the name of the sensor where the error has occurred.
 
 
-**Parent Topic:**[Discovery error messages](../concept/c_DiscoveryErrorMessages.md)
+**Parent Topic:**[Discovery error messages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../concept/c_DiscoveryErrorMessages.md)
 
 **Related topics**  
 
 
-[Find the cause of a sensor error message](t_FindTheCauseOfASensorErrorMessage.md)
+[Find the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfASensorErrorMessage.md)
 
-[Fix the cause of a sensor error message](t_FixTheCauseOfASensorErrorMessage.md)
+[Fix the cause of a sensor error message](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FixTheCauseOfASensorErrorMessage.md)
 
-[Find the cause of a "Probe not found" error](t_FindTheCauseOfAProbeNotFoundError.md)
+[Find the cause of a "Probe not found" error](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_FindTheCauseOfAProbeNotFoundError.md)
 

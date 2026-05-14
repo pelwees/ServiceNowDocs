@@ -35,7 +35,7 @@ Set any notification as critical and receive alerts when your mobile device is i
 
 2.  In the selected notification record, select the **What to send** tab.
 
-3.  Select the info icon \(![Info icon.](../../now-assist-itsm/image/icon-more-info.png)\) next to the **Push message** field.
+3.  Select the info icon \(![Info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../../now-assist-itsm/image/icon-more-info.png)\) next to the **Push message** field.
 
 4.  Select **Open record** from the **Push Notification Message** pop-up message.
 

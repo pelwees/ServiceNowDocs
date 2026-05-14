@@ -79,5 +79,5 @@ Multiple terms and conditions are displayed in the **Terms and Conditions** tab 
 
 ## What to do next
 
-[Add rate cards to the new contract](update-rate-card.md)
+[Add rate cards to the new contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/update-rate-card.md)
 

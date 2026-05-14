@@ -60,5 +60,5 @@ The entities displayed after clicking **Add** on the **Upstream entities** or **
 
 **Note:** If there are no eligible entities which can be related to the current entity, then the **Add** button is not displayed on the **Upstream entities** or **Downstream entities** related lists.
 
-**Parent Topic:**[Entity scoping in GRC](../concept/c_Scoping.md)
+**Parent Topic:**[Entity scoping in GRC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/c_Scoping.md)
 

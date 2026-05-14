@@ -27,7 +27,7 @@ Role required: wm\_crew\_moderator
 
 3.  In the Skills related list, select **Add**.
 
-4.  Select the Lock ![lock](../image/square-lock.png) icon.
+4.  Select the Lock ![lock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/../image/square-lock.png) icon.
 
 5.  In select target record, search for the skill you want to add to the crew.
 

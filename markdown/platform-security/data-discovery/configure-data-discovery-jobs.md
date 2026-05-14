@@ -68,7 +68,7 @@ Policy
 
 </td><td>
 
-The Data Discovery policy to be used in this job. See [Data Discovery policies](../concept/data-discovery-policies.md) for more information.
+The Data Discovery policy to be used in this job. See [Data Discovery policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/data-discovery/../concept/data-discovery-policies.md) for more information.
 
 </td></tr><tr><td>
 

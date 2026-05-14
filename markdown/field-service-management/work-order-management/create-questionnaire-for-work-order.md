@@ -45,7 +45,7 @@ The administrator can view questionnaire records from the Questionnaire list and
 
 4.  Select **Submit**.
 
-    ![questionnaire form](../image/create-questionnaire.png)
+    ![questionnaire form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/create-questionnaire.png)
 
     The system creates the record, displays the Questionnaire form, and adds the **Questionnaire Designer** button.
 
@@ -71,5 +71,5 @@ To edit a questionnaire, open the form, make your changes, and select **Update**
 **Related topics**  
 
 
-[Complete a questionnaire for a work order or task](complete-wo-or-task-questionnaire.md)
+[Complete a questionnaire for a work order or task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/complete-wo-or-task-questionnaire.md)
 

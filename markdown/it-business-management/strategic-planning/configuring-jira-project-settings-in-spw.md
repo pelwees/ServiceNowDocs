@@ -17,15 +17,15 @@ Configure integration settings for each Jira project before importing issues to 
 
 For each Jira project, perform the following tasks:
 
-1.  [Associate the Jira project with an EAP team](../task/create-team-integration-settings-for-jira-project-in-spw.md).
+1.  [Associate the Jira project with an EAP team](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/create-team-integration-settings-for-jira-project-in-spw.md).
 
     Each Jira project must be associated with an EAP team so that work items brought in from Jira map to the right team in SPW.
 
-2.  [Review default data mapping configurations](../task/review-default-map-config-jira-projects-spw.md).
+2.  [Review default data mapping configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/review-default-map-config-jira-projects-spw.md).
 
-    Predefined data mapping configurations for Epics, Sprints, and Stories between the two applications are available but if these default mappings don't fit your team's requirements, you can edit them or create new ones. See [Create custom mapping configurations](custom-mapping-configuration-spw-jira.md#).
+    Predefined data mapping configurations for Epics, Sprints, and Stories between the two applications are available but if these default mappings don't fit your team's requirements, you can edit them or create new ones. See [Create custom mapping configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md#).
 
-3.  [Enable bidirectional data sync](../task/enable-bidirectional-sync-spw-jira.md).
+3.  [Enable bidirectional data sync](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/enable-bidirectional-sync-spw-jira.md).
 
     This step ensures updates done in either application are reflected in the other so that data is consistent across.
 

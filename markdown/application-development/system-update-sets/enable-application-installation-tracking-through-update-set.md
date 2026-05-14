@@ -42,5 +42,5 @@ This topic is applicable only to global update sets and is enabled by default.
     A message appears notifying you to confirm the app installs for the update set.
 
 
-**Parent Topic:**[Configuring System Update Sets](../concept/configure-system-update-sets.md)
+**Parent Topic:**[Configuring System Update Sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/system-update-sets/../concept/configure-system-update-sets.md)
 

@@ -279,10 +279,10 @@ Improvement Initiatives
 Displays improvement initiatives associated with the survey.**Note:** This related list is available only when there is at least one improvement initiative record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Assessments reference](assessment-reference.md)
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[Configure an assessment](../task/configure-assessment.md)
+[Configure an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/configure-assessment.md)
 

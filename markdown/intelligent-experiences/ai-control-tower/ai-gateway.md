@@ -17,13 +17,13 @@ Explore the AI Gateway page and its tab in the AI Control Tower Configurations.
 
 The AI Gateway page enables you to pause and resume AI Gateway transactions, as well as monitor AI connections. The AI Gateway page has the following tabs:
 
-**Settings**- enables to pause and continue the AI Gateway transactions.![AICT Configurations screen.](../image/ai-gateway-config.png)
+**Settings**- enables to pause and continue the AI Gateway transactions.![AICT Configurations screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../image/ai-gateway-config.png)
 
 **AI connections**- Displays a list of allowed AI connections.![](../image/ai-connections.png)
 
 **Global MCP clients**- View the list of Global MCP clients \(CIMD support\), Where CIMD refers to Client ID Metadata document. These Global MCP clients once created can be used across all MCP severs. You can Add Global MCP clients from the tab by selecting Add. ![](../image/aict-config-globalmcp.png)
 
-For more information on adding a Global MCP client, see [Add a Global MCP client](../task/add-a-global-mcp-client.md).
+For more information on adding a Global MCP client, see [Add a Global MCP client](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/../task/add-a-global-mcp-client.md).
 
 You can filter and export the list into PDF, JSON, Excel, and CSV format. The list of allowed AI connections is categorized into.
 
@@ -32,5 +32,5 @@ You can filter and export the list into PDF, JSON, Excel, and CSV format. The li
 -   Last updated by
 -   Updated
 
-For information on AI Gateway tab on the AI Control Tower Home, see [AI Gateway tab in AI Control Tower](ai-gateway-tab.md)
+For information on AI Gateway tab on the AI Control Tower Home, see [AI Gateway tab in AI Control Tower](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-tab.md)
 

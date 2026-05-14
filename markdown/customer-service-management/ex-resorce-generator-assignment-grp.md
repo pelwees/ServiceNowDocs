@@ -46,9 +46,9 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
 ## Result
 
-![Resource generator configuration for Assignment group for router issue RG, using a decision table with inputs for Problem (case short description) and Product (case product display name).](../image/ex-config-rg-assg-grp.png)
+![Resource generator configuration for Assignment group for router issue RG, using a decision table with inputs for Problem (case short description) and Product (case product display name).](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/ex-config-rg-assg-grp.png)
 
 ## What to do next
 
-[Create a field recommendation](ex-create-field-recommendation-assg-grp.md) that you can use while creating recommended action for recommending assignment group field value.
+[Create a field recommendation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-field-recommendation-assg-grp.md) that you can use while creating recommended action for recommending assignment group field value.
 

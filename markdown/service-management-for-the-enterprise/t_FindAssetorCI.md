@@ -32,9 +32,9 @@ Role required: none
 
 3.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](../reference/r_WorkbenchConfiguration.md).
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../reference/r_WorkbenchConfiguration.md).
 
-    ![In this figure, a facilities map image displays a building floor and its designated spaces.](../image/CampusFloorSelection.png)
+    ![In this figure, a facilities map image displays a building floor and its designated spaces.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/CampusFloorSelection.png)
 
 4.  On the Spaces tab, enter the asset or CI in the search field.
 
@@ -69,9 +69,9 @@ Click the link for the asset or CI. The details for that asset or CI open in a s
 
 </td><td>
 
-Click the pin ![pin icon](../image/PinIcon.png) icon, beside the link for the asset or CI.
+Click the pin ![pin icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/PinIcon.png) icon, beside the link for the asset or CI.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Interactive facility maps](../concept/c_InteractiveFacilityMaps.md)
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_InteractiveFacilityMaps.md)
 

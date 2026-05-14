@@ -25,14 +25,14 @@ Role required: agent\_client\_collector\_admin
 
     The **Agent Health Dashboard** page appears and displays information about the configured agents in the dashboard widgets.
 
-    ![Agent Health Dashboard page](../image/ACC-Health-Dashboard.png)
+    ![Agent Health Dashboard page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Health-Dashboard.png)
 
     In the **Agents by Data Collection Status** widget, **Off \(manual\)** indicates agents manually turned off \(for maintenance or troubleshooting\), and **Off \(auto\)** indicates agents automatically turned off \(after crossing the CPU usage threshold\).
 
-2.  Click the refresh arrow icon ![Refresh icon](../image/acc-refresh-icon.png) on the top right corner of a widget to refresh its data, as needed.
+2.  Click the refresh arrow icon ![Refresh icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-refresh-icon.png) on the top right corner of a widget to refresh its data, as needed.
 
-    You can refresh all widgets on the dashboard by selecting the form header icon ![Form header icon](../image/acc-hamburger-icon.png) and then selecting **Refresh**.
+    You can refresh all widgets on the dashboard by selecting the form header icon ![Form header icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-hamburger-icon.png) and then selecting **Refresh**.
 
 
-**Parent Topic:**[Deploying Agent Client Collector on servers](../concept/acc-server-deployment.md)
+**Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-server-deployment.md)
 

@@ -21,7 +21,7 @@ Redirection to stack details via the **My Requests** tab in Employee Center enab
 
 The following example shows how you can redirect to the **My Stacks** tab from the **My Requests** tab, instead of looking at a comprehensive list of stacks on the Stacks homepage.
 
-![Redirection to your stacks.](../image/redirection-to-my-stacks.png "Redirection to My Stacks")
+![Redirection to your stacks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/../image/redirection-to-my-stacks.png "Redirection to My Stacks")
 
-**Parent Topic:**[Exploring the My Stacks tab](manage-stacks.md)
+**Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 

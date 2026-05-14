@@ -78,5 +78,5 @@ The System Admin \(admin\) assigns the following roles:
 5.  Click **Install**.
 
 
-**Parent Topic:**[NIST CSF Use Case Accelerator](../concept/grc-csf-usecase-accelerator.md)
+**Parent Topic:**[NIST CSF Use Case Accelerator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/grc-csf-usecase-accelerator.md)
 

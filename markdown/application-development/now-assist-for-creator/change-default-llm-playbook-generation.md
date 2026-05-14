@@ -41,5 +41,5 @@ Choose either the NowLLM/Mixtral model or OpenAI's GPT-4o as the default LLM to 
 
 Your default LLM has been changed.
 
-**Parent Topic:**[Turn on the playbook generation skill](turn-on-playbook-generation-skill.md)
+**Parent Topic:**[Turn on the playbook generation skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/turn-on-playbook-generation-skill.md)
 

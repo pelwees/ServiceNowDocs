@@ -55,7 +55,7 @@ The request is auto-approved.
 
 </td><td>
 
-![Time-off request auto-approval](../image/timeoff-request-autoapprove.png)
+![Time-off request auto-approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/timeoff-request-autoapprove.png)
 
 </td></tr><tr><td>
 
@@ -64,14 +64,14 @@ The request is auto-approved.
 </td><td>
 
 Enter the due date to approve the request.1.  Open **Else** &gt; **Ask For Approval** flow.
-2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](../image/down-arrow-icon.png)\).
+2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/down-arrow-icon.png)\).
 3.  In the **Due Date** script window, update the value in the **dueDate.addDaysUTC\(-2\);** parameter to the number of days you want to set the due date for approval.
 4.  Select **Done**.
 
 
 </td><td>
 
-![Time-off ask for approval flow](../image/time-off-ask-approval.png)
+![Time-off ask for approval flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/time-off-ask-approval.png)
 
 </td></tr></tbody>
 </table>3.  Configure the due date for the Swap request approval flow.
@@ -98,7 +98,7 @@ The request is auto-approved.
 
 </td><td>
 
-![Shift-swap auto approval](../image/shift-swap-auto-approval.png)
+![Shift-swap auto approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/shift-swap-auto-approval.png)
 
 </td></tr><tr><td>
 
@@ -109,26 +109,26 @@ The request is auto-approved.
 Enter the due date for the requestee agent to approve.
 
 1.  Open **Else** &gt; **Ask For Approval**- Ask for Approval from Requestee Agent flow.
-2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](../image/down-arrow-icon.png)\).
+2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/down-arrow-icon.png)\).
 3.  In the **Due Date** script window, updated the value in the **dueDate.addDaysUTC\(-2\);** parameter to the number of days you want to set the due date for approval.
 4.  Select **Done**.
  Enter the due date to approve the request.
 
 1.  Open **Ask For Approval** - Ask for an approval from Managers and additional managers of both the agents flow.
-2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](../image/down-arrow-icon.png)\).
+2.  In the **Due Date** field, select the down arrow icon \(![Down arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/down-arrow-icon.png)\).
 3.  In the **Due Date** script window, updated the value in the **dueDate.addDaysUTC\(-2\);** parameter to the number of days you want to set the due date for approval.
 4.  Select **Done**.
 
 
 </td><td>
 
-Enter the due date for the requestee agent to approve.![Shift swap request approval](../image/shift-swap-request-approval.png)
+Enter the due date for the requestee agent to approve.![Shift swap request approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/shift-swap-request-approval.png)
 
- Enter the due date to approve the request.![Swap request manager approval](../image/swap-request-manager-approval.png)
+ Enter the due date to approve the request.![Swap request manager approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/swap-request-manager-approval.png)
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-scheduling-configurable-workforce-optimization-itsm.md)
 
 **Related topics**  
 

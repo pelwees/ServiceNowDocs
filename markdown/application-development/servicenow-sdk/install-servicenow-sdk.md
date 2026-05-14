@@ -74,7 +74,7 @@ If you haven't added authentication credentials and an alias on your system yet,
 npx @servicenow/sdk auth --add <instance>
 ```
 
- For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](../concept/authenticate-instance-now-sdk.md).
+ For more information, see [Authenticating to a ServiceNow instance with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/authenticate-instance-now-sdk.md).
 
 </td></tr><tr><td id="d238989e248">
 
@@ -88,20 +88,20 @@ If you have added authentication credentials, install the ServiceNow SDK in new 
 npx @servicenow/sdk init
 ```
 
- For more information, see [Create an application with the ServiceNow SDK](create-application-now-sdk.md) or [Convert an application with the ServiceNow SDK](convert-application-now-sdk.md).
+ For more information, see [Create an application with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/create-application-now-sdk.md) or [Convert an application with the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/convert-application-now-sdk.md).
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-Install the ServiceNow Fluent Language server to get language processing and validation for ServiceNow Fluent in Visual Studio Code. For more information, see [Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md).
+Install the ServiceNow Fluent Language server to get language processing and validation for ServiceNow Fluent in Visual Studio Code. For more information, see [Install the ServiceNow Fluent Language server in Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/install-fluent-language-extension-vs-code.md).
 
-**Parent Topic:**[Configuring the ServiceNow SDK](../concept/configuring-servicenow-sdk.md)
+**Parent Topic:**[Configuring the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/../concept/configuring-servicenow-sdk.md)
 
 **Related topics**  
 
 
-[Upgrade the ServiceNow SDK](upgrade-servicenow-sdk.md)
+[Upgrade the ServiceNow SDK](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/upgrade-servicenow-sdk.md)
 
-[Install the ServiceNow Fluent Language server in Visual Studio Code](install-fluent-language-extension-vs-code.md)
+[Install the ServiceNow Fluent Language server in Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-sdk/install-fluent-language-extension-vs-code.md)
 

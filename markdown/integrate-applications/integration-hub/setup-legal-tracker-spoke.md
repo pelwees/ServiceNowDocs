@@ -65,7 +65,7 @@ Legal Tracker is registered as an OAuth provider, which enables the instance to 
 
 ### What to do next
 
-[Integrate the Legal Tracker spoke with your ServiceNow instance](setup-legal-tracker-spoke.md#).
+[Integrate the Legal Tracker spoke with your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-legal-tracker-spoke.md#).
 
 ## Integrate the Legal Tracker spoke with your ServiceNow instance
 

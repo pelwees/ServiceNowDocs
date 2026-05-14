@@ -42,5 +42,5 @@ When you finish editing a form, you mark it as ready, which puts it in the Publi
 
 If you edit a form that’s been published, Creator Studio creates a copy of the form, and puts the copy in the Draft state so you can work on it. The published version of the form remains available in your online catalog until you submit the revised copy of the form, which will replace the published form.
 
-**Parent Topic:**[Working with forms in Creator Studio](creator-studio-work-with-forms.md)
+**Parent Topic:**[Working with forms in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-work-with-forms.md)
 

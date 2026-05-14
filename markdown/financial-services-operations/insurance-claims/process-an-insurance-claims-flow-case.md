@@ -51,7 +51,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
--   Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+-   Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 -   On the **Lists** tab, under **Insurance claim cases** \(or the list category that is specific to your custom workflow\), open the case list.
 -   In the list, select the case that contains the task.
 -   If the claim case is in the New status or not assigned to you, select **Accept** to be able to work on it.
@@ -65,7 +65,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
--   Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+-   Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 -   On the **Lists** tab, under **Insurance claim cases** \(or the list category that is specific to your custom workflow\), select **Assigned to me**.
 -   In the list, select the case that you want to open.
 -   If the claim case is in the New status, select **Accept** to be able to work on it.
@@ -78,7 +78,7 @@ Select an active case from the My pending tasks or My open claims list.
 
 </td><td>
 
--   Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+-   Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 -   On the **Lists** tab, under **Insurance claim tasks** \(or the list category that is specific to your custom workflow\), select **All**.
 -   In the list, select the task that you want to open.
 

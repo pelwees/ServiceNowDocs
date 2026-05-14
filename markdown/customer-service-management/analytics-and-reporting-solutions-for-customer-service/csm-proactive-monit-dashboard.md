@@ -19,13 +19,13 @@ The Proactive Customer Service - Advanced dashboard helps customer service manag
 
 To access the new Proactive Customer Service- Advanced dashboard, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **-Dashboard**, and select the Proactive Customer Service-Advanced dashboard. Upgrade customers can view the Proactive Customer Service Operations dashboard but should use the new Proactive Customer Service - Advanced dashboard.New customers on the Orlando and later releases can only view the Proactive Customer Service - Advanced dashboard.
 
-![Tab displaying different proactive case records and graph of affected customers per month from the Proactive Customer Service - Advanced dashboard.](../image/proactive-dashboard-overview-tab.png "Overview tab")
+![Tab displaying different proactive case records and graph of affected customers per month from the Proactive Customer Service - Advanced dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/proactive-dashboard-overview-tab.png "Overview tab")
 
-![Tab displaying percentage of acknowledged alerts from the Proactive Operations - Event Management.](../image/proactive-dashboard-event-management.png "Proactive Operations - Event Management tab")
+![Tab displaying percentage of acknowledged alerts from the Proactive Operations - Event Management.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/proactive-dashboard-event-management.png "Proactive Operations - Event Management tab")
 
 **Note:** The Proactive Operations - Event Management tab is only visible if the Proactive Customer Service Operations plugin \(com.snc.proactive\_cs\_itom\) is activated.
 
-![Tab displaying graphs and trends based on case outages and top impacted customers from the Proactive Customer Service - Advanced dashboard.](../image/proactive-dashboard-outages-tab.png "Outages tab")
+![Tab displaying graphs and trends based on case outages and top impacted customers from the Proactive Customer Service - Advanced dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/../image/proactive-dashboard-outages-tab.png "Outages tab")
 
 ## End user and roles
 

@@ -23,9 +23,9 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Workspace**
 
-2.  Select the **Planning calendar** icon \(![Planning calendar icon](../image/show-schedule-new.png)\).
+2.  Select the **Planning calendar** icon \(![Planning calendar icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/show-schedule-new.png)\).
 
-3.  On the calendar, select the Show settings icon \(![gear icon](../image/IconPersonalizeList.png)\).
+3.  On the calendar, select the Show settings icon \(![gear icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/IconPersonalizeList.png)\).
 
 4.  In the **Settings** pane, fill in the fields.
 

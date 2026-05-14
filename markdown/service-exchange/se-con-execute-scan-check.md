@@ -60,5 +60,5 @@ Role required: admin \(sb\_admin\)
 **Related topics**  
 
 
-[Service Exchange Center](../concept/se-se-center.md)
+[Service Exchange Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-exchange/../concept/se-se-center.md)
 

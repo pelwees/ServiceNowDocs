@@ -73,5 +73,5 @@ fetch-certificates-from-mid
 Status of whether the public certificates are retrieved from the MID Server for plugin asset validation. Default value: True
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

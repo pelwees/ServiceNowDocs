@@ -15,7 +15,7 @@ The stepper component on the **Overview** tab shows the progression of the state
 
 The numerical value of the current state of the record is highlighted in the stepper component for reference as shown in th example.
 
-![Highlighted state in the stepper component.](../image/bcm-record-with-record-template.png)
+![Highlighted state in the stepper component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/bcm-record-with-record-template.png)
 
 A typical record moves through progression of these states:
 
@@ -28,5 +28,5 @@ A typical record moves through progression of these states:
 
 If a record requires further updates and it is rejected by the approver of the record, it is set to the **Returned** state by the application software. When the record owner updates the details of the record, it follows the approval workflow again.
 
-**Parent Topic:**[GRC record page template for BCM records](using-grc-record-page-template-for-bcm.md)
+**Parent Topic:**[GRC record page template for BCM records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-grc-record-page-template-for-bcm.md)
 

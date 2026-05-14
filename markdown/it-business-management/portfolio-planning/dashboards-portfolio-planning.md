@@ -29,7 +29,7 @@ You can use the default dashboard or create your own dashboards to monitor perfo
 -   View relevant data by applying filters directly within a dashboard.
 -   Any filters applied are saved as part of user personalization and are available the next time you log in.
 
-For guidance on using and managing dashboards in the Portfolio Planning Workspace, see [Using dashboards in Portfolio Planning](using-dashboards-in-ppw.md).
+For guidance on using and managing dashboards in the Portfolio Planning Workspace, see [Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-dashboards-in-ppw.md).
 
-**Parent Topic:**[Exploring Portfolio Planning](../../portfolio-planning/concept/exploring-portfolio-planning.md)
+**Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../portfolio-planning/concept/exploring-portfolio-planning.md)
 

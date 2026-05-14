@@ -98,7 +98,7 @@ The priority score reflects the role of the alert. The priority score is higher 
 
 -   **Weighted value for each category**
 
-    Each category has its own placement in the alert priority score, according to its order and limit. You can configure the order and limit, as described in [Modify the alert priority score](alert-priority.md#section_modify), below. There are only positive numbers.
+    Each category has its own placement in the alert priority score, according to its order and limit. You can configure the order and limit, as described in [Modify the alert priority score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-priority.md#section_modify), below. There are only positive numbers.
 
     All category values are mapped from the **em\_alert\_priority\_category\_mapping** table, except for the following:
 
@@ -285,5 +285,5 @@ You can change the importance of some categories of the alert priority, by modif
     Navigate to the **em\_alert\_priority\_ci\_type** table. You can add a new CI, for example, `DualCoreCPU` and in the **Priority** column, you can change the priority of the required category. In addition, you can edit existing Type and also change its priority value. This table is used to map the value of each CI type, for example, a mainframe that is CI\_type: cmdb\_ci\_mainframe might have a priority of 80, while a server with CI type: cmdb\_ci\_server might have a priority of 60. The mapping enables you to customize the priority of the various Ci types.
 
 
-**Parent Topic:**[Manage and monitor alerts](c_EMAlert.md)
+**Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 

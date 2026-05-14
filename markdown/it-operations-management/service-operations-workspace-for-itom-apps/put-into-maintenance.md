@@ -29,7 +29,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 3.  Select the alert row check box.
 
-    **Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](../image/el-select-all.png)
+    **Note:** You can perform the action on up to 1,000 alerts simultaneously by selecting the **Select All** check box in the Active alerts list. ![Select All check box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/el-select-all.png)
 
 4.  From the **Close** drop-down list, select **Put in Maintenance**.
 

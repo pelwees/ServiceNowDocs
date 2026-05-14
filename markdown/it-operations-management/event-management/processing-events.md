@@ -21,5 +21,5 @@ Event collection configuration via a MID Server, script, SNMP trap collector, or
 
 An Event rule, alert binding, or event field mapping configuration for processing events from various sources. When a package of events that contains events with a custom \(non-supported\) state is processed, the events with the custom state are not processed.
 
-For more information, see [Exploring Event Management](exploring-event-management.md).
+For more information, see [Exploring Event Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/exploring-event-management.md).
 

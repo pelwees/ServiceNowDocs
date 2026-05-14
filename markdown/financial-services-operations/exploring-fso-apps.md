@@ -33,13 +33,13 @@ Key features of the FSO include:
 
 ## Financial Services Operations users
 
-For more information on user roles in FSO, see [User roles and FSO Business rules](../reference/fso-core-roles.md).
+For more information on user roles in FSO, see [User roles and FSO Business rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../reference/fso-core-roles.md).
 
 ## Financial Services Operations workflow
 
 The following example shows a sample Financial Services Operations end-to-end workflow describing different roles and stages handled by these roles starting from creating the case and related tasks through the completion of the case.
 
-![Workflow diagram to illustrate the Financial Services Operations workflow.](../image/exploring-fso-workflow.png)
+![Workflow diagram to illustrate the Financial Services Operations workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../image/exploring-fso-workflow.png)
 
 ## Licensing
 

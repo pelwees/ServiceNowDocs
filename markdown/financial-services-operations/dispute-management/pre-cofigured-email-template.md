@@ -70,7 +70,7 @@ Template that notifies users that their dispute submission is denied.
 </td></tr></tbody>
 </table>The following example shows a sample email template.
 
-![Sample email acknowledgement letter.](../image/Email_ack_submission.jpg)
+![Sample email acknowledgement letter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/Email_ack_submission.jpg)
 
-**Parent Topic:**[Dispute manager workspace](workspace-for-dispute-manager.md)
+**Parent Topic:**[Dispute manager workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/workspace-for-dispute-manager.md)
 

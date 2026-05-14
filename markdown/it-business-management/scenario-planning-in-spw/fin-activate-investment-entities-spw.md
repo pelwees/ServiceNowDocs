@@ -29,6 +29,6 @@ Role required: admin
 
 4.  Set the Active field to **true** for Demand, Epic, and Project fields.
 
-    ![Enable investment entities for planning items.](../images/fin-enable-investment-entities.png)
+    ![Enable investment entities for planning items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-enable-investment-entities.png)
 
 

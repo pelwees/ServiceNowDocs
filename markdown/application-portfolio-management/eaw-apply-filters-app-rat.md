@@ -21,13 +21,13 @@ Role required: sn\_apm.apm\_read
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
-3.  On the Bubble chart or List view page, select the Application rationalization filter icon \(![Portfolio overview and health filters icon.](../../image/icon-filter.png)\).
+3.  On the Bubble chart or List view page, select the Application rationalization filter icon \(![Portfolio overview and health filters icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/icon-filter.png)\).
 
     The Application rationalization filter pop-up window appears.
 
-    ![Application rationalization filter pop-up window.](../../image/eaw-image/application-rationalization-filter.png)
+    ![Application rationalization filter pop-up window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/application-rationalization-filter.png)
 
 4.  To filter business applications based on specific data, select any of the following tabs:
 
@@ -40,7 +40,7 @@ Role required: sn\_apm.apm\_read
 
     You can add multiple conditions.
 
-    ![Application rationalization filter pop-up window with field drop-down displayed.](../../image/eaw-image/application-rationalization-filter-dropdown.png)
+    ![Application rationalization filter pop-up window with field drop-down displayed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/application-rationalization-filter-dropdown.png)
 
 6.  Select **Update**.
 
@@ -52,12 +52,12 @@ Role required: sn\_apm.apm\_read
     -   The List view page displays all business applications, whereas the Bubble chart page displays only assessed applications. As a result, filter results may differ between the two pages.
     -   When you apply a business capability-based filter, business applications associated with the selected capability and also its child capabilities are displayed.
 
-**Parent Topic:**[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+**Parent Topic:**[Working with application rationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-app-rat.md)
 
 **Related topics**  
 
 
-[Rationalization of business applications](../../concept/eaw-concept/eaw-rationalize-business-applications.md)
+[Rationalization of business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-rationalize-business-applications.md)
 
-[Working with application rationalization](../../concept/eaw-concept/eaw-work-with-app-rat.md)
+[Working with application rationalization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-app-rat.md)
 

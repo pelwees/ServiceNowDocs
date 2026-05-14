@@ -31,7 +31,7 @@ Role required: impact\_platform\_owner or admin
 
 2.  In the Your Impact Squad widget, select **View Squad access to your instance**.
 
-    ![Squad access tile on the Impact homepage](../image/squad-access.png)
+    ![Squad access tile on the Impact homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/squad-access.png)
 
     Squad access to your instance displays Impact Squad member information and access fields.
 
@@ -92,16 +92,16 @@ Date access to the instance expires for the squad member.
 
 4.  Select to **Approve**, **Reject**, or **Remove** access.
 
-    ![Dialog box with the Approve or Reject buttons.](../image/grant-squad-access.png)
+    ![Dialog box with the Approve or Reject buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/grant-squad-access.png)
 
 
 ## What to do next
 
-Refer to [Using Impact](../concept/impact-in-app.md) to get started with the Impact Store Application.
+Refer to [Using Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/impact-in-app.md) to get started with the Impact Store Application.
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Initiate data migration from IDI](initiate-migration-idi.md)
+**Previous topic:**[Initiate data migration from IDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/initiate-migration-idi.md)
 
-**Next topic:**[Activate Now Assist skills in Now Assist for Impact](../concept/activate-now-assist-skills-in-now-assist-for-impact_0.md)
+**Next topic:**[Activate Now Assist skills in Now Assist for Impact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/activate-now-assist-skills-in-now-assist-for-impact_0.md)
 

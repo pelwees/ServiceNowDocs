@@ -35,5 +35,5 @@ Role required: admin
 **Related topics**  
 
 
-[Healthcare and Life Sciences Service Management Core properties](../reference/hcls-properties.md)
+[Healthcare and Life Sciences Service Management Core properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../reference/hcls-properties.md)
 

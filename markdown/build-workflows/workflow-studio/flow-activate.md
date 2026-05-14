@@ -41,5 +41,5 @@ After testing that your flow runs properly, activate it to make it available to 
     -   The flow might be marked read-only to protect it.
     -   The flow might require developer permissions that you don’t currently have.
 
-**Parent Topic:**[Create a flow in Workflow Studio](create-flow.md)
+**Parent Topic:**[Create a flow in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-flow.md)
 

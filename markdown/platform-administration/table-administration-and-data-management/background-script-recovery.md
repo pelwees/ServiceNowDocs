@@ -34,5 +34,5 @@ If you are still in the **Scripts-Background** module after executing a script, 
 3.  In the **Related Links**, click **Rollback Script Execution**.
 
 
-**Parent Topic:**[Roll back and delete recovery](../concept/rollback-delete-recovery.md)
+**Parent Topic:**[Roll back and delete recovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/../concept/rollback-delete-recovery.md)
 

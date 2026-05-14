@@ -21,7 +21,7 @@ Verify the following:
 
 -   The active application scope is Service Graph Connector \(SGC\) for Meraki.
 -   The SGC for Cisco Meraki has been installed.
--   The initial Cisco Meraki instance has been set up. For more information, see [Set up the Service Graph Connector for Cisco Meraki schedule](set-up-cisco-meraki.md).
+-   The initial Cisco Meraki instance has been set up. For more information, see [Set up the Service Graph Connector for Cisco Meraki schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-cisco-meraki.md).
 -   The associated MID Server has been set up and validated. For more information, see [Configuring MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md).
 
 Role required: TSOM Visibility admin
@@ -94,7 +94,7 @@ You can configure additional Cisco Meraki instances or reuse the same Cisco Mera
 
     1.  Select **Configure** and fill in the fields.
 
-        For more information, see [Set up the Service Graph Connector for Cisco Meraki schedule](set-up-cisco-meraki.md).
+        For more information, see [Set up the Service Graph Connector for Cisco Meraki schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-cisco-meraki.md).
 
     2.  In the **Use connection** field, choose the new Meraki instance.
 

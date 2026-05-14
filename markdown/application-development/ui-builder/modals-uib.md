@@ -29,21 +29,21 @@ A modal is a screen that appears when an event handler is triggered by an event 
 
 2.  Open an experience to work in or create an experience by selecting **Create** &gt; **Experience**.
 
-    See [Configure how users interact with your applications in UI Builder](../concept/work-experiences.md) for more information on creating experiences.
+    See [Configure how users interact with your applications in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/work-experiences.md) for more information on creating experiences.
 
 3.  Open or create a page or page variant.
 
-    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](create-page.md).
+    For more information about how to create a page in UI Builder, see [Create a page in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/create-page.md).
 
 4.  Add a modal to the page.
 
     1.  Select the **+** icon in the content tree next to **Modals and popovers**.
 
-        ![Arrow pointing to + next to Modals and popovers line item in content tree.](../image/add-modal-selection.png)
+        ![Arrow pointing to + next to Modals and popovers line item in content tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-modal-selection.png)
 
     2.  Choose a modal type such as **Confirm**.
 
-        ![Modal options, with Confirm modal highlighted.](../image/add-modal-options.png)
+        ![Modal options, with Confirm modal highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/add-modal-options.png)
 
         |Modal type|Description|
         |----------|-----------|
@@ -52,7 +52,7 @@ A modal is a screen that appears when an event handler is triggered by an event 
         |Confirm and destroy|A Confirm and destroy modal is more directive, usually relating to deleting or erasing content. It lets the user know the seriousness of an action, and asks them whether they want to proceed with the action.|
         |Custom|The Custom modal uses layouts to let you fully design what information you want in the modal. Layouts also decide where the information sits within the modal screen. You can use Cascading Style Sheets \(CSS\) styling to change the visual look of the modal, such as background color.|
         |iframe|Use iframe to bring content into your modal using existing iframe content from a URL and data.|
-        |Modal viewport|Dynamically pass content into your viewport modal through an event binding using a client script. See [Bind an event to a component](bind-event-component.md) for more information on binding an event to a component.|
+        |Modal viewport|Dynamically pass content into your viewport modal through an event binding using a client script. See [Bind an event to a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/bind-event-component.md) for more information on binding an event to a component.|
 
     3.  Configure the modals as shown in the table.
 
@@ -68,7 +68,7 @@ Configuration
 
 </th></tr></thead><tbody><tr><td>
 
-Alert![Alert modal configure options tab.](../image/modal-alert-config.png)
+Alert![Alert modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-alert-config.png)
 
 </td><td>
 
@@ -84,7 +84,7 @@ Alert![Alert modal configure options tab.](../image/modal-alert-config.png)
 
 </td></tr><tr><td>
 
-Confirm![Confirm modal configure options tab.](../image/modal-confirm-config.png)
+Confirm![Confirm modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-confirm-config.png)
 
 </td><td>
 
@@ -99,11 +99,11 @@ Confirm![Confirm modal configure options tab.](../image/modal-confirm-config.png
 -   Select **Events** &gt; **Add event mapping** to add an event handler to the modal.
 -   Select an event handler to apply to the modal. Choose from inherited or page-level event handlers. Event handlers perform an action such as open or close a modal. Depending on the modal type, you can refresh data for the App Shell data source, the user session for GraphQL, or a user session for Transform.
 
-![Image shows the event handler options for a modal.](../image/modal-event-handler.png)
+![Image shows the event handler options for a modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-event-handler.png)
 
 </td></tr><tr><td>
 
-Confirm or destroy![Confirm and destroy modal configure options tab.](../image/modal-confirm-destroy-config.png)
+Confirm or destroy![Confirm and destroy modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-confirm-destroy-config.png)
 
 </td><td>
 
@@ -118,25 +118,25 @@ Confirm or destroy![Confirm and destroy modal configure options tab.](../image/m
 -   Select **Events** &gt; **Add event mapping** to add an event handler to the modal.
 -   Select an event handler to apply to the modal. Choose from inherited or page-level event handlers. Event handlers perform an action such as open or close a modal. Depending on the modal type, you can refresh data for the App Shell data source, the user session for GraphQL, or a user session for Transform.
 
-![Event handler options for a modal.](../image/modal-event-handler.png)
+![Event handler options for a modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-event-handler.png)
 
 </td></tr><tr><td>
 
-Custom![Custom modal configure options tab.](../image/modal-custom-config.png)
+Custom![Custom modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-custom-config.png)
 
 </td><td>
 
 -   Choose a layout for your modal. You can use a flexbox or CSS grid layout. These layouts let you add content in your modal however you want.
--   Use styling options to change how your modal looks. You can apply any standard CSS styling to your modal, such as background color and padding. For more information about styling, see [Change the default appearance of components](add-styling-to-component.md#).
+-   Use styling options to change how your modal looks. You can apply any standard CSS styling to your modal, such as background color and padding. For more information about styling, see [Change the default appearance of components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-styling-to-component.md#).
 -   Add components to the containers within the custom modal.
 -   Select **Events** &gt; **Add event mapping** to add an event handler to the modal.
 -   Select an event handler to apply to the modal. Choose from inherited or page-level event handlers. Event handlers perform an action such as open or close a modal. Depending on the modal type, you can refresh data for the App Shell data source, the user session for GraphQL, or a user session for Transform.
 
-![Image shows the event handler options for a modal.](../image/modal-event-handler.png)
+![Image shows the event handler options for a modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-event-handler.png)
 
 </td></tr><tr><td>
 
-iframe![Iframe modal configure options tab.](../image/modal-iframe-config.png)
+iframe![Iframe modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-iframe-config.png)
 
 </td><td>
 
@@ -149,11 +149,11 @@ iframe![Iframe modal configure options tab.](../image/modal-iframe-config.png)
 -   Select **Events** &gt; **Add event mapping** to add an event handler to the modal.
 -   Select an event handler to apply to the modal. Choose from inherited or page-level event handlers. Event handlers perform an action such as open or close a modal. Depending on the modal type, you can refresh data for the App Shell data source, the user session for GraphQL, or a user session for Transform.
 
-![Image shows the event handler options for a modal.](../image/modal-event-handler.png)
+![Image shows the event handler options for a modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-event-handler.png)
 
 </td></tr><tr><td>
 
-Modal viewport![Modal viewport modal configure options tab.](../image/modal-modal-viewport-config.png)
+Modal viewport![Modal viewport modal configure options tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-modal-viewport-config.png)
 
 </td><td>
 
@@ -164,11 +164,11 @@ Modal viewport![Modal viewport modal configure options tab.](../image/modal-moda
 -   Select **Events** &gt; **Add event mapping** to add an event handler to the modal.
 -   Select an event handler to apply to the modal. Choose from inherited or page-level event handlers. Event handlers perform an action such as open or close a modal. Depending on the modal type, you can refresh data for the App Shell data source, the user session for GraphQL, or a user session for Transform.
 
-![Image shows the event handler options for a modal.](../image/modal-event-handler.png)
+![Image shows the event handler options for a modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-event-handler.png)
 
 -   Select the viewport component within the modal viewport.
 
-![Arrow pointing to a viewport in the content tree.](../image/uib-modal-viewport-content-tree.png)
+![Arrow pointing to a viewport in the content tree.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/uib-modal-viewport-content-tree.png)
 
 -   Select **+ Add** in the Configure tab to add a page collection to the viewport.
 -   Select a page collection from the list and click **Add**.
@@ -177,13 +177,13 @@ Modal viewport![Modal viewport modal configure options tab.](../image/modal-moda
 </td></tr></tbody>
 </table>5.  Add a component to your page to trigger the modal you just added, such as a button component.
 
-    See [Add and configure components](add-components.md#) for more information.
+    See [Add and configure components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/add-components.md#) for more information.
 
 6.  Select the **Events** tab in the configuration panel.
 
 7.  Select **+ Add event handler**.
 
-    ![Arrow pointing to the add event handler option for the button component.](../image/modal-button-event.png)
+    ![Arrow pointing to the add event handler option for the button component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-button-event.png)
 
 8.  Select **Open or close modal dialog**.
 
@@ -191,16 +191,16 @@ Modal viewport![Modal viewport modal configure options tab.](../image/modal-moda
 
 10. Click **Add**.
 
-    ![Event handler configuration screen showing the open or close modal dialog settings.](../image/modal-open-button-event.png)
+    ![Event handler configuration screen showing the open or close modal dialog settings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-open-button-event.png)
 
 11. When you finish configuring the modal, close it.
 
     Notice in the content tree that the modals you create sit above the body of your page structure.
 
-    ![Content tree with modals listed.](../image/modal-content-tree.png)
+    ![Content tree with modals listed.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/modal-content-tree.png)
 
 12. Click **Save**.
 
 
-**Parent Topic:**[Create modals in UI Builder](../concept/Modals-overview.md)
+**Parent Topic:**[Create modals in UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../concept/Modals-overview.md)
 

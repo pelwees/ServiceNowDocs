@@ -17,11 +17,11 @@ Define the contract repository where the contracts will be stored and map the da
 
 ## Before you begin
 
-A contract template and a template rule that will pick the template when the user submits a contract or amendment request must exist. For more information, see [Configure templates for a contract and amendment request in Contract Management Pro](../concept/cncore-document-templates.md) and [Configure contract template rules](cncore-config-template-rules.md).
+A contract template and a template rule that will pick the template when the user submits a contract or amendment request must exist. For more information, see [Configure templates for a contract and amendment request in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-document-templates.md) and [Configure contract template rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-template-rules.md).
 
 You can distinguish configurations for an amendment request from those for a new contract by using the **Request type** selection.
 
-If you want the variables related to the contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](cncore-add-cmr-condtion-build.md)
+If you want the variables related to the contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
 For a request:
 
@@ -29,7 +29,7 @@ For a request:
 -   For a contract request, a new contract repository record is created. According to field and variables mapping, the values are populated into the contract document.
 -   For an amendment request, a new contract repository record isn’t created. Instead, the existing record is updated by overriding values for fields and variables that have a defined mapping. If a mapping doesn’t exist for a specific field, its value remains unchanged. For example, to update the contract end date through an amendment, the mapping for the end date field must exist.
 
-    If you want to copy fields with empty values and override existing values in the contract document, select the **Allow empty value flag** when configuring the mappings.![Set the flag Allow empty value for copying empty values](../image/cncore-amend-allow-empty-value.png)
+    If you want to copy fields with empty values and override existing values in the contract document, select the **Allow empty value flag** when configuring the mappings.![Set the flag Allow empty value for copying empty values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cncore-amend-allow-empty-value.png)
 
 
 Role required: sn\_cm\_core.contract\_config
@@ -50,13 +50,13 @@ Third party contracts already have a default contract configuration in the base 
 
 3.  On the Contract Configuration form, fill in the fields.
 
-    For more information, see [Contract Configuration form](../reference/cncore-contract-config-form.md).
+    For more information, see [Contract Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-contract-config-form.md).
 
 4.  Select **Save**.
 
 5.  In the Contract Repository Mappings related list, select **New**.
 
-    ![Contract configuration with repository mapping](../image/cmpro-contract-conf.png "Contract configuration")
+    ![Contract configuration with repository mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-contract-conf.png "Contract configuration")
 
 6.  In the **Mapping type**, select the type of mapping you want to do.
 

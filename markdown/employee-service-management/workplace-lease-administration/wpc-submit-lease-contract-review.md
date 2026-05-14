@@ -36,12 +36,12 @@ Role required: sn\_wsd\_la.workplace\_central\_user, sn\_wsd\_la.manager or sn\_
 
 An email message is sent to the selected approver and the contract substate changes to Under Review.
 
-**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](../concept/working-with-lease-administration.md)
+**Parent Topic:**[Working with Workplace Lease Administration from the Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../concept/working-with-lease-administration.md)
 
 **Related topics**  
 
 
-[Create workplace contracts in Workplace Central](wpc-create-lease-contracts.md)
+[Create workplace contracts in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-create-lease-contracts.md)
 
-[Approve or reject workplace contract in Workplace Central](wpc-approve-lease-contract.md)
+[Approve or reject workplace contract in Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-approve-lease-contract.md)
 

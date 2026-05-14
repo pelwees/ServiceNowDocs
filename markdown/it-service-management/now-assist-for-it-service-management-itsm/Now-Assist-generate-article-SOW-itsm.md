@@ -49,7 +49,7 @@ The Knowledge generation skill is turned on by default. The skill will be automa
 
 To enable an agent to see the Now Assist experience on the Create Article page, configure the following knowledge base generation criteria:
 
--   Install the knowledge skills. For more information, see [Configure Now Assist for IT Service Management \(ITSM\)](../../now-assist-itsm/task/configure-now-assist-for-itsm.md).
+-   Install the knowledge skills. For more information, see [Configure Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/task/configure-now-assist-for-itsm.md).
 -   Make sure that the following criteria are in place in the Now Assist Admin console:
     -   Specify the table record and input fields.
     -   Specify the conditions for the skill availability from the list of attributes.
@@ -70,7 +70,7 @@ Role required: itil
 
 3.  Create the article by selecting the **Create knowledge** option from the UI action drop-down menu in the incident.
 
-    ![Now assist in knowledge article option in knowledge article option.](../../now-assist-itsm/image/now-assist-itsm-knowledge-option.png)
+    ![Now assist in knowledge article option in knowledge article option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-knowledge-option.png)
 
     **Note:**
 
@@ -85,23 +85,23 @@ Role required: itil
     -   If you encounter a duplicate **Create Knowledge** button, see the [Resolving duplicate Create Knowledge actions](https://www.servicenow.com/community/itsm-articles/issue-and-resolution-two-quot-create-knowledge-quot-actions-in/ta-p/3418702) community article for the resolution.
 4.  In the Knowledge article interceptor page, select a knowledge base and an article template.
 
-    Knowledge article interceptor page for Service Operation Workspace![Knowledge interceptor page in SOW](../../now-assist-itsm/image/now-assist-itsm-kb-interceptor-sow.png)
+    Knowledge article interceptor page for Service Operation Workspace![Knowledge interceptor page in SOW](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-kb-interceptor-sow.png)
 
-    Knowledge article interceptor page in Core UI![Knowledge interceptor page in UI16](../../now-assist-itsm/image/now-assist-itsm-kb-interceptor-ui16.png)
+    Knowledge article interceptor page in Core UI![Knowledge interceptor page in UI16](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-kb-interceptor-ui16.png)
 
 5.  Select **Next**.
 
     **Note:** When you use the standard template, the content from the incident's **Description**, **Resolution**, and **Additional comments** fields are populated in the **Issue**, **Resolution**, and **Additional comments** sections respectively in the article body of the standard template.
 
-    ![Fields populated in the article body of the standard template](../../now-assist-itsm/image/now-assist-itsm-standard-template-art-body1.png)
+    ![Fields populated in the article body of the standard template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-standard-template-art-body1.png)
 
 6.  In the Use AI to draft this article? modal, choose to write the article yourself, or draft an article with Now Assist.
 
-    ![Now Assist ITSM KB generation modal](../../now-assist-itsm/image/now-assist-itsm-kb-gen-modal1.png)
+    ![Now Assist ITSM KB generation modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-kb-gen-modal1.png)
 
 7.  If you’re drafting the article with Now Assist, you can choose up to five relevant tasks for the creation of the article, and select **Use selected tasks to help draft new article**; otherwise, select **Cancel**.
 
-    ![Now Assist in ITSM knowledge article related incidents modal.](../../now-assist-itsm/image/now-assist-itsm-similar-incidents.png)
+    ![Now Assist in ITSM knowledge article related incidents modal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-similar-incidents.png)
 
     When creating an article that includes information that spans multiple similar incidents, a single article is created containing the details from the selected incidents.
 
@@ -109,7 +109,7 @@ Role required: itil
 
 8.  Review the article and edit it if necessary.
 
-    ![Now Assist in ITSM knowledge article.](../../now-assist-itsm/image/now-assist-itsm-kb-gen-art.png)
+    ![Now Assist in ITSM knowledge article.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../now-assist-itsm/image/now-assist-itsm-kb-gen-art.png)
 
 9.  Select **Save** or **Publish**.
 

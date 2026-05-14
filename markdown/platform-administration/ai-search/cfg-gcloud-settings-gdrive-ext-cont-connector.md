@@ -48,7 +48,7 @@ Your connector admin can use settings copied from the Google Cloud console to co
 
         The API appears in the Enabled APIs &amp; services listing for your project.
 
-    6.  Repeat steps [1.c](cfg-gcloud-settings-gdrive-ext-cont-connector.md#enable-api-first-substep) through [1.e](cfg-gcloud-settings-gdrive-ext-cont-connector.md#enable-api-last-substep), but this time locate, select, and enable the **Admin SDK API**.
+    6.  Repeat steps [1.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-gcloud-settings-gdrive-ext-cont-connector.md#enable-api-first-substep) through [1.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-gcloud-settings-gdrive-ext-cont-connector.md#enable-api-last-substep), but this time locate, select, and enable the **Admin SDK API**.
 
 2.  Create a new Google Cloud service account for your selected project.
 
@@ -92,7 +92,7 @@ Your connector admin can use settings copied from the Google Cloud console to co
 
     5.  In the API clients list, select **Add new**.
 
-    6.  In the **Client ID** field, enter the service account's OAuth 2 Client ID that you copied in step [4.a](cfg-gcloud-settings-gdrive-ext-cont-connector.md#copy-oauth-2-client-id-substep).
+    6.  In the **Client ID** field, enter the service account's OAuth 2 Client ID that you copied in step [4.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-gcloud-settings-gdrive-ext-cont-connector.md#copy-oauth-2-client-id-substep).
 
     7.  In the **OAuth scopes** field, enter `https://www.googleapis.com/auth/drive.readonly, https://www.googleapis.com/auth/admin.directory.user.readonly, https://www.googleapis.com/auth/admin.directory.group.readonly`.
 
@@ -110,11 +110,11 @@ Provide the following items to your connector admin:
 
     **Note:** This should be an email address from your organization's domain, not a service account email address from the `iam.gserviceaccount.com` domain.
 
--   The JSON private key file for the Google Cloud service account that you downloaded in step [3.e](cfg-gcloud-settings-gdrive-ext-cont-connector.md#download-json-private-key-substep).
+-   The JSON private key file for the Google Cloud service account that you downloaded in step [3.e](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/cfg-gcloud-settings-gdrive-ext-cont-connector.md#download-json-private-key-substep).
 
 Your connector admin needs these items to configure a Google Drive external content connector to retrieve searchable content and security principals from your Google Drive instance.
 
-For details on creating and configuring a Google Drive external content connector, see [Create a Google Drive external content connector](create-ext-cont-connector-gdrive.md).
+For details on creating and configuring a Google Drive external content connector, see [Create a Google Drive external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-gdrive.md).
 
-**Parent Topic:**[Google Drive external content connector](../concept/google-drive-external-content-connector.md)
+**Parent Topic:**[Google Drive external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/google-drive-external-content-connector.md)
 

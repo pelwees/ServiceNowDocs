@@ -101,7 +101,7 @@ The approval definition is created for the reservation table. If a reservation m
 
 ## What to do next
 
-Add approvers to approve the reservations that match the approval definition. For more information, refer to [Add a workplace approval configuration](add-workplace-approval-configuration.md).
+Add approvers to approve the reservations that match the approval definition. For more information, refer to [Add a workplace approval configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-workplace-approval-configuration.md).
 
-**Parent Topic:**[Create a workplace performer criteria](create-workplace-performer-criteria.md)
+**Parent Topic:**[Create a workplace performer criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-performer-criteria.md)
 

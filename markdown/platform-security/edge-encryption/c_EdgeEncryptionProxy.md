@@ -42,5 +42,5 @@ Because encryption patterns rely on tokenization, clear text values are stored i
 -   Back up your database every 24 hours.
 -   Retain MySQL database binary log files for at least two days. After a backup has been restored, use the binary log to regenerate any data lost since the most recent backup.
 
-**Parent Topic:**[Exploring Edge Encryption](c_EdgeEncryptionOverview.md)
+**Parent Topic:**[Exploring Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionOverview.md)
 

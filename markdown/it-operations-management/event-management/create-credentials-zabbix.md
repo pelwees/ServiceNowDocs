@@ -44,7 +44,7 @@ Role required: evt\_mgmt\_admin
 
 The Basic Auth credential for use with the Zabbix server connector is created.
 
-**Parent Topic:**[Configure event collection from Zabbix server](t_EMConfigureZabbixConnector.md)
+**Parent Topic:**[Configure event collection from Zabbix server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureZabbixConnector.md)
 
 **Related topics**  
 

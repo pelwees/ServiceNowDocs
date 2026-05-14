@@ -28,7 +28,7 @@ During an upgrade, the system makes changes to the **Value** field of records in
 
 These changes support [System Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-landing.md) and enable workflows to display translated text in the **Stage** field.
 
-**Parent Topic:**[Workflow stages](c_WorkflowStages.md)
+**Parent Topic:**[Workflow stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md)
 
 ## Create a new stage set
 
@@ -66,7 +66,7 @@ Create a stage set record only when you want additional stages that are not avai
 
     Enter a low value for stages that should appear early in the workflow and a higher value for later stages.
 
-    ![Create stage set](../image/CreateStageSet.png)
+    ![Create stage set](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/CreateStageSet.png)
 
 
 ### What to do next
@@ -106,7 +106,7 @@ Create a choice list as follows:
 -   Configure the custom field to use a choice list.
 -   If you are creating a new field, set the **Choice List type** to **Display without --None--** and create the choices for the newly created field.
 
-For more information, see [Create a workflow stage field](../../workflow-administration/task/t_CreateAWorkflowStageField.md).
+For more information, see [Create a workflow stage field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../workflow-administration/task/t_CreateAWorkflowStageField.md).
 
 ### Procedure
 
@@ -181,5 +181,5 @@ When multiple stage sets have stage set entries with the same **Value**, the sta
 
 ### What to do next
 
-After you add all necessary stage sets to the workflow, you can add them to the workflow activities. For more information, see [Add a stage to a workflow activity](../task/add-translate-stages.md#).
+After you add all necessary stage sets to the workflow, you can add them to the workflow activities. For more information, see [Add a stage to a workflow activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../task/add-translate-stages.md#).
 

@@ -79,5 +79,5 @@ The total number of license resource units consumed is: \(2 + 1 + 1\) = 4 resour
 
 To calculate cost, multiply each resource count by the applicable per-unit rate from your entitlement. For example, at a rate of n per resource unit: \(2\*n\) + \(1\*n\) + \(1\*n\) = 4n.
 
-**Parent Topic:**[Manage Cloud Cost Management subscriptions](managing-ccm-subscriptions.md)
+**Parent Topic:**[Manage Cloud Cost Management subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/managing-ccm-subscriptions.md)
 

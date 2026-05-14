@@ -36,13 +36,13 @@ The following table lists the features that you can access with the different ro
 
 Navigate to **All** &gt; **Audit Workspace**.
 
-![Lite Audit home page.](../image/lite_audit_homepage.png)
+![Lite Audit home page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/lite_audit_homepage.png)
 
 You can view all engagements where you are assigned as the Auditor or Engagement Lead. You can also view the activities associated with those engagements.
 
 From the homepage, if you have the sn\_audit.shared\_manager role, you can create new engagements and if you have the sn\_grc\_advanced.evidence\_requester role, you can create evidence requests.
 
-![Lite Audit Engagement access.](../image/lite_audit_homepage_engagement.png)
+![Lite Audit Engagement access.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/lite_audit_homepage_engagement.png)
 
 ## Evidence feature access
 
@@ -59,9 +59,9 @@ Scoping an entity in an engagement identifies which entities are involved in the
 
 ## Activity Audit task
 
-Audit activities involve collecting and documenting evidence to show that the organization complies with external regulations and internal policies. For more information, see [Create an audit task activity](../../grc-audit/task/t_CreateAnActivity.md).
+Audit activities involve collecting and documenting evidence to show that the organization complies with external regulations and internal policies. For more information, see [Create an audit task activity](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-audit/task/t_CreateAnActivity.md).
 
 ## Evidence request
 
-Audit evidence refers to all information used by auditors to form their audit opinion. This includes data from accounting records, financial statements, and other relevant sources. Evidence is cumulative and may come from current audit procedures as well as prior audits. For more information, see [Request evidence for audit](../../grc-audit/task/request-evidence.md).
+Audit evidence refers to all information used by auditors to form their audit opinion. This includes data from accounting records, financial statements, and other relevant sources. Evidence is cumulative and may come from current audit procedures as well as prior audits. For more information, see [Request evidence for audit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../../grc-audit/task/request-evidence.md).
 

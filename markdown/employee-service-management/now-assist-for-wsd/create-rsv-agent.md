@@ -46,7 +46,7 @@ Role required: admin
 
     While the LLM processes the utterance, animated dots in the chat window let employees know that the reservation agent is working on their request. After you enter an utterance and a search result is found, a synthesized response may appear. A synthesized response includes a brief summary of the requested information and search results.
 
-    ![Now Assist for Virtual Agent showing employee preferred space for reservation.](../image/wsd-now-assist-virtual-agent-start-resv.png)
+    ![Now Assist for Virtual Agent showing employee preferred space for reservation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-now-assist-virtual-agent-start-resv.png)
 
     Each response includes feedback icons. The user can indicate if the response was helpful by selecting thumbs up or select thumbs down if the response wasn't helpful.
 
@@ -54,18 +54,18 @@ Role required: admin
 
     **Note:** Selecting **No** prompts the reservation agent to fetch another location or a space for reservation. At a time, the reservation agent shows three space suggestions.
 
-    ![Now Assist for Virtual agent shows maximum of three preferred spaces for reservation](../image/wsd-creat-rsv-agent-two.png)
+    ![Now Assist for Virtual agent shows maximum of three preferred spaces for reservation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-creat-rsv-agent-two.png)
 
 5.  The reservation displays a navigational link to the Advanced Reservation portal when it is not able to find a suitable space.
 
     It provides the link to the Reservation portal when employees don't select a space from the suggested spaces shown by the reservation agent. At a time, the reservation agent provides three space suggestions. Employees can search for spaces manually on the reservation portal page and reserve a space.
 
-    ![Agent confirms that it cannot find a space for the employee and provides a navigation link to the Advanced Reservation Portal.](../image/wsd-rsv-create-agent-five-rsv-portal-link.png)
+    ![Agent confirms that it cannot find a space for the employee and provides a navigation link to the Advanced Reservation Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-rsv-create-agent-five-rsv-portal-link.png)
 
 6.  When the request is complete, Now Assist in Virtual Agent chat interface displays a message to confirm if employees need any additional help from the Virtual Agent.
 
-    ![Agent completes the request and asks employees to confirm if they require any other help from it.](../image/wsd-create-rsv-agent-last-step.png)
+    ![Agent completes the request and asks employees to confirm if they require any other help from it.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../image/wsd-create-rsv-agent-last-step.png)
 
 
-**Parent Topic:**[Making reservations using the Create a reservation agent](../concept/using-reservation-agent.md)
+**Parent Topic:**[Making reservations using the Create a reservation agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/../concept/using-reservation-agent.md)
 

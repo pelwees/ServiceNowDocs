@@ -62,12 +62,12 @@ True/False
 Current state of the program criteria, whether active or not
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[Program segment mapping table fields](program-segment-mapping-table-fields.md)
+[Program segment mapping table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/program-segment-mapping-table-fields.md)
 
-[Program segment criteria table fields](program-segment-criteria-table-fields.md)
+[Program segment criteria table fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/program-segment-criteria-table-fields.md)
 

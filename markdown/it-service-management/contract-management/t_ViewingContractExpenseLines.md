@@ -35,14 +35,14 @@ Role required: asset, financial\_mgmt\_user\(core UI and Hardware Asset Workspac
     Information such as expense line details, total cost of the contract, and the contract current value is listed.
 
 
-**Parent Topic:**[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+**Parent Topic:**[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 
 **Related topics**  
 
 
-[Contract Rate Card form](../reference/ContractRateCardForm.md)
+[Contract Rate Card form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../reference/ContractRateCardForm.md)
 
-[Create a new expense line](t_CreatingANewExpenseLine.md)
+[Create a new expense line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreatingANewExpenseLine.md)
 
-[Generating expense lines based on assets or users](t_GenExpnsLinOnAssetsUsers.md)
+[Generating expense lines based on assets or users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_GenExpnsLinOnAssetsUsers.md)
 

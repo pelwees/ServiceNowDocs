@@ -17,5 +17,5 @@ When work management is activated, the ServiceNow platform adds the Work Order M
 
 Users with the wm\_admin role can define new model records, which can be used as templates to create work orders for common procedures.
 
-**Parent Topic:**[Models](c_Models.md)
+**Parent Topic:**[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 

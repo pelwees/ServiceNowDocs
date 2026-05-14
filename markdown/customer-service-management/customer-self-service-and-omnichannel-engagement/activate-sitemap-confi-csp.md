@@ -39,7 +39,7 @@ Beginning with the Australia release, the Sitemap Generator configuration is ava
 
     2.  In the Sitemap Config Definition related list, double-click the **Type** field and select the **true** option from the list.
 
-    3.  Select the Save icon \(![Save icon](../image/save.png)\).
+    3.  Select the Save icon \(![Save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/save.png)\).
 
 4.  Select **Update**.
 

@@ -97,5 +97,5 @@ Role required: inventory\_user
     -   The **Stockroom** field is automatically set to the value that was selected on the Reclaim task form.
     -   If the asset is assigned to a future loaner order, the substate changes to Reserved and reflects the details of the loaner order.
 
-**Parent Topic:**[Request a loaner asset in Enterprise Asset Workspace](request-eam-assetloaner-request.md)
+**Parent Topic:**[Request a loaner asset in Enterprise Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/request-eam-assetloaner-request.md)
 

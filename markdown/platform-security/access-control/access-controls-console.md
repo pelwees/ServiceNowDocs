@@ -40,7 +40,7 @@ Select the chart, or section of the chart to open the **Access findings** tab, a
 
 </td><td>
 
-![Findings section](../images/acc-1.png)
+![Findings section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-1.png)
 
 </td></tr><tr><td>
 
@@ -52,12 +52,12 @@ Select **Evaluate Access** to evaluate the selected items and see results.
 
 Select the **See all** link to open the **Access analyzer** tab.
 
-For details on using the Access Analyzer diagnostic tool, see [Access Analyzer](../../../integrate/identity/concept/access-analyzer.md), or review the tutorial video and links in the **Access analyzer** tab.
+For details on using the Access Analyzer diagnostic tool, see [Access Analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../integrate/identity/concept/access-analyzer.md), or review the tutorial video and links in the **Access analyzer** tab.
 
 
 </td><td>
 
-![Access Analyzer section](../images/acc-2.png)
+![Access Analyzer section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-2.png)
 
 </td></tr><tr><td>
 
@@ -67,12 +67,12 @@ Use this section to learn more about access control lists \(ACLs\), user adminis
 
 Select the **Learn More** links to view product documentation about each subject.
 
-Select **Learn more in Security Center** to view the **Security learning and references** page on your instance, which contains links to documentation, user guides, and more for Security Center. To learn more, see [Access Analyzer](../../../integrate/identity/concept/access-analyzer.md) documentation.
+Select **Learn more in Security Center** to view the **Security learning and references** page on your instance, which contains links to documentation, user guides, and more for Security Center. To learn more, see [Access Analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../integrate/identity/concept/access-analyzer.md) documentation.
 
 
 </td><td>
 
-![Additional resources section](../images/acc-3.png)
+![Additional resources section](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-3.png)
 
 </td></tr></tbody>
 </table>## Access findings tab
@@ -89,7 +89,7 @@ Access the **Access findings** section by selecting it on the left edge of the s
 
 </td><td>
 
-![Access findings list](../images/acc-4.png)
+![Access findings list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-4.png)
 
 </td></tr><tr><td>
 
@@ -101,18 +101,18 @@ Access the **Access checks** section by selecting it on the left edge of the scr
 
 </td><td>
 
-![Access checks list](../images/acc-7.png)
+![Access checks list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-7.png)
 
 </td></tr></tbody>
 </table>## Access analyzer tab
 
 <table id="table_kxr_z4d_hhc"><tbody><tr><td>
 
-Use the access analyzer tab start using the Access Analyzer tool, designed to help administrators view the permissions of an identity for a resource. From this tab, you can use the tool, review previously searched criteria, and review resources to learn how to use Access Analyzer. For more details on this tool and how it's used, see [Access Analyzer](../../../integrate/identity/concept/access-analyzer.md).
+Use the access analyzer tab start using the Access Analyzer tool, designed to help administrators view the permissions of an identity for a resource. From this tab, you can use the tool, review previously searched criteria, and review resources to learn how to use Access Analyzer. For more details on this tool and how it's used, see [Access Analyzer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../../integrate/identity/concept/access-analyzer.md).
 
 </td><td>
 
-![Access analyzer tab](../images/acc-8.png)
+![Access analyzer tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/acc-8.png)
 
 </td></tr></tbody>
 </table>

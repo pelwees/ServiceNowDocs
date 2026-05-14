@@ -32,5 +32,5 @@ Role required: admin
 5.  Select and hold \(or right-click\) the form header and select **Save**.
 
 
-**Parent Topic:**[Set up a document template for signing documents using a CAC or PIV smart card](create-document-template.md)
+**Parent Topic:**[Set up a document template for signing documents using a CAC or PIV smart card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/create-document-template.md)
 

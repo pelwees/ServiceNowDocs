@@ -21,7 +21,7 @@ Role required: admin or delegated\_developer
 
 ## About this task
 
-Create an update set without leaving ServiceNow Studio. For more information about update sets on the ServiceNow AI Platform, see [General guidelines for planning the update process](../../system-update-sets/reference/get-started-update-sets.md).
+Create an update set without leaving ServiceNow Studio. For more information about update sets on the ServiceNow AI Platform, see [General guidelines for planning the update process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../../system-update-sets/reference/get-started-update-sets.md).
 
 Watch a short video on how to create an update set.
 
@@ -35,7 +35,7 @@ Video on how to create an update set in ServiceNow Studio
 
 3.  At the bottom-left corner of the canvas, expand the update set dialog by selecting the current update set from the status bar.
 
-    ![Select the current update set from the status bar to open the update set dialog.](../image/sn-studio-scope-update-set-zs1.png)
+    ![Select the current update set from the status bar to open the update set dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-update-set-zs1.png)
 
 4.  Select **New**.
 

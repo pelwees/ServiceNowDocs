@@ -61,5 +61,5 @@ com.snc.change\_management.policy.approval.log
 The debug logging property that provides the detailed logging information of the workflow activity when using Change Approval Policies.Type: choice list
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](../../../use/dashboards/application-content-packs/change-content-pack.md)
+</table>**Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../../../use/dashboards/application-content-packs/change-content-pack.md)
 

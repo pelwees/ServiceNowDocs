@@ -60,7 +60,7 @@ Can permanently delete safety incidents
 sn\_ohs\_im.incident\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ICW Health and Safety Integration reference](icw-health-and-safety-integration-reference.md)
+</table>**Parent Topic:**[ICW Health and Safety Integration reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-health-and-safety-integration-reference.md)
 
 **Related topics**  
 

@@ -39,5 +39,5 @@ The SPM Benchmarks application provides you with an overall understanding of you
     SPM Benchmarks reports get refreshed monthly that can be downloaded in PDF format. An email notification is sent to the customer when new data is available.
 
 
-**Parent Topic:**[Exploring SPM Benchmarks](exploring-benchmarks.md)
+**Parent Topic:**[Exploring SPM Benchmarks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/exploring-benchmarks.md)
 

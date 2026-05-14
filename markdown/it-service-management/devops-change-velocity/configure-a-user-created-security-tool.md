@@ -37,7 +37,7 @@ Role required:
     |Tool label|Name of the tool integration.|
     |Integration version|Version of the tool integration.|
 
-    ![Tool integration record for custom security tool integration](../image/custom-sec-tool-01.png)
+    ![Tool integration record for custom security tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/custom-sec-tool-01.png)
 
 3.  Select **Submit**.
 
@@ -50,7 +50,7 @@ Role required:
     |Tool integration|Sample tool|
     |Tool type capability|Security|
 
-    ![Tool Integration Capability Mapping record for custom security tool integration](../image/custom-sec-tool-02.png)
+    ![Tool Integration Capability Mapping record for custom security tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/custom-sec-tool-02.png)
 
 6.  Select **Submit**.
 
@@ -125,7 +125,7 @@ Domain
 global
 
 </td></tr></tbody>
-</table>    ![Integration capability record for connect action](../image/custom-sec-tool-03.png)![Integration capability record for validate action](../image/custom-sec-tool-04.png)
+</table>    ![Integration capability record for connect action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/custom-sec-tool-03.png)![Integration capability record for validate action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/custom-sec-tool-04.png)
 
 9.  Open the newly created tool integration record and add the **SecOps source integration** and **Integration handler** name fields to the form by navigating to **Configure &gt; Form layout**.
 
@@ -156,8 +156,8 @@ By default, when you onboard your tool from workspace, you have to enter the man
     } 
     ```
 
-    ![JSON entry in the securityToolsUIConfig UX page property](../image/cus-sec-tool-05.png)
+    ![JSON entry in the securityToolsUIConfig UX page property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/cus-sec-tool-05.png)
 
 
-**Parent Topic:**[DevOps user-created security tool integration](../concept/devops-security-tool-integration.md)
+**Parent Topic:**[DevOps user-created security tool integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../concept/devops-security-tool-integration.md)
 

@@ -40,5 +40,5 @@ When the order fulfillment process is in progress, and you receive a request to 
 **Related topics**  
 
 
-[Order quantity support in Order Management](order-quantity-support.md)
+[Order quantity support in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-quantity-support.md)
 

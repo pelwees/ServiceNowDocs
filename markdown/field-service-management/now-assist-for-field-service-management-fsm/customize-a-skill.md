@@ -19,6 +19,6 @@ If you have the admin role, you can customize the Now Assist for FSM work order 
 
 You can customize the following skills:
 
--   [KB generation](cust-now-assist-fsm-skill.md)
--   [Work order task summarization](cust-now-assist-fsm-wot-summarization-skill.md)
+-   [KB generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/cust-now-assist-fsm-skill.md)
+-   [Work order task summarization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/cust-now-assist-fsm-wot-summarization-skill.md)
 

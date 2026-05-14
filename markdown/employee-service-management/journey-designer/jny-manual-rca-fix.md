@@ -42,5 +42,5 @@ RCA requests that are generated after the installation of a newer version of the
     If there are multiple RCA requests, you must follow this task for each request.
 
 
-**Parent Topic:**[Installation and configuration overview](../concept/jny-inst-config-overview.md)
+**Parent Topic:**[Installation and configuration overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-inst-config-overview.md)
 

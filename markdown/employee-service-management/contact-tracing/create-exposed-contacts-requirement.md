@@ -24,7 +24,7 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-Define health and safety requirements for employees to return to work. Employees should not be in any potentially exposed contacts investigation of a case. If they are part of an active case investigation, they should meet the requirement of a clear status to be eligible to return to workplace. For more information, see [Follow up with potentially exposed contacts](contact-exposed-contacts.md).
+Define health and safety requirements for employees to return to work. Employees should not be in any potentially exposed contacts investigation of a case. If they are part of an active case investigation, they should meet the requirement of a clear status to be eligible to return to workplace. For more information, see [Follow up with potentially exposed contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-exposed-contacts.md).
 
 **Note:**
 
@@ -244,7 +244,7 @@ Conditions to filter the records from the table that will trigger the flow.
 
 ## What to do next
 
-You must activate the requirement before you can track whether employees have fulfilled it. For instructions, see [Activate a health and safety requirement](../../employee-readiness-core/task/activate-readiness-requirement.md).
+You must activate the requirement before you can track whether employees have fulfilled it. For instructions, see [Activate a health and safety requirement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../employee-readiness-core/task/activate-readiness-requirement.md).
 
-**Parent Topic:**[Setting up Contact Tracing](../concept/set-up-contact-tracing.md)
+**Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/set-up-contact-tracing.md)
 

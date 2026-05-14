@@ -32,5 +32,5 @@ Role required: sn\_hr\_core.admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure resolution notes generation for Now Assist for HRSD](resolution-notes-nacm-config.md)
+**Parent Topic:**[Configure resolution notes generation for Now Assist for HRSD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/resolution-notes-nacm-config.md)
 

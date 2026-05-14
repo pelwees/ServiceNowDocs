@@ -23,7 +23,7 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  Do one of the following:
 
@@ -31,21 +31,21 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
     -   View all the employee tasks by navigating to **Lists** &gt; **All work** &gt; **Employee tasks**.
 4.  Open a task that is in Awaiting completion or Work in progress state by selecting the link to the task in the Number column.
 
-5.  Select **Complete task**.![Selected button for completing a supplier task.](../image/complete-supplier-task-from-source-to-pay-workspace.png)
+5.  Select **Complete task**.![Selected button for completing a supplier task.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/complete-supplier-task-from-source-to-pay-workspace.png)
 
 
 ## Result
 
 The state of the task updates to **Closed complete**.
 
-**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-tasks.md)
 
 **Related topics**  
 
 
-[Configure due dates for tasks](configure-task-due-date.md)
+[Configure due dates for tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-task-due-date.md)
 
-[Create a task for a supplier case from the Source-to-Pay Workspace](create-new-task-for-supp-case.md)
+[Create a task for a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-task-for-supp-case.md)
 
-[Submit a task from the Source-to-Pay Workspace](submit-supplier-task.md)
+[Submit a task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-supplier-task.md)
 

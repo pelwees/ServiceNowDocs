@@ -17,7 +17,7 @@ Customize themes for the Desktop Assistant application by applying available the
 
 ## Before you begin
 
-Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](install-app-device-health.md) and [Download and install Desktop Assistant](download-desktop-experience.md).
+Confirm that the DEX Desktop Assistant \[sn\_dex\_desktop\] application has been installed. For more information, see [Install Application and Device Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Download and install Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/download-desktop-experience.md).
 
 Role required: sn\_dex\_desktop.admin
 
@@ -87,6 +87,6 @@ The selected theme is updated in the **Theme** field of the Desktop Assistant fo
 
 
 </td></tr></tbody>
-</table>    For more information, see [Variables to customize a theme for Desktop Assistant](../reference/da-theme-variables.md).
+</table>    For more information, see [Variables to customize a theme for Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/da-theme-variables.md).
 
 

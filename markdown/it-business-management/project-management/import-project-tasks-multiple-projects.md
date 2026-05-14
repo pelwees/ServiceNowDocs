@@ -44,20 +44,20 @@ Role required: import\_transformer, import\_admin, or admin
     For more information, see [Run an import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_RunImport.md).
 
 
-**Parent Topic:**[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+**Parent Topic:**[Importing and exporting projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectImportAndExport.md)
 
 **Related topics**  
 
 
-[Project field mapping](../reference/r_ProjectFieldMapping.md)
+[Project field mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../reference/r_ProjectFieldMapping.md)
 
-[Create custom field mapping for Microsoft Project file import](map-custom-fields-msp-project.md)
+[Create custom field mapping for Microsoft Project file import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/map-custom-fields-msp-project.md)
 
-[Project import from Microsoft Project](../concept/project-import-msp.md)
+[Project import from Microsoft Project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/project-import-msp.md)
 
-[Project export to Microsoft Project](../concept/c_ProjectExportToMicrosoftProject.md)
+[Project export to Microsoft Project](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectExportToMicrosoftProject.md)
 
-[Calendars and schedules- Limitations](../concept/c_CalendarsAndSchedules.md)
+[Calendars and schedules- Limitations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_CalendarsAndSchedules.md)
 
-[Importing and exporting projects](../concept/c_ProjectImportAndExport.md)
+[Importing and exporting projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-management/../concept/c_ProjectImportAndExport.md)
 

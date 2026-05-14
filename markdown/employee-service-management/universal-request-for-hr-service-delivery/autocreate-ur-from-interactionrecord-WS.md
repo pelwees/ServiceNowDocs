@@ -47,19 +47,19 @@ Follow the given steps to enable create universal request automatically from an 
 
 5.  Create a before insert business rule on the department ticket and retrieve the data from the glide session.
 
-    ![Business Rule to create UR from interaction](../images/auto-create-business-rule.png)
+    ![Business Rule to create UR from interaction](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../images/auto-create-business-rule.png)
 
 6.  Create universal request record using the **UniversalRequestUtils** API and attach the universal request to the task.
 
 
-**Parent Topic:**[Unified ticket experience setting](../concept/unified-ticket-experience.md)
+**Parent Topic:**[Unified ticket experience setting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/unified-ticket-experience.md)
 
 **Related topics**  
 
 
-[Email notification preferences for your service](../concept/ur-customize-email-notifcations.md)
+[Email notification preferences for your service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/ur-customize-email-notifcations.md)
 
-[Automatically create universal request from an inbound email](../concept/create-ur-from-inbound-email.md)
+[Automatically create universal request from an inbound email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../concept/create-ur-from-inbound-email.md)
 
-[Configure a catalog item or record producer to create a universal request](../../service-catalog-management/task/create-ur-recordproducer.md)
+[Configure a catalog item or record producer to create a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/../../service-catalog-management/task/create-ur-recordproducer.md)
 

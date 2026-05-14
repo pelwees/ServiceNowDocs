@@ -41,7 +41,7 @@ Role required: admin or app\_engine\_admin
 
     All of the standard Creator Studio activities appear in the list, not just custom activities.
 
-    ![Creator Studio Activities table showing available activities with their descriptions and order values.](../image/crs-activities-table.png "Activities table")
+    ![Creator Studio Activities table showing available activities with their descriptions and order values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-activities-table.png "Activities table")
 
     The Creator Studio Activities table appears.
 
@@ -109,7 +109,7 @@ Brief description of the custom activity, which appears in the activity picker.
 
         For more information, see [Add dynamic inputs to an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-dynamic-inputs-to-activity.md).
 
-        ![Activity Definition form showing Variables section with input fields for Assigned To, Comments, Due Date, Table, and Record.](../image/crs-activity-inputs.png)
+        ![Activity Definition form showing Variables section with input fields for Assigned To, Comments, Due Date, Table, and Record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-activity-inputs.png)
 
     4.  Hide a field from the properties panel by setting it to **Show as additional property for admins only.**
 
@@ -130,7 +130,7 @@ Brief description of the custom activity, which appears in the activity picker.
 
 The new activity appears in the activity picker in Creator Studio.
 
-![The activity we added appears at the end of the activity picker](../image/crs-activity-added.png "New activity appears in the activity picker")
+![The activity we added appears at the end of the activity picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../image/crs-activity-added.png "New activity appears in the activity picker")
 
-**Parent Topic:**[Administering activities in Creator Studio](../concept/creator-studio-administering-activities.md)
+**Parent Topic:**[Administering activities in Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/../concept/creator-studio-administering-activities.md)
 

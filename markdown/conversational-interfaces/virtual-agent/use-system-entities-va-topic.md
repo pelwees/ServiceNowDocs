@@ -23,7 +23,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  [Create a new topic](create-virtual-agent-topic.md) called `Booking Reservations`.
+1.  [Create a new topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md) called `Booking Reservations`.
 
     When completing the **Properties** tab, make sure that you choose the Booking Reservations NLU model that you created in an earlier exercise.
 
@@ -36,7 +36,7 @@ Role required: virtual\_agent\_admin or admin
     |Node name|Type `Intro`.|
     |Response Message|Type `Let's get you booked on a flight`.|
 
-    ![In the Text response properties, the Node name is "Intro," and the Response Message is, "Let's get you booked on a flight."](../images/sys-entities-example-1.png "Intro Text response properties")
+    ![In the Text response properties, the Node name is "Intro," and the Response Message is, "Let's get you booked on a flight."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sys-entities-example-1.png "Intro Text response properties")
 
 3.  Drag a Text user input component onto the canvas.
 
@@ -107,7 +107,7 @@ Enable NLU to switch topics
 Slide this toggle switch to enable topic switching.
 
 </td></tr></tbody>
-</table>    ![In the Fromwhere Text user input node, the prompt reads, "Where are you departing from?" The NLU entity used is FromLocation. Topic switching is enabled.](../images/sys-entities-example-2.png "Fromwhere Text user input response properties")
+</table>    ![In the Fromwhere Text user input node, the prompt reads, "Where are you departing from?" The NLU entity used is FromLocation. Topic switching is enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sys-entities-example-2.png "Fromwhere Text user input response properties")
 
 4.  Drag another Text user input component onto the canvas.
 
@@ -178,7 +178,7 @@ Enable NLU to switch topics
 Slide this toggle switch to enable topic switching.
 
 </td></tr></tbody>
-</table>    ![In the Towhere Text user input node, the prompt reads, "Where are you heading?" The NLU entity used is ToLocation. Topic switching is enabled.](../images/sys-entities-example-3.png "Towhere Text user input response properties")
+</table>    ![In the Towhere Text user input node, the prompt reads, "Where are you heading?" The NLU entity used is ToLocation. Topic switching is enabled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sys-entities-example-3.png "Towhere Text user input response properties")
 
 5.  Drag another Text bot response component onto the canvas, and then select it.
 
@@ -189,7 +189,7 @@ Slide this toggle switch to enable topic switching.
     |Node name|Type `Confirmation`.|
     |Response Message|Type `Great! I have you booked on a flight from [Fromwhere] to [Towhere]. Bon voyage!` Use dot-walking to replace `[Fromwhere]` and `[Towhere]` with the input variables you created in the previous nodes.|
 
-    ![The Confirmation node displays the message, "Great! I have you booked on a flight from blank to blank," which will be slot-filled from the Fromwhere and Towhere input variables.](../images/sys-entities-example-4.png "Confirmation text response properties")
+    ![The Confirmation node displays the message, "Great! I have you booked on a flight from blank to blank," which will be slot-filled from the Fromwhere and Towhere input variables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/sys-entities-example-4.png "Confirmation text response properties")
 
 6.  Click **Save**.
 
@@ -198,7 +198,7 @@ Slide this toggle switch to enable topic switching.
 
 Use additional system-derived entities for your Booking a Reservation topic. For example, you can use system-derived entities to capture the dates that the user wants to travel.
 
-For more information about default system entities, see [NLU system entities](../reference/nlu-system-entities.md).
+For more information about default system entities, see [NLU system entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../reference/nlu-system-entities.md).
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

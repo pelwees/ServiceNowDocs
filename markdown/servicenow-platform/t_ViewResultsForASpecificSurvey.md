@@ -29,31 +29,31 @@ Role required: survey\_admin or survey\_reader
 
 4.  Under **Related Links**, select **View Scorecard** review the compiled data of all responses represented in pie charts.
 
-    For detailed information, see [View a survey scorecard](t_ViewAScorecard.md).
+    For detailed information, see [View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md).
 
 5.  Open a metric result to view more detail.
 
     The metric result contains the user's response and calculated values of interest to advanced survey administrators. Because the Metric Result table is also used by the assessment feature, many field names aren’t clear in the context of surveys.
 
-    ![Metric result](../image/AssessmentMetricResults.png)
+    ![Metric result](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/AssessmentMetricResults.png)
 
     For a description of the field values, see .
 
 
-**Parent Topic:**[Survey responses and results](../concept/c_SurveyResults.md)
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyResults.md)
 
 **Related topics**  
 
 
-[View results for all surveys](t_ViewResultsForAllSurveys.md)
+[View results for all surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewResultsForAllSurveys.md)
 
-[View a survey scorecard](t_ViewAScorecard.md)
+[View a survey scorecard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-[Export a quiz scorecard as an image](../../assessments/task/t_ExportAQuizScorecard.md)
+[Export a quiz scorecard as an image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/task/t_ExportAQuizScorecard.md)
 
-[Request translations for surveys](request-translations-for-surveys.md)
+[Request translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/request-translations-for-surveys.md)
 
-[Edit translations for surveys](edit-translations-for-surveys.md)
+[Edit translations for surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/edit-translations-for-surveys.md)
 
-[Survey responses in a database view](../concept/survey-result-database-view.md)
+[Survey responses in a database view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/survey-result-database-view.md)
 

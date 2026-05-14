@@ -29,7 +29,7 @@ Role required: sn\_pace.admin
 
 3.  Click **Request exception**.
 
-    ![Request Policy Exception page.](../image/pace-request-policy-exception.jpg)
+    ![Request Policy Exception page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/../image/pace-request-policy-exception.jpg)
 
 4.  In the Request policy exception form, fill in the fields.
 

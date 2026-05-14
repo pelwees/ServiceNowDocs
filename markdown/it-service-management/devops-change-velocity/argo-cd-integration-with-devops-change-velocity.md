@@ -38,16 +38,16 @@ Here is the workflow of how the continuous deployment process works through Argo
 
 ## Notify ServiceNow DevOps of Argo CD changes through webhooks
 
--   The Config file is updated in GitHub with the following commit tag format:![Commit tag format in GitHub](../image/argocd-1.png)
+-   The Config file is updated in GitHub with the following commit tag format:![Commit tag format in GitHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../image/argocd-1.png)
 -   Inbound events are created in ServiceNow when an app is synced in Argo CD.
 -   If sync is successful, the change request is closed and the close code, worknotes, and close notes fields are updated in the change request.
 
--   **[Onboard Argo CD to DevOps Change Velocity – Workspace](../task/onboard-argo-cd-to-devops-change-velocity-workspace.md)**  
+-   **[Onboard Argo CD to DevOps Change Velocity – Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/onboard-argo-cd-to-devops-change-velocity-workspace.md)**  
 Connect to your Argo CD instance using the DevOps Change Workspace playbook to automate the deployment of applications from GitHub repositories.
--   **[Onboard Argo CD to DevOps Change Velocity — Service Catalog](../task/sc-argo-cd.md)**  
+-   **[Onboard Argo CD to DevOps Change Velocity — Service Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/sc-argo-cd.md)**  
 Connect your Sonar instance using the ServiceNow Service Catalog.
--   **[Onboard Argo CD to DevOps Change Velocity — Classic](../task/onboard-argo-cd-to-devops-change-velocity-classic.md)**  
+-   **[Onboard Argo CD to DevOps Change Velocity — Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/../task/onboard-argo-cd-to-devops-change-velocity-classic.md)**  
 Connect your Argo CD instance using the Classic UI in DevOps Change Velocity.
 
-**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](integrating-devops-change-with-third-party-tools.md)
+**Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 

@@ -17,7 +17,7 @@ Create an event forwarding configuration record to enable events to flow from on
 
 ## Before you begin
 
-You must have a credential with the evt\_mgmt\_integration role, which enables you to create events in the target instance. If you don't have this credential, see [Create basic auth server credentials](create-credentials-basic-auth.md) for information on how to create it.
+You must have a credential with the evt\_mgmt\_integration role, which enables you to create events in the target instance. If you don't have this credential, see [Create basic auth server credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-credentials-basic-auth.md) for information on how to create it.
 
 Role required: evt\_mgmt\_admin
 
@@ -40,7 +40,7 @@ You must create a separate configuration record for each target instance to forw
 4.  In the **Credentials** field, provide the credentials for the target instance by either entering them or searching for them.
 
     -   To enter your credentials, start typing and then select the credential from the drop-down list.
-    -   To search for your credentials, select the Lookup using list icon \(![Lookup using list icon](../image/search-icon.png)\) to select your credential from the credentials lookup table.
+    -   To search for your credentials, select the Lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/search-icon.png)\) to select your credential from the credentials lookup table.
 5.  Select **Save**.
 
 6.  Select **Test Connection** to validate the connection to the target ServiceNow instance.
@@ -57,5 +57,5 @@ You must create a separate configuration record for each target instance to forw
 **Related topics**  
 
 
-[Periodically run an event forwarding job](configuration-management-job-em.md)
+[Periodically run an event forwarding job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configuration-management-job-em.md)
 

@@ -22,9 +22,9 @@ Use the Budget view to:
 -   View your total budget and spend on your cloud assets.
 -   Analyze your future spend and understand if you're within or over the budget.
 -   Manage your cloud spend, you can define and monitor custom Budget plans.
--   Create and manage a budget policy. For more information, see [Create or update a budget policy](manage-cloud-budgets.md#).
+-   Create and manage a budget policy. For more information, see [Create or update a budget policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-cloud-budgets.md#).
 
-![Budget view in Cloud Cost Management Workspace.](../image/ccm-budget-view-ws.png)
+![Budget view in Cloud Cost Management Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/ccm-budget-view-ws.png)
 
 <table id="table_est_kbv_ywb"><thead><tr><th>
 
@@ -76,5 +76,5 @@ Comparison between budget and current or forecasted spend of each budget policy.
 
 After you create or modify a budget policy, the policies get displayed on the **All Budgets** page. Find the details of the budget such as overrun, surplus, or invalid budgets. You can view only the overrun budgets by toggling the **Show overrun budget only** toggle button. Search a budget by its name, owner, or provider.
 
-![All budgets page in the Budgets view of Cloud Cost Management Workspace.](../image/all-budgets.png)
+![All budgets page in the Budgets view of Cloud Cost Management Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/all-budgets.png)
 

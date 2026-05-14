@@ -61,5 +61,5 @@ Based on the Financial Services Operations application that you're using the Pro
 |Group Life Servicing|sn\_ins\_group\_life.manager and sn\_process\_optimization\_analyst|
 |Intelligent Servicing for Fraud|sn\_bom\_fraud.manager and sn\_process\_optimization\_analyst|
 
-**Parent Topic:**[Implementing Platform Analytics solutions](../../../use/application-content-packs/concept/fso-content-pack.md)
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../use/application-content-packs/concept/fso-content-pack.md)
 

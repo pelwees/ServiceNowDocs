@@ -25,7 +25,7 @@ Role required: agent\_client\_collector\_admin
 
     The Zscaler Remediation Dasbhoard appears.
 
-    ![Zscaler Remediation dashboard](../image/zscaler-dashboard.png "Zscaler Dashboard")
+    ![Zscaler Remediation dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/zscaler-dashboard.png "Zscaler Dashboard")
 
     The dashboard displays graphs divided according to the following sections:
 
@@ -40,5 +40,5 @@ Role required: agent\_client\_collector\_admin
     The default value is All, indicating that the dashboard displays data from all of the CIs on the host.
 
 
-**Parent Topic:**[Perform Zscaler remediation](../concept/zscaler-remediation-concept.md)
+**Parent Topic:**[Perform Zscaler remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/zscaler-remediation-concept.md)
 

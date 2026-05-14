@@ -65,7 +65,7 @@ Client ID copied from Microsoft Azure
 
 ## What to do next
 
-[Generate a SHA-1 thumbprint](generate-thumbprint.md)
+[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md)
 
-**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](configure-oauth-profile-using-certificates.md)
+**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 

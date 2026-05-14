@@ -17,7 +17,7 @@ Associate employees with a shift in Workplace Core so that they operate from the
 
 ## Before you begin
 
--   [Define shifts for your workplace](create-shifts-wsd.md).
+-   [Define shifts for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-shifts-wsd.md).
 -   Ensure you have the data for the employees who will operate from the office in this shift.
 
 Role required: sn\_wsd\_core.workplace\_manager
@@ -41,7 +41,7 @@ A pre-configured email with the shift details is sent to all employees assigned 
 
 ## What to do next
 
-[Associate areas and spaces with a shift](associate-workspaces-with-shifts-wsd.md).
+[Associate areas and spaces with a shift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/associate-workspaces-with-shifts-wsd.md).
 
-**Parent Topic:**[Configuring shifts for your workplace](../concept/configuring-shifts-for-your-workplace-wsd.md)
+**Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/../concept/configuring-shifts-for-your-workplace-wsd.md)
 

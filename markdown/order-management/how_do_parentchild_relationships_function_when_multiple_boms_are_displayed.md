@@ -17,5 +17,5 @@ If a parent or child product is not displayed in a BOM because it has a differen
 
 Parent/child product relationships between products with different BOM types will appear in the product list similarly to the example below. Here, the parent of Grandchild Product2 is the child product. Child Product is a manufacturing item, while Grandchild Product2 is a sales item. Because Child Product is not shown in the sales BOM, Parent Product is shown as the parent \(becoming the effective parent\) of Grandchild Product2.
 
-![Sales BOM](../images/cpq-parent-child-multiple-boms.png)
+![Sales BOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-parent-child-multiple-boms.png)
 

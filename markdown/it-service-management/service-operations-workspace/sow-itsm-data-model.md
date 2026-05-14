@@ -19,18 +19,18 @@ Learn about Service Operations Workspace \(SOW\) for ITSM by viewing the data mo
 
 The following diagram shows the tables and their relationships within SOW for ITSM. You can extend and leverage this data model to fit your needs.
 
-![This data model defines the relationship between various tables used in SOW for ITSM.](../image/sow-data-model.png)
+![This data model defines the relationship between various tables used in SOW for ITSM.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-data-model.png)
 
-**Parent Topic:**[Service Operations Workspace for ITSM reference](../concept/sow-reference.md)
+**Parent Topic:**[Service Operations Workspace for ITSM reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/sow-reference.md)
 
 **Related topics**  
 
 
-[Terminology in Service Operations Workspace for ITSM](../concept/terminology-used-in-sow-for-itsm.md)
+[Terminology in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/terminology-used-in-sow-for-itsm.md)
 
-[Additional roles for SOW admin](additional-roles-sow-admin.md)
+[Additional roles for SOW admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/additional-roles-sow-admin.md)
 
-[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](sow-itsm-itom-version.md)
+[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-itom-version.md)
 
-[Components installed with Service Operations Workspace ITSM Applications](components-installed-with-sow.md)
+[Components installed with Service Operations Workspace ITSM Applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-with-sow.md)
 

@@ -28,5 +28,5 @@ As a security analyst you can view the related raw or base events for a LogRhyth
 1.  Navigate to **All** &gt; **LogRhythm Integration** &gt; **LogRhythm Drilldown Events**.
 
 
-**Parent Topic:**[Additional configurations for the LogRhythm integration](configure-system-and-troubleshooting-properties.md)
+**Parent Topic:**[Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)
 

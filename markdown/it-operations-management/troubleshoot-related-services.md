@@ -49,5 +49,5 @@ The relationship might take up to a minute to appear, which means the field migh
 
 Check back after a few minutes.
 
-**Parent Topic:**[Troubleshoot synthetic monitors](troubleshoot-synthetic-monitors.md)
+**Parent Topic:**[Troubleshoot synthetic monitors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-synthetic-monitors.md)
 

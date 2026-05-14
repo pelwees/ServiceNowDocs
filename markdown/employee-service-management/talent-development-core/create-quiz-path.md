@@ -27,21 +27,21 @@ Role required: sn\_lc.catalog\_manager
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [Learning internal content form](learning-internal-content-form-ca.md).
+    For a description of the field values, see [Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/learning-internal-content-form-ca.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[Using Career Assessment](using-exam-engine.md)
+**Parent Topic:**[Using Career Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-exam-engine.md)
 
 **Related topics**  
 
 
-[Create exam catalogs](../task/create-exam-catalog.md)
+[Create exam catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/create-exam-catalog.md)
 
-[Create an exam](../task/create-exam.md)
+[Create an exam](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/create-exam.md)
 
-[View an exam instance](../task/view-exam-instance.md)
+[View an exam instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../task/view-exam-instance.md)
 
-[Learning internal content form](learning-internal-content-form-ca.md)
+[Learning internal content form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/learning-internal-content-form-ca.md)
 

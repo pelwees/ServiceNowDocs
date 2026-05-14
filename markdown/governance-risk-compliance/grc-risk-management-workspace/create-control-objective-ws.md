@@ -27,7 +27,7 @@ When a control objective and risk statement are associated and the control entit
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  In the Risk Workspace, select the list ![List.](../image/list-icon-risk-workspace.png) icon.
+2.  In the Risk Workspace, select the list ![List.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/list-icon-risk-workspace.png) icon.
 
 3.  Navigate to **Library** &gt; **Control objectives**.
 
@@ -48,5 +48,5 @@ When a control objective and risk statement are associated and the control entit
 
 The risks associated with the risk statement automatically inherit the controls associated with the control objectives with matching entities.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

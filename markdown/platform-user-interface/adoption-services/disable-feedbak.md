@@ -27,7 +27,7 @@ Role required: admin
 
 3.  In the **Name** field, type **glide.ui.product\_feedback\_enabled**.
 
-4.  In the **Type** field, select ![true-false](../image/true-false.png).
+4.  In the **Type** field, select ![true-false](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../image/true-false.png).
 
 5.  In the **Value** field, select false.
 

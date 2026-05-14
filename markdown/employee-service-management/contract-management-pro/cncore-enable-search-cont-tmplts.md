@@ -27,37 +27,37 @@ Role required: admin
 
 3.  Select **Generate Text Index** from the Related Links
 
-    ![Initiate table indexing for keyword search in contract templates](../image/cmpro-generate-index.png "Contract configuration")
+    ![Initiate table indexing for keyword search in contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-generate-index.png "Contract configuration")
 
 4.  Select **Ok** in the Generate Text Index dialog box.
 
-    ![Select Ok to start the table indexing for search](../image/cmpro-gen-index-confirmation.png "Contract configuration")
+    ![Select Ok to start the table indexing for search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-gen-index-confirmation.png "Contract configuration")
 
 
 ## Result
 
-The table will be indexed. For more information on how to search for a keyword in a contract template, see [Search for keywords in contract templates](cncore-search-in-doct.md)
+The table will be indexed. For more information on how to search for a keyword in a contract template, see [Search for keywords in contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-search-in-doct.md)
 
-**Parent Topic:**[Configure additional features in Contract Management Pro](../concept/cmpro-additional-feature.md)
+**Parent Topic:**[Configure additional features in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-additional-feature.md)
 
 **Related topics**  
 
 
-[Configuring Contract Workspace](../concept/cncore-conf-cntrct-wrkspc.md)
+[Configuring Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-conf-cntrct-wrkspc.md)
 
-[Configure signature pause duration when modifying signatories](cncore-pause-sig-property.md)
+[Configure signature pause duration when modifying signatories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-pause-sig-property.md)
 
-[Auto-populate the start date and end date for contract requests](cncore-conf-start-end-date-for-cntrcts.md)
+[Auto-populate the start date and end date for contract requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-start-end-date-for-cntrcts.md)
 
-[Activate a system property to generate a certificate of completion](cncore-config-system-prop-COC.md)
+[Activate a system property to generate a certificate of completion](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-system-prop-COC.md)
 
-[Enable users to view email details in activity stream](cncore-enbl-user-email-astream.md)
+[Enable users to view email details in activity stream](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-enbl-user-email-astream.md)
 
-[Configuring contract summarization for Contract Management Pro](cmpro-conf-cntr-summary.md)
+[Configuring contract summarization for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-cntr-summary.md)
 
-[Configure conditions to send reminder notifications for expiring contracts](cncore-config-rem-exp-cont.md)
+[Configure conditions to send reminder notifications for expiring contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-rem-exp-cont.md)
 
-[Copy fields from parent request to amendment request](cncore-cpy-fld-parent-amedreq.md)
+[Copy fields from parent request to amendment request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cpy-fld-parent-amedreq.md)
 
-[Manage notifications in Contract Management Pro](../concept/cmpro-manage-notifications.md)
+[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cmpro-manage-notifications.md)
 

@@ -69,5 +69,5 @@ Calculated, Fixed, Multiple.-   When you change the price type to Multiple, the 
 -   You can modify the price type at any time.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Standard currency fields](configure-and-use-default-currency-fields.md)
+</table>**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 

@@ -19,7 +19,7 @@ Role required: admin
 
 ## About this task
 
-Users with the system administrator role can select the [playbook activity view](../concept/csm-playbook-layout.md#section_oq5_3yw_5pb) in the playbook component configuration in UI Builder.
+Users with the system administrator role can select the [playbook activity view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/csm-playbook-layout.md#section_oq5_3yw_5pb) in the playbook component configuration in UI Builder.
 
 ## Procedure
 

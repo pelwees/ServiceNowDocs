@@ -84,6 +84,6 @@ For each application, you can:
     -   Users having DevOps roles, but aren’t part of the groups added can't view the application.
     **Note:** DevOps admins can always see and edit everything in DevOps.
 
--   View and associate plans, repositories, pipelines, and artifact repositories. Associate the appropriate tool objects to the application to ensure that all the DevOps data is grouped and tracked. For more information, see [Associate tool objects to applications – Classic](apps-associate-objects-classic.md).
+-   View and associate plans, repositories, pipelines, and artifact repositories. Associate the appropriate tool objects to the application to ensure that all the DevOps data is grouped and tracked. For more information, see [Associate tool objects to applications – Classic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apps-associate-objects-classic.md).
 -   Delete the application record.
 

@@ -17,7 +17,7 @@ The Overview screen in Health Log Analytics provides a comprehensive view of the
 
 The **Overview** screen shows the log data streaming status and streaming sources of an active integration. It provides direct access to the **Data Input Mapping**, **Source Type Structures**, and **Log Sources** pages, as well as the **Log Viewer**, all with context from the current integration.
 
-![Integration Overview screen and View menu items.](../image/hla-connector-overview-tab.png "Overview screen and View menu items")
+![Integration Overview screen and View menu items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-connector-overview-tab.png "Overview screen and View menu items")
 
 ## Streaming status
 
@@ -29,9 +29,9 @@ The ServiceNow AIOps component shows the total number of alerts that the HLA eng
 
 If data streaming fails, the integration is automatically deactivated and the **Streaming status** marks the component where the failure occurred. In addition, a banner explains the failure and either proposes steps to take to fix it or refers to ServiceNow support.
 
-![Streaming status failure.](../image/il-connector-hla-status-failed.png)
+![Streaming status failure.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/il-connector-hla-status-failed.png)
 
-For MID-less or OpenTelemetry Protocol \(OTLP\) integrations, such as Amazon Data Firehose, the **Overview** screen displays the ITOM Gateway as a component in the log-processing pipeline. The MID Server component is not shown in the pipeline, because log data is sent directly from the source to the ITOM Gateway. The logs are then processed by the HLA engine to find anomalies. ![Overview screen displaying the ITOM Gateway component.](../image/hla-overview-tab-itom-gateway.png)
+For MID-less or OpenTelemetry Protocol \(OTLP\) integrations, such as Amazon Data Firehose, the **Overview** screen displays the ITOM Gateway as a component in the log-processing pipeline. The MID Server component is not shown in the pipeline, because log data is sent directly from the source to the ITOM Gateway. The logs are then processed by the HLA engine to find anomalies. ![Overview screen displaying the ITOM Gateway component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/hla-overview-tab-itom-gateway.png)
 
 For these integrations, the **Overview** screen shows the average rate of logs per minute over the last 15 minutes passing through the ITOM Gateway and the HLA engine, similar to the metrics shown for MID-based ingestion.
 
@@ -130,10 +130,10 @@ The **Log Streaming Sources** table shows a state of Authentication Failed or Co
 
 The **Log Streaming Sources** table now shows a connection state of Connected or Active with successful authentication. The **Streaming Status** displays a green circle with a white check mark for the MID Server component. With log streaming restored, HLA can resume processing data and generating anomaly alerts.
 
-**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](hla-implement.md)
+**Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
 **Related topics**  
 
 
-[Review log streaming data and adjust integration settings in Health Log Analytics](../task/il-connector-overview-tab.md)
+[Review log streaming data and adjust integration settings in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../task/il-connector-overview-tab.md)
 

@@ -33,7 +33,7 @@ You can create incidental expenses for a work order task at any point during the
 
 3.  Open a work order task from the list.
 
-4.  On the **Details** tab, tap the More actions \(![More actions icon](../image/OverflowIcon.png)\) icon.
+4.  On the **Details** tab, tap the More actions \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/OverflowIcon.png)\) icon.
 
 5.  Tap the **Log incidental** function.
 

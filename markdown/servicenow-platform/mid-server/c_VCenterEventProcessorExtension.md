@@ -17,7 +17,7 @@ The vCenter event collector is a MID Server extension that listens for vCenter-r
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
-![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
+![Setup indicator for configuration phase](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
 </table>The event collector allows the CMDB to be updated with changes to virtual machines \(VMs\), in addition to the updates detected by Discovery. A change to a VM is sent as an event from the vCenter server to the vCenter event collector. When an event is received, the CMDB is updated accordingly. Full vCenter Discovery does not need to rerun. For some events, such as powered on and powered off events, Discovery does not need to run again at all. For most events, Discovery runs only on the necessary vCenter resource.
@@ -44,7 +44,7 @@ The resulting sysevents contain these values:
 -   **Parm1**: vCenter event that was returned. This event must be associated with an event collector record.
 -   **Parm2**: Event data provided by vCenter, in JSON format.
 
-![Log entries for vCenter events](../image/vCenterSystemEvents.png "Log entries for vCenter events")
+![Log entries for vCenter events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/vCenterSystemEvents.png "Log entries for vCenter events")
 
 ## Supported vCenter events
 
@@ -749,7 +749,7 @@ Update parameters
 Sends updated parameters to the collector. Any changes you make to the collector while the MID Server is running do not take effect immediately when they are saved. If you click this control when the collector is not running, no update is made.In the case of the vCenter extension, the collector first tests the parameters for validity. If the parameters are valid, the extension disconnects from the vCenter server and reconnects with the new parameters.
 
 </td></tr></tbody>
-</table>    ![Event collector](../image/vCenterEventCollector.png)
+</table>    ![Event collector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../image/vCenterEventCollector.png)
 
 <table id="table_vfn_tp4_cv"><thead><tr><th>
 

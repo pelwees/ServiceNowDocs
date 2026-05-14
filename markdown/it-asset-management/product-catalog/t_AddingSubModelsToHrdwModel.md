@@ -45,18 +45,18 @@ When you select substitute models, note the following conditions.
     The model is listed in the **Substitutes** related list.
 
 
-**Parent Topic:**[Create hardware models](t_CreatingHardwareModels.md)
+**Parent Topic:**[Create hardware models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_CreatingHardwareModels.md)
 
 **Related topics**  
 
 
-[Add compatible models to a hardware model](t_AddingCompModelsToHrdwreModel.md)
+[Add compatible models to a hardware model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/t_AddingCompModelsToHrdwreModel.md)
 
-[Models](../concept/c_Models.md)
+[Models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_Models.md)
 
-[Bundled models](../concept/c_CreatingBundledModels.md)
+[Bundled models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../concept/c_CreatingBundledModels.md)
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/c_TransferOrders.md)
 
-[Procurement](../../procurement/concept/c_Procurement.md)
+[Procurement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/../../procurement/concept/c_Procurement.md)
 

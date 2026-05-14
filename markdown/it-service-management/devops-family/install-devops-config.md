@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-![DevOps Config app installation](../image/devops-config-install.png)
+![DevOps Config app installation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/devops-config-install.png)
 
 ## Procedure
 
@@ -36,10 +36,10 @@ Role required: admin
     Configuration Data Management and Policy as Code Engine platform capabilities are also installed.
 
 
--   **[Install DevOps Config Policy content pack](devops-config-install-policy-pack.md)**  
+-   **[Install DevOps Config Policy content pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-install-policy-pack.md)**  
 Install DevOps Config Policy content pack for a default set of DevOps Config policies that you can use as-is, or customize for your needs.
--   **[Install DevOps Config Exporter content pack](devops-config-install-launch-pack.md)**  
+-   **[Install DevOps Config Exporter content pack](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-install-launch-pack.md)**  
 Install DevOps Config Exporter content pack for a default set of DevOps Config exporters that you can use as-is, or customize for your needs.
 
-**Parent Topic:**[Configuring DevOps Config](../concept/setting-up-devops-config-validation.md)
+**Parent Topic:**[Configuring DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/setting-up-devops-config-validation.md)
 

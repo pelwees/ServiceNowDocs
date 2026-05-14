@@ -41,5 +41,5 @@ The CCG Content Pack provides the base system contents such as policies, resourc
 4.  Select **Install**.
 
 
-**Parent Topic:**[Exploring Cloud Configuration Governance](../concept/exploring-cloud-configuration-governance.md)
+**Parent Topic:**[Exploring Cloud Configuration Governance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/../concept/exploring-cloud-configuration-governance.md)
 

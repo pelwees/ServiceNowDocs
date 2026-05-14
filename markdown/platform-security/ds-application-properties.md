@@ -29,7 +29,7 @@ When you configure support for domain separation, you can add domain logic to th
 
 For example, let's say that you want to configure an application with a First day of the week feature. Sometimes, you might want the first day of the week to be Sunday. In other cases, you might want the first day of the week to be Monday. In the base system table, there might be only one Day 1 option, which is Sunday. With the new table, you can store another property, making Day 1, Sunday, and a child domain, Monday.
 
-This figure shows how the system draws properties from the Application Property table before going to the System Property \[sys\_properties\] table.![New table goes to sys_application_property table before going to sys_properties table.](../image/app-property-table-diagram.png)
+This figure shows how the system draws properties from the Application Property table before going to the System Property \[sys\_properties\] table.![New table goes to sys_application_property table before going to sys_properties table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/app-property-table-diagram.png)
 
 ## How scoped apps work in the new table
 
@@ -37,7 +37,7 @@ The new Application Properties table is supported from scoped applications. The 
 
 You can use the Expand Domain Scope view in the sys\_application\_property\_value table to show all overrides, as shown in the following image.
 
-![Expanded application properties table](../image/expanded-app-properties.png)
+![Expanded application properties table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/expanded-app-properties.png)
 
 **Note:**
 
@@ -69,12 +69,12 @@ The new System Application Property Value \[sys\_application\_property\_value\] 
 
 The new APIs are also supported in scoped apps. Domain-separated application properties have distinct APIs. The GlideApplicationProperty API has two new scriptable methods, available in both global and scoped applications. See [GlideApplicationProperty - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/GlideApplicationProperty.md) to learn more about these new APIs.
 
-**Parent Topic:**[Advanced domain separation administration](c_DomainSeparationAdministration.md)
+**Parent Topic:**[Advanced domain separation administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationAdministration.md)
 
 **Related topics**  
 
 
-[Use domain selection menus](c_DisplayingDomainSelectionMenus.md)
+[Use domain selection menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/c_DisplayingDomainSelectionMenus.md)
 
-[Domain separation recommended practices for service providers](../reference/bp-domain-sep-recommended.md)
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../reference/bp-domain-sep-recommended.md)
 

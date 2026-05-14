@@ -29,7 +29,7 @@ To enable users to enroll, you configure settings for the verification type that
 
 2.  Click the verification type for the verification that your Password Reset process uses.
 
-    The verification type for each base-system verification is identified in [Password Reset verifications](../../login/concept/c_PWRVerifications.md).
+    The verification type for each base-system verification is identified in [Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/c_PWRVerifications.md).
 
 3.  On the **Verification Types** page, specify the following settings:
 
@@ -46,36 +46,36 @@ To enable users to enroll, you configure settings for the verification type that
 
 This example verification type uses the pwd\_enroll\_sms\_ui enrollment UI macro and the PwdEnrollSMSProcessor enrollment processor script.
 
-![Verification type](../image/VerificationTypeExample.png "Verification type")
+![Verification type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/VerificationTypeExample.png "Verification type")
 
 A verification type must also define a verification UI macro and a corresponding verification processor script. The example uses the pwd\_verify\_sms\_uiverification UI macro and the PwdVerifySMSProcessor verification processor script.
 
-![UI macro](../image/VerificationTypeSMSUIMacro.png "Verification UI macro")
+![UI macro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/VerificationTypeSMSUIMacro.png "Verification UI macro")
 
-![Verification processor](../image/VerificationTypeSMSProcessor.png "Verification processor script")
+![Verification processor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/VerificationTypeSMSProcessor.png "Verification processor script")
 
-**Parent Topic:**[Configure your Password Reset process](../../login/task/t_CreateAPasswordResetProcess.md)
+**Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for password reset process](../../login/reference/pwd-reset-process-recommend.md)
+[Calculating the security score for password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/reference/pwd-reset-process-recommend.md)
 
-[Configure password expiration reminder](../../login/task/password-reset-expiration-setup.md)
+[Configure password expiration reminder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/password-reset-expiration-setup.md)
 
-[Credential stores for Password Reset](../../login/concept/c_CredentialStores.md)
+[Credential stores for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/c_CredentialStores.md)
 
-[Password Reset verifications](../../login/concept/c_PWRVerifications.md)
+[Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/concept/c_PWRVerifications.md)
 
-[Configure your Password Reset process to auto-enroll users](configure-auto-enroll-for-pwd-reset.md)
+[Configure your Password Reset process to auto-enroll users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/configure-auto-enroll-for-pwd-reset.md)
 
-[Configure Password Reset properties](../../login/task/t_SetPwdResetProps.md)
+[Configure Password Reset properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_SetPwdResetProps.md)
 
-[Send email to remind users to enroll for Password Reset](../../login/task/config-pwd-reset-enroll-reminder.md)
+[Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/config-pwd-reset-enroll-reminder.md)
 
-[Configure the required strength for passwords](../../login/task/config-pwd-strength-rqmts.md)
+[Configure the required strength for passwords](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/config-pwd-strength-rqmts.md)
 
-[Specify lockout for failed login attempts](t_LockoutForFailedLogins.md)
+[Specify lockout for failed login attempts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_LockoutForFailedLogins.md)
 
-[Configure Google reCAPTCHA for the password reset process](../../login/task/t_ConfigureGoogleRecaptcha.md)
+[Configure Google reCAPTCHA for the password reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../login/task/t_ConfigureGoogleRecaptcha.md)
 

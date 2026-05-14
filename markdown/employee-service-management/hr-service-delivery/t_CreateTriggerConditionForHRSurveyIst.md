@@ -45,5 +45,5 @@ To create a trigger condition:
 4.  Click **Submit**.
 
 
-**Parent Topic:**[HR surveys](../concept/c_HRSurveysIst.md)
+**Parent Topic:**[HR surveys](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/c_HRSurveysIst.md)
 

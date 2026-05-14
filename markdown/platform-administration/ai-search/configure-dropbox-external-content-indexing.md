@@ -98,12 +98,12 @@ To allow the connector to access your Dropbox source system via the Dropbox APIs
 
 Provide the following items to your connector admin:
 
--   The app key that you copied in step [2.a](configure-dropbox-external-content-indexing.md#copy-app-key-step).
--   The app secret that you copied in step [2.c](configure-dropbox-external-content-indexing.md#copy-app-secret-step).
+-   The app key that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-dropbox-external-content-indexing.md#copy-app-key-step).
+-   The app secret that you copied in step [2.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-dropbox-external-content-indexing.md#copy-app-secret-step).
 
 Your connector admin needs these items to configure a Dropbox external content connector to retrieve files in user folders, files in team folders, and security principals from your Dropbox source system.
 
-For details on creating and configuring a Dropbox external content connector, see [Create a Dropbox external content connector](create-ext-cont-connector-dropbox.md).
+For details on creating and configuring a Dropbox external content connector, see [Create a Dropbox external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-dropbox.md).
 
-**Parent Topic:**[Dropbox external content connector](../concept/dropbox-external-content-connector.md)
+**Parent Topic:**[Dropbox external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/dropbox-external-content-connector.md)
 

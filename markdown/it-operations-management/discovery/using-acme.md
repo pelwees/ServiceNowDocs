@@ -28,9 +28,9 @@ ACME comes with two options:
 
 Perform the following tasks to start using ACME:
 
--   [Request new certificate using ACME manual flow of DNS challenge](../task/request-new-certificate-using-acme-automated-flow.md)
--   [Request new certificate using ACME automated flow of DNS challenge](../task/request-new-certificate-using-acme-automated-flow-dns.md)
--   [Renew certificate using ACME manual flow of DNS challenge](../task/renew-certificate-using-acme-automated-flow.md)
--   [Renew certificate using ACME automated flow of DNS challenge](../task/renew-certificate-using-acme-automated-flow-dns.md)
--   [Revoke certificate using ACME automated flow](../task/revoke-certificate-using-acme-automated-flow.md)
+-   [Request new certificate using ACME manual flow of DNS challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/request-new-certificate-using-acme-automated-flow.md)
+-   [Request new certificate using ACME automated flow of DNS challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/request-new-certificate-using-acme-automated-flow-dns.md)
+-   [Renew certificate using ACME manual flow of DNS challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/renew-certificate-using-acme-automated-flow.md)
+-   [Renew certificate using ACME automated flow of DNS challenge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/renew-certificate-using-acme-automated-flow-dns.md)
+-   [Revoke certificate using ACME automated flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../task/revoke-certificate-using-acme-automated-flow.md)
 

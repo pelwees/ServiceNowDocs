@@ -59,5 +59,5 @@ In the base system, treemap categories such as Incident Risk, Denial of Service,
 7.  Click **Submit** or **Update**.
 
 
-**Parent Topic:**[Security incident treemaps](../concept/c_ConfigureTreemaps.md)
+**Parent Topic:**[Security incident treemaps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/c_ConfigureTreemaps.md)
 

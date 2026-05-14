@@ -73,7 +73,7 @@ Description of the schedule.
 
 ## What to do next
 
-Now, you can create the entries for an equipment model entity schedule. For more information, see [Create a schedule entry](create-new-schedule-entry.md).
+Now, you can create the entries for an equipment model entity schedule. For more information, see [Create a schedule entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-new-schedule-entry.md).
 
-**Parent Topic:**[Managing an equipment model entity schedule](../concept/managing-equipment-entity-schedules.md)
+**Parent Topic:**[Managing an equipment model entity schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/managing-equipment-entity-schedules.md)
 

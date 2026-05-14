@@ -43,11 +43,11 @@ The following examples demonstrate how Service Catalog forms display in Service 
 
     -   Two containers.
     -   A single-column layout.
-    ![Service Catalog form displayed in the Service Catalog.](../image/1.1-SC-form.png "Service Catalog form")
+    ![Service Catalog form displayed in the Service Catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/1.1-SC-form.png "Service Catalog form")
 
     In Service Portal, the single-column layout renders as expected.
 
-    ![Service Catalog form displayed in the Service Portal. Container 1 and container 2 display vertically.](../image/1.2-SP-form.png "Service Portal result")
+    ![Service Catalog form displayed in the Service Portal. Container 1 and container 2 display vertically.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/1.2-SP-form.png "Service Portal result")
 
 -   **Two-column layout with subcontainers**
 
@@ -56,11 +56,11 @@ The following examples demonstrate how Service Catalog forms display in Service 
     -   A container with a two-column layout.
     -   A subcontainer with a single-column layout.
     -   A subcontainer with a two-column layout.
-    ![Service Catalog form displayed in the Service Catalog. Container 2 and container 3 are side-by-side. Container 3 has two columns.](../image/3.1-SC-form.png "Service Catalog form")
+    ![Service Catalog form displayed in the Service Catalog. Container 2 and container 3 are side-by-side. Container 3 has two columns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/3.1-SC-form.png "Service Catalog form")
 
     In Service Portal, the two-column layout setting of the subcontainer is ignored. The subcontainer renders as a single column.
 
-    ![Service Catalog form displayed in the Service Portal. In container 3, all variables display in a single column.](../image/3.2-SP-form.png "Service Portal result")
+    ![Service Catalog form displayed in the Service Portal. In container 3, all variables display in a single column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/3.2-SP-form.png "Service Portal result")
 
 -   **Two-column layout with variable sets and subcontainers**
 
@@ -68,11 +68,11 @@ The following examples demonstrate how Service Catalog forms display in Service 
 
     -   Containers with single-column and two-column layouts.
     -   Variable sets with a two-column layout within containers.
-    ![Service Catalog form displayed in the Service Catalog. Variable sets have multiple columns.](../image/4.1-SC-form.png "Service Catalog form")
+    ![Service Catalog form displayed in the Service Catalog. Variable sets have multiple columns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/4.1-SC-form.png "Service Catalog form")
 
     In Service Portal, the two-column layout settings of the variable sets are ignored when inside a container column.
 
-    ![Service Catalog form displayed in the Service Portal. Variable sets within containers display as single columns.](../image/4.2-SP-form.png "Service Portal result")
+    ![Service Catalog form displayed in the Service Portal. Variable sets within containers display as single columns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/4.2-SP-form.png "Service Portal result")
 
 -   **Containers within variable sets**
 
@@ -81,11 +81,11 @@ The following examples demonstrate how Service Catalog forms display in Service 
     -   Variable sets with single-column layouts.
     -   A container with a single-column layout with a container split within a single-column variable set.
     -   A container with a two-column layout within a single-column variable set.
-    ![Service Catalog form displayed in the Service Catalog.](../image/5.1-SC-form.png "Service Catalog form")
+    ![Service Catalog form displayed in the Service Catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/5.1-SC-form.png "Service Catalog form")
 
     In Service Portal, the container split and two-column container settings are ignored when inside a single-column variable set.
 
-    ![Service Catalog form displayed in the Service Portal. All containers and variable sets display in a single column.](../image/5.2-SP-form.png "Service Portal result")
+    ![Service Catalog form displayed in the Service Portal. All containers and variable sets display in a single column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/5.2-SP-form.png "Service Portal result")
 
 -   **Nested containers**
 
@@ -93,11 +93,11 @@ The following examples demonstrate how Service Catalog forms display in Service 
 
     -   Containers that contain variable sets.
     -   Variable sets that contain nested containers.
-    ![Service Catalog form displayed in the Service Catalog.](../image/6.1-SC-form.png "Service Catalog form")
+    ![Service Catalog form displayed in the Service Catalog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/6.1-SC-form.png "Service Catalog form")
 
     In Service Portal, nested container formatting is ignored and displays as a single-column.
 
-    ![Service Catalog form displayed in the Service Portal. All nested containers display in a single column.](../image/6.2-SP-form.png "Service Portal result")
+    ![Service Catalog form displayed in the Service Portal. All nested containers display in a single column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/6.2-SP-form.png "Service Portal result")
 
 
 ## Render a complex form in Service Portal using an iFrame

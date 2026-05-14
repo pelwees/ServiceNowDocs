@@ -21,7 +21,7 @@ Role required: sam\_admin
 
 ## About this task
 
-After you have [Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md), get started by completing these steps for basic configuration.
+After you have [Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md), get started by completing these steps for basic configuration.
 
 ## Procedure
 
@@ -38,5 +38,5 @@ After you have [Setting up Software Asset Management Foundation plugin](t_SAMSet
 
 Depending on the compliance status of your software installations, you can choose to optimize your environment further.
 
-**Parent Topic:**[Setting up Software Asset Management Foundation plugin](t_SAMSetupSAMF.md)
+**Parent Topic:**[Setting up Software Asset Management Foundation plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/t_SAMSetupSAMF.md)
 

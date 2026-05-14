@@ -52,7 +52,7 @@ Category
 
 </td><td>
 
-Relevant category for the knowledge base article. Select an existing category, or select the add category icon \(![Add category icon.](../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) to add a new category.You can also select or add a subcategory.
+Relevant category for the knowledge base article. Select an existing category, or select the add category icon \(![Add category icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../../reuse/workplace-safety-mgmt/images/add-checklist-icon.png)\) to add a new category.You can also select or add a subcategory.
 
 </td></tr><tr><td>
 
@@ -136,20 +136,20 @@ The knowledge base article is created.
 
 ## What to do next
 
-[Create a workplace knowledge base article](../../workplace-service-delivery/task/create-workplace-kb-article-wsd.md)
+[Create a workplace knowledge base article](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../../workplace-service-delivery/task/create-workplace-kb-article-wsd.md)
 
-**Parent Topic:**[Managing Workplace Move Management requests](../concept/workplace-mov-mgmt-setup.md)
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../concept/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
 
-[Create a move request on behalf of an employee](request-desk-change-for-employee-1.md)
+[Create a move request on behalf of an employee](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/request-desk-change-for-employee-1.md)
 
-[Raise a move request for a space change](request-desk-change.md)
+[Raise a move request for a space change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/request-desk-change.md)
 
-[Update a move request workplace service](update-move-request-workplace-service.md)
+[Update a move request workplace service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/update-move-request-workplace-service.md)
 
-[Update a move-related workplace service record producer](view-move-request-record-producer.md)
+[Update a move-related workplace service record producer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/view-move-request-record-producer.md)
 
-[Review move conflicts](../reference/review-conflicts.md)
+[Review move conflicts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../reference/review-conflicts.md)
 

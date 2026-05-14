@@ -22,33 +22,33 @@ With Contracts Dashboard, you can analyze the various contract request trends an
 
 The following video provides an overview of Contract Management Pro.Video providing an overview of Contract Management Pro and its capabilities. Approximately four minutes long. 
 
-![An overview diagram of the various stages of Contract Management Pro.](../image/mmasset0021176-final-clm.png "Contract Management Pro")
+![An overview diagram of the various stages of Contract Management Pro.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/mmasset0021176-final-clm.png "Contract Management Pro")
 
 ## Get started
 
 <table id="table_iwv_lpv_klb" class="nav-card presentation"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the features and benefits of Contract Management Pro](cncore-expl-cmpro.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about the features and benefits of Contract Management Pro](cncore-expl-cmpro.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure Contract Management Pro](cncore-config-cmpro.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure Contract Management Pro](cncore-config-cmpro.md)
 
 </td><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Contract Management Pro to submit contract requests, manage document templates and clauses, request signatures, and use external storage](cncore-use-cmpro.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Contract Management Pro to submit contract requests, manage document templates and clauses, request signatures, and use external storage](cncore-use-cmpro.md)
 
 </td></tr><tr><td>
 
-[Manage ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Manage contract templates and contracts](cncore-manage-cmpro.md)
+[Manage ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-management-console.svg) Manage contract templates and contracts](cncore-manage-cmpro.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as roles, tables, plugins, and store applications, that are installed](cncore-ref.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components, such as roles, tables, plugins, and store applications, that are installed](cncore-ref.md)
 
 </td><td>
 
-[Analytics and Reporting ![](../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
+[Analytics and Reporting ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-performance-forecasting-2.svg) Coordinate work and improve processes with preconfigured dashboards](../../../use/application-content-packs/concept/cncore-analytics-pa.md)
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ The following video provides an overview of Contract Management Pro.Video provid
 
 </td><td>
 
-[Now Assist in Contract Management![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use Now Assist in Contract Management to enhance user productivity using generative AI](cncore-now-assit-landing.md)
+[Now Assist in Contract Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Use Now Assist in Contract Management to enhance user productivity using generative AI](cncore-now-assit-landing.md)
 
 </td><td>
 

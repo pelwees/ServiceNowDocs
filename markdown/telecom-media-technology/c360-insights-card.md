@@ -20,9 +20,9 @@ The following insights are displayed on the card:
     -   A one to two line overview of the most common or significant issues.
     -   A list of individual issues, each showing the case or service problem number, opened date, priority, status, assigned to, and details.
 
-![Customer 360 insights](../image/c360-insights.jpg)
+![Customer 360 insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/c360-insights.jpg)
 
-You can configure variables such as tables, display fields, and query conditions. See [Configure the insights card variables](../task/c360-configure-insights-card.md) for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the insights card variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../task/c360-configure-insights-card.md) for details.
 
-**Parent Topic:**[Telecommunications Customer 360 home page](c360-home-page.md)
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 

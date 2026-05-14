@@ -26,7 +26,7 @@ Risk factors define the criteria evaluated when scoring a request. Each factor i
 
     -   The skill is available in the base system to evaluate an COI request only when you have installed and configured Legal Service Delivery - Prime that is a paid application.
     -   You can access the skill by navigating to **Now Assist Skill Kit** &gt; **Home** &gt; **Custom skills** and selecting Legal Risk Evaluator Prompt.
-    For more information, see [Now Assist for Legal Service Delivery \(LSD\)](../../legal-request-management/concept/now-assist-lsd-landing.md).
+    For more information, see [Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/../../legal-request-management/concept/now-assist-lsd-landing.md).
 
 -   Subflow: Executes a Flow Designer subflow to evaluate the disclosure. Use this type when the evaluation requires complex logic, external integrations, or multi-step processing.
 
@@ -109,5 +109,5 @@ Select the AI skill that analyzes the disclosure content and returns a risk scor
 
 The risk factor is configured and active. When the risk assessment utility evaluates a request, it processes each active risk factor based on its evaluation type: The scores from all active risk factors are aggregated to produce the overall risk score, which determines the risk level \(Low, Medium, or High\) and the corresponding approval routing.
 
-**Parent Topic:**[Configure risk assessment](lsd-coi-config-risk-fac.md)
+**Parent Topic:**[Configure risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-config-risk-fac.md)
 

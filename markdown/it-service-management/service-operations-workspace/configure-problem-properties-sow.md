@@ -25,6 +25,6 @@ Role required: admin or problem\_manager
 
 2.  Adjust the properties as needed.
 
-    For more information about the available options, see [Problem management properties](../../problem-management/reference/problem-mgmt-properties.md).
+    For more information about the available options, see [Problem management properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../problem-management/reference/problem-mgmt-properties.md).
 
 

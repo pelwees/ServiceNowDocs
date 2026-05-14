@@ -23,14 +23,14 @@ You can perform **Run Additional Actions** related integration capabilities acti
     **Note:** You can also navigate to the **Related Records** tab on the workspace to perform the integrations capabilities action.
 
 
-**Parent Topic:**[Unified Experience examples](../concept/unified-expereince-example.md)
+**Parent Topic:**[Unified Experience examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/unified-expereince-example.md)
 
 **Related topics**  
 
 
-[Example 1: Select implementations: Threat Lookup](example-1-select-implementations-threat-lookup.md)
+[Example 1: Select implementations: Threat Lookup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/example-1-select-implementations-threat-lookup.md)
 
-[Example 2: Common Inputs: Sighting Search](common-inputs.md#)
+[Example 2: Common Inputs: Sighting Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/common-inputs.md#)
 
 ## Add specific inputs to an implementation
 
@@ -52,13 +52,13 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     The investigation tab with the entry points lists is displayed.
 
-    ![Investigation tab.](../image/example1.png)
+    ![Investigation tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/example1.png)
 
 4.  Select the configuration item from the entry point list.
 
     For example, select **configuration Item** entry point list. The corresponding configuration items records are displayed.
 
-    ![Select Configuration Item.](../image/config-items.png "Select Configuration Item")
+    ![Select Configuration Item.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/config-items.png "Select Configuration Item")
 
 5.  Select any **Configuration Item**.
 
@@ -79,7 +79,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 8.  Select one or more implementations from the list.
 
-    ![Run Additional Actions](../image/additional-actions.png)
+    ![Run Additional Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/additional-actions.png)
 
 9.  Click **Next**.
 
@@ -89,7 +89,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 11. Click **Submit**.
 
-    ![Submitted records and Activity stream work notes.](../image/specific-run-time.png)
+    ![Submitted records and Activity stream work notes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/specific-run-time.png)
 
     After the selected records are submitted, a message is displayed that the Additional Action request is being executed. Also, the respective implementation action progress is displayed in the **Activity** section.
 

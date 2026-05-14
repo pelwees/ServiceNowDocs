@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     You can create assessment templates in the Assessment Workspace to manage your assessments. The example shows the assessment templates included in the demo data.
 
-    ![Demo data in the Assessment Workspace.](../image/dri-temp-sae.png)
+    ![Demo data in the Assessment Workspace.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-temp-sae.png)
 
     When you select **New template**, the Create assessment template form, **General** tab, and **Questions** tab are displayed.
 
@@ -33,7 +33,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     The example shows the Create assessment template form.
 
-    ![Create assessment template form.](../image/dri-create-asmt-template.png)
+    ![Create assessment template form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-create-asmt-template.png)
 
     |Field|Description|
     |-----|-----------|
@@ -43,25 +43,25 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
     |Purpose|Purpose or intended use of the template, such as, DRI template category.|
     |Assessment target|Table records that are used for the assessment. For example, Digital Resilience Incident Reporting Case, Action task.|
 
-    For more information on creating templates, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    For more information on creating templates, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
     The assessment template is created and displayed in the Details section of the **General** tab as shown in the example.
 
-    ![Assessment template created.](../image/dri-sample-reporting-template-in-asmt-ws-details-section.png)
+    ![Assessment template created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-sample-reporting-template-in-asmt-ws-details-section.png)
 
-    You can now fill in the template with instructions, questions, and optional guidance for responding to a question, and sections that group the related questions. For more information on creating an assessment template, see [Create an assessment template](../../assessment-engine/task/sae-asmnt-template-create.md).
+    You can now fill in the template with instructions, questions, and optional guidance for responding to a question, and sections that group the related questions. For more information on creating an assessment template, see [Create an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-create.md).
 
 4.  Set up the assessment questions in the **Questions** tab.
 
-    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](../../assessment-engine/task/sae-asmnt-template-populate.md).
+    For information on adding instructions and questions to the assessment template, see [Add instructions and questions to an assessment template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/sae-asmnt-template-populate.md).
 
     The example shows how to set up the assessment questions.
 
-    ![Example showing questions displayed in an assessment.](../image/asmt-temp-questions-tab.png)
+    ![Example showing questions displayed in an assessment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asmt-temp-questions-tab.png)
 
     The example shows how questions are configured in the **Questions** tab.
 
-    ![Questions tab configuration.](../image/dri-questions-asmt-ws.png)
+    ![Questions tab configuration.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-questions-asmt-ws.png)
 
 5.  Select **Save**.
 
@@ -77,7 +77,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     **Note:** You can edit an existing automation only if you have access to it and the corresponding DRI template is published. Otherwise, the automation is available as read-only.
 
-    ![Example showing the Automations tab.](../image/dri-regu-report-asmt-automations-tab.png)
+    ![Example showing the Automations tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-regu-report-asmt-automations-tab.png)
 
     Follow these steps to add automations to your assessment template.
 
@@ -85,11 +85,11 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         The example shows the Create automation modal where you can add the name and description of the automation rule.
 
-        ![Example showing how to create automations.](../image/dri-regu-report-asmt-automations-tab-create-auto.png)
+        ![Example showing how to create automations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-regu-report-asmt-automations-tab-create-auto.png)
 
         The automation is created in the Draft state.
 
-        ![Automation rule created in the draft state.](../image/dri-auto-created.png)
+        ![Automation rule created in the draft state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-auto-created.png)
 
         The Action set in this example consists of an "If" block and a "Then" block. The "If" block sets conditions that trigger automation. The "Then" block defines the actions that execute automatically when those conditions are met.
 
@@ -99,7 +99,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         The example shows how you can add one or more conditions to automate actions based on user responses.
 
-        ![Example showing to set conditions based on responses.](../image/dri-regu-report-asmt-automations-tab-set-condi-2.png)
+        ![Example showing to set conditions based on responses.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-regu-report-asmt-automations-tab-set-condi-2.png)
 
         The conditional action set is saved and the automation conditions are now configured.
 
@@ -107,23 +107,23 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
         In this example, "DRI regulatory reporting status change" is the action that triggers automatically when the conditions in the "If" block are met. The associated DRI record is selected to complete the action setup.
 
-        ![Example showing that conditions are set and how to set action type.](../image/dri-regu-report-asmt-automations-tab-set-condi-4.png)
+        ![Example showing that conditions are set and how to set action type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-regu-report-asmt-automations-tab-set-condi-4.png)
 
     5.  To activate the automation, select **Activate** in the **Automations** tab, confirm the details in the Activate dialog box, and select **Activate** again.
 
         The Activate dialog box is shown in the example.
 
-        ![Example showing the dialog box to activate the automation.](../image/dri-auto-activate-dialog-box.png)
+        ![Example showing the dialog box to activate the automation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-auto-activate-dialog-box.png)
 
         Once activated, the automation appears in the **Automations** tab.
 
-        ![Activated automation displayed in the list on the Automations tab.](../image/dri-automation-activated.png)
+        ![Activated automation displayed in the list on the Automations tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-automation-activated.png)
 
-        For more information on automations, see [Automate response](../../assessment-engine/concept/automate-response.md) and [Configure post-assessment actions](../../assessment-engine/task/configure-post-assessment-actions.md).
+        For more information on automations, see [Automate response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/concept/automate-response.md) and [Configure post-assessment actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/task/configure-post-assessment-actions.md).
 
 8.  Configure scoring settings on the **Scoring** tab.
 
-    For more information on assigning scores to the assessments, see [Scoring assessments](../../assessment-engine/concept/scoring-in-assessments.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](../../assessment-engine/reference/smart-asmnt-engine-landing-page.md).
+    For more information on assigning scores to the assessments, see [Scoring assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/concept/scoring-in-assessments.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../assessment-engine/reference/smart-asmnt-engine-landing-page.md).
 
 9.  Select **Save**.
 
@@ -145,16 +145,16 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     The examples display pre-configured DRI templates for DORA regulation.
 
-    ![DRI template 1.](../image/dri-temp-sae-1.png)![DRI template 2.](../image/dri-temp-sae-2.png)![DRI template 3.](../image/dri-temp-sae-3.png)![DRI template 4.](../image/dri-temp-sae-4.png)
+    ![DRI template 1.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-temp-sae-1.png)![DRI template 2.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-temp-sae-2.png)![DRI template 3.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-temp-sae-3.png)![DRI template 4.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/dri-temp-sae-4.png)
 
     The Smart Assessment templates for the action tasks are created and saved in the instance.
 
     The following example shows the demo data for action task configurations in the Regulatory agency profile.
 
-    ![Demo data for the action task configurations. For the text description, refer to the text that precedes this image.](../image/action-task-config-dora-conditions.png)
+    ![Demo data for the action task configurations. For the text description, refer to the text that precedes this image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/action-task-config-dora-conditions.png)
 
     **Note:** After setting up Smart Assessment templates in the Assessment Workspace, you can use them to configure action task templates in the Regulatory Agency Profile table.
 
-    For more information on setting up action task templates, see the [Set up action task templates in Regulatory agency profile](set-up-action-task-templates.md) section.
+    For more information on setting up action task templates, see the [Set up action task templates in Regulatory agency profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-action-task-templates.md) section.
 
 

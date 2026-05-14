@@ -17,7 +17,7 @@ Register custom UI macros against a selected UI extension point in the applicati
 
 By registering custom UI macros, you create an extension instance record that links the UI extension point definition to its implementation in the custom UI macro.
 
-**Parent Topic:**[Using UI extension points in server-side UI macros](ui-extension-points.md)
+**Parent Topic:**[Using UI extension points in server-side UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/ui-extension-points.md)
 
 ## Register a custom UI macro
 
@@ -37,13 +37,13 @@ Role required: application-specific developer, application-specific admin, or ad
 
     **Note:** This listing includes UI extension points that you created and any pre-defined UI extension points that are embedded in ServiceNow AI Platform functions \(for example, Customer Service Management and Field Service Management\).
 
-    To learn more about functions that contain pre-defined extension points, see the Related Topics links in [Using extension points to extend application functionality](extension-points.md).
+    To learn more about functions that contain pre-defined extension points, see the Related Topics links in [Using extension points to extend application functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md).
 
 3.  In the UI Extension Point record, click the **Create Implementation** related link to create a new custom UI macro and register it against the selected UI extension point.
 
 4.  In the UI Macro form, create the custom code.
 
-    To learn more about creating UI macros, see [UI macros](../../../script/server-scripting/concept/c_UIMacros.md#).
+    To learn more about creating UI macros, see [UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/server-scripting/concept/c_UIMacros.md#).
 
 5.  Click **Update**.
 
@@ -85,7 +85,7 @@ Role required: admin or the specific role for the developer or administrator of 
 **Related topics**  
 
 
-[UI macros](../../../script/server-scripting/concept/c_UIMacros.md#)
+[UI macros](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../../script/server-scripting/concept/c_UIMacros.md#)
 
-[Using extension points to extend application functionality](extension-points.md)
+[Using extension points to extend application functionality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 

@@ -19,7 +19,7 @@ Use a grouped list to provide a view of a list of items grouped by a field. Grou
 
 </td><td>
 
-![Grouped list record.](../image/GroupedListApplet.png)
+![Grouped list record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/GroupedListApplet.png)
 
 </td></tr></tbody>
 </table>

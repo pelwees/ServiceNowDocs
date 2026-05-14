@@ -132,7 +132,7 @@ Top 10 Orchestration Activities
  
 
 </td></tr></tbody>
-</table>2.  You can add more widgets to the dashboard by clicking the **Add Content** icon \(![Add Content icon](../../../use/homepages/image/AddContent.png)\) in the upper right corner of the dashboard.
+</table>2.  You can add more widgets to the dashboard by clicking the **Add Content** icon \(![Add Content icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/../../../use/homepages/image/AddContent.png)\) in the upper right corner of the dashboard.
 
     **Note:** You should not modify the first tab in this Dashboard. If you want a different dashboard experience, add a tab and customize that with your usage reports.
 

@@ -19,5 +19,5 @@ Configure the Partner Program Deal Type Relationship \(sn\_prm\_dr\_pp\_deal\_ty
 |Deal registration type|Reference|Reference to deal registration type \(sn\_prm\_dr\_deal\_registration\_type\) table|
 |Active|Boolean|Determines whether the partner program and deal type relationship is active or not|
 
-**Parent Topic:**[Partner Relationship Management reference](partner-relationship-management-reference.md)
+**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Configure Localization Framework for Content Publishing, Setup empl
 
 Content Publishing supports multi-lingual content creation by enabling content managers to easily change the interface language and request content translation through the Localization Framework.
 
-For more information on multiple language support in the Content Library, see [Multilingual support in the Content Library](ec-switch-language.md).
+For more information on multiple language support in the Content Library, see [Multilingual support in the Content Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-switch-language.md).
 
 For information on translating custom widgets, see [Translate a client script message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/t_TranslateAClientScriptMessage.md)
 

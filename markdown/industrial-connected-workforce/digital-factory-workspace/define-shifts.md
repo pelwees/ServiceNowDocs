@@ -65,11 +65,11 @@ Schedule records are saved in the Schedule \[cmn\_schedule\] table. Schedule ent
         -   Set the end time to one second before the start of the next shift to avoid overlap.
         -   The value between **When** and **To** is smaller than 24 hours.
         -   Always select a value for the **Repeats** field. If no value is selected, the shift occurs only once.
-        ![Morning shift configured](../../icw-industrial-connected-workforce/image/morning-shift.png)
+        ![Morning shift configured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../../icw-industrial-connected-workforce/image/morning-shift.png)
 
     8.  Select **Submit**.
 
-        ![Afternoon shift configured](../../icw-industrial-connected-workforce/image/afternoon-shift.png)
+        ![Afternoon shift configured](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../../icw-industrial-connected-workforce/image/afternoon-shift.png)
 
 7.  Link functional locations to a schedule:
 
@@ -90,5 +90,5 @@ The shift and its business calendar entries have been created successfully and a
 -   My next shift
 -   My previous shift
 
-**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](../concept/setting-up-prerequisites-digital-factory-workspace.md)
+**Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/setting-up-prerequisites-digital-factory-workspace.md)
 

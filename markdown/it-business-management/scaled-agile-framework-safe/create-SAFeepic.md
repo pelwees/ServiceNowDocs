@@ -262,14 +262,14 @@ Program mapped to the SAFe work enabling top-down hybrid planning. All the activ
 4.  Click **Submit**.
 
 
--   **[Create a monetary benefit plan for an epic](create-monetary-benefit-plan-safe-epic.md)**  
+-   **[Create a monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-monetary-benefit-plan-safe-epic.md)**  
 Epic benefit plans capture the potential benefits accrued by the epic when the epic is executed. Create a monetary benefit plan to specify the estimated benefit in a category spanning one or more fiscal periods.
--   **[Create a non-monetary benefit plan for an epic](create-non-monetary-benefit-plan-safe-epic.md)**  
+-   **[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-non-monetary-benefit-plan-safe-epic.md)**  
 Epic benefit plans capture the potential non-financial benefits accrued by the epic when the epic is executed. Create a non-monetary benefit plan to specify the estimated benefit in a category spanning one or more fiscal periods.
--   **[Associate monetary and non-monetary benefit plans](associate-benefit-plans-safe-epic.md)**  
+-   **[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/associate-benefit-plans-safe-epic.md)**  
 Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
--   **[Generate labor costs for epics](gen-labor-costs-safe-epic.md)**  
+-   **[Generate labor costs for epics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/gen-labor-costs-safe-epic.md)**  
 View the labor cost expenses based on the resource assignments for your epics.
 
-**Parent Topic:**[SAFe entities](../concept/key-entities-SAFe.md)
+**Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/../concept/key-entities-SAFe.md)
 

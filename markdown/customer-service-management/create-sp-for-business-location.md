@@ -80,5 +80,5 @@ Internal or external entity that is involved in providing service to the custome
 **Related topics**  
 
 
-[Create a sold product](create-sold-item.md)
+[Create a sold product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-sold-item.md)
 

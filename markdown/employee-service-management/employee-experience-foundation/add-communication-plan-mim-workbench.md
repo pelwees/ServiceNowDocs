@@ -17,7 +17,7 @@ You can create a new communication plan or add a new communication task to an ex
 
 ## Before you begin
 
-Ensure you have installed the required plugins to be able to use Major Incident Management \(MIM\) workbench. For more information, see [ServiceNow for Microsoft Teams and Microsoft 365](../concept/c_ServiceNowForMSTeams.md).
+Ensure you have installed the required plugins to be able to use Major Incident Management \(MIM\) workbench. For more information, see [ServiceNow for Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_ServiceNowForMSTeams.md).
 
 Role required: major\_incident\_manager
 
@@ -49,10 +49,10 @@ Role required: major\_incident\_manager
 8.  Click **Save**.
 
 
--   **[Send a notification from Major incident management workbench](send-mim-notification.md)**  
+-   **[Send a notification from Major incident management workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/send-mim-notification.md)**  
 Send a Microsoft Teams notification to the stakeholders associated with a major incident.
--   **[View notifications for a major incident](notifications-major-incident.md)**  
+-   **[View notifications for a major incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notifications-major-incident.md)**  
 View the notifications that are sent during specific events in a major incident. These notifications are sent to all the stakeholders associated with the major incident.
 
-**Parent Topic:**[Agent actions](../concept/agent-sn-ms-teams.md)
+**Parent Topic:**[Agent actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/agent-sn-ms-teams.md)
 

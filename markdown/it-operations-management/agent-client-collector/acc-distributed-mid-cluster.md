@@ -40,7 +40,7 @@ Role required: agent\_client\_collector\_admin
 
         The MID Server Clusters page opens, displaying the list of configured MID Server clusters.
 
-        ![MID Server Clusters page](../image/ACC-MID-Server-Clusters.png)
+        ![MID Server Clusters page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-MID-Server-Clusters.png)
 
     2.  Click **New**.
 
@@ -60,15 +60,15 @@ Role required: agent\_client\_collector\_admin
 
         The following page appears:
 
-        ![MID Server Cluster details page](../image/ACC-MID-Cluster.png)
+        ![MID Server Cluster details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-MID-Cluster.png)
 
     2.  On the **Includes MID Servers** tab, click **Edit**.
 
         The **Edit Members** page appears.
 
-        ![Edit Members page](../image/ACC-Edit-Members.png)
+        ![Edit Members page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Edit-Members.png)
 
-    3.  Select the relevant MID Servers from the left cell and click the right arrow button ![Right arrow icon](../image/right-arrow-icon.png) to move them to the right cell.
+    3.  Select the relevant MID Servers from the left cell and click the right arrow button ![Right arrow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/right-arrow-icon.png) to move them to the right cell.
 
         In a staging environment, it is acceptable to have only one MID Server in the cluster.
 
@@ -76,7 +76,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Includes MID Servers** tab displays the MID Servers that are part of the cluster.
 
-        ![Includes MID Servers tab](../image/ACC-includes-MID-Servers-tab.png)
+        ![Includes MID Servers tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-includes-MID-Servers-tab.png)
 
 3.  Enable Metric Intelligence for your MID Server:
 
@@ -88,7 +88,7 @@ Role required: agent\_client\_collector\_admin
 
         The **Metric Intelligence Contexts - New record** page appears.
 
-        ![Metric Intelligence metrics contexts - New record form](../image/acc-mi-metrics-context.png)
+        ![Metric Intelligence metrics contexts - New record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-mi-metrics-context.png)
 
     3.  In the **Name** field, enter a descriptive name for the Metric Intelligence metrics extension.
 
@@ -110,5 +110,5 @@ Role required: agent\_client\_collector\_admin
 **Related topics**  
 
 
-[Limit metrics collection and evaluation](acc-limit-metrics-collection.md)
+[Limit metrics collection and evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-limit-metrics-collection.md)
 

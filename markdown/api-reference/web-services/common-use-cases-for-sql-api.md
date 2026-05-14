@@ -40,5 +40,5 @@ The SQL API supports read-only operations that avoid unintended modifications to
 
 SQL API is designed with built-in limits to keep your ServiceNow instance running smoothly. You can use it to query specific data and integrate it with other data sources, as long as you stay within these limits.
 
-**Parent Topic:**[Getting started with ServiceNow SQL API](getting-started-with-servicenow-sql-api.md)
+**Parent Topic:**[Getting started with ServiceNow SQL API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/getting-started-with-servicenow-sql-api.md)
 

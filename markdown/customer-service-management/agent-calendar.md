@@ -33,7 +33,7 @@ Customer service agents and field service technicians with the agent\_schedule\_
 
 **Note:** The agent calendar is supported in the mobile application and the mobile web.
 
-![Calendar displaying an agent's schedule and daily assignments including work hours, tasks, personal meetings, and appointments.](../image/AgentCalendar.png "Agent Calendar")
+![Calendar displaying an agent's schedule and daily assignments including work hours, tasks, personal meetings, and appointments.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/AgentCalendar.png "Agent Calendar")
 
 The calendar can display a single day, a week, or a month. Buttons in the calendar header allow you to switch views as well as go backward or forward in time. An agent's scheduled work hours are highlighted in gray and the current day is highlighted in blue. The agent calendar displays work or tasks assigned to the agent as well as personal events. Each type of event is displayed on the calendar using a different color.
 
@@ -139,5 +139,5 @@ Allows customer service agents and field service technicians to access and updat
 
 [Creating and using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
-[Configuring an agent calendar](configure-agent-calendar.md)
+[Configuring an agent calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-agent-calendar.md)
 

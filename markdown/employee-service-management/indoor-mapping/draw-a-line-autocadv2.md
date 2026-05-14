@@ -29,7 +29,7 @@ Role required: admin
 
     Select a layer where you want to add the polyline, polygon, or a shape.
 
-3.  Select the Draw line tool ![Draw line icon.](../images/wsd-draw-line-icon.png) tool.
+3.  Select the Draw line tool ![Draw line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-draw-line-icon.png) tool.
 
 4.  Select a starting point or node and drag.
 
@@ -42,5 +42,5 @@ Role required: admin
 7.  Select **Remove** to remove the element from the CAD file.
 
 
-**Parent Topic:**[Drawing and editing tools in the CAD editor](../concept/editing-tools-cad-editor.md)
+**Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/editing-tools-cad-editor.md)
 

@@ -37,23 +37,23 @@ If changes are made to a contract start date, end date, or terms and conditions,
     -   If earlier versions of the contract exist, click a date in the **Contract Starts** column to view a version.
     -   If an earlier version of the contract does not exist, change the contract's **Start date** or **End date**. Right-click in the header bar and select **Save**. In the **Contract History** related list, click a date in the **Contract Starts** column to view the earlier version.
 
--   **[Run a contract report](t_CreatingContractReports.md)**  
+-   **[Run a contract report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreatingContractReports.md)**  
 A variety of contract reports are available to help track and manage contracts.
 
-**Parent Topic:**[Contracts](../concept/c_Contracts.md)
+**Parent Topic:**[Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_Contracts.md)
 
 **Related topics**  
 
 
-[Create a contract](t_CreateAContract.md)
+[Create a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_CreateAContract.md)
 
-[Adjust a contract](t_AdjustAContract.md)
+[Adjust a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_AdjustAContract.md)
 
-[Verify contract administrator assignment for notification](t_SendAContractNotification.md)
+[Verify contract administrator assignment for notification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendAContractNotification.md)
 
-[Send the contract for approval](t_SendTheContractForApproval.md)
+[Send the contract for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_SendTheContractForApproval.md)
 
-[Terms and conditions](../concept/c_TermsAndConditions.md)
+[Terms and conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/../concept/c_TermsAndConditions.md)
 
-[Create a contract rate card](t_ContractRateCardsAndExpenseLines.md)
+[Create a contract rate card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ContractRateCardsAndExpenseLines.md)
 

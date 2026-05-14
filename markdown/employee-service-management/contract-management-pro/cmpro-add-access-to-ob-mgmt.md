@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select a contract record.
 
-3.  Right-click the context menu icon ![Context menu icon](../../universal-task/images/context-menu.png) and select **Configure** &gt; **Related Lists**.
+3.  Right-click the context menu icon ![Context menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../universal-task/images/context-menu.png) and select **Configure** &gt; **Related Lists**.
 
 4.  In the **View** list, select the workspace view that should include the Obligations tab.
 
@@ -41,34 +41,34 @@ Role required: admin
 
 The Obligations tab will appear in contract repository records.
 
-![View obligation for a signed contract fron the Obligations tab](../image/cmpro-obligation-tab.png "Obligations tab in contract repository record")
+![View obligation for a signed contract fron the Obligations tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-obligation-tab.png "Obligations tab in contract repository record")
 
-For more information on roles required to work on obligation management, see [Components installed with Contract Management Pro](../reference/cncore-comp-ccore.md).
+For more information on roles required to work on obligation management, see [Components installed with Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-ccore.md).
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-uptake-steps.md)
 
 **Related topics**  
 
 
-[Configure non-task tables for contract templates](cmpro-config-non-tsk-tbl-cn-tmplt.md)
+[Configure non-task tables for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-non-tsk-tbl-cn-tmplt.md)
 
-[Add a workspace action button for initiating a contract request](cncore-config-initiate-cont.md)
+[Add a workspace action button for initiating a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-initiate-cont.md)
 
-[Add Contract requests tab to the contract request record](cncore-add-relatedlist-conreq.md)
+[Add Contract requests tab to the contract request record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-relatedlist-conreq.md)
 
-[Add amendment tabs to contract repository record](cncore-BU-amend-relatedlist.md)
+[Add amendment tabs to contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-BU-amend-relatedlist.md)
 
-[Add Contract documents tab to the contract repository record](cncore-add-con-doc-relatedl.md)
+[Add Contract documents tab to the contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-con-doc-relatedl.md)
 
-[Copy fields from parent request to contract request](cncore-copy-fld-frm-parent.md)
+[Copy fields from parent request to contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-copy-fld-frm-parent.md)
 
-[Group contract documents by contract type in a contract request](cncore-config-srp-grouping.md)
+[Group contract documents by contract type in a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-srp-grouping.md)
 
-[Configure the contract request form header for your workspace](cncore-configure-header.md)
+[Configure the contract request form header for your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-configure-header.md)
 
-[Assign a role for configuring template mappings](cncore-tbl-access-config-role.md)
+[Assign a role for configuring template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-tbl-access-config-role.md)
 
-[Enable contract request fields in condition builders](cncore-add-cmr-condtion-build.md)
+[Enable contract request fields in condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
-[Configuring the Playbook tab on contract repository records](cmpro-config-playbook-tab.md)
+[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 

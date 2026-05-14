@@ -47,11 +47,11 @@ Step-by-step instructions for external tools in this guide are illustrative — 
 
     2.  Attach the ServiceNow JDBC driver JAR file that you downloaded and configured on your client machine by selecting the **+** icon on the right side of the screen.
 
-        The Driver Class loads automatically and your new driver is created in DB Visualizer.![DB Visualizer UI screen to enter your name and driver class.](../image/sql-api-dbvisualizer-1.png)
+        The Driver Class loads automatically and your new driver is created in DB Visualizer.![DB Visualizer UI screen to enter your name and driver class.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-dbvisualizer-1.png)
 
 5.  Select the **+** icon to create a connection.
 
-    ![DB Vizualizer UI screen to connect the driver.](../image/sql-api-dbvisualizer-4.png)
+    ![DB Vizualizer UI screen to connect the driver.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-dbvisualizer-4.png)
 
 6.  Select and double-click \(or use the keyboard shortcut\) the newly created driver \(SN Driver 1\).
 
@@ -65,7 +65,7 @@ Step-by-step instructions for external tools in this guide are illustrative — 
 
     3.  In the **Database Password** field, enter the password for your Service Account.
 
-        ![DB Visualizer UI screen to configure the connection properties and test the connection.](../image/sql-api-dbvisualizer-2.png)
+        ![DB Visualizer UI screen to configure the connection properties and test the connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-dbvisualizer-2.png)
 
 8.  Select **Connect**.
 
@@ -73,12 +73,12 @@ Step-by-step instructions for external tools in this guide are illustrative — 
 
 9.  Navigate to **SQL Commander** &gt; **New SQL Commander**, select the driver and database, and run your query.
 
-    ![DB Visualizer UI screen to run your SQL query.](../image/sql-api-dbvisualizer-3.png)
+    ![DB Visualizer UI screen to run your SQL query.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/sql-api-dbvisualizer-3.png)
 
 
 ## Result
 
 You have successfully connected DB Visualizer to your ServiceNow instance using the JDBC driver. You can now query authorized ServiceNow tables using SQL commands in DB Visualizer. The connection respects all ServiceNow Access Control Lists \(ACLs\) and security policies configured for your Service Account.
 
-**Parent Topic:**[Integrate SQL API Drivers with external BI tools](../reference/configure-drivers-bi-tools.md)
+**Parent Topic:**[Integrate SQL API Drivers with external BI tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../reference/configure-drivers-bi-tools.md)
 

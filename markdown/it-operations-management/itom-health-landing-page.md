@@ -17,15 +17,15 @@ ITOM AIOps enables IT operations teams, site reliability engineers, and DevOps p
 
 <table id="table_ty2_cyx_z3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITOM AIOps](exploring-itom-aiops.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about ITOM AIOps](exploring-itom-aiops.md)
 
 </td><td>
 
-[Configure](../../service-operations-workspace-itom/concept/configure-sow-itom.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Service Operations Workspace to work with ITOM AIOps
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../../service-operations-workspace-itom/concept/configure-sow-itom.md)![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Service Operations Workspace to work with ITOM AIOps
 
 </td></tr><tr><td>
 
-[Reference](../concept/itom-health-use-case-product-view.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about ITOM AIOps
+[Reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/../concept/itom-health-use-case-product-view.md)![](../../../reuse/icons/brand-icons/bus-learn.svg)Find reference information about ITOM AIOps
 
 </td><td>
 

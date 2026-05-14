@@ -23,7 +23,7 @@ Role required: sn\_change\_cab.cab\_manager
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/sow-list.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-list.png)\).
 
 3.  In the **Change Advisory Board**, select **My upcoming CAB meetings**.
 
@@ -124,7 +124,7 @@ Elapsed time
 Time already spent on the agenda item during the meeting.
 
 </td></tr></tbody>
-</table>8.  Add relevant attachments to the agenda item by selecting the attachments icon \(![Attachments icon.](../../itsm-workspace/image/attachment-icon.png)\) and uploading files.
+</table>8.  Add relevant attachments to the agenda item by selecting the attachments icon \(![Attachments icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/attachment-icon.png)\) and uploading files.
 
 9.  Select **Save**.
 
@@ -134,8 +134,8 @@ Time already spent on the agenda item during the meeting.
 
 11. You can choose to send the meeting invite with updated agenda items to attendees by selecting **Yes** in the confirmation message box.
 
-    Alternatively, you can send the meeting requests to attendees by selecting the more actions icon \(![More actions icon.](../../itsm-workspace/image/more-actions-icon.png)\) and then selecting **Send meeting request to attendees**.
+    Alternatively, you can send the meeting requests to attendees by selecting the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and then selecting **Send meeting request to attendees**.
 
 
-**Parent Topic:**[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+**Parent Topic:**[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 

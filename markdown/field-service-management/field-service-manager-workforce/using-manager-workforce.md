@@ -33,19 +33,19 @@ Technicians can:
 -   View schedules.
 -   Create personal events.
 
-![Hybrid view of Workforce](../image/workforce-hybrid-view.png)
+![Hybrid view of Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../image/workforce-hybrid-view.png)
 
 To manage agents and tasks effectively, explore these topics:
 
--   [Using the team calendar](using-team-calendar.md)
+-   [Using the team calendar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-team-calendar.md)
 
     Access and manage schedules, events, and availability in one place.
 
--   [Using the map](using-manager-map.md)
+-   [Using the map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-manager-map.md)
 
     View tasks and agent locations on an interactive map.
 
--   [View agent location history map](../task/view_agent_location_history_map.md)
+-   [View agent location history map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../task/view_agent_location_history_map.md)
 
     Track historical movements of agents for planning and analysis.
 

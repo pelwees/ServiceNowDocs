@@ -23,7 +23,7 @@ Role required: wm\_dispatcher
 
 1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
-2.  In the left panel, select the **List** icon \(![List icon.](../image/lists_icon.png)\).
+2.  In the left panel, select the **List** icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/lists_icon.png)\).
 
 3.  Select **My Bundles**.
 
@@ -31,7 +31,7 @@ Role required: wm\_dispatcher
 
 5.  Make your desired changes.
 
-    See [Field Service Task Bundling fields](../reference/work-order-task-bundling-fields.md) for information on the fields that you can change.
+    See [Field Service Task Bundling fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../reference/work-order-task-bundling-fields.md) for information on the fields that you can change.
 
 6.  Select **Save**.
 

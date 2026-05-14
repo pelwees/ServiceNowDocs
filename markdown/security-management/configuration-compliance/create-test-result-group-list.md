@@ -41,17 +41,17 @@ This method requires selecting test results to include and creating the group fr
 
 4.  Open the **Actions on selected rows...** menu at the bottom of the list.
 
-    ![Remediation task from a list](../image/TestResultGroupList.png)
+    ![Remediation task from a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/TestResultGroupList.png)
 
 5.  Choose **Create Remediation Task**.
 
     The remediation task is created and opens.
 
-    ![v10.3 Remediation Task form](../image/v11TestResultGroupUIAction.png "Remediation Task form")
+    ![v10.3 Remediation Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11TestResultGroupUIAction.png "Remediation Task form")
 
     The test results you selected for the remediation task are displayed on the Test Results related list along with any associated change requests.
 
-    ![Test Results and Change Requests related lists on new Remediation Task](../image/v11TestResultGroupUIActionbottom.png)
+    ![Test Results and Change Requests related lists on new Remediation Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../image/v11TestResultGroupUIActionbottom.png)
 
 6.  Fill in the fields on the form, as appropriate.
 
@@ -101,7 +101,7 @@ State
 
 </td><td>
 
-Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](../concept/vuln-config-compl-states.md).
+Initially **Open**, is the remediation state of the remediation task. For more information, see [Configuration Compliance states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/../concept/vuln-config-compl-states.md).
 
 </td></tr><tr><td>
 

@@ -23,7 +23,7 @@ When you create a plan, you also select a primary element that the plan covers. 
 
 The example shows the primary scope and related assets for a business continuity plan.
 
-![Primary scope and related assets.](../image/primary-scope-related-assets.png)
+![Primary scope and related assets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/primary-scope-related-assets.png)
 
 ## Related plans
 

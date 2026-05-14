@@ -40,5 +40,5 @@ Access to content is based on permissions to a specific forum. If content is mov
     An email notification is sent to the author of the content, subscribers to the content, and subscribers to the forum.
 
 
-**Parent Topic:**[Configure community forums](configure-forums-topics.md)
+**Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 

@@ -25,7 +25,7 @@ Verify that you have activated the Omni-Experience Standard Feature Set plugin. 
 
 1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
-2.  Select the List view ![list view icon](../image/listview-icon.png) icon.
+2.  Select the List view ![list view icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/listview-icon.png) icon.
 
 3.  Open a security incident for which you want to initiate a sidebar discussion.
 
@@ -83,7 +83,7 @@ Option to add participants for the sidebar discussion. If you have integrated si
 Provide a brief summary about the issue to be discussed in the sidebar discussion.
 
 </td></tr></tbody>
-</table>    ![Initiate a Sidebar chat in Security Incident Response](../image/native-sidebar-chat.png "Initiate a Sidebar chat in Security Incident Response")
+</table>    ![Initiate a Sidebar chat in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/native-sidebar-chat.png "Initiate a Sidebar chat in Security Incident Response")
 
 6.  Select **Start discussion**.
 
@@ -92,5 +92,5 @@ Provide a brief summary about the issue to be discussed in the sidebar discussio
     To limit the action usage, you can use the **Apply to group** field on the quick action page. For more information, see [Creating a quick action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-quick-actions-overview.md).
 
 
-**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](../concept/collab-sir-call-chat.md)
+**Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/collab-sir-call-chat.md)
 

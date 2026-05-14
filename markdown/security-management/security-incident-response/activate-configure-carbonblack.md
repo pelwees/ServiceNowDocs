@@ -21,7 +21,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [Download the integration from the ServiceNow Store](../../../security-incident-response/reference/download-app-first-time.md).
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../security-incident-response/reference/download-app-first-time.md).
 
 2.  When the installation is complete, access the Carbon Black website and obtain the Endpoint Base URL and API Token under your profile.
 
@@ -31,7 +31,7 @@ Role required: sn\_si\_admin
 
 4.  In the Carbon Black card, click **New**.
 
-    ![Configure Carbon Black integration](../image/carbonblack-config.png)
+    ![Configure Carbon Black integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/carbonblack-config.png)
 
 5.  Fill in the fields, as needed.
 

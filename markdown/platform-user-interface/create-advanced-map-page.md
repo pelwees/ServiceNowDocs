@@ -35,7 +35,7 @@ When clicked, lists and forms display for codeless user experience, facilitating
 
 4.  In the **Name** field, enter a unique name for your Map Page.
 
-5.  Click the menu icon \(![Menu icon](../../workspace/image/menu-icon.png)\) and select **Save**.
+5.  Click the menu icon \(![Menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../workspace/image/menu-icon.png)\) and select **Save**.
 
     Related links appear at the bottom of the form.
 
@@ -44,27 +44,27 @@ When clicked, lists and forms display for codeless user experience, facilitating
 
 Click the **Create Map Data Item** related link, and complete the form.
 
--   **[Configure map data items](configure-map-data-items.md)**  
+-   **[Configure map data items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md)**  
 Add map data items to render data on your Map Page using the Classic Environment.
--   **[Create a map marker](configure-map-markers.md#)**  
+-   **[Create a map marker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md#)**  
 Add a map marker icon and define the click behavior to differentiate between data on your Map Page using the Classic Environmentlis.
--   **[Add a map filter](set-up-map-filters.md#)**  
+-   **[Add a map filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md#)**  
 Add a map filter to display filtered map markers. This filter enables you to see only the map markers for the data that you want.
 
-**Parent Topic:**[Map pages](../concept/c_MapPages.md)
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_MapPages.md)
 
 **Related topics**  
 
 
-[Set up Google Maps API](set-up-google-maps-api.md)
+[Set up Google Maps API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md)
 
-[Create a map page](t_CreateAMapPage.md)
+[Create a map page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAMapPage.md)
 
-[Create a map page module](create-map-page-module.md)
+[Create a map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/create-map-page-module.md)
 
-[Set map application scope](set-map-application-scope.md)
+[Set map application scope](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/set-map-application-scope.md)
 
-[Create a smartphone map page module](t_CreateASmartphoneMapPageModule.md)
+[Create a smartphone map page module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateASmartphoneMapPageModule.md)
 
-[Scripting for map pages](../reference/scripting-for-map-pages.md)
+[Scripting for map pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/scripting-for-map-pages.md)
 

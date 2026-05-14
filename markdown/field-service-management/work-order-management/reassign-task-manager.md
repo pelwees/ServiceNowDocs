@@ -25,7 +25,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Tap the assignment group or territory that the agent you want to reassign a task to is part of.
 
-3.  Tap the clipboard icon \(![clipboard](../image/manager-clipboard.png)\) next to the agent that you want to reassign a task from.
+3.  Tap the clipboard icon \(![clipboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/manager-clipboard.png)\) next to the agent that you want to reassign a task from.
 
 4.  Tap the task that you want to reassign.
 

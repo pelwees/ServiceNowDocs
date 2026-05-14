@@ -232,5 +232,5 @@ Move Request\[move\_request\]
 Warn the user that the selected **from location** is a \(cmn\_location\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Installed with Facilities Move Management](r_InstallWFacMoveMgmt.md)
+</table>**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 

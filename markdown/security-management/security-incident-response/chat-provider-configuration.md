@@ -40,5 +40,5 @@ Once the connection is activated and validated, an information message is displa
     With this connection between Microsoft Teams and ServiceNow AI Platform Instance is successfully established.
 
 
-**Parent Topic:**[Configure Microsoft Teams](../concept/chat-channel-provider-config.md)
+**Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/chat-channel-provider-config.md)
 

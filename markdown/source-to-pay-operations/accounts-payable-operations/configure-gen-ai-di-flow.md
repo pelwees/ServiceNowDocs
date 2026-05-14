@@ -36,9 +36,9 @@ Plugins required:
 
 2.  Search for and open the **DocIntel Extract Values Flow - Invoice Processing - Gen AI - Invoice Processing - Gen AI Integration** flow.
 
-3.  Select the ![more actions](../image/more-actions.png) icon &gt; **Copy flow**.
+3.  Select the ![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/more-actions.png) icon &gt; **Copy flow**.
 
-    A copy of the **DocIntel Extract Values Flow - Invoice Processing - Gen AI - Invoice Processing - Gen AI Integration** is created.![GenAI Integration flow](../image/doc-intel-gen-ai-flow.png)
+    A copy of the **DocIntel Extract Values Flow - Invoice Processing - Gen AI - Invoice Processing - Gen AI Integration** is created.![GenAI Integration flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/doc-intel-gen-ai-flow.png)
 
 4.  Select **Save** &gt; **Activate**.
 

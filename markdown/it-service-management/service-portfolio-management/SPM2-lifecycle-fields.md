@@ -21,7 +21,7 @@ Role required: portfolio\_admin or service\_editor
 
 ## About this task
 
-![Life cycle stages.](../image/spm2-lifecycle-fields.png "Taxonomy node CSDM life cycle stages for service portfolios")
+![Life cycle stages.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../image/spm2-lifecycle-fields.png "Taxonomy node CSDM life cycle stages for service portfolios")
 
 <table id="table_dmg_s5x_2dc"><thead><tr><th>
 
@@ -106,5 +106,5 @@ The **Active** check box determines if the portfolio is displayed in the DPM Wor
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Edit and manage service portfolios in Service Portfolio Management](../concept/SPM2-edit-manage-portfolios.md)
+**Parent Topic:**[Edit and manage service portfolios in Service Portfolio Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/../concept/SPM2-edit-manage-portfolios.md)
 

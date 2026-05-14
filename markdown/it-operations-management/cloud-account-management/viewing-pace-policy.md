@@ -41,7 +41,7 @@ For each step, an entry is created in the **sn\_itom\_cam\_automation\_activity*
 
 5.  To add a condition, select **New condition set**.
 
-6.  To remove a condition, select the delete icon ![Delete](../../event-management/image/delete-input-icon.png).
+6.  To remove a condition, select the delete icon ![Delete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../../event-management/image/delete-input-icon.png).
 
     **Note:** For more information on managing policies, see [Manage PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-admin-manage-policies.md).
 
@@ -50,7 +50,7 @@ For each step, an entry is created in the **sn\_itom\_cam\_automation\_activity*
 
 These sections explain how to modify, test, and publish the automation policy.
 
--   [Automate General Approval policy process](../task/automate-account-creation-approval.md)
--   [Automate Budget Approval policy process](../task/automate-account-budget-approval.md)
--   [Automate Configuration Assignment policy process](../task/automate-account-creation-config-assign.md)
+-   [Automate General Approval policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-creation-approval.md)
+-   [Automate Budget Approval policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-budget-approval.md)
+-   [Automate Configuration Assignment policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-creation-config-assign.md)
 

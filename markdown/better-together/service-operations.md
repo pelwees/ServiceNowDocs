@@ -15,7 +15,7 @@ You can expand services while reducing costs, delivering high-quality customer a
 
 ## Combined benefits of integrating Service Operations Workspace for IT Service Management \(ITSM\) and IT Operations Management \(ITOM\)
 
-![Benefits of integrating Service Operations Workspace for ITSM and ITOM](../image/sow-solutions-benefits.png)
+![Benefits of integrating Service Operations Workspace for ITSM and ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../image/sow-solutions-benefits.png)
 
 <table id="table_mbd_31q_lvb"><thead><tr><th>
 
@@ -39,15 +39,15 @@ Simple, intuitive, and clear user interface \(UI\)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -55,15 +55,15 @@ Automated recommendations based on user actions
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -71,15 +71,15 @@ Tailored landing page providing an overview of tasks
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -87,15 +87,15 @@ Effective incident management for service desk agents
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -103,15 +103,15 @@ Experts on call for high-priority tasks 
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -119,15 +119,15 @@ Onboarding experience for logged-in users
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -135,15 +135,15 @@ Walk-up experience
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -151,15 +151,15 @@ Request management from incidents and interactions
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -167,15 +167,15 @@ Guided experience for initial configuration of Service Operations Workspace
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -183,15 +183,15 @@ Presentation of a service's complete context with related metrics, logs, and add
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -199,15 +199,15 @@ Quick remediation for alerts of a service
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr><tr><td>
 
@@ -215,15 +215,15 @@ Quick automation for operators when using an embedded playbook experience within
 
 </td><td>
 
-![No](../../reuse/images/icon-error-red-x.png)
+![No](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-error-red-x.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td><td>
 
-![Yes](../../reuse/images/icon-check-mark-green.png)
+![Yes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../../reuse/images/icon-check-mark-green.png)
 
 </td></tr></tbody>
 </table>## Workflow for Service Operations Workspace
@@ -238,7 +238,7 @@ Use Service Operations Workspace for IT Service Management \(ITSM\) and IT Opera
 
 The following figure shows an example workflow of how an IT operator and a service agent \(service desk agent or L2/L3 specialist\) can use these applications to resolve a customer issue.
 
-![Service Operations Workspace workflow for ITSM and ITOM integration](../image/sow-workflow.png "Service Operations Workspace for ITSM and ITOM workflow")
+![Service Operations Workspace workflow for ITSM and ITOM integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../image/sow-workflow.png "Service Operations Workspace for ITSM and ITOM workflow")
 
 In this workflow:
 
@@ -300,8 +300,8 @@ To get started with Service Operations Workspace for ITSM and ITOM, follow these
         Role: itil.
 
 
--   **[Case Study: Enhancing Risk, Compliance, and Audit Management with ITOM](use-case-itom-risk-compliance-audit-mgmt.md)**  
+-   **[Case Study: Enhancing Risk, Compliance, and Audit Management with ITOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/use-case-itom-risk-compliance-audit-mgmt.md)**  
 The use case demonstrates how ITOM integration streamlined risk, compliance, and audit management for a financial institution by providing real-time operational visibility, automation, and enhanced risk assessments.
 
-**Parent Topic:**[Solutions](../reference/solutions-gallery.md)
+**Parent Topic:**[Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/better-together/../reference/solutions-gallery.md)
 

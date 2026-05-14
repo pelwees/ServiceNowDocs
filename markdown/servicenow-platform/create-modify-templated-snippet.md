@@ -122,9 +122,9 @@ Variables you can add to the template body. For example, if you choose the HR Ca
 </td></tr></tbody>
 </table>    The following GIF shows an example of an HR manager in the HR Service Delivery application creating a response template to escalate payroll discrepancy cases. The template is associated with the HR Payroll Case \[sn\_hr\_core\_case\_payroll\] table, and a condition is set to filter on cases that match the Payroll Discrepancy HR service. The template text is pasted into the body, and then a variable for the subject person is added to the salutation.
 
-    ![Response Template](../image/response-template.png)
+    ![Response Template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/response-template.png)
 
-    ![How you can create a response template with conditions and variables.](../image/response-template-example.gif)
+    ![How you can create a response template with conditions and variables.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/response-template-example.gif)
 
 4.  Click **Submit** or **Update**.
 
@@ -139,5 +139,5 @@ You can copy response template content to any field on a form that meets the spe
 
 The following GIF shows an example of an HR case writer in the HR Service Delivery application opening a payroll discrepancy case and copying a payroll discrepancy escalation template to the comments field in the HR case form for the employee to read.
 
-![How you can copy response template content to a field on a case form.](../image/response-template-example-2.gif)
+![How you can copy response template content to a field on a case form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/response-template-example-2.gif)
 

@@ -17,15 +17,15 @@ Cloud License Estimator enables you to get the estimated resource count for all 
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Cloud License Estimator.](explore-cloud-license-estimator.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Cloud License Estimator.](explore-cloud-license-estimator.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up credentials and configure accounts.](configure-cloud-license-estimator.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../../../reuse/icons/brand-icons/bus-sdlc.svg)Set up credentials and configure accounts.](configure-cloud-license-estimator.md)
 
 </td><td>
 
-[Generate Reports![](../../../reuse/icons/brand-icons/bus-learn.svg) Generate reports with Cloud License Estimator.](cle-generate-reports.md)
+[Generate Reports![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/../../../reuse/icons/brand-icons/bus-learn.svg) Generate reports with Cloud License Estimator.](cle-generate-reports.md)
 
 </td></tr></tbody>
 </table>

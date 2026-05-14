@@ -33,7 +33,7 @@ You can either look up the personal targets or thresholds of a user or create a 
 
     2.  When you find the target or threshold that you want to modify, select the info icon ![](../../dashboards/image/IconInformation.png) on the row for that target or threshold record.
 
-        ![Opening the preview of a target record.](../image/target-record-open-preview.png)
+        ![Opening the preview of a target record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/target-record-open-preview.png)
 
         The preview for that target or threshold record appears.
 
@@ -64,5 +64,5 @@ You can either look up the personal targets or thresholds of a user or create a 
     You can have more than one target value, but the date ranges between start and review cannot overlap.
 
 
-**Parent Topic:**[Performance Analytics targets and thresholds](../concept/pa-targets-thresholds.md)
+**Parent Topic:**[Performance Analytics targets and thresholds](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../concept/pa-targets-thresholds.md)
 

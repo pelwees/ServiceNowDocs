@@ -65,7 +65,7 @@ High Privilege MFA Users
 
 </td><td>
 
-Bar![Bar chart](../../../reuse/reporting/image/bars-total.svg)
+Bar![Bar chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/reporting/image/bars-total.svg)
 
 </td><td>
 
@@ -81,7 +81,7 @@ MFA User Trend
 
 </td><td>
 
-![Trend chart](../../../reuse/reporting/image/trend.svg) Trend
+![Trend chart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../reuse/reporting/image/trend.svg) Trend
 
 </td><td>
 
@@ -92,5 +92,5 @@ MFA User Trend
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Monitor instance metrics](../../../administer/security/concept/monitoring-user-email-antivirus-metrics.md)
+</table>**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../../administer/security/concept/monitoring-user-email-antivirus-metrics.md)
 

@@ -42,5 +42,5 @@ Specifies whether the system displays search result preview lists for NLQ Genius
 
 
 </td></tr></tbody>
-</table>**Parent Topic:**[NLQ Genius Results](../concept/genius-result-nlq-ais.md)
+</table>**Parent Topic:**[NLQ Genius Results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/genius-result-nlq-ais.md)
 

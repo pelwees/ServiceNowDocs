@@ -117,11 +117,11 @@ Use the following payload: ```
 1.  Navigate to **All** &gt; **IntegrationHub** &gt; **Connection &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
 2.  Select to open the connector for which you want to get the &lt;connections\_alias\_sys\_id&gt;.
 
-![Dynatrace connection aliases list.](../image/dynatrace-connection-aliases.png)
+![Dynatrace connection aliases list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/dynatrace-connection-aliases.png)
 
-3.  Right-click the context menu \(![menu icon](../../../common/image/Form_MenuIcon.png)\) and then select **Copy sys\_id**.
+3.  Right-click the context menu \(![menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../../common/image/Form_MenuIcon.png)\) and then select **Copy sys\_id**.
 
-![sys_id of the connection.](../image/dynatrace-static-sys-id.png)
+![sys_id of the connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../image/dynatrace-static-sys-id.png)
 
 </td></tr><tr><td>
 

@@ -130,5 +130,5 @@ Role required: admin
     For a change\_request table that has a value as standard, Active is set as False when migrating the records from ITSM Agent Workspace to SOW.
 
 
-**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](../reference/related-list-declarative-actions-aw-sow.md)
+**Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../reference/related-list-declarative-actions-aw-sow.md)
 

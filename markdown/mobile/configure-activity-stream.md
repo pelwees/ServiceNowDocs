@@ -129,7 +129,7 @@ Hidden attachment sources
 
 </td><td>
 
-Choose values where you don’t want images sourced from. Select either one or more of the following sources: **Camera**, **Files**, and **Gallery**. For more information, see [Define attachment sources available to users](attachment-source-define.md).
+Choose values where you don’t want images sourced from. Select either one or more of the following sources: **Camera**, **Files**, and **Gallery**. For more information, see [Define attachment sources available to users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/attachment-source-define.md).
 
 </td></tr><tr><td>
 
@@ -159,7 +159,7 @@ Icon used to represent your activity stream.
 
 Your record screen includes an **Activity** tab. Your users can tap this tab to view comments, work notes, and attachments relating to the record.
 
-![Activity Stream tab](../image/mobile-activity-stream.png "Stream tab")
+![Activity Stream tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-activity-stream.png "Stream tab")
 
 The following file types are supported for previewing files:
 

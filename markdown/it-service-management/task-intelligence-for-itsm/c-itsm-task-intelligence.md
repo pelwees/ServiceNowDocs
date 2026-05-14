@@ -19,23 +19,23 @@ ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy,
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Task Intelligence for ITSM concepts and features.](exploring-task-intel-itsm.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Task Intelligence for ITSM concepts and features.](exploring-task-intel-itsm.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environment, tools, and user access.](configure-task-intelligence-for-itsm.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure environment, tools, and user access.](configure-task-intelligence-for-itsm.md)
 
 </td><td>
 
-[Manage![](../../../reuse/icons/brand-icons/bus-manage.svg)Learn how you can use Task Intelligence for ITSM.](using-task-intelligence-itsm.md)
+[Manage![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../../reuse/icons/brand-icons/bus-manage.svg)Learn how you can use Task Intelligence for ITSM.](using-task-intelligence-itsm.md)
 
 </td></tr><tr><td>
 
-[Monitor![](../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about monitoring and analyzing Task Intelligence for ITSM models](task-intel-monitor-analystics.md).
+[Monitor![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../../reuse/icons/brand-icons/bus-monitor.svg)Learn about monitoring and analyzing Task Intelligence for ITSM models](task-intel-monitor-analystics.md).
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Intelligence for ITSM components, such as roles and dependent applications.](../reference/task-intelligence-itsm-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about Task Intelligence for ITSM components, such as roles and dependent applications.](../reference/task-intelligence-itsm-reference.md)
 
 </td><td>
 

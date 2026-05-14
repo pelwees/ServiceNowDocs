@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  Select the attachment icon ![Attachment icon](../image/attach-icon.png) to upload the email certificate.
+3.  Select the attachment icon ![Attachment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/attach-icon.png) to upload the email certificate.
 
 4.  On the form, fill in the fields.
 
@@ -46,16 +46,16 @@ Role required: admin
 
 ## What to do next
 
-Enable[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md).
+Enable[Enable S/MIME](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/enable-smime-for-outbound-and-inbound.md).
 
-**Parent Topic:**[Setting up S/MIME for email](../concept/smime-for-email-signing-and-encryption.md)
+**Parent Topic:**[Setting up S/MIME for email](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
 
-[Import an S/MIME key pair](import-smime-key-pair.md)
+[Import an S/MIME key pair](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/import-smime-key-pair.md)
 
-[Upload a CA certificate](upload-ca-certificate.md)
+[Upload a CA certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upload-ca-certificate.md)
 
-[Enable S/MIME](../concept/enable-smime-for-outbound-and-inbound.md)
+[Enable S/MIME](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/enable-smime-for-outbound-and-inbound.md)
 

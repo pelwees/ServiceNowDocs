@@ -17,7 +17,7 @@ Before you can integrate the Enterprise Asset Management application with a thir
 
 ## Structure of the ITAMShipmentIntegration script include
 
-![ITAM Shipment Integration script include](../../hardware-asset-management/image/itam-integration-script.png)
+![ITAM Shipment Integration script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../../hardware-asset-management/image/itam-integration-script.png)
 
 ## fetchShipmentInfo function
 
@@ -38,5 +38,5 @@ The processResponse function within the ITAMShipmentIntegration script include r
 
 **Important:** The IT Asset Management application automatically defines the business logic within this function. The business logic should not be modified.
 
-**Parent Topic:**[Managing enterprise asset shipments](../concept/manage-shipments-eam.md)
+**Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/manage-shipments-eam.md)
 

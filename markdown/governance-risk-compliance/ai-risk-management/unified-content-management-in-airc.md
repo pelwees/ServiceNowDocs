@@ -24,7 +24,7 @@ The application contains the following frameworks and authority documents:
 -   EU Artificial Intelligence Act
 -   NIST Risk Management Framework
 
-![Available AI Risk and Compliance content packs.](../image/ai-risk-compliance-content.png)
+![Available AI Risk and Compliance content packs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../image/ai-risk-compliance-content.png)
 
 **Note:** The list of frameworks supported isn’t exhaustive and may evolve in future releases.
 
@@ -40,7 +40,7 @@ The following are the benefits of the Unified content management application:
 **Related topics**  
 
 
-[Activate or update NIST Risk Management Framework using the Unified content management](../task/activate-or-update-nist-using-the-content-accelerator.md)
+[Activate or update NIST Risk Management Framework using the Unified content management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/activate-or-update-nist-using-the-content-accelerator.md)
 
-[Activate or update EU Artificial Intelligence Act using the Unified content management](../task/activate-or-update-eu-artificial-intelligence-act.md)
+[Activate or update EU Artificial Intelligence Act using the Unified content management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../task/activate-or-update-eu-artificial-intelligence-act.md)
 

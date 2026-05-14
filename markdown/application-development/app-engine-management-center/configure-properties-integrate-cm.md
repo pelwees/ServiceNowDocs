@@ -74,9 +74,9 @@ This task can be completed within the Guided Setup system. This task opens withi
 
     1.  Navigate to **All** &gt; **Change** &gt; **Standard Change** &gt; **All Templates**.
 
-    2.  Select the update personalized list icon \(![Update personalized list icon](../image/update-personalized-list-icon.png)\) from the list header.
+    2.  Select the update personalized list icon \(![Update personalized list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/update-personalized-list-icon.png)\) from the list header.
 
-    3.  In the Available column, select **Template** and use the move icon \(![Move icon](../../app-engine-studio/image/app-tutorial-move-right-icon.png)\) to add it to the Selected column.
+    3.  In the Available column, select **Template** and use the move icon \(![Move icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../app-engine-studio/image/app-tutorial-move-right-icon.png)\) to add it to the Selected column.
 
     4.  Select **OK**.
 
@@ -131,7 +131,7 @@ By default, the **Create CMDB CI if not present** subflow will run automatically
 
         The sys\_id is listed at the top of the page, after **All&gt; Flow=**.
 
-        ![Subflow's sys_id](../image/subflow-sys-id.png)
+        ![Subflow's sys_id](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/subflow-sys-id.png)
 
 3.  In the **sn\_deploy\_pipeline.change\_management.config\_ci\_creation\_subflow** property, paste the sys\_id you have copied into the **Value** field, replacing its current contents.
 

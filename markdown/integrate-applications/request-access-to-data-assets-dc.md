@@ -41,12 +41,12 @@ Use the data catalog to discover and request access to data products and data in
 
 5.  Select **Request access**.
 
-    ![Data asset page showing Request Access button.](../image/dc-data-asset-request-access.gif)Your access request is submitted to the data steward for review and approval.
+    ![Data asset page showing Request Access button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/dc-data-asset-request-access.gif)Your access request is submitted to the data steward for review and approval.
 
 
 ## Result
 
 The data steward receives a notification about your access request and can review, approve, or deny the request. You receive an email notification when the request status changes.
 
-**Parent Topic:**[Finding and accessing data assets](../concept/find-access-data-assets-dc.md)
+**Parent Topic:**[Finding and accessing data assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/find-access-data-assets-dc.md)
 

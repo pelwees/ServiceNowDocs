@@ -43,7 +43,7 @@ Depending on the scenario analysis type, such as a scenario analysis for critica
 
     See the sample configuration for a participant role as shown in the following example.
 
-    ![Sample configuration for the GRC Choice New record form.](../image/participant-role-record-choice.png "Sample configuration for the GRC Choice New record form")
+    ![Sample configuration for the GRC Choice New record form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/participant-role-record-choice.png "Sample configuration for the GRC Choice New record form")
 
 9.  Click **Submit**.
 

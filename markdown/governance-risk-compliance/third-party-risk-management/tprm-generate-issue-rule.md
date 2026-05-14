@@ -132,7 +132,7 @@ The TPR assessor can navigate to the Issues tab of the External assessment in th
 **Related topics**  
 
 
-[Assessing your third-party risk](../concept/tprm-assessing-tpr.md)
+[Assessing your third-party risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../concept/tprm-assessing-tpr.md)
 
-[Create an issue for a third party or engagement](tprm-ws-issue-create.md)
+[Create an issue for a third party or engagement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-create.md)
 

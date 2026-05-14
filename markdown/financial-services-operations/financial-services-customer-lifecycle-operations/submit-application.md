@@ -26,7 +26,7 @@ Role required:
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  On the **Details** tab, click **Playbook** and select **Account information**.
 
@@ -34,7 +34,7 @@ Role required:
 
 5.  Select **Add Contacts** and complete the associated child cases.
 
-    For more information on creating a contact, see [Create a contact for a case](create-contact.md).
+    For more information on creating a contact, see [Create a contact for a case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/create-contact.md).
 
 6.  Select **Collect Account Documents**.
 
@@ -55,5 +55,5 @@ The account application is submitted, and the case automatically advances to the
 
 ## What to do next
 
-Continue to the [Document Verification](verify-client-docs.md) stage.
+Continue to the [Document Verification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/verify-client-docs.md) stage.
 

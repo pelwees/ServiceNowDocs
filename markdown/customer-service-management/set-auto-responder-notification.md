@@ -17,7 +17,7 @@ Set notification preferences for receiving Auto-Responder recommendations on cus
 
 Role required: snc\_external role or watchlist users associated with the customer service case
 
-Ensure that an administrator has configured the Auto-Responder feature. For more information, see [Configure Auto-Responder notifications](config-auto-responder.md).
+Ensure that an administrator has configured the Auto-Responder feature. For more information, see [Configure Auto-Responder notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder.md).
 
 ## Procedure
 

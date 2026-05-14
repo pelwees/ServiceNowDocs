@@ -19,7 +19,7 @@ Role required: admin or delegated developer
 
 You must have an existing data visualization to display on your screen. If you haven’t yet configured a data visualization, see the following documentation topics: [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md) and [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
-In addition, you also need a mobile analytics preview contained within a mobile dashboard preview. For more information, see [Create a mobile analytics preview](sg-mobile-dashboard-preview.md).
+In addition, you also need a mobile analytics preview contained within a mobile dashboard preview. For more information, see [Create a mobile analytics preview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-mobile-dashboard-preview.md).
 
 ## Procedure
 
@@ -161,5 +161,5 @@ Determine which user roles can access this screen. If you don’t select any rol
 
 ## What to do next
 
-Configure a navigation function to direct your users from an analytics preview to your chart screen. For details on this process, see [Create a navigation function to a chart screen](config-chart-nav.md).
+Configure a navigation function to direct your users from an analytics preview to your chart screen. For details on this process, see [Create a navigation function to a chart screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md).
 

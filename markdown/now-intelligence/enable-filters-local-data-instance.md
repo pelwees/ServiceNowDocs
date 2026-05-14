@@ -31,7 +31,7 @@ To enable filters to apply to a local data source, you first have to create a cl
 
 4.  In the Edit client state parameters dialog, name the new parameter `parFilters`, assign it type JSON, and set the initial value of `{}`.
 
-    ![parFilters client state parameter in the Edit client state parameters dialog.](../../par-for-workspace/image/parFilters-param.png)
+    ![parFilters client state parameter in the Edit client state parameters dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/image/parFilters-param.png)
 
 5.  Close the Edit client state parameters dialog.
 
@@ -52,10 +52,10 @@ To enable filters to apply to a local data source, you first have to create a cl
 
 Add filter components to the UI Builder page and configure them for relevant values from the local data instance.
 
-**Parent Topic:**[Use a local data instance with a data visualization](dv-local-data-instance.md)
+**Parent Topic:**[Use a local data instance with a data visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/dv-local-data-instance.md)
 
 **Related topics**  
 
 
-[Filters in Platform Analytics](../../par-for-workspace/concept/interactive-filters-workspace.md)
+[Filters in Platform Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../par-for-workspace/concept/interactive-filters-workspace.md)
 

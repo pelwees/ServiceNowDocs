@@ -37,5 +37,5 @@ Selected contact is now both a consumer and a contact.
 **Related topics**  
 
 
-[Configuring a contact as a consumer](configuring-a-contact-as-a-unified-consumer.md)
+[Configuring a contact as a consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-contact-as-a-unified-consumer.md)
 

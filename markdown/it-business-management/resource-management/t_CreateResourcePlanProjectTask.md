@@ -19,7 +19,7 @@ You can create a resource plan from the Resource Management application for any 
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged to [migrate your existing resource plans](../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](../../resource-management-workspace/task/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
+You're encouraged to [migrate your existing resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility. [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../resource-management-workspace/task/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
@@ -33,7 +33,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 </td><td>
 
-1.  Open a project record in project workspace. See [Access the new Project Workspace](../../project-workspace/task/access-new-project-workspace.md).
+1.  Open a project record in project workspace. See [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../../project-workspace/task/access-new-project-workspace.md).
 2.  On the **Resources** tab, click **New**.
 
 
@@ -86,7 +86,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 </td></tr></tbody>
 </table>2.  On the Resource Plan form, fill the fields.
 
-    For a field descriptions of the field names, see [Resource Plan form](../reference/rsrc-plan-form.md).
+    For a field descriptions of the field names, see [Resource Plan form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/rsrc-plan-form.md).
 
 3.  Click **Save** on the form header.
 
@@ -94,9 +94,9 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 4.  Review update the values in the Resource Plan form tabs.
 
-    For a field description of the field names, see [Resource Plan form tabs](../reference/rsrc-plan-form-tabs.md).
+    For a field description of the field names, see [Resource Plan form tabs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/rsrc-plan-form-tabs.md).
 
-    **Note:** If the assigned rate model is removed or replaced, or the hourly rates in the rate model are changed, the cost fields on the associated resource plans are not recalculated automatically. You must [recalculate the resource costs](recalculate-resource-costs.md) of the resource plan to reflect new rates from the rate model.
+    **Note:** If the assigned rate model is removed or replaced, or the hourly rates in the rate model are changed, the cost fields on the associated resource plans are not recalculated automatically. You must [recalculate the resource costs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/recalculate-resource-costs.md) of the resource plan to reflect new rates from the rate model.
 
     However, if any of the fields affecting the cost are updated on the resource plan, the rate model is invoked for getting the hourly rates. For example, extending a resource plan by modifying the end date of the resource plan invokes the rate model as there can be new rates available.
 
@@ -115,44 +115,44 @@ Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_
 
 ## What to do next
 
-Use the [Resource Plan related links and lists](../reference/rsrc-plan-rltd-links-lists.md) to work on the resource plans, workbenches, or to modify the existing request allocations.
+Use the [Resource Plan related links and lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../reference/rsrc-plan-rltd-links-lists.md) to work on the resource plans, workbenches, or to modify the existing request allocations.
 
-**Parent Topic:**[Resource plans](../concept/c_ResourcePlans.md)
+**Parent Topic:**[Resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_ResourcePlans.md)
 
 **Related topics**  
 
 
-[Use Resource Finder to analyze resource availability](create-resource-plan-with-finder.md)
+[Use Resource Finder to analyze resource availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-resource-plan-with-finder.md)
 
-[Create an operational resource plan](create-operational-plan.md)
+[Create an operational resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-operational-plan.md)
 
-[Request resources](t_RequestResourcePlanApproval.md)
+[Request resources](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_RequestResourcePlanApproval.md)
 
-[Confirm a resource plan](confirm-resource-plan.md)
+[Confirm a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/confirm-resource-plan.md)
 
-[Confirm and allocate a resource plan](confirm-allocate-resource-plan.md)
+[Confirm and allocate a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/confirm-allocate-resource-plan.md)
 
-[Request a change to a resource plan](t_RequestAChangeToAResourcePlan.md)
+[Request a change to a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_RequestAChangeToAResourcePlan.md)
 
-[Recalculate costs of a resource plan of a project or demand](recalculate-resource-costs.md)
+[Recalculate costs of a resource plan of a project or demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/recalculate-resource-costs.md)
 
-[Update cost plan related to a resource plan](t_UpdateRelatedCostPlan.md)
+[Update cost plan related to a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_UpdateRelatedCostPlan.md)
 
-[Complete a resource plan](t_CloseAResourcePlan.md)
+[Complete a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CloseAResourcePlan.md)
 
-[Cancel a resource plan](t_CancelAResourcePlan.md)
+[Cancel a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CancelAResourcePlan.md)
 
-[Delete a resource plan](t_DeleteAResourcePlan.md)
+[Delete a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_DeleteAResourcePlan.md)
 
-[Extend a resource plan](extend-resource-plan.md)
+[Extend a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/extend-resource-plan.md)
 
-[Request extension of an allocated resource plan](request-extension-allocated-resource-plan.md)
+[Request extension of an allocated resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/request-extension-allocated-resource-plan.md)
 
-[Allocate resources for the extended period](allocate-resources-for-extended-period.md)
+[Allocate resources for the extended period](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-for-extended-period.md)
 
-[Reduce the duration of a resource plan](reduce-resource-plan.md)
+[Reduce the duration of a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/reduce-resource-plan.md)
 
-[Time zones in resource plans](../concept/c_TimeZonesInResourcePlans.md)
+[Time zones in resource plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/../concept/c_TimeZonesInResourcePlans.md)
 
-[Associate a time card with a resource plan](t_AssocATimeCardWithAResourcePlan.md)
+[Associate a time card with a resource plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_AssocATimeCardWithAResourcePlan.md)
 

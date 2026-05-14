@@ -21,7 +21,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-For details on configuring Agent Client Collector for log monitoring, see [Agent Client Collector Log Analytics](../concept/acc-log-analytics.md).
+For details on configuring Agent Client Collector for log monitoring, see [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-log-analytics.md).
 
 ## Procedure
 
@@ -36,10 +36,10 @@ For details on configuring Agent Client Collector for log monitoring, see [Agent
 
 A confirmation window appears, indicating that the MID Server is connected to the agent.
 
-![Agent Client Collector Monitoring setup confirmation window.](../image/acc-monitoring-setup-confirmation.png)
+![Agent Client Collector Monitoring setup confirmation window.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-monitoring-setup-confirmation.png)
 
 **Related topics**  
 
 
-[Configure multiple MID Servers to work with Agent Client Collector Monitoring](configure-multiple-mid-acc-monitoring.md)
+[Configure multiple MID Servers to work with Agent Client Collector Monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-multiple-mid-acc-monitoring.md)
 

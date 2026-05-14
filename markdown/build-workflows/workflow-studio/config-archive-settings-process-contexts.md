@@ -19,7 +19,7 @@ Change the default settings for the automated archiving feature for process cont
 
 Role required: playbook.admin
 
-If you want to turn off automated archiving instead, see [Turn off automated archiving](turn-off-automated-archiving.md).
+If you want to turn off automated archiving instead, see [Turn off automated archiving](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/turn-off-automated-archiving.md).
 
 ## Procedure
 
@@ -42,7 +42,7 @@ If you want to turn off automated archiving instead, see [Turn off automated arc
 
 ## Change the wait period to 30 days
 
-![Changing the Value from 14 to 30](../images/change-archive-wait-period.gif)
+![Changing the Value from 14 to 30](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/change-archive-wait-period.gif)
 
-**Parent Topic:**[Archive process contexts](archive-process-executions.md)
+**Parent Topic:**[Archive process contexts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/archive-process-executions.md)
 

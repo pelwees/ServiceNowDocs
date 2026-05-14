@@ -41,9 +41,9 @@ As a nurse educator, you can perform the following tasks from the home page of t
 
 As a nurse educator, you can view the following sections in the Workspace by default:
 
--   [My Tasks](pss-viewing-training-page.md#dlentry_ec4_35q_2rb)
--   [Tasks by State](pss-viewing-training-page.md#dlentry_o5w_pht_brb)
--   [My Team's tasks](pss-viewing-training-page.md#dlentry_pqr_h5q_2rb)
+-   [My Tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-training-page.md#dlentry_ec4_35q_2rb)
+-   [Tasks by State](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-training-page.md#dlentry_o5w_pht_brb)
+-   [My Team's tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-training-page.md#dlentry_pqr_h5q_2rb)
 
 **Note:** Your administrator can customize the home page for Workspace and change the data that appears on it.
 

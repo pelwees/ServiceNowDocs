@@ -30,6 +30,6 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
 ## What to do next
 
--   [Verify capabilities in ServiceNow Studio](verify-capabilities.md)
--   [Use capabilities in SIR Workspace](use-capabilities-sir-workspace.md)
+-   [Verify capabilities in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/verify-capabilities.md)
+-   [Use capabilities in SIR Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/use-capabilities-sir-workspace.md)
 

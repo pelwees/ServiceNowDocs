@@ -25,7 +25,7 @@ The health score can be calculated using different metrics like CSAT score and p
 |Number of promoters \(NPS score\)|20%|
 |Number of orders created for product X|20%|
 
-The health score for the engagement is the total weight of all these metrics. See [Calculate the engagement health score](../task/account-lifecycle-setup-health-defn.md) for details on how to configure the metrics to calculate the health score.
+The health score for the engagement is the total weight of all these metrics. See [Calculate the engagement health score](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-health-defn.md) for details on how to configure the metrics to calculate the health score.
 
-You can view the health score for a specific engagement or all engagements on the [Success portfolio dashboard](account-lifecycle-success-landing.md).
+You can view the health score for a specific engagement or all engagements on the [Success portfolio dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-success-landing.md).
 

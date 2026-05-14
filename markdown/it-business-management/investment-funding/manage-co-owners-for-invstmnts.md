@@ -57,12 +57,12 @@ Steps
 </td></tr></tbody>
 </table>2.  Click the **Details** tab.
 
-3.  Click the unlock co-owner icon \(![Unlock co-owner icon.](../image/unlock_co_owner.png)\).
+3.  Click the unlock co-owner icon \(![Unlock co-owner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/unlock_co_owner.png)\).
 
     -   To add a user as a co-owner, use the select target record search field to search for and select the users.
-    -   To remove an existing co-owner, select the name and click the remove selected item icon \(![Remove selected item icon.](../image/remove-selected-item.png)\).
+    -   To remove an existing co-owner, select the name and click the remove selected item icon \(![Remove selected item icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../image/remove-selected-item.png)\).
 4.  Click **Update**.
 
 
-**Parent Topic:**[Co-owners for an investment](../concept/co-owner-for-investments.md)
+**Parent Topic:**[Co-owners for an investment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/../concept/co-owner-for-investments.md)
 

@@ -15,7 +15,7 @@ View the closed incidents that belong to you and your assignment groups through 
 
 Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-Select the Dashboard icon ![Dashboard icon](../image/dashboard-icon-sow.png) to view the dashboard.
+Select the Dashboard icon ![Dashboard icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/../image/dashboard-icon-sow.png) to view the dashboard.
 
 Procure the ITSM Pro package subscription to get additional performance analytics features.
 

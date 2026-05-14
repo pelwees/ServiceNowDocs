@@ -270,22 +270,22 @@ Creates a Potential Relationship
 Disabled
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Threat Intelligence Security Center Library](threat-intelligence-security-center-library.md)
+</table>**Parent Topic:**[Threat Intelligence Security Center Library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-library.md)
 
 **Related topics**  
 
 
-[Understanding the Data Model](../reference/understanding-the-data-model.md)
+[Understanding the Data Model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../reference/understanding-the-data-model.md)
 
-[TISC Library Objects form view](tisc-library-home-page-view.md)
+[TISC Library Objects form view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-library-home-page-view.md)
 
-[TISC Library Repository](tisc-ioc.md)
+[TISC Library Repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
-[Access Vulnerability Downstream actions](downstream-actions-from-the-vulnerability-form-view.md)
+[Access Vulnerability Downstream actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/downstream-actions-from-the-vulnerability-form-view.md)
 
-[Deleting threat intelligence library records](../task/tisc-delete-lib-records.md)
+[Deleting threat intelligence library records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-delete-lib-records.md)
 
-[Export intelligence data](../task/tisc-export-observables.md)
+[Export intelligence data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/tisc-export-observables.md)
 
-[Confirm Potential Relationships from Related Records](../task/confirm-potential-relationships.md)
+[Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../task/confirm-potential-relationships.md)
 

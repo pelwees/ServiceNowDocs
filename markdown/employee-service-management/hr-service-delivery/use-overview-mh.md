@@ -47,7 +47,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 7.  In the **Suggestion for you and your team** widget, act on items that require your attention.
 
-    This widget appears only if prompts are generated for you. For more information, see [Proactive Prompts for managers](insight-based-sug.md).
+    This widget appears only if prompts are generated for you. For more information, see [Proactive Prompts for managers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/insight-based-sug.md).
 
 8.  Review your team daily stats such as number of employees on leave, number of employees in onboarding, and so on.
 

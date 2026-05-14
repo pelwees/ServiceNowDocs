@@ -23,7 +23,7 @@ Role required: sn\_aia.admin
 
 2.  Select **Long-term memory**.
 
-    ![The Long-term memory settings page from AI Agent Studio.](../image/aia-long-term-memory-new.png)
+    ![The Long-term memory settings page from AI Agent Studio.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/aia-long-term-memory-new.png)
 
 3.  Configure the User facts and preferences.
 
@@ -41,6 +41,6 @@ Role required: sn\_aia.admin
 
     When you want to turn off agent learning from past executions, you will see a confirmation pop up. Selecting **Disable** will disable agent learning.
 
-    ![Confirmation for disabling agent learning.](../image/disable-agent-learning.png)
+    ![Confirmation for disabling agent learning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/disable-agent-learning.png)
 
 

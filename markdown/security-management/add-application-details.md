@@ -40,7 +40,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
         5.  Select the ![](../images/browse.png) icon to view the details of the application.
         6.  To attach a logo for your integration, select **Upload logo**.
 
-            ![Add application details screen](../images/application-details.png)
+            ![Add application details screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../images/application-details.png)
 
         7.  Select **Save changes**.
     -   **Choose existing application**

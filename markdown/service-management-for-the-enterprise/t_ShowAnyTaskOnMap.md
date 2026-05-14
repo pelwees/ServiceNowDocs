@@ -49,8 +49,8 @@ Set **Show task** to false
 </td></tr></tbody>
 </table>    These tasks display on the Task tab on the map.
 
-    ![In this figure, there is a Task tab, with four requests on the current level.](../image/TaskTab.png "Tasks Tab")
+    ![In this figure, there is a Task tab, with four requests on the current level.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/TaskTab.png "Tasks Tab")
 
 
-**Parent Topic:**[Interactive facility maps](../concept/c_InteractiveFacilityMaps.md)
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../concept/c_InteractiveFacilityMaps.md)
 

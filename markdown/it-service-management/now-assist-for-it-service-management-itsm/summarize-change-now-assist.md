@@ -44,7 +44,7 @@ A change request summary provides you with a concise summary of a change request
 -   Conflict status
 -   Type
 
-For information about the change request states, see [State progression for normal, standard, and emergency changes](../../change-management/concept/normal-standard-emergency-states.md).
+For information about the change request states, see [State progression for normal, standard, and emergency changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../../change-management/concept/normal-standard-emergency-states.md).
 
 You can summarize a change request in Core UI and Service Operations Workspace for ITSM.
 
@@ -56,11 +56,11 @@ You can summarize a change request in Core UI and Service Operations Workspace f
 
     **Note:** The Summarize UI action isn’t available for the New or Canceled state.
 
-    The summary appears in a banner on the change request record in Core UI.![Change summary in Core UI](../image/itsm-now-assist-change-summary-core-ui.png)
+    The summary appears in a banner on the change request record in Core UI.![Change summary in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-change-summary-core-ui.png)
 
     The summary appears in the **Overview** tab on the change request record in Service Operations Workspace.
 
-    ![Change summary in Service Operations Workspace](../image/itsm-now-assist-change-summary-workspace.png)
+    ![Change summary in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/itsm-now-assist-change-summary-workspace.png)
 
     You can provide feedback by selecting the thumbs up or thumbs down icon. You can also share the summary using the **Share** button.
 
@@ -91,7 +91,7 @@ Procedure
 
 </td><td>
 
-Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) to view the complete summary or the collapse card icon \(![collapse card icon.](../image/icon-collapse.png)\) to view a collapsed summary.
+Select the expand card icon \(![expand card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-expand.png)\) to view the complete summary or the collapse card icon \(![collapse card icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-collapse.png)\) to view a collapsed summary.
 
 </td></tr><tr><td id="d338506e285">
 
@@ -99,7 +99,7 @@ Select the expand card icon \(![expand card icon.](../image/icon-expand.png)\) t
 
 </td><td>
 
-If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
+If you think that the summary was helpful, select the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-helpful.png)\). If you think that the summary wasn’t helpful, select the not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-not-helpful.png)\).**Note:** This feedback improves the generative AI model and can help to improve future versions of this skill.
 
 </td></tr><tr><td id="d338506e308">
 
@@ -107,7 +107,7 @@ If you think that the summary was helpful, select the helpful icon \(![Helpful i
 
 </td><td>
 
-If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](../image/icon-copy.png)\).
+If you want to reuse the summary, select the copy to clipboard icon \(![Copy to clipboard icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-copy.png)\).
 
 </td></tr><tr><td id="d338506e324">
 
@@ -115,7 +115,7 @@ If you want to reuse the summary, select the copy to clipboard icon \(![Copy to 
 
 </td><td>
 
-If you want to check some details about the summary, select the more info icon \(![More info icon.](../image/icon-more-info.png)\).
+If you want to check some details about the summary, select the more info icon \(![More info icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/../image/icon-more-info.png)\).
 
 </td></tr></tbody>
 </table>

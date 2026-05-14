@@ -44,7 +44,7 @@ Role required: admin
 
 ### Result
 
-The new search profile appears in the AI Search Search Profiles list with **State** set to **New**. An informational message and an alert triangle icon \(![Alert triangle icon.](../image/icon-alert-triangle.png)\) indicate that the new search profile has never been published.
+The new search profile appears in the AI Search Search Profiles list with **State** set to **New**. An informational message and an alert triangle icon \(![Alert triangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-alert-triangle.png)\) indicate that the new search profile has never been published.
 
 ### What to do next
 
@@ -84,7 +84,7 @@ Linking a search source to a search profile makes its filtered content available
 
 5.  Select **Submit**.
 
-    ![Search profile related list showing linked Now Assist Q&A configuration](../image/search-profile-related-list-na-psds.png)
+    ![Search profile related list showing linked Now Assist Q&A configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/search-profile-related-list-na-psds.png)
 
 
 ### Result
@@ -107,7 +107,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
-    **Note:** Search profiles with the **New** state display an alert triangle icon \(![Alert triangle icon.](../image/icon-alert-triangle.png)\). An informational message notifies you to publish these search profiles.
+    **Note:** Search profiles with the **New** state display an alert triangle icon \(![Alert triangle icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/icon-alert-triangle.png)\). An informational message notifies you to publish these search profiles.
 
 2.  Open the search profile that you want to publish.
 

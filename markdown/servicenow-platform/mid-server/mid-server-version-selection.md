@@ -34,9 +34,9 @@ These system properties control the version for all MID Servers:
 
 ## Version control configuration parameter
 
-To pin specific MID Servers on a desired version, set the **mid.pinned.version** parameter with the name of that version in the **config.xml** file of each MID Server. Use the format **&lt;version&gt;-mm-dd-yyyy**. This setting overrides the property setting for the pinned MID Server version. The MID Server version is checked every 20 minutes or whenever the MID Server restarts, at which point the pinned version is applied. For instructions, see [Add a MID Server parameter](mid-server-parameters.md#).
+To pin specific MID Servers on a desired version, set the **mid.pinned.version** parameter with the name of that version in the **config.xml** file of each MID Server. Use the format **&lt;version&gt;-mm-dd-yyyy**. This setting overrides the property setting for the pinned MID Server version. The MID Server version is checked every 20 minutes or whenever the MID Server restarts, at which point the pinned version is applied. For instructions, see [Add a MID Server parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-parameters.md#).
 
 **Note:** The value set in this parameter is not affected by an upgrade.
 
-**Parent Topic:**[MID Server upgrades](../concept/c_UpgradeAndTestMIDServer.md)
+**Parent Topic:**[MID Server upgrades](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../concept/c_UpgradeAndTestMIDServer.md)
 

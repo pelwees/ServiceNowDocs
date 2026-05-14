@@ -25,9 +25,9 @@ Role required: admin
 
 2.  Select a case to customize Activity stream for.
 
-3.  Select the activity stream icon ![Activity stream icon](../../../common/image/List_ActivityStreamIcon.png).
+3.  Select the activity stream icon ![Activity stream icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../../common/image/List_ActivityStreamIcon.png).
 
-4.  Select the filter activity icon ![Filter activity icon](../../customer-service-management/image/playbook-filter.png).
+4.  Select the filter activity icon ![Filter activity icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../../customer-service-management/image/playbook-filter.png).
 
 5.  Select the required activities and the desired order.
 

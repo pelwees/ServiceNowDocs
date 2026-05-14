@@ -23,42 +23,42 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon](../../image/eaw-image/modeling/icon-modeling-logo.png)\).
+2.  Open the Modeling page by selecting the Enterprise Modeling and Visualization icon \(![Enterprise Modeling and Visualization icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-modeling-logo.png)\).
 
 3.  Open an existing business process map from the Diagrams page.
 
 4.  Add the required shapes and connections.
 
-    For BPMN Activity shapes you can select the Open the Side panel icon \(![Open side panel](../../image/eaw-image/modeling/icon-open-side-panel.png)\) to update the details of a record.
+    For BPMN Activity shapes you can select the Open the Side panel icon \(![Open side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/icon-open-side-panel.png)\) to update the details of a record.
 
-5.  Select the More Actions context menu \(![More actions menu](../../image/eaw-image/eaw-icon-menu.png)\) to see options for deleting a shape from the canvas.
+5.  Select the More Actions context menu \(![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\) to see options for deleting a shape from the canvas.
 
 6.  Select **Share** to share the diagram with individuals or groups.
 
-    For more information, see [Share a modeling diagram](eaw-modeling-share-diagram.md).
+    For more information, see [Share a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-share-diagram.md).
 
-7.  Select the More Actions menu \(![More actions menu.](../../image/icon-three-dot-menu-eaw.png)\) to perform the following actions:
+7.  Select the More Actions menu \(![More actions menu.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/icon-three-dot-menu-eaw.png)\) to perform the following actions:
 
-    -   **Save as new version**: Select this option to create a version for the selected diagram. The version number is automatically added in the Version number field, and it isn’t editable. For more information, see [Save as a new version](eaw-modeling-save-as-new.md).
-    -   **Duplicate**: Select this option to duplicate the diagram. For more information, see [Duplicate a modeling diagram](eaw-modeling-duplicate.md).
-    -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group. For more information, see [Submit a modeling diagram for approval](eaw-modeling-submit-for-approval.md).
+    -   **Save as new version**: Select this option to create a version for the selected diagram. The version number is automatically added in the Version number field, and it isn’t editable. For more information, see [Save as a new version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-save-as-new.md).
+    -   **Duplicate**: Select this option to duplicate the diagram. For more information, see [Duplicate a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-duplicate.md).
+    -   **Submit for approval**: Select this option to submit the diagram for approval. The approval process can be done through a configured workflow. By default, the approval request is submitted to the Enterprise Architect group. For more information, see [Submit a modeling diagram for approval](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-submit-for-approval.md).
 8.  Select **Commit changes** to synchronize the diagram to the database.
 
-    This option is available only when the diagram is approved. For more information, see [Synchronize a shape to the database](eaw-modeling-sync-shape.md).
+    This option is available only when the diagram is approved. For more information, see [Synchronize a shape to the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-sync-shape.md).
 
 
-**Parent Topic:**[Working with business process map](../../concept/eaw-concept/eaw-work-with-bp-map.md)
+**Parent Topic:**[Working with business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-bp-map.md)
 
 **Related topics**  
 
 
-[Create a diagram for a business process map](eaw-modeling-bp-map.md)
+[Create a diagram for a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-bp-map.md)
 
-[View all shape libraries](eaw-view-shape-libraries.md)
+[View all shape libraries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-shape-libraries.md)
 
-[Update a business process map](eaw-modeling-update-bp-map.md)
+[Update a business process map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-update-bp-map.md)
 
-[Business Process Modeling Notation \(BPMN\) shapes](../../reference/eaw-reference/eaw-modeling-bpmn-shapes.md)
+[Business Process Modeling Notation \(BPMN\) shapes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-modeling-bpmn-shapes.md)
 
-[Business process modeling](../../concept/eaw-concept/business-process-modeling.md)
+[Business process modeling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/business-process-modeling.md)
 

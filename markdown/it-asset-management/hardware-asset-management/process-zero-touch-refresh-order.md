@@ -17,7 +17,7 @@ As a provider, ship a replacement asset requested through a Zero Touch Refresh F
 
 ## Before you begin
 
-The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](../concept/service-bridge-config-ztr.md).
+The Service Exchange configuration necessary for the Zero Touch Refresh flow must have been set up. For more details, see [Service Exchange configuration for Zero Touch Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/service-bridge-config-ztr.md).
 
 Role required: admin, asset, procurement\_user, or inventory\_user
 
@@ -64,18 +64,18 @@ When an employee submits a Zero Touch Refresh request on the ServiceNow® instan
 
 An asset with the serial number and asset tag specified in the Zero Touch Refresh Fulfillment Request is assigned to the employee.
 
-**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](../concept/refresh-hardware-uisng-ztr.md)
+**Parent Topic:**[Manage refresh of assets using Zero Touch Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/refresh-hardware-uisng-ztr.md)
 
 **Related topics**  
 
 
-[Configure replacement models for a refresh model](create-replacement-model.md)
+[Configure replacement models for a refresh model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-replacement-model.md)
 
-[Request a hardware asset refresh through Zero Touch Refresh](create-zero-touch-refresh-request.md)
+[Request a hardware asset refresh through Zero Touch Refresh](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-zero-touch-refresh-request.md)
 
-[Process a Zero Touch Refresh request](process-zero-touch-asset-request.md)
+[Process a Zero Touch Refresh request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-asset-request.md)
 
-[Acknowledge receipt of an asset on a mobile device](receive-assets-from-ztr.md)
+[Acknowledge receipt of an asset on a mobile device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-from-ztr.md)
 
-[Acknowledge receipt of an asset through the Core UI](acknowledge-asset-core-ui.md)
+[Acknowledge receipt of an asset through the Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/acknowledge-asset-core-ui.md)
 

@@ -56,5 +56,5 @@ When an agent is using the case type selector to create a case, they can select 
 
 ## Result
 
-After creating a service definition category, you can [associate service definitions with the category](service-def-category-associate-service.md). These associated service definitions are stored in the Service Definition Category Relationships related list.
+After creating a service definition category, you can [associate service definitions with the category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/service-def-category-associate-service.md). These associated service definitions are stored in the Service Definition Category Relationships related list.
 

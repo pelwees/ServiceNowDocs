@@ -21,31 +21,31 @@ Role required: sn\_apm.apm\_user
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](../../image/eaw-image/technology-portfolio-icon.png).
+2.  Open the Technology Portfolio page by selecting the Technology Portfolio icon ![Technology portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/technology-portfolio-icon.png).
 
-3.  In the **TRM catalog** tab, select **TRM product list** from the View list.![TRM view list drop-down list.](../../image/eaw-image/trm-product-view-dropdown.png)
+3.  In the **TRM catalog** tab, select **TRM product list** from the View list.![TRM view list drop-down list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/trm-product-view-dropdown.png)
 
-4.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to the TRM product that you want to view the associated product capabilities for.
+4.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to the TRM product that you want to view the associated product capabilities for.
 
 5.  Select the TRM product.
 
-6.  Select **Product capabilities**.![Product capabilities tab available as a related entity for a TRM product.](../../image/eaw-image/trm-product-capability-related-list.png)
+6.  Select **Product capabilities**.![Product capabilities tab available as a related entity for a TRM product.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/trm-product-capability-related-list.png)
 
 
 ## Result
 
 A list of product capabilities associated with the TRM product is displayed.
 
-**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](../../concept/eaw-concept/eaw-work-with-trm.md)
+**Parent Topic:**[Working with Technology Reference Model \(TRM\) in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-trm.md)
 
 **Related topics**  
 
 
-[Exploring product capabilities](../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
+[Exploring product capabilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-exploring-product-capabilities.md)
 
-[Create product capabilities and associate it with a Technology Reference Model product](eaw-create-a-new-product-capability-and-assoc-trm-product.md)
+[Create product capabilities and associate it with a Technology Reference Model product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-a-new-product-capability-and-assoc-trm-product.md)
 
-[Add an existing product capability to a Technology Reference Model product](eaw-add-existing-product-capability-to-trm-product.md)
+[Add an existing product capability to a Technology Reference Model product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-existing-product-capability-to-trm-product.md)
 
-[Remove product capabilities associated with a Technology Reference Model product](eaw-remove-product-capabilities-assoc-with-trm-product.md)
+[Remove product capabilities associated with a Technology Reference Model product](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-remove-product-capabilities-assoc-with-trm-product.md)
 

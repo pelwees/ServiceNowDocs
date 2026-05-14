@@ -21,7 +21,7 @@ Role required: sn\_tm\_core.analyst, sn\_tm\_core.admin, or sn\_tm\_core.power\_
 
 Creating a Task Mining project enables you to get task-level insights across workstation apps, including third parties. You can create a Task Mining project either from the Analyst workbench or the Opportunity details page of Process Mining. The integration preserves traceability between process-level insights and task-level findings, avoiding fragmented analysis and reducing navigation between tools.
 
-**Important:** To create a Task Mining project from Process Mining, you must have the Task Mining \(sn\_tm\_core\) plugin installed and configured. For more information, see [Configuring Task Mining](../../task-mining/concept/configuring-task-mining.md).
+**Important:** To create a Task Mining project from Process Mining, you must have the Task Mining \(sn\_tm\_core\) plugin installed and configured. For more information, see [Configuring Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/concept/configuring-task-mining.md).
 
 ## Procedure
 
@@ -37,15 +37,15 @@ Creating a Task Mining project enables you to get task-level insights across wor
 
     Alternately, you can select the Task Mining tab on the Opportunity details page. Select an improvement opportunity, and then select **Create project** on the page.
 
-    ![Create Task Mining project from Opportunity details tab](../image/tm-opp-det.png)
+    ![Create Task Mining project from Opportunity details tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/tm-opp-det.png)
 
 4.  Select **Create project** in the Task Mining section.
 
-    ![Create Task Mining project from Analyst Workbench](../image/tm-analyst-wrkb.png)
+    ![Create Task Mining project from Analyst Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/tm-analyst-wrkb.png)
 
-    The project summary page is displayed with project details and task scope auto-populated. A list of workstation users whose activity data you must collect is generated. For more information on Task Mining projects, adding users, and collecting workstation activity, see [Defining the scope of Task Mining projects](../../task-mining/concept/managing-projects.md).
+    The project summary page is displayed with project details and task scope auto-populated. A list of workstation users whose activity data you must collect is generated. For more information on Task Mining projects, adding users, and collecting workstation activity, see [Defining the scope of Task Mining projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/concept/managing-projects.md).
 
-    ![Project summary](../image/tm-project-summ.png)
+    ![Project summary](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/tm-project-summ.png)
 
 5.  Select the users whose data you want to collect.
 
@@ -59,19 +59,19 @@ Creating a Task Mining project enables you to get task-level insights across wor
 
 8.  Select **View project** for the project you created.
 
-    The project opens in the Task Mining Workspace. For information on Task Mining analyses, see [Task Mining analyses](../../task-mining/concept/task-mining-dashboard.md). After project creation once the analysis becomes available, we can view the task mining user activity dashboard for the selected list of users by clicking **View project**.
+    The project opens in the Task Mining Workspace. For information on Task Mining analyses, see [Task Mining analyses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/concept/task-mining-dashboard.md). After project creation once the analysis becomes available, we can view the task mining user activity dashboard for the selected list of users by clicking **View project**.
 
     You can also create a draft project, and continue project creation later from the Associated projects section.
 
 
 ## What to do next
 
-Run a mining job to generate a project analysis. Using categorization, refine the presentation of the project data and share your analysis. For more information, see [Generating a project data analysis](../../task-mining/concept/mining-a-task-mining-project.md).
+Run a mining job to generate a project analysis. Using categorization, refine the presentation of the project data and share your analysis. For more information, see [Generating a project data analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/concept/mining-a-task-mining-project.md).
 
-**Parent Topic:**[Integration with Task Mining](integration-taskmining.md)
+**Parent Topic:**[Integration with Task Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-taskmining.md)
 
 **Related topics**  
 
 
-[Categorize workstation activities to simplify analysis](../../task-mining/task/define-default-categorization-rules.md)
+[Categorize workstation activities to simplify analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../task-mining/task/define-default-categorization-rules.md)
 

@@ -113,7 +113,7 @@ Configuration
 
 
 </td></tr></tbody>
-</table>    ![CrowdStrike Falcon Insight Additional Actions](../image/falcon-insight-additional-action.png "CrowdStrike Falcon Insight Additional Actions")
+</table>    ![CrowdStrike Falcon Insight Additional Actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-additional-action.png "CrowdStrike Falcon Insight Additional Actions")
 
 4.  Select **Submit**.
 
@@ -123,7 +123,7 @@ Configuration
 
     **Note:** Ensure that you open the CrowdStrike Additional Actions list and set the required additional action to **true**, else the additional action will not be available in the workspace.
 
-    ![List of additional actions that comes with the base system](../image/falcon-insight-additional-action2.png "List of additional actions that comes with the base system")
+    ![List of additional actions that comes with the base system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/falcon-insight-additional-action2.png "List of additional actions that comes with the base system")
 
 6.  Navigate to **Security Incidents** &gt; **Show All Incidents**.
 

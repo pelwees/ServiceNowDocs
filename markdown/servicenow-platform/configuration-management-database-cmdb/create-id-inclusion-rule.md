@@ -23,7 +23,7 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 During duplication detection of independent CIs, the identification and reconciliation engine \(IRE\) processes only the CIs that satisfy the identification inclusion rules. For example, you can set a filter to include only CIs whose state is operational. When no identification inclusion rules exist, all CIs are included in the identification process and in the CMDB Health duplicate metric calculations. In the base system, there are no predefined identification inclusion rules. Identification inclusion rules are defined at the class level.
 
-Identification inclusion rules also indirectly impact what appears in CMDB health dashboards for duplicate CIs, in addition to any [health inclusion rules](create-health-inclusion-rule.md).
+Identification inclusion rules also indirectly impact what appears in CMDB health dashboards for duplicate CIs, in addition to any [health inclusion rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-health-inclusion-rule.md).
 
 **Note:** Identification inclusion rules impact any script that calls IRE, therefore create them carefully. Identification inclusion rules can prevent the identification of certain types of CIs, affecting some features of Discovery and Service Mapping.
 
@@ -52,14 +52,14 @@ Identification inclusion rules also indirectly impact what appears in CMDB healt
 
 Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Identification Inclusion Rules** &gt; **** to see the list of all identification inclusion rules.
 
-**Parent Topic:**[Identification rules](../concept/c_IdentificationRules.md)
+**Parent Topic:**[Identification rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/c_IdentificationRules.md)
 
 **Related topics**  
 
 
-[Create a CI identification rule](t_CreateCIIdentificationRule.md)
+[Create a CI identification rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCIIdentificationRule.md)
 
-[General guidelines for using CMDB Identification](../concept/best-practices-id-reconcile.md)
+[General guidelines for using CMDB Identification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../concept/best-practices-id-reconcile.md)
 
-[Create health inclusion rule](create-health-inclusion-rule.md)
+[Create health inclusion rule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-health-inclusion-rule.md)
 

@@ -21,27 +21,27 @@ Watch this short video to learn more about the Zero Copy Connectors application.
 
 <table id="table_z5h_m2m_m2c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about benefits and features of Zero Copy Connectors.](exploring-zcc.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about benefits and features of Zero Copy Connectors.](exploring-zcc.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings for Zero Copy Connectors.](configuring-zcc.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure settings for Zero Copy Connectors.](configuring-zcc.md)
 
 </td><td>
 
-[Manage zero copy connections![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create and manage zero copy connections.](managing-connections-zcc.md)
+[Manage zero copy connections![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg)Create and manage zero copy connections.](managing-connections-zcc.md)
 
 </td></tr><tr><td>
 
-[Manage data fabric tables![](../../../reuse/icons/brand-icons/bus-documentation.svg)Create and manage data fabric tables.](managing-data-fabric-tables-zcc.md)
+[Manage data fabric tables![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-documentation.svg)Create and manage data fabric tables.](managing-data-fabric-tables-zcc.md)
 
 </td><td>
 
-[Access real-time data![](../../../reuse/icons/brand-icons/bus-workflow.svg)Connect a predefined data fabric table to a data source using a zero copy connection.](mapping-application-tables-zcc.md)
+[Access real-time data![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-workflow.svg)Connect a predefined data fabric table to a data source using a zero copy connection.](mapping-application-tables-zcc.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and domain separation.](../reference/reference-zcc.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../reuse/icons/brand-icons/bus-learn.svg)Get details about roles and domain separation.](../reference/reference-zcc.md)
 
 </td></tr></tbody>
 </table>

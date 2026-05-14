@@ -57,16 +57,16 @@ Automated Test Framework runs each parameterized test once per data set, using t
 
 Parameterized tests display test results by the execution order of the data sets. Open each test result record to view the test details.
 
-![Parameterized test results display multiple records.](../image/param-test-result.png)
+![Parameterized test results display multiple records.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/param-test-result.png)
 
 The Parameterized Test Result record **Description** field lists the parameters and data sets used in the test run.
 
--   **[Create a parameterized test](../task/create-parameterized-test.md)**  
+-   **[Create a parameterized test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/create-parameterized-test.md)**  
 Build a test that uses variables to store test data.
--   **[Add a parameter to a test step](../task/add-parameterized-value-to-step.md)**  
+-   **[Add a parameter to a test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/add-parameterized-value-to-step.md)**  
 Add a variable to a test step to hold a particular type of data when the test runs.
--   **[Add parameterized data sets](../task/add-parameterized-data.md)**  
+-   **[Add parameterized data sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/add-parameterized-data.md)**  
 Add or import test data to specify parameter runtime values.
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-build-overview.md)
 

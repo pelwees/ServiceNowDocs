@@ -44,12 +44,12 @@ Permission exception records are created for users who require specific permissi
     A permission exception is created and added to the list of **Permission Exceptions** on the forum.
 
 
-**Parent Topic:**[Create a permission](create-permission.md)
+**Parent Topic:**[Create a permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-permission.md)
 
 **Related topics**  
 
 
-[Add access types to a permission](define-access-type-permission.md)
+[Add access types to a permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/define-access-type-permission.md)
 
-[Add content types to a permission](add-content-types-permission.md)
+[Add content types to a permission](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-content-types-permission.md)
 

@@ -23,7 +23,7 @@ Role required: ServiceNow AI Platform administrator \(admin\)
 
 The integration supports multiple servers, however, to avoid conflicts in profiles that share the same triggering conditions, you cannot share a McAfee ePO capability with multiple profiles that use the same McAfee ePO server. For example, as shown in the following figure, you can have capability 1 in more than one profile as long as each McAfee ePO server is mapped to a unique profile that has capability 1.
 
-![Shared profile limitations.](../image/mcafee-shared-profile.png "McAfee Shared Profile limitations")
+![Shared profile limitations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-shared-profile.png "McAfee Shared Profile limitations")
 
 ## Procedure
 
@@ -33,7 +33,7 @@ The integration supports multiple servers, however, to avoid conflicts in profil
 
 3.  Search for the McAfee ePO for Security Operations integration tile, and click **Configure**.
 
-    ![McAfee ePO Integration tile.](../image/mcafee-config-tile.png)
+    ![McAfee ePO Integration tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-config-tile.png)
 
 4.  On the form, fill in the fields.
 
@@ -100,7 +100,7 @@ Select the name of the MID Server that you configured during the setup of your S
 An example name is, `secops_local_midserver`.
 
 </td></tr></tbody>
-</table>    ![McAfee ePO Integration Configuration settings](../image/mcafee-epo-configtile.png "McAfee ePO Integration Configuration")
+</table>    ![McAfee ePO Integration Configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-epo-configtile.png "McAfee ePO Integration Configuration")
 
 5.  Click **Submit**.
 
@@ -109,9 +109,9 @@ An example name is, `secops_local_midserver`.
     **Note:** If your organization requires support for multiple servers, then repeat the steps.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md)
+**Previous topic:**[Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md)
 
-**Next topic:**[Edit security tags in the ServiceNow AI Platform for the McAfee ePO integration](mcafee-epo-match-tags.md)
+**Next topic:**[Edit security tags in the ServiceNow AI Platform for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-match-tags.md)
 

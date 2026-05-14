@@ -62,7 +62,7 @@ Enter these commands in a command line interface:
 
 ## What to do next
 
-[Uploading a certificate to an instance](t_UploadACertificateToAnInstance.md)
+[Uploading a certificate to an instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)
 
-**Parent Topic:**[Generating an LDAP client certificate](t_GenerateAnLDAPClientCertificate.md)
+**Parent Topic:**[Generating an LDAP client certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_GenerateAnLDAPClientCertificate.md)
 

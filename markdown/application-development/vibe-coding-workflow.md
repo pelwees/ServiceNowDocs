@@ -31,7 +31,7 @@ ServiceNow has tools to help you review, refine, and test apps for both vibe cod
 
     -   If you're using Build Agent, include as much context as possible in your first prompt to enable more robust development. Include roles, data requirements, and success criteria.
     -   You can craft a prompt and then feed it to an LLM, such as Claude, and ask for it to be made more specific for ServiceNow.
-    For more information on example prompts, see [Example prompts for vibe coding and AI-assisted development](../reference/vibe-coding-example-prompts.md).
+    For more information on example prompts, see [Example prompts for vibe coding and AI-assisted development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/vibe-coding-example-prompts.md).
 
 2.  Generate the plan: Build Agent interprets your prompt and creates a blueprint, including tables, roles, UI components, and workflows.
 
@@ -43,7 +43,7 @@ ServiceNow has tools to help you review, refine, and test apps for both vibe cod
 
 4.  Validate and self-heal: If you're using Build Agent, it generates automated tests and fixes errors without manual intervention.
 
-    Governance: Compliance and security checks are applied automatically. For more information, see [Governance for vibe coding and AI-assisted app development](vc-governance.md).
+    Governance: Compliance and security checks are applied automatically. For more information, see [Governance for vibe coding and AI-assisted app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-governance.md).
 
 5.  Refine through prompts: Add features or adjust design iteratively \(for example, `Add a Kanban board` or `Improve UI layout for accessibility`\).
 
@@ -51,10 +51,10 @@ ServiceNow has tools to help you review, refine, and test apps for both vibe cod
 
 6.  Run tests: Run Automated Test Framework to test that the app is working as expected.
 
-    For more information, see [Testing vibe-coded and AI-developed apps](vc-and-atf.md).
+    For more information, see [Testing vibe-coded and AI-developed apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-and-atf.md).
 
 7.  Deploy securely: Push from a sandbox in Developer Sandboxes with audit trails and enterprise-grade security via Vault Console and Machine Identity Console.
 
-    For more information, see [Vibe coding, AI-assisted development, and deployment](vc-and-deployment.md).
+    For more information, see [Vibe coding, AI-assisted development, and deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-and-deployment.md).
 
 

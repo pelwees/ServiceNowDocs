@@ -116,7 +116,7 @@ Steps
 1.  Click **New**.
 2.  Select the risk statement and fill in the form.
 
-For more information, see [Create a risk statement in the Risk Workspace](create-risk-stmt-workspace.md).
+For more information, see [Create a risk statement in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-stmt-workspace.md).
 
 3.  Click **Add**.
 
@@ -127,8 +127,8 @@ For more information, see [Create a risk statement in the Risk Workspace](create
 
 The new risk framework is created.
 
--   **[Create a risk statement in the Risk Workspace](create-risk-stmt-workspace.md)**  
+-   **[Create a risk statement in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-stmt-workspace.md)**  
 Create risk statements to group risks into manageable categories.
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

@@ -17,7 +17,7 @@ Move application files linked to source control to any folder of the repository 
 
 ## Before you begin
 
--   [Link an application or application-customization to source control](source-control-link-application.md)
+-   [Link an application or application-customization to source control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/source-control-link-application.md)
 -   Role required: Source control credentials with write access
 
 ## About this task
@@ -51,7 +51,7 @@ Linking an application to source control generates a properties text file called
 
 ## What to do next
 
-Login to your instance and perform [Source control operations in App Engine Studio](../reference/source-control-operations.md) from App Engine Studio.
+Login to your instance and perform [Source control operations in App Engine Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../reference/source-control-operations.md) from App Engine Studio.
 
-**Parent Topic:**[Use AES with a Git source control repository](../concept/aes-source-control-use.md)
+**Parent Topic:**[Use AES with a Git source control repository](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-source-control-use.md)
 

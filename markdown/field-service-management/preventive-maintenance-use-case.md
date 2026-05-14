@@ -23,7 +23,7 @@ With Field Service Management, Lisa ensures passenger and crew safety, boosts re
 
 ## Field Service Preventive maintenance workflow diagram
 
-![Preventive maintenance workflow](../image/preventive-maintenance-use-case.png)
+![Preventive maintenance workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/preventive-maintenance-use-case.png)
 
 ## Field Service Preventive maintenance workflow steps
 
@@ -39,5 +39,5 @@ The following table provides the steps for the Field Service preventive maintena
 |6. Provide audit trail|All completed tasks and data are tracked in the maintenance plan records for future reference, so administrators can easily pull data needed for trend analysis, reports, and audits to satisfy compliance requirements.|
 |7. Report and analyze|Track tasks and data in a maintenance plan to support future analysis, reporting, audits, and compliance activity.|
 
-**Parent Topic:**[Field Service Management workflow examples](fsm-use-cases.md)
+**Parent Topic:**[Field Service Management workflow examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/fsm-use-cases.md)
 

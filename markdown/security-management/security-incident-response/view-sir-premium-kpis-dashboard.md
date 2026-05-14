@@ -35,10 +35,10 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(write\)
 
 3.  Select **Security Incident Response Premium KPIs** from the drop down list.
 
-    ![Security Incident Response Premium KPIs dashboard](../image/security-incident-mgmt-premuim-kpis-dashboard.png)
+    ![Security Incident Response Premium KPIs dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-incident-mgmt-premuim-kpis-dashboard.png)
 
 4.  View the Security Incident Response Premium KPIs dashboard for further action.
 
-    For detailed information on Security Incident Response Premium KPIs dashboard, see [Security Incident Management Premium dashboard](../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
+    For detailed information on Security Incident Response Premium KPIs dashboard, see [Security Incident Management Premium dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../../use/dashboards/application-content-packs/si-mgmt-premium-dashboard.md)
 
 

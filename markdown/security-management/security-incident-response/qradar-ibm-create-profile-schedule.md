@@ -84,7 +84,7 @@ One-Time RetrievalUse this configuration if you want a one-time pull to ingest h
 After the offenses are pulled, this setting will not retrieve more offenses for this profile going forward from the current date. This setting populates the security incident with all the offenses that are found for the range you enter.
 
 </td></tr></tbody>
-</table>    ![IBM QRadar: Create Profile: Schedule](../image/ibm-qradar-profile-schedule.png)
+</table>    ![IBM QRadar: Create Profile: Schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ibm-qradar-profile-schedule.png)
 
 3.  Click **Continue** to navigate to the Additional Options page.
 

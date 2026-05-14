@@ -17,12 +17,12 @@ Employees can submit a complaint to report an incident of compliance violation t
 
 You can submit complaints through various channels.
 
--   **[Submit a complaint through Legal Service Portal](../task/submit-complaint-legal-svc-portal-1.md)**  
+-   **[Submit a complaint through Legal Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../task/submit-complaint-legal-svc-portal-1.md)**  
 Submit a complaint through the Legal Service Portal to report a violation incident for investigation and resolution.
--   **[Submit a complaint through Employee Center](../task/submit-complaint-employee-center.md#)**  
+-   **[Submit a complaint through Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../task/submit-complaint-employee-center.md#)**  
 Submit a complaint through the Employee Center portal to report a compliance violation incident for investigation and resolution.
--   **[Submit a complaint through the Anonymous Report Center portal](../task/submit-complaint-arc.md)**  
+-   **[Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../task/submit-complaint-arc.md)**  
 Submit a complaint anonymously through the Anonymous Report Center \(ARC\) portal to report a compliance violation incident for investigation and resolution.
 
-**Parent Topic:**[Legal Investigations](../reference/legal-investigations-landing-page.md)
+**Parent Topic:**[Legal Investigations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/../reference/legal-investigations-landing-page.md)
 

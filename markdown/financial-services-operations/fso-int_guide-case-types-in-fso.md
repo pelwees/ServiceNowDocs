@@ -31,5 +31,5 @@ FSO applications are separated into primary case types that extend FSO Base Case
 
 FSO domain-specific case types are further extended to the product/lines of business. Domain-specific case types enable separation of services and different fulfillers \(that is, processors\) or defined roles that interact with each case type. Granular case types enable FIs to build a tailored user experience with dedicated workspaces. If the business wants to implement access controls, it also provides an easier way to segregate access and visibility to the data.
 
-**Parent Topic:**[Using case types and service definitions in FSO](fso-int_guide-work_case_types.md)
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 

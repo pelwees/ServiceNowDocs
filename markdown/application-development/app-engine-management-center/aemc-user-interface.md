@@ -82,7 +82,7 @@ Charts and graphs illustrating total and active developers, as well as developer
 
 The Active deployment requests in the pipeline section of the AEMC Overview page shows the number of apps at each deployment stage within each of your pipelines. You can select **Show all requests**, **Show requests**, or **Show published requests** next to the corresponding sections to see an overview of each group of requests.
 
-![Pipelines in each stage of deployment](../../app-engine-studio/image/pipeline.png)
+![Pipelines in each stage of deployment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../../app-engine-studio/image/pipeline.png)
 
 For a full picture of all your pipeline deployment requests, access the Pipelines page in AEMC. View all of your pipelines, quickly access each deployment request record, and filter each pipeline section to see only the requests that match your criteria.
 

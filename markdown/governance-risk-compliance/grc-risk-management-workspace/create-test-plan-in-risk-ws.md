@@ -129,5 +129,5 @@ Detailed steps, to carry out the operational expectations, which need to be perf
 5.  To visually explore the relationships between the different types of critical audit data that affect your business, click **360° view** button.
 
 
-**Parent Topic:**[Using the Risk Workspace](../concept/using-risk-workspace.md)
+**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-workspace.md)
 

@@ -31,11 +31,11 @@ Role required: sn\_hr\_core.case\_writer
 
     -   &lt;Name of custom HR service&gt;
     -   Signature using Adobe Sign
-    ![Selecting the HR service](../image/signature-adobe.png)
+    ![Selecting the HR service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/signature-adobe.png)
 
 4.  Fill in the other fields on the form, as appropriate.
 
-    For further details on the form fields, see [Create an HR case](search-hr-case.md).
+    For further details on the form fields, see [Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md).
 
 5.  Click **Create Case**.
 
@@ -91,5 +91,5 @@ Document voided or flow errored
 -   No attachments to case
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Create an HR case](search-hr-case.md)
+</table>**Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 

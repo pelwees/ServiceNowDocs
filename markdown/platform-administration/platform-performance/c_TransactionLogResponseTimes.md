@@ -34,5 +34,5 @@ For each completed transaction, available information includes the following \(t
 
 **Note:** You can change which columns are shown and their order by selecting the Update Personalized List icon \(![](../../../common/image/gear.png)\)
 
-**Parent Topic:**[Monitoring platform performance](monitoring-platform-performance.md)
+**Parent Topic:**[Monitoring platform performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 

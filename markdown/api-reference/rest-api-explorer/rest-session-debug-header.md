@@ -58,10 +58,10 @@ X-UserToken: <user token>
 }
 ```
 
-**Parent Topic:**[REST APIs](c_RESTAPI.md)
+**Parent Topic:**[REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_RESTAPI.md)
 
 **Related topics**  
 
 
-[Debugging sessions](../../../script/debugging/concept/c_SessionDebug.md#)
+[Debugging sessions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../../../script/debugging/concept/c_SessionDebug.md#)
 

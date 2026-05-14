@@ -31,7 +31,7 @@ Role required: none
 
 3.  Under **Authenticator app**, select the edit icon.
 
-    ![Manage Authenticator](../images/manage-authenticator-app.png)
+    ![Manage Authenticator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/manage-authenticator-app.png)
 
 4.  In the Change authenticator code window, click **Change**.
 

@@ -36,14 +36,14 @@ As an integration is being developed or tested, be sure to provide feedback when
 
 A common issue with integrations is that they are not equipped to handle realistic loads. Because each integration is a scoped application, there are more limitations imposed by the platform to ensure system stability. These limitations may result in long running jobs or API calls being terminated. You can ensure that long running processes or processes that process lots of data are handled gracefully by reducing the time each call or process takes \(usually by providing a means of paginating API requests or chunking large sets of data\).
 
-**Parent Topic:**[ServiceNow Security Operations integration development guidelines](c_IntegrationWritingGuidelines.md)
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
 
-[Types of ServiceNow integrations provided](c_TypesOfIntegrationsProv.md)
+[Types of ServiceNow integrations provided](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_TypesOfIntegrationsProv.md)
 
-[Security Operations Integration Configurations](../../security-operations-common/concept/third-party-integrations.md)
+[Security Operations Integration Configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/third-party-integrations.md)
 
-[Integration troubleshooting](c_IntegrationTroubleshooting.md)
+[Integration troubleshooting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 

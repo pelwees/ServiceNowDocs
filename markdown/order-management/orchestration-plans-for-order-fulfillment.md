@@ -32,7 +32,7 @@ Use the order orchestration UI to see:
 
 The following image shows the order orchestration UI:
 
-![Infographic showing order orchestration tab view of a order. For text description, refer to using order orchestration UI for fulfillment section.](../image/orchestration-plan-ui.png "Order orchestration UI")
+![Infographic showing order orchestration tab view of a order. For text description, refer to using order orchestration UI for fulfillment section.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/orchestration-plan-ui.png "Order orchestration UI")
 
 By using the order orchestration UI, you can perform the following actions:
 
@@ -53,14 +53,14 @@ If the same customer also orders an optional SD-WAN Security product for each lo
 
 To initiate the fulfillment process for a multi-site order, the Order Management application decomposes the order into multiple domain orders for fulfillment. The domain orders are the product, service, and resource orders that are generated during decomposition. Each decomposed order has a corresponding fulfillment flow with several order tasks. To fulfill an order by the delivery dates that you promise to your customer, you must complete all the related domain orders and resolve all the related order tasks on time.
 
-**Parent Topic:**[Order orchestration](order-orchestration.md)
+**Parent Topic:**[Order orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-orchestration.md)
 
 **Related topics**  
 
 
-[Order fulfillment](reviewing-orchestration-plans-order-fulfillment.md)
+[Order fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md)
 
-[Review an order orchestration plan](../task/review-order-fulfillment-orchestration-plan.md)
+[Review an order orchestration plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/review-order-fulfillment-orchestration-plan.md)
 
-[Managing order fallout](fallout-management-overview.md)
+[Managing order fallout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 

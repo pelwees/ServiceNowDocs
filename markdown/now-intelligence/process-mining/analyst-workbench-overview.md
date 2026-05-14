@@ -17,23 +17,23 @@ See your business processes and workflows as visualizations from the Process Min
 
 The Process Mining workspace displays your projects, along with details, summaries, and visualizations to help you analyze and optimize your business processes. Access the Process Mining workspace from your instance filter navigator to get started.
 
-![Process Mining workspace](../image/po-workspacepng.png)
+![Process Mining workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/po-workspacepng.png)
 
 The Process Mining workspace includes the following features.
 
--   **[Projects landing page](landing-page.md)**  
+-   **[Projects landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/landing-page.md)**  
 From the projects landing page for Process Mining, you can access generated projects, business process insights, and Analyst workbench.
--   **[Process details page](project-view-screen.md)**  
+-   **[Process details page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-view-screen.md)**  
 The process details page for Process Mining provides access to high level insights and opportunities in addition to the interactive visualized process map.
 
-**Parent Topic:**[Exploring Process Mining](explore-process-mining.md)
+**Parent Topic:**[Exploring Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/explore-process-mining.md)
 
 **Related topics**  
 
 
-[Process Mining architecture](process-mining-architecture.md)
+[Process Mining architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-mining-architecture.md)
 
-[Key features of Process Mining](key-features.md)
+[Key features of Process Mining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/key-features.md)
 
-[Evaluation projects](evaluate-pm.md)
+[Evaluation projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluate-pm.md)
 

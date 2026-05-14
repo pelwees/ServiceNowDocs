@@ -158,5 +158,5 @@ The \[PSM\] Monitor Milestone Tasks scheduled job monitors the completion date o
 
 The UI action to confirm or defer the milestone is displayed when the state of the milestone is **Confirmation Required**.
 
-**Parent Topic:**[Purchase lines](purchase-lines.md)
+**Parent Topic:**[Purchase lines](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-lines.md)
 

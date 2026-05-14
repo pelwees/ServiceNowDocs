@@ -36,11 +36,11 @@ Predictive Intelligence uses paragraph vector word embedding by default in its c
 
     In this example scenario, you use a CMDB similarity definition form.
 
-    ![An example similarity solution definition on which you apply the TF-IDF parameter.](../images/tf-idf-similarity-solution1.png)
+    ![An example similarity solution definition on which you apply the TF-IDF parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/tf-idf-similarity-solution1.png)
 
 3.  On the Advanced Solution Settings tab in the Related Links section of the form, click **New**.
 
-    ![How to select the Solution Parameters option for creating the parameter.](../images/tf-idf-similarity-solution2.png)
+    ![How to select the Solution Parameters option for creating the parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/tf-idf-similarity-solution2.png)
 
 4.  Create a parameter record.
 
@@ -48,31 +48,31 @@ Predictive Intelligence uses paragraph vector word embedding by default in its c
 
     2.  In the ML Solution Parameters screen, select **Use tf-idf to generate vectors**.
 
-    ![How to create the parameter record by selecting the Search button, and then selecting the TF-IDF key Short Description.](../images/tf-idf-similarity-solution3.png)
+    ![How to create the parameter record by selecting the Search button, and then selecting the TF-IDF key Short Description.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/tf-idf-similarity-solution3.png)
 
 5.  Click **Submit**.
 
     The Advanced Solution Setting record screen refreshes.
 
-    ![See the new Advanced Solution Setting record you created.](../images/tf-idf-similarity-solution5.png)
+    ![See the new Advanced Solution Setting record you created.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/tf-idf-similarity-solution5.png)
 
 6.  Click **Submit**.
 
     **Result:** TF-IDF is configured for your similarity solution. Its solution parameter appears on the Advanced Solution Settings tab of your similarity definition form.
 
-    ![This image shows the Advanced Solution Setting record for TF-IDF.](../images/tf-idf-similarity-solution6.png)
+    ![This image shows the Advanced Solution Setting record for TF-IDF.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/tf-idf-similarity-solution6.png)
 
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Create and train a classification solution](create-solution-definition.md)
+[Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 
-[Create and train a similarity solution](create-similarity-solution.md)
+[Create and train a similarity solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 
-[Create and train a regression solution](create-regression-solution.md)
+[Create and train a regression solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-regression-solution.md)
 
-[Create and train a clustering solution](create-clustering-solution.md)
+[Create and train a clustering solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 

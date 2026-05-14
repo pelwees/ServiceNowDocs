@@ -20,7 +20,7 @@ Add Now Assist in Virtual Agent to your Microsoft Teams and Microsoft Copilot bo
 
 Role required: admin or virtual\_agent\_admin
 
-Create a self-configured bot for Microsoft Copilot. For more information, see [Setting up the Self-configured bot for using Microsoft Copilot](../concept/setup-self-bot-copilot.md).
+Create a self-configured bot for Microsoft Copilot. For more information, see [Setting up the Self-configured bot for using Microsoft Copilot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/setup-self-bot-copilot.md).
 
 **Note:** Ensure you've updated the version of your Microsoft Teams app in the **Version** field.
 
@@ -55,7 +55,7 @@ Create a self-configured bot for Microsoft Copilot. For more information, see [S
 
 ## What to do next
 
-Upload the manifest to Microsoft Teams to make your bot experience available in the Microsoft global apps store, which will also activate the Custom Engine Agent \(CEA\) in Microsoft Copilot. For more information, see [Upload the manifest package file to publish your bot](upload-package-file-msteams.md).
+Upload the manifest to Microsoft Teams to make your bot experience available in the Microsoft global apps store, which will also activate the Custom Engine Agent \(CEA\) in Microsoft Copilot. For more information, see [Upload the manifest package file to publish your bot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/upload-package-file-msteams.md).
 
-**Parent Topic:**[Install Conversational Integration with Microsoft Teams](teams-install.md)
+**Parent Topic:**[Install Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
 

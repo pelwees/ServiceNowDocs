@@ -15,7 +15,7 @@ breadcrumb: [Use Notify connector for Microsoft Teams, Use Microsoft Teams integ
 
 Manage conference calls in Microsoft Teams by muting or unmuting participants, or ending the call.
 
-**Parent Topic:**[Use Notify connector for Microsoft Teams](c-agent-ex-use-nc.md)
+**Parent Topic:**[Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md)
 
 ## Mute participants from Microsoft Teams
 
@@ -31,7 +31,7 @@ Role required: notify\_admin, major\_incident\_manager, communications\_manager,
 
 1.  Open the active conference call in Microsoft Teams.
 
-2.  Click the participants icon \(![Participants icon.](../../sn-teams/images/participants-icon-ms-teams.png)\) in the toolbar.
+2.  Click the participants icon \(![Participants icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/images/participants-icon-ms-teams.png)\) in the toolbar.
 
 3.  Mute an individual participant or mute all participants.
 
@@ -75,7 +75,7 @@ Role required: notify\_admin, major\_incident\_manager, communications\_manager,
 
 1.  Open the active conference call in Microsoft Teams.
 
-2.  Click more options icon \(![More options icon.](../image/more-options-ms-teams.png)\) in the toolbar.
+2.  Click more options icon \(![More options icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../image/more-options-ms-teams.png)\) in the toolbar.
 
 3.  Click **End meeting**.
 

@@ -13,8 +13,8 @@ breadcrumb: [Use, Sales Customer Relationship Management]
 
 Learn how to use lead-to-cash foundation applications.
 
--   **[Using product catalogs](using-product-catalog.md)**  
+-   **[Using product catalogs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)**  
 The product catalog provides a visual display of the available product offerings that can be added to a Sales Customer Relationship Management transaction, such as an opportunity, quote, or order. Use the catalog interface to add simple products and complex products that can be further customized.
 
-**Parent Topic:**[Using Sales Customer Relationship Management applications](som-using.md)
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 

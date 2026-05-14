@@ -64,11 +64,11 @@ The following fields don't support the unsaved field indicator:
 
 Unsaved fields display an indicator across the entire workspace experience.
 
-![Field with the unsaved indicator](../image/form-unsaved-indicator.png)
+![Field with the unsaved indicator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/form-unsaved-indicator.png)
 
 ## What to do next
 
--   **[Configure a background color for unsaved fields](configure-background-color-unsaved-indicator.md)**
+-   **[Configure a background color for unsaved fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/configure-background-color-unsaved-indicator.md)**
 
     Configure a background color for unsaved fields in addition to the unsaved field indicator.
 

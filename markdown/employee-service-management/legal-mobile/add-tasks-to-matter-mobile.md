@@ -29,7 +29,7 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 4.  Open a phase in which you want to add a task.
 
-5.  Tap the actions icon \(![Actions icon.](../image/action-icon.png)\) and select the **Create Task** option.
+5.  Tap the actions icon \(![Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/action-icon.png)\) and select the **Create Task** option.
 
 6.  On the form, fill in the fields.
 
@@ -84,7 +84,7 @@ Short description
 Short description to specify the expected activities and output involved in completing the task.
 
 </td></tr></tbody>
-</table>7.  Tap the submit icon \(![Submit icon](../image/submit-icon.png)\).
+</table>7.  Tap the submit icon \(![Submit icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
 8.  Create a checklist to complete all the items necessary to fulfill the task.
 
@@ -92,7 +92,7 @@ Short description to specify the expected activities and output involved in comp
 
     2.  In the **Add Item** field, enter the checklist item description.
 
-    3.  Tap the submit icon \(![Submit icon.](../image/submit-icon.png)\).
+    3.  Tap the submit icon \(![Submit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/submit-icon.png)\).
 
     4.  Continue to add checklist items for the necessary actions to handle the task.
 

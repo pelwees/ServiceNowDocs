@@ -25,7 +25,7 @@ The Get service desk agent shift data broker server script calls the `SOWService
 
 While the display text can be customized for the default landing page, the visual styling changes to the text can be done only by creating a copy of the landing page.
 
-![Greetings text](../image/greeting-text.png "Header section")
+![Greetings text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/greeting-text.png "Header section")
 
 **Note:**
 
@@ -504,5 +504,5 @@ The alert notification on the banner in SOW automatically expands to display the
 6.  Select **Update**.
 
 
-**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](../concept/landing-page-configurations-sow-itsm.md)
+**Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/landing-page-configurations-sow-itsm.md)
 

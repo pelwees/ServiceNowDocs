@@ -15,16 +15,16 @@ breadcrumb: [Registering a visitor, Workplace Visitor Management, Workplace Serv
 
 Add a single visitor or upload a file with details of multiple visitors.
 
-**Parent Topic:**[Registering a visitor](registerring-a-visitor.md)
+**Parent Topic:**[Registering a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/registerring-a-visitor.md)
 
 **Related topics**  
 
 
-[Use the host portal](../task/use-host-portal.md)
+[Use the host portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/use-host-portal.md)
 
-[Make a visitor registration](../task/register-a-guest.md)
+[Make a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/register-a-guest.md)
 
-[Review visitor policies](../task/review-visitor-policies.md)
+[Review visitor policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/review-visitor-policies.md)
 
 ## Add a visitor
 

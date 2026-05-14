@@ -105,7 +105,7 @@ Add a third-party OIDC provider service to your ServiceNow instance to verify th
 
 ### Before you begin
 
-You must have configured the third-party OIDC provider service as an OAuth provider and recorded your **Client ID** and **Client secret** values. For more information, see [Register ServiceNow with a third-party OIDC provider](aem-setup-servicenow-authentication.md#).
+You must have configured the third-party OIDC provider service as an OAuth provider and recorded your **Client ID** and **Client secret** values. For more information, see [Register ServiceNow with a third-party OIDC provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/aem-setup-servicenow-authentication.md#).
 
 Role required: oauth\_admin
 
@@ -174,7 +174,7 @@ Configure the third-party OIDC provider details in your Adobe Experience Manager
 
 ### Before you begin
 
-You must have configured the third-party OIDC provider service as an OAuth provider and recorded your **Client ID** and **Client secret** values \(see [Register ServiceNow with a third-party OIDC provider](aem-setup-servicenow-authentication.md#)\).
+You must have configured the third-party OIDC provider service as an OAuth provider and recorded your **Client ID** and **Client secret** values \(see [Register ServiceNow with a third-party OIDC provider](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/aem-setup-servicenow-authentication.md#)\).
 
 Role required: AEM administrator
 

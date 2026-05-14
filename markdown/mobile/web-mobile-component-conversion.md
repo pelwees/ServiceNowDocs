@@ -13,7 +13,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 Use guided UI to configure native mobile components using an existing web component as a starting reference.
 
-![window with option to choose to either create a screen from scratch of use web to mobile](../image/web-mobile-conversion.png "Web to mobile")
+![window with option to choose to either create a screen from scratch of use web to mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/web-mobile-conversion.png "Web to mobile")
 
 Web to mobile streamlines the component creation process by enabling you to select an existing web component to serve as a template instead of creating a record screen from scratch. Currently, web conversion only supports generating a record screen with a details screen segment.
 
@@ -38,11 +38,11 @@ Records created using Now Assist will have a sparkle icon \(![](../image/na-spar
 
 ## Previewing your generated record
 
-![Visual preview of your new mobile component.](../image/web-mobile-preview.png "Mobile component preview")
+![Visual preview of your new mobile component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/web-mobile-preview.png "Mobile component preview")
 
 The web to mobile selection page presents a list of all available tables and web forms that can be used as templates. When selecting a web component to serve as the template, a preview of the new record is generated.
 
 You can freely switch between the existing card, generic card, and Now Assist generated card previews to compare them and see which option looks best. Selecting **Looks good, continue** will generate the relevant records using the selected card.
 
-![generated mobile record screen](../image/web-mobile-generated-record.png "Record generated using a web component")
+![generated mobile record screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/web-mobile-generated-record.png "Record generated using a web component")
 

@@ -17,7 +17,7 @@ Configure an Express List view for users to make sure that they focus on specifi
 
 ## Before you begin
 
-For more information about predefined Express List views, see [Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md).
+For more information about predefined Express List views, see [Configuring Express List views for users and user groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-operations-workspace-itom/concept/manage-views-express-list.md).
 
 Role required: evt\_mgmt\_admin
 
@@ -151,9 +151,9 @@ Procedure
 </td><td>
 
 1.  In the **Users** tab, select **Insert a new row**.
-2.  Select the search icon ![Search icon](../image/search-icon.png)and search for the relevant user in the **Users** table.
+2.  Select the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/search-icon.png)and search for the relevant user in the **Users** table.
 3.  Select the user.
-4.  Select the save icon ![Save icon.](../../itom-cloud-accelerate/image/save-icon.png).
+4.  Select the save icon ![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../itom-cloud-accelerate/image/save-icon.png).
 
 
 </td></tr><tr><td id="d651453e408">
@@ -163,9 +163,9 @@ Procedure
 </td><td>
 
 1.  In the **Groups** tab, select **Insert a new row**.
-2.  Select the search icon ![Search icon](../image/search-icon.png) and search for the relevant group in the **Groups** table.
+2.  Select the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/search-icon.png) and search for the relevant group in the **Groups** table.
 3.  Select the group.
-4.  Select the save icon ![Save icon.](../../itom-cloud-accelerate/image/save-icon.png).
+4.  Select the save icon ![Save icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../itom-cloud-accelerate/image/save-icon.png).
  **Note:** Users who belong to a group can only see the views that you assigned to that group. If a user belongs to multiple groups, they can see the views you configured for all of these groups.
 
 </td></tr></tbody>
@@ -226,10 +226,10 @@ Procedure
 
     4.  Select **Update**.
 
-    **Note:** You can view the updated state of a field or a field attribute in the table by selecting the list controls icon ![List control button](../../service-mapping/image/list-controls-button.png) and then selecting **Refresh List**.
+    **Note:** You can view the updated state of a field or a field attribute in the table by selecting the list controls icon ![List control button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-mapping/image/list-controls-button.png) and then selecting **Refresh List**.
 
 11. When you're satisfied with the Express List view, select **Update**.
 
 
-**Parent Topic:**[Configuring Express List views for users and user groups](../../service-operations-workspace-itom/concept/manage-views-express-list.md)
+**Parent Topic:**[Configuring Express List views for users and user groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../service-operations-workspace-itom/concept/manage-views-express-list.md)
 

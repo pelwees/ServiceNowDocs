@@ -17,7 +17,7 @@ Conversational Analytics dashboard is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Conversational Analytics dashboard reference](conversational-analytics-dashboard-reference-pae.md)
+**Parent Topic:**[Conversational Analytics dashboard reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversational-analytics-dashboard-reference-pae.md)
 
 ## Virtual Agent administrator \[virtual\_agent\_admin\]
 

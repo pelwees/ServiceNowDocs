@@ -32,7 +32,7 @@ Role required: sn\_grc\_manager
 
 ## What to do next
 
-[Create relationships between entity classes using the GRC: Workbench](create-relationships-between-profile-classes.md).
+[Create relationships between entity classes using the GRC: Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-relationships-between-profile-classes.md).
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/grc-workbench.md)
 

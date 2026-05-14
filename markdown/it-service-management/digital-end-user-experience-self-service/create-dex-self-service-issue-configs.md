@@ -27,7 +27,7 @@ Role required: sn\_dex.admin
 
 3.  Enter information about the issue, evaluation criteria, and resolution in the issue configuration form fields.
 
-    For descriptions about the issue configuration form fields, see [DEX Self-service issue configuration form](../reference/dex-self-service-issue-config-form.md).
+    For descriptions about the issue configuration form fields, see [DEX Self-service issue configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/../reference/dex-self-service-issue-config-form.md).
 
 4.  Verify that the issue code in the **Resolution** field is active.
 
@@ -37,7 +37,7 @@ Role required: sn\_dex.admin
 
     3.  If the **Active** check box isn’t selected, activate the issue resolution.
 
-        For information about how to activate an issue resolution, see [Activate Proactive Engagement resolutions for DEX Self-service](activate-proactive-engage-resolutions.md).
+        For information about how to activate an issue resolution, see [Activate Proactive Engagement resolutions for DEX Self-service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/activate-proactive-engage-resolutions.md).
 
 5.  Select **Submit**.
 

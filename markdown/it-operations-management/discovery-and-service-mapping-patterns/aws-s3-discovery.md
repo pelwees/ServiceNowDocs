@@ -146,7 +146,7 @@ Bucket ARN of the Replication Destination bucket.
 
 On the Dependency Views map you can see all discovered S3 buckets in your organization, including S3 buckets that you configured as replicas. In this example, Cloud Object Storage 1, Cloud Object Storage 2, and Cloud Object Storage 3 replicate Cloud Object Storage 2. In its turn, Cloud Object Storage 2 replicates Cloud Object Storage 1.
 
-![Result of horizontal discovery of AWS S3 as appears in Dependency Views](../image/AWS-S3-dependency-views.png "Dependency Views showing AWS S3 components")
+![Result of horizontal discovery of AWS S3 as appears in Dependency Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/AWS-S3-dependency-views.png "Dependency Views showing AWS S3 components")
 
 ## CI relationships
 
@@ -161,7 +161,7 @@ These relationships are created to support AWS S3 discovery:
 
 Service Mapping can discover AWS S3 outgoing connections to cloud resources, for example Lambda function.
 
-![Service Mapping map showing a service with discovered S3 buckets.](../image/AWS-S3-top-down-map.png "Application service map showing an S3 bucket CI")
+![Service Mapping map showing a service with discovered S3 buckets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/AWS-S3-top-down-map.png "Application service map showing an S3 bucket CI")
 
 ## Troubleshooting
 
@@ -206,5 +206,5 @@ The Pattern Designer fails because of a timeout during pattern debugging \(and n
 By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Increase the value of this parameter on the relevant MID Server.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+</table>**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

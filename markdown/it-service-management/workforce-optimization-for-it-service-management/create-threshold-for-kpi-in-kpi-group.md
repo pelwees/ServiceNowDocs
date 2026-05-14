@@ -93,9 +93,9 @@ Corresponding icon for each status. The icons are displayed only on the Manager 
 
  Users can view the following icons based on a threshold in the Workforce Optimization workspace.
 
--   The critical icon \(![Critical icon.](../image/critical-icon.png)\)
--   The positive icon \(![Positive icon.](../image/positive-icon.png)\)
--   The warning icon \(![Warning icon.](../image/warning-icon.png)\)
+-   The critical icon \(![Critical icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/critical-icon.png)\)
+-   The positive icon \(![Positive icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/positive-icon.png)\)
+-   The warning icon \(![Warning icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../image/warning-icon.png)\)
  The icons are displayed on all the pages where the parent KPIs are related to the KPI group based on the values that you set for the lower- and upper-threshold limits.
 
 </td></tr></tbody>
@@ -114,5 +114,5 @@ Corresponding icon for each status. The icons are displayed only on the Manager 
         -   Value &gt; Upper Threshold \(Critical\): Exceeded &lt;Upper Threshold Value&gt;
         -   Lower Threshold \(Critical\) &lt; Value &lt; Upper Threshold \(Critical\): Approaching &lt;Upper Threshold Value&gt;
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](../concept/setup-teams-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/setup-teams-configurable-workforce-optimization-itsm.md)
 

@@ -21,7 +21,7 @@ A table of the fields and values to establish the IP address, range of IP addres
 |Active|Select the check box.|
 |Type - IP address list|Enter each IP address, separated by a comma.|
 |Type - IP address range|If you select this option for Type, two fields appear: **Starting IP** and **Ending IP**.|
-|Type - IP Network|The Network IP field appears. Enter the IP address of the network. For more information, see [Discovery IP address configuration](discovery-ip-address-configuration.md#).|
+|Type - IP Network|The Network IP field appears. Enter the IP address of the network. For more information, see [Discovery IP address configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ip-address-configuration.md#).|
 
-**Parent Topic:**[Certificate Inventory and Management reference](cert-invt-mgmt-references.md)
+**Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 

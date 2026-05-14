@@ -23,7 +23,7 @@ Further, procurement specialists can easily​ route the NDAs to suppliers and t
 
 Details of the workflow are provided here.
 
-1.  Define your NDA content and update the list of participants for signature.​ See [Define NDA content and update the list of signers](../task/define-nda-content-update-signers.md).
+1.  Define your NDA content and update the list of participants for signature.​ See [Define NDA content and update the list of signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/define-nda-content-update-signers.md).
 2.  Set up DocuSign.
 
     For more information, see [Docusign eSignature Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/docusign-spoke.md).
@@ -36,14 +36,14 @@ Details of the workflow are provided here.
 
     **Note:** During a procurement request, when a valid NDA isn’t available for the selected supplier, a procurement case of type Send NDA for Signature is automatically created.
 
-8.  Open the case in Source-to-Pay Workspace, prepare the NDA, and send it for signing to the suppliers and third parties from a playbook.​ See [Send NDA to suppliers for signature](../task/prepare-nda-send-to-signers.md).
+8.  Open the case in Source-to-Pay Workspace, prepare the NDA, and send it for signing to the suppliers and third parties from a playbook.​ See [Send NDA to suppliers for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/prepare-nda-send-to-signers.md).
 
     **Note:** If the **Playbook** tab isn’t visible in Source-to-Pay Workspace, verify that the Document Template Integration with DocuSign application is installed correctly.
 
 9.  Sign the NDA.
-    -   For external third-party suppliers, [directly sign from the email notification](https://www.youtube.com/watch?v=sFOGy2UwbJk) or from Supplier Collaboration Portal. For more information, see [Using Supplier Collaboration Portal](../../supplier-lifecycle-operations/concept/use-supp-central.md).
-    -   For internal supplier representatives, from Employee Center. For more information, see [Sign a document using DocuSign from Employee Center](../task/sign-document-task-ec.md).
-10. Review the signatures from the playbook in Source-to-Pay Workspace, notify the user, and close the case. See [Send NDA to suppliers for signature](../task/prepare-nda-send-to-signers.md).
+    -   For external third-party suppliers, [directly sign from the email notification](https://www.youtube.com/watch?v=sFOGy2UwbJk) or from Supplier Collaboration Portal. For more information, see [Using Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../../supplier-lifecycle-operations/concept/use-supp-central.md).
+    -   For internal supplier representatives, from Employee Center. For more information, see [Sign a document using DocuSign from Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/sign-document-task-ec.md).
+10. Review the signatures from the playbook in Source-to-Pay Workspace, notify the user, and close the case. See [Send NDA to suppliers for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/prepare-nda-send-to-signers.md).
 
 ## Additional configurations
 
@@ -53,33 +53,33 @@ For adding new participants, create a new column on the procurement case and upd
 
 You can also update the subflows to incorporate any new logic. Flow details can be found in different steps in Playbooks.
 
--   **[Define NDA content and update the list of signers](../task/define-nda-content-update-signers.md)**  
+-   **[Define NDA content and update the list of signers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/define-nda-content-update-signers.md)**  
 As a procurement specialist, you can easily define your Non-Disclosure Agreement \(NDA\) content and update the list of participants for whose signature is required.
--   **[Send NDA to suppliers for signature](../task/prepare-nda-send-to-signers.md)**  
+-   **[Send NDA to suppliers for signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/prepare-nda-send-to-signers.md)**  
 As a procurement specialist, you can use playbooks to prepare a Non-Disclosure Agreement \(NDA\) and send it for signing to the suppliers and third parties and review the signed and completed NDA.
 
-**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](work-playbooks-spo.md)
+**Parent Topic:**[Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-playbooks-spo.md)
 
 **Related topics**  
 
 
-[Process a purchase order edit in playbook](../task/process-purchase-order.md)
+[Process a purchase order edit in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/process-purchase-order.md)
 
-[Process a purchase requisition edit request in playbook](../task/playbook-edit-request-flow.md)
+[Process a purchase requisition edit request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/playbook-edit-request-flow.md)
 
-[Process a return request in playbook](../task/playbook-return-request.md)
+[Process a return request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/playbook-return-request.md)
 
-[Process a replacement request in playbook](../task/playbook-replacement-request.md)
+[Process a replacement request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/playbook-replacement-request.md)
 
-[Process an edit receipt request in playbook](../task/playbook-process-edit-receipt.md)
+[Process an edit receipt request in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../task/playbook-process-edit-receipt.md)
 
-[Fulfilling request for copy of contract in playbook](fulfilling-request-for-contract.md)
+[Fulfilling request for copy of contract in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/fulfilling-request-for-contract.md)
 
-[Verifying delivery addresses in playbook](delivery-address-in-playbook.md)
+[Verifying delivery addresses in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/delivery-address-in-playbook.md)
 
-[Reviewing and updating general ledger details in playbook](general-ledger-details-in-playbook.md)
+[Reviewing and updating general ledger details in playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/general-ledger-details-in-playbook.md)
 
-[Sourcing intake guided experience with playbooks](sourcing-intake-guided-exp.md)
+[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-intake-guided-exp.md)
 
-[Streamlining the supplier risk assessment workflow](simplify-risk-assessment-wf.md)
+[Streamlining the supplier risk assessment workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/simplify-risk-assessment-wf.md)
 

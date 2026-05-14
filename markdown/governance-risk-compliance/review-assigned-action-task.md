@@ -25,7 +25,7 @@ Role required: sn\_oper\_res.manager, action task owner
 
     The Tasks page with Vulnerability action tasks is shown in the example.
 
-    ![Vulnerability action tasks.](../image/vul-action-tasks-from-tasks-page.png)
+    ![Vulnerability action tasks.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/vul-action-tasks-from-tasks-page.png)
 
 3.  Review the details of the task.
 

@@ -27,7 +27,7 @@ Role required: admin, usage\_admin
 
     Subscription details of all the Cloud Cost Management applications activated on your ServiceNow instance are shown.
 
-    ![License report for Cloud Cost Management](../image/ccm-subscriptions.png)
+    ![License report for Cloud Cost Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/ccm-subscriptions.png)
 
     You can view the following information on subscriptions purchased for the resource categories that you opted-in for the Cloud Cost Management application:
 
@@ -44,5 +44,5 @@ Role required: admin, usage\_admin
     -   **Subscription Unit Ratio**: Predefined ratios that determine how many assets of a Resource category require a subscription. For example, the defined ratio of 1:1 for Server means that every asset of that resource category requires one Subscription Unit.
     -   **Total Subscription Units Consumed**: The number of subscriptions per Resource category that your organization consumed. The licensing module calculates this number by applying the Subscription Unit Ratio to the Resource Total Count for each Resource Category.
 
-**Parent Topic:**[Manage Cloud Cost Management subscriptions](../concept/managing-ccm-subscriptions.md)
+**Parent Topic:**[Manage Cloud Cost Management subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/managing-ccm-subscriptions.md)
 

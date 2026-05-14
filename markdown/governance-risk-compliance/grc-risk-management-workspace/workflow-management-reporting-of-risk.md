@@ -17,7 +17,7 @@ The Management Reporting of Risk integration utilizes a workflow that requires p
 
 The following figure displays the complete workflow of using the Management Reporting of Risk integration to generate reports in a Microsoft Word document.
 
-![Detailed workflow of how you can add the Management Reporting of Risk plugin in your MS word document.](../image/workflow-management-reporting-of-risk.jpg "Process flow for Management Reporting of Risk integration")
+![Detailed workflow of how you can add the Management Reporting of Risk plugin in your MS word document.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/workflow-management-reporting-of-risk.jpg "Process flow for Management Reporting of Risk integration")
 
 To generate Microsoft Word reports:
 

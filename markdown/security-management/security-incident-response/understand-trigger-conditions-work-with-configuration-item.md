@@ -25,5 +25,5 @@ During the configuration step of the profile setup, you can select an alternate 
 
 **Note:** The alternate CI fields are considered only for capabilities that could be added to a profile. For all the additional actions, the alternate CI is picked from the default settings page.
 
-![Security Incident New record](../image/trigger-condition.png)
+![Security Incident New record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/trigger-condition.png)
 

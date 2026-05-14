@@ -17,7 +17,7 @@ Application developers can use the applications list to open a custom applicatio
 
 Administrators have the following options from the applications list.
 
-![Sample list of applications](../image/ApplicationsPage.png "Sample list of applications")
+![Sample list of applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/ApplicationsPage.png "Sample list of applications")
 
 <table id="table_xsx_fcc_t5"><thead><tr><th>
 

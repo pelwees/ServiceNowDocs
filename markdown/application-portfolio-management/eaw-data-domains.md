@@ -15,14 +15,14 @@ A data domain is a collection of information objects. A data domain categorizes 
 
 A data domain is a logical grouping of related information objects that represent a specific area of a business- such as Finance or HR. Data domains enable you to analyze data in a way that aligns with business capabilities and operational needs.
 
-**Parent Topic:**[Exploring the information portfolio](eaw-information-portfolio.md)
+**Parent Topic:**[Exploring the information portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-information-portfolio.md)
 
 **Related topics**  
 
 
-[View all data domains](../../task/eaw-task/eaw-view-all-data-domains.md)
+[View all data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-data-domains.md)
 
-[Add or edit a data domain from the Portfolio page](../../task/eaw-task/eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
+[Add or edit a data domain from the Portfolio page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-data-domain-from-the-portfolio-page.md)
 
-[Exploring information objects](eaw-information-objects.md)
+[Exploring information objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-information-objects.md)
 

@@ -17,7 +17,7 @@ Discover the flexibility of the My security metrics dashboard, which can be cust
 
 ## Before you begin
 
-![User interface for dashboard customization](../images/sc-custom-metrics.png)
+![User interface for dashboard customization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../images/sc-custom-metrics.png)
 
 To customize the Security Metrics dashboard, confirm you are within the Security Center application scope. To switch to this scope, select **application picker** &gt; **Application scope**, and type security center.
 
@@ -50,5 +50,5 @@ Implement and customize My security metrics dashboard. Add metrics and content t
     2.  Select **Confirm**.
 
 
-**Parent Topic:**[Security metrics](../concept/sc-metrics.md)
+**Parent Topic:**[Security metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/sc-metrics.md)
 

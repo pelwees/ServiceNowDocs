@@ -38,5 +38,5 @@ Enables debugging information for process classification.-   Type: true \| false
 -   Location: Add to the System Properties \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Debugging scripts](../concept/script-debug-overview.md)
+</table>**Parent Topic:**[Debugging scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../concept/script-debug-overview.md)
 

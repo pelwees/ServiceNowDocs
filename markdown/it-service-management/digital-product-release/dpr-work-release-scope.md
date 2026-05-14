@@ -23,18 +23,18 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
 1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
-2.  Select the releases icon \(![Releases icon.](../image/dpr-icon-release.png)\).
+2.  Select the releases icon \(![Releases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-icon-release.png)\).
 
 3.  Select a release from the list to open.
 
 4.  Select **Release scope** to manage product enhancements, work items, planning items, and tasks in the release.
 
-    **Note:** The tabs for task types that you see depend on the permissions required to view those task type records and the system property **sn\_dpr.release\_related\_record\_types**. For more information, see [Digital Product Release properties](../reference/digital-product-release-properties.md).
+    **Note:** The tabs for task types that you see depend on the permissions required to view those task type records and the system property **sn\_dpr.release\_related\_record\_types**. For more information, see [Digital Product Release properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../reference/digital-product-release-properties.md).
 
 5.  Select the **Product enhancements and Work items** tab to manage product enhancements and work items in the release.
 
-    -   [Add an enhancement to a product or service](dpr-create-product-enhancement.md)
-    -   [Add a product enhancement from an epic](dpr-add-product-enhancement-from-epic.md)
+    -   [Add an enhancement to a product or service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-enhancement.md)
+    -   [Add a product enhancement from an epic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-add-product-enhancement-from-epic.md)
     The product enhancements added to the release are listed in the Product enhancements and Work items tab.
 
 6.  Select the **Planning Items** tab to view planning items associated with the release.
@@ -66,5 +66,5 @@ Role required: sn\_dpr\_model.product\_manager or sn\_dpr\_model.release\_admin
 
     -   To remove a related task, select it from the list and select **Remove**.
 
-**Parent Topic:**[Manage releases for digital products and services](dpr-manage-releases.md)
+**Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 

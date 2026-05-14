@@ -29,6 +29,6 @@ Role required: sn\_customerservice.consumer or sn\_customerservice.unified\_cons
 
     The application searches for your nearest service center.
 
-3.  To schedule an appointment, see [Schedule appointments or join a queue from the Customer Service Management portal](csm-walkup-checkin-online.md).
+3.  To schedule an appointment, see [Schedule appointments or join a queue from the Customer Service Management portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin-online.md).
 
 

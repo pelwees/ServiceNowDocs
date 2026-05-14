@@ -15,9 +15,9 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 The ART dashboard provides a snapshot of the overall progress of your Planning Interval \(PI\).
 
-![ART Inline dashboard](../images/eap-art-inline-dashboard.png)
+![ART Inline dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../images/eap-art-inline-dashboard.png)
 
-You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](configuring-eap-dashboard.md).
+You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configuring-eap-dashboard.md).
 
 ## Required EAP roles
 
@@ -77,7 +77,7 @@ PI progress
 
 Gauge
 
-![PI progress.](../../../use/reporting/image/inline-data-vis-96px-speedometer.png)
+![PI progress.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-speedometer.png)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Total features
 
 Single Score
 
-![Total features.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total features.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -113,7 +113,7 @@ Blocked features
 
 Single Score
 
-![Blocked features.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Blocked features.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -131,7 +131,7 @@ Total story points
 
 Single Score
 
-![Total story points.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Total story points.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -149,7 +149,7 @@ Features missing estimates
 
 Single Score
 
-![Features missing estimates.](../../../use/reporting/image/inline-data-vis-96px-single-score.png)
+![Features missing estimates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-single-score.png)
 
 </td><td>
 
@@ -167,7 +167,7 @@ Features by state
 
 Bar graph
 
-![Features by state.](../../../use/reporting/image/inline-data-vis-bar-column.png)
+![Features by state.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-bar-column.png)
 
 </td><td>
 
@@ -185,7 +185,7 @@ Work item distribution
 
 Donut
 
-![Distribution of work items.](../../../use/reporting/image/inline-data-vis-96px-donut.png)
+![Distribution of work items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-96px-donut.png)
 
 </td><td>
 
@@ -209,7 +209,7 @@ What does the team plan to achieve in this iteration?
 
 List
 
-![Goals list.](../../../use/reporting/image/inline-data-vis-list.png)
+![Goals list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-list.png)
 
 </td><td>
 
@@ -227,7 +227,7 @@ Team performance
 
 List
 
-![Team list.](../../../use/reporting/image/inline-data-vis-list.png)
+![Team list.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../use/reporting/image/inline-data-vis-list.png)
 
 </td><td>
 
@@ -237,7 +237,7 @@ sn\_apw\_advanced\_eap\_iteration
 
 Evaluate child teams progress and help them enhance their performance.
 
- You can choose and rearrange the columns of the report by selecting the ![Settings icon.](../../../reuse/icons/product-icons/gear-outline-24.svg) icon.
+ You can choose and rearrange the columns of the report by selecting the ![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../../../reuse/icons/product-icons/gear-outline-24.svg) icon.
 
 </td></tr></tbody>
 </table>

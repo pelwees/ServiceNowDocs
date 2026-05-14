@@ -15,9 +15,9 @@ breadcrumb: [Security Operations Integration - Sightings Search Flow, Create sig
 
 Role required: sn\_si\_analyst
 
-![Flow Designer for Security Operations - QRadar Sightings Search](../image/qradar-sghtings-search.png "QRadar Sightings Search")
+![Flow Designer for Security Operations - QRadar Sightings Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/qradar-sghtings-search.png "QRadar Sightings Search")
 
-Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md).
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-operations-common/concept/common-wf-activities.md).
 
-**Parent Topic:**[Security Operations Integration - Sightings Search Flow](../task/secops-integration-sightings-search-workflow.md)
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../task/secops-integration-sightings-search-workflow.md)
 

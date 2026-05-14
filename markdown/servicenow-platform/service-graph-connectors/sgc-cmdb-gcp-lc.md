@@ -17,7 +17,7 @@ Life cycle management in the in the Service Graph Connector for GCP monitors and
 
 The life cycle management process helps maintain the accuracy and integrity of data in the Configuration Management Database \(CMDB\).
 
-In life cycle management, the record removal process involves systematically deleting obsolete or unnecessary resources. This step ensures that outdated entries are cleared, keeping the CMDB accurate and up-to-date. See [Record removal process in Service Graph Connector for GCP](sgc-cmdb-gcp-removal.md).
+In life cycle management, the record removal process involves systematically deleting obsolete or unnecessary resources. This step ensures that outdated entries are cleared, keeping the CMDB accurate and up-to-date. See [Record removal process in Service Graph Connector for GCP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-removal.md).
 
 ## Life cycle management for CIs in Service Graph Connector for GCP
 
@@ -614,5 +614,5 @@ Key Value \[cmdb\_key\_value\]
 Not applicable
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Graph Connector for GCP reference](sgc-cmdb-gcp-reference.md)
+</table>**Parent Topic:**[Service Graph Connector for GCP reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-reference.md)
 

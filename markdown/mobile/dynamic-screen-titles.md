@@ -25,7 +25,7 @@ Role required: admin
 
 3.  Apply an existing UI parameter in the UI parameter related list.
 
-    1.  If the **UI parameters**, **Screen UI element mappings**, and **Source and UI element** related lists are not displayed, add them by clicking the Additional actions icon \(![Additional actions icon.](../image/context-menu-icon.png)\). Then, select **Configure** &gt; **Related Lists**, and then select the required related lists.
+    1.  If the **UI parameters**, **Screen UI element mappings**, and **Source and UI element** related lists are not displayed, add them by clicking the Additional actions icon \(![Additional actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/context-menu-icon.png)\). Then, select **Configure** &gt; **Related Lists**, and then select the required related lists.
 
     2.  Click the **UI parameters** tab.
 
@@ -93,5 +93,5 @@ Role required: admin
 
 The screen name dynamically inherits a value from the redirection parameter.
 
-![Dynamic screen name displayed from redirection parameter.](../image/dynamic-name-redirection-parameter.png "Dynamic screen name displayed from the redirection parameter")
+![Dynamic screen name displayed from redirection parameter.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/dynamic-name-redirection-parameter.png "Dynamic screen name displayed from the redirection parameter")
 

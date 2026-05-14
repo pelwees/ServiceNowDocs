@@ -33,11 +33,11 @@ You need to navigate to the users you want to use to create a case.
 
 3.  From the **Actions on selected items** drop-down list, select **Add to Security Case**.
 
-    ![Add a user to a new case](../image/add-user-to-new-case.png)
+    ![Add a user to a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-user-to-new-case.png)
 
     The **Add to Security Case** dialog box opens. If you already have cases assigned to you, they display in the list.
 
-    ![Add a user to a new case](../image/add-user-to-case.png)
+    ![Add a user to a new case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/add-user-to-case.png)
 
 4.  Click **Create New Case**.
 
@@ -55,10 +55,10 @@ You need to navigate to the users you want to use to create a case.
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[Affected users in cases](../concept/cases-from-affected-users.md)
+**Parent Topic:**[Affected users in cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/cases-from-affected-users.md)
 
 **Related topics**  
 
 
-[Add affected users to existing cases](add-users-to-cases-sir.md)
+[Add affected users to existing cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/add-users-to-cases-sir.md)
 

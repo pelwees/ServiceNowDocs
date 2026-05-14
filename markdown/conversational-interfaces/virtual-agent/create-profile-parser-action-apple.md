@@ -25,7 +25,7 @@ Role required: admin
 
 2.  In the Workflow Studio integration hub, set the **Input** field to `response_body (string)`.
 
-    ![Workflow Studio integration hub page, showing profile parser action with code snippet example.](../images/flowdesigner-action.png "Workflow Studio example")
+    ![Workflow Studio integration hub page, showing profile parser action with code snippet example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/flowdesigner-action.png "Workflow Studio example")
 
 3.  You can use the following example script to help create your script for the action.
 

@@ -17,18 +17,18 @@ Primary connectors are developed, made available, and supported by ServiceNow.
 
 |Primary connector|Minimum compatibility|
 |-----------------|---------------------|
-|[Databricks](databricks-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Google BigQuery](bigquery-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Oracle](oracle-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Snowflake](snowflake-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Amazon Redshift](amazon-redshift-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[SAP ECC](sap-ecc-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[SAP S/4HANA](sap-s4hana-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Teradata](teradata-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Amazon S3 Tables](amazon-s3-tables-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Apache Iceberg](apache-iceberg-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[Cloudera Impala](cloudera-impala-zcc.md)|Yokohama Patch 5, Zurich, Australia|
-|[ServiceNow Remote Instance](servicenow-remote-instance-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Databricks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/databricks-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Google BigQuery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/bigquery-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Oracle](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/oracle-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Snowflake](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/snowflake-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Amazon Redshift](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/amazon-redshift-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[SAP ECC](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/sap-ecc-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[SAP S/4HANA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/sap-s4hana-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Teradata](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/teradata-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Amazon S3 Tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/amazon-s3-tables-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Apache Iceberg](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/apache-iceberg-primary-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[Cloudera Impala](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/cloudera-impala-zcc.md)|Yokohama Patch 5, Zurich, Australia|
+|[ServiceNow Remote Instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/servicenow-remote-instance-zcc.md)|Yokohama Patch 5, Zurich, Australia|
 
 For additional information on data types and authentication methods that aren't supported with primary connectors, see [KBB0010487](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KBB0010487).
 

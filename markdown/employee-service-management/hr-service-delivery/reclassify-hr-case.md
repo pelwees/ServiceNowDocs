@@ -39,10 +39,10 @@ The base system provides:
     -   Previous interaction records from the current case are copied and moved to the new case.
 -   Sys property:
 
-    The sn\_hr\_core.reclassify\_default\_transfer sys property determines the default method to use after upgrade. For more information, see [HR properties](../task/t_HRProperties.md).
+    The sn\_hr\_core.reclassify\_default\_transfer sys property determines the default method to use after upgrade. For more information, see [HR properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/t_HRProperties.md).
 
 
-**Parent Topic:**[Use HR Case Management](c_HRCaseManagement.md)
+**Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
 ## Configure HR transfer case
 
@@ -110,7 +110,7 @@ HR criteria
 
 </td><td>
 
-Defines what HR agents can view and use this transfer type when performing an HR case transfer from the HR case form.See [HR criteria](hr-criteria.md#).
+Defines what HR agents can view and use this transfer type when performing an HR case transfer from the HR case form.See [HR criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-criteria.md#).
 
 **Note:** When defining conditions like case sensitivity or null values, see API [GlideFilter - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideFilterScopedAPI.md).
 

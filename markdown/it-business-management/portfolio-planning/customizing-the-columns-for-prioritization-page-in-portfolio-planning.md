@@ -20,7 +20,7 @@ Portfolio managers or product owners can show or hide the data for their plannin
 
 |Personalize settings for List view|Personalize settings for Hierarchy view|
 |----------------------------------|---------------------------------------|
-|![Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.](../../spw-prioritization/images/personalize-list-config.png)|![Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.](../../alignment-planner-workspace/images/personalize-hierarchy-config.png)|
+|![Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/personalize-list-config.png)|![Personalize side panel of Strategic Planning List view in the Prioritization page showing the column choices.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/personalize-hierarchy-config.png)|
 
 Add extra columns as choices to this side panel or remove any of the default column choices by updating the list layout configuration for the planning item types associated to the portfolio plan.
 

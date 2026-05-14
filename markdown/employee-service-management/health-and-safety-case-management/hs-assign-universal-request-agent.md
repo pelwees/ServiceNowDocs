@@ -23,13 +23,13 @@ Role required: admin or sn\_uni\_req.routing\_agent
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspaces**.
 
-2.  Select the cases icon \(![Health and safety cases icon.](../image/icon-hs-cases.png)\) to open the **Cases** tab.
+2.  Select the cases icon \(![Health and safety cases icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../image/icon-hs-cases.png)\) to open the **Cases** tab.
 
 3.  In the lists tab, select **Universal Request** and then select **All**.
 
 4.  Select the universal request record that has the safety case to be transferred.
 
-5.  In the **Primary Ticket** field, select the information \(![information icon](../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to open the health and safety case.
+5.  In the **Primary Ticket** field, select the information \(![information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/../../../reuse/icons/product-icons/circle-info-outline-24.svg)\) icon to open the health and safety case.
 
 6.  In the **Assigned to** field of the safety case, select an agents name.
 

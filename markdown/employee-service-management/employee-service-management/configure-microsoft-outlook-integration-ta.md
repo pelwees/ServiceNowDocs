@@ -43,5 +43,5 @@ Role required: admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[Integrations for Hiring Experiences](../concept/integrate-with-talent-acquisition.md)
+**Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management/../concept/integrate-with-talent-acquisition.md)
 

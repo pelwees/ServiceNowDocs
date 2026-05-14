@@ -86,13 +86,13 @@ To view the SecOps Vulnerability Response Health dashboard, navigate to **Securi
 -   Yellow: Warning
 -   Red: Critical
 
-This dashboard communicates the overall health score for the configuration and remediation health of the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Summary tab](../../vulnerability-response/image/secops-vr-health-dashboard-summary.png)
+This dashboard communicates the overall health score for the configuration and remediation health of the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Summary tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/secops-vr-health-dashboard-summary.png)
 
-This dashboard displays the configuration and integration health of your implementation. It provides a holistic overview of the implementation performance.![SecOps - VR Health dashboard - System Health tab](../../vulnerability-response/image/secops-vr-health-dashboard-system-health.png)
+This dashboard displays the configuration and integration health of your implementation. It provides a holistic overview of the implementation performance.![SecOps - VR Health dashboard - System Health tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/secops-vr-health-dashboard-system-health.png)
 
-This dashboard displays the data health of the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Remediation Health tab](../../vulnerability-response/image/secops-vr-health-dashboard-rem-health-tab.png)
+This dashboard displays the data health of the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Remediation Health tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/secops-vr-health-dashboard-rem-health-tab.png)
 
-This dashboard displays the trends for the findings ingestion performance metrics for the past 30 days for the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Trends tab](../../vulnerability-response/image/secops-vr-health-dashboard-trends.png)
+This dashboard displays the trends for the findings ingestion performance metrics for the past 30 days for the Unified Security Exposure Management applications.![SecOps - VR Health dashboard - Trends tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/secops-vr-health-dashboard-trends.png)
 
 ## Reports
 
@@ -112,7 +112,7 @@ This dashboard displays the trends for the findings ingestion performance metric
 |-----|-----------|----------------------------------------|-----------------|------------------|
 |Configuration|
 |Auto-delete rules|Displays the number of enabled auto-delete rules.|Review and resolve the inactive auto-delete rules.|3|1|
-|Auto-close stale records|Closes stale detections automatically. For more information, see the[Closing stale detections and findings automatically using auto-close rules](../../security-exposure-management-administration/concept/sem-closing-stale-findings-automatically.md).|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
+|Auto-close stale records|Closes stale detections automatically. For more information, see the[Closing stale detections and findings automatically using auto-close rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-exposure-management-administration/concept/sem-closing-stale-findings-automatically.md).|Reduce the volume of stale detections. Enable this option to close the stale detections that aren’t closed by the scanners.|3|1|
 |Implementation health|
 |Customized script includes|Number of 'script includes' customized.|Minimize customized 'script includes' for easier upgrades.|10|12|
 |Business rules on the detections table|Number of customized business rules in the detection table.|Minimize business rules for easier upgrades.|4|8|

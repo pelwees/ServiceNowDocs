@@ -311,5 +311,5 @@ Required to process workflow events associated with private repositories.
 |Groups|jira-software-users|Required to discover plans and fetch features, stories, and so on, either through import, polling, or configured webhook.|
 |Permissions|Jira Administrators|Required to create webhooks automatically for fetching features and stories in real time.|
 
-**Parent Topic:**[Check permissions and update credentials for tools — Workspace](update-credentials-check-permissions.md)
+**Parent Topic:**[Check permissions and update credentials for tools — Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-credentials-check-permissions.md)
 

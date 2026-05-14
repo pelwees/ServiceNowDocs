@@ -37,9 +37,9 @@ After you enable domain separation on your ServiceNow instance, the data of Port
 
 ## Domain separated tables in Portfolio Planning
 
-All the tables installed with Portfolio Planning support domain separation. For a complete list of tables, see [Components installed with Portfolio Planning](installed-with-portfolio-planning.md).
+All the tables installed with Portfolio Planning support domain separation. For a complete list of tables, see [Components installed with Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/installed-with-portfolio-planning.md).
 
-**Parent Topic:**[Portfolio Planning reference](../concept/portfolio-planning-reference.md)
+**Parent Topic:**[Portfolio Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/portfolio-planning-reference.md)
 
 **Related topics**  
 

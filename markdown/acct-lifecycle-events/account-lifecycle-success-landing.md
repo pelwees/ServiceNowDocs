@@ -19,9 +19,9 @@ Login as a user with the `sn_acct_lc.customer_success_agent` role and navigate t
 -   Overall engagement health: The average health of all your active engagements.
 -   Engagement health by stage: A graphical representation of all your engagements categorized by the engagement stage. Select a bar chart to drill down to the list of engagements that are in a specific stage.
 
-![Customer success landing page](../image/account-lifecycle-success-landing.png)
+![Customer success landing page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../image/account-lifecycle-success-landing.png)
 
-**Note:** The colors displayed in the Overall engagement health and Engagement health by stage cards are based on the global color banding defined in the color banding table. See [Set up the color banding table](../task/account-lifecycle-setup-color-banding.md) for details.
+**Note:** The colors displayed in the Overall engagement health and Engagement health by stage cards are based on the global color banding defined in the color banding table. See [Set up the color banding table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-color-banding.md) for details.
 
 In the My Active Engagements section, you can view the following:
 
@@ -39,10 +39,10 @@ In the My Active Engagements section, you can view the following:
     -   Active risk signals
     -   Last touchpoint
     -   Next renewal date
-    **Note:** The colors used in the health score displayed for each engagement is derived from the metric based color banding defined in the Color Banding table. See [Set up the color banding table](../task/account-lifecycle-setup-color-banding.md) for details.
+    **Note:** The colors used in the health score displayed for each engagement is derived from the metric based color banding defined in the Color Banding table. See [Set up the color banding table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/../task/account-lifecycle-setup-color-banding.md) for details.
 
     Select an engagement to drill down to the detailed record page.
 
 
-**Parent Topic:**[Customer success](account-lifecycle-use-cust-success.md)
+**Parent Topic:**[Customer success](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-use-cust-success.md)
 

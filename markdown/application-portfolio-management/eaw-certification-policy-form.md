@@ -20,12 +20,12 @@ A system administrator with Enterprise Architecture \(formerly APM\) admin role 
 |Instructions|Detailed instruction to the application owner about the task.|
 |Allow Empty Fields|Add empty fields to the form. On selecting this field, reviewers can certify or fail a certification even if one or more certification fields are empty.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Configure certification policies](../../concept/eaw-concept/eaw-setup-cert-policies.md)
+[Configure certification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-cert-policies.md)
 
-[Add or edit a certification policy](../../task/eaw-task/eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-manage-cert-schedules.md)
 

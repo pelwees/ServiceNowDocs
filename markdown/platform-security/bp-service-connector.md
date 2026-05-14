@@ -22,7 +22,7 @@ When service providers \(vendors, suppliers, partners\) publish connectors, cust
 -   Workflows and catalog requests can be synchronized, with the customer’s processes and approvals preceding the provider’s processes, so customers can follow their own processes.
 -   Any data created or modified \(e.g. CIs\) for the customer on the provider’s instance can be synchronized back into the customer’s instance for their visibility and use in processes.
 
-![Service connector customer instances](../image/bp-service-connector-customer-instance.png)
+![Service connector customer instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/bp-service-connector-customer-instance.png)
 
 ## Key features
 
@@ -135,7 +135,7 @@ Global Work Queue \(Virtual\)
 
 When task federation is the goal, and storing data externally is not acceptable:-   Used where agents are working across multiple ServiceNow instances and need to see all open work assigned to them
 -   Rows returned should be limited to less than 1000
--   To learn more, see [Global work queue](global-queue.md)
+-   To learn more, see [Global work queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/global-queue.md)
 
 </td></tr><tr><td>
 
@@ -158,5 +158,5 @@ When process design is the goal-   Used for automating processes in a single des
 </td></tr></tbody>
 </table>Learn more about the [Service Connector proof of concept](https://support.servicenow.com/kb_view.do?sysparm_article=KB0817720) on the ServiceNow Knowledge site.
 
-**Parent Topic:**[Concepts for service providers](sp-concepts.md)
+**Parent Topic:**[Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/sp-concepts.md)
 

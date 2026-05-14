@@ -17,7 +17,7 @@ Add and configure the Get News - Composite data resource in UI Builder to dynami
 
 ## Before you begin
 
-Create a REST message for a custom API. For more information, see [Create a REST message for a custom API](create-custom-api-rest.md).
+Create a REST message for a custom API. For more information, see [Create a REST message for a custom API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md).
 
 Role required: admin
 
@@ -69,16 +69,16 @@ A data resource is the data that a page fetches to display the content in the co
 9.  Select **Save**.
 
 
-**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](../concept/config-supplier-news-api.md)
+**Parent Topic:**[Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/config-supplier-news-api.md)
 
-**Previous topic:**[Create a REST message for a custom API](create-custom-api-rest.md)
+**Previous topic:**[Create a REST message for a custom API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md)
 
-**Next topic:**[Update the field names in the UX client script](update-client-script.md)
+**Next topic:**[Update the field names in the UX client script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)
 
 **Related topics**  
 
 
-[Create a REST message for a custom API](create-custom-api-rest.md)
+[Create a REST message for a custom API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md)
 
-[Update the field names in the UX client script](update-client-script.md)
+[Update the field names in the UX client script](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)
 

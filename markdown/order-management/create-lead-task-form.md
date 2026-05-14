@@ -82,10 +82,10 @@ Work notes
 Internal notes visible only to team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lead Management reference](../concept/lead-management-reference.md)
+</table>**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/lead-management-reference.md)
 
 **Related topics**  
 
 
-[Add lead tasks](../task/lead-management-use-tasks-tab.md)
+[Add lead tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/lead-management-use-tasks-tab.md)
 

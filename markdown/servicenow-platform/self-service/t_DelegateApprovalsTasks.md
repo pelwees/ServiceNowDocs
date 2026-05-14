@@ -23,7 +23,7 @@ Ensure that the Delegates related list displays on the form. If the Delegates re
 
 -   Select a different view, such as the ITIL or Default view, by selecting the **Additional actions menu** &gt; **View** &gt; **\(name of view\)**.
 
-    ![The Additional actions menu highlighted](../image/Additional_actions_menu.jpg)
+    ![The Additional actions menu highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../image/Additional_actions_menu.jpg)
 
 -   Configure the form to add the Delegates related list. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
@@ -53,5 +53,5 @@ Ensure that the Delegates related list displays on the form. If the Delegates re
         -   If your delegate gets email notifications, they will be the same email notifications sent to you. The delegate may be confused to see "Incident assigned to you" emails, so make sure they know they are a delegate.
     -   **Meeting invitations**: The delegate receives a copy of email notifications sent of the type Meeting Invitation.
 
-**Parent Topic:**[Service Delegation](../concept/c_ServiceDelegation.md)
+**Parent Topic:**[Service Delegation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/../concept/c_ServiceDelegation.md)
 

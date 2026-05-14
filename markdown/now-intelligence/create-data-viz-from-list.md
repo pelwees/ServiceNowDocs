@@ -19,7 +19,7 @@ Role required: You need a role that gives access to the list. To save, share, ex
 
 ## About this task
 
-If you're on a new instance or an instance that has fully migrated to Platform Analytics, follow this procedure. Otherwise, you create a Core UI pie or bar report, instead. In this case, see [Run a report from a list](../../reporting/task/t_RunAReport.md#).
+If you're on a new instance or an instance that has fully migrated to Platform Analytics, follow this procedure. Otherwise, you create a Core UI pie or bar report, instead. In this case, see [Run a report from a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/task/t_RunAReport.md#).
 
 ## Procedure
 
@@ -29,10 +29,10 @@ If you're on a new instance or an instance that has fully migrated to Platform A
 
 3.  Select **Pie Chart** or **Bar Chart**.
 
-    ![Create a pie or bar data visualization from a list](../../reporting/image/run-report-from-list.png)
+    ![Create a pie or bar data visualization from a list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/image/run-report-from-list.png)
 
     The data visualization is generated and opened in the Visualization Designer.
 
 
-**Parent Topic:**[Creating data visualizations](../../reporting/concept/creating-data-visualizations.md)
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/../../reporting/concept/creating-data-visualizations.md)
 

@@ -104,7 +104,7 @@ Type of information object.-   Full name
 
 The data subject types appear in a tabular format.
 
-![Data subject types in a tabular format in Employee Center.](../image/add-data-sub-type-to-pia.png "Data subject types")
+![Data subject types in a tabular format in Employee Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../image/add-data-sub-type-to-pia.png "Data subject types")
 
-**Parent Topic:**[Using Privacy Management](../concept/using-privacy-mgmt.md)
+**Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/using-privacy-mgmt.md)
 

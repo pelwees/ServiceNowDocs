@@ -24,11 +24,11 @@ Before you begin generating documents, configure the templates with your company
 
 The following flow describes how you can use an HTML document template from configuring the template until signing and generating a PDF document online.
 
--   [Configure an HTML document template](../task/configure-HTML-doc-template.md).
--   [Create participants for an HTML document template](../task/create-participants-html.md).
--   [Insert signatures](../task/insert-signatures.md).
+-   [Configure an HTML document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/configure-HTML-doc-template.md).
+-   [Create participants for an HTML document template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/create-participants-html.md).
+-   [Insert signatures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/insert-signatures.md).
 -   Publish the HTML document template.
--   [Document tasks generation](../task/task-mapped-participants.md).
+-   [Document tasks generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/task-mapped-participants.md).
 
     **Note:** You can also edit the body of the HTML template and generate a PDF copy before initiating document tasks.
 

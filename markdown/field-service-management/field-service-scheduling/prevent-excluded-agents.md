@@ -33,21 +33,21 @@ Dispatchers or managers can override exclusions at any time by manually assignin
 
 3.  On the **Task Filters** tab, add the **Ignore Excluded Technician** criterion to the task filters.
 
-    For information on adding criteria to a task filter, see [Create a task filter for dynamic scheduling](create-dynamic-scheduling-config.md#)
+    For information on adding criteria to a task filter, see [Create a task filter for dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md#)
 
 4.  Select **Update**.
 
     The dynamic scheduling matching criteria screens out the excluded agents from a particular account when the work order tasks are assigned using any of the following methods:
 
-    -   [Auto assignment](select-tasks-for-bulk-assignment.md)
-    -   [Managing appointments](../concept/managing-appointments.md)
+    -   [Auto assignment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/select-tasks-for-bulk-assignment.md)
+    -   [Managing appointments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../concept/managing-appointments.md)
 
 **Related topics**  
 
 
-[Configure Field Service Management to use dynamic scheduling](dynamic-sched-config-field-service.md)
+[Configure Field Service Management to use dynamic scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-config-field-service.md)
 
-[Create a task filter](create-dynamic-scheduling-config.md#)
+[Create a task filter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-dynamic-scheduling-config.md#)
 
-[Exclude Field Service technicians from being assigned work order tasks](exclude-agents-from-being-assigned-tasks.md)
+[Exclude Field Service technicians from being assigned work order tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/exclude-agents-from-being-assigned-tasks.md)
 

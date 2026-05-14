@@ -15,12 +15,12 @@ An application category is a grouping of applications by their purpose and funct
 
 Such a categorization helps you to consolidate applications and rationalize decisions. Application categories provide clarity on your application landscape and enhances compliance.
 
-**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](eaw-setup.md)
+**Parent Topic:**[Exploring the Setup page in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-setup.md)
 
 **Related topics**  
 
 
-[View all application categories](../../task/eaw-task/eaw-view-all-application-categories.md)
+[View all application categories](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-application-categories.md)
 
-[Add or edit an application category](../../task/eaw-task/eaw-create-app-category.md)
+[Add or edit an application category](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-app-category.md)
 

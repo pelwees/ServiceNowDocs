@@ -27,16 +27,16 @@ Role required: admin
 
 3.  [Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md).
 
-4.  [Activate the CTI Softphone plugin \(com.snc.cti\)](../reference/r_CustServMgmtAddtlPluginsTable.md).
+4.  [Activate the CTI Softphone plugin \(com.snc.cti\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../reference/r_CustServMgmtAddtlPluginsTable.md).
 
     If you want to load the demo data for CTI Softphone, you must also activate the Customer Service CTI Demo Data plugin \(com.snc.customerservice\_cti\_demo\). This demo data includes sample workflows.
 
-5.  [Activate the Customer Service plugin \(com.sn\_customerservice\)](t_ActivateCustomerService.md).
+5.  [Activate the Customer Service plugin \(com.sn\_customerservice\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md).
 
 6.  Activate the Openframe plugin \(com.sn\_openframe\).
 
     Activating the Customer Service Management plugin automatically activates the Openframe plugin.
 
-7.  Create an [OpenFrame configuration](t_CreateAnOpenFrameConfiguration.md) or use the default CTI configuration by enabling the **Default** field.
+7.  Create an [OpenFrame configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAnOpenFrameConfiguration.md) or use the default CTI configuration by enabling the **Default** field.
 
 

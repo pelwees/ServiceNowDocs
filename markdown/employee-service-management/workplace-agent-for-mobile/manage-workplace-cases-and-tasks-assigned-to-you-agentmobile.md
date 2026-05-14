@@ -25,7 +25,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 The ServiceNow Agent - Workplace Agent for mobile application enables you to manage the workplace cases and tasks that are assigned to you on the go without the need of a desktop or laptop. You can manage any type of workplace cases such as regular workplace case, maintenance case, move case, space configuration case and reservation case. The application provides you with a category-based display where you can quickly access the works assigned to you and to your assignment group easily. The **Work view** of the application displays your work, your group work, and unassigned work.
 
-For detailed information about the available features, refer to [Workplace Agent for mobile - Key features, actions, and case details](../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md).
+For detailed information about the available features, refer to [Workplace Agent for mobile - Key features, actions, and case details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../reference/workplace-agent-mob-key-features-workstats-casedetailspage.md).
 
 ## Procedure
 
@@ -116,22 +116,22 @@ Go to the **Unassigned work** section to view the details of all the cases and t
 6.  To log out or make any profile-related settings, select the **Settings** tab at the bottom.
 
 
-**Parent Topic:**[Use Workplace Agent for mobile](../concept/use-workplace-agent-mobile.md)
+**Parent Topic:**[Use Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/../concept/use-workplace-agent-mobile.md)
 
 **Related topics**  
 
 
-[Edit or view case details on the Workplace Agent for mobile app](edit-or-view-case-details-agentmobile.md)
+[Edit or view case details on the Workplace Agent for mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-case-details-agentmobile.md)
 
-[Print workplace cases](print-workplace-cases-mobile.md)
+[Print workplace cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-cases-mobile.md)
 
-[Print workplace tasks](print-workplace-tasks-mobile.md)
+[Print workplace tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-tasks-mobile.md)
 
-[Create a child task](create-a-child-task-agentmobile.md)
+[Create a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md)
 
-[Create a workplace case on behalf of an employee through Workplace Agent for mobile](create-agentcase-mobile.md)
+[Create a workplace case on behalf of an employee through Workplace Agent for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-agentcase-mobile.md)
 
-[Edit or view a child task](edit-or-view-a-child-task-agentmobile.md)
+[Edit or view a child task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-a-child-task-agentmobile.md)
 
-[Offline mode](offline-mode.md)
+[Offline mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/offline-mode.md)
 

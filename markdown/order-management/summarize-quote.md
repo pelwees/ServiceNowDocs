@@ -25,7 +25,7 @@ Role required: sn\_sales\_common.sales\_agent
 
 3.  In the **Quote summary** field, select **Summarize**.
 
-    ![Quote summary.](../images/na-cpq-summarize-quote.png)
+    ![Quote summary.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/na-cpq-summarize-quote.png)
 
     The **Quote summary** field appears above the Quote section inside the **Details** tab. The component is collapsed by default and expands to display the summary. For longer summaries that don't fit in the window, select **Show more** and use the scroll bar to view the rest of the content.
 
@@ -86,5 +86,5 @@ If you want to check details about the summary, select the more info icon ![](..
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using Now Assist for Configure, Price, Quote \(CPQ\)](../concept/using-now-assist-cpq.md)
+**Parent Topic:**[Using Now Assist for Configure, Price, Quote \(CPQ\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/using-now-assist-cpq.md)
 

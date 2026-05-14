@@ -23,7 +23,7 @@ Healthcare and Life Sciences Service Management Core is a scoped application tha
 
 ## Healthcare and Life Sciences Service Management Core workflow
 
-![Workflow for the Healthcare and Life Sciences Service Management core application.](../image/hcls-sm-workflow.png)
+![Workflow for the Healthcare and Life Sciences Service Management core application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-sm-workflow.png)
 
 In the Healthcare and Life Sciences Service Management Core workflow:
 
@@ -54,7 +54,7 @@ Experience a seamless and time-saving patient appointment process.
 
 </td><td>
 
-[Use the Patient Portal for Healthcare and Life Sciences Service Management](hcls-patient-portal.md)
+[Use the Patient Portal for Healthcare and Life Sciences Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-patient-portal.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ Get a 360-degree view of patient or member information.
 
 </td><td>
 
-[View patient information in Workspace](hcls-viewing-patient-info.md)
+[View patient information in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-viewing-patient-info.md)
 
 </td><td>
 
@@ -78,7 +78,7 @@ Digitize the generation of healthcare documents and consents by using built-in d
 
 </td><td>
 
-[Configure document templates for Healthcare and Life Sciences Service Management Core](hcls-config-doc-templates.md)
+[Configure document templates for Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-doc-templates.md)
 
 </td><td>
 
@@ -90,7 +90,7 @@ Configure a flexible role-based and security data model that is compliant with t
 
 </td><td>
 
-[Healthcare and Life Sciences data model](hcls-serv-mgmt-core.md)
+[Healthcare and Life Sciences data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core.md)
 
 </td><td>
 
@@ -102,12 +102,12 @@ Manage healthcare cases in a convenient and accessible space.
 
 </td><td>
 
-[Manage healthcare requests in Workspace](hcls-using-workspace.md)
+[Manage healthcare requests in Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-using-workspace.md)
 
 </td><td>
 
 Agent
 
 </td></tr></tbody>
-</table>To get started with the Healthcare and Life Sciences Service Management Core application, see [Configuring Healthcare and Life Sciences Service Management Core](hcls-configuring-serv-mgmt-core.md).
+</table>To get started with the Healthcare and Life Sciences Service Management Core application, see [Configuring Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-configuring-serv-mgmt-core.md).
 

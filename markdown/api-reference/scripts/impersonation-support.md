@@ -30,10 +30,10 @@ The impersonated debugging session lasts until:
 -   You pause the Script Debugger.
 -   You close the Script Debugger.
 
-**Parent Topic:**[Script Debugger and Session Log](script-debugger.md)
+**Parent Topic:**[Script Debugger and Session Log](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md)
 
 **Related topics**  
 
 
-[Script Debugger multiple developer support](multiple-developer-support.md)
+[Script Debugger multiple developer support](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/multiple-developer-support.md)
 

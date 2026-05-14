@@ -28,9 +28,9 @@ Define the type of trigger that determines when to start running your playbook.
 
 3.  On the Trigger Definition form, in the **Label** field, enter any label for your trigger definition.
 
-    This label appears as a trigger option when you [Create a playbook](create-process-definition.md).
+    This label appears as a trigger option when you [Create a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-process-definition.md).
 
-4.  Next to the **Trigger Type** field, click the lookup using list icon \(![Lookup using list icon](../../flow-designer/images/lookup-using-list-icon.png)\).
+4.  Next to the **Trigger Type** field, click the lookup using list icon \(![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../../flow-designer/images/lookup-using-list-icon.png)\).
 
 5.  In the Trigger Types list, select a trigger type to use for your trigger definition.
 
@@ -63,14 +63,14 @@ Define the type of trigger that determines when to start running your playbook.
 
 ## Result
 
-Your trigger definition is added to the Trigger Definition \[sys\_pd\_trigger\_definition\] table. You can now select your preset trigger when you [Create a playbook](create-process-definition.md).
+Your trigger definition is added to the Trigger Definition \[sys\_pd\_trigger\_definition\] table. You can now select your preset trigger when you [Create a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-process-definition.md).
 
-**Parent Topic:**[Triggers](../concept/process-automation-designer-triggers.md)
+**Parent Topic:**[Triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/process-automation-designer-triggers.md)
 
 **Related topics**  
 
 
-[Add and configure a trigger in a playbook](add-configure-trigger.md)
+[Add and configure a trigger in a playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/add-configure-trigger.md)
 
-[Create a scheduled trigger for Playbook](create-scheduled-trigger-definition.md)
+[Create a scheduled trigger for Playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-scheduled-trigger-definition.md)
 

@@ -151,7 +151,7 @@ Or embed the JavaScript in the jelly code entirely in the HTML/XML block. Add th
 |targetSpan|The jQuery element to embed the chart in. The chart uses the size of this element.|
 |reportId|The sys\_id of the report you want to embed.|
 
-**Parent Topic:**[Advanced Core UI reporting topics](c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
 ## Embedded report parameters
 

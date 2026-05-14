@@ -19,9 +19,9 @@ Configure automatic certificate renewal to avoid service interruptions from expi
 
 Complete the following tasks to configure your system to renew your certificates automatically:
 
-1.  [Configure your MID Server for automatic certificate renewal](configure-mid-server-automatic-cert-renewal.md)
-2.  [Add the required applications and capabilities to your MID Server](add-req-apps-capabilities-to-mid-server.md)
-3.  [Configure System Properties for automatic certificate renewal](config-sys-props-for-auto-cert-renewal.md)
+1.  [Configure your MID Server for automatic certificate renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-mid-server-automatic-cert-renewal.md)
+2.  [Add the required applications and capabilities to your MID Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-req-apps-capabilities-to-mid-server.md)
+3.  [Configure System Properties for automatic certificate renewal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-sys-props-for-auto-cert-renewal.md)
 
 Role required: pki\_admin or admin
 
@@ -29,7 +29,7 @@ Role required: pki\_admin or admin
 
 1.  Navigate to **Service Catalog** &gt; **Certificate Management** &gt; **Automated Flow** &gt; **Renew Certificate \(Automated\)**.
 
-2.  Select the **Issued Certificate** that you would like to renew by selecting the search icon ![search icon](../../health-log-analytics-operator/image/icon-search-sow.png).
+2.  Select the **Issued Certificate** that you would like to renew by selecting the search icon ![search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../health-log-analytics-operator/image/icon-search-sow.png).
 
 3.  Set the **Renew Automatically** field to **Yes**.
 

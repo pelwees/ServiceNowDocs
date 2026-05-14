@@ -19,7 +19,7 @@ On the dashboard, you can analyze the contract request trends, compare data, and
 
 For more information on working with KPI details, see [Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md).
 
-![Contracts Dashboard displaying contract-related trends and reports.](../../../product/contract-mgmt-pro/image/cmpro-contracts-dashboard.png "Contracts Dashboard")
+![Contracts Dashboard displaying contract-related trends and reports.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../../product/contract-mgmt-pro/image/cmpro-contracts-dashboard.png "Contracts Dashboard")
 
 ## Required ServiceNow AI Platform roles
 
@@ -90,7 +90,7 @@ Total contract requests \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -112,7 +112,7 @@ Total signed contracts \(YTD\)
 
 </td><td>
 
-Score![Score icon.](../../reporting/image/icon-single-score-report-p.png)
+Score![Score icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../reporting/image/icon-single-score-report-p.png)
 
 </td><td>
 
@@ -134,7 +134,7 @@ Open contract requests by type of paper
 
 </td><td>
 
-Donut![Donut icon.](../../reporting/image/icon-donut-report-p.png)
+Donut![Donut icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../reporting/image/icon-donut-report-p.png)
 
 </td><td>
 
@@ -150,7 +150,7 @@ Contract requests trend
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -166,7 +166,7 @@ Open contract requests by age
 
 </td><td>
 
-Bar![Bar icon.](../../performance-analytics/image/column-icon.png)
+Bar![Bar icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../performance-analytics/image/column-icon.png)
 
 </td><td>
 
@@ -182,7 +182,7 @@ Contract request completion time
 
 </td><td>
 
-Line![Line icon.](../../reporting/image/icon-line-report-p.png)
+Line![Line icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../reporting/image/icon-line-report-p.png)
 
 </td><td>
 
@@ -234,5 +234,5 @@ Choice
 Displays own paper and third-party paper in the list. You can select the desired option to view the relevant data in the Contracts Dashboard.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](../../application-content-packs/concept/cncore-analytics-pa.md)
+</table>**Parent Topic:**[Platform Analytics Solutions for Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../application-content-packs/concept/cncore-analytics-pa.md)
 

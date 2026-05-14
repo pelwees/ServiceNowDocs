@@ -56,7 +56,7 @@ The job is saved and the form provides options to schedule the job or execute it
 
 ## What to do next
 
-[Schedule or execute a job to update records](schedule-execute-job-update-records.md)
+[Schedule or execute a job to update records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/schedule-execute-job-update-records.md)
 
-**Parent Topic:**[Updating records safely in Core UI](../concept/updating-records-safely.md)
+**Parent Topic:**[Updating records safely in Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/updating-records-safely.md)
 

@@ -33,7 +33,7 @@ Role required: it\_demand\_manager
 
     The export file is created in the selected format.
 
-5.  Select the **Delivery Type** as Download or Email.![Fill in the export form to export the demands.](../images/demand-export.png)
+5.  Select the **Delivery Type** as Download or Email.![Fill in the export form to export the demands.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../images/demand-export.png)
 
 6.  Provide your preferred email address if you selected Email as the delivery type.
 

@@ -192,12 +192,12 @@ Detailed instruction to the application owner about the task.
 |Assignment group|Task can also be assigned to users of a group.|
 |Escalation|Defaults to Normal.|
 
-**Parent Topic:**[Enterprise Architecture Workspace reference](eaw-reference.md)
+**Parent Topic:**[Enterprise Architecture Workspace reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-reference.md)
 
 **Related topics**  
 
 
-[Add or edit a certification policy](../../task/eaw-task/eaw-manage-cert-schedules.md)
+[Add or edit a certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-manage-cert-schedules.md)
 
-[Manage certification policies](../../concept/eaw-concept/eaw-config-cert-schedules.md)
+[Manage certification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-config-cert-schedules.md)
 

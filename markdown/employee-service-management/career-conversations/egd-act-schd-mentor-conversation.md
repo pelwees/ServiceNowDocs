@@ -19,11 +19,11 @@ Use the Career Conversations app to schedule a conversation with your mentee or 
 
 You must install the Career Conversations application to access it from the Employee Center.
 
-You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-employee-profile-licensing.md).
 
 You must configure integration between the Career Conversations application and Microsoft® Outlook®. This integration enables you to view your mentee or mentor's calendar as it appears in Microsoft Outlook so you can schedule a meeting for your conversation during the conversation creation process. For more information about the integration process with Microsoft Outlook, refer to [Integrating with Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrating-with-microsoft-outlook.md).
 
-You must update system properties to enable integration between the Career Conversations application and Microsoft Outlook. For more information about updating the required system properties, refer to [Set system properties for Microsoft Outlook integration](egd-admin-sys-properties-outlook.md).
+You must update system properties to enable integration between the Career Conversations application and Microsoft Outlook. For more information about updating the required system properties, refer to [Set system properties for Microsoft Outlook integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-admin-sys-properties-outlook.md).
 
 A mentor must accept the request for mentorship from a mentee.
 
@@ -78,5 +78,5 @@ A meeting for a conversation is scheduled on both yours and the recipient's cale
 
 Use the link in the meeting invitation email to update the agenda.
 
-**Parent Topic:**[Using the Career Conversations application](../concept/egd-activities-use.md)
+**Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/../concept/egd-activities-use.md)
 

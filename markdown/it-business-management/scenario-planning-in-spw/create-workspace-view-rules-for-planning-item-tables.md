@@ -17,7 +17,7 @@ Define workspace view rules for the form views of new planning item types in Str
 
 ## Before you begin
 
--   [Create form views for new planning item tables in Strategic Planning](create-form-views-for-planning-item-tables-in-apw.md)
+-   [Create form views for new planning item tables in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-form-views-for-planning-item-tables-in-apw.md)
 -   Ensure the application scope in your instance is set to Portfolio Planning
 
 Role required: admin
@@ -30,7 +30,7 @@ Role required: admin
 
 3.  On the form, fill in the fields.
 
-    For field information, see [View rule form](../reference/new-view-rule-form.md).
+    For field information, see [View rule form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../reference/new-view-rule-form.md).
 
 4.  In the Conditions section, select **Add Filter Condition** and add the following condition:
 
@@ -43,5 +43,5 @@ Role required: admin
 
 ## What to do next
 
-[Enable custom item types in Strategic Planning](enable-custom-item-types-strategic-planning-workspace.md).
+[Enable custom item types in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-custom-item-types-strategic-planning-workspace.md).
 

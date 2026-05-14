@@ -39,7 +39,7 @@ Role required: admin
 
 ## What to do next
 
-[Create new highlighted values for Prioritization columns in Portfolio Planning](create-highlighted-values-prioritization-portfolio-planning.md)
+[Create new highlighted values for Prioritization columns in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-highlighted-values-prioritization-portfolio-planning.md)
 
-**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](../concept/customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
+**Parent Topic:**[Customizing highlighted fields on prioritization tab of Portfolio Planning workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/customizing-highlighted-fields-prioritization-page-portfolio-planning-workspace.md)
 

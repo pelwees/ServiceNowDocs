@@ -74,5 +74,5 @@ Enter a description for this definition record.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-**Parent Topic:**[Create a success play](account-lifecycle-create-success-play.md)
+**Parent Topic:**[Create a success play](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/acct-lifecycle-events/account-lifecycle-create-success-play.md)
 

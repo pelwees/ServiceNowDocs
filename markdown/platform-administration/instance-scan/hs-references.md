@@ -15,10 +15,10 @@ breadcrumb: [Instance Scan, Maintain and monitor, Administer the ServiceNow AI P
 
 The reference topics provide additional information about Instance Scan.
 
--   **[Instance Scan roles](instance-scan-roles.md#)**  
+-   **[Instance Scan roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/instance-scan-roles.md#)**  
 Instance Scan is installed with these roles.
--   **[Instance Scan properties](hs-sys-properties.md)**  
+-   **[Instance Scan properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-sys-properties.md)**  
 On the properties form, you can set parameters that control how the instance executes.
 
-**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](../../general/concept/maintain-monitor-now-platform.md)
+**Parent Topic:**[Maintaining and monitoring the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../../general/concept/maintain-monitor-now-platform.md)
 

@@ -69,5 +69,5 @@ Actions
 
 ## What to do next
 
-[Manage pages and subpages within a Doc in EAP](create-pages-within-a-doc-in-eap.md).
+[Manage pages and subpages within a Doc in EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-pages-within-a-doc-in-eap.md).
 

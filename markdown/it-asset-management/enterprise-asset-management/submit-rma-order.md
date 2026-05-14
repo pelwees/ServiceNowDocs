@@ -35,9 +35,9 @@ Role required: asset or inventory\_user
 
 4.  In the **Stockroom** field, search for and select the stockroom that the defective enterprise asset is located in.
 
-    By selecting a stockroom, you can narrow down the list of enterprise assets that you can search and select from in the **Enterprise asset** field \([step 5](submit-rma-order.md#select-asset)\).
+    By selecting a stockroom, you can narrow down the list of enterprise assets that you can search and select from in the **Enterprise asset** field \([step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/submit-rma-order.md#select-asset)\).
 
-    If you do not select a stockroom, this field populates automatically based on the enterprise asset that you select in the **Enterprise asset** field \([step 5](submit-rma-order.md#select-asset)\).
+    If you do not select a stockroom, this field populates automatically based on the enterprise asset that you select in the **Enterprise asset** field \([step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/submit-rma-order.md#select-asset)\).
 
 5.  In the **Enterprise asset** field, search for and select the defective enterprise asset that you want to replace or repair through this RMA order.
 
@@ -56,5 +56,5 @@ Role required: asset or inventory\_user
 
 After the RMA order is submitted successfully, you are automatically redirected to the Service Catalog home page. A confirmation message then appears with the RMA order number, which you can use to track and manage your RMA order.
 
-**Parent Topic:**[Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets](../concept/requesting-return-merchandise-authorization-enterprise-assets.md)
+**Parent Topic:**[Requesting a Return Merchandise Authorization \(RMA\) for defective enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/requesting-return-merchandise-authorization-enterprise-assets.md)
 

@@ -35,23 +35,23 @@ Whether used standalone or embedded in eCommerce platforms, Salesforce, or custo
 
 Before you start building, familiarize yourself with the foundational terms used in ServiceNow CPQ:
 
-1.  [Configurable Products](configurable_products.md) — product records that launch a configuration when added to a quote.
-2.  [Blueprints](blueprints_101.md) — the containers for configuration logic and UX \(fields, rules, and layouts\).
-3.  [Fields](fields_101.md) — variables that collect and store data during configuration \(at the header or line level\).
-4.  [Rules](rules_101.md) — logic that validates input, sets values, filters options, or computes outputs \(for example, to produce a BOM\).
-5.  [Set up layouts](layout_csv_101.md) — the structure and navigation of the buyside UI. Layouts define the end user interface, how fields are arranged on the page, and how the user travels through the configuration experience.
+1.  [Configurable Products](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configurable_products.md) — product records that launch a configuration when added to a quote.
+2.  [Blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md) — the containers for configuration logic and UX \(fields, rules, and layouts\).
+3.  [Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/fields_101.md) — variables that collect and store data during configuration \(at the header or line level\).
+4.  [Rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/rules_101.md) — logic that validates input, sets values, filters options, or computes outputs \(for example, to produce a BOM\).
+5.  [Set up layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md) — the structure and navigation of the buyside UI. Layouts define the end user interface, how fields are arranged on the page, and how the user travels through the configuration experience.
 6.  BOM — bill of materials output used for quoting and/or downstream manufacturing/ERP.
 
 ## Build your first configuration
 
 Build your first configuration.
 
--   Upload a sample blueprint using the Matrix Loader. See the [Configure the Matrix Loader](cpq-using-the-matrix-loader.md).
--   Create a configurable product in Salesforce CPQ \(SFDC\) and associate it with your blueprint. See [The CPQ Configurator](understand-the-commerce-logic-engine.md).
--   Launch the configuration experience by adding the product to a quote and verifying that the blueprint-driven UI is working as expected. See [Set up blueprints](blueprints_101.md).
+-   Upload a sample blueprint using the Matrix Loader. See the [Configure the Matrix Loader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md).
+-   Create a configurable product in Salesforce CPQ \(SFDC\) and associate it with your blueprint. See [The CPQ Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/understand-the-commerce-logic-engine.md).
+-   Launch the configuration experience by adding the product to a quote and verifying that the blueprint-driven UI is working as expected. See [Set up blueprints](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md).
 
 **Related topics**  
 
 
-[The CPQ Configurator](understand-the-commerce-logic-engine.md)
+[The CPQ Configurator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/understand-the-commerce-logic-engine.md)
 

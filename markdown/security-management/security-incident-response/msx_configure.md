@@ -27,13 +27,13 @@ Role required: sn\_si.admin
 
 3.  Click **Configure**.
 
-    ![Microsoft Exchange Online configuration tile.](../image/ms-7-24-config.png)
+    ![Microsoft Exchange Online configuration tile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-7-24-config.png)
 
 4.  In the Microsoft Exchange Online Configuration dialog that is displayed, click **Configure Exchange Online**.
 
     An example of a completed and validated form follows the table.
 
-    ![Configure Exchange Online link highlighted.](../image/ms-configure-tile.png "Configure Microsoft Exchange Online")
+    ![Configure Exchange Online link highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-configure-tile.png "Configure Microsoft Exchange Online")
 
 <table id="choicetable_erq_lmy_c2b"><thead><tr><th align="left" id="d297105e141">
 
@@ -73,7 +73,7 @@ A certificate thumbprint is a hash of a certificate, computed over all certifica
 
 </td><td>
 
-The Application \(client\) ID that was generated for the account that you created in the Microsoft Azure portal. For more information, see [Set up your Microsoft Azure account](ms-azure-account.md).
+The Application \(client\) ID that was generated for the account that you created in the Microsoft Azure portal. For more information, see [Set up your Microsoft Azure account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-azure-account.md).
 
 </td></tr><tr><td id="d297105e217">
 
@@ -81,7 +81,7 @@ The Application \(client\) ID that was generated for the account that you create
 
 </td><td>
 
-Password \(client secret\) for the account that you created in the Microsoft Azure portal. For more information, see [Set up your Microsoft Azure account](ms-azure-account.md).
+Password \(client secret\) for the account that you created in the Microsoft Azure portal. For more information, see [Set up your Microsoft Azure account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-azure-account.md).
 
 </td></tr><tr><td id="d297105e245">
 
@@ -121,7 +121,7 @@ Security tag. Default is selected.
 
  The default tag names are displayed, but tag names and colors can be edited.
 
- For more information, see [Edit security tags for the Microsoft Exchange Online integration](ms-edit-tags.md).
+ For more information, see [Edit security tags for the Microsoft Exchange Online integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-edit-tags.md).
 
 </td></tr><tr><td id="d297105e323">
 
@@ -178,9 +178,9 @@ Select the check box to enable failure notifications when the search or delete a
 From version 10.3 or later, you can specify an email delete threshold for approvals. If the number of emails being deleted is greater than or equal to the value specified here, the Delete request must be approved before the Delete action is invoked. If the threshold value is set to 1, every Delete request must be approved.
 
 </td></tr></tbody>
-</table>    ![Configure the Connection Settings tab](../image/ms-exchange-online-config.png "Microsoft Exchange Online Connection Settings")
+</table>    ![Configure the Connection Settings tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-exchange-online-config.png "Microsoft Exchange Online Connection Settings")
 
-    ![Configure the Additional Settings tab.](../image/security-tags-failure-notifi.png "Microsoft Exchange Online Additional Settings")
+    ![Configure the Additional Settings tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/security-tags-failure-notifi.png "Microsoft Exchange Online Additional Settings")
 
 5.  Choose one to continue.
 
@@ -192,7 +192,7 @@ From version 10.3 or later, you can specify an email delete threshold for approv
 
 If an error message is displayed, or one or more of the indicators to the right of the Validate button are red, verify that the user account credentials you entered are valid. Enter your credentials and click **Save** again.
 
-![Validation unsuccessful with red indicator.](../image/ms-validatation-colors.png "Validation unsuccessful")
+![Validation unsuccessful with red indicator.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-validatation-colors.png "Validation unsuccessful")
 
 Refer to the following table for more information about the **Validate** button and the colored icons.
 
@@ -231,9 +231,9 @@ Validate button is light red and one or all of the small colored indicators are 
 -   Exchange Online certificate-based authentication indicator is red but MID Server Ready button is green: Indicates that the MID Server is active and configured correctly, but the Exchange Online certificate-based authentication are incorrect.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Microsoft Exchange Online integration](../concept/ms-exchange-online-lookups.md)
+</table>**Parent Topic:**[Microsoft Exchange Online integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/ms-exchange-online-lookups.md)
 
-**Previous topic:**[Install Microsoft Exchange Online application](install-and-configure-ms-exchange-online.md)
+**Previous topic:**[Install Microsoft Exchange Online application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-ms-exchange-online.md)
 
-**Next topic:**[Define email search criteria and request a search on the Microsoft Exchange Online service](verify-expected-results-ms-exchange-online.md)
+**Next topic:**[Define email search criteria and request a search on the Microsoft Exchange Online service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-results-ms-exchange-online.md)
 

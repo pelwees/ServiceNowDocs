@@ -38,7 +38,7 @@ Check-in with Qr-code
 
 </td><td>
 
-Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
+Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Check-out with Qr-code
 
 </td><td>
 
-Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
+Visitor must scan the invitation QR code for authentication. The QR code is in the email invite that is sent to the visitor.**Note:** Ensure that the kiosk operator provides camera permissions on the kiosk to scan the QR code. For more information, see [Setting up a kiosk device](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../../workplace-services-kiosk/concept/setting-up-kiosk-device.md#).
 
 </td></tr><tr><td>
 
@@ -126,24 +126,24 @@ After creating an end page configuration, you can add further steps for the visi
 |Page|End page that the record is linked to.|
 |Active|Option to make the record active.|
 
-**Parent Topic:**[Workplace Visitor Management references](../concept/workplace-visitor-mgmt-references.md)
+**Parent Topic:**[Workplace Visitor Management references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/workplace-visitor-mgmt-references.md)
 
 **Related topics**  
 
 
-[Components installed with Workplace Visitor Management](components-installed-with-workplace-visitor-mgmt.md)
+[Components installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/components-installed-with-workplace-visitor-mgmt.md)
 
-[Properties installed with Workplace Visitor Management](properties-installed-with-workplace-visitor-mgmt.md)
+[Properties installed with Workplace Visitor Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/properties-installed-with-workplace-visitor-mgmt.md)
 
-[Kiosk Check-in Flow Configuration form](kiosk-check-in-config-form.md)
+[Kiosk Check-in Flow Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-check-in-config-form.md)
 
-[Kiosk Check-out Flow Configuration form](kiosk-check-out-config-form.md)
+[Kiosk Check-out Flow Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-check-out-config-form.md)
 
-[Kiosk Page Configuration form](kiosk-page-config-form.md)
+[Kiosk Page Configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/kiosk-page-config-form.md)
 
-[Location Policy form](location-policy-form.md)
+[Location Policy form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/location-policy-form.md)
 
-[New visit form](new-visit-form.md)
+[New visit form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/new-visit-form.md)
 
-[Additional requirement form](additional-req-form.md)
+[Additional requirement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/additional-req-form.md)
 

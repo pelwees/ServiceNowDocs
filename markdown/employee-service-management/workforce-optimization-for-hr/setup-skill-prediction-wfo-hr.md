@@ -40,8 +40,8 @@ Role required: sn\_hr\_wfo.admin
     **Note:** Recommended skills will start appearing once the number of records in \[sn\_sre\_task\_predicted\_skill\] table exceeds the value defined in the \[sn\_sre.user\_predicted\_skill\_threshold\] .
 
 
--   **[Use extension points for skill prediction in Workforce Optimization for HR](use-extension-points-skill-wfo-hr.md)**  
+-   **[Use extension points for skill prediction in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/use-extension-points-skill-wfo-hr.md)**  
 Use scripted extension points to customize skill prediction for tasks.
 
-**Parent Topic:**[Setting up Coaching in Workforce Optimization for HR](../concept/setup-coaching-wfo-hr.md)
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/../concept/setup-coaching-wfo-hr.md)
 

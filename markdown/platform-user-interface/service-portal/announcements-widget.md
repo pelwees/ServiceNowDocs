@@ -15,7 +15,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Users can view all active announcements. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-This widget lists the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **Service Portal** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](../task/create-announcement.md).
+This widget lists the active announcements for a portal from the Announcement \[announcement\] table. To see the list of active announcements, navigate to **All** &gt; **Service Portal** &gt; **Announcements**. For information about creating announcements, see [Create an announcement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/create-announcement.md).
 
 ![](../image/announcement-widget.png "Announcements widget")
 
@@ -95,17 +95,17 @@ Who Can View Instances \| Who Cannot View Instances
 
 </td><td>
 
-Control who can and cannot view a widget instance with [user criteria](user-criteria.md). This option appears when user criteria for the Service Portal is activated.
+Control who can and cannot view a widget instance with [user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md). This option appears when user criteria for the Service Portal is activated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Example widgets](sp-example-widgets.md)
+</table>**Parent Topic:**[Example widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-example-widgets.md)
 
 **Related topics**  
 
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

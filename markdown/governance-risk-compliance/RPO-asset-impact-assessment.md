@@ -25,7 +25,7 @@ Not all elements require data backup, however technology assets like IT hardware
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon.](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
     By default the records in the **In Draft** state of the Business Impact Analysis list opens.
 
@@ -35,7 +35,7 @@ Not all elements require data backup, however technology assets like IT hardware
 
 5.  To assess a BIA of its recovery point objective, click the **RPO Impact Assessment** tab.
 
-    The **RPO Impact Assessment** tab appears only if you, as a BCM administrator, had set the **Requires data backup** field as **Yes** in the [Configure element definitions for Business Continuity Management](configure-element-definitions.md).
+    The **RPO Impact Assessment** tab appears only if you, as a BCM administrator, had set the **Requires data backup** field as **Yes** in the [Configure element definitions for Business Continuity Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-definitions.md).
 
 6.  Enter the data value of the asset in terms of its RPO impact on the business in the **Response** cell of the Data Value grid.
 
@@ -54,7 +54,7 @@ If the impact category contributes to RPO, then the RPO calculation is as follow
 
 RPO depends on the rating or the response that you give for each question in the impact category of RPO Impact Assessment.
 
-![Responses provided for RPO Impact Assessment](../image/RPOImpactAssessment.png "RPO assessment result")
+![Responses provided for RPO Impact Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/RPOImpactAssessment.png "RPO assessment result")
 
 Based on your response that you have selected for each Impact analysis question of an impact category, the system calculates the RPO.
 
@@ -62,7 +62,7 @@ For example, if two questions have a Medium \(value is 20\) response and one que
 
 The impact rating has an integer value preconfigured in the Impact Rating table \[sn\_bcm\_impact\_rating\]. This value is updated as the **Category score** for the corresponding impact category in the Impact Category Results table \[sn\_bia\_category\_result\]. The system picks up the maximum category score across all impact categories. This score falls within a range of lower and upper threshold values. The threshold range within which the maximum score falls corresponds to a timeframe, which is stamped as **Recovery Point Objective \(RPO\)** in the **Impact Assessment Result** card of the BIA.
 
-![The RPO value, calculated based on the responses provided, displays on the Impact Assessment Result card.](../image/RPOCalculation.png "RPO value in Impact Assessment Result card")
+![The RPO value, calculated based on the responses provided, displays on the Impact Assessment Result card.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/RPOCalculation.png "RPO value in Impact Assessment Result card")
 
 The mapping results of the threshold score and the timeframe are stored in the Score timeframe mapping table \[sn\_bia\_score\_timeframe\_mapping\].
 

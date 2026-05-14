@@ -17,5 +17,5 @@ Integrate your Zoom account with your  ServiceNow® instance. Create a custom 
 
 For complete information about setting up a Zoom spoke, see [Zoom spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/zoom-spoke.md).
 
-**Parent Topic:**[Configuring Collaboration services for Zoom](configure-sn-zoom.md)
+**Parent Topic:**[Configuring Collaboration services for Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-sn-zoom.md)
 

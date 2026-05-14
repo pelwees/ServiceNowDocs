@@ -32,17 +32,17 @@ For more information, see [Smart Assessment Engine](https://raw.githubuserconten
 
 The steps for setting up Smart Assessment are:
 
-1.  [Activate Smart Assessment for Field Service questionnaire](../task/activate-smart-assessment.md)
-2.  [Enable Smart Assessment Questionnaire](../task/enable-smart-assessment-questionnaire.md)
+1.  [Activate Smart Assessment for Field Service questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../task/activate-smart-assessment.md)
+2.  [Enable Smart Assessment Questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../task/enable-smart-assessment-questionnaire.md)
 3.  Either configure a smart assessment questionnaire by migrating a survey-based questionnaire or from new smart assessment templates.
 
-    -   To migrate from survey-based questionnaires to Smart Assessment questionnaires see, [Migrating to Smart Assessment from survey-based questionnaire](configuring-sa-by-migrating.md).
+    -   To migrate from survey-based questionnaires to Smart Assessment questionnaires see, [Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configuring-sa-by-migrating.md).
 
-    -   To configure Smart Assessment questionnaires from new Smart Assessment templates see, [Configuring Smart Assessment from new templates](configure-sa-from-new-template.md).
+    -   To configure Smart Assessment questionnaires from new Smart Assessment templates see, [Configuring Smart Assessment from new templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configure-sa-from-new-template.md).
 
 
 **Related topics**  
 
 
-[Smart Assessment components](../reference/smart-assessment-components.md)
+[Smart Assessment components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/../reference/smart-assessment-components.md)
 

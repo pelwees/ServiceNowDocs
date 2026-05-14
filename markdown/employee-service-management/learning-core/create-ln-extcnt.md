@@ -25,21 +25,21 @@ Role required: sb\_lc.learning\_admin
 
 2.  On the form, view the fields:
 
-    For a description of the field values, see [Learning External Contents form](../reference/learning-external-contents-form.md)
+    For a description of the field values, see [Learning External Contents form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/../reference/learning-external-contents-form.md)
 
 
-**Parent Topic:**[Managing course and catalog content](manage-ln-content.md)
+**Parent Topic:**[Managing course and catalog content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
 **Related topics**  
 
 
-[Create a course catalog](create-course-catalog.md)
+[Create a course catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md)
 
-[Create a content collection](create-course-collection.md)
+[Create a content collection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-collection.md)
 
-[Create internal learning content](create-ln-cnt.md)
+[Create internal learning content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-cnt.md)
 
-[Create a learning library](create-ln-ctg.md)
+[Create a learning library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
 
-[Create a learning task](ln-task-le.md)
+[Create a learning task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-task-le.md)
 

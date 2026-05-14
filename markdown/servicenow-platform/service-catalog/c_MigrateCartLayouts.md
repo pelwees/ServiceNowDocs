@@ -36,12 +36,12 @@ For example, these items can show prices even though the general cart layout rec
 
 To retain item-specific settings, clear the **Use cart layout** check box in the catalog item form.
 
-![Screenshot for item-specific settings](../image/Service_Catalog_Use_Cart_Layout.png "Item-specific settings")
+![Screenshot for item-specific settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Service_Catalog_Use_Cart_Layout.png "Item-specific settings")
 
 **Note:** You can configure the form to display the **Use cart layout** check box.
 
--   **[Migrate customizations and enable cart layouts](../task/t_MoveCustomizationsToCartLayouts.md)**  
+-   **[Migrate customizations and enable cart layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_MoveCustomizationsToCartLayouts.md)**  
 Move customization to cart layout widgets, and then enable cart layouts.
 
-**Parent Topic:**[Cart layout](c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ConfigureCartLayout.md)
 

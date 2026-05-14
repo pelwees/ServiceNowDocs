@@ -21,7 +21,7 @@ Role required: guided\_tour\_admin
 
 ## About this task
 
-Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [Accessibility features](../../../administer/accessibility-508-compliance/concept/c_SetUpSect508ComplianceFeature.md#) section for more information.
+Overall, the accessibility features of the Guided Tour Designer align with those of the ServiceNow AI Platform®. See the [Accessibility features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/../../../administer/accessibility-508-compliance/concept/c_SetUpSect508ComplianceFeature.md#) section for more information.
 
 ## Procedure
 
@@ -63,5 +63,5 @@ Overall, the accessibility features of the Guided Tour Designer align with those
 
 Tab to the panel on the right side to edit the name of the tour, copy the tour's URL, and rearrange the tour's steps.
 
-**Parent Topic:**[Configuring Guided Tours](configure-guided-tours.md)
+**Parent Topic:**[Configuring Guided Tours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-guided-tours.md)
 

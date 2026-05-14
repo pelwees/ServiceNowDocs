@@ -25,7 +25,7 @@ Role required: admin
 
 Two roles are installed with the Contract Workspace plugin.
 
-For more information, see [Components installed with Contract Workspace](../reference/cncore-comp-contract-workspace.md).
+For more information, see [Components installed with Contract Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../reference/cncore-comp-contract-workspace.md).
 
 ## Procedure
 

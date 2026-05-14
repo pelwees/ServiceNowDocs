@@ -32,5 +32,5 @@ Role required: notify\_view, notify\_admin or notify\_setup\_admin
 3.  Click **Update**.
 
 
-**Parent Topic:**[Using Notify with SMS](../concept/c_NotifySMS.md)
+**Parent Topic:**[Using Notify with SMS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/../concept/c_NotifySMS.md)
 

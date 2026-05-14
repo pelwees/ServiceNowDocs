@@ -74,5 +74,5 @@ Allows the widget to appear if there are no published news articles
 **Related topics**  
 
 
-[Guided Self-Service in Employee Center](../concept/gss-guided-self-service-overview.md)
+[Guided Self-Service in Employee Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/gss-guided-self-service-overview.md)
 

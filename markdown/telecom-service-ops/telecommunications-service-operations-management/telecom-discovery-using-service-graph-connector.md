@@ -134,9 +134,9 @@ As a result, the discovered CI is in both the cmdb\_ci and tni\_entity tables.
 **Related topics**  
 
 
-[Telecom Discovery via Nokia Altiplano](service-graph-connector-for-nokia-altiplano.md#)
+[Telecom Discovery via Nokia Altiplano](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/service-graph-connector-for-nokia-altiplano.md#)
 
-[Telecom Discovery via Cisco Meraki SD-WAN](telecom-discovery-via-cisco-meraki.md)
+[Telecom Discovery via Cisco Meraki SD-WAN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/telecom-discovery-via-cisco-meraki.md)
 
-[Telecom Discovery via Fortinet SD-WAN](telecom-discovery-via-fortinet.md)
+[Telecom Discovery via Fortinet SD-WAN](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/telecom-discovery-via-fortinet.md)
 

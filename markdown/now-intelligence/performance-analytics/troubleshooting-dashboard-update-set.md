@@ -25,11 +25,11 @@ Role required: admin.
 
 ### Procedure
 
-1.  In the **Update Set Preview Problems** related list, click the information icon \(![](../../../common/image/Form_ReferenceLookupIcon.png)\) next to the error.![Update Set Preview Problems tab with two errors.](../image/update-set-preview-problems.png)
+1.  In the **Update Set Preview Problems** related list, click the information icon \(![](../../../common/image/Form_ReferenceLookupIcon.png)\) next to the error.![Update Set Preview Problems tab with two errors.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/update-set-preview-problems.png)
 
 2.  In the pa\_tabs record payload, copy the sys\_id associated with the canvas\_page field.
 
-    ![Filter grid canvas on Sys ID](../image/filter-on-sys-id.png)
+    ![Filter grid canvas on Sys ID](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/filter-on-sys-id.png)
 
 3.  In the source instance, navigate to sys\_grid\_canvas.list.
 

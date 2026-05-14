@@ -97,5 +97,5 @@ Identifier for your bot.In this field, provide your Alexa Skill ID that you copi
 </table>4.  Click **Submit**.
 
 
-**Parent Topic:**[Set up Conversational Integration with Alexa](setup-alexa.md)
+**Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 

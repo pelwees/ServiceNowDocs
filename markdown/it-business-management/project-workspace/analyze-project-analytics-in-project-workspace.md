@@ -23,21 +23,21 @@ Role required: it\_project\_user
 
 ## About this task
 
-The Analytics tab is a dashboard that showcases preconfigured widgets and reports to monitor the progress of a project, including aspects like open risks, actual costs, and delayed milestones. The reports aggregate data from the fields in the project form. For details on the various widgets and reports available for different project types, see the [Project analytics widgets and reports](../../project-management/reference/project-analytics-widgets.md).
+The Analytics tab is a dashboard that showcases preconfigured widgets and reports to monitor the progress of a project, including aspects like open risks, actual costs, and delayed milestones. The reports aggregate data from the fields in the project form. For details on the various widgets and reports available for different project types, see the [Project analytics widgets and reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../project-management/reference/project-analytics-widgets.md).
 
 ## Procedure
 
 1.  Open a project from the planning page of Project Workspace.
 
-    For information on how to navigate to the planning page, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information on how to navigate to the planning page, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Open the analytics page of the project by selecting **Analytics** from the list.
 
 3.  Review the displayed reports and take necessary actions, if required.
 
 
--   **[Widgets and reports for project analytics](../reference/widgets-and-reports-for-project-analytics.md)**  
+-   **[Widgets and reports for project analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../reference/widgets-and-reports-for-project-analytics.md)**  
 Widgets and reports that provide information for the project summary in the Analytics page of the project workspace for Agile, Waterfall, and Hybrid projects.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

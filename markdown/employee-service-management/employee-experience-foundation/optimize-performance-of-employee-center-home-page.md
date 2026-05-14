@@ -42,12 +42,12 @@ By default, widgets try to load and display data simultaneously. This can cause 
 4.  Click **Save**.
 
 
-**Parent Topic:**[Managing portal performance](../concept/improve-manage.md)
+**Parent Topic:**[Managing portal performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/improve-manage.md)
 
 **Related topics**  
 
 
-[Portal performance optimization](../concept/ec-load-experience-optimization.md)
+[Portal performance optimization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-load-experience-optimization.md)
 
-[Manage connected content from topic pages](mnge-content-topics.md)
+[Manage connected content from topic pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mnge-content-topics.md)
 

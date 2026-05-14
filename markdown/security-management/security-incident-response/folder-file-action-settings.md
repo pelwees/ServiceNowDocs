@@ -117,16 +117,16 @@ Role required: sn\_msi.workspace\_admin
 
 3.  Deselect the **Active** check box to disable the folder and file action.
 
-    ![Clearing the Active check box](../image/folder-file-actions-settings-example.png)
+    ![Clearing the Active check box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/folder-file-actions-settings-example.png)
 
 4.  **Update** the drive record.
 
-    **Note:** You can also perform the file action directly from the list of displayed file operations by choosing the **Active** column values to either True or False. ![Active column highlighted](../image/folder-file-action-settings.png)
+    **Note:** You can also perform the file action directly from the list of displayed file operations by choosing the **Active** column values to either True or False. ![Active column highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/folder-file-action-settings.png)
 
     If the file action performed is disabled then the action will not be displayed on the **Collaborations** tab of the **Major Security Incident Management** workspace.
 
-    ![Three-dot menu with Folder and File Actions highlighted](../image/msim-workspace-folder-file-actions-page.png)
+    ![Three-dot menu with Folder and File Actions highlighted](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/msim-workspace-folder-file-actions-page.png)
 
 
-**Parent Topic:**[Configure File Explorer Component](../concept/file-explorer.md)
+**Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/file-explorer.md)
 

@@ -35,7 +35,7 @@ Verify that you have a doc component plug-in​ \(com.sn\_docs​\) installed.
 
 5.  From the Pages section, select **Create page**.
 
-    ![Quick overview of Docs tab in Product idea.](../image/docs-in-product-idea.png)
+    ![Quick overview of Docs tab in Product idea.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/../image/docs-in-product-idea.png)
 
     You can perform these tasks under the **Doc** tab:
 

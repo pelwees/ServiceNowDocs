@@ -29,9 +29,9 @@ Role required: notification\_provider\_admin
 
 3.  On the Portal notification configuration form, fill in the fields.
 
-    For a description of the field values, see [Portal notification configuration form](../reference/portal-notif-config-form.md).
+    For a description of the field values, see [Portal notification configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/portal-notif-config-form.md).
 
-    You can also configure the notification content and the trigger conditions for each notification type. For more information, see [Configure notification content for portal](config-notif-content.md) and [Configure notification triggers](setup-notif-content-triggers.md).
+    You can also configure the notification content and the trigger conditions for each notification type. For more information, see [Configure notification content for portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notif-content.md) and [Configure notification triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notif-content-triggers.md).
 
 4.  Select **Submit**.
 

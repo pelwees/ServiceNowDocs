@@ -67,5 +67,5 @@ Install Product Support for Technology and Proactive Service Experience Workflow
     ServiceNow® Process Mining helps analysts and process owners quickly analyze and optimize their business processes. Create automated business process flows from your data that enable you to monitor and more quickly discover inefficiencies in your processes.
 
 
-**Parent Topic:**[Telecommunications, Media, and Technology release notes](technology-industry-rn-landing.md)
+**Parent Topic:**[Telecommunications, Media, and Technology release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/technology-industry-rn-landing.md)
 

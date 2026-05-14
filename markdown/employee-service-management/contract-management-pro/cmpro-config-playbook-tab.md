@@ -20,47 +20,47 @@ The playbook appears on the contract repository record when the Now Assist in Co
 
 The visibility of the Playbook tab is controlled by a data broker. The conditional logic is provided as a script method, `sn_cm_gen_ai.ContractsMetadataExtractionHelper()` in a Script include file. To invoke this action, create a method in one of your Script include files for your workspace, which can be accessed by the data broker linked to your workspace on the UI Builder.
 
-1.  [Add a script include method for the Playbook tab](cmpro-config-script-playbook.md)
-2.  [Add a data broker server script for the Playbook tab](cmpro-data-broker-playbook.md)
-3.  [Add the data broker to your workspace page](cmpro-add-databroker-workspace.md)
-4.  [Configure the Playbook tab component for your workspace](cmpro-confg-playbook-comp.md)
-5.  [Configure obligation review for the playbook](cmpro-add-obligation-playbook.md)
+1.  [Add a script include method for the Playbook tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-script-playbook.md)
+2.  [Add a data broker server script for the Playbook tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-data-broker-playbook.md)
+3.  [Add the data broker to your workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-databroker-workspace.md)
+4.  [Configure the Playbook tab component for your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-confg-playbook-comp.md)
+5.  [Configure obligation review for the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-obligation-playbook.md)
 
--   **[Add a script include method for the Playbook tab](cmpro-config-script-playbook.md)**  
+-   **[Add a script include method for the Playbook tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-script-playbook.md)**  
 Add a script include method that controls the **Playbook** tab visibility on the contract repository record by verifying plugin availability and applying conditional logic.
--   **[Add a data broker server script for the Playbook tab](cmpro-data-broker-playbook.md)**  
+-   **[Add a data broker server script for the Playbook tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-data-broker-playbook.md)**  
 Configure a data broker server script that connects the UI Builder component to the script include method controlling the **Playbook** tab visibility.
--   **[Add the data broker to your workspace page](cmpro-add-databroker-workspace.md)**  
+-   **[Add the data broker to your workspace page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-databroker-workspace.md)**  
 Add the data resources to your page in the UI Builder to dynamically expose data from tables, records, or other elements on your page.
--   **[Configure the Playbook tab component for your workspace](cmpro-confg-playbook-comp.md)**  
+-   **[Configure the Playbook tab component for your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-confg-playbook-comp.md)**  
 Use the Tabs component in UI Builder to configure the **Playbook** tab on the contract repository record page for your workspace.
--   **[Configure obligation review for the playbook](cmpro-add-obligation-playbook.md)**  
+-   **[Configure obligation review for the playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-obligation-playbook.md)**  
 Create a page in UI Builder that uses a viewport component to dynamically load obligation review content in the playbook.
 
-**Parent Topic:**[Add and configure contract request functionality into your workspace](../concept/cncore-uptake-steps.md)
+**Parent Topic:**[Add and configure contract request functionality into your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-uptake-steps.md)
 
 **Related topics**  
 
 
-[Configure non-task tables for contract templates](cmpro-config-non-tsk-tbl-cn-tmplt.md)
+[Configure non-task tables for contract templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-non-tsk-tbl-cn-tmplt.md)
 
-[Add a workspace action button for initiating a contract request](cncore-config-initiate-cont.md)
+[Add a workspace action button for initiating a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-initiate-cont.md)
 
-[Add Contract requests tab to the contract request record](cncore-add-relatedlist-conreq.md)
+[Add Contract requests tab to the contract request record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-relatedlist-conreq.md)
 
-[Add amendment tabs to contract repository record](cncore-BU-amend-relatedlist.md)
+[Add amendment tabs to contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-BU-amend-relatedlist.md)
 
-[Add Contract documents tab to the contract repository record](cncore-add-con-doc-relatedl.md)
+[Add Contract documents tab to the contract repository record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-con-doc-relatedl.md)
 
-[Copy fields from parent request to contract request](cncore-copy-fld-frm-parent.md)
+[Copy fields from parent request to contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-copy-fld-frm-parent.md)
 
-[Group contract documents by contract type in a contract request](cncore-config-srp-grouping.md)
+[Group contract documents by contract type in a contract request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-srp-grouping.md)
 
-[Add access to obligation management from contract repository records](cmpro-add-access-to-ob-mgmt.md)
+[Add access to obligation management from contract repository records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-add-access-to-ob-mgmt.md)
 
-[Configure the contract request form header for your workspace](cncore-configure-header.md)
+[Configure the contract request form header for your workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-configure-header.md)
 
-[Assign a role for configuring template mappings](cncore-tbl-access-config-role.md)
+[Assign a role for configuring template mappings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-tbl-access-config-role.md)
 
-[Enable contract request fields in condition builders](cncore-add-cmr-condtion-build.md)
+[Enable contract request fields in condition builders](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 

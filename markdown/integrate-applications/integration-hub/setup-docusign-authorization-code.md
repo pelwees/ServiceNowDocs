@@ -51,7 +51,7 @@ Docusign requirements:
 
 4.  Record the values of integrator key and secret key to register the app as a third-party OAuth provider on your ServiceNow instance.
 
-    You need these values when you [Configure the connection for Docusign eSignature spoke](setup-docusign-authorization-code.md#).
+    You need these values when you [Configure the connection for Docusign eSignature spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-authorization-code.md#).
 
 5.  Add the ServiceNow OAuth Redirect URL in your Docusign account.
 
@@ -63,7 +63,7 @@ Docusign requirements:
 
     4.  Under **Additional settings**, click **Add URI** and add the OAuth callback endpoint in this format: `https://<instance>.service-now.com/oauth_redirect.do`.
 
-        ![Add Redirect URI in Docusign account.](../image/docusign-add-redirect-uri.png)
+        ![Add Redirect URI in Docusign account.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-add-redirect-uri.png)
 
 6.  Obtain the value of **Account Base URI** from the Docusign account.
 
@@ -71,7 +71,7 @@ Docusign requirements:
 
     2.  Under **My Account Information**, you can find the value of the **Account Base URI**.
 
-        ![Account Base URI.](../image/docusign-acct-base-uri.png)
+        ![Account Base URI.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-acct-base-uri.png)
 
     3.  Copy and record this value for later use.
 
@@ -96,11 +96,11 @@ Role required: admin
 
     **Note:** Don't click Add Connection.
 
-    ![Connection template for Docusign eSignature spoke](../image/docusign-conn-template.png)
+    ![Connection template for Docusign eSignature spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-conn-template.png)
 
 5.  If you are configuring the spoke for the first time, click **Configure**.
 
-    ![Configure a connection for the first time for Docusign eSignature spoke](../image/docusign-conn-tempte-config.png)
+    ![Configure a connection for the first time for Docusign eSignature spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-conn-tempte-config.png)
 
 6.  On the Configure Connection form, fill in the fields.
 
@@ -126,7 +126,7 @@ Connection URL
 
 </td><td>
 
-**Account Base URI** to connect to Docusign environment. This value can be obtained from your Docusign account. For more information see, [Configure the Docusign account](setup-docusign-authorization-code.md#).
+**Account Base URI** to connect to Docusign environment. This value can be obtained from your Docusign account. For more information see, [Configure the Docusign account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-authorization-code.md#).
 
 </td></tr><tr><td>
 
@@ -178,10 +178,10 @@ OAuth Redirect URL
 
 </td><td>
 
-OAuth callback endpoint in this format: `https://<instance>.service-now.com/oauth_redirect.do`.**Note:** Ensure that you add this URL in your Docusign account. For more information see, [Configure the Docusign account](setup-docusign-authorization-code.md#).
+OAuth callback endpoint in this format: `https://<instance>.service-now.com/oauth_redirect.do`.**Note:** Ensure that you add this URL in your Docusign account. For more information see, [Configure the Docusign account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/setup-docusign-authorization-code.md#).
 
 </td></tr></tbody>
-</table>    ![Docusign connection.](../image/docusign-conf-temp.png)
+</table>    ![Docusign connection.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/docusign-conf-temp.png)
 
 7.  Click **Configure and Get OAuth Token**.
 

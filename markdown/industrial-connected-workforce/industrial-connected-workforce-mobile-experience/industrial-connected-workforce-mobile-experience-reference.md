@@ -15,12 +15,12 @@ breadcrumb: [Industrial Connected Workforce Mobile Experience, Industrial Connec
 
 Reference topics provide additional information about Industrial Connected Workforce Mobile Experience.
 
--   **[Industrial Guided Task form](industrial-guided-task-form-mobile.md)**  
+-   **[Industrial Guided Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/industrial-guided-task-form-mobile.md)**  
 The following table describes the field values for the Industrial Guided Task form in Industrial Connected Workforce Mobile Experience.
--   **[Action form](action-form-mobile.md)**  
+-   **[Action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/action-form-mobile.md)**  
 The following table describes the field values for the Action form in Industrial Connected Workforce Mobile Experience.
--   **[Deviation form](deviation-form-mobile.md)**  
+-   **[Deviation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/deviation-form-mobile.md)**  
 The following table describes the field values for the Deviation form in Industrial Connected Workforce Mobile Experience.
 
-**Parent Topic:**[Industrial Connected Workforce Mobile Experience](../concept/icw-mobile-exp-landing-page.md)
+**Parent Topic:**[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/../concept/icw-mobile-exp-landing-page.md)
 

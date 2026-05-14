@@ -104,7 +104,7 @@ Signature
 
 </td><td>
 
-Name of the [signature record](t_CreateAnAssessmentSignature.md) attached to this assessment. A signature requires that assessment recipients acknowledge that they have read any assertions attached to a questionnaire.
+Name of the [signature record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md) attached to this assessment. A signature requires that assessment recipients acknowledge that they have read any assertions attached to a questionnaire.
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Verification provided by the recipient when a signature is required. This value 
 </td></tr></tbody>
 </table>3.  Click **Take assessment** to open the questionnaire.
 
-    For more information, see [Take an assessment](t_TakeAnAssessment.md).
+    For more information, see [Take an assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md).
 
     This button is available if all the following conditions are true for the assessment instance:
 
@@ -125,14 +125,14 @@ Verification provided by the recipient when a signature is required. This value 
     -   The **State** is **Ready to take** or **In progress**.
     -   The associated metric type is **Active**.
 
-**Parent Topic:**[Scheduled assessments](../concept/c_ScheduledAssessments.md)
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[Assessment generation](../concept/c_AssessmentGeneration.md)
+[Assessment generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_AssessmentGeneration.md)
 
-[Generate a scheduled assessment manually](t_GenSchedAssessmentManually.md)
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_ScheduleEvents.md)
 

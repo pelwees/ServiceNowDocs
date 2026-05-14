@@ -36,11 +36,11 @@ Role required: flow\_designer
     |Trigger by entering inputs|Test by manually entering and selecting input values.|
     |Trigger via a conversation|Test by providing inputs values in a chat experience.|
 
-    ![Test subflow dialog box with Trigger via a conversation option selected](../images/example-test-subflow-via-conversation.png)
+    ![Test subflow dialog box with Trigger via a conversation option selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-test-subflow-via-conversation.png)
 
 6.  For **Select skill**, select the conversational-enabled skill that you want to use for conversational testing.
 
-    To configure subflow conversational settings, see [Configure subflow conversational settings](configure-subflow-conversation-settings.md).
+    To configure subflow conversational settings, see [Configure subflow conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-subflow-conversation-settings.md).
 
 7.  For **Select assistant**, select the AI assistant you want to use for conversational testing.
 
@@ -50,14 +50,14 @@ Role required: flow\_designer
 
     For example, provide the details needed to create an address.
 
-    ![Sample conversation to test Create Address subflow](../images/example-test-subflow-conversation.png)
+    ![Sample conversation to test Create Address subflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-test-subflow-conversation.png)
 
 10. Review the execution details.
 
     For example, these are sample execution details for the Create Address subflow.
 
-    ![Sample execution details from testing the Crate Address subflow via a conversation](../images/example-execution-details-conv-subflow.png)
+    ![Sample execution details from testing the Crate Address subflow via a conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/example-execution-details-conv-subflow.png)
 
 
-**Parent Topic:**[Building subflows](../concept/subflows.md)
+**Parent Topic:**[Building subflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/subflows.md)
 

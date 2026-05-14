@@ -86,7 +86,7 @@ No-code condition statement or low-code script that specifies a condition for pr
 </td></tr></tbody>
 </table>## Example Diagnostic Topic Executor utility
 
-![Properties include the node name, a diagnostic string, and output variables that indicate whether the topic executed or collected data.](../images/flow-designer-diagnostic-topic-executor-properties.png)
+![Properties include the node name, a diagnostic string, and output variables that indicate whether the topic executed or collected data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/flow-designer-diagnostic-topic-executor-properties.png)
 
-**Parent Topic:**[Assistant Designer utilities](va-utilities.md)
+**Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 

@@ -16,7 +16,7 @@ breadcrumb: [Using Now Assist Readiness Evaluation dashboard, Use, Now Assist Re
 
 The Now Assist Readiness Evaluation Dashboard's Agentic AI - Assessment tab helps determine agentic AI readiness for IT Service Management \(ITSM\) and Customer Service Management \(CSM\) by delivering automated, data-driven insights.
 
-**Note:** For results to appear in this dashboard, ensure that you have completed the configuration steps first. For more information on configuration, see [Configuring Now Assist Readiness Evaluation](configuring-now-assist-readiness-evaluation.md).
+**Note:** For results to appear in this dashboard, ensure that you have completed the configuration steps first. For more information on configuration, see [Configuring Now Assist Readiness Evaluation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configuring-now-assist-readiness-evaluation.md).
 
 The following list describes the details of the Agentic AI - Assessment dashboard tab.
 
@@ -47,5 +47,5 @@ The following list describes the details of the Agentic AI - Assessment dashboar
 
 You can select each widget on the dashboard to have that table data open in a separate tab.
 
-![Agentic AI - Assessment tab that shows each area of the dashboard, all including data that is automatically populated.](../image/nare-agentic-ai-dashboard-assessment.png "Example of the Now Assist Readiness Evaluation Dashboard's Agentic AI - Assessment tab")
+![Agentic AI - Assessment tab that shows each area of the dashboard, all including data that is automatically populated.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/../image/nare-agentic-ai-dashboard-assessment.png "Example of the Now Assist Readiness Evaluation Dashboard's Agentic AI - Assessment tab")
 

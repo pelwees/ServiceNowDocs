@@ -23,7 +23,7 @@ Role required: admin
 
 After the Discovery Console for OT is installed, there are default, preloaded certificates that allow the Console to power up. However, following this initial boot, it is recommended that you use the Console to generate a new CA. This task describes how to generate a new Console certificate for the Discovery Console for OT.
 
-![Generate certificate](../images/settings-certificate.png)
+![Generate certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../images/settings-certificate.png)
 
 ## Procedure
 

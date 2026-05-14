@@ -16,23 +16,23 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 You must execute scripts provided with the Service Graph Connector for AWS to set up the AWS environment for importing data.
 
-**Important:** Before executing an AWS script, ensure that you have completed the prerequisites. See [Prerequisites for executing scripts](sgc-cmdb-aws-scripts-prereq.md#).
+**Important:** Before executing an AWS script, ensure that you have completed the prerequisites. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md#).
 
-The AWS scripts provided with the connector configure AWS resources to import the configuration items \(CIs\) data into the CMDB. To learn more, see [AWS resources used by the Service Graph Connector for AWS](sgc-cmdb-aws-concepts.md).
+The AWS scripts provided with the connector configure AWS resources to import the configuration items \(CIs\) data into the CMDB. To learn more, see [AWS resources used by the Service Graph Connector for AWS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-concepts.md).
 
 Based on the AWS environment requirements, the scripts provided with the Service Graph Connector for AWS are categorized as described in the following table.
 
 <table id="table_w2k_kkm_4zb" class="nav-card"><tbody><tr><td>
 
-[Basic scripts![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Scripts for configuring the AWS environment to import data by using the connector.](sgc-cmdb-aws-script-op.md#section_vfh_wyf_4zb)
+[Basic scripts![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Scripts for configuring the AWS environment to import data by using the connector.](sgc-cmdb-aws-script-op.md#section_vfh_wyf_4zb)
 
 </td><td>
 
-[Deep discovery scripts![](../../../reuse/icons/brand-icons/bus-discover.svg)Scripts for setting up deep discovery on Amazon Elastic Compute Cloud \(Amazon EC2\) instances.](sgc-cmdb-aws-script-op.md#section_ahc_jwf_4zb)
+[Deep discovery scripts![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../../reuse/icons/brand-icons/bus-discover.svg)Scripts for setting up deep discovery on Amazon Elastic Compute Cloud \(Amazon EC2\) instances.](sgc-cmdb-aws-script-op.md#section_ahc_jwf_4zb)
 
 </td><td>
 
-[Amazon EKS scripts![](../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Scripts for setting up Amazon Elastic Kubernetes Service \(EKS\) clusters.](sgc-cmdb-aws-script-op.md#section_osh_4zf_4zb)
+[Amazon EKS scripts![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../../../reuse/icons/brand-icons/bus-service-aware-cmdb.svg)Scripts for setting up Amazon Elastic Kubernetes Service \(EKS\) clusters.](sgc-cmdb-aws-script-op.md#section_osh_4zf_4zb)
 
 </td></tr></tbody>
 </table>## Basic scripts
@@ -83,13 +83,13 @@ CreateServiceNowUser.yml
 
 -   **SNUserName**
 
-Name of the ServiceNow IAM user that was created as part of the setup. See [Prerequisites for executing scripts](sgc-cmdb-aws-scripts-prereq.md#).
+Name of the ServiceNow IAM user that was created as part of the setup. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md#).
 
 Default value: `NOWSGCUser`
 
 -   **MbrActRoleName**
 
-Name of the ServiceNow IAM role that was created as part of the setup. See [Prerequisites for executing scripts](sgc-cmdb-aws-scripts-prereq.md#).
+Name of the ServiceNow IAM role that was created as part of the setup. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md#).
 
 Default value: `SnowOrganizationAccountAccessRole`
 
@@ -124,7 +124,7 @@ Amazon S3 bucket name to get the `SendCommand` output.
 
 -   **ServiceNowUserName**
 
-Name of the ServiceNow IAM user that was created as part of the setup. See [Prerequisites for executing scripts](sgc-cmdb-aws-scripts-prereq.md#).
+Name of the ServiceNow IAM user that was created as part of the setup. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md#).
 
 Default value: `NOWSGCUser`
 
@@ -231,7 +231,7 @@ AmazonSSMForInstancesRoleSetup.yml
 
 -   **S3Bucket**
 
-S3 bucket name that collects the details from EC2 instances. See [Prerequisites for executing scripts](sgc-cmdb-aws-scripts-prereq.md#).
+S3 bucket name that collects the details from EC2 instances. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md#).
 
 
 </td><td>

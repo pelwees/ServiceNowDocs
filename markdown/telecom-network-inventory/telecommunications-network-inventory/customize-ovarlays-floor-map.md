@@ -80,7 +80,7 @@ Details
 </td><td>
 
 1.  Select the **Type** field.
-2.  Select the delete icon \(![Delete Icon.](../../../common/image/icon-delete-trashcan.png)\) to delete an overlay.
+2.  Select the delete icon \(![Delete Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../../../common/image/icon-delete-trashcan.png)\) to delete an overlay.
 3.  In the Condition section, delete the corresponding overlay rows.
 
 
@@ -94,14 +94,14 @@ Customized overlay options are displayed on the floor map, and the color legend 
 
 ## What to do next
 
-Set up time duration for the operational data. To learn more, see [Customize overlay time series on the floor map](customize-overlay-time-series-floor-map.md).
+Set up time duration for the operational data. To learn more, see [Customize overlay time series on the floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customize-overlay-time-series-floor-map.md).
 
-**Parent Topic:**[Configuring overlays on floor map](../concept/configure-overlays-floor-map.md)
+**Parent Topic:**[Configuring overlays on floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/configure-overlays-floor-map.md)
 
 **Related topics**  
 
 
-[Capacity management](../concept/capacity-management-reporting.md)
+[Capacity management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../concept/capacity-management-reporting.md)
 
-[Time series metrics for datacenter](../reference/time-series-metrics.md)
+[Time series metrics for datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../reference/time-series-metrics.md)
 

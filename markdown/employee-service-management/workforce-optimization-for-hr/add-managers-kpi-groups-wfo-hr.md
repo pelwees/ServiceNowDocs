@@ -36,5 +36,5 @@ You can associate a user with a primary assignment group by selecting the group 
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Setting up Teams in Workforce Optimization for HR](setup-team-workforce-wfo-hr.md)
+**Parent Topic:**[Setting up Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-team-workforce-wfo-hr.md)
 

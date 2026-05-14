@@ -31,7 +31,7 @@ The base system supports discovery of the RDS Databases and their licenses.
 
 ## Classes
 
-This section lists the classes that the CMDB CI Class Models app adds or updates. CMDB CI Class Models: Release 1.23.0 adds the following classes for the BYOL Model of RDS for Oracle. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](../reference/cmdb-tables-details.md).
+This section lists the classes that the CMDB CI Class Models app adds or updates. CMDB CI Class Models: Release 1.23.0 adds the following classes for the BYOL Model of RDS for Oracle. For the list of classes in the base system, including classes that this app might extend, see [CMDB tables descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/../reference/cmdb-tables-details.md).
 
 |Class|Description|
 |-----|-----------|

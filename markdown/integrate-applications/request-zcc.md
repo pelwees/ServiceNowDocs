@@ -75,5 +75,5 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[Configuring Zero Copy Connectors](../concept/configuring-zcc.md)
+**Parent Topic:**[Configuring Zero Copy Connectors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/configuring-zcc.md)
 

@@ -56,7 +56,7 @@ Alternatively, you can use a script to add these parameters. For the format to u
 
 The setting appears as a row on the **Advanced Solution Setting** tab on your solution's form.
 
-![On the Solution Definition form, in the Advanced Solutions Settings tab, config parameters is highlighted.](../images/predictive-intel-config-parameters-classificationZ1.png)
+![On the Solution Definition form, in the Advanced Solutions Settings tab, config parameters is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/predictive-intel-config-parameters-classificationZ1.png)
 
 ## What to do next
 
@@ -127,12 +127,12 @@ JSON example:
               }
 ```
 
-**Parent Topic:**[Configuring advanced settings for your ML solutions](../concept/configuring-advanced-settings-ml-solutions.md)
+**Parent Topic:**[Configuring advanced settings for your ML solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/configuring-advanced-settings-ml-solutions.md)
 
 **Related topics**  
 
 
-[Using Machine Learning APIs](../concept/using-ml-apis.md#)
+[Using Machine Learning APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../concept/using-ml-apis.md#)
 
-[Create and train a classification solution](create-solution-definition.md)
+[Create and train a classification solution](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-solution-definition.md)
 

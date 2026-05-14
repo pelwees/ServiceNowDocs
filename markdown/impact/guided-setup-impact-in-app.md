@@ -33,16 +33,16 @@ Role required: impact app admin, admin
 
     **Important:** You must mark each section as completed in order to unlock the next task section and continue setup.
 
-    ![The Impact Guided Setup screen with the different activities to select to configure that option.](../image/guided-setup-steps.png)
+    ![The Impact Guided Setup screen with the different activities to select to configure that option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/guided-setup-steps.png)
 
 
 ## What to do next
 
-[Use Guided Setup to onboard users to the Impact Store Application](onboard_users_impact_store_application.md)
+[Use Guided Setup to onboard users to the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/onboard_users_impact_store_application.md)
 
-**Parent Topic:**[Configure the Impact Store Application](../concept/configuring-impact-platform.md)
+**Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../concept/configuring-impact-platform.md)
 
-**Previous topic:**[Install the Impact Store Application from the ServiceNow Store](install-impact-innovation-lab.md)
+**Previous topic:**[Install the Impact Store Application from the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/install-impact-innovation-lab.md)
 
-**Next topic:**[Use Guided Setup to onboard users to the Impact Store Application](onboard_users_impact_store_application.md)
+**Next topic:**[Use Guided Setup to onboard users to the Impact Store Application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/onboard_users_impact_store_application.md)
 

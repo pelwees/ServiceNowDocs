@@ -31,16 +31,16 @@ Once you clear credentials from the current instance, the ServiceNow Extensions 
 
 2.  Choose **Now: Clear Credentials** from the command palette.
 
-    ![Clear Credentials command](../image/vscode-clear-credentials.png "Now: Clear credentials command")
+    ![Clear Credentials command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-clear-credentials.png "Now: Clear credentials command")
 
     The credentials of the current project are cleared.
 
 3.  Navigate to **Code** &gt; **Preferences** &gt; **Settings** &gt; **Workspace** &gt; **Extensions** &gt; **ServiceNow** to check whether the credentials and the instance URL have been deleted.
 
-    ![Navigation to clear credentials](../image/vscode-clearcredentials.png "Clear credentials")
+    ![Navigation to clear credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vscode-clearcredentials.png "Clear credentials")
 
     **Note:** To re-enter your credentials, navigate to **Code** **Preferences** **Settings** **Workspace** **Extensions** **Now**. Enter your credentials in **Username** and **Password** fields.
 
 
-**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](../concept/vs-code.md)
+**Parent Topic:**[ServiceNow Extensions for Visual Studio Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../concept/vs-code.md)
 

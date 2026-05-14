@@ -33,7 +33,7 @@ Using Demand Forecast, you can:
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Schedule \(![Schedule icon](../image/schedule-new.png)\) icon.
+2.  Click the Schedule \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/schedule-new.png)\) icon.
 
 3.  Click the **Team Calendar** tab.
 
@@ -123,8 +123,8 @@ Up to four weeks starting the week containing this date appear on the team calen
 </td></tr></tbody>
 </table>    The following scheduling snapshots provide you an example to analyze staff alignment using Demand Forecast. The misaligned staffing indicator in the pop-up shows that the forecast manager has scheduled certain number of agents for each shift but they need more agents to cover them.
 
-    ![Demand Forecast to analyze staff alignment.](../image/demand_forecast_and_scheduling.gif)
+    ![Demand Forecast to analyze staff alignment.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/demand_forecast_and_scheduling.gif)
 
 
-**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](../concept/scheduling-configurable-wfo-cs.md)
+**Parent Topic:**[Schedule in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../concept/scheduling-configurable-wfo-cs.md)
 

@@ -13,10 +13,10 @@ breadcrumb: [RPA Desktop Design Studio, Workflow Data Fabric]
 
 Reference topics provide additional information about the lists and forms that you use to configure and administer RPA Desktop Design Studio.
 
--   **[Methods and events of an attended automation form](form-methods-events.md)**  
+-   **[Methods and events of an attended automation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/form-methods-events.md)**  
 Learn about the methods and events of an attended automation form in RPA Desktop Design Studio.
--   **[Methods and events of elements](form-control-methods-events.md)**  
+-   **[Methods and events of elements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/form-control-methods-events.md)**  
 The methods and events for various form designing elements are displayed in the Object Explorer pane.
 
-**Parent Topic:**[Workflow Data Fabric](../../../build/create-integrations-apps/concept/create-integrations-applications.md)
+**Parent Topic:**[Workflow Data Fabric](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../build/create-integrations-apps/concept/create-integrations-applications.md)
 

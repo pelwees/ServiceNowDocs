@@ -50,7 +50,7 @@ Field Type
 
 The type of field \(for example, a text or Boolean field\).
 
- For more information, see [Field types in Now Assist in Document Intelligence](now-assist-document-intelligence-field-types.md).
+ For more information, see [Field types in Now Assist in Document Intelligence](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-field-types.md).
 
 </td></tr><tr><td>
 
@@ -97,12 +97,12 @@ Create multiple single fields
 Option to keep the form displayed on the screen. Enable this if you are adding more than one questionto the use case.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Now Assist in Document Intelligence forms](now-assist-document-intelligence-forms.md)
+</table>**Parent Topic:**[Now Assist in Document Intelligence forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-document-intelligence-forms.md)
 
 **Related topics**  
 
 
-[Field form for use case setup](document-extraction-single-field-form.md)
+[Field form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-extraction-single-field-form.md)
 
-[Table form for use case setup](document-extraction-table-form.md)
+[Table form for use case setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/document-extraction-table-form.md)
 

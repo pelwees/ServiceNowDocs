@@ -29,7 +29,7 @@ If you leave the clone profile field empty when requesting a clone, the system u
 
 3.  Fill in the form.
 
-    For field information, see [Clone options](clone-options.md).
+    For field information, see [Clone options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/clone-options.md).
 
 4.  Select **Submit**.
 

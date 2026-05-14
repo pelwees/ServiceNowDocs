@@ -17,7 +17,7 @@ To address issues promptly, define the conditions that trigger a team's escalati
 
 ## Before you begin
 
-If your team needs trigger fields other than Assignment group, confirm that an admin has already configured them. For more information, see [Configure fields for escalation triggers](srm-configure-trigger-fields.md).
+If your team needs trigger fields other than Assignment group, confirm that an admin has already configured them. For more information, see [Configure fields for escalation triggers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/srm-configure-trigger-fields.md).
 
 Role required: srm\_manager or srm\_admin
 
@@ -31,7 +31,7 @@ For a broader overview of escalation processes in ITSM, see [Designing an escala
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the primary navigation, select **Teams** \(![Teams.](../image/icon-sr-teams.png)\).
+2.  From the primary navigation, select **Teams** \(![Teams.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/../image/icon-sr-teams.png)\).
 
 3.  Select your team, and then select the **Escalation triggers and policies** tab.
 
@@ -93,5 +93,5 @@ Select **Run trigger rule every time the selected field changes** to run the tri
     The UI displays `The Escalation trigger has been added successfully`. The trigger is now active and runs when the defined conditions are met.
 
 
-**Parent Topic:**[Set up escalation policies for your team in SRM](sr-create-escalation-policies.md)
+**Parent Topic:**[Set up escalation policies for your team in SRM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-escalation-policies.md)
 

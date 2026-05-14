@@ -33,7 +33,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 **Related topics**  
 
 
-[UI Action Bar](../concept/migration-form-ui-actions.md)
+[UI Action Bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/migration-form-ui-actions.md)
 
-[Set up a form action in CSM Configurable Workspace](config-csm-config-ws-form-action.md)
+[Set up a form action in CSM Configurable Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-action.md)
 

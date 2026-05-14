@@ -27,7 +27,7 @@ Media sections are a type of UI section that you can add to an applet launcher. 
 
 <table id="table_ojp_z2s_c3b"><tbody><tr><td>
 
-![Media section for Welcome to ServiceNow Before Joining](../image/mobile-onboarding-media-section-1.png)
+![Media section for Welcome to ServiceNow Before Joining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-section-1.png)
 
 </td><td>
 
@@ -39,11 +39,11 @@ New Hire OrientationDisplays beginning one day before the new hire's start state
 
 </td><td>
 
-![Media section for New Hire Orientation](../image/mobile-onboarding-media-section-2.png)
+![Media section for New Hire Orientation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-section-2.png)
 
 </td></tr><tr><td>
 
-![Media section for Welcome to ServiceNow After joining](../image/mobile-onboarding-media-section-3.png)
+![Media section for Welcome to ServiceNow After joining](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-section-3.png)
 
 </td><td>
 
@@ -55,11 +55,11 @@ Case CompleteDisplays on the upper half of the Welcome screen after the onboardi
 
 </td><td>
 
-![Media section for Case Complete](../image/mobile-onboarding-media-section-4.png)
+![Media section for Case Complete](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-section-4.png)
 
 </td></tr><tr><td>
 
-![Media section for Download the employee app](../image/mobile-onboarding-media-section-5.png)
+![Media section for Download the employee app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-section-5.png)
 
 </td><td>
 
@@ -72,11 +72,11 @@ Download the employee appDisplays on the lower half of the Welcome screen after 
 
 2.  Open the **Onboarding Homepage** record.
 
-    ![Open the record for the Mobile Onboarding app.](../image/mobile-onboarding-homepage-record.png)
+    ![Open the record for the Mobile Onboarding app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-homepage-record.png)
 
 3.  In the Body related list, open a media section record.
 
-    ![Configure the media sections for the Mobile Onboarding app.](../image/mobile-onboarding-media-sections.png)
+    ![Configure the media sections for the Mobile Onboarding app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../image/mobile-onboarding-media-sections.png)
 
 4.  Configure the media section.
 
@@ -92,5 +92,5 @@ Download the employee appDisplays on the lower half of the Welcome screen after 
 5.  Click **Update**.
 
 
-**Parent Topic:**[Administer Now Mobile](../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
+**Parent Topic:**[Administer Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/../concept/administer-mobile-employee-onboarding-for-hr-service-delivery.md)
 

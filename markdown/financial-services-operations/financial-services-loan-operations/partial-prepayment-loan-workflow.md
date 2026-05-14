@@ -23,7 +23,7 @@ A partial prepayment is directly applied to the outstanding principal component 
 
 The following diagram shows how the application helps bank agents resolve a Partial Prepayment service request.
 
-![Workflow that shows how a loan request for a partial prepayment is resolved using the Loan Operations application.](../image/partial-prepayment-workflow.png "Partial Prepayment loan workflow")
+![Workflow that shows how a loan request for a partial prepayment is resolved using the Loan Operations application.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/../image/partial-prepayment-workflow.png "Partial Prepayment loan workflow")
 
 The following workflow routes the case and tasks for a Partial Prepayment service request to agents in different departments. The agents log in to the Workspace to work on the tasks in their queue.
 

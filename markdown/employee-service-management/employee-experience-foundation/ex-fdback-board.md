@@ -35,7 +35,7 @@ You can see the following trends on the dashboard.
 
 ## Feedback Analytics Overview
 
-![Overview tab in the Feedback Analytics dashboard displays overview of feedback received.](../images/overview_feedback_dashboard.png "Feedback analytics - Overview")
+![Overview tab in the Feedback Analytics dashboard displays overview of feedback received.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/overview_feedback_dashboard.png "Feedback analytics - Overview")
 
 **Average rating \(last 6 months\):** Shows the average rating gathered in the last six months.
 
@@ -53,7 +53,7 @@ You can see the following trends on the dashboard.
 
 ## Experience feedback
 
-![Feedback experience tab in Feedback Analytics dashboard displays several types of data cluster for experience feedback type.](../images/ex_feedback_dashboard.png "Experience feedback")
+![Feedback experience tab in Feedback Analytics dashboard displays several types of data cluster for experience feedback type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ex_feedback_dashboard.png "Experience feedback")
 
 **Average rating**: The average of the ratings received for Experience feedback.
 
@@ -69,7 +69,7 @@ You can see the following trends on the dashboard.
 
 ## Service feedback
 
-![Service feedback tab in Feedback Analytics dashboard displays several types of data clusters for service feedback type.](../images/ex_service_dashboard.png "Service feedback")
+![Service feedback tab in Feedback Analytics dashboard displays several types of data clusters for service feedback type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/ex_service_dashboard.png "Service feedback")
 
 **Average rating**: Average of the ratings received for Service feedback.
 
@@ -83,7 +83,7 @@ You can see the following trends on the dashboard.
 
 ## Tasks
 
-![Tasks tab in the Feedback Analytics dashboard displays overview of feedback tasks data.](../images/tasks_dashboard.png "Tasks")
+![Tasks tab in the Feedback Analytics dashboard displays overview of feedback tasks data.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/tasks_dashboard.png "Tasks")
 
 **Feedback tasks**: Number of tasks displayed by their respective states.
 

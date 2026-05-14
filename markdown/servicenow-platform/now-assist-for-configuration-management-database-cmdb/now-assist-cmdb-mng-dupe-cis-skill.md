@@ -43,7 +43,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-![Start the manage duplicate CIs skill.](../../now-assist-cmdb/image/na-cmdb-select-mng-dupe-cis.png)
+![Start the manage duplicate CIs skill.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../now-assist-cmdb/image/na-cmdb-select-mng-dupe-cis.png)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Review root causes for duplication: The analysis surveys IRE identification rule
 
 </td></tr><tr><td>
 
-![Start the preview template process.](../../now-assist-cmdb/image/na-cmdb-start-prevw-tmplt-results.png)
+![Start the preview template process.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../now-assist-cmdb/image/na-cmdb-start-prevw-tmplt-results.png)
 
 </td><td>
 
@@ -61,7 +61,7 @@ Decide which de-duplication template to apply: Select **Review existing template
 
 </td></tr><tr><td>
 
-![Now Assist generates a preview of the results of applying a template.](../../now-assist-cmdb/image/na-cmdb-prevw-tmplt-results.png)
+![Now Assist generates a preview of the results of applying a template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../now-assist-cmdb/image/na-cmdb-prevw-tmplt-results.png)
 
 </td><td>
 
@@ -108,21 +108,21 @@ If you think that data might have changed after you viewed the response, select 
 
 -   For more information, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
--   To start over, select **Reset conversation** in the More menu \(![More menu icon](../../../administer/dynamic-translation/image/Ellipses.png)\).
+-   To start over, select **Reset conversation** in the More menu \(![More menu icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../../../administer/dynamic-translation/image/Ellipses.png)\).
 
     **Warning:** If you reset the conversation, all existing messages are deleted and an entirely new conversation starts. To learn more about using the Now Assist panel, see [Working in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
--   [See how IRE detects duplicate CIs and generates de-duplication tasks](../concept/id-detect-dup-ci.md).
--   [See how to manage and remediate the de-duplication tasks by using de-duplication templates](../concept/de-duplication-tasks.md).
+-   [See how IRE detects duplicate CIs and generates de-duplication tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/id-detect-dup-ci.md).
+-   [See how to manage and remediate the de-duplication tasks by using de-duplication templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/de-duplication-tasks.md).
 
 **Related topics**  
 
 
 [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
 
-[Duplicate CIs remediation](../concept/de-duplication-tasks.md)
+[Duplicate CIs remediation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/de-duplication-tasks.md)
 
-[Detecting duplicate CIs](../concept/id-detect-dup-ci.md)
+[Detecting duplicate CIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/id-detect-dup-ci.md)
 
-[View CMDB Health Dashboard](../concept/c_MonitorCMDBHealth.md)
+[View CMDB Health Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/../concept/c_MonitorCMDBHealth.md)
 

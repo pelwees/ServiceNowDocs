@@ -35,7 +35,7 @@ Role required: manager
 
 6.  Select **View all received feedback** to navigate to the feedback summary details page.
 
-    ![View all received feedback](../image/view-feedback-option.png)
+    ![View all received feedback](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/../image/view-feedback-option.png)
 
     Navigate through the Feedback page for insights gathered for the selected employee from the following options:
 

@@ -27,7 +27,7 @@ Role required: map editor, map admin, map editor limited
 
 2.  Create a Campus, add few buildings and floors to a campus or select an existing campus.
 
-    For more information, see [Create a campus with buildings and floors](create-a-campus-building-and-floor.md)
+    For more information, see [Create a campus with buildings and floors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/create-a-campus-building-and-floor.md)
 
 3.  Navigate to **Manage workplace** &gt; **Floors and Floor plans**.
 
@@ -59,7 +59,7 @@ Role required: map editor, map admin, map editor limited
 
 10. The AutoCAD source page displays the following options:
 
-    ![Autocad v1 configuration page.](../images/wsd-old-cad-preview-page.png)
+    ![Autocad v1 configuration page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/wsd-old-cad-preview-page.png)
 
     -   Georeference: Option to edit position and adust the location pins for a location.
     -   Layers: Option to configure layer types that you want to display on the global map.
@@ -136,7 +136,7 @@ Role required: map editor, map admin, map editor limited
     -   **Upload new file** to upload a new floor plan.
     -   **Download file** to download the CAD file.
     -   **Make a map full width** to view the CAD file in full mode.
-25. Select the More actions menu icon \(![More actions menu icon.](../../legal-request-management/image/more-actions-icon.png)\):
+25. Select the More actions menu icon \(![More actions menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../../legal-request-management/image/more-actions-icon.png)\):
 
     -   Edit name: Option to edit the CAD source name. Select **Save** after you update the name.
     -   Edit floor: Option to edit source floor. Select **Save** after updating the floor name.
@@ -147,9 +147,9 @@ Role required: map editor, map admin, map editor limited
     The CAD file is loaded into the Map Studio and the configuration for layers, layer types, and places is created. The application automatically applies the same configurations to subsequent floors that are imported. This is helpful in speeding up configurations of buildings that have multiple floors and where all the CAD files have similar layers. If the CAD layers within the subsequent files have the same layer names as the layers within the initial file, then layers, layer types, and places is pre-filled with the same values as those in the initial file.
 
 
-**Parent Topic:**[Autocad tool](../concept/autocad-processor-v1.md)
+**Parent Topic:**[Autocad tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/autocad-processor-v1.md)
 
-**Previous topic:**[Autocad tool](../concept/autocad-processor-v1.md)
+**Previous topic:**[Autocad tool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/autocad-processor-v1.md)
 
-**Next topic:**[Indoor Mapping references](../concept/indoor-mapping-references.md)
+**Next topic:**[Indoor Mapping references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/indoor-mapping-references.md)
 

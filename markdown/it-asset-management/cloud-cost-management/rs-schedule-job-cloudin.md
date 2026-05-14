@@ -115,7 +115,7 @@ The Rightsizing job is created and will run at the scheduled time.
 -   If a member of the change group approves the request, the state is set to **Approved** and the resource is added to the list of resources that the job will resize.
 -   If a member of the change group rejects the request, the resource state is set to **Declined**, the resource remains listed on reports, and no action is taken.
 
-**Parent Topic:**[Resize resources with Rightsizing](../concept/resize-res-ci.md)
+**Parent Topic:**[Resize resources with Rightsizing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../concept/resize-res-ci.md)
 
 **Related topics**  
 
@@ -126,5 +126,5 @@ The Rightsizing job is created and will run at the scheduled time.
 
 [bundle-itsm.create-a-change-request-template]
 
-[Exclude a resource from all Cloud Cost Management reports](exclusion-list-add-to-cloudin.md)
+[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 

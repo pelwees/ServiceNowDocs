@@ -17,9 +17,9 @@ View the current information about open incidents as a list, or as a heatmap or 
 
 **Important:**
 
-Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [Incident management dashboard](performance-analytics/incident.md) to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
+Starting in Xanadu release, the Open Incidents Reports dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/performance-analytics/incident.md) to view the current information about open incidents as a list, or as a heatmap or pivot table organized by breakdown.
 
-![Animated gif taking you through the tabs of the Incident Premium - Open Incidents Reports dashboard](../image/incident-premium-open-incidents-reports-dashboard.gif "Tabs of the Open Incidents Reports dashboard")
+![Animated gif taking you through the tabs of the Incident Premium - Open Incidents Reports dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/incident-premium-open-incidents-reports-dashboard.gif "Tabs of the Open Incidents Reports dashboard")
 
 ## End user and roles
 
@@ -56,7 +56,7 @@ Open Incidents List
 
 </td><td>
 
-List ![list report icon](../../../reuse/reporting/image/score-list-tile.svg)
+List ![list report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/reporting/image/score-list-tile.svg)
 
 </td><td>
 
@@ -68,7 +68,7 @@ Open Incidents Pivot
 
 </td><td>
 
-Pivot ![pivot table report icon](../../../reuse/reporting/image/pivot.svg)
+Pivot ![pivot table report icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../../reuse/reporting/image/pivot.svg)
 
 </td><td>
 
@@ -80,12 +80,12 @@ Open Incidents Heatmap
 
 </td><td>
 
-Heatmap ![Heatmap icon](../../performance-analytics/image/heatmap.png)
+Heatmap ![Heatmap icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../../performance-analytics/image/heatmap.png)
 
 </td><td>
 
 Heatmap that lets you explore the number of open incidents by combinations of state, assignment group, category, priority, and age.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](incident-content-pack.md)
+</table>**Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 

@@ -31,7 +31,7 @@ You can have one approver or multiple approvers. For example, set multiple appro
 
 1.  Navigate to the document record.
 
-2.  Select the additional actions icon ![Additional Actions icon](../../document-services/image/additional-actions-icon.png) and select **Add Approver**.
+2.  Select the additional actions icon ![Additional Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/../../document-services/image/additional-actions-icon.png) and select **Add Approver**.
 
 3.  Add a user name.
 
@@ -44,5 +44,5 @@ You can have one approver or multiple approvers. For example, set multiple appro
 6.  Repeat steps 2-5 to add more approvers.
 
 
-**Parent Topic:**[Create or request a new document](t_CreateOrRequestANewDocument.md)
+**Parent Topic:**[Create or request a new document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_CreateOrRequestANewDocument.md)
 

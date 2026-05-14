@@ -24,7 +24,7 @@ In this example, a software asset manager is managing the following Microsoft SQ
 
 The following infrastructure is a VMware cluster that consists of three physical hosts. Each physical host contains virtual machines \(VMs\) that are running various versions and editions of Microsoft SQL Server. These VMs may potentially be moving across all physical hosts within the cluster.
 
-![Microsoft SQL Server cluster infrastructure](../image/mmasset0021885-microsoft-sql-server-cluster-example.svg)
+![Microsoft SQL Server cluster infrastructure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/mmasset0021885-microsoft-sql-server-cluster-example.svg)
 
 Based on the available entitlements and the cluster infrastructure, the software asset manager can license the cluster using one of the following options:
 
@@ -158,5 +158,5 @@ Virtual layer
 </td></tr></tbody>
 </table>The software asset manager determines that option number 3 is the most cost-effective licensing solution for the cluster. By using this licensing option, the software asset manager can achieve a total cost savings of approximately $103,600.
 
-**Parent Topic:**[Cost-based licensing optimization for Microsoft](../concept/cost-based-microsoft-cluster-licensing.md)
+**Parent Topic:**[Cost-based licensing optimization for Microsoft](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../concept/cost-based-microsoft-cluster-licensing.md)
 

@@ -56,21 +56,21 @@ To build efficient, scalable digital experiences, it’s important to reuse elem
 
 You can access the component builder in UI Builder by selecting **Create** in the header or the **Component** tile on the UI Builder home page.
 
-![UI Builder homepage with arrows pointing the component create buttons.](../image/component-builder-create-buttons.png "UI Builder home page")
+![UI Builder homepage with arrows pointing the component create buttons.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/component-builder-create-buttons.png "UI Builder home page")
 
-![Component builder homepage.](../image/component-builder-home.png "Component Builder UI")
+![Component builder homepage.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/component-builder-home.png "Component Builder UI")
 
 Components built with UI Builder can be found in the toolbox when adding a component to a page and in the component list on the home page of UI Builder. You can update or modify custom components by locating it in the components list on the home page of UI Builder.
 
-![Editing test values for input properties](../image/cb-test-values.png "Test Values in Component Builder")
+![Editing test values for input properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-test-values.png "Test Values in Component Builder")
 
-Use test values in component builder to supply simulated values for required and optional URL parameters when building a custom component. Test values help validate how a component will act when added to a page by ensuring bindings and data resources are functioning correctly. For more information about test values see, [Test values in a page](test-value.md).
+Use test values in component builder to supply simulated values for required and optional URL parameters when building a custom component. Test values help validate how a component will act when added to a page by ensuring bindings and data resources are functioning correctly. For more information about test values see, [Test values in a page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/test-value.md).
 
-![UI Builder homepage displaying the components tab.](../image/components-list-home.png "Component List")
+![UI Builder homepage displaying the components tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/components-list-home.png "Component List")
 
 You can quickly duplicate a custom component from the component settings screen by selecting **Duplicate**, which creates an exact copy of the component for reuse or modification.
 
-![Component settings screen with an arrow displaying the Duplicate option.](../image/custom-component-duplicate.png "Custom Component Settings")
+![Component settings screen with an arrow displaying the Duplicate option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/custom-component-duplicate.png "Custom Component Settings")
 
 ## Component Builder vs NOW CLI Component Development
 
@@ -97,7 +97,7 @@ The UI Builder custom component builder lacks governance capabilities and can le
 
 All components are designed to be upgrade safe, as long as their security policy is set to `read_only`. This provides greater upgrade protection for larger components or page partials compared to other deployable units like bundles and page templates. However, this also means that out-of-the-box \(OOTB\) components may not be editable.
 
-**Parent Topic:**[Component Builder](component-builder-uib.md)
+**Parent Topic:**[Component Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/component-builder-uib.md)
 
 ## Create components to reuse across pages
 
@@ -117,13 +117,13 @@ In this Component Builder example, we will create a stopwatch component to track
 
 2.  Select **Create** from the UI Builder home page.
 
-    ![UI Builder home page with the Create component button.](../image/create-component-button.png)
+    ![UI Builder home page with the Create component button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-component-button.png)
 
 3.  Select **Component**.
 
 4.  In the form, fill in the fields.
 
-    ![Create a component form.](../image/create-component-form.png "Create a component dialog box")
+    ![Create a component form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-component-form.png "Create a component dialog box")
 
     |Field|Description|
     |-----|-----------|
@@ -136,11 +136,11 @@ In this Component Builder example, we will create a stopwatch component to track
 
     The page opens in Component Builder view.
 
-    ![Custom component building UI showing the content and configuration side bars.](../image/create-component-editor.png)
+    ![Custom component building UI showing the content and configuration side bars.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/create-component-editor.png)
 
 6.  Add a custom component property by selecting **+ Add property** in the **Properties and policy** section.
 
-    ![Select Add property to add content](../image/cb-add-property.png)
+    ![Select Add property to add content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-property.png)
 
     1.  Select **String** from the list.
 
@@ -152,7 +152,7 @@ In this Component Builder example, we will create a stopwatch component to track
         |Property ID|`svgImageSource`|
         |Default value|`animateddino.svg`|
 
-        ![Custom component building UI with arrows pointing to the Property label, Property ID, and SVG Image Source fields in the configuration panel.](../image/cb-component-properties.png)
+        ![Custom component building UI with arrows pointing to the Property label, Property ID, and SVG Image Source fields in the configuration panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-component-properties.png)
 
     3.  Select **Save**.
 
@@ -172,7 +172,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     7.  Select **Save**.
 
-        ![Add content to a container](../image/cb-component-layout.png)
+        ![Add content to a container](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-component-layout.png)
 
 8.  Add a stylized text component in our Flexbox container by selecting **+ Add content** under **Container 1**.
 
@@ -182,7 +182,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     3.  Select **Save**.
 
-        ![Add stylized text to a container](../image/cb-stylized-text-component.png)
+        ![Add stylized text to a container](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-stylized-text-component.png)
 
 9.  To configure the stylized text component we will add some client state parameters.
 
@@ -200,7 +200,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     3.  Select **Apply**.
 
-        ![List of client state parameters added to the custom component.](../image/cb-client-state-parameters.png)
+        ![List of client state parameters added to the custom component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-client-state-parameters.png)
 
     4.  Select **Save**.
 
@@ -210,13 +210,13 @@ In this Component Builder example, we will create a stopwatch component to track
 
     2.  Select the bind icon when pointing to the **Text** field of the stylized text component.
 
-        ![Bind stylized text in component](../image/cb-text-bind-icon.png)
+        ![Bind stylized text in component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-text-bind-icon.png)
 
     3.  Select **Client states**.
 
     4.  Double-click the **elapsedTime** pill.
 
-        ![Bind the elapsed time parameter to text](../image/cb-elapsedtime-pill.png)
+        ![Bind the elapsed time parameter to text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-elapsedtime-pill.png)
 
     5.  Select **Apply**.
 
@@ -226,7 +226,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     1.  Select the **+** icon under the stylized text component.
 
-        ![Select the plus sign under the text component](../image/cb-add-component-icon.png)
+        ![Select the plus sign under the text component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-component-icon.png)
 
     2.  Select **Layouts**.
 
@@ -264,7 +264,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     9.  Select **Save**.
 
-        ![Custom component building UI with arrows pointing to the component label, and Icon, Variant, Size, and Tooltip text fields in the configuration panel.](../image/cb-add-renderer.png)
+        ![Custom component building UI with arrows pointing to the component label, and Icon, Variant, Size, and Tooltip text fields in the configuration panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-renderer.png)
 
 13. Configure the stop button to display while the stopwatch is running.
 
@@ -279,7 +279,7 @@ In this Component Builder example, we will create a stopwatch component to track
         -   Render content: **When condition below is true**
     4.  Select the bind icon while pointing at the **Condition** field.
 
-        ![Edit settings modal where you select to bind](../image/cb-condition-bind-icon.png)
+        ![Edit settings modal where you select to bind](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-condition-bind-icon.png)
 
     5.  Select **Client states**, then double-click the **stopwatchRunning** pill.
 
@@ -306,7 +306,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     12. Select **Save**.
 
-        ![Custom component building UI with arrows pointing to the component label, and Icon, Variant, Size, and Tooltip text fields in the configuration panel.](../image/cb-add-renderer2.png)
+        ![Custom component building UI with arrows pointing to the component label, and Icon, Variant, Size, and Tooltip text fields in the configuration panel.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-renderer2.png)
 
 14. Reorder the conditions so that **Running** appears above **Start**.
 
@@ -314,7 +314,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     2.  In the configuration panel, select and drag the drag handle icon ![](../image/drag-handle.png) to move the conditions into position.
 
-        ![Conditional renderer component in the configuration panel with the "Running" condition placed near the "Start" condition.](../image/cb-reorder-conditions.png)
+        ![Conditional renderer component in the configuration panel with the "Running" condition placed near the "Start" condition.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-reorder-conditions.png)
 
         Conditions are evaluated in order from top to bottom, so **Running** must appear above **Start** for the buttons to display correctly.
 
@@ -408,7 +408,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     3.  Select **Apply**.
 
-        ![Edit client script modal overlaying the UI Builder editor.](../image/cb-add-client-script.png)
+        ![Edit client script modal overlaying the UI Builder editor.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-client-script.png)
 
     4.  Select **+** next to **Client scripts** to add a second script.
 
@@ -448,7 +448,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
     2.  Select **Add handler** under **Button iconic clicked**, then select the **Start** client script we created in the previous steps.
 
-        ![Add event handler modal with an arrow pointing to a client script labeled "Start."](../image/cb-add-event.png)
+        ![Add event handler modal with an arrow pointing to a client script labeled "Start."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-add-event.png)
 
     3.  Select **Continue**, then select **Add**.
 
@@ -462,7 +462,7 @@ In this Component Builder example, we will create a stopwatch component to track
 
 17. Select **Preview** to test the configured components.
 
-    ![UI Builder preview of page with running stopwatch component.](../image/cb-preview.png)
+    ![UI Builder preview of page with running stopwatch component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/ui-builder/../image/cb-preview.png)
 
 
 ### Result

@@ -23,7 +23,7 @@ View the order of the My Requests - Requested item predicate EVAM view config.
 
 ## About this task
 
-The records related to a requester are displayed when an agent views the requester information in an interaction. For information about agent actions on an interaction, see [Work on an interaction in Service Operations Workspace](work-on-interaction-sow.md).
+The records related to a requester are displayed when an agent views the requester information in an interaction. For information about agent actions on an interaction, see [Work on an interaction in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-interaction-sow.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ The records related to a requester are displayed when an agent views the request
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](../concept/configure-interaction-management-sow.md)
+**Parent Topic:**[Configuring Interaction Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configure-interaction-management-sow.md)
 

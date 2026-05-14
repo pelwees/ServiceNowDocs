@@ -17,7 +17,7 @@ The AIOps Value Realization dashboard uses Performance Analytics to offer compre
 
 The AIOps Value Realization dashboard includes a calendar feature that enables users to select various date ranges such as custom dates, the last 3 months, the last 30 days, the last 6 months, the last 7 days, the last year, today, and year-to-date \(YTD\). You can specify a custom start and end date and apply these selections to view reports specifically for the chosen date range. This feature facilitates tailored analysis and reporting based on specific time periods of interest.
 
-![AIOps Value Realization dashboard date range selection](../image/aiops-value-realization-dashboard-calendar.png "AIOps Value Realization dashboard date range selection")
+![AIOps Value Realization dashboard date range selection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/aiops-value-realization-dashboard-calendar.png "AIOps Value Realization dashboard date range selection")
 
 The AIOps Value Realization dashboard offers key insights and metrics crucial for operational efficiency and business impact assessment. It includes features such as noise reduction to enhance focus on critical issues by reducing event-to-alert conversions. Tracking average MTTR for incidents and measuring downtime on critical services aids in improving operational efficiency and prioritizing resolutions. Categorized into Operational Excellence and Business Impact sections, the dashboard provides detailed coverage on alerts grouping, swift resolution of critical incidents reported by users, and quantifying service impacts by severity to optimize operational stability.
 
@@ -27,7 +27,7 @@ Run the \[PA EM\] Historic Data Collection job once to enable the partial collec
 2.  Select \[PA EM\] Historic Data Collection.
 3.  Select **Execute Now**.
 
-![Value realization dashboard.](../image/aiops-value-realization-dashboard.png "AIOps Value Realization dashboard key features overview")
+![Value realization dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/aiops-value-realization-dashboard.png "AIOps Value Realization dashboard key features overview")
 
 ## Prerequisites
 
@@ -40,7 +40,7 @@ Ensure that the Event Management application is installed.
 
 ## Access the AIOps Value Realization dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](../../health-log-analytics-admin/image/icon-itom-aiops-config.png).The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Value Realization dashboard**.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon ![ITOM AIOps configuration center icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../../health-log-analytics-admin/image/icon-itom-aiops-config.png).The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Value Realization dashboard**.
 
 ## Use cases
 

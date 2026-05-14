@@ -17,9 +17,9 @@ Create a legal request from a universal request to get the Legal department's as
 
 ## Before you begin
 
-Ensure you have the Universal Request application installed and [related configuration for legal services](configure-universal-request-legal.md) completed by the administrator.
+Ensure you have the Universal Request application installed and [related configuration for legal services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-universal-request-legal.md) completed by the administrator.
 
-An employee has [submitted a universal request](../../universal-request/task/ur-create-universal-request-record.md) and the universal ticket is assigned to you.
+An employee has [submitted a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../universal-request/task/ur-create-universal-request-record.md) and the universal ticket is assigned to you.
 
 **Important:** The routing agent with the required roles must also be a member of the Legal Routing Group assignment group.
 
@@ -27,7 +27,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_uni\_req.universal\_request\_writ
 
 ## About this task
 
-A routing agent can also create a legal request from a universal request through the Agent mobile app. For creating legal ticket for a complaint, see [Create an ethics legal matter from a universal request](../../legal-investigations/task/create-legal-ticket-universal-request.md).
+A routing agent can also create a legal request from a universal request through the Agent mobile app. For creating legal ticket for a complaint, see [Create an ethics legal matter from a universal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../../legal-investigations/task/create-legal-ticket-universal-request.md).
 
 ## Procedure
 
@@ -54,9 +54,9 @@ A routing agent can also create a legal request from a universal request through
 
 ## What to do next
 
-In the Legal department, the legal request is assigned a legal fulfiller. The assigned legal fulfiller [works on the legal request](work-on-legal-request.md) and provides the resolution, or transfers the legal request to another department or back to the Universal Request.
+In the Legal department, the legal request is assigned a legal fulfiller. The assigned legal fulfiller [works on the legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/work-on-legal-request.md) and provides the resolution, or transfers the legal request to another department or back to the Universal Request.
 
 To transfer the general legal request back to the Universal Request with external storage enabled, activate the **Name UR Transfer Post Processor** script action to sync the attachments. The script action is available in **All** &gt; **Event** &gt; **Script Actions**.
 
-**Parent Topic:**[Universal Request for Legal Service Delivery](../concept/universal-requests-legal.md)
+**Parent Topic:**[Universal Request for Legal Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/../concept/universal-requests-legal.md)
 

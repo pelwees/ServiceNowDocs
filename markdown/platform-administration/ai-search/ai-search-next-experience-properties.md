@@ -41,5 +41,5 @@ glide.ui.ais.show\_all\_facets
 -   Location: System Property \[sys\_properties\] table \(record not present by default\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Search for Next Experience reference](reference-ais-next-experience-app.md)
+</table>**Parent Topic:**[AI Search for Next Experience reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais-next-experience-app.md)
 

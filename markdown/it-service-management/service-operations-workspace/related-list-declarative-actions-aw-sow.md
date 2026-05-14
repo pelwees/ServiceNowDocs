@@ -42,41 +42,41 @@ The SOW migration utility uses the following to migrate the related list declara
 -   Client Action
 -   UI Component
 
--   **[Migrate the client script from ITSM Agent Workspace to Service Operations Workspace](../task/migrate-related-list-client-script-aw-sow.md)**  
+-   **[Migrate the client script from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/migrate-related-list-client-script-aw-sow.md)**  
 Configure the client script to migrate the related list declarative actions from ITSM Agent Workspace to Service Operations Workspace.
--   **[Migrate the server script from ITSM Agent Workspace to Service Operations Workspace](../task/migrate-related-list-server-script-aw-sow.md)**  
+-   **[Migrate the server script from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/migrate-related-list-server-script-aw-sow.md)**  
 Configure the server script to migrate related list declarative actions from ITSM Agent Workspace to Service Operations Workspace.
--   **[Migrate the client action from ITSM Agent Workspace to Service Operations Workspace](../task/migrate-related-list-client-action-aw-sow.md)**  
+-   **[Migrate the client action from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/migrate-related-list-client-action-aw-sow.md)**  
 Configure the client actions to migrate related list declarative actions from ITSM Agent Workspace to Service Operations Workspace.
--   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](../task/migrate-related-list-ui-component-aw-sow.md)**  
+-   **[Migrate the UI component from ITSM Agent Workspace to Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/migrate-related-list-ui-component-aw-sow.md)**  
 Configure the UI component to migrate related list declarative actions from ITSM Agent Workspace to Service Operations Workspace.
--   **[Perform post-migration tasks for related list declarative form actions](../task/verify-migration-status-related-actions-aw-sow.md)**  
+-   **[Perform post-migration tasks for related list declarative form actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../task/verify-migration-status-related-actions-aw-sow.md)**  
 Verify that the related list declarative form actions in Service Operations Workspace \(SOW\) are consistent with the related list declarative form actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the migrated related list declarative form actions settings in SOW based on your requirements.
 
-**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
+**Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
 **Related topics**  
 
 
-[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](ui-actions-layouts-migration-itsm-aw-sow.md)
+[Migration of UI actions and layouts from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ui-actions-layouts-migration-itsm-aw-sow.md)
 
-[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](ribbons-migration-itsm-aw-sow.md)
+[Ribbons migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/ribbons-migration-itsm-aw-sow.md)
 
-[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](view-rules-migration-itsm-aw-sow.md)
+[Migration of view rules from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-rules-migration-itsm-aw-sow.md)
 
-[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](new-record-menu-items-migration-itsm-aw-sow.md)
+[New record menu items migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/new-record-menu-items-migration-itsm-aw-sow.md)
 
-[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](highlighted-fields-lists-forms-migration-itsm-aw-sow.md)
+[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/highlighted-fields-lists-forms-migration-itsm-aw-sow.md)
 
-[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-actions-migration-itsm-aw-sow.md)
+[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-actions-migration-itsm-aw-sow.md)
 
-[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](list-categories-modules-migration-itsm-aw-sow.md)
+[List categories and modules migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-categories-modules-migration-itsm-aw-sow.md)
 
-[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](form-headers-migration-itsm-aw-sow.md)
+[Migration of form headers from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/form-headers-migration-itsm-aw-sow.md)
 
-[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](search-config-migration-itsm-aw-sow.md)
+[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/search-config-migration-itsm-aw-sow.md)
 
-[Migration of Agent assist from ITSM Agent Workspace to Service Operations Workspace for ITSM](agent-assist-migration-itsm-aw-sow.md)
+[Migration of Agent assist from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/agent-assist-migration-itsm-aw-sow.md)
 
-[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](field-declarative-actions-aw-sow.md)
+[Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/field-declarative-actions-aw-sow.md)
 

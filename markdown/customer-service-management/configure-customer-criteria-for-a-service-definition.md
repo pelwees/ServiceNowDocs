@@ -41,7 +41,7 @@ You can associate several criteria, or conditions, with a single service definit
 
     You can also create a customer criteria record by selecting **New** on the Entity Criteria pop-up window and filling in the fields on the Entity Criteria form.
 
-    For more information, see [Create entity criteria](create-new-entity-criteria.md).
+    For more information, see [Create entity criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-new-entity-criteria.md).
 
 5.  Enable the **Active** check box.
 

@@ -35,7 +35,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 3.  Review the field mapping of the alert values on the security incident.
 
-    ![Microsoft Graph Security API: preview profile](../image/ms-graph-create-profile-5.png)
+    ![Microsoft Graph Security API: preview profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/ms-graph-create-profile-5.png)
 
     The preceding image is an example of a preview with a mapping error of the samples that were ingested.
 

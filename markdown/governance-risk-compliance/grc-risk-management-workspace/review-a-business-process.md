@@ -46,5 +46,5 @@ Role required: business\_process\_manager
     |**Delete**|Delete the business process.|
 
 
-**Parent Topic:**[Create a business process](create-a-business-process.md)
+**Parent Topic:**[Create a business process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-a-business-process.md)
 

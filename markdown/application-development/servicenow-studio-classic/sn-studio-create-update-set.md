@@ -31,7 +31,7 @@ Video on how to create an update set in ServiceNow Studio
 
 3.  At the bottom-left corner of the canvas, expand the update set dialog by selecting the current update set from the status bar.
 
-    ![Select the current update set from the status bar to open the update set dialog.](../image/sn-studio-scope-update-set-zs1.png)
+    ![Select the current update set from the status bar to open the update set dialog.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../image/sn-studio-scope-update-set-zs1.png)
 
 4.  Select **New**.
 
@@ -44,5 +44,5 @@ Video on how to create an update set in ServiceNow Studio
     The changes you made in your app go to the new update set.
 
 
-**Parent Topic:**[Working with update sets in ServiceNow Studio](../concept/working-with-update-sets-in-servicenow-studio.md)
+**Parent Topic:**[Working with update sets in ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/../concept/working-with-update-sets-in-servicenow-studio.md)
 

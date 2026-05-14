@@ -52,5 +52,5 @@ Can do everything that model managers can do and can administer model categories
 model\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Product Catalog](r_InstalledWithProductCatalog.md)
+</table>**Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 

@@ -3804,10 +3804,10 @@ This command is used only if you need to discover jobs.
 |`tibemsadmin`|**-server tcp://+\[computer\_system.primaryManagementIP\]:\[port\] -user \[username\] -password \[password\] -script \[script\]**|Connects to the EMS administrator and gets the list of EMS Queue consumers.|
 |`echo`|Various options|\(On Windows only\) Prints strings in the output.|
 
-**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](prerequisites-service-mapping.md)
+**Parent Topic:**[Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
 **Related topics**  
 
 
-[Service Mapping commands requiring a privileged user](r_CommandsnCredentials.md)
+[Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md)
 

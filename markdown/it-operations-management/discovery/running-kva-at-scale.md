@@ -17,5 +17,5 @@ When you run Kubernetes Visibility Agent \(KVA\) \(formerly CNO for Visibility\)
 
 For KVA at scale settings, see the [Running Kubernetes Visibility Agent \(CNO for Visibility\) at scale \[KB1781212\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1781212) article in the Now Support knowledge base.
 
-**Parent Topic:**[Kubernetes Visibility Agent support matrix](cnov-support-matrix.md)
+**Parent Topic:**[Kubernetes Visibility Agent support matrix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-support-matrix.md)
 

@@ -79,5 +79,5 @@ The ServiceNow ODBC driver supports installation on the following operating syst
 -   Windows 11
 
 </td></tr></tbody>
-</table>**Parent Topic:**[SQL API reference information](troubleshooting.md)
+</table>**Parent Topic:**[SQL API reference information](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/troubleshooting.md)
 

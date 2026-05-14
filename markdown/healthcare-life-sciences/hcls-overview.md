@@ -14,15 +14,15 @@ Leverage your digital healthcare platform with the ServiceNow® Healthcare and L
 
 <table id="table_b4t_hhl_nnb" class="nav-card"><tbody><tr><td>
 
-[Healthcare and Life Sciences Service Management![](../../../reuse/icons/brand-icons/ind-healthcare.svg)Streamline patient workflows with playbooks and case management.](hcls-service-mgmt-overview.md)
+[Healthcare and Life Sciences Service Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/ind-healthcare.svg)Streamline patient workflows with playbooks and case management.](hcls-service-mgmt-overview.md)
 
 </td><td>
 
-[Clinical Device Management![](../../../reuse/icons/brand-icons/ind-maintenance-repair-operations.svg)Optimize the management and maintenance of medical devices.](clinical-device-mgmt-overview.md)
+[Clinical Device Management![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/ind-maintenance-repair-operations.svg)Optimize the management and maintenance of medical devices.](clinical-device-mgmt-overview.md)
 
 </td><td>
 
-[Healthcare Operations![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Enable care teams to focus on patient care.](healthcare-operations-overview.md)
+[Healthcare Operations![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Enable care teams to focus on patient care.](healthcare-operations-overview.md)
 
 </td></tr></tbody>
 </table>

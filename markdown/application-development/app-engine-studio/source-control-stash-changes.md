@@ -41,15 +41,15 @@ Stashing changes removes them from the current application and saves them for a 
 
     The system saves the current changes and displays a success message.
 
-    ![Stash change dialog](../image/source-control-stash-changes-purple.png)
+    ![Stash change dialog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/source-control-stash-changes-purple.png)
 
 
 ## What to do next
 
 -   Close dialog
--   [Manage stashes](source-control-manage-stashes.md)
+-   [Manage stashes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/source-control-manage-stashes.md)
 
 To learn more, see [Getting started with credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-getting-started.md)
 
-**Parent Topic:**[Stash changes](../concept/stash-changes.md)
+**Parent Topic:**[Stash changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/stash-changes.md)
 

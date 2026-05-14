@@ -84,5 +84,5 @@ Install Healthcare Operations Core by requesting it from the ServiceNow Store. V
     ServiceNow® Care Team Work Management streamlines task creation, assignment, and tracking with audit-ready documentation, reducing administrative burdens so care teams can focus on patient care while maintaining regulatory compliance.
 
 
-**Parent Topic:**[Healthcare and Life Sciences release notes](healthcare-life-sciences-rn-landing.md)
+**Parent Topic:**[Healthcare and Life Sciences release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/healthcare-life-sciences-rn-landing.md)
 

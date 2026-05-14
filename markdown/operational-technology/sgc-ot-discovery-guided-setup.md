@@ -15,7 +15,7 @@ Use the Guided Setup for the Service Graph Connector \(SGC\) for ServiceNow OT D
 
 ## Before you begin
 
-Review the [Service Graph Connector prerequisites and settings](../concept/sgc-prereq-settings.md) section before beginning.
+Review the [Service Graph Connector prerequisites and settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../concept/sgc-prereq-settings.md) section before beginning.
 
 Role required: admin
 
@@ -88,5 +88,5 @@ Role required: admin
 
 ## What to do next
 
-The next step in the Guided Setup is [Configure the OT Discovery connections &amp; credentials](configure-the-ot-discovery-connections-credentials.md).
+The next step in the Guided Setup is [Configure the OT Discovery connections &amp; credentials](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configure-the-ot-discovery-connections-credentials.md).
 

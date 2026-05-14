@@ -21,7 +21,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](../concept/roadmaps-in-portfolio-planning.md).
+Create a standalone roadmap to plan work across multiple units of your organization, such as projects of all departments. To learn more about free-form roadmaps, see [Roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/roadmaps-in-portfolio-planning.md).
 
 ## Procedure
 
@@ -29,7 +29,7 @@ Create a standalone roadmap to plan work across multiple units of your organizat
 
 2.  Select a roadmap that you want to create a copy from.
 
-3.  From the roadmap header, select the More actions icon \(![More actions icon in the free-form roadmap header.](../../alignment-planner-workspace/images/more-actions.png)\) and then select **Duplicate roadmap**.
+3.  From the roadmap header, select the More actions icon \(![More actions icon in the free-form roadmap header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/more-actions.png)\) and then select **Duplicate roadmap**.
 
 4.  On the Duplicate roadmap window, fill the details.
 
@@ -54,5 +54,5 @@ Create a standalone roadmap to plan work across multiple units of your organizat
 -   Update, personalize, and collaborate with your roadmap.
 -   Add milestones or create dependencies for the items planned on your roadmap.
 
-**Parent Topic:**[Planning roadmaps in Portfolio Planning](../concept/planning-roadmaps-in-portfolio-planning.md)
+**Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../concept/planning-roadmaps-in-portfolio-planning.md)
 

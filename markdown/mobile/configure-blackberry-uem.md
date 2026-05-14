@@ -23,19 +23,19 @@ Role required: admin
 
 2.  In the menu bar to the left, click **Apps**.
 
-    ![BlackBerry UEM menu bar](../image/BB-EUM-menu.png)
+    ![BlackBerry UEM menu bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-EUM-menu.png)
 
     You see a list of available apps tied to your BlackBerry UEM.
 
 3.  In the search bar above the list of apps, type `ServiceNow`.
 
-    ![BlackBerry UEM available apps list](../image/BB-UEM-2.png)
+    ![BlackBerry UEM available apps list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-UEM-2.png)
 
 4.  Click the app you want to register.
 
 5.  When the app opens, click on the blue text labeled **App Config With Default Values** to create the app configuration for this app.
 
-    ![BlackBerry UEM app settings screen](../image/BB-UEM-app-config.png)
+    ![BlackBerry UEM app settings screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-UEM-app-config.png)
 
 6.  In the app configuration form, fill in the fields as needed.
 
@@ -45,7 +45,7 @@ Role required: admin
     |iOS Authentication Browser|The browser your app will use for authentication on iOS devices.|
     |Android Authentication Browser|The browser your app will use for authentication on Android devices.|
 
-    ![BlackBerry UEM app configuration form with example values.](../image/BB-UEM-app-config-2.png)
+    ![BlackBerry UEM app configuration form with example values.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/BB-UEM-app-config-2.png)
 
 7.  Click **Save** to save the app configuration.
 
@@ -54,5 +54,5 @@ Role required: admin
     **Note:** If using the instructions above to setup the BlackBerry Access browser as your authentication browser, you must also have an app configuration setup for the BlackBerry Access app. This is necessary to successfully authenticate to ServiceNow integrated apps.
 
 
-**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](../concept/blackberry-uem.md)
+**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/blackberry-uem.md)
 

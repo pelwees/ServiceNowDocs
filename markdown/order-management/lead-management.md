@@ -25,9 +25,9 @@ The processes include:
 
 As sales agents move through the lead workflow and recognize interest from customers in buying products, it becomes essential to qualify or convert the lead. This process includes linking the lead to specific accounts and establishing lead qualification, which ultimately generates product orders.
 
-![Lead Management workflow that shows the lead entry to lead conversion.](../image/lead-management-som.svg "Lead workflow in Sales Customer Relationship Management")
+![Lead Management workflow that shows the lead entry to lead conversion.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/lead-management-som.svg "Lead workflow in Sales Customer Relationship Management")
 
 ## Related links
 
-To learn about setting up Lead Management, see [Install and configure Lead Management](configure-lead-management.md).
+To learn about setting up Lead Management, see [Install and configure Lead Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md).
 

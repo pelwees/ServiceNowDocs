@@ -15,7 +15,7 @@ The Deployments page shows the fifty most recently deployed blueprints together 
 
 In CPQ Admin's Utilities menu, the first visible page is the Deployments page.
 
-![Deployments page](../images/cpq-deployments-page.png)
+![Deployments page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-deployments-page.png)
 
 This page shows the fifty most recent blueprints by the date and time of the deployment, together with the user responsible.
 
@@ -23,12 +23,12 @@ Because the configuration’s behavior can change depending on the rules, fields
 
 Note that the Last Deployed column’s date and time will differ from the completion date and time as viewed from the notification bell. This is because the Last Deployed column shows the last time a blueprint was submitted for deployment, not when the deployment was completed. This is helpful in determining how long a deployment takes to complete, especially for large blueprints with hundreds or thousands of fields and rules.
 
-![Deployments notifications](../images/cpq-deployments-last.png)
+![Deployments notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-deployments-last.png)
 
 If your blueprints take longer than thirty minutes to complete, create a support ticket.
 
 **Related topics**  
 
 
-[Tracking a blueprint's deployment history](blueprints_deployment_history.md)
+[Tracking a blueprint's deployment history](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/blueprints_deployment_history.md)
 

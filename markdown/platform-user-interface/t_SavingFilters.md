@@ -21,13 +21,13 @@ Role required: varies depending on action. See procedure.
 
 ## Procedure
 
-1.  Navigate to a list and create or modify a filter as described in [Create a filter in List](t_CreatingFilters.md).
+1.  Navigate to a list and create or modify a filter as described in [Create a filter in List](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md).
 
 2.  Select **Save...**.
 
     Additional options for saving the filter display.
 
-    ![Save filter options](../image/save_filters.png)
+    ![Save filter options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/save_filters.png)
 
 3.  Enter a name for the filter in the **Save as:** field.
 
@@ -75,5 +75,5 @@ Creates a group filter, which only members of the user group you select can acce
     4.  If you edited the filter, select **Update**.
 
 
-**Parent Topic:**[Filters and breadcrumbs](../concept/c_UsingFiltersAndBreadcrumbs.md)
+**Parent Topic:**[Filters and breadcrumbs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingFiltersAndBreadcrumbs.md)
 

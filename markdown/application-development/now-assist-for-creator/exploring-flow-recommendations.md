@@ -15,7 +15,7 @@ breadcrumb: [Flow recommendations, Use generative AI, Now Assist for Creator, Vi
 
 Select the next component in your flow from a list of AI-generated recommendations. The system generates recommendations based on the current position in the flow and the flow component names listed before.
 
-![Five sample Flow recommendations for an empty flow](../images/flow-recommendations-01.png "Example flow recommendations")
+![Five sample Flow recommendations for an empty flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-recommendations-01.png "Example flow recommendations")
 
 The model uses the name of the flow components that come before to generate one to five recommendations for the next step of the flow. If there are no recommendations listed, then there are no flow components that meet the required relevance threshold.
 
@@ -27,13 +27,13 @@ This Generative AI large language model was pre-trained with internal ServiceNow
 
 ## Flow preference
 
-![Flow preference to show recommendations](../images/flow-recommendations-preference.png "Flow preferences")
+![Flow preference to show recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-recommendations-preference.png "Flow preferences")
 
 By default, Workflow Studio shows flow recommendations as you build a flow. You can hide these recommendations on a flow by flow basis by turning off the Show recommendations flow preference. See [User preferences for flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/flow-preferences.md) for more information.
 
 ## Recommendations in diagramming view
 
-![Demo flow recommendations in diagram mode](../images/flow-recommendations-diagramming-view.png)
+![Demo flow recommendations in diagram mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../images/flow-recommendations-diagramming-view.png)
 
 Workflow Studio shows recommendations from the flow diagramming view while you're editing a flow. In diagramming view, the last node of the flow always shows a list of recommendations. This experience matches the behavior of the text view, which also always shows a list of recommendations at the end of the flow.
 
@@ -41,5 +41,5 @@ Workflow Studio shows recommendations from the flow diagramming view while you'r
 
 This application uses artificial intelligence \(AI\) and machine learning, which are rapidly evolving fields of study that generate predictions based on patterns in data. As a result, this application may not always produce accurate, complete, or appropriate information. Furthermore, there is no guarantee that this application has been fully trained or tested for your use case. To mitigate these issues, it is your responsibility to test and evaluate your use of this application for accuracy, harm, and appropriateness for your use case, employ human oversight of output, and refrain from relying solely on AI-generated outputs for decision-making purposes. This is especially important if you choose to deploy this application in areas with consequential impacts such as healthcare, finance, legal, employment, security, or infrastructure. You agree to abide by [ServiceNow’s AI Acceptable Use Policy](https://www.servicenow.com/ai-acceptable-use-policy.html), which may be updated by ServiceNow.
 
-**Parent Topic:**[Flow recommendations](../reference/flow-recommendations-landing.md)
+**Parent Topic:**[Flow recommendations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/now-assist-for-creator/../reference/flow-recommendations-landing.md)
 

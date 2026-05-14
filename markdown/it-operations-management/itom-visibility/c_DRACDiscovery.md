@@ -25,7 +25,7 @@ To identify the DRAC, Discovery uses the **SNMP – DRAC** probe. This probe use
 
 -   **Run network discovery**
 
-    For information on configuring and running network discovery to discover DRAC devices, see [Run network Discovery](c_NetworkDiscovery.md#).
+    For information on configuring and running network discovery to discover DRAC devices, see [Run network Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDiscovery.md#).
 
 
 ## Data collected
@@ -46,5 +46,5 @@ To identify the DRAC, Discovery uses the **SNMP – DRAC** probe. This probe use
 
 A **DNS URL** is generated for configuration items in the **Out-Of-Band Device** list if the configuration item has a **Name** and **DNS Domain**. The **DNS URL** enables you to access the out-of-band device page when the SSL certificate forbids navigating through the **IP URL**. The **DNS URL** has the format `https://Name.DNS_Domain`. If either the **Name** or **DNS Domain** field is empty, the **DNS URL** contains the value in the **URL** field.
 
-**Parent Topic:**[Network device discovery](c_NetworkDevices.md)
+**Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 

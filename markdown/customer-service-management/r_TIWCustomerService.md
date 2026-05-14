@@ -204,7 +204,7 @@ Case Entitlement\[sn\_customerservice\_case\_entitlement\]
 
 </td><td>
 
-Stores the entitlements associated with case records.Associated entitlements are available in the Entitlements related list on the case record. The [sn\_customerservice.advanced\_entitlements](r_PropInstallWcustServ.md#advanced-entitlements) system property controls the display of this related list.
+Stores the entitlements associated with case records.Associated entitlements are available in the Entitlements related list on the case record. The [sn\_customerservice.advanced\_entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md#advanced-entitlements) system property controls the display of this related list.
 
 </td></tr><tr><td>
 
@@ -319,5 +319,5 @@ Responsibility Access Configuration\[sn\_customerservice\_responsibility\_access
 Stores the metadata of the responsibility access configuration, which specifies the level of access and the entities that can be accessed by a particular responsibility.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Customer Service Management](r_InstalledWithCustomerService.md)
+</table>**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 

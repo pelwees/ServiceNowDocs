@@ -209,5 +209,5 @@ Agent efficiency determination rule\[sn\_agent\_effcy\_det\_rule\]
 Validates Agent Efficiency determination rules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](components-inst-additional-plugin.md)
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 

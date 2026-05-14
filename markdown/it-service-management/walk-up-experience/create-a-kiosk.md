@@ -79,5 +79,5 @@ Location where you want to create a kiosk. The field is automatically populated 
 </table>5.  Select **Submit**.
 
 
-**Parent Topic:**[Walk-up Experience kiosk](../concept/walk-up-experience-kiosk-administration.md)
+**Parent Topic:**[Walk-up Experience kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/../concept/walk-up-experience-kiosk-administration.md)
 

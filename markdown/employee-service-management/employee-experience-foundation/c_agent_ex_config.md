@@ -15,8 +15,8 @@ breadcrumb: [Configure, ServiceNow for Microsoft Teams and Microsoft 365, Unifie
 
 Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Microsoft Teams.
 
--   **[Configure Notify connector for Microsoft Teams](../../notify2/concept/config-notify-ms-teams.md)**  
+-   **[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../notify2/concept/config-notify-ms-teams.md)**  
 Configure your ServiceNow instance with Notify connector for Microsoft Teams application to enable making calls using Microsoft Teams.
 
-**Parent Topic:**[Configuring ServiceNow for Microsoft Teams and Microsoft 365 integration](integrate-sn-teams.md)
+**Parent Topic:**[Configuring ServiceNow for Microsoft Teams and Microsoft 365 integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-sn-teams.md)
 

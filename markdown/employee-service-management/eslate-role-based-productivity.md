@@ -20,7 +20,7 @@ Employee Slate serves different categories of employees with experiences that ma
 
 Plan implementation, install Moveworks or Now Assist Chat, and configure branding and data sources from the admin console. Extend the canvas with AI-built widgets, track adoption in analytics, and expand the experience to Microsoft Teams, Slack, and mobile.
 
-![admin-journey](../images/admin-journey-es.png "Admin journey")
+![admin-journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/admin-journey-es.png "Admin journey")
 
 |Action|Responsibility|
 |------|--------------|
@@ -35,7 +35,7 @@ Plan implementation, install Moveworks or Now Assist Chat, and configure brandin
 
 From the moment you sign in to the moment the task is done, everything runs from one AI front door. This tier provides a conversation-first interface for everyday tasks such as service requests, knowledge search, research, and integration-powered actions.
 
-![employee-journey](../images/employee-journey-es.png "Everyday employee journey")
+![employee-journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/employee-journey-es.png "Everyday employee journey")
 
 |Action|ResponsibilityEmployee Slate|
 |------|----------------------------|
@@ -49,7 +49,7 @@ From the moment you sign in to the moment the task is done, everything runs from
 
 Draft announcements with conversational AI and target the right employees by role, location, or group. Publish across portal, mobile, Microsoft Teams, and Slack. Then track engagement and refine the next message with sharper targeting.
 
-![content-manager-journey](../images/content-manager-journey-es.png "Content manager journey")
+![content-manager-journey](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/../images/content-manager-journey-es.png "Content manager journey")
 
 |Action|Responsibility|
 |------|--------------|

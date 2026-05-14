@@ -52,5 +52,5 @@ Install Financial Services Operations Core by requesting it from the ServiceNow 
     Filter service definitions using the FSO case type selector with the CSM implementation, which supports agent criteria and customer conditions for filtering the service definitions displayed when creating a case.
 
 
-**Parent Topic:**[Financial Services Operations release notes](financial-services-operations-rn-landing.md)
+**Parent Topic:**[Financial Services Operations release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/financial-services-operations-rn-landing.md)
 

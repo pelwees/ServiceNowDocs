@@ -15,7 +15,7 @@ Install the RPA Desktop Design Studio application in your Windows machine if you
 
 ## Before you begin
 
-Download and unzip the installation file for the RPA Desktop Design Studio application. For more information, see [Download the RPA applications from RPA Hub](../../rpa-hub/task/download-installer-rpa.md).
+Download and unzip the installation file for the RPA Desktop Design Studio application. For more information, see [Download the RPA applications from RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../rpa-hub/task/download-installer-rpa.md).
 
 Ensure that you meet the hardware and software requirements.
 
@@ -63,5 +63,5 @@ You can see the RPA Desktop Design Studio icon on your desktop.
 
 ## What to do next
 
-Set up the RPA Desktop Design Studio application. For more information, see [Set up RPA Desktop Design Studio](set-up-rpa-studio.md).
+Set up the RPA Desktop Design Studio application. For more information, see [Set up RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-up-rpa-studio.md).
 

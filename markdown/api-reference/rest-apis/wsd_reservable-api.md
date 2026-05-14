@@ -15,7 +15,7 @@ breadcrumb: [REST API reference, API reference, API implementation and reference
 
 The Workplace Service Delivery \(WSD\) Reservable API provides endpoints to retrieve details of a reservable, an entity that can be reserved, such as a workplace location, from a ServiceNow instance.
 
-**Note:** A newer version of this API, [WSD Reservable V2 API](wsd_reservable-V2-api.md#), is available for use. The new version allows you to include all reservables in a POST request to avoid character limitations of the **sys\_Id** parameter.
+**Note:** A newer version of this API, [WSD Reservable V2 API](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/wsd_reservable-V2-api.md#), is available for use. The new version allows you to include all reservables in a POST request to avoid character limitations of the **sys\_Id** parameter.
 
 To access this API, the caller must have the sn\_wsd\_core.workplace\_user role.
 
@@ -23,7 +23,7 @@ This API runs in the `sn_wsd_rsv` namespace. To access this API, the Workplace R
 
 For additional information on Workplace Reservation Management, see [Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md).
 
-**Parent Topic:**[REST API reference](../../../build/applications/concept/api-rest.md)
+**Parent Topic:**[REST API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../../build/applications/concept/api-rest.md)
 
 ## WSD Reservable - GET /sn\_wsd\_rsv/reservable/list\_reservables/\{sys\_ids\}
 
@@ -35,7 +35,7 @@ Versioned URL: `/api/sn_wsd_rsv/{api_version}/reservable/list_reservables/{sys_i
 
 Default URL: `/api/sn_wsd_rsv/reservable/list_reservables/{sys_ids}`
 
-**Note:** Available versions are specified in the [REST API Explorer](use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](../../custom-web-services/concept/c_CustomWebServices.md).
+**Note:** Available versions are specified in the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/use-REST-API-Explorer.md). For scripted REST APIs there is additional version information on the [Scripted REST Service form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/../../custom-web-services/concept/c_CustomWebServices.md).
 
 ### Supported request parameters
 
@@ -158,7 +158,7 @@ Data type: String
 
 ### Headers
 
-The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](c_RESTAPI.md).
+The following request and response headers apply to this HTTP action only, or apply to this action in a distinct way. For a list of general headers used in the REST API, see [Supported REST API headers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 <table class="rest_api_request_headers"><thead><tr><th>
 
@@ -183,7 +183,7 @@ Data format of the response body. Supported types: **application/json** or **app
 
 ### Status codes
 
-The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](c_RESTAPI.md).
+The following status codes apply to this HTTP action. For a list of possible status codes used in the REST API, see [REST API HTTP response codes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-apis/c_RESTAPI.md).
 
 |Status code|Description|
 |-----------|-----------|

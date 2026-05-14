@@ -15,15 +15,15 @@ breadcrumb: [Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now
 
 LEAP includes features such as grouping incidents, creating problem records, and generating playbooks.
 
--   **[Identify and prioritize high impact areas](aiops-leap-features.md)**
+-   **[Identify and prioritize high impact areas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-features.md)**
 
     LEAP uses data-driven analytics to help users identify critical issues and prioritize high-impact automation opportunities. This ensures that resources are prioritized for the areas that deliver the highest operational efficiency and business value.
 
--   **[Measure and enhance performance](aiops-leap-features.md)**
+-   **[Measure and enhance performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-features.md)**
 
     LEAP helps improve Mean Time to Repair \(MTTR\) and operational efficiency by using advanced analytics and AI-driven insights to continuously monitor and optimize IT processes.
 
--   **[Interpret data and automate records](aiops-leap-features.md)**
+-   **[Interpret data and automate records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-features.md)**
 
     LEAP automatically generates problem records and executes automated playbooks by analyzing historical data patterns, enabling faster root cause identification and reducing manual intervention across complex IT environments.
 

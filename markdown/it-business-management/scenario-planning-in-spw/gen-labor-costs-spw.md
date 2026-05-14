@@ -31,10 +31,10 @@ When the distribution of effort for a resource assignment is adjusted without ch
 
 3.  Select the **Financials** tab.
 
-4.  Select **Generate labor costs** \(![Generate labor costs button.](../images/financials-gen-labor-costs.png)\).
+4.  Select **Generate labor costs** \(![Generate labor costs button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/financials-gen-labor-costs.png)\).
 
 5.  Select **Generate** on the Generate labor costs confirmation window.
 
-    **Note:** Alternatively, you can activate a scheduled job to generate labor costs at the required cadence. For more information, see [Activate scheduled job to generate labor costs for your planning items](labor-cost-scheduler-job-spw.md).
+    **Note:** Alternatively, you can activate a scheduled job to generate labor costs at the required cadence. For more information, see [Activate scheduled job to generate labor costs for your planning items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/labor-cost-scheduler-job-spw.md).
 
 

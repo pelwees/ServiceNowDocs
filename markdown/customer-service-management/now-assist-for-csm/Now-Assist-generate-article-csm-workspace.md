@@ -20,7 +20,7 @@ Generate the knowledge articles for resolved and closed cases within the CSM Con
 
 To generate a knowledge article for a case, the case must be in the **Resolved** and **Closed** state, and must not already have a knowledge article linked to it. Although the **Create Knowledge** button appears in other states, it won’t trigger the skill. In those cases, clicking the button just opens the KB article form for manual entry.
 
-Verify that [Configure knowledge generation](../../customer-service-management/task/configure-knowledge-generation-in-now-assist_0.md) is set up.
+Verify that [Configure knowledge generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../customer-service-management/task/configure-knowledge-generation-in-now-assist_0.md) is set up.
 
 **Important:**
 
@@ -44,7 +44,7 @@ In  CSM Configurable Workspace and classic environment, you can generate the k
 
 **Note:**
 
-The Create Knowledge UI action is available to the customer service agents who have assigned cases in the Resolve or Close state. You can also generate knowledge article information on demand from the Now Assist panel. For more information, see [Knowledge article generation](Now-Assist-generate-article-csm-workspace.md).
+The Create Knowledge UI action is available to the customer service agents who have assigned cases in the Resolve or Close state. You can also generate knowledge article information on demand from the Now Assist panel. For more information, see [Knowledge article generation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/Now-Assist-generate-article-csm-workspace.md).
 
 ## Procedure
 
@@ -60,7 +60,7 @@ The Create Knowledge UI action is available to the customer service agents who h
 
     The **Create Knowledge** UI Action is only visible when a case doesn't have an existing knowledge article that is associated with it.
 
-    Alternative way to trigger the skill [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](../../customer-service-management/task/request-gen-ai-capabilities-csm-now-assist-panel.md).
+    Alternative way to trigger the skill [Request the generative AI capabilities in Customer Service Management by using the Now Assist panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../customer-service-management/task/request-gen-ai-capabilities-csm-now-assist-panel.md).
 
 4.  In the Create article modal, select a knowledge base and an Article template, if displayed.
 
@@ -70,7 +70,7 @@ The Create Knowledge UI action is available to the customer service agents who h
 
 6.  In the Use Al to draft this article modal, select **Yes, draft with Now Assist**.
 
-    ![Enable Now Assist in CSM for KB article generation.](../../customer-service-management/image/now-assist-kb-dialog-box.png "Modal to draft article using AI")
+    ![Enable Now Assist in CSM for KB article generation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../customer-service-management/image/now-assist-kb-dialog-box.png "Modal to draft article using AI")
 
 7.  In the new modal, search for similar cases that can be used to generate the article; otherwise, select **Cancel**.
 
@@ -89,9 +89,9 @@ The Create Knowledge UI action is available to the customer service agents who h
 
     The article is generated in the selected knowledge base and language, and the content is displayed in that same language.
 
-10. Select some text in the KB article and then select the Now Assist icon![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
+10. Select some text in the KB article and then select the Now Assist icon![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg).
 
-    Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) generates a recommended text that is based on the context of the selected content in the article up to that point. You can refine your response by selecting to elaborate or shorten the selected text.
+    Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) generates a recommended text that is based on the context of the selected content in the article up to that point. You can refine your response by selecting to elaborate or shorten the selected text.
 
 11. Select **Insert** to paste the generated response.
 
@@ -99,10 +99,10 @@ The Create Knowledge UI action is available to the customer service agents who h
 
     The Now Assist success message disappears which means that it’s no longer a Now LLM Service generated article.
 
-    **Note:** Now Assist icon ![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) is also available for the published KB articles.
+    **Note:** Now Assist icon ![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg) is also available for the published KB articles.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../../customer-service-management/concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../customer-service-management/concept/now-assist-csm-using.md)
 
 **Related topics**  
 

@@ -23,7 +23,7 @@ Role required: itil
 
 1.  Open a change request.
 
-2.  To open a change request, select the List icon \(![list icon](../image/sow-list.png)\) and then navigate to **Changes**.
+2.  To open a change request, select the List icon \(![list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/sow-list.png)\) and then navigate to **Changes**.
 
     **Note:** Following lists are available:
 
@@ -50,7 +50,7 @@ Description
 
 </td><td>
 
-In the **Overview** tab, select **Add Task**. For more information about creating a change task, see [Create a change task in Service Operations Workspace](create-change-task-sow.md).
+In the **Overview** tab, select **Add Task**. For more information about creating a change task, see [Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md).
 
 </td></tr><tr><td id="d307014e148">
 
@@ -58,7 +58,7 @@ In the **Overview** tab, select **Add Task**. For more information about creatin
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Compose Email**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Compose Email**.
 
 </td></tr><tr><td id="d307014e166">
 
@@ -66,7 +66,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Create Outage**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Create Outage**.
 
 </td></tr><tr><td id="d307014e184">
 
@@ -74,7 +74,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-View the entities associated with the CI that can be impacted as a result of the change request.In the **Impact** section of the **Details** tab, select the Configuration item dependency view icon \( ![configuration item dependency view icon](../../incident-management/image/dependency-icon-r.png) \) displayed in the **Configuration item**, **Service offering**, or **Service** field, as applicable. The unified dependency Configuration Management Database \(CMDB\) map is displayed in a new tab within the workspace view.
+View the entities associated with the CI that can be impacted as a result of the change request.In the **Impact** section of the **Details** tab, select the Configuration item dependency view icon \( ![configuration item dependency view icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../incident-management/image/dependency-icon-r.png) \) displayed in the **Configuration item**, **Service offering**, or **Service** field, as applicable. The unified dependency Configuration Management Database \(CMDB\) map is displayed in a new tab within the workspace view.
 
 </td></tr><tr><td id="d307014e227">
 
@@ -82,7 +82,7 @@ View the entities associated with the CI that can be impacted as a result of the
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Refresh Impacted Services**. For information about refreshing impacted services, see [Refresh impacted services and CIs for Change](../../change-management/task/refresh-impacted-services-cis.md).
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Refresh Impacted Services**. For information about refreshing impacted services, see [Refresh impacted services and CIs for Change](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../change-management/task/refresh-impacted-services-cis.md).
 
 </td></tr><tr><td id="d307014e252">
 
@@ -90,7 +90,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Cancel**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Cancel**.
 
 </td></tr><tr><td id="d307014e270">
 
@@ -98,7 +98,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select select **Delete**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select select **Delete**.
 
 </td></tr><tr><td id="d307014e288">
 
@@ -106,7 +106,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-Select the more actions icon \(![more actions icon](../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
+Select the more actions icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/more-actions-icon.png)\) and select **Copy URL**.
 
 </td></tr><tr><td id="d307014e306">
 
@@ -114,7 +114,7 @@ Select the more actions icon \(![more actions icon](../../itsm-workspace/image/m
 
 </td><td>
 
-From the contextual side panel, select the record Information icon \(![record Information icon](../image/record-info-icon.png)\).
+From the contextual side panel, select the record Information icon \(![record Information icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/record-info-icon.png)\).
 
 </td></tr><tr><td id="d307014e321">
 
@@ -122,7 +122,7 @@ From the contextual side panel, select the record Information icon \(![record In
 
 </td><td>
 
-1.  From the contextual side panel, select the agent assist icon \(![agent assist icon](../image/agent-assist-icon.png)\).
+1.  From the contextual side panel, select the agent assist icon \(![agent assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/agent-assist-icon.png)\).
 2.  Search for a resource and perform the required action, for example, link the change to an incident.
 
 
@@ -132,7 +132,7 @@ From the contextual side panel, select the record Information icon \(![record In
 
 </td><td>
 
-From the contextual side panel, select the collaborate icon \(![collaborate icon](../image/collaborate-sidebar.png)\).
+From the contextual side panel, select the collaborate icon \(![collaborate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/collaborate-sidebar.png)\).
 
 </td></tr><tr><td id="d307014e364">
 
@@ -140,7 +140,7 @@ From the contextual side panel, select the collaborate icon \(![collaborate icon
 
 </td><td>
 
-From the contextual side panel, select the attachments icon \(![attachments icon](../../itsm-workspace/image/attachment-icon.png)\).**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
+From the contextual side panel, select the attachments icon \(![attachments icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/attachment-icon.png)\).**Note:** The added attachments are displayed in the activity stream in the **Compose** section.
 
 </td></tr><tr><td id="d307014e385">
 
@@ -148,7 +148,7 @@ From the contextual side panel, select the attachments icon \(![attachments icon
 
 </td><td>
 
-From the contextual side panel, select the templates icon \(![templates icon](../image/template-icon.png)\) and create a template or reuse an existing one.
+From the contextual side panel, select the templates icon \(![templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/template-icon.png)\) and create a template or reuse an existing one.
 
 </td></tr><tr><td id="d307014e400">
 
@@ -196,22 +196,22 @@ Select  **Close**  after entering the  **Close code ** and  **Close no
     -   Review
     -   Close
 
-**Parent Topic:**[Change Management in Service Operations Workspace](../concept/change-sow.md)
+**Parent Topic:**[Change Management in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/change-sow.md)
 
 **Related topics**  
 
 
-[Create a change request in Service Operations Workspace](create-change-sow.md)
+[Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-sow.md)
 
-[Standard change catalog](../concept/standard-change-catalog-sow.md)
+[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 
-[Create a change task in Service Operations Workspace](create-change-task-sow.md)
+[Create a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-task-sow.md)
 
-[Work on a change task in Service Operations Workspace](work-on-change-task-sow.md)
+[Work on a change task in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/work-on-change-task-sow.md)
 
-[Create a Change Advisory Board \(CAB\) definition](cm-create-cab-definition-sow.md)
+[Create a Change Advisory Board \(CAB\) definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-definition-sow.md)
 
-[Create a CAB meeting](cm-create-cab-meeting-sow.md)
+[Create a CAB meeting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-create-cab-meeting-sow.md)
 
-[Conduct a CAB meeting in the CAB workbench](cm-manage-cab-meeting-workbench-sow.md)
+[Conduct a CAB meeting in the CAB workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/cm-manage-cab-meeting-workbench-sow.md)
 

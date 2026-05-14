@@ -55,12 +55,12 @@ By default, service catalog searches display "Did you mean?" suggestions if a se
 
 To disable these suggestions, set the **Specify whether search suggestions should be enabled** property \(**glide.sc.search.suggestions**\) to **No**.
 
--   **[Refine search results](../task/t_UsePropertiesToRefineSrchResult.md)**  
+-   **[Refine search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/t_UsePropertiesToRefineSrchResult.md)**  
 Use properties to refine search results in Service Catalog.
--   **[Configure keyword search for catalog items](../task/search-catalog-item.md)**  
+-   **[Configure keyword search for catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/search-catalog-item.md)**  
 When you search for a catalog item by a keyword in Service Catalog, the search results are displayed by considering a few fields of the catalog table.
--   **[Configure AI-based catalog search experience](../task/config-ai-search-cat.md)**  
+-   **[Configure AI-based catalog search experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../task/config-ai-search-cat.md)**  
 Improve employee engagement with an AI-based catalog search experience in Service Portal and Now Mobile. Intelligent query features enable users to quickly and easily find the answers they need.
 
-**Parent Topic:**[Service catalog home page configuration](c_ManagingTheHomepageForACatalog.md)
+**Parent Topic:**[Service catalog home page configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ManagingTheHomepageForACatalog.md)
 

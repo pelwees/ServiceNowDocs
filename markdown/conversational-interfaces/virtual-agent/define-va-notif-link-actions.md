@@ -125,7 +125,7 @@ Actions listed in an event parameter.Users and actions cannot both be passed int
 
 ## What to do next
 
-Enable Virtual Agent notifications. For more information, see [Enable Virtual Agent notifications](enable-va-notifications.md).
+Enable Virtual Agent notifications. For more information, see [Enable Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-va-notifications.md).
 
-**Parent Topic:**[Configuring Virtual Agent notifications](../concept/configuring-va-notifications.md)
+**Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/configuring-va-notifications.md)
 

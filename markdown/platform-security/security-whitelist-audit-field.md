@@ -17,11 +17,11 @@ Track a subset of fields in an audited table by add those fields to an inclusion
 
 Role required: admin
 
-To add fields in a table to an inclusion list, you must have first [enabled auditing for that table](t_EnableAuditingForATable.md) and [enabled inclusion list auditing for that table](enable-whitelist-for-table.md).
+To add fields in a table to an inclusion list, you must have first [enabled auditing for that table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_EnableAuditingForATable.md) and [enabled inclusion list auditing for that table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/enable-whitelist-for-table.md).
 
 ## About this task
 
-Add a set of fields to an inclusion list when you want to audit only a small number of an audited table's fields. If you need to audit most fields, and exclude only a few, follow the [exclusion list procedure](t_ExcludeAFieldFromBeingAudited.md) instead.
+Add a set of fields to an inclusion list when you want to audit only a small number of an audited table's fields. If you need to audit most fields, and exclude only a few, follow the [exclusion list procedure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_ExcludeAFieldFromBeingAudited.md) instead.
 
 ## Procedure
 

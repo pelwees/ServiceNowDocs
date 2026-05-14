@@ -27,19 +27,19 @@ Your users can report a case to the compliance teams through phone calls or emai
 
 1.  Navigate to **All** &gt; **Compliance Workspace**.
 
-2.  Select the Compliance case management icon \(![Electronic signature](../../grc-workspace-vrm/image/icon-tprm-ws-risk-activity.png)\).
+2.  Select the Compliance case management icon \(![Electronic signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../../grc-workspace-vrm/image/icon-tprm-ws-risk-activity.png)\).
 
 3.  From the options available in **Create**, select **Case**.
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create a Compliance Case form, see [Compliance Case form](../reference/compliance-case-form.md).
+    For a description of the field values on the Create a Compliance Case form, see [Compliance Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/compliance-case-form.md).
 
 5.  Select **Save**.
 
 
--   **[Compliance Case form](../reference/compliance-case-form.md)**  
+-   **[Compliance Case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../reference/compliance-case-form.md)**  
 Use the Create Compliance Case form in the GRC: Compliance Case Management application to report a compliance case.
 
-**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](../concept/reporting-compliance-case.md)
+**Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/../concept/reporting-compliance-case.md)
 

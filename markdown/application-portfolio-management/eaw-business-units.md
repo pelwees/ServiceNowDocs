@@ -17,12 +17,12 @@ Business units usually comprise departments and they have their own set of requi
 
 Using the Enterprise Architecture Workspace, business units can manage their business applications effectively.
 
-**Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
+**Parent Topic:**[Exploring the business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View all business units](../../task/eaw-task/eaw-view-all-business-units.md)
+[View all business units](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-business-units.md)
 
-[Add or edit a business unit](../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
+[Add or edit a business unit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-business-unit.md)
 

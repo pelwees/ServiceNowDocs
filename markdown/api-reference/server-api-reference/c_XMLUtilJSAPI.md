@@ -19,7 +19,7 @@ This script include is provided with the Discovery plugin. Use this script inclu
 
 Access these methods using the static variable XMLUtilJS.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## XMLUtilJS - escapeForXMLText\(String text\)
 

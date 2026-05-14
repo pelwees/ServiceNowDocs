@@ -23,15 +23,15 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Configure ![Plan and configure your implementation.](../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/set-up-hr-integ.md)
+[Configure ![Plan and configure your implementation.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-sdlc.svg) Plan and configure your implementation.](../task/set-up-hr-integ.md)
 
 </td><td>
 
-[Use ![Use Enterprise Service Management Integrations Framework for third party integrations.](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Enterprise Service Management Integrations Framework for third party integrations.](../task/use-integrations-framework.md)
+[Use ![Use Enterprise Service Management Integrations Framework for third party integrations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg) Use Enterprise Service Management Integrations Framework for third party integrations.](../task/use-integrations-framework.md)
 
 </td><td>
 
-[Reference ![Get details about components like fields, tables, and properties.](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../task/ent-service-mgmt-int-framework-reference.md)
+[Reference ![Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about components like fields, tables, and properties.](../task/ent-service-mgmt-int-framework-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources

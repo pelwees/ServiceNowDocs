@@ -33,5 +33,5 @@ Managers can set up and use Teams by performing the following steps:
 4.  Add assignment groups to the KPI group
 5.  Drill down into a KPI, agent, or an incident to analyze performance
 
-For detailed information on how to setup and use Teams, see [teams](setting-teams-configurable-wfo-cs.md#).
+For detailed information on how to setup and use Teams, see [teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setting-teams-configurable-wfo-cs.md#).
 

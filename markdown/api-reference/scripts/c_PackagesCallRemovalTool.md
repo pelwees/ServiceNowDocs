@@ -27,7 +27,7 @@ The tool might generate errors as it tries to generate preferred, scriptable alt
 
 **Note:** Create an update set before migrating the changes that result from running the Packages Call Removal Tool. For information, see [Get started with update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/get-started-update-sets.md).
 
-**Parent Topic:**[Scripting](../../topic/c_Script.md)
+**Parent Topic:**[Scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/../../topic/c_Script.md)
 
 ## Activate the Packages Call Removal Tool
 

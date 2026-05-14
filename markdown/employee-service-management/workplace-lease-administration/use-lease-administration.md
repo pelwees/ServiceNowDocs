@@ -31,10 +31,10 @@ As a lease administration user, you can only view the workplace contracts.
 
 You can access Workplace Lease Administration, either from the Core UI or Workplace Central. For more information on how to access and use the application from different views, refer to the following topics.
 
--   [Working with Workplace Lease Administration from the Core UI](use-lease-admin-core-ui.md)
--   [Working with Workplace Lease Administration from the Workplace Central](working-with-lease-administration.md)
+-   [Working with Workplace Lease Administration from the Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/use-lease-admin-core-ui.md)
+-   [Working with Workplace Lease Administration from the Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/working-with-lease-administration.md)
 
-For more information about installing Workplace Central, see [Install Workplace Central](../../workplace-central/task/install-workplace-central.md).
+For more information about installing Workplace Central, see [Install Workplace Central](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/../../workplace-central/task/install-workplace-central.md).
 
 For more information on the workplace contract workflow, states, and substates, see [Contract life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractLifeCycle.md).
 

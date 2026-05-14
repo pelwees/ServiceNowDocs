@@ -25,6 +25,6 @@ Role required: admin
 
 3.  On the confirmation page, select **Deactivate User**.
 
-    ![Deactivate user window](../../msi-console/image/deactivate-user-ot-console.png)
+    ![Deactivate user window](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../msi-console/image/deactivate-user-ot-console.png)
 
 

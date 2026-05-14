@@ -72,7 +72,7 @@ Displays the current version of Desktop Assistant running on user devices.
 DEX Desktop Assistant\[sn\_dex\_desktop\_exp\]
 
 </td></tr></tbody>
-</table>To return to the usage metrics page or the administration page, where you can access usage metrics, see [View Desktop Assistant usage metrics](../task/view-da-usage-metrics.md) or [DEX Administration](../concept/dex-workspace-administration-tab.md).
+</table>To return to the usage metrics page or the administration page, where you can access usage metrics, see [View Desktop Assistant usage metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../task/view-da-usage-metrics.md) or [DEX Administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-workspace-administration-tab.md).
 
-**Parent Topic:**[DEX Desktop Assistant reference](dex-desktop-experience-reference.md)
+**Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 

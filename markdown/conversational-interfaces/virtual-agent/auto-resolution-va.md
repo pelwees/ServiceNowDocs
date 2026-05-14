@@ -33,12 +33,12 @@ For information about using a custom NLU model and intents with Issue Auto Resol
 
 To learn more about the agentic workflows for Issue Auto Resolution for ITSM and HR Service Delivery, see [Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-auto-resolution.md) and [Issue Auto Resolution for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/issue-auto-resolution-for-hr/issue-auto-resolution-hr.md).
 
--   **[Configure and run an Issue Auto Resolution simulation](../task/configure-ar-simulations.md)**  
+-   **[Configure and run an Issue Auto Resolution simulation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../task/configure-ar-simulations.md)**  
 Use the incident data from your organization to run simulations from the matching intents that the Issue Auto Resolution application based its predictions on from the case descriptions.
--   **[Issue Auto Resolution configuration settings](iar-channels.md)**  
+-   **[Issue Auto Resolution configuration settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/iar-channels.md)**  
 Learn about the different configuration settings that you can use for the Issue Auto Resolution \(IAR\) application. For example, you can see the status of your Issue Auto Resolution configurations and decide to turn off or edit each configuration setting to fit your organization's needs.
--   **[Issue Auto Resolution diagnostic chat](iar-diagnostic-chat.md)**  
+-   **[Issue Auto Resolution diagnostic chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/iar-diagnostic-chat.md)**  
 Admin users can initiate a chat conversation to troubleshoot the settings and functionality of Issue Auto Resolution if an issue arises that wasn't addressed as expected.
 
-**Parent Topic:**[Case and incident deflection in Virtual Agent](case-incident-deflection-virtual-agent.md)
+**Parent Topic:**[Case and incident deflection in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/case-incident-deflection-virtual-agent.md)
 

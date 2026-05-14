@@ -21,11 +21,11 @@ Automation Center integrates with ServiceNow® Robotic Process Automation \(RPA\
 
 ## Integration with ServiceNow® flows
 
-Automation Center integrates with ServiceNow® flows enabling you to track any ServiceNow® flow as automations. For more information, see [Track ServiceNow flows and actions as automations](../task/create-auto-tracker.md).
+Automation Center integrates with ServiceNow® flows enabling you to track any ServiceNow® flow as automations. For more information, see [Track ServiceNow flows and actions as automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../task/create-auto-tracker.md).
 
 ## Integration with ServiceNow® Robotic Process Automation \(RPA\) Hub
 
-Automation Center provides an integration with the ServiceNow® RPA Hub application. This integration enables you to integrate ServiceNow robots and bot processes. For more information about RPA Hub, see [Robotic Process Automation \(RPA\) Hub](../../rpa-core/concept/rpa-explore.md).
+Automation Center provides an integration with the ServiceNow® RPA Hub application. This integration enables you to integrate ServiceNow robots and bot processes. For more information about RPA Hub, see [Robotic Process Automation \(RPA\) Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../../rpa-core/concept/rpa-explore.md).
 
 ## Integration with Document Intelligence
 
@@ -33,7 +33,7 @@ Automation Center integrates with Document Intelligence enabling you to get the 
 
 ## Integration with UiPath
 
-Automation Center integrates with UiPath enabling you to get the UiPath data into ServiceNow® instance via UiPath spoke. You can analyze the data from UiPath using Automation Center. For more information, see [Configuring UiPath with Automation Center](uipath-config.md).
+Automation Center integrates with UiPath enabling you to get the UiPath data into ServiceNow® instance via UiPath spoke. You can analyze the data from UiPath using Automation Center. For more information, see [Configuring UiPath with Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/uipath-config.md).
 
 ## Integration with third-party vendors
 
@@ -51,19 +51,19 @@ Automation Center integrates with Task Mining enabling you to create automations
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Automation Center concepts and features.](automation-center-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../../../reuse/icons/brand-icons/bus-explore.svg) Learn about Automation Center concepts and features.](automation-center-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and setup Automation Center](automation-center-setup.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and setup Automation Center](automation-center-setup.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how to use Automation Center](automation-center-use.md).
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../../../reuse/icons/brand-icons/bus-agent-workspace-1.svg)Learn how to use Automation Center](automation-center-use.md).
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Automation Center like glossary and troubleshooting information.](automation-center-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Automation Center like glossary and troubleshooting information.](automation-center-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store

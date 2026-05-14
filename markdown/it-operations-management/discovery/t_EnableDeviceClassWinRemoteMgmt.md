@@ -44,7 +44,7 @@ By default, the system uses the WMI protocol for device classification of Window
 
 6.  Enter a value of **WinRM**.
 
-    ![MID Server configuration parameter](../image/MIDServerConfigParameter.png "MID Server configuration parameter")
+    ![MID Server configuration parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../image/MIDServerConfigParameter.png "MID Server configuration parameter")
 
 7.  Click **Submit**.
 
@@ -62,5 +62,5 @@ By default, the system uses the WMI protocol for device classification of Window
 
 ## What to do next
 
-Run a discovery from the [Discovery schedule](../../discovery/task/t_CreateADiscoverySchedule.md#) to find Windows machines on your network.
+Run a discovery from the [Discovery schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery/../../discovery/task/t_CreateADiscoverySchedule.md#) to find Windows machines on your network.
 

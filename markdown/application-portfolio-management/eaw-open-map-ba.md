@@ -29,9 +29,9 @@ Unified map is a visualization tool that is used to understand the enterprise ar
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](../../image/portfolio-icon.png)\).
+2.  Open the Portfolio List view by selecting the Portfolio icon \(![Portfolio icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/portfolio-icon.png)\).
 
-3.  Select the expand row icon \(![Expand Row icon](../../image/ExpandIcon.png)\) next to **Application Portfolio**.
+3.  Select the expand row icon \(![Expand Row icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Application Portfolio**.
 
 4.  Select **Business Applications**.
 
@@ -44,45 +44,45 @@ Unified map is a visualization tool that is used to understand the enterprise ar
 
 In the EA Workspace version 2.1.1, the unified map for the selected business application is opened in the CMDB Workspace. For more details on the unified map, see [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md).
 
-![Business Application Dependency View](../../image/eaw-image/open-map.png "Business Application Dependency View")
+![Business Application Dependency View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/open-map.png "Business Application Dependency View")
 
 In the EA Workspace version 2.2.0 or later, the unified map for the selected business application is opened in a new tab within the EA Workspace.
 
-![Business Application Dependency View](../../image/eaw-image/open-map-eaw.png "Business Application Dependency View")
+![Business Application Dependency View](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/open-map-eaw.png "Business Application Dependency View")
 
--   **[View the unified map for a business application in Enterprise Modeling and Visualization](eaw-view-unified-map-in-modeling-tool.md)**  
+-   **[View the unified map for a business application in Enterprise Modeling and Visualization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-unified-map-in-modeling-tool.md)**  
 You can view and model the unified map for your business applications, using Enterprise Modeling and Visualization. Using the Enterprise Modeling and Visualization \[com.snc.apm\_modelling\_tool\] functionality in Enterprise Architecture Workspace, you can modify your existing applications hierarchy and associate them with architectural artifacts.
 
-**Parent Topic:**[Working with an application portfolio](../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
+**Parent Topic:**[Working with an application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-work-with-application-portfolio.md)
 
 **Related topics**  
 
 
-[View roadmap of a business application](eaw-view-roadmap-ba.md)
+[View roadmap of a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-roadmap-ba.md)
 
-[Manage information objects of a business application in EA Workspace](eaw-associate-info-obj-ba.md)
+[Manage information objects of a business application in EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-associate-info-obj-ba.md)
 
-[Create an architectural artifact and associate it with a business application](eaw-assoicate-artifact-ba.md)
+[Create an architectural artifact and associate it with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-assoicate-artifact-ba.md)
 
-[Remove architectural artifacts associated with a business application](eaw-unassign-archi-artfct-assoc-ba.md)
+[Remove architectural artifacts associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-unassign-archi-artfct-assoc-ba.md)
 
-[View architectural artifacts associated with a business application](eaw-view-archi-artfct-assoc-with-ba.md)
+[View architectural artifacts associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-archi-artfct-assoc-with-ba.md)
 
-[Open business application form in Core UI from EA Workspace](view-ba-form-in-coreui.md)
+[Open business application form in Core UI from EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-ba-form-in-coreui.md)
 
-[Add an existing architectural artifact to a business application](eaw-add--existing-archi-artfct-to-a-ba.md)
+[Add an existing architectural artifact to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add--existing-archi-artfct-to-a-ba.md)
 
-[Create a Lucidchart diagram for a business application in the EA Workspace](eaw-create-lucid-diagram-ba.md)
+[Create a Lucidchart diagram for a business application in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-lucid-diagram-ba.md)
 
-[Create a diagram for a business application in the EA Workspace](eaw-create-diagram-ba.md)
+[Create a diagram for a business application in the EA Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-diagram-ba.md)
 
-[Remove business capabilities associated with a business application](eaw-unassign-business-capabilities-from-ba.md)
+[Remove business capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-unassign-business-capabilities-from-ba.md)
 
-[Add an existing business capability to a business application](eaw-add-existing-business-capability-to-ba.md)
+[Add an existing business capability to a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-add-existing-business-capability-to-ba.md)
 
-[View business capabilities associated with a business application](eaw-view-business-capabilities-assoc-with-ba.md)
+[View business capabilities associated with a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-view-business-capabilities-assoc-with-ba.md)
 
-[Add or edit a business application](eaw-create-business-app.md)
+[Add or edit a business application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-create-business-app.md)
 
-[View all business applications](view-all-business-apps.md)
+[View all business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/view-all-business-apps.md)
 

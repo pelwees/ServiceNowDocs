@@ -31,7 +31,7 @@ You can view the following information using the floor map.
 
 The following example shows a floor map layout in the Telecommunications Network Inventory application.
 
-![View of a floor map layout.](../image/floor-map.png "Floor map layout")
+![View of a floor map layout.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/floor-map.png "Floor map layout")
 
 <table id="table_crd_4hd_ndc"><thead><tr><th>
 
@@ -100,7 +100,7 @@ The map pane displays the objects of a datacenter floor, including the following
 -   Places that are associated with other facility hardware in yellow color.
 -   Selected place borders are highlighted in black color.
 -   Places that haven't been mapped with a CI appears in gray color.
--   Alert information with an alert icon \(![Alert Icon.](../image/icon-alert-floor-map.png)\) on a place that is associated with a rack CI.
+-   Alert information with an alert icon \(![Alert Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-alert-floor-map.png)\) on a place that is associated with a rack CI.
 -   Temperature, Power, and RU Utilization data with color-coded rack overlays according to map legend.
 -   View map legends of metric overlay and network assets color codes.
 
@@ -116,9 +116,9 @@ Details pane
 
 </td><td>
 
-The details pane shows the related information about a place that you’re selected in the map pane. Select the info icon \( ![Info Icon](../image/icon-info.png)\) to view the details pane. When you first open the details pane, it shows the details of the floor. Select a place to learn more about it. If a configuration item \(CI\) is associated with that place, you see the details about that CI.
+The details pane shows the related information about a place that you’re selected in the map pane. Select the info icon \( ![Info Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-info.png)\) to view the details pane. When you first open the details pane, it shows the details of the floor. Select a place to learn more about it. If a configuration item \(CI\) is associated with that place, you see the details about that CI.
 
- Select the alert icon \(![Alert Icon.](../image/icon-alert-floor-map.png)\) on the map pane to view the details of the alerts, incidents, and change requests that are associated with the corresponding CI. You can also select the green lightening bolt icon \( ![Green Lightening Bolt Icon.](../image/icon-green-lightening-bolt.png)\) on the details pane to view the same details.
+ Select the alert icon \(![Alert Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-alert-floor-map.png)\) on the map pane to view the details of the alerts, incidents, and change requests that are associated with the corresponding CI. You can also select the green lightening bolt icon \( ![Green Lightening Bolt Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-green-lightening-bolt.png)\) on the details pane to view the same details.
 
  **Note:** Alerts are displayed when the Telecommunications Alarm Management Open API \(sn\_ind\_tmf642\) plugin is installed. Incidents are displayed when the Customer Service Problem Management \(sn\_sprb\_mgmt\) plugin is installed.
 
@@ -149,15 +149,15 @@ Rack view shows the visual representation of a rack. The Rack view also shows th
 </td></tr></tbody>
 </table>## Managing your floor map
 
-You can upload and manage the datacenter map objects using the Indoor Mapping Map Studio. You can view the respective floor plans for a selected building in a datacenter campus using the floor map. To learn more, see [Upload and manage floor map for your datacenter](../task/create-floor-map-data-center.md).
+You can upload and manage the datacenter map objects using the Indoor Mapping Map Studio. You can view the respective floor plans for a selected building in a datacenter campus using the floor map. To learn more, see [Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create-floor-map-data-center.md).
 
 ## Access
 
 Access the floor map in the Telecommunications Network Inventory workspace as follows:
 
 1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
-2.  Select the blue hub icon \(![Blue Hub Icon.](../image/icon-blue-hub.png)\).
+2.  Select the blue hub icon \(![Blue Hub Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-blue-hub.png)\).
 3.  Select the **Floor map** tab.
 
-To learn more about how to use the floor map, see [Floor map](using-floor-map.md).
+To learn more about how to use the floor map, see [Floor map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-floor-map.md).
 

@@ -29,5 +29,5 @@ The HR Case Dashboard shows:
 -   The details of all cases assigned to you.
 -   All cases assigned to you by Topic Category.
 
-**Parent Topic:**[HR Dashboards &amp; Reports](c_HRDashboardsReports.md)
+**Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRDashboardsReports.md)
 

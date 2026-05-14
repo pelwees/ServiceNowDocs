@@ -25,7 +25,7 @@ Role required: import\_transformer
 
 2.  Select an existing robust import set transformer, or click **New** to create a new robust import set transformer.
 
-    For procedures, see [Create a robust import set transformer](create-robust-import-set-transformer.md).
+    For procedures, see [Create a robust import set transformer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/create-robust-import-set-transformer.md).
 
 3.  At the **Transformer Definition** field, click the search icon.
 

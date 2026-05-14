@@ -19,23 +19,23 @@ You can create a new UI action of the following types. See [Create a UI action](
 
 -   **List banner button**: Creates a button on the banner of a list.
 
-    ![Image showing the list banner button](../image/atf-list-banner-button.png "List banner button")
+    ![Image showing the list banner button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-list-banner-button.png "List banner button")
 
 -   **List bottom button**: Creates a button at the bottom of the list.
 
-    ![Image showing list bottom button](../image/atf-bottom-button.png "List bottom button")
+    ![Image showing list bottom button](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-bottom-button.png "List bottom button")
 
 -   **List context menu**: Adds an option to the context menu of the list.
 
-    ![Image showing the UI action in the context menu](../image/atf-list-context-menu.png "List context menu")
+    ![Image showing the UI action in the context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-list-context-menu.png "List context menu")
 
 -   **List choice**: Adds an option to the list choice at the bottom of the list. You need to select one or more tests to enable the recently added list choice.
 
-    ![Image showing the added option in the list](../image/atf-list-choice.png "List choice")
+    ![Image showing the added option in the list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-list-choice.png "List choice")
 
 -   **List link**: Adds a link to the **Related Links** list.
 
-    ![Image showing the links added to the Related Links list](../image/atf-list-link.png "List link")
+    ![Image showing the links added to the Related Links list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-list-link.png "List link")
 
 
 ## Design considerations
@@ -47,5 +47,5 @@ You can create a new UI action of the following types. See [Create a UI action](
 -   Identify the specific record if you have selected **Single record** to apply the UI action.
 -   For the **Timeout** field to appear, select **Page reloaded or redirected** as the **Assert** type.
 
-**Parent Topic:**[Building and running automated tests with the Automated Test Framework](atf-build-overview.md)
+**Parent Topic:**[Building and running automated tests with the Automated Test Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-build-overview.md)
 

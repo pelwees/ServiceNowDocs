@@ -28,11 +28,11 @@ If the workflow has stages associated with it, but does not have the completed s
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md)
+-   Related Information: [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/../../using-workflows/concept/c_WorkflowActivities.md)
 
 ## Troubleshooting
 
 Check the workflow for an end activity. Ensure that this activity assigns a stage named Complete or Completed.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/r_WorkflowValidator.md)
 

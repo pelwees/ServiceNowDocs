@@ -119,7 +119,7 @@ DocIntel extracts the data for all fields and processes the document task if the
 </td></tr></tbody>
 </table>## Extraction labels
 
-In CSM Configurable Workspace, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
+In CSM Configurable Workspace, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
 
 In Core UI, the fields on the Case form that contain Document Intelligence predicted values are identified with the message `Predicted from DocIntel`.
 
@@ -128,7 +128,7 @@ In Core UI, the fields on the Case form that contain Document Intelligence predi
 
 ## Predicted field values
 
-In CSM Configurable Workspace, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
+In CSM Configurable Workspace, the fields on the Case form that contain Document Intelligence predicted values are identified with an AI icon \(![AI icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../common/image/icon-ai-sparkle.png)\) and label. These fields also include an information icon that displays a message with additional context about the predicted values.
 
 In Core UI, the fields on the Case form that contain Document Intelligence predicted values are identified with the message `Predicted from DocIntel`.
 
@@ -167,5 +167,5 @@ The agent can open a case and review the predicted fields or review the predicti
 -   Update incorrect or missing values.
 -   Submit the changes.
 
-**Parent Topic:**[Document Intelligence for Customer Service](csm-document-intelligence.md)
+**Parent Topic:**[Document Intelligence for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/csm-document-intelligence.md)
 

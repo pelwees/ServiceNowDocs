@@ -29,18 +29,18 @@ If you want to use the Cloud Runner browser option, you are required to complete
 -   When you haven't configured the user to run and generate tests
     -   If you are an admin
 
-        ![Image showing cloud runner option if you are an admin](../image/atf-admin-cloud-runner.png "Configure user if you are an admin")
+        ![Image showing cloud runner option if you are an admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-admin-cloud-runner.png "Configure user if you are an admin")
 
     -   If you are not an admin
 
-        ![Image showing cloud runner option if you are not an admin](../image/atf-non-admin-cloud-runner.png "Configure user if you are not an admin")
+        ![Image showing cloud runner option if you are not an admin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-non-admin-cloud-runner.png "Configure user if you are not an admin")
 
 -   When the application is installed and the user is configured
 
-    ![Image showing cloud runner browser option](../image/atf-cloud-runner-browser.png "Use the cloud runner option")
+    ![Image showing cloud runner browser option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-cloud-runner-browser.png "Use the cloud runner option")
 
 
 **Note:** See [ATF Test Generator and Cloud Runner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-intro.md) for more information.
 
-**Parent Topic:**[Pick a browser](../task/atf-pick-a-browser.md)
+**Parent Topic:**[Pick a browser](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../task/atf-pick-a-browser.md)
 

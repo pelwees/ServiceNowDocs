@@ -79,7 +79,7 @@ Email address of the users who are authorized to approve the revocation request.
 
 ## Result
 
-The export process downloads an XML file to your local machine for use in the steps detailed in [Configure Code Signing Enterprise on your protected instance](cse-ppi-config.md).
+The export process downloads an XML file to your local machine for use in the steps detailed in [Configure Code Signing Enterprise on your protected instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cse-ppi-config.md).
 
-**Parent Topic:**[Quorum Controlled Certificate Revocation](../concept/certificate-revocation.md)
+**Parent Topic:**[Quorum Controlled Certificate Revocation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/certificate-revocation.md)
 

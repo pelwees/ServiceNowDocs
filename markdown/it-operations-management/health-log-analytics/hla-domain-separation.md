@@ -54,7 +54,7 @@ Using domain separation in your instance is transparent to Health Log Analytics.
 -   An operator in a tenant organization wants to provide feedback for alerts only in their own domain​.
 -   An MSP Admin wants to view log data from all of their organization's tenant domains.
 
-**Parent Topic:**[Health Log Analytics reference](hla-reference.md)
+**Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
 **Related topics**  
 

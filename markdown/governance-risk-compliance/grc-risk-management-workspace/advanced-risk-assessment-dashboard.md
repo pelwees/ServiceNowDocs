@@ -33,7 +33,7 @@ Navigate to **Advanced Risk Assessment** &gt; **Overview**. The Advanced Risk As
 
 This dashboard is visible only to users with the sn\_risk.manager role.
 
-![Advanced risk dashboard.](../image/ara_dashboard.png "Advanced risk dashboard")
+![Advanced risk dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/ara_dashboard.png "Advanced risk dashboard")
 
 ## Advanced Risk Assessment Risk Register
 
@@ -43,7 +43,7 @@ The Risk Register dashboard displays the risk assessments instances in the list 
 
 This dashboard is visible to users with the sn\_risk.user role.
 
-![Risk register dashboard.](../image/ara_dashboard_risk_register.png "Risk register dashboard")
+![Risk register dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/ara_dashboard_risk_register.png "Risk register dashboard")
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
 

@@ -26,9 +26,9 @@ HR Service Delivery for Healthcare enables you:
 
 The following infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare application along with Journey designer and Employee Center.
 
-![The infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare along with Journey designer](../image/mmasset0020433.png)
+![The infographic provides you with an end to end explanation of how to use the HR Service Delivery for Healthcare along with Journey designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/../image/mmasset0020433.png)
 
-For more details, see [Using HR Service Delivery for Healthcare](../task/using-hr-healthcare.md).
+For more details, see [Using HR Service Delivery for Healthcare](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-healthcare/../task/using-hr-healthcare.md).
 
 ## HR Service Delivery for Healthcare benefits
 

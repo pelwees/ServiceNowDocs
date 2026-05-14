@@ -19,7 +19,7 @@ Control certain elements of the agent experience in Agent Workspace. Define the 
 
 
 
-![Agent Workspace inbox availability states.](../image/agent-availability.png)
+![Agent Workspace inbox availability states.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/../image/agent-availability.png)
 
 AWA admins can define the presence states that agents choose in their inbox to indicate their availability. The default states are
 

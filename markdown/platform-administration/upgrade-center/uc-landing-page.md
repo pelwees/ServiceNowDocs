@@ -19,19 +19,19 @@ Use ServiceNow® Upgrade Center
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../common/image/icon-explore.png)Learn about Upgrade Center](uc-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../../../common/image/icon-explore.png)Learn about Upgrade Center](uc-explore.md)
 
 </td><td>
 
-[Use![](../image/uc-review-icon.png) Preview, schedule, monitor and review your upgrade](uc-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-review-icon.png) Preview, schedule, monitor and review your upgrade](uc-using.md)
 
 </td></tr><tr><td>
 
-[Administer![](../image/uc-administer-icon.png)Administering Upgrade Center](../reference/uc-administration.md)
+[Administer![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-administer-icon.png)Administering Upgrade Center](../reference/uc-administration.md)
 
 </td><td>
 
-[Reference![](../image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Center](../reference/uc-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-reference-icon.png) Learn miscellaneous information about Upgrade Center](../reference/uc-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

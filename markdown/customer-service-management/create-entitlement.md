@@ -29,7 +29,7 @@ Create an entitlement to define the type of support that a customer receives.
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Configure entitlements](configure-csm-entitlements.md) and [Create entitlements for CSM entities](c_CreateAnEntitlement.md).
+    For more information, see [Configure entitlements](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-entitlements.md) and [Create entitlements for CSM entities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/c_CreateAnEntitlement.md).
 
 4.  Select **Submit**.
 

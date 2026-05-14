@@ -67,11 +67,11 @@ The capacity data appears in the calendar based on the applied filters.
 **Related topics**  
 
 
-[Using the Capacity Console](../concept/capacity-and-reservation-management-console.md)
+[Using the Capacity Console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/../concept/capacity-and-reservation-management-console.md)
 
-[View territory and demand channel summary in the contextual side panel](view-territory-summary-in-capacity-console.md)
+[View territory and demand channel summary in the contextual side panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/view-territory-summary-in-capacity-console.md)
 
-[Update capacity value and reservation for a territory in capacity console](update-reservation-rule-in-capacity-console.md)
+[Update capacity value and reservation for a territory in capacity console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/update-reservation-rule-in-capacity-console.md)
 
-[Activate Field Service Capacity console](capacity-console-plugin.md)
+[Activate Field Service Capacity console](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/capacity-console-plugin.md)
 

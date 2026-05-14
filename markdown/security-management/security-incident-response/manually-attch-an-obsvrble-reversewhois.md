@@ -27,7 +27,7 @@ Role required: sn\_si.analyst
 
     **Note:** The figures in the following steps are shown with the **Tabbed forms** setting active in the System Settings. If you do not see tabs on the security incident, in the upper-right corner of the banner frame, click the **Settings** gear icon. In the **System Settings** dialog box that is displayed, click **Forms** and verify that **Tabbed forms** and **With the Form** are selected.
 
-    ![The Observables tab on the Security Incident Form.](../images/reverse-whois-new-observable.png)
+    ![The Observables tab on the Security Incident Form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-whois-new-observable.png)
 
 3.  On the Observables tab, click **New**.
 
@@ -39,7 +39,7 @@ Role required: sn\_si.analyst
     |Observable type|This field is automatically cleared.|
     |Finding|This field is automatically set to **Unknown**.|
 
-    ![Required fields on the new observable record.](../images/reverse-observable-mitchell-new.png)
+    ![Required fields on the new observable record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../images/reverse-observable-mitchell-new.png)
 
 5.  Click **Submit**.
 
@@ -48,11 +48,11 @@ Role required: sn\_si.analyst
 
 ## What to do next
 
-Verify the lookup results on the security incident. See [Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md).
+Verify the lookup results on the security incident. See [Verify expected results for Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md).
 
-**Parent Topic:**[Reverse Whois integration](../concept/reversewhois-lookups.md)
+**Parent Topic:**[Reverse Whois integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/reversewhois-lookups.md)
 
-**Previous topic:**[\(Optional\) Install and configure Whois](whois-install-and-config.md)
+**Previous topic:**[\(Optional\) Install and configure Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/whois-install-and-config.md)
 
-**Next topic:**[Verify expected results for Reverse Whois](verify-expected-rslts-rvrsewhois.md)
+**Next topic:**[Verify expected results for Reverse Whois](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md)
 

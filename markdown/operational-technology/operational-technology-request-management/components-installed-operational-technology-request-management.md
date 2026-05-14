@@ -78,5 +78,5 @@ NA
 |----|-----------|
 |OT Service Catalog|Service catalog provided for users to submit OT requests.|
 
-**Parent Topic:**[Operational Technology Request Management reference](../concept/operational-technology-request-management-reference.md)
+**Parent Topic:**[Operational Technology Request Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/../concept/operational-technology-request-management-reference.md)
 

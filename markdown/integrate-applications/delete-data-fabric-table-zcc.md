@@ -30,7 +30,7 @@ Role required: One of the following role combinations or admin.
 
     1.  Find the data fabric table that you want to delete.
 
-    2.  Select the More Actions icon \(![More actions icon](../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Delete**.
+    2.  Select the More Actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../../../administer/integrationhub/images/more-actions-menu-icon.png)\), and select **Delete**.
 
     3.  Confirm that you want to remove the table by selecting **Delete**.
 
@@ -39,5 +39,5 @@ Role required: One of the following role combinations or admin.
 
 The data fabric table is deleted and its data is no longer available on your instance.
 
-**Parent Topic:**[Managing data fabric tables](../concept/managing-data-fabric-tables-zcc.md)
+**Parent Topic:**[Managing data fabric tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/managing-data-fabric-tables-zcc.md)
 

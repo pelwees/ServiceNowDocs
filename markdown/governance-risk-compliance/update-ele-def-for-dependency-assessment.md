@@ -23,23 +23,23 @@ Role required: admin
 
     A list view of the Action Assignments table is displayed as shown in the example.
 
-    ![Action assignments table.](../image/prop-update-action-assignments-table.png)
+    ![Action assignments table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-action-assignments-table.png)
 
 2.  In the **Action label** column, enter the name of the assessment such as **Dependency Assessment** and select the assessment.
 
     A sample text string is displayed in the example.
 
-    ![Action label column.](../image/prop-update-dependency-assessment-action-label-column.png)
+    ![Action label column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-dependency-assessment-action-label-column.png)
 
     When you select the assessment, the form view of the Action Assignment table is displayed as shown in the example.
 
-    ![Dependency Assessment action.](../image/prop-update-advanced-view-action-assignment-table.png)
+    ![Dependency Assessment action.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-advanced-view-action-assignment-table.png)
 
 3.  In the form view of the Action Assignment table, select **Advanced View**.
 
     After you’ve selected the **Advanced View**, the properties for the selected action are displayed in the **Component Attributes** tab as shown in the example.
 
-    ![Component attributes.](../image/prop-update-componentattributes.png)
+    ![Component attributes.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/prop-update-componentattributes.png)
 
     An informational message is displayed on the screen: `To edit this record, click Here.`
 
@@ -49,16 +49,16 @@ Role required: admin
 
     A sample configuration of the **dependencyAssessmentElementsLimit** property is displayed in the example.
 
-    ![Sample configuration of the property.](../image/configuration-of-element-definition.png)
+    ![Sample configuration of the property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/configuration-of-element-definition.png)
 
 5.  Select **Update**.
 
     You’ve configured the **dependencyAssessmentElementsLimit** property as shown in the example.
 
-    ![Sample display of the property.](../image/configured-element-def.png)
+    ![Sample display of the property.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/configured-element-def.png)
 
     The updated number of the element definitions are displayed on the **Dependency Assessment** tab.
 
 
-**Parent Topic:**[Setup by system administrators](../concept/set-up-bcm-sys-admin-tasks.md)
+**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-sys-admin-tasks.md)
 

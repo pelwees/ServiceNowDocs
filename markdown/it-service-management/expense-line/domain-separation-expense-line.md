@@ -22,16 +22,16 @@ Domain separation is unsupported in Expense Line processing. Domain separation e
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[Expense Line](../../asset-and-configuration/concept/c_ExpenseLine.md)
+**Parent Topic:**[Expense Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../asset-and-configuration/concept/c_ExpenseLine.md)
 
 **Related topics**  
 
 
-[Components installed with Expense Line](../reference/r_InstalledWithExpenseLine.md#)
+[Components installed with Expense Line](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../reference/r_InstalledWithExpenseLine.md#)
 
-[View an expense](../../asset-and-configuration/task/t_ExpenseLinesExample.md)
+[View an expense](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/../../asset-and-configuration/task/t_ExpenseLinesExample.md)
 
-[Expense lines and expense allocations](c_ExpenseLinesAndAllocations.md)
+[Expense lines and expense allocations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/expense-line/c_ExpenseLinesAndAllocations.md)
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 

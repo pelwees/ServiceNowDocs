@@ -36,5 +36,5 @@ You can access recorded Zoom and Microsoft Teams meetings details from conferenc
     -   To review the Zoom meeting details, open a Zoom recording.
     -   To review the Microsoft Teams meeting details, open a Microsoft Teams recording.
 
-**Parent Topic:**[Integration with Virtual Conferencing](../concept/virtual-conference-integration-fsm.md)
+**Parent Topic:**[Integration with Virtual Conferencing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/../concept/virtual-conference-integration-fsm.md)
 

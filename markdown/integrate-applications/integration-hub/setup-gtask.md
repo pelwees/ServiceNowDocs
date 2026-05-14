@@ -56,7 +56,7 @@ Complete these steps from the [Google Developers Console](https://console.develo
 
 8.  Copy the Client ID and the Client Secret to a text file.
 
-    The animation demonstrates the setting up of OAuth Client ID. You must activate the Google Tasks API on [https://console.cloud.google.com/welcome?project=nowgsintegration](https://console.cloud.google.com/welcome?project=nowgsintegration) before creating an OAuth Client ID.![Set up OAuth Client ID.](../image/OAuth-client-ID.gif)
+    The animation demonstrates the setting up of OAuth Client ID. You must activate the Google Tasks API on [https://console.cloud.google.com/welcome?project=nowgsintegration](https://console.cloud.google.com/welcome?project=nowgsintegration) before creating an OAuth Client ID.![Set up OAuth Client ID.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/OAuth-client-ID.gif)
 
     **Tip:** Save the JSON file containing the OAuth client details for later reference.
 

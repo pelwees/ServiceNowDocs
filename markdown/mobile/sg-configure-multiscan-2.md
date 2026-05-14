@@ -19,7 +19,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the **UI Parameters** field, click the lookup icon \(![Lookup icon](../image/reference-lookup-icon.png)\) to display the UI parameters list.
+1.  In the **UI Parameters** field, click the lookup icon \(![Lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) to display the UI parameters list.
 
 2.  Click **New**.
 
@@ -40,5 +40,5 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[Configure a grouped input for multiple scans](sg-configure-multiscan.md)
+**Parent Topic:**[Configure a grouped input for multiple scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/sg-configure-multiscan.md)
 

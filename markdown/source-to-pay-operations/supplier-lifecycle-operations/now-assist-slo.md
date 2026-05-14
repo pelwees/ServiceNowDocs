@@ -20,15 +20,15 @@ Use the ServiceNow® Now Assist for Supplier Lifecycle Operations \(SLO\) applic
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Now Assist for SLO](now-assist-slo-exploring.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-explore.svg) Learn more about Now Assist for SLO](now-assist-slo-exploring.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SLO application to get started](../task/now-assist-slo-configuring.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the Now Assist for SLO application to get started](../task/now-assist-slo-configuring.md)
 
 </td><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities that are offered by Now Assist for SLO](now-assist-slo-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)Use generative AI capabilities that are offered by Now Assist for SLO](now-assist-slo-using.md)
 
 </td></tr></tbody>
 </table>**Important:** Some Now Assist products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For more information, see the [KB0743854](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0743854) article in the Now Support Knowledge Base. Please check for availability updates in future releases.

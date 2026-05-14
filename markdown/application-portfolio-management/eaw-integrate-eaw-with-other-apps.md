@@ -13,17 +13,17 @@ breadcrumb: [Enterprise Architecture Workspace, Enterprise Architecture]
 
 Understand the process required to set up Enterprise Architecture Workspace to work with key applications in the ServiceNow platform to provide a deep insight into the applications.
 
--   **[Enterprise Architecture Workspace integration with Lucidchart](eaw-integrate-with-lucid.md)**  
+-   **[Enterprise Architecture Workspace integration with Lucidchart](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-integrate-with-lucid.md)**  
 Create enhanced architectural diagrams for your Business Applications and Business Capabilities in Lucidchart and access them from your ServiceNow instance.
 
-**Parent Topic:**[Enterprise Architecture Workspace](../ea-workspace.md)
+**Parent Topic:**[Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../ea-workspace.md)
 
 **Related topics**  
 
 
-[Exploring Enterprise Architecture Workspace](../explore-eaw.md)
+[Exploring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../explore-eaw.md)
 
-[Configuring Enterprise Architecture Workspace](configure-eaw.md)
+[Configuring Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/configure-eaw.md)
 
-[Managing Enterprise Architecture Workspace](eaw-managing-ea-workspace.md)
+[Managing Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-managing-ea-workspace.md)
 

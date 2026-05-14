@@ -35,5 +35,5 @@ Drawbacks to this method include:
 
 ## Alternative method
 
-[LDAP refresh filters](r_LDAPRefreshFilters.md) use multiple import jobs to divide different types of user records, segregating records for separate processing.
+[LDAP refresh filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/r_LDAPRefreshFilters.md) use multiple import jobs to divide different types of user records, segregating records for separate processing.
 

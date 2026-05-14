@@ -34,7 +34,7 @@ The integration includes the following features:
 
 Below is the high-level architecture diagram depicting the components involved and integration points between NOW Platform and Check Point Systems.
 
-![Integration architecture](../image/integration-architecture.png)
+![Integration architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/integration-architecture.png)
 
 **Note:** The Check Point Systems logo, Anti-Virus Blade image, and Anti Bot Blade image are from Check Point Systems ©. They are the Property of Check Point Systems.
 
@@ -59,7 +59,7 @@ This integration requires the Custom Intelligence Feed of Check Point and Anti-B
 
 After installing the hot fix, ensure that below commands are accessible on Check Point Gateway. SSH to the Gateway and login to expert mode.
 
-![Commands available on the Check Point Gateway](../image/check-point-gateway-code.png)
+![Commands available on the Check Point Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/check-point-gateway-code.png)
 
 ## Supported ServiceNow versions
 

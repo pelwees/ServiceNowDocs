@@ -19,7 +19,7 @@ A resource pool is a query or script that filters a table. You configure a resou
 
 To limit a user to only the networks in a particular logical datacenter, use the resource pool called NetworkPool that runs against the Cloud Network \[cmdb\_ci\_network\] table. The resource pool uses a script to filter networks based on the datacenter that the network belongs to.
 
-![How a pool works](../image/pool-example.jpg)
+![How a pool works](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/pool-example.jpg)
 
 ## How pools work
 

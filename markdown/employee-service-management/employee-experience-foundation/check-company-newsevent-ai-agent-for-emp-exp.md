@@ -25,7 +25,7 @@ Verify that you have the following plugins:
 
 **Important:** To display the AI agent output to users in the Virtual Agent conversations, you must set the system property **sn\_aia.enable\_va\_conversation** value to **true**. By default, the property is set to **false**.
 
-![Checking company events in Now Assist](../images/uex-aiagent-event.png)![Checking more details about a specify event in Now Assist.](../images/uex-aiagent-eventtopic.png)![Latest news and events in Now Assist.](../images/uex-aiagent-steps.png)
+![Checking company events in Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-aiagent-event.png)![Checking more details about a specify event in Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-aiagent-eventtopic.png)![Latest news and events in Now Assist.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/uex-aiagent-steps.png)
 
 ## Company News &amp; Events AI Agent overview
 
@@ -44,7 +44,7 @@ To view the AI Agent, do the following:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Overview**.
 2.  Select **Company News &amp; Events AI Agent**.
 
-To activate, refer to [Activate Company News and Events AI Agent](../task/enable-company-news-and-events-ai-agent.md).
+To activate, refer to [Activate Company News and Events AI Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/enable-company-news-and-events-ai-agent.md).
 
 ## Tools used by Company News &amp; Events AI Agent
 

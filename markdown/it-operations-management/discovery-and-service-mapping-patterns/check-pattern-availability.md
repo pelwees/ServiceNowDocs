@@ -50,8 +50,8 @@ ServiceNow releases all discovery patterns using the following applications:
 
     **Global** stands for Visibility Content.
 
-    ![View the supporting application for patterns.](../image/pattern-list-check-plugin.png)
+    ![View the supporting application for patterns.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/pattern-list-check-plugin.png)
 
 
-**Parent Topic:**[Configuring Pattern Designer and related applications](../reference/configuring-pattern-designer-plugins.md)
+**Parent Topic:**[Configuring Pattern Designer and related applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../reference/configuring-pattern-designer-plugins.md)
 

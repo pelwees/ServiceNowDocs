@@ -25,9 +25,9 @@ Role required: admin
 
 2.  Select a widget or screen.
 
-    -   [Cart widgets](service-catalog-cart-widgets.md#): Item Ordering Widget, Shopping Cart Widget, or Item Ordering Widget \(Order Guide\)
-    -   [Preview screens](service-catalog-screens.md#): Cart Preview Screen, Cart Preview Screen \(Two Step\), Cart Preview Screen \(Wish List\), or Cart Preview Screen \(Classic Mobile\)
-    -   [Order status screens](service-catalog-status-screens.md#): Order Status Screen or Order, Status Screen \(Classic Mobile\)
+    -   [Cart widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-cart-widgets.md#): Item Ordering Widget, Shopping Cart Widget, or Item Ordering Widget \(Order Guide\)
+    -   [Preview screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-screens.md#): Cart Preview Screen, Cart Preview Screen \(Two Step\), Cart Preview Screen \(Wish List\), or Cart Preview Screen \(Classic Mobile\)
+    -   [Order status screens](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-status-screens.md#): Order Status Screen or Order, Status Screen \(Classic Mobile\)
 3.  Update the **Title** field to change the title that appears on the widget.
 
 4.  Leave the default **Target** value.
@@ -52,7 +52,7 @@ Role required: admin
     Some settings and properties in your instance can override or affect your cart layout.
 
 
-**Parent Topic:**[Cart layout](../concept/c_ConfigureCartLayout.md)
+**Parent Topic:**[Cart layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ConfigureCartLayout.md)
 
 ## Cart layout considerations
 
@@ -137,7 +137,7 @@ You can configure these macros to alter the display order of elements, or hide e
 
 2.  Click the order number entry of a macro to edit its display order, or to activate or deactivate it.
 
-    ![Configure widgets and column macros.](../image/Service_Catalog_Cart_Layout_Widget_Macro-Editable-Details.png)
+    ![Configure widgets and column macros.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/Service_Catalog_Cart_Layout_Widget_Macro-Editable-Details.png)
 
 3.  Click **Update**.
 
@@ -212,7 +212,7 @@ Role required: admin
 
 ### About this task
 
-Overrides any general [cart layout settings](t_ConfigureCartLayout.md#). For example, you can hide the price of an item by setting the **Omit price in cart** field to **true** for that item.
+Overrides any general [cart layout settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ConfigureCartLayout.md#). For example, you can hide the price of an item by setting the **Omit price in cart** field to **true** for that item.
 
 ### Procedure
 
@@ -245,5 +245,5 @@ For example, your cart layout record settings can hide item prices, but you migh
 
 **Note:**
 
-If you are [migrating to cart layouts](../concept/c_MigrateCartLayouts.md), you can have defined additional settings and properties that impact your cart layout settings.
+If you are [migrating to cart layouts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_MigrateCartLayouts.md), you can have defined additional settings and properties that impact your cart layout settings.
 

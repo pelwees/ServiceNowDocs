@@ -23,7 +23,7 @@ The insights\_admin role can create policies for AWS and GCP databases.
 
 Each successful execution of a Billing Download job triggers the Budget Forecast, Business Hours, Reservation Plans, Rightsizing, and Unused resources jobs to analyze the spend and usage data and to update the actionable recommendations in the reports. Business Hours jobs follow this process.
 
-![Process flow for Business Hours](../image/bh-policy-flow-diagram.png "How the Business Hours feature works")
+![Process flow for Business Hours](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/bh-policy-flow-diagram.png "How the Business Hours feature works")
 
 1.  For each Business hours policy, examine the CMDB to identify resources that match the policy criteria.
 2.  For each resource that matches a policy, update Business hours reports that show spend for business hours and non-business hours usage for the last 30 days.
@@ -44,7 +44,7 @@ Google Cloud only: The instance can be defined as a Managed instance groups \(MI
 
 ## Business hours policy
 
-![Business Hours policy example](../image/bh-policy-example.png)
+![Business Hours policy example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/bh-policy-example.png)
 
 The Finance department policy example has the following settings:
 
@@ -58,7 +58,7 @@ The Finance department policy example has the following settings:
 
 After the policy is applied, for each resource that matches the policy and where the change request was approved, the system starts the resource at 8:00AM and stops it at 5:00PM. The actual start and stop times vary slightly due to changes in system demand and the time that it takes for the resource to start and stop.
 
-![Result of the example Business Hours policy](../image/policy-illustration.png)
+![Result of the example Business Hours policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../image/policy-illustration.png)
 
 ## Business hours approval types
 
@@ -82,9 +82,9 @@ For each resource that matches the policy criteria, the actions that the policy 
 **Related topics**  
 
 
-[Define or update a Business hours policy](../task/bh-policy-create-cloudin.md)
+[Define or update a Business hours policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/bh-policy-create-cloudin.md)
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
 
-[Exclude a resource from all Cloud Cost Management reports](../task/exclusion-list-add-to-cloudin.md)
+[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/../task/exclusion-list-add-to-cloudin.md)
 

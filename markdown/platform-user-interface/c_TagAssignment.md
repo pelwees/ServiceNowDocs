@@ -17,7 +17,7 @@ The list view provides multiple ways of assigning tags. You can assign tags with
 
 **Note:** Tag names are case-insensitive and must not include punctuation.
 
-**Parent Topic:**[Tags](c_Tags.md)
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Assign a tag from the list view using inline field editing
 
@@ -108,7 +108,7 @@ Role required: none
 
 1.  Navigate to a form.
 
-2.  Select the more options icon \(![More options icon](../../using-forms/image/IconUI16MoreOptions.png)\) in the form header.
+2.  Select the more options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-forms/image/IconUI16MoreOptions.png)\) in the form header.
 
 3.  Select **Add Tag**.
 

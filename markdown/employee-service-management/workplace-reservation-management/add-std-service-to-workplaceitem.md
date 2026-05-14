@@ -17,7 +17,7 @@ Add a standard service to a workplace space or room based on where it is made av
 
 ## Before you begin
 
-[Create a standard service](add-standard-services.md)
+[Create a standard service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)
 
 Role required: sn\_wsd\_rsv.admin
 
@@ -39,7 +39,7 @@ Role required: sn\_wsd\_rsv.admin
 
     2.  Move the selection to the **Standard Services List** column on the right.
 
-        Use the Add-remove. ![Standard services Add-remove icon](../image/add-remove-icon.png) icon to move the services.
+        Use the Add-remove. ![Standard services Add-remove icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/../image/add-remove-icon.png) icon to move the services.
 
 6.  Click **Save**.
 
@@ -48,5 +48,5 @@ Role required: sn\_wsd\_rsv.admin
 
 The Standard service is added to the selected workplace space or room.
 
-**Parent Topic:**[Create a standard service](add-standard-services.md)
+**Parent Topic:**[Create a standard service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)
 

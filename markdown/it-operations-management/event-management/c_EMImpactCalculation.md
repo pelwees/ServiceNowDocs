@@ -28,11 +28,11 @@ Impact calculations are available for application services alert groups. The fol
 
     -   CIs are considered to be in maintenance not only when an active change request is scheduled, but also when the **Status** field of the CI is set to **In Maintenance**.
     -   When a child CI is put in maintenance, it also places the parent CI in maintenance.
--   By default, impact is calculated for all operational application services. However, the system allows you to filter impact calculation by service class or by individual application service. For more information, see [Add CMDB tables or classes for impact calculation](../task/add-cmdb-tables-impact-cal.md) and [Add application services for impact calculation](../task/add-impact-cal-services.md).
+-   By default, impact is calculated for all operational application services. However, the system allows you to filter impact calculation by service class or by individual application service. For more information, see [Add CMDB tables or classes for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/add-cmdb-tables-impact-cal.md) and [Add application services for impact calculation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/add-impact-cal-services.md).
 
 If there is a connection between services, the impact of one service on the other is also calculated.
 
-![Factors that affect impact status](../image/EventManagementArchitecture.png "Impact calculations use information from various sources to set the alert severity")
+![Factors that affect impact status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/EventManagementArchitecture.png "Impact calculations use information from various sources to set the alert severity")
 
 ## How impact is calculated
 
@@ -54,7 +54,7 @@ Impact calculation varies depending on the CI relationships for a application se
 
     -   CIs are considered to be in maintenance not only when an active change request is scheduled, but also when the **Status** field of the CI is set to **In Maintenance**.
     -   When a child CI is put in maintenance, it also places the parent CI in maintenance.
-    For a service, all alerts on CIs in the service are also hidden from the Alerts tab. The entire service is shown in green on the impact tree. For a host with an active change request, the host applications are considered as one unit. All child applications are treated in the same manner as the host until the change request is no longer active. For additional information, see [How alerts work with CIs in maintenance](c_EMHowImpactTree.md).
+    For a service, all alerts on CIs in the service are also hidden from the Alerts tab. The entire service is shown in green on the impact tree. For a host with an active change request, the host applications are considered as one unit. All child applications are treated in the same manner as the host until the change request is no longer active. For additional information, see [How alerts work with CIs in maintenance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMHowImpactTree.md).
 
 -   **Network paths**
 
@@ -101,7 +101,7 @@ The Impact Rule \[em\_impact\_rule\] table contains impact rules that show the a
 
     You can configure different impact rules per cluster and thus the child CI impact propagation to the parent \(for the same child CI\) will be different. Therefore, you can manually create groups of Cis \(aka manual clusters\) and configure the impact rule at the cluster level for downstream towards the cluster children.
 
-    ![child CI severity is propagated differently to each parent service](../image/manual-cluster.png "Example where the same child CI will propagate its impact to its parent cluster differently to each cluster")
+    ![child CI severity is propagated differently to each parent service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/manual-cluster.png "Example where the same child CI will propagate its impact to its parent cluster differently to each cluster")
 
     In the above example, there are two entry points. The Osaka cluster on the right-hand side has three CIs. The Tokyo cluster on the left-hand side has two CIs. The Tokyo and Osaka backup server has shared parents - Tokyo cluster and Osaka cluster. On the right-hand panel you can see the Impact Tree where the Tokyo cluster has two Application Cluster Members with 50% influence each and the Osaka cluster has three with 34% influence each.
 

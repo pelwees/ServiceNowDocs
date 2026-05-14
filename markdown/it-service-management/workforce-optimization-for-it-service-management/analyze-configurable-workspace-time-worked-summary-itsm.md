@@ -24,13 +24,13 @@ Role required: sn\_shift\_planning.admin
 **Note:**
 
 -   Historical adherence provides a reports of real-time adherence.
--   Adherence and conformance calculations are based on your agents' actual and planned work schedules. Your administrator can modify the schedule adherence and conformance configurations. For more information, see [Schedule Adherence reference](../reference/configure-adherence-parameters-wfo-itsm.md).
+-   Adherence and conformance calculations are based on your agents' actual and planned work schedules. Your administrator can modify the schedule adherence and conformance configurations. For more information, see [Schedule Adherence reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../reference/configure-adherence-parameters-wfo-itsm.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Lists icon \(![Lists icon](../../itsm-manager-workspace/image/lists_icon.png)\)
+2.  Click the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/lists_icon.png)\)
 
 3.  In the **Schedule Adherence** category, do any of the following:
 
@@ -52,5 +52,5 @@ To understand the computations of the fields in a time worked summary, let's con
 
 **Note:** Fatima Alonzo is adherent because the schedule adherence and conformance are within the threshold. To see which agents are non-adherent, look for the numbers that are highlighted in red.
 
-**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](../concept/schedule-adherence-configurable-itsm.md)
+**Parent Topic:**[Schedule Adherence in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/schedule-adherence-configurable-itsm.md)
 

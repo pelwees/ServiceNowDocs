@@ -17,7 +17,7 @@ Picklist extensions provide three benefits:
 
 -   Display: Picklist extensions display the option data that resides in a picklist field, along with additional information that corresponds to each picklist. The graphic below is a single-select picklist in the form of a grid check box with three options, displayed as a picklist extension. Values of picklist options are in the leftmost column \(value\). All other columns are extended information.
 
-    ![Visual picker](../images/cpq-picklist-extensions-ples-1.png)
+    ![Visual picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-picklist-extensions-ples-1.png)
 
 -   Optional implicit filtering \(include/exclude rules\): When tied to another field, options are filtered without having to write additional rules.
 -   Optional implicit product rules: The Admin can define a product and quantity for each selectable option.
@@ -25,5 +25,5 @@ Picklist extensions provide three benefits:
 **Related topics**  
 
 
-[Configure picklist extensions](../task/cpq-picklist-extensions-tutorial.md)
+[Configure picklist extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/cpq-picklist-extensions-tutorial.md)
 

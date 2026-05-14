@@ -117,5 +117,5 @@ Performance Analytics Technical Expert, with at least the pa\_data\_collector ro
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Implement Performance Analytics](implementing-pa.md)
+</table>**Parent Topic:**[Implement Performance Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)
 

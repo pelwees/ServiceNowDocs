@@ -37,14 +37,14 @@ You can use a step input as a template for an action input. Workflow Studio can 
 
 6.  Select the plus icon next to the **Inputs** option.
 
-    ![Example data pill picker with a plus sign next to the Inputs option.](../images/create-action-input-from-step-input.png)
+    ![Example data pill picker with a plus sign next to the Inputs option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-action-input-from-step-input.png)
 
 
 ## Result
 
 Workflow Studio creates an input named after the step and input type. For example create\_record\_table\_name, which is an input created for the Create Record step and the Table input. The action input is of the same data type as the step input, for example Table Name. The step input is mapped to the new action input, and the action input is available from the Data pane.
 
-![Example action input named after the create record step.](../images/create-action-input-from-step-input-mapping.png)
+![Example action input named after the create record step.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/create-action-input-from-step-input-mapping.png)
 
-**Parent Topic:**[Create an action in Workflow Studio](create-action.md)
+**Parent Topic:**[Create an action in Workflow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/create-action.md)
 

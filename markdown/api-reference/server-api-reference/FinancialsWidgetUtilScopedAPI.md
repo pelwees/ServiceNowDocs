@@ -24,7 +24,7 @@ The following widgets are available in Project Workspace and Strategic Planning 
 
 You can use the FinancialsWidgetUtil script include to add child widgets that show values for a specified time period or expense type.
 
-![This screenshot shows widgets for Budget, Estimate at Completion, Budget vs EAC Variance, Planned Cost, and Actual Cost to Date.](../image/financials-widgets.png "Financials section in Project Workspace")
+![This screenshot shows widgets for Budget, Estimate at Completion, Budget vs EAC Variance, Planned Cost, and Actual Cost to Date.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../image/financials-widgets.png "Financials section in Project Workspace")
 
 In this example from Project Workspace, the Planned Cost widget has child widgets that show CapEx and OpEx values, while the Budget widget doesn't have any child widgets.
 
@@ -32,7 +32,7 @@ To use this script include, [create a child widget](https://raw.githubuserconten
 
 The FinancialsWidgetUtil script include requires the Financials Core application \(sn\_invst\_pln\), as well as the Strategic Planning application \(sn\_apw\_advanced\) or Project Workspace application \(sn\_pw\). This script include is provided within the `sn_invst_pln` namespace.
 
-**Parent Topic:**[Server API reference](../../../../../build/applications/concept/api-server.md)
+**Parent Topic:**[Server API reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../../../../build/applications/concept/api-server.md)
 
 ## FinancialsWidgetUtil - FinancialsWidgetUtil\(GlideRecord investmentGr, Object timeScope, String expenseType\)
 
@@ -58,7 +58,7 @@ investmentGr
 
 </td><td>
 
-[GlideRecord](../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
+[GlideRecord](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/../../glideRecordScoped/concept/c_GlideRecordScopedAPI.md#)
 
 </td><td>
 

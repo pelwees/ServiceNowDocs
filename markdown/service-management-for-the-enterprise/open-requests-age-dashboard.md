@@ -13,7 +13,7 @@ breadcrumb: [Request Management Platform Analytics Solutions, Request Management
 
 Use this dashboard when you wish to dive into open requests divided by Age.
 
-![Open request age monitor showing the 0-1 day bucket](../image/open-req-age-monitor.png)
+![Open request age monitor showing the 0-1 day bucket](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/../image/open-req-age-monitor.png)
 
 ## Indicators
 
@@ -56,5 +56,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Priority
 -   State
 
-**Parent Topic:**[Request Management Platform Analytics Solutions](request-content-pack.md)
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 

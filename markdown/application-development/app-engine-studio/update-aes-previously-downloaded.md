@@ -29,7 +29,7 @@ Role required: admin
 
 3.  Select the App Engine Studio product card.
 
-    ![App Engine Studio product card highlighted in the Application Manager.](../image/aes-activate-plugin-as1.png)
+    ![App Engine Studio product card highlighted in the Application Manager.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../image/aes-activate-plugin-as1.png)
 
 4.  Select the **Proceed to update** button.
 
@@ -46,5 +46,5 @@ Role required: admin
 
 App Engine Studio automatically updates on the instance.
 
-**Parent Topic:**[AES and the ServiceNow Store](../concept/aes-installation-store.md)
+**Parent Topic:**[AES and the ServiceNow Store](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../concept/aes-installation-store.md)
 

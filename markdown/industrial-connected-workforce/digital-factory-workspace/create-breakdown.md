@@ -25,7 +25,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 2.  On the Breakdown form, fill in the fields.
 
-    For a description of the field values, see [Deviation form](../reference/deviation-form.md).
+    For a description of the field values, see [Deviation form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../reference/deviation-form.md).
 
 3.  Select **Save**.
 
@@ -33,16 +33,16 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 4.  Write and post work notes with additional details about the progress and steps you have taken.
 
-    To view the **Work notes** field next to other record details, make sure that you select the **Editable record form and list of record activities** view by selecting the view selector icon \(![Editable record form and list of record activities view icon.](../image/editable-record-form-and-list-of-record-activities-view-icon.png)\).
+    To view the **Work notes** field next to other record details, make sure that you select the **Editable record form and list of record activities** view by selecting the view selector icon \(![Editable record form and list of record activities view icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../image/editable-record-form-and-list-of-record-activities-view-icon.png)\).
 
 5.  From the Recommendations sidebar, create a guided task related to the breakdown.
 
-    To learn more about the Recommended Actions in the Digital Factory Workspace, see [Recommended Actions for the Industrial Connected Workforce](../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md).
+    To learn more about the Recommended Actions in the Digital Factory Workspace, see [Recommended Actions for the Industrial Connected Workforce](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../../icw-industrial-connected-workforce/concept/recommended-actions-icw.md).
 
 
 ## Result
 
 The breakdown is displayed in the breakdown list of and the list of all tasks. You can fix the breakdown and initiate a breakdown analysis for in-depth investigation.
 
-**Parent Topic:**[Breakdown Management](../concept/breakdown-analysis.md)
+**Parent Topic:**[Breakdown Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/../concept/breakdown-analysis.md)
 

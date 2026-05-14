@@ -60,7 +60,7 @@ Under **Create from template**, select a template. The checklist items in the te
 
 8.  Click the minus \(-\) icon to delete a checklist item.
 
-9.  Click the drag icon \(![Drag icon](../image/IconDrag.png)\) and drag a checklist item to a different position in the list.
+9.  Click the drag icon \(![Drag icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/IconDrag.png)\) and drag a checklist item to a different position in the list.
 
 10. Save the checklist as a template for easy reuse.
 
@@ -83,12 +83,12 @@ Under **Create from template**, select a template. The checklist items in the te
 11. Save the form.
 
 
-**Parent Topic:**[Checklists](../concept/c_Checklists.md)
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Checklists.md)
 
 **Related topics**  
 
 
-[Activate checklists](t_ActivateChecklists.md)
+[Activate checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ActivateChecklists.md)
 
-[Delete checklist or a template](t_DeleteAChecklist.md)
+[Delete checklist or a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_DeleteAChecklist.md)
 

@@ -42,20 +42,20 @@ Activities that are configured to be completed independently by AI agents are au
 
 In the following example, Beth Anglin, a CSM / FSM Workspaces user, is creating a contract record for renewal. Traditionally, this process involves manually reviewing records, calculating discount percentages, verifying compliance, and drafting an email to the customer. With Agentic Playbooks, the process is streamlined as AI agents perform these tasks upon saving the contract record.
 
-1.  As soon as Beth saves the new contract record, the **Playbook** tab appears, and the AI agents start calculating the discount percentage. ![On the Playbook tab of the contract record, NowAssist agents are calculating discount.](../images/agentic-playbook-contracts-save.png)
-2.  Beth selects **View progress** to monitor the activities performed by the AI agents. ![The Now Assist panel displays the progress of the agents.](../images/agentic-playbook-view-progress.png)
+1.  As soon as Beth saves the new contract record, the **Playbook** tab appears, and the AI agents start calculating the discount percentage. ![On the Playbook tab of the contract record, NowAssist agents are calculating discount.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-contracts-save.png)
+2.  Beth selects **View progress** to monitor the activities performed by the AI agents. ![The Now Assist panel displays the progress of the agents.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-view-progress.png)
 
     The Now Assist panel displays the activities performed by the AI agents.
 
-    ![Now Assist panel displaying the AI activities.](../images/agentic-playbook-progress.png)
+    ![Now Assist panel displaying the AI activities.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-progress.png)
 
-3.  Beth reviews the AI generated discount percentage and can update it if necessary. ![Beth reviews the AI generates discount percentage and submits.](../images/agentic-playbook-edit-discount.png)
+3.  Beth reviews the AI generated discount percentage and can update it if necessary. ![Beth reviews the AI generates discount percentage and submits.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-edit-discount.png)
 
-    **Note:** If the activity is configured to be completed independently by AI agents, the agents calculate the offered discount percentage, populate the discount details, complete the activity, and automatically move to the next activity in the playbook. See [Configuring Agentic Playbooks](configure-agentic-playbooks.md).
+    **Note:** If the activity is configured to be completed independently by AI agents, the agents calculate the offered discount percentage, populate the discount details, complete the activity, and automatically move to the next activity in the playbook. See [Configuring Agentic Playbooks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-agentic-playbooks.md).
 
-4.  By selecting the **How** button, Beth can view a summary of the AI agents' calculation process. ![Beth clicks How button to view the process the AI agents took to calculate the discount.](../images/agentic-playbook-agent-how.png)
+4.  By selecting the **How** button, Beth can view a summary of the AI agents' calculation process. ![Beth clicks How button to view the process the AI agents took to calculate the discount.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-agent-how.png)
 5.  After submitting the discount, AI agents start drafting an email for Beth, ensuring a seamless experience.
-6.  Beth reviews the drafted email and selects to send it to the customer. ![Beth review the email draft and selects Send.](../images/agentic-playbook-send-email.png)
+6.  Beth reviews the drafted email and selects to send it to the customer. ![Beth review the email draft and selects Send.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/agentic-playbook-send-email.png)
 
 By leveraging Agentic Playbooks, Beth efficiently manages the contract renewal process, reducing manual effort and enhancing customer communication.
 

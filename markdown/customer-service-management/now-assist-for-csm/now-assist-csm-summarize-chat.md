@@ -39,11 +39,11 @@ The chat summarization skill enables you to do the following actions:
 
 2.  In CSM Configurable Workspace, open a chat from your inbox.
 
-    The chat summarization skill creates an inline summary in the Active Chat window. This summary includes the customer’s issue and the actions that the customer has taken before the customer engaged with a live agent. The summary appears in the Active Chat window and is identified by the Now Assist icon \(![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) and the **AI chat summary** label.
+    The chat summarization skill creates an inline summary in the Active Chat window. This summary includes the customer’s issue and the actions that the customer has taken before the customer engaged with a live agent. The summary appears in the Active Chat window and is identified by the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) and the **AI chat summary** label.
 
-    ![AI-generated chat summaries for an interaction.](../image/now-assist-csm-chat-summary.png "Interaction record with chat summaries")
+    ![AI-generated chat summaries for an interaction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/now-assist-csm-chat-summary.png "Interaction record with chat summaries")
 
-3.  Provide feedback for the chat summary by selecting the helpful icon \(![Helpful icon.](../image/icon-helpful.png)\) or not helpful icon \(![Not helpful icon.](../image/icon-not-helpful.png)\) on the summary card.
+3.  Provide feedback for the chat summary by selecting the helpful icon \(![Helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-helpful.png)\) or not helpful icon \(![Not helpful icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/icon-not-helpful.png)\) on the summary card.
 
     This feedback improves the generative AI model and can help to improve the future versions of this skill. The system gathers the feedback on each generated summary and stores it in the generative AI logs \(sys\_generative\_ai\_log\_list.do\).
 
@@ -57,7 +57,7 @@ The chat summarization skill enables you to do the following actions:
 
 6.  If Live Agent to Live Agent handoff is enabled, transfer a chat to another agent after accepting an incoming chat with the following steps:
 
-    1.  Select the Transfer to Agent icon ![Transfer to agent icon](../../../reuse/icons/product-icons/user-transfer-fill-24.svg)to transfer the interaction to another agent.
+    1.  Select the Transfer to Agent icon ![Transfer to agent icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/product-icons/user-transfer-fill-24.svg)to transfer the interaction to another agent.
 
     2.  Select the name of another live agent.
 
@@ -82,7 +82,7 @@ The chat summarization skill enables you to do the following actions:
 
 If necessary, you can create a case from an interaction record. The system uses the information from the **Short description** and **Chat Summary** fields on the interaction record to populate the **Short description** and **Description** fields on the case record.
 
-The system displays the Now Assist icon \(![Now assist icon.](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) next to these fields and removes the icon if the agent makes changes to the fields and saves the record.
+The system displays the Now Assist icon \(![Now assist icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)\) next to these fields and removes the icon if the agent makes changes to the fields and saves the record.
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 

@@ -28,19 +28,19 @@ The Summary and insights page shows opportunities for optimizing your process. Y
 
 The Goals and KPIs section is configured from the UI Builder.
 
-From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [KPI Details](../../../use/par-for-workspace/concept/kpi-details.md) view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
+From the Goals and KPIs section, choose a visualization to analyze indicator details more closely from the [KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../use/par-for-workspace/concept/kpi-details.md) view. KPI Details shows you trends, predictions, breakdowns, and associated records for a specific indicator. The KPI Details page leads you to deeper information behind your key performance indicators.
 
-![Summary and Insights - Goals and KPIs example](../image/summary-insights-goals-kpis.png)
+![Summary and Insights - Goals and KPIs example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/summary-insights-goals-kpis.png)
 
 **Improvement opportunities overview**
 
 From the Opportunities overview section, you can see opportunities sorted by category, type, KPIs, and project actions taken in four different cards.
 
-![Summary and Insights - Improvement Opportunities overview examples](../image/summary-insights2.png)
+![Summary and Insights - Improvement Opportunities overview examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/summary-insights2.png)
 
 **Improvement opportunities list**
 
-![Improvement opportunities list](../image/imp-opp-list.png)
+![Improvement opportunities list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/imp-opp-list.png)
 
 The rules that you configure discover business findings. For example, you might configure rules which show:
 
@@ -62,7 +62,7 @@ To generate a project for a selected insight, select on the card to get to Analy
 
 From the Bottleneck Analysis section, you can see identified bottleneck sources discovered in your process records.
 
-![Summary and insights - Bottleneck analysis showing transitions](../image/summary-insights-bottleneck-analysis.png)
+![Summary and insights - Bottleneck analysis showing transitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/summary-insights-bottleneck-analysis.png)
 
 Select a breakdown to refine the routes list, then sort the list by:
 
@@ -74,7 +74,7 @@ Select a breakdown to refine the routes list, then sort the list by:
 
 **Bottleneck Analysis - Breakdowns**
 
-![Bottleneck Analysis by breakdown](../image/bottleneck-analysis-breakdowns.png)
+![Bottleneck Analysis by breakdown](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/bottleneck-analysis-breakdowns.png)
 
 Select **View in Workbench** to view the project for the selected transition.
 
@@ -82,14 +82,14 @@ Select **View in Workbench** to view the project for the selected transition.
 
 All routes for a process show in the Variation Analysis section. You can sort the order for routes by highlights, number of records, average duration, or steps.
 
-![Variation analysis showing variation of routes](../image/summary-insights-variation-analysis.png)
+![Variation analysis showing variation of routes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/summary-insights-variation-analysis.png)
 
 Select **View in Workbench** to view the project for an individual route.
 
-**Parent Topic:**[Analyzing and getting process insights](analyze-get-process-insights.md)
+**Parent Topic:**[Analyzing and getting process insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyze-get-process-insights.md)
 
 **Related topics**  
 
 
-[KPI Details](../../../use/par-for-workspace/concept/kpi-details.md)
+[KPI Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../../../use/par-for-workspace/concept/kpi-details.md)
 

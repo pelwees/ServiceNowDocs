@@ -27,9 +27,9 @@ Role required: cdm\_editor or cdm\_admin
 
 ## Procedure
 
-1.  To add a collection to the application: While working in a changeset, select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for the **collection** node and select **Create collection**.
+1.  To add a collection to the application: While working in a changeset, select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for the **collection** node and select **Create collection**.
 
-2.  To edit individual data items, you can either work directly in the code or select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for an item and select an action, as follows.
+2.  To edit individual data items, you can either work directly in the code or select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for an item and select an action, as follows.
 
 <table id="choicetable_hkz_r4h_tpb"><thead><tr><th align="left" id="d405134e101">
 
@@ -123,7 +123,7 @@ View the administrative information associated with the collection.
 View direct relationships with the node. Direct relationships are formed between nodes by inheritance or by being included.
 
 </td></tr></tbody>
-</table>3.  Add a CDI: Select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) for the item and select **Create CDI**.
+</table>3.  Add a CDI: Select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) for the item and select **Create CDI**.
 
 <table id="table_h53_jmt_spb"><thead><tr><th>
 
@@ -193,17 +193,17 @@ Option to specify that the value of the CDI should be encrypted. This option app
 </td></tr></tbody>
 </table>4.  Add CDI settings that will override or overlay settings in collections.
 
-    For more information, see [Define or update a component](cdm-component-define.md).
+    For more information, see [Define or update a component](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-define.md).
 
 
 **Related topics**  
 
 
-[CDM data model](../reference/cdm-data-model.md)
+[CDM data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/cdm-data-model.md)
 
-[Viewing and editing config data](../concept/cdm-editing-config-data-changesets.md)
+[Viewing and editing config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-editing-config-data-changesets.md)
 
-[How encrypted data is handled](../concept/cdm-secrets-managing.md)
+[How encrypted data is handled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../concept/cdm-secrets-managing.md)
 
-[Create or update a variable CDI](cdm-variables-crud.md)
+[Create or update a variable CDI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 

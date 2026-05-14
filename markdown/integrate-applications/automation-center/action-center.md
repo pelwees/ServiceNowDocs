@@ -21,9 +21,9 @@ Action Center provides the following benefits:
 -   Fix common repeated issues without any dependence on the administrator.
 -   Business users can initiate actions to fix issues directly from Action Center without navigating to other technology platforms, such as Workflow Studio, ServiceNow® Robotic Process Automation, or UiPath.
 
-![Action Center](../images/action-center-page.png)
+![Action Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../images/action-center-page.png)
 
-For detailed information, see [Working with actions](actions.md).
+For detailed information, see [Working with actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/actions.md).
 
-**Parent Topic:**[Exploring Automation Center](automation-center-explore.md)
+**Parent Topic:**[Exploring Automation Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/automation-center-explore.md)
 

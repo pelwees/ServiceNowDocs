@@ -38,16 +38,16 @@ Configure the width of the Employee Center Pro banner widget, in one of the foll
 
 4.  To keep the banner compressed, change the **Width** to **Fixed** and select **Update**.
 
-    ![The image shows the compressed home page banner provided with fixed view.](../images/fixed-view.jpg "Fixed width view")
+    ![The image shows the compressed home page banner provided with fixed view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/fixed-view.jpg "Fixed width view")
 
 5.  To expand the banner to fit the screen, change the **Width** to **Fluid** and select **Update**.
 
-    ![The image shows a fit-to-screen banner provided with fluid width view.](../images/fluid-view.jpg "Fluid width view")
+    ![The image shows a fit-to-screen banner provided with fluid width view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/fluid-view.jpg "Fluid width view")
 
 
 ## Result
 
 Set the banner widget on the Employee Center Pro home page to your preferred width.
 
-**Parent Topic:**[Configure employee communications widgets](../concept/employee-comms-widgets.md)
+**Parent Topic:**[Configure employee communications widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/employee-comms-widgets.md)
 

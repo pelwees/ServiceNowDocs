@@ -29,7 +29,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 4.  Select **Create assessments** to trigger assessments to the users.
 
-    ![Create assessments](../image/slo-create-assmnt.png)
+    ![Create assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/slo-create-assmnt.png)
 
 
 ## Result
@@ -44,5 +44,5 @@ The assessment is created and runs in the background. The status of the assessme
 |**Cancelled**|When cancelled using the **Cancel** related list action. The Assessment Template Relationship record and all related assessment instances move to the Cancelled state.|
 |**Error**|When an error occurs during assessment creation, or when assessment instance creation fails for one or more assignees. The Assessment Template Relationship record moves to the Error state.|
 
-**Parent Topic:**[Configure smart assessments](configure-smart-assessments.md)
+**Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 

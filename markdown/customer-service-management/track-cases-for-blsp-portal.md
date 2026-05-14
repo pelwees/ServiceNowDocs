@@ -13,7 +13,7 @@ breadcrumb: [Create cases, Using the Business Location Service Portal, Customer 
 
 Track cases on behalf of a business location against sold products deployed at a business location, or against installed base items deployed at a business location.
 
-![Filter options for My Lists widget on the Business Location Service Portal.](../image/my-lists-widget.png "My Lists widget on the Business Location Service Portal")
+![Filter options for My Lists widget on the Business Location Service Portal.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/my-lists-widget.png "My Lists widget on the Business Location Service Portal")
 
 Depending on the roles assigned to the logged-in user, the widget displays the following filters.
 
@@ -31,5 +31,5 @@ Depending on the roles assigned to the logged-in user, the widget displays the f
 **Related topics**  
 
 
-[Using the Business Location Service Portal](using-blsp-portal.md)
+[Using the Business Location Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/using-blsp-portal.md)
 

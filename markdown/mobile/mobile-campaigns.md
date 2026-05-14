@@ -21,7 +21,7 @@ To set up a campaign to display on mobile devices, you must have the Employee Ce
 
 You create campaign content through Content Experiences with Employee Center Pro. For more information, see [Campaigns for Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md) and [Configure mobile content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-delivery-mobile.md).
 
-![Mobile campaign example with an image, text, and video card](../image/campaigns-3-diff-egs.png "Examples of a mobile campaign with an image, text, and video card")
+![Mobile campaign example with an image, text, and video card](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/campaigns-3-diff-egs.png "Examples of a mobile campaign with an image, text, and video card")
 
 ## Displaying mobile campaign process
 

@@ -118,6 +118,6 @@ User responsible for providing evidence.
 Instructions for providing evidence. For example, list of supporting documents, files, and so on.
 
 </td></tr></tbody>
-</table>    ![Request evidence form.](../image/request_evidence_itam.png)
+</table>    ![Request evidence form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/../image/request_evidence_itam.png)
 
 

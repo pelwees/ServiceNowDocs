@@ -29,7 +29,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst or sn\_grc\_a
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New AI case, see [Create new AI issue form](create-a-new-ai-issue-form.md).
+    For a description of the field values on the Create New AI case, see [Create new AI issue form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-new-ai-issue-form.md).
 
 5.  Select **Save**.
 

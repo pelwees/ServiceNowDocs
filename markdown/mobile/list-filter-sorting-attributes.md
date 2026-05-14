@@ -25,7 +25,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  From the **Item Sorting** field, select the reference lookup icon \(![Reference lookup icon](../image/reference-lookup-icon.png)\) and select the item sorting entry to configure.
+3.  From the **Item Sorting** field, select the reference lookup icon \(![Reference lookup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/reference-lookup-icon.png)\) and select the item sorting entry to configure.
 
 4.  Define attributes to configure for the selected item sorting.
 
@@ -93,5 +93,5 @@ Action
 
 After configuring various sorting display options, your filter sorting configuration may look like the one in the image.
 
-![Filter things](../image/mobile-filter-sort-customize.png)
+![Filter things](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-filter-sort-customize.png)
 

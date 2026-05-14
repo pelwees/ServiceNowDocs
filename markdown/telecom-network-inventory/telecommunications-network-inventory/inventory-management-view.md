@@ -30,7 +30,7 @@ The Inventory management view displays the network inventory details such as equ
 
 Use the **Overview** tab for a consolidated view of various network inventory data within a network site that you’re selected.
 
-![Inventory Management view of the current status of network assets.](../image/inventory-management-view.png "Inventory management view")
+![Inventory Management view of the current status of network assets.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/inventory-management-view.png "Inventory management view")
 
 Select any widget or chart to view the list of items that needs your action.
 
@@ -112,7 +112,7 @@ Port availability
 Number of available ports across the equipment models.
 
 </td></tr></tbody>
-</table>**Note:** To learn more about how the count data is collected and refreshed in the workspace landing page, see [Data collection and refresh for the Network Inventory Workspace widgets](data-collection-niw-widgets.md). To learn how to customize the content that appears in each widget, see [Customizing the content in your Network Inventory Workspace widgets](customizing-content-in-your-network-inventory-workspace-widgets.md).
+</table>**Note:** To learn more about how the count data is collected and refreshed in the workspace landing page, see [Data collection and refresh for the Network Inventory Workspace widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/data-collection-niw-widgets.md). To learn how to customize the content that appears in each widget, see [Customizing the content in your Network Inventory Workspace widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customizing-content-in-your-network-inventory-workspace-widgets.md).
 
 ## Inventory list tab
 
@@ -122,7 +122,7 @@ Use the **Inventory list** tab to view a list of network sites or network assets
 -   All the network sites that are available in the global location.
 -   Network assets such as equipment and connections that are associated with each network site.
 
-![List view of network sites in the Hyderabad location.](../image/inventory-list-view.png "Inventory list tab")
+![List view of network sites in the Hyderabad location.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/inventory-list-view.png "Inventory list tab")
 
 You can perform the following actions in the **Inventory list** tab.
 
@@ -135,7 +135,7 @@ You can perform the following actions in the **Inventory list** tab.
 
 ## Accessing the Inventory management view
 
-To open the Inventory management view, select the database search icon \(![Database Search Icon](../image/icon-database-search.png)\) on the side panel.
+To open the Inventory management view, select the database search icon \(![Database Search Icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../image/icon-database-search.png)\) on the side panel.
 
-**Parent Topic:**[Network Inventory Workspace](exploring-network-inventory-workspace.md)
+**Parent Topic:**[Network Inventory Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 

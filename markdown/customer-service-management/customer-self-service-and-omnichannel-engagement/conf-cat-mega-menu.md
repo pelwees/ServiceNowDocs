@@ -17,7 +17,7 @@ Configure a Portal Mega Menu widget to define a menu category and associate page
 
 ## Before you begin
 
-The UI Components for Customer Portals plugin must be installed. For more information, see [Activate the UI Components for Customer Portals plugin](activate-config-portal-widget.md).
+The UI Components for Customer Portals plugin must be installed. For more information, see [Activate the UI Components for Customer Portals plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/activate-config-portal-widget.md).
 
 Role required: sp\_admin
 
@@ -29,7 +29,7 @@ Role required: sp\_admin
 
 3.  Select **Customer Service**.
 
-4.  On the Customer Service form, in the **Main menu** field, select the Preview this record icon \(![Preview this record icon](../image/preview-record-icon.jpg)\).
+4.  On the Customer Service form, in the **Main menu** field, select the Preview this record icon \(![Preview this record icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/preview-record-icon.jpg)\).
 
     If a message appears about the application scope, select **here** to be able to edit the record.
 

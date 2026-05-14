@@ -73,7 +73,7 @@ Creating a custom application to contain your Workflow Studio content enables yo
 
     1.  In the **How will you get data** field, select **REST Step**, **SOAP Step**, or **JDBC Step** to add the associated step to the Data Stream action.
 
-        For more information, see [REST step](../../flow-designer/reference/rest-request-action-designer.md), [SOAP step](../../flow-designer/reference/soap-step-action-designer.md), and [JDBC step](../../flow-designer/reference/jdbc-step.md) .
+        For more information, see [REST step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/rest-request-action-designer.md), [SOAP step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/soap-step-action-designer.md), and [JDBC step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../flow-designer/reference/jdbc-step.md) .
 
         This section can run on either the MID Server or the instance. The environment is determined by the **Use MID server** field in the associated Connection \[sys\_connection\] record.
 
@@ -113,7 +113,7 @@ Creating a custom application to contain your Workflow Studio content enables yo
         -   **Response Body**: Use a value in the response from the previous request to populate the variable. If the response is JSON format, set **Extract value using** to **JSONPath Expression** and provide the path to the value in the **Expression** field. If the response is XML format, set **Extract value using** to **XPath Expression** and provide the path to the value.
     In this example, the `getNextPage` variable is true until the `nextOffset` variable reaches the total count value returned in the API response header. As long as the `getNextPage` variable is true and the previous page contains data, the action continues to send requests for the next page. This example includes a common limit/offset pagination configuration. The third-party APIs that your Data Stream action interacts with may use a page token or other method.
 
-    ![Pagination setup with a pagination variables script.](../images/pagination-setup.png)
+    ![Pagination setup with a pagination variables script.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/pagination-setup.png)
 
     **Important:** Avoid infinite loops in pagination requests by creating a condition that sets the `getNextPage` variable to false. Cancel any long-running flows. Always test Data Stream actions before using them in production.
 
@@ -257,7 +257,7 @@ Creating a custom application to contain your Workflow Studio content enables yo
 
         The value in the **Name** field is the internal name used in the Script Parser step. For example, to refer to the City output in the Script Parser step, you would use `outputs.targetObject.city`.
 
-        ![Default values for child items in the complex object output.](../images/ds-output-label.png)
+        ![Default values for child items in the complex object output.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/ds-output-label.png)
 
         **Warning:** After saving the Data Stream action, you cannot change values in the **Name** field.
 
@@ -268,7 +268,7 @@ Creating a custom application to contain your Workflow Studio content enables yo
 
 ## What to do next
 
-[Test a Data Stream action](test-data-stream-action.md).
+[Test a Data Stream action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/test-data-stream-action.md).
 
-**Parent Topic:**[Data Stream actions and pagination](../concept/data-stream-actions.md)
+**Parent Topic:**[Data Stream actions and pagination](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../concept/data-stream-actions.md)
 

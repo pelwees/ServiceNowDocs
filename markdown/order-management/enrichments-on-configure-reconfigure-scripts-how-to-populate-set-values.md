@@ -30,7 +30,7 @@ To complete this example you need:
 
 In the CPQ Admin screen, find the external connections under Utilities.
 
-![Admin screen](../images/cpq-admin-external-connections.png)
+![Admin screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-admin-external-connections.png)
 
 1.  Set the integration type to Salesforce.
 2.  Define the SOQL query to make. In this example, we are retrieving all the contacts that are associated with a particular account and storing the last name.
@@ -68,7 +68,7 @@ return cfgRequest;
 
 ## Script walkthrough
 
-![Admin screen](../images/cpq-script-populate-set-values.png)
+![Admin screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-script-populate-set-values.png)
 
 1.  The setData array is initialized as an empty array \(line 1\).
 2.  Check whether the set already has data in it, either from the API payload or from a previous configuration \(line 3\).

@@ -113,10 +113,10 @@ All instance question records, which store user response values for each questio
 -   **Metric**: Displays the survey questions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Surveys reference](survey-reference.md)
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[View a survey instance](../task/t_ViewSurveyInstance.md)
+[View a survey instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../task/t_ViewSurveyInstance.md)
 

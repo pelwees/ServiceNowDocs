@@ -180,5 +180,5 @@ Platform Analytics experience is a ServiceNow AI Platform feature that is active
     Collect and analyze workstation activities to understand how tasks are performed, identify inefficiencies, and make data-driven decisions.
 
 
-**Parent Topic:**[Platform Analytics release notes](analytics-intel-report-rn-landing.md)
+**Parent Topic:**[Platform Analytics release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/analytics-intel-report-rn-landing.md)
 

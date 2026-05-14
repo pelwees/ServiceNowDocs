@@ -17,7 +17,7 @@ A template saves time by creating checklist items automatically. You can add, ed
 
 ## Before you begin
 
-[Activate Visual Task Boards](t_ActivateVisualTaskBoards.md).
+[Activate Visual Task Boards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ActivateVisualTaskBoards.md).
 
 Role required: none
 
@@ -35,11 +35,11 @@ There are two ways that you can create a checklist template:
 
     **Note:** You cannot give a checklist template a name when you create a checklist template in the Visual Task Board interface. To give a checklist a name, you must configure the checklist template in the ServiceNow AI Platform.
 
-3.  Click the checklist tab \(![Checklist tab](../image/IconChecklist.png)\).
+3.  Click the checklist tab \(![Checklist tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconChecklist.png)\).
 
 4.  Add items to the checklist that you want to save as part of the template.
 
-5.  Click the more icon \(![More icon](../image/IconMore.png)\).
+5.  Click the more icon \(![More icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/IconMore.png)\).
 
     The more icon does not display unless you have added an item to the checklist, or if you have a pre-existing checklist template.
 
@@ -126,5 +126,5 @@ Your checklist template is created.
 
 Create a checklist from a checklist template by selecting the template from the more icon.
 
-**Parent Topic:**[Visual Task Board checklists](../concept/c_VisualTaskBoardChecklists.md)
+**Parent Topic:**[Visual Task Board checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../concept/c_VisualTaskBoardChecklists.md)
 

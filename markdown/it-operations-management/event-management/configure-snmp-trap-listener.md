@@ -34,7 +34,7 @@ The `OEM 12c Trap` event rule is provided with the default base instance, as wel
 
 2.  Click **New**.
 
-3.  Fill in the fields, as described in [Configure event collection for SNMP traps](t_EMSNMPTrapEvent.md).
+3.  Fill in the fields, as described in [Configure event collection for SNMP traps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSNMPTrapEvent.md).
 
     For the **SNMP version** field, select: `v1 and v2c`.
 
@@ -42,7 +42,7 @@ The `OEM 12c Trap` event rule is provided with the default base instance, as wel
 
     **Note:**
 
-    Ensure all required SNMP MIB files are uploaded on the instance. For more information, see [Load a MIB module](../../discovery/task/t_LoadAMIBModule.md).
+    Ensure all required SNMP MIB files are uploaded on the instance. For more information, see [Load a MIB module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../../discovery/task/t_LoadAMIBModule.md).
 
     .
 
@@ -51,5 +51,5 @@ The `OEM 12c Trap` event rule is provided with the default base instance, as wel
 
 In Oracle Enterprise Manager Cloud Control, configure the MID Server as a trap listener target.
 
-**Parent Topic:**[Configure event collection for SNMP traps](t_EMSNMPTrapEvent.md)
+**Parent Topic:**[Configure event collection for SNMP traps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSNMPTrapEvent.md)
 

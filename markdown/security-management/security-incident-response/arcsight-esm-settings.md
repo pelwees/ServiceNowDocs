@@ -19,5 +19,5 @@ To modify the system properties, log in as a user with the `sn_si.admin` role an
 
 The default configuration settings are displayed. You can modify these settings if required.
 
-![ArcSight ESM: Integration Settings](../image/sir-arcsight-esm-intg-settings.png)
+![ArcSight ESM: Integration Settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/sir-arcsight-esm-intg-settings.png)
 

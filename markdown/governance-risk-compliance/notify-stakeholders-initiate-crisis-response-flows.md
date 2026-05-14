@@ -21,7 +21,7 @@ Role required: BCM admin or BCM Program Manager
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the map icon \(![Crisis map icon](../image/CrisisMapIcon.png)\).
+2.  Click the map icon \(![Crisis map icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/CrisisMapIcon.png)\).
 
 3.  Click an alert record.
 
@@ -65,14 +65,14 @@ Role required: BCM admin or BCM Program Manager
 
     All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] related to the event \[sn\_recovery\_event\].
 
-    ![Event details of a crisis event.](../image/DeclareCrisis.png "Declare a crisis event")
+    ![Event details of a crisis event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/DeclareCrisis.png "Declare a crisis event")
 
 
 ## What to do next
 
 1.  If it is a recovery event, click anywhere on the Response Tasks card to take you to the event details.
 2.  In the **Details** tab of the event, update the details if required.
-3.  Click the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Manage a crisis event](manage-crisis-event.md).
+3.  Click the **Start Event** button. The event for the crisis is then activated. All the associated plans for this recovery event and the tasks associated with it are set into action. The Crisis Management workflow begins to recover the impacted assets. For more information, see [Manage a crisis event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-crisis-event.md).
 
     All the assets at risk are copied over to the Event Assets table \[sn\_recovery\_event\_asset\] related to the event \[sn\_recovery\_event\].
 

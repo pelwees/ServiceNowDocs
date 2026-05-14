@@ -38,16 +38,16 @@ Role required: admin
     The recently installed plugins and applications show up under Upgrade Plan Items related list.
 
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-prepare-up.md)
 
 **Related topics**  
 
 
-[Building your Upgrade Plan](uc-building-upgrade-plan.md)
+[Building your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-building-upgrade-plan.md)
 
-[Installing your Upgrade Plan](uc-installing-upgrade-plan.md)
+[Installing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-installing-upgrade-plan.md)
 
-[Prepare to upgrade with Upgrade Plan](uc-prepare-upgrade-plan.md)
+[Prepare to upgrade with Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-prepare-upgrade-plan.md)
 
-[Apply Upgrade Plan on your upgrade](uc-apply-upgrade-plan.md)
+[Apply Upgrade Plan on your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-apply-upgrade-plan.md)
 

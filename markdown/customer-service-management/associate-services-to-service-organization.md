@@ -55,7 +55,7 @@ Reference
 
 Criteria to define the service organizations that provide the service.
 
- **Note:** For more information about the criteria for the service organization, see [Create the criteria for a service organization](create-service-organization-criteria.md).
+ **Note:** For more information about the criteria for the service organization, see [Create the criteria for a service organization](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/create-service-organization-criteria.md).
 
 </td></tr><tr><td>
 

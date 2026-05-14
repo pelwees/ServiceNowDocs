@@ -72,5 +72,5 @@ Can’t view or edit change models for any site. Can only view the base system c
 </td></tr></tbody>
 </table>If you have the sn\_ot\_change\_admin role, you can use the change models to create a change request for any site.
 
-**Parent Topic:**[Using Operational Technology Change Management](using-operational-technology-change-management.md)
+**Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 

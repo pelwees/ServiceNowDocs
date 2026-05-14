@@ -15,7 +15,7 @@ breadcrumb: [Create a work order for the planned work, Manage work orders, Prepa
 
 Planned Work Management Home page enables you to monitor your work plans, schedules, and work orders.
 
-![Planned Work Management dashboard displaying work plans, work schedules, and planned work orders represented by tiles and graphs.](../../../product/field-service-management/image/pwm-home-page.png)
+![Planned Work Management dashboard displaying work plans, work schedules, and planned work orders represented by tiles and graphs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../../../product/field-service-management/image/pwm-home-page.png)
 
 ## End user and roles
 

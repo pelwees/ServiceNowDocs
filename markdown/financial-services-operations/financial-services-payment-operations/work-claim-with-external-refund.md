@@ -30,7 +30,7 @@ For an internal claim, the refund type can be external or internal.
 
 1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
-2.  Select the lists icon \(![lists icon](../../../use/reporting/image/inline-data-vis-96px-list.png)\).
+2.  Select the lists icon \(![lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../../../use/reporting/image/inline-data-vis-96px-list.png)\).
 
 3.  In the **Lists** tab, under **Claims**, open the case list.
 
@@ -57,13 +57,13 @@ For an internal claim, the refund type can be external or internal.
         -   Claim bank
         -   Transaction ID
         -   Refund bank
-        For information on the Claim form field descriptions, see [Field descriptions for a claim case](../reference/claim-form-fields.md).
+        For information on the Claim form field descriptions, see [Field descriptions for a claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../reference/claim-form-fields.md).
 
     2.  In the **State** field, change the state of the case to **Awaiting Refund** and click **Update**.
 
     A claim task is automatically generated and assigned to the claim agent that is working on the case. However, for any internal follow-ups, you can also create an ad hoc claim task by navigating to the **Claim Tasks** tab of the case and clicking **New**.
 
-8.  [Work on the claim task](work-claim-task.md) to follow up with the refund bank and move it to the **Closed** state.
+8.  [Work on the claim task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-task.md) to follow up with the refund bank and move it to the **Closed** state.
 
 9.  After you've received the refund from the refund bank, complete the refund for the claim.
 
@@ -77,15 +77,15 @@ For an internal claim, the refund type can be external or internal.
 
 10. Get an approval from the claim customer for the refund completion and click **Close** to complete the claim.
 
-    For more information, see [Close a claim case](close-claim-case.md).
+    For more information, see [Close a claim case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/close-claim-case.md).
 
 
 ## Result
 
 The customer gets the pre-configured email notifications about the progress of the claim.
 
--   **[Work on a claim task for an external refund](work-claim-task.md)**  
+-   **[Work on a claim task for an external refund](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/work-claim-task.md)**  
 Using a claim task, follow up with the third-party bank for a claim refund.
 
-**Parent Topic:**[Managing payment claims and debit approvals](../concept/managing-payment-claims.md)
+**Parent Topic:**[Managing payment claims and debit approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/../concept/managing-payment-claims.md)
 

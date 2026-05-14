@@ -31,7 +31,7 @@ Role required: knowledge\_admin or knowledge\_manager
 
     **Note:** If the **Enable blocks** check box is not visible, you can add the field to the form by right-clicking the form header and navigating to **Configure** &gt; **Form Layout**.
 
-    ![Enable knowledge blocks feature for knowledge base.](../image/knowledge-blocks-enable-blocks-for-kb.png)
+    ![Enable knowledge blocks feature for knowledge base.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/knowledge-blocks-enable-blocks-for-kb.png)
 
 4.  Click **Update**.
 
@@ -42,14 +42,14 @@ Role required: knowledge\_admin or knowledge\_manager
 
 Create knowledge blocks to use within the enabled knowledge base.
 
-**Parent Topic:**[Configuring Knowledge Management](../concept/configuring-knowledge-management.md)
+**Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/configuring-knowledge-management.md)
 
 **Related topics**  
 
 
-[Knowledge blocks](../concept/knowledge-blocks.md)
+[Knowledge blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-blocks.md)
 
-[Using knowledge blocks](../concept/using-knowlege-blocks.md)
+[Using knowledge blocks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/using-knowlege-blocks.md)
 
-[Knowledge blocks authoring in Agent Workspace](../concept/knowledge-blocks-authoring-agent.md)
+[Knowledge blocks authoring in Agent Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/knowledge-blocks-authoring-agent.md)
 

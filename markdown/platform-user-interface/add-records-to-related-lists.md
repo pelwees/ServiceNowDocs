@@ -25,7 +25,7 @@ For example, an open record documents a power outage in one location. When there
 
 **Note:** Not all workspaces or related lists have the **Add** button available. The **Add** must be added by your administrator.
 
-![Add related list](../image/y-add-related-list.png)
+![Add related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/y-add-related-list.png)
 
 ## Procedure
 
@@ -41,7 +41,7 @@ For example, an open record documents a power outage in one location. When there
 
     A dialog box with a list of records opens.
 
-    ![Add records dialog box](../../configurable-workspace/image/list-related-dialog-box.png)
+    ![Add records dialog box](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../configurable-workspace/image/list-related-dialog-box.png)
 
 5.  Select the records that you want to add to the related list.
 

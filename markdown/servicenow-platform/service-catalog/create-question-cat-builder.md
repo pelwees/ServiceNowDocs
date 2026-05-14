@@ -46,7 +46,7 @@ If allowed in the template by the template owner \(catalog\_admin\) while config
     -   Rich text. Rich Text Label variable type in ServiceNow AI Platform.
 -   Attachment
 
-For detailed information about these question types, see [Types of service catalog variables](../reference/r_VariableTypes.md).
+For detailed information about these question types, see [Types of service catalog variables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/r_VariableTypes.md).
 
 ## Procedure
 
@@ -323,7 +323,7 @@ Value of the choice.
         -   Multi-select
     6.  Specify the question details on the **Auto-populate** tab.
 
-        For more information about configuring auto-populate value, see [Configure an auto-populate value for a question in Catalog Builder](config-auto-populate-value-for-question-cat-builder.md#).
+        For more information about configuring auto-populate value, see [Configure an auto-populate value for a question in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/config-auto-populate-value-for-question-cat-builder.md#).
 
 3.  Click **Insert Question** to add the question to the item.
 
@@ -332,8 +332,8 @@ Value of the choice.
     -   If there are two consecutive check boxes, then a virtual container is created for a group of check boxes. Only check box variable types can then be added inside that group.
     -   Even if a check box variable is added immediately after a group of check boxes, it's automatically added to the group.
 
--   **[Configure an auto-populate value for a question in Catalog Builder](config-auto-populate-value-for-question-cat-builder.md#)**  
+-   **[Configure an auto-populate value for a question in Catalog Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/config-auto-populate-value-for-question-cat-builder.md#)**  
 Configure the value of a question to populate automatically whenever the value of another question of the reference type changes.
 
-**Parent Topic:**[Creating or editing catalog item template](create-cat-item-template-cat-builder.md)
+**Parent Topic:**[Creating or editing catalog item template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-cat-item-template-cat-builder.md)
 

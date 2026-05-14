@@ -20,7 +20,7 @@ Use the Triage legal requests agentic workflow to predict the appropriate legal 
 
 **Important:**
 
--   To run the Triage legal requests agentic workflow, ensure that you have completed all the configurations. For more information, see [Configure Triage legal requests agentic workflow](conf-transfer-legal-request-agent.md).
+-   To run the Triage legal requests agentic workflow, ensure that you have completed all the configurations. For more information, see [Configure Triage legal requests agentic workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/conf-transfer-legal-request-agent.md).
 -   If your generative AI service provider is not Now LLM Service, ensure that the API connections and credentials are configured. For more information, see [Configuring API credentials for generative AI capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configuring-api-credentials-for-generative-ai-capabilities.md).
 -   
 The agentic workflow is triggered under the following conditions:
@@ -49,11 +49,11 @@ You can access the agentic workflow from AI Agent Studio when you have the sn\_a
 
 The agentic workflow conversation can be seen in the Now Assist panel by the legal fulfiller or group manager with the now\_assist\_panel\_user role.
 
-1.  Open the Now Assist panel by selecting the Now Assist icon ![Now assist icon](../../../common/image/icon-ai-sparkle.png)
+1.  Open the Now Assist panel by selecting the Now Assist icon ![Now assist icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../../../common/image/icon-ai-sparkle.png)
 2.  In the Now Assist chat panel, select the legal request under the active chat.
 3.  See the agentic workflow conversation and the predicted legal category:
-    -   If you choose to transfer the general legal request, enter `Yes` and select the send icon \(![Send icon.](../image/send-chat-icon.png)\) in the panel. When it's transferred, the original request is canceled and a new request is created with the predicted legal category. The agentic conversation is closed after the transfer of the legal request.
-    -   If you choose not to transfer the general legal request, enter `No` and select the send icon \(![Send icon.](../image/send-chat-icon.png)\) in the panel. The general legal request isn’t transferred and the agentic conversation is closed.
+    -   If you choose to transfer the general legal request, enter `Yes` and select the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/send-chat-icon.png)\) in the panel. When it's transferred, the original request is canceled and a new request is created with the predicted legal category. The agentic conversation is closed after the transfer of the legal request.
+    -   If you choose not to transfer the general legal request, enter `No` and select the send icon \(![Send icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../image/send-chat-icon.png)\) in the panel. The general legal request isn’t transferred and the agentic conversation is closed.
 
-**Parent Topic:**[Using agentic workflow in Now Assist for Legal Service Delivery \(LSD\)](../concept/agentic-ai-now-assist-lsd.md)
+**Parent Topic:**[Using agentic workflow in Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/../concept/agentic-ai-now-assist-lsd.md)
 

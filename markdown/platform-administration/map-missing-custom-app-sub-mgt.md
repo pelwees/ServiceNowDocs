@@ -31,9 +31,9 @@ Subscription Management can't display product subscription recommendations for s
 
 3.  Select **Map missing applications from the custom application list**.
 
-4.  Select the personalize list icon \(![Personalize list icon](../../../common/image/List_PersonalizeListIcon.png)\).
+4.  Select the personalize list icon \(![Personalize list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../../common/image/List_PersonalizeListIcon.png)\).
 
-    ![The personalize list icon can be found next to the New button.](../image/sm-personalized-list-missing-custom-apps.png)
+    ![The personalize list icon can be found next to the New button.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/sm-personalized-list-missing-custom-apps.png)
 
 5.  Adjust the columns shown on the Custom Application list by moving **Subscription\(subscription\_entitlement\)** from the **Available** column to the **Selected** column.
 
@@ -60,5 +60,5 @@ Subscription Management can't display product subscription recommendations for s
 
 One or more custom applications are mapped to a product subscription and your custom table entitlement count is updated. Updates made through the Custom Application form show in Subscription Management the next day.
 
-**Parent Topic:**[Managing custom tables and applications in Subscription Management](../concept/allocating-custom-tables-subscr-apps-v2.md)
+**Parent Topic:**[Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/allocating-custom-tables-subscr-apps-v2.md)
 

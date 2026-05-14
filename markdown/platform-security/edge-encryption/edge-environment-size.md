@@ -42,7 +42,7 @@ Because data encryption and tokenization are CPU intensive operations, CPU spike
 
 ## Memory
 
-The proxy server must have a minimum of 4 GB of RAM available \(6 GB recommended\). [Set the proxy server initial and upper bound memory limits](../task/increase-memory.md) to the recommended settings.
+The proxy server must have a minimum of 4 GB of RAM available \(6 GB recommended\). [Set the proxy server initial and upper bound memory limits](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/../task/increase-memory.md) to the recommended settings.
 
-**Parent Topic:**[Planning for Edge Encryption](c_EdgeEncryptionPlanning.md)
+**Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md)
 

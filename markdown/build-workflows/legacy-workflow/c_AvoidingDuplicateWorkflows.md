@@ -17,7 +17,7 @@ Update sets manage the published state of all versions of a workflow prior to co
 
 The last version of a workflow committed as an Insert or Update using an update set becomes the currently published version, regardless of the publishing sequence for the workflow versions.
 
-**Parent Topic:**[Input variable movement](c_InputVariableMovement.md)
+**Parent Topic:**[Input variable movement](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/legacy-workflow/c_InputVariableMovement.md)
 
 ## Commit a workflow in an update set
 

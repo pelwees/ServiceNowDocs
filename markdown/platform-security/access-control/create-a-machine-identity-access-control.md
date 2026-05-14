@@ -73,7 +73,7 @@ REST API Policy
 
 </td><td>
 
-Select the target REST API policy. **Note:** Select the ![Lock](../../security/image/machine-acl-lock-icon.png) and the ![Search](../../security/image/machine-acl-search-icon.png) icon to add a policy.
+Select the target REST API policy. **Note:** Select the ![Lock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/machine-acl-lock-icon.png) and the ![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/machine-acl-search-icon.png) icon to add a policy.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ SOAP API Policy
 
 </td><td>
 
-Select the target SOAP API policy. **Note:** Select the ![Lock](../../security/image/machine-acl-lock-icon.png) and the ![Search](../../security/image/machine-acl-search-icon.png) icon to add a policy.
+Select the target SOAP API policy. **Note:** Select the ![Lock](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/machine-acl-lock-icon.png) and the ![Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/machine-acl-search-icon.png) icon to add a policy.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ Check this to apply the policy to child tables of the **Tables** field
 
 The following is an example of a machine identity access control form that has been filled out:
 
-![An example of a machine identity access control form filled out.](../../security/image/machine-acl-example.png)
+![An example of a machine identity access control form filled out.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../../security/image/machine-acl-example.png)
 
 A user with an machine identity access control cannot access any other APIs \(REST or SOAP\) and will only be able to access the resources explicitly stated in the access control, even if they have the required roles.
 

@@ -102,5 +102,5 @@ Number that indicates the position of the level in the equipment model hierarchy
 
 Create granular types within an equipment model template hierarchical level.
 
-**Parent Topic:**[Defining equipment model templates](../concept/defining-equipment-model-templates.md)
+**Parent Topic:**[Defining equipment model templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/../concept/defining-equipment-model-templates.md)
 

@@ -17,7 +17,7 @@ Views allow Transaction Manager admins to control how users with various persona
 
 To work with views, click **Views** in the Admin menu. The views list page shows the views you have configured for your transaction environment. Clicking a view’s name in the list displays the access privileges defined in the view.
 
-![Transaction Manager: Views](../images/cpq-txn-mgr-views.jpeg)
+![Transaction Manager: Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views.jpeg)
 
 ## Field access
 
@@ -33,7 +33,7 @@ Clicking the pencil icon for **Associated Personas** lets you choose the persona
 
 The values in the display cannot be modified in the Admin UI. They can be modified only by importing a blueprints.zip file in CSV format.
 
-![Transaction Manager: Views](../images/cpq-txn-mgr-views-fields.jpeg)
+![Transaction Manager: Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-fields.jpeg)
 
 ## Events access
 
@@ -41,7 +41,7 @@ The **Events** tab shows the access privileges defined for each event in the Tra
 
 As with the fields display, these values cannot be modified in the Admin UI. They can only be modified via CSV file import.
 
-![Transaction Manager: Views](../images/cpq-txn-mgr-views-events.jpeg)
+![Transaction Manager: Views](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-events.jpeg)
 
 ## Creating views
 
@@ -67,11 +67,11 @@ When you modify a view field file, modified values are entered without the aster
 
 Original fields CSV file:
 
-![CSV file](../images/cpq-txn-mgr-views-fields-original.jpeg)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-fields-original.jpeg)
 
 Modified fields CSV file:
 
-![CSV file](../images/cpq-txn-mgr-views-fields-modified.jpeg)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-fields-modified.jpeg)
 
 ## Events CSV file
 
@@ -85,11 +85,11 @@ When you modify a view event file, modified values are entered without the aster
 
 Original events CSV file:
 
-![CSV file](../images/cpq-txn-mgr-views-events-original.jpeg)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-events-original.jpeg)
 
 Modified events CSV file:
 
-![CSV file](../images/cpq-txn-mgr-views-events-modified.jpeg)
+![CSV file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-events-modified.jpeg)
 
 ## YAML file
 
@@ -101,18 +101,18 @@ The views YAML file defines the view. Information in the views YAML file include
 
 If you have multiple views defined for your Transaction Manager blueprint, this information is repeated for each defined view in your blueprint.
 
-![Yaml file](../images/cpq-txn-mgr-views-yaml.jpeg)
+![Yaml file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-views-yaml.jpeg)
 
 When all three files have been modified, they can be placed in the views folder of the blueprints.zip file and imported into Transaction Manager via the Matrix Loader. Assuming that there are no issues with any of the files, changes to any views take effect when the blueprint is deployed.
 
 **Related topics**  
 
 
-[Transaction Manager: Personas](transaction-manager-personas.md)
+[Transaction Manager: Personas](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-personas.md)
 
-[Transaction Manager: Stages](transaction-manager-stages.md)
+[Transaction Manager: Stages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 
-[Transaction Manager: Events](transaction-manager-events.md)
+[Transaction Manager: Events](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-events.md)
 
-[Transaction Manager: Rules and rule groupings](transaction-manager-rules-and-rule-groupings.md)
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 

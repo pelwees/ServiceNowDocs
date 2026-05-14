@@ -35,8 +35,8 @@ Role required: sn\_risk.reader
 
     The risk statement hierarchy is displayed.
 
-    ![Risk statement hierarchy visualized by risk reader](../image/risk_statement_hierarchy_visualize.png "Visualize risk statement hierarchy")
+    ![Risk statement hierarchy visualized by risk reader](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/risk_statement_hierarchy_visualize.png "Visualize risk statement hierarchy")
 
 
-**Parent Topic:**[Using Risk Management](../concept/using-risk-mgmt.md)
+**Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/using-risk-mgmt.md)
 

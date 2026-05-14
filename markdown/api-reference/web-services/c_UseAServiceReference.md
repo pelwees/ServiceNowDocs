@@ -21,5 +21,5 @@ Open the app.config file and change the Security mode to "Transport" and the cli
 
 ![](../image/DotNetAppConfig.png "Dot net app config")
 
-**Parent Topic:**[Call a web service in visual studio .NET](c_CallAWebServiceInVisualStudioNET.md)
+**Parent Topic:**[Call a web service in visual studio .NET](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_CallAWebServiceInVisualStudioNET.md)
 

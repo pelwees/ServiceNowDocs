@@ -169,5 +169,5 @@ Depending on how the contract is used, the **Contract** field can be added to an
 
 **Note:** Do not add the same field to different sections of a form unless the field displays read-only data. Having two or more instances of an editable field can cause data loss and prevent the proper functioning of UI and data policies.
 
-**Parent Topic:**[Exploring Service Level Management](exploring-slm.md)
+**Parent Topic:**[Exploring Service Level Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/exploring-slm.md)
 

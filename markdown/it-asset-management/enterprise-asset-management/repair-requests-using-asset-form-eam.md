@@ -36,5 +36,5 @@ Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_
 
 A repair order with a repair order line in the **Troubleshoot** stage is created.
 
-**Parent Topic:**[Request repair of defective enterprise assets](../concept/request-repair-defective-eam-assets.md)
+**Parent Topic:**[Request repair of defective enterprise assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/../concept/request-repair-defective-eam-assets.md)
 

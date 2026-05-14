@@ -17,15 +17,15 @@ Cloud Account Management provides policy-driven rules to automate account provis
 
 Cloud Account Management provides policies that you can use for the following purposes:
 
--   Suspending or reactivating AWS accounts. For more details, see [Set up suspension of an AWS account using service control policy](../task/configure-suspension-policy.md).
--   Auditing accounts and promoting compliance with security and governance standards. For more details, see [Review default Cloud Account Management certification policy](../task/policy-setup.md).
+-   Suspending or reactivating AWS accounts. For more details, see [Set up suspension of an AWS account using service control policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/configure-suspension-policy.md).
+-   Auditing accounts and promoting compliance with security and governance standards. For more details, see [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/policy-setup.md).
 -   Automating general approval, budget approval, and configuration assignments through the request policies listed in the following table.
 
     |Request policy|For more information|
     |--------------|--------------------|
-    |Subscription Account Creation General Approval|[Automate General Approval policy process](../task/automate-account-creation-approval.md)|
-    |Subscription Account Creation Budget Approval|[Automate Budget Approval policy process](../task/automate-account-budget-approval.md)|
-    |Subscription Account Creation Configuration Assignment|[Automate Configuration Assignment policy process](../task/automate-account-creation-config-assign.md)|
+    |Subscription Account Creation General Approval|[Automate General Approval policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-creation-approval.md)|
+    |Subscription Account Creation Budget Approval|[Automate Budget Approval policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-budget-approval.md)|
+    |Subscription Account Creation Configuration Assignment|[Automate Configuration Assignment policy process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/../task/automate-account-creation-config-assign.md)|
 
 
 ## Benefits of Cloud Account Management request policies
@@ -34,5 +34,5 @@ Cloud Account Management provides policies that you can use for the following pu
 -   Cost savings: Helps prevent overspending by managing accounts efficiently.
 -   Enhanced security: Includes security controls as part of performance and availability.
 
-You can automate the account approval process, budget approval process, and configuration assignment process. To help promote consistency with the cloud subscription account creation process, regularly review and update your policies. For more information, see [Review request policies](viewing-pace-policy.md).
+You can automate the account approval process, budget approval process, and configuration assignment process. To help promote consistency with the cloud subscription account creation process, regularly review and update your policies. For more information, see [Review request policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/viewing-pace-policy.md).
 

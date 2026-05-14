@@ -17,7 +17,7 @@ You can access the connection details of the Service Graph Connector Integration
 
 With the CCF, you can access all the connections used by the Service Graph Connector Integration for Claroty CTD. The connection details include the connection alias, connection properties, data sources, and scheduled data imports associated with a connection. You can also test the connection. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-conn-fw.md).
 
-**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](sgc-cmdb-integration-claroty-ctd.md)
+**Parent Topic:**[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)
 
 ## Access the details of a Claroty CTD connection
 

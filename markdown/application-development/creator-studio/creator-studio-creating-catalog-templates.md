@@ -30,5 +30,5 @@ For more details on how to add catalog templates, see [Creating or editing catal
 
 Check out an article on [Creating catalog templates for Creator Studio](https://www.servicenow.com/community/creator-studio-blogs/creator-studio-for-admins-creating-catalog-templates-for-creator/ba-p/3053357).
 
-**Parent Topic:**[Administering templates and forms for Creator Studio](creator-studio-administering-forms.md)
+**Parent Topic:**[Administering templates and forms for Creator Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/creator-studio/creator-studio-administering-forms.md)
 

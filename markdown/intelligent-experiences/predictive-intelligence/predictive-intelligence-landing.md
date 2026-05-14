@@ -26,27 +26,27 @@ Administrators can harness the power of machine learning to improve productivity
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../images/icon-explore-pi.png) Learn about Predictive Intelligence and machine learning](predictive-intelligence.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/icon-explore-pi.png) Learn about Predictive Intelligence and machine learning](predictive-intelligence.md)
 
 </td><td>
 
-[Install ![](../images/icon-install-pi.png) Install Predictive Intelligence and its associated apps](../task/install-predictive-intelligence.md#)
+[Install ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/icon-install-pi.png) Install Predictive Intelligence and its associated apps](../task/install-predictive-intelligence.md#)
 
 </td><td>
 
-[Configure ![](../images/icon-configure-pi.png) Configure Predictive Intelligence on the platform](../reference/troubleshooting-predictive-intelligence.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/icon-configure-pi.png) Configure Predictive Intelligence on the platform](../reference/troubleshooting-predictive-intelligence.md)
 
 </td></tr><tr><td>
 
-[Train ![](../images/icon-train-pi.png) Create and train machine learning solutions.](training-ml-solutions.md)
+[Train ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/icon-train-pi.png) Create and train machine learning solutions.](training-ml-solutions.md)
 
 </td><td>
 
-[Use ![](../images/icon-use-pi.png) Use Predictive Intelligence for machine learning.](using-predictive-intelligence.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../images/icon-use-pi.png) Use Predictive Intelligence for machine learning.](using-predictive-intelligence.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Predictive Intelligence components such as properties and language support.](../reference/predictive-intelligence-properties.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about Predictive Intelligence components such as properties and language support.](../reference/predictive-intelligence-properties.md)
 
 </td></tr></tbody>
 </table>

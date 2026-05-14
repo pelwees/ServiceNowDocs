@@ -17,7 +17,7 @@ The Users page within the Data Foundation module enables views of individual use
 
 View user analytics and behavior, including taps and swipes, and other timeline actions. Select the users that you want to see, set filters, and drill down into individual user sessions for closer insights.
 
-![Users analysis screen](../../../use/par-for-workspace/image/uxa-user-analytics.png)
+![Users analysis screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-user-analytics.png)
 
 <table><thead><tr><th>
 
@@ -104,5 +104,5 @@ You can filter the Users list by date range, User type, and Country by default. 
 
 **Note:** The Add filter options use a logical AND operator. Meaning that the results must meet both the criteria in the default filters AND the criteria in the additional filters to be included in the visualizations.
 
-**Parent Topic:**[Using Usage Insights](../content-framework/concept/using-uxa.md)
+**Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../content-framework/concept/using-uxa.md)
 

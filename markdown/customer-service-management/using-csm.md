@@ -15,27 +15,27 @@ Agents and managers can use Customer Service Management application to create ca
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Manage cases ![](../../../reuse/icons/brand-icons/bus-management-console.svg) Find tools for creating cases, interacting with customers, and resolving questions and issues](manage-cases.md)
+[Manage cases ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-management-console.svg) Find tools for creating cases, interacting with customers, and resolving questions and issues](manage-cases.md)
 
 </td><td>
 
-[Manage schedules and sites ![](../../../reuse/icons/brand-icons/bus-workflow.svg) Find tools for managing your calendar, using the mobile app to manage work, and plan install base tasks.](manage-schedules-and-sites.md)
+[Manage schedules and sites ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-workflow.svg) Find tools for managing your calendar, using the mobile app to manage work, and plan install base tasks.](manage-schedules-and-sites.md)
 
 </td><td>
 
-[Automate and optimize ![](../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Find tools to automate your work, and use AI tools to streamline cases.](automate-and-optimize.md)
+[Automate and optimize ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-artificial-intelligence.svg) Find tools to automate your work, and use AI tools to streamline cases.](automate-and-optimize.md)
 
 </td></tr><tr><td>
 
-[Agent management ![](../../../reuse/icons/brand-icons/bus-headset.svg) Manage tasks and schedules for agents on your team.](agent-management.md)
+[Agent management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-headset.svg) Manage tasks and schedules for agents on your team.](agent-management.md)
 
 </td><td>
 
-[Customer management ![](../../../reuse/icons/brand-icons/bus-customer-and-contract-management.svg) Oversee customer-related tasks, including location and access management, handling contracts and entitlements, managing social media, and outsourcing customer service.](customer-management.md)
+[Customer management ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-customer-and-contract-management.svg) Oversee customer-related tasks, including location and access management, handling contracts and entitlements, managing social media, and outsourcing customer service.](customer-management.md)
 
 </td><td>
 
-[Customer communication ![](../../../reuse/icons/brand-icons/bus-chat.svg) Learn about tools for portals and case deflection. Find examples and information on using self-service tools and contacting agents for assistance.](customer-communication.md)
+[Customer communication ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../../../reuse/icons/brand-icons/bus-chat.svg) Learn about tools for portals and case deflection. Find examples and information on using self-service tools and contacting agents for assistance.](customer-communication.md)
 
 </td></tr></tbody>
 </table>-   **Manage cases**

@@ -13,7 +13,7 @@ breadcrumb: [Sharing task plan templates, Task Plan Templates, Case management, 
 
 Notifications ensure that all relevant users, groups, service organizations, and members are promptly informed when a task plan template is shared. Notifications supports operational integrity and transparency in template governance.
 
-![Notify Users](../image/taskplan-notifications.png "Shared Task Plant Template Notifications")
+![Notify Users](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/taskplan-notifications.png "Shared Task Plant Template Notifications")
 
 Individual users, groups, service organizations, and members, receive in-app notifications when a task plan template is shared. Notifications are triggered to users, groups, and service organizations based on criteria or roles ensuring that only authorized recipients are informed about updates to template access.
 

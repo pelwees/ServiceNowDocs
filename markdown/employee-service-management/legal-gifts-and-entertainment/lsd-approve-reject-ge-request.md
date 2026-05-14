@@ -44,7 +44,7 @@ Steps
 </td><td>
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
-2.  Select the list icon \(![List icon](../../legal-request-management/image/lsd-lcc-list-icon.png)\).
+2.  Select the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../../legal-request-management/image/lsd-lcc-list-icon.png)\).
 3.  In the **Lists** tab, under **My Work**, click **Items Pending Approval**.
 4.  In the Items Pending Approval list, open a request by clicking the request number in the **Approving** column.
 
@@ -107,5 +107,5 @@ Reject
 -   The comments for rejection posted by the approver is added to the request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing gifts and entertainment disclosure requests](../concept/lsd-manage-ge-request.md)
+</table>**Parent Topic:**[Managing gifts and entertainment disclosure requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/../concept/lsd-manage-ge-request.md)
 

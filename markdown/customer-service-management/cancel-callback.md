@@ -25,7 +25,7 @@ Cancel is visible only to agents with the sn\_omni\_callback.callback\_writer ro
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace.**.
 
-2.  Select the List icon \(![List icon to view callback list](../image/list-icon-callback.png)\)
+2.  Select the List icon \(![List icon to view callback list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/list-icon-callback.png)\)
 
 3.  In the Callbacks section, select **Scheduled callbacks.**
 

@@ -23,7 +23,7 @@ Component libraries improve consistency and maintainability by ensuring a single
 
 In this example, an organization sells tea on its website. Both the **Shopping-Cart** and **Browsing-Pane** application services make use of config data for product prices and photo appearance. To ensure that the config data is identical in both DevOps applications, each application uses shared components from the **Tea-Service** component library. The components are managed in the library and the applications each use two of the components from the library.
 
-![Two applications use shared components from a component library](../image/cdm-comp-library-overview.png)
+![Two applications use shared components from a component library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-comp-library-overview.png)
 
 ## Working with shared components
 

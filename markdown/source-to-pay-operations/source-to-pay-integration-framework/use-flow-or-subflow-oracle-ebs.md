@@ -35,7 +35,7 @@ Use an Outbound flow or subflow in Oracle EBS
 
     For example, select **Create or update or cancel purchase order** flow.
 
-    ![Overview of the Create or update purchase order flow](../../source-to-pay-operations/image/oracle-ebs-create-po-flow.png "Create or update or cancel purchase order flow")
+    ![Overview of the Create or update purchase order flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-create-po-flow.png "Create or update or cancel purchase order flow")
 
 5.  In the Trigger field, specify the time and interval at which you want to run the scheduled flow automatically.
 
@@ -46,12 +46,12 @@ Use an Outbound flow or subflow in Oracle EBS
     The flow or subflow gets executed.
 
 
-**Parent Topic:**[Use schedule flows in Oracle EBS](../concept/using-schedule-flows-oracle-ebs.md)
+**Parent Topic:**[Use schedule flows in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../concept/using-schedule-flows-oracle-ebs.md)
 
 **Related topics**  
 
 
-[Manually trigger flows or subflows in Oracle EBS \(Inbound\)](manually-trigger-subflows-oracle-ebs.md)
+[Manually trigger flows or subflows in Oracle EBS \(Inbound\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-oracle-ebs.md)
 
-[Copy a flow or subflow in Oracle EBS](copy-flow-or-subflow-oracle-ebs.md)
+[Copy a flow or subflow in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/copy-flow-or-subflow-oracle-ebs.md)
 

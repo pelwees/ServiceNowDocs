@@ -21,7 +21,7 @@ Role required: admin
 
 Users generate a six-digit code for the app PIN. The PIN must be entered when they log in to an instance from their mobile device, or after the application has been inactive for more than five minutes. If your users have faceID, touchID, or similar biometric security configured on their phone, they can use biometric authentication in place of the PIN.
 
-![App PIN.](../image/app-pin.png)
+![App PIN.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/app-pin.png)
 
 ## Procedure
 
@@ -40,5 +40,5 @@ Users generate a six-digit code for the app PIN. The PIN must be entered when th
     **Note:** The mobile app is automatically locked after five minutes of inactivity. Users accessing the mobile app after a period of inactivity must enter their PIN code.
 
 
-**Parent Topic:**[Mobile system property configurations](../concept/additional-mobile-configuration.md)
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/additional-mobile-configuration.md)
 

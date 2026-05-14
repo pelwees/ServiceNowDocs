@@ -17,9 +17,9 @@ As a contract configurator, configure participants and add placeholders for thei
 
 ## Before you begin
 
-The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
-An active contract template must exist in the Draft or Editing state where the **Signature blocks** option is not selected. For more information, see [Create a contract template to contain content controls](cncore-create-ct-word-addin.md).
+An active contract template must exist in the Draft or Editing state where the **Signature blocks** option is not selected. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
 Role required: sn\_cm\_core.contract\_config and canvas\_user
 
@@ -31,13 +31,13 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 3.  In the login screen, enter the credentials of the ServiceNow instance from which you downloaded the manifest file.
 
-    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](cncore-config-word-addin.md)
+    For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md)
 
 4.  On the add-in screen in the **Templates** tab, select the contract template to which you want to add the metadata.
 
 5.  In the **Signatory** tab, select **Add signatory**.
 
-    ![Add signatory content controls that act as placeholder for signatures](../image/cmpro-waddin-participant.png "Add signatory")
+    ![Add signatory content controls that act as placeholder for signatures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-participant.png "Add signatory")
 
 6.  Add and configure the participant as either an internal or external user.
 
@@ -111,7 +111,7 @@ Option to specify the title when the defined participant is an external user.
 </td></tr></tbody>
 </table>7.  Fill in the signatory details and select **Create**.
 
-    ![Signatory card in ServiceNow Contracts add-in](../image/cmpro-waddin-participant-added.png "Signatory card in Word Add-in")
+    ![Signatory card in ServiceNow Contracts add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-participant-added.png "Signatory card in Word Add-in")
 
     -   The signatory is added and the signer card is displayed.
     -   The signatory is marked as internal or external depending on the values provided.
@@ -122,13 +122,13 @@ Option to specify the title when the defined participant is an external user.
 
     2.  Add placeholder text at the locations where you want to place the content controls.
 
-        ![Add placeholder text for the signature content control](../image/cmpro-waddin-sigtext.png)
+        ![Add placeholder text for the signature content control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-sigtext.png)
 
     3.  Set the font color of the placeholder text to match the document’s background color.
 
     4.  Select the signature tags to place the signature content controls.
 
-        ![Add content control](../image/cmpro-waddin-signadd-tag.png)
+        ![Add content control](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-signadd-tag.png)
 
 9.  Complete the steps for the other content controls:
 
@@ -145,14 +145,14 @@ Option to specify the title when the defined participant is an external user.
 
 The signatory content controls are added and the metadata is synced to the ServiceNow instance.
 
-![Signatory content control is added at the placeholder text](../image/cmpro-waddin-signtag-added.png "Content controls added at the placeholder text")
+![Signatory content control is added at the placeholder text](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-signtag-added.png "Content controls added at the placeholder text")
 
-![View the participant added from ServiceNow Contracts add-in in your instance](../image/cmpro-waddin-view-participant-sn.png "Participants related list in your instance")
+![View the participant added from ServiceNow Contracts add-in in your instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../image/cmpro-waddin-view-participant-sn.png "Participants related list in your instance")
 
-**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](../concept/cncore-config-sign-addin.md)
+**Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-config-sign-addin.md)
 
 **Related topics**  
 
 
-[Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts](cncore-addin-add-sign-block.md)
+[Add and configure signature blocks using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-addin-add-sign-block.md)
 

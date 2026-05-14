@@ -70,7 +70,7 @@ The following device types haven’t been verified for IPv6 discovery:
     -   Membership in the Distributed COM Users local security group.
 -   **\(Optional\) Populate Virtual Machine Object field in Hardware \[cmdb\_ci\_hardware\] table**
 
-    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](../../service-mapping/concept/query-service-account-ldc-fields.md).
+    Starting with Discovery and Service Mapping Patterns version 1.30.2, you can improve query performance by populating the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. For more information, see [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../../service-mapping/concept/query-service-account-ldc-fields.md).
 
 
 ## Classifiers, probes, and patterns
@@ -137,7 +137,7 @@ Windows OS - Server
 
 ^These probes remain active by default, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c-UsingPatternsForHorizontalDiscovery.md#) for instructions.
 
 ## Data collected
 
@@ -200,13 +200,13 @@ Discovery can find software that has been installed on a Windows machine by look
 -   **Install Date**: The date the software was installed. The Windows - Installed Software sensor appends a timestamp of 00:00:00 to the install\_date retrieved from the registry. The installation time of all Windows software is independent of the time zone and is set to midnight of the day it was installed. For example, an install date of **2.19.2017** in the Windows registry appears as **2.19.2017 00:00:00** in the CMDB.
 -   **Installed on**: The name of the asset on which the software is installed.
 
--   **[Windows server cluster discovery](r_WindowsServerClusterDiscovery.md)**  
+-   **[Windows server cluster discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_WindowsServerClusterDiscovery.md)**  
 Discovery establishes the relationships between a Windows server cluster and its nodes.
 
-**Parent Topic:**[Operating systems discovery](../concept/c_Computers.md)
+**Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/../concept/c_Computers.md)
 
 **Related topics**  
 
 
-[Windows probes and permissions](r_DiscoWinProbesAndPermissions.md)
+[Windows probes and permissions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DiscoWinProbesAndPermissions.md)
 

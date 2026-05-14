@@ -25,16 +25,16 @@ Role required: it\_project\_user
 
 ## About this task
 
-The **Details** tab in project workspace displays the [project form](t_CreateAProject.md) for the selected project.
+The **Details** tab in project workspace displays the [project form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/t_CreateAProject.md) for the selected project.
 
 ## Procedure
 
-1.  [Open](access-the-project-workspace.md) the required project in Project Workspace.
+1.  [Open](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-the-project-workspace.md) the required project in Project Workspace.
 
 2.  Click the **Details** tab to display the project form.
 
 3.  Edit the project record as required.
 
 
-**Parent Topic:**[Project workspace classic - Legacy](../concept/project-workspace-classic.md)
+**Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/project-workspace-classic.md)
 

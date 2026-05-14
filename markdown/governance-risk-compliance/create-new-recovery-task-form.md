@@ -164,7 +164,7 @@ Option to enable clearer visual indicators for different levels of recovery prog
 
 Color coding in the Asset Recovery Level column provides clearer visual indicators for different recovery progress levels.
 
-![Asset Recovery Level column.](../image/asset-reco-level-column.png)The Asset recovery level column is introduced in both recovery tasks and event tasks. You can select the "Recovery Level" of asset. It will be updated once all tasks with similar recovery level are completed.
+![Asset Recovery Level column.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/asset-reco-level-column.png)The Asset recovery level column is introduced in both recovery tasks and event tasks. You can select the "Recovery Level" of asset. It will be updated once all tasks with similar recovery level are completed.
 
 The "Asset Recovery Level" column has been added to both recovery tasks and event tasks, enabling you to select the recovery level for an asset. Once all associated tasks with the same recovery level are completed, the asset's state is auto-updated.
 
@@ -300,5 +300,5 @@ Backup assignee
 Assignees that are used as a backup if the automated task fails during the execution.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Add recovery tasks](../task/add-a-recovery-task.md)
+</table>**Parent Topic:**[Add recovery tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../task/add-a-recovery-task.md)
 

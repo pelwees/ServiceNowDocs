@@ -44,5 +44,5 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## What to do next
 
-Map individual CrowdStrike Next-Gen SIEM detection fields to the fields on the ServiceNow AI Platform Security Incident Response security incident. For more information, see [Map detection fields](map-crowdstrike-next-gen-inc.md).
+Map individual CrowdStrike Next-Gen SIEM detection fields to the fields on the ServiceNow AI Platform Security Incident Response security incident. For more information, see [Map detection fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/map-crowdstrike-next-gen-inc.md).
 

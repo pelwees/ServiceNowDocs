@@ -33,19 +33,19 @@ In this example, you create a cloud init script, customize a resource block, and
 
     1.  Set the **Draft/Published** switch to **Draft**.
 
-        ![Virtual Server](../image/virtual-server-rb.png)
+        ![Virtual Server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/virtual-server-rb.png)
 
     2.  On the **Operations** tab, select **Virtual Server Interface** from the **Interface** list.
 
-        ![Virtual Server Interface](../image/virtual-server-interface.png)
+        ![Virtual Server Interface](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/virtual-server-interface.png)
 
     3.  In the **Operation** field, verify that these operations exist:
 
         -   **Block Until Ready**
         -   **Execute Script**: This operation tells the blueprint to run a script.
-        ![Block Until Ready](../image/blockuntilready-operation.png)
+        ![Block Until Ready](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/blockuntilready-operation.png)
 
-        ![Execute Script operation](../image/execute-script-operation.png)
+        ![Execute Script operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/execute-script-operation.png)
 
     4.  Click the **Input Parameters** tab to view the inputs for each operation.
 
@@ -53,7 +53,7 @@ In this example, you create a cloud init script, customize a resource block, and
 
     6.  For the **Script** parameter on each step, clear the **Script** check box and change the expression in the **Mapping** column to the following text: `$(CloudScript.scripts.scriptname)`, where `scriptname` is the name of the script, not the script template, that you created earlier.
 
-        ![Script parameter](../image/script-parameters-input-parameters.png)
+        ![Script parameter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/script-parameters-input-parameters.png)
 
 3.  Publish the virtual server resource block, and use it in a blueprint that in turn is published to a catalog item.
 

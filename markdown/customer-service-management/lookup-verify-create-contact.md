@@ -32,8 +32,8 @@ If an agent can't find a contact or consumer, they can create a record for that 
 
 2.  From a saved interaction record, click one of the following icons in the Contextual side panel to access the Lookup and verify feature.
 
-    -   Verify Contact icon \(![Verify contact icon.](../image/config-ws-lookup-verify-contact.png)\)
-    -   Verify Consumer icon \(![Verify consumer icon.](../image/config-ws-lookup-verify-consumer.png)\)
+    -   Verify Contact icon \(![Verify contact icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-contact.png)\)
+    -   Verify Consumer icon \(![Verify consumer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/config-ws-lookup-verify-consumer.png)\)
 3.  Enter user information in one of the following fields: **Verify Contact** or **Verify Consumer**.
 
     This information can include the first few letters of a first or last name or the first few digits of a phone or case number.
@@ -55,7 +55,7 @@ If an agent can't find a contact or consumer, they can create a record for that 
 **Related topics**  
 
 
-[Lookup and verify](../concept/lookup-and-verify-overview.md)
+[Lookup and verify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../concept/lookup-and-verify-overview.md)
 
-[Look up and verify a contact or consumer](lookup-verify-contact-consumer.md)
+[Look up and verify a contact or consumer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/lookup-verify-contact-consumer.md)
 

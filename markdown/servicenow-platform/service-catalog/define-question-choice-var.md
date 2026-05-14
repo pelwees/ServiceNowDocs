@@ -31,7 +31,7 @@ Some variable types present the user with a list of choices. For example, a mult
 
 3.  Enter the question choice details in **Question Choice** form and click **Submit** to save the record.
 
-    -   **Price** and **Recurring price**: variables can affect the item [price](../concept/c_ServiceCatalogVariablePricing.md#) and recurring price \(if used\).
+    -   **Price** and **Recurring price**: variables can affect the item [price](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../concept/c_ServiceCatalogVariablePricing.md#) and recurring price \(if used\).
     -   **Order**: the number defining the order in which the price appears when displayed.
     -   **Question**: the actual question being asked for that variable.
     -   **Text**: the choice presented to the user.
@@ -42,12 +42,12 @@ Some variable types present the user with a list of choices. For example, a mult
     **Note:** When you modify variable choices that are attached to a catalog item, the existing requested items \(RITMs\) are also affected. For example, if you add a variable choice for the catalog item, the value of that choice is also considered in the existing RITMs. If you delete a variable choice that is selected for a RITM, the value of that choice still persists in the RITM.
 
 
-**Parent Topic:**[Create a service catalog variable](t_CreateAVariableForACatalogItem.md)
+**Parent Topic:**[Create a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
 
 **Related topics**  
 
 
-[Define help information for a service catalog variable](t_DefineHelpInformation.md)
+[Define help information for a service catalog variable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefineHelpInformation.md)
 
-[Service Catalog variable attributes](../reference/variable-attributes.md)
+[Service Catalog variable attributes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/variable-attributes.md)
 

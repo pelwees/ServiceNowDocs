@@ -17,7 +17,7 @@ After installing the Agent Client Collector on a Linux system, validate the inst
 
 ## Before you begin
 
-Install the Agent Client Collector on a Linux system \(see [Install Agent Client Collector on a Linux system](install-acc-linux.md)\).
+Install the Agent Client Collector on a Linux system \(see [Install Agent Client Collector on a Linux system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/install-acc-linux.md)\).
 
 Role required: agent\_client\_collector\_admin
 
@@ -70,8 +70,8 @@ Role required: agent\_client\_collector\_admin
 
     The indicated agent ID appears on the Agents page in an instance \(**All** &gt; **Agent Client Collector** &gt; **Agents**\) with **Status = Up** and **Host data collection = Collected** \(both appearing in green\).
 
-    ![Linux agents Up status](../image/acc-linux-agents-up.png "Linux agents - green status")
+    ![Linux agents Up status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-linux-agents-up.png "Linux agents - green status")
 
 
-**Parent Topic:**[Agent Client Collector installation on a Linux OS system](../concept/acc-install-linux-concept.md)
+**Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../concept/acc-install-linux-concept.md)
 

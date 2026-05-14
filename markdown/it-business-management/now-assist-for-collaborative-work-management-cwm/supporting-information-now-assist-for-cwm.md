@@ -30,5 +30,5 @@ Installing the latest Now Assist for Collaborative Work Management \(CWM\) store
 **Related topics**  
 
 
-[Configure Now Assist for Collaborative Work Management \(CWM\)](../task/configure-now-assist-for-collaborative-work-management.md)
+[Configure Now Assist for Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/../task/configure-now-assist-for-collaborative-work-management.md)
 

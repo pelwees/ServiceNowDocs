@@ -15,11 +15,11 @@ A branded landing page is a public web page displayed to users before they log i
 
 **Note:** Branded landing pages are available only when working with a single instance.
 
-The auto-login behavior for single instances is not supported for Microsoft Intune MDM builds using the iOS operating system. For more information regarding Microsoft Intune, see [Intune mobile device management \(MDM\)](intune-mdm.md).
+The auto-login behavior for single instances is not supported for Microsoft Intune MDM builds using the iOS operating system. For more information regarding Microsoft Intune, see [Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md).
 
 Branded landing pages enable you to create a customized page that provides navigation to the user to specific areas on your Now Mobile and Mobile Agent apps. Select whether to have the same or different landing pages for each of the mobile apps, based on the specific needs of your users.
 
-![Landing page with a customized sign in button in the mobile app header.](../image/branded-landing-page.png "Branded landing page displaying the customized Sign in button in the header")
+![Landing page with a customized sign in button in the mobile app header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/branded-landing-page.png "Branded landing page displaying the customized Sign in button in the header")
 
 ## Use case
 
@@ -29,7 +29,7 @@ Other examples of actions users can take after logging in include: sending a req
 
 ## Customize your mobile app login screen
 
-By default, when a user logs in to a ServiceNow mobile app, the standard mobile app login screen displays. This login screen can be customized by using mobile publishing and mobile theming. For more information, see [Publish mobile apps with custom branding](mobile-publishing.md) and [Next Experience theming for mobile](explore-ne-theming.md).
+By default, when a user logs in to a ServiceNow mobile app, the standard mobile app login screen displays. This login screen can be customized by using mobile publishing and mobile theming. For more information, see [Publish mobile apps with custom branding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md) and [Next Experience theming for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
-![Default mobile app login screen.](../image/mobile-app-login.png "Default mobile app login screen")
+![Default mobile app login screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/mobile-app-login.png "Default mobile app login screen")
 

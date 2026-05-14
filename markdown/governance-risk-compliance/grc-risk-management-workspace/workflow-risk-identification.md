@@ -26,7 +26,7 @@ Consider the following example to understand the workflow of risk identification
 
 At this point, the application is not a part of GRC. It must be brought to GRC as an entity before its risks can be assessed. The new application must also have information objects associated with it.
 
-The workflow and approvers of the application risk assessment are determined by the settings in the Risk Identification Configuration form. Refer to [Set up risk identification integration](../task/configure-risk-identification-form.md) to understand the process of defining the workflow. To reinitiate risk identification, a flow designer action is provided.
+The workflow and approvers of the application risk assessment are determined by the settings in the Risk Identification Configuration form. Refer to [Set up risk identification integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/configure-risk-identification-form.md) to understand the process of defining the workflow. To reinitiate risk identification, a flow designer action is provided.
 
 When assessing a new business application, the workflow of the risk identification is as follows:
 
@@ -52,7 +52,7 @@ When assessing a new business application, the workflow of the risk identificati
 
 The following figure represents the workflow of the solution.
 
-![Integration of APM and Advanced Risk Assessment](../image/updated-apm-and-risk-workflow.png "Solution workflow of the GRC and APM integration")
+![Integration of APM and Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../image/updated-apm-and-risk-workflow.png "Solution workflow of the GRC and APM integration")
 
 ## States of the risk identification record
 
@@ -80,5 +80,5 @@ In terms of its life cycle, a risk identification record goes through the follow
 6.  Monitor
 7.  Retired
 
-**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](risk-and-apm-better-together.md)
+**Parent Topic:**[Application risk assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-apm-better-together.md)
 

@@ -25,7 +25,7 @@ Role required: rota\_manager, rota\_admin, or admin
 
 2.  Open the required shift form.
 
-3.  In the Rosters related list, click the information icon \( ![Information icon.](../image/icon-information.png) \) for the roster to which you want to add a member.
+3.  In the Rosters related list, click the information icon \( ![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../image/icon-information.png) \) for the roster to which you want to add a member.
 
 4.  Click **Open Record**.
 
@@ -97,5 +97,5 @@ Roster from which you navigated to the form.
     **Note:** For a returning employee: The instance displays two shift member records for the same employee with different start and end validity dates.
 
 
-**Parent Topic:**[Managing roster members](../concept/managing-roster-members.md)
+**Parent Topic:**[Managing roster members](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/../concept/managing-roster-members.md)
 

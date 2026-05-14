@@ -36,7 +36,7 @@ You can assign these approvals to any user or user group in your organization wh
 
 1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
-2.  Click the list icon \(![List icon](../image/lsd-lcc-list-icon.png)\).
+2.  Click the list icon \(![List icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/lsd-lcc-list-icon.png)\).
 
 3.  In the **Lists** tab, open a legal request by selecting an option under **Legal Requests**.
 
@@ -73,7 +73,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 </td></tr></tbody>
 </table>4.  In the **Approvers** tab, click **Initiate Approval**.
 
-    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](../image/more-button-icon.png)\) and selecting **Initiate Approval**.
+    You can also initiate an approval by clicking the more actions button \(![More actions button icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/../image/more-button-icon.png)\) and selecting **Initiate Approval**.
 
 5.  On the Initiate Approval dialog box, fill in the fields.
 
@@ -111,7 +111,7 @@ Select document
 
 Documents attached to the legal request for which approval is required.This field appears only when **Document** is selected from **Approval for**.
 
-**Note:** The Document option in the list appears only when the [external storage option is enabled](associate-categories-practice-area.md) on the intake form of the request type.
+**Note:** The Document option in the list appears only when the [external storage option is enabled](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md) on the intake form of the request type.
 
 </td></tr><tr><td>
 
@@ -165,10 +165,10 @@ The approval details appear under the **Approvals** tab on the Standard Ticket p
 
 ## What to do next
 
-Approvers can review and [approve or reject the requested item](approve-reject-legal-request-attach.md).
+Approvers can review and [approve or reject the requested item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/approve-reject-legal-request-attach.md).
 
--   **[Cancel an ad hoc approval for a legal request](cancel-approval-legal-request.md)**  
+-   **[Cancel an ad hoc approval for a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/cancel-approval-legal-request.md)**  
 Cancel an ad hoc approval for a legal request if it no longer requires any action.
 
-**Parent Topic:**[Work on a legal request](work-on-legal-request.md)
+**Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 

@@ -23,7 +23,7 @@ Role required: sn\_skills\_int.admin
 
 1.  Navigate to **All** &gt; **Skills Workspace**.
 
-2.  Select the Lists icon \(![Lists icon](../../../common/image/icon-list.png)\).
+2.  Select the Lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../common/image/icon-list.png)\).
 
 3.  Go to **Job architecture** &gt; **Role groups**.
 
@@ -46,14 +46,14 @@ Role required: sn\_skills\_int.admin
 11. Select **Save**.
 
 
-**Parent Topic:**[Working with job architecture](../concept/job-architecture-working.md)
+**Parent Topic:**[Working with job architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/job-architecture-working.md)
 
 **Related topics**  
 
 
-[Creating a new role group through the Skills Workspace](create-new-role-group.md)
+[Creating a new role group through the Skills Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/create-new-role-group.md)
 
-[Add more skills to a role group](adding-skills-with-skills-matrix.md)
+[Add more skills to a role group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/adding-skills-with-skills-matrix.md)
 
-[Create related role groups](related-role-groups.md)
+[Create related role groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/related-role-groups.md)
 

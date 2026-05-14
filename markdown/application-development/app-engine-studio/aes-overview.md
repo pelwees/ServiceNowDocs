@@ -30,27 +30,27 @@ By delegating development to citizen developers in your organization, administra
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about App Engine Studio concepts and features.](exploring-aes.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about App Engine Studio concepts and features.](exploring-aes.md)
 
 </td><td>
 
-[Install ![](../../../reuse/icons/brand-icons/bus-cloud-download.svg) Install App Engine Studio and its associated apps.](../task/install-aes.md)
+[Install ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-cloud-download.svg) Install App Engine Studio and its associated apps.](../task/install-aes.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environments, tools, and user access.](aes-setup.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-sdlc.svg) Configure environments, tools, and user access.](aes-setup.md)
 
 </td></tr><tr><td>
 
-[Build ![](../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Build applications using App Engine Studio.](aes-app-creation.md)
+[Build ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-low-code-dev-tools.svg) Build applications using App Engine Studio.](aes-app-creation.md)
 
 </td><td>
 
-[Deploy ![](../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Deploy applications to the instances in your pipeline, from development to production using App Engine Management Center.](../../app-engine-management-center/concept/app-engine-management-center.md)
+[Deploy ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-integration-and-apis.svg) Deploy applications to the instances in your pipeline, from development to production using App Engine Management Center.](../../app-engine-management-center/concept/app-engine-management-center.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-learn.svg) Get details about App Engine Studio components such as fields, tables, and properties.](../reference/aes-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-studio/../../../reuse/icons/brand-icons/bus-learn.svg) Get details about App Engine Studio components such as fields, tables, and properties.](../reference/aes-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources for App Engine Studio

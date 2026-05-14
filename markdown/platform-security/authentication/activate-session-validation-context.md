@@ -39,10 +39,10 @@ To use the session validation, you must perform the following steps:
 
 8.  Set the system property `session.validation.enabled` to **Yes**.
 
-    ![Session Validation](../images/session-context.png)
+    ![Session Validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/session-context.png)
 
 
 ## Result
 
-The Session Validation feature is activated. You can configure the policy inputs and conditions for the policy to use the feature. To learn more, see [Tutorial: Configuring session validation](use-ip-session-context.md).
+The Session Validation feature is activated. You can configure the policy inputs and conditions for the policy to use the feature. To learn more, see [Tutorial: Configuring session validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/use-ip-session-context.md).
 

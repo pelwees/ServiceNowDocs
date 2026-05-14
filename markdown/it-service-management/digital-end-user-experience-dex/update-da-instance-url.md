@@ -21,7 +21,7 @@ Role required: admin
 
 **Note:** Only the system administrator must update the configuration file or make changes to it while deploying Desktop Assistant on devices.
 
-Desktop Assistant users can update the instance URL when logging in to the application. For more information, see [Open and log in to Desktop Assistant](open-desktop-exp.md).
+Desktop Assistant users can update the instance URL when logging in to the application. For more information, see [Open and log in to Desktop Assistant](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/open-desktop-exp.md).
 
 ## Procedure
 

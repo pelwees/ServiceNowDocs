@@ -32,9 +32,9 @@ Role required: admin
 4.  Click **Update**.
 
 
-**Parent Topic:**[Configuring your service for Universal Task](../concept/config-service-for-ut.md)
+**Parent Topic:**[Configuring your service for Universal Task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/../concept/config-service-for-ut.md)
 
-**Previous topic:**[Configure the roles to view employee forms](ut-config-empform-view-roles.md)
+**Previous topic:**[Configure the roles to view employee forms](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-empform-view-roles.md)
 
-**Next topic:**[Display the universal tasks for a request in Now Mobile](ut-mobile-config-tasktab.md)
+**Next topic:**[Display the universal tasks for a request in Now Mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-mobile-config-tasktab.md)
 

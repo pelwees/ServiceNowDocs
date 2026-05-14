@@ -26,7 +26,7 @@ Enforce multi-factor authentication based on the roles assigned to the user. If 
 |---------|-----------|
 |Property name|**glide.authenticate.multifactor**|
 |Configuration type|System Properties \(/sys\_properties\_list.do\)|
-|Category|[Authentication](sc-authentication.md)|
+|Category|[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)|
 |Purpose|Enforce role-based multi-factor authentication for all users assigned to specific roles.|
 |Type|true/false|
 |Recommended value|true|
@@ -34,9 +34,9 @@ Enforce multi-factor authentication based on the roles assigned to the user. If 
 |Security risk rating|7.2|
 |Functional impact|Enabling this property improves the experience of the user. It acts as an extra layer of protection and security against compromised credentials.|
 |Security risk|\(Moderate\) If this property is not enabled, there is a risk of unauthorized access to sensitive data.|
-|References|[Configure role-based multi-factor criteria](../../../integrate/authentication/task/mfa-role-criteria.md)|
+|References|[Configure role-based multi-factor criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/../../../integrate/authentication/task/mfa-role-criteria.md)|
 
 To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
-**Parent Topic:**[Authentication](sc-authentication.md)
+**Parent Topic:**[Authentication](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 

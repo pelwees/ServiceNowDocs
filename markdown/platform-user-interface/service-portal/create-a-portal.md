@@ -151,7 +151,7 @@ Inactive
 
 </td><td>
 
-Turn off access to a portal that you no longer want users to visit and optionally redirect them to another portal. For more information, see [Deactivate a portal](deactivate-portal.md).
+Turn off access to a portal that you no longer want users to visit and optionally redirect them to another portal. For more information, see [Deactivate a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/deactivate-portal.md).
 
 </td></tr><tr><td>
 
@@ -200,7 +200,7 @@ Support right-to-left languages
 
 Option to mirror the direction of the portal when the session language is a right-to-left language, such as Hebrew. Selecting this option automatically generates the necessary CSS but you can also provide your own CSS for right-to-left languages that overrides the auto-generated CSS.
 
- To provide your own CSS for right-to-left languages, see [Create a portal theme](../concept/c_CustomCSS.md). For more information about support for right-to-left languages, see [Styling for right-to-left languages in portals](../concept/styling-right-to-left-languages.md).
+ To provide your own CSS for right-to-left languages, see [Create a portal theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/c_CustomCSS.md). For more information about support for right-to-left languages, see [Styling for right-to-left languages in portals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/styling-right-to-left-languages.md).
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ Enable favorites
 
 </td><td>
 
-Option to enable the My favorites functionality in the portal.-   Displays the favorite icon \(![favorite icon](../image/favorite.png)\) for all catalog items and KB articles in the portal.
+Option to enable the My favorites functionality in the portal.-   Displays the favorite icon \(![favorite icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/favorite.png)\) for all catalog items and KB articles in the portal.
 -   Displays the **My Favorites** menu item in the portal header. This menu item displays a list of all catalog items or KB articles that are bookmarked for quick reference.
 
 **Note:**
@@ -253,7 +253,7 @@ Enable AIS
 
 </td><td>
 
-Option to enable AI Search in your portal. For more information, see [AI Search in Service Portal](../concept/ai-search.md).
+Option to enable AI Search in your portal. For more information, see [AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/ai-search.md).
 
 </td></tr><tr><td>
 
@@ -276,23 +276,23 @@ Defines how search results are displayed in the portal. For more information on 
 
 4.  In the Knowledge Bases related list, select **Edit** and then select which knowledge bases appear for the knowledge base page.
 
-    For example, if you select **IT** and **Instance Security Center**, only the article categories defined for these knowledge bases appear in the [KB categories widget](../concept/kb-categories-widget.md).
+    For example, if you select **IT** and **Instance Security Center**, only the article categories defined for these knowledge bases appear in the [KB categories widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/kb-categories-widget.md).
 
 5.  In the **Catalogs** related list, click **Edit** to select one or more catalogs listed in the sc\_catalog table to use in the portal.
 
 
--   **[Assign a homepage to a portal](assign-portal-homepage.md)**  
+-   **[Assign a homepage to a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/assign-portal-homepage.md)**  
 Edit your portal record to specify any page as your homepage.
--   **[Assign a default error page](../concept/create-a-default-404-page.md)**  
+-   **[Assign a default error page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/create-a-default-404-page.md)**  
 Create a default 404 error page for your portal using a system property.
--   **[Configure a portal header menu](configure-header-menu.md#)**  
+-   **[Configure a portal header menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-header-menu.md#)**  
 Define the look and behavior of the portal header menu and assign menu items to appear in the header. The header menu is one of the primary navigation controls for Service Portal users.
--   **[Configure a catalog in Service Portal](associate-portal-catalog.md)**  
+-   **[Configure a catalog in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/associate-portal-catalog.md)**  
 Associate a portal with multiple catalogs. By default, Service Portal is associated with Service Catalog.
--   **[Associate a portal with a knowledge base](associate-portal-knowledge.md)**  
+-   **[Associate a portal with a knowledge base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/associate-portal-knowledge.md)**  
 You can associate a portal with any knowledge base. Multiple knowledge bases can be associated with a portal.
--   **[Configure Agent Chat in a portal](configure-va-in-sp.md#)**  
+-   **[Configure Agent Chat in a portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configure-va-in-sp.md#)**  
 Your end users can initiate and maintain an Agent Chat conversation in any portal page. Write a script to pass portal-specific data to Agent Chat. For example, pass the name of your knowledge base to a Virtual Agent conversation.
 
-**Parent Topic:**[Configuring Service Portal](../concept/configuring-service-portal.md)
+**Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/configuring-service-portal.md)
 

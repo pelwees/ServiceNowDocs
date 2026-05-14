@@ -38,5 +38,5 @@ A persona is associated to a user role and can be mapped to specific fields for 
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Configure the community profile](configure-community-profile.md)
+**Parent Topic:**[Configure the community profile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-community-profile.md)
 

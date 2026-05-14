@@ -34,7 +34,7 @@ You can only configure conversational settings for actions that are marked as co
 
 3.  Goo to the **Conversational compatible** tab and select **Run compatibility check**.
 
-    ![Image of the conversational compatible tab on the actions page.](../images/conv-compatible-action.png)
+    ![Image of the conversational compatible tab on the actions page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/conv-compatible-action.png)
 
     By default, the system only checks new actions that were created since the last compatibility check. If you want to check all actions, select **Complete scan**. You can use a complete scan to verify that updated actions remain conversationally compatible.
 
@@ -47,5 +47,5 @@ The system updates the list of conversational compatible actions.
 
 ## What to do next
 
-To make an action conversational, configure its conversational settings. See [Configure action conversational settings](configure-action-conversation-settings.md).
+To make an action conversational, configure its conversational settings. See [Configure action conversational settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/configure-action-conversation-settings.md).
 

@@ -25,14 +25,14 @@ This task provides the general steps to integrate the WhatsApp messaging app wit
 
 ## Procedure
 
-1.  [Install Conversational Integration with WhatsApp \(powered by Twilio\)](messg-whatsapp-install.md).
+1.  [Install Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-install.md).
 
-2.  [Set up Conversational Integration with WhatsApp \(powered by Twilio\)](messg-whatsapp-setup.md).
+2.  [Set up Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-setup.md).
 
-3.  [Design virtual agent topics to capture information from a WhatsApp chat conversation](../concept/messg-whatsapp-capture-info.md).
+3.  [Design virtual agent topics to capture information from a WhatsApp chat conversation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/messg-whatsapp-capture-info.md).
 
-4.  [Close idle WhatsApp chat conversations](../concept/messg-whatsapp-open-conv.md).
+4.  [Close idle WhatsApp chat conversations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/messg-whatsapp-open-conv.md).
 
-5.  [Integrate WhatsApp with other ServiceNow applications](../concept/messg-whatsapp-integrating-apps.md).
+5.  [Integrate WhatsApp with other ServiceNow applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/messg-whatsapp-integrating-apps.md).
 
 

@@ -15,7 +15,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 Learn how to administer reports on the ServiceNow platform using the **Reports** &gt; **Administration** module.
 
-This module is not enabled by default, and must be activated. For a list of the reporting roles delivered with the ServiceNow platform, see [Reporting roles](reporting-roles.md#).
+This module is not enabled by default, and must be activated. For a list of the reporting roles delivered with the ServiceNow platform, see [Reporting roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-roles.md#).
 
 **Note:** Restricting a report by role restricts who can view a report. Users without the admin role cannot edit global reports. If a non-admin user edits a global report, saving that report creates a personalized version belonging to that user
 
@@ -69,7 +69,7 @@ Type
 
 </td><td>
 
-The [report type](report-types-creation-details-rd.md) for this report.
+The [report type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) for this report.
 
 </td></tr><tr><td>
 
@@ -153,7 +153,7 @@ Interval
 
 </td><td>
 
-For [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) charts, the interval of time to measure along.
+For [Trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreateTrendCharts.md#) or [Trendbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreatingTrendboxCharts.md#) charts, the interval of time to measure along.
 
 </td></tr><tr><td>
 
@@ -201,7 +201,7 @@ Sumfield
 
 </td><td>
 
-The field to perform a sum on for [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) Charts.
+The field to perform a sum on for [Trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreateTrendCharts.md#) or [Trendbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreatingTrendboxCharts.md#) Charts.
 
 </td></tr><tr><td>
 
@@ -209,8 +209,8 @@ Trend Field
 
 </td><td>
 
-The field to track over time for [Trend](../concept/c_CreateTrendCharts.md#) or [Trendbox](../concept/c_CreatingTrendboxCharts.md#) Charts.
+The field to track over time for [Trend](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreateTrendCharts.md#) or [Trendbox](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_CreatingTrendboxCharts.md#) Charts.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Administering reports](../concept/c_AdminsteringReports.md)
+</table>**Parent Topic:**[Administering reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdminsteringReports.md)
 

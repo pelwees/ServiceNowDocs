@@ -41,12 +41,12 @@ Standard Record Page \(SRP\) provides options to modify the different modals use
 
     -   Record Page Modals: Select this option to modify modals across all experiences.
     -   SOW Record Page Modals: Select this option to modify the modals used in Service Operations Workspace.
-6.  Select the ![Variants in SOW Record page modals.](../image/open-side-panel-tab.png) icon to open the variants provided.
+6.  Select the ![Variants in SOW Record page modals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/open-side-panel-tab.png) icon to open the variants provided.
 
-7.  Select the ![Create new page](../image/add-icon.png) icon to create a page or to add a new variant to a page.
+7.  Select the ![Create new page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../image/add-icon.png) icon to create a page or to add a new variant to a page.
 
     For more information about creating a page and variant, see [Learn UI Builder by example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder/learning-uib-by-example.md)
 
 
-**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](../concept/srp-service-operations-workspace.md)
+**Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/srp-service-operations-workspace.md)
 

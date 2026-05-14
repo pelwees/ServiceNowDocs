@@ -32,7 +32,7 @@ To create a case, you don't have to leave a case you are working on and try to f
 
 2.  Select a case from which you want to create additional case.
 
-3.  Click the ![More Actions icon](../reference/images/more-icon.png) icon at the top right hand corner of the Details tab.
+3.  Click the ![More Actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../reference/images/more-icon.png) icon at the top right hand corner of the Details tab.
 
 4.  Select **Create Additional Case**.
 

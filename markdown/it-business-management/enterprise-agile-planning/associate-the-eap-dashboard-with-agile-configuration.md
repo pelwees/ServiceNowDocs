@@ -17,7 +17,7 @@ Add dashboards to your Agile configuration so that product managers or scrum tea
 
 ## Before you begin
 
--   [Associate the EAP read-only role to the dashboard](add-the-eap-read-only-role-to-the-dashboard.md).
+-   [Associate the EAP read-only role to the dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/add-the-eap-read-only-role-to-the-dashboard.md).
 -   Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin

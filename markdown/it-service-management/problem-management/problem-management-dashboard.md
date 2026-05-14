@@ -17,15 +17,15 @@ Use this dashboard to gain a high-level view across the problem management proce
 
 **Important:**
 
-Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [Problem dashboard](performance-analytics/problem.md) to view, and track the open problems.
+Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/performance-analytics/problem.md) to view, and track the open problems.
 
-![Problem Overview tab of the Problem Management dashboard](../image/problem-mgmt-overview.png "Problem Overview tab")
+![Problem Overview tab of the Problem Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-mgmt-overview.png "Problem Overview tab")
 
-![Tab with information about open problems on the Problem Management dashboard](../image/problem-mgmt-open.png "Problem Open tab")
+![Tab with information about open problems on the Problem Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-mgmt-open.png "Problem Open tab")
 
-![Tab with information about new problems on the Problem Management dashboard](../image/problem-mgmt-new.png "Problem New tab")
+![Tab with information about new problems on the Problem Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-mgmt-new.png "Problem New tab")
 
-![Tab with information about closed problems on the Problem Management dashboard](../image/problem-mgmt-closed.png "Problem Closed tab")
+![Tab with information about closed problems on the Problem Management dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/problem-management/../image/problem-mgmt-closed.png "Problem Closed tab")
 
 ## End user and roles
 

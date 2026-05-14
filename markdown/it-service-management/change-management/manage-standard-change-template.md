@@ -53,14 +53,14 @@ Role required: admin, change\_manager, sn\_change\_write or itil
     -   Click **Save**. The modifications are saved but not sent for approval.
     -   Click **Request Approval**. The template is sent for approval to the change management team.
 
-**Parent Topic:**[Standard change catalog](../concept/c_StandardChangeCatalogPlugin.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/../concept/c_StandardChangeCatalogPlugin.md)
 
 **Related topics**  
 
 
-[Configure standard change catalog properties](t_ConfigureTheStandardChangeCatalog.md)
+[Configure standard change catalog properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ConfigureTheStandardChangeCatalog.md)
 
-[Create a standard change task template](create-a-standard-change-task-template.md)
+[Create a standard change task template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-standard-change-task-template.md)
 
-[Attach files to a standard change template](attach-files-change-templates.md)
+[Attach files to a standard change template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/change-management/attach-files-change-templates.md)
 

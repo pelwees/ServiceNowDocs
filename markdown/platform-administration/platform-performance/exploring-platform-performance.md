@@ -37,7 +37,7 @@ Instance administrators can optimize ServiceNow AI Platform performance by takin
 
 To learn more about improving ServiceNow AI Platform performance, see:
 
--   [Configuring the ServiceNow AI Platform to optimize performance](configuring-platform-performance.md)
--   [Resolving platform performance issues](resolving-plat-performance-issues.md)
--   [Monitoring platform performance](monitoring-platform-performance.md)
+-   [Configuring the ServiceNow AI Platform to optimize performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/configuring-platform-performance.md)
+-   [Resolving platform performance issues](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-plat-performance-issues.md)
+-   [Monitoring platform performance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 

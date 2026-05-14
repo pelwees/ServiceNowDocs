@@ -27,7 +27,7 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
     You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the **Schedule Planner** icon \(![Schedule Planner icon.](../images/schedule-plan-icon.png)\).
+2.  Select the **Schedule Planner** icon \(![Schedule Planner icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../images/schedule-plan-icon.png)\).
 
 3.  From the Schedule Plans list, select the schedule plan that you want to cancel.
 
@@ -40,5 +40,5 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 The schedule plan is moved to the Canceled state. If the schedule plan was published before being cancelled, the location assignments created in the plan are made inactive.
 
-**Parent Topic:**[Working with Schedule Planning](../concept/working-with-schedule-planning.md)
+**Parent Topic:**[Working with Schedule Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/../concept/working-with-schedule-planning.md)
 

@@ -53,7 +53,7 @@ Keyword
 
 </td><td>
 
-Type the search term in the search field and select the Search icon \( ![Search icon.](../image/search_icon.png)\).**Note:** To clear the search and display all tasks, delete the search term and press the Enter key.
+Type the search term in the search field and select the Search icon \( ![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/search_icon.png)\).**Note:** To clear the search and display all tasks, delete the search term and press the Enter key.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Calendar dates
 
 </td><td>
 
-Select the **Turn on filter tasks by calendar dates** \(![Turn on filter tasks by calendar dates.](../image/filter-calendar-date.png)\) icon to display tasks associated with the calendar dates in addition to the selected filter.**Note:** The task panel displays tasks based on dates as follows:
+Select the **Turn on filter tasks by calendar dates** \(![Turn on filter tasks by calendar dates.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/filter-calendar-date.png)\) icon to display tasks associated with the calendar dates in addition to the selected filter.**Note:** The task panel displays tasks based on dates as follows:
 
 -   If the window start and window end dates of a task fall within the dates currently shown on the calendar.
 -   If the window end field is empty, then the task appears if the calendar is displaying a date beyond the task's window start date.
@@ -84,7 +84,7 @@ Sort options
 
 </td><td>
 
-Select the Sort icon \(![Sort icon.](../image/sort_options.png)\) to sort tasks. The default sort options that appear are configured by the administrator.
+Select the Sort icon \(![Sort icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../image/sort_options.png)\) to sort tasks. The default sort options that appear are configured by the administrator.
 
 </td></tr></tbody>
 </table>
@@ -95,7 +95,7 @@ The tasks that meet the search requirements are displayed in the task panel.
 **Related topics**  
 
 
-[Search for appropriate Field Service agents](search-agents-tasks.md)
+[Search for appropriate Field Service agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/search-agents-tasks.md)
 
-[Assign work order tasks to agents](../concept/manage-work-order-tasks-dw.md#)
+[Assign work order tasks to agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/../concept/manage-work-order-tasks-dw.md#)
 

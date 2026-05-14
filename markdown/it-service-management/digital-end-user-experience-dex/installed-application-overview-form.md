@@ -74,5 +74,5 @@ Displays the total number of devices per version of the application.**Note:** Yo
 </td></tr></tbody>
 </table>**Note:** The Active Alerts and Incidents bar chart lets you quickly analyze application version distribution.
 
-**Parent Topic:**[Applications list](application-form.md)
+**Parent Topic:**[Applications list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 

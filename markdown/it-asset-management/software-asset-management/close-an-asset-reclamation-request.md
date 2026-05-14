@@ -66,5 +66,5 @@ Role required: sam\_user or asset.
 8.  Once all the user reclamation tasks are closed, the status of the catalog request changes to **complete**.
 
 
-**Parent Topic:**[Create a catalog request to reclaim assets](create-catalog-req-offboardingsam.md)
+**Parent Topic:**[Create a catalog request to reclaim assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-catalog-req-offboardingsam.md)
 

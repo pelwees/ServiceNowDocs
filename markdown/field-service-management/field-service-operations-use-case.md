@@ -23,7 +23,7 @@ ServiceNow helped the vendor complete the upgrade quickly, reducing phone calls 
 
 ## Field Service operations workflow diagram
 
-![Field Service Management operations workflow. For text description, refer to the following table.](../image/FSM-operations-workflow.png)
+![Field Service Management operations workflow. For text description, refer to the following table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/FSM-operations-workflow.png)
 
 ## Field Service operations workflow steps
 
@@ -39,5 +39,5 @@ The following table provides the steps for the Field Service operations workflow
 |6. Track and audit|The signed status automatically generates a PDF summary of the work order including the completed tasks, parts used and returned, incidental expenses, and the time required to complete the work. The PDF is attached to the work order form for tracking and audit purposes.|
 |7. Report and analyze|All data and timelines are also tracked in the work order, and are available for trend analysis, reports, and audits to satisfy compliance requirements. The Field Service manager compares the metrics from the work order to key performance indicators \(KPIs\) available by default within theServiceNow Performance Analytics dashboards.|
 
-**Parent Topic:**[Field Service Management workflow examples](fsm-use-cases.md)
+**Parent Topic:**[Field Service Management workflow examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/fsm-use-cases.md)
 

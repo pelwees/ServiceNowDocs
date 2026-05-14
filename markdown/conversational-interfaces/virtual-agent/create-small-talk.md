@@ -17,7 +17,7 @@ Build small talk topics that let Virtual Agent engage in casual conversation wit
 
 ## Before you begin
 
-If you're creating an LLM small talk topic, ensure you are familiar with LLM descriptions and instructions. For more information, see [LLM description and instruction guidelines for Virtual Agent topics](../concept/va-llm-instruction-guidelines.md).
+If you're creating an LLM small talk topic, ensure you are familiar with LLM descriptions and instructions. For more information, see [LLM description and instruction guidelines for Virtual Agent topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-llm-instruction-guidelines.md).
 
 If you're creating an NLU small talk topic, define the corresponding intent in the appropriate NLU model.
 
@@ -37,7 +37,7 @@ Small talk topics are conversations that diverge from the original bot conversat
 
 3.  For the Type, select **Small Talk**.
 
-4.  Follow the steps for [creating a topic](create-virtual-agent-topic.md).
+4.  Follow the steps for [creating a topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md).
 
     **Note:**
 
@@ -50,5 +50,5 @@ Small talk topics are conversations that diverge from the original bot conversat
 
     -   When you complete your small talk topic, remember to publish it when you are ready to deploy it to your Virtual Agent clients.
 
-**Parent Topic:**[Creating a Virtual Agent topic](create-virtual-agent-topic.md)
+**Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 

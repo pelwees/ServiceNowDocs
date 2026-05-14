@@ -39,5 +39,5 @@ Here is some example use cases:
 
 Snowflake and Google BigQuery Integration: WDF tables sourced from Snowflake and Google BigQuery can be added to the Knowledge Graph schema, allowing users to query and analyze data from these external sources within ServiceNow.
 
-![WDF tables](../Images/snowflake-googl-example-kg.png)
+![WDF tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/../Images/snowflake-googl-example-kg.png)
 

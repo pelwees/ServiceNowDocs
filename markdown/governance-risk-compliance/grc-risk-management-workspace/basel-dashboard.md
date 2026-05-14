@@ -36,7 +36,7 @@ If you are on Vancouver or Washington DC, you can view the dashboard in the Next
 
 To view the dashboard, navigate to **All** &gt; **Risk Events** &gt; **Analytics Basel Dashboard**.
 
-![Basel Dashboard in the Next Experience.](../../../use/dashboards/image/basel-dashboard-washingtondc.gif "Basel Dashboard in the Next Experience")
+![Basel Dashboard in the Next Experience.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../../use/dashboards/image/basel-dashboard-washingtondc.gif "Basel Dashboard in the Next Experience")
 
 The Basel Dashboard has two tabs:
 
@@ -51,5 +51,5 @@ The Basel Dashboard has two tabs:
     -   Open Risk Events by Line of Business
     -   Closed Risk Events by Line of Business
 
-**Parent Topic:**[Analytics and reporting solutions for Risk Management](../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
+**Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../../use/dashboards/application-content-packs/grc-risk-mgmt-content-pack.md)
 

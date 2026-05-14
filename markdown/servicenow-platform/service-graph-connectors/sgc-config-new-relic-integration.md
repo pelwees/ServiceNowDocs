@@ -21,8 +21,8 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [Integration Commons for CMDB](../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
--   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](../concept/cmdb-ci-class-models.md).
+-   The [Integration Commons for CMDB](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/integration-commons-for-cmdb.md) store app, which is automatically installed.
+-   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-ci-class-models.md).
 -   The ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ActivateTheDiscoveryPlugin.md).
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
@@ -32,7 +32,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/cmdb-sgc-intro.md#section_ett_spp_4hc).
 
 ## Procedure
 
@@ -156,7 +156,7 @@ Connection and Credential Alias
 
 </td><td>
 
-Select the connection alias that you created in step [4](sgc-config-new-relic-integration.md#new-relic-alias).
+Select the connection alias that you created in step [4](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md#new-relic-alias).
 
 </td></tr></tbody>
 </table>        5.  Select **Submit**.
@@ -185,7 +185,7 @@ Select the connection alias that you created in step [4](sgc-config-new-relic-in
 
     6.  Select **Update**.
 
-    7.  Repeat steps [6.c](sgc-config-new-relic-integration.md#select-job) to [6.f](sgc-config-new-relic-integration.md#exe-job) for each scheduled job for data import.
+    7.  Repeat steps [6.c](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md#select-job) to [6.f](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-new-relic-integration.md#exe-job) for each scheduled job for data import.
 
     8.  Navigate back to the guided setup page.
 

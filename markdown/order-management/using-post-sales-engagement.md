@@ -17,5 +17,5 @@ Learn how to use post-sales engagement applications.
 
 Modify, suspend, resume, or disconnect the sold products and their complete hierarchy.
 
-**Parent Topic:**[Using Sales Customer Relationship Management applications](som-using.md)
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 

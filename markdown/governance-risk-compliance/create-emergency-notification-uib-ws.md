@@ -31,11 +31,11 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
 
     The New Notification form is shown in the example.
 
-    ![New notification form.](../image/create-new-notification.png)
+    ![New notification form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/create-new-notification.png)
 
 5.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Create New Notification form](../reference/create-new-notification-form.md).
+    For more information on the fields in the form, see [Create New Notification form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-notification-form.md).
 
 6.  To save the notification and send it later, select **Save**.
 
@@ -43,7 +43,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
 
     It creates a notification in Everbridge as shown in the example.
 
-    ![Get response status.](../image/get-response-status-notification.png)
+    ![Get response status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/get-response-status-notification.png)
 
     When you create and send a notification for a crisis event in Business Continuity Workspace, a corresponding incident is created along with a notification in Everbridge.
 
@@ -66,8 +66,8 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, or sn\_bcm.admin
     **Note:** Now that the event is closed and the corresponding incident in Everbridge is also closed, you can’t create any more notifications for this event.
 
 
--   **[Create New Notification form](../reference/create-new-notification-form.md)**  
+-   **[Create New Notification form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-notification-form.md)**  
 Use the Create New Notification form in BCM UIB Workspace to add details about an emergency notification.
 
-**Parent Topic:**[Sending notifications with Everbridge](../concept/ebn-collective-tasks.md)
+**Parent Topic:**[Sending notifications with Everbridge](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/ebn-collective-tasks.md)
 

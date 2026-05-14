@@ -29,7 +29,7 @@ Role required: admin
 
 4.  Enter the **New Taxonomy Name** in the dialog box that appears and click **OK**.
 
-    This copies the taxonomy and its contents to the new taxonomy. Optionally, you can manually create a taxonomy and add your topics. For more information, see, [Create taxonomy](create-taxonomy-content.md)
+    This copies the taxonomy and its contents to the new taxonomy. Optionally, you can manually create a taxonomy and add your topics. For more information, see, [Create taxonomy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-taxonomy-content.md)
 
 5.  Modify the taxonomy content and click **Update**.
 
@@ -44,5 +44,5 @@ Role required: admin
 10. Click **Update**.
 
 
-**Parent Topic:**[Configuring Employee Center for mobile](../concept/ec-mobile-configrations.md)
+**Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/ec-mobile-configrations.md)
 

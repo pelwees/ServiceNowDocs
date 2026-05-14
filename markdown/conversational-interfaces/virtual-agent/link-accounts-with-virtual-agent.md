@@ -37,13 +37,13 @@ However, after you unlink your messaging account from your ServiceNow account \(
 
 4.  Select **Link to ServiceNow** to authenticate.
 
-    ![Link your ServiceNow profile.](../images/msteams-custom-bot-response.png)
+    ![Link your ServiceNow profile.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/msteams-custom-bot-response.png)
 
     Authentication directs you to your instance or a specific Service Portal set by your admin. If you're not already logged in to your instance or a Service Portal, you’re prompted to enter your login credentials.
 
     **Note:** If a user is unlinked or continued as a guest, notifications are disabled. Also, only the public topics are discoverable.
 
-    ![Check out tips providing you with the commands to get started with the Virtual Agent.](../images/checkout-tips.png "Check out Tips")
+    ![Check out tips providing you with the commands to get started with the Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/checkout-tips.png "Check out Tips")
 
 5.  In the confirmation that appears prompting you to Confirm or Deny linkage between your accounts, select Confirm to enable the account link.
 
@@ -52,10 +52,10 @@ However, after you unlink your messaging account from your ServiceNow account \(
     A confirmation message is displayed at the top of the screen.
 
 
-**Parent Topic:**[Account linking in pre-built messaging integrations](../concept/va-adapter-autolinking.md)
+**Parent Topic:**[Account linking in pre-built messaging integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/va-adapter-autolinking.md)
 
 **Related topics**  
 
 
-[Redirect user authentication to a Service Portal](set-user-linkage.md)
+[Redirect user authentication to a Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/set-user-linkage.md)
 

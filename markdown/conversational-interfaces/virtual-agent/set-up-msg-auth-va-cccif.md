@@ -17,7 +17,7 @@ Create a Hash Message Verification record and Message Auth record to set up mess
 
 ## Before you begin
 
-[Configure a provider for your custom chat integration](create-provider-va-cccif.md).
+[Configure a provider for your custom chat integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-provider-va-cccif.md).
 
 Role required: admin
 
@@ -62,7 +62,7 @@ You can create a Hash Message Verification record and Message Auth record to set
 
 ## What to do next
 
-[Create a channel identifier for your custom chat integration](create-channel-id-va-cccif.md)
+[Create a channel identifier for your custom chat integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-channel-id-va-cccif.md)
 
-**Parent Topic:**[Create a Virtual Agent conversational custom chat integration](create-adapter-for-virtual-agent.md)
+**Parent Topic:**[Create a Virtual Agent conversational custom chat integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-adapter-for-virtual-agent.md)
 

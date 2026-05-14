@@ -47,7 +47,7 @@ Assessment template
 
 The assessment template you use to perform the AI assessment. You can see the list of all published assessment templates in this drop-down list.
 
- For information about publishing, see [Publish the assessment templates](publish-the-assessment-templates.md).
+ For information about publishing, see [Publish the assessment templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/publish-the-assessment-templates.md).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Description of the AI assessment.
 
 ## What to do next
 
-[Perform impact assessment on an AI use case](perform-impact-assessment-of-ai-use-case.md)
+[Perform impact assessment on an AI use case](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-impact-assessment-of-ai-use-case.md)
 
-**Parent Topic:**[Using AI Risk and Compliance](../concept/using-ai-risk-and-compliance.md)
+**Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/using-ai-risk-and-compliance.md)
 

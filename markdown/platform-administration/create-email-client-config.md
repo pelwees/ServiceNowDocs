@@ -38,13 +38,13 @@ You can create one email client configuration per ServiceNow table.
 
 3.  In the Recipient Configuration section, select **Recipient Qualifiers** to be used for this client configuration.
 
-    1.  Select the lock icon \(![Lock icon](../../localization-framework/image/lock-icon.png)\).
+    1.  Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../localization-framework/image/lock-icon.png)\).
 
         By default, two types of recipients are available: Active Users with email accounts and Active Groups with email accounts.
 
-    2.  Select the search icon \(![Search icon](../image/search-icon.png)\) and select a recipient configuration from the list of available recipient configurations.
+    2.  Select the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/search-icon.png)\) and select a recipient configuration from the list of available recipient configurations.
 
-    3.  Select the lock icon \(![Lock icon](../image/unlock-icon.png)\) to lock it.
+    3.  Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/unlock-icon.png)\) to lock it.
 
 4.  In the Display Configuration section:
 
@@ -62,11 +62,11 @@ You can create one email client configuration per ServiceNow table.
 
 6.  In the Filter Configuration section, select **Email Address Filters** to be applied to the email client.
 
-    1.  Unlock the lock icon \(![Lock icon](../image/unlock-icon.png)\).
+    1.  Unlock the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/unlock-icon.png)\).
 
-    2.  Select the search icon \(![Search icon](../image/search-icon.png)\) and select one or more Email Address Filters.
+    2.  Select the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/search-icon.png)\) and select one or more Email Address Filters.
 
-    3.  Select the lock icon \(![Lock icon](../image/unlock-icon.png)\) to lock **Email Address Filters**.
+    3.  Select the lock icon \(![Lock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/unlock-icon.png)\) to lock **Email Address Filters**.
 
     Each filter that you select evaluates a given email address and determines whether or not the given address is valid to apply to an outbound email.
 
@@ -75,5 +75,5 @@ You can create one email client configuration per ServiceNow table.
     The configuration is added to the Email Client Configuration \[sys\_email\_client\_configuration\] table.
 
 
-**Parent Topic:**[Email client configurations](../concept/email-client-configuration.md)
+**Parent Topic:**[Email client configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/email-client-configuration.md)
 

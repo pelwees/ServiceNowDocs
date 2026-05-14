@@ -47,16 +47,16 @@ The user must have permissions to run the following AWS KMS API operations:
 
 ## Result
 
-The external key definition is configured. Verify that the key status displays as Active for the new configuration. To confirm if the key is usable, select **Test EKMS Config**. Wait for the key status to change to Active before using it.![External Key Management Service key definition with an active status](../image/ekms-active-key-definition.png)
+The external key definition is configured. Verify that the key status displays as Active for the new configuration. To confirm if the key is usable, select **Test EKMS Config**. Wait for the key status to change to Active before using it.![External Key Management Service key definition with an active status](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/ekms-active-key-definition.png)
 
 ## What to do next
 
 Next steps:
 
--   [Create a cryptographic module with external key wrapping](ekms-create-crypto-module.md)
--   [Create encrypted field configurations to specify which tables and columns to encrypt](ekms-create-encrypted-field-config.md)
--   [Set up module access policies to control who can view the encrypted data](ekms-set-up-maps.md)
--   [Test an external key definition](ekms-test-external-key-definition.md)
+-   [Create a cryptographic module with external key wrapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ekms-create-crypto-module.md)
+-   [Create encrypted field configurations to specify which tables and columns to encrypt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ekms-create-encrypted-field-config.md)
+-   [Set up module access policies to control who can view the encrypted data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ekms-set-up-maps.md)
+-   [Test an external key definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/ekms-test-external-key-definition.md)
 
-**Parent Topic:**[Configuring External Key Management Service](../concept/ekms-configuring-external-key-management.md)
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/ekms-configuring-external-key-management.md)
 

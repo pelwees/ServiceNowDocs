@@ -33,10 +33,10 @@ Role required: admin
     |true|Calendar only appears for a date picker, which is the default behavior in Core UI.|
 
 
-**Parent Topic:**[Date and Date/Time fields](../reference/r_UseDateAndTimeFields.md)
+**Parent Topic:**[Date and Date/Time fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../reference/r_UseDateAndTimeFields.md)
 
 **Related topics**  
 
 
-[List editor administration](../../list-administration/reference/r_AdministeringTheListEditor.md)
+[List editor administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/../../list-administration/reference/r_AdministeringTheListEditor.md)
 

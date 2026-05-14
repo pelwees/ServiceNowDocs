@@ -35,7 +35,7 @@ Configure user groups for dispatchers in Dispatcher Workspace
 
 5.  Select the Dispatch Group that you want the dispatcher to be a part of.
 
-6.  Select the Add icon ![add icon](../image/add-arrow.png).
+6.  Select the Add icon ![add icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/../image/add-arrow.png).
 
 7.  Repeat steps five and six until all Dispatch Groups are added.
 

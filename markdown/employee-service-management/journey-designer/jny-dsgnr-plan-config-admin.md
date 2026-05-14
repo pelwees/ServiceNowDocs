@@ -23,12 +23,12 @@ Administrators can assign owners and approvers of plan configurations associated
 
 **Important:** It’s optional to assign owners and approvers to a plan configuration. Administrators have full capabilities to update and create plan configurations regardless whether there’s an assigned owner.
 
--   **[Create Journey designer plan configuration](../task/jny-create-mng-decentrlzd-template-configs.md)**  
+-   **[Create Journey designer plan configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../task/jny-create-mng-decentrlzd-template-configs.md)**  
 Create a Journey designer plan configuration in Journey designer version 2.
--   **[Assign owners and approvers to a journey configuration](../task/jny-assign-pconfig-owner-approver.md)**  
+-   **[Assign owners and approvers to a journey configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../task/jny-assign-pconfig-owner-approver.md)**  
 In Journey designer, administrators assign the initial owners and approvers to a plan configuration.
--   **[Change Journey designer plan configuration owners or approvers](../task/jny-dsgnr-change-pconfig-owners-approvers.md)**  
+-   **[Change Journey designer plan configuration owners or approvers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../task/jny-dsgnr-change-pconfig-owners-approvers.md)**  
 Administrators can change a plan configuration owner or approver.
 
-**Parent Topic:**[Configure Journey designer features](jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 

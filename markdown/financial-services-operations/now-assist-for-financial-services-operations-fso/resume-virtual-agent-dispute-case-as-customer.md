@@ -32,5 +32,5 @@ Role required: none
 4.  At the Submit dispute activity, select **Submit**.
 
 
-**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](submit-dispute-case-disputes-intake-via-virtual-agent.md)
+**Parent Topic:**[Submit a dispute case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/submit-dispute-case-disputes-intake-via-virtual-agent.md)
 

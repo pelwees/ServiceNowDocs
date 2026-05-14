@@ -27,7 +27,7 @@ Role required: sn\_align\_core.apw\_user
 
     If you don’t have a scoring framework assigned to your portfolio plan:
 
-    1.  Select the more actions icon \(![More actions icon](../../alignment-planner-workspace/images/icon-more-actions.png)\).
+    1.  Select the more actions icon \(![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../alignment-planner-workspace/images/icon-more-actions.png)\).
     2.  Select **Edit portfolio plan**.
     3.  Navigate to the **Add Details** step.
     4.  Select a framework for your portfolio plan.
@@ -38,9 +38,9 @@ Role required: sn\_align\_core.apw\_user
 
 4.  Enter values for each of the scoring framework attributes.
 
-    ![Adding scoring attributes for the RICE scoring framework.](../images/add-scores.gif)
+    ![Adding scoring attributes for the RICE scoring framework.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/add-scores.gif)
 
-    To learn about the scoring framework attributes and the scoring formula, select the information icon \(![Information icon.](../../it-finance/image/Information_icon.png)\) for each of the fields.
+    To learn about the scoring framework attributes and the scoring formula, select the information icon \(![Information icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../../it-finance/image/Information_icon.png)\) for each of the fields.
 
 
 ## Result
@@ -49,12 +49,12 @@ The score for each item is populated based on the scoring attribute values and c
 
 **Note:** To generate a final score for a pre-defined scoring framework, all the attributes of a scoring framework need to have values.
 
-**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](../concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
+**Parent Topic:**[Scoring planning items in Strategic Planning Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/using-scoring-frameworks-in-startegic-planning-workspace.md)
 
 **Related topics**  
 
 
-[Scoring in Strategic Planning](../concept/scoring-in-strategic-planning.md)
+[Scoring in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/scoring-in-strategic-planning.md)
 
-[Custom scoring frameworks in Strategic Planning](../concept/custom-scoring-frameworks-in-strategic-planning.md)
+[Custom scoring frameworks in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../concept/custom-scoring-frameworks-in-strategic-planning.md)
 

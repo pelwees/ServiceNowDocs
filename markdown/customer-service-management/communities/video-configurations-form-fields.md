@@ -56,20 +56,20 @@ Widget
 A widget to render the videos from the source. Enter `Communities render video`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Communities references](communitie-references.md)
+</table>**Parent Topic:**[Communities references](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communitie-references.md)
 
 **Related topics**  
 
 
-[Quick start tests for Communities](../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
+[Quick start tests for Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../../administer/atf-quick-start-tests/reference/quick-start-tests-communities.md)
 
-[Properties installed with Communities](communities-properties.md)
+[Properties installed with Communities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-properties.md)
 
-[Communities roles](communities-roles.md)
+[Communities roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-roles.md)
 
-[Forum form fields](forum-form-fields.md)
+[Forum form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/forum-form-fields.md)
 
-[Topic form fields](topic-form-fields.md)
+[Topic form fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/topic-form-fields.md)
 
-[Configure video sources for a community](../../customer-service-management/task/create-video-configuration.md)
+[Configure video sources for a community](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../../customer-service-management/task/create-video-configuration.md)
 

@@ -25,9 +25,9 @@ On-demand generation of the indicator scores is more efficient than running sche
 
 1.  Navigate to **Workspace** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Setup page by selecting the Setup icon ![Setup icon](../../image/eaw-image/setup-icon.png).
+2.  Open the Setup page by selecting the Setup icon ![Setup icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/setup-icon.png).
 
-3.  Select the expand row icon \(![Expand Row icon.](../../image/ExpandIcon.png)\) next to **Scoring Profiles**.
+3.  Select the expand row icon \(![Expand Row icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/ExpandIcon.png)\) next to **Scoring Profiles**.
 
 4.  Select **All**.
 
@@ -39,12 +39,12 @@ On-demand generation of the indicator scores is more efficient than running sche
 
 7.  In the **Fiscal Period** box, enter the fiscal period that you want to generate the indicator score for.
 
-    You can also select the lookup using list icon ![Lookup using list icon.](../../image/eaw-image/lookup-using-list-icon.png) to view the list of available fiscal periods.
+    You can also select the lookup using list icon ![Lookup using list icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/lookup-using-list-icon.png) to view the list of available fiscal periods.
 
 8.  Select **OK**.
 
     This action doesn’t update the existing capability indicator scores but deletes them and generates new scores.
 
 
-**Parent Topic:**[Configure scoring profiles](../../concept/eaw-concept/eaw-setup-scroring-prof.md)
+**Parent Topic:**[Configure scoring profiles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-setup-scroring-prof.md)
 

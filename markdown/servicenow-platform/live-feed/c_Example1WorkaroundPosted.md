@@ -36,10 +36,10 @@ This example demonstrates a table notification that generates an automatic messa
     ```
 
 
-**Parent Topic:**[Live Feed table notification examples](c_LFTableNotifiExamples.md)
+**Parent Topic:**[Live Feed table notification examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_LFTableNotifiExamples.md)
 
 **Related topics**  
 
 
-[Live Feed table notifications](c_SetUpLiveFeedTableNotifications.md)
+[Live Feed table notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_SetUpLiveFeedTableNotifications.md)
 

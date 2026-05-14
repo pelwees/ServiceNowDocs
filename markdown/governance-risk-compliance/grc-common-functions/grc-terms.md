@@ -39,13 +39,13 @@ Starting with previous release, many terms within all the GRC core applications 
 |**Risk**|**All Risks** &gt; **Statement** &gt; **field**|**My Risks** &gt; **Risk Statement** field|
 |**My Risks** &gt; **Statement** field|**My Risks** &gt; **Risk Statement** field|
 
-![indicator form showing the control/risk field](../../grc-policy-and-compliance/image/indicator-nomenclature.png "Indicator form updates")
+![indicator form showing the control/risk field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/image/indicator-nomenclature.png "Indicator form updates")
 
-![indicator template form showing the control/risk field](../../grc-policy-and-compliance/image/indicator-template-nomenclature.png "Indicator Template form updates")
+![indicator template form showing the control/risk field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-policy-and-compliance/image/indicator-template-nomenclature.png "Indicator Template form updates")
 
-![GRC issue record with the Details tab showing highlighted areas for Control Objective/Risk Statement and Control/Risk](../image/grc-issue-nomenclature.png "Issue form updates")
+![GRC issue record with the Details tab showing highlighted areas for Control Objective/Risk Statement and Control/Risk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/grc-issue-nomenclature.png "Issue form updates")
 
-![Risk record showing highlighted areas for Risk Statement field](../../grc-risk/image/risk-nomenclature.png "Risk record showing highlighted areas for Risk Statement field")
+![Risk record showing highlighted areas for Risk Statement field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../../grc-risk/image/risk-nomenclature.png "Risk record showing highlighted areas for Risk Statement field")
 
 ## Industry references
 
@@ -996,5 +996,5 @@ Uncertainty
 The state of being unable to completely predict, determine, or define something.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Common Governance, Risk, and Compliance features](../concept/common-grc-features.md)
+</table>**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/common-grc-features.md)
 

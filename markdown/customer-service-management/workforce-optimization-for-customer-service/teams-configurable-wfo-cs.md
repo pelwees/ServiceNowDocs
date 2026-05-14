@@ -26,7 +26,7 @@ With Teams, you can do the following:
 -   Targets can be set on the KPIs through the team performance page at the global or individual level. When such targets are set, the trendline reflects the targets.
 -   Drill down to the individual agent level to view a 360 degree view of the current work, historical KPIs, presence history, channel capacity utilization, skills, and upcoming time-offs.
 
-**Parent Topic:**[Using Workforce Optimization for Customer Service](use-configurable-wfo-cs.md)
+**Parent Topic:**[Using Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/use-configurable-wfo-cs.md)
 
 ## Analyze the performance trends for your teams
 
@@ -44,11 +44,11 @@ Analyze the data by drilling down into the data for a team, a specific team memb
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Click the Teams ![Teams icon](../image/teams-new.png) icon.
+2.  Click the Teams ![Teams icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/teams-new.png) icon.
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [system property](../reference/components-installed-configurable-wfo-cs.md).
+    You can set the default date range using the **sn\_team\_perf.default\_date\_range** [system property](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../reference/components-installed-configurable-wfo-cs.md).
 
 4.  Analyze team performance.
 
@@ -91,5 +91,5 @@ Click the **Tasks** tab and analyze all cases related to the team.-   To view th
 **Related topics**  
 
 
-[Setting up Teams Workforce Optimization for Customer Service](setting-teams-configurable-wfo-cs.md#)
+[Setting up Teams Workforce Optimization for Customer Service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/setting-teams-configurable-wfo-cs.md#)
 

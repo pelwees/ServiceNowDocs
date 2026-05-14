@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-You can [apply existing user criteria](widget-user-criteria.md) to records in Service Portal through Service Portal configuration \(**Service Portal** &gt; **Service Portal configuration**\). You can only create user criteria within the platform UI.
+You can [apply existing user criteria](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-user-criteria.md) to records in Service Portal through Service Portal configuration \(**Service Portal** &gt; **Service Portal configuration**\). You can only create user criteria within the platform UI.
 
 ## Procedure
 
@@ -159,5 +159,5 @@ Determines whether all elements from each populated criteria field must match. I
 </table>5.  Click **Submit**.
 
 
-**Parent Topic:**[User criteria for Service Portal](../concept/user-criteria.md)
+**Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/user-criteria.md)
 

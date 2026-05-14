@@ -15,9 +15,9 @@ breadcrumb: [Installed with Zing, Zing text indexing and search engine, Search a
 
 Zing is installed with these roles.
 
-To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/../../subscription-management/concept/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Parent Topic:**[Installed with Zing](installed-with-zing.md)
+**Parent Topic:**[Installed with Zing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/search-administration/installed-with-zing.md)
 
 ## Search application administrator \[search\_application\_admin\]
 

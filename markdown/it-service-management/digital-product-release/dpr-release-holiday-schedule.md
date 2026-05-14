@@ -415,7 +415,7 @@ Original calendar span
 
 </td><td>
 
-Jul 8 to Sep 5![Calendar view of a release timeline without considering any holidays and weekends.](../image/dpr-schedule-in-release-without.png)
+Jul 8 to Sep 5![Calendar view of a release timeline without considering any holidays and weekends.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-schedule-in-release-without.png)
 
 </td></tr><tr><td>
 
@@ -423,7 +423,7 @@ Adjusted span, excluding non-working days
 
 </td><td>
 
-Jun 11 to Sep 5 ![Calendar view of a release timeline considering associated holiday schedule and weekends.](../image/dpr-schedule-in-release-with.png)
+Jun 11 to Sep 5 ![Calendar view of a release timeline considering associated holiday schedule and weekends.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/../image/dpr-schedule-in-release-with.png)
 
 </td></tr><tr><td>
 
@@ -451,5 +451,5 @@ Non-Working Days
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Exploring Digital Product Release](dpr-exploring-digital-product-release.md)
+**Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 

@@ -30,7 +30,7 @@ If suggested steps are available for a case, Now Assist for CSM generates and di
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  Using the List icon ![icon for seeing the list of cases](../../../common/image/List_MenuIcon.png), open a case that is not in **Closed** or **Complete** state.
+2.  Using the List icon ![icon for seeing the list of cases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../../../common/image/List_MenuIcon.png), open a case that is not in **Closed** or **Complete** state.
 
 3.  Select the Recommendations icon in the contextual side panel to display the Recommended Actions tab.
 
@@ -40,7 +40,7 @@ If suggested steps are available for a case, Now Assist for CSM generates and di
 
     The steps to resolve the case appears in the **Recommendations** window in the case record. This action may take a few minutes.
 
-    ![Suggested steps by Now Assist to resolve the issue](../image/suggested-steps.png "Suggested steps by Now Assist")
+    ![Suggested steps by Now Assist to resolve the issue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../image/suggested-steps.png "Suggested steps by Now Assist")
 
     **Note:**
 
@@ -53,5 +53,5 @@ If suggested steps are available for a case, Now Assist for CSM generates and di
     These visual updates help users clearly identify AI‑generated experiences, creating a more consistent and intuitive interface.
 
 
-**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](../concept/now-assist-csm-using.md)
+**Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/../concept/now-assist-csm-using.md)
 

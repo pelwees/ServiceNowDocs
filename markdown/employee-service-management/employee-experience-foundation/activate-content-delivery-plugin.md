@@ -19,7 +19,7 @@ Activate the Content Publishing \[sn\_cd\] to create and distribute engaging emp
 
 Role required: admin
 
-[Install Employee Center Pro](install-ec-pro.md)
+[Install Employee Center Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ec-pro.md)
 
 ## Procedure
 
@@ -39,9 +39,9 @@ Role required: admin
 **Related topics**  
 
 
-[Components installed with Content Publishing](../reference/installed-with-content-delivery.md)
+[Components installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/installed-with-content-delivery.md)
 
-[Properties installed with Content Publishing](../reference/properties-with-content-delivery.md)
+[Properties installed with Content Publishing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../reference/properties-with-content-delivery.md)
 
-[Setup employee communications](../concept/setup-employee-comms.md)
+[Setup employee communications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/setup-employee-comms.md)
 

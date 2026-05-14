@@ -27,7 +27,7 @@ The Anonymous Report Center plugin includes three out-of-the-box catalog items:
 -   Report Discrimination
 -   Visit Anonymous Report Center
 
-![Once the catalog items are added, employees can report misconduct or discrimination or open the ARC homepage](../image/arc-employee-conduct.png)
+![Once the catalog items are added, employees can report misconduct or discrimination or open the ARC homepage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/arc-employee-conduct.png)
 
 ## Procedure
 
@@ -43,7 +43,7 @@ The Anonymous Report Center plugin includes three out-of-the-box catalog items:
 
     3.  In the **Catalog item** field, select the Anonymous Resource Center catalog items.
 
-    ![Once the steps above are complete, the ARC catalog items appear in the Connected Content tab for the Employee conduct topic](../image/arc-taxonomy.png)
+    ![Once the steps above are complete, the ARC catalog items appear in the Connected Content tab for the Employee conduct topic](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/arc-taxonomy.png)
 
 4.  After adding the catalog items, verify that they appear as intended by navigating to the Employee Center to the **Human Resources** &gt; **Employee Conduct** topic.
 

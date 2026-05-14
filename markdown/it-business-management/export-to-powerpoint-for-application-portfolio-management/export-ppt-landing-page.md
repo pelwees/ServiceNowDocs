@@ -23,19 +23,19 @@ Export to PowerPoint overview video. Approximately two minutes long.
 
 <table id="id_cqr_1l4_55b" class="nav-card"><tbody><tr><td>
 
-[Explore ![](../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Export to PowerPoint add-in features.](explore-export-to-ppt.md)
+[Explore ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../../../reuse/icons/brand-icons/bus-learn.svg) Learn about Export to PowerPoint add-in features.](explore-export-to-ppt.md)
 
 </td><td>
 
-[Configure ![](../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure the Export to PowerPoint add-in.](configure-export-to-ppt.md)
+[Configure ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../../../reuse/icons/brand-icons/bus-sdlc.svg) Install and configure the Export to PowerPoint add-in.](configure-export-to-ppt.md)
 
 </td></tr><tr><td>
 
-[Use ![](../../../reuse/icons/brand-icons/bus-manage.svg) Use Export to PowerPoint to generate and download your project status report.](using-export-to-ppt.md)
+[Use ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../../../reuse/icons/brand-icons/bus-manage.svg) Use Export to PowerPoint to generate and download your project status report.](using-export-to-ppt.md)
 
 </td><td>
 
-[Reference ![](../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components installed, form fields, tables, roles, and general guidelines.](../reference/export-ppt-reference.md)
+[Reference ![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/../../../reuse/icons/brand-icons/bus-whitepaper.svg) Get details about components installed, form fields, tables, roles, and general guidelines.](../reference/export-ppt-reference.md)
 
 </td></tr></tbody>
 </table>**Important:**

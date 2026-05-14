@@ -39,11 +39,11 @@ Role required: sn\_dex.admin
 
     **Note:**
 
-    -   For more details on the MCM monitoring, see [Advanced app metrics page](../reference/adanced-app-metrics-page.md).
-    -   For more details on Microsoft teams call quality, see [Monitor Microsoft Teams call quality](../../dex-for-microsoft-365/task/monitor-teams-call-quality.md).
-    -   For more details on Zoom calls monitoring, see [Monitor Zoom call quality using DEX](../Zoom-calls-monitoring/monitor-zoom-call-quality-using-dex.md).
+    -   For more details on the MCM monitoring, see [Advanced app metrics page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../reference/adanced-app-metrics-page.md).
+    -   For more details on Microsoft teams call quality, see [Monitor Microsoft Teams call quality](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../../dex-for-microsoft-365/task/monitor-teams-call-quality.md).
+    -   For more details on Zoom calls monitoring, see [Monitor Zoom call quality using DEX](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../Zoom-calls-monitoring/monitor-zoom-call-quality-using-dex.md).
 6.  Select **Save**.
 
 
-**Parent Topic:**[DEX application monitoring](../concept/dex-application-monitoring.md)
+**Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/../concept/dex-application-monitoring.md)
 

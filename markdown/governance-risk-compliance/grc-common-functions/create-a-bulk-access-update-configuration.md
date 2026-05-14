@@ -70,5 +70,5 @@ The system provides real-time status tracking of update operations, categorized 
 
 Entity-based restrictions are enabled or disabled at the record level for the scoped entity types.
 
-**Parent Topic:**[Managing Entity Based Access](../concept/using-entity-based-access.md)
+**Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../concept/using-entity-based-access.md)
 

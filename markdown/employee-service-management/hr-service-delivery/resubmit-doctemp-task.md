@@ -41,10 +41,10 @@ Role required: none
 
 9.  Click **Resubmit**.
 
-    ![Generate an NDA](resubmit-doctemp-task1.png) ![Resubmitting document](resubmit-doctemp-task2.png)
+    ![Generate an NDA](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/resubmit-doctemp-task1.png) ![Resubmitting document](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/resubmit-doctemp-task2.png)
 
     The task is complete and appears in the Completed To Dos section. You can view and print the document with the submitted details.
 
 
-**Parent Topic:**[Working on a document task](work-doctemp-tasks.md)
+**Parent Topic:**[Working on a document task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/work-doctemp-tasks.md)
 

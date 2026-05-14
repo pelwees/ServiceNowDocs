@@ -33,7 +33,7 @@ This validator has multiple possible error messages.
 -   Suggested Action: If this is not by design, make the appropriate changes.
 -   Publishable: Yes.
 -   Runnable: Yes
--   Related Information: [Workflow activities](../../using-workflows/concept/c_WorkflowActivities.md).
+-   Related Information: [Workflow activities](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../../using-workflows/concept/c_WorkflowActivities.md).
 
 ## Troubleshooting
 
@@ -47,10 +47,10 @@ Use the following procedure to troubleshoot this validator:
 
 4.  If the same stage name or value apprears more than once, remove one of the rows. It is then very important to go through the workflow and reassign stages in the activities that used the removed stage.
 
-    ![Workflow Stages record showing the Request Cancelled and Closed Incomplete stage names with a value of closed_complete.](../image/ValidateWorkflowStateValues.png "Validate Workflow Stage Values")
+    ![Workflow Stages record showing the Request Cancelled and Closed Incomplete stage names with a value of closed_complete.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/../image/ValidateWorkflowStateValues.png "Validate Workflow Stage Values")
 
 
 Tip: Make a list of which activities assign which stages.
 
-**Parent Topic:**[Workflow validator](r_WorkflowValidator.md)
+**Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 

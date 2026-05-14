@@ -17,7 +17,7 @@ Configure your app development pipeline so that your administrator can quickly m
 
 ## Before you begin
 
-You must create all of your pipeline environment records before completing these steps. For more information, see [Configure your pipeline environments](config-pipeline-environments.md).
+You must create all of your pipeline environment records before completing these steps. For more information, see [Configure your pipeline environments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/config-pipeline-environments.md).
 
 Role required: admin or app\_engine\_admin
 
@@ -27,7 +27,7 @@ Role required: admin or app\_engine\_admin
 
 2.  Select **New**.
 
-    ![Creating a new pipeline record](../image/new-pipeline-purple.png "Pipeline - new record")
+    ![Creating a new pipeline record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/app-engine-management-center/../image/new-pipeline-purple.png "Pipeline - new record")
 
 3.  On the form, fill in the fields.
 

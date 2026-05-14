@@ -21,28 +21,28 @@ You can also adjust the size of shapes by selecting a shape and then drag any of
 
 |Shape|Name|
 |-----|----|
-|![Start](../../image/eaw-image/modeling/bpmn-icon-event-start.png)|Start|
-|![Intermediate](../../image/eaw-image/modeling/bpmn-icon-ievent-ntermediate.png)|Intermediate|
-|![End](../../image/eaw-image/modeling/bpmn-icon-event-end.png)|End|
+|![Start](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-event-start.png)|Start|
+|![Intermediate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-ievent-ntermediate.png)|Intermediate|
+|![End](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-event-end.png)|End|
 
 |Shape|Name|
 |-----|----|
-|![Default](../../image/eaw-image/modeling/bpmn-icon-activity-default.png)|Default|
-|![Manual](../../image/eaw-image/modeling/bpmn-icon-activity-manual.png)|Manual|
-|![System](../../image/eaw-image/modeling/bpmn-icon-activity-system.png)|System|
-|![User](../../image/eaw-image/modeling/bpmn-icon-activity-user.png)|User|
+|![Default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-activity-default.png)|Default|
+|![Manual](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-activity-manual.png)|Manual|
+|![System](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-activity-system.png)|System|
+|![User](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-activity-user.png)|User|
 
 |Shape|Name|
 |-----|----|
-|![Default](../../image/eaw-image/modeling/bpmn-icon-gateway-default.png)|Default|
-|![Inclusive](../../image/eaw-image/modeling/bpmn-icon-gateway-inclusive.png)|Inclusive|
-|![Exclusive](../../image/eaw-image/modeling/bpmn-icon-gateway-exclusive.png)|Exclusive|
-|![Parallel](../../image/eaw-image/modeling/bpmn-icon-gateway-parallel.png)|Parallel|
+|![Default](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-gateway-default.png)|Default|
+|![Inclusive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-gateway-inclusive.png)|Inclusive|
+|![Exclusive](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-gateway-exclusive.png)|Exclusive|
+|![Parallel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-gateway-parallel.png)|Parallel|
 
 |Shape|Name|
 |-----|----|
-|![Pool](../../image/eaw-image/modeling/bpmn-icon-pool.png)|Pool|
-|![Lane](../../image/eaw-image/modeling/bpmn-icon-lane.png)|Lane|
+|![Pool](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-pool.png)|Pool|
+|![Lane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/modeling/bpmn-icon-lane.png)|Lane|
 
-**Parent Topic:**[Shapes to create a modeling diagram](eaw-modeling-shapes.md)
+**Parent Topic:**[Shapes to create a modeling diagram](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-modeling-shapes.md)
 

@@ -31,8 +31,8 @@ Role required: sn\_shop.procurement\_specialist
 
 5.  In the Add to sourcing event dialog box, select whether you would like to add the sourcing request to an existing or new sourcing event.
 
-    -   If adding to an existing sourcing event, select the sourcing event from the **Sourcing events** list. The **Supplier response close** field is auto-populated with the supplier response close date specified in the existing sourcing event that you're adding the sourcing request to.![Existing sourcing event.](../image/add_sourcing_request_to_sourcing_event.png)
-    -   If adding to a new sourcing event:![Create new sourcing event.](../image/create_new_sourcing_event.png)
+    -   If adding to an existing sourcing event, select the sourcing event from the **Sourcing events** list. The **Supplier response close** field is auto-populated with the supplier response close date specified in the existing sourcing event that you're adding the sourcing request to.![Existing sourcing event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/add_sourcing_request_to_sourcing_event.png)
+    -   If adding to a new sourcing event:![Create new sourcing event.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/create_new_sourcing_event.png)
         1.  Enter a short description for the sourcing event in the **Short description** field.
         2.  Select the method used to engage with the supplier from the **Negotiation type** field. The options are Quote, RFx, Contract Renewal, and Other.
         3.  Select the anticipated outcome or end results of the sourcing event from the **Negotiation outcome** field. The options are Standard Savings, Contract Terms Negotiated, Cost Avoidance, and Negotiation Unsuccessful.
@@ -52,9 +52,9 @@ A new sourcing event is created, which is attached to the selected sourcing requ
 
 View an overview of the sourcing event in the **Overview** tab, and other associated information in relevant tabs such as **Details**, **Negotiations**, **Sourcing Requests**, **Purchase Lines**, **Cases**, **Purchasing Tasks**, and **Contracts**.
 
-You can add more sourcing requests to this sourcing event by selecting **Add sourcing request**. Negotiation records are automatically created for each supplier in the sourcing request. You can add more suppliers to this sourcing event as well. For more information, see [Work on a sourcing event](work-on-a-negotiation-event.md).
+You can add more sourcing requests to this sourcing event by selecting **Add sourcing request**. Negotiation records are automatically created for each supplier in the sourcing request. You can add more suppliers to this sourcing event as well. For more information, see [Work on a sourcing event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/work-on-a-negotiation-event.md).
 
-In compliance with fair competition laws, qualify all your suppliers in that sourcing event before you start negotiating with any of them. For more information, see [Supplier qualification](../reference/supplier-qualification.md).
+In compliance with fair competition laws, qualify all your suppliers in that sourcing event before you start negotiating with any of them. For more information, see [Supplier qualification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../reference/supplier-qualification.md).
 
-**Parent Topic:**[Using Procurement Case Management](../concept/using-pcm.md)
+**Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/using-pcm.md)
 

@@ -63,5 +63,5 @@ Allows you to add a group feed.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Live Feed UI overview](../reference/r_LiveFeedUIOverview.md)
+**Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/../reference/r_LiveFeedUIOverview.md)
 

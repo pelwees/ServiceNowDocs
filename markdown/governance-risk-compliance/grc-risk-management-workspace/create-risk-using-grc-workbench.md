@@ -235,5 +235,5 @@ Enter a reasonable justification for the selected response
     The risk is created and centered in the middle of the page. Also, the risk is selected on the right.
 
 
-**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](../concept/grc-workbench.md)
+**Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/grc-workbench.md)
 

@@ -41,7 +41,7 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 1.  Define the ERP source that you want to integrate with Oracle EBS integration.
 2.  Create a basic authentication profile that can be used for web service integration with Oracle EBS.
 3.  Register the Oracle EBS integration username and password to create the authentication profile and associate it to service maps.
-4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md).
+4.  Define source configuration for ERP source. The ERP source configuration determines the ERP source to which your ERP system connects. For more information, see [Define ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/define-erp-source-oracle.md).
 5.  Configure service maps for the following entities:
 
     -   **Cost Centers**
@@ -96,7 +96,7 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
 
         Set up subflows for the source configuration to lookup invoices from Oracle EBS.
 
-    ![ERP Source Configuration of Oracle EBS](../../source-to-pay-operations/image/oracle-ebs-source-config.png "ERP Source Configuration of Oracle EBS")
+    ![ERP Source Configuration of Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../../source-to-pay-operations/image/oracle-ebs-source-config.png "ERP Source Configuration of Oracle EBS")
 
 6.  Configure a scheduled job to synchronize primary data updates from Oracle EBS.
 7.  Set up the interval in the lookup Cost Center scheduled job to periodically synchronize primary data updates from the ERP, for posting services to work.
@@ -111,18 +111,18 @@ To perform the ERP Source configuration for Oracle EBS, follow these steps:
     You have configured the ERP source for Oracle EBS.
 
 
-**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](configuring-source-to-pay-oracle-ebs-integration.md)
+**Parent Topic:**[Configure the Source-to-Pay integration with Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configuring-source-to-pay-oracle-ebs-integration.md)
 
 **Related topics**  
 
 
-[Define ERP source configuration for Oracle EBS](../task/define-erp-source-oracle.md)
+[Define ERP source configuration for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/define-erp-source-oracle.md)
 
-[Configure integration services for Oracle EBS](../task/configure-service-maps-oracle-ebs.md)
+[Configure integration services for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/configure-service-maps-oracle-ebs.md)
 
-[Load data to ERP user-mapping table for Oracle EBS](../task/load-data-erp-user-mapping-oracle-ebs.md)
+[Load data to ERP user-mapping table for Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/../task/load-data-erp-user-mapping-oracle-ebs.md)
 
-[Look up primary data in Oracle EBS](look-up-primary-data-oracle-ebs.md)
+[Look up primary data in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/look-up-primary-data-oracle-ebs.md)
 
-[Scheduled jobs to look up primary data in Oracle EBS](scheduled-jobs-to-primary-data-oracle-ebs.md)
+[Scheduled jobs to look up primary data in Oracle EBS](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/scheduled-jobs-to-primary-data-oracle-ebs.md)
 

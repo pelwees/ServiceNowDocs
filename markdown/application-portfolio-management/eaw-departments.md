@@ -17,14 +17,14 @@ Each department contributes to the overall strategy and goals of its related bus
 
 You can also add users to a department.
 
-**Parent Topic:**[Exploring the business architecture](eaw-business-architecture.md)
+**Parent Topic:**[Exploring the business architecture](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-business-architecture.md)
 
 **Related topics**  
 
 
-[View all departments](../../task/eaw-task/eaw-view-all-departments.md)
+[View all departments](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-departments.md)
 
-[Add or edit a department](../../task/eaw-task/eaw-add-or-edit-a-department.md)
+[Add or edit a department](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-or-edit-a-department.md)
 
-[Add a user to a department](../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
+[Add a user to a department](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-a-new-user-to-a-deparment.md)
 

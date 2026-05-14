@@ -18,16 +18,16 @@ Learn about the fields of the Jira Instance form, used to connect Strategic Plan
 |Field|Description|
 |-----|-----------|
 |Name|Name of your choice for the Jira instance record.|
-|Connection Alias|Select the connection alias that you created. For more information, see [Create connection and credentials for SPW Jira Integrations](../task/create-connection-and-credentials.md).|
+|Connection Alias|Select the connection alias that you created. For more information, see [Create connection and credentials for SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/create-connection-and-credentials.md).|
 |URL|URL of your Jira instance, Cloud or Server.|
 |State|Connection status of the Jira Instance.|
 |Version|Version of your Jira instance.|
 |Integration Type|Select **Strategic Planning Workspace**.|
 
-**Parent Topic:**[SPW Jira Integrations reference](spw-jira-integrations-reference.md)
+**Parent Topic:**[SPW Jira Integrations reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
 **Related topics**  
 
 
-[Create Jira instance for SPW Jira Integrations](../task/create-jira-instance.md)
+[Create Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/../task/create-jira-instance.md)
 

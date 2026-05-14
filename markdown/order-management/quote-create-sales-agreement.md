@@ -33,7 +33,7 @@ Sales agreements filter the product catalog according to the agreement.
 
 3.  Add quote details to the quote and select **Enable sales agreement quote**.
 
-    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [Using Sales Agreement Management](../concept/sales-agreement-mgmt-using.md) for more information.
+    When the **Enable sales agreement quote** is selected, the quote is set on a sales agreement workflow. See [Using Sales Agreement Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/sales-agreement-mgmt-using.md) for more information.
 
 4.  Fill in the **Sales agreement start date** and **Sales agreement end date**.
 
@@ -41,7 +41,7 @@ Sales agreements filter the product catalog according to the agreement.
 
 6.  Use the **Catalog** tab to add quote line items to the quote.
 
-    See [Add products to a quote](quote-management-catalog-tab.md) for more information.
+    See [Add products to a quote](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/quote-management-catalog-tab.md) for more information.
 
 7.  Make other updates to the quote.
 
@@ -58,5 +58,5 @@ Sales agreements filter the product catalog according to the agreement.
 11. Select the sales agreement message to open the sales agreement.
 
 
-**Parent Topic:**[Using Quote Management](../concept/quote-mgmt-using.md)
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/quote-mgmt-using.md)
 

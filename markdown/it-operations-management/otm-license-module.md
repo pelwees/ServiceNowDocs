@@ -17,5 +17,5 @@ Monitor OTM licenses in the same way as IT Operations Management licenses. The S
 
 The same license options available for IT Operations Management are also available for OTM, under the **OTM License** menu item in a ServiceNow instance.
 
-For details on subscriptions for OTM, see [Subscriptions for IT Operations Management](itom-license-module.md).
+For details on subscriptions for OTM, see [Subscriptions for IT Operations Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md).
 

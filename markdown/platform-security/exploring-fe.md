@@ -21,15 +21,15 @@ By default, Field Encryption blocks all users, scripts, and system processes fro
 
 You can configure Field Encryption access control feature through a combination of Field Encryption Modules, Encrypted Field Configurations, and Module Access Policies \(MAPs\). The next image shows how these three components work together.
 
-![Field encryption and supporting components](../image/fe_field_encryption_components_diagram.svg)
+![Field encryption and supporting components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/fe_field_encryption_components_diagram.svg)
 
 By default, encrypted data is locked down from all access. A MAP defines which accessor \(users, scripts, and system processes\) can be authorized to access the data.
 
-![Module access policy flow](../image/fe_map_diagram.svg)
+![Module access policy flow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/fe_map_diagram.svg)
 
 You can configure multiple MAPs to apply different access rules to different encrypted fields. In this diagram, Module Access Policy A covers columns A, B, C, and D, and Module Access Policy B covers column E — each with its own rules per accessor.
 
-![Multiple module access policy example](../image/fe_map_example_diagram.svg)
+![Multiple module access policy example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/fe_map_example_diagram.svg)
 
 Access rules can differ between two policies for each accessor type. The following table reflects the access rules defined for Module Access Policy A, applied to columns A, B, C, and D, and Module Access Policy B, applied to column E.
 
@@ -265,11 +265,11 @@ Field Encryption currently doesn’t support the encryption of fields and attach
 
 To learn more about configuring and using Field Encryption, see:
 
--   [Configuring Field Encryption](configuring-column-level-encryption.md)
--   [Using Field Encryption](using-column-level-encryption.md)
+-   [Configuring Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
+-   [Using Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)
 
--   **[Field Encryption Enterprise](../../now-platform-encryption/concept/now-platform-encryption.md)**  
+-   **[Field Encryption Enterprise](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../../now-platform-encryption/concept/now-platform-encryption.md)**  
 Field Encryption Enterprise uses the Key Management Framework \(KMF\) to enable you to customize and manage how fields and attachments are encrypted and decrypted on your instance. A subscription is required to use Field Encryption Enterprise.
 
-**Parent Topic:**[Field Encryption](field-encryption.md)
+**Parent Topic:**[Field Encryption](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)
 

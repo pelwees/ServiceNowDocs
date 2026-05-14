@@ -28,7 +28,7 @@ Roles required: sn\_na\_analytics.admin and sn\_nowassist\_admin.nsa\_admin
 
 1.  Navigate to the **All** menu and enter `sn_na_analytics_configuration.list`.
 
-    The Now Assist Analytics Configuration \[sn\_na\_analytics\_configuration\] table appears.![Now Assist Analytics Configuration table.](../image/naa-create-skill-dashboard-mapping.png)
+    The Now Assist Analytics Configuration \[sn\_na\_analytics\_configuration\] table appears.![Now Assist Analytics Configuration table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/naa-create-skill-dashboard-mapping.png)
 
 2.  Create a new mapping by selecting **New**
 
@@ -36,10 +36,10 @@ Roles required: sn\_na\_analytics.admin and sn\_nowassist\_admin.nsa\_admin
 
     |Field|Description|
     |-----|-----------|
-    |Dashboard|The Dashboard that you want to map to a skill. Use the lookup icon \(![Lookup icon.](../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the dashboard.|
+    |Dashboard|The Dashboard that you want to map to a skill. Use the lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the dashboard.|
     |Application|The application that contains the record.|
-    |Document Table|Table that contains configured skills. Use the lookup icon \(![Lookup icon.](../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the Now Assist Skill Config \[sn\_nowassist\_skill\_config\] table.|
-    |Document Id|The Skill that you want to map to the dashboard. Use the lookup icon \(![Lookup icon.](../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the skill that you want to map to the dashboard.|
+    |Document Table|Table that contains configured skills. Use the lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the Now Assist Skill Config \[sn\_nowassist\_skill\_config\] table.|
+    |Document Id|The Skill that you want to map to the dashboard. Use the lookup icon \(![Lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/image/na-list-lookup-icon.png)\) to search for and select the skill that you want to map to the dashboard.|
     |Active|Check box used to enable or disable the mapping.|
     |Order|Order to set that determines the priority of the mapping in cases where multiple skills are mapped to the same dashboard.|
 

@@ -19,7 +19,7 @@ Give your users the option to search the Service Catalog as soon as they log in.
 
 Add the Catalog Homepage Search widget on your Service Catalog landing page. When users navigate to the Service Catalog, they can use the Catalog Homepage Search widget to find what they are looking for.
 
-![The Catalog Homepage Search widget](../image/cat-homepage-search.png)
+![The Catalog Homepage Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../image/cat-homepage-search.png)
 
 Users can enter a keyword in the search bar. The Catalog Homepage Search widget uses a predictive search feature that shows words as users type.
 
@@ -29,7 +29,7 @@ Alternatively, to navigate to a list of Service Catalog categories, users can se
 
 Use the instance options to configure the Catalog Homepage Search widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](../task/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/enable-ais-sp.md).
 
 <table id="table_ydc_fpv_bkb"><thead><tr><th>
 
@@ -117,49 +117,49 @@ Typeahead Search
 
 </td><td>
 
-Configuration of the search bar. You configure the search bar by using the instance options for the [Typeahead Search widget](typeahead-search-widget.md). Use the syntax `{field1:'value1',field2:'value2'}`. For example, to configure the title, color, and size of the search bar, enter the following: `{title:'Search...',color:'default',size:'lg'}`.
+Configuration of the search bar. You configure the search bar by using the instance options for the [Typeahead Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/typeahead-search-widget.md). Use the syntax `{field1:'value1',field2:'value2'}`. For example, to configure the title, color, and size of the search bar, enter the following: `{title:'Search...',color:'default',size:'lg'}`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Service Catalog widgets](sc-widgets.md)
+</table>**Parent Topic:**[Service Catalog widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-widgets.md)
 
 **Related topics**  
 
 
-[Catalog Content widget](catalog-content-widget.md)
+[Catalog Content widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/catalog-content-widget.md)
 
-[Recent &amp; Popular Items widget](recent-and-popular-items-widget.md)
+[Recent &amp; Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/recent-and-popular-items-widget.md)
 
-[Request Fields widget](request-fields-widget.md)
+[Request Fields widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/request-fields-widget.md)
 
-[Requested Items widget](requested-items-widget.md)
+[Requested Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requested-items-widget.md)
 
-[Requests and Approvals widget](requests-and-approvals-widget.md)
+[Requests and Approvals widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/requests-and-approvals-widget.md)
 
-[SC Catalog Item widget](sc-catalog-item-widget.md)
+[SC Catalog Item widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-catalog-item-widget.md)
 
-[SC Categories widget](sc-categories-widget.md)
+[SC Categories widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-categories-widget.md)
 
-[SC Category Page widget](sc-category-page-widget.md)
+[SC Category Page widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-category-page-widget.md)
 
-[SC Order Guide widget](sc-order-guide-widget.md)
+[SC Order Guide widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-order-guide-widget.md)
 
-[SC Popular Items widget](sc-popular-items.md)
+[SC Popular Items widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-popular-items.md)
 
-[SC Save Bundles widget](save-bundles-widget.md)
+[SC Save Bundles widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/save-bundles-widget.md)
 
-[SC Saved Carts widget](saved-cart-widget.md)
+[SC Saved Carts widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/saved-cart-widget.md)
 
-[SC Scroll to top widget](sc-scroll-to-top.md)
+[SC Scroll to top widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-scroll-to-top.md)
 
-[SC Shopping Cart widget](sc-shopping-cart.md)
+[SC Shopping Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-shopping-cart.md)
 
-[SP Variable Editor widget](variable-editor-widget.md)
+[SP Variable Editor widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/variable-editor-widget.md)
 
-[SC Wish List Cart widget](sc-wish-list.md)
+[SC Wish List Cart widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-wish-list.md)
 
-[Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#)
+[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#)
 
-[Configure widget instances](c_ConfigureWidgetInstances.md)
+[Configure widget instances](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md)
 
-[Clone a widget](../task/t_CloneAndEditAWidget.md)
+[Clone a widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_CloneAndEditAWidget.md)
 

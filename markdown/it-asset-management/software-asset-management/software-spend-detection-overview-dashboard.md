@@ -21,9 +21,9 @@ Expand a publisher in the left menu bar to see their products. Select a publishe
 
 Sharing the dashboard's URL displays your currently selected publisher, product, and date range. To view the applied filters, the URL recipients must already be logged in to their ServiceNow instance.
 
-**Note:** Transactions that aren't labeled with a software publisher aren't included in the dashboard. You can manually update these transactions with a publisher to add them to the dashboard. For more information, see [Manually update transactions](../task/manually-update-transactions.md).
+**Note:** Transactions that aren't labeled with a software publisher aren't included in the dashboard. You can manually update these transactions with a publisher to add them to the dashboard. For more information, see [Manually update transactions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../task/manually-update-transactions.md).
 
-![Software Spend Detection dashboard for all publishers and their spend data](../image/spend-detection-dashboard.png)
+![Software Spend Detection dashboard for all publishers and their spend data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/../image/spend-detection-dashboard.png)
 
 |Indicator|Description|
 |---------|-----------|
@@ -37,5 +37,5 @@ Sharing the dashboard's URL displays your currently selected publisher, product,
 |Expense Spend|Total spend for transactions where the type is Expense. These transactions are from an employee expense system or credit card feed.|
 |Software Spend Over Time|Amount spent on software each month.|
 
-**Parent Topic:**[Software Spend Detection](software-spend-detection.md)
+**Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 

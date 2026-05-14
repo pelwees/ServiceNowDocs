@@ -23,7 +23,7 @@ Role required: admin
 
 2.  Configure these email properties and select **Save**.
 
-    ![Email properties](../../notification/image/email-properties.png)
+    ![Email properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../notification/image/email-properties.png)
 
     |Property section|Label|System property|Setting required|
     |----------------|-----|---------------|----------------|
@@ -31,5 +31,5 @@ Role required: admin
     |Inbound Email Configuration|Email receiving enabled|glide.email.read.active|Yes|
 
 
-**Parent Topic:**[Basic email setup](../concept/c_StandardEmailConfiguration.md)
+**Parent Topic:**[Basic email setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_StandardEmailConfiguration.md)
 

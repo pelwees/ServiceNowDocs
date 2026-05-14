@@ -27,7 +27,7 @@ Install the Document Intelligence for Accounts Payable Operations Content Pack f
 
 2.  Navigate to **All** &gt; **Document Data Extraction Administration** &gt; **Use Cases**.
 
-3.  Search for DO NOT USE- Invoice processing V7 and create a duplicate copy using the ![duplicate icon](../image/duplicate-di-usecase.png) icon.
+3.  Search for DO NOT USE- Invoice processing V7 and create a duplicate copy using the ![duplicate icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../image/duplicate-di-usecase.png) icon.
 
 4.  Save the copied use case.
 

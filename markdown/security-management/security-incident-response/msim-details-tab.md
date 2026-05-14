@@ -206,7 +206,7 @@ Enforce restriction
 
 </td><td>
 
-Select this option to enforce restrictions on certain major security incident restrictions. You can enforce restrictions to limit the view or modify access only to certain users or groups. For more information, see [Restrict access to certain major security incidents](../task/restrict-access-major-security-incidents.md).
+Select this option to enforce restrictions on certain major security incident restrictions. You can enforce restrictions to limit the view or modify access only to certain users or groups. For more information, see [Restrict access to certain major security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/restrict-access-major-security-incidents.md).
 
 </td></tr><tr><td>
 
@@ -242,7 +242,7 @@ Conference Call
 
 </td><td>
 
-Use conference calls with the third-party service providers as a communication channel to meet with the stakeholders to resolve the major security incidents. For more information, see [Major Security Incident Management Conference Call Integration](integrate-msim-conference-calls.md)
+Use conference calls with the third-party service providers as a communication channel to meet with the stakeholders to resolve the major security incidents. For more information, see [Major Security Incident Management Conference Call Integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-conference-calls.md)
 
 </td></tr></tbody>
 </table>**Activity**:
@@ -262,29 +262,29 @@ Set your preferences to view the related activities such as:
     Flag any important activity conversations for you to keep them handy.
 
 
--   **[Restrict access to certain major security incidents](../task/restrict-access-major-security-incidents.md)**  
+-   **[Restrict access to certain major security incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/restrict-access-major-security-incidents.md)**  
 Manage who can view or modify major security incidents that contain sensitive information. You can enforce major security incident restrictions to determine who has access to view or modify certain major security incident records and related lists and limit the read or write access only to certain users or groups.
 
-**Parent Topic:**[Using Major Security Incident Management](../../security-incident-response/concept/major-security-incident-setup.md)
+**Parent Topic:**[Using Major Security Incident Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/major-security-incident-setup.md)
 
 **Related topics**  
 
 
-[Propose, promote, and link incident records](../../security-incident-response/concept/promoting-sir-to-msim.md)
+[Propose, promote, and link incident records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/concept/promoting-sir-to-msim.md)
 
-[Using MSI List view in the MSIM workspace](../../security-incident-response/task/list-view-in-msim.md)
+[Using MSI List view in the MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../../security-incident-response/task/list-view-in-msim.md)
 
-[View Major Security Incident impact metrics](viewing-trend-charts-and-progress-of-msi.md)
+[View Major Security Incident impact metrics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/viewing-trend-charts-and-progress-of-msi.md)
 
-[View Major Security Incident trend charts](viewing-msi-impact-metrics.md)
+[View Major Security Incident trend charts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/viewing-msi-impact-metrics.md)
 
-[Link additional records to Major Security Incident](../task/linking-additional-records-to-major-security-incidents.md)
+[Link additional records to Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/linking-additional-records-to-major-security-incidents.md)
 
-[Unlink records from Major Security Incident](../task/unlinking-msi-records.md)
+[Unlink records from Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/unlinking-msi-records.md)
 
-[Manage tasks in a Major Security Incident](tasks-tab.md)
+[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tasks-tab.md)
 
-[Track collaboration activity via MSIM workspace](collab-tab.md#)
+[Track collaboration activity via MSIM workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-tab.md#)
 
-[Create and distribute MSIM Status Reports](../task/creating-and-distributing-major-security-incident-status-reports.md)
+[Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../task/creating-and-distributing-major-security-incident-status-reports.md)
 

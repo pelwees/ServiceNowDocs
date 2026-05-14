@@ -28,15 +28,15 @@ Role required: sn\_erp\_integration.erp\_admin
 
 3.  Select the **Asynchronous transactions**, **Synchronous transactions**, and **Logged errors** tabs to view information.
 
-    ![Zero Copy Connector for ERP monitor page with asynchronous transactions tab selected.](../image/erp-monitor-extractions-tab.png)
+    ![Zero Copy Connector for ERP monitor page with asynchronous transactions tab selected.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../image/erp-monitor-extractions-tab.png)
 
     Filter the information as needed. For example, show only successes, failures, or information for a specific system.
 
-    For a description of the field values, see [Zero Copy Connector for ERP Monitor field descriptions](../reference/erp-data-hub-monitor-field-descriptions.md).
+    For a description of the field values, see [Zero Copy Connector for ERP Monitor field descriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../reference/erp-data-hub-monitor-field-descriptions.md).
 
 
--   **[Export Zero Copy Connector for ERP transaction data](monitor-export-telemetry-data.md)**  
+-   **[Export Zero Copy Connector for ERP transaction data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/monitor-export-telemetry-data.md)**  
 Export Zero Copy Connector for ERP \(Enterprise Resource Planning\) transaction information such as failures and usage. Filter the data as needed and then export to Excel, CSV, JSON, or PDF format.
 
-**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](../concept/erp-canvas-extraction-tables.md)
+**Parent Topic:**[Extracting and transforming data in Zero Copy Connector for ERP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/erp-integration-framework/../concept/erp-canvas-extraction-tables.md)
 

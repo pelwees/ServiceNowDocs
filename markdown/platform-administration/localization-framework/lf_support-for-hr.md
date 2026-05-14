@@ -19,7 +19,7 @@ Localization Framework extends its framework capabilities to Document Templates 
 
 The extension of the Localization Framework capabilities to HR Service Delivery enables you to do the following tasks:
 
--   Select multiple languages from the available languages in the instance to configure settings either with the Document Template Block Content or HTML Document Template artifacts. To configure localization settings, see [Localization Framework settings](localization-settings.md).
+-   Select multiple languages from the available languages in the instance to configure settings either with the Document Template Block Content or HTML Document Template artifacts. To configure localization settings, see [Localization Framework settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md).
 -   Translate the template content manually, through machine translation, or by using export and import.
 
     **Note:** Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to use machine translation in Localization Framework.
@@ -28,5 +28,5 @@ The extension of the Localization Framework capabilities to HR Service Delivery 
 
 For more information about translating the Document Templates, see [Use Localization Framework for Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/doc-lzt-fm.md).
 
-**Parent Topic:**[Explore Localization Framework](exploring-localization-framework.md)
+**Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 

@@ -31,7 +31,7 @@ You can cancel a contract request when the contract request state is in Draft, N
 
 2.  Open the contract request.
 
-3.  Select the More Actions ![More actions icon](../../workplace-central/images/more-actions-move-schedule.png) icon.
+3.  Select the More Actions ![More actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../../workplace-central/images/more-actions-move-schedule.png) icon.
 
 4.  Select **Cancel Request**.
 
@@ -44,5 +44,5 @@ You can cancel a contract request when the contract request state is in Draft, N
 -   The contract request State updates to Canceled and the contract status updates to Contract Canceled.
 -   The document signature sent to signatories is canceled to block further signing. The signatories get an email notification that the contract request has been canceled.
 
-**Parent Topic:**[Using Contract Management Pro](../concept/cncore-use-cmpro.md)
+**Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/../concept/cncore-use-cmpro.md)
 

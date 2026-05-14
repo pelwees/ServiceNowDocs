@@ -17,5 +17,5 @@ The GRC: Policy and Compliance integrator application provides a common framewor
 
 Starting in Australia, you can use the GRC: Policy and Compliance integrator application with the GRC: integrations with third-party content application.
 
-For more information on how to complete the data import process, see [Workflow for GRC: Policy and Compliance integrator](integrator-workflow.md) and [Using the GRC: Policy and Compliance integrator to display batch records and import tasks](integrator-in-classic-ui.md).
+For more information on how to complete the data import process, see [Workflow for GRC: Policy and Compliance integrator](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/integrator-workflow.md) and [Using the GRC: Policy and Compliance integrator to display batch records and import tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/integrator-in-classic-ui.md).
 

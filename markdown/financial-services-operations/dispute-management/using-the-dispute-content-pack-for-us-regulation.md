@@ -35,25 +35,25 @@ When an agent disputes a transaction on behalf of a customer or through the Cust
 
         **Note:** The **Dispute reported date** field cannot be changed to a future date after it has been set.
 
-        ![Card disputes transactions table with Dispute reported date column highlighted.](../image/reg-sla-dispute-reported-date.png)
+        ![Card disputes transactions table with Dispute reported date column highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/reg-sla-dispute-reported-date.png)
 
 3.  Submit the case for investigation.
-    -   In the **Submit dispute** activity, the agent reviews the dispute amount. The agent selects the option **Is this a new financial account?** and submits the case for further investigation. For more information on the various stages, see [Overview of the Dispute Management workflow](../../fso-card-operations/concept/dispute-management-workflows.md).
+    -   In the **Submit dispute** activity, the agent reviews the dispute amount. The agent selects the option **Is this a new financial account?** and submits the case for further investigation. For more information on the various stages, see [Overview of the Dispute Management workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-card-operations/concept/dispute-management-workflows.md).
     -   After submitting the case, the agent accesses the **Task SLAs** tab to view the SLA definitions that have been applied.
 
         The following example shows the task SLAs tab view of the SLA definitions.
 
-        ![Task SLAs tab view of the SLA definitions.](../image/task-sla-playbook.png)
+        ![Task SLAs tab view of the SLA definitions.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/task-sla-playbook.png)
 
     -   The agent reviews the SLA definitions.
     -   The agent selects **Acknowledgement sent** at the case record to indicate that the dispute acknowledgement has been issued to the customer. It updates the **Acknowledgement sent** field for each transaction to Yes, and sets the acknowledgement limit SLA status to complete.
 
-        ![Card disputes transactions tab showing the Acknowledgement sent button highlighted.](../image/reg-sla-acknowledgement-sent.png)
+        ![Card disputes transactions tab showing the Acknowledgement sent button highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../image/reg-sla-acknowledgement-sent.png)
 
         The agent may also select **Acknowledgement sent** in the transaction record. This sets the **Acknowledgement sent** field to Yes for that specific transaction.
 
 
-For more information, see [Initiate a dispute](../../fso-card-operations/task/create-case-with-intake-workspace.md#).
+For more information, see [Initiate a dispute](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/../../fso-card-operations/task/create-case-with-intake-workspace.md#).
 
-**Parent Topic:**[Dispute Content Pack for US Regulations](dispute-content-pack-for-us-regulation-landing-page.md)
+**Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 

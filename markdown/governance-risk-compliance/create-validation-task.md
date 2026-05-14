@@ -42,7 +42,7 @@ You can create a validation task for a model when it is in the Pre-deployment or
 
 ## What to do next
 
-[Perform model validation](perform-model-risk-validation.md)
+[Perform model validation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-validation.md)
 
-**Parent Topic:**[Using Model Risk Management](../concept/using-mrm.md)
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-mrm.md)
 

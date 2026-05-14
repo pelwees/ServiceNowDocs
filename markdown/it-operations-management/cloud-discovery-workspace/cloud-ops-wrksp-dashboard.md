@@ -76,7 +76,7 @@ Total configuration items
 
 </td><td>
 
-Line and area chart![Line and area chart.](../../../use/reporting/image/icon-area-report-p.png)
+Line and area chart![Line and area chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/../../../use/reporting/image/icon-area-report-p.png)
 
 </td><td>
 
@@ -92,7 +92,7 @@ Events by provider - last 24 hours
 
 </td><td>
 
-Line chart![Line chart.](../../../use/reporting/image/icon-line-report-p.png)
+Line chart![Line chart.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-discovery-workspace/../../../use/reporting/image/icon-line-report-p.png)
 
 </td><td>
 

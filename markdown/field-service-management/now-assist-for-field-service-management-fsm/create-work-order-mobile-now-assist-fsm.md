@@ -36,7 +36,7 @@ Role required: wm\_qualifier or wm\_dispatcher or wm\_agent
 
 5.  Tap **Create work order**, or ask Now Assist to create a work order.
 
-    ![The Create work order workflow in Now Assist Virtual Agent on the mobile app.](../image/now-assist-mobile-create-wo.png)
+    ![The Create work order workflow in Now Assist Virtual Agent on the mobile app.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/../image/now-assist-mobile-create-wo.png)
 
 6.  Provide a description of the issue for the work order.
 

@@ -28,5 +28,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
     -   CMDs are automatically re-executed every 24 hours, updating emission factor values for all linked definitions.
     -   For immediate updates, you can manually execute a CMD by opening it and execute it.
 
-**Parent Topic:**[Create an emission factor](create-an-emission-factor.md)
+**Parent Topic:**[Create an emission factor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-emission-factor.md)
 

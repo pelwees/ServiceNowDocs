@@ -14,12 +14,12 @@ breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
 
 AI Agent Advisor is installed with these roles.
 
-**Parent Topic:**[AI Agent Advisor reference](../concept/ai-agent-advisor-reference.md)
+**Parent Topic:**[AI Agent Advisor reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/ai-agent-advisor-reference.md)
 
 **Related topics**  
 
 
-[Components installed with AI Agent Advisor](components-installed-with-ai-agent-advisor.md)
+[Components installed with AI Agent Advisor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/components-installed-with-ai-agent-advisor.md)
 
 ## AI Agent Advisor admin \[sn\_agent\_miner.app\_admin\]
 

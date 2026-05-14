@@ -19,19 +19,19 @@ Create an add-in with customized office controls and quick links for employees. 
 
 <table id="table_uyp_zzx_ncc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Provide quick links to reduce the time taken to submit incidents, cases, or catalog requests.](exploring-sn-add-in-for-ms365.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-explore.svg)Provide quick links to reduce the time taken to submit incidents, cases, or catalog requests.](exploring-sn-add-in-for-ms365.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the add-in and map email fields to catalog items or forms.](configuring-sn-addin-for-ms365.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the add-in and map email fields to catalog items or forms.](configuring-sn-addin-for-ms365.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-email.svg)Request catalog items or create incidents and cases directly from your emails.](using-sn-addin-for-ms365.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-email.svg)Request catalog items or create incidents and cases directly from your emails.](using-sn-addin-for-ms365.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Information about the lists and forms used in the application.](../reference/sn-addin-for-ms365-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../../reuse/icons/brand-icons/bus-learn.svg)Information about the lists and forms used in the application.](../reference/sn-addin-for-ms365-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help

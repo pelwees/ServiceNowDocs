@@ -44,20 +44,20 @@ Role required: none
         The new record is added to the related table and to the related list of the record.
 
 
-**Parent Topic:**[Related lists](../concept/c_RelatedLists.md)
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_RelatedLists.md)
 
 **Related topics**  
 
 
-[Configure when a related list loads](t_ConfigureWhenARelatedListLoads.md)
+[Configure when a related list loads](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureWhenARelatedListLoads.md)
 
-[Create a default filter for a related list](t_CreateADefaultFilter.md)
+[Create a default filter for a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateADefaultFilter.md)
 
-[Configure the edit option](t_ConfigureTheEditOption.md)
+[Configure the edit option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureTheEditOption.md)
 
-[Create defined related lists](../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
+[Create defined related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_CreateDefinedRelatedLists.md)
 
-[Add fields to selections in a related list](../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
+[Add fields to selections in a related list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_AddingFieldsToARelatedList.md)
 
-[Create a default filter for list selector records](../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
+[Create a default filter for list selector records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../../administer/form-administration/task/t_CreateDefaultRelatedRecSecFilter.md)
 

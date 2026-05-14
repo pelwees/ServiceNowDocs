@@ -38,12 +38,12 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](../concept/awa-slm-config.md)
+**Parent Topic:**[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/awa-slm-config.md)
 
 **Related topics**  
 
 
-[Configure Advanced Work Assignment for Supplier Lifecycle Operations](setup-awa-slm.md)
+[Configure Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/setup-awa-slm.md)
 
-[Configure the Supplier Collaboration Queue](configure-scp-queue.md)
+[Configure the Supplier Collaboration Queue](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-scp-queue.md)
 

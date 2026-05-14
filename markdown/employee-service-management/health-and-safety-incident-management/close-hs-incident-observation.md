@@ -25,7 +25,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the incident management icon \(![Incident Management icon.](../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
+2.  Select the incident management icon \(![Incident Management icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../image/list-icon-hs.png)\) and navigate to the **Lists** tab.
 
 3.  Open a safety incident or observation to close.
 
@@ -42,5 +42,5 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 The incident or observation moves to the Closed Complete state.
 
-**Parent Topic:**[Managing Health and Safety incidents and observations](../concept/managing-hs-incidents-obs.md)
+**Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/../concept/managing-hs-incidents-obs.md)
 

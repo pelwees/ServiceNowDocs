@@ -19,13 +19,13 @@ Role required: none
 
 ## Procedure
 
-1.  Open the condition builder by clicking the show/hide filter icon \(![Show or hide filter icon](../image/Icon-Condition_builder_UI15.png)\).
+1.  Open the condition builder by clicking the show/hide filter icon \(![Show or hide filter icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/Icon-Condition_builder_UI15.png)\).
 
-    If the icon is disabled and the breadcrumb has a related list condition in it, you must remove the related list condition to open the filter. The condition was created when the List v3 was enabled for this list. List v2 does not support related list conditions. For more information about related list conditions, see [Add related list conditions](../../using-lists-v3/task/create-related-list-query.md).
+    If the icon is disabled and the breadcrumb has a related list condition in it, you must remove the related list condition to open the filter. The condition was created when the List v3 was enabled for this list. List v2 does not support related list conditions. For more information about related list conditions, see [Add related list conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists-v3/task/create-related-list-query.md).
 
 2.  Select a field from the list.
 
-    The field type determines the available operators and values. For example, the **Active** field can have a value of **true**, **false**, or **empty**, while a text field can have many different values. Similarly, the **greater than** operator does not apply to the **Active** field, but it does apply to the **Priority** field. For more information, see [Condition builder](../../common-ui-elements/concept/c_ConditionBuilder.md).
+    The field type determines the available operators and values. For example, the **Active** field can have a value of **true**, **false**, or **empty**, while a text field can have many different values. Similarly, the **greater than** operator does not apply to the **Active** field, but it does apply to the **Priority** field. For more information, see [Condition builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../common-ui-elements/concept/c_ConditionBuilder.md).
 
 3.  Select an **operator** from the list.
 
@@ -64,27 +64,27 @@ Click **x** beside the condition.
 
 7.  Click **Save** to keep the filter for future use.
 
-    For more information, see [Save and use filters in a list view](t_SavingFilters.md).
+    For more information, see [Save and use filters in a list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_SavingFilters.md).
 
 8.  Click **Run** to apply the filter.
 
 
-**Parent Topic:**[Filters](../concept/c_Filters.md)
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Filters.md)
 
 **Related topics**  
 
 
-[Add related list conditions](../../using-lists-v3/task/create-related-list-query.md)
+[Add related list conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../using-lists-v3/task/create-related-list-query.md)
 
-[OR conditions](../concept/c_UsingORConditions.md)
+[OR conditions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_UsingORConditions.md)
 
-[Filter on multiple string values](t_FilteringOnMultipleStringValues.md)
+[Filter on multiple string values](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_FilteringOnMultipleStringValues.md)
 
-[Dynamic operators](../reference/r_UsingTheDynamicOperator.md)
+[Dynamic operators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../reference/r_UsingTheDynamicOperator.md)
 
-[Dot-walking to data in related tables](../../navigation/concept/c_DotWalking.md)
+[Dot-walking to data in related tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../navigation/concept/c_DotWalking.md)
 
 [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md)
 
-[Operators available for filters and queries](../../common-ui-elements/reference/r_OpAvailableFiltersQueries.md)
+[Operators available for filters and queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../../common-ui-elements/reference/r_OpAvailableFiltersQueries.md)
 

@@ -23,13 +23,13 @@ Application developers must select an application as their current scope context
 
 ## Procedure
 
-1.  In the Unified Navigation menu, select the picker icon\(![Picker icon.](../image/icon-scope.png)\).
+1.  In the Unified Navigation menu, select the picker icon\(![Picker icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/icon-scope.png)\).
 
-    When your application scope is set to a non-Global scope, the picker icon displays with a red ring \(![Picker icon with red ring.](../image/icon-scope-changed.png)\).
+    When your application scope is set to a non-Global scope, the picker icon displays with a red ring \(![Picker icon with red ring.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/icon-scope-changed.png)\).
 
 2.  Select **Application scope** to open a list of scopes available to you.
 
-    ![In Unified Navigation, the application scope picker icon is highlighted.](../image/application-scope-picker-unif-nav.png "Application scope picker in Unified Navigation")
+    ![In Unified Navigation, the application scope picker icon is highlighted.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/application-scope-picker-unif-nav.png "Application scope picker in Unified Navigation")
 
 3.  When admins change the application scope, the system automatically switches the current update set to be the application's default update set.
 
@@ -44,5 +44,5 @@ For more information about application scoping, see [Application scope](https://
 
 For more information about selecting update sets, see [Select the current update set in Unified Navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets/select-update-set-system-settings.md).
 
-**Parent Topic:**[Using Legacy Application Manager](using-legacy-application-manager.md)
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 

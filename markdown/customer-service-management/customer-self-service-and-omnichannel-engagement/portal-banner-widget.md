@@ -15,16 +15,16 @@ breadcrumb: [Configurable Portal widgets, Set up self-service, Configure, Custom
 
 You can use the Portal Banner widget to display announcements, new product or feature highlights, and important information on the portal page.
 
-![Portal Banner widget displaying greeting message, shortcut buttons, and search field on the portal page.](../image/config-port-banner-widget.png "Portal Banner widget")
+![Portal Banner widget displaying greeting message, shortcut buttons, and search field on the portal page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../image/config-port-banner-widget.png "Portal Banner widget")
 
-For information about how to configure instance options for the Portal Banner widget, see [Add and configure the Portal Banner widget](../task/config-portal-banner-widget-inst-opt.md).
+For information about how to configure instance options for the Portal Banner widget, see [Add and configure the Portal Banner widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/../task/config-portal-banner-widget-inst-opt.md).
 
 **Related topics**  
 
 
-[Set up Configurable Portal widgets](csm-configurable-portal-widget.md)
+[Set up Configurable Portal widgets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-configurable-portal-widget.md)
 
-[Portal Polaris Header widget](portal-header-widget.md)
+[Portal Polaris Header widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/portal-header-widget.md)
 
-[Portal Banner Carousel widget](csm-portal-carousel-widget.md)
+[Portal Banner Carousel widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-portal-carousel-widget.md)
 

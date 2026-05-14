@@ -92,5 +92,5 @@ MID Server is a ServiceNow AI Platform feature that is active by default.
     ServiceNow®Health Log Analytics uses the MID Server to collect log data streaming into your instance and helps you identify the root cause of issues.
 
 
-**Parent Topic:**[ServiceNow AI Platform capabilities release notes](now-platform-capabilities-rn-landing.md)
+**Parent Topic:**[ServiceNow AI Platform capabilities release notes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/release-notes/release-notes/now-platform-capabilities-rn-landing.md)
 

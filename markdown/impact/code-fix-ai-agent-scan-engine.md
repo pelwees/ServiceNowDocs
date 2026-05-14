@@ -39,5 +39,5 @@ The agent will not display if:
 **Related topics**  
 
 
-[Configure Fix code in real-time for Platform Health](configure-ai-code-fix-for-platform-health.md)
+[Configure Fix code in real-time for Platform Health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/configure-ai-code-fix-for-platform-health.md)
 

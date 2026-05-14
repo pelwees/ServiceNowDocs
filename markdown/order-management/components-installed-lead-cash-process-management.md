@@ -93,5 +93,5 @@ Sales Process Record
 Stores records used for monitoring sales-specific entities.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Lead-to-Cash Process Management reference](lead-cash-process-management-reference.md)
+</table>**Parent Topic:**[Lead-to-Cash Process Management reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/lead-cash-process-management-reference.md)
 

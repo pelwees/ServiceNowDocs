@@ -33,7 +33,7 @@ For new customers, the updated Greeting setup topic \(see the following example\
 -   **com.glide.cs.general.welcome\_message**: Change the default welcome message
 -   **com.glide.cs.general.top\_selection\_message**: Change the top selection message that displays after the welcome message
 
-![Greeting setup topic displaying the various default greeting messages for your conversations.](../images/va-setup-msgs.png "Default messages in Greeting setup topic (starting with the Orlando release)")
+![Greeting setup topic displaying the various default greeting messages for your conversations.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../images/va-setup-msgs.png "Default messages in Greeting setup topic (starting with the Orlando release)")
 
 ## Procedure
 
@@ -134,5 +134,5 @@ Enter the text that specifies the next selection action that the user can make a
 </table>    2.  Select **Submit**.
 
 
-**Parent Topic:**[Working with setup topics](../concept/working-setup-topics.md)
+**Parent Topic:**[Working with setup topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/../concept/working-setup-topics.md)
 

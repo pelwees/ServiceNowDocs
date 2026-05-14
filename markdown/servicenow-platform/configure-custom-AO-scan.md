@@ -25,7 +25,7 @@ Configure Article Optimization scans for articles in the Knowledge Center. Two t
 
 1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center** &gt; **Lists** &gt; **Article Optimization** &gt; **Scans**.
 
-    ![Article Optimization scans definition table.](../image/navigate-to-scan-definition-table.jpeg)
+    ![Article Optimization scans definition table.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../image/navigate-to-scan-definition-table.jpeg)
 
 2.  Select **New**.
 
@@ -59,14 +59,14 @@ The Article Optimization scan is custom configured.
 
 ## What to do next
 
-To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](configuring-article-optimization-jobs.md)
+To run the scan, you must add the configured scan to a job. For more information see, [Configuring Article Optimization jobs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-article-optimization-jobs.md)
 
 **Related topics**  
 
 
-[Configure custom AI-based Article Optimization scans](configure-custom-ai-based-AO-scans.md)
+[Configure custom AI-based Article Optimization scans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-custom-ai-based-AO-scans.md)
 
-[Configuring Article Optimization skill and prompts](configure-kc-AO-skill.md)
+[Configuring Article Optimization skill and prompts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-kc-AO-skill.md)
 
-[Activate Article Optimization skill](activate-kc-AO-skill.md)
+[Activate Article Optimization skill](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/activate-kc-AO-skill.md)
 

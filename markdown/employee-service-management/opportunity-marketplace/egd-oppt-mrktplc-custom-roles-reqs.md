@@ -46,5 +46,5 @@ Role required: admin
 7.  Select **Update**.
 
 
-**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](../concept/egd-oppt-mrktplc-custom-oppt-type.md)
+**Parent Topic:**[Creating custom opportunity types in Opportunity Marketplace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/../concept/egd-oppt-mrktplc-custom-oppt-type.md)
 

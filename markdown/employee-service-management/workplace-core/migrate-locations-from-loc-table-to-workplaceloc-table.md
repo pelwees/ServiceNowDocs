@@ -19,10 +19,10 @@ After you configure the location migration records, perform the migration action
 
 Ensure the following:
 
--   The location migration configurations are active. For more information, refer to [Configure location migration hierarchy](add-location-migration-hierarchy.md).
+-   The location migration configurations are active. For more information, refer to [Configure location migration hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-location-migration-hierarchy.md).
 -   The location migration configuration from Campus to lower levels must always be in the Campus &gt; Building &gt; Floor &gt; Area &gt; Room/Space order. You can also have an optional hierarchy for a location migration configuration.
 
-If you want to change the location type of a location created in the Location table \[cmn\_location\], see [Set the location type in Location table](set-loc-type-in-loc-table.md).
+If you want to change the location type of a location created in the Location table \[cmn\_location\], see [Set the location type in Location table](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/set-loc-type-in-loc-table.md).
 
 Role required: sn\_wsd\_core.admin
 

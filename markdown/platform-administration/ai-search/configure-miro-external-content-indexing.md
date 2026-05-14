@@ -93,12 +93,12 @@ To allow the connector to access your Miro source system via the Miro REST API, 
 
 Provide the following items to your connector admin:
 
--   The OAuth 2.0 application client ID that you copied in step [2.a](configure-miro-external-content-indexing.md#copy-client-id-step)
--   The OAuth 2.0 application client secret that you copied in step [2.b](configure-miro-external-content-indexing.md#copy-client-secret-step)
+-   The OAuth 2.0 application client ID that you copied in step [2.a](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-miro-external-content-indexing.md#copy-client-id-step)
+-   The OAuth 2.0 application client secret that you copied in step [2.b](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-miro-external-content-indexing.md#copy-client-secret-step)
 
 Your connector admin needs these items to configure a Miro external content connector to retrieve searchable text content and metadata and security principals from your Miro source system.
 
-For details on creating and configuring a Miro external content connector, see [Create a Miro external content connector](create-ext-cont-connector-miro.md).
+For details on creating and configuring a Miro external content connector, see [Create a Miro external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-cont-connector-miro.md).
 
-**Parent Topic:**[Miro external content connector](../concept/miro-external-content-connector.md)
+**Parent Topic:**[Miro external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/miro-external-content-connector.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Create a chat assistant, View assistants, Configuring assistants ov
 
 Now Assist in Virtual Agent provides users with a content-driven and search-driven generative AI experience. Depending on whether you have opted into standard or enhanced chat when configuring your assistant, you can integrate three different mobile app components with an assistant.
 
-For information on choosing how you want Now Assist in Virtual Agent to display on your mobile app, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). To understand the differences between Now Assist in Virtual Agent standard and enhanced chat experiences, see [Using Now Assist in Virtual Agent](using-now-assist-in-va.md).
+For information on choosing how you want Now Assist in Virtual Agent to display on your mobile app, see [Mobile Now Assist display experience for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-na-display-experience-va.md). To understand the differences between Now Assist in Virtual Agent standard and enhanced chat experiences, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
 The three different mobile app components that admins can integrate with an assistant are a mobile search widget, chat launcher, and custom app.
 
@@ -47,7 +47,7 @@ Typing an utterance in the search bar opens a full-screen chat experience. Users
 
 </td><td>
 
-Admins must select the mobile search conﬁguration to be used. For more information, see [Display your chat assistant on a portal, channel, or mobile app](../task/display-assistant-portal-channel.md).
+Admins must select the mobile search conﬁguration to be used. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/../task/display-assistant-portal-channel.md).
 
 </td></tr><tr><td>
 

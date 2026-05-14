@@ -62,13 +62,13 @@ You assign a credential alias in the policy's **Credentials** tab, as described 
         -   **Monitored CI type**: Select the CI type which you want the policy's checks to monitor.
         -   **Filter**: Configure a filter so that the policy's checks monitor only CI types meeting the specified criteria. Included in the available criteria are a CI's **tags**.
 
-            ![Policy tags](../image/ACC-tags-search.png "Tags")
+            ![Policy tags](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-tags-search.png "Tags")
 
     -   **Monitored CI type by script**: Enables you to specify the monitored CIs using a script. Using a script allows you to create a CI filter for tables related to each other, and not just for a single table. For example, you can set a filter in both a Linux servers table and an Oracle table when searching for a CI. You return an object containing the table and filter at the end of the script.
 
         An example of a script appearing in the **Monitored CI Script** field is:
 
-        ![Monitored CI Script example](../image/ACC-Monitored-CI-Type-Script.png)
+        ![Monitored CI Script example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/ACC-Monitored-CI-Type-Script.png)
 
     -   **Monitored CI type by CMDB Group**: Enables you to specify the monitored CIs by using CMDB group queries. When selecting this option, the **Monitored CMDB group** field appears, where you select a CMDB group to associate with the policy.
         -   For details on CMDB groups, see [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md).
@@ -79,14 +79,14 @@ You assign a credential alias in the policy's **Credentials** tab, as described 
 
 6.  Configure a proxy server on the **Proxy Settings** tab.
 
-    Configure a proxy server only when using the agent as a proxy to report data on remote machines. For details, see [Configure an agent on a proxy server](configure-agent-proxy-server.md).
+    Configure a proxy server only when using the agent as a proxy to report data on remote machines. For details, see [Configure an agent on a proxy server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-agent-proxy-server.md).
 
 7.  On the **Scheduling** tab, select one of the following:
 
     -   **Interval-based scheduling**: Configure the time interval \(in seconds\) to indicate the frequency with which the policy's checks will run.
     -   **Cron-based scheduling**: Enables configuring the policy to be active only during a specific time or time frames.
-        1.  Select the unlock icon \(![Unlock icon](../image/acc-lock-icon.png)\) to enable selecting cron expressions.
-        2.  Select the search icon \(![Search icon](../../event-management/image/search-icon.png)\) to select a cron expression. Select **New** to create a new cron expression, or select one of the cron expressions that come with the base system, which are:
+        1.  Select the unlock icon \(![Unlock icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../image/acc-lock-icon.png)\) to enable selecting cron expressions.
+        2.  Select the search icon \(![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../event-management/image/search-icon.png)\) to select a cron expression. Select **New** to create a new cron expression, or select one of the cron expressions that come with the base system, which are:
 
             -   Every hour nightly 5:00pm-7:00am
             -   Every minute daily 8:00am-4:59pm
@@ -107,7 +107,7 @@ You assign a credential alias in the policy's **Credentials** tab, as described 
 9.  On the **Credentials** tab, select one of the following:
 
     -   **Credential name**: Select credentials to be assigned to the policy. The available credentials are those displayed on the associated check definition's **Check Secure Parameter Definitions** tab.
-    -   **Credential alias**: Select the search icon ![Search icon](../../event-management/image/search-icon.png) to select a credential alias to be used by the policy's checks to connect to the monitored CI. The available options are those created on the **Connection &amp; Credential Aliases** page. For details on credential aliases, see [Credential aliases for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/discovery-credential-alias.md).
+    -   **Credential alias**: Select the search icon ![Search icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/../../event-management/image/search-icon.png) to select a credential alias to be used by the policy's checks to connect to the monitored CI. The available options are those created on the **Connection &amp; Credential Aliases** page. For details on credential aliases, see [Credential aliases for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/discovery-credential-alias.md).
 10. Click **Save**.
 
     The following buttons appear:
@@ -118,5 +118,5 @@ You assign a credential alias in the policy's **Credentials** tab, as described 
 **Related topics**  
 
 
-[Create a policy hierarchy](acc-create-policy-hierarchy.md)
+[Create a policy hierarchy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-create-policy-hierarchy.md)
 

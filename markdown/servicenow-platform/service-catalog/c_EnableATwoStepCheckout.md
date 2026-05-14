@@ -25,7 +25,7 @@ The service catalog also supports a two-step checkout model. Under this model, w
 
 Access check for a catalog item is performed during its checkout. This check is also applicable in scripts and APIs.
 
-**Parent Topic:**[Service Catalog request fulfillment](request-fulfillment.md)
+**Parent Topic:**[Service Catalog request fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-fulfillment.md)
 
 ## Enable the two-step checkout process
 

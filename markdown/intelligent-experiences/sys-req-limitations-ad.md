@@ -113,5 +113,5 @@ Sensitive information
 The sensitive information isn’t masked during recording. Confirm that you don’t record any sensitive information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[AI Desktop Actions reference](agentic-desktop-reference.md)
+</table>**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 

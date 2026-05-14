@@ -23,7 +23,7 @@ Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 ## Procedure
 
-1.  Navigate to [Major incident workbench](../concept/major-incident-workbench.md).
+1.  Navigate to [Major incident workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/major-incident-workbench.md).
 
 2.  Click the **Communications** tab.
 
@@ -31,7 +31,7 @@ Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 4.  From the list, select a group.
 
-    ![Select On-call groups](../image/on_call_tracking.png "On-call groups")
+    ![Select On-call groups](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../image/on_call_tracking.png "On-call groups")
 
 5.  Select **Track On-Call Escalation \(Live\)**.
 
@@ -42,5 +42,5 @@ Activate the On-Call Scheduling plugin \(com.snc.on\_call\_rotation\).
 
 You can access the on-call escalation information.
 
-**Parent Topic:**[Major incident workbench](../concept/major-incident-workbench.md)
+**Parent Topic:**[Major incident workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/incident-management/../concept/major-incident-workbench.md)
 

@@ -43,12 +43,12 @@ Role required: admin
 
         -   To configure the default connection and credential alias record that is shipped along with the Twilio spoke, click **View Details**.
 
-            ![Connection template for Twilio Base](../image/twilio-base-conn.png)
+            ![Connection template for Twilio Base](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-base-conn.png)
 
-        -   To manage more than one Twilio Base spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Base spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-        ![Twilio Base connection configuration](../image/twilio-base-conn-config.png)
+        ![Twilio Base connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-base-conn-config.png)
 
     5.  On the form, fill in the fields.
 
@@ -78,12 +78,12 @@ Role required: admin
 
         -   To configure the default connection and credential alias record that is shipped along with the Twilio spoke, click **View Details**.
 
-            ![Connection template for Twilio Messaging](../image/twilio-messg-conn.png)
+            ![Connection template for Twilio Messaging](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-messg-conn.png)
 
-        -   To manage more than one Twilio Messaging spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Messaging spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-        ![Twilio Messaging Connection configuration](../image/twilio-messg-conn-config.png)
+        ![Twilio Messaging Connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-messg-conn-config.png)
 
     5.  On the form, fill in the fields.
 
@@ -113,12 +113,12 @@ Role required: admin
 
         -   To configure the default connection and credential alias record that is shipped along with the Twilio spoke, click **View Details**.
 
-            ![Connection template for Twilio Notify](../image/twilio-notify-conn.png)
+            ![Connection template for Twilio Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-notify-conn.png)
 
-        -   To manage more than one Twilio Notify spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](../../integrationhub/concept/support-multiple-connections.md).
+        -   To manage more than one Twilio Notify spoke connection records, you should create a new child alias record by clicking **Add Connection**. For more information about using multiple connections, see [Supporting multiple connections](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub/concept/support-multiple-connections.md).
         If you are configuring the spoke for the first time, click **Configure**. Otherwise, click **Edit**.
 
-        ![Twilio Notify connection configuration](../image/twilio-notify-conn-config.png)
+        ![Twilio Notify connection configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/twilio-notify-conn-config.png)
 
     5.  On the **Connection** form, fill in the fields.
 

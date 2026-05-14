@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The DevOps Config Exporter content pack contains a set of [Default DevOps Config exporters](../reference/devops-config-default-exporters.md) to export your configuration data.
+The DevOps Config Exporter content pack contains a set of [Default DevOps Config exporters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../reference/devops-config-default-exporters.md) to export your configuration data.
 
 ## Procedure
 
@@ -36,5 +36,5 @@ The DevOps Config Exporter content pack contains a set of [Default DevOps Config
 3.  Locate the DevOps Config Exporter content pack and click **Install**.
 
 
-**Parent Topic:**[Install DevOps Config](install-devops-config.md)
+**Parent Topic:**[Install DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/install-devops-config.md)
 

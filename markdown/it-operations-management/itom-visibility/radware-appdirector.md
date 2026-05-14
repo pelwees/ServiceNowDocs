@@ -56,5 +56,5 @@ The following data is collected on the Load Balancer Services `[cmdb_ci_lb_servi
 |Operational Status|operational\_status|
 |Install Status|install\_status|
 
-**Parent Topic:**[Load balancer discovery](c_LoadBalancers.md)
+**Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 

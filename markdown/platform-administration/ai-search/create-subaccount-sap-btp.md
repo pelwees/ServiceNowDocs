@@ -32,7 +32,7 @@ This task is optional. To configure the SAP DMS external content connector, you 
 -   Cloud Foundry Environment
 -   Authorization and Trust Management Service
 
-If your SAP BTP global account already includes a subaccount with these entitlements, you can skip this task and go on to configure your SAP BTP global account to allow access by the connector. For details on this procedure, see [Configure SAP DMS for external content indexing](configure-sap-dms-external-content-indexing.md).
+If your SAP BTP global account already includes a subaccount with these entitlements, you can skip this task and go on to configure your SAP BTP global account to allow access by the connector. For details on this procedure, see [Configure SAP DMS for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md).
 
 ## Procedure
 
@@ -115,7 +115,7 @@ If your SAP BTP global account already includes a subaccount with these entitlem
 
 ## What to do next
 
-Now that you've created a subaccount with the required entitlements, go on to configure service instances and service keys in your SAP BTP global account. For details on this procedure, see [Configure SAP DMS for external content indexing](configure-sap-dms-external-content-indexing.md).
+Now that you've created a subaccount with the required entitlements, go on to configure service instances and service keys in your SAP BTP global account. For details on this procedure, see [Configure SAP DMS for external content indexing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configure-sap-dms-external-content-indexing.md).
 
-**Parent Topic:**[SAP DMS external content connector](../concept/sap-dms-external-content-connector.md)
+**Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/../concept/sap-dms-external-content-connector.md)
 

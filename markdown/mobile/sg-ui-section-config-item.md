@@ -57,5 +57,5 @@ Role required: admin
 
 ## What to do next
 
-After creating record UI sections, you must add the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](ui-section-to-launcher-screen.md).
+After creating record UI sections, you must add the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 

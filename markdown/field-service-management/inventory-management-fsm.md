@@ -18,5 +18,5 @@ Parts represent items which field service agents may need while completing a wor
 **Related topics**  
 
 
-[Manage inventory in Field Service Management](sourcing-parts.md)
+[Manage inventory in Field Service Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/sourcing-parts.md)
 

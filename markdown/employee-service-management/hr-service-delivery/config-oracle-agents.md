@@ -17,7 +17,7 @@ Configure HCM AI agents to enable your employees to place requests to the Oracle
 
 ## Before you begin
 
-View [Subflow-agent mapping for HR Service Delivery Advanced Integration with Oracle HCM](../reference/oracle-agent-mapping.md).
+View [Subflow-agent mapping for HR Service Delivery Advanced Integration with Oracle HCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../reference/oracle-agent-mapping.md).
 
 Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin, and sn\_hr\_core.admin
 
@@ -25,7 +25,7 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 1.  Install the Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\).
 
-    For more information, see [Configure Now Assist for HR Service Delivery \(HRSD\)](configure-now-assist-hr.md).
+    For more information, see [Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-now-assist-hr.md).
 
 2.  Activate the \[Enterprise Service Management Integrations Framework\] application from the ServiceNow® Store.
 
@@ -33,13 +33,13 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 4.  Create subflows aligning with Template Integration Gateway.
 
-    For more information, see [Create a subflow using Template Integration Gateway](configure-integration-gateway.md).
+    For more information, see [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
     **Note:** You can use also the default subflows that have been created for Oracle.
 
 5.  Add input choices and define conditions and results in a decision table for the Integration Gateway subflow.
 
-    For more information, see [Configure Integration Provider Mapping \(Decision table\)](configure-integration-mapping.md).
+    For more information, see [Configure Integration Provider Mapping \(Decision table\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-mapping.md).
 
 6.  Duplicate AI agents available for Oracle to run them autonomously.
 

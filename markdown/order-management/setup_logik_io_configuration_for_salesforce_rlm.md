@@ -47,7 +47,7 @@ As the current package is unmanaged, you will be required to uninstall v0.3 to i
     -   Selling Model Type: "One Time"
     -   Status: "Active"
 
-        ![Product selling model screen](../images/cpq-product-selling-model-details.png)
+        ![Product selling model screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-selling-model-details.png)
 
 3.  Setup → Object Manager → Price Book Entry → Page Layouts → "Price Book Entry Layout": Add "Product Selling Model" field to the layout
 4.  Setup → Object Manager → Product → Page Layouts → "Product Layout": Add the following fields to the layout
@@ -147,13 +147,13 @@ As the current package is unmanaged, you will be required to uninstall v0.3 to i
 11. Return to the related list of the new "Server Rack Specifications" attribute category you created, and in its related list, under "Attributes", click "Assign" and add the "Load Capacity" attribute to it.
 12. App Launcher → Product Catalog Management → Product Classifications → "Server Racks" → "Attributes" tab: Click "Assign" → "Assign individual attributes" → add the "Load Capacity" attribute.
 
-    ![Load capacity screen](../images/cpq-logik-config-for-sf-rlm-38.png)
+    ![Load capacity screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-config-for-sf-rlm-38.png)
 
-    ![Service rack specification](../images/cpq-logik-config-for-sf-rlm-39.png)
+    ![Service rack specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-config-for-sf-rlm-39.png)
 
-    ![Server racks](../images/cpq-logik-config-for-sf-rlm-40.png)
+    ![Server racks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-config-for-sf-rlm-40.png)
 
-    ![Price book entry](../images/cpq-logik-config-for-sf-rlm-41.png)
+    ![Price book entry](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-config-for-sf-rlm-41.png)
 
 
 ## Salesforce Transaction Line Editor Setup
@@ -163,11 +163,11 @@ A Lightning Web Component is available to perform configure/reconfigure and view
 1.  App Launcher → Sales → Quotes → open a quote.
 2.  Press the gear icon on the top-right corner of the page and select "Edit Page".
 
-    ![Salesforce Transaction Line Editor Setup](../images/cpq-edit-page.png)
+    ![Salesforce Transaction Line Editor Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-edit-page.png)
 
 3.  From left menu, drag Transaction Line Editor component onto the layout.
 
-    ![Transaction components](../images/cpq-transaction-line-editor.png)
+    ![Transaction components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-transaction-line-editor.png)
 
 4.  Save and Activate.
 
@@ -180,7 +180,7 @@ Instead of assigning a Configurator at the org level, a new object determines wh
 
 If there are multiple config flows being used, the flow can be assigned to individual products or product classifications through the Related records.
 
-![SMC configuration](../images/cpq-product-configuration-flows.png)
+![SMC configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-configuration-flows.png)
 
 ## Salesforce Product Discovery Setup
 
@@ -190,14 +190,14 @@ Configure from Quote: With Product Discovery, products can be configured before 
 2.  Press the gear icon on the top-right corner of the page and select "Edit Object".
 3.  Go to Page Layouts; for the layouts being used, add the “Browse Catalog” action to the layout and save.
 
-![Setup menu](../images/cpq-edit-object.png)
+![Setup menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-edit-object.png)
 
 Configure from account is not currently supported. In the future, the user will be able to configure without reference to a quote. For instance, this could be used to launch product discovery from the account page.
 
 1.  From a Catalog page, open the Admin gears and click “Edit Page”.
 2.  Under Components, search for and add the "Product List Page Component" onto the page.
 
-    ![Product list components](../images/cpq-logik-config-for-sf-rlm-46.png)
+    ![Product list components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-logik-config-for-sf-rlm-46.png)
 
 3.  Save, and if needed, Activate and assign as default.
 
@@ -210,7 +210,7 @@ Configure from account is not currently supported. In the future, the user will 
     -   Async: false
     -   Content: Either "All" or "BOM and System Fields"
     -   BOM Types: "sales" \(others can optionally be added, but "sales" is required\)
-    ![Webhook screen](../images/cpq-webhook-setup.png)
+    ![Webhook screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-webhook-setup.png)
 
 
 ## CPQ Product Selling Models Setup
@@ -219,7 +219,7 @@ In a product action, pricing fields for Revenue Lifecycle Management can be set,
 
 Example of simple product action setup:
 
-![Product selling models setup](../images/cpq-product-selling-models-setup.png)
+![Product selling models setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-selling-models-setup.png)
 
 Available pricing map \(ProductList.pricing\) fields are:
 
@@ -231,7 +231,7 @@ Assuming Product Selling Models have been created in Salesforce, the productSell
 
 Example productSellingModelId based on this image would be "Term\_Defined\_TermDefined\_1\_Months\_2023\_03\_02"
 
-![Product Selling models](../images/cpq-product-selling-models-setup-example.png)
+![Product Selling models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-product-selling-models-setup-example.png)
 
 ## Salesforce: Enable Context Service
 
@@ -245,7 +245,7 @@ Example productSellingModelId based on this image would be "Term\_Defined\_TermD
     2.  Populate the new Context Definition and Save.
     3.  Go to the Custom Definitions tab. Open the dropdown menu for the newly created Context Definition and press 'Activate'.
 
-![Context definitions](../images/cpq-enable-context-service.png)
+![Context definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-enable-context-service.png)
 
 ## Salesforce: Enable Business Rules Engine \(BRE\) for Qualification
 

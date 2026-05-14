@@ -23,20 +23,20 @@ Role required: sn\_si.basic
 
 1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
-2.  Select the list \(![list icon](../image/listview-icon.png)\) icon.
+2.  Select the list \(![list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/listview-icon.png)\) icon.
 
 3.  For example, go to **Lists** &gt; **Security Incidents** &gt; **Quick Filters** section.
 
-    ![quick filters](../image/quick-filters1.png)
+    ![quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/quick-filters1.png)
 
 4.  Select the **Edit** icon to make the changes.
 
     **Note:** The change that you make will be persisted, and when the user returns back to this page the next time then the persisted preference is displayed.
 
-    ![Edit quick filters](../image/esit-quick-filters.png)
+    ![Edit quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/esit-quick-filters.png)
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[Working with quick filters](configure-quick-filters.md)
+**Parent Topic:**[Working with quick filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-quick-filters.md)
 

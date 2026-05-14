@@ -34,5 +34,5 @@ You might have questions while implementing the CSDM framework.
     In both types of network, the Windows server is represented in the cmdb\_ci\_win\_server server. Additionally, the Windows server in the OT network has a reference in the cmdb\_ci\_win\_server.cmdb\_ot\_entity field pointing to a record in the cmdb\_ot\_entity table that describes its function in OT and other OT characteristics like Purdue Level, site, and so on.
 
 
-**Parent Topic:**[Implementing the CSDM framework for Operational Technology](ot-use-case-product-view.md)
+**Parent Topic:**[Implementing the CSDM framework for Operational Technology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-use-case-product-view.md)
 

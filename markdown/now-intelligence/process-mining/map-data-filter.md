@@ -34,10 +34,10 @@ There are two types of filters:
 
 4.  In the filters list, you see the filters that are applied to the project.
 
-    ![Data and map filters](../image/data-map-filter.png)
+    ![Data and map filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/../image/data-map-filter.png)
 
 5.  Select any filter, and select **Clear** to remove the filter.
 
 
-**Parent Topic:**[Filtering project data](filter-project.md)
+**Parent Topic:**[Filtering project data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/filter-project.md)
 

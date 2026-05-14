@@ -23,20 +23,20 @@ To use single sign-on with Service Portal, you must activate the Integration - M
 
 If you are using the system property to automatically redirect to your primary IdP, then Service Portal automatically redirects to that IdP. If you have multiple identity providers, Service Portal shows a link on the login page to **Use external login**. For more information on SSO and authentication in the platform, see [Multiple-Provider single sign-on \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_MultipleProviderSingleSignOn.md).
 
-You can configure the **glide.service\_portal.sso.early\_redirect.portals** system property to redirect users to the SSO Identify Provider \(IdP\) login page. This bypasses the portal login page. For more information, see [Service Portal properties](properties-service-portal.md). If your portal uses a customized version of the Login widget, you must update the `sp_sso_early_redirection` UI macro as needed to redirect users to the SSO Identify Provider \(IdP\) login page without trying to load the portal page first.
+You can configure the **glide.service\_portal.sso.early\_redirect.portals** system property to redirect users to the SSO Identify Provider \(IdP\) login page. This bypasses the portal login page. For more information, see [Service Portal properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/properties-service-portal.md). If your portal uses a customized version of the Login widget, you must update the `sp_sso_early_redirection` UI macro as needed to redirect users to the SSO Identify Provider \(IdP\) login page without trying to load the portal page first.
 
 **Note:** Service Portal has a known issue related to using Multi-Provider SSO and Okta. For more information about this issue and a workaround, see the [Service Portal: After enabling Multi SSO, end users are able to access navpage.do through OKTA if they are already logged in \[KB0687717\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0687717) article in the Now Support Knowledge Base.
 
 ## Require authentication for a Service Portal page
 
-If you want to require authentication for a Service Portal page, confirm that the **Public** flag on the page record is not selected. For more information, see [Create and edit a page using the Service Portal Designer](../task/t_ConfigureAPage.md#). If a user navigates to a non-public page, they are redirected to the login page for the requested portal.
+If you want to require authentication for a Service Portal page, confirm that the **Public** flag on the page record is not selected. For more information, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../task/t_ConfigureAPage.md#). If a user navigates to a non-public page, they are redirected to the login page for the requested portal.
 
 Because every page request is routed through the **$sp** page, this page must be public. The following values in the Public Pages `sys_public` table define the page as public:
 
 -   **Page**: `$sp`
 -   **Active**: `true`
 
-**Parent Topic:**[Managing portal access](portal-security.md)
+**Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-security.md)
 
 ## Configure a portal as the instance login page
 
@@ -181,7 +181,7 @@ Contains the call to the server script include method that determines where to l
 
 ### What to do next
 
-To debug redirection, see [Debug Service Portal URL redirects](c_SPSSOLoginAndRedirects.md#). For additional redirection troubleshooting information, see the [Frequently Asked Questions on redirection with service portal \[KB0747432\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0747432) article in the Now Support Knowledge Base.
+To debug redirection, see [Debug Service Portal URL redirects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_SPSSOLoginAndRedirects.md#). For additional redirection troubleshooting information, see the [Frequently Asked Questions on redirection with service portal \[KB0747432\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0747432) article in the Now Support Knowledge Base.
 
 ## Debug Service Portal URL redirects
 

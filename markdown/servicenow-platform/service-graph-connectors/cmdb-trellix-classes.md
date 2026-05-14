@@ -152,5 +152,5 @@ The following attributes in the Storage Disk \[cmdb\_ci\_storage\_disk\] table a
 **Related topics**  
 
 
-[Service Graph Connector for Trellix](../concept/sgc-integration-trellix.md)
+[Service Graph Connector for Trellix](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/../concept/sgc-integration-trellix.md)
 

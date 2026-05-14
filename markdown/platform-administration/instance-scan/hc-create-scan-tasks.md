@@ -109,5 +109,5 @@ Additional notes
 </table>    **Note:** The scan\_user can assign the task only to a non-scan\_user. The user to which the task has been assigned also gets the same privilege as the scan\_user.
 
 
-**Parent Topic:**[Findings](../concept/hs-findings.md)
+**Parent Topic:**[Findings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/../concept/hs-findings.md)
 

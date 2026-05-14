@@ -79,5 +79,5 @@ Appointment Schedule Override​\[sn\_apptmnt\_booking\_schedule\_override\]
 Stores override schedule changes. ​
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Appointment booking components](appointment-booking-components.md)
+</table>**Parent Topic:**[Appointment booking components](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking-components.md)
 

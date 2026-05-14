@@ -17,11 +17,11 @@ The Service instance dashboard enables you to monitor and manage service instanc
 
 ## Working in the dashboard
 
-A report on the dashboard, for example, can direct you to a service instance that is not configured with a service population method so you can repair it. For information on working in the dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](../../configuration-management/task/app-service-dashboard.md).
+A report on the dashboard, for example, can direct you to a service instance that is not configured with a service population method so you can repair it. For information on working in the dashboard, see [Use Service instance \(Application Services\) dashboard to monitor health](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../../configuration-management/task/app-service-dashboard.md).
 
 **Note:** Before the Australia release, this dashboard was called the Application Services dashboard.
 
-![Service instance dashboard.](../image/service-instance-dash.png)
+![Service instance dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/../image/service-instance-dash.png)
 
-**Parent Topic:**[Access CSDM features](csdm-content-frame-using.md)
+**Parent Topic:**[Access CSDM features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-using.md)
 

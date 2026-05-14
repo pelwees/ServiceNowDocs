@@ -33,17 +33,17 @@ By default, service catalog categories appear on mobile devices in the same orde
 
 3.  Click **Edit** to select which categories appear on mobile devices, and in which order.
 
-    ![Service Catalog mobile layout](../image/ServiceCatalogMobileLayoutCatalogs.png "Service Catalog Classic Mobile layout catalogs")
+    ![Service Catalog mobile layout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../image/ServiceCatalogMobileLayoutCatalogs.png "Service Catalog Classic Mobile layout catalogs")
 
 4.  Add, remove, or reorder the selected mobile categories, and then click **Save**.
 
     **Note:** To return the display to the default desktop layout settings for the portal page associated with that catalog, click the **Replace categories with desktop layout** related link.
 
 
-**Parent Topic:**[Configure Classic Mobile devices](t_ServiceCatalogOnMobileDevices.md)
+**Parent Topic:**[Configure Classic Mobile devices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ServiceCatalogOnMobileDevices.md)
 
 **Related topics**  
 
 
-[Limit description sizes in the Classic Mobile UI](t_LimitDescriptionSizesInMobileUI.md)
+[Limit description sizes in the Classic Mobile UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_LimitDescriptionSizesInMobileUI.md)
 

@@ -25,7 +25,7 @@ The Survey Overview dashboard displays various survey reports, such as Surveys b
 |Service Desk Survey 'First Call Resolve' 60 Days|Metric Results \[asmt\_metric\_result\]|
 |Service Desk Survey 'Tech Competence' 60 Days|Metric Results \[asmt\_metric\_result\]|
 
-![Various survey reports that appear on the Survey Overview dashboard.](../../assessments/images/survey-overview-dashboard.png "Survey report")
+![Various survey reports that appear on the Survey Overview dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../../assessments/images/survey-overview-dashboard.png "Survey report")
 
-**Parent Topic:**[Surveys reference](survey-reference.md)
+**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 

@@ -192,5 +192,5 @@ Published
 </td></tr></tbody>
 </table>Any change to the state of an article results in a version increment, except to and from the **Pending retirement**, **Retired**, and **Outdated** states.
 
-**Note:** To know more about minor version edits, see [Article versioning changes](article-versioning-changes.md).
+**Note:** To know more about minor version edits, see [Article versioning changes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning-changes.md).
 

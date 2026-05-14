@@ -53,10 +53,10 @@ Role required: catalog\_builder\_editor
 11. After you’ve all the details in your catalog item, submit it.
 
 
-**Parent Topic:**[Using Now Assist conversation to create and edit catalog items](use-now-assist-conversation-to-create-and-edit-catalog-items.md)
+**Parent Topic:**[Using Now Assist conversation to create and edit catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/use-now-assist-conversation-to-create-and-edit-catalog-items.md)
 
 **Related topics**  
 
 
-[Suggestions to describe catalog items](../reference/how-to-describe-catalog-item.md)
+[Suggestions to describe catalog items](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/../reference/how-to-describe-catalog-item.md)
 

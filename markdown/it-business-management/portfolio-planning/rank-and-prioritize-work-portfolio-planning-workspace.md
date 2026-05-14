@@ -18,7 +18,7 @@ Rank the planning items that are added to the pipeline of your portfolio plan an
 
 ## Before you begin
 
--   [Create a portfolio plan](create-portfolio-plan-in-portfolio-planning-workspace.md).
+-   [Create a portfolio plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md).
 -   Ensure that the planning items in the Prioritization tab are sorted by the Rank column in ascending order.
 
 Role required: sn\_align\_core.apw\_user
@@ -55,9 +55,9 @@ Action
 
 </td><td>
 
-Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the row to the required position.
+Use the Rearrange rows icon \(![Rearrange rows icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the row to the required position.
 
- ![Prioritization page single row reorder](../../spw-prioritization/images/backlog-v2-single-reorder.gif)
+ ![Prioritization page single row reorder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/backlog-v2-single-reorder.gif)
 
 </td></tr><tr><td id="d125003e180">
 
@@ -65,16 +65,16 @@ Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-wo
 
 </td><td>
 
-1.  Use the Select row checkbox \(![Select checkbox.](../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
-2.  Use the Rearrange rows icon \(![Rearrange rows icon.](../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the rows to the required position.
- ![Prioritization page multi-row reorder](../../spw-prioritization/images/backlog-v2-multi-row-reorder.gif)
+1.  Use the Select row checkbox \(![Select checkbox.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-select.png)\) to select the items that you want to reorder.
+2.  Use the Rearrange rows icon \(![Rearrange rows icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../alignment-planner-workspace/images/icon-rearrange.png)\) to drag and drop the rows to the required position.
+ ![Prioritization page multi-row reorder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-prioritization/images/backlog-v2-multi-row-reorder.gif)
 
 </td></tr></tbody>
 </table>    Repeat this step until the ranking of the planning items align with your business priorities. To get better visibility of data that you need:
 
-    -   Sort or group the list by the required columns. See [Personalize Prioritization view](personalize-prioritization-page-portfolio-planning-workspace.md).
-    -   Filter the planning items. See [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](quick-fiters-prioitization-roadmap-ppw.md).
-    **Tip:** Using the Row context menu \(![Row context menu](../../project-workspace/image/icon-row-context-menu.png)\), you can also assign the highest and lowest ranks to the planning items using the **Move to top** and **Move to bottom** options respectively.
+    -   Sort or group the list by the required columns. See [Personalize Prioritization view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/personalize-prioritization-page-portfolio-planning-workspace.md).
+    -   Filter the planning items. See [Apply quick filters for Prioritization and Roadmap data in Portfolio Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/quick-fiters-prioitization-roadmap-ppw.md).
+    **Tip:** Using the Row context menu \(![Row context menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../project-workspace/image/icon-row-context-menu.png)\), you can also assign the highest and lowest ranks to the planning items using the **Move to top** and **Move to bottom** options respectively.
 
 
 ## Result

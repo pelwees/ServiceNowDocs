@@ -17,7 +17,7 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 ## Before you begin
 
--   [Create monetary benefit plans for your planning items in Strategic Planning](fin-manage-monetary-benefit-plans-spw.md)
+-   [Create monetary benefit plans for your planning items in Strategic Planning](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/fin-manage-monetary-benefit-plans-spw.md)
 -   Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
@@ -58,7 +58,7 @@ Procedure
 </td><td>
 
 1.  Select the **Financials** tab.
-2.  Select the options ![Option to add expense lines.](../images/fin-options.png) from the required cell of a monetary benefit plan row.
+2.  Select the options ![Option to add expense lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/../images/fin-options.png) from the required cell of a monetary benefit plan row.
 3.  Select **Add actual benefits**.
 
 Monetary Benefit Plan Breakdown side-panel is displayed.

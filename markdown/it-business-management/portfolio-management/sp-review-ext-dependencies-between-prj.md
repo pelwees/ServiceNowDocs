@@ -29,7 +29,7 @@ For example, project B is dependent on project A \(external soft dependency\) an
 
 ## Procedure
 
-1.  Click the show or hide columns in gantt icon \(![show or hide columns in gantt](../image/show_hide_columns.png)\) in the timeline view and add the **Dependencies** column if it is not visible.
+1.  Click the show or hide columns in gantt icon \(![show or hide columns in gantt](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/../image/show_hide_columns.png)\) in the timeline view and add the **Dependencies** column if it is not visible.
 
     The number of incoming and outgoing external dependencies are displayed, if any.
 
@@ -45,10 +45,10 @@ For example, project B is dependent on project A \(external soft dependency\) an
 
         Tasks with an outgoing dependency to the project are listed.
 
-    ![Dependencies example](../../project-management/image/ReviewExternalDependencies.png "Example of external dependencies between projects")
+    ![Dependencies example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/../../project-management/image/ReviewExternalDependencies.png "Example of external dependencies between projects")
 
 4.  Click the project number in a tab to open and review the linked project in the planning console view.
 
 
-**Parent Topic:**[Create planning scenarios](create-scenarios.md)
+**Parent Topic:**[Create planning scenarios](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)
 

@@ -27,7 +27,7 @@ Role required: sn\_skills\_int.emp
 
 3.  Select the Skills widget.
 
-4.  On the skills pill, select the menu icon ![Shortcut menu](../../../common/image/icon-menu.png).
+4.  On the skills pill, select the menu icon ![Shortcut menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../../../common/image/icon-menu.png).
 
 5.  Select **Change skill proficiency**.
 
@@ -42,5 +42,5 @@ Role required: sn\_skills\_int.emp
 
 Your skill proficiency level is successfully updated in your skills profile.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

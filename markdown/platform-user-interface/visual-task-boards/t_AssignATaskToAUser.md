@@ -23,7 +23,7 @@ Role required: admin
 
 You can filter the visible tasks on a board to show only tasks assigned to a certain user. Assignees appear on cards as avatars.
 
-![Task card assignees](../image/AssigneeOnCardHelsinki.png "Task card assignees")
+![Task card assignees](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/AssigneeOnCardHelsinki.png "Task card assignees")
 
 When a card changes lanes, all the assignees receive an email notification.
 
@@ -52,7 +52,7 @@ For flexible and guided boards, the primary assignee corresponds to the underlyi
 </td><td>
 
 1.  Open the card details for a task.
-2.  Click the assignees tab \(![Assignees tab](../image/AssigneesTab.png)\).
+2.  Click the assignees tab \(![Assignees tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../image/AssigneesTab.png)\).
 3.  Click **Add Primary Assignee** or **Add Additional Assignee**. The **Add Primary Assignee** option is not available if there is already a primary assignee.
 4.  Select a user.
 5.  Close the card detail pop-up window.
@@ -62,5 +62,5 @@ For flexible and guided boards, the primary assignee corresponds to the underlyi
 </table>    The system sends an email notification to inform the new assignee of the change.
 
 
-**Parent Topic:**[Working with Visual Task Board cards](../reference/r_TaskCards.md)
+**Parent Topic:**[Working with Visual Task Board cards](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/../reference/r_TaskCards.md)
 

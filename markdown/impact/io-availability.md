@@ -27,9 +27,9 @@ The Availability section shows instance level availability on a geographic map a
 
     **Note:** All alerts generated for your instance are consolidated and listed in the Alert Console. To monitor the alerts, navigate to **Alerts** &gt; **Alert Console** and filter the **Alert Type** column with the value **Monitoring** to see the instance's Up/Down time.
 
-    ![Instance up or down time filtered by Monitoring alert type.](../image/monitoring-alerts-up-down.png)
+    ![Instance up or down time filtered by Monitoring alert type.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/monitoring-alerts-up-down.png)
 
-    ![Instance availability in a geographical map.](../image/io-instance-availability.png "Instance availability in a geographical map")
+    ![Instance availability in a geographical map.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../image/io-instance-availability.png "Instance availability in a geographical map")
 
 4.  Select **Detailed Instance Availability** to navigate to the Instances Dashboard
 
@@ -37,8 +37,8 @@ The Availability section shows instance level availability on a geographic map a
 
 A problem or defect of an instance that requires proactive mitigation is listed in the **Known Issues** tab of the **Availability** section.
 
--   **[Cloud availability](../reference/cloud-availability.md)**  
+-   **[Cloud availability](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/../reference/cloud-availability.md)**  
 Check specific ServiceNow data center availability, service degradation, or for interruption.
 
-**Parent Topic:**[Monitoring instance health with Instance Observer](io-overview.md)
+**Parent Topic:**[Monitoring instance health with Instance Observer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/impact/io-overview.md)
 

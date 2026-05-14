@@ -25,7 +25,7 @@ Role required: admin, change\_manager
 
 2.  Select the template you want to modify.
 
-3.  From the **More Actions** icon \(![more actions icon](../../itsm-workspace/image/vertical-more-action.png)\), select **Edit template**.
+3.  From the **More Actions** icon \(![more actions icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../../itsm-workspace/image/vertical-more-action.png)\), select **Edit template**.
 
 4.  Enter your edits in the **Modify a Standard Change Template** form.
 
@@ -34,5 +34,5 @@ Role required: admin, change\_manager
     -   Save edits, but do not send for approval by selecting **Save**.
     -   Send edits for approval to the change management team by selecting **Request Approval**.
 
-**Parent Topic:**[Standard change catalog](../concept/standard-change-catalog-sow.md)
+**Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/../concept/standard-change-catalog-sow.md)
 

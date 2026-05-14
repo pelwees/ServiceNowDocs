@@ -20,10 +20,10 @@ You can customize:
 -   UI actions
 -   Business rules
 
--   **[Customize UI actions for HR Service Delivery integration with Microsoft Teams](ui-actions-ms-teams-hr.md)**  
+-   **[Customize UI actions for HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ui-actions-ms-teams-hr.md)**  
 Enables you to extend the UI actions to the tables you require.
--   **[Customize business rules for actionable notifications](../task/customize-business-rules-sn-ms-teams-hr.md)**  
+-   **[Customize business rules for actionable notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/customize-business-rules-sn-ms-teams-hr.md)**  
 Enables you to customize the business rules for actionable notifications.
 
-**Parent Topic:**[Manage Microsoft Teams integration for Employee Experience](c_employee_ex_mng.md)
+**Parent Topic:**[Manage Microsoft Teams integration for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_mng.md)
 

@@ -39,8 +39,8 @@ Role required: admin
 
     If you select **Save**, the **Local Union Chapters** and **Labor Union Contacts** tabs appear.
 
-    **Note:** For more information on **Local Union Chapters**, see [Create a local chapter](labor-unions-local-chapter.md). For more information on **Labor Union Contacts**, see [Create union contacts](labor-union-contacts.md).
+    **Note:** For more information on **Local Union Chapters**, see [Create a local chapter](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-local-chapter.md). For more information on **Labor Union Contacts**, see [Create union contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-union-contacts.md).
 
 
-**Parent Topic:**[Setting up labor unions](../concept/labor-unions-setting-up.md)
+**Parent Topic:**[Setting up labor unions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../concept/labor-unions-setting-up.md)
 

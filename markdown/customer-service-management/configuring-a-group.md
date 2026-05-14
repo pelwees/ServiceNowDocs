@@ -36,7 +36,7 @@ Role required: user\_admin
 
 ### What to do next
 
-Assign the required roles to the members of the group. For more information, see [Assign required roles](configuring-a-group.md#).
+Assign the required roles to the members of the group. For more information, see [Assign required roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-group.md#).
 
 ## Assign required roles
 
@@ -61,5 +61,5 @@ Role required: user\_admin
 
 ### Result
 
-The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [Associate a group to a business location](../task/associate-a-group-to-a-business-location-so.md).
+The roles are successfully added to the assignment group. You can now start associating these groups to a business location. For more information, see [Associate a group to a business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/associate-a-group-to-a-business-location-so.md).
 

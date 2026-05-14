@@ -44,7 +44,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 5.  Double-click **Insert a new row**.
 
-6.  Select an authentication policy from the list and select the save icon ![save icon](../images/green-checkmark.png).
+6.  Select an authentication policy from the list and select the save icon ![save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/green-checkmark.png).
 
     **Note:** Don’t select Allow Access Policy or Deny Access Policy. These policies are meant only for user logins.
 

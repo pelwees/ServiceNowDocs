@@ -19,7 +19,7 @@ Verify and test all configuration details to ensure that the flow is generated c
 
 Role required: sn\_ac.automation\_technical\_user or sn\_ac.automation\_admin
 
-Proceed from the **Configure batch import for data** section. For information on configuring batch import for data, see [Configure batch import for data](config-batch-import.md).
+Proceed from the **Configure batch import for data** section. For information on configuring batch import for data, see [Configure batch import for data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/config-batch-import.md).
 
 ## Procedure
 
@@ -36,5 +36,5 @@ Proceed from the **Configure batch import for data** section. For information on
     The **Align fields** section is displayed.
 
 
-**Parent Topic:**[Configuring data import](../concept/configure-data-import.md)
+**Parent Topic:**[Configuring data import](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/automation-center/../concept/configure-data-import.md)
 

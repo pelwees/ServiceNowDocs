@@ -72,9 +72,9 @@ How the chart title is aligned horizontally. This field is available when the **
 
 List report with default style options:
 
-![List report with default style options - no title, size of 16 px, title color black, alignment center](../image/list-report-style-default.png)
+![List report with default style options - no title, size of 16 px, title color black, alignment center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/list-report-style-default.png)
 
 List report with configured title, title size, title color, and alignment:
 
-![List report with configured style options](../image/list-report-style-configured.png)
+![List report with configured style options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/list-report-style-configured.png)
 

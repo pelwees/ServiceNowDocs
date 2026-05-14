@@ -26,5 +26,5 @@ Role required: none
 2.  Create user records for approval users.
 
 
-**Parent Topic:**[Approval with e-signature](../concept/approval-with-e-signature.md)
+**Parent Topic:**[Approval with e-signature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/../concept/approval-with-e-signature.md)
 

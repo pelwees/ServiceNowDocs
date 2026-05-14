@@ -66,8 +66,8 @@ On the entry record, the Status field changes to **Rejected**, and the **Active*
 </td></tr></tbody>
 </table>    After you have approved the EDL entry and it is activated, the Palo Alto Networks retrieves the EDL entry after the next retrieval interval. After the entry is retrieved, the observable is blocked from that point forward. In the following figure, note that the **Active** check box is selected, the status is Added, and the work notes indicate that the request has been approved.
 
-    ![Approved EDL entry.](../image/tisc-edl-approved-entry.png)
+    ![Approved EDL entry.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../image/tisc-edl-approved-entry.png)
 
 
-**Parent Topic:**[Palo Alto Networks integration](../concept/palo-alto-networks-integration.md)
+**Parent Topic:**[Palo Alto Networks integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/../concept/palo-alto-networks-integration.md)
 

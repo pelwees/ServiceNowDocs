@@ -31,7 +31,7 @@ Identify risks using a workflow.
 
 </td><td>
 
-[Workflow for risk identification in the Risk Workspace](risk-identification-playbook.md).
+[Workflow for risk identification in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-identification-playbook.md).
 
 </td></tr><tr><td>
 
@@ -39,8 +39,8 @@ Identify, assess, mitigate, and monitor all IT risks.
 
 </td><td>
 
--   [Create a risk assessment scope in the Risk Workspace](../task/create-risk-asses-scope-workspace.md).
--   [Schedule risk assessments in the Risk Workspace](../task/schedule-risk-assessment-workspace.md).
+-   [Create a risk assessment scope in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-risk-asses-scope-workspace.md).
+-   [Schedule risk assessments in the Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/schedule-risk-assessment-workspace.md).
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Manage IT risk remediation actions and define the action plan.
 
 </td><td>
 
-[Managing risk responses](risk-response.md).
+[Managing risk responses](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-response.md).
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Communicate the IT risk posture.
 
 </td><td>
 
-[Risk heatmap for classic risk assessment](risk-heatmap-classic-risk-assessment.md).
+[Risk heatmap for classic risk assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-heatmap-classic-risk-assessment.md).
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Define the key risk and control indicators.
 
 </td><td>
 
-[Risk indicators, control indicators, and indicator templates](../../grc-risk/concept/manage-indicators-risk.md)
+[Risk indicators, control indicators, and indicator templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../../grc-risk/concept/manage-indicators-risk.md)
 
 </td></tr><tr><td>
 
@@ -72,8 +72,8 @@ Create control test plans
 
 </td><td>
 
-[Create a test plan in Risk Workspace](../task/create-test-plan-in-risk-ws.md)
+[Create a test plan in Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../task/create-test-plan-in-risk-ws.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[GRC Risk Workspace](risk-workspace.md)
+</table>**Parent Topic:**[GRC Risk Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md)
 

@@ -26,11 +26,11 @@ The list of indicators includes the following controls:
 -   A solid green star beside an indicator name indicates that it is a favorite. Click the star beside the indicator to mark it as a favorite.
 -   A black dot beside an indicator name indicates that it is a key indicator. Mark indicators as key by selecting the **Key** check box when creating the indicator.
 
-![List of indicators with callouts to different features](../image/ah-list-indicators.png "List of indicators")
+![List of indicators with callouts to different features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ah-list-indicators.png "List of indicators")
 
 To customize what the Analytics Hub shows, click the list settings icon \(![](../image/Cogwheel.png)\) beside the search box.
 
-![Settings for customizing what is shown in the indicator list of the analytics hub](../image/analytics-hub-list-settings.png "Indicator list settings")
+![Settings for customizing what is shown in the indicator list of the analytics hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/analytics-hub-list-settings.png "Indicator list settings")
 
 The list settings include the following sections:
 
@@ -59,7 +59,7 @@ You can filter which indicators are shown with the following settings:
     Only manual indicators are shown.
 
 
-![Filter section of the List Settings with Formula selected](../image/ah-filter-settings.png "Filter setting to show only formula indicators")
+![Filter section of the List Settings with Formula selected](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ah-filter-settings.png "Filter setting to show only formula indicators")
 
 ## Breakdown source and element settings
 
@@ -67,11 +67,11 @@ Within the settings, you can also select a breakdown source. Only indicators tha
 
 In the following example, you see how the scores change when the list is filtered on the Indicator.Priority breakdown source and then on the 1 - Critical element.
 
-![List of all indicators.](../image/ah-list-no-breakdown-filter.png "Indicator list with no breakdown filter applied")
+![List of all indicators.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ah-list-no-breakdown-filter.png "Indicator list with no breakdown filter applied")
 
-![Same indicator list with the Incident.Priority breakdown source selected and all indicators without that breakdown source filtered out.](../image/ah-list-breakdown-source.png "Indicator list with a breakdown source filter applied")
+![Same indicator list with the Incident.Priority breakdown source selected and all indicators without that breakdown source filtered out.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ah-list-breakdown-source.png "Indicator list with a breakdown source filter applied")
 
-![Same indicator list, now showing scores only where Priority is 1 - Critical.](../image/ah-list-bkdown-source-element.png "Indicator list with a breakdown source and element filter applied")
+![Same indicator list, now showing scores only where Priority is 1 - Critical.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/ah-list-bkdown-source-element.png "Indicator list with a breakdown source and element filter applied")
 
 ## Column settings
 
@@ -87,7 +87,7 @@ Select which analytics to show in the indicator list. The indicator scores are a
 
 -   **Bullet chart**
 
-    A chart comparing current score to target. This chart is shown for an indicator only if a target is set on that indicator. ![Bullet chart showing that the score meets the target of 5%](../image/analytics-hub-bullet-chart.png)
+    A chart comparing current score to target. This chart is shown for an indicator only if a target is set on that indicator. ![Bullet chart showing that the score meets the target of 5%](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/analytics-hub-bullet-chart.png)
 
 -   **Date**
 
@@ -116,7 +116,7 @@ Select which analytics to show in the indicator list. The indicator scores are a
 
 ## Filter by performance
 
-You can filter the list of indicators based on the indicator performance, in addition to filtering the list in the settings. ![Analytics Hub performance filters](../image/analytics-hub-performance.png)
+You can filter the list of indicators based on the indicator performance, in addition to filtering the list in the settings. ![Analytics Hub performance filters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../image/analytics-hub-performance.png)
 
 -   **Best:** Shows indicators that are outperforming their target \(green\), ordered by Gap % \(best performers on top\).
 -   **Worst:** Shows indicators that are under performing their target \(red\), ordered by Gap % \(worst performers on top\).

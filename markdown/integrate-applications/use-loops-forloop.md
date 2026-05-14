@@ -36,7 +36,7 @@ You can configure the properties for the For Loop component.
 
 2.  Drag the For Loop component to the Design surface.
 
-3.  To configure the input fields, see [Configure port properties](configure-input-port-properties.md).
+3.  To configure the input fields, see [Configure port properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-input-port-properties.md).
 
 4.  Connect the data and control ports of the For Loop component to the corresponding ports of the other components as described in the following table.
 
@@ -50,5 +50,5 @@ You can configure the properties for the For Loop component.
 5.  To test the component, under the **DESIGN** tab, click **Run**.
 
 
-**Parent Topic:**[Loops](../concept/loops.md)
+**Parent Topic:**[Loops](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/loops.md)
 

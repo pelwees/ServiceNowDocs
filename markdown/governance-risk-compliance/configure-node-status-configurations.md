@@ -29,7 +29,7 @@ Role required: sn\_oper\_res.admin
 
     You can customize the map display such as assigning specific colors and icons to nodes that meet certain conditions by configuring the Node status configuration record.
 
-    For more information on the fields, see [Node status configuration form](../reference/node-status-configuration-form.md).
+    For more information on the fields, see [Node status configuration form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/node-status-configuration-form.md).
 
     The Node status configuration record is displayed in which the **Node configuration** and **Table** are auto-populated.
 
@@ -43,7 +43,7 @@ Role required: sn\_oper\_res.admin
 
     A sample configuration is shown in the example.
 
-    ![Node status.](../image/main-node-nexus-map-node-status-configuration.png)
+    ![Node status.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/main-node-nexus-map-node-status-configuration.png)
 
 8.  To submit the details of the Node status configuration, select **Submit**.
 

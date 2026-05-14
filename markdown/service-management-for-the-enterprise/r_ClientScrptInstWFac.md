@@ -20,5 +20,5 @@ Facilities visualization workbench adds the following client scripts.
 |Reload form on attachment window|Reload the external map data form every time the attachment window closes to hide or display the process map file UI action.|
 |Hide field for space tables|Show or hide the "field" field when the "table" field value is an extension of "cmn\_location" or not.|
 
-**Parent Topic:**[Installed with Facilities Visualization Workbench](r_InstallWFacVisWorkbench.md)
+**Parent Topic:**[Installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacVisWorkbench.md)
 

@@ -15,7 +15,7 @@ breadcrumb: [Patient Portal widget library, Reference, Healthcare and Life Scien
 
 The Vaccinations widget displays a list of vaccines recommended for the logged-in user.
 
-![TheVaccinations widget displaying vaccinations a user can schedule.](../image/hcls-widget-vaccinations.png "Vaccinations widget")
+![TheVaccinations widget displaying vaccinations a user can schedule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-vaccinations.png "Vaccinations widget")
 
 ## Key features
 
@@ -23,7 +23,7 @@ The Vaccinations widget displays a list of vaccines recommended for the logged-i
 -   By default, shows maximum of three programs from the vaccination programs list that the user is eligible for in ascending order by the date administered.
 -   Shows all the suggested and completed vaccinations in the respective sections when a user clicks **View all** on the widget.
 
-![Screenshot displaying theVaccinations widget instance limit item option field. For the text description, refer to the Vaccinations widget instance options fields.](../image/hcls-widget-io-vaccinations.png "Vaccinations widget instance options")
+![Screenshot displaying theVaccinations widget instance limit item option field. For the text description, refer to the Vaccinations widget instance options fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/../image/hcls-widget-io-vaccinations.png "Vaccinations widget instance options")
 
 <table id="table_vy1_hy2_yrb"><thead><tr><th>
 
@@ -42,5 +42,5 @@ Limit item
 Maximum number of vaccination programs that appear on the widget. The default value is **3**.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Patient Portal widget library](hcls-pat-widget-library.md)
+</table>**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 

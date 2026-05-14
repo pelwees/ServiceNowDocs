@@ -27,7 +27,7 @@ Role required: asset or inventory\_admin
 
 3.  Select the asset that you want to attest.
 
-4.  Select the More Options icon \(![More options icon](../image/more-actions-icon.png)\) on the asset form.
+4.  Select the More Options icon \(![More options icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../image/more-actions-icon.png)\) on the asset form.
 
 5.  Select **Create attestation**.
 
@@ -42,5 +42,5 @@ Role required: asset or inventory\_admin
     3.  Select the attestation record.
 
 
-**Parent Topic:**[Audit your hardware assets by using Asset Attestation](../concept/audit-hardware-assets-attestation.md)
+**Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/../concept/audit-hardware-assets-attestation.md)
 

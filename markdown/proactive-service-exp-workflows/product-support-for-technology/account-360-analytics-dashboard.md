@@ -23,14 +23,14 @@ The Service delivery overview contains the following tabs for each dashboard.
 -   SLA performance
 -   Service Management
 
-![Service delivery overview page view of the current operational status metrics.](../image/service-delivery-overview.png "Example of Service delivery overview")
+![Service delivery overview page view of the current operational status metrics.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/service-delivery-overview.png "Example of Service delivery overview")
 
 ## Access
 
 You can access the Service delivery overview page as follows:
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** or **CSM/FSM Configurable Workspace**.
-2.  Select the service delivery overview \(![Service Deliver Overview Icon.](../image/icon-service-delivery-overview.png)\) icon.
+2.  Select the service delivery overview \(![Service Deliver Overview Icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/../image/icon-service-delivery-overview.png)\) icon.
 
 ## Account selection
 
@@ -97,5 +97,5 @@ The Service management tab provides metrics that deliver actionable insights, en
 |---------|-----------|
 |sn\_ind\_tsm\_sdwan.PSEW\_USER|Can view and edit the dashboard and manage users, groups, and roles for the dashboard.|
 
-**Parent Topic:**[Reviewing customer or partner accounts in Proactive Service Experience Workflows](reviewing-customer-accounts-360.md)
+**Parent Topic:**[Reviewing customer or partner accounts in Proactive Service Experience Workflows](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/reviewing-customer-accounts-360.md)
 

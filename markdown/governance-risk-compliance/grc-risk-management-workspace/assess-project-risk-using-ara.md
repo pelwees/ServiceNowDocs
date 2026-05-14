@@ -48,10 +48,10 @@ If the Project Risk integration Configuration form has **Stakeholders** selected
 
 The risk moves to the risk assessor's workflow.
 
-**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](../concept/risk-and-ppm-better-together.md)
+**Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/../concept/risk-and-ppm-better-together.md)
 
 **Related topics**  
 
 
-[Configure Project Portfolio Management and Advanced Risk integration](specify-approvers-for-proj-risks.md)
+[Configure Project Portfolio Management and Advanced Risk integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/specify-approvers-for-proj-risks.md)
 

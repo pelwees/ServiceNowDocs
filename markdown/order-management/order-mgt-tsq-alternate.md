@@ -21,7 +21,7 @@ When you receive an alternate qualification request and click **Qualify Order** 
 
 Navigate to the **CSM/FSM Configurable Workspace**, click a service order with Fulfilment type as **Qualify** and select the **Alternate proposal\(s\)** tab.
 
-![Infographic displaying the Alternate proposals tab view with its list and details. For the text description, refer to the steps that follow.](../image/order-mgt-tsq-process-alternate.png)
+![Infographic displaying the Alternate proposals tab view with its list and details. For the text description, refer to the steps that follow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../image/order-mgt-tsq-process-alternate.png)
 
 Select the Number link to view the alternate proposal. It contains the following information:
 
@@ -33,5 +33,5 @@ Select the Number link to view the alternate proposal. It contains the following
 |Available date|The date on which the alternate proposal will be available.|
 |Order characteristics|The specification characteristics \(in JSON format\) provided as part of the alternate proposal in the response from the inventory system.|
 
-**Parent Topic:**[Service qualification requests](order-mgt-tsq-about.md)
+**Parent Topic:**[Service qualification requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-about.md)
 

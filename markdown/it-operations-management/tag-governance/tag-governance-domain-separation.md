@@ -35,7 +35,7 @@ All tables in Tag Governance support data separation only; delegated domain sepa
 
 To ensure that domain-sensitive information is not available at a global domain, ensure that you create policies at a domain level and not at a global level. While managing service providers, create policies at the service provider level. If you create policies at a global level instead, when you run the audit, the "run" findings are created in the Global domain instead of respective domains.
 
-**Parent Topic:**[Tag Governance reference](reference-tag-governance.md)
+**Parent Topic:**[Tag Governance reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/reference-tag-governance.md)
 
 **Related topics**  
 

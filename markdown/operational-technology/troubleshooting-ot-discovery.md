@@ -17,19 +17,19 @@ Common troubleshooting options when you set up the integration for the Service G
 
 You can test the connection after configuring your URL and credentials for the integration. If everything is configured correctly, the service graph connection displays a successful connection test without any error. If something goes wrong during the connection, the Service Graph connection displays the error message, error code, and response body from the API.
 
-![Displays error message, error code, and response body from the API.](../../sgc-ot-discovery/image/mission-secure-troubleshooting-test.png)
+![Displays error message, error code, and response body from the API.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/mission-secure-troubleshooting-test.png)
 
 ## Review Outbound HTTP Request records
 
 You can also review the Outbound HTTP Request records associated with the test. Navigate to **All** &gt; **System Logs** &gt; **Outbound HTTP Requests**.
 
-![Review the Outbound HTTP Request records associated with the test](../../sgc-ot-discovery/image/mission-secure-outbound-request.png)
+![Review the Outbound HTTP Request records associated with the test](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/mission-secure-outbound-request.png)
 
 In the list view, you should see the URL hostname that you specified when setting up the connection parameters. Open this record to view the connection details.
 
-![Review the URL hostname that you specified when setting up the connection parameters](../../sgc-ot-discovery/image/mission-secure-outbound-log.png)
+![Review the URL hostname that you specified when setting up the connection parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/mission-secure-outbound-log.png)
 
-By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](../../sgc-ot-discovery/task/install-sgc-ot-discovery.md).
+By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/task/install-sgc-ot-discovery.md).
 
 ## Additional diagnosis
 
@@ -37,7 +37,7 @@ If you must diagnose further, you can override the log level to give more inform
 
 **Note:** You can perform action only for a limited period of time for troubleshooting. Make sure you revert the changes to the original configuration.
 
-![Override log level by modifying global parameters](../../sgc-ot-discovery/image/mission-secure-additional-diagnosis.png)
+![Override log level by modifying global parameters](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../sgc-ot-discovery/image/mission-secure-additional-diagnosis.png)
 
 With extended logging turned on, you can provide additional details for requests after that to give more context to the issue.
 

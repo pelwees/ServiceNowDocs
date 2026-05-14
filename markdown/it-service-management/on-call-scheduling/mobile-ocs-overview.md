@@ -28,5 +28,5 @@ The navigation bar appears at the bottom of the mobile application screen. This 
 -   **Notification:** View a list of the notifications that have been pushed to an agent. Tap a notification in the list to see the details, then tap the details open the case.
 -   **Settings:** Manage settings for the mobile application.
 
-**Parent Topic:**[Mobile experience for On-Call Scheduling](mobile-experience-ocs.md)
+**Parent Topic:**[Mobile experience for On-Call Scheduling](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/mobile-experience-ocs.md)
 

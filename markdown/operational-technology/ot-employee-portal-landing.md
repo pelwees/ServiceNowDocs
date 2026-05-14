@@ -17,27 +17,27 @@ The Employee Center for Operational Technology \(OT\) is a central location wher
 
 <table id="table_hg3_hng_b3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore](exploring-ot-employee-portal.md)
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/exploring-ot-employee-portal.md)
 
- [![](../../../reuse/icons/brand-icons/bus-explore.svg)](exploring-ot-employee-portal.md)
+ [![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-explore.svg)](exploring-ot-employee-portal.md)
 
- [Learn about the features of the Employee Center for OT](exploring-ot-employee-portal.md)
-
-</td><td>
-
-[Configure](configuring-ot-employee-portal.md)
-
- [![](../../../reuse/icons/brand-icons/bus-sdlc.svg)](configuring-ot-employee-portal.md)
-
- [Plan and configure your implementation of the Employee Center for OT](configuring-ot-employee-portal.md)
+ [Learn about the features of the Employee Center for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/exploring-ot-employee-portal.md)
 
 </td><td>
 
-[Use](using-ot-employee-portal.md)
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
 
- [![](../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)](using-ot-employee-portal.md)
+ [![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-sdlc.svg)](configuring-ot-employee-portal.md)
 
- [Utilize the Employee Center for OT to help manage your OT system](using-ot-employee-portal.md)
+ [Plan and configure your implementation of the Employee Center for OT](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/configuring-ot-employee-portal.md)
+
+</td><td>
+
+[Use](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/using-ot-employee-portal.md)
+
+ [![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/../../../reuse/icons/brand-icons/bus-supervised-machine-learning.svg)](using-ot-employee-portal.md)
+
+ [Utilize the Employee Center for OT to help manage your OT system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/operational-technology/using-ot-employee-portal.md)
 
 </td></tr><tr><td>
 

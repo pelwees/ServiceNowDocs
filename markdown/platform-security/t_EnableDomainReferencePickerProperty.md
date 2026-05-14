@@ -42,10 +42,10 @@ Role required: admin
     The domain reference picker appears in Core UI header.
 
 
-**Parent Topic:**[Use domain selection menus](../concept/c_DisplayingDomainSelectionMenus.md)
+**Parent Topic:**[Use domain selection menus](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DisplayingDomainSelectionMenus.md)
 
 **Related topics**  
 
 
-[Restrict access to the domain picker](t_RestrictAccesstoDomainPicker.md)
+[Restrict access to the domain picker](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/t_RestrictAccesstoDomainPicker.md)
 

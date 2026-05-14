@@ -20,7 +20,7 @@ You can only edit fields, views, and sections when you are in the same applicati
 -   Save button with a blue background.
 -   Editable fields in the **Create new field** section.
 
-![Visual indicators of editable sections.](../image/FormLayoutEditable.png "Visual indicators of editable sections")
+![Visual indicators of editable sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FormLayoutEditable.png "Visual indicators of editable sections")
 
 Views and sections in another application scope display as read only. Read-only sections have:
 
@@ -30,14 +30,14 @@ Views and sections in another application scope display as read only. Read-only 
 -   Save button with a gray background.
 -   Read only fields in the **Create new field** section.
 
-![Visual indicators of read-only sections.](../image/FormLayoutReadonly.png "Visual indicators of read-only sections")
+![Visual indicators of read-only sections.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/FormLayoutReadonly.png "Visual indicators of read-only sections")
 
 **Related topics**  
 
 
-[Lists and forms in scoped applications](c_CreatingListsAndFormsScopedApps.md)
+[Lists and forms in scoped applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_CreatingListsAndFormsScopedApps.md)
 
-[Available layout and design actions](../reference/r_AvailableLayoutAndDesignActions.md)
+[Available layout and design actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../reference/r_AvailableLayoutAndDesignActions.md)
 
-[Form design visual indicators](c_FormDesignVisualIndicators.md)
+[Form design visual indicators](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/c_FormDesignVisualIndicators.md)
 

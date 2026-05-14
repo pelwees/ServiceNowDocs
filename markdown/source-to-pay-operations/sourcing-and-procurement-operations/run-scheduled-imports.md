@@ -27,7 +27,7 @@ Role required: import\_scheduler, import\_admin, or admin
 
 2.  Select **Example File Based Catalog Import**
 
-    ![The Example File Based Catalog Import form.](../image/spo-run-scheduled-import.png)
+    ![The Example File Based Catalog Import form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/spo-run-scheduled-import.png)
 
 3.  Follow the steps for [data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/t_ScheduleADataImport.md).
 
@@ -37,5 +37,5 @@ Role required: import\_scheduler, import\_admin, or admin
 -   You can verify the data transfer records from **Procurement Integrations** &gt; **Catalog** &gt; **FTP Catalog Imports**. You can see all the data as one single payload content. See Payloads for more information.
 -   The same record is then transformed and available from **Procurement Integrations** &gt; **Catalog** &gt; **Catalog Imports**.
 
-**Parent Topic:**[Import data using FTP server](ftp-data-import.md)
+**Parent Topic:**[Import data using FTP server](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/ftp-data-import.md)
 

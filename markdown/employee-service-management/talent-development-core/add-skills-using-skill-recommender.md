@@ -35,7 +35,7 @@ By adding skills to your profile, you can track all these details in one place.
 
     Search results are sorted alphabetically, with the top results displaying first.
 
-    ![Skill search results](../image/skills-recommender.png)
+    ![Skill search results](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../image/skills-recommender.png)
 
     **Note:** If you don't see the skill recommendations, it indicates that the AI Search setup is broken. Clear your instance cache by entering `server_url/cache.do` in your browser. If the problem persists, then contact your system admin.
 
@@ -46,5 +46,5 @@ By adding skills to your profile, you can track all these details in one place.
 
 The skill is added to your additional skills section.
 
-**Parent Topic:**[Using Skills Foundation](../concept/using-skills-intelligence.md)
+**Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/../concept/using-skills-intelligence.md)
 

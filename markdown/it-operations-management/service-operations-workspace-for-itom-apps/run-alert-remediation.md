@@ -35,7 +35,7 @@ Role required: evt\_mgmt\_operator
 
     The **Run remediation** card displays the available remediation actions.
 
-    ![An alert displayed in a separate tab with the Overview, Details, Related records, and Playbook sub-tabs. The Playbook subtab shows Run remediation and Alert executions cards.](../image/playbook-tab.png "Playbook tab")
+    ![An alert displayed in a separate tab with the Overview, Details, Related records, and Playbook sub-tabs. The Playbook subtab shows Run remediation and Alert executions cards.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/../image/playbook-tab.png "Playbook tab")
 
 6.  Select the tile corresponding to the action you want to run.
 

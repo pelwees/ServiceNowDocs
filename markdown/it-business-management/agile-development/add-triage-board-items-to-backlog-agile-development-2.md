@@ -17,7 +17,7 @@ Review the list of items in your triage board and add them to your Agile Develop
 
 ## Before you begin
 
-[Set up a triage board in Agile Development 2.0](setup-triage-board.md)Role required: scrum\_product\_owner
+[Set up a triage board in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/setup-triage-board.md)Role required: scrum\_product\_owner
 
 ## About this task
 
@@ -35,7 +35,7 @@ These stories can be later assigned to product teams and scheduled into sprints.
 
     For example, in the screenshot here, Defects board can be selected.
 
-    ![Defects triage board in the Backlog section on the Agile board](../../agile-development/image/triage-board.png)
+    ![Defects triage board in the Backlog section on the Agile board](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/image/triage-board.png)
 
 4.  Review the list and select the ones that you want to add to the backlog.
 
@@ -48,7 +48,7 @@ The selected list of items from the triage board is added to the backlog as stor
 
 An example here shows how an associated story is created for a defect that is added to the backlog. The story has a reference to this defect in the **Original task** field.
 
-![Information of the associated story for a defect added to backlog from triage board.](../../agile-development/image/defect-from-triage-board-to-backlog.png)
+![Information of the associated story for a defect added to backlog from triage board.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/image/defect-from-triage-board-to-backlog.png)
 
-**Parent Topic:**[Managing your product development using Agile Development 2.0](../../agile-development/concept/using-agile-development-2-0.md)
+**Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../agile-development/concept/using-agile-development-2-0.md)
 

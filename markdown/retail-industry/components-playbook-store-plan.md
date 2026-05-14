@@ -107,5 +107,5 @@ A summary view of the all activities configured in a playbook together for users
 |--------|-----------|
 |HQ communication|Allows to create a plan with cases and tasks for multiples stores by a HQ/Regional manager.|
 
-**Parent Topic:**[Components installed with plugins](rahi-retail-components-installed-with-plugins.md)
+**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 

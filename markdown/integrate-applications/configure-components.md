@@ -23,9 +23,9 @@ Components are reusable blocks that are used for designing automations and to ab
 
 RPA Desktop Design Studio hosts a wide range of components that you can use while you’re creating automation projects.
 
-Each component has ports that are used while creating an automation workflow. For more information, see [RPA Desktop Design Studio ports](../concept/overview-ports-rpa-studio.md).
+Each component has ports that are used while creating an automation workflow. For more information, see [RPA Desktop Design Studio ports](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/overview-ports-rpa-studio.md).
 
-Enhance the automation logic with text instructions, either in an empty activity or by selecting a component in an existing one by using the Now Assist for RPA Hub application. For more information, see [Build an automation with Now Assist](build-automation-now-assist.md).
+Enhance the automation logic with text instructions, either in an empty activity or by selecting a component in an existing one by using the Now Assist for RPA Hub application. For more information, see [Build an automation with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/build-automation-now-assist.md).
 
 ## Procedure
 
@@ -33,7 +33,7 @@ Enhance the automation logic with text instructions, either in an empty activity
 
 2.  To use a component, drag a component to the Design surface as shown in the following example.
 
-    ![Use an OCR Text component.](../image/component-ex-ocr-tex.png "Drag the OCR Text component to the Design surface")
+    ![Use an OCR Text component.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-ex-ocr-tex.png "Drag the OCR Text component to the Design surface")
 
     **Important:** You might come across the following behaviours when you drag and drop an automation component from the Toolbox, Object explorer, Project explorer, and Skills explorer to the Design surface:
 
@@ -83,11 +83,11 @@ Enter the text in the **Filter by Name** field.
 
 </td><td>
 
-Either double-click the component title bar or click the settings icon \(![Settings icon.](../image/component-settings-icon.png)\). For example, to edit the settings of the OCR Text component, click the settings icon \(![Settings icon.](../image/component-settings-icon.png)\) over the OCR Text component. The OCR SETTINGS dialog box appears. You can define the properties in the dialog box that is shown in the following example.
+Either double-click the component title bar or click the settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\). For example, to edit the settings of the OCR Text component, click the settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\) over the OCR Text component. The OCR SETTINGS dialog box appears. You can define the properties in the dialog box that is shown in the following example.
 
- ![OCR Settings dialog box.](../image/ocr-settings.png "OCR Settings dialog box")
+ ![OCR Settings dialog box.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/ocr-settings.png "OCR Settings dialog box")
 
- The settings icon \(![Settings icon.](../image/component-settings-icon.png)\) doesn't appear for all components.
+ The settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/component-settings-icon.png)\) doesn't appear for all components.
 
 </td></tr><tr><td id="d258818e279">
 
@@ -103,7 +103,7 @@ Change the required property in the Properties pane.
 
 </td><td>
 
-Right-click the component title bar and select **Breakpoint** For more information on Breakpoints, see [Set a breakpoint to pause a component in RPA Desktop Design Studio](set-breakpoint-rpa-studio.md).
+Right-click the component title bar and select **Breakpoint** For more information on Breakpoints, see [Set a breakpoint to pause a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-breakpoint-rpa-studio.md).
 
 </td></tr><tr><td id="d258818e311">
 
@@ -119,7 +119,7 @@ Right-click the component title bar and select **Run From Here**.
 
 </td><td>
 
-Right-click the component title bar and select **Error Handler** To learn more about handling errors, see [Handle errors in RPA Desktop Design Studio](error-handling-rpa-studio.md).
+Right-click the component title bar and select **Error Handler** To learn more about handling errors, see [Handle errors in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/error-handling-rpa-studio.md).
 
 </td></tr><tr><td id="d258818e348">
 
@@ -163,16 +163,16 @@ To test and debug any issue in an automation by isolating a single component, ri
 </table>5.  To search for a component that is available within the Toolbox, enter the text in the **Filter by Name** field.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 
 **Related topics**  
 
 
-[Set a breakpoint to pause a component in RPA Desktop Design Studio](set-breakpoint-rpa-studio.md)
+[Set a breakpoint to pause a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/set-breakpoint-rpa-studio.md)
 
-[Start a workflow execution from a selected component in RPA Desktop Design Studio](run-from-here-rpa-studio.md)
+[Start a workflow execution from a selected component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/run-from-here-rpa-studio.md)
 
-[Handle errors in RPA Desktop Design Studio](error-handling-rpa-studio.md)
+[Handle errors in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/error-handling-rpa-studio.md)
 
-[Build an automation with Now Assist](build-automation-now-assist.md)
+[Build an automation with Now Assist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/build-automation-now-assist.md)
 

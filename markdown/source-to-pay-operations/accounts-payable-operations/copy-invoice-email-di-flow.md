@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-When act![more actions](../../supplier-lifecycle-operations/image/more-actions-icon.png)ivated, this flow automatically creates an invoice processing case for an inbound email.
+When act![more actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/../../supplier-lifecycle-operations/image/more-actions-icon.png)ivated, this flow automatically creates an invoice processing case for an inbound email.
 
 ## Procedure
 

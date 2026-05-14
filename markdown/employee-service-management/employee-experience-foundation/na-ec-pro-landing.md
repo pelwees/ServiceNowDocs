@@ -24,11 +24,11 @@ Now Assist for Employee Center Pro offers the portal experience with all the emp
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore](na-emp-center-pro-exploring.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for Employee Center Pro concepts and features.
+[Explore](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-emp-center-pro-exploring.md)![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about Now Assist for Employee Center Pro concepts and features.
 
 </td><td>
 
-[Configure](na-emp-cente-pro-configuring.md)
+[Configure](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-emp-cente-pro-configuring.md)
 
 ![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Set-up the Now Assist for Employee Center Pro applications and features.
 

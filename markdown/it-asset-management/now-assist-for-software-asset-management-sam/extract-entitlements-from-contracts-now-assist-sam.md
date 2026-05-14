@@ -53,7 +53,7 @@ You can extract data related to entitlements from an existing or a new contract 
 
     The extract entitlements page opens.
 
-    ![Extract entitlements page](../image/extractentitlements.png)
+    ![Extract entitlements page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/extractentitlements.png)
 
 9.  Select the Open tables down arrow next to **Tables**.
 
@@ -71,7 +71,7 @@ You can extract data related to entitlements from an existing or a new contract 
 
 13. Select **Next** to lock in the data and go to the Review entitlements page.
 
-    ![Review entitlements page](../image/reviewentitlements.png)
+    ![Review entitlements page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../image/reviewentitlements.png)
 
     The Review entitlements page opens with the entitlement import error records. For each entitlement extracted from the contract document, an entitlement import record is created. The page also shows the PDF or images you uploaded.
 
@@ -91,5 +91,5 @@ You can extract data related to entitlements from an existing or a new contract 
     The entitlements are successfully created.
 
 
-**Parent Topic:**[Using generative AI skills in Now Assist for SAM](../concept/using-now-assist-sam.md)
+**Parent Topic:**[Using generative AI skills in Now Assist for SAM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/../concept/using-now-assist-sam.md)
 

@@ -72,22 +72,22 @@ To apply a template using a sys\_id, use the following method.
 GlideTemplate.get(template.sys_id).apply(GlideRecord)
 ```
 
-**Parent Topic:**[Using form templates](../concept/c_Templates.md)
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/c_Templates.md)
 
 **Related topics**  
 
 
-[Create a template using the Template form](../task/t_CreateATemplateUsingTheTmplForm.md)
+[Create a template using the Template form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateATemplateUsingTheTmplForm.md)
 
-[Create templates for related task records](../task/create-templates-for-related-task-records.md)
+[Create templates for related task records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/create-templates-for-related-task-records.md)
 
-[Create a template by saving a form](../task/t_SaveAFormAsATemplateInUI16OrUI15.md)
+[Create a template by saving a form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_SaveAFormAsATemplateInUI16OrUI15.md)
 
-[Schedule record creation from a template](../task/t_ScheduleATemplate.md)
+[Schedule record creation from a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ScheduleATemplate.md)
 
-[Create a module for a template](../task/t_CreateAModuleForATemplate.md)
+[Create a module for a template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_CreateAModuleForATemplate.md)
 
-[Template bar](../concept/template-bar.md)
+[Template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/template-bar.md)
 
-[Toggle the template bar](../task/t_ToggleTheTemplateBar.md)
+[Toggle the template bar](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../task/t_ToggleTheTemplateBar.md)
 

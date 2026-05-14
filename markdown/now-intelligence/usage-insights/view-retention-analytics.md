@@ -36,7 +36,7 @@ View data such as how many new users you have, how many never returned, and how 
 
 3.  Filter the data.
 
-    The default filters are **Aggregation** \(daily, weekly, or monthly\), **Date Range**, and **Country**. For more information on filters in Usage Insights, see [Filter data in Usage Insights](../task/filter-user-list.md).
+    The default filters are **Aggregation** \(daily, weekly, or monthly\), **Date Range**, and **Country**. For more information on filters in Usage Insights, see [Filter data in Usage Insights](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../task/filter-user-list.md).
 
     |KPI|Description|
     |---|-----------|
@@ -49,7 +49,7 @@ View data such as how many new users you have, how many never returned, and how 
 
 4.  Display the Retention cohort using different metrics.
 
-    The Retention cohort is a heatmap that shows the number or percentage of users who started to use the app during the specified date range using the specified aggregation. In this example the **Aggregation** is `Weekly`, the **Date Range** is `Last 30 days`, and the measure is `Percentage`.![A user retention cohort showing the number of users, aggregated weekly, with a 30-day range.](../image/uxa-retention-cohort2.png)
+    The Retention cohort is a heatmap that shows the number or percentage of users who started to use the app during the specified date range using the specified aggregation. In this example the **Aggregation** is `Weekly`, the **Date Range** is `Last 30 days`, and the measure is `Percentage`.![A user retention cohort showing the number of users, aggregated weekly, with a 30-day range.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../image/uxa-retention-cohort2.png)
 
 
 ## How retention is calculated
@@ -64,7 +64,7 @@ For example, if looking at weekly cohorts, the numbers marked &lt;1 week, week 1
 
 The beginning and ending of each bucket is different for each new user in the cohort. The bucket marked **&lt;1 week** indicates a time frame before the first full week following the user's initial session. The dates the weeks start are on the left of the visualization. For example, if a user's initial session begins on November 16, and the first full week begins on November 18, then the retention information for the period in between is in the &lt;1 week column.
 
-![UXA retention cohort example including <1 week content](../../../use/par-for-workspace/image/uxa-retention-cohort-ex.png)
+![UXA retention cohort example including <1 week content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/../../../use/par-for-workspace/image/uxa-retention-cohort-ex.png)
 
 ### Action retention
 

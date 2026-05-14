@@ -27,7 +27,7 @@ Role required: sn\_oper\_res.manager
 
     2.  In the Scenario events form, select an event from the list and select **Add**.
 
-        For the descriptions of the field values on the Scenario event form, see [Scenario event form](../reference/sce-event-form.md).
+        For the descriptions of the field values on the Scenario event form, see [Scenario event form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/sce-event-form.md).
 
         In the **Scenario events** tab, the selected scenario event is displayed.
 
@@ -35,7 +35,7 @@ Role required: sn\_oper\_res.manager
 
     The scenario event form is displayed as shown in the following example.
 
-    ![Scenario event form.](../image/sce-event-form.png)
+    ![Scenario event form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/sce-event-form.png)
 
 4.  Navigate to the **Participants** tab in the scenario event form and then either add a participant from an available list or add a new participant.
 
@@ -70,7 +70,7 @@ Role required: sn\_oper\_res.manager
 
         The response task is completed and the state of the response task is updated to **Closed Complete**.
 
-    On the **Responses** tab, the details of the response task such as the response task number, name of the assigned participant, and state of the response task are displayed. For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](../reference/response-task-form.md).
+    On the **Responses** tab, the details of the response task such as the response task number, name of the assigned participant, and state of the response task are displayed. For the descriptions of the field values on the scenario analysis response task form, see [Scenario analysis response task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/response-task-form.md).
 
 6.  On the **Dependencies** tab, select **Add** to add a dependency or select **Add scope related dependency** for the scenario event.
 

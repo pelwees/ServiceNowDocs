@@ -306,5 +306,5 @@ False
 3.  Click **Submit**.
 
 
-**Parent Topic:**[Probable Root Cause Analysis \(RCA\)](../concept/probable-rca.md)
+**Parent Topic:**[Probable Root Cause Analysis \(RCA\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/probable-rca.md)
 

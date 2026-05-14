@@ -37,8 +37,8 @@ Role required: sn\_lg\_matter.matter\_fulfiller
     -   Attach File
     The file is attached and listed.
 
-6.  You can rename the file by tapping the edit icon \(![Edit icon.](../image/edit-icon.png)\) and entering a new name.
+6.  You can rename the file by tapping the edit icon \(![Edit icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../image/edit-icon.png)\) and entering a new name.
 
-    **Note:** If a file is no longer required for the legal matter, you can remove the file by tapping the delete icon \(![Delete icon.](../../legal-digital-forensics/image/delete-icon.png)\).
+    **Note:** If a file is no longer required for the legal matter, you can remove the file by tapping the delete icon \(![Delete icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/../../legal-digital-forensics/image/delete-icon.png)\).
 
 

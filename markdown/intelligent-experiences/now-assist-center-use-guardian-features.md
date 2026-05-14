@@ -20,11 +20,11 @@ The following applications must be installed before performing this task:
 
 -   Now Assist Center
 
-    For more information, see [Confirm installation of Now Assist Center](now-assist-center-install.md).
+    For more information, see [Confirm installation of Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-install.md).
 
 -   Now Assist Admin console
 
-    For more information, see [Install and configure essential Now Assist plugins using Now Assist Center](install-configure-essential-now-assist-plugins.md).
+    For more information, see [Install and configure essential Now Assist plugins using Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/install-configure-essential-now-assist-plugins.md).
 
 
 Role required: sn\_na\_center.nac\_admin
@@ -43,7 +43,7 @@ For more information on Now Assist Guardian, see [Now Assist Guardian](https://r
 
 1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Admin** \(![Admin icon.](../image/icon-now-assist-center-nav-admin.png) \) in the side navigation bar.
+2.  Select **Admin** \(![Admin icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-admin.png) \) in the side navigation bar.
 
     The Admin tab opens showing Now Assist Admin options.
 
@@ -97,5 +97,5 @@ This guardrail filters subjects not suited for AI responses, such as workplace s
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](../concept/now-assist-center-using-other-applications.md)
+**Parent Topic:**[Using other Now Assist applications and features from Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-using-other-applications.md)
 

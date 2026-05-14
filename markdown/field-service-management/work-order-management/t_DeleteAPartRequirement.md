@@ -17,7 +17,7 @@ Delete a part requirement from a work order task.
 
 ## Before you begin
 
-Role required: wm\_qualifier or [qualifier combination role](../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
+Role required: wm\_qualifier or [qualifier combination role](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../reference/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 

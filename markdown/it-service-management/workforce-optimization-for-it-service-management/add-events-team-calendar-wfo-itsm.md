@@ -21,7 +21,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can create custom event types and add or remove the desired fields. For more information, see [Configure event types for the ITSM Manager Workspace](configure-events-team-calendar-configurable-wfo-itsm.md).
+You can create custom event types and add or remove the desired fields. For more information, see [Configure event types for the ITSM Manager Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-events-team-calendar-configurable-wfo-itsm.md).
 
 **Note:** In the team calendar, when you select an event for a team member and delete it, the event is also deleted for other participants in the event.
 
@@ -29,7 +29,7 @@ You can create custom event types and add or remove the desired fields. For more
 
 1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
-2.  Select the Schedule icon \(![Schedule icon](../../itsm-manager-workspace/image/schedule-icon.png)\).
+2.  Select the Schedule icon \(![Schedule icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../../itsm-manager-workspace/image/schedule-icon.png)\).
 
 3.  Select the **Team Calendar** tab.
 
@@ -108,5 +108,5 @@ In the **Attendees** field, start entering the name of each of the attendees for
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](../concept/scheduling-configurable-workforce-optimization-itsm.md)
+**Parent Topic:**[Scheduling your teams' work in Workforce Optimization for ITSM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/../concept/scheduling-configurable-workforce-optimization-itsm.md)
 

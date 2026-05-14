@@ -65,7 +65,7 @@ This action is available to logged-in users with the knowledge role. Click **Ask
 
 </td></tr><tr><td>
 
-Overflow icon \(![Overflow icon](../image/KnowledgeServicePortalOverflowIcon.png)\)
+Overflow icon \(![Overflow icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../image/KnowledgeServicePortalOverflowIcon.png)\)
 
 </td><td>
 
@@ -95,7 +95,7 @@ Featured
 
 </td><td>
 
-Lists any knowledge articles that were pinned. For more information, see [Add a knowledge article to featured content](../task/t_PinAnArticle.md).
+Lists any knowledge articles that were pinned. For more information, see [Add a knowledge article to featured content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../task/t_PinAnArticle.md).
 
 </td></tr><tr><td>
 
@@ -116,5 +116,5 @@ Lists the top five articles with the most views.
 </td></tr></tbody>
 </table>**Note:** The Knowledge Management Service Portal homepage is mobile responsive.
 
-**Parent Topic:**[Using Knowledge Management](using-knowledge-management.md)
+**Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 

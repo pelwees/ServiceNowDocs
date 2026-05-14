@@ -25,7 +25,7 @@ This is an example of the group of risk domains that you include in a risk area 
 
 **Note:** Risk domains are called "risk areas" in some platform applications.
 
-![A group of risk areas included in a risk area criteria.](../image/vendor-risk-area-criteria-related.png)
+![A group of risk areas included in a risk area criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vendor-risk-area-criteria-related.png)
 
 ## Procedure
 
@@ -47,7 +47,7 @@ This is an example of the group of risk domains that you include in a risk area 
 
     **Important:** Changes to the scoring method and weight are used for the third-party risk area criteria record but aren’t saved in the individual risk area definition records.
 
-    ![Third-party risk areas are added to the criteria.](../image/vrm-tpr-area-set-scoring.png)
+    ![Third-party risk areas are added to the criteria.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/../image/vrm-tpr-area-set-scoring.png)
 
 
 ## Example

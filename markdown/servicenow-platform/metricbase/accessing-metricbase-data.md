@@ -23,10 +23,10 @@ You can access and visualize time-series data in the MetricBase database by usin
 
 -   Table lists using the `.list` command
 
-    For more information, see [View MetricBase data using the list command](../task/view-time-series-data.md).
+    For more information, see [View MetricBase data using the list command](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/../task/view-time-series-data.md).
 
 -   REST or JavaScript APIs
 
-    For more information, see [Retrieve MetricBase data using REST and JavaScript.](analyze-time-series-data.md)
+    For more information, see [Retrieve MetricBase data using REST and JavaScript.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/analyze-time-series-data.md)
 
 

@@ -74,5 +74,5 @@ For example, if the coverage specification is travel coverage, then you can sele
 
 ## What to do next
 
-Link the coverage types and coverage type options to the coverage specification that you created. For more information, see [Link the coverage types and coverage options to a coverage specification](linking-coverage-types-and-coverage-options-to-a-coverage-specification.md).
+Link the coverage types and coverage type options to the coverage specification that you created. For more information, see [Link the coverage types and coverage options to a coverage specification](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/linking-coverage-types-and-coverage-options-to-a-coverage-specification.md).
 

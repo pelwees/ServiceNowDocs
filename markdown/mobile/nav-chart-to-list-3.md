@@ -34,5 +34,5 @@ Role required: admin
 5.  Select **Save**.
 
 
-**Parent Topic:**[Configure a navigation from a chart to a list screen](../concept/nav-chart-to-list.md)
+**Parent Topic:**[Configure a navigation from a chart to a list screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/nav-chart-to-list.md)
 

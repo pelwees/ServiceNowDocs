@@ -25,7 +25,7 @@ Public access to the Virtual Agent chat widget defaults to off. Use the followin
 
 ## Procedure
 
-1.  In the unified navigation bar, select the globe icon \(![Globe icon.](../../virtual-agent/images/icon-scope.png)\).
+1.  In the unified navigation bar, select the globe icon \(![Globe icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../../virtual-agent/images/icon-scope.png)\).
 
 2.  Select **Application Scope**, then choose the **Virtual Agent Web Client** scope.
 
@@ -35,10 +35,10 @@ Public access to the Virtual Agent chat widget defaults to off. Use the followin
 
 4.  Under **Display options**, enable **Public access**.
 
-    ![Public access toggle enables public access to the Virtual Agent chat widget in portals.](../image/public-access-web-client.png "Example of public access")
+    ![Public access toggle enables public access to the Virtual Agent chat widget in portals.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../image/public-access-web-client.png "Example of public access")
 
     A message displays confirming that the setting has been saved.
 
 
-**Parent Topic:**[General chat settings](../concept/ci-configuring-chat-features.md)
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/conversational-interfaces/../concept/ci-configuring-chat-features.md)
 

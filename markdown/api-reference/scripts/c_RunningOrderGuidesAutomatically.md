@@ -19,7 +19,7 @@ As a use case, an onboarding workflow for a new employee can run an order guide 
 
 **Note:** You can only save catalog items, not the order guide \(that is, initial landing page options\).
 
-**Parent Topic:**[Server-side scripting](c_ServerScripting.md)
+**Parent Topic:**[Server-side scripting](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/scripts/c_ServerScripting.md)
 
 ## Running order guides from scripts
 

@@ -42,5 +42,5 @@ Role required: admin
 3.  Click **Update** to update the schedule, or click **Execute Now** to run the Import Set Deleter immediately.
 
 
-**Parent Topic:**[Importing data using import sets](../concept/c_ImportDataUsingImportSets.md)
+**Parent Topic:**[Importing data using import sets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/system-import-sets/../concept/c_ImportDataUsingImportSets.md)
 

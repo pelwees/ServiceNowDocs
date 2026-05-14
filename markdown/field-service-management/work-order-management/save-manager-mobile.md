@@ -25,9 +25,9 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 2.  Open a task.
 
-3.  Select the Save icon ![save icon](../image/mobile-save.png).
+3.  Select the Save icon ![save icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/mobile-save.png).
 
-    **Note:** Select the Unsave icon ![unsave icon](../image/mobile-unsave.png) to remove the task from the Saved tasks list.
+    **Note:** Select the Unsave icon ![unsave icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/../image/mobile-unsave.png) to remove the task from the Saved tasks list.
 
 4.  Change the name of the task you want to save if you want to save it as something other than the work order task number.
 

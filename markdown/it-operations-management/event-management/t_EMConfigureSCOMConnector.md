@@ -17,7 +17,7 @@ Configure the Microsoft System Center Operations Manager \(SCOM\) connector inst
 
 ## Before you begin
 
-To activate **Metric Collection**, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](configure-itoa-metric-extension.md).
+To activate **Metric Collection**, ensure that the MID Server that retrieves metrics is configured with the Metric Intelligence extension and that the extension is in **Started** mode. See [Manually configure the Metric Intelligence extension](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-itoa-metric-extension.md).
 
 Windows authentication is used by the connector to access the SCOM database \(OperationsManagerDW\). Therefore, if **Metric Collection** is selected and the **Database login with Windows authentication** option is also selected, ensure that the MID Server service runs with a user having read access to the SCOM database. Ensure that the correct credentials are used:
 
@@ -171,7 +171,7 @@ SCOM path and library names
 
 6.  Click **New** and create a new connector instance.
 
-    For details on the connector instance fields displayed on the page, see [SCOM connector instance form](../reference/scom-connector-instance-form.md).
+    For details on the connector instance fields displayed on the page, see [SCOM connector instance form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../reference/scom-connector-instance-form.md).
 
 7.  Select and hold \(or right-click\) the form header and select **Save**.
 
@@ -239,5 +239,5 @@ These scenarios describe the default bi-directional functionality for SCOM conne
 -   When an alert is manually closed in ServiceNow, it is auto-closed in SCOM. If the alert state is changed to **Reopen**, SCOM is also updated.
 -   When an incident is created and associated to an alert in ServiceNow, SCOM receives the incident number as a ticket ID. However, the state of the incident is not available on SCOM. Therefore when the incident is resolved in ServiceNow, SCOM is not updated as the incident number remains the same. When the alert is associated with a new incident, the new incident number is updated in SCOM.
 
-**Parent Topic:**[Configure alert collection from SCOM](t_EMConfigureSCOMConnectorInstance.md)
+**Parent Topic:**[Configure alert collection from SCOM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureSCOMConnectorInstance.md)
 

@@ -27,17 +27,17 @@ You can only schedule one appointment per location. Only logged-in users can sch
 
     For example: `https://yourportalurl.com/csm`
 
-2.  Click the chat icon \(![Chat icon.](../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
+2.  Click the chat icon \(![Chat icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/chat_icon.png)\) to open the chat window and begin a Virtual Agent chat.
 
 3.  In the chat window, enter `reschedule appointment`.
 
 4.  Choose the appointment that you want to reschedule.
 
-    ![Virtual Agent chat window with the selected appointment details and the rescheduling confirmation message.](../image/conv-ab-resched3.png "Rescheduling an appointment")
+    ![Virtual Agent chat window with the selected appointment details and the rescheduling confirmation message.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-resched3.png "Rescheduling an appointment")
 
 5.  Choose a date from the calendar for the new appointment time.
 
-    ![Virtual Agent chat window with dates and times that are available for the appointment being rescheduled.](../image/conv-ab-resched2.png "Choosing a date on the calendar")
+    ![Virtual Agent chat window with dates and times that are available for the appointment being rescheduled.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/conv-ab-resched2.png "Choosing a date on the calendar")
 
 
 ## Result
@@ -47,7 +47,7 @@ The appointment is rescheduled.
 **Related topics**  
 
 
-[Schedule an appointment](conv-ab-schedule.md)
+[Schedule an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-schedule.md)
 
-[Cancel an appointment](conv-ab-cancel.md)
+[Cancel an appointment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-cancel.md)
 

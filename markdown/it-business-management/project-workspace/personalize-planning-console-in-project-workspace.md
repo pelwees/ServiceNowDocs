@@ -27,11 +27,11 @@ Steps 2 through 4 provide guidance on customizing various aspects of the workspa
 
 1.  Open a project from the home page of Project Workspace.
 
-    For information, see [Access the new Project Workspace](access-new-project-workspace.md).
+    For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
 2.  Use the side panel to customize your planning page view.
 
-    1.  Select the Settings icon \(![Settings icon.](../../alignment-planner-workspace/images/icon-settings.png)\).
+    1.  Select the Settings icon \(![Settings icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../../alignment-planner-workspace/images/icon-settings.png)\).
 
         The Settings side panel opens.
 
@@ -49,17 +49,17 @@ Steps 2 through 4 provide guidance on customizing various aspects of the workspa
 
 3.  View additional columns to the project tasks in the planning page view.
 
-    If you want additional columns to be displayed in the planning page view, other than those fields available in the side panel, you can do so by customizing the Project Workspace view of the project task list \(pm\_project\_task\_list.do\). See [Add new columns to the planning page](add-new-columns-to-planning-console.md).
+    If you want additional columns to be displayed in the planning page view, other than those fields available in the side panel, you can do so by customizing the Project Workspace view of the project task list \(pm\_project\_task\_list.do\). See [Add new columns to the planning page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-new-columns-to-planning-console.md).
 
     **Note:** You can personalize your settings for timescale, Displaying summary tasks, Bar labels, and Dependency lines. Any changes you make to the Display summary task settings and timescale view is saved in the preferences.
 
 4.  Reduce or increase the visibility of the project period on the timeline by changing the timescale.
 
-    Select the timescale icon \(![Timescale icon.](../image/icon-timesclae.png)\) and choose from Day, Week, Month, Quarter, Year, or Autofit.
+    Select the timescale icon \(![Timescale icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../image/icon-timesclae.png)\) and choose from Day, Week, Month, Quarter, Year, or Autofit.
 
 
--   **[Add new columns to the planning page](add-new-columns-to-planning-console.md)**  
+-   **[Add new columns to the planning page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-new-columns-to-planning-console.md)**  
 Display new columns on the planning page of the new project workspace so that your project managers can view custom fields for the project tasks on the planning page.
 
-**Parent Topic:**[Managing projects with Project Workspace](../concept/use-projects-pw.md)
+**Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/../concept/use-projects-pw.md)
 

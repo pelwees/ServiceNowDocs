@@ -48,5 +48,5 @@ Role required: sn\_jny.admin, sn\_nowassist\_admin.nsa\_admin
 9.  Complete the configuration by selecting **Activate**.
 
 
-**Parent Topic:**[Configure Journey designer features](../concept/jny-dsgnr-configuration.md)
+**Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/../concept/jny-dsgnr-configuration.md)
 

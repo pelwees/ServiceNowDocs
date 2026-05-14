@@ -331,7 +331,7 @@ Enter the order number in which you want the To-do to appear in the widget.
 </td></tr></tbody>
 </table>    3.  Under **Field Mappings**, map the fields of the selected **To-dos configuration** table with the **To-do target** table.
 
-        ![field mapping details](../images/to-do-config-field-mapping.png "To-do configuration detail field mappings")
+        ![field mapping details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/to-do-config-field-mapping.png "To-do configuration detail field mappings")
 
     4.  Click **Submit** or **Update**.
 
@@ -341,5 +341,5 @@ Enter the order number in which you want the To-do to appear in the widget.
 **Related topics**  
 
 
-[Enable task configuration for approvals](approval-hub-to-dos-page-filters.md)
+[Enable task configuration for approvals](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-to-dos-page-filters.md)
 

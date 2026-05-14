@@ -118,14 +118,14 @@ Tracks how users attach files to records from portal pages: by navigating the fi
 </td></tr></tbody>
 </table>You can create custom events to be triggered. For more information, see [SNAnalytics - Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/SNAnalyticsClientAPI.md)
 
-**Parent Topic:**[Usage Insights for Service Portal](../concept/sp-analytics.md)
+**Parent Topic:**[Usage Insights for Service Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sp-analytics.md)
 
 **Related topics**  
 
 
-[SC Catalog Item widget](../concept/sc-catalog-item-widget.md)
+[SC Catalog Item widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/sc-catalog-item-widget.md)
 
-[Faceted Search widget](../concept/faceted-search.md)
+[Faceted Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/faceted-search.md)
 
-[Typeahead Search widget](../concept/typeahead-search-widget.md)
+[Typeahead Search widget](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/../concept/typeahead-search-widget.md)
 

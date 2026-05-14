@@ -17,7 +17,7 @@ Upload the manifest file in Microsoft Teams to integrate Microsoft Teams with yo
 
 ## Before you begin
 
-Make sure that you have the manifest file for self-configured apps. For more information, see [Create and download the manifest file for self-configured apps](download-manifest-file-st.md#).
+Make sure that you have the manifest file for self-configured apps. For more information, see [Create and download the manifest file for self-configured apps](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-st.md#).
 
 Role required: admin
 
@@ -50,5 +50,5 @@ Role required: admin
     **Note:** If you don't want to create a manifest file, you can edit an existing manifest file as required. After updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
 
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_s_tnt.md)
 

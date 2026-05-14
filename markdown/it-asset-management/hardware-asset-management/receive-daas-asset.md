@@ -80,7 +80,7 @@ Asset
 
 </td><td>
 
-The asset that is selected in the Asset selection task. For more information, see [Select an asset](select-daas-asset.md).
+The asset that is selected in the Asset selection task. For more information, see [Select an asset](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/select-daas-asset.md).
 
 </td></tr><tr><td>
 

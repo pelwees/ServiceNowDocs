@@ -24,7 +24,7 @@ When creating a clone request, consider the following guidelines.
 -   Selecting Exclude Attachment Data on the clone request form can add to your clone duration.
 -   Don't preserve large amounts of data in your request. If you must preserve table data, such as users, groups, and roles, consider exporting the records to a file and importing them after cloning.
 -   Add conditions to the preservers configured for the clone request to only preserve the data that you need.
--   Use clone chaining to split up your request, see [Clone terminology](clone-terminology.md).
+-   Use clone chaining to split up your request, see [Clone terminology](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/clone-terminology.md).
 
-**Parent Topic:**[Instance Clone reference](instance-clone-reference.md)
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 

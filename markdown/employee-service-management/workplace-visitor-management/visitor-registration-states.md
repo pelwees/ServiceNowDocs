@@ -110,20 +110,20 @@ Disappeared
 There is no update about the visitor or has checked out without updating the reception staff.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing visitor registrations](../concept/manage-visitor-registrations.md)
+</table>**Parent Topic:**[Managing visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../concept/manage-visitor-registrations.md)
 
 **Related topics**  
 
 
-[Use the receptionist portal](../task/use-receptionist-portal.md)
+[Use the receptionist portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/use-receptionist-portal.md)
 
-[Update a visitor registration](../task/update-visitor-registration.md)
+[Update a visitor registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/update-visitor-registration.md)
 
-[View visitor registrations](../task/view-visitor-registrations.md)
+[View visitor registrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/view-visitor-registrations.md)
 
-[View visitor policy confirmations](../task/view-policy-confirmations.md)
+[View visitor policy confirmations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/view-policy-confirmations.md)
 
-[Anonymize a visitor](../task/anonymize-visitor.md)
+[Anonymize a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/anonymize-visitor.md)
 
-[Apply visitor management archive policy](../task/apply-visitor-management-archival-rule.md)
+[Apply visitor management archive policy](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/../task/apply-visitor-management-archival-rule.md)
 

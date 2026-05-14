@@ -46,7 +46,7 @@ These users can choose to expand or collapse the domain scope to show or hide da
 
 **Note:** Based on the hierarchy, users can see data in their home domain and child domains of that home domain. Users will not have access to data in their parent domains, peer domains, or domains in other branches of the hierarchy. Users always have access to data from domains that have been explicitly granted to them by domain visibility and domain contains.
 
-![Infographic explaining Domain Separation in HR Service Delivery](../image/domain-separation-hrsd.png)
+![Infographic explaining Domain Separation in HR Service Delivery](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../image/domain-separation-hrsd.png)
 
 ## How domain separation works in HR Service Delivery
 
@@ -54,7 +54,7 @@ These users can choose to expand or collapse the domain scope to show or hide da
 
     **Note:**
 
-    -   For more details on domain separation in HR Service delivery, see [Guidance for proper HR Service Delivery domain separation](hr-domain-rec.md).
+    -   For more details on domain separation in HR Service delivery, see [Guidance for proper HR Service Delivery domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-domain-rec.md).
     -   To learn more about process separation, see the Data Separation versus Process Separation section in this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0715934).
 -   When working in a domain-separated implementation, ensure that records are created at the right domain level so that it is visible to the right set of users.
 

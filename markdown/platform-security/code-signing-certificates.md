@@ -105,5 +105,5 @@ Text field
 The certificate chain, which includes the digital certificate along with the intermediate and root certificates that establish a trust path.Select **View Chain** to view the certificate chain.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)
+</table>**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 

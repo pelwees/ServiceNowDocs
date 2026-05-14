@@ -32,9 +32,9 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 3.  Create a copy of the OSquery External Address in /etc/hosts playbook flow and make the necessary modifications.
 
-    To create a copy of the playbook's flow, select the ![More actions menu](../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
+    To create a copy of the playbook's flow, select the ![More actions menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/more-action-menu.png) icon and select **Copy flow**. Perform this step only if you plan to customize or make specific changes to the flow.
 
-    ![Overview of the OSquery of External Address in /etc/hosts playbook.](../image/playbook-osquery-overview.png "OSquery of External Address in /etc/hosts playbook")
+    ![Overview of the OSquery of External Address in /etc/hosts playbook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-osquery-overview.png "OSquery of External Address in /etc/hosts playbook")
 
 4.  Activate the playbooks.
 
@@ -46,8 +46,8 @@ Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
     This playbook is triggered and associated with the security incident when the **Category** is **Insider Breach**.
 
-    ![Trigger condition for OSquery of External Address in /etc/hosts playbook](../image/playbook-osquery-trigger.png "OSquery of External Address in /etc/hosts playbook trigger condition")
+    ![Trigger condition for OSquery of External Address in /etc/hosts playbook](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/playbook-osquery-trigger.png "OSquery of External Address in /etc/hosts playbook trigger condition")
 
 
-**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](../concept/playbook-osquery-external-address.md)
+**Parent Topic:**[Playbook for OSquery of External Address in /etc/hosts file](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/playbook-osquery-external-address.md)
 

@@ -32,17 +32,17 @@ Role required: sn\_communities.community\_user
 
     When you point to this option, it becomes **Unsubscribed**.
 
-    You can also view your notifications and subscriptions and enable or disable them. For details, see [Set notification preferences](manage-subscriptions.md).
+    You can also view your notifications and subscriptions and enable or disable them. For details, see [Set notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-subscriptions.md).
 
 
-**Parent Topic:**[Community subscriptions](../concept/c_communities-subscriptions.md)
+**Parent Topic:**[Community subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-subscriptions.md)
 
 **Related topics**  
 
 
-[Set notification preferences](manage-subscriptions.md)
+[Set notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-subscriptions.md)
 
-[Set notification preferences](manage-subscriptions.md)
+[Set notification preferences](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-subscriptions.md)
 
-[Community subscriptions](../concept/c_communities-subscriptions.md)
+[Community subscriptions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/communities/../concept/c_communities-subscriptions.md)
 

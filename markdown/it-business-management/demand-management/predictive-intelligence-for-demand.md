@@ -66,14 +66,14 @@ Similarity
 View similar demands based on the **Demand Name** and **Description** fields. You can see the results in the **Similar demands** section on the Demand form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Exploring Demand Management](exploring-demand-management.md)
+</table>**Parent Topic:**[Exploring Demand Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/exploring-demand-management.md)
 
 **Related topics**  
 
 
 [Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence.md)
 
-[Train the similarity solution for Demand Management to find similar demands](../task/train-similarity-solution-dm.md)
+[Train the similarity solution for Demand Management to find similar demands](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../task/train-similarity-solution-dm.md)
 
-[Create a demand](../task/t_CreatingDemands.md)
+[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/../task/t_CreatingDemands.md)
 

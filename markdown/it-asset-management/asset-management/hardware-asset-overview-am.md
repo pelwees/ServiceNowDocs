@@ -24,7 +24,7 @@ Use the Hardware asset overview view to:
 
 Select any widget or chart to view detailed information and take appropriate actions. You can also use **Location**, **Stockroom**, and **Model category** lists to filter your results.
 
-![Hardware asset overview in Asset Workspace](../../hardware-asset-management/image/asset-wrkspc-assetoverview.png "Hardware asset overview")
+![Hardware asset overview in Asset Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/image/asset-wrkspc-assetoverview.png "Hardware asset overview")
 
 |Widget or chart|Description|
 |---------------|-----------|
@@ -48,5 +48,5 @@ You can load charts or widgets that fetch a huge set of asset records on demand 
 
 The system property **sn\_itam\_workspace.asset\_overview\_enable\_lazy\_loading** provides you with an option to either selectively load reports you want to view or load reports concurrently with the page. By default, this system property is set to **False**. When this system property is enabled on your ServiceNow instance, you can view reports by using the **Load report** option.
 
-![Load report option on Hardware asset overview page](../../hardware-asset-management/image/asset-workspace-overview-load.png "Load reports on Hardware Asset overview")
+![Load report option on Hardware asset overview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/../../hardware-asset-management/image/asset-workspace-overview-load.png "Load reports on Hardware Asset overview")
 

@@ -21,7 +21,7 @@ Role required: admin
 
 You add a dictionary attribute to the Conditions field to enable condition builder version 2 \(v2\).
 
-![Condition builder v2 on Approval Rules form](../image/condition-builder-v2.png "Condition builder v2 enabled on a form")
+![Condition builder v2 on Approval Rules form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/condition-builder-v2.png "Condition builder v2 enabled on a form")
 
 ## Procedure
 

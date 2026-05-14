@@ -118,5 +118,5 @@ Stores the Extract Transform Load \(ETL\) list for display under the Integration
 |Integration Commons for CMDB \(sn\_cmdb\_int\_util\)|Contains the CMDB Integrations Dashboard and a set of Robust Transform Engine \(RTE\) transforms and script includes.|
 |CMDB Workspace \(sn\_cmdb\_ws\)|Provides a single place to access CMDB-focused features including SGC Central.|
 
-**Parent Topic:**[SGC Central reference](sgcc-reference.md)
+**Parent Topic:**[SGC Central reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-reference.md)
 

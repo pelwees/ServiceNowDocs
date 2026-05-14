@@ -50,5 +50,5 @@ A field type entry applies to all fields whose dictionary entry data type matche
 
 ## Identifying normalized fields
 
-The system displays the normalization icon ![Normalization icon](../image/IconNormalization.png) on fields with an associated normalization or transformation record. Users with the normalizer role can click the icon to access the associated normalization or transformation record. Users without the normalizer role instead see a help page. Administrators can configure who sees the normalization icon with a preference called **Restrict to roles**.
+The system displays the normalization icon ![Normalization icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/IconNormalization.png) on fields with an associated normalization or transformation record. Users with the normalizer role can click the icon to access the associated normalization or transformation record. Users without the normalizer role instead see a help page. Administrators can configure who sees the normalization icon with a preference called **Restrict to roles**.
 

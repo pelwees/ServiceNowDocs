@@ -106,11 +106,11 @@ Select the field that links records in the Answer Table to a system user account
 
 -   All fields from the Answer Table are displayed, but only fields that reference a system user account can be selected. If the Answer Table is `sys_user`, the `sys_id` field can also be selected.
 -   When populated with a valid `sys_user` reference, the answer supports identification and authentication. When left empty, the answer supports guest identification only.
--   Whether this field is required is controlled by the `glide.auth_factors.kba.enable_user_column` property. To know more about the properties, see [System Properties](create-knowledge-based-answers.md#system-properties).
+-   Whether this field is required is controlled by the `glide.auth_factors.kba.enable_user_column` property. To know more about the properties, see [System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-answers.md#system-properties).
 
 
 </td></tr></tbody>
-</table>    ![Knowledge Based Answer - Script Configuration as None](../images/kba-answers-1.png "Knowledge Based Answer - Script Configuration: None")
+</table>    ![Knowledge Based Answer - Script Configuration as None](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-answers-1.png "Knowledge Based Answer - Script Configuration: None")
 
 5.  Specify the following fields for configuring external source:
 
@@ -133,11 +133,11 @@ Script
 Define the custom script to validate the answer against an external system. Script requirements are as follows:-   The script must be scoped.
 -   The system receives the caller's answer as `user_input` and must return the **table\_name** and matched record’s `sys_id` as the output.
 -   For records in tables other than `sys_user`, the **table\_name** must also be returned.
--   Script execution is limited to 15 seconds by default. This is to avoid long wait times for the caller. To adjust, configure the `glide.auth_factors.kba.script_execution_time_outproperty`. To learn more see, [System Properties](create-knowledge-based-answers.md#system-properties).
+-   Script execution is limited to 15 seconds by default. This is to avoid long wait times for the caller. To adjust, configure the `glide.auth_factors.kba.script_execution_time_outproperty`. To learn more see, [System Properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/create-knowledge-based-answers.md#system-properties).
 
 
 </td></tr></tbody>
-</table>    ![Knowledge Based Answer - Script Configuration as None](../images/kba-answers-2.png "Knowledge Based Answer - Script Configuration: Identification")
+</table>    ![Knowledge Based Answer - Script Configuration as None](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-answers-2.png "Knowledge Based Answer - Script Configuration: Identification")
 
     **Note:** One question can have many answers. All answers for that question must follow the same rule:
 
@@ -152,7 +152,7 @@ Define the custom script to validate the answer against an external system. Scri
 
 You're redirected to the Knowledge Based Answers list view. Verify if your answer is successfully added.
 
-![Knowledge Based Answers - list](../images/kba-answers-3.png "Knowledge Based Answers - list")
+![Knowledge Based Answers - list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/authentication/../images/kba-answers-3.png "Knowledge Based Answers - list")
 
 The following properties control the behavior of knowledge-based authentication \(KBA\), including security question validation, answer matching, and user identification settings.
 

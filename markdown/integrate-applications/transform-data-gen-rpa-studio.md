@@ -15,7 +15,7 @@ Transform the data in RPA Desktop Design Studio by using the **Transform Data** 
 
 ## Before you begin
 
-Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](configure-components.md).
+Configure a component. For more information, see [Use a component in RPA Desktop Design Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/configure-components.md).
 
 Role required: none
 
@@ -47,5 +47,5 @@ The **Transform Data** option can be used to modify any data that comes from the
 6.  If there are any errors in the Script section, resolve the errors that are displayed in the ERRORS section and then click **OK**.
 
 
-**Parent Topic:**[Using automations](../concept/rpa-studio-use.md)
+**Parent Topic:**[Using automations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/rpa-studio-use.md)
 

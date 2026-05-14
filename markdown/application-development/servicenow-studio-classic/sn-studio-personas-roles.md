@@ -19,7 +19,7 @@ Admins, delegated developers, and users with Guided Application Creator roles ha
 
 Admins and delegated developers have different capabilities in ServiceNow Studio. Admins can delegate people to work on certain apps and app files by providing delegated developer permissions.
 
-For more information about roles and access to different app development tools, see [Working with roles and access in app development tools](working-with-roles-and-access.md).
+For more information about roles and access to different app development tools, see [Working with roles and access in app development tools](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/working-with-roles-and-access.md).
 
 <table id="table_clb_2w1_xcc"><thead><tr><th>
 
@@ -125,5 +125,5 @@ Metadata-specific admin roles are existing roles on the ServiceNow AI Platform t
 -   Be configurable within the experience switcher.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Managing access to ServiceNow Studio](manage-access-to-servicenow-studio.md)
+</table>**Parent Topic:**[Managing access to ServiceNow Studio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/servicenow-studio-classic/manage-access-to-servicenow-studio.md)
 

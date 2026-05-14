@@ -78,11 +78,11 @@ Pre-eligibility criteria is established by performing the following activities:
 
 12. Select the field below the newly created condition column, and enter the value **Yes** or **No** depending on the expected response for eligibility.
 
-13. Select the ![Plus icon.](../image/psdsplusiconlp.png) icon and select **Add condition column**.
+13. Select the ![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psdsplusiconlp.png) icon and select **Add condition column**.
 
 14. Repeat steps 10-13 for all input values that determine an applicant's eligibility.
 
-15. Select the ![Plus icon.](../image/psdsplusiconlp.png) icon and select **Add result column**.
+15. Select the ![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psdsplusiconlp.png) icon and select **Add result column**.
 
 16. On the form, fill in the fields with the following information:
 
@@ -107,7 +107,7 @@ Pre-eligibility criteria is established by performing the following activities:
 
 23. Select **Create Draft** to edit the table.
 
-24. Select the ![Plus icon.](../image/psdsplusiconlp.png) icon to add a new decision row.
+24. Select the ![Plus icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/government-industry/../image/psdsplusiconlp.png) icon to add a new decision row.
 
     This decision row maps the extended License &amp; Permit case table with its corresponding Product Model, as well as the eligibility decision table that was created above.
 

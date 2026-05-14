@@ -29,7 +29,7 @@ When you attach a file to an applicable node, a file node is created under that 
 -   In an app, you can add the file node to a node under the component, collection, or deployable folder. The file nodes in a component are also included when you include a component to a collection and the collection to the deployable in an app. You can override the file nodes included at the collection or deployable level, like any other config data item.
 -   In a component library, you can add a file node to a node under a shared component. When the shared component is used in an app, the file nodes are copied along with the file attached to them.
 
-App developers and members of the authoring group of the app can access the file nodes and also download their attached files. They can manually validate the content of the file and then publish the snapshot. DevOps users can [export the validated config data](cdm-cfg-data-export-from-ui.md), including file nodes with URLs to the attached files hosted on the ServiceNow instance where the export was executed.
+App developers and members of the authoring group of the app can access the file nodes and also download their attached files. They can manually validate the content of the file and then publish the snapshot. DevOps users can [export the validated config data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-cfg-data-export-from-ui.md), including file nodes with URLs to the attached files hosted on the ServiceNow instance where the export was executed.
 
 ## Procedure
 
@@ -51,9 +51,9 @@ Steps
 
 </td><td>
 
-1.  Select the apps icon \(![DevOps Config apps icon](../../devops-config/image/devops-config-apps-icon.png)\) in the left navigation pane.
+1.  Select the apps icon \(![DevOps Config apps icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../devops-config/image/devops-config-apps-icon.png)\) in the left navigation pane.
 2.  Select an app from the Applications list.
-3.  Select **Edit config data** to [open a changeset.](cdm-changeset-cr-u.md)
+3.  Select **Edit config data** to [open a changeset.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-changeset-cr-u.md)
 
 
 </td></tr><tr><td id="d97486e162">
@@ -62,15 +62,15 @@ Steps
 
 </td><td>
 
-1.  Select the component libraries icon \(![Component libraries icon.](../image/icon-component-libraries.png)\) in the left navigation pane.
-2.  Select a component library to open or [create one](cdm-comp-library-create.md).
+1.  Select the component libraries icon \(![Component libraries icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/icon-component-libraries.png)\) in the left navigation pane.
+2.  Select a component library to open or [create one](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-comp-library-create.md).
 3.  Select **Edit** to open a changeset.
 
 
 </td></tr></tbody>
 </table>    A changeset is opened with the **Config data** tab selected.
 
-3.  In the config data tree, select the more actions icon \(![More actions icon.](../../site-reliability-ops/image/icon-actions-menu.png)\) next to a node to which you want to add a file node, and then select the **Add file** from the menu.
+3.  In the config data tree, select the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../site-reliability-ops/image/icon-actions-menu.png)\) next to a node to which you want to add a file node, and then select the **Add file** from the menu.
 
     **Note:** In an app, you can add a file node to a node under the component, collection, or deployable, but not directly to the component, collection, or deployment folder in an app. In a shared library, you can add a file node to a node under a shared component.
 
@@ -90,7 +90,7 @@ Steps
 
     **Note:** The content preview is available for the files with the following MIME types: `text/yaml,text/css,text/csv,text/html,text/javascript,text/plain,text/richtext,text/x-vcard,text/x-vcalendar,application/xml,application/javascript,application/json`. To view content for additional MIME type files, add them as a comma separated list to the system property **sn\_cdm.attachment.display\_mime\_types**. The preview is not available for binary file MIME types, such as audio, image, and video.
 
-    ![A file node added to a component node.](../image/cdm-file-node-preview.png)
+    ![A file node added to a component node.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../image/cdm-file-node-preview.png)
 
 5.  After the file node is added to the config data, you can perform the following actions on the file node or the file attachment within it.
 

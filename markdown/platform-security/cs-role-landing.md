@@ -13,7 +13,7 @@ breadcrumb: [Administer and Troubleshoot, Code Signing, Platform Security]
 
 Code Signing includes the following roles.
 
-**Parent Topic:**[Code Signing reference](code-signing-reference.md)
+**Parent Topic:**[Code Signing reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-reference.md)
 
 ## Code signing admin \[codesigning\_admin\]
 

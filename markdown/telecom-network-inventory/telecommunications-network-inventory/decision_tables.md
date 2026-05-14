@@ -23,18 +23,18 @@ You can use the decision tables in the Telecommunications Network Inventory appl
 2.  Assign a record producer form to a change request.
 3.  Assign a record producer to a change task of a change request.
 
--   **[Order Management for Telecommunications integration](../task/decision_table_for_tni_omt_integration.md)**  
+-   **[Order Management for Telecommunications integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/decision_table_for_tni_omt_integration.md)**  
 Use a Telecommunications Network Inventory decision table to integrate the Telecommunications Network Inventory and Order Management for Telecommunications applications.
--   **[Assign a record producer form to a change model](../task/create_record_producer_form_for_a_change_request.md)**  
+-   **[Assign a record producer form to a change model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/create_record_producer_form_for_a_change_request.md)**  
 Assign a record producer to a change request by using a decision table in the Telecommunications Network Inventory application.
--   **[Assign a record producer form for a request type of a change task](../task/assign_record_producer_form_for_a_change_task_of_a_change_request.md)**  
+-   **[Assign a record producer form for a request type of a change task](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/assign_record_producer_form_for_a_change_task_of_a_change_request.md)**  
 Assign a record producer to a change task of a change request with the help of a decision table in Telecommunications Network Inventory application.
--   **[../task/clone-and-revise-a-ci.md](../task/clone-and-revise-a-ci.md)**  
+-   **[../task/clone-and-revise-a-ci.md](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/../task/clone-and-revise-a-ci.md)**  
 
--   **[Customize the Validation of Revision CI](customize-the-validation-of-revision-ci.md)**  
+-   **[Customize the Validation of Revision CI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customize-the-validation-of-revision-ci.md)**  
 Customize the validation process of a CI \(Configuration Item\) using the Telecommunications Network Inventory application. You can customize the validation process by providing adjustable parameters based on the script.
 
-**Parent Topic:**[Configuring Telecommunications Network Inventory](configuring-telecom-network-inventory.md)
+**Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
 **Related topics**  
 

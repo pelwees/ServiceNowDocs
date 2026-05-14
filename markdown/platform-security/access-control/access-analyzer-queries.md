@@ -31,11 +31,11 @@ Role required: access\_analyzer\_admin
     -   **Compare user access**: Displays results based on queries made through the **Compare user access** features.
     **Note:** Previous search results aren't stored when using the Compare user records feature.
 
-    ![Access Analyzer queries](../images/access-analyzer-queries.png)
+    ![Access Analyzer queries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/access-analyzer-queries.png)
 
 2.  To view previous **Evaluate access** search results, click a link under **Analyzed by**.
 
-    ![Access Analyzer Details](../images/query-details.png)
+    ![Access Analyzer Details](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/query-details.png)
 
     To refresh results for the user \(based on the same query criteria\), click **Reanalyze**.
 
@@ -43,6 +43,6 @@ Role required: access\_analyzer\_admin
 
 3.  To view previous **Compare user access** results, click a link under **Compared users**.
 
-    ![Compare user access](../images/access-analyzer-queries-compare.png)
+    ![Compare user access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/access-control/../images/access-analyzer-queries-compare.png)
 
 

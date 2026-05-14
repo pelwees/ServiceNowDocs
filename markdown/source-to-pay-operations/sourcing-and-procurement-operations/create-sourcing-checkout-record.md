@@ -67,12 +67,12 @@ Utilize record producers to create a custom set of questions to ask Shoppers dur
 8.  Select **Review and Submit**.
 
 
-**Parent Topic:**[Sourcing checkout](../concept/sourcing-checkout.md)
+**Parent Topic:**[Sourcing checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../concept/sourcing-checkout.md)
 
 **Related topics**  
 
 
-[Configure sourcing checkout](configure-sourcing-checkout.md)
+[Configure sourcing checkout](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-sourcing-checkout.md)
 
 [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_RecordProducer.md)
 

@@ -46,12 +46,12 @@ Deleting a checklist template has no effect on checklists created from that temp
     4.  In the confirmation dialog box, click **Delete**.
 
 
-**Parent Topic:**[Checklists](../concept/c_Checklists.md)
+**Parent Topic:**[Checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_Checklists.md)
 
 **Related topics**  
 
 
-[Activate checklists](t_ActivateChecklists.md)
+[Activate checklists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_ActivateChecklists.md)
 
-[Create a checklist](t_CreateAChecklist.md)
+[Create a checklist](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAChecklist.md)
 

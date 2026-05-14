@@ -23,13 +23,13 @@ You can define a Direct Kafka Cluster for your local Kafka environment. A Direct
 
 The following image shows an example of a Direct Kafka Cluster. The Connection and Credential alias is entered in the **External Kafka** field. Under Related Links, there's a link to **Test Direct Kafka Connection**. In the Direct Kafka Topics section, there's a list of the local Kafka topics and their partitions and topic aliases.
 
-![Screen shot of a Direct Kafka Cluster record.](../images/direct-kafka-cluster.png)
+![Screen shot of a Direct Kafka Cluster record.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/direct-kafka-cluster.png)
 
 ## Connection and Credential aliases
 
 Direct Kafka requires a Connection and Credential alias. For details on how to set one up, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md).
 
-Direct Kafka also requires a Kafka connection to connect to your local Kafka environment. For details, see [Configure a Kafka connection](../tasks/configure-kafka-connection.md). When configuring the Kafka connection, there are a couple things to keep in mind.
+Direct Kafka also requires a Kafka connection to connect to your local Kafka environment. For details, see [Configure a Kafka connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-kafka-connection.md). When configuring the Kafka connection, there are a couple things to keep in mind.
 
 -   The **Bootstrap servers** are required. Enter a comma-separated list in the format HOST:PORT,HOST:PORT. The list doesn't need to include all the Apache Kafka cluster servers.
 -   Direct Kafka doesn’t use a MID Server. When you create the Kafka connection, make sure the **Use MID Server** check box isn’t checked. If you want to use an existing connection that uses a MID Server, you can change the check box if the connection isn’t already being used.
@@ -45,7 +45,7 @@ Configure a Direct Kafka Cluster for your local Kafka topics.
 ### Before you begin
 
 -   Role required: admin
--   A Direct Kafka cluster requires a Connection and Credential alias and a Kafka connection. For step-by-step instructions, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md) and [Configure a Kafka connection](../tasks/configure-kafka-connection.md).
+-   A Direct Kafka cluster requires a Connection and Credential alias and a Kafka connection. For step-by-step instructions, see [Create a Connection &amp; Credential alias](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-alias.md) and [Configure a Kafka connection](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../tasks/configure-kafka-connection.md).
 
     **Note:** Direct Kafka doesn’t use a MID Server. When you create the Kafka connection, make sure the **Use MID Server** check box isn’t checked.
 
@@ -71,5 +71,5 @@ The topics from your local Kafka will be imported to ServiceNow and visible on t
 
 ### What to do next
 
-[Create topic aliases](manage-topic-alias.md#) to connect to your Direct Kafka topics.
+[Create topic aliases](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/manage-topic-alias.md#) to connect to your Direct Kafka topics.
 

@@ -23,25 +23,25 @@ Role required: sn\_apm.apm\_analyst
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Architecture Workspace**.
 
-2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](../../image/eaw-image/icon-app-rationalization.png)\).
+2.  Open the Application Rationalization page by selecting the application rationalization icon \(![Application rationalization icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/icon-app-rationalization.png)\).
 
 3.  Select **List**.
 
-4.  Select the row context menu icon \(![Row context menu icon.](../../image/eaw-image/eaw-icon-menu.png)\) next to the business application that you want to add business application lifecycle data for and select **Add lifecycle data**.
+4.  Select the row context menu icon \(![Row context menu icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../image/eaw-image/eaw-icon-menu.png)\) next to the business application that you want to add business application lifecycle data for and select **Add lifecycle data**.
 
 5.  On the Application model lifecycle details form, fill in the fields.
 
-    For a description of the field values, see [Application model life-cycle details form](../../reference/eaw-reference/eaw-application-model-lifecycle-details-form.md).
+    For a description of the field values, see [Application model life-cycle details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../reference/eaw-reference/eaw-application-model-lifecycle-details-form.md).
 
 6.  Select **Create**.
 
 
-**Parent Topic:**[Use list view](../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
+**Parent Topic:**[Use list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../concept/eaw-concept/eaw-using-app-rat-list-view.md)
 
 **Related topics**  
 
 
-[Edit business application details in list view](eaw-edit-business-application-details.md)
+[Edit business application details in list view](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-edit-business-application-details.md)
 
-[Generate insights into business applications](../../../now-assist-ea/task/generate-insights-into-ba.md)
+[Generate insights into business applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../../now-assist-ea/task/generate-insights-into-ba.md)
 

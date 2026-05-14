@@ -92,5 +92,5 @@ TeamsTab.ReadWriteForChat.All \(Application\)
 Permission allows the app to open a tab with incident details within a meeting as part of Meeting Extensibility.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](../../sn-teams/reference/reference-sn-teams.md)
+</table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../../sn-teams/reference/reference-sn-teams.md)
 

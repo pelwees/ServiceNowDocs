@@ -17,7 +17,7 @@ As a case manager, send an outreach notification to potentially exposed employee
 
 ## Before you begin
 
-Ensure that your administrator has created an outreach notification that you can send to potentially exposed contacts in the case. To create an outreach notification, the ServiceNow Emergency Outreach application must be installed and active. For more information, see [Emergency Outreach](../../business-continuity/concept/emergency-outreach.md).
+Ensure that your administrator has created an outreach notification that you can send to potentially exposed contacts in the case. To create an outreach notification, the ServiceNow Emergency Outreach application must be installed and active. For more information, see [Emergency Outreach](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../../business-continuity/concept/emergency-outreach.md).
 
 Role required: sn\_imt\_tracing.case\_manager
 
@@ -44,7 +44,7 @@ You can review the notifications by navigating to **Emergency Outreach** &gt; **
 
 ## What to do next
 
-[Create a case task for each exposed contact](create-task-exposed-contact.md).
+[Create a case task for each exposed contact](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/create-task-exposed-contact.md).
 
-**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](../concept/exposure-case-management.md)
+**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/../concept/exposure-case-management.md)
 

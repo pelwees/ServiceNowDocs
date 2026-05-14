@@ -17,7 +17,7 @@ Deploy the Similar incidents model to predict the similar records for the incide
 
 ## Before you begin
 
-You must access the model and set the preferences for your model. For more information on setting model preferences, see [Assess the similarity model](assess-the-similarity-model.md).
+You must access the model and set the preferences for your model. For more information on setting model preferences, see [Assess the similarity model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/assess-the-similarity-model.md).
 
 Role required: sn\_ti\_admin.tia\_admin or admin 
 
@@ -25,7 +25,7 @@ Role required: sn\_ti\_admin.tia\_admin or admin 
 
 1.  Review your choices from the previous pages and information about how the model was trained.
 
-    ![UI of the page to review the model's information. It shows "How this model was trained" and "What your model will do."](../image/TI_deploy_similarity_model_page.png)
+    ![UI of the page to review the model's information. It shows "How this model was trained" and "What your model will do."](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/TI_deploy_similarity_model_page.png)
 
 2.  Select **Deploy** to deploy the model.
 
@@ -34,7 +34,7 @@ Role required: sn\_ti\_admin.tia\_admin or admin 
 
 A pop-up appears confirming that your model was deployed.
 
-![Model deployed confirmation pop-up.](../image/TI_model_deployed_pop-up.png)
+![Model deployed confirmation pop-up.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/../image/TI_model_deployed_pop-up.png)
 
-**Parent Topic:**[Set up similar records prediction model](set-up-similar-records-prediction-model.md)
+**Parent Topic:**[Set up similar records prediction model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/set-up-similar-records-prediction-model.md)
 

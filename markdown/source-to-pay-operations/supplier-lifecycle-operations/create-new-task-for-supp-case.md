@@ -53,7 +53,7 @@ On the home page, do one of the following:-   Under Quick actions, select **Crea
 
 </td><td>
 
-1.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and do one of the following:
+1.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and do one of the following:
     -   Navigate to **Lists** &gt; **My work** &gt; **Open tasks**
     -   Navigate to **Lists** &gt; **All work** &gt; **Supplier tasks**
     -   Navigate to **Lists** &gt; **All work** &gt; **Employee tasks**
@@ -68,7 +68,7 @@ On the home page, do one of the following:-   Under Quick actions, select **Crea
 
 </td><td>
 
-1.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\) and do one of the following:
+1.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\) and do one of the following:
     -   Navigate to **Lists** &gt; **My work** &gt; **Open cases**
     -   Navigate to **Lists** &gt; **All work** &gt; **Cases**
 2.  In the Number column, select the link to the case that you want to create a task for, and do one of the following:
@@ -120,13 +120,13 @@ Create a task for an internal employee
 
 
 </td></tr></tbody>
-</table>    For more information about the form fields and descriptions on the Create a new task form, see [Create new task form](../reference/create-new-supplier-task-form.md).
+</table>    For more information about the form fields and descriptions on the Create a new task form, see [Create new task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/create-new-supplier-task-form.md).
 
 4.  Select **Submit**.
 
-5.  On the Task form, fill in the fields.![Create New Supplier task form.](../image/create-supplier-case-task-from-source-to-pay-workspace.png)
+5.  On the Task form, fill in the fields.![Create New Supplier task form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/create-supplier-case-task-from-source-to-pay-workspace.png)
 
-    For more information about the form fields and descriptions, see [Task form](../reference/slo-task-form.md).
+    For more information about the form fields and descriptions, see [Task form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../reference/slo-task-form.md).
 
 6.  Select **Save**.
 
@@ -145,16 +145,16 @@ An email notification is triggered to the assigned stakeholder. They can complet
 
 ## What to do next
 
-The supplier contact to whom this task is assigned can view it on the **My To-dos** page. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](../concept/my-to-dos.md).
+The supplier contact to whom this task is assigned can view it on the **My To-dos** page. For more information, see [Viewing supplier contact tasks from the Supplier Collaboration Portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/my-to-dos.md).
 
-**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](../concept/managing-tasks.md)
+**Parent Topic:**[Manage supplier tasks from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/managing-tasks.md)
 
 **Related topics**  
 
 
-[Configure due dates for tasks](configure-task-due-date.md)
+[Configure due dates for tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-task-due-date.md)
 
-[Submit a task from the Source-to-Pay Workspace](submit-supplier-task.md)
+[Submit a task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/submit-supplier-task.md)
 
-[Complete a supplier task from the Source-to-Pay Workspace](complete-supplier-task.md)
+[Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)
 

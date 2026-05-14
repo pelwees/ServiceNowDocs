@@ -36,5 +36,5 @@ Role required: sam
     **Note:** Downgrade children set on the software license applies specifically to that license. If a downgrade child is set on the software model, it applies to all licenses of that model.
 
 
-**Parent Topic:**[Downgrade a license using the legacy Software Asset Management plugin](t_DowngradingALicense.md)
+**Parent Topic:**[Downgrade a license using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_DowngradingALicense.md)
 

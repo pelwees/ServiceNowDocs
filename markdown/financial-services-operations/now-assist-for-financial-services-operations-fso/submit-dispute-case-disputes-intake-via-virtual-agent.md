@@ -25,15 +25,15 @@ Role required: none
 
 2.  Select **Report a dispute**.
 
-    ![In the topics list, select Report a dispute.](../image/disputes-va-report-dispute.png)
+    ![In the topics list, select Report a dispute.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-report-dispute.png)
 
     A new dispute case is created to capture the customer's responses.
 
 3.  The Virtual Agent asks questions to determine the dispute type, and the subsequent questions from the disputes questionnaire for this particular type of dispute.
 
-    ![Disputes intake via Virtual Agent will prompt the customer for information, and the customer enters the information with text responses or by selecting options.](../image/disputes-va-customer-input.png) ![The customer may also respond to questions by selecting options presented by Disputes intake via Virtual Agent.](../image/disputes-va-select-txn.png)
+    ![Disputes intake via Virtual Agent will prompt the customer for information, and the customer enters the information with text responses or by selecting options.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-customer-input.png) ![The customer may also respond to questions by selecting options presented by Disputes intake via Virtual Agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-select-txn.png)
 
-    The virtual agent will inform the customer if the transaction is already part of another case.![Disputes intake via Virtual Agent informing the user that there are already disputes filed for the selected transaction.](../image/disputes-va-existing-case.png)
+    The virtual agent will inform the customer if the transaction is already part of another case.![Disputes intake via Virtual Agent informing the user that there are already disputes filed for the selected transaction.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-existing-case.png)
 
     Disputes intake via Virtual Agent rephrases questions from the dispute questionnaire in a conversational format.
 
@@ -50,16 +50,16 @@ Role required: none
 
 Disputes intake via Virtual Agent creates a Card Disputes Service Case and presents the customer with a reference link.
 
-![The customer is presented with a case number at the end of the dispute submission process.](../image/disputes-va-complete.png)
+![The customer is presented with a case number at the end of the dispute submission process.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../image/disputes-va-complete.png)
 
 A card dispute processor may access the record and review its details in the workspace.
 
--   **[Resume a Disputes intake via Virtual Agent dispute case as an agent](resume-dispute-case-from-disputes-intake-via-virtual-agent.md)**  
+-   **[Resume a Disputes intake via Virtual Agent dispute case as an agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resume-dispute-case-from-disputes-intake-via-virtual-agent.md)**  
 As an agent, you can resume a card dispute case when a customer leaves a Virtual Agent chat in Disputes intake via Virtual Agent without submitting the dispute. Pick up where the customer left off and complete the details of the dispute case.
--   **[Resume a Disputes intake via Virtual Agent dispute case as a customer](resume-virtual-agent-dispute-case-as-customer.md)**  
+-   **[Resume a Disputes intake via Virtual Agent dispute case as a customer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/resume-virtual-agent-dispute-case-as-customer.md)**  
 Learn how a customer can resume a card dispute case in Disputes intake via Virtual Agent when they close a Virtual Agent chat before submitting the case.
--   **[Review a customer interaction with Disputes intake via Virtual Agent](review-interaction-with-dispute-intake-virtual-agent.md)**  
+-   **[Review a customer interaction with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/review-interaction-with-dispute-intake-virtual-agent.md)**  
 Retrieve a chat interaction between a customer and Disputes intake via Virtual Agent to review a transcript of the conversation and confirm responses.
 
-**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
+**Parent Topic:**[Using generative AI in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/../../fso-common/concept/using-now-assist-for-financial-services-operations-fso.md)
 

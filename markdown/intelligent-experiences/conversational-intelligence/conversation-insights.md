@@ -22,15 +22,15 @@ Get started with Conversation Insights to integrate Inferred CSAT scores and fac
 
 <table id="table_u4v_4y5_xfc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Conversation Insights](exploring-conversation-insights.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Conversation Insights](exploring-conversation-insights.md)
 
 </td><td>
 
-[Install![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Conversation Insights](install-conversation-insights.md)
+[Install![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/../../../reuse/icons/brand-icons/bus-sdlc.svg)Install Conversation Insights](install-conversation-insights.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Additional information about Conversation Insights](conversation-insights-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/../../../reuse/icons/brand-icons/bus-learn.svg)Additional information about Conversation Insights](conversation-insights-reference.md)
 
 </td></tr></tbody>
 </table>## AI limitations
@@ -43,5 +43,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 

@@ -76,5 +76,5 @@ Default: true
 When set to **true**, repopulates the monitored CIs for given policies to show the distribution of CIs among proxy agents.Default: false
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agent Client Collector Framework reference](agent-client-collector-reference.md)
+</table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 

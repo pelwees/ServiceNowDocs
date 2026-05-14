@@ -34,7 +34,7 @@ Predictive Intelligence includes the following solution definitions for case man
 
 A solution definition predicts one or more output fields based on a configured input field. At least one solution definition must be active to use Predictive Intelligence with Customer Service Management.
 
-For more information, see [Predictive Intelligence for CSM solution definitions](predictive-intelligence-for-csm.md).
+For more information, see [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 
 ## Business rules
 
@@ -43,7 +43,7 @@ Predictive Intelligence also includes business rules for Customer Service Manage
 -   Default Case Based Prediction
 -   Update Prediction Results
 
-For more information, see [Predictive Intelligence for CSM solution definitions](predictive-intelligence-for-csm.md).
+For more information, see [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 
 ## Extension points
 

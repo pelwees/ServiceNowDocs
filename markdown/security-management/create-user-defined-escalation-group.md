@@ -31,12 +31,12 @@ Role required: sn\_si.admin
     |Initial group|Select group this security incident belongs to.|
     |Escalation group|Select group to escalate the security incident to.|
 
-    ![Escalation](../image/EscalationGroup.png)
+    ![Escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../image/EscalationGroup.png)
 
 4.  Select **Submit**.
 
     An escalation group is available for all security incidents in the initial group. You can create multiple groups.
 
 
-**Parent Topic:**[Security Operations user-defined escalation](../concept/user-defined-escalation.md)
+**Parent Topic:**[Security Operations user-defined escalation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../concept/user-defined-escalation.md)
 

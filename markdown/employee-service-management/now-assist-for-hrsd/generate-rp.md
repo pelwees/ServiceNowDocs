@@ -40,8 +40,8 @@ You can generate a case fulfillment plan from either Core UI or Agent Workspace 
     -   Type **Accept** to publish the AI-generated fulfillment plan to the work notes of the case.
     -   Type **Edit** to interactively revise the AI-generated fulfillment plan through a conversational interface.
     -   Type **Dismiss** to discard the AI-generated fulfillment plan.
-    ![Fulfillment plan for an HR case on Core UI](../image/generate-plan-ckm.png "Example of AI-generated fulfillment plan on Core UI")
+    ![Fulfillment plan for an HR case on Core UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../image/generate-plan-ckm.png "Example of AI-generated fulfillment plan on Core UI")
 
-    ![Fulfillment plan for an HR case on Agent Workspace for HR Case Management](../image/generate-plan.png "Example of AI-generated fulfillment plan on Agent Workspace for HR Case Management")
+    ![Fulfillment plan for an HR case on Agent Workspace for HR Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/../image/generate-plan.png "Example of AI-generated fulfillment plan on Agent Workspace for HR Case Management")
 
 

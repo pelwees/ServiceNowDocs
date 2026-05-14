@@ -29,7 +29,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
     The Theme Builder landing page opens in a new tab and is displayed in the Home page view.
 
-    ![Theme Builder Home screen.](../image/tb-ai-home.png "Theme Builder Home screen")
+    ![Theme Builder Home screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-ai-home.png "Theme Builder Home screen")
 
 2.  Select **Create a theme**.
 
@@ -44,7 +44,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     |**Upload brand image**|AI automatically extracts a color palette from your image .|
     |**Select __Handpick my colors__**|Manually choose your theme colors|
 
-    ![Theme Creation wizard showing the option to upload a brand image or handpick colors to generate a color palette.](../image/tb-nap-wizard-flow-2.png "Generate theme colors using AI or manual selection")
+    ![Theme Creation wizard showing the option to upload a brand image or handpick colors to generate a color palette.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-nap-wizard-flow-2.png "Generate theme colors using AI or manual selection")
 
 5.  If you chose to upload a brand image , generate your theme colors using AI.
 
@@ -60,7 +60,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
         **Note:** The AI detects up to eight colors from your image, with the two most dominant pre-selected as the primary and secondary. Any additional detected colors are suggested as available options that you can swap in as needed.
 
-        ![Theme Creation wizard showing primary and secondary colors with a color selector for adjusting the primary palette.](../image/tb-nap-wizard-flow-manage-colors.png)
+        ![Theme Creation wizard showing primary and secondary colors with a color selector for adjusting the primary palette.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-nap-wizard-flow-manage-colors.png)
 
     5.  Choose a new color from the color selector and select **Apply**.
 
@@ -72,7 +72,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
     1.  Select the Primary tile and choose your brand’s primary color from the color selector or enter a value using HEX, RGB, or HSL.
 
-        ![Your brand's primary color](../image/tb-select-primary-color.png "Your brand's primary color")
+        ![Your brand's primary color](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-select-primary-color.png "Your brand's primary color")
 
     2.  After you identify the primary color of your brand, select **Apply**.
 
@@ -96,7 +96,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
     **Note:** From this screen, you can edit any part of the theme before selecting **Create theme**. After the theme is created, any changes you make are automatically saved.
 
-    ![Final review screen showing theme information, brand colors, and a preview before creating the theme.](../image/tb-nap-wizard-flow-summary.png "Theme details and final preview before creation")
+    ![Final review screen showing theme information, brand colors, and a preview before creating the theme.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../image/tb-nap-wizard-flow-summary.png "Theme details and final preview before creation")
 
 
 ## Result
@@ -105,7 +105,7 @@ Your theme is saved as a draft in Theme Builder and appears in the Unpublished s
 
 ## What to do next
 
-After creating your theme in the wizard, you are directed to the Editor view of the theme where you can continue [modifying](tb-edit-theme.md) or [publish your theme](tb-apply-theme.md).
+After creating your theme in the wizard, you are directed to the Editor view of the theme where you can continue [modifying](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md) or [publish your theme](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[Theme creation with AI](../concept/theme-creation-with-ai.md)
+**Parent Topic:**[Theme creation with AI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/theme-creation-with-ai.md)
 

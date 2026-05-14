@@ -83,14 +83,14 @@ Description
 
 Use the report to add new information or to respond to investigator comments.
 
-**Parent Topic:**[Report an AI case anonymously](report-ai-case-anon.md)
+**Parent Topic:**[Report an AI case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case-anon.md)
 
 **Related topics**  
 
 
-[Report an AI case anonymously](report-ai-case-anon.md)
+[Report an AI case anonymously](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case-anon.md)
 
-[Anonymous Reporting Center](../../grc-common/concept/grc-anonymous-reporting-center.md)
+[Anonymous Reporting Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../../grc-common/concept/grc-anonymous-reporting-center.md)
 
-[AI cases and inquiries](../concept/airc-cases-inquiries.md)
+[AI cases and inquiries](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/../concept/airc-cases-inquiries.md)
 

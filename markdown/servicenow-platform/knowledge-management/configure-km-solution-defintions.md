@@ -244,16 +244,16 @@ Frequency with which the model for clustering solution definition must be retrai
 
 ## What to do next
 
-Complete the KB curation configuration form to define the scheduled jobs for demand insights. For more information, see [Configure the mapping of solution definitions with task tables](select-tasks-knowledge-bases.md).
+Complete the KB curation configuration form to define the scheduled jobs for demand insights. For more information, see [Configure the mapping of solution definitions with task tables](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/select-tasks-knowledge-bases.md).
 
 **Related topics**  
 
 
-[Predictive Intelligence for Knowledge Management](../concept/predictive-intelligence-for-km.md)
+[Predictive Intelligence for Knowledge Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/../concept/predictive-intelligence-for-km.md)
 
 [Create and train a similarity solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-similarity-solution.md)
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](analyze-knowledge-gaps-demand-insights.md)
+[Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 

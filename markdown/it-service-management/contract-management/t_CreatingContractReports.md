@@ -41,5 +41,5 @@ Role required: contract\_manager or admin
     |Expiring Contracts|All contracts expiring in the next 90 days.|
 
 
-**Parent Topic:**[Monitor a contract](t_MonitoringContracts.md)
+**Parent Topic:**[Monitor a contract](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_MonitoringContracts.md)
 

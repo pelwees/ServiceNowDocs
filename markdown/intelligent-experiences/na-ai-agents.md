@@ -23,30 +23,30 @@ Select a tile to get started with Now Assist AI agents.
 
 <table id="table_aj4_wxf_ldc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist AI agents](../concept/exploring-ai-agents.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-explore.svg)Learn more about Now Assist AI agents](../concept/exploring-ai-agents.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the agentic AI experience in AI Agent Studio](../concept/configuring-ai-agents.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the agentic AI experience in AI Agent Studio](../concept/configuring-ai-agents.md)
 
 </td><td>
 
-[Create an AI agent![](../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Create your own custom AI agents with advanced multi-agent reasoning frameworks](../task/configure-next-best-action-agent.md)
+[Create an AI agent![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-virtual-agent.svg)Create your own custom AI agents with advanced multi-agent reasoning frameworks](../task/configure-next-best-action-agent.md)
 
 </td></tr><tr><td>
 
-[Create an agentic workflow![](../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Create your agentic workflows with planned instructions and triggers](../task/configure-use-case-ai-agents.md)
+[Create an agentic workflow![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-ai-sparkle.svg)Create your agentic workflows with planned instructions and triggers](../task/configure-use-case-ai-agents.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the user roles, tables, and properties in Now Assist AI agents](na-aia-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../../reuse/icons/brand-icons/bus-learn.svg)Learn more about the user roles, tables, and properties in Now Assist AI agents](na-aia-reference.md)
 
 </td><td>
 
  
 
 </td></tr></tbody>
-</table>There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](../task/find-ai-agents.md).
+</table>There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../task/find-ai-agents.md).
 
 **Important:**
 
@@ -65,7 +65,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-admin/task/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [Now Assist documentation](../../now-assist-platform/concept/platform-now-assist-landing.md).
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-platform/concept/platform-now-assist-landing.md).
 

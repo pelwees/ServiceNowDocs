@@ -25,10 +25,10 @@ Use the self-configured app or pre-published app configuration based on the foll
 
 For best practices and guidelines, refer to the Knowledge base article: [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1586849](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1586849).
 
--   **[Setup for integrating pre-published apps with Microsoft Teams](setup-multi-tenant.md)**  
+-   **[Setup for integrating pre-published apps with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-multi-tenant.md)**  
 Prepare your environment to set up and configure your ServiceNow instance for Microsoft Teams integrations using the pre-published app configuration.
--   **[Setup for integrating self-configured apps with Microsoft Teams](setup-single-tenant.md)**  
+-   **[Setup for integrating self-configured apps with Microsoft Teams](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-single-tenant.md)**  
 Prepare your environment to set up and configure ServiceNow for Microsoft Teams integrations using the self-configured app.
 
-**Parent Topic:**[Integrating ServiceNow with Microsoft Teams and Microsoft 365](setup-sn-ms-teams.md)
+**Parent Topic:**[Integrating ServiceNow with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams.md)
 

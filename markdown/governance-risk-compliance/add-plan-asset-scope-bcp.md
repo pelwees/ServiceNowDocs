@@ -21,7 +21,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
 3.  Click **In Draft** state in the Planning list.
 
@@ -45,14 +45,14 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     **Note:**
 
-    -   If the BIA application is installed, then **RTO** and **RPO** fields are visible and non-editable. **BIA** field is visible and editable. You can attach a BIA by clicking the link BIA icon \(![Link BIA icon](../image/LinkBIAicon.png)\).
+    -   If the BIA application is installed, then **RTO** and **RPO** fields are visible and non-editable. **BIA** field is visible and editable. You can attach a BIA by clicking the link BIA icon \(![Link BIA icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/LinkBIAicon.png)\).
     -   If BIA is not installed, then **RTO** and **RPO** fields are visible and editable.
     -   If an approved BIA is attached to the plan, then **RTO**, **RPO**, and **BIA** fields are populated with values and they are read only and non-editable.
 9.  To update a plan asset or to link a BIA to it, click the asset in the **Name** column.
 
-    1.  Click the link BIA icon \(![Link BIA icon](../image/LinkBIAicon.png)\).
+    1.  Click the link BIA icon \(![Link BIA icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/LinkBIAicon.png)\).
 
-        If there is an approved BIA for the asset, then the BIA is automatically attached to the asset when you click the link. If you have adjusted the RTO and RPO values based on the criticality of an asset, then the Adjusted RTO and Adjusted RPO values take precedence over the system-calculated RTO and RPO values. The adjusted RTO and RPO values are displayed in the **Recovery Time Objective** and **Recovery Point Objective** fields when you click ![Link BIA icon](../image/LinkBIAicon.png).
+        If there is an approved BIA for the asset, then the BIA is automatically attached to the asset when you click the link. If you have adjusted the RTO and RPO values based on the criticality of an asset, then the Adjusted RTO and Adjusted RPO values take precedence over the system-calculated RTO and RPO values. The adjusted RTO and RPO values are displayed in the **Recovery Time Objective** and **Recovery Point Objective** fields when you click ![Link BIA icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/LinkBIAicon.png).
 
     2.  Click **Save**.
 

@@ -36,11 +36,11 @@ There are two ways to request a plugin:
 
 2.  On the All Applications page, select **Request Plugin** to open the Request form on HI.
 
-    ![Request Plugin button on the All Applications page.](../../../reuse/images/request-plugin.png)
+    ![Request Plugin button on the All Applications page.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../../reuse/images/request-plugin.png)
 
 3.  On Now Support, select the redirect link to access the Now Support Service Portal Service Catalog.
 
-    ![HI redirect to Service Catalog..](../../../reuse/images/hi-redirect.png)
+    ![HI redirect to Service Catalog..](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../../../reuse/images/hi-redirect.png)
 
 4.  Select your instance.
 
@@ -100,26 +100,26 @@ The Password Reset Windows Application enables a user, who forgets the password 
 
 Download the Password Windows Reset application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) and run an EXE or MSI file to install or distribute the application to user computers. The application installs a link on the Windows login screen. The user clicks the link \(**Forgot Password?** as depicted in the examples on various Windows versions\) and is then guided through the process of resetting the password.
 
-![Windows login screen](../image/password-reset-login-win10.png "Windows login screen")
+![Windows login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/password-reset-login-win10.png "Windows login screen")
 
-![Windows login screen](../image/password-reset-login-win8.png "Windows login screen")
+![Windows login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/password-reset-login-win8.png "Windows login screen")
 
-![Windows login screen](../image/password-reset-login-win7.png "Windows login screen")
+![Windows login screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../image/password-reset-login-win7.png "Windows login screen")
 
 By default, when a user requests a reset, the instance sends the user a URL with a user-specific token. After the user opens the URL, the instance prompts the user to enter and confirm the new password. The instance does not send a temporary password.
 
 ### Restrictions on the Password Reset Windows Application
 
 -   The Password Reset Windows Application does not support custom verifications.
--   The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA with the web interface. See the section titled "Settings on the Details tab" in [Configure your Password Reset process](../task/t_CreateAPasswordResetProcess.md). .
--   The Password strength indicator is not supported. See [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
--   For some verification types, you can use only one verification. Custom verifications are not supported. See [Password Reset verifications](c_PWRVerifications.md) for details.
+-   The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA with the web interface. See the section titled "Settings on the Details tab" in [Configure your Password Reset process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateAPasswordResetProcess.md). .
+-   The Password strength indicator is not supported. See [Configure the connection to a credential store for the Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateACredentialStore.md).
+-   For some verification types, you can use only one verification. Custom verifications are not supported. See [Password Reset verifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PWRVerifications.md) for details.
 -   Custom UI macros configured on the **Process** &gt; **Advanced** page are not supported \(for example, entry, success, or failure macros\). The system displays only the default success and failure messages.
--   The Password Reset Windows Application supports newline characters in the **Password rule hint** text. Other formatting is not supported \(bold, underline, hyperlink, and so on\). See [Configure the connection to a credential store for the Password Reset processes](../task/t_CreateACredentialStore.md).
+-   The Password Reset Windows Application supports newline characters in the **Password rule hint** text. Other formatting is not supported \(bold, underline, hyperlink, and so on\). See [Configure the connection to a credential store for the Password Reset processes](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/../task/t_CreateACredentialStore.md).
 
 ### Password Reset Windows Application installation requirements
 
-Activate the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin and activate the Microsoft AD for Password Reset store app to use the Password Reset Windows Application. You must [activate the Password Reset Windows App](setup-guide-ad.md#) to use the Password Reset Windows Application.
+Activate the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin and activate the Microsoft AD for Password Reset store app to use the Password Reset Windows Application. You must [activate the Password Reset Windows App](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/setup-guide-ad.md#) to use the Password Reset Windows Application.
 
 <table id="table_sjp_y3t_2r"><thead><tr><th>
 

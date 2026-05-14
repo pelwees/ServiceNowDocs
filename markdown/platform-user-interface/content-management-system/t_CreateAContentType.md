@@ -95,5 +95,5 @@ Write an XML script that determines how to display the associated information af
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Content types](../concept/c_ContentTypes.md)
+**Parent Topic:**[Content types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentTypes.md)
 

@@ -26,7 +26,7 @@ By using the order orchestration UI, you can perform the following actions:
 -   Determine the current state of the associated order line items, domain orders, and order tasks.
 -   Identify any order delays or fallouts in the order fulfillment process, and resolve them on time.
 
-To learn more, see [Using the order orchestration UI](../concept/orchestration-plans-for-order-fulfillment.md).
+To learn more, see [Using the order orchestration UI](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/orchestration-plans-for-order-fulfillment.md).
 
 ## Procedure
 
@@ -153,20 +153,20 @@ System-assigned domain product or order task number.
 
 Current state of the domain product or order task. To learn more, see:
 
-    -   [Customer order states](../reference/order-mgt-state-values.md)
-    -   [Service order states](../reference/service-order-mgt-state-values.md)
+    -   [Customer order states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/order-mgt-state-values.md)
+    -   [Service order states](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../reference/service-order-mgt-state-values.md)
 
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-[Review and close fulfillment tasks](order-mgt-customer-order-tasks.md)
+[Review and close fulfillment tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-tasks.md)
 
-**Parent Topic:**[Order fulfillment](../concept/reviewing-orchestration-plans-order-fulfillment.md)
+**Parent Topic:**[Order fulfillment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../concept/reviewing-orchestration-plans-order-fulfillment.md)
 
 **Related topics**  
 
 
-[View an order timeline](view-order-timelines.md)
+[View an order timeline](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/view-order-timelines.md)
 

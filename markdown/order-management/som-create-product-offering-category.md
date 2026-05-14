@@ -138,5 +138,5 @@ Product code for the category. The system automatically generates a code based o
 
 ## What to do next
 
-[Create product offerings](som-create-product-offering.md).
+[Create product offerings](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md).
 

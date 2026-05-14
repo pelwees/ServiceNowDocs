@@ -27,7 +27,7 @@ Role required: admin
 
 2.  Select Retrieve to find your upgrade plan.
 
-    ![Upgrade Plans screen.](../image/uc-retrieve-install.png)
+    ![Upgrade Plans screen.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-retrieve-install.png)
 
 3.  Search your upgrade plan by name.
 
@@ -39,21 +39,21 @@ Role required: admin
 
 6.  Select **Install** to install the upgrade plan to your instance.
 
-    ![Upgrade plan.](../image/uc-plan-install.png)
+    ![Upgrade plan.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-plan-install.png)
 
     **Note:** If you made any changes to the upgrade plan on the builder instance after installing it on the consumer instance, then update the upgrade plan to the latest version.
 
 
-**Parent Topic:**[Preparing your upgrade plan](../concept/uc-prepare-up.md)
+**Parent Topic:**[Preparing your upgrade plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../concept/uc-prepare-up.md)
 
 **Related topics**  
 
 
-[Building your Upgrade Plan](uc-building-upgrade-plan.md)
+[Building your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-building-upgrade-plan.md)
 
-[Refreshing your Upgrade Plan](uc-refreshing-upgrade-plan.md)
+[Refreshing your Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-refreshing-upgrade-plan.md)
 
-[Prepare to upgrade with Upgrade Plan](uc-prepare-upgrade-plan.md)
+[Prepare to upgrade with Upgrade Plan](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-prepare-upgrade-plan.md)
 
-[Apply Upgrade Plan on your upgrade](uc-apply-upgrade-plan.md)
+[Apply Upgrade Plan on your upgrade](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-apply-upgrade-plan.md)
 

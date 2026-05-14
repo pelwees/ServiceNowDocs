@@ -32,7 +32,7 @@ For more information about the Card Base Container, see the [Components](https:/
 3.  In the **Config** tab, set the interaction and aria properties.
 
     -   From the **Interaction** menu, select **Click**.
-    -   In the Accessibility section, select the Dynamic data binding icon ![Dynamic data binding icon](../image/dynamic-data-binding-icon.png)
+    -   In the Accessibility section, select the Dynamic data binding icon ![Dynamic data binding icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/dynamic-data-binding-icon.png)
     -   From the **ARIA Properties** list, select **@state.cardProps.aria**.
 4.  Select the **Events** tab.
 
@@ -53,5 +53,5 @@ For more information about the Card Base Container, see the [Components](https:/
 
 [Configure a Work scheduler card heading component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-card-based-header.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 

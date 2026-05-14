@@ -55,14 +55,14 @@ When a ticket is closed, the system triggers auto import for one last time and p
 
 If there is an interaction record associated with the parent record then interaction record is also closed. The chat record is also closed as a part of this flow.
 
--   **[Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat](oncall-users-start-zoom-chat.md)**  
+-   **[Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/oncall-users-start-zoom-chat.md)**  
 On-call Scheduling users will be shown for Start Zoom Team Chat for an incident record.
--   **[Customize the Zoom chat form](../task/create-chat-config-customize-zoom-chat-form.md)**  
+-   **[Customize the Zoom chat form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/create-chat-config-customize-zoom-chat-form.md)**  
 Customize the chat form for additional ServiceNow® Collaboration services tables by creating a chat configuration.
--   **[Create requester mapping](../task/create-requester-mapping-zoom.md)**  
+-   **[Create requester mapping](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/create-requester-mapping-zoom.md)**  
 Create a requester mapping to extend the Zoom chat functionality to other tables.
--   **[Define how a Zoom chat is closed](../task/configure-close-condition-zoom.md)**  
+-   **[Define how a Zoom chat is closed](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../task/configure-close-condition-zoom.md)**  
 Define the way a Zoom chat is closed.
 
-**Parent Topic:**[Enhance employee experience by integrating ServiceNow with Zoom](enhance-emp-exp-integrating-sn-zoom.md)
+**Parent Topic:**[Enhance employee experience by integrating ServiceNow with Zoom](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhance-emp-exp-integrating-sn-zoom.md)
 

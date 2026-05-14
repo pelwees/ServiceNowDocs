@@ -30,10 +30,10 @@ After you create a policy, you can map it to a deployable to invoke the policy w
 
 You can view all policies mapped to deployables of an application by selecting the **View mapped policies** option on the **Policies** tab on the Application form. Select a deployable from the list to view policies mapped to it using both static mapping or dynamic mapping.
 
-![Policies tab on the Application form to view all mappings and manage static mappings.](../../configuration-data-management/image/cdm-app-policies-tab.png "Policies tab on the Application form")
+![Policies tab on the Application form to view all mappings and manage static mappings.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../configuration-data-management/image/cdm-app-policies-tab.png "Policies tab on the Application form")
 
--   **[Map policies to a deployable](../../configuration-data-management/task/cdm-deployable-map-policy-to.md)**  
+-   **[Map policies to a deployable](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/../../configuration-data-management/task/cdm-deployable-map-policy-to.md)**  
 Map policies to a deployable to define the validation processes that the config data must pass.You can map policies to a deployable using static mapping or dynamic mapping.
 
-**Parent Topic:**[Configuring DevOps Config](setting-up-devops-config-validation.md)
+**Parent Topic:**[Configuring DevOps Config](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/devops-family/setting-up-devops-config-validation.md)
 

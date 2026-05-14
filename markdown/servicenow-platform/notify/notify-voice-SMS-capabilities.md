@@ -17,8 +17,8 @@ Notify provides support for SMS and voice channels for communicating internally 
 
 Notify provides a way for applications to start and manage a conference, send/receive SMS, send/receive calls and present them with IVR like system.
 
--   **[How Notify processes incoming calls](c_ProcessingNotifyCalls.md)**  
+-   **[How Notify processes incoming calls](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_ProcessingNotifyCalls.md)**  
 Notify processes incoming calls using workflow activities.
 
-**Parent Topic:**[Exploring Notify](exploring-notify.md)
+**Parent Topic:**[Exploring Notify](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/notify/exploring-notify.md)
 

@@ -74,5 +74,5 @@ To view email composer and all its associated features, which include viewing yo
 -   The email\_composer role should be added as a contained role for the base fulfiller or agent \[sn\_spend\_sdc.agent\] role, for the user to view the email composer feature.
 -   The response template reader \[sn\_templated\_snip.template\_snippet\_reader\] role should be added for the user to view the response template feature.
 
-**Parent Topic:**[Procurement Case Management](psd-overview.md)
+**Parent Topic:**[Procurement Case Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psd-overview.md)
 

@@ -89,5 +89,5 @@ Investment class category assigned to the investment:-   **Run**: Investment mad
 5.  Click **Submit**.
 
 
-**Parent Topic:**[Create an investment](create-investment.md)
+**Parent Topic:**[Create an investment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-investment.md)
 

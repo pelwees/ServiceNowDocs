@@ -23,7 +23,7 @@ Use the **Unassign** option when a finding or remediation task is not relevant t
 
 ## Unassigning from findings and remediation tasks
 
-You can unassign records in any state except Closed or Resolved, using the **Unassign** button or the More options menu \(![Vertical dots](../../security-incident-response/image/more-actions-icon.png)\).
+You can unassign records in any state except Closed or Resolved, using the **Unassign** button or the More options menu \(![Vertical dots](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../security-incident-response/image/more-actions-icon.png)\).
 
 **Supported Records**:
 
@@ -79,12 +79,12 @@ Each reassigned record retains a reference to its original assignment rule. The 
 
 The following example shows reassignment counts for two assignment rules.
 
-![Reassignment counts for two assignment rules for Vulnerability Response VITs.](../../vulnerability-response/image/vr-reassignment-counts.png)
+![Reassignment counts for two assignment rules for Vulnerability Response VITs.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/../../vulnerability-response/image/vr-reassignment-counts.png)
 
-**Parent Topic:**[Assigning findings to remediation teams using assignment rules](sem-assigning-findings-to-remediation-teams.md)
+**Parent Topic:**[Assigning findings to remediation teams using assignment rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-assigning-findings-to-remediation-teams.md)
 
 **Related topics**  
 
 
-[Remove assignments from findings and remediation tasks](sem-configure-assignment-rules.md#)
+[Remove assignments from findings and remediation tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/sem-configure-assignment-rules.md#)
 

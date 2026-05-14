@@ -24,7 +24,7 @@ For any time that you specify, you can view the details for closed cases that br
 
 ## Access the Financial Services Personal Deposit Operations dashboard
 
-To access the Financial Services Personal Deposit Operations dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
+To access the Financial Services Personal Deposit Operations dashboard, navigate to **Workspaces** &gt; **Financial Services Workspace** &gt; **Analytics Center** \(![Analytics center icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/financial-services-operations/../../../product/fso-personal-lines-claims/image/analytics-center-icon.png)\).
 
 Alternatively, navigate to **All** &gt; **Deposit Operations** &gt; **Analytics**.
 

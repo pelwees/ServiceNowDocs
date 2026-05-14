@@ -25,24 +25,24 @@ Role required: itil, itil\_admin, or admin
 
 2.  In **My work** tab, tap **See All**.
 
-    ![My work.](../image/my-work-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/my-work-itsm-mobile.png)
 
 3.  Open the incident where the conference call is originated.
 
 4.  Tap **Collaborate**.
 
-    ![My work.](../image/incident-collaborate-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/incident-collaborate-itsm-mobile.png)
 
 5.  Tap on the active conference call.
 
-    ![My work.](../image/active-call-inc-itsm-mobile.png)
+    ![My work.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/active-call-inc-itsm-mobile.png)
 
 6.  Tap on the conference call.
 
 7.  Tap **Join call**.
 
-    ![Join active conf call](../image/join-call-inc-itsm-mobile2.png)
+    ![Join active conf call](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../image/join-call-inc-itsm-mobile2.png)
 
 
-**Parent Topic:**[Collaboration with incidents](../concept/collaboration-incident-itsm-mobile.md)
+**Parent Topic:**[Collaboration with incidents](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/../concept/collaboration-incident-itsm-mobile.md)
 

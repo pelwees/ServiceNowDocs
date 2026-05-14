@@ -16,7 +16,7 @@ Vibe coding is an AI-driven approach to application development. Use vibe coding
 
 Autonomous app development on the ServiceNow AI Platform is vibe coding.
 
-![Apps inherit the security and governance from the ServiceNow AI Platform](../image/vc-platform-inherit.png "Apps inherit from the ServiceNow AI Platform")
+![Apps inherit the security and governance from the ServiceNow AI Platform](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../image/vc-platform-inherit.png "Apps inherit from the ServiceNow AI Platform")
 
 Vibe coding and using AI to build apps with the ServiceNow AI Platform collapses the traditional app development lifecycle—from ideation to deployment—into minutes instead of weeks.
 
@@ -46,7 +46,7 @@ You can vibe code and develop with AI using any number of products on the market
 
 The ServiceNow AI Platform vibe coding and AI-assisted development tools have direct access to the existing data models, ACLs, business rules, and automation patterns in your instance. When you use ServiceNow AI products to create an application, the tools already have access to your table structures, security setup, and how workflows are configured in your instance. This context depth enables you to generate code that fits your environment rather than generic code that needs adapting.
 
-Additionally, governance is built in to ServiceNow AI Platform vibe coding and AI-assisted development tools, so your applications are secure. For more information, see [Governance for vibe coding and AI-assisted app development](vc-governance.md).
+Additionally, governance is built in to ServiceNow AI Platform vibe coding and AI-assisted development tools, so your applications are secure. For more information, see [Governance for vibe coding and AI-assisted app development](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/vc-governance.md).
 
 Your app doesn't have to be completely developed inside the ServiceNow AI Platform to take advantage of its offerings. A standalone app that's vibe coded can still connect to a ServiceNow AI Platform data model. Your end users don't have to know it's ServiceNow, for example, if the app looks completely different, fulfillers can still use workspaces to track requests from a Service Portal.
 
@@ -54,19 +54,19 @@ Your app doesn't have to be completely developed inside the ServiceNow AI Platfo
 
 <table id="table_t4c_zrt_mhc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Explore vibe coding and AI-assisted development on the ServiceNow AI Platform.](exploring-vibe-coding.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-explore.svg)Explore vibe coding and AI-assisted development on the ServiceNow AI Platform.](exploring-vibe-coding.md)
 
 </td><td>
 
-[Onboard![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Browse information on onboarding with AI-assisted development.](vibe-coding-onboarding.md)
+[Onboard![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-sdlc.svg)Browse information on onboarding with AI-assisted development.](vibe-coding-onboarding.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-learn.svg)Create, test, and deploy applications with AI-assisted development tools.](vibe-coding-using.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-learn.svg)Create, test, and deploy applications with AI-assisted development tools.](vibe-coding-using.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Reference information for AI-assisted development, such as prompt examples.](../reference/vibe-coding-reference-landing.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/../../../reuse/icons/brand-icons/bus-learn.svg)Reference information for AI-assisted development, such as prompt examples.](../reference/vibe-coding-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Helpful resources

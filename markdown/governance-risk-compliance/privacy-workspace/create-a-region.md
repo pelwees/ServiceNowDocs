@@ -34,8 +34,8 @@ When you create a region, it is necessary to set the **Parent** field as empty.
 4.  Select **Submit**.
 
 
--   **[Create a jurisdiction for a region](create-a-jurisdiction.md)**  
+-   **[Create a jurisdiction for a region](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-jurisdiction.md)**  
 Create jurisdictions for regions for data breach notification obligations as each obligation is broken down by jurisdiction. Jurisdiction can be created two levels below a region.
 
-**Parent Topic:**[Configuring privacy breach assessment](../concept/configure-privacy-breach-assessment.md)
+**Parent Topic:**[Configuring privacy breach assessment](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/../concept/configure-privacy-breach-assessment.md)
 

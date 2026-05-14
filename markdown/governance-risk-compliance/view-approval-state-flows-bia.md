@@ -21,7 +21,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager, sn\_bcm.viewer
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  Click the lists icon \(![Lists icon](../../grc-workspace-audit/image/ListsIcon.jpg)\).
+2.  Click the lists icon \(![Lists icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../../grc-workspace-audit/image/ListsIcon.jpg)\).
 
     You can view approval records for a business impact analysis \(BIA\) that is any state except **Draft** and **In Review** states.
 

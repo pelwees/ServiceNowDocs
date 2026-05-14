@@ -25,7 +25,7 @@ Role required: sn\_si.write
 
 2.  Select **New**.
 
-    ![Add a new on-demand orchestration](../image/on-demand-orch.png)
+    ![Add a new on-demand orchestration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/on-demand-orch.png)
 
 3.  Fill in the fields, as appropriate.
 

@@ -21,5 +21,5 @@ The Code Signing Configuration dashboard displays the following reports:
 |Value|Text field|Current state or input assigned to a specific setting. It determines how the setting behaves. For example, whether Code Signing is enabled \(true\) or disabled \(false\). The value directly affects the system’s Code Signing operations and enforcement.|
 |Last Updated|Text field|Most recent date and time when the setting was modified in the following format: `DD/MM/YY/H:S (Day/Month/Year/Hour:Minute)`|
 
-**Parent Topic:**[Code Signing Health and Status Dashboard](code-signing-health-and-status-dashboard.md)
+**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 

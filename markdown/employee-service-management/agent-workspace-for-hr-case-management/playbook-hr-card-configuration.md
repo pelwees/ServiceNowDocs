@@ -69,7 +69,7 @@ Activity type
 
 </td><td>
 
-The activity type from a lifecycle event activity. Activity types can be approvals, employee activities, fulfiller activities, notifications, and more. **Note:** For more information, see [Configure the supporting components for a lifecycle event](../concept/configure-supporting-components-for-lifecycle-event.md).
+The activity type from a lifecycle event activity. Activity types can be approvals, employee activities, fulfiller activities, notifications, and more. **Note:** For more information, see [Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../concept/configure-supporting-components-for-lifecycle-event.md).
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Footer
 
 </td><td>
 
-Information you want to appear in the footer of an HR Playbook card.Enter text or click the pill picker icon ![Pill picker icon](../image/playbook-hr-pill-picker-icon.png) to display references you can select from to automate the placement of information.
+Information you want to appear in the footer of an HR Playbook card.Enter text or click the pill picker icon ![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-pill-picker-icon.png) to display references you can select from to automate the placement of information.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Icon
 
 </td><td>
 
-Displays an icon that appears in the upper, left-side of the card.Click the Lookup using list icon ![Lookup using list icon](../image/magnifying-glass.png) to select the icon you want to appear.
+Displays an icon that appears in the upper, left-side of the card.Click the Lookup using list icon ![Lookup using list icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/magnifying-glass.png) to select the icon you want to appear.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Description
 
 </td><td>
 
-Select the pill picker icon ![Pill picker icon](../image/playbook-hr-pill-picker-icon.png) to display a description on the card. **Note:** This is not a free-form field, you must select from the available
+Select the pill picker icon ![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-pill-picker-icon.png) to display a description on the card. **Note:** This is not a free-form field, you must select from the available
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Title
 
 </td><td>
 
-The title of the card. You can enter free-form text or select from the list after clicking the pill picker icon ![Pill picker icon](../image/playbook-hr-pill-picker-icon.png).
+The title of the card. You can enter free-form text or select from the list after clicking the pill picker icon ![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-pill-picker-icon.png).
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Form fields
 
 Displays a vertical column of fields that render below the row of record fields.**Note:** The fields are editable when at least one button on the card says **Form fields required**.
 
- You can enter comma separated text or select fields by clicking the pill picker icon ![Pill picker icon](../image/playbook-hr-pill-picker-icon.png).
+ You can enter comma separated text or select fields by clicking the pill picker icon ![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-pill-picker-icon.png).
 
  The fields you select appear as a column on the left-side of the card.
 
@@ -212,7 +212,7 @@ Assigned to
 
 </td><td>
 
-Identifies the **Assigned to** agent.You can enter free-form text or select from the references after clicking the pill picker icon ![Pill picker icon](../image/playbook-hr-pill-picker-icon.png).
+Identifies the **Assigned to** agent.You can enter free-form text or select from the references after clicking the pill picker icon ![Pill picker icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/../image/playbook-hr-pill-picker-icon.png).
 
  The name appears next to the title.
 

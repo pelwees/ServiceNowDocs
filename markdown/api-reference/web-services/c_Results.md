@@ -19,5 +19,5 @@ If you have followed the tutorial correctly, you should receive the result wheth
 
 ![](../image/DotNetTutorialResults.png)
 
-**Parent Topic:**[Web services C Sharp .NET end to end tutorial](c_CSharpNETEndEnd.md)
+**Parent Topic:**[Web services C Sharp .NET end to end tutorial](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_CSharpNETEndEnd.md)
 

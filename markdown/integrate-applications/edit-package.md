@@ -15,7 +15,7 @@ Edit an existing package in RPA Hub to modify the details such as the name or de
 
 ## Before you begin
 
-Create a package. For more information, see [Create a package to assign to a bot process](create-package.md#).
+Create a package. For more information, see [Create a package to assign to a bot process](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/create-package.md#).
 
 Ensure that the package isn’t associated to a bot process. Verify that the life-cycle stage of the package is **In-maintenance** on the package form.
 
@@ -25,7 +25,7 @@ Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, 
 
 1.  Navigate to **All** &gt; **Robotic Process Automation** &gt; **RPA Hub Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/rpahublist-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../image/rpahublist-icon.png)\).
 
 3.  On the **Lists** tab, under **Build**, select **Packages**.
 
@@ -40,10 +40,10 @@ Role required: sn\_rpa\_fdn.rpa\_developer, sn\_rpa\_fdn.rpa\_release\_manager, 
 7.  In the **Activity** and **Compose** fields, view the activity of the form, work notes, and additional comments.
 
 
-**Parent Topic:**[Package and package version in RPA Hub](../concept/package-version-rpa-hub.md)
+**Parent Topic:**[Package and package version in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/package-version-rpa-hub.md)
 
 **Related topics**  
 
 
-[Bot Process form in RPA Hub](select-botprocess.md#)
+[Bot Process form in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/select-botprocess.md#)
 

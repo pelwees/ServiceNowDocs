@@ -51,7 +51,7 @@ Users with the sn\_aia\_admin role can access the workflow.
 2.  Select the **AI agents** tab.
 3.  Select **OData Service Recommender**.
 
-    ![OData Service Recommender page with information about the workflow.](../images/erp-odata-services-workflow-listing.jpg)
+    ![OData Service Recommender page with information about the workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-odata-services-workflow-listing.jpg)
 
 4.  Review the description, role, and steps. For more information, see [Define key requirements for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-key-requirements.md).
 5.  Select **Continue** and review the tools that the OData Service Recommender AI agent uses. For more information, see [Add tools and information to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-tool-aia.md).
@@ -70,7 +70,7 @@ The OData Service Recommender AI agent interprets your query, identifies the mos
 1.  Select the Now Assist icon \(![](../images/now-assist-sparkle-icon-dark.png)\) from anywhere in your instance to open the Now Assist panel.
 2.  Ask for information in plain language. For example, `I’d like to connect to an OData service to read all sales orders`. Be as specific as possible about the data and the source system to improve the quality of the recommendation.
 
-    ![Now Assist panel with question typed in.](../images/erp-odata-services-ai-workflow1.jpg)
+    ![Now Assist panel with question typed in.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-odata-services-ai-workflow1.jpg)
 
     The agent does the following:
 
@@ -84,11 +84,11 @@ The OData Service Recommender AI agent interprets your query, identifies the mos
 4.  If an existing data model is found for the configuration, select the link provided to open the created data model. If no data model exists, go to the next step.
 5.  If no data model exists and you'd like to create one, select **Yes** and follow the agent's guidance.
 
-    ![AI agent conversation asking if you want to create a data model with buttons for yes and no.](../images/erp-odata-services-ai-workflow2.jpg)
+    ![AI agent conversation asking if you want to create a data model with buttons for yes and no.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-odata-services-ai-workflow2.jpg)
 
     The agent creates a data model with the correct endpoint and CRUD operation.
 
-    ![AI agent conversation with name, endpoint, and crud operation for the new OData data model.](../images/erp-odata-services-ai-workflow3.jpg)
+    ![AI agent conversation with name, endpoint, and crud operation for the new OData data model.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../images/erp-odata-services-ai-workflow3.jpg)
 
 6.  Select the link provided to open the created data model.
 7.  Validate and confirm that the generated model meets your requirements.

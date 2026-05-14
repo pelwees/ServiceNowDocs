@@ -21,7 +21,7 @@ Role required: admin
 
 1.  In the web-based UI, enter `sys_sg_push_action.list` in the filter navigator to open the push action categories list.
 
-    ![Use the filter navigator to open the push action category list](../image/open-action.png)
+    ![Use the filter navigator to open the push action category list](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/open-action.png)
 
 2.  In the push action categories list, click **New**.
 
@@ -39,5 +39,5 @@ Role required: admin
 4.  Click **Save**.
 
 
-**Parent Topic:**[Configure actionable push notifications](../concept/actionable-push-notification.md)
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../concept/actionable-push-notification.md)
 

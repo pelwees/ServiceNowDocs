@@ -25,21 +25,21 @@ Role required: sn\_bcm.admin
 
     The impact rating template is shown in the example.
 
-    ![Impact rating template.](../image/impact-rating-new.png)
+    ![Impact rating template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-rating-new.png)
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [Impact Rating record form](../reference/impact-rating-new-record-form.md).
+    For more information on the fields in the form, see [Impact Rating record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/impact-rating-new-record-form.md).
 
     The example shows an impact rating from the demo data.
 
-    ![Impact rating example.](../image/impact-rating-example.png)
+    ![Impact rating example.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/impact-rating-example.png)
 
 4.  Select **Submit**.
 
 
--   **[Impact Rating record form](../reference/impact-rating-new-record-form.md)**  
+-   **[Impact Rating record form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/impact-rating-new-record-form.md)**  
 Use the Impact Rating record form to assess an impact category such as low, moderate, high, or critical by using BCM UIB Workspace.
 
-**Parent Topic:**[General administration setup for BCM](../concept/set-up-bcm-bcmadmin-tasks.md)
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/set-up-bcm-bcmadmin-tasks.md)
 

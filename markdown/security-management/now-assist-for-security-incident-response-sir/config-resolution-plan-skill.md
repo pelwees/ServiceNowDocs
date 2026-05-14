@@ -32,7 +32,7 @@ Role required: sn\_si.admin
 
     The Now Assist skills for Security Operations page displays the list of available skills.
 
-3.  In the Security Incident resolution plan tile, select ![More actions icon.](../../security-incident-response/image/cj-sir-flow-more-icon.png)
+3.  In the Security Incident resolution plan tile, select ![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/../../security-incident-response/image/cj-sir-flow-more-icon.png)
 
 4.  Select **Edit**.
 

@@ -17,12 +17,12 @@ Application services enable you to structure your application landscape, specify
 
 Application services support business capabilities by offering specific application capabilities.
 
-**Parent Topic:**[Exploring the application portfolio](eaw-app-portfolio.md)
+**Parent Topic:**[Exploring the application portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-app-portfolio.md)
 
 **Related topics**  
 
 
-[View all application services](../../task/eaw-task/eaw-view-all-app-services.md)
+[View all application services](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-app-services.md)
 
-[Add or edit an application service in the Enterprise Architecture Workspace](../../task/eaw-task/eaw-add-appl-service.md)
+[Add or edit an application service in the Enterprise Architecture Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-add-appl-service.md)
 

@@ -18,7 +18,7 @@ Discovery and Service Mapping Patterns finds Azure Classic Load Balancers on you
 
 ## Pattern-based discovery and mapping requirements
 
-Verify the Azure discovery prerequisites section in [Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md).
+Verify the Azure discovery prerequisites section in [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md).
 
 ## Data collected by Discovery during horizontal discovery
 
@@ -70,5 +70,5 @@ The Azure - Classic LB \(LP\) pattern creates these relationships to support Azu
 
 The Azure LoadBalancer TD pattern performs top-down discovery of Azure Classic Load Balancers. Service Mapping discovers cluster connections from the load balancer service to backend pool member IP addresses using either load balancing rules or inbound NAT rules.
 
-**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](azure-cloud-discovery-patterns.md)
+**Parent Topic:**[Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 

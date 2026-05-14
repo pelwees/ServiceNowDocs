@@ -19,31 +19,31 @@ Video overview of domain separation
 
 <table id="table_ljj_gy1_npb"><tbody><tr><td>
 
-![Featured content](../image/icon-rec-practices.png)
+![Featured content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-rec-practices.png)
 
 </td><td>
 
-[Recommended practices](bp-domain-sep-recommended.md)
+[Recommended practices](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
  Tips and tricks for creating and developing your domain structure wisely
 
- [Concepts for service providers](../concept/sp-concepts.md)
+ [Concepts for service providers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/sp-concepts.md)
 
  Concepts that work with the ServiceNow platform to help you solve for common use cases
 
 </td><td>
 
-![Application support levels](../image/icon-support-level.png)
+![Application support levels](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-support-level.png)
 
 </td><td>
 
-[Support levels by application](domain-separated-apps.md)
+[Support levels by application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md)
 
  Is your application supported for domain separation? See support levels and use cases.
 
 </td></tr><tr><td>
 
-![Take a class](../image/icon-class.png)
+![Take a class](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-class.png)
 
 </td><td>
 
@@ -52,7 +52,7 @@ Classes
  -   For developers: [ServiceNow Developer Site Domain Separation](https://developer.servicenow.com/dev.do#!/learn/courses/sandiego/app_store_learnv2_domainseparation_sandiego_domain_separation)
 -   For service providers: [Domain Separation for Service Providers \(ServiceNow University login required\)](https://nowlearning.service-now.com/lxp?id=overview&sys_id=c3efc5ae1bdb0c101a9b415dee4bcb5d&type=path)
 
- ![Emergency response applications](../image/icon-emergency.png)
+ ![Emergency response applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-emergency.png)
 
 </td><td>
 
@@ -66,20 +66,20 @@ Classes
 
 </td></tr><tr><td>
 
-![Setup and administration](../image/icon-setup.png)
+![Setup and administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-setup.png)
 
 </td><td>
 
-[Setup and administration](../concept/c_DomainSeparationSetup.md)
+[Setup and administration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/c_DomainSeparationSetup.md)
 
  -   [Upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md)
--   [Request domain separation](../task/t_ActivateDomainSeparation.md)
--   [Create a domain](../task/t_CreateADomain.md)
--   [Configuration that can be delegated to internal or external customers](../concept/ds-before-you-begin.md)
+-   [Request domain separation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_ActivateDomainSeparation.md)
+-   [Create a domain](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../task/t_CreateADomain.md)
+-   [Configuration that can be delegated to internal or external customers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../concept/ds-before-you-begin.md)
 
 </td><td>
 
-![Troubleshoot](../image/icon-troubleshoot.png)
+![Troubleshoot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/../image/icon-troubleshoot.png)
 
 </td><td>
 

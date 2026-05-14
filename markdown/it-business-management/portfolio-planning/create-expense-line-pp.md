@@ -57,7 +57,7 @@ Description
 
 </td><td>
 
-1.  Select the options ![Option to add expense lines.](../../spw-financials/images/fin-options.png) from a cell.
+1.  Select the options ![Option to add expense lines.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-options.png) from a cell.
 2.  Select **Add expense lines**.
 
 
@@ -67,14 +67,14 @@ Description
 
 </td><td>
 
-Select **New expense line** using the More actions option.![GIF showing the selection of new expense line option.](../../spw-financials/images/fin-new-expense-line-option-gif.gif)
+Select **New expense line** using the More actions option.![GIF showing the selection of new expense line option.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../../spw-financials/images/fin-new-expense-line-option-gif.gif)
 
 **Note:** Use this option to record and calculate any unplanned expenses.
 
 </td></tr></tbody>
 </table>4.  On the Create expense line form, fill the fields.
 
-    For a description of the field names, see [Create expense line form](../reference/create-exp-line-form-pp.md).
+    For a description of the field names, see [Create expense line form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/../reference/create-exp-line-form-pp.md).
 
 5.  Select **Save**.
 

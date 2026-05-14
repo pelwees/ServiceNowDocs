@@ -33,11 +33,11 @@ Workflow versions and impacts work together to filter control objectives:
 
 2.  Select a Workflow Configuration from the list to add the version.
 
-    ![Selecting workflow.](../image/WF-version-and-impact1.png)
+    ![Selecting workflow.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-version-and-impact1.png)
 
 3.  On the **Versions** tab, select **New** to add a version.
 
-    ![Selecting new version.](../image/WF-version-and-impact2.png)
+    ![Selecting new version.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-version-and-impact2.png)
 
     A new version record page displays to add the version details to the selected workflow configuration.
 
@@ -92,7 +92,7 @@ Filter condition
 Enter the condition to filter control objectives for this version.**Note:** When configuring filter conditions for impact, the version filter conditions now appear on the same screen for reference.
 
 </td></tr></tbody>
-</table>    ![New version fields.](../image/WF-version-and-impact3.png)
+</table>    ![New version fields.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/../image/WF-version-and-impact3.png)
 
 5.  Select **Submit** to add the new version to the selected workflow configuration.
 
@@ -105,5 +105,5 @@ The workflow version is available for selection in authorization packages based 
 
 ## What to do next
 
-[Add impact to version](add-impact-to-version.md)
+[Add impact to version](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-impact-to-version.md)
 

@@ -27,11 +27,11 @@ To test a script include with the Automated Test Framework, create a test that p
 
 This example shows a test with one test step: Run Server Side Script. The script associated with this test step calls a script include that returns the value of its argument plus three. If the value returned from the script include is 8, the script include has worked as intended and the test passes.
 
-![Automated test to test a script include](../image/atf-script-include.png "Automated Test to test a script include")
+![Automated test to test a script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-script-include.png "Automated Test to test a script include")
 
-![Run server side script test step](../image/atf-server-side-script-01.png "Automated test step for testing script include")
+![Run server side script test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-server-side-script-01.png "Automated test step for testing script include")
 
-![Script include](../image/atf-server-side-script-02.png "Script include to test with Automated Test Framework")
+![Script include](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-server-side-script-02.png "Script include to test with Automated Test Framework")
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-use-cases.md)
 

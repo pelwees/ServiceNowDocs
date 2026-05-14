@@ -27,19 +27,19 @@ Review the changes you made to baseline records, such as business rules and scri
 
 1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade Monitor**.
 
-    If the upgrade is still in progress, the system displays the [Upgrade Progress](../reference/uc-monitor-progress.md) screen. When the upgrade finishes, the system displays the [Upgrade Summary Report](../reference/uc-complete-summary.md).
+    If the upgrade is still in progress, the system displays the [Upgrade Progress](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-monitor-progress.md) screen. When the upgrade finishes, the system displays the [Upgrade Summary Report](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-complete-summary.md).
 
 2.  After the system displays the Upgrade Summary Report, click the Review changes link in the Skipped box.
 
-    The system displays the [System Upgrades form](../reference/uc-system-upgrades-form.md).
+    The system displays the [System Upgrades form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-system-upgrades-form.md).
 
 3.  Navigate to Review Skipped Records section and – if necessary – scroll to the Skipped Changes to Review related list.
 
-    See [Review skipped records using related lists](uc-access-rl.md#) for more information.
+    See [Review skipped records using related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-access-rl.md#) for more information.
 
 4.  Click the row for the first record you want to reconcile.
 
-    The system displays the [Upgrade details form](../reference/uc-upgrade-details-form.md) for that record.
+    The system displays the [Upgrade details form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-upgrade-details-form.md) for that record.
 
 5.  Evaluate how you want to resolve the conflict for this record and take the appropriate action:
 
@@ -57,7 +57,7 @@ Retain the customized record as is and do not update it
 
 </td><td>
 
-After reviewing the changes, set **Resolution Status** to **Reviewed and Retained**.The record moves from the Skipped Changes to Review to Skipped Changes Reviewed related list. See [Review skipped records using related lists](uc-access-rl.md#).
+After reviewing the changes, set **Resolution Status** to **Reviewed and Retained**.The record moves from the Skipped Changes to Review to Skipped Changes Reviewed related list. See [Review skipped records using related lists](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-access-rl.md#).
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Retain the customization by merging changes from the updated object
 
 </td><td>
 
-1.  Click **Resolve Conflicts** to navigate to the [Resolve Conflicts form](../reference/uc-resolve-conflicts-form.md).
+1.  Click **Resolve Conflicts** to navigate to the [Resolve Conflicts form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../reference/uc-resolve-conflicts-form.md).
 2.  Review the differences.
 3.  To merge a field:
     -   Click the right-arrow button for the field.

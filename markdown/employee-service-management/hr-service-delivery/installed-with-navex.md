@@ -35,8 +35,8 @@ Admin\[sn\_hr\_navex\_ep.admin\]
 
 </td><td>
 
--   Can [Configure properties](../task/prop-navex.md).
--   Can [Map fields](../task/map-fields-navex.md).
+-   Can [Configure properties](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/prop-navex.md).
+-   Can [Map fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/../task/map-fields-navex.md).
 
 </td><td>
 

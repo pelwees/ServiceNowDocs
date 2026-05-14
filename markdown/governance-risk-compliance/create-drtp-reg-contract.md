@@ -25,7 +25,7 @@ The contracts link both parties—those using the information and those providin
 
 You can navigate to the contracts from the Contracts menu item in Digital resilience third-party registers. Alternately, you can navigate to the legal entities record, open the Legal entities tab, and navigate to the contracts.
 
-![Legal entity tab.](../image/leg-ent-record-leg-ent-tab.png)
+![Legal entity tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/leg-ent-record-leg-ent-tab.png)
 
 ## Procedure
 
@@ -37,7 +37,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 3.  On the form, fill in the fields.
 
-    For more information, see [Create New Contract form](../reference/create-new-contract-form.md).
+    For more information, see [Create New Contract form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-contract-form.md).
 
 4.  To submit the contract for review, select **Submit for Review**.
 
@@ -57,7 +57,7 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
 8.  On the form, fill in the fields.
 
-    For more information, see [Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md).
+    For more information, see [Create New Contractual arrangement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-cont-arrange-form.md).
 
 9.  Select **Save**.
 
@@ -65,17 +65,17 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 
     The Contracts related list for the legal entity is shown in the example.
 
-    ![Contracts tab.](../image/leg-ent-record-leg-ent-tab-contact-tab.png)![Contracts tab.](../image/contracts-tab-leg-ent.png)![Form.](../image/contratcs-form-leg-ent.png)
+    ![Contracts tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/leg-ent-record-leg-ent-tab-contact-tab.png)![Contracts tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/contracts-tab-leg-ent.png)![Form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/contratcs-form-leg-ent.png)
 
     This navigation simplifies tracking from the function or legal entity using these third parties.
 
     1.  In the form, select **More** and navigate to the **Digital resilience information** tab.
 
-        For more information, see [Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md).
+        For more information, see [Create New Contractual arrangement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-cont-arrange-form.md).
 
     2.  Navigate to the Contract **Details** tab to view the details that are needed by the Digital Operational Resilience Act.
 
-        ![Resilience tab.](../image/contracts-dig-res-info-tab.png)![Contracts resilience details.](../image/contracts-dora-details.png)
+        ![Resilience tab.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/contracts-dig-res-info-tab.png)![Contracts resilience details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../image/contracts-dora-details.png)
 
         The information on the form specifies who uses the ICT service. If the entity signing the contract differs from the one using it, that detail goes on the form, along with the service provider. Essentially, the user and the provider are linked together. The following key details are captured:
 
@@ -118,10 +118,10 @@ You can navigate to the contracts from the Contracts menu item in Digital resili
 13. To delete the contract record, select it from the list and select **Delete**.
 
 
--   **[Create New Contract form](../reference/create-new-contract-form.md)**  
+-   **[Create New Contract form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-contract-form.md)**  
 On the Create New Contract form, fill in the fields.
--   **[Create New Contractual arrangement form](../reference/create-new-cont-arrange-form.md)**  
+-   **[Create New Contractual arrangement form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../reference/create-new-cont-arrange-form.md)**  
 On the Create New Contractual arrangement form, fill in the fields. For each contract, a separate form would be required.
 
-**Parent Topic:**[Using Digital resilience third-party registers](../concept/using-dg-registers.md)
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/../concept/using-dg-registers.md)
 

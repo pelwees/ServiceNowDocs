@@ -17,7 +17,7 @@ Compose and send emails directly from a supplier case or a supplier task in the 
 
 ## Before you begin
 
-Ensure that you have configured access to the compose email feature. For more information, see [Configure access to the compose email feature](config-access-compose-email.md).
+Ensure that you have configured access to the compose email feature. For more information, see [Configure access to the compose email feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-access-compose-email.md).
 
 Role required: sn\_slm.admin
 
@@ -25,19 +25,19 @@ Role required: sn\_slm.admin
 
 1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(![List icon.](../image/cases-list-icon.png)\).
+2.  Select the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\).
 
 3.  On the **Lists** tab, under the Cases or Tasks module, open a supplier case or a supplier task, respectively.
 
-4.  Click the more actions icon \(![More actions icon.](../image/more-actions-icon.png)\) and select **Compose Email**.
+4.  Click the more actions icon \(![More actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/more-actions-icon.png)\) and select **Compose Email**.
 
 5.  Do one of the following:
 
     -   To insert templated content into the email body using quick messages:
-        1.  Click the quick messages icon \(![Quick Messages icon](../image/quick-messages-icon.png)\) and select an appropriate quick message that you want to use.
+        1.  Click the quick messages icon \(![Quick Messages icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/quick-messages-icon.png)\) and select an appropriate quick message that you want to use.
         2.  Select **Insert**.
     -   To insert templated content into the email body using response templates:
-        1.  Click the response templates icon \(![Response templates icon](../image/response-templates-icon.png)\) and select an appropriate response template that you want to use.
+        1.  Click the response templates icon \(![Response templates icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/response-templates-icon.png)\) and select an appropriate response template that you want to use.
         2.  Select **Copy to clipboard**.
         3.  Paste the content in the email body.
 6.  Do one of the following:
@@ -47,18 +47,18 @@ Role required: sn\_slm.admin
     **Note:** You can view the draft emails by doing one of the following:
 
     -   Selecting the **Draft Emails** tab on the supplier case or supplier task.
-    -   Clicking the list icon \(![List icon.](../image/cases-list-icon.png)\), selecting the Case Draft Emails list or Task Draft Emails sub-modules under the Draft Emails module, and opening a draft email.
+    -   Clicking the list icon \(![List icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/cases-list-icon.png)\), selecting the Case Draft Emails list or Task Draft Emails sub-modules under the Draft Emails module, and opening a draft email.
 
 ## Result
 
 You can compose and send emails directly from a supplier case or a supplier task in the Source-to-Pay Workspace.
 
-**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+**Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/email-composer-slm-workspace.md)
 
 **Related topics**  
 
 
-[Composing emails with predefined content from the Source-to-Pay Workspace](../concept/email-composer-slm-workspace.md)
+[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/email-composer-slm-workspace.md)
 
-[Configure access to the compose email feature](config-access-compose-email.md)
+[Configure access to the compose email feature](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-access-compose-email.md)
 

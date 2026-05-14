@@ -46,5 +46,5 @@ You have configured the record producer to point to your newly created table.
 
 ## What to do next
 
-[Configure the request definition for your healthcare case type](configure-the-request-defintion-for-your-hcls-case-type.md).
+[Configure the request definition for your healthcare case type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-request-defintion-for-your-hcls-case-type.md).
 

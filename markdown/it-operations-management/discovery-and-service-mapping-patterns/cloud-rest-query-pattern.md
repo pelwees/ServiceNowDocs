@@ -122,7 +122,7 @@ Formatted JSON or not
 
     3.  In the variable name box, enter the name for the new variable, for example 'process\_name'.
 
-        ![Defining a variable name for the string marked in the Output pane](../image/PatDefVariableFromOutput.png)
+        ![Defining a variable name for the string marked in the Output pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefVariableFromOutput.png)
 
     4.  Press **Enter**.
 
@@ -134,7 +134,7 @@ Formatted JSON or not
 
     2.  Click the **Advanced** icon.
 
-        ![Displaying the Advanced Variables pane](../image/PatDefAdvanceVariableArea.png)
+        ![Displaying the Advanced Variables pane](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefAdvanceVariableArea.png)
 
     3.  Click **Add Column Label**.
 
@@ -157,9 +157,9 @@ Formatted JSON or not
 |Section|Identification of AWS S3|
 |Step number and Name|3. List buckets|
 
-![The Cloud REST Query operation](../image/PatDefCloudRESTQueryExample.png)
+![The Cloud REST Query operation](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../image/PatDefCloudRESTQueryExample.png)
 
 Use the Cloud REST Query operation to extract information about AWS buckets, their names and creation dates.
 
-**Parent Topic:**[AWS discovery using patterns](../../discovery/reference/data-discovered-aws-patterns.md)
+**Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/../../discovery/reference/data-discovered-aws-patterns.md)
 

@@ -28,7 +28,7 @@ If an inbound REST API request matches multiple rate limit rules for the same re
 
 In this example, there are four rate limit rules for the REST API resource `GET /now/v2/table/incident`.
 
-![List of rate limit rules for GET /now/v2/table/incident.](../image/rate-limit-rules.png)
+![List of rate limit rules for GET /now/v2/table/incident.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../image/rate-limit-rules.png)
 
 These rate limit rules are applied in the following order:
 
@@ -43,7 +43,7 @@ If a user has two or more roles matching the criteria of multiple rate limiting 
 
 ## REST API response headers
 
-You can generate inbound REST API requests using the [REST API Explorer](use-REST-API-Explorer.md) or an HTTP client, such as Postman API platform. If the request matches a rate limit rule, several HTTP response headers provide information about rate limiting.
+You can generate inbound REST API requests using the [REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/use-REST-API-Explorer.md) or an HTTP client, such as Postman API platform. If the request matches a rate limit rule, several HTTP response headers provide information about rate limiting.
 
 -   **X-RateLimit-Limit** displays the number of requests allowed per hour.
 -   **X-RateLimit-Reset** displays a UNIX timestamp for the next scheduled reset of the rate limit window.
@@ -63,14 +63,14 @@ If a request is denied because it exceeds the rate limit, the system returns a *
 
 The status code of a denied request is `429 Too Many Requests`.
 
--   **[Create an inbound REST API rate limit](../task/create-REST-API-rate-limits.md)**  
+-   **[Create an inbound REST API rate limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../task/create-REST-API-rate-limits.md)**  
 Create rate limit rules to limit the number of inbound REST API requests processed per hour.
--   **[Reset an inbound REST API rate limit](../task/reset-rest-api-rate-limits.md)**  
+-   **[Reset an inbound REST API rate limit](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../task/reset-rest-api-rate-limits.md)**  
 Reset a rate limit rule to reset the rate limit count to zero \(0\) and delete any violations for the current hour.
--   **[Monitor inbound REST API rate limit counts and violations](../task/monitor-request-counts.md)**  
+-   **[Monitor inbound REST API rate limit counts and violations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../task/monitor-request-counts.md)**  
 To determine if you have set a rate limit rule appropriately, monitor the counts and violations for inbound REST API requests that are restricted by the rule.
--   **[Investigate inbound REST API rate limit violations](../task/investigate-rate-limit-violations.md)**  
+-   **[Investigate inbound REST API rate limit violations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/../task/investigate-rate-limit-violations.md)**  
 Investigate rate limit violations to determine which rate limit rules are being exceeded and which users are exceeding those rate limits.
 
-**Parent Topic:**[REST APIs](c_RESTAPI.md)
+**Parent Topic:**[REST APIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/rest-api-explorer/c_RESTAPI.md)
 

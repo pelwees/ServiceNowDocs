@@ -15,7 +15,7 @@ breadcrumb: [Resolve conflicts for an individual record, Scheduling and monitori
 
 The Resolve Conflicts form you compare to the base system version with the customized version of a record and reconcile the differences.
 
-![Image showing Resolve Conflicts form](../image/uc-resolve-conflict-form.png)
+![Image showing Resolve Conflicts form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/../image/uc-resolve-conflict-form.png)
 
 ## Fields
 

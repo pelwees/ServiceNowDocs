@@ -130,7 +130,7 @@ Application menus whose lack of visibility in the application navigator is being
 </table>**Related topics**  
 
 
-[Create an application menu](test-steps-app-navigator-category.md#)
+[Create an application menu](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#)
 
 ## Create an application menu
 
@@ -168,7 +168,7 @@ When creating an application menu, consider grouping like modules into a consoli
 
 4.  Click **Submit**.
 
-5.  [Create modules](test-steps-app-navigator-category.md#) to appear in the application menu.
+5.  [Create modules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#) to appear in the application menu.
 
     Only application menus that contain modules appear in the application navigator.
 
@@ -246,7 +246,7 @@ The order in which the module displays relative to other modules.
 
 5.  On the **List Type** tab, complete the fields.
 
-    The fields displayed depend on the **Link type** you choose. All module URIs must be encoded. If you supply arguments to the module URI, either you or ServiceNow. For more information about encoding module URIs, see [Encoding module URIs](test-steps-app-navigator-category.md#).
+    The fields displayed depend on the **Link type** you choose. All module URIs must be encoded. If you supply arguments to the module URI, either you or ServiceNow. For more information about encoding module URIs, see [Encoding module URIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 <table id="table_rh5_vrx_xhb"><thead><tr><th>
 
@@ -262,7 +262,7 @@ Link type
 
 </td><td>
 
-Specifies what type of link this module opens. You must specify additional information based on the link type. See [Module link types](test-steps-app-navigator-category.md#).
+Specifies what type of link this module opens. You must specify additional information based on the link type. See [Module link types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 </td></tr><tr><td>
 
@@ -286,7 +286,7 @@ Argument
 
 </td><td>
 
-String appended to the URI to create the module URI. Can be a sysparm\_query. These values must be encoded either by you or ServiceNow. For more information about encoding module URIs, see [Encoding module URIs](test-steps-app-navigator-category.md#).
+String appended to the URI to create the module URI. Can be a sysparm\_query. These values must be encoded either by you or ServiceNow. For more information about encoding module URIs, see [Encoding module URIs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#).
 
 </td></tr><tr><td>
 
@@ -466,7 +466,7 @@ Clicking a module name in the navigation pane executes a URI that opens the modu
 
 When you create modules, you have the option of adding arguments and filter conditions that sort and/or reduce the number of results displayed in the content pane. When you click a module name in **System Definitions** &gt; **Application Definitions**, you can see those conditions and arguments on the **Link Type** tab.
 
-![Link type tab](../../navigation-and-ui/image/link-type-tab.png)
+![Link type tab](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../../navigation-and-ui/image/link-type-tab.png)
 
 The argument definition in **Arguments** and filter conditions defined in **Filter** become part of the module's URI and must be URL-encoded. ServiceNow automatically URL-encodes filter conditions and appends them to the module URI using sysparm\_query. For example, adding the filter condition, **Active is true** appends `sysparm_query=active%3Dtrue` to the module's URI; %3D is the URL-encoding for the equals sign \(=\).
 
@@ -699,7 +699,7 @@ Modules whose lack of visibility in the application navigator is being verified.
 </table>**Related topics**  
 
 
-[Create a module](test-steps-app-navigator-category.md#)
+[Create a module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#)
 
 ## Navigate to Module
 
@@ -796,5 +796,5 @@ Module that should be opened. To navigate to the selected module, the module mus
 </table>**Related topics**  
 
 
-[Create a module](test-steps-app-navigator-category.md#)
+[Create a module](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/test-steps-app-navigator-category.md#)
 

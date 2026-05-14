@@ -21,7 +21,7 @@ The Product Service select version of the case type selector supports services a
 -   Browse the available services using scroll bars and pagination.
 -   Select a service and create a case based on the service or case type.
 
-![Product Service select version of the case type selector with fields for selecting a product, service category, and service](../image/product-service-select-modal.png "Case type selector (Product Service select version)")
+![Product Service select version of the case type selector with fields for selecting a product, service category, and service](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/product-service-select-modal.png "Case type selector (Product Service select version)")
 
 ## Creating cases using the Product Service select version
 
@@ -148,7 +148,7 @@ The Product Service select version of the case type selector displays the availa
 -   Description
 -   Image
 
-When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [Create a service definition](../task/create-csm-service-definition.md).
+When an administrator creates a service definition, they can provide a name for the service. They can also provide a description of the service and add an image to represent the service. For more information, see [Create a service definition](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../task/create-csm-service-definition.md).
 
 ## Browsing services in the case type selector
 

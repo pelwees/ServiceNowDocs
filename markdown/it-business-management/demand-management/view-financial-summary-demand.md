@@ -49,7 +49,7 @@ Steps
 
 </td><td>
 
-Select the baseline information icon ![](../image/new-baseline-info-icon.png) and then select **Create New Baseline** or **Compare Baselines** option respectively. For more information, see [Create a baseline of a demand](create-demand-baseline.md).
+Select the baseline information icon ![](../image/new-baseline-info-icon.png) and then select **Create New Baseline** or **Compare Baselines** option respectively. For more information, see [Create a baseline of a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-baseline.md).
 
 </td></tr><tr><td id="d239447e145">
 
@@ -140,5 +140,5 @@ Select the expand icon ![](../image/new-expand-icon.png)or collapse icon ![](../
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Create a demand](t_CreatingDemands.md)
+**Parent Topic:**[Create a demand](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 

@@ -15,14 +15,14 @@ An information object captures the logical data for a business application. It a
 
 By analyzing information objects, you can understand how data is structured and used across your enterprise.
 
-**Parent Topic:**[Exploring the information portfolio](eaw-information-portfolio.md)
+**Parent Topic:**[Exploring the information portfolio](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-information-portfolio.md)
 
 **Related topics**  
 
 
-[View all information objects](../../task/eaw-task/eaw-view-all-information-objects.md)
+[View all information objects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-view-all-information-objects.md)
 
-[Add or edit an information object](../../task/eaw-task/eaw-create-new-information-object.md)
+[Add or edit an information object](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/../../task/eaw-task/eaw-create-new-information-object.md)
 
-[Exploring data domains](eaw-data-domains.md)
+[Exploring data domains](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-portfolio-management/eaw-data-domains.md)
 

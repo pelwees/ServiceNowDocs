@@ -43,8 +43,8 @@ The Employee Self-Service portal is provided as a working example and design tem
 
 8.  Click **Update**.
 
-9.  Use the page in other sites you created by [assigning pages](t_AssignAPageToASite.md) to a site.
+9.  Use the page in other sites you created by [assigning pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AssignAPageToASite.md) to a site.
 
 
-**Parent Topic:**[Content Management templates](../concept/c_ContentManagementTemplates.md)
+**Parent Topic:**[Content Management templates](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/../concept/c_ContentManagementTemplates.md)
 

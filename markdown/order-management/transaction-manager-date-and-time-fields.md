@@ -23,8 +23,8 @@ Auditing events can track activities such as quotes, payments, and contract sign
 
 The following examples show how date and time fields appear in the end-user UI.
 
--   Date-only calendar display: ![Jan calendar screen](../images/cpq-txn-mgr-date-time-date-only.png)
--   Date and time input: ![Select time slot](../images/cpq-txn-mgr-date-time-date-time-input.png)
+-   Date-only calendar display: ![Jan calendar screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-date-only.png)
+-   Date and time input: ![Select time slot](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-date-time-input.png)
 -   Date only: `YYYY-MM-DD` \(for example, `2024-11-07`\)
 -   Date and \(optional\) time: `YYYY-MM-DDTHH:MM:SS` \(for example, `2024-10-22T14:30:00`\)
 
@@ -37,15 +37,15 @@ Date-only fields are time-zone agnostic. To avoid time-zone discrepancies, dates
 
 1.  From Admin, click **Transactions**, click **Associated fields**, and then click **+ Create Field**.
 
-    ![Create field](../images/cpq-txn-mgr-date-time-new-step-1.jpg)
+    ![Create field](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-new-step-1.jpg)
 
 2.  In the dialog box, enter the name of the field. Set the type as Date/Time, and click **Save**.
 
-    ![Select type](../images/cpq-txn-mgr-date-time-new-step-2.jpg)
+    ![Select type](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-new-step-2.jpg)
 
 3.  Open the field, set the access based on your use case, and click **Save**.
 
-    ![Default access](../images/cpq-txn-mgr-date-time-new-step-3.jpg)
+    ![Default access](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-new-step-3.jpg)
 
 
 ## Display the new date and time field in the buyside interface
@@ -58,23 +58,23 @@ To add a “Test date doc“ field to layout, follow these steps.
 
 1.  From Admin, click **Transaction**, click **Layouts**, and then click the name of the stage.
 
-    ![Transaction screen](../images/cpq-txn-mgr-date-time-display-step-1.jpeg)
+    ![Transaction screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-display-step-1.jpeg)
 
 2.  The layout JSON must be edited in two places.
     -   In the `fields` section, add the new date field with type, label and variableName parameters. In the example below, we add “Test date doc” below the existing field “Start date“. When you write the code for the new field, make sure the variable name exactly matches the associated field's variable name.
 
         **Note:** In this example, we use a field that displays only the date, so the type in the layout JSON is `“type“:”Date”`. To create a field that also displays time, the type should be `“type“:”DateTime”`.
 
-        ![Code](../images/cpq-txn-mgr-date-time-display-step-2.jpg)
+        ![Code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-display-step-2.jpg)
 
     -   In the `“layout”: “tiers”: “columnSets”:` section, define the column order of the new field in the “elements“ section. Make sure that the variable name is exactly the same.
 
-        ![Column](../images/cpq-txn-mgr-date-time-display-step-3.png)
+        ![Column](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-display-step-3.png)
 
 3.  Click **Save**, and then click **Deploy**.
 4.  Create a new transaction, and click **Edit transaction**. The new field looks like the following.
 
-    ![Column code](../images/cpq-txn-mgr-date-time-display-step-5.jpg)
+    ![Column code](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-display-step-5.jpg)
 
 
 ## Calculating Dates in Rules
@@ -83,7 +83,7 @@ Term calculations can determine the duration of a contract, subscription, or pri
 
 1.  In CPQ Admin, click **Related Rules**, and then click **New Rule**. Enter the name of the rule and define the conditions. In this example, name the rule “Calculate subscription term date“ and its condition as “Start date.“ “End date“ should not be null.
 
-    ![Calculate subscription screen](../images/cpq-txn-mgr-date-time-calc-step-1.png)
+    ![Calculate subscription screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-calc-step-1.png)
 
 2.  To determine the value of another field, add a determination action and provide a script file in the advanced script section. The following script snippet performs the calculation.
 
@@ -106,15 +106,15 @@ Term calculations can determine the duration of a contract, subscription, or pri
 
     Enter the script in the script editor, and click **Save**.
 
-    ![term date screen](../images/cpq-txn-mgr-date-time-calc-step-2.png)
+    ![term date screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-calc-step-2.png)
 
 3.  Associate the newly created rule to the blueprint. Navigate to **Rule Groupings**, and then to the name of the stage where rule should be applied \(in this case, draftStageRuleGroup\). Click **Associate Rules**, and search for the name of the rule. Drag the rule to the left pane, an click **Done** to deploy.
 
-    ![Term date screen](../images/cpq-txn-mgr-date-time-calc-step-3.png)
+    ![Term date screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-calc-step-3.png)
 
 4.  Test the functionality in the buyside interface by providing values for the start date and the end date. The subscription term is auto-populated based on the script.
 
-    ![Contract info screen](../images/cpq-txn-mgr-date-time-calc-step-4.png)
+    ![Contract info screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-date-time-calc-step-4.png)
 
 
 ## Behavior of date and time fields in scripts
@@ -137,11 +137,11 @@ Aggregate operations:
 **Related topics**  
 
 
-[Transaction Manager](transaction-manager.md)
+[Transaction Manager](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager.md)
 
-[Transaction Manager: Fields](transaction-manager-fields.md)
+[Transaction Manager: Fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-fields.md)
 
-[Transaction Manager: Transaction-level system fields](transaction-manager-transaction-header-level-system-fields.md)
+[Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md)
 
-[Transaction Manager: Line-level system fields](transaction-manager-line-level-system-fields.md)
+[Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md)
 

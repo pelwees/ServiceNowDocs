@@ -13,7 +13,7 @@ breadcrumb: [Decorations, Reference field type, Reference, Field administration,
 
 On forms, the reference lookup icon appears by editable reference fields. Selecting the reference lookup icon displays a list of records on the referenced table.
 
-The list appears in a pop-up window when the reference lookup icon ![Reference lookup icon.](../../navigation-and-ui/image/IconReferencelookup.png) is selected.
+The list appears in a pop-up window when the reference lookup icon ![Reference lookup icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../../navigation-and-ui/image/IconReferencelookup.png) is selected.
 
 ![image.reference-lookup-list-b20]
 

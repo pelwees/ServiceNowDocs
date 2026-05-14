@@ -36,5 +36,5 @@ Role required: admin
     The data is re-secured or encrypted, based on the security scheme you have selected.
 
 
-**Parent Topic:**[MID Server configuration file security](../reference/mid-server-encrypter-api.md)
+**Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/../reference/mid-server-encrypter-api.md)
 

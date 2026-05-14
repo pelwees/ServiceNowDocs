@@ -29,7 +29,7 @@ Role required: admin
 
 1.  Log into your Workday tenant.
 
-2.  Navigate to Search and enter `Register API Client for Integrations` task. ![Search for Register API Client for Integrations task in Workday](../image/wkdy-hr-reg-api-client-integ.png)
+2.  Navigate to Search and enter `Register API Client for Integrations` task. ![Search for Register API Client for Integrations task in Workday](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkdy-hr-reg-api-client-integ.png)
 
 3.  On the Register API Client for Integrations form, fill in the details.
 
@@ -40,13 +40,13 @@ Role required: admin
     |Scope \(Functional Areas\)|Select the required functional areas.|
     |Include Workday Owned Scope|Option to select Workday owned scope.|
 
-    ![Fields in Register API Client for integrations screen](../image/wkday-reg-api-client-screen.png)
+    ![Fields in Register API Client for integrations screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-reg-api-client-screen.png)
 
 4.  Click **OK**.
 
-    Client ID and Client Secret are generated after the registration is successful.![Client ID and client secret generated after API client registration](../image/wkday-fin-client-id-sec-generated.png)
+    Client ID and Client Secret are generated after the registration is successful.![Client ID and client secret generated after API client registration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-fin-client-id-sec-generated.png)
 
-5.  Click the ellipsis button after the specified client name.![Navigating Manage Refresh Tokens for Integrations option](../image/wkday-mng-refresh-token-nav.png)
+5.  Click the ellipsis button after the specified client name.![Navigating Manage Refresh Tokens for Integrations option](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-mng-refresh-token-nav.png)
 
 6.  Select **API Client** &gt;**Manage Refresh Tokens for Integrations**.
 
@@ -54,7 +54,7 @@ Role required: admin
 
     Delete or Regenerate Refresh Token screen displays.
 
-8.  Select **Generate New Refresh Token** option and click **OK**.![Refresh token generated in Workday account](../image/wkday-fin-refresh-tkn.png)
+8.  Select **Generate New Refresh Token** option and click **OK**.![Refresh token generated in Workday account](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../image/wkday-fin-refresh-tkn.png)
 
 
 ### Result
@@ -67,7 +67,7 @@ Configure the system properties to enable OAuth 2.0 for SOAP APIs based actions 
 
 ### Before you begin
 
--   [Generate client ID and client secret for Workday HR spoke](configs-workday-hr-soap-oauth.md#)
+-   [Generate client ID and client secret for Workday HR spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/configs-workday-hr-soap-oauth.md#)
 -   Role required: admin
 
 ### Procedure

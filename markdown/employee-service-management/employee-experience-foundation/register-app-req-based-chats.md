@@ -40,7 +40,7 @@ Role required: admin
 
 6.  Select **Redirect URIs**.
 
-    ![App registration in azure portal](../images/register-app-req-based-chat.png)
+    ![App registration in azure portal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/register-app-req-based-chat.png)
 
 7.  Select the **Access tokens** check box.
 
@@ -48,11 +48,11 @@ Role required: admin
 
 9.  Navigate to **Manage** &gt; **Certificates &amp; secrets**.
 
-    ![Certificates and secrets screen](../images/certificates-secrets.png)
+    ![Certificates and secrets screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/certificates-secrets.png)
 
 10. Select **New client secret**.
 
-    ![Add client secret](../images/add-client-secret.png)
+    ![Add client secret](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/add-client-secret.png)
 
 11. On the Add a client secret form, fill the fields.
 
@@ -64,13 +64,13 @@ Role required: admin
 
     4.  Copy and save the client secret in a notepad.
 
-        ![Client secret value](../images/client-secret-value.png)
+        ![Client secret value](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../images/client-secret-value.png)
 
 
--   **[Add permissions to the Microsoft Azure application](authenticate-users-req-based-chat.md)**  
+-   **[Add permissions to the Microsoft Azure application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authenticate-users-req-based-chat.md)**  
 Assign permissions to users to enable them to start chat and import chat conversations with employees from Microsoft Teams to ServiceNow® instance.
--   **[Configure Application Registry on the ServiceNow instance](app-registry-chat-single-tenant.md#)**  
+-   **[Configure Application Registry on the ServiceNow instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/app-registry-chat-single-tenant.md#)**  
 Register the Request-based chat app in your instance to use Microsoft Teams chat for self-configured app environment.
 
-**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](../concept/c_employee_ex_s_tnt.md)
+**Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/../concept/c_employee_ex_s_tnt.md)
 

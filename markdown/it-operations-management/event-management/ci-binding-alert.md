@@ -70,5 +70,5 @@ This direct link helps streamline troubleshooting by pointing to the exact probl
 **Related topics**  
 
 
-[Simulate event processing](../task/simulate-event-processing.md)
+[Simulate event processing](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../task/simulate-event-processing.md)
 

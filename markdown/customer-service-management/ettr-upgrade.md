@@ -15,7 +15,7 @@ After upgrading, configure some settings to view the **Time to Resolve Numeric V
 
 ## Before you begin
 
-You must have a trained default estimated time to resolve a case regression solution. For more information, see [Configure the default estimated resolution time](ettr_configure.md).
+You must have a trained default estimated time to resolve a case regression solution. For more information, see [Configure the default estimated resolution time](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/ettr_configure.md).
 
 Role required: admin
 

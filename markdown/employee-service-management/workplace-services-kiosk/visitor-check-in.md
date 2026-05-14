@@ -38,7 +38,7 @@ Role required: sn\_wsd\_kiosk.viewer
     -   Check-in with your name
 3.  Enter the information based on the check-in option, then select **Continue**.
 
-    **Note:** If the provided information is incorrect or not linked to an invite, the kiosk device displays an error page. If the admin has enabled self-registration, you can register your visit by selecting **Register visit**. For more information, see [Self-register as a visitor](visitor-self-register.md).
+    **Note:** If the provided information is incorrect or not linked to an invite, the kiosk device displays an error page. If the admin has enabled self-registration, you can register your visit by selecting **Register visit**. For more information, see [Self-register as a visitor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-self-register.md).
 
 4.  Verify the details of your visit, then select **Continue**.
 
@@ -63,5 +63,5 @@ Role required: sn\_wsd\_kiosk.viewer
 7.  View the next steps, then select **Done**.
 
 
-**Parent Topic:**[Using Workplace Services Kiosk](../concept/use-workplace-services-kiosk.md)
+**Parent Topic:**[Using Workplace Services Kiosk](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/../concept/use-workplace-services-kiosk.md)
 

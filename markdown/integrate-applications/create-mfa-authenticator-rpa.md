@@ -18,7 +18,7 @@ Define the authenticator and token length that acts as an enabler for the Time-b
 
 Familiarize yourself with multi-factor authentication \(MFA\) concepts. For more information, see [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
 
-Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](../concept/totp-authentication-rpa.md).
+Familiarize yourself with the TOTP authentication in RPA Hub. For more information, see [TOTP authentication in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/../concept/totp-authentication-rpa.md).
 
 You must do this task in the classic environment.
 
@@ -92,12 +92,12 @@ Status of the life-cycle stage of the MFA authenticator:-   **In Use**- This val
 
 ## What to do next
 
-Create a TOTP authenticator. For more information, see [Create a TOTP authenticator in RPA Hub](map-totp-credential-set-rpa.md).
+Create a TOTP authenticator. For more information, see [Create a TOTP authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/map-totp-credential-set-rpa.md).
 
 **Related topics**  
 
 
-[Retire an MFA authenticator in RPA Hub](retire-mfa-authenticator.md)
+[Retire an MFA authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/retire-mfa-authenticator.md)
 
-[Delete a TOTP authenticator in RPA Hub](delete-mfa-authenticator-rpa.md)
+[Delete a TOTP authenticator in RPA Hub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/delete-mfa-authenticator-rpa.md)
 

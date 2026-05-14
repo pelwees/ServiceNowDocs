@@ -13,7 +13,7 @@ breadcrumb: [MCO core, Explore, Manufacturing Commercial Operations]
 
 In the Repair claims workflow, the customer approaches the dealer with issues related to one or more products. The dealer diagnoses and fixes the issue​ and raises the reimbursement for the repair work performed.
 
-![Decorative](../image/repair-claim-wf.png "Repair claim workflow")
+![Decorative](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../image/repair-claim-wf.png "Repair claim workflow")
 
 1.  Initiate claim: The dealer initiates the warranty or recall claim.
 2.  Search serial number: Dealer can search the claim details based on the serial number.
@@ -28,22 +28,22 @@ In the Repair claims workflow, the customer approaches the dealer with issues re
 
 Use the following to configure, use, and manage recall campaigns in MCO.
 
-Review the entities and relationships within the [Repair claims data model](../reference/repair-claims.md), including tables added or modified by the repair claim plugin.
+Review the entities and relationships within the [Repair claims data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../reference/repair-claims.md), including tables added or modified by the repair claim plugin.
 
 1.  Configure repair claims: Complete the following tasks to set up the repair claims in your environment.
     1.  Install Manufacturing repair claim management \[sn\_repr\_claim\_mgmt\]: [Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md).
-    2.  Set up product models and parts: [Configuring product models](mco-product-models.md).
-    3.  Set up assets and install base items: [Configuring assets](mco-assets.md) and [Create an install base item](mco-create-install-base-item.md).
-    4.  Set up dealer hierarchy: [Create a channel partner](../task/mco-create-channel-partner.md) and [Create an internal business location](../task/mco-create-internal-business-location.md).
+    2.  Set up product models and parts: [Configuring product models](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-product-models.md).
+    3.  Set up assets and install base items: [Configuring assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-assets.md) and [Create an install base item](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-install-base-item.md).
+    4.  Set up dealer hierarchy: [Create a channel partner](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-create-channel-partner.md) and [Create an internal business location](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-create-internal-business-location.md).
 
         **Note:** Use the Partner Relationship Management data model to set up channel partners \(external entities\) and dealers \(external trading partners to the OEM\). Model company-owned dealer outlets as internal service organizations using the Service Model Foundation.
 
-    5.  Set up dealers: [Set up dealer](set-up-dealer.md).
-    6.  Assign repair claim roles: [Assign roles](assign-mco-roles.md)
+    5.  Set up dealers: [Set up dealer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/set-up-dealer.md).
+    6.  Assign repair claim roles: [Assign roles](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)
 2.  Work with repair claims \(OEM\): Use the Agents \(CSM/FSM\) workspace to create and manage repair campaigns, phases, and claims.
-    1.  Create a repair claim: [Create a repair claim](mco-create-repair-claim.md).
-    2.  Review repair claims: [Reviewing and approving repair claims](mco-approve-repair-claims.md).
+    1.  Create a repair claim: [Create a repair claim](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-create-repair-claim.md).
+    2.  Review repair claims: [Reviewing and approving repair claims](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-repair-claims.md).
 3.  Work with repair claim \(Dealer\): Use the Dealer portal to submit and track repair claims.
-    1.  Submit a repair claim for warranty: [Submit a repair claim for warranty](../task/mco-submit-repair-claim.md).
-    2.  Submit a repair claim for recall: [Submit a repair claim for recall](../task/mco-submit-repair-claim-for-recall.md).
+    1.  Submit a repair claim for warranty: [Submit a repair claim for warranty](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim.md).
+    2.  Submit a repair claim for recall: [Submit a repair claim for recall](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/../task/mco-submit-repair-claim-for-recall.md).
 

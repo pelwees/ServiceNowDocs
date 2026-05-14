@@ -19,7 +19,7 @@ View the Schedule Optimization logs to gather insights from each optimization at
 
 Role required: wm\_admin
 
-[Set the Schedule optimization logging level](set-the-schedule-optimization-log-level.md).
+[Set the Schedule optimization logging level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/set-the-schedule-optimization-log-level.md).
 
 ## About this task
 
@@ -30,7 +30,7 @@ You can access system messages for all optimization runs that occur throughout t
 1.  **All** &gt; **Field Service** &gt; **Schedule Optimization** &gt; **Logs**.
 
 
-**Parent Topic:**[Configuring log levels for detailed optimization analysis](configuring-log-levels-for-detailed-optimization-analysis.md)
+**Parent Topic:**[Configuring log levels for detailed optimization analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configuring-log-levels-for-detailed-optimization-analysis.md)
 
 ## View Schedule Optimization logs for batch or intraday runs
 
@@ -40,7 +40,7 @@ View the Schedule Optimization logs to gather insights from each batch or intrad
 
 Role required: admin
 
-[Set the Schedule optimization logging level](set-the-schedule-optimization-log-level.md)
+[Set the Schedule optimization logging level](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/set-the-schedule-optimization-log-level.md)
 
 ### About this task
 

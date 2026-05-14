@@ -27,11 +27,11 @@ Role required: map admin, map editor, map editor limited
 
 2.  Select a campus.
 
-    Create one if you do not have a campus in the map studio. For more information about how to create a campus, see [Create a campus with buildings and floors](create-a-campus-building-and-floor.md)
+    Create one if you do not have a campus in the map studio. For more information about how to create a campus, see [Create a campus with buildings and floors](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/create-a-campus-building-and-floor.md)
 
 3.  Click **Preview**.
 
-    The map opens in the **Preview** mode. If the view is not enabled, nothing will appear in Preview. For more information, see [Edit with view editor](edit-with-view-editor.md).
+    The map opens in the **Preview** mode. If the view is not enabled, nothing will appear in Preview. For more information, see [Edit with view editor](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md).
 
 4.  In the search field, search for places on the Campus, for example: Meeting room 101.
 
@@ -39,9 +39,9 @@ Role required: map admin, map editor, map editor limited
 
 5.  Select a place to highlight and display it on the map.
 
-    ![map preview page with search showing selected building](../images/preview-page-1.png "Map Preview")
+    ![map preview page with search showing selected building](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/preview-page-1.png "Map Preview")
 
-6.  Select the **Get Directions** icon \( ![Change directions icon available on the search field in the map preview page](../images/map-preview-6-directions-icon.png)\) to open the change directions panel.
+6.  Select the **Get Directions** icon \( ![Change directions icon available on the search field in the map preview page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/map-preview-6-directions-icon.png)\) to open the change directions panel.
 
     Application provides alerts if you have not added direction modes for your View type in a selected campus. Adding direction mode helps to enable direction in a building for wayfinding and location directory.
 
@@ -53,9 +53,9 @@ Role required: map admin, map editor, map editor limited
 
     For example: You can move from One building to another \(Building A to B\) on a campus. Within the same building \(Building B\), you can select a floor \(Floor 3\) and create directions for wayfinding from one space to another on Floor 3 \(B312 to B3.0053\).
 
-    ![map preview showing wayfinding directions From one building to another](../images/preview-page-2.png "Map Preview")
+    ![map preview showing wayfinding directions From one building to another](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/preview-page-2.png "Map Preview")
 
-10. You can use the reverse direction icon ![toggle key to show reverse direction on the floor map for wayfinding](../images/map-preview-reverse-direction-icon.png) available near the **From** and **To** fields to change the from and to options and reverse the directions.
+10. You can use the reverse direction icon ![toggle key to show reverse direction on the floor map for wayfinding](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../images/map-preview-reverse-direction-icon.png) available near the **From** and **To** fields to change the from and to options and reverse the directions.
 
 11. Toggle between the **View Types** available on the top right menu \(in case if you have multiple View types\).
 
@@ -64,9 +64,9 @@ Role required: map admin, map editor, map editor limited
     Change the Campus from the **Campus** drop-down list on the top right menu on the map studio.
 
 
-**Parent Topic:**[Manage map objects and data](../concept/using-indoor-mapping.md)
+**Parent Topic:**[Manage map objects and data](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/../concept/using-indoor-mapping.md)
 
-**Previous topic:**[View editor content](view-editor-content.md)
+**Previous topic:**[View editor content](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/view-editor-content.md)
 
-**Next topic:**[Print a map](print-map.md)
+**Next topic:**[Print a map](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/print-map.md)
 

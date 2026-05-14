@@ -23,7 +23,7 @@ Role required: sn\_hs\_rm.permit\_coordinator
 
 1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
-2.  Select the risk management icon \(![Risk assessment icon](../image/icon-risk-assessment.png)\).
+2.  Select the risk management icon \(![Risk assessment icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../image/icon-risk-assessment.png)\).
 
 3.  Select the **Permit to work** list and select **All**.
 
@@ -33,12 +33,12 @@ Role required: sn\_hs\_rm.permit\_coordinator
 
 6.  On the form, fill in the fields.
 
-    For information on field description, see [Health and Safety action form](../../ohs-incident-management/reference/hs-action-form.md).
+    For information on field description, see [Health and Safety action form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../../ohs-incident-management/reference/hs-action-form.md).
 
 7.  Select **Save**.
 
     The action appears in the list of actions in the **Health and Safety actions** tab of the permit record. It is also listed in the **Actions** list on Health and Safety Workspace.
 
 
-**Parent Topic:**[Permit-to-work system](../concept/hs-permit-to-work.md)
+**Parent Topic:**[Permit-to-work system](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/../concept/hs-permit-to-work.md)
 

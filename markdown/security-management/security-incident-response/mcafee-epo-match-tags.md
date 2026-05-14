@@ -25,7 +25,7 @@ The security tag names in your McAfee ePO console for the initiate malware scan 
 
 Before you create a capability profile to run your capabilities, view the list of available McAfee ePO capabilities and edit the security tags in your ServiceNow AI Platform instance so that they match the security tag names in your McAfee ePO console.
 
-For more information about creating the security tag names in your McAfee ePO console, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](mcafee-epo-setup-mcafee.md).
+For more information about creating the security tag names in your McAfee ePO console, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ For more information about creating the security tag names in your McAfee ePO co
 
     When this option is enabled, the Alternate CI trigger field choice list is displayed.
 
-    ![Edit security tags in the ServiceNow AI Platform for the McAfee integration](../image/mcafee-default-config.png "Edit security tags")
+    ![Edit security tags in the ServiceNow AI Platform for the McAfee integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../image/mcafee-default-config.png "Edit security tags")
 
 6.  Choose an alternate field from the choice list to check for your CI search criteria.
 
@@ -68,11 +68,11 @@ For more information about creating the security tag names in your McAfee ePO co
     You have successfully edited the EPO Tag Names for the malware scan and the isolate host capabilities in your ServiceNow AI Platform instance. The next step is to create a profile for your capabilities.
 
 
-**Parent Topic:**[McAfee ePO integration](../concept/mcaffee-epo-overview-arch.md)
+**Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/../concept/mcaffee-epo-overview-arch.md)
 
-**Previous topic:**[Install the application and configure a server for the McAfee ePO integration](mcaffe-epo-install.md)
+**Previous topic:**[Install the application and configure a server for the McAfee ePO integration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffe-epo-install.md)
 
-**Next topic:**[Create an approval group](create-approval-group-mcafee.md)
+**Next topic:**[Create an approval group](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-approval-group-mcafee.md)
 
 **Related topics**  
 

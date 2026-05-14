@@ -55,13 +55,13 @@ These outputs appear in the Data panel. You can use them as inputs elsewhere in 
 
 ## Get attachments from an incident record
 
-![Flow with a create record trigger that runs the Get attachments on record action](../images/get-attachments-on-record.png "Inputs used for Get attachments on record")
+![Flow with a create record trigger that runs the Get attachments on record action](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/get-attachments-on-record.png "Inputs used for Get attachments on record")
 
 This example illustrates getting all attachments from an incident record. Leaving the File name input empty returns all attachment records.
 
-![Execution details of getting attachments from an incident record](../images/get-attachments-on-record-execution-details.png "Execution details for get attachment on record")
+![Execution details of getting attachments from an incident record](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../images/get-attachments-on-record-execution-details.png "Execution details for get attachment on record")
 
 In this example, the incident record contained two attachments.
 
-**Parent Topic:**[Workflow Studio actions](../concept/flow-actions.md)
+**Parent Topic:**[Workflow Studio actions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/build-workflows/workflow-studio/../concept/flow-actions.md)
 

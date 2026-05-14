@@ -79,5 +79,5 @@ Role required: sn\_kmf.cryptographic\_manager
     A confirmation message is displayed mentioning that the records are signed.
 
 
-**Parent Topic:**[Sign the REST and SOAP messages in the production instance](cs-rest-soap.md)
+**Parent Topic:**[Sign the REST and SOAP messages in the production instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/cs-rest-soap.md)
 

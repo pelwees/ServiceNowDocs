@@ -97,5 +97,5 @@ The date since historical detections were ingested from CrowdStrike Next-Gen SIE
 
 ## What to do next
 
-[Automate detection updates and closures](automate-inc-crowdstrike-ng.md)
+[Automate detection updates and closures](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/security-management/security-incident-response/automate-inc-crowdstrike-ng.md)
 

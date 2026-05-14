@@ -18,7 +18,7 @@ Define a custom Log Analytics alert rule for log data that is not generating ale
 
 ## Before you begin
 
-For background information, see [About Log Analytics alert rules](../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
+For background information, see [About Log Analytics alert rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../../health-log-analytics-admin/concept/hla-custom-alert-rules.md).
 
 Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
@@ -26,11 +26,11 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 1.  Open the **Log Viewer** using one of the following methods:
 
-    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(![Log Viewer icon.](../image/icon-log-viewer-sow.png)\).
+    -   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the Log Viewer icon \(![Log Viewer icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-log-viewer-sow.png)\).
     -   While viewing log entries for an alert on the **Surrounding logs** tab, select **Log Viewer**.
 2.  Define and run a search.
 
-    For more information, see [Define, save, and share a search of log data in Health Log Analytics](hla-op-search-queries-manage-sow.md).
+    For more information, see [Define, save, and share a search of log data in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-search-queries-manage-sow.md).
 
 3.  When a search returns log data that should generate an alert, select **Save** or **Save as** to save the search.
 
@@ -86,7 +86,7 @@ Component
 
 </td><td>
 
-The component to which this alert rule applies.By default, this is the component that was defined on the Log viewer. You can choose a different component by selecting the search icon \(![Search icon.](../image/icon-search-sow.png)\) in the Component row and then selecting the required component from the list.
+The component to which this alert rule applies.By default, this is the component that was defined on the Log viewer. You can choose a different component by selecting the search icon \(![Search icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/../image/icon-search-sow.png)\) in the Component row and then selecting the required component from the list.
 
 </td></tr></tbody>
 </table>9.  Fill in the fields related to the threshold that will trigger the alert rule.
@@ -105,7 +105,7 @@ The component to which this alert rule applies.By default, this is the component
 **Related topics**  
 
 
-[Change a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-modify-sow.md)
+[Change a Log Analytics alert rule in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-defined-alert-modify-sow.md)
 
-[Delete a Log Analytics alert rule in Health Log Analytics](hla-op-defined-alert-delete-sow.md)
+[Delete a Log Analytics alert rule in Health Log Analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-defined-alert-delete-sow.md)
 

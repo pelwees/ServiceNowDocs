@@ -89,22 +89,22 @@ Add strict mode permissions to synchronize Workplace Calendar Synchronization wi
 
 ## What to do next
 
-[Create a strict mode configuration in Microsoft Exchange Online](strict-mode-configuration-in-msex.md).
+[Create a strict mode configuration in Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/strict-mode-configuration-in-msex.md).
 
-**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](../concept/strict-mode-configurations-for-connection-with-msex.md)
+**Parent Topic:**[Create a strict mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/../concept/strict-mode-configurations-for-connection-with-msex.md)
 
 **Related topics**  
 
 
-[Create connection with Microsoft Exchange Online Spoke in strict mode](create-connection-with-msspoke-strict-mode.md)
+[Create connection with Microsoft Exchange Online Spoke in strict mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-with-msspoke-strict-mode.md)
 
-[Create a strict mode configuration in Microsoft Exchange Online](strict-mode-configuration-in-msex.md)
+[Create a strict mode configuration in Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/strict-mode-configuration-in-msex.md)
 
-[Setup strict mode OAuth connectivity with Microsoft Exchange Online](setup-strict-mode-oauth-connectivity-with-msex.md)
+[Setup strict mode OAuth connectivity with Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/setup-strict-mode-oauth-connectivity-with-msex.md)
 
-[Configure strict mode Connection and Credential alias for Microsoft Exchange Online](configure-strict-mode-connection-and-credential-alias-for-msex.md)
+[Configure strict mode Connection and Credential alias for Microsoft Exchange Online](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-strict-mode-connection-and-credential-alias-for-msex.md)
 
-[Create your own credential and connection alias for strict mode](create-own-credential-and-connection-alias-for-strict-mode.md)
+[Create your own credential and connection alias for strict mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-own-credential-and-connection-alias-for-strict-mode.md)
 
-[Configure Microsoft Exchange Online calendar provider in strict mode](configure-msex-strict-mode-calendar-providers.md)
+[Configure Microsoft Exchange Online calendar provider in strict mode](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-msex-strict-mode-calendar-providers.md)
 

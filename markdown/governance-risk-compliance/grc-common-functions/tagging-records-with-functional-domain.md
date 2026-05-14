@@ -36,7 +36,7 @@ The scheduled job is configured to run every Monday at 1:00 A.M. On successful e
 
 The `Functional domain metrics` table includes the following columns: Count, Functional Domain, Domain, and Type.
 
-![Functional domain metrics table with data populated after the Populate Functional domain metrics table weekly job has been executed successfully.](../image/functional-domain-metrics-table.png "Functional domain metrics table")
+![Functional domain metrics table with data populated after the Populate Functional domain metrics table weekly job has been executed successfully.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../image/functional-domain-metrics-table.png "Functional domain metrics table")
 
 ## Supported record types
 
@@ -56,10 +56,10 @@ The following is a list of supported record types:
 -   Entity Type
 -   Risk Statement
 
--   **[Functional domain bulk update](functional-domain-bulk-update.md)**  
+-   **[Functional domain bulk update](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/functional-domain-bulk-update.md)**  
 The functional domain feature enables users to efficiently filter and sort records within a workspace based on domain-specific tags. For instance, when working in the Privacy Workspace, users can exclude records that are not tagged with privacy, allowing for a more focused view and reducing potential confusion.
--   **[Bulk update functional domain for multiple records](../task/bulk-update-functional-domain-for-multiple-records.md)**  
+-   **[Bulk update functional domain for multiple records](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/../task/bulk-update-functional-domain-for-multiple-records.md)**  
 Update the functional domain for multiple records at once to save time and ensure efficiency.
 
-**Parent Topic:**[Common Governance, Risk, and Compliance features](common-grc-features.md)
+**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 

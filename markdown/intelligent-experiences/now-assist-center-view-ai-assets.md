@@ -22,17 +22,17 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to view the AI assets on your instance. AI assets include agents, agentic workflows, skills, subflows, actions, virtual assistants, and topics.
 
-For more information, see [Now Assist AI assets](../../now-assist-skills/concept/platform-ai-assets-section.md).
+For more information, see [Now Assist AI assets](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../../now-assist-skills/concept/platform-ai-assets-section.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Asset inventory** \(![Asset inventory icon.](../image/icon-now-assist-center-nav-assets.png)\) in the side navigation bar.
+2.  Select **Asset inventory** \(![Asset inventory icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/icon-now-assist-center-nav-assets.png)\) in the side navigation bar.
 
     The Asset inventory tab opens showing tabs for the various asset types.
 
-    ![Asset inventory in Now Assist Center.](../image/now-assist-center-asset-inventory-overview.png "Asset inventory")
+    ![Asset inventory in Now Assist Center.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../image/now-assist-center-asset-inventory-overview.png "Asset inventory")
 
 3.  Select the tab to view your AI assets for that type.
 
@@ -134,10 +134,10 @@ Displays a list of all topics.
 5.  Select the asset name in the list to view the asset details on a separate workspace tab.
 
 
-**Parent Topic:**[Using the asset inventory in Now Assist Center](../concept/now-assist-center-using-asset-inventory.md)
+**Parent Topic:**[Using the asset inventory in Now Assist Center](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/../concept/now-assist-center-using-asset-inventory.md)
 
 **Related topics**  
 
 
-[Create an AI asset in the asset inventory](now-assist-center-create-asset.md)
+[Create an AI asset in the asset inventory](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-create-asset.md)
 

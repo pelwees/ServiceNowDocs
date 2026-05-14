@@ -27,7 +27,7 @@ Role required: admin
 
 2.  In Group &amp; Action - Telecom, select **Activate skill**.
 
-    ![Now Assist skills for TMT.](../image/assist-skills-tmt.jpg)
+    ![Now Assist skills for TMT.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/../image/assist-skills-tmt.jpg)
 
 3.  On the form, select **Edit** to change the values.
 

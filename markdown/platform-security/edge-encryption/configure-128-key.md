@@ -23,7 +23,7 @@ Role required: admin
 
 The encryption key is either a plain text file inside the `/keys` directory or a secret key inside a keystore. If you use a keystore for your AES 128-bit and AES 256-bit encryption keys, they must both use the same keystore.
 
-If you are updating an SSL certificate on an Edge proxy server, see [Update SSL certificate](update-ssl-certificate.md).
+If you are updating an SSL certificate on an Edge proxy server, see [Update SSL certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/update-ssl-certificate.md).
 
 ## Procedure
 
@@ -43,7 +43,7 @@ Description
 
 </td><td>
 
-Use a file to store a single encryption key. You can use an existing file in the `/keys` directory, or you can generate a new file. To generate a new file, enter an alias and click **Generate**. A file containing an encryption key is created.**Note:** This choice designates both the storage location and the encryption key. If you select **File Store**, click **Next** and go to [step 5](configure-128-key.md#configure-key-on-instance).
+Use a file to store a single encryption key. You can use an existing file in the `/keys` directory, or you can generate a new file. To generate a new file, enter an alias and click **Generate**. A file containing an encryption key is created.**Note:** This choice designates both the storage location and the encryption key. If you select **File Store**, click **Next** and go to [step 5](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-128-key.md#configure-key-on-instance).
 
 </td></tr><tr><td id="d146078e130">
 
@@ -103,16 +103,16 @@ Import an encryption key from a different keystore.
 
 5.  Configure the key on the instance according to the requirements defined in your installer.
 
-    To configure the key on the instance, navigate to the instance and define a default key. See [Configure encryption keys on the instance](t_RotateEncryptionKeys.md). Ensure that the key alias, size, and type match the requirements defined in the installer.
+    To configure the key on the instance, navigate to the instance and define a default key. See [Configure encryption keys on the instance](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RotateEncryptionKeys.md). Ensure that the key alias, size, and type match the requirements defined in the installer.
 
 
 
 6.  Once the key is configured on the instance, return to the installer and click **Next**.
 
 
-**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](proxy-installer.md)
+**Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
 
-**Previous topic:**[Configure the HTTPS certificate](configure-cert.md)
+**Previous topic:**[Configure the HTTPS certificate](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cert.md)
 
-**Next topic:**[Configure the AES 256-bit encryption key](configure-256-key.md)
+**Next topic:**[Configure the AES 256-bit encryption key](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-256-key.md)
 

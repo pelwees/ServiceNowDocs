@@ -23,7 +23,7 @@ Role required: atf\_test\_admin
 
 Automated Test Framework: In this example, the second step references an output value from the first step. Pass values from one step to another example.
 
-![Pass values from one step to another example](../image/atf-use-backref-02.png)
+![Pass values from one step to another example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-backref-02.png)
 
 ## Procedure
 
@@ -31,21 +31,21 @@ Automated Test Framework: In this example, the second step references an output 
 
     This example inserts a record into the Incident table.
 
-    ![Record insert](../image/atf-use-backref-01.png "Step 1 - Record Insert")
+    ![Record insert](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-backref-01.png "Step 1 - Record Insert")
 
 2.  Open the record just inserted by assigning to the **Record** field the output variable from Step 1.
 
-    ![Open an existing record test step](../image/atf-use-backref-form.png "Step 2 - Specify the record")
+    ![Open an existing record test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-backref-form.png "Step 2 - Specify the record")
 
 3.  Validate that fields on the open record have the values you expect.
 
-    ![Field values validation test step](../image/atf-use-backref-03.png "Step 3 - Field Values Validation")
+    ![Field values validation test step](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../image/atf-use-backref-03.png "Step 3 - Field Values Validation")
 
 
-**Parent Topic:**[Automated Test Framework use case examples](../concept/atf-use-cases.md)
+**Parent Topic:**[Automated Test Framework use case examples](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/../concept/atf-use-cases.md)
 
 **Related topics**  
 
 
-[Pass values from one automated test step to another](atf-retrieve-value.md)
+[Pass values from one automated test step to another](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/automated-test-framework-atf/atf-retrieve-value.md)
 

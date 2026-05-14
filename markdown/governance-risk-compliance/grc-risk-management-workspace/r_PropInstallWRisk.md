@@ -148,5 +148,5 @@ A list of tables that are available in the 'Applies to' field on the Risk form.s
 -   Location: **Risk** &gt; **Administration** &gt; **Properties**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Components installed with Risk Management](r_InstallWRisk.md)
+</table>**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 

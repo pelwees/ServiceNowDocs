@@ -37,7 +37,7 @@ Role required: image\_admin or content\_admin
 
 2.  To upload multiple images at once, complete the following steps:
 
-    1.  Create a .zip file that contains only [acceptable image file types](../concept/c_StoringImagesInTheDatabase.md#AcceptableImageFileTypes).
+    1.  Create a .zip file that contains only [acceptable image file types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_StoringImagesInTheDatabase.md#AcceptableImageFileTypes).
 
         **Note:** The system does not support uploading zip files that contain .bmp images.
 
@@ -55,14 +55,14 @@ Role required: image\_admin or content\_admin
     -   Image names cannot exceed 100 characters in length, including folder structure. Files with excessively long names are rejected.
     -   Uploads are logged in the system. View system logs to see whether files are uploaded or rejected.
 
-**Parent Topic:**[Storing images in the database](../concept/c_StoringImagesInTheDatabase.md)
+**Parent Topic:**[Storing images in the database](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/../concept/c_StoringImagesInTheDatabase.md)
 
 **Related topics**  
 
 
-[Update an existing image](t_UpdatingAnExistingImage.md)
+[Update an existing image](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/t_UpdatingAnExistingImage.md)
 
-[Restrict file extensions](restrict-file-extensions.md)
+[Restrict file extensions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-user-interface/restrict-file-extensions.md)
 
 [System log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SystemLogs.md)
 

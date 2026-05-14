@@ -49,5 +49,5 @@ Exception tasks
 Follow-up actions that are created from this exception. For example, supplier cases, universal requests, exception tasks, purchase order revisions, and approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Purchase order exception form](purch-order-exception-form.md)
+</table>**Parent Topic:**[Purchase order exception form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form.md)
 

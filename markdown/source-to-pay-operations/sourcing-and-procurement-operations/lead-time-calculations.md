@@ -273,5 +273,5 @@ The total lead time of a supplier product is recalculated every time the values 
 
 **Note:** All the lead times are recalculated and refreshed after completion of each purchase requisition. For these calculations, only the purchase requisition data of the recent 12 months is considered.
 
-**Parent Topic:**[Setting up primary data for ShoppingHub](set-up-master-data-shopping-hub.md)
+**Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 

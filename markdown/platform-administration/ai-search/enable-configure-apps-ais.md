@@ -15,7 +15,7 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 Configure and use the AI Search engine in the Customer Service Management, Now Mobile, Service Portal, and Virtual Agent applications.
 
-For each supported ServiceNow AI Platform application that you want to use AI Search in, define a search application configuration and specify AI Search as the search engine. To learn more about search application configurations, see [Search application configurations](defining-search-app-cfgs-ais.md).
+For each supported ServiceNow AI Platform application that you want to use AI Search in, define a search application configuration and specify AI Search as the search engine. To learn more about search application configurations, see [Search application configurations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md).
 
 Some applications support additional configuration for AI Search, as described in the following sections.
 
@@ -47,7 +47,7 @@ For information on how Virtual Agent uses AI Search, see [Improving the user exp
 
 The AI Search for Next Experience ServiceNow® Store application enables administrators to configure AI Search as the search engine for Unified Navigation searches in Next Experience, including global search and configurable workspace search.
 
-For more information on how you can configure and use AI Search for Next Experience in global search and configurable workspace search, see [AI Search for Next Experience](ais-next-experience-app.md).
+For more information on how you can configure and use AI Search for Next Experience in global search and configurable workspace search, see [AI Search for Next Experience](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-next-experience-app.md).
 
-**Parent Topic:**[Configuring AI Search](configuring-ais.md)
+**Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 

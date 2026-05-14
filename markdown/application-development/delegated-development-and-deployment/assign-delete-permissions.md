@@ -31,7 +31,7 @@ Role required: admin
 
 5.  Toggle on **Delete Application**, and then select **Save**.
 
-    ![Delete application](../image/delegated-dev-delete-application.png "Delete Application")
+    ![Delete application](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/application-development/delegated-development-and-deployment/../image/delegated-dev-delete-application.png "Delete Application")
 
 6.  The delegated developer can now delete the application.
 

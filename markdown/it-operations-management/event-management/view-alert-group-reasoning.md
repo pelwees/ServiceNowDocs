@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 3.  Open the property.
 
-    ![Property page where you can define alert types for creating worknotes related to alert group reasoning.](../image/em_work_notes_alert_grp.png)
+    ![Property page where you can define alert types for creating worknotes related to alert group reasoning.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../image/em_work_notes_alert_grp.png)
 
 4.  In the **Choices** field, define alert types for creating worknotes related to alert group reasoning.
 
@@ -44,5 +44,5 @@ Role required: evt\_mgmt\_admin
 **Related topics**  
 
 
-[Alert grouping types and creation methods](../concept/Alert-Groups.md)
+[Alert grouping types and creation methods](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/event-management/../concept/Alert-Groups.md)
 

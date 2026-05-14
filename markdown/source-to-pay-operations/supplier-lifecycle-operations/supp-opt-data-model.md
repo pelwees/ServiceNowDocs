@@ -17,7 +17,7 @@ The diagram shows the tables and their relationships that comprise the Supplier 
 
 **Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
-![Supplier payment optimization data model](../image/supp-opt-data-model2.png)
+![Supplier payment optimization data model](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../image/supp-opt-data-model2.png)
 
-**Parent Topic:**[Supplier Payment Optimization reference](../concept/supp-payment-opt-ref.md)
+**Parent Topic:**[Supplier Payment Optimization reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/../concept/supp-payment-opt-ref.md)
 

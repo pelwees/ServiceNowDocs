@@ -39,26 +39,26 @@ Activate the Survey Question Bank Sample Data plugin \(com.snc.question\_bank\_d
 
 6.  In the Survey Question form, fill the fields.
 
-    For information on these fields, see [Create or modify survey questions](t_CreateOrModifySurveyQuestions.md).
+    For information on these fields, see [Create or modify survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md).
 
 7.  Click **Submit**.
 
 
--   **[Configure metric categories or metrics for a survey using the question bank](configure-questionbank-survey.md)**  
+-   **[Configure metric categories or metrics for a survey using the question bank](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-survey.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a survey.
 
-**Parent Topic:**[Survey questions](../concept/c_SurveyQuestion.md)
+**Parent Topic:**[Survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestion.md)
 
 **Related topics**  
 
 
-[Create or modify survey questions](t_CreateOrModifySurveyQuestions.md)
+[Create or modify survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifySurveyQuestions.md)
 
-[Survey question data types](../reference/r_SurveyQuestionDataTypes.md)
+[Survey question data types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../reference/r_SurveyQuestionDataTypes.md)
 
-[Survey question template](../concept/c_SurveyQuestionTemplate.md)
+[Survey question template](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/../concept/c_SurveyQuestionTemplate.md)
 
-[Create or modify answer options](t_CreateOrModifyAnswerOptions.md)
+[Create or modify answer options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifyAnswerOptions.md)
 
-[Change the order of survey questions](t_ChangeTheOrderOfSurveyQuestions.md)
+[Change the order of survey questions](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfSurveyQuestions.md)
 

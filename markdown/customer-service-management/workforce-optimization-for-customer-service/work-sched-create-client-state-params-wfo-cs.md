@@ -21,7 +21,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 ## Procedure
 
-1.  Select the Client state icon \(![Client state icon](../image/client-state-icon.png)\).
+1.  Select the Client state icon \(![Client state icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/../image/client-state-icon.png)\).
 
 2.  In the Client state parameters section, click **+Add**.
 
@@ -51,7 +51,7 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 [Create page scripts for Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/work-sched-create-page-scripts.md)
 
-**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](create-workscheduler-card-wfo-cs.md)
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/workforce-optimization-for-customer-service/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 

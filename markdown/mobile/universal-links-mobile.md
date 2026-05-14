@@ -21,14 +21,14 @@ Mobile universal linking is a method to redirect your users from using the Servi
 
 After the user taps **View** in the banner, direct them to any record screen, form screen, or browser screen within a specified mobile app. For form and record screens, you can direct the user to a specific location based on a defined table.
 
-![Universal link shown on phone image.](../image/universal-link-on-phone.png)
+![Universal link shown on phone image.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../image/universal-link-on-phone.png)
 
--   **[Enable mobile universal linking](../task/universal-linking-enable.md)**  
+-   **[Enable mobile universal linking](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/universal-linking-enable.md)**  
 Enable the universal linking option if you want a web banner displayed on specified pages of the ServiceNow platform website. By default the mobile universal linking option is not available in the base system.
--   **[Enable expansion of universal linking to mobile browser \(MESP\) pages](../task/universal-linking-unsupported.md)**  
+-   **[Enable expansion of universal linking to mobile browser \(MESP\) pages](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/../task/universal-linking-unsupported.md)**  
 Enable the expanded universal linking option to display the web banner on mobile browser pages when the user does not have the appropriate mobile app installed. By default this mobile universal linking option is not available in the base system.
--   **[Mobile universal linking for supported URLs](universal-linking-support-urls.md)**  
+-   **[Mobile universal linking for supported URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/universal-linking-support-urls.md)**  
 Use mobile universal linking to display a web banner on specified platform web pages to encourage users to work within a ServiceNow mobile app. Configure the supported URLs that facilitate this functionality to ensure that the banners are displayed on the correct web pages. These URLs also direct users to a defined location within the appropriate mobile app.
 
-**Parent Topic:**[Mobile URLs](mobile-urls.md)
+**Parent Topic:**[Mobile URLs](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/mobile/mobile-urls.md)
 

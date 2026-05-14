@@ -29,7 +29,7 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_analyst or sn\_ai\_case\_mgmt.ai\_ca
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Create New AI case form, see [Create new AI case form](create-new-ai-case-form.md).
+    For a description of the field values on the Create New AI case form, see [Create new AI case form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-new-ai-case-form.md).
 
 5.  Select **Save**.
 

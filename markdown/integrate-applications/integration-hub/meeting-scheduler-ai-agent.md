@@ -21,29 +21,29 @@ This AI agent retrieves details of available rooms, details of the relevant user
 -   Teams event: This a meeting where attendees can join Microsoft Teams meeting.
 -   Zoom event: This a meeting where attendees can join the meeting using Zoom URL.
 
-**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](../../integrationhub-store-spokes/concept/ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](../../integrationhub-store-spokes/concept/zoom-spoke.md).
+**Important:** To use this AI agent, ensure that you have activated the [Microsoft Exchange Online Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/concept/ms-exch-online-spoke.md) and configured the client credential alias. To generate Zoom URL for the meeting, you must activate and configure the [Zoom Spoke](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../../integrationhub-store-spokes/concept/zoom-spoke.md).
 
 In this example, Manish \(the logged-in user\) uses the Meeting scheduler AI agent from Now Assist panel to schedule a meeting with Vivek and provides details about the date, place, and meeting agenda. In this case, the AI agent schedules the meeting with most relevant user \(based on collaboration and organizational context\) named Vivek. If the AI agent is not able to retrieve details of the most relevant user from Microsoft Exchange Online, details of all users whose names match Vivek are retrieved from the ServiceNow User table \[sys\_user\] and displayed, and logged-in user Manish can choose the required user.
 
 AI agent then displays the list of available time slots. Manish can select the feasible time slot. You can also view the AI steps. If a time slot at the mentioned time is unavailable, AI agents expands the search window to 2 days and displays the list of available slots.
 
-![Schedule a meeting using the Meeting scheduler AI agent.](../images/na-meeting-scheduler-ai-agent1.jpg)
+![Schedule a meeting using the Meeting scheduler AI agent.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/na-meeting-scheduler-ai-agent1.jpg)
 
 Manish can review the meeting details and proceed with scheduling the meeting.
 
-![Summary of the meeting details.](../images/na-meeting-scheduler-ai-agent2.jpg)
+![Summary of the meeting details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/na-meeting-scheduler-ai-agent2.jpg)
 
 Once the meeting is created, the details are displayed.
 
-![Meeting details.](../images/na-meeting-scheduler-ai-agent3.jpg)
+![Meeting details.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/na-meeting-scheduler-ai-agent3.jpg)
 
 The event is added to your Outlook calendar and you can also view the meeting details in Outlook.
 
 Using AI agent, Manish can also modify the meeting by adding room of the required capacity and in a specified location, adding more attendees, changes date or time, and so on.
 
-![Event is added to the Outlook calendar.](../images/na-meeting-scheduler-ai-agent4.jpg)
+![Event is added to the Outlook calendar.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/na-meeting-scheduler-ai-agent4.jpg)
 
-![Event details on Outlook.](../images/na-meeting-scheduler-ai-agent5.jpg)
+![Event details on Outlook.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integration-hub/../images/na-meeting-scheduler-ai-agent5.jpg)
 
 -   In the ServiceNow agentic system, you can create an agentic workflow that comprises of a set of large language model \(LLM\) instructions along with one or more standalone AI agents to execute an objective. See [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md) for information about adding AI agents to create agentic workflows as per your requirement and provide the required trigger.
 

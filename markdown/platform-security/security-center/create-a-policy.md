@@ -29,8 +29,8 @@ Role required: admin
 
 4.  Configure the policy.
 
-    See [Configure preferences for security event notification policies](configure-preferences-for-security-event-notifications.md) to learn how to configure your new custom security event notification policy.
+    See [Configure preferences for security event notification policies](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/configure-preferences-for-security-event-notifications.md) to learn how to configure your new custom security event notification policy.
 
 
-**Parent Topic:**[Security Event Notifications](../concept/security-policies.md)
+**Parent Topic:**[Security Event Notifications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/security-center/../concept/security-policies.md)
 

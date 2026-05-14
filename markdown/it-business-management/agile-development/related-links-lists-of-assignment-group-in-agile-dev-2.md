@@ -18,7 +18,7 @@ Use the related lists in the Group form for the actions that you need to perform
 |Name|Description|
 |----|-----------|
 |Create Sprints|Create sprints for the team. New sprints are listed in the Sprints related list of the group.|
-|Sprint Planning|[Plan your sprint activities in Agile Development 2.0](../../sdlc-scrum/task/plan-sprint-activities.md).|
+|Sprint Planning|[Plan your sprint activities in Agile Development 2.0](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/../../sdlc-scrum/task/plan-sprint-activities.md).|
 
 <table id="table_w25_h1v_cdc"><thead><tr><th>
 
@@ -45,5 +45,5 @@ Sprints
 Lists the sprints for the group. Click **New** to add a sprint to the group.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Agile Development 2.0 reference](agile-development-2-reference.md)
+</table>**Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 

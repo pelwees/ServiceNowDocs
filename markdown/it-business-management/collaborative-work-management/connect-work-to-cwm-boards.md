@@ -29,11 +29,11 @@ Role required: sn\_cwm.cwm\_user
 
     If you already have connected any work items, then this label is displayed as **Connected work**.
 
-    ![Connect work option in the CWM Board header.](../images/cwm-connected-work.png)
+    ![Connect work option in the CWM Board header.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-connected-work.png)
 
 4.  In the Manage connected work modal, select **+ Add new**.
 
-    ![Connect new work items.](../images/cwm-connected-work-add.png)
+    ![Connect new work items.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-connected-work-add.png)
 
 5.  Choose a table and define the conditions to filter the records from the selected table.
 
@@ -51,11 +51,11 @@ Role required: sn\_cwm.cwm\_user
 
         **Active is true** and **Category is Inquiry / Help** or **Category is Software**.
 
-    4.  Select the Update count icon \(![Update count icon.](../images/cwm-icon-update-count.png)\) to check the number of records that exist which match the filter criteria that you defined.
+    4.  Select the Update count icon \(![Update count icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-icon-update-count.png)\) to check the number of records that exist which match the filter criteria that you defined.
 
         **Note:** Ensure that the number of records available for your filter criteria are not more than 100. You can change this number by default to 500 by working with your admin to update the system property **sn\_cwm.connect\_work\_import\_limit**.
 
-        ![Define conditions to connect records from other ServiceNow applications.](../images/cwm-connected-work-define.png)
+        ![Define conditions to connect records from other ServiceNow applications.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-connected-work-define.png)
 
 6.  Select **Save**.
 
@@ -70,20 +70,20 @@ Role required: sn\_cwm.cwm\_user
 
 -   The Board is refreshed to load and display all the connected work items.
 -   Any existing information such as Assigned to, State, and Start and End dates is also shown on the Board.
--   With the Sprint planning view enabled, you can see all these connected work items in the Backlog list. For more information about performing sprint planning, see [Sprint planning in CWM](../concept/agile-sprint-planning-in-cwm.md).
+-   With the Sprint planning view enabled, you can see all these connected work items in the Backlog list. For more information about performing sprint planning, see [Sprint planning in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/agile-sprint-planning-in-cwm.md).
 
-![CWM Board with connected work items displayed in the List view.](../images/cwm-connected-work-board.png)
+![CWM Board with connected work items displayed in the List view.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../images/cwm-connected-work-board.png)
 
 ## What to do next
 
 To enable additional fields from any connected work table, change the form layout configuration for the Default view of the table. You can then surface these fields as columns in CWM. For more information, see [Show or hide fields on a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
-**Parent Topic:**[Connected work in CWM](../concept/unified-boards-for-connected-work-in-cwm.md)
+**Parent Topic:**[Connected work in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/../concept/unified-boards-for-connected-work-in-cwm.md)
 
 **Related topics**  
 
 
-[Manage connected work item types in CWM](manage-connected-work-item-types-in-cwm.md)
+[Manage connected work item types in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/manage-connected-work-item-types-in-cwm.md)
 
-[Update filter conditions for connected work in CWM](update-conditions-for-connected-work-in-cwm.md)
+[Update filter conditions for connected work in CWM](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/update-conditions-for-connected-work-in-cwm.md)
 

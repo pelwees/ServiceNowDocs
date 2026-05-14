@@ -89,7 +89,7 @@ Price
 
 </td></tr><tr><td>
 
-Changes made to the order line item quantity for a product or service order.To learn more, see [Order quantity support in Order Management](order-quantity-support.md).
+Changes made to the order line item quantity for a product or service order.To learn more, see [Order quantity support in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-quantity-support.md).
 
 </td><td>
 
@@ -97,7 +97,7 @@ Quantity
 
 </td></tr><tr><td>
 
-Changes made to the order line item quantity for a product or service order due to the change in characteristic value.To learn more, see [Order quantity support in Order Management](order-quantity-support.md).
+Changes made to the order line item quantity for a product or service order due to the change in characteristic value.To learn more, see [Order quantity support in Order Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/order-quantity-support.md).
 
 </td><td>
 
@@ -243,5 +243,5 @@ To approve an inflight revision or cancellation request, an order fulfillment or
 4.  The associated domain product, service, and resource domain orders move from their current state to an On Hold state.
 5.  The associated order tasks move to an On Hold state.
 
-**Parent Topic:**[Managing inflight order changes and cancellation requests](inflight-order-change-mgt-overview.md)
+**Parent Topic:**[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 

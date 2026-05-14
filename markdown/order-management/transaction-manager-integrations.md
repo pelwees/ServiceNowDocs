@@ -23,9 +23,9 @@ Before an integration is defined, the admin must define a connection to the thir
 
 To create a new connection, in the Utilities area of the Admin UI, click **Connections**. Then click **+ New** to display the New Connection page.
 
-![Connections screen](../images/cpq-txn-mgr-connections.jpeg)
+![Connections screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-connections.jpeg)
 
-![New connection screen](../images/cpq-txn-mgr-connection-new.jpeg)
+![New connection screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-connection-new.jpeg)
 
 On the New Connection page, name the new connection and assign a variable name. Next, choose the integration type: Salesforce or External.
 
@@ -43,9 +43,9 @@ Use the Additional Headers field to add any additional header information that i
 
 To create a new integration, click **+ Add Integration**. The New Integration window appears. Give the new Integration a name and a variable name, and click **Save**.
 
-![Transaction screen](../images/cpq-txn-mgr-integrations.jpeg)
+![Transaction screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integrations.jpeg)
 
-![New Integration screen](../images/cpq-txn-mgr-integration-new.jpeg)
+![New Integration screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-integration-new.jpeg)
 
 The Integration Editor page opens. Continue defining the new integration by configuring the following settings:
 
@@ -56,11 +56,11 @@ The Integration Editor page opens. Continue defining the new integration by conf
 -   **Async**: This toggle allows you to run the query asynchronously in the background so that the user can continue working.
 -   **Headers**: You can use static text in header-level Transaction Manager fields by using simple handlebar syntax, you can set key-value pairs for headers, or you can combine both these methods.`{{txn.fieldname}}`
 
-![Integration screen](../images/cpq-txn-mgr-get-oppty-id.png)
+![Integration screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-get-oppty-id.png)
 
 Next, you need to define the connection to the endpoint. Here you choose from a list of the connections that you previously created in the Utilities area to define which third-party site to connect to for this integration.
 
-![Integration screen](../images/cpq-txn-mgr-get-opportunity-id.jpeg)
+![Integration screen](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../images/cpq-txn-mgr-get-opportunity-id.jpeg)
 
 Finally, you need to define the transformation template, which lets you map third-party data to CPQ fields or map CPQ data to third-party data source fields.
 

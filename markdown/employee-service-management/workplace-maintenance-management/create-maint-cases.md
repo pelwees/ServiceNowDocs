@@ -29,13 +29,13 @@ Role required: admin
 
     The **Workplace Maintenance Nightly run** scheduled job generates maintenance cases for maintenance plan records.
 
-    ![The Overview tab for a Maintenance plan calendar view showing maintenance cases.](../images/wsd-maint-overview-tab.png)
+    ![The Overview tab for a Maintenance plan calendar view showing maintenance cases.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-maint-overview-tab.png)
 
 3.  Select a maintenance case to view the **Workplace Service** associated with a maintenance case and the scheduled job value for a case.
 
-    For more information, see [Create plan service configuration](create-maint-service-config.md).
+    For more information, see [Create plan service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md).
 
-    ![Published plan showing maintenance cases with an associated workplace service and a schedule.](../images/wsd-published-maint-case-wiht-service.png)
+    ![Published plan showing maintenance cases with an associated workplace service and a schedule.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../images/wsd-published-maint-case-wiht-service.png)
 
 4.  Select a maintenance case to open the Case details panel and perform the following to update the record:
 
@@ -57,12 +57,12 @@ Role required: admin
 
         The scheduled job checks for active plan records with a **Next Run time** \(duration-based schedule\) or **Next run value** \(meter-based schedule\) and checks for a schedule template in a plan record. When it finds a schedule template, it creates maintenance cases.
 
-        For more information about how to create a scheduled job and how the scheduled job picks up plan records based on conditions and workplace services, see [Create or copy a maintenance schedule](create-maint-schedule.md) and [Workplace planned maintenance scheduled job](../concept/sch-job-planned-nightly.md).
+        For more information about how to create a scheduled job and how the scheduled job picks up plan records based on conditions and workplace services, see [Create or copy a maintenance schedule](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-schedule.md) and [Workplace planned maintenance scheduled job](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/sch-job-planned-nightly.md).
 
 
-**Parent Topic:**[Manage Workplace Maintenance Management plans](../concept/manage-maintenance-plans.md)
+**Parent Topic:**[Manage Workplace Maintenance Management plans](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/manage-maintenance-plans.md)
 
-**Previous topic:**[Create plan service configuration](create-maint-service-config.md)
+**Previous topic:**[Create plan service configuration](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-service-config.md)
 
-**Next topic:**[Workplace Maintenance Management dashboard and analytics](../concept/workplace-maintenance-management-dashboard-overview.md)
+**Next topic:**[Workplace Maintenance Management dashboard and analytics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/../concept/workplace-maintenance-management-dashboard-overview.md)
 

@@ -15,9 +15,9 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 The **Filter Info** panel summarizes what the current filter shows and enables you to edit the source filter condition, bookmark an interactive analysis, and share an interactive analysis with colleagues.
 
-Interactive analysis assumes that there are interactive filters on the tables you are working in. To create filters, see [Creating Interactive Filters of different types](../reference/r_AvailableHomepagePublisherTypes.md).
+Interactive analysis assumes that there are interactive filters on the tables you are working in. To create filters, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../reference/r_AvailableHomepagePublisherTypes.md).
 
-Click the information icon \(![Info icon](../../common-ui-elements/image/PreviewIcon.png)\) to open the **Filter Info** panel.
+Click the information icon \(![Info icon](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../common-ui-elements/image/PreviewIcon.png)\) to open the **Filter Info** panel.
 
 The information panel has the following features:
 
@@ -38,9 +38,9 @@ The information panel has the following features:
     Shows the full URL of the analysis. Click the URL to highlight it. For more information, see .
 
 
-![Interactive analysis information panel](../../reporting/image/interactive-analysis-info-panel.png "Information panel")
+![Interactive analysis information panel](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/interactive-analysis-info-panel.png "Information panel")
 
-**Parent Topic:**[Interactive Analysis](interactive-analysis.md)
+**Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
 ## Bookmark an interactive analysis
 
@@ -95,7 +95,7 @@ You must have access to the list of records that you want to analyze.
 
 6.  Right-click the URL in the **Share** section and select **Copy**.
 
-    ![Copy interactive filter URL](../../reporting/image/share-if.png)
+    ![Copy interactive filter URL](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/../../reporting/image/share-if.png)
 
 
 ### Result

@@ -18,5 +18,5 @@ Timer activities pause workflows for set periods of time.
 **Related topics**  
 
 
-[Use multiple timer activities in one workflow](c_MltTmActWkflw.md)
+[Use multiple timer activities in one workflow](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_MltTmActWkflw.md)
 

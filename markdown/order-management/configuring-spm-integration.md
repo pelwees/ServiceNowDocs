@@ -35,7 +35,7 @@ Install the PPM Standard \(com.snc.financial\_planning\_pmo\) plugin. If you're 
 
 </td></tr><tr><td>
 
-[Create project templates and project template tasks](creating-project-templates-orders.md)
+[Create project templates and project template tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/creating-project-templates-orders.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Use the Project Portfolio Management application to create the project templates
 
 </td></tr><tr><td>
 
-[Configure field mapping between orders and projects](../task/configure-project-table-mapping.md)
+[Configure field mapping between orders and projects](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/configure-project-table-mapping.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Configure the CSM table maps to associate fields in order lines, domain orders, 
 
 </td></tr><tr><td>
 
-[Set up project oversight conditions and decision rules](setting-up-project-oversight.md)
+[Set up project oversight conditions and decision rules](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/setting-up-project-oversight.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Configure the conditions and decision rules for determining the order lines, dom
 
 </td></tr><tr><td>
 
-[Control the automatic closure of project tasks](../task/control-auto-closure-proj-tasks.md)
+[Control the automatic closure of project tasks](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/order-management/../task/control-auto-closure-proj-tasks.md)
 
 </td><td>
 

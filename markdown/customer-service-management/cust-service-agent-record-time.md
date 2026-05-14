@@ -41,7 +41,7 @@ Navigate to a case or task and select **Record Time**.
 
 </td><td>
 
-Navigate to a case or task, select the more UI actions icon \(![More UI Actions icon.](../image/agent-workspace-more-ui-actions-icon.jpg)\), and select **Record Time**.
+Navigate to a case or task, select the more UI actions icon \(![More UI Actions icon.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/customer-service-management/../image/agent-workspace-more-ui-actions-icon.jpg)\), and select **Record Time**.
 
 </td></tr></tbody>
 </table>    This action opens a Time Worked form with the **Task** and **User** fields already populated.

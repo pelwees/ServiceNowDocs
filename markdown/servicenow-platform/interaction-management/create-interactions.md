@@ -38,14 +38,14 @@ Role required: interaction\_agent
 
 4.  Select **Submit**.
 
-    ![Sample Interaction form.](../image/new-interaction.png)
+    ![Sample Interaction form.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../image/new-interaction.png)
 
 
 ## Result
 
 The interaction is created and assigned to the selected user.
 
-![Assigned interactions for a user.](../image/assigned-interactions.png)
+![Assigned interactions for a user.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../image/assigned-interactions.png)
 
-**Parent Topic:**[Using Interaction Management](../concept/using-interaction-management.md)
+**Parent Topic:**[Using Interaction Management](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/../concept/using-interaction-management.md)
 

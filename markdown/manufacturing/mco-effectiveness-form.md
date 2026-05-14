@@ -20,5 +20,5 @@ This form enables you to add the effectiveness information.
 |Effectiveness reason code|Reason why the plan was not fully effective \(if applicable\).|
 |Effectiveness notes|Additional notes on review result, failures, or supporting evidence.|
 
-**Parent Topic:**[General form](mco-general-form.md)
+**Parent Topic:**[General form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/manufacturing/mco-general-form.md)
 

@@ -27,7 +27,7 @@ Role required: admin
 
     The Configuration Console page shows up.
 
-    ![Image showing config page](../image/ia-config-page.png)
+    ![Image showing config page](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-config-page.png)
 
 2.  Select Configuration Summary on the left panel of the Configuration Console page.
 
@@ -41,7 +41,7 @@ Role required: admin
 
 3.  Select **Get Started** on the modules.
 
-    You are redirected to the first configuration of the selected module. See [Platform module configuration in Now Assist for Setup](../reference/ia-config-platform-il.md) for more information on Platform configuration steps.
+    You are redirected to the first configuration of the selected module. See [Platform module configuration in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../reference/ia-config-platform-il.md) for more information on Platform configuration steps.
 
 4.  Expand the left panel configurations to view the pre-configured configurations.
 
@@ -82,7 +82,7 @@ Role required: admin
 
     **Note:** Select How this works link to find more information about the console items. The following modal shows up with these options on selecting the help link.
 
-    ![Screenshot showing the help link modal](../image/ia-help-link-modal.png)
+    ![Screenshot showing the help link modal](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../image/ia-help-link-modal.png)
 
 10. Select **Mark as configured** when you complete the configuration process of a configuration.
 
@@ -107,5 +107,5 @@ Role required: admin
 
 After the configuration completes, you can promote the changes to test or production instances by re-running the auto-installation, committing retrieved update sets, and validating ATF tests.
 
-**Parent Topic:**[Configure in Now Assist for Setup](../concept/ia-config-landing.md)
+**Parent Topic:**[Configure in Now Assist for Setup](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-administration/../concept/ia-config-landing.md)
 

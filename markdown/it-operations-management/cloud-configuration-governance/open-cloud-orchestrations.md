@@ -23,7 +23,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 1.  On the instance \(not the Cloud User Portal\), enter the following text into the application filter:
 
-    ![Opening cloud orchestrations](../image/snmp-order-list.png)
+    ![Opening cloud orchestrations](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/snmp-order-list.png)
 
     The list of Cloud Orchestrations appear.
 
@@ -35,7 +35,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 4.  Review the form fields:
 
-    ![Cloud Orchestrations form](../image/cloud-orchestration-form.png)
+    ![Cloud Orchestrations form](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/../image/cloud-orchestration-form.png)
 
     The example form shows you the type of message you can see when an operation fails due to the incorrect credentials. The OrderForm Data field shows the Sys ID of the credential record and the service account ID.
 

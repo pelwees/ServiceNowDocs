@@ -37,7 +37,7 @@ Role required: admin
         |oper|is|
         |Value|Select the specification from the list of records for domain order.|
 
-        ![task plan template.](../image/task-plan-condition.png)
+        ![task plan template.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/telecom-media-technology/../image/task-plan-condition.png)
 
     -   Select **+New condition set** to add a new condition.
 

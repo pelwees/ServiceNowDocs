@@ -15,5 +15,5 @@ breadcrumb: [Purchasing punchout third-party suppliers, Using Shopping Hub, Use,
 
 The following figure illustrates the checkout experiences for shoppers based on whether they have installed Employee Center, Shopping Hub, or both.
 
-![This figure illustrates the shopper's checkout experiences based on installed applications](../image/ec-sh-checkout-exp.png "Shopper checkout experiences")
+![This figure illustrates the shopper's checkout experiences based on installed applications](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/../image/ec-sh-checkout-exp.png "Shopper checkout experiences")
 

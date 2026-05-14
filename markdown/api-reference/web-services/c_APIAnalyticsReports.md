@@ -23,7 +23,7 @@ Role required: api\_analytics\_read, web\_service\_admin, or admin
 
 The REST &amp; SOAP API Analytics dashboard contains Usage Overview, Usage by API, and Usage by Requestor analytics. From the Usage by API and Usage by Requestor tabs, you can filter by API and requestor get more specific insights.
 
-![Usage Overview tab of the REST & SOAP API Analytics dashboard.](../image/analytics-usage-overview.png "REST & SOAP API Analytics dashboard")
+![Usage Overview tab of the REST & SOAP API Analytics dashboard.](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../image/analytics-usage-overview.png "REST & SOAP API Analytics dashboard")
 
 ## Procedure
 
@@ -78,12 +78,12 @@ If the selected user has not made requests to the selected API, no data is shown
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[Analyze REST and SOAP API usage](c_APIAnalytics.md)
+**Parent Topic:**[Analyze REST and SOAP API usage](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/c_APIAnalytics.md)
 
 **Related topics**  
 
 
-[Use the REST API Explorer](../../inbound-rest/concept/use-REST-API-Explorer.md)
+[Use the REST API Explorer](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/api-reference/web-services/../../inbound-rest/concept/use-REST-API-Explorer.md)
 
 [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
 

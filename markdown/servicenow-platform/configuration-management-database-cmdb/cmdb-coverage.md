@@ -19,19 +19,19 @@ The ServiceNow® CMDB Coverage application enables you to assess and improve the
 
 <table id="table_wxz_lyn_l3c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore![](../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of CMDB Coverage](cmdb-coverage-explore.md)
+[Explore![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-explore.svg)Learn about the benefits of CMDB Coverage](cmdb-coverage-explore.md)
 
 </td><td>
 
-[Configure![](../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application](../task/cmdb-coverage-configure-initialize.md)
+[Configure![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-sdlc.svg)Configure the application](../task/cmdb-coverage-configure-initialize.md)
 
 </td></tr><tr><td>
 
-[Use![](../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create discovery schedules, set up or review IPAM connectors, and review CMDB tables](cmdb-coverage-use.md)
+[Use![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-optimize-manage.svg)Create discovery schedules, set up or review IPAM connectors, and review CMDB tables](cmdb-coverage-use.md)
 
 </td><td>
 
-[Reference![](../../../reuse/icons/brand-icons/bus-learn.svg)Details about the properties, scheduled jobs, and tables used by CMDB Coverage](cmdb-coverage-reference.md)
+[Reference![](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/../../../reuse/icons/brand-icons/bus-learn.svg)Details about the properties, scheduled jobs, and tables used by CMDB Coverage](cmdb-coverage-reference.md)
 
 </td></tr></tbody>
 </table>## Helpful resource

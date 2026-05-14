@@ -19,9 +19,9 @@ Accounts performing both UI and API login displays the accounts that using UI an
 
 **Note:** The accounts displayed on the page are based on activity over the past 30 days and any changes made today is reflected after 30 days.
 
-![Accounts performing both UI and API logins](../images/mic-ui-login-integration.png)
+![Accounts performing both UI and API logins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-ui-login-integration.png)
 
 You can select the machine identity name to know more about the account and the recommendation to maintain a good security posture for the account.
 
-![Recommendations for the accounts performing both UI and API logins](../images/mic-recommendation-ui-login.png)
+![Recommendations for the accounts performing both UI and API logins](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/platform-security/identity/../images/mic-recommendation-ui-login.png)
 

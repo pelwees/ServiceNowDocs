@@ -52,7 +52,7 @@ Formatting applies for aggregate values.
 
 -   **Rounding**
 
-    For values greater than one minute, simplifies a number by rounding, while keeping it close to its value. See [Rounding options](value-formatting-reports.md#section_pb5_v5n_nnb).
+    For values greater than one minute, simplifies a number by rounding, while keeping it close to its value. See [Rounding options](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/value-formatting-reports.md#section_pb5_v5n_nnb).
 
 -   **Use the thousands group separator**
 
@@ -117,7 +117,7 @@ Summary of rounding options:
 |-2.5|-3|-2|-2|-3|-3|-2|-2|
 |-5.5|-6|-5|-5|-6|-6|-5|-6|
 
-**Parent Topic:**[Advanced Core UI reporting topics](../concept/c_AdvancedReporting.md)
+**Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../concept/c_AdvancedReporting.md)
 
 ## Configure formatted values in reports
 
@@ -141,6 +141,6 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
     Value formatting options for a single score report with Count aggregation:
 
-    ![Value formatting example](../image/value-formatting-example.png)
+    ![Value formatting example](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/now-intelligence/reporting/../image/value-formatting-example.png)
 
 

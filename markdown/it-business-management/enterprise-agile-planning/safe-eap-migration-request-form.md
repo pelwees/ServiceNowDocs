@@ -97,12 +97,12 @@ Status of the migration request.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[Enterprise Agile Planning reference](eap-reference.md)
+</table>**Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
 **Related topics**  
 
 
-[Start migration of SAFe data to EAP](../task/migrate-safe-data-to-eap.md)
+[Start migration of SAFe data to EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../task/migrate-safe-data-to-eap.md)
 
-[Migrating from SAFe to EAP](../concept/migrating-from-safe-to-eap.md)
+[Migrating from SAFe to EAP](https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/../concept/migrating-from-safe-to-eap.md)
 
